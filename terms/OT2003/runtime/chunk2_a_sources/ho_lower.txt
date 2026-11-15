@@ -1,0 +1,481 @@
+Primary judicial text: https://law.resource.org/pub/us/case/reporter/F3/311/311.F3d.589.01-20460.html
+
+311 F.3d 589
+
+UNITED STATES of America, Plaintiff-Appellee-Cross-Appellant,
+
+v.
+
+Eric Kung-Shou HO, Defendant-Appellant-Cross-Appellee.
+
+No. 01-20460.
+
+United States Court of Appeals, Fifth Circuit.
+
+October 31, 2002.
+
+Rehearing Denied December 4, 2002.
+
+COPYRIGHT MATERIAL OMITTED Robert Harris Oakley (argued), Greer S. Goldman, John Smeltzer, U.S. Dept. of Justice, Environment & Natural Resources Div., Washington, DC, James Lee Turner, Asst. U.S. Atty., Houston, TX, for U.S.
+
+Michael E. Clark (argued), Lee Hamel, Hamel, Bowers & Clark, Houston, TX, Samuel J. Buffone, Ropes & Gray, Washington, DC, for Ho.
+
+Appeal from the United States District Court for the Southern District of Texas, Justin L. Quackenbush, J.
+
+Before DAVIS, JONES and SMITH, Circuit Judges.
+
+JERRY E. SMITH, Circuit Judge:
+
+1
+Eric Ho appeals his conviction under the Clean Air Act ("CAA"), 42 U.S.C. § 7401 et seq., and its regulations. The government cross-appeals the refusal to impose two sentencing enhancements. We affirm the conviction but vacate the sentence and remand for re-sentencing.
+
+I.
+
+2
+Ho is a naturalized citizen who emigrated to Houston from the Republic of China in the 1970's. He owns and operates a produce supply company, Houston Fruitland, and a trucking company, Ho Ho Ho Express, Inc. He was convicted of failure to comply with asbestos work practice standards, 42 U.S.C. § 7413(c)(1), and failure to give notice of intent to remove asbestos, 42 U.S.C. § 7413(c)(2)(B).
+
+A.
+
+3
+In October 1997, Ho entered negotiations to purchase the abandoned Alief General Hospital and Professional Building in Houston. During negotiations, the owner's agent told Ho's broker, who told Ho, that a 1994 environmental site assessment had revealed extensive asbestos in the hospital's fireproofing; that asbestos abatement could cost as much as $400,000; and that the owner was selling the property "as is." The owner and Ho ultimately agreed to a price of $700,000 instead of the initial asking price of $1.1 million. The contract included a Commercial Property Condition Statement to the effect that the property contained asbestos. Ho signed the statement, thereby acknowledging the presence of asbestos.
+
+4
+Ho soon contacted a project manager at Laughlin Environmental, a licensed asbestos abatement company, to obtain a bid for asbestos removal. The manager prepared a bid of $325,000 to remove and dispose of all asbestos in the two buildings. Ho quickly rejected the bid as too high, so the manager offered a second bid of cost plus ten percent; Ho never responded.
+
+5
+Instead, Ho initiated his own hospital renovation project in December 1997. He did not give advance notice to the Environmental Protection Agency ("EPA") or the Texas Department of Health ("TDH") of his intent to renovate a building that would involve the removal and disposal of asbestos; this failure violated 40 C.F.R. § 61.145(b). Ho hired Manuel Escobedo, his sometimes handyman, to supervise the work, though Ho often visited the hospital site himself. Ho also hired Corson Tate to begin renovations in the professional building.
+
+6
+Escobedo, in turn, hired at least ten Mexican nationals—apparently in the United States illegally—to perform the renovation and asbestos removal work. Escobedo paid the workers by submitting their time sheets to Ho's accountant, receiving and cashing a check, and paying the workers in cash.
+
+7
+After removing sheetrock partitions and ceiling tiles from the first floor of the hospital, the workers, who had no experience or training in asbestos removal, began in mid-January 1998 to remove the asbestos-containing fireproofing. Neither Ho nor Escobedo told them that the fireproofing contained asbestos or that asbestos is a dangerous carcinogen, nor did they provide the workers with adequate safety equipment.
+
+8
+Against customary asbestos abatement practices, the workers used no water as they removed the fireproofing, but only scraped off the fireproofing, which produced large amounts of asbestos-containing dust inside the hospital. As the workers removed the fireproofing, they placed it in plastic bags. Although they generally left the bags open and inside the hospital, on one occasion a worker placed several bags in an outside dumpster, but Escobedo immediately instructed him to retrieve the bags and leave them inside the hospital. The hospital remained unsealed throughout, with several open doors and windows and a large hole in the second floor exterior wall. None of these practices complied with asbestos work practice standards. See 40 C.F.R. § 61.145.
+
+9
+On February 2, 1998, Tim Stewart, a building inspector for the City of Houston, visited the hospital to investigate a complaint of renovation work without a city permit. Stewart observed the workers as they removed the fireproofing with putty knives without water or adequate safety equipment. Stewart also noted that the hospital was unsealed. He therefore issued a stop-work order and placed a red tag on the main entrance to the hospital indicating that work could not proceed without a city building permit. The workers left shortly thereafter, and Tate delivered the stop-work order to Ho.
+
+10
+Ho then contacted an operations manager at Alamo Environmental, a licensed asbestos abatement company in San Antonio, for an estimate to remove the remaining asbestos-containing material. The manager met Ho at the hospital on February 10 and sent him an estimate of $159,876 on February 13. Ho decided not to hire Alamo Environmental but, instead, to renew his own renovation project.
+
+11
+To avoid the stop-work order and further inspections, Ho re-hired the Mexican workers and instructed them to work at night, asking one of the workers, Jaime Contreras, to supervise. (Escobedo had fallen ill shortly after the stop-work order was issued.) Ho also visited the hospital frequently and on a few occasions personally supervised the workers. The pace of the project soon dissatisfied Ho, however, so he began to offer the workers performance incentives to complete sections of the hospital. Ho also hired Tate to provide supplies to the workers and monitor their hours; Ho and Tate reduced this agreement to a written contract.
+
+12
+The workers completed the asbestos removal on March 10, 1998. Ho told Tate to wash down the inside of the hospital using a water line outside the hospital. Unfortunately, the "water line" was in fact a pressurized gas line.
+
+13
+After Tate removed the cap on the line, he started his nearby van. The spark from the ignition and the open gas line caused an explosion. The explosion burned Tate, three workers, and the van and blew a hole in the exterior wall of the hospital.
+
+14
+As a result of the explosion, TDH inspectors Tim Hendrix and Gary Williams inspected the site on March 13, 1998. They found the hospital unsealed, with open windows and doors and, now, two holes in the exterior walls. Fireproofing dust covered floors and shelves, and the building contained roughly 100 open bags of fireproofing and sheetrock residue. Subsequent laboratory analysis of the fireproofing indicated two to twenty percent chrysolite asbestos; any material with more than one percent is subject to federal and state regulations. The inspectors noted several footprints leading from the hospital outdoors, though they could not determine conclusively whether the dust in the footprints was asbestos-containing fireproofing or harmless sheetrock residue.
+
+15
+Over the next few months, Hendrix tried, with little success, to get Ho to seal the hospital and complete the asbestos abatement. Ho initially had one of the Mexican workers place plywood over the hospital's doors and windows, though this measure did not adequately seal the hospital. Ho also obtained multiple estimates for the remaining abatement project. He apparently did not want to pay the still-sizeable cost of abatement, though he finally relented after much importuning by Hendrix.
+
+16
+The Occupational Safety and Health Administration ("OSHA") ultimately initiated an administrative enforcement action against Ho and two of his companies, charging violations of the Occupational Safety and Health Act, 29 U.S.C. § 651 et seq., and its regulations. An administrative law judge upheld the citations and assessed administrative penalties against Ho and his companies in excess of $1 million.1
+
+B.
+
+17
+In October 2000, the grand jury issued a nine-count superseding indictment against Ho and Escobedo. Count 1 charged them with conspiracy to violate the CAA in violation of 18 U.S.C. § 371. Count 2 charged Ho with a failure to give notice of intent to renovate a facility involving the removal of asbestos material in violation of 42 U.S.C. § 7413(c)(2)(B). Count 3 charged Ho with failure to comply with asbestos work practice standards in violation of 42 U.S.C. § 7413(c)(1). Count 4 charged Ho with failure to notify the appropriate agency of a release of asbestos in a violation of 42 U.S.C. § 9603(b). Count 5 charged Ho with a knowing release of asbestos into the ambient air, which placed another person in imminent danger of death or serious bodily injury in violation of 42 U.S.C. § 7413(c)(5)(A). Count 6 charged Ho with making a false and material statement to OSHA and the Department of Labor in violation of 18 U.S.C. § 1001. The remaining three counts charged Escobedo with various crimes.
+
+C.
+
+18
+The district court dismissed count 5 after a pre-trial hearing. At the conclusion of the government's case at trial, the court dismissed Count 4 with prejudice and directed a verdict of not guilty on Count 1. The jury convicted Ho on counts 2 and 3 and acquitted him on count 6.
+
+D.
+
+19
+In his presentence report, the probation officer recommended an offense level of 18. First, he grouped, as two or more acts connected by a common criminal objective or part of a common scheme or plan, the convictions for failure to give notice of intent to remove asbestos and failure to comply with asbestos work practice standards. U.S.S.G. § 3D1.2(b). Second, he began with a base offense level of 8. U.S.S.G. § 2Q1.2(a). Third, he recommended a six-level enhancement for repetitive discharge of asbestos into the environment. U.S.S.G. § 2Q1.2(b)(1)(A). Fourth, he recommended a four-level enhancement for Ho's role as an organizer or leader of an extensive criminal scheme. U.S.S.G. § 3B1.1(a). These enhancements resulted in a recommended total offense level of 18, for a sentencing range of 27-33 months.
+
+20
+The government objected to the PSR's failure to include an upward enhancement based on the workers' alleged status as "vulnerable victims." U.S.S.G. § 3A1.1(b). Ho objected to the enhancements and requested a downward departure on several grounds.
+
+21
+At the sentencing hearing, the district court calculated a total offense level of 10. The court accepted the base offense level of 8. The court did not add the six-level enhancement for repetitive discharge of asbestos into the environment, because it concluded that the government had not proven discharge by a preponderance of the evidence. The court also declined to add the four-level enhancement, because it concluded that the criminal activity was not "otherwise extensive" under § 3B1.1(a), but the court added the two-level enhancement for leadership of a small criminal activity under § 3B1.1(c). The court rejected all other requests for enhancements or departures.
+
+II.
+
+22
+Ho contends that the laws under which he was convicted exceed Congress's authority under the Commerce Clause, U.S. CONST. art. I, § 8, cl. 3. Guided by the recent landmark cases of United States v. Lopez, 514 U.S. 549, 115 S.Ct. 1624, 131 L.Ed.2d 626 (1995), and United States v. Morrison, 529 U.S. 598, 120 S.Ct. 1740, 146 L.Ed.2d 658 (2000), we disagree.
+
+23
+At the outset, we stress the limited holding of this opinion. We do not confront a facial challenge to the Clean Air Act, but only an as-applied challenge to the work practice standard provision, 42 U.S.C. § 7412(h), and the reporting provision, 42 U.S.C. § 7414(a), of the CAA and their implementing regulations, 40 C.F.R. § 61.145. We thus have neither occasion nor authority to rule on the constitutionality of other provisions of the CAA or other implementing regulations, which we must leave for another day when they are properly presented.
+
+24
+We begin by reviewing the relevant sections of the CAA and their implementing regulations. Next, we examine some first principles of Commerce Clause jurisprudence. We then analyze the reasoning in Lopez and Morrison. Finally, we explain why, under this reasoning, Congress had the authority to enact the sections of the CAA that Ho challenges.
+
+A.
+
+25
+Section 112 of the CAA, 42 U.S.C. § 7412, authorizes the Administrator of the EPA to publish a list of hazardous air pollutants and to establish emission standards for them. These standards are known as "national emission standards for hazardous air pollutants," or NESHAP's.
+
+26
+Section 112(b), 42 U.S.C. § 7412(b), establishes an initial statutory list of hazardous air pollutants, of which asbestos is one, and directs the EPA to update the list periodically. Section 112(c), 42 U.S.C. § 7412(c), directs the EPA to identify each "source category" that emits a particular hazardous air pollutant. Section 112(d), 42 U.S.C. § 7412(d), directs the agency to promulgate NESHAP's to regulate the emission of hazardous air pollutants from these source categories. These provisions are the primary means to regulate emissions of hazardous air pollutants under the CAA.
+
+27
+Section 112(h)(1), 42 U.S.C. § 7412(h)(1), however, authorizes the EPA to adopt work practice standards instead of emission standards "if it is not feasible in the judgment of the Administrator to prescribe or enforce an emission standard for control of a hazardous air pollutant."2 Because asbestos often is not "emitted through a conveyance designed and constructed to emit or capture [it]," 42 U.S.C. § 7412(h)(1)(A), but rather through building demolition and renovation sites, the EPA adopted a work practice standard for handling asbestos in these sites, 40 C.F.R. §§ 61.145, 61.150.3 This work practice standard does not apply generally to any building containing any asbestos, but only to buildings containing certain specific kinds and large amounts of asbestos. 40 C.F.R. §§ 61.145(a), 61.150. The parties do not dispute that the hospital contained the regulated kind and amount of asbestos or, therefore, that the work practice standard covered the hospital.4
+
+28
+The asbestos work practice standard regulates, in minute detail, the handling of asbestos in building renovation sites. 40 C.F.R. § 61.145(c). For example, material containing asbestos must be wetted during removal, kept sufficiently wet after removal to prevent the release of asbestos fibers, and stored in leak-tight containers until properly disposed. A foreman or management-level officer, trained in complying with these work practice standards, must be present at any site before workers may handle material containing asbestos. We could give more details of the numerous requirements, but it is enough to say that Ho admits he did not comply with the asbestos work practice standard.
+
+29
+Section 114(a), 42 U.S.C. § 7414(a), also authorizes the EPA to adopt reporting requirements to ensure compliance with a work practice standard. Pursuant to § 114(a), the asbestos work practice standard therefore imposes an elaborate reporting requirement on owners or operators of a building renovation site. 40 C.F.R. § 61.145(b). The heart of this requirement is that the owner or operator must give the EPA timely notice (usually ten days) of intent to begin asbestos removal. Again, we could continue with the details of this requirement, but Ho admits that he did not give notice.
+
+30
+Section 113, 42 U.S.C. § 7413, contains administrative, civil, and criminal enforcement mechanisms for the asbestos work practice standard and the notice requirement. Ho was convicted under two of these criminal enforcement provisions. Section 113(c)(1), 42 U.S.C. § 7413(c)(1), imposes criminal penalties on "[a]ny person who knowingly violates any ... requirement or prohibition of ... section 7412 of this title, ... including a requirement of any rule ... promulgated or approved under such section[.]" Section 113(c)(2)(B), 42 U.S.C. § 7413(c)(2)(B), imposes criminal penalties on "[a]ny person who knowingly fails to notify or report as required under this chapter."
+
+31
+We now summarize this complicated statutory and regulatory framework before addressing the Commerce Clause. The affirmative legal duties Ho violated—(1) failure to follow proper work practice standards while removing asbestos and (2) failure to give notice of intent to remove asbestos—appear in the asbestos work practice standard, 40 C.F.R. § 61.145. The EPA adopted the work practice standard under §§ 112(h) and 114(a) of the CAA, 42 U.S.C. §§ 7412(h), 7414(a). The government prosecuted Ho for these violations under § 113(c)(1), (c)(2)(B) of the CAA, 42 U.S.C. § 7413(c)(1), (c)(2)(B). Ho now challenges these sections as applied to him.
+
+B.
+
+32
+As did the Court in Lopez, so too do "[w]e start with first principles." Lopez, 514 U.S. at 552, 115 S.Ct. 1624. The Constitution creates a federal government of limited and enumerated powers, id., and in particular a Congress of limited and enumerated powers. The Article I Vesting Clause confirms this proposition, vesting in Congress "[a]ll legislative powers herein granted." U.S. CONST. art. I, § 1. This clause necessarily implies that some legislative powers are not "herein granted," foremost among them "the police power, which the Founders denied the National Government and reposed in the states." Morrison, 529 U.S. at 618 and n. 8, 120 S.Ct. 1740.
+
+33
+"This constitutionally mandated division of authority `was adopted by the Framers to ensure protection of our fundamental liberties. Just as the separation and independence of the coordinate branches of the Federal Government serve to prevent the accumulation of excessive power in any one branch, a healthy balance of power between the States and the Federal Government will reduce the risk of tyranny and abuse from either front.'" Lopez, 514 U.S. at 552, 115 S.Ct. 1624 (quoting Gregory v. Ashcroft, 501 U.S. 452, 458, 111 S.Ct. 2395, 115 L.Ed.2d 410 (1991) (citations omitted)).
+
+34
+Among the legislative powers the Constitution did grant to Congress is the power "to regulate Commerce with foreign Nations, and among the several States, and with the Indian Tribes." Art. I, § 8, cl. 3. Though seldom used in the nineteenth century, the Commerce Clause5 became the chief engine for federal regulatory and criminal statutes in the latter two-thirds of the twentieth century. See Lopez, 514 U.S. at 552-556, 115 S.Ct. 1624 (describing the doctrinal history of the Commerce Clause). The Court explained in Lopez that NLRB v. Jones & Laughlin Steel Corp., 301 U.S. 1, 57 S.Ct. 615, 81 L.Ed. 893 (1937) (upholding the National Labor Relations Act), United States v. Darby, 312 U.S. 100, 61 S.Ct. 451, 85 L.Ed. 609 (1941) (upholding the Fair Labor Standards Act), and Wickard v. Filburn, 317 U.S. 111, 63 S.Ct. 82, 87 L.Ed. 122 (1942) (upholding the Agricultural Adjustment Act of 1938), "ushered in an era of Commerce Clause jurisprudence that greatly expanded the previously defined authority of Congress under that Clause." Lopez, 514 U.S. at 556, 115 S.Ct. 1624.
+
+35
+Yet, "even these modern-era precedents which have expanded congressional power under the Commerce Clause confirm that this power is subject to outer limits." Id. at 556-57, 115 S.Ct. 1624. Indeed, even in Jones & Laughlin Steel, 301 U.S. at 37, 57 S.Ct. 615, the Court emphasized that the Commerce Clause "may not be extended so as to embrace effects upon interstate commerce so indirect and remote that to embrace them, in view of our complex society, would effectually obliterate the distinction between what is national and what is local and create a completely centralized government."
+
+36
+This alarming and dangerous prospect, and the concomitant need to identify judicially enforceable limits on the Commerce Clause, seem to have been a motivating force behind the Supreme Court's recent jurisprudence.6 Without any judicially enforceable limits and with inevitable political pressures, the Commerce Clause all too easily would become the general police power denied to Congress by the Constitution.
+
+37
+Morrison and Lopez therefore reaffirm our longstanding duty to enforce the limits of the Commerce Clause. Naturally, "[d]ue respect for the decisions of a coordinate branch of Government demands that we invalidate a congressional enactment only upon a plain showing that Congress has exceeded its constitutional bounds." Morrison, 529 U.S. at 607, 120 S.Ct. 1740. At the same time, however, the constitutionality of any statute, including a statute enacted under the Commerce Clause, "is ultimately a judicial rather than a legislative, question, and can be settled finally only by [the Supreme] Court," and initially by the lower federal courts. Id. at 614, 120 S.Ct. 1740.7
+
+C.
+
+38
+The Supreme Court's Commerce Clause jurisprudence sometimes has yielded vague and uncertain legal standards. As the Court explained in Lopez, "[t]he Constitution mandates this uncertainty by withholding from Congress a plenary police power that would authorize enactment of every type of legislation." Lopez, 514 U.S. at 566, 115 S.Ct. 1624. Legal standards for the Commerce Clause "are not precise formulations, and in the nature of things they cannot be." Id. at 567, 115 S.Ct. 1624. In Lopez and Morrison, however, the Court helpfully clarified the legal standards to be applied in a constitutional challenge to a statute under the Commerce Clause.
+
+39
+In Lopez, the Court restated the "three broad categories of activity that Congress may regulate under its commerce power." Id. at 558, 115 S.Ct. 1624. "First, Congress may regulate the use of the channels of interstate commerce." Id. (citing Heart of Atlanta Motel, Inc. v. United States, 379 U.S. 241, 256-67, 85 S.Ct. 348, 13 L.Ed.2d 258 (1964); United States v. Darby, 312 U.S. 100, 114-15, 61 S.Ct. 451, 85 L.Ed. 609 (1941)). This category includes the regulation of highways, railroads, air routes, navigable rivers, and telecommunications networks. See United States v. Robinson, 119 F.3d 1205, 1210 (5th Cir.1997). The category also "reaches the `misuse' of the channels of interstate commerce." Bird, 124 F.3d at 673. For example, within this category Congress has regulated the interstate transport or shipment of stolen goods, 18 U.S.C. § 2314; kidnaped persons, 18 U.S.C. § 1201; prostitutes, 18 U.S.C. § 2421 and illegal lottery tickets, The Lottery Case (Champion v. Ames), 188 U.S. 321, 23 S.Ct. 321, 47 L.Ed. 492 (1903).
+
+40
+"Second, Congress is empowered to regulate and protect the instrumentalities of interstate commerce, even though the threat may come only from intrastate activities."8 When Congress regulates within this category, it must "ensure that, in fact, a particular `threat'—whether posed by an interstate or intrastate activity—actually threatens persons or things with a plain and clear nexus to interstate commerce." Bird, 124 F.3d at 674. Characteristic examples of regulation in this category include destruction of an aircraft, 18 U.S.C. § 32, and theft from interstate shipments, 18 U.S.C. § 659. See Lopez, 514 U.S. at 558, 115 S.Ct. 1624 (citing Perez, 402 U.S. at 150, 91 S.Ct. 1357).
+
+41
+"Finally, Congress' commerce authority includes the power to regulate those activities having a substantial relation to interstate commerce, i.e., those activities that substantially affect interstate commerce." Id. at 558-59, 115 S.Ct. 1624 (citing Maryland v. Wirtz, 392 U.S. 183, 196 n. 27, 88 S.Ct. 2017, 20 L.Ed.2d 1020 (1968); Jones & Laughlin Steel, 301 U.S. at 36-38, 57 S.Ct. 615 (1937)). The Court acknowledged in Lopez that its "case law has not been clear whether an activity must `affect' or `substantially affect' interstate commerce in order to be within Congress' power to regulate it under the Commerce Clause." Id. at 559, 115 S.Ct. 1624. The Court firmly concluded, though, that "the proper test requires an analysis of whether the regulated activity `substantially affects' interstate commerce." Id.
+
+42
+Thus, this third category is often known as the "substantial effect" test. Although it is the most expansive category—or perhaps because it is the most expansive—it has generated the most controversy and uncertainty.9
+
+43
+One fairly certain principle is that the substantial effect test allows Congress to regulate purely intrastate activities. The Supreme Court has "upheld a wide variety of congressional Acts regulating intrastate economic activity where [it has] concluded that the activity substantially affected interstate commerce." Id. The Court in Lopez did not purport to disturb the settled rule that "[w]here economic activity substantially affects interstate commerce, legislation regulating that activity will be sustained." Id. at 560, 115 S.Ct. 1624.
+
+44
+A regulation of intrastate commercial activity can satisfy the substantial effect test in two ways. First, it can reach intrastate commercial activity that by itself substantially affects interstate commerce. Jones & Laughlin Steel is a case in point. A steel company challenged an order of the NLRB that it had engaged in unfair labor practices at a steel mill. Jones & Laughlin, 301 U.S. at 22, 57 S.Ct. 615. The company contended that the NLRB's order violated the Commerce Clause because it amounted to congressional regulation of a wholly intrastate economic activity. Id. at 40-41, 57 S.Ct. 615. The Court rejected this argument, because "the stoppage of those [steel manufacturing] operations by industrial strife would have a most serious effect upon interstate commerce.... It is obvious that it would be immediate and might be catastrophic." Id. at 41, 57 S.Ct. 615. Thus, the Court upheld the order as a valid regulation of intrastate commercial activity, i.e., labor relations at a steel mill, which alone substantially affects interstate commerce.
+
+45
+Second, the regulation can reach intrastate commercial activity that by itself is too trivial to have a substantial effect on interstate commerce but which, when aggregated with similar and related activity, can substantially affect interstate commerce. This rule has come to be known as the "aggregation" principle, which reached its zenith in Wickard, "perhaps the most far reaching example of Commerce Clause authority over intrastate activity." Lopez, 514 U.S. at 560, 115 S.Ct. 1624. The farmer in Wickard grew wheat on his small farm. Wickard, 317 U.S. at 114, 63 S.Ct. 82. Under the Agricultural Adjustment Act of 1938, he was entitled to a quota of about eleven acres of wheat, but he grew about twenty-three acres, which he used for seeding, feeding, selling, and home consumption. Id. at 114-15, 63 S.Ct. 82. The Secretary of Agriculture assessed a penalty against him for exceeding his quota. Id. at 115, 63 S.Ct. 82. The Court upheld the penalty because, though the farmer's "own contribution to the demand for wheat may be trivial by itself ... his contribution, taken together with that of many others similarly situated, is far from trivial." Id. at 127-28, 63 S.Ct. 82. Wickard thus stands at the head of "cases upholding regulations of activities that arise out of or are connected with a commercial transaction, which viewed in the aggregate, substantially affects interstate commerce." Lopez, 514 U.S. at 561, 115 S.Ct. 1624.
+
+46
+Whether and how Congress may apply the aggregation principle are controversial questions. The pitfalls are apparent. For example, any imaginable activity of mankind can affect the alertness, energy, and mood of human beings, which in turn can affect their productivity in the workplace, which when aggregated together could reduce national economic productivity. Such reasoning would eliminate any judicially enforceable limit on the Commerce Clause, thereby turning that clause into what it most certainly is not, a general police power. Thus, in Lopez, 514 U.S. at 564, 115 S.Ct. 1624, the Court expressly rejected such reasoning.
+
+47
+In fact, as we have observed, the need for some judicially enforceable limit on the aggregation principle seemed to motivate the analysis in Lopez and Morrison. The Court therefore has identified four "significant considerations" for Congress's power to invoke the aggregation principle to regulate wholly intrastate activities. Morrison, 529 U.S. at 609, 120 S.Ct. 1740.
+
+48
+The Court first identified these considerations in Lopez, which held that the Gun-Free School Zones Act of 1990, 18 U.S.C. § 922(q)(1)(A), which made it a federal crime knowingly to possess a firearm in a school zone, exceeded Congress's authority under the Commerce Clause. The Court re-emphasized these considerations in Morrison, which held that the civil remedy provision of the Violence Against Women Act, 42 U.S.C. § 13981, which created a federal civil remedy for victims of sex-based violence, also exceeded Congress's authority under the Commerce Clause. We examine these four considerations with a view to the scope of the aggregation principle.
+
+49
+The first consideration is the economic or commercial nature of the regulated intrastate activity. In Lopez, the Court seemed to restrict the aggregation principle to economic activity, which did not include gun possession in a school zone. Lopez, 514 U.S. at 559-61, 115 S.Ct. 1624. Morrison clarified Lopez somewhat on this point, explaining that "[w]hile we need not adopt a categorical rule against aggregating the effects of any noneconomic activity in order to decide [Morrison], thus far in our Nation's history our cases have upheld Commerce Clause regulation of intrastate activity only where the activity is economic in nature," which sex-based violence most certainly is not. Morrison, 529 U.S. at 613 (emphasis added). Thus, it remains an open question, as yet unsettled by the Supreme Court, whether the aggregation principle extends to non-economic activity.10
+
+50
+The second consideration is a jurisdictional element in the challenged statute that "might limit its reach to a discrete set of [regulated intrastate activities] that additionally have an explicit connection with or effect on interstatecommerce." Lopez, 514 U.S. at 562. A jurisdictional element may ensure that a statute, as applied, substantially affects interstate commerce.11
+
+51
+To be sure, though, Morrison clarified that a jurisdictional element is not sufficient to establish the constitutionality of a challenged statute: "Such an element may establish that the enactment is in pursuance of Congress' regulation of interstate commerce." Morrison, 529 U.S. at 612 (emphasis added). We therefore have held that a "jurisdictional element is not alone sufficient to render [a challenged statute] constitutional. That argument ... has no principled limit." United States v. Kallestad, 236 F.3d 225, 229 (5th Cir.2000).
+
+52
+Thus, Congress may not add the words "interstate commerce" to every statute and expect the courts meekly to comply. In any event, neither § 922(q)(1)(A) nor § 13981 contains a jurisdictional element to restrict its scope or justify use of the aggregation principle.
+
+53
+The third consideration is congressional findings regarding the regulated intrastate activity's substantial effects on interstate commerce. This consideration is the least important when determining whether Congress may invoke the aggregation principle. In Lopez, 514 U.S. at 557 n. 2, the Court noted that "[s]imply because Congress may conclude that a particular activity substantially affects interstate commerce does not necessarily make it so." (Citation omitted.) By the same token, the Court noted that "Congress normally is not required to make formal findingsas to the substantial burdens that an activity has on interstate commerce." Id. at 562.
+
+54
+In other words, congressional findings are neither necessary nor sufficient for Congress to invoke the aggregation principle, but merely are helpful insofar as they aid the courts in identifying a substantial effect on commerce "even though no such substantial effect [is] visible to the naked eye." Id. at 563. Although § 922(q)(1)(A) contained no findings, the Court's deeds in Morrison backed up its words in Lopez, because the Court rejected reams of findings collected after years of legislative inquiry as insufficient to support § 13981. Morrison, 529 U.S. at 614-15.
+
+55
+The fourth and final consideration is the degree of attenuation between the regulated intrastate activity and the substantial effect on interstate commerce. This consideration especially is designed to impose some judicially enforceable limit on the aggregation principle and to prevent the Commerce Clause from becoming a general police power.
+
+56
+In Lopez, the government argued that discrete instances of gun possession in a school zone, when aggregated, increased the costs of crime and reduced national productivity. Lopez, 514 U.S. at 563-64, 115 S.Ct. 1624. The Court rejected the cost-of-crime rationale for aggregation, because it would allow Congress to regulate "all activities that might lead to violent crime, regardless of how tenuously they relate to interstate commerce." Id. at 564, 115 S.Ct. 1624. Likewise, the Court rejected the national productivity rationale, because it would allow Congress to regulate any activity related to economic productivity including, for example, "marriage, divorce, and child custody." Id. Such rationales left the Court "hard pressed to posit any activity by an individual that Congress is without power to regulate." Id.
+
+57
+In Morrison, the Court rejected similar arguments about the alleged substantial effects of sex-based violence, when aggregated, on employment, production, transit, and consumption. Morrison, 529 U.S. at 614-16, 120 S.Ct. 1740. If Congress could regulate sex-based violence because of these effects on interstate commerce, it could regulate all violence, because sex-based violence, as a subset of all violence, certainly has a smaller effect than does all violence. Id. at 615, 120 S.Ct. 1740. This kind of attenuated reasoning is "unworkable if we are to maintain the Constitution's enumeration of powers." Id. at 615, 120 S.Ct. 1740.
+
+58
+Lopez and Morrison, therefore, foreclose congressional use of the aggregation principle where the alleged relationship between the regulated intrastate activity and the substantial effect on interstate commerce is so attenuated that it would justify all regulation, i.e., would turn the Commerce Clause into a general police power. To do so would erase "the distinction between what is truly national and what is truly local." Lopez, 514 U.S. at 567-68, 115 S.Ct. 1624 (citing Jones & Laughlin Steel, 301 U.S. at 30, 57 S.Ct. 615).
+
+D.
+
+59
+With these standards in mind, we uphold, as a valid exercise of Congress's commerce power, the provisions of the CAA under which Ho was convicted. We review the constitutionality of a federal statute de novo. Kallestad, 236 F.3d at 227.
+
+60
+Ho feverishly insists that the government never proved that asbestos was released from the hospital into the ambient air, which necessarily means that no asbestos from the hospital polluted interstate air. Yet, the government did not need to prove that Ho polluted the ambient air to convict him.
+
+61
+Indeed, we may assume arguendo, for purposes of the Commerce Clause analysis, that no asbestos escaped the hospital, because Ho was not convicted of releasing asbestos into the ambient air; the district court dismissed this count after a pre-trial hearing. Instead, Ho was convicted of failure to comply with the asbestos work practice standard and failure to give notice of intent to remove asbestos. 42 U.S.C. §§ 7412(h), 7414(a); 40 C.F.R. § 61.145. The conviction rest on purely intrastate activities, no doubt, but Jones & Laughlin Steel and Wickard long ago established, and Lopez and Morrison recently reaffirmed, that Congress may regulate wholly intrastate activities that substantially affect interstate commerce.
+
+62
+The government concedes that the application of the asbestos work practice standard to Ho can be justified only under the substantial effect test. The standard does not regulate the channels of interstate commerce or prohibit the interstate shipment of a good or commodity through these channels. Nor does it seek to protect the instrumentalities of or a thing or person in interstate commerce. Thus, if the conviction is to be sustained, "it must be under the third category as a regulation of an activity that substantially affects interstate commerce." Lopez, 514 U.S. at 559, 115 S.Ct. 1624.
+
+63
+Furthermore, the government concedes that the asbestos work practice standard can satisfy the substantial effect test only through the aggregation principle. The government does not seriously contend that Ho's isolated violation of the work practice standard at a single renovation site could, by itself, have a substantial effect on interstate commerce. Instead, the government argues that similar violations, when aggregated, could substantially affect the interstate market for asbestos removal services and the interstate market for commercial real estate.12
+
+64
+Thus, this case presents the limited question whether the aggregation principle extends to violations of the asbestos work practice standard. We apply the Lopez-Morrison considerations to answer in the affirmative.
+
+65
+First, the regulated intrastate activity, asbestos removal, is very much a commercial activity in today's economy. It is a booming industry, given the hazardous nature of asbestos and its seeming ubiquity in older buildings. There is nothing inherently criminal or disfavored about asbestos removal; in fact, it might be considered a public service, and many reputable and certified businesses exist solely to remove asbestos from contaminated buildings.
+
+66
+Both the state and federal governments license businesses and individuals in the field. Most, if not all, asbestos removal projects have a commercial purpose, because handling toxic carcinogens is not something many people enjoy for its own sake. Unless the owner of an asbestos-containing building needs to renovate the building or demolish it for use of the land on which it sits, he is very likely to let sleeping dogs lie and not incur the costs or dangers of asbestos removal.
+
+67
+Moreover, Ho's activities were driven by commercial considerations. He voluntarily solicited bids from two such businesses, which returned sizable six-figure bids for the hospital project. Although Ho declined these bids as too costly, he hired the Mexican workers to remove the asbestos, which itself was a commercial transaction. Additionally, the entire project occurred in a building that Ho recently had purchased for $700,000. Had he not wanted to use the hospital for commercial purposes, he would not have paid such a hefty sum, solicited the bids for asbestos removal, or hired the workers to remove the asbestos on the sly. We can say with confidence, then, that asbestos removal in this case, unlike gun possession in a school zone or sex-based violence, is a commercial activity.
+
+68
+Second, the asbestos work practice standard does not contain any kind of jurisdictional element. Neither § 112(h) nor § 114(a) of the CAA, 42 U.S.C. §§ 7412(h), 7414(a), restricts the EPA's authority to promulgate work practice standards with a jurisdictional element. Unsurprisingly, the EPA did not limit the scope of the asbestos work practice standard by means of any kind of jurisdictional element. 40 C.F.R. § 61.145.13
+
+69
+Third, Congress included no congressional findings regarding the substantial effects that asbestos removal may have on interstate commerce. Section 101, 42 U.S.C. § 7401, speaks generally to the harmful effects of air pollution and states the purposes of the CAA. A few passages from § 101 refer cursorily to what might be considered aspects of interstate commerce.14 These brief passages, however, do not even begin to satisfy the stringent standards of Morrison for the use of congressional findings.
+
+70
+Likewise, the parties have not pointed us to any relevant or helpful passages from the legislative histories of the CAA, and we have not discovered any such passages on our own review. As so often happens, Congress seems to have assumed its power to regulate however it desires. Yet, congressional findings, as we have explained, are neither necessary nor sufficient to sustain a regulation. The same holds for a lack of congressional findings, especially where the substantial effects on interstate commerce are "visible to the naked eye." Lopez, 514 U.S. at 563, 115 S.Ct. 1624.
+
+71
+Most importantly, the relationship between the asbestos removal in violation of the work practice standard and interstate commerce is not attenuated, but direct and apparent. Congress had a rational basis to find not only that a national market exists for asbestos removal services, but also that Ho's activities would injure this market. See Groome Res. Ltd., LLC v. Parish of Jefferson, 234 F.3d 192, 203 (5th Cir.2000).
+
+72
+By violating the asbestos work practice standard, which imposes costly duties on persons and businesses engaged in asbestos removal, Ho gained a commercial advantage on licensed abatement companies. Whereas these companies must spend hundreds of thousands of dollars on projects like Ho's, Ho was able to scrape by — literally and figuratively — at a cut rate of barely more than $20,000 plus supplies. His activities also deprived licensed abatement companies of a promising business opportunity. These substantial effects on the asbestos removal market are direct, not attenuated, and they justify use of the aggregation principle in the narrow situation presented by this case.
+
+73
+Moreover, once aggregated, Ho's activities posed an threat to the interstate commercial real estate market. His illicit asbestos removal project likely would reduce the number of companies providing asbestos removal services. Fewer companies means that conscientious property owners would have more trouble locating licensed abatement companies and likely would have to pay higher prices for the services of remaining companies. Furthermore, Ho would gain a commercial advantage over conscientious property owners who must pay these higher prices for asbestos removal.
+
+74
+By holding that Congress may aggregate violations of the asbestos work practice standard to satisfy the substantial effects test, we do not cede a general police power to Congress or abdicate our responsibility to enforce limits on the Commerce Clause. Far from it, for our holding today has two important limiting principles.
+
+75
+First, it applies only to a commercial activity, not to any activity whatsoever that might have detrimental environmental effects. The Supreme Court has long upheld the aggregation a class of commercial activity. Morrison, 529 U.S. at 613, 120 S.Ct. 1740. Second, the presence of a national market in the regulated activity also serves as a limiting principle.15
+
+76
+We therefore conclude the Commerce Clause analysis by re-emphasizing the limited nature of our holding. We uphold only the sections of the CAA authorizing the asbestos work practice standard, 42 U.S.C. §§ 7412(h), 7414(a), and the work practice standard itself, 40 C.F.R. § 61.141. We express no opinion on the constitutionality of other sections of the CAA or their implementing regulations, or, for that matter, of other environmental laws.16
+
+III.
+
+77
+Ho challenges the refusal to include an interstate commerce jurisdictional element in the jury instructions for each count. He argues that the jurisdictional element is necessary wherever a prosecution pushes the outer bounds of the Commerce Clause. Reviewing the court's jury instructions for abuse of discretion, Cooper Indus., Inc. v. Tarmac Roofing Sys., Inc., 276 F.3d 704, 714 (5th Cir.2002), we disagree.
+
+78
+Ho cites United States v. Threadgill, 172 F.3d 357 (5th Cir.1999), for the proposition that Lopez requires an interstate commerce jurisdictional element because his prosecution pushed the outer bounds of the Commerce Clause. Unfortunately for Ho, we expressly rejected this proposition in Threadgill. Id. ("[T]he defendants essentially argue that Lopez has created a new jurisdictional element in all federal prosecutions of individual conduct.... We are not persuaded."). Moreover, the text of the CAA does not support Ho's position, because, unlike many other federal criminal statutes, it does not contain a jurisdictional element that the government must plead and prove. See, e.g., 18 U.S.C. § 2421. This omission is a legislative choice, not a constitutional defect.
+
+79
+At best, Ho falls back on a more general passage from Threadgill, 172 F.3d at 372: "Whether a defendant's conduct has a `substantial effect on interstate commerce' is a question that only becomes relevant when the statute at issue, or the facts of the case, cast doubt on Congress' ability to use the Commerce Clause to regulate the charged conduct." We held that this rule did not apply in Threadgill because the crimes of gambling and unlawful structuring of banking transactions were "purely commercial activities." Id. Unlike the situation in Lopez and like that in Threadgill, however, neither the asbestos work practice standard nor the facts of this case cast doubt on Congress's ability to regulate Ho's conduct. The district court therefore did not err in refusing Ho's requested instruction.
+
+IV.
+
+80
+Ho challenges the jury instruction on the count for failure to give notice of intent to remove asbestos. In summary, he argues that § 113(c)(2)(B), 42 U.S.C. § 7413(c)(2)(B), which imposes criminal penalties on "[a]ny person who knowingly fails to notify or report as required by under [the CAA]," requires not only knowledge of the presence of asbestos, but also knowledge of the CAA's notice requirement. The government, on the other hand, contends that it only needed to prove knowledge of the presence of asbestos.
+
+81
+The district court agreed with the government and instructed the jury that "[i]t is not necessary that the Government prove the Defendant actually knew of the notice requirement." Although we usually review failure to give a requested jury instruction for abuse of discretion, Cooper Indus., 276 F.3d at 714, we review this question of statutory interpretation de novo, United States v. Adam, 296 F.3d 327, 330 (5th Cir.2002). The district court's instruction was correct, because § 113(c)(2)(B) does not require knowledge of the notice requirement.
+
+82
+We need refer only to the venerable maxim that "Ignorance of the law is no defense." It is as much a part of "our national culture" as are the Miranda warnings. Dickerson v. United States, 530 U.S. 428, 443, 120 S.Ct. 2326, 147 L.Ed.2d 405 (2000). Our criminal laws typically express this maxim with the "knowing" degree of scienter. The Supreme Court recently has explained in more lawyer-like fashion that "the term `knowingly' does not necessarily have any reference to a culpable state of mind or to knowledge of the law.... `[T]he knowledge requisite to knowing violation of a statute is factual knowledge as distinguished from knowledge of the law.'"17 This maxim is so strongly embedded in our legal system that "unless the text of a statute dictates a different result, the term `knowingly' merely requires proof of knowledge of the facts that constitute the offense." Bryan, 524 U.S. at 193, 118 S.Ct. 1939 (footnote omitted) (emphasis added).
+
+83
+This general rule applies with especial force to laws regulating hazardous substances. In United States v. Int'l Minerals & Chem. Corp., 402 U.S. 558, 91 S.Ct. 1697, 29 L.Ed.2d 178 (1971), the Court upheld a conviction of a knowing failure to show shipping papers of a corrosive liquid. The government offered no proof that the defendant knew of the shipping paper regulation. The Court rejected the challenge, however, because the defendant had knowledge of the factual elements of the offense, which was all the statutory scienter of a knowing violation required. Id. at 562-64, 91 S.Ct. 1697. The Court further stated that where "dangerous or deleterious devices or products or obnoxious waste materials are involved, the probability of regulation is so great that anyone who is aware that he is in possession of them or dealing with them must be presumed to be aware of the regulation." Id. at 565, 91 S.Ct. 1697.
+
+84
+Although neither this court nor other circuit courts have interpreted the scienter required by § 113(c)(2)(B), we see no reason to depart from the longstanding principle that "knowingly" means knowledge of underlying facts, not law. To the contrary, we observe several sound reasons to apply the longstanding principle.
+
+85
+First, other circuits have trenchantly interpreted the term "knowingly" in § 113(c)(1) to require knowledge of facts, not law.18 The phrasing of the two subsections is identical, and the same terms in a statute should be interpreted in the same way. Sullivan v. Stroop, 496 U.S. 478, 484, 110 S.Ct. 2499, 110 L.Ed.2d 438 (1990). Second, the text of § 113(c)(2)(B) does not "dictate" a contrary result. Bryan, 524 U.S. at 193, 118 S.Ct. 1939. Third, this and the other circuit courts have held that the term "knowingly" in other environmental statutes means only a knowledge of facts, not law.19
+
+86
+Fourth, though the notice requirement is somewhat technical or administrative, the CAA as a whole is "a public welfare statute, involving a heavily regulated area with great ramifications for the public health and safety." Baytank, 934 F.2d at 613 (citation omitted). Consequently, failure to give notice of asbestos removal is "a type of conduct that a reasonable person should know is subject to stringent public regulation." Id. (citing and distinguishing Liparota v. United States, 471 U.S. 419, 433, 105 S.Ct. 2084, 85 L.Ed.2d 434 (1985)). In these circumstances, because we decline Ho's invitation to use ambiguous legislative history to interpret the plain meaning of the statutory text, see Sale v. Haitian Ctrs. Council, 509 U.S. 155, 169-70, 113 S.Ct. 2549, 125 L.Ed.2d 128 (1993), we conclude that § 113(c)(2)(B) requires only knowledge of the underlying factual elements and does not impose on the government the legal duty to give notice.
+
+87
+Ho plainly had knowledge of the underlying factual elements of § 113(c)(2)(B), and in particular of the presence of asbestos. The preceding owner of the hospital informed Ho that it contained asbestos. Ho sought an estimate for removal costs from a licensed asbestos abatement company, then specifically tried to avoid those costs by hiring untrained and unlicensed workers. Ho also received a stop-work order, from the city, that should have alerted him to the presence of asbestos even if he had not already known that the hospital contained asbestos.
+
+88
+Ho nevertheless ignored the order, sought a second estimate from a licensed asbestos abatement company, and continued the removal project. In sum, the jury instruction stated the correct legal standard of scienter, and the evidence more than adequately supported a jury finding that Ho acted with knowledge of the underlying factual elements.
+
+V.
+
+89
+Ho contends that his conviction is based on an improperly promulgated regulation. The asbestos work practice standard applies to Ho's activities only if the hospital satisfies the regulatory definition of "facility," 40 C.F.R. § 61.141. The EPA amended this definition in 1990,20 and Ho argues that the amendment was improperly promulgated. Applying the de novo standard of review,21 we disagree.
+
+90
+The CAA bars Ho's procedural challenge to the 1990 rulemaking that amended the definition of "facility." First, § 307(b)(1), 42 U.S.C. § 7607(b)(1), requires any challenge to a rulemaking under §§ 112 and 113 to be filed in the District of Columbia Circuit. Title 40 C.F.R. § 61.141 is such a rule, so venue is improper in the courts of this circuit. Second, § 307(b)(1) also requires any challenge to be filed within sixty days of a final agency rulemaking. The amended definition became final on November 20, 1990, 55 Fed. Reg. 48406, years before Ho challenged its validity. Thus, the amended definition is "not subject to judicial review in civil or criminal proceedings." 42 U.S.C. § 7607(b)(2).
+
+91
+The ruling in Adamo Wrecking Co. v. United States, 434 U.S. 275, 98 S.Ct. 566, 54 L.Ed.2d 538 (1978), does not aid Ho. There, the Court permitted an otherwise untimely challenge under § 307(b)(1) on the question whether the disputed regulation was in fact an "emission standard." Id. at 285, 98 S.Ct. 566. The Court specifically forbade the lower courts, on remand, from considering whether the agency had "complied with appropriate procedures in promulgating the regulation ... [or] any of the other familiar inquiries which arise in the course of an administrative review proceeding." Id. Ho does not dispute that 40 C.F.R. § 61.141 was promulgated under §§ 112 and 113. Adamo therefore does not apply.22
+
+VI.
+
+92
+The government appeals the refusal to enhance Ho's sentence for (1) repetitive discharge of asbestos into the environment and (2) leadership in an extensive criminal activity. When reviewing a sentence, we review findings of facts for clear error and interpretations of the sentencing guidelines de novo. United States v. Roberts, 203 F.3d 867, 869 (5th Cir.2000).
+
+A.
+
+93
+The government sought a six-level sentence enhancement for an "ongoing, continuous, or repetitive discharge, release, or emission of a hazardous or toxic substance or pesticide into the environment." U.S.S.G. § 2Q1.2(b)(1)(A). The court declined, holding that the phrase "into the environment" required proof of a discharge outside the hospital, which it held the government had not established. The government argues on appeal, as in the district court, that the phrase "into the environment" includes indoor air and, in any event, that it proved a discharge of asbestos outside the hospital. Because we conclude that the government sufficiently proved, for purposes of sentencing, a discharge outside the hospital regardless of the meaning of "into the environment," we reserve the interpretive question and assume only arguendo that § 2Q1.2(b)(1)(A) requires proof of a discharge outside the hospital.
+
+94
+The district court clearly erred by ruling that the government did not prove that Ho's activities resulted in a discharge of asbestos outside the hospital. "A factual finding is clearly erroneous `when although there is evidence to support it, the reviewing court on the entire evidence is left with the definite and firm conviction that a mistake has been committed.'" United States v. Cooper, 274 F.3d 230, 238 (5th Cir.2001) (quoting United States v. Hill, 42 F.3d 914, 918 (5th Cir.1995)). The record leaves us with just this conviction.
+
+95
+The court based its ruling on three main factual findings. First, the workers removed only one bag of fireproofing from the hospital, and even then immediately retrieved the bag. Second, the court concluded that the government had not proven that wind had blown asbestos out of the unsealed hospital. Third, the court concluded that the government had not established that dust tracked outside the hospital by workers was asbestos instead of innocuous sheetrock residue. Though the first finding is correct, the overwhelming weight of contrary evidence cannot support the second and third findings or the court's ultimate conclusion.
+
+96
+An avalanche of facts supports the government's modest argument: that asbestos must have escaped the unsealed hospital during the asbestos removal.23 This conclusion intuitively stands to reason, because the hospital was never sealed, much less properly sealed as required by regulation, 40 C.F.R. § 61.145, during seven weeks of asbestos removal.
+
+97
+Yet, there is much more. Testimony at trial supports this conclusion. Stewart, a building inspector for the city, testified that he observed airborne fireproofing dust inside the hospital when he inspected it on February 2, 1998. He further stated that the hospital had no containment system that day to prevent the dust from escaping. Hendrix, a TDH inspector, recounted that he also observed airborne fireproofing dust inside the hospital when he inspected it on March 13, 1998.
+
+98
+Moreover, Hendrix testified that all the doors and many of the windows to the hospital were open. At the OSHA civil proceeding, Hendrix also said that the hospital was "open ... with the wind blowing through it."24 Williams, another TDH inspector, testified that he took a sample of dust from the frame of an exterior door and that the sample contained two percent chrysolite asbestos. Finally, Wiest, a certified asbestos removal contractor, inspected the hospital on April 3, 1998, and observed an airflow through the unsealed doors and windows and through the hole caused by the explosion.
+
+99
+Photographs of the scene show that the bags of removed fireproofing, though inside the hospital, were open and unsealed, allowing any breeze to blow the fireproofing out of the bag. Another photo shows fireproofing dust on or near an open exterior door. A third photo shows a large hole in the second floor exterior wall, though which workers frequently threw debris into a dumpster on the ground below. A fourth photograph shows dusty footprints just outside an exterior door of the hospital. Although the court stated that this picture is as consistent with sheetrock residue tracks, this is no different from saying that the photograph is as consistent with fireproofing dust tracks, which is more consistent with the other evidence.
+
+100
+Finally, we come to the remarkable fact of the explosion on March 10, 1998, which was strong enough to blow a hole in the exterior wall of the hospital. Surely an explosion strong enough to move mortared bricks was also strong enough to move fine, loose fireproofing dust. And, as with the other openings on the exterior wall, Ho's failure to seal this new hole after the explosion obviously allowed more fireproofing dust to escape.
+
+101
+This evidence, when considered as a whole, leaves no doubt that asbestos escaped the unsealed hospital continuously and repeatedly throughout the removal project.25 We find support for this conclusion in United States v. Chau, 293 F.3d 96, 99-100 (3d Cir.2002), affirming an enhancement for repetitive discharge under § 2Q1.2(b)(1)(A). The record in Chau showed that the defendant had disturbed asbestos inside a building and moved open bags of asbestos outside the building. Chau, 293 F.3d at 100. Although the court was affirming a finding of repetitive discharge, rather than reversing a finding of no repetitive discharge, the facts in the instant case are equally strong as those in Chau.
+
+102
+The government has proven an asbestos discharge by a preponderance of the evidence, which is all that is required at the sentencing phase. Because the district court clearly erred by holding otherwise, we vacate and remand for re-sentencing.
+
+B.
+
+103
+The government sought a four-level sentence enhancement for Ho's status as "an organizer or leader of a criminal activity that involved five or more participants or was otherwise extensive." U.S.S.G. § 3B1.1(a). The court instead imposed a two-level enhancement under § 3B1.1(c), concluding that Ho's criminal activity did not involve five or more participants and was not otherwise extensive.
+
+104
+The only question is the meaning of "otherwise extensive." The government must establish three elements for a § 3B1.1(a) enhancement: (1) Ho was an organizer or leader of a criminal activity, (2) that involved at least one other criminally responsible "participant"26 and (3) that "involved at least five participants or was otherwise extensive." Section 3B1.1(c) also requires the first two elements, but not the third. Thus, when it imposed the two-level enhancement under § 3B1.1(c), the court found that Ho was an organizer and Escobedo was a criminally responsible "participant." Ho does not appeal these findings, nor does the government contend that the Mexican workers were criminally responsible "participants." Thus, we consider only whether the district court properly interpreted the phrase "otherwise extensive."
+
+105
+We usually review determinations under § 3B1.1 for clear error,27 but we apply the de novo standard here because the court misinterpreted the phrase "otherwise extensive." The parties do not dispute the factual matter of Ho's conduct, but rather the legal meaning of the phrase "otherwise extensive." Although the district court was somewhat opaque, it apparently interpreted this phrase to require an ongoing criminal organization of a kind that would justify an upward departure (as distinguished from an enhancement) under application note 2. We review this legal interpretation of the guideline de novo. Roberts, 203 F.3d at 869.
+
+106
+This interpretation misreads application note 3 and ignores settled Fifth Circuit precedent. Note 3 directs that "[i]n assessing whether an organization is `otherwise extensive,' all persons involved during the course of the entire offense are to be considered." Note 3 is binding on the federal courts, Stinson v. United States, 508 U.S. 36, 113 S.Ct. 1913, 123 L.Ed.2d 598 (1993), and instructs the court to examine number of persons involved in the activity, not the nature of the criminal organization.
+
+107
+Indeed, note 3 continues to state, by way of example, that "a fraud that involved only three participants but used the unknowing services of many outsiders could be considered extensive." Thus, a criminal activity is "otherwise extensive" if it involved five or more people who "contributed to the success of the scheme." Davis, 226 F.3d at 360. Moreover, we repeatedly have held that "[i]n deciding whether a scheme was otherwise extensive, the district court must take into account all persons involved during the course of the entire offense." Id. (emphasis added) (citation omitted); Glinsey, 209 F.3d at 396.
+
+108
+The court erred by interpreting the phrase "otherwise extensive" in § 3B1.1(a) to refer to the nature of the criminal organization, as distinguished from the number of participants and persons involved.28 We therefore vacate and remand for new sentencing in light of the proper and longstanding interpretation of that phrase.
+
+109
+For the foregoing reasons, the judgment of conviction is AFFIRMED, and the judgment of sentence is VACATED and REMANDED for proceedings consistent with this opinion.
+
+Notes:
+
+1
+The TDH initiated similar proceedings under state law. Ho settled by paying $44,000 in civil penalties
+
+2
+"For purposes of this section, if it is not feasible in the judgment of the Administrator to prescribe or enforce an emission standard for control of a hazardous air pollutant or pollutants, the Administrator may, in lieu thereof, promulgate a ... work practice ... standard ... which in the Administrator's judgment is consistent with the provisions of subsection (d) or (f) of this section." 42 U.S.C. § 7412(h)(1)
+
+3
+The asbestos NESHAP also contains § 112(d) emission standards for source categories that emit asbestosSee, e.g., 40 C.F.R. § 61.142.
+
+4
+Ho, of course, disputes that the work practice standard can cover the hospitalconstitutionally, but that is a different question we address infra part II.D.
+
+5
+It would be more accurate to speak of the "Interstate Commerce Clause," because the phrase "Commerce Clause" wrongly ignores the distinction between interstate and intrastate commerceSee Lopez, 514 U.S. at 587 n. 2, 115 S.Ct. 1624 (Thomas, J., concurring). We defer to convention, however.
+
+6
+See Morrison, 529 U.S. at 615-18, 120 S.Ct. 1740; Lopez, 514 U.S. at 565-68, 115 S.Ct. 1624; see also United States v. Bird, 124 F.3d 667, 676-78 (5th Cir.1997) (explaining the need for a "limiting principle" in Commerce Clause jurisprudence).
+
+7
+See also Marbury v. Madison, 5 U.S. (1 Cranch) 137, 177, 2 L.Ed. 60 (1803) ("It is emphatically the province and duty of the judicial department to say what the law is.").
+
+8
+Lopez, 514 U.S. at 558, 115 S.Ct. 1624 (citing Perez v. United States, 402 U.S. 146, 148-50, 91 S.Ct. 1357, 28 L.Ed.2d 686 (1971); The Shreveport Rate Cases, (Houston Ry. Co. v. United States), 234 U.S. 342, 34 S.Ct. 833, 58 L.Ed. 1341 (1914); Southern Ry. v. United States, 222 U.S. 20, 32 S.Ct. 2, 56 L.Ed. 72 (1911)).
+
+9
+Compare id. at 584-602, 115 S.Ct. 1624 (Thomas, J., concurring) (arguing that the substantial effect test lacks a constitutional basis) with id. at 615-31, 115 S.Ct. 1624 (Breyer, J., dissenting) (arguing for a more generous application of the substantial effect test).
+
+10
+We recognize thatBird seems to contradict this conclusion. "After Wickard and its reaffirmance in Lopez there can be no question that Congress is able to regulate noncommercial, intrastate activity that substantially affects interstate commerce." Bird, 124 F.3d at 676. Yet, we decided Bird before the Supreme Court decided Morrison.
+
+11
+A jurisdictional element also may establish that a statute comes within the first or second category of Commerce Clause regulation identified inLopez. Morrison, 529 at 613 n. 5.
+
+12
+Ho protests that the government did not adduce this argument at trial. It is true that the government defended the asbestos work practice standard in the district court based primarily on the effects of interstate pollution. Yet, the record adequately supports the government's theory urged on appeal, and we may affirm for any reason supported by the recordLLEH, Inc. v. Wichita County, 289 F.3d 358, 364 (5th Cir.2002).
+
+13
+As we have observed, however, a jurisdictional element is not decisive in Commerce Clause analysis. Though a jurisdictional element may limit the scope of a statute to intrastate activities substantially affecting interstate commerce, the absence of such an element will not undermine a statute where the regulated activity in fact substantially affects interstate commerce, just as it will not save a statute where the regulated activity does not substantially affect interstate commerce
+
+14
+See, e.g., 42 U.S.C. § 7401(a)(2) (stating that "the growth in amount and complexity of air pollution brought about by ... industrial development ... has resulted in mounting dangers to the public health and welfare, including injury to agricultural crops and livestock, damage to and the deterioration of property, and hazards to air and ground transportation"); § 7401(b)(1) (stating that a purpose of the CAA is "to protect and enhance the quality of the Nation's air resources so as to promote the public health and welfare and the productive capacity of its population").
+
+15
+See Perez, 402 U.S. at 154-57, 91 S.Ct. 1357 (national market for commercial credit); Wickard, 317 U.S. at 127-28, 63 S.Ct. 82 (national market for wheat); Bird, 124 F.3d at 678 (national market for abortion services).
+
+16
+"The Commerce Clause [is] broad enough to permit congressional regulation of activities causing air or water pollution, or other environmental hazards that may have effects in more than one State."Hodel v. Va. Surface Mining & Reclamation Ass'n, Inc., 452 U.S. 264, 282 (1981). Lopez and Morrison do not challenge this principle, though they also do not exempt environmental regulations from Commerce Clause scrutiny. Though we note that the principle seems to require interstate effects before Congress may regulate for environmental problems, we have no occasion to analyze the principle in this case, because the asbestos work practice standard is a valid regulation of a commercial activity.
+
+17
+Bryan v. United States, 524 U.S. 184, 192, 118 S.Ct. 1939, 141 L.Ed.2d 197 (1998) (quoting Boyce Motor Lines Inc. v. United States, 342 U.S. 337, 345, 72 S.Ct. 329, 96 L.Ed. 367 (1952) (Jackson, J., dissenting)); see also United States v. Baytank (Houston), Inc., 934 F.2d 599, 613 (5th Cir.1991) (stating that "`knowingly' means no more than that the defendant knows factually what he is doing").
+
+18
+See United States v. Weintraub, 273 F.3d 139 (2d Cir.2001); United States v. Tomlinson, No. 99-30020, 1999 WL 511496, 1999 U.S. App. Lexis 16758 (9th Cir. July 16, 1999) (unpublished); United States v. Buckley, 934 F.2d 84 (6th Cir. 1991).
+
+19
+See, e.g., United States v. Kelley Tech. Coatings, Inc., 157 F.3d 432, 436 (6th Cir.1998) (RCRA); United States v. Ahmad, 101 F.3d 386, 390 (5th Cir.1996) (Clean Water Act); United States v. Laughlin, 10 F.3d 961, 966-67 (2d Cir.1993) (CERCLA); United States v. Buckley, 934 F.2d 84, 88-89 (6th Cir.1991) (CERCLA); Baytank, 934 F.2d at 613 (RCRA).
+
+20
+Under the pre-1990 definition, "Facility means any institutional, commercial, or industrial structure, installation, or building (excluding apartment buildings having no more than four dwelling units)." 40 C.F.R. § 61.141 (1988). Under the current definition,
+
+Facility means any institutional, commercial, public, industrial, or residential structure, installation, or building (including any structure, installation, or building containing condominiums or individual dwelling units operated as a residential cooperative, but excluding apartment buildings having four or fewer dwelling units); any ship; and any active or inactive waste disposal site. For purposes of this definition, any building, structure, or installation that contains a loft used as a dwelling is not considered a residential structure, installation, or building. Any structure, installation, or building that was previously subject to this subpart is not excluded, regardless of its current use or function.
+
+40
+C.F.R. § 61.141 (2002). We need not, and do not, address whether this regulation applies to an individual residenceSee Jones v. United States, 529 U.S. 848, 120 S.Ct. 1904, 146 L.Ed.2d 902 (2000).
+
+21
+In a challenge to agency rulemaking, we usually look to the Administrative Procedure Act, 5 U.S.C. § 551et seq., for the standard of review, but the CAA bars review of the regulation in this case, so we apply the de novo standard of review, which is customary for questions of law. Cox v. City of Dallas, 256 F.3d 281, 288 (5th Cir.2001).
+
+22
+We also observe that the hospital satisfies the pre-1990 definition of "facility" because Ho purchased it and removed the asbestos for commercial purposes, and the definition did not exclude previously abandoned buildings
+
+23
+Ho incorrectly contends that the government impermissibly relies on the presentence report ("PSR") for this argument. The government cites the PSR, but only for the conclusion that asbestos escaped the hospital; the facts behind this conclusion appear in the record. And, in any event, a PSR is admissible as evidence for sentencing purposes, though it may not be used to support a conviction on appeal if the defendant objects to the PSRCooper, 274 F.3d at 239.
+
+24
+Ho objects to this testimony, but "sentencing proceedings do not offer criminal defendants the same procedural safeguards as trials."United States v. Goldfaden, 959 F.2d 1324, 1330 (5th Cir.1992). Furthermore, Ho gives no reason why Hendrix's testimony at the OSHA proceeding should be deemed unreliable.
+
+25
+Ho mistakenly argues that the government must prove "actual environmental contamination." This phrase comes from application note 5 to U.S.S.G. § 2Q1.2. We held inGoldfaden that note 5 presumes contamination if the government proves discharge. Goldfaden, 959 F.2d at 1331.
+
+These terms are not synonymous. A "discharge" refers to the movement of hazardous or toxic substances, whereas "contamination" refers to the environmental effect of a discharge. Ho and the government disagree only on the discharge question. The record supports the government, not Ho or the district court, on the discharge question, so contamination is presumed according to note 5 and Goldfaden.
+
+26
+InUnited States v. Gross, 26 F.3d 552 (5th Cir.1994), we held that § 3B1.1 does not apply unless the criminal activity involved at least two criminally responsible "participants." Application note 1 to § 3B1.1 defines a "participant" as "a person who is criminally responsible for the commission of the offense, but need not have been convicted."
+
+27
+See, e.g., United States v. Davis, 226 F.3d 346, 360 (5th Cir.2000) (reviewing for clear error); United States v. Glinsey, 209 F.3d 386, 396 (5th Cir.2000) (same).
+
+28
+Of course, Ho was convicted of failure to comply with the asbestos work practice standard and failure to give notice of intent to remove asbestos. Thus, he alone committed the specific unlawful acts. Yet, these acts presuppose the unlawful asbestos removal activity, which involved more than five persons
+
+CC∅ | Transformed by Public.Resource.Org

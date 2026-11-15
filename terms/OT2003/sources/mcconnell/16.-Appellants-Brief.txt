@@ -1,0 +1,2855 @@
+Q2 lett i. 
+| 23 Supreme Court, !J.S. 
+| Cy) FILE > 
+
+
+No. 02-1755 | wg 2) 
+
+
+IN THE 
+
+
+Supreme Court of the G 
+
+
+CLERK 
+
+
+AMERICAN FEDERATION OF LABOR AND 
+CONGRESS OF INDUSTRIAL ORGANIZATIONS, ef al., 
+Appellants, 
+
+
+V. 
+
+
+FEDERAL ELECTION COMMISSION, ef a/., 
+Appellees. 
+
+
+On Appeal from the United States District Court 
+For the District of Columbia 
+
+
+BRIEF OF AFL-CIO 
+APPELLANTS/CROSS-APPELLEES 
+
+
+LARRY P. WEINBERG JONATHAN P. HIATT 
+
+1101 17th Street, N.W. LAURENCE E, GOLD 
+
+Suite 900 Counsel of Record 
+Washington, D.C. 20036 AFL-CIO 
+
+(202) 775-5900 815 Sixteenth Street, N.W. 
+
+
+Washington, D.C. 20006 
+(202) 637-5130 
+
+
+MICHAEL B. TRISTER 
+
+LICHTMAN, TRISTER & ROSS, PLLC 
+1666 Connecticut Ave., N.W. 
+Washington, D.C. 20009 
+
+(202) 328-1666 
+
+
+Of Counsel 
+
+
+Counsel for Appellants/ 
+Cross-Appellees 
+
+
+WILSON-EPES PRINTING Co., INC. — (202) 789-0096 — WASHINGTON, D.C. 20001 
+
+
+® <= 60 
+
+
+QUESTIONS PRESENTED 
+
+
+1. Whether the BCRA § 203 prohibitions of union and 
+corporate spending for “electioneering communications,” 
+under the primary and backup definitions of that term, 
+are narrowly tailored to serve a compelling governmental 
+interest. 
+
+
+2. Whether the provisions prohibiting coordinated expen- 
+
+’ ditures in BCRA §§ 202 and 214(a) are constitutional in light 
+
+. of the statute’s mandate that no definition of “coordination” 
+
+, may require proof of “agreement or formal collaboration” and 
+in light of BCRA’s vagueness and overbreadth. | 
+
+
+3. Whether BCRA’s “advance disclosure” provisions are 
+narrowly tailored to serve a compelling governmental 
+interest. 
+
+
+(i) 
+
+
+Wai 
+
+
+ey ‘ 
+. fo Rys ee 
+2 
+
+
+aT et! 2 AY t°<yale ’ 
+iho) 5." Dolan ee! WA. Pe 
+Sete Me f J rhe, 1 Aye 
+= PD, : 7 % deal ‘ 
+eH ; eet AS ry. 
+ae Pst ee ey ees OF ed 
+
+
+ii 
+PARTIES TO THE PROCEEDINGS 
+
+
+The American Federation of Labor and Congress of 
+Industrial Organizations (“AFL-CIO”) and its federally 
+registered political committee, AFL-CIO Committee on 
+Political Education Political Contributions Committee (jointly 
+the “AFL-CIO plaintiffs”), appear here as appellants in No. 
+02-1755 and as appellees in Federal Election Comm'n v. 
+McConnell, No. 02-1676, and McCain v. McConnell, No. 02- 
+1702. The appellees in No. 02-1755 and appellants in Nos. 
+02-1676 and 02-1702 are the Federal Election Commission, 
+the Federal Communications Commission, the United States 
+of America, Senator John McCain, Senator Russell Fein- 
+gold, Representative Christopher Shays, Representative 
+Martin Meehan, Senator Olympia Snowe, and Senator James 
+Jeffords. 
+
+
+TABLE OF CONTENTS 
+Page 
+ey |: ) i 
+PARTIES TO THE PROCEEDINGS.....00..0.....cccccceeeeee ii 
+en Vv 
+a wscensececcsees 
+ET I 
+CONSTITUTIONAL AND STATUTORY 
+sacs cesasssseessasevecocecs l 
+py se ey ot ofS: a l 
+BCRA’s Ban on Union and Corporate Electioneer- 
+a cscnseees l 
+BCRA’s Coordination Provisions.................0::00000000- 7 
+BCRA’s Advance Disclosure Requirements ............. 9 
+SUMMARY OF ARGUMENT ......0.0.........ccccccccseceeeeeeee 10 
+asi ctrriccntnecnccencescoessccescesceescee 12 
+
+
+I. BCRA’s PRIMARY DEFINITION OF 
+“ELECTIONEERING COMMUNICATION” 
+IS UNCONSTITUTIONALLY OVER- 
+CC 12 
+
+
+A. Union and Corporate Speech About Mat- 
+ters of Pubic Concern Enjoys the Highest 
+First Amendment Protection, and Restric- 
+tions Must Be Narrowly Tailored To Serve 
+
+
+a Compelling Governmental Interest........... 14 
+B. The Primary Definition Is Not Narrowly 
+i tterccccesinnsnensnseneensenecconse 16 
+
+
+Il. BCRA’S BACKUP DEFINITION OF 
+“ELECTIONEERING COMMUNICATION” 
+IS UNCONSTITUTIONALLY VAGUE, 
+AND NEITHER OF ITS’ PRINCIPAL 
+CLAUSES IS SEVERABLE ....................cc.ess000 _ 24 
+
+
+(iii) 
+
+
+iV 
+
+
+TABLE OF CONTENTS—Continued 
+
+
+A. The Second Prong of the Backup Defi- 
+nition Is Unconstitutionally Vague .............. 
+
+
+B. The First Prong of the Backup Definition 
+Is Unconstitutionally Vague ............:0ssssee+ 
+
+
+C. The Backup Definition Is Not Severable..... 
+
+
+Ill. BCRA’S COORDINATION PROVISIONS 
+ARE UNCONSTITUTIONALLY VAGUE 
+AND OVERBROAD ...........:ccceseeeeseeeeenerennenensees 
+
+
+A. BCRA’s Coordination Provisions Directly 
+Regulate Protected Speech and Associa- 
+tional ACTIVITIES. ..............cceeeeeeeeeeeeeeenerennnenenes 
+
+
+B. BCRA’s Provisions Regulating Coordi- 
+nated Electioneering Communications And 
+Expenditures Are Vague And Overbroad... 
+
+
+C. The Majority Below Erroneously Relied 
+On The “Possibility” of Corrective Regu- 
+lations In Rejecting The Vagueness And 
+Overbreadth Challenges to BCRA’s Coor- 
+Aination PrOovisiONS...........eceeeeeeeeeeeeeseeeeees 
+
+
+D. The Majority Erroneously Determined 
+That “Agreement or Formal Collaboration” 
+Is Not A Constitutionally Required Ele- 
+ment Of COOrdinatiOn ............ceeeeeeeeeeereeenees 
+
+
+IV. BCRA’S ADVANCE DISCLOSURE RE- 
+QUIREMENTS ARE NOT NARROWLY 
+TAILORED TO SERVE A COMPELLING 
+GOVERNMENTAL INTEREST AND 
+THEREFORE VIOLATE THE FIRST 
+AMENDMENT...............cscceeeeeseessrseserncessnnseeesnees 
+
+
+CONCLUSION ..............sccsssssssserseeseersssecsnsessessnssennsnnees 
+
+
+Page 
+
+
+25 
+
+
+28 
+
+
+31 
+
+
+33 
+
+
+33 
+
+
+36 
+
+
+39 
+
+
+42 
+
+
+49 
+
+
+; 
+| 
+
+
+CASES 
+
+
+Vv 
+TABLE OF AUTHORITIES 
+Page 
+Abood v. Detroit Bd. of Education, 431 U.S. 209 
+nee a 20 
+AFL-CIO v. Federal Election Comm'n, 177 F. 
+Supp. 2d 48 (D.D.C. 2001) ..........cccccceseceeseeseseees 35 
+AFL-CIO v. Federal Election Comm'n, 333 F.3d 
+ce 34, 35 
+Arizona Right to Life Political Action Comm v. 
+Bayless, 320 F.3d 1002 (9th Cir. 2003)............. 48 
+Ashcroft v. Free Speech Coalition, 535 U.S. 234 
+ae iciiieteeiitilantaiitiiaiaitaaiiaiaaa citadel 22 
+Austin v. Michigan Chamber of Commerce, 494 
+ee UE intiesielelahiitaibaicihiniitsieiatitidiscaiietia 16, 17, 21 
+Bates v. Little Rock, 361 U.S. 516 (1960).............. 46 
+Buckley v. Valeo, 424 U.S. 1 (1976) .....ccccccceeeceeeee passim 
+Buckley v. Valeo, 519 F.2d 817 (D.C. Cir. 1975).. 15 
+Citizens For Responsible Government State 
+Political Action Comm. v. Davidson, 236 F.3d 
+i eee a 48 
+City of Houston v. Hill, 482 U.S. 451 (1987) ........ 24 
+
+
+Clifton v. Federal Election Comm'n, 114 F.3d 
+1309 (Ist Cir. 1997), cert denied, 522 U.S. 
+UN eisai tticalaieitiieiiaiaadiniittaateitae 35 
+
+
+Colorado Republican Federal Campaign Comm. 
+v. Federal Election Comm'n, 518 U.S. 604 
+
+
+Foe e reeemaseetaneniensiianianieiniueiepeitsaiitaiataitaians 33, 42, 44, 45 
+Connick v. Myers, 461 U.S. 138 (1983)..........0.000. 14 
+Consolidated Edison Co. of N.Y. v. Public Serv. 
+
+Comm. of N.Y., 447 U.S. 530 (1980) .........cc0.ee 13, 16 
+Dorchy v. Kansas, 264 U.S. 286 (1924) ......cccceceee 31 
+
+
+Eastern Railroad Presidents Conf. v. Noerr 
+Motor Freight, Inc., 365 U.S. 127 (1961) 
+Eastex, Inc. v. NLRB, 437 U.S. 556 (1978) ........... 20 
+
+
+vi 
+TABLE OF AUTHORITIES—Continued 
+
+
+Page 
+Ellis v. Bhd. of Railway and Airline Clerks, 466 
+U.S. 43S (19B4) .cccccoccvceccccceseccssccssccscvesccssscsoscosess 20 
+Erznoznik vy. City of Jackson, 422 U.S. 205 
+ne ET 23, 24 
+Eu v. San Francisco County Democratic Central 
+Comm., 489 U.S. 214 (1989) .......cccceeeeeee 15, 23, 34, 46 
+Federal Election Comm'n v. Christian Coalition, 
+52 F. Supp. 2d 45 (D.D.C. 1999)............. 35, 42, 43, 46 
+
+
+Federal Election Comm'n v. Colorado Repub- 
+lican Federal Campaign Comm., 533 U.S. 431 
+
+
+Federal Election Comm'n v. Furgatch, 807 F.2d 
+857 (9th Cir.), cert. denied, 484 U.S. 850 
+CD nicccsccsnictetemmpmntannuanninesiiimnamneeneennente 32 
+Federal Election Comm'n v. Machinists Non- 
+Partisan Political League, 655 F.2d 380 (D.C. 
+
+
+Cir.), cert denied, 454 U.S. 897 (1981) ............. 34 
+Federal Election Comm'n vy. Massachusetts 
+Citizens for Life, Inc., 479 U.S. 238 (1986)....... 17 
+
+
+Federal Election Comm'n v. Nat'l Conservative 
+Political Action Committee, 470 U.S. 480 
+CI cc ccnccccreseanennnnninemieniaiaumsecmanmmamensineon 17 
+
+Federal Election Comm'n v. Public Citizen, Inc., 
+
+64 F. Supp. 2d 1327 (N.D. Ga. 1999), rev'd 
+on other grounds, 268 F.3d 1283 (11th Cir. 
+
+
+TIED ccctcssicssncencicnstarsinmninianiinniiamaianieapaen 35 
+First National Bank of Boston v. Bellotti, 435 
+US J 16 
+
+
+Florida Right to Life, Inc. v. Mortham, No. 98- 
+770-CIV-ORL-1I9A, 1998 U.S. Dist. LEXIS 
+16694 (M.D.Fla., Sept. 30, 1998) ........:cccseeeeeees 48 
+Frost v. Corporation Commission of Oklahoma, 
+ZTE U.S. 51S (192Z9)......ccccccccccccccccccccccsccecssoosesees 33 
+
+
+Vil 
+TABLE OF AUTHORITIES—Continued 
+
+
+Page 
+Gibson v. Florida Legislative Comm., 372 U.S. 
+eae csipsacincoveeiiisumeniaiinimiadesitisatiiaisiaiiiniids 34, 46 
+Grayned v. City of Rockford, 408 U.S. 104 
+Sra reccenessdapsiemnnacciianpaiasctanintnneiinaitinanaiitiniaits 25 
+Harte-Hanks Communications v. Connaughton, 
+gE 15 
+Hill v. Colorado, 530 U.S. 703 (2000) .0.........00000. 13 
+Hagans v. Lavine, 415 U.S. 528 (1974)... 
+Hynes v. Mayor of Oradell, 425 U.S. 610 (1976).. 27 
+Kusper v. Pontikes, 414 U.S. 51 (1973).......cccc00 34 
+Lake Carriers’ Ass’n v. MacMullan, 406 U.S. 
+IIa sissinssiicciinscniidsintenndinnaiediantiinianiass Recnccinsnees 40 
+Lehnert v. Ferris Faculty Ass'n, 500 U.S. 507 
+Spa cressinniincadtanitiibdnnsinidiniaiiamencatiadeiiiiieciaaidiesianees 20 
+Lewis v. City of New Orleans, 415 U.S. 130 
+Saree icihiieitibsesiitnisiiesiesiediesitiettititeitritaliainiisipasmaatainiaiaas 24 
+Machinists v. Street, 367 U.S. 740 (1961)............. 20, 21 
+Mills v. Alabama, 384 U.S. 214 (1966) ................. 15 
+Minnesota v. Mille Lacs Band of Chippewa 
+Indians, 526 U.S. 172 (1995).........sscessecsceeseseeees 31 
+Monitor Patriot Co. v. Roy, 401 U.S. 265 (1971).. 15 
+NAACP v. Alabama, 357 U.S. 449 (1958)............. 46 
+NAACP v. Button, 371 U.S. 438 (1963)..........000000. 46 
+New York Times Co. v. Sullivan, 376 U.S. 254 
+Sonera csscsieenssieilciticinishiineiciaiilabiniaicliiitatmemmanaties ~. 14,16 
+Nike, Inc. v. Kasky, 123 S.Ct. 2554 (2003)............ 16, 23 
+Nixon v. Shrink Missouri Gov't PAC, et al., 528 
+7, 39 
+Pacific Gas & Electric Co. v. Public Utilities 
+Cates, SIS UB. 1 CIGD ccccecccccccccsscencssccccsssesee 16 
+Philbrook v. Glodgett, 421 U.S. 707 (1975).......... 40 
+
+
+Pipefitters v. United States, 407 U.S. 385 (1972).. 20 
+
+
+vill 
+TABLE OF AUTHORITIES—Continued 
+Page 
+
+
+Reno v. American Civil Liberties Union, 521 
+
+U.S. B44 (1997) .ccrccccccccsccccccececccccccsssecssscsscnsssceses 31, 32 
+Republican Party of Minnesota v. White, 536 
+
+U.S. TGS (2BD2) ncciccccccccseccccecccscsscsccsscssssssccsossosees 15 
+Secretary of State of Maryland v. J.H. Munson 
+
+CO., 467 U.S. 947 (1984) .......srccssecrrreseeesereeessees 22, 23 
+Sweezy v. New Hampshire, 354 U.S. 234 (1957)... 34 
+Tashjian v. Republican Party of Conn., 479 U.S. 
+
+
+BEB (1DBB) nccccccccsccccscccsccsscscsesscsscnssesee peemmanneceie 34 
+Fhomas v. Collins, 323 U.S. 516 (1945)..........cc000 27,47 
+Thornhill v. Alabama, 310 U.S. 88 (1940) ............ 14, 23 
+Turner Broadcasting System, Inc. v. F.C.C., 512 
+
+U.S. G22 (1DDS) qnccccoccccesereccesccccossscssscoscscsscssscocres 13 
+United States v. CIO, 335 U.S. 106 (1948)............ 21 
+United States v. Harriss, 347 U.S. 612 (1954) ...... 34 
+United States v. Jackson, 390 U.S. 570 (1968)...... 31 
+United States v. National Treasury Employees 
+
+Union, 513 U.S. 454 (1995).....cccccccceseeereeeereeees 23, 32 
+United States v. Robel, 389 U.S. 258 (1967) ......... 23 
+United States v. United Auto Workers, 352 U.S. 
+
+|, ee 21 
+Village of Hoffman Estates v. Flipside, Hoffman 
+
+Estates, 455 U.S. 489 (1982) .....ccccscecsseeeeeeeeeees 26 
+Virginia v. Hicks, 123 S.Ct. 2191 (2003)... 22 
+Watchtower Bible & Tract Society v. Village of 
+
+Stratton, 536 U.S. 150 (2002).......cccccceereeeeeeeeees 24 
+
+Wisconsin Realtors Ass'n v. Ponto, 233 F. Supp. 
+2d 1078 (W.D. Wis. 2002).........:cccccceeseeeereeeees 48 
+STATUTES 
+2 U.S.C. § 431(2)MA)).nccccecccrescccccccccccccoccossecssosssoees 25 
+2 U.S.C. § 431€ 17) nccccccceccccececcccoccsoccccccssscscsossoccoooes 17 
+2 U.S.C. § 431018) ..ccccccccscccccscscccccesccoccvscccsssocssoocoss 13 
+
+
+ix 
+TABLE OF AUTHORITIES—Continued 
+
+
+Page 
+2 U.S.C. § 43 1(20)(A)(iii)..........esecccsesessssseseseseenees 26, 32 
+2 U.S.C. §§ 434(f)(1)-(2) .....sccecssscesesssececsesecesececsees 9 
+2 U.S.C. § 434(f)(2)(B)(iV) ......cccececseseseseesesecseseseees 30 
+2 U.S.C. § 434(F)(3)(A)........cccccecssssssesesecesescececeres 12 
+2 U.S.C. § 434(f)(3)(A)(T)(D) ....eccccecsesessesessesesnesvens 26 
+2 U.S.C. § 434(f)(B)(A)(I)....ccecesesescecessecscsesesececeees 13, 18 
+2 U.S.C. § 434(f)(3)(A)(ii)........eccccesesesesesecececscseees 13,24 
+2 U.S.C. § 434(f)(3)(B)(ii) 0... cccseseseseecscecececeeceeees 17 
+2 U.S.C. §§ 434(g)(1)(A)-(B), 434(g)(2)(A)-(B)... 9 
+2 USC. § ABTA) 2.1cececcccscsesescscscsesesecssesererereerees 39 
+A 39 
+2 U.S.C. § 441a(a)(7)(B)(i) (2001) ooo eeecccececececeeee 37, 38 
+2 U.S.C. § 441.a(a)(7)(B)(ii) (2001) once eccccececeeeees 36 
+2 U.S.C. § 441 a(a)(7)(C).......cccccccccccecesesesesececeseceees 36 
+Bee PI nccnscnscisnisntassnssecsescenennssessasens Ad 
+es BF SONI LED ccsccensnceesecnsetitititteneseccnssecnntssens 13 
+A 13 
+BS UBL. § GORE NA NB) encccccccccscceccsossccccccesocsscs 37, 38, 43 
+FO UDA GG 1106 ced 0007 oncccccccecececccccecccosccevcece 27 
+step eee ee 27 
+ig ee 27 
+Pub. L. 107-155, § 214(b), 116 Stat. 81 (2002)..... 38 
+Pub. L. 107-155, § 403(a)(3), 116 Stat. 113-114 
+TNE ataitetiichedicidadiscinianineucenenedipeatiiseantanasmsasiaes l 
+Pub. L. 107-155, § 403(a)(4), 116 Stat. 114 
+Se iciischciorscesennesinesinastaieesinciestniietiiatetianiiantatien 41 
+REGULATIONS 
+dpc | 25 
+ech ee 36 
+11 C.F.R. § 100.23(c)(2)(iii), repealed by Pub. L. 
+107-155, § 214(b), 116 Stat. 94-95 (2002) ........ 45 
+
+
+Py ee OF STi alicchinitesiesiitasisnininsatancistectsiainsanen 41 
+
+
+x 
+TABLE OF AUTHORITIES—Continued 
+
+
+Page 
+BE CPR. 8 1DD. 2a) ..ccccecccccsccnsessscvssccescvssesescssenes 4] 
+OEE 4 
+LD CLP.R. §§ 109.2 1(C)(1).....cecccrccrcccesscveseesceseveeers 36 
+Oe ee 42 
+Die, 3) ° >) 4] 
+11 CER. § 10D.21(GMS)...ccccrorccsorccccceccsesecccseceserses 4| 
+D1 CPR. § 1DD.216})..ccccrceccccsevcscesccecsccessecesscccsseces 42 
+eee 4] 
+11 C.F.R. § 109.29 (2002) .........sccceereees siceanacii 13, 18 
+
+
+MISCELLANEOUS 
+
+
+Final Rule, “General Public Political Commu- 
+nications Coordinated With Candidates and 
+Party Committees; Independent Expenditures,” 
+65 Fed. Reg. 76138 (Dec. 6, 2000)..........:00++ 36, 38, 46 
+Notice of Proposed Rulemaking, “Electioneering 
+Communications,” 67 Fed. Reg. 51131 (Aug. 
+
+
+|, 47, 48 
+Final Rule, “Electioneering Communications,” 
+67 Fed. Reg. 65190 (Oct. 23, 2002)... 19, 30 
+
+
+Final Rule, “Coordinated and Independent 
+Expenditures,” 68 Fed. Reg. 421 (January 3, 
+
+
+5 41,42 
+147 Cong. Rec. $2700 (daily ed., March 22, 
+
+| 32 
+147 Cong. Rec. $3114 (daily ed., March 29, 
+
+0 30 
+147 Cong. Rec. $31 19-20, S$3722-23.......cceeseereeees 32 
+§.27, Section 201, 107th Cong., Ist Sess. (2001).. 31 
+The Washington Post, p.Al (May 17, 2003) ......... 29 
+www.vote-smart.org/election_president_state_ 
+
+Primary _ Gates. PHP..........cc.cccccssesrseseresscescreeeressees 19, 20 
+
+
+~- mow ee 
+
+
+xi 
+TABLE OF AUTHORIT IES—Continued 
+
+
+TOC e eee 
+
+
+OPINIONS BELOW 
+
+
+The district court’s opinions dated May |, 2003 are 
+reported at 251 F. Supp. 2d 176 (D.D.C. 2003), and are 
+reprinted in volumes I—IV of the Supplemental Appendix to 
+Jurisdictional Statements (“S.A.”). The district court’s order 
+dated May 19, 2003 staying its final judgment pending appeal 
+and the related memorandum opinions are reported at 253 F. 
+Supp. 2d 18 (D.D.C. 2003). 
+
+
+JURISDICTION 
+
+
+The district court entered judgment on May 2, 2003. The 
+AFL-CIO plaintiffs filed their timely notice of appeal on May 
+7, 2003. J.S. App. la-2a. The jurisdiction of this Court is 
+invoked under § 403(a) of the Bipartisan Campaign Reform 
+Act of 2002 (“BCRA”), Pub. L. 107-155, § 403(a)(3), 116 
+Stat. 113-114 (2002). 
+
+CONSTITUTIONAL AND STATUTORY PROVISIONS 
+
+
+The First Amendment to the United States Constitution is 
+reprinted in pertinent part in the jurisdictional statement filed 
+on behalf of the AFL-CIO plaintiffs at 2. BCRA is reprinted 
+in full in the appendices to the jurisdictional statements in 
+Nos. 02-1674, 02-1675, and 02-1676. Sections 201, 202, 203 
+and 214 of BCRA are reprinted at J.S. App. 4a-13a. 
+
+STATEMENT OF THE CASE 
+
+
+In accordance with the Court’s order dated June 5, 2003, 
+all of the issues raised by the AFL-CIO plaintiffs in the 
+district court are addressed in this Opening Brief. 
+
+
+BCRA’s Ban On Union and Corporate Electioneering 
+
+Communications 
+
+BCRA §203, which prohibits corporate and union expen- 
+ditures for broadcast advertisements through a primary and 
+backup definition of covered electioneering communications, 
+poses an immediate, direct and substantial threat to the AFL- 
+CIO’s historic role in advocating for progressive social 
+legislation, influencing other government actions affecting 
+workers and their families, and educating union members and 
+
+
+2 
+
+
+the general public about these issues. The AFL-CIO spends 
+millions of dollars annually for television, radio and cable 
+advertisements on a wide variety of social and economic 
+issues.' This program began in the wake of the 1994 national 
+election, when the organization ran numerous radio and 
+television ads to mobilize union households and the general 
+public to oppose the new Republican-controlled Congress's 
+attempts to enact the “Contract With America,” including 
+major cuts in federal funding for jobs, health and safety, 
+housing, school lunches and the Medicare and Medicaid 
+programs. Shea Dec. {if 20-27 (J.A. 781-85) and Exhs. 20- 
+24, 27-28. Later, after President Clinton vetoed a draconian 
+budget proposal adopted by the Congress and the federal 
+government was forced to shut down, the AFL-CIO broadcast 
+advertisements supporting the President’s position and 
+opposing the congressional budget cuts. Mitchell Dec., 
+q§ 30-32 (J.A. 440-41) and Exhs. 26-31; Shea Dec., § 27 (J.A. 
+785) and Exh. 28. Virtually all of these ads urged viewers Or 
+listeners to call named Members of Congress to oppose the 
+budget cuts. See Mitchell Dec., Exh. | (J.A. 464). Several of 
+these ads would have been banned if BCRA § 203 had been 
+in effect because they referred to President Clinton by name 
+and were disseminated within 30 days of the lowa 
+presidential caucuses and the New Hampshire presidential 
+primary election in which the President was a candidate. 
+Mitchell Dec. 932 (J.A. 441) and Exh. | (J.A. 464). 
+
+The AFL-CIO broadcast program continued throughout 
+1996 in an effort to shape the federal legislative agenda and 
+to establish pro-worker public policies, Mitchell Dec. 94 34- 
+36 (J.A. 442-44) and Exhs. 33-46; Shea Dec. {if 30-34 (J.A. 
+786-88) and Exhs. 38-41, including a long-overdue increase 
+
+
+' A comprehensive table summarizing the AFL-CIO’s television and 
+radio advertisements from 1995 through 2001, and videotapes and 
+compact discs containing the actual ads themselves, are in the record. 
+
+
+‘Mitchell Dec., Exhs. 1-22. 
+
+
+ee - 
+
+
+3 
+
+
+in the federal minimum wage.’ /d., 99 30-36 (J. - 
+and Exhs. 33-46, 38-41. Most of rd ten ieabeiiodans 
+Members of Congress and urged voters or listeners to contact 
+them with a particular policy message. Mitchell Dec., Exh. 1 
+(J.A. 464). A large number of these ads also would have 
+been banned if BCRA § 203 had been in effect because they 
+ran within 30 days of primary elections, held throughout the 
+election year, in which the named Members of Congress 
+were candidates. Mitchell Dec. 44 32, 34-40, 50, 57-59 (J A 
+441-46, 451-52, 455-57) and Exh. | (J.A. 464). In addition, 
+one of the AFL-CIO’s ads on the subject of federal funding 
+for education, an issue which was then pending before 
+Congress, []would have been banned by BCRA §203 because 
+it ran within 60 days of the November 1996 general election 
+and named a number of candidates for Congress. Mitchell 
+Dec. ¥ 41 (J.A. 446-47) and Exh. | (J.A.464), 
+
+The AFL-CIO’s broadcast advocacy program was active 
+throughout the next three Congresses as well, addressing 
+issues such as tax fairness, Social Security and retirement 
+Medicare funding and prescription drug coverage, health 
+care, minimum wage and overtime standards, workplace 
+health and safety, international trade, and education. See 
+Mitchell Dec., Exhs. 1-22. These ads continued to refer to 
+individual Members of Congress because this is a key 
+element of an ad’s potency and effectiveness. Mitchell Dec 
+19 I-12 (J.A. 428-30). And, while most of the ads named 
+Republicans,’ this was because throughout this period 
+
+
+, Other AFL-CIO ads in 1996 addressed congressional efforts to reduce 
+Medicare and Medicaid benefits, Mitchell Dec., 99 37-38 (J.A. 444-45) 
+and Exhs. 47-56, a proposal to protect the retirement savings of working 
+families, id., § 40 (J.A. 445-46) and Exhs. 57-58, and another struggle 
+-“— the federal budget. /d., 4 42 (J.A. 447-48) and Exhs. 59-61. ” 
+
+‘In selecting the “targets” of its advertising, the AFL-CIO relied on 
+substantive and tactical factors: the nature of the issue; the Member of 
+Congress's voting record, committee assignments and legislative role; 
+whether the Member's response to an ad would generate “free media” 
+
+
+4 
+
+
+Republicans in Congress aggressively pursued a host of 
+policies and programs disfavored by the labor movement, and 
+Congress was so polarized that few Republicans ended up 
+voting “right” and few Democrats voted “wrong” by AFL- 
+CIO policy standards. Mitchell Dec. §§ 13, 30-44 (J.A. 430, 
+440-49); Mitchell Dep. 163; Mitchell Cross 12, 101, 127-28, 
+198: Shea Dec. $§ 20-35, 38-39, 42, 55 (J.A. 781-89, 792, 
+797) and Exh. 18. On important legislative issues where 
+Democrats’ vote inclinations were suspect, including during 
+election years, the AFL-CIO regularly targeted them as well." 
+In striking down BCRA § 203’s prohibition of union and 
+corporate sponsorship of ads encompassed by the primary 
+definition of electioneering communications, Judges 
+Henderson and Leon both found that the prohibition would 
+have a substantial effect on the AFL-CIO’s legislative and 
+policy program. Thus, Judge Henderson found that “BCRA’s 
+bai on corporate and labor disbursements for electioneering 
+communications . . . will significantly interfere with the AFL- 
+CIO’s missions” of providing “an effective political voice to 
+workers on public issues that affect their lives and to fight for 
+an agenda at all levels of government for working families.” 
+S.A. 264sa. Judge Henderson also made detailed findings 
+
+
+coverage influencing other Members; the presence among viewers or lis- 
+teners of substantial numbers of union members; and whether a seriously 
+contested election was likely or underway, due to the ensuing heightened 
+public and policymaker attention and the incumbent candidate’s sensi- 
+tivity to public opinion. Mitchell Dec., ¥ 12, 14 (J.A. 429-31); Mitchell 
+Dep. 17-20, 27-30, 165, 204-06, 209-12; Mitchell Cross 102, 198-200; 
+Shea Dep. 52-53. Indeed, an effective way to influence an elected 
+official’s positions on issues is to make the official believe that embracing 
+particular positions could win or lose him or her votes. Mitchell Cross 
+183, 189-90, 201; Shea Cross 14. 
+
+* See, e.., Mitchell Dec. Exh. 1 (J.A. 464): “Call” (July 1998, 
+patient’s bill of rights: 5 Democrats out of 16 Members named); “Barker” 
+(September 1998, “fast track” trade policy: 2 of 8); “Trust” (April-May 
+2000, trade relations with China: 7 of 15); “Now” (October-November 
+2001, fast track: 17 of 25). 
+
+
+5 
+
+
+of fact regarding the AFL-CIO’s television and radio ad- 
+vertisements, S.A. 264sa-75sa, including, inter alia, that 
+numerous ads run by the AFL-CIO would be banned under 
+BCRA, S.A. 268sa, and that they would be “significantly less 
+effective” if they did not mention legislative events or had to 
+be aired outside of the weeks immediately preceding primary 
+and general federal elections. S.A. 269sa. Judge Leon cited 
+one of the AFL-CIO’s 1998 ads as “a classic example 
+of a legislation-centered genuine issue advertisement.” 
+S.A. 150sa, and his findings of fact identify numerous other 
+genuine issue ads” run by the AFL-CIO that would have 
+been prohibited under the primary definition of electioneering 
+communications. S.A. 1370sa-1377sa.° 
+
+
+The majority's findings are supported by substantial 
+evidence in the record. Had BCRA’s prohibition on the use 
+of union treasury funds to support “electioneering com- 
+munications” been in effect between 1995 and 2001, it would 
+have banned 18 flights of ads broadcast within 60 days of ihe 
+1996, 1998 and 2000 general elections in their entirety, with 
+the exception of some versions of a 1998 ad that named 
+Senators not then up for election.’ And, the primary 
+definition would have banned from one to 12 versions of an 
+AFL-CIO ad in 18 of 34 flights aired within 30 days of 
+
+
+“Judge Leon also reli i j 
+
+zg relied exclusively on AFL-CIO advertisements as 
+examples of ads that, in some cases, would be protected under his revised 
+backup definition of electioneering communications and, in other cases 
+would be prohibited under that definition because they are not “neutral as 
+toa federal candidate,” S.A. 1163sa, 1377sa-79sa, although Judge Leon 
+failed to explain the basis for his conclusion that these ads are entitled to 
+7 protection under the First Amendment than are the ads he approved. 
+
+; See Mitchell Dec., Exh. 1 (J.A. 464): in. 1996 “No Two Way,” 
+Retire,” “Kids,” “Medicare,” “Students,” “Taxes.” “Home”; in 1998: 
+
+
+“Deny,” “Spear,” “Barker,” “Save”; in 2000: “Help.” “ 
+“ ” ! ® ’ 4 el ‘ T 7 “1 “ ” 
+Who,” “Sure,” “Debate,” “Work”. —— 
+
+
+6 
+
+
+various primaries and conventions.’ The ads that would have 
+been banned include: 
+
+e Several different flights of ads in 1996 that called on the 
+House to schedule a vote on the first minimum wage 
+increase since 1991; at least ten Representatives targeted 
+in these ads who voted in March not to bring the bill up, 
+later voted in August in favor of final passage. Shea Dec. 
+q9 30-34 (J.A. 786-88). 
+
+e “Barker,” an AFL-CIO radio advertisement that was 
+broadcast in eight congressional districts beginning 
+September 21, 1998 after a vote on “fast-track 
+legislation was hastily scheduled for September 25. 
+Mitchell Dec., § 53 (J.A. 453-54); Shea Dec., | 47 
+(J.A. 794). | 
+
+e “Job,” a television advertisement that was broadcast 
+between September 13 and 25, 2000 and targeted 14 
+Representatives who had voted to prevent an important 
+OSHA regulation from being implemented; President 
+Clinton had threatened to veto the Labor-HHS budget 
+bill if it retained the rider removing the regulation. 
+Mitchell Dec., § 61 (J.A. 457). . 
+
+e “No Two Way,” a radio and television advertisement 
+focusing on an incipient budget fight in Congress that 
+ran between September 5 and 17, 1996 in media markets 
+serving approximately 35 congressional districts. 
+Mitchell Dec., § 41 (J.A. 446-47). 
+
+e “Deny,” a radio and television advertisement broadcast 
+that ran between September 10 and 23, 1998, shortly 
+before the Senate was scheduled to vote on an HMO 
+reform bill that the AFL-CIO considered weak. Mitchell 
+
+
+7 See Mitchell Dec., Exh. 1 (J.A. 464): in 1996: “Too Far” (banning | 
+of 19 versions); “1991” (3 of 10); “Raise” (1 of 2); “People” (2 of 21); 
+“Couple” (2 of 30); “Wither” (4 of 26); “5.15” (1 of 4); “Edith” (12 of 
+31); “Another” (6 of 26); and “No Two Way” (10 of 31; and the 60-day 
+rule would have banned all 31). In 1998: “Call” (12 of 16) and “Soon” (1 
+of 3). In 2000: “Label” (2 of 14, including one Democrat); “Endure” (1 of 
+16, a Democrat); “Trust” (3 of 15, including one Democrat); “Sky” (1 of 
+12); “Protect” (2 of 14); and “Help” (3 of 12). 
+
+
+> 
+
+
+j 
+
+
+Dec., | 51 (J.A. 452-53). “Deny” targeted approxi- 
+mately 17 Senators whom the AFL-CIO and its allies 
+believed could be persuaded to vote for a stronger 
+version of the bill; 13 of these Senators were not 
+candidates in the imminent 1998 election, but fou, 
+were. /d. 
+
+While some of the AFL-CIO’s broadcast advocacy may in 
+some cases indirectly influence election outcomes by address- 
+ing issues of interest to the electorate, S.A. 684sa-685sa, 
+advancing specific electoral outcomes has never been the point 
+of the AFL-CIO’s broadcast advocacy. Mitchell Dec., J 70 
+(J.A. 462-63). As the AFL-CIO’s Director of Public Affairs 
+testifed, these advertisements sought to “set the agenda for the 
+legislative and political environment,” put lawmakers “on 
+notice that somebody is watching what they are doing,” and 
+make the AFL-CIO a “visible . . . champion{] for working 
+families.” Mitchell Dep. 18, 19; see also id. at 46-47. 
+
+BCRA’s Coordination Provisions 
+
+
+BCRA’s coordination provisions, like the statute’s ban on 
+corporate and union electioneering communications, will 
+drastically limit the ability of the AFL-CIO and other unions 
+to advocate the interests of workers and their families in 
+connection with legislation and other government actions. It 
+is critical for union representatives to be able to meet directly 
+with Members of Congress and executive branch officials, 
+including the President, Vice President and other senior 
+White House officials. S.A. 285sa-286sa. Union repre- 
+sentatives work with Congressional leaders and other legis- 
+lators and executive branch officials to design and implement 
+lobbying strategies aimed at passing or defeating specific 
+legislation, including, as the record in this case amply 
+demonstrates, grassroots lobbying efforts paid for by unions 
+involving broadcast or other communications urging the 
+public to take action. Union officers and members are also 
+deeply involved in the operation of political party commit- 
+tees, particularly at the state and local levels where many 
+
+
+8 
+
+
+union representatives serve on the parties’ governing bodies 
+and provide substantial volunteer services in support of party 
+programs. 
+
+The majority below found that BCRA §214(a), was neither 
+unconstitutionally vague nor overbroad." S.A 135sa-143sa. 
+With respect to vagueness, the majority held that “[iJt is . . . 
+possible that many, perhaps all, of Plaintiffs’ vagueness con- 
+cerns have been remedied by the [FEC] regulations’ con- 
+tents.” S.A.137sa. And, with respect to overbreadth, the 
+majority held that the statute’s failure to require the existence 
+of an “agreement” as a predicate to the finding of coor- 
+dination was not required by the Constitution as interpreted in 
+this Court’s prior decisions. S.A.138sa-143sa. The majority 
+determined that BCRA § 202, which provides that “coor- 
+dinated” electioneering communications shall be treated as 
+contributions, was not unconstitutional for the same reasons 
+as it upheld § 214(a). S.A. 130sa. Judge Henderson dis- 
+sented, with respect to all of BCRA’s coordination provi- 
+sions, S.A. 384sa-396sa, finding that “[aJ]n association 
+operating under a vague or overbroad definition of coor- 
+dination faces serious risks each time it sponsors public 
+communications either directly or through groups of like- 
+minded organizations or individuals because any discussion 
+with a legislator may later serve as the basis for an allegation 
+
+
+* In their per curiam opinion, Judges Kollar-Kotelly and Leon also held 
+that plaintiffs lacked standing to challenge BCRA § 214(c), S.A. 147sa- 
+148sa, and, in a decision which paralleled their decision on BCRA §§ 202 
+and 214(a)(2), they alternatively ruled that plaintiffs’ challenge to BCRA 
+§ 214(c) was not ripe for judicial review at this time because any 
+vagueness in the statutory definition of coordination might be cured by the 
+2003 FEC regulations. S.A. 148sa-156sa. The majority also found that 
+plaintiffs’ challenge to BCRA §214(b), which repealed the December 
+2000 coordination regulations, was moot as a result of the promulgation 
+of the January 2003 regulations. $.A.144sa. The Court need not address 
+these decisions because, as we show, infra, the provisions of BCRA 
+§§ 202 and 214(a)(2) clearly are ripe for decision and encompass all of the 
+arguments made against §§ 2 14(b) and (c). 
+
+
+5 
+‘ 
+; 
+
+
+9 
+
+
+that an association has coordinated a particular commu- 
+nication’s content with the legislator.” S.A. 282sa. Spe- 
+cifically with respect to the AFL-CIO, she also found that “if 
+the [organization] is prohibited from sponsoring broadcast 
+ads because of its lobbying contacts with Members of 
+Congress, it will be forced either to curtail its lobbyin 
+activities or to refrain from airing public entaaiaiiins 
+during elections.” S.A. 286sa. See id. at 281sa (finding that 
+the ACLU’s legislative activities would be covered b 
+BCRA’s coordination provisions “even though the ACLU 
+does not engage in those activities for the purpose of 
+influencing federal elections’’). 
+
+
+BCRA’s Advance Disclosure Requirements 
+
+
+Two of BCRA’s reporting provisions require that unions 
+corporations, individuals and other political actors must file 
+reports with the FEC whenever they enter into a contract to 
+make electioneering communications or independent expen- 
+ditures, even though these communications have not yet 
+aired. 2 U.S.C. § 434(f)(1)-(2); 2 U.S.C. 8§ 434(g)(1)(A)- 
+(B), 434(g)(2)(A)-(B). Judge Henderson found these advance 
+disclosure requirements to be unconstitutional, S.A. 381sa- 
+384sa, noting with respect to the AFL-CIO in particular that 
+advance disclosure will interfere with and have a chilling 
+effect on the organization’s broadcast program by allowing its 
+opponents to intensify their efforts to pressure stations into 
+refusing to run AFL-CIO ads, S.A. 27Isa, by forcing the 
+organization to reveal its plans and strategies before they are 
+
+
+finalized, id., and by givin i 
+» ld., 2 Opponents the opport 
+prepare counter-messages. /d. wie 
+
+
+Although they upheld § 201(a)’s reporting requirement for 
+electioneering communications in most respects, Judges 
+Kollar-Kotelly and Leon also found that the statute’s require- 
+ment of disclosure whenever a person has executed a contract 
+to make a disbursement has the effect of “requiring disclosure 
+of contracts to make electioneering communications prior to 
+their public dissemination,” S.A. 115sa, and therefore “lacks a 
+
+
+10 
+
+
+‘relevant correlation’ or ‘substantial relation’ . . . to a legiti- 
+mate governmental interest.” /d., quoting Buckley v. Valeo, 
+424 U.S. 1, 64 (1976). With respect to §212’s parallel ad- 
+vance disclosure requirement for independent expenditures, 
+however, Judges Kollar-Kotelly and Leon found that plain- 
+tiffs’ challenge was not ripe for review because of the FEC’s 
+promulgation of final regulations which, in their view, “pro- 
+vide Plaintiffs with the exact remedy they seek: the FEC will 
+not require disclosure of independent express advocacy expen- 
+ditures prior to their ‘[p]ublic disseminat[ion].”” S.A. 133sa. 
+SUMMARY OF ARGUMENT 
+
+
+1. BCRA’s prohibition of union and corporate spending 
+for a newly defined category of speech in the law, “elec- 
+tioneering communications,” must be narrowly tailored to 
+serve a compelling governmental interest. This prohibition 
+applies where the First Amendment has its greatest and most 
+urgent application, to speech concerning matters of public 
+concern, including commentary on the activities of govern- 
+ment officials, speech that inextricably intertwines discussion 
+of issues, candidates and elections, and speech about the 
+qualifications of candidates themselves. And, our jurispru- 
+dence establishes that the First Amendment’s application to 
+these matters is just as strong when the speaker is a union or a 
+corporation. This Court has countenanced a governmental 
+proscription only of express advocacy independent expen- 
+ditures by a corporation, and solely because that spending 
+was facilitated by the state-supported corporate form. 
+
+BCRA’s primary definition of “electioneering communi- 
+cation” fails to adhere to the express advocacy line drawn by 
+this Court since Buckley, and even if the government could 
+ban other speech that is somehow connected with an election, 
+the primary definition is overbroad. As applied to unions it 
+substantially interferes with their core mission of advocating 
+on behalf of aH workers in the public sphere, and as applied 
+to both unions and corporations it sweeps in a vast range of 
+First Amendment protected speech whose connection with 
+
+
+226 
+eee 
+
+
+2 RSI 
+
+
+ee 
+
+
+~ eD > - 
+
+
+elections is at most attenuated because its reliance on a 
+candidate reference at certain places and times as a substitute 
+for express advocacy fails accurately or narrowly to measure 
+a range of speech that the government may regulate. 
+
+
+Each prong of BCRA’s backup definition of “election- 
+eering communication” is unconstitutionally vague. The 
+phrase “suggestive of no plausible meaning other than an 
+exhortation to vote for or against a specific candidate” 
+depends on context for its meaning, its key words are 
+undefined and imprecise, and its final phrase tracks a 
+formulation that this Court held was overly vague in Buckley. 
+The phrase “promotes or supports...or attacks or opposes a 
+candidate” also depends on context and is undefined and 
+imprecise, and the district court’s construction of it rendered 
+it unconstitutionally overbroad. Finally, the backup defini- 
+tion is non-severable, because Congress intended that either 
+definition survive a constitutional challenge intact. 
+
+2. BCRA’s definition of coordination must be narrowly 
+and clearly drawn in order to avoid interfering with the 
+freedom of speech, freedom of association, and the right to 
+petition the government. BCRA § 214(a)(2)’s regulation of 
+expenditures made “in cooperation, consultation, or concert 
+with, or at the request or suggestion” of a political party is 
+vague and may reach a broad range of protected activities 
+through which citizens interact with political parties. The 
+majority's reliance on the fact that similar language appears 
+in FECA’s regulation of coordination with federal candidates 
+was misplaced, since Congress has explicitly rejected the 
+limiting construction given to that provision by the courts and 
+the FEC, and four Justices have already found that FECA’s 
+language is overbroad. 
+
+
+. The majority also erred in not reviewing the regulations 
+issued by the FEC when it determined that those regulations 
+might “possibly” cure any vagueness in the statutes. The 
+district court had jurisdiction to consider the regulations, at 
+
+
+12 
+
+
+least to the extent necessary to determine whether they saved 
+the constitutionality of the statutes, and, even a cursory 
+examination of the regulations would have shown that they 
+are vague and overbroad in critical respects. : 
+
+Finally, the majority erred in. concluding that agreement 
+or formal collaboration,” which BCRA prohibits from being a 
+required element of “coordination,” is not gs 
+required. This Court’s prior decisions strongly suggest t al 
+proof of an “agreement” is required, and, as the FEC speed 
+ously recognized, “agreement or formal collaboration “is nec- 
+essary to prevent the coordination provisions from wren 
+ing upon significant protected activities involving candidates 
+and parties. , 
+
+3. BCRA’s provision requiring advance disclosure of elec- 
+tioneering communications within 24 hours after an vee 
+vidual, corporation or union has contracted to make suc 
+communications but before they have aired will have a 
+significant chilling effect on the right to speak on os 
+issues by forcing speakers to disclose their plans an 
+strategies before they are implemented, giving yoo 
+opponents the opportunity to prepare Counter-messages, " 
+allowing opponents to induce broadcasters not to run the 
+communications at all. The advance notice requirement is not 
+narrowly tailored to serve a compelling governmental 
+
+interest, because all of the interests which this Court has 
+recognized are served by disclosure of political expenditures 
+are fully served by after-the-fact disclosure, as the lower 
+federal courts have uniformly concluded. 
+ARGUMENT 
+I. BCRA’s PRIMARY DEFINITION OF 
+“ELECTIONEERING COMMUNICATION” IS 
+UNCONSTITUTIONALLY OVERBROAD 
+
+
+Section 201(a) of BCRA, codified at 2 U.S.C. § 434(f) 
+
+
+(3)(A), defines a category of speech new to the law, “elec- 
+
+
+a 
+
+
+= 
+
+
+13 
+
+
+tioneering communication,” and § 203, codified at 2 U.S.C. 
+§§ 441b(b)(2) and (c), proscribes labor organizations and 
+corporations from financing such a communication. Section 
+203 prohibits speech on the basis of its content—namely, a 
+“refer[ence]” to a “candidate” for federal office. “The First 
+Amendment’s hostility to content-based regulations extends 
+not only to restrictions on particular viewpoints, but also 
+to prohibition of public discussion ef an entire topic.” 
+Consolidated Edison Co. of N.Y. v. Public Serv. Comm. of 
+N.Y., 447 U.S. 530, 537 (1980). For, it “place[s] the weight 
+of government behind the disparagement or suppression of 
+some messages, whether or not with the effect of approving 
+or promoting others. ... [T]he government is held to a very 
+exacting and rarely satisfied standard when it disfavors the 
+discussion of particular subjects. . . .” Hill v. Colorado, 530 
+U.S. 703, 735 (2000) (Souter, J., concurring). See also 
+Turner Broadcasting System, Inc. v. F.C.C., 512 US. 622, 
+642 (1994) (“Our precedents apply . . . the most exacting 
+
+
+” Section 434(f)(3)(A)(i) contains what is generally termed the “pri- 
+mary definition” of this term, and section 434(f)(3)(A)(ii) contains a 
+“backup definition” that would apply instead if the primary definition is 
+finally held to be unconstitutional. The primary definition includes a 
+transmission element (“any broadcast, cable or satellite communication”); 
+a content element (“refers to a clearly identified candidate for federal 
+office”); a temporal element (within 60 days before “‘a general, special or 
+runoff election,” or within 30 days before “a primary or preference elec- 
+tion” or nominating “convention or caucus” “for the office sought by the 
+candidate”) and an audience element (“can be received by 50,000 or more 
+persons” in the relevant electoral jurisdiction). The term “clearly identi- 
+fied” means the candidate’s “name,” “photograph” or “drawing,” and 
+where “the identity of the candidate is apparent by unambiguous refer- 
+ence” otherwise. See 2 U.S.C. § 431(18). As elaborated by an FEC regu- 
+lation, “the identity of the candidate is otherwise apparent through an 
+unambiguous reference such as ‘the President,’ ‘your Congressmen,” or 
+‘the incumbent’’’, or “through an unambiguous reference to his or her 
+Status as a candidate such as ‘the Democratic presidential nominee’ or ‘the 
+
+
+Republican candidate for Senate in the State of Georgia’.” See 11 C.F.R. 
+§ 100.29 (2002). 
+
+
+14 
+
+
+scrutiny to regulations that suppress, disadvantage, or impose 
+differential burdens upon speech because of its content.”). 
+Section 203 cannot bear that scrutiny. 
+
+A. Union and Corporate Speech About Matters of 
+Public Concern Enjoys the Highest First 
+Amendment Protection, and Restrictions Must 
+Be Narrowly Tailored To Serve a Compelling 
+Governmental Interest 
+
+Nearly 40 years ago this Court spoke of “a profound 
+
+national commitment to the principle that debate on public 
+issues should be uninhibited, robust, and wide-open, and that 
+it may well include vehement, caustic, and sometimes un- 
+pleasantly sharp attacks on government and public officials.” 
+New York Times Co. v. Sullivan, 376 U.S. 254, 270 (1964). 
+Thus, “[s]peech on public issues occupies the highest rung of 
+the hierarchy of First Amendment values, and is entitled to 
+special protection.” Connick v. Myers, 461 U.S. 138, 145 
+(1983) (interior quotation marks omitted). See also Thornhill 
+v. Alabama, 310 U.S. 88, 101-04 (1940). In Sullivan itself, 
+the Court applied that principle to protect the right to criticize 
+public officials through the medium of a paid newspaper 
+advertisement, “an important outlet for the promulgation of 
+information and ideas by persons who do not themselves have 
+access to publishing facilities.” /d. at 266. 
+
+When this Court last reviewed a substantial rewriting of the 
+Federal Election Campaign Act, it held that when speech on 
+public issues dovetails with speech concerning elections, the 
+First Amendment abides no limitation of the former. See 
+Buckley v. Valeo, 424 U.S. 1, 42-44 (1976). FECA then 
+limited, to $1,000 a year, spending on independent 
+expenditures—by all persons, including unions and 
+corporations—for “advocating the election or defeat of a 
+candidate.” See id. at 39-40. The Court held that this phrase 
+was unconstitutionally vague, because “the distinction 
+between discussion of issues and candidates and advocacy of 
+election or defeat of candidates may often dissolve in 
+
+
+15 
+
+
+practical application,” as “[c]andidates, especially incum- 
+bents, are intimately tied to public issues involving legislative 
+proposals and governmental actions,” “candidates campai n 
+on the basis of their positions on public issues,” per 
+campaigns themselves generate issues of public interest ~ 
+Id. at 42 (footnote omitted). And, “ ‘[d]iscussions of those 
+issues, as well more positive efforts to influence public 
+opinion on them, tend naturally and inexorably to exert some 
+influence on voting at elections.’” Id. at 42 n.5O (emphasis 
+
+
+added), quoting Buckley v. Valeo, 519 F 
+ae : _ .2d 817, 875 (D.C. 
+
+
+Buckley's crucial insight concerning the inextricable con- 
+nection between issues and elections, the futility of regulatin 
+public speech on the basis of perceived “intent” or “effect,” 
+and [t]he compelling public interest, guaranteed by the First 
+Amendment, in persons making and receiving commentary 
+on candidates because they are candidates, and on issues 
+because they are pertinent to an ongoing election, are now 
+deeply embedded in the law and our political culture. “{ T]he 
+notion that the special context of electioneering justifies an 
+abridgment of the right to speak out on disputed issues sets 
+our First Amendment jurisprudence on its head. ‘| DJebate on 
+the qualification of candidates’ is ‘at the core of our electoral 
+process and of the First Amendment freedoms,’ not at the 
+edges.” Republican Party of Minnesota v. White, 536 U.S 
+765, 781 (2002) (emphasis in original), quoting Eu v San 
+Francisco Democratic Central Comm., 489 U.S. 214 222-23 
+(1989). See also Harte-Hanks Communications " Con- 
+naughton, 491 U.S. 657, 686-87 (1989): Buckley v. Valeo 
+424 U.S. at 14; Monitor Patriot Co. vy. Roy, 401 US 265, 
+271-72 (1971) (“the constitutional guarantee has its fullest 
+pe saan nee application precisely to the conduct of 
+
+aigns for politica ”); Mi 
+~~ nn apt ho l office ); Mills v. Alabama, 384 U.S. 
+This Court has also repeatedly affirmed that where the 
+speaker on matters of public concern is a labor union, a 
+
+
+16 
+
+
+corporation or some other organized group, no lesser or 
+different First Amendment protection is at stake, for “the 
+inherent worth of the speech in terms of its capacity for 
+informing the public does not depend upon the identity of its 
+source, whether corporation, association, union, or individ- 
+ual.” First National Bank of Boston v. Bellotti, 435 U.S. 765, 
+777 (1978). In Bellotti, this Court invalided a criminal statute 
+barring corporations from making contributions or expendi- 
+tures in connection with ballot measures, because permitting 
+such advocacy “afford[s] the public access to discussion, 
+debate, and the dissemination of information and ideas.” /d. 
+at 783 (footnote omitted). See also Pacific Gas & Electric 
+Co. v. Public Utilities Comm., 475 U.S. 1, 8-9 (1986) (state 
+cannot require corporation to include statements of citizens 
+group in its newsletter to customers); Consolidated Edison 
+Co. v. Public Service Comm., 447 U.S. 530 (1980) (state can- 
+not preclude corporation from including with customer bills 
+its own newsletter that discusses public policy matters). ” 
+B. The Primary Definition Is Not Narrowly 
+Tailored 
+This Court has just once endorsed a governmental pro- 
+scription of candidate-related speech by an entity regulated by 
+§ 203, upholding, in Austin v. Michigan Chamber of Com- 
+merce, 494 U.S. 652 (1990), a state’s ban on the corpo- 
+
+
+Precisely because “speech on matters of public concern needs 
+‘breathing space’. . . in order to survive,” Nike, Inc. v. Kasky, 123 S.Ct. 
+2554, 2565 (2003), (Breyer, J., dissenting), quoting New York Times Co. 
+v. Sullivan, 376 U.S. at 272, Justice Breyer recently stated that where a 
+corporation’s regulable “purely commercial” speech is “inextricably 
+intertwined” with “non-commercial” (public issue-oriented) speech, it 
+must not be subject to state “false advertising” and related “unfair compe- 
+tition” regulation because that would chill corporations from “issu[ing] 
+significant communications relevant to public debate” and “thereby limit 
+the supply of relevant information available to those, such as journalists, 
+who seek to keep the public informed about important issues.” Id. at 
+2565-68 (interim quotation marks omitted). See also id. at 2558-59 
+(Stevens J., concurring). 
+
+
+17 
+
+
+rate financing of independent express advocacy expenditures. 
+In doing so, the Court “emphasize[{d]” that its decision turned 
+only on “the unique state-conferred corporate structure that 
+facilitates the amassing of large treasuries” that “have little or 
+no correlation to the public’s support for the corporation’s 
+political ideas” and that, accordingly,~ renders corporate 
+influence via independent expenditures “unfair[ ]” and reg- 
+ulable. /d. at 660.'' Austin does not identify any other 
+governmental interest that might be served by § 203, which 
+only proscribes speech other than express advocacy, as the 
+term beste communication” does not include either 
+an “expenditure” or an “independent expenditure” under 
+FECA, see 2 U.S.C. § 434(f)(3)(B)(ii), which comprise the 
+field of independent express advocacy speech. See 2 U.S.C 
+§ 431(17); FEC v. Massachusetts Citizens For Life pay 
+(“MCFL”), 479 U.S. 238, 248-49 (1986), on 
+
+
+Even assuming that § 203’s proscription of “electioneering 
+communications” under the primary definition is aimed at 
+serving the interests identified by the Court in Austin, it is not 
+narrowly tailored to do so. First, insofar as the definition 
+forecloses speech on matters of public concern that does not 
+include express advocacy, Buckley and MCFL teach that, 
+perforce, it is not narrowly tailored and is unconstitutional. 
+We adopt the briefs of other plaintiffs on this point. Second 
+because § 203 necessarily reaches a wide variety of speech 
+that is not election-related—whatever that means—or whose 
+connection with an election is at most attenuated, it is not 
+narrowly tailored because, as Bellotti demonstrates, a sub- 
+
+
+'' This Court has recognized no other rationale for regulating inde- 
+pendent expenditures, and has repeatedly rejected the notion that they 
+either implicate corruption or its appearance, or could serve as conduits to 
+circumvent contribution limits. See FEC v. Colorado Republican Federal 
+Campaign Committee (“Colorado II”), 533 U.S. 431, 440-41 (2001): 
+FEC vy. Nat'l Conservative Political Action Committee, 470 U.S 480, 
+490-501 (1985); Buckley v. Valeo, 424 U.S. at 39-58. _ 
+
+
+18 
+
+
+stantial amount of First Amendment-protected speech by 
+corporations and unions is necessarily covered. 
+
+The Government and BCRA’s congressional proponents 
+claim that § 203 captures only broadcast advertising that 
+comprises the virtual equivalent of express advocacy because 
+speech that “refers” to a candidate within 30 days of a pri- 
+mary or convention, or 60 days before a general election, 
+either must seek the candidate’s election or defeat or have 
+that effect. For that proposition they rely almost exclusively 
+upon the Buying Time reports of the Brennan Center, which 
+purport to analyze some ads broadcast during the 60 days 
+preceding the 1998 and 2000 general elections. Plaintiffs’ 
+opening brief in No. 02-1674, McConnell v. FEC, demon- 
+strates how these reports are deeply flawed and unreliable, 
+and we rely on that analysis here. But regardless of those 
+reports’ empirical worth, and even if this Court decides that 
+Congress could proscribe some union and corporate non- 
+express advocacy speech whose “intent” or “effect” is elec- 
+toral, § 203 is unconstitutionally overbroad because it neces- 
+sarily sweeps in too much speech that the First Amend- 
+ment protects. 
+
+By its very terms § 201 encompasses a substantial scope of 
+protected speech. Any kind of “referfence}” to a candidate is 
+included, even one that neither names nor visually depicts a 
+candidate so long as it refers to the candidate’s governmental 
+position or candidacy status, or makes some other “unam- 
+biguous reference” to the candidate. See 2 U.S.C. § 434(f)(3) 
+(A)(i); 11 C.F.R. § 100.29 (2002). Nor does this reference 
+have to have anything to do with the candidate’s status as a 
+candidate; any “reference” whatsoever to the individual that 
+satisfies § 201(a)’s transmission, temporal and audience 
+elements is proscribed, regardless of any other content or 
+context. Indeed, that context may include the fact that the 
+candidate is unopposed for reelection or faces only token 
+opposition, rendering electoral considerations moot. And, we 
+already know from the FEC’s BCRA rulemaking that the 
+
+
+19 
+
+
+primary definition includes communications referring to the 
+popular name of legislation that includes the name of a 
+candidate; promoting a candidate’s business; promoting a 
+ballot initiative or referendum, even without a reference to a 
+candidate; making public service announcements that include 
+the candidate; and promoting local tourism with reference to 
+the candidate. See Final Rule, “Electioneering Communi- 
+cations,” 67 Fed. Reg. 65190, 65200-03 (Oct. 23, 2002). 
+
+
+The potentially limitless variety of broadcast messages that 
+§ 203 precludes includes, for example, communications that, 
+as the record demonstrates: 
+
+
+° Call upon a Member of Congress to support or oppose 
+imminent legislation, or ask viewers or listeners to urge 
+the Member to do so; 
+
+e Inform the public, or express an opinion, about a 
+Member of Congress’s votes, legislative proposals or 
+performance otherwise; 
+
+e Respond directly to a Member who has criticized 
+the organization or taken issue with its activities or 
+policies; or 
+
+e Encourage candidates to commit that, if elected, they 
+will support or oppose particular legislation or policies. 
+
+The prohibition will have an even more startling impact 
+
+when the President is a candidate for reelection, a situation 
+that, of course, now exists. Beginning 30 days before 
+the first primary or caucus—for the 2004 election that date 
+is December 14, 2003, see www.vote-smart.org/election_ 
+president_state_primary_dates—§ 203 will criminalize broad- 
+cast references to the President in a series of geographic 
+blackouts that will continuously ripple throughout the Nation, 
+blocking every broadcast outlet, wherever located, whose 
+signal can reach 50,000 persons in an upcoming primary or 
+caucus state, until June 8, 2004.'’ See id. This blackout will 
+
+
+'? Additional 30-day blackout periods will transpire from July 18 until 
+the August 17, 2004 Wyoming caucus, and from July 25 until the August 
+
+
+20 
+
+
+become national in scope on July 31, thirty days before the 
+August 30 - September 2 Republican National Convention, 
+see www.fec.gov/press/20030630convention, and it will then 
+continue without interruption throughout the remaining 60 
+days until the November 2 election. Thus, from July 31 , 2004 
+until the election, it will be a crime for a union, corporation or 
+incorporated non-profit organization to pay to broadcast any 
+“refer[ence]” to the President, by “name,” “photograph, 
+“drawing” or other “unambiguous” means, anywhere in the 
+United States. | 
+
+It is very much to the point in this case that “fujnions have 
+traditionally aligned themselves with a wide range of social, 
+political and ideological viewpoints,” Lehnert v. Ferris 
+Faculty Ass'n, 500 U.S. 507, 516 (1991), and they have 
+always played a vital role in the public arena as advocates for 
+both their members and all workers. See generally Ellis v. 
+Bhd. of Railway and Airline Clerks, 466 U.S. 435, 446 
+(1984); Eastex, Inc. v. NLRB, 437 U.S. 556, 565-66 (1978); 
+Abood vy. Detroit Bd. of Education, 431 U.S. 209, 227-32 
+(1977); Pipefitters v. United States, 407 U.S. 385, 402-32 
+(1972); Machinists v. Street, 367 U.S. 740, 767 (1961); id. 
+at 798, 800-03, 812-16 (Frankfurter, J., dissenting); '* United 
+
+
+24 Alaska primary. See www. vote-smart.org/election_president_state_ 
+rimary_dates. 
+
+: Hs Ke the AFL-CIO itself and its predecessor, the AFL, Justice Frank- 
+furter wrote over 40 years ago: 
+
+American labor’s initial role in shaping legislation dates back 
+
+130 years. With the coming of the AFL in 1886, iabor on a national 
+
+scale was committed not to act as a class party but to maintain a 
+
+program of political action in furtherance of its industrial standards. 
+
+_.. When one runs down the detailed list of national and interna- 
+
+tional problems on which the AFL-CIO speaks, [t]he notion that 
+
+economic and political concerns are separable is pre-Victorian. 
+
+Presidents of the United States and Committees of Congress invite 
+
+views of labor on matters not immediately concerned with wages, 
+
+hours, and conditions of employment. And this Court accepts briefs 
+
+as amici from the AFL-CIO on issues that cannot be called indus- 
+
+
+SR air SARI POIs, ee 
+
+
+ee 
+
+
+21 
+
+
+States v. United Auto Workers, 352 U.S. 567, 578-86 (1957); 
+United States v. CIO, 335 U.S. 106, 115-21 (1948): id. at 
+143-46 (Rutledge, J., concurring)."* 
+
+
+Thus, when unions engage in speech on matters of public 
+concern, they “amplify[] the voice of their adherents.” 
+Buckley, 424 U.S. at 22. And, as we have shown the AFL- 
+CIO's broadcast advocacy over a seven-year period has been 
+a seamless year-in, year-out effort to shape the national issue 
+agenda, encourage congressional action, engender public 
+support for the labor movement’s policy priorities, and 
+influence debate during election periods to reflect worker 
+concerns. This advocacy certainly might “affect,” or be 
+perceived to “affect,” elections in the sense of influencing the 
+electoral issue climate, forcing candidates to address union 
+priority matters, informing the public and generating popular 
+pressure on candidates to embrace particular policies. In turn, 
+the labor movement’s impact on public policy is only 
+enhanced when electoral considerations motivate office- 
+holders. But these are essential and inevitable aspects of 
+“speech on matters of public concern.” 
+
+
+trial, in any circumscribed sense. It is not true in life that political 
+
+protection is irrelevant to and insulated from economic interests. It 
+
+is not true for industry or finance. Nor is it true for labor. 
+Machinists v. Street, 367 U.S. at 812, 814-15 (Frankfurter, J., dissenting) 
+(footnote omitted). 
+
+‘' In Austin, the Court determined that the ban on corporate inde- 
+pendent expenditures, which did not apply to unincorporated labor 
+organizations, was not fatally underinclusive for that reason because there 
+are “crucial differences between unions and corporations,” id. at 666, 
+namely, unions do not partake of the “significant state-conferred advan- 
+tages of the corporate structure,” and while they “may be able to amass 
+large treasuries” otherwise, “the funds available for a union’s political 
+activities more accurately reflect members’ support for the organiza- 
+tion’s political views than does a corporation’s general treasury.” /d. at 
+665-66. 
+
+
+22 
+
+
+The overbreadth doctrine affords recourse against a law 
+that “may deter or ‘chill’ constitutionally protected speech— 
+especially when the overbroad statute imposes criminal 
+sanctions.” Virginia v. Hicks, 123 S.Ct. 2191, 2196 (2003). 
+Those who “abstain from protected speech” “rather than 
+undertake the considerable burden (and sometimes risk) of 
+vindicating their rights through case-by-case litigation... 
+harm[ ] not only themselves but society as a whole, which is 
+deprived of an uninhibited marketplace of ideas. Id. ‘For 
+that reason, the First Amendment does not permit a 
+prohibition of al/ candidate-referential speech merely because 
+some of that speech could be viewed, and might even be 
+intended, to have an electoral impact. “[T]he argument... 
+that protected speech may be banned as a means to ban 
+unprotected speech . . . turns the First Amendment upside 
+down. The Government may not suppress lawful speech as 
+the means to suppress unlawful speech. Protected speech 
+does not become unprotected merely because it resembles the 
+latter. The Constitution requires the reverse.” Ashcroft v. 
+Free Speech Coalition, 535 U.S. 234, 255 (2003). Section 
+203, however, is predicated on just such an assumed 
+“resembl[ance],” and even identity, between _ express 
+advocacy and references to candidates in particular times and 
+places. As we have shown, § 203’s reliance upon a candi- 
+date reference as a proxy for express advocacy widely misses 
+that mark. 
+
+In Secretary of State of Maryland v. J. H. Munson Co., 467 
+U.S. 947 (1984), the Court held that an anti-fraud statute 
+prohibiting a charity from paying fundraising expenses in an 
+amount more than 25% of the amount raised was uncon- 
+stitutionally overbroad, because this condition restricted First 
+Amendment-protected solicitations yet encompassed chari- 
+ties that legitimately incurred high costs because they en- 
+gaged in that protected conduct. “The flaw in the Statute Is 
+not simply that it includes within its sweep some imper- 
+missible applications, but that in all its applications it operates 
+
+
+~ ae 
+
+
+23 
+
+
+on a fundamentally mistaken premise that high solicitation 
+costs are an accurate measure of fraud.” /d. at 965 (footnote 
+omitted). So too here. Section 203’s premise that any broad- 
+cast reference to a candidate, including, of course, an 
+incumbent legislator, during certain times and to certain 
+audiences, is an accurate measure of “electioneering” utterly 
+fails to account for speakers who make such references in the 
+course of First Amendment-protected non-electoral commu- 
+nications. See also Erznoznik v. City of Jackson, 422 U.S. 
+205 (1975); United States v. National Treasury Employees 
+Union, 513 U.S. 454, 472-73 (1995): United States v. Robel, 
+389 U.S. 258, 262-66 (1967); Thornhill v. Alabama, 310 U.S. 
+at 97-98. Cf. Nike v. Kasky, 123 S.Ct. at 2564-69 (Breyer, J., 
+dissenting) (mixed commercial and_public-issue speech 
+cannot be subject to state false advertising laws.) 
+
+Finally, the overbreadth inquiry here cannot rise and fall on 
+the limited experience of two 60-day periods,"* irrespective of 
+what the Brennan Center reports purported to conclude. The 
+widespread use of paid broadcast advertising for non-public 
+service messages is a relatively recent phenomenon, yet § 203 
+would ban a substantial amount of such advertising for all 
+time in reliance upon only a fraction of even the experience to 
+date. And, the novelty of these broadcasts lies only in their 
+medium, not in their content, which falls well within the 
+American tradition of freewheeling commentary on public 
+affairs and public officials. Both experience, as the AFL-CIO 
+and other plaintiffs have shown, and common sense advise 
+that unions, corporations and other groups are likely to 
+
+
+'° Even defendants’ studies did not review advertising proximate to 
+primary elections, so there is no “empirical” evidence whatsoever regard- 
+ing the 30-day ban. ‘Yet “[f]ree discussion about candidates for public 
+office is no less critical before a primary than before a general election.” 
+Eu v. San Francisco Democratic Central Comm., 489 U.S. at 223. 
+especially in an era when redistricting has rendered party nominations for 
+House seats tantamount to election in most districts. Nor do defendants’ 
+studies consider the 30-day period preceding national party conventions. 
+
+
+24 
+
+
+continue to broadcast a wide range of messages that include 
+references to candidates, and that § 203 overbroadly restrains 
+their ability to do so. See generally Watchtower Bible & 
+Tract Society v. Village of Stratton, 536 U.S. 150, 167 (2002); 
+City of Houston v. Hill, 482 U.S. 451, 465-66 (1987); 
+Erznoznik v. City of Jacksonville, 422 U.S. at 213; Lewis v. 
+City of New Orleans, 415 U.S. 130, 134 (1974). And, it is 
+equally reasonable and pertinent to anticipate that Congress 
+will take advantage of the broadcast silence imposed by § 203 
+to schedule particular legislation when those most affected 
+are denied their preferred medium to respond swiftly and 
+effectively. Section 203 both suppresses essential speech and 
+facilitates official mischief and should be struck down. 
+
+
+II. BCRA’S BACKUP DEFINITION OF “ELEC- 
+TIONEERING COMMUNICATION” IS 
+UNCONSTITUTIONALLY VAGUE, AND 
+NEITHER OF ITS PRINCIPAL CLAUSES IS 
+SEVERABLE 
+
+
+BCRA § 201(a) alternatively provides a backup definition 
+of “electioneering communication,” codified at 2 U.S.C. 
+§ 434(f)(3)(A)(ii), that is to apply in the event that the 
+primary definition discussed above “is held to be con- 
+stitutionally insufficient by final judicial decision. .. .” The 
+backup definition includes any “broadcast, cable or satellite 
+communication” that (1) “promotes or supports a candidate 
+for that office, or attacks or opposes a candidate for that 
+office (regardless of whether the communication expressly 
+advocates a vote for or against a candidate)” “and” (2) “is 
+suggestive of no plausible meaning other than an exhortation 
+to vote for or against a specific candidate.” Unlike the 
+primary definition, the backup definition entails no temporal 
+Or audience restriction; it applies to all broadcasts, any 
+time, anywhere. And, under FECA, “candidate[s]” include 
+virtually all incumbent Representatives and Senators at all 
+times, first-term Presidents and Vice Presidents during 
+
+
+25 
+
+
+substantial periods of time, and Vice Presidents whenever 
+they run for President." 
+
+
+Since the backup definition, like the primary definition, on 
+its face eschews any limitation to express advocacy, Judge 
+Henderson correctly concluded that the backup definition is 
+unconstitutional. See S.A. 362sa. If this Court reaffirms its 
+prior holdings that Congress may not proscribe corporations 
+and unions from undertaking non-express advocacy com- 
+munications to the general public on matters of public 
+concern, then it must similarly strike down the backup 
+definition. But, even if the Court finds that its earlier 
+decisions on these matters are not controlling, the backup 
+definition should be struck down as impermissibly vague and 
+overbroad. 
+
+A. The Second Prong of the Backup Definition Is 
+Unconstitutionally Vague 
+
+This Court has explained that “[i]t is a basic principle of 
+due process that an enactment is void for vagueness if its 
+prohibitions are not clearly defined,” for “where a vague 
+statute abut[s] upon sensitive areas of basic First Amendment 
+freedoms,’ it ‘operates to inhibit the exercise of [those] 
+freedoms.” Uncertain meanings inevitably lead citizens to 
+‘““steer far wider of the unlawful zone . . . than if the 
+boundaries of the forbidden areas were clearly marked.’” 
+Grayned y. City of Rockford, 408 U.S. 104, 108-09 (1972) 
+(footnotes and citations omitted). Moreover, “adequate 
+notice to a person of ordinary intelligence that his con- 
+templated conduct is illegal” is particularly important in a 
+
+
+'© A person becomes a “candidate” within the meaning of FECA, for 
+example, upon receiving contributions in excess of $5,000, 2 U.S.C. 
+§ 431(2)(A), a threshold routinely met by incumbent Members of Con- 
+gress almost immediately after winning their most recent election. See 
+also 11 C.F.R. § 100.3. As a practical matter, only a Member who has 
+announced his or her retirement or has lost a nomination contest is not a 
+“candidate.” 
+
+
+26 
+
+
+criminal statute, Buckley, 424 U.S. at 77, and “where First 
+Amendment rights are involved, an even greater degree 
+of specificity is required.” /d. (interior quotation marks 
+omitted). See also Village of Hoffman Estates v. Flipside, 
+Hoffman Estates, 455 U.S. 489, 499 (1982). 
+
+
+Judge Leon, joined by Judge Kollar-Kotelly, see S.A. 
+885sa-86sa, correctly determined that the phrase “suggestive 
+of no plausible meaning other than an exhortation to vote” 
+was unconstitutionally vague because it “depends on a num- 
+ber of variables such as the context of the campaign, the 
+issues that are the centerpiece of the campaign, the timing of 
+the ad, and the issues with which the candidates are 
+identified.” See S.A. 1164sa (footnote omitted). Addition- 
+ally, the subsequent language “for or against a specific 
+candidate,” unlike the phrase “refers to a clearly identified 
+candidate” in the primary definition, both is undefined and 
+entails no requirement that the communication itself name or 
+otherwise unambiguously refer to a candidate; instead, it 
+admits the possibility that a viewer or listener, again solely as 
+a subjective function of context, might independently conjure 
+up the thought of a candidate.'’ Because this prong of the 
+
+
+” In Buckley, this Court approvingly equated to express advocacy the 
+clarity of the statutory phrase “clearly identified” (then in FECA 
+§ 608(e)(2)), because it required “an explicit and unambiguous reference 
+to the candidate . . . as part of the communication.” 424 U.S. at 43 
+(footnote omitted). That observation strongly suggests that statutory 
+terms defining prohibited communications that encompass less direct 
+references to a candidate are unconstitutionally vague. If so, the backup 
+definition plainly falls short, for it variously uses the formulation 
+“candidate for that office” (and the phrase “that office” has no certain 
+previous referent in the statute); “candidate,” with no qualifier, which also 
+appears in new 2 U.S.C. § 431(20)(A)(iii); and “specific candidate,” a 
+formulation not otherwise found in FECA, and which presumably differs, 
+somehow, from both “candidate” and “refers to a clearly identified 
+candidate”. (The latter formulation, approved in Buckley, appears in both 
+the primary definition, at 2 U.S.C. § 434(f)(3)(A)(1)(D, and in 2 U.S.C. 
+§ 431(20) Aiii).) 
+
+
+OG aa” peer 
+
+
+27 
+
+
+backup definition does not solely rely upon the text of a 
+communication, a person’s concern that a court might find 
+that his speech is “suggestive” of only one “plausible”’— 
+express electoral advocacy—meaning, unacceptably **puts 
+the speaker wholly at the mercy of the varied understanding 
+of his hearers,’” “‘blankets with uncertainly whatever may be 
+said,” and “‘compels the speaker to hedge and trim.”” 
+Buckley, 424 U.S. at 43, quoting Thomas v. Collins, 323 U.S. 
+516, 535 (1945). 
+
+Moreover, BCRA defines neither of the key terms “sug- 
+gestive” and “plausible”, and their ordinary definitions 
+palpably demonstrate their imprecision. The word “sugges- 
+tive” means “[t]Jending to suggest thoughts or ideas” or 
+“[clonveying a suggestion or hint.” Webster II New College 
+Dictionary (1999: Houghton Mifflin Co., Boston, MA) 
+(“Webster”). The word “plausible” means “[s]eemingly or 
+apparently valid, likely, or acceptable.” /d. Plainly, both 
+“suggestive” and “plausible” leave much to the subjective 
+imagination. Cf. Hynes v. Mayor of Oradell, 425 U.S. 610, 
+622 (1976) (invalidating a municipal ordinance requiring 
+persons to give advance notice of door-to-door canvassing for 
+a “recognized charitable cause” or a “political . . . cause” 
+because, inter alia, those terms are unconstitutionally vague). 
+And, the final phrase “exhortation to vote for or against” is 
+also undefined in the statute and is hardly distinguishable 
+from the phrase “advocating the election or defeat,” which, as 
+noted earlier, Buckley held to be unconstitutionally vague." 
+
+
+'* A Lexis search reveals that each of these BCRA terms is either 
+unique or virtually unique in the United States Code. Neither “exhor- 
+tation” nor “exhort” appears at all. “Suggestive” appears but once, in the 
+phrase “injuries suggestive of rape and sexual assault.” See 42 U.S.C. 
+§ 3796gg. And “plausible” appears only in the phrases “plausible 
+biological mechanism”, see 38 U.S.C. §§ 1116 and 1117, and “plausible 
+deniability.” See 5O U.S.C. § 2301. None of these usages concerns the 
+nature or meaning of language or communications. 
+
+
+28 
+
+
+B. The First Prong of the Backup Definition Is 
+Unconstitutionally Vague 
+
+
+The key language of the first prong of the backup 
+definition “promotes or supports a candidate . . . or attacks or 
+opposes a candidate’—is also unconstitutionally vague. 
+BCRA defines none of these terms, and they too have no 
+precise meanings. Thus, “promote” can mean “contribute to 
+the progress or growth of” or “attempt to sell or popularize by 
+advertising.” Webster. “Support” can mean “aid the cause of 
+by approving, favoring or advocating.” Jd. “Attack” can 
+mean “criticize strongly or in a hostile manner.” /d. And, 
+“oppose” can mean “be in conflict or contention with”; “be in 
+disagreement with or resistant to”; “place in opposition or be 
+in Opposition to”; or “act or be in opposition to.” /d. 
+
+Moreover, the “promote or support. . .” prong inherently 
+invites the same examination of an ad’s context that Judge 
+Leon correctly found fatal to the “suggestive of no plausible 
+meaning. . .” prong. Thus, the communication need not even 
+refer to the candidate if its context might somehow remind 
+the viewers or listeners about the candidate. Yet even, for 
+example, an advertisement’s request that viewers or listeners 
+contact a named candidate might be considered “promoting” 
+or “opposing” the candidate if viewers were called upon to 
+ask the candidate to oppose legislation with which he or she 
+is identified as a sponsor; the candidate’s position on the 
+matter at issue was both firmly held and widely known, so the 
+“call” request in the ad reminded viewers of that position; or 
+the bill or issue cited was central to an ongoing campaign, so 
+raising it in the context of a “call” request underscored the 
+issue to the candidate’s benefit or detriment. Given these 
+entirely ordinary scenarios, a would-be speaker could not be 
+confident that even a “call” ad would pass muster. 
+
+Judge Leon, again joined by Judge Kollar-Kotelly, see S.A. 
+885sa-86sa, concluded below, however, that this prong is not 
+unconstitutionally vague, declaring simply that “ta person of 
+ordinary intelligence would understand what is prohibited” 
+
+
+Sl a 
+
+
+29 
+
+
+because “one need only conclude, in effect, that the ad is not 
+neutral as to both candidates for it to have satisfied the 
+backup definition” (emphasis in original).'" See S.A. 1163sa. 
+But, what does “not neutral” mean? Judge Leon elaborated 
+with an AFL-CIO advertisement entitled “No Two Way,” 
+which discussed a Representative in his or her legislative 
+capacity and that, Judge Leon concluded, “was not neutral as 
+to a federal candidate, as it attacks his or her position on the 
+federal budget.” See S.A. 1163sa. And, Judge Leon’s 
+examples of what he classified as permissible “[g]enuine 
+[iJssue [a]dvertisements” and impermissible “[cJandidate- 
+[cJentered [i]ssue [a]dvertisements”—all of which are ads 
+broadcast by the AFL-ClO—provide no clearer guidance. 
+See S.A. 1165sa, 1372sa-79sa. 
+
+
+Whatever “not neutral” may mean, Judge Leon’s construc- 
+tion plainly would preclude a union, business corporation, or 
+incorporated non-profit group from broadcasting anything 
+anywhere at any time that conveyed any of a substantial range 
+of non-electorally referential opinions about the actions and 
+gualities of any individual who is a “candidate”’—including, 
+as we have shown, virtually every incumbent Senator and 
+Representative at virtually all times, and an incumbent 
+President for a substantial period of time. In fact, from May 
+16, 2003, when President Bush legally became a candidate 
+for reelection, see Washington Post, p. Al (May 17, 2003), 
+until May 19, when the district court stayed its May 2 
+decision below, it was a federal crime for a union, corporation 
+or incorporated non-profit organization to broadcast anything 
+
+
+'’ Nonetheless, Judge Leon’s certitude on this point was apparently 
+short-lived; on May 19, he declared that a stay of the court’s May 2 
+judgment invalidating the primary definition was warranted because “the 
+FEC’s unfortunate failure to promulgate regulations for the backup 
+definition, as it did for the primary definition, has sufficiently deprived the 
+parties of guidance regarding the contours of the backup definition.” 
+Memorandum Opinion, at 3 (May 19, 2003) (Leon, J., dissenting in part 
+and concurring in part) (footnote omitted). 
+
+
+30 
+
+
+that was “not neutral” about the President, irrespective of its 
+subject matter or its urgency to a policy or legislative goal of 
+the organization. Such overbreadth is an unacceptable cure 
+for vagueness. Cf. Buckley, 424 U.S. at 44-47 (construing 
+FECA §608(e)(1) to reach only express advocacy but then 
+invalidating its limit on independent expenditures because it 
+“severely restricts all independent advocacy despite its 
+substantially diminished potential for abuse’’). 
+
+
+Notably, in its BCRA rulemaking, the FEC declined to 
+adopt numerous exceptions to the primary definition of “elec- 
+tioneering communication” because 2 U.S.C. §§ 434(f)(2) 
+(B)(iv) bars a regulatory exception for any communication 
+that “promotes,” “supports,” “attacks” or “opposes” a candi- 
+date, and the FEC concluded that virtually any reference to a 
+candidate might be so considered. See Final Rule, “Elec- 
+tioneering Communications,” 67 Fed. Reg. at 65200-03. 
+And, in this same rulemaking, the defendant-intervenors 
+urged the FEC not to include the “promotes or supports. . .” 
+phrase in any exception because it was “subjective” and 
+would “create[ ] uncertainty about whether a communication 
+will be covered by the law.” Detailed Comments of BCRA 
+Sponsors Senator John McCain, Senator Russell Feingold, 
+Representative Christopher Shays, Representative Martin 
+Meehan, Senator Olympia Snowe and Senator James 
+Jeffords, at 8, 6 (August 23, 2002). www.fec.gov/pdf 
+/nprm/electioneering_comm/comments/us_cong_members. 
+pdf.” Certainly, if this phrase cannot provide sufficient clarity 
+in an exception to the primary definition of “electioneering 
+
+
+7 6 
+
+
+2» :; —_ 
+
+In the same vein, principal BCRA sponsor and defendant-intervenor 
+Senator McCain urged the defeat of an amendment to his bill proposed by 
+Senator Bingaman that would have afforded a “clearly identified 
+candidate” who was “attack{ed] or oppose[d]” by a person in any broad- 
+cast an opportunity, without charge, to respond on the same broadcast 
+station, because, in part, “i]t is very difficult to define what a negative ad 
+is” that the amendment would cover. See 147 Cong. Rec. $3114 (daily 
+ed., March 29, 2001). 
+
+
+31 
+
+
+communication,” then it is unconstitutionally vague as an 
+explicit component of the backup definition itself. 
+C. The Backup Definition Is Not Severable 
+
+
+Even if the majority below was correct that the first prong 
+of the backup definition is sufficiently clear, its decision to 
+save that prong by severing it from the second prong, which it 
+acknowledged was unconstitutionally vague, see S.A. 1165sa 
+(Leon, J.), was wrong for two reasons. 
+
+
+First, the legislative history*' of BCRA makes evident that 
+Congress’s highly unusual enactment of a backup definition 
+of a statutory term was the -product of a legislative com- 
+promise intended to ensure that one of these particular 
+formulations would survive constitutional challenge intact, 
+and not that a mere fragment of either would remain. As 
+introduced, the original Senate bill contained only what is 
+now the primary definition of “electioneering communi- 
+cation.” See S. 27, Section 201, 107th Cong., Ist Sess. 
+(2001). Senator Specter initially offered an amendment to 
+incorporate in that definition both the “promotes or sup- 
+ports. . .” clause as it now appears in the backup definition 
+and the clause “when read as a whole, and in the context of 
+external events, is unmistakable, unambiguous and suggestive 
+of no plausible meaning other than an exhortation to vote for 
+
+
+— 
+
+
+*' The question of severability requires “essentially an inquiry into 
+legislative intent.” Minnesota v. Mille Lacs Band of Chippewa Indians, 
+526 U.S. 172, 191 (1995). Although BCRA contains a severability 
+clause, Section 401, providing that if any “provision” or “amendment,” or 
+the “application” of either, to “any person or circumstance” is “held to be 
+unconstitutional,” the “remainder” of the act and its “application . . . to 
+any person or circumstance, shall not be affected,” a severability clause 
+“*is an aid merely; not an inexorable command,” Reno v. American Civil 
+Liberties Union, 521 U.S. 844, 885 n.49 (1997), quoting Dorchy v. 
+Kansas, 264 U.S. 286, 290 (1924), because “separation-of powers con- 
+cerns” compel courts to steer clear of engaging in legislative conduct or 
+rewriting laws. Reno, 521 U.S. at 884-85 and n.50. See also United 
+States v. Jackson, 390 U.S. 570, 586 n.27 (1968). 
+
+
+32 
+
+
+or against a specific candidate.” See Amendment No. 140, 
+147 Cong. Rec. $2700, $2704 (daily ed., March 22, 2001). 
+Senator Specter explained that he drew the first clause from 
+“language...existing in McCain-Feingold” (in what is now 2 
+U.S.C. § 431(20)(A)(iii)) and the second clause from FEC vy. 
+Furgatch, 807 F.2d 857 (9th Cir.), cert. denied, 484 U.S. 850 
+(1987), and that he offered the amendment because he feared 
+that, without them, the definition in the bill was highly 
+vulnerable to invalidation under Buckley. See 147 Cong. Rec. 
+at $2706. 
+
+
+In the ensuing debate, Senators Thompson, Biden and 
+Snowe (one of the two co-authors of the primary definition) 
+stressed the importance of maintaining a bright-line definition 
+of “electioneering communication.” /d. at $2708-12. Senator 
+Specter responded by offering to convert his amendment from 
+a modification of the definition to a separate, alternative 
+definition: “to put in the ‘or’, the disjunctive instead of ‘and’, 
+the conjunctive so that there is severability. And where one is 
+decided to be inefficient [sic] to satisfy the vagueness 
+standards of Buckley, the other might be sufficient—picking 
+up on what [Senator Biden] said, having the safeguard.” /d. 
+at $2712. It was this alternative that was ultimately enacted 
+as the backup definition. See id. at $3119-20, $3122-23. 
+
+
+Thus, the explicit legislative compromise was an either-or 
+pairing of two palatable definitions of “electioneering com- 
+munication” —the primary definition and the backup defini- 
+tion. The Court should refrain from severing either prong of 
+the backup definition from the other if it finds either to be 
+unlawful, for “drawing one or more lines between categories 
+of speech covered by an overly broad statute . . . involves a 
+. .. Serious invasion of the legislative domain.” United States 
+v. National Treasury Employees Union, 513 U.S. 454, 479 
+n.26 (1995). See also Reno v. American Civil Liberties 
+Union, 521 U.S. at 884-85. 
+
+Second, by severing the first prong after invalidating the 
+second, the majority below adopted a definition of “elec- 
+
+
+33 
+
+
+tioneering communication” that, whatever its actual scope, is 
+undeniably a significantly broader prohibition than either the 
+full backup definition or the primary definition, and it simply 
+cannot be concluded that Congress intended that result. Cf. 
+Frost v. Corporation Commission of Oklahoma, 278 U.S. 
+515, 525 (1929) (when an “excepting proviso is found 
+unconstitutional the substantive provisions which it qualifies 
+cannot stand,” because “to hold otherwise would be to extend 
+the scope of the law...so as to embrace [circumstances] which 
+the legislature passing the statute had, by its very terms, 
+expressly excluded”’). 
+
+Accordingly, if this Court determines that either prong of 
+the backup definition is unconstitutional, then the entire 
+definition should be held non-severable and void. 
+
+Ill. BCRA’S COORDINATION PROVISIONS ARE 
+UNCONSTITUTIONALLY VAGUE AND 
+OVERBROAD. 
+
+A. BCRA’s Coordination Provisions Directly 
+Regulate Protected Speech and Associational 
+Activities. 
+
+All three judges below correctly recognized that BCRA’s 
+definition of coordination must be narrowly and clearly 
+drawn in order to avoid interfering with First Amendment 
+rights. S.A. 143sa (Per Curiam), 386sa-387sa (Hender- 
+son, J.). In holding that the FEC could not define coor- 
+dination to include all expenditures by political party com- 
+mittees in support of their candidates, the Court recognized 
+that the definition of coordination implicates both freedom of 
+speech and freedom of association because it determines 
+whether communications are fully protected as independent 
+expenditures or are subject to the lesser degree of con- 
+stitutional protection afforded to contributions. See Colorado 
+Republican Federal Campaign Comm. v. Federal Election 
+Commission, 518 U.S. 604, 615-16, 619-22 (1996) (“Colo- 
+rado I’). Moreover, insofar as the definition of “coordina- 
+tion” depends on a speaker’s contacts with his elected 
+
+
+34 
+
+
+representatives and candidates, it implicates the fundamental 
+right of citizens “to make their wishes known to their 
+representatives.” Eastern Railroad Presidents Conf. v. Noerr 
+Motor Freight, Inc., 365 U.S. 127, 137 (1961). See also 
+United States v. Harriss, 347 U.S. 612, 635 (1954) (Jackson, 
+J. dissenting). And, insofar as the definition of “coordina- 
+tion” depends on the contacts between a speaker and a polit- 
+ical party, it implicates the equally fundamental right “to 
+associate with the political party of one’s choice.” Kusper v. 
+Pontikes, 414 U.S. 51, 57 (1973). See also Eu v. San Fran- 
+cisco County Democratic Central Comm., 489 U.S. at 
+224; Tashjian v. Republican Party of Conn., 479 U.S. 208, 
+214 (1986). 
+
+
+BCRA’s coordination provisions not only implicate First 
+Amendment rights by limiting freedom of speech, freedom of 
+association and the right to petition the government, they also 
+threaten these rights by intruding into highly sensitive private 
+political activities which are at “‘the very heart of the 
+organism which the first amendment was intended to nurture 
+and protect.’”” AFL-CIO v. Federal Election Commission, 
+F.3d 168, 179 (D.C. Cir. 2003), quoting FEC v. Machinists 
+Non-Partisan Political League, 655 F.2d 380, 388 (D.C. 
+Cir.), cert denied, 454 U.S. 897 (1981). By definition, 
+enforcement of coordination rules “‘inevitably . . . involves 
+an intrusive and constitutionally troubling investigation of the 
+inner workings of political [actors].’” Colorado II, 533 U.S. 
+at 471 n.3 (Thomas, J., dissenting, quoting with approval 
+from Brief for American Civil Liberties Union, et. al. as 
+Amici Curiae 18). See Gibson v. Florida Legislative 
+Investigation Comm., 372 U.S. 539, 557 (1963); Sweezy v. 
+New Hampshire, 354 U.S. 234, 245 (1957) (Frankfurter, J. 
+concurring). As Judge Henderson put it in her dissenting 
+opinion, “in the absence of a clear and narrow definition of 
+coordination, an organization’s ideological opponents need 
+only assert that it is engaged in such activity to initiate a 
+crippling litigation process that could prevent the organiz- 
+
+
+~ 
+
+
+35 
+
+
+ation from participating, legally, in lobbying or speech 
+activities.” S.A. 387sa.” 
+
+In the late 1990’s, three lower courts attempted to limit the 
+chilling effect of FEC’s omnibus coordination investigations 
+by narrowing the definition of coordinated political activities. 
+See Clifton v. Federal Election Commission, 114 F. 3d 1309 
+(Ist Cir. 1997), cert denied, 522 U.S. 1108 (1998); Federal 
+Election Commission v. Public Citizen, Inc., 64 F. Supp. 2d 
+1327 (N.D. Ga. 1999), rev'd on other grounds, 268 F.3d 1283 
+(11th Cir. 2001); Federal Election Commission v. Chris- 
+tian Coalition, Inc., 52 F. Supp. 2d 45 (D.D.C. 1999). 
+Responding to the direction given in these decisions, and 
+noting that “[t}he statutory terms are not inherently clear, nor 
+
+
+2? The record amply supports Judge Henderson’s conclusion regarding 
+the “crippling” and intrusive impact of coordination investigations. In one 
+leading coordination case brought against the Christian Coalition, the FEC 
+conducted extensive discovery into the inner workings of the organization 
+as well as private discussions between the leaders of the organization and 
+numerous public officials. See Federal Election Commission v. C ‘hristian 
+Coalition, Inc., 52 F. Supp. 2d 45 (D.D.C. 1999). In another major 
+enforcement case involving a coalition of business organizations, 
+including the Chamber of Commerce and the National Association of 
+Manufacturers, the Commission conducted a “disruptive, burdensome and 
+expensive” investigation, S.A. 284sa, involving “four years of extensive 
+discovery,” S.A. 283sa, in order to determine whether lobbying meetings 
+between business lobbyists and Congressional staff members were used to 
+coordinate broadcast advertisements run during the 1996 election cycle. 
+And, in a far-ranging, four-year investigation of the AFL-CIO’s campaign 
+and lobbying activities during the 1995-96 election cycle initiated by 
+the organization’s political opponents, the Commission's investigators 
+sought evidence from more than 150 respondents and third-party wit- 
+nesses, including the White House, the Clinton/Gore ‘96 Campaign, and 
+100 Members of Congress, and subpoenaed more than 50,000 pages of 
+“extraordinarily sensitive political information [including] plans and stra- 
+tegies for winning elections, materials detailing political and associational 
+activities, and personal information concerning hundreds of employees, 
+volunteers and members of the Plaintiff organizations.” AFL-C/O vy. 
+Federal Election Commission, 177 F. Supp. 2d 48, 51 (D.D.C. 2001), 
+aff d, 333 F.3d 168 (D.C.Cir. 2003). 
+
+
+36 
+
+
+does the Act’s legislative history provide much guidance,” 
+the FEC on December 6, 2000 issued regulations intended to 
+“fill what is largely a vacuum in this area.” Final Rule, 
+“General Public Political Communications Coordinated With 
+Candidates and Party Committees; Independent Expend- 
+itures,” 65 Fed. Reg. 76138, 76141 (Dec. 6, 2000), adopting 
+11 C.F.R. § 100.23 (2001). BCRA, however, reinstates the 
+open-ended standards that were in effect prior to the courts’ 
+decisions and the 2000 regulations, once again raising serious 
+impediments to the free speech and associational rights of 
+all citizens. 
+
+B. BCRA’s Provisions Regulating Coordinated 
+Electioneering Communications And Expen- 
+ditures Are Vague And Overbroad. 
+
+BCRA §214(a)(2) does not use the word “coordination” at 
+all,’ but provides instead that expenditures made by any 
+person, other than a candidate or candidate’s authorized 
+committee, “in cooperation, consultation or concert with, or 
+at the request or suggestion of” a political party committee 
+shall be considered to be contributions made to such party. 
+See 2 U.S.C. § 441a(a)(7)(B)(ii). This language offers no 
+clear guidance to political actors and the agencies charged 
+with enforcing the campaign finance laws. Does a political 
+party “request or suggest” expenditures by third parties 
+when a party official publicly identifies the party’s principal 
+
+
+°* BCRA § 202 provides that if any person makes or contracts to make 
+any disbursement for any electioneering communication and such 
+disbursement is “coordinated with” a candidate or political party, the dis- 
+bursement or contracting shall be treated as a contribution to the candidate 
+supported by the electioneering communication or that candidate's party. 
+2 U.S.C. § 441a(a)(7(C). The Court need not consider whether § 202's 
+bare reference to “coordination” is constitutionally adequate because the 
+FEC regulations issued under BCRA apply the same standards for 
+coordinated electioneering communications under § 202 as they apply to 
+other coordinated communications under § 214(a)(2). See 11 C.F.R. 
+§ 109.21(c)(1). 
+
+
+ee ae ie 
+
+
+37 
+
+
+campaign themes and the states where the party hopes to 
+prevail? Is the result different if the same message is 
+delivered in a “private” strategy session, and, if so, how many 
+party activists must be present before a meeting loses its 
+private character? Has a union official acted “in cooperation 
+
+. Or concert with” a political party if he meets with the 
+party’s congressional leadership to plan strategy in support of 
+the party’s legislative agenda, including union expenditures in 
+support of that agenda? If a trade association lobbyist 
+participates in planning party activities during the early stages 
+of a campaign season, will the use of information she his 
+learned about the party’s plans turn all of her group’s sub- 
+sequent independent expenditures into contributions because 
+of improper “consultation”? These are only a few of the 
+myriad unanswered questions raised by § 214(a)(2)’s expan- 
+sive and unclear language, the uncertainty and breadth of 
+which pose a substantial risk of deterring legitimate involve- 
+ment of citizens in political parties. 
+
+The two judges below who voted to uphold §§ 202 and 
+214(a)(2) did not attempt to show that the statutory language 
+is clear and narrowly drawn; indeed, the majority ignored the 
+statutory language completely. Instead, the majority rejected 
+plaintiffs’ challenge to the scope of § 202 by reference to its 
+analysis of § 214(a)(2), see S.A. 130sa, and it rejected the 
+vagueness challenge to § 214(a)(2) in part on the dubious 
+ground that the same language has long appeared in FECA’s 
+provision relating to coordination with candidates, 2 U.S.C. 
+§ 441a(a)(7)(B)(i).* S.A. 135sa-136sa, 137sa. The fact that 
+
+
+The majority below erroneously suggested that the Court approved 
+the language of 2 U.S.C. § 441a(a)(7)(B)(i) in Buckley v. Valeo. S.A. 
+138sa-140sa. There, the Court located the coordination principle in 
+FECA § 608(c)(2)(B), which then provided that expenditures “made by or 
+on behalf of” any candidate were to be treated as expenditures of the 
+candidate and contributions by the person or group making the expen- 
+ditures, see 424 U.S. at 47 n.53, and further provided that expenditures are 
+to be treated as “made by or on behalf of any candidate” if they are 
+
+
+38 
+
+
+statutory language is longstanding does not in itself mean that 
+the language is clear or that it provides adequate guidance to 
+those who must adhere to its mandate. See Colorado II, 533 
+U.S. at 472 (Thomas, J., dissenting) (“we have never before 
+upheld a limitation on speech simply because speakers have 
+coped with the limitation for 30 years”). The parallel 
+language in FECA might be relevant if the FEC or the courts 
+had rendered interpretations which narrowed the statute’s 
+scope and made its language more clear. However, the FEC 
+itself recognized as late as 2000 that “[t]he statutory terms [of 
+FECA’s coordination provision] are not inherently clear,” 
+Final Rule, “General Public Political Communications Coor- 
+dinated With Candidates and Party Committees; Independent 
+Expenditures,” 65 Fed. Reg. at 76141, and the agency’s effort 
+to narrow the statutory language at that time has been 
+repealed by BCRA § 214(b), itself. See Pub. L.107-155, § 
+214(b), 116 Stat.81, 94-95 (2002). While the majority in 
+Colorado II did not address the question, the four dissenters 
+stated clearly that FECA’s definition of coordinated 
+expenditures is unconstitutionally overbroad. See 533 U.S. at 
+467-468 (Thomas, J., dissenting, joined by Rehnquist, C.J., 
+and Scalia and Kennedy, JJ.) (2 U.S.C. § 441a(a)(7)(B)(i) 
+
+
+“authorized or requested by the candidate, an authorized committee of the 
+candidate, or an agent of the candidate.” 18 U.S.C. § 608(c)(2)(B), 
+reprinted at 424 U.S. 191 (emphasis added). Whether or not the Court 
+actually “upheld” this provision, as suggested by the majority below, see 
+S.A. 139sa, is of no consequence here because the “authorized or 
+requested” language of the 1974 statute is far more restrictive than the “in 
+cooperation, consultation, or concert with” language adopted by Congress 
+following Buckley and now repeated in BCRA § 214(a)(2). Similarly, the 
+Court’s interpretation of § 608(c)(2)(B), based on its legislative history, as 
+“operat{ing] to treat all expenditures placed in cooperation with or with 
+the consent of a candidate, his agents, or an authorized committee of the 
+candidate as contributions subject to the limits set forth in [FECA],” 424 
+U.S. at 47 n.53 (emphasis added), offers no support for the broader 
+standard at issue here, which allows coordination to be found on the basis 
+of mere “consultation” with a candidate or political party committee. 
+
+
+39 
+
+
+“covers a broad array of conduct, some of which is akin to an 
+independent expenditure”); id. at 471 (“because of the 
+ambiguity in the term ‘coordinated expenditure,’ the Party 
+Expenditure Provision chills permissible speech as well”). 
+C. The Majority Below Erroneously Relied On 
+The “Possibility” of Corrective Regulations 
+In Rejecting The Vagueness And Over- 
+breadth Challenges to BCRA’s Coordination 
+Provisions 
+Rather than considering the language of §§ 202 and 
+214(a)(2), the majority below also rejected plaintiffs’ vague- 
+ness challenges as not ripe for consideration because the 
+issuance of final FEC regulations while the case was sub 
+judice made it “possible that many, perhaps even all, of 
+Plaintiffs’ vagueness concerns have been remedied by the 
+regulations’ contents.” S.A. 137sa. However, it is no answer 
+to a claim that a statute is unconstitutionally vague and 
+overbroad that an administrative regulation might “possibly” 
+cure the constitutional defects as long as citizens may be 
+subject to penalties under the statute. See Nixon v. Shrink 
+Missouri Government PAC, 528 U.S. 371, 392 (2000) (“We 
+have never accepted mere conjecture as adequate to carry a 
+First Amendment burden.”). This is the case here because the 
+statute provides separate criminal penalties, enforceable by 
+the Department of Justice, for knowing and willful violations 
+of “the Act.” E.g., 2 U.S.C. § 437g(d). The only way that the 
+FEC regulations defining coordination could cure the 
+vagueness and overbreadth of the statute would be if the 
+regulations provide a clear and narrowly drawn safe harbor 
+for coordinated activities that prevents any possible criminal 
+prosecution under the vague and overbroad statutory terms. 
+While the majority relied on 2 U.S.C. § 438(e) for the prop- 
+osition that “FECA also provides protection for those who act 
+in good faith reliance on FEC regulations,” S.A. 136sa n.88, 
+that provision is only relevant to the extent that the 
+coordination regulations in fact provide “protection” from 
+
+
+40 
+
+
+criminal prosecutions under the statute, which cannot 
+possibly be determined without reviewing the regulations 
+themselves.” 
+
+In refusing to consider the FEC’s coordination regulations 
+issued in response to BCRA, the majority erroneously relied 
+on BCRA § 403, which limits the jurisdiction of the three- 
+judge court to constitutional challenges to BCRA. S.A. 
+138sa. For, it is well-established that a three-judge court has 
+pendent jurisdiction to decide any other claim properly 
+presented in a case even though the claim is one that standing 
+alone would require only a single district judge. See 
+Philbrook v, Glodgett, 421 U.S. 707, 712 (1975); Hagans v. 
+Lavine, 415 U.S. 528, 543 (1974); Lake Carriers’ Ass'n vy. 
+MacMullan, 406 U.S. 498, 504 n. 5 (1972). Here, moreover, 
+plaintiffs raised no claim against the FEC regulations, which 
+became relevant, if at all, only as a defense to their 
+constitutional claims against the statute. Even if the three- 
+judge court lacked jurisdiction to invalidate the FEC 
+regulations themselves, the court was not prohibited from 
+considering whether the regulations cured the constitutional 
+flaws in BCRA’s coordination provisions. By relegating 
+consideration of the regulations to a single-judge court in a 
+separate action in which the constitutionality of BCRA’s 
+coordination provisions could not be addressed, the majority 
+awkwardly bifurcated the coordination issues and ignored 
+Congress’ mandate that the courts should “expedite to the 
+greatest possible extent the disposition of the action and 
+
+
+** This is the approach followed by the majority below itself in 
+considering the advance disclosure requirement set forth in BCRA 
+§ 201(a), where they found that the constitutional infirmity in the statute 
+was not cured by the regulation and therefore held that the advance notice 
+requirement in the statute should be struck down. S.A. 109sa-111sa and 
+n.73. Cf. S.A. 132sa-133sa (refusing to address the constitutionality of 
+BCRA § 212 because, in the majority's view, the FEC’s regulation cured 
+any infirmity in the statute). 
+
+
+4| 
+
+
+appeal” in this case. Pub. L. 107-155, §403(a)(4), 116 
+Stat. 114 (2002). 
+
+Finally, even a cursory examination would have demon- 
+strated that the FEC regulations fail to narrow the statutes’ 
+coordination provisions sufficiently to save their constitu- 
+tionality. For example, in defining the term “coordinated,” 
+the FEC regulations repeat verbatim the vague anc¢ overbroad 
+language of BCRA § 214(a)(2), see 11 C.F.R. § 109.20(a); to 
+the extent that this provision may be applicable,” it does 
+nothing to clarify or narrow the statutory language. The 
+regulations’ definition of “coordinated communication” simi- 
+larly repeats the vague statutory words “request or sugges- 
+tion”, 11 C.F.R. §109.21(d)(1)(i); and, the FEC explicitly 
+refused to define the term further. See Final Rule, 
+“Coordinated and Independent Expenditures,” 68 Fed. Reg. 
+421, 431 (rejecting commenters’ request for further definition 
+of the term “suggest”). To the extent that the statute 
+impermissibly permits a finding of coordination where a 
+speaker merely informs a candidate or political party 
+committee of its own independent plans, the regulation fails 
+to cure this infirmity and actually reinforces it. See 11 C.F.R. 
+§ 109.21(d)(3) (providing that the regulations’ conduct 
+standards may be met by “substantial discussion”). Fourth, 
+and most significantly, the FEC regulations do not protect 
+contacts with legislators undertaken for a lobbying purpose.”’ 
+
+
+*’ The relationship between the broadly worded definition of “coor- 
+dinated” in 11 C.F.R. § 109.20 and the definition of “coordinated commu- 
+nication” in 11 C.F.R. § 109.21 is uncertain. The regulations appear to 
+contemplate, however, that § 109.20(a) could be applied at least in some 
+instances not covered by § 109.21. The majority in the district court did 
+not consider the implications of § 109.20(a) to this case. 
+
+7711 C.F.R. § 109.21(f), which provides a “safe harbor” for a candi- 
+date’s or a party committee’s responses to an inquiry about that can- 
+didate’s or committee's positions on legislative or policy issues, does not 
+protect the vast majority of legitimate contacts between outsiders and 
+legislators and party committees on legislative and policy matters, as 
+
+
+42 
+
+
+For these reasons, it was critical for the majority below to 
+consider the FEC’s regulations in detail and its failure to do 
+so was reversible error. 
+
+
+D. The Majority Erroneously Determined That 
+“Agreement or Formal Collaboration” Is Not 
+A Constitutionally Required Element of 
+Coordination. 
+
+Although the majority below refused to consider the 
+plaintiffs’ overall vagueness and overbreadth challenges to 
+BCRA §§ 202 and 214(a)(2) because of the possible impact 
+of the FEC’s coordination regulations, it did address whether 
+the statutes are overbroad in light of BCRA § 214(c), which 
+prohibits the agency from adopting any regulation requiring 
+“agreement or formal collaboration” as an element of 
+coordination.” $.A. 138sa-143sa. In ruling that “agreement 
+or formal collaboration” is not a constitutionally required 
+element of coordination, the majority incorrectly relied on 
+this Court’s decisions in Buckley, Colorado I and Colorado 
+II,” which, while not deciding the question definitively, 
+
+
+suggested by the majority below. S.A. 152sa. The FEC rejected several 
+proposals to narrow the regulations in order to make certain that they do 
+not prohibit contacts with legislators and committees on legislative and 
+policy matters. See 68 Fed. Reg. at 441. 
+
+
+** This question was clearly ripe for decision since BCRA § 214(c) 
+leaves the FEC with no discretion to ignore Congress's mandate. As 
+required by Congress, the regulations issued by the FEC state that 
+“[a]greement or formal collaboration between the person paying for the 
+communication and the candidate clearly identified in the communication, 
+his or her authorized committee, his or her opponent, or the opponent's 
+authorized committee, a political party committee, or an agent of any of 
+the foregoing, is not required for a communication to be a coordinated 
+communication.” 11 C.F.R. § 109.21(e). See also 11 C.F.R. § 109.21(d). 
+
+* Although the majority below also relied on the district court's 
+decision in Christian Coalition, the opinion in that case offers no support 
+for the conclusion that expenditures may be found to be coordinated 
+without proof of “agreement or formal collaboration,” for the court 
+explicitly stated that “a spender should not be deemed to forfeit First 
+
+
+43 
+
+
+strongly suggest that the element of “agreement or formal 
+collaboration” is essential to keeping the concept of 
+coordination within constitutional bounds. Furthermore, 
+without proof of “agreement or formal collaboration,” the 
+statutory provisions clearly reach a broad range of conduct, 
+including mere consultation with a candidate or party, which 
+is constitutionally protected. 
+
+In Buckley, the Court located the coordination principle in 
+FECA § 608(c)(2)(B), the now-repealed provision which 
+applied to any expenditure that was “authorized or requested” 
+by a candidate, words that indicate that an element of 
+agreement between the speaker and the candidate must be 
+present. The Court’s explanation for the coordination rule— 
+that it is necessary “to prevent attempts to circumvent the 
+Act{’s contribution limits] through prearranged or coor- 
+dinated expenditures amounting to disguised contributions,” 
+424 U.S. at 47 (emphasis added)—also indicates that some 
+form of agreement is necessary before an expenditure will 
+subject a political speaker to civil and criminal penalties. 
+Chief Justice Burger, concurring in part and dissenting in 
+part, similarly emphasized the “authorized or requested” 
+language of FECA § 608(c)(2)(B), although he noted that the 
+Act “places intolerable pressure on the distinction between 
+‘authorized’ and ‘unauthorized’ expenditures on behalf of a 
+candidate,” id. at 252, and he expressed doubt “that the 
+distinction can be maintained.” Jd. Justice White, in his 
+separate opinion dissenting from the Court’s invalidation of 
+FECA’s limits on independent expenditures, similarly made 
+clear his understanding that coordinated expenditures under 
+§608(c)(2)(B) were those made “at [a candidate’s] request or 
+with his approval or cooperation.” /d. at 261. 
+
+
+Amendment protections for her own speech merely by having engaged in 
+some consultations . . . with a federal candidate,” see 52 F. Supp. 2d at 91 
+(emphasis added), and it stated that coordination only may be found to 
+exist where “the candidate and spender emerge as partners or joint 
+venturers in the expressive expenditure.” See id. at 92 (emphasis added). 
+
+
+44 
+
+
+In Colorado 1, the piurality opinion held that FECA’s 
+dollar limits on political party expenditures made “in con- 
+nection with” the election campaign of a candidate for federal 
+office, 2 U.S.C. § 441a(d)(3), could not be constitutionally 
+applied to “an expenditure that the political party has made 
+independently, without coordination with any candidate.” 
+518 U.S. at 608. Since the case involved a challenge to 
+FECA’s party contribution limits as applied to specific 
+expenditures by the Colorado Republican Party, id. at 613, 
+the Court had no occasion to consider whether FECA’s 
+definition of coordinated expenditures was facially overbroad 
+or vague.” See id. at 623-24. Moreover, with respect to the 
+specific expenditures involved, there was little doubt that 
+they were “independent” and not “coordinated” because no 
+Republican candidate had been selected to run at the time of 
+the party’s expenditures criticizing the incumbent Democrat. 
+Id. at 613-14. See also Colorado Il, 533 U.S. at 439. In 
+rejecting the FEC’s reliance on “general descriptions of party 
+practice . . . that do not refer to the advertising campaign at 
+issue here or to its preparation,” 518 U.S. at 614, the plurality 
+indicated, however, that such general evidence could not cast 
+significant doubt upon uncontroverted direct evidence that the 
+campaign was developed by the party “independently and not 
+pursuant to any general or particular understanding with a 
+candidate.” /d. (emphasis added). The Court’s reference to 
+“any general or particular understanding” is suggestive that 
+
+
+“ Justice Kennedy, joined by the Chief Justice and Justice Scalia, 
+would have reached the constitutionality of FECA’s limits on coordinated 
+party expenditures, see 518 U.S. at 627, as would have Justice Thomas, 
+joined by the Chief Justice and Justice Scalia. See id. at 631. Neither of 
+these opinions addressed the facial invalidity of FECA’s definition of 
+coordination with candidates. Justice Thomas, however, warned of the 
+dangers created by the coordinated expenditure rules which “leavie] 
+political parties in a state of uncertainty about the types of First Amend- 
+ment expression in which they are free to engage.” See id. at 634. 
+
+
+45 
+
+
+some form of “agreement” is constitutionally required before 
+an expenditure may be treated as a “disguised contribution.” 
+
+Finally, in Colorado II, the Court reached the question, left 
+open in Colorado I, of whether FECA’s party expenditure 
+provision was “facially unconstitutional, and so...incapable of 
+reaching party spending even when coordinated with a 
+candidate.” 533 U.S. at 440. Because the plaintiffs made no 
+effort to distinguish between different kinds of coordinated 
+expenditures, id. at 456 n.17, the majority opinion was not 
+called upon to decide what kinds of conduct would constitute 
+coordination if it upheld the statute. The Court did, however, 
+cite with approval Buckley’s observation that “treating 
+coordinated expenditures as contributions ‘prevent[s] attem- 
+pts to circumvent the Act through prearranged or coordinated 
+expenditures amounting to disguised contributions.” 533 
+U.S. at 443, quoting 424 U.S. at 47." 
+
+Because the majority erroneously regarded this Court’s 
+prior coordination decisions as controlling, it failed to 
+consider plaintiffs’ arguments that BCRA §§ 202 and 
+214(a)(2) would, without proof of “agreement or formal 
+collaboration,” reach a substantial number of legitimate and 
+protected contacts between citizens and candidates or 
+political parties.” Merely informing a candidate or party 
+
+
+*' As noted by the majority below, S.A. 142sa, the Court in Colorado II 
+did state that the coordination rule could not be avoided by “wink and 
+nod” arrangements. 533 U.S. at 442. This oblique and unexplained reter- 
+ence, however, hardly stands as authority for eliminating the requirement 
+of “agreement or formal collaboration.” 
+
+° The December 2000 FEC regulations specifically required that, in 
+order to rise to the level of coordination, discussions with candidates or 
+parties regarding certain aspects of a communication had to be “sub- 
+stantial” and result in “collaboration or agreement.” See 11 C.F.R. 
+§ 100.23(c)(2)iii) (2001), repealed by Pub. L. 107-155, § 214(b) (2002), 
+116 Stat. 81. In adopting the requirement of “collaboration or agreement” 
+as a required element of coordination, the Commission stated that the 
+purpose of the condition was to “establish a ‘buffer zone’ for protected 
+
+
+46 
+
+
+official about issues and urging them to take particular posi- 
+tions on these issues ts core political speech. So is informing 
+a candidate or party about a group’s Own activities taken on 
+its behalf. Federal Election Commission v. Christian 
+Coalition Inc., 52 F. Supp. 2d at 92-95. And, citizens have a 
+right to work in candidates’ campaigns and for political 
+parties, see Eu v. San Francisco Democratic Central Comm., 
+489 U.S. at 230-31, without having the information they may 
+thereby obtain about the candidates’ or parties’ plans 
+jeopardize their right to make independent expenditures in 
+behalf of those candidates. Such conduct may be regulated 
+without offending the First Amendment only where it 
+presents the same danger of corruption as cash contributions, 
+and that is only possible, as the Court’s previous decisions 
+reflect, where the candidate or party and the citizen have 
+reached “agreement or formal collaboration.” 
+
+
+IV. BCRA’S ADVANCE DISCLOSURE REQUIRE- 
+MENTS ARE NOT NARROWLY TAILORED 
+TO SERVE A COMPELLING GOVERN- 
+MENTAL INTEREST AND THEREFORE 
+VIOLATE THE FIRST AMENDMENT. 
+
+
+“([C]jompelled disclosure [of political activities], in itself, 
+can seriously infringe on privacy of association and belief 
+guaranteed by the First Amendment.” Buckley v. Valeo, 424 
+U.S. at 64. The government’s interests in mandating dis- 
+closure therefore “must survive exacting scrutiny,” id. at 64, 
+citing NAACP v. Alabama, 357 U.S. 449, 463 (1958); Gibson 
+v. Florida Legislative Comm., 372 U.S. 539, 546 (1963); 
+NAACP. v. Button, 371 U.S. 415, 438 (1963); and Bates v. 
+Little Rock, 361 U.S. 516, 524 (1960), and must be narrowly 
+~ tailored to serve important governmental interests. 
+
+
+In upholding FECA’s requirement for after-the-fact 
+reporting of independent expenditures in Buckley, the Court 
+
+
+speech,” see 65 Fed. Reg. at 76141, and that “this new rule is more 
+protective of First Amendment rights than the standard it is replacing.” /d. 
+
+
+oe a eens 
+
+
+47 
+
+
+recognized only three governmental interests sufficiently 
+compelling to support mandatory disclosure and reporting of 
+political expenditures: (1) providing the electorate with 
+information as to where political campaign money comes 
+from and how it is spent, 424 U.S. at 66; (2) deterring actual 
+corruption and avoiding the appearance of corruption by 
+exposing large contributions and expenditures to the light of 
+publicity, id. at 67; and (3) gathering the data necessary to 
+detect violations of the Act's contribution limitations. /d. at 
+68. BCRA’s advance reporting requirements are not nar- 
+rowly tailored because each of these governmental interests 
+can be fully served by requiring persons making “elec- 
+tioneering communications” to disclose their expendi- 
+tures within a reasonable period after the communications 
+have been aired, not when they have merely contracted to 
+make such expenditures. Cf. Thomas v.Collins, 323 U.S. at 
+540. In contrast, mandatory disclosure of expenditures for 
+communications before they have run may, as Judge 
+Henderson found, S.A. 27Isa, chill speech by forcing 
+speakers to disclose their plans and strategies before they are 
+implemented, giving speakers’ opponents an opportunity to 
+prepare counter-messages, and allowing opponents the 
+opportunity to induce broadcasters not to run the ads at all. In 
+addition, as Judges Leon and Keliar-Kotelly found, advance 
+notice may actually be counterproductive because “[i}nfor- 
+mation concerning contracts that have not been performed, 
+and may never be performed, may lead to confusion and an 
+unclear record upon which the public will evaluate forces 
+operating in the political marketplace.” S.A. 1 14sa."" 
+
+
+*’ Defendant FEC itself has recognized that “until a person or entity 
+actually airs an electioneering communication, it is impossible to know 
+with certainty that the person or entity ever will air a communication that 
+constitutes an electioneering communication under BCRA; accordingly, 
+to require reporting beforehand could lead to speculative and even 
+inaccurate reporting through no fault of the reporting person or entity.” 
+Notice of Proposed Rulemaking, “Electioneering Communications,” 67 
+
+
+48 
+
+
+For these reasons, the lower federal courts uniformly have 
+ruled that advance reporting of political expenditures is not 
+narrowly tailored to serve a compelling governmental interest 
+and should be struck down. See Citizens For Responsible 
+Government State Political Action Comm. v. Davidson, 236 
+F.3d 1174, 1197 (10th Cir. 2000); Wisconsin Realtors Ass'n 
+v. Ponto, 233 F. Supp. 2d 1078, 1091 (W.D. Wis. 2002); 
+Florida Right to Life, Inc. v. Mortham, 1998 U.S. Dist. 
+LEXIS 16694 at *30 (M.D.Fla. 1998). See also Arizona 
+Right to Life Political Action Comm. v. Bayless, 320 F.3d 
+1002 (9th Cir. 2003). Advance disclosure of electioneering 
+communications similarly will chill the exercise of free 
+speech by forcing groups such as the AFL-CIO to disclose 
+ongoing and confidential political strategies and by giving 
+their opponents the opportunity to interfere with the 
+communications. S.A. 27lsa (Henderson Findings 53g-i). 
+The district court’s decision invalidating section 201(a)’s 
+advance reporting requirement should therefore be affirmed. 
+
+
+Fed. Reg. 51131, 51141 (Aug. 7, 2002). The Commission also noted that 
+there could be “constitutional issues” with compelling disclosure of 
+potential electioneering communications before they are finalized and 
+aired, “particularly when such disclosure could force reporting entities to 
+divulge confidential information, and could force them to report 
+information, under the penalty of perjury, that later turns out to be 
+misleading or inaccurate if the reporting entity does not subsequently air 
+any electioneering communications.” /d. 
+
+
+OE ETL DG Rl 
+
+
+49 
+
+
+CONCLUSION 
+
+
+The decision of the district court concerning BCRA’s pro- 
+hibition against union and corporate spending for the primary 
+definition should be affirmed; its decisions upholding the 
+backup definition and BCRA’s coordination provision should 
+be reversed; and its decision striking down BCRA’s advance 
+disclosure provision should be affirmed. 
+
+Respectfully submitted, 
+
+
+LARRY P. WEINBERG JONATHAN P. HIATT 
+
+1101 17th Street, N.W. LAURENCE E, GOLD 
+
+Suite 900 Counsel of Record 
+
+Washington, D.C. 20036 AFL-CIO 
+
+(202) 775-5900 815 Sixteenth Street, N.W. 
+' Washington, D.C. 20006 
+
+a dacen (202) 637-5130 
+
+
+MICHAEL B. TRISTER 
+
+LICHTMAN, TRISTER & ROSS, PLLC 
+1666 Connecticut Ave., N.W. 
+Washington, D.C. 20009 
+
+(202) 328-1666 
+
+
+Counsel for Appellants/ 
+Cross-Appellees 
+
+

@@ -1,0 +1,952 @@
+[
+  {
+    "query": "collection:us-supreme-court AND (identifier:*02-473* OR title:(Banks))",
+    "matches": [
+      {
+        "identifier": "micro_IA40386418_0388",
+        "title": "Banks v. United States, 350 U.S. 986 (1956) (No. 337)"
+      },
+      {
+        "identifier": "micro_IA40385017_1061",
+        "title": "Holland v. First Virginia Banks, Inc., 502 U.S. 1086 (1992) (No. 91-974)"
+      },
+      {
+        "identifier": "micro_IA40385018_1096",
+        "title": "Banks v. Pan American World Airways, Inc., 475 U.S. 1012 (1986) (No. 85-884)"
+      },
+      {
+        "identifier": "micro_IA40386003_1742",
+        "title": "Banks v. District of Columbia Department of Consumer & Regulatory Affairs, 513 U.S. 820 (1994) (No. 93-2002)"
+      },
+      {
+        "identifier": "per_scotus_1873_210",
+        "title": "The Schooner Mary A. Banks, William H. Bodine et al., Claimants, Appellants, vs. the Steamer Falcon, The Baltimore & Ohio Railroad Company et al., Claimants. 1873: Vol 210"
+      },
+      {
+        "identifier": "micro_IA40385015_0313",
+        "title": "Williams v. Suntrust Banks, Inc. (No. 08-504)"
+      },
+      {
+        "identifier": "micro_IA40386417_1601",
+        "title": "Banks & Rumbaugh v. Tobin, 345 U.S. 942 (1953) (No. 644)"
+      },
+      {
+        "identifier": "micro_IA40385010_1404",
+        "title": "Delma Banks, Jr. v. Texas, 464 U.S. 904 (1983) (No. 82-6498)"
+      },
+      {
+        "identifier": "micro_IA40386002_1021",
+        "title": "In re Banks, 513 U.S. 826 (1994) (No. 93-2087)"
+      },
+      {
+        "identifier": "micro_IA40385014_0607",
+        "title": "United States v. Banks, 540 U.S. 31 (2003) (No. 02-473)"
+      },
+      {
+        "identifier": "micro_IA40386015_1421",
+        "title": "Banks v. Committee on Unauthorized Practice of Law, 539 U.S. 927 (2003) (No. 02-1490)"
+      },
+      {
+        "identifier": "micro_IA40386011_0829",
+        "title": "Banks v. Department of Agriculture, 506 U.S. 828 (1992) (No. 91-2018)"
+      },
+      {
+        "identifier": "micro_IA40386013_1541",
+        "title": "Banks v. United States, 522 U.S. 1075 (1998) (No. 97-602)"
+      },
+      {
+        "identifier": "micro_IA40385001_1305",
+        "title": "Banks v. California, 395 U.S. 708 (1969) (No. 670)"
+      },
+      {
+        "identifier": "micro_IA40385014_0656",
+        "title": "Beard v. Banks, 540 U.S. 1159 (2004) (No. 02-1603)"
+      },
+      {
+        "identifier": "micro_IA40386016_1887",
+        "title": "Banks v. Granholm (No. 06-825)"
+      },
+      {
+        "identifier": "micro_IA40385608_1944",
+        "title": "Banks v. Florida, 424 U.S. 968 (1976) (No. 75-1036)"
+      },
+      {
+        "identifier": "micro_IA40385009_1759",
+        "title": "Barnett Banks, Inc. v. Konstand, 500 U.S. 910 (1991) (No. 90-1396)"
+      },
+      {
+        "identifier": "micro_IA40386014_0582",
+        "title": "Banks v. New York Life Insurance, 528 U.S. 1158 (2000) (No. 99-1026)"
+      },
+      {
+        "identifier": "micro_IA40385020_1689",
+        "title": "Banks v. Garrett, 498 U.S. 821 (1990) (No. 89-1966)"
+      },
+      {
+        "identifier": "micro_IA40386015_0742",
+        "title": "Banks v. United States, 537 U.S. 1111 (2003) (No. 02-762)"
+      },
+      {
+        "identifier": "micro_IA40386412_0143",
+        "title": "Agnes M. Banks, Etc. v. Chicago Grain Trimmers Association, Inc., 389 U.S. 813 (1967) (No. 59)"
+      },
+      {
+        "identifier": "micro_IA40386002_1022",
+        "title": "In re Banks, 513 U.S. 826 (1994) (No. 93-2088)"
+      },
+      {
+        "identifier": "micro_IA40386002_1573",
+        "title": "New York v. Banks, 516 U.S. 868 (1995) (No. 95-170)"
+      },
+      {
+        "identifier": "micro_IA40385009_2902",
+        "title": "Michigan v. Banks, 502 U.S. 1065 (1992) (No. 91-656)"
+      },
+      {
+        "identifier": "micro_IA40386007_1036",
+        "title": "Banks v. Chase Manhattan Bank, 546 U.S. 824 (2005) (No. 04-1680)"
+      },
+      {
+        "identifier": "micro_IA40385610_0602",
+        "title": "William H. Banks Warehouses, Inc. v. Watt, 345 U.S. 932 (1953) (No. 266)"
+      },
+      {
+        "identifier": "micro_IA40385004_0138",
+        "title": "Banks v. United States, 429 U.S. 884 (1976) (No. 75-1852)"
+      },
+      {
+        "identifier": "micro_IA40386011_0992",
+        "title": "Banks v. Banks, 506 U.S. 866 (1992) (No. 92-120)"
+      },
+      {
+        "identifier": "micro_IA40386014_1057",
+        "title": "Banks v. Virginia Electric & Power Co., 531 U.S. 815 (2000) (No. 99-1842)"
+      },
+      {
+        "identifier": "per_scotus_1849_89",
+        "title": "Taylor Brown, Pl'ff in Err., vs. Leroy M. Wiley, Hugh R. Banks, William G. Lane, Henry Van Derzee, and Edward H. Lane, Merchants, Trading Under the Name and Style of L. M. Wiley & co. 1849: Vol 89"
+      },
+      {
+        "identifier": "micro_IA40385014_0687",
+        "title": "Banks v. Dretke, 540 U.S. 668 (2004) (No. 02-8286)"
+      },
+      {
+        "identifier": "micro_IA40386417_2127",
+        "title": "Housing Authority of San Francisco v. Banks, 347 U.S. 974 (1954) (No. 583)"
+      },
+      {
+        "identifier": "micro_IA40385016_0107",
+        "title": "Beard v. Banks, 548 U.S. 521 (2006) (No. 04-1739)"
+      },
+      {
+        "identifier": "micro_IA40385608_2044",
+        "title": "Trainor v. Banks, 424 U.S. 978 (1976) (No. 75-1034)"
+      },
+      {
+        "identifier": "micro_IA40386010_1017",
+        "title": "Banks v. Stoneybrook Apartments, 532 U.S. 1022 (2001) (No. 00-1515)"
+      },
+      {
+        "identifier": "micro_IA40385610_0258",
+        "title": "Reeder v. Banks, 333 U.S. 858 (1948) (No. 618)"
+      },
+      {
+        "identifier": "micro_IA40385001_1599",
+        "title": "Holder v. Banks, 417 U.S. 187 (1974) (No. 73-841)"
+      },
+      {
+        "identifier": "micro_IA40386418_0257",
+        "title": "Central Hudson Gas & Electric Corp. v. Banks, 350 U.S. 904 (1955) (No. 475)"
+      },
+      {
+        "identifier": "micro_IA40386011_1083",
+        "title": "Banks v. United States Postal Service, 506 U.S. 953 (1992) (No. 92-220)"
+      },
+      {
+        "identifier": "micro_IA40386015_2125",
+        "title": "United States v. Banks, 124 S. Ct. 486 (2003) (No. 03-402)"
+      },
+      {
+        "identifier": "micro_IA40385014_0728",
+        "title": "Commissioner of Internal Revenue v. Banks, 542 U.S. 964 (2004) (No. 03-907)"
+      },
+      {
+        "identifier": "micro_IA40385003_1610",
+        "title": "Trainor v. Banks, 424 U.S. 978 (1976) (No. 75-1034)"
+      },
+      {
+        "identifier": "micro_IA40385003_1612",
+        "title": "Banks v. Florida, 424 U.S. 968 (1976) (No. 75-1036)"
+      },
+      {
+        "identifier": "micro_IA40385605_0417",
+        "title": "Missouri ex inf. Danforth v. Banks, 400 U.S. 991 (1971) (No. 606)"
+      },
+      {
+        "identifier": "micro_IA40386417_1752",
+        "title": "William H. Banks Warehouses, Inc. v. Watt, 346 U.S. 825 (1953) (No. 192)"
+      },
+      {
+        "identifier": "micro_IA40386417_1682",
+        "title": "Owens v. William H. Banks Warehouses, Inc., 346 U.S. 813 (1953) (No. 62)"
+      },
+      {
+        "identifier": "per_scotus_1842_141",
+        "title": "Eleazar F. Backnus, Plff. in Er. vs. WM. Gould and David Banks, Who Sue as well for the United States as Themeselves. 1842: Vol 141"
+      },
+      {
+        "identifier": "micro_IA40385019_1391",
+        "title": "Banks v. Mississippi, 485 U.S. 1008 (1988) (No. 87-1410)"
+      },
+      {
+        "identifier": "micro_IA40385018_1878",
+        "title": "Banks v. Finley-Seligman & Latz, Inc., 479 U.S. 816 (1986) (No. 85-1854)"
+      },
+      {
+        "identifier": "micro_IA40386009_0669",
+        "title": "Lantz v. Banks, 534 U.S. 1080 (2002) (No. 01-628)"
+      },
+      {
+        "identifier": "micro_IA40385020_2895",
+        "title": "Banks v. Sterling Merchandise, Inc., 498 U.S. 982 (1990) (No. 90-532)"
+      },
+      {
+        "identifier": "per_scotus_1879_17",
+        "title": "The Bank of America, Plaintiff in Error, vs. Virginia Banks and A. D. Banks. 1879: Vol 17"
+      },
+      {
+        "identifier": "per_scotus_1870_215",
+        "title": "George B. Stovall, Ordinary, (Who Sues for the use of David Eubanks, George Eubanks, and James M. Hatch, and Wife, Sallie Hatch,) Plaintiff in Error, vs. Francis A. Banks, Hugh J. Oglesby, and James S. Reed. 1870: Vol 215"
+      },
+      {
+        "identifier": "micro_IA40385006_2500",
+        "title": "Banks v. Phillips, 449 U.S. 835 (1980) (No. 79-1929)"
+      },
+      {
+        "identifier": "micro_IA40385009_2818",
+        "title": "Banks v. City of San Jose, 502 U.S. 982 (1991) (No. 91-562)"
+      },
+      {
+        "identifier": "micro_IA40386003_1722",
+        "title": "Banks v. District of Columbia Department of Consumer & Regulatory Affairs, 513 U.S. 820 (1994) (No. 93-2002)"
+      },
+      {
+        "identifier": "micro_IA40386017_1370",
+        "title": "Banks v. Thaler, 559 U.S. 1068 (2010) (No. 09-717)"
+      },
+      {
+        "identifier": "micro_IA40385014_0727",
+        "title": "Commissioner v. Banks, 543 U.S. 426 (2005) (No. 03-892)"
+      },
+      {
+        "identifier": "micro_IA40386015_0352",
+        "title": "Loskill v. Barnett Banks, Inc. Severance Pay Plan, 537 U.S. 1167 (2003) (No. 02-347)"
+      },
+      {
+        "identifier": "micro_IA40386011_2214",
+        "title": "Banks v. National Collegiate Athletic Ass'n, 508 U.S. 908 (1993) (No. 92-1466)"
+      },
+      {
+        "identifier": "micro_IA40386012_1391",
+        "title": "Michigan v. Banks, 514 U.S. 1102 (1995) (No. 94-1491)"
+      },
+      {
+        "identifier": "micro_IA40385014_0554",
+        "title": "Horn v. Banks, 536 U.S. 266 (2002) (No. 01-1385)"
+      },
+      {
+        "identifier": "micro_IA40385017_1830",
+        "title": "Banks v. North Carolina, 469 U.S. 1212 (1985) (No. 84-936)"
+      },
+      {
+        "identifier": "micro_IA40385016_0149",
+        "title": "Commissioner v. Banks, 543 U.S. 426 (2005) (No. 03-892)"
+      },
+      {
+        "identifier": "micro_IA40386015_0634",
+        "title": "Banks v. Jefferson-Smurfit, 537 U.S. 1072 (2002) (No. 02-647)"
+      },
+      {
+        "identifier": "per_scotus_1864_105_0",
+        "title": "William E. Banks. Plaintiff in Error, vs. William B. Ogden. 1864: Vol 105"
+      },
+      {
+        "identifier": "micro_IA40385020_1823",
+        "title": "Weston v. Banks, 498 U.S. 849 (1990) (No. 90-81)"
+      },
+      {
+        "identifier": "per_scotus_1845_147",
+        "title": "Samuel L. Forgay and Eliza Ann Fogarty, Wife of E. W. Wellis, Appellants, vs. Francis B. Conrad, Assignee of Thos. Banks. 1845: Vol 147"
+      }
+    ],
+    "count": 69
+  },
+  {
+    "query": "collection:us-supreme-court AND (identifier:*02-749* OR title:(Hernandez))",
+    "matches": [
+      {
+        "identifier": "micro_IA40386003_1482",
+        "title": "Hernandez-Angeles v. Ashcroft, 543 U.S. 1051 (2005) (No. 04-545)"
+      },
+      {
+        "identifier": "micro_IA40386010_0773",
+        "title": "Reyes-Hernandez v. United States, 532 U.S. 1065 (2001) (No. 00-1256)"
+      },
+      {
+        "identifier": "micro_IA40385017_1353",
+        "title": "City of Santa Ana v. Hernandez, 520 U.S. 1226 (1997) (No. 96-1516)"
+      },
+      {
+        "identifier": "micro_IA40385004_0323",
+        "title": "Hernandez v. United States, 429 U.S. 939 (1976) (No. 76-95)"
+      },
+      {
+        "identifier": "micro_IA40385005_0998",
+        "title": "Hernandez v. California, 439 U.S. 824 (1978) (No. 77-1608)"
+      },
+      {
+        "identifier": "micro_IA40386006_1208",
+        "title": "Hernandez-Vargas v. United States, 517 U.S. 1137 (1996) (No. 95-1454)"
+      },
+      {
+        "identifier": "micro_IA40386016_1413",
+        "title": "Hernandez v. Gonzales (No. 06-318)"
+      },
+      {
+        "identifier": "micro_IA40386010_1152",
+        "title": "Hernandez v. Alameida, 536 U.S. 924 (2002) (No. 01-1637)"
+      },
+      {
+        "identifier": "micro_IA40386012_0333",
+        "title": "Acevedo-Villalobos v. Hernandez, 513 U.S. 1015 (1994) (No. 94-362)"
+      },
+      {
+        "identifier": "micro_IA40386015_1429",
+        "title": "In re Mota-Hernandez, 538 U.S. 1011 (2003) (No. 02-1499)"
+      },
+      {
+        "identifier": "micro_IA40386007_1096",
+        "title": "Hernandez-Lopez v. Iowa, 536 U.S. 959 (2002) (No. 01-1589)"
+      },
+      {
+        "identifier": "micro_IA40385008_0329",
+        "title": "Hernandez v. United States, 454 U.S. 1082 (1981) (No. 81-490)"
+      },
+      {
+        "identifier": "micro_IA40385017_1241",
+        "title": "Volkswagen of America, Inc. v. Hernandez-Gomez, 514 U.S. 1094 (1995) (No. 94-1305)"
+      },
+      {
+        "identifier": "micro_IA40386408_0041",
+        "title": "Hernandez v. Texas, 347 U.S. 475 (1954) (No. 406)"
+      },
+      {
+        "identifier": "micro_IA40385051_0805",
+        "title": "Hernandez-Luna v. United States, 566 U.S. 967 (2012) (No. 11-9450)"
+      },
+      {
+        "identifier": "micro_IA40385018_0072",
+        "title": "Bass Aviation, Inc. v. Hernandez, 471 U.S. 1136 (1985) (No. 84-1599)"
+      },
+      {
+        "identifier": "micro_IA40386003_1473",
+        "title": "Gonzalez-Hernandez v. Ashcroft, 543 U.S. 1051 (2005) (No. 04-535)"
+      },
+      {
+        "identifier": "per_scotus_1859_245",
+        "title": "The United States, App'ts, vs. Francisco Hernandez et al., Heirs of Felix Hernandez, Deceased. 1859: Vol 245"
+      },
+      {
+        "identifier": "micro_IA40385017_0906",
+        "title": "Denton v. Hernandez, 493 U.S. 801 (1989) (No. 88-2034)"
+      },
+      {
+        "identifier": "micro_IA40385017_0915",
+        "title": "Hernandez v. Rice, 494 U.S. 1013 (1990) (No. 89-486)"
+      },
+      {
+        "identifier": "per_scotus_1831_86",
+        "title": "The United States, Appellant, versus Joseph M. Hernandez. 1831: Vol 86"
+      },
+      {
+        "identifier": "micro_IA40385008_1817",
+        "title": "Hernandez v. Department of Labor & Human Resources, 455 U.S. 996 (1982) (No. 81-6055)"
+      },
+      {
+        "identifier": "micro_IA40386002_1086",
+        "title": "Hernandez v. Superintendent, Fredericksburg Rappahanock Joint Security Center, 510 U.S. 1119 (1994) (No. 93-1139)"
+      },
+      {
+        "identifier": "micro_IA40386006_1900",
+        "title": "Vasquez v. Hernandez, 517 U.S. 1156 (1996) (No. 95-1346)"
+      },
+      {
+        "identifier": "micro_IA40386015_1621",
+        "title": "Hernandez v. Crawford Building Material Co., Dba Crawford's Discount Carpet Home and Floor Center and Malveau v. East Baton Rouge Parish School Board, 540 U.S. 817 (2003) (No. 02-1717)"
+      },
+      {
+        "identifier": "micro_IA40385007_1783",
+        "title": "Herrera v. Hernandez, 449 U.S. 1072 (1981) (No. 80-5554)"
+      },
+      {
+        "identifier": "micro_IA40386012_0436",
+        "title": "Hernandez v. United States, 513 U.S. 932 (1994) (No. 94-474)"
+      },
+      {
+        "identifier": "micro_IA40386008_0633",
+        "title": "Hernandez-Castillo v. Gonzales (No. 05-1251)"
+      },
+      {
+        "identifier": "micro_IA40386017_0735",
+        "title": "Luna-Hernandez v. Holder (No. 09-41)"
+      },
+      {
+        "identifier": "micro_IA40386006_0946",
+        "title": "Hernandez v. Terrones, 563 U.S. 960 (2011) (No. 10-1043)"
+      },
+      {
+        "identifier": "micro_IA40385020_3248",
+        "title": "Hernandez v. Rice, 498 U.S. 1086 (1991) (No. 90-934)"
+      },
+      {
+        "identifier": "micro_IA40385003_2221",
+        "title": "Trainor v. Hernandez, 431 U.S. 434 (1977) (No. 75-1407)"
+      },
+      {
+        "identifier": "micro_IA40386016_0462",
+        "title": "Fajardo-Hernandez v. Gonzales, 546 U.S. 1094 (2006) (No. 05-620)"
+      },
+      {
+        "identifier": "micro_IA40386004_1826",
+        "title": "Fabricacion Metalica de Matamoros, S. A. de C. V. v. Hernandez, 518 U.S. 1019 (1996) (No. 95-1755)"
+      },
+      {
+        "identifier": "micro_IA40386015_1881",
+        "title": "Hernandez v. Borough of Palisades Park Police Department, 540 U.S. 982 (2003) (No. 03-139)"
+      },
+      {
+        "identifier": "micro_IA43086415_0473",
+        "title": "Compania Espanola de Navegacion Maritima, S.A., et al. v. Roberto Hernandez, Inc., 313 U.S. 582 (1940) (No. 978)"
+      },
+      {
+        "identifier": "micro_IA40385012_0492",
+        "title": "Hernandez v. New York, 500 U.S. 352 (1991) (No. 89-7645)"
+      },
+      {
+        "identifier": "micro_IA40385017_2537",
+        "title": "Hernandez-Cartaya v. United States, 474 U.S. 816 (1985) (No. 84-1459)"
+      },
+      {
+        "identifier": "micro_IA40386001_1247",
+        "title": "Hernandez ex rel. Estate of Hernandez v. El Paso Energy Corp., 541 U.S. 1064 (2004) (No. 03-1333)"
+      },
+      {
+        "identifier": "micro_IA40385017_1348",
+        "title": "City of Santa Ana v. Hernandez, 520 U.S. 1226 (1997) (No. 96-1323)"
+      },
+      {
+        "identifier": "micro_IA40386017_2564",
+        "title": "In re Hernandez, 562 U.S. 1001 (2010) (No. 10-452)"
+      },
+      {
+        "identifier": "micro_IA40385002_0437",
+        "title": "Hernandez v. Dianella Shipping Corp., 488 U.S. 1030 (1989) (No. 88-812)"
+      },
+      {
+        "identifier": "micro_IA40385004_1371",
+        "title": "Hernandez v. Dye, 430 U.S. 947 (1977) (No. 76-1216)"
+      },
+      {
+        "identifier": "micro_IA40385008_0441",
+        "title": "City of Lafayette v. Hernandez, 455 U.S. 907 (1982) (No. 81-605)"
+      },
+      {
+        "identifier": "micro_IA40385010_1399",
+        "title": "Hernandez v. Texas, 462 U.S. 1144 (1983) (No. 82-6448)"
+      },
+      {
+        "identifier": "micro_IA40385013_0109",
+        "title": "Denton v. Hernandez, 504 U.S. 25 (1992) (No. 90-1846)"
+      },
+      {
+        "identifier": "micro_IA40386014_0525",
+        "title": "Hernandez v. Texas, 528 U.S. 1157 (2000) (No. 99-968)"
+      },
+      {
+        "identifier": "micro_IA40386017_0722",
+        "title": "Hernandez v. United States (No. 09-27)"
+      },
+      {
+        "identifier": "micro_IA40386002_0865",
+        "title": "Hernandez v. United States, 516 U.S. 1158 (1996) (No. 95-857)"
+      },
+      {
+        "identifier": "micro_IA40385002_0071",
+        "title": "Alcan Aluminio do Brasil, S. A. v. Hernandez, 488 U.S. 934 (1988) (No. 88-387)"
+      },
+      {
+        "identifier": "micro_IA40386009_0520",
+        "title": "Molina de Hernandez v. Arizona, 510 U.S. 993 (1993) (No. 93-544)"
+      },
+      {
+        "identifier": "micro_IA40385005_1983",
+        "title": "Quern v. Hernandez, 440 U.S. 951 (1979) (No. 78-721)"
+      },
+      {
+        "identifier": "micro_IA40385006_0658",
+        "title": "Hernandez-Fernandez v. United States, 444 U.S. 926 (1979) (No. 79-167)"
+      },
+      {
+        "identifier": "micro_IA40385014_0621",
+        "title": "Raytheon Co. v. Hernandez, 540 U.S. 44 (2003) (No. 02-749)"
+      },
+      {
+        "identifier": "micro_IA40385002_0288",
+        "title": "Dianella Shipping Corp. v. Hernandez, 488 U.S. 981 (1988) (No. 88-641)"
+      },
+      {
+        "identifier": "micro_IA40385006_1896",
+        "title": "Hernandez v. United States, 446 U.S. 910 (1980) (No. 79-1488)"
+      },
+      {
+        "identifier": "micro_IA40386016_1308",
+        "title": "Hernandez v. United States (No. 06-209)"
+      },
+      {
+        "identifier": "micro_IA40386007_1626",
+        "title": "Hernandez v. United States, 546 U.S. 870 (2005) (No. 05-17)"
+      },
+      {
+        "identifier": "micro_IA40385604_1211",
+        "title": "Hernandez v. New York, 397 U.S. 914 (1970) (No. 957)"
+      },
+      {
+        "identifier": "micro_IA40386418_0712",
+        "title": "Commonwealth ex rel. Hernandez v. Price, 352 U.S. 836 (1956) (No. 225)"
+      },
+      {
+        "identifier": "micro_IA40386004_1629",
+        "title": "Hernandez v. Runyon, 519 U.S. 1091 (1997) (No. 96-597)"
+      },
+      {
+        "identifier": "micro_IA40385019_1847",
+        "title": "Illinois v. Hernandez, 488 U.S. 869 (1988) (No. 87-2003)"
+      },
+      {
+        "identifier": "micro_IA40386019_0908",
+        "title": "Hernandez v. Donley, 510 U.S. 818 (1993) (No. 92-1877)"
+      },
+      {
+        "identifier": "micro_IA40386015_0489",
+        "title": "Carranza-Hernandez v. Altus Finance Corp. And Carranza-Hernandez v. Artemis S. A., 537 U.S. 1067 (2002) (No. 02-493)"
+      },
+      {
+        "identifier": "micro_IA40385004_1257",
+        "title": "Hernandez v. Air France, 430 U.S. 950 (1977) (No. 76-1132)"
+      },
+      {
+        "identifier": "micro_IA40386012_2267",
+        "title": "Hernandez v. Thomas, 516 U.S. 988 (1995) (No. 95-485)"
+      },
+      {
+        "identifier": "micro_IA40386018_1088",
+        "title": "Hernandez v. California, 525 U.S. 1178 (1999) (No. 98-1069)"
+      },
+      {
+        "identifier": "micro_IA40386016_2013",
+        "title": "Hernandez v. Arellano (No. 06-957)"
+      },
+      {
+        "identifier": "micro_IA40385012_0364",
+        "title": "United States v. Montoya De Hernandez, 473 U.S. 531 (1985) (No. 84-755)"
+      },
+      {
+        "identifier": "micro_IA40386020_1200",
+        "title": "Hernandez v. United States (No. 08-158)"
+      },
+      {
+        "identifier": "micro_IA40386012_1292",
+        "title": "Hernandez v. Badger Construction Equipment Co., 514 U.S. 1065 (1995) (No. 94-1395)"
+      },
+      {
+        "identifier": "micro_IA40385020_1187",
+        "title": "Hernandez-Escarsega v. United States, 497 U.S. 1003 (1990) (No. 89-1413)"
+      },
+      {
+        "identifier": "per_scotus_1878_49",
+        "title": "Isaac L. Lyon, Appellant, vs. Jesus Hernandez and Katharine Hernandez. 1878: Vol 49"
+      },
+      {
+        "identifier": "micro_IA40385605_1536",
+        "title": "Beto v. Hernandez, 404 U.S. 897 (1971) (No. 71-80)"
+      },
+      {
+        "identifier": "micro_IA40386015_0451",
+        "title": "Hernandez-Gomez v. Volkswagen of America, Inc., 537 U.S. 1046 (2002) (No. 02-451)"
+      },
+      {
+        "identifier": "micro_IA40386017_2120",
+        "title": "Hernandez-Ramos v. Holder, 562 U.S. 839 (2010) (No. 09-1538)"
+      },
+      {
+        "identifier": "micro_IA40386018_1091",
+        "title": "Hernandez v. Lockridge, 525 U.S. 1146 (1999) (No. 98-1073)"
+      },
+      {
+        "identifier": "micro_IA40385008_0190",
+        "title": "Hernandez v. Fair, 454 U.S. 941 (1981) (No. 81-344)"
+      },
+      {
+        "identifier": "micro_IA40386009_1604",
+        "title": "Umpierre-Hernandez v. United States (Nos. 07-518, 07-530, 07-536)"
+      },
+      {
+        "identifier": "micro_IA40386418_0547",
+        "title": "Hernandez v. Ethyl Corp., 351 U.S. 940 (1956) (No. 866)"
+      },
+      {
+        "identifier": "micro_IA40385009_2568",
+        "title": "Southern Pacific Transportation Co. v. Hernandez, 502 U.S. 905 (1991) (No. 91-293)"
+      },
+      {
+        "identifier": "micro_IA40386018_0017",
+        "title": "Underhill v. Hernandez, 168 U.S. 250 (1897) (No. 36)"
+      },
+      {
+        "identifier": "per_scotus_1870_87",
+        "title": "The Fourth National Bank of the City of New York, Appellant, vs. The New Orleans and Carrollton Railroad Company, G. T. Beauregard, Joseph Hernandez, G. Binder, and Alexander Bonneval. 1870: Vol 87"
+      },
+      {
+        "identifier": "micro_IA40385012_0607",
+        "title": "Hernandez v. Commissioner, 490 U.S. 680 (1989) (No. 87-963)"
+      },
+      {
+        "identifier": "micro_IA40386019_1058",
+        "title": "Hernandez-Oviedo v. United States, 510 U.S. 827 (1993) (No. 92-2040)"
+      },
+      {
+        "identifier": "micro_IA40386003_1316",
+        "title": "Hernandez-Galicia v. Ashcroft, 543 U.S. 979 (2004) (No. 04-360)"
+      },
+      {
+        "identifier": "micro_IA40386016_1520",
+        "title": "Hernandez-Castillo v. United States (No. 06-432)"
+      },
+      {
+        "identifier": "micro_IA40386009_0506",
+        "title": "Hernandez v. Kmart Corp., 510 U.S. 992 (1993) (No. 93-526)"
+      },
+      {
+        "identifier": "micro_IA40386015_1546",
+        "title": "Clark County v. Hernandez Miranda, 540 U.S. 814 (2003) (No. 02-1629)"
+      },
+      {
+        "identifier": "micro_IA40385008_0436",
+        "title": "Hernandez v. City of Lafayette, 455 U.S. 901 (1982) (No. 81-600)"
+      },
+      {
+        "identifier": "micro_IA40385607_2077",
+        "title": "Hernandez v. Travelers Insurance, 419 U.S. 844 (1974) (No. 73-2026)"
+      },
+      {
+        "identifier": "micro_IA40386012_0647",
+        "title": "Hernandez v. Texas State Board of Dental Examiners, 515 U.S. 1141 (1995) (No. 94-693)"
+      },
+      {
+        "identifier": "micro_IA40385016_0600",
+        "title": "Hernandez v. Mesa, 136 S. Ct. 567 (2015) (No. 15-118)"
+      },
+      {
+        "identifier": "micro_IA40385016_0903",
+        "title": "Hernandez v. Mesa, 136 S. Ct. 567 (2015) (No. 15-118)"
+      },
+      {
+        "identifier": "micro_IA40386008_0478",
+        "title": "Meza-Hernandez v. Keisler (No. 06-1523)"
+      },
+      {
+        "identifier": "micro_IA40386009_0046",
+        "title": "Charles Ilfeld Co. v. Hernandez, 292 U.S. 62 (1934) (No. 579)"
+      },
+      {
+        "identifier": "micro_IA40386020_1376",
+        "title": "Hernandez v. Mukasey (No. 07-1322)"
+      },
+      {
+        "identifier": "micro_IA40386002_0066",
+        "title": "Ochoa v. Hernandez Y Morales, 230 U.S. 139 (1913) (No. 92)"
+      },
+      {
+        "identifier": "per_scotus_1879_191",
+        "title": "Frank F. Case, Receiver of the First National Bank of New Orleans, Appellant, vs. The New Orleans and Carrollton Railroad Company, A. Bonneval, Jos. Hernandez, and George Binder. 1879: Vol 191"
+      },
+      {
+        "identifier": "per_scotus_1880_848",
+        "title": "Joseph Salustine Cucullu, Appellant, vs. Joseph Hernandez, Mary Hernandez Walker, Individually and as Testamentary Executrix of A. W. Walker, L. A. Kearns, and Jean Numa Avegno. 1880: Vol 848"
+      }
+    ],
+    "count": 102
+  },
+  {
+    "query": "collection:us-supreme-court AND (identifier:*02-809* OR title:(Pringle))",
+    "matches": [
+      {
+        "identifier": "micro_IA40385004_1473",
+        "title": "Doe v. Pringle, 431 U.S. 916 (1977) (No. 76-1330)"
+      },
+      {
+        "identifier": "micro_IA40386004_1550",
+        "title": "Pringle v. Wolfe, 519 U.S. 1009 (1996) (No. 96-509)"
+      },
+      {
+        "identifier": "micro_IA40386006_0256",
+        "title": "Davis v. Pringle, 268 U.S. 315 (1925) (Nos. 786, 787, 1085)"
+      },
+      {
+        "identifier": "micro_IA40385007_0850",
+        "title": "Pringle v. Texas, 451 U.S. 901 (1981) (No. 80-851)"
+      },
+      {
+        "identifier": "micro_IA40385014_0623",
+        "title": "Maryland v. Pringle, 540 U.S. 366 (2003) (No. 02-809)"
+      }
+    ],
+    "count": 5
+  },
+  {
+    "query": "collection:us-supreme-court AND (identifier:*02-6683* OR title:(Castro))",
+    "matches": [
+      {
+        "identifier": "per_scotus_1853_217",
+        "title": "Salvador Castro, App't, vs. Thomas A. Hendricks, Commisioner of the General Land Office. 1853: Vol 217"
+      },
+      {
+        "identifier": "per_scotus_1865_155",
+        "title": "The United States, Appellants, vs. Rufina Castro and al. 1865: Vol 155"
+      },
+      {
+        "identifier": "per_scotus_the-united-states-appellants-vs-rafael-castro_1855_117",
+        "title": "The United States, Appellants, vs. Rafael Castro. 1855: Vol 117"
+      },
+      {
+        "identifier": "per_scotus_1893_297",
+        "title": "Jesse Spalding, Late Collector of Customs for the Port and District of Chicago, Plaintiff in Error, vs. D. Castro. 1893: Vol 297"
+      },
+      {
+        "identifier": "per_scotus_mariano-castro-appellant-vs-the-united-states_1865_302",
+        "title": "Mariano Castro, Appellant, vs. The United States. 1865: Vol 302"
+      },
+      {
+        "identifier": "micro_IA40385601_1016",
+        "title": "Seafarers International Union v. Castro, 374 U.S. 829 (1963) (No. 1061)"
+      },
+      {
+        "identifier": "micro_IA40386007_1738",
+        "title": "Murdoch v. Castro, 563 U.S. 987 (2011) (No. 10-809)"
+      },
+      {
+        "identifier": "micro_IA40385009_0588",
+        "title": "Boston Police Patrolmen's Association, Inc. v. Pedro Castro, 460 U.S. 1049 (1983) (No. 82-246)"
+      },
+      {
+        "identifier": "micro_IA40386016_0239",
+        "title": "General Construction Co. v. Castro, 546 U.S. 1130 (2006) (No. 05-371)"
+      },
+      {
+        "identifier": "micro_IA40386016_0637",
+        "title": "Castro-Rivera v. Fagundo, 546 U.S. 937 (2005) (No. 05-180)"
+      },
+      {
+        "identifier": "micro_IA40386017_2432",
+        "title": "Castro v. United States, 562 U.S. 1168 (2011) (No. 10-309)"
+      },
+      {
+        "identifier": "micro_IA40385601_1015",
+        "title": "Seafarers International Union v. Castro, 374 U.S. 829 (1963) (No. 1066)"
+      },
+      {
+        "identifier": "micro_IA40385006_1111",
+        "title": "County of Ventura v. Rudy Castro, Jr, 444 U.S. 1098 (1980) (No. 79-633)"
+      },
+      {
+        "identifier": "micro_IA40385008_1613",
+        "title": "Castro v. Texas Department of Human Resources, 457 U.S. 1119 (1982) (No. 81-1947)"
+      },
+      {
+        "identifier": "micro_IA40385017_1085",
+        "title": "Castro-Vasquez v. United States, 506 U.S. 1043 (1993) (No. 91-1720)"
+      },
+      {
+        "identifier": "micro_IA40385007_2552",
+        "title": "Castro v. Saudi Arabia, 454 U.S. 894 (1981) (No. 81-109)"
+      },
+      {
+        "identifier": "micro_IA40385601_1018",
+        "title": "Seafarers International Union v. Castro, 374 U.S. 829 (1963) (No. 1062)"
+      },
+      {
+        "identifier": "micro_IA40385006_1739",
+        "title": "Castro v. Territory of Guam, 445 U.S. 972 (1980) (No. 79-1306)"
+      },
+      {
+        "identifier": "micro_IA40385003_2187",
+        "title": "Mathews v. De Castro, 429 U.S. 181 (1976) (No. 75-1197)"
+      },
+      {
+        "identifier": "per_scotus_1893_296",
+        "title": "Anthony F. Seeberger, Collector of Customs for the Port and District of Chicago, Plaintiff in Error, vs. Daniel Castro. 1893: Vol 296"
+      },
+      {
+        "identifier": "micro_IA40386020_0163",
+        "title": "American R. Co. of Porto Rico v. Castro, 204 U.S. 453 (1907) (No. 151)"
+      },
+      {
+        "identifier": "micro_IA40385607_1165",
+        "title": "Castro v. United States, 414 U.S. 1129 (1974) (No. 73-527)"
+      },
+      {
+        "identifier": "micro_IA40385007_1676",
+        "title": "Castro v. Chicago, Rock Island & Pacific Railroad, 452 U.S. 941 (1981) (No. 80-1815)"
+      },
+      {
+        "identifier": "micro_IA40385014_0686",
+        "title": "Castro v. United States, 540 U.S. 375 (2003) (No. 02-6683)"
+      },
+      {
+        "identifier": "micro_IA40385601_1017",
+        "title": "Seafarers International Union v. Castro, 374 U.S. 829 (1963) (No. 1065)"
+      },
+      {
+        "identifier": "micro_IA40385601_1013",
+        "title": "Seafarers International Union v. Castro, 374 U.S. 829 (1963) (Nos. 1044, 1074)"
+      },
+      {
+        "identifier": "micro_IA40385006_0720",
+        "title": "Castro v. United States, 444 U.S. 963 (1979) (No. 79-229)"
+      },
+      {
+        "identifier": "micro_IA40385011_0674",
+        "title": "Boston Firefighters Union, Local 718 v. Boston Chapter, N.A.A.C.P., Inc. Boston Police Patrolmen's Association Inc. v. Pedro Castro, 468 U.S. 1206 (1984) (No. 83-885)"
+      },
+      {
+        "identifier": "micro_IA40386017_2071",
+        "title": "Dominguez Castro v. Puerto Rico, 562 U.S. 836 (2010) (No. 09-1483)"
+      },
+      {
+        "identifier": "micro_IA43086415_0530",
+        "title": "Board of Commissioners v. De Castro, 314 U.S. 614 (1941) (No. 94)"
+      },
+      {
+        "identifier": "micro_IA40386016_0067",
+        "title": "Castro-Rivera v. Fagundo, 546 U.S. 937 (2005) (No. 05-180)"
+      },
+      {
+        "identifier": "micro_IA40385601_1014",
+        "title": "Seafarers International Union v. Castro, 374 U.S. 829 (1963) (No. 1059)"
+      },
+      {
+        "identifier": "micro_IA34806415_2382",
+        "title": "Rivera v. Puerto Rico ex rel. Castro, 323 U.S. 791 (1945) (No. 299)"
+      },
+      {
+        "identifier": "micro_IA40385011_0655",
+        "title": "Boston Firefighters Union, Local 718 v. Boston Chapter, N.A.A.C.P., Inc. Boston Police Patrolmen's Association Inc. v. Pedro Castro, 468 U.S. 1206 (1984) (No. 83-866)"
+      },
+      {
+        "identifier": "micro_IA40386004_1678",
+        "title": "CSX Transportation, Inc. v. Castro, 517 U.S. 1210 (1996) (No. 95-1584)"
+      },
+      {
+        "identifier": "micro_IA40385020_1306",
+        "title": "Castro v. United States, 495 U.S. 920 (1990) (No. 89-1535)"
+      },
+      {
+        "identifier": "micro_IA40385017_1311",
+        "title": "Gnadt v. Castro, 519 U.S. 1145 (1997) (No. 95-1981)"
+      },
+      {
+        "identifier": "micro_IA40386013_0052",
+        "title": "Castro v. United States, 519 U.S. 1118 (1997) (No. 96-1068)"
+      },
+      {
+        "identifier": "micro_IA40386016_1894",
+        "title": "Castro v. Puerto Rico Highway Authority (No. 06-832)"
+      },
+      {
+        "identifier": "micro_IA40386007_1560",
+        "title": "de Castro v. United States, 517 U.S. 1155 (1996) (No. 95-1134)"
+      },
+      {
+        "identifier": "micro_IA40385601_1845",
+        "title": "Castro v. Central Aguirre Sugar Co., 379 U.S. 833 (1964) (No. 225)"
+      },
+      {
+        "identifier": "micro_IA40386004_1054",
+        "title": "Castro v. Edwards, 529 U.S. 1022 (2000) (No. 99-1384)"
+      },
+      {
+        "identifier": "micro_IA40386013_1690",
+        "title": "Gnadt v. Castro, 522 U.S. 1108 (1998) (No. 97-765)"
+      }
+    ],
+    "count": 43
+  },
+  {
+    "query": "collection:us-supreme-court AND title:(Virginia Maryland)",
+    "matches": [
+      {
+        "identifier": "micro_IA40386409_0245",
+        "title": "Maryland & Virginia Milk Producers Assn., Inc. v. United States, 362 U.S. 458 (1960) (No. 62)"
+      },
+      {
+        "identifier": "micro_IA40386416_2303",
+        "title": "Maryland & Virginia Milk Producers Ass'n v. United States, 338 U.S. 831 (1949) (No. 195)"
+      },
+      {
+        "identifier": "micro_IA40385605_1596",
+        "title": "Parish v. Maryland & Virginia Milk Producers Ass'n, 404 U.S. 940 (1971) (No. 71-341)"
+      },
+      {
+        "identifier": "micro_IA40386011_1868",
+        "title": "Maryland & Virginia Milk Producers Cooperative Ass'n v. United States, 507 U.S. 985 (1993) (No. 92-1085)"
+      },
+      {
+        "identifier": "micro_IA40385005_2469",
+        "title": "Parish v. Maryland & Virginia Milk Producers Ass'n, 440 U.S. 962 (1979) (No. 78-1246)"
+      },
+      {
+        "identifier": "micro_IA40386001_0087",
+        "title": "Maryland v. West Virginia, 217 U.S. 1 (1910) (No. 1)"
+      },
+      {
+        "identifier": "micro_IA40386418_0018",
+        "title": "Crist v. Washington, Virginia & Maryland Coach Co., 350 U.S. 823 (1955) (No. 86)"
+      },
+      {
+        "identifier": "micro_IA43086415_0653",
+        "title": "Maryland & Virginia Milk Producers' Ass'n v. District of Columbia, 314 U.S. 646 (1941) (No. 243)"
+      },
+      {
+        "identifier": "micro_IA40385001_1237",
+        "title": "Maryland & Virginia Eldership of the Churches of God v. Church of God at Sharpsburg, Inc., 393 U.S. 528 (1969) (No. 357)"
+      },
+      {
+        "identifier": "micro_IA40386001_0492",
+        "title": "State of Maryland v. State of West Virginia, 225 U.S. 1 (1912) (No. 1)"
+      },
+      {
+        "identifier": "micro_IA40385014_0579",
+        "title": "Virginia v. Maryland, 540 U.S. 56 (2003) (No. 129)"
+      },
+      {
+        "identifier": "micro_IA40385610_0277",
+        "title": "United States v. Maryland & Virginia Milk Producers Ass'n, 335 U.S. 802 (1948) (No. 89)"
+      },
+      {
+        "identifier": "per_scotus_1891_14843",
+        "title": "The National Exchange Bank of Baltimore Maryland, Appellant, vs. W. H. Peters, Receiver of the Exchange National Bank of Norfolk, Virginia; R. H. McDonald, et al. 1891: Vol 14843"
+      }
+    ],
+    "count": 13
+  }
+]

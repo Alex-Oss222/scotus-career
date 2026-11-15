@@ -1,0 +1,121 @@
+## Event
+
+Greenville Women's Clinic v. Commissioner; Fourth Circuit Nos. 01-2090 and 01-2235; judgment below, 317 F.3d 357. Merits decision, October 27, 2003, on merits submission. The Court reviews the Fourth Circuit's rejection of private-delegation, clergy-referral and vagueness claims and its reversal of the district court's protection against identified-record inspection. The questions concern Regulation 61-12's licensing conditions, religious arrangements, ascertainable duties and patient-information permissions. The regulation covers the defined nonhospital facilities performing any second-trimester abortion or at least five first-trimester abortions monthly. The earlier overall access and equal-protection judgments lie outside this review.
+
+## Participation
+
+Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate at submission and decision.
+
+## Public Action
+
+The judgment is affirmed in part, reversed in part and vacated in part, and the case is remanded.
+
+## Judgment & Remedy
+
+| Component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
+|---|---|---|---|---|
+| Medical qualifications and secular referral delegation | Affirmed, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | Rejection of this delegation claim stands at the stated scope |
+| Clergy arrangements | Vacated and remanded, 6–3 | Stevens, O'Connor, Kennedy, Souter, Ginsburg, Breyer | Stone-Zsela, Scalia, Thomas | Determine the operative obligation and restrain any compulsory religious operation and dependent sanctions |
+| Ordinary professional and facility terms, including section 305(A) | Affirmed, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | Rejection of these vagueness claims stands |
+| Independent Department-interpreted best-practices sanction branch | Reversed and remanded, 6–3 | Stevens, O'Connor, Kennedy, Souter, Ginsburg, Breyer | Stone-Zsela, Scalia, Thomas | Restrain independent sanctions and adverse licensing consequences based solely on that undefined branch until an adequate operative standard exists |
+| Identified-record access | Vacated and remanded, 7–2 | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg, Breyer | Scalia, Thomas | Determine actual permissions, regulatory connection and safeguards; protect against established improper access and dissemination while preserving lawful confidential inspection |
+
+The clergy and privacy remands may be resolved on existing material where sufficient. The lower court must apply ordinary equitable rules to surviving interim requests and conform component-specific relief to state severability law. The district court's universal compelling-need restriction and the appellate court's categorical rejection of the privacy claim cease to be final merits resolutions. Stone-Zsela concurs in the privacy judgment on a distinct justification and interim-protection ground.
+
+## Opinion Topology
+
+GINSBURG, J., delivered the opinion of the Court, with the joins specified below. STONE-ZSELA, C. J., filed an opinion concurring in part, concurring in the judgment in part and dissenting in part. SCALIA, J., filed an opinion concurring in part and dissenting in part, in which THOMAS, J., joined.
+
+| Lead-opinion part | Subject | Justices joining, including author | Authority |
+|---|---|---|---|
+| I | Medical and secular referral delegation; common qualification and arbitrary-control ground | All nine | Opinion of the Court |
+| II, religious-authority boundary | Requested private assistance versus compulsory religious civil power | All nine | Opinion of the Court |
+| II, application and remand | Determine the legally operative clergy duty | Ginsburg, Stevens, O'Connor, Kennedy, Souter, Breyer | Opinion of the Court, six |
+| III-A | Ordinary contextual standards and section 305(A) | All nine | Opinion of the Court |
+| III-B | Independent undefined best-practices sanction mechanism | Ginsburg, Stevens, O'Connor, Kennedy, Souter, Breyer | Opinion of the Court, six |
+| IV-A | Independent information-recipient-function inquiry and privacy remand | Ginsburg, Stevens, O'Connor, Kennedy, Souter, Breyer | Opinion of the Court, six; Stone-Zsela agrees in the judgment only |
+| IV-B | Additional proved interference with protected choice | Ginsburg, Stevens, O'Connor, Souter, Breyer | Opinion of the Court, five; Kennedy withholds assent to this additional rationale |
+
+The common qualification ground in Part I does not purport to give Scalia, Thomas or Kennedy a join in the complete lesser-burden framework.
+
+## Holdings
+
+### I. Medical qualifications and secular referrals
+
+**Controlling proposition:** A State may require objective medical qualifications and arrangements serving emergency care, but it may not place protected care under an outsider's arbitrary, legally uncontrolled licensing consent. These provisions, considered separately and in their established operation, have not been shown to impose that private veto; rejection of this delegation claim is affirmed.
+
+**Authority:** Part I, joined by all nine on the common qualification and arbitrary-control ground.
+
+**Controlling explanation:** Yick Wo supplies the bar against arbitrary licensing administration; Danforth and Casey identify the constitutional concern when another person effectively controls protected choice. Professional cooperation alone does not establish that control. Section 205(C)(2) requires a signed agreement with a board-certified obstetrician/gynecologist only if none is on staff; the physician must be able to admit patients to at least one local hospital providing obstetrical and gynecological services and remain available to staff and patients throughout operating hours. Section 305(A) requires staff and consulting physicians to have admission rights at one or more local hospitals offering appropriate obstetrical and gynecological services, with documented, Department-approved emergency-transfer arrangements available as its alternative when hospitalization becomes necessary. Section 309(B) independently requires physicians to have admission rights at one or more local hospitals offering appropriate obstetrical and gynecological services; neither other provision’s exception applies to it by implication. The record does not establish an actual or supported impending arbitrary refusal controlling these providers' operations under that command. Secular referrals under section 307 similarly serve needed care. Existing licenses are evidence of operation, not a requirement to await closure. A discretionary community-health-and-welfare waiver is not a guaranteed timely cure, and public-hospital constraints do not automatically bind private institutions. The clinics' strongest objection—that cooperation could be withheld for reasons unrelated to care—requires proof of effective control, including supported prospective interference, rather than treating every qualification as a private veto.
+
+### II. Clergy arrangements
+
+**Controlling proposition:** Government may facilitate patient-requested religious assistance, but may not require denominational conformity, decide religious adequacy or make licensing depend on compulsory clerical authority. Because the legally operative duty under section 307 remains unsettled on this record, the clergy judgment is vacated for determination of that duty and relief conforming to this boundary.
+
+**Authority:** Part II's religious-authority boundary has all nine joins; its application and remand have the six joins specified in the topology.
+
+**Controlling explanation:** Commack, applying Agostini, separates private religious choice and factual verification from government religious judgment and compulsory civil religious power. Section 307 requires arrangements for listed specialties, clergy, social services and other indicated fields to be available as needed. The appellate court understood that language as patient-requested directory or contact assistance. That is a permissible mechanism, but the published account of the administering official's testimony describes advance arrangements and denominational preferences. The testimony deserves consideration without being treated as a binding concession or an amendment to the rule. The three Justices who would affirm fairly emphasize the words tying availability to need. Those words do not conclusively resolve the materially different administrative account or establish an enforceable state-law limitation. The lower court must determine the operative legal duty. An enforceably confined requested-assistance duty may stand. If compulsory affiliations, denominational evaluation or clerical licensing control are established, their operation and dependent sanctions must be restrained while secular referrals and voluntary assistance are preserved. This also resolves the clergy-delegation objection at its actual scope.
+
+### III-A. Contextual professional standards
+
+**Controlling proposition:** Professional and facility standards provide constitutionally adequate notice when their actual text, medical setting and recognized functions identify the required conduct and constrain enforcement. The ordinary challenged terms and section 305(A)'s staff-and-consulting-physician provision satisfy that standard.
+
+**Authority:** Part III-A, joined by all nine.
+
+**Controlling explanation:** Hoffman Estates supplies contextual notice analysis; Grayned distinguishes workable practical standards from standardlessness. The rules concerning facility names, waiver administration, penalty factors, policies, trained personnel, health and background checks, contagious conditions, qualifications, safe care, equipment, indicated referrals, quality review, safety, sterile storage, cleanliness, odors, grounds, pests and rooms have ascertainable functions in their professional setting. They allow judgment in applying a standard. Section 305(A) addresses physicians, whether staff or consulting, and permits documented Department-approved emergency transfer when hospitalization becomes necessary. Its complete sentence does not impose physicians' hospital-privilege duties on receptionists. These provisions meet the challengers' stricter clarity concern without depending on a determination that only civil sanctions are available.
+
+### III-B. The independent best-practices sanction branch
+
+**Controlling proposition:** The State may not impose independent sanctions or adverse licensing consequences solely because conduct violates an otherwise undefined additional best practice selected by the Department. Chapter 10 and section 103(C)'s independent best-practices branch require an adequate legally operative standard before such consequences may be imposed.
+
+**Authority:** Part III-B, joined by Ginsburg, Stevens, O'Connor, Kennedy, Souter and Breyer.
+
+**Controlling explanation:** Morales supplies the requirement that meaningful criteria govern the condition authorizing compulsory compliance; Kolender and Grayned likewise require guidance against arbitrary enforcement. Chapter 10 reaches conditions not otherwise addressed, and section 103(C) separately classifies conduct contrary to Department-interpreted best practices. This is an operative enforcement branch, not simply permission to issue future rules. No identified binding criterion fixes which additional practice is compulsory. The contrary position relies on professional context, first-offense warnings and good-faith mitigation. Those protections may moderate enforcement of an intelligible duty, but do not choose the missing standard. The defect exists even with civil licensing consequences, so the disputed incorporation of section 44-7-340's criminal sanctions need not be resolved. The injunction must target this independent branch; definite duties, section 103(C)'s residual classification of their violations, and lawful prospective standard setting remain effective.
+
+### IV-A. Identified patient records
+
+**Controlling proposition:** When government authorizes transfer of intimate clinic records to inspectors, the information, authorized recipients, actual official function, scope, use and safeguards must be sufficiently connected to the regulatory need. The courts must determine those permissions and connections here, restraining established improper access or dissemination while preserving lawful confidential inspection.
+
+**Authority:** Part IV-A, joined by Ginsburg, Stevens, O'Connor, Kennedy, Souter and Breyer; six direct joins supply the rule independently of Stone-Zsela's judgment concurrence.
+
+**Controlling explanation:** Lawall supplies the inquiry into additional permitted access; Herring makes further disclosure recipient- and function-specific. Whalen permits safeguarded health administration, and Doe's confined assumed-right application shows why every datum need not be indispensable. The direct patient-care function therefore supports identified clinical audits, complaint investigation and corroboration when sufficiently connected to their tasks. Section 102(F)(2) limits copying to documents required during inspections or investigations, but its access language still requires examination. Section 401 includes contact, social-security, birth, family and emergency-contact information, so deleting names alone may leave identification possible. Retention, training and privacy rules matter without deciding all legally permitted uses. Section 44-7-310 restricts public identification but contains facility-licensure, certificate-of-need, employee-licensing and court-order exceptions. Section 44-7-315 requires public disclosure on written request while protecting identities of individuals present in a licensed facility. Section 44-41-60 bars patient and physician names in registrar reports; section 44-41-360 requires an explicit anonymity determination under the applicable constitutional standard when the woman has not consented. These distinct protections do not establish absolute inspection secrecy. The reported flyer reproducing a minor patient's record and accounts of similar releases warrant assessment, without establishing the authority or details of every release. The direct inspection function and confidentiality protections, emphasized by the dissent, cannot alone settle the full permissions and reported practices. Conversely, the district court's universal compelling-need condition is too categorical. Redaction, consent and targeted follow-up are concrete alternatives to assess where adequate, not rigid prerequisites to all inspection.
+
+### IV-B. Additional interference with protected choice
+
+**Controlling proposition:** If an actual inspection obligation causes proved additional interference with protected reproductive choice, Casey's complete framework also governs that interference, independently of the information-access claim. The lower court must identify the duty, affected population, causal burden and applicable protection, then tailor relief to the established violation.
+
+**Authority:** Part IV-B, joined by Ginsburg, Stevens, O'Connor, Souter and Breyer; five direct joins. Kennedy's privacy join does not enlarge this coalition.
+
+**Controlling explanation:** Casey supplies an ordered inquiry rather than a categorical assumption that all clinic oversight burdens protected choice. A prohibited baseline invasion, effective third-party veto, denial of timely necessary care, obstructive purpose or substantial obstacle is independently invalid. Remaining severe interference requires a compelling permissible justification and narrow tailoring; remaining meaningful interference requires substantiated justification and fit, including an answer to concrete practicable substantially less burdensome alternatives. Challengers must identify the actual command, affected population and attributable interference, including usable exceptions and supported prospective effects. Successful access by some cannot erase another group's supported burden; below meaningful interference the heightened access inquiry ends while independent protections continue. Clinical judgment, truthful communication, timely necessary care and relief preserving independently lawful requirements retain Casey's protections. The inquiry arises only on proof of additional interference, not from a privacy label or the presence of identifiers. It concerns operation of the inspection duty within the preserved claims and does not reopen the earlier overall-access judgment.
+
+## Precedent Treatment
+
+- Yick Wo v. Hopkins: applied to arbitrary licensing control; ordinary professional qualifications remain distinct.
+- Planned Parenthood of Central Missouri v. Danforth: applied to effective third-party control of protected choice.
+- Planned Parenthood of Southeastern Pennsylvania v. Casey: applied at its effective-control and complete additional-interference scopes; its particular reporting holdings remain bounded and do not establish general identified-record access.
+- Commack Self-Service Kosher Meats, Inc. v. Weiss: applied to requested private assistance versus governmental religious standards and compulsory clerical civil authority.
+- Agostini v. Felton: applied through Commack's religion framework, preserving the distinction between private choice and government religious action.
+- Village of Hoffman Estates v. Flipside and Grayned v. City of Rockford: applied to contextual notice and actual enforcement guidance.
+- City of Chicago v. Morales and Kolender v. Lawson: applied to the independent missing enforcement criterion; advance warning does not supply the legal standard.
+- Planned Parenthood of Southern Arizona v. Lawall: its information-recipient-function inquiry extends to additional clinic-to-inspector access while preserving connected confidential health administration.
+- Herring v. Keenan: applied to recipient-specific further dissemination, not treated as a categorical prohibition on health inspection.
+- Doe v. Southeastern Pennsylvania Transportation Authority: distinguished at its confined benefits-administration scope; its rejection of universal indispensability remains effective.
+- Whalen v. Roe: preserved for legitimate safeguarded health administration and applied to the actual collection and use permissions.
+
+## Law After Decision
+
+Objective medical cooperation and the ordinary contextual standards survive these challenges. Patient-requested religious help remains permissible; the legally enforceable clergy duty must be identified before the challenged operation is finally sustained. The independent undefined best-practices sanction branch cannot support sanctions until a sufficient operative standard exists. Additional governmental access to intimate clinic records receives the information-recipient-function inquiry, with legitimate sufficiently connected identified inspection preserved. Proved additional interference with protected choice also receives Casey's existing ordered protections. These are separate rules and remedies; professional qualification, religious power, ascertainable duties and information permissions do not answer one another.
+
+## Separate Writings
+
+Stone-Zsela concurs in part, concurs in the privacy judgment and dissents in part. He would affirm the clergy condition only as voluntary patient-requested assistance, allowing ordinary emergency and referral arrangements while forbidding an unreviewable private veto or compelled religious counseling. He also would sustain the contextual professional-care rules, including their application only to reasonably ascertainable obligations. He regards the professional setting and limiting constructions as sufficient for these facial dispositions. On identifiers, his ground is more demanding than Part IV-A: once compelled disclosure of intimate treatment records is established, the State must justify identity access by a concrete regulatory need that reasonably cannot be met through less identifying review. Casey's bounded reporting permissions and Whalen's scheme-specific safeguards support that requirement. He would direct findings identifying the authorized recipients, demonstrated tasks, confidentiality protections and review mechanism, maintaining the existing privacy injunction to the extent needed to prevent unnecessary identifier disclosure while permitting nonidentifying inspection. Relief would cover the challenged policy and its patients unless the State shows a narrower restriction fully cures the established defect.
+
+Scalia concurs in part and dissents in part, joined by Thomas. They join the medical and ordinary notice holdings and the common prohibition on compulsory religious civil authority. They would affirm the clergy provision on the as-needed, patient-requested construction; the administering official's described preferences do not amend that bounded legal duty. They would sustain the best-practices provision because recognizable clinical standards supply a professional core, while leaving unforeseeable sanctions open to a properly grounded particular challenge. On records, they retain their Doe constitutional-source objection to extending substantive informational privacy. Independently assuming the asserted right, they find the direct clinical-regulation task, copying qualification and confidentiality controls sufficient for this facial challenge. They acknowledge the reported releases and statutory exceptions, while distinguishing an actual improper request or disclosure from invalidity of general inspection authority. Their grounds would affirm the appellate inspection disposition rather than reinstate the district court's categorical compelling-interest requirement.
+
+## Procedure After Action
+
+The case returns for a decree restraining the undefined independent best-practices sanction branch, for determination of the operative clergy duty, and for examination of actual identified-access and redistribution permissions, regulatory connection and safeguards. The lower court must preserve independent lawful requirements, address dependent sanctions, assess concrete less identifying alternatives where adequate, and decide surviving interim requests under ordinary equity. Existing material may suffice without another hearing.
+
+## Source Notes
+
+Greenville Women's Clinic v. Commissioner, 317 F.3d 357, Fourth Circuit Nos. 01-2090 and 01-2235; S.C. Regulation 61-12 §§101(B), 102(F)(2), 102(L), 103(C), 103(E), 204(F)(3), 205(C)(2), 209, 305(A), 307, 309(B), 401, 402 and Chapter 10; S.C. Code §§44-7-310, 44-7-315, 44-41-60 and 44-41-360. The record contains competing descriptions of the clergy duty and reported releases of patient information; those accounts require the determinations specified on remand.

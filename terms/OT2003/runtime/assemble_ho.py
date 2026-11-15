@@ -1,0 +1,68 @@
+from assemble_chunk2_a import *
+date='2003-11-20'
+assign='''Before counts, form is fixed as one signed plenary merits opinion. The direct economic-service ground and preventive notice application resolve both reviewed conviction components. The sentence remains on its separate existing remand; this produces neither another lead opinion nor a separate writing.
+
+'''+assignment(date,JUSTICES,'Stone-Zsela',
+'''Fit and selective doctrinal leadership support this self-assignment. The Chief's Lopez opinion states the connection-before-magnitude and enacted-offense boundaries, and his approved Ho position identifies the regulated abatement work itself, rather than the commercial surroundings, as the connection. Personally stating this application lets him keep those original boundaries precise while separating constitutional eligibility, offense proof and the existing sentence remand. Stevens is the strongest lower-count alternative: his economic-class authorities fully support the result, but his prior disagreement with the enacted-class analysis gives him no superior advantage in explaining this specific application of the Chief's original boundary. The Chief has one counted lead and Stevens zero; Scalia, Kennedy, Souter and Ginsburg, each at two, are outside this balance pool. O'Connor, Thomas and Breyer each have one and remain alternatives within the pool. The Chief's advantage is the precise doctrinal integration just identified, not office, interest or a new authority to change colleagues' grounds. Fit governs; no withheld join needs expansion and no material accommodation is invented.''')
+kernel='''The Court reviews only the Fifth Circuit's affirmance of Ho's work-practice and notification convictions, reported at 311 F.3d 589, against the preserved Commerce Clause challenge. The lower court separately vacated the sentence and remanded on the Government's sentencing cross-appeal; that disposition remains effective. The inventory establishes merits submission and the November 20 date. The primary lower source, `runtime/chunk2_a_sources/ho_lower.txt`, supports the former-hospital purchase, asbestos disclosure, licensed bids, cost-based rejection and paid substitute removal operation. For constitutional review the absence of release is assumed; a separate preponderance-based sentencing finding supplies no conviction element. Dismissed and acquitted counts remain in their existing status.
+
+Entering law: Lopez requires a supported connection before aggregation and preserves the enacted-offense boundary; Home Builders distinguishes the regulated conduct from commercial surroundings and requires support for the eligible mechanism. Wickard, Perez and Hodel preserve actual economic-class regulation. The effective October 30 Holston decision sustains a supported image-production anti-evasion mechanism; its factual predicates are not transferred to asbestos removal. The direct abatement-service route resolves this case independently of an interstate-externality or necessary-inclusion theory. The frozen A preflight and reconciliation establish that the service-market argument was before the reviewing court; no appellate filing or concession is fabricated.
+
+Stone's approved core supports the entire common rationale: direct commercial work and its price consequences in the abatement market, preventive work and notice regulation without individual interstate release, proof of enacted elements beyond a reasonable doubt, and preservation of the separately remanded sentence under existing law. He authors and joins the whole opinion and judgment. No standing fallback, new constitutional route, substituted commercial element or broader pollution rule is used. All eight Associates join P1–P5, including Scalia and Thomas's barriers to a freestanding externality ground. Prior broader individual positions are not restated as new separate writings.
+
+Continuity: the resulting direct-service application must enter Deaton and later related matters at its actual scope. It preserves Home Builders's enacted-class analysis and does not itself displace species-taking or broader discharge-class predicates in the completed later 2004 decisions. Those Records remain unchanged. Sentencing proceeds under its existing mandate and all applicable preserved jury-finding, acquittal and procedural limits. No roster, allotment or independently established external event changes.'''
+blocks={
+'Event':'''United States v. Ho; judgment below, 311 F.3d 589. Merits decision, November 20, 2003, on merits submission. The Court reviews the Commerce Clause validity of applying the Clean Air Act's asbestos-removal work-practice and advance-notification requirements to Ho's intrastate commercial renovation. Ho bought a former hospital after asbestos disclosure, rejected licensed abatement bids and procured substitute paid removal work. The Fifth Circuit affirmed the two convictions, separately vacated the sentence and remanded. For the constitutional question it assumed that asbestos had not escaped; the sentence involved a distinct release inquiry.''',
+'Participation':'''Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate at submission and decision.''',
+'Public Action':'''The conviction component is affirmed against the Commerce Clause challenge. The separately ordered sentencing proceedings remain in effect.''',
+'Judgment & Remedy':'''**Convictions affirmed against the preserved constitutional challenge, 9–0.**
+
+**Supporting:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+The work-practice and notification convictions remain effective. The Fifth Circuit's distinct sentence vacatur and remand retain their existing grounds and scope; the original sentence is not reinstated. Acquittals and dismissed counts remain undisturbed.''',
+'Opinion Topology':'''STONE-ZSELA, C. J., delivered the opinion of the Court, in which STEVENS, O'CONNOR, SCALIA, KENNEDY, SOUTER, THOMAS, GINSBURG, and BREYER, JJ., joined.
+
+| Writing | Author | Joined by | Scope |
+|---|---|---|---|
+| Opinion of the Court | Stone-Zsela | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Complete direct-market, preventive-regulation and ancillary-notice grounds; both conviction components and sentence-remand limit |''',
+'Holdings':'''### I. The regulated removal work directly participates in an interstate service market
+
+**Controlling proposition:** Congress may regulate the asbestos-removal work practices in this commercial renovation because the regulated operation itself is produced and procured in an established interstate abatement-service market. Once that direct economic relationship and the enacted class's fit are supported, Congress may assess the class's aggregate market effects without requiring the individual project to produce an independently substantial interstate effect.
+
+**Authority:** Stone-Zsela's opinion, joined by all eight Associate Justices.
+
+**Controlling explanation:** Lopez requires a connection before magnitude; Wickard and Perez permit aggregate assessment of an actual economic class, and Hodel permits regulation of economic operations for environmental ends. Ho's licensed bids, cost-based rejection and paid substitute workers identify the very service whose production and cost the work standards regulate. Repeated avoidance of required precautions changes competitive abatement costs. Direct performance substituted for purchased abatement remains part of that service-market activity.
+
+The enacted provisions regulate asbestos-removal work during covered facility renovation and the notice supporting it. Facility coverage reaches institutional, commercial, public and industrial structures, specified residential structures including condominiums and cooperatives, ships and active or inactive waste sites. It excludes apartment buildings of four or fewer units, does not classify a structure with a loft dwelling as residential on that account, and retains coverage of previously covered structures despite later use changes. Ho's hospital coverage is uncontested. This breadth is not rewritten as a commercial-building element.
+
+Ho's strongest objection is that Home Builders forbids selecting a commercial project to disguise a differently defined noneconomic class. That rule remains controlling. Here removal itself is the procured and performed service, rather than unrelated conduct occurring within an owner's commercial surroundings. Property value and ownership do not supply the bridge. The demonstrated operation-level connection supports this application without adding a commerce element to the offense. Generalized national health costs do no work in that conclusion.
+
+### II. Preventive work standards and their notice duty may precede release
+
+**Controlling proposition:** Valid regulation of the identified economic removal operation may prescribe preventive practices and advance notice without proof that the particular project released asbestos into ambient air or across a state boundary. The notice duty is sustained as directly ancillary to enforcement of those work standards; the Government must still establish the enacted offense elements beyond a reasonable doubt.
+
+**Authority:** The same unanimous opinion.
+
+**Controlling explanation:** Preventive standards regulate how the economic service is performed before the feared release occurs. Advance notice allows administration and enforcement at that stage. Requiring a proved cross-border injury would treat prevention as constitutionally unavailable even though the regulated activity already has the necessary market relationship. The absence of an actual release, assumed for this question, therefore does not defeat the power to regulate these practices and notice obligations.
+
+The notice holding concerns its fitted relationship to the regulated operation, rather than aggregation of failures to report in general. An actual-release condition in a different offense retains its own role, and the separate sentencing finding under a different evidentiary standard supplies no element here. Holston's supported inclusion of local image production in a national prohibition remains a distinct mechanism: this direct service-market ground does not depend on importing its concealment, reproducibility or supply predicates. The constitutional validity of the separate sentence enhancements is outside the granted question.''',
+'Precedent Treatment':'''- United States v. Lopez: applied to connection before aggregation, the actual regulated class and the prohibition on adding an unexpressed commerce element.
+- National Association of Home Builders v. Babbitt: applied and distinguished because this regulation addresses the actual abatement operation, rather than relying on commercial surroundings to characterize unrelated conduct; its support and fit requirements remain effective.
+- Wickard v. Filburn and Perez v. United States: applied to class-wide effects of supported economic activity without an independently substantial effect from each instance.
+- Hodel v. Virginia Surface Mining & Reclamation Association: applied to environmental regulation of an actual economic operation.
+- United States v. Holston: preserved at its supported production-and-regime scope; the present direct-market holding uses a different established mechanism.''',
+'Law After Decision':'''The Commerce Clause permits preventive asbestos-removal and fitted advance-notice duties for the commercial removal operation supported here, without an individual release or cross-border-injury requirement. Courts must identify the regulated conduct and its supported direct market relationship before aggregation. The decision adds this application to existing Commerce doctrine; the enacted-class limitation and the requirement of proof of the statutory offenses remain effective.''',
+'Separate Writings':'',
+'Procedure After Action':'''The lower court implements the affirmed convictions and conducts the separately ordered sentencing proceedings within their preserved scope under existing jury-finding, acquittal and procedural rules.''',
+'Source Notes':'''United States v. Ho, 311 F.3d 589; 42 U.S.C. §§7412(h), 7414(a), 7413(c)(1) and 7413(c)(2)(B); 40 C.F.R. §§61.141 and 61.145. The constitutional question proceeds on the assumed absence of actual asbestos escape; the separate sentencing discharge finding has a different procedural and evidentiary basis.'''
+}
+annex='''Each frozen Associate supports the direct operation-level economic ground, preventive application and ancillary notice duty in full. The opinion preserves the broader regulatory facility definition, inserts no commercial-building element, and does not rest on owner status, public-health costs, the externality route or borrowed Holston facts. Stone's approved class and trial-proof limits coincide. No historical Supreme Court merits comparator or Associate departure is asserted.
+
+'''+frozen_audit('HO')
+p=save('united_states_v_ho_merits_2003-11-20.md','United States v. Ho; judgment below, 311 F.3d 589',date,'Both convictions affirmed against the Commerce Clause challenge, 9–0; separate sentence vacatur and remand preserved.',kernel,assign,annex,blocks)
+pub=p.read_text(encoding='utf-8').split('## Public Projection\n\n',1)[1]
+for d in ['runtime','freeze']:
+    (TERM/d/'OT_2003CHUNK2_HO_PUBLIC.md').write_text(pub,encoding='utf-8')
+assert (TERM/'runtime'/'OT_2003CHUNK2_HO_PUBLIC.md').read_bytes()==(TERM/'freeze'/'OT_2003CHUNK2_HO_PUBLIC.md').read_bytes()
+print(p)
+print('Public-only handoffs copied exactly to runtime and freeze; byte identity verified.')

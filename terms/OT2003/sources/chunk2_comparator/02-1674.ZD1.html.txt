@@ -1,0 +1,126 @@
+https://www.law.cornell.edu/supct/html/02-1674.ZD1.html
+
+MCCONNELL V. FEDERAL ELECTION COMM’N
+LII
+Supreme Court
+MCCONNELL V. FEDERAL ELECTION COMM’N (02-1674)
+251 F. Supp. 2d 176, 251 F. Supp. 2d 948, affirmed in part and reversed in part.
+Syllabus
+Opinion
+[ Stevens ]
+Opinion
+[ Rehnquist ]
+Opinion
+[ Breyer ]
+Dissent
+[ Rehnquist ]
+Dissent
+[ Stevens ]
+Other
+[ Opinion of Scalia ]
+Other
+[ Opinion of Thomas ]
+Other
+[ Opinion of Kennedy ]
+HTML version
+PDF version
+HTML version
+PDF version
+HTML version
+PDF version
+HTML version
+PDF version
+HTML version
+PDF version
+HTML version
+PDF version
+HTML version
+PDF version
+HTML version
+PDF version
+HTML version
+PDF version
+Stevens, J.,
+dissenting
+SUPREME COURT OF THE UNITED
+STATES
+Nos. 02—1674,
+02—1675, 02—1676, 02—1702, 02—1727,
+02—1733, 02—1734;
+02—1740, 02—1747,
+02—1753, 02—1755, and 02—1756
+ON APPEALS FROM THE UNITED STATES DISTRICT
+COURT FOR THE DISTRICT OF COLUMBIA
+[December 10, 2003]
+Justice Stevens, dissenting with
+respect to §305.**
+The Chief Justice, writing for the
+Court, concludes that the McConnell plaintiffs lack standing to
+challenge §305 of BCRA because Senator McConnell cannot be
+affected by the provision until “45 days before the
+Republican primary election in 2008.” Ante, at 4.
+I am not persuaded that Article III’s case-or-controversy
+requirement imposes such a strict temporal limit on our
+jurisdiction. By asserting that he has run attack ads in the
+past, that he plans to run such ads in his next campaign, and
+that §305 will adversely affect his campaign strategy,
+Senator McConnell has identified a “concrete,”
+“ ‘distinct,’ ” and “ ‘actual’ ”
+injury, Whitmore v. Arkansas, 495 U.S. 149, 155
+(1990). That the injury is distant in time does not make it
+illusory.
+The second prong of the standing
+inquiry–whether the alleged injury is fairly traceable to
+the defendants’ challenged action and not the result of a
+third party’s independent choices†<*
+num="�">–poses a closer question. Section 305 does not
+require broadcast stations to charge a candidate higher
+rates for unsigned ads that mention the candidate’s
+opponent. Rather, the provision simply permits stations to
+charge their normal rates for such ads. Some stations may take
+advantage of this regulatory gap and adopt pricing schemes that
+discriminate between the kind of ads that Senator McConnell has
+run in the past and those that strictly comply with §305.
+It is also possible, however, that instead of incurring the
+transaction costs of policing candidates’ compliance with
+§305, stations will continue to charge the same rates for
+attack ads as for all other campaign ads. In the absence of
+any record evidence that stations will uniformly choose to
+charge Senator McConnell higher rates for the attack ads he
+proposes to run in 2008, it is at least arguable that his
+alleged injury is not traceable to BCRA §305.
+Nevertheless, I would entertain
+plaintiffs’ challenge to §305 on the merits and
+uphold the section. Like BCRA §§201, 212, and 311,
+§305 serves an important–and constitutionally
+sufficient–informational purpose. Moreover,
+§305’s disclosure requirements largely overlap those
+of §311, and plaintiffs identify no reason why any
+candidate already in compliance with §311 will be harmed
+by the marginal additional burden of complying with §305.
+Indeed, I am convinced that “the important governmental
+interest of ‘shed[ding] the light of publicity’ on
+campaign financing,” invoked above in connection with
+§311, ante, at 9 (opinion of Rehnquist,
+C. J.), would suffice to support a legislative provision
+expressly requiring all sponsors of attack ads to identify
+themselves in their ads. That §305 seeks to achieve the
+same purpose indirectly, by withdrawing a statutory benefit,
+does not render the provision any less sound.
+Finally, I do not regard §305
+as a constitutionally suspect “viewpoint-based
+regulation.” Brief for Appellants/Cross-Appellees Senator
+Mitch McConnell et al. in No. 02—1674 et al., p.
+67. Like BCRA’s other disclosure requirements, §305
+evenhandedly regulates speech based on its electioneering
+content. Although the section reaches only ads that mention
+opposing candidates, it applies equally to all such ads.
+Disagreement with one’s opponent obviously expresses a
+“viewpoint,” but §305 treats that expression
+exactly like the opponent’s response.
+In sum, I would uphold
+§305.
+Notes
+*. * Justice Ginsburg and Justice Breyer
+join this opinion in its
+entirety.

@@ -1,0 +1,2807 @@
+. Supreme Court US 
+/ 6) D- 
+” @D / FILED 
+
+
+\ JUL 8 2003 
+
+
+In The 
+Supreme Court of the United States 
+
+
+NATIONAL RIGHT TO LIFE COMMITTEE, INC. ef al., 
+Plaintiffs-Appellants/Cross-Appellees, 
+v. 
+
+
+FEDERAL ELECTION COMMISSION ef ai., 
+Appellees/Cross-Appellants 
+
+
+On Appeal from the United States District Court 
+for the District of Columbia 
+
+
+Brief of Plaintiffs-Appellants/Cross-Appellees 
+National Right to Life Committee et al. 
+
+
+James Bopp, Jr., Counsel of Record 
+Richard E. Coleson 
+Thomas J. Marzen 
+JAMES MADISON CENTER FOR FREE SPEECH 
+Bopp, COLESON & BOSTROM 
+1 South 6th Street 
+Terre Haute, IN 47807-3510 
+July 8,2003 812/232-2434 
+
+
+r| (7 
+
+
+——— TT 
+
+
+Questions Presented 
+
+
+1. Whether the prohibition of § 101 of the Bipartisan Campaign 
+Reform Act of 2002 (BCRA) on the solicitation, receipt, redirec- 
+tion, or use of “soft money” by any national political party for any 
+communication that “promotes or supports . . . or attacks or 
+opposes” a federal candidate, violates the First and Fifth Amend- 
+ment and principles of federalism. 
+
+
+2. Whether the prohibition on federal officeholders and 
+candidates from soliciting, receiving, directing, transferring, or 
+spending “soft money” contained in BCRA § 101 violates the First 
+Amendment. 
+
+3. Whether the prohibition on state officeholders and candidates 
+from soliciting, receiving, directing, transferring, or spending “soft 
+money’ in connection with an election for federal office in BCRA 
+§101 violates the First Amendment. 
+
+
+4. Whether the backup “electioneering communication” 
+definition at BCRA§ 201, or its construction by the district court, 
+violates the First Amendment. 
+
+5. Whether the requirements that “disbursements” and “expendi- 
+tures” be reported as occurring when contracted for, rather than 
+when made, BCRA §§ 201 and 212,’ are justiciable and violate the 
+First Amendment. 
+
+6. Whether the District Court injunction should extend to 
+activities outside the District of Columbia.! 
+
+
+7. Whether BCRA § 403(b), permitting members of Congress 
+to intervene, and the permitted intervention by Intervenor-Defen- 
+dants without regard to whether they have Article III standing, 
+violates the Constitution. 
+
+
+‘Question 5, as to § 212 only, and Question 6 are withdrawn. 
+
+
+i 
+
+
+Parties to the Proceedings 
+
+
+In the case of McConnell, et al. v. FEC, et al. (No. 02-582 
+in the district court), the following plaintiffs were represented by the 
+James Madison Center for Free Speech (“JMC Plaintiffs”): U.S. 
+Representative Mike Pence, Alabama Attorney General Bill Pryor, 
+Libertarian National Committee, Inc. (LNC), Club for Growth, Inc. 
+(CFG), Indiana Family Institute, Inc. (IFI), National Right to Life 
+Committee, Inc. (NRLC), National Right to Life Educational Trust 
+Fund (NRL Ed Fund), National Right to Life Political Action 
+Committee (NRL PAC), Trevor M. Southerland,” and Barret 
+Austin O’Brock .? 
+
+
+Plaintiffs below in the same action who were not represented by 
+JMC were U.S. Senator Mitch McConnell, former U.S. Represen- 
+tative Bob Bar, American Civil Liberties Union, Associated Builders 
+and Contractors, Inc., Associated Builders and Contractors 
+Political Action Committee, Center for Individual Freedom, 
+National Right to Work Committee, 60 Plus Association, Inc., 
+Southeastern Legal Foundation, Inc., U.S. English d/b/a/ 
+ProENGLISH, Thomas McInerney. 
+
+
+Defendants and Intervenor-Defendants, were the Federal 
+Election Commission (FEC), Federal Communication Commission 
+(FCC), John D. Ashcroft, in his capacity as Attorney General of the 
+United States, the United States Department of Justice; and the 
+United States of America, U.S. Senator John McCain, U.S. 
+
+
+The Madison Center represented minors Southerland and O’Brock in 
+their successful challenge to the ban on contributions by minors to 
+candidates or political party committees. Mr. Southerland became 18 years 
+of age on May 28, 2003. 
+
+*Withdrawn Plaintiffs below were Alabama Republican Executive 
+Committee, Libertarian Party of Illinois, Inc., DuPage Political Action 
+Council, Jefferson County Republican Executive Committee, Christian 
+Coalition of America, Inc., and Martin Connors. 
+
+
+ii 
+
+
+ea 
+
+
+oo 
+~ 
+
+
+_ <- 
+
+
+—» Seer ee 
+
+
+Senator Russell Feingold, U.S. Representative Christopher Shays, 
+U.S. Representative Martin Meehan, U.S. Senator Olympia 
+Snowe, and U.S. Senator James Jeffords. 
+
+Corporate Disclosure Statement 
+
+
+As stated in the Jurisdictional Statement, none of the appel- 
+lants has a parent corporation and no publicly held company owns 
+ten percent or more of the stock of any of the appellants. Rule 29.6. 
+
+
+Table of Contents 
+
+ee cca csnknacutceu bWaeesdnee eee i 
+PTOI occ nd 0sbd ccécecuncedesaes li 
+Corporate Disclosure Statement ..................... iil 
+PD koa 94 wi nde osnus dno oeeneceekenes iv 
+EEE 045 vA uk adhoekavesuneaenet vi 
+SE snnebasbca condunedcaensacken nan eeea Xvi 
+SE ED cbc ene ss cdtesncveuucesiesauaae cus l 
+PN a 4teen vie dadnasdieennnseaanes ieee l 
+Constitutional & Statutory Provisions ................. l 
+ee 6 5-004 444.4904 eenecesedeueadaaes | 
+Summary of the Argument .................22-ee0eee 2 
+I 656 565405 Sch nks oh beusien keene 3 
+
+I. The“Electioneering Communication” Ban Is Un- 
+SU 46. 0:4066.5-564 d05ckas bass dauenees 3 
+A. Textual Analysis of Buckley & MCFL ........ 4 
+B, BUM, BGIILED occ ccccccccecescoses 4 
+ED ok o06 vesaunencsaueans 8 
+i. "HE -bc-d.edensneessnsecueseciessseen 12 
+Sie EEE ‘s cieb daGuncesauwokennbene ens 15 
+
+D. Primary “Electioneering Communication” 
+PD ccnccudssccsausceusenecenseaess 18 
+
+E. Backup “Electioneering Communication” 
+PD odds beeenteeusesuaeueunetecss 22 
+II. “Soft Money” Bans Are Unconstitutional ....... 35 
+A. Asto National Patties .....cccccccccccees 36 
+B. As to Federal Officeholders/ Candidates ..... 36 
+
+
+iv 
+
+
+sacs 
+
+
+- yee 
+Jl ee eee a AP el ea 
+
+
+— 
+
+
+C. As to State Officeholders/Candidates ....... 
+
+Ill. “Advance Notice” Is Unconstitutional .......... 
+
+IV.  Intervenors Lack Article III Standing........... 
+
+ET ee re re ee rE ee 
+Vv 
+
+
+Table of Authorities 
+
+
+Cases 
+
+
+Alaska v. Alaska Civil Liberties Union, 978 P.2d 597 
+ED . hsseevendeudesnceeenewiebenees ll 
+
+
+Ashcroft v. Free Speech Coalition, 535 U.S. 234, 122 S. Ct. 
+EE cdc wAcdactauenneeedsncankenedaces 19 
+
+
+Bowman v. United Kingdom, 26 Eur. Ct. H.R.1 (1986) ... 16 
+
+
+Brownsburg Area Patrons Affecting Change v. Baldwin, 
+SP ee ee CEG PEED ceded cdvccecccess 11,13 
+
+
+Brownsburg Area Patrons Affecting Change v. Baldwin, 
+po BG err ree 11 
+
+
+Buckley v. Valeo, 424 U.S. 1 (1976) 
+painieedane edaes 4-10, 12-15, 17, 19, 21, 25-27, 42, 43 
+
+
+Building and Constr. Trades Dept., AFL-CIO v. Reich, 40 
+ee Se a MED 906 Wade uccae nd oeediun 49 
+
+
+California Pro-Life Council v. Getman, 328 F.3d 1088 (9th 
+SE ceudenncccchaGunesacneeseeies 11, 14, 15 
+
+
+Chamber of Commerce v. Moore, 288 F.3d 187 (Sth Cir. 
+SEE cnicdsnheunnnheseseubeakaunesceenee 11,13 
+
+
+Champlin Refining. v. Corporation Comm'n of Oklahoma, 
+PP bes 4kss6cGeudeesvases case 25 
+
+
+Citizens for Responsible Gov't State Political Action 
+Comm. v. Davidson, 236 F.3d 1174 (10th Cir. 2000) 
+
+
+iAaGRE i GAROs aes daneensdbeewetestadiin 11,13 
+Clifton v. FEC, 114 F.3d 1309 (1st Cir. 1997) .......... 11 
+Clifton v. FEC, 927 F. Supp. 493 (D. Me. 1996) ........ ll 
+
+
+Common Cause v. FEC, 108 F.3d 412 (D.C. Cir. 1997) .. 49 
+
+
+Conn. v. Proto, 526 A.2d 1297 (Conn. 1987) .......... 12 
+Dickerson v. United States, 530 U.S. 428 (2000)........ 17 
+Doe v. Mortham, 708 So. 2d 929 (Fla. 1998) ........... 12 
+Elections Bd. v. Wisconsin Mfr. & Commerce, 597 N.W.2d 
+ES one cecal cu lcehcunweubesneeens 11 
+Faucher v. FEC, 928 F.2d 468 (1st Cir. 1991) ....... 10, 13 
+FEC v. AFSCME, 471 F. Supp. 315 (D.D.C. 1979) ...... 11 
+FEC v. Beaumont, 123 S. Ct. 2200 (2003) ............. 19 
+FEC v. Cent. Long Island Tax Reform Immediately Comm., 
+Se ED GUE ov ccccccecncecsssecees 10 
+FEC v. Colorado Republican Federal Campaign Committee, 
+41 F. Supp. 2d 1197 (D. Col. 1999) ............... 21 
+Vii 
+
+
+FEC v. Christian Action Network, 92 F.3d 1178 (4th Cir. 
+
+
+DE is civberidekepetuin RAVE dene eee aaied 10 
+FEC v. Christian Action Network, Inc., 110 F.3d 1049 (4th 
+BE EE ch bdenkaenkcdebancsacdeeceneees 10, 14 
+FEC v. Christian Coalition, 52 F. Supp. 2d 45 (D.D.C. 
+DE 6 ukedncacaGuuauneeens taeseehae cen ee es 1] 
+FEC v. Colo. Republican Fed. Campaign Comm. , 59 F.3d 
+Se EE SED so ic bnibccsscususaneessenes 1] 
+FEC v. Colo. Republican Fed. Campaign Comm., 839 F. 
+PT eee 11 
+FEC v. Colo. Republican Fed. Campaign Comm., 518 U.S. 
+SE a G5-G due casevecensceavenkeeaaeenens 11 
+FEC vy. Furgatch, 807 F.2d 857 (9th Cir. 1987) ...... 11,14 
+
+
+FEC v. Massachusetts Citizens for Life, 479 U.S. 238 (1986) 
+(Lith awe eiabeeneeeteas 2, 4, 9, 10, 12-15, 17, 19, 39 
+
+
+FEC v. NOW, 713 F. Supp. 428 (D.D.C. 1989) ......... 11 
+FEC v. Survival Educ. Fund, 65 F.3d 285 (2d Cir. 1995) . 11 
+
+
+FEC v. Survival Educ. Fund, No. 98 Civ. 0347, 1994 WL 
+oe Fe ER Tree 11 
+
+
+Fla. Right to Life v. Lamar, 238 F.3d 1288 (11th Cir. 2001) 
+
+
+Fla. Right to Life v. Mortham, No. 98-770CIVORLI9A, 
+
+
+1999 WL 33204523 (M.D. Fla. 1999) ............. 1] 
+Gladstone Realtors v. Village of Bellwood, 441 U.S. 91 
+
+SE e654 40a dus seuus Chee ne ce dee eaesineen ss 49 
+Governor Gray Davis Committee v. American Taxpayers 
+
+Alliance, 125 Cal. Rptr. 2d 534 (2002) ............ 11 
+Harper v. Canada, 2002 ABCA 301 (2002) ........... 16 
+
+
+In Re Texas Association of Business, (no number) slip. op. 
+(167th Judicial Dist. Ct. of Travis County, Texas) .... 11 
+
+
+Iowa Right to Life Comm. vy. Williams, 187 F.3d 963 (8th 
+
+
+<6 ceded ed nee cee neeeetnnensctuwes 11,13 
+Kansans for Life, Inc. v. Gaede, 38 F. Supp. 2d 928 (D. 
+
+PM .ccccehenbnaseseuees oneness eee pueee 11 
+Klepper v. Christian Coalition, 259 A.D.2d 926 (N.Y. App. 
+
+EE Su ot-Gdesnkedndcdueneanédenseueases 11 
+Linda R.S. v. Richard D., 410 U.S. 64 (1973) .......... 49 
+
+
+Lorillard Tobacco Co. v. Reilly, 533 U.S. 525 (2001) .... 40 
+Lujan v. Defenders of Wildlife, 504 U.S. 555 (1992) .. 47-49 
+
+
+Me. Right To Life Comm. v. FEC, 98 F.3d 1 (1st Cir. 1996) 
+
+
+Mausolf v. Babbit, 85 F.3d 1295 (8th Cir. 1996) ........ 49 
+McConnell v. FEC, 251 F. Supp. 2d 176 (D.D.C. 2003) ... 1 
+
+
+National Credit Union Admin. v. First National Bank & 
+
+
+Trust Co., $22 U.S. 1146 (1998) 0.2... ccesceess 47 
+Nat’l Fed’n of Republican Assemblies v. United States, 218 
+
+F. Supp. 2d 1300 (S.D. Ala. 2002) ............. 11,12 
+N.C. Right To Life, Inc. v. Bartlett, 168 F.3d 705 (4th Cir. 
+
+BEE ko écadnccoccnetsveresedansebasnsesaens 10 
+N.C. Right to Life, Inc. v. Leake, 108 F. Supp. 2d 498 
+
+8 rT erere rrr TT rrr rr rr Te 1] 
+Oklahomans for Life v. Luton, No. CIV-00-1163, slip. op. 
+
+CR Ge RE A OED oc ccccnnescesenacccce 11 
+Osterberg v. Peca, 12 §.W.3d 31 (Tex. 2000) .......... 11 
+Perry v. Bartlett, 231 F.3d 155 (4th Cir. 2000) ......... 11 
+Planned Parenthood Affiliates of Mich. v. Miller, 21 F. 
+
+Supp. 2d 740 (E.D. Mich. 1998) ..............0. 11 
+Right To Life of Dutchess County, Inc. v. FEC, 6 F. Supp. 
+
+PE RIOD a ccevecesevvececencsanes “11 
+Right to Life of Mich., Inc. v. Miller, 23 F. Supp. 2d 766 
+
+CU UE ED hoc ceececccnseceescnceoenens 11 
+
+x 
+
+
+eee 
+
+
+Patterson v. McLean Credit Union, 491 U.S. 164 (1989) 
+
+
+eT eT ee TT TT eT eT TET ee ere 15, 16 
+Payne v. Tennessee, 501 U.S. 808 (1991) ............. 17 
+Perry v. Bartlett, 231 F.3d 155 (4th Cir. 2000) ......... 18 
+Planned Parenthood Affiliates of Michigan, Inc. v. Miller, 
+
+21 F. Supp. 2d 740 (E.D. Mich. 1998) ............. 18 
+Planned Parenthood of S.E. Penn. v. Casey, 505 U.S. 833 
+
+a one dnkondoncenn6te6eedbeu dddddnencus 16 
+Raines v. Byrd, 521 U.S. 811 (1997) .............. 47-48 
+
+
+Republican Party of Minnesota v. White, 536 U.S. 765 
+bi ¢ ebeceenanseedecevebeeceseneweses 22, 42 
+
+
+Right To Life of Michigan, Inc. v. Miller, 23 F. Supp. 2d 766 
+UE dno b-6d wah annksdkeeeeenves 18 
+
+
+Seminole Tribe of Fla. v. Florida, 517 U.S. 44 (1996) ... 17 
+Thomas v. Collins, 323 U.S. 516 (1945) ............. 6, 7 
+
+
+United States v. International Business Machines Corp., 
+ee cd aknnksectncdcndeversaesce 17 
+
+
+United States v. Playboy Entertainment Group, Inc., 529 
+EE on 6csdunncdadedesnecedkeeaes 42, 43 
+
+
+Vermont Right to Life Committee v. Sorrell, 221 F.3d 376 
+
+
+EN ks ce ce ceceiaedensknnaeeuns 10, 13, 18 
+Va. Soc’y For Human Life v. Caldwell, 152 F.3d 268 (4th 
+SE 0060s npnenedksoueseasanedsotarersaes 10 
+Va. Soc’y for Human Life v. Caldwell, 500 S.E.2d 814 (Va. 
+SEE cashed dceunend ess uaeeneendeeasesnnbess 12 
+Va. Soc’y for Human Life v. FEC, 263 F.3d 379 (4th Cir. 
+DED nsddeudbeennkadednsenaiaansnveneses 10, 13 
+Warth v. Seldin, 422 U.S. 490 (1975) ........... 0.0 e ee 49 
+
+
+Wash. State Republican Party v. Wash. State Public Disclo- 
+sure Comm'n, 4 P.3d 808 (Wash. 2000) ............ 11 
+
+
+Webster v. Reproductive Health Services, 492 U.S. 490 
+PN ee onsbaudenedeeesneddevenesesens Reader 17 
+
+
+West Virginians For Life, Inc. v. Smith, 919 F. Supp. 954 
+ee We es SE 6s by 6ecesetendeedssdasenes 11 
+
+
+Wisconsin Realtors Ass'n v. Ponto, 233 F. Supp. 2d 1078 
+SS SU SED v.09 04scdencseveceeincecess 11,12 
+
+
+Constitution, Statutes, Regulations & Rules 
+
+
+Se EN. bce cunuakuscnenanedeusuaness 15 
+
+WS io dn casks acescucesacesans 1 
+
+Ala. Code § 17-22A-7(b)(2).........00- Beene 40 
+xii 
+
+
+n Pe Bore tip, 
+
+
+Wee eu 
+
+
+“0 ORME 
+
+
+. eee 
+meee, ot wee ee ee ee +s 
+
+
+Alaska Stat. § (6)(C)(7) (2003) ...........ceeeeeeees 15 
+Alaska Stat. § 15.13.400(6)(C)(4) .......000.ec cece. 15 
+| ee nee 36 
+REE sey ee rete nen RMN Dorr 
+a ce alia Fea eo ka eae i-3 
+BCRA § 201(5) ..... Deepens ne NOME 44, 50 
+BCRA § 201(f)(3)(A)(ii) «0... ee eee cece cece ee eees 22 
+EE cepiakensuces ancesesseaaesaesens) 3 
+Ns chnracadugesnisndasecariedeneneaien 
+BCRA § 301(20)(A)(iii) ... 0.0... cece cece cece eens 39 
+BCRA § 323(e)(1)(A) . 02.2.0. eee. caakaaeuaeiees 36 
+II nos vices ctnrccsenvccrccesss 37 
+WO I vice vcnvcccvvcsnssecsncvceseneces 39 
+BETAS DGD) onc ccccnccccnsscvesscccescsienss 1 
+II i oceninn gesavexdvavannscurweds i, 46 
+Cal. Gov’t Code § 82031 (2003) ............000eeees 15 
+
+
+Del. Code Ann. tit.15, § 8002(10) (2002) ............. 15 
+Idaho Code § 67-6602(g) (2003) ........... cece eee 15 
+Bee Ge BFE OD ov cccccccceseeccevesnes 15 
+Kan. Stat. Ann. § 25-4143(g)(1)(B) ..........0.- ee eee 15 
+es EB evs ic cccdescccvsccveens 15 
+Ky. Rev. Stat. Ann. § 121.015(12) (2002) ............. 15 
+Minn. Stat. § 10A.01(18) (2002) ..............25000e 15 
+Miss. Code Ann. § 23-15-801(j) (2003) ..... veceeveee 15 
+Me. Rev. Stat. Ann. tit. 21A § 1125(2)(C) ............. 41 
+Mont. Code Ann. § 13-37-216 ..........cccccccecees 41 
+Nev. Rev. Stat. 294A.004 (2003) ...........0e ee eeeee 15 
+N.H. Rev. Stat. Ann. § 664:2(XT) (2002) ............-. 15 
+Fe Fh PPP TTT Te Te Te Tere Tee passim 
+Sie GE NE, TENS ve ssccessuvecveesesosesoses 8 
+Se SI TE hn decvceducendvdavedses i, 1-2, 46-49 
+Wek, SRS, © RCI Ge 6 bb dcccndnceccecvesunes 15 
+xiv 
+
+
+tN le eee CT 
+
+
+ae ee 
+
+
+Or ER WESTIE Sere la eed 
+
+
+a ea A 
+
+
+Other Authorities 
+
+
+Aides Shielded From Grand Jury Probe, U.S. Chamber 
+Tells Texas Criminal Court, Money & Politics Report, 
+
+
+Chet nls kekeGhewhendeekeeeues wat 9 
+American Heritage Dict. Eng. Lang. (4th Ed. 2000) ..... 26 
+ee elie ges eenansiindenees 20 
+
+
+Matthew Tully, Daniels Dives In; Rival Bows Out, Indianapo- 
+lis Star, June 10, 2003, <http://www.indystar.com/print/ 
+articles /2/049677-9902-098.html> ............... 42 
+
+
+Glossary 
+
+= ee Bipartisan Campaign Reform Act of 2002 
+CHG on ccccccsssnescceens nee Club for Growth 
+, ere Federal Election Commission 
+ » Frere Federal Election Campaign Act 
+GOTYV 2. nccccccecececssus nue get out the vote 
+BA, oc ccccccccsvecesseesee een Joint Appendix 
+| weer Joint Deposition Transcripts 
+a, Ee  t—<“i‘“—s—SCS 
+
+present plaintiffs-appellants/cross-appellees in trial court 
+BB no ccccccestsssenéeuuee Jurisdictional Statement 
+BBA. .. <0 scvceesuenseee Jurisdictional Statement Appendix 
+| ro National Right to Life Committee 
+8s) Peer NRL Educational Trust Fund 
+NE, BAS ..nsscuccnnen NRL Political Action Committee 
+NRLC Plalatifis .... oc cccccccccsessesneunennnneeae 
+
+
+present plaintiffs-appellants/cross-appellees in this brief 
+PCS... Plaintiffs’ Consolidated Evidentiary Submission (cd) 
+SA ... Supplemental Appendix to Jurisdictional Statements 
+
+
+Opinions Below 
+Lower opinions are at 251 F. Supp. 2d 176 and in the Supple- 
+mental Appendix to Jurisdictional Statements (SA). 
+Jurisdiction 
+Judgment issued May 1, 2003; appeal was noticed May 7. 
+Jurisdiction is under 28 U.S.C. § 1253; BCRA § 403(a)(1). 
+Constitutional & Statutory Provisions 
+
+
+Relevant provisions are set out in the Jurisdictional Statement 
+(“JS”) and appendix pages cited. JS at 1-2. 
+Statement of the Case 
+Plaintiffs-appellants/cross-appellees represented by the James 
+Madison Center for Free Speech (referred to below as “Madison 
+Center” or “JMC” Plaintiffs) were part ofa larger group below on 
+the McConnell v. FEC (No. 02-582) complaint. They refer to 
+themselves herein as the “NRLC Plaintiffs.” 
+
+
+NRLLC Plaintiffs are described in detail in the Jurisdictional 
+Statement. They include nonprofit, ideological advocacy organiza- 
+tions, described in the Per Curiam Opinion as noted: National 
+Right to Life Committee, Inc. (79sa), National Right to Life 
+Educational Trust Fund (79a), Club for Growth, Inc. (79sa), and 
+Indiana Family Institute. NRLC Plaintiffs include the Libertarian 
+National Committee, Inc. (78sa); National Right to Life Political 
+Action Committee (79sa); federal official and candidate Rep. Mike 
+Pence; state official and candidate Alabama Attorney General 
+William H. Pryor (78sa); and minor Barret Austin O’ Brock (80sa). 
+
+NRLC Plaintiffs generally adopt the statement of the case of the 
+McConnell Plaintiffs in No. 02-1674, but add the following unique 
+information regarding the challenge to Intervenors’ standing. 
+Senators McCain and Feingold, Reps. Shays and Meehan, and 
+Sens. Snowe and Jeffords (Intervenors) moved to intervene under 
+Fed. R. Civ. P. 24(a)(1) and BCRA § 403(b). Docket #6. NRLC 
+Plaintiffs objected that Intervenors lack mandatory Article III 
+
+
+2 
+
+
+standing. Docket #14. The trial court granted intervention, holding 
+that Intervenors have Article III standing if it is required. Docket 
+#40. 
+
+
+Summary of the Argument 
+
+
+The ban on “electioneering communication,” § 201, is 
+unconstitutional as to its primary, its backup, and (the district 
+court’s) truncated backup definitions. It violates this Court’s 
+binding, substantive decisions in Buckley v. Valeo and FEC v. 
+Massachusetts Citizens for Life that the First Amendment requires 
+that issue advocacy be protected from government regulation by a 
+bright-line express advocacy test requiring explicit words advocat- 
+ing the election or defeat of a clearly identified candidate. The ban 
+is not narrowly tailored to a compelling interest. 
+
+
+The soft money bans in Title I are unconstitutional as to 
+political party committees, federal officials/candidates, and state 
+officials. Libertarian National Committee joins the political parties’ 
+brief on the first subject. The ban on soft money fundraising by 
+federal officials and candidates, such as Rep. Pence, for nonprofit 
+ideological corporations, such as Indiana Family Institute, unconsti- 
+tutionally burdens the rights of free expression and association 
+without being narrowly tailored to a compelling interest. The ban on 
+certain uses of soft money for state officials and candidates, such as 
+Alabama Attorney General William Pryor, unconstitutionally 
+burdens the rights of free expression and association, and hinders 
+the conduct of official duties, without being narrowly tailored to a 
+compelling interest. 
+
+BCRA’s requirement of advanced notice of electioneering 
+communications by treating contracts as communications unconstitu- 
+tionally burdens free expression without furthering any compelling 
+interest, as noted by the district court. 
+
+
+a age he 
+
+
+‘ 
+B: 
+: 
+: 
+» 
+4 
+p 
+f 
+: 
+7 
+Pe 
+= 
+‘. 
+Hi 
+? 
+
+
+3 
+
+
+The trial court erred in permitting Sen. McCain et al. to 
+intervene without individual Article III standing. 
+
+
+Argument‘ 
+
+
+I. The“Electioneering Communication” Ban Is Uncon- 
+stitutional. 
+
+
+_ The argument over BCRA’s electioneering communications 
+ban, JSA 21a, 24a (BCRA §§ 201, 203), is over two views of 
+issue advocacy. Defendants see issue advocacy as affecting 
+elections and insist it should be banned. Plaintiffs see issue advocacy 
+as essential to citizen participation in our democratic republic, 
+guaranteed by the First Amendment, and therefore protected from 
+abridgement — even if it affects elections.* 
+
+
+“Barrett O’ Brock joins the brief of plaintiffs Echols et al. opposing the 
+minors’ contributions ban. Libertarian National Committee joins the 
+political parties’ brief of Republican National Committee et al. In addition to 
+specific notes of adoption here and elsewhere, NRLC Plaintiffs generally 
+adopt all consistent briefing on their issues presented by other plaintiffs. 
+
+
+‘Issue advocacy involves a wide variety of communications, including 
+discussion of issues of public concern and potential legislation, grassroots 
+lobbying for the passage of particular legislation, and praise and criticism of 
+the actions of public official in office and the positions of candidates on 
+issues. However, the “ultimate goal is to affect what the government does, 
+and what Congress does by passing the types of issues [the group 
+supports].” JDT Deposition of David Keating 64. This differs from candidate 
+campaigns, whose “ultimate goal” is the election of a candidate. As a result, 
+issue advocacy occurs throughout the year, year after year, often timed to 
+coincide with potential legislative action. While issue advocacy is often 
+done around elections and can certainly influence an election, it is often not 
+done to influence the outcome of an election. “The media . . . the public . . . 
+and the general political actors are [often] more attuned,” JDT id. at 70, to 
+issues at that time and, if an issue is raised in a campaign, it needs to be 
+defended or “the media, the public, or other members of Congress [will] 
+conclude that’s a losing issue . . . for them politically [and] we'll never get 
+anything adopted.” JDT id at 74. Thus, issue advocacy by advocacy 
+groups has a fundamentally different purpose and effect than candidate 
+
+
+7 
+
+
+Judges Kollar-Kotelly and Leon used the first viewpoint, 
+upholding the ban. Judge Henderson followed Buckley v. Valeo, 
+424 U.S. 1 (1976), and FEC v. Massachusetts Citizens for Life, 
+479 U.S. 238 (1986) (MCFL), holding that the Constitution 
+mandates the second viewpoint and the ban should be stricken. 
+
+
+Judge Kollar-Kotelly argued that “Buckley and MCFL 
+... invoked the express advocacy test only as a means of statutory 
+construction,” SA 788sa, but acknowledged “the consensus among 
+the judiciary that courts are bound by Buckley and MCFL, which 
+strictly limit the meaning of ‘express advocacy.” SA 796sa 
+(quotation marks omitted). She dismissed this consensus, however, 
+saying those other cases lacked “textual analysis” and were rife with 
+“dicta.” SA 794-99sa. Judge Henderson provided a cogent 
+refutation. SA 345-384sa. 
+
+A. A textual analysis of Buckley and MCFL reveals that this 
+Court, in adopting the express advocacy test, was concerned about 
+protecting issue advocacy, not just vagueness. 
+
+1. The first provision Buckley considered, § 608(e)(1),° 
+imposed spending limits on independent expenditures and was 
+ultimately found unconstitutional. 424 U.S. at 51. Troubled by the 
+vagueness of capping expenditures “relative to aclearly identified 
+candidate,” the Court first construed “relative to” with the provi- 
+sion’s parallel phrase, “advocating the election or defeat of sucha 
+candidate.” But the resulting phrase, “advocating the election or 
+defeat of a clearly identified candidate,” only “refocuse[d]” the 
+
+
+vagueness problem in a way that “only” prefixing “explicit words,” 
+
+
+advertising. 
+
+Section 608(e)(1) provided: “No person may make any expenditure 
+relative to a clearly identified candidate during a calendar year which, when 
+added to all other expenditures by such person during the year advocating 
+the election or defeat of such candidate, exceeds $1,000.” (emphasis added) 
+
+
+5 
+
+
+id. at 42-44 (emphasis added), or “expressly” could fix. Id. at 80 
+(emphasis added).’ 
+
+What was the fatal defect this Court sought to avoid when it 
+said that “advocating” was too vague absent the“expressly” 
+modifier? The Court immediately answered this question: “[T]he 
+distinction between discussion of issues and candidates and 
+advocacy of election or defeat of candidates may often dissolve 
+in practical application.” Jd. at 42 (emphasis added). 
+
+So the dichotomy Buckley established in its primary discussion 
+of the express advocacy test was between (1) “discussion of issues 
+and candidates,” commonly known as issue advocacy, and (2) 
+“advocacy of election or defeat of candidates,” commonly known 
+as express advocacy. This distinction is necessary because 
+“[c]andidates, especially incumbents, are intimately tied to public 
+issues involving legislative issues and governmental actions. Not only 
+do candidates campaign on the basis of their positions on various 
+public issues, but campaigns themselves generate issues of public 
+interest.” /d. at 42. In other words, issue advocacy that includes 
+discussion of candidates and issues is essential to citizens’ participa- 
+tion in our representative democracy. 
+
+This Court then quoted approvingly the Court of Appeals’ 
+recognition that issue advocacy would influence elections: 
+
+
+“Public discussion of public issues which also are campaign 
+issues readily and often unavoidably draws in candidates and 
+their positions, their voting records and other official conduct. 
+Discussions of those issues, and as well more positive efforts to 
+
+
+’The express advocacy test is not a “magic words” test, i.e., so long as 
+the words used in Buckley’s footnote 52 are avoided, political speakers 
+avoid regulation. Jd. at 44 n.52. Footnote 52 creates an “express words of 
+advocacy test”: “This construction would restrict the application of 
+§ 608(e){1) to communications containing express words of advocacy of 
+election or defeat, such as ‘vote for,’ . . . .” Id. (emphasis added). 
+
+
+6 
+
+
+influence public opinion on them, tend naturally and inexorably 
+
+to exert some influence on voting at elections.” [/d. at 43 n.50 
+
+(citation omitted). ] 
+
+Issue advocacy, then, includes discussion of candidates and 
+their positions, records, and conduct; it goes beyond mere “discus- 
+sion” to “more positive efforts to influence public opinion on them.” 
+These constitutionally protected actions may “exert some influence 
+on voting at elections,” but they are protected nevertheless. 
+
+This Court went on in Buckley to flesh out the breadth of issue 
+advocacy with a quote from Thomas v. Collins, 323 U.S. 516, 
+535 (1945), indicating that express advocacy cannot depend on 
+intent or effect and that issue advocacy extends to “discussion, 
+laudation, [and] general advocacy,” so that only “solicitation” or 
+““nvitation” (i.e., “advocacy of election or defeat of candidates”) can 
+be regulable express advocacy: 
+
+[W]hether words intended and designed to fall short of invita- 
+
+tion [to vote for or against a candidate] would miss the mark is 
+
+a question both of intent and of effect. No speaker, in such 
+
+circumstances, safely could assume that anything he might say 
+
+upon the general subject would not be understood by some as 
+an invitation. . . . [T]he supposedly clear-cut distinction between 
+discussion, laudation, general advocacy, and solicitation 
+puts the speaker in these circumstances wholly at the mercy of 
+the varied understanding of his hearers and consequently of 
+whatever inference may be drawn as to his intent and meaning. 
+Such a distinction offers no security for free discussion. In 
+these conditions it blankets w:th uncertainty whatever may be 
+said. It compels the speaker to hedge and trim. [/d. at 43 
+(quotation marks and citation omitted) (emphasis added). } 
+So the “free discussion” that requires the “security” of this 
+Court’s express advocacy test is this broadly described issue 
+
+
+rest panama 
+
+
+4 6 Rh PRO § 
+
+
+cnet EIA ODL A LOLOL CAIN 
+
+
+7 
+
+
+advocacy. And the reason this Court was concerned with “vague- 
+ness” was not only that some language was ambiguous, but that the 
+language substantively regulated this “free discussion.” Thus, while 
+the Court spoke of vagueness in these passages, there was an 
+underlying overbreadth concern. The “[t]he constitutional deficien- 
+cies described in Thomas v. Collins [to be] avoided,” id. at 43, 
+were not fuzzy words, but the failure to protect “discussion, 
+laudation, [and] general advocacy” (i.e., issue advocacy) from the 
+regulation. “[A]void[ing]” these deficiencies meant avoiding the 
+abridgment of issue advocacy, not avoiding a decision on whether 
+there were any deficiencies, as Judge Kollar-Kotelly suggests. SA 
+789sa. Thus, “[s]o long as persons and groups eschew expenditures 
+that in express terms advocate the election or defeat of a clearly 
+identified candidate, they are free to spend as much as they want to 
+promote the candidate and his views.” Buckley, 424 U.S. at 45. 
+
+
+Further, since the express advocacy test was narrow and 
+citizens remained free “to promote [a] candidate and his views” 
+through issue advocacy, this Court fully recognized that it was 
+permitting communications that would affect an election: 
+
+
+It would naively underestimate the ingenuity and resourcefulness 
+of persons and groups desiring to buy influence to believe that 
+they would have much difficulty devising expenditures that 
+skirted the restriction on express advocacy of election or defeat 
+but nevertheless benefitted the candidate’s campaign. [/d.]* 
+
+
+But this Court was permitting such unfettered issue advocacy 
+because it is vital to our representative dem. -racy: 
+Discussion of public issues and debate on the qualifications of 
+candidates[, i.e., issue advocacy, ] are integral to the operation 
+
+
+"So studies purportedly showing that issue advertising affects elections 
+are irrelevant. Cf SA 353sa (Henderson). That effect was considered in 
+arriving at the express advocacy test and cannot be used to overturn it. 
+
+
+8 
+
+
+of the system of government established by our Constitution. 
+
+The First Amendment affords the broadest protection to such 
+
+political expression ... “to assure [the] unfettered inierchange of 
+
+ideas for the bringing about of political and social changes 
+desired by the people.” [/d. at 14 (citation omitted). ] 
+
+Thus, “‘there is practically universal agreement that a major 
+purpose of [the First] Amendment was to protect the free discus- 
+sion of governmental affairs . . . of course includ[ing] discussions of 
+candidates.” id (citation omitted) (emphasis added), including the 
+right of citizens to band together to engage in issue advocacy.’ 
+
+2. The second provision Buckley considered, § 434(e), 
+“require[d] direct disclosure of what an individual or group contrib- 
+utes or spends [over $100]” “for the purpose of. . . influencing’ the 
+nomination or election of candidates for federal office.” Buckley, 
+424 U.S. at 75 (citation omitted). The Court said that “the ambigu- 
+ity of this phrase . . . poses constitutional problems.” Jd. at 77. This 
+Court noted that the vagueness present was of the same sort 
+encountered in dealing with the independent expenditure cap: “[I]t 
+shares the same potential for encompassing both issue discussion 
+and advocacy ofa political result.” Jd. at 79. Therefore, the concern 
+about the “ambiguity” was over whether the provision was 
+overbroad for sweeping in protected issue advocacy — the same 
+
+
+°Buckley recognized the constitutional right of people to associate in 
+ideological corporations for issue advocacy: 
+
+The constitutional right of association . . . stemmed from the Court’s 
+recognition that effective advocacy of both public and private points 
+of view, particularly controversial ones, is undeniably enhanced by 
+group association. Subsequent decisions have made clear that the First 
+and Fourteenth Amendments guarantee freedom to associate with 
+others for the common advancement of political beliefs and ideas, a 
+freedom that encompasses the right to associate with the political party 
+of one’s choice. [/d (internal quotation indicators and citations 
+omitted).] 
+
+
+one ys ey) ey Rs Ol ase 
+
+
+‘ 
+i 
+" 
+y 
+
+
+9 
+
+
+concern this Court had just addressed with respect to § 608(e)(1). 
+As with the prior provision, this Court addressed the overbreath 
+concern by applying the express advocacy test: 
+
+
+To insure that the reach of § 434(e) is not impermissibly 
+broad, we construe ‘expenditure’ for purposes of that section 
+in the same way we construed the terms of § 608(e)(1) —to 
+reach only funds used for communications that expressly 
+advocate the election or defeat of a clearly identified candi- 
+date.” [Jd. at 80 (emphasis added).]'° 
+
+
+MCFL removes any doubt that this Court’s “vagueness” 
+concerns in Buckley were focused on protecting issue advocacy 
+from overbroad legislation. MCFL said that the express advocacy 
+test was imposed on the FECA “expenditure” definition “to avoid 
+problems of overbreadth.” 479 U.S. at 248 (citing Buckley, 424 
+U.S. at 80). The dichotomy affirmed in MCFL was between 
+“discussion of issues and candidates and advocacy of election 
+or defeat of candidates,” which it established in its introduction of 
+the express advocacy test. Jd. at 249 (quoting Buckley, 424 U.S. 
+at 42) (emphasis added). Removing all doubt, the MCFL Court 
+reiterated the dichotomy in other terms with identical meaning: 
+
+
+‘That this Court’s intent was to protect issue advocacy here is further 
+borne out by its plain statement that issue advocacy is not mere discussion: 
+“As narrowed, § 434(e), like § 608(e)(1), does not reach all partisan 
+discussion for it only requires disclosure of those expenditures that 
+expressly advocate a particular election result.” Buckley, 424. U.S. at 80 
+(emphasis added). This last phrase, “advocate a particular election result” 
+refers solely to that which may be constitutionally regulated under § 
+608(e)(1), which this Court had just said are expenditures “for communica- 
+tions that expressly advocate the election or defeat of a clearly identified 
+candidate.” Consequently “advocate a particular election result” can only 
+mean “expressly advocate the election or defeat of a clearly identified 
+candidate.” Judge Kollar-Kotelly’s effort to draw a false dichotomy between 
+“issue discussion and advocacy of a political result” must therefore be 
+rejected. SA 792-93sa. 
+
+
+10 
+
+
+“Buckley adopted the ‘express advocacy’ test to distinguish 
+discussion of issues and candidates from more pointed exhortations 
+to vote for particular persons.” Jd. MCFL reiterated that the 
+express advocacy test required express words of advocacy, such 
+as those in Buckley’ s footnote 52, which should remove all doubt 
+that some other “express advocacy” test can be substituted." 
+
+
+In sum, careful textual analysis of Buckley and MCFL reveals 
+that this Court established the constitutionally-mandated principle 
+that wherever legislation or regulation borders on issue advocacy — 
+whether it is § 608(e)(1), § 434(e), or § 441b — issue advocacy 
+must remain unfettered and protected by a bright-line test that 
+requires explicit words expressly advocating the election or defeat 
+of a clearly identified candidate. 
+
+
+Thus, Judge Kollar-Kotelly unsurprisingly discovered a 
+“consensus among the judiciary that courts are bound by Buckley 
+and MCFL, which strictly limit the meaning of express advocacy.” 
+SA 796sa (internal quotation marks omitted).'* And perhaps the 
+
+
+'\M{CFL’s discussion of the express advocacy in MCFL’s newsletter 
+does not expand the reach of the express advocacy test. The newsletter 
+identified pro-life candidates and urged the reader to “vote pro-life.” This 
+Court said this “provides in effect an explicit directive” and the slightly less 
+direct exhortation “does not change its essential nature.” Id. at 249 
+(emphases added). But this does not establish a test looking to the “effect” 
+or “essence” of a communication, only that if A=B and B=C, then A=C. 
+
+
+'2L ower federal court cases recognizing constitutional protection for 
+unfettered issue advocacy and the constitutional mandate for the express 
+advocacy test include: Me. Right To Life Comm. v. FEC, 98 F.3d 1 (ist Cir. 
+1996); Faucher v. FEC, 928 F.2d 468 (1st Cir. 1991); Vt. Right to Life Comm. 
+v. Sorrell, 221 F.3d 376 (2d Cir. 2000); FEC v. Cent. Long Island Tax Reform 
+Immediately Comm., 616 F.2d 45 (2d Cir. 1980); Virginia Society for Human 
+Life v. FEC, 263 F.3d 379 (4th Cir. 2001) (VSHL I); Perry v. Bartlett, 231 F.3d 
+155 (4th Cir. 2000); N.C. Right To Life, Inc. v. Bartlett, 168 F.3d 705 (4th Cir. 
+1999); Va. Soc’y For Human Life v. Caldwell, 152 F.3d 268 (4th Cir. 1998); 
+FEC v. Christian Action Network, 92 F.3d 1178 (4th Cir. 1996) (CAN J); FEC 
+
+
+wee 
+
+
+11 
+
+
+v. Christian Action Network, Inc., 110 F.3d 1049 (4th Cir. 1997) (CAN I); 
+Chamber of Commerce v. Moore, 288 F.3d 187 (5th Cir. 2002); Brownsburg 
+Area Patrons Affecting Change v. Baldwin, 137 F.3d 503 (7th Cir. 1998); 
+Iowa Right to Life Comm. v. Williams, 187 F.3d 963 (8th Cir. 1999); Califor- 
+nia Pro-Life Council v. Getman, 328 F.3d 1088 (9th Cir. 2003); FEC v. 
+Furgatch, 807 F.2d 857 (9th Cir. 1987); Citizens for Responsible Gov't State 
+Political Action Comm. v. Davidson, 236 F.3d 1174 (10th Cir. 2000); Fla. 
+Right to Life v. Lamar, 238 F.3d 1288 (11th Cir. 2001) (affirming Fla. Right to 
+Life v. Mortham, No. 98-770CIVORLI9A, 1999 WL 33204523 (M.D. Fla. 
+1999)). FEC v. Colo. Republican Fed. Campaign Comm., 839 F. Supp. 1448 
+(D. Colo. 1993), rev'd, 59 F.3d 1015 (10th Cir. 1995), vacated and remanded 
+on other grounds, 518 U.S. 604 (1996); FEC v. Christian Coalition, 52 F. 
+Supp. 2d 45 (D.D.C. 1999); FEC v. NOW, 713 F. Supp. 428 (D.D.C. 1989); FEC 
+v. AFSCME, 471 F. Supp. 315 (D.D.C. 1979); Kansans for Life, Inc. v. Gaede, 
+38 F. Supp. 2d 928 (D. Kan. 1999); Clifton v. FEC, 927 F. Supp. 493 (D. Me. 
+1996), aff'd on other grounds, 114 F.3d 1309 (lst Cir. 1997); Planned 
+Parenthood Affiliates of Mich. v. Miller, 21 F. Supp. 2d 740 (E.D. Mich. 
+1998); Right to Life of Mich., Inc. v. Miller, 23 F. Supp. 2d 766 (W.D. Mich 
+1998); N.C. Right to Life, Inc. v. Leake, 108 F. Supp. 2d 498 (E.D.N.C. 2000); 
+Right To Life of Dutchess County, Inc. v. FEC, 6 F. Supp. 2d 248 (S.D.N.Y. 
+1998); FEC v. Survival Educ. Fund, No. 98 Civ. 0347, 1994 WL 9658, 
+(S.D.N.Y. Jan. 12, 1994), aff'd in part and rev'd in part on other grounds, 65 
+F.3d 285 (2d Cir. 1995); Oklahomans for Life v. Luton, No. CIV-00-1163, slip. 
+op. (W.D. Okla. May 25, 2001); West Virginians For Life, Inc. v. Smith, 919 
+F. Supp. 954 (S.D. W. Va. 1996). But cf. Wisconsin Realtors Ass'n v. Ponto, 
+233 F. Supp. 2d 1078 (W.D. Wis. 2002); Nat'l Fed’n of Republican Assem- 
+blies v. United States, 218 F. Supp. 2d 1300 (S.D. Ala. 2002). 
+
+State cases recognizing constitutional protection of unfettered issue 
+advocacy include: Jn Re Texas Association of Business, (no number) (167th 
+Judicial Dist. Ct. of Travis County, Texas) slip. op. at 1-4 (order denying 
+motion to quash grand jury subpoenas and protective order), appeal 
+docketed, No. 56,045-01, (Tex. Crim. 2003) (Cf Aides Shielded From Grand 
+Jury Probe, U.S. Chamber Tells Texas Criminal Court, Money & Politics 
+Report, June 26, 2003); Governor Gray Davis Committee v. American 
+Taxpayers Alliance, 125 Cal. Rptr. 2d 534 (2002); Osterberg v. Peca, 12 
+S.W.3d 31 (Tex. 2000); Wash. State Republican Party v. Wash. State Public 
+Disclosure Comm'n, 4 P.3d 808 (Wash. 2000); Alaska v. Alaska Civil 
+Liberties Union, 978 P.2d 597 (Alaska 1999); Brownsburg Area Patrons 
+Affecting Change v. Baldwin, 714 N.E. 2d 135 (Ind. 1999); Elections Bd. v. 
+
+
+12 
+
+
+textual analysis she found lacking in the myriad federal and state, 
+trial and appellate, decisions was missing because courts seeking to 
+follow this Court’s holdings, not avoid them, found that simply 
+reading Buckley and MCFL readily reveals that the Constitution 
+and the needs of the republic mandate the express advocacy test to 
+protect unfettered issue advocacy —as does the textual analysis here 
+provided. 
+
+
+B. “Dicta,” is the another means by which Judge Kollar- 
+Kotelly sought to dismiss the acknowledged “consensus” of other 
+courts, along with attempting to distinguish some cases. SA 796- 
+99sa. One response to the alleged “dicta” in other federal courts is 
+that it doesn’t matter because the careful textual analysis set out 
+above establishes what this Court said, and that holding governs. 
+Another response notes the irony of Judge Kollar-Kotelly rejecting 
+as “dicta” the judicial “consensus” while relying on two trial court 
+opinions where discussion of the express advocacy test was so 
+obviously obiter dictum." 
+
+However, all federal appellate courts addressing the issue have 
+concluded that Buckley established express advocacy as the 
+constitutional standard for regulable political speech. “These courts 
+rely primarily on Buckley’s emphasis on (1) the need for a 
+bright-line rule demarcating the government’s authority to regulate 
+speech and (2) the need to ensure that regulation does not impinge 
+
+
+Wisconsin Mfr. & Commerce, 597 N.W.2d 721 (Wisc. 1999); Klepper v. 
+Christian Coalition, 259 A.D.2d 926 (N.Y. App. Div. 1999); Doe v. Mortham, 
+708 So. 2d 929 (Fla. 1998); Va. Soc’y for Human Life v. Caldwell, 500 S.E.2d 
+814 (Va. 1998); Conn. v. Proto, 526 A.2d 1297 (Conn. 1987). 
+
+
+'3 Wisconsin Realtors Ass'n, 233 F.Supp.2d at 1085 (questioning in obiter 
+dictum whether the express advocacy test is “the definitive test” but noting 
+that issue advocacy is plainly protected from regulators); Nat'l Fed'n of 
+Republican Assemblies, 218 F. Supp. 2d at 1325 (questioning in obiter dictum 
+whether the express advocacy test is constitutionally mandated). 
+
+
+_ _ = Sey Mee s 
+
+
+“ 
+
+
+aT GND Mee BF LY 
+
+
+13 
+
+
+on protected issue advocacy.” Chamber of Commerce, 288 F.3d 
+at 193. See, e.g. VSHL II, 263 F.3d at 391-92 (“shift[ing] the focus 
+of the express advocacy determination away from the words 
+themselves to the overall impressions of the hypothetical, reasonable 
+listener or viewer ... is precisely what Buckley warned against 
+and prohibited”); Citizens for Responsible Gov't, 236 F.3d at 
+1187, 1193-95 (statutes unconstitutional that cannot be construed 
+to apply “only to expenditures for communications that contain 
+explicit words advocating the election or defeat of a clearly 
+identified candidate”); Vermont Right to Life Comm., 221 F.3d 
+at 386 (finding parties “in essential agreement that the disclosure 
+provisions . . . and reporting provisions . . . are necessarily 
+unconstitutional unless they apply only to [communications] ‘that 
+expressly advocate the election or defeat of a clearly identified 
+candidate.”” (emphasis added) (quoting Buckley, 424 U.S. at 80)); 
+Iowa Right to Life Comm. , 187 F.3d at 969-70 (“communication 
+must contain express language of advocacy with an exhortation to 
+elect or defeat a candidate,” and “[t]he Supreme Court has made 
+clear that a ‘finding of “express advocacy”’depend[s] upon the use 
+of language such as ‘vote for,’ ‘elect,’ “support,” etc.”) (quoting 
+MCFL, 479 U.S. at 249 (quoting Buckley, 424 U.S. at 44, n. 
+52))); Brownsburg Area Patrons Affecting Change, 137 F.3d at 
+506 (“[Buckley] recognized the important First Amendment interest 
+in protecting political speech, including discussions surrounding 
+elections and candidates.... Because of the vital importance of 
+protecting such speech, the Buckley Court articulated what has 
+come to be known as the ‘express advocacy’ test ....”); Faucher, 
+928 F.2d at 470 (“The Supreme Court, recognizing that such broad 
+language . . . creates the potential for first amendment violations, 
+sought to avoid future conflict by explicitly limiting the statute’s 
+prohibition to “express advocacy.”). 
+
+
+14 
+
+
+Even the Ninth Circuit in Furgatch, 807 F.2d at 857, recog- 
+nized the binding nature of the express advocacy test, although in 
+dicta it discussed the test in ways that seemed broader than the 
+Supreme Court’s articulation of the test.'* Moreover, the Ninth 
+Circuit has just affirmed that it fully embraces the Buckley formula- 
+tion, by declaring that “a close reading of Furgatch indicates that 
+we presumed express advocacy must contain some explicit words 
+of advocacy.” California Pro-Life Council, 328 F.3d at 1097 
+(emphasis in original). This ruling eliminates any arguable federal 
+circuit court support for dividing issue advocacy from express 
+advocacy with a contextual approach, as do both of the BCRA 
+“electioneering communication” definitions.'* 
+
+The variety of laws, regulations, and fact patterns in which the 
+express advocacy test has been applied demonstrates, not an 
+opportunity for distinguishing, but rather the broad principle that in 
+whatever situation government attempts to restrict speech on the 
+border of issue advocacy, it must employ this Court’s express 
+advocacy test to avoid abridging free expression and association."® 
+
+
+Cf. CAN II, 110 F.3d at 1054 (Furgatch’s holding is: “where political 
+communications . . . include an explicit directive to voters to take some 
+[unclear] course of action, . . . ‘context’ . .. may be considered in determining 
+whether the action urged is the election or defeat of a. . . candidate... .” 
+
+
+‘Ironically, Judge Kollar-Kotelly repudiated Furgatch, the only opinion 
+that formerly gave some support to the two contextual definitions of 
+“electioneering communication” in BCRA. 795sa. 
+
+
+'®Judge Kollar-Kotelly attempted to distinguish all the cases striking 
+down FEC regulations on the basis of one quote from VSHL II, 263 F.3d at 
+392, which declared “that courts ‘are bound by Buckley and MCFL, which 
+strictly limit the meaning of ‘express advocacy.’ If change is to come, it must 
+come from an imaginative Congress or from further review by the Supreme 
+Court.’” 796sa (quoting VSHL II, supra) (emphasis in opinion). 
+
+But the Fourth Circuit’s statement was made in direct response to the 
+FEC’s claim that “‘if the express advocacy requirement is read too narrowly, 
+the prohibitions of 2 U.S.C. [§ ] 441b will require little more than careful 
+
+
+15 
+
+
+The more distinctions that are noted, the broader this principle 
+
+
+grows. 
+
+C. Stare decisis requires this Court to follow its holdings in 
+Buckley and MCFL that whenever government regulates on the 
+border of issue advocacy it must protect issue advocacy from 
+abridgment by employing the express advocacy test. 
+
+Neither holding has been “undermined by subsequent changes 
+or development in the law.” Patterson v. McLean Credit Union, 
+491 U.S. 164, 173 (1989) (citations omitted). To the contrary, the 
+express advocacy test has been woven into the web of cases that 
+form the judicial “consensus” that Judge Kollar-Kotelly conceded. 
+SA 796sa.'’ As noted, even the Ninth Circuit on May 8, 2003, 
+noted the array of opinions criticizing its seeming failure to fully 
+embrace this Court’s express advocacy test and affirmed that it 
+indeed utilizes the “explicit words of advocacy” test, just as 
+everyone else. California Pro-Life Council, 328 F.3d at 1097 
+
+
+diction and will do almost nothing to prevent millions of dollars from the 
+general treasuries of unions and corporations from directly influencing 
+federal elections, and from doing so without disclosing to the public the 
+source of the influence.” VSHL II, 263 F.3d at 392 (citation omitted). This is 
+the same argument the FEC and other Defendants now make, but the Fourth 
+Circuit rejected it by asserting that Buckley and MCFL are binding 
+substantive law. That rejection does not support Judge Kollar-Kotelly’s 
+effort to distinguish th’s line of cases as being about agency authority 
+instead of constitutional mandate. 
+
+"Furthermére, Congress has embraced the express advocacy test, 2 
+U.S.C. § 431(17) (“independent expenditure” definition), as have many states 
+through their statutes. See, e.g., Alaska Stat. §§ 15.13.400(6)(C)(4) and 
+(6(C)(7) (2003); Cal. Gov’t Code § 82031 (2003); Del. Code Ann. tit.15, 
+§ 8002(10) (2002); Idaho Code § 67-6602(g) (2003); Iowa Code § 56.2(14) 
+(2003); Kan. Stat. Ann. §§ 25-4143(g)(1)(B) and (h) (2002); Ky. Rev. Stat. 
+Ann. § 121.015(12) (2002); Minn. Stat. § 10A.01(18) (2002); Miss. Code Ann. 
+§ 23-15-801(j) (2003); Nev. Rev. Stat. 294A.004 (2003); N.H. Rev. Stat. Ann. 
+§ 664:2(XT) (2002); Wis. Stat. § 11.01(16) (2002). 
+
+
+16 
+
+
+(emphasis in original).'* As this Court said of the abortion right in 
+Planned Parenthood of S.E. Penn. v. Casey, 505 U.S. 833 
+(1992), this Court’s express advocacy test has been relied upon 
+and woven into the fabric of American law and the lives of numer- 
+ous citizen groups. 
+
+The express advocacy tes: x's not proven to be a “positive 
+detriment[s] to coherence and cunsistency in the law” because its 
+“conceptual underpinnings” have been weakened or because “later 
+law has rendered it irreconcilable with competing legal doctrines or 
+policies.” Patterson, 491 U.S. at 173 (citations omitted). Rather, 
+the courts have consistently followed this Court’s holdings, creating 
+a judicial “consensus” around the express advocacy test. 
+
+
+'SUnfettered issue advocacy enjoys international support, which this 
+Court found weighty in In Lawrence v. Garner, 539 U.S. ___, 2003 WL 
+21467086 (2003) (reversing Bowers v. Hardwick, 478 U.S. 186 (1986) (citing 
+a 1981 European Court of Human Rights decision). The same court cited in 
+Lawrence also decided in Bowman v. United Kingdom, 26 Eur. Ct. H.R.1, 
+q 48 (1986), that a London woman could not be charged with a campaign law 
+violation for distributing 1.5 million copies of a voter guide telling voters 
+where candidates stood on abortion (without expressly advocating anyone’s 
+election), even though it was a “single issue” guide that was assumed to be 
+“distributed with a view to promoting the election of the candidate with the 
+stand on abortion most acceptable to the [plaintiff]” and “might in fact have 
+the tendency to influence certain voters in different directions,” id. ¢ 46, 
+because “freedom of expression constitutes one of the essential foundations 
+of a democratic society, id. 45, and the government had failed to prove that 
+such “‘single issue’ campaigning . .. would distract voters from the political 
+platforms which are the basis of national party campaigns to such a degree 
+as would hinder the electoral process,” i.e., “‘distort’ election results.” /d. 
+4 47. See also Harper v. Canada, 2002 ABCA 301 (2002) (declaring that a 
+“polling day blackout” on “election advertising” is unconstitutional and 
+striking “election advertising” definition, i.e., “tak[ing] a position on an issue 
+with which a registered party or candidate is associated,” id. 181, under the 
+“minimal impairment” test because the definition “encroach[es] upon the 
+freedom of expression of those who seek to voice public concerns which are 
+inconsequential to partisan advocacy,” id. ¥ 184). 
+
+
+17 
+
+
+Nor has the express advocacy test or its reasoning become 
+“outdated after being ‘tested by experience” or “found to be 
+inconsistent with the sense of justice or with the social welfare.” Jd 
+(citations omitted). As already noted, this Court foresaw that issue 
+advocacy would affect elections, which is the subject of Defen- 
+dants’ studies, and already considered that fact in endorsing the 
+express advocacy test, which it created to give issue advocacy 
+necessary breathing room. This makes Defendants’ studies 
+irrelevant. And a “sense of justice” and the “social welfare” require 
+that the very essence of our system of participatory government not 
+be destroyed by incumbent politicians seeking to silence the 
+amplified voice of the people about these politicians and their 
+actions in office. 
+
+
+Stare decisis is “a cornerstone of our legal system,” Webster v. 
+Reproductive Health Services, 492 U.S. 490, 518 (1989), that 
+promotes “the evenhanded, predictable, and consistent develop- 
+ment of legal principles, reliance on judicial decisions, and the actual 
+and perceived integrity of the judicial process,” and it strongly 
+counsels against reconsidering precedent. Seminole Tribe of Fla. 
+v. Florida, 517 U.S. 44, 63 (1996) (quoting Payne v. Tennessee, 
+501 U.S. 808, 827 (1991)) (ellipses omitted). 
+
+Even in constitutional cases, stare decisis “carries such persua- 
+sive force” that this Court always requires “special justification” to 
+depart from precedent. Dickerson v. United States, 530 U.S. 
+428, 443 (2000) (quoting United States v. International Business 
+Machines Corp., 517 U.S. 843, 856 (1996)). There is no “special 
+justification” for overruling the express advocacy test of Buckley 
+and MCFL. Buckley and MCFL were not “a solitary departure 
+from established law,” Seminole Tribe, 517 U.S. at 66; rather, they 
+were a logical extension of established law. The express advocacy 
+test has proven to be a workable and well-reasoned decision, 
+Payne, 501 U.S. at 828-30, and created no confusion in the lower 
+
+
+18 
+
+
+courts, except perhaps the court below. For those intent on 
+following this Court’s mandates about the dictates of the First 
+Amendment and the needs of the republic, the express advocacy 
+test is a bright line without confusion, and it has fulfilled its purpose 
+— protecting issue advocacy from regulation. It should be retained, 
+as the overwhelming number of federal and state courts have done 
+in weaving a judicial “consensus.” 
+
+D. The primary “electioneering communication” definition 
+is therefore unconstitutional for flouting this Court’s express 
+advocacy test.'? The primary “electioneering communication” 
+definition provides for a 30/60-day blackout period when corpora- 
+tions and labor unions may not use general funds to broadcast 
+communications that simply name a federal candidate. § 201(a)(i). 
+Only Judge Kollar-Kotelly considered this constitutional. SA 12sa. 
+Similar “name or likeness” provisions have been struck down by 
+federal courts. See, e.g., Perry v. Bartlett, 231 F.3d 155, 159 (4th 
+Cir. 2000); Vermont Right to Life Committee v. Sorrell, 221 
+F.3d 376, 389-90 (2d Cir. 2000); Right To Life of Michigan, Inc. 
+v. Miller, 23 F. Supp. 2d 766 (W.D. Mich. 1998); Planned 
+Parenthood Affiliates of Michigan, Inc. v. Miller,21 F. Supp. 2d 
+740 (E.D. Mich. 1998). These federal courts have consistently 
+pointed to this Court’s express advocacy test as controlling 
+
+The primary “electioneering communication” definition is also 
+not narrowly tailored to a compelling interest. While this Court held 
+that there is acompelling interest that permits regulating express 
+
+
+"Judge Henderson rightly noted that “refers to” in the primary 
+“electioneering communication” definition is also vague, SA 359sa, as 
+Plaintiffs complained. Docket # 63 (McConnell Plaintiffs’ Second Amended 
+Complaint ¢ 50). Judge Kollar-Kotelly’s defended “refer” by asserting that, 
+while “refer” can mean “relate,” “relate” can be defined as making “clear and 
+specific mention.” SA 802sa n.116. But the district court failed to so construe 
+
+
+the primary definition, leaving it vague. 
+
+
+19 
+
+
+advocacy, it found no such interest for issue advocacy. See 
+Buckley, 424 U.S. at 80. But the 30/60-day definition suppresses 
+both issue advocacy and express advocacy within the gag periods, 
+thereby failing both the compelling interest and narrow tailoring 
+prongs of strict scrutiny. *° 
+
+Judge Kollar-Kotelly tries to justify the ban”! by claiming (1) 
+that corporations and unions are actually doing issue advocacy 
+(which this Court said the First Amendment and our system of 
+government guaranteed that they could do), (2) that, when politi- 
+cians are grateful for issue advocacy they find beneficial, this 
+creates an appearance of corruption that must be stopped, and (3) 
+that many of the issue ads that this Court said were protected by the 
+First Amendment and our system of participatory government are 
+run near elections. SA 804-23sa. 
+
+
+2Government may not suppress lawful speech as the means to 
+suppress unlawful speech.” Ashcroft v. Free Speech Coalition, 535 U.S. 234, 
+122 S. Ct. 1389, 1404 (2002). 
+
+
+214s Judge Henderson rightly notes, SA 347sa n.142, this Court’s 
+decision in MCFL rejects the argument that the restriction on use of general 
+funds is not truly a “ban” because it allows for advocacy with a segregated 
+fund by noting that such a prohibition is a “substantial” restriction. 479 U.S. 
+at 252. In any event, it is a total “ban” on the use of general funds, which are 
+much easier for nonprofit ideological corporations to acquire than general 
+funds. SA 347sa n.142, noting unrebutted evidence of the burden the PAC 
+limitation would place on nonprofit organizations because of the inability to 
+raise funds commensurate with the support of their members for the 
+organizations’ advocacy. Nor is this fact altered by this Court’s decision in 
+FEC v. Beaumont, 123 S. Ct. 2200 (2003), which dealt with the unique issue 
+of corporate contributions, not expenditures. Beaumont expressed concern 
+about “war chests” and “conduits,”neither of which is applicable to 
+expenditures (because independent expenditures are unlimited and do not 
+flow to candidates), leaving only quid pro quo concerns, which do not apply 
+to independent expenditures. Buckley, 424 U.S. at 47. 
+
+
+20 
+
+
+As to her first and third major points, since the textual analysis 
+above establishes that corporations and labor unions are constitu- 
+tionally entitled to discuss candidates and issues in ways that may 
+affect elections, there can be no compelling interest in stopping them 
+from doing a lot of it at election time, when people are especially 
+attuned to things political and public issues (from which most 
+promptly tune out immediately after the elections). SA 236sa 
+(Henderson’s alternative finding of fact, quoting RNC political 
+operations director Terry Nelson and finding that “issue advocacy 
+is not as effective in August of an election year as it is in October or 
+early November”). 
+
+
+. Finally, Judge Kollar-Kotelly believes there is a compelling 
+interest in regulating issue advocacy that might “earn the candidate’ 
+gratitude” because it might create the appearance of corruption. SA 
+854sa. Judge Leon agrees. SA 1135sa. However, gratitude is a 
+natural and salutary human reaction to support or praise, and 
+officials without gratitude to supporters has traditionally been 
+considered to have a character flaw. Candidates are grateful for all 
+forms of help or support, not just praise through issue advocacy. 
+Gratitude is inherent in our system of representative government, so 
+that the only way to eliminate the gratitude a politician ought to feel 
+‘toward her supporters is to eliminate democracy itself.2? And if 
+
+
+*The Framers already thought of “gratitude,” and it cuts the wrong way 
+for Defendants. A Federalist paper dealt with the charge that Members of 
+Congress would “be most likely to aim at the ambitious sacrifice of the many 
+to the aggrandizement of the few.” The Federalist No. 57 (Alexander 
+Hamilton or James Madison) . But the author specifically listed “gratitude” 
+as one of the reasons this would not happen. “[W]hat is to restrain the 
+House of Representatives from making legal discriminations in favor of 
+themselves and a particular class of the society? . . . Duty, gratitude, 
+interest, ambition itself, are the chords by which they will be bound to 
+fidelity and sympathy with the great mass of the people.” Jd. (emphasis 
+added). Thus, gratitude to the “great mass of the people,” who support and 
+
+
+21 
+
+
+“gratitude” creates the appearance of corruption, Congress itself 
+must be corrupt, because “logrolling” is a way of life. 
+
+The lower court believed this “gratitude” for issue advocacy 
+would translate into “access,” which it claims is inherently corrupt . 
+See, e.g., SA 1135sa (Leon). But if that were true, then lobbying 
+would be inherently corrupting unless officials provide equal time for 
+all views. And the standard political practice of charging for 
+fundraising events, where one meets a candidate or public official, 
+would also be viewed as inherently corrupting.” So the key is not 
+whether politicians are grateful to supporters and therefore willing 
+to meet and talk with them, but whether politicians would only meet 
+with people after extracting campaign support. Candidates and 
+public officials do the opposite, holding town hall meetings, visiting 
+coffee shops, and meeting all the constituents possible, regardless 
+of such support. 
+
+And people get to meet with candidates and public officials for 
+many reasons. Celebrities from entertainment and sports, reporters 
+and editorial boards of prominent newspapers, and influential 
+community leaders can influence elections and get special access to 
+elected officials as a result. What about campaign volunteers, 
+
+
+put them in office, provides the natural checks and balances and is already 
+built into “the genius of the whole system.” /d. 
+31n FEC v. Colorado Republican Federal Campaign Committee, 41 
+F. Supp. 2d 1197 (D. Col. 1999), the court noted that the “FEC highlights the 
+various party-donor programs and the benefits and access to Members of 
+Congress which a contributor gains by giving at various levels,” id. at 1203, 
+but noted that precedent did not support a claim that this is corruption: 
+Buckley . . . recognized that money, in many cases, may grant access to 
+a candidate. It did not, however, conclude that such access is akin to 
+corruption or the appearance of corruption. The FEC seeks to broaden 
+the definition of corruption to the point that it intersects with the very 
+framework of representative government. Corruption cannot be defined 
+so broadly.”[/d. at 1209.] 
+
+
+22 
+
+
+political consultants and fundraisers for a campaign? They influence 
+elections and get access to the candidate. If access itself is evil when 
+granted to supporters by grateful politicians, then BCRA is uncon- 
+stitutionally underinclusive, vitiating any asserted interest in prevent- 
+ing corruption. Republican Party of Minnesota v. White, 536 
+U.S. 765 (2002) (judicial candidate rules underinclusive). 
+
+. E. The backup “electioneering communication” definition 
+is unconstitutional — both as truncated by the district court at Judge 
+Leon’s insistence and as drafted, because it also violates this 
+Court’s express advocacy test — is vague, and it is not narrowly 
+tailored to a compelling interest. Further Judge Leon’s truncation 
+definition is beyond judicial construction authority. 
+
+In a splintered decision, the district court decided that 
+“electioneering communication’ means any broadcast, cable, or 
+satellite communication which promotes or supports a candidate 
+... Or attacks or opposes a candidate for that office (regardless of 
+whether the communication expressly advocates a vote for or 
+against a candidate).” § 201(f)(3)(A)(ii).”4 
+
+By amputating the last clause, the court made a vague definition 
+vaguer, a broad definition broader. The last clause — ‘and which 
+also is suggestive of no plausible meaning other than an exhortation 
+to vote for or against a specific candidate” — surely had the 
+vagueness problems that Judge Leon identified. But it at least 
+required that any “attacking or promoting” of candidates have 
+something to do with elections, i.e., “an exhortation to vote” for or 
+
+
+“The district court entered judgment “for Defendants with regard to 
+[Section 203’s] applicability to the backup definition of “electioneering 
+communication” as defined in Section 201 of BCRA, in accordance with 
+Judge Leon’s Memorandum Opinion.” SA 1382sa (Final Judgment); see also 
+SA 12sa (Per Curiam). Judge Leon upheld the constitutionality of the 
+definition of “electioneering communication” only without the final clause, 
+which he held to be unconstitutionally vague. SA 1165-66sa. 
+
+
+ee ™ 
+
+
+23 
+
+
+against a candidate. However, amputating this qualifier leaves the 
+definition with no language requiring that the candidate be “clearly 
+identified” and with no language focusing the communication on 
+voting in elections. The result is that a broadcast communication is 
+banned by corporations or labor unions only if it attacks or 
+promotes someone who happens to be “a candidate” (whether or 
+not known to be so), and has nothing necessarily to do with any 
+exhortation, voting, or even an election. This is confirmed by the 
+parenthetical material of the definition, which proclaims that 
+“promotes or supports” or “attacks or opposes” are not compassed 
+by the limitations of either express advocacy or voting , i.e., 
+“(regardless of whether the communication expressly advocates a 
+vote for or against a candidate).” 
+
+As aresult, the truncated backup definition is entirely governed 
+by four unqualified, undefined verbs: promote, support, attack, 
+and oppose. Dictionary definitions reveal the breathtaking scope of 
+what is prohibited, as well as the vagueness inherent in choosing 
+among possible meanings. 
+
+
+Judge Leon declared that the phrase he excised “depends on a 
+number of variables such as the context of the campaign, the issues 
+that are the centerpiece of the campaign, the timing of the ad, and 
+the issues with which the candidates are identified.” SA 1164sa. 
+The remaining four verbs depend on similar contextual, subjective 
+vagaries for determination, but they have the further problem of 
+having nothing to do with any election, election campaign, or 
+exhortation to vote. The truncated backup definition speaks not of 
+supporting or opposing a candidate’s election, but only of support- 
+ing or opposing a candidate. Judge Leon declared that truncating 
+the definition “assures that there will be no. . . effect on political 
+discourse unrelated to federal elections,” SA 1165sa (emphasis in 
+original), but his truncated definition leaves nothing to relate the 
+communication to any federal elections. 
+
+
+24 
+
+
+Judge Leon’s view is that communicators only need to stick to 
+“neutral” statements to avoid opposing or supporting a candidate. 
+SA 1163sa. But what is “neutral” is subjective, too. Some would 
+consider simply labeling a legislator (and a candidate) as “pro-life” 
+or “pro-choice” to be supporting or opposing the candidate. Others 
+would declare that supporting or opposing a human cloning bill 
+amounts to supporting or opposing the candidate. To solve just such 
+problems and to keep speakers from having to “hedge and trim,” 
+this Court created the “express advocacy” test as the “only” way to 
+eliminate overbreadth and vagueness when legislating on the border 
+of issue advocacy, infra, which the “electioneering communication” 
+definition specifically disclaims. 
+
+Judge Leon also suggested that communicators could simply 
+never use a candidate’s name or they could get an FEC advisory 
+opinion before communicating. SA 1166sa. This means that a 
+citizen group could never broadcast a communication encouraging 
+citizens to call Senator X to vote for or against a bill. The FEC 
+could never issue advisory opinions fast enough to keep up with the 
+fast-breaking, changing need for broadcasting grassroots lobbying 
+
+communications during an active legislative session.” Such limita- 
+tions impose enormous burdens on core political speech without 
+constitutional warrant.”° 
+
+
+**Similarly, Judge Leon’s use of the AFL-CIO advertisement entitled “No 
+Two Way” as an example of a communication that is not “neutral” because 
+it “attacks [a legislator’s] position on the federal budget,” reveals the 
+incredible breadth of the concept of oppose/attack in the truncated backup 
+definition. SA 1163sa. 
+
+
+**The statutory truncation was beyond the district court’s authority. 
+Don Simon of Common Cause, a principle drafter of BCRA, is quoted in a 
+USA Today article entitled “Campaign finance hit by ruling” (May 4, 2003) 
+as saying of the truncated definition” that “[w]e got more from the court 
+than we ever could have gotten from Congress” and that “people haven’t 
+come to grips with . . . how sweeping it is.” “‘Unless it is evident that the 
+
+
+OER re oS 
+
+
+25 
+
+
+As originally enacted, the backup “electioneering communica- 
+tion” definition is also unconstitutional. Judge Kollar-Kotelly 
+ardently defended the primary “electioneering communication” 
+definition, then grudgingly joined Judge Leon’s support for the 
+backup definition to make a majority to uphold the ban. SA 885- 
+86sa. Her argument for the primary definition encapsulates why the 
+backup definition is unconstitutional: “The expert testimony in this 
+case demonstrates the subjective nature of the effort of trying to 
+capture mental impressions of viewers, and illustrates how one 
+person’s genuine issue advertisement can be another’s electioneer- 
+ing commercial.” SA 768sa. She refused to consider whether “a 
+series of advertisements” would be “unfairly captured” by BCRA, 
+because this would “ask[] the Court to sit as the viewer and find 
+that these advertisements were pure issue advocacy.” SA 855sa 
+(although she inconsistently decided elsewhere whether ads were 
+“genuine” or not, SA 859sa). As justification, she said, “The 
+Buckley Court warned against a statutory test that relied on the 
+viewer and listener’s interpretation of a political message. I have 
+declined, therefore, to engage in this exercise.” SA 855sa. 
+
+That is the exercise the backup definition calls for with its 
+unconstitutional contextual approach. This Court mandated express 
+words of advocacy, and nothing else suffices to protect the right of 
+the people to participate in our system of government as guaranteed 
+by the First Amendment. 
+
+
+Legislature would not have enacted those provisions which are within its 
+power, independently of that which is not, the invalid part may be dropped 
+if what is left is fully operative as a law.”” Buckley, 424 U.S. at 108-09 
+(quoting Champlin Refining. v. Corporation Comm'n of Oklahoma, 286 
+U.S. 210, 234 (1932)). Because the truncated definition is more expansive than 
+the definition Congress enacted, it is certain that Congress would not have 
+enacted the definition as truncated. 
+
+
+26 
+
+
+Real-life illustrations from Plaintiffs’s experience demonstrate 
+the sort of unconstitutional problems the backup definition imposes. 
+During this litigation, National Right to Life Committee (NRLC) has 
+been in the midst of congressional legislative battles to ban human 
+cloning, to pass the federal Unborn Victims of Violence Act, and to 
+pursue other legislative interests.’ As part of these campaigns, 
+NRLC planned to run broadcast advertisements in the Congressio- 
+nal districts ofkey Members of Congress, naming the members of 
+Congress, many or all of whom are candidates, that could be 
+viewed as attacking or promoting their positions on these legislative 
+issues. The ads would be paid for with general corporate funds and 
+would be similar to the AFL-CIO advertisement, “No Two Way,” 
+that Judge Leon found “not neutral.” SA 1163sa. Consequently, 
+these ads would be “electioneering communications” and NRLC 
+would be prohibited from broadcasting them. 
+
+
+Nor does the truncated language solve the problem. If, contrary 
+to Buckley, citizen groups are left to be judged by what others 
+might think of their communications, how will they know when, 
+where, and who will decide that a communication “is suggestive of 
+no plausible meaning other than an exhortation to vote for or against 
+a specific candidate”? “Suggest” means: “1. To offer for consider- 
+ation or action .... 2. To bring or call to mind by logic or association; 
+evoke .... 3. To make evident indirectly; intimate or imply .... 4. To 
+serve as or provide a motive for; prompt or demand ....” American 
+Heritage Dict. Eng. Lang. (4th Ed. 2000) <http://www.bartleby. 
+com/61/98/S0869800. html> (visited June 27, 2003). 
+
+
+7 See, e.g., <http://www.capwiz.com/nrlc/issues/alert/?alertid 
+=1366326&type=CO> (NRLC legislative action page urging contacts with 
+legislators) (visited May 7, 2003). 
+
+*Synonyms of “suggest” are: 
+
+imply, hint, intimate, insinuate. These verbs mean to convey thoughts 
+or ideas by indirection. Suggest refers to the calling of something to 
+
+
+27 
+
+
+Such imprecision “offers no security for free discussion... blankets 
+with uncertainty what may be said . . . and compels the speaker to 
+hedge and trim.” Buckley, 424 U.S. at 43 (quotation marks and 
+citation omitted). 
+
+Similarly, Club for Growth, Inc. (CFG) broadcasted advertise- 
+ments supporting President Bush’s tax cut. One named candidate 
+Sen. Tom Daschle and became the subject of a complaint by the 
+Democratic Senatorial Campaign Committee to the FEC while the 
+truncated backup “electioneering communication” definition was in 
+place. Letter from Marc E. Elias, Counsel for DSCC, to Lawrence 
+Norton, FEC General Counsel (May 13, 2003).” CFG believes its 
+advertisement is “neutral” and lawful, bit the advertisement depicts 
+a federal candidate and could be considered by someone (as 
+happened with the DSCC complaint) as not “neutral” under Judge 
+Leon’s criterion for the truncated backup definition, or as opposing 
+or attacking the candidate and “suggestive” to some audience of no 
+other meaning than an exhortation to vote against Sen. Daschle. 
+
+
+mind as the result of an association of ideas .... To imply is to suggest 
+a thought or an idea by letting it be inferred from something else, such 
+as a statement, that is more explicit . . . . Hint refers to an oblique or 
+covert suggestion that often contains clues .... Intimate applies to 
+indirect, subtle expressicn that often reflects discretion, tact, or reserve 
+_... To insinuate is to suggest something, usually something unpleasant, 
+in a covert, sly, and underhanded manner .... [/d.] 
+
+
+>The complaint letter gives the following text of the ad: 
+
+President Kennedy cut income taxes and the economy soared. 
+
+President Reagan cut taxes more and created fifteen million new jobs. 
+
+President Bush knows tax cuts create jobs, and that helps balance the 
+budget. 
+
+But Senator Tom Daschle opposes the president. 
+
+South Dakota has lost thousands of jobs, and president Bush has a 
+plan to help. 
+
+Tell Tom Daschle to support the Kennedy/ Reagan/ Bush tax policy that 
+
+will bring jobs back to South Dakota. [/d at 2]. 
+
+
+28 
+
+
+BCRA’s own advocacy groups, who pushed it through 
+Congress, demonstrate the lack of a compelling interest in prevent- 
+ing corruption and the appearance of corruption for BCRA’s 
+“electioneering communication.” These groups engaged in the same 
+sort of activity as NRLC and other citizen groups, but insist that 
+what they did was not corrupting. 
+
+
+Common Cause and Campaign for America promoted BCRA 
+with the same style of issue advocacy NRLC used to oppose 
+BCRA.™ These “reformers” promoted BCRA by arguing that issue 
+advocacy is corrupting, but under oath in depositions in this case 
+they insisted that their activity was done with legitimate legislative 
+purpose and was noncorrupting. This story is told for its irony and 
+the proposition that assertions under oath are more credible —there 
+is no corruption here. - 
+
+
+NRLC has a long history of opposing the sort of campaign 
+finance legislation that became BCRA. JA 636-645 (Declaration 
+of David N. O’Steen, Ph.D., Executive Director, National Right 
+to Life Committee, Inc., (NRLC Dec.)). Since 1996, NRLC has 
+scored congressional votes against BCRA-style campaign finance 
+legislation along with votes against abortion, infanticide, assisted 
+suicide, and euthanasia as votes aligned with NRLC’s position. JA 
+88, 8 PCS/MC 509. In 1998, Dr. O’Steen and Douglas Johnson 
+wrote to Sen. McCain, explaining their opposition to his campaign 
+
+
+**The League of Women Voters of the United States (L WV) has similarly 
+advocated for BCRA-style legislation and has run ads advocating it. For 
+example, on October 2, 1997, the LWV issued a press release entitled 
+“League Ads Target Maine for Key Campaign Finance Vote” and an ad 
+transcript entitled “One Simple Message/Maine.” 9 PCS/MC 1260, 1265 
+(Affidavit of Lloyd Leonard on Behalf of League of Women Voters). The 
+press release explained that the radio ad targeted “Maine Senators Snowe 
+and Collins [who were] regarded as key swing votes on the Lott amend- 
+ment,” which LWV wanted to defeat as a “‘poison pill’ amendment.” Jd. 
+
+
+29 
+
+
+finance legislation and refuting his assertion that such opposition was 
+
+“ancillary” to NRLC’s mission: 
+[W]e emphatically disagree with your statement that these 
+questions are “ancillary (if that)” to NRLC’s main mission. In 
+our view, if citizen groups’ communications to the public had 
+been restricted over the past 25 years in the ways that you have 
+proposed in successive versions of your legislation, abortion 
+would not be anything like the major public policy issue that it 
+is today. Indeed, there are other nations which have elected 
+legislatures, but in which elites of the political parties and news 
+media have vastly more power to collectively exclude undesired 
+issues from the political realm. Efforts to impose such false 
+“consensus” have failed in this nation in large part because 
+groups such as NRLC have been free to transmit to the public 
+very specific information about specific politicians’ positions and 
+votes. [8 PCS/MS 487-91. (Letter from David O’Steen & 
+Douglas Johnson to Sen. John McCain 5 (Feb. 17, 1998)).] 
+
+
+NRLC has aired advertisements in opposition to BCRA-style 
+campaign finance legislation, and NRL-PAC has aired express- 
+advocacy ads opposing candidates supporting such legislation. JA 
+640-644 (NRLC Dec. at J] 78-97 & referenced Exhibits). 
+
+In January 2000, Gov. Bush and Sen. McCain were seeking the 
+Republican presidential nomination. NRLC used the occasion of 
+national attention on these candidates to continue its long-term battle 
+against BCRA-style legislation, just as Sen. McCain used his 
+national attention to promote McCain-Feingold legislation.*' On 
+
+
+3INRL-PAC also opposed Sen. McCain on the ground that he had an 
+inferior pro-life record to the other Republican candidates, declaring no 
+endorsement for any of the other candidates because all had “good pro-life 
+positions.” JA 643 (NRLC Dec. | 92 & Ex. B-33). Sen. McCain promptly 
+turned the issue into a campaign-finance debate issuing a press release 
+erroneously claiming that these PAC ads were paid for with “soft money” 
+
+
+30 
+
+
+January 10, 2000, New Hampshire Citizens for Life and NRLC 
+issued a press release declaring that their PACs were “Jaunchfing a] 
+new radio ad campaign highlighting John McCain’s attacks on free 
+speech about politicians” and urging voters to “[I]et John McCain 
+know that freedom of speech about politicians is nota joke. Vote 
+for somebody else.” JA 643-44 (NRLC Dec. 495 & Ex. B-36). In 
+the same press release, these two organizations announced that they 
+were also doing another PAC ad entitled “You Have a Right to 
+Remain... . Silent” that focused on McCain-Feingold legislation that 
+would ban mentioning a federal candidate in a broadcast communi- 
+cation for 60 days before an election, as became law in BCRA. Jd 
+The press release clearly noted the distinction between the express 
+advocacy the PACs were doing and the issue advocacy done in the 
+non-PAC ads. Jd. 
+
+
+NRLC believes its activities are non-corrupting: 
+
+
+NRLC does not believe any of its activities corrupt or appear 
+to corrupt any federal, state or local candidates or officehold- 
+ers. NRLC and its members have various interests that are 
+served through communications and other activities with its 
+members and the general public, and these political activities are 
+necessarily funded with money. Indeed, NRLC believes that its 
+activities, rather than creating an appearance of corruption, 
+instill in the general public a sense of confidence that avenues for 
+pursuing legitimate common interests are available to all. [JA 
+660-61 (NRLC Dec. ¥ 200).] 
+
+
+Common Cause (“CC) has had “Campaign Finance Reform 
+... atthe heart of what [it] does since its inception” in 1970. JDT 
+
+
+and that his “campaign finance proposals would eliminate this kind of money 
+from politics.” JA 643 (NRLC Dec. | 93 & Ex. B-34). NRL-PAC promptly 
+issued a press release rejecting McCain’s claim that a PAC ad could be paid 
+for with “soft money.” JA 643 (NRLC Dec. 93 & Ex. B-34). 
+
+
+a ae ——— 
+
+
+—- 
+
+
+31 
+
+
+Deposition of Matt Keller (CC Legislative Director) 17-18 (CC 
+Dep.). “While it has done no broadcast ads — so it did no “elec- 
+tioneering communication” —CC has engaged in activities that could 
+be interpreted as opposing or promoting candidates around election 
+time. These should clearly be “corruption” under Defendants’ broad 
+definition of “corruption,” because favored candidates might feel 
+“gratitude” for CC’s communications promoting issues the po)* .- 
+cians support and praising them for doing so. Yet CC insists, unde: 
+oath, that its communications are noncorrupting. 
+
+
+As the 2000 New Hampshire primaries approached, CC 
+“staged an event with Senator[s] McCain and... Bradley around 
+the issue of Campaign Finance Reform generally” and a pledge to 
+support BCRA-style legislation particularly. JDT CC Dep. 105. An 
+op-ed, published on CC’s website, extolled McCain and Bradley 
+as the presidential candidates who understood the need for BCRA- 
+style legislation and who had pledged to enact it. JIDT CC Dep. Ex. 
+20. The “purpose was to raise the visibility of the issue of Campaign 
+Finance Reform,” not to influence a federal election. JDT CC Dep. 
+106. CC acknowledged that it was “possible” that the op-ed piece 
+could influence the federal election, but declared, “that was not [its] 
+intent.” JDT CC Dep. 107. It disavowed any “intention to support 
+_.. candidates,” only “the issue,” although it acknowledged that “[a] 
+possible effect of the support of the issue could be interpreted as 
+support of the candidate.” Jd.*” 
+
+
+32CC, in its own name or though its Americans4Reform.com project, also 
+financed a number of “Town Hall Meetings” or “Town Hall Forums” in New 
+Hampshire and other states to promote campaign finance legislation, at least 
+one such event coinciding with primary election campaigns and several 
+mentioning (and some having present) candidates for Congress in the 
+upcoming election, but CC stated there was no intent to influence any 
+election or promote or oppose candidates (although in some cases it 
+admitted the activity might be so viewed). JDT CC Dep. 116- 117 & Exhibit 
+23, p.2(N.H., Jan. 13, 2000); JDT CC Dep. 132-36 & Exhibit 30 (Ark., Jan. 29, 
+
+
+32 
+
+
+Within 30 days ofa primary election and while Gov. Bush and 
+Sen. McCain were presidential candidates, CC distributed nation- 
+wide a press release about Bush’s campaign finance proposals 
+subtitled “Proposal ‘Fails Test of Reform.’” JDT CC Dep. Ex. 22. 
+The document described Bush’s proposal as “flawed,” “fail[ing] the 
+test of reform,” “not even-handed,” and “a hodge-podge of half- 
+steps which would do nothing to further real reform.” Jd. “The 
+purpose ... was to encourage Governor Bush to propose a ... 
+package that was... truly reform,” said CC, and “it’s possible that 
+this could influence[] a federal election.” JDT CC Dep. 111-12. 
+The statement did not “promote[] or support[] a candidate for 
+federal office,” CC testified, although a voter could so interpret it, 
+and “it’s possible to read that as opposing or ... attacking the 
+proposal put forth by then Governor Bush.” JDT CC Dep. 113. 
+iy declared CC, it was not an attack on Governor Bush himself. 
+Id. | 
+
+
+Within 30 days ofa primary election, while Sen. Gore was a 
+presidential candidate, CC also distributed nationwide a press 
+release about Gore’s campaign finance proposals subtitled “Gore 
+
+
+Sets Forth Innovative Plan for Reform.” JDT CC Dep. 113-15 & - 
+
+
+Ex. 23. The release described Gore’s proposal as “sending a strong 
+statement,” “innovative and promising,” and “seek[ing] to seriously 
+address [campaign finance legislation].” “Gore is putting forth strong 
+reform proposals in contrast to ... Bush,” CC declared. JDT CC 
+Dep. Ex. 23. “The purpose of the press release,” declared CC, 
+“was to highlight ... that ... yet another candidate ... was making... 
+Reform a primary issue in his campaign,” not to influence the 
+
+
+2001); JDT CC Dep. 136-39 & Exhibit 31 (Ill., Feb. 12, 2001); JDT CC Dep. 
+139-42 & Exhibit 32 (Tenn., Sep. 7, 2001). 
+
+
+33 
+
+
+election, although it “could” affect the election.” JDT CC Dep. 115. 
+CC didn’t think the release promoted or supported Gore. Id. ” 
+
+In March or April 2000, within 30 days ofa primary in which 
+Gov. Bush was a presidential candidate, CC distributed nationwide 
+on its website an op-ed piece entitled “Bush’s Campaign Finance 
+Plan Too Weak.” JDT CC Dep. 130-32 & Ex. 45. The plan 
+derided Bush’s plan as “keeping up with the Jones” and “rearrang- 
+ing the deck chairs on the Titanic,” but CC affirmed no intent to 
+influence the election (while acknowledging the communication 
+would possibly do so) or attack or oppose candidate Bush 
+(although it believed it could be so interpreted). JDT CC Dep. 131- 
+3 
+
+On October 18, 2000, shortly before the general election, CC 
+issued nationwide a press release announcing a “Reform Report 
+Card” (grading members of congress on support for BCRA-style 
+legislation) and listing signers of CC’s “Public Integrity Pledge” 
+(thereby promising to support CC’s favored legislation). JDT CC 
+
+
+33 fter the 2000 Democratic and Republican conventions and while 
+Senators Gore and Lieberman were presidential and vice-presidential 
+candidates, CC released nationwide a press release extolling their commit- 
+ment to campaign finance legislation and describing Lieberman as “a 
+consistent and effective champion of campaign finance reform.” JOT CC 
+Dep. 117-20 & Exhibit 24. There was no purpose to influence the election or 
+promote the named candidates, said CC, but this would possibly happen. 
+JDT CC Dep. 119-20. 
+
+
+CC also engaged “50 [to] 70 volunteers who c[a]me in to [CC] every 
+week,” JDT CC Dep. 151, in making phonebank calls to get CC members to 
+call legislators about pending legislation. JDT CC Dep. 151-52 & Exhibits 41- 
+43. Calls were made employing one phonebank memo into Delaware, in 
+March 1998, urging Rep. Mike Castle to oppose a certain amendment. JDT 
+CC Dep. 152 & Exhibit 42. Rep. Castle was a candidate in the November 1998 
+general election. The declared purpose was opposing a “phony” bill and 
+supporting a proper one, not influencing an election (but CC admitted it 
+possibly do so). JDT CC Dep. 152. 
+
+
+34 
+
+
+Dep. 119-21 & Ex. 25 & 27.*° The scorecard included an “honor 
+roll” of legislators voting CC’s way. JDT CC Dep. 127 & Ex. 27. 
+CC affirmed the scorecard’s purpose was informing people about 
+how legislators voted, JDT CC Dep. 122, and “encourag[ing] ... 
+Members of Congress to vote [right] in the next vote,” JDT CC 
+Dep. at122-23, not influencing elections or promoting candidates, 
+but it could be so interpreted. JDT CC Dep. 122-125. 
+
+
+Could these activities affect federal elections? CC declared 
+“they could ... impact ... how people vote.” JDT CC Dep. 156. 
+Could they be viewed “as either attacking or defending or promot- 
+ing an individual candidacy?” Jd. “Yes.” Jd. But were these 
+communications corrupting? CC declared that it did not “believe 
+that if a Member of Congress, as a result of [CC’s] communica- 
+tions, supported Campaign Finance Reform or whatever [CC] 
+w([as] advocating” that “that [would] give rise to an appearance of 
+corruption.” JDT CC Dep. 155. 
+
+Campaign for America’s (“CFA”) purpose is promoting 
+BCRA-style legislation. JDT Telephonic Deposition of Cheryl 
+Perrin (CFA Executive Director) 9 (CFA Dep.). CFA is funded 
+primarily or solely by its founder, Jerome Kohlberg, Jr. JDT CF4 
+Dep. 10. CFA has broadcast numerous ads promoting BCRA-style 
+legislation that mentioned elected officials, some of whom were 
+candidates in an upcoming election. See, e.g., JDT CFA Dep. Ex. 
+D (joint press release and radio ad scripts by CC and CFA). 
+
+
+*°CC communicated to the public on a “case-by-case basis” about who 
+signed the integrity pledge, including communications about who signed 
+and didn’t vote as CC wanted. JDT CC Dep. 127. Such communications were 
+issued around the time of votes of campaign finance legislation, which could 
+coincide with election campaigns. JDT CC Dep. 128. The declared purpose 
+of such tactics was not to influence elections or promote or attack candi- 
+dates, but to “try to get somebody’s vote.” Jd. CC acknowledged that such 
+activity could influence elections and could be interpreted as promoting or 
+opposing candidates. Jd. 
+
+
+ee ee 
+
+
+35 
+
+
+CFA published a “Legislative Report Card” giving “Thumbs 
+Up” to advocates of BCRA-style legislation, including Senators 
+McCain and Feingold. JDT CFA Dep. Ex.C. CFA didn’t intend to 
+influence an election and didn’t believe the report could do so. JDT 
+CFA Dep. 26. CFA has also broadcast grass-roots-lobbying radio 
+ads mentioning federal legislators by name and encouraging listeners 
+to call these legislators and vote for BCRA-style legislation or to 
+pressure leaders, e.g., Sen. Lott, to hear CFA’s favored legislation. 
+See, e.g., JDT CFA Dep. 28-31 & Ex. D (press release and text 
+of ads). CFA said that its purpose was educating the public and 
+seeking support for BCRA-style legislation, not influencing elec- 
+tions, that these ads could not affect federal elections, and that the 
+ads did not attack or support any named candidate. JDT CFA Dep. 
+30. CFA declared that, if legislator did what CFA urged in its ads, 
+that there was no corruption because “[t]here would be no gain for 
+that on either side.” JDT CFA Dep. 59-60. 
+
+If all the above activity sounds like the busy marketplace of 
+ideas in a vibrant democracy, that is because it is. Some of it fell 
+within the BCRA blackout periods, but any of it could have, 
+depending on when legislative action was occurring. Much of this 
+vital political activity would be lost if BCRA were upheld. And the 
+fact that both “reform” groups and Plaintiffs engage in the same sort 
+of activity belies any claim that the public perceives corruption in 
+these activities. Indeed “reform” groups themselves do not view 
+
+such activity as corrupting. 
+II. “Soft Money” Bans Are Unconstitutional . . . 
+
+The Title I nonfederal money bans are unconstitutional as to 
+national parties, federal officeholders and candidates, and state 
+officeholders and candidates. 
+
+
+36 
+
+
+A. As to National Parties. Libertarian National Committee 
+(LNC) joins the Republican National Committee et al., brief. The 
+description of the unique way in which BCRA burdens the LNC 
+and legal arguments are provided there and adopted here. 
+
+
+B. As to Federal Officeholders/ Candidates. 
+
+
+| Rep. Mike Pence* wants to raise money for nonprofit corpora- 
+tions, including Indiana Family Institute (IFI).*” But BCRA Title I 
+adds § 323(e)(1)(A), JSA 13a, prohibiting federal candidates or 
+officeholders from soliciting for, or directing nonfederal funds to, 
+nonprofit organizations for “federal election activity” (voter registra- 
+tion within 120 days of an election) and voter identification, get-out- 
+the-vote (GOTV) activity, activity supporting political parties, or 
+making a communications that “refers to” a federal candidate and 
+“promotes or supports ... or attacks or opposes” her). 
+
+Section 323(e)(4)(A) permits making “a general solicitation of 
+funds” for nonprofit organizations “that does not specify how the 
+funds will or should be spent,” provided that the “principal purpose” 
+of the organization is not engaging in “federal election activity.” 
+
+
+. “Rep. Pence is a Member of Congress who associates with nonprofit 
+ideological corporations to assist them in raising funds, as more fully 
+described in the Declaration of U.S. Representative Mike Pence (“Pence 
+Dec.”), JA 662-67. Rep. Pence alleged that the BCRA chills his ability to 
+assist IFI and other nonprofit ideological corporations. JA 663 ( Pence Dec 
+{ 6). He has assisted in raising funds for organizations including IFI ond 
+Vanderburgh County Right to Life and want to continue the relationship. JA 
+662-67 (Pence Dec. ¥¥ 5-22). 
+
+
+. “FI is a § 501(c)(3), MCFL-type corporation that advocates pro-family 
+issues in the public policy arena, as more fully set out in the Declaration of 
+Curt Smith, President of Indiana Family Institute, Inc. (IF1 Dec.), JA 813-14 
+(FI Dec. 11 3-7). IFI has a longtime relationship with Mike Pence before he 
+was in Congress, which relationship has been used to help raise funds for 
+
+
+IFI, and IFI wishes to have Rep. Pence continue to assist in raising funds for - 
+
+
+IFI without the restrictions of BCRA. JA 814-15 (JFI Dec. ¥¥ 8-11). 
+
+
+— — 
+
+
+37 
+
+
+Section 323(e)(4)(B) provides that candidates may also make 
+solicitations for “federal election activity,”°except a communication 
+that “refers to” a federal candidate and “promotes or supports ... Or 
+attacks or opposes” her, or for organizations whose principal 
+purpose is to engage in such activity, provided the solicitation is 
+made only to individuals[] and [] the amount solicited from any 
+individual does not exceed $20,000.” 
+
+The district court upheld this provision. SA 5sa (Per Curiam). 
+Judge Henderson decided that the provision passed strict scrutiny 
+because candidates raising large sums of non-federal money from 
+corporations could create the appearance of corruption, SA 455sa, 
+and “severing the most direct link between the federal candidate and 
+the non-federal donor ... can serve to prevent the appearance of 
+corruption where it is most acute.” SA 457sa. She also decided that 
+this may be the least restrictive means of preventing the use of soft 
+money to buy influence over officials. SA 458sa. 
+
+
+Central to Rep. Pence’s claim is the fact Rep. Pence has hada 
+ten year relationship with IFI, both he and his wife have served on 
+the IFI Board of Advisors, they have supported IFI financially, and 
+he has been a featured guest and speaker at IFI fundraising events, 
+because he believes in IFI’s mission to focus on traditional family 
+values. JA 662-63 (Pence Dec. ¥ 5). Rep. Pence and IFI want to 
+continue the relationship they had before he became a Member of 
+Congress, with Rep. Pence free to raise funds for IFI without 
+restrictions. Because the relationship preexisted Rep. Pence’s 
+election to Congress in 2000 and Rep. Pence’s present candidacy, 
+JA 662 (Pence Dec. § 2), there is no realistic concern that the 
+public will perceive quid pro quo corruption in the fundraising 
+relationship — even if he raised money for a pro-family or pro-life 
+nonprofit corporation to register, identify, and mobilize voters. 
+
+
+38 
+
+
+But there is also a problem with what BCRA permits Rep. 
+Pence to do. Fundraising events commonly include a presentation 
+on the past or planned activities of the organization, either as an oral 
+presentation (often with audio-visual enhancement) or in printed 
+form to show what potential donors are supporting by their past and 
+anticipated contributions. These activities often include (a) public 
+communications (such as grassroots lobbying, issue advertising, and 
+voter guides) that refer to a clearly identified candidate for federal 
+office; (b) voter registration within 120 days of a federal election, 
+voter identification, and GOTV activity. JA 664-65 (Pence Dec. 
+qq 12-14). 
+
+Rep. Pence’s urging of support for such organizations may 
+readily be considered by listeners to be a solicitation for funds that 
+will be spent on the “federal election activities,” described in oral or 
+written presentations of past and planned activities of the group at 
+the fundraising event, even if Rep. Pence expresses support for the 
+group in general terms and does not specify how the funds will be 
+spent. JA 665-66 (Pence Dec. § 16). Further, it is unclear whether 
+
+the “principal purpose” of an expressive association such as IFI or 
+Vanderburgh County Right to Life is to engage in “federal election 
+activity,” because “principal purpose” is not defined by the BCRA. 
+Must the activity be a principal purpose or the principal purpose? 
+Does “principal purpose” means the same as “major purpose,” the 
+
+
+“Rep. Pence spoke at Vanderburgh County Right to Life’s annual 
+fundraising banquet, and VCRTL engages in a wide range of these activities 
+with respect to federal, state, and local elections. IFI engages in some of 
+these activities and has asserted its intent to continue doing so and to 
+expand into doing more of these activities. JA 664-65 (Pence Dec. ¥§ 9-11, 
+14). Some expressive associations also engage in independent expenditures 
+in connection with federal candidates, with or without a connected political 
+action committee (“PAC”), and some make contributions through their PACs 
+to federal candidates. JA 665 (Pence Dec. { 15). 
+
+
+ee eee ee 
+
+
+39 
+
+
+term used by this Court in MCFL, 479 U.S. 238? JA 666 (Pence 
+Dec. § 17). 
+
+The requirement that “the amount solicited from any individual 
+during any calendar year does not exceed $20,000” is by its terms 
+a limitation on solicitation, not contribution, and unconstitutionally 
+exposes Rep. Pence to liability for asking individuals for a $20,000 
+contribution when the individual has already been solicited for a 
+contribution of any amount in that calendar year. This is exacer- 
+bated by the fact that Rep. Pence’s solicitations are typically done 
+to groups, where it is impossible to know who is in the audience and 
+what solicitations have been made already to them. JA 667 (Pence 
+Dec. § 21). 
+
+No corruption or appearance of corruption exists in the activity 
+described. This Court protects issue advocacy expenditures by 
+citizen’s groups and Congressmen have a legitimate interest in 
+associating with such groups to advance the public issues common 
+to them. Further, nonpartisan voter registration and GOTV activity 
+furthers important civic goals. Since none of this activity is con- 
+ducted in a partisan manner or advocates the election or defeat of 
+any particular candidate, the connection between any prospect of 
+quid pro quo corruption and the soliciting of funds for this activity is 
+just too tenuous. 
+
+C. As to State Officeholders/Candidates. As a candidate 
+for Alabama Attorney General, William H. Pryor Jr. has made many 
+political co. munications and associations which are permitted by 
+the laws of his state, but are restricted by BCRA. In violation of 
+
+§ 323(f) and § 301(20)(A)(iii), he has made public communications 
+as a candidate and state official that refer to candidates for federal 
+office and that promote, support, attack or oppose such candidates. 
+JA 705-07 (Declaration of William H. Pryor Jr., Attorney 
+General of Alabama (Pryor Dec.) § 3, Ex. A-B). His references 
+
+
+40 
+
+
+to candidates are made to compare his views to those of the federal 
+candidate or because his official position effectively requires it. JA 
+707-08 (Pryor Dec. $§ 4-6). He has also received contributions 
+from state committees of national political parties and has spent 
+state-regulated funds for voter registration within 120 days of a 
+federal election, for voter identification and GOTV, and for generic 
+campaign activities. JA 708-10 (Pryor Dec. ¥§ 7-11). 
+
+Pryor’s official duties often require him to discuss federal 
+candidates in official press releases, congressional testimony, 
+correspondence with public officials, and legal briefs. JA 705-08 
+(Pryor Dec. J§j 3-5, Ex. C-O). “To fulfill my office as Attorney 
+General effectively, I must often refer to federal candidates because 
+they offer legal proposals which must be analyzed and would affect 
+state law and policy and because they often become involved in 
+legal controversies.” JA 708 (Pryor Dec. § 6). 
+
+
+By regulating the activities of candidates for state elective office, 
+the BCRA is interfering with the ability of states to enact their own 
+campaign finance schemes and has greatly complicating the burden 
+of campaign finance laws on such candidates by subjecting them to 
+two separate and often contradictory regulatory schemes. If the 
+restrictions on “federal election activities” preempts state regulation, 
+differences between state and federal approaches will be confusing 
+and undermine the state’s ability to design a logical and consistent 
+scheme.” For example, Pryor’s state of Alabama does not follow 
+the federal approach of limiting the size of non-corporate contribu- 
+tions, but instead forbids them from being made while the Legisla- 
+ture is in session. Ala. Code § 17-22A-7(b)(2). If the federal law 
+
+
+*° State laws are pre-empted by (1) “express language in a congressional 
+enactment,” (2) “implication from the depth and breadth of a congressional 
+scheme that occupies the legislative field,” or (3) “ implication because of a 
+conflict with a congressional enactment.” Lorillard Tobacco Co. v. Reilly, 
+533 U.S. 525, 541 (2001). 
+
+
+41 
+
+
+preempts Alabama law, an ad by Pryor urging voters to support him 
+because he “helped President Bush fight the war on terror” would 
+be subject to federal law limiting the size of contributions but not to 
+Alabama’s timing restriction, while an ad that does not mention a 
+federal candidate could be paid for only by funds raised outside the 
+legislative session, but from contributions of unlimited size. The 
+impact could be even greater in states with similar but more 
+restrictive laws. Hence, adding phrases like “I’m a Bush Republi- 
+can” to their communications would enable Montana state legislative 
+candidates to exchange their state’s $100 per donor contribution 
+limit with BCRA’s limits of $2,000 or $5,000. Mont. Code Ann. 
+§ 13-37-216. 
+
+An even worse result would occur if these communications 
+were subject to both state and federal restrictions. Pryor’s commu- 
+nications showing him with President Bush would then be subject to 
+the more restrictive aspects of both the federal and Alabama 
+schemes. Montana candidates would need to ensure that their 
+contributors had complied with federal limitations on contributions 
+from political committees and individuals, but also raised outside of 
+a legislative session, as required by Alabama law. 
+
+This impact would be especially acute in states providing public 
+financing to candidates foregoing most private contributions. A 
+Maine state representative candidate is barred from public funding 
+for accepting more than $500 of private contributions. Me. Rev. 
+Stat. Ann. tit.21A § 1125(2)(C). A Maine state candidate wishing 
+to spend $600 to tout his experience as a legislative staffer for Sen. 
+Snowe, which now must be raised in accordance with federal law, 
+would need to forego state financing to do so. If BCRA preempts 
+state law, the candidate could raise unlimited private funds, subject 
+to the much higher federal contribution limits, and still be eligible for 
+public funding, ifhe spent the funds on ads mentioning Sen. Snowe 
+
+
+42 
+
+
+Besides being complicated and burdensome to state candidates, 
+this subjection to federal regulation is also unfair in its impact on 
+individual candidates. Consider the potential matchup in Indiana’s 
+2004 gubernatorial election between Mitch Daniels, formerly 
+President Bush’s budget director, and Joe Andrews, former 
+chairman of the Democratic National Committee.*° Because 
+President Bush is a candidate for re-election, Daniels would need 
+to raise federal funds in order to discuss his work in the Bush 
+administration or to tout an endorsement from his old boss. 
+However, Andrews could freely use state-regulated funds to discuss 
+his work with former President Clinton. 
+
+
+Restrictions based on the content of a candidate’s speech 
+violate this Court’s maxim that it is the “people individually as 
+citizens and candidates ... who must retain control over the quantity 
+and range of debate on public issues in a political campaign.” 
+Buckley, 424 U.S. at 57. Restricting candidates’ speech is espe- 
+cially troublesome because “[t}he role that elected officials play in 
+our society makes it all the more imperative that they be allowed 
+freely to express themselves on matters of current public impor- 
+tance.” Republican Party of Minnesota,536 U.S. at 781-82. In 
+the rare instances when candidates are subjected to content-based 
+restrictions, the government bears the burden to prove that the 
+challenged regulation is “narrowly tailored, to serve ... acompelling 
+state interest.” Jd. at 774-75. The government “must demonstrate 
+that it does not ‘unnecessarily circumscribe protected expression.” 
+Id. at 775 (citation omitted). When a plausible, less restrictive 
+alternative is offered to a content-based speech restriction—such as 
+the state regulatory schemes that already govern these communica- 
+tions —“it is the Government’ s obligation to prove that the alterna- 
+
+
+“ Matthew Tully, Daniels Dives In; Rival Bows Out, Indianapolis Star, 
+June 10, 2003, <http://www.indystar.com/print/articles /2/049677-9902- 
+098.html>. 
+
+
+43 
+
+
+tive will be ineffective to achieve its goals.” United States v. 
+Playboy Entertainment Group, Inc., 529 U.S. 803, 816 (2000). 
+
+In upholding these provisions, the district court, in Judge Leon’s 
+opinion, relied upon findings regarding the activities of state political 
+parties supporting federal candidates to find that this statute was 
+closely drawn to accomplish the federal purpose of “guarding 
+against similar conversions of soft money donations to fund 
+communications that are designed to accomplish the federal purpose 
+of directly influencing a federal election.” SA 1146sa. But the mere 
+potential that these statements could be used to influence a federal 
+election is insufficient justification. This Court has long recognized 
+that “[c]andidates ... are intimately tied to public issues,” Buckley, 
+424 U.S. at 42, and that the governments’ regulatory interests 
+extended only to spending that is “unambiguously related to the 
+campaign ofa particular federal candidate.” Jd. at 80. Despite this 
+Court’s warning that “the Government must present more than 
+anecdote and supposition” to prove the necessity of such statutes, 
+Playboy, 529 U.S. at 822, there is no support in logic or evidence 
+for the premise that state candidates are likely to divert their scarce 
+campaign resources to support federal candidacies rather than their 
+own. State candidates invoke the name of federal candidates in 
+order to advance their own candidacies, a point illustrated by 
+Pryor’s own flyers featuring pictures of him shaking hands with 
+President Bush, citing his work on the President’s prior campaign 
+and transition team, and quoting praise for Pryor from the President 
+and from Alabama’s senators. 8 PCS/MC 36-45 (Pryor Dec. Ex. 
+A & B). 
+
+Even more dubious are the restrictions on supposedly “federal 
+election activity” by state officeholders — an application ignored by 
+the district court. It is hard to imagine what federal interests could 
+justify requiring state officials to fund official communications with 
+private campaign contributions rather than with public funds 
+
+
+44 
+
+
+authorized by their state legislature. As Pryor explained, “My official 
+duties would be significantly impeded if were unable to refer to 
+federal candidates who sponsor or propose legislation or who are 
+involved in litigation that might affect the people of Alabama.” JA 
+707-08 (Pryor Dec. ¥ 5). Ironically, by requiring campaign donors 
+to pay for communications normally funded by taxes, this provision 
+enhances rather than reduces the role of money in politics. 
+Ill. “Advance Notice” Is Unconstitutional. 
+
+
+BCRA provides two advance notice disclosure provisions, 
+requiring that contracts be treated as actual expenditures. The 
+district court found the challenge to § 212 not ripe because of FEC 
+regulations requiring disclosure only after an independent expendi- 
+ture has been made. SA 132sa (Per Curiam). NRLC Plaintiffs do 
+not appeal this. Section 201(5), JSA 23a, also requires such 
+advance notice for contracts to make electioneering communica- 
+tions, which the Court unanimously found unconstitutional. SA 12sa, 
+115sa (Per Curiam). 
+
+
+Advanced notice of a communication about a politician, by 
+requiring the reporting of “contracts” for the communication, creates 
+three separate, but substantial problems. First, the disclosure of 
+donors subjects these donors to harassment.*! Second, it is often 
+
+
+“'The district court upheld the requirement that $1,000 (and up) 
+contributors for electioneering communications be reported, despite 
+concerns about retaliation and harassment expressed by several plaintiffs. 
+SA 124sa (Per Curiam) (citing “lack of specific evidence”). There was 
+evidence in the record of harassment against NRLC and NRL PAC and 
+interference with broadcast advertising arrangements when candidates 
+become aware of such communications. JA 632 (NRLC Dec. ¥¥ 26-27, which 
+is summarized infra at note 43). 
+
+Also, in Arizona Right to Life PAC v. Bayless, No. 00-CIV-0129-PHX- 
+RGS, slip op. at 10 (D. Ariz. Aug. 28, 2000), rev'd in part on other grounds, 
+320 F.3d 1002 (9th Cir. 2003), the court in the process of granting permanent 
+injunction against a requirement “that individual contributor’s names and 
+
+
+45 
+
+
+unknown in advance whether the communication will actually be 
+made and what the communication, or even the “contract” will 
+cost.” Third, advance notice of a communications provide an 
+opportunity for politicians to dissuade broadcasters and newspapers 
+from carrying communications to which they object.” 
+
+
+telephone numbers be included on the literature or advertisements of 
+political committees who make independent expenditures,” id at 19 
+(emphasis in original), recounted the evidence submitted by one top 
+contributor who had “received harassing phone calls — some threatening 
+violence — during the 1998 political campaign as a result of the publication 
+of his phone number.” /d. at 10. 
+
+
+“Two examples from nonbroadcast advocacy illustrate the point. First, 
+NRL PAC planned an independent expenditure on printed express advocacy 
+pieces in support of U.S. Senate candidate John Ashcroft in the 2000 
+Missouri election. When Ashcroft’s opponent died, NRLC did not think it 
+seemly to release the brochures, electing to spend its money on other races. 
+Both contracts and payments were made, but there was no communication, 
+and it would have been inaccurate and misleading to have such “expendi- 
+tures” reported as “independent expenditures.” See NRL PAC v. Connor, 
+323 F.3d 684 (8th Cir. 2003) (recounting these facts). 
+
+Second, NRL PAC often arranges for telemarketing firms to make phone 
+calls into targeted areas at election time. The general agreement is made well 
+in advance of the election, but the agreement is only for a set range of 
+expenditures (low and high ends) and the rate per call. At this point, the 
+amount of money that will be available to spend is yet unknown, for it has 
+not been raised yet, and the state or races are unknown. In fact the state or 
+race may not be decided until the day before the phone calling begins, as 
+last-minute polling indicates where there is a need. Thus, at the time of the 
+agreement for telemarketing services, the total amount to be spent is yet 
+unknown, as is the location of the calls. ' 
+
+
+“4 concrete example occurred to NRL PAC in 1988 in Nevada. James 
+Bopp, Jr. & Richard E. Coleson, Comments on Proposed Rules at 11 C.F.R. 
+Parts 100, 104, and 109 Regarding Independent Expenditure Reporting, 
+<http://www.fec.gov/pdf/nprm/ind_exp/ind_expcomments6-08-01 .pdf> 
+(visited July 1, 2003); NRLC Dec. (J 184-200), JA 658-61. It involves the 
+case of National Right to Life PAC v. Friends for Bryan (No. CV-S-88-865- 
+PMP-(RJJ)), a 1988 case brought in state court by NRL PAC against Nevada 
+
+
+46 
+
+
+Advance notice provides increased opportunity for such 
+mischief, at the expense of First Amendment rights. If broadcasters 
+can be intimidated into canceling advertisements that are already in 
+process (as were NRL PAC’s, note 42), it will be far easier for 
+intimidation to prevail with the extra time advanced notice provides. 
+Many broadcasters would be tempted to reject such communica- 
+tions, depriving citizen groups of free speech. The ability of 
+
+
+Americans to participate in our democracy would be undermined. 
+
+
+IV. Intervenors Lack Article III Standing. 
+
+
+Senator John McCain, Sen. Russell Feingold, Rep. Christopher 
+Shays, Rep. Martin Meehan, Sen. Olympia Snowe, and Sen. James 
+Jeffords (Intervenors) intervened as Defendants in the District Court 
+under Fed. R. Civ. P.24(a)(1), invoking § 403(b) (“any member of 
+the House of Representatives . . . or Senate shall have the right to 
+intervene either in support or opposition to the position of a party to 
+the case regarding the constitutionality of the provision or amend- 
+ment”). In granting intervention, the trial court decided the 
+Intervenors have Article III standing whether or not such standing 
+is required for intervention. Docket # 40 (order granting intervention 
+
+
+Governor Richard Bryan’s U.S. Senatorial campaign committee for tortuous 
+interference with contractual relations resulting from cancelled broadcast 
+arrangements for NRL PAC’s independent expenditures due to harassing 
+letters from Bryan’s campaign. Other letters using the same boilerplate 
+language were used in North Dakota and Nebraska and the source of this 
+systematic campaign of intimidation was apparently an October 21, 1988, 
+form letter prepared by Robert F. Bauer, Counsel to the Democratic 
+Senatorial Campaign Committee. Similar letters were also sent to stations 
+concerning ads by the American Medical Association PAC and the Auto 
+Dealers and Drivers for Free Trade PAC. This evidence demonstrates what 
+is usually invisible to the public — a widespread practice of well-planned, 
+systematic intimidation attempts against broadcasters to gain political 
+advantage. 
+
+
+ee 
+
+
+47 
+
+
+5 (May 3, 2002)). However, Article III standing is required for 
+intervention” and the Intervenors lack it. 
+
+
+The Intervenors must satisfy both constitutional and prudential 
+requirements for standing. See, e.g., National Credit Union 
+Admin. v. First National Bank & Trust Co., 522 U.S. 1146 
+(1998); Lujan v. Defenders of Wildlife, 504 U.S. 555, 560-61 
+(1992). Section 403(b), by permitting members of Congress to 
+intervene, removes any prudential standing concerns. Raines v. 
+Byrd, 521 U.S. 811, 820 n.3 (1997) (“Congress’s decision to grant 
+a particular plaintiff the right to challenge an act’s constitutionality ... 
+eliminates any prudential standing limitations and significantly lessens 
+the risk of unwanted conflict with the Legislative Branch when the 
+plaintiff brings suit”). However, “Congress cannot erase Article III’s 
+standing requirements by statutorily granting the right to sue a 
+plaintiff who would not otherwise have standing.” Jd. Contrary to 
+the District Court, Intervenors lack Article III standing. 
+
+
+First, they do not satisfy the requirement that one must suffer an 
+“injury in fact,” consisting of an “invasion ofa legally protected 
+interest which is (a) concrete and particularized ... and (b) actual or 
+imminent.” Lujan, 504 U.S. at 560 (internal quotations and citations 
+omitted). The Intervenors claimed injury here — “that they will be 
+forced to raise money ina corrupt system in the event the Act is 
+struck down” (Order at 8) (emphasis in original) — is neither 
+concrete nor particularized. 
+
+
+“Whether proposed Intervenors must have Article III standing in order 
+to properly intervene is an issue of first impression, Diamond v. Charles, 476 
+U.S. 54, 68-69 and n. 21 (1986), and there is a conflict of circuits in this regard. 
+Compare Solid Waste Agency v. U.S. Army Corps of Eng’rs, 101 F.3d 503, 
+507 (7th Cir. 1996); Mausolf v. Babbit, 85 F.3d 1295, 1300 (8th Cir. 1996); 
+Building and Constr. Trades Dept., AFL-CIO v. Reich, 40 F.3d 1275, 1282 
+(D.C. Cir.1994) with United S’ates Postal Serv. v. Brennan, 579 F.2d 188, 190 
+(2d Cir.1978); Associated Builders & Contractors v. Perry, 16 F.3d 688, 690 
+(6th Cir.1994); Yniguez v. State of Arizona, 939 F.2d 727, 731 (9th Cir.1991). 
+
+
+48 
+
+
+In Raines, 521 U.S. at 829, this Court held that individual 
+Members of Congress lacked standing to challenge the constitution- 
+ality of the federal Line Item Veto Act, although the Act explicitly 
+provided that any Member might bring suit against it, because the 
+Members had alleged no cognizable injuries particular to them- 
+selves, and their claimed institutional injury was widely dispersed 
+and abstract. The Intervenors claim here —that without the BCRA, 
+they will have to raise funds in a supposedly corrupt system — lacks 
+particularity and concreteness to an even greater degree than the 
+claim of the Raines plaintiffs. A line item veto is at least known to 
+diminish the specific weight of every legislative vote. This is surely 
+amore concrete and particular injury than swimming in the same 
+allegedly polluted fund-raising water as all other candidates must if 
+BCRA is stricken. If the Raines plaintiffs lacked standing, the 
+Intervenors lack it, too. If the Intervenors here have standing, then 
+so do all legislators whenever any statute that affects them is brought 
+into question before the courts, which would elide the entire 
+meaning of the “case and controversy” requirement.*® 
+
+Second, the Intervenors lack Article III standing because there 
+is no causal connection between their “injury”and the conduct 
+complained of. Lujan, 504 U.S. at 560-61. Their claimed injury 
+would arise from the unregulated conduct of other parties. How- 
+
+
+“*In Karcher v. May, 484 U.S. 72, 78 (1987), this Court held that New 
+Jersey legislators had standing to defend a statute that the state’s Attorney 
+General refused to defend, if they acted “in their official capacities as 
+presiding officers on behalf of the . . . Legislature,” but lost standing when 
+acting as individual legislators. Jd. In INS v. Chadha, 464 U.S. 919, 930, n.5 
+(1983), this Court held that Congress was a proper party to defend a one- 
+House veto provision when a government agency refused to defend the 
+provision and both Houses authorized the intervention of Congress to 
+defend the provision. But Intervenors here have not intervened in any 
+official capacity, only as individual legislators. And BCRA is actively and 
+ably defended by the government. 
+
+
+49 
+
+
+ever, “[i]n those cases where a plaintiff s asserted injury arises from 
+the government’s allegedly unlawful regulation (or lack of regula- 
+tion) of someone else, it is substantially more difficult to establish 
+injury in fact, for in such cases one or more of the essential elements 
+of standing depends on the unfettered choices made by independent 
+actors not before the courts and whose exercise of broad and 
+legitimate discretion the courts cannot presume either to control or 
+to predict.” Common Cause v. FEC, 108 F.3d 412, 417 (D.C. 
+Cir. 1997) (quotations and citations omitted) (emphasis added). 
+
+
+However, “because an intervenor participates on equal footing 
+with the original parties to a suit, a movant for leave to intervene... 
+must satisfy the same Article II] standing requirements as original 
+parties.” Building and Constr. Trades Dept., AFL-CIO, 40 F.3d 
+at 1282 (citations omitted). As the Eighth Circuit held: 
+
+
+[A]Jn Article III case or controversy, once joined by intervenors 
+who lack standing, is — put bluntly — no longer an Article III 
+case or controversy. An Article III case or controversy is one 
+where all parties have standing, and a would-be intervenor, 
+because he seeks to participate as a party must have standing 
+as well. The Supreme Court has made it very clear that “[those] 
+who do not possess Art. III standing may not litigate as suitors 
+
+in the courts of the United States.” [Mausolf, 85 F.3d at 1300 
+
+(citation omitted)]. 
+
+The Article III standing requirement cannot be mitigated by 
+Congress. Congressional power to create standing is subject to the 
+limitations of Article III. See, e.g., Warth v. Seldin, 422 U.S. 490 
+(1975); Linda R.S. v. Richard D., 410 U.S. 64 (1973). Article 
+III’s injury in fact requirement limits Congress’ power to confer 
+standing. Lujan, 504 U.S. at 580-81 (Kennedy, J., concurring). “In 
+no event ... may Congress abrogate the Art. [I minima.” Gladstone 
+Realtors v. Village of Bellwood, 441 U.S. 91, 100 (1979). Thus, 
+
+
+50 
+
+
+Article III standing is required for intervention. Because Intervenors 
+lack standing, the intervention grant must be reversed. 
+
+
+Conclusion 
+
+
+For the foregoing reasons, this Court should strike down Title 
+I’s bans on “soft money” use by political parties, federal officehold- 
+ers and candidates, state officeholders and candidates, Title II’s ban 
+on “electioneering communications,” and § 201(5)’s “advance 
+notice” requirement as violating constitutional free expression and 
+association guarantees. Also, this Court should hold that the grant 
+of intervention to Sen. Mc Cain et al. was erroneous. 
+
+
+Respectfully submitted, 
+
+
+James Bopp, Jr., Counsel of Record 
+
+Richard E. Coleson 
+
+Thomas J. Marzen 
+
+JAMES MADISON CENTER FOR FREE SPEECH 
+
+Bopp, COLESON & BOSTROM 
+
+1 South 6th Street 
+
+Terre Haute, IN 47807-3510 
+
+812/232-2434 (fax: 812/235-3685) 
+
+Counsel for Plaintiffs-Appellants/ 
+Cross-Appellees, 
+
+

@@ -1,0 +1,375 @@
+Primary judicial text: https://law.resource.org/pub/us/case/reporter/F3/320/320.F3d.891.00-55691.html
+
+320 F.3d 891
+
+Lionel E. GENTRY, Petitioner-Appellant,
+
+v.
+
+Ernie ROE, Warden; Attorney General of the State Of California, Respondents-Appellees.
+
+No. 00-55691.
+
+United States Court of Appeals, Ninth Circuit.
+
+Argued and Submitted July 9, 2002.
+
+Filed August 8, 2002.
+
+Amended August 30, 2002.
+
+Further Amended January 28, 2003.
+
+James H. Locklin, Deputy Federal Public Defender (argued), Los Angeles, CA, for the petitioner-appellant.
+
+Shawn McGahey Webb (argued), Deputy Attorney General of the State of California, for the respondents-appellees.
+
+Appeal from the United States District Court for the Central District of California Edward Rafeedie, District Judge, Presiding. D.C. No. CV-97-04867-ER-AN.
+
+Before: HUG, JR., FARRIS and SILVERMAN, Circuit Judges.
+
+1
+Opinion by Judge FARRIS; Dissent by Judge SILVERMAN
+
+ORDER
+
+2
+The opinion filed August 8, 2002, and amended August 30, 2002, is further amended as reflected in the attached revised opinion. The dissent filed August 8, 2002, is also amended as reflected in the attached revised dissent.
+
+3
+With these amendments, Judges Hug and Farris voted to deny the petition for panel rehearing; Judge Silverman voted to grant the petition. Judge Silverman voted to deny the petition for rehearing en banc and Judges Hug and Farris so recommended.
+
+4
+The full court was advised of the petition for rehearing en banc. A judge requested a vote on whether to rehear the matter en banc. The matter failed to receive a majority of the votes of the nonrecused active judges in favor of en banc consideration. Fed. R.App. P. 35.
+
+5
+The petition for panel rehearing and the petition for rehearing en banc are denied.
+
+6
+KLEINFELD, Circuit Judge, with whom Circuit Judges O'SCANNLAIN, T.G. NELSON, and TALLMAN join, dissenting from denial of rehearing en banc:
+
+7
+The panel granted a 28 U.S.C. § 2254 habeas petition on the ground that defense counsel's closing argument fell below the Strickland1 standard.
+
+8
+The panel has given lip service to the statutory habeas standard but hasn't followed it. The opinion gives inadequate deference both to the constitutional analysis of the Court of Appeal of the State of California and to the judgments of defense counsel about how best to argue for his client.
+
+9
+As Judge Silverman correctly pointed out in dissent, the law requires not only that counsel's performance was deficient and that the deficiency was prejudicial, but also that the state court of appeal's decision to the contrary was "objectively unreasonable," all the while "indulg[ing] a strong presumption that counsel's conduct falls within the wide range of reasonable professional assistance."2 The majority declared the state court's opinion was unreasonable, but made no attempt to show why. The only question we have jurisdiction to answer is whether the state court's opinion was "contrary to, or involved an unreasonable application of, clearly established Federal law, as determined by the Supreme Court of the United States."3 An ipse dixit just isn't enough.
+
+10
+As the Supreme Court recently pointed out, "[t]his readiness to attribute error is inconsistent with the presumption that state courts know and follow the law."4 The majority makes precisely the error that another recent Supreme Court per curiam summary reversal pointed out, in that it "evaded" § 2254(d)'s requirement by "proceeding to a simple `error' inquiry."5 The state judges take the same oath we do, to support the United States Constitution,6 and they get reviewed by the same court we do, the United States Supreme Court, so the habeas statute quite reasonably prohibits us from substituting our judgment for theirs. Moreover, the Supreme Court has reminded federal courts in the strongest language of our duty to read the state court decisions with the deference appropriate and required by law.
+
+11
+There's no Supreme Court decision upon which the majority relies except for Strickland.7 The majority opinion doesn't quote the state court's Strickland-Cronic8 analysis and try to show that it is unreasonable.
+
+12
+Nor can I make sense of why the majority opines that the state court decision on prejudice is unreasonable. A building security officer testified that he saw Gentry stab his girlfriend Handy, Handy was indeed stabbed, and Gentry admitted that he stabbed her — a "caught red-handed" sort of case. Though he had a long record of serious, violent crimes, Gentry said he'd stabbed her accidentally. That was his defense. The note-worthy feature of counsel's performance is that by showing that the witnesses all told their stories in varying ways on different occasions, he managed to plant enough doubt to keep the jury out for six hours instead of six minutes.
+
+13
+The majority characterizes defense counsel's argument as "passive" and "meek," but without being in the courtroom, observing him through trial, and hearing his tone of voice, there's no basis for this. The trial judge, who was there, said he did "a highly competent job" but "there wasn't all that much that could be done for Mr. Gentry" in view of "the factual evidence."9
+
+14
+The majority faults counsel because "he mentioned a host of details that hurt his client's position," but it has long been understood to be desirable for defense counsel to "meet head on any key facts that are unfavorable to his cause," "face up to [defendant's] defects," and as an overall strategy to get the jury to listen to him, to "use candor and sincerity."10 Lawyers are going to be chary of applying this tried and true (and desirable) strategy after they read the majority opinion deeming it below the minimal Strickland standard. Apparently they have to bluff their way through oral argument as though the jury didn't know anything about the evidence they just heard.
+
+15
+The majority faults defense counsel's argument about the security guard, but concedes that counsel pointed out the darkness that might have impaired the security officer's view, and that his three descriptions of what he saw were not the same. Since what the security guard said he saw was Gentry stabbing his girlfriend, she was in fact stabbed, and Gentry admitted stabbing her, I can't figure out what else the majority would have defense counsel do about the guard's testimony. The majority doesn't say. Defense lawyers are going to wonder whether they now have to destroy the credibility of whatever arguments they can make with a straight face by dwelling on attacks on testimony that is the admitted truth.
+
+16
+I doubt that counsel could have kept the jury out for six hours on this lead pipe cinch of a case had counsel not established his credibility by conceding the bad parts, and using the drug-addled condition of Gentry and his girlfriend to argue reasonable doubt. He did so in a way that didn't insult the jury's intelligence. His phrasing that the majority disapproves of, such as "I don't know what happened," obviously meant in context "you don't know what happened." This rhetoric sugar-coated the pill of suggesting that the jury didn't know what happened in so plain a case by attributing ignorance (and therefore reasonable doubt) to himself and only implying the ignorance of the jurors.
+
+17
+Defense counsel are now going to be concerned about making this very common sort of reasonable doubt argument. But it's often all they've got. As some public defenders like to say, "A reasonable doubt for a reasonable price." When the criminal justice system works properly (defense counsel perform the noble duty of causing it to work properly in a much higher percentage of cases), they should not be defending many innocent clients, because prosecutors ought to be filtering out of the system cases that can't be proved beyond a reasonable doubt.11 That necessarily implies that in many cases, defense counsel doesn't have much to work with.
+
+18
+I am especially concerned about this case, not only because it flies in the face of what the Supreme Court has told us to do, but also because it has the potential to damage the quality of criminal defense in our circuit. We're de-fanging defense counsel, by limiting flexibility in closing argument, particularly by limiting the techniques counsel can use to establish personal credibility and argue reasonable doubt. The panel majority would treat Clarence Darrow's successful closing argument in the Leopold and Loeb case as deficient under Strickland, had he lost, because he conceded that his clients were bad people for whom the death penalty would be merciful: "I do not know how much salvage there is in these two boys. I hate to say it in their presence, but what is there to look forward to? I do not know but what your Honor would be merciful if you tied a rope around their necks and let them die; merciful to them, but not merciful to civilization, and not merciful to those who would be left behind ... I will be honest with this court as I have tried to be from the beginning. I know that these boys are not fit to be at large."12
+
+19
+This case is part of a developing body of circuit law substituting our judgment on defense tactics and presentation for the judgment of defense counsel and of state courts. Most often this occurs in death penalty cases, but the trend is seeping beyond them to more routine cases such as this one. The last thing criminal defendants and the public need is a Ninth Circuit "form book" of approved arguments and strategies, yet that's what we're giving them. We're telling them in great detail how to investigate their cases and forcing them down rabbit tracks that divert their time from better applications, that they have to produce psychiatric evidence though often it's a bad idea, that they have to make an "Officer Krupke" argument13 even where it will produce the same mocking response as it did in the song.14 Now they apparently have to make, and refrain from making, arguments according to what we held in Gentry, regardless of what they think will most likely persuade the jury to consider seriously whether there is a reasonable doubt.15
+
+20
+This growing body of law is a very bad idea. We ought to have more respect for the dedicated lawyers who defend criminal cases, and respect the judgments and instincts they apply in light of much greater knowledge of their clients and cases than we have. And we ought to have more respect for the considered judgments of our equally learned counterparts on the state courts. Our legal duty under section 2254 and the controlling Supreme Court decisions demands this deference. So does the wise and fair administration of justice.
+
+21
+When criminal defense lawyers shape and present their cases, they ought to be thinking about the jury. They shouldn't be reading their office form book of approved and disapproved Ninth Circuit defense techniques. They should be paying full attention to the jury, not looking over their shoulders at us.
+
+Notes:
+
+1
+Strickland v. Washington, 466 U.S. 668, 104 S.Ct. 2052, 80 L.Ed.2d 674 (1984).
+
+2
+Bell v. Cone, 535 U.S. 685, 122 S.Ct. 1843, 1854, 152 L.Ed.2d 914 (2002) (internal quotation omitted).
+
+3
+28 U.S.C. § 2254(d)
+
+4
+Woodford v. Visciotti, ___ U.S. ___, ___, 123 S.Ct. 357, 360, 154 L.Ed.2d 279 (2002).
+
+5
+Early v. Packer, ___ U.S. ___, ___, 123 S.Ct. 362, 366, 154 L.Ed.2d 263 (2002).
+
+6
+U.S. Const. Art VI
+
+7
+Strickland v. Washington, 466 U.S. 668, 104 S.Ct. 2052, 80 L.Ed.2d 674 (1984).
+
+8
+United States v. Cronic, 466 U.S. 648, 104 S.Ct. 2039, 80 L.Ed.2d 657 (1984).
+
+9
+People v. Gentry, No. B094949, slip op. at 8 n. 4 (Cal.Ct.App. Jan. 9, 1997).
+
+10
+F. LEE BAILEY & HENRY B. ROTHBLATT,Successful Techniques for Criminal Trials §§ 284, 289, 317 (1971).
+
+11
+See, e.g., UNITED STATES ATTORNEYS' MANUAL 9-27.220(A), providing an internal administrative practice for United States Attorneys of declining prosecution, even where there is probable cause, unless "the admissible evidence will probably be sufficient to obtain and sustain a conviction," that is, that it will establish guilt beyond a reasonable doubt.
+
+12
+Clarence S. Darrow,Closing Argument for the Defense in the Leopold-Loeb Murder Trial, in FAMOUS AMERICAN JURY SPEECHES 1086 (Frederick C. Hicks ed., Legal Classics Library 1989) (1925).
+
+13
+"Dear kindly Sergeant Krupke, / You gotta understand, / It's just our bringin' up-ke / That gets us out of hand. / Our mothers all are junkies, / Our fathers all are drunks. /Golly Moses, natcherly we're punks!
+
+Gee, Officer Krupke, we're very upset; / We never had the love that ev'ry child oughta get. / We ain't no delinquents, / We're misunderstood. /Deep down inside us there is good!" STEPHEN SONDHEIM, Gee, Officer Krupke, in WEST SIDE STORY (1956), available at http://www.westsidestory.com/site/level2/lyrics/krupke.html (last visited, Jan. 9, 2003).
+
+14
+Id ("Officer Krupke, you've done it again. / This boy don't need a job, he needs a year in the pen. / It ain't just a question of misunderstood; / Deep down inside him, he's no good!")
+
+15
+See, e.g., Rios v. Rocha, 299 F.3d 796 (9th Cir.2002) (counsel interviewed his client and a witness before choosing a defense strategy but should have interviewed more witnesses); Jennings v. Woodford, 290 F.3d 1006 (9th Cir. 2002) (counsel should investigate the possibility of an insanity defense even though pursuing an alibi defense); Karis v. Calderon, 283 F.3d 1117 (9th Cir.2002) (counsel must put on evidence of an abusive childhood); Turner v. Calderon, 281 F.3d 851 (9th Cir.2002) (counsel should present evidence of drug use and "difficult childhood"); Phillips v. Woodford, 267 F.3d 966 (9th Cir.2001) (counsel must investigate a theory of defense that contradicts what his client has told him); Caro v. Calderon, 165 F.3d 1223 (9th Cir.1999) (counsel must present a brain damage from pesticides theory even if the medical experts he consults do not suggest it).
+
+OPINION
+
+FARRIS, Circuit Judge:
+
+22
+We are asked to decide whether the California Court of Appeal's decision that petitioner Lionel Gentry did not receive ineffective assistance of counsel during closing argument was an objectively unreasonable application of federal law. It was. Trial counsel's election to ignore evidence in the record that helped his client and to highlight record and non-record evidence that hurt his client cannot be defended as non-prejudicial "trial strategy." We therefore reverse his conviction with instructions to grant the writ of habeas corpus unless the State chooses to retry Gentry.
+
+23
+* There is no question that on April 30, 1994, Lionel Gentry stabbed his girlfriend Tanaysha Handy. The issue was whether he did so intentionally or accidentally.
+
+A. The Prosecution's Case
+
+24
+For a year and a half preceding the stabbing, Gentry and Handy lived together as boyfriend and girlfriend. At trial, Handy testified that on the fateful day she smoked crack cocaine and later went with Gentry to her aunt's apartment. Once there, she and her aunt smoked cocaine. She then departed for another apartment in the building, a "crack house," where she smoked more cocaine and drank liquor. Later that night, Gentry came to get her, they argued, and at some point she was stabbed. Handy could not remember the details of what happened.
+
+25
+Faced with her inability to recall the events of April 30th, the prosecution showed Handy her preliminary hearing testimony. Although Handy recalled testifying at the preliminary hearing, she couldn't remember most of the answers reflected in the transcript, including the events surrounding the stabbing. At the preliminary hearing, Handy testified that Gentry had placed his hand around her throat and later stabbed her twice, the second stab wound landing a few inches away from the first wound. At trial, Handy testified that Gentry never grabbed her, but recalled being stabbed twice.
+
+26
+The surgeon who operated on Handy testified that she had suffered a one-inch stab wound laceration to the left lateral chest area. The surgeon specifically noted that Handy received a single stab wound.
+
+27
+The prosecution's other witness was Albert Williams, a security guard working at a neighboring building. He testified that, at about 9:45 p.m., his attention was drawn to the nearby building when he heard a man and woman arguing. Williams and his partner Pedro looked out the window of their third-floor office from where they could see Gentry and Handy as well as another man about 15 feet ahead of the couple. Although he testified at the preliminary hearing that it was "pretty dark," Williams testified at trial that it was "getting dark" and "it wasn't that dark." Upon redirect examination, he said that the area where the stabbing took place was "lighted up."
+
+28
+Williams testified that he saw Gentry swing his hand into Handy with an object, hitting her left side, and that she leaned forward and screamed. He saw Gentry "grab[ ] her from falling to the floor." He then witnessed Handy try to push him away while grabbing for the unidentified object in Gentry's hand. At about this time, the second, unidentified man left Williams' field of vision.
+
+29
+After the stabbing, Williams and his partner Pedro left the third-floor landing of their building, went down two flights of stairs to the first floor, and jumped a six-foot-high gate to assist Handy. He found the couple struggling over the knife. Williams heard Gentry and Handy saying things to one another but could not remember what they said. Williams and his partner Pedro intervened and subdued Gentry. Gentry never tried to run away and never punched at Williams or Pedro. Instead, Gentry kept trying to get back to Handy, saying, "she's my girlfriend."
+
+B. The Defense Case
+
+30
+The defense case consisted entirely of Gentry's testimony. According to Gentry, at about 10 p.m., he went looking for Handy within her aunt's building. He found her getting high in a first-floor apartment "crack house." To get to that apartment, Gentry had to pass through a gate, but because he did not have a key, he used a knife from the aunt's apartment to open the lock. When he entered the apartment, Handy was in a back room with another man. Gentry and Handy began arguing and left the apartment, to be followed by a dope dealer. As they were walking down the alleyway between buildings, Gentry and the other man, the dope dealer, got into a physical altercation. Handy tried to intervene several times by grabbing Gentry; he repeatedly pushed her away. At some point, Gentry threatened the dope dealer with the knife and when Handy tried to intervene again, he pushed her away with his right hand, which carried the knife, and accidentally stabbed her. The dope dealer then ran off.
+
+31
+At first, Gentry neither realized nor believed that he had stabbed Handy, but once he figured out what had happened, he tried to help her. Williams and his partner then arrived on the scene and told him to back away from Handy. Gentry refused, repeatedly saying "that's my woman," until finally he was handcuffed by Williams and Pedro. Gentry testified that he never intended to stab Handy.
+
+32
+After Gentry testified about the stabbing, defense counsel asked about Gentry's prior convictions. Gentry testified that he had been convicted only once, though he had clearly been convicted previously of burglary, grand theft, battery on a police officer, and being a felon in possession of a firearm. On direct examination, he expressed confusion over whether the term "conviction" covered "plea bargains." On cross-examination, he was impeached by the prosecution's serial recitation of his prior convictions, all of which he acknowledged in open court while still expressing confusion over whether "conviction" covered cases for which he pleaded guilty and did not receive jail time.
+
+C. Closing Arguments
+
+33
+In her closing argument, the prosecutor zealously advocated for a guilty verdict. She expressed sympathy for Handy and her unfortunate circumstances — the fact that Handy was a pregnant drug-addict with three children — and argued that Handy's preliminary hearing testimony should be believed despite her protestations at trial that she could not remember what had happened. The prosecutor then argued that Gentry's testimony was "a pack of lies," and that the testimony of eye-witness Williams, who had no reason to lie, contradicted Gentry's version of the events.
+
+34
+In contrast, defense counsel's summation to the jury was casual and perfunctory. The argument in its entirety was as follows:
+
+35
+I don't have a lot to say today. Just once I'd like to find a prosecutor that doesn't know exactly what happened. Just once I'd like to find a D.A. that wasn't there and that can tell and they can stand up here and be honest and say I don't know who is lying and who is not `cause she wasn't there, ladies and gentlemen. [I] wasn't there. None of the 12 of you were there. None of the other people in this courtroom were there except those two people and that one guy who saw parts of it, or saw it all. Pretty dark. Dark. It was light.
+
+36
+Those are the three versions of his testimony with regard to what he saw and what he saw. I don't know what happened. I can't tell you. And if I sit here and try to tell you what happened, I'm lying to you. I don't know. I wasn't there. I don't have to judge. I don't have to decide. You heard the testimony come from the truth chair. You heard people testify. You heard good things that made you feel good. You heard bad things that made you feel bad.
+
+37
+I don't care that Tanaysha is pregnant. I don't care that she has three children. I don't know why that had to be brought out in closing. What does that have to do with this case? She was stabbed.
+
+38
+The question is, did he intend to stab her? He said he did it by accident. If he's lying and you think he's lying then you have to convict him. If you don't think he's lying, bad person, lousy drug addict, stinking thief, jail bird, all that to the contrary, he's not guilty. It's as simple as that. I don't care if he's been in prison. And for the sake of this thing you ought not care because that doesn't have anything to do with what happened on April 30th, 1994.
+
+39
+He doesn't know whether or not he's been convicted. Didn't understand the term conviction. That is not inconsistent with this whole thing of being spoken and doing all this other crime stuff as opposed to going to school. I don't know. I can't judge the man. The reason that they bring 12 jurors from all different walks of life, let them sit here and listen to people testify, and the reason that the court will give you instructions with regard to not having your life experience, leaving it at the door, is because you can't just assume that because a guy has done a bunch of bad things that he's now done this thing.
+
+40
+I don't know if thievery and stabbing your girlfriend are all in the same pot. I don't know if just because of the fact that you stole some things in the past that means you must have stabbed your girlfriend. That sounds like a jump to me, but that's just [me]. I'm not one of the 12 over there.
+
+41
+All I ask you to do is to look at the evidence and listen to everything you've heard and then make a decision. Good decision or bad decision, it's still a decision. I would like all 12 of you to agree; but if you don't, I can't do anything about that either.
+
+42
+You heard everything just like all of us have heard it. I don't know who's lying. I don't know if anybody is lying. And for someone to stand here and tell you that they think someone is lying and that they know that lying goes on, ladies and gentlemen, if that person was on the witness stand I'd be objecting that they don't have foundation because they weren't there. And that's true. The defense attorney and the prosecutor, no different than 12 of you.
+
+43
+So I'd ask you to listen to what you've heard when you go back, ask you to take some time to think about it, and be sure that's what you want to do, then come out and do it.
+
+44
+Thank you.
+
+45
+In her rebuttal argument, the prosecutor capitalized on the weakness of defense counsel's summation. She pointed out that, despite defense counsel's suggestion to the contrary, the jury could and should decide who was lying and who was telling the truth, as is consistent with the concept of a trial by jury. She then repeated that Williams' testimony was believable, dispositive, and clearly contradicted Gentry's testimony.
+
+46
+The jury deliberated for about six hours before finding Gentry guilty of assault with a deadly weapon in violation of California Penal Code §§ 254(A)(1) and 12022.7(a). Due to his prior convictions, Gentry was sentenced to 39 years to life. On direct appeal, Gentry argued that his attorney had rendered ineffective assistance by, in closing argument, failing to present a defense and making disparaging remarks about Gentry. The California Court of Appeal affirmed his conviction and sentence, and the California Supreme Court denied his petition for review.
+
+47
+Gentry then petitioned for a writ of habeas corpus in the district court. The magistrate judge issued a report and recommendation recommending dismissal of the petition with prejudice. The district court adopted the R & R and dismissed the petition. Gentry then appealed.
+
+48
+We granted a Certificate of Appealability limited to the issue of whether defense counsel's summation violated Gentry's Sixth Amendment right to effective assistance of counsel.
+
+II
+
+49
+We review de novo the district court's denial of Gentry's 28 U.S.C. § 2254 habeas petition. See Shackleford v. Hubbard, 234 F.3d 1072, 1077 (9th Cir.2000). A federal court may grant a writ of habeas to a state prisoner only if the state court's rulings "resulted in a decision that was contrary to, or involved an unreasonable application of, clearly established Federal law, as determined by the Supreme Court of the United States," or were "based on an unreasonable determination of the facts in light of the evidence presented in the state courts." 28 U.S.C. § 2254(d). "[I]t is not enough that the defendant convinces the federal court that, in its independent judgment, the state-court decision" applied the law incorrectly. Bell v. Cone, 535 U.S. 685, 122 S.Ct. 1843, 1852, 152 L.Ed.2d 914 (2002). Rather, to warrant habeas relief, the defendant must show that the state court applied federal law to the facts of his case in an "objectively unreasonable manner." Id.
+
+50
+The California Court of Appeal deemed trial counsel's closing argument to be an exercise of sound trial strategy that did not prejudice the outcome. We find that conclusion to be not only incorrect, but also to be an objectively unreasonable application of federal law.
+
+III
+
+51
+Before reaching the merits, we ask the threshold question of whether the nonretroactivity principle of Teague v. Lane, 489 U.S. 288, 109 S.Ct. 1060, 103 L.Ed.2d 334 (1989), prevents us from granting habeas corpus relief based on a new constitutional rule announced after Gentry's conviction and sentence became final. See Horn v. Banks, 536 U.S. 266, 122 S.Ct. 2147, 2150, 153 L.Ed.2d 301 (2002); Caspari v. Bohlen, 510 U.S. 383, 389, 114 S.Ct. 948, 127 L.Ed.2d 236 (1994). We find that a state court considering Gentry's claim at the time his conviction became final would have felt compelled by existing precedent to conclude that the rule he seeks to apply here — the Sixth Amendment right to effective assistance of counsel — was required by the Constitution. See Caspari, 510 U.S. at 390, 114 S.Ct. 948 (1994). Indeed, the California Court of Appeal explicitly examined this claim.
+
+52
+To prevail on a claim of ineffective assistance of counsel, Gentry must show both that counsel's performance was deficient, and that the deficient performance prejudiced the defense.1 See Strickland v. Washington, 466 U.S. 668, 687, 104 S.Ct. 2052, 80 L.Ed.2d 674 (1984); Visciotti v. Woodford, 288 F.3d 1097, 1105 (9th Cir.2002). When considering whether counsel's performance was deficient, we are highly deferential to counsel's performance, indulging a presumption that "under the circumstances, the challenged action might be considered sound trial strategy." Bell, 122 S.Ct. at 1852 (internal quotations omitted). To show prejudice, Gentry must show that "there is a reasonable probability that, but for counsel's unprofessional errors, the result of the proceeding would have been different." Id. (quoting Strickland, 466 U.S. at 694, 104 S.Ct. 2052).
+
+A. Deficient Performance
+
+53
+Gentry "must show that counsel's representation fell below an objective standard of reasonableness." Strickland, 466 U.S. at 688, 104 S.Ct. 2052. The California Court of Appeal determined that the performance of Gentry's counsel was not deficient, reasoning that he "addressed pertinent issues of the case, including the reliability of Williams's testimony, whether [Gentry] intended to stab Ha[n]dy, and the significance of the prior impeachment evidence." That conclusion is objectively unreasonable.
+
+54
+What is most striking about trial counsel's closing argument is that he mentioned a host of details that hurt his client's position, none of which mattered as a matter of law, while at the same time failing to mention those things that did matter, all of which would have helped his client's position. Instead of asking the jury to acquit his client, he made only a passive request for it to reach some verdict. Although he told the jury that the case hinged on Gentry's credibility, trial counsel's assertions that he did not know "what happened" or "who is lying" implied that even he did not believe Gentry's testimony. He referred to Gentry as a "bad person, lousy drug addict, stinking thief, jail bird." He didn't discuss Handy's unreliable testimony, the relevance of Williams' inability to see the stabbing clearly on the issue of intent, the consistencies between Williams' and Gentry's testimony, the government's failure to produce Williams' partner "Pedro" who was purportedly a disinterested witness, and the fact that a one-inch deep wound inflicted by a six-inch knife would be consistent with an accidental stabbing if Handy was flimsily clad. Beyond the meek, personal statement "I don't know what happened," trial counsel did not even argue that the government had failed to meet its burden of proving beyond a reasonable doubt that Gentry intended to stab Handy.
+
+55
+The prosecution's case hinged on (1) the jury believing Handy's preliminary hearing testimony and disbelieving her trial testimony, and (2) the jury accepting that Williams' testimony contradicted Gentry's testimony and indicated Gentry's intent to stab Handy. Defense counsel never discussed Handy's testimony, instead choosing to react to the prosecutor's expression of sympathy to the victim by noting, "I don't care that Tanaysha is pregnant. I don't care that she has three children.... What does that have to do with this case?" His sole reference to Williams' testimony was "Pretty dark. Dark. It was light. Those are the three versions of his testimony with regard to what he saw and what he saw."
+
+56
+Trifling comments about inconsequential aspects of the case cannot be excused as trial strategy. At trial, Handy testified that at the time of her stabbing, she had been using crack cocaine "24 hours a day" for more than five years. She had also smoked "a lot" of crack in the early morning hours on the day of the preliminary hearing and was feeling its effects when she testified. She acknowledged that when she is high, she sees "weird things," including ghosts. She testified at trial and at the preliminary hearing that she was stabbed twice when there is no question she was stabbed only once. In closing argument, defense counsel mentioned none of this.
+
+57
+Williams' testimony is not inconsistent with an accidental stabbing. From the third floor of a neighboring building, Williams witnessed Gentry strike Handy with an object later found to be a knife. Williams testified that after he ran downstairs and hopped over a fence, all three of them struggled over the knife, but when the knife fell to the ground, Gentry didn't try to retrieve it, he kept moving toward Handy while saying again and again, "she's my girlfriend." Williams' testimony about the lighting is important, but only to the extent to which it casts doubt on the conclusion that Gentry stabbed Handy intentionally. Trial counsel's only comment on any part of Williams' testimony was "[t]hose are the three versions of his testimony with regard to what he saw and what he saw." Such statements qualify, at best, as passive recitations of facts, not as argumentation.
+
+58
+Gentry's version of the events is not, of course, the only one worthy of credence. Far from it. The record shows that at trial he was at times agitated, confused, and evasive. He demonstrated the stabbing by inappropriately touching the prosecutor. He may have deliberately lied about his past convictions, though it is impossible to discern why he would do so, especially when the first questions about them were posed by his counsel. Little of Gentry's testimony may, in fact, be true, even in light of the evidence suggesting the possible defense of accident. But none of this alters trial counsel's duty to meet an objective standard of reasonableness in representing his client during closing argument. See, e.g., United States v. Swanson, 943 F.2d 1070 (9th Cir.1991) (finding defense counsel's representation to be deficient where he conceded in closing argument that no reasonable doubt existed and proceeded to discuss the importance of the judicial system).
+
+59
+Closing argument is not simply a pro forma aspect of the criminal case, but an essential one:
+
+60
+[C]losing argument serves to sharpen and clarify the issues for resolution by the trier of fact in a criminal case. For it is only after all the evidence is in that counsel for the parties are in a position to present their respective versions of the case as a whole. Only then can they argue the inferences to be drawn from all the testimony, and point out the weaknesses of their adversaries' positions. And for the defense, closing argument is the last clear chance to persuade the trier of fact there may be reasonable doubt of the defendant's guilt....
+
+61
+.... In a criminal trial, which is in the end basically a factfinding process, no aspect of such advocacy could be more important than the opportunity finally to marshal the evidence for each side before submission of the case to judgment.
+
+62
+Herring v. New York, 422 U.S. 853, 862, 95 S.Ct. 2550, 45 L.Ed.2d 593 (1975). The perfunctory and ineffectual closing argument by Gentry's trial counsel constituted deficient representation. The California Court of Appeal's decision to the contrary was unreasonable.
+
+B. Prejudicial Effect
+
+63
+To demonstrate prejudice, Gentry bears the burden of showing a reasonable probability that, but for trial counsel's unprofessional errors, the result of the proceeding would have been different. Strickland, 466 U.S. at 688, 104 S.Ct. 2052. "A `reasonable probability' is less than a preponderance:[t]he result of a proceeding can be rendered unreliable, and hence the proceeding itself unfair, even if the errors of counsel cannot be shown by a preponderance of the evidence to have determined the outcome." Visciotti, 288 F.3d at 1108(quoting Strickland, 466 U.S. at 694, 104 S.Ct. 2052).
+
+64
+The California Court of Appeal found there to be "overwhelming evidence of [Gentry's] guilt." We disagree. The sole question is one of intent. The most damning evidence of intent was Handy's preliminary hearing testimony that Gentry grabbed her throat before stabbing her twice, testimony given under the influence of crack cocaine, later disavowed, and shown to be inconsistent with the physical evidence of a single stab wound. The other circumstantial evidence was Williams' testimony that Gentry and Handy struggled over a knife, an object that was later dropped and ignored in Gentry's attempt to get closer to his girlfriend.
+
+65
+The jury was presented with an ineffectual closing argument by defense counsel that failed to address the only aspects of the case that mattered. Nevertheless, the jury deliberated for six hours before returning a verdict. We find there to be a reasonable probability that the result of the trial would have been different in the absence of trial counsel's deficient performance during closing argument. The California Court of Appeal's decision to the contrary was unreasonable.2
+
+IV
+
+66
+Trial counsel's rambling, perfunctory closing argument violated petitioner Lionel Gentry's Sixth Amendment right to effective assistance of counsel. The California Court of Appeal's decision to the contrary was an objectively unreasonable application of federal law. We reverse the district court's denial of a writ of habeas corpus, vacate Gentry's conviction, and remand to the district court with instructions to grant the petition for a writ of habeas corpus unless the State within a reasonable period grants a new trial.
+
+67
+REVERSED AND REMANDED WITH INSTRUCTIONS.
+
+Notes:
+
+1
+At oral argument, Gentry conceded that the Supreme Court's recent decision inBell v. Cone, 535 U.S. 685, 122 S.Ct. 1843, 152 L.Ed.2d 914 (2002), made it clear that Strickland's requirement that a defendant show both a deficiency and prejudice applies to the circumstances presented here. We therefore do not address his abandoned argument that prejudice should be presumed in accordance with United States v. Cronic, 466 U.S. 648, 104 S.Ct. 2039, 80 L.Ed.2d 657 (1984).
+
+2
+My brother in dissent focuses so strongly on the language of the holding inBell v. Cone, 535 U.S. 685, 122 S.Ct. 1843, 152 L.Ed.2d 914 (2002) that he overlooks its rationale. Bell concerned a defense attorney's failure to give a closing argument in the penalty phase of a capital trial. The Supreme Court rejected the defendant's claim that this constituted presumptively prejudicial ineffective assistance of counsel under United States v. Cronic, 466 U.S. 648, 104 S.Ct. 2039, 80 L.Ed.2d 657 (1984). Instead, it held that the attorney's waiver of summation had to be evaluated under the standard two-prong Strickland test. Bell, 122 S.Ct. at 1850-52.
+
+When the Supreme Court applied Strickland to the particular facts in Bell, it noted that the defense presented considerable mitigating evidence to the jury during the guilt phase. Defense counsel highlighted this evidence in his opening statement to the jury at the penalty phase. Afterwards, the prosecution failed to put on any particularly dramatic or impressive aggravating evidence. Then, when the junior prosecutor delivered a "lowkey" closing that did not dwell on any of the horribly brutal aspects of the defendant's senseless murder of two elderly people in their home, defense counsel faced a strategic choice: he could present a closing that would repeat for the jury the mitigating evidence already discussed in his opening statement, but that would give the lead prosecutor (who all agreed was "very persuasive") the chance to present a compelling rebuttal argument to the jury portraying the defendant as a heartless killer; or he could prevent the lead prosecutor from giving such an argument by waiving his own summation and relying on the jury's recollection of the opening defense statement he made just a few hours earlier. The Supreme Court held that neither option so clearly outweighed the other that it was objectively unreasonable for the state court to categorize counsel's choice to waive argument as a valid tactical decision. Bell, 122 S.Ct. at 1852-54.
+
+SILVERMAN, Circuit Judge, dissenting:
+
+68
+The sole question before us is whether the California Court of Appeal's decision was an unreasonable application of clearly established federal law as determined by the Supreme Court of the United States. Despite this, my colleagues in the majority say virtually nothing about the decision or reasoning of the California Court of Appeal. Rather, they analyze this case as if they were reviewing a direct appeal of a federal criminal trial, instead of the denial of habeas relief to a state prisoner under § 2254.
+
+69
+It makes a big difference. Federal habeas relief is not available simply because a federal court concludes "that the relevant state-court decision applied clearly established federal law erroneously or incorrectly. Rather, that application must also be unreasonable." Williams v. Taylor, 529 U.S. 362, 411, 120 S.Ct. 1495, 146 L.Ed.2d 389 (2000).
+
+70
+The California Court of Appeal examined defense counsel's closing argument. It pointed out that counsel "argued that he had never found a prosecutor who did not claim to know what had happened in a case, but urged the prosecutor was not present at the incident." The court noted that counsel "commented on Williams's various versions of his testimony" and that counsel "urged that the question was whether appellant intended to stab Handy." The California Court of Appeal noted that counsel argued that the jury must not assume that his client was guilty just because he had a prior record. It then said:
+
+71
+It is settled that "[t]he effectiveness of an advocate's oral presentation is difficult to judge from a written transcript, and the length of an argument is not a sound measure of its quality." (People v. Cudjo, (1993) 6 Cal.4th 585, 634-635, 25 Cal.Rptr.2d 390, 863 P.2d 635.) We have noted above portions of appellant's counsel's argument which addressed pertinent issues of appellant's case, including the reliability of Williams's testimony, whether appellant intended to stab [Handy], and the significance of the prior conviction impeachment evidence. Based on that, the entirety of counsel's argument, and the overwhelming evidence of guilt, we conclude appellant was not denied his constitutional right to effective assistance of counsel. [Citations omitted.] None of the cases cited by appellant compels a contrary conclusion. [Footnote 5:] This includes U.S. v. Cronic (1984) 466 U.S. 648, 104 S.Ct. 2039, 80 L.Ed.2d 657 ... since, based on the above, counsel did not "entirely fail[ ]" to subject the prosecution's case to meaningful adversarial test.
+
+72
+Judges might agree or disagree with that analysis, but it is difficult to see how it can be said to be unreasonable, especially in light of Bell v. Cone, 535 U.S. 685, 122 S.Ct. 1843, 152 L.Ed.2d 914 (2002). In Bell, a death penalty case, defense counsel made no closing argument whatsoever. In upholding the denial of habeas relief, the Court said:
+
+73
+For respondent to succeed, however, he must do more than show that he would have satisfied Strickland's test if his claim were being analyzed in the first instance, because under § 2254(d)(1), it is not enough to convince a federal habeas court that, in its independent judgment, the state-court decision applied Strickland incorrectly. Rather, he must show that the Tennessee Court of Appeals applied Strickland to the facts of his case in an objectively unreasonable manner. This, we conclude, he cannot do.
+
+74
+* * *
+
+75
+Respondent also focuses on counsel's decision to waive final argument. He points out that counsel could have explained the significance of his Bronze Star decoration and argues that his counsel's failure to advocate for life in closing necessarily left the jury with the impression that he deserved to die. The Court of Appeals "rejected out of hand" the idea that waiving summation could ever be considered sound trial strategy. 243 F.3d, at 979. In this case, we think at the very least that the state court's contrary assessment was not "unreasonable."
+
+76
+122 S.Ct. at 1852, 1853-54 (citations omitted).
+
+77
+The Court also took the opportunity to reiterate the caution it issued in Strickland. Said the Bell Court:
+
+78
+[A] court must indulge a strong presumption that counsel's conduct falls within the wide range of reasonable professional assistance because it is all too easy to conclude that a particular act or omission of counsel was unreasonable in the harsh light of hindsight.
+
+79
+Id. at 1854.
+
+80
+After Bell, there is simply no way that the California Court of Appeal decision can be characterized as so off-the-wall as to be unreasonable. To reiterate, the Court of Appeal correctly noted that counsel had identified the sole issue (was the stabbing an accident?), linked his client's testimony to that issue, pointed out inconsistencies in the prosecution witnesses' testimony, and attempted to deal with the very unfavorable fact that his client's testimony had been severely impeached with several prior felony convictions, some of which he initially denied.
+
+81
+My colleagues in the majority have pointed out various things that counsel could have argued but didn't, and things that counsel did in fact say that could have been said better. The same can be said of any closing argument. The majority points out that counsel didn't argue that the stab wound to the chest was "only" one-inch deep. That fact is not nearly as significant as the majority seems to think. What matters is that petitioner did not inflict a superficial scratch. To the contrary, the evidence showed that the stab wound Handy received occasioned a great loss of blood and required two-hours of emergency surgery by a vascular surgeon. Counsel's decision not to draw the jury's attention to the magnitude of the victim's wound is entitled to a "strong presumption that counsel's conduct falls within the wide range of reasonable professional assistance." Bell, 122 S.Ct. at 1854.
+
+82
+What particularly sticks in the majority's craw is that in attempting to deal with the evidence of his client's bad prior record, defense counsel argued: "If you don't think he's lying — bad person, lousy drug addict, stinking thief, jail bird, all that to the contrary — he's not guilty. It's as simple as that. I don't care if he's been in prison. And for the sake of this thing you ought not care because that doesn't have anything to do with what happened on April 30th, 1994."
+
+83
+As Magistrate Judge Arthur Nakazato pointed out in his thorough Report and Recommendation, which was adopted by Judge Rafeedie, "The disparaging statements concerning petitioner ... and references to his criminal convictions were part of defense counsel's strategy to establish some degree of credibility with the jury by conceding his past acts, while simultaneously emphasizing that his bad character was irrelevant to the issue before the jury."
+
+84
+Ironically, the majority resorts to the same sort of rhetorical device when its says:
+
+85
+[Petitioner's] version of the events is not, of course, the only one worthy of credence. Far from it. The record shows that at trial he was agitated, confused, and evasive. He may have deliberately lied about his past convictions, though it is impossible to discern why he would do so, especially when the first questions about them were posed by his counsel. Little of [petitioner's] testimony may, in fact be true, even in the light of the evidence suggesting the possible defense of accident. But none of this alters trial counsel's duty to meet an objective standard of reasonableness in representing his client during closing argument.
+
+86
+Opinion at 901.
+
+87
+Perhaps other lawyers would have handled the knotty problem of petitioner's lengthy rap sheet differently — or, indeed, the entire argument differently. No matter. The only thing that does matter is whether the California Court of Appeal was unreasonable — not just wrong, but unreasonable — in ruling that petitioner was not denied effective assistance of counsel. Since counsel's closing argument was no worse than no-closing-argument-at-all, as occurred in the Supreme Court case of Bell v. Cone, it follows that the California Court of Appeal cannot be said to have unreasonably applied federal law as determined by the Supreme Court. Therefore, I respectfully dissent.
+
+CC∅ | Transformed by Public.Resource.Org

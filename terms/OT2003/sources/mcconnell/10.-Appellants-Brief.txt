@@ -1,0 +1,5369 @@
+A AUG 8 - 2003 
+
+
+No. 02-1674 et al. OFFICE OF THE CLERK | 
+
+
+IN THE 
+
+
+Supreme Court of the United States 
+
+
+SENATOR MITCH MCCONNELL ET AL., 
+Appellants/Cross-Appellees, 
+Ve 
+FEDERAL ELECTION COMMISSION ET AL., 
+
+
+Appellees/Cross-Appellants. 
+
+
+On Appeal From The United States 
+District Court For The District of Columbia 
+
+
+BRIEF FOR APPELLANTS/CROSS-APPELLEES 
+SENATOR MITCH McCONNELL ET AL. 
+(PAGE-PROOF VERSION) 
+
+
+FLOYD ABRAMS KENNETH W. STARR 
+SUSAN BUCKLEY Counsel of Record 
+BRIAN MARKLEY EDWARD W. WARREN 
+CAHILL GORDON & KANNON K. SHANMUGAM 
+
+REINDEL LLP KIRKLAND & ELLis LLP 
+80 Pine Street 655 Fifteenth Street, N.W. 
+New York, NY 10005 Washington, DC 20005 
+(212) 701-3000 (202) 879-5000 
+
+
+(additional counsel on inside cover) 
+
+
+July 8, 2003 
+
+
+WILSON-EPES PRINTING CO., INC. — (202) 789-0096 -— WASHINGTON, D. C. 20001 
+
+
+\\/ 
+
+
+\\ RN 
+
+
+KATHLEEN M. SULLIVAN 
+559 Nathan Abbott Way 
+Stanford, CA 94305 
+(650) 725-9875 
+
+
+VALLE SIMMS DUTCHER 
+
+L. LYNN HOGUE 
+
+SOUTHEASTERN LEGAL 
+FOUNDATION, INC. 
+
+
+3340 Peachtree Road, N.E. 
+
+
+Suite 3515 
+Atlanta, GA 30326 
+(404) 365-8500 
+
+
+JAN WITOLD BARAN 
+
+THOMAS W. KIRBY 
+
+LEE E. GOODMAN 
+
+WILEY, REIN & 
+FIELDING LLP 
+
+1776 K Street, N.W. 
+
+Washington, DC 20006 
+
+(202) 719-7000 
+
+
+G. HUNTER BATES 
+
+FROST BROWN TODD LLC 
+400 West Market Street 
+32nd Floor 
+
+Louisville, KY 40202 
+(502) 589-5400 
+
+
+wee 
+
+
+net. 
+— 
+
+
+* 
+a) 
+
+
+QUESTIONS PRESENTED 
+
+
+This brief will address the questions presented in No. 02- 
+1674, McConnell v. FEC; No. 02-1676, FEC v. McConnell; and 
+No. 02-1702, McCain v. McConnell. 
+
+
+The questions presented in No. 02-1674, McConnell v. FEC, 
+are as follows: 
+
+
+1. Whether the district court erred by upholding portions of 
+the “soft money” provision (section 101) of the Bipartisan 
+Campaign Reform Act of 2002 (BCRA), Pub. L. No. 107-155, 
+116 Stat. 81, because it constitutes an invalid exercise of 
+Congress’ power to regulate elections under Article I, Section 4, 
+of the Constitution; violates the First Amendment or the equal 
+protection component of the Fifth Amendment; or is 
+unconstitutionally vague. 
+
+
+2. Whether the district court erred by upholding portions of 
+the “electioneering communications” provisions (sections 203, 
+204, and 311) of BCRA, because they violate the First 
+Amendment or the equal protection component of the Fifth 
+Amendment, or are unconstitutionally vague. _ 
+
+
+3. Whether the district court erred by holding nonjusticiable 
+challenges to, and upholding, portions of the “advance notice” 
+provisions of BCRA (sections 201 and 212), because they 
+violate the First Amendment. 
+
+
+4. Whether the district court erred by holding nonjusticiable 
+challenges to, and upholding, the “coordination” provisions of 
+BCRA (sections 202, 211, and 214), because they violate the 
+First Amendment. 
+
+
+5. Whether the district court erred by holding nonjusticiable 
+challenges to, and upholding, the “attack ad” provision of 
+BCRA (section 305), because it violates the First Amendment. 
+
+
+The questions presented in No. 02-1676, FEC v. McConnell, 
+are as follows: 
+
+
+1. Whether the limitations on political parties imposed by 
+
+
+il 
+
+
+Section 101 of BCRA are constitutional. 
+
+
+2. Whether the funding limitations and disclosure 
+requirements imposed by Sections 201 and 203 of BCRA with 
+respect to “electioneering communications” are constitutional. 
+
+
+3. Whether the limitations imposed by Section 213 of 
+BCRA on coordinated expenditures by a political party 
+committee are constitutional. 
+
+
+4. Whether the prohibition imposed by Section 318 of 
+BCRA on contributions to federal candidates or political party 
+committees made by minors is constitutional. 
+
+
+5. Whether the reporting and record-keeping requirements 
+imposed on broadcast stations by Section 504 are constitutional. 
+
+
+The questions presented in No. 02-1702, McCain v. 
+McConnell, are as follows: 
+
+
+1. Whether the three-judge district court erred in 
+invalidating on First Amendment grounds the provision 
+addressing the raising, directing, transferring, and use of funds 
+by political parties, federal candidates, and federal officeholders 
+(BCRA § 101). 
+
+
+2. Whether the three-judge district court erred in 
+invalidating on First Amendment grounds the provisions 
+addressing the use of funds from corporate and labor union 
+general treasuries to finance broadcast advertisements that are 
+intended or likely to influence federal elections, and disclosure 
+
+
+requirements for all such broadcast advertisements (BCRA 
+§§ 201, 203, 204). 
+
+
+3. Whether the three-judge district court erred in 
+invalidating on First Amendment grounds the provision 
+addressing the ability of political parties to make both 
+“independent” and “coordinated” expenditures to support the 
+campaigns of candidates they have nominated to seek federal 
+office (BCRA § 213). 
+
+
+iil 
+
+
+PARTIES TO THE PROCEEDINGS 
+
+
+This brief is filed on behalf of the following plaintiffs below, 
+who are appellants in No. 02-1674 and cross-appellees in No. 
+02-1676 and No. 02-1702: Senator Mitch McConnell; 
+Southeastern Legal Foundation, Inc.; Representative Bob Barr; 
+Center for Individual Freedom; National Right to Work 
+Committee; 60 Plus Association, Inc.; U.S. d/b/a Pro English; 
+the National Association of Broadcasters; and Thomas E. 
+McInerney. 
+
+
+The “federal defendants,” who are appellees in No. 02-1674 
+and/or cross-appellants in No. 02-1676, are the Federal Election 
+Commission (FEC) and David W. Mason, Ellen L. Weintraub, 
+Danny L. McDonald, Bradley A. Smith, Scott E. Thomas, and 
+Michael E. Toner, in their capacities as Commissioners of the 
+FEC; John D. Ashcroft, in his capacity as Attorney General of 
+the United States; the United States Department of Justice; the 
+Federal Communications Commission; and the United States of 
+America. 
+
+
+The “intervenor defendants,” who are appellees in No. 02- 
+1674 and cross-appellants in No. 02-1702, are Senator John 
+McCain; Senator Russell Feingold; Representative Christopher 
+Shays; Representative Martin Meehan; Senator Olympia 
+Snowe; and Senator James Jeffords. 
+
+
+The following parties, many of whom are appellants in other 
+consolidated cases, were also plaintiffs in the district court: 
+Representative Mike Pence; Alabama Attorney General Bill 
+Pryor; Libertarian National Committee, Inc.; Alabama 
+Republican Executive Committee, as governing body for the 
+Alabama Republican Party; Libertarian Party of Illinois, Inc.; 
+DuPage Political. Action Council, Inc.; Jefferson County 
+Republican Executive Committee; American Civil Liberties 
+Union; Associated Builders and Contractors, Inc.; Associated 
+Builders and Contractors Political Action Committee; Christian 
+Coalition of America, Inc.; Club for Growth, Inc.; Indiana 
+
+
+1V 
+
+
+Family Institute, Inc.; National Right to Life Committee, Inc.; 
+National Right to Life Educational Trust Fund; National Right 
+to Life Political Action Committee; Martin Connors; Barret 
+Austin O’Brock; Trevor M. Southerland; National Rifle 
+Association of America; National Rifle Association Political 
+Victory Fund; Emily Echols, a minor child, by and through her 
+next friends Tim and Windy Echols; Hannah McDow, a minor 
+child, by and through her next friends Tim and Donna McDow,; 
+Isaac McDow, a minor child, by and through his next friends 
+Tim and Donna McDow,;; Jessica Mitchell, a minor child, by 
+and through her next friends Chuck and Pam Mitchell; Daniel 
+Solid, a minor child, by and through his tiext friends Kevin and 
+Bonnie Solid; Zachary C. White, a minor child, by and through 
+his next friends John and Cynthia White; Republican National 
+Committee (RNC); Mike Duncan, as member and Treasurer of 
+the RNC; Republican Party of Colorado; Republican Party of 
+Ohio; Republican Party of New Mexico; Dallas County (lowa) 
+Republican County Central Committee; California Democratic 
+Party; Art Torres; Yolo County Democratic Central Committee; 
+California Republican Party; Shawn Steel; Timothy J. Morgan; 
+Barbara Alby; Santa Cruz County Republican Central 
+Committee; Douglas R. Boyd, Sr.; Victoria Jackson Gray 
+Adams; Carrie Bolton; Cynthia Brown; Derek Cressman; 
+Victoria Fitzgerald; Anurada Joshi; Peter Kostmayer; Nancy 
+Russell; Kate Seely-Kirk; Rose Taylor; Stephanie L. Wilson; 
+California Public Interest Research Group; Massachusetts 
+Public Interest Research Group; New Jersey Public Interest 
+Research Group; United States Public Interest Research Group; 
+The Fannie Lou Hamer Project; Association of Community 
+Organizers for Reform Now; Chamber of Commerce of the 
+United States; National Association of Manufacturers; National 
+Association of Wholesaler-Distributors; U.S. Chamber Political 
+Action Committee; American Federation of Labor and 
+Congress of Industrial Organizations; AFL-CIO Committee on 
+Political Education Political Contributions Committee; 
+Representative Ron Paul; Gun Owners of America, Inc.; Gun 
+
+
+V ~ 
+
+
+Owners of America Political Victory Fund; Real Campaign 
+Reform.org; Citizens United; Citizens United Political Victory 
+Fund; Michael Cloud; Carla Howell: Representative Bennie G. 
+Thompson; and Representative Earl F. Hilliard. 
+
+
+v1 
+
+
+STATEMENT PURSUANT TO RULE 29.6 
+
+
+None of the appellants has a parent corporation, and no 
+publicly held company owns 10% or more of the stock of any of 
+
+
+the appellants. 
+
+
+Vii 
+TABLE OF CONTENTS 
+
+Page 
+QUESTIONS PRESENTED 0.00... ..ccceecceeeseceeseeceeseeeeeseeeeeees i 
+PARTIES TO THE PROCEEDINGS .................:ccccccsceeeeeeees ill 
+STATEMENT PURSUANT TO RULE 29.6 ..................00.. vi 
+TABLE OF AUTHORITIES ..................cccccccecesseceesssceeeeeeeeees x 
+PTT incctaiiccidesidsicsieisespisimeantinidendeinigeteiiemaaeiniaiasbeiadiiammniie l 
+er EINEITETY sesicnicisensisniinilaucepniiienciiennialeinsesduabinsiiepiseiane 2 
+ee iaisccaniticcssialntaincsionapinssinhiisbectedioaiiterisiibieniciesiaintaiiteasainis 2 
+
+CONSTITUTIONAL AND STATUTORY 
+Pe achiiilinihctiuinschaiinledpeiinniinasianeieiones ieiadieasibiiaacislipaneiaiiliea 2 
+SEA TE MEITS CF BER CAGE. .....cccecccecsosecevescsscovecesccssoecsscees 3 
+Sis PTI ivintionctiitinincneidinnsniintticnpsieaniiadinaibiipiandntadénenie 3 
+Sb: Sa cissdtidaearatieesisipniceniigtinsasicindinieeiieannnemminnnmneees 6 
+C. The District Court’s Decision..................:cc:cceeeee 8 
+SUMMARY OF ARGUMENT......00.........ccccccccesseeeeeseeeeeeees 1] 
+TTS istsitctuisnceniihinstiitineasiereseiiteinsninenipinimenstingeinneianieie 13 
+
+I. THE “SOFT MONEY” PROVISION OF BCRA 
+
+IS UNCONSTITUTIONAL. ....0......ccceccceeeeeeeeeeeeeeeee 13 
+
+
+A. The “Soft Money” Provision Violates The 
+First Amendment Rights Of Free Speech And 
+ee iaciiicinnhsiteteieibacinsrainicatiiesintniinhassenanilesienin 14 
+
+
+B. The “Soft Money” Provision Constitutes An 
+Invalid Exercise Of Congress’ Power To 
+Regulate Elections Under Article I, Section 4, 
+Of The Constitution. .................c:cccecceseecesseeeeeeees 26 
+
+
+C. By Discriminating Against Political Parties, 
+The “Soft Money” Provision Violates The 
+First And Fifth Amendments.......................00:++. 35 
+
+
+Vill 
+
+
+ll. THE “ELECTIONEERING 
+COMMUNICATIONS” PROVISIONS OF 
+BCRA ARE UNCONSTITUTIONAL. ...........02::00++ 38 
+
+
+Il. 
+
+
+A. 
+
+
+gE. 
+
+
+Under Buckley and MCFL, The Government 
+May Regulate Only Speech That Constitutes 
+
+
+“Express AdVOCACY.”........ccesseessesteetsenetneneesenes 39 
+The Holdings In Buckley And MCFL Apply 
+Equally To Corporations And Unions. ............... 45 
+
+
+_ Even If This Court Were To Abandon Buckley 
+
+
+And MCFL, The “Electioneering 
+Communications” Provisions Could Not 
+Survive Scrutiny. ............ccccecceeseeeeeeeeeeeneesereeeeeeees 49 
+
+
+_ The “Electioneering Communications” 
+
+
+Provisions Are Overbroad Because They 
+Regulate Speech By Qualified Non-Profit 
+Corporations. ............::ssscsseseseseseneeseeetenneneneenenenens 57 
+
+
+The “Electioneering Communications” 
+Provisions Are Vague And Underinclusive. ......57 
+
+
+OTHER PROVISIONS OF BCRA ARE 
+
+
+UNCONSTITUTIONALL . ..........-..:ccccsseeeseeeerseeeeneneees 62 
+A. The “Advance Notice” Provisions Are 
+Unconstitutional. .....................ccccccsssssssseeereneeseees 63 
+B. The “Coordination” Provisions Are 
+Unconatitutionall. ..............ccoccccccscccscscccsesesesssesseees 64 
+C. The “Attack Ad” Provision Is 
+Unconstitutional. ....................ssscccssccsccceresensssseees 66 
+D. The “Forced Choice” Provision Is 
+Uncosatitutionall. ...............c.ccsssssccsosssscssssseseseeeees 68 
+FE. The “Minors” Provision Is Unconstitutional. .....71 
+
+
+ix 
+
+
+F. The “Broadcaster Records” Provision Is 
+
+
+ELT ERT ee 73 
+
+
+PSNI ccaseveciinrsnernssnemnnensvenieasemnermestenentennnamemmnnanaesn 75 
+
+
+xX 
+
+
+TABLE OF AUTHORITIES 
+Page(s) 
+
+CASES 
+Abbott Labs. v. Gardner, 
+
+ee Re i itnicinetincntibiitininianidcintsenindimnieianinndes 65 
+Alaska Airlines, Inc. v. Brock, 
+
+ee ee icttectasitncateindasinntniinsinscieeninnsicieiiinimnsenses 37 
+Austin v. Michigan Chamber of Commerce, 
+
+ee ee  ativebenenccntntaienitinsaitscisininbaninindicnneniinnaes 48 
+Baggett v. Bullitt, 
+
+ee  iiinitsiidincnniniasteninimnsaninanemnnmeniieieaiinnians 60 
+Bellotti v. Baird, 
+
+| | _____ RTESEET Re eneenO CTn OUO NTE 71 
+Bethel Sch. Dist. No. 403 v. Fraser, 
+
+Fe ee CD iiisticcinichtrtssncciiiaiininitanicmineniniainiicieasiieiiinns 71 
+Bigelow v. Virginia, 
+
+Ey ee i icsteititintcstniiiasiitriniiisiaiaiasiinntsanmicinnsintpes ania 65 
+Blitz v. United States, 
+
+es Se iiaitiniedininintnnenennesnnecscmennsmninaeneniiennint 29 
+Board of County Comm'rs v. Umbehr, 
+
+Fe a iatsinsescientanitiniicinnsarpnitninciniinseminsinin 68 
+Board of Trs. of Univ. of Ala. v. Garrett, 
+
+Se Fk ee iceitinrcccccccrsasatennsaminincintianiiiinnentee 21 
+Buckley v. Valeo, 
+
+SF te ee rnctnctnttensnenesnscevennnienninsnneinnenencene passim 
+California Democratic Party v. Jones, 
+
+RR en 16, 18, 30, 70 
+California Pro-Life Council, Inc. v. Getman, 
+
+Fe ee Re Ne Be irecrsicnrcccstoneneenneennanianinis 43 
+Carey v. Brown, x 
+
+SF Wats I I cinicnciictiesntncinenintasiicnninnisinpntitemninninnan 36 
+
+
+xl 
+
+
+Chamber of Commerce v. Moore, 
+288 F.3d 187 (Sth Cir.), 
+we NNO ET 44 
+
+
+Citizens Against Rent Control/Coalition for Fair Housing 
+v. City of Berkeley, . 
+ER NE ON CEs te RE ae ee 19 - 
+
+
+Citizens for Responsible Gov't State Political Action 
+Comm. v. Davidson, 
+
+
+Be ae 8 SI ee BR cccccicinscsiscctintwtnensteccioennenes 44 
+City of Ladue v. Gilleo, 
+
+a eT aE ae 36 
+Clifton v. FEC, 
+
+Fa Gree IRE IEF Diiccncrseccvscesssteiivestnisinennibnnenisies 43 
+Colorado Republican Fed. Campaign Comm. v. FEC, 
+
+EE Le a, passim 
+Connally v. General Constr. Co., 
+
+SGD U.S. SBS (1926) ....20eccecnsrerceerseessececsscsecncsnsnccnseseees 58, 75 
+Cousins v. Wigoda, 
+
+TT ini sdisccinnsanesnianctinaitinmnepegniianiennapininentiti 16 
+Davis v. Bandemer, 
+
+a a Ee ce nD 38 
+Eisenstadt v. Baird, 
+
+I iciiiesisleits enicnsiasiicihupebiliciniiainibseatinien acnneiiel 67 
+Erznoznik v. City of 'acksonville, 
+
+TE a 64 
+Eu v. San Francisco County Democratic Cent. Comm., 
+
+IST ee RTS 16, 18 
+Ex parte Clarke, 
+
+Es eee ED Te a 29 
+Ex parte Siebold, 
+
+
+i iasicsictessnisinsitgesitisiumnsvinneninen eeseee29 
+
+
+Xli 
+
+
+Ex parte Yarborough, 
+
+
+es ee I iiiiiiciesincitictiinccenainnciinnitntuidsendatanniiaieinnin 29 
+Faucher v. FEC, 
+
+| ee 43 
+FEC v. Beaumont, 
+
+es SI ic crcicicticaciniscehdcligdesidedsininennimntnin’ 5, 22 
+FEC v. Christian Action Network, Inc.., 
+
+Ce Rs HT Riienincntttnciniccinineseccsnnesenoveness 43 
+FEC vy. Christian Coalition, 
+
+Fe Fs I ae ee Ga FI crccericsctcsccenennnsersesenosenees 66 
+FEC v. Colorado Republican Fed. Campaign Comm., 
+
+ee Ce ciaiivicicncintntanniennentasniienniatninbiinidnnetl passim 
+FEC v. Furgatch, 
+
+Re re Cy Se iitricentnccsnictnescsccininncvinninintmetini 43 
+FEC v. Massachusetts Citizens for Life, 
+
+FF  icinncsicincintnstniiittinciniieaiiiiilopintnii 40, 46, 57 
+FEC v. National Conservative Political Action Comm., 
+
+a saninsintisectccnenniennsescepiitiiniitiainne 2, 5, 20, 46 
+First Nat'l Bank of Boston v. Bellotti, 
+
+a I Ce ertnesicserntatcrstenninerinmsintintiniaiinvenien 35, 47 
+Florida Star v. B.J.F., 
+
+Re a Se  ictccicrciecssiscrsiecnsciiannccsiinietiniiinicnnninntiiniaiaie 62 
+Freedman v. Maryland, 
+
+eR ee I cence ssnutsiinciinniduitensniunaiiiniisinssintaatihiiiiabbiiiie 67 
+Ginsberg v. New York, 
+
+a  iinstrntttantessemnnsentnitatennmcinnieiieniinnies 71 
+Gooding v. Wilson, 
+
+a Sa enter incencttnncctenanneninpemistitadinaiinititiatinied 67 
+Keyishian v. Board of Regents of Univ. of State of N.Y., 
+
+ee Ce Pisciasiccevecennscnsnssntcsncnumenbitaiititiniensiailiiiins 75 
+
+
+Xi 
+Kusper v. Pontikes, 
+5 ET a 16 
+Legal Servs. Corp. v. Velazquez, 
+EEA 68 
+
+
+Members of City Council of Los Angeles v. Taxpayers for 
+Vincent, 
+
+
+EES a OS ee eT 67 
+NAACP v. Alabama, 
+
+el 74 
+NAACP v. Button, 
+
+EE aes TES Ce 23 
+New York Times Co. v. Sullivan, 
+
+EAR LT eT LOTR TED 1, 52, 68 
+Nike, Inc. v. Kasky, | 
+
+I a 18, 48 
+Nixon v. Shrink Missouri Gov't PAC, 
+
+ite ail 18, 20, 25 
+Oregon v. Mitchell, 
+
+SN a acne inccastsicrieidleinduciiasiddoisemidinous 27, 30 
+Pacific Gas & Elec. Co. v. Public Utils. Comm'n, 
+
+I RS Ae secret a REN 47 
+Perry v. Sindermann, 
+
+i ici incissicdisbciapiaetandgsudceibebmeeseseii 68, 69 
+Pipefitters v. United States, 
+
+og EEE EE RE ae a 45 
+Police Dep't of Chicago v. Mosley, 
+
+EEE Pn Ry Sn 35 
+Pope v. Williams, 
+
+dicts uidasladibbietaeldsetindndiledasiinbibias 30 
+R.A.V. v. City of St. Paul, 
+
+EE ee Ee 68 
+
+
+XIV 
+Red Lion Broad. Co. v. FCC, 
+
+
+FOS US. SEF (UGG ccccsesrscstiinimictimmnmealn 
+
+
+Reno v. ACLU, 
+FBG UF. GOS COG G Pevcesiccvsstio~tsectucessuieae 
+
+
+Republican Party of Minn. v. White, 
+FSO UD. FES Ga vrescerscenssicnnepninmmeanaeel 
+
+
+Riley v. National Fed’n of Blind of N.C., Inc., 
+GET ULE. FRB Qi aeccccsscccvesscotnnssiiinmsimasanemasnauiaana 
+
+
+Rosenberger v. Rector & Visitors of Univ. of Va., 
+FES UZ. SED CPTI nnccesrcsecessesiicensnemeseiiiedeiiiammaa 
+
+
+Schaumburg v. Citizens for a Better Env’t, 
+GAG U.S. GBD CIGD caccrccecesscsccnsensettentecuiinmsuananl 
+
+
+Smith v. Daily Mail Publ’g Co., 
+GES US. FF CRG Fi ccccccevstiiccininninnsninitigaeieaaae 
+
+
+Sugarman v. Dougall, 
+GES US. G6 (GTI P cccccsvssevscsnimentccnenimiiiaae 
+
+
+Sweezy v. New Hampshire, 
+BSS UZ. TOG COG FP ccececevessccssensscenteceenestiaataaaiaal 
+
+
+Tashjian v. Republican Party of Conn., 
+S79 VS. FEO (IRE ecicenemnmne 
+
+
+Thomas v. Collins, 
+BES UB, SOG Ce ccncsvecstisismnsiesmnan 
+
+
+Timmons v. Twin Cities Area New Party, 
+UE Te  Y 
+
+
+Tinker v. Des Moines Indep. Community Sch. Dist., 
+TIS US. FEB (RGGI nncnccnsseensesnscsmme 
+
+
+U.S. Term Limits, Inc. v. Thornton, 
+SES US. 770 Coe cccncncessssvenieneceninitean 
+
+
+United States v. Automobile Workers, 
+bE Ge eovncovenssesonens 
+
+
+XV 
+United States v. CIO, 
+a _. remnenncssonnes 45, 46 
+United States v. Kokinda, 
+Ee 15 
+United States v. Playboy Entm'’t Group, Inc., 
+EE TE 39 
+United States v. Reese, 
+a... sssnsssumenncsensoes 29 
+Vermont Right to Life Comm., Inc. v. Sorrell, 
+a 44 
+Virginia v. Hicks, 
+a. ssuneenuneronsees 67 
+
+
+Watchtower Bible & Tract Society of N.Y., Inc. v. Village 
+of Stratton, 
+
+
+NE sesceseconeen 63 
+CONSTITUTION AND STATUTES 
+I, oc censssnnnnensliocescocccesees 27 
+Teas ia csteseessmsorenessoescees passim 
+ic dnscncesccsasecscncsssoccsessnesessoocs passim 
+ES 72 
+a ssssssrenesonenconscosnes 47 
+arian sacricessesnsepsnconssonveoscoocoes 71 
+Bipartisan Campaign Reform Act of 2002, 
+
+PUD. Le. INO. 107-155, 116 Slat. Sl .........cceccrseccccscccccecceres i, 2 
+
+ce sarscrraregunceocsscreoceserccees passim 
+
+IITINTTTIIIIIE lllisdaaditadtnsctcnsanssevesesconeveonoveceseseonenes passim 
+
+LSS LTTE 7, 10, 65 
+
+Ea iabasinassistnassemneccosesosecescesesceestecscessesevccsetesnsecseenees 7, 9, 38 
+
+
+XVi 
+
+
+i Giidih<cisataseccnteinenibectisdehindbiauniinsiuaiiiaaiiamensmenial passim 
+EF ve Bi sasnssecnesqeessncustedietenineionnsisetetiadmaisenamaaniaaalaia passim 
+1 Fil iivessicsossecinnneensniensiisivlistinsentemdasaiemiddaeniummddiaaanmadnale 8 
+it -siliactoiionbespccdinpanideendieheiaagiatiiianiiadiasinamiaael 8, 66, 67, 68 
+I SP ccintesaincsennntatdnhiisedtismasninantdebibeginmanmsienadeuannaal 8, 9, 38 
+i io ililicinesenenstescesnnsescnideniainiiiaminaatdasiieaiiidibetimanatbiitiiiseeeeail Liiaree 8 
+i Boa ichnccosinnndesecsisentbeimiicsiipstnitbaniabbiesiadimpasiiididdnsadsiiita 7, 10, 71, 72 
+SB Te issenieciesintesiieniciiedda iat da iittala dita acai 8 
+I iincnisssininiccnsctvmesniesipientenensieahddetiaiiiala satel ail ical acai ireas aes 8 
+I ite eo viinesntecsinnnnnctdaniapideiialsseaesniliaissdiensialeaieduanabadaeiaiial passim 
+Federal Election Campaign Act of 1971, 
+PR Fh: Denk URC is MEIN, SP icteicsndticteniccsinccandcacennstiibaagelacnaiail 3 
+Federal Election Campaign Act Amendments of 1974, 
+Pub. L. No. 93-4635, SB Stat. 1263 .....5.cccocccssescccssssescocessseses 3 
+Federal Election Campaign Act Amendments of 1976, 
+FS | __, Sea a name e 3 
+OTHER AUTHORITIES 
+
+
+Lillian R. BeVier, 
+The Issue of Issue Advocacy: An Economic, Political, 
+and Constitutional Analysis, 
+
+
+> OU ie I Care Ce nivccncesasictcsnidninciiniinesensneninn 44 
+144 Cong. Rec. S978 (daily ed. Feb. 25, 1998)... 62 
+147 Cong. Rec. $2611 (daily ed. Mar. 21, 2001)................. 62 
+147 Cong. Rec. $2908 (daily ed. Mar. 26, 2001)................. 25 
+147 Cong. Rec. $3045 (daily ed. Mar. 28, 2001)................. 53 
+147 Cong. Rec. $3116 (daily ed. Mar. 29, 2001)................. 61 
+148 Cong. Rec. $2117-18 (daily ed. Mar. 20, 2002)............ 53 
+
+
+148 Cong. Rec. $2141 (daily ed. Mar. 20, 2002)................. 53 
+
+
+XVil 
+
+
+Coordinated and Independent Expenditures, 
+
+
+ee i See I a ccieiiiiseccncsnrsntnsvnncionanteninen 64 
+Electioneering Communications, 
+
+67 Fed. Reg. 51,137 (Aug. 7, 2002).............cccccccssecsssssees 63 
+Electioneering Communications, 
+
+ie, | § 8 | i A _— ; enn eDEDIE 61 
+PR I I ca sicinacscicccscsenseennscisnibaapetianbaniinaittenta 5 
+TN ET 5 
+I a a ctnaiintioelaial 5 
+Federal Election Commission, 
+
+Ne ac nsnssadiinssneetigniniadatiaioiionsinininanin 30 
+The Federalist No. 59 (Clinton Rossiter ed. 1961) 
+
+A ai sce iciaaainleidilaatlbie 28 
+
+
+Craig B. Holman & Luke P. McLoughlin, 
+Buying Time 2000: Television Advertisements in the 
+
+
+2000 Federal Elections (Brennan Center 2001) ....... passim 
+H.R. Conf. Rep. No. 94-1507 (1976), 
+reprinted in 1976 U.S.C.C.A.N. 946..........cccccceeceeesteeeeees 42 
+
+
+Jonathan S. Krasno & Daniel E. Seltz, 
+Buying Time 1998: Television Advertising in the 1998 
+
+
+Congressional Elections (Brennan Center 2000) ........... 53 
+Joseph Story, 
+
+Commentaries on the Constitution of the United States 
+
+SUIS enInEEy NUIT icaiiiechigdetciioshedldldaesotalcsetsiplbiccplaciooniachioniiiaiiu 28 
+The Supreme Court, 1989 Term, Leading Cases, 
+
+I tie ls CE PUI scccctcccnsctcnsncsentinnenteisessininieiads 49 
+
+
+INTRODUCTION 
+
+
+Far from merely closing loopholes, the Bipartisan Campaign 
+Reform Act of 2002 (BCRA) wholly rewrites our Nation’s 
+campaign finance laws and works nothing less than a 
+fundamental reordering of our political process. ~ While 
+BCRA’s details are complex, the principles that it-upsets are 
+basic. First and foremost is our “profound national 
+commitment to the principle that debate on public issues should 
+be uninhibited, robust, and wide-open, and that it may well 
+include vehement, caustic, and sometimes unpleasantly sharp 
+attacks on government and public officials.” New York Times 
+Co. v. Sullivan, 376 U.S. 254, 270 (1964). However 
+contentious the debate about the outer reaches of the First 
+Amendment, there can be no question but that political speech 
+and association lies at its core. With its encroachments on the 
+activities of actors at all levels of the political process, BCRA 
+cannot be justified without abandoning this first principle of 
+uninhibited, robust debate. Nor can it be defended under this 
+Court’s campaign finance jurisprudence. Even assuming that 
+Congress sought to solve a genuine problem by enacting BCRA 
+— and the law’s defenders have not identified a single example 
+of actual “corruption” motivating its enactment — BCRA 
+constitutes a wildly overbroad remedy. 
+
+
+BCRA also undermines other bedrock constitutional 
+principles. It contravenes the core principle that federal law 
+governs the conduct of federal elections, and state law the 
+conduct of state elections. Prior to BCRA’s enactment, federal 
+law solicitously accommodated the competing state interest in 
+regulating campaign activities that affect both federal and state 
+elections. BCRA, however, imposes a sweeping federal 
+regulatory scheme that reaches even activities that solely affect 
+state elections. Even the great federalizer, Alexander Hamilton, 
+recognized that federal intervention into state election processes 
+is so blatantly violative that it “require[s] no comment.” 
+
+
+Equally disturbing, BCRA regulates different actors in the 
+
+
+2 
+
+
+political process, and different types of speech, in disparate 
+fashion, without advancing any legitimate justification for 
+doing so. It disadvantages political parties in comparison with 
+interest groups; television stations in comparison with 
+newspapers; and so-called “attack ads” in comparison with 
+other ads. These and other forms of differential regulation 
+violate the basic principles of equality embodied in the First and 
+Fifth Amendments. 
+
+
+Ultimately, the Constitution demands that this Court err on 
+the side of protecting more speech, not less. As the Court noted 
+almost two decades ago, “[t]he fact that candidates and elected 
+officials may alter or reaffirm their own positions on issues in 
+response to political messages * * * can hardly be called 
+corruption, for one of the essential features of democracy is the 
+presentation to the electorate of varying points of view.” FEC 
+v. National Conservative Political Action Comm., 470 U.S. 480, 
+498 (1985) (NCPAC). That rule provides a sufficient basis for 
+holding the challenged provisions of BCRA unconstitutional. 
+
+
+OPINIONS BELOW 
+
+
+The district court’s opinions are reported at 251 F. Supp. 2d 
+176 and reprinted in the joint Supplemental Appendix to the 
+jurisdictional statements (“Supp. App.”) at 1sa-1382sa. 
+
+
+JURISDICTION 
+
+
+The district court entered judgment on May 2, 2003. 
+Appellants filed their notice of appeal and jurisdictional 
+statement on the same day. This Court noted probable 
+jurisdiction in these cases on June 5, 2003. This Court has 
+appellate jurisdiction pursuant to section 403(a)(3) of BCRA. 
+
+
+CONSTITUTIONAL AND STATUTORY PROVISIONS 
+
+
+The Bipartisan Campaign Reform Act of 2002 (BCRA), Pub. 
+L. No. 107-155, 116 Stat. 81, is reprinted in the Appendix to 
+appellants’ jurisdictional statement (“J.S. App.”) at 7a-68a. 
+Article I, Section 4, of the United States Constitution is 
+
+
+3 
+
+
+reprinted at J.S. App. 4a. The First Amendment of the 
+Constitution is reprinted at J.S. App. 5a. The Fifth Amendment 
+of the Constitution is reprinted at J.S. App. 6a. 
+
+
+STATEMENT OF THE CASE 
+A. Background 
+
+
+The historical facts preceding the enactment of BCRA are 
+largely undisputed, and are set out at great length in the 
+opinions below. See Supp. App. 16sa-40sa (Kollar-Kotelly and 
+Leon), 168sa-186sa (Henderson). We summarize only the 
+essential facts here. 
+
+
+1. In 1971, Congress enacted the Federal Election 
+Campaign Act (FECA), the first comprehensive regulatory 
+scheme governing federal election campaigns. See Pub. L. No. 
+92-225, 86 Stat. 3 (codified as amended at 2 U.S.C. §§ 431- 
+455). As amended in 1974, see Pub. L. No. 93-443, 88 Stat. 
+1263, FECA had three principal components. FECA limited 
+the amount of money that could be contributed “for the purpose 
+of influencing [federal] elections” — money that would come to 
+be known as “hard money.” Individuals could contribute up to 
+$1,000 per candidate, and “political committees” (including 
+political action committees, or PACs) could contribute up to 
+$5,000.' FECA also limited the amount of money that could be 
+spent in federal elections, restricting expenditures by any person 
+“relative to a clearly identified candidate” to $1,000. And 
+FECA limited “coordinated expenditures”: that is, expenditures 
+made on behalf of, and in agreement with, a federal candidate. 
+FECA generally treated coordinated expenditures as 
+“contributions” subject to the applicable contribution limits. 
+
+
+2. a. In Buckley v. Valeo, 424 U.S. 1 (1976), this Court 
+
+
+' In 1976, Congress amended FECA to add further limits on the amounts that 
+individuals could contribute to political committees and party committees, 
+and the amounts that party committees could in turn contribute to candidates. 
+See Pub. L. No. 94-283, 90 Stat. 475. BCRA contains provisions raising 
+these contribution limits, which appellants are not challenging. 
+
+
+4 
+
+
+laid out the now-familiar framework for determining the 
+constitutionality of campaign finance regulations. The Court 
+recognized that both contributions and expenditures on behalf 
+of political candidates implicate the First Amendment rights of 
+free speech and association. See id. at 19-23. The Buckley 
+Court also recognized that the government had a compelling 
+interest in “the prevention of corruption and the appearance of 
+corruption.” /d. at 25. Although the Court did not explicitly 
+define “corruption,” it repeatedly referred to “quid pro quo” 
+arrangements in which contributions or expenditures were made 
+in exchange for some particular action. /d. at 26, 27, 45. 
+
+
+The Buckley Court upheld FECA’s contribution limits, 
+reasoning that such limits imposed lesser burdens on First 
+Amendment rights — and were thus subject to a lower degree 
+of scrutiny — than expenditure limits. See id. at 24-38. 
+However, the Court struck down FECA’s limits on independent 
+expenditures. See id. at 39-59. Critically, before striking down 
+the expenditure limits, the Court first narrowed those provisions 
+to cover only expenditures for what has come to be known as 
+“express advocacy”: that is, advertising that “in express terms 
+advocate[s] the election or defeat of a clearly identified 
+candidate.” /d. at 44. This narrowing construction excluded 
+from FECA’s reach so-called “issue advocacy”: for instance, 
+advertising that comments on positions taken by a clearly 
+identified candidate, but does not expressly advocate the 
+candidate’s election or defeat. Even after narrowing these 
+provisions, however, the Court struck them down on the ground 
+that independent expenditures did not pose a sufficient threat of 
+actual or apparent corruption. See id. at 45. In so doing, the 
+Court expressed approval of FECA’s treatment of coordinated 
+expenditures as contributions. See id. at 47. The Court 
+similarly narrowed a provision of FECA requiring the 
+disclosure of certain expenditures, but ultimately upheld that 
+provision. See id. at 74-82. 
+
+
+b. In the nearly three decades since Buckley, the Court has 
+
+
+5 
+
+
+remained faithful to Buckley’s dichotomous treatment of 
+contributions and expenditures. It has consistently upheld 
+federal limits on contributions, see, e.g., FEC v. Beaumont, 123 
+S. Ct. 2200 (2003), and coordinated expenditures, see, e.g., 
+FEC v. Colorado Republican Fed. Campaign Comm., 533 U.S. 
+431 (2001) (Colorado II), but struck down federal limits on 
+independent expenditures, see, e.g., NCPAC, 470 U.S. at 480. 
+
+
+3. In the years following Buckley, the federal regulatory 
+regime peacefully coexisted with the States’ respective 
+campaign finance regimes. Some States, such as Virginia, 
+allowed unlimited contributions to, and expenditures by, state 
+candidates and party committees; others, such as Vermont, 
+
+
+imposed even more stringent limits than those imposed by 
+federal law. 
+
+
+Questions quickly arose, however, as to who should regulate 
+the financing of activities, such as voter registration, voter 
+identification, and get-out-the-vote efforts, which had effects on 
+both federal and state elections. In 1978, the FEC declared that 
+state and local party committees could use a combination of 
+federally regulated funds (so-called “hard money”) and state- 
+regulated funds (so-called “soft money”) to fund those 
+activities. See FEC Advisory Op. 1978-10. The FEC 
+subsequently allowed national party committees to use a similar 
+“allocation” of federally regulated and state-regulated funds. 
+See FEC Advisory Op. 1979-17. Over the next two decades, 
+the FEC extended the allocation regime to cover other 
+activities, including administrative expenses, party-promoting 
+(or “generic”) campaign activities, and, perhaps most 
+significantly, some so-called “issue advocacy.” See FEC 
+Advisory Op. 1995-25. During the 1990s, the raising and 
+spending of state-regulated funds by political party committees, 
+and the use of so-called “issue advocacy” by various groups, 
+expanded significantly. By 2002, the major parties were raising 
+a total of almost $500 million per election cycle in state- 
+regulated funds. See Supp. App. 489sa (Kollar-Kotelly). 
+
+
+B. BCRA 
+
+
+BCRA is composed of a confusing, sometimes internally 
+contradictory, patchwork of regulations, the most important of 
+which are discussed below. 
+
+
+1. Title I of BCRA regulates the use of so-called “soft 
+money”: that is, funds that had previously been subject only to 
+state regulation. Section 101 of BCRA bans national party 
+committees from receiving or spending state-regulated funds for 
+any purpose — even for activities that solely or primarily affect 
+state and local elections. Section 101 also bans national party 
+committees from soliciting state-regulated funds for, or 
+transferring state-regulated funds to, any other entity, including 
+state and local party committees. 
+
+
+In addition, section 101 bans state and local party committees 
+from spending state-regulated funds for what BCRA 
+euphemistically calls “federal election activity” — a category 
+that includes voter registration, voter identification, get-out-the- 
+vote activity, and party-promoting campaign activity whenever 
+there is a federal election on the ballot, and advertising that 
+refers to a federal candidate and “promotes,” “supports,” 
+“attacks,” or “opposes” the candidate. Because most States 
+hold their state and local elections at the same time as federal 
+elections, the practical effect of this provision is to ban state and 
+local party committees from using state-regulated funds for 
+covered activities even if those activities solely or primarily 
+affect state and local elections. 
+
+
+Section 101 also severely restricts federal officeholders and 
+candidates from raising state-regulated funds, and bans state 
+and local candidates from spending state-regulated funds on 
+advertising that refers to a federal candidate and “promotes,” 
+“supports,” “attacks,” or “opposes” the candidate. 
+
+
+2. Title Il of BCRA is primarily directed toward the 
+regulation of “electioneering communications,” a new statutory 
+term that embraces certain types of so-called “issue advocacy.” 
+
+
+7 
+
+
+Sections 201 and 204 ban all corporations and unions, or 
+entities using funds donated by corporations and unions, from 
+making disbursements for “electioneering communications.” 
+Section 201 requires all persons who spend $10,000 on 
+“electioneering communications” to make disclosures to the 
+FEC regarding those disbursements. Section 203, in turn, 
+defines an “electioneering communication” as any broadcast 
+advertising carried within 30 days of a primary or 60 days of a 
+general election which “refers to a clearly identified candidate 
+for Federal office.” Anticipating that this definition might be 
+held unconstitutional, Congress included a “fallback” 
+definition, which defines an “electioneering communication” as 
+any broadcast advertising carried at any time which “promotes,” 
+“supports,” “attacks,” or “opposes” a federal candidate and “is 
+suggestive of no plausible meaning other than an exhortation to 
+vote for or against a specific candidate.” 
+
+
+Title II also contains a number of provisions relating to 
+disclosure and coordination. Sections 201 and 212 impose 
+disclosure requirements on persons who merely enter into a 
+contract to make disbursements for  electioneering 
+communications or other regulated expenditures, even before 
+those outlays are actually made. Section 202 treats coordinated 
+disbursements for electioneering communications, like 
+coordinated expenditures, as contributions to the “supported” 
+candidates. Section 214 broadens the definition of “coordina- 
+tion,” repeals the FEC’s existing regulations on coordination, 
+and orders the FEC to promulgate regulations in support of the 
+new statutory definition of coordination. Finally, section 213 
+bans political parties from making both independent and certain 
+coordinated expenditures on behalf of a nominated candidate, 
+and instead forces them to choose between one and the other. 
+
+
+3. Title Il of BCRA includes various miscellaneous 
+provisions. Section 318 bans minors from contributing 
+federally regulated money in any amount to a federal candidate, 
+and from contributing either federally regulated or state- 
+
+
+8 
+
+
+regulated money to a political party committee. Section 305 
+requires a federal candidate who wishes to take advantage of the 
+lowest available rate for broadcast advertising either to certify 
+that he or she will not refer to another candidate in any 
+advertising, or to include a specified identification or statement 
+in the ad. Belying Congress’ claim that the ordinarily 
+applicable limits for contributions and coordinated expenditures 
+are necessary to combat actual or apparent corruption, sections 
+304, 316, and 319 effectively protect incumbents by raising 
+those ordinarily applicable limits when candidates face 
+opponents using personal funds in their campaigns. And 
+section 311 establishes detailed identification requirements for 
+the sponsors of express advocacy or electioneering 
+communications. 
+
+
+4. Title V of BCRA contains section 504, which requires 
+broadcasters to collect and disclose records of requests to 
+purchase broadcast time for communications “relating to any 
+political matter of national importance,” even if those 
+communications are never actually made. 
+
+
+C. The District Court’s Decision 
+
+
+Conceding that BCRA raised “serious constitutional 
+concerns,” President Bush nevertheless signed BCRA into law 
+on March 27, 2002. Eleven complaints were promptly filed in 
+the United States District Court for the District of Columbia, 
+challenging various aspects of the law. Pursuant to the judicial- 
+review provisions in section 403 of BCRA, those cases were 
+expedited and consolidated before a single three-judge panel 
+(Henderson, Circuit Judge, and Kollar-Kotelly and Leon, 
+District Judges). More than a year later, in a series of fractured 
+opinions, the district court struck down some of the contested 
+provisions of BCRA and upheld others. 
+
+
+1. The district court invalidated most of section 101, 
+BCRA’s “soft money” provision. See Supp. App. 397sa-460sa 
+(Henderson), 887sa-1008sa (Kollar-Kotelly), 1084sa-1146sa 
+
+
+9 
+
+
+(Leon). It struck down almost all of the restrictions on national 
+party committees, with Judge Leon, in his controlling opinion 
+for the court, rewriting the statute to ban national committees 
+from spending state-regulated funds only for advertising that 
+refers to a federal candidate and “promotes,” “supports,” 
+“attacks,” or “opposes” that candidate. The court also held 
+unconstitutional the restrictions on state and local party 
+committees, except insofar as the statute bans state and local 
+committees from spending state-regulated funds for advertising 
+referring to federal candidates. And the court struck down a 
+provision banning party committees from soliciting funds for, 
+or donating funds to, certain tax-exempt organizations or 
+political committees. The court upheld the provisions limiting 
+the ability of federal officeholders and candidates to raise state- 
+regulated funds, and banning state and local candidates from 
+spending state-regulated funds on advertising referring to 
+federal candidates. 
+
+
+2. The district court also invalidated the core of BCRA’s 
+“electioneering communications” provisions, contained in 
+sections 201, 203, 204, and 311. See id. at 106sa-128sa, 157sa- 
+158sa (Kollar-Kotelly and Leon), 345sa-380sa (Henderson), 
+776sa-886sa (Kollar-Kotelly), 1146sa-1169sa (Leon). The 
+district court agreed with plaintiffs that the “primary” and 
+“fallback” definitions of “electioneering communications” were 
+overbroad and vague, respectively. However, Judge Leon, in 
+his controlling opinion for the court, again rewrote the statute in 
+order to uphold it, severing the language in the “fallback” 
+definition requiring regulated advertising to “be suggestive of 
+no plausible meaning other than an exhortation to vote for or 
+against a specific candidate” and then upholding the “fallback” 
+definition as broadened. The court upheld virtually the entirety 
+of the disclosure provisions in sections 201 and 311. 
+
+
+3. The district court also invalidated the provision of 
+section 20i requiring advance disclosure of contracts to make 
+disbursements for “electioneering communications,” even 
+
+
+10 
+
+
+before they are made. Over Judge Henderson’s dissent, 
+however, the court refused to reach plaintiffs’ challenge to 
+section 212, which requires similar advance disclosure of 
+contracts to make independent expenditures, on the ground that 
+the FEC’s implementing regulations construe section 212 not to 
+require such advance disclosure. See id. at 106sa-128sa, 1 30sa- 
+134sa (Kollar-Kotelly and Leon), 380sa-384sa (Henderson). 
+Also over Judge Henderson’s dissent, the court rejected 
+plaintiffs’ challenges to the coordination provisions in sections 
+202 and 214, holding that an agreement is not constitutionally 
+required as a predicate for a finding of coordination and that 
+some of plaintiffs’ challenges were nonjusticiable on standing 
+and ripeness grounds. See id. at 128sa-130sa, 134sa-157sa 
+(Kollar-Kotelly and Leon), 384sa-396sa (Henderson). And the 
+court held that plaintiffs lacked standing to challenge section 
+305, the provision imposing restrictions on federal candidates 
+who wish to take advantage of the lowest available rate for 
+broadcast advertising. See id. at 8sa (per curiam), 467sa-472sa 
+(Henderson), 1008sa (Kollar-Kotelly). 
+
+
+The district court unanimously invalidated three other 
+provisions. The court concluded that section 213, which forces 
+political parties to choose whether to make independent or 
+certain coordinated expenditures on behalf of a nominated 
+candidate, is unconstitutional because it severely burdens 
+parties’ First Amendment right to make independent 
+expenditures. See id. at 396sa-397sa (Henderson), 886sa 
+(Kollar-Kotelly), 1169sa-1176sa (Leon). It invalidated section 
+318, which bans minors from making contributions or 
+donations of any amount to a federal candidate or political party 
+committee. See id. at 460sa-467sa (Henderson), 1009sa-1011sa 
+(Kollar-Kotelly), 1176sa-1181sa (Leon). And it struck down 
+section 504, the provisicn requiring broadcasters to collect and 
+disclose records of requests to purchase broadcast time, with a 
+majority concluding that defendants had failed to identify any 
+evidence that the provision served a cognizable governmental 
+
+
+11 
+
+
+interest. See id. at 371sa-384sa (Henderson), 101 1sa (Kollar- 
+Kotelly), 1181sa-1184sa (Leon). 
+
+
+SUMMARY OF ARGUMENT 
+
+
+A. BCRA’s “soft money” provision violates the First 
+Amendment, and can be invalidated on that basis alone. The 
+provision severely burdens speech and associational rights, and 
+should therefore be subject to strict scrutiny. Under any 
+applicable level of scrutiny, however, it is invalid. The 
+provision cannot implicate the governmental interest in 
+preventing actual or apparent guid pro quo corruption, since it 
+regulates only donations to and disbursements by political 
+parties, rather than federal officeholders or candidates. The 
+Court should reject outright the defendants’ effort to defend the 
+provision on the theory that it is needed to avoid the mere 
+“possibility of the appearance of corruption,” or 
+“circumvention” of existing limits. Such unbridled justifica- 
+tions would sweep far beyond Buckley and allow the regulation 
+of virtually any activity in the realm of campaign financing. As 
+this Court noted almost a decade ago, the use of state-regulated 
+funds for activities such as voter registration and get-out-the- 
+vote efforts presents only the most attenuated opportunity for 
+corruption, and, to the extent that any such opportunity exists, 
+Congress could readily have enacted more narrowly tailored 
+alternatives, such as a cap on the amount of state-regulated 
+funds that could be given to national parties. 
+
+
+BCRA’s “soft money” provision is unconstitutional for two 
+additional reasons. First, the provision trenches on the 
+prerogatives of the several States by exceeding Congress’ 
+power under the Elections Clause. That clause allows Congress 
+to regulate the financing of federal campaigns, but not state 
+campaigns. The provision overrides longstanding state 
+regulatory mechanisms by limiting the activities of political 
+parties, officeholders, and candidates, even if those activities 
+affect both federal and state elections, or have no practical 
+effect on federal elections at all. Second, the provision curtails 
+
+
+12 
+
+
+speech by political parties but not identical speech by other 
+entities engaged in the political process, in violation of the 
+equality principle embodied in the First and Fifth Amendments. 
+It will effect a massive transfer of funds from the political 
+parties to narrowly focused interest groups, thereby detracting 
+from the crucial role that parties have played in our political 
+process. 
+
+
+B. BCRA’s “electioneering communications” provisions 
+also violate the First Amendment. Under this Court’s landmark 
+decision in Buckley, the government may regulate independent 
+expenditures only for advertising that expressly advocates the 
+election or defeat of a clearly identified candidate. To prevail, 
+defendants must not only convince this Court to jettison stare 
+decisis values and overrule Buckley, but also persuade the Court 
+to promulgate a new rule prohibiting corporations and unions 
+from engaging in core political speech about issues and 
+candidates. Even if this Court were to agree with defendants in 
+both respects, BCRA’s “electioneering communications” 
+provisions suffer from other constitutional infirmities, including 
+overbreadth, vagueness, and underinclusiveness. 
+
+
+C. Finally, a number of BCRA’s other provisions are 
+likewise unconstitutional. BCRA’s “advance notice” 
+provisions require disclosures even before expenditures are 
+made, absent any cognizable justification for doing so. The 
+“coordination” provisions impermissibly broaden the definition 
+of coordination, with the result that even mere discussions with 
+a candidate or political party are sufficient to render an 
+expenditure “coordinated” (and thereby subject to the limits 
+applicable to contributions). The “attack ad” provision 
+improperly conditions the availability of lower advertising rates 
+on a candidate’s agreement either that the candidate will not 
+engage in “negative” advertising, or that the candidate will 
+include certain content in his or her ad. The “forced choice” 
+provision imposes a similarly unconstitutional condition, 
+requiring political parties to choose whether to make 
+
+
+13 
+
+independent or certain coordinated expenditures on behalf of a 
+nominated candidate. The “minors” provision bans minors 
+from making contributions to candidates or political parties, in 
+stark contravention of their undoubted constitutional rights. 
+And the “broadcaster records” provision imposes onerous 
+recordkeeping and disclosure obligations on broadcasters — 
+obligations that are both substantially overbroad and decidedly 
+vague. All of these provisions, too, should be invalidated. 
+
+
+ARGUMENT 
+
+
+I. THE “SOFT MONEY” PROVISION OF BCRA IS 
+UNCONSTITUTIONAL. 
+
+
+For many decades before BCRA’s enactment, federal law 
+governed the financing of federal election campaigns, and state 
+law the financing of state campaigns. Where activities had 
+effects on both federal and state elections — such as voter 
+registration — political party committees were allowed to use a 
+combination of federally regulated funds (so-called “hard 
+money’) and state-regulated funds (so-called “soft money”) to 
+pay for those activities. This dual regime reflected an assiduous 
+regard for our federal system. 
+
+
+BCRA changes all that. For the first time, Congress has 
+enacted legislation that dramatically restricts the funding of 
+political activity on both the federal and state levels. Section 
+101 of BCRA imposes stringent and unprecedented restrictions 
+on the raising and spending of state-regulated funds by political 
+parties. And it severely burdens the activities of federal and 
+state officeholders and candidates. 
+
+
+As we will now explain, this new provision restricts the 
+rights of free speech and association in violation of the First 
+Amendment. The district court correctly struck down most of 
+section 101 on First Amendment grounds, though it erred by 
+upholding the remainder. Equally fundamental, section 101 is 
+unconstitutional on two additional grounds that the majority 
+below largely did not reach. First, section 101 trenches on the 
+
+
+‘4 
+
+
+prerogatives of the States by exceeding Congress’ power to 
+regulate federal elections under Article I, Section 4, of the 
+Constitution. Second, section 101 impermissibly discriminates 
+against speech by political parties in violation of the First and 
+Fifth Amendments. 
+
+
+A. The “Soft Money” Provision Violates The First 
+Amendment Rights Of Free Speech And 
+Association. 
+
+
+In this section, we first demonstrate that section 101 burdens 
+significant speech and associational nghts, and should therefore 
+be subject to strict scrutiny under this Court’s settled 
+jurisprudence. We then demonstrate that section 101 is not 
+narrowly tailored to meet the government’s compelling interest 
+in preventing actual corruption or the appearance of corruption. 
+
+
+1. Section 101 affects the speech and associational rights of 
+donors, political parties, and others in several pivotally 
+important ways. 
+
+
+a. Like the contribution and expenditure limits at issue in 
+Buckley, section 101 burdens the speech and associational rights 
+of donors, who will no longer be able to give donations 
+previously permitted by state law to national party committees, 
+and of the parties themselves, which will no longer be able to 
+spend state-regulated funds either at all (in the case of national 
+party committees) or except for certain limited activities that do 
+not qualify as “federal election activity” (in the case of state and 
+local party committees). In Buckley, the Court noted (as to 
+expenditures) that “[a] restriction on the amount of money a 
+person or group can spend on political communication during a 
+campaign necessarily reduces the quantity of expression by 
+restricting the number of issues discussed, the depth of their 
+exploration, and the size of the audience reached.” 424 U.S. at 
+19. The Court noted (as to contributions) that contributions, 
+like expenditures, have a speech component, though it 
+suggested that “the expression rests solely on_ the 
+
+
+15 
+
+
+undifferentiated, symbolic act of contributing.” Jd. at 21. And 
+the Court noted that limitations on contributions and 
+expenditures implicated not just the right of free speech, but the 
+right of free association as well. See id. at 22. 
+
+
+b. Section 101 burdens speech rights in additional ways not 
+at issue in Buckley. For instance, it imposes restrictions not just 
+on contributions and expenditures, but also on solicitations. 
+This Court has repeatedly affirmed that a restriction on 
+solicitations is the most direct form of restriction on speech. 
+See, e.g., United States v. Kokinda, 497 U.S. 720, 725 (1990); 
+Riley v. National Fed’n of Blind of N.C., Inc., 487 U.S. 781, 
+788-89 (1988); Schaumburg v. Citizens for a Better Env't, 444 
+U.S. 620, 632 (1980). That is unsurprising, for “solicitation is 
+characteristically intertwined with informative and perhaps 
+persuasive speech seeking support for particular causes or for 
+particular views on economic, political, or social issues,” id., 
+and “without solicitation the flow of such information and 
+advocacy would likely cease,” id. 
+
+
+Section 101 aggressively regulates the solicitation of both 
+state-regulated and federally regulated funds. It bans national 
+committees outright from soliciting state-regulated funds, see 
+BCRA § 101(a) (adding new FECA § 323(a)(1)), and from 
+soliciting a new category of federally regulated funds known as 
+“Levin” funds, which can be used for a narrow subset of 
+“federal election activity” known as “Levin” activities, see id. 
+(adding new FECA § 323(b)(2)(C)(i)). It bans state and local 
+committees from soliciting Levin federally regulated funds on 
+behalf of, or jointly with, other state and localcammittees. See 
+id. (adding new FECA § 323(b)(2)(B)(iv)). It bans all party 
+committees from soliciting any type of funds for certain tax- 
+exempt organizations or political committees. See id. (adding 
+new FECA § 323(d)). Finally, it bans federal officeholders and 
+candidates from soliciting state-regulated funds in connection 
+with any state or local election on behalf of party committees or 
+candidates unless those funds comply with the source-and- 
+
+
+16 
+amount requirements of federal law, see id. (adding new F ECA 
+§ 323(e)(1)(B)), and also bans them from soliciting Levin 
+federally regulated funds, see id. (adding new FECA 
+§ 323(e)(1)(A)).’ All of these restrictions deeply compromise 
+the speech rights of the regulated actors. 
+
+
+c. In addition to speech rights, section 101 burdens 
+associational rights in ways not implicated in Buckley. 
+Specifically, by pervasively regulating the relationships among 
+party committees, and between party committees and others, 
+section 101 impermissibly interferes with the associational 
+rights of political parties and their members. It is beyond 
+question that “[t]he right to associate with the political party of 
+one’s choice is an integral part” of the First Amendment 
+freedom of association. Kusper v. Pontikes, 414 U.S. 5 1, 57 
+(1973). It is also well established that the right of association 
+inheres not only in the members of a political party, but also in 
+the party itself. See, e.g., Eu v. San Francisco County 
+Democratic Cent. Comm., 489 U.S. 214, 224 (1989); Cousins v. 
+Wigoda, 419 U.S. 477, 487 (1975); Sweezy v. New Hampshire, 
+354 U.S. 234, 250 (1957). So too, when the government 
+attempts to regulate the internal structure of political parties, it 
+infringes on the parties’ associational rights. See California 
+Democratic Party v. Jones, 530 U.S. 567, 573 (2000); Eu, 479 
+U.S. at 229, 230-31. 
+
+
+i. Section 101 interferes directly with the ability of 
+different committees within a single political party to associate 
+freely with each other. Most significantly, it bans national 
+committees from transferring state-regulated funds to state and 
+local committees, see BCRA § 101(a) (adding new FECA 
+§ 323(a)(1)); from soliciting Levin federally regulated funds for 
+‘state and local committees, see id. (adding new FECA 
+
+
+? Section 101 also imposes complex restrictions on federal officeholders and 
+candidates in connection with the solicitation of state-regulated funds for tax- 
+exempt organizations. See BCRA § 101(a) (adding new FECA § 323(e)(4)). 
+
+
+17 
+
+
+§ 323(b)(2)(C)(i)); and from providing any funds to state and 
+local committees for use in Levin activities, see id. (adding new 
+FECA § 323(b)(2)(B)(iv)). It also bans state and local 
+committees from soliciting Levin federally regulated funds on 
+behalf of, or jointly with, other state and local committees, see 
+id., and from transferring Levin funds to those committees, see 
+id. (adding new FECA § 323(b)(2)(C)(ii)). As numerous 
+witnesses testified below, the net effect of these provisions is to 
+strip from political parties much of their traditional power both 
+to engage in coordinated fundraising and to allocate funds on 
+the national, state, and local levels. See, e.g., Supp. App. 
+304sa-306sa (Henderson), 1222sa-1223sa, 1239sa (Leon). The 
+provisions will also force political parties to shift their 
+fundraising activities from the national committees, which have 
+developed comparative expertise in fundraising, see, e.g., id. at 
+1219sa, 1221sa-1222sa (Leon), to state and local committees. 
+
+
+ii. Section 101 also interferes with the ability of party 
+committees to associate with others, including their own 
+members. It severely restricts federal officeholders and 
+candidates from participating in fundraising programs run by 
+state and local committees. See BCRA § 101 (adding new 
+FECA § 323(e)(1)). It bans party committees from soliciting 
+funds for, or donating funds to, certain tax-exempt 
+organizations and political committees. See id. (adding new 
+FECA § 323(d)). Finally, to the extent that it treats certain 
+federal officeholders or state and local party officials as 
+“officers or agents” of the national committees, it bans those 
+individuals from soliciting state-regulated funds or Levin 
+federally regulated funds. See id. (adding new FECA §§ 323(a), 
+323(b)(2)(C)(i)). When considered as a whole, these 
+associational burdens are both substantial and unprecedented. 
+
+
+2. Because of its severe burdens on free speech and 
+association, section 101 should be subject to strict scrutiny. 
+
+
+It is well established that “exacting” or strict scrutiny is 
+applied to limitations on independent expenditures, see, e.g., 
+
+
+18 
+
+
+Colorado II, 533 U.S. at 440-41; limitations on solicitations, 
+see, e.g., Riley, 487 U.S. at 795-96; and any other limitations 
+that impose a severe burden on associational rights, see, e.g., 
+California Democratic Party, 530 U.S. at 582; Timmons v. 
+Twin Cities Area New Party, 520 U.S. 351, 358 (1997); Eu, 489 
+U.S. at 231. Strict scrutiny therefore unquestionably applies to 
+all of the provisions of section 101 that were upheld (as 
+modified) by the district court. See BCRA § 101(a) (adding 
+new FECA §§ 323(a), 323(b)(1), 323(e), 323(f)); BCRA 
+§ 101(b) (adding new FECA § 301(20)(A)(i1i)). 
+
+
+Defendants may well urge, as they did before the district 
+court, that a lower degree of scrutiny is appropriate because 
+section 101 also contains a limitation on contributions: namely, 
+the subsection that bars donations of state-regulated funds to 
+national party committees. See BCRA § 101(a) (adding new 
+FECA § 323(a)(1)). To be sure, this Court has applied a lower 
+level of scrutiny to limitations on contributions. See, e.g., 
+Nixon v. Shrink Missouri Gov’t PAC, 528 U.S. 377, 387-88 
+(2000). But section 101 is far more than a contribution- 
+limitation provision. Because section 101 was enacted as an 
+integrated whole, this Court should treat section 101 
+accordingly, and subject its far-reaching requirements to strict 
+scrutiny.’ Even if the Court applies varying standards of review 
+to different parts of section 101, however, it should still apply 
+strict scrutiny to the subsection barring donations of state- 
+regulated funds to national committees, for two reasons. 
+
+
+First, unlike the provisions of FECA at issue in Buckley, 
+section 101 does not impose any new limits on the amounts of 
+contributions to national committees: instead, it merely subjects 
+funds used by national committees for a variety of previously 
+unregulated purposes to the preexisting source-and-amount 
+
+
+> Of Nike, Inc. v. Kasky, 539 U.S. _, ___ (2003) (slip op., at 12-13) 
+(Breyer, J., joined by O’Connor, J., dissenting) (applying heightened 
+scrutiny to mixture of commercial and non-commercial speech). 
+
+
+19 
+
+
+limitations of FECA, and requires that national committees 
+raise and spend federally regulated, rather than state-regulated, 
+funds for those activities. Because section 101 thereby 
+effectively regulates the uses for which money is raised and 
+spent, rather than imposing any new limits on the amounts of 
+contributions or expenditures, Buckley’s dichotomy between 
+contributions and expenditures is inapposite, and strict scrutiny 
+is warranted. 
+
+
+Second, this Court has squarely concluded that limitations on 
+the amount of contributions to third parties, unlike 
+contributions to candidates, are subject to strict scrutiny. See 
+Citizens Against Rent Control/Coalition for Fair Housing v. 
+City of Berkeley, 454 U.S. 290, 299 (1981). That rule makes 
+eminent sense, because a limitation on the amount of 
+contributions to third parties effectively limits the amount of 
+expenditures by the third parties themselves (and, by extension, 
+by the contributors who associate through those third parties). 
+See id.; Supp. App. 398sa-409sa (Henderson). To be sure, this 
+Court has seemingly applied a lower degree of scrutiny to 
+limitations on contributions to third parties where those 
+contributions could be used to circumvent limits on 
+contributions directly to candidates. See California Med. Ass'n 
+v. FEC, 453 U.S. 182, 198 (1981) (plurality opinion); Buckley, 
+424 US. at 38. Because donations of state-regulated funds 
+cannot be used for express advocacy or other activities that 
+solely support a candidate for federal office, however, such 
+funds are not interchangeable with federally regulated funds 
+contributed directly to candidates. The donation limit in section 
+101 will effectively limit the amount that national committees 
+can spend on a variety of activities that only indirectly and 
+partially assist a candidate for federal office, such as voter 
+registration, voter identification, and get-out-the-vote efforts. It 
+should therefore be subject to strict scrutiny. 
+
+
+3. Section 101 violates the First Amendment because it 
+fails strict, or even intermediate, scrutiny. We begin by 
+
+
+20 
+
+
+identifying the governmental interests implicated by section 
+101, then consider whether section 101 is sufficiently tailored. 
+
+
+a. This Court held in Buckley, and has since reaffirmed, that 
+“preventing corruption or the appearance of corruption are the 
+only legitimate and compelling government interests thus far 
+identified for restricting campaign finances.” FEC v. National 
+Conservative Political Action Comm., 470 U.S. 480, 496-97 
+(1985). “The hallmark of corruption,” in turn, “is the financial 
+quid pro quo: dollars for political favors.” Jd. at 497; accord 
+Buckley, 424 U.S. at 26, 27, 45. 
+
+
+Section 101 cannot implicate the governmental interest in 
+preventing actual or apparent corruption in the classic, quid pro 
+quo sense, since a political party (unlike a current or future 
+officeholder) cannot respond to a donation by taking some 
+legislative action, but instead can act only through its 
+officeholders. Unsurprisingly, defendants have failed, despite 
+voluminous discovery, to identify a single instance of quid pro 
+quo corruption attributable to the donation of state-regulated 
+funds. See Supp. App. 325sa-328sa, 409sa-411sa, 425sa 
+(Henderson), 1 103sa-1111sa (Leon). Consequently, defendants 
+contend that the donation of state-regulated funds can be 
+corrupting because it allows donors to buy not some particular 
+legislative action, but rather “access” to officeholders through 
+their political parties. Defendants have suggested that this 
+alleged purchasing of “access” gives rise not to actual 
+corruption or the appearance of corruption, but rather to the 
+“possibility of the appearance of corruption.” Supp. App. 
+430sa, 433sa (Henderson) (emphasis added). 
+
+
+We recognize that language in some of this Court’s most 
+recent campaign finance opinions suggests that the 
+government’s interest in preventing corruption sweeps beyond 
+preventing classic, guid pro quo corruption, to stemming the 
+“broader threat from politicians too compliant with the wishes 
+of large contributors,” Shrink Missouri, 528 U.S. at 389, and 
+barring “undue influence on an officeholder’s judgment, and the 
+
+
+- a 
+
+
+appearance of such influence,” Colorado II, 533 U.S. at 441. 
+However broad these formulations may be, they do not reach as 
+far as defendants’ “access”-based interest. Defendants’ 
+“unexamined, anecdotal accounts” aside, Board of Trs. of Univ. 
+of Ala. v. Garrett, 531 U.S. 356, 370 (2001), there are no 
+legislative findings, and certainly no valid statistical evidence, 
+that money secures access to officeholders, see Supp. App. 
+328sa-332sa (Henderson), 1081sa (Kollar-Kotelly), 1263sa- 
+1264sa (Leon). Even if there were sufficient evidence of such a 
+link, however, defendants’ “access”-based interest proves too 
+much. Assuming that officeholders naturally provide greater 
+access to their supporters, and specifically to their financial 
+supporters (whether or not that includes the financial supporters 
+of their political parties), than to their opponents, the only 
+solution would be to take all money (whether federally 
+regulated and state-regulated) out of politics altogether — 
+which BCRA does not purport to do. In any event, this Court 
+has squarely rejected such a broad equality-based rationale as a 
+justification for campaign finance regulation. See, e.g., 
+Buckley, 424 U.S. at 48-49. 
+
+
+In the alternative, BCRA’s defenders have contended that the 
+government has an interest in imposing additional limits that, 
+while themselves not justified by the anti-corruption rationale, 
+are necessary to prevent circumvention of existing limits that 
+are justified by the anti-corruption rationale. 
+
+
+To the extent this Court has invoked such a rationale, it has 
+done so only in a limited context: namely, to uphold limits on 
+contributions that could be used for the same purposes as direct 
+contributions to federal candidates themselves. Thus, in 
+Buckley, the Court upheld the $25,000 federal limit on 
+aggregate contributions by an individual in a calendar year, on 
+the ground that otherwise an individual could circumvent the 
+$1,000 limit on contributions to a single candidate simply by 
+contributing to that candidate’s political party or sympathetic 
+PACs. See 424 U.S. at 38. Similarly, in California Medical, 
+
+
+22 
+
+
+the Court upheld the $5,000 federal limit on contributions to 
+PACs, on the virtually identical rationale that otherwise an 
+individual could circumvent the $1,000 limit on contributions 
+to a single candidate and the $25,000 annual limit on aggregate 
+contributions. See 453 U.S. at 198 (plurality opinion); id. at 
+203 (Blackmun, J., concurring in part and concurring in the 
+judgment). In its recent decision in Beaumont, the Court 
+suggested that a similar rationale could be used to justify the 
+ban on contributions by corporations. See 123 S. Ct. at 2207. 
+Finally, in Colorado II, the Court, while frequently referring to 
+“circumvention,” upheld limits on coordinated expenditures by 
+political parties on the basis of the longstanding rule, dating 
+from Buckley, that expenditures coordinated with federal 
+candidates are the functional equivalent of contributions to the 
+candidates themselves. See 533 U.S. at 442-43. Pivotally, 
+however, the Court has never embraced an anti-circumvention 
+rationale to justify limitations on donations that are not 
+interchangeable with direct contributions to candidates, much 
+less limitations on independent expenditures (which, of course, 
+are entitled to the fullest First Amendment protection). Indeed, 
+the fifth-vote concurrence in California Medical expressly 
+disclaimed application of the anti-circumvention rationale to 
+indenendent expenditures. See 453 U.S. at 203 (Blackmun, J., 
+concurring in part and concurring in the judgment). 
+
+In reality, defendants’ anti-circumvention rationale is no 
+rationale at all. Amy currently lawful use of money to affect the 
+political process could be characterized as an attempt to 
+“circumvent” currently existing prohibitions on other uses. If 
+this Court were to uphold BCRA on the basis of the anti- 
+circumvention rationale, defendants would likely justify future 
+restrictions as necessary to prevent circumvention of BCRA, 
+much as they have justified BCRA as necessary to prevent 
+circumvention of existing law (and, indeed, have justified 
+certain provisions of BCRA as necessary to prevent 
+circumvention of other provisions of BCRA). This house of 
+
+
+23 
+
+
+cards cannot stand. The Court should reject defendants’ 
+perverse attempt to fashion a limitless “prophylactic” rationale 
+for suppressing, rather than protecting, core constitutional 
+rights. See NAACP v. Button, 371 U.S. 415, 438 (1963). 
+
+
+b. The remaining question is whether section 101 is 
+sufficiently tailored to the government's interest in preventing 
+actual or apparent corruption. It is not. 
+
+
+i At the outset, it is questionable whether section 101 is 
+tailored to the government’s interest in preventing corruption at 
+all. To conclude that it is, the Court would have to indulge two 
+critical assumptions. 
+
+
+First, the Court would have to assume that the donation of 
+state-regulated funds to, or the spending of state-regulated funds 
+by, a political party is just as corrupting of a candidate as a 
+contribution directly to the candidate. To make such an 
+assumption would work a major departure from existing law 
+In Colorado Republican Fed. Campaign Comm. v. FEC 518 
+U.S. 604 (1996) (Colorado J), this Court held that Congress 
+could not constitutionally limit independent expenditures of 
+federally regulated funds by political parties. The plurality 
+expressly rejected the argument that there are “any special 
+dangers of corruption associated with political parties that tip 
+the constitutional balance in a different direction.” Jd. at 616. 
+Indeed, the Court noted that expenditures by political parties 
+were designed not only to get the party’s candidates elected, but 
+to promote the views of the party’s members. See id. (plurality 
+opinion), id. at 629 (Kennedy, J., concurring in part and 
+dissenting in part); id. at 646 (Thomas, J., concurring in part 
+and dissenting in part). Defendants advance no justification for 
+treating the disbursement of state-regulated funds by political 
+parties (or the donation of state-regulated funds to political 
+parties . for use in such disbursements) differently from 
+expenditures of federally regulated funds by the same parties for 
+
+
+24 
+
+
+purposes of First Amendment analysis.* 
+
+
+Second, the Court would have to assume that a donation of 
+state-regulated funds to be used for activities that do not 
+exclusively serve to get a candidate elected, but instead benefit 
+candidates up and down the party ticket (such as party- 
+promoting campaign activity), or the spending of state-regulated 
+funds for such activities, is just as corrupting of a candidate as a 
+contribution to be used for activities that exclusively do so 
+(such as express advocacy). Again, this Court’s decisions 
+counsel against such an assumption. In Colorado I, the 
+plurality expressly recognized that “FECA permits unregulated 
+‘soft money’ contributions to a party for certain activities.” 518 
+U.S. at 616. Nevertheless, the plurality stated outright that “the 
+opportunity for corruption posed by these greater opportunities 
+for contributions is, at best, attenuated.” Id. (emphasis added), 
+see also id. at 647 (Thomas, J., concurring in part and 
+dissenting in part) (noting that “there is little risk that an 
+individual donor could use a party as a conduit for bribing 
+candidates”). As a matter of common sense, because state- 
+regulated funds by definition can be used only for activities that 
+influence state elections (or in combination with federally 
+regulated funds, for activities that influence both state and 
+federal elections), a candidate will feel less indebted, ceteris 
+paribus, to a donor for contributing state-regulated funds, which 
+will affect his own election only indirectly and partially (if at 
+all), than to another donor who contributes federally regulated 
+funds, which can be used directly and entirely to support his 
+
+
+* In upholding limits on coordinated expenditures by political parties, the 
+Court did state that political parties “act as agents for spending on behalf of 
+those who seek to produce obligated officeholders.” Colorado II, 533 U.S. 
+at 452. That makes our point. Since Buckley, the Court has treated 
+coordinated expenditures as the functional equivalent of direct contributions 
+to a candidate. See id. at 444. And the Court went on in Colorado II to 
+emphasize that, in upholding limits on coordinated expenditures by political 
+parties, it was treating political parties no differently from individuals or 
+PACs, which are similarly limited. See id. at 455. 
+
+
+25 
+
+
+election. See, e.g., Supp. App. 1105sa-1106sa (Leon). 
+
+
+ii. Even if the disbursement or donation of state-regulated 
+funds could be corrupting in some circumstances, section 101 is 
+substantially overbroad. If Congress were truly concerned with 
+actual or apparent corruption, it could readily have enacted a 
+more narrowly tailored alternative. F 
+
+
+For instance, to the extent “large” donations of state- 
+regulated funds are seen to be corrupting, see Shrink Missouri, 
+528 U.S. at 389, Congress could have imposed a cap on the 
+amount of such donations. Indeed, the Hagel Amendment, 
+which Congress considered and rejected, would have done just 
+that. Specifically, it would have imposed a $60,000 aggregate 
+limit on donations of federally regulated funds and state- 
+regulated funds from any one donor to a national party 
+committee. See 147 Cong. Rec. $2908 (daily ed. Mar. 26, 
+2001) (proposed amendment to S. 27, 107th Cong. (2001)). 
+Instead, section 101 bans any donations of state-regulated funds 
+to national committees, no matter how small, and further bans 
+disbursements of state-regulated funds by national committees 
+for any purpose (and by state and local committees for “federal 
+election activity”). In addition, section 101 imposes a variety of 
+restrictions with no evident connection to any concern about 
+large donations, including (but not limited to) the ban on joint 
+efforts by state and local committees to raise Levin funds; the 
+ban on transfers of Levin funds between state and local 
+committees; and the ban on solicitations by party committees 
+for, or donations by party committees to, certain tax-exempt 
+organizations and political committees. 
+
+
+Likewise, to the extent particular uses of state-regulated 
+funds are seen as corrupting, Congress could have imposed 
+narrower limits on the uses to which such funds could be put. 
+Specifically, Congress could have limited the use of state- 
+regulated funds only for those activities that arguably have a 
+more direct effect on a federal candidate’s election (such as 
+advertising that refers to a federal candidate, assuming for the 
+
+
+26 
+
+
+moment that such disbursements could constitutionally be 
+regulated),° and not for those activities whose effect on a federal 
+candidate’s election is concededly more attenuated (such as 
+party-promoting campaign activity). Instead, section 101 bans 
+all uses of state-regulated funds by national committees, and 
+restricts a number of uses of state-regulated funds by state and 
+local committees which primarily or only affect state elections. 
+And section 101 imposes a variety of restrictions on the transfer 
+and solicitation of funds, which cannot be justified by any 
+concern about the use of state-regulated funds for certain 
+activities. This is overkill in the extreme. Given the 
+availability of more narrowly tailored alternatives, section 101 
+violates the First Amendment. 
+
+
+B. The “Soft Money” Provision Constitutes An Invalid 
+Exercise Of Congress’ Power To Regulate Elections 
+Under Article I, Section 4, Of The Constitution. 
+
+
+Because the district court struck down most of section 101 on 
+First Amendment grounds, it had almost no occasion to reach 
+plaintiffs’ Elections Clause arguments, though concerns about 
+section 101’s regulation of state and local activities seemed to 
+animate the district court’s decision that most of section 101 
+was overbroad. See, e.g., Supp. App. 433sa (Henderson) 
+(noting that provisions regulating state and local party 
+
+
+> In his controlling opinion, Judge Leon upheld provisions of section 101 
+that (1) restrict state and local party committees from making disbursements 
+of state-regulated funds for certain advertising that refers to a federal 
+candidate, see BCRA § 101(a) (adding new FECA § 323(b)(1)); BCRA 
+§ 101(b) (adding new FECA § 301(20)(A)(iii)), and (2) restrict state and 
+local candidates from making disbursements of state-regulated funds for such 
+advertising, see BCRA § 101(a) (adding new FECA § 323(f)(1)). Judge 
+Leon also rewrote section 101 to add a similar restriction for national party 
+committees. See Supp. App. 111lsa-1118sa. Whether as written by 
+Congress or as rewritten by Judge Leon, however, all of these provisions 
+violate the First Amendment for the simple reason that they impermissibly 
+regulate expenditures for speech that does not constitute express advocacy. 
+See infra Part Il. 
+
+
+27 
+
+
+committees “apply wholesale to state and local party 
+expenditures for state-focused election activities that barely 
+affect federal elections”), 1101sa (Leon) (concluding that “the 
+evidence, legal precedent, and common sense * * * do not 
+support Congress’ effort to regulate nonfederal funds used for 
+nonfederal and mixed purposes”). Quite apart from First 
+Amendment concerns, section 101 should fall in its entirety. 
+Section 101 massively intrudes into a core area of state 
+sovereignty — the ability of States to regulate their own 
+elections. The Elections Clause authorizes Congress to regulate 
+the financing of federal, not state, campaigns. 
+
+
+1. a. The Elections Clause states: “The Times, Places and 
+Manner of holding Elections for Senators and Representatives, 
+shall be prescribed in each State by the Legislature thereof; but 
+the Congress may at any time by Law make or alter such 
+Regulations, except as to the Places of chusing Senators.” U.S. 
+Const. art. I, § 4, cl. 1. In Buckley, this Court assumed that the 
+Elections Clause enabled Congress to regulate the financing of 
+federal campaigns. See 424 U.S. at 13. But it added that none 
+
+
+of the parties was challenging Congress’ power to enact FECA. 
+See id. at 13-14. 
+
+
+Whatever the merits of the Court’s assumption in Buckley 
+that the power to regulate the “Manner of holding Elections” 
+entails the power to regulate the manner of financing election 
+campaigns — which appellants, like the plaintiffs in Buckley, 
+do not challenge — the text and history of the Elections Clause, 
+and subsequent case law interpreting it, make clear that the 
+Constitution does not empower Congress to regulate the 
+financing of campaigns for state office. 
+
+
+b. The Elections Clause arose from a carefully crafted 
+compromise between delegates to the Constitutional 
+Convention who wanted the States to have plenary power over 
+the election of federal officials, and delegates who wanted 
+Congress to enjoy that power. See Oregon v. Mitchell, 400 U.S. 
+112, 119 n.2 (1970) (opinion of Black, J.); 2 Joseph Story, 
+
+
+28 
+
+
+Commentaries on the Constitution of the United States 280-92 
+(ist ed. 1833). Under that compromise, States were given the 
+power to enact regulations concerning federal elections, but 
+Congress was given the power to override those regulations. 
+The latter power was designed to counteract the “potential for 
+States’ abuse” of the former. U.S. Term Limits, Inc. v. 
+Thornton, 514 U.S. 779, 808-09 (1995). Indeed, the Framers 
+were concerned that, if States enjoyed unlimited power over the 
+election of federal officials, they might refuse to provide for 
+their election at all. See, e.g., The Federalist No. 59, at 363 
+(Clinton Rossiter ed. 1961) (Alexander Hamilton). 
+
+
+What is abundantly clear, however, is that the Framers left 
+untouched the power of the States to regulate state elections. 
+As Hamilton wrote in spirited defense of the Elections Clause: 
+
+
+Suppose an article had been introduced into the 
+Constitution, empowering the United States to regulate 
+the elections for the particular States, would any man 
+have hesitated to condemn it, both as an unwarrantable 
+transposition of power, and as a premeditated engine for 
+the destruction of the State governments? The violation 
+of principle, in this case, would have required no 
+comment; and, to an unbiased observer, it will not be 
+less apparent in the project of subjecting the existence 
+of the national government, in a similar respect to the 
+pleasure of the State governments. An impartial view 
+of the matter cannot fail to result in a conviction that 
+each, as far as possible, ought to depend on itself for its 
+own preservation. 
+
+
+Id.; see also 2 Story, supra, at 284-85 (paraphrasing Hamilton). 
+
+
+c. In a series of cases after the Civil War, the Court 
+confirmed what is plain from the text and contemporary 
+understanding of the Elections Clause: namely, that it does not 
+confer upon Congress power to regulate state elections, much 
+less to regulate campaign financing in state elections. In Ex 
+
+
+29 
+
+
+parte Siebold, 100 U.S. 371 (1879), the Court considered the 
+constitutionality of provisions of the Enforcement Act barring 
+fraud by, or interference with, election officers in House 
+elections. The Court noted that, while States often hold their 
+elections at the same time as federal elections, Congress does 
+not thereby acquire the power to regulate state elections in such 
+cases; rather, Congress merely retains its power to regulate 
+federal elections. See id. at 393; Ex parte Yarborough, 110 
+U.S. 651, 662 (1884). Indeed, the Court specifically added the 
+disclaimer that, if election officers were to take actions that 
+“ha[d] exclusive reference to the election of State or county 
+officers,” Congress would lack any authority to regulate those 
+actions. See Siebold, 100 U.S. at 393. Likewise, in United 
+States v. Reese, 92 U.S. 214 (1875), the Court held that the only 
+possible source of congressional authority for Enforcement Act 
+provisions regulating state elections was the Fifteenth 
+Amendment, not the Elections Clause. See id. at 217-18. 
+Finally, in Blitz v. United States, 153 U.S. 308 (1894), the Court 
+ordered dismissal of an Enforcement Act indictment that failed 
+to specify that the defendant impersonated another voter in 
+voting for a federal candidate. The Court reasoned that 
+“{v]oting, in the name of another, for a state officer, cannot 
+possibly affect the integrity of an election for representative in 
+congress,” and added that “with frauds of that character the 
+national government has no concern.” Jd. at 314-15; see also 
+Ex parte Clarke, 100 U.S. 399, 404 (1879) (upholding 
+punishment of election official for violation “in reference to an 
+election of a representative to Congress”). 
+
+
+- More recent eases reaffirm the foundational principle that the 
+Elections Clause gives Congress no power over state elections. 
+Most notably, in Oregon v. Mitchell, the Court considered the 
+scope of the Elections Clause in determining whether Congress 
+had the power to give 18-year-olds the right to vote in state, as 
+well as federal, elections. In his controlling opinion conctuding 
+that Congress lacked that power, Justice Black emphasized that 
+
+
+30 
+
+
+“the Framers of the Constitution intended the States to keep for 
+themselves, as provided in the Tenth Amendment, the power to 
+regulate elections.” 400 U.S. at 124-25 (footnote omitted). 
+Justice Black added that “{n]o function is more essential to the 
+separate and independent existence of the States and their 
+governments than the power to determine within the limits of 
+the Constitution the qualifications of their own voters for state, 
+county, and municipal offices and the nature of their own 
+machinery for filling local public offices.” /d-at 125. Finally, 
+Justice Black noted that the States’ power to regulate state 
+elections is limited only by those constitutional amendments 
+that operate directly on the States (such as the Civil War 
+Amendments), “each of which has assumed that the States had 
+general supervisory power over state elections.” /d. at 125-26. 
+
+
+In a similar vein, other cases reaffirm the broad power of 
+States to regulate their own elections. See, e.g., Tashjian v. 
+Republican Party of Conn., 479 U.S. 208, 217 (1986); 
+Sugarman v. Dougall, 413 U.S. 634, 647 (1973); Pope v. 
+Williams, 193 U.S. 621, 632 (1904). Even those Justices who 
+have consistently dissented in the Court’s recent federalism 
+cases have agreed that “[a] State’s power to determine how its 
+officials are tobe elected is a quintessential attribute of 
+sovereignty.” California Democratic Party, 530 U.S. at 590 
+(Stevens, J., joined by Ginsburg, J., dissenting).° 
+
+
+2. Section 101 of BCRA impermissibly infringes on the 
+ability of States to regulate state elections in four ways. 
+
+
+a. Section 101 severely limits the involvement of national 
+party committees in state and local elections. Those 
+committees are prohibited outright from receiving or spending 
+any state-regulated funds — even if they are to be used solely 
+
+
+° Indeed, the FEC itself conceded, at least prior to this litigation, that “[t}he 
+Constitution grants each state the right to * * * establish its own rules for 
+financing the nonfederal elections held within its borders.” Federal Election 
+Commission, Twenty Year Report 19 (1995). 
+
+
+31 
+
+
+for state and local elections, and even if no federal elections are 
+on the ballot (as in the States that hold “off-year” elections). 
+See BCRA § 101(a) (adding new FECA § 323(a)(1)). 
+
+
+“National” party committees are known as such for good 
+reason: their responsibilities extend beyond federal elections to 
+state and even local elections as well. National party 
+committees have given substantial amounts of state-regulated 
+funds to, or spent state-regulated funds on behalf of, state and 
+local candidates: for example, in the last two off-year election 
+cycles, the RNC gave over $9.5 million to state and local 
+candidates, and directly spent over $1 million on such 
+candidates’ behalf. See Supp. App. 110lsa n.31, 1214sa 
+(Leon). National committees have also spent funds on 
+grassroots activities in connection with state and local elections. 
+See, e.g., id. at 536sa-537sa (Kollar-Kotelly). And in addition 
+to spending money directly on state and local elections, national 
+committees have transferred state-regulated funds to state and 
+local committees for use in those elections. Those transfers 
+have constituted a sizable portion of the budgets of state and 
+local committees in recent years. See, e.g., id. at 520sa (Kollar- 
+Kotelly). A substantial amount of that money was used solely 
+for the purpose of influencing state and local elections: in the 
+last two off-year election cycles, the RNC transferred over $10 
+million to state committees for use in those elections. See id. at 
+1101san.31, 1214sa (Leon). 
+
+
+Section 101 bans all of those activities, and indeed imposes 
+additional restrictions on national committees. Section 101 
+prohibits national committees from soliciting state-regulated 
+funds (or Levin federally regulated funds) for state and local 
+committees. See BCRA §10I(a) (adding new FECA 
+§§ 323(a)(1), 323(b)(2(C)(i)). It bans national committees 
+from transferring any funds to state and local committees to use 
+for Levin activities, which include many activities that affect 
+only state elections. See BCRA § 101(a) (adding new FECA 
+§ 323(b)(2)(B)(iv)). And it prohibits national committees, like 
+
+
+32 
+
+
+state and local ones, from soliciting funds for, or donating funds 
+to, certain tax-exempt organizations and political committees, 
+even if those funds are to be used for state and local elections. 
+See BCRA § 101(a) (adding new FECA § 323(d)). 
+
+
+In sum, section 101 leaves national party committees in the 
+unique and ironic position of being able to use only federally 
+regulated funds for any activity affecting state and local 
+elections. It thereby displaces the prior regulatory regime, 
+which more adequately accommodated the competing state 
+regulatory interest by allowing national committees to use a 
+combination of federally regulated and state-regulated funds for 
+activities affecting both federal and state elections, and only 
+state-regulated funds for activities affecting state elections. 
+
+
+b. Section 101 has similarly draconian effects on the 
+activities of state and local party committees. Those 
+committees are banned from spending state-regulated funds for 
+“federal election activity.” See BCRA § 101(a) (adding new 
+FECA § 323(b)\(1)); BCRA § 101(b) (adding new FECA 
+§ 301(20)-(24)). State and local committees must now pay for 
+these activities solely out of ordinary federally regulated funds 
+— or, to the extent that these activities qualify as Levin 
+activities, out of a combination of ordinary federally regulated 
+funds and Levin federally regulated funds. See BCRA § 101(a) 
+(adding new FECA § 323(b)(2)(A)). 
+
+
+BCRA purports to regulate spending by state and local 
+committees only when they engage in what the statute 
+deceptively calls “federal election activity.” This is mere 
+wordplay. The fact that campaign activity occurs when a 
+federal election is on the ballot does not remotely render the 
+activity itself “federal.” In most States, state and federal 
+elections are held simultaneously. As to those States, many 
+activities are defined as “federal election activity” even if they 
+have effects on both federal and state elections (such as voter 
+registration and voter identification); if they have no practical 
+effect on federal elections at all (such as certain get-out-the-vote 
+
+
+; 
+x 
+| 
+: 
+
+
+33 
+
+
+activity or party-promoting campaign activity); or if they are 
+directed only toward state and local elections (such as any 
+covered activity in a district in which the federal elections on 
+the ballot are either actually or practically uncontested).’ 
+
+
+By requiring state and local committees to pay for all of these 
+activities exclusively with federally regulated funds,* section 
+101 effectively overrides the more generous laws of States, such 
+as Missouri, that allow donations for such activities from 
+corporations and unions (unlike federal law); States, such as 
+Pennsylvania, that allow larger donations than federal law, or 
+indeed in unlimited amounts; or States, such as Virginia, that 
+allow both. See, e.g., Supp. App. 424sa (Henderson). As a 
+result, state and local committees will no longer be able to avail 
+themselves of millions of dollars raised in full compliance with 
+applicable state law. The California Democratic Party, for 
+example, has historically received more than three-quarters of 
+its donations of state-regulated funds from large donors, see id. 
+at 1241sa (Leon) — donations that could not constitute ordinary 
+or Levin federally regulated funds, and thus could no longer be 
+put toward “federal election activity,” if BCRA is upheld. 
+
+
+In sum, section 101 requires state and local party committees 
+to use only federally regulated funds for many activities 
+affecting state and local elections. It thus fails properly to 
+accommodate the States’ interest in regulating the involvement 
+of state and local committees in their own elections. 
+
+
+” In the 2002 elections in California, for example, there were no elections for 
+the Presidency or the Senate, and only one of the 53 elections for the House 
+of Representatives was closely contested. See Supp. App. 311sa 
+(Henderson), 1228sa, 1229sa (Leon); see generally id. at 1106sa n.34 (Leon) 
+(noting “practical reality that congressional races in many states are either 
+noncompetitive[] or uncontested”). 
+
+
+* Section 101(b) of BCRA (adding new FECA § 301(20)(B)) does allow 
+state and local committees to use state-regulated funds for a few narrow 
+categories of activities that affect state elections, including paying for 
+bumper stickers and yard signs that identify only a state or local candidate. 
+
+
+34 
+
+
+c. Inaddition to political parties, section 101 imposes limits 
+on the activities of federal officeholders and candidates in 
+connection with state and local elections. Those individuals are 
+banned from soliciting or directing state-regulated funds in 
+connection with any state or local election unless those funds 
+satisfy the source-and-amount requirements of federal law. See 
+BCRA § 101(a) (adding new FECA § 323(e)(1)(B)). Further, 
+they are banned from soliciting or directing Levin federally 
+regulated funds for Levin activity, even if it affects state 
+elections. See id. (adding new FECA §§ 323(b)(2)(C)\(i), 
+323(e)(1)(A)). Although federal officeholders and candidates 
+may speak at or attend fundraising events for state and local 
+committees, see id. (adding new FECA § 323(e)(3)), they are 
+otherwise greatly restricted in participating in fundraising 
+programs for state and local committees and candidates. 
+
+
+The effects of this federal intrusion will be severe. State and 
+local committees rely heavily on the participation of federal 
+officials in their parties’ integrated fundraising programs. See, 
+e.g., Supp. App. 1222sa-1223sa (Leon). For instance, federal 
+officeholders and candidates will be prohibited from writing or 
+calling donors to ask them to make donations otherwise 
+permitted by state law to state and local committees and 
+candidates, as Senator McConnell has frequently done in the 
+past in his capacity as de facto leader of the Kentucky 
+Republican Party. See, e.g., 2 PCS/McC 1-4 (McConnell); 
+MMc 0095. The involvement of federal officeholders and 
+candidates in state and local elections, like that of national party 
+committees, will therefore be greatly curtailed.’ 
+
+
+* Judge Henderson did address appellants’ federalism claim as to the 
+restrictions on federal officeholders and candidates, concluding that 
+Congress does have the power to regulate the solicitation and transfer of 
+non-federal funds “where a federal candidate is the one soliciting.” Supp. 
+App. 452sa n.174. The Elections Clause, however, gives Congress only the 
+power to regulate federal elections — not plenary power to regulate the 
+activities of federal officeholders or candidates even in exclusive connection 
+with state and local elections. 
+
+
+35 
+
+
+d. Finally, section 101 intrudes even into the activities of 
+state and local candidates. Those candidates are banned from 
+spending state-regulated funds on any advocacy which “refers 
+to” a clearly identified candidate for federal office and which 
+“promotes,” “supports,” “attacks,” or “opposes” a candidate for 
+that office, regardless of how that advocacy is transmitted or 
+when it occurs. See BCRA § 101(a) (adding new FECA 
+§ 323(f)(1)). For example, if a Democratic candidate for the 
+California Legislature were to spend funds lawfully raised 
+under state law on a print ad criticizing his opponent for 
+supporting tax cuts, and linking his opponent’s support of tax 
+cuts to President Bush’s, the state candidate could thereby 
+violate BCRA — notwithstanding the fact that such an ad 
+would primarily, perhaps exclusively, affect a state election. 
+This is tantamount to an outright ban on such advocacy, since 
+there is no such thing as “federally regulated funds” for state 
+and local candidates. This restriction, like the other restrictions 
+in section 101, fails properly to accommodate the competing 
+state interest in regulating state and local elections, and should 
+therefore be held invalid. 
+
+
+C. By Discriminating Against Political Parties, The 
+“Soft Money” Provision Violates The First And 
+Fifth Amendments. 
+
+
+Section 101 also fails constitutional muster because it limits 
+speech by political parties but not identical speech by other 
+entities. As this Court has observed, “[i]n the realm of 
+protected speech, the legislature is constitutionally disqualified 
+from dictating the subjects about which persons may speak and 
+the speakers who may address a public issue.” First Nat'l Bank 
+of Boston v. Bellotti, 435 U.S. 765, 784-85 (1978) (emphasis 
+added; citation omitted). This requirement of neutrality among 
+speakers is drawn not only from the equal protection component 
+of the Fifth Amendment, but from the First Amendment itself. 
+See, e.g., Police Dep't of Chicago v. Mosley, 408 U.S. 92, 96 
+(1972). Discrimination among speakers is a species of 
+
+
+36 
+
+
+impermissible underinclusiveness, insofar as the government is 
+prohibiting regulable speech by some speakers but not others. 
+See, e.g., Republican Party of Minn. v. White, 536 U.S. 765, 
+780 (2002); City of Ladue v. Gilleo, 512 U.S. 43, 52 (1994); 
+Carey v. Brown, 447 U.S. 455, 461-62 (1980). 
+
+
+Consonant with this fundamental principle, the Court, in its 
+two most recent cases involving campaign finance and political 
+parties, reaffirmed that nothing relating to the government’s 
+interest in preventing corruption justifies subjecting political 
+parties to worse treatment than other entities. In Colorado J, in 
+concluding that political parties (like other entities) could not be 
+restricted in making independent expenditures, the plurality 
+expressly rejected the argument that there are “any special 
+dangers of corruption associated with political parties that tip 
+the constitutional balance in a different direction.” 518 U.S. at 
+616. And in Colorado IJ, in concluding that political parties 
+(like other entities) could be restricted in making coordinated 
+expenditures, the Court reiterated that there is “no reason to see 
+[political party] expenditures as more likely to serve or be seen 
+as instruments of corruption than * * * expenditures by anyone 
+else.” 533 U.S. at 444. 
+
+
+It is indisputable that section 191 will place political party 
+committees at a severe disadvantage compared to interest 
+groups. Whereas national party committees are barred outright 
+from raising state-regulated funds — or spending them on 
+contributions to state or local candidates, voter registration, 
+voter identification, get-out-the-vote efforts, party-promoting 
+campaign activity, or even administrative expenses — interest 
+groups will be able to continue to raise and spend non-federally 
+regulated funds for all of these purposes. Moreover, whereas 
+national party committees are barred outright from spending 
+state-regulated funds on so-called “issue advocacy” (regardless 
+of whether it refers to a federal candidate, or how and when it is 
+disseminated), interest groups will continue to be able to raise 
+and spend non-federally regulated funds for such advocacy, 
+
+
+- 
+? 
+
+
+37 
+
+
+subject to the restrictions contained in the “electioneering 
+communications” provisions of BCRA, and unincorporated 
+organizations (and qualified non-profit corporations, under the 
+so-called “MCFL” exception) will be able to raise and spend 
+non-federally regulated funds for such advocacy without 
+restriction.” Similar disabilities will attach to state and local 
+committees, which are barred from using state-regulated funds 
+for many of the same purposes as national committees. 
+
+
+In the recently completed 2002 election cycle, the major 
+parties collectively raised almost $500 million in state-regulated 
+funds. See Supp. App. 489sa (Kollar-Kotelly). Unsurprisingly, 
+interest groups have already been gearing up to fill the void and 
+secure those funds themselves for use in many of the same 
+activities previously funded by the political parties. See, e.g., 
+
+
+'° In his controlling opinion below, Judge Leon seemingly recognized the 
+equal protection problem, and attempted to cure it by rewriting the statute so 
+as to impose similar restrictions on party committees under the “soft money” 
+provisions as On interest groups under the “electioneering communications” 
+provisions. Compare Supp. App. 1084sa-1142sa (rewriting section 101 to 
+bar disbursements of state-regulated funds by party committees for a “public 
+communication that refers to a clearly identified candidate for Federal office 
+* * * and that promotes or supports a candidate for that office, or attacks or 
+opposes a candidate for that office”) with id. at 1159sa-1166sa (rewriting 
+section 201 to bar disbursements of funds by corporations and unions for 
+“any broadcast, cable, or satellite communication which promotes or 
+supports a candidate for [federal] office, or attacks or opposes a candidate 
+for that office”). Even under Judge Leon’s procrustean version of BCRA, 
+however, political party committees would still be at a disadvantage relative 
+to unincorporated organizations and qualified non-profit corporations. 
+
+
+Conversely, if this Court holds the “electioneering communications” 
+provisions of BCRA entirely unconstitutional, thereby allowing ail interest 
+groups to engage in such communications without restriction, the inequities 
+between party committees and interest groups in their use of non-federally 
+regulated funds will only grow. Indeed, if this Court strikes down the 
+“electioneering communications” provisions, it should strike down the “soft 
+money” provision as well, since Congress would likely not have enacted the 
+latter provision in the former provisions’ absence. See, e.g., Alaska Airlines, 
+Inc. v. Brock, 480 U.S. 678, 685 (1987). 
+
+
+38 
+
+
+id. at 415sa-416sa (Henderson). Indeed, interest groups have 
+freely acknowledged that they expect their donations to increase 
+as a result of section 101. See, e.g., id. at 324sa (Henderson). 
+
+
+By effectively diverting funds from the political parties to 
+interest groups, section 101 will empower narrowly focused 
+interest groups at the expense of the political parties, and 
+thereby detract from the central and unifying role that parties 
+have played in our political process from the earliest days of the 
+Republic. “The preservation and health of our political 
+institutions, state and federal, depends to no small extent on the 
+continued vitality of our two-party system, which permits both 
+stability and measured change.” Davis v. Bandemer, 478 U.S. 
+109, 145 (1986) (O’Connor, J., concurring); see also Colorado 
+I, 518 U.S. at 618 (plurality opinion) (noting “important and 
+legitimate role” political parties have played in American 
+political process). By impermissibly disadvantaging political 
+parties, section 101 violates fundamental principles of free 
+speech and equal protection. 
+
+
+Il. THE “ELECTIONEERING COMMUNICATIONS” 
+PROVISIONS OF BCRA ARE UNCONSTITU- 
+TIONAL. 
+
+
+Sections 201, 203, 204, and 311 of BCRA impose draconian 
+restrictions on the most vital speech in our representative 
+democracy: speech about public issues and public officials. Ina 
+nation that so highly values and so passionately protects 
+political discourse, it is difficult to conceive of a more 
+constitutionally threatening sort of legislative intrusion than one 
+that so stifles debate at the very core of the First Amendment. 
+
+
+The district court correctly struck down the core of these 
+provisions, letting stand a truncated and plainly unconstitutional 
+scrap of an already unconstitutional congressional offering. 
+This Court should finish the job and strike the “electioneering 
+communications” provisions in their entirety. 
+
+
+39 
+
+
+A. Under Buckley and MCFL, The Government May 
+
+
+Regulate Only Speech That Constitutes “Express 
+Advocacy.” 
+
+
+1. We begin with first principles. Speech about politics, 
+issues, and elections is entitled to the most solicitous protection 
+of the First Amendment. Just last year, this Court observed: 
+
+
+[T]he notion that the special context of electioneering 
+justifies an abridgment of the right to speak out on 
+disputed issues sets our First Amendment jurisprudence 
+on its head. [D]ebate on the qualifications of candidates 
+is at the core of our electoral process and of the First 
+Amendment freedoms, nci at the edges. 
+
+
+White, 536 U.S. at 781 (internal quotation omitted). But 
+abridging the right to speak out on issues and candidates is 
+precisely what BCRA’s “electioneering communications” 
+provisions do, and that is precisely why they cannot withstand 
+scrutiny under the First Amendment. 
+
+
+2. There can be no doubt that BCRA’s “electioneering 
+communications” provisions are subject to strict scrutiny. 
+Defendants have conceded this, and the Court’s precedents 
+leave no room for debate on the subject. See, e.g., id; 
+Colorado II, 533 U.S. at 440. It is also indisputable that the 
+“electioneering communications” provisions seek to prohibit 
+core political speech on the basis of its content. As such, they 
+come to the Court bearing a presumption of unconstitutionality. 
+See United States v. Playboy Entm’t Group, Inc., 529 U.S. 803, 
+818 (2000) (“It is rare that a regulation restricting speech 
+because of its content will ever be permissible. Indeed, were 
+we to give the Government the benefit of the doubt when it 
+attempted to restrict speech, we would risk leaving regulations 
+in place that sought to shape our unique personalities or to 
+silence dissenting ideas. When First Amendment compliance is 
+the point to be proved, the risk of nonpersuasion — operative in 
+all trials — must rest with the Government, not with the 
+
+
+40 
+
+
+citizen.”). 
+
+
+3. The Court’s prior decisions in Buckley and FEC v. 
+Massachusetts Citizens for Life, 479 U.S. 238 (1986) (MCFL), 
+make clear that the government may constitutionally regulate 
+only independent expenditures for speech expressly advocating 
+the election or defeat of a candidate, known as “express 
+advocacy.” The rule that a statute regulating expenditures for 
+speech beyond express advocacy is unconstitutionally 
+overbroad is well-established, and defendants’ attempts to 
+recharacterize the cases supporting that rule are unpersuasive. 
+
+
+a. In Buckley, the Court considered a provision of FECA 
+that imposed a $1,000 limit on expenditures by any person 
+“relative to a clearly identified candidate,” and an attendant 
+provision requiring disclosures of certain expenditures made 
+“for the purpose of * * * influencing” federal elections. In both 
+instances, the Court narrowed the provisions at issue to reach 
+only expenditures made for “communications that in express 
+terms advocate the election or defeat of a clearly identified 
+candidate for federal office”: that is, “communications 
+containing express words of advocacy of election or defeat, 
+such as ‘vote for,’ ‘elect,’ ‘support,’ ‘cast your ballot for,’ 
+‘Smith for Congress,’ ‘vote against,’ ‘defeat,’ ‘reject.”” 
+Buckley, 424 U.S. at 44 & n.52, 80. The Court explained that it 
+was narrowing these provisions both to cure vagueness in the 
+statutory language and to eliminate constitutional overbreadth. 
+See, e.g., id. at 80 (giving “expenditure” in disclosure provision 
+same construction as “expenditure” in spending-limit provision, 
+and construing it to reach only expenditures for express 
+advocacy “[t]o insure that the reach of [the disclosure 
+provision] is not impermissibly broad”). 
+
+
+Notably, the Buckley Court drew the constitutional line at 
+express advocacy even though it explicitly recognized the very 
+“problem” that BCRA purports to address — namely, that it 
+would sometimes be difficult to distinguish between speech 
+advocating the election or defeat of candidates and other speech 
+
+
+41 
+
+
+about issues and candidates: 
+
+
+[T]he distinction between discussion of issues and 
+candidates and advocacy of election or defeat of 
+candidates may often dissolve in practical application. 
+Candidates, especially incumbents, are intimately tied to 
+public issues involving legislative proposals and 
+governmental actions. Not only do candidates 
+campaign on the basis of their positions on various 
+public issues, but campaigns themselves generate issues 
+of public interest. 
+
+
+Id. at 42 (emphasis added). The Court added that “{i]t would 
+naively underestimate the ingenuity and resourcefulness of 
+persons and groups desiring to buy influence to believe that 
+they would have much difficulty devising expenditures that 
+skirted the restriction on express advocacy of election or defeat 
+but nevertheless benefited the candidate’s campaign.” /d. at 45. 
+The Court nonetheless concluded that, “[s]o long as persons and 
+groups eschew expenditures that in express terms advocate the 
+election or defeat of a clearly identified candidate, they are free 
+to spend as much as they want to promote the candidate and his 
+views.” Jd. The Court therefore recognized that, while the 
+difficulty in drawing a clear line between express advocacy and 
+other speech about issues and candidates was real, the danger of 
+restricting core political speech by adopting a more expansive 
+definition was more perilous. "' 
+
+
+b. In MCFL, this Court considered a provision of FECA 
+banning expenditures by corporations “in connection with” 
+federal elections — the same provision that BCRA now amends 
+to prohibit disbursements for “electioneering communications.” 
+
+
+'' The Court ultimately struck down the FECA provision limiting 
+expenditures on the ground that, even as narrowed, it failed to serve the 
+governmental interest in preventing actual or apparent corruption, see 
+Buckley, 424 U.S. at 47-48, 51, but upheld the provision requiring 
+disclosures of expenditures, see id. at 81-82. 
+
+
+42 
+
+
+As with the provisions at issue in Buckley, the Court narrowed 
+this provision to cover only expenditures for express advocacy. 
+See 479 U.S. at 248-49. Critically, the Court did not narrow the 
+provision on the ground that it was necessary to cure vagueness 
+in the statutory language, but instead relied solely on the 
+doctrine of constitutional overbreadth. See id. at 248. The 
+Court reasoned that “Buckley adopted the ‘express advocacy’ 
+requirement to distinguish discussion of issues and candidates 
+from more pointed exhortations to vote for particular persons.” 
+Id. at 249 (emphasis added). The Court therefore accepted the 
+corporation’s argument that “the definition of an expenditure 
+*** necessarily incorporates the requirement that a 
+communication ‘expressly advocate’ the election of 
+candidates,” id. at 248, though it proceeded to reject the further 
+argument that the particular communication at issue did not 
+constitute express advocacy, see id. at 249-50. The Court 
+ultimately held that independent expenditures by qualified non- 
+profit corporations (or so-called “MCFL” corporations), like 
+independent expenditures by individuals, political parties, and 
+political action committees, could not constitutionally be 
+regulated. See id. at 263-65. 
+
+
+c. Congress also understood that Buckley’s express- 
+advocacy test was constitutionally compelled. In revising 
+FECA in the immediate aftermath of the Court’s decision in 
+Buckley, Congress amended the expenditure-disclosure 
+provision at issue in Buckley to reach only express advocacy. In 
+doing so, the Conference Committee Report observed that the 
+amendment was necessary “to conform the independent 
+expenditure reporting requirement * * * to the requirements of 
+the Constitution set forth in Buckley v. Valeo with respect to the 
+express advocacy of election or defeat of clearly identified 
+candidates.” H.R. Conf. Rep. No. 94-1507, at 40 (1976), 
+reprinted in 1976 U.S.C.C.A.N. 946, 955 (emphasis added). 
+
+
+d. Inthe nearly three decades since this Court’s decision in 
+Buckley, courts and commentators alike have consistently 
+
+
+43 
+
+
+concluded that Buckley, and then MCFL, drew a 
+constitutionally mandated line between speech that expressly 
+advocates the election or defeat of a candidate and speech that 
+does not. In a number of post-Buckley opinions rejecting the 
+FEC’s persistent efforts to expand the definition of express 
+advocacy articulated by this Court, and therefore to do by 
+regulation what BCRA now attempts to do by statute, the lower 
+courts have consistently concluded that only express advocacy 
+can constitutionally be regulated. See, e.g., Clifton v. FEC, 114 
+F.3d 1309, 1312 (1st Cir. 1997) (noting that, “[iJn [MCFL], the 
+Supreme Court not only narrowed section 4415 by construction 
+but also recognized a First Amendment right to issue 
+advocacy”); FEC v. Christian Action Network, Inc., 110 F.3d 
+1049, 1064 (4th Cir. 1997) (observing that this Court has held 
+that “express words of advocacy * * * are the constitutional 
+minima”) (internal quotation omitted); Faucher v. FEC, 928 
+F.2d 468, 472 (Ist Cir. 1991) (concluding that Buckley and 
+MCFL ensured “the right to engage in issue-oriented political 
+speech” by “limiting the scope of the FECA to express 
+advocacy”).'? Even the Ninth Circuit, the sole court of appeals 
+to sanction the FEC’s efforts to broaden the express-advocacy 
+standard, has agreed that the line between regulable express 
+advocacy and non-regulable political speech is a 
+constitutionally mandated one. See California Pro-Life 
+Council, Inc. v. Getman, 328 F.3d 1088, 1097 (9th Cir. 2003), 
+FEC v. Furgatch, 807 F.2d 857, 860 (9th Cir. 1987). 
+
+
+Similarly, the lower courts have invalidated a variety of state 
+campaign finance laws, some containing starkly unamb:guous 
+Statutory language, on the ground that they may not 
+constitutionally restrict speech beyond express advocacy. See, 
+e.g., Chamber of Commerce v. Moore, 288 F.3d 187, 193 (Sth 
+Cir.) (agreeing with other circuits that, “under Buckley and 
+
+
+? Lower-court cases supporting the proposition that the express-advocacy 
+line is constitutionally compelled are too numerous to list here. See Supp. 
+App. 354sa n.145 (Henderson) (listing a selection of cases). 
+
+
+44 
+
+
+MCFL, the government may regulate only those 
+communications containing explicit words advocating the 
+election or defeat of a particular candidate’’), cert. denied, 123 
+S. Ct. 536 (2002); Citizens for Responsible Gov't State Political 
+Action Comm. v. Davidson, 236 F.3d 1174, 1187 (10th Cir. 
+2000) (asserting that, in MCFL, “the Court clarified that express 
+words of advocacy were not simply a helpful way to identify 
+‘express advocacy,’ but that the inclusion of such words was 
+constitutionally required”); Vermont Right to Life Comm., Inc. 
+v. Sorrell, 221 F.3d 376, 387 (2d Cir. 2000) (noting that state 
+statute that explicitly extended disclosure requirement to 
+expenditures for speech other than express advocacy is “a 
+violation of the rule enunciated in Buckley and its progeny”). 
+These repeated conclusions of lower courts cannot be wished 
+away as mere “dicta,” as Judge Kollar-Kotelly attempted to do, 
+see, e.g., Supp. App. 794sa, 797sa, 798sa, 799sa, but instead 
+reflect the settled understanding, as one commentator has put it, 
+that “the Buckley bottom line” is that “[e}]xpenditures for speech 
+that does not expressly advocate the election or defeat of a 
+candidate — i.e., expenditures for issue advocacy —- may 
+neither be limited in amount nor subjected to disclosure 
+requirements,” Lillian R. BeVier, The Issue of Issue Advocacy: 
+An Economic, Political, and Constitutional Analysis, 85 Va. L. 
+Rev. 1761, 1769 (1999). 
+
+
+In and of itself, the Buckley “bottom line” dooms BCRA’s 
+“electioneering communications” provisions. The primary 
+definition of “electioneering communications” in section 201, 
+which covers advertising that merely “refers” to a clearly 
+identified candidate for federal office, sweeps well beyond 
+express advocacy, as it fails to require that the advertising 
+contain “express words of advocacy of election or defeat.” 
+Buckley, 424 U.S. at 44 & n.52. The statute’s fallback 
+provision fares no better. That provision encompasses any 
+communication that “promotes or supports a candidate for that 
+office, or attacks or opposes a candidate for that office 
+
+
+45 
+
+
+(regardless of whether the communication expressly advocates 
+a vote for or against a candidate) and which also is suggestive 
+of no plausible meaning other than an exhortation to vote for or 
+against a specific candidate” (emphasis added). By its very 
+terms, the fallback provision is at odds with Buckley and 
+MCFL, thus requiring that it be stricken as well." 
+
+
+B. The Holdings In Buckley And MCFL Apply Equally 
+To Corporations And Unions. 
+
+
+In addition to contending that Buckley and MCFL did not 
+draw a constitutional distinction between express advocacy and 
+all other speech about issues and candidates, defendants have 
+urged in the alternative that such a distinction does not apply to 
+corporations and unions. The argument is unavailing. 
+
+
+1. Contrary to the government’s suggestion, see Fed. Defts. 
+J.S. 4 n.2, the past century of American history is not replete 
+with examples of Congress passing constitutionally sound 
+restrictions on the election-related speech of corporations and 
+unions. To the contrary, the federal campaign finance laws did 
+not even purport to reach expenditures until 1947, with the 
+enactment of the Taft-Hartley amendments to the Federal 
+Corrupt Practices Act. See United States v. CIO, 335 U.S. 106, 
+107 (1948). This Court did not address the constitutionality of 
+federal expenditure limitations until its decision in Buckley 
+almost three decades later. In three devisions prior to Buckley, 
+the Court expressly declined to reach questions regarding the 
+constitutionality of Taft-Hartley’s expenditure restrictions. See 
+Pipefitters v. United States, 407 U.S. 385, 400 (1972) (finding 
+“decision of the constitutional issues premature” in light of 
+dismissal of petitioners’ convictions); United States v. 
+Automobile Workers, 352 U.S. 567, 591-92 (1957) (refusing to 
+“anticipate constitutional questions” because of decision to 
+remand case for prosecution); C/O, 335 U.S. at 110, 124 
+
+
+'? The same is true for the modified fallback definition that the district court 
+upheld as constitutional. See Supp. App. 1159sa-1 !60sa (Leon). 
+
+
+46 
+
+
+(dismissing indictment as beyond scope of statute and therefore 
+“express[ing] no opinion * * * upon [statute’s] constitutional- 
+ity”).'* When the Court finally did consider the constitutionality 
+of congressional expenditure restrictions, it struck them down 
+on First Amendment grounds. See Buckley, 424 U.S. at 43-50." 
+In fact, every time this Court has addressed the constitutionality 
+of a federal restriction on independent expenditures, it has 
+either struck the challenged provision down, see NCPAC, 470 
+U.S. at 490-501; Buckley, 424 U.S. at 43-50, or significantly 
+limited its scope through a narrowing construction, see MCFL, 
+479 U.S. at 248-49, 256-65. History therefore offers little 
+support for BCRA’s ban on “electioneering communications.” 
+
+
+2. In Buckley and MCFL themselves, the Court insisted that 
+only expenditures for express advocacy could be subject to 
+regulation, without treating expenditures by corporations and 
+unions differently. In Buckley, the expenditure provision at 
+issue applied to individuals, groups, and corporations alike. See 
+424 US. at 23, 40 n.45 (quoting the statutory definition of 
+
+
+'* Aside from avoiding the constitutional questions raised by the federal 
+restriction on campaign expenditures, these cases also revealed, through an 
+exhaustive recitation of the legislative history, that the members of Congress 
+who passed Taft-Hartley were not sure whether its expenditure limitation 
+applied in a variety of circumstances, and had concerns about whether the 
+Constitution would permit particular hypothetical applications of the law — 
+such as to the corporate or union funding of radio broadcasts during a 
+campaign that mentioned federal candidates. See, e.g., Automobile Workers, 
+352 U.S. at 586-87 & n.1; C/O, 335 U.S. at 112. The historical ambiguity as 
+to the scope of pre-FECA federal expenditure restrictions, considered 
+together with the express udvocacy limitation articulated in Buckley and 
+MCFL, makes plain that \..e Court has never endorsed the type of regulations 
+contemplated by BCRA’s ban on “electioneering communications.” 
+
+
+'’ It is noteworthy that, in striking down FECA’s expenditure restrictions, the 
+Buckley Court cited the dissent of Justice Douglas in Automobile Workers, in 
+which Justice Douglas excoriated the majority for failing to strike down the 
+Taft-Hartley expenditure restrictions on First Amendment grounds. See 
+Buckley, 424 U.S. at 43 (citing Automobile Workers, 352 U.S. at 595-96 
+(Douglas, J., dissenting)). 
+
+
+47 
+
+
+“persons”). Indeed, two of the plaintiffs in Buckley were 
+corporations, including the New York Civil Liberties Union. 
+See id. at 8. The Court struck down the provision in its entirety, 
+drawing no distinction between the individual and corporate 
+plaintiffs. 
+
+
+In MCFL, the Court drew the same constitutional line in the 
+specific context of speech by a corporation. See 479 U.S. at 
+241. The Court construed 2 U.S.C. § 4415, the provision of 
+FECA banning all expenditures by corporations and unions “in 
+connection with” federal elections, to reach only express 
+advocacy. See 479 U.S. at 247-49. The Court did not limit its 
+statutory construction to expenditures by qualified non-profit 
+corporations, but instead held categorically, with respect to all 
+corporations, that “an expenditure must constitute ‘express 
+advocacy’ in order to be subject to the prohibition of § 4415.” 
+Id. at 249. In fact, it was only after the Court proffered its 
+narrowing construction of section 4415, and concluded that the 
+speech at issue was express advocacy, that the Court even drew 
+a distinction between qualified non-profit corporations and 
+other corporations, in resolving the ultimate issue of whether 
+expeiiditures for express advocacy by the defendant non-profit 
+corporation could be regulated. See id. at 256-65. 
+
+
+3. Just two years after Buckley, the Court made clear yet 
+again that corporations may not be restricted from making 
+expenditures for political advocacy. In Bellotti, the Court held 
+unconstitutional a Massachusetts statute that banned corporate 
+expenditures in connection with referenda unless they 
+“materially affect[ed] any of the property, business or assets of 
+the corporation.” 435 U.S. at 767-68. Such speech, the Court 
+concluded, was “at the heart of the First Amendment’s 
+protection” and “indispensable to decision making in a 
+democracy,” adding that “this is no less true because the speech 
+comes from a corporation rather than an individual.” Jd. at 776- 
+77; see also Pacific Gas & Elec. Co. v. Public Utils. Comm'n, 
+475 US. 1, 8 (1986) (noting that “[t}he identity of the speaker 
+
+
+48 
+
+
+is not decisive in determining whether speech is protected” and 
+adding that “[clorporations and other associations, like 
+individuals, contribute to the discussion, debate, and the 
+dissemination of information and ideas that the First 
+Amendment seeks to foster”) (internal quotation omitted). 
+Similarly, in the recent case of Nike, Inc. v. Kasky,539U.S.__ 
+(2003), while there was disagreement as to whether the petition 
+for writ of certiorari should have been dismissed as 
+improvidently granted, there was no suggestion that non- 
+commercial corporate speech relating to matters of public 
+interest was without substantial First Amendment protection. 
+See id. at _ (slip op., at 10) (Stevens, J., joined by Ginsburg 
+and Souter, JJ., concurring) (“Knowledgeable persons should be 
+free to participate in * * * debate [about important public 
+issues] without fear of unfair reprisal.”); id. at__ (slip op., at 
+12) (Breyer, J., joined by O’Connor, J., dissenting) (“[S]peech 
+on matters of public concern needs ‘breathing space’ * * * in 
+order to survive.”). 
+
+
+4. Austin v. Michigan Chamber of Commerce, 494 U.S. 652 
+(1990), is not, as the government suggests, see Fed. Defts. J.S. 
+24, to the contrary. In Austin, the Court held that a State could 
+constitutionally restrict corporate independent expenditures for 
+express advocacy. Nothing in Austin, however, even remotely 
+hints that the Court intended to overrule Buckley, MCFL, and 
+Bellotti so as to allow the government to regulate expenditures 
+by corporations and unions for speech other than express 
+advocacy. Austin itself involved a state statute modeled on the 
+federal provision at issue in MCFL, see id. at 656 n.1, and an ad 
+that urged voters, in large bold type, to “Elect Richard 
+Bandstra” — an ad that plainly constituted express advocacy, 
+see id. at 656; id. at 714 (appendix to opinion of Kennedy, J., 
+dissenting). Austin held only that Michigan could regulate the 
+Michigan Chamber of Commerce’s expenditure for the express 
+advocacy at issue, since the Chamber was not a qualified non- 
+profit corporation under MCFL. See id. at 668-69. As Judge 
+
+
+49 
+
+
+Henderson observed, “the Court’s holding in Austin was limited 
+to corporate expenditures on express advocacy.” Supp. App. 
+356sa; see also The Supreme Court, 1989 Term, Leading Cases, 
+104 Harv. L. Rev. 209, 217 (1990) (“[T]he [Austin] Court 
+preserved for corporations the right to speak on any issue so 
+long as they do not expressly advocate the election or defeat of 
+specific candidates.”’). 
+
+
+5. Inarelated vein, defendants have urged that corporations 
+and unions may be required to engage in “electioneering 
+communications” through PACs (or “segregated funds”), as 
+BCRA permits. See Fed. Defts. J.S. 23-24; Intervenor Defts. 
+J.S. 24-25. Leaving aside the fact that many corporations and 
+unions may have no desire to establish PACs — a point vividly 
+illustrated in the brief of the American Civil Liberties Union, 
+see ACLU Br. 17 — requiring a corporation to speak 
+exclusively through a PAC substantially burdens its right to 
+speak, see, e.g., MCFL, 479 U.S. at 252-56; id. at 266 
+(O’Connor, J., concurring). It is simply no answer to say that 
+
+
+_ these entities can “speak” by having a PAC speak for them. 
+
+
+PACs provide neither a constitutionally sufficient nor 
+practically workable alternative to speech by plaintiffs 
+themselves. If the speech at issue is fully protected by the First 
+Amendment — and it is nothing less — plaintiffs are permitted 
+to utter it in their own name, and to pay for it with their own 
+funds, without fear of governmental interference. 
+
+
+C. EvenIf This Court Were To Abandon Buckley And 
+MCFL, The “Electioneering Communications” 
+Provisions Could Not Survive Scrutiny. 
+
+
+Given the determinations in Buckley and MCFL, the 
+“electioneering communications” provisions can be sustained 
+only if the Court were to overrule those cases. The Court 
+should decline to do so. The express-advocacy standard is both 
+narrow and unambiguous, and is narrowly tailored to advance 
+the compelling governmental interest in preventing actual or 
+apparent corruption. In contrast, BCRA’s primary definition of 
+
+
+50 
+
+
+“electioneering communications” is vastly overbroad. But even 
+if this Court were to abandon Buckley and MCFL in favor of 
+defendants’ proffered standard, the “electioneering communica- 
+tions” provisions are so overbroad that they cannot be sustained 
+under any theory consistent with the First Amendment. 
+
+
+1. Defendants’ theory is that only speech that is “genuinely” 
+about “issues” is constitutionally protected, while all other 
+speech is subject to government regulation. This is, of course, 
+precisely the opposite of what this Court concluded in Buckley 
+and reaffirmed in MCFL: that only speech expressly advocating 
+the election or defeat of a candidate is regulable, while all other 
+speech about issues and candidates is not. Defendants’ theory 
+then proceeds to the dubious proposition that “most” speech 
+that is “genuinely” about “issues” is not broadcast in close 
+proximity to elections. Therefore, the syllogism marches on, by 
+banning any reference to a federal candidate in any 
+communication aired within 30 days of a primary or 60 days of 
+a general election, BCRA will eliminate disfavored speech 
+about issues and candidates — pejoratively referred to by 
+defendants as “sham” issue ads — but not most “genuine” 
+speech about issues. Defendants’ theory is both legally and 
+factually indefensible. 
+
+
+A review of actual advertisements aired in the 30- and 60-day 
+periods before the 1998 and 2000 primary and general elections 
+powerfully illustrates the sort of protected speech that would be 
+criminalized by BCRA’s regulation of “electioneering 
+communications.”"® As would be expected (and as Buckley 
+predicted, see 424 U.S. at 42), a vast majority of the ads 
+covered by BCRA refer to incumbent officeholders who are 
+running for re-election. One such ad, broadcast within 60 days 
+of the 1998 general election in the district of Oregon 
+
+
+'° The ads discussed in this section are included in an appendix to this brief 
+(“Br. App.”’), as are eight other ads discussed below. Also included with the 
+brief is a CD-ROM containing 10 ads that were submitted to the district 
+court and discussed at length in the briefs and at oral argument. 
+
+
+51 
+
+
+Congressman David Wu, urged him as follows: 
+
+
+The people of America should be running our 
+government. That’s the way it was set up in the first 
+place. The problem is the special interests and the paid 
+lobbyists who control the Washington politicians. The 
+answer is term limits. Term limits replace Washington 
+insiders with new people who reflect community 
+interests, not politics as usual. Molly Bordonaro has 
+signed the pledge to limit her terms in Congress. David 
+Wu refused. Call David Wu and tell him to sign the US 
+Term Limits Pledge. 
+
+
+Br. App. la. The ad thus informed the viewers that 
+Congressman Wu had failed to sign a term-limits pledge, and 
+attempted to pressure him to do so. Though it may seem 
+unthinkable that such core political speech could be the subject 
+of criminal sanctions, Americans for Term Limits (the group 
+that sponsored the ad) would be subject to such sanctions for 
+airing the same ad today. 
+
+
+Another good example of what is lost under BCRA is an 
+AFL-CIO ad opposing permanent most-favored-nation status 
+for China. This ad, which ran, inter alia, in the district of 
+Representative Ron Paul (a plaintiff in this case) within 30 days 
+of his primary election, stated in its entirety: 
+
+
+Behind this label is a shameful story of political 
+prisoners and forced labor camps, of wages as low as 13 
+cents an hour, of a country that routinely violates trade 
+rules flooding our markets, draining American jobs. 
+Now Congress is set to scrap its annual review of 
+China’s record and reward China with a permanent 
+trade deal. Tell Congressman Paul to vote “No” and 
+keep China on probation until this label stands for 
+fairness. Paid for by the AFL-CIO. 
+
+
+52 
+
+
+Br. App. 2a.'’ The AFL-CIO could be indicted in 2004 for 
+running a similar ad. 
+
+
+Finally, the federal defendants have identified the following 
+ad, aired in Michigan within 60 days of the 2000 general 
+election, as an example of a so-called “sham” issue ad: 
+
+
+WOMAN: My mom started this business and my 
+brother and I worked hard to make it grow. One day we 
+hope to own it but because of the law, we can never be 
+sure. 
+
+
+ANNOUNCER: Because of the death tax, people like 
+Melanie are always at risk of losing family businesses. 
+Debbie Stabenow voted twice against getting rid of the 
+death tax. 
+
+
+WOMAN: Everything we have worked for can be taken 
+away in an instant and that’s not fair. 
+
+
+ANNOUNCER: Call Debbie Stabenow. Tell her our 
+working families need a break. Paid for by the 
+Michigan Chamber of Commerce. 
+
+
+Br. App. 3a. Remarkably, far from acknowledging that this ad 
+is speech fully protected by the First Amendment, defendants 
+have viewed it as a perfect example of speech that should be 
+criminalized. 
+
+
+These ads — sometimes using pointed, critical, and 
+antagonistic speech — all sought to lobby and pressure federal 
+officeholders on issues of unquestioned importance to the 
+groups that sponsor them. They are fully protected by Buckley, 
+to say nothing of the core principle of New York Times Co. v. 
+Sullivan that “uninhibited, robust, and wide-open speech” is 
+protected by the First Amendment. 376 U.S. at 270. 
+
+
+'’ The storyboard included in the appendix refers to Congresswoman Sue 
+Myrick. The ad referring to Congressman Paul was materially identical. See 
+6 PCS/Mitchell decl., exh. 1, at 92. 
+
+
+53 
+
+
+2. To counter these and the many other examples of 
+BCRA’s overbreadth, defendants relied almost exclusively on 
+two reports by the Brennan Center for Justice, counsel to the 
+intervenor defendants in this case, entitled Buying Time 1998: 
+Television Advertising in the 1998 Congressional Elections 
+(Jonathan S. Krasno & Daniel E. Seltz, Brennan Center 2000), 
+and Buying Time 2000: Television Advertisements in the 2000 
+Federal Elections (Craig B. Holman & Luke P. McLoughlin, 
+Brennan Center 2001). The reports were cited repeatedly by 
+Members of Congress during the debates on BCRA. See, e.g., 
+147 Cong. Rec. $3045 (daily ed. Mar. 28, 2001) (statement of 
+Sen. Snowe); 148 Cong. Rec. $2117-18 (daily ed. Mar. 20, 
+2002) (statement of Sen. Jeffords); 148 Cong. Rec. $2141 
+(daily ed. Mar. 20, 2002) (statement of Sen. McCain). 
+
+
+The Buying Time reports surveyed ads aired during the 1998 
+and 2000 election cycles and concluded that the vast majority of 
+ads that would have been banned by BCRA were “sham” issue 
+ads, and thus speech that, in the authors’ view, should not be 
+entitled to First Amendment protection. The reports concluded 
+that only a tiny fraction of so-called “genuine” issue ads — 
+speech that defendants admit is entitled to full First Amendment 
+protection — would have been covered by BCRA’s primary 
+definition of “electioneering communications.” 
+
+
+Despite defendants’ best efforts, however, the district court, 
+after detailed and laborious consideration, unanimously rejected 
+the conclusions of the Buying Time reports, finding that, if 
+anything, the data demonstrated that BCRA would have 
+criminalized a substantial amount of concededly protected 
+speech in 1998 and 2000. Judge Henderson concluded that the 
+Buying Time reports were “based on a flawed methodology and 
+[are] therefore unreliable as evidence,” Supp. App. 244sa,"* but 
+
+
+'® As Judge Henderson’s opinion demonstrates, the Buying Time reports 
+were entirely and irredeemably biased. Funding for the studies was solicited 
+for the express purpose of furthering campaign finance “reform,” see Supp. 
+App. 239sa-240sa (Henderson); the academic who solicited the funding 
+
+
+54 
+
+
+that, in any event, “the record as a whole suggests that BCRA 
+would prohibit too much protected expression — anywhere 
+from 11.38 per cent to 50.5 per cent of (what even the 
+defendants characterize as) ‘genuine’ issue ads broadcast during 
+the 60 days before an election in a typical election year,” id. at 
+367sa n.149. Judge Leon concluded that “14.7 percent and 17 
+percent of the ads” that would have been prohibited by BCRA 
+in 1998 and 2000, respectively, were “genuine” issue ads by the 
+Brennan Center’s own definition, and that such percentages 
+represented “substantial overbreadth.” /d. at 1157sa. Even 
+Judge Kollar-Kotelly, who would have upheld the 
+“electioneering communications” provisions, refused to accept 
+either report’s findings about BCRA’s effect on so-called 
+“genuine” issue ads, although she agreed that, as to the 2000 
+study, the evidence demonstrated that 17% of the speech that 
+BCRA would have banned was “genuine” speech about issues. 
+See id. at 857sa. This is overbreadth by any standard. 
+
+
+The very premise of the Buying Time reports (and indeed, 
+defendants’ entire argument about BCRA’s “electioneering 
+communication” provisions) is itself fundamentally flawed. In 
+insisting that BCRA will have only a modest effect on 
+“genuine” issue advocacy, defendants and the Buying Time 
+authors have sought to seize for themselves the role of 
+determining — in a way wholly inconsistent with Buckley — 
+what advocacy is “genuine.” They have embraced the notion 
+
+
+agreed that the studies were “design[ed] and execute{d] * * * in a way that 
+would help move the campaign reform ball forward,” id. at 240sa 
+(Henderson); data for the studies were acquired in order to “fuel a 
+continuous and multi-faceted campaign to propel reform forward,” id. at 
+241sa (Henderson); and the authors agreed with their sponsors that the 
+studies would be abandoned in midstream, and the results never published, 
+unless the results were helpful to the reform “cause,” see id. at 239sa 
+(Henderson). Such conduct was so plainly dishonorable that defendants’ 
+expert Dr. Arthur Lupia was forced to admit that it was not “consistent with 
+scholarly behavior of honor and seriousness as member of a learned 
+profession.” Lupia dep. 17. 
+
+
+55 
+
+
+that only speech about a bill or an issue is “genuine” and is 
+protected by the First Amendment, while speech about. 
+candidates is rarely, if ever, protected. This view, as we have 
+observed, is flatly at odds both with this Court’s decisions and 
+with fundamental First Amendment principles. 
+
+
+The core conclusions of the Buying Time reports are derived 
+solely from surveys filled out by college students, who were 
+asked to determine whether the “purpose” of an ad was to 
+“provide information about or urge action on a bill or issue,” or, 
+alternatively, to “generate support or opposition for a particular 
+candidate.” See id. at 24lsa (Henderson), 1043sa (Kollar- 
+Kotelly), 1329sa (Leon). If students determined that an ad 
+generated support or opposition for a candidate, the ad was 
+classified as a “sham” issue ad. If it provided information, the 
+ad was deemed to be “genuine.” The survey form provided no 
+way for a student to conclude that an ad’s “purpose” was to do 
+both. See Holman dep. 43; Seltz dep. 187. Tellingly, when 
+Professor Kenneth Goldstein, a defense expert and the principal 
+researcher for the Buying Time reports, was asked if he would 
+have designed the reports differently had he known that speech 
+
+
+_ about both issues and candidates was constitutionally protected, 
+
+
+he conceded that he would have. See Supp. App. 247sa 
+(Henderson). 
+
+
+In any event, it is now clear that the reports’ conclusions 
+about BCRA’s insignificant effect on so-called “genuine” issue 
+ads are insupportable. The 1998 report, on which BCRA’s 
+congressional supporters relied, indicated that only 7% of 
+“genuine” issue ads aired in 1998 would have been prohibited 
+by BCRA. See id. at 242sa (Henderson), 857sa (Kollar- 
+Kotelly), 1345sa (Leon). However, using a more accurate 
+methodology that the Brennan Center itself later adopted, 
+defendants’ experts and the report’s authors now concede that 
+the underlying data demonstrates that 14.7% of the ads that 
+would have been prohibited by BCRA were “genuine.” See id. 
+at 243sa (Henderson), 1157sa (Leon). 
+
+
+56 
+
+
+A closer look at the documents underlying the 1998 report 
+demonstrates that BCRA would have prohibited even more so- 
+called “genuine” issue ads. The report claimed that, of the 30 
+ads that would have been prohibited by BCRA, only two were 
+coded as “genuine” issue ads. See id. at 242sa (Henderson), 
+1333sa (Leon). However, a review of the actual handwritten 
+coding sheets filled out by Professor Goldstein’s students shows 
+
+
+that, in fact, at least 10 ads met BCRA’s criteria and were coded — 
+
+
+as “genuine.” 
+
+
+At some point before the 1998 report went to press, someone 
+re-coded at least eight ads from “genuine” to “sham.” See Br. 
+App. 7a-15a; Supp. App. at 243sa (Henderson), 765sa-766sa 
+(Kollar-Kotelly). The impact of this re-coding on the numbers 
+is telling. If the eight re-coded ads had been counted as 
+“genuine” issue ads, Buying Time 1998 would have reported 
+that 64% of ads mentioning a candidate in the 60 days before 
+the 1998 general election were coded by the students as 
+“genuine.” See id. at 243sa-244sa (Henderson), 1349sa (Leon). 
+Employing a different methodology used in the report of 
+defendants’ expert Dr. Jonathan Krasno, plaintiffs’ expert Dr. 
+James Gibson concluded that no less (and likely more) than 
+50.5% of the ads featuring candidates within 60 days of the 
+1998 election were coded as “genuine.” See id. at 244sa 
+(Henderson), 1349sa-1350sa (Leon). This is surely overbreadth 
+at a level rarely seen in any case. 
+
+
+For its part, Buying Time 2000 also drastically underreports 
+the number of “genuine” issue ads that would have met 
+BCRA’s criteria. Two of the three judges below, after close 
+and careful review, concluded that if the data had been correctly 
+analyzed, 17% of the ads that referred to candidates in the last 
+60 days of the 2000 campaign were “genuine” issue ads, the 
+broadcast of which would have been criminal. See id. at 767sa 
+(Kollar-Kotelly), 1157sa (Leon). Judge Henderson did not 
+specifically address the 17% figure, finding that “neither study 
+has any significant evidentiary weight” and that “even if I 
+
+
+57 
+
+
+accepted the distinction [between ‘genuine’ and ‘sham’ issue 
+ads], the record as a whole suggests that BCRA would prohibit 
+too much protected expression.” /d. at 367sa n.149. 
+
+
+D. The “Electioneering Communications” Provisions 
+Are Overbroad Because They Regulate Speech By 
+Qualified Non-Profit Corporations. 
+
+
+By its plain terms, section 204 of BCRA extends to all 
+corporations and unions the ban on disbursements for 
+“electioneering communications.” BCRA therefore makes no 
+accommodation for qualified non-profit corporations, or so- 
+called “MCFL” corporations: that is, non-profit, ideological 
+corporations that accept no more than de minimis funds from 
+corporate sources. This Court has held that such corporations 
+must be allowed to make expenditures even for express 
+advocacy. See MCFL, 479 US. at 259, 264. 
+
+
+Judge Henderson would have struck down section 204 in its 
+entirety. See Supp. App. 370sa. Judge Leon, in his controlling 
+opinion, held section 204 to be unconstitutional insofar as it 
+extends to MCFL corporations. See id. at 1166sa-1169sa. 
+Defendants have conceded that BCRA’s “electioneering 
+communications” provisions cannot constitutionally be applied 
+to MCFL corporations. See Fed. Defts. J.S. 24 n.8; Intervenor 
+Defts. J.S. 14 n.16. In light of defendants’ concessions, the 
+Court should strike down section 204 as unconstitutionally 
+overbroad. 
+
+
+E. The “Electioneering Communications” Provisions 
+Are Vague And Underinclusive. 
+
+
+Finally, even if the Court accepts all of defendants’ other 
+arguments, BCRA’s “electioneering communications” provi- 
+sions are still unconstitutionally vague and underinclusive. 
+
+
+1. The “fallback” definition of “electioneering 
+communications,” which covers advertising that “promotes,” 
+“supports,” “attacks,” or “opposes” a federal candidate and is 
+“suggestive of no plausible meaning other than an exhortation 
+
+
+58 
+
+
+to vote for or against a specific candidate,” is as 
+unconstitutional as the primary definition. First and foremost, 
+the definition fails under — and indeed, flouts — Buckley, 
+because it applies by its terms “regardless of whether the 
+communication expressly advocates a vote for or against a 
+candidate.” This statutory provision, enacted notwithstanding 
+the specific holding of Buckley to the contrary, once again puts 
+political speakers “wholly at the mercy of the varied 
+understanding of [their] hearers.” Buckley, 424 U.S. at 43 
+(internal quotation omitted). Under the fallback definition, 
+much as the Court warned in Buckley, speakers will be forced to 
+“hedge and trim” their political speech to ensure that it is not 
+perceived as promoting or attacking a candidate. /d. (internal 
+quotation omitted). 
+
+
+Apart from its inconsistency with Buckley, the fallback 
+definition is unconstitutional because it is so vague that people 
+“of common intelligence must necessarily guess at its meaning 
+and differ as to its application.” Connally v. General Constr. 
+Co., 269 U.S. 385, 391 (1926); accord Reno v. ACLU, 521 US. 
+844, 871-72 (1997). And an “even greater degree of 
+specificity” is required in the First Amendment context. 
+Buckley, 424 U.S. at 77 (internal quotation omitted). As Craig 
+Holman, chief author of Buying Time 2000, acknowledged in 
+his deposition, any effort to determine the “purpose” of a 
+political advertisement is by its nature not a “black and white 
+issue,” but is instead a “subjective judgment” that “can be 
+reasonably debated.” Holman dep. 7-, 80. Indeed, defendants’ 
+own expert Professor Goldstein noted that the students involved 
+in coding ads for the Buying Time studies disagreed 25% of the 
+time as to whether a particular ad was intended to “generate 
+support or opposition for a particular candidate” or not. See 
+Goldstein dep. 182. 
+
+
+Discovery confirmed that reasonable and intelligent people 
+often disagree about whether political ads meet the criteria of 
+the fallback definition. When shown particular ads during their 
+
+
+59 
+
+
+depositions in this case, the Buying Time authors, defendants’ 
+experts, and BCRA’s sponsors routinely disagreed with each 
+other as to whether a given ad was intended to promote, 
+support, attack, or oppose a specific candidate. A criminal law 
+that gives so little guidance as to its meaning cannot be 
+sustained. 
+
+
+By way of example, an ad that ran within 60 days of the 1998 
+general election stated in part as follows: “Year after year the 
+federal government takes a bigger piece of the pie. In fact in 
+1998 we'll pay more in federal taxes than at any time in 
+American history except for World War II. And now with the 
+budget surplus, in thirty years all the Washington politicians can 
+talk about is getting their hands on more of your dough.” The 
+ad then asked viewers to “[c]all Harry Reid and John Ensign” 
+and urge them to cut taxes. “Otherwise,” the ad concluded, 
+“there will be nothing left but the crumbs.” Br. App. 4a. Luke 
+McLoughlin, co-author of Buying Time 2000, opined that this 
+ad was “genuine” because its “focus is on taxes.” McLoughlin 
+dep. 23. Senator McCain, however, testified that the ad 
+“attacks both” candidates. McCain dep. 122. And 
+Congressman Shays offered a third view, testifying that the ad 
+supported “one person’s position, but not the other” and that it 
+was therefore “designed to influence the election.” Shays dep. 
+111. 
+
+
+Another ad, sponsored by the Alliance for Quality Nursing 
+Home Care broadcast within 60 days of the 2000 general 
+election, referred to then-presidential ca. didate Al Gore. See 
+Br. App. Sa. Senator Feingold was unsure whether the ad was 
+pro-Gore or anti-Gore. See Feingold dep. 41. On the other 
+hand, Senator McCain testified that the ad “implies that Ai 
+Gore was responsible for Medicare cuts, which is a pretty 
+damning indictment.” McCain dep. 139. But Representative 
+Meehan concluded that that the ad “probably” was intended to 
+promote Gore’s candidacy, see Meehan dep. 124, and 
+Representative Shays agreed, see Shays dep. 128. 
+
+
+60 
+
+
+A third example was this ad, aired with 60 days of the 2000 
+general election: 
+
+
+GRADUATE: Dear high tech company, I'd like to send 
+you my resume. 
+
+
+ANNOUNCER: Dear Graduate, sorry, Congress is 
+going to give your job to a foreign worker. 
+
+
+GRADUATE: But I’ve just finished four hard years of 
+technical studies. 
+
+
+ANNOUNCER 1: Sorry, besides foreign workers will 
+work for a lot less. 
+
+
+ANNOUNCER 2: Is this any way to treat American 
+workers? But based on her record, Congresswoman 
+Northrup is likely to vote in favor of the Foreign 
+Worker Bill. Call Congresswoman Northrup and tell 
+her to save our best jobs for American workers. Ask 
+her to vote no on the Foreign Worker Bill. This 
+
+
+message paid for by the Coalition for the Future 
+American Worker. 
+
+
+Br. App. 6a. Though the ad was treated in Buying Time 2000 as 
+a “genuine” issue ad (that is, one that does not “generate 
+support or opposition for a particular candidate”’), see Holman 
+dep. 77-78, Senator McCain called the ad “exactly what I have 
+in mind as a sham issue ad,” McCain dep. 141. 
+
+
+With so much disagreement, it is plain that the fallback 
+definition will inevitably lead candidates to “steer far wider of 
+the unlawful zone than if the boundaries of the forbidden area 
+were clearly marked.” Baggett v. Bullitt, 377 U.S. 360, 372 
+(1964) (internal quotation omitted). In the end, Senator 
+McCain said it best when he rose on the Senate floor to oppose 
+the inclusion of materially identical statutory-language: 
+
+
+Boy, we better get out the dictionary because there is a 
+great deal of ambiguity of words. * * * It says in the 
+amendment: *** [ads] can have no reasonable 
+
+
+61 
+
+
+meaning other than to advocate the defeat of one or 
+more clearly identified candidates. Who decides that? 
+* ** Now you are asking a judge to look at every 
+commercial, or you are asking the broadcast station to 
+look at every commercial{,] and make some decision as 
+to whether it is an attack ad or not. * * * I am not a 
+lawyer, but I have been involved so long and so engaged 
+in these issues that words do have meaning, and this 
+amendment is very vague. 
+
+
+147 Cong. Rec. $3116 (daily ed. Mar. 29, 2001). The 
+“fallback” definition in section 201 is unacceptably, and 
+unconstitutionally, vague.'” 
+
+
+2. Finally, by regulating only broadcast ads and not print 
+ads or other forms of communication, both definitions of 
+
+
+'? The modified fallback definition that the district court upheld as 
+constitutional, see Supp. App. 1159sa-1 166sa (Leon), is not only vague, but 
+also overbroad. As written by Congress, the fallback definition contained no 
+temporal restrictions. Presumably, Congress determined that the 30- and 60- 
+day limits of the primary definition were unnecessary in the fallback 
+definition, because that definition would apply only to ads that are 
+“suggestive of no plausible meaning other than an exhortation to vote for or 
+against a specific candidate.” Shorn of that final clause, however, the 
+fallback definition upheld by the district court now covers all ads that 
+“promote, support, attack, or oppose a Federal candidate.” _ In its 
+rulemaking, the FEC itself recognized that virtually any ad that refers to a 
+federal candidate “could well be understood” to meet those criteria. 
+Electioneering Communications, 67 Fed. Reg. 65,190, 65,201 (Oct. 7, 
+2002). 
+
+
+Moreover, by striking the definition’s one narrowing characteristic, the 
+district court not only concocted a statutory provision that there is no reason 
+to believe Congress would have enacted, but also did nothing to overcome 
+the inherent vagueness of the terms “promote,” “support,” “attack,” and 
+“oppose.” In fact, the language found to be unconstitutionally vague in 
+Buckley (even after the Court’s narrowing construction) bears a strong 
+resemblance to the language in the fallback definition. Compare Buckley, 
+424 US. at 42 (“advocating the election or defeat of a candidate”) (internal 
+quotation omitted), with BCRA § 201(a) (“promot{ing] or support[ing] * * * 
+or attack| ing] or oppos[ing] a candidate for [federal] office’’). 
+
+
+62 
+
+
+“electioneering communications” in section 201 are 
+underinclusive and violate basic First Amendment principles. 
+This Court has frequently struck down laws on the ground that 
+they apply only to certain forms of media and not to others. 
+See, e.g., Florida Star v. B.J.F., 491 U.S. 524, 540 (1989); 
+Smith v. Daily Mail Publ’g Co., 443 U.S. 97, 104-05 (1979). 
+
+
+At the time of BCRA’s enactment, members of Congress 
+sought to justify the restriction on only broadcast ads by 
+resorting to the “scarcity rationale”: that is, the argument that 
+activities by broadcasters may be regulated because broadcast 
+stations operate on a limited spectrum provided by the 
+government. See, e.g., 144 Cong. Rec. S978 (daily ed. Feb. 25, 
+1998) (statement of Sen. Levin); 147 Cong. Rec. $2611 (daily 
+ed. Mar. 21, 2001) (statement of Sen. Torricelli). Even 
+assuming, however, that the “scarcity rationale” is applicable to 
+cable and satellite broadcasting (or, for that matter, retains any 
+vitality at all), that doctrine has never been applied to justify 
+restrictions on broadcasters that would have the effect of 
+decreasing speech, rather than increasing it. Indeed, the very 
+justification for the “scarcity rationale” was to ensure the 
+dissemination of voices that “would otherwise, by necessity, be 
+barred from the airwaves.” Red Lion Broad. Co. v. FCC, 395 
+U.S. 367, 389 (1969). 
+
+
+There is simply no justification for allowing Congress to 
+regulate an ad only when it is read over the radio, but not when 
+it is printed in a newspaper. See Supp. App. 365sa 
+(Henderson). Because the “electioneering communications” 
+provisions of BCRA discriminate against broadcast ads, they 
+fail constitutional scrutiny on this ground as well. 
+
+
+Ill. OTHER PROVISIONS OF BCRA ARE UNCON- 
+STITUTIONAL. 
+
+
+The district court correctly struck down a number of other 
+provisions of BCRA, and incorrectly upheld others. We 
+address each in turn. 
+
+
+63 
+
+
+A. The “Advance Notice” Provisions Are Unconstitu- 
+tional. 
+
+
+The district court properly struck down one of BCRA’s two 
+“advance notice” provisions, but erred by holding plaintiffs’ 
+challenges to the other nonjusticiable. Section 201 of BCRA 
+imposes disclosure requirements on persons who merely enter 
+into a “contract to make” disbursements for electioneering 
+communications, even before those disbursements are made, 
+and even if they are ultimately not made. Section 212 imposes 
+similar requirements on persons who “contract[{] to make” 
+independent expenditures over a certain amount, again even 
+before those expenditures are made. 
+
+
+As the district court unanimously held, the “advance notice” 
+provision of section 201 violates the First Amendment. Section 
+201 cannot be said to serve any of the governmental interests 
+recognized in Buckley as potentially supporting disclosure 
+requirements: namely, preventing actual or apparent corruption, 
+informing the electorate as to the source of campaign spending, 
+and assisting in the enforcement of contribution limits. See 424 
+U.S. at 66-68. As the district court recognized, those interests 
+would be fully served by requiring disclosures after the 
+underlying expenditures have actually been made. See Supp. 
+App. 114sa (Kollar-Kotelly and Leon). Indeed, requiring 
+advance disclosures could have a chilling effect on would-be 
+speakers. This Court has held that similar preconditions on 
+speech are repugnant to First Amendment values. See, e.g., 
+Watchtower Bible & Tract Society of N.Y., Inc. v. Village of 
+Stratton, 536 U.S. 150, 165-66 (2002) (striking down ordinance 
+requiring permits for canvassers); Thomas v. Collins, 323 U.S. 
+516, 540 (1945) (invalidating registration requirement for labor 
+organizers). 
+
+
+*° In its rulemaking, the FEC itself freely acknowledged that mandating 
+disclosure of expenditures before the relevant communications are aired 
+could raise “constitutional issues.” Electioneering Communications, 67 Fed. 
+Reg. 51,137, 51,141 (Aug. 7, 2002). ; 
+
+
+64 
+
+
+The district court erred only by concluding that appellants’ 
+challenge to the analogous “advance notice” requirement in 
+section 212 was unripe in light of the FEC’s implementing 
+regulation. See Supp. App. 130sa-134sa (Kollar-Kotelly and 
+Leon). That regulation “construes” section 212 so as not to 
+require advance disclosure. See Coordinated and Independent 
+Expenditures, 68 Fed. Reg. 421, 452-53 (Jan. 3, 2003) (to be 
+codified at 11 C.F.R. § 109.10). As Judge Henderson suggested 
+in dissent, see Supp. App. 383sa n.154, not only is section 212 
+not “easily susceptible” to such a saving construction, 
+Erznoznik v. City of Jacksonville, 422 U.S. 205, 216 (1975), but 
+the construction advanced in the regulation is flatly contrary to 
+the language of the statute itself. Section 212 expressly requires 
+disclosures not just of independent expenditures themselves, 
+but also of “contracts to make” such expenditures. The Court 
+should accordingly conclude that appellants’ challenge to the 
+“advance notice” provision in section 212 is ripe, and that the 
+provision is invalid for the same reasons as its counterpart in 
+section 201. 
+
+
+B. The “Coordination” Provisions Are Unconstitu- 
+tional. 
+
+
+The district court erred by rejecting appellants’ challenges to 
+BCRA’s “coordination” provisions. The heart of those 
+provisions is section 214, which broadens the definition of 
+“coordination” to treat expenditures made in agreement or 
+consultation with political party committees, like candidates, as 
+coordinated, see BCRA § 214(a); repeals prior FEC regulations 
+defining coordination, see BCRA § 214(b); and commands the 
+FEC to promulgate new regulations that do “not require 
+agreement or formal collaboration to establish coordination,” 
+BCRA §214(c). Because those provisions allow an 
+expenditure to be classified as “coordinated” (and thereby 
+subject to the limits on contributions) even absent agreement 
+between the spender and the candidate or party committee, they 
+
+
+65 
+
+
+violate the First Amendment.”' 
+
+
+The district court erred by concluding that appellants’ 
+challenge to one subsection, section 214(c), was nonjusticiable. 
+See Supp. App. 144sa-156sa (Kollar-Kotelly and Leon). Since 
+appellants’ contention is that agreement is a/ways required 
+before coordination can constitutionally be found, and since 
+section 214(c) commands the FEC to promulgate a regulation 
+that does not require agreement to establish coordination, no 
+FEC regulation (including, as it turns out, the regulation 
+subsequently promulgated) could pass constitutional muster. 
+Appellants’ challenge to section 214(c) is therefore appropriate 
+for judicial resolution at this time, and appellants would suffer 
+hardship absent review because of the risk that current activity 
+could render future expenditures “coordinated.” See Abbott 
+Labs. v. Gardner, 387 U.S. 136, 149 (1967).” 
+
+
+When considered as an integrated whole, section 214 violates 
+the First Amendment. Although this Court has upheld the 
+constitutionality of treating coordinated expenditures as 
+contributions, see Buckley, 424 U.S. at 47, it has never defined 
+the constitutional outer bounds of coordination, though it has 
+suggested that coordination turns on whether expenditures are 
+“potential alter egos for contributions” or “functionally true 
+expenditures,” Colorado II, 533 U.S. at 463, and made clear 
+that coordination means “actual coordination as a matter of 
+fact,” Colorado I, 518 U.S. at 619 (plurality opinion). In other 
+words, “simply calling an independent expenditure a 
+‘coordinated expenditure’ cannot (for constitutional purposes) 
+make it one.” /d. at 621-22. 
+
+
+?! Section 202 applies the BCRA’s “coordination” provisions to 
+disbursements for electioneering communications. If this Court strikes down 
+the “electioneering communications” provisions of BCRA, it should strike 
+down section 202 as well. 
+
+
+*? Because of this risk, appellants plainly also have standing. See, e.g., 
+Bigelow v. Virginia, 421 U.S. 809, 816-17 (1975). 
+
+
+66 
+
+
+Section 214 redefines coordination to sweep well beyond 
+even implicit “wink and nod” agreements between the spender 
+and the candidate or political party, see, e.g., Colorado II, 533 
+U.S. at 442; Colorado I, 518 U.S. at 614 (plurality opinion), 
+and include even mere discussions with a candidate or political 
+party. Defining coordination so broadly, however, would chill 
+political actors from engaging in constitutionally protected 
+petitioning of officeholders, officials, and candidates. As a 
+lower court noted in the decision that inspired the FEC 
+regulations BCRA purports to overrule, “considerable 
+coordination will convert an expressive expenditure into a 
+contribution{,] [but] the spender should not be deemed to forfeit 
+First Amendment protections for her own speech merely by 
+having engaged in some consultations or coordination with a 
+federal candidate.” FEC v. Christian Coalition, 52 F. Supp. 2d 
+45, 91 (D.D.C. 1999) (emphases added). 
+
+
+As Judge Henderson noted in her dissent below, the net 
+effect of BCRA’s broadening of the definition of coordination 
+will be to “tote the same impermissible restrictions [from other 
+parts of BCRA] through the back door.” Supp. App. 385sa. 
+While the concept of coordination is readily defensible, 
+BCRA’s broadening of the definition of coordination is not. 
+BCRA’s “coordination” provisions should be invalidated. 
+
+
+C. The “Attack Ad” Provision Is Unconstitutional. 
+
+
+Section 305, entitled “Limitation on Availability of Lowest 
+Unit Charge for Federal Candidates Attacking Opposition,” is 
+one of BCRA’s most obviously unconstitutional provisions. It 
+conditions the “lowest unit charge” (a lower advertising rate 
+made available to candidates) upon a candidate’s “written 
+certification” that he or she will “not make any direct reference 
+to another candidate for the same office” in the ad sought to be 
+aired, or even in a different ad. Candidates can be exempted 
+from these requirements, but only if they include specific 
+disclosures in their ads — disclosures that are not required for 
+ads that do not refer to (and therefore presumably “attack”’) 
+
+
+67 
+
+
+opponents.” 
+
+
+The district court held that plaintiffs — including Senator 
+McConnell — lacked standing to challenge section 305. See 
+Supp. App. 467sa-472sa (Henderson). However, as the court 
+acknowledged, Senator McConnell testified without 
+contradiction that he intended to run campaign ads critical of 
+his opponents in the future. See id. at 470sa. And he further 
+testified that he had run such ads in his most recent campaign. 
+See 2 PCS/McC 8 (McConnell). At a minimum, that is more 
+than sufficient to meet this Court’s relaxed requirements for 
+standing in First Amendment challenges. See, e.g., Members of 
+City Council of Los Angeles v. Taxpayers for Vincent, 466 U.S. 
+789, 796 (1984); Gooding v. Wilson, 405 U.S. 518, 520 
+(1972).”* 
+
+
+On the merits, section 305 is a viewpoint-based regulation, 
+subject to “most exacting” First Amendment scrutiny. See, e.g., 
+Rosenberger v. Rector & Visitors of Univ. of Va., 515 U.S. 819, 
+829 (1995); R.A.V. v. City of St. Paul, 505 U.S. 377, 391 
+
+
+> Under section 305, television ads referring to opponents qualify for the 
+lowest unit charge only if they include an image of the candidate for four 
+seconds and a printed statement identifying the candidate, indicating that the 
+candidate approved the ad, and stating that the candidate’s authorized 
+committee paid for the ad. Radio ads referring to opponents qualify for the 
+lowest unit charge only if they include a “personal audio statement by the 
+candidate that identifies the candidate, the office the candidate is seeking, 
+and indicates tha’ "ye candidate has approved the broadcast.” 
+
+
+** The district court contended that relaxed First Amendment standing rules 
+“are applicable only to claims of First Amendment overbreadth.” Supp. 
+App. 471sa (Henderson). But relaxed standing rules have offen been applied 
+in cases involving claims other than traditional overbreadth. See, e.g., 
+Eisenstadt v. Baird, 405 U.S. 438, 445 n.S (1972) (equal protection); 
+Freedman v. Maryland, 380 U.S. 51, 56-57 (1965) (prior restraint). In any 
+event, while a majority of the cases imposing relaxed standing requirements 
+may involve claims of overbreadth, the basic rationale in all of these cases 
+— that “the threat of enforcement * * * may deter or chill constitutionally 
+protected speech,” Virginia v. Hicks, 123 S. Ct. 2191, 2196 (2003) (internal 
+quotation omitted) — is plainly applicable here. 
+
+
+68 
+
+
+(1992). Section 305 should be stricken because it imposes an 
+unconstitutional condition (namely, the requirement that a 
+candidate either engage in advertising that does not reference an 
+opponent, or include governmentally required speech) on the 
+receipt of a governmental benefit (the lowest unit charge). See, 
+e.g., Legal Servs. Corp. v. Velazqwez, 531 U.S. 533, 547-48 
+(2001); Board of County Comm'rs v. Umbehr, 518 U.S. 668, 
+674-75 (1996); Perry v. Sindermann, 408 U.S. 593, 597 (1972). 
+
+
+In addition, the defendants have failed to articulate any 
+legitimate governmental interest to justify stricter regulation of 
+ads that “attack” (or even mention) one’s opponent.” Although 
+the federal defendants have proffered several governmental 
+interests purportedly served by section 305 — including that it 
+“provides voters with important additional information to 
+consider in evaluating” a candidate, Fed. Defts. D. Ct. Opening 
+Br. 218; that it generally serves the purpose of preventing fraud 
+and corruption, see id. at 216-17; and that it requires candidates 
+to “own up to” their sponsorship of ads, Fed. Defts. D. Ct. 
+Reply Br. 89 — at no time have defendants been able to link 
+these purported objectives to the actual requirements of the 
+statute. Because section 305 punishes “vehement, caustic, and 
+sometimes unpleasantly sharp attacks on * * * public officials,” 
+New York Times Co. v. Sullivan, 376 U.S. at 270, without 
+
+
+serving any legitimate government interest, it should be struck 
+down. 
+
+
+D. The “Forced Choice” Provision Is Unconstitutional. 
+
+
+The district court unanimously, and correctly, struck down 
+BCRA’s “forced choice” provision. That provision, section 
+213, forces a political party to choose, once a candidate is 
+
+
+> Even if the prevention of so-called “attack ads” were a permissible 
+governmental objective, section 305 is unconstitutionally overbroad, because 
+it would apply even to an ad that did no more than identify the opposing 
+candidate. Defendants have not articulated, and cannot articulate, a 
+governmental interest in regulating such ads. 
+
+
+69 
+
+
+nominated, whether to make independent expenditures on 
+behalf of the candidate, or to make coordinated expenditures, 
+subject to the statutory limits on coordinated expenditures 
+applicable to political parties. For purposes of this provision, 
+“all political committees established and maintained by a 
+national political party ** * and all political committees 
+established and maintained by a State political party” are treated 
+as a single committee. Under section 213, therefore, if one 
+committee of a political party chooses to make coordinated 
+expenditures (subject to the relevant statutory limits) on behalf 
+of a nominated candidate, all other committees of that party are 
+barred from making independent expenditures, and vice versa. 
+
+
+As the district court noted, section 213 “flies in the face” of 
+this Court’s holding in Colorado I, and is therefore 
+unconstitutional. Supp. App. 1170sa (Leon). In Colorado I, of 
+course, the Court held that political party committees, like other 
+entities, have an unfettered First Amendment right to engage in 
+independent expenditures. See 518 U.S. at 614-19 (plurality 
+opinion). Notably, in Colorado I, the party committee at issue 
+not only was making independent expenditures, but had already 
+effectively made the maximum permissible amount of 
+coordinated expenditures as well. See id. at 612. The net effect 
+of section 213 is to condition political parties’ receipt of a 
+“benefit” — specifically, the right to make a certain amount of 
+coordinated expenditures, which is not constitutionally re- 
+quired, see Colorado II, 533 US. at 441-45” — on their 
+agreeing to forgo their constitutional right to make independent 
+expenditures. Such a rule severely burdens the political parties’ 
+constitutional rights, and indeed imposes an unconstitutional 
+condition on them. See, e.g., Perry, 408 U.S. at 597. 
+
+
+These constitutional problems are only exacerbated by the 
+fact that section 213 treats all of the committees of a political 
+
+
+2° The provisions of FECA regarding the public financing of presidential 
+campaigns, by contrast, place conditions on the receipt of public funds. 
+
+
+70 
+
+
+party as a single committee. Section 213 therefore compels 
+party committees to work together to decide whether to make 
+independent or coordinated expenditures — and potentially 
+leaves a party committee at the mercy of another committee 
+over which it has no control (if, for instance, one county 
+committee decides to make coordinated expenditures without 
+consulting with another county committee). As Judge 
+Henderson noted, this compelled association “is especially 
+perverse in light of the fact that [BCRA] elsewhere severely 
+restricts [party committees] from working together to raise 
+certain kinds of funds and to decide how such funds should be 
+used.” Supp. App. 397sa; see generally supra Part 1.A.1.c 
+(discussing Title I provisions barring joint fundraising). Section 
+213’s forced association, no less than Title I’s forced 
+disassociation, violates the First Amendment. See, e.g., 
+California Democratic Party, 530 U.S. at 574-75. 
+
+
+Defendants have argued that section 213 is necessary because 
+it is “tenuous” to claim that expenditures are truly independent 
+when an entity is also making coordinated expenditures. See, 
+e.g., Intervenor Defts. J.S. 28. To the extent that is true, section 
+213 is woefully underbroad, since it continues to allow political 
+parties to make simultaneous independent and coordinated 
+expenditures (albeit subject to the lower limits applicable to 
+individuals and PACs), and allows individuals and PACs to do 
+so as well. Moreover, defendants’ argument boils down to an 
+argument that, where a political party makes some coordinated 
+expenditures on behalf of a candidate, all other expenditures by 
+that party should be presumed to be coordinated. This is little 
+more than a variation on the contention that all expenditures 
+should be presumed to be coordinated — a contention made by 
+the FEC, and rejected by the Court, in Colorado I. See 518 
+U.S. at 619-23 (plurality opinion). 
+
+
+Like other provisions of BCRA, section 213 reflects 
+Congress’ disregard, even contempt, for this Court’s campaign 
+finance jurisprudence. It should be invalidated. 
+
+
+71 
+
+
+E. The “Minors” Provision Is Unconstitutional. 
+
+
+The district court also unanimously struck down section 318. 
+That provision bans anyone under age 18 from contributing, in 
+any amount, to a federal candidate, or giving federally regulated 
+or state-regulated funds, in any amount, to a national, state, or 
+local political party committee. 
+
+
+Section 318 is so plainly unconstitutional, it is difficult to 
+know where to start. It is indisputable that minors, like adults, 
+have First Amendment rights. See, e.g., Tinker v. Des Moines 
+Indep. Community Sch. Dist., 393 U.S. 503, 511 (1969). 
+Although this Court has recognized that the government has 
+broader authority to regulate minors than adults, it has done so 
+primarily when the government is acting in loco parentis to 
+safeguard children from harm. See, e.g., Bethel Sch. Dist. No. 
+403 v. Fraser, 478 U.S. 675, 682-83 (1986); Bellotti v. Baird, 
+443 U.S. 622, 634 (1979); Ginsberg v. New York, 390 U.S. 629, 
+637-38 (1968). Here, there can be no argument that section 318 
+is necessary to protect children: there is no evidence, for 
+instance, that candidates or parties are somehow manipulating 
+children into giving them money. For purposes of section 318, 
+therefore, minors are fully protected by the First Amendment. 
+
+
+Because section 318 does not merely /imit contributions by 
+minors, but instead bans them altogether, it is subject to strict 
+scrutiny. See Buckley, 424 U.S. at 21. Section 318 cannot 
+survive that scrutiny, or indeed even the lower scrutiny 
+applicable to limits on contributions. The only governmental 
+interest on which defendants now rely is the supposedly 
+compelling interest in preventing circumvention of contribution 
+limits by parents who supposedly channel contributions through 
+their children. See Fed. Defts. Opp. to Mot. of Echols Pitfs. to 
+Aff. 4. As the district court noted, however, such channeling is 
+already barred under preexisting law, see 2 U.S.C. § 441f, and 
+defendants’ evidencé that channeling is nevertheless taking 
+place is “remarkably thin.” Supp. App. 463sa (Henderson); 
+accord id. at 1011sa (Kollar-Kotelly). Moreover, to the extent 
+
+
+72 
+
+
+that channeling is actually occurring, it could be regulated by a 
+host of more narrowly tailored means, including (1) banning 
+contributions by minors only when their parents have “maxed 
+out” on their own contribution limits; (2) banning contributions 
+by minors only when the contributed funds were given to the 
+minors by others, not earned by the minors themselves; (3) 
+requiring disclosure of the age of donors, so as to facilitate 
+enforcement of the preexisting anti-channeling law; (4) 
+imposing a cap on contributions by minors, or on contributions 
+by a single family; (5) employing a rebuttable presumption 
+regarding the voluntariness of contributions by minors, as the 
+FEC itself proposed; and (6) barring contributions only by those 
+children too young to be capable of making knowing and 
+voluntary contributions. Presented with this tray full of 
+scalpels, Congress opted for a machete instead.”’ 
+
+
+Section 318 also violates constitutional principles of equal 
+protection, to the extent that it regulates speech by minors but 
+not identical speech by other entities, and federalism, to the 
+extent that it regulates even donations of state-regulated funds. 
+Above all, however, the complete ban on contributions by 
+minors in section 318 “reflects a profound congressional 
+disregard for the First Amendment and settled jurisprudence 
+thereunder.” Supp. App. 467sa (Henderson). The district 
+court’s decision to strike down section 318 should be affirmed. 
+
+
+>” Defendants argue that the right of minors to make contributions should be 
+limited because minors lack the right to vote, see Fed. Defts. Opp. to Mot. of 
+Echols Pitfs. to Aff. 2-3; thie right to serve on juries or bring lawsuits, see id. 
+
+at 3 n.1; and the right to enter into binding contracts or alienate property, see 
+id. at 3-4. The First Amendment, however, is not somehow coextensive with 
+the Twenty-Sixth Amendment, and does not contain a hitherto-undiscovered 
+limitation to individuals with otherwise plenary legal capacity. Moreover, 
+
+while it is true that Congress has prohibited contributions by foreign 
+nationals (who, like minors, lack the right to vote), see id. at 9 n.4, that 
+restriction, unlike the restriction on contributions by minors, is justified by 
+the ordinary governmental interest in preventing actual or apparent 
+corruption. 
+
+
+73 
+
+
+F. The “Broadcaster Records” Provision Is Unconsti- 
+tutional. 
+
+
+The district court unanimously determined that section 504 
+of BCRA is unconstitutional. That provision compels 
+broadcasters to collect and publicly disclose detailed records 
+related to (1) requests by candidates to broadcast any ads and 
+(2) requests by private citizens and groups to broadcast ads 
+related to “any political matter of national importance,” 
+including but not limited to communications relating to any 
+“election to Federal office” or any “national legislative issue of 
+public importance.”” As the district court unanimously found, 
+section 504 serves no legitimate governmental interest and thus 
+violates the First Amendment. In the alternative, as the district 
+court suggested, section 504 is unconstitutionally vague. 
+
+
+As a preliminary matter, Judge Henderson recognized that 
+section 504 is unconstitutional on its face because, like sections 
+201 and 311, it requires disclosure of expenditures for speech 
+that does not constitute express advocacy. See Supp. App. 
+377sa-378sa. Indeed, defendants have freely conceded that, in 
+terms of covered subject matter, section 504 sweeps even more 
+broadly than the “electioneering communications” disclosure 
+provisions in section 201. See Fed. Defts. Opp. to Mot. of NAB 
+to Aff. 7 n.1. 
+
+
+Even if this Court were to conclude that the government 
+could require disclosures related to speech other than express 
+advocacy, section 504 would still not survive exacting scrutiny. 
+Defendants have identified an ever-changing list of purported 
+governmental interests served by section 504, including that it 
+provides “public access to important information about political 
+
+
+28 These records must include the acceptance or rejection of requests for 
+advertisements; the name of the person making the requests and other 
+contact information; a list of the chief executive officers or members of the 
+executive committee or board of directors of the entity making the request, 
+the date and time on which the communication is aired; the rate charged; the 
+class of time purchased; and the issue to which the communication “refers.” 
+
+
+74 
+
+
+broadcasts,” Fed. Defts. D. Ct. Opening Br. 218; that it assists 
+voters who have “difficulty identifying the true sponsors of 
+issue ads,” id.; and that it enables “the public to evaluate 
+whether broadcasters are processing requests in an evenhanded 
+fashion,” Fed. Defts. J.S. 29. Yet defendants have never 
+explained how such generalized interests satisfy the exacting 
+scrutiny warranted by the First Amendment. 
+
+
+The district court found that defendants “provided no 
+evidence that section 504 serves any of the government 
+interests” that were deemed sufficient in Buckley to justify 
+compelled disclosure of communications about federal 
+candidates. Supp. App. 1182sa (Leon) (emphasis added); 
+accord id. at 379sa (Henderson), 1011sa (Kollar-Kotelly). 
+Moreover, the district court concluded that section 504’s 
+disclosure requirements for “noncandidate-focused” ads “are 
+even more difficult to justify” and that “the defendants * * * 
+provided no evidence” that interest groups posed a threat to 
+justify the comprehensive disclosures mandated by section 504. 
+Id. at 1183sa (Leon) (emphasis — accord id. at 1011sa 
+(Kollar-Kotelly). 
+
+
+Section 504 imposes a wealth of burdensome and invasive 
+requirements upon broadcasters and political speakers alike. 
+See id. at 1011sa (Kollar-Kotelly), 1184sa (Leon). In this 
+regard, the provision is particularly intolerable under the First 
+Amendment because it forces disclosure to the government of 
+the identity and the message (even if it is never broadcast) of 
+private individuals and groups engaged in advocacy about 
+important, often controversial, social and political issues. See 
+NAACP vy. Alabama, 357 U.S. 449, 462 (1958) (“It is hardly a 
+novel perception that compelled disclosure of affiliation with 
+groups engaged in advocacy may constitute * * * a restraint on 
+freedom of association * * *.”). 
+
+
+Finally, all three members of the district court correctly 
+suggested that section 504 is void for vagueness because its 
+application turns on the wholly ambiguous phrases “political 
+
+
+75 
+
+
+matter of national importance” and “national legislative issue of 
+public importance.” Supp. App. 256sa (Henderson), 1011sa 
+(Kollar-Kotelly), 1183sa n.141 (Leon). The inability of 
+broadcasters to determine when the disclosure requirements of 
+section 504 will apply is particularly troublesome because a 
+violation of the provision will subject broadcasters to 
+substantial fines or burdensome inquiries from the FCC. Such 
+vagueness is plainly intolerable under both the First 
+Amendment and the Due Process Clause of the Fifth 
+Amendment. See, e.g., Keyishian v. Board of Regents of Univ. 
+of State of N.Y., 385 U.S. 589, 604 (1967); Connally, 269 U.S. 
+at 391. 
+
+
+Section 504 represents a broad and aimless infringement of 
+the rights of broadcasters and political speakers alike. The 
+district court’s decision to strike down section 504 should be 
+affirmed. 
+
+
+CONCLUSION 
+
+
+For the foregoing reasons, the decision of the district court 
+should be affirmed in part and reversed in part, and the 
+challenged provisions of BCRA declared unconstitutional. 
+
+
+FLOYD ABRAMS 
+
+SUSAN BUCKLEY 
+
+BRIAN MARKLEY 
+
+CAHILL GORDON & 
+REINDEL LLP 
+
+80 Pine Street 
+
+New York, NY 10005 
+
+(212) 701-3000 
+
+
+Attorneys for Senator Mitch 
+McConnell and National 
+Association of Broadcasters 
+
+
+KATHLEEN M. SULLIVAN 
+559 Nathan Abbott Way 
+Stanford, CA 94305 
+(650) 725-9875 
+
+
+Attorney for Senator Mitch 
+McConnell 
+
+
+Respectfully submitted, 
+
+
+KENNETH W. STARR 
+Counsel of Record 
+
+EDWARD W. WARREN 
+
+KANNON K. SHANMUGAM 
+
+
+KIRKLAND & ELLIS LLP 
+
+
+655 Fifteenth Street, N.W. 
+Washington, DC 20005 
+(202) 879-5000 
+
+
+Attorneys for Senator Mitch 
+McConnell; Southeastern 
+Legal Foundation, Inc.; 
+Representative Bob Barr; 
+Center for Individual 
+Freedom; National Right to 
+Work Committee; 60 Plus 
+Association, Inc.; and U.S. 
+d/b/a Pro English 
+
+
+JAN WITOLD BARAN 
+
+THOMAS W. KIRBY 
+
+LEE E. GOODMAN 
+
+WILEY, REIN & 
+FIELDING LLP 
+
+1776 K Street, N.W. 
+
+Washington, DC 20006 
+
+(202) 719-7000 
+
+
+Attorneys for Senator Mitch 
+McConnell 
+
+
+VALLE SIMMS DUTCHER 
+
+L. LYNN HOGUE 
+
+SOUTHEASTERN LEGAL 
+FOUNDATION, INC. 
+
+3340 Peachtree Road, N.E. 
+
+Suite 3515 
+
+Atlanta, GA 30326 
+
+(404) 365-8500 
+
+
+Attorneys for Southeastern 
+Legal Foundation, Inc.; 
+Representative Bob Barr; 
+Center for Individual 
+Freedom; National Right to 
+Work Committee; 60 Plus 
+Association, Inc.; and U.S. 
+d/b/a Pro English 
+
+
+July 8, 2003 
+
+
+G. HUNTER BATES 
+
+FROST BROWN TODD LLC 
+400 West Market Street 
+32nd Floor 
+
+Louisville, KY 40202 
+(502) 589-5400 
+
+
+Attorney for Senator Mitch 
+McConnell and Thomas E. 
+Mclnerney 
+
+
+EDITOR’S NOTE 
+
+
+THE FOLLOWING PAGES WERE POOR HARD COPY 
+
+
+AT THE TIME OF FILMING. IF AND WHEN A BETTER 
+
+
+COPY CAN BE OBTAINED, A NEW FICHE WILL BE 
+
+
+ISSUED. 
+
+
+APPENDIX 
+
+
+z ia ~~ eeee _ 
+
+
+—— =e 
+
+
+ee peer gE 
+
+
+la 
+
+
+APPENDIX A 
+
+
+| aed OTTi-£€89-E€01 dnorzy stsATeuy etTpopn ubdtedures) SG/B0/0t 
+170 DOW 
+. ‘eBpayg Su) 
+We | SN Oy) UBIS O17 uNy YO) Pur 
+(1000 yy WD 
+AM GUA 
+| 
+nM preg 
+WD pesyssnmpueg ssesbu0D peubrs svy OrPu0pI0g Ayurun0s }29ya CUM apdood 
+ay Se) ey MUN Oo) s6perd au) Ayoyg Jensen se sopmiod you ‘sisazem mau iat Suepysuy VoBurysemy aoerde: 
+
+
+snse somuod 
+0} JO”SUE Jui S$! 
+SPwry wey 
+
+
+‘ece;d uy 
+ey) ul Gin pes sem » Apm ou) SPU) 
+
+
+Sus Ue, “SAU U8) St JemsUe fOnuw02 Oy Sts\AQqo) perd aul pus qwawwsa06 uno Gunvuru aq pprous 
+ay, Suspaqod vowuryse am an 
+
+
+eouauy jo adoed aq) ‘[ss2unOUuy] 
+
+
+coger ; 
+‘ . : | 
+ea : “ 
+. > ee : ww 
+BPR? nS. ‘ 
+3 ; , 7 8 od 
+€ - or. aS 
+
+
+8 ‘SIWVU4 JOJIIJI(] PY 
+o¢ ‘HLONT 
+14° | WANED LIdY “WOUIWMOD 
+— a reaweniee ut 
+OWAD *SWYBL O3LINIVSNY DIY Arey ONVYS 
+
+
+‘OID-14V 84d 
+
+
+Aq 10} pied :[Sig] “ssausey 10) spueys 
+
+
+pue psooe/ S,eulys jo MalAal 
+jenuue s}i desds 0} yas si ssasHu05 
+MON ‘SQOf uUesueWYy BuleZp 
+Sjaysew sno Huipooy sajnu apen 
+
+
+’_. <2akes Set aed =“) 
+
+
+W105" AJM OSIIBIFOR "AAA 
+
+
+OLIL-*89-f02 
+dna‘) sisAjeuy vipa usieduiey 
+
+
+jaqe} Sug jnUN UONeqold 
+UO BUIYD daoy pue _ON,, 3}0A 0} 
+
+
+EOMSSSESNO} T1¥) 
+
+
+5 ee ee et 
+
+
+~ 
+
+
+sajejoin Ajaunnos 
+yeu) Anunod e jo ‘snoy ue squad ¢1 
+
+
+-_+— nae err tt 
+¢ = . 
+
+
+youAW uewomssasbu0Z je) ‘jeep 
+
+
+~ 
+
+
+epeN yweuewsd e LpIM Bul PueMa: 
+
+
+Se MO} 
+se saBem jo ‘sdwies s0qe} pe210) pue 
+suauosud je2110d yo Au0ys jnjoweys 
+
+2 SI jaqe)] SiILQ Pulyag :[ye2UNOUUY]) 
+
+
+ro" Saat OT tke ORS FF. sib 
+
+
+bJOL 
+
+
+SLYOdde 
+
+
+JVWO 
+
+
+9 “SAWV44 
+
+O€ “-HLONIAT 
+
+YOUAW BUIYD Uj ePEW/4Y “TWIONZWWOD 
+youAW Bulyd uj spew/ay “ATLL 
++NMONYNN-10d -ONVUS 
+
+
+10}33}9Q] PY 
+
+
+3a 
+
+
+WOd AJUOSINTOU waM 
+
+
+OTTL-€89-02 
+dnossy sisAjeuy erpay] ustedure+ 
+
+
+"yeaug 8 pseu sammues 
+[assawWw0D Burysom sno Jay 18 | MOuUsgeIS 
+jo saquieyd uebiyoiw aid) 219929Q [12D :[Yeounouuy) 
+
+
+TAR 6 LS OS Be 2 i Ph 
+
+
+‘yea & paau same; Surpoy, 
+
+
+2i8¢-G22-202 
+MmOUAGETS 219G3Q [PI 
+
+
+,, 42) JOU S,JeU) Pue yuesuU! 
+
+
+ue ui Aeme uaye} 8g UBD 10) PaxJOM xe} Ye8G MOUsgEIS 21IGGIGg “SesseuIsSnNg 
+aaey om Suryyiue3,, :[a1ue|aw) au) jo pu Bummeab ysureGe ao1my payor Ayes Gursoy jo ySu ye SAemje ase 
+- ee ~ . 
+a je." 
+
+
+te? . 
+2 a 1 
+hye areese trey 
+
+
+“moi 1 yew 0} Psey paxoMm 
+aiuejay ay) ajdoed ‘xe; yyeaq ay) JO ue> 3M ‘Me] BU} JO aSNeIaq | pue soujosq Aw pue ssoursng 
+asneseg :[yeounouuy] ,,2uns eq JeAoU yNq  UMO 0} adoy am Aep auG 
+
+
+7 ro. 
+Aa, AO SG ony, EP Sent 
+. oe q - Oo oe 
+. pyr a > ov 
+. . $ 
+a | % 
+f - » ' - ‘ 
+_— - 
+< : 
+, » 
+. 
+
+
+1S 
+an = © 
+"402 | 
+g :‘S3Wvu4 J0}99}9(Q] PY 
+O€ ‘HLONAT 
+Lj} Xe} YeEq MOUaGEIS DOO/IN “TWIONSWWOD 
+SLuOdda xe} yyeag Mouagels DOD/IW ‘au 
+OVWO 
+
++3LVN3S SN-10d -GNVUG 
+
+
+4a 
+
+
+€7c100 AUG 
+
+
+Oy Joyew 
+ou Wey} 1/33 UBjsuy UYOL pue pjey 
+AueyH eD “yGnop unoA jo asow uo 
+
+
+0q Aa esiueyiO “Sexe; sNOA yn> 
+0} Wwe jueMm NoA UO Sujyses, 0} S206 
+
+
+uByewy 
+
+*sniduns ye6pngq ey) Wim Mou uj ew Aus ye URW) Sexe; jeIEp2; 
+
+PUY “11 JBM PHOM 410) }deoxe As0;814 uj esow Aed 11,8” 966) Uj 128; Uj 
+a —" 
+
+
+a 
+
+
+— 
+
+
+TIVILNAGIANOD 
+
+
+Spusy 4/94) 
+
+
+Bume6 8} ynoge ye} UeD sUe}>IWI0d 
+
+
+uo Sujysem oun ye sseak Ayu) uy 
+
+
+"ojd ou; 
+
+
+jo e0e;d 1066)q @ sexe} UewUIeA05 
+jesepe; Oy; seed JeYye see, “MOITEMs 
+
+
+0} Yonw 00}; ysouje 8.) [LJ2QUNOUUY]) 
+
+
+PAOUCAAS OF YINLY 
+OOVISOWC S,}}] 
+
+
+@S3° 0Stasoov 
+l ‘sawvus «=—-_—« A099 9] PY 
+0 *HLONST 
+BIS zr OG 01 $805 CUM JOHEW ON/SOD “IVIOHSWWOD 
+90 OL S805 SUM JEVEW ON/SOD STILL 
++1 TWLNO 1S OLLVHOOWSA :ONVHS 
+
+
+U109°A}UOSII TOU" ALAA 
+OLTZ-€89-02 
+
+
+- dnoisy siskjeuy eipay ustedure-y 
+1) 
+» @Siwold au) daay pue 
+SIND auesipew 
+94} 8403834 ‘3J05 ywapisaig 2214 Bursanu as03sa1 0} wb5y » Buom ysnfs.y ‘eases waned Bunny 
+aseaid,, ‘[6saqmeys] ‘Buipuny awoy 03 8409 IV 1191 “HED :[Ye2unouuy!] 
+
+
+Sue SIND asey! “ajdoad ynoge su 
+¥ es ey ir 
+4 
+
+
+bais 92. bts 
+
+
+Siagmeys wasey 
+
+
+PF SS = t 
+“y ? _ . be 
+
+
+#8? IF Saiderisry sas 
+
+
+Beipyry arg Soisay aT)Sz¥ 
+
+
+Che2-288-888-t 
+109 {¥ 189 
+
+
+S'£$ Guipuads si uonensiunupy 
+
+
+8409-UOUYD ayy weak siyy 
+‘SOnHOd ynoge j,us! siy),, :[(Bsaqmeys] JOPUOM ON “822 awoY Bursunu 40; ‘aseo Ayyjenb uajeasy) sewoy Bursunu 
+
+
+‘Apsedoaf ut si ssoiuas 4JOj aueD Papiaoid ssasBuo05 uew ssa} UuoNIG 03 SIND ase DIPay :[saounouuy]) 
+
+
+= _ 
+
+
+SF IS . 
+
+
+Se @206/u02 
+
+
+a 
+’ 
+
+
+l ‘SIWVU4 10}99)}0q] Py 
+oc ‘HLONAT 
+| JO 1 SIND S40}SBY 8409 |¥ IIED/OHNOV “IWIDY3WWOD 
+SIND B10IS2Y B09 IY 1IED/OHNOW ‘STU 
++YOWH ONSUN ALTIO/AONYITIY -ONVUS 
+
+
+6a 
+
+
+IG 420M 
+uBias04 at) UO OU 3}0A 0} Jay ¥SY 
+“SJBYIOM UPQUBWIY 403 Sgof }saq NO 
+
+
+03 Aem Aue sup sj :[z s2ounouuy] 
+“SS2j JO] & 10} YIOM JIM SIBYIOM 
+ubias03 sepiseq ‘Ausos :[, ss2unouuy]) 
+
+
+109° AJM OSIIB TOC AAA AL 
+
+
+OLILZ-€89-€0L 
+dnossy siskjeuy eipay usiedure> 
+
+
+BARS O} JOY $9} 
+pue druywon uewomssabuos je 
+IG Jax20M UB1aI04 au Jo Jone) 1” 
+
+
+» SAPMS feDNIUYIO} 
+jo sueak paey sno; paysiuy ysnf an, 
+ng. 
+
+
+‘{erenpeso} “s8430M UBiaI03 e 
+
+
+“JOON 
+ue IEWY aJNINY BU 105 UONIeO> 
+auz Aq 40) pred aBessaw siu) 
+
+
+GIkUOM NYOISINY 
+348 fishi 
+OSI ROUITYOS 
+
+
+Wie: isve 
+
+
+930A 03 Ajay Si druyon 
+uewomssaibu05 ‘psocai Jay uo 
+peseq ing ¢SJ2aJ0OM ay }e9N 
+
+
+wy Aaprenitsenaiss poeta 
+ar? Je A Bs i . 7 
+; . , . ‘ 
+$y . . hd ,. 
+. > ’ 
+
+
+wH% 
+
+
+wt sitio —_— — is . - . 
+eatin, ne: 
+
+
+01 gof snok aai6 o Bu106,si ssasBu05 
+‘Auos ‘ayenpess seaq :[L sa2unouuy] 
+» awnsas Aw nok puas 0} ay) P,) 
+‘Kuedwios yaa yBiy seaq,, :[avenpes5) 
+
+
+OST NEZOC 
+
+
+SLYOdae 
+
+
+LjoL 
+
+
+JVW)O 
+
+
+l ‘Sawvus 10}99}9G] PY 
+o€ “HLONIT 
+GMYYON HIZO MV4O/AM  “IWIONSWINOD 
+GMYVON HlED MW490/Ay “ATLL 
+
+
++YHYM YAWV Y1L4/NOILIMVOO 
+
+
+-GNVUE 
+
+
+7a 
+
+
+L eq B6/EO/0L 
+
+
+OTT -€99-F£0L dnoary stsATeuy eTpon ubtedure 5 
+
+
+ue iapigod 
+
+
+190129 © BAI0980 O} JOU B1P| 0°) 
+
+
+60000 DVIWD 
+
+
+‘Sisasoqut peideds 
+S$.) Ss0jaq] YOO] Wey “‘Sauus) SISNjSSs FOOD [uegy SIMU ue s3901Q Rescd ap JO SWIYym 
+UAAO $Py BUA) 0) @6pard aun UGes 01 wee) poddrs 01 Guauies> andsep RA Due SeciaA BU) O} Peren OC} uMbeg Aau) 
+
+
+me; @ soye 
+Busy @UWw0s We ewoY —~Ieq edoed en wwesesde:s 
+
+“57/N 205 GN Pusis 0) JUSNTUAUOD ‘uo wWunysen, jO aouenyur Gundnwoo oO} aajosas pi6uu © wim sseubu07 
+Ss usurs sas6u07) @ 0) sueddey yO vospne> Bunrog aan ui Suse) 01 06 Agw Aoyy [Jeounouvy] 
+
+
+p SaNvu4 JO}I9I9(] PY 
+
+
+oc HLONG) 
+LO 4 SM 104 4n OwRS Itty «6(1vIDU3IWAOD 
+SF) 494 IN owes | 14y V1 
+
+
+*SIWYU3S1 GSLIVUVSNYSYNS ity ONVYG 
+
+
+Sa 
+
+
+1 shed 
+
+
+OTTi-£89-£02 
+
+
+80000 DVIAD 
+
+
+Au IPD Pus dnuon UFWoMEsaubUlD 
+(FED “S991 BuMIN, 294 
+PRE ~~ 
+wt ee, re) ny pereny mene) 
+“$P2I(JI1 DIMEN; 405 Aunzas pe 
+JELCS 372 pyrom Suey TR 
+
+
+“Ad Ages 1e1905 * bs 
+‘WOjJf SPWO? snj\dins jo 
+— .- * > ~ = 
+‘mq Jen0P Asaaa Ayean, * 
+gore Se os if 
+
+
+dnoay stsATeuy etTpep ubtedue y “Fee 
+
+
+uy Ajnses jeiros and 
+
+
+OO dnyquon yey, Suess $'y) Uo cu 
+
+
+“ysay Apumsas perses ing 
+
+
+AMIN aS jeKOS5 BunINs Ince ym 
+€.239U) J] U@AQ INS £61 469A UO!]D0P 
+
+
+JENOP Yorg OB F US 
+
+
+enicins Ayanses soos aan puads cr 
+sium 65as6u02 uss)pandsy sun mon 
+
+
+Buides you 212un Gunmiawos 
+
+
+$210 “Aeuow ut Bunyos o1,0m 
+
+
+Aes vowburuse ay ui sueioijod aq 
+‘SUDyap jo SHA SOUY [422UNOULUY] 
+
+
+oc 
+
+
+. 
+
+
+oung ML SS/1d¥ 
+rung UL SOAS 
+
+
+‘SIWNVU4 
+HLONZT 
+TWIDYSWINOD 
+WILL 
+
+ONY 
+
+
+10399}39(q] PY 
+
+
+C96LtO aug 
+
+
+| a6eq 66/02/60 
+8oOcQ mA 
+
+‘um suadme| wiy 11/23 pue Aepo; wiry jeD SMe] Meu 
+
+“asoj sayiwey Burysom jer ji asneseg y6y siy dn daey 0} ssakmey jets} ayy dors 03 BuyySy s: 
+
+
+FSIN- F5E- TNT 
+wep 4 sup725 ° 
+
+
+sur] niy 
+LOT Ug - 
+FARE: 
+
+
+iu j} 4a, cI 
+
+
+sur] This 
+LeAinkT ie] - 
+Pras Us ane | 
+
+
+Le ee 
+
+
+pINos seus SMe} Ayniqel Mau ssed 0} 
+$sais6u0s yuem Aayy “SsdAme} jets) 343 
+
+
+yjojose4 Yoneq “sayots SI@AMA] [O12} BYEW PjNOd yey) 
+JOJOUSS “SUOlljiw 10j ajqepsoyeun SUNSME] “SUNSME] BIDYWeaYy Mau JO} INO YOO] USYL {S}SO3 BIBDYyWeay 
+ISD UPEBY ByYEW PINOD jeUL aaisuadxa YM Wajsds 84} WIeyMUeAO Buisis jNOge PaissOM :4aounouuy]) 
+
+
+oy SjidSM2] wih 
+FIBASS mean. atjsyadey 
+as SOT 9] m0 eS: : 
+
+
+{UDI Ze 2 
+
+
+4 
+4 
+2 
+
+
+- 
+. 
+= 
+
+
+gs32 OSs TSOOY 
+
+
+9 ‘sawvy3 10}399J30Q PY 
+o¢ :-HLONS1 
+C. LjOL s1aAMP7 OU) 104 INC YOOVdHWV “TWIOHSWWOO 
+SiaAME] BU} 104 INO HOC GHW ‘STIL 
++1d HLIV3SH/NSSY NYDIn SAY -ONVYS 
+
+
+10a 
+
+
+1 26eq4 
+
+
+OTTi-€89-€0i dnoay stsATeuy etpep uftedue > 
+
+
+90000 O¥ V5 
+
+
+Sm) 
+PY IP, webe dn sawoo ued 267 au) 
+USWA OU SIOA 0} J9y J19] PU aU 
+
+
+vo sniduns oui pueds 0) ued aun 
+40} DOIOA JBUUEK 18g @ANEWWAasSesday 
+
+
+"8D ‘Seaunes smiry 
+904 Awandas |8R0S Ui Sind jusAaud 0} 
+
+
+Yow IS) Duy Ou pies YouGuED 
+vee ng sed hes sustuawy 
+
+
+sat Aes sugsuaury ysop 
+
+
+*. =. - 
+
+
+~ be 
+
+
+86/SO/OL 
+
+
+Sag Apsndes je1so< and sw 
+
+
+We busses jo pearsur 
+IND 11 SSA VOND3/2@ VON}Q ORS UF 
+
+
+SOME cAMENDeS [P1905 
+weuibuens 01 snedams Ayunses jermos 
+@U] @ARS OM LUDIMOUS -[JeounoUUy]) 
+
+
+SLYOdaY 
+
+
+SJWAD 
+
+
+p Savy JOJIIj9G] PY 
+oc HLONF1 
+SS M¥GINS VEMDUBNCOIDIsy IWIDNIWINOD 
+SS sMding veuibuses OID 14ty¥ I1WiL 
+*NOINN C1D-Is¥ ONV4YS 
+
+
+lla 
+
+
+L bed OTTi-£89-€£04 dnoazy stsATeuy etTponm ufbtedue > 26/reAl 
+71000 D¥W> 
+Smur] we) 
+SA ay Ubis O; ay We, Gumueds Way tel Due Sy RUE Tem 
+
+
+DMUs SON") SRAU PsesU ] VOD am DAAIEIM <2 1162 $8026u02 U) SUL Pur SIXT] UO FU] SL PIG COL SEM 
+
+
+“~F ~~ - 
+. al’ APSE . 
+‘ tT os Foose 
+
+
+a ‘Sexm snod 
+; es@esmur 0) eve Aan Gusyias Quo ec) 
+
+Sseorr] usy red aay) MORO sses6u07 us Agts susmujod 23600; 
+
+‘@OMBUeYID 24] “SUsNROd J28AFD 50 Ol SSM SUTIAYY KSD sIBpIpUsD af WY] MOUS S*¥@rmas [Leounouvy] 
+
+
+- yh 
+sSNA 
+mae Aau) 
+
+
+Buiypiaa esow ous 
+
+
+l ‘SIU JOJIVIJIG] PY 
+o¢ ‘HLONTI 
+150 1 seo" AW LLdY ‘“lwWOUsaKeRO2D 
+S LYOday Seon] ANY ‘Wu 
+
+
+OWNS *SWUSL OSLINIVSNYDINS IY -ONWUE 
+
+
+12a 
+
+
+L a6eq OTTL-£89-€02 dnoay stsATeuy eTpen ubtedure 5 ani 
+
+
+F000 OVIKD 
+
+
+SPPACKUIE) Sy) 
+
+
+Bueb rsurebe sanaue; vorsiaoad @ ysurebe 
+}0U “SpPuRuD LO din buef 0) say Gul ysom DUB S@SSeUISNG ipmurs PAIOA MOUeTS UsWwonmssaubuo7 
+Pl MOURQEIS 2199090 1165 22uU2/010 O1 UM Da1O sd Pssayo aawy POM EW) Vapul) 24g BQ ays 
+
+
+wtresy —220_ ett) oe 
+Mawaag FITOy pewurodw | oe 
+
+
+-——" VNU Ke 
+
+
+‘nen 
+
+Aud Due $}00UXx UO Pejred sjoquAs 
+
+UO yORG Jey ‘squnars BueG ‘e2yjO 150g ain Je suononpay 
+
+peaun eys 1 woge Gungpewos op 0) ano oO swe) ea77s 2u) 03 Ano Big aun ‘edxe P.NOA as0um WOU ING ‘es aN 
+POUBUD © DBU MOUSQETS a9QGeg LVauUM jo swat) tyBuq au) Gurecey ave shues UO $1 @2u20/014 GBue5 ‘[paouncUuULY!] 
+
+
+. i med Vv 
+
+
+sways  1019918G PY 
+
+
+oc HLOND) 
+
+740 4 WOES 34 OBIUN) “ACUSRCRNIS Cosy IVIDYUIWWOD 
+WIEG 12H PSUN, "AOUaaEIS. SF sy 111 
+*NMON''NT 390 ONY 
+
+
+13a 
+
+
+bed OTT L-£89-€04 dnory stsATeuy eTpeN uptedue  36/88l 
+
+
+"UaTDis)Od s8es82 
+@ G00 D6q 0} JOU O78] 00) 5. O20}0q 
+
+
+t1000 DVIND 
+
+
+uphy Wey “Sus WO SRY UE peg Simm) wos) woddrs 0) Guaussp Pus S18900Q sesncd JO BURT 
+oO eGped au, ubys 01 seeryss mou endsep A Siseseq moods pus sayem ep Oo pusg oi useg feu) 
+
+
+3M 205 Gn puew Apdu ‘euoy _OeQ edoed sp wwesescte: 
+Oo] SUN MAUOS 6. UBUSSauU0> o eyose: pu & unm sseubu0; 
+© o) sueddey Bunpewos 
+
+
+a 06 Aww fey) -eoourrousy] 
+
+
+: a) 
+< oo 
+or Sopot - 
+7 —_— 
+J > 
+~? 
+¢ 
+
+
+BF 1 Ge 
+
+
+@ ‘SINWU4 JOVI Py 
+
+
+of ‘HLONTT 
+L pou URAW IM LUV Udy WWONIEHOO 
+SWAD *SNUAL GSLINIVSNYSIuSety ONVUG 
+
+
+S£0 DOW 
+7700 GV DVD WO AJUOSIIIIOU’ MAM 
+
+
+OTIL-€89-£02 
+dnossy stsAyeuy erpay usredure-) 
+
+
+seiqeq 
+{YON Quay pue pjobuie4 JO SPUeSNOW UO WEEP yUAa/OIA e Synd Keme sayou ysnf Bun 
+ssny ‘ssoyeuss sno, “seeA Auano uonMoge yiq-jemed ‘yUiG {ny wos ‘JOISOWL Psy 9uy ul ae] Huy y 
+
+
+NOILUOSY. 
+
+
+Hiald 
+“ WILd¥ad 
+
+
+‘uonuoge JINy WO YOU! BUC INq 
+yuig-jened e payes ueeq eaey pinom ‘je6a; Apoejed ueeq aaey He “WuesuI au PeseAujep pue auemejeg 
+yw ‘uaqyGnejsuew J0 Jepsnw jo peaysu PINOM Yi WY Pay UELQ PUue YG ui Aep yeu queseid useq pey 
+
+
+wore aed om Sei 
+Oe) oe ee ee er ee ee 
+
+
+Won ase 
+p apegeomim “regen, ancmgy ddasasee 
+aw pur aching quam 19174 
+
+
+rt 0p DL) gph terre cep) fag chew? 
+Ply Oy get al pet ee pre bee cee Ao 
+
+
+U0 ‘Spy B2NG | 
+
+
+; ' jO pesodxe pue passayep 
+JOIDOP e@ j! PuUe |BJ0OY BIEME}SBQ & OU!) POY 
+‘Aiqipesout yng “No Peynus Ajpjoo Os JEU) BASIE 1,UPINCD suesueWY IsOW sseGeuse) Aesier MeN OM) UaYyM 
+
+
+@Q PINOD oj) URWINY SsejesUsjep SiLQ ‘saysduinp e un Aqeq woqmeu neu) pe6enno sem esuewy ‘[yeounouuy) 
+
+
+7 
+~ 
+
+
+FP Rt Pe ee 
+
+
+1l1rl vt ‘Sawvus 10}99}9(] PY 
+09 ‘HLONIT 
+
+
+1 jO 1 09 uoIPOgy jYyoy poBuley WidN/IM “IWIDNSIWWOD 
+A SLYOdda 09 uoIogy |Yyoy poBule4 WIdN/IM ‘ITLL 
+re YVWO 
+
+
++ONTV 34511 Od IWNOILYN -ONVUS 
+
+
+cs 
+
+
+15 
+
+
+€700 GV DVAWO 
+
+
+WOD*AJUOSIIFOR’ Mam 
+
+
+OTIL-€89-£02 
+dnosy sishjeuy erpoy udredure) 
+
+
+9¢0 PW 
+
+
+[eouenty 8417-01 
+JEUONEN 9) JO SJEQUUaWY :Gid] 
+
+
+“LZLE-pZZ-ZOZ 8} UOHunysemM asoddo pue a0 sau abueys Aan SUOJEUSS }DBIUOD “eunpasoud 
+ul JequuNU wey) “UOROgeE YG jenued issu! pue Aepo) jyoy pue pyobure4 Ajzz106 si anunuos 0) pe, 
+
+
+vl ‘Saws 10}99}9q] PY 
+09 ‘HLONS1 
+yO 4 09 UOIOgy |Yoy PjobulIe4 WIdN/IM + “IWIONSWWOD 
+SLYOdda 09 voIOgy |YyoY PjoBuley WIdN/IM ‘ITLL 
+
+
+IVWO +ON1¥ 3417 Od TWNOLLWN -aNVua 
+
+

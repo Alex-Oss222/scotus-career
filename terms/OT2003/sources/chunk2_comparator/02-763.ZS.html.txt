@@ -1,0 +1,25 @@
+https://www.law.cornell.edu/supct/html/02-763.ZS.html
+
+BARNHART V. THOMAS
+LII
+Supreme Court
+BARNHART V. THOMAS (02-763)
+294 F.3d 568, reversed.
+Syllabus
+Opinion
+[ Scalia ]
+HTML version
+PDF versionHTML version
+PDF version
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+SUPREME COURT OF THE UNITED STATES
+BARNHART, COMMISSIONER OF SOCIAL SECURITY v. THOMAS
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE THIRD CIRCUIT
+No. 02—763. Argued October 14, 2003–Decided November 12, 2003
+A person is disabled, and thereby eligible for Social Security disability insurance benefits and Supplemental Security Income (SSI), “only if his physical or mental impairment or impairments are of such severity that he is not only unable to do his previous work but cannot, considering his age, education, and work experience, engage in any other kind of substantial gainful work which exists in the national economy.” 42 U.S.C. § 423(d)(2)(A), 1382c(a)(3)(B) (emphasis added) (hereinafter §423(d)(2)(A)). After her job as an elevator operator was eliminated, respondent Thomas applied for disability insurance benefits and SSI. An Administrative Law Judge (ALJ) found that her impairments did not prevent her from performing her past relevant work as an elevator operator, rejecting her argument that she is unable to do that work because it no longer exists in significant numbers in the national economy. The District Court affirmed the ALJ, concluding that whether Thomas’s old job exists is irrelevant under the Social Security Administration’s (SSA) regulations. In reversing and remanding, the en banc Third Circuit held that §423(d)(2)(A) unambiguously provides that the ability to perform prior work disqualifies from benefits only if it is substantial gainful work which exists in the national economy.
+Held: The SSA’s determination that it can find a claimant not disabled where she remains physically and mentally able to do her previous work, without investigating whether that work exists in significant numbers in the national economy, is a reasonable interpretation of §423(d)(2)(A) that is entitled to deference under Chevron U.S. A. Inc. v. Natural Resources Defense Council, Inc., 467 U.S. 837. Section 423(d)(2)(A) establishes two requirements: An impairment must render an individual “unable to do his previous work” and must also preclude him from “engag[ing] in any other kind of substantial gainful work.” The clause “which exists in the national economy” clearly qualifies the latter requirement. The issue in this case is whether that clause also qualifies the former requirement. The SSA’s regulations, which create a five-step sequential evaluation process to determine disability, answer that question in the negative. At step four, the SSA will find not disabled a claimant who can do his previous work, without inquiring whether that work exists in the national economy. Rather, it reserves inquiry into the national economy for the fifth step, when it considers vocational factors and determines whether the claimant can perform other jobs in the national economy. See 20 CFR §§404.1520(f), 404.1560(c), 416.920(f), 416.960(c). That interpretation is a reasonable construction of §423(d)(2)(A). The Third Circuit’s contrary reading ignores the grammatical “rule of the last antecedent,” under which a limiting clause or phrase should be read to modify only the noun or phrase that it immediately follows. Construing §423(d)(2)(A) in accord with this rule is quite sensible. Congress could have determined that an analysis of a claimant’s capacity to do his previous work would in most cases be an effective and efficient administrative proxy for the claimant’s ability to do some work that exists in the national economy. There is good reason to use such a proxy to avoid the more expansive and individualized step-five analysis. The proper Chevron inquiry is not whether an agency construction can give rise to undesirable results in some instances (which both the SSA’s and the Third Circuit’s constructions can), but whether, in light of the alternatives, the agency construction is reasonable. Here, the SSA’s authoritative interpretation satisfies that test. Pp. 3—10.
+294 F.3d 568, reversed.
+Scalia, J., delivered the opinion for a unanimous Court.

@@ -1,0 +1,365 @@
+Primary judicial text: https://law.resource.org/pub/us/case/reporter/F3/310/310.F3d.414.00-4615.01-3025.html
+
+310 F.3d 414
+
+Gregory ESPARZA, Petitioner-Appellee/Cross-Appellant,
+
+v.
+
+Betty MITCHELL, Warden, Respondent-Appellant/Cross-Appellee.
+
+No. 00-4615.
+
+No. 01-3025.
+
+United States Court of Appeals, Sixth Circuit.
+
+Argued: August 8, 2002.
+
+Decided and Filed: November 5, 2002.
+
+COPYRIGHT MATERIAL OMITTED Jeffry F. Kelleher (briefed), Cleveland, OH, Angela Wilson Miller (argued and briefed), Columbus, OH, for Petitioner-Appellee Cross-Appellant in 00-4615, 01-3025.
+
+Paul L. Nelson (briefed), Federal Public Defenders Office, Western District of Michigan, Grand Rapids, MI, David M. Porter, Sacramento, CA, for Amicus Curiae in 00-4615, 01-3025.
+
+Charles L. Wille (argued and briefed), Attorney General's Office of Ohio, Capital Crimes Section, Columbus, OH, for Respondent-Appellant Cross-Appellee in 00-4615, 01-3025.
+
+Before: MERRITT, SUHRHEINRICH, and DAUGHTREY, Circuit Judges.
+
+OPINION
+
+MERRITT, Circuit Judge.
+
+1
+This is a death penalty case from Ohio, tried by a jury, in which the District Court issued the writ of habeas corpus as to the sentencing phase of the case. The principal problem in the case arises from the fact that the indictment did not charge the aggravating circumstance that made the crime capital, nor did the trial court instruct the jury on the subject, nor did the jury return a verdict finding one or more of the aggravating circumstances that permit a sentence of death. We first look at the Ohio death penalty statutes before explaining the facts and previous rulings of state and federal courts. It is clear from this review that the Ohio courts did not follow Ohio death penalty statutes created to comply with Supreme Court cases narrowing the class of offenders eligible for the death penalty under the Eighth Amendment.
+
+2
+Under § 2929.03 of Ohio law, entitled "Imposing Sentence for a Capital Offense," an indictment in a capital case "charging aggravated murder" must state the "aggravating circumstances" that make the defendant eligible for the death penalty:
+
+3
+(A)If the indictment or count in the indictment charging aggravated murder does not contain one or more specifications of aggravating circumstances listed in division (A) of § 2929.04 of the Revised Code, then, following a verdict of guilty of the charge of aggravated murder ..., the trial court shall impose a sentence of life imprisonment.... (Emphasis added.)
+
+4
+The indictment did not contain such a charge. The next section of the Ohio Code, § 2929.04, entitled "Criteria for Imposing Death," repeats this requirement, which is followed by a list of nine "aggravating circumstances" that allow the imposition of the death penalty:
+
+5
+(A) Imposition of the death penalty for aggravated murder is precluded unless one or more of the following is specified in the indictment or count in the indictment ... and proved beyond a reasonable doubt. (Emphasis added.)
+
+6
+Under subsection (B) of § 2929.03, if the defendant is to be tried for a capital offense in Ohio, the jury
+
+7
+verdict shall separately state ... whether the offender is guilty or not guilty of each specification [of an aggravating circumstance]. The jury shall be instructed on its duties in this regard. The instruction to the jury shall include an instruction that a specification shall be proved beyond a reasonable doubt in order to support a guilty verdict on the specification.... (Emphasis added.)
+
+8
+No instruction was given, and the jury did not return a verdict finding any aggravating circumstance. In the present case, the aggravating circumstance not found by the jury but later supplied by Ohio judges is found in § 2929.04(A)(7): "The offense [of murder] was committed while the offender was committing ... robbery ... and ... was the principal offender in the commission of the aggravated murder...." (Emphasis added.)
+
+9
+These death penalty provisions of the Ohio Code were adopted in 1981 in direct response to a series of cases in the Supreme Court of the United States interpreting the Eighth Amendment. As more fully discussed below, these cases require states to narrow or restrict the class of murderers who are subject to capital punishment. A state may do so by adopting by statute a set of "aggravating circumstances," as Ohio has done. Chief Justice Rehnquist's opinion in Lowenfield v. Phelps, 484 U.S. 231, 244, 108 S.Ct. 546, 98 L.Ed.2d 568 (1988), concisely summarizes the requirements of the Eighth Amendment in this respect:
+
+10
+To pass constitutional muster, a capital sentencing scheme must "genuinely narrow the class of persons eligible for the death penalty and must reasonably justify the imposition of a more severe sentence on the defendant compared to others found guilty of murder." Zant v. Stephens, 462 U.S. 862, 103 S.Ct. 2733, 77 L.Ed.2d 235 (1983). Under the capital sentencing laws of most States, the jury is required during the sentencing phase to find at least one aggravating circumstance before it may impose death. By doing so, the jury narrows the class of persons eligible for the death penalty according to an objective legislative definition. Zant, supra, 462 U.S. at 878, 103 S.Ct. 2733 ("[S]tatutory aggravating circumstances play a constitutionally necessary function at the stage of legislative definition: they circumscribe the class of persons eligible for the death penalty"). (Citations omitted.)
+
+11
+Excusing the trial judge's failure to comply with the statutory provisions referred to above, the state courts, on their own initiative, after the jury trial and verdict, found the petitioner Esparza guilty of the aggravating circumstance that made him eligible for the death penalty, i.e., being the "principal offender" in committing an aggravated murder while committing a robbery. The jury itself was never informed of the aggravating circumstances required, nor did it find that such a circumstance existed. The primary question is whether the State violated the Eighth Amendment, as well as state law, when it failed to either charge Esparza in the indictment with the aggravated circumstance for which the death penalty was imposed or instruct the jury on the aggravating circumstance and have the jury reach a verdict on the existence of the aggravating circumstance. We conclude that the District Court was correct in issuing the writ on this basis.
+
+I. Facts
+
+12
+The case was tried on the theory that Esparza was the only participant in the crime. The State's proof showed that on the evening of February 12, 1983, a masked man entered the Island Variety Carryout in Toledo, Ohio, and approached the two store employees, Melanie Gershultz and James Barailloux. Pointing a small black handgun at them, he ordered Gershultz to open the cash register. While she was doing this, Barailloux fled the store through a rear door, entering the attached home of the store's owner. While he was alerting the owner of the robbery, he heard a shot. He returned to the store and found Gershultz lying on the floor, shot once in the neck, and the cash register open and missing approximately $110. Gershultz died shortly thereafter.
+
+13
+At trial a year later, both Esparza's sister and a fellow inmate testified that he confessed to the killing; and the sole witness to the robbery, James Barailloux, testified that the masked robber was short and husky, as was Esparza, and that he was wearing a dark blue jacket similar to the jacket Esparza's sister said Esparza wore that night. The jury returned a verdict of guilty on both counts late in the day on Thursday, May 10, 1984. A mitigation hearing was held on Tuesday, May 15, during which Esparza put on four witnesses who testified briefly in his behalf. He also gave to the jury his juvenile court file and a presentencing report prepared by the state, both of which contained information unfavorable to Esparza. The next day, the jury sentenced Esparza to death, and the trial court accepted the sentence.
+
+14
+After Esparza's trial, his appeals and his state post-conviction proceedings, a substantial volume of exculpatory evidence was revealed that was not turned over by prosecutors at trial. This evidence tended to prove that Joe Jasso was a participant in the crime and that Esparza did not act alone.
+
+15
+No information concerning Jasso was provided to the defense before trial. In information discovered as a result of a discovery request enforced by the district court below, Esparza learned that two individuals, Charles Hall and Stephen Billings, both separately reported to the Toledo Police Department that they had seen a Caucasian male and a Hispanic male in the Island Variety Carryout the night of the homicide. Hall and Billings both reported that the Caucasian man was driving a Monte Carlo. Hall reported that he saw the Monte Carlo circle the Island Variety Carryout twelve times. Information implicating Jasso was also discovered as a result of district court-ordered release of tips collected by Crimestoppers, a privately funded program that works in conjunction with local law enforcement to gather information regarding unsolved crimes. Two days after the homicide, an unidentified caller stated that he had overheard Joe Jasso talking about the murder. The caller hung up before any additional information was obtained.
+
+16
+Prior to trial, the government eyewitness, Island Variety Carryout store clerk James Barailloux, provided a series of inconsistent descriptions of the assailant to the Toledo police department. Just days after the robbery and homicide occurred, Barailloux provided two slightly different descriptions of the assailant, both generally describing a white male in his mid-thirties, around 6' tall and weighing around 180 pounds. He did not mention a ski mask. Esparza was 19 years old at the time of the incident, 5'8" tall, Hispanic, and heavy-set in body type. Two months after the robbery, Barailloux described the perpetrator as either Caucasian or Hispanic and "husky." He provided no description of the assailant's clothing during that interview. Barailloux's description continued to change over time, and at trial he described the perpetrator as a large heavy-set man with a large neck wearing a green ski mask with gold stripes and a "puffy" blue jacket. None of the inconsistent descriptions were disclosed to the defense counsel before trial.
+
+17
+On direct appeal from the verdict of death, the Ohio Supreme Court found no reversible error in the trial, with two of the seven justices dissenting. State v. Esparza, 39 Ohio St.3d 8, 529 N.E.2d 192 (1988). In state post-conviction proceedings, the Ohio Court of Appeals, in general, conclusory language, found no Eighth Amendment error in either the failure of the trial judge to require that the aggravating circumstance be charged in the indictment or the failure to require that the aggravating circumstance be found by the jury beyond a reasonable doubt after being instructed on its duties in this regard. State v. Esparza, No. L-84-225, 1994 WL 395114 (Ohio App. 6th Dist. July 27, 1994).1 The Ohio Supreme Court dismissed the appeal without opinion. State v. Esparza, 70 Ohio St.3d 1473, 640 N.E.2d 845 (1994).
+
+18
+The District Court disagreed. It concluded that the procedure followed by the State in sentencing Esparza to death violated the line of Supreme Court cases following Furman v. Georgia, 408 U.S. 238, 92 S.Ct. 2726, 33 L.Ed.2d 346 (1972), establishing new Eighth Amendment standards for the states to follow in death cases. The Court based its ruling on the failure of the Ohio courts to follow their own statutory rules designed to render Ohio's death penalty scheme constitutional under these Eighth Amendment cases:
+
+19
+Here, the trial judge, led down this path by the defective indictment, charged the jury as to one offense — aggravated murder — but sentenced Esparza as if he had been convicted of an entirely separate offense — capital murder.... As the Supreme Court said in Sullivan v. Louisiana, 508 U.S. 275, [279], 113 S.Ct. 2078, 124 L.Ed.2d 182 (1993), "to hypothesize a guilty verdict that was never in fact rendered — no matter how inescapable the finding to support that verdict might be — would violate the jury trial guarantee."
+
+20
+This post-hoc determination by an appellate court of what the jury would have done if the capital specifications question had been presented to it is particularly troubling in light of the capital scheme at issue here. As discussed later in this opinion, the Ohio Supreme Court, this Court, and the Sixth Circuit have all relied upon the existence of the capital specifications set forth in Ohio Rev.Code § 2929.04(A)(7) to conclude that the Ohio capital scheme has sufficiently narrowed the class of persons subject to the death penalty to render that scheme constitutional under Zant v. Stephens, 462 U.S. 862, 103 S.Ct. 2733, 77 L.Ed.2d 235 (1983).
+
+21
+Thus, the Ohio Supreme Court has emphasized that a defendant may not be subject to the death penalty for a mere violation of Ohio Rev.Code § 2903.01(B); before the death penalty can be imposed, the state "must additionally prove that the offender was the principal offender in the commission of the aggravated murder or, if the offender was not the principal offender, that the aggravated murder was committed with prior calculation and design." State v. Jenkins, 15 Ohio St.3d 164, 473 N.E.2d 264 (1984), cert. denied, 472 U.S. 1032, 105 S.Ct. 3514, 87 L.Ed.2d 643 (1985) (emphasis added). See also State v. Barnes, 25 Ohio St.3d 203, 495 N.E.2d 922, 925 (1986), cert. denied, 480 U.S. 926, 107 S.Ct. 1388, 94 L.Ed.2d 701 (1987) ("the trial court had to find that [the defendant] committed murder while committing or attempting to commit [a specified felony] and, further, that [the defendant] was the principal offender or that the murder was premeditated"). And, federal courts, as this one does here, have relied upon this interpretation of Ohio's capital scheme, by the highest court in the state, as support for the conclusion that Ohio's capital scheme does narrow the class of persons to whom the death penalty can be applied, and does not use the precise same factors both to convict for aggravated murder and to subject one so convicted to the death penalty. See, e.g., Scott v. Mitchell, 209 F.3d 854, 885 (6th Cir.2000).
+
+22
+Where the existence of the specifications under Ohio Rev.Code § 2929.04(A)(7) and of the state's obligation to prove those specifications as additional factors, are critical to the constitutionality of the capital scheme, a failure to charge those factors or submit them to the jury surely must be structural. Because the state failed to indict Esparza for the offense of capital murder, and failed to instruct the jury to find all elements of the offense of capital murder, and because that error is not susceptible to a review for harmless error, Esparza is correct that imposition of the death penalty upon him would be unconstitutional.
+
+23
+Esparza v. Anderson, No. 3:96-CV-7434, at 77-80 (N.D.Ohio Oct. 13, 2000) (footnotes omitted).
+
+24
+The question before us is whether this analysis of the Eighth Amendment requirements in capital cases is erroneous.
+
+II. Analysis
+
+25
+Justice Scalia concisely pointed out in his dissenting opinion in Almendarez-Torres v. United States, 523 U.S. 224, 257 n. 2, 118 S.Ct. 1219, 140 L.Ed.2d 350 (1998), a fundamental principle of modern death penalty jurisprudence:
+
+26
+Neither the cases cited, nor any other case, permits a judge to determine the existence of a factor which makes a crime a capital offense .... The person who is charged with actions that expose him to the death penalty has an absolute entitlement to jury trial on all the elements of the charge.
+
+27
+(Emphasis added.) Although stated in dissent, it seems clear that a majority, and perhaps all, of the members of the Supreme Court agree with Justice Scalia on this point. The author of the Court's opinion in Almendarez-Torres, Justice Breyer, expressed the same view in his concurring opinion in Ring v. Arizona, ___ U.S. ___, 122 S.Ct. 2428, 153 L.Ed.2d 556 (2002), when he observed "that jury sentencing in capital cases is mandated by the Eighth Amendment." Id. at 2446. In Ring, a majority of the members of the Court reached the same conclusion on the basis of the jury trial guarantee in the Sixth Amendment.
+
+28
+The same essential point was made by Chief Justice Rehnquist in the portion of his opinion for the Court in Lowenfield, quoted above. Fundamental principles from both the Due Process Clause and the Eighth Amendment, as the District Court held in its opinion quoted above, apply to the facts of this case because the jury never found the statutorily required aggravating circumstance, which, in Justice Scalia's words supplies the "factor which makes [the] crime a capital offense." This error is unquestionably a violation of the Eighth Amendment.
+
+29
+Justice Scalia's point is reinforced by the language of the Court's earlier per curiam opinion in Presnell v. Georgia, 439 U.S. 14, 16, 99 S.Ct. 235, 58 L.Ed.2d 207 (1978), a capital case, similar to the instant case in which the Georgia Supreme Court supplied the aggravator element of the capital offense, on which the jury was silent:
+
+30
+In Cole v. Arkansas, 333 U.S. 196, 68 S.Ct. 514, 92 L.Ed. 644 (1948), petitioners were convicted at trial of one offense but their convictions were affirmed by the Supreme Court of Arkansas on the basis of evidence in the record indicating that they had committed another offense on which the jury had not been instructed. In reversing the convictions, Mr. Justice Black wrote for a unanimous Court:
+
+31
+"It is as much a violation of due process to send an accused to prison following conviction of a charge on which he was never tried as it would be to convict him upon a charge that was never made .... "To conform to due process of law, petitioners were entitled to have the validity of their convictions appraised on consideration of the case as it was tried and as the issues were determined in the trial court." Id. at 201-202, 68 S.Ct. 514."
+
+32
+These fundamental principles of procedural fairness apply with no less force at the penalty phase of a trial in a capital case than they do in the guilt-determining phrase of any criminal trial. Cf. Gardner v. Florida, 430 U.S. 349, 97 S.Ct. 1197, 51 L.Ed.2d 393 (1977).
+
+33
+We also agree with the district judge that the error cannot be overcome by employing "harmless error." None of the seminal Supreme Court Eighth Amendment cases requiring the narrowing of the class of defendants eligible for the death penalty permits the offender to be executed because the error was deemed harmless. Furman v. Georgia, 408 U.S. 238, 92 S.Ct. 2726, 33 L.Ed.2d 346 (1972); Woodson v. North Carolina, 428 U.S. 280, 302, 96 S.Ct. 2978, 49 L.Ed.2d 944 (1976) (automatic or mandatory death penalty does not comply with "the holding in Furman... that the vesting of standardless sentencing power in the jury violated the Eighth ... Amendment"); Godfrey v. Georgia, 446 U.S. 420, 429, 100 S.Ct. 1759, 64 L.Ed.2d 398 (1980) ("The standardless and unchanneled imposition of death sentences in the uncontrolled discretion of a basically uninstructed jury in this case was in no way cured by the affirmance of those sentences by the Georgia Supreme Court."). The death penalty for all such offenders has been set aside, not reviewed for harmless error. And in the Presnell v. Georgia case, supra. the Supreme Court did not send the case back for harmless error review.
+
+34
+A state may not adopt a valid statute and then decline to carry it out. To allow a state to construct a constitutionally valid death penalty statute that establishes a fact to be proved to the jury beyond a reasonable doubt but permits judges to ignore the statute in order to impose the death penalty is the same as dispensing with the reasonable doubt requirement deemed not subject to harmless error analysis in Sullivan v. Louisiana, 508 U.S. 275, 280, 113 S.Ct. 2078, 124 L.Ed.2d 182 (1993) ("The Sixth Amendment requires more than appellate speculation about a hypothetical jury's action, or else directed verdicts for the State would be sustainable on appeal...."). It is not the same as dispensing with the minor element of "materiality" in a federal white collar tax case found subject to harmless error analysis in Neder v. United States, 527 U.S. 1, 119 S.Ct. 1827, 144 L.Ed.2d 35 (1999). There is no suggestion in the Chief Justice's opinion in Neder that harmless error would protect a directed verdict for the State on a crucial finding under the Eighth Amendment in a capital case. In Neder, Justice Stevens specifically points out in his concurring opinion that such harmless error would not apply to capital cases where "there is a special danger that elected judges may listen to the voice of voters rather than witnesses." 527 U.S. at 28, 119 S.Ct. 1827.
+
+35
+We find no federal appellate case that allows the judge, in violation of a state statute creating aggravating factors to be found by a jury beyond a reasonable doubt, to direct a verdict on the crucial aggravating factor that permits the death sentence. Harmless-error review in such cases should apply only when the jury has actually performed its function under the Eighth Amendment. The jury in this case never made a judgment at all on the only possible aggravating circumstance — a constitutionally indispensable requirement without which the death penalty cannot be imposed. The State's argument that the error here can be excused as harmless would lead to the conclusion that any, or all, elements required by a state's capital sentencing system may be supplied by judges rather than the jury. Neither the Eighth Amendment nor Ohio's own statutes adopted in order to comply with it permit such a gross deviation from the principle of jury sentencing according to expressly stated, clear statutory standards.
+
+36
+In this case, even if harmless error analysis were appropriate, we are faced with the problem that suppressed evidence discovered for the first time in the District Court in this proceeding raises a question about whether Esparza acted alone. There is new evidence by two witnesses, suppressed by the prosecution at trial, that there were possibly two participants in the crime, Joe Jasso and Esparza. The basis on which Ohio judges directed a verdict on the "principal offender" aggravator — that there was only one participant in the crime — appears now to be called into question. Thus the basis for the State's harmless error argument in the State courts has been undermined by the new evidence.
+
+III. Other Issues
+
+37
+Because we grant the writ as to his sentence of death on Eighth Amendment grounds, we need not reach the alternate grounds on which Esparza asks us to vacate the death sentence: that he was denied effective assistance of counsel at sentencing, that his rights were violated when he was denied a continuance to prepare for the sentencing phase, and that his rights were violated through cumulative error in the sentencing phase.
+
+38
+Esparza also advances three grounds on which he asks us to grant a general writ invalidating his convictions for aggravated murder and aggravated robbery. He claims that (1) he was denied effective assistance of counsel at trial; (2) that his rights were violated when the state did not provide him with all available relevant, material, and exculpatory evidence; and (3) that his rights were violated when the trial judge refused to recuse himself after conducting a witness certification hearing concerning threats allegedly made against a potential witness by Esparza's brother. We address these in turn.
+
+A. Ineffective Assistance of Counsel
+
+39
+Esparza first claims that he was denied effective assistance of counsel at trial. Though he advances this as two separate grounds, arguing that ineffective assistance occurred both when his counsel failed to read the faulty indictment and when he did not conduct a thorough pretrial investigation or object to alleged prosecutorial misconduct, the claims are of a piece. To evaluate such claims, we apply the two-part test laid out in Strickland v. Washington, 466 U.S. 668, 687-88, 104 S.Ct. 2052, 80 L.Ed.2d 674 (1984). We may only reverse a state court ruling if it is contrary to or involves an unreasonable application of federal law. See 28 U.S.C. § 2254(d).
+
+40
+Esparza's claim that his counsel was ineffective when he failed to read the indictment is based on a fair point: any competent counsel should read an indictment. To succeed under Strickland, however, Esparza must also show he was prejudiced by the failure to object to the indictment. Had his counsel objected, there is little doubt that the prosecution would have amended the indictment to include the required language. It may have been counsel's strategy to leave the error in place. Thus, the decision of the Ohio courts to deny relief on this basis is reasonable, and so affirmed.
+
+41
+Esparza also claims ineffective assistance occurred when his counsel did not object to closing statements by the prosecution. In the questionable statements, the prosecution stated that the victim was shot while reaching for an alarm, and that "scientific evidence" showed the shooting was not accidental, although no evidence in the record supports these claims. Although these statements are somewhat misleading, they do not warrant issuance of the writ. Counsel is free to argue reasonable inferences from the evidence, so long as evidence on the record is not misstated. See United States v. Young, 470 U.S. 1, 11-12, 105 S.Ct. 1038, 84 L.Ed.2d 1 (1985). Esparza also claims that the prosecutor played upon the jury's passions and prejudices in asking for a conviction. Esparza's trial counsel could well have concluded that the prosecution's comments were not objectionable. Even assuming arguendo that they were objectionable, and that the trial counsel should have objected, Esparza does not prove the comments prejudiced him. In rejecting this claim, the Ohio court concluded that Esparza "failed to establish that the outcome of his trial would have been different had his trial counsel not committed the alleged errors." Esparza, 1994 WL 395114, at *10. This is a reasonable conclusion to be drawn after applying Strickland.
+
+42
+Esparza's claim that his counsel was ineffective when he failed to conduct a proper pretrial investigation fails for similar reasons. Although his counsel relied chiefly on the investigation of a private investigator, and neglected to interview some witnesses listed as potential government witnesses, Esparza is unable to explain how interviewing these individuals, or conducting a more thorough investigation, would have produced a different result at trial. His sister's testimony would still have been presented against him, likely leading to another conviction. Thus, the Ohio courts acted reasonably in concluding that the alleged errors did not prejudice Esparza's defense. On his claim of ineffective assistance of counsel at trial, relief is not warranted.
+
+B. Brady Claim
+
+43
+Esparza also asks this court to issue the general writ based on the fact that the State withheld material exculpatory evidence from him at trial. As discussed above, the suppressed evidence tended to (1) impeach a witness's description of the individual who robbed Island Variety and shot Melanie Gershultz, (2) show that more than one individual committed the crime, and (3) show that police also had other suspects in the crime before charging Esparza with the killing. Taken together, the evidence throws into doubt whether Esparza was the "principal offender" in this crime and thus merits a death sentence under Ohio law.
+
+44
+The question here, however, is whether the evidence also throws into doubt Esparza's conviction for aggravated robbery and aggravated murder. Under Brady v. Maryland, a state must disclose all material exculpatory evidence to a defendant before trial. 373 U.S. 83, 83 S.Ct. 1194, 10 L.Ed.2d 215 (1963). To assert a successful Brady claim, a petitioner must show that (1) evidence favorable to the petitioner (2) was suppressed by the government and (3) therefore the defendant was prejudiced. See Strickler v. Greene, 527 U.S. 263, 119 S.Ct. 1936, 144 L.Ed.2d 286 (1999). A defendant is prejudiced when "there is a reasonable probability that, had the evidence been disclosed to the defense, the result of the proceeding would have been different." United States v. Bagley, 473 U.S. 667, 682, 105 S.Ct. 3375, 87 L.Ed.2d 481 (1985). Our task here is to determine whether, when the defendant was deprived of the suppressed evidence, he still received a "fair trial, understood as a trial resulting in a verdict worthy of confidence." Strickler, 527 U.S. at 290, 119 S.Ct. 1936 (quoting Kyles v. Whitley, 514 U.S. 419, 434, 115 S.Ct. 1555, 131 L.Ed.2d 490 (1995)).
+
+45
+After considering the evidence, we conclude that Esparza's trial was not fatally flawed at the guilt phase of the case, although obviously the suppressed evidence should have been produced. The suppressed evidence tended to show that (1) one witness's statement that the robber/shooter in the store resembled Esparza may have been wrong, and (2) that another individual may have been involved in the crime. Even after this, however, there remains other significant evidence against Esparza, in particular the testimony of two individuals to whom Esparza admitted shooting Melanie Gershultz. We note in particular that none of the suppressed evidence tends to show that Esparza was uninvolved in the robbery and shooting; it merely shows that he may not have been the principal offender and may not have acted alone. Thus, his request for a general writ based on a Brady error is denied.
+
+C. Certification Hearing
+
+46
+Finally, Esparza claims his rights were violated when the trial judge failed to recuse himself after conducting a pretrial witness-certification hearing pursuant to Ohio R.Crim. P. 12(B)(1), (C), under which the court may allow the state to withhold personal information about a prosecution witness when the prosecuting attorney "certifies to the court that to do so may subject the witness or others to physical or substantial economic harm or coercion." Id. The witness in question here was Catherine Stegg, Gregory Esparza's girlfriend and mother of his child, who feared that Esparza's brothers would harm her if they knew her whereabouts. In support of its certification request, the state provided information about Esparza's violent past. After the hearing, the judge granted the motion, allowing the state to exclude Stegg's personal information from discovery provided to Esparza.
+
+47
+The Ohio Supreme Court has held that it is error for a judge to preside at such a hearing and then preside at the subsequent trial, as the prejudicial information often revealed at such hearings could tend to prejudice a judge against a defendant. See State v. Gillard, 40 Ohio St.3d 226, 533 N.E.2d 272, 274 (1988), overruled on other grounds, State v. McGuire, 80 Ohio St.3d 390, 686 N.E.2d 1112 (1997). In such instances, however, harmless error analysis is appropriate. Id. at 277. Evaluating this claim on review, the Ohio Court of Appeals concluded that the error was harmless, noting in particular that the evidence that the judge heard at the hearing, "i.e., appellant's history of violent behavior, was also admitted at the penalty phase of the trial below." State v. Esparza, No. L-84-225, 1995 WL 302302, at *3 (Ohio App. 6th Dist. May 19, 1995). Rather than contending that the error was harmful, Esparza claims that such errors are "structural" and demand reversal in every instance. We disagree. The nature of the criminal justice system often requires judges to consider evidence and then dismiss it from their minds. See, e.g., With-row v. Larkin, 421 U.S. 35, 39, 95 S.Ct. 1456, 43 L.Ed.2d 712 (1975). Thus, harmless error analysis is called for here, and we find the Ohio court's conclusion that the error did Esparza no harm is a reasonable application of federal law.
+
+48
+Accordingly, the judgment of the District Court is affirmed.
+
+Notes:
+
+1
+The Eighth Amendment issue was clearly raised in the Ohio courts. For example, Esparza's first assignment of error in the Court of Appeals said:
+
+APPELLANT ESPARZA'S DEATH SENTENCE IS VOID AND VIOLATES THE EIGHTH AND FOURTEENTH AMENDMENTS TO THE UNITED STATES CONSTITUTION.
+
+The Court described the argument as follows:
+
+Under his first assignment of error, Esparza contends that his death sentence is void in that the state failed to allege and the jury failed to find all of the elements of a capital specification. In particular, appellant asserts that the indictment failed to allege a death penalty specification because it did not allege that he was either the principal offender or that he committed the aggravated murder with prior calculation and design. Appellant further asserts that the jury instructions at the guilt phase of his trial below were similarly defective.
+
+1994 WL 395114, at *5.
+
+49
+SUHRHEINRICH, Circuit Judge, dissenting.
+
+50
+The majority holds that the "Ohio courts did not follow Ohio death penalty statutes created to comply with Supreme Court cases narrowing the class of offenders eligible for the death penalty under the Eighth Amendment," Maj. Op. at 416, and that this failing cannot be overcome by employing "harmless error." Maj. Op. at 421-422. I agree that the state failed to properly indict Esparza for the offense of capital murder and failed to instruct the jury to find all elements of the offense of capital murder. However, I do not agree with the majority that this error cannot be subject to a "harmless error" analysis.
+
+51
+Although the majority basically sidelines it, see Maj. Op. at 423, this case is governed by the Antiterrrorism and Effective Death Penalty Act of 1996, Pub.L. No. 104-132, 110 Stat. 1214 (1996) (codified as amended at 28 U.S.C. § 2254 (Supp.2002) ("AEDPA")), which provides in relevant part:
+
+52
+(d) An application for a writ of habeas corpus on behalf of a person in custody pursuant to the judgment of a State court shall not be granted with respect to any claim that was adjudicated on the merits in State court proceedings unless the adjudication of the claim —
+
+53
+(1) resulted in a decision that was contrary to, or involved an unreasonable application of, clearly established Federal law, as determined by the Supreme Court of the United States; or
+
+54
+28 U.S.C. § 2254(d)(1).
+
+55
+In Williams v. Taylor, 529 U.S. 362, 120 S.Ct. 1495, 146 L.Ed.2d 389 (2000), the Supreme Court explained the meaning of "contrary to" and "unreasonable application" in the statute. A state court's legal decision is "contrary to" clearly established federal law under § 2254(d)(1) "if the state court arrives at a conclusion opposite to that reached by [the Supreme] Court on a question of law or if the state court decides a case differently than [the Supreme] Court has on a set of materially indistinguishable facts." Id. at 412-13, 120 S.Ct. 1495. An "unreasonable application" occurs when "the state court identifies the correct legal principle from [the Supreme] Court's decisions but unreasonably applies that principle to the facts of the prisoner's case." Id. Under this standard, a state court decision is not unreasonable simply because the federal court concludes that the state court's decision is erroneous or incorrect. Id. at 411, 120 S.Ct. 1495. Rather, the federal court must determine that the state court's decision is an objectively unreasonable application of federal law. Id. at 410-12, 120 S.Ct. 1495.
+
+56
+The Williams Court emphasized that "clearly established Federal law, as determined by the Supreme Court" refers to "the holdings, as opposed to the dicta, of [the Supreme] Court's decisions as of the time of the relevant state-court decision." Id. at 412, 120 S.Ct. 1495.
+
+57
+Under the AEDPA, we are therefore reviewing the relevant state court decision. Esparza did not raise an Eighth Amendment claim on direct appeal in the state courts. He did not raise the issue until state post-conviction proceedings, and then he raised it as part of his Sixth Amendment ineffective assistance of appellate counsel claim. As the Ohio Court of Appeals stated:
+
+58
+Appellant has now filed the present motion for delayed reconsideration in which he asserts that his original appellate counsel was ineffective for failing to raise the following assignments of error in the original appeal of his conviction and sentence to this court:
+
+ASSIGNMENT OF ERROR NO. 1
+
+59
+APPELLANT ESPARZA'S DEATH SENTENCE IS VOID AND VIOLATES THE EIGHTH AND FOURTEENTH AMENDMENTS TO THE UNITED STATES CONSTITUTION.
+
+60
+State v. Esparza, No. L 84-225, 1994 WL 395114, at *3 (Ohio Ct.App. July 27, 1994) (unpublished per curiam), cause dismissed, 70 Ohio St.3d 1473, 640 N.E.2d 845 (1994). The Ohio Court of Appeals evaluated the assignment of error under the Strickland standard.1 See id. at *2 (setting forth Strickland test for ineffective assistance of counsel claims). As to this issue, the Ohio Court of Appeals concluded:
+
+61
+Under his first assignment of error, Esparza contends that his death sentence is void in that the state failed to allege and the jury failed to find all of the elements of a capital specification. In particular, appellant asserts that the indictment failed to allege a death penalty specification because it did not allege that he was either the principal offender or that he committed the aggravated murder with prior calculation and design. Appellant further asserts that the jury instructions at the guilty phase of his trial below were similarly defective.
+
+62
+On his original appeals before this court and the Supreme Court of Ohio, appellant asserted that his conviction was against the manifest weight of the evidence. Upon review, both this court and the Supreme Court determined that the verdict was not against the manifest weight of the evidence. In so finding, both courts necessarily determined that after viewing the evidence in a light most favorable to the prosecution, any rational trier of fact could have found the essential elements of the crimes proven beyond a reasonable doubt. See State v. Jenks, (1991), 61 Ohio St.3d 259, 574 N.E.2d 492. Additionally, this court, in its decision of May 29, 1992, reviewing appellant's post-conviction appeal, addressed the merits of this assignment of error and found it not well-taken. As such, we find that there are no substantive grounds for relief under this assignment of error.
+
+63
+Id. at *5. In other words, it appears that the Ohio court concluded that there was no prejudice under Strickland. That is, appellate counsel's failure to raise the Eighth Amendment claim did not result in prejudice because of the overwhelming evidence against Esparza.2
+
+64
+As the district court suggested, it appears that the state court engaged in a harmless error analysis.3 Our task under the AEDPA then is to determine whether application of harmless error analysis to an Eighth Amendment violation was an unreasonable application of, or contrary to, Supreme Court precedent, as of the time of the relevant state court decisions.
+
+65
+Since the landmark case of Chapman v. California, 386 U.S. 18, 87 S.Ct. 824, 17 L.Ed.2d 705 (1967), in which the Supreme Court held that some federal constitutional errors can be deemed harmless, the Supreme Court has found only a few constitutional errors that are so fundamental as to be automatically reversible and not subject to the harmless error analysis. Arizona v. Fulminante, 499 U.S. 279, 306, 111 S.Ct. 1246, 113 L.Ed.2d 302 (1991); see also Neder v. United States, 527 U.S. 1, 7, 119 S.Ct. 1827, 144 L.Ed.2d 35 (1999) (stating that "we have recognized a limited class of fundamental constitutional errors that `defy analysis by "harmless error" standards'" (quoting Fulminante, 499 U.S. at 279, 111 S.Ct. 1246)). Such "structural" errors include the giving of an erroneous reasonable doubt instruction, see Sullivan v. Louisiana, 508 U.S. 275, 281-82, 113 S.Ct. 2078, 124 L.Ed.2d 182 (1993), the appointment of an interested party's attorney as a prosecutor for contempt charges, Young v. United States ex rel. Vuitton et Fils S.A., 481 U.S. 787, 809-14, 107 S.Ct. 2124, 95 L.Ed.2d 740 (1987), the excusing of a juror for cause in a capital case who was not irrevocably committed to vote against the death penalty regardless of the facts and circumstances of the case, Gray v. Mississippi, 481 U.S. 648, 668, 107 S.Ct. 2045, 95 L.Ed.2d 622 (1987), the unlawful exclusion of members of the defendant's race from a grand jury, Vasquez v. Hillery, 474 U.S. 254, 263-64, 106 S.Ct. 617, 88 L.Ed.2d 598 (1986), the denial of the right to a public trial, Waller v. Georgia, 467 U.S. 39, 48-50 & n. 9, 104 S.Ct. 2210, 81 L.Ed.2d 31 (1984), the abridgment of right to self-representation, McKaskle v. Wiggins, 465 U.S. 168, 177 n. 8, 104 S.Ct. 944, 79 L.Ed.2d 122 (1984); the complete denial of right to counsel at trial, Gideon v. Wainwright, 372 U.S. 335, 83 S.Ct. 792, 9 L.Ed.2d 799 (1963); and trial before a biased judge, Tumey v. Ohio, 273 U.S. 510, 47 S.Ct. 437, 71 L.Ed. 749 (1927).
+
+66
+In each of these cases, the error affected the framework of the trial so that it was impossible to determine whether the result was correct. That is, "[e]ach of these constitutional deprivations is a similar structural defect affecting the framework within which the trial proceeds, rather than simply an error in the trial process itself." Fulminante, 499 U.S. at 310, 111 S.Ct. 1246. "Put another way, these errors deprive defendants of `basic protections' without which `a criminal trial cannot reliably serve its function as a vehicle for determination of guilt or innocence ... and no criminal punishment may be regarded as fundamentally fair.'" Neder, 527 U.S. at 8-9, 119 S.Ct. 1827, 144 L.Ed.2d 35 (quoting Rose v. Clark, 478 U.S. 570, 577-78, 106 S.Ct. 3101, 92 L.Ed.2d 460 (1986)) (alteration in original).
+
+67
+The Supreme Court has ruled that constitutional errors subject to harmless error review include:
+
+68
+Clemons v. Mississippi, 494 U.S. 738, 752-754, 110 S.Ct. 1441, 108 L.Ed.2d 725 (1990) (unconstitutionally overbroad jury instructions at the sentencing stage of a capital case); Satterwhite v. Texas, 486 U.S. 249, 108 S.Ct. 1792, 100 L.Ed.2d 284 (1988) (admission of evidence at the sentencing stage of capital case in violation of the Sixth Amendment Counsel Clause); Carella v. California, 491 U.S. 263, 266, 109 S.Ct. 2419, 105 L.Ed.2d 218 (1989) [(]jury instruction containing an erroneous conclusive presumption); Pope v. Illinois, 481 U.S. 497, 501-504, 107 S.Ct. 1918, 95 L.Ed.2d 439 (1987) (jury instruction misstating an element of the offense); Rose v. Clark, 478 U.S. 570, 106 S.Ct. 3101, 92 L.Ed.2d 460 (1986) (jury instruction containing an erroneous rebuttable presumption); Crane v. Kentucky, 476 U.S. 683, 691, 106 S.Ct. 2142, 90 L.Ed.2d 636 (1986) (erroneous exclusion of defendant's testimony regarding the circumstances of his confession); Delaware v. Van Arsdall, 475 U.S. 673, 106 S.Ct. 1431, 89 L.Ed.2d 674 (1986) (restriction on a defendant's right to cross-examine a witness for bias in violation of the Sixth Amendment Confrontation Clause); Rushen v. Spain, 464 U.S. 114, 117-118, and n. 2, 104 S.Ct. 453, 78 L.Ed.2d 267 (1983) (denial of defendant's right to be present at trial); United States v. Hasting, 461 U.S. 499, 103 S.Ct. 1974, 76 L.Ed.2d 96 (1983) (improper comment on defendant's silence at trial, in violation of the Fifth Amendment Self Incrimination Clause); Hopper v. Evans, 456 U.S. 605, 102 S.Ct. 2049, 72 L.Ed.2d 367 (1982) (statute improperly forbidding trial court's giving a jury instruction on a lesser included offense in a capital case in violation of the Due Process Clause); Kentucky v. Whorton, 441 U.S. 786, 99 S.Ct. 2088, 60 L.Ed.2d 640 (1979) (failure to instruct the jury on the presumption of innocence); Moore v. Illinois, 434 U.S. 220, 232, 98 S.Ct. 458, 54 L.Ed.2d 424 (1977) (admission of identification evidence in violation of the Sixth Amendment Counsel Clause); Milton v. Wainwright, 407 U.S. 371, 92 S.Ct. 2174, 33 L.Ed.2d 1 (1972) (confession obtained in violation of Massiah v. United States, 377 U.S. 201, 84 S.Ct. 1199, 12 L.Ed.2d 246 (1964)); Chambers v. Maroney, 399 U.S. 42, 52-53, 90 S.Ct. 1975, 26 L.Ed.2d 419 (1970) (admission of evidence obtained in violation of the Fourth Amendment); Coleman v. Alabama, 399 U.S. 1, 10-11, 90 S.Ct. 1999, 26 L.Ed.2d 387 (1970) (denial of counsel at preliminary hearing in violation of the Sixth Amendment Confrontation Clause).
+
+69
+Fulminante, 499 U.S. at 306-07, 111 S.Ct. 1246 (some citations omitted). In Fulminante, the Supreme Court explained that:
+
+70
+The common thread connecting these cases is that each involved "trial error" — error which occurred during the presentation of the case to the jury, and which may therefore be quantitatively assessed in the context of other evidence presented in order to determine whether its admission was harmless beyond a reasonable doubt.
+
+71
+Id. at 307-08, 111 S.Ct. 1246. The harmless error rule thus "promotes public respect for the criminal process by focusing on the underlying fairness of the trial rather than on the virtually inevitable presence of immaterial error." Satterwhite v. Texas, 486 U.S. 249, 256, 108 S.Ct. 1792, 100 L.Ed.2d 284 (1988) (quoting Rose v. Clark, 478 U.S. at 577, 106 S.Ct. 3101).
+
+72
+Although the Supreme Court has repeatedly indicated that "death is different," see Woodson v. North Carolina, 428 U.S. 280, 295, 96 S.Ct. 2978, 49 L.Ed.2d 944 (1976) ("[D]eath is qualitatively different from a sentence of imprisonment, however, long. Death, in its finality, differs more from life imprisonment than a 100 year prison term differs from one of only a year or two."); see also David McCord, Is Death "Different" for Purposes of Harmless Error Analysis? Should It Be?: An Assessment of United States and Louisiana Supreme Court Case Law, 59 La. L. Rev. 1105, 1165 n. 2 (1999), the Court has never held that every constitutional error in a death penalty case is "structural." Id. at 1121. In fact, the Supreme Court has employed the "structural defect" vs. "trial error" dichotomy in capital cases. See, e.g., Sullivan, 508 U.S. at 281-82, 113 S.Ct. 2078; Fulminante, 499 U.S. at 284, 111 S.Ct. 1246 (holding that admission of the defendant's coerced confession in a capital case was subject to harmless error analysis and was not harmless error); Satterwhite, 486 U.S. at 256-58, 108 S.Ct. 1792 (approving harmless error analysis of admission in capital sentencing proceeding of psychiatric testimony obtained in violation of the Sixth Amendment); Clemons, 494 U.S. 738, 110 S.Ct. 1441, 108 L.Ed.2d 725 (holding that the Constitution does not prevent a state appellate court from upholding a death sentence that is based in part on an invalid aggravating circumstance either by reweighing the evidence or by harmless error review; remanding for clarification from Mississippi Supreme Court).
+
+73
+The majority proclaims that "[n]one of the seminal Supreme Court Eighth Amendment cases requiring the narrowing of the class of defendants eligible for the death penalty permits the offender to be executed because the error was deemed harmless." Maj. Op. at 421 (citing Furman v. Georgia, 408 U.S. 238, 92 S.Ct. 2726, 33 L.Ed.2d 346 (1972) (per curiam); Woodson v. North Carolina, 428 U.S. 280, 302, 96 S.Ct. 2978, 49 L.Ed.2d 944 (1976); Godfrey v. Georgia, 446 U.S. 420, 429, 100 S.Ct. 1759, 64 L.Ed.2d 398 (1980)). In none of those cases, however, did the Supreme Court explicitly analyze the appropriateness of the harmless error test in Eighth Amendment cases. Thus, it is disingenuous for the majority to hold that because the death penalty for all such offenders was set aside in those cases and not reviewed for harmless error, the Supreme Court has affirmatively ruled that the errors in those cases were indeed structural and not subject to harmless error review. Cf. Ring v. Arizona, ___ U.S. ___, 122 S.Ct. 2428, 2443 n. 7, 153 L.Ed.2d 556 (2002) (holding that statute allowing trial judge to determine presence or absence of aggravating factors required under state law for imposition of death penalty violated Sixth Amendment right to a jury trial in capital prosecutions; and stating that the Court did "not reach the State's assertion that any error was harmless" because the Court ordinarily leaves it to lower courts to pass on the harmlessness of the error in the first instance).
+
+74
+In Furman v. Georgia, 408 U.S. 238, 92 S.Ct. 2726, 33 L.Ed.2d 346 (1972) (per curiam), the Supreme Court held that the penalty of death may not be imposed under a sentencing scheme that creates a substantial risk that the punishment will be inflicted in an arbitrary and capricious manner. Furman made clear that a state may impose the death penalty only if its laws are shaped to narrow the class of offenders eligible for the death penalty. Gregg v. Georgia, 428 U.S. 153, 96 S.Ct. 2909, 49 L.Ed.2d 859 (1976), reaffirmed the holding of Furman, stating that "where discretion is afforded a sentencing body on a matter so grave as the determination of whether a human life should be taken or spared, that discretion must be suitably directed and limited so as to minimize the risk of wholly arbitrary and capricious action." Id. at 189, 96 S.Ct. 2909. In other words, a capital sentencing scheme must provide a "meaningful basis for distinguishing the few cases in which [the penalty] is imposed from the many cases in which it is not." Id. at 188, 96 S.Ct. 2909 (quoting Furman, 408 U.S. at 313, 92 S.Ct. 2726). See also Godfrey v. Georgia, 446 U.S. 420, 427-28, 100 S.Ct. 1759, 64 L.Ed.2d 398 (1980) (same) (plurality opinion); Zant v. Stephens, 462 U.S. 862, 103 S.Ct. 2733, 77 L.Ed.2d 235 (1983) (ruling that jury's limited function of finding statutory aggravating circumstance does not render Georgia's statutory scheme invalid under Furman).
+
+75
+The issue in Woodson was "whether a death sentence returned pursuant to a law imposing a mandatory death penalty for a broad category of homicidal offenses constitutes cruel and unusual punishment within the meaning of the Eighth and Fourteenth Amendments." 428 U.S. at 287, 96 S.Ct. 2978 (footnotes omitted). The Woodson Court explained that "[t]he issue, like that explored in Furman, involves the procedure employed by the State to select persons for the unique and irreversible penalty of death." Id. The Woodson Court held that "in capital cases the fundamental respect for humanity underlying the Eighth Amendment, requires consideration of the character and record of the individual offender and the circumstances of the particular offense as a constitutionally indispensable part of the process of inflicting the penalty of death." Id. at 304, 96 S.Ct. 2978 (citations omitted). The Court therefore concluded that the death sentences imposed upon the petitioners under North Carolina's mandatory death sentence violated the Eighth and Fourteenth Amendments and had to be set aside. Id. at 305, 96 S.Ct. 2978.
+
+76
+In these cases, the Supreme Court made clear that the Eighth Amendment imposes an underlying requirement on states to individualize capital sentencing proceedings to eliminate the arbitrary imposition of the death penalty. In Clemons, the Supreme Court described the thrust of the Eighth Amendment in this context:
+
+77
+The primary concern in the Eighth Amendment context has been that the sentencing decision be based on the facts and circumstances of the defendant, his background, and his crime. See, e.g., Spaziano v. Florida, [468 U.S. 447, 460, 104 S.Ct. 3154, 82 L.Ed.2d 340 (1984)]; Zant v. Stephens, [462 U.S. 862, 879, 103 S.Ct. 2733, 77 L.Ed.2d 235 (1983)]; Eddings v. Oklahoma, 455 U.S. 104, 110-112, 102 S.Ct. 869, 71 L.Ed.2d 1 (1982); Lockett v. Ohio, 438 U.S. 586, 601-605, 98 S.Ct. 2954, 57 L.Ed.2d 973 (1978) (plurality opinion); Gregg v. Georgia, 428 U.S. 153, 197, 96 S.Ct. 2909, 49 L.Ed.2d 859 (1976) (joint opinion of Stewart, Powell, and Stevens, JJ.). In scrutinizing death penalty procedures under the Eighth Amendment, the Court has emphasized the "twin objectives" of "measured consistent application and fairness to the accused." Eddings, supra, at 110-111 [102 S.Ct. 869].'
+
+78
+Clemons, 494 U.S. at 748, 110 S.Ct. 1441 (some citations omitted).
+
+79
+Ohio has such a capital sentencing scheme, which this Court has found constitutional. See, e.g., Scott v. Mitchell, 209 F.3d 854, 885 (6th Cir.), cert. denied, 531 U.S. 1021, 121 S.Ct. 588, 148 L.Ed.2d 503 (2000). But the issue in this case is not, as the majority's resort to Eighth Amendment jurisprudence might suggest, whether Esparza was sentenced under capital sentencing procedures that violate the Eighth Amendment under Furman and its progeny. Furthermore, this line of cases does not discuss the harmless error doctrine, and the majority supplies no authority which allows it to infer from the Court's silence that the doctrine is not applicable. Thus, in AEDPA terminology, the state court's ruling is not "contrary to" the Supreme Court precedent upon which the majority relies.
+
+80
+Rather, the issue is whether the State's failure to follow that scheme by failing to properly indict and instruct the jury on the element of capital murder constituted constitutional error of a structural type or is subject to harmless error analysis. Both myself and the majority struggle with the question of whether this is purely a violation of the Eighth Amendment or a violation of the Sixth Amendment right to trial by jury, or both.4 There is no direct Supreme Court precedent to resolve this question, so we cannot analyze the Ohio Court of Appeals decision under the "contrary to" clause of the AEDPA.
+
+81
+The question then becomes whether the state court's ruling is nonetheless an "unreasonable application" of clearly established Federal law. Without a clear answer on the subject, we must extend by analogy other Supreme Court decisions addressing the appropriateness of harmless error analysis. In my view, it is not unreasonable to analogize to Supreme Court precedent holding that omissions and misdescriptions of elements of an offense are subject to a harmless error analysis. See, e.g., Neder, 527 U.S. at 9-15, 119 S.Ct. 1827 (cases involving Sixth Amendment right to trial by jury; discussing Supreme Court precedent holding that omission of an element of an offense and misdescription of an element are subject to harmless-error review). "Unlike such defects as the complete deprivation of counsel or trial before a biased judge an instruction that omits an element of the offense does not necessarily render a criminal trial fundamentally unfair or an unreliable vehicle for determining guilt or innocence." Id. at 9, 119 S.Ct. 1827.
+
+82
+The majority draws a different conclusion, analogizing to the ruling in Sullivan v. Louisiana, 508 U.S. 275, 113 S.Ct. 2078, 124 L.Ed.2d 182 (1993). Sullivan held that a defective "reasonable doubt" instruction in violation of the defendant's Fifth and Sixth Amendment rights is not subject to harmless error analysis because it "vitiates all the jury's findings," 508 U.S. at 281, 113 S.Ct. 2078, and results in "consequences that are necessarily unquantifiable and indeterminate." Id. at 282, 113 S.Ct. 2078. In Neder, the Supreme Court rejected the defendant's argument that Sullivan precluded the application of harmless error where an erroneous jury instruction omits the element of materiality because the jury could not render a "complete verdict" on every element of the offense. Neder, 527 U.S. at 11, 119 S.Ct. 1827. The majority distinguishes Neder on the grounds that "materiality" was a minor element in a tax fraud case, and further notes that "[t]here is no suggestion in the Chief Justice's opinion in Neder that harmless error would protect a directed verdict for the State on a crucial finding under the Eighth Amendment in a capital case." Maj. Op. at 421.5
+
+83
+However, Neder itself was not based on the fact that materiality was a minor element of the offense at issue. What the Neder Court did say is that "[t]he error at issue here-a jury instruction omits an element of the offense-differs markedly from the constitutional violations we have found to defy harmless-error review." Neder, 527 U.S. at 8, 119 S.Ct. 1827. Noting that "[w]e have often applied harmless-error analysis to cases involving improper instructions on a single element of the offense," the Court proceeded to discuss its precedent on the subject. Id. at 9, 119 S.Ct. 1827. The Court concluded that while "[i]t would not be illogical to extend the reasoning of Sullivan" to the failure to instruct on an element of the crime, "the matter is not res nova under our case law." Id. at 15, 119 S.Ct. 1827.
+
+84
+Ultimately, however, it is the disagreement itself over the appropriate analogy-to Neder or Sullivan-that is most relevant here, because under the AEDPA, we are not to fault the state court's decision unless we find it contrary to or an unreasonable application of Supreme Court precedent. As the foregoing discussion reveals, the state court's decision is certainly not contrary to, nor in my view, an unreasonable application of, clearly established federal law as determined by the holdings of the Supreme Court.
+
+85
+Furthermore, in this case, I think the error was harmless. Although there was no capital specification in the indictment, as found by the Ohio Court of Appeals, the front page of the indictment states that Esparza was charged with: "AGGRAVATED MURDER-§ 2903.01(B)-with a gun specification; AGGRAVATED ROBBERY-§ 2911.01-also with a gun specification; also a death penalty specification as to the first count[.]" Here, the jury was instructed completely and properly on the elements of aggravated murder, "defined as purposely causing the death of another while committing Aggravated Robbery." In addition, the jury was instructed that if it found Esparza guilty of Aggravated Murder, "it is then your duty to deliberate further and decide two additional factual questions called Specifications." As to the second specification, the trial court instructed the jury that the issue for decision was "whether the State has proved beyond a reasonable doubt that the offense of Aggravated Murder was committed while the Defendant was committing Aggravated Robbery." The State proceeded on the theory that one person committed the murder and robbery. Thus, in order to find Esparza guilty beyond a reasonable doubt, the jury must have found that Esparza "actually killed" Melanie Gershultz. "Principal offender" has been defined under Ohio law as "the actual killer." State v. Chinn, 85 Ohio St.3d 548, 709 N.E.2d 1166, 1177 (1999). Thus, although the jury was not explicitly instructed to make a finding under Section 2929.04(A)(7) that Esparza was "the principal offender in the commission of the aggravated murder," it necessarily had to make that finding in order to find Esparza guilty of the aggravated murder of Gershultz on the facts before it.
+
+86
+In my view, the failure to properly instruct the jury under Section 2929.04(A)(7) involved a trial error "which occurred during the presentation of the case to the jury," that could therefore be quantitatively assessed against the other evidence to determine if the error was harmless beyond a reasonable doubt. Fulminante, 499 U.S. at 307-08, 111 S.Ct. 1246. More importantly, I do not think it unreasonable for the Ohio Court of Appeals to have done so because Esparza's trial still served as a reliable vehicle for the determination that he was guilty of capital murder. By the same token, I do not think the state court's conclusion that the error was in fact harmless in light of the "manifest weight of the evidence" was an unreasonable application of the harmless error doctrine either.
+
+87
+The majority also states that even if harmless error analysis were appropriate, "we are faced with the problem that suppressed evidence discovered for the first time in the District Court in this proceeding raises a question about whether Esparza acted alone." Maj. Op. at 422. The record in the district court reflects that the prosecution withheld evidence by two witnesses indicating that there were two participants in the crime, Esparza and Joe Jasso. Based on this evidence the majority concludes that "[t]he basis on which Ohio judges directed a verdict on the `principal offender' aggravator-that there was only one participant in the crime-appears now to be untrue," and that "the basis for the State's harmless error argument in the State courts has been undermined by the new evidence." Maj. Op. at 422. I would agree with the majority that this evidence would compel a finding that the error was not harmless here except that, as the majority notes elsewhere in its opinion in connection with Esparza's Brady claim, that "[e]ven after this, however, there remains other significant evidence against Esparza, in particular the testimony of two individuals that Esparza admitted to shooting Melanie Gershultz." Maj. Op. at 424. In short, I do not think that it can be said that the Ohio court's application of the harmless error doctrine was an unreasonable application of Supreme Court precedent to the facts of this case, even in light of the new evidence.
+
+88
+The majority also cites Presnell v. Georgia, 439 U.S. 14, 99 S.Ct. 235, 58 L.Ed.2d 207 (1978) (per curiam). There, the defendant was convicted in state court of three capital offenses; rape, kidnaping with bodily injury, and murder with malice aforethought. The Georgia Supreme Court ruled that the first two death sentences were invalid, because both depended upon the petitioner having committed forcible rape, and the court determined that the jury had not properly convicted the petitioner of that offense. The jury had been instructed during the guilt phase both on forcible and statutory rape, but did not specify in its verdict which offense it had found, and there was no jury finding of forcible rape at the penalty phase. The Georgia Supreme Court upheld the third death penalty imposed by the jury, in spite of the lack of a jury finding on forcible rape, on the grounds that evidence in the record supported the conclusion that the petitioner was guilty of that offense, which in turn established the element of bodily harm necessary to make the third capital crime, "kidnapping with bodily harm, aggravated sodomy," a sufficiently aggravating circumstance to justify the death sentence. Id. at 15-16, 99 S.Ct. 235. The United States Supreme Court reversed, given the absence of a jury finding of forcible rape. However, in that case, the Supreme Court did not consider whether the harmless error doctrine might be applicable.
+
+89
+Furthermore, Presnell is distinguishable because here, as I have noted, the jury necessarily found that Esparza was the actual killer, and therefore the principal offender. Thus, unlike Presnell, the jury in this case actually made a finding-albeit implicitly-on an element of the offense necessary to make Esparza's offense a capital crime. Cf. Ring, 122 S.Ct. 2428 (holding that capital defendants, like non-capital defendants, are entitled under the Sixth Amendment to a jury determination on any fact which increases their maximum punishment, invalidating statute that allowed sentencing judge, rather than jury, to find aggravating circumstance necessary for imposition of the death penalty; reserving in a footnote question of whether harmless error test is applicable). I therefore do not find that the Ohio Court of Appeals decision was contrary to, or an unreasonable application of, Presnell.
+
+90
+This is a difficult question, but the AEDPA directs our hand in this case. I would reverse the district court's partial grant of the writ of habeas corpus.
+
+91
+I also object to the majority's conclusion that there was no ineffective assistance of counsel based on counsel's failure to read the indictment since "[i]t may have been counsel's strategy to leave the error in place." Maj. Op. at 423. I do not think judges of this Court should countenance strategically placed errors by officers of the court.
+
+92
+I respectfully dissent.
+
+Notes:
+
+1
+Strickland v. Washington, 466 U.S. 668, 104 S.Ct. 2052, 80 L.Ed.2d 674 (1984).
+
+2
+The Ohio Court of Appeals did not address cause, presumably because it found that prejudice was not shown
+
+3
+The district court stated in relevant part:
+
+The state court conceded that there was no capital specification obvious on the face of the indictment, but concluded that this fact did not prohibit Esparza's conviction for capital murder. This is so, the state court reasoned, because it found that the indictment was sufficient, despite the absence of certain precise language, to put Esparza on notice of all of the elements of the offense with which he was charged. Thus, the state court found that the "principal offender" specification was implicit in the indictment because no one other than Esparza was charged with participating in the events described. The court stated:
+
+We conclude that where only one defendant is named in an indictment alleging felony murder, it would be redundant to state that the defendant is being charged as the principal offender. Only where more than one defendant is named need the indictment specify the allegation `principal offender.'
+
+State v. Esparza, 1992 WL 113827, at *9 (Ohio App.May 29, 1992).
+
+It appears, accordingly, that without saying so expressly, the state court engaged in a harmless error analysis, finding that the absence of the words "principal offender" in the indictment was not meaningful where, as here, there was only one offender charged in that indictment.
+
+Esparza v. Anderson, No. 96-CV-7434, slip. op. at 70 (E.D.Ohio. Oct. 13, 2000) (footnoted omitted).
+
+The district court failed to quote the last sentence of the foregoing paragraph in which the Ohio Court of Appeals stated that: "We further note that the words death penalty specification as to the first count are clearly typed on the front of the indictment." Esparza, 1992 WL 113827, at *9.
+
+4
+The district court shared in this struggle. The lower court's analysis is an amalgam of the Fifth Amendment right to indictment by grand jury (albeit erroneously because this right does not extend to state prosecutions), the Fourteenth Amendment right to adequate notice (citingIn re Winship, 397 U.S. 358, 90 S.Ct. 1068, 25 L.Ed.2d 368 (1970)), the Sixth Amendment guarantee of trial by jury (citing Apprendi v. New Jersey, 530 U.S. 466, 120 S.Ct. 2348, 147 L.Ed.2d 435 (2000)), and the Eighth Amendment right to be sentenced under a capital scheme that sufficiently narrows the class of person subject to the death penalty (citing Zant v. Stephens, 462 U.S. 862, 103 S.Ct. 2733, 77 L.Ed.2d 235 (1983)).
+
+5
+At the risk of sounding unduly rhetorical, why would there be?Neder was not a capital case. And, as the majority well knows, the Supreme Court, as it is constitutionally required to do, speaks only to the issues properly before it.
+
+CC∅ | Transformed by Public.Resource.Org

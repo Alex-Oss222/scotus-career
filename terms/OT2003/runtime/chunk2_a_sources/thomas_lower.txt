@@ -1,0 +1,218 @@
+Primary judicial text: https://law.resource.org/pub/us/case/reporter/F3/294/294.F3d.568.00-3506.html
+
+294 F.3d 568
+
+Pauline THOMAS, Appellant,
+
+v.
+
+COMMISSIONER OF SOCIAL SECURITY.
+
+No. 00-3506.
+
+United States Court of Appeals, Third Circuit.
+
+Argued March 12, 2001.
+
+Argued En Banc February 13, 2002.
+
+Filed June 21, 2002.
+
+Abraham S. Alter (argued), Langton & Alter, Rahway, NJ, for appellant.
+
+Susan Reiss (argued), Social Security Administration, Office of General Counsel — Region II, New York City, Peter G. O'Malley, Office of United States Attorney, Newark, NJ, for appellee.
+
+Before: ALITO, RENDELL, Circuit Judges, and SCHWARZER,* Senior District Judge.
+
+Before: BECKER, Chief Judge, SLOVITER, MANSMANN,** SCIRICA, NYGAARD, ALITO, ROTH, McKEE, RENDELL, AMBRO, and FUENTES, Circuit Judges.
+
+OPINION OF THE COURT
+
+ALITO, Circuit Judge.
+
+1
+Pauline Thomas worked as an elevator operator until her position was eliminated. Claiming a heart condition and related medical problems, she applied for Supplemental Security Income and Disability Insurance Benefits. The Commissioner of Social Security ("Commissioner") denied her application, and an Administrative Law Judge ("ALJ") also determined that Thomas was not eligible for benefits. The United States District Court for the District of New Jersey affirmed the ALJ's ruling and held that Thomas was not disabled under the five-step sequential process for determining eligibility for disability benefits because it found that she could continue to perform her previous work as an elevator operator. The District Court's interpretation of the Social Security Act, however, is inconsistent with both a careful reading of the particular provision at issue and the obvious statutory scheme. According to the Commissioner and the District Court, even if Thomas is unable to perform any job that exists in substantial numbers in the national economy and meets all of the other requirements for disability and supplemental security benefits, she may not obtain benefits because she could perform a job — serving as an elevator operator — that, as far as this record reflects, has now entirely vanished. We disagree and therefore reverse the order of the District Court and remand the case for further proceedings.
+
+I.
+
+2
+Pauline Thomas worked as a housekeeper until 1988, when she had a heart attack. She then worked as an elevator operator until she was laid off on August 25, 1995, because her position was eliminated. She applied for Disability Insurance Benefits and Supplemental Security Income Benefits on June 11, 1996, claiming disability related to cardiac problems. She testified that she suffers from irregular heartbeats, high blood pressure, dizziness, and fatigue. Thomas also claimed that she suffers from lower back problems caused by lumbar radiculopathy and asserts that she fractured her right ankle on July 8, 1996. Thomas was 54 years old at the time she applied for benefits.
+
+3
+Thomas's application for Social Security benefits was denied by the Commissioner initially and on reconsideration. A hearing was then held before an ALJ, who determined that Thomas was not entitled to benefits. The ALJ found that Thomas has hypertension, cardiac arrhythmia, cervical and lumbar strain/sprain, and a transient ischemic attack, but does not have an impairment listed in the list of impairments presumed to be severe enough to preclude any gainful work. Decision of ALJ at 5. The ALJ then found that Thomas has the residual functional capacity to perform at least light work and, therefore, that she could perform her past relevant work as an elevator operator. The ALJ considered Thomas's argument that her past relevant work as an elevator operator no longer exists in the national economy. Id. at 4-5. Nevertheless, the ALJ decided that the regulations and Social Security Ruling 82-40 exclude from Step Four of the sequential process for determining disability any inquiry into whether the past work actually exists. Id. at 5. The ALJ held that Step Four considers only whether a claimant can perform her previous job. As a result, the ALJ ruled that Thomas was not under a "disability" and ended the evaluation without proceeding to Step Five. Id.
+
+4
+The Appeals Council denied Thomas's request for review, establishing the ALJ's decision as the final decision of the Secretary. Thomas then challenged the ALJ's ruling in the United States District Court for the District of New Jersey, but the District Court held that the ALJ properly applied the sequential process and affirmed his ruling. Thomas appeals from this judgment.
+
+II.
+
+5
+Title II of the Social Security Act, as amended, provides Social Security Disability Insurance benefits for individuals who are "under a disability" and meet the other eligibility requirements. 42 U.S.C. § 423(a). Title XVI of the Act likewise provides Supplemental Security Income benefits for "disabled" indigent persons. 42 U.S.C. § 1382. With respect to individuals who are not blind, the term "disability" is defined as follows:
+
+6
+(1) The term "disability" means —
+
+7
+(A) inability to engage in any substantial gainful activity by reason of any medically determinable physical or mental impairment which can be expected to result in death or which has lasted or can be expected to last for a continuous period of not less than 12 months ... . . .
+
+8
+(2) For purposes of paragraph (1)(A) —
+
+9
+(A) An individual shall be determined to be under a disability only if his physical or mental impairment or impairments are of such severity that he is not only unable to do his previous work but cannot, considering his age, education, and work experience, engage in any other kind of substantial gainful work which exists in the national economy, regardless of whether such work exists in the immediate area in which he lives, or whether a specific job vacancy exists for him, or whether he would be hired if he applied for work. For purposes of the preceding sentence (with respect to any individual), "work which exists in the national economy" means work which exists in significant numbers either in the region where such individual lives or in several regions of the country.
+
+10
+42 U.S.C. § 423(d) (emphasis added); see also 42 U.S.C. § 1382c(a)(3) (providing the same definitions for Supplemental Security Income benefits).
+
+11
+Social Security regulations provide for a sequential evaluation process for determining whether a claimant is under a disability. 20 C.F.R. §§ 404.1520, 416.920; see also Plummer v. Apfel, 186 F.3d 422, 428 (3d Cir.1999). At Step One, the Commissioner must determine whether the claimant is currently engaging in a "substantial gainful activity." 20 C.F.R. §§ 404.1520(b), 416.920(b). If so, she is not eligible. 20 C.F.R. §§ 404.1520(b), 416.920(b). At Step Two, the Commissioner must determine whether the claimant has a "severe impairment." 20 C.F.R. §§ 404.1520(c), 416.920(c). If the claimant does not have a severe impairment, then she is not eligible. 20 C.F.R. §§ 404.1520(c), 416.920(c). At Step Three, if a claimant does not suffer from an impairment on the list of impairments presumed to be severe enough to preclude gainful work, the Commissioner moves to Step Four. 20 C.F.R. §§ 404.1520(d), 416.920(d). Step Four requires the Commissioner to decide whether the claimant retains the residual functional capacity to perform her past relevant work. 20 C.F.R. §§ 404.1520(e), 416.920(e). The claimant bears the burden of demonstrating an inability to return to her past relevant work. Plummer, 186 F.3d at 428. If the claimant is unable to resume her former occupation, the evaluation moves to Step Five. Id. At Step Five, the Commissioner has the burden of demonstrating that the claimant is capable of performing other jobs existing in significant numbers in the national economy. 20 C.F.R. §§ 404.1520(f), 416.920(f). At Step Five, the Commissioner is to consider the claimant's vocational factors. 20 C.F.R. §§ 404.1520(f), 416.920(f).1
+
+III.
+
+12
+Thomas argues that because her position as an elevator operator was eliminated and does not appear in significant numbers in the national economy, the ALJ should have proceeded to Step Five of the sequential process. We agree that at Step Four, Thomas should have been permitted to show that her previous work as an elevator operator no longer exists in substantial numbers in the national economy.
+
+13
+At Step Four of the sequential process, the Commissioner must determine whether the claimant can perform her past relevant work. Based on the language of the relevant provisions of the Social Security Act and the broader statutory scheme, we hold that, for the purposes of Step Four of the evaluation process, a claimant's previous work must be substantial gainful work which exists in the national economy. Thus, a claimant may proceed to Step Five by showing either that she cannot perform her past relevant work or that the previous work is not substantial gainful work that exists in the national economy.
+
+14
+The statute defines disability as follows: "An individual shall be determined to be under a disability only if his physical or mental impairment or impairments are of such severity that he is not only unable to do his previous work but cannot, considering his age, education, and work experience, engage in any other kind of substantial gainful work which exists in the national economy...." 42 U.S.C. § 423(d) (emphasis added). Thus, an individual is disabled only if "he is not only unable to do his previous work but cannot ... engage in any other kind of substantial gainful work which exists in the national economy," i.e., any "work which exists in significant numbers either in the region where such individual lives or in several regions of the country." 42 U.S.C. § 423(d)(2)(A) (emphasis added). The phrase "any other" in this provision is important for present purposes. The use of this phrase makes clear that an individual's "previous work" was regarded as a type of "substantial gainful work which exists in the national economy." When a sentence sets out one or more specific items followed by "any other" and a description, the specific items must fall within the description. For example, it makes sense to say: "I have not seen a tiger or any other large cat" or "I have not read Oliver Twist or any other novel which Charles Dickens wrote." But it would make no sense to say, "I have not seen a tiger or any other bird" or "I have not read Oliver Twist or any other novel which Leo Tolstoy wrote." Therefore, if we presume that the statutory provisions at issue here are written in accordance with correct usage, a claimant's ability to perform "previous work" is not disqualifying if that work no longer "exists in the national economy."2 This feature of the statutory language is unambiguous.
+
+15
+Moreover, even if the statutory language were ambiguous, our interpretation would not change. Other things being equal, a statute should be read to avoid absurd results. In re First Merchants Acceptance Corporation v. J.C. Bradford & Co., 198 F.3d 394, 402 (3d Cir.1999). Here, there is no plausible reason why Congress might have wanted to deny benefits to an otherwise qualified person simply because that person, although unable to perform any job that actually exists in the national economy, could perform a previous job that no longer exists.
+
+16
+It is true that a literal interpretation of the Social Security regulations setting out the five-step evaluation process seems to lead to this result. The regulation describing Step Four states:
+
+17
+Your impairment(s) must prevent you from doing past relevant work.... If you can still do this kind of work, we will find that you are not disabled.
+
+18
+20 C.F.R. § 404.1520(e); see also 20 C.F.R. § 416.920(e). Only if a claimant can get by Step Four do the regulations call for an inquiry into whether the claimant can perform any job that actually exists. See 20 C.F.R. § 404.1520(f); 20 C.F.R. § 416.920(f).
+
+19
+Mechanically following the regulations, the ALJ in this case found that Thomas retained the residual functional capacity to perform her previous job as an elevator operator. Without giving Thomas an opportunity to present evidence concerning the existence of elevator operator positions, the ALJ ended the evaluation at Step Four.3 He rejected Thomas's argument that, because the position of elevator operator is now obsolete, she should be permitted to proceed to Step Five.
+
+20
+Although we acknowledge that the literal language of the regulation governing Step Four appears to support the ALJ's decision to terminate the inquiry at Step Four, this regulation should be read, if possible, so as not to conflict with the statute it implements, see, e.g., Joy Technologies, Inc. v. Secretary of Labor, 99 F.3d 991, 995 (10th Cir.1996), and if there is such a conflict, the regulation must yield.4 See United States v. Mead Corp., 533 U.S. 218, 226, 121 S.Ct. 2164, 150 L.Ed.2d 292 (2001) (even when an agency is expressly delegated authority to elucidate a specific provision of a statute by regulation, a court should not follow a regulation that is "manifestly contrary to the statute"); Chevron U.S.A. Inc. v. Natural Resources Defense Council, Inc., 467 U.S. 837, 844, 104 S.Ct. 2778, 81 L.Ed.2d 694 (1984); see also Mead Corp., 533 U.S. at 226, 121 S.Ct. 2164; Heckler v. Campbell, 461 U.S. 458, 466, 103 S.Ct. 1952, 76 L.Ed.2d 66 (1983). The problem with a literal reading of the regulation regarding Step Four is that it sets up an artificial roadblock to an accurate determination of whether Thomas can "engage in any ... kind of substantial gainful work which exists in the national economy." 42 U.S.C. § 423(d)(2). If Thomas can show that elevator operator positions really are obsolete, the fact that she still possesses the physical or mental capability to perform the duties of an elevator operator does not mean that she can engage in any substantial gainful activity that actually exists. Accordingly, the ALJ should have allowed Thomas to present evidence on whether elevator operator positions are obsolete. If Thomas had made such a showing, the ALJ then should have proceeded to Step Five of the sequential evaluation to ascertain whether Thomas's medical impairments prevent her from engaging in any work that actually exists.
+
+21
+Step Four was designed to facilitate the determination of whether a claimant has the capacity to work, because it is easier to evaluate a claimant's capacity to return to a former job than to decide whether any jobs exist for a person with the claimant's impairments and vocational background. Nevertheless, we cannot lose sight of the fact that the touchstone of "disability" is the inability to engage in any substantial gainful activity that exists in the national economy. 42 U.S.C. § 423(d)(2). Because a rigid application of Step Four in this case could defeat Congress's unambiguous intent, we must reject such an approach. See Mead Corp., 533 U.S. at 226, 121 S.Ct. 2164.
+
+22
+The Commissioner argues that permitting a claimant to proceed to Step Five if she can show that her past job does not exist in significant numbers in the national economy would convert disability benefits into unemployment benefits. We find this argument unconvincing. Awarding disability benefits to a claimant who, as a result of a qualifying impairment, cannot perform any job that actually exists is hardly the equivalent of providing unemployment compensation.5 By contrast, denying benefits because a claimant could perform a type of job that does not exist seems nonsensical.
+
+23
+In our view, the most perceptive precedent addressing the question at hand is Kolman v. Sullivan, 925 F.2d 212 (7th Cir.1991). The holding in that case — that the ALJ should have continued to Step Five because the claimant's past job was a temporary training position — is inapplicable here, but the Kolman Court did mention in dicta that, even if a claimant's past job was a permanent position, an ALJ would be required to move to Step Five if that past job had disappeared. As the Kolman Court noted, the fact that a claimant could perform a past job that no longer exists would not be "a rational ground for denying benefits." Kolman, 925 F.2d at 213. The Court observed:
+
+24
+The failure of the regulations to require that the job constituting the applicant's past work exist in significant numbers probably just reflects an assumption that jobs that existed five or ten or even fifteen years ago still exist. But if the assumption is dramatically falsified in a particular case, the administrative law judge is required to move on to the next stage and inquire whether some other job that the applicant can perform exists in significant numbers today somewhere in the national economy.
+
+Id. at 213-14.6
+
+25
+We acknowledge that the Commissioner's position is supported by Rater v. Chater, 73 F.3d 796 (8th Cir.1996), and Pass v. Chater, 65 F.3d 1200 (4th Cir.1995), but neither opinion is persuasive. Both decisions rely primarily on the Social Security regulations and on Social Security rulings. See Rater, 73 F.3d at 798-99 (relying on Social Security Ruling 82-61); Pass, 65 F.3d at 1204-05 (relying on Social Security Rulings 82-61 and 82 40). Neither opinion, in our judgment, devotes sufficient attention to the language of the statute or the statutory scheme.
+
+IV.
+
+26
+The dissent argues that our reasoning in this case is "flawed in six ways," but the dissent's arguments are unpersuasive. The dissent asserts that the statutory language supports its position, accusing us of "rewriting the statute," "contort[ing] the statutory language," "reject[ing] its literal meaning," and "engraft[ing]" upon it an "additional component." Dissent at 576, 577. In the words of the dissent, the statutory language is "perfectly clear," it "permits no other conclusion," it "clearly mandates" the result reached by the dissent, and its meaning is "plain." Id. Notably absent from the dissent, however, is any attempt to provide reasoned support for these charges. In particular, the dissent makes no effort to respond to our argument that the statutory language, when read in accordance with standard rules of usage, prescribes that the claimant's "previous work" must still "exist[] in the national economy." See supra at 572.
+
+27
+Three of the dissent's arguments are beside the point because they are based not on the statute, but on the regulations. The dissent contends that "Step Four requires the Commissioner to decide whether the claimant retains the residual functional capacity to perform her past relevant work"; that "it is not until Step Five that vocational factors (i.e., ability to access other gainful work) are considered"; and that "Steps Four and Five are quite clear." Dissent at 577, 577. Our decision, however, is based not on the regulations but on the statute. To the extent that the regulations are inconsistent with the statute, they are invalid. Thus, the dissent's reliance on the regulations does not respond to the rationale of our decision.
+
+28
+The dissent argues that the Seventh Circuit's decision in Kolman is the "linchpin" of our decision and that it can be "distinguished" from the present case. Dissent at 578. This argument is puzzling because our opinion plainly acknowledges that "[t]he holding [in Kolman] is inapplicable here." Supra at 574-75. Instead of basing our decision on Kolman, we simply quoted what we recognized as "dicta" in that opinion. Id.
+
+29
+The dissent warns that our interpretation of the statute "would wreak havoc with the evidentiary aspects of the administrative process" by making "vocational concerns" (i.e., whether elevator operator jobs still exist) a part of Step Four. Dissent at 577. This is, to put the point mildly, hyperbole. Cases like the present one are rare, and inquiring whether a job such as that of an elevator operator still exists in the national economy is not complex. We have no doubt that the Social Security system will be able to cope with this decision.
+
+30
+Finally, the dissent attempts to provide a plausible reason why Congress might have wanted to deny benefits to a claimant on the ground that the claimant can perform a previous job that no longer exists. According to the dissent, "[p]revious work essentially serves as a proxy for the ability to perform work." Dissent at 577. Apparently, this means that Congress might have reasoned that if a claimant is able to perform previous work that no longer exists, it is likely that the claimant is also able to perform other work that does exist. Undoubtedly this is true in most cases — but it may not always be true, and it may not be true in this case. The dissent thus provides no answer to the question why Congress might have wanted to preclude benefits for a claimant who is able to perform previous work that no longer exists but is unable to perform any work that does exist.
+
+V.
+
+31
+For the foregoing reasons, we reverse the order of the District Court and remand for further proceedings.
+
+Notes:
+
+*
+The Honorable William W. Schwarzer, Senior District Judge for the Northern District of California, sitting by designation
+
+**
+The Honorable Carol Los Mansmann participated in the argument and conference of the en banc court in this appeal, but she died before the filing of the opinion
+
+1
+The regulations describe Steps Four and Five as follows:
+
+(e) Your impairment(s) must prevent you from doing past relevant work. If we cannot make a decision based on your current work activity or on medical facts alone, and you have a severe impairment(s), we then review your residual functional capacity and the physical and mental demands of the work you have done in the past. If you can still do this kind of work, we will find that you are not disabled.
+
+(f) Your impairment(s) must prevent you from doing any other work. (1) If you cannot do any work you have done in the past because you have a severe impairment(s), we will consider your residual functional capacity and your age, education, and past work experience to see if you can do other work. If you cannot, we will find you disabled....
+
+20
+C.F.R. §§ 404.1520(e) and (f); 20 C.F.R. §§ 416.920(e) and (f);see also 20 C.F.R. § 404.1560; 20 C.F.R. § 416.960.
+
+2
+We are aware that the Ninth and Sixth Circuits have opined that subsection (d)(2) is ambiguous. InQuang Van Han v. Bowen, 882 F.2d 1453 (9th Cir.1989), the Court wrote that the interpretation that we have just set out "is a reasonable interpretation of the statute, but not the only one. It is also reasonable to construe `previous work' and `other' work as separate categories, neither a subset of the other." Id. at 1457 (emphasis in original); see also Garcia v. Secretary of Health and Human Services, 46 F.3d 552, 558 (6th Cir.1995) (same). In response, we can say only that for the reasons we have attempted to explain, we do not believe that this conclusion is consistent with standard usage. The language of subparagraph (d)(2) is not ambiguous.
+
+3
+The Commissioner asserted in his brief that the position of "elevator operator" is listed in the most recent edition of the Department of Labor'sDictionary of Occupation Titles (rev. 4th ed. 1991). The job titles of "elevator operator" (Code 388.663-010) and "elevator starter" (Code 388.367-010) do indeed appear in the Dictionary of Occupation Titles, but these occupations were last studied and updated in 1977. The Commissioner further claimed that the Occupational Information Network (O*Net), which is being developed by the Department of Labor as an electronic replacement for the Dictionary of Occupation Titles, also lists the job of elevator operator. Our own search of O*Net, however, at <http://online.onetcenter.org/main.html> turned up no occupations entitled "elevator operator" or "elevator starter." Nor were there cross-references to those positions as listed in the Dictionary of Occupation Titles. The 2000-2001 edition of the Bureau of Labor Statistics's Occupational Outlook Handbook also does not contain positions resembling an elevator operator or starter. The ALJ refused to consider Thomas's arguments regarding the status of elevator operator as an occupation, so we do not have any findings as to whether or not that occupation remains in existence.
+
+4
+We are not certain that the regulation concerning Step Four is irreconcilable with the language of the statute. The situation arguably presented here — where the only job that a claimant may be able to perform is a past job that is now obsolete — is undoubtedly rare, and it is likely that this situation was not in the minds of those who drafted and promulgated the regulationSee Kolman v. Sullivan, 925 F.2d 212, 213 (7th Cir.1991) ("The failure of the regulation to require that the job constituting the applicant's past work exist in significant numbers probably just reflects an assumption that jobs that existed five or ten or even fifteen years ago still exist."). As noted, a regulation should be read if possible in a way that does not conflict with the statute it implements and in a way that avoids absurd results. If, however, the regulation must be interpreted as the Commissioner insists, we would hold that the regulation and any Social Security rulings embodying that interpretation conflict with the statute and are, to the extent of the conflict, invalid.
+
+5
+A claimant cannot even reach Step Four unless she makes a threshold showing of a medically severe physical or mental impairment. At Step Two, if a claimant does not have "any impairment or combination of impairments which significantly limits [her] physical or mental ability to do basic work activities," she does not have a severe impairment and is therefore not disabled. 20 C.F.R. § 404.1520(c); 20 C.F.R. § 416.920(c). In addition, a claimant's burden of proving that her previous work no longer exists is hardly insubstantial. Finally, in the vast majority of cases, a claimant who is found to have the capacity to perform her past work also will have the capacity to perform other types of work. To remain faithful to the statutory scheme, however, the ALJ should move to Step Five and dispose of the case at that stage rather than cutting off the evaluation simply because the claimant has the capacity to perform a job that may not exist
+
+6
+In subsequent cases, the Seventh Circuit has neither implemented nor disavowed this dicta. To be sure, inKnight v. Chater, 55 F.3d 309 (7th Cir.1995), the Court affirmed the denial of benefits sought by a claimant who argued that she should have been permitted to bypass Step Four because her previous position as a keypunch operator had become obsolete with the advent of computers. The Court stated, however, that some of the claimant's other previous jobs also qualified as past relevant work that the claimant still had the capacity to perform, and consequently the Court was not required to reach the claimant's argument about her now-extinct previous job. Id. at 316.
+
+32
+RENDELL, Circuit Judge, dissenting, with whom Judges SLOVITER and ROTH join.
+
+33
+As the majority notes, the Administrative Law Judge ("ALJ") determined that Pauline Thomas had the "residual functional capacity to perform at least light work and, therefore, she could perform her past relevant work as an elevator operator." Maj. Op. at 570. Under the statutory framework, that finding dictated a determination that Thomas was not disabled. I respectfully dissent from the majority's view to the contrary and believe its reasoning to be flawed in six ways.
+
+34
+First, the statutory language permits no other conclusion than that Thomas was disabled. It requires that disability be based on an initial finding that an individual is "unable to do his previous work." 42 U.S.C. § 423(d)(2)(A). If that condition is met, then the ALJ is to look into the ability to engage in "any other kind of substantial gainful work which exists in the national economy." Id. The majority concludes that the second condition's reference to gainful employment existing in the national economy must be engrafted upon the perfectly clear first requirement, thus rewriting the statute. The majority's holding so states: "We hold that, for the purposes of Step Four of the evaluation process, a claimant's previous work must be substantial gainful work which exists in the national economy." Maj. Op. at 572. However, the statutory scheme clearly mandates that since Pauline Thomas is able to perform an elevator operator's work, found to be light work, she is not disabled as a matter of law.
+
+35
+Second, by the majority's own admission, Step Four requires the Commissioner to decide whether the claimant retains the residual functional capacity to perform her past relevant work. 20 C.F.R. §§ 404.1520(e), 416.920(e) (Maj. Op. at 571). Step Four is not an inquiry into employability or employment opportunity, but, rather, it is an inquiry into physical capacity. See Pass v. Chater, 65 F.3d 1200, 1204 (4th Cir.1995) ("Past relevant work in the regulatory scheme is a gauge by which to measure the physical and mental capabilities of an individual and the activities that he or she is able to perform."); see also Social Security Ruling 82-61 (explaining that past relevant work is considered for the purpose of determining whether the claimant has the "capacity [] to perform the physical and mental demands of the kind of work he or she has done in the past"). Pauline Thomas has been found to have the physical capacity to perform the job of elevator operator, concededly her past relevant work. That determination ends the inquiry.
+
+36
+Third, it is not until Step Five that vocational factors (i.e., ability to access other gainful work) are considered. 20 C.F.R. §§ 404.1520(f), 416.920(f). Again, the majority notes this. But the majority fails to note that its interpretation of the statute would make vocational concerns, and the need for experts, part of Step Four as well. It would, and will, wreak havoc with the evidentiary aspects of the administrative process.1 This represents a radical change in the regulatory scheme.
+
+37
+Fourth, the majority states that "there is no plausible reason why Congress might have wanted to deny benefits" to someone in Pauline Thomas's position — "an otherwise qualified person, although unable to perform any job that actually exits in the national economy, could perform a previous job that no longer exist." Maj. Op. at 573. I take issue with that assertion, thinking it quite plausible that Congress decided that if a claimant still retained the physical and mental capacity to do whatever work she previously did, the inquiry should end there with a finding that claimant is not disabled. Previous work essentially serves as a proxy for the ability to perform work, not as proof that the claimant can be employed in that particular job. Congress may not, in fact, have considered the problem of job obsolescence, but, contrary to what Judge Posner suggests in Kolman v. Sullivan, 925 F.2d 212 (7th Cir.1991), it is not up to the courts to fill that alleged legislative void. Further, the absence of any particular vocation is not really a void at Step Four, given that the statutory scheme limits the inquiry into ability and does not permit consideration of matters other than the demands of the previous job.
+
+38
+Fifth, the statute, read according to its plain meaning, is quite consistent with the regulations as promulgated. Yet the majority, having contorted the statutory language and rejected its literal meaning, then finds it must similarly reject a "mechanical" reading of the regulations. But in so doing it fails to state how the regulations can possibly be read any other way; Steps Four and Five are quite clear. In fact, the majority's decision to reject the regulatory scheme of Steps Four and Five as outlined in the regulations is unprecedented. Nor does the majority seek to justify its reasoning based on its unwillingness to defer to the Agency's authority to regulate. Indeed, that would be contrary to the Supreme Court's recent ruling in Barnhart v. Walton, ___ U.S. ___, 122 S.Ct. 1265, 152 L.Ed.2d 330 (2002), which instructs, addressing specifically a Social Security Administration interpretation:
+
+39
+[I]f the statute speaks clearly "to the precise question at issue," we "must give effect to the unambiguously expressed intent of Congress." If, however, the statute "is silent or ambiguous with respect to the specific issue, we must sustain the Agency's interpretation if it is `based on a permissible construction'" of the Act.
+
+40
+Id. at 1269 (quoting Chevron U.S.A. Inc. v. Natural Res. Def. Council, 467 U.S. 837, 842-43, 104 S.Ct. 2778, 81 L.Ed.2d 694 (1984)).
+
+41
+In Walton, the Supreme Court found that 42 U.S.C. § 423(d)(1)(A) was ambiguous and concluded that the Social Security Administration's interpretation of ambiguous provisions of the Statute were reasonable, and therefore permissible. Id. at 1270-73. The Court explained: "The [Social Security Act's] complexity, the vast number of claims that it engenders, and the consequent need for agency expertise and administrative experience lead us to read the statute as delegating to the Agency considerable authority to fill in, through interpretation, matters of detail related to its administration." Id. at 1273. Here, one can only conclude that if the majority's position is credited, the statute is at best ambiguous. Accordingly, the Agency's interpretation should be accorded great weight. And, here, not only has the Agency spoken in formal regulatory terms, it has also issued "Program Policy Statements" regarding this very issue. In addressing the issue of whether previous work in a foreign country should be considered past relevant work, the Agency warned that requiring the existence of similar jobs in the United States would improperly "elevate[] an element of the fifth step of the sequential evaluation process, availability of work in the national economy, to the fourth step which only deals with the claimant's ability to do his or her past work." Social Security Ruling 82-40. See also Social Security Ruling 82-61 (noting "the intent of Congress that there be a clear distinction between disability benefits and unemployment benefits"); Social Security Ruling 82-62 (explaining that past relevant work is considered in order to determine whether the claimant is able to perform "the functional activities required in [that] work"). Therefore, the majority has erred by failing to consider the Agency's view of the statutory language and scheme.
+
+42
+Sixth, I believe that other courts have distinguished the decision of the Court of Appeals for the Seventh Circuit in Kolman, on which the majority relies, and I submit that it should not be the linchpin here. Unlike the majority, I find the Court of Appeals for the Fourth Circuit's opinion in Pass v. Chater, 65 F.3d 1200 (4th Cir.1995), to be well-reasoned and persuasive.2 In Pass, the court concluded that although the applicant's previous job as a gate guard may not exist in the national economy it is still considered as past relevant work because the focus of Step Four is the claimant's physical and mental capabilities. Id. at 1207. Also, the Court of Appeals for the Seventh Circuit seems to have retreated from Kolman somewhat in Knight v. Chater, 55 F.3d 309 (7th Cir.1995), where it distinguished the facts of the case before it on the grounds that the claimant's job as a keypunch operator-clerk was not "makeshift" or "temporary." Id. at 315.3
+
+43
+Admittedly, Pauline Thomas's situation has visceral appeal because of the perceived low level of exertion required to perform her former work and the obsolescence of her former job. However, the point at Step Four is not that she can actually be employed in her past job, but that she is able to do a certain level of work. If Congress and the regulatory body charged with implementing the statutory scheme have determined that Pauline Thomas should not be considered "disabled" if she still has the ability, physically and mentally, to do what she had previously done, are we entitled to graft additional requirements on the statutory and regulatory scheme? While we might like to do so, or think it somehow makes sense to do so, we cannot provide a remedy where Congress and the Agency have not. It is for Congress to alter the statute, if indeed it believes that the statutory scheme, and specifically Step Four, should be altered in such a way as to deal with the issue of job obsolescence.
+
+Notes:
+
+1
+The claimant carries the burden until Step FiveBowen v. Yuckert, 482 U.S. 137, 146 n. 5, 107 S.Ct. 2287, 96 L.Ed.2d 119 (1987). At Step Five "[t]he ALJ must show there are other jobs existing in significant numbers in the national economy which the claimant can perform, consistent with her medical impairments, age, education, past work experience, and residual functional capacity.... The ALJ will often seek the assistance of a vocational expert at this fifth step." Plummer v. Apfel, 186 F.3d 422, 428 (3d Cir.1999) (citations omitted). The Supreme Court explained: "This allocation of burdens of proof is well within the Secretary's `exceptionally broad authority' under the statute." Bowen, 482 U.S. at 146 n. 5, 107 S.Ct. 2287 (quoting Schweiker v. Gray Panthers, 453 U.S. 34, 43, 101 S.Ct. 2633, 69 L.Ed.2d 460 (1981)).
+
+2
+The majority summarily disposes of the Court of Appeals for the Fourth Circuit's reasoning inPass, as well as the Court of Appeals for the Eighth Circuit's reasoning in Rater v. Chater, 73 F.3d 796 (8th Cir.1996), on the grounds that they "rely primarily on the Social Security regulations and on Social Security rulings." Maj. Op. at 575. While I disagree with this characterization, even if it is true, this is hardly an indictment. As the Supreme Court has explained: "[T]he fact that the Agency previously reached its interpretation through means less formal than `notice and comment' rulemaking, see 5 U.S.C. § 553, does not automatically deprive that interpretation of the judicial deference otherwise its due." Walton, 122 S.Ct. at 1271. Therefore, the courts' consideration of regulations and rulings does not undermine the persuasiveness of their decisions.
+
+3
+In support of its claim that the Court of Appeals for the Seventh Circuit "has neither implemented nor disavowed" its dicta inKolman, the majority says that in Knight the court "did not reach the claimant's argument about her now-extinct previous job." Maj. Op. at 575 n. 6. While it may not have conducted an in depth analysis of her argument, it did specifically rule out the applicability of its Kolman reasoning when it could have expanded its reach: "Ms. Knight's former job as a keypunch operator-clerk was neither a temporary nor training job. Therefore, Kolman does not apply here." Knight, 55 F.3d at 315.
+
+CC∅ | Transformed by Public.Resource.Org

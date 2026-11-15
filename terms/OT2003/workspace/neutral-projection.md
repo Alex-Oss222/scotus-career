@@ -8,17 +8,17 @@ Completed current-term Records supplement the opening baseline only from their e
 
 ## Effective current-term law
 
-Only completed law effective before the event being modeled applies. The following public summaries are copied from the controlling Records; their full Holdings and Precedent Treatment supply the precise authority and qualifications.
+Read only entries effective before the event being modeled. Same-date uncoordinated matters share the pre-date baseline. These summaries and separate positions are copied from bounded public projections; linked public-only handoffs contain their complete qualifications and opinion topology without internal adjudication material.
 
-### Demore v. Kim; No. 01-1491; judgment below, 276 F.3d 523 (9th Cir. 2002).
-
-Effective 2003-10-14. [Controlling Record](../records/demore_v_kim_merits_2003-10-14.md#public-projection).
+### Demore v. Kim — 2003-10-14
 
 Effective October 14, 2003, section 1226(e) preserves independently proper habeas review of the legality of the mandatory framework, with effective relief and the ordinary limits on discretionary review and initial agency factfinding. Section 1226(c) may operate before a final removal order, subject to actual consideration of disputed statutory membership. Lawful permanent residents with a category question that is not insubstantial and not interposed solely for delay have a statutory entitlement to individual flight-risk and danger consideration, with each independently sufficient mandatory ground addressed.
 
 These jurisdiction and statutory-threshold propositions are direct majority holdings. Kim's remand applies the detainee clear-and-convincing risk showing and preserves his current release through the threshold determination and any consequent bond decision under a five-vote judgment. The burden rationale has four joins and supplies no general majority proof rule. The independent constitutional hearing and continued-detention formulations remain without a majority at the necessary level of generality; a distinct duration claim also requires findings about the course of detention. Classification and individual-risk findings on remand are applications of the stated instructions, not unresolved statutory standards.
 
-Published noncontrolling positions:
+[Complete holdings, authority, precedent treatment and public scope](../runtime/current-public-law/demore_v_kim_merits_2003-10-14.md).
+
+Published separate positions:
 
 **Chief Justice Stone-Zsela, concurring in part and concurring in the judgment.** He joins Parts I, II-A and II-B and accepts the entire vacatur, remand and interim-release remedy so Kim can receive the individual assessment available under the statutory pathway. He withholds assent from the allocation of persuasion to Kim. In his view, when genuinely contested inclusion or constitutionally insufficient continuing authority requires individual review, the Government should prove by clear and convincing evidence that reasonably available conditions, separately or together, cannot adequately address flight risk or danger; he would also accept governmental preponderance with the same object of proof and effective relief. Mathews directs attention to liberty and error; Salerno and Addington offer regime-specific support for the preferred quantum; Cooper illustrates the consequences of a burden that wrongly allocates uncertainty. Krimstock supports meaningful review and consideration of alternatives, while his separate preponderance position there remains his own. Kim seeks liberty in a civil immigration proceeding, not release pending appeal of his criminal convictions, so section 3143(b) does not persuade him to place the risk of uncertainty on Kim. The neutral decisionmaker should receive contrary evidence, assess residence, family and community ties, convictions, release conduct, appearance evidence and feasible conditions, and give reviewable reasons; failure of the governmental showing should permit conditional release.
 
@@ -34,23 +34,207 @@ He also explains that lawful initial detention does not justify continuation aft
 
 Public procedure: The mandate returns the case for the lower court to obtain proper agency consideration of the current removal and custody posture and every asserted mandatory category, including the original theft theory and the added burglary and two-crimes grounds. The decisionmaker applies Part II-B's not-insubstantial and not-solely-for-delay conditions to each independently sufficient ground. If those conditions are met, the consequent individual risk assessment applies Kim's clear-and-convincing showing of unlikely flight or danger and effective authority to grant lawful conditional release. If mandatory membership fails, ordinary section 1226(a) procedures govern; if the substantial-question condition fails while mandatory coverage remains, section 1226(c) applies subject to an independently established constitutional defect. Kim's existing $5,000 bond release remains effective pending the threshold determination and any consequent lawful bond decision. The lower court implements and enforces these instructions through the retained legal-authority channel; the agency performs the initial determinations assigned to it.
 
-### United States v. Holston; Second Circuit No. 02-1292; judgment below reported at 343 F.3d 83.
+### Yarborough v. Gentry — 2003-10-20
 
-Effective 2003-10-30. [Controlling Record](../records/united_states_v_holston_merits_2003-10-30.md#public-projection).
+The established statutory and Sixth Amendment rules remain in force. They permit rejection of this closing-argument claim because the state performance assessment was substantively reasonable on the complete summation. Courts must examine actual defense advocacy and its context when applying the rule to other closing arguments.
+
+[Complete holdings, authority, precedent treatment and public scope](../runtime/current-public-law/yarborough_v_gentry_merits_2003-10-20.md).
+
+Public procedure: The ordinary mandate returns the case to the Ninth Circuit to implement the stated rejection and complete any independently pending preserved habeas work. Supreme Court review of the presented closing-argument claim is concluded.
+
+### Greenville Women's Clinic v. Commissioner — 2003-10-27
+
+Objective medical cooperation and the ordinary contextual standards survive these challenges. Patient-requested religious help remains permissible; the legally enforceable clergy duty must be identified before the challenged operation is finally sustained. The independent undefined best-practices sanction branch cannot support sanctions until a sufficient operative standard exists. Additional governmental access to intimate clinic records receives the information-recipient-function inquiry, with legitimate sufficiently connected identified inspection preserved. Proved additional interference with protected choice also receives Casey's existing ordered protections. These are separate rules and remedies; professional qualification, religious power, ascertainable duties and information permissions do not answer one another.
+
+[Complete holdings, authority, precedent treatment and public scope](../runtime/current-public-law/greenville_womens_clinic_v_commissioner_merits_2003-10-27.md).
+
+Published separate positions:
+
+Stone-Zsela concurs in part, concurs in the privacy judgment and dissents in part. He would affirm the clergy condition only as voluntary patient-requested assistance, allowing ordinary emergency and referral arrangements while forbidding an unreviewable private veto or compelled religious counseling. He also would sustain the contextual professional-care rules, including their application only to reasonably ascertainable obligations. He regards the professional setting and limiting constructions as sufficient for these facial dispositions. On identifiers, his ground is more demanding than Part IV-A: once compelled disclosure of intimate treatment records is established, the State must justify identity access by a concrete regulatory need that reasonably cannot be met through less identifying review. Casey's bounded reporting permissions and Whalen's scheme-specific safeguards support that requirement. He would direct findings identifying the authorized recipients, demonstrated tasks, confidentiality protections and review mechanism, maintaining the existing privacy injunction to the extent needed to prevent unnecessary identifier disclosure while permitting nonidentifying inspection. Relief would cover the challenged policy and its patients unless the State shows a narrower restriction fully cures the established defect.
+
+Scalia concurs in part and dissents in part, joined by Thomas. They join the medical and ordinary notice holdings and the common prohibition on compulsory religious civil authority. They would affirm the clergy provision on the as-needed, patient-requested construction; the administering official's described preferences do not amend that bounded legal duty. They would sustain the best-practices provision because recognizable clinical standards supply a professional core, while leaving unforeseeable sanctions open to a properly grounded particular challenge. On records, they retain their Doe constitutional-source objection to extending substantive informational privacy. Independently assuming the asserted right, they find the direct clinical-regulation task, copying qualification and confidentiality controls sufficient for this facial challenge. They acknowledge the reported releases and statutory exceptions, while distinguishing an actual improper request or disclosure from invalidity of general inspection authority. Their grounds would affirm the appellate inspection disposition rather than reinstate the district court's categorical compelling-interest requirement.
+
+Public procedure: The case returns for a decree restraining the undefined independent best-practices sanction branch, for determination of the operative clergy duty, and for examination of actual identified-access and redistribution permissions, regulatory connection and safeguards. The lower court must preserve independent lawful requirements, address dependent sanctions, assess concrete less identifying alternatives where adequate, and decide surviving interim requests under ordinary equity. Existing material may suffice without another hearing.
+
+### United States v. Holston — 2003-10-30
 
 Effective October 30, 2003, the supported necessary-inclusion doctrine sustains the defined local production class when actual-child-abuse images constitute the reproducible, concealable and substitutable supply of the identified interstate prohibition. Lower courts must identify the regime and require material support for the production class's anti-evasion or material-impairment relationship, independently examine constitutional eligibility and fit, and give Congress latitude on supported empirical judgments. Proof of an individual interstate sale is unnecessary to that established class-and-regime ground. The statutory materials-movement element continues to govern the prosecution independently.
 
 This decision adds a controlling application to the existing rule. Lopez's connection requirement, Home Builders's support obligation and Griffin/Langley's separation of statutory nexus from constitutional authority retain their force. The equipment-only theory is insufficient; the supported production mechanism sustains the challenged application.
 
+[Complete holdings, authority, precedent treatment and public scope](../runtime/current-public-law/united_states_v_holston_merits_2003-10-30.md).
+
 Public procedure: The mandate issues in the ordinary course. The lower court implements the affirmed judgment; the conditional plea and conviction remain effective, and any independently live sentencing proceedings retain their existing scope. The Supreme Court's merits review of the reserved constitutional challenge is concluded.
 
-### Rancho Viejo, LLC v. Norton; D.C. Circuit No. 01-5373; judgment below reported at 323 F.3d 1062.
+### Mitchell v. Esparza — 2003-11-03
 
-Effective 2004-02-05. [Controlling Record](../records/rancho_viejo_llc_v_norton_merits_2004-02-05.md#public-projection).
+The statutory gateway conclusively defeats this reviewed omission theory. Capital eligibility omissions are not categorically structural merely because they concern a death sentence. Dated constitutional law, the state adjudication record, nonretroactivity and the governing error-review method remain distinct. Independent sentence claims continue on their own grounds and may continue to support sentence relief.
+
+[Complete holdings, authority, precedent treatment and public scope](../runtime/current-public-law/mitchell_v_esparza_merits_2003-11-03.md).
+
+Published separate positions:
+
+Stone-Zsela concurs in rejection of automatic structural treatment and in preserving independent sentence grounds, but dissents from definitive foreclosure of the omission theory. He would vacate the categorical rationale and require the lower court to resolve the 1996 filing-date gate, identify the constitutional law available at each state adjudication and evaluate any legally available harmlessness inquiry against the actual charge and verdict. The prisoner bears the applicable statutory gateway; where Chapman governs, the State must prove noncontribution beyond a reasonable doubt. Sullivan's verdict-wide defect is distinct, while later Neder and Ring cannot create a 1992 or 1994 rule. Sole-defendant status matters with the actual charge and evidence and cannot replace every statutory finding. His proposed remand would specify each independently operative ground barring execution and the lawful sentence remedy, preserving any independently supported conditional writ.
+
+Public procedure: The lower court must adjudicate the remaining independent sentence grounds, including the preserved assistance, continuance and cumulative-error alternatives, and determine the resulting sentence restraint and remedy. The reviewed omission theory is closed under section 2254(d)(1); the convictions remain outside the mandate.
+
+### Boca Investerings Partnership v. United States — 2003-11-06
+
+Genuine joint enterprise remains the governing recognition requirement. Tax motive, costly structuring and planned allocations are relevant evidence, while necessity for partnership form is not an independent condition. Trial facts retain ordinary appellate deference. Entity recognition and transaction validity must be resolved separately before the corresponding tax consequences are fixed.
+
+[Complete holdings, authority, precedent treatment and public scope](../runtime/current-public-law/boca_investerings_partnership_v_united_states_merits_2003-11-06.md).
+
+Public procedure: The court of appeals must reconsider recognition on the supported facts under Culbertson, apply clear-error review to factual findings, and resolve preserved independent adjustment grounds. Any necessary factual proceedings and ensuing computations must follow the proper trial and tax procedures.
+
+### Barnhart v. Thomas — 2003-11-12
+
+The valid adult-disability sequence may stop at retained capacity for qualifying past relevant work. The later national-economy inquiry does not become an additional step-four condition. The decision applies existing delegated-choice doctrine to this statutory screen while preserving supported capacity findings, valid regulatory qualifications and ordinary review.
+
+[Complete holdings, authority, precedent treatment and public scope](../runtime/current-public-law/barnhart_v_thomas_merits_2003-11-12.md).
+
+Public procedure: The case returns for implementation of the step-four rule and ordinary disposition of any remaining preserved capacity challenge. A labor-market survey is not required at that step; the denial stands unless a remaining challenge to the actual capacity determination succeeds.
+
+### Washoe County v. United States — 2003-11-17
+
+The claim is final enough for adjudication but fails on the owned entitlement and federal action actually established. State authorization of a new water use does not include a federal crossing right. A project dependent on an ungranted route does not create compensation merely from the route's refusal, while ordinary physical and contextual takings protections remain for established burdens on property.
+
+[Complete holdings, authority, precedent treatment and public scope](../runtime/current-public-law/washoe_county_v_united_states_merits_2003-11-17.md).
+
+Public procedure: The compensation action concludes under the affirmed judgment for the United States. Any independently available APA challenge to permit processing remains outside this mandate.
+
+### United States v. Ho — 2003-11-20
+
+The Commerce Clause permits preventive asbestos-removal and fitted advance-notice duties for the commercial removal operation supported here, without an individual release or cross-border-injury requirement. Courts must identify the regulated conduct and its supported direct market relationship before aggregation. The decision adds this application to existing Commerce doctrine; the enacted-class limitation and the requirement of proof of the statutory offenses remain effective.
+
+[Complete holdings, authority, precedent treatment and public scope](../runtime/current-public-law/united_states_v_ho_merits_2003-11-20.md).
+
+Public procedure: The lower court implements the affirmed convictions and conducts the separately ordered sentencing proceedings within their preserved scope under existing jury-finding, acquittal and procedural rules.
+
+### Valeria v. Davis — 2003-11-25
+
+Political-process protection requires proof of a racial decisionmaking mechanism and does not depend on a prior remedial decree or hostility alone. Neutral centralization of an instructional subject remains permissible even when its effects concentrate on minority families. Proposition 227 survives this facial equality claim on the supported absence of the required racial mechanism; independent federal educational and language-access duties retain their own force.
+
+[Complete holdings, authority, precedent treatment and public scope](../runtime/current-public-law/valeria_v_davis_merits_2003-11-25.md).
+
+Published separate positions:
+
+Breyer dissents in part, joined by Stevens, Souter and Ginsburg. They join the Court's governing legal rule but would vacate and remand because the lower court repeatedly treated absence of a prior discrimination remedy and racial animus as decisive. In their view its additional nonracial conclusion remains intertwined with those erroneous prerequisites, rather than independently applying Coalition's structural inquiry. Selective removal of bilingual-instruction authority, ordinary local control over comparable educational choices, the overwhelmingly minority population affected and the campaign record present a concrete question whether racial considerations defined the political allocation.
+
+Their remand would examine the text and practical allocation, comparable decisions, context, waivers and amendment burdens on the developed record, respecting existing findings within their actual scope. It would not prescribe a new mandatory checklist or presume discrimination from demographics. If no racial mechanism is established, the State prevails. If one is established, the State must meet Adarand's common standard, and relief must address the proved unequal political barrier under ordinary remedial and state severability rules. The initiative would remain operative absent independently justified interim relief. They would neither direct a preferred curriculum nor declare the initiative unconstitutional on the present record.
+
+Public procedure: Judgment for California remains in place and the facial political-process claim concludes. The independent statutory claims omitted from the operative complaint are outside this judgment; any independently live claim must be identified and adjudicated under its own governing law.
+
+### Raytheon Co. v. Hernandez — 2003-12-02
+
+A lawful neutral misconduct policy can satisfy production in an ADA treatment case while leaving genuine motive and pretext for ordinary proof. Rehabilitation does not make the policy automatically unlawful, and a neutral label does not make its application conclusively nondiscriminatory. The established statutory definition of disability and the distinct elements of treatment and impact claims retain their force.
+
+[Complete holdings, authority, precedent treatment and public scope](../runtime/current-public-law/raytheon_co_v_hernandez_merits_2003-12-02.md).
+
+Public procedure: The case returns to the Ninth Circuit for the knowledge, pretext and sufficiency inquiry under the announced rule, followed by the ordinary proceedings that inquiry supports. The unchallenged prima facie ruling and rejection of the untimely impact theory retain their effect.
+
+### United States v. Banks — 2003-12-02
+
+The combined circumstances of this announced warrant execution justify the elapsed interval and necessary door entry. Courts continue to assess waiting time and force contextually. Section 3109 now expressly permits the supported post-notice destruction exception, independently of actual or implied refusal, while retaining its ordinary notice-and-refusal rule and separate liberation provision.
+
+[Complete holdings, authority, precedent treatment and public scope](../runtime/current-public-law/united_states_v_banks_merits_2003-12-02.md).
+
+Public procedure: The case returns to the Ninth Circuit for proceedings consistent with lawful entry under both governing sources. The reviewed entry objections must be rejected, with any independently preserved issue resolved in its proper posture.
+
+### Van Susteren v. Jones — 2003-12-04
+
+California may apply this one-year prospective primary-entry requirement in the system reviewed. A claimant’s immediate preference does not displace a justified selection condition, while actual burden, realistic access and fit continue to govern under Burdick. Comparison between candidacy routes accounts for their operative selection stages as well as their calendar differences.
+
+[Complete holdings, authority, precedent treatment and public scope](../runtime/current-public-law/van_susteren_v_jones_merits_2003-12-04.md).
+
+Public procedure: The defense judgment stands and the requested prospective relief is denied. Election officials may continue applying the reviewed requirement within its sustained scope.
+
+### Virginia v. Maryland — 2003-12-09
+
+The protected Potomac withdrawals and appurtenant improvements rest on the interstate settlement rather than Maryland’s unilateral permission. The declaration governs the covered class of Virginia activities, while navigation, proper Maryland use and applicable federal law continue to limit their exercise. Prior cooperation has not transferred the reserved authority. Concrete disputes about those continuing limits remain subject to ordinary federal interstate remedies.
+
+[Complete holdings, authority, precedent treatment and public scope](../runtime/current-public-law/virginia_v_maryland_merits_2003-12-09.md).
+
+Published separate positions:
+
+Kennedy, joined by Stevens, would sustain Maryland’s regulatory-authority exception and dismiss the broad exemption claim. They read the instruments as securing an enforceable riparian entitlement within Maryland’s river sovereignty, subject to compatible regulation. A later determination of title can confirm preexisting sovereignty; historical disagreement does not itself show that Maryland lacked regulatory authority. The Award’s full dominion over the shore and qualified use beyond it are distinct.
+
+The dissent emphasizes that protected property and use ordinarily coexist with police-power regulation. An advance permit can test compliance with navigation and proper-use limits while remaining subordinate to the federal entitlement. The specific mutual-consent provisions also show that regulatory authority could be expressly allocated. Maryland therefore could not use a permit to nullify protected access, suppress Virginia’s development for its own sake or impose an unrelated policy veto, and judicial relief would remain available against such interference. But those constraints do not invalidate every compatible licensing requirement. Nor does ordinary interstate-water apportionment automatically answer the regulatory question for a river within one State’s territorial title.
+
+They agree only conditionally that the supported permit history would not independently establish surrender if the instruments created the exemption the Court finds. Because they reject that antecedent construction, this observation supplies no join in the Court’s sovereignty or acquiescence opinion.
+
+Public procedure: The Court enters this decree, effective upon entry:
+
+1. Virginia, its governmental subdivisions and its citizens exercising the riparian rights reserved by the governing instruments may withdraw water from the Potomac and construct and maintain improvements appurtenant to the Virginia shore without obtaining the challenged Maryland permits. Maryland must cease conditioning those covered activities on its unilateral permit requirement.
+2. Exercise of those rights remains subject to the prohibition on obstructing or injuring navigation, the Award’s restriction against interfering with Maryland’s proper use, and applicable federal law and reserved federal rights and jurisdiction.
+3. The Court retains jurisdiction to give effect to and enforce this decree, including adjudication of supported disputes concerning compliance with its terms. Concrete navigation or proper-use disputes must be resolved under those limits rather than through the rejected unilateral permit condition.
+
+### McConnell v. Federal Election Commission — 2003-12-10
+
+From December 10, 2003, the national-party receipt channel, defined registration/turnout and candidate-for-office activities, official fundraising and the nonfederal tax-exempt conduit rule operate under the government's objective-justification and close-fit burden. Federally compliant section 323(d) solicitation and donations are protected by severed applications. The whole-salary class receives a distinct government-burden fit determination rather than automatic validation or final blanket invalidation.
+
+The primary electioneering category supports independently justified financial reporting and the bounded treasury facial result. Genuine independent issue discussion and functional voluntary nonprofits retain enforceable constitutional protection; particular communications and financing characteristics are applications of those existing rules. The complete fallback remains inactive. Actual resources and coordinated spending may be regulated without formal agreement, while ordinary inquiries and identity alone remain insufficient. The reciprocal party choice and complete minor ban are unenforceable.
+
+Actual financial obligations, sponsor identification and the stated broadcaster request files have their separately justified scopes. The reporting period, aggregate and donor thresholds, account option, public-distribution implementation and supported-reprisal protection retain their own terms. Source and structural holdings sustain the identified federal-election mechanisms independently of speech fit, and the categorical Press, classification and clarity theories fail only at the scopes stated. The claimant-specific threshold dismissals leave their merits for a properly justiciable action. The payroll remand, decree-conforming work and concrete application review are implementation of the rules announced here.
+
+[Complete holdings, authority, precedent treatment and public scope](../runtime/current-public-law/mcconnell_v_federal_election_commission_merits_2003-12-10.md).
+
+Published separate positions:
+
+**Stone-Zsela, concurring in part and dissenting in part. Stevens, Ginsburg and Breyer join the payroll portion only.** Stone-Zsela would reverse the invalidation of the whole-salary class and sustain section 323(b) within its enacted boundaries. The proved integrated fundraising and shared federal-election operation, tested under Lamb's government-borne justification and meaningful-association requirements, supports the federal-election-activity rules. Employees materially engaged in that operation are a resource channel, and the monthly more-than-quarter threshold leaves employees with only limited federal duties outside this class. The four regard the operational connection and threshold as sufficient on the facial record; the five-Justice Court instead requires a distinct determination connecting the whole salary consequence to the mechanism and local association. That disagreement concerns payroll fit and remedy. Stone-Zsela agrees in the disposition only on the separate federal-power claims.
+
+In the remedial portion, joined by no other Justice, Stone-Zsela would additionally direct the district court to retain an effective route through available procedures to review concrete genuine-issue, nonprofit, disabling-association and unjustified-disclosure claims before the challenged communication or political activity loses its practical value. Particular relief would require the governing record and showing. That affirmative timing instruction implements his practical-protection position; the Court's decree preserves ordinary application review and its governing standards.
+
+**Kennedy, concurring in part and dissenting in part; Scalia joins throughout, and Thomas joins except the demand to invalidate every new section 504 application.** The writing distinguishes real candidate-controlled resources and tacit donor conduits from a party's own independently controlled or jointly expressed message. Colorado I and the separate Colorado II and Lamb positions protect the latter; accepted contribution and true-source rules remain. The three oppose the national-party and state-party sweep, the nonfederal section 323(d) residue and section 323(f)'s expression applications lacking the actual resource connection. They prefer payroll invalidation while directly joining the Court's narrower fit remand. They accept compliant-fund relief and section 323(e)'s direct official-request relationship with all its exceptions.
+
+The three would protect the expanded primary treasury applications despite accepting ordinary primary reporting. Their preferred treasury disposition would require examining the complete enacted fallback: they would permit only explicit or functionally explicit electoral direction supplied by the message, with context explaining rather than generating the exhortation, and with any plausible nonelectoral meaning defeating coverage. They reject deletion of the limiter and preserve the statutory trigger, absence of backup time/geographic conditions and section 100.22(b) saving clause. Their own Maine and Bartlett positions support that formulation; they do not overrule Austin or demand canonical electoral words. All join the functional Day/MCFL nonprofit protection.
+
+For coordination they accept actual requested resources and enforceable financial substitutes before airing, while seeking a present declaration protecting party-owned joint expression and independent issue/editorial work. They would protect contracts for separate unbroadcast independent messages under sections 201 and 212, preserving reports of unpaid obligations for messages already public and the dissemination-trigger regulation. Ordinary disclosure's informational justification does not justify exposing still-private plans at another advertisement's first airing.
+
+Kennedy and Scalia would retain the whole injunction against the new section 504 duty: candidate-request administration and earlier agency practice do not sufficiently answer its new public exposure of rejected requests and nonelectoral legislative activity. They independently support narrower protection for unbroadcast noncandidate requests if broader relief is unavailable. Thomas joins that narrower protection and the issue-only objection, but not the claim that candidate-access and aired federal-election records all fail. These views neither invalidate old FCC rules nor create a general reporting exemption.
+
+**Thomas, concurring in part and dissenting in part on attribution and broadcaster files.** His Day reporting and Mariani attribution positions support ordinary external financial reports and actual candidate-finance identification. His McIntyre and Stengel anonymity position gives distinct force to a command placing the speaker's identity on genuine independent issue advocacy. Section 311 has no section 201 monetary threshold; he would protect that on-message issue expression while preserving definite electoral-advocacy and otherwise valid candidate-finance attribution. Under section 504 he accepts candidate requests, including refusals, because actual candidate-access enforcement has a direct request-based relation. He also accepts external transaction files for aired noncandidate federal-candidate or federal-election messages. He would protect unaired noncandidate requests and national-legislative/issue-only records lacking that electoral relation. Where the request independently meets the valid candidate or election branch, an overlapping issue description does not remove its valid ground. These distinctions preserve real finance disclosure without treating every broadcast or organization as outside anonymity protection.
+
+**Stevens, dissenting in part on section 305; joined by Ginsburg and Breyer.** Intended use of opponent-reference advertising, past practice and present effects on campaign strategy establish a sufficiently concrete controversy despite temporal distance. Lee and Maine Right to Life recognize civil burdens on planned conduct. Broadcasters may continue charging the same rate, but that causal uncertainty does not eliminate the statutory condition on the intended advertising course. The three would reach and sustain the condition: factual candidate identification and approval serve electoral information, substantially overlap section 311, add a limited compliance burden and condition a statutory rate benefit rather than generally prohibit speech. The rule reaches each candidate's opponent references, including responses, and is not viewpoint selective on that basis. The writing adopts no universal rule sustaining every financial penalty attached to protected speech.
+
+Public procedure: The judgment is affirmed in part, reversed in part, and vacated in part, and the cases are remanded for a provision-specific decree under section 401. The district court shall separate the sustained rules, the enjoined sections 213 and 318, the protected federally compliant section 323(d) applications, the functional nonprofit declaration, and the payroll fit remand. Inconsistent injunctions shall be dissolved. The inactive fallback's lower declaration and deletion are vacated; its complete enacted text remains.
+
+On issuance of the mandate the FEC must cease enforcing sections 213 and 318 against anyone governed by them and administer surviving provisions within the stated boundaries. The categorical statutory defects warrant that complete relief. Concrete genuine-issue, nonprofit, disabling-association, unjustified-disclosure and other preserved application claims remain reviewable through ordinary available procedures under the governing standards and required showing. For the payroll class the district court must apply the government's actual-operation justification burden, may use adequate existing evidence, and must grant corresponding relief if the burden is not met, severing applications only where statutory independence permits. The standing and ripeness dismissals remain without prejudice at their stated scope. Existing lawful contribution ceilings, source restrictions and supported coordination rules remain enforceable.
+
+### United States v. Deaton — 2003-12-11
+
+The demonstrated tributary system and its adjacent wetlands fall within the valid water program, and supported protection of the navigable receiving channel sustains this discharge application. Statutory delegation, regulatory interpretation, factual hydrology and constitutional authority remain distinct inquiries. The complete wetland definition continues to govern use of the root-zone indicator. Restoration requires its own equitable and practical justification, supplied here by the actual findings supporting refilling.
+
+[Complete holdings, authority, precedent treatment and public scope](../runtime/current-public-law/united_states_v_deaton_merits_2003-12-11.md).
+
+Public procedure: The affirmed restoration order remains enforceable under the district court’s actual terms, schedule and oversight. The owners must refill the ditch and restore previolation elevation as ordered. Supported questions about feasibility or compliance must be resolved from the order and the evidence in ordinary enforcement.
+
+### Castro v. United States — 2003-12-15
+
+An unwarned judicial conversion of a differently labeled pro se filing does not count as the first section 2255 motion for later successive restrictions. Courts must provide all three protections before imposing that consequence. The rule applies to the classification before the Court and comparable conversion practice, while genuine successive motions, independent first-motion requirements and the earlier merits judgment retain their respective force.
+
+[Complete holdings, authority, precedent treatment and public scope](../runtime/current-public-law/castro_v_united_states_merits_2003-12-15.md).
+
+Published separate positions:
+
+**Scalia, concurring in part and concurring in the judgment, joined by Thomas.** Scalia and Thomas join the jurisdiction holding and concur in vacatur and remand on an independent ground. Liberal construction of allegations does not authorize overriding a prisoner’s chosen procedural vehicle and imposing the costs of an unchosen first section 2255 motion. Castro selected and reiterated Rule 33; the judge imposed the additional label. The concurrence would avoid involuntary first-motion conversion when its adverse risks cannot be removed, rather than treat warnings as sufficient authority to change the vehicle. A court cannot reliably foresee every consequence, and an apparent immediate advantage may disappear on appeal. Their position respects the enacted successive predicate rather than creating an equitable exception once that predicate exists. They agree that law of the case does not conclusively bar inquiry, but do not join the Court’s affirmative warning framework or its warning-based application.
+
+Public procedure: The case returns for the district court to restore the 1997 motion to its docket without demanding authorization based on the unwarned 1994 conversion, identify any independently valid procedural or timeliness bar, and adjudicate the claims that properly survive. The prior Rule 33 merits denial remains effective.
+
+### Maryland v. Pringle — 2003-12-15
+
+A supported common-possession inference can establish probable cause for more than one occupant without proof of exclusive ownership. Courts must identify the contemporaneous personal connection in the complete circumstances. The combination here justifies Pringle’s arrest and removes the resulting arrest-based ground for excluding his confession.
+
+[Complete holdings, authority, precedent treatment and public scope](../runtime/current-public-law/maryland_v_pringle_merits_2003-12-15.md).
+
+Public procedure: The case returns to the Maryland courts for further proceedings consistent with the conclusion that Pringle’s arrest was lawful. The arrest-based derivative-exclusion ground must be removed, with any independently preserved issue addressed in its proper posture.
+
+### Rancho Viejo, LLC v. Norton — 2004-02-05
 
 Effective February 5, 2004, the Home Builders class-and-mechanism rule continues to govern equivalent intrastate-taking applications involving commercial projects. Courts must identify and materially evaluate either supported necessary inclusion in a valid interstate regime or a substantial interstate externality satisfying the cross-border, territorial-control and fit requirements. The Government's support responsibility, independent judicial inquiry and bounded legislative latitude remain unchanged.
 
 The commercial-project rationale cannot alone sustain this application. The lower courts must resolve its constitutional validity through the existing-record inquiry and enter relief according to the supported mechanism or its absence. This decision applies the existing doctrine without creating a new Commerce category; the unresolved work concerns the record's support and the resulting application-specific judgment.
+
+[Complete holdings, authority, precedent treatment and public scope](../runtime/current-public-law/rancho_viejo_llc_v_norton_merits_2004-02-05.md).
 
 Published separate positions:
 
@@ -62,39 +246,39 @@ Home Builders's contrary enacted-class holding directly obstructs this ground. S
 
 Public procedure: The mandate returns the case through the D.C. Circuit for the lower courts to determine the invoked mechanism, its support in the existing legislative and adjudicative record, its constitutional eligibility and its fit, and to enter an enforceable judgment under the stated alternatives. The statutory taking prohibition remains operative. Any interim protection requires the ordinary equitable showing. The Supreme Court's present review concludes with its mandate; the constitutional inquiry remains pending below.
 
-### Lomont v. O’Neill; judgment below reported at 285 F.3d 9 (D.C. Circuit).
-
-Effective 2004-03-11. [Controlling Record](../records/lomont_v_oneill_merits_2004-03-11.md#public-projection).
+### Lomont v. O’Neill — 2004-03-11
 
 Effective March 11, 2004, officers presenting a concrete, traceable and redressable challenge to federal burdens on their own work may litigate without separate authorization to represent the State. The official-injury inquiry remains distinct from whether the challenged measure imposes an unconstitutional command.
 
 Federal certification arrangements of this kind remain voluntary when officers can refuse unconditionally without federal penalty, compelled investigation or substitute work. Courts examine legal consequences and actual enforcement, with the challenger required to identify an actual command or adverse federal consequence; constituent pressure alone does not supply one. This decision adds a controlling application of official-injury and genuine-choice principles. The existing bounded compulsory-assistance rule, its unresolved fiscal rationale and Condon's direct state-activity rule retain their distinct scope.
 
+[Complete holdings, authority, precedent treatment and public scope](../runtime/current-public-law/lomont_v_oneill_merits_2004-03-11.md).
+
 Public procedure: The mandate issues in the ordinary course, leaving the challenged certification arrangement effective against the granted constitutional attack. Officers remain free to decline certification without federal sanction. The Supreme Court's review of the granted questions is concluded.
 
-### Environmental Defense Center, Inc. v. United States Environmental Protection Agency; judgment below reported at 344 F.3d 832 (Ninth Circuit).
-
-Effective 2004-03-25. [Controlling Record](../records/environmental_defense_center_v_epa_merits_2004-03-25.md#public-projection).
+### Environmental Defense Center, Inc. v. United States Environmental Protection Agency — 2004-03-25
 
 Effective March 25, 2004, municipal own-discharge regulation may employ the challenged permit architecture when a lawful and actually available route permits direct compliance without compulsory administration of third-party rules. Government must identify that route when relying on choice; an operator may show it to be illusory. Ordinary costs of valid own-operation compliance are not converted into assistance reimbursement claims. Application requirements and final permit obligations remain distinct, and the retained administrative remands continue to govern permitting.
 
 The decision also establishes a confined operational-information application: factual pollution-impact, reduction and disposal-hazard information may be required within the independent physical function, substantial purpose, direct practical fit, flexibility and justification-and-burden limits stated in Holding II. This governing permission extends beyond automatic classification as commercial product speech while retaining the compelled-belief and independent-criticism protections. The validity of a materially different final message, burden or permit condition is assessed under those existing limits on its own record.
 
+[Complete holdings, authority, precedent treatment and public scope](../runtime/current-public-law/environmental_defense_center_v_epa_merits_2004-03-25.md).
+
 Public procedure: The ordinary mandate affirms the two constitutional rulings. EPA must retain lawful access to the alternative permitting route and comply with the existing general-permitting, notice-of-intent and public-review, and forest-road remands. The lower court and agency continue that independent administrative work. The Supreme Court's review of the granted constitutional questions is concluded.
 
-### ACLU of New Jersey v. County of Hudson; Appellate Division No. A-4100-01; 352 N.J. Super. 44, 799 A.2d 629.
-
-Effective 2004-04-13. [Controlling Record](../records/aclu_of_new_jersey_v_county_of_hudson_merits_2004-04-13.md#public-projection).
+### ACLU of New Jersey v. County of Hudson — 2004-04-13
 
 The decision establishes the validity, against the presented delegation, interim APA and structural challenges, of federal control over public disclosure of information acquired through voluntarily accepted paid federal immigration custody. Contrary state disclosure requirements yield for that covered information. Each good-cause exception retains its own statutory predicate and published justification. The holding’s reach follows the custodial source and information category, while applicable federal disclosure channels and ordinary processing of separable unprotected material remain operative.
 
+[Complete holdings, authority, precedent treatment and public scope](../runtime/current-public-law/aclu_of_new_jersey_v_county_of_hudson_merits_2004-04-13.md).
+
 Public procedure: The mandate implements the affirmed appellate judgment. The counties continue administering covered information under §236.6 and separately available access law, with any coverage question resolved by its identified category and legal ground. Supreme Court review of the granted federal questions is concluded.
 
-### West Virginia v. U.S. Department of Health & Human Services; judgment below, 289 F.3d 281 (4th Cir. 2002).
-
-Effective 2004-06-16. [Controlling Record](../records/west_virginia_v_us_department_of_health_and_human_services_merits_2004-06-16.md#public-projection).
+### West Virginia v. U.S. Department of Health & Human Services — 2004-06-16
 
 Medicaid estate recovery remains an operative funding condition within its mandatory and optional categories, survivor protections, hardship waiver and estate limits. Section 1396c’s all-or-part mechanism survives this facial challenge, with its required procedure, findings, notification and endpoint intact. Enforcement remains subject to Kansas’s genuine-practical-choice rule: an actual credible threatened or imposed funding consequence can be challenged on its scope, notice and practical effects, including competent qualitative evidence. Statutory discretion supplies lawful possible applications and remains reviewable when exercised or credibly threatened.
+
+[Complete holdings, authority, precedent treatment and public scope](../runtime/current-public-law/west_virginia_v_us_department_of_health_and_human_services_merits_2004-06-16.md).
 
 Published separate positions:
 
@@ -104,7 +288,7 @@ Public procedure: The mandate leaves the estate-recovery condition effective and
 
 ## Chronology and manifest
 
-The [manifest](manifest.md) contains 119 scheduled events in eight chunks and four separately preserved undated original actions. The latest completed event currently has effective date 2004-06-16; this does not decide any earlier-dated matter assigned to a later presentation chunk. Roeder v. Islamic Republic of Iran on 2004-06-30 is the final scheduled inventory event. No anticipated event is a completed action.
+The [manifest](manifest.md) contains 119 scheduled events in eight chunks and four separately preserved undated original actions. Twenty-three inventory events are completed across chunks 1 and 2. The next presentation event is In re Trans World Airlines, Inc., December 15, 2003, in chunk 3. The latest completed event currently has effective date 2004-06-16; this does not decide any earlier-dated matter assigned to a later presentation chunk. Roeder v. Islamic Republic of Iran on 2004-06-30 is the final scheduled inventory event. No anticipated event is a completed action.
 
 The inventory retains the user's presentation order, numbering and chunk membership. Chunk 1 contains seven matters dated October 14, 2003 through June 16, 2004; chunks 2–8 contain sixteen each. Presentation order does not advance the chronology cursor. Every event uses only law effective before its own event date, including applicable earlier current-term Records, and never law from a later-dated event already encountered in a presentation chunk. Chunks are processed in presentation order. Within a chunk, events are processed by effective date. An earlier-dated event in a later chunk that has not been decided supplies no law and does not delay the present event. A completed Record applies only to events after its effective date; any material effect of a later-completed earlier event is assessed when that event is supplied. Preparation of a chunk does not freeze entering law for the entire chunk.
 
@@ -197,7 +381,7 @@ The four original actions remain open as follows; none has an OT2003 event sched
 
 For Kansas v. Nebraska, the [prior-term close dossier](../../OT2002/close/TERM_CLOSE_DOSSIER.md) preserves the full conditional scope: Finite model-completion proceedings continue. Covered claims, counterclaims and cross-claims arising before December 15, 2002 await dismissal with prejudice upon the Special Master's final report certifying the States' adoption of the RRCA Groundwater Model. No certification event is supplied.
 
-The 38 added lower-court matters in Standing State are the corresponding inventory rows, not additional carryovers. Virginia v. Maryland, No. 129, Original, remains an original proceeding on exceptions to the Special Master's report and retains its exact event label. All 119 scheduled matters are properly before the Court at their scheduled events. The manifest supplies the neutral entry-stage and participation fields for each row; no case-specific nonparticipation is presently identified. Run establishes actual participation at both required milestones, without importing historical exclusions automatically.
+The 38 added lower-court matters in Standing State are the corresponding inventory rows, not additional carryovers. Virginia v. Maryland, No. 129, Original, has a completed December 9, 2003 decree; its retained jurisdiction and decree limits appear with its public procedure above. All 119 scheduled matters are properly before the Court at their scheduled events. The manifest supplies the neutral entry-stage and participation fields for each row; Raytheon records Souter’s nonparticipation at decision and Breyer’s nonparticipation at consideration and decision. Other completed events establish participation separately.
 
 ## Continuation requirements
 
@@ -206,7 +390,3 @@ The retained source limit in Planned Parenthood of the Rocky Mountains Services,
 No opening conflict or missing inventory item is identified. Refresh this projection and the event's entering-law slice from effective law before modeling. An unestablished case-specific participation question must be verified at Run; it is not supplied by historical practice alone. Inventory labels establish scheduling only. Opening adds no judgment, rationale, remedy or voting commitment.
 
 The projection contains opening law and completed public current-term law, published separate positions, public procedure, roster, allotments, chronology and neutral schedule information. No private position, comparator, provisional commitment, reconciliation or audit annex is included. The opening legal cutoff is June 30, 2003. Each completed event retains its own decision-date cutoff and source limits; the latest completed date supplies no authority for an earlier event.
-
-## Current Demore procedure
-
-The mandate returns the case for the lower court to obtain proper agency consideration of the current removal and custody posture and every asserted mandatory category, including the original theft theory and the added burglary and two-crimes grounds. The decisionmaker applies Part II-B's not-insubstantial and not-solely-for-delay conditions to each independently sufficient ground. If those conditions are met, the consequent individual risk assessment applies Kim's clear-and-convincing showing of unlikely flight or danger and effective authority to grant lawful conditional release. If mandatory membership fails, ordinary section 1226(a) procedures govern; if the substantial-question condition fails while mandatory coverage remains, section 1226(c) applies subject to an independently established constitutional defect. Kim's existing $5,000 bond release remains effective pending the threshold determination and any consequent lawful bond decision. The lower court implements and enforces these instructions through the retained legal-authority channel; the agency performs the initial determinations assigned to it.

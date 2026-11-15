@@ -1,0 +1,82 @@
+SOURCE: https://www.law.cornell.edu/supct/pdf/02-1674P.ZX2
+SCOPE: Kennedy slip pages 28 and 29, zero-based PDF pages 27 and 28; supplements missing dagger note in Cornell HTML.
+
+PAGE 28
+28
+MCCONNELL v. FEDERAL ELECTION COMM’N
+Opinion of KENNEDY, J.
+Buckley’s underlying rationale is this: Less exacting
+review applies to Government regulations that “signifi-
+cantly interfere” with First Amendment rights of associa-
+tion.  But any regulation of speech or associational rights
+creating “markedly greater interference” than such sig-
+nificant interference receives strict scrutiny.  Unworkable
+and ill advised though it may be, Buckley unavoidably sets
+forth this test:
+“Even a ‘ “significant interference” with protected
+rights of political association’ may be sustained if the
+State demonstrates [1] a sufficiently important inter-
+est and [2] employs means closely drawn to avoid un-
+necessary abridgment of associational freedoms.
+Cousins v. Wigoda, [419 U. S. 477, 488 (1975)];
+NAACP v. Button, [371 U. S. 415, 438 (1963)]; Shelton
+v. Tucker [364 U. S. 479, 488 (1960)].”  424 U. S., at
+25.
+“The markedly greater burden on basic freedoms [re-
+ferring to ‘the freedom of speech and association’]
+caused by [expenditure limits] thus cannot be sus-
+tained simply by invoking the interest in maximizing
+the effectiveness of the less intrusive contribution
+limitations.  Rather, the constitutionality of [the ex-
+penditure limits] turns on whether the governmental
+interests advanced in its support satisfy the exacting
+scrutiny applicable to limitations on core First
+Amendment rights of political expression.”  Id., at 44–
+45.†
+——————
+† See also Federal Election Commission v. Beaumont, 539 U. S. ___,
+___ (2003) (slip op., at 14) (“[T]he basic premise we have followed in
+setting First Amendment standards for reviewing political financial
+restrictions [is that] the level of scrutiny is based on the importance of
+the ‘political activity at issue’ to effective speech or political associa-
+tion”); California Democratic Party v. Jones, 530 U. S. 567, 582 (2000)
+
+PAGE 29
+Cite as:  540 U. S. ____ (2003)
+29
+Opinion of KENNEDY, J.
+The majority, oddly enough, first states this standard
+with relative accuracy, but then denies it.  Compare:
+“The relevant inquiry [in determining the level of
+scrutiny] is whether the mechanism adopted to im-
+plement the contribution limit, or to prevent circum-
+vention of that limit, burdens speech in a way that a
+direct restriction on the contribution itself would not,”
+ante, at 28–29, with:
+“None of this is to suggest that the alleged associa-
+tional burdens imposed on parties by §323 have no
+place in the First Amendment analysis.  It is only that
+we account for them in the application, rather than
+the choice, of the appropriate level of scrutiny.”  Ante,
+at 31.
+The majority’s attempt to separate out how burdens on
+speech rights and burdens on associational rights affect
+the standard of review is misguided.  It is not even true to
+Buckley’s unconventional test.  Buckley, as shown in the
+quotations above, explained the lower standard of review
+by reference to the level of burden on associational rights,
+and it explained the need for a higher standard of review
+by reference to the higher burdens on both associational
+and speech rights.  In light of Buckley’s rationale, and in
+light of this Court’s ample precedent affirming that bur-
+dens on speech necessitate strict scrutiny review, see 424
+U. S., at 44–45 (“[E]xacting scrutiny [applies] to limita-
+tions on core First Amendment rights of political expres-
+sion”), “closely drawn” scrutiny should be employed only in
+review of a law that burdens rights of association, and
+only where that burden is significant, not markedly
+——————
+(“We can think of no heavier burden on a political party’s associational
+freedom.  Proposition 198 is therefore unconstitutional unless it is
+narrowly tailored to serve a compelling state interest”).
+

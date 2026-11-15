@@ -1,0 +1,109 @@
+https://www.law.cornell.edu/supct/html/02-749.ZS.html
+
+RAYTHEON CO. V. HERNANDEZ
+LII
+Supreme Court
+RAYTHEON CO. V. HERNANDEZ (02-749)
+298 F.3d 1030, vacated and remanded.
+Syllabus
+Opinion
+[ Thomas ]
+HTML version
+PDF versionHTML version
+PDF version
+Syllabus
+NOTE: Where it is feasible, a
+syllabus (headnote) will be released, as is being done in
+connection with this case, at the time the opinion is
+issued.
+The syllabus constitutes no part of the opinion of
+the Court but has been prepared by the Reporter of Decisions
+for the convenience of the reader.
+See United States
+v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+SUPREME COURT OF THE UNITED
+STATES
+RAYTHEON CO. v. HERNANDEZ
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE NINTH CIRCUIT
+No. 02—749.
+Argued October 8, 2003–Decided December 2, 2003
+After respondent tested positive for cocaine
+and admitted that his behavior violated petitioner’s
+workplace conduct rules, he was forced to resign. More than
+two years later, he applied to be rehired, stating on his
+application that petitioner had previously employed him, and
+attaching letters both from his pastor about his active church
+participation and from an Alcoholics Anonymous counselor about
+his regular attendance at meetings and his recovery. The
+employee who reviewed and rejected respondent’s
+application testified that petitioner has a policy against
+rehiring employees who are terminated for workplace misconduct
+and that she did not know that respondent was a former drug
+addict when she rejected his application. Respondent filed a
+charge with the Equal Employment Opportunity Commission (EEOC),
+claiming that he had been discriminated against in violation of
+the Americans with Disabilities Act of 1990 (ADA). The EEOC
+issued a right-to-sue letter, and respondent filed this ADA
+action, arguing that petitioner rejected his application
+because of his record of drug addition and/or because he was
+regarded as being a drug addict. In response to
+petitioner’s summary judgment motion, respondent for the
+first time argued in the alternative that if petitioner applied
+a neutral no-rehire policy in his case, it still violated the
+ADA because of that policy’s disparate impact. The
+District Court granted petitioner’s motion for summary
+judgment on the disparate-treatment claim and found that the
+disparate-impact claim had not been timely pleaded or raised.
+The Ninth Circuit agreed as to the disparate-impact claim, but
+held as to the disparate-treatment claim that, under the
+burden-shifting approach of McDonnell Douglas Corp. v.
+Green, 411 U.S.
+792, respondent had proffered a prima facie case of
+discrimination, and petitioner had not met its burden to
+provide a legitimate, nondiscriminatory reason for its
+employment action because its no-rehire policy, though lawful
+on its face, was unlawful as applied to employees who were
+lawfully forced to resign for illegal drug use but have since
+been rehabilitated.
+Held: The Ninth Circuit
+improperly applied a disparate-impact analysis to
+respondent’s disparate-treatment claim. This Court has
+consistently distinguished between disparate-treatment and
+disparate-impact claims. The former arise when an employer
+treats some people less favorably than others because of a
+protected characteristic. Liability depends on whether the
+protected trait actually motivated the employer’s action.
+The latter involve facially neutral employment practices that
+fall more harshly on one group than another and cannot be
+justified by business necessity. Such practices may be deemed
+illegally discriminatory without evidence of the
+employer’s subjective discrimination. Both claims are
+cognizable under the ADA, but courts must be careful to
+distinguish between the theories. Here, respondent was limited
+to the disparate-treatment theory that petitioner refused to
+rehire him because it regarded him as disabled and/or because
+of his record of disability. Petitioner’s proffer of its
+neutral no-rehire policy plainly satisfied its obligation under
+McDonnell Douglas to provide a legitimate,
+nondiscriminatory reason for refusing to rehire respondent.
+Thus, the only remaining question before the Ninth Circuit was
+whether there was sufficient evidence from which a jury could
+conclude that petitioner did make its employment decision based
+on respondent’s status as disabled despite its proffered
+explanation. Instead, that court concluded that, as a matter
+of law, the policy was not a legitimate, nondiscriminatory
+reason sufficient to defeat a prima facie case of
+discrimination. In doing so, the Ninth Circuit improperly
+focused on factors that pertain only to disparate-impact
+claims, and thus ignored the fact that petitioner’s
+no-hire policy is a quintessential legitimate,
+nondiscriminatory reason for refusing to rehire an employee who
+was terminated for violating workplace conduct rules.
+Pp. 7—11.
+298 F.3d 1030, vacated and remanded.
+Thomas, J., delivered the opinion of the Court, in which all
+other Members joined, except Souter, J., who took no part in
+the decision of the case, and Breyer, J., who took no part in
+the consideration or decision of the case.

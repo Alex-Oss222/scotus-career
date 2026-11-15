@@ -1,0 +1,147 @@
+Primary judicial text: https://law.resource.org/pub/us/case/reporter/F3/307/307.F3d.1036.01-15219.html
+
+307 F.3d 1036
+
+G. VALERIA, through her parent and next friend; G. Yolanda; Rosalinda O., through her parent and next friend; Marta O.; Elizabeth S., through her parent and next friend; Jose S., Plaintiffs,
+
+One Nation/One CA; Las Familias Del Pueblo; Gloria Matta Tuchman; Nancy L., through her parent and next friend, N.L.; Lisa L., through her parent and next friend, N.L.; Sylvia Martinez; Petra Ramirez; Angelina Morfin; Cruz Mejia; Emerita Carrillo; Ofelia Bueno; Center for Equal Opportunity, Intervenors, and
+
+J.W.P., through her parent and next friend; Angel V.; David R., through his parent and next friend; Hilda M.; Maria M.; O.G., through his parent and next friend; Dora G.; Mujeres Unidas y Activas; Parents for Unity; Chinese for Affirmative Action; California Latino Civil Rights Network; National Council of La Raza; Southern Christian Leadership Conference of Greater Los Angeles County, Plaintiffs-Appellants,
+
+Sarina Frias, Intervenor-Appellee,
+
+v.
+
+Gray DAVIS; State Board of Education; Yvonne W. Larsen; Robert L. Trigg; Timothy C. Draper; Kathryn Dronenberg; Marion Joseph; Megan Kephart; Marion McDowell; Janet Nicholas; Gerti B. Thomas; Marina Tse; Delaine Eastin, in Her Official Capacity as the State Superintendent of Public Instruction; Marion Bergeson; Susan Hammer; Reed Hastings; Nancy Ichinaga; Carlton J. Jenkins; Monica Lozano; Vicki Reynolds; Nickolas C. Rodriguez, Defendants-Appellees.
+
+No. 01-15219.
+
+United States Court of Appeals, Ninth Circuit.
+
+Argued and Submitted March 14, 2002.
+
+Filed October 7, 2002.
+
+Thomas A. Saenz, Mexican American Legal Defense and Educational Fund, Los Angeles, CA, for the plaintiffs-appellants.
+
+Donald P. Cole, Deputy Attorney General, Sacramento, CA, for the defendants-appellees.
+
+Sharon L. Brown, Pacific Legal Foundation, Sacramento, CA, for intervenor-appellee Sarina Frias.
+
+Appeal from the United States District Court for the Northern District of California; Charles A. Legge, District Judge, Presiding. D.C. No. CV 98-2252 CAL.
+
+Before HUG, and TASHIMA, Circuit Judges, and SEDWICK, District Judge.*
+
+TASHIMA, Circuit Judge.
+
+1
+On behalf of a class of California public school students and their parents, Angel V. appeals from the district court's judgment, entered after a bench trial, dismissing plaintiffs' claim that California's Proposition 227, which replaces bilingual education programs with a curricular program designed to teach students in English, facially violates the Equal Protection Clause of the United States Constitution. We have jurisdiction under 28 U.S.C. § 1291, and we affirm.
+
+I. BACKGROUND
+
+2
+On June 2, 1998, California voters approved Proposition 227 by a margin of 61 to 39 percent. Declaring that "[t]he government and the public schools of California have a moral obligation and a constitutional duty to provide all of California's children ... with the skills necessary to become productive members of our society, and of these skills, literacy in the English language is among the most important," Proposition 227 dismantled California's public school bilingual education programs, which taught limited English proficient ("LEP") students in their native language.
+
+3
+Proposition 227 replaces bilingual education with a system of "structured English immersion," in which children are "taught English by being taught in English."1 The initiative provides that LEP students of similar English proficiency be taught together and that "[c]hildren who are English learners shall be educated through sheltered English immersion during a temporary transition period not normally intended to exceed one year." Once LEP students become proficient in English, they are transferred into mainstream English language classrooms.
+
+4
+Proposition 227 allows LEP students to receive waivers from English immersion in three circumstances: (i) when the student already knows English; (ii) when the student is 10 years old or older and the school agrees that an alternative curriculum would better serve the student's English education; or (iii) when the student has tried the immersion program for at least 30 days, the school agrees "that the child has special physical, emotional, psychological, or educational needs," and an alternative curriculum would better serve the student's educational development. Students who qualify for waiver "may be transferred to classes where they are taught English and other subjects through bilingual education techniques or other generally recognized educational methodologies permitted by law."2 Under no circumstances, however, can a student receive a waiver without parental consent.
+
+5
+Finally, Proposition 227 restricts the circumstances in which it can be amended: "The provisions of this act may be amended by a statute that becomes effective upon approval by the electorate or by a statute to further the act's purpose passed by a two-thirds vote of each house of the Legislature and signed by the Governor."
+
+6
+The day after Proposition 227 passed, plaintiffs filed this action.3 Plaintiffs moved for a preliminary injunction to enjoin implementation of Proposition 227 pendente lite, which the district court denied. Valeria G. v. Wilson, 12 F.Supp.2d 1007 (N.D.Cal.1998). After trial, the district court entered judgment in favor of defendants. Plaintiffs timely appeal.
+
+II. STANDARD OF REVIEW
+
+7
+Constitutional issues are reviewed de novo. S.D. Myers, Inc. v. City & County of San Francisco, 253 F.3d 461, 466 (9th Cir.2001); Neal v. Shimoda, 131 F.3d 818, 823 (9th Cir.1997). A district court's determinations of questions of law and mixed questions of law and fact that implicate constitutional rights are also reviewed de novo. Id. The district court's findings of fact are reviewed for clear error. Ambassador Hotel Co. v. Wei-Chuan Inv., 189 F.3d 1017, 1024 (9th Cir.1999).
+
+III. DISCUSSION
+
+8
+We must decide whether the elimination of bilingual education in California's public schools by Proposition 227, which also mandates that any future change in how English is taught to LEP students requires state-wide action, violates the Equal Protection Clause.
+
+9
+Conventional equal protection analysis focuses on whether the government has classified individuals on the basis of impermissible criteria. While most laws classify individuals in one way or another, legislative classifications typically survive judicial scrutiny so long as they are rationally related to a legitimate governmental interest. City of Cleburne v. Cleburne Living Ctr., 473 U.S. 432, 440, 105 S.Ct. 3249, 87 L.Ed.2d 313 (1985). However, governmental actions that classify persons by race, Adarand Constructors, Inc. v. Pena, 515 U.S. 200, 230, 115 S.Ct. 2097, 132 L.Ed.2d 158 (1995), or that are facially neutral but motivated by discriminatory racial purpose, Washington v. Davis, 426 U.S. 229, 96 S.Ct. 2040, 48 L.Ed.2d 597 (1976), are subject to strict judicial scrutiny.
+
+10
+Under this conventional approach, Proposition 227 easily avoids the application of strict scrutiny. Nowhere does the text of Proposition 227 explicitly mention racial minorities generally, or any racial minority in particular. Rather, the initiative merely provides that "children in California public schools" shall be taught in English. Furthermore, the record is devoid of any evidence that Proposition 227 was crafted from racial animus.
+
+11
+Plaintiffs, however, assert a constitutional violation grounded in "political structure" equal protection analysis. Relying on the Supreme Court's pronouncements in Hunter v. Erickson, 393 U.S. 385, 89 S.Ct. 557, 21 L.Ed.2d 616 (1969), and Washington v. Seattle Sch. Dist., 458 U.S. 457, 102 S.Ct. 3187, 73 L.Ed.2d 896 (1982), plaintiffs contend that Proposition 227 unconstitutionally restructures the political process by placing decision-making over bilingual education, and only bilingual education, at the state-wide level.4
+
+12
+In Hunter, the Court reviewed an Akron, Ohio, city charter amendment requiring that housing ordinances, which regulated real estate transactions "on the basis of race, color, religion, national origin, or ancestry," be approved by a majority of city voters (rather than simply by the city council). 393 U.S. at 387, 89 S.Ct. 557. This law disadvantaged those who would benefit from laws barring racial discrimination in the real estate market as opposed to those who would benefit from other regulations of the real estate market. Id. at 390-91, 89 S.Ct. 557. In light of this differential treatment, the Court concluded that the Akron charter amendment embodied "an explicitly racial classification treating racial housing matters differently from other racial and housing matters." Id. at 389, 89 S.Ct. 557.5 Absent a compelling state interest, the Court held that the state "may no more disadvantage any particular group by making it more difficult to enact legislation in its behalf than it may dilute any person's vote or give any group a smaller representation than another of comparable size." Id. at 393, 89 S.Ct. 557.
+
+13
+The Court applied Hunter's "political structure" equal protection analysis a decade later in Seattle. There, the Court examined the constitutionality of Washington's Initiative 350, a statewide initiative that barred school boards from assigning students beyond their neighborhood schools. While facially neutral, Initiative 350 contained several broad exceptions that essentially operated to preclude only desegregative busing. Seattle, 458 U.S. at 462-63, 102 S.Ct. 3187. In concluding that Initiative 350 "was effectively drawn for racial purposes," id. at 471, 102 S.Ct. 3187, the Court considered the text of the initiative, the representations of its proponents, the initiative's practical effect, and its popular perception. Id. The Court held that Initiative 350 differentiated "between the treatment of problems involving racial matters and that afforded other problems in the same area," id. at 480, 102 S.Ct. 3187 (citation and internal quotation marks omitted), and that this differentiation burdened minorities "by lodging decisionmaking authority over the question at a new and remote level of government." Id. at 483, 102 S.Ct. 3187. The Court concluded that "Initiative 350 must fall because it does not attemp[t] to allocate governmental power on the basis of any general principle. Instead, it uses the racial nature of an issue to define the governmental decisionmaking structure, and thus imposes substantial and unique burdens on racial minorities." Id. at 470, 102 S.Ct. 3187 (citations and internal quotations marks omitted). Under this "political structure" analysis, reallocation of political decision making violates equal protection only when there is evidence of purposeful racial discrimination. Be it an overt racial classification or a context of discernible racial animus, constitutional "political structure" analysis resembles "conventional" equal protection analysis in that demonstrable evidence of purposeful racial discrimination is required. Seattle, 458 U.S. at 484-85, 102 S.Ct. 3187 ("[P]urposeful discrimination is the condition that offends the Constitution.... Thus, when facially neutral legislation is subjected to equal protection attack, an inquiry into intent is necessary to determine whether the legislation in some sense was designed to accord disparate treatment on the basis of racial considerations." (citations and internal quotation marks omitted)).
+
+14
+The factual postures of Hunter and Seattle are illustrative of this purposeful discrimination requirement, for they both dealt with political obstructions placed in the way of minorities seeking to remedy identified patterns of racial discrimination. In Hunter the challenged charter amendment operated to prevent the city council from enacting ordinances to address racial discrimination in housing; in Seattle the challenged initiative placed special burdens on the ability of minority groups to combat racially segregated school districts. See Coalition for Econ. Equity v. Wilson, 122 F.3d 692, 704 (9th Cir.1997) ("The `political structure' equal protection cases, namely Hunter and Seattle, addressed the constitutionality of political obstructions that majorities had placed in the way of minorities to achieving protection against unequal treatment.").
+
+15
+Proposition 227, however, does not obstruct minorities from seeking protection against unequal treatment. Unlike ordinances enacted to address pervasive racial discrimination in housing, or efforts taken by local school boards to desegregate racially stratified school districts, California's system of bilingual education did not operate to remedy identified patterns of racial discrimination. Bilingual education did not target racial animus, but rather endeavored to improve (what proponents viewed to be) a pedagogically flawed educational system. As the district court found:
+
+16
+This court cannot discern from the face of Proposition 227 any hidden agenda of racial or national origin discrimination against any group.... [T]he debate is a neutral one, about which system will provide LEP children with the best education to enable them to function as American citizens and enjoy the opportunities and privileges of life in the United States.
+
+17
+Valeria G., 12 F.Supp.2d at 1014-15.
+
+18
+Given that the purpose and function of California's bilingual education program was and is to improve education, and not to remedy racial discrimination, and that the record contains no evidence that Proposition 227 was motivated by racial animus, we cannot conclude that this initiative reallocated "the authority to address a racial problem — and only a racial problem— from the existing decisionmaking body, in such a way as to burden minority interests." Seattle, 458 U.S. at 474, 102 S.Ct. 3187 (emphasis added). While Proposition 227 surely reallocated political authority, placing control over bilingual education at the state (rather than local) level, the reallocation of political authority at issue in Proposition 227 operated solely to address an educational issue, not a racial one.
+
+19
+There is, of course, an undeniable racial dimension to Proposition 227. In the 1996-97 academic year, Hispanic/Latino students accounted for more than 82 percent of the LEP student population, despite making up less than 41 percent of the overall student body in California's public schools.6 Furthermore, during Proposition 227's popular campaign, the link between bilingual education and the Hispanic/Latino community was discernible. While much of the campaign was framed in expressly non-racial terms,7 Hispanics and Latinos were singled out by Proposition 227's ballot materials, press releases, and published opinion pieces.8
+
+20
+The mere fact, however, that California's LEP student population is predominantly Hispanic/Latino, and that proponents of Proposition 227 specifically identified this racial group during the initiative's campaign, does not itself suffice to create a colorable equal protection political structure claim. The Supreme Court has distinguished "between state action that discriminates on the basis of race and state action that addresses, in neutral fashion, race-related matters." Crawford v. Bd. of Educ., 458 U.S. 527, 538, 102 S.Ct. 3211, 73 L.Ed.2d 948 (1982). The former violates equal protection, but the latter does not. Furthermore, the Hunter doctrine "does not mean ... that every attempt to address a racial issue gives rise to an impermissible racial classification." Seattle, 458 U.S. at 485, 102 S.Ct. 3187. Reallocation of political power offends equal protection only when the racial implications of the underlying issue determine the newlyformed decision-making process. Id. at 470, 102 S.Ct. 3187 ("[T]he political majority may generally restructure the political process to place obstacles in the path of everyone seeking to secure the benefits of governmental action. But a different analysis is required when the State allocates governmental power non-neutrally, by explicitly using the racial nature of a decision to determine the decisionmaking process."). While bilingual education has obvious racial implications, the record establishes neither that racial discrimination was the impetus of bilingual education, nor that racial animus motivated the passage of Proposition 227. The racial makeup of California's LEP student population did not shape Proposition 227's reallocation of political authority over bilingual education.
+
+21
+Plaintiffs cite no substantial evidence to establish that Proposition 227 was enacted for a racially discriminatory purpose. Instead, they argue that political restructuring violates equal protection anytime it affects a program that inures primarily to the benefit of racial minorities. Plaintiffs ask this court to invalidate Proposition 227's political restructuring absent a showing of racial animus because bilingual education in California has a uniquely "racial focus." No case is cited in support of this novel interpretation of the Supreme Court's "political structure" jurisprudence, and we reject plaintiffs' invitation to so extend Hunter and Seattle. Hunter and Seattle stand for the simple proposition that strict scrutiny applies if an initiative creates an outright racial classification, or if a facially neutral initiative was driven by the racial nature of its subject matter. See, e.g., Seattle, 458 U.S. at 471, 102 S.Ct. 3187 ("despite its facial neutrality there is little doubt that the initiative was effectively drawn for racial purposes"). Given Proposition 227's facial neutrality, and the lack of evidence that it was motivated by racial considerations, we hold that Proposition 227's reallocation of political authority over bilingual education does not offend the Equal Protection Clause.
+
+IV. CONCLUSION
+
+22
+The judgment of the district court, holding that Proposition 227's political restructuring is not inconsistent with the Equal Protection Clause, is
+
+23
+AFFIRMED.
+
+Notes:
+
+*
+Honorable John W. Sedwick, United States District Judge for the District of Alaska, sitting by designation
+
+1
+Proposition 227 defines the immersion system as "an English language acquisition process for young children in which nearly all classroom instruction is in English but with the curriculum and presentation designed for children who are learning the language." The initiative, however, does not prescribe a specific curricular program to be used during this year of "immersion."
+
+2
+When 20 students of a given grade level receive a waiver at an individual school, that school is required to offer a class in which the students are taught English and other subjects through bilingual or other alternative educational techniques
+
+3
+Plaintiffs originally alleged claims under the Equal Educational Opportunities Act of 1974, Title VI of the Civil Rights Act of 1964, the Supremacy Clause, and the Equal Protection Clause of the Fourteenth Amendment. Subsequently, however, plaintiffs filed their Second Amended Complaint, which retained only the equal protection claim
+
+4
+For the most part, California grants local school authorities broad discretion over the formulation of educational policy:
+
+[T]here is a need to establish a common state curriculum for the public schools, but that, because of economic, geographic, physical, political and social diversity, there is a need for the development of educational programs at the local level.... [I]t is the intent of the Legislature to set broad minimum standards and guidelines for educational programs, and to encourage local districts to develop programs that will best fit the needs and interests of the pupils....
+
+Cal. Educ.Code § 51002; see also Cal. Educ. Code §§ 35160, 35160.1.
+
+5
+As commentators have observed, however,Hunter did not involve an express racial classification in the traditional sense. Rather, a racial classification was discerned from the charter amendment's surrounding context. See, e.g., Cass R. Sunstein, Public Values, Private Interests, and the Equal Protection Clause, 1982 SUP. CT. REV. 127, 149 (arguing that "[t]he classification in Hunter was not quite a racial classification on its face; but, by its very nature, it gave rise to suspicion that an impermissible motive was at work"). This ambiguity in what constitutes a racial classification, however, is irrelevant to the case at hand, because there is neither a traditional racial classification in the text of Proposition 227 nor evidence that the "racial nature" of bilingual education played a role in the initiative's popular approval.
+
+6
+The next largest group of LEP students in California's public schools is Asian/Pacific Islanders, who make up more than 14 percent of the LEP population. Thus, as plaintiffs note, "nearly every LEP student in California public schools is either Latino/Hispanic or Asian/Pacific Islander."
+
+7
+Both Proposition 227 initiative materials, and the rhetoric of Proposition 227 supporters, reveal that much of the initiative's campaign focused on the relative effectiveness of bilingual education as a curricular strategy, rather than on the racial composition of California's LEP student populationSee Elizabeth T. Bangs, Who Should Decide What is Best for California's LEP Students? Proposition 227, Structural Equal Protection, and Local Decision-Making Power, 11 LA RAZA L.J. 113, 119 (2000) ("Almost a year before Proposition 227 appeared on the ballot, Ron Unz [co-author of the initiative] began making public appearances to insist that the initiative was neither `anti-immigrant' nor `anti-Latino.'... [i]nstead of warning about the menace of `bilingualism,' [the campaign] stress[ed] the importance of `English for Children.'").
+
+8
+The initiative's official ballot pamphlet argument decried the "monolingual, SPANISH-ONLY education" system, isolated "Latino immigrant children" as the "principal victims of bilingual education," and suggested that "[m]ost Latino parents" support the initiative because "[t]hey know that Spanish-only bilingual education is preventing their children from learning English." Similarly, press releases and published opinion pieces released by Proposition 227 supporters highlighted the prevalence of Spanish speaking Latino schoolchildren. No other racial groups were specifically identified in the Proposition 227 campaign materials
+
+CC∅ | Transformed by Public.Resource.Org

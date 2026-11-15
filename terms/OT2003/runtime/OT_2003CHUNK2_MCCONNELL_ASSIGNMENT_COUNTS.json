@@ -1,0 +1,127 @@
+{
+  "counts": {
+    "Stone-Zsela": 2,
+    "Stevens": 1,
+    "O'Connor": 2,
+    "Scalia": 2,
+    "Kennedy": 2,
+    "Souter": 3,
+    "Thomas": 2,
+    "Ginsburg": 2,
+    "Breyer": 2
+  },
+  "trace": [
+    [
+      "united_states_v_holston_merits_2003-10-30.md",
+      [
+        "O'Connor"
+      ]
+    ],
+    [
+      "rancho_viejo_llc_v_norton_merits_2004-02-05.md",
+      [
+        "Kennedy"
+      ]
+    ],
+    [
+      "lomont_v_oneill_merits_2004-03-11.md",
+      [
+        "Scalia"
+      ]
+    ],
+    [
+      "environmental_defense_center_v_epa_merits_2004-03-25.md",
+      [
+        "Souter"
+      ]
+    ],
+    [
+      "aclu_of_new_jersey_v_county_of_hudson_merits_2004-04-13.md",
+      [
+        "Stone-Zsela"
+      ]
+    ],
+    [
+      "west_virginia_v_us_department_of_health_and_human_services_merits_2004-06-16.md",
+      [
+        "Ginsburg"
+      ]
+    ],
+    [
+      "demore_v_kim_merits_2003-10-14.md",
+      [
+        "Breyer"
+      ]
+    ],
+    [
+      "yarborough_v_gentry_merits_2003-10-20.md",
+      []
+    ],
+    [
+      "greenville_womens_clinic_v_commissioner_merits_2003-10-27.md",
+      [
+        "Ginsburg"
+      ]
+    ],
+    [
+      "mitchell_v_esparza_merits_2003-11-03.md",
+      [
+        "Scalia"
+      ]
+    ],
+    [
+      "boca_investerings_partnership_v_united_states_merits_2003-11-06.md",
+      [
+        "Kennedy"
+      ]
+    ],
+    [
+      "barnhart_v_thomas_merits_2003-11-12.md",
+      [
+        "Souter"
+      ]
+    ],
+    [
+      "washoe_county_v_united_states_merits_2003-11-17.md",
+      [
+        "Thomas"
+      ]
+    ],
+    [
+      "united_states_v_ho_merits_2003-11-20.md",
+      [
+        "Stone-Zsela"
+      ]
+    ],
+    [
+      "valeria_v_davis_merits_2003-11-25.md",
+      [
+        "O'Connor"
+      ]
+    ],
+    [
+      "raytheon_co_v_hernandez_merits_2003-12-02.md",
+      [
+        "Stevens"
+      ]
+    ],
+    [
+      "united_states_v_banks_merits_2003-12-02.md",
+      [
+        "Breyer"
+      ]
+    ],
+    [
+      "van_susteren_v_jones_merits_2003-12-04.md",
+      [
+        "Thomas"
+      ]
+    ],
+    [
+      "virginia_v_maryland_merits_2003-12-09.md",
+      [
+        "Souter"
+      ]
+    ]
+  ]
+}

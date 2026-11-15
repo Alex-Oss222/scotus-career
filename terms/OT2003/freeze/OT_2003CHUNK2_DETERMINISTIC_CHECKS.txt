@@ -1,0 +1,41 @@
+Command: python -B tmp/run_no_git.py check_term OT2003
+Exit: 0
+OMITTED: repository commit-object existence was not evaluated; 0 distinct referenced object(s). No repository-history command ran.
+PASS: the executed non-provenance checks completed successfully.
+
+
+Command: python -B tmp/check_chunk2_outputs.py
+Exit: 0
+Pre-existing protected baseline files changed: 0
+New Record format errors: 0
+
+
+Command: python -B tmp/check_chunk2_links.py
+Exit: 0
+Local links checked: 237 errors: 0
+
+
+Command: python -B tmp/audit_chunk2_public.py
+Exit: 0
+barnhart_v_thomas_merits_2003-11-12.md controlling explanation word counts [224]
+boca_investerings_partnership_v_united_states_merits_2003-11-06.md controlling explanation word counts [204, 99]
+castro_v_united_states_merits_2003-12-15.md controlling explanation word counts [92, 189, 153]
+greenville_womens_clinic_v_commissioner_merits_2003-10-27.md controlling explanation word counts [231, 171, 110, 135, 240, 160]
+maryland_v_pringle_merits_2003-12-15.md controlling explanation word counts [149, 221]
+mcconnell_v_federal_election_commission_merits_2003-12-10.md controlling explanation word counts [186, 165, 132, 128, 142, 117, 185, 115, 95, 181, 84, 100, 128, 148, 135, 141, 154, 126, 127, 167, 140, 145, 203, 119, 124, 165, 106, 111, 107, 27]
+mitchell_v_esparza_merits_2003-11-03.md controlling explanation word counts [162, 188, 80]
+raytheon_co_v_hernandez_merits_2003-12-02.md controlling explanation word counts [127, 152]
+united_states_v_banks_merits_2003-12-02.md controlling explanation word counts [209, 154]
+united_states_v_deaton_merits_2003-12-11.md controlling explanation word counts [225, 260, 160, 141]
+united_states_v_ho_merits_2003-11-20.md controlling explanation word counts [231, 156]
+valeria_v_davis_merits_2003-11-25.md controlling explanation word counts [204, 252]
+van_susteren_v_jones_merits_2003-12-04.md controlling explanation word counts [240, 92]
+virginia_v_maryland_merits_2003-12-09.md controlling explanation word counts [341, 94]
+washoe_county_v_united_states_merits_2003-11-17.md controlling explanation word counts [81, 142, 157]
+yarborough_v_gentry_merits_2003-10-20.md controlling explanation word counts [98, 134]
+Negative statements collected for substantive Section 8 review, not mechanically classified.
+
+
+Command: python -B tmp/verify_chunk2_integration.py
+Exit: 0
+PASS: 16 exact public projections; 23 coordinated Records; 32 frozen case handoffs; 119 inventory rows; protected baseline unchanged; 552 text files screened.

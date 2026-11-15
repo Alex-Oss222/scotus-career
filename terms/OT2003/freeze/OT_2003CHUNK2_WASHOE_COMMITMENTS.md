@@ -1,0 +1,38 @@
+﻿# Washoe County v. United States — independent non-Stone commitments
+
+Merits submission and research cutoff: November 17, 2003. All eight Associates participate at submission and decision; no case-specific exception is supplied. No author or final Court disposition is selected.
+
+Inputs: frozen Neutral packet and A_PREFLIGHT; A entering-law Palazzolo, Tahoe-Sierra and relevant standards/public positions; sanitized neutral projection; full primary lower opinion runtime/chunk2_a_sources/washoe_lower.txt. No withheld material opened. The published recitations, not unrecovered original filings, establish the bounded facts. The parties agreed no material fact was disputed.
+
+## Shared propositions and complete disposition
+
+P1. The compensation claim is sufficiently final. Federal processing stopped unless fixed Army and tribal objections were resolved with their concurrence; no further administrative step capable of changing that position is identified. A separate suit to compel agency action is not an additional application needed to identify the challenged restriction. Palazzolo's definitive-restriction rule applies; it requires neither resubmission for its own sake nor a general excuse from necessary application steps.
+
+P2. Nevada's water-use right is protected property, but permission to change its use and location supplies no preexisting entitlement to lay a pipeline across federal land. The State Engineer authorized a change in the manner and place of use of the existing entitlement; the owners retained and exercised agricultural use pending perfection of municipal use. The property cannot be defined as a separate municipal-only entitlement that includes an ungranted federal route.
+
+P3. No physical taking occurred. The government neither diverted the water, reduced the quantity available from the ranch, restricted pumping nor denied access to the wells. Keeping its own land free of the proposed pipeline did not reserve a specified quantity of the claimants' water for federal consumption. Dugan and International Paper involved actual diversion or interference with the water entitlement and do not turn a neighbor's refusal to provide a new route into appropriation. A motive to preserve regional water conditions does not itself prove seizure of the owners' rights.
+
+P4. This refusal also supplies no regulatory-taking entitlement. The challenged federal action concerns the grant of an interest in land the United States owns, while the claimants possess no antecedent crossing right. It imposes no supported restriction on their pumping, access or authorized use of the water apart from their inability to use that new federal route. The Fifth Amendment does not require a neighboring landowner to provide the interest needed to realize the project's proposed value or pay for refusing it. This is a determination of the actual property and challenged action, not a categorical rule immunizing every government act labeled proprietary.
+
+P5. Retained agricultural use defeats a complete-deprivation theory on these facts, but retained value is not a universal answer to a preserved partial-taking claim. Palazzolo and Tahoe-Sierra retain Penn Central's combined inquiry into economic impact, reasonable investment-backed expectations and governmental character where a cognizable regulatory burden is established. Here the independently sufficient absence of appropriation or restriction of an existing entitlement resolves the claim; no valuation trial is needed to transform the ungranted route into owned property. The separate APA lawfulness of processing is outside this compensation question.
+
+P6. Affirm summary judgment for the United States and the denial of the claimants' partial-summary-judgment motion. The compensation action concludes under the affirmed judgment; no easement or compensation follows. No remand to value the hoped-for municipal project is warranted.
+
+## Tested alternatives
+
+The strongest claimant path treats the sole feasible route, Nevada approval and fixed third-party vetoes as functional destruction of the municipal-use right. That account establishes finality and the project's dependence on federal land, but not ownership of the route, diversion of the water, loss of access or a regulatory limitation on the existing water entitlement. The strongest narrower remand account correctly warns that some remaining use does not defeat Penn Central. It fails here because the judgment rests independently on the right and governmental action actually established, rather than merely on retained value. A genuine taking of an existing crossing or water entitlement would be different; none is found or presumed.
+
+## Individual commitments
+
+| Justice | Judgment and reasons | Date-eligible individual support and limits |
+|---|---|---|
+| Stevens | Affirm; P1–P6 in full. | Palazzolo Parts I–III join supports definitive finality and actual property limits; Tahoe-Sierra full join. His Palazzolo own-injury reservation supplies no additional bar here because the claim fails on its present property/action merits. Does not use acquisition timing or retained value alone to deny compensation. |
+| O'Connor | Affirm; P1–P6 in full. | Palazzolo full join and Tahoe-Sierra opinion. The absence of an owned federal-land interest resolves this record before a loss-percentage inquiry; contextual takings law remains intact. |
+| Scalia | Affirm; P1–P6 in full. | Palazzolo full join; Tahoe-Sierra dissent joined protects a genuine present deprivation. The owners here retain actual pumping/use throughout and never held the demanded crossing interest; his temporal-deprivation position does not create that missing entitlement. No general proprietary immunity is joined. |
+| Kennedy | Affirm; P1–P6 in full. | Palazzolo and Tahoe-Sierra full joins. Fixed opposition satisfies finality, but inability to achieve the most valuable proposed use through another's land is not the appropriation or restriction claimed. |
+| Souter | Affirm; P1–P6 in full. | Palazzolo finality dissent joined and Tahoe-Sierra full join. Unlike unresolved on-parcel development in Palazzolo, this route refusal is fixed and the actual retained water use is known; no administrative uncertainty justifies a threshold dismissal. Reaches and rejects the merits on actual entitlement. |
+| Thomas | Affirm; P1–P6 in full. | Palazzolo opinion and Tahoe-Sierra dissent. Strong protection of an established property interest does not establish a right-of-way Nevada could not confer. His dissent's actual complete-loss premise is absent. |
+| Ginsburg | Affirm; P1–P6 in full. | Palazzolo dissent requires a sufficiently settled burden, not endless applications; fixed refusal meets it. Tahoe-Sierra full join supplies whole-interest discipline. The legal failure of the claimed burden resolves the case without a fabricated valuation. |
+| Breyer | Affirm; P1–P6 in full. | Palazzolo dissent joined and Tahoe-Sierra full join. The asserted futility is established rather than assumed; finality and merits remain distinct. Existing access and use, together with lack of a crossing entitlement, defeat the particular claim. |
+
+The eight Associates share proposition-level support. No separate writing is required. A draft denying all partial takings merely because agriculture remains, treating every proprietary act as immune, or treating Nevada's authorization as worthless would exceed these commitments. Validation: finality, physical and regulatory claims separately resolved; no new factual findings or valuation; prior public disagreements tested against the actual facts; no pending event treated as authority.

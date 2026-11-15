@@ -1,0 +1,129 @@
+https://www.law.cornell.edu/supct/html/02-6683.ZS.html
+
+CASTRO V. UNITED STATES
+LII
+Supreme Court
+CASTRO V. UNITED STATES (02-6683)
+290 F.3d 1270, vacated and remanded.
+Syllabus
+Opinion
+[ Breyer ]Concurrence
+[ Opinion of Scalia ]
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+Syllabus
+NOTE: Where it is feasible, a
+syllabus (headnote) will be released, as is being done in
+connection with this case, at the time the opinion is
+issued.
+The syllabus constitutes no part of the opinion of
+the Court but has been prepared by the Reporter of Decisions
+for the convenience of the reader.
+See United States
+v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+SUPREME COURT OF THE UNITED
+STATES
+CASTRO v. UNITED STATES
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE ELEVENTH CIRCUIT
+No. 02—6683. Argued October 15, 2003–Decided December 15,
+2003
+In 1994, petitioner Castro attacked his
+federal drug conviction in a pro se motion for a new
+trial pursuant to Federal Rule of Criminal Procedure 33. The
+Government responded that the claims were more cognizable as
+federal habeas claims under 28 U.S.C. §
+2255. The District Court denied Castro’s motion on
+the merits, referring to it as both a Rule 33 and a §2255
+motion. Castro did not challenge this recharacterization of
+his motion on his pro se appeal, and the Eleventh
+Circuit summarily affirmed. In 1997, Castro, again pro se,
+filed a §2255 motion raising, inter alia, a new
+claim for ineffective assistance of counsel. The District
+Court denied the motion, but the Eleventh Circuit remanded for
+the District Court to consider, among other things, whether
+this was Castro’s second §2255 motion. The District
+Court appointed counsel, determined that the 1997 motion was
+indeed Castro’s second §2255 motion (the 1994 motion
+being his first), and dismissed the motion for failure to
+comply with §2255’s requirement that Castro obtain
+the Court of Appeals’ permission to file a “second or
+successive” motion. The Eleventh Circuit affirmed.
+Held:
+1. This
+Court’s review of Castro’s claim is not barred by the
+requirement that the “grant or denial of an authorization
+by a court of appeals to file a second or successive
+application … shall not be the subject of a [certiorari]
+petition,” 28
+U.S.C. § 2244(b)(3)(E). Castro nowhere asked the
+Eleventh Circuit to grant, and it nowhere denied, such
+authorization. Contrary to the Government’s position, the
+court’s statement that Castro’s petition could not
+meet the requirements for second or successive petitions cannot
+be taken as a statutorily relevant “denial” of an
+authorization request not made. Even accepting the
+Government’s characterization, the argument would founder
+because the certiorari petition’s “subject” is
+not the Eleventh Circuit’s authorization
+“denial,” but the lower courts’ refusal to
+recognize that this §2255 motion is Castro’s first.
+Moreover, reading the statute as the Government suggests would
+create procedural anomalies, allowing review where the lower
+court decision disfavors, but denying review where it favors,
+the Government; would close this Court’s doors to a class
+of habeas petitioners without any clear indication that such
+was Congress’ intent; and would be difficult to reconcile
+with the principle that this Court reads limitations on its
+jurisdiction narrowly. Pp. 3—5.
+2. A federal
+court cannot recharacterize a pro se litigant’s
+motion as a first §2255 motion unless it first
+informs the litigant of its intent to recharacterize, warns the
+litigant that this recharacterization means that any subsequent
+§2255 motion will be subject to the restrictions on
+“second or successive” motions, and provides the
+litigant an opportunity to withdraw the motion or to amend it
+so that it contains all the §2255 claims he believes he
+has. If these warnings are not given, the motion cannot be
+considered to have become a §2255 motion for purposes of
+applying to later motions the law’s “second or
+successive” restrictions. Nine Circuits have placed such
+limits on recharacterization, and no one here contests the
+lawfulness of this judicially created requirement.
+Pp. 5—7.
+3. Because
+the District Court failed to give the prescribed warnings,
+Castro’s 1994 motion cannot be considered a first
+§2255 motion and his 1997 motion cannot be considered a
+second or successive one. The Government argues that
+Castro’s failure to appeal the 1994 recharacterization
+makes the recharacterization valid as a matter of “law of
+the case.” And, according to the Government, since the
+1994 recharacterization is valid, the 1997 §2255 motion is
+Castro’s second, not his first. This Court disagrees.
+The point of a warning is to help the pro se litigant
+understand not only (1) whether he should withdraw or amend his
+motion, but also (2) whether he should contest the
+recharacterization, say, on appeal. The lack of warning
+prevents his making an informed judgment as to both. The
+failure to appeal simply underscores the practical importance
+of providing the warning. Hence, an unwarned
+recharacterization cannot count as a §2255 motion for
+purposes of the “second or successive” provision
+whether or not the unwarned pro se litigant takes an
+appeal. Even assuming that the law of the case doctrine
+applies here, the doctrine simply expresses common judicial
+practice; it does not limit the courts’ power.
+Pp. 7—9.
+290 F.3d 1270, vacated and remanded.
+Breyer, J., delivered
+the opinion of the Court, in which Rehnquist, C. J., and
+Stevens, O’Connor, Kennedy, Souter, and Ginsburg, JJ.,
+joined, and in which Scalia and Thomas, JJ., joined with
+respect to Parts I and II. Scalia, J., filed an opinion
+concurring in part and concurring in the judgment, in which
+Thomas, J., joined.

@@ -1,0 +1,69 @@
+{
+  "created": [
+    "raytheon_co_v_hernandez_merits_2003-12-02.md",
+    "united_states_v_banks_merits_2003-12-02.md"
+  ],
+  "validation": [
+    {
+      "case": "RAYTHEON",
+      "record": "raytheon_co_v_hernandez_merits_2003-12-02.md",
+      "author": "Stevens",
+      "counts": {
+        "Stone-Zsela": 2,
+        "Stevens": 0,
+        "O'Connor": 2,
+        "Scalia": 2,
+        "Kennedy": 2,
+        "Souter": 2,
+        "Thomas": 1,
+        "Ginsburg": 2,
+        "Breyer": 1
+      },
+      "pool": [
+        "Stevens",
+        "Thomas"
+      ],
+      "explanation_words": [
+        127,
+        152
+      ],
+      "record_sha256": "2d1e8e4bd6dff57d2f4ae0f47ad0674de9a8ff0d278f03bcb9e90f36ccbc0eef",
+      "public_sha256": "dea3a7c9721975218f94db70c64abe0e8eb118a8a54c4593df8acf121d0c821d",
+      "vote": "Vacated and remanded, 7–0; Stevens for the Court."
+    },
+    {
+      "case": "BANKS",
+      "record": "united_states_v_banks_merits_2003-12-02.md",
+      "author": "Breyer",
+      "counts": {
+        "Stone-Zsela": 2,
+        "Stevens": 1,
+        "O'Connor": 2,
+        "Scalia": 2,
+        "Kennedy": 2,
+        "Souter": 2,
+        "Thomas": 1,
+        "Ginsburg": 2,
+        "Breyer": 1
+      },
+      "pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "explanation_words": [
+        209,
+        154
+      ],
+      "record_sha256": "93f22321e4c473f321f916268d14f72d0c3b3e545ab637126c12fefb5b67bb6e",
+      "public_sha256": "581614241a26051ad15f882ac9791b12ba98e02183a83a694128ca2b630d6290",
+      "vote": "Reversed and remanded, 9–0; Breyer for the Court."
+    }
+  ]
+}
