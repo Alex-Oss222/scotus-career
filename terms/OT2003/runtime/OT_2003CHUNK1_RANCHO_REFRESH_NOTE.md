@@ -1,0 +1,37 @@
+# OT2003 chunk 1: Rancho entering-law refresh and Holston dependency screen
+
+## Authorized inputs and timing
+
+This neutral refresh reads only the mechanically supplied Holston Public Projection, the frozen B neutral preflight, and the frozen B official-source addendum. It supplements `entering-law/OT_2003CHUNK1_RANCHO.md`; it does not amend an earlier frozen handoff or assess any current commitment. The exact Holston Public Projection is script-copied below from `runtime/OT_2003CHUNK1_HOLSTON_PUBLIC.md`.
+
+Holston became effective October 30, 2003 and therefore enters Rancho Viejo's February 5, 2004 event and each later scheduled case in this group. Control reports that Demore is stopped without a decision or new law; its existing restoration order and bond status remain, and it supplies no new substantive rule. Scheduled earlier-dated matters in later chunks still supply no law or blocker unless actually completed and effective.
+
+## Rancho Viejo: material addition, baseline inquiry retained
+
+Holston adds a unanimous application of the necessary-inclusion doctrine. Its first holding separates the statutory materials-in-commerce condition from constitutional authority: equipment or media provenance alone does not justify the later local production class. Its second holding sustains local production of actual-child-abuse images because that production creates the reproducible, concealable and substitutable supply of the identified prohibited interstate image market. The Government must materially support the actual anti-evasion or material-impairment mechanism; constitutional eligibility and reasonable fit receive independent judicial review, with substantial legislative latitude on supported empirical judgments and regulatory design.
+
+This addition is material to the method and Justice-specific authorities in Rancho, but establishes no new wildlife fact. Holston expressly applies Home Builders's material-support obligation and distinguishes the inadequately examined species mechanism from its supported product-and-source relationship. Rancho's housing project is not thereby treated as the source of prohibited interstate wildlife stock. A commercial project, an input that crossed state lines, the value of biodiversity, or the breadth of a conservation program does not independently establish the enacted taking class's eligible mechanism. Neither a defendant-specific interstate transaction nor universal formal findings, a fixed numerical benchmark or clear-and-convincing evidence is required merely because the mechanism must be supported.
+
+The existing Home Builders inquiry remains controlling: identify the enacted taking class; test a supported necessary-regime mechanism or the independently recognized substantial-interstate-externality route and its territorial-control limits; preserve the Government's support responsibility and the proper remedy when the lower court used the insufficient economic-project rationale. Holston does not resolve an ecological externality, establish a complete Rancho record, or prove that no supported species mechanism exists. A short packet's failure to demonstrate a mechanism is not a factual adjudication that the Government lacks one throughout the relevant record.
+
+All eight Associates join O'Connor's entire Holston opinion, both holdings and their application. Each therefore has a new public commitment to the distinction between an enacted nexus and the constitutional mechanism, and to a materially supported actual product-and-source rationale in that defined setting. Stevens and Souter's earlier Home Builders economic-application view is not withdrawn by the Holston opinion. Scalia and Thomas's agreement with the demonstrated necessary-regime ground does not establish their agreement with Home Builders's independent externality route. O'Connor and Kennedy's territorial-control position, and Ginsburg and Breyer's acceptance of the governing class premise and available mechanisms, remain as set out in the baseline public authorities. The fresh model must consider the new unanimous application together with those actual earlier positions, without importing a disposition or coalition for Rancho.
+
+**Readiness:** Rancho is ready for independent modeling on the unchanged approved neutral entry, the B baseline and source limits, the baseline Rancho slice, and this refresh. Its available paths remain the bounded remand inquiry, sustainment on an actually supported eligible alternative, and confined invalidation only on an adequately supported complete-record basis. The refresh supplies law and individual public joins; it selects none of those paths.
+
+## Actual Holston screen for later cases
+
+| Matter | Effect of the completed Holston public holdings |
+|---|---|
+| Lomont, March 11, 2004 | **No material change to the modeled baseline.** The granted questions are officers' concrete official injury and an optional certification arrangement with unconditional refusal. Holston addresses neither Article III official injury nor a duty to assist, a penalty for refusal, the source of certification authority, or a compensation rule. The statutory/constitutional distinction does not turn an applicant's requirement into an officer's legal command. No affected neutral premise or individual authority on these issues requires remodeling solely because of Holston. |
+| Environmental Defense Center, March 25, 2004 | No material change to its municipal own-operation, genuine permit-alternative or compelled-information questions. Holston does not decide federalism allocation, permit terms, municipal expression or water coverage. The baseline NEMA addition and eventual Lomont refresh remain necessary at their own scope. |
+| County of Hudson, April 13, 2004 | No material change to the delegated-confidentiality, APA, conflict-preemption or voluntary federal-custody questions. Holston supplies no disclosure exception, detention authority, rulemaking waiver or contractual command. |
+| West Virginia v. HHS, June 16, 2004 | No material change to the facial Medicaid funding-condition question. Holston's necessary-regime application does not decide the Spending Clause's genuine-choice inquiry, impose a sanction, or alter Kansas or section 1396c. |
+
+This screen concerns Holston's actual supplied public decision only. It does not certify the content or effect of an uncompleted Rancho or Lomont decision. Each later case must still receive any subsequently completed earlier public law before final commitment and assembly, with affected-stage renewal if that law changes a material premise.
+
+## Hudson pre-opening regulatory chronology preserved
+
+The unchanged frozen `OT_2003CHUNK1_B_SOURCE_ADDENDUM.md` already incorporates the objective finalization of the detainee-information rule: 68 Fed. Reg. 4364–4367, published and effective January 29, 2003, adopting the April 2002 interim rule without amendment following the reported comment period. It supplies the exact finalization statement, interim rule, published interim good-cause explanation, delegation text and APA provisions. That is a pre-opening regulatory event. No OT2003 source-admission event is invented. The agency's assertion about final-rule efficacy remains an agency assertion; procedural validity, cure, mootness, retroactive effect and the lawful disposition of the actual request remain judicial questions. Holston changes none of those premises.
+
+## Exact supplied Holston Public Projection
+

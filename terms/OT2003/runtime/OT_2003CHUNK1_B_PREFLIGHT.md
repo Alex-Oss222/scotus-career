@@ -1,0 +1,113 @@
+# OT2003 chunk 1 cases 3–7: neutral preflight
+
+## Scope and receipt
+
+This is a neutral preflight addendum, prepared before independent modeling. It does not amend the approved `_NEUTRAL` split, select a disposition, assign a current vote, or constitute a Court action. Read it with the relevant case in `OT_2003CHUNK1_NEUTRAL.md`, that case's entering-law slice, and any subsequently supplied effective public-law addition. The materials establish the paths and source limits to be tested independently.
+
+Substantive inputs used: cases 3–7 of the neutral packet; the Current-Term Neutral Projection; the opening Holdings volumes, Standards and Tests and Standing State; the identified prior public output sections; and the date-eligible official regulatory and statutory sources identified in `OT_2003CHUNK1_B_SOURCE_ADDENDUM.md`. No private position, comparator, commitments, reconciliation, raw Decision Record or restricted personal material was opened. No repository-history operation was performed. The research returned no withheld Supreme Court disposition, reasoning or lineup in these five matters. The final Hudson regulation recites the supplied New Jersey lower judgment; that is not a Supreme Court comparator. Later search results outside the event cutoffs were not used.
+
+The opening baseline is processed through June 30, 2003. All nine Justices are seated, and the packet identifies no nonparticipation. The scheduled merits arrival is established by the controlling instruction; no missing petition, grant or Supreme Court docket number is made a blocker. An unsupplied earlier-dated matter in a later chunk supplies neither law nor a delay. Within this chunk, completed earlier law must be added at its actual effective date before later modeling.
+
+Exact Standards and Tests sections were generated with `tools/build_entering_law.py`. Exact Holdings sections, including decision dates and proposition-level coalitions, and relevant public topology and separate-writing sections were copied with that tool's `take_heading` function using `tmp/B_build_slices.py`. No long source passage was reconstructed from memory. The five slices are reading copies, not independent authority.
+
+## Readiness and dependency register
+
+| Case and event | Baseline readiness | Required chronological refresh |
+|---|---|---|
+| Rancho Viejo, February 5, 2004 | Ready to model the supported class-and-mechanism inquiry and available remand path. A final alternative-ground merits ruling requires the record-specific support described below. | Add the completed Holston public rule if effective; do not assume that an interstate contraband mechanism also exists for wildlife taking. Deaton supplies nothing unless actually completed and effective. |
+| Lomont, March 11, 2004 | Ready on the supplied official-injury and unconditional-refusal record. | Add any completed earlier law at its scope. Rancho's species-taking rule does not itself decide official standing or voluntary assistance. |
+| Environmental Defense Center, March 25, 2004 | Ready with the NEMA supplementation and exact rule text supplied below and in the source addendum. | Add completed Lomont for the distinction between actual legal duty and a real refusal option. The environmental own-operation question remains independent. Miccosukee supplies no rule unless actually completed and effective. |
+| ACLU of New Jersey v. County of Hudson, April 13, 2004 | Ready for modeling after control incorporates the objective January 29, 2003 finalization into the neutral event premises. The addendum supplies the delegation text, interim good-cause explanation, finalization and exact rule. | Add completed Lomont and EDC only at their actual scope. Center for National Security Studies is not presumed decided. |
+| West Virginia v. HHS, June 16, 2004 | Ready on the supplied facial record, Kansas's genuine-choice rule and the exact recovery/sanction provisions. | Add any actually completed earlier relevant law. Neither the date assigned to Sabri nor a pending criminal-funding question supplies a coercion holding. |
+
+These are baseline readiness findings. They do not freeze the entering law for later events or prejudge whether a newly completed earlier decision changes a material path. No factual reconstruction premise was adopted.
+
+## Rancho Viejo
+
+Slice: `../entering-law/OT_2003CHUNK1_RANCHO.md`.
+
+The packet correctly identifies section 9's enacted taking class and the Court's rejection of the development project's commercial features as sufficient by themselves. Home Builders is directly controlling, including its two distinct permissible mechanisms, material-support responsibility, independent constitutional eligibility review, substantial predictive latitude within an eligible mechanism, and remand rule. Sweet Home's actual injury, proximate-cause and permit qualifications remain statutory law; they do not supply a Commerce connection.
+
+The competing paths are application of the existing remand inquiry; sustainment on an actually supported eligible mechanism; and confined relief if the complete relevant record cannot support either mechanism. Absence of a demonstrated mechanism in this short packet does not prove that the Government's entire litigation or legislative record lacks one. A final sustainment must identify the actual interstate regime or externality, supporting material, territorial limitation where relevant, and statutory fit. A final rejection premised on an exhausted record requires support for that exhaustion. The currently supplied record suffices to assess whether the lower court's commercial-development ground leaves the existing Home Builders inquiry unresolved; it does not authorize the operator to invent a spillover, species market or evasion necessity.
+
+Material individual authorities, all in the June 8, 1998 Home Builders public output:
+
+| Justice | Public position that must be considered |
+|---|---|
+| Stevens | His dissent treats the habitat-altering construction itself as economic activity, distinguishing it from an owner's collateral purchases; he reserved other noneconomic applications. |
+| Souter | Joined Stevens's economic-application dissent, not the Court's class ruling or externality-remand rationale. |
+| O'Connor | Joined every controlling part and Kennedy's concurrence requiring a concrete interstate effect escaping ordinary territorial control; national uniformity alone is insufficient. |
+| Kennedy | Authored that concurrence and joined the full opinion; the territorial boundary supplies an inquiry, not a factual conclusion about a species. |
+| Scalia | Joined the enacted-class ruling and necessary-regime route, rejected the independent ecological-externality route, and sought confined relief on the grounds offered. |
+| Thomas | Joined Scalia's distinct class/regime agreement and externality/remand disagreement. |
+| Ginsburg | Joined Breyer's economic-application objection but affirmatively adopted both mechanisms, material-support rule and remand once the controlling class ruling supplied the premise. |
+| Breyer | Authored that partial concurrence/dissent; scientific uncertainty or an inadequate lower determination does not itself prove absence of a supported mechanism. |
+
+The individual assessment must address these positions and the different present record; it must not mechanically reproduce the prior judgment coalition.
+
+## Lomont
+
+Slice: `../entering-law/OT_2003CHUNK1_LOMONT.md`.
+
+The packet properly separates concrete official injury from unauthorized representation of a State and from the ultimate answer whether a federal command exists. Printz's unanimous official-injury holding and Raines's limited institutional-dilution holding supply the standing framework. The officials' nonfrivolous asserted work burden and requested relief must be assessed independently of the merits conclusion. The private applicants' certification difficulty is not the officers' injury; private standing need not be resolved if the officials support the identical relief.
+
+The supplied historical certification arrangement permits unconditional refusal without a federal penalty. Constituent pressure is supported, but no hidden federal sanction, mandatory investigation or reimbursement claim is supplied. The merits paths are an actual freedom-to-refuse analysis or a different conclusion only on an established legal burden; no path permits inventing a command or a compensation entitlement. A jurisdictional dismissal requires an independent Article III reason rather than merely repeating that the merits fail.
+
+Printz's June 27, 1997 public positions supply the material individual fork. Souter authored the five-Justice limited temporary-assistance rule and alone advanced a fair-value reason for fiscal remand. Stevens, Ginsburg and Breyer joined the assistance rule and would sustain the limited duties without a constitutional payment condition; Breyer additionally explained why coordinated execution may preserve state autonomy. O'Connor's structural writing, joined by Scalia, Kennedy and Thomas, opposed compulsory state executive implementation but did not adjudicate genuinely voluntary applications. O'Connor separately preserved voluntary participation and federally funded contractual cooperation; that additional qualification was hers alone. Condon's unanimous own-activity holding confirms that these same eight distinguish compliance with direct regulation from administering a federal program against others. The narrower optional-certification setting must be tested against each actual position.
+
+## Environmental Defense Center
+
+Slice: `../entering-law/OT_2003CHUNK1_EDC.md`. Exact sections 122.33 and 122.34: `OT_2003CHUNK1_B_SOURCE_ADDENDUM.md`, Environmental Defense Center section.
+
+The facial constitutional questions concern municipal storm-sewer operations, an available individual permit, and the actual public-information requirements. The distinct general-permit administrative remands remain undisturbed. The January 2003 vacated circuit opinion is not substituted for the September 15, 2003 opinion supplied by the packet.
+
+Section 122.33(b)(2)(ii) allows an individual application for a program different from section 122.34 through section 122.26(d). It permits omission of specified legal-authority application information unless the applicant wants that information considered; it does not guarantee a particular final permit. Section 122.34(a) makes the minimum controls inapplicable to that application route. Some minimum measures address third parties, and their actual state-law limitations and separate exceptions must be retained. Guidance is distinguished from commands. The public education provision permits distribution of educational materials or equivalent outreach about stormwater impacts and public pollution-reduction steps; the illicit-discharge provision requires information about hazards of illegal discharges and improper disposal. A lawful optional route cannot be inferred merely from administrative labeling, and an information obligation does not become ideological merely because it requires communication.
+
+Material omitted authority supplied here: National Electrical Manufacturers Association v. Sorrell, March 17, 2003, and the exact standard **Compelled factual commercial disclosures for health and environmental protection**. Kennedy's Part I, joined by all eight Associates, permits truthful noncontroversial commercial product/hazard information reasonably related to a substantial health or environmental purpose, subject to justification and undue-burden limits, without separate consumer-deception proof. This is a bounded product-and-hazard rule, not a holding that municipal operating communications are commercial speech or that every useful public message is valid. Any extension must explain that difference and the actual function, content, attribution and burden.
+
+For federalism, the Printz public disagreements identified for Lomont and the unanimous Condon own-activity rule are directly material. For expression, the eight individual positions are anchored as follows:
+
+| Justice | Public writing or join |
+|---|---|
+| Stevens | Joined Glickman's bounded integrated-program permission and United Foods's independent-function limitation; separately reserved different health, safety and artistic purposes. Joined NEMA's defined disclosure rule. |
+| O'Connor | Authored Glickman and joined Breyer's United Foods dissent applying justified commercial-speech scrutiny; joined NEMA. |
+| Scalia | Joined Souter's Glickman dissent on compelled subsidy and commercial scrutiny, Thomas's compelled-financing objection, and the United Foods Court opinion; joined NEMA's disclosure rule in full. |
+| Kennedy | Joined Glickman and United Foods; authored NEMA's bounded disclosure rule. |
+| Souter | Authored Glickman's dissent distinguishing a justified representative function from useful publicity; joined United Foods and NEMA. |
+| Thomas | Rejected reduced protection for compelled financing in Glickman and his United Foods concurrence, while authoring United Foods's narrower Court rule; nevertheless joined NEMA's actual factual-disclosure rule. |
+| Ginsburg | Joined Glickman and Breyer's United Foods commercial-scrutiny dissent; joined NEMA. |
+| Breyer | Joined Glickman and authored the United Foods dissent requiring a substantial interest, direct advancement and reasonable fit; joined NEMA. |
+
+Neither the agricultural assessments nor municipal status alone resolves the speech question. The strongest different paths concern a justified operational-information requirement versus compelled endorsement or an unjustified burden, and an operative own-discharge alternative versus an illusory third-party-administration choice. No general municipal-personhood ruling or funding entitlement is required by the supplied questions.
+
+## County of Hudson
+
+Slice: `../entering-law/OT_2003CHUNK1_HUDSON.md`. Exact source text and receipt: `OT_2003CHUNK1_B_SOURCE_ADDENDUM.md`, Hudson section.
+
+The source supplement materially completes the packet. The 2002 interim rule took effect April 17, 2002, was published April 22, and invoked both APA section 553(b)(B) and section 553(d)(3). The final rule was published and effective January 29, 2003, following the reported 60-day comment period, and adopted the interim text unchanged. That finalization predates the opening law and the scheduled event. It must be included as objective regulatory chronology before modeling; it is not a new OT2003 Court action. The agency's assertion that finalization resolves a prior procedural defect is preserved as an agency assertion, not an adopted legal conclusion.
+
+The delegation inquiry concerns the combined immigration-administration, record-control, rulemaking and contracted-detention powers identified in the official text. Voluntary contracting does not create absent statutory authority. The rule reaches public and private custodians holding detainees on the Service's behalf and related official or contractual information holders; it channels public disclosure through applicable federal law rather than creating a universal exemption from federal disclosure law. Its pending-request clause does not itself establish lawful retroactive effect. It does not restrict detainees' own identification or communication, and no detainee-rights merits or unappealed common-law-access claim is added.
+
+The exact good-cause statement supplies the claimed risks: exposure of investigative methods, sources, witnesses and investigative direction; intimidation and retaliation; impaired cooperation; and the stated need for immediate control during the continuing emergency. These are the agency's published reasons. The packet does not establish that each detainee possesses sensitive information, that every federal access request may be denied, or that litigation urgency automatically dispenses with APA requirements. The notice-and-comment exception and the thirty-day effectiveness exception are separate provisions and must be tested separately. The final rule's unchanged text and comment consideration add a prospective procedural issue; no automatic cure, mootness, reversal or affirmance follows.
+
+All eight Associates joined Condon's own-records distinction. Printz supplies their differing compulsory-assistance positions, with O'Connor's express voluntary-contract reservation particularly relevant. For agency authority, Mead's June 18, 2001 opinion provides exact support: Kennedy, Stevens, O'Connor, Souter, Thomas, Ginsburg and Breyer joined the requirement of an actual congressional force-of-law delegation exercised through the relevant mechanism. Scalia's public dissent favored controlling treatment of an official reasonable interpretation when the statutory scheme actually delegates; official endorsement alone did not supply delegation even in his account. Thus no Justice's path can be supported merely by an agency's assertion of national importance or its litigating endorsement. Formal rulemaking and the detention/records provisions distinguish Hudson from Mead's informal letter; that difference is for independent application, not a preflight conclusion.
+
+The live paths include valid delegated conflict preemption within voluntary federal custody; a delegation or procedural defect with the remedy the surviving law permits; and a narrower ruling distinguishing unrelated sovereign records. Finalization must be addressed before treating an interim-rule defect as sufficient for prospective disclosure. The existing source record supports these forks without inventing a new filing, waiver or conceded cure.
+
+## West Virginia v. HHS
+
+Slice: `../entering-law/OT_2003CHUNK1_WVHHS.md`. Exact recovery and sanction provisions: `OT_2003CHUNK1_B_SOURCE_ADDENDUM.md`, West Virginia section.
+
+Kansas v. United States, January 22, 2001, supplies a unanimous opinion by O'Connor joined by all eight other Justices. Each Associate therefore has a concrete prior public commitment to genuine practical choice, the distinction between financial/political difficulty and compulsion, competent qualitative as well as quantitative support, no fixed fiscal percentage or insolvency threshold, and no categorical reliance on the voluntary-program label. The Kansas statutory graduated sanctions and exemption are specific to that program; they are not Medicaid limits. The Printz disagreements concern compulsory executive work and establish no general reimbursement condition for grant programs.
+
+The statutory excerpt supplies the complete relevant recovery categories and qualifications, including the survivor timing restrictions, dependent-child protection, separate home-lien occupants, mandatory undue-hardship procedures with the long-term-care exception, and mandatory versus optional estate inclusions. These provisions are not findings about particular beneficiaries. Section 1396c requires reasonable notice and an opportunity for hearing, then a specified noncompliance finding; the Secretary may limit payments to unaffected categories or parts instead of stopping further payments until satisfied of compliance. It supplies no administrative-funds-only ceiling. The hardship exemption for an estate and discretion concerning a State's sanction are different provisions.
+
+The packet supports analysis of the actual facial challenge and threatened all-or-part statutory sanction, not a completed total cutoff. The competing paths are failure of the facial showing while retaining concrete-sanction review, or a different conclusion based on a supported present demand that leaves no genuine practical choice. The Government must not obtain a categorical voluntary-label rule, and the State must not obtain a presumed total-cutoff fact. A source omission is not a finding that the State failed to litigate or submit evidence. No presently supplied figure establishes the State's total resources, feasible exit costs or an imposed sanction. A broad construction limiting the Secretary to administrative funds is unsupported.
+
+## Validation and remaining limits
+
+The slices preserve exact standard titles, effective authorities and dates; the copied Holdings preserve proposition coalitions and limitations. Public-position extracts contain actual prior holdings, joins and selected published grounds, not ideological descriptions. The source addendum quotes only script-copied official passages and distinguishes enacted requirements, agency assertions, objective finalization and lower-court facts. Saved source files and generated slices were screened for prohibited provider tokens and local-machine links. No approved brief or runtime neutral split was edited.
+
+Original petitions, briefs, appendices, transcripts and complete lower opinions were not newly retrieved. The supplied neutral record and controlling/public authorities suffice for the bounded paths identified; this receipt does not claim possession of those originals. Escalation is path-specific: Rancho final merits findings about an exhausted mechanism record; EDC a challenge to a particular later permit or materially different compelled message; Hudson an application outside contracted records or a final-rule procedural claim requiring filings not supplied; West Virginia a finding about an actual sanction or practical inability to exit. None may be filled with invented evidence, a default ruling or an operator-driven production order.
+
+Before each independent model begins, control must freeze the relevant source addendum with the unchanged approved neutral case and refresh completed earlier public law. Hudson's finalization is the sole new objective regulatory chronology item identified here. No broad docket revalidation or repeat research is required merely because a scheduled earlier event in a later chunk remains unsupplied.

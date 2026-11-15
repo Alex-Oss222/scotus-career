@@ -1,0 +1,50 @@
+# OT2003 chunk 1: Hudson entering-law refresh after EDC
+
+## Authorized handoff and readiness
+
+**Hudson is ready for the independent assessment of the actual current-law effect.** Its merits date is April 13, 2004. This refresh incorporates the actual Environmental Defense Center decision effective March 25, 2004; Lomont, March 11, 2004; Rancho Viejo, February 5, 2004; and Holston, October 30, 2003, at their stated scopes. The completed EDC Public Projection is copied exactly below from `runtime/OT_2003CHUNK1_EDC_PUBLIC.md`. Earlier exact public copies and scope screens remain in the frozen current EDC refresh and Rancho refresh. No private draft, commitment, comparator, reconciliation, Section II or raw Record/audit was read.
+
+Use the approved neutral Hudson entry; `entering-law/OT_2003CHUNK1_HUDSON.md`; the Hudson and common B preflight sections; `freeze/OT_2003CHUNK1_B_SOURCE_ADDENDUM.md`; and `freeze/OT_2003CHUNK1_HUDSON_FINAL_RULE_ADDENDUM.md`, which supplies the entire January 29, 2003 final notice and all comment responses. Add this current-law refresh. The preparation supplies no judicial result, vote, reconstructed filing or waiver. Earlier frozen handoffs remain unchanged. Demore supplied no new decision or law, and unsupplied earlier-dated events in later chunks supply neither law nor a blocker.
+
+## EDC's actual federalism rule and Hudson's distinct inquiry
+
+EDC's unanimous opinion by Souter permits direct regulation of a municipality's own covered discharges with an optional third-party-management route where a lawful and actually available direct-compliance alternative exists. The Government must identify that operative alternative when relying on choice; the challenger may show it is illusory. Ordinary costs of valid own-operation regulation do not become federal-assistance reimbursement claims. The opinion preserves the difference between actual permit obligations and application requirements, and between direct operation and compelled regulation of third parties. Its result does not depend on sewer ownership alone.
+
+Those propositions are material authority for classifying Hudson's actual voluntary custody and information arrangement, but they do not establish the validity of section 236.6. Hudson does not concern optional management of third-party pollution or a permit application. The relevant questions remain whether Congress authorized the confidentiality restriction and the agency validly adopted it; what records and actors the rule actually reaches; whether the rule regulates a voluntarily accepted federal custody operation rather than requiring county legislation or federal enforcement against unrelated persons; and which state disclosure requirement conflicts with valid federal law. The existence of a voluntary contract, the work needed for confidentiality compliance, and federal interest in the program do different legal work.
+
+If the Government relies on voluntary participation, its asserted choice must be supported by the actual relationship and legal consequences. EDC does not require a contractor to be free to disregard every valid condition while continuing the covered operation. Nor does it authorize an agency to create a confidentiality power absent from the statute or avoid the APA by describing secrecy as operational. An identified lawful regulatory object is a premise to applying the own-operation distinction, not a conclusion that follows from it. The actual limited contractual-record setting must not become a power over unrelated county records or every local transparency obligation.
+
+## Lomont and the individual public authorities
+
+Lomont's unanimous Scalia opinion distinguishes an officer's own concrete injury from unauthorized representation, and establishes genuine voluntariness for applicant certification with unconditional refusal and no federal penalty, compulsory investigation or substitute work. It preserves direct own-activity regulation, bounded compulsory assistance, actual statutory delegation and the absence of a majority Printz reimbursement rationale.
+
+Hudson's plaintiff is the information requester; Lomont and EDC's official-injury holdings do not themselves establish that requester's standing or a new municipal-speech question. Their own-operation and actual-choice reasoning may inform the structural defense only at its proper scope. An unconditional option to decline future applicant assistance does not create a right to disclose protected information already received in a valid federal custody relationship. The saved notice's statement that providers may take steps to terminate their relationship is an agency assertion in the record, not permission to infer particular termination terms, immediate release obligations or the fate of retained records.
+
+All eight Associates join both complete EDC holdings and explanations. All eight likewise joined Lomont's two holdings. Those public commitments require attention to genuine alternatives, actual legal consequences, valid own-operation compliance and the separate statutory source. They do not erase the earlier Printz differences or predict any Justice's statutory-delegation, good-cause, final-rule or preemption conclusion in Hudson. The baseline Mead authorities retain their independent work on actual delegation.
+
+## EDC's speech rule does not resolve Hudson confidentiality
+
+EDC adopts a distinct, bounded permission to require truthful nonideological information serving an independently lawful pollution-control operation, supported by a substantial purpose, direct practical fit, confined obligation, meaningful flexibility and justification/burden limits, with independent criticism preserved. It assumes the claimed municipal protection for deciding the supplied facial challenge.
+
+Section 236.6 instead limits a custodian's public disclosure of federal detainee information and channels requests through applicable federal law. EDC's permission to require specified operational information does not itself authorize suppression, create a federal disclosure exemption, determine any FOIA application, validate the underlying detentions, or resolve a preserved access claim. The broad constitutional assertions appearing in the agency's final notice remain arguments and do not enlarge the judicial grant. No presumed agreement or generic operational purpose replaces the actual delegation, procedural and preemption analysis.
+
+## Regulatory chronology and APA branches retained
+
+The interim notice states April 17, 2002 effectiveness and separately invokes sections 553(b)(B) and 553(d)(3). The January 29, 2003 final notice reports four comments during the 60-day period, responds by subject matter, adopts the interim rule unchanged and states same-day final effectiveness. The entire notice and the exact statutory text are already frozen. EDC changes neither that objective chronology nor any APA requirement.
+
+Finalization is a pre-opening regulatory event. This refresh creates no new source-admission event. The agency's assertion that the final rule governs even if the interim rule was defective is not a judicial cure, mootness or remedy holding. Interim good cause, comment consideration, the final notice's actual effective-date explanation, lawful prospective operation and any issue about an earlier disclosure obligation retain their distinct predicates and preserved scope. An analysis sustaining the interim rule differs from one relying on independent final operation despite an interim defect. Neither may invent a missing explanation, concession or litigation event.
+
+## Rancho and Holston screen
+
+Rancho's enacted wildlife-taking class, supported interstate mechanisms and existing-record remedy, and Holston's supported actual-image supply mechanism, supply no new confidentiality delegation, preemption, APA, contractor-duty or Spending Clause holding. Their insistence on a supported legal connection does not substitute for construction of the actual custody-and-records statutes. Their different public joins are preserved for relevant Commerce questions and are not generalized into a Hudson coalition. They require no material change to Hudson's identified legal paths.
+
+## Actual EDC screen for West Virginia v. HHS
+
+EDC is relevant as an analogy distinguishing real choice from a label and ordinary costs of valid operation from compelled-assistance reimbursement. It does not replace Kansas's unanimous genuine-practical-choice rule for conditional spending. A Medicaid State faces the actual statutory possibility of all-or-part withholding after the prescribed proceedings; it does not have Lomont's penalty-free refusal, and a municipal direct-discharge alternative is not proof that Medicaid exit is practicable.
+
+The Government cannot use EDC to treat every burden within a funded program as valid own-operation regulation or to avoid assessing threatened funding consequences. The State cannot use ordinary operating expense alone as a new compensation entitlement. The facial record, absence of a selected withholding sanction, section 1396c's discretion concerning unaffected plan categories, the absence of an administrative-funds-only cap, and Kansas's qualitative as well as quantitative actual-choice inquiry remain intact. EDC's operational-information rule supplies no answer to estate recovery or coercion.
+
+**Material-change finding:** EDC supplies additional authority to consider for Hudson's structural classification and a limited analogy for West Virginia, but changes no Hudson delegation or APA rule and no West Virginia governing funding test or supplied factual predicate. Those components remain available for their independently supported paths. Any prior provisional baseline assessment must acknowledge the actual new authority and preserve its limits; it must not infer a changed result from the new citation alone. The completed Hudson decision, if effective before June 16, 2004, must still receive its own West Virginia applicability screen.
+
+## Exact EDC Public Projection
+

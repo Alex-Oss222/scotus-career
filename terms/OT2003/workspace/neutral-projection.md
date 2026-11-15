@@ -4,13 +4,85 @@
 
 The opening law is the coordinated OT2002 tracker publication, processed through June 30, 2003 after all 185 completed Court events, edition November 14, 2026: [Holdings doctrinal index](../../../state/holdings/INDEX.md), [Holdings compatibility view](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), and [Standing State](../../../state/STANDING_STATE.md). The 23 doctrinal volumes and continuous view are synchronized. These repository trackers control over descriptions of other source files in the supplied index. The divergence point is October 7, 1991, when Chief Justice Alex-Lamar Stone-Zsela replaced Rehnquist.
 
-No OT2003 event has been decided or source change admitted. No current-term controlling law or material published noncontrolling position has been added. The baseline retains the trackers' complete operative rules, qualifications and unresolved questions; no doctrinal summary here replaces them. Relevant prior public positions must come from public writings and prior-term output, subject to the event's date limit.
+Completed current-term Records supplement the opening baseline only from their effective dates, as listed below. The opening trackers retain all other operative rules, qualifications and unresolved questions. Records control over this projection. Prior public positions remain available from the authorized public writings within each event's date limit.
+
+## Effective current-term law
+
+Only completed law effective before the event being modeled applies. The following public summaries are copied from the controlling Records; their full Holdings and Precedent Treatment supply the precise authority and qualifications.
+
+### United States v. Holston; Second Circuit No. 02-1292; judgment below reported at 343 F.3d 83.
+
+Effective 2003-10-30. [Controlling Record](../records/united_states_v_holston_merits_2003-10-30.md#public-projection).
+
+Effective October 30, 2003, the supported necessary-inclusion doctrine sustains the defined local production class when actual-child-abuse images constitute the reproducible, concealable and substitutable supply of the identified interstate prohibition. Lower courts must identify the regime and require material support for the production class's anti-evasion or material-impairment relationship, independently examine constitutional eligibility and fit, and give Congress latitude on supported empirical judgments. Proof of an individual interstate sale is unnecessary to that established class-and-regime ground. The statutory materials-movement element continues to govern the prosecution independently.
+
+This decision adds a controlling application to the existing rule. Lopez's connection requirement, Home Builders's support obligation and Griffin/Langley's separation of statutory nexus from constitutional authority retain their force. The equipment-only theory is insufficient; the supported production mechanism sustains the challenged application.
+
+Public procedure: The mandate issues in the ordinary course. The lower court implements the affirmed judgment; the conditional plea and conviction remain effective, and any independently live sentencing proceedings retain their existing scope. The Supreme Court's merits review of the reserved constitutional challenge is concluded.
+
+### Rancho Viejo, LLC v. Norton; D.C. Circuit No. 01-5373; judgment below reported at 323 F.3d 1062.
+
+Effective 2004-02-05. [Controlling Record](../records/rancho_viejo_llc_v_norton_merits_2004-02-05.md#public-projection).
+
+Effective February 5, 2004, the Home Builders class-and-mechanism rule continues to govern equivalent intrastate-taking applications involving commercial projects. Courts must identify and materially evaluate either supported necessary inclusion in a valid interstate regime or a substantial interstate externality satisfying the cross-border, territorial-control and fit requirements. The Government's support responsibility, independent judicial inquiry and bounded legislative latitude remain unchanged.
+
+The commercial-project rationale cannot alone sustain this application. The lower courts must resolve its constitutional validity through the existing-record inquiry and enter relief according to the supported mechanism or its absence. This decision applies the existing doctrine without creating a new Commerce category; the unresolved work concerns the record's support and the resulting application-specific judgment.
+
+Published separate positions:
+
+**Stevens, dissenting, joined by Souter.** They would affirm because the activity directly producing the alleged habitat injury is commercial housing construction and land conversion. Sweet Home identifies that physical habitat alteration as the conduct reached by the taking prohibition. The dissent therefore looks to the actual economic application, rather than to the developer's collateral equipment purchases or a generalized claim that species preservation benefits the national economy.
+
+Wickard and Perez permit class-wide regulation of connected economic activity, and Hodel v. Virginia Surface Mining & Reclamation Association permits regulation of economic land use for environmental ends. On that reasoning, the actual construction supplies a sufficient economic connection without a market in the toad or a newly found ecological spillover. The dissent accepts the continuing statutory requirements of actual habitat-caused injury and ordinary causation; its proposed affirmance concerns the Commerce Clause challenge.
+
+Home Builders's contrary enacted-class holding directly obstructs this ground. Stevens and Souter would reconsider it to the extent it excludes reliance on the actual injury-producing economic activity in this application. They regard treating the prohibition's broader coverage as a reason to disregard this commercial application as a mistaken class inquiry. They neither claim that their earlier dissent already controls nor distinguish Home Builders through a new factual premise. Their ground would leave this judgment effective and make the mechanism remand unnecessary; it would not make every noneconomic taking an economic activity.
+
+Public procedure: The mandate returns the case through the D.C. Circuit for the lower courts to determine the invoked mechanism, its support in the existing legislative and adjudicative record, its constitutional eligibility and its fit, and to enter an enforceable judgment under the stated alternatives. The statutory taking prohibition remains operative. Any interim protection requires the ordinary equitable showing. The Supreme Court's present review concludes with its mandate; the constitutional inquiry remains pending below.
+
+### Lomont v. O’Neill; judgment below reported at 285 F.3d 9 (D.C. Circuit).
+
+Effective 2004-03-11. [Controlling Record](../records/lomont_v_oneill_merits_2004-03-11.md#public-projection).
+
+Effective March 11, 2004, officers presenting a concrete, traceable and redressable challenge to federal burdens on their own work may litigate without separate authorization to represent the State. The official-injury inquiry remains distinct from whether the challenged measure imposes an unconstitutional command.
+
+Federal certification arrangements of this kind remain voluntary when officers can refuse unconditionally without federal penalty, compelled investigation or substitute work. Courts examine legal consequences and actual enforcement, with the challenger required to identify an actual command or adverse federal consequence; constituent pressure alone does not supply one. This decision adds a controlling application of official-injury and genuine-choice principles. The existing bounded compulsory-assistance rule, its unresolved fiscal rationale and Condon's direct state-activity rule retain their distinct scope.
+
+Public procedure: The mandate issues in the ordinary course, leaving the challenged certification arrangement effective against the granted constitutional attack. Officers remain free to decline certification without federal sanction. The Supreme Court's review of the granted questions is concluded.
+
+### Environmental Defense Center, Inc. v. United States Environmental Protection Agency; judgment below reported at 344 F.3d 832 (Ninth Circuit).
+
+Effective 2004-03-25. [Controlling Record](../records/environmental_defense_center_v_epa_merits_2004-03-25.md#public-projection).
+
+Effective March 25, 2004, municipal own-discharge regulation may employ the challenged permit architecture when a lawful and actually available route permits direct compliance without compulsory administration of third-party rules. Government must identify that route when relying on choice; an operator may show it to be illusory. Ordinary costs of valid own-operation compliance are not converted into assistance reimbursement claims. Application requirements and final permit obligations remain distinct, and the retained administrative remands continue to govern permitting.
+
+The decision also establishes a confined operational-information application: factual pollution-impact, reduction and disposal-hazard information may be required within the independent physical function, substantial purpose, direct practical fit, flexibility and justification-and-burden limits stated in Holding II. This governing permission extends beyond automatic classification as commercial product speech while retaining the compelled-belief and independent-criticism protections. The validity of a materially different final message, burden or permit condition is assessed under those existing limits on its own record.
+
+Public procedure: The ordinary mandate affirms the two constitutional rulings. EPA must retain lawful access to the alternative permitting route and comply with the existing general-permitting, notice-of-intent and public-review, and forest-road remands. The lower court and agency continue that independent administrative work. The Supreme Court's review of the granted constitutional questions is concluded.
+
+### ACLU of New Jersey v. County of Hudson; Appellate Division No. A-4100-01; 352 N.J. Super. 44, 799 A.2d 629.
+
+Effective 2004-04-13. [Controlling Record](../records/aclu_of_new_jersey_v_county_of_hudson_merits_2004-04-13.md#public-projection).
+
+The decision establishes the validity, against the presented delegation, interim APA and structural challenges, of federal control over public disclosure of information acquired through voluntarily accepted paid federal immigration custody. Contrary state disclosure requirements yield for that covered information. Each good-cause exception retains its own statutory predicate and published justification. The holding’s reach follows the custodial source and information category, while applicable federal disclosure channels and ordinary processing of separable unprotected material remain operative.
+
+Public procedure: The mandate implements the affirmed appellate judgment. The counties continue administering covered information under §236.6 and separately available access law, with any coverage question resolved by its identified category and legal ground. Supreme Court review of the granted federal questions is concluded.
+
+### West Virginia v. U.S. Department of Health & Human Services; judgment below, 289 F.3d 281 (4th Cir. 2002).
+
+Effective 2004-06-16. [Controlling Record](../records/west_virginia_v_us_department_of_health_and_human_services_merits_2004-06-16.md#public-projection).
+
+Medicaid estate recovery remains an operative funding condition within its mandatory and optional categories, survivor protections, hardship waiver and estate limits. Section 1396c’s all-or-part mechanism survives this facial challenge, with its required procedure, findings, notification and endpoint intact. Enforcement remains subject to Kansas’s genuine-practical-choice rule: an actual credible threatened or imposed funding consequence can be challenged on its scope, notice and practical effects, including competent qualitative evidence. Statutory discretion supplies lawful possible applications and remains reviewable when exercised or credibly threatened.
+
+Published separate positions:
+
+**Chief Justice Stone-Zsela, concurring.** He joins the Court’s complete opinion and the facial affirmance. He adds that review must provide effective relief: a court acting through an available channel must promptly restrain an established coercive sanction. A timely challenge to an actual or sufficiently imminent consequence must examine the threatened funds, notice and practical effects under Kansas. This additional remedial qualification explains how he would give effect to the preserved coercion limit; it does not alter his vote to affirm the present judgment.
+
+Public procedure: The mandate leaves the estate-recovery condition effective and returns the case for ordinary implementation of the affirmed judgment. HHS may administer the condition through lawful enforcement under the enacted procedures and the controlling genuine-choice rule. Supreme Court review of this facial challenge is concluded.
 
 ## Chronology and manifest
 
-The [manifest](manifest.md) contains 119 scheduled events in eight chunks and four separately preserved undated original actions. The chronology cursor remains at the opening baseline through 2003-06-30, before Demore v. Kim, No. 01-1491, on 2003-10-14. Roeder v. Islamic Republic of Iran on 2004-06-30 is the final scheduled inventory event. No anticipated event is a completed action.
+The [manifest](manifest.md) contains 119 scheduled events in eight chunks and four separately preserved undated original actions. The latest completed event currently has effective date 2004-06-16; this does not decide any earlier-dated matter assigned to a later presentation chunk. Roeder v. Islamic Republic of Iran on 2004-06-30 is the final scheduled inventory event. No anticipated event is a completed action.
 
-The inventory retains the user's presentation order, numbering and chunk membership. Chunk 1 contains seven matters dated October 14, 2003 through June 16, 2004; chunks 2–8 contain sixteen each. Presentation order does not advance the chronology cursor. Every event uses only law effective before its own event date, including applicable earlier current-term Records, and never law from a later-dated event already encountered in a presentation chunk. Process and validate events by effective date across chunk boundaries; complete the intervening earlier-dated work before adjudicating a later event whose entering law could depend on it. Preparation of a chunk does not freeze entering law for the entire chunk.
+The inventory retains the user's presentation order, numbering and chunk membership. Chunk 1 contains seven matters dated October 14, 2003 through June 16, 2004; chunks 2–8 contain sixteen each. Presentation order does not advance the chronology cursor. Every event uses only law effective before its own event date, including applicable earlier current-term Records, and never law from a later-dated event already encountered in a presentation chunk. Chunks are processed in presentation order. Within a chunk, events are processed by effective date. An earlier-dated event in a later chunk that has not been decided supplies no law and does not delay the present event. A completed Record applies only to events after its effective date; any material effect of a later-completed earlier event is assessed when that event is supplied. Preparation of a chunk does not freeze entering law for the entire chunk.
 
 All uncoordinated matters on the same date use the common pre-date entering-law baseline; their decisions combine only prospectively. No same-day dependency is established merely by row order or processing order. This rule includes December 15, 2003 across chunks 2–3 and June 21, 2004 across chunks 7–8. Any expressly coordinated action requires a supported sequence before a different same-day baseline is used.
 
@@ -109,4 +181,8 @@ The retained source limit in Planned Parenthood of the Rocky Mountains Services,
 
 No opening conflict or missing inventory item is identified. Refresh this projection and the event's entering-law slice from effective law before modeling. An unestablished case-specific participation question must be verified at Run; it is not supplied by historical practice alone. Inventory labels establish scheduling only. Opening adds no judgment, rationale, remedy or voting commitment.
 
-The projection contains only opening law, public procedure, roster, allotments, chronology and neutral schedule information. No private position, comparator, provisional commitment, reconciliation or audit annex is included. Opening legal cutoff is June 30, 2003; event-date external research has not yet been performed.
+The projection contains opening law and completed public current-term law, published separate positions, public procedure, roster, allotments, chronology and neutral schedule information. No private position, comparator, provisional commitment, reconciliation or audit annex is included. The opening legal cutoff is June 30, 2003. Each completed event retains its own decision-date cutoff and source limits; the latest completed date supplies no authority for an earlier event.
+
+## Current pending reargument
+
+Demore v. Kim remains pending on reargument under the April 29, 2003 restoration order. The existing conditional judgment and bond release remain effective; no OT2003 decision in that case supplies law.

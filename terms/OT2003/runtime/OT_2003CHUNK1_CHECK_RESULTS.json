@@ -1,0 +1,35 @@
+{
+  "scope": "OT2003 chunk 1 Run checks after final audit and validation preservation; repository history verification deferred by instruction",
+  "checks": [
+    {
+      "command": "python -B tmp/ot2003_run_no_git.py check",
+      "status": "fulfilled",
+      "exit_code": 0,
+      "output": "OK: direct inventory comparison covers all 119 rows and all eight identity fields\r\nDEFERRED: all Git object and history verification; it is not included in this check result\r\nOK: non-Git checks only for OT2003; 0 deferred commit reference(s)\r\n"
+    },
+    {
+      "command": "python -B tmp/ot2003_chunk1_verify.py",
+      "status": "fulfilled",
+      "exit_code": 0,
+      "output": "{\r\n  \"records\": 6,\r\n  \"freezes\": 40,\r\n  \"generated_text_files_checked\": 150,\r\n  \"errors\": []\r\n}\r\n"
+    },
+    {
+      "command": "python -B tmp/ot2003_check_links.py",
+      "status": "fulfilled",
+      "exit_code": 0,
+      "output": "{\r\n  \"local_links_checked\": 195,\r\n  \"errors\": []\r\n}\r\n"
+    },
+    {
+      "command": "python -B tmp/ot2003_final_integration.py",
+      "status": "fulfilled",
+      "exit_code": 0,
+      "output": "{\r\n  \"scheduled_statuses\": {\r\n    \"completed\": 6,\r\n    \"stopped\": 1,\r\n    \"open\": 112\r\n  },\r\n  \"records\": 6,\r\n  \"errors\": []\r\n}\r\n"
+    },
+    {
+      "command": "python -B tmp/ot2003_chunk1_boundaries.py --check",
+      "status": "fulfilled",
+      "exit_code": 0,
+      "output": "{\"protected_files\": 56, \"changed\": []}\r\n"
+    }
+  ]
+}
