@@ -122,46 +122,47 @@
 
 ## A. STATUS
 
-* **Approval Status:** Proposed and Approved. Stone has directed preparation of . That direction approves the drafting approach, not every newly formulated holding, burden, or remedial instruction below.
+* **Approval Status:** Approved. The user approved this complete supplement, including every holding, burden, remedial instruction, fallback and accommodation below.
 
-* **Approval Date or Turn:** Not applicable to this complete supplement.
+* **Approval Date or Turn:** The user's approval of this revised supplement for the October 2003 reargument.
 
 * **Current-Through Baseline:** June 30, 2003. The April 29, 2003 restoration for reargument did not establish a merits holding. *Demore* is the first merits event of October Term 2003, scheduled for October 14, 2003, following reargument on October 6.
 
 * **Conditions:**
   1. Preserve Stone's previously approved two-gate approach: meaningful review of genuinely contested statutory inclusion and independent review when continued detention loses its reasonable relationship to diligent removal proceedings.
-  2. Preserve Stone's preferred governmental clear-and-convincing burden. Permit a proposed fallback to a governmental preponderance burden, not a transfer of the burden of persuasion to Kim.
+  2. Preserve Stone's preferred governmental clear-and-convincing burden. Permit the approved fallback to a governmental preponderance burden, not a transfer of the burden of persuasion to Kim.
   3. Keep Kim's existing $5,000 bond and conditional habeas relief effective unless modified through the process specified in the judgment.
   4. Treat the two-gate rule and the proof provisions as Stone's proposed law, not as holdings already adopted by the Simulation Court.
-  5. Under , assemble agreement separately on jurisdiction, inclusion, duration, hearing procedure, and judgment. Count a Justice only for a proposition and remedy that Justice actually accepts. Separate majorities on abstract propositions do not establish a five-vote judgment unless their instructions are legally compatible.
+  5. Assemble agreement separately on jurisdiction, inclusion, duration, hearing procedure and proof, and judgment and mandate. A Justice may join one proposition without joining the rest, and such a join supports only that proposition. Count a Justice only for a proposition and remedy that Justice actually accepts. Separate majorities on abstract propositions do not establish a five-vote judgment unless their instructions are legally compatible. If five Justices accept the operative hearing remedy but disagree on whether the statutory-inclusion or constitutional-duration ground controls, the judgment must state the legal duties a lower court can enforce and the votes supporting each controlling instruction; a common disposition that conceals incompatible custody standards is not permissible.
+  6. Accommodation order: (1) seek Stone's complete judgment with governmental clear-and-convincing proof; (2) if that quantum prevents five compatible votes, offer the governmental-preponderance formulation without reducing Kim's hearing protection; (3) permit narrower joins to the jurisdictional, coverage, or duration propositions, with Stone's separate reasoning retained wherever the Court does not adopt it; (4) if no five Justices support an effective individualized hearing and a legally compatible treatment of Kim's existing bond, Stone maintains his vote to affirm as modified and writes separately, and the case stops for review rather than a manufactured majority, a combination of inconsistent mandates, or a silent substitution of a burden on Kim.
 
-* **Discretion Envelope:** None until this supplement is approved. Stone's previously approved OT2002 position remains evidence of his commitments, but it does not automatically approve the new wording, burden fallback, or proposed judgment accommodation.
+* **Discretion Envelope:** Nonmaterial wording; compatible joins and partial joins under Condition 5; the approved fallbacks in Issues 2, 3 and 4; and the accommodation order in Condition 6.
 
 ## B. JUDGMENT AND REMEDY
 
 ### Docket No. 01-1491: Demore v. Kim
 
-* **Stone's Controlled Judgment or Disposition:** **AFFIRM AS MODIFIED AND REMAND.** Affirm the Ninth Circuit's judgment insofar as it recognizes habeas jurisdiction and protects Kim against renewed categorical detention without the individualized process constitutionally required here. Modify the rationale: §1226(c) is not facially invalid, and an individualized hearing is not automatically required for every detainee immediately upon arrest. Its detention command is subject to the contested-inclusion and continued-detention limits set out below. Remand for implementation of those limits. Do not decide that Kim is removable, that either conviction qualifies under §1226(c), or that detention exceeding a fixed number of days is unlawful.
+* **Stone's Controlled Judgment or Disposition:** **AFFIRM AS MODIFIED AND REMAND.** Affirm the Ninth Circuit's judgment insofar as it recognizes habeas jurisdiction and protects Kim against renewed categorical detention without the individualized process constitutionally required here. Modify the rationale: §1226(c) is not facially invalid, and an individualized hearing is not automatically required for every detainee immediately upon arrest. Its detention command is subject to the contested-inclusion and continued-detention limits set out below. Remand for implementation of those limits. Do not decide that Kim is removable, that either conviction qualifies under §1226(c), or that detention exceeding a fixed number of days is unlawful. If Breyer joins a five-vote judgment that secures Kim the individualized custody hearing this position protects, Breyer writes the opinion of the Court.
 
 * **Stone's Remedy and Remand Position:** The district court retains authority to enforce its conditional writ. Kim's existing release on $5,000 bond remains effective. If the Government seeks to return him to immigration custody under §1226(c), it must first obtain a prompt determination applying the following procedure:
 
   1. Identify every conviction and statutory category relied upon for mandatory detention. A new allegation alone does not establish inclusion.
-  2. Determine whether Kim presents a substantial, good-faith challenge capable of defeating each asserted mandatory-detention ground. On the present legal record, his challenge clears the threshold for review. That conclusion does not resolve the ultimate classifications.
+  2. Determine whether Kim presents a substantial, good-faith challenge capable of defeating each asserted mandatory-detention ground. On the present legal record, *Corona-Sanchez* supplies a substantial objection to the original 1997 aggravated-felony ground; whether Kim has a substantial, good-faith objection to the August 2002 burglary and moral-turpitude grounds is determined on remand. That determination does not resolve the ultimate classifications.
   3. Determine whether §1226(c) is established as the lawful basis for custody. If it is not, custody proceeds under the ordinary §1226(a) framework.
   4. While inclusion remains genuinely disputed, conduct an individualized interim custody assessment under the Fifth Amendment, addressing danger, flight, available conditions, and the necessity of confinement.
   5. Independently determine whether the duration and circumstances of any renewed or continued detention remain reasonably related to removal proceedings prosecuted with reasonable diligence. If not, categorical detention cannot continue without an individualized custody justification.
 
-  At an individualized hearing constitutionally required by either gate, the Government must establish by clear and convincing evidence that no reasonably available conditions will adequately address flight risk or danger. Stone's proposed fallback would require the Government to establish the same proposition by a preponderance of the evidence.
+  At an individualized hearing constitutionally required by either gate, the Government must establish by clear and convincing evidence that no reasonably available conditions will adequately address flight risk or danger. Stone's approved fallback would require the Government to establish the same proposition by a preponderance of the evidence.
 
   The immigration judge must permit submission of relevant evidence, consider workable release conditions, and issue findings sufficient for legal review. The district court may correct legal error and enforce the writ, but may not substitute its own assessment for a lawful discretionary bond determination.
 
 * **Remedial Reach:** The operative writ and release protection cover Kim, the named habeas petitioner. No class or nationwide challenge seeking relief for all persons held under §1226(c) is before the Court. The constitutional and statutory rules announced in this judgment govern analogous cases as precedent, but this judgment does not itself release other detainees or issue a system-wide injunction. The proved defect is the threatened application of categorical custody to Kim without the required process; the writ reaches that application completely.
 
 * **Practical Relief:**
-  1. Kim remains free under his existing $5,000 bond and conditions. Neither the decision nor the remand requires a new arrest merely to conduct a hearing.
+  1. Kim remains free under his existing release on $5,000 bond. Neither the decision nor the remand requires a new arrest merely to conduct a hearing.
   2. If removal proceedings remain pending and the Government seeks renewed custody solely under §1226(c), it must give notice and request a custody determination. The hearing must occur promptly and, absent an independently lawful ground for immediate custody, before Kim is taken back into immigration detention.
   3. The immigration judge must identify the statutory ground, decide the contested-inclusion threshold, examine any duration claim supported by the record, and decide the individualized custody question when either gate requires it.
-  4. If the Government fails its applicable custody burden, Kim remains released on lawful conditions. If it satisfies that burden and detention is otherwise authorized, the immigration judge may order custody. Any modification of existing judicial bond relief must conform to the amended conditional writ.
+  4. If the Government fails its applicable custody burden, Kim remains released on lawful conditions. If it satisfies that burden and detention is otherwise authorized, the immigration judge may order custody. Any modification of Kim's existing release on $5,000 bond must conform to the amended conditional writ.
   5. A new criminal charge or proved violation of a release condition may supply an independent lawful basis for immediate custody. Such custody does not permanently excuse the required immigration review. When §1226(c) remains the asserted basis for continued custody, the appropriate hearing must follow promptly.
   6. The immigration judge must make a written or otherwise reviewable record of the statutory predicates, reasons for delay, evidence of flight or danger, considered alternatives, and resulting custody decision. The district court retains jurisdiction to enforce compliance and order release or an appropriately prompt hearing when detention lacks lawful authority.
   7. A material change in the removal proceedings, evidence, detention conditions, or anticipated duration permits renewed review.
@@ -176,7 +177,7 @@
 
 * **Question Stone Resolves:** Does §1226(e) withdraw jurisdiction under 28 U.S.C. §2241 to decide whether §1226(c), as interpreted and applied, authorizes Kim's detention consistently with federal law and the Fifth Amendment?
 
-* **Stone's Legal Position:** Apply entering Simulation Court law. No new habeas cause of action is created.
+* **Stone's Legal Position:** Apply entering habeas-channel law to the open §1226(e) question; this is a new construction of §1226(e). No new habeas cause of action is created.
 
 * **Reach Calibration:** **Intermediate.** Stone's prior immigration-jurisdiction positions distinguish legal-authority review from discretionary custody review. One step broader would permit courts to reweigh ordinary bond decisions contrary to §1226(e). One step narrower would treat a challenge to Congress's detention rule as an unreviewable executive discretionary judgment.
 
@@ -198,11 +199,11 @@
 
 * **Boundary or Reserved Question:** Whether Congress could constitutionally withdraw every effective judicial channel for this class of custody claims is outside the decision because §1226(e) does not accomplish that withdrawal. The Suspension Clause question therefore need not be reached.
 
-* **Approved Conditional Position or Fallback:** None required. Stone maintains jurisdiction over legal-authority challenges.  permits separate joinder of this jurisdictional proposition without implying agreement on the merits.
+* **Approved Conditional Position or Fallback:** None required. Stone maintains jurisdiction over legal-authority challenges. Condition 5 permits separate joinder of this jurisdictional proposition without implying agreement on the merits.
 
 ### Issue 2: Contested inclusion in §1226(c)
 
-* **Threshold and Merits Reach:** The Government initially charged Kim based on his 1997 theft conviction. A subsequent Ninth Circuit decision questioned the aggravated-felony classification of that California offense. The Government later added the 1996 burglary conviction and a two-crimes-involving-moral-turpitude ground. Kim disputes whether those convictions establish any qualifying mandatory-detention category. His acceptance of the initial arrest does not establish concession of each statutory ground. That dispute is material because §1226(c) applies by statutory category, not by accusation alone.
+* **Threshold and Merits Reach:** The Government initially charged Kim based on his 1997 theft conviction. A June 2002 en banc Ninth Circuit decision, *United States v. Corona-Sanchez*, held that the California offense does not categorically qualify as an aggravated felony. The Government later added the 1996 burglary conviction and a two-crimes-involving-moral-turpitude ground. Kim disputes whether those convictions establish any qualifying mandatory-detention category. His acceptance of the initial arrest does not establish concession of each statutory ground. That dispute is material because §1226(c) applies by statutory category, not by accusation alone.
 
 * **Question Stone Resolves:** When a lawful permanent resident raises a substantial, nondilatory dispute over whether he belongs to a mandatory-detention category, what determination and interim custody process must the Government provide?
 
@@ -220,7 +221,7 @@
 
   A challenge to one charge does not defeat mandatory detention if another independent qualifying ground is actually established.
 
-  **Application:** Kim's challenge satisfies the threshold for review. *United States v. Corona-Sanchez* supplies a substantial legal objection to treating the 1997 petty-theft-with-priors conviction as an aggravated felony. The added burglary and moral-turpitude allegations require separate legal analysis; they cannot be ignored, but their assertion does not finally establish coverage. The administrative tribunal must examine all asserted grounds without assuming Kim's ultimate success.
+  **Application:** *United States v. Corona-Sanchez* gives Kim a substantial legal objection to treating the 1997 petty-theft-with-priors conviction as an aggravated felony. The added burglary and moral-turpitude allegations require separate legal analysis; they cannot be ignored, but their assertion does not finally establish coverage. Whether Kim has a substantial, good-faith objection to each added ground, and whether any of them is independently established, is determined on remand. The administrative tribunal must examine all asserted grounds without assuming Kim's ultimate success.
 
 * **Reach Within the Question:** Lawful permanent residents held under §1226(c) who genuinely contest whether the asserted conviction-based statutory grounds include them. It governs inclusion decisions and interim custody while those decisions remain materially disputed. It does not adjudicate substantive eligibility for withholding of removal, establish the merits standard for a final removal order, or rewrite §1226(c)(2)'s witness-protection provision as an ordinary bond exception.
 
@@ -240,7 +241,7 @@
 
   *Connecticut Department of Public Safety v. Doe*, as decided in this simulation, holds that due process does not require a hearing on danger when danger is legally irrelevant to a statutory inclusion decision. Stone therefore does not create a general danger hearing simply by labeling an allegation disputed. He first identifies the constitutional limit on treating genuinely contested inclusion as an irrevocable custody predicate. Once that limit operates, individualized custody facts become legally material.
 
-  Kim's 1997 offense requires consideration of *Corona-Sanchez*. The 1996 conviction and alternative moral-turpitude category must also be examined. The Court cannot make those classifications on an incomplete custody record. It can decide that Kim has raised a sufficiently substantial challenge to require process without deciding the underlying removal case.
+  Kim's 1997 offense requires consideration of *Corona-Sanchez*. The 1996 conviction and alternative moral-turpitude category must also be examined. The Court cannot make those classifications on an incomplete custody record. It can decide that *Corona-Sanchez* supplies a substantial objection to the original charge without deciding the underlying removal case.
 
 * **Precedent Treatment:**
   * *INS v. National Center for Immigrants' Rights*: applied to actual determinations underlying immigration custody rules.
@@ -251,7 +252,7 @@
 
 * **Boundary or Reserved Question:** The ultimate classification of Kim's 1996 and 1997 convictions and his eligibility for removal relief require agency determinations and a record not finally resolved here. Whether the same interim constitutional safeguard extends in identical form to all nonpermanent residents is outside the presented as-applied claim.
 
-* **Approved Conditional Position or Fallback:** **None newly approved.** Proposed fallback, subject to Stone's approval: retain the substantial, nondilatory threshold and an enforceable inclusion determination while allowing the Government to satisfy a Kennedy-compatible preliminary showing of some merit to the charge. **That showing does not eliminate Kim's individualized interim hearing while material coverage remains genuinely contested.** Stone does not accept a rule that treats some merit as conclusive inclusion or requires Kim to prove nondangerousness by clear and convincing evidence.
+* **Approved Conditional Position or Fallback:** Approved fallback: retain the substantial, nondilatory threshold and an enforceable inclusion determination while allowing the Government, in place of the preponderance burden on disputed historical predicates in item 2, to satisfy a Kennedy-compatible preliminary showing of some merit to each asserted ground; item 4's interim hearing remains. **That showing does not eliminate Kim's individualized interim hearing while material coverage remains genuinely contested.** Stone does not accept a rule that treats some merit as conclusive inclusion or requires Kim to prove nondangerousness by clear and convincing evidence.
 
 ### Issue 3: Continued detention and the constitutional duration limit
 
@@ -275,7 +276,7 @@
 
   There is no automatic release at six months, no presumption copied from §1231(a)(6), and no rule that the Government loses solely because a case is difficult. The constitutional question is whether the continued confinement remains justified by the proceedings actually being conducted.
 
-  **Application:** Kim's approximately six months of initial confinement, unresolved classification questions, and the procedural course of his case require a real inquiry. Stone does not find governmental bad faith or unconstitutional delay solely from that history. Because Kim already qualifies for contested-inclusion review, he does not need to win the independent duration claim to receive individualized custody consideration.
+  **Application:** Kim's approximately six months of initial confinement, unresolved classification questions, and the procedural course of his case require a real inquiry. Stone does not find governmental bad faith or unconstitutional delay solely from that history. If on remand Kim satisfies the contested-inclusion threshold and inclusion remains genuinely disputed, he need not also win the independent duration claim to receive individualized custody consideration.
 
 * **Reach Within the Question:** Continuing pre-final-order detention of lawful permanent residents under §1226(c). It applies even when a qualifying criminal-removal category has been established. It does not govern detention under a different criminal statute, ordinary civil commitment, or the separate post-order regime in §1231(a).
 
@@ -314,7 +315,7 @@
 
 * **Boundary or Reserved Question:** Whether Kim's historical detention independently crossed the constitutional duration boundary requires findings about the actual course of his proceedings and cannot be determined solely from the six-month figure. The lawfulness of any future custody must be decided on its then-current record.
 
-* **Approved Conditional Position or Fallback:** **None newly approved.** Proposed fallback, subject to approval: Stone will join a compatible formulation requiring review for unreasonable or unjustified continued detention, even if colleagues decline his complete functional explanation, provided the resulting judgment supplies an enforceable individualized remedy when categorical authority fails. Stone will not accept a formulation under which the mere pendency of removal proceedings conclusively establishes reasonable duration.
+* **Approved Conditional Position or Fallback:** Approved fallback: Stone will join a compatible formulation requiring review for unreasonable or unjustified continued detention, even if colleagues decline his complete functional explanation, provided the resulting judgment supplies an enforceable individualized remedy when categorical authority fails. Stone will not accept a formulation under which the mere pendency of removal proceedings conclusively establishes reasonable duration.
 
 ### Issue 4: Individualized custody procedure, burden of proof, and effective release
 
@@ -330,7 +331,7 @@
 
   **Stone's preferred rule:** The Government bears the burden of proving, by clear and convincing evidence, that no combination of reasonably available conditions can adequately address flight risk or danger. The detainee must identify a substantial coverage dispute or a concrete continued-detention concern to invoke the applicable gate, but need not prove that release is safe.
 
-  **Proposed  fallback:** If a five-Justice majority does not support the heightened quantum, Stone may join a compatible judgment placing the burden of persuasion on the Government by a **preponderance of the evidence**. The object of proof remains the same: whether actual detention, rather than reasonably enforceable conditions, is necessary.
+  **Approved fallback:** If a five-Justice majority does not support the heightened quantum, Stone may join a compatible judgment placing the burden of persuasion on the Government by a **preponderance of the evidence**. The object of proof remains the same: whether actual detention, rather than reasonably enforceable conditions, is necessary.
 
   Under either formulation:
 
@@ -358,7 +359,7 @@
 
   *Addington v. Texas* required clear and convincing proof for ordinary civil commitment. Again, that does not automatically govern immigration custody. It reinforces why Stone regards the risk of mistaken deprivation of liberty as requiring persuasive governmental evidence.
 
-  In *Foucha v. Louisiana*, Stone joined the holdings invalidating continued confinement after the authorizing basis had ended, but did not join a general theory imposing one proof quantum across detention regimes. Stone's burden here is therefore a proposed rule grounded in this record, not a falsely attributed universal *Foucha* holding.
+  In *Foucha v. Louisiana*, Stone joined Parts II-A and II-C, which barred continued psychiatric confinement after its authorizing predicate ended. He did not join Part II-B's separate Vitek-based procedural ground, which stated that ordinary civil commitment requires clear and convincing proof of current illness and dangerousness, and Foucha adopted no universal dangerousness burden. Stone's burden here is therefore a proposed rule grounded in this record, not a falsely attributed universal *Foucha* holding.
 
   In *Krimstock v. Kelly*, the Simulation Court required the City to support continued deprivation and required the decisionmaker to consider interim release. Stone separately proposed governmental proof by a preponderance for disputed predicates of continued custody. That concurrence supplies an internally consistent fallback where colleagues resist clear and convincing proof, although it did not itself establish a binding general rule.
 
@@ -380,39 +381,7 @@
 
 * **Boundary or Reserved Question:** The precise constitutionally required proof allocation for a different immigration detention category is outside the question presented. The record lacks a completed risk assessment sufficient for the Court to decide whether Kim personally qualifies for detention on the individualized evidence.
 
-* **Approved Conditional Position or Fallback:** **None newly approved.** Stone proposes  for approval: governmental preponderance as a permissible fallback from governmental clear and convincing, with identical individualized hearing authority, conditions analysis, and enforceable remedy. Stone does **not** authorize a fallback imposing Breyer's clear-and-convincing burden on Kim.
-
-## D. IMPLEMENTATION THROUGH : PROPOSITION-SPECIFIC JOINS
-
-The Engine shall consider and record separate votes for:
-
-1. **Jurisdiction:** Whether §2241 remains available for legal-authority challenges under §1226(e).
-2. **Contested inclusion:** Whether a substantial, nondilatory category dispute requires meaningful determination and interim custody review.
-3. **Continued detention:** Whether §1226(c) permits detention without individualized justification after custody loses a reasonable relationship to diligent removal proceedings.
-4. **Hearing and proof:** Whether the Government must justify necessary detention by clear and convincing evidence; alternatively, by preponderance.
-5. **Judgment and mandate:** Whether the Ninth Circuit's conditional hearing relief is affirmed as modified, including Kim's existing bond protection and the instructions for any renewed custody.
-
-A Justice may join one proposition without joining the remainder. Such a join supports only that proposition. **The Engine must not declare a majority opinion or a final disposition unless five Justices support an actual compatible judgment and mandate.**
-
-The frozen OT2002 record supplies starting commitments, not votes that may be carried forward automatically after reargument:
-
-* **Stevens, Souter, and Ginsburg:** Their recorded demand for an effective individualized hearing for Kim may be satisfied by this case-specific mandate, but their agreement with the more general two-gate limits must be obtained rather than presumed.
-* **Breyer:** His substantial, nondilatory challenge threshold substantially overlaps Issue 2. His recorded preference to place clear-and-convincing release proof on Kim conflicts with Stone's Issue 4. The overlap may be counted on the threshold alone; his vote on a Government-burden judgment must be separately established.
-* **Kennedy:** His recorded concern with at least some merit to the detention charge and unreasonable or unjustified continued custody overlaps portions of Issues 2 and 3. His agreement with Stone's stronger category inquiry or proof allocation cannot be assumed.
-* **O'Connor:** Her recorded acceptance of habeas jurisdiction may be counted on Issue 1 if reaffirmed. It does not automatically constitute agreement with an individualized merits remedy.
-* **Scalia and Thomas:** Their recorded objections to jurisdiction and to the general hearing requirement remain distinct. The Engine may not turn a conditional merits vote into assent to the proposed remedy.
-
-If five Justices accept the operative hearing remedy but disagree on whether the statutory-inclusion or constitutional-duration ground controls, the final judgment must identify precisely what legal duties a lower court can enforce and the votes supporting each controlling instruction. A common disposition that conceals incompatible custody standards is not permissible.
-
-**Proposed accommodation order:**
-
-1. Seek Stone's complete judgment with governmental clear-and-convincing proof.
-2. If that quantum prevents five compatible votes, offer the governmental-preponderance formulation without reducing Kim's hearing protection.
-3. Permit narrower joins to individual jurisdictional, coverage, or duration propositions, but retain Stone's separate reasoning wherever the Court does not adopt it.
-4. If no five Justices support an effective individualized hearing and a legally compatible treatment of Kim's existing bond, Stone maintains his vote to affirm as modified and writes separately. The Engine must stop for review rather than manufacture a majority, combine inconsistent mandates, or silently substitute a burden on Kim.
-
-Opinion assignment follows the actual final coalition under the simulation's ordinary assignment rules. Breyer's authorship is permitted if he genuinely joins and leads a compatible majority; it is not assigned merely because his threshold language overlaps Stone's.
-
+* **Approved Conditional Position or Fallback:** Approved fallback: governmental preponderance as a permissible fallback from governmental clear and convincing, with identical individualized hearing authority, conditions analysis, and enforceable remedy. Stone does **not** authorize a fallback imposing Breyer's clear-and-convincing burden on Kim.
 
 # SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
 
