@@ -6,6 +6,8 @@
 
 All 119 Section II positions are approved by the user. Approval establishes Stone’s positions; it does not establish a judgment or votes of the Court.
 
+Only five briefs carry a special conditional writing direction. In McConnell v. Federal Election Commission, Vieth v. Jubelirer, Cheney v. United States District Court for D.C., and Roeder v. Islamic Republic of Iran: with a lawful quorum, if at least five Justices including Stone actually join his reasoning supporting the judgment on an issue decided, Stone writes and articulates those joined portions. A judgment-only vote does not adopt his reasoning; different propositions require their actual joins. Unjoined reasoning remains his own. In Demore v. Kim: if Breyer joins a five-vote judgment that secures Kim the individualized custody hearing Stone's position protects, Breyer writes the opinion of the Court. No outcome, vote, or future precedent is assigned by these conditions, and they do not extend to the other briefs.
+
 ## OT_2003CHUNK1
 
 | No. | Chunk | Caption | Docket(s) or citation | Event date | Event type | Category | Area of law |
