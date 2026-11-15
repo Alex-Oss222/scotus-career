@@ -17,7 +17,7 @@ The event date is the supplied scheduling premise. Proper Supreme Court arrival 
 
 Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at submission and decision. All nine participate; quorum is satisfied and five direct votes suffice for a Court proposition. Review addresses the preserved facial merits. State compliance leaves the continuing condition live; the absence of a completed sanction is not a new jurisdictional or exhaustion bar.
 
-`entering-law/OT_2003CHUNK1_WVHHS.md` contains the controlling Kansas actual-choice rule and the relevant New York and Printz holdings and public positions. `freeze/OT_2003CHUNK1_WVHHS_REFRESH.md` screens the five completed earlier decisions and carries Hudson’s actual public decision. Those authorities add no Medicaid sanction, categorical voluntary-label rule or change to Kansas. Only completed effective law enters. The merely scheduled Sabri event supplies no law or blocker; Demore supplies no Record or new law. The section 1396c source clarification preserves the exact statutory direction: continued payment to unaffected categories or parts, not withholding from those categories.
+`entering-law/OT_2003CHUNK1_WVHHS.md` contains the controlling Kansas actual-choice rule and the relevant New York and Printz holdings and public positions. `freeze/OT_2003CHUNK1_WVHHS_REFRESH.md` screens the five completed earlier decisions and carries Hudson’s actual public decision. Those authorities add no Medicaid sanction, categorical voluntary-label rule or change to Kansas. Only completed effective law enters. The merely scheduled Sabri event supplies no law or blocker. Demore v. Kim is effective October 14, 2003; its immigration habeas and custody holdings add no Medicaid condition, actual-choice, sanction or remedy rule and change no governing premise here. The section 1396c source clarification preserves the exact statutory direction: continued payment to unaffected categories or parts, not withholding from those categories.
 
 ## Stone-Zsela’s approved core and compatibility
 
@@ -29,7 +29,7 @@ His further requirement that a court promptly restrain an established coercive s
 
 Form was fixed before considering authors or counts: one signed plenary merits opinion resolving the condition’s program character, exact statutory obligations and safeguards, genuine-choice rule, facial application and retained concrete-sanction review; and a short concurrence preserving Stone-Zsela’s additional remedial requirement. The two holdings reflect the distinct program-condition and funding-consequence inquiries. Neither the form nor the propositions were changed to affect eligibility or balance.
 
-All nine Justices support the tentative judgment and every proposition of the common opinion. The Chief Justice therefore assigns. Immediately before assignment, the five earlier Record opinion tables were read afresh in event order, once each from the internal opinion-table section: Holston, October 30, 2003, O’Connor; Rancho Viejo, February 5, 2004, Kennedy; Lomont, March 11, 2004, Scalia; Environmental Defense Center, March 25, 2004, Souter; and Hudson, April 13, 2004, Stone-Zsela. Hudson is the last counted event. Public duplicate tables and separate writings are not counted. Demore stopped before a Record and adds no count.
+All nine Justices support the tentative judgment and every proposition of the common opinion. The Chief Justice therefore assigns. The chronological recount includes six earlier Record opinion tables, once each from the internal opinion-table section: Demore, October 14, 2003, Breyer; Holston, October 30, 2003, O’Connor; Rancho Viejo, February 5, 2004, Kennedy; Lomont, March 11, 2004, Scalia; Environmental Defense Center, March 25, 2004, Souter; and Hudson, April 13, 2004, Stone-Zsela. Hudson is the last counted event. Public duplicate tables and separate writings are not counted. Demore's signed lead adds one count for Breyer. Ginsburg remains eligible and in the recomputed balance pool; her assignment stands.
 
 | Justice | Count before assignment | Fully eligible | Balance pool |
 |---|---:|---|---|
@@ -41,7 +41,7 @@ All nine Justices support the tentative judgment and every proposition of the co
 | Souter | 1 | Yes | Yes |
 | Thomas | 0 | Yes | Yes |
 | Ginsburg | 0 | Yes | Yes |
-| Breyer | 0 | Yes | Yes |
+| Breyer | 1 | Yes | Yes |
 
 Eligible authors and balance pool: all nine named Justices. The minimum is zero and every eligible count is within one of it. Author: Ginsburg, at zero. Fit governs because the full common ground is already supported, with no necessary withheld join requiring accommodation. The opinion’s principal drafting work is to keep the beneficiary recovery categories and safeguards distinct from the State-level funding choice, while accurately preserving the optional and mandatory provisions. Ginsburg’s frozen ground expressly identifies that separation: beneficiary hardship cannot answer statewide coercion, and the statutory alternatives must be accurately retained. Her full Kansas join supplies the governing practical-choice rule. That case-specific combination fits this application’s work.
 

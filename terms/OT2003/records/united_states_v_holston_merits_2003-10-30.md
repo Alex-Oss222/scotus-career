@@ -15,7 +15,7 @@ Research cutoff: October 30, 2003. The historical source-to-fact map is the appr
 
 Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate at merits submission and decision. The nine-member Court satisfies the six-Justice quorum; five votes control the merits judgment and a proposition. No case-specific nonparticipation is established.
 
-The entering-law slice is `entering-law/OT_2003CHUNK1_HOLSTON.md`, a derived copy of the coordinated OT2002 law through June 30, 2003. Lopez supplies connection before magnitude and enacted-class fit; Hale and Kirk supply supported necessary inclusion and the absence of a universal transaction prerequisite; Home Builders requires a materially supported eligible mechanism, reasonable fit and bounded legislative latitude; Hiley, Franklyn/Gonzalez and Griffin/Langley supply the later supply/recipient applications and statutory-nexus distinction. No earlier OT2003 completed merits Record exists. The stopped Demore matter supplies no new law or counted opinion. An absent matter assigned to a later chunk supplies neither authority nor a blocker.
+The entering-law slice is `entering-law/OT_2003CHUNK1_HOLSTON.md`, a derived copy of the coordinated OT2002 law through June 30, 2003. Lopez supplies connection before magnitude and enacted-class fit; Hale and Kirk supply supported necessary inclusion and the absence of a universal transaction prerequisite; Home Builders requires a materially supported eligible mechanism, reasonable fit and bounded legislative latitude; Hiley, Franklyn/Gonzalez and Griffin/Langley supply the later supply/recipient applications and statutory-nexus distinction. Demore v. Kim is effective October 14, 2003. Its immigration habeas and statutory custody holdings supply no different Commerce rule or premise for this production challenge. An absent matter assigned to a later chunk supplies neither authority nor a blocker.
 
 ## Stone-Zsela's approved core and final compatibility
 
@@ -27,7 +27,7 @@ The approved position and all eight frozen Associate commitments support the sam
 
 Before considering counts or authors, the decision form is fixed as one signed plenary merits opinion. The opinion separately resolves the materials-only constitutional ground and the supported production-regime ground, then affirms the challenged application. These are independent questions within one supplied merits submission; the shared rationale supports one opinion without fragmentation. No separate writing performs a current legal function when these complete limits are honored.
 
-Stone-Zsela is in the tentative nine-Justice judgment coalition and assigns as Chief Justice. All nine directly support every governing proposition, rather than merely the judgment. Recounted from scratch from the current term's committed Record opinion tables immediately before this assignment: there are no prior Records and no counted lead opinions. Demore stopped before a Record and does not count. The last counted event is therefore absent.
+Stone-Zsela is in the tentative nine-Justice judgment coalition and assigns as Chief Justice. All nine directly support every governing proposition, rather than merely the judgment. Recounted from the current term's Record opinion tables effective before this event: Demore v. Kim, October 14, 2003, counts once for Breyer's signed lead opinion. Demore is the last event counted. O'Connor remains eligible and in the recomputed balance pool; her assignment stands.
 
 | Justice | Count before assignment | Fully eligible | Balance pool |
 |---|---:|---|---|
@@ -39,7 +39,7 @@ Stone-Zsela is in the tentative nine-Justice judgment coalition and assigns as C
 | Souter | 0 | Yes | Yes |
 | Thomas | 0 | Yes | Yes |
 | Ginsburg | 0 | Yes | Yes |
-| Breyer | 0 | Yes | Yes |
+| Breyer | 1 | Yes | Yes |
 
 Eligible authors and pool: all nine named Justices. The lowest eligible count is zero; each count is within one of it. Author: O'Connor. Fit governs because the complete ground is already shared and no accommodation must secure a withheld join. Her authorship of Hale's original operational necessary-inclusion rule and Hiley's distinct supply/recipient application demonstrates concrete ability to explain the present product-and-regime relationship while keeping the enacted element separate. Ginsburg's Franklyn/Gonzalez authorship and Stone-Zsela's Griffin/Langley authorship are strong alternatives at the same count. Stone-Zsela's approved position supplies precise support and element boundaries, but his personal authorship adds no needed formulation or coordination advantage over O'Connor's direct experience developing the anti-evasion method. The choice remains within the entire eligible pool and uses no historical Holston authorship.
 
@@ -148,7 +148,7 @@ No further historical source retrieval was necessary for this reconciliation. Th
 
 ## Validation and durable status
 
-Assembly validation completed: approved Stone-Zsela core revalidated against unchanged entering law and question; scheduled merits posture, nine participants at both milestones, quorum and 9–0 judgment; nine direct whole-opinion joins; one eligible signed lead assigned from the correctly recounted zero-count pool; conditional-plea remedy, conviction status and separate sentencing scope; all two-path and Justice-specific barriers honored without changed commitments; historical comparison creates no Supreme Court departure requiring a changed-premise claim. The controlling explanations remain within the ordinary 350-word ceiling. Source limits remain internal except the legally relevant limits of the judicial question and record.
+Assembly validation completed: approved Stone-Zsela core revalidated against unchanged entering law and question; scheduled merits posture, nine participants at both milestones, quorum and 9–0 judgment; nine direct whole-opinion joins; one eligible signed lead assigned from the correctly recounted balance pool, with Breyer at one and the other Justices at zero; conditional-plea remedy, conviction status and separate sentencing scope; all two-path and Justice-specific barriers honored without changed commitments; historical comparison creates no Supreme Court departure requiring a changed-premise claim. The controlling explanations remain within the ordinary 350-word ceiling. Source limits remain internal except the legally relevant limits of the judicial question and record.
 
 Engine §8 negative-statement review completed for Judgment & Remedy, Holdings, Precedent Treatment, Law After Decision and Procedure After Action, and their internal source sections. Retained exclusions identify the preserved question's actual scope, the adopted constitutional boundary or the continuing status of the conviction and independent proceedings. No catalogue of unrequested relief or unsupported hypothetical reservations is published. Engine §15 assembly checks are complete at the Record level; workspace regeneration, generated Render Input identity and term-wide deterministic validation remain the operator's subsequent tasks and are not certified here.
 

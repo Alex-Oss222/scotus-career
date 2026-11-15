@@ -15,7 +15,7 @@ Research cutoff: March 25, 2004. The neutral case and court-posture facts come f
 
 All nine Justices participate at submission and decision: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. No nonparticipation is established. The nine-member Court satisfies the six-Justice quorum; five votes suffice for a merits judgment or proposition.
 
-The operative reading slice is `entering-law/OT_2003CHUNK1_EDC.md`, including the exact NEMA, Glickman, United Foods, New York and Printz standards, the Condon own-activity holding and each Associate's relevant public positions. The current clean refresh is `freeze/OT_2003CHUNK1_CURRENT_EDC_REFRESH.md`. It incorporates completed Lomont, effective March 11, 2004, before EDC modeling and reconciliation; the official-injury and actual-choice rules are material. Actual Holston and Rancho were screened at their existing Commerce scope and create no new discharge, allocation, permit or speech premise. Demore remains stopped without new law; an uncompleted Miccosukee or other absent later-chunk event supplies no holding or blocker.
+The operative reading slice is `entering-law/OT_2003CHUNK1_EDC.md`, including the exact NEMA, Glickman, United Foods, New York and Printz standards, the Condon own-activity holding and each Associate's relevant public positions. The current clean refresh is `freeze/OT_2003CHUNK1_CURRENT_EDC_REFRESH.md`. It incorporates completed Lomont, effective March 11, 2004, before EDC modeling and reconciliation; the official-injury and actual-choice rules are material. Actual Holston and Rancho were screened at their existing Commerce scope and create no new discharge, allocation, permit or speech premise. Demore v. Kim is effective October 14, 2003; its immigration habeas and custody holdings supply no different municipal-discharge, actual-choice, permit, speech or remedy premise. An uncompleted Miccosukee or other absent later-chunk event supplies no holding or blocker.
 
 ## Stone-Zsela's approved core and compatibility
 
@@ -27,7 +27,7 @@ All eight reconciled commitments support those complete grounds, actual regulato
 
 Form precedes counts: one signed plenary merits opinion resolves the own-operation/actual-choice question and the independently analyzed operational-expression question, with the complete regulatory qualifications and existing administrative mandate preserved. All nine share those grounds. No additional separate writing performs legal work merely by repeating earlier positions on compulsory assistance or promotional subsidies.
 
-The Chief Justice is in both tentative judgment coalitions and assigns the full opinion. A fresh recount from actual earlier Record opinion tables gives Holston to O'Connor, Rancho Viejo to Kennedy, and Lomont to Scalia. Separate writings count zero. The last counted event is Lomont, March 11, 2004. No stopped matter contributes a lead opinion.
+The Chief Justice is in both tentative judgment coalitions and assigns the full opinion. A fresh recount from actual earlier Record opinion tables gives Holston to O'Connor, Rancho Viejo to Kennedy, and Lomont to Scalia. Separate writings count zero. The last counted event is Lomont, March 11, 2004. Demore v. Kim, October 14, 2003, counts once for Breyer's signed lead opinion. Souter remains eligible and in the recomputed balance pool; his assignment stands.
 
 | Justice | Count before assignment | Fully eligible | Balance pool |
 |---|---:|---|---|
@@ -39,7 +39,7 @@ The Chief Justice is in both tentative judgment coalitions and assigns the full 
 | Souter | 0 | Yes | Yes |
 | Thomas | 0 | Yes | Yes |
 | Ginsburg | 0 | Yes | Yes |
-| Breyer | 0 | Yes | Yes |
+| Breyer | 1 | Yes | Yes |
 
 Eligible authors and balance pool: all nine Justices. The lowest count is zero; all counts are within one of it. Author: Souter, with zero counted leads. Fit governs because every necessary complete proposition is already shared; no withheld join requires an accommodation or expansion assignment. Souter's Printz authorship directly separates official function, bounded assistance and the actual fiscal question, while his Glickman dissent and United Foods and NEMA joins require a real independent function rather than useful publicity. The present opinion's essential work is to distinguish ordinary municipal operations from administration of others, then explain precisely why the physical discharge function justifies these factual communications without treating them as commercial by fiat.
 

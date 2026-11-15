@@ -15,7 +15,7 @@ Research cutoff: February 5, 2004. The source-to-fact map is the approved neutra
 
 Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate at submission and decision. Nine participants satisfy the six-Justice quorum; five votes control a merits proposition and judgment. No case-specific nonparticipation is established.
 
-The baseline reading slice is `entering-law/OT_2003CHUNK1_RANCHO.md`. Its operative authorities are Lopez's enacted-class and connection-first rule, Home Builders's taking class, two mechanisms, support responsibility and remand, and Sweet Home's separate statutory injury and causation rules. `freeze/OT_2003CHUNK1_RANCHO_REFRESH.md` supplies the clean addition of the completed Holston public law effective October 30, 2003. Holston's actual-product mechanism informs the method and all nine Justices' current public positions; it does not establish facts about this species. Its precision clarifications do not alter the relevant ground. Demore remains stopped without a new Record or law. No absent Deaton or other later-chunk event is imported because of a calendar position alone.
+The baseline reading slice is `entering-law/OT_2003CHUNK1_RANCHO.md`. Its operative authorities are Lopez's enacted-class and connection-first rule, Home Builders's taking class, two mechanisms, support responsibility and remand, and Sweet Home's separate statutory injury and causation rules. `freeze/OT_2003CHUNK1_RANCHO_REFRESH.md` supplies the clean addition of the completed Holston public law effective October 30, 2003. Holston's actual-product mechanism informs the method and all nine Justices' current public positions; it does not establish facts about this species. Its precision clarifications do not alter the relevant ground. Demore v. Kim is effective October 14, 2003; its immigration habeas and custody holdings change no enacted-class, mechanism, fit or remedy premise here. No absent Deaton or other later-chunk event is imported because of a calendar position alone.
 
 ## Stone-Zsela's approved position and compatibility
 
@@ -27,7 +27,7 @@ Those propositions and remedy fully match O'Connor, Scalia, Kennedy, Thomas, Gin
 
 Form was selected before counts: one signed plenary merits opinion applying the enacted-class rule, both supported alternative mechanisms and the existing-record remedy; one substantive Stevens dissent joined by Souter on the economic-application ground and affirmance. No division or combination of propositions was chosen to affect eligibility. The seven remand Justices agree directly on the complete operative current-law application, and the common dissent has a distinct legal and remedial function.
 
-The Chief Justice belongs to the seven-Justice tentative judgment coalition and assigns. Immediately before assignment the signed lead opinions were recounted from the opinion tables of every earlier current-term Record, rather than copied from prior assignment tallies. The sole counted event is United States v. Holston, October 30, 2003, O'Connor's signed plenary opinion. It is the last event counted. Demore stopped before a Record and contributes zero.
+The Chief Justice belongs to the seven-Justice tentative judgment coalition and assigns. Immediately before assignment the signed lead opinions were recounted from the opinion tables of every earlier current-term Record, rather than copied from prior assignment tallies. Demore v. Kim, October 14, 2003, counts once for Breyer's signed lead opinion. United States v. Holston, October 30, 2003, counts once for O'Connor's signed plenary opinion and is the last event counted. Kennedy remains eligible and in the recomputed balance pool; his assignment stands.
 
 | Justice | Count before assignment | Fully eligible | Balance pool |
 |---|---:|---|---|
@@ -39,7 +39,7 @@ The Chief Justice belongs to the seven-Justice tentative judgment coalition and 
 | Souter | 0 | No | No |
 | Thomas | 0 | Yes | Yes |
 | Ginsburg | 0 | Yes | Yes |
-| Breyer | 0 | Yes | Yes |
+| Breyer | 1 | Yes | Yes |
 
 Eligible authors and balance pool: Stone-Zsela, O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer. Each eligible count is at most one above the lowest eligible count, zero. Stevens and Souter are ineligible because they reject the remand propositions and disposition. Author: Kennedy.
 

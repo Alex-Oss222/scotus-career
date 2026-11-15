@@ -17,7 +17,7 @@ Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Br
 
 The baseline slice is `entering-law/OT_2003CHUNK1_LOMONT.md`. Printz/Mack's unanimous official-injury rule, Raines's concrete-injury and institutional-representation distinction, New York's actual-command and genuine-choice rules, Printz's bounded temporary statutory records-assistance holding and unresolved fiscal rationale, and Condon's separate direct-state-activity rule supply the pertinent law. The limited-assistance holding and the five-vote fiscal remand are kept distinct; incompatible fiscal reasons are not combined into a majority compensation rule.
 
-Holston became effective October 30, 2003. Its actual law was screened in `freeze/OT_2003CHUNK1_RANCHO_REFRESH.md` and changes no Lomont premise. Rancho Viejo became effective February 5, 2004 and was completed before this assignment. A clean neutral context screened its actual public decision and froze `freeze/OT_2003CHUNK1_LOMONT_RANCHO_SCREEN.md`: no material official-injury, refusal, assistance, fiscal or remedy premise changes. Its new Commerce joins concern separate legal questions and are not imported as federalism shifts. The present assembly read and applied that confirmation. Neither completed earlier decision requires renewed Lomont substantive stages. Demore supplies no new Record or law; an uncompleted later-chunk matter supplies neither authority nor blocker.
+Holston became effective October 30, 2003. Its actual law was screened in `freeze/OT_2003CHUNK1_RANCHO_REFRESH.md` and changes no Lomont premise. Rancho Viejo became effective February 5, 2004 and was completed before this assignment. A clean neutral context screened its actual public decision and froze `freeze/OT_2003CHUNK1_LOMONT_RANCHO_SCREEN.md`: no material official-injury, refusal, assistance, fiscal or remedy premise changes. Its new Commerce joins concern separate legal questions and are not imported as federalism shifts. The present assembly read and applied that confirmation. Neither completed earlier decision requires renewed Lomont substantive stages. Demore v. Kim is effective October 14, 2003; its immigration habeas and custody holdings change no official-injury, voluntary-certification, assistance, fiscal or remedy premise here. An uncompleted later-chunk matter supplies neither authority nor blocker.
 
 ## Stone-Zsela's approved core and compatibility
 
@@ -31,7 +31,7 @@ All eight reconciled commitments support those complete propositions and disposi
 
 Form was fixed during preparation before counts or authors: one signed plenary merits opinion resolving the two distinct granted questions and affirming the judgment. The shared voluntary ground has no need for a separate writing restating prior disagreements over compulsory assistance. No proposition was added, divided or combined for assignment purposes.
 
-All nine Justices form the tentative judgment and complete-proposition coalition. The Chief Justice assigns. After the actual Rancho screen, and immediately before assignment, every earlier signed lead was recounted from the current term's Record opinion tables. Holston, October 30, 2003, counts once for O'Connor. Rancho Viejo, February 5, 2004, counts once for Kennedy; Stevens's dissent does not count. Rancho is the last event counted. Demore stopped before a Record and supplies no count.
+All nine Justices form the tentative judgment and complete-proposition coalition. The Chief Justice assigns. After the actual Rancho screen, and immediately before assignment, every earlier signed lead was recounted from the current term's Record opinion tables. Holston, October 30, 2003, counts once for O'Connor. Rancho Viejo, February 5, 2004, counts once for Kennedy; Stevens's dissent does not count. Rancho is the last event counted. Demore v. Kim, October 14, 2003, counts once for Breyer's signed lead opinion. Scalia remains eligible and in the recomputed balance pool; his assignment stands.
 
 | Justice | Count before assignment | Fully eligible | Balance pool |
 |---|---:|---|---|
@@ -43,7 +43,7 @@ All nine Justices form the tentative judgment and complete-proposition coalition
 | Souter | 0 | Yes | Yes |
 | Thomas | 0 | Yes | Yes |
 | Ginsburg | 0 | Yes | Yes |
-| Breyer | 0 | Yes | Yes |
+| Breyer | 1 | Yes | Yes |
 
 Eligible authors and balance pool: all nine Justices. The lowest count is zero and every count is no more than one above it. Author: Scalia, whose count is zero. Fit governs: all governing propositions are already supported, with no necessary formulation dispute requiring expansion. Scalia's authorship of Raines gives concrete experience distinguishing institutional representation from a plaintiff's own official injury, and his unanimous Condon opinion distinguishes regulation of a State's own activity from assignment of federal administration against others. This opinion's work is to keep those categories separate from the genuinely optional certification actually presented.
 
