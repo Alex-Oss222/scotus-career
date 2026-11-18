@@ -4,14 +4,14 @@ September 27, 2026. Reviewer is the former neutral-preflight context, expressly 
 
 ## Substantive result
 
-No material vote, frozen-ground, assignment, approved-Stone-scope or remedy mismatch was found. BFP preserves both lower routes, contextual valuation rather than an appraisal/price tautology, burden and recovery limits. Staples preserves five direct joins, two narrower concurrences, two dissents and ordinary further proceedings. Custis preserves the statutory and constitutional grounds, complete-counsel exception, separate Stone elaboration and nonautomatic later relief. Health Care adopts only the five-vote permissible construction, with Stone's mandatory account separate and no invented agency ground. Dalton adopts the reconciled nine-vote preclusion rule, keeps the additional finality account at four, and preserves Franklin and the corrected NEPA channel. Morgan records five direct Article III joins, three dissenters and O'Connor's absence without reconstructing unpublished historical personal votes.
+No material vote, frozen-ground, assignment, approved-Stone-scope or remedy mismatch was found. BFP preserves both lower routes, contextual valuation rather than an appraisal/price tautology, burden and recovery limits. Staples preserves five direct joins, two narrower concurrences, two dissents and ordinary further proceedings. Custis preserves the statutory and constitutional grounds, complete-counsel exception, separate Stone elaboration and nonautomatic later relief. Health Care adopts only the five-vote permissible construction, with Stone's mandatory account separate and no invented agency ground. Dalton adopts the reconciled nine-vote preclusion rule, keeps the additional finality account at four, and preserves Franklin and the corrected NEPA channel. Morgan records the 4–4 equal division with the stated alignment, no opinion, no controlling rationale and O'Connor's absence, without reconstructing unpublished historical personal votes.
 
 ## Public completeness findings transmitted to root
 
 1. Staples: the operative complete-weapon §5845(b) definition appears internally but not publicly. Carry the shoots/designed-to-shoot/readily-restorable alternatives, automatic more-than-one-shot, no manual reloading and single-trigger-function terms publicly. If the antique/collector provisions are relied on, state their terms rather than referring generically to them as enacted; leave unasserted independent branches undecided.
 2. Custis: the public explanation invokes §921(a)(20)'s specified removal events without their terms. Carry expungement, setting aside, pardon and restoration plus the express ship/transport/possess/receive firearms proviso into the public entry.
 3. Health Care: the complete §2(11) alternative-function list appears only internally. Carry it publicly where the opinion repeatedly requires a listed function and preserves every alternative.
-4. Morgan: the public entry omits §27A(b)'s cumulative commencement, dismissal, prior-law/retroactivity and 60-day-motion conditions, and the distinct subsection (a) mechanism. Carry the statutory mechanism publicly to make the confined application intelligible.
+4. Morgan: the public Law After Decision omits the distinct subsection (a) mechanism and its June 19, 1991 limitations rule. Carry it publicly so the undecided §27A(b) question is not read to reach subsection (a).
 
 These are projection-completeness findings, not proposals to change the adjudication or joins. Root controls any transparent prevalidation correction and its provenance. Dalton's final corrected NEPA paragraph was reviewed: disposal and post-receiving-site-selection/pre-relocation scope, permission rather than obligation to omit the three selection matters, and the 60-day Defense Department act/failure trigger are preserved.
 
@@ -23,7 +23,7 @@ This review does not repeat the already-passed root mechanical checks or claim a
 
 ## Resolution spot check
 
-Root transparently completed all four public additions with preserved prevalidation bytes and lineage. This reviewer reread the resulting operative Staples definition and all four public Law After Decision blocks. The complete weapon alternatives, unchanged unadjudicated branch/exclusion limits, §921(a)(20) removal/proviso terms, complete §2(11) function list, and cumulative §27A mechanism are now supplied. The four reported projection-completeness findings are resolved. No remaining substantive QA blocker was identified in the six reviewed Records.
+Root transparently completed all four public additions with preserved prevalidation bytes and lineage. This reviewer reread the resulting operative Staples definition and all four public Law After Decision blocks. The complete weapon alternatives, unchanged unadjudicated branch/exclusion limits, §921(a)(20) removal/proviso terms, complete §2(11) function list, and distinct §27A(a) mechanism are now supplied. The four reported projection-completeness findings are resolved. No remaining substantive QA blocker was identified in the six reviewed Records.
 
 ## Additional Waters check after PUD assembly
 

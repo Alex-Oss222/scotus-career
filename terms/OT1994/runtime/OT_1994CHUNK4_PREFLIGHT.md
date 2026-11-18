@@ -71,7 +71,7 @@ The bankruptcy proceedings and district review were in **Minnesota**; the challe
 
 ### 42. Plaut
 
-The suit was filed November 25, 1987 and involved the plaintiffs' 1983 stock purchase. The district court dismissed with prejudice August 13, 1991; no appeal followed. Congress enacted §27A December 19, 1991; the reinstatement motion came February 11, 1992. The district court found the statutory reinstatement predicates satisfied. The lower opinion quotes §27A(b) and states that subsection (a) is not challenged. Keith's separate writing distinguishes final unappealed judgments from cases still on appeal. The clean candidate's references to 1984 fraud or an undifferentiated attack on all of §27A require source correction or qualification. The entering-law slice, including the earlier simulated finality decision, controls its present legal effect.
+The suit was filed November 25, 1987 and involved the plaintiffs' 1983 stock purchase. The district court dismissed with prejudice August 13, 1991; no appeal followed. Congress enacted §27A December 19, 1991; the reinstatement motion came February 11, 1992. The district court found the statutory reinstatement predicates satisfied. The lower opinion quotes §27A(b) and states that subsection (a) is not challenged. Keith's separate writing distinguishes final unappealed judgments from cases still on appeal. The clean candidate's references to 1984 fraud or an undifferentiated attack on all of §27A must be conformed to the source or qualified. The entering-law slice, which records Morgan Stanley as an equal division without opinion or precedent, governs its present legal effect.
 
 ### 43. Whitecotton
 

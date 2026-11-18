@@ -471,7 +471,7 @@ Event date: 1995-04-18.
 Source line 104:
 
 > The Chief Justice, in the majority, assigns and writes the Opinion of the Court.
-> The Court opinion has five complete rationale joins, with no partial or judgment-only joins and no need for a Marks synthesis.
+> The Court opinion has five complete rationale joins, with no partial joins; Breyer's judgment-only concurrence is not aggregated, and no Marks synthesis is needed.
 > No additional vote must be induced, so expansion does not replace fit.
 
 ### OT1994/Shalala_v_Whitecotton_merits_1995-04-18.md

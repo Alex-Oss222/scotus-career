@@ -29,7 +29,7 @@
     },
     "Morgan_Stanley_v_Pacific_Mutual_merits_1994-05-23.md": {
       "date": "1994-05-23",
-      "result": "**Result:** Fifth Circuit's judgment sustaining the statutory reinstatement procedure affirmed, 5–3; O'Connor does not participate.",
+      "result": "**Result:** Fifth Circuit's judgment reversing the refusal to reinstate under §27A(b) affirmed by an equally divided Court, 4–4; O'Connor does not participate; no opinion and no precedent.",
       "sha256": "56373e22503dd04737ee82cbeda4dc8b2324c2bcb4d7f5f4e8ddada283a2d009"
     },
     "Nichols_v_United_States_merits_1994-06-06.md": {
@@ -83,9 +83,7 @@
       148,
       150
     ],
-    "Morgan_Stanley_v_Pacific_Mutual_merits_1994-05-23.md": [
-      298
-    ],
+    "Morgan_Stanley_v_Pacific_Mutual_merits_1994-05-23.md": [],
     "Nichols_v_United_States_merits_1994-06-06.md": [
       166
     ],

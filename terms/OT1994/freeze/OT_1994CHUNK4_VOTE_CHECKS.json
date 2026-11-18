@@ -454,40 +454,40 @@
       "components": [
         {
           "component": "Section 27A(b) reinstatement of final private dismissal",
-          "vote": "5\u20134",
+          "vote": "6\u20133",
           "support": [
             "Stone",
-            "Stevens",
-            "Souter",
-            "Ginsburg",
-            "Breyer"
-          ],
-          "oppose": [
             "O'Connor",
             "Scalia",
             "Kennedy",
-            "Thomas"
+            "Thomas",
+            "Breyer"
+          ],
+          "oppose": [
+            "Stevens",
+            "Souter",
+            "Ginsburg"
           ]
         }
       ],
       "Court_opinion_supporters": [
         "Stone",
-        "Stevens",
-        "Souter",
-        "Ginsburg",
-        "Breyer"
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas"
       ],
       "Court_opinion_portions": [
         {
           "portion": "Opinion of the Court",
           "supporters": [
             "Stone",
-            "Stevens",
-            "Souter",
-            "Ginsburg",
-            "Breyer"
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Thomas"
           ],
-          "scope": "Complete bounded Morgan Stanley reinstatement application; five rationale votes."
+          "scope": "Complete confined Article III finality rule, its application to the August 13, 1991 dismissal, its qualifications and limits; five rationale votes; Breyer concurs in the judgment only."
         }
       ]
     },

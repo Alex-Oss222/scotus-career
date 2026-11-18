@@ -12,6 +12,6 @@ Neutral packet SHA256: `0217a454636b55c4af6e5b2b72054a361b69c42e41860cf66aa5a631
 
 Commitments UTF-8 SHA256: `0ad621a002892d402c88a18dc2d7cff9abdd34de76d202d1b0161574f5a1f32b`.
 
-Frozen bytes: 48753.
+Frozen bytes: 49129.
 
 Reconciliation, exact circulated joins, final participation, assignment, Record construction and downstream validation remain later-stage work. No Git durability claim is made; the exact frozen filesystem handoff and this receipt are the completed durable artifacts.

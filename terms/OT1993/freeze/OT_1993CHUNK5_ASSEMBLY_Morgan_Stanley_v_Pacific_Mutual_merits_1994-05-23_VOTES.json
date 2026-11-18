@@ -14,13 +14,13 @@
       {
         "name": "§27A(b) reopening",
         "support": [
-          "Stone",
           "Blackmun",
           "Stevens",
           "Souter",
           "Ginsburg"
         ],
         "oppose": [
+          "Stone",
           "Scalia",
           "Kennedy",
           "Thomas"
@@ -31,7 +31,6 @@
       {
         "name": "Article III permits bounded statutory reinstatement",
         "support": [
-          "Stone",
           "Blackmun",
           "Stevens",
           "Souter",

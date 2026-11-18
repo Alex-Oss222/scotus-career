@@ -12,21 +12,24 @@
 
 #### Position and scope
 
-**Approval Status:** USER-SUPPLIED POSITION. The supplied disposition, reasoning and express alternatives are recorded as preparation instructions. No Court judgment, vote, rationale or coalition is created by this supplement.
+**Approval Status:** Approved Stone position.
 
 **Build:** Commerce Clause and Federalism.
 
+**Court for this event:** Chief Justice Stone writes for the Court, joined by O'Connor, Scalia, Kennedy and Thomas. Breyer concurs in the judgment. Stevens dissents, joined by Souter and Ginsburg.
+
 #### Case-specific reasoning
 
-**Supporting:** Chief Justice Stone-Zsela and Justices Stevens, Souter, Ginsburg, and Breyer.
-**Opposing:** Justices O'Connor, Scalia, Kennedy, and Thomas.
+**Supporting:** Chief Justice Stone-Zsela and Justices O'Connor, Scalia, Kennedy, and Thomas; Justice Breyer in the judgment only.
+**Opposing:** Justices Stevens, Souter, and Ginsburg.
 
 #### Disposition, application and preserved limits
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 | --- | --- | --- | --- | --- |
-| Opinion of the Court | Chief Justice Stone-Zsela | Stevens, Souter, Ginsburg, and Breyer | Reversal and remand | Entire opinion, including the statutory conditions, Article III rule, response to narrow retrospective coverage, limits, and remedy. |
-| Dissent | Scalia | O'Connor, Kennedy, and Thomas | Would affirm denial of reinstatement | Entire dissent; no part of the Court's opinion. |
+| Opinion of the Court | Chief Justice Stone-Zsela | O'Connor, Scalia, Kennedy, and Thomas | Affirmance | Entire opinion, including the Article III finality rule, its application to the August 13, 1991 dismissal, its qualifications, and its limits. |
+| Concurrence in the judgment | Breyer | No other Justice | Affirmance | No part of the Court's opinion; rests on the closed, identifiable class of final judgments §27A(b) reopens without general prospective application. |
+| Dissent | Stevens | Souter and Ginsburg | Would reverse and remand for reinstatement | Entire dissent; no part of the Court's opinion. |
 <!-- END_SECTION II -->
 
 
