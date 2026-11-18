@@ -7,8 +7,8 @@
     "O'Connor": 16,
     "Scalia": 14,
     "Kennedy": 15,
-    "Souter": 16,
-    "Thomas": 15,
+    "Souter": 15,
+    "Thomas": 16,
     "Ginsburg": 14,
     "Breyer": 16
   },
@@ -1674,10 +1674,10 @@
       "case": "Printz v. United States",
       "date": "1997-06-27",
       "authors": [
-        "Souter"
+        "Thomas"
       ],
       "author_evidence": [
-        "| Opinion of the Court on jurisdiction and Part I; opinion announcing the judgment in Part II | Souter | All other Justices on jurisdiction; Stone-Zsela, Stevens, Ginsburg and Breyer in Part I; no other Justice in Part II's fiscal rationale | Vacatur at the stated scope and confined remand | Jurisdiction has nine joins; Part I's source-and-function rule has five; Part II announces the binding mandate but its fair-value reasoning is Souter's alone |"
+        "| Opinion of the Court: jurisdictional section, Part I and Part II | Thomas | Stone-Zsela, Scalia and Kennedy in full; O'Connor in every part except Part I's reach to purely ministerial record-processing; Stevens, Souter, Ginsburg and Breyer in the jurisdictional section only | Reversal, declaratory relief and remand for conforming judgments | Jurisdiction has nine joins; Part I's holding and Part II's disposition and remedy have five; Part I's reach to purely ministerial record-processing has four and is not a holding of the Court |"
       ],
       "topology_sha256": "9a8488e91b6bf738027de273603fc668ea780859e2bb05920acc2560864b07a2"
     },

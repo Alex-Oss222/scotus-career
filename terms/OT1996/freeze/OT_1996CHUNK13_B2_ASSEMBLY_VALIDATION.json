@@ -13,6 +13,7 @@
       "O'Connor",
       "Scalia",
       "Kennedy",
+      "Souter",
       "Thomas",
       "Ginsburg",
       "Breyer"
@@ -42,14 +43,14 @@
       "O'Connor",
       "Scalia",
       "Kennedy",
-      "Thomas",
+      "Souter",
       "Ginsburg",
       "Breyer"
     ],
     "last_counted": "In_re_Cohen_merits_1997-06-30.md",
     "explanation_word_counts": [
       292,
-      177,
+      189,
       152,
       122
     ],

@@ -16,14 +16,14 @@
   "form": "one signed plenary lead; no separate writing",
   "author": "Stone-Zsela",
   "counts": {
-    "Stone-Zsela": 14,
+    "Stone-Zsela": 15,
     "Stevens": 15,
     "O'Connor": 16,
     "Scalia": 14,
     "Kennedy": 15,
-    "Souter": 16,
-    "Thomas": 15,
-    "Ginsburg": 15,
+    "Souter": 15,
+    "Thomas": 16,
+    "Ginsburg": 14,
     "Breyer": 16
   },
   "last_counted": "Faragher_v_City_of_Boca_Raton_merits_1997-09-08.md",
@@ -43,7 +43,7 @@
     "Stevens",
     "Scalia",
     "Kennedy",
-    "Thomas",
+    "Souter",
     "Ginsburg"
   ],
   "census_regrouping": "passed",
