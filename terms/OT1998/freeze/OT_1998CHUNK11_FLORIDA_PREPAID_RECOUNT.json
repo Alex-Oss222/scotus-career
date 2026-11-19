@@ -51,7 +51,7 @@
       "authors": [
         "O'Connor"
       ],
-      "source_sha256": "03126c71dde3278672df67c9f6210f66ab7b7e976c5f984a53307feba3f79942",
+      "source_sha256": "b76ff62cc8a66fe9deb69724341ba1226b600fe717d545ca4dff95ac93d14626",
       "author_evidence": [
         "| Opinion of the Court, Parts I-X | O'Connor | Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer in full | Eight direct votes throughout; Stone-Zsela concurs in every component judgment without joining the opinion. |"
       ]
@@ -1583,7 +1583,7 @@
       "authors": [
         "Breyer"
       ],
-      "source_sha256": "dc7f8768739e32efb141d4bfd09db66c7a7db71b5a2ada787aa01a58ac482833",
+      "source_sha256": "ae9a099c4986d51ccbac869c4ffee10f41a6bf513a2311fca38a1c4adb6e7469",
       "author_evidence": [
         "| Opinion of the Court, Part I-A | Breyer | Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg: statutory nondeath consequence of actual deadlock; Stone-Zsela agrees with that disposition only |",
         "| Opinion of the Court, Part I-B | Breyer | All eight other Justices: no universal deadlock-instruction formula |",
@@ -1726,7 +1726,7 @@
       "authors": [
         "Souter"
       ],
-      "source_sha256": "b0d86846a51e3c6976b26899c3b5d803969e33f30675bb8607f7ed3ec43a0453",
+      "source_sha256": "9a25f0e2f89e1618b90e608bd152783dfd3fcb14b8b37689116c8c126688f010",
       "author_evidence": [
         "| Opinion of the Court, Part I — review, distinct proceedings and express statutory authorization | Souter | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer; unanimous. |",
         "| Opinion of the Court, Parts II–III — constitutional state-forum rule and reversal/remand | Souter | Stone-Zsela, Stevens, Ginsburg and Breyer; five Justices including the author. |",
@@ -1742,7 +1742,7 @@
       "authors": [
         "Stone-Zsela"
       ],
-      "source_sha256": "ac523d0844ce3ab7157cf5602d9c5be174410aef1d4f94261e19c588516f086e",
+      "source_sha256": "1ce075264be7b7f1aa96fd98a16184f00ef3bad6a7df57a36f7806647ab53858",
       "author_evidence": [
         "| Opinion of the Court, Part I | Stone-Zsela | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Unanimous statutory clarity and separation of authorization, power, consent, liability and relief; no common affirmative amenability ground. |",
         "| Opinion of the Court, Part II | Stone-Zsela | O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Eight directly reject this own-product-advertising §5 justification, with Boerne prevention and property qualifications intact. Stevens refuses this part. |",

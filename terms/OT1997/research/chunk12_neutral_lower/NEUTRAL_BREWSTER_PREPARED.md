@@ -14,7 +14,7 @@
 
 The case-specific validated section below and common law controls are mechanically copied from `../chunk12_preparation/NEUTRAL_LATE_SUPPLEMENT.md`, SHA-256 `D1FEA4129477E16CA66C51D8AA0C67280E0624EC8012A35EA1D74A7873EA5424`. That prior neutral validation records full reading of each lower opinion, including all notes and Berryman's appended 1995 opinion, with an independent CAP cross-check. This preparation did not repeat those readings or open raw current-case Supreme Court text. The original pleadings, affidavits and other unrecovered papers remain subject to the specific limits below; their absence from research proves no litigation default.
 
-Only the three authorized late-case sections of `../chunk12_preparation/NEUTRAL_CANDIDATE.md` were consulted for identity, assigned date and the framing corrected by the validated supplement. Its file SHA-256 is `EA5F3ADD4CD682086602AB48C72D87848EDCF33AB2BF8E54E4D731D4082BD84F`. The candidate's obsolete missing-lower-opinion statements, stale relative law links and materially misleading characterizations are not an operative additional packet. No current commitment, reconciliation, comparator, private position, assembly product, raw Record or audit annex was read. No new fact, vote, grant or filing is created.
+Only the three authorized late-case sections of `../chunk12_preparation/NEUTRAL_CANDIDATE.md` were consulted for identity, assigned date and the framing corrected by the validated supplement. Its file SHA-256 is `4BEB460605A5675A2FFE2565CD90417D1513F1C65AFBAED1D610CA5A6AD1DCDD`. The candidate's obsolete missing-lower-opinion statements, stale relative law links and materially misleading characterizations are not an operative additional packet. No current commitment, reconciliation, comparator, private position, assembly product, raw Record or audit annex was read. No new fact, vote, grant or filing is created.
 
 ## Case source navigation
 
@@ -22,7 +22,7 @@ Full lower judicial text: https://law.resource.org/pub/us/case/reporter/F3/149/1
 
 ## Already checked law and mandatory later refresh
 
-The last received complete public-law snapshot is `../../entering-law/OT_1997CHUNK12_BEFORE_1998-06-26.md`, SHA-256 `B4A68F40AD441881FED9A6A9FDA308D1D8C795E3543F97030043085EEE871965`. It contains law through June 25, not the subsequently completed June 26 decisions. This preparation is not a claim of freshness for the scheduled later event.
+The last received complete public-law snapshot is `../../entering-law/OT_1997CHUNK12_BEFORE_1998-06-26.md`, SHA-256 `8B786BB4F1F7DC58E5E574F86E974FC1E4FBF4F890712CC07707B9BF32914C53`. It contains law through June 25, not the subsequently completed June 26 decisions. This preparation is not a claim of freshness for the scheduled later event.
 
 At that checked baseline, Diamondstone retains Harlow/Anderson and requires each official's actual role, information, causation and conduct-time federal clarity. Its separate proposed replacement defense is not controlling law. Its final-judgment setting does not expand interlocutory jurisdiction. Bragdon's clinical direct-threat and public-health-weight rules do not define constitutional professional culpability or immunity. Finley's selective arts-grant holding supplies no general immunity for public employment or official discretionary decisions. The exact later snapshot must be screened before these observations become the final entering-law handoff.
 

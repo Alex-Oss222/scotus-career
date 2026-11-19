@@ -9,7 +9,7 @@ The following complete final model handoffs are adopted **without a substantive 
 | Operative handoff | SHA-256 |
 |---|---|
 | [Complete commitments for 156–159](OT_1997CHUNK13_COMMITMENTS_SEP28_FINAL.md) | `8507a3654eeede2b7a1e05c7acc6fee781f8177dddda235bcaa0e6ff9951ddce` |
-| [Complete Lucas commitments](OT_1997CHUNK13_COMMITMENTS_LUCAS_FINAL.md) | `c49c17a97571c8b7273d14f2d536a6ab7eefe14c0a9cd121ec532310cbb9ca6f` |
+| [Complete Lucas commitments](OT_1997CHUNK13_COMMITMENTS_LUCAS_FINAL.md) | `9165d0bb59982529c8a564dba808666334c79344f2ceddd9146dd3f79d885b89` |
 | [Actual five September 21 Public Projections](../entering-law/OT_1997CHUNK13_SEP21_PUBLIC.md) | `3152168622ac4f2d79bafd3d7ccd9e410e0f39bf04fd673ce1954e7248dc9184` |
 
 The four-case [final validation](OT_1997CHUNK13_SEP28_FINAL_VALIDATION.md) and Lucas [final clean-refresh receipt](../research/chunk13-neutral-validation/LUCAS_MODEL_FINAL_REFRESH_RECEIPT.md) establish the separate clean modeling refresh. Reconciliation independently read those receipts, the final administrative and assembly limits, and all five actual September 21 Public Projections, including published positions. Deterministic comparison confirms complete preservation of the previously reviewed adjudicative blocks except the verified First Jersey clerical correction: the Special Agent reversal favored the **defendants**, not the SEC. That correction changes no commitment or ground.

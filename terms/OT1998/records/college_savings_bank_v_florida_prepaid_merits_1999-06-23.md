@@ -70,7 +70,7 @@ The law and complete public explanations are set out in the Holdings, Precedent 
 
 ## Assignment under Engine §8
 
-The Chief assigns because he belongs to the five-Justice reversal coalition. The signed form and all governing propositions were fixed first in the legal-preparation receipt. The fresh [recount](../freeze/OT_1998CHUNK11_COLLEGE_SAVINGS_RECOUNT.json) starts at zero and uses only actual author evidence from earlier qualifying Records, including alphabetically preceding same-day Alden. No prior tally is reused. There are 115 counted opinions from 128 preceding Records; the last counted event is Alden v. Maine, merits, June 23, 1999, `alden_v_maine_merits_1999-06-23.md`, whose released SHA256 is `b0d86846a51e3c6976b26899c3b5d803969e33f30675bb8607f7ed3ec43a0453`.
+The Chief assigns because he belongs to the five-Justice reversal coalition. The signed form and all governing propositions were fixed first in the legal-preparation receipt. The fresh [recount](../freeze/OT_1998CHUNK11_COLLEGE_SAVINGS_RECOUNT.json) starts at zero and uses only actual author evidence from earlier qualifying Records, including alphabetically preceding same-day Alden. No prior tally is reused. There are 115 counted opinions from 128 preceding Records; the last counted event is Alden v. Maine, merits, June 23, 1999, `alden_v_maine_merits_1999-06-23.md`, whose released SHA256 is `9a25f0e2f89e1618b90e608bd152783dfd3fcb14b8b37689116c8c126688f010`.
 
 | Justice | Count before assignment |
 |---|---:|

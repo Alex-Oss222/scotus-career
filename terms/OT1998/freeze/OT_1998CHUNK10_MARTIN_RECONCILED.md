@@ -53,7 +53,7 @@ No newly material neutral fact or lawful path was required to revise the two pro
 - `freeze/OT_1998CHUNK10_B_MARTIN_NEUTRAL.md`: `9b40ac8ea2301dede3612b456fa7457eedca4e0c2f16326415e3c6610d41cef2`
 - `research/OT_1998CHUNK10_B_MARTIN_ACKER_SOURCES.md`: `e912627b4210e6c959b660e9c9d292d716220143f2ef770bdb7696cbced2b6d1`
 - `entering-law/OT_1998CHUNK10_B_SELECTED_HOLDINGS.md`: `1f554f65a42e8063a12e4f9e79c1f310c8428c399c225345a166e2983433ccc9`
-- `entering-law/OT_1998CHUNK10_B_STANDARDS.md`: `2e32005759f5e4c56b2dd503c69297ff65ea752b9945996ffc841729e8929de3`
+- `entering-law/OT_1998CHUNK10_B_STANDARDS.md`: `7faaeb39b446b16f028fc9bc67a82592490a9fc46616b64fbb573678eb3972d7`
 - `entering-law/OT_1998CHUNK10_B_PUBLISHED_POSITIONS.md`: `9b43ddf0dd1ca56d9a4eb824f0d4ca12f90fcc4ba79b2ab9ce8d00866707a265`
 - `entering-law/OT_1998CHUNK10_B_CURRENT.md`: `09c290b7b0d69af840b6ee71e596d36b4ff07c9606465d00e3cdeaf850547be5`
 - Approved comparator, exact Martin block UTF-8: `a7a29ecc97d78882408dbffb7ddb84ecb154fbd38067e5a163d7ceea1a70a7c6`

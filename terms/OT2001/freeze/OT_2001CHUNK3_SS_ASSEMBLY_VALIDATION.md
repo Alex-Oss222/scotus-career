@@ -12,4 +12,4 @@ Record SHA-256: `d016c08c670e9c130a4f72bba3f87feca4a996fcd7c776436d6858013c8768d
 
 No material assembly blocker remains. Whole-term projections, generated Render Input and the term checker remain control's integration tasks. This receipt claims no repository operation.
 
-The [public-law copy through March 26](../entering-law/OT_2001CHUNK3_THROUGH_MAR26_PUBLIC_LAW.md) was mechanically generated after this Record and contains 47 events. Each bounded Public Projection was verified as an exact single copy of its authoritative Record section. Copy SHA-256: `ae3508148e9cd683b0a17669c93b752c5214e68c8033cde37f1a4e6274a3f38c`.
+The [public-law copy through March 26](../entering-law/OT_2001CHUNK3_THROUGH_MAR26_PUBLIC_LAW.md) was mechanically generated after this Record and contains 47 events. Each bounded Public Projection was verified as an exact single copy of its authoritative Record section. Copy SHA-256: `594aa7acd5f0b552f193b1f2eb4f84ca472c0a3133ca1acac4c66482626fe002`.

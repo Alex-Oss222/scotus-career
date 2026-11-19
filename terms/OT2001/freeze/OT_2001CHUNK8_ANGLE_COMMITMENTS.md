@@ -169,6 +169,6 @@ SHA-256 digests identify the input bytes read. No repository commit assertion is
 | `terms/OT1997/output/OT_1997CHUNK6.md` | `984d0bb4b766dae7d6cbefed3ed62dda1c097aa6468d9cd736dd559348f877a0` |
 | `terms/OT1998/output/OT_1998CHUNK6.md` | `2ae51405e2c2222d7f0626346f41d0504167c31e250bf4fe67d21a164f774374` |
 | `terms/OT1999/output/OT_1999CHUNK7.md` | `69ba2da2dba6d772dd6ca5227214b31825d0dcb1676a1d599f2435a680efa4ca` |
-| `terms/OT1999/output/OT_1999CHUNK8.md` | `d10d496d0a8ce1178f894026286900c484be29aca86620aebf1d7465d8ce73cd` |
+| `terms/OT1999/output/OT_1999CHUNK8.md` | `1b657ac79bd244edd08fec3a2975e3be2bc271a232653bcb63d340dfff2965d4` |
 | `terms/OT2001/sources/chunk8-comparator/angle-enbanc.txt` | `abc6a05519a5b276bbe7be527dd29c36ea520a3f2483127d908d6dc10782c868` |
 | `tmp/angle_mcmillan_477us79.pdf` | `eb8b3fff76155c47be25c5aec769a8134816df5b9c89b861d781c51458b1b412` |

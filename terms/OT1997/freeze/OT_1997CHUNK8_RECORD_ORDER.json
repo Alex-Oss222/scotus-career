@@ -2,7 +2,7 @@
   {
     "file": "benjamin_v_jacobson_merits_1998-05-07.md",
     "date": "1998-05-07",
-    "sha256": "7213daf1c5ee236bffab29cb9d2c064b79c7b781ffeba4f1e5fec946aaaf3ef5",
+    "sha256": "3bd25437956d062731c51a637d970a15781cf2267c85907fdfe478383ffd63b7",
     "public": "OT_1997CHUNK8_PUBLIC_benjamin_v_jacobson_merits_1998-05-07.md",
     "status": "assembly validated; durably written; git reserved to operator"
   },
@@ -37,7 +37,7 @@
   {
     "file": "bousley_v_united_states_merits_1998-05-18.md",
     "date": "1998-05-18",
-    "sha256": "05da91d185fb93ee70a016b6b6a99b3e0d8387d4a9e5bc1a85bca8f0a2891813",
+    "sha256": "cbea833f5dc5bb04ec85d6378808c57e6be6ee066b465ffc30aabae55f7430ca",
     "public": "OT_1997CHUNK8_PUBLIC_bousley_v_united_states_merits_1998-05-18.md",
     "status": "assembly validated; durably written; git reserved to operator"
   },
@@ -72,7 +72,7 @@
   {
     "file": "gavin_v_branstad_merits_1998-05-21.md",
     "date": "1998-05-21",
-    "sha256": "2f2188d6405dfd59a75b387414ad10a4ce41522c2021a26235dca241fbd5aa83",
+    "sha256": "e388f9adf97b8fedd9838bf6392a02ad275ccb0f12ed7fa2a79add09d3aea161",
     "public": "OT_1997CHUNK8_PUBLIC_gavin_v_branstad_merits_1998-05-21.md",
     "status": "assembly validated; durably written; git reserved to operator"
   },

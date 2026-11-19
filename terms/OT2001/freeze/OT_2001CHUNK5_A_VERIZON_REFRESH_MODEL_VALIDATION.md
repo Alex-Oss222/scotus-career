@@ -32,7 +32,7 @@ Original A commitments remain SHA-256: `fb0825b5dada7eef05777bb9bd88e279208c284e
 
 Validated A neutral remains SHA-256: `3c923b179a3272067daf953c05910800f7df87299e3b3d22935790426e4d61d6`.
 
-A entering-law slice remains SHA-256: `86a2865687816d068061aa11a3dcc88b0a780c6aba50b8e5ac681cd5c4c41065`.
+A entering-law slice remains SHA-256: `dbec5615389fd27f3efb0ba40df5340b51d01bc90d2f1ae34d594c8d61796015`.
 
 New neutral supplement matches SHA-256: `e523fd22322e7b63dd8fcb094ff86fe4ed5560d53a698a8063d742bc248998a5`.
 

@@ -12,7 +12,7 @@ This navigation-only aggregate identifies the controlling case-scoped freezes. I
 | 38 | Young | [Freeze](../freeze/OT_2001CHUNK3_A_RECONCILED.md) | bc031e6c05cd63b7063a40df97e719dbc231d3df553a1ac5b9b6154233462d4c |
 | 39 | Vonn | [Freeze](../freeze/OT_2001CHUNK3_BC_RECONCILED.md) | 261dde2bc8f15adef81be7274b3ba5c48a4e8bd5630678b4532eed65e76fcc5f |
 | 40 | Delaney | [Freeze](../freeze/OT_2001CHUNK3_BC_RECONCILED.md) | 261dde2bc8f15adef81be7274b3ba5c48a4e8bd5630678b4532eed65e76fcc5f |
-| 41 | Ruiz | [Freeze](../freeze/OT_2001CHUNK3_RUIZ_RECONCILED.md) | e20710fa7215f088f89a34380338f207227e44a1e4061a1d04b9eecc3f18f1de |
+| 41 | Ruiz | [Freeze](../freeze/OT_2001CHUNK3_RUIZ_RECONCILED.md) | 6451e3c96832031ced6e0a4e9b750475a0f93cc3891b71fe319b2c974716667b |
 | 42 | Ragsdale | [Freeze](../freeze/OT_2001CHUNK3_RAGSDALE_RECONCILED.md) | 50a75d9504d9908fcea81440cf04d0158fab817f2b8767916cf66199f2c2d7d8 |
 | 43 | Edelman | [Freeze](../freeze/OT_2001CHUNK3_BC_RECONCILED.md) | 261dde2bc8f15adef81be7274b3ba5c48a4e8bd5630678b4532eed65e76fcc5f |
 | 44 | Zahrey | [Freeze](../freeze/OT_2001CHUNK3_BC_RECONCILED.md) | 261dde2bc8f15adef81be7274b3ba5c48a4e8bd5630678b4532eed65e76fcc5f |

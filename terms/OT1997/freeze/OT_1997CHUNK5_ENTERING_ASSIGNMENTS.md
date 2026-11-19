@@ -412,7 +412,7 @@ The Chief assigns from the seven-Justice dismissal coalition, although he does n
 
 ## inmates_of_suffolk_county_jail_v_rouse_merits_1998-01-15.md
 
-Effective date: 1998-01-15. Source SHA-256: `356b67f182ccc5175ec21d20416cc63b9062987b99e8db611a9ee9ff518d579e`.
+Effective date: 1998-01-15. Source SHA-256: `37209d34f1f727f26438db0a884b6b36b828318bd0a2a181942339aafb16aae3`.
 
 ### Exact opinion topology
 
@@ -693,7 +693,7 @@ Kennedy is the strongest alternative. His Reich opinion gives concrete fit for s
 
 ## united_states_v_kirk_merits_1998-02-14.md
 
-Effective date: 1998-02-14. Source SHA-256: `aaf253d9a10648353e068ee201a5118371f8748482089d8a0e4069274e3ff237`.
+Effective date: 1998-02-14. Source SHA-256: `b979c49258bc70004c6b2c9fa7071c12f55e277852c6f0d061fee5234227356e`.
 
 ### Exact opinion topology
 
@@ -705,7 +705,7 @@ The [form-first receipt](../freeze/OT_1997CHUNK4_A_FORM_FIRST.md) fixed one sign
 
 ## johnson_v_rodriguez_merits_1998-02-17.md
 
-Effective date: 1998-02-17. Source SHA-256: `6945b6b8ebc8adfedbe4ac7be074f43549386b030f450f2433a7bba460a0f077`.
+Effective date: 1998-02-17. Source SHA-256: `14ae41f4b6f0f5dd225cb210a44702650fd87ce77feb5e1766b5a87b25f72da2`.
 
 ### Exact opinion topology
 
@@ -722,7 +722,7 @@ One signed plenary opinion, its governing parts and Stone's partial scope were f
 
 ## arteaga_v_united_states_court_of_appeals_filing_order_1998-02-23.md
 
-Effective date: 1998-02-23. Source SHA-256: `8a87f17cb79ee4951f3130ceaca283d9416dc6142732583d0b5ce16ce7acf9c1`.
+Effective date: 1998-02-23. Source SHA-256: `a0119aad5089942a295c66758f2f2e4f3a1c2cbc4d31d747eb670ea1d258a624`.
 
 ### Exact opinion topology
 
@@ -740,7 +740,7 @@ Form first: one reasoned per curiam order separates two current motions and one 
 
 ## newsweek_inc_v_florida_department_of_revenue_summary_merits_1998-02-23.md
 
-Effective date: 1998-02-23. Source SHA-256: `2f17b37aedbb4f9ce3ae60eabcd061fad4ea615ed3fab540882c081418d88144`.
+Effective date: 1998-02-23. Source SHA-256: `593dbdc90c18d7c0f204bfbcb9d5317a196e3b385e84b5478a43d949d6f98d46`.
 
 ### Exact opinion topology
 
@@ -758,7 +758,7 @@ The form-first receipt selects a per curiam summary merits decision because esta
 
 ## regions_hospital_v_shalala_merits_1998-02-24.md
 
-Effective date: 1998-02-24. Source SHA-256: `29c6b8787a207859aff2450f4e1ce459fc7314741bed7db6de52389d423f1590`.
+Effective date: 1998-02-24. Source SHA-256: `58332b0fd53dd1d01553602241b1ef37136742125af949ed5dbe4c31451bcd8d`.
 
 ### Exact opinion topology
 
@@ -778,7 +778,7 @@ Stone assigns from the six-Justice affirmance coalition. Eligible for the comple
 
 ## rivet_v_regions_bank_of_louisiana_merits_1998-02-24.md
 
-Effective date: 1998-02-24. Source SHA-256: `30a6e29bad248e6ec16c881c9b9a7e4cc76432ca0fbbdea3a96b77e6fb286d2e`.
+Effective date: 1998-02-24. Source SHA-256: `d4dbfa0ff4328aade23850bb154e76e492aeb2ca237b7cdbf398a9098de78c64`.
 
 ### Exact opinion topology
 
@@ -792,7 +792,7 @@ Stone assigns to Scalia for fit and the lower-count preference. This opinion's w
 
 ## alaska_v_native_village_of_venetie_tribal_government_merits_1998-02-25.md
 
-Effective date: 1998-02-25. Source SHA-256: `9dde27feef0ab5b80fbdaf73af1ad3c0af55d490a17445d59a0056b8ae1e8c81`.
+Effective date: 1998-02-25. Source SHA-256: `16218c052ca5d038dd04c62cb4712f6e8a5a92173bf7eba82143b6716442bce4`.
 
 ### Exact opinion topology
 
@@ -832,7 +832,7 @@ Stone-Zsela delivers the opinion of the Court, joined in full by Scalia, Kennedy
 
 ## aponte_matos_v_toledo_davila_merits_1998-02-26.md
 
-Effective date: 1998-02-26. Source SHA-256: `03d246e83d3fb2411144c591322b1d3e772a739edf3f812f295f3d03a9a1a8fe`.
+Effective date: 1998-02-26. Source SHA-256: `a6e5e11213fae7ad5e4806157586db43919dd584493ea99888f3cef7592c36ce`.
 
 ### Exact opinion topology
 
@@ -856,7 +856,7 @@ Effective date: 1998-02-26. Source SHA-256: `03d246e83d3fb2411144c591322b1d3e772
 
 ## shahar_v_bowers_merits_1998-03-02.md
 
-Effective date: 1998-03-02. Source SHA-256: `4f2ac0c5771f6e63645185bd0cd68fdedaf717fa3e5670d85151b7e4dc4da562`.
+Effective date: 1998-03-02. Source SHA-256: `d9eb0e3958a1c5795f911ba76017d8c59260d489f9f22d9d4247ffd801502320`.
 
 ### Exact opinion topology
 
@@ -881,7 +881,7 @@ Effective date: 1998-03-02. Source SHA-256: `4f2ac0c5771f6e63645185bd0cd68fdedaf
 
 ## bogan_v_scott_harris_merits_1998-03-03.md
 
-Effective date: 1998-03-03. Source SHA-256: `127e784437815ce26ad9d78f9760b2f06839de5bcec65404f9e8fd218551143d`.
+Effective date: 1998-03-03. Source SHA-256: `4e0fef954ff064caa77523205d437bf726957be95abd05d46aef54f43bae68a5`.
 
 ### Exact opinion topology
 
@@ -901,7 +901,7 @@ Thomas delivers the opinion of the Court, joined in full by Stone-Zsela, Stevens
 
 ## lexecon_inc_v_milberg_weiss_bershad_hynes_lerach_merits_1998-03-03.md
 
-Effective date: 1998-03-03. Source SHA-256: `cf024adbaaaa8eb2b8b110646873a1243454756315c3f0e900890e0f0615e54f`.
+Effective date: 1998-03-03. Source SHA-256: `8b06e5d3dd04fc4dba71200adb769d945694468dd690740a9ff11e773bc6cbd0`.
 
 ### Exact opinion topology
 
@@ -925,7 +925,7 @@ The opinion rests on text, structure and the preserved objection. It adds no leg
 
 ## spencer_v_kemna_mootness_1998-03-03.md
 
-Effective date: 1998-03-03. Source SHA-256: `0bb6a849ba0e734a0426495c61845134291fb30264082125c54b6f060ef18721`.
+Effective date: 1998-03-03. Source SHA-256: `13acf471ab4def9ad337d3e3dd2ddb0669e21d8e14eaa9e7f629a0bbce47b26c`.
 
 ### Exact opinion topology
 

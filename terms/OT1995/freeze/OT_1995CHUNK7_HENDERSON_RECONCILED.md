@@ -125,10 +125,10 @@ No material neutral correction is needed for these commitments. The newly emphas
 
 | Frozen input | Commit | SHA256 of committed bytes |
 |---|---|---|
-| Independent Henderson commitments | `22e393e` | `a931dd5c3929b5a56dc4430173f2580818bc3ea7560e3e16ad3737138c242a10` |
+| Independent Henderson commitments | `22e393e` | `720c1f49814e63589fe308372c5dff13e8394ef30d7a16b356c6b1cdfefd3aa7` |
 | Validated Henderson neutral packet | `689448f` | `02c6f00e20e4427a966e061058a9655ce4a4e5b37cebef4cdb451f9401afdba2` |
 | Authorized opening slice | `d69c51d` | `bd4fe6c26041928f93736c54a4fff6ebe8c2044a5f273e33756f85781fb02410` |
-| Common May 13 projection | `7655d8f` | `886abb4471a1ab665f985e7cbefa66a38549350a421e32ae757870ffa21985a7` |
+| Common May 13 projection | `7655d8f` | `e3ae9bd88801219a892b1ef067583e68c5edab83a2731f0858ae4595ac3b8237` |
 | Historical comparator verification | `8f13c23` | `1413925319ab6461e4e1545b50a65dc57a6b6cdf57630033c0c29ed1fd852a33` |
 
 **Completion:** Eight Associate commitments and all proposition joins accounted for; source bounds and unadopted alternatives retained; no unsupported historical departure or material source blocker remains for this bounded reconciliation. This file is the only artifact authored in this follow-up. No commit, delegation, opinion assignment, Stone assessment or final Court action was performed. Commit this handoff before any authorized assembly.

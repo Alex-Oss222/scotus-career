@@ -43,12 +43,12 @@
     },
     {
       "path": "terms/OT2000/freeze/OT_2000CHUNK2_COMMITMENTS_MIDDLE.md",
-      "sha256": "83668a73a040b9db565490d6dcfba417f18594d742de6a04b5be140af6dc2618",
+      "sha256": "a5d5f55b8aeed2d76459e9ebb310a50209ac4eed54601400b701d7a9867321a5",
       "bytes": 57441
     },
     {
       "path": "terms/OT2000/freeze/OT_2000CHUNK2_COMMITMENTS_MIDDLE_RECEIPT.json",
-      "sha256": "1d494a0f12e755e39493a93e1be2d8ae03244448aeb263bc7701dfdc2f3c97ac",
+      "sha256": "d0e5e8cbc3c14198974f99be1a39f8fa2f168acabb87959b84ca3cf26b8ef67b",
       "bytes": 7949
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "path": "terms/OT2000/entering-law/OT_2000CHUNK2_MIDDLE_PUBLIC_POSITIONS.md",
-      "sha256": "2b94b941d2a2776a57ab472ccfda3c4f6b9302a6bf0733fd3b280fae38886a79",
+      "sha256": "8568307a25594e828f224160299f8c94543e0930ca511f56f513eb30581c9f06",
       "bytes": 39889
     },
     {
@@ -138,7 +138,7 @@
     },
     {
       "path": "terms/OT2000/entering-law/OT_2000CHUNK2_kansas.md",
-      "sha256": "9391ee0bde426db21f8ce3fa75dd7654c3f6c454730b60465a7f1ca25071645a",
+      "sha256": "e45c3e3d59a637eb50e8ef6db3515c3c84ca61491559ef6ec0d1ef60450dd56d",
       "bytes": 36130
     },
     {
@@ -193,14 +193,14 @@
     },
     {
       "path": "terms/OT2000/entering-law/OT_2000CHUNK2_MIDDLE_HUDSON_RECONCILIATION_RECEIPT.json",
-      "sha256": "037d5fa5a085c51bb6978b8574f3b3230f2abb706e0c4b74e47d05cc922fe57c",
+      "sha256": "53672e6694acd3219572acdee1945164ae271e2c932960864c67a152c9838d83",
       "bytes": 740
     }
   ],
   "output": {
     "runtime": "terms/OT2000/runtime/OT_2000CHUNK2_RECONCILED_MIDDLE.md",
     "freeze": "terms/OT2000/freeze/OT_2000CHUNK2_RECONCILED_MIDDLE.md",
-    "sha256": "672443c633e88e26ada93c499ca13dc0ff829188af3e1fc925749910fac813f3",
+    "sha256": "89c7a8ce793b3914ad64bf4887878f8054a594d81d43df614ad852e3e01c1b6f",
     "bytes": 86309,
     "identical": true
   },

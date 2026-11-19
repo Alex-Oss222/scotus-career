@@ -1,12 +1,12 @@
 {
   "scope": "151-153 historical reconciliation; September 21, 1998",
   "context_scope": "Frozen neutral, preparation, source hashes, non-Stone commitments, three scoped comparators; no private Stone material, raw Decision Records, full brief or other control files",
-  "neutral_manifest_sha256": "0c73fb6938e695ad1feaf1903f7826881bc15432fe0315ecc831d37729c5999b",
+  "neutral_manifest_sha256": "07a22b77fba6f40fb07676451a32b024c64cd6da5244f8f13adad4a8f0a6a9d4",
   "source_hash_checks": [
     {
       "path": "terms/OT1997/freeze/OT_1997CHUNK13_ELECTIONS_SEP21_SOURCE_OT_1997CHUNK13_ELECTIONS_SEP21_BASE.md",
-      "expected_sha256": "52b3855bbeec6c29e7e7fb5bf64013c4f2f747d568588baf97d6f75c43d0b697",
-      "actual_sha256": "52b3855bbeec6c29e7e7fb5bf64013c4f2f747d568588baf97d6f75c43d0b697",
+      "expected_sha256": "5bf8ad883040522ec54d7d413e9f1eea88eac03736ba51efafe41a3940c89117",
+      "actual_sha256": "5bf8ad883040522ec54d7d413e9f1eea88eac03736ba51efafe41a3940c89117",
       "bytes": 1232347,
       "pass": true
     },
@@ -26,8 +26,8 @@
     },
     {
       "path": "terms/OT1997/freeze/OT_1997CHUNK13_ELECTIONS_SEP21_SOURCE_OT_1997CHUNK13_SEP14_FOUR_PUBLIC.md",
-      "expected_sha256": "16a48512a2f28afe0d50e3b2a456673d72a7404677c3b539b137f88553b00e71",
-      "actual_sha256": "16a48512a2f28afe0d50e3b2a456673d72a7404677c3b539b137f88553b00e71",
+      "expected_sha256": "84ad19a736d3638a81881f50b894bd50d27246db16d21cf2a4df661855457098",
+      "actual_sha256": "84ad19a736d3638a81881f50b894bd50d27246db16d21cf2a4df661855457098",
       "bytes": 51557,
       "pass": true
     },
@@ -40,8 +40,8 @@
     },
     {
       "path": "terms/OT1997/freeze/OT_1997CHUNK13_ELECTIONS_SEP21_SOURCE_OT_1997CHUNK13_ELECTIONS_CURRENT.md",
-      "expected_sha256": "31a6ced025233ad5e80890927e771e59cc6236af8ebdc234721f449cbe4e9bca",
-      "actual_sha256": "31a6ced025233ad5e80890927e771e59cc6236af8ebdc234721f449cbe4e9bca",
+      "expected_sha256": "f45e01ff01cac26d3bc53b2fa13fb618d91af2aa1c5eb7d24503dc17c8c831c4",
+      "actual_sha256": "f45e01ff01cac26d3bc53b2fa13fb618d91af2aa1c5eb7d24503dc17c8c831c4",
       "bytes": 84426,
       "pass": true
     },

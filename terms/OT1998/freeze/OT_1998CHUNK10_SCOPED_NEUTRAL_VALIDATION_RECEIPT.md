@@ -33,7 +33,7 @@ Each packet supplies neutral alternatives and Justice-specific date-eligible aut
 | `terms/OT1998/entering-law/OT_1998CHUNK10_A_CURRENT_LAW.md` | `ac410b24bf336374f6f3976abf383e57b8f6f957d0e963b1c1c63387b512ee32` | Blue Fox law and procedure; headings/navigation inspected; no June14 peer law applied to West |
 | `terms/OT1998/entering-law/department_of_the_army_v_blue_fox_merits_1999-01-20.md` | `a2b94676eadbd32d4bee5d8796f2ada29d9e9a63f4d0fa7ee5d98da0bd661501` | all bounded public text |
 | `terms/OT1998/entering-law/OT_1998CHUNK10_B_SELECTED_HOLDINGS.md` | `1f554f65a42e8063a12e4f9e79c1f310c8428c399c225345a166e2983433ccc9` | Olano, Johnson, Tuilaepa, Simmons, Shannon, Sochor, Espinosa, Stringer |
-| `terms/OT1998/entering-law/OT_1998CHUNK10_B_STANDARDS.md` | `2e32005759f5e4c56b2dd503c69297ff65ea752b9945996ffc841729e8929de3` | five exact Jones-relevant Standards entries |
+| `terms/OT1998/entering-law/OT_1998CHUNK10_B_STANDARDS.md` | `7faaeb39b446b16f028fc9bc67a82592490a9fc46616b64fbb573678eb3972d7` | five exact Jones-relevant Standards entries |
 | `terms/OT1998/entering-law/OT_1998CHUNK10_B_CURRENT.md` | `09c290b7b0d69af840b6ee71e596d36b4ff07c9606465d00e3cdeaf850547be5` | Neder, March carjacking Jones and institutional paragraph |
 | `terms/OT1998/workspace/neutral-projection.md` | `0bd7fd4d96afbacb46aa80f762325293de4f57c10177eebc33b3d581e583dc50` | opening chronology, selected navigation/public summaries, roster and Lilly remedial component; never raw Records/ledger |
 | `terms/OT1998/research/OT_1998CHUNK10_A_WEST_ALTERNATIVES_CLEARED.md` | `f1aa952bade0c23a59ec11fb0cecfc84aa219101621d88792567b699776445fd` | all screened excerpt; respondent printed31–39; OCR1737–2128 |

@@ -142,7 +142,7 @@ The selected commitments do not require additional current-case facts. They are 
 
 ---
 
-<!-- frozen-source: OT_1997CHUNK12_COMMITMENTS_CLINTON_REFRESH.md; sha256: dfa95b5cf48c72473e229d665de239296f01223d08443f016e01cd1679827fd2 -->
+<!-- frozen-source: OT_1997CHUNK12_COMMITMENTS_CLINTON_REFRESH.md; sha256: 1c4f03babce76eb3938d60462299dd203b48ba7ca22c63632648c16638bbdc4d -->
 ## Handoff source — Clinton v. City of New York
 
 Source: [OT_1997CHUNK12_COMMITMENTS_CLINTON_REFRESH.md](../freeze/OT_1997CHUNK12_COMMITMENTS_CLINTON_REFRESH.md).
@@ -418,7 +418,7 @@ Unrecovered original traffic-court orders, disputed hearing-officer discussions,
 
 ---
 
-<!-- frozen-source: OT_1997CHUNK12_COMMITMENTS_JUNE25_HISTORICAL.md; sha256: fe2fbc3071b5b921d3ee11272610031f5958d25d47772086fe56c5174ca6acf9 -->
+<!-- frozen-source: OT_1997CHUNK12_COMMITMENTS_JUNE25_HISTORICAL.md; sha256: ae6eb4fd1d273bbec02e676967549ba1f352425fa64bee1a5c79d8579569a027 -->
 ## Handoff source — Eastern Enterprises v. Apfel
 
 Source: [OT_1997CHUNK12_COMMITMENTS_JUNE25_HISTORICAL.md](../freeze/OT_1997CHUNK12_COMMITMENTS_JUNE25_HISTORICAL.md); bounded section: Eastern Enterprises v. Apfel.
@@ -462,7 +462,7 @@ The review concerns the constitutional retroactive tier-three liability assessed
 
 ---
 
-<!-- frozen-source: OT_1997CHUNK12_COMMITMENTS_JUNE25_HISTORICAL.md; sha256: fe2fbc3071b5b921d3ee11272610031f5958d25d47772086fe56c5174ca6acf9 -->
+<!-- frozen-source: OT_1997CHUNK12_COMMITMENTS_JUNE25_HISTORICAL.md; sha256: ae6eb4fd1d273bbec02e676967549ba1f352425fa64bee1a5c79d8579569a027 -->
 ## Handoff source — National Endowment for the Arts v. Finley
 
 Source: [OT_1997CHUNK12_COMMITMENTS_JUNE25_HISTORICAL.md](../freeze/OT_1997CHUNK12_COMMITMENTS_JUNE25_HISTORICAL.md); bounded section: National Endowment for the Arts v. Finley.
@@ -510,7 +510,7 @@ Section 954(d)(1) requires the Chairperson's regulations and procedures to use a
 
 ---
 
-<!-- frozen-source: OT_1997CHUNK12_COMMITMENTS_JUNE25_HISTORICAL.md; sha256: fe2fbc3071b5b921d3ee11272610031f5958d25d47772086fe56c5174ca6acf9 -->
+<!-- frozen-source: OT_1997CHUNK12_COMMITMENTS_JUNE25_HISTORICAL.md; sha256: ae6eb4fd1d273bbec02e676967549ba1f352425fa64bee1a5c79d8579569a027 -->
 ## Handoff source — United States v. Balsys
 
 Source: [OT_1997CHUNK12_COMMITMENTS_JUNE25_HISTORICAL.md](../freeze/OT_1997CHUNK12_COMMITMENTS_JUNE25_HISTORICAL.md); bounded section: United States v. Balsys.
@@ -557,7 +557,7 @@ The A position answers the domestic-compulsion objection through the scope of th
 
 ---
 
-<!-- frozen-source: OT_1997CHUNK12_COMMITMENTS_BAUCHMAN.md; sha256: 26fdce3a3ceed923258351fa0f567bfcc439f03b57f5d9a4408b56db0ab10a17 -->
+<!-- frozen-source: OT_1997CHUNK12_COMMITMENTS_BAUCHMAN.md; sha256: 7210280e5e602f4b32151903927d5e9137bc770da3bbdb8505e3a1206e035e67 -->
 ## Handoff source — Bauchman v. West High School
 
 Source: [OT_1997CHUNK12_COMMITMENTS_BAUCHMAN.md](../freeze/OT_1997CHUNK12_COMMITMENTS_BAUCHMAN.md).
@@ -567,7 +567,7 @@ Source: [OT_1997CHUNK12_COMMITMENTS_BAUCHMAN.md](../freeze/OT_1997CHUNK12_COMMIT
 **Event:** June 26, 1998; review of 132 F.3d 542, Tenth Circuit Nos. 95-4084 and 96-4101. No separate Supreme Court docket or argument date is supplied.
 **Stage:** Independent model handoff, complete before historical reconciliation or assembly. No author or assignment is proposed.
 **Research cutoff:** Law effective before June 26, 1998. The three June 26 matters are independent peers; none supplies law to another.
-**Inputs:** `OT_1997CHUNK12_NEUTRAL_BAUCHMAN_JUNE26.md` (SHA-256 `61ABCF1AE9D6FEE8418187323477A89007E516FC8CC9F027092E4ED5CAE6711A`); shared `OT_1997CHUNK12_NEUTRAL_JUNE26_REFRESH_RECEIPT.md`; relevant bounded portions of `../entering-law/OT_1997CHUNK12_BEFORE_1998-06-26.md` (verified SHA-256 `B4A68F40AD441881FED9A6A9FDA308D1D8C795E3543F97030043085EEE871965`); Engine §§3B, 5–7, 9 and 14.
+**Inputs:** `OT_1997CHUNK12_NEUTRAL_BAUCHMAN_JUNE26.md` (SHA-256 `FAD9D7029A4EAE1A0857A34528A0FA40C8A22666A23A67AA169228DC61C6DD83`); shared `OT_1997CHUNK12_NEUTRAL_JUNE26_REFRESH_RECEIPT.md`; relevant bounded portions of `../entering-law/OT_1997CHUNK12_BEFORE_1998-06-26.md` (verified SHA-256 `8B786BB4F1F7DC58E5E574F86E974FC1E4FBF4F890712CC07707B9BF32914C53`); Engine §§3B, 5–7, 9 and 14.
 
 **Separation receipt:** No current-case historical Supreme Court disposition, comparator, Stone material, commitments, reconciliation, assembly draft or raw Record was supplied or opened. The initial input read also exposed the clean Ellerth and Monge neutral packets before the operator narrowed this context to Bauchman; they contribute no fact, inference, vote or law here. General model knowledge is not claimed erased. No Git command or protected-directory access occurred. No external source recovery is claimed; the neutral packet's published lower-opinion recitations and stated limits remain operative.
 
@@ -636,7 +636,7 @@ No changed evidentiary standard, new constitutional test, categorical sacred-mus
 
 ---
 
-<!-- frozen-source: OT_1997CHUNK12_COMMITMENTS_ELLERTH.md; sha256: 9d131c08967c95c8009e2e51c8d1fa8fa3399db54e2eb3eef1bc77d9aee553c9 -->
+<!-- frozen-source: OT_1997CHUNK12_COMMITMENTS_ELLERTH.md; sha256: 7c2ddac912988642271828f9516f95356a910980017f6c5ac8f9a5963533b693 -->
 ## Handoff source — Burlington Industries, Inc. v. Ellerth
 
 Source: [OT_1997CHUNK12_COMMITMENTS_ELLERTH.md](../freeze/OT_1997CHUNK12_COMMITMENTS_ELLERTH.md).
@@ -651,9 +651,9 @@ Source: [OT_1997CHUNK12_COMMITMENTS_ELLERTH.md](../freeze/OT_1997CHUNK12_COMMITM
 
 ## Authorized sources and source limits
 
-- [Frozen neutral Ellerth packet](OT_1997CHUNK12_NEUTRAL_ELLERTH_JUNE26.md), SHA-256 `3A8232228D5649DC94A38291E82F5EB7003CFD461772EED50E63A48FD7DE096C`.
-- [June 26 neutral refresh receipt](OT_1997CHUNK12_NEUTRAL_JUNE26_REFRESH_RECEIPT.md), SHA-256 `DB97DB9A1717ED7DFAA26865BBE99C016A058599B85028FF6361CCE86C414810`.
-- [Immutable entering law](../entering-law/OT_1997CHUNK12_BEFORE_1998-06-26.md), SHA-256 `B4A68F40AD441881FED9A6A9FDA308D1D8C795E3543F97030043085EEE871965`: Harris, Oncale, DeAngelis, Andrade, Faragher, Harrison; the two corresponding Standards and Tests entries; Gebser's complete public holdings and separate positions. The neutral refresh's screening supplies the stated noninterference of the June 25 additions.
+- [Frozen neutral Ellerth packet](OT_1997CHUNK12_NEUTRAL_ELLERTH_JUNE26.md), SHA-256 `1088BE39872B2E28167F8A7EAAA16EBC908F32F890D492D2DF2276E54B3741F6`.
+- [June 26 neutral refresh receipt](OT_1997CHUNK12_NEUTRAL_JUNE26_REFRESH_RECEIPT.md), SHA-256 `0CFA180BF1D141FB501E77BB4D072BE46ABACEDF49730294042DA1EA7A229398`.
+- [Immutable entering law](../entering-law/OT_1997CHUNK12_BEFORE_1998-06-26.md), SHA-256 `8B786BB4F1F7DC58E5E574F86E974FC1E4FBF4F890712CC07707B9BF32914C53`: Harris, Oncale, DeAngelis, Andrade, Faragher, Harrison; the two corresponding Standards and Tests entries; Gebser's complete public holdings and separate positions. The neutral refresh's screening supplies the stated noninterference of the June 25 additions.
 - Engine sections 3B, 5–7, 9 and 14 govern this handoff. AGENTS supplies source, completeness and isolation requirements. No raw Record, brief, current comparator, private source, prior/current commitment or reconciliation was opened. No external source was newly retrieved. The neutral packet's sanitized published recitations, rather than the withheld historical Supreme Court opinion, supply Ellerth's facts.
 
 The petition, complete policy, appendix/depositions and underlying en banc opinions remain unrecovered by control. This is an operator source limitation, not a finding that Burlington omitted evidence, lost a procedural opportunity or failed a litigation burden. No new factual or procedural reconstruction is adopted. The selected disposition does not require findings about the exact complaint routes, prevention measures, reasonableness of nonuse or preservation of constructive discharge. A later decision turning on any such proposition must establish it from the identified original source. None of the following paraphrases is represented as an exact source quotation.
@@ -721,7 +721,7 @@ No new complete defense, automatic policy rule, completed-action prerequisite, a
 
 ---
 
-<!-- frozen-source: OT_1997CHUNK12_COMMITMENTS_MONGE.md; sha256: 90924a27e00d35f0ba5a5155a92c4120803e3b36dc9f7f0b7fd13d239e0c8559 -->
+<!-- frozen-source: OT_1997CHUNK12_COMMITMENTS_MONGE.md; sha256: 2ca697abdfd89eb574482b678a6ccd051c12d3b16f980b05f743e1540675cb88 -->
 ## Handoff source — Monge v. California
 
 Source: [OT_1997CHUNK12_COMMITMENTS_MONGE.md](../freeze/OT_1997CHUNK12_COMMITMENTS_MONGE.md).
@@ -732,7 +732,7 @@ Source: [OT_1997CHUNK12_COMMITMENTS_MONGE.md](../freeze/OT_1997CHUNK12_COMMITMEN
 
 **Status:** Independent modeling complete; ready for a separate historical-reconciliation context. These are provisional commitments, not an entered judgment, an opinion assignment, or controlling law. No Stone vote or current-case historical outcome, reasoning, lineup or authorship was supplied or consulted.
 
-**Authorized inputs:** `OT_1997CHUNK12_NEUTRAL_MONGE_JUNE26.md`; `OT_1997CHUNK12_NEUTRAL_JUNE26_REFRESH_RECEIPT.md`; relevant bounded portions of `../entering-law/OT_1997CHUNK12_BEFORE_1998-06-26.md`, independently checked SHA-256 `B4A68F40AD441881FED9A6A9FDA308D1D8C795E3543F97030043085EEE871965`; the specifically authorized prior public entries for Caspari, Witte, and Watts/Putra listed below; governing modeling rules. Bauchman and Ellerth supply no same-day precedent. No raw Decision Record was opened.
+**Authorized inputs:** `OT_1997CHUNK12_NEUTRAL_MONGE_JUNE26.md`; `OT_1997CHUNK12_NEUTRAL_JUNE26_REFRESH_RECEIPT.md`; relevant bounded portions of `../entering-law/OT_1997CHUNK12_BEFORE_1998-06-26.md`, independently checked SHA-256 `8B786BB4F1F7DC58E5E574F86E974FC1E4FBF4F890712CC07707B9BF32914C53`; the specifically authorized prior public entries for Caspari, Witte, and Watts/Putra listed below; governing modeling rules. Bauchman and Ellerth supply no same-day precedent. No raw Decision Record was opened.
 
 **Research cutoff:** June 26, 1998, using the frozen law effective before this independent same-day group. The external sources added below are predivergence opinions supporting existing neutral legal paths, not new Monge facts or reconstructed procedure. No current Monge opinion, briefs, comparator, commitments, reconciliation or assembly draft was opened. General model knowledge cannot be erased; every commitment below rests on the identified permitted material.
 
@@ -858,7 +858,7 @@ The reversal supporters have overlapping support for the confined no-retrial pro
 
 ---
 
-<!-- frozen-source: OT_1997CHUNK12_COMMITMENTS_CAMILO.md; sha256: e11113d84842dc08f7ff760001255d31bfc6848148732e37d05ce63c1264c0cd -->
+<!-- frozen-source: OT_1997CHUNK12_COMMITMENTS_CAMILO.md; sha256: 4c98a8c3f731761a405b1cd9ef6741686f888257c434a23ef39ec05d6b7a122e -->
 ## Handoff source — Camilo-Robles v. Hoyos
 
 Source: [OT_1997CHUNK12_COMMITMENTS_CAMILO.md](../freeze/OT_1997CHUNK12_COMMITMENTS_CAMILO.md).
@@ -869,11 +869,11 @@ Source: [OT_1997CHUNK12_COMMITMENTS_CAMILO.md](../freeze/OT_1997CHUNK12_COMMITME
 
 **Status:** Frozen independent non-Stone commitments, completed after reading the validated authority addendum. No opinion author is selected.
 
-**Inputs and isolation:** The final neutral packet is `OT_1997CHUNK12_NEUTRAL_CAMILO_JULY20.md`, SHA-256 `4A7306BC1549D1DA07884353E6F061021F8EE62F53787A3E2EBC2946EA585500`. The July 20 entering-law slice has SHA-256 `3B5C1CB7EF55311CD67D209FEA7199F270BB8DCF10057BBFEE4AC9A48B14EF2B`. Relevant public holdings, standards and published positions in that slice and the authorized neutral projection were consulted with Engine §§3B, 5–7, 9 and 14. No current-case comparator, Stone position, brief, pre-existing commitment, reconciliation, assembly, raw Decision Record or prohibited directory was accessed. No Git command was used. General model knowledge is not represented as erased. Additional research concerned only original pre-May 1994 legal authorities, not new Camilo facts.
+**Inputs and isolation:** The final neutral packet is `OT_1997CHUNK12_NEUTRAL_CAMILO_JULY20.md`, SHA-256 `D3A55ABDE4F77A13D8B71A8E7588EA9367E240A2A425CAFE7DB5116AD17B5703`. The July 20 entering-law slice has SHA-256 `0F9BCE740034C3BFA48F3EF3E7634F79154336F9B9993FF87FE9A19B3406A98E`. Relevant public holdings, standards and published positions in that slice and the authorized neutral projection were consulted with Engine §§3B, 5–7, 9 and 14. No current-case comparator, Stone position, brief, pre-existing commitment, reconciliation, assembly, raw Decision Record or prohibited directory was accessed. No Git command was used. General model knowledge is not represented as erased. Additional research concerned only original pre-May 1994 legal authorities, not new Camilo facts.
 
 **Participation and channel:** The eight Associates are Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; the packet establishes no nonparticipation. Section 1254 review of the circuit judgment preserves the circuit's §1291 limits. A majority of the nine participating Justices controls a merits judgment; these are eight provisional commitments, not a final Court vote or a Stone vote.
 
-**Validated legal supplement:** `OT_1997CHUNK12_NEUTRAL_CAMILO_AUTHORITY_ADDENDUM.md`, SHA-256 `DD706DC087613C17DADEB38A960B3BD97D8AA9EE4C9A9620D275211D326643B3`, was read before freezing. It changes no case fact or procedural option. Its stage-specific chronology and express preservation of the earlier circuit actual-or-constructive-notice formulations govern the source treatment below.
+**Validated legal supplement:** `OT_1997CHUNK12_NEUTRAL_CAMILO_AUTHORITY_ADDENDUM.md`, SHA-256 `8B45ACE2C5460CC976AA9AD56ADADABF203DADC29401DE6073BEF98B3E29D597`, was read before freezing. It changes no case fact or procedural option. Its stage-specific chronology and express preservation of the earlier circuit actual-or-constructive-notice formulations govern the source treatment below.
 
 ## Common component definitions and bounded disposition
 
@@ -944,7 +944,7 @@ The adopted narrower resolution avoids the unrecovered contract/regulation terms
 
 ---
 
-<!-- frozen-source: OT_1997CHUNK12_COMMITMENTS_BERRYMAN.md; sha256: 542757fcdcaa0f7e7e195d60aba158edc98493f11968732e429e442f39a99238 -->
+<!-- frozen-source: OT_1997CHUNK12_COMMITMENTS_BERRYMAN.md; sha256: 681e64e03ce554f9192baa3083b5fc2282d6b03c1cfa0463ff0095f60b80e289 -->
 ## Handoff source — Berryman v. Rieger
 
 Source: [OT_1997CHUNK12_COMMITMENTS_BERRYMAN.md](../freeze/OT_1997CHUNK12_COMMITMENTS_BERRYMAN.md).
@@ -953,7 +953,7 @@ Source: [OT_1997CHUNK12_COMMITMENTS_BERRYMAN.md](../freeze/OT_1997CHUNK12_COMMIT
 
 **Status:** Frozen independent-model handoff, ready for historical reconciliation. This file supplies the eight Associate Justices' commitments; it assigns no opinion author and supplies no Stone position.
 
-**Boundary and inputs:** The model received only the governing independent-model rules, [the final Berryman neutral packet](OT_1997CHUNK12_NEUTRAL_BERRYMAN_AUG3.md), relevant portions of [the August 3 entering-law slice](../entering-law/OT_1997CHUNK12_BEFORE_1998-08-03.md), and the current sanitized neutral projection. The neutral packet's SHA-256 is `07E7C6F8BC70E1D33FBE73AE47B7694D4E01F9C86CB18ABBA700194F8AFC6E75`. No current comparator, private Stone material, brief, raw Record, reconciliation or assembly product was read. Prior published separate positions appeared only in the authorized public-law slice. General model knowledge cannot be erased; no excluded current-case source was supplied or consulted.
+**Boundary and inputs:** The model received only the governing independent-model rules, [the final Berryman neutral packet](OT_1997CHUNK12_NEUTRAL_BERRYMAN_AUG3.md), relevant portions of [the August 3 entering-law slice](../entering-law/OT_1997CHUNK12_BEFORE_1998-08-03.md), and the current sanitized neutral projection. The neutral packet's SHA-256 is `3B5B5A63C3A5147B465DA6A5B7357D8ECF89E3BC708F42FE4E13414DAA5F4FF0`. No current comparator, private Stone material, brief, raw Record, reconciliation or assembly product was read. Prior published separate positions appeared only in the authorized public-law slice. General model knowledge cannot be erased; no excluded current-case source was supplied or consulted.
 
 **Cutoff and channel:** August 3, 1998. Review under 28 U.S.C. §1254(1) of the Sixth Circuit's July 6 judgment in lower No. 96-2337, reported at 150 F.3d 561. Section 1254 does not enlarge the circuit's §1291 jurisdiction. The scheduled date is the adopted scheduling premise; no Supreme Court docket, separate grant event or exact argument date is invented. The supplied institutional state has all nine seated Justices participating at submission and decision, no supplied recusal, a quorum, and a five-vote judgment threshold. This handoff models only Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
 
@@ -1025,7 +1025,7 @@ If a court of appeals determines that an appeal is frivolous, it may, after a se
 
 ---
 
-<!-- frozen-source: OT_1997CHUNK12_COMMITMENTS_BREWSTER.md; sha256: a02daa55ad3d2e0f1f88a328dc800b158c74caa79c84338b9375edf82994342d -->
+<!-- frozen-source: OT_1997CHUNK12_COMMITMENTS_BREWSTER.md; sha256: 6e55286a2893ed31f5c094f974e19d1ba91f4278fc6e0b8e12d489e3a4a67b3e -->
 ## Handoff source — Brewster v. Board of Education
 
 Source: [OT_1997CHUNK12_COMMITMENTS_BREWSTER.md](../freeze/OT_1997CHUNK12_COMMITMENTS_BREWSTER.md).
@@ -1044,8 +1044,8 @@ Read the final frozen neutral packet, the relevant holdings, standards and publi
 
 | Authorized input | SHA-256 checked before modeling |
 |---|---|
-| [Final Brewster neutral packet](OT_1997CHUNK12_NEUTRAL_BREWSTER_AUG17.md) | `4B58C68074D5474F64A69F96BD8EBBC77F107A70A73EA8DA7EEE52B026C60C83` |
-| [August 17 entering law](../entering-law/OT_1997CHUNK12_BEFORE_1998-08-17.md) | `3C4EA6DCBA31A73180198235D87F51C8BAD1EFE38A1B4DE2E0A0CA50F774CC77` |
+| [Final Brewster neutral packet](OT_1997CHUNK12_NEUTRAL_BREWSTER_AUG17.md) | `9DABB67872453737BD4937C8F207113237BDE88F19E1E7990B82D7DCA68F342E` |
+| [August 17 entering law](../entering-law/OT_1997CHUNK12_BEFORE_1998-08-17.md) | `A74133763631378CFB740A60E900B7FD91A0DF50DF519018C6BFC4ED788B7973` |
 | [Current-Term Neutral Projection](../workspace/neutral-projection.md) | `8827077E16081509F3146ADE77EF59F766B58256F1E1EA5E0A03853925E7263E` |
 
 The current-case historical Supreme Court disposition, comparator, reconciliation, controlled Stone position, briefs, private Records, audits and other commitments were not opened. Earlier public holdings and published separate positions appearing inside the authorized snapshot were distinguished from controlling law. No Git command or subprocess was used. No top-level `stone/` path was accessed, listed or searched. New files were confined to this term. This is a durable frozen file, not a claim that a repository commit was made.

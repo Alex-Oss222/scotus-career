@@ -3,7 +3,7 @@
     "case": "Wright",
     "stage": "COMMITMENTS",
     "source": "WRIGHT_COMMITMENTS.md",
-    "sha256": "0f711d09145d760cf6289679e820375383204118fae0fd01335c8eda34ca9d58"
+    "sha256": "275f78995eb5569262cc9339ddb0ef211873798f77d90669438b59b7c9af66ac"
   },
   {
     "case": "Fraternal Order of Police",
@@ -15,7 +15,7 @@
     "case": "Hiley",
     "stage": "COMMITMENTS",
     "source": "HILEY_COMMITMENTS.md",
-    "sha256": "404184b141e20dcf99b72b2957bcbdf54d64b5c7fcda4d8736d2884cfe8da1cd"
+    "sha256": "26fe513739a0cf922c7ed56a49a5442cad5ec0f96447aac38f070186cc8b5fa0"
   },
   {
     "case": "Louisiana",
@@ -75,7 +75,7 @@
     "case": "Wright",
     "stage": "RECONCILED",
     "source": "WRIGHT_RECONCILED.md",
-    "sha256": "b91fa94a60a3e06e7fa5dc54d32ff02c18e822a5d251e277072df55fa918751c"
+    "sha256": "6d8ed36b5c9b5643b28a20514df8246d81b8f4ee322782b12c7bd0ec818af040"
   },
   {
     "case": "Fraternal Order of Police",
@@ -87,7 +87,7 @@
     "case": "Hiley",
     "stage": "RECONCILED",
     "source": "HILEY_RECONCILED.md",
-    "sha256": "b3c03d23fcceeba87cb728d657a0c4a480f0d8e02fad10feb536b21d9b35000b"
+    "sha256": "74b02df5895625f955d93e1848fd00359cd33e270e5efdb2ad44fd6f123e5785"
   },
   {
     "case": "Louisiana",

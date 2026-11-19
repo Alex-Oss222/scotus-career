@@ -329,7 +329,7 @@
       ],
       "counted": true,
       "reason": "Signed plenary merits lead",
-      "source_sha256": "356b67f182ccc5175ec21d20416cc63b9062987b99e8db611a9ee9ff518d579e"
+      "source_sha256": "37209d34f1f727f26438db0a884b6b36b828318bd0a2a181942339aafb16aae3"
     },
     {
       "file": "lee_v_harcleroad_threshold_1998-01-20.md",
@@ -511,7 +511,7 @@
       ],
       "counted": true,
       "reason": "Signed plenary merits lead",
-      "source_sha256": "aaf253d9a10648353e068ee201a5118371f8748482089d8a0e4069274e3ff237"
+      "source_sha256": "b979c49258bc70004c6b2c9fa7071c12f55e277852c6f0d061fee5234227356e"
     },
     {
       "file": "johnson_v_rodriguez_merits_1998-02-17.md",
@@ -524,7 +524,7 @@
       ],
       "counted": true,
       "reason": "Signed plenary merits lead",
-      "source_sha256": "6945b6b8ebc8adfedbe4ac7be074f43549386b030f450f2433a7bba460a0f077"
+      "source_sha256": "14ae41f4b6f0f5dd225cb210a44702650fd87ce77feb5e1766b5a87b25f72da2"
     },
     {
       "file": "arteaga_v_united_states_court_of_appeals_filing_order_1998-02-23.md",
@@ -535,7 +535,7 @@
       "candidate_authors": [],
       "counted": false,
       "reason": "Unsigned, per curiam, summary, or nonmerits event",
-      "source_sha256": "8a87f17cb79ee4951f3130ceaca283d9416dc6142732583d0b5ce16ce7acf9c1"
+      "source_sha256": "a0119aad5089942a295c66758f2f2e4f3a1c2cbc4d31d747eb670ea1d258a624"
     },
     {
       "file": "newsweek_inc_v_florida_department_of_revenue_summary_merits_1998-02-23.md",
@@ -548,7 +548,7 @@
       ],
       "counted": false,
       "reason": "Unsigned, per curiam, summary, or nonmerits event",
-      "source_sha256": "2f17b37aedbb4f9ce3ae60eabcd061fad4ea615ed3fab540882c081418d88144"
+      "source_sha256": "593dbdc90c18d7c0f204bfbcb9d5317a196e3b385e84b5478a43d949d6f98d46"
     },
     {
       "file": "regions_hospital_v_shalala_merits_1998-02-24.md",
@@ -561,7 +561,7 @@
       ],
       "counted": true,
       "reason": "Signed plenary merits lead",
-      "source_sha256": "29c6b8787a207859aff2450f4e1ce459fc7314741bed7db6de52389d423f1590"
+      "source_sha256": "58332b0fd53dd1d01553602241b1ef37136742125af949ed5dbe4c31451bcd8d"
     },
     {
       "file": "rivet_v_regions_bank_of_louisiana_merits_1998-02-24.md",
@@ -574,7 +574,7 @@
       ],
       "counted": true,
       "reason": "Signed plenary merits lead",
-      "source_sha256": "30a6e29bad248e6ec16c881c9b9a7e4cc76432ca0fbbdea3a96b77e6fb286d2e"
+      "source_sha256": "d4dbfa0ff4328aade23850bb154e76e492aeb2ca237b7cdbf398a9098de78c64"
     },
     {
       "file": "alaska_v_native_village_of_venetie_tribal_government_merits_1998-02-25.md",
@@ -587,7 +587,7 @@
       ],
       "counted": true,
       "reason": "Signed plenary merits lead",
-      "source_sha256": "9dde27feef0ab5b80fbdaf73af1ad3c0af55d490a17445d59a0056b8ae1e8c81"
+      "source_sha256": "16218c052ca5d038dd04c62cb4712f6e8a5a92173bf7eba82143b6716442bce4"
     },
     {
       "file": "national_credit_union_administration_v_first_national_bank_trust_co_merits_1998-02-25.md",
@@ -613,7 +613,7 @@
       ],
       "counted": true,
       "reason": "Signed plenary merits lead",
-      "source_sha256": "03d246e83d3fb2411144c591322b1d3e772a739edf3f812f295f3d03a9a1a8fe"
+      "source_sha256": "a6e5e11213fae7ad5e4806157586db43919dd584493ea99888f3cef7592c36ce"
     },
     {
       "file": "shahar_v_bowers_merits_1998-03-02.md",
@@ -626,7 +626,7 @@
       ],
       "counted": true,
       "reason": "Signed plenary merits lead",
-      "source_sha256": "4f2ac0c5771f6e63645185bd0cd68fdedaf717fa3e5670d85151b7e4dc4da562"
+      "source_sha256": "d9eb0e3958a1c5795f911ba76017d8c59260d489f9f22d9d4247ffd801502320"
     },
     {
       "file": "bogan_v_scott_harris_merits_1998-03-03.md",
@@ -639,7 +639,7 @@
       ],
       "counted": true,
       "reason": "Signed plenary merits lead",
-      "source_sha256": "127e784437815ce26ad9d78f9760b2f06839de5bcec65404f9e8fd218551143d"
+      "source_sha256": "4e0fef954ff064caa77523205d437bf726957be95abd05d46aef54f43bae68a5"
     },
     {
       "file": "kawaauhau_v_geiger_merits_1998-03-03.md",
@@ -665,7 +665,7 @@
       ],
       "counted": true,
       "reason": "Signed plenary merits lead",
-      "source_sha256": "cf024adbaaaa8eb2b8b110646873a1243454756315c3f0e900890e0f0615e54f"
+      "source_sha256": "8b06e5d3dd04fc4dba71200adb769d945694468dd690740a9ff11e773bc6cbd0"
     },
     {
       "file": "spencer_v_kemna_mootness_1998-03-03.md",
@@ -678,7 +678,7 @@
       ],
       "counted": false,
       "reason": "Mootness dismissal",
-      "source_sha256": "0bb6a849ba0e734a0426495c61845134291fb30264082125c54b6f060ef18721"
+      "source_sha256": "13acf471ab4def9ad337d3e3dd2ddb0669e21d8e14eaa9e7f629a0bbce47b26c"
     },
     {
       "file": "united_states_v_ramirez_merits_1998-03-04.md",
@@ -767,7 +767,7 @@
       ],
       "counted": false,
       "reason": "Unsigned, per curiam, summary, or nonmerits event",
-      "source_sha256": "5f76650f05f9ccc2eea8eb355b280522014dca01e4ee85041e754a759892d4f7"
+      "source_sha256": "86ba427e6bcc4e436d8fa99e2b2e6fd9a6552c0363d2c392c2e5d6292f76dc41"
     },
     {
       "file": "wp_v_verniero_merits_1998-03-16.md",
@@ -802,7 +802,7 @@
       "candidate_authors": [],
       "counted": false,
       "reason": "Unsigned, per curiam, summary, or nonmerits event",
-      "source_sha256": "cb3590bd8bcc82571491912575cb897b093e6c96e265377db25b3923f3818992"
+      "source_sha256": "f37bbef5ffaf80ffa926cf36b43bc6576cb458b22dfb8b70b4518b8ce344ee57"
     },
     {
       "file": "hetzel_v_prince_william_county_summary_merits_1998-03-23.md",
@@ -815,7 +815,7 @@
       ],
       "counted": false,
       "reason": "Unsigned, per curiam, summary, or nonmerits event",
-      "source_sha256": "b33bfa7a4afa707b1b06b41ca3a1f8c68f0df6ada88e968301bfcafe9d203b00"
+      "source_sha256": "e529ea3797bf144a374c54218030fcd7a18a883fb8b531e635919ae62364914c"
     },
     {
       "file": "united_states_v_robinson_merits_1998-03-23.md",

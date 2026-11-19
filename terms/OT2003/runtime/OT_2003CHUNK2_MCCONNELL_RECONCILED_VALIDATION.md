@@ -46,7 +46,7 @@ The final handoff retains all ten original eight-Justice authority/ground matric
 
 No material unresolved gap remains for the presented claims. A new independently preserved amount-specific §307 claim, a particular reprisal exception, a new negative candidate fact, an actual implementing-rule challenge, or the claimed exclusive-power discovery concession would require its own proper source before expanding the judgment. None is used as a premise or transformed into a litigation default. The known HTML omissions are repaired and are not blockers. No independent merits judgment is made on §323(c), unchallenged §311 design details, unpreserved personal-loan/notice claims, old FCC rules or a new private-state standing category.
 
-**Reconciled handoff SHA-256:** `dd964f545f1f2f384a9f1d47296a05c38bab5748b7bc2de1067c81ceab1fce65`
+**Reconciled handoff SHA-256:** `b1463fa708a0e6f6a19768e1e7388a2ad36ffb575d7bca52f2f20e4116611fe5`
 
 **Runtime/freeze identity:** passed. **Original independent freeze:** unchanged. **Reconciliation:** complete.
 
@@ -58,16 +58,16 @@ Hashes identify the saved bytes; hashing a whole aggregate neutral/comparator fi
 |---|---|
 | `freeze/OT_2003CHUNK2_NEUTRAL.md` | e21d7bd70e7e245b8092b421f776fe7310f204754e40297bdeeed1c4169fe227 |
 | `freeze/OT_2003CHUNK2_C_VALIDATED_PREFLIGHT.md` | b9712b31bacf993ae7b57cec8fcc3cda800502ba2e1cf26d1223bde9fdc24278 |
-| `freeze/OT_2003CHUNK2_MCCONNELL_POWER_PREFLIGHT.md` | 7b229eb9165051427008f7beac6fa11a27a6a5c69e229142d768db322b04adda |
+| `freeze/OT_2003CHUNK2_MCCONNELL_POWER_PREFLIGHT.md` | 8a6c373347271c20a574d6bd8908dcf57c17a5a4a87351b4e12e70cb3af826d3 |
 | `entering-law/OT_2003CHUNK2_C.md` | a6a85c3595b50effdd1c5d2a193e42e61a94d8af801dc310d7f4528e1cdfb8e0 |
-| `entering-law/OT_2003CHUNK2_MCCONNELL_POWER.md` | ccd0ddd7a0646c33dc762720f1782a7dd481691df6eccbb3c0390bf39b5aff4d |
-| `freeze/OT_2003CHUNK2_MCCONNELL_COMMITMENTS.md` | 10c509e34f65c7d8d397e3b5850c9a0c0725c6e128470744de8fe023af63f1a9 |
-| `freeze/OT_2003CHUNK2_MCCONNELL_COMMITMENTS_VALIDATION.md` | a543def4dc04c18959c009d6ffcd66ce204ad73d1eddb6da26d9a8246a88696b |
+| `entering-law/OT_2003CHUNK2_MCCONNELL_POWER.md` | 7cdef5414056725bf17f7b80f3e366e8ef2875914358d596b8ae0b4d498ac19c |
+| `freeze/OT_2003CHUNK2_MCCONNELL_COMMITMENTS.md` | 082f5cec329b35a79c17bf495e8540541979e36460d5627598497c7fb7141581 |
+| `freeze/OT_2003CHUNK2_MCCONNELL_COMMITMENTS_VALIDATION.md` | 33b347ad75a409aa7919d64baade3829b8fbf942a916a8715401cfbf068b0af0 |
 | `runtime/OT_2003CHUNK2_COMPARATOR.md` | f2374b4c73a5aaad1b9e7b726785df269f8b8b8ebb52bc467d3a2410c42af8e5 |
 | `sources/mcconnell/BCRA-selected-exact.md` | 67d2fa7eb33d47d0c7fdad554a692433e979cd56727d757bee32ecdca3aa7825 |
 | `sources/mcconnell/validation-clean-supplement-exact.md` | 1ad5ee21533ca85638605bdbdf896430f313d0c07b8e877a53362a309c859120 |
 | `sources/mcconnell/17.-Appellants-Brief.txt` | 57b06cd02032a8b2cddf7371b72f32763ec1c2eb9b68e163f1cb1939dd70644b |
-| `freeze/OT_2003CHUNK2_MCCONNELL_TITLE2_VERIFICATION.md` | f008be5880cf0919056803dd5bca579b67d2269b403e81ec853706b8021c3662 |
+| `freeze/OT_2003CHUNK2_MCCONNELL_TITLE2_VERIFICATION.md` | 0c16a313ff594543ab93f18730ce947b0dd877127e07552b98e63446e9c215d3 |
 | `freeze/OT_2003CHUNK2_MCCONNELL_SHORT_COMPARATOR_READING.md` | 0f10c4ca19e816f8b899196b31cf301ccbe039db743e3599d9ea3d2ef8ae7e87 |
 | `sources/chunk2_comparator/02-1674.ZD1.pdf` | ebc04601300872131953db39d892c0185c70f80d2f49a3644296d60a4e635c48 |
 | `sources/chunk2_comparator/02-1674P.ZX2.pdf` | a6281d321e95d355a32bd4c856f46c657d7277437454bd52100a042c9894edf8 |

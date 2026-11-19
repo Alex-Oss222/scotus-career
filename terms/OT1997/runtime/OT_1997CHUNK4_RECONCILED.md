@@ -4,8 +4,8 @@ This is a mechanical reading copy of the three named authoritative scoped freeze
 
 | Authoritative scoped freeze | SHA-256 |
 |---|---|
-| [OT_1997CHUNK4_A_RECONCILED.md](OT_1997CHUNK4_A_RECONCILED.md) | `097a7e301b94b4b1c48dca7a6e268f1888e0087183ade289867891b05e0ea6ad` |
-| [OT_1997CHUNK4_B_RECONCILED.md](OT_1997CHUNK4_B_RECONCILED.md) | `952fa983417f39a31d6c4b5f569bbecde603d77886a14553a66c4c544ec9e1ab` |
+| [OT_1997CHUNK4_A_RECONCILED.md](OT_1997CHUNK4_A_RECONCILED.md) | `a5d7516885dfa53f79a224a7f22f720fa4c832f4ab061f84eac743e0a23e31d1` |
+| [OT_1997CHUNK4_B_RECONCILED.md](OT_1997CHUNK4_B_RECONCILED.md) | `1f6cd3df9c6f17af5adfb7c5772e0c1606c7acf033f180b5595ddf8b2670bfb2` |
 | [OT_1997CHUNK4_NCUA_RECONCILED.md](OT_1997CHUNK4_NCUA_RECONCILED.md) | `8df1ea7ef8f64366bc43b7782998aefabdb260af7a08180358f1964ee42ac89e` |
 
 <!-- BEGIN UNALTERED SOURCE: OT_1997CHUNK4_A_RECONCILED.md -->
@@ -264,7 +264,7 @@ Peacock supplies the need for independent statutory authority in a later action 
 ## Reconciliation input and source receipt
 
 - `freeze/OT_1997CHUNK4_MODEL_A_NEUTRAL.md`: SHA-256 `c7fb022db98c538183168d9240a976db12ebb27c0982e10cb938c8a9f3944969`.
-- `freeze/OT_1997CHUNK4_A_COMMITMENTS.md`: SHA-256 `5cad99de0b05bd19ca079f4a3496cdf2d2b9b0802094663b52a32d15e39b849e`.
+- `freeze/OT_1997CHUNK4_A_COMMITMENTS.md`: SHA-256 `174891a3e818d5635f987161f5c10f01366a4c6e1be6878a87d9a703d5c8d976`.
 - `runtime/OT_1997CHUNK4_A_COMPARATOR.md`: SHA-256 `573c561c1f87cd4753ad7ef40a94cadd4f58970cb9d41303ece2806c06d0b1ae`.
 - `research/chunk4_control/ARTEAGA_ARCHIVE_NEUTRAL_FACTS.md`: SHA-256 `bdd277199a96c3939630354025d9476fd92706636b9a432bdce9f84debc27103`.
 
@@ -556,7 +556,7 @@ O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer would affirm the 
 ## Reconciliation source and integrity receipt
 
 - `freeze/OT_1997CHUNK4_MODEL_B_NEUTRAL.md`: SHA-256 `63729b9714efa69fe0bfd7b06b4fba7492fbfe06d4f04d5ac132b21e13607334`.
-- `freeze/OT_1997CHUNK4_B_COMMITMENTS.md`: SHA-256 `488f555ae40c8f4ddb5c8404c3227d4d9fb9c502e24b6abbf25d3f3a692c2db5`.
+- `freeze/OT_1997CHUNK4_B_COMMITMENTS.md`: SHA-256 `29948191f51abdac746a652c7f05026827172f765e95c34f786942b2417a3733`.
 - `runtime/OT_1997CHUNK4_B_COMPARATOR.md`: SHA-256 `03314d87863f5b396333b3e86a6411c3b6ea9af3a7e42f502ad360b4382526b4`.
 - `research/chunk4_lower/SHAHAR_NEUTRAL_FACTS.md`: SHA-256 `1cfdeb61b1a6643e43503eca7bdd505924555f96d9ffe8de0de5f1d85db17590`.
 - `research/chunk4_lower/aponte_opinion.txt`: SHA-256 `002254bed75fc4966161c495aa650da7d4f5614e5bc2e9e3961da4060dbdb90a`.

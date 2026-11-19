@@ -9,10 +9,10 @@
   "public_outputs_unchanged": true,
   "errors": [],
   "sha256": {
-    "terms/OT1996/workspace/continuity.md": "35cc95d0b7e1338c3a3e54f3a5a70b9f8ed6e7257c90af3d2a266c9aa8784295",
-    "terms/OT1996/workspace/ledger.md": "c175b19fa9ad2af11ad5f03693287f07e01af47c40372644a52d827f26d96035",
+    "terms/OT1996/workspace/continuity.md": "b3c044004860c4b53a45b82c5aa4ddbad66e542054a45c3ccf19ddae2fb8e527",
+    "terms/OT1996/workspace/ledger.md": "81e6bd72ae133e3012624a0dc5e02c88e61cbf35a576529777d602f82226beb1",
     "terms/OT1996/workspace/manifest.md": "d5f46f130e36e4f56e4359eb1b3a320dbd3959d64f52112f218ba7e66c2694fc",
-    "terms/OT1996/workspace/neutral-projection.md": "b9f39f05279c8d62d8e4f589fe459e2b38eee66b1970cd45287df330149163b1",
+    "terms/OT1996/workspace/neutral-projection.md": "a199bc83321b209948ae0d8e6b5d2bb3f81011e7e90109a968395ed0807d9311",
     "terms/OT1996/render-inputs/OT_1996CHUNK11.md": "5e3498df6d411239a121513f66f888bd86e50f60028642f0c7f23cb20463f6ea",
     "terms/OT1996/records/Del_Monte_Dunes_at_Monterey_Ltd_v_City_of_Monterey_merits_1997-06-16.md": "61dfc234c8e791d681c2b27716df2aa11ca8fdbae115d6c0e9bd02cfbe00dba7",
     "terms/OT1996/records/Fletcher_v_Kalina_merits_1997-06-16.md": "167daaccca55fa244d0bc009377400a6d41fd5c6cf7ddb8098b31aea90e0d9e7",

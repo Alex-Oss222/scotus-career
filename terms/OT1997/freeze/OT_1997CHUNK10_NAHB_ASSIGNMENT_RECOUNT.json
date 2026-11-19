@@ -365,7 +365,7 @@
       "authors": [
         "Kennedy"
       ],
-      "sha256": "356b67f182ccc5175ec21d20416cc63b9062987b99e8db611a9ee9ff518d579e",
+      "sha256": "37209d34f1f727f26438db0a884b6b36b828318bd0a2a181942339aafb16aae3",
       "classification": "Signed plenary merits lead; each author counted once despite multiple portions or joins."
     },
     {
@@ -559,7 +559,7 @@
       "authors": [
         "Stone-Zsela"
       ],
-      "sha256": "aaf253d9a10648353e068ee201a5118371f8748482089d8a0e4069274e3ff237",
+      "sha256": "b979c49258bc70004c6b2c9fa7071c12f55e277852c6f0d061fee5234227356e",
       "classification": "Signed plenary merits lead; each author counted once despite multiple portions or joins."
     },
     {
@@ -573,7 +573,7 @@
       "authors": [
         "Kennedy"
       ],
-      "sha256": "6945b6b8ebc8adfedbe4ac7be074f43549386b030f450f2433a7bba460a0f077",
+      "sha256": "14ae41f4b6f0f5dd225cb210a44702650fd87ce77feb5e1766b5a87b25f72da2",
       "classification": "Signed plenary merits lead; each author counted once despite multiple portions or joins."
     },
     {
@@ -585,7 +585,7 @@
       "tables": "",
       "counted": false,
       "authors": [],
-      "sha256": "8a87f17cb79ee4951f3130ceaca283d9416dc6142732583d0b5ce16ce7acf9c1",
+      "sha256": "a0119aad5089942a295c66758f2f2e4f3a1c2cbc4d31d747eb670ea1d258a624",
       "classification": "Filing order; per curiam."
     },
     {
@@ -597,7 +597,7 @@
       "tables": "",
       "counted": false,
       "authors": [],
-      "sha256": "2f17b37aedbb4f9ce3ae60eabcd061fad4ea615ed3fab540882c081418d88144",
+      "sha256": "593dbdc90c18d7c0f204bfbcb9d5317a196e3b385e84b5478a43d949d6f98d46",
       "classification": "Summary merits disposition; per curiam."
     },
     {
@@ -611,7 +611,7 @@
       "authors": [
         "Breyer"
       ],
-      "sha256": "29c6b8787a207859aff2450f4e1ce459fc7314741bed7db6de52389d423f1590",
+      "sha256": "58332b0fd53dd1d01553602241b1ef37136742125af949ed5dbe4c31451bcd8d",
       "classification": "Signed plenary merits lead; each author counted once despite multiple portions or joins."
     },
     {
@@ -625,7 +625,7 @@
       "authors": [
         "Scalia"
       ],
-      "sha256": "30a6e29bad248e6ec16c881c9b9a7e4cc76432ca0fbbdea3a96b77e6fb286d2e",
+      "sha256": "d4dbfa0ff4328aade23850bb154e76e492aeb2ca237b7cdbf398a9098de78c64",
       "classification": "Signed plenary merits lead; each author counted once despite multiple portions or joins."
     },
     {
@@ -639,7 +639,7 @@
       "authors": [
         "Stevens"
       ],
-      "sha256": "9dde27feef0ab5b80fbdaf73af1ad3c0af55d490a17445d59a0056b8ae1e8c81",
+      "sha256": "16218c052ca5d038dd04c62cb4712f6e8a5a92173bf7eba82143b6716442bce4",
       "classification": "Signed plenary merits lead; each author counted once despite multiple portions or joins."
     },
     {
@@ -667,7 +667,7 @@
       "authors": [
         "Ginsburg"
       ],
-      "sha256": "03d246e83d3fb2411144c591322b1d3e772a739edf3f812f295f3d03a9a1a8fe",
+      "sha256": "a6e5e11213fae7ad5e4806157586db43919dd584493ea99888f3cef7592c36ce",
       "classification": "Signed plenary merits lead; each author counted once despite multiple portions or joins."
     },
     {
@@ -681,7 +681,7 @@
       "authors": [
         "Souter"
       ],
-      "sha256": "4f2ac0c5771f6e63645185bd0cd68fdedaf717fa3e5670d85151b7e4dc4da562",
+      "sha256": "d9eb0e3958a1c5795f911ba76017d8c59260d489f9f22d9d4247ffd801502320",
       "classification": "Signed plenary merits lead; each author counted once despite multiple portions or joins."
     },
     {
@@ -695,7 +695,7 @@
       "authors": [
         "Thomas"
       ],
-      "sha256": "127e784437815ce26ad9d78f9760b2f06839de5bcec65404f9e8fd218551143d",
+      "sha256": "4e0fef954ff064caa77523205d437bf726957be95abd05d46aef54f43bae68a5",
       "classification": "Signed plenary merits lead; each author counted once despite multiple portions or joins."
     },
     {
@@ -723,7 +723,7 @@
       "authors": [
         "Kennedy"
       ],
-      "sha256": "cf024adbaaaa8eb2b8b110646873a1243454756315c3f0e900890e0f0615e54f",
+      "sha256": "8b06e5d3dd04fc4dba71200adb769d945694468dd690740a9ff11e773bc6cbd0",
       "classification": "Signed plenary merits lead; each author counted once despite multiple portions or joins."
     },
     {
@@ -735,7 +735,7 @@
       "tables": "| Opinion of the Court | Breyer | O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg | Affirms mootness dismissal | O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer join all parts; Stone-Zsela joins Part II’s actual-continuing-injury ground and mootness result, but agrees only with Part II’s capable-of-repetition and litigation-delay dispositions and Parts I and III’s ancillary dispositions, without those additional rationales |",
       "counted": false,
       "authors": [],
-      "sha256": "0bb6a849ba0e734a0426495c61845134291fb30264082125c54b6f060ef18721",
+      "sha256": "13acf471ab4def9ad337d3e3dd2ddb0669e21d8e14eaa9e7f629a0bbce47b26c",
       "classification": "Mootness disposition; threshold."
     },
     {
@@ -827,7 +827,7 @@
       "tables": "| Stevens | Dismiss ordinary authorization review; no savings-clause merits decision. | His Felker channel and independent-original-route joins control. His Lonchar opinion protects legally required process in an actual channel; his Schlup gateway does not replace §2255 certification. Joins the per curiam only; no substantive savings-clause concurrence join is inferred. |\n| O'Connor | Same dismissal without affirmance of the circuit order. | Her Felker Part I-A directly states the review bar and distinct original route; her Bailey opinion separates use and a properly available carrying ground. Neither creates another filed vehicle. Joins the per curiam. |\n| Scalia | Same dismissal; reject relabeling an appeal as an original writ. | Felker I-A and II joins and traditional original-writ limitation; his distinct temporal reasoning does not change this post-enactment proceeding. Section 1651 does not supply jurisdiction. Joins the per curiam. |\n| Kennedy | Same dismissal, leaving independent channels undecided. | His Felker channel joins and limited Lonchar required-opportunity position do not overcome the bar or invent an application. Joins the per curiam. |\n| Souter | Same dismissal, preserving rather than resolving a future savings-clause issue. | Felker I-A, independent examination of original claims, Schlup and Lonchar joins; statutory innocence is not interchangeable with the reliable-new-evidence gateway. Joins the per curiam. |\n| Thomas | Same dismissal; no merits or innocence ruling. | Felker bar and original-jurisdiction joins; his relevant-activity temporal approach is consistent with the post-enactment bar. Bailey creates no collateral forum. Joins the per curiam. |\n| Ginsburg | Same dismissal without foreclosing a properly presented independent route. | Felker I-A, original-route, Schlup and Lonchar joins; the present order is not a §2241 judgment. Prior firearm objections neither prove nor defeat an effective earlier opportunity here. Joins the per curiam. |\n| Breyer | Same dismissal, confined to ordinary authorization review. | Felker channel/original-route, Schlup and Lonchar joins; actual consideration requires a lawful presentation and does not make original relief automatic. Joins the per curiam. |",
       "counted": false,
       "authors": [],
-      "sha256": "5f76650f05f9ccc2eea8eb355b280522014dca01e4ee85041e754a759892d4f7",
+      "sha256": "86ba427e6bcc4e436d8fa99e2b2e6fd9a6552c0363d2c392c2e5d6292f76dc41",
       "classification": "Jurisdictional dismissal; per curiam."
     },
     {
@@ -865,7 +865,7 @@
       "tables": "",
       "counted": false,
       "authors": [],
-      "sha256": "cb3590bd8bcc82571491912575cb897b093e6c96e265377db25b3923f3818992",
+      "sha256": "f37bbef5ffaf80ffa926cf36b43bc6576cb458b22dfb8b70b4518b8ce344ee57",
       "classification": "Certiorari grant."
     },
     {
@@ -877,7 +877,7 @@
       "tables": "| Opinion of the Court, Part I | Per curiam | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Reaches later mandamus challenge | Limited earlier-petition/mandate-scope ground; Stone-Zsela agrees with disposition only |\n| Opinion of the Court, Part II | Per curiam | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Reverses the constraint and remands | Common remittitur election, remedy and stated limits |",
       "counted": false,
       "authors": [],
-      "sha256": "b33bfa7a4afa707b1b06b41ca3a1f8c68f0df6ada88e968301bfcafe9d203b00",
+      "sha256": "e529ea3797bf144a374c54218030fcd7a18a883fb8b531e635919ae62364914c",
       "classification": "Summary merits disposition; per curiam."
     },
     {
@@ -1231,7 +1231,7 @@
       "authors": [
         "Scalia"
       ],
-      "sha256": "7213daf1c5ee236bffab29cb9d2c064b79c7b781ffeba4f1e5fec946aaaf3ef5",
+      "sha256": "3bd25437956d062731c51a637d970a15781cf2267c85907fdfe478383ffd63b7",
       "classification": "Signed plenary merits lead; each author counted once despite multiple portions or joins."
     },
     {
@@ -1299,7 +1299,7 @@
       "authors": [
         "Ginsburg"
       ],
-      "sha256": "05da91d185fb93ee70a016b6b6a99b3e0d8387d4a9e5bc1a85bca8f0a2891813",
+      "sha256": "cbea833f5dc5bb04ec85d6378808c57e6be6ee066b465ffc30aabae55f7430ca",
       "classification": "Signed plenary merits lead; each author counted once despite multiple portions or joins."
     },
     {
@@ -1363,7 +1363,7 @@
       "authors": [
         "Scalia"
       ],
-      "sha256": "2f2188d6405dfd59a75b387414ad10a4ce41522c2021a26235dca241fbd5aa83",
+      "sha256": "e388f9adf97b8fedd9838bf6392a02ad275ccb0f12ed7fa2a79add09d3aea161",
       "classification": "Signed plenary merits lead; each author counted once despite multiple portions or joins."
     },
     {

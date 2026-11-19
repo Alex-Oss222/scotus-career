@@ -17,13 +17,13 @@
     {
       "source": "terms/OT2000/workspace/continuity.md",
       "snapshot": "terms/OT2000/freeze/OT_2000CHUNK5_ENTERING_continuity.md",
-      "sha256": "08dd642fa93da5326e23c66dd2a81de2b4483e4db1aa35c2fb1ed0316c8ab61b",
+      "sha256": "07f45544bca29d1b8237ed0e2bdb749bccc63f9909ef1773277d4f32edcfd93f",
       "bytes": 522356
     },
     {
       "source": "terms/OT2000/workspace/neutral-projection.md",
       "snapshot": "terms/OT2000/freeze/OT_2000CHUNK5_ENTERING_neutral_projection.md",
-      "sha256": "ed2ea4cb2b5c0e3b556633c00c008985d0f84637aa1fc9c15d8057e2390586d8",
+      "sha256": "d6be9e3220ded91053b69136b05da50ffe50e8c2614e0f62907fdf1dafb7ac96",
       "bytes": 519214
     }
   ],

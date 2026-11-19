@@ -30,7 +30,7 @@ Exactly eight individual Justice sections and eight component rows; freeze/runti
 | `freeze/OT_2000CHUNK8_NEUTRAL_B_FOODS_ALTERNATIVE_SOURCE_ADDENDUM.md` | `60cbf973eb38b32546aeca89a02914a9ca1f8f0d06c019502146cdf580cc19b0` |
 | `freeze/OT_2000CHUNK8_NEUTRAL_B_REFRESH_RECEIPT.md` | `2b6a5aae5ef6dec194444d24f121bac8e36bb017652d17dd2bcb3422ec01d6f5` |
 | `freeze/OT_2000CHUNK8_COMMITMENTS_united_foods_REFRESH.md` | `872cb8bbe417d74d064ddeebb04ff66748f8a6421236de7cb3bfb070e3f4e6ee` |
-| `freeze/OT_2000CHUNK8_COMMITMENTS_united_foods_REFRESH_RECEIPT.md` | `38932f8a4904425d9780e82def6352fa456ff8b6c7ad905490401ba346cef8db` |
+| `freeze/OT_2000CHUNK8_COMMITMENTS_united_foods_REFRESH_RECEIPT.md` | `50ce5635df1094fdef098cc839cc69b27d36a4a4a3a39758ccaa81b32cf0d466` |
 | `freeze/OT_2000CHUNK8_COMPARATOR_SCOPED.md` | `8afa2983287177ee98a9e2fdabbd2cdc666d66cfc0cc95b7a0247d8b51b6d239` |
 | `sources/chunk8-control/united_foods.txt` | `072e79b31b05b29b4656a1bde1bf51e0410aaf209cf7267aa8998d120784b2a2` |
 | `sources/chunk8-control/united_foods.pdf` | `804df41be8544c37e52ee543529399e4a174a7b51110fafb1168ac66643f5490` |

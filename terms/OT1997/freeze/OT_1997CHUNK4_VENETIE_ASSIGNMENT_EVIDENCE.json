@@ -196,7 +196,7 @@
     "case": "Inmates of Suffolk County Jail v. Rouse; consolidated First Circuit Nos. 97-1261, 97-1262, 97-1263 and 97-1334, 129 F.3d 649. No separate Supreme Court docket is supplied.",
     "event": "Plenary merits decision on authorized submission, 1998-01-15; October Term 1997. No Supreme Court argument date is established.",
     "record": "inmates_of_suffolk_county_jail_v_rouse_merits_1998-01-15.md",
-    "sha256": "356b67f182ccc5175ec21d20416cc63b9062987b99e8db611a9ee9ff518d579e",
+    "sha256": "37209d34f1f727f26438db0a884b6b36b828318bd0a2a181942339aafb16aae3",
     "opinion_topology": "| Writing | Author | Joins |\n|---|---|---|\n| Opinion of the Court, Parts I–III: statute, Article III, vested/procedural due process and equality | Kennedy | Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer |\n| Opinion of the Court, Part IV: assumed independent contract-impairment objection | Kennedy | Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer; Stone-Zsela agrees in rejection of the objection and adds no ground |\n| Opinion of the Court, Part V: ordinary affirmance and mandate | Kennedy | Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer |\n| Concurrence in Parts I–III and the substantive disposition, with distinct implementation mandate | Stone-Zsela | None |"
   },
   {
@@ -308,7 +308,7 @@
     "case": "United States v. Kirk; Fifth Circuit No. 94-50472, 105 F.3d 997. No separate Supreme Court docket assigned.",
     "event": "Plenary merits decision on authorized submission, 1998-02-14; October Term 1997, chunk 4.",
     "record": "united_states_v_kirk_merits_1998-02-14.md",
-    "sha256": "aaf253d9a10648353e068ee201a5118371f8748482089d8a0e4069274e3ff237",
+    "sha256": "b979c49258bc70004c6b2c9fa7071c12f55e277852c6f0d061fee5234227356e",
     "opinion_topology": "Chief Justice Stone-Zsela delivers the opinion of the Court, joined in full by Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. No separate writing is filed."
   },
   {
@@ -316,7 +316,7 @@
     "case": "Johnson v. Rodriguez; Fifth Circuit Nos. 95-50879 and 96-50382, 110 F.3d 299. No separate Supreme Court docket assigned.",
     "event": "Plenary merits decision on authorized submission, 1998-02-17; October Term 1997, chunk 4.",
     "record": "johnson_v_rodriguez_merits_1998-02-17.md",
-    "sha256": "6945b6b8ebc8adfedbe4ac7be074f43549386b030f450f2433a7bba460a0f077",
+    "sha256": "14ae41f4b6f0f5dd225cb210a44702650fd87ce77feb5e1766b5a87b25f72da2",
     "opinion_topology": "| Writing | Author | Joined by | Relationship to judgment | Scope joined |\n|---|---|---|---|---|\n| Opinion of the Court | Kennedy | Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer in full | Supports every component | Parts I–V |\n| Same opinion, partial joins | Kennedy | Stone-Zsela | Supports every disposition | I-A: no initial-release entitlement; I-B: protest-letter rejection; II-A: retaliation and Mt. Healthy; IV-A: standing, attributable practice and fitted relief; V's corresponding mandate. Agrees in correcting and remanding the writ-writer standard without joining II-B's additional assistance/petition grounds. Disposition only, with no additional ground, on III's separate writ-writer equality and IV-B's fee vacatur. |\n\nNo separate writing is filed. The eight Associates supply a direct majority for every part; Stone-Zsela's identified joins add a ninth vote only at that scope."
   },
   {
@@ -324,7 +324,7 @@
     "case": "Arteaga v. United States Court of Appeals for the Ninth Circuit, No. 97-6749; separate Arteaga v. Wilson fee motion, no separate Supreme Court docket supplied.",
     "event": "Filing-administration order, 1998-02-23; October Term 1997, chunk 4.",
     "record": "arteaga_v_united_states_court_of_appeals_filing_order_1998-02-23.md",
-    "sha256": "8a87f17cb79ee4951f3130ceaca283d9416dc6142732583d0b5ce16ce7acf9c1",
+    "sha256": "a0119aad5089942a295c66758f2f2e4f3a1c2cbc4d31d747eb670ea1d258a624",
     "opinion_topology": "| Writing | Author | Joined by | Relationship to action | Scope joined |\n|---|---|---|---|---|\n| Opinion and order of the Court, Part I | Per curiam | O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Denies each present fee motion separately | Particular-paper Rule 39.8 applications and paid-compliance opportunity |\n| Opinion and order of the Court, Part II | Per curiam | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Declines the proposed prospective condition | Applicant-specific fit and inadequacy-of-individual-treatment ground |\n| Dissent from Part I, joining Part II | Stevens | Stone-Zsela | Would grant both fee motions | Discretionary financial-access ground; no merits, default-excuse or certiorari ruling |\n\nThese are the published opinion joins; they disclose no vote on either underlying certiorari petition."
   },
   {
@@ -332,7 +332,7 @@
     "case": "Newsweek, Inc. v. Florida Department of Revenue, No. 97-663.",
     "event": "Certiorari grant and summary merits disposition, 1998-02-23; October Term 1997, chunk 4; no oral argument.",
     "record": "newsweek_inc_v_florida_department_of_revenue_summary_merits_1998-02-23.md",
-    "sha256": "2f17b37aedbb4f9ce3ae60eabcd061fad4ea615ed3fab540882c081418d88144",
+    "sha256": "593dbdc90c18d7c0f204bfbcb9d5317a196e3b385e84b5478a43d949d6f98d46",
     "opinion_topology": "| Writing | Author | Joined by | Relationship to judgment | Scope joined |\n|---|---|---|---|---|\n| Opinion of the Court, Part I | Per curiam | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Requires the postpayment opportunity and bounded remand | Reich rule, actual application, reasonable preannounced conditions and open remedial choices |\n| Opinion of the Court, Part II | Per curiam | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Vacates and remands | Formal disposition leaves the claim's merits and lawful conditions for adjudication |\n| Concurrence in Part I and remand; dissent from vacatur in place of reversal | Stone-Zsela | No other Justice | Would reverse and remand | Same governing rule and remedy limits; distinct formal judgment |\n\nThe merits coalitions above disclose no certiorari poll."
   },
   {
@@ -340,7 +340,7 @@
     "case": "Regions Hospital v. Shalala, No. 96-1375.",
     "event": "Plenary merits decision, 1998-02-24; argued 1997-12-01; October Term 1997, chunk 4.",
     "record": "regions_hospital_v_shalala_merits_1998-02-24.md",
-    "sha256": "29c6b8787a207859aff2450f4e1ce459fc7314741bed7db6de52389d423f1590",
+    "sha256": "58332b0fd53dd1d01553602241b1ef37136742125af949ed5dbe4c31451bcd8d",
     "opinion_topology": "| Writing | Author | Joined by | Relationship to judgment | Scope joined |\n|---|---|---|---|---|\n| Opinion of the Court | Breyer | Stevens, Kennedy, Souter, Ginsburg in full | Supports affirmance | I-A: statutory permission; I-B: construction and permissible deference; II: temporal use and finality; III: rule reasonableness; IV: preclusion; mandate |\n| Same opinion, partial joins | Breyer | Stone-Zsela | Supports affirmance | I-A's authority to correct the lawful base and II's antecedent-input/finality rule; the mandate's corresponding closed-payment and open-year limits. Does not join I-B, III or IV's additional grounds. |\n| Dissent | Scalia | O'Connor, Thomas in full | Would reverse | Statutory recognized-cost ground; remand for lawful calculations without the disputed cost redetermination |\n\nKennedy's Part II join concerns later reimbursement as the relevant activity and does not adopt a general retroactivity framework beyond that application. Each controlling proposition has a direct majority; no combination of separate rationales supplies the Court's law."
   },
   {
@@ -348,7 +348,7 @@
     "case": "Rivet v. Regions Bank of Louisiana, No. 96-1971.",
     "event": "Plenary merits decision, 1998-02-24; argued 1998-01-21; October Term 1997, chunk 4.",
     "record": "rivet_v_regions_bank_of_louisiana_merits_1998-02-24.md",
-    "sha256": "30a6e29bad248e6ec16c881c9b9a7e4cc76432ca0fbbdea3a96b77e6fb286d2e",
+    "sha256": "d4dbfa0ff4328aade23850bb154e76e492aeb2ca237b7cdbf398a9098de78c64",
     "opinion_topology": "Justice Scalia delivers the opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer. No separate writing is filed."
   }
 ]

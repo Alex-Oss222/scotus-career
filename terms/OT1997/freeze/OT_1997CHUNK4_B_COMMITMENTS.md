@@ -239,7 +239,7 @@ O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer would affirm the 
 | `terms/OT1997/entering-law/OT_1997CHUNK4_10_SHAHAR_SUPPLEMENT.md` | `4a68cc38b4482efb028daa12e5c3c57f755f7435e01f6ac9bb1491c130dab026` |
 | `terms/OT1997/entering-law/OT_1997CHUNK4_11_SPENCER.md` | `035808bb4454b69fd425f3ac1411fb42153975168e377a812e93257e7f7beda6` |
 | `terms/OT1997/entering-law/OT_1997CHUNK4_12_LEXECON.md` | `5b76ced35fce8144108f96b0c242cd41d0c9e81981f36545d41e5cb8008321eb` |
-| `terms/OT1997/entering-law/OT_1997CHUNK4_13_BOGAN.md` | `64eaff44aeb0f58cde2a8e49043d03b8573e1dafc624eea97480097eccee718f` |
+| `terms/OT1997/entering-law/OT_1997CHUNK4_13_BOGAN.md` | `15dd96a9a4ef49829d82fc86a76825c9b38a2f1d9dea95497dd8eb0a301c3f22` |
 | `terms/OT1997/research/chunk4_lower/SOURCE_REPORT.md` | `a7167306aae02171af3b7a2997b70cf963f61c808b03107db7728e8dcbbea7cd` |
 | `terms/OT1997/research/chunk4_lower/aponte_opinion.txt` | `002254bed75fc4966161c495aa650da7d4f5614e5bc2e9e3961da4060dbdb90a` |
 | `terms/OT1997/research/chunk4_lower/shahar_opinion.txt` | `1f57bd545c516a24d3b27c092dbe69930fbb2a2c1bdd1dc050ba14a0dac46d5f` |

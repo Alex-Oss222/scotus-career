@@ -237,9 +237,9 @@ The following 185 validated Records are the complete Court-event source set inco
 | 2003-06-16 | [Virginia v. Hicks; No. 02-371; 539 U.S. 113.](../records/Virginia-v-Hicks_merits_2003-06-16.md) | `bdbf25498c4e40c13ba8fe1375d2a3792ec2f5148976c5ce7c3f47b719e0a454` |
 | 2003-06-23 | [American Insurance Association v. Garamendi, No. 02-722; 539 U.S. 396.](../records/American-Insurance-Association-v-Garamendi_merits_2003-06-23.md) | `7e32955b961d0a5c6647759923f189e860dff7df84defe5dca31905e5572cf63` |
 | 2003-06-23 | [Fairley v. Luman; 281 F.3d 913.](../records/Fairley-v-Luman_merits_2003-06-23.md) | `027af914b717c6a54ea352e050f9a24cf1cfd7375bb5796c17ae79ec44a3399d` |
-| 2003-06-23 | [Gratz v. Bollinger, No. 02-516.](../records/Gratz-v-Bollinger_merits_2003-06-23.md) | `47b7bb2153b7b8514aff2d4b92caccc4381d8b8b7fcf5766c82a18de2e51f962` |
+| 2003-06-23 | [Gratz v. Bollinger, No. 02-516.](../records/Gratz-v-Bollinger_merits_2003-06-23.md) | `d2d080b212d1ae5ff49f997f192d444dd274572660fd67fa1e69424fa4320dfe` |
 | 2003-06-23 | [Green Tree Financial Corp. v. Bazzle, No. 02-634; 539 U.S. 444; includes the Lackey/Buggs proceeding within the consolidated review.](../records/Green-Tree-Financial-Corp-v-Bazzle_merits_2003-06-23.md) | `af8f875fbe493bf573a3cb866cfceeef6ca3411c3742d2c16b9a87ab70660ac2` |
-| 2003-06-23 | [Grutter v. Bollinger, No. 02-241.](../records/Grutter-v-Bollinger_merits_2003-06-23.md) | `c38690fea13387cd2f75aca56e70467f4c9fd0d6a7453a776098566a2142f373` |
+| 2003-06-23 | [Grutter v. Bollinger, No. 02-241.](../records/Grutter-v-Bollinger_merits_2003-06-23.md) | `28e184f1ce6f5a79ba79ef84a1dc11797ffce9284afaba3730cd17f2a7e23923` |
 | 2003-06-23 | [Krimstock v. Kelly; 306 F.3d 40; lower docket 00-9488.](../records/Krimstock-v-Kelly_merits_2003-06-23.md) | `5926b6e20c788a22d039b34bc1b39a43eb5078d6abe9f5a423933a4639091011` |
 | 2003-06-23 | [Sons of Confederate Veterans, Inc. v. Commissioner of the Virginia Department of Motor Vehicles; 288 F.3d 610; Fourth Circuit No. 01-1242.](../records/Sons-of-Confederate-Veterans-Inc-v-Commissioner-of-the-Virginia-Department-of-Motor-Vehicles_merits_2003-06-23.md) | `ed5d4e87df9ffee60a93fbdd35675b0f8ed38f8c1aa8086e783aa72e06e113a6` |
 | 2003-06-23 | [United States v. American Library Association, Inc.; No. 02-361; 539 U.S. 194.](../records/United-States-v-American-Library-Association_merits_2003-06-23.md) | `25579fe4d38466403a846a8ec8862f673f41612af751a41d27100b28dd240fe7` |
@@ -272,7 +272,7 @@ The five Holdings passes cover chunks 1-3, 4-6, 7-9, 10-12 and 13-15 respectivel
 | Staged file removed after verified publication | SHA-256 |
 |---|---|
 | `HOLDINGS.candidate.md` | `239549904b67c0002349bbd67da862498cea14c087245a86cb975688eec709f8` |
-| `STANDARDS_AND_TESTS.candidate.md` | `02b3adc7b6b4a51a04d21ed5827048ef43c77019220630fc0630df1a49213c0d` |
+| `STANDARDS_AND_TESTS.candidate.md` | `1ef0b08e8388510e90413893bc5d0a63e6e98bf44060a9ed5fef853be586305d` |
 | `STANDING_STATE.candidate.md` | `a296e4484f8fcfdb5749e6123b7c675a963fc3d1b89decf1300de1075005b0eb` |
 | `HOLDINGS_PASS1.md` | `71ed89b1bb5f129a8d2711bb068db14447ebba7c7c375baa312ea42c2c8745e9` |
 | `HOLDINGS_PASS2.md` | `10b2d145b363d19b0fae85dc12aeea38765461a07a6de6ab332340ceedd15456` |
@@ -311,26 +311,26 @@ The authorized publication is complete. The following checks passed before stagi
 
 | Published file | SHA-256 | Line endings |
 |---|---|---|
-| [state/HOLDINGS.md](../../../state/HOLDINGS.md) | `f4294825f11cb36c30fbf38f44f5fb66b8e49f40be5c61748ae7e039f9f9b734` | CRLF |
-| [state/STANDARDS_AND_TESTS.md](../../../state/STANDARDS_AND_TESTS.md) | `02b3adc7b6b4a51a04d21ed5827048ef43c77019220630fc0630df1a49213c0d` | CRLF |
+| [state/HOLDINGS.md](../../../state/HOLDINGS.md) | `19e3401c0914edbfc720ec45f9913e0c68531800bb77ceffc492dbe493ed33da` | CRLF |
+| [state/STANDARDS_AND_TESTS.md](../../../state/STANDARDS_AND_TESTS.md) | `1ef0b08e8388510e90413893bc5d0a63e6e98bf44060a9ed5fef853be586305d` | CRLF |
 | [state/STANDING_STATE.md](../../../state/STANDING_STATE.md) | `a296e4484f8fcfdb5749e6123b7c675a963fc3d1b89decf1300de1075005b0eb` | LF |
 | [state/holdings/administrative-law.md](../../../state/holdings/administrative-law.md) | `0d6db29949ae2e06f488928ed4ab0ea58088d387a593f3b2288a48ec5f72a877` | LF |
 | [state/holdings/antitrust.md](../../../state/holdings/antitrust.md) | `51f7f98999d6be9dcbbe7f5fd5df240a76d097e0354ddc067968c90bedec3bea` | LF |
 | [state/holdings/bankruptcy.md](../../../state/holdings/bankruptcy.md) | `1e01810c9d6626174dac4ebc9e422e0e6d70f10be2f0f10e2a9c9043fddbb57f` | LF |
 | [state/holdings/business-and-commercial-law.md](../../../state/holdings/business-and-commercial-law.md) | `7d2ce26febe647466f77ded85722500cd123da2e215d1231359d9a4dc7648108` | LF |
-| [state/holdings/civil-rights.md](../../../state/holdings/civil-rights.md) | `4db38ec88474b375a28411930afc366de63d4fe217bf3d8278240d436cb41e57` | LF |
-| [state/holdings/constitutional-structure.md](../../../state/holdings/constitutional-structure.md) | `74113016cf16048bcbb28be13457f654cc2481143722459cc4a4b2adb3845793` | LF |
+| [state/holdings/civil-rights.md](../../../state/holdings/civil-rights.md) | `e9c8c809b12f47a1cc6d20a147eee6f101c228c468c2b66eae71aa9963b1bd22` | LF |
+| [state/holdings/constitutional-structure.md](../../../state/holdings/constitutional-structure.md) | `28b7cd474f6b66a413a7a6a3b7456b9afa007547ea3b7c0de17f58419cbef6a7` | LF |
 | [state/holdings/criminal-procedure-investigations.md](../../../state/holdings/criminal-procedure-investigations.md) | `457130cd5bbc01915c22b3a914a1fca0f48f55c87cd534b9d724cb747935d28a` | LF |
 | [state/holdings/criminal-procedure-sentencing-and-capital.md](../../../state/holdings/criminal-procedure-sentencing-and-capital.md) | `a5e1e9d3ac0bf566adbe52a35021e4f73a39a17001031eb86271cbaec80fc4f8` | LF |
 | [state/holdings/criminal-procedure.md](../../../state/holdings/criminal-procedure.md) | `8e1eab0a190c6a82e48d7508a89aafd37fbdff002b3585838205b5b5720cfc11` | LF |
 | [state/holdings/election-law.md](../../../state/holdings/election-law.md) | `9ad6682df09fd92c3a1613c60b9c0e3f210b5b3166c910ea2f28a1254563144b` | LF |
 | [state/holdings/environmental-law.md](../../../state/holdings/environmental-law.md) | `9f823135a94694f2ea49c9f3fb5b5d6ba7095954d195a5dccb76a2c518231abd` | LF |
 | [state/holdings/federal-courts-habeas.md](../../../state/holdings/federal-courts-habeas.md) | `1e513e7d67f21733d6600e6d988556b3f249a85c3991e4ebbc167dd01b4e9174` | LF |
-| [state/holdings/federal-courts-immunities-and-remedies.md](../../../state/holdings/federal-courts-immunities-and-remedies.md) | `9eea266d087502295d8543d5077255d8f5d0735900ac919d9d20289e00893d43` | LF |
-| [state/holdings/federal-courts-justiciability.md](../../../state/holdings/federal-courts-justiciability.md) | `d530e660fa7e1589b47dc69e707b7a2e88593c4a6040bcab32043fb1ee14a293` | LF |
-| [state/holdings/federal-courts.md](../../../state/holdings/federal-courts.md) | `f6f553de3770b1a4ab00920a9c195599523c9ff27e07682379d2153f4ccc7dae` | LF |
+| [state/holdings/federal-courts-immunities-and-remedies.md](../../../state/holdings/federal-courts-immunities-and-remedies.md) | `008bebb6ddc4ae27656c06aef3a9581f9dd0c9ddf115c809c185ce85944551d1` | LF |
+| [state/holdings/federal-courts-justiciability.md](../../../state/holdings/federal-courts-justiciability.md) | `e15574987a5e4772abe3e38dc6f87dcb906cf1585b31b3c33d011b1e4fe7967e` | LF |
+| [state/holdings/federal-courts.md](../../../state/holdings/federal-courts.md) | `886724980ad8a79610bf159f0b2f69d6da67c4e0c2bb4348c479c4e8daedacc2` | LF |
 | [state/holdings/federal-indian-law.md](../../../state/holdings/federal-indian-law.md) | `ea7d1c7550e04cc11a72bba45f93dc3c8d53c16aabf98bde5616173dc9668fc6` | LF |
-| [state/holdings/federal-taxation.md](../../../state/holdings/federal-taxation.md) | `db130a65798f803681bb6d26092d58ae755d0432b32188be9740c4a20d0fb7e2` | LF |
+| [state/holdings/federal-taxation.md](../../../state/holdings/federal-taxation.md) | `b165b21949d215f73104f2ef70d333a3724e6db252d1fa4e0cb707abc0bdc53f` | LF |
 | [state/holdings/first-amendment.md](../../../state/holdings/first-amendment.md) | `00be3893d618de823f0004e1f8443e50bc54893e45aced2c6304fec133571b98` | LF |
 | [state/holdings/immigration.md](../../../state/holdings/immigration.md) | `37ad32d92cbcc3ff8fb951d89eb4114c47ccde362f6de24240eb86a6dfc38714` | LF |
 | [state/holdings/INDEX.md](../../../state/holdings/INDEX.md) | `c7ad11463c78e27ca07972fa2314ea714afa0b899c5addf2df4b4e1eaf78b87c` | CRLF |

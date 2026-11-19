@@ -23,7 +23,7 @@
   },
   "JOHNSON": {
     "packet": "OT_1999CHUNK6_JOHNSON_NEUTRAL_VALIDATED.md",
-    "packet_sha256": "3f4dcbdc19ded6f049fecb9c6b4ea1192480f993521100ddff735d2a0d78a52d",
+    "packet_sha256": "448fbd3741d82dfe12dd1ed61c54f513a88d80536fb95264e554a14387798953",
     "copied_sources": [
       {
         "source": "OT_1999CHUNK6_JOHNSON.md",
@@ -49,7 +49,7 @@
   },
   "PUBLIC_LANDS": {
     "packet": "OT_1999CHUNK6_PUBLIC_LANDS_NEUTRAL_VALIDATED.md",
-    "packet_sha256": "b8bcbea4c8a421e2eee0e7649940a40f5487a66019e711a92f44b68858659855",
+    "packet_sha256": "c9fb2ac5f5124f01d3f8f81c124def6ec87f632ab21d49a7ae2c6094f4bc14ef",
     "copied_sources": [
       {
         "source": "OT_1999CHUNK6_PUBLIC_LANDS.md",
@@ -109,7 +109,7 @@
   },
   "MORRISON": {
     "packet": "OT_1999CHUNK6_MORRISON_NEUTRAL_VALIDATED.md",
-    "packet_sha256": "bd4f3c62b6437ac98ec699dacc5513a998a4ed2e7aff76fe7f1cd697eb27b1f1",
+    "packet_sha256": "e34dc1b22e2facde033f35efee94f07d0e28d65f658723a4335d82dd1c1dcdaf",
     "copied_sources": [
       {
         "source": "OT_1999CHUNK6_MORRISON.md",
@@ -149,7 +149,7 @@
   },
   "JONES": {
     "packet": "OT_1999CHUNK6_JONES_NEUTRAL_VALIDATED.md",
-    "packet_sha256": "a1254aa736cf54dd52b644180e4d7a1bdce46b507154572f3634481a697dba93",
+    "packet_sha256": "6216c950c99134d8dbd68345e0951043484ada59b45114feeb7e8bafa6c4d814",
     "copied_sources": [
       {
         "source": "OT_1999CHUNK6_JONES.md",

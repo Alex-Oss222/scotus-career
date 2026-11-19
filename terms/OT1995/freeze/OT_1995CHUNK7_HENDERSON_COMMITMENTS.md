@@ -148,7 +148,7 @@ The original-paper support is the committed [sanitized record facts](../sources/
 |---|---|---|
 | `freeze/OT_1995CHUNK7_HENDERSON_NEUTRAL_VALIDATED.md` | `689448f` | `02c6f00e20e4427a966e061058a9655ce4a4e5b37cebef4cdb451f9401afdba2` |
 | `entering-law/OT_1995CHUNK7_A_OPENING.md` | `d69c51d` | `bd4fe6c26041928f93736c54a4fff6ebe8c2044a5f273e33756f85781fb02410` |
-| `entering-law/OT_1995CHUNK6_PRE_MAY20_NEUTRAL_PROJECTION.md` | `7655d8f` | `886abb4471a1ab665f985e7cbefa66a38549350a421e32ae757870ffa21985a7` |
+| `entering-law/OT_1995CHUNK6_PRE_MAY20_NEUTRAL_PROJECTION.md` | `7655d8f` | `e3ae9bd88801219a892b1ef067583e68c5edab83a2731f0858ae4595ac3b8237` |
 | `sources/chunk7_a/henderson_SANITIZED_RECORD_FACTS.md` | `4cc6fcd` | `0ed8b36ccb12ef8b5d5e463b058dc6b034152bfb43331474ebd08020f215f94f` |
 | `sources/chunk7_a/henderson_SANITIZED_SOURCE_EXTRACT.md` | `4cc6fcd` | `7b523ead2bde45dfd67566a42a4295ac819757dbb16f2ab1dca6d262abd6f322` |
 | `sources/chunk7_a/FIRST_PAIR_SANITIZED_SOURCE_CORRECTIONS.md` | `4cc6fcd` | `20699e9c3b7b53023ab68b8a3aed31ccd79ee6e374126ea92cf1cd019979f198` |

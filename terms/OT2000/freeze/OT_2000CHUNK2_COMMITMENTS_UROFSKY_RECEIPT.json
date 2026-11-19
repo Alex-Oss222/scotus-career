@@ -56,11 +56,11 @@
     },
     {
       "path": "terms/OT2000/freeze/OT_2000CHUNK2_UROFSKY_NEUTRAL_DISTRICT_SOURCE_RECEIPT.json",
-      "sha256": "338a661de41bba4b496a4f8be1b15401e7b68be7498efd0243f154d9a7e27f73"
+      "sha256": "bc03d3a46e749db8b781360bba4880d4a0250ed98027efe302ea5d8d7c6e7f06"
     },
     {
       "path": "terms/OT2000/freeze/OT_2000CHUNK2_UROFSKY_INTERVENING_LAW_REVIEW.md",
-      "sha256": "7ecaaeaf08e8a5da312421d140f1336642e006949b8127829dd31506242c9e57"
+      "sha256": "069aed0c46795fd8588be402e9f7a59ea20153acfb2e6f6148500dc2adb86509"
     }
   ],
   "sources": [

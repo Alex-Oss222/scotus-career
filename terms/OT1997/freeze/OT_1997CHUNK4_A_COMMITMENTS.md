@@ -229,7 +229,7 @@ The following SHA-256 values identify the files actually consulted, including ta
 | `terms/OT1997/entering-law/OT_1997CHUNK4_02_JOHNSON.md` | `d8afd2468957b039ee36e4e216dd7d55801d7b80bee3b8238bc6283f2ee406c7` |
 | `terms/OT1997/entering-law/OT_1997CHUNK4_03_NEWSWEEK.md` | `dd0d16f79d9b7bfddf36bf8c19cc367293ffb984fd6716e5f8714d5397f8f044` |
 | `terms/OT1997/entering-law/OT_1997CHUNK4_04_ARTEAGA.md` | `dc6c0087086ba213858a6175e3890dfd39fac53479831acad46d57df9d1ec12c` |
-| `terms/OT1997/entering-law/OT_1997CHUNK4_05_REGIONS.md` | `6d38db7fd417fef62ff8fd5d9568c90574212ec1dd9d993355930d69ffe8c313` |
+| `terms/OT1997/entering-law/OT_1997CHUNK4_05_REGIONS.md` | `174fbc9c509685d201559cd7ae41931bbcbb7ed68387199e75a54e142b0e9d37` |
 | `terms/OT1997/entering-law/OT_1997CHUNK4_06_RIVET.md` | `b06ddcc0cd69a3d53ed58f0d9aee62f6c2b7ebf8a642f828af0bd833a111ae50` |
 | `terms/OT1997/research/chunk4_lower/SOURCE_REPORT.md` | `a7167306aae02171af3b7a2997b70cf963f61c808b03107db7728e8dcbbea7cd` |
 | `terms/OT1997/research/chunk4_lower/johnson_opinion.txt` | `a12a5f546babf28e976fa60b0a1d1c3c927ba05475fa7a9ce2a51e2afd795e00` |

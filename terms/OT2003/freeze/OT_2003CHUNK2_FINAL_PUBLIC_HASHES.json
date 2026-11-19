@@ -73,9 +73,9 @@
   },
   {
     "record": "mcconnell_v_federal_election_commission_merits_2003-12-10.md",
-    "record_sha256": "290bcc6551fa96c75ada51c9de63c75e32fbfa9dd92856baa2b2868fca7786f5",
+    "record_sha256": "81a9ca6163239fd8c39fc19538cee6dc4df5b76e51b87efc8f2858501e612163",
     "final_public": "OT_2003CHUNK2_MCCONNELL_PUBLIC_FINAL_LAYOUT.md",
-    "public_saved_byte_sha256": "fba1100c144e91edfa5dd9b9e3ee3b7ac723bdac34ff84c6b9b5351e76744dc3"
+    "public_saved_byte_sha256": "c683dbe574dbaa28fac2c63a068f3b6e820915857348f3856a5b3daa458731bc"
   },
   {
     "record": "united_states_v_deaton_merits_2003-12-11.md",
@@ -91,7 +91,7 @@
   },
   {
     "record": "maryland_v_pringle_merits_2003-12-15.md",
-    "record_sha256": "19a2e0245345848ca6d474f25634d9f9671f38e194578860829fe5319fffda05",
+    "record_sha256": "78914b2f68c4dd91e9654bdedaa485465db951afff525f9c98324c5ced17ed88",
     "final_public": "OT_2003CHUNK2_PRINGLE_PUBLIC_COMPLETENESS.md",
     "public_saved_byte_sha256": "c6ed05d20c76f4e5e87e2c351ea7ae0f61e396e17100c5242013b2b81ea14d9b"
   }

@@ -2,7 +2,7 @@
 
 **Stage and cutoff:** Historical reconciliation; April 17, 2000. No Stone supplement, combined brief, private position or raw Decision Record was read. This handoff enters no judgment and chooses no author.
 
-**Frozen model retained:** `../freeze/OT_1999CHUNK5_GILLESPIE_COMMITMENTS.md`, SHA-256 `cb1adba022bc0d19e199b3126e2a70778825f1867982086834bf0dbcae0d57a9`, is incorporated in full, including its statutory qualifications, all three constitutional components, personal-injury threshold, strongest alternatives, Justice-specific grounds and remedial limits. No commitment is changed.
+**Frozen model retained:** `../freeze/OT_1999CHUNK5_GILLESPIE_COMMITMENTS.md`, SHA-256 `9d05c2acd03d59e26f653593e69366aebae9d5711d165124aaa2c7f2ae8f6b6f`, is incorporated in full, including its statutory qualifications, all three constitutional components, personal-injury threshold, strongest alternatives, Justice-specific grounds and remedial limits. No commitment is changed.
 
 ## Historical comparison
 

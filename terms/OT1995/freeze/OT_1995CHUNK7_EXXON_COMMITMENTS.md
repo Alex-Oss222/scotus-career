@@ -6,8 +6,8 @@
 
 ## Admitted inputs and chronology
 
-- Final neutral: `OT_1995CHUNK7_EXXON_NEUTRAL_VALIDATED.md` at **9f2189b**, SHA-256 **bdcdea3733419578d10c4e377fec08793ee1220ac6b919d1159709d7527752aa**. The complete 135-line packet was read and its hash verified.
-- Common entering-law baseline: `../entering-law/OT_1995CHUNK7_PRE_JUNE10_NEUTRAL_PROJECTION.md` at **e1bc5d6**, SHA-256 **793722d3615b4074f9c13ac6de59ee3b55ba3cbc5ae566aabf085aa80a0f657c**. Hash and common June 3 cutoff verified; the already prepared relevant public authorities are retained rather than comprehensively reread.
+- Final neutral: `OT_1995CHUNK7_EXXON_NEUTRAL_VALIDATED.md` at **9f2189b**, SHA-256 **46de2d263584e9ae79e6b64b15de31850602fedae9374fd221fd3d084cd31f4b**. The complete 135-line packet was read and its hash verified.
+- Common entering-law baseline: `../entering-law/OT_1995CHUNK7_PRE_JUNE10_NEUTRAL_PROJECTION.md` at **e1bc5d6**, SHA-256 **d86eb19a8e518a9253986a0a8390d15fcbbf37de599efd560afaa0a3a561cd75**. Hash and common June 3 cutoff verified; the already prepared relevant public authorities are retained rather than comprehensively reread.
 - Chronology clarification: `../entering-law/OT_1995CHUNK7_PRE_JUNE10_CHRONOLOGY_NOTE.md` at **8fb1ac9**, read. Smiley's qualified antecedent-transaction holding remains controlling within its banking setting; the OCC source-admission description does not qualify that later holding.
 - Opening maritime authorities and operative standards: authorized **d69c51d** slice; public Yamaha and Zicherman at **b467528**; exact public Ornelas at **155b6fd**; public Quackenbush **903499b**, Loving **0b208d6**, Auciello **8e058fc**, and Smiley **459b6b0**. The relevant earlier preparation and final neutral's unchanged source catalogues are incorporated by reference.
 - The bounded contract extract at **5dc889b** was read directly. The final neutral incorporates the **994a3b0** phase-one and lower-court source verification; this model does not claim an independent reading of the underlying unfiltered papers or all trial exhibits.

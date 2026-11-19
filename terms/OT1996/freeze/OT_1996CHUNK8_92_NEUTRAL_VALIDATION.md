@@ -16,4 +16,4 @@ Exact-copy checks: original Section I obtained mechanically; claims and footnote
 
 Original case 92 Section I normalized-text SHA256: `58b591aa5f638df173c1bee81033bfeacd148b58201f0cd3e2013c382afafa68`.
 Lower-only source normalized-text SHA256: `270898696f8e0595016a3a7e0d2791948a29d61948787da7c0f27a0b10485c22`.
-Frozen packet UTF-8 SHA256: `0217a454636b55c4af6e5b2b72054a361b69c42e41860cf66aa5a6317a4aac2d`.
+Frozen packet UTF-8 SHA256: `cd078fcb192a1fbce96ab0a46619fce9cf7e264c25c8a6621e4a0358e43aeab2`.

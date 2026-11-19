@@ -64,10 +64,10 @@
     }
   ],
   "workspace": {
-    "continuity.md": "08dd642fa93da5326e23c66dd2a81de2b4483e4db1aa35c2fb1ed0316c8ab61b",
+    "continuity.md": "07f45544bca29d1b8237ed0e2bdb749bccc63f9909ef1773277d4f32edcfd93f",
     "ledger.md": "b5446fb5e5ebf7b26d286da6965ee8e55c2e4f3f6df8e98f1e8e52300d0721be",
     "manifest.md": "2ec8c88048dacd0c962f87b7e32d02f4d32697f087151557ff554004b141f5d9",
-    "neutral-projection.md": "ed2ea4cb2b5c0e3b556633c00c008985d0f84637aa1fc9c15d8057e2390586d8"
+    "neutral-projection.md": "d6be9e3220ded91053b69136b05da50ffe50e8c2614e0f62907fdf1dafb7ac96"
   },
   "render_input_sha256": "852057174affe9bb84481f3c07aca91ac64405a9ddbceb9c3b00a2854cb28c77",
   "new_current_law_copies": 6,

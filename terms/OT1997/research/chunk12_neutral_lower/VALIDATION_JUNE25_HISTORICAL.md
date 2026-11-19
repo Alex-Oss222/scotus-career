@@ -5,6 +5,6 @@ Validated five matters: Bragdon, Clinton, Eastern, NEA/Finley and Balsys. Source
 Exact statute excerpts were copied from the saved sanitized source pack, not retyped. Source-copy preservation verified by inclusion below. Full original record materials remain unrecovered; no claim is made that archive petition/brief searches occurred in this context. Relevant known published recitations suffice under Engine section 14(2); paths requiring additional material evidence identify their source needs in the packet. Source dates and prior simulated holdings govern.
 
 Frozen handoff: freeze/OT_1997CHUNK12_NEUTRAL_JUNE25_HISTORICAL.md
-SHA256: a3dfb1b468d703852c381aba1ae12be267063f03b71316073ae8b392e306a0d5
+SHA256: 7cde9d9f4d8fee4450fec4a404c0121c2660c65f021dd5d087ff5add6192d31a
 
 Ready for independent modeling of the five specified June 25 matters, subject to the explicit per-path source limits. Balsys modeler must read full relevant supplied predivergence authorities. This packet changes no Court action or current law.

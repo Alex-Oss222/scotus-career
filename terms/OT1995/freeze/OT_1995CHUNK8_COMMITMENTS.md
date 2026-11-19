@@ -640,7 +640,7 @@ The actual complete pre-June 14 public-law gate is closed. These independent com
 
 ---
 
-<!-- frozen-source: OT_1995CHUNK8_MELENDEZ_COMMITMENTS.md; sha256: dfbf75f1f8c4eb0abc36c3daa9e3cf7379fc2fae89a7138d61af36fa2cfe561e -->
+<!-- frozen-source: OT_1995CHUNK8_MELENDEZ_COMMITMENTS.md; sha256: d21bce3039948627e40a372874923eb32d5619530f61f4692696b5027e4b2a70 -->
 
 # Melendez — frozen independent non-Stone assessment
 
@@ -692,14 +692,14 @@ Rise creates no sentencing-motion, abortion-severability, habeas-mootness or Rul
 Egelhoff has entered no decision or new law. Vera's direct appeals remain pending after the standing-only action. Pending matters supply no unentered holding. The three June17 matters all use this common preceding-day baseline; no June17 peer enters another's law through file order. Gray is not frozen by this handoff and must receive actual completed June17 public law before its own release.
 
 **Immutable input checksums (SHA256):**
-- Pre-June17 snapshot: `4691c0a05c1d05ed892ab6edcccc239b01ded741b9ad537d6fc0efe68641c069`.
+- Pre-June17 snapshot: `91f2a2b63c478a12c3d5207be14e6db57a676d2ac47092987ffc0cf510f75118`.
 - Complete Rise public copy: `7c24bdca1706ade3ae922f180547a816744442f28b86942fbc0558167789e9ff`.
 
 The original provisional assessment, authority research and qualification receipt remain preserved under `research/chunk8-model-c/`; they are preparation history, not an override of this freeze. This handoff carries each Associate's component position, sufficient grounds, material opposing path, own date-eligible support and join/remedy limits. Historical reconciliation and Stone assembly have not occurred here. A later materially changed neutral premise requires a fresh affected stage; it may not be silently patched into this released file.
 
 ---
 
-<!-- frozen-source: OT_1995CHUNK8_LEAVITT_COMMITMENTS.md; sha256: fa84c7db27fd8a3111a92888271f0043d1b3339ee9a545c8a8c8d5800fd22878 -->
+<!-- frozen-source: OT_1995CHUNK8_LEAVITT_COMMITMENTS.md; sha256: 990a2b17bc498b0d8f999eee3f15a09e7fa0d40d9f5b712c3fed38f500ce2c3e -->
 
 # Leavitt — frozen independent non-Stone assessment
 
@@ -755,14 +755,14 @@ Rise creates no sentencing-motion, abortion-severability, habeas-mootness or Rul
 Egelhoff has entered no decision or new law. Vera's direct appeals remain pending after the standing-only action. Pending matters supply no unentered holding. The three June17 matters all use this common preceding-day baseline; no June17 peer enters another's law through file order. Gray is not frozen by this handoff and must receive actual completed June17 public law before its own release.
 
 **Immutable input checksums (SHA256):**
-- Pre-June17 snapshot: `4691c0a05c1d05ed892ab6edcccc239b01ded741b9ad537d6fc0efe68641c069`.
+- Pre-June17 snapshot: `91f2a2b63c478a12c3d5207be14e6db57a676d2ac47092987ffc0cf510f75118`.
 - Complete Rise public copy: `7c24bdca1706ade3ae922f180547a816744442f28b86942fbc0558167789e9ff`.
 
 The original provisional assessment, authority research and qualification receipt remain preserved under `research/chunk8-model-c/`; they are preparation history, not an override of this freeze. This handoff carries each Associate's component position, sufficient grounds, material opposing path, own date-eligible support and join/remedy limits. Historical reconciliation and Stone assembly have not occurred here. A later materially changed neutral premise requires a fresh affected stage; it may not be silently patched into this released file.
 
 ---
 
-<!-- frozen-source: OT_1995CHUNK8_CALDERON_COMMITMENTS.md; sha256: cf995ddbac0222769db1b0c013035c025e4cf4c060ac2205d509edc5a494cbce -->
+<!-- frozen-source: OT_1995CHUNK8_CALDERON_COMMITMENTS.md; sha256: a85a03f36caa5fe2633cf35970e654da311eda63340c63838c520bc4b5bc1dfc -->
 
 # Calderon v. Moore — frozen independent non-Stone assessment
 
@@ -818,7 +818,7 @@ Rise creates no sentencing-motion, abortion-severability, habeas-mootness or Rul
 Egelhoff has entered no decision or new law. Vera's direct appeals remain pending after the standing-only action. Pending matters supply no unentered holding. The three June17 matters all use this common preceding-day baseline; no June17 peer enters another's law through file order. Gray is not frozen by this handoff and must receive actual completed June17 public law before its own release.
 
 **Immutable input checksums (SHA256):**
-- Pre-June17 snapshot: `4691c0a05c1d05ed892ab6edcccc239b01ded741b9ad537d6fc0efe68641c069`.
+- Pre-June17 snapshot: `91f2a2b63c478a12c3d5207be14e6db57a676d2ac47092987ffc0cf510f75118`.
 - Complete Rise public copy: `7c24bdca1706ade3ae922f180547a816744442f28b86942fbc0558167789e9ff`.
 
 The original provisional assessment, authority research and qualification receipt remain preserved under `research/chunk8-model-c/`; they are preparation history, not an override of this freeze. This handoff carries each Associate's component position, sufficient grounds, material opposing path, own date-eligible support and join/remedy limits. Historical reconciliation and Stone assembly have not occurred here. A later materially changed neutral premise requires a fresh affected stage; it may not be silently patched into this released file.
@@ -935,8 +935,8 @@ These updates leave every provisional judgment position and substantive join bar
 
 | Read artifact | SHA-256 at final gate |
 |---|---|
-| Pre-June17 neutral projection | `4691c0a05c1d05ed892ab6edcccc239b01ded741b9ad537d6fc0efe68641c069` |
-| Pre-June20 neutral projection | `1c473bb3aae7b94632b03b971b47c850160c0e86f4ef2d535bf1f43ee10164d6` |
+| Pre-June17 neutral projection | `91f2a2b63c478a12c3d5207be14e6db57a676d2ac47092987ffc0cf510f75118` |
+| Pre-June20 neutral projection | `c3e1565ac388961898e3492a2dd23cf77a45b88cca1fd04b666af2082d6cceaa` |
 | Public Rise | `7c24bdca1706ade3ae922f180547a816744442f28b86942fbc0558167789e9ff` |
 | Public Melendez | `3635c0a5d7ac1b5679819e6664cd82ce8745a03751bccf1773b5813a900644a4` |
 | Public Leavitt | `c218b553c04810b58025aff0043606e723ddea6376c768c1717b98572082901a` |

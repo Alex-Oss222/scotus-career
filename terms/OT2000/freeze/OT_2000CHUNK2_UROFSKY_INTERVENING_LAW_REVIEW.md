@@ -1,6 +1,6 @@
 # Urofsky - intervening public-law review
 
-Reviewed the complete eight-event public-law reading copy through the supplied Kansas entry, with SHA-256 `19a6f4402f0fe61d6c3c01ab2c076bc2a17085be603a491e50ea880246fb4b91`. The first seven entries were read in full before Kansas was added; the complete added Kansas entry was then read. No raw Record was opened. This updates the earlier release's pending comparison for these actual completed events only.
+Reviewed the complete eight-event public-law reading copy through the supplied Kansas entry, with SHA-256 `e6e55ca497c55dfdfab7c3af1e1e1b26249230216c93a31c95b4ec0e3a3ec42b`. The first seven entries were read in full before Kansas was added; the complete added Kansas entry was then read. No raw Record was opened. This updates the earlier release's pending comparison for these actual completed events only.
 
 No reviewed holding displaces the Urofsky employee-speech baseline or settles its individual academic-freedom question. Independent modeling may continue with the source addition and the following scope distinctions.
 

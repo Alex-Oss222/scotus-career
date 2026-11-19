@@ -3746,7 +3746,7 @@
     },
     {
       "record": "Plyler_v_Moore_merits_1997-06-23.md",
-      "sha256": "b877eb1ffe32f12001b15c688c17befcca1eda94704b6eb2e1081a689a2ddcc8",
+      "sha256": "7ff06884bfb4ce2658483ab04d5eb5f9da76b97df1d0e5d0d6c1f7471fa6e179",
       "issues": [],
       "participation": [
         "Stone-Zsela",
@@ -7586,8 +7586,8 @@
   "pending_records": [],
   "protected_original_changes": [],
   "scoped_inputs_sha256": {
-    "terms\\OT1996\\freeze\\OT_1996CHUNK12_RECONCILED_A.md": "f2770e474205dd0459637c0daf6cd6216bb95a573e32c92e78073be8eae35b8c",
-    "terms\\OT1996\\runtime\\OT_1996CHUNK12_STONE_A.md": "e8ea5723591666291ce6733ab6c105f215c7845d832814967c22e9f7050e6dc5"
+    "terms\\OT1996\\freeze\\OT_1996CHUNK12_RECONCILED_A.md": "a79c7bb587cdeba1e90efcf95cc914a8525152f41a25f35f21a9f29df007c2f6",
+    "terms\\OT1996\\runtime\\OT_1996CHUNK12_STONE_A.md": "711f5c165820979e83d55da5c1f6cc0c2ae6e9fdfa5e5bb99f0ddc8f6addb7a6"
   },
   "limits": [
     "Eligibility sets derive independently from frozen A and approved Stone_A; arithmetic does not choose substantive eligibility.",

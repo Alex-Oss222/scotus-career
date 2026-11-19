@@ -82,7 +82,7 @@
     },
     {
       "path": "terms/OT2000/entering-law/OT_2000CHUNK2_kansas.md",
-      "input_sha256": "9391ee0bde426db21f8ce3fa75dd7654c3f6c454730b60465a7f1ca25071645a",
+      "input_sha256": "e45c3e3d59a637eb50e8ef6db3515c3c84ca61491559ef6ec0d1ef60450dd56d",
       "bytes": 36130
     },
     {
@@ -112,12 +112,12 @@
     },
     {
       "path": "terms/OT2000/entering-law/OT_2000CHUNK2_MIDDLE_PUBLIC_POSITIONS.md",
-      "input_sha256": "2b94b941d2a2776a57ab472ccfda3c4f6b9302a6bf0733fd3b280fae38886a79",
+      "input_sha256": "8568307a25594e828f224160299f8c94543e0930ca511f56f513eb30581c9f06",
       "bytes": 39889
     },
     {
       "path": "terms/OT2000/entering-law/OT_2000CHUNK2_MIDDLE_PUBLIC_POSITIONS_SELECTION.json",
-      "input_sha256": "5e12e046ace41cc2ceed77cb16083d24e8424aae1a14334346c3a160cbdf6a74",
+      "input_sha256": "1240148327f86c586b32579dea1685e73628c8fd582ca235a4533ed5532bd5c9",
       "bytes": 2770
     },
     {
@@ -177,7 +177,7 @@
   "output": {
     "runtime": "terms/OT2000/runtime/OT_2000CHUNK2_COMMITMENTS_MIDDLE.md",
     "freeze": "terms/OT2000/freeze/OT_2000CHUNK2_COMMITMENTS_MIDDLE.md",
-    "sha256": "83668a73a040b9db565490d6dcfba417f18594d742de6a04b5be140af6dc2618",
+    "sha256": "a5d5f55b8aeed2d76459e9ebb310a50209ac4eed54601400b701d7a9867321a5",
     "bytes": 57441,
     "identical": true
   },

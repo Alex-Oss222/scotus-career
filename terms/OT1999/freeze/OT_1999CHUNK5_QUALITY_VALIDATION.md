@@ -73,7 +73,7 @@ Explanation word counts by Record: Reform 100/206/114; Bond 263; Gillespie 251/1
 |---|---|
 | `reform-party-v-allegheny-county_merits_2000-04-10.md` | `4e6976be4d7c77383afa7ac0631e156b0d577ef97d7f74b4a07feab7d19875f1` |
 | `bond-v-united-states_merits_2000-04-17.md` | `a90097b16a59944d986d6465630703d90e313d67f624317658b5ac8475b462d9` |
-| `gillespie-v-city-of-indianapolis_merits_2000-04-17.md` | `716024ae1f821f029be6bb2cf80906ae4c372a0c97db5eb513aa34024fb2097d` |
+| `gillespie-v-city-of-indianapolis_merits_2000-04-17.md` | `4319e7eed80567a88af6010e3b43788420503305fd659d4cebfda0f6fab69c12` |
 | `norfolk-southern-railway-co-v-shanklin_merits_2000-04-17.md` | `43c947090fc17d824b4a729cd13d9d3fcc28fbcb487090b06d581933e01f5dd2` |
 | `williams-v-taylor-michael-wayne_merits_2000-04-18.md` | `aa168269c3d2804fd35f41ee7202a9b6b37627a2230023282f73abd8511152a2` |
 | `williams-v-taylor-terry-williams_merits_2000-04-18.md` | `12b7d0c430b3d6c954cd62c9300270d504fca0f5116edeeeb6b8336c407ef389` |

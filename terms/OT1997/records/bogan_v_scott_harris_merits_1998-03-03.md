@@ -74,7 +74,7 @@ The budget, ordinance, trial verdicts, post-verdict immunity ruling and appellat
 
 ### Frozen provenance and all-eight-Justice audit
 
-The following bounded extract reproduces the final reconciliation’s individual commitments, grounds, alternatives and limits. Statements describing an earlier context’s source access refer to that completed stage. It does not itself assign authors or supersede the final topology above. Authority: `freeze/OT_1997CHUNK4_B_RECONCILED.md`, SHA-256 `952fa983417f39a31d6c4b5f569bbecde603d77886a14553a66c4c544ec9e1ab`; the independent commitment freeze remains unchanged.
+The following bounded extract reproduces the final reconciliation’s individual commitments, grounds, alternatives and limits. Statements describing an earlier context’s source access refer to that completed stage. It does not itself assign authors or supersede the final topology above. Authority: `freeze/OT_1997CHUNK4_B_RECONCILED.md`, SHA-256 `1f6cd3df9c6f17af5adfb7c5772e0c1606c7acf033f180b5595ddf8b2670bfb2`; the independent commitment freeze remains unchanged.
 
 ### Bogan
 

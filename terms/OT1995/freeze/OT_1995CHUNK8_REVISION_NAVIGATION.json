@@ -15,7 +15,7 @@
     {
       "path": "freeze/OT_1995CHUNK8_GRAY_COMMITMENTS.md",
       "before_sha256": "7ef924130066e91265ce43c7568b037c63fbdd9267fb26a8ee5efb1fd908e474",
-      "after_sha256": "6ecd097275d1226730b7dfa0180446a0aa854465bf688135a0f8e4745519ff69",
+      "after_sha256": "e59b37f7bf05a0d29c8d2f216c35bfbc63b77bd5fb483cdac9256c5b200b9706",
       "scope": "renamed Markdown link targets; historical-handoff annotation where needed"
     },
     {

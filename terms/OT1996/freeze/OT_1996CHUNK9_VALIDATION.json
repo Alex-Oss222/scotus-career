@@ -158,9 +158,9 @@
   "outputs": {
     "terms/OT1996/render-inputs/OT_1996CHUNK9.md": "d2c7f145c11b669c2d2cc18116f50d211de2c4700dc3398061d796c5b83f7727",
     "terms/OT1996/workspace/manifest.md": "bf4d8c02fe0f8fee36c0643d59f85a5016467ca975a292118fdb999b738521d9",
-    "terms/OT1996/workspace/ledger.md": "c175b19fa9ad2af11ad5f03693287f07e01af47c40372644a52d827f26d96035",
-    "terms/OT1996/workspace/continuity.md": "35cc95d0b7e1338c3a3e54f3a5a70b9f8ed6e7257c90af3d2a266c9aa8784295",
-    "terms/OT1996/workspace/neutral-projection.md": "b9f39f05279c8d62d8e4f589fe459e2b38eee66b1970cd45287df330149163b1",
+    "terms/OT1996/workspace/ledger.md": "81e6bd72ae133e3012624a0dc5e02c88e61cbf35a576529777d602f82226beb1",
+    "terms/OT1996/workspace/continuity.md": "b3c044004860c4b53a45b82c5aa4ddbad66e542054a45c3ccf19ddae2fb8e527",
+    "terms/OT1996/workspace/neutral-projection.md": "a199bc83321b209948ae0d8e6b5d2bb3f81011e7e90109a968395ed0807d9311",
     "terms/OT1996/freeze/OT_1996CHUNK9_ASSEMBLY_QA_RECEIPT.json": "47778f90752a1818b783e2c9ec92d9e3b1529b053cf1e47f0bbf157cb186415a",
     "terms/OT1996/freeze/OT_1996CHUNK9_DURABLE_WRITE_ORDER.json": "bf8eababf4ee680e015ab8900e06fc8955bcbad93d9d24d2ab5cdd1bc6286197"
   }

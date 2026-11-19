@@ -96,13 +96,13 @@
       "path": "terms/OT1993/output/OT_1993CHUNK5.md",
       "bytes": 162748,
       "sha": "be3adbd8e3851b1541a35d194f75d31b6b676334",
-      "sha256": "5be0ead4723b4962df21b938e71f223bcf4b1b352287d7467bc852bd43ea2f81"
+      "sha256": "4372de93eb9f00ab1631ddfeb73d129e6f8afa2eaafd99027d8d03eaaa57f4fc"
     },
     {
       "path": "terms/OT1993/output/OT_1993CHUNK6.md",
       "bytes": 161067,
       "sha": "4ddc7f67f8f567123f228dc481e4ab98cd8b53c1",
-      "sha256": "20660eb052aca02cd99297fd79aae0e2f81c8a7dc8399b84e2a905150afb9bbd"
+      "sha256": "40e6672d27dfd578cd4e09bb3979c271b424aa7ec041052b81953f5dcaf12771"
     },
     {
       "path": "terms/OT1993/output/OT_1993CHUNK7.md",
@@ -138,7 +138,7 @@
       "path": "terms/OT1994/output/OT_1994CHUNK4.md",
       "bytes": 183403,
       "sha": "c19a0bb6fe1da3efc7c962d9d5a4d9226b2d9467",
-      "sha256": "bbf430e5eb5575c15167985decf0570e40e83e4cf3a229f3e54fcf696554108c"
+      "sha256": "8b360d85492c1c1f313d8b032c904cde3b59ab5651b8116a4f5b9a40c62e3038"
     },
     {
       "path": "terms/OT1994/output/OT_1994CHUNK5.md",
@@ -204,7 +204,7 @@
       "path": "terms/OT1995/output/OT_1995CHUNK5.md",
       "bytes": 247415,
       "sha": "686af1b8519449d987aece3a8659a9a4d41d4135",
-      "sha256": "1e1a8ff56a253585a389558d497337ae3cf4ce9b8f728162f440f13f97f40106"
+      "sha256": "574226e8c7efbe20bd846b3a5abe44b97e77a09ef08ba8d36f0d1dadfdef4fe2"
     },
     {
       "path": "terms/OT1995/output/OT_1995CHUNK6.md",
@@ -252,13 +252,13 @@
       "path": "terms/OT1996/output/OT_1996CHUNK12.md",
       "bytes": 162759,
       "sha": "725441f6bb6953ce9470b8354ca2a967f2f1b8bb",
-      "sha256": "40ca66a8f22cf8bb2b4730d9e27d82c7271426fe9ccbe2074ad24476337af14d"
+      "sha256": "60aaec4dd8abc3c050b3531d62c65f2cc4d90b38354cd8f03c157ed5b0a0dbb9"
     },
     {
       "path": "terms/OT1996/output/OT_1996CHUNK13.md",
       "bytes": 176094,
       "sha": "487daf9e2e30b7b8fe3e246e76903ea4854b89ab",
-      "sha256": "8c921a0539e40bb75304619c2f3f15d0b111d0a2a3aed0d94e1e60c276e185be"
+      "sha256": "378c25856bec92c423a7b21cb9fafd863211eace68b7e2e3164f9a2c7ea9e75e"
     },
     {
       "path": "terms/OT1996/output/OT_1996CHUNK2.md",
@@ -300,7 +300,7 @@
       "path": "terms/OT1996/output/OT_1996CHUNK8.md",
       "bytes": 166643,
       "sha": "93c453dba9285cf76e2ef5db0e3e6f00d5121335",
-      "sha256": "e622623e6814fbdf1459f68653944f42bcd7361ca7b1031b82f0cd84a4c5df45"
+      "sha256": "dd435af58677dbc6f6493c9ff0b5130b6fa1821e287d0fb11268a6bbcf9a8490"
     },
     {
       "path": "terms/OT1996/output/OT_1996CHUNK9.md",

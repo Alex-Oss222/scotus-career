@@ -11,13 +11,13 @@ The read set comprises AGENTS.md, Engine assembly/procedure/Record/research prov
 | Input or output | SHA-256 |
 |---|---|
 | Unchanged validated neutral | `33f38e86b32057c045241c663050d1d9c7223a9f91780d85c444ef190ae2c682` |
-| Original independent commitments | `fa84c7db27fd8a3111a92888271f0043d1b3339ee9a545c8a8c8d5800fd22878` |
+| Original independent commitments | `990a2b17bc498b0d8f999eee3f15a09e7fa0d40d9f5b712c3fed38f500ce2c3e` |
 | Original reconciliation | `eb0e4d342fc9d6f3257ccde43cd8dae96b5569541bc4df0e69194448b826d32a` |
-| Revised independent adoption | `fceeca0a5552389b7a6574d025060b37678fb2ce8696a7a5c477633b1b590177` |
-| Revised reconciliation | `b84aa720dcb48fa40d0f4a90eebe93899622ed52fcbc73f7661d8b58d2d89ec9` |
+| Revised independent adoption | `e396cdcbfd4dcfb227e4cbc67fbc6a2429cf65ed8ff6d65189e9cae5d2df2de0` |
+| Revised reconciliation | `1e41faedc9ce0399ad528524605c475891e1f1f5a9fa8219c8d963e151683df5` |
 | Current scoped Stone supplement | `f2bfd51bd3a395da32bd882efb5c205b3f91c0de5698b476cec41d16fbd18d49` |
 | Old canonical Record and preserved preimage | `a63375664526d7f74bf4dfd50630e3787992ad4bbaa48c2a3ffa582c78d20d33` |
-| Replacement canonical Record | `2e4c23cf7f618e74c2ad2fc7304ff165f99307adb3b7f372e0aa595b8da90fe1` |
+| Replacement canonical Record | `69b7ab21cf4a8a4acc0b7353a78ec04acec6d384a35019703709437634c5b96f` |
 
 These identify file bytes, not legal correctness or a repository commit. The original Record's reported Run identifier, 6e9ce8f, is expressly user-supplied and unverified. Current source freeze hashes, Stone input and original preimage were checked mechanically before release. The old canonical filename was removed only after resolving its exact absolute parent to this term's records directory, verifying its basename, confirming the replacement exists, and matching the old bytes to the preserved preimage. Its absence was then verified. No recursive deletion or alternate canonical alias was used.
 

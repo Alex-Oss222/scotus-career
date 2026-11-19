@@ -25,7 +25,7 @@ For combined reading files, only the K.D.M.-relevant selections identified in th
 | `freeze/OT_2000CHUNK8_NEUTRAL_B_REFRESH_RECEIPT.md` | `2b6a5aae5ef6dec194444d24f121bac8e36bb017652d17dd2bcb3422ec01d6f5` |
 | `freeze/OT_2000CHUNK8_NEUTRAL_B_SOURCE_KDM.md` | `2e68b3a6bfc4a46b21deac0a5047d8502f6e152b944be6d8881e5d3d0678142b` |
 | `entering-law/OT_2000CHUNK8_B_RELIGION.md` | `9054828f3b1a2d1f48b183d16d7697cab6d798b1796c0a9ae1c5607e3b032d70` |
-| `entering-law/OT_2000CHUNK8_B_STANDARDS.md` | `e2cd88e6218311a0ea73dfbaf58a591ed1a6b4169d3ecd411f2a0f157506ea2a` |
+| `entering-law/OT_2000CHUNK8_B_STANDARDS.md` | `0d4e807b1a3c0210dcc025341ddc70b2ac3b908fe743cbfc930082ce9957d74d` |
 | `entering-law/OT_2000CHUNK8_B_PRIOR_PUBLIC.md` | `ba8a2b11af535ddf92fdaaa4fc5812f4a99399a6004dc430ae4fdd1fb4536fd6` |
 | `entering-law/OT_2000CHUNK8_B_CURRENT_GOOD_NEWS.md` | `0fe51fb4e455d804d69b8cafb99e8b78ca6a10b09b34f6a9d686139d4b251c35` |
 | `entering-law/OT_2000CHUNK8_B_CURRENT_CHILDREN.md` | `8ac40c08cec6ae4a173d42c4dae06f89a04fb85102353ff20a6e1228e0061d52` |

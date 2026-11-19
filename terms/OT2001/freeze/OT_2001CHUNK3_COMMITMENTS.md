@@ -12,7 +12,7 @@ This navigation-only aggregate identifies the controlling case-scoped freezes. I
 | 38 | Young | [Freeze](../freeze/OT_2001CHUNK3_A_COMMITMENTS.md) | a34afaa4fb7331eb2da71a49fc99c53b7e8672e064abdf97060afb119fa3c0fb |
 | 39 | Vonn | [Freeze](../freeze/OT_2001CHUNK3_B_COMMITMENTS.md) | f3d518e21a713fe319017efb21b03f3f61cc564ab0e37f39d99fce254b423989 |
 | 40 | Delaney | [Freeze](../freeze/OT_2001CHUNK3_B_COMMITMENTS.md) | f3d518e21a713fe319017efb21b03f3f61cc564ab0e37f39d99fce254b423989 |
-| 41 | Ruiz | [Freeze](../freeze/OT_2001CHUNK3_RUIZ_COMMITMENTS.md) | 66e64e9ee5ab720304fa4e9c3601c76bc171010057478188fe36a1d84cb4e543 |
+| 41 | Ruiz | [Freeze](../freeze/OT_2001CHUNK3_RUIZ_COMMITMENTS.md) | 76c59a4cb5015935f3e54f170e1bc6d2737b64758b61cfe9d4bd0243c4a8e7af |
 | 42 | Ragsdale | [Freeze](../freeze/OT_2001CHUNK3_RAGSDALE_COMMITMENTS.md) | 61c9092360749b82450475ea6bb60858f5fda2add8dc4cc6385642f1d2b9e34e |
 | 43 | Edelman | [Freeze](../freeze/OT_2001CHUNK3_B_COMMITMENTS.md) | f3d518e21a713fe319017efb21b03f3f61cc564ab0e37f39d99fce254b423989 |
 | 44 | Zahrey | [Freeze](../freeze/OT_2001CHUNK3_C_COMMITMENTS.md) | 4bdf67c21434ac8392ae486a93d995726da100ca7db298077734cedcfd0936de |

@@ -198,7 +198,7 @@ Stevens must be assessed from both his Puyallup immunity opinion and his explici
 
 This is a mechanically copied reading annex to NEUTRAL_MAY26. It is authority only through its identified source. No same-day May 26 decision enters another. The underlying source files remain controlling.
 
-Source SHA-256: entering-law 959d256fc4ae4310bd962599573ac0928d61eddb8488cea234849a2bd04c6bd8; neutral projection 92026c6446a07a02a0c9698b01d33aa98ebd7310da651b25b88eb14c6375f8fa.
+Source SHA-256: entering-law 9fe9fe80da87be95aeba8a586dedfe8394b31106d57f360aff02b03555474c47; neutral projection 135f7fa3dcf4ff03ab8e5efa1e2d88557fb5451804ab4435160f39ee4d270a59.
 
 ## Inherited Holdings — verbatim selected sections
 
@@ -1808,7 +1808,7 @@ Frozen for Waste Management (May 27), Cabrales (June 1), and Beggerly (June 8), 
 
 Source: `terms/OT1997/entering-law/OT_1997CHUNK9.md`
 
-Source SHA256: `959d256fc4ae4310bd962599573ac0928d61eddb8488cea234849a2bd04c6bd8`
+Source SHA256: `9fe9fe80da87be95aeba8a586dedfe8394b31106d57f360aff02b03555474c47`
 
 BEGIN EXACT COPIED TEXT
 
@@ -1858,7 +1858,7 @@ END EXACT COPIED TEXT
 
 Source: `terms/OT1997/entering-law/OT_1997CHUNK9.md`
 
-Source SHA256: `959d256fc4ae4310bd962599573ac0928d61eddb8488cea234849a2bd04c6bd8`
+Source SHA256: `9fe9fe80da87be95aeba8a586dedfe8394b31106d57f360aff02b03555474c47`
 
 BEGIN EXACT COPIED TEXT
 
@@ -1921,7 +1921,7 @@ END EXACT COPIED TEXT
 
 Source: `terms/OT1997/entering-law/OT_1997CHUNK9.md`
 
-Source SHA256: `959d256fc4ae4310bd962599573ac0928d61eddb8488cea234849a2bd04c6bd8`
+Source SHA256: `9fe9fe80da87be95aeba8a586dedfe8394b31106d57f360aff02b03555474c47`
 
 BEGIN EXACT COPIED TEXT
 
@@ -1962,7 +1962,7 @@ END EXACT COPIED TEXT
 
 Source: `terms/OT1997/entering-law/OT_1997CHUNK9.md`
 
-Source SHA256: `959d256fc4ae4310bd962599573ac0928d61eddb8488cea234849a2bd04c6bd8`
+Source SHA256: `9fe9fe80da87be95aeba8a586dedfe8394b31106d57f360aff02b03555474c47`
 
 BEGIN EXACT COPIED TEXT
 
@@ -1991,7 +1991,7 @@ END EXACT COPIED TEXT
 
 Source: `terms/OT1997/entering-law/OT_1997CHUNK9.md`
 
-Source SHA256: `959d256fc4ae4310bd962599573ac0928d61eddb8488cea234849a2bd04c6bd8`
+Source SHA256: `9fe9fe80da87be95aeba8a586dedfe8394b31106d57f360aff02b03555474c47`
 
 BEGIN EXACT COPIED TEXT
 
@@ -2040,7 +2040,7 @@ END EXACT COPIED TEXT
 
 Source: `terms/OT1997/entering-law/OT_1997CHUNK9.md`
 
-Source SHA256: `959d256fc4ae4310bd962599573ac0928d61eddb8488cea234849a2bd04c6bd8`
+Source SHA256: `9fe9fe80da87be95aeba8a586dedfe8394b31106d57f360aff02b03555474c47`
 
 BEGIN EXACT COPIED TEXT
 
@@ -2085,7 +2085,7 @@ END EXACT COPIED TEXT
 
 Source: `terms/OT1997/entering-law/OT_1997CHUNK9.md`
 
-Source SHA256: `959d256fc4ae4310bd962599573ac0928d61eddb8488cea234849a2bd04c6bd8`
+Source SHA256: `9fe9fe80da87be95aeba8a586dedfe8394b31106d57f360aff02b03555474c47`
 
 BEGIN EXACT COPIED TEXT
 
@@ -2130,7 +2130,7 @@ END EXACT COPIED TEXT
 
 Source: `terms/OT1997/entering-law/OT_1997CHUNK9.md`
 
-Source SHA256: `959d256fc4ae4310bd962599573ac0928d61eddb8488cea234849a2bd04c6bd8`
+Source SHA256: `9fe9fe80da87be95aeba8a586dedfe8394b31106d57f360aff02b03555474c47`
 
 BEGIN EXACT COPIED TEXT
 
@@ -2178,7 +2178,7 @@ END EXACT COPIED TEXT
 
 Source: `terms/OT1997/entering-law/OT_1997CHUNK9.md`
 
-Source SHA256: `959d256fc4ae4310bd962599573ac0928d61eddb8488cea234849a2bd04c6bd8`
+Source SHA256: `9fe9fe80da87be95aeba8a586dedfe8394b31106d57f360aff02b03555474c47`
 
 BEGIN EXACT COPIED TEXT
 
@@ -2273,7 +2273,7 @@ END EXACT COPIED TEXT
 
 Source: `terms/OT1997/entering-law/OT_1997CHUNK9.md`
 
-Source SHA256: `959d256fc4ae4310bd962599573ac0928d61eddb8488cea234849a2bd04c6bd8`
+Source SHA256: `9fe9fe80da87be95aeba8a586dedfe8394b31106d57f360aff02b03555474c47`
 
 BEGIN EXACT COPIED TEXT
 
@@ -2309,7 +2309,7 @@ END EXACT COPIED TEXT
 
 Source: `terms/OT1997/entering-law/OT_1997CHUNK9.md`
 
-Source SHA256: `959d256fc4ae4310bd962599573ac0928d61eddb8488cea234849a2bd04c6bd8`
+Source SHA256: `9fe9fe80da87be95aeba8a586dedfe8394b31106d57f360aff02b03555474c47`
 
 BEGIN EXACT COPIED TEXT
 
@@ -2349,7 +2349,7 @@ END EXACT COPIED TEXT
 
 Source: `terms/OT1997/freeze/OT_1997CHUNK9_ENTERING_NEUTRAL_PROJECTION.md`
 
-Source SHA256: `92026c6446a07a02a0c9698b01d33aa98ebd7310da651b25b88eb14c6375f8fa`
+Source SHA256: `135f7fa3dcf4ff03ab8e5efa1e2d88557fb5451804ab4435160f39ee4d270a59`
 
 BEGIN EXACT COPIED TEXT
 
@@ -2531,7 +2531,7 @@ END EXACT COPIED TEXT
 
 Source: `terms/OT1994/output/OT_1994CHUNK4.md`
 
-Source SHA256: `bbf430e5eb5575c15167985decf0570e40e83e4cf3a229f3e54fcf696554108c`
+Source SHA256: `8b360d85492c1c1f313d8b032c904cde3b59ab5651b8116a4f5b9a40c62e3038`
 
 BEGIN EXACT COPIED TEXT
 
@@ -4102,7 +4102,7 @@ The following source sections are appended mechanically by `tmp/build_waste_camp
 
 Source: `terms/OT1996/output/OT_1996CHUNK8.md`
 
-SHA256 of source: `e622623e6814fbdf1459f68653944f42bcd7361ca7b1031b82f0cd84a4c5df45`
+SHA256 of source: `dd435af58677dbc6f6493c9ff0b5130b6fa1821e287d0fb11268a6bbcf9a8490`
 
 BEGIN EXACT COPIED SOURCE
 
@@ -4216,7 +4216,7 @@ END EXACT COPIED SOURCE
 
 Source: `terms/OT1997/entering-law/OT_1997CHUNK9.md`
 
-SHA256 of source: `959d256fc4ae4310bd962599573ac0928d61eddb8488cea234849a2bd04c6bd8`
+SHA256 of source: `9fe9fe80da87be95aeba8a586dedfe8394b31106d57f360aff02b03555474c47`
 
 BEGIN EXACT COPIED SOURCE
 
@@ -4263,7 +4263,7 @@ END EXACT COPIED SOURCE
 
 Source: `terms/OT1997/entering-law/OT_1997CHUNK9.md`
 
-SHA256 of source: `959d256fc4ae4310bd962599573ac0928d61eddb8488cea234849a2bd04c6bd8`
+SHA256 of source: `9fe9fe80da87be95aeba8a586dedfe8394b31106d57f360aff02b03555474c47`
 
 BEGIN EXACT COPIED SOURCE
 
@@ -4296,7 +4296,7 @@ END EXACT COPIED SOURCE
 
 Source: `terms/OT1997/entering-law/OT_1997CHUNK9.md`
 
-SHA256 of source: `959d256fc4ae4310bd962599573ac0928d61eddb8488cea234849a2bd04c6bd8`
+SHA256 of source: `9fe9fe80da87be95aeba8a586dedfe8394b31106d57f360aff02b03555474c47`
 
 BEGIN EXACT COPIED SOURCE
 

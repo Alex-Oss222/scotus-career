@@ -31,8 +31,8 @@ Scalia's and Thomas's commitments support the confined traditional punitive-fine
 | `terms/OT1993/freeze/OT_1993CHUNK8_SOURCE_NEUTRAL_B_LATE.md` | `1399d80f0e6cd10979992249053146d5cfcc673beeae8c664b13e3d2b94d8485` |
 | `terms/OT1993/entering-law/OT_1993CHUNK8.md` | `d7ade211f3869453cfa2fc9abc845973bb598958f5d605343c60df472f51a5ef` |
 | `terms/OT1993/entering-law/OT_1993CHUNK8_PRIOR_PUBLIC_B_LATE.md` | `bee51928a8348576f089049e9948e3446124664b6af6ddc06fad08a2a74e76e4` |
-| `terms/OT1993/entering-law/OT_1993CHUNK8_ENTERING_PUBLIC_AUTHORITY.md` | `94d6c9b38a1a6216ed4f17e6bdc5b3262e1ecc885500e6794d689d5246d0a495` |
-| `terms/OT1993/entering-law/OT_1993CHUNK8_BEFORE_JUNE27_PUBLIC.md` | `1484b5669be6c3f20c9db18ec11646da23108ee06a6547ba2506ad4ccf55e632` |
+| `terms/OT1993/entering-law/OT_1993CHUNK8_ENTERING_PUBLIC_AUTHORITY.md` | `ad2cb7a1a2f13d4a081157af9fda22fc18ea00a21b71bdb9087744222cdf0e22` |
+| `terms/OT1993/entering-law/OT_1993CHUNK8_BEFORE_JUNE27_PUBLIC.md` | `4e138a040fc25e5fd30cb6d5b05ad2689a4776e6507acfe1f2bd7f82b8ab9771` |
 | `tmp/bagwell-neutral/Hicks.pdf` | `4ba1793c263c0e0e0e7c5bb5b59011e782583eaf64589fa8fa98babf6aad991f` |
 | `tmp/bagwell-neutral/Bloom.pdf` | `22dbb6929a8865df6e58806200be06503525e3ab8bf6f2ce8c29f254271e489e` |
 | `tmp/bagwell-neutral/Shillitani.pdf` | `67f053dae5bbc5599be2b47ead5bf1f73d06641763de9908a85a8b63aef54e3e` |

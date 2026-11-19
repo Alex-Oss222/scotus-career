@@ -22,6 +22,6 @@ The Lewis assignment statement matches the independently supplied §8 recount: 4
 ## Reviewed bytes and limits
 
 - Lewis Record SHA-256: `f50d03961d5ca51dd4fbbb1053ead8539dbe23d5e2cf04321f164458147d32b7`.
-- Triestman Record SHA-256: `5f76650f05f9ccc2eea8eb355b280522014dca01e4ee85041e754a759892d4f7`.
+- Triestman Record SHA-256: `86ba427e6bcc4e436d8fa99e2b2e6fd9a6552c0363d2c392c2e5d6292f76dc41`.
 
 No new factual source was needed or fetched. No Git command was run; supplied approval provenance remains for the operator's deferred verification. No top-level stone/ path was accessed, listed or searched. This receipt certifies only the two Records and their assembly compatibility. Generated Render Input identity, workspace integration, later-record dependency review, term-wide deterministic checks and any eventual public rendering remain the control operator's separate checks.

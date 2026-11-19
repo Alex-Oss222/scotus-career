@@ -1220,7 +1220,7 @@ In the case of any personnel action affecting employees or applicants for employ
 
 Copied source: `terms/OT1997/entering-law/OT_1997CHUNK13_SEP14_FOUR_PUBLIC.md`
 
-SHA256: `16a48512a2f28afe0d50e3b2a456673d72a7404677c3b539b137f88553b00e71`
+SHA256: `84ad19a736d3638a81881f50b894bd50d27246db16d21cf2a4df661855457098`
 
 # Effective September 14 public-law handoff
 
@@ -1626,7 +1626,7 @@ Result: no affected substantive premise requiring a changed neutral conclusion. 
 
 Copied source: `terms/OT1997/freeze/OT_1997CHUNK13_INSTITUTIONS_SOURCE_RECEIPT.md`
 
-SHA256: `9915121382abbe8b27ae4d1ecd5ca6d94106a54d5127335fc4955bb113265d7a`
+SHA256: `d15199f76fdf2a3ab3eb04d0cb855c807f112fafd3a483ee94dea31d69f957a5`
 
 # Institutions neutral source and preparation receipt
 
@@ -1664,7 +1664,7 @@ Paths are repository-relative. A whole-neutral-projection digest printed inside 
 | `terms/OT1997/runtime/chunk13-neutral/INSTITUTIONS_SEP14_REFRESH.md` | `58d954e60f5d13e1054fa0eae908e61a1732576d673b29efea06cd7099afd4aa` |
 | `terms/OT1997/entering-law/OT_1997CHUNK13_154.md` | `bda9acd53224434bd25052ece8544879dc1b04c50bc33d0920a2425104d807d9` |
 | `terms/OT1997/entering-law/OT_1997CHUNK13_155.md` | `55866f0d1e2a04a3cf5b1977ea35c8c8d45981cbff7008eaa1a660a92b97f5c7` |
-| `terms/OT1997/entering-law/OT_1997CHUNK13_SEP14_FOUR_PUBLIC.md` | `16a48512a2f28afe0d50e3b2a456673d72a7404677c3b539b137f88553b00e71` |
+| `terms/OT1997/entering-law/OT_1997CHUNK13_SEP14_FOUR_PUBLIC.md` | `84ad19a736d3638a81881f50b894bd50d27246db16d21cf2a4df661855457098` |
 | `state/STANDARDS_AND_TESTS.md` | `ef45877d1acf38406cd2013cde32d577214210674f21283b6eb19ed847873235` |
 | `state/STANDING_STATE.md` | `96fa209d32892ebb3ae8bf518b9d21f5984a1c2395f0c45b29906f5d0b49a1ac` |
 | `foundation/COURT_COMPOSITION.md` | `1d5f10f2060f661abc44060e62b8ebcb9afd348c1dbfc2cfe51eca0d4ebf6c99` |

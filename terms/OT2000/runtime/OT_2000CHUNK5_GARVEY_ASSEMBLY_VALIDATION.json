@@ -28,5 +28,5 @@
   "whole_term_publication": "pending control",
   "bounded_fidelity_receipt": "runtime/OT_2000CHUNK5_MIDDLE_FIDELITY_REPAIRS.json",
   "hash_domain": "sha256 hashes UTF-8 text normalized to LF; file_bytes_sha256 hashes exact on-disk bytes.",
-  "file_bytes_sha256": "db4e3390c25c8b9c40965d112cc77a36fc0f2b1108ca5587ef4ba25e83769804"
+  "file_bytes_sha256": "1c58cdc6f6936b604a0d1401b19fd47bb33e1e87a2ef16b4cbc124003c52f440"
 }

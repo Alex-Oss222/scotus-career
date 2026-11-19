@@ -3698,7 +3698,7 @@ This recommendation is confined to the affected Printz issues; it does not requi
 
 Reviewed the final [public delta through June 27](../entering-law/OT_1996CHUNK13_JUNE27_PUBLIC_DELTA.md), including the complete Foreman, Pounders and Printz public entries and published noncontrolling positions, together with the Mussari/Schroeder and Cohen portions of [B neutral](OT_1996CHUNK13_B_NEUTRAL.md), [B neutral validation](OT_1996CHUNK13_B_NEUTRAL_VALIDATION.md), and the relevant [B entering law](../entering-law/OT_1996CHUNK13_B.md). The first four June 26 entries are text-identical to the previously reviewed June 26 public delta, apart from the surrounding file header and spacing.
 
-Final June 27 delta raw saved-file SHA-256: `73fbd9694ee80ac79529c54103e47979ca8c43fe4a332e0ea0e207e0dcab584b`. The separately computed newline-normalized text fingerprint is `06a80874939045df9c0c40d3a36ee9eb435905be4eda0892cbd9fde062fa6d88`; it is not the raw-byte file hash. This label correction changes no source text or substantive review.
+Final June 27 delta raw saved-file SHA-256: `ded3cfd2822aa4fd890008f44470e500592e28537bb6ec4bf69c5d74c0353b72`. The separately computed newline-normalized text fingerprint is `06a80874939045df9c0c40d3a36ee9eb435905be4eda0892cbd9fde062fa6d88`; it is not the raw-byte file hash. This label correction changes no source text or substantive review.
 
 The newly effective sources are **Foreman v. Dallas County, June 27, 1997**; **Pounders v. Watson, June 27, 1997**; and **Printz v. United States; Mack v. United States, June 27, 1997**. The earlier June 26 decisions remain part of the baseline. Control reports completion of the seven source events' independent review and mechanical checks; this context does not independently certify those final Record checks.
 
@@ -3985,8 +3985,8 @@ Affirmance on a supported surviving ground, restoration of the nominal judgment 
 
 The two June 30 event texts were read in full, including their public continuity sections. The earlier seven were fully reviewed in the preparation pass; their identity was rechecked mechanically. Relevant C neutral/law material and the prior validation receipt were reviewed. This pass opened only the authorized neutral files; no Git, raw Record, private Stone input, current commitment/reconciliation, comparator or later historical Supreme Court source was read. The original input files were not changed. All hashes below use raw `read_bytes()` data, without newline normalization.
 
-- June 30 public delta: `4cd3296aa933f3385f5b8462d21c4ba4bfed5a469b120032edf35e6bf2be902d`.
-- Earlier June 27 public delta: `73fbd9694ee80ac79529c54103e47979ca8c43fe4a332e0ea0e207e0dcab584b`.
+- June 30 public delta: `1a60be747935765296a90edd000e5f830263a75ade2416116461237c872c3ee8`.
+- Earlier June 27 public delta: `ded3cfd2822aa4fd890008f44470e500592e28537bb6ec4bf69c5d74c0353b72`.
 - Preserved C neutral: `bfe5c31572f2fca85273874edde2a24b053b64b1ab6f0f988beaf55b0784904f`.
 - C entering-law slice: `0da152ad23aac40d8fba4e3c4b3bbcf2d7e6004f62ba55c1f1a36574af65f768`.
 - C validation receipt: `0a15e4362d61ec0a5975523c2bc14477a1648088276159735e3b0558dffe2b7d`.
@@ -4160,5 +4160,5 @@ The final Faragher public dependency was read in full and its raw hash matched t
 - C entering law: `0da152ad23aac40d8fba4e3c4b3bbcf2d7e6004f62ba55c1f1a36574af65f768`.
 - Exact instruction attachment: `6a99d930e2bc91886f19cd783aa34fba41eea00d97831fe19104cf148e69723f`.
 - C validation: `0a15e4362d61ec0a5975523c2bc14477a1648088276159735e3b0558dffe2b7d`.
-- Prior nine-event neutral review: `a80c24c66e44bc13bba0b415ce9e45eab3620b116eb2e56bb2113b2bbec5c790`.
+- Prior nine-event neutral review: `8dab16d89178b8e366bca61681df343af1b0e76030f2a4ec4dee1c9e59239b61`.
 - Original Harrison lower opinion: `347a5a1a28a0ff0e200e4b10b3680f2379734e816c18df9a1d7cd93de725c4b4`.

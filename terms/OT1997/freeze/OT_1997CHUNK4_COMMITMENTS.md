@@ -4,8 +4,8 @@ This is a mechanical reading copy of the three named authoritative scoped freeze
 
 | Authoritative scoped freeze | SHA-256 |
 |---|---|
-| [OT_1997CHUNK4_A_COMMITMENTS.md](OT_1997CHUNK4_A_COMMITMENTS.md) | `5cad99de0b05bd19ca079f4a3496cdf2d2b9b0802094663b52a32d15e39b849e` |
-| [OT_1997CHUNK4_B_COMMITMENTS.md](OT_1997CHUNK4_B_COMMITMENTS.md) | `488f555ae40c8f4ddb5c8404c3227d4d9fb9c502e24b6abbf25d3f3a692c2db5` |
+| [OT_1997CHUNK4_A_COMMITMENTS.md](OT_1997CHUNK4_A_COMMITMENTS.md) | `174891a3e818d5635f987161f5c10f01366a4c6e1be6878a87d9a703d5c8d976` |
+| [OT_1997CHUNK4_B_COMMITMENTS.md](OT_1997CHUNK4_B_COMMITMENTS.md) | `29948191f51abdac746a652c7f05026827172f765e95c34f786942b2417a3733` |
 | [OT_1997CHUNK4_NCUA_COMMITMENTS.md](OT_1997CHUNK4_NCUA_COMMITMENTS.md) | `29e280cfa878a27a28e15fa4942decb58ba7e5447b17790ee86a7007d8b4bca9` |
 
 <!-- BEGIN UNALTERED SOURCE: OT_1997CHUNK4_A_COMMITMENTS.md -->
@@ -240,7 +240,7 @@ The following SHA-256 values identify the files actually consulted, including ta
 | `terms/OT1997/entering-law/OT_1997CHUNK4_02_JOHNSON.md` | `d8afd2468957b039ee36e4e216dd7d55801d7b80bee3b8238bc6283f2ee406c7` |
 | `terms/OT1997/entering-law/OT_1997CHUNK4_03_NEWSWEEK.md` | `dd0d16f79d9b7bfddf36bf8c19cc367293ffb984fd6716e5f8714d5397f8f044` |
 | `terms/OT1997/entering-law/OT_1997CHUNK4_04_ARTEAGA.md` | `dc6c0087086ba213858a6175e3890dfd39fac53479831acad46d57df9d1ec12c` |
-| `terms/OT1997/entering-law/OT_1997CHUNK4_05_REGIONS.md` | `6d38db7fd417fef62ff8fd5d9568c90574212ec1dd9d993355930d69ffe8c313` |
+| `terms/OT1997/entering-law/OT_1997CHUNK4_05_REGIONS.md` | `174fbc9c509685d201559cd7ae41931bbcbb7ed68387199e75a54e142b0e9d37` |
 | `terms/OT1997/entering-law/OT_1997CHUNK4_06_RIVET.md` | `b06ddcc0cd69a3d53ed58f0d9aee62f6c2b7ebf8a642f828af0bd833a111ae50` |
 | `terms/OT1997/research/chunk4_lower/SOURCE_REPORT.md` | `a7167306aae02171af3b7a2997b70cf963f61c808b03107db7728e8dcbbea7cd` |
 | `terms/OT1997/research/chunk4_lower/johnson_opinion.txt` | `a12a5f546babf28e976fa60b0a1d1c3c927ba05475fa7a9ce2a51e2afd795e00` |
@@ -498,7 +498,7 @@ O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer would affirm the 
 | `terms/OT1997/entering-law/OT_1997CHUNK4_10_SHAHAR_SUPPLEMENT.md` | `4a68cc38b4482efb028daa12e5c3c57f755f7435e01f6ac9bb1491c130dab026` |
 | `terms/OT1997/entering-law/OT_1997CHUNK4_11_SPENCER.md` | `035808bb4454b69fd425f3ac1411fb42153975168e377a812e93257e7f7beda6` |
 | `terms/OT1997/entering-law/OT_1997CHUNK4_12_LEXECON.md` | `5b76ced35fce8144108f96b0c242cd41d0c9e81981f36545d41e5cb8008321eb` |
-| `terms/OT1997/entering-law/OT_1997CHUNK4_13_BOGAN.md` | `64eaff44aeb0f58cde2a8e49043d03b8573e1dafc624eea97480097eccee718f` |
+| `terms/OT1997/entering-law/OT_1997CHUNK4_13_BOGAN.md` | `15dd96a9a4ef49829d82fc86a76825c9b38a2f1d9dea95497dd8eb0a301c3f22` |
 | `terms/OT1997/research/chunk4_lower/SOURCE_REPORT.md` | `a7167306aae02171af3b7a2997b70cf963f61c808b03107db7728e8dcbbea7cd` |
 | `terms/OT1997/research/chunk4_lower/aponte_opinion.txt` | `002254bed75fc4966161c495aa650da7d4f5614e5bc2e9e3961da4060dbdb90a` |
 | `terms/OT1997/research/chunk4_lower/shahar_opinion.txt` | `1f57bd545c516a24d3b27c092dbe69930fbb2a2c1bdd1dc050ba14a0dac46d5f` |

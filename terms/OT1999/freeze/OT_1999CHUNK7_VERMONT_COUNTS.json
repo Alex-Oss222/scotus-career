@@ -194,7 +194,7 @@
         "Scalia"
       ],
       "opinion_topology": "| Writing | Author | Joined by | Relationship to judgment | Scope joined |\n|---|---|---|---|---|\n| Opinion of the Court | Scalia | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg, Breyer | Unanimous reversal and remand | Both Commerce Clause and structural holdings, stated limits and mandate |",
-      "sha256": "47ef2d6aaed7f3d7c1ff3cad910678e7a7846a583b5f135f7b72e458d8d6ad6c"
+      "sha256": "3310cde500b8ce7b7450de6180a91461812ae1f918b907d0d1cba0a1dc882e70"
     },
     {
       "file": "fraternal-order-of-police-v-united-states_merits_2000-01-18.md",
@@ -204,7 +204,7 @@
         "O'Connor"
       ],
       "opinion_topology": "Justice O'Connor delivers the opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. There is no separate writing.",
-      "sha256": "6e9a3d9a49c4e268153d0c826effea451bb3cb68156dde50cdec1e5c58bb8f72"
+      "sha256": "68904d46481c260faf823b60dbf5c1c319e3dae369083426ff4c2802b921c974"
     },
     {
       "file": "gutierrez-v-ada_merits_2000-01-19.md",
@@ -552,7 +552,7 @@
         "Stone-Zsela"
       ],
       "opinion_topology": "Chief Justice Stone-Zsela delivers the opinion of the Court, joined in full by Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. No separate writing is filed.",
-      "sha256": "716024ae1f821f029be6bb2cf80906ae4c372a0c97db5eb513aa34024fb2097d"
+      "sha256": "4319e7eed80567a88af6010e3b43788420503305fd659d4cebfda0f6fab69c12"
     },
     {
       "file": "norfolk-southern-railway-co-v-shanklin_merits_2000-04-17.md",

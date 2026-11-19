@@ -8,7 +8,7 @@ Event cutoff: December 10, 2003. Stage: independent non-Stone modeling, ready fo
 - Frozen: `freeze/OT_2003CHUNK2_MCCONNELL_COMMITMENTS.md`
 - UTF-8 bytes: 162453
 - Words: 21649
-- SHA-256, both copies: `10c509e34f65c7d8d397e3b5850c9a0c0725c6e128470744de8fe023af63f1a9`
+- SHA-256, both copies: `082f5cec329b35a79c17bf495e8540541979e36460d5627598497c7fb7141581`
 - Byte comparison: identical.
 
 ## Mechanical verification
@@ -36,13 +36,13 @@ The prior main draft, independent helper artifact and power-model artifact remai
 | Authorized input or preserved model artifact | SHA-256 |
 |---|---|
 | `freeze/OT_2003CHUNK2_C_VALIDATED_PREFLIGHT.md` | `b9712b31bacf993ae7b57cec8fcc3cda800502ba2e1cf26d1223bde9fdc24278` |
-| `freeze/OT_2003CHUNK2_MCCONNELL_POWER_PREFLIGHT.md` | `7b229eb9165051427008f7beac6fa11a27a6a5c69e229142d768db322b04adda` |
+| `freeze/OT_2003CHUNK2_MCCONNELL_POWER_PREFLIGHT.md` | `8a6c373347271c20a574d6bd8908dcf57c17a5a4a87351b4e12e70cb3af826d3` |
 | `entering-law/OT_2003CHUNK2_C.md` | `a6a85c3595b50effdd1c5d2a193e42e61a94d8af801dc310d7f4528e1cdfb8e0` |
-| `entering-law/OT_2003CHUNK2_MCCONNELL_POWER.md` | `ccd0ddd7a0646c33dc762720f1782a7dd481691df6eccbb3c0390bf39b5aff4d` |
+| `entering-law/OT_2003CHUNK2_MCCONNELL_POWER.md` | `7cdef5414056725bf17f7b80f3e366e8ef2875914358d596b8ae0b4d498ac19c` |
 | `sources/mcconnell/power-federalism-selected-exact.md` | `f4974be65f37c2ead07b040b30225ab2788684b87b356d2d9321fa72984f752a` |
-| `runtime/OT_2003CHUNK2_MCCONNELL_POWER_COPY_CHECK.md` | `ffe1665fa2c1064e5fc42f4f02ea041b9e4a4c7365ecc9a3b3c0e1ec17b81cd8` |
+| `runtime/OT_2003CHUNK2_MCCONNELL_POWER_COPY_CHECK.md` | `a3992726ece916dde043ca190688bf2b57a8949d40fa87589a182bfeda77209c` |
 | `runtime/OT_2003CHUNK2_MCCONNELL_THRESHOLD_DISCLOSURE_MODEL.md` | `5a373af44237fe17e513848f79324f2942667fbdca1ed41050f36ad7791ae813` |
-| `runtime/OT_2003CHUNK2_MCCONNELL_POWER_MODEL.md` | `5b317cc5f2be34d7b035df6125c8951494ca59d0e117c0325440af329e1c2067` |
+| `runtime/OT_2003CHUNK2_MCCONNELL_POWER_MODEL.md` | `aa71cefca9a6928b5d8fe9a789e7cb5f8789b8e7d9fa9eddb8cd29004ff7b8d1` |
 | `freeze/OT_2003CHUNK2_GENTRY_PUBLIC.md` | `30408699fd5a54f86e8d96e8510855ad310cf2e913de95f9a1ea55120dd98ad9` |
 | `freeze/OT_2003CHUNK2_GREENVILLE_PUBLIC.md` | `c154456a00f9caa8421f144828bbe5680f4b33f5bc31274cbca4510255882ec9` |
 | `freeze/OT_2003CHUNK2_MITCHELL_PUBLIC.md` | `c2187f2e20b15c255ef83d6abae1d6276c1a6f0a95d751926c7ffabcda1904e4` |

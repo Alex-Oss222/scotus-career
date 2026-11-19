@@ -4,7 +4,7 @@ This aggregate is a mechanical copy of the identified immutable stage handoffs. 
 
 ## Stage source: OT_2001CHUNK2_A_PREPARATION.md
 
-Content digest (SHA-256): c020419f20cb45e6051bacd30922683a2e78b145c1b99284a3462aa92c68e1a9
+Content digest (SHA-256): 2a9500a74825f443fb1dd982c2d4c05e690ea6fa4ee08a3651acb488c443b00c
 
 # OT2001 chunk 2 cases 17, 18, 19, 20 and 22: neutral preparation freeze
 
@@ -1261,7 +1261,7 @@ The approved neutral case section follows, mechanically copied without revision.
 
 ## Stage source: OT_2001CHUNK2_C_NEUTRAL.md
 
-Content digest (SHA-256): 0ef1a2aad8179bc6c6a99ce925328d98c643ce5e4d61f34855fb1dfc06b21140
+Content digest (SHA-256): 782b9ae8418db6308043c350084f63b72a451a949a28b5c2dd53c2963fd6c6d3
 
 # OT2001 chunk 2 C: frozen neutral preparation
 

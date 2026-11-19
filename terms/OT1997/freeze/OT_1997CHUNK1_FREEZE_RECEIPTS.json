@@ -93,12 +93,12 @@
     },
     {
       "path": "freeze/OT_1997CHUNK1_NEUTRAL_B.md",
-      "sha256": "501ec881314af922aca0ec170d0bfd47593509924c098c7cf14c1f128f0a8cfc",
+      "sha256": "dcc62317cc7df897635459228cbe2db94cc2ed3f292d865049c517c7b16a56e9",
       "status": "validated neutral/law packet; frozen before independent model"
     },
     {
       "path": "entering-law/OT_1997CHUNK1_B.md",
-      "sha256": "50219d444a1483cd309ad876ce9e8906ff168a49c778829ab06b7f8374850c43",
+      "sha256": "7bf2ce698907ba11f595b55cd3c74e4a47b2706cfeed450f191ba14e27fe3224",
       "status": "validated neutral/law packet; frozen before independent model"
     },
     {
@@ -138,7 +138,7 @@
     },
     {
       "path": "freeze/OT_1997CHUNK1_RECONCILED_PARKER.md",
-      "sha256": "f44b583090d59e06bdd5b9f56e7073924a51dea50c0786a600e52315e41cf60c",
+      "sha256": "da1ea17365653b9f00cafa766c18f8e8450cc99897ac5ba354c17b0ea845330d",
       "status": "reconciliation frozen; Parker awaits actual earlier-public-law refresh"
     },
     {
@@ -193,7 +193,7 @@
     },
     {
       "path": "freeze/RECONCILED_PARKER_CHRONOLOGY_ADDENDUM.md",
-      "sha256": "03fb30c85de08f56b5c3b99c9ca6b7fadb2ce1dd03358e8cf49b763d42c8d14d",
+      "sha256": "c84ef263aee12f5078da676f19219aced91fbac75ebe0c732411bb31eb360bc2",
       "status": "final Parker dated-law reconciliation; chronology gate satisfied before assembly"
     },
     {

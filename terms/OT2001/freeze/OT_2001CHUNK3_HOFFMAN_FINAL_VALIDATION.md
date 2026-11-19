@@ -3,7 +3,7 @@
 Result: PASS for the bounded neutral/model handoff. [Authoritative commitments](../freeze/OT_2001CHUNK3_HOFFMAN_FINAL_COMMITMENTS.md) and [runtime copy](../runtime/OT_2001CHUNK3_HOFFMAN_FINAL_COMMITMENTS.md) are byte-identical.
 
 - Commitment SHA-256, both copies: `19085658c3061936fe3e6be13f7e7740c58d1f9b73b807126894b9c73083976b`.
-- Effective public-law input SHA-256: `ae3508148e9cd683b0a17669c93b752c5214e68c8033cde37f1a4e6274a3f38c`. Its 47 event headings precede March 27, 2002. No same-day event supplies law.
+- Effective public-law input SHA-256: `594aa7acd5f0b552f193b1f2eb4f84ca472c0a3133ca1acac4c66482626fe002`. Its 47 event headings precede March 27, 2002. No same-day event supplies law.
 - All eight participating Associates have an independent row, a sufficient legal ground, strongest contrary argument, response, relief and join limits. Four support limited enforcement; four support reversal of the backpay category. The component table reconciles those positions. No final Court majority, tie, remaining Justice's vote or opinion author is supplied.
 - ABF's actual simulated opinion and separate joins were rechecked, as were McKennon's author, unanimity, actual-would-discharge predicate and remedial qualifications. MCI, Christensen, Mead and the relevant current-term positions retain their actual coalition and scope. Breyer is not attributed an ABF or Rucker join.
 - The corrected preflight governs the earlier factual supplement. The source receipt, full carried excerpts and relevant official statutory spans were read. Earlier preparation read all four complete official statutory extractions. The model does not claim to have repeated the other source pass's full petition/appendix or visual checks.

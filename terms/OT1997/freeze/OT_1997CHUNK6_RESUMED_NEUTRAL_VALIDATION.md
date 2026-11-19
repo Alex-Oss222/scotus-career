@@ -41,7 +41,7 @@ The append/check script read only the specified public or clean neutral sources 
 | Prior group-B validated neutral packet | `7a734799a1fb6a4dde345de441344d0e9aea475430e875403aa70af54f482471` |
 | Current Standards and Tests | `ef45877d1acf38406cd2013cde32d577214210674f21283b6eb19ed847873235` |
 | Canonical criminal-procedure Holdings | `fde1152ae7380cd4fff01f8454e4649261855a8e9cd116433f4364ca419f49ab` |
-| Existing resumed entering-law slice | `496b844a176f4ceac43f632414501ba6dc9ae8a1d9fc43005aaf6fe75500c972` |
+| Existing resumed entering-law slice | `97905c38ea6436d498ba2acc5c443d1c7eedd579d766f9fd78071fb2a3d0c837` |
 | Final neutral handoff | `b93ae93f03275931d70fcb7fb860a803bc09c3ca90aed16f506981018970984c` |
 
 **Ready for distinct independent modeling.** No additional neutral-preparation blocker remains for the bounded paths stated. This is not authorization to fill an unresolved factual predicate or a controlled-position gap, and it makes no commitment about the final action. Any material new earlier event or genuinely necessary new fact must return through the affected clean stage before use.

@@ -4,7 +4,7 @@
 
 **Released:** The actual intervening public law does not change any judgment, component ground, rationale coalition, join barrier, or remedy in the operative reconciliations identified below. This confirmation supplements those immutable handoffs; it does not replace them with the independent model's unreconciled positions. In particular, the three Jefferson Lines corrections, Scalia's Freightliner judgment-only boundary, and Plaut's confined finality rationale remain operative.
 
-The independent chronology receipt for matters 42–46 was explicitly released by the coordinating context before this handoff was written. Its runtime and frozen copies were verified identical at SHA256 `C6F88F82701472DFC565989BC67594D3DCA3AE48B2BD4D5D3B88F088EA8CAB93`. The earlier receipts were also read completely and their runtime/freeze identity verified:
+The independent chronology receipt for matters 42–46 was explicitly released by the coordinating context before this handoff was written. Its runtime and frozen copies were verified identical at SHA256 `292A4F1F119982ED01083789EFCC619404695B773C8003CD8005CB7D3674EB4B`. The earlier receipts were also read completely and their runtime/freeze identity verified:
 
 - `OT_1994CHUNK4_CHRONOLOGY_39.md`: `493F75E451055E878F21289F4860BDAA9A7D6C8740038A33734BA08AAD742495`.
 - `OT_1994CHUNK4_CHRONOLOGY_40.md`: `08754AC8B84188BFD1CF84A29232900B5C869A18AA301C39A3F7BA2A1AC5FF62`.

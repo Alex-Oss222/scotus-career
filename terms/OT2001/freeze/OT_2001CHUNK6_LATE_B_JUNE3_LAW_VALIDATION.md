@@ -60,6 +60,6 @@ The original files were preserved. SHA-256 values at this refresh:
 | `OT_2001CHUNK6_LATE_B_JUNE10_COMMITMENTS.md` | `82cb23cbe13a1d0be041ab85b4a556e4fb0da5dbb127c13c50ddbe741afb3c67` |
 | `OT_2001CHUNK6_LATE_B_JUNE17_COMMITMENTS.md` | `a765350c20a32a46ab39304cecae4493a3604ef70a29b8f28f442b279dbc2f0e` |
 | `OT_2001CHUNK6_LATE_B_COMMITMENTS.md` | `29ee90e843f355c85c3c63806315558499b23ee8fb484740c1aa1dcf76205597` |
-| `OT_2001CHUNK6_LATE_B_MODEL_VALIDATION.md` | `16c984e8f2b860a68a01af7f50f7f22b0fd66f59faba80ca3494580e8013c104` |
+| `OT_2001CHUNK6_LATE_B_MODEL_VALIDATION.md` | `773d9f5e1390032b572cfa436d5c75c0feea7b0d2235f0df1ec6b6be399e2dc6` |
 
 No clean substantive-update handoff is required from this comparison because no material premise changed. The parent operator may pass this scoped validation alongside the unchanged original commitments to the separately authorized reconciliation stage.

@@ -86,13 +86,13 @@ The six support reversal of the no-search ruling and a bounded remand in the act
 
 ## GILLESPIE
 
-Frozen source: [OT_1999CHUNK5_GILLESPIE_RECONCILED.md](OT_1999CHUNK5_GILLESPIE_RECONCILED.md). SHA-256: `ec4a0b8f805738aa82651a4f816ea276646d67b1f1698c2e82f702cd177dce55`.
+Frozen source: [OT_1999CHUNK5_GILLESPIE_RECONCILED.md](OT_1999CHUNK5_GILLESPIE_RECONCILED.md). SHA-256: `d8c2ec88ee02ab7a80665d7688889fcc97c2d8357827d7e9f58916de2954f063`.
 
 ## Gillespie — reconciled non-Stone commitments
 
 **Stage and cutoff:** Historical reconciliation; April 17, 2000. No Stone supplement, combined brief, private position or raw Decision Record was read. This handoff enters no judgment and chooses no author.
 
-**Frozen model retained:** `../freeze/OT_1999CHUNK5_GILLESPIE_COMMITMENTS.md`, SHA-256 `cb1adba022bc0d19e199b3126e2a70778825f1867982086834bf0dbcae0d57a9`, is incorporated in full, including its statutory qualifications, all three constitutional components, personal-injury threshold, strongest alternatives, Justice-specific grounds and remedial limits. No commitment is changed.
+**Frozen model retained:** `../freeze/OT_1999CHUNK5_GILLESPIE_COMMITMENTS.md`, SHA-256 `9d05c2acd03d59e26f653593e69366aebae9d5711d165124aaa2c7f2ae8f6b6f`, is incorporated in full, including its statutory qualifications, all three constitutional components, personal-injury threshold, strongest alternatives, Justice-specific grounds and remedial limits. No commitment is changed.
 
 ### Historical comparison
 

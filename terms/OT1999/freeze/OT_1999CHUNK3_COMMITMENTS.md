@@ -357,7 +357,7 @@ SHA-256 records source identity only and supplies no adjudicative conclusion. Pa
 | Authorized input | SHA-256 |
 |---|---|
 | `freeze/OT_1999CHUNK3_NEUTRAL.md` | `6e662d770a0d5609d9c76fdec772f04bc5a4fde9415dd441fdbbb09800a61a98` |
-| `freeze/OT_1999CHUNK3_ENTERING_NEUTRAL_STATE.md` | `0c9d1d4c4f810f81ad1c6b7646e5f8f77bff1e150fdd366a9ce8a6e325afface` |
+| `freeze/OT_1999CHUNK3_ENTERING_NEUTRAL_STATE.md` | `fe68d24a15a4db7575bedddcbc49b8f20d28ae89ad94c961ae8c2973b39e2753` |
 | `entering-law/OT_1999CHUNK3_LATER.md` | `6279f59b7882ef1261eba7a16417eeebcb9a794a30c925a8133a7a3923981e68` |
 | `freeze/OT_1999CHUNK3_LATER_SOURCE_FACTS.md` | `bdc71f985319c6f4fbe352cf412158820cfb218eadf508db31d6ba8a848ee503` |
 | `freeze/OT_1999CHUNK3_LATER_NEUTRAL_EXCERPTS.md` | `85475854bf26b34d783672922c635e69096043d1221a8a7a3d4090fda48ffaa8` |

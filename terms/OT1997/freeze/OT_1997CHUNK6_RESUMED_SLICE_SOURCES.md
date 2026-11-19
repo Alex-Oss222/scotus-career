@@ -89,4 +89,4 @@ This receipt certifies copying and module selection only. It is not a substantiv
 | `terms/OT1997/workspace/neutral-projection.md` | `b1371317e706c491188134e95458abe6b1da3a1418e0c7b435891d03ca4b6891` |
 | `terms/OT1997/research/chunk6_b/PRIOR_PUBLIC_WRITINGS.md` | `2ef55f084186c1eb93ecd2732e13339f083cf19d41c2556556f1124c3395b27c` |
 
-Generated slice SHA-256: `496b844a176f4ceac43f632414501ba6dc9ae8a1d9fc43005aaf6fe75500c972`.
+Generated slice SHA-256: `97905c38ea6436d498ba2acc5c443d1c7eedd579d766f9fd78071fb2a3d0c837`.

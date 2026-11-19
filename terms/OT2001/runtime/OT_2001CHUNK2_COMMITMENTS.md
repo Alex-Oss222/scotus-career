@@ -4,7 +4,7 @@ This aggregate is a mechanical copy of the identified immutable stage handoffs. 
 
 ## Stage source: OT_2001CHUNK2_A_INDEPENDENT_COMMITMENTS.md
 
-Content digest (SHA-256): e4f518d68fed5e39125631c75c0f13bd35ff9936dce5ee7e9b52dd041e8e6726
+Content digest (SHA-256): a0399e2bccfe28359b3e9ccc25ed67b3cc6b7626c05577269a78010fdfc92dbf
 
 # OT2001 chunk 2 - A independent commitment aggregate
 
@@ -600,7 +600,7 @@ These sources support bounded judicial commitments, not a reconstruction of miss
 
 ## Stage source: OT_2001CHUNK2_C_INDEPENDENT_COMMITMENTS.md
 
-Content digest (SHA-256): c13a16a9fe2294c6d24962f255b29f6b428032ef33f5aa7d82e1fc045727cc36
+Content digest (SHA-256): 6c68bc8d062db1194783fc86aa47a116164fe5b2e857170494bfee4ff4cad288
 
 # OT2001 chunk 2 C — Independent non-Stone commitments
 

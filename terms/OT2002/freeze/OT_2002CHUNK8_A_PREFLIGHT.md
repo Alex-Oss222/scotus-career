@@ -37,6 +37,6 @@
 
 **Validation:** The focused slice copies complete selected Holdings and Standards entries and dated neutral-projection entries mechanically. The neutral freeze begins with a byte-identical copy of the supplied packet, followed only by the additive clarifications. Text checks prohibit restricted provider terms and local-machine or repository hyperlink targets. The source copies preserve legal text mechanically from fetched pages. This preparation changes no adjudication, tracker, manifest, or public output.
 
-**Copy checks:** Main slice SHA-256: `c2866638a08b41752b4e19bae152f0a81fe0a07fd7fd5e5b67be6453a26d7a10`; supplied packet SHA-256: `cddc2151843fd16531a91fe04939b90aadfd0d2f6cbfb82ee051eebbc2607656`; neutral projection SHA-256: `4749bb067d9b152ff4fb4318624b4820274287d44c743b2bf725fc7ecd208e16`.
+**Copy checks:** Main slice SHA-256: `ca7a89289faa4bfc3e93f8aab0450d85e28d6890a910b6fdcb2693c84a9f83e3`; supplied packet SHA-256: `cddc2151843fd16531a91fe04939b90aadfd0d2f6cbfb82ee051eebbc2607656`; neutral projection SHA-256: `4749bb067d9b152ff4fb4318624b4820274287d44c743b2bf725fc7ecd208e16`.
 
 Selected complete entries: 22 Holdings, 15 Standards, 9 dated current-term entries, plus the Court and standing-practice section.

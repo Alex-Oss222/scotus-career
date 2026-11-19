@@ -280,7 +280,7 @@ All eight Associate rows and their distinct judgment commitments were checked. F
 
 ## Source: OT_1999CHUNK8_B_COMMITMENTS.md
 
-SHA256: 80a5f0241ad8ee5856123069169743a1b583e2d66547c2b7a210981a250d13f1
+SHA256: 9c81e5c517501151bf5e42820b6f7045e27b01d201f1ddd5a569a522b8137e40
 Selected complete sections: Common reading, 2. Crosby, 3. Hawkins, 4. Miller, 5. Santa Fe
 
 # OT1999 chunk 8, group B — initial frozen independent non-Stone commitments
@@ -473,7 +473,7 @@ Provisional common support: six Associates for the bounded mechanism holding and
 
 ## Source: OT_1999CHUNK8_ARIZONA_COMMITMENTS_REVISED.md
 
-SHA256: ac05250da88999f2f57c93163021f8cf98c26a0d74dd24d509fc4919aa571c2c
+SHA256: 7dc3af52cf112a0ca2d2fadfd492ee693ec6a5016057c1646d86435c713cb455
 Complete stage file copied.
 
 # Arizona v. California — revised independent non-Stone commitments
@@ -888,7 +888,7 @@ This initial freeze supplies eight independent Associate commitments per case, t
 
 ## Source: OT_1999CHUNK8_C_FINAL_LAW_REVIEW.md
 
-SHA256: 87121fa4196a35096fd9608434451a4868c3f894de889612caa5e559a96864a2
+SHA256: ca98d91fc8ab3f1be95f76ff34e3a07f769f75d0825a2379456edcc592789b3d
 Complete stage file copied.
 
 # OT1999 chunk 8 C — final earlier-effective-law review
@@ -951,7 +951,7 @@ The original draft and both initial commitment copies were read or checked witho
 |---|---|
 | Initial C commitment freeze and matching runtime copy | `20A175C210CA4B840633A6C50616A2582FC0149A47E926CF679656CEEEAA40AB` |
 | Original C commitment draft | `6C9BBB2715FE1DC52E7DDBF513EC8964F46E76C74BF3D2BA6EE1E9B9453F2329` |
-| Final nine-event earlier-public handoff | `A84A65F607CEEA3630BFD9B600687662BCCFFD9830588CB77E24BC58448E58C7` |
+| Final nine-event earlier-public handoff | `7E5AEA87D2445025E2C281A6A4B70A1BBFBA40F450E28FD5B23B4804B0EB70BD` |
 | Separate Harris Trust public handoff | `C25279215E5215445B047177042F8B2AC3E0B2DBCBC09A2289204A8F74DA897A` |
 
 **Stage result:** The full supplied earlier-effective-law review is complete, with no material change requiring affected neutral rewriting, new modeling or a replacement commitment freeze. The initial freeze's pending chronology paragraph is preserved as a truthful statement of its original status; this separate receipt closes that specific pending review. Other required stages retain their own validation duties, and this context neither reads nor certifies their work. Research cutoff remains June 26, 2000.

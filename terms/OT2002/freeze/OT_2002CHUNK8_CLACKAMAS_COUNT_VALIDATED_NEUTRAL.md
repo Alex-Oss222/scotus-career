@@ -46,7 +46,7 @@ Petitioner, Clackamas Gastroenterology Associates, P. C., is a medical clinic in
 ## Identity and preservation checks
 
 - Clackamas-additional-count-source-facts.md: SHA-256 b9bad98bb68ab626615ab908db88fe6f2ccd3a74733ebcd2cd65378590e79a24; unchanged.
-- OT_2002CHUNK8_CLACKAMAS_VALIDATED_NEUTRAL.md: SHA-256 ba7f5f341d885237026a2938b87ee40f6ef5a7457dafe174b26c0eaf22c13512; unchanged.
+- OT_2002CHUNK8_CLACKAMAS_VALIDATED_NEUTRAL.md: SHA-256 58366e9681fc00c0f3e4ef9810e55103217f07481d443f70aade68ea0d7cc010; unchanged.
 - Clackamas-neutral-source-excerpts.md: SHA-256 e760f35392b40c468417d471e10eb4c5e0923d86b56cdc4ee909533eadeff71e; unchanged.
 
 Completed checks: source status retained; 1996 and 1997 identified from the reported 1997 termination; aggregate undisputed premise distinguished from exact daily headcounts; physician classification left unresolved; source copied mechanically; prior freeze unchanged; no vote, outcome or historical rationale imported.

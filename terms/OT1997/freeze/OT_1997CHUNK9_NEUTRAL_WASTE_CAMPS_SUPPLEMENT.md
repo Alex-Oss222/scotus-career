@@ -58,7 +58,7 @@ The following source sections are appended mechanically by `tmp/build_waste_camp
 
 Source: `terms/OT1996/output/OT_1996CHUNK8.md`
 
-SHA256 of source: `e622623e6814fbdf1459f68653944f42bcd7361ca7b1031b82f0cd84a4c5df45`
+SHA256 of source: `dd435af58677dbc6f6493c9ff0b5130b6fa1821e287d0fb11268a6bbcf9a8490`
 
 BEGIN EXACT COPIED SOURCE
 
@@ -172,7 +172,7 @@ END EXACT COPIED SOURCE
 
 Source: `terms/OT1997/entering-law/OT_1997CHUNK9.md`
 
-SHA256 of source: `959d256fc4ae4310bd962599573ac0928d61eddb8488cea234849a2bd04c6bd8`
+SHA256 of source: `9fe9fe80da87be95aeba8a586dedfe8394b31106d57f360aff02b03555474c47`
 
 BEGIN EXACT COPIED SOURCE
 
@@ -219,7 +219,7 @@ END EXACT COPIED SOURCE
 
 Source: `terms/OT1997/entering-law/OT_1997CHUNK9.md`
 
-SHA256 of source: `959d256fc4ae4310bd962599573ac0928d61eddb8488cea234849a2bd04c6bd8`
+SHA256 of source: `9fe9fe80da87be95aeba8a586dedfe8394b31106d57f360aff02b03555474c47`
 
 BEGIN EXACT COPIED SOURCE
 
@@ -252,7 +252,7 @@ END EXACT COPIED SOURCE
 
 Source: `terms/OT1997/entering-law/OT_1997CHUNK9.md`
 
-SHA256 of source: `959d256fc4ae4310bd962599573ac0928d61eddb8488cea234849a2bd04c6bd8`
+SHA256 of source: `9fe9fe80da87be95aeba8a586dedfe8394b31106d57f360aff02b03555474c47`
 
 BEGIN EXACT COPIED SOURCE
 

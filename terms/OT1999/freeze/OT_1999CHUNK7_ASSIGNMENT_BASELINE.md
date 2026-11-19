@@ -770,7 +770,7 @@ Count treatment: Signed plenary merits lead; one for each of Thomas.
 
 [Source Record](../records/reno-v-condon_merits_2000-01-12.md)
 
-Source SHA-256: `47ef2d6aaed7f3d7c1ff3cad910678e7a7846a583b5f135f7b72e458d8d6ad6c`
+Source SHA-256: `3310cde500b8ce7b7450de6180a91461812ae1f918b907d0d1cba0a1dc882e70`
 
 **Case and dockets:** Reno v. Condon; No. 98-1464
 **Event and date:** Plenary merits decision, 2000-01-12; October Term 1999, chunk 2.
@@ -807,7 +807,7 @@ Count treatment: Signed plenary merits lead; one for each of Scalia.
 
 [Source Record](../records/fraternal-order-of-police-v-united-states_merits_2000-01-18.md)
 
-Source SHA-256: `6e9a3d9a49c4e268153d0c826effea451bb3cb68156dde50cdec1e5c58bb8f72`
+Source SHA-256: `68904d46481c260faf823b60dbf5c1c319e3dae369083426ff4c2802b921c974`
 
 **Case and dockets:** Fraternal Order of Police v. United States; D.C. Circuit No. 97-5304; 173 F.3d 898
 **Event and date:** Plenary merits decision, 2000-01-18; October Term 1999, chunk 2.
@@ -2297,7 +2297,7 @@ All seven join the whole opinion. Scalia and Breyer retain their contrary object
 
 [Source Record](../records/gillespie-v-city-of-indianapolis_merits_2000-04-17.md)
 
-Source SHA-256: `716024ae1f821f029be6bb2cf80906ae4c372a0c97db5eb513aa34024fb2097d`
+Source SHA-256: `4319e7eed80567a88af6010e3b43788420503305fd659d4cebfda0f6fab69c12`
 
 **Case and dockets:** Gillespie v. City of Indianapolis; No. 99-626.
 **Event and date:** Merits decision; 2000-04-17; October Term 1999.

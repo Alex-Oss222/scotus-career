@@ -41,7 +41,7 @@
       "record": "Printz_v_United_States_Mack_v_United_States_merits_1997-06-27.md",
       "date": "1997-06-27",
       "result": "Reversed in both dockets, 5\u20134; Congress may not command unwilling state executive officers to administer federal regulation of private persons; declaratory relief for the officers and remand for conforming judgments; the rule's reach to purely ministerial record-processing has four joins.",
-      "sha256": "2d0491d2ec8712d20d0f09ba108a6b077c805337c32465c7f31bbb2e02dc8673"
+      "sha256": "adf186eba886666b4a789232f697748486453b2c9743e786225dda046ae8195b"
     },
     {
       "record": "In_re_Cohen_merits_1997-06-30.md",
@@ -53,19 +53,19 @@
       "record": "United_States_v_Mussari_Schroeder_merits_1997-06-30.md",
       "date": "1997-06-30",
       "result": "Ninth Circuit affirmed in both prosecutions, 9\u20130; each indictment dismissal remains reversed and each trial remand proceeds within the post-enactment and proof limits.",
-      "sha256": "185fd0c602ac0740b997670eae02c97285e0c152e440371be8b53726ab6cc01f"
+      "sha256": "cdb149e5bf5ffe59008da93d8065e2a22de4fcc50443ed1eab4a0cbb3d1acf5e"
     },
     {
       "record": "Faragher_v_City_of_Boca_Raton_merits_1997-09-08.md",
       "date": "1997-09-08",
       "result": "Reverse the reviewed Title VII disposition and remand for reinstatement of the existing one-dollar judgment, 8\u20131. All nine join the actual-authority rule; Stone-Zsela supports a different, conditional remand.",
-      "sha256": "5f08f23f876611457c772ab22dfff5042e0ef10987c830b52b5e31b38e5a7cb0"
+      "sha256": "a8920d8cec2ff3bb90ba9acbdf1fe5f3685790d2b71283a42e41a47441790382"
     },
     {
       "record": "Harrison_v_Eddy_Potash_Inc_merits_1997-09-15.md",
       "date": "1997-09-15",
       "result": "Both appellate results affirmed, 9\u20130; corrected-rule further district proceedings on Title VII and rejection of the contractual-exhaustion cross-appeal. The common mandate contemplates retrial subject to lawful resolution of genuinely preserved independent grounds.",
-      "sha256": "292d2bf20e0d96f06b30a2bd7dbff88a98d35924476f2c58276bdcea495c8c88"
+      "sha256": "0c5d28fd15a83e77c65241a14561dbc6684e882e91bf8af6832ca7f513df526d"
     }
   ],
   "baseline_files_unchanged_excluding_workspace": 204,

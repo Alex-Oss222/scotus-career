@@ -243,7 +243,7 @@ No roster, allotment, institutional practice, new Court return condition or exte
 
 ## Adaptive audit annex
 
-The [frozen reconciliation](../freeze/OT_1997CHUNK12_RECONCILED_BREWSTER.md), verified SHA-256 CF0088423B72CE4789ABBF32145C7AA4663A8B7832AA2EC39E6DE48730581575, mechanically preserves the full independent handoff. Its exact eight commitments, actor distinctions and alternative-path assessments remain unchanged. The common salary ground expressly covers assumed retrospective recovery. The following rows retain the Justice-specific grounds and barriers rather than deriving positions from labels or past vote counts.
+The [frozen reconciliation](../freeze/OT_1997CHUNK12_RECONCILED_BREWSTER.md), verified SHA-256 B6ECDA5458BA445E2CD04D50BB6979D6F6609A834184C56F678995FE91FD3276, mechanically preserves the full independent handoff. Its exact eight commitments, actor distinctions and alternative-path assessments remain unchanged. The common salary ground expressly covers assumed retrospective recovery. The following rows retain the Justice-specific grounds and barriers rather than deriving positions from labels or past vote counts.
 
 | Justice | Speech commitment and sufficient date-eligible basis | Salary commitment and join barriers | Final join |
 |---|---|---|---|
@@ -276,7 +276,7 @@ No corresponding historical Supreme Court merits decision or Justice lineup is s
 
 ## Sources, research cutoff and validation status
 
-Research cutoff: August 17, 1998. Conduct-time notice remains separately fixed to each supported 1994–1995 act, with no invented date for an unreported implementation. The [final neutral packet](../freeze/OT_1997CHUNK12_NEUTRAL_BREWSTER_AUG17.md) has SHA-256 4B58C68074D5474F64A69F96BD8EBBC77F107A70A73EA8DA7EEE52B026C60C83; the immutable entering-law snapshot has SHA-256 3C4EA6DCBA31A73180198235D87F51C8BAD1EFE38A1B4DE2E0A0CA50F774CC77. The snapshot is a reading copy, not independent authority. Assembly used its relevant holdings and public positions; no future case's private position or unscoped Stone file was read.
+Research cutoff: August 17, 1998. Conduct-time notice remains separately fixed to each supported 1994–1995 act, with no invented date for an unreported implementation. The [final neutral packet](../freeze/OT_1997CHUNK12_NEUTRAL_BREWSTER_AUG17.md) has SHA-256 9DABB67872453737BD4937C8F207113237BDE88F19E1E7990B82D7DCA68F342E; the immutable entering-law snapshot has SHA-256 A74133763631378CFB740A60E900B7FD91A0DF50DF519018C6BFC4ED788B7973. The snapshot is a reading copy, not independent authority. Assembly used its relevant holdings and public positions; no future case's private position or unscoped Stone file was read.
 
 The frozen neutral and reconciliation source receipts preserve full reading of the lower opinion including all ten notes, with independent Public.Resource and CAP copies. The [saved judicial text](../research/chunk12_neutral_lower/brewster.txt) and [CAP cross-check](../research/chunk12_neutral_lower/brewster_cap.txt) support reported facts, arguments, concessions and lower reasoning. The reconciliation separately records full Pickering/Givhan/McKinley reading and bounded relevant Connick/Loudermill coverage. Assembly does not claim independent recovery or reading of unavailable original pleadings, affidavits, memoranda, payroll records or unquoted separate writings. The missing facts bar new personal findings, a first-loss date, complete salary-merits approval and an invented separate collection claim; they do not block these supported bounded legal results.
 

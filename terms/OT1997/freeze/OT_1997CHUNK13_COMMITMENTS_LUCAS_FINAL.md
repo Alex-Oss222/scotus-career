@@ -125,10 +125,10 @@ The claim chart covers all 17 numbered claims and separates claim 4's death-only
 * `terms/OT1997/entering-law/OT_1997CHUNK13_LUCAS_FOCUSED.md`: `8f7e436bc97e970f5e29421b490f5d439df065522341ac676f6723ce866827e0`.
 * `terms/OT1997/entering-law/OT_1997CHUNK13_LUCAS_STANDARDS.md`: `f5708b30c2b92ec028a85534824033a48ae4c49d5b49fb95e82ca81d5507d3ca`.
 * `terms/OT1997/entering-law/OT_1997CHUNK13_LUCAS_CURRENT_PUBLIC.md`: `089bec562c1fc4d702a73d771aefcf374d632d91aa4fd656ab1bf9b58946a5af`.
-* `terms/OT1997/entering-law/OT_1997CHUNK13_SEP14_FOUR_PUBLIC.md`: `16a48512a2f28afe0d50e3b2a456673d72a7404677c3b539b137f88553b00e71`.
+* `terms/OT1997/entering-law/OT_1997CHUNK13_SEP14_FOUR_PUBLIC.md`: `84ad19a736d3638a81881f50b894bd50d27246db16d21cf2a4df661855457098`.
 * `terms/OT1997/research/chunk13-neutral-validation/LUCAS_MODEL_PREPARATION_RECEIPT.md`: `5fe55587df56f364a96336e3443041ae3463c5cb50175cd54470859be9b7eb5f`.
 
 ### Final refresh source identities
 
-* Preserved provisional freeze SHA-256: `53396b749e3b74da1cdaeee18a1bf7dba35f849dcd0cc7e230c606cdbdc7a05c`.
+* Preserved provisional freeze SHA-256: `2c5d2ff41a73af9bbec9e5efeaef51bde7b46b39694c6240a804f5c21b67b65d`.
 * `terms/OT1997/entering-law/OT_1997CHUNK13_SEP21_PUBLIC.md` SHA-256: `3152168622ac4f2d79bafd3d7ccd9e410e0f39bf04fd673ce1954e7248dc9184`.

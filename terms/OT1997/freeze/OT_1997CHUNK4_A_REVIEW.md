@@ -38,8 +38,8 @@ After repair, `python -B terms/OT1997/tools/validate_chunk4_a.py` passed and ref
 
 The refreshed [A_PUBLIC_REFRESH](../entering-law/OT_1997CHUNK4_A_PUBLIC_REFRESH.md) contains exact Johnson, Regions and Rivet Public Projection copies. Verified SHA-256 values:
 
-- Regions: `29c6b8787a207859aff2450f4e1ce459fc7314741bed7db6de52389d423f1590`.
-- Arteaga: `8a87f17cb79ee4951f3130ceaca283d9416dc6142732583d0b5ce16ce7acf9c1`.
+- Regions: `58332b0fd53dd1d01553602241b1ef37136742125af949ed5dbe4c31451bcd8d`.
+- Arteaga: `a0119aad5089942a295c66758f2f2e4f3a1c2cbc4d31d747eb670ea1d258a624`.
 - A_PUBLIC_REFRESH: `dbc96bfdb00eee783c25bade401dea419c6f929e48a16f4c64ec459399578686`.
 
 ## Status and limits

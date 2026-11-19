@@ -4,7 +4,7 @@
 
 ## Stage and source integrity
 
-The complete reconciled freeze was explicitly authorized before the assembly context read the current McConnell private supplement. Its SHA-256 is `dd964f545f1f2f384a9f1d47296a05c38bab5748b7bc2de1067c81ceab1fce65`; the hash matches. Section 12 is the operative final map, and superseded section 11B is not used as a current commitment. The source-only argument-date check read the saved primary syllabus lines 60-61 and establishes September 8, 2003 without importing historical lineup or disposition.
+The complete reconciled freeze was explicitly authorized before the assembly context read the current McConnell private supplement. Its SHA-256 is `b1463fa708a0e6f6a19768e1e7388a2ad36ffb575d7bca52f2f20e4116611fe5`; the hash matches. Section 12 is the operative final map, and superseded section 11B is not used as a current commitment. The source-only argument-date check read the saved primary syllabus lines 60-61 and establishes September 8, 2003 without importing historical lineup or disposition.
 
 The exact enacted text was checked for the clarified party/entity/agent classes, four federal-election-activity exclusions, Levin conditions, the literal payroll trigger (activities in connection with a federal election), section 323(d)'s separate recipient branches, section 323(e)(2)'s own scope and office-sought wording, pre-election windows, President/Vice President geographic exception and public inspection of broadcaster files. These correct shorthand descriptions without changing a Justice's operative conclusion or adding a challenged provision. The material statutory qualifications, separate grounds, burdens and remedies are carried in the holdings themselves. Long saved-source passages were incorporated programmatically.
 
@@ -62,6 +62,6 @@ After fixing all present holdings, the assembly context read only the public Eve
 
 Record and handoff hashes follow. Source and assignment data remain in their named internal artifacts. Root may now perform coordinated projections and the remaining chunk checks.
 
-**Record SHA-256:** `d1328c5bcfa4036a1bf78c111d889e7ab78d09c20e1a1698cd20a2bf1557ccf1`
+**Record SHA-256:** `5c49bd07bfd4f086ac6cd9a797793a6f0ec23ee4dd2c47b78f149428710f7b54`
 
-**Public handoff SHA-256:** `03c21e5a347401134af902e966efbfe4317163b107d8f82aaf78d7d2f32421e9`
+**Public handoff SHA-256:** `0017ad2a4b0c22f6b466355cf117424cb6d3981d18f9133c6a976f4091ac97a3`

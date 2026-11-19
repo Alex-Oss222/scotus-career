@@ -520,7 +520,7 @@ The common procedural conclusion has seven direct joins; the particular Q readin
 ## Inmates of Suffolk County Jail v. Rouse; consolidated First Circuit Nos. 97-1261, 97-1262, 97-1263 and 97-1334, 129 F.3d 649. No separate Supreme Court docket is supplied.
 Source Record: ../records/inmates_of_suffolk_county_jail_v_rouse_merits_1998-01-15.md
 Event: Plenary merits decision on authorized submission, 1998-01-15; October Term 1997. No Supreme Court argument date is established.
-File SHA256: 356b67f182ccc5175ec21d20416cc63b9062987b99e8db611a9ee9ff518d579e
+File SHA256: 37209d34f1f727f26438db0a884b6b36b828318bd0a2a181942339aafb16aae3
 
 | Writing | Author | Joins |
 |---|---|---|

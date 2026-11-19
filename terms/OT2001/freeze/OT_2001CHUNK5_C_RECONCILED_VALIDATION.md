@@ -8,4 +8,4 @@ All 13 relative links in the final index resolve. Saved index equality and the r
 
 This validation completes reconciliation readiness only. It does not claim to have performed assembly compatibility, opinion assignment, Record generation, workspace projection, public rendering or term-wide checks. Those are separate authorized stages using these frozen inputs.
 
-Final index SHA-256: 990df583deb0bf412c01f141c365dadd2c4ab5b655c4498b47243888f3bbaaaa.
+Final index SHA-256: 66f3bb9a615e1393070c2a0372265e4f3e9110f63993c2a33609c175e35a2b6a.

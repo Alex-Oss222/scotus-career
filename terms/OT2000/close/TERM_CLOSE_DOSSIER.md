@@ -44,10 +44,10 @@ The existing line-ending convention is preserved for every state file: HOLDINGS.
 | Final source | SHA-256 |
 |---|---|
 | [Case inventory](../case-list.md) | `bd496d64f4938c3cabddd9282136e2c5cbe76c6dffa1f7366fc931602f23b118` |
-| [Final manifest](../workspace/manifest.md) | `192bdec102cccb571a308cfdb2e66e182d7fca2ee07d698ceb4ec68bc80466f8` |
-| [Final continuity](../workspace/continuity.md) | `55a00760b6692fbb77fc1b78ebcc1afe703a41a167de25a8bb53e7e766aa89fb` |
-| [Neutral projection](../workspace/neutral-projection.md) | `15de39221fe438bbd52a0054b0b2168b2fb84d18fde5e580ff2bc4a9e7e58bba` |
-| [Ledger](../workspace/ledger.md) | `250a1e4a86385444d337fa4654ae25d6e0288fb65e69feaf6746b5f0afe06773` |
+| [Final manifest](../workspace/manifest.md) | `c53cb2978bccb29599206dfc0d5455edd5827150d1966996c2ed4f2eced77417` |
+| [Final continuity](../workspace/continuity.md) | `aae891ae12059d3165b6d7ed7c921ebcb95f45d7b28857dc6ff7e1b716ee3444` |
+| [Neutral projection](../workspace/neutral-projection.md) | `168c8c0abd3cc9ad1abe7db0cb18761c77bc86e5700f5da0e7c44dadf829f715` |
+| [Ledger](../workspace/ledger.md) | `a2db2135b6eb9ba0c6dba8a9ed6163ae7429c3143fa8b1610262873ee7c52a2a` |
 | [Confirming audit](AUDIT.md) | `d76085679261e403cc5bc9920b5241a49b7b18bb1f27533c48e161aa69310685` |
 
 ## Court-event Records in chronological order
@@ -78,7 +78,7 @@ The linked Records are incorporated as the adjudicative source. Ordering same-da
 | 2001-01-17 | [Denius v. Dunlap; Seventh Circuit No. 99-1402; 209 F.3d 944; no separate Supreme Court docket supplied.](../records/Denius_v_Dunlap_merits_2001-01-17.md) | `e158261b124e9d4204c4427a88173fac5054cbf0965392d65592215b58c98674` |
 | 2001-01-17 | [District of Columbia v. Tri County Industries, Inc., No. 99-1953.](../records/District_of_Columbia_v_Tri_County_Industries_dig_2001-01-17.md) | `501110ba77eedc7101851b9c9a9445a16af13f202d081ebc3ad6eb4541c21067` |
 | 2001-01-17 | [Seling v. Young, No. 99-1185.](../records/Seling_v_Young_merits_2001-01-17.md) | `c992cf0a06d8b4bb03aaa0600f4b25f685f292ae60298f783a2639c49371403a` |
-| 2001-01-22 | [Kansas v. United States; Tenth Circuit No. 98-3341, 214 F.3d 1196; no separate Supreme Court docket supplied.](../records/Kansas_v_United_States_merits_2001-01-22.md) | `e9897492d0c7c1c9bdb55a5ca87317231427a8ffd72f371951570d96cb84ad47` |
+| 2001-01-22 | [Kansas v. United States; Tenth Circuit No. 98-3341, 214 F.3d 1196; no separate Supreme Court docket supplied.](../records/Kansas_v_United_States_merits_2001-01-22.md) | `793a27f7f67bd166279ea00b8c6758927acec1074f1607c9611e64a8b7e900e9` |
 | 2001-02-20 | [Brentwood Academy v. Tennessee Secondary School Athletic Association, No. 99-901.](../records/Brentwood_Academy_v_Tennessee_Secondary_School_Athletic_Association_merits_2001-02-20.md) | `690c3da5850ea1b32d120fd2b17c43b80518a882773971658eb47adf32916985` |
 | 2001-02-20 | [Director of Revenue of Missouri v. CoBank ACB, No. 99-1792.](../records/Director_of_Revenue_of_Missouri_v_CoBank_ACB_merits_2001-02-20.md) | `6ca14e8d5557dc930fd5ddace7e2f1a96f46bdf9d041c9d48e32dee81faeba41` |
 | 2001-02-20 | [Illinois v. McArthur, No. 99-1132.](../records/Illinois_v_McArthur_merits_2001-02-20.md) | `5045d8f166ddbf4cacdeffe26e3e0c6d6b0e3d1823ceebd522fe4645de170442` |
@@ -112,18 +112,18 @@ The linked Records are incorporated as the adjudicative source. Ordering same-da
 | 2001-04-18 | [Shaw v. Murphy, No. 99-1613; 532 U.S. 223.](../records/Shaw_v_Murphy_merits_2001-04-18.md) | `d80e6dc555903328c1fdf92bbb20ec096a4e082625dd2484944509b65ca448f2` |
 | 2001-04-23 | [Children's Healthcare Is a Legal Duty, Inc. v. Min De Parle; Eighth Circuit No. 98-3521; judgment below, 212 F.3d 1084.](../records/Childrens_Healthcare_Is_a_Legal_Duty_v_Min_De_Parle_merits_2001-04-23.md) | `7305f6677d3531b3c960af8a837974ed0b6e4429a7fd6562c5c208c75a98f736` |
 | 2001-04-23 | [Clark County School District v. Breeden, No. 00-866; 532 U.S. 268.](../records/Clark_County_School_District_v_Breeden_summary-disposition_2001-04-23.md) | `485865f12620a260ffdd91e09d2dd8db4010755fb57f24eaab20aa345e16a8b9` |
-| 2001-04-24 | [Alexander v. Sandoval, No. 99-1908; historical record citation, 532 U.S. 275.](../records/Alexander_v_Sandoval_merits_2001-04-24.md) | `f956ef92403165ce1dfe44dce136aa881ce7f26bd8a0fae65cf9b372dedd7823` |
+| 2001-04-24 | [Alexander v. Sandoval, No. 99-1908; historical record citation, 532 U.S. 275.](../records/Alexander_v_Sandoval_merits_2001-04-24.md) | `21a6d1ea937df3cbfe9ccc74883c017a122d91189fdc210de48a886aab1b8c8e` |
 | 2001-04-24 | [Atwater v. City of Lago Vista, No. 99-1408; historical record citation, 532 U.S. 318.](../records/Atwater_v_City_of_Lago_Vista_merits_2001-04-24.md) | `4927cae9ce6d68829c51e429ed65ae8472fbe661705174052ccf42dc337db9b0` |
 | 2001-04-24 | [Sterling v. Borough of Minersville; Third Circuit No. 99-1768; 232 F.3d 190; no additional Supreme Court docket supplied.](../records/Sterling_v_Borough_of_Minersville_merits_2001-04-24.md) | `cfae680e78985e2f3b4884d45e092065d41bd5d970959d6dd064aa7b12911814` |
-| 2001-04-25 | [Daniels v. United States, No. 99-9136; historical record citation, 532 U.S. 374.](../records/Daniels_v_United_States_merits_2001-04-25.md) | `7b052d9a145d2bf47158c620e67c1c5cb14ed1e0dfa548c12f4bd9b2d12b8735` |
+| 2001-04-25 | [Daniels v. United States, No. 99-9136; historical record citation, 532 U.S. 374.](../records/Daniels_v_United_States_merits_2001-04-25.md) | `d2260be42e6ad93c826a8a60dfe557e2cac21556a28aaa6c4eb6293628ea61c1` |
 | 2001-04-25 | [Lackawanna County District Attorney v. Coss, No. 99-1884; October Term 2000.](../records/Lackawanna_County_District_Attorney_v_Coss_merits_2001-04-25.md) | `cae4f80c6efa77406c33df17dba76a6412d755bef6f4e519599d14c7dce5a3c6` |
-| 2001-04-25 | [Randell v. Johnson; judgment below, 227 F.3d 300; no separate Supreme Court docket supplied.](../records/Randell_v_Johnson_merits_2001-04-25.md) | `e0d6b08a61b43c99cf66f3a1e5b802dfe4b100605bb1cc49eeb6337157264c13` |
-| 2001-04-30 | [C & L Enterprises, Inc. v. Citizen Band Potawatomi Indian Tribe of Oklahoma, No. 00-292; historical record citation, 532 U.S. 411.](../records/C_L_Enterprises_v_Citizen_Band_Potawatomi_Indian_Tribe_merits_2001-04-30.md) | `9873a914ef8dacddfe95a4b1ec0faf5c39fb7521dd1d4729093aff6bc8e3a037` |
-| 2001-05-14 | [Cooper Industries, Inc. v. Leatherman Tool Group, Inc., No. 99-2035; historical record citation, 532 U.S. 424.](../records/Cooper_Industries_v_Leatherman_Tool_Group_merits_2001-05-14.md) | `1c537269979e558418b18f92ff8d3e9b21bdfa04a8be0591ad113a67a1deb95b` |
-| 2001-05-14 | [Major League Baseball Players Association v. Garvey, No. 00-1210; historical record citation, 532 U.S. 504.](../records/Major_League_Baseball_Players_Association_v_Garvey_summary_2001-05-14.md) | `db4e3390c25c8b9c40965d112cc77a36fc0f2b1108ca5587ef4ba25e83769804` |
-| 2001-05-14 | [Rogers v. Tennessee, No. 99-6218; historical record citation, 532 U.S. 451.](../records/Rogers_v_Tennessee_merits_2001-05-14.md) | `aad2432ca706029ad8540f1124eb9590cd02f2438d5dc4112a0d7bcb2e16ba9b` |
-| 2001-05-14 | [United States v. Oakland Cannabis Buyers' Cooperative, No. 00-151; historical record citation, 532 U.S. 483.](../records/United_States_v_Oakland_Cannabis_Buyers_Cooperative_merits_2001-05-14.md) | `3b753d2b585b9c4b7416945b4e8bf076adcb897f8f6195b08c76dece5d9b9554` |
-| 2001-05-14 | [United States v. Valentine; Third Circuit No. 00-1425, judgment below reported at 232 F.3d 350; no separate Supreme Court docket supplied.](../records/United_States_v_Valentine_merits_2001-05-14.md) | `8e0537b6687922ec889c3a1fa8e8cd9770a1994ee2e5e1d47674dc53ff1f4415` |
+| 2001-04-25 | [Randell v. Johnson; judgment below, 227 F.3d 300; no separate Supreme Court docket supplied.](../records/Randell_v_Johnson_merits_2001-04-25.md) | `72bc0f44ea6eb6566ae899b58a14385e775f163d42e992fea1fa192828fc0b20` |
+| 2001-04-30 | [C & L Enterprises, Inc. v. Citizen Band Potawatomi Indian Tribe of Oklahoma, No. 00-292; historical record citation, 532 U.S. 411.](../records/C_L_Enterprises_v_Citizen_Band_Potawatomi_Indian_Tribe_merits_2001-04-30.md) | `fa88eda931935b4dc7ec0f29ed08faa6033bfb782ae6244087ecb5cbaa7698de` |
+| 2001-05-14 | [Cooper Industries, Inc. v. Leatherman Tool Group, Inc., No. 99-2035; historical record citation, 532 U.S. 424.](../records/Cooper_Industries_v_Leatherman_Tool_Group_merits_2001-05-14.md) | `ccf375d8248d024dc00f87db04ef7ac4db18ee64b95ede5839eebeebcd0d15c7` |
+| 2001-05-14 | [Major League Baseball Players Association v. Garvey, No. 00-1210; historical record citation, 532 U.S. 504.](../records/Major_League_Baseball_Players_Association_v_Garvey_summary_2001-05-14.md) | `1c58cdc6f6936b604a0d1401b19fd47bb33e1e87a2ef16b4cbc124003c52f440` |
+| 2001-05-14 | [Rogers v. Tennessee, No. 99-6218; historical record citation, 532 U.S. 451.](../records/Rogers_v_Tennessee_merits_2001-05-14.md) | `2147040e03cedfdf9ba79768cdb68debe4c060eb76857091de8134a2d6ecc63b` |
+| 2001-05-14 | [United States v. Oakland Cannabis Buyers' Cooperative, No. 00-151; historical record citation, 532 U.S. 483.](../records/United_States_v_Oakland_Cannabis_Buyers_Cooperative_merits_2001-05-14.md) | `3f82a44056e482d5da6fa0478a84cf54a1468e9d7c749b2bf89d30dbf63ac0b5` |
+| 2001-05-14 | [United States v. Valentine; Third Circuit No. 00-1425, judgment below reported at 232 F.3d 350; no separate Supreme Court docket supplied.](../records/United_States_v_Valentine_merits_2001-05-14.md) | `104e58f731c72ea63893860e9f3d3b800168930c693bd99a1e261fafbc961747` |
 | 2001-05-21 | [Bartnicki v. Vopper / United States v. Vopper, Nos. 99-1687 and 99-1728; 532 U.S. 514.](../records/Bartnicki_v_Vopper_United_States_v_Vopper_merits_2001-05-21.md) | `e3f4da33d043bce30b62973dc6e031799d94d74dab26bb94a732f4ef076f2abc` |
 | 2001-05-21 | [Chen v. City of Houston; Fifth Circuit No. 98-20440; 206 F.3d 502.](../records/Chen_v_City_of_Houston_merits_2001-05-21.md) | `b4ba7b9bc0ed4d5ff0814450e5660962ac058ce4012c1ea71aff43c85c45114b` |
 | 2001-05-21 | [United States v. Hatter, No. 99-1978.](../records/United_States_v_Hatter_merits_2001-05-21.md) | `cee6b4d3ad14e44fdb80d321eb23c2d8a320d628018fee0ef07f8fc8198d40fc` |
@@ -133,7 +133,7 @@ The linked Records are incorporated as the adjudicative source. Ordering same-da
 | 2001-05-29 | [Atkinson Trading Co. v. Shirley; No. 00-454.](../records/Atkinson_Trading_Co_v_Shirley_merits_2001-05-29.md) | `afbf32d550176491d81aa3d7a7aec91a5a7b771a02f1b0cc50a538be212e5b44` |
 | 2001-05-29 | [Becker v. Montgomery, No. 00-6374.](../records/Becker_v_Montgomery_merits_2001-05-29.md) | `a5404f08f3cef2bf29afffd22fe86682b2e3dd3f5f221cd7c252faf79c3ca769` |
 | 2001-05-29 | [Booth v. Churner, No. 99-1964.](../records/Booth_v_Churner_merits_2001-05-29.md) | `1a1d0fc3482bcebf06f9adb2ee7155a7f192aa93cd029538e2131561e6770063` |
-| 2001-05-29 | [Buckhannon Board & Care Home, Inc. v. West Virginia Department of Health and Human Resources, No. 99-1848.](../records/Buckhannon_Board_and_Care_Home_v_West_Virginia_merits_2001-05-29.md) | `57b7e0a388b6aa5306791f2dd3f07f453c47832d707323c405615e5f13122332` |
+| 2001-05-29 | [Buckhannon Board & Care Home, Inc. v. West Virginia Department of Health and Human Resources, No. 99-1848.](../records/Buckhannon_Board_and_Care_Home_v_West_Virginia_merits_2001-05-29.md) | `18bf35232a7eb9501060d74aa3dada62fa478cc620b47fafc64638a1903d203a` |
 | 2001-05-29 | [Harris v. Garner; Eleventh Circuit No. 98-8899, 216 F.3d 970. No Supreme Court docket was supplied.](../records/Harris_v_Garner_merits_2001-05-29.md) | `c06cf3e501ba6696336aad44422fd0403e1e079cca8278cf6841d2f4b72d07c4` |
 | 2001-05-29 | [NLRB v. Kentucky River Community Care, Inc., No. 99-1815.](../records/NLRB_v_Kentucky_River_Community_Care_merits_2001-05-29.md) | `ccf8a518aa5f839cd9c997f1e4ecd286a4abaa766567565bed451207aa2333e1` |
 | 2001-05-29 | [New Hampshire v. Maine; No. 130, Original.](../records/new_hampshire_v_maine_merits_2001-05-29.md) | `7d3c774b14e547e1b8b24ac0bf52069506562cc9a55a634c13ce9e2b0c0aa46f` |
@@ -182,10 +182,10 @@ The authoritative set is the current audited Record set listed above. This publi
 | Chunk | Events | Public render | SHA-256 |
 |---|---:|---|---|
 | 1 | 12 | [OT_2000CHUNK1](../output/OT_2000CHUNK1.md) | `c9d4183a710fa7bc8e37dfac02f084a798d8fb53dc6d4dbd09b978d3c2bb4330` |
-| 2 | 15 | [OT_2000CHUNK2](../output/OT_2000CHUNK2.md) | `131f294bb82fa3cbce4d14640a83ff25421b0a66c396009103a43097a4909ba3` |
+| 2 | 15 | [OT_2000CHUNK2](../output/OT_2000CHUNK2.md) | `cbe96fae76241cf91ee402d83db978b2c6e8b9a7355ff96ca97d0963a7efd362` |
 | 3 | 14 | [OT_2000CHUNK3](../output/OT_2000CHUNK3.md) | `8d00efcbfc6771cdcc9ac52557426003e13bb11061fbf326784faa42b61e2bb9` |
 | 4 | 15 | [OT_2000CHUNK4](../output/OT_2000CHUNK4.md) | `c47dc965a7fef15421c63526a8d1091a1c649040818f3f7e1bcae9119ee61647` |
-| 5 | 14 | [OT_2000CHUNK5](../output/OT_2000CHUNK5.md) | `5464c0fa352f9df09fdcf4277dda91a1c543e700777400e4ef85d6d49ff5ea6e` |
+| 5 | 14 | [OT_2000CHUNK5](../output/OT_2000CHUNK5.md) | `7d984bf631cdad646c00dd0514c45a1c72c36674c7df568ddf0ffea17cf5720a` |
 | 6 | 15 | [OT_2000CHUNK6](../output/OT_2000CHUNK6.md) | `21e7dab74917a191341e66c095bd6f6bec720961824509ed7757f8773f7206c2` |
 | 7 | 14 | [OT_2000CHUNK7](../output/OT_2000CHUNK7.md) | `33b2c302fcf074e1e6fdf029565fe71d26f804ad37190ef725f615e5595f8029` |
 | 8 | 15 | [OT_2000CHUNK8](../output/OT_2000CHUNK8.md) | `968fdab84cd728a161d31dc2c7a32969572a665795e52eaeb58bda0b1bcefabf` |
@@ -240,10 +240,10 @@ A scoped before/after SHA-256 comparison confirms that all 1,618 monitored sourc
 | [state/holdings/maritime-law.md](../../../state/holdings/maritime-law.md) | `bde82293ec35692b9a3bcb60a27c59dd0b5d3e64ed4a85e5202a23c58f7a868f` |
 | [state/holdings/property-and-economic-rights.md](../../../state/holdings/property-and-economic-rights.md) | `10cfaded1e44a94bf62670c49d8bd3fcc0ffa4e4e051b2c80038107c9d487d05` |
 | [state/holdings/tort-law.md](../../../state/holdings/tort-law.md) | `9312a442dbaf5f32be174ee2db180207edb94ca08a7eb24426dc320c0ad928e8` |
-| [terms/OT2000/INDEX.md](../INDEX.md) | `b16eb07c05628094405394a284675ff1960c43233090239bd3a61653fe4af704` |
+| [terms/OT2000/INDEX.md](../INDEX.md) | `2c2bb2d930688e7acd8ec1e53e93a03d2081a38bf42c6e2c4f9938717d53da3a` |
 | [terms/OT2000/close/CONSEQUENCES.md](CONSEQUENCES.md) | `c071b5ab1df68137f1cc5d87ccbec941c4c720cc1c5630bff58e467e6ed3efa6` |
-| [terms/OT2000/close/DEPARTURES.md](DEPARTURES.md) | `607f1d90f84735216e266e9d279c30a30fc17cbc49407abaea610a9898b2a081` |
-| [terms/OT2000/close/SEPARATE_WRITINGS.md](SEPARATE_WRITINGS.md) | `16470e94d15c03289f56c9698b9655a9e59d341e6c8991ab8e759ab6078973f7` |
+| [terms/OT2000/close/DEPARTURES.md](DEPARTURES.md) | `9b59479f87a2477034c42802c13bce6a59db15eda41ebcc6ccf9fff77b0778be` |
+| [terms/OT2000/close/SEPARATE_WRITINGS.md](SEPARATE_WRITINGS.md) | `69ef2d10e350d9f54f0ed5a2e831fd10b33d65617175b424d86f76345cad45e5` |
 
 ## Cleanup
 

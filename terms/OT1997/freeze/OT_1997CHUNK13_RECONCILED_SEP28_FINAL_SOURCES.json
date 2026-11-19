@@ -24,7 +24,7 @@
     },
     {
       "path": "terms/OT1997/freeze/OT_1997CHUNK13_COMMITMENTS_LUCAS_FINAL.md",
-      "sha256": "c49c17a97571c8b7273d14f2d536a6ab7eefe14c0a9cd121ec532310cbb9ca6f",
+      "sha256": "9165d0bb59982529c8a564dba808666334c79344f2ceddd9146dd3f79d885b89",
       "bytes": 39183
     },
     {
@@ -44,7 +44,7 @@
     },
     {
       "path": "terms/OT1997/research/chunk13-neutral-validation/LUCAS_MODEL_FINAL_REFRESH_RECEIPT.md",
-      "sha256": "3afee5316706eb29e096029bea0763254a89b27d6778565ebf284358be5652ca",
+      "sha256": "2e915125ac1cd65be2bfd080fb85c12b79b0b493250dfff74f81b3302f0834cb",
       "bytes": 5979
     },
     {
@@ -54,12 +54,12 @@
     },
     {
       "path": "terms/OT1997/freeze/OT_1997CHUNK13_COMPARATOR_VERIFICATION_SEP28_SOURCES.json",
-      "sha256": "c0acfb53e974cc653a4a089c208860028d3bd84755e96fda1a459468f6123720",
+      "sha256": "a9dc173518513813dca737d297b30c2be62accd517af3714ef4ec3a7525e3a6e",
       "bytes": 3128
     },
     {
       "path": "terms/OT1997/freeze/OT_1997CHUNK13_RECONCILED_SEP28_FINAL.md",
-      "sha256": "d7bb012bfc4ac15b9cc565c205675399d704b1f46cadcd41ae0d3e29810941b7",
+      "sha256": "2837da9d473f27b3183aa2b0a861e2347a697441627a69103a6ed47518225ea4",
       "bytes": 14815
     },
     {

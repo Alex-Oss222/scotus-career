@@ -58,7 +58,7 @@ The original draft and both initial commitment copies were read or checked witho
 |---|---|
 | Initial C commitment freeze and matching runtime copy | `20A175C210CA4B840633A6C50616A2582FC0149A47E926CF679656CEEEAA40AB` |
 | Original C commitment draft | `6C9BBB2715FE1DC52E7DDBF513EC8964F46E76C74BF3D2BA6EE1E9B9453F2329` |
-| Final nine-event earlier-public handoff | `A84A65F607CEEA3630BFD9B600687662BCCFFD9830588CB77E24BC58448E58C7` |
+| Final nine-event earlier-public handoff | `7E5AEA87D2445025E2C281A6A4B70A1BBFBA40F450E28FD5B23B4804B0EB70BD` |
 | Separate Harris Trust public handoff | `C25279215E5215445B047177042F8B2AC3E0B2DBCBC09A2289204A8F74DA897A` |
 
 **Stage result:** The full supplied earlier-effective-law review is complete, with no material change requiring affected neutral rewriting, new modeling or a replacement commitment freeze. The initial freeze's pending chronology paragraph is preserved as a truthful statement of its original status; this separate receipt closes that specific pending review. Other required stages retain their own validation duties, and this context neither reads nor certifies their work. Research cutoff remains June 26, 2000.

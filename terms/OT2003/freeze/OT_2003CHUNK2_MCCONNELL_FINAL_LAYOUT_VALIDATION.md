@@ -12,12 +12,12 @@ The original runtime/freeze `MCCONNELL_PUBLIC` and `MCCONNELL_ASSEMBLY_VALIDATIO
 
 | Artifact | SHA-256 |
 |---|---|
-| Record before layout | `d1328c5bcfa4036a1bf78c111d889e7ab78d09c20e1a1698cd20a2bf1557ccf1` |
-| Record after layout | `290bcc6551fa96c75ada51c9de63c75e32fbfa9dd92856baa2b2868fca7786f5` |
-| Final-layout public handoff | `fba1100c144e91edfa5dd9b9e3ee3b7ac723bdac34ff84c6b9b5351e76744dc3` |
-| `runtime\OT_2003CHUNK2_MCCONNELL_PUBLIC.md` (preserved) | `03c21e5a347401134af902e966efbfe4317163b107d8f82aaf78d7d2f32421e9` |
-| `runtime\OT_2003CHUNK2_MCCONNELL_ASSEMBLY_VALIDATION.md` (preserved) | `26d8643a6976080c96cccc94c8e90ea88a79c7003e98503f539ca903c3d03e57` |
-| `freeze\OT_2003CHUNK2_MCCONNELL_PUBLIC.md` (preserved) | `03c21e5a347401134af902e966efbfe4317163b107d8f82aaf78d7d2f32421e9` |
-| `freeze\OT_2003CHUNK2_MCCONNELL_ASSEMBLY_VALIDATION.md` (preserved) | `26d8643a6976080c96cccc94c8e90ea88a79c7003e98503f539ca903c3d03e57` |
+| Record before layout | `5c49bd07bfd4f086ac6cd9a797793a6f0ec23ee4dd2c47b78f149428710f7b54` |
+| Record after layout | `81a9ca6163239fd8c39fc19538cee6dc4df5b76e51b87efc8f2858501e612163` |
+| Final-layout public handoff | `c683dbe574dbaa28fac2c63a068f3b6e820915857348f3856a5b3daa458731bc` |
+| `runtime\OT_2003CHUNK2_MCCONNELL_PUBLIC.md` (preserved) | `0017ad2a4b0c22f6b466355cf117424cb6d3981d18f9133c6a976f4091ac97a3` |
+| `runtime\OT_2003CHUNK2_MCCONNELL_ASSEMBLY_VALIDATION.md` (preserved) | `d0704021dacc347d94958a1808cd409bdde79cfc7e6e8f259b8ff3f5e197e16a` |
+| `freeze\OT_2003CHUNK2_MCCONNELL_PUBLIC.md` (preserved) | `0017ad2a4b0c22f6b466355cf117424cb6d3981d18f9133c6a976f4091ac97a3` |
+| `freeze\OT_2003CHUNK2_MCCONNELL_ASSEMBLY_VALIDATION.md` (preserved) | `d0704021dacc347d94958a1808cd409bdde79cfc7e6e8f259b8ff3f5e197e16a` |
 
 **Final artifacts:** `records/mcconnell_v_federal_election_commission_merits_2003-12-10.md`; runtime/freeze `OT_2003CHUNK2_MCCONNELL_PUBLIC_FINAL_LAYOUT.md`; runtime/freeze `OT_2003CHUNK2_MCCONNELL_FINAL_LAYOUT_VALIDATION.md`.

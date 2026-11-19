@@ -6,7 +6,7 @@ The five historical June25 merits matters and Diamondstone are independently val
 
 Full lower-court opinion coverage: main validator read Diamondstone entire opinion+notes and Bauchman majority1-74; delegated clean neutral validator read Camilo-Robles, Berryman (including appended1995 opinion), Brewster in full and Bauchman separate75-145 plus all notes. All five primary raw downloads and independent CAP copies are saved in this directory. See source comparison/read receipts for actual verification scope. No second full read is falsely claimed. The seven historical Supreme Court factual accounts arrived as separately sanitized FACTS files from control; original historical opinions remained excluded.
 
-- JUNE25_HISTORICAL: terms/OT1997/freeze/OT_1997CHUNK12_NEUTRAL_JUNE25_HISTORICAL.md; SHA256 a3dfb1b468d703852c381aba1ae12be267063f03b71316073ae8b392e306a0d5
+- JUNE25_HISTORICAL: terms/OT1997/freeze/OT_1997CHUNK12_NEUTRAL_JUNE25_HISTORICAL.md; SHA256 7cde9d9f4d8fee4450fec4a404c0121c2660c65f021dd5d087ff5add6192d31a
 - DIAMONDSTONE: terms/OT1997/freeze/OT_1997CHUNK12_NEUTRAL_DIAMONDSTONE.md; SHA256 c5ce9122c7bd05ee997c3a8c9e9ae272bdecc35fb9c7b9d30f6969c87c7ccd91
 - BAUCHMAN: terms/OT1997/research/chunk12_neutral_lower/NEUTRAL_BAUCHMAN.md; SHA256 cc2656a3d329be74e98ec8b68929ed0b61e11ebdc39c4500db335b4acc012ec0
 - MONGE_ELLERTH: terms/OT1997/research/chunk12_neutral_lower/NEUTRAL_JUNE26_MONGE_ELLERTH.md; SHA256 ac130ca150d2ac1ce4c9fc5ce399e91a6c6b4917aba8a846d418ce89ab7fe2a9

@@ -53,11 +53,11 @@ SHA256 identities:
 | Artifact | SHA256 |
 |---|---|
 | COMMITMENTS_MADSEN | `fe7df1b2a81d2f4b928ce89ee3525874722e5e09334064c6a610e6612d48c2ff` |
-| NEUTRAL_VALIDATION_MADSEN | `3a1192df980f6d5dcce8288c6588caa7757181626cc13ce1f9ff4e43974e400b` |
+| NEUTRAL_VALIDATION_MADSEN | `e4c9002a2919c0a1f16e4dc63542a8b00ead46a4f06af32723ab81586e962e45` |
 | COMPARATOR_MADSEN_SCOPED | `46ae69d27ed96542cab4bf6909dd2d254ebb744994fbce2cdf2ec7f29cb42c23` |
 | Complete official-report Madsen.txt | `0b715659ac3ab3068af327cb989251a50b90c675bd588679f4100e871c3ecf87` |
-| BEFORE_JUNE30_PUBLIC | `366c635919c2fe29698707c92936046da58253728067276734149fd7f95bfbdb` |
-| TURNER_ROUTE_CLARIFIED_PUBLIC | `203f0672b05fa98932e9675a0c6a191b2a67d73cc14a051bcb9c7a4e7d4eccba` |
+| BEFORE_JUNE30_PUBLIC | `de35f85eae8bfdfa2e25b00f54a849fb5d3e5bb352de00496b961aaa93718ec3` |
+| TURNER_ROUTE_CLARIFIED_PUBLIC | `593f6606316d17f5bebdf67762d4d64e5b99cfbe70323c0b2e2a0dcef2bf47b0` |
 | RECONCILED_MADSEN | `12bae0795dbc5f6b4c0e4005a9e1ca9c810b84926dac055043e70007ef6b5648` |
 
 The receipt supplies the other neutral source hashes. The complete certified evidentiary record, full appearance transcript, video, joint appendix and every preservation-stage submission were not independently read by this role. Those limits remain in the handoff. A later proposal requiring new individual findings, precise site facts, additional granted questions, an unreported enforcement construction or a new remedy must obtain the needed source and return through the required clean stages. They are not blockers for the bounded commitments actually made.

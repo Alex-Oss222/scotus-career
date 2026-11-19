@@ -49,11 +49,11 @@ Hashes identify the copies consulted or incorporated. The original current-proje
 | `freeze/OT_2001CHUNK3_B_NEUTRAL.md` | `cc1678e44695982f0d1cdd24f63d8047b462215516afe2ad8ed2b22dc35f6efd` |
 | `freeze/OT_2001CHUNK3_B_PREPARATION.md` | `891f8d44cc3b6b0dd084d449ff3c6d85143b0b621f5bf703dc20dc6821b68556` |
 | `freeze/OT_2001CHUNK3_B_COMMITMENTS.md` | `f3d518e21a713fe319017efb21b03f3f61cc564ab0e37f39d99fce254b423989` |
-| `freeze/OT_2001CHUNK3_B_VALIDATION.md` | `1f4c1cb8207ec5d61bb9284a1ff321715d957c0e31e00ae180d6655866fca07d` |
+| `freeze/OT_2001CHUNK3_B_VALIDATION.md` | `c343dbecf2ce939166a076984dbeb3bc39a5915a7fd480d773db24fafd17a4b6` |
 | `freeze/OT_2001CHUNK3_C_NEUTRAL.md` | `083bda8c9718f2ee8f703bacc1823aa775f42c91ce427c15005553baa7663ce9` |
 | `freeze/OT_2001CHUNK3_C_PREPARATION.md` | `fbab68bfc95aa720155396ba6d7f1e221d5a8b9e1fb8505697ebe4691e5816f8` |
 | `freeze/OT_2001CHUNK3_C_COMMITMENTS.md` | `4bdf67c21434ac8392ae486a93d995726da100ca7db298077734cedcfd0936de` |
-| `entering-law/OT_2001CHUNK3_B.md` | `9ec729726afa08ff8cd8e82b0e0e75346b3d790616ea45081bb4cd54ca2652e0` |
+| `entering-law/OT_2001CHUNK3_B.md` | `35866f00c93130735518d25a8de10886efed25f1a8e969badfe10814a0864083` |
 | `entering-law/OT_2001CHUNK3_C.md` | `2b3184954f2eedcb9488d304df8920273e0a692efaf054822e6cffd287e3417b` |
 | `entering-law/OT_2001CHUNK3_BASE.md` | `3c06bca3727589af55190ef60ce9e6f10ab64e3db5321f325204340e83ee8445` |
 | `workspace/neutral-projection.md` | `8416f488f7b41591ea939f2666d292e87d7e9f77cde7cc615bfe52f2dc6f4a84` |

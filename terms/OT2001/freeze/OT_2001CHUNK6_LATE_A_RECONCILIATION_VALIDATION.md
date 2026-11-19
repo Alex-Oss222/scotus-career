@@ -37,7 +37,7 @@ These hashes identify the reading copies. Relevance-bounded entering-law review 
 | Input relative to term | SHA-256 |
 |---|---|
 | `freeze/OT_2001CHUNK6_LATE_A_COMMITMENTS.md` | `bdd0faf80db490f1921ac48518c0974c5da43bcd064d2ba6dd8eeda1a0f1943e` |
-| `freeze/OT_2001CHUNK6_LATE_A_MODEL_VALIDATION.md` | `1bcb44531d5b0729e14ebbb8d7d651be9f973c083e01e43cb69b5bc31baa7e12` |
+| `freeze/OT_2001CHUNK6_LATE_A_MODEL_VALIDATION.md` | `9de5ad1d92e3c8eab42b490ea25efdcdf33b2681841eb13ca50879dd0a678898` |
 | `freeze/OT_2001CHUNK6_A_LATE_NEUTRAL.md` | `e69cd533364ff395074a991358c2c2239ee5ae12009b3b33969ca9e1e9fb5a43` |
 | `freeze/OT_2001CHUNK6_FRANCONIA_VALIDATED_NEUTRAL.md` | `e2c3b669fcb2f5ec8b0aaa897a29b3db12c15255dbfaeda4d3655e9e54e478a3` |
 | `freeze/OT_2001CHUNK6_FRANCONIA_SOURCE_EXTRACT.md` | `a63a53e2ab558f27a03915a0d9700b931be1d316ca0f927ed83ba666c05540ab` |
@@ -47,8 +47,8 @@ These hashes identify the reading copies. Relevance-bounded entering-law review 
 | `entering-law/OT_2001CHUNK6_A_CURRENT.md` | `153ff5b2c0d8805534777839dfcb7ead8996ffd803ad56028e7208142d56bf6a` |
 | `entering-law/OT_2001CHUNK6_A_PUBLIC_POSITIONS.md` | `b293546b2fc132d68bf879067cc42521a7495cbe5eff8c93abb7612abc6c79c4` |
 | `entering-law/OT_2001CHUNK6_B.md` | `c51c55a9b6e637cb52ae0361deb3048943b20db8e80ca87aed609b89ce7187d2` |
-| `entering-law/OT_2001CHUNK6_B_HOLDINGS.md` | `6058a16d021e27852e390f07fc90b83dcce38b008681dc368dad8da02d39c28c` |
-| `entering-law/OT_2001CHUNK6_B_CURRENT_LAW.md` | `5818f582254b80972e9b2061b997010be71180f310c73ecbd8c109a53a19bdb5` |
+| `entering-law/OT_2001CHUNK6_B_HOLDINGS.md` | `895f8f778958cada14f9bef4271600da9d6fc8ce00b74ce30e6b9153e416dfdc` |
+| `entering-law/OT_2001CHUNK6_B_CURRENT_LAW.md` | `be19fca6f5a5a02d44f054e6774c0303c9ceba814daebd8c63d00920041f14c4` |
 | `entering-law/OT_2001CHUNK6_B_FRANCONIA_PRIOR_PUBLIC.md` | `2d80df43b652d18f79346d2c18e86d1b9c2e2b0fb3a157a5ef4703480637ecd6` |
 | `sources/chunk6-comparator/echazabal_00-1406.ZS.txt` | `abc0762637420d2f1d36606be13d5e8474f2ebf49bf553e799a9099b1128fedb` |
 | `sources/chunk6-comparator/echazabal_00-1406.ZO.txt` | `4f063d025e216c5546c22d1b72f62e76f01c709698a9d8c09a97b3caa9fb4cc9` |

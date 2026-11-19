@@ -8,7 +8,7 @@
 
 The final clean neutral packet was received only after its fresh neutral validation. The modeling context read the applicable Engine rules while waiting, then received the authorized packet, validation and entering-law slice. Dorsainvil and A-732 were modeled in that context. Bird and Carriger were delegated to separate fresh contexts with no inherited conversational history, the same source exclusions and the same final neutral packet. Both delegates supplied new per-Justice/component analyses and boundary receipts; their full final artifacts were read and reviewed before aggregation.
 
-The original final packet hash remains `b93ae93f03275931d70fcb7fb860a803bc09c3ca90aed16f506981018970984c`. The entering-law slice hash remains `496b844a176f4ceac43f632414501ba6dc9ae8a1d9fc43005aaf6fe75500c972`. No neutral source was rewritten by this modeling stage.
+The original final packet hash remains `b93ae93f03275931d70fcb7fb860a803bc09c3ca90aed16f506981018970984c`. The entering-law slice hash remains `97905c38ea6436d498ba2acc5c443d1c7eedd579d766f9fd78071fb2a3d0c837`. No neutral source was rewritten by this modeling stage.
 
 The only supplemental input was the exact prior public Lindh entry requested for Scalia's authored dissent and Kennedy's and Thomas's joins. The [fresh narrow validation](OT_1997CHUNK6_RESUMED_LINDH_VALIDATION.md) confirms that this supplies personal-writing detail, changes neither current law nor the neutral factual premise, and needs no replacement of the original packet. Carriger's final receipt records that the added detail changes no selected commitment. The three Associates' sufficient ground still rejects the gateway under the former-law assumption while reserving a necessary capital-transition ruling. The supplemental entry's SHA-256 is `aef1dd8413eccc54de785d8b0a8c57a8b5bb1faf2713f53102651ee590503f2f`; its validation's hash is `e2ce7ce2590f2147c8d4ca0acdb96a932324cebf8152921e90d886a4217cc1bb`.
 
@@ -41,10 +41,10 @@ The first mechanical aggregate had SHA-256 `1bc015a76b3d0f758a5bca108d639c7b7c41
 |---|---|
 | [Dorsainvil](OT_1997CHUNK6_RESUMED_DORSAINVIL_INDEPENDENT.md) | `024fab5ac59f43443b0bd6569a52a4a64ea30496681f3f8bf2e4c688b79f41e3` |
 | [Bird](OT_1997CHUNK6_RESUMED_BIRD_INDEPENDENT.md) | `f7b2eedb7248f36eadef7f854d04eb20d80a39205452e038806b4592ab200f0e` |
-| [A-732](OT_1997CHUNK6_RESUMED_A732_INDEPENDENT.md) | `199a79ee71f829c05afed5c3e2f2ef41f8ca0331dc3bf1af108b75789d0c0373` |
-| [Carriger](OT_1997CHUNK6_RESUMED_CARRIGER_INDEPENDENT.md) | `cebb41e9b7ea3c70f6fdeb88c0d95f084df3ff279e83ac4bdd69cc137744c686` |
-| [Carriger acquisition clarification](OT_1997CHUNK6_RESUMED_CARRIGER_ACQUISITION_CHECK.md) | `6ebacf6dd2cb2903bf3c9e06591d16c8c9652fa3c2538f5914da47408b0486bd` |
-| [Frozen aggregate](OT_1997CHUNK6_RESUMED_COMMITMENTS.md) | `a5afad9e46f1e5674fc4bc73575004189379df0fe05dfd25aea15bf5304393ac` |
+| [A-732](OT_1997CHUNK6_RESUMED_A732_INDEPENDENT.md) | `0acdc0a84a1db101b7da9c997f9489512061c1ca6db4e057d86609dd408f185d` |
+| [Carriger](OT_1997CHUNK6_RESUMED_CARRIGER_INDEPENDENT.md) | `732d3132964d1ee717efff12c2783fd04e304aef42bbfce890a667ed0f2bf3ca` |
+| [Carriger acquisition clarification](OT_1997CHUNK6_RESUMED_CARRIGER_ACQUISITION_CHECK.md) | `90d53c019210ffbaba9cc53c07d9d9977ac1e826b3af0d624f5a817057605cee` |
+| [Frozen aggregate](OT_1997CHUNK6_RESUMED_COMMITMENTS.md) | `44f9817046443aa5c62b92fbbce2f06e6216c43f15be9da4de98ae876beae98d` |
 
 ## Isolation and readiness
 

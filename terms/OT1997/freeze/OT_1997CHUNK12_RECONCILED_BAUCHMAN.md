@@ -11,10 +11,10 @@ The context received only the authorized frozen neutral packet and June 26 refre
 
 | Frozen input | SHA-256 |
 |---|---|
-| `OT_1997CHUNK12_NEUTRAL_BAUCHMAN_JUNE26.md` | `61ABCF1AE9D6FEE8418187323477A89007E516FC8CC9F027092E4ED5CAE6711A` |
-| `OT_1997CHUNK12_COMMITMENTS_BAUCHMAN.md` | `26FDCE3A3CEED923258351FA0F567BFCC439F03B57F5D9A4408B56DB0AB10A17` |
+| `OT_1997CHUNK12_NEUTRAL_BAUCHMAN_JUNE26.md` | `FAD9D7029A4EAE1A0857A34528A0FA40C8A22666A23A67AA169228DC61C6DD83` |
+| `OT_1997CHUNK12_COMMITMENTS_BAUCHMAN.md` | `7210280E5E602F4B32151903927D5E9137BC770DA3BBDB8505E3A1206E035E67` |
 | `OT_1997CHUNK12_COMPARATOR_BAUCHMAN.md` | `19B9EA725A30EC6556DAFD3808BBAD7399E75AD9F894820A1D6C47BF1B5B87B9` |
-| `../entering-law/OT_1997CHUNK12_BEFORE_1998-06-26.md` | `B4A68F40AD441881FED9A6A9FDA308D1D8C795E3543F97030043085EEE871965` |
+| `../entering-law/OT_1997CHUNK12_BEFORE_1998-06-26.md` | `8B786BB4F1F7DC58E5E574F86E974FC1E4FBF4F890712CC07707B9BF32914C53` |
 
 The complete Brorby opinion, Murphy separate opinion, and both sets of notes were read from `../research/chunk12_neutral_lower/bauchman.txt`, SHA-256 `3F4DF4CAC5DC13B1D0B9E07CCABFE3303AE267B247D805593735A430ADD4FE2A`. This is the [Public.Resource.Org reporter copy](https://law.resource.org/pub/us/case/reporter/F3/132/132.F3d.542.95-4084.96-4101.html). The [CAP reporter copy](https://static.case.law/f3d/132/html/0542-01.html), saved as `bauchman_cap.txt`, SHA-256 `18DD28B5B0EB553C49524B64CE7B513EC0F4C44915289C76004C807358175776`, was cross-checked for the original/amended distinction, harassment account, unchanged speech/exercise amendments, unaddressed timeliness, and separate notes 10–11. A second complete CAP reading is not claimed. The separate neutral reading receipt remains unchanged. No original pleading, affidavit or transcript recovery is claimed.
 

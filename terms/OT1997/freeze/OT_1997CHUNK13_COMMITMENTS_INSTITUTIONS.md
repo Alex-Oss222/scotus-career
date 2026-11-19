@@ -102,8 +102,8 @@ Prepared neutral receipts: `154_PREPARATION_INSTITUTIONS.md` and `155_PREPARATIO
 
 ## Frozen handoff identity
 
-Neutral packet: `terms/OT1997/freeze/OT_1997CHUNK13_NEUTRAL_INSTITUTIONS.md`; SHA256 `09548ca05e105d051519652a5b5593b455417946eaab77e0a1f201f407e6dcdc`.
+Neutral packet: `terms/OT1997/freeze/OT_1997CHUNK13_NEUTRAL_INSTITUTIONS.md`; SHA256 `148deac4b247a779905d1e78e7ba2e5f47cbf384bda56bfd0b0f9520302d6e6b`.
 
-Source/preparation receipt: `terms/OT1997/freeze/OT_1997CHUNK13_INSTITUTIONS_SOURCE_RECEIPT.md`; SHA256 `9915121382abbe8b27ae4d1ecd5ca6d94106a54d5127335fc4955bb113265d7a`.
+Source/preparation receipt: `terms/OT1997/freeze/OT_1997CHUNK13_INSTITUTIONS_SOURCE_RECEIPT.md`; SHA256 `d15199f76fdf2a3ab3eb04d0cb855c807f112fafd3a483ee94dea31d69f957a5`.
 
 Substantive conclusions mechanically copied from `terms/OT1997/runtime/chunk13-neutral/COMMITMENTS_INSTITUTIONS.draft.md`; source SHA256 `39b94496897a4b8f2dbe24340229c25cf03b378cb896d87fbc8fbbe5ed1ac986`. Status wording and these handoff identities are the only freeze additions.

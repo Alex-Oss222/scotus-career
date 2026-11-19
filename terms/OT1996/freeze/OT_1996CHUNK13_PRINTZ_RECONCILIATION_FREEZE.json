@@ -1,7 +1,7 @@
 {
   "stage": "PRINTZ historical reconciliation",
   "artifact": "terms/OT1996/freeze/OT_1996CHUNK13_PRINTZ_RECONCILED.md",
-  "sha256": "0a122a8807c4247d5883eb89ae533d771220ed3ef99955856818a0b08f54e797",
+  "sha256": "33b1cd0d584b69abaeb34657069f7fe35721e8a3187055d64fd7ef1ed7800d9a",
   "context": "chunk13_reconcile_b",
   "next_context": "chunk13_assemble_medical",
   "durability": "file preserved before the next isolated stage; operator Git commit pending",

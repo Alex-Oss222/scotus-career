@@ -1,5 +1,5 @@
 {
-  "snapshot_sha256": "5157eff22e740afdb340a9e2dfa7b8463fcce34d526cc030302330fb9d61f186",
+  "snapshot_sha256": "debe0429d2b2e5c85dd8ebce1aae55d78ad2f9edfdd91899bfaa77f0042a3fe4",
   "slice_sha256": "7b5f6a88c77b191b08e9ecad611039171f8abf99b343be4e2ff42eba05491b91",
   "public_copies": [
     {
@@ -304,7 +304,7 @@
     },
     {
       "file": "Seminole_Tribe_of_Florida_v_Florida_merits_1996-03-27.md",
-      "sha256": "5298483bf9b31a9fc6ba09accd150d174734401d4556f6330d254c02fb2a317b",
+      "sha256": "bba5e148786e5bd0db8f0947aae8c25d8b8007011824600bb5c11a394902ce82",
       "complete_public_text_in_prior_snapshot": false
     },
     {

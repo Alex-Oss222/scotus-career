@@ -158,7 +158,7 @@ Eight Associates accounted for. Interior-checkpoint setting, limited grant, bag 
 
 ## GILLESPIE
 
-Frozen source: [OT_1999CHUNK5_GILLESPIE_COMMITMENTS.md](OT_1999CHUNK5_GILLESPIE_COMMITMENTS.md). SHA-256: `cb1adba022bc0d19e199b3126e2a70778825f1867982086834bf0dbcae0d57a9`.
+Frozen source: [OT_1999CHUNK5_GILLESPIE_COMMITMENTS.md](OT_1999CHUNK5_GILLESPIE_COMMITMENTS.md). SHA-256: `9d05c2acd03d59e26f653593e69366aebae9d5711d165124aaa2c7f2ae8f6b6f`.
 
 ## Gillespie v. City of Indianapolis — independent non-Stone commitments
 

@@ -4,7 +4,7 @@ This aggregate is a mechanical copy of the identified immutable stage handoffs. 
 
 ## Stage source: OT_2001CHUNK2_EARLY_RECONCILED.md
 
-Content digest (SHA-256): af22fc50e251c1c504d6b85cc37d21ae0e1f68e2518ec95c7447d4c294c3a485
+Content digest (SHA-256): 580dde91c3f03effa4f64749a2a106b5d0e292d6a5887bedbbe823aea5dc2feb
 
 # OT2001 chunk 2 — early reconciled aggregate
 
@@ -683,7 +683,7 @@ Remaining factual work consists of the actual browser-market balance, the positi
 
 ## Stage source: OT_2001CHUNK2_LATE_RECONCILED.md
 
-Content digest (SHA-256): 7bcd5f375815afe2abf6741b256c03f476514ab8f273f3a7c657a3ef0429907c
+Content digest (SHA-256): acefdb6e50e6d0098a756f11ba34873427c40a117495ee17055c234f49ab0788
 
 # OT2001 chunk 2 — Late historical reconciliation, cases 27–32
 

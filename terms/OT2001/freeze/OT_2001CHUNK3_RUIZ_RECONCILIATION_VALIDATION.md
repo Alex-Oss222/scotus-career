@@ -2,7 +2,7 @@
 
 **Event and cutoff:** Supplied March 4, 2002 review of the March 20, revised March 22, 2001 Fifth Circuit judgment. Current-term law is limited to the authorized through-February-27 public projection. No historical Supreme Court argument date or merits vote is established.
 
-**Result:** All eight fresh Associate commitments retained. No vote, substantive ground or remedy correction, no new modeling premise and no unresolved source blocker for the selected legal review. [Final reconciliation](OT_2001CHUNK3_RUIZ_RECONCILED.md) is frozen with a byte-identical runtime copy. Its SHA-256 is `e20710fa7215f088f89a34380338f207227e44a1e4061a1d04b9eecc3f18f1de`; its size is 14588 bytes.
+**Result:** All eight fresh Associate commitments retained. No vote, substantive ground or remedy correction, no new modeling premise and no unresolved source blocker for the selected legal review. [Final reconciliation](OT_2001CHUNK3_RUIZ_RECONCILED.md) is frozen with a byte-identical runtime copy. Its SHA-256 is `6451e3c96832031ced6e0a4e9b750475a0f93cc3891b71fe319b2c974716667b`; its size is 14588 bytes.
 
 ## Boundary and inputs
 
@@ -40,6 +40,6 @@ Hashes below are SHA-256 of raw saved bytes. The preflight's earlier text hashes
 | [sources/ruiz-march-official-crosscheck.pdf](sources/ruiz-march-official-crosscheck.pdf) | 96948 | `7ebb2526533058399f0b89837eefdcdc5889c129c18dc8ba3a5ef56d4fded5cd` |
 | [sources/ruiz-march-official-crosscheck.txt](sources/ruiz-march-official-crosscheck.txt) | 43507 | `59b3eb9f81ee9db8c52b7a517155c3af1378fa29b2b7fcdf0ecd5cb6e1a31170` |
 
-The independent commitment freeze remains 29423 bytes, SHA-256 `66e64e9ee5ab720304fa4e9c3601c76bc171010057478188fe36a1d84cb4e543`. Its bytes were checked unchanged after this write. The final handoff contains exactly eight named final rows in roster order; its runtime copy is byte-identical. Authored output was checked for prohibited service names and machine-specific links. No long source passage was retyped: the new reconciliation is analytical prose; the existing preflight and source texts retain mechanically copied exact passages.
+The independent commitment freeze remains 29423 bytes, SHA-256 `76c59a4cb5015935f3e54f170e1bc6d2737b64758b61cfe9d4bd0243c4a8e7af`. Its bytes were checked unchanged after this write. The final handoff contains exactly eight named final rows in roster order; its runtime copy is byte-identical. Authored output was checked for prohibited service names and machine-specific links. No long source passage was retyped: the new reconciliation is analytical prose; the existing preflight and source texts retain mechanically copied exact passages.
 
 **Remaining work:** Assembly's Chief Justice compatibility, final opinion topology and assignments, Canonical Decision Record and term integration. This receipt does not represent those later checks as completed.

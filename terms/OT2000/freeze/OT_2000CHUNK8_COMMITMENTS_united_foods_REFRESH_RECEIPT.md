@@ -41,7 +41,7 @@ The unchanged objective/statutory/entering-law opening of the original commitmen
 | `entering-law/OT_2000CHUNK8_B_SPEECH.md` | `a148ab686130babaffc6d77b9059cf501e6c776a6eb5d9628254ebdb5fbed729` |
 | `entering-law/OT_2000CHUNK8_B_PRESERVATION.md` | `81f96b0970fbde9a47972c05ad1a1dbfad5d8464c6e6a9df5c23790552969f17` |
 | `entering-law/OT_2000CHUNK8_B_PRIOR_PUBLIC.md` | `ba8a2b11af535ddf92fdaaa4fc5812f4a99399a6004dc430ae4fdd1fb4536fd6` |
-| `entering-law/OT_2000CHUNK8_B_STANDARDS.md` | `e2cd88e6218311a0ea73dfbaf58a591ed1a6b4169d3ecd411f2a0f157506ea2a` |
+| `entering-law/OT_2000CHUNK8_B_STANDARDS.md` | `0d4e807b1a3c0210dcc025341ddc70b2ac3b908fe743cbfc930082ce9957d74d` |
 | `entering-law/OT_2000CHUNK8_B_STATUTES.md` | `ecc3771082612ce72fbe6071be4991bafa76aca881757ec2e4de166dcaa44c68` |
 | `entering-law/OT_2000CHUNK8_B_FOODS_PUBLIC_SUPPLEMENT.md` | `e68c231b60ad2beebe05604371a3ba8ff9225a89d597b22333e7e88d581ecf33` |
 | `entering-law/OT_2000CHUNK8_B_KELLER_SOURCE.md` | `e6c23399a772d4af35000265ffb5dc2124b944b735565cc7aa7a1a97b39e6dff` |

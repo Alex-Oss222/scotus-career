@@ -64,7 +64,7 @@
   },
   {
     "source": "terms/OT1996/output/OT_1996CHUNK13.md",
-    "source_sha256": "8c921a0539e40bb75304619c2f3f15d0b111d0a2a3aed0d94e1e60c276e185be",
+    "source_sha256": "378c25856bec92c423a7b21cb9fafd863211eace68b7e2e3164f9a2c7ea9e75e",
     "entry_heading": "### Printz v. United States",
     "selected_sections": [
       "Opinion Topology",
@@ -73,6 +73,6 @@
   },
   {
     "output": "terms/OT2000/entering-law/OT_2000CHUNK2_MIDDLE_PUBLIC_POSITIONS.md",
-    "sha256": "2b94b941d2a2776a57ab472ccfda3c4f6b9302a6bf0733fd3b280fae38886a79"
+    "sha256": "8568307a25594e828f224160299f8c94543e0930ca511f56f513eb30581c9f06"
   }
 ]

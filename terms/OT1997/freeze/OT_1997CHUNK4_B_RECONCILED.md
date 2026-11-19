@@ -279,7 +279,7 @@ O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer would affirm the 
 ## Reconciliation source and integrity receipt
 
 - `freeze/OT_1997CHUNK4_MODEL_B_NEUTRAL.md`: SHA-256 `63729b9714efa69fe0bfd7b06b4fba7492fbfe06d4f04d5ac132b21e13607334`.
-- `freeze/OT_1997CHUNK4_B_COMMITMENTS.md`: SHA-256 `488f555ae40c8f4ddb5c8404c3227d4d9fb9c502e24b6abbf25d3f3a692c2db5`.
+- `freeze/OT_1997CHUNK4_B_COMMITMENTS.md`: SHA-256 `29948191f51abdac746a652c7f05026827172f765e95c34f786942b2417a3733`.
 - `runtime/OT_1997CHUNK4_B_COMPARATOR.md`: SHA-256 `03314d87863f5b396333b3e86a6411c3b6ea9af3a7e42f502ad360b4382526b4`.
 - `research/chunk4_lower/SHAHAR_NEUTRAL_FACTS.md`: SHA-256 `1cfdeb61b1a6643e43503eca7bdd505924555f96d9ffe8de0de5f1d85db17590`.
 - `research/chunk4_lower/aponte_opinion.txt`: SHA-256 `002254bed75fc4966161c495aa650da7d4f5614e5bc2e9e3961da4060dbdb90a`.
