@@ -5,7 +5,7 @@
   },
   {
     "file": "entering-law/OT_2002CHUNK9_A_OPENING.md",
-    "sha256": "b1585a900391e7102d5db750765ecc8f23313d426bf33deb8b6f3a2c5c305171"
+    "sha256": "27ad54043ad2757338cd7817c49812272864d174dd4368746e57b25148d4b09c"
   },
   {
     "file": "entering-law/OT_2002CHUNK9_A_PUBLIC_BEFORE_2003-04-23.md",
@@ -33,7 +33,7 @@
   },
   {
     "file": "entering-law/OT_2002CHUNK9_B_OPENING.md",
-    "sha256": "6bf4280c07bf021db4ad8fac137e6288bc060cdc8d8e4190febbfd77b12b92aa"
+    "sha256": "8e394394bedd79a6a990896e145e49cd8e09370f9337ef487e7d996371339075"
   },
   {
     "file": "entering-law/OT_2002CHUNK9_B_PRIOR_PUBLIC.md",
@@ -41,7 +41,7 @@
   },
   {
     "file": "entering-law/OT_2002CHUNK9_B_SELECTED.md",
-    "sha256": "ea2f9d61af2d5c8de0d26119c0f7059141e2d29ba265b5f6cbc4b21f331deefa"
+    "sha256": "b9223dafd041c701a2f58f229901816a08eb6a079a21134b36dae80545103b89"
   },
   {
     "file": "entering-law/OT_2002CHUNK9_B_TEXTS.md",
@@ -65,7 +65,7 @@
   },
   {
     "file": "entering-law/OT_2002CHUNK9_C_OPENING.md",
-    "sha256": "311effdab0cd59be5597ded78bf52a5e8754e36b99ec6b4f95755adc6d8218c8"
+    "sha256": "1313ffe593012bc2a2029f1fa02bcd8982335aaf5f84424cbd0e640fd26af3b7"
   },
   {
     "file": "entering-law/OT_2002CHUNK9_C_PRIOR_PUBLIC.md",
@@ -93,23 +93,23 @@
   },
   {
     "file": "entering-law/OT_2002CHUNK9_PUBLIC_BEFORE_2003-04-23.md",
-    "sha256": "e9c743233102b89330bbc89d0ed92965fe55e7862a9f33ce50a7b54c895fa839"
+    "sha256": "53319f2d99b7b3302c1ea49e201a8324b2259a3b9838b6e9ba98308471439820"
   },
   {
     "file": "entering-law/OT_2002CHUNK9_PUBLIC_BEFORE_2003-04-29.md",
-    "sha256": "163580a62c0200ad9c447a27e76cfddb3f3b02905730b1858e615bb468b84052"
+    "sha256": "2b38be500a9acd854f0dbd81157626f5338446087410e84422c392037b863d05"
   },
   {
     "file": "entering-law/OT_2002CHUNK9_PUBLIC_BEFORE_2003-05-05.md",
-    "sha256": "f1de4d8d761cbbb07650e4c16b8f67329eb32df7cff9bd6e5d092da796fa7a3f"
+    "sha256": "02593e6629488201ee7efbfb7045e710d00f6790a2d2199ac763922d8d532c68"
   },
   {
     "file": "entering-law/OT_2002CHUNK9_PUBLIC_BEFORE_2003-05-19.md",
-    "sha256": "edda78edad1349d5b50a026672e62ff12c7cc2aa315bda81bdfc77cc33f3b784"
+    "sha256": "b0b68a9f6c154e5b7db6d8c76e9e3a44467222835a1a7ffe2a457d20320e80f7"
   },
   {
     "file": "entering-law/OT_2002CHUNK9_PUBLIC_BEFORE_2003-06-02.md",
-    "sha256": "a04d8c73ea4b4eed5f50e2507e13a7abe8818f3fd93f415c520a748fa0b97d28"
+    "sha256": "bb0344b0ab88fcacd9da34230295f2bf9a3011134814e3a91c064f532791dd95"
   },
   {
     "file": "freeze/OT_2002CHUNK9_A_SCOPED_COMPARATOR.md",

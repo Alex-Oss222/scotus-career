@@ -284,13 +284,13 @@ The six support sentencing-only reversal and implementation of a conforming cond
 
 ## DOE
 
-Frozen source: [OT_1999CHUNK5_DOE_RECONCILED.md](OT_1999CHUNK5_DOE_RECONCILED.md). SHA-256: `3d7b8481eeb07ad8746762e79613c70506b6ca805b687b343c61857e759495e0`.
+Frozen source: [OT_1999CHUNK5_DOE_RECONCILED.md](OT_1999CHUNK5_DOE_RECONCILED.md). SHA-256: `76e18b70e4648451b670e2748ac3c3d372296eadb0a7aac25444c07310838d72`.
 
 ## Doe v. Rosenberg — reconciled non-Stone commitments
 
 **Stage and cutoff:** Historical reconciliation; April 24, 2000. No Stone supplement, combined brief, private position or raw Record was read. This is an internal handoff and selects no author.
 
-**Frozen base retained:** Incorporate `../freeze/OT_1999CHUNK5_DOE_COMMITMENTS.md` in full, SHA-256 `ec19ebdb97f1ba2232ab3e6c70442fbb848c0e1ece16abdbd14420e7862900a1`. Every Associate's two-component affirmance, substantive ground, adverse-path comparison and join qualification is unchanged.
+**Frozen base retained:** Incorporate `../freeze/OT_1999CHUNK5_DOE_COMMITMENTS.md` in full, SHA-256 `2e7c3b3d2551404c7fd4fed2e76a977a9c3e6c655ac91e3fc0d360aaac4b81d8`. Every Associate's two-component affirmance, substantive ground, adverse-path comparison and join qualification is unchanged.
 
 ### Lower-only historical anchor
 

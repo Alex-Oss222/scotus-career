@@ -60,6 +60,6 @@ The following hashes identify the complete input files; the substantive reading 
 | `terms/OT2000/entering-law/OT_2000CHUNK4_EFFECTIVE_BEFORE_2001-04-02_FINAL.md` | `d0647790e6a619d5250d71bbf5b01d97b0951a75b3d3369acf9f354af42e9d19` |
 | `terms/OT2000/runtime/OT_2000CHUNK4_NEUTRAL_LATER.md` | `04c88fa85b66636353b10e0e4d73520d3766d3495ffb2df29e62a00b5ef1372f` |
 | `terms/OT2000/freeze/OT_2000CHUNK4_LATER_NEUTRAL_PREFLIGHT.md` | `b76a64276cfebee4abd7bd04fa8a453b10cbb766197741af8acaab0f1ed7a498` |
-| `terms/OT2000/entering-law/OT_2000CHUNK4_LATER_FOCUS.md` | `b57895103bf859c51217dd8baa49543d050eaab02526e86e4054cc732904bfd0` |
+| `terms/OT2000/entering-law/OT_2000CHUNK4_LATER_FOCUS.md` | `e1030e825f950de3544d429aad9be1664bfc83ab1545c8474c09dceb424f97d8` |
 | `terms/OT2000/entering-law/OT_2000CHUNK4_LATER_CURRENT.md` | `39c784dc81e45c1a52be5aba6b6dfa96c0fc0f9ba3ceb32c66486eaec373a50c` |
 | `tmp/ot2000-later-neutral/wallis.txt` | `c690c176caf7a799aac7359ffbbb14003c084abb00c137b08796897d1cb66391` |

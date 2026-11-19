@@ -64,10 +64,10 @@
     }
   ],
   "workspace": {
-    "continuity.md": "07f45544bca29d1b8237ed0e2bdb749bccc63f9909ef1773277d4f32edcfd93f",
-    "ledger.md": "b5446fb5e5ebf7b26d286da6965ee8e55c2e4f3f6df8e98f1e8e52300d0721be",
-    "manifest.md": "2ec8c88048dacd0c962f87b7e32d02f4d32697f087151557ff554004b141f5d9",
-    "neutral-projection.md": "d6be9e3220ded91053b69136b05da50ffe50e8c2614e0f62907fdf1dafb7ac96"
+    "continuity.md": "8117da0487eade49acd410168ec1f8cf50b56fa711cea7fa6c62674d4148a21e",
+    "ledger.md": "55f1f8d2de687e51d60936600f5a0162145c7bba8b91f94bdfd3bce09bbb8ca0",
+    "manifest.md": "1ecfd16c3e97a770f7ef37b103191e4acb1c94c50bc4f171a132ad50d5524622",
+    "neutral-projection.md": "960a08ba7b1168d0e96a48bbc1382dc0c130c0c0dd97539593209c9b3eaa7739"
   },
   "render_input_sha256": "852057174affe9bb84481f3c07aca91ac64405a9ddbceb9c3b00a2854cb28c77",
   "new_current_law_copies": 6,

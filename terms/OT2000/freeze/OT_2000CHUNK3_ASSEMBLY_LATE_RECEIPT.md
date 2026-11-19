@@ -6,9 +6,9 @@ Completed Klamath on March 5, then Reiner and Hilario on March 19. Shafer remain
 
 | Event | Result and opinion | SHA-256 |
 |---|---|---|
-| Department of the Interior v. Klamath Water Users Protective Association, 2001-03-05 | Affirmed 9–0; O'Connor signed lead; all nine full joins | `ae858228360d8db4d92807c1a960b510513767afe17be0a086fdc2dd2565c1cd` |
-| Ohio v. Reiner, 2001-03-19 | Reasoned per curiam grant, reversal and remand; public tally and joins undisclosed | `1a5a2311e98cddfd1fa16dd5529e2546aa73505de3a96c74ec7dfb6ae169864d` |
-| United States v. Hilario, 2001-03-19 | Affirmed 9–0; Breyer signed lead; exact Stone and Souter partial joins, Souter concurrence | `6b726cbb23ca5a8f616bdf142a7195c38b480e2bba8641701a0e6368c7353d64` |
+| Department of the Interior v. Klamath Water Users Protective Association, 2001-03-05 | Affirmed 9–0; O'Connor signed lead; all nine full joins | `906d6c3db1b2ff6d5ac3e4839521a1f510d9b66c8e260e02dacb1401773b7fec` |
+| Ohio v. Reiner, 2001-03-19 | Reasoned per curiam grant, reversal and remand; public tally and joins undisclosed | `160c2b7c0eb67cf1dc6940e4dcad04beaeb1c33e41dcddebaaaf5aa3de5be578` |
+| United States v. Hilario, 2001-03-19 | Affirmed 9–0; Breyer signed lead; exact Stone and Souter partial joins, Souter concurrence | `cb98caac8d73ca7c6bebc437e6d5af08814cb7c9a8020b3fc1b9fa9a170a68d2` |
 
 Each Record begins with the exact four labels, copies its actual approved Stone supplement by script, retains the frozen individual reconciliation and carries exactly eleven Public Projection blocks. Internal and projected Holdings are identical. All ordinary controlling explanations satisfy the 350-word ceiling. The validator outputs and exact source-copy checks are preserved in [the validation receipt](OT_2000CHUNK3_ASSEMBLY_LATE_VALIDATION.json).
 
@@ -45,8 +45,8 @@ Exact research cutoffs: Klamath 2001-03-05; Reiner and Hilario 2001-03-19. Sourc
 | `terms/OT2000/freeze/OT_2000CHUNK3_REINER_STONE_CERT.md` | `6ac3abe26ddde1c69b009ebf5b0845aa7cd704d754d6926772984f60a0039855` |
 | `terms/OT2000/freeze/OT_2000CHUNK3_GRANTED_MERITS_SUBMISSION_PREMISE.md` | `2ed7368155aa9930c961db4550695b0595a598eedd78994eae28bb8bcc022e39` |
 | `terms/OT2000/freeze/OT_2000CHUNK3_SHAFER_STONE_REVALIDATION.md` | `29875e7553b5cdebb208ecf47a4d7a95edf2c64247579a3248ab99b32b83d4de` |
-| `terms/OT2000/entering-law/OT_2000CHUNK3_EFFECTIVE_BEFORE_2001-03-05.md` | `3d6992d89f782affb461b87ee10db39d99a35ed34230ed29cbb85bdc3f217618` |
-| `terms/OT2000/entering-law/OT_2000CHUNK3_EFFECTIVE_BEFORE_2001-03-19.md` | `3f2caaee253d69356de87624487199d496fa98ac09e042a76f2631510cb7e74f` |
+| `terms/OT2000/entering-law/OT_2000CHUNK3_EFFECTIVE_BEFORE_2001-03-05.md` | `e3adf04232d2a2ef594a1c957d93c6f323c75790d5aa8e95e6e980bc0f371aea` |
+| `terms/OT2000/entering-law/OT_2000CHUNK3_EFFECTIVE_BEFORE_2001-03-19.md` | `78fcc214a9ef20cb5b94f60322c3ee3c67c2a51f26e6c36c3e4bdb5ab1f710a8` |
 
 ## Stopped matter
 

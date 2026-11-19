@@ -31,16 +31,16 @@ All 127 scheduled events are completed; no scheduled inventory item remains open
 | Incorporated source | SHA-256 |
 |---|---|
 | [case-list.md](../case-list.md) | `bc8ec5368711ef4378bca228059ac3307e893eab958607d7d7cfbc0177900e63` |
-| [workspace/manifest.md](../workspace/manifest.md) | `56834801201eca55d93dda2a3b74b6743488c1b57d66939da5d09b8359e350ca` |
-| [workspace/continuity.md](../workspace/continuity.md) | `c7c37a82855e541c1391fc68af528e2aa848f3a0797e6898e2224641f0ba7b06` |
-| [workspace/ledger.md](../workspace/ledger.md) | `ce5e23d44e18390f5644cc43ad468c689d59c2e39714ae5be3a19f1399cb7f17` |
-| [workspace/neutral-projection.md](../workspace/neutral-projection.md) | `43fdd56c86105acb706e51e084d710b412ac28721ea4712e4e782e70a7da8ac8` |
+| [workspace/manifest.md](../workspace/manifest.md) | `b19fa71d41ea3f8a611d2e95422574ab06af6cba678415ea85947ff8394c2268` |
+| [workspace/continuity.md](../workspace/continuity.md) | `0adf98ce6902dc91a6d944eb981e026baf2e26e1bf4108091c5f86b51bbfa860` |
+| [workspace/ledger.md](../workspace/ledger.md) | `c27733db1514e0e68083d7be23d15ca87004b9e23e6a16cc72977fbc6657ea13` |
+| [workspace/neutral-projection.md](../workspace/neutral-projection.md) | `9c307a6af06cdf1655f334412febc31b2e17cb5a9f319c0b3867d305ad9bb578` |
 | [close/AUDIT.md](AUDIT.md) | `510efefb83af0dd61ba9194dd33934da32ddbcbd9096d12267008a8daae9c842` |
-| [Chunk 1 public render](../output/OT_2001CHUNK1.md) (cross-check only) | `42a7d68cd81a0669d0c051c08ce0277dc12ec3059bb22147807605332518bfef` |
-| [Chunk 2 public render](../output/OT_2001CHUNK2.md) (cross-check only) | `f628d923add5076bc904d3e34aa1fd1f60f8718815224e85f0a9f42131744587` |
+| [Chunk 1 public render](../output/OT_2001CHUNK1.md) (cross-check only) | `da9bab92ca1469683681e08279a922dfec16f7fe955cc0c1b2de65d444059b93` |
+| [Chunk 2 public render](../output/OT_2001CHUNK2.md) (cross-check only) | `a3579352c9df37c38a75919e49b48ede47d12b1afcabb4ded81aa52629a0f35f` |
 | [Chunk 3 public render](../output/OT_2001CHUNK3.md) (cross-check only) | `8010905c6979166b6f1bd90d6f843303812f06322a125a02f889811222d2086e` |
 | [Chunk 4 public render](../output/OT_2001CHUNK4.md) (cross-check only) | `41166825daa01560c41e20682cd300bbe6c4cbab5b47f2cbf41d8b77d9b3978a` |
-| [Chunk 5 public render](../output/OT_2001CHUNK5.md) (cross-check only) | `21d5fd2616a72e8270bbfcc9d9aa5123252d365948f575e84b7ecc62054f22ec` |
+| [Chunk 5 public render](../output/OT_2001CHUNK5.md) (cross-check only) | `07bae58944df000bb7dfb8d8fd99020ca98bb01780a9cf8860f4a991c0452430` |
 | [Chunk 6 public render](../output/OT_2001CHUNK6.md) (cross-check only) | `0bd5eeb4a3ed9945fa13bebe16a046844e9b035ab55c8e3d45a1e590d51301c9` |
 | [Chunk 7 public render](../output/OT_2001CHUNK7.md) (cross-check only) | `7ba5f92dd2e60b15bd80bec112d364aaf06331ce37e9ce6949806f0ad6ece8c4` |
 | [Chunk 8 public render](../output/OT_2001CHUNK8.md) (cross-check only) | `891e4894e9d6fb5e0b5b5af449d0afa305d71257590a2b3c1b30dea88680033b` |
@@ -58,7 +58,7 @@ The following 127 validated Records are the complete authoritative Court-event s
 | 2001-11-27 | [Adarand Constructors, Inc. v. Mineta; No. 00-730](../records/adarand-constructors-inc-v-mineta_dig_2001-11-27.md) | `18b70c2bbd7887b9d87d9c595c0f2b41244262175faf3e759cb97204cb3c7324` |
 | 2001-11-27 | [Chickasaw Nation v. United States; No. 00-507; Chickasaw and Choctaw Nations](../records/chickasaw-nation-v-united-states_merits_2001-11-27.md) | `02716b2bec62509e78ed5871b8417f5bac6b3bf3b47848e796dd18bdac891ea1` |
 | 2001-11-27 | [Church of Scientology International v. Behar; 238 F.3d 168 (2d Cir. 2001); no Supreme Court docket supplied](../records/church-of-scientology-international-v-behar_merits_2001-11-27.md) | `6bb4c0dd51e416f359a1c4dee5886888c8e65af6a03c1bdf2fc6ff086f24cb3b` |
-| 2001-11-27 | [Correctional Services Corp. v. Malesko; No. 00-860](../records/correctional-services-corp-v-malesko_merits_2001-11-27.md) | `2ae953bf8f47dd02dfc9316eced9f873e4aa40978dcf4e0123936265755a3975` |
+| 2001-11-27 | [Correctional Services Corp. v. Malesko; No. 00-860](../records/correctional-services-corp-v-malesko_merits_2001-11-27.md) | `f0834a5a482f80aeab7bebb3c63022f52f5e76ce1c93117862fc410e9b06c9fd` |
 | 2001-12-10 | [J. E. M. Ag Supply, Inc. v. Pioneer Hi-Bred International, Inc.; No. 99-1996](../records/j-e-m-ag-supply-inc-v-pioneer-hi-bred-international-inc_merits_2001-12-10.md) | `e96437f09ffa812db2750dfa201db2c88fcd72b09d743bd5e63d829b0a974ff4` |
 | 2001-12-10 | [Schrader v. Blackwell; 241 F.3d 783 (6th Cir. 2001)](../records/schrader-v-blackwell_merits_2001-12-10.md) | `738ec7e7e8f52d64d930f197be69c1f17e0f80d13ff6a7d515c2abfdf52d58df` |
 | 2001-12-10 | [United States v. Knights; No. 00-1260](../records/united-states-v-knights_merits_2001-12-10.md) | `12a9afbcf9b3e4939cd9e77594807adcda45c3d9651b897bc8210137174030ef` |
@@ -79,7 +79,7 @@ The following 127 validated Records are the complete authoritative Court-event s
 | 2002-01-22 | [United States v. Microsoft Corp.; D.C. Circuit Nos. 00-5212 and 00-5213; no Supreme Court docket supplied](../records/united-states-v-microsoft-corp_merits_2002-01-22.md) | `8c20f4d20b35c533e90220f499dd706c7b00824f29c4e79ba21ea6490d4ff8c1` |
 | 2002-02-19 | [Barnhart v. Sigmon Coal Co.; No. 00-1307](../records/barnhart-v-sigmon-coal-co_merits_2002-02-19.md) | `4d71eb2aa6cbe71dfba8b015bd955c81a7d0427a87beee5e6356073f0e5046af` |
 | 2002-02-19 | [Igartua De La Rosa v. United States; 229 F.3d 80 (1st Cir. 2000); no Supreme Court docket supplied](../records/igartua-de-la-rosa-v-united-states_merits_2002-02-19.md) | `3efbecb7d575937ae079d8b15117bfc06f6d94619cea68f110822a16c815af0a` |
-| 2002-02-19 | [Owasso Independent School District No. I-011 v. Falvo; No. 00-1073](../records/owasso-independent-school-district-no-i-011-v-falvo_merits_2002-02-19.md) | `c709ada94d88bc89694e937eda59eaefb7be39c7a495cf825cc3c0143f36f930` |
+| 2002-02-19 | [Owasso Independent School District No. I-011 v. Falvo; No. 00-1073](../records/owasso-independent-school-district-no-i-011-v-falvo_merits_2002-02-19.md) | `b4728ff56e1e2f2062dde25bcf62fcce2cd97346f162cdc476b538d1449a93a1` |
 | 2002-02-19 | [Romeu v. Cohen; 265 F.3d 118 (2d Cir. 2001); lower-court Nos. 00-6287 and 00-6303](../records/romeu-v-cohen_merits_2002-02-19.md) | `b459600c6565d592dabc116e0b0db592c489d10f3d5df137470fe93e2c162a93` |
 | 2002-02-20 | [Winn-Dixie Stores, Inc. v. Commissioner; 254 F.3d 1313 (11th Cir. 2001); Tax Court No. 05382-97; no Supreme Court docket supplied](../records/winn-dixie-stores-inc-v-commissioner_merits_2002-02-20.md) | `b65f7a0bd245cf7920b4fe56b5c77cda6739e52d586c2fa0a444b7eee9529287` |
 | 2002-02-20 | [Wisconsin Department of Health and Family Services v. Blumer; No. 00-952](../records/wisconsin-department-of-health-and-family-services-v-blumer_merits_2002-02-20.md) | `f092a709a226815264fadddd8419d63bd4f698abcfb2c2ff53e64302100e633a` |
@@ -116,21 +116,21 @@ The following 127 validated Records are the complete authoritative Court-event s
 | 2002-05-13 | [Ashcroft v. American Civil Liberties Union; No. 00-1293; 535 U.S. 564.](../records/ashcroft_v_aclu_merits_2002-05-13.md) | `0dedb8dc4381a16dbf17947c698a62b928ad63ec6b391eeb9620a6ba80499b7d` |
 | 2002-05-13 | [City of Los Angeles v. Alameda Books, Inc.; No. 00-799.](../records/city_of_los_angeles_v_alameda_books_merits_2002-05-13.md) | `a5b1315e0c9beed38e3eb275ba08b5c965e5c6b0622d8f9b1d366474ca37a5b8` |
 | 2002-05-13 | [Henderson v. Norris; reviewed Eighth Circuit No. 00-2203, 258 F.3d 706 (2001); no Supreme Court docket supplied.](../records/henderson_v_norris_merits_2002-05-13.md) | `477663b7ebfb285d720828fe21671f663fd0a9fce30a8a69801d931067ae6fea` |
-| 2002-05-13 | [Lapides v. Board of Regents of University System of Georgia; No. 01-298; 535 U.S. 613.](../records/lapides_v_board_of_regents_merits_2002-05-13.md) | `75ee7cbe79e79717a92517082910cbe85dcfdbda4c9c2795c2824fb42f923fec` |
+| 2002-05-13 | [Lapides v. Board of Regents of University System of Georgia; No. 01-298; 535 U.S. 613.](../records/lapides_v_board_of_regents_merits_2002-05-13.md) | `5df1de2515da08e9c408fea0b9e59eeddc6e2f7fffa37977a3fd967e76aaf051` |
 | 2002-05-13 | [Verizon Communications Inc. v. FCC; Nos. 00-511, 00-555, 00-587, 00-590 and 00-602; 535 U.S. 467.](../records/verizon_communications_v_fcc_merits_2002-05-13.md) | `06f8cfd674267e13d4049dba7179c78cb70054dec8b9049f65963107ba0c04bf` |
 | 2002-05-13 | [Voting Integrity Project, Inc. v. Keisling; reviewed judgment 259 F.3d 1169 (9th Cir. 2001); no Supreme Court docket supplied.](../records/voting_integrity_project_v_keisling_merits_2002-05-13.md) | `24693a89b3da0ae2161c225d330ef0a2f27b06ae56820b7ac634b6f48d13bae3` |
 | 2002-05-20 | [Alabama v. Shelton; No. 00-1214; 535 U.S. 654.](../records/alabama_v_shelton_merits_2002-05-20.md) | `004b5b313d0999f47ac03e3f07e33ba16426590f77a5f7ffe28085073d2d66fa` |
 | 2002-05-20 | [Brown v. Gilmore; reviewed judgment 258 F.3d 265 (4th Cir. 2001); no Supreme Court docket supplied.](../records/brown_v_gilmore_merits_2002-05-20.md) | `12ed4b934088bbf0fb04cdf6f5e4676c8c303e342a4c8caecaf07857c1da9976` |
 | 2002-05-20 | [Mathias v. WorldCom Technologies, Inc.; No. 00-878; 535 U.S. 682.](../records/mathias_v_worldcom_technologies_dig_2002-05-20.md) | `ce5fcc31d9dd776ef0ff909b13da10c4ca2c323f4cd3faeadbd6dde80e760a17` |
 | 2002-05-20 | [United States v. Cotton; No. 01-687; 535 U.S. 625.](../records/united_states_v_cotton_merits_2002-05-20.md) | `6bd05d4e39ca64384295fcae672d1b8f1a43852b7b16ad9e48a2a9317470c7f3` |
-| 2002-05-20 | [Verizon Maryland Inc. v. Public Service Commission of Maryland; United States v. Public Service Commission of Maryland; Nos. 00-1531 and 00-1711; 535 U.S. 635.](../records/verizon_maryland_v_public_service_commission_merits_2002-05-20.md) | `aa380a601095064a2cf6e4c2da6ffe96ddeb846749dfdd60437d1b03bc024ec8` |
+| 2002-05-20 | [Verizon Maryland Inc. v. Public Service Commission of Maryland; United States v. Public Service Commission of Maryland; Nos. 00-1531 and 00-1711; 535 U.S. 635.](../records/verizon_maryland_v_public_service_commission_merits_2002-05-20.md) | `c75ec961b888c9e245eea95907c83062f67dc23af1b68e748e27ed976c89ed1c` |
 | 2002-05-28 | [Bell v. Cone; No. 01-400; 535 U.S. 685.](../records/Bell_v_Cone_Merits_2002-05-28.md) | `24c1a11f215149ccd7310f83f24e856dca25b9c83f79cb09d0f89472b95f8fb7` |
 | 2002-05-28 | [Compaq Computer Corp. v. Commissioner; review of 277 F.3d 778 (5th Cir. 2001), No. 00-60648. No Supreme Court docket is assigned in the supplied record.](../records/compaq-computer-corp-v-commissioner_merits_2002-05-28.md) | `1652f3d1eecc72bf5b57d7b581b644ccceee59f608b27ce0bd55db7a4fe0de8c` |
-| 2002-05-28 | [Federal Maritime Commission v. South Carolina State Ports Authority; No. 01-46; 535 U.S. 743.](../records/Federal_Maritime_Commission_v_South_Carolina_State_Ports_Authority_Merits_2002-05-28.md) | `30f0ba7aa36329dd1fdd6bc29ebdd28cc893f1c41d8097d3bea1c66b88f2577e` |
+| 2002-05-28 | [Federal Maritime Commission v. South Carolina State Ports Authority; No. 01-46; 535 U.S. 743.](../records/Federal_Maritime_Commission_v_South_Carolina_State_Ports_Authority_Merits_2002-05-28.md) | `a0779ab4184b8c13b6ab324fc7894b0b92878444f49059a80a0f6552d90a863a` |
 | 2002-05-28 | [Festo Corp. v. Shoketsu Kinzoku Kogyo Kabushiki Co.; No. 00-1543; 535 U.S. 722.](../records/Festo_Corp_v_Shoketsu_Kinzoku_Kogyo_Kabushiki_Co_Merits_2002-05-28.md) | `4f5811365ff7fbb6579a90851ddc112d009d7be221db146c20c9f62d9bb17c39` |
 | 2002-05-28 | [Gisbrecht v. Barnhart; No. 01-131; 535 U.S. 789.](../records/Gisbrecht_v_Barnhart_Merits_2002-05-28.md) | `d74759a9f43aaf827c92ecaee79e6152adb63e3ed35ecb289c8d48da9f8733a2` |
 | 2002-05-28 | [In re Prudential Insurance Co. of America Sales Practice Litigation; review of 261 F.3d 355 (3d Cir. 2001). No Supreme Court docket supplied.](../records/In_re_Prudential_Insurance_Co_of_America_Sales_Practice_Litigation_Merits_2002-05-28.md) | `ce5d6fcdad5176608f93000814a2d2f775b2fde5b0b9471d9dd6995dbbe9085e` |
-| 2002-05-28 | [South Camden Citizens in Action v. New Jersey Department of Environmental Protection; review of 274 F.3d 771 (3d Cir. 2001), lower-court Nos. 01-2224 and 01-2296. No Supreme Court docket supplied.](../records/South_Camden_Citizens_in_Action_v_New_Jersey_Department_of_Environmental_Protection_Merits_2002-05-28.md) | `9e7137cec6a43b38381c486b59f9146a22d53f851ee8a3bf551af291ca062b3f` |
+| 2002-05-28 | [South Camden Citizens in Action v. New Jersey Department of Environmental Protection; review of 274 F.3d 771 (3d Cir. 2001), lower-court Nos. 01-2224 and 01-2296. No Supreme Court docket supplied.](../records/South_Camden_Citizens_in_Action_v_New_Jersey_Department_of_Environmental_Protection_Merits_2002-05-28.md) | `4d50736b72f1fa1b66f65782354859b4e5c43eb17d7d9ebcd62c941b820cd2e3` |
 | 2002-06-03 | [Holmes Group, Inc. v. Vornado Air Circulation Systems, Inc.; No. 01-408.](../records/holmes-group-inc-v-vornado-air-circulation-systems-inc_merits_2002-06-03.md) | `ddd758c7e912492d64d96d1b8b1dcf82f15de3b8213dff91351b0715addebc38` |
 | 2002-06-03 | [SEC v. Zandford; No. 01-147.](../records/sec-v-zandford_merits_2002-06-03.md) | `f87cc04a813971debdfdcbf8c2cc745419633ab96cdbe044b3de695aa9da5b9c` |
 | 2002-06-03 | [United States v. Mackby; review of 261 F.3d 821 (9th Cir. 2001), No. 99-15605. No Supreme Court docket is supplied.](../records/united-states-v-mackby_merits_2002-06-03.md) | `81ed5d76a9139132e4f221bbd0febbf808c18b791572de889226e15085bb2a67` |
@@ -158,7 +158,7 @@ The following 127 validated Records are the complete authoritative Court-event s
 | 2002-06-20 | [Christopher v. Harbury; No. 01-394](../records/christopher-v-harbury_merits_2002-06-20.md) | `4846e05c10c14bdc6afd8adb54225c805b44f1d8e84b3c523bc2807aadac4b6a` |
 | 2002-06-20 | [City of Columbus v. Ours Garage & Wrecker Service, Inc.; No. 01-419](../records/city-of-columbus-v-ours-garage-wrecker-service-inc_merits_2002-06-20.md) | `da6a61f6edd6533002097b0feac5c39aacb8be35564cb1a2bba4e4bf904f6003` |
 | 2002-06-20 | [Dadian v. Village of Wilmette](../records/dadian-v-village-of-wilmette_merits_2002-06-20.md) | `fcca3c874948aec9fc8db9462939830511c20a9bbb3fb717a6d7b01a8801817d` |
-| 2002-06-20 | [Gonzaga University v. Doe; No. 01-679](../records/gonzaga-university-v-doe_merits_2002-06-20.md) | `a41d375a573eb475c0ec8c4a41ed0d8b4386dfd67e0c43a22014d0475b7d89e5` |
+| 2002-06-20 | [Gonzaga University v. Doe; No. 01-679](../records/gonzaga-university-v-doe_merits_2002-06-20.md) | `7f3d5de9f83061c1c947bc79e51128be196cbeacdc8626d21405f5b9336997f6` |
 | 2002-06-20 | [Page v. Bartels; district No. 01-1733.](../records/page-v-bartels_summary_2002-06-20.md) | `4d0ff4fe3c031e078765ffc3d6fd4b9d395d7f82d84c379cfb863845ffbbcfe8` |
 | 2002-06-20 | [Robertson v. Bartels; No. 01-721; district No. 01-2024.](../records/robertson-v-bartels_summary_2002-06-20.md) | `8fd3cd313e9a2ae7fddf9a1b09c56e11acff0fba7d6a8c201478dc1e6944bae0` |
 | 2002-06-20 | [Rush Prudential HMO, Inc. v. Moran; No. 00-1021.](../records/rush-prudential-hmo-inc-v-moran_merits_2002-06-20.md) | `e2ab101358df3945f08f0062b7b11941ffdb13340848b140461d79578216618d` |
@@ -249,10 +249,10 @@ These digests identify the completed publication before staging cleanup. This do
 | [state/holdings/maritime-law.md](../../../state/holdings/maritime-law.md) | `95ae70f4544b98d13877c0281e7896dd5b5bbc80075b02b91d641650b57c7b3d` |
 | [state/holdings/property-and-economic-rights.md](../../../state/holdings/property-and-economic-rights.md) | `a6c440b258cceee53105fb083afe27222c64cf0d3dcc74a2e9ef883c2732253c` |
 | [state/holdings/tort-law.md](../../../state/holdings/tort-law.md) | `21fcf9631293f93d7c5eb35ee402b7856c03e2709fa7642b4281029801802d79` |
-| [terms/OT2001/INDEX.md](../INDEX.md) | `0d5c98c4850c60b71e2e56dbdc1e31328462d837f1b799f2660f7a29a562660e` |
+| [terms/OT2001/INDEX.md](../INDEX.md) | `a156379b175607abec0ad8c044c5ab30625a1bcdf7cf964d3925bfdc9be22731` |
 | [terms/OT2001/close/CONSEQUENCES.md](CONSEQUENCES.md) | `0f6d836a3f7761d17dcc7f1fe4ce3cccae563d72297bfb7faf015cebf00950e3` |
 | [terms/OT2001/close/DEPARTURES.md](DEPARTURES.md) | `c11bb0e4ed65742c3b468090514448074fac3fa1c21453e431b2e1b9edc2bdfc` |
-| [terms/OT2001/close/SEPARATE_WRITINGS.md](SEPARATE_WRITINGS.md) | `461e11ac08f24e25f35976b23f753f19df84d7317316cdec7163861658cf65cd` |
+| [terms/OT2001/close/SEPARATE_WRITINGS.md](SEPARATE_WRITINGS.md) | `524aac3ee556a7b9311173140c2e6efabad1961fc6b8dc37a46fde6afaa0ab90` |
 
 ## Source integrity baseline
 

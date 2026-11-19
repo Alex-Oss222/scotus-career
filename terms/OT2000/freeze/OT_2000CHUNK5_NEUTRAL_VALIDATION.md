@@ -6,7 +6,7 @@
 
 **Copy validation:** All thirteen source case sections are copied without substantive alteration. The source remains the freshly generated neutral runtime file; the full approved brief was not opened. Addenda and authority slices are separate from the immutable input.
 
-**Source digest:** SHA-256 of the full neutral runtime bytes: bbf119e2ed0121afd37c0cadac6388634076ae9a36ca5bc979866838260b5efc.
+**Source digest:** SHA-256 of the full neutral runtime bytes: 6af0244491c8089744a79013266c660f8ce46c78b42f956f9fa467a0216e97a6.
 
 **Boundary:** No current-case disposition, lineup, historical comparator, private position supplement or adjudicative annex was opened. Control supplied only sanitized objective participation, lower-order terms, lower-opinion verification and caption dates. No independent commitment is created by this receipt.
 

@@ -2,7 +2,7 @@
 
 The frozen neutral blocks are copied without substantive alteration from the refreshed neutral runtime. The source remains the approved packet. Reading slices are derivative copies, not authority. No adjudication or provisional commitment is made here.
 
-Neutral source SHA-256: `68f14146592e447ec431b548bf0bd38ecd56e5d390e3805944e15f352c6c4063`.
+Neutral source SHA-256: `1ad419ec3f0946e3f1805d14e3b9382aba9813fa10c226ce50849e4eef15eb75`.
 
 ## RELIGION_SPEECH
 
@@ -23,7 +23,7 @@ Generated with tools/build_entering_law.py and then tightened by verbatim headin
 - Standards and Tests: Compulsory student fees for independent extracurricular expression
 - Standing State: 1. Current Court
 
-Output SHA-256: `144c36185cc18d14122fd3cd102ea71ed13fc0d577f009f77ae752c6bf3cd461`.
+Output SHA-256: `cc5f10d61496e8ead2f411e4545a25df95bc384997d5f96ea78df7d88d1cf017`.
 
 ## FEDERAL_ELECTION
 
@@ -89,5 +89,5 @@ Five neutral case blocks match their refreshed source verbatim. The bounded publ
 - terms/OT2000/entering-law/OT_2000CHUNK3_MIDDLE_CURRENT.md: SHA-256 a723b9c987b01ca28002534e505c89efbaec8b048cd198a7c83cca8c9c11e8b3
 - terms/OT2000/entering-law/OT_2000CHUNK3_MIDDLE_FEDERAL_ELECTION.md: SHA-256 6734428aa5fd6eafbfa8a49bd0a5934c937e792993b59488662991929c2049d8
 - terms/OT2000/entering-law/OT_2000CHUNK3_MIDDLE_PUBLIC_POSITIONS.md: SHA-256 f8673588b9e9a01fc5eb8a77fc7991f4e0622a76dabc9e900445d6f1704ad4c5
-- terms/OT2000/entering-law/OT_2000CHUNK3_MIDDLE_RELIGION_SPEECH.md: SHA-256 144c36185cc18d14122fd3cd102ea71ed13fc0d577f009f77ae752c6bf3cd461
+- terms/OT2000/entering-law/OT_2000CHUNK3_MIDDLE_RELIGION_SPEECH.md: SHA-256 cc5f10d61496e8ead2f411e4545a25df95bc384997d5f96ea78df7d88d1cf017
 - terms/OT2000/entering-law/OT_2000CHUNK3_MIDDLE_TEXT.md: SHA-256 e2868e7a9da372e5deacc1e15885e8fff1b4e00d588315793dbf4d715a1d71b1

@@ -71,7 +71,7 @@ Explanation word counts by Record: Reform 100/206/114; Bond 263; Gillespie 251/1
 
 | Record | SHA-256 at completed Record validation |
 |---|---|
-| `reform-party-v-allegheny-county_merits_2000-04-10.md` | `4e6976be4d7c77383afa7ac0631e156b0d577ef97d7f74b4a07feab7d19875f1` |
+| `reform-party-v-allegheny-county_merits_2000-04-10.md` | `2a8c20a3004e68ae4e91904aa87601e889f84262b8abd926abba6c7548693a25` |
 | `bond-v-united-states_merits_2000-04-17.md` | `a90097b16a59944d986d6465630703d90e313d67f624317658b5ac8475b462d9` |
 | `gillespie-v-city-of-indianapolis_merits_2000-04-17.md` | `4319e7eed80567a88af6010e3b43788420503305fd659d4cebfda0f6fab69c12` |
 | `norfolk-southern-railway-co-v-shanklin_merits_2000-04-17.md` | `43c947090fc17d824b4a729cd13d9d3fcc28fbcb487090b06d581933e01f5dd2` |

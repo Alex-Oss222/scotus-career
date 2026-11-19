@@ -136,7 +136,7 @@
         "Ginsburg"
       ],
       "opinion_topology": "| Writing | Author | Joined by | Relationship to judgment | Scope joined |\n|---|---|---|---|---|\n| Opinion of the Court | Ginsburg | Stone-Zsela, Stevens, Souter, Breyer in full; O'Connor and Scalia as to Part I only | Five-Justice reversal and remand | Seven-Justice statutory holding in Part I; five-Justice Article I and reservation/remand in Parts II–III |\n| Dissent from Parts II–III | O'Connor | Scalia, Kennedy, Thomas | Would affirm immunity dismissal | Article I opposition and alternative §5 rejection; O'Connor and Scalia join Part I of the Court's opinion |\n| Separate dissent on statutory authorization | Thomas | Kennedy | Would affirm independently on statutory grounds | Rejects Part I's incorporation reading; also joins O'Connor's constitutional dissent |",
-      "sha256": "30899343c7924fac00d7447dde6e9978d387798baf3bfdade5f785de531d872f"
+      "sha256": "2132f0f5858e4d6774cec7f7c6a369933564fffd59780185b39937d36f552f16"
     },
     {
       "file": "new-york-v-hill_merits_2000-01-11.md",
@@ -522,7 +522,7 @@
         "Stone-Zsela"
       ],
       "opinion_topology": "| Writing | Author | Joined by | Relationship to judgment | Scope joined |\n|---|---|---|---|---|\n| Opinion of the Court | Stone-Zsela | Part I: Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. Part II: Stevens, Souter, Ginsburg, Breyer. Part III: O'Connor, Scalia, Kennedy, Thomas | Count I affirmed and remanded; Count II reversed | Part I (jurisdiction; separate questions) 9–0; Part II (Count I action, elements, proof, remedies, application, remand) 5–4; Part III (Count II right-creation) 5–4 |\n| Opinion concurring in part and dissenting in part | Stevens | Souter, Ginsburg, Breyer | Joins the Count I affirmance; would affirm on Count II too | Joins Parts I and II; dissents from Part III and the Count II reversal |\n| Opinion concurring in part and dissenting in part | O'Connor | Scalia, Kennedy, Thomas | Joins the Count II reversal; would reverse on Count I too | Joins Parts I and III; dissents from Part II and the Count I affirmance |\n\nNo single five-Justice coalition joins the whole opinion; only Stone-Zsela joins every Part. Each judgment component rests on its own Part's five votes; no judgment-only vote, Marks synthesis or aggregation of distinct grounds is involved. There is no separately joined disposition Part; the judgment rests on Part II for Count I and on Part III for Count II.",
-      "sha256": "50062f52315a2b860b8fc476a9d44d10894f3987abb479266c9d1ee5a95c4738"
+      "sha256": "868cfa7ebe44e7357b3a27281955c0b62b818a4064e91c786e68647529989ed2"
     },
     {
       "file": "reform-party-v-allegheny-county_merits_2000-04-10.md",
@@ -532,7 +532,7 @@
         "Breyer"
       ],
       "opinion_topology": "| Writing | Author | Joined by | Scope |\n|---|---|---|---|\n| Opinion of the Court | Breyer | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg in Parts I and II; Stone-Zsela in Part II; O'Connor, Scalia, Kennedy and Thomas in Part III | Part I: Rule 60 finality, eight Justices. Part II: common timely-filing equality rule, nine. Part III: confined relief, five. |\n| Opinion concurring in part and dissenting in part | Stone-Zsela | Stevens, Souter, Ginsburg | Supports Part II and would retain the broader injunction. Stone-Zsela agrees with the Rule 60 disposition without joining Part I's reasoning and adds no ground on that component or on deletion of the independent associational declaration. |",
-      "sha256": "4e6976be4d7c77383afa7ac0631e156b0d577ef97d7f74b4a07feab7d19875f1"
+      "sha256": "2a8c20a3004e68ae4e91904aa87601e889f84262b8abd926abba6c7548693a25"
     },
     {
       "file": "bond-v-united-states_merits_2000-04-17.md",
@@ -792,7 +792,7 @@
         "Scalia"
       ],
       "opinion_topology": "| Writing | Author | Joined by | Relationship to judgment | Scope joined |\n|---|---|---|---|---|\n| Opinion of the Court | Scalia | Stone-Zsela, O'Connor, Kennedy, Thomas, Ginsburg and Breyer throughout; Stevens and Souter in Part I | Reverses for statutory dismissal | Part I: transferred-claim standing; Part II: no affirmative statutory authorization of this private State-defendant action and bounded remedy |\n| Concurrence in part and dissent in part | Stevens | Souter | Would affirm denial of dismissal | Joins Part I; reads the FCA to include States and applies the existing Article I rule |",
-      "sha256": "c95bbbf63642bbcb8b8822ea637f3932d42508a961142535cc9e6816fa2c9928"
+      "sha256": "03bd5c1f0417a293e032ff3e70a31bca5e16be1a577749194a211c31b0d1f46c"
     }
   ]
 }

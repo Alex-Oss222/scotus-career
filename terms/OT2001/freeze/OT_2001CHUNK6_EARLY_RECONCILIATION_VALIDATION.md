@@ -39,8 +39,8 @@ Compaq, Zandford and Mackby are ready for assembly within the handoff's stated r
 | `freeze/OT_2001CHUNK6_ZANDFORD_SOURCE_EXTRACT.md` | `7cb39e2102f468a4c931c978a795a7d460d2a79a06fa37c5b31e2682c25e04ee` |
 | `runtime/OT_2001CHUNK6_EARLY_COMPARATOR.md` | `293262d20ad24ae2f1df1bb84900184cea98d64008985d781a9deea62a28c376` |
 | `entering-law/OT_2001CHUNK6_A.md` | `c3fab5833db7dfdc9a3117051a76a5c7e61cb49524876b45f560ad937911e021` |
-| `entering-law/OT_2001CHUNK6_A_AUTHORITIES.md` | `74a66f56efb791f19876d0c579aaffce06f6eeff466431b9dcf53a8ba126b1d9` |
+| `entering-law/OT_2001CHUNK6_A_AUTHORITIES.md` | `f9ae1aecdc287bf6ad2fe26e51f8973308c3d0e401fbbfd9b3eda9084961be5a` |
 | `entering-law/OT_2001CHUNK6_A_CURRENT.md` | `153ff5b2c0d8805534777839dfcb7ead8996ffd803ad56028e7208142d56bf6a` |
-| `entering-law/OT_2001CHUNK6_A_PUBLIC_POSITIONS.md` | `b293546b2fc132d68bf879067cc42521a7495cbe5eff8c93abb7612abc6c79c4` |
+| `entering-law/OT_2001CHUNK6_A_PUBLIC_POSITIONS.md` | `10a1887496f09e5a9b5d5d644b9682f62b1f9d031465850e51acd172c3a7ee7d` |
 
 Reconciled handoff SHA-256: `884d92906dea2cc9d680a9bc916db05788d5dfdd49f6eb21302dce9ee171ea31`.

@@ -131,7 +131,7 @@ The following title and authority-date lines are script-copied from the generate
 ## Deterministic receipt
 
 - Neutral packet matter count: 12.
-- Frozen/source SHA-256: `0e41429812d7f085963b2aa96d357c05cc10aebbeb4b6d8377133910813a3afc`.
+- Frozen/source SHA-256: `13735d841de0e8ff4f13b8ccf74bfba8b0afdf9883af265b798f66d673b50e2a`.
 - Freeze identity: exact bytes copied; no runtime text hand-maintained.
 - Governing state cutoff: June 23, 1999; no later historical doctrine or current-case Supreme Court outcome is incorporated.
 - External source verification performed here: only the unsuccessful clean Rayphand research attempt recorded above. Other supplied record summaries are accepted as packet inputs, not independently represented as fully retrieved; Hill is the bounded control extraction identified above.

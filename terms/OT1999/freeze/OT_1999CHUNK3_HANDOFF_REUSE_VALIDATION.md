@@ -22,7 +22,7 @@ Verified handoff identities:
 |---|---:|---|
 | OT_1999CHUNK3_EARLY_COMMITMENTS.md | 42284 | 8a03cb5bd594529d7484187206cfacfe9bd46525bffb3928005c76a370807529 |
 | OT_1999CHUNK3_EARLY_RECONCILED.md | 48065 | fd4640fedb6cafa13ba58625b15b508f7010ad2715b7a30d4a75025300c27171 |
-| OT_1999CHUNK3_LATER_COMMITMENTS.md | 62823 | 122137299bfe98019305e344f598d00234ceb77b86b7c30fc5bf8c7164e954f3 |
+| OT_1999CHUNK3_LATER_COMMITMENTS.md | 62823 | 53d62fbcfe753938b2652c0e9cb5d3612504f39adbd48e5f7b7f27fc8e78c30a |
 | OT_1999CHUNK3_LATER_RECONCILED.md | 49161 | dd1e5db956c92ce7925bad32f579f8b4e6ef3ff56f2f3c99d2794e2243032f73 |
 
 The current EARLY entering-law slice is 83095 bytes, SHA-256 `63e63458d17e16e30887cd777fa382466374851bf960187b08e1b8f0044ca918`. The LATER slice is 104654 bytes, SHA-256 `6279f59b7882ef1261eba7a16417eeebcb9a794a30c925a8133a7a3923981e68`; this latter identity is also recorded in the reconciliation receipt. No historical expected EARLY-slice hash was supplied by the reviewed receipts, so the present identity is recorded without claiming a historical comparison.

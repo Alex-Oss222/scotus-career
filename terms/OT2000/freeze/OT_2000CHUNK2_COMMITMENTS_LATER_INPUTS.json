@@ -92,7 +92,7 @@
     {
       "path": "terms/OT2000/entering-law/OT_2000CHUNK2_LATER_PUBLIC_POSITIONS_SELECTION.json",
       "bytes": 859,
-      "sha256": "26d7fd3ee3dd3f3822ecf492b656075f8c0754496aa79580bd9cd33bc4eeb89e"
+      "sha256": "0f93325fc0fbe3cba991a6a47fb62158a2e1cd22ae89d6fc9d5844d65bf975bd"
     },
     {
       "path": "terms/OT2000/entering-law/OT_2000CHUNK2_cobank_statutes.md",
@@ -117,7 +117,7 @@
     {
       "path": "terms/OT1998/output/OT_1998CHUNK5.md",
       "bytes": 148374,
-      "sha256": "5cf2aa9039bd8d017043ea2dd71b88295ca7d420ba90f9902f33e71a160d8704"
+      "sha256": "61d2a05c9d60afdafaba551a4b7683aefcfe638a29de8a7aa6f31dba9d40077a"
     },
     {
       "path": "terms/OT2000/sources/chunk2-later-model/CoBank_1971.txt",

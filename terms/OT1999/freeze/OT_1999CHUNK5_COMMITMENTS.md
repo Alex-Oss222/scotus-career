@@ -483,7 +483,7 @@ Eight Associates assessed on statutory construction, state-court alternative gro
 
 ## DOE
 
-Frozen source: [OT_1999CHUNK5_DOE_COMMITMENTS.md](OT_1999CHUNK5_DOE_COMMITMENTS.md). SHA-256: `ec19ebdb97f1ba2232ab3e6c70442fbb848c0e1ece16abdbd14420e7862900a1`.
+Frozen source: [OT_1999CHUNK5_DOE_COMMITMENTS.md](OT_1999CHUNK5_DOE_COMMITMENTS.md). SHA-256: `2e7c3b3d2551404c7fd4fed2e76a977a9c3e6c655ac91e3fc0d360aaac4b81d8`.
 
 ## Doe v. Rosenberg — independent non-Stone commitments
 

@@ -1261,7 +1261,7 @@ The approved neutral case section follows, mechanically copied without revision.
 
 ## Stage source: OT_2001CHUNK2_C_NEUTRAL.md
 
-Content digest (SHA-256): 782b9ae8418db6308043c350084f63b72a451a949a28b5c2dd53c2963fd6c6d3
+Content digest (SHA-256): 52c45500951d49ee0adfacd16acde0d9267cc1a6268e0730378ae1b440e20393
 
 # OT2001 chunk 2 C: frozen neutral preparation
 

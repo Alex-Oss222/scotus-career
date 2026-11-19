@@ -25,10 +25,10 @@ The full historical source receipt records complete primary-opinion verification
 
 | Adopted substantive file | SHA-256 |
 |---|---|
-| OT_2001CHUNK5_C_PARTIAL_RECONCILED.md | e0d25bf6c129d712c0ac83bb85288fe904ef5752b1db43bc4d06586230bda452 |
+| OT_2001CHUNK5_C_PARTIAL_RECONCILED.md | 409ca12fc1c807b76de7e351106f5b501acfd602e9aee236ff695418cc17dc4b |
 | OT_2001CHUNK5_C_BELL_RECONCILED.md | ab41e664aaafcb56e9c9223574a7bac6a3a44aad1f2c05e6334cfd5a99e8fbfc |
-| OT_2001CHUNK5_C_FMC_RECONCILED.md | 07907dd0af4236c029d3c9d2358ad8bee0f7af8e82856e8d5945f5dfa478849d |
-| OT_2001CHUNK5_C_GISBRECHT_MANDATE_CLARIFICATION.md | 6c2a83f0b0025f869f8f3a791516508c014b3e7028d97226c2d7b16ee4bef422 |
+| OT_2001CHUNK5_C_FMC_RECONCILED.md | 9de9ecb095bf7c5daedb13a452d76b8d2f60a9d56e7a016449dfab50df731796 |
+| OT_2001CHUNK5_C_GISBRECHT_MANDATE_CLARIFICATION.md | 11542900f8baae0b5ac379ccdedb6a8d3f3584a058d31bf64ec8c1fde4102f5e |
 | OT_2001CHUNK5_C_FESTO_RECONCILED.md | 006dbf15e31b4795c1bc7956659d49577e0e584ed719767e2af4d3fcf07444ae |
 
 Assembly must use the full linked files and their proposition-level limits, then apply the Chief's actual position and the governing assignment process separately. This index is not a substitute for those legal commitments and supplies no new join.

@@ -66,7 +66,7 @@ The admitted August 5, 1999 trade-dress amendment supplies its actual nonfunctio
 
 - `city-of-erie-v-paps-am_merits_2000-03-29.md`: `f339cee9ad1800dea762364a2cfcf85e5b63c39f3fae091f929f1032f19b25a7`
 
-- `powell-v-ridge_merits_2000-04-03.md`: `50062f52315a2b860b8fc476a9d44d10894f3987abb479266c9d1ee5a95c4738`
+- `powell-v-ridge_merits_2000-04-03.md`: `868cfa7ebe44e7357b3a27281955c0b62b818a4064e91c786e68647529989ed2`
 
 ## Supporting validation artifacts
 

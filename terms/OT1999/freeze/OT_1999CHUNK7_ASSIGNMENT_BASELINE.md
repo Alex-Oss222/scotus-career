@@ -524,7 +524,7 @@ Count treatment: Signed plenary merits lead; one for each of Thomas.
 
 [Source Record](../records/kimel-v-florida-board-of-regents_merits_2000-01-11.md)
 
-Source SHA-256: `30899343c7924fac00d7447dde6e9978d387798baf3bfdade5f785de531d872f`
+Source SHA-256: `2132f0f5858e4d6774cec7f7c6a369933564fffd59780185b39937d36f552f16`
 
 **Case and dockets:** Kimel v. Florida Board of Regents / United States v. Florida Board of Regents; Nos. 98-791 and 98-796
 **Event and date:** Plenary merits decision, 2000-01-11; October Term 1999, chunk 1.
@@ -2191,7 +2191,7 @@ Form is determined from the actual division and the governing appellate tie rule
 
 [Source Record](../records/powell-v-ridge_merits_2000-04-03.md)
 
-Source SHA-256: `50062f52315a2b860b8fc476a9d44d10894f3987abb479266c9d1ee5a95c4738`
+Source SHA-256: `868cfa7ebe44e7357b3a27281955c0b62b818a4064e91c786e68647529989ed2`
 
 **Case and dockets:** Powell v. Ridge; review of 189 F.3d 387 (3d Cir. 1999); no Supreme Court docket supplied.
 **Event and date:** Merits decision; 2000-04-03; October Term 1999.
@@ -2232,7 +2232,7 @@ Stevens, the senior Associate in the Count II minority, assigns to himself the o
 
 [Source Record](../records/reform-party-v-allegheny-county_merits_2000-04-10.md)
 
-Source SHA-256: `4e6976be4d7c77383afa7ac0631e156b0d577ef97d7f74b4a07feab7d19875f1`
+Source SHA-256: `2a8c20a3004e68ae4e91904aa87601e889f84262b8abd926abba6c7548693a25`
 
 **Case and dockets:** Reform Party of Allegheny County v. Allegheny County Department of Elections; review of Third Circuit Nos. 96-3677 and 97-3359.
 **Event and date:** Merits decision; 2000-04-10; October Term 1999.

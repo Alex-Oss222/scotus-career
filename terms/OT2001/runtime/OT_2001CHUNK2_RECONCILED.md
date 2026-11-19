@@ -683,7 +683,7 @@ Remaining factual work consists of the actual browser-market balance, the positi
 
 ## Stage source: OT_2001CHUNK2_LATE_RECONCILED.md
 
-Content digest (SHA-256): acefdb6e50e6d0098a756f11ba34873427c40a117495ee17055c234f49ab0788
+Content digest (SHA-256): d5240202b01d61eeca5fd9b0a56900813c377f0193a04a528ab61a09ed39d04d
 
 # OT2001 chunk 2 — Late historical reconciliation, cases 27–32
 

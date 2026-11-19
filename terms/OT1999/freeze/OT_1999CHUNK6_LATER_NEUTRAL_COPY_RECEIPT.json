@@ -109,7 +109,7 @@
   },
   "MORRISON": {
     "packet": "OT_1999CHUNK6_MORRISON_NEUTRAL_VALIDATED.md",
-    "packet_sha256": "e34dc1b22e2facde033f35efee94f07d0e28d65f658723a4335d82dd1c1dcdaf",
+    "packet_sha256": "ae86bac24ed43c1782513226284d594c1241073fa9b290efdc181baf2abb7d2d",
     "copied_sources": [
       {
         "source": "OT_1999CHUNK6_MORRISON.md",

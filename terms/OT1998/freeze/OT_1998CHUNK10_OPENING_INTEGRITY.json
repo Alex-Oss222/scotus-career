@@ -4,7 +4,7 @@
   "baseline_workspace_sha256": {
     "manifest": "4589a5af6ea4d9f4dca34054844b0b35a2471c74509c8581874a5a90da7b130a",
     "ledger": "e4697f71689158ca279a23732eef7c8847d2a41dabcea62f6ef8b7f8a769dc86",
-    "continuity": "22f79b809754f9fe32a1a48cb6540d7830e6c52c62ab78c50acac6bdce7198cc",
-    "neutral-projection": "c799e8b1c62a66b13fba6f23718b3ac22200b5d4ce4aeebb4288a87f0267df27"
+    "continuity": "ae940957a25da83b1967ef99b80a3e90811850a25c37b6129ff4b9339d59c3a3",
+    "neutral-projection": "159a09d2e94be48eb4816eaf2215f2d4b62ed02f8295e5396cbd4dd9284dc42f"
   }
 }

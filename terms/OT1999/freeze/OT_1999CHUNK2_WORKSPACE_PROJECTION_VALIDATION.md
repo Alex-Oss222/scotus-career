@@ -26,7 +26,7 @@ Record SHA-256 values at projection:
 - `los-angeles-police-department-v-united-reporting_merits_1999-12-07.md`: `06051e8fc4a5b9c9a698724874115008d3294bc871bca3b1077828fd3af3430f`
 - `rayphand-v-sablan-torres-v-sablan_merits_1999-12-13.md`: `b8f8ce6ada81306f12acb842df25d387da84277dd33eb8c01c0c8d7cfae0b786`
 - `steamfitters-v-philip-morris_merits_2000-01-10.md`: `38887bc32e4c932fc1a284032f6da2821c8dd9398621badd298fe0028d38938b`
-- `kimel-v-florida-board-of-regents_merits_2000-01-11.md`: `30899343c7924fac00d7447dde6e9978d387798baf3bfdade5f785de531d872f`
+- `kimel-v-florida-board-of-regents_merits_2000-01-11.md`: `2132f0f5858e4d6774cec7f7c6a369933564fffd59780185b39937d36f552f16`
 - `new-york-v-hill_merits_2000-01-11.md`: `a0104f745e6bf1f112748ba855dfe65f195f15367be38c1b37655b453824596f`
 - `adarand-constructors-v-slater_summary-merits_2000-01-12.md`: `919ec43f12a720b04bb0aee604d004390bf9c17e8dd765fc7c2073348121ea0c`
 - `friends-of-the-earth-v-laidlaw_merits_2000-01-12.md`: `722d88b86a047776ad44f6e914160c08edf935a7ff24f516e67c81f4d92208d3`

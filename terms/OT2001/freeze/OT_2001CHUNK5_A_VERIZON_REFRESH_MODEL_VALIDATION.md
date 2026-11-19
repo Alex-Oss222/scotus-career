@@ -28,11 +28,11 @@ The new commitments contain exactly one row for each of the eight Associates. Ev
 
 Commitments SHA-256: `2ae918f6712619ed7092fb043b6253a2fb1c06aa0d47bed5d6c237584be1dab9`.
 
-Original A commitments remain SHA-256: `fb0825b5dada7eef05777bb9bd88e279208c284e4ec9998e81a8989931a9b546`.
+Original A commitments remain SHA-256: `dd39f783a771f7747e0225c72f0142c8d708f76dc2f6e8b42a48d8dba9e41045`.
 
 Validated A neutral remains SHA-256: `3c923b179a3272067daf953c05910800f7df87299e3b3d22935790426e4d61d6`.
 
-A entering-law slice remains SHA-256: `dbec5615389fd27f3efb0ba40df5340b51d01bc90d2f1ae34d594c8d61796015`.
+A entering-law slice remains SHA-256: `3d298337af613da5706499b81ebfb221c2c8a3e1f255249742b373e2051b0c1e`.
 
 New neutral supplement matches SHA-256: `e523fd22322e7b63dd8fcb094ff86fe4ed5560d53a698a8063d742bc248998a5`.
 

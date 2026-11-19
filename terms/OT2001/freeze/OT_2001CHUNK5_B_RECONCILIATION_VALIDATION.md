@@ -4,7 +4,7 @@
 
 ## Frozen inputs and separation
 
-The independent commitments were verified against the supplied SHA-256 `b38ad78378c6d46c58f02893afa17a8f67f460a574dbc1372c3764e4ebaf5086` before comparison and again after aggregate creation. The accompanying model validation and the exact scoped comparator were read. The comparator was supplied after that freeze. Reconciliation used:
+The independent commitments were verified against the supplied SHA-256 `790b64670cf20b3efca9018af1781585a973f7cf41cd5364c343ab195023cc4b` before comparison and again after aggregate creation. The accompanying model validation and the exact scoped comparator were read. The comparator was supplied after that freeze. Reconciliation used:
 
 - The final B clean neutral base and the applicable entries in the B current neutral projection.
 - The B entering-law slice, current-term public-law handoff and complete May 13 refreshed public-law handoff.
@@ -35,9 +35,9 @@ Only authorized neutral, public-law, independent-commitment and comparator mater
 
 | Product | SHA-256 |
 |---|---|
-| OT_2001CHUNK5_B_COMMITMENTS.md — preserved original | `b38ad78378c6d46c58f02893afa17a8f67f460a574dbc1372c3764e4ebaf5086` |
-| OT_2001CHUNK5_B_RECONCILED.md — complete assembly handoff | `df02b2d3ba7b29f4fd3ef37d19db40a50a5c73437c11ec72e2f078be846d9c35` |
-| OT_2001CHUNK5_B_RECONCILED_70_73_PARTIAL.md — bounded telecom review | `b23e9358dfa21a04361385de8c6b681da8977b0464ca10be16a3aa2d4289ac28` |
+| OT_2001CHUNK5_B_COMMITMENTS.md — preserved original | `790b64670cf20b3efca9018af1781585a973f7cf41cd5364c343ab195023cc4b` |
+| OT_2001CHUNK5_B_RECONCILED.md — complete assembly handoff | `419c6fba5ef0e3bd7d5018b4a00fed2e77b9867df22bc863723edeeb616f99c4` |
+| OT_2001CHUNK5_B_RECONCILED_70_73_PARTIAL.md — bounded telecom review | `a43384d5e5f771f968702b14ce98d570302ec36e8f50f39aa55f2f244617bc19` |
 | OT_2001CHUNK5_B_EARLY_RECONCILED.md — identical Shelton/Brown sections | `afd843f5be5ed21897361d0ca238100c9c22cb40997820b46460dccc2b89bec6` |
 
 The five case sections were copied exactly from the completed partials into inventory order 69, 70, 71, 72, 73. Every Associate appears once per case and five times in the aggregate: forty rows total. Each copied section is identical to its partial. The early Shelton/Brown body is identical to the corresponding complete-freeze body. Restricted link/content screening returned no hits in the reconciled artifacts. The named relative handoff links resolve. The scripts checked transcription, counts, order, links and preservation; they did not decide votes or doctrine.

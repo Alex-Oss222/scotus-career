@@ -44,9 +44,9 @@ After the actual May 13 public-law refresh is supplied and checked, send the com
 
 Mechanical checks passed: both complete component packets copied exactly once; two Mathias source excerpts match; five operative register blocks match; no prohibited external-storage or machine link appears in the combined packet. Writes for this check are confined to this term. No repository-history command was used.
 
-- `OT_2001CHUNK5_B_CLEAN_NEUTRAL_BASE.md`: SHA-256 `94fd3e311eded28b4f3f43205b55c7d3e1dec96f07e6972630d13e8da746d426`.
+- `OT_2001CHUNK5_B_CLEAN_NEUTRAL_BASE.md`: SHA-256 `7b0855c4ea6dcfe3113dbef7c2ab654c601226b55cbaf624aae840f3f5517014`.
 - `OT_2001CHUNK5_B_VALIDATED_NEUTRAL.md`: SHA-256 `0bc9f9bda9ee95c036f64370a552189c7628358f8f4b608f951c599462cfa977`.
-- `OT_2001CHUNK5_B_MATHIAS_VALIDATED_NEUTRAL.md`: SHA-256 `ce395231e7992a59bbd640dfd3d8c8211fab884288d8bd77ce45d86790203fee`.
-- `OT_2001CHUNK5_B_MATHIAS_NEUTRAL_VALIDATION.md`: SHA-256 `10ff3ad4461daebf1a39c8e9491849a84a07bb24b9c8ddca855c428e8b61ebb6`.
+- `OT_2001CHUNK5_B_MATHIAS_VALIDATED_NEUTRAL.md`: SHA-256 `a0b7a384396e338048dd467d1b2d6a0a041319d519009f00ed055b44f72697d1`.
+- `OT_2001CHUNK5_B_MATHIAS_NEUTRAL_VALIDATION.md`: SHA-256 `00b2be0ec40d0c9f34af3ed224d369663cdd1f14ac71cd66992a96c8e4f69325`.
 - `OT_2001CHUNK5_B_MATHIAS_CLEAN_SOURCE.md`: SHA-256 `8443ef9bfec2236aae439cb3a844b654d0cb8dae191d6ec752e92219c1f61e56`.
 - `OT_2001CHUNK5_B_MATHIAS_LOWER_SOURCES.md`: SHA-256 `85d4e6cfe984b125e64279d7598fc0a6ac07aa6ea2a740a3b153108afc013413`.

@@ -1,11 +1,11 @@
 [
   {
     "file": "entering-law/OT_2002CHUNK8.md",
-    "sha256": "ca7a89289faa4bfc3e93f8aab0450d85e28d6890a910b6fdcb2693c84a9f83e3"
+    "sha256": "5bde4f346cfed2b85f568b1ccc6bb41fe4d9a73f5e283c15ea725f587e101c54"
   },
   {
     "file": "entering-law/OT_2002CHUNK8_A.md",
-    "sha256": "12dc0b5411beada1086f70f8a2ee6483138cae50633d4ac023b249b1c7f4e9b5"
+    "sha256": "e74e3914a14422d38cc0a2c15673b8e8874595fd89c2cd8edf46a831022cefe1"
   },
   {
     "file": "entering-law/OT_2002CHUNK8_B.md",
@@ -21,7 +21,7 @@
   },
   {
     "file": "freeze/OT_2002CHUNK8_A_COMMITMENTS.md",
-    "sha256": "dc5f679d0998de1f88619ea7386d0bd28a84ba225f9c0c5d8553265a29b1efe4"
+    "sha256": "6fc1ad70400adc5b73d39257260262edd1e87d762b93f633cd6676f2d59fc63e"
   },
   {
     "file": "freeze/OT_2002CHUNK8_A_NEUTRAL.md",
@@ -29,7 +29,7 @@
   },
   {
     "file": "freeze/OT_2002CHUNK8_A_PARTIAL_RECONCILED.md",
-    "sha256": "d0a061131da9e09b144bebec70580b648cbb96054a6df9bd3266ba1509d3247c"
+    "sha256": "0f76247673a3d4d9062bc00cc987840984984a4fa83c477cad3f724605504cf9"
   },
   {
     "file": "freeze/OT_2002CHUNK8_A_PARTIAL_RECONCILIATION_SOURCES.md",
@@ -37,7 +37,7 @@
   },
   {
     "file": "freeze/OT_2002CHUNK8_A_PREFLIGHT.md",
-    "sha256": "f8db5af785518598fdf91affd312c6500e5405b55c17d4d6d423b1c7f0ab8f46"
+    "sha256": "b6ce370b86dc6f11b9f1a63c14a5c879eec13d375bb5f35bffcd6f52115c89dc"
   },
   {
     "file": "freeze/OT_2002CHUNK8_A_SCOPED_COMPARATOR.md",
@@ -89,7 +89,7 @@
   },
   {
     "file": "freeze/OT_2002CHUNK8_C_PREFLIGHT.md",
-    "sha256": "1d68b0ea6a4bc82dea738f8baf8708361d86f8cb7b21398e0d396556c4090285"
+    "sha256": "70099bd385d528bd864c98f392447d879eb6a07c72451c88d651f6cca5934a07"
   },
   {
     "file": "freeze/OT_2002CHUNK8_C_SCOPED_COMPARATOR.md",
@@ -109,7 +109,7 @@
   },
   {
     "file": "freeze/OT_2002CHUNK8_CLACKAMAS_COUNT_VALIDATED_NEUTRAL.md",
-    "sha256": "a1ded0272d3cbfde7d1e7e6476ea5523dfa6156574cfbebce5c4def7f40b9702"
+    "sha256": "74486ba1f33c8f982924440efa4ff7d1ce898adf5413bacc037310d6203f8e1c"
   },
   {
     "file": "freeze/OT_2002CHUNK8_CLACKAMAS_RECONCILED.md",
@@ -117,11 +117,11 @@
   },
   {
     "file": "freeze/OT_2002CHUNK8_CLACKAMAS_VALIDATED_NEUTRAL.md",
-    "sha256": "58366e9681fc00c0f3e4ef9810e55103217f07481d443f70aade68ea0d7cc010"
+    "sha256": "a4cc99ecbfcd647f4bc0a791d6751971c5d41234a4363acfe57ae2c94d29ae70"
   },
   {
     "file": "freeze/OT_2002CHUNK8_COMMITMENTS.md",
-    "sha256": "d7d3cd283fdbf501c66341448f9b1b1db1b619b0a3ac24e3f2440b837c3ce4bf"
+    "sha256": "3da0395c767888cb3fc9fa66417d689747ee518f4490f216baf0ab75909f2f84"
   },
   {
     "file": "freeze/OT_2002CHUNK8_CONTROL_PREFLIGHT.md",
@@ -149,7 +149,7 @@
   },
   {
     "file": "freeze/OT_2002CHUNK8_RECONCILED.md",
-    "sha256": "5369ca323b9c9ec2aa159c484c3f6b90d27b0036e59291840055bb4075ab298f"
+    "sha256": "8b9a589cbdd883ebc3ad7704033f8e5281a3b24bcfab51366a823bb974acc42c"
   },
   {
     "file": "freeze/OT_2002CHUNK8_STATE_FARM_FINAL_COMMITMENTS.md",
@@ -161,6 +161,6 @@
   },
   {
     "file": "freeze/OT_2002CHUNK8_STATE_FARM_VALIDATED_NEUTRAL.md",
-    "sha256": "b85886aa8c03aee2dc8004590b582954218f3f9f83d1dacf33ef3d979950a227"
+    "sha256": "6895cbe333a950145417334ca9c7d4c4f8f76c241d373cb7315354eaee1b469f"
   }
 ]

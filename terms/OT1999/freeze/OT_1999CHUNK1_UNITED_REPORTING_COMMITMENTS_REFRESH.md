@@ -4,7 +4,7 @@
 
 **Stage and scope:** Completed independent non-Stone modeling under Engine sections 3G and 7, before adjudication. This is not a decision or a reconciliation. The frozen copy supersedes only the United Reporting section of `freeze/OT_1999CHUNK1_COMMITMENTS.md` and the corresponding United Reporting-specific shorthand in that file's closing source-limit receipt. All other matters remain exactly as originally frozen; Hill remains stopped. The original freeze remains byte-identical.
 
-**Original freeze identity:** SHA-256 `fecd025c4227f3ee23a5f24932c5a03aaceb47268aae13a3d063b92917823d86`.
+**Original freeze identity:** SHA-256 `09580be626cf009435f21632b64cb9277c4240c47b68f58edfe9174a5e752fc1`.
 
 **Isolation:** This context has not opened the current-case historical comparator, any reconciliation, the source-control report, any current Stone position, current briefs, Canonical Decision Records, or the current-case Supreme Court opinion. The clean original-record reader's validation supplies the new facts; the model does not claim to have read the underlying current-case originals itself. Prior published opinions are consulted only for date-eligible entering law and the Associates' own public positions. No author or assignment is chosen here.
 

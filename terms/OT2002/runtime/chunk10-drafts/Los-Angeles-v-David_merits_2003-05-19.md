@@ -17,7 +17,7 @@ The neutral and reconciliation source limitations are retained at their stated l
 
 ## Stone: exact approved text and compatibility
 
-The following is copied mechanically from `terms/OT2002/runtime/OT_2002CHUNK10_C_STONE.md`, case 123, SHA-256 `29888ccc4155fbff9f5dbe6f5486de5c501bcc934e302eee5c041d901d6ec34d`. It preserves the fixed core, all qualifications, conditional branches and remedy instructions without alteration.
+The following is copied mechanically from `terms/OT2002/runtime/OT_2002CHUNK10_C_STONE.md`, case 123, SHA-256 `608575bf4365763696d620700c51b53247f7bb94d3e1f10cbe7e29e3c17232d8`. It preserves the fixed core, all qualifications, conditional branches and remedy instructions without alteration.
 
 ## 123. Los Angeles v. David
 
@@ -71,7 +71,7 @@ Stone joins neither the eight-Justice sufficiency determination nor its reversal
 
 ## Frozen non-Stone commitments and reconciliation
 
-The original frozen case section is preserved at `terms/OT2002/freeze/OT_2002CHUNK10_C_COMMITMENTS.md`, heading beginning `## 123.`, SHA-256 `a07cbfa5405da06eb0e74b945c7989c9ab0cf3b94ed8bd824ee4e2b70572c7e4`; its exact case-section SHA-256 is `b15f1d121b702e32b9500d0be46453a5e396acd929367ec55c436b86d191fd7c`. The following operative case section is copied mechanically from authoritative `terms/OT2002/freeze/OT_2002CHUNK10_C_RECONCILED.md`, SHA-256 `f63cf873a5ec29361d3df92af0a88875502f4d9cbb627b3da38f2ea39761bd89`. It contains every Associate's component commitment, personal date-eligible basis, strongest adverse path, join limits and historical comparison. It controls over the original only where the reconciliation expressly says so. Neither source is changed by assembly.
+The original frozen case section is preserved at `terms/OT2002/freeze/OT_2002CHUNK10_C_COMMITMENTS.md`, heading beginning `## 123.`, SHA-256 `9c3e12a424efc88849052152f3fea80ae7e5d9a343d4442dc379751747cdeaaa`; its exact case-section SHA-256 is `b15f1d121b702e32b9500d0be46453a5e396acd929367ec55c436b86d191fd7c`. The following operative case section is copied mechanically from authoritative `terms/OT2002/freeze/OT_2002CHUNK10_C_RECONCILED.md`, SHA-256 `688a6ffdd3bc02ed3f121cca77a1e71ca0c77da5e7c32e4f5f2c22a02c8d5765`. It contains every Associate's component commitment, personal date-eligible basis, strongest adverse path, join limits and historical comparison. It controls over the original only where the reconciliation expressly says so. Neither source is changed by assembly.
 
 ## 123. Los Angeles v. David — May 19, 2003
 

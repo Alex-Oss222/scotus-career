@@ -154,7 +154,7 @@
     },
     {
       "path": "terms/OT1998/records/jackson_v_benson_merits_1999-03-16.md",
-      "sha256": "c1998772d414c274038e6fb3a31723fcc057a7be6b3bc85202321a1b4648ef76",
+      "sha256": "56ea86200a38fa737782908388debf6da14d11d5e644efc43c04f6057d4b1e5f",
       "bytes": 29402
     },
     {
@@ -354,12 +354,12 @@
     },
     {
       "path": "terms/OT1998/output/OT_1998CHUNK5.md",
-      "sha256": "5cf2aa9039bd8d017043ea2dd71b88295ca7d420ba90f9902f33e71a160d8704",
+      "sha256": "61d2a05c9d60afdafaba551a4b7683aefcfe638a29de8a7aa6f31dba9d40077a",
       "bytes": 148374
     },
     {
       "path": "terms/OT1998/workspace/continuity.md",
-      "sha256": "2993de5eedefb0bcba6bc22c32a2e4a0fdd15876e3a7eb79727ab4c275ac3609",
+      "sha256": "8bbeb226e2380724770e06097af6a6638fb594e90c5bb9643a3a44c6b2bc5029",
       "bytes": 397489
     },
     {
@@ -374,7 +374,7 @@
     },
     {
       "path": "terms/OT1998/workspace/neutral-projection.md",
-      "sha256": "dfa77e31adf56165c3dea23c540491ee19f28ca24fa24abb1a013b165da2298a",
+      "sha256": "4096d59efa3648370749a9b41a87f30fe09d5e062d94a19471f78588555a12aa",
       "bytes": 397925
     },
     {
@@ -394,7 +394,7 @@
     },
     {
       "path": "terms/OT1998/briefs/OT_1998CHUNK11.md",
-      "sha256": "ca05d63e6407b39ecf4c747ac8650205a838c088b3fadefc87c8b35d75c8277a",
+      "sha256": "3cb558180f9e2dfa3d2e79a48ca276705b119484fc00c79947dd0447c000b0eb",
       "bytes": 83683
     },
     {

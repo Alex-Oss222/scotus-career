@@ -297,7 +297,7 @@
       "date": "2001-02-21",
       "case": "Board of Trustees of the University of Alabama v. Garrett",
       "record": "Board_of_Trustees_of_University_of_Alabama_v_Garrett_merits_2001-02-21.md",
-      "record_sha256": "f5d1799fc392ecbbb37f7aafc05bebdd8b54fd0012aecf01a27bb0d504fd54f3",
+      "record_sha256": "a19720a391e0afab98fd4a4306606c7b4da16764fcbf33f60d1e359bef1a54da",
       "authors": [
         "Stone-Zsela"
       ],
@@ -422,7 +422,7 @@
       "date": "2001-03-05",
       "case": "Department of the Interior v. Klamath Water Users Protective Association",
       "record": "Department_of_the_Interior_v_Klamath_Water_Users_Protective_Association_merits_2001-03-05.md",
-      "record_sha256": "ae858228360d8db4d92807c1a960b510513767afe17be0a086fdc2dd2565c1cd",
+      "record_sha256": "906d6c3db1b2ff6d5ac3e4839521a1f510d9b66c8e260e02dacb1401773b7fec",
       "authors": [
         "O'Connor"
       ],
@@ -434,7 +434,7 @@
       "date": "2001-03-19",
       "case": "United States v. Hilario; judgment below 218 F.3d 19; no separate Supreme Court docket supplied.",
       "record": "United_States_v_Hilario_merits_2001-03-19.md",
-      "record_sha256": "6b726cbb23ca5a8f616bdf142a7195c38b480e2bba8641701a0e6368c7353d64",
+      "record_sha256": "cb98caac8d73ca7c6bebc437e6d5af08814cb7c9a8020b3fc1b9fa9a170a68d2",
       "authors": [
         "Breyer"
       ],
@@ -550,7 +550,7 @@
       "date": "2001-03-19",
       "case": "Ohio v. Reiner",
       "record": "Ohio_v_Reiner_summary-disposition_2001-03-19.md",
-      "record_sha256": "1a5a2311e98cddfd1fa16dd5529e2546aa73505de3a96c74ec7dfb6ae169864d",
+      "record_sha256": "160c2b7c0eb67cf1dc6940e4dcad04beaeb1c33e41dcddebaaaf5aa3de5be578",
       "reason": "No signed lead in the internal opinion table."
     }
   ]

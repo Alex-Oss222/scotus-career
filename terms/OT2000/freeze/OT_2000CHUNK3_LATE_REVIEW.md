@@ -6,11 +6,11 @@
 
 | Record | SHA-256 |
 |---|---|
-| `records/Department_of_the_Interior_v_Klamath_Water_Users_Protective_Association_merits_2001-03-05.md` | `ae858228360d8db4d92807c1a960b510513767afe17be0a086fdc2dd2565c1cd` |
+| `records/Department_of_the_Interior_v_Klamath_Water_Users_Protective_Association_merits_2001-03-05.md` | `906d6c3db1b2ff6d5ac3e4839521a1f510d9b66c8e260e02dacb1401773b7fec` |
 | `records/Ohio_v_Reiner_summary-disposition_2001-03-19.md` | `ec25d18c5f064eed20177d8c2f976dd24d1b08148dab4452d0d218453abd5df5` |
-| `records/United_States_v_Hilario_merits_2001-03-19.md` | `6b726cbb23ca5a8f616bdf142a7195c38b480e2bba8641701a0e6368c7353d64` |
+| `records/United_States_v_Hilario_merits_2001-03-19.md` | `cb98caac8d73ca7c6bebc437e6d5af08814cb7c9a8020b3fc1b9fa9a170a68d2` |
 
-The review uses the original authorized late handoffs and law readings, the actual late Stone supplement and separate Reiner petition commitment, and the granted-merits submission premise. The effective-public-law supplement before March 5 matches `3d6992d89f782affb461b87ee10db39d99a35ed34230ed29cbb85bdc3f217618`. The supplement before March 19 matches `3f2caaee253d69356de87624487199d496fa98ac09e042a76f2631510cb7e74f`; it preserves the preceding supplement and adds the exact Klamath Public Projection. The intervening decisions supply no material change to the late cases' frozen controlling premises. Reiner and Hilario correctly share a same-day substantive baseline.
+The review uses the original authorized late handoffs and law readings, the actual late Stone supplement and separate Reiner petition commitment, and the granted-merits submission premise. The effective-public-law supplement before March 5 matches `e3adf04232d2a2ef594a1c957d93c6f323c75790d5aa8e95e6e980bc0f371aea`. The supplement before March 19 matches `78fcc214a9ef20cb5b94f60322c3ee3c67c2a51f26e6c36c3e4bdb5ab1f710a8`; it preserves the preceding supplement and adds the exact Klamath Public Projection. The intervening decisions supply no material change to the late cases' frozen controlling premises. Reiner and Hilario correctly share a same-day substantive baseline.
 
 ## Substantive and assignment review
 
@@ -35,4 +35,4 @@ This review covers the three final late Records and their assignment and project
 
 ## Final Reiner completeness confirmation
 
-The final Reiner Record has SHA-256 `1a5a2311e98cddfd1fa16dd5529e2546aa73505de3a96c74ec7dfb6ae169864d`. Its Public Projection's Separate Writings block now states that no separate writing is filed, consistently with the reviewed Opinion Topology. Removing only that added sentence reproduces the previously reviewed hash `ec25d18c5f064eed20177d8c2f976dd24d1b08148dab4452d0d218453abd5df5`, confirming that all other bytes are unchanged. The narrow completeness repair introduces no substantive change; the review conclusions remain valid for this final version.
+The final Reiner Record has SHA-256 `160c2b7c0eb67cf1dc6940e4dcad04beaeb1c33e41dcddebaaaf5aa3de5be578`. Its Public Projection's Separate Writings block now states that no separate writing is filed, consistently with the reviewed Opinion Topology. Removing only that added sentence reproduces the previously reviewed hash `ec25d18c5f064eed20177d8c2f976dd24d1b08148dab4452d0d218453abd5df5`, confirming that all other bytes are unchanged. The narrow completeness repair introduces no substantive change; the review conclusions remain valid for this final version.

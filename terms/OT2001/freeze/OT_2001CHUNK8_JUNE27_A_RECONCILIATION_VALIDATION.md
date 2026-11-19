@@ -26,7 +26,7 @@ Three assigned matter headings, with exactly one row for each of the eight Assoc
 |---|---|
 | terms/OT2001/freeze/OT_2001CHUNK8_JUNE27_COMMITMENTS.md | 050d010402796d5982213f64e2748bbb628f2d4df19cca2b79d709027574b091 |
 | terms/OT2001/freeze/OT_2001CHUNK8_JUNE27_NEUTRAL.md | e85131248cf62edcb432b01aca8939161de13cd86f8d18a34ddde7df0361eb8c |
-| terms/OT2001/entering-law/OT_2001CHUNK8_JUNE27_ENTERING_LAW.md | 03fe29a96de4277703c3ece1f063e1ee971b429f61161c1bad562ec6402aa10c |
+| terms/OT2001/entering-law/OT_2001CHUNK8_JUNE27_ENTERING_LAW.md | 7043e2d878fdc813a13d8868ac390f3369e14cb0754082b351217d5ef1f3d436 |
 | terms/OT2001/entering-law/OT_2001CHUNK8_THROUGH_JUNE24_PUBLIC_LAW.md | 6cb1bd0339af44a23a47d02ea0e3ed153241a6a14a8bc549bd9d9e13619b52a4 |
 | terms/OT2001/sources/chunk8-comparator/june27-reconcile-a-prep.md | 26fe5c95d5f56513644657a4d1d43795420e4fbd7e8dd02a0ebc2508bb78c4a0 |
 | terms/OT2001/sources/chunk8-comparator/lamb-lower.pdf | a04d434a050f7db0181a9796242a7f1450416ea8700cb9ddff33b2ed79092447 |

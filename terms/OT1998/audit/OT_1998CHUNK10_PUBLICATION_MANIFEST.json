@@ -238,7 +238,7 @@
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_ACKER_RECOUNT.json",
       "bytes": 85271,
-      "sha256": "e770b3d3ad8fc6d2d4948669e27acd6795700519a944aecfa6a4165439f06c5b"
+      "sha256": "d635c3203caf4a96f46cab074045dbe20527d9769b39a9dc1e86ec9a1d5aaf69"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_ACKER_SOURCE_PINPOINT_CORRECTION.md",
@@ -353,7 +353,7 @@
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_DALLAS_RECOUNT.json",
       "bytes": 83575,
-      "sha256": "d6a7609d1eba445e9a3a0e2f0f4c28f73a81b9bff2f1e337b2bb12c28665bf67"
+      "sha256": "153c4da8603b40e63c3279aea9fa926e1c2ebc48903e09ac68e33df230063428"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_DYSON_COMMITMENTS.md",
@@ -418,7 +418,7 @@
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_GRUPO_RECOUNT.json",
       "bytes": 80485,
-      "sha256": "e1924cd2c4f90f192c658946ce18da63e77c7a24bd149a94d870563a05db7459"
+      "sha256": "68c8384da49c02633954962414adcb7945c08e52b8427aed6cec8bc5dbd11f52"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_GRUPO_VALIDATED_NEUTRAL.md",
@@ -468,7 +468,7 @@
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_JONES_RECOUNT.json",
       "bytes": 85268,
-      "sha256": "ea33d6260212d529da9e3e1237f2477c47b703b8db13cd52eca0d71da17e5f82"
+      "sha256": "12cfa116ce99e15f5196e212c86d965ffe95663b3d2781c7793f701fda23672f"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_JONES_VALIDATED_NEUTRAL.md",
@@ -488,7 +488,7 @@
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_MARTIN_RECOUNT.json",
       "bytes": 87191,
-      "sha256": "e47a92ba5c96dd35f5fcf181812d591cdd296608be4a66b93c461e67ab6d9d1e"
+      "sha256": "aef47db179160e98289e4bedce76db5d4d0375eca9bcef02deeddb0a9d63d78e"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_NASA_COMMITMENTS.md",
@@ -503,7 +503,7 @@
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_NASA_RECOUNT.json",
       "bytes": 81305,
-      "sha256": "fd4fff5aa4441813e41d45858b03edec077e2c54f815d6841066dd469985504e"
+      "sha256": "2d2cb085d3912e97ff79a14d55300dde50fbf42d81e51525ded8581a1bb8afc1"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_NEUTRAL.md",
@@ -513,12 +513,12 @@
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_OPENING_CONTINUITY.md",
       "bytes": 792345,
-      "sha256": "22f79b809754f9fe32a1a48cb6540d7830e6c52c62ab78c50acac6bdce7198cc"
+      "sha256": "ae940957a25da83b1967ef99b80a3e90811850a25c37b6129ff4b9339d59c3a3"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_OPENING_INTEGRITY.json",
       "bytes": 540,
-      "sha256": "8d3dfa676bcfb235abd4c33722a31ca52829b6769af73139ab3acd731516b9eb"
+      "sha256": "0f76f7ab2dfa0cbbceff6df93e7240883647b3ce0215b11e2368e5be378d5829"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_OPENING_LEDGER.md",
@@ -533,7 +533,7 @@
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_OPENING_NEUTRAL_PROJECTION.md",
       "bytes": 794122,
-      "sha256": "c799e8b1c62a66b13fba6f23718b3ac22200b5d4ce4aeebb4288a87f0267df27"
+      "sha256": "159a09d2e94be48eb4816eaf2215f2d4b62ed02f8295e5396cbd4dd9284dc42f"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_OPENING_VALIDATION.md",
@@ -588,7 +588,7 @@
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_SCHLEIFER_RECOUNT.json",
       "bytes": 79487,
-      "sha256": "e51c48e3c19a48187fc47b000899658d34e47a5337f7ce8ac9164f5c6299fc12"
+      "sha256": "48407ee56fe9d5ff9114e26493dcf8627013f6f2258320f638898c9073ffaf2c"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_SCOPED_NEUTRAL_VALIDATION_RECEIPT.md",
@@ -638,7 +638,7 @@
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_STRICKLER_RECOUNT.json",
       "bytes": 81946,
-      "sha256": "375d983ccbd83620e8e38d1ef3bade9259db47fd205f678c44ebe6f47efddbb3"
+      "sha256": "6b55b05765d9596cda217339f1aa627e2ff2bd6f9619a5c077e695d8271564c2"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_SUTTON_COMMITMENTS.md",
@@ -653,7 +653,7 @@
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_SUTTON_RECOUNT.json",
       "bytes": 88530,
-      "sha256": "7ed6ff24909edb714a4271899da9dcd6bf94df1354675a049d896895b582372f"
+      "sha256": "6f4051674663a1c2fd2e611c4beccb06daa8210f23387e85c6e6c70a2f0b6f35"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_VALDESPINO_COMMITMENTS.md",
@@ -668,7 +668,7 @@
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_VALDESPINO_RECOUNT.json",
       "bytes": 82798,
-      "sha256": "f83bded6a36aef17b8946fe76bd8e46244127478ca88ed6ee0f04281cbabe5a4"
+      "sha256": "47bd8dba5466ccb39a59d1e60905c0a20822c93aeb31f98d71fb2218e10b147b"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_VALIDATION.md",
@@ -688,7 +688,7 @@
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_WEST_RECOUNT.json",
       "bytes": 78861,
-      "sha256": "9a4932540d769961becc2771fc2a2b767f0678a2f49ccb40beb9e2f99abcdc93"
+      "sha256": "d8b1ac785b2513e0f8c0406bb480981118130e171f9005c4af582ea9145cbe56"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_WEST_VALIDATED_NEUTRAL.md",
@@ -1368,7 +1368,7 @@
     {
       "path": "terms/OT1998/workspace/continuity.md",
       "bytes": 947153,
-      "sha256": "f21eee32e5c8968da1da6a53cb09b716a9c067fa47624559ffd635155e5f22bf"
+      "sha256": "6c47187511ac0c9b762c63be798d922a45301ced1b1a9a1c2cebb7f10e116d1d"
     },
     {
       "path": "terms/OT1998/workspace/ledger.md",
@@ -1383,7 +1383,7 @@
     {
       "path": "terms/OT1998/workspace/neutral-projection.md",
       "bytes": 951432,
-      "sha256": "7f96d0c0ec5a450d0e578542892b18b047a623901e69deee9101448f256c120d"
+      "sha256": "65771f71205ac849928b2468191bb3f2160e8f275f51feaa7d745ad8b813e43d"
     }
   ],
   "file_count": 277,

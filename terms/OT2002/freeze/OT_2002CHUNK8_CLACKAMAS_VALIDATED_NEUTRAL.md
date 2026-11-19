@@ -75,7 +75,7 @@ The text below was extracted by script from the saved complete primary text. Ori
 
 - Clackamas-neutral-source-excerpts.md: SHA-256 e760f35392b40c468417d471e10eb4c5e0923d86b56cdc4ee909533eadeff71e.
 - OT_2002CHUNK8_C_NEUTRAL.md: SHA-256 6243d06b4bd9a2d82e6d65a522e9e89051dacaada841eaf8aace2fff72c5155a; unchanged.
-- OT_2002CHUNK8_C_PREFLIGHT.md: SHA-256 1d68b0ea6a4bc82dea738f8baf8708361d86f8cb7b21398e0d396556c4090285; unchanged.
+- OT_2002CHUNK8_C_PREFLIGHT.md: SHA-256 70099bd385d528bd864c98f392447d879eb6a07c72451c88d651f6cca5934a07; unchanged.
 - OT_2002CHUNK8_C.md: SHA-256 b44d9a4476c42725c50b0093a7673c194e3b1d4139d7919a0599bb71c144b7ba; unchanged.
 
 Checks completed: all supplied incidents addressed; apparent facts distinguished from findings; acknowledgments distinguished from statutory commands; contrary employment evidence retained; threshold arithmetic stated conditionally; source copied mechanically; no current-matter votes or outcome imported; original files preserved.

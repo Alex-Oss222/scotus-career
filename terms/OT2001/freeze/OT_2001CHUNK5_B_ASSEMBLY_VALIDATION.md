@@ -38,10 +38,10 @@ No standing Stone fallback is used. No material Associate ground or result chang
 | [brown_v_gilmore_merits_2002-05-20.md](../records/brown_v_gilmore_merits_2002-05-20.md) | `12ed4b934088bbf0fb04cdf6f5e4676c8c303e342a4c8caecaf07857c1da9976` | 349 |
 | [mathias_v_worldcom_technologies_dig_2002-05-20.md](../records/mathias_v_worldcom_technologies_dig_2002-05-20.md) | `ce5fcc31d9dd776ef0ff909b13da10c4ca2c323f4cd3faeadbd6dde80e760a17` | 226 |
 | [united_states_v_cotton_merits_2002-05-20.md](../records/united_states_v_cotton_merits_2002-05-20.md) | `6bd05d4e39ca64384295fcae672d1b8f1a43852b7b16ad9e48a2a9317470c7f3` | 142, 164, 228 |
-| [verizon_maryland_v_public_service_commission_merits_2002-05-20.md](../records/verizon_maryland_v_public_service_commission_merits_2002-05-20.md) | `aa380a601095064a2cf6e4c2da6ffe96ddeb846749dfdd60437d1b03bc024ec8` | 287, 81, 294, 61 |
+| [verizon_maryland_v_public_service_commission_merits_2002-05-20.md](../records/verizon_maryland_v_public_service_commission_merits_2002-05-20.md) | `c75ec961b888c9e245eea95907c83062f67dc23af1b68e748e27ed976c89ed1c` | 287, 81, 294, 61 |
 
 The conservative Brown count includes its complete Limits and application paragraph. No reasoning is relocated to evade the ceiling. Published separate summaries preserve the actual opposing or qualifying ground.
 
-Frozen-input hashes were independently rechecked: original commitments `b38ad78378c6d46c58f02893afa17a8f67f460a574dbc1372c3764e4ebaf5086`; early reconciled handoff `afd843f5be5ed21897361d0ca238100c9c22cb40997820b46460dccc2b89bec6`; complete reconciled handoff `df02b2d3ba7b29f4fd3ef37d19db40a50a5c73437c11ec72e2f078be846d9c35`. No original handoff was rewritten.
+Frozen-input hashes were independently rechecked: original commitments `790b64670cf20b3efca9018af1781585a973f7cf41cd5364c343ab195023cc4b`; early reconciled handoff `afd843f5be5ed21897361d0ca238100c9c22cb40997820b46460dccc2b89bec6`; complete reconciled handoff `419c6fba5ef0e3bd7d5018b4a00fed2e77b9867df22bc863723edeeb616f99c4`. No original handoff was rewritten.
 
 **Remaining blockers:** None in B assembly. The initial Record lineage accurately leaves the operator commit pending. Whole-chunk integration and validation have not been represented as completed by this subtask.

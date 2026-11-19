@@ -37,5 +37,5 @@ The following SHA-256 values identify the preexisting Records as read. They are 
 | Germany | `2647b32101a30210bc75d5913e3814ee2fcabf366f59f4714acebf17a61748d2` |
 | NFFE / FLRA | `5dbc96b4f44a9ed637dfb72198d61c5b0358a98fc36c68b8a7f8d3eb178bc654` |
 | Stewart certiorari | `a1491688bc448a255a7e00c89d895ce3fc4e673e1817949325a4e039a7efd19c` |
-| Jackson | `c1998772d414c274038e6fb3a31723fcc057a7be6b3bc85202321a1b4648ef76` |
+| Jackson | `56ea86200a38fa737782908388debf6da14d11d5e644efc43c04f6057d4b1e5f` |
 | Reform | `ebf42fc2826827490a92b3d0af05d41cbf1b17b7a108ea893583f43092984cc5` |

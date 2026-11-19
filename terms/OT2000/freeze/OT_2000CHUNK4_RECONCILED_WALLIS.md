@@ -18,7 +18,7 @@ The lower source supports the independent handoff's central distinctions. Paragr
 |---|---|
 | `OT_2000CHUNK4_COMMITMENTS_WALLIS.md` | `25a481afdf0d89c32bca2c721a12399f2c3123d4d0b920e8aa60b53cc2028fde` |
 | `OT_2000CHUNK4_WALLIS_MODEL_SOURCE_RECEIPT.md` | `f78dbd7ae90961df66f89e766d7981049ed107e4acc650473cb416b5774c0b54` |
-| `OT_2000CHUNK4_WALLIS_NEUTRAL_REFRESH.md` | `042c96feb2e7a62a8cb007424ac22e7648c847b7e239713e5acaa8d54b17b2a8` |
+| `OT_2000CHUNK4_WALLIS_NEUTRAL_REFRESH.md` | `dcaf43dd50ed50b6da886bb5d3e1a19bfc8f55f58cd00cf808258501c30ee4c0` |
 | `../entering-law/OT_2000CHUNK4_EFFECTIVE_BEFORE_2001-04-02_FINAL.md` | `d0647790e6a619d5250d71bbf5b01d97b0951a75b3d3369acf9f354af42e9d19` |
 | `tmp/ot2000-later-neutral/wallis.txt`, workspace-relative | `c690c176caf7a799aac7359ffbbb14003c084abb00c137b08796897d1cb66391` |
 

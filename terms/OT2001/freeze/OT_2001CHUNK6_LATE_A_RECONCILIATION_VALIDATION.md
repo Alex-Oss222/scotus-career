@@ -37,18 +37,18 @@ These hashes identify the reading copies. Relevance-bounded entering-law review 
 | Input relative to term | SHA-256 |
 |---|---|
 | `freeze/OT_2001CHUNK6_LATE_A_COMMITMENTS.md` | `bdd0faf80db490f1921ac48518c0974c5da43bcd064d2ba6dd8eeda1a0f1943e` |
-| `freeze/OT_2001CHUNK6_LATE_A_MODEL_VALIDATION.md` | `9de5ad1d92e3c8eab42b490ea25efdcdf33b2681841eb13ca50879dd0a678898` |
+| `freeze/OT_2001CHUNK6_LATE_A_MODEL_VALIDATION.md` | `e0b9d8640d4fe89a4527d73c46e93904c66f98ad8c13137eb2d3171884708c14` |
 | `freeze/OT_2001CHUNK6_A_LATE_NEUTRAL.md` | `e69cd533364ff395074a991358c2c2239ee5ae12009b3b33969ca9e1e9fb5a43` |
 | `freeze/OT_2001CHUNK6_FRANCONIA_VALIDATED_NEUTRAL.md` | `e2c3b669fcb2f5ec8b0aaa897a29b3db12c15255dbfaeda4d3655e9e54e478a3` |
 | `freeze/OT_2001CHUNK6_FRANCONIA_SOURCE_EXTRACT.md` | `a63a53e2ab558f27a03915a0d9700b931be1d316ca0f927ed83ba666c05540ab` |
 | `runtime/OT_2001CHUNK6_LATE_A_COMPARATOR.md` | `d1fa92a5d4a2300a12983fffc9eda5cf9676bfff173780965477dca9bca39136` |
 | `entering-law/OT_2001CHUNK6_A.md` | `c3fab5833db7dfdc9a3117051a76a5c7e61cb49524876b45f560ad937911e021` |
-| `entering-law/OT_2001CHUNK6_A_AUTHORITIES.md` | `74a66f56efb791f19876d0c579aaffce06f6eeff466431b9dcf53a8ba126b1d9` |
+| `entering-law/OT_2001CHUNK6_A_AUTHORITIES.md` | `f9ae1aecdc287bf6ad2fe26e51f8973308c3d0e401fbbfd9b3eda9084961be5a` |
 | `entering-law/OT_2001CHUNK6_A_CURRENT.md` | `153ff5b2c0d8805534777839dfcb7ead8996ffd803ad56028e7208142d56bf6a` |
-| `entering-law/OT_2001CHUNK6_A_PUBLIC_POSITIONS.md` | `b293546b2fc132d68bf879067cc42521a7495cbe5eff8c93abb7612abc6c79c4` |
+| `entering-law/OT_2001CHUNK6_A_PUBLIC_POSITIONS.md` | `10a1887496f09e5a9b5d5d644b9682f62b1f9d031465850e51acd172c3a7ee7d` |
 | `entering-law/OT_2001CHUNK6_B.md` | `c51c55a9b6e637cb52ae0361deb3048943b20db8e80ca87aed609b89ce7187d2` |
 | `entering-law/OT_2001CHUNK6_B_HOLDINGS.md` | `895f8f778958cada14f9bef4271600da9d6fc8ce00b74ce30e6b9153e416dfdc` |
-| `entering-law/OT_2001CHUNK6_B_CURRENT_LAW.md` | `be19fca6f5a5a02d44f054e6774c0303c9ceba814daebd8c63d00920041f14c4` |
+| `entering-law/OT_2001CHUNK6_B_CURRENT_LAW.md` | `026bd16f642749f0ec398fbe09d06606db148dc31df74366cbb5b07b5d5ae950` |
 | `entering-law/OT_2001CHUNK6_B_FRANCONIA_PRIOR_PUBLIC.md` | `2d80df43b652d18f79346d2c18e86d1b9c2e2b0fb3a157a5ef4703480637ecd6` |
 | `sources/chunk6-comparator/echazabal_00-1406.ZS.txt` | `abc0762637420d2f1d36606be13d5e8474f2ebf49bf553e799a9099b1128fedb` |
 | `sources/chunk6-comparator/echazabal_00-1406.ZO.txt` | `4f063d025e216c5546c22d1b72f62e76f01c709698a9d8c09a97b3caa9fb4cc9` |

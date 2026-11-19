@@ -600,7 +600,7 @@ These sources support bounded judicial commitments, not a reconstruction of miss
 
 ## Stage source: OT_2001CHUNK2_C_INDEPENDENT_COMMITMENTS.md
 
-Content digest (SHA-256): 6c68bc8d062db1194783fc86aa47a116164fe5b2e857170494bfee4ff4cad288
+Content digest (SHA-256): 21ca98659308a333cc5161503b8c214ddb0ec8feeea54e261e96a68b91428f8f
 
 # OT2001 chunk 2 C — Independent non-Stone commitments
 

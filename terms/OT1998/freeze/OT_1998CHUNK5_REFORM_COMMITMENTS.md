@@ -8,7 +8,7 @@
 
 **Authorized inputs read:** [frozen neutral packet](../freeze/OT_1998CHUNK5_REFORM_NEUTRAL.md); [frozen contribution supplement](../freeze/OT_1998CHUNK5_REFORM_CONTRIBUTIONS_NEUTRAL.md); [focused entering law](../entering-law/OT_1998CHUNK5_C_REFORM_FOCUSED.md); [additional exact contribution authorities and public writings](../entering-law/OT_1998CHUNK5_REFORM_CONTRIBUTIONS.md); AGENTS.md and the Engine provisions governing independent modeling, reachability and incomplete sources. The reading index supplied navigation only. The complete saved Ninth Circuit opinion and all six linked 1998 Code extracts were also read. No private position, same-matter Supreme Court comparator, prior model preparation, existing commitments, reconciliation, raw Decision Record or pending-case determination was read.
 
-The principal neutral packet's final SHA256 is FB2005A00942443E35D37DBB78F24FF525E5C4341B95B3D02B40084E36BDE494. The contribution supplement identifies SHA256 EFF482C0EDF459F54AA93E9F66B95400A7630D406E7F60000B19B44F1EA95731. The exact contribution-law copy is CD8272A6B6E83034C7B5279595EF284D802B6F8BA72BF50A88F64E4E99EC67E9. The neutral packet's completed-event review supplies the March 17 chronology; no pending Gable action is treated as law.
+The principal neutral packet's final SHA256 is E47CC472066639B6DA27066A0191410A3E97F43F6369A272450CC4BB41F70C51. The contribution supplement identifies SHA256 EFF482C0EDF459F54AA93E9F66B95400A7630D406E7F60000B19B44F1EA95731. The exact contribution-law copy is CD8272A6B6E83034C7B5279595EF284D802B6F8BA72BF50A88F64E4E99EC67E9. The neutral packet's completed-event review supplies the March 17 chronology; no pending Gable action is treated as law.
 
 ## Component commitments and shared operative grounds
 

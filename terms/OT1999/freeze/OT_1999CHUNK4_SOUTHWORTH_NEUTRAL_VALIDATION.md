@@ -8,6 +8,6 @@ SHA256 frozen/runtime preflight: f6238dfa7a66e686c5ff3af988cbe7df2b77691e70f69ff
 
 SHA256 original full neutral source: 7017b63a8ccf32761f32ac27994d58c6440ef7849e1d7340596ed08a5f83ecef
 
-SHA256 entering-law slice: 0e41300ebc0d79de38fd71cd3dc4f8f7a1c24362a7b5e93719b610d6f45895a6
+SHA256 entering-law slice: b6b5470d8b4f610420c4c14a3c97d4fc4ac5b15fe175118c6671dc04d34520be
 
 The runtime preflight and freeze are byte-identical. The slice is a reading copy, never independent authority. Future effective law requires a bounded dependency review before modeling; no other chunk-4 outcome is assumed by preparation.

@@ -2,7 +2,7 @@
 
 **Stage:** Engine §§3C and 7; reconciliation before assembly. No controlled position, private material, complete Decision Record or assignment input was received. No opinion author is assigned.
 **Event and cutoff:** May 15, 2000; consolidated Nos. 99-5 and 99-29; argued January 11, 2000. All uncoordinated May 15 matters share the law entering that date. Neither McIver nor another same-day decision supplies a premise here.
-**Authoritative independent handoff:** [Frozen commitments](OT_1999CHUNK6_MORRISON_COMMITMENTS.md), SHA256 `10ff539b35c30fe7913100c34dc2a0e3ad35b637ad401392ba553f019d7f1aa2`, preserved unchanged. Its judgment and component commitments survive this reconciliation, subject to the explicit historical comparison and publication limits below.
+**Authoritative independent handoff:** [Frozen commitments](OT_1999CHUNK6_MORRISON_COMMITMENTS.md), SHA256 `ecec79ed0b60b719a7c0e1264e9c8a990553f64509da162959f9004515f0505f`, preserved unchanged. Its judgment and component commitments survive this reconciliation, subject to the explicit historical comparison and publication limits below.
 
 ## Source lineage and comparator
 

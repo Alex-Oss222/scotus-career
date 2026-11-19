@@ -117,7 +117,7 @@
           "Ginsburg"
         ],
         "exclusion": null,
-        "sha256": "30899343c7924fac00d7447dde6e9978d387798baf3bfdade5f785de531d872f"
+        "sha256": "2132f0f5858e4d6774cec7f7c6a369933564fffd59780185b39937d36f552f16"
       },
       {
         "file": "new-york-v-hill_merits_2000-01-11.md",
@@ -503,7 +503,7 @@
           "Stone-Zsela"
         ],
         "exclusion": null,
-        "sha256": "50062f52315a2b860b8fc476a9d44d10894f3987abb479266c9d1ee5a95c4738"
+        "sha256": "868cfa7ebe44e7357b3a27281955c0b62b818a4064e91c786e68647529989ed2"
       },
       {
         "file": "reform-party-v-allegheny-county_merits_2000-04-10.md",
@@ -513,7 +513,7 @@
           "Breyer"
         ],
         "exclusion": null,
-        "sha256": "4e6976be4d7c77383afa7ac0631e156b0d577ef97d7f74b4a07feab7d19875f1"
+        "sha256": "2a8c20a3004e68ae4e91904aa87601e889f84262b8abd926abba6c7548693a25"
       },
       {
         "file": "bond-v-united-states_merits_2000-04-17.md",
@@ -808,7 +808,7 @@
           "Scalia"
         ],
         "exclusion": null,
-        "sha256": "c95bbbf63642bbcb8b8822ea637f3932d42508a961142535cc9e6816fa2c9928",
+        "sha256": "03bd5c1f0417a293e032ff3e70a31bca5e16be1a577749194a211c31b0d1f46c",
         "new": true,
         "claimed_counts": {
           "Stone-Zsela": 7,
@@ -1502,9 +1502,9 @@
     "sha256": {
       "render-inputs\\OT_1999CHUNK7.md": "bba3ef247b9cbfd8e45019b4e226486462de6565824bd176847c0fa5278c14ac",
       "workspace\\manifest.md": "84f72b5979926bb88faf689817f06b846b9483d92a790ef38ce736b3112dfde6",
-      "workspace\\ledger.md": "4665b3b910c1845c04df79ec696278e2ab7a74604b754eb249982b2cb971ad4b",
-      "workspace\\continuity.md": "e36f070cd86e63decfd354f6a8a38938a250182511d2c91fca5cff1124792547",
-      "workspace\\neutral-projection.md": "666c2e2ebaf2a00cd3f7013c734b6aea1d6532813b5acd120962921711c8a402"
+      "workspace\\ledger.md": "3cf8b4de6fb814315a31a33431af961c9deffa55ae8936ac61489ee2da16fc12",
+      "workspace\\continuity.md": "24ee7d5ffe9c876fd4bad8af8cb28a312ec23f164923f45436ada198899cef81",
+      "workspace\\neutral-projection.md": "545acc79cd09fa74285a51e26102024cd927f912b63dd9f2c88a6e388a9ab126"
     }
   }
 }

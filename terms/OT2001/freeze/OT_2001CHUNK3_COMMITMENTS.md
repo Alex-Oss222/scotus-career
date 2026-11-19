@@ -4,12 +4,12 @@ This navigation-only aggregate identifies the controlling case-scoped freezes. I
 
 | Inventory | Matter | Effective frozen artifact | SHA-256 |
 |---|---|---|---|
-| 33 | Swierkiewicz | [Freeze](../freeze/OT_2001CHUNK3_A_COMMITMENTS.md) | a34afaa4fb7331eb2da71a49fc99c53b7e8672e064abdf97060afb119fa3c0fb |
-| 34 | Porter | [Freeze](../freeze/OT_2001CHUNK3_A_COMMITMENTS.md) | a34afaa4fb7331eb2da71a49fc99c53b7e8672e064abdf97060afb119fa3c0fb |
+| 33 | Swierkiewicz | [Freeze](../freeze/OT_2001CHUNK3_A_COMMITMENTS.md) | 15f4049104197a20715fe68af8a6f2aef6e1e1da74128cb30b9b2711ddf2e0e0 |
+| 34 | Porter | [Freeze](../freeze/OT_2001CHUNK3_A_COMMITMENTS.md) | 15f4049104197a20715fe68af8a6f2aef6e1e1da74128cb30b9b2711ddf2e0e0 |
 | 35 | Raygor | [Freeze](../freeze/OT_2001CHUNK3_REFRESH_AB_COMMITMENTS.md) | 4c26fec29932b86cf547b706b478be8b6ee2206ae790a29cf5fa4445afe50c7d |
-| 36 | Guest | [Freeze](../freeze/OT_2001CHUNK3_A_COMMITMENTS.md) | a34afaa4fb7331eb2da71a49fc99c53b7e8672e064abdf97060afb119fa3c0fb |
+| 36 | Guest | [Freeze](../freeze/OT_2001CHUNK3_A_COMMITMENTS.md) | 15f4049104197a20715fe68af8a6f2aef6e1e1da74128cb30b9b2711ddf2e0e0 |
 | 37 | New York / Enron | [Freeze](../freeze/OT_2001CHUNK3_REFRESH_AB_COMMITMENTS.md) | 4c26fec29932b86cf547b706b478be8b6ee2206ae790a29cf5fa4445afe50c7d |
-| 38 | Young | [Freeze](../freeze/OT_2001CHUNK3_A_COMMITMENTS.md) | a34afaa4fb7331eb2da71a49fc99c53b7e8672e064abdf97060afb119fa3c0fb |
+| 38 | Young | [Freeze](../freeze/OT_2001CHUNK3_A_COMMITMENTS.md) | 15f4049104197a20715fe68af8a6f2aef6e1e1da74128cb30b9b2711ddf2e0e0 |
 | 39 | Vonn | [Freeze](../freeze/OT_2001CHUNK3_B_COMMITMENTS.md) | f3d518e21a713fe319017efb21b03f3f61cc564ab0e37f39d99fce254b423989 |
 | 40 | Delaney | [Freeze](../freeze/OT_2001CHUNK3_B_COMMITMENTS.md) | f3d518e21a713fe319017efb21b03f3f61cc564ab0e37f39d99fce254b423989 |
 | 41 | Ruiz | [Freeze](../freeze/OT_2001CHUNK3_RUIZ_COMMITMENTS.md) | 76c59a4cb5015935f3e54f170e1bc6d2737b64758b61cfe9d4bd0243c4a8e7af |

@@ -56,6 +56,6 @@ Digests identify the supplied input bytes; they do not imply substantive reading
 |---|---|
 | `foundation/ENGINE.md` | `3ea9b517025f55ebcfa6d1857f6ab6e7b84c90529c60f5ca2ba889e31b77afbf` |
 | `terms/OT2000/entering-law/OT_2000CHUNK3_SHAFER.md` | `2ab406e22fd997253c2c1a96aa219fa39fb4330de1e7fc4a319698b0465dabbb` |
-| `terms/OT2000/entering-law/OT_2000CHUNK3_SHAFER_INTERVENING_PUBLIC.md` | `b470174e312cf6e89af721cd5f75b7d79b054cc36ca9086751d67f4e04a84e2f` |
+| `terms/OT2000/entering-law/OT_2000CHUNK3_SHAFER_INTERVENING_PUBLIC.md` | `08d64c5b6f32ad98d9391948de84c9331f42afdfe1540de2ae05cb69176318b3` |
 | `terms/OT2000/freeze/OT_2000CHUNK3_NEUTRAL_LATE.md` | `7e2fe5d1884906057ea20a4c7194e510c1a5e49f133baf3b200ff0cb64815080` |
 | `terms/OT2000/freeze/OT_2000CHUNK3_LATE_NEUTRAL_REFRESH.md` | `e91fb50ae25059cf04d674916f7b50947b819444a1df957991da18dbba1356fe` |
