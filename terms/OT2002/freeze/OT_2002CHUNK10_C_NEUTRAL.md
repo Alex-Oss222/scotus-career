@@ -142,7 +142,7 @@ Kansas v. Nebraska, 538 U.S. 720; No. 126, Original (record and procedural histo
 * **Current Through:** Governing law effective before May 27, 2003.
 
 **Earlier Same-Term Decisions:** Popovich v. Cuyahoga County Court of Common Pleas (November 4, 2002).
-* **Related Questions:** Sex-linked family-care discrimination and Congress’s preventive enforcement power require their own analysis. Particular statutory-enforcement routes do not displace the independent Article I and Fourteenth Amendment bases recognized in Florida Prepaid and Kimel.
+* **Related Questions:** Sex-linked family-care discrimination and Congress’s preventive enforcement power require their own analysis. Particular statutory-enforcement routes do not displace the independent Article I basis recognized in Florida Prepaid and Kimel or the Fourteenth Amendment enforcement power Florida Prepaid preserves.
 
 * **Institutional or Procedural Law:** An alternative ground that sustains the judgment remains distinct from imposing a new merits judgment. If statutory damages enforcement is constitutionally authorized, return the case for its unresolved statutory elements and defenses. A State’s constitutional immunity objection is not a decision that the employee necessarily wins his benefits dispute.
 

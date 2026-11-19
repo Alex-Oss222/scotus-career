@@ -126,7 +126,7 @@ The following title and authority-date lines are script-copied from the generate
 
 ### Congruent and proportional Fourteenth Amendment enforcement
 
-**Present operation effective:** College Savings Bank, June 23, 1999, for the confined own-product-advertising boundary; Florida Prepaid, June 23, 1999, for the holding that section 5 does not independently sustain the patent remedy’s full infringement liability at the scope presented, while adequately fitted preventive legislation remains available; Boerne’s enforcement and preventive-fit framework remains effective June 25, 1997.
+**Present operation effective:** College Savings Bank, June 23, 1999, for the confined own-product-advertising boundary; Florida Prepaid, June 23, 1999, for the undifferentiated patent-liability limit; Boerne’s enforcement and preventive-fit framework remains effective June 25, 1997.
 
 ## Deterministic receipt
 

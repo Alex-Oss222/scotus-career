@@ -16,7 +16,7 @@ All nine seats are occupied, and the neutral entries identify no case-specific n
 
 ### Alexander v. Sandoval
 
-Read `OT_2000CHUNK5_SANDOVAL.md`. Powell's April 3, 2000 direct-action holding already decides the asserted regulatory-effects enforcement route; it covers prospective relief, so the requested injunction supplies no unadjudicated remedial exception by itself. Powell's separate section 1983 holding is not an alternative claim supplied by this grant. The slice copies Powell and McClellan's published opinions and the relevant Franklin, Blessing and Central Bank holdings. A proposal to sustain the asserted action must identify its treatment of Powell and statutory stare decisis. Regulatory validity, intent and the unchallenged disparate-impact finding remain outside this limited review. No additional same-term decision changes the specific private-action baseline.
+Read `OT_2000CHUNK5_SANDOVAL.md`. Powell's April 3, 2000 direct-action holding already decides the asserted regulatory-effects enforcement route; it covers prospective relief, so the requested injunction supplies no unadjudicated remedial exception by itself. Powell's separate section 1983 holding is not an alternative claim supplied by this grant. The slice copies Powell and McClellan's published opinions and the relevant Franklin, Blessing and Central Bank holdings. A proposal to reject the asserted action must identify its treatment of Powell and statutory stare decisis. Regulatory validity, intent and the unchallenged disparate-impact finding remain outside this limited review. No additional same-term decision changes the specific private-action baseline.
 
 ### Atwater v. City of Lago Vista
 

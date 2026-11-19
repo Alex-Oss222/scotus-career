@@ -5846,7 +5846,7 @@ Hypothetical color-of-law applications and unpresented severability are not reso
 - **United States v. Hinds:** Distinguished its statutory property-use inquiry from the constitutional mechanism and text of §13981. It supplies no judicially inserted element here.
 - **The Civil Rights Cases, 109 U.S. 3 (1883); United States v. Harris, 106 U.S. 629 (1883):** Applied the boundary between state constitutional denial and unsupported private wrong, retaining their recognition of official administration and appropriately adapted corrective legislation. Neither is read as a categorical private-defendant bar. The 1883 Harris is distinct from the later Commerce case bearing that name.
 - **City of Boerne v. Flores:** Applied its congruence-and-proportionality requirement and prohibition on replacing the substantive right while retaining preventive coverage beyond individually proven violations. No geographic, temporal or findings-count prerequisite is added.
-- **Florida Prepaid Postsecondary Education Expense Board v. College Savings Bank:** Distinguished its upheld preventive patent-property remedy, tied to the States' deprivations, exclusive federal infringement jurisdiction and uncertain alternative redress. That holding remains intact.
+- **Florida Prepaid Postsecondary Education Expense Board v. College Savings Bank:** Applied its Section 5 fit analysis: exclusive federal infringement jurisdiction and uncertain alternative redress did not supply an adequate preventive relationship for undifferentiated patent liability, while prevention may still reach beyond individually proven violations. Its holdings remain intact.
 - **College Savings Bank v. Florida Prepaid Postsecondary Education Expense Board:** Applied the requirement of an actual constitutional injury rather than a statutory tort alone.
 - **Kimel v. Florida Board of Regents:** Its reservation of Section 5 supplies no decision of this question.
 - **Saenz v. Heldenfels Brothers, Inc. (May 9, 2000):** Distinguished an official's own affirmative removal of protection from private harm not prevented by the State. It supplies neither such an act in this complaint nor a holding on Congress's preventive enforcement power.
@@ -8079,7 +8079,7 @@ Related questions in Securities and Exchange Commission v. First Jersey Securiti
 
 **Holding:** A patent is an established exclusive property interest; federal creation does not disqualify it from Fourteenth Amendment protection. Recognizing that property and alleging infringement do not alone establish deprivation without due process, compensable injury, or entitlement to an award; process, remedies, alleged conduct, and any applicable culpability requirement require separate treatment.
 
-**Proposition-level authority:** All nine Justices join this precise distinction in Part I. No additional patent-negligence rule or §5 fit conclusion receives that coalition's support.
+**Proposition-level authority:** All nine Justices join this precise distinction in Part I. No additional patent-negligence rule receives majority support; the §5 conclusion is stated in Part II.
 
 
 

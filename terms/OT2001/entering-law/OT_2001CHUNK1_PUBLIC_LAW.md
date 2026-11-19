@@ -1274,7 +1274,7 @@ The lower courts must determine whether the pleading identifies a corporate poli
 - Carlson v. Green, 446 U.S. 14 (1980): its federal custodial damages function supports the confined extension to a private custodian's own unconstitutional policy, practice or authorized decision.
 - FDIC v. Meyer (February 23, 1994): its independent agency-cause and public fiscal/remedial grounds remain; they do not automatically determine the different private own-conduct claim.
 - Richardson v. McKnight (June 23, 1997): its immunity rule is distinguished from the separate cause-of-action question and is not converted into a holding on corporate liability.
-- Alexander v. Sandoval (April 24, 2001): its Title VI-specific holding that no private action enforces section 602 disparate-impact regulations remains distinct; it supplies neither a universal prohibition of implied remedies nor a rule governing constitutional damages.
+- Alexander v. Sandoval (April 24, 2001): its Title VI-specific holding applying Powell v. Ridge's bounded direct prospective action to valid section 602 disparate-impact regulations remains distinct; it supplies neither a universal rule for implied remedies nor a rule governing constitutional damages.
 
 ## Law After Decision
 

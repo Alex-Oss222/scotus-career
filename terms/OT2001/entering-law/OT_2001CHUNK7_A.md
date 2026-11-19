@@ -5624,7 +5624,7 @@ Related questions in Securities and Exchange Commission v. First Jersey Securiti
 
 **Holding:** A patent is an established exclusive property interest; federal creation does not disqualify it from Fourteenth Amendment protection. Recognizing that property and alleging infringement do not alone establish deprivation without due process, compensable injury, or entitlement to an award; process, remedies, alleged conduct, and any applicable culpability requirement require separate treatment.
 
-**Proposition-level authority:** All nine Justices join this precise distinction in Part I. No additional patent-negligence rule or §5 fit conclusion receives that coalition's support.
+**Proposition-level authority:** All nine Justices join this precise distinction in Part I. No additional patent-negligence rule receives majority support; the §5 conclusion is stated in Part II.
 
 
 

@@ -150,7 +150,7 @@ Syngenta rejected removal without an actual jurisdictional source. Here the fede
 - New York v. United States (June 19, 1992): distinguished between legislative commands and state-court application of valid federal law; its anticommandeering holding retains force.
 - Raygor v. Regents of the University of Minnesota (February 27, 2002): preserved as a statutory exclusion for immune state-law claims outside §1367(a), distinguished from covered county claims.
 - Alden v. Maine (June 23, 1999): preserved at its express FLSA state-court enforcement holding.
-- Florida Prepaid Postsecondary Education Expense Board v. College Savings Bank (June 23, 1999): preserved at its expressly authorized patent-enforcement grounds.
+- Florida Prepaid Postsecondary Education Expense Board v. College Savings Bank (June 23, 1999): preserved at its expressly authorized patent-enforcement ground.
 - Syngenta Crop Protection, Inc. v. Henson (November 5, 2002): distinguished because this proceeding and tolling rule have actual enacted jurisdictional sources.
 - Monell v. Department of Social Services, 436 U.S. 658 (1978): its municipality–State distinction supports rejecting automatic derivative state immunity while state law supplies the tort cause and liability standards.
 
@@ -257,7 +257,7 @@ Syngenta rejected removal without an actual jurisdictional source. Here the fede
 - New York v. United States (June 19, 1992): distinguished between legislative commands and state-court application of valid federal law; its anticommandeering holding retains force.
 - Raygor v. Regents of the University of Minnesota (February 27, 2002): preserved as a statutory exclusion for immune state-law claims outside §1367(a), distinguished from covered county claims.
 - Alden v. Maine (June 23, 1999): preserved at its express FLSA state-court enforcement holding.
-- Florida Prepaid Postsecondary Education Expense Board v. College Savings Bank (June 23, 1999): preserved at its expressly authorized patent-enforcement grounds.
+- Florida Prepaid Postsecondary Education Expense Board v. College Savings Bank (June 23, 1999): preserved at its expressly authorized patent-enforcement ground.
 - Syngenta Crop Protection, Inc. v. Henson (November 5, 2002): distinguished because this proceeding and tolling rule have actual enacted jurisdictional sources.
 - Monell v. Department of Social Services, 436 U.S. 658 (1978): its municipality–State distinction supports rejecting automatic derivative state immunity while state law supplies the tort cause and liability standards.
 

@@ -14,9 +14,9 @@ This derived navigation file resolves the original relative references retained 
 
 [Read the canonical holding](../../../state/HOLDINGS.md#a-court-may-choose-a-straightforward-nonmerits-jurisdictional-ground-1).
 
-<a id="article-i-independently-sustains-the-expressly-authorized-action"></a>
+<a id="article-i-sustains-the-expressly-authorized-action"></a>
 
-[Read the canonical holding](../../../state/HOLDINGS.md#article-i-independently-sustains-the-expressly-authorized-action).
+[Read the canonical holding](../../../state/HOLDINGS.md#article-i-sustains-the-expressly-authorized-action).
 
 <a id="continued-commercial-participation-does-not-supply-consent-to-this-suit"></a>
 
@@ -42,9 +42,9 @@ This derived navigation file resolves the original relative references retained 
 
 [Read the canonical holding](../../../state/HOLDINGS.md#ix-technical-feasibility-cannot-replace-the-required-access-criteria).
 
-<a id="parental-routing-does-not-justify-the-demonstrated-purchase-of-integrated-devotional-instruction-1"></a>
+<a id="parental-choice-does-not-alter-the-constitutional-character-of-what-government-purchases-1"></a>
 
-[Read the canonical holding](../../../state/HOLDINGS.md#parental-routing-does-not-justify-the-demonstrated-purchase-of-integrated-devotional-instruction-1).
+[Read the canonical holding](../../../state/HOLDINGS.md#parental-choice-does-not-alter-the-constitutional-character-of-what-government-purchases-1).
 
 <a id="v-the-act-imposes-no-freestanding-own-facilities-prerequisite"></a>
 
