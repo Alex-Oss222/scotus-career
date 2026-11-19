@@ -4114,8 +4114,8 @@ Mandatory remission is a separate rule. It requires belief, with reasonable grou
 - **Marshall v. Holmes:** Its alleged forged-document circumstances illustrate extraordinary equitable relief, without imposing universal intentional forgery as an element.
 - **Bankers Mortgage Co. v. United States:** Its traditional independent-action conditions are preserved within the demanding extraordinary-relief threshold.
 - **National Surety Co. v. State Bank:** Its traditional equitable conditions are preserved without separate invented adverse factual findings on each condition.
-- **Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., May 23, 1994:** Its bounded legislative reinstatement holding remains; it does not authorize general judicial fairness review of settlements.
-- **Plaut v. Spendthrift Farm, April 18, 1995:** Its lawful bounded reinstatement procedure and independent judicial decisions remain; no absolute constitutional prohibition on legislative reopening is adopted.
+- **Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., May 23, 1994:** Affirmed by an equally divided Court without opinion; it establishes no precedent and supplies no rule for judicial review of settlements.
+- **Plaut v. Spendthrift Farm, April 18, 1995:** Its protection of final judgments against legislation requiring their vacatur and reinstatement is respected, and its preservation of judicial relief through constitutionally permissible procedures is applied; it authorizes no unrestricted judicial reopening.
 - **Irwin v. Department of Veterans Affairs:** Its rebuttable approach is applied and overcome by this QTA scheme, rather than treated as a universal anti-equity rule.
 - **United States v. Brockamp, February 18, 1997:** Its statute-specific method is applied without transplanting tax provisions or deciding its reserved governmental-inducement questions.
 - **Beach v. Ocwen Federal Bank, April 21, 1998:** Its provision-specific analysis is preserved; the separate rescission-right expiration rule is not substituted for the QTA's notice-based period.
@@ -4156,7 +4156,7 @@ DeCarlo v. Fry, Second Circuit Nos. 97-7702, 97-7704 and 97-7754; no separate Su
 - **La Buy v. Howes Leather, 352 U.S. 249:** Applied to bounded supervisory mandamus over district proceedings.
 - **Mallard v. United States District Court, 490 U.S. 296:** Applied to require lawful underlying authority for extraordinary relief.
 - **Lexecon Inc. v. Milberg Weiss Bershad Hynes & Lerach, March 3, 1998:** Applied for observance of statutory judicial allocation despite administrative convenience.
-- **Plaut v. Spendthrift Farm, April 18, 1995:** Distinguished in its authorized statutory reopening setting; independent adjudication remains protected without categorical immunity from reassignment.
+- **Plaut v. Spendthrift Farm, April 18, 1995:** Distinguished: its Article III protection of final judgments against legislation requiring their vacatur and reinstatement does not govern administrative transfer of pending cases; independent adjudication remains protected without categorical immunity from transfer.
 
 ### Pleading omissions and actually litigated defenses
 
