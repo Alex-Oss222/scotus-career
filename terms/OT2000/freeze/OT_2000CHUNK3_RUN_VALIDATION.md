@@ -10,7 +10,7 @@ The disposition cells below are copied from the final Records. Records remain au
 
 | Date | Matter | Disposition | Record |
 |---|---|---|---|
-| 2001-02-21 | Board of Trustees of the University of Alabama v. Garrett | Affirmed, 5–4; Title I immunity rejection sustained on independent Article I and Section 5 grounds; ordinary merits proceedings remain. | [Record](../records/Board_of_Trustees_of_University_of_Alabama_v_Garrett_merits_2001-02-21.md) |
+| 2001-02-21 | Board of Trustees of the University of Alabama v. Garrett | Affirmed, 5–4, on the Article I ground; Section 5 does not independently sustain Title I at the full scope presented (5–4, a different majority); ordinary merits proceedings remain. | [Record](../records/Board_of_Trustees_of_University_of_Alabama_v_Garrett_merits_2001-02-21.md) |
 | 2001-02-21 | Buckman Co. v. Plaintiffs' Legal Committee | Reversed and remanded, 9–0; the presented fraud-on-the-FDA theories are preempted on the expressly no-agency-predicate ground. | [Record](../records/Buckman_Co_v_Plaintiffs_Legal_Committee_merits_2001-02-21.md) |
 | 2001-02-21 | Central Green Co. v. United States | Reversed and remanded, 9–0; project affiliation alone does not establish flood-water immunity. | [Record](../records/Central_Green_Co_v_United_States_merits_2001-02-21.md) |
 | 2001-02-21 | Lewis v. Lewis & Clark Marine, Inc. | Reversed and remanded, 9–0; the district court permissibly dissolved the restraint while retaining the protected limitation proceeding. | [Record](../records/Lewis_v_Lewis_and_Clark_Marine_merits_2001-02-21.md) |
@@ -56,7 +56,7 @@ The total is 33, with Hilario last. The full event-by-event recount is `OT_2000C
 
 - The three previously granted added cases, Tank, Marshfield and Hilario, use the documented section 14 minimum routine notice/full-merits-submission premise. It supplies no recovered briefing, disputed fact, waiver or invented Supreme Court argument date. The actual grant rows were copied mechanically into the premise receipt.
 
-- Garrett rests independently on Article I and Section 5. Buckman adopts an expressly no-authoritative-agency-predicate rule and reserves the materially different agency-action setting. Whitman and Cook retain proposition-specific partial joins; Hilario separately preserves Stone’s notice-only fallback and absence from the holdover rationale, together with Souter’s distinct classification rationale. Reiner publishes no vote tally.
+- Garrett rests solely on Article I; a different five-Justice majority holds that Section 5 does not independently sustain Title I at the full scope presented. Buckman adopts an expressly no-authoritative-agency-predicate rule and reserves the materially different agency-action setting. Whitman and Cook retain proposition-specific partial joins; Hilario separately preserves Stone’s notice-only fallback and absence from the holdover rationale, together with Souter’s distinct classification rationale. Reiner publishes no vote tally.
 
 ## Validation and operator boundary
 

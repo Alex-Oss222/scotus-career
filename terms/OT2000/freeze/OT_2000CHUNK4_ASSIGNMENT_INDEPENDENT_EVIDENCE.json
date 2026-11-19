@@ -1303,7 +1303,7 @@
       "sha256": "f5d1799fc392ecbbb37f7aafc05bebdd8b54fd0012aecf01a27bb0d504fd54f3",
       "opinion_rows": [
         {
-          "row": "| Opinion of the Court | Stone-Zsela | Stevens, Souter, Ginsburg, Breyer | Affirmance, 5–4 | Entire opinion; statutory authorization and independent Article I and Section 5 grounds |",
+          "row": "| Opinion of the Court | Stone-Zsela | All eight as to Part I; O'Connor, Scalia, Kennedy, Thomas as to Part II; Stevens, Souter, Ginsburg, Breyer as to Parts III–IV | Affirmance, 5–4 | Part I: authorization and valid employment duty. Part II: Section 5 does not independently sustain Title I at the full scope presented. Part III: Article I sustains the authorized action. Part IV: affirmance and ordinary adjudication. |",
           "lead": true,
           "excluded_form": false,
           "authors": [
@@ -1311,19 +1311,19 @@
           ]
         },
         {
-          "row": "| Dissent | O'Connor | Scalia, Kennedy, Thomas | Would reverse the Title I immunity rejection | Structural State-suit objection and insufficient Section 5 fit; statutory clarity accepted |",
+          "row": "| Concurring in part and dissenting in part | Breyer | Stevens, Souter, Ginsburg | Joins Parts I, III and IV and the judgment; dissents from Part II | Section 5 independently sustains Title I as fitted prevention |",
+          "lead": false,
+          "excluded_form": false,
+          "authors": [
+            "Breyer"
+          ]
+        },
+        {
+          "row": "| Dissent | O'Connor | Scalia, Kennedy, Thomas | Joins Parts I and II; dissents from Parts III–IV; would reverse the Title I immunity rejection | Structural objection to Article I enforcement against a nonconsenting State; would reconsider Florida Prepaid's and Kimel's enforcement rule and Union Gas's retained conclusion |",
           "lead": false,
           "excluded_form": false,
           "authors": [
             "O'Connor"
-          ]
-        },
-        {
-          "row": "| Supplementary dissent | Kennedy | O'Connor | Same proposed reversal | Official prejudice may arise from indifference; opposition rests on the particular remedy's fit, not presumed State compliance |",
-          "lead": false,
-          "excluded_form": false,
-          "authors": [
-            "Kennedy"
           ]
         }
       ],

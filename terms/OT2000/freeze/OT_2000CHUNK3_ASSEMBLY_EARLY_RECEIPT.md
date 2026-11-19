@@ -6,7 +6,7 @@ Status: READY for coordinated workspace integration and generated Render Input. 
 
 | Matter | Record | Disposition | Author and governing coalition |
 |---|---|---|---|
-| Garrett | Board_of_Trustees_of_University_of_Alabama_v_Garrett_merits_2001-02-21.md | Affirmed, 5–4; ordinary Title I adjudication | Stone-Zsela; Stevens, Souter, Ginsburg and Breyer join both Article I and Section 5 grounds |
+| Garrett | Board_of_Trustees_of_University_of_Alabama_v_Garrett_merits_2001-02-21.md | Affirmed, 5–4; ordinary Title I adjudication | Stone-Zsela; all eight join Part I; O'Connor, Scalia, Kennedy and Thomas join Part II's Section 5 holding; Stevens, Souter, Ginsburg and Breyer join the Article I ground of Parts III–IV |
 | Buckman | Buckman_Co_v_Plaintiffs_Legal_Committee_merits_2001-02-21.md | Reversed and remanded, 9–0 | Stevens; all eight join the expressly no-agency-predicate actual-conflict rule |
 | Central Green | Central_Green_Co_v_United_States_merits_2001-02-21.md | Reversed and remanded, 9–0 | Thomas; all eight join the water-specific rule |
 | Lewis | Lewis_v_Lewis_and_Clark_Marine_merits_2001-02-21.md | Reversed and remanded, 9–0 | Scalia; all eight join permissible dissolution with actual limitation protection |
@@ -24,13 +24,13 @@ Each opinion's form and propositions were fixed before its assignment. Actual pr
 | Lewis | 2 | 3 | 3 | 2 | 3 | 2 | 3 | 3 | 3 | Central Green Co. v. United States, No. 99-859; 531 U.S. 425. 2001-02-21 |
 | Tank | 2 | 3 | 3 | 3 | 3 | 2 | 3 | 3 | 3 | Lewis v. Lewis & Clark Marine, Inc., No. 99-1331; 531 U.S. 438. 2001-02-21 |
 
-Garrett eligibility is Stone-Zsela, Stevens, Souter, Ginsburg and Breyer; its pool is Stone-Zsela, Stevens and Souter. In each later case all nine support the full chosen ground and are inside the minimum-plus-one pool. No fallback supplied authorship eligibility. The final actual total is 26 signed leads: Stone-Zsela 2 and each Associate 3. Last counted event: United States v. Tank, February 21, 2001.
+Garrett eligibility is Stone-Zsela alone, the only Justice joining every Part; its pool is Stone-Zsela. In each later case all nine support the full chosen ground and are inside the minimum-plus-one pool. No fallback supplied authorship eligibility. The final actual total is 26 signed leads: Stone-Zsela 2 and each Associate 3. Last counted event: United States v. Tank, February 21, 2001.
 
 ## Fixed core, joins and material limits
 
 No Stone standing-fallback use occurs in any of these five matters. Each complete supplied case supplement is script-copied only into its own internal Record and checked against the final vote, remedy, rule, reasoning and exclusions. No private material from other chunk groups was read. The preserved independent and reconciled sections supply eight named Associate positions per matter. No material commitment changed beyond Buckman's already reconciled conditional full-join boundary, and no new material neutral fact was used. The control preparation receipt `OT_2000CHUNK3_GRANTED_MERITS_SUBMISSION_PREMISE.md` now documents Tank's existing full-merits submission as minimum routine procedure under Engine section 14; it adds no merits fact or argument date. The link was added only to Tank's internal source/status section before integration, leaving its Public Projection, legal, vote and assignment bytes unchanged.
 
-Garrett reaches both independently sufficient constitutional grounds as Stone requires; all four affirmative Associates support Section 5 if reached. It adjudicates no Title II claim and imports no historical partial dismissal. The dissent expressly seeks to change the operative Article I rule instead of silently treating historical immunity as current law. Kennedy and O'Connor's supplementary dissent preserves their distinct anti-prejudice and evidentiary qualification.
+Garrett decides both presented constitutional grounds as Stone requires: Part II holds that Section 5 does not independently sustain Title I's general employment and accommodation requirements at the full statutory scope presented, and Parts III–IV affirm solely on Article I. The four affirmative Associates support Section 5 if reached and state that position in Breyer's opinion concurring in part and dissenting in part. It adjudicates no Title II claim and imports no historical partial dismissal. The dissent expressly seeks to change the operative Article I rule instead of silently treating historical immunity as current law. Kennedy's distinct anti-prejudice and evidentiary qualification is stated in Part II, which he and O'Connor join.
 
 Buckman retains the operational absence of an authoritative FDA fraud-and-action predicate. Stevens and Thomas do not join a categorical bar after such agency action; their distinct federal-dependent causal ground and possible agency-action alternative are retained internally and not promoted to a new independent Court holding. Because the full common opinion contains the boundary, their frozen condition for a separate concurrence is not triggered. No knowing-inaction fact is introduced.
 
@@ -40,12 +40,12 @@ Verified argument dates are included as compatible objective chronology: Garrett
 
 ## Validation actually performed
 
-The final check independently counted named supporters and opponents and matched every whole-opinion author-plus-join set against the stated judgment coalition. It checked that all eight Associates appear in each audit, each private Stone copy contains only its case, and exactly one final historical-departure label appears in Garrett and Buckman. No Marks synthesis is necessary. The only material changed historical bases are those identified in those two final annex lines; Tank has no historical Supreme Court merits comparator.
+The final check independently counted named supporters and opponents and matched every whole-opinion author-plus-join set against the stated judgment coalition and, for Garrett's opinion delivered in Parts, each Part's author-plus-join set against its stated majority. It checked that all eight Associates appear in each audit, each private Stone copy contains only its case, and exactly one final historical-departure label appears in Garrett and Buckman. No Marks synthesis is necessary. The only material changed historical bases are those identified in those two final annex lines; Tank has no historical Supreme Court merits comparator.
 
 Every record passed the four exact opening labels, exact eleven Public Projection blocks, unchanged internal-to-public Holdings identity, ordinary explanation ceilings, and prohibited-text/machine-link checks. The results below include final byte hashes. These checks do not certify workspace, generated handoff or whole-term reconciliation, which control performs after integration. No render is written in this assembly task.
 
 ```text
-Board_of_Trustees_of_University_of_Alabama_v_Garrett_merits_2001-02-21.md f5d1799fc392ecbbb37f7aafc05bebdd8b54fd0012aecf01a27bb0d504fd54f3 explanations [184, 232] identity/blocks/labels/limits PASS
+Board_of_Trustees_of_University_of_Alabama_v_Garrett_merits_2001-02-21.md f5d1799fc392ecbbb37f7aafc05bebdd8b54fd0012aecf01a27bb0d504fd54f3 explanations [140, 346, 180] identity/blocks/labels/limits PASS
 Buckman_Co_v_Plaintiffs_Legal_Committee_merits_2001-02-21.md d2a5eb63b268bc73884cc551bdd2a78bef31f8c30d25fec2aa814e8f2106bc1b explanations [236] identity/blocks/labels/limits PASS
 Central_Green_Co_v_United_States_merits_2001-02-21.md cc513370fad65866c97193847164d9af28d3cf583b322177004ed80bbade6d0f explanations [280] identity/blocks/labels/limits PASS
 Lewis_v_Lewis_and_Clark_Marine_merits_2001-02-21.md ae8c0e064f3b086c380b80c4fae2edca4f5f50bdd11800b4801fd25165a5f2bf explanations [296] identity/blocks/labels/limits PASS

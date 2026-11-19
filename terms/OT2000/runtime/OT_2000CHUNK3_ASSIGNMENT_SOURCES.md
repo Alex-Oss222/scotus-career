@@ -407,13 +407,13 @@ Source: [Record](../records/Board_of_Trustees_of_University_of_Alabama_v_Garrett
 
 Preassignment signed leads, freshly recounted from actual opinion tables: Stone-Zsela: 1; Stevens: 2; O'Connor: 3; Scalia: 2; Kennedy: 3; Souter: 2; Thomas: 2; Ginsburg: 3; Breyer: 3. Last counted event: Urofsky v. Gilmore; Fourth Circuit No. 98-1481, 216 F.3d 401; no separate Supreme Court docket supplied. 2001-02-20. 21 counted events; 21 signed leads. Multipart delivery by one author counts once. Earlier assignment-statement totals were not used.
 
-Eligible full-ground authors: Stone-Zsela, Stevens, Souter, Ginsburg, Breyer. Minimum count: 1. Balance pool: Stone-Zsela, Stevens, Souter. Chief Justice Stone-Zsela assigns; selected author: Stone-Zsela.
+Eligible full-ground authors: Stone-Zsela. Minimum count: 1. Balance pool: Stone-Zsela. Chief Justice Stone-Zsela assigns; selected author: Stone-Zsela.
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
-| Opinion of the Court | Stone-Zsela | Stevens, Souter, Ginsburg, Breyer | Affirmance, 5–4 | Entire opinion; statutory authorization and independent Article I and Section 5 grounds |
-| Dissent | O'Connor | Scalia, Kennedy, Thomas | Would reverse the Title I immunity rejection | Structural State-suit objection and insufficient Section 5 fit; statutory clarity accepted |
-| Supplementary dissent | Kennedy | O'Connor | Same proposed reversal | Official prejudice may arise from indifference; opposition rests on the particular remedy's fit, not presumed State compliance |
+| Opinion of the Court | Stone-Zsela | All eight as to Part I; O'Connor, Scalia, Kennedy, Thomas as to Part II; Stevens, Souter, Ginsburg, Breyer as to Parts III–IV | Affirmance, 5–4 | Part I: authorization and valid employment duty. Part II: Section 5 does not independently sustain Title I at the full scope presented. Part III: Article I sustains the authorized action. Part IV: affirmance and ordinary adjudication. |
+| Concurring in part and dissenting in part | Breyer | Stevens, Souter, Ginsburg | Joins Parts I, III and IV and the judgment; dissents from Part II | Section 5 independently sustains Title I as fitted prevention |
+| Dissent | O'Connor | Scalia, Kennedy, Thomas | Joins Parts I and II; dissents from Parts III–IV; would reverse the Title I immunity rejection | Structural objection to Article I enforcement against a nonconsenting State; would reconsider Florida Prepaid's and Kimel's enforcement rule and Union Gas's retained conclusion |
 
 ## Buckman Co. v. Plaintiffs' Legal Committee, No. 98-1768; 531 U.S. 341.
 
