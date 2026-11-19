@@ -25,7 +25,7 @@
 
 | City of Erie v. Pap's A.M. | Reach the merits, 7–2; affirm the Pennsylvania judgment, 5–4. Six support the threshold rationale; five directly support the precise common content-selection rule across writings; the independent intermediate alternative has three votes. | [Record](../records/city-of-erie-v-paps-am_merits_2000-03-29.md) |
 
-| Powell v. Ridge | Third Circuit reversed and remanded, 5-4 on each count; the direct and section 1983 impact-only theories fail on separate grounds, without creation of an intentional-discrimination claim. | [Record](../records/powell-v-ridge_merits_2000-04-03.md) |
+| Powell v. Ridge | Third Circuit affirmed in part and reversed in part, and remanded, 5-4 on each count: the directly implied prospective Title VI action in Count I proceeds; the regulation-created section 1983 right asserted in Count II fails. | [Record](../records/powell-v-ridge_merits_2000-04-03.md) |
 
 ## Stopped matters
 
