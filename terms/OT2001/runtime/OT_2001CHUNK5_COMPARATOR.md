@@ -200,6 +200,6 @@
 
 ## A. MERITS COMPARATOR
 
-* **Historical Anchor:** The historical Third Circuit rejected the §1983 route against the background of the historical Sandoval direct-action bar. That direct-action premise differs from the controlling Sandoval holding identified in Section I.
+* **Historical Anchor:** The historical Third Circuit rejected the §1983 route against the background of the historical Sandoval direct-action bar. No Supreme Court merits decision reviewed that judgment.
 * **Historical Authority:** The identified lower-court opinion is a historical anchor, not a Supreme Court merits holding and not controlling simulated law.
 * **Historical Sources:** [Third Circuit opinion, 274 F.3d 771](https://www2.ca3.uscourts.gov/opinarch/012224.pdf)

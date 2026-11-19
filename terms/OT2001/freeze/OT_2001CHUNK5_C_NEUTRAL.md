@@ -329,12 +329,12 @@ The controlling holdings and operative standards through June 28, 2001 supply th
 * **October Term:** 2001
 * **Entry Stage and Event:** MERITS; simulation-added review of the identified lower-court judgment.
 * **Simulated Event Date:** 2002-05-28 (proposed simulation placement, not a historical Supreme Court event).
-* **Question Presented:** Whether Title VI disparate-impact regulations create the asserted individual right enforceable under §1983, and whether the pending request for prospective relief must separately be considered under Title VI’s own authorized action.
+* **Question Presented:** Whether Title VI disparate-impact regulations create the asserted individual right enforceable under §1983, and whether the pending request for prospective relief may separately proceed through a direct Title VI action or the original §601 intentional-discrimination claim.
 * **Question Granted:** For this proposed simulated review, the stated question defines the scope. No historical grant or verbatim certiorari-petition wording is represented.
 * **Court and Judgment Under Review:** Third Circuit; reversed the preliminary injunction resting on §1983 enforcement of EPA effects regulations.
 * **Relief Requested:** Residents seek prospective protection against the challenged permitting; the agency and operator seek dissolution of the injunction.
 * **Material Record:** Residents challenged a cement-facility permit in an already heavily burdened minority neighborhood. The action initially invoked Title VI; an amended theory used §1983 to enforce EPA effects regulations. The reviewed injunction rests on that latter route.
-* **Threshold, Preservation, and Vehicle Matters:** The historical procedural shift assumed a direct-action bar. The governing Sandoval holding here instead recognizes a bounded prospective Title VI action. That difference affects the legal treatment of the original theory without proving permit invalidity.
+* **Threshold, Preservation, and Vehicle Matters:** The amendment relying on §1983 followed Sandoval’s adherence to Powell’s direct-action bar. The original complaint also alleged intentional discrimination under §601, and that theory has not been shown to have been abandoned by the amendment. The residents ask the Court to reconsider Powell’s §1983 holding and to recognize a permit-specific direct route notwithstanding Sandoval; the appeal also presents the status of the original §601 claim after reversal of the injunction. None of these questions proves permit invalidity.
 * **Relevant Dates:** Third Circuit decision: December 17, 2001.
 * **Companion or Related Matters:** Gonzaga concerns an asserted right in FERPA’s statutory text; this case concerns Title VI disparate-impact regulations and the distinction between §1983 and direct prospective enforcement. Barnes concerns punitive remedies under Title VI-derived channels, not whether these environmental effects requirements are privately enforceable.
 * **Participation Matter:** No case-specific nonparticipation established.
@@ -348,20 +348,20 @@ The controlling holdings and operative standards through June 28, 2001 supply th
 
 ### Issue 1: Separate private enforcement channels
 
-* **Controlling Simulated Law:** Powell v. Ridge rejects a regulation-created effects right under §1983. Sandoval overrules Powell’s direct-action prohibition only to allow beneficiaries prospective enforcement of valid, sufficiently definite §602 requirements; Powell’s separate §1983 holding survives.
-* **Current Reusable Doctrine:** A regulation may elaborate a statutory right but cannot create a missing broader individual right for §1983. An independently authorized direct statutory action remains distinct.
+* **Controlling Simulated Law:** Powell v. Ridge holds that Title VI supplies no directly implied private action to enforce a §602 regulation’s disparate-impact prohibition and rejects a regulation-created effects right under §1983. Alexander v. Sandoval follows Powell without overruling it: Congress has not authorized a private action to enforce the additional disparate-impact prohibitions of §602 regulations where the challenged conduct does not violate §601, whatever the form of relief sought, and the regulations’ validity is assumed rather than decided. Powell’s separate §1983 holding remains controlling at its own scope.
+* **Current Reusable Doctrine:** A regulation may elaborate a statutory right but cannot create a missing broader individual right for §1983. Section 601’s independently authorized private action for intentional discrimination remains distinct.
 * **Other Governing Law:** Title VI, §§601–602, 42 U.S.C. §§2000d–2000d-1; 42 U.S.C. §1983; EPA’s applicable Title VI regulations.
 * **Material Other Authority:** Blessing v. Freestone; Wright v. Roanoke; Wilder; Ex parte Young and the applicable recipient/remedial requirements.
-* **Existing Rule’s Reach:** Section 601 retains intentional-discrimination liability. Sandoval does not establish discriminatory purpose, damages for effects, automatic regulatory validity or an effects violation from disparity alone.
-* **Open Point:** Application of the direct prospective route and the actual EPA regulatory predicates to this permitting dispute.
+* **Existing Rule’s Reach:** Section 601 retains its private action for intentional discrimination, and valid §602 regulations remain enforceable through the agency procedures §602 prescribes. Powell and Sandoval decide no regulation’s validity, supply no discriminatory purpose from disparate effects and permit no new §601 claim built from an effects finding.
+* **Open Point:** Whether the request to reconsider Powell’s §1983 holding or to recognize a permit-specific direct route notwithstanding Sandoval should be accepted, and the status and procedural footing of the original §601 intentional-discrimination claim after reversal of the injunction.
 
 ## C. DECISION-MATERIAL LITIGATION POSITIONS
 
-The agency argues that §601’s intent protection and §602’s agency instructions do not create the asserted individual effects right. Residents invoke enforceable regulatory protection against discriminatory administration and the practical effects of permitting. The separate Title VI route cannot be rejected on a premise inconsistent with Sandoval, but recipient coverage, valid regulation, causation and the correct defendant still require adjudication.
+The agency argues that §601’s intent protection and §602’s agency instructions do not create the asserted individual effects right. Residents invoke enforceable regulatory protection against discriminatory administration and the practical effects of permitting. The residents ask the Court to reconsider Powell’s §1983 holding and to recognize a permit-specific direct route notwithstanding Sandoval; the agency answers that Powell and Sandoval foreclose both impact-only routes. Whether the original §601 intentional-discrimination claim survives the reversal, and against which defendant any prospective relief could run, remain for decision.
 
 ## D. LAWFUL PATHS AND UNCERTAINTY
 
-Rejecting §1983 does not necessarily end the pending prospective action. The direct Title VI theory may proceed if its preserved procedural basis and substantive requirements are met. A new or continued injunction requires findings under that route; neither pollution disparity alone nor a cause of action supplies permit invalidation.
+Rejecting §1983 does not by itself end the case. Under Powell and Sandoval no private action enforces the §602 effects regulations directly; that route is available only if those decisions are reconsidered. The original §601 intentional-discrimination theory may proceed if its preserved procedural basis is established, and it succeeds only on proof of discriminatory purpose; prospective relief against a state officer requires an established federal violation and the officer’s connection to it. Valid regulations remain enforceable through agency processes. A new or continued injunction requires findings under a valid route; neither pollution disparity alone nor a cause of action supplies permit invalidation.
 
 ## E. SOURCES
 

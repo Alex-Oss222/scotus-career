@@ -2409,33 +2409,29 @@ Scalia is assigned the single signed lead opinion. Fit controls. His actual Kokk
 Computed counts before this event: Stone-Zsela 7; Stevens 9; O'Connor 8; Scalia 8; Kennedy 8; Souter 8; Thomas 9; Ginsburg 8; Breyer 8.
 Counted lead author(s): O'Connor.
 
-### Public opinion table (source line 241)
+### Public opinion table (source line 249)
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
-| Opinion of the Court | O'Connor | Part I: Stone-Zsela, Scalia, Kennedy and Thomas; Part II: all other eight; Part III and mandate: all other seven Associates, with Stone-Zsela's narrower Part III join stated above | Eight-Associate whole-judgment vacatur; direct-rule support and formal judgment remain distinct | §1983 proposition: five; direct prospective route: nine; complete Part III and vacatur mandate: eight Associates; Stone-Zsela agrees in judgment only on the separate intentional-claim proceedings |
-| Opinion concurring in part and dissenting in part | Stevens | Souter, Ginsburg and Breyer | Joins direct-route remand and vacatur; dissents from §1983 holding | Would reconsider Powell's asserted regulation-created-right bar; accepts the independent direct route and actual defendant/equitable predicates |
-| Opinion concurring in part and dissenting from the form of judgment | Stone-Zsela | No other Justice | Would affirm §1983 rejection and vacate direct-route foreclosure | Joins Parts I–II and the stated Part III propositions; agrees in judgment only on further intentional-claim proceedings |
+| Opinion of the Court | O'Connor | Stone-Zsela, Scalia, Kennedy and Thomas in full; Stevens, Souter, Ginsburg and Breyer as to Part III | Affirmance in part, limited vacatur and remand | Parts I–II: five Justices; Part III, including the limited vacatur and remand: all nine |
+| Opinion concurring in part and dissenting in part | Stevens | Souter, Ginsburg and Breyer | Joins Part III and the limited vacatur and remand; would vacate the whole judgment | Dissents from Parts I–II; would reconsider Powell's §1983 holding and, as in the Sandoval dissent, Powell's direct-action holding; accepts the intent, jurisdiction and proper-officer predicates |
 
-### Assignment extract (source line 136; Form-first and sequential assignment)
+### Assignment extract (source line 144; Form-first and sequential assignment)
 
-<!-- source-line: 138 -->
+<!-- source-line: 146 -->
 Signed plenary merits opinion. The presented legal question requires a reasoned precedential resolution following full merits submission or argument; it is not an unexplained order or summary disposition. One lead opinion carries the related propositions because they resolve one reviewed judgment. This form and proposition structure were fixed before any assignment count.
 
-<!-- source-line: 140 -->
+<!-- source-line: 148 -->
 The count was recomputed immediately before this assignment from the current term's actual opinion tables, including Records already written in this Run, in effective-date and alphabetical same-day order.
 
-<!-- source-line: 154 -->
+<!-- source-line: 162 -->
 Last counted event: In re Prudential Insurance Co. of America Sales Practice Litigation; review of 261 F.3d 355 (3d Cir. 2001). No Supreme Court docket supplied.; 2002-05-28; Scalia.
 
-<!-- source-line: 156 -->
-Stevens, the most senior participating Associate Justice in the eight-Justice whole-judgment-vacatur coalition, assigns the lead opinion. The Chief's fixed formal disposition affirms the §1983 rejection and vacates only the foreclosure of the direct prospective route; he does not join the formal mandate that the eight Associates adopt. His joins in controlling propositions therefore do not confer assignment authority for that different judgment. No object-specific mandate clarification from another matter is imported.
+<!-- source-line: 164 -->
+The Chief assigns as a member of the judgment coalition on every component: he joins the affirmance in part, the limited vacatur and remand, and every proposition the opinion states. Eligible complete-opinion authors, each joining the negative §1983 rule, the direct-action holding, the intent-claim, jurisdiction and proper-officer propositions and the formal judgment, are Stone-Zsela, O'Connor, Scalia, Kennedy and Thomas. Stevens, Souter, Ginsburg and Breyer oppose Parts I and II; their Part III join does not qualify them for the complete opinion. The actual counts are listed above. The lowest eligible count is seven; the balance pool is Stone-Zsela, O'Connor, Scalia and Kennedy, at seven or eight. Thomas, at nine, is eligible in substance but outside this assignment's pool.
 
-<!-- source-line: 158 -->
-Eligible complete-opinion authors are O'Connor, Scalia, Kennedy and Thomas, each of whom joins the negative §1983 rule, the direct-action application, the defendant/intent-claim inquiries and the whole-judgment vacatur. Stevens, Souter, Ginsburg and Breyer oppose Part I; Stone does not join the complete mandate and has no added rationale for the separate intentional-claim component. The actual counts are listed above. Among the four eligible authors the minimum is eight, and the comparative one-above pool would include all four, at eight or nine; Engine §8's Chief-assignment pool restriction does not bind Stevens's assignment.
-
-<!-- source-line: 160 -->
-Stevens selects O'Connor for the single signed lead opinion. Fit, rather than a new accommodation, governs. Her own reconciled position preserves Powell's independent §1983 rule while applying Sandoval as controlling law despite her earlier disagreement, with the Maryland defendant and remedy conditions intact. She can explain why adherence to an established direct action neither creates a new right under another statute nor prejudges the permitting merits. That is the precise work shared across the differently joined parts. Stone's substantive separation of the two channels makes him a strong alternative on Parts I–II, but his different formal disposition and limited Part III join prevent him from carrying the complete opinion. No lead division is needed because four eligible Associates can carry it all. Form and propositions were fixed before recount, and no historical Supreme Court authorship exists to import.
+<!-- source-line: 166 -->
+O'Connor is assigned the single signed lead opinion. Fit, rather than a new accommodation, governs. Her own reconciled position joins every component: she joined Thomas's Powell opinion and the Chief Justice's Sandoval opinion, and her full Maryland join supports the distinct officer and remedial inquiries. She can explain why neither impact-only route exists while the preserved §601 claim keeps its separate footing under the Maryland jurisdiction and proper-officer conditions, the coordination of distinct legal questions the opinion requires, and her refusal to find effects discrimination from neighborhood statistics alone accords with Part III's refusal to infer intent from unequal environmental conditions alone. Stone-Zsela, at the lowest count and the author of Sandoval, is the strongest alternative, but O'Connor offers the more direct execution of the separation between the barred effects routes and the surviving intentional claim. Scalia and Kennedy join every component but offer no closer fit. No lead division is needed because five eligible members can carry the whole opinion. The opinion concurring in part and dissenting in part is Stevens's, as senior Associate Justice among the four, and adds no count. Form and propositions were fixed before the count, and no historical Supreme Court authorship exists to import.
 
 ---
 
