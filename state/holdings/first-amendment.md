@@ -3237,16 +3237,16 @@ For the other questions in Citizens for a Constitutional Convention v. Yoshina, 
 
 **Operative remedy or transition:** **Reversed and remanded, 9–0.** **Supporting:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. The Government may not enforce §1304 against these truthful, nonmisleading advertisements for lawful private-casino gambling. Relief concerning the companion FCC restriction conforms to that same as-applied prohibition. Section 1304 and the rule are not facially invalidated; no damages or replacement gambling policy is ordered.
 
-### Parental routing does not justify the demonstrated purchase of integrated devotional instruction
+### Parental choice does not alter the constitutional character of what government purchases
 
 #### Jackson v. Benson
 
 **Docket or dockets:** No. 98-376
 **Decided:** 1999-03-16.
 
-##### Parental routing does not justify the demonstrated purchase of integrated devotional instruction
+##### Parental choice does not alter the constitutional character of what government purchases
 
-**Holding:** Wisconsin may not justify public payment for the demonstrated devotional instructional function merely by neutral eligibility, parental selection and restrictive endorsement of its provider-cost payment. Where the financed educational work integrates devotional instruction without reliable separation, those features do not cure the expenditure; religious identity alone does not establish that defect, and genuinely independent private benefits and reliably separated secular services retain their distinct protection.
+**Holding:** The Establishment Clause prohibits government from paying for worship, religious indoctrination, or instructional work in which religious formation is inseparable from the publicly financed service. Parental choice does not alter the constitutional character of what government purchases. A religious institution remains eligible to provide an independently identifiable secular service, but only where the funded work is genuinely secular and enforceable conditions prevent public payment for devotional activity. Religious affiliation alone neither proves a violation nor establishes an entitlement to funding. The rule protects genuinely private benefits and public services whose secular function can be reliably separated from religious instruction. Wisconsin therefore cannot use taxpayer funds to purchase demonstrated, integrated devotional instruction merely because the payment passes through parental choice; neutral eligibility does not cure an unconstitutional governmental expenditure.
 
 **Proposition-level authority:** O'Connor's Part I is joined by Stone-Zsela, Stevens, Souter, Ginsburg and Breyer. Six direct joins control the rule and its application; the remedy has the separate coalition stated below.
 
@@ -3258,18 +3258,18 @@ For the other questions in Citizens for a Constitutional Convention v. Yoshina, 
 
 **Treatment of earlier authority:**
 
-- **Agostini v. Felton:** Applied to the actual instructional function purchased and the need for reliable separation of secular work. Its modified Lemon inquiry remains governing; its reserved voucher question is answered only for this supported cost/instruction arrangement.
+- **Agostini v. Felton:** Applied. Its inquiry into what the governmental expenditure purchases governs, and its reserved voucher question is answered at that level: parental routing does not alter the character of what government purchases. Its permission for separately administered secular instruction under reliable public controls marks the secular services that remain eligible. Its modified Lemon inquiry remains governing.
 - **Lemon v. Kurtzman:** Continues through Agostini's unified inquiry. Its former independent prongs are not restored.
-- **Witters v. Washington Department of Services for the Blind; Mueller v. Allen:** Preserved for their actual individual vocational-benefit and general tax-deduction relationships; neither supplies automatic approval of this provider-cost payment.
+- **Witters v. Washington Department of Services for the Blind; Mueller v. Allen:** Preserved as genuinely private benefits (an individual vocational grant; a generally available tax deduction). Neither makes a restricted payment for integrated devotional instruction a private benefit.
 - **Rosenberger v. Rector and Visitors of the University of Virginia:** Preserved as an actual controlled printing benefit for independently attributed expression; it does not equate all spending with a forum or authorize every devotional expenditure.
 - **Bronx Household of Faith; Pinette; Chabad:** Preserve genuinely private expression and contextual attribution. Private access does not itself resolve governmental purchase of instructional work.
-- **Committee for Public Education v. Nyquist:** Its aid limitations are not categorically displaced by parental routing; the present application rests on the actual funded function under Agostini.
+- **Committee for Public Education v. Nyquist:** Its aid limitations are not displaced by parental routing; the present application rests on the actual expenditure and the function it finances.
 - **School District of Grand Rapids v. Ball:** Agostini's displacement of its corresponding Shared Time rationale remains confined; the distinct Community Education judgment is not reopened.
 - **Zobrest v. Catalina Foothills:** Supplies no Establishment Clause merits holding; its antecedent-law remand does not validate this program.
 - **Dalton v. Little Rock Family Planning Services; Leavitt v. Jane L.:** Applied to conflict-specific relief and preservation of independently supported protection while state-law severability is resolved.
 - **American Manufacturers v. Sullivan:** Preserves review of government's own conduct despite private-carrier nonattribution. It supplies no Establishment Clause financing exemption.
 
-**Limits and questions not reached:** The actual provider-cost payment cannot receive categorical federal approval solely because eligibility is neutral and a parent selects and endorses the payment. Demonstrated devotional instruction within the financed work must be addressed under the governing expenditure rule. Genuine private-benefit relationships, private forum access and reliably separated secular services remain distinct. The decision supplies no all-provider exclusion, new general facial-challenge formula, compulsory school participation or constitutional subsidy entitlement.
+**Limits and questions not reached:** Courts examine the actual expenditure and the function it finances; labels such as "voucher," "parental choice" and "secular grant" are evidence of a program's structure, not answers. A religious institution may provide an independently identifiable secular service where the funded work is genuinely secular and enforceable conditions prevent public payment for devotional activity. Genuinely private benefits and private forum access remain distinct. Religious affiliation alone neither proves a violation nor establishes an entitlement to funding. The rule does not prohibit every benefit involving a religious institution or create a right to public subsidy, and the judgment commands no immediate ban on every payment or religious provider. Provider/payment relief and state-law severability are remand work under that rule.
 
 **Operative remedy or transition:** **Vacated and remanded, 5-4 on that disposition.**
 
