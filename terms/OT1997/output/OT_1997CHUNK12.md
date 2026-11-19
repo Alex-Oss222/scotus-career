@@ -207,7 +207,7 @@ Bryant recognizes economic opportunity injury without certainty of the eventual 
 
 The strongest contrary view reads the earlier Act and later fiscal laws together as one authorized contingent scheme. Field permits Congress to prescribe a consequence that follows an executive determination of a specified contingency. Here the President retains a policy choice whether to cancel even after making the required findings. The real category, timing, information and fiscal restrictions do not convert that discretionary legal nullification into compulsory implementation of the substantive decision enacted in the canceled provision.
 
-Congressional consent does not cure the constitutional defect. Cancellation operates without another law; restoration then requires enacted disapproval subject to the President's ordinary veto. Neither branch may make its preferred revision conclusive merely because the other cannot assemble overriding majorities. Train preserves statutory spending commands while leaving actual delegated discretion available. Loving concerns bounded implementation; Morgan Stanley and Plaut concern Congress's own enacted adjustments with independent adjudication retained. None authorizes this executive repeal. Hechinger's congressional-agent setting is distinct.
+Congressional consent does not cure the constitutional defect. Cancellation operates without another law; restoration then requires enacted disapproval subject to the President's ordinary veto. Neither branch may make its preferred revision conclusive merely because the other cannot assemble overriding majorities. Train preserves statutory spending commands while leaving actual delegated discretion available. Loving concerns bounded implementation; Plaut concerns the limit Article III places on Congress's own legislation directed at final judgments in completed private actions. None authorizes this executive repeal. Hechinger's congressional-agent setting is distinct.
 
 The sufficient Article I ground leaves independent nondelegation and balance-of-powers theories, unpresented discretionary-budget severability and disputed lockbox applications undecided. Congress may authorize fiscal choices, contingent appropriations and lawful rescission proposals; no alternative mechanism is judicially prescribed.
 
@@ -218,7 +218,7 @@ The sufficient Article I ground leaves independent nondelegation and balance-of-
 - **Chadha:** Constitutional lawmaking requirements apply to repeal; consent cannot authorize their circumvention.
 - **Field and Train:** Genuine contingent implementation and discretion actually conferred by governing spending law remain available; unilateral contradiction of enacted commands does not.
 - **Loving:** Its bounded military implementation holding is not enlarged into a civilian cancellation power; Thomas's earlier judgment-only scope remains distinct.
-- **Morgan Stanley and Plaut:** Their permission for bounded congressional reopening with independent adjudication retained is preserved; it does not authorize executive repeal.
+- **Plaut:** Its protection of final judgments in completed private actions against legislative reopening, with Congress's power to change the law for pending cases preserved, remains; it does not authorize executive repeal.
 - **Hechinger:** Its rule against operative control by congressional agents remains; this case addresses a different post-enactment executive power.
 
 #### Law After Decision

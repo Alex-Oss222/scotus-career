@@ -11,7 +11,7 @@ All nine Justices named below participate at submission and decision. Quorum exi
 
 ## Entering law and source scope
 
-The May 7 final Benjamin public handoff, Rouse, and entering-law slice supply the governing current law. The November 26, 1997 amendment requires a current **and** ongoing violation in pending cases. Actual Morgan Stanley/Plaut displaces the lower opinion's historical finality account. Rufo remains distinct.
+The May 7 final Benjamin public handoff, Rouse, and entering-law slice supply the governing current law. The November 26, 1997 amendment requires a current **and** ongoing violation in pending cases. Plaut, as decided, accords with the lower opinion's distinction between final judgments and an injunction's prospective effect: Article III protects a completed private judgment, while changed law may govern an injunction's future operation. Morgan Stanley, affirmed by an equally divided Court, supplies no rule. Rufo remains distinct.
 
 Research cutoff: immediately before May 21, 1998. The complete Eighth Circuit opinion, verified in preflight and reconciliation including its notes, supports the reported procedural facts. Original decrees, current reports, and underlying filings are not claimed recovered. Published recitations suffice under Engine §14; missing sources prove neither default nor compliance. No denied witness or hearing is inferred from Benjamin.
 
@@ -27,16 +27,16 @@ All eight reconciled commitments retain their judgment, grounds, and boundaries 
 
 | Justice | Individual ground and final join check |
 |---|---|
-| Stevens | Rouse/Benjamin full joins and actual Plaut majority join support changed-law adjudication. All parts joined: completed effects survive and no preservation finding is fabricated. |
+| Stevens | Rouse/Benjamin full joins support changed-law adjudication, and his Plaut dissent accepts changed law whose application courts decide. All parts joined: completed effects survive and no preservation finding is fabricated. |
 | O'Connor | Rouse/Benjamin and Agostini joins distinguish prospective supervision. All parts joined: no universal hearing duty and no added Rufo prerequisite. |
 | Scalia | Benjamin authorship, Rouse/Rufo joins, and Kokkonen distinguish judicial duties and independent agreements. All parts joined: neither contract relabeling nor missing original findings defeats preservation. |
 | Kennedy | Rouse authorship and Benjamin full join support statutory, constitutional, and assumed-contract grounds. All parts joined: no finding against current injury or independent contractual rights. |
-| Souter | Rouse/Benjamin, Rufo, and Plaut joins preserve judicial determination and historical effects. All parts joined: consent creates no immunity, but necessary corrective relief receives actual adjudication. |
+| Souter | Rouse/Benjamin and Rufo joins preserve judicial determination and historical effects; his Plaut dissent join adds no contrary limit. All parts joined: consent creates no immunity, but necessary corrective relief receives actual adjudication. |
 | Thomas | Rouse/Benjamin and Agostini joins support enacted remedial conditions. All parts joined: no silence-based compliance finding, compulsory hearing, or extra equitable prerequisite. |
-| Ginsburg | Rouse/Benjamin and Plaut joins require genuine current-law adjudication. All parts joined: absent original findings do not mean absent present violations or automatic contractual survival. |
-| Breyer | Rouse/Benjamin and Plaut joins support remedy-specific evaluation. All parts joined: neither continuation nor termination rests on abstract preferences. |
+| Ginsburg | Rouse/Benjamin joins require genuine current-law adjudication; her Plaut dissent join adds no contrary limit. All parts joined: absent original findings do not mean absent present violations or automatic contractual survival. |
+| Breyer | Rouse/Benjamin joins support remedy-specific evaluation; his closed-class Plaut judgment concurrence does not reach prospective relief. All parts joined: neither continuation nor termination rests on abstract preferences. |
 
-No historical Supreme Court merits lineup exists. The lower result agrees, but its original conjunction and historical Plaut rationale do not govern. Reconciliation finds no changed commitment, historical Supreme Court departure, or later-case consequence.
+No historical Supreme Court merits lineup exists. The lower result agrees, and its Plaut rationale accords with Plaut as decided, but its original conjunction does not govern. Reconciliation finds no changed commitment, historical Supreme Court departure, or later-case consequence.
 
 Immediate termination omits §3626(b)(3); permanent decree immunity conflicts with prospective-remedy law. The unanimous judgment has nine rationale votes in Parts I–III and V, eight in Part IV. Direct majorities control; no Marks synthesis applies.
 
@@ -105,7 +105,7 @@ Consent decrees fall within covered relief. Neither negotiated origin nor relief
 
 **Holding and operative rule:** Congress may alter prospective remedial conditions while courts independently decide eligibility, violations, and relief; beneficiaries possess no permanent entitlement to unchanged supervision. The presented classification rationally relates the actual remedial restriction to legitimate institutional and resource interests while preserving meaningful remedies for federal violations.
 
-**Controlling explanation:** Rouse and Benjamin govern these objections. Robertson and Wheeling Bridge distinguish changed governing law from legislative adjudication; Klein preserves independent judicial decision. Morgan Stanley and Plaut permit bounded reinstatement of specified securities limitations dismissals, establishing neither absolute finality nor unrestricted reopening.
+**Controlling explanation:** Rouse and Benjamin govern these objections. Robertson and Wheeling Bridge distinguish changed governing law from legislative adjudication; Klein preserves independent judicial decision. Plaut protects the conclusive disposition of a completed private action by a final judgment against legislatively required vacatur and reinstatement, but preserves Congress's power to change the law governing an injunction's future operation within the applicable remedial framework; continuing decrees gain no immunity from changed remedial conditions.
 
 The statute supplies new conditions, not a legislative finding of compliance. Judicial application preserves substantive federal rights and the opportunity for necessary proof. Beach allows legitimate conceivable purposes; Heller and Romer require a rational relationship to the actual classification, not merely absence of suspect status. The retained adjudicatory and remedial protections support that relationship here. Completed effects and accrued claims remain distinct. A supported violation excluded solely by the amended conjunction, or an independently supported threatened injury requiring protection, is not decided away.
 
@@ -132,7 +132,7 @@ The Rules Enabling Act argument was not renewed on appeal. Automatic stay, new-r
 - **Rufo:** Retains its significant-change and tailored-modification requirements for the independent equitable route.
 - **Lewis v. Casey:** Requires actual access injury and fit for library remedies; its original statutory scope remains intact.
 - **Kokkonen:** Preserves the judicial-command/private-agreement distinction and independent enforcement requirements.
-- **Morgan Stanley; Plaut:** Preserve bounded reinstatement and independent adjudication, without resolving all reopening questions.
+- **Plaut:** Preserves Article III finality for completed private judgments and its qualification permitting changed law to govern an injunction's future operation, with independent adjudication retained.
 - **Robertson; Wheeling Bridge; Klein:** Preserve genuine changed-law adjudication and forbid legislative substitution for the judicial task.
 - **Beach; Heller; Romer:** Supply rational review tied to the actual classification and legitimate ends.
 - **National Railroad Passenger Corp. v. Atchison:** Supplies the limited federal-nonparty contract framework.

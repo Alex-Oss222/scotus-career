@@ -79,7 +79,7 @@ These authorities identify relevant legal commitments already published; they pr
 | Ginsburg | Authored Lindh; joined Schlup, Carlisle, Lonchar's necessary-process holding, and Carriger's bounded extension and remand. These authorities support provision-specific limits and actual review predicates, not general exemption of pending litigation from later law. |
 | Breyer | Joined Schlup, Carlisle, Lindh, Lonchar's necessary-process holding, and Carriger. His support for whole-record reassessment coexists with Felker's denial on the considered submission and with rule-consistent limits; remand is not a default. |
 
-Trest's unanimous no-mandatory-default-initiative holding preserves, rather than resolves, the distinct question of permissible judicial initiative. Plaut's actual in-world holding concerns Congress's bounded statutory reopening of completed limitations dismissals. Its contrary historical disposition supplies no entering law, and the in-world decision does not itself decide inherent recall of a completed habeas mandate.
+Trest's unanimous no-mandatory-default-initiative holding preserves, rather than resolves, the distinct question of permissible judicial initiative. Plaut's in-world holding protects a private judgment made final through the ordinary judicial process against a congressional command that an Article III court vacate it and reinstate the same litigation, while leaving judicial relief through constitutionally permissible procedures in place; it does not itself decide inherent recall of a completed habeas mandate.
 
 ## 6. Readiness and precise limits
 

@@ -49,7 +49,7 @@ Consent decrees fall within covered relief. Neither negotiated origin nor relief
 
 **Holding and operative rule:** Congress may alter prospective remedial conditions while courts independently decide eligibility, violations, and relief; beneficiaries possess no permanent entitlement to unchanged supervision. The presented classification rationally relates the actual remedial restriction to legitimate institutional and resource interests while preserving meaningful remedies for federal violations.
 
-**Controlling explanation:** Rouse and Benjamin govern these objections. Robertson and Wheeling Bridge distinguish changed governing law from legislative adjudication; Klein preserves independent judicial decision. Morgan Stanley and Plaut permit bounded reinstatement of specified securities limitations dismissals, establishing neither absolute finality nor unrestricted reopening.
+**Controlling explanation:** Rouse and Benjamin govern these objections. Robertson and Wheeling Bridge distinguish changed governing law from legislative adjudication; Klein preserves independent judicial decision. Plaut protects the conclusive disposition of a completed private action by a final judgment against legislatively required vacatur and reinstatement, but preserves Congress's power to change the law governing an injunction's future operation within the applicable remedial framework; continuing decrees gain no immunity from changed remedial conditions.
 
 The statute supplies new conditions, not a legislative finding of compliance. Judicial application preserves substantive federal rights and the opportunity for necessary proof. Beach allows legitimate conceivable purposes; Heller and Romer require a rational relationship to the actual classification, not merely absence of suspect status. The retained adjudicatory and remedial protections support that relationship here. Completed effects and accrued claims remain distinct. A supported violation excluded solely by the amended conjunction, or an independently supported threatened injury requiring protection, is not decided away.
 
@@ -76,7 +76,7 @@ The Rules Enabling Act argument was not renewed on appeal. Automatic stay, new-r
 - **Rufo:** Retains its significant-change and tailored-modification requirements for the independent equitable route.
 - **Lewis v. Casey:** Requires actual access injury and fit for library remedies; its original statutory scope remains intact.
 - **Kokkonen:** Preserves the judicial-command/private-agreement distinction and independent enforcement requirements.
-- **Morgan Stanley; Plaut:** Preserve bounded reinstatement and independent adjudication, without resolving all reopening questions.
+- **Plaut:** Preserves Article III finality for completed private judgments and its qualification permitting changed law to govern an injunction's future operation, with independent adjudication retained.
 - **Robertson; Wheeling Bridge; Klein:** Preserve genuine changed-law adjudication and forbid legislative substitution for the judicial task.
 - **Beach; Heller; Romer:** Supply rational review tied to the actual classification and legitimate ends.
 - **National Railroad Passenger Corp. v. Atchison:** Supplies the limited federal-nonparty contract framework.

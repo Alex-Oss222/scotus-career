@@ -7,7 +7,7 @@
 
 Certiorari to the Eighth Circuit under §1254(1), after argument March 3, 1998. All nine Justices participate at argument and decision; quorum and a five-vote majority are available. This first §2255 proceeding is not a successive-authorization appeal. The drug conviction and sentence-quantity issue are outside this review. Research cutoff: May 18, 1998.
 
-The entering-law slice supplies Bailey's active-employment meaning, Schlup's whole-record gateway, Carriger's separation of gateway and underlying constitutional claim, Godinez's separation of competence and informed choice, and Hyde's different presentence-withdrawal setting. Neither Plaut nor Morgan Stanley creates a criminal collateral exception. May 18 matters share the pre-group substantive baseline; alphabetical ordering governs assignments only.
+The entering-law slice supplies Bailey's active-employment meaning, Schlup's whole-record gateway, Carriger's separation of gateway and underlying constitutional claim, Godinez's separation of competence and informed choice, and Hyde's different presentence-withdrawal setting. Plaut's protection of final civil judgments creates no criminal collateral exception, and Morgan Stanley, affirmed by an equally divided Court, sets no precedent. May 18 matters share the pre-group substantive baseline; alphabetical ordering governs assignments only.
 
 ## Frozen commitments, reconciliation and compatibility
 
