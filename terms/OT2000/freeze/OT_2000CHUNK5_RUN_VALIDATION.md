@@ -6,7 +6,7 @@ Twelve new Canonical Decision Records and their generated Render Input are compl
 
 | Effective date | Matter | Result | Record |
 |---|---|---|---|
-| 2001-04-24 | Alexander v. Sandoval, No. 99-1908 | Affirm the reviewed prospective-enforcement judgment and injunction, 5–4; expressly overrule Powell's contrary direct-action holding to that extent. | [Alexander_v_Sandoval_merits_2001-04-24.md](../records/Alexander_v_Sandoval_merits_2001-04-24.md) |
+| 2001-04-24 | Alexander v. Sandoval, No. 99-1908 | Reverse the judgment sustaining the direct private action, vacate the injunction insofar as it rests on that action and remand, 5–4; Powell's direct-action holding followed, regulatory validity assumed. | [Alexander_v_Sandoval_merits_2001-04-24.md](../records/Alexander_v_Sandoval_merits_2001-04-24.md) |
 | 2001-04-24 | Atwater v. City of Lago Vista, No. 99-1408 | Vacate categorical custody summary judgment and remand, 5–4; five adopt functional rule, four adopt constitutional-insufficiency application. | [Atwater_v_City_of_Lago_Vista_merits_2001-04-24.md](../records/Atwater_v_City_of_Lago_Vista_merits_2001-04-24.md) |
 | 2001-04-24 | Sterling v. Borough of Minersville | Affirm Wilinsky's legal immunity denial, 5–4; dismiss Hoban's factual-sufficiency appellate contention, 9–0; seven adopt the bounded present right. | [Sterling_v_Borough_of_Minersville_merits_2001-04-24.md](../records/Sterling_v_Borough_of_Minersville_merits_2001-04-24.md) |
 | 2001-04-25 | Daniels v. United States, No. 99-9136 | Affirm denial of the section 2255 motion, 5–4; no majority adopts a faultless-review exception. | [Daniels_v_United_States_merits_2001-04-25.md](../records/Daniels_v_United_States_merits_2001-04-25.md) |

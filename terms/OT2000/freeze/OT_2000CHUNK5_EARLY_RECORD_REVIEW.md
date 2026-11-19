@@ -8,7 +8,7 @@ No concrete assembly defect was found within this scope. No adjudication was cha
 
 ## Findings
 
-- Sandoval's five full Court-opinion joins support both the prospective Title VI action and the express partial overruling. The separate section 1983 branch, accepted regulatory premises and prospective remedy remain distinct.
+- Sandoval's five full Court-opinion joins support the Title VI-specific direct-action holding, its application of Powell and the remand boundaries. No joiner's ground is broadened into a universal express-action-clause, funding-notice or general retreat-from-implication rationale. The separate section 1983 branch, assumed regulatory validity, agency enforcement and section 601 intent actions remain distinct.
 - Atwater has five direct joins to the functional rule and five express vacatur votes, supported by the separate circulation audit. Its four-Justice constitutional application remains noncontrolling; the bounded remand does not turn their complete application position into a reservation or create a new factual justification.
 - Sterling preserves seven joins to the present confidentiality rule, five to the conduct-date notice conclusion and legal immunity disposition, and nine to the factual-appellate boundary. Its separate writings retain their different merits and notice grounds. Further proceedings do not become liability or damages findings.
 - Daniels's five-Justice available-review rule and complete-counsel exception do not adopt the affirmative faultless-loss exception. Stone's affirmative position, Scalia's additional statutory objection, the three-Justice statutory dissent and Breyer's distinct sentencing proposal remain separate. The access ruling leaves the predicate merits unadjudicated.

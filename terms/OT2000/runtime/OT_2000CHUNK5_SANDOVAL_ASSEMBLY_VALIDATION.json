@@ -13,35 +13,37 @@
     "public/private and forbidden-path-language scan"
   ],
   "controlling_explanation_word_counts": [
-    299,
-    258
+    335,
+    200
   ],
   "judgment": {
     "supporting": [
       "Stone-Zsela",
-      "Stevens",
-      "Souter",
-      "Ginsburg",
-      "Breyer"
-    ],
-    "opposing": [
       "O'Connor",
       "Scalia",
       "Kennedy",
       "Thomas"
+    ],
+    "opposing": [
+      "Stevens",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
     ]
   },
   "author": "Stone-Zsela",
   "eligible_authors": [
     "Stone-Zsela",
-    "Stevens",
-    "Souter",
-    "Ginsburg",
-    "Breyer"
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Thomas"
   ],
   "balance_pool": [
     "Stone-Zsela",
-    "Souter"
+    "Scalia",
+    "Kennedy",
+    "Thomas"
   ],
   "before_counts": {
     "Stone-Zsela": 4,

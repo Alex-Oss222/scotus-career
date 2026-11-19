@@ -7,7 +7,7 @@
 
 Plenary certiorari review follows the supplied and verified February 26 argument and May 14 decision dates. All nine participate, satisfying quorum, with five necessary for controlling law. The frozen Cooper neutral and reconciliation, later preflight and COOPER entering-law slice provide actual BMW, Gasperini, Bajakajian, Ornelas, Oberg, TXO, TrafFix and Buford. Their exact legal/factual and statutory-task boundaries remain intact.
 
-`tmp/CHUNK5_PUBLIC_BEFORE_MAY14.md` copies the six actual completed earlier chunk events, excluding same-date decisions. Sandoval's Title VI action, Atwater's additional custody rule, Sterling's confidentiality and immunity, Daniels's collateral-review channel, Randell's civil invalidation exception, and C & L's express tribal confirmation waiver alter no punitive-review premise, factual protection, limited grant or remedy. No material change requires a new clean stage. May 14 alphabetical processing affects only assignment counts, not substantive entering law; Coss remains stopped. Research cutoff: immediately before May 14, 2001.
+`tmp/CHUNK5_PUBLIC_BEFORE_MAY14.md` copies the six actual completed earlier chunk events, excluding same-date decisions. Sandoval's Title VI private-action rule, Atwater's additional custody rule, Sterling's confidentiality and immunity, Daniels's collateral-review channel, Randell's civil invalidation exception, and C & L's express tribal confirmation waiver alter no punitive-review premise, factual protection, limited grant or remedy. No material change requires a new clean stage. May 14 alphabetical processing affects only assignment counts, not substantive entering law; Coss remains stopped. Research cutoff: immediately before May 14, 2001.
 
 ## Stone: core and final compatibility
 
