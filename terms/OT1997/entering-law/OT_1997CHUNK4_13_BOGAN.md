@@ -19,7 +19,7 @@ For connected appellate review and the invalid categorical trial stay, see Feder
 
 **Limits and questions not reached:** The holding concerns a properly brought federal damages action for alleged unofficial pre-office conduct. It decides no liability, state-court proceedings, criminal proceedings or compulsory attendance at a particular place or time. Litigation's political motive or the claim's abstract importance supplies no constitutional immunity rule.
 
-**Treatment of earlier authority:** Fitzgerald preserves official presidential decisionmaking immunity; Forrester distinguishes function from identity and Antoine supplies a limited functional analogy. United States v. Nixon rejects absolute insulation from process but reserves civil-evidence disputes. Nixon v. United States, Morgan Stanley, Plaut and Reich retain their confined structural/remedial holdings and establish no general civil exemption.
+**Treatment of earlier authority:** Fitzgerald preserves official presidential decisionmaking immunity; Forrester distinguishes function from identity and Antoine supplies a limited functional analogy. United States v. Nixon rejects absolute insulation from process but reserves civil-evidence disputes. Nixon v. United States, Plaut and Reich retain their confined structural/remedial holdings and establish no general civil exemption; Morgan Stanley's equal division supplies no precedent.
 
 ##### Official-act immunity turns on function, not presidential status
 

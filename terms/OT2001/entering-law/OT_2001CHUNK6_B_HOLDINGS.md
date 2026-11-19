@@ -34,7 +34,7 @@ For the domestic-relations limitation in Mussari/Schroeder, June 30, 1997, Ninth
 
 **Limits and questions not reached:** The existing operative support order remains a predicate; federal tribunals may not create or revise the underlying duty or domestic status.
 
-**Treatment of earlier authority:** New York preserves the distinction between direct private regulation and compulsory state responsibility. Printz/Mack's qualified executive-assistance rule and fiscal mandate concern different implementing means and supply neither commerce power nor a compensation rule here.
+**Treatment of earlier authority:** New York preserves the distinction between direct private regulation and compulsory state responsibility. Printz/Mack's rule that Congress may not command unwilling State executive officers to administer federal regulation of private persons is preserved: §228 directly regulates the private obligor and commands no State officer, so it is consistent with that rule. Printz supplies neither the commerce premise nor a fiscal inquiry for these private obligations; no compensation rule is adopted.
 
 Source: state/holdings/criminal-procedure.md
 

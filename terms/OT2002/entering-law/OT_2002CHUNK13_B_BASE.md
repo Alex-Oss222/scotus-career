@@ -8281,9 +8281,7 @@ For the other questions and complete operative scope in Wilson v. Layne, 1999-05
 
 **Proposition-level authority:** Thomas's opinion of the Court, joined by Stone-Zsela, O'Connor, Scalia and Kennedy; five direct rationale votes.
 
-**Current-force modification:** Alexander v. Sandoval, April 24, 2001, overrules this direct-action prohibition insofar as it excludes prospective enforcement by Title VI beneficiaries of valid, sufficiently definite section 602 requirements implementing their statutory discrimination protection. Plaintiffs must prove the actual regulatory elements and obtain fitted relief. Powell's separate section 1983 holding, completed judgment and distinction between regulatory validity and a congressional source of action remain; Sandoval decides no damages remedy for unintentional effects and reopens no final judgment.
-
-**Later-authority backlinks:** Alexander v. Sandoval, No. 99-1908, April 24, 2001: prospective Title VI enforcement and express partial overruling of the Count I direct-action rule.
+**Later-authority backlinks:** Alexander v. Sandoval, No. 99-1908, April 24, 2001: follows the Count I direct-action holding, without overruling it in whole or in part, to hold that Title VI supplies no private action to enforce section 602's additional disparate-impact prohibitions whatever the form of relief, including prospective injunctions; regulatory validity is assumed and the Count II section 1983 holding is left undisturbed. South Camden Citizens in Action v. New Jersey Department of Environmental Protection, review of 274 F.3d 771, May 28, 2002: applies and reaffirms both holdings to reject section 1983 and directly implied Title VI enforcement of EPA's additional disparate-impact requirements, while a preserved section 601 intentional-discrimination claim proceeds on its own proof.
 
 ##### Whether the regulation creates the individual statutory effects right asserted under section 1983 in Count II
 
@@ -9100,7 +9098,7 @@ For *Delaney v. DeTella*, March 4, 2002, Seventh Circuit No. 00-4145, the interl
 **Treatment of earlier authority:**
 
 - Blessing v. Freestone, April 21, 1997: the particular statutory right and enforcement vehicle remain separate inquiries; assuming an action here establishes neither.
-- Alexander v. Sandoval, April 24, 2001: its integrated Title VI prospective action is preserved and does not decide FERPA enforcement.
+- Alexander v. Sandoval, April 24, 2001: its Title VI-specific holding that no private action enforces section 602's additional disparate-impact regulations is preserved and does not decide FERPA enforcement.
 - TRW Inc. v. Andrews, November 13, 2001: independent statutory requirements and exclusions retain their actual limiting work.
 
 **Later-authority backlinks:** Gonzaga University v. Doe, June 20, 2002, resolves the asserted Section 1983 enforcement of FERPA's nondisclosure provisions against the claimant through statute-specific six-Justice agreement. Owasso's education-record definition remains intact, and Gonzaga adopts no majority general formula equating a statutory right with intent to create a private remedy.
@@ -13531,8 +13529,8 @@ Mandatory remission is a separate rule. It requires belief, with reasonable grou
 - **Marshall v. Holmes:** Its alleged forged-document circumstances illustrate extraordinary equitable relief, without imposing universal intentional forgery as an element.
 - **Bankers Mortgage Co. v. United States:** Its traditional independent-action conditions are preserved within the demanding extraordinary-relief threshold.
 - **National Surety Co. v. State Bank:** Its traditional equitable conditions are preserved without separate invented adverse factual findings on each condition.
-- **Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., May 23, 1994:** Its bounded legislative reinstatement holding remains; it does not authorize general judicial fairness review of settlements.
-- **Plaut v. Spendthrift Farm, April 18, 1995:** Its lawful bounded reinstatement procedure and independent judicial decisions remain; no absolute constitutional prohibition on legislative reopening is adopted.
+- **Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., May 23, 1994:** Affirmed by an equally divided Court without opinion; it establishes no precedent and supplies no rule for judicial review of settlements.
+- **Plaut v. Spendthrift Farm, April 18, 1995:** Its protection of final judgments against legislation requiring their vacatur and reinstatement is respected, and its preservation of judicial relief through constitutionally permissible procedures is applied; it authorizes no unrestricted judicial reopening.
 - **Irwin v. Department of Veterans Affairs:** Its rebuttable approach is applied and overcome by this QTA scheme, rather than treated as a universal anti-equity rule.
 - **United States v. Brockamp, February 18, 1997:** Its statute-specific method is applied without transplanting tax provisions or deciding its reserved governmental-inducement questions.
 - **Beach v. Ocwen Federal Bank, April 21, 1998:** Its provision-specific analysis is preserved; the separate rescission-right expiration rule is not substituted for the QTA's notice-based period.
@@ -13573,7 +13571,7 @@ DeCarlo v. Fry, Second Circuit Nos. 97-7702, 97-7704 and 97-7754; no separate Su
 - **La Buy v. Howes Leather, 352 U.S. 249:** Applied to bounded supervisory mandamus over district proceedings.
 - **Mallard v. United States District Court, 490 U.S. 296:** Applied to require lawful underlying authority for extraordinary relief.
 - **Lexecon Inc. v. Milberg Weiss Bershad Hynes & Lerach, March 3, 1998:** Applied for observance of statutory judicial allocation despite administrative convenience.
-- **Plaut v. Spendthrift Farm, April 18, 1995:** Distinguished in its authorized statutory reopening setting; independent adjudication remains protected without categorical immunity from reassignment.
+- **Plaut v. Spendthrift Farm, April 18, 1995:** Distinguished: its Article III protection of final judgments against legislation requiring their vacatur and reinstatement does not govern administrative transfer of pending cases; independent adjudication remains protected without categorical immunity from transfer.
 
 ### Pleading omissions and actually litigated defenses
 
@@ -16867,15 +16865,15 @@ For political-committee coverage and the separate membership and transaction pro
 
 **Decided:** June 27, 1997.
 
-**Companion or consolidated matters:** The consolidated Printz and Mack dockets receive the same confined constitutional disposition.
+**Companion or consolidated matters:** The consolidated Printz and Mack dockets receive the same reversal, declaratory relief and remand for conforming judgments.
 
-For the limited executive-assistance rule and the fractured fiscal mandate in Printz/Mack, June 27, 1997, Nos. 95-1478 and 95-1503, see Constitutional Structure — Temporary state executive assistance.
+For the categorical rule that Congress may not command unwilling state executive officers to administer federal regulation of private persons, and the reversal, declaratory relief and conforming judgments in Printz/Mack, June 27, 1997, Nos. 95-1478 and 95-1503, see Constitutional Structure — Federal commands to state executive officers.
 
 ##### Whether the plaintiff officers may challenge duties imposed on their offices
 
 **Holding:** A federal command requiring these plaintiff officers to perform identified work through their offices presents a concrete injury redressable by relief against that command. Their official status does not bar review, but it supplies no standing to obtain an advisory decision about independent obligations imposed only on absent dealers or purchasers.
 
-**Proposition-level authority:** Jurisdictional section of Souter's opinion, unanimous.
+**Proposition-level authority:** Jurisdictional section of Thomas's opinion of the Court, joined by all eight other Justices; unanimous.
 
 **Limits and questions not reached:** The Government's disavowal of criminal prosecution does not remove the compulsory civil work. Separate criminal-vagueness, unraised civil-vagueness and Thirteenth Amendment matters outside the grant remain undisturbed.
 
@@ -22710,7 +22708,7 @@ Controlling Chevron treatment requires congressional conferral, expressly or thr
 
 **Exceptions and limits:** An express congressional direction concerning the temporal operation of a statute resolves the threshold statutory question, subject to applicable constitutional limits. Such a direction does not alone determine whether Congress may constitutionally require reconsideration of an already completed Article III judgment. Landgraf concerns statutory consequences for earlier conduct in litigation properly before the courts and does not decide that separate final-judgment issue.
 
-**Related current rules:** Congressional reopening of completed private federal judgments supplies Morgan Stanley's and Plaut's separate Article III rule for §27A(b).
+**Related current rules:** Congressional reopening of completed private federal judgments supplies Plaut's separate Article III rule for §27A(b); because §27A(b) expressly directs reinstatement, the presumption against statutory retroactivity does not avoid that constitutional question.
 
 ## Standards and Tests selection: Certification of multistate damages classes
 

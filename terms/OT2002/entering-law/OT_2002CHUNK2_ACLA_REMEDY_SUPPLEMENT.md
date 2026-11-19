@@ -1367,15 +1367,15 @@ For political-committee coverage and the separate membership and transaction pro
 
 **Decided:** June 27, 1997.
 
-**Companion or consolidated matters:** The consolidated Printz and Mack dockets receive the same confined constitutional disposition.
+**Companion or consolidated matters:** The consolidated Printz and Mack dockets receive the same reversal, declaratory relief and remand for conforming judgments.
 
-For the limited executive-assistance rule and the fractured fiscal mandate in Printz/Mack, June 27, 1997, Nos. 95-1478 and 95-1503, see Constitutional Structure — Temporary state executive assistance.
+For the categorical rule that Congress may not command unwilling state executive officers to administer federal regulation of private persons, and the reversal, declaratory relief and conforming judgments in Printz/Mack, June 27, 1997, Nos. 95-1478 and 95-1503, see Constitutional Structure — Federal commands to state executive officers.
 
 ##### Whether the plaintiff officers may challenge duties imposed on their offices
 
 **Holding:** A federal command requiring these plaintiff officers to perform identified work through their offices presents a concrete injury redressable by relief against that command. Their official status does not bar review, but it supplies no standing to obtain an advisory decision about independent obligations imposed only on absent dealers or purchasers.
 
-**Proposition-level authority:** Jurisdictional section of Souter's opinion, unanimous.
+**Proposition-level authority:** Jurisdictional section of Thomas's opinion of the Court, joined by all eight other Justices; unanimous.
 
 **Limits and questions not reached:** The Government's disavowal of criminal prosecution does not remove the compulsory civil work. Separate criminal-vagueness, unraised civil-vagueness and Thirteenth Amendment matters outside the grant remain undisturbed.
 
@@ -3797,7 +3797,7 @@ The due-process fracture, independently unanimous propositions, and arms holding
 
 **Proposition-level authority:** Souter's Part I, joined by O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer: seven Justices. Stevens's serious doubt and Stone-Zsela's nonjoin supply no additional support.
 
-**Treatment of earlier authority:** Aetna and Nashville permit conclusive adverse declarations without an immediately executable coercive decree. Brimson supports judicial assistance to administration within its adversarial, conclusive, enforceable-order setting, without creating IGRA contempt power. Ferreira's revisable commissioner process is distinguished. Gordon's jurisdictional disposition supplies no delivered reasoned majority opinion requiring execution in every judicial case; Hayburn produced no Supreme Court merits decision, and its reported circuit communications remain historical materials. Wisconsin's partial-redress rule concerns the judicial capacity to afford meaningful relief. Morgan Stanley and Plaut: Article III permits Congress to require reinstatement of qualifying completed private securities limitations dismissals under §27A(b)'s objectively defined procedure while courts independently determine eligibility and adjudicate the claims. The holdings do not establish an unrestricted power to reopen completed merits judgments and do not determine whether IGRA's conclusive adjudication ceases to be judicial because mediation or executive action follows.
+**Treatment of earlier authority:** Aetna and Nashville permit conclusive adverse declarations without an immediately executable coercive decree. Brimson supports judicial assistance to administration within its adversarial, conclusive, enforceable-order setting, without creating IGRA contempt power. Ferreira's revisable commissioner process is distinguished. Gordon's jurisdictional disposition supplies no delivered reasoned majority opinion requiring execution in every judicial case; Hayburn produced no Supreme Court merits decision, and its reported circuit communications remain historical materials. Wisconsin's partial-redress rule concerns the judicial capacity to afford meaningful relief. Morgan Stanley and Plaut: Plaut holds that Article III protects the conclusive disposition of a private case by a federal court once its judgment has become final through the ordinary judicial process; Congress may not, solely by changing the law previously applicable to a completed private action, require an Article III court to vacate that final judgment and reinstate the same litigation, and §27A(b) is unconstitutional to that extent. Congress's power to change the law governing pending cases remains. Morgan Stanley, affirmed by an equally divided Court without opinion, establishes no precedent. Plaut does not determine whether IGRA's conclusive adjudication ceases to be judicial because mediation or executive action follows.
 
 ##### A connected officer may be sued prospectively under IGRA within its complete statutory limits
 
@@ -4038,7 +4038,7 @@ For the Article III validity of the prospective-law change, see Inmates of Suffo
 
 **Treatment of earlier authority:**
 
-Plyler supplies the independent statutory route, judicial preservation inquiry and bounded constitutional operation under its original text; the present amendment is applied without rewriting that holding. Lewis retains the statute's scope, transition, findings and meaningful-access limits. Rufo retains its independent significant-change and tailored-modification rule, not an extra statutory prerequisite. Morgan Stanley and Plaut retain their limited completed-dismissal reinstatement holdings; Robertson, Klein and Wheeling Bridge preserve the changed-law/adjudication distinction. Bell preserves pretrial protection. Beach, Heller and Romer supply ordinary review within their actual limits, and Atchison supplies the assumed federal-nonparty contract analysis. No precedent is overruled.
+Plyler supplies the independent statutory route, judicial preservation inquiry and bounded constitutional operation under its original text; the present amendment is applied without rewriting that holding. Lewis retains the statute's scope, transition, findings and meaningful-access limits. Rufo retains its independent significant-change and tailored-modification rule, not an extra statutory prerequisite. Plaut retains its protection of final judgments in completed private actions and its qualification for the future operation of injunctions; Robertson, Klein and Wheeling Bridge preserve the changed-law/adjudication distinction. Bell preserves pretrial protection. Beach, Heller and Romer supply ordinary review within their actual limits, and Atchison supplies the assumed federal-nonparty contract analysis. No precedent is overruled.
 
 ### State immunity and collateral indemnification
 
@@ -4421,7 +4421,7 @@ For the governing-law error and confined remand of the districting decree, see L
 - **Plyler and Lewis v. Casey:** Preserve the independent statutory route, remedial safeguards, statutory scope and meaningful access under the text each construed; their original conjunction is not rewritten.
 - **Rufo:** Retains significant-change and tailored-modification requirements for its distinct equitable route, without becoming an additional statutory prerequisite.
 - **Kokkonen:** Preserves the distinction between judicial commands and separate agreements and the need for independent enforcement jurisdiction.
-- **Morgan Stanley and Plaut:** Their defined securities-dismissal reinstatement holdings supply neither absolute immunity for future supervision nor a general congressional reopening power.
+- **Plaut:** Preserves Article III finality for completed private judgments and its qualification permitting changed law to govern an injunction's future operation; it supplies no immunity for future supervision.
 - **Robertson; Wheeling Bridge; Klein:** Preserve the distinction between changed governing law and legislative adjudication under unchanged law.
 - **Beach; Heller; Romer:** Supply rational review with an actual relationship between classification and legitimate ends.
 - **Bell v. Wolfish:** Preserves the independent substantive protection of pretrial detainees against punishment.
@@ -4477,7 +4477,7 @@ For the governing-law error and confined remand of the districting decree, see L
 - **Rufo:** Retains its significant-change and tailored-modification requirements for the independent equitable route.
 - **Lewis v. Casey:** Requires actual access injury and fit for library remedies; its original statutory scope remains intact.
 - **Kokkonen:** Preserves the judicial-command/private-agreement distinction and independent enforcement requirements.
-- **Morgan Stanley; Plaut:** Preserve bounded reinstatement and independent adjudication, without resolving all reopening questions.
+- **Plaut:** Preserves Article III finality for completed private judgments and its qualification permitting changed law to govern an injunction's future operation, with independent adjudication retained.
 - **Robertson; Wheeling Bridge; Klein:** Preserve genuine changed-law adjudication and forbid legislative substitution for the judicial task.
 - **Beach; Heller; Romer:** Supply rational review tied to the actual classification and legitimate ends.
 - **National Railroad Passenger Corp. v. Atchison:** Supplies the limited federal-nonparty contract framework.
@@ -4680,7 +4680,7 @@ Removal authority must be established and immunity and any genuinely remaining r
 - **Pennsylvania v. Union Gas Co.:** Its actual damages judgment, statutory construction and five-vote constitutional conclusion remain in force within their decided scope. No broader plurality rationale becomes binding here.
 - **Hans v. Louisiana:** Its federal-court judgment is distinguished; it does not establish the asserted immunity against this state-court FLSA remedy. The Court does not overrule its actual result or decide federal-court amenability.
 - **New York v. United States:** Its prohibition on compulsory state regulation or ownership of private obligations remains intact; generally applicable regulation and the distinct obligations of state courts remain separate.
-- **Printz v. United States; Mack v. United States:** The confined permission for temporary executive records assistance and its unresolved fiscal questions remain unchanged. Neither determines this state-court treasury action.
+- **Printz v. United States; Mack v. United States:** Its rule that Congress may not command unwilling state executive officers to administer a federal regulatory program directed at private persons remains unchanged, as does its express preservation of state courts’ Supremacy Clause duties under Testa and Howlett. That rule does not determine this state-court treasury action.
 - **South Central Bell Telephone Co. v. Alabama:** Applied to the authority to review a federal question in a State’s own judgment under §1257.
 - **Fitzpatrick v. Bitzer and Ex parte Young:** Their distinct §5 and prospective connected-officer channels are not altered or newly established for these employees. No alternative suit or entitlement is found.
 
@@ -5377,7 +5377,7 @@ For the tying rule in United States v. Microsoft Corp., January 22, 2002, lower-
 - Carlson v. Green, 446 U.S. 14 (1980): its federal custodial damages function supports the confined extension to a private custodian's own unconstitutional policy, practice or authorized decision.
 - FDIC v. Meyer (February 23, 1994): its independent agency-cause and public fiscal/remedial grounds remain; they do not automatically determine the different private own-conduct claim.
 - Richardson v. McKnight (June 23, 1997): its immunity rule is distinguished from the separate cause-of-action question and is not converted into a holding on corporate liability.
-- Alexander v. Sandoval (April 24, 2001): its limited prospective statutory remedy remains distinct; it supplies neither a universal prohibition nor automatic authorization of constitutional damages.
+- Alexander v. Sandoval (April 24, 2001): its Title VI-specific holding that no private action enforces section 602 disparate-impact regulations remains distinct; it supplies neither a universal prohibition of implied remedies nor a rule governing constitutional damages.
 
 ### ERISA reimbursement and traditional equitable relief
 
@@ -5991,46 +5991,52 @@ For Prudential, May 28, 2002, review of 261 F.3d 355 with no Supreme Court docke
 
 **Treatment of earlier authority:** Shalala v. Schaefer, 509 U.S. 292 (1993), and Forney v. Apfel, 524 U.S. 266 (1998), retain their distinct remand, fee and review functions. Martin v. Hadix, June 21, 1999, does not replace these express judgment and certification transitions with its service-date rule.
 
-### Title VI prospective enforcement and a distinct regulation-created section 1983 claim
+### Private enforcement of Title VI effects regulations and the preserved intentional-discrimination claim
 
 #### South Camden Citizens in Action v. New Jersey Department of Environmental Protection
 
 **Docket or dockets:** No Supreme Court docket supplied; review of 274 F.3d 771 (3d Cir. 2001), lower-court Nos. 01-2224 and 01-2296.
 **Decided:** May 28, 2002.
 
-##### Whether the EPA effects regulation creates the asserted section 1983 right
+##### I. The asserted regulation-created effects right is not enforceable under §1983
 
-**Holding:** Section 601's intentional-discrimination protection and §602's agency instructions do not confer the additional individual effects right asserted here. A regulation may elaborate a statutory entitlement, but cannot create this missing broader right for §1983; Sandoval's separate authorization of direct prospective Title VI enforcement does not alter that rule.
+**Holding:** Section 601's intentional-discrimination protection and §602's agency-directed implementing authority do not confer the additional individual effects right asserted here. A regulation may elaborate an individual right that Congress has conferred, but it cannot create a missing one; EPA's disparate-impact provisions, 40 C.F.R. §7.35(b) and (c), therefore supply no right for §1983 to enforce. The rejection rests on the absence of a right, not on congressional foreclosure of an established one.
 
-**Proposition-level authority:** O'Connor's Part I, joined by Stone-Zsela, Scalia, Kennedy and Thomas; five direct votes despite differences over formal appellate disposition. Stevens, Souter, Ginsburg and Breyer disagree.
+**Proposition-level authority:** O'Connor's Part I, joined by Stone-Zsela, Scalia, Kennedy and Thomas; five direct votes. Stevens, Souter, Ginsburg and Breyer dissent from Part I and would reconsider Powell's §1983 holding.
 
-**Limits and questions not reached:** A distinct statutorily conferred right and the pleaded intentional-discrimination theory are not foreclosed. The holding rejects right creation, not the valid direct prospective channel.
+**Limits and questions not reached:** An independently conferred statutory right and the original §601 intentional-discrimination claim are not foreclosed. The residents identify no new statutory text, contrary intervening decision or concrete reliance justifying reopening so recent a statutory precedent, and the seriousness of the environmental burden does not supply a right Congress withheld.
 
-**Treatment of earlier authority:** Powell v. Ridge, April 3, 2000, is applied only at its surviving §1983 holding. Alexander v. Sandoval, April 24, 2001, retains its express limited overruling and separate direct action. Blessing v. Freestone, 520 U.S. 329 (1997), Wright v. Roanoke Redevelopment and Housing Authority, 479 U.S. 418 (1987), and Wilder v. Virginia Hospital Association, 496 U.S. 498 (1990), retain the distinction between identifying and elaborating a statutory right.
+**Operative remedy or transition:** The rejection of the §1983 effects basis is affirmed, 5–4; that rationale cannot sustain or reinstate the injunction.
 
-##### Whether the retained direct prospective Title VI claim must be adjudicated
+**Treatment of earlier authority:** Powell v. Ridge, April 3, 2000, is applied and reaffirmed at its §1983 holding, which Alexander v. Sandoval, April 24, 2001, left undisturbed. Blessing v. Freestone, 520 U.S. 329 (1997), Wright v. Roanoke Redevelopment and Housing Authority, 479 U.S. 418 (1987), and Wilder v. Virginia Hospital Association, 496 U.S. 498 (1990), retain the distinction between identifying and elaborating a statutory right.
 
-**Holding:** Title VI beneficiaries may seek prospective compliance by a proper covered defendant with valid, sufficiently definite §602 requirements implementing their statutory discrimination protection. The original permitting claim must be adjudicated through that existing route, applying the actual recipient, program, regulatory duty, prohibited effect, causal relationship and fitted-remedy requirements; disparity alone is not an automatic violation.
+##### II. No directly implied Title VI action enforces the effects regulations
 
-**Proposition-level authority:** O'Connor's Part II, unanimous; application of Sandoval is not assent to a new §1983 effects right.
+**Holding:** Title VI supplies no private action to enforce the additional disparate-impact prohibitions of EPA's §602 regulations where the challenged conduct does not violate §601, whatever the form of relief sought. Assuming without deciding that 40 C.F.R. §7.35(b) and (c) validly implement §602, the residents cannot enforce them in a private suit; a different pleading label, a request confined to prospective relief or the particular permit at issue does not change that answer. Valid regulations remain enforceable through agency petition and complaint processes and §602's notice, voluntary-compliance, hearing and funding-termination procedures.
 
-**Material application:** Section 7.35(b) requires actual covered criteria or methods causing the forbidden effect or defeating or substantially impairing program objectives for protected individuals. Section 7.35(c)’s distinct site-selection purpose-or-effect claim needs its own pleading and proof. Cumulative effects matter only to the extent the actual regulatory duty reaches them; the emissions analysis neither proves nor disproves discrimination.
+**Proposition-level authority:** O'Connor's Part II, joined by Stone-Zsela, Scalia, Kennedy and Thomas; five direct votes. Stevens, Souter, Ginsburg and Breyer dissent from Part II on their Powell and Sandoval dissents; their proposals to reconsider Powell and Sandoval are noncontrolling.
 
-**Limits and questions not reached:** The route’s existence is settled, while the actual regulatory and equitable applications remain. No general authority to equalize environmental conditions, automatic disparity rule or damages for unintentional effects follows.
+**Material application:** The residents' direct theory would enforce §7.35's effects terms on a showing of effects, without proof that NJDEP violated §601. Neither a request for an injunction, a different state program, a finding rather than an allegation of disparate effects nor the permit-specific setting distinguishes it. The theory was pleaded and not abandoned; it fails because the action it asserts does not exist, not for want of preservation.
 
-**Treatment of earlier authority:** Sandoval is applied to the retained EPA permitting claim at the reach of its prospective enforcement rule, with valid and definite duties, actual elements and fitted relief; it creates no damages remedy for unintentional effects.
+**Limits and questions not reached:** Section 602 commits enforcement of the agency's rules to notice to the recipient, an effort to secure voluntary compliance, a hearing and express finding, a report to the appropriate congressional committees, and funding termination confined to the noncompliant program. The Court decides no regulation's validity, limits no agency enforcement and recognizes no general authority to equalize environmental conditions.
 
 ##### Which jurisdictional, defendant and preliminary-relief predicates remain
 
-**Holding:** A substantial federal controversy supports federal adjudication independently of eventual success. A connected state officer may face prospective relief against an alleged continuing federal violation within the enacted remedial limits, but direct agency amenability, actual officer connection and fitted equitable relief require their own predicates; the original §601 claim retains its intent requirement and actual procedural footing.
+**Treatment of earlier authority:** Alexander v. Sandoval, April 24, 2001, and Powell's direct-action holding are applied to the pleaded EPA permitting theory at their Title VI scope; neither is overruled in whole or in part, and regulatory validity remains assumed, not decided.
 
-**Proposition-level authority:** O'Connor's Part III is joined by all eight Associates. Stone-Zsela joins its proper-defendant, prospective-remedy and direct-claim application; he agrees only in judgment with further intentional-claim proceedings.
+##### III. The preserved §601 claim, jurisdiction, proper officers and the limited remand
 
-**Limits and questions not reached:** Naming Commissioner Shinn does not establish the necessary connection or remedy scope; direct NJDEP amenability cannot be inferred from participation or unestablished consent. The §601 claim retains its intent requirement and procedural footing. Existing findings receive ordinary review, without compulsory new hearings or wholesale reopening. Unpreserved regulatory-invalidity and independent permit-law claims are not decided.
+**Holding:** A genuinely preserved §601 intentional-discrimination claim remains independently cognizable, apart from the impact-only routes, and proceeds on its own proof and procedural footing. The residents must prove discriminatory purpose; disparate effects may be weighed with other evidence, but intent may not be inferred from unequal environmental conditions alone. A substantial federal question supports jurisdiction independently of the claim's merits. Prospective relief may issue against a proper state officer only upon an established §601 violation and the officer's actual connection to the challenged conduct; NJDEP's own amenability to suit is not assumed.
 
-**Operative remedy or transition:** Eight Associates vacate and remand the appellate judgment; Stone-Zsela would affirm the §1983 rejection and vacate only direct-route foreclosure. Prompt adjudication of retained direct and intentional claims and actual equitable predicates is required. Vacatur does not revive the suspended injunction, invalidate the permit or establish its validity; operative protection requires a supported lawful order.
+**Proposition-level authority:** O'Connor's Part III, including the limited vacatur and remand, is joined by all nine Justices. Stevens, Souter, Ginsburg and Breyer join it while stating separately that they would vacate the whole judgment.
 
-**Treatment of earlier authority:** Verizon Maryland Inc. v. Public Service Commission of Maryland, May 20, 2002, and Ex parte Young, 209 U.S. 123 (1908), are applied to jurisdiction and prospective connected-officer relief; neither decides this permitting violation or direct agency amenability.
+**Material application:** The February 13, 2001 complaint pleaded the §601 claim against NJDEP and Commissioner Shinn, and the amendment added §1983 without withdrawing it. The appellate disposition rests on the failure of the §1983 theory; insofar as it forecloses the §601 claim, it reaches a claim it did not decide. Naming Commissioner Shinn does not establish the necessary connection or the scope of relief.
+
+**Limits and questions not reached:** Whether NJDEP itself may be sued is for the district court on the record. Existing findings receive ordinary review; remand directs no new hearing or wholesale reopening. Regulatory invalidity or an independent permit-law claim not preserved in this appeal is not decided. No order directs EPA to begin enforcement proceedings, and the agency petition and complaint processes remain.
+
+**Operative remedy or transition:** Affirmed in part, vacated in part and remanded, 5–4: Stone-Zsela, O'Connor, Scalia, Kennedy and Thomas; Stevens, Souter, Ginsburg and Breyer would vacate the whole judgment. All nine vacate the appellate judgment only insofar as it forecloses further proceedings on the preserved §601 claim and remand solely for that claim and ordinary proper-defendant issues. The suspended preliminary injunction does not revive; any renewed preliminary relief must rest on the §601 claim's own showing and the requisite findings. The permit is neither invalidated nor sustained on its regulatory merits.
+
+**Treatment of earlier authority:** Verizon Maryland Inc. v. Public Service Commission of Maryland, May 20, 2002, and Ex parte Young, 209 U.S. 123 (1908), are applied to jurisdiction and prospective connected-officer relief; neither decides the §601 claim's merits or NJDEP's amenability. Powell and Sandoval are applied at their stated preservation of §601's intentional-discrimination action.
 
 ### Punitive damages under incorporated Title VI remedies
 

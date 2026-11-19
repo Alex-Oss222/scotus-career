@@ -21,7 +21,7 @@ Derived reading copy only. The cited state files and effective current-term Reco
 
 **Exceptions and limits:** An express congressional direction concerning the temporal operation of a statute resolves the threshold statutory question, subject to applicable constitutional limits. Such a direction does not alone determine whether Congress may constitutionally require reconsideration of an already completed Article III judgment. Landgraf concerns statutory consequences for earlier conduct in litigation properly before the courts and does not decide that separate final-judgment issue.
 
-**Related current rules:** Congressional reopening of completed private federal judgments supplies Morgan Stanley's and Plaut's separate Article III rule for §27A(b).
+**Related current rules:** Congressional reopening of completed private federal judgments supplies Plaut's separate Article III rule for §27A(b); because §27A(b) expressly directs reinstatement, the presumption against statutory retroactivity does not avoid that constitutional question.
 
 ## Standards and Tests selection: Convicting-jurisdiction law for the firearms conviction exclusion
 

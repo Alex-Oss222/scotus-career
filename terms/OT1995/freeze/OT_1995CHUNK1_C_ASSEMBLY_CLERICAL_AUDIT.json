@@ -49,10 +49,9 @@
           "scope": "Dissent from heightened-proof rule and affirmance",
           "author": "O'Connor",
           "coalition": [
-            "O'Connor",
-            "Scalia",
-            "Kennedy",
-            "Thomas"
+            "Stevens",
+            "Souter",
+            "Ginsburg"
           ],
           "count": 4,
           "controlling": false,
@@ -111,10 +110,9 @@
             "Souter",
             "Stone-Zsela",
             "Stevens",
-            "O'Connor",
-            "Scalia",
-            "Kennedy",
-            "Thomas",
+            "Stevens",
+            "Souter",
+            "Ginsburg",
             "Ginsburg",
             "Breyer"
           ],

@@ -1333,10 +1333,9 @@
           "relationship": "Joins the Court and judgment",
           "scope": "Additional districting-specific violation and state-process requirements; prior substantive objections retained",
           "coalition": [
-            "O'Connor",
-            "Scalia",
-            "Kennedy",
-            "Thomas"
+            "Stevens",
+            "Souter",
+            "Ginsburg"
           ],
           "count": 4
         },
@@ -1380,10 +1379,9 @@
         {
           "component": "Stricter districting-authority concurrence",
           "joiners": [
-            "O'Connor",
-            "Scalia",
-            "Kennedy",
-            "Thomas"
+            "Stevens",
+            "Souter",
+            "Ginsburg"
           ],
           "count": 4
         },

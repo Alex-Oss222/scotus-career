@@ -665,7 +665,7 @@ For the Article III validity of the prospective-law change, see Inmates of Suffo
 
 **Treatment of earlier authority:**
 
-Plyler supplies the independent statutory route, judicial preservation inquiry and bounded constitutional operation under its original text; the present amendment is applied without rewriting that holding. Lewis retains the statute's scope, transition, findings and meaningful-access limits. Rufo retains its independent significant-change and tailored-modification rule, not an extra statutory prerequisite. Morgan Stanley and Plaut retain their limited completed-dismissal reinstatement holdings; Robertson, Klein and Wheeling Bridge preserve the changed-law/adjudication distinction. Bell preserves pretrial protection. Beach, Heller and Romer supply ordinary review within their actual limits, and Atchison supplies the assumed federal-nonparty contract analysis. No precedent is overruled.
+Plyler supplies the independent statutory route, judicial preservation inquiry and bounded constitutional operation under its original text; the present amendment is applied without rewriting that holding. Lewis retains the statute's scope, transition, findings and meaningful-access limits. Rufo retains its independent significant-change and tailored-modification rule, not an extra statutory prerequisite. Plaut retains its protection of final judgments in completed private actions and its qualification for the future operation of injunctions; Robertson, Klein and Wheeling Bridge preserve the changed-law/adjudication distinction. Bell preserves pretrial protection. Beach, Heller and Romer supply ordinary review within their actual limits, and Atchison supplies the assumed federal-nonparty contract analysis. No precedent is overruled.
 
 ## Verbatim Holdings selection: Benjamin v. Jacobson
 Source: state/holdings/federal-courts-immunities-and-remedies.md
@@ -717,7 +717,7 @@ Source: state/holdings/federal-courts-immunities-and-remedies.md
 - **Plyler and Lewis v. Casey:** Preserve the independent statutory route, remedial safeguards, statutory scope and meaningful access under the text each construed; their original conjunction is not rewritten.
 - **Rufo:** Retains significant-change and tailored-modification requirements for its distinct equitable route, without becoming an additional statutory prerequisite.
 - **Kokkonen:** Preserves the distinction between judicial commands and separate agreements and the need for independent enforcement jurisdiction.
-- **Morgan Stanley and Plaut:** Their defined securities-dismissal reinstatement holdings supply neither absolute immunity for future supervision nor a general congressional reopening power.
+- **Plaut:** Preserves Article III finality for completed private judgments and its qualification permitting changed law to govern an injunction's future operation; it supplies no immunity for future supervision.
 - **Robertson; Wheeling Bridge; Klein:** Preserve the distinction between changed governing law and legislative adjudication under unchanged law.
 - **Beach; Heller; Romer:** Supply rational review with an actual relationship between classification and legitimate ends.
 - **Bell v. Wolfish:** Preserves the independent substantive protection of pretrial detainees against punishment.
@@ -774,7 +774,7 @@ Source: state/holdings/federal-courts-immunities-and-remedies.md
 - **Rufo:** Retains its significant-change and tailored-modification requirements for the independent equitable route.
 - **Lewis v. Casey:** Requires actual access injury and fit for library remedies; its original statutory scope remains intact.
 - **Kokkonen:** Preserves the judicial-command/private-agreement distinction and independent enforcement requirements.
-- **Morgan Stanley; Plaut:** Preserve bounded reinstatement and independent adjudication, without resolving all reopening questions.
+- **Plaut:** Preserves Article III finality for completed private judgments and its qualification permitting changed law to govern an injunction's future operation, with independent adjudication retained.
 - **Robertson; Wheeling Bridge; Klein:** Preserve genuine changed-law adjudication and forbid legislative substitution for the judicial task.
 - **Beach; Heller; Romer:** Supply rational review tied to the actual classification and legitimate ends.
 - **National Railroad Passenger Corp. v. Atchison:** Supplies the limited federal-nonparty contract framework.
@@ -875,7 +875,7 @@ Source: state/holdings/constitutional-structure.md
 - TVA v. Hill, 437 U.S. 153 — distinguished: the amendment here is express rather than an inferred repeal.
 - NLRB v. Jones & Laughlin Steel Corp., 301 U.S. 1 — preserved: a possible constitutionally valid construction reinforces, but does not replace, the enacted meaning.
 
-**Later-authority backlinks:** Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., decided May 23, 1994, resolves the final-judgment question expressly reserved in Robertson for §27A(b)'s defined reinstatement procedure. It holds that Congress may require reinstatement of the covered completed limitations dismissals while leaving statutory eligibility and underlying substantive adjudication to Article III courts. Robertson's original pending-litigation holding remains unchanged.
+**Later-authority backlinks:** Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., decided May 23, 1994, and affirmed by an equally divided Court without opinion, establishes no precedent and leaves open the final-judgment question expressly reserved in Robertson. Plaut v. Spendthrift Farm, Inc., decided April 18, 1995, answers that question for completed private judgments: Article III protects the conclusive disposition of a private case once its judgment has become final through the ordinary judicial process, and Congress may not, solely by changing the law previously applicable to a completed private action, require an Article III court to vacate that final judgment and reinstate the same litigation. Robertson's original pending-litigation holding remains unchanged.
 
 ## Verbatim Holdings selection: MCI Telecommunications Corp. v. American Telephone & Telegraph Co., 512 U.S. 218
 Source: state/holdings/administrative-law.md

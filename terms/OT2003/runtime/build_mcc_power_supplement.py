@@ -13,7 +13,7 @@ subprocess.run([
     sys.executable, '-B', 'tools/build_entering_law.py', str(law),
     '--standard-heading', 'Concrete personal interests and procedural citizen-suit standing',
     '--standard-heading', 'Compulsory state regulation or ownership of private obligations',
-    '--standard-heading', 'Temporary state-executive records assistance under federal direction',
+    '--standard-heading', 'Compulsory state executive administration of federal private-party regulation',
     '--standard-heading', 'Exclusive congressional qualifications and ballot restrictions',
 ], check=True)
 parts = [law.read_text(encoding='utf-8').rstrip()]

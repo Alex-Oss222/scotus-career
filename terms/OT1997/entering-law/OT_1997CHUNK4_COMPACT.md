@@ -204,7 +204,7 @@ For connected appellate review and the invalid categorical trial stay, see Feder
 
 **Limits and questions not reached:** The holding concerns a properly brought federal damages action for alleged unofficial pre-office conduct. It decides no liability, state-court proceedings, criminal proceedings or compulsory attendance at a particular place or time. Litigation's political motive or the claim's abstract importance supplies no constitutional immunity rule.
 
-**Treatment of earlier authority:** Fitzgerald preserves official presidential decisionmaking immunity; Forrester distinguishes function from identity and Antoine supplies a limited functional analogy. United States v. Nixon rejects absolute insulation from process but reserves civil-evidence disputes. Nixon v. United States, Morgan Stanley, Plaut and Reich retain their confined structural/remedial holdings and establish no general civil exemption.
+**Treatment of earlier authority:** Fitzgerald preserves official presidential decisionmaking immunity; Forrester distinguishes function from identity and Antoine supplies a limited functional analogy. United States v. Nixon rejects absolute insulation from process but reserves civil-evidence disputes. Nixon v. United States, Plaut and Reich retain their confined structural/remedial holdings and establish no general civil exemption; Morgan Stanley's equal division supplies no precedent.
 
 ##### Official-act immunity turns on function, not presidential status
 
@@ -2263,7 +2263,7 @@ The claimant must show protected conduct was a substantial or motivating factor.
 
 **Exceptions and limits:** An express congressional direction concerning the temporal operation of a statute resolves the threshold statutory question, subject to applicable constitutional limits. Such a direction does not alone determine whether Congress may constitutionally require reconsideration of an already completed Article III judgment. Landgraf concerns statutory consequences for earlier conduct in litigation properly before the courts and does not decide that separate final-judgment issue.
 
-**Related current rules:** Congressional reopening of completed private federal judgments supplies Morgan Stanley's and Plaut's separate Article III rule for §27A(b).
+**Related current rules:** Congressional reopening of completed private federal judgments supplies Plaut's separate Article III rule for §27A(b); because §27A(b) expressly directs reinstatement, the presumption against statutory retroactivity does not avoid that constitutional question.
 
 ## Standards and Tests selection: Medicare corrective adjustments and permissible interpretive change
 

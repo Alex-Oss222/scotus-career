@@ -245,7 +245,7 @@ Section 925(a)(1)'s governmental-use exception does not extend to sections 922(d
 - **Feeney:** applied to the separate occupational-effects claim and its absent discriminatory-purpose allegation, without imposing that requirement on every express classification.
 - **Calder** and **Weaver:** applied to retrospective punishment; **Landgraf** supplies the distinction between antecedent facts and completed regulated conduct without becoming the constitutional test. **Lynce** supplies no Ex Post Facto merits holding in the governing law and is not used for one.
 - **Nixon** and **Selective Service System:** applied for the distinct attainder inquiries; **Brown** is distinguished in its legislative occupational-proscription setting.
-- **New York** and **Printz:** preserved at their actual command, source/function and fiscal boundaries; the absence of an administrative command independently defeats this staffing objection.
+- **New York** and **Printz:** preserved at their actual command boundaries: New York's bar on compelled state legislation and Printz's bar on commanding state executive officers to administer a federal regulatory program, neither of which reaches direct regulation or generally applicable laws; the absence of an administrative command independently defeats this staffing objection.
 
 No precedent is overruled. The district order's collective-only arms premise and its automatic inference from commerce authority to Tenth Amendment validity are not adopted.
 

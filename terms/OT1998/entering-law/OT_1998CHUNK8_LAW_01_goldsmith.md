@@ -35,7 +35,7 @@ Source: `state/holdings/federal-courts.md`; exact section copied mechanically.
 - **La Buy v. Howes Leather, 352 U.S. 249:** Applied to bounded supervisory mandamus over district proceedings.
 - **Mallard v. United States District Court, 490 U.S. 296:** Applied to require lawful underlying authority for extraordinary relief.
 - **Lexecon Inc. v. Milberg Weiss Bershad Hynes & Lerach, March 3, 1998:** Applied for observance of statutory judicial allocation despite administrative convenience.
-- **Plaut v. Spendthrift Farm, April 18, 1995:** Distinguished in its authorized statutory reopening setting; independent adjudication remains protected without categorical immunity from reassignment.
+- **Plaut v. Spendthrift Farm, April 18, 1995:** Distinguished: its Article III protection of final judgments against legislation requiring their vacatur and reinstatement does not govern administrative transfer of pending cases; independent adjudication remains protected without categorical immunity from transfer.
 
 
 

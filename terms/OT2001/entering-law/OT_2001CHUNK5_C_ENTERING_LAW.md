@@ -365,7 +365,7 @@ No medical-inquiry, foreign-workplace, religious-entity, food-handling or drug/a
 
 **Holdings navigation:** Seminole Tribe of Florida v. Florida, 517 U.S. 44.
 
-**Related current rules:** Congressional reopening of completed private federal judgments states the distinct Morgan Stanley and Plaut rule. Those decisions do not determine whether IGRA's conclusive adjudication ceases to be judicial because mediation or executive action follows.
+**Related current rules:** Congressional reopening of completed private federal judgments states Plaut's distinct finality rule; Morgan Stanley's equal division established no rule. Plaut does not determine whether IGRA's conclusive adjudication ceases to be judicial because mediation or executive action follows.
 
 ## Standards and Tests selection: Social Security remand judgments and EAJA fees
 
@@ -443,7 +443,9 @@ No medical-inquiry, foreign-workplace, religious-entity, food-handling or drug/a
 
 **Current rule:** Title VI's established private action permits statutory beneficiaries to obtain prospective relief against a covered recipient for violations of valid, sufficiently definite section 602 regulations implementing the statute's protection against discrimination, including valid effects regulations. The source of the action is congressional authorization in Title VI as a whole. A regulation cannot independently create a private action under an otherwise remediless statute. Plaintiffs must establish the actual regulatory elements, coverage and fitted relief; statistical imbalance alone is not enough.
 
-Separately, Powell's section 1983 holding remains operative: section 601's intentional-discrimination protection and section 602's agency directions do not create the broader individual effects right asserted through section 1983. A regulation can elaborate a statutory entitlement but cannot itself supply a missing broader statutory right. That holding concerns right creation before congressional foreclosure and is not displaced by Title VI's direct prospective action.
+Separately, Powell's section 1983 holding remains operative: section 601's intentional-discrimination protection and section 602's agency directions do not create the broader individual effects right asserted through section 1983. A regulation can elaborate a statutory entitlement but cannot itself supply a missing broader statutory right. That holding rests on the absence of a right, not on congressional foreclosure of an established one.
+
+Section 601's established private action for intentional discrimination remains independently available on its own proof and procedural footing. Discriminatory purpose must be proved; disparate effects may be weighed with other evidence, but intent may not be inferred from unequal environmental conditions alone. Prospective relief may issue against a proper state officer only upon an established section 601 violation and the officer's actual connection to the challenged conduct. Valid section 602 regulations remain enforceable through agency petition and complaint processes and section 602's notice, voluntary-compliance, hearing, report and funding-termination procedures.
 
 **Authority by component:**
 
@@ -455,9 +457,7 @@ Separately, Powell's section 1983 holding remains operative: section 601's inten
 
 **Exceptions and limits:** Section 601's intentional-discrimination action retains its intent requirement, and valid agency enforcement remains available. This rule supplies no private administrative-exhaustion condition, new funding cutoff or regulatory-validity ruling. Damages for unintentional discrimination remain unresolved. Completed final judgments are not reopened.
 
-**Former-rule note:** Powell's direct-action prohibition ceased to govern the described prospective category on April 24, 2001; its separate section 1983 holding and completed judgment remain undisturbed.
-
-**Holdings navigation:** [Alexander v. Sandoval, 532 U.S. 275 — Prospective private enforcement of Title VI regulations](../../../state/HOLDINGS.md#alexander-v-sandoval-532-us-275).
+**Holdings navigation:** [Alexander v. Sandoval, 532 U.S. 275 — No private action to enforce Title VI section 602 effects regulations](../../../state/HOLDINGS.md#alexander-v-sandoval-532-us-275).
 
 ## Holdings selection: Williams v. Taylor (Terry Williams), 529 U.S. 362 (2000)
 
@@ -957,7 +957,7 @@ Source: [state/holdings/federal-courts-immunities-and-remedies.md](../../../stat
 
 **Proposition-level authority:** Souter's Part I, joined by O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer: seven Justices. Stevens's serious doubt and Stone-Zsela's nonjoin supply no additional support.
 
-**Treatment of earlier authority:** Aetna and Nashville permit conclusive adverse declarations without an immediately executable coercive decree. Brimson supports judicial assistance to administration within its adversarial, conclusive, enforceable-order setting, without creating IGRA contempt power. Ferreira's revisable commissioner process is distinguished. Gordon's jurisdictional disposition supplies no delivered reasoned majority opinion requiring execution in every judicial case; Hayburn produced no Supreme Court merits decision, and its reported circuit communications remain historical materials. Wisconsin's partial-redress rule concerns the judicial capacity to afford meaningful relief. Morgan Stanley and Plaut: Article III permits Congress to require reinstatement of qualifying completed private securities limitations dismissals under §27A(b)'s objectively defined procedure while courts independently determine eligibility and adjudicate the claims. The holdings do not establish an unrestricted power to reopen completed merits judgments and do not determine whether IGRA's conclusive adjudication ceases to be judicial because mediation or executive action follows.
+**Treatment of earlier authority:** Aetna and Nashville permit conclusive adverse declarations without an immediately executable coercive decree. Brimson supports judicial assistance to administration within its adversarial, conclusive, enforceable-order setting, without creating IGRA contempt power. Ferreira's revisable commissioner process is distinguished. Gordon's jurisdictional disposition supplies no delivered reasoned majority opinion requiring execution in every judicial case; Hayburn produced no Supreme Court merits decision, and its reported circuit communications remain historical materials. Wisconsin's partial-redress rule concerns the judicial capacity to afford meaningful relief. Morgan Stanley and Plaut: Plaut holds that Article III protects the conclusive disposition of a private case by a federal court once its judgment has become final through the ordinary judicial process; Congress may not, solely by changing the law previously applicable to a completed private action, require an Article III court to vacate that final judgment and reinstate the same litigation, and §27A(b) is unconstitutional to that extent. Congress's power to change the law governing pending cases remains. Morgan Stanley, affirmed by an equally divided Court without opinion, establishes no precedent. Plaut does not determine whether IGRA's conclusive adjudication ceases to be judicial because mediation or executive action follows.
 
 ##### A connected officer may be sued prospectively under IGRA within its complete statutory limits
 
@@ -1038,7 +1038,7 @@ Source: [state/holdings/federal-courts-immunities-and-remedies.md](../../../stat
 - **Pennsylvania v. Union Gas Co.:** Its actual damages judgment, statutory construction and five-vote constitutional conclusion remain in force within their decided scope. No broader plurality rationale becomes binding here.
 - **Hans v. Louisiana:** Its federal-court judgment is distinguished; it does not establish the asserted immunity against this state-court FLSA remedy. The Court does not overrule its actual result or decide federal-court amenability.
 - **New York v. United States:** Its prohibition on compulsory state regulation or ownership of private obligations remains intact; generally applicable regulation and the distinct obligations of state courts remain separate.
-- **Printz v. United States; Mack v. United States:** The confined permission for temporary executive records assistance and its unresolved fiscal questions remain unchanged. Neither determines this state-court treasury action.
+- **Printz v. United States; Mack v. United States:** Its rule that Congress may not command unwilling state executive officers to administer a federal regulatory program directed at private persons remains unchanged, as does its express preservation of state courts’ Supremacy Clause duties under Testa and Howlett. That rule does not determine this state-court treasury action.
 - **South Central Bell Telephone Co. v. Alabama:** Applied to the authority to review a federal question in a State’s own judgment under §1257.
 - **Fitzpatrick v. Bitzer and Ex parte Young:** Their distinct §5 and prospective connected-officer channels are not altered or newly established for these employees. No alternative suit or entitlement is found.
 
@@ -1324,9 +1324,7 @@ Source: [state/holdings/civil-rights.md](../../../state/holdings/civil-rights.md
 
 **Proposition-level authority:** Thomas's opinion of the Court, joined by Stone-Zsela, O'Connor, Scalia and Kennedy; five direct rationale votes.
 
-**Current-force modification:** Alexander v. Sandoval, April 24, 2001, overrules this direct-action prohibition insofar as it excludes prospective enforcement by Title VI beneficiaries of valid, sufficiently definite section 602 requirements implementing their statutory discrimination protection. Plaintiffs must prove the actual regulatory elements and obtain fitted relief. Powell's separate section 1983 holding, completed judgment and distinction between regulatory validity and a congressional source of action remain; Sandoval decides no damages remedy for unintentional effects and reopens no final judgment.
-
-**Later-authority backlinks:** Alexander v. Sandoval, No. 99-1908, April 24, 2001: prospective Title VI enforcement and express partial overruling of the Count I direct-action rule.
+**Later-authority backlinks:** Alexander v. Sandoval, No. 99-1908, April 24, 2001: follows the Count I direct-action holding, without overruling it in whole or in part, to hold that Title VI supplies no private action to enforce section 602's additional disparate-impact prohibitions whatever the form of relief, including prospective injunctions; regulatory validity is assumed and the Count II section 1983 holding is left undisturbed. South Camden Citizens in Action v. New Jersey Department of Environmental Protection, review of 274 F.3d 771, May 28, 2002: applies and reaffirms both holdings to reject section 1983 and directly implied Title VI enforcement of EPA's additional disparate-impact requirements, while a preserved section 601 intentional-discrimination claim proceeds on its own proof.
 
 ##### Whether the regulation creates the individual statutory effects right asserted under section 1983 in Count II
 

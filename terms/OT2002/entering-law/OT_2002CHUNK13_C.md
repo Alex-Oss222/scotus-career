@@ -133,7 +133,9 @@ Intentional selection for police investigation by race is a racial classificatio
 
 **Current rule:** Title VI's established private action permits statutory beneficiaries to obtain prospective relief against a covered recipient for violations of valid, sufficiently definite section 602 regulations implementing the statute's protection against discrimination, including valid effects regulations. The source of the action is congressional authorization in Title VI as a whole. A regulation cannot independently create a private action under an otherwise remediless statute. Plaintiffs must establish the actual regulatory elements, coverage and fitted relief; statistical imbalance alone is not enough.
 
-Separately, Powell's section 1983 holding remains operative: section 601's intentional-discrimination protection and section 602's agency directions do not create the broader individual effects right asserted through section 1983. A regulation can elaborate a statutory entitlement but cannot itself supply a missing broader statutory right. That holding concerns right creation before congressional foreclosure and is not displaced by Title VI's direct prospective action.
+Separately, Powell's section 1983 holding remains operative: section 601's intentional-discrimination protection and section 602's agency directions do not create the broader individual effects right asserted through section 1983. A regulation can elaborate a statutory entitlement but cannot itself supply a missing broader statutory right. That holding rests on the absence of a right, not on congressional foreclosure of an established one.
+
+Section 601's established private action for intentional discrimination remains independently available on its own proof and procedural footing. Discriminatory purpose must be proved; disparate effects may be weighed with other evidence, but intent may not be inferred from unequal environmental conditions alone. Prospective relief may issue against a proper state officer only upon an established section 601 violation and the officer's actual connection to the challenged conduct. Valid section 602 regulations remain enforceable through agency petition and complaint processes and section 602's notice, voluntary-compliance, hearing, report and funding-termination procedures.
 
 **Authority by component:**
 
@@ -145,9 +147,7 @@ Separately, Powell's section 1983 holding remains operative: section 601's inten
 
 **Exceptions and limits:** Section 601's intentional-discrimination action retains its intent requirement, and valid agency enforcement remains available. This rule supplies no private administrative-exhaustion condition, new funding cutoff or regulatory-validity ruling. Damages for unintentional discrimination remain unresolved. Completed final judgments are not reopened.
 
-**Former-rule note:** Powell's direct-action prohibition ceased to govern the described prospective category on April 24, 2001; its separate section 1983 holding and completed judgment remain undisturbed.
-
-**Holdings navigation:** [Alexander v. Sandoval, 532 U.S. 275 — Prospective private enforcement of Title VI regulations](HOLDINGS.md#alexander-v-sandoval-532-us-275).
+**Holdings navigation:** [Alexander v. Sandoval, 532 U.S. 275 — Private enforcement of Title VI section 602 effects regulations](HOLDINGS.md#alexander-v-sandoval-532-us-275); [South Camden Citizens in Action v. New Jersey Department of Environmental Protection — Private enforcement of Title VI effects regulations and the preserved intentional-discrimination claim](HOLDINGS.md#south-camden-citizens-in-action-v-new-jersey-department-of-environmental-protection).
 
 
 ## Verbatim selected holding

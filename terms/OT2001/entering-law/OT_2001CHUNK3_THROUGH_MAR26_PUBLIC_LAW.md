@@ -1292,7 +1292,7 @@ The lower courts must determine whether the pleading identifies a corporate poli
 - Carlson v. Green, 446 U.S. 14 (1980): its federal custodial damages function supports the confined extension to a private custodian's own unconstitutional policy, practice or authorized decision.
 - FDIC v. Meyer (February 23, 1994): its independent agency-cause and public fiscal/remedial grounds remain; they do not automatically determine the different private own-conduct claim.
 - Richardson v. McKnight (June 23, 1997): its immunity rule is distinguished from the separate cause-of-action question and is not converted into a holding on corporate liability.
-- Alexander v. Sandoval (April 24, 2001): its limited prospective statutory remedy remains distinct; it supplies neither a universal prohibition nor automatic authorization of constitutional damages.
+- Alexander v. Sandoval (April 24, 2001): its Title VI-specific holding that no private action enforces section 602 disparate-impact regulations remains distinct; it supplies neither a universal prohibition of implied remedies nor a rule governing constitutional damages.
 
 ## Law After Decision
 
@@ -3107,14 +3107,14 @@ FERPA's access and custody provisions illuminate recordkeeping without requiring
 
 **Authority:** The same unanimous Court opinion controls the scope of decision and remand.
 
-**Controlling explanation:** The federal claim supports jurisdiction, and private statutory enforceability is a separate, nonjurisdictional inquiry. No affirmative relief requires recognition of the disputed action when the pleaded practice fails the coverage condition. Blessing requires a right-specific enforcement inquiry when that inquiry matters to relief. Sandoval's authorization of its particular prospective Title VI action supplies neither a general FERPA remedy nor a categorical bar. This complete adverse coverage disposition leaves the separate enforcement question undecided because its answer is unnecessary to the presented coverage question. Later institutional retention must be assessed separately rather than resolved by extending this holding.
+**Controlling explanation:** The federal claim supports jurisdiction, and private statutory enforceability is a separate, nonjurisdictional inquiry. No affirmative relief requires recognition of the disputed action when the pleaded practice fails the coverage condition. Blessing requires a right-specific enforcement inquiry when that inquiry matters to relief. Sandoval, which holds that no private action enforces the additional disparate-impact prohibitions of Title VI's section 602 regulations, supplies neither a FERPA remedy nor a categorical bar. This complete adverse coverage disposition leaves the separate enforcement question undecided because its answer is unnecessary to the presented coverage question. Later institutional retention must be assessed separately rather than resolved by extending this holding.
 
 **Precedent treatment:** Blessing and Sandoval retain their distinct statute-specific holdings; neither is enlarged or displaced.
 
 ## Precedent Treatment
 
 - Blessing v. Freestone, April 21, 1997: the particular statutory right and enforcement vehicle remain separate inquiries; assuming an action here establishes neither.
-- Alexander v. Sandoval, April 24, 2001: its integrated Title VI prospective action is preserved and does not decide FERPA enforcement.
+- Alexander v. Sandoval, April 24, 2001: its Title VI-specific holding that no private action enforces section 602's additional disparate-impact regulations is preserved and does not decide FERPA enforcement.
 - TRW Inc. v. Andrews, November 13, 2001: independent statutory requirements and exclusions retain their actual limiting work.
 
 ## Law After Decision

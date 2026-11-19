@@ -71,7 +71,7 @@ Standing and the proper third-party scope come first. The court may sustain the 
 * [United Food & Commercial Workers Union Local 751 v. Brown Group, Inc., 517 U.S. 544 — May 13, 1996.](../../../state/HOLDINGS.md).
 * Reusable rule: [Confrontation and firmly rooted spontaneous-declaration and medical-treatment exceptions](../../../state/STANDARDS_AND_TESTS.md).
 * Reusable rule: [Commerce connection, mechanism, and class-wide effects](../../../state/STANDARDS_AND_TESTS.md).
-* Reusable rule: [Temporary state-executive records assistance under federal direction](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [Compulsory state executive administration of federal private-party regulation](../../../state/STANDARDS_AND_TESTS.md).
 * Reusable rule: [Firearm registration supporting making-and-transfer taxes](../../../state/STANDARDS_AND_TESTS.md).
 * Reusable rule: [Personal arms protection, incorporation and necessary acquisition](../../../state/STANDARDS_AND_TESTS.md).
 * Public opinion references (verification scope is stated above):

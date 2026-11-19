@@ -6035,9 +6035,7 @@ For the other questions and complete operative scope in Wilson v. Layne, 1999-05
 
 **Proposition-level authority:** Thomas's opinion of the Court, joined by Stone-Zsela, O'Connor, Scalia and Kennedy; five direct rationale votes.
 
-**Current-force modification:** Alexander v. Sandoval, April 24, 2001, overrules this direct-action prohibition insofar as it excludes prospective enforcement by Title VI beneficiaries of valid, sufficiently definite section 602 requirements implementing their statutory discrimination protection. Plaintiffs must prove the actual regulatory elements and obtain fitted relief. Powell's separate section 1983 holding, completed judgment and distinction between regulatory validity and a congressional source of action remain; Sandoval decides no damages remedy for unintentional effects and reopens no final judgment.
-
-**Later-authority backlinks:** Alexander v. Sandoval, No. 99-1908, April 24, 2001: prospective Title VI enforcement and express partial overruling of the Count I direct-action rule.
+**Later-authority backlinks:** Alexander v. Sandoval, No. 99-1908, April 24, 2001: follows the Count I direct-action holding, without overruling it in whole or in part, to hold that Title VI supplies no private action to enforce section 602's additional disparate-impact prohibitions whatever the form of relief, including prospective injunctions; regulatory validity is assumed and the Count II section 1983 holding is left undisturbed. South Camden Citizens in Action v. New Jersey Department of Environmental Protection, review of 274 F.3d 771, May 28, 2002: applies and reaffirms both holdings to reject section 1983 and directly implied Title VI enforcement of EPA's additional disparate-impact requirements, while a preserved section 601 intentional-discrimination claim proceeds on its own proof.
 
 ##### Whether the regulation creates the individual statutory effects right asserted under section 1983 in Count II
 
@@ -6854,7 +6852,7 @@ For *Delaney v. DeTella*, March 4, 2002, Seventh Circuit No. 00-4145, the interl
 **Treatment of earlier authority:**
 
 - Blessing v. Freestone, April 21, 1997: the particular statutory right and enforcement vehicle remain separate inquiries; assuming an action here establishes neither.
-- Alexander v. Sandoval, April 24, 2001: its integrated Title VI prospective action is preserved and does not decide FERPA enforcement.
+- Alexander v. Sandoval, April 24, 2001: its Title VI-specific holding that no private action enforces section 602's additional disparate-impact regulations is preserved and does not decide FERPA enforcement.
 - TRW Inc. v. Andrews, November 13, 2001: independent statutory requirements and exclusions retain their actual limiting work.
 
 **Later-authority backlinks:** Gonzaga University v. Doe, June 20, 2002, resolves the asserted Section 1983 enforcement of FERPA's nondisclosure provisions against the claimant through statute-specific six-Justice agreement. Owasso's education-record definition remains intact, and Gonzaga adopts no majority general formula equating a statutory right with intent to create a private remedy.

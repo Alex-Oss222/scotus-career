@@ -14,7 +14,7 @@ Chief Justice Stone-Zsela and Justices Blackmun, Stevens, Scalia, Kennedy, Soute
 
 #### Judgment
 
-The Fifth Circuit's judgment sustaining the statutory reinstatement procedure is affirmed, 5–3.
+The Fifth Circuit's judgment is affirmed by an equally divided Court, 4–4. The judgment states the alignment: Chief Justice Stone-Zsela and Justices Scalia, Kennedy and Thomas would reverse; Justices Blackmun, Stevens, Souter and Ginsburg would affirm. No opinion issues.
 
 **Affirmed, 5–3.**
 
@@ -26,11 +26,11 @@ The Fifth Circuit's judgment sustaining the reinstatement procedure is affirmed.
 
 #### Opinion Topology
 
-Chief Justice Stone-Zsela delivers the Opinion of the Court, joined in full by Blackmun, Stevens, Souter and Ginsburg. Scalia dissents, joined in full by Kennedy and Thomas.
+No opinion issues. The judgment is unsigned; it states the equal division and the alignment and gives no reasons. No Justice writes for the Court, for a plurality or separately.
 
 #### Controlling Propositions and Authority
 
-##### Bounded statutory reinstatement of completed securities limitations dismissals
+##### Constitutional power to require reinstatement under §27A(b)
 
 Section 27A(b) supplies a new rule for a defined class of limitations dismissals following Lampf. Congress identifies the filing period, the intervening time-bar dismissal, the former limitations law and a short period for seeking relief. Courts determine those predicates. Congress has found no fraud, reliance, injury or damages and has prescribed no defendant's liability. Once the predicates are established, reinstatement is mandatory. Its validity does not depend on judicial discretion to withhold relief.
 
@@ -56,17 +56,9 @@ Landgraf and Rivers distinguish an express temporal command from an inference ab
 
 #### Precedent Treatment and Current-Law Effect
 
-The holding-specific treatments govern. Robertson's distinction between a legislative change in law and legislative adjudication extends to the confined reinstatement procedure here. The final-judgment question left open there is resolved only for the specified securities limitations dismissals. Klein and McCullough continue to protect independent judicial findings and adjudication. Harper, Beam, Landgraf and Rivers retain their distinct temporal rules; no earlier decision is overruled.
+No earlier decision is applied, extended, distinguished or overruled. Robertson v. Seattle Audubon Society's reservation of the final-judgment question remains open. Klein, McCullough, Wheeling Bridge, Sioux Nation, Lampf, Beam, Harper, Landgraf, Rivers and Chase Securities retain their existing force.
 
-Section 27A(b) supplies a constitutional statutory route to reinstatement for the specified completed securities limitations dismissals. Its four cumulative prerequisites govern, and proof of all four requires reinstatement. Independent judicial adjudication of eligibility and of the ensuing claims, defenses and remedies remains essential. Pacific Mutual's January 31, 1992 motion met the sixty-day deadline; that fact is not a finding of fraud or entitlement to a merits judgment.
-
-Subsection (a) separately prescribes the jurisdiction's June 19, 1991 limitations law, including retroactivity principles, for the specified private actions commenced on or before that date. The holding concerns subsection (b), not an independent reopening power under subsection (a). Finality remains a protection of judicial independence, subject to the bounded statutory entitlement sustained here. No general constitutional permission for retrospective legislation, compelled reopening of merits judgments or individualized legislative determination of liability follows.
-
-#### Separate Positions Relevant to the Decision
-
-Scalia dissents, joined by Kennedy and Thomas. A dismissal with prejudice that has become final without appeal is a completed exercise of judicial power even when it rests on limitations rather than a finding about fraud. Congress may change the law governing pending litigation, but requiring a court to reopen this concluded case withdraws the conclusiveness of its judgment. Leaving the underlying securities issues for judicial determination does not answer that objection: the judicial act already completed is the dismissal itself.
-
-The dissent reads McCullough's protection of completed adjudication and Klein's protection of the judicial function as limits on the mandatory reopening command. Robertson's changed-law rule addresses pending litigation; Harper's direct-review rule does not reach ended cases. Wheeling Bridge concerns continuing prospective relief, and Sioux Nation concerns the Government's own defense. Neither establishes power to withdraw the effect of this private final judgment. A general class and an express temporal command do not remove the constitutional objection. The dissent would reverse the Fifth Circuit and require denial of Pacific Mutual's §27A(b) reinstatement motion, without deciding §27A(a), due process or the securities merits. This position does not control.
+Subsection (a) separately prescribes the jurisdiction's June 19, 1991 limitations law, including retroactivity principles, for the specified private actions commenced on or before that date. Nothing is decided under subsection (a), and nothing is decided on due process, fraud, liability or damages.
 
 #### Source Notes
 

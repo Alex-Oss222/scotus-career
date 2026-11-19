@@ -6143,15 +6143,15 @@ For political-committee coverage and the separate membership and transaction pro
 
 **Decided:** June 27, 1997.
 
-**Companion or consolidated matters:** The consolidated Printz and Mack dockets receive the same confined constitutional disposition.
+**Companion or consolidated matters:** The consolidated Printz and Mack dockets receive the same reversal, declaratory relief and remand for conforming judgments.
 
-For the limited executive-assistance rule and the fractured fiscal mandate in Printz/Mack, June 27, 1997, Nos. 95-1478 and 95-1503, see Constitutional Structure — Temporary state executive assistance.
+For the categorical rule that Congress may not command unwilling state executive officers to administer federal regulation of private persons, and the reversal, declaratory relief and conforming judgments in Printz/Mack, June 27, 1997, Nos. 95-1478 and 95-1503, see Constitutional Structure — Federal commands to state executive officers.
 
 ##### Whether the plaintiff officers may challenge duties imposed on their offices
 
 **Holding:** A federal command requiring these plaintiff officers to perform identified work through their offices presents a concrete injury redressable by relief against that command. Their official status does not bar review, but it supplies no standing to obtain an advisory decision about independent obligations imposed only on absent dealers or purchasers.
 
-**Proposition-level authority:** Jurisdictional section of Souter's opinion, unanimous.
+**Proposition-level authority:** Jurisdictional section of Thomas's opinion of the Court, joined by all eight other Justices; unanimous.
 
 **Limits and questions not reached:** The Government's disavowal of criminal prosecution does not remove the compulsory civil work. Separate criminal-vagueness, unraised civil-vagueness and Thirteenth Amendment matters outside the grant remain undisturbed.
 

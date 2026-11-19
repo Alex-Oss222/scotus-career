@@ -632,7 +632,7 @@ The Court accepts well-pleaded facts on review of dismissal, but the legal concl
 
 The inquiry considers the threatened funds, their connection to the conditions, notice and transition, and consequences of refusal where relevant, without a mandatory checklist. Competent qualitative evidence, program operation, administrative experience and feasible alternatives can establish compulsion; statistics are not the exclusive proof. A material allegation of actual compulsion could not be dismissed as irrelevant simply because participation is labeled voluntary. None is established beyond the dependence and difficulty alleged here, and discovery need not be ordered to search for an unpleaded theory.
 
-Printz's actual source-and-function rules concern compelled executive work; they neither convert this funding choice into an unconditional command nor create a universal compensation right. Kansas cannot compel continuation of superseded grant terms, but that lack of entitlement alone would not defeat a genuine coercion claim. The statute's actual qualifications below prevent treating every implementation defect as automatic loss of both funding streams.
+Printz's categorical rule concerns compelled state executive administration of federal regulation; a funding condition that leaves a genuine choice is not such a command, and Printz creates no compensation right. Kansas cannot compel continuation of superseded grant terms, but that lack of entitlement alone would not defeat a genuine coercion claim. The statute's actual qualifications below prevent treating every implementation defect as automatic loss of both funding streams.
 
 **Statutory limits of this application:** Section 602(a)(2) requires the chief executive's certification that the State will operate a child-support program under an approved part-D plan during the fiscal year. Complete refusal to operate that program differs from deficiencies in a continuing program.
 
@@ -649,7 +649,7 @@ Section 654(26) continues to require safeguards against unauthorized use or disc
 - South Dakota v. Dole: applies the distinction between inducement and coercion with general-welfare, notice, relatedness and independent constitutional limits preserved; its five-percent setting becomes no numerical safe harbor.
 - New York v. United States: applies its monetary-incentive holding and distinguishes its unavoidable take-title command; no constitutional entitlement to retain grants on superseded terms follows.
 - Steward Machine Co. v. Davis: applies its distinction between financial pressure and compulsion without treating every expensive choice as voluntary by definition.
-- Printz v. United States: distinguishes its actual compulsory-assistance and fiscal-remand questions from conditional funded cooperation; its source-and-function limits and absence of a controlling compensation entitlement remain intact.
+- Printz v. United States: distinguishes its categorical rule against commanding unwilling state executive officers to administer federal regulation from conditional funded cooperation, which that rule leaves available; its structural holding and absence of any compensation entitlement remain intact.
 
 ### Brentwood Academy v. Tennessee Secondary School Athletic Association — 2001-02-20
 

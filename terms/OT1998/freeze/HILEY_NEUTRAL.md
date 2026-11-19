@@ -78,7 +78,7 @@ Decide the surviving commerce, equal-protection, substantive-due-process, ex-pos
 * [United States v. Hale, judgment below 978 F.2d 1016 — February 12, 1996.](../../../state/HOLDINGS.md).
 * Reusable rule: [Confrontation and firmly rooted spontaneous-declaration and medical-treatment exceptions](../../../state/STANDARDS_AND_TESTS.md).
 * Reusable rule: [Commerce connection, mechanism, and class-wide effects](../../../state/STANDARDS_AND_TESTS.md).
-* Reusable rule: [Temporary state-executive records assistance under federal direction](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [Compulsory state executive administration of federal private-party regulation](../../../state/STANDARDS_AND_TESTS.md).
 * Reusable rule: [Firearm registration supporting making-and-transfer taxes](../../../state/STANDARDS_AND_TESTS.md).
 * Reusable rule: [Personal arms protection, incorporation and necessary acquisition](../../../state/STANDARDS_AND_TESTS.md).
 * Public opinion references (verification scope is stated above):

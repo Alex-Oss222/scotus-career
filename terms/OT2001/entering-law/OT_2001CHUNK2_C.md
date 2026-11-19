@@ -5204,7 +5204,7 @@ The controlling classification follows the coordinated statutory and regulatory 
 - United States v. Darusmont, 449 U.S. 292, and Milliken v. United States, 283 U.S. 15: preserve permissible tax retroactivity in their settings, without a universal advance-notice condition.
 - Untermyer v. Anderson, 276 U.S. 440: distinguishes its wholly new gift tax from this amendment to a deduction within an existing estate-tax regime.
 - United States v. Irvine, April 20, 1994: distinguishes its later taxable transfer; the present amendment is genuinely retroactive and receives constitutional review.
-- Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., May 23, 1994, permits the bounded congressional reinstatement of completed securities limitations dismissals under an expressly retrospective statutory rule preserving independent judicial adjudication. The present case concerns a substantive amendment to the estate-tax law and its application to an earlier transaction, not the reinstatement of a completed federal judicial judgment. Neither decision establishes unlimited constitutional permission for retrospective legislation.
+- Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., May 23, 1994, affirmed by an equally divided Court, establishes no precedent on congressional reinstatement of completed securities limitations dismissals. The present case concerns a substantive amendment to the estate-tax law and its application to an earlier transaction, not the reinstatement of a completed federal judicial judgment. Neither decision establishes unlimited constitutional permission for retrospective legislation.
 
 **Operative remedy or transition:** The Ninth Circuit is reversed and the case remanded for judgment applying the amended ownership requirement. No refund follows from the rejected due-process theory and no compensation is awarded for the transaction loss. The Court fixes no new assessment, penalty, valuation, allocation failure or refund amount.
 
@@ -11971,9 +11971,7 @@ For the other questions and complete operative scope in Wilson v. Layne, 1999-05
 
 **Proposition-level authority:** Thomas's opinion of the Court, joined by Stone-Zsela, O'Connor, Scalia and Kennedy; five direct rationale votes.
 
-**Current-force modification:** Alexander v. Sandoval, April 24, 2001, overrules this direct-action prohibition insofar as it excludes prospective enforcement by Title VI beneficiaries of valid, sufficiently definite section 602 requirements implementing their statutory discrimination protection. Plaintiffs must prove the actual regulatory elements and obtain fitted relief. Powell's separate section 1983 holding, completed judgment and distinction between regulatory validity and a congressional source of action remain; Sandoval decides no damages remedy for unintentional effects and reopens no final judgment.
-
-**Later-authority backlinks:** Alexander v. Sandoval, No. 99-1908, April 24, 2001: prospective Title VI enforcement and express partial overruling of the Count I direct-action rule.
+**Later-authority backlinks:** Alexander v. Sandoval, No. 99-1908, April 24, 2001: follows the Count I direct-action holding, without overruling it in whole or in part, to hold that Title VI supplies no private action to enforce section 602's additional disparate-impact prohibitions whatever the form of relief, including prospective injunctions; regulatory validity is assumed and the Count II section 1983 holding is left undisturbed. South Camden Citizens in Action v. New Jersey Department of Environmental Protection, review of 274 F.3d 771, May 28, 2002: applies and reaffirms both holdings to reject section 1983 and directly implied Title VI enforcement of EPA's additional disparate-impact requirements, while a preserved section 601 intentional-discrimination claim proceeds on its own proof.
 
 ##### Whether the regulation creates the individual statutory effects right asserted under section 1983 in Count II
 
@@ -22430,8 +22428,8 @@ Mandatory remission is a separate rule. It requires belief, with reasonable grou
 - **Marshall v. Holmes:** Its alleged forged-document circumstances illustrate extraordinary equitable relief, without imposing universal intentional forgery as an element.
 - **Bankers Mortgage Co. v. United States:** Its traditional independent-action conditions are preserved within the demanding extraordinary-relief threshold.
 - **National Surety Co. v. State Bank:** Its traditional equitable conditions are preserved without separate invented adverse factual findings on each condition.
-- **Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., May 23, 1994:** Its bounded legislative reinstatement holding remains; it does not authorize general judicial fairness review of settlements.
-- **Plaut v. Spendthrift Farm, April 18, 1995:** Its lawful bounded reinstatement procedure and independent judicial decisions remain; no absolute constitutional prohibition on legislative reopening is adopted.
+- **Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., May 23, 1994:** Affirmed by an equally divided Court without opinion; it establishes no precedent and supplies no rule for judicial review of settlements.
+- **Plaut v. Spendthrift Farm, April 18, 1995:** Its protection of final judgments against legislation requiring their vacatur and reinstatement is respected, and its preservation of judicial relief through constitutionally permissible procedures is applied; it authorizes no unrestricted judicial reopening.
 - **Irwin v. Department of Veterans Affairs:** Its rebuttable approach is applied and overcome by this QTA scheme, rather than treated as a universal anti-equity rule.
 - **United States v. Brockamp, February 18, 1997:** Its statute-specific method is applied without transplanting tax provisions or deciding its reserved governmental-inducement questions.
 - **Beach v. Ocwen Federal Bank, April 21, 1998:** Its provision-specific analysis is preserved; the separate rescission-right expiration rule is not substituted for the QTA's notice-based period.
@@ -22472,7 +22470,7 @@ DeCarlo v. Fry, Second Circuit Nos. 97-7702, 97-7704 and 97-7754; no separate Su
 - **La Buy v. Howes Leather, 352 U.S. 249:** Applied to bounded supervisory mandamus over district proceedings.
 - **Mallard v. United States District Court, 490 U.S. 296:** Applied to require lawful underlying authority for extraordinary relief.
 - **Lexecon Inc. v. Milberg Weiss Bershad Hynes & Lerach, March 3, 1998:** Applied for observance of statutory judicial allocation despite administrative convenience.
-- **Plaut v. Spendthrift Farm, April 18, 1995:** Distinguished in its authorized statutory reopening setting; independent adjudication remains protected without categorical immunity from reassignment.
+- **Plaut v. Spendthrift Farm, April 18, 1995:** Distinguished: its Article III protection of final judgments against legislation requiring their vacatur and reinstatement does not govern administrative transfer of pending cases; independent adjudication remains protected without categorical immunity from transfer.
 
 ### Pleading omissions and actually litigated defenses
 

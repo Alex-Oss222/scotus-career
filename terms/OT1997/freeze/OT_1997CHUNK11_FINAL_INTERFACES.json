@@ -70,10 +70,9 @@
         {
           "role": "Opposing",
           "names": [
-            "O'Connor",
-            "Scalia",
-            "Kennedy",
-            "Thomas"
+            "Stevens",
+            "Souter",
+            "Ginsburg"
           ],
           "count": 4
         }
@@ -148,10 +147,9 @@
         {
           "role": "Opposing",
           "names": [
-            "O'Connor",
-            "Scalia",
-            "Kennedy",
-            "Thomas"
+            "Stevens",
+            "Souter",
+            "Ginsburg"
           ],
           "count": 4
         }
@@ -188,10 +186,9 @@
           "role": "Supporting",
           "names": [
             "Stone-Zsela",
-            "O'Connor",
-            "Scalia",
-            "Kennedy",
-            "Thomas"
+            "Stevens",
+            "Souter",
+            "Ginsburg"
           ],
           "count": 5
         },

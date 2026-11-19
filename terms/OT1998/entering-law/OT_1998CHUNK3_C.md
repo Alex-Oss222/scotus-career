@@ -7009,7 +7009,7 @@ For Wisconsin's constitutional census-method holding and bounded three-docket re
 
 **Proposition-level authority:** Souter's Part I, joined by O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer: seven Justices. Stevens's serious doubt and Stone-Zsela's nonjoin supply no additional support.
 
-**Treatment of earlier authority:** Aetna and Nashville permit conclusive adverse declarations without an immediately executable coercive decree. Brimson supports judicial assistance to administration within its adversarial, conclusive, enforceable-order setting, without creating IGRA contempt power. Ferreira's revisable commissioner process is distinguished. Gordon's jurisdictional disposition supplies no delivered reasoned majority opinion requiring execution in every judicial case; Hayburn produced no Supreme Court merits decision, and its reported circuit communications remain historical materials. Wisconsin's partial-redress rule concerns the judicial capacity to afford meaningful relief. Morgan Stanley and Plaut: Article III permits Congress to require reinstatement of qualifying completed private securities limitations dismissals under §27A(b)'s objectively defined procedure while courts independently determine eligibility and adjudicate the claims. The holdings do not establish an unrestricted power to reopen completed merits judgments and do not determine whether IGRA's conclusive adjudication ceases to be judicial because mediation or executive action follows.
+**Treatment of earlier authority:** Aetna and Nashville permit conclusive adverse declarations without an immediately executable coercive decree. Brimson supports judicial assistance to administration within its adversarial, conclusive, enforceable-order setting, without creating IGRA contempt power. Ferreira's revisable commissioner process is distinguished. Gordon's jurisdictional disposition supplies no delivered reasoned majority opinion requiring execution in every judicial case; Hayburn produced no Supreme Court merits decision, and its reported circuit communications remain historical materials. Wisconsin's partial-redress rule concerns the judicial capacity to afford meaningful relief. Morgan Stanley and Plaut: Plaut holds that Article III protects the conclusive disposition of a private case by a federal court once its judgment has become final through the ordinary judicial process; Congress may not, solely by changing the law previously applicable to a completed private action, require an Article III court to vacate that final judgment and reinstate the same litigation, and §27A(b) is unconstitutional to that extent. Congress's power to change the law governing pending cases remains. Morgan Stanley, affirmed by an equally divided Court without opinion, establishes no precedent. Plaut does not determine whether IGRA's conclusive adjudication ceases to be judicial because mediation or executive action follows.
 
 ##### A connected officer may be sued prospectively under IGRA within its complete statutory limits
 
@@ -7668,7 +7668,7 @@ For the Article III validity of the prospective-law change, see Inmates of Suffo
 
 **Treatment of earlier authority:**
 
-Plyler supplies the independent statutory route, judicial preservation inquiry and bounded constitutional operation under its original text; the present amendment is applied without rewriting that holding. Lewis retains the statute's scope, transition, findings and meaningful-access limits. Rufo retains its independent significant-change and tailored-modification rule, not an extra statutory prerequisite. Morgan Stanley and Plaut retain their limited completed-dismissal reinstatement holdings; Robertson, Klein and Wheeling Bridge preserve the changed-law/adjudication distinction. Bell preserves pretrial protection. Beach, Heller and Romer supply ordinary review within their actual limits, and Atchison supplies the assumed federal-nonparty contract analysis. No precedent is overruled.
+Plyler supplies the independent statutory route, judicial preservation inquiry and bounded constitutional operation under its original text; the present amendment is applied without rewriting that holding. Lewis retains the statute's scope, transition, findings and meaningful-access limits. Rufo retains its independent significant-change and tailored-modification rule, not an extra statutory prerequisite. Plaut retains its protection of final judgments in completed private actions and its qualification for the future operation of injunctions; Robertson, Klein and Wheeling Bridge preserve the changed-law/adjudication distinction. Bell preserves pretrial protection. Beach, Heller and Romer supply ordinary review within their actual limits, and Atchison supplies the assumed federal-nonparty contract analysis. No precedent is overruled.
 
 ### Service of process in suits against the United States
 
@@ -9127,15 +9127,15 @@ For the coverage, submission and baseline holdings in Foreman v. Dallas County, 
 
 **Decided:** June 27, 1997.
 
-**Companion or consolidated matters:** The consolidated Printz and Mack dockets receive the same confined constitutional disposition.
+**Companion or consolidated matters:** The consolidated Printz and Mack dockets receive the same reversal, declaratory relief and remand for conforming judgments.
 
-For the limited executive-assistance rule and the fractured fiscal mandate in Printz/Mack, June 27, 1997, Nos. 95-1478 and 95-1503, see Constitutional Structure — Temporary state executive assistance.
+For the categorical rule that Congress may not command unwilling state executive officers to administer federal regulation of private persons, and the reversal, declaratory relief and conforming judgments in Printz/Mack, June 27, 1997, Nos. 95-1478 and 95-1503, see Constitutional Structure — Federal commands to state executive officers.
 
 ##### Whether the plaintiff officers may challenge duties imposed on their offices
 
 **Holding:** A federal command requiring these plaintiff officers to perform identified work through their offices presents a concrete injury redressable by relief against that command. Their official status does not bar review, but it supplies no standing to obtain an advisory decision about independent obligations imposed only on absent dealers or purchasers.
 
-**Proposition-level authority:** Jurisdictional section of Souter's opinion, unanimous.
+**Proposition-level authority:** Jurisdictional section of Thomas's opinion of the Court, joined by all eight other Justices; unanimous.
 
 **Limits and questions not reached:** The Government's disavowal of criminal prosecution does not remove the compulsory civil work. Separate criminal-vagueness, unraised civil-vagueness and Thirteenth Amendment matters outside the grant remain undisturbed.
 
@@ -10104,7 +10104,7 @@ Former §2254(d) protects a qualifying factual determination made by a competent
 - **Plyler and Lewis v. Casey:** Preserve the independent statutory route, remedial safeguards, statutory scope and meaningful access under the text each construed; their original conjunction is not rewritten.
 - **Rufo:** Retains significant-change and tailored-modification requirements for its distinct equitable route, without becoming an additional statutory prerequisite.
 - **Kokkonen:** Preserves the distinction between judicial commands and separate agreements and the need for independent enforcement jurisdiction.
-- **Morgan Stanley and Plaut:** Their defined securities-dismissal reinstatement holdings supply neither absolute immunity for future supervision nor a general congressional reopening power.
+- **Plaut:** Preserves Article III finality for completed private judgments and its qualification permitting changed law to govern an injunction's future operation; it supplies no immunity for future supervision.
 - **Robertson; Wheeling Bridge; Klein:** Preserve the distinction between changed governing law and legislative adjudication under unchanged law.
 - **Beach; Heller; Romer:** Supply rational review with an actual relationship between classification and legitimate ends.
 - **Bell v. Wolfish:** Preserves the independent substantive protection of pretrial detainees against punishment.
@@ -10291,7 +10291,7 @@ Assertions in later briefing concerning motorcycles, heavy machinery, road closu
 - **Rufo:** Retains its significant-change and tailored-modification requirements for the independent equitable route.
 - **Lewis v. Casey:** Requires actual access injury and fit for library remedies; its original statutory scope remains intact.
 - **Kokkonen:** Preserves the judicial-command/private-agreement distinction and independent enforcement requirements.
-- **Morgan Stanley; Plaut:** Preserve bounded reinstatement and independent adjudication, without resolving all reopening questions.
+- **Plaut:** Preserves Article III finality for completed private judgments and its qualification permitting changed law to govern an injunction's future operation, with independent adjudication retained.
 - **Robertson; Wheeling Bridge; Klein:** Preserve genuine changed-law adjudication and forbid legislative substitution for the judicial task.
 - **Beach; Heller; Romer:** Supply rational review tied to the actual classification and legitimate ends.
 - **National Railroad Passenger Corp. v. Atchison:** Supplies the limited federal-nonparty contract framework.
@@ -10429,8 +10429,8 @@ Assertions in later briefing concerning motorcycles, heavy machinery, road closu
 - **Marshall v. Holmes:** Its alleged forged-document circumstances illustrate extraordinary equitable relief, without imposing universal intentional forgery as an element.
 - **Bankers Mortgage Co. v. United States:** Its traditional independent-action conditions are preserved within the demanding extraordinary-relief threshold.
 - **National Surety Co. v. State Bank:** Its traditional equitable conditions are preserved without separate invented adverse factual findings on each condition.
-- **Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., May 23, 1994:** Its bounded legislative reinstatement holding remains; it does not authorize general judicial fairness review of settlements.
-- **Plaut v. Spendthrift Farm, April 18, 1995:** Its lawful bounded reinstatement procedure and independent judicial decisions remain; no absolute constitutional prohibition on legislative reopening is adopted.
+- **Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., May 23, 1994:** Affirmed by an equally divided Court without opinion; it establishes no precedent and supplies no rule for judicial review of settlements.
+- **Plaut v. Spendthrift Farm, April 18, 1995:** Its protection of final judgments against legislation requiring their vacatur and reinstatement is respected, and its preservation of judicial relief through constitutionally permissible procedures is applied; it authorizes no unrestricted judicial reopening.
 - **Irwin v. Department of Veterans Affairs:** Its rebuttable approach is applied and overcome by this QTA scheme, rather than treated as a universal anti-equity rule.
 - **United States v. Brockamp, February 18, 1997:** Its statute-specific method is applied without transplanting tax provisions or deciding its reserved governmental-inducement questions.
 - **Beach v. Ocwen Federal Bank, April 21, 1998:** Its provision-specific analysis is preserved; the separate rescission-right expiration rule is not substituted for the QTA's notice-based period.
@@ -10496,7 +10496,7 @@ DeCarlo v. Fry, Second Circuit Nos. 97-7702, 97-7704 and 97-7754; no separate Su
 - **La Buy v. Howes Leather, 352 U.S. 249:** Applied to bounded supervisory mandamus over district proceedings.
 - **Mallard v. United States District Court, 490 U.S. 296:** Applied to require lawful underlying authority for extraordinary relief.
 - **Lexecon Inc. v. Milberg Weiss Bershad Hynes & Lerach, March 3, 1998:** Applied for observance of statutory judicial allocation despite administrative convenience.
-- **Plaut v. Spendthrift Farm, April 18, 1995:** Distinguished in its authorized statutory reopening setting; independent adjudication remains protected without categorical immunity from reassignment.
+- **Plaut v. Spendthrift Farm, April 18, 1995:** Distinguished: its Article III protection of final judgments against legislation requiring their vacatur and reinstatement does not govern administrative transfer of pending cases; independent adjudication remains protected without categorical immunity from transfer.
 
 ### Pleading omissions and actually litigated defenses
 

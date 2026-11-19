@@ -546,7 +546,7 @@ Johnson and Behrens are applied to legal review on assumed facts and exclusion o
 **Treatment of earlier authority:**
 
 - Blessing v. Freestone, April 21, 1997: the particular statutory right and enforcement vehicle remain separate inquiries; assuming an action here establishes neither.
-- Alexander v. Sandoval, April 24, 2001: its integrated Title VI prospective action is preserved and does not decide FERPA enforcement.
+- Alexander v. Sandoval, April 24, 2001: its Title VI-specific holding that no private action enforces section 602's additional disparate-impact regulations is preserved and does not decide FERPA enforcement.
 - TRW Inc. v. Andrews, November 13, 2001: independent statutory requirements and exclusions retain their actual limiting work.
 
 **Later-authority backlinks:** Gonzaga University v. Doe, June 20, 2002, resolves the asserted Section 1983 enforcement of FERPA's nondisclosure provisions against the claimant through statute-specific six-Justice agreement. Owasso's education-record definition remains intact, and Gonzaga adopts no majority general formula equating a statutory right with intent to create a private remedy.

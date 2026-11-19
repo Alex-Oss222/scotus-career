@@ -2192,7 +2192,7 @@ The Tenth Circuit's dismissal of the interlocutory appeal is affirmed, 9–0.
 
 ## Precedent Treatment
 
-The holding-specific treatments govern. Connecticut National Bank v. Germain, March 9, 1992, preserves independently authorized §1292 procedures subject to their own conditions; none exists by implication from this contract. Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., May 23, 1994, permits bounded congressional reinstatement of completed securities limitations dismissals under an expressly retrospective statutory rule preserving independent judicial adjudication; it supplies no collateral-order route here or unlimited permission for retrospective legislation. No precedent is overruled.
+The holding-specific treatments govern. Connecticut National Bank v. Germain, March 9, 1992, preserves independently authorized §1292 procedures subject to their own conditions; none exists by implication from this contract. Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., May 23, 1994, affirmed by an equally divided Court, establishes no precedent and supplies no collateral-order route here. No precedent is overruled.
 
 ## Law After Decision
 
@@ -4653,7 +4653,7 @@ Chief Justice Stone-Zsela and Justices Blackmun, Stevens, Scalia, Kennedy, Soute
 
 ## Public Action
 
-The Fifth Circuit's judgment sustaining the statutory reinstatement procedure is affirmed, 5–3.
+The Fifth Circuit's judgment is affirmed by an equally divided Court, 4–4. The judgment states the alignment: Chief Justice Stone-Zsela and Justices Scalia, Kennedy and Thomas would reverse; Justices Blackmun, Stevens, Souter and Ginsburg would affirm. No opinion issues.
 
 ## Judgment & Remedy
 
@@ -4667,47 +4667,21 @@ The Fifth Circuit's judgment sustaining the reinstatement procedure is affirmed.
 
 ## Opinion Topology
 
-Chief Justice Stone-Zsela delivers the Opinion of the Court, joined in full by Blackmun, Stevens, Souter and Ginsburg. Scalia dissents, joined in full by Kennedy and Thomas.
+No opinion issues. The judgment is unsigned; it states the equal division and the alignment and gives no reasons. No Justice writes for the Court, for a plurality or separately.
 
 ## Holdings
 
 ### Bounded statutory reinstatement of completed securities limitations dismissals
 
-**Controlling proposition:** Article III permits §27A(b)'s expressly retrospective requirement to reinstate a private §10(b) action commenced on or before June 19, 1991, dismissed as time barred after June 19, 1991, and timely under the jurisdiction's law, including retroactivity principles, as that law existed on June 19, 1991, upon a motion filed within sixty days after the provision's December 19, 1991 enactment. The federal court must independently determine whether those cumulative conditions are satisfied and, if they are, must reinstate the action without a discretionary balancing test, retaining independent responsibility for the claims, defenses and remedies; this bounded entitlement to adjudication neither directs a merits judgment nor establishes an unrestricted power to reopen completed federal judgments.
-
-**Authority:** Chief Justice Stone-Zsela's Opinion of the Court is joined in full by Blackmun, Stevens, Souter and Ginsburg. These five direct joins control the rule, explanation, qualifications and remedy; no combination of separate rationales is necessary.
-
-**Controlling explanation:** The Court holds that finality protects judicial independence without barring every statutory remedy affecting a completed proceeding. Robertson v. Seattle Audubon Society permits Congress to change governing law while courts determine its application; it leaves this final-judgment question open. United States v. Klein bars legislative prescription of judicial results, not every enacted change in the law governing access to adjudication.
-
-Section 27A(b) supplies a new rule for a defined class of limitations dismissals following Lampf. Congress identifies the filing period, the intervening time-bar dismissal, the former limitations law and a short period for seeking relief. Courts determine those predicates. Congress has found no fraud, reliance, injury or damages and has prescribed no defendant's liability. Once the predicates are established, reinstatement is mandatory. Its validity does not depend on judicial discretion to withhold relief.
-
-The defendants' strongest objection is that Pacific Mutual's unappealed dismissal was already final. That fact is accepted. The distinction is between creating a bounded legal entitlement to further adjudication and performing the adjudication itself. McCullough v. Virginia protects completed judicial determinations; the present statute supplies no contrary factual finding or legislatively fixed liability. The holding concerns a limitations dismissal, not compelled reopening of a judgment adjudicating the underlying securities merits. Wheeling Bridge's treatment of prospective relief and Sioux Nation's treatment of the Government's own defense are distinct settings, not controlling answers to this case.
-
-Landgraf and Rivers distinguish an express temporal command from an inference about statutory reach; express reach does not itself settle constitutionality. Harper's rule for still-open direct review and Beam's protection of finality against later judicial doctrine do not establish that Congress can never enact this confined remedy. Chase Securities concerns due-process revival and does not independently resolve Article III. The courts retain the essential work of adjudication under the new law.
-
-**Limits and questions not reached:** Congress may not declare a completed judicial factual finding erroneous and compel the contrary finding, dictate a merits judgment, or disguise an individualized award or assessment of liability as a procedural reopening statute. This holding does not decide compelled reopening of merits judgments or individualized legislative commands to adjudicate liability. The Court announces no independent due-process holding and does not decide §27A(a), general severability, fraud, liability, damages or entitlement to judgment on the securities merits. Pending litigation, prospective relief and independently authorized judicial reopening remain distinct.
-
-**Precedent treatment:**
-
-- Robertson v. Seattle Audubon Society, March 25, 1992: extends its distinction between changing governing law and prescribing adjudication to this bounded reinstatement procedure; resolves the final-judgment question left open there only within the present limits.
-- United States v. Klein, 80 U.S. (13 Wall.) 128 (1872): applies its protection of independent adjudication; a new eligibility rule requiring renewed adjudication does not supply a legislative finding or dictate securities liability.
-- McCullough v. Virginia, 172 U.S. 102 (1898): preserves protection of completed judicial determinations while distinguishing this new statutory entitlement to litigate claims dismissed on limitations grounds from legislative contradiction of adjudicated facts or liability.
-- Pennsylvania v. Wheeling & Belmont Bridge Co., 59 U.S. (18 How.) 421 (1856): distinguishes a change in the continuing operation of prospective relief; its setting does not itself resolve reinstatement of this completed dismissal.
-- United States v. Sioux Nation of Indians, 448 U.S. 371 (1980): distinguishes waiver of the Government's own defense; retained judicial adjudication is relevant, but no governmental waiver of a private defendant's defense is assumed here.
-- Lampf, Pleva, Lipkind, Prupis & Petigrow v. Gilbertson, 501 U.S. 350 (1991): identifies the intervening limitations rule to which Congress responded; §27A(b) supplies the bounded statutory remedy without deciding the underlying fraud claims.
-- James B. Beam Distilling Co. v. Georgia, 501 U.S. 529 (1991), and Harper v. Virginia Department of Taxation, June 18, 1993: retain the distinction between judicial retroactivity in still-open litigation and final judgments; the present entitlement arises from an express statute, not judicial retroactivity alone.
-- Landgraf v. USI Film Products and Rivers v. Roadway Express, April 26, 1994: preserve the separation between express legislative temporal direction and constitutional limits; no ordinary presumption against retroactivity defeats §27A(b)'s explicit reach.
-- Chase Securities Corp. v. Donaldson, 325 U.S. 304 (1945): preserves its due-process treatment of revived limitations claims without treating that decision as dispositive of Article III.
-
-**Limits and questions not reached:** Congress may not declare a completed judicial factual finding erroneous and compel the contrary finding, dictate a merits judgment, or disguise an individualized award or assessment of liability as a procedural reopening statute. This holding does not decide compelled reopening of merits judgments or individualized legislative commands to adjudicate liability. The Court announces no independent due-process holding and does not decide §27A(a), general severability, fraud, liability, damages or entitlement to judgment on the securities merits. Pending litigation, prospective relief and independently authorized judicial reopening remain distinct.
+**Judgment without controlling rationale:** The Fifth Circuit's judgment is affirmed by an equally divided Court, 4–4; O'Connor does not participate. No opinion issues, no proposition commands a majority and no rationale controls. The affirmance establishes no precedent on whether Article III permits §27A(b) to require reinstatement of a final, unappealed federal dismissal; it binds only the parties to this case.
 
 ## Precedent Treatment
 
-The holding-specific treatments govern. Robertson's distinction between a legislative change in law and legislative adjudication extends to the confined reinstatement procedure here. The final-judgment question left open there is resolved only for the specified securities limitations dismissals. Klein and McCullough continue to protect independent judicial findings and adjudication. Harper, Beam, Landgraf and Rivers retain their distinct temporal rules; no earlier decision is overruled.
+No earlier decision is applied, extended, distinguished or overruled. Robertson v. Seattle Audubon Society's reservation of the final-judgment question remains open. Klein, McCullough, Wheeling Bridge, Sioux Nation, Lampf, Beam, Harper, Landgraf, Rivers and Chase Securities retain their existing force.
 
 ## Law After Decision
 
-Section 27A(b) supplies a constitutional statutory route to reinstatement for the specified completed securities limitations dismissals. Its four cumulative prerequisites govern, and proof of all four requires reinstatement. Independent judicial adjudication of eligibility and of the ensuing claims, defenses and remedies remains essential. Pacific Mutual's January 31, 1992 motion met the sixty-day deadline; that fact is not a finding of fraud or entitlement to a merits judgment.
+No Supreme Court rule results. Whether Article III permits Congress, through §27A(b), to require reinstatement of a completed federal limitations dismissal remains undecided by this Court. Between these parties the Fifth Circuit's reinstatement judgment stands.
 
 Subsection (a) separately prescribes the jurisdiction's June 19, 1991 limitations law, including retroactivity principles, for the specified private actions commenced on or before that date. The holding concerns subsection (b), not an independent reopening power under subsection (a). Finality remains a protection of judicial independence, subject to the bounded statutory entitlement sustained here. No general constitutional permission for retrospective legislation, compelled reopening of merits judgments or individualized legislative determination of liability follows.
 
@@ -7013,13 +6987,13 @@ The judgment is reversed and remanded, 9–0.
 - United States v. Darusmont, 449 U.S. 292, and Milliken v. United States, 283 U.S. 15: preserve permissible tax retroactivity in their settings, without a universal advance-notice condition.
 - Untermyer v. Anderson, 276 U.S. 440: distinguishes its wholly new gift tax from this amendment to a deduction within an existing estate-tax regime.
 - United States v. Irvine, April 20, 1994: distinguishes its later taxable transfer; the present amendment is genuinely retroactive and receives constitutional review.
-- Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., May 23, 1994, permits the bounded congressional reinstatement of completed securities limitations dismissals under an expressly retrospective statutory rule preserving independent judicial adjudication. The present case concerns a substantive amendment to the estate-tax law and its application to an earlier transaction, not the reinstatement of a completed federal judicial judgment. Neither decision establishes unlimited constitutional permission for retrospective legislation.
+- Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., May 23, 1994, affirmed by an equally divided Court, establishes no precedent on congressional reinstatement of completed securities limitations dismissals. The present case concerns a substantive amendment to the estate-tax law and its application to an earlier transaction, not the reinstatement of a completed federal judicial judgment. Neither decision establishes unlimited constitutional permission for retrospective legislation.
 
 **Limits and questions not reached:** The Court decides neither the abandoned Contract Clause and Takings theories nor a new tax-loss compensation claim. No allocation failure, agency power to amend the original statute, fixed constitutional lookback limit or new dollar assessment is adjudicated.
 
 ## Precedent Treatment
 
-The holding-specific treatments govern. No precedent is overruled. The express temporal command and constitutional review remain separate. Landgraf and Rivers preserve Congress's authority to prescribe retrospective reach within constitutional limits; Irvine concerns a later transfer; Morgan Stanley permits bounded reinstatement of completed securities limitations dismissals while preserving independent judicial adjudication. Neither decision removes the constitutional limits on retrospective legislation.
+The holding-specific treatments govern. No precedent is overruled. The express temporal command and constitutional review remain separate. Landgraf and Rivers preserve Congress's authority to prescribe retrospective reach within constitutional limits; Irvine concerns a later transfer; Morgan Stanley, affirmed by an equally divided Court, establishes no precedent on reinstatement of completed securities limitations dismissals. Neither decision removes the constitutional limits on retrospective legislation.
 
 ## Law After Decision
 
