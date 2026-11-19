@@ -30,7 +30,7 @@ Same-day peers retain common entering law. All June 23 handoffs incorporate the 
 
 ## Florida Prepaid
 
-- [OT_1998CHUNK11_FLORIDA_PREPAID_RECONCILED.md](../freeze/OT_1998CHUNK11_FLORIDA_PREPAID_RECONCILED.md) — 40244 bytes; SHA-256 `a0592f23097321457ddfab8346812a8e4d273f0cf93be674be4befe3bf11f9b4`.
+- [OT_1998CHUNK11_FLORIDA_PREPAID_RECONCILED.md](../freeze/OT_1998CHUNK11_FLORIDA_PREPAID_RECONCILED.md) — 40256 bytes; SHA-256 `a0592f23097321457ddfab8346812a8e4d273f0cf93be674be4befe3bf11f9b4`.
 
 ## Ortiz
 

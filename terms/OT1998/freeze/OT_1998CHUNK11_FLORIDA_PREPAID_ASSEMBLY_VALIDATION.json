@@ -21,24 +21,18 @@
   },
   "last_counted": "college_savings_bank_v_florida_prepaid_merits_1999-06-23.md",
   "counted_opinions_before_assignment": 116,
-  "form_determined_before_counts": "Signed opinion of the Court; unanimous Part I; five-Justice independent §5 Part II and Article I Part III; unanimous Part IV applying College Savings Part III to reject consent from continued commercial participation, preserving actual consent and leaving litigation-conduct waiver undecided.",
+  "form_determined_before_counts": "Signed opinion of the Court; unanimous Part I; five-Justice Part II holding that Section 5 does not independently sustain the Act at the scope presented; five-Justice Article I Part III deciding the judgment; unanimous Part IV applying College Savings Part III to reject consent from continued commercial participation, preserving actual consent and leaving litigation-conduct waiver undecided.",
   "assignment": {
     "assigner": "Stone-Zsela",
     "eligible": [
-      "Stone-Zsela",
-      "Stevens",
-      "Souter",
-      "Ginsburg",
-      "Breyer"
+      "Stone-Zsela"
     ],
     "pool": [
-      "Stevens",
-      "Souter",
-      "Breyer"
+      "Stone-Zsela"
     ],
-    "minimum_eligible_count": 12,
-    "author": "Stevens",
-    "basis": "Settled common grounds; Stevens fits the precise separation of property, constitutional deprivation, preventive §5 enforcement, Article I authority and consent, and states Part IV's application of College Savings Part III, which he accepts as controlling. His Union Gas and Seminole positions support the Article I account. The Chief Justice assigns from the judgment coalition; counts are recorded without supplying a reason for the choice."
+    "minimum_eligible_count": 14,
+    "author": "Stone-Zsela",
+    "basis": "Sole eligible author: only Stone-Zsela joins every Part, including Part II's Section 5 holding, Part III's Article I holding, which decides the judgment, and Part IV's application of College Savings Part III, which he delivered earlier the same day. The Chief Justice assigns from the judgment coalition; counts are recorded without supplying a reason for the choice."
   },
   "judgment": {
     "disposition": "Affirm immunity denial and return for ordinary patent proceedings",
@@ -69,7 +63,14 @@
       "Ginsburg",
       "Breyer"
     ],
-    "Parts II and III": [
+    "Part II": [
+      "Stone-Zsela",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Thomas"
+    ],
+    "Part III": [
       "Stone-Zsela",
       "Stevens",
       "Souter",
@@ -92,9 +93,15 @@
       "O'Connor",
       "Scalia",
       "Thomas"
+    ],
+    "Stevens concurrence in part and dissent in part": [
+      "Stevens",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
     ]
   },
-  "delegated_choice": "No delegated choice is used; Stone’s approved Section II supplies each of these choices. He joins Part II’s §5 holding, Part III’s independent Article I holding and Part IV’s consent holding and writes no separate opinion. Part IV applies his College Savings Part III, preserves actual consent and leaves litigation-conduct waiver undecided. Neither constitutional ground depends on consent.",
+  "delegated_choice": "No delegated choice is used; Stone’s approved Section II supplies each of these choices. He delivers Part II’s Section 5 holding, Part III’s Article I holding and Part IV’s consent holding and writes no separate opinion. Part IV applies his College Savings Part III, preserves actual consent and leaves litigation-conduct waiver undecided. The Article I ground does not depend on consent.",
   "deterministic_checks": {
     "four_exact_opening_labels": "passed",
     "eleven_public_blocks_in_order": "passed",
@@ -110,11 +117,11 @@
     "public_workflow_token_screen": "passed",
     "ordinary_explanation_word_counts": [
       112,
-      104,
+      96,
       127,
-      210,
-      252,
-      188
+      327,
+      267,
+      177
     ],
     "ordinary_350_word_ceiling": "passed",
     "bounded_internal_artifact_references": "passed"
@@ -133,17 +140,17 @@
     {
       "check": "Stone fixed core and exact joins",
       "result": "passed",
-      "basis": "Affirmance; independent §5 prevention and Article I enforcement holdings; Patent Clause and Necessary and Proper Clause application; valid obligation/enforcement measure and unmistakable State-exposure limits; no patent merits, damages entitlement, enhancement or fees decided; joins Part IV's rejection of commercial-participation consent, with actual consent preserved and litigation-conduct waiver undecided; no separate opinion."
+      "basis": "Affirmance on the Article I ground; Section 5 does not independently sustain the Act at the scope presented, with no numerical count, prescribed findings, proven-violator restriction or per-plaintiff constitutional tort required; Patent Clause and Necessary and Proper Clause application; valid obligation/enforcement measure and unmistakable State-exposure limits; no patent merits, damages entitlement, enhancement or fees decided; delivers Part IV's rejection of commercial-participation consent, with actual consent preserved and litigation-conduct waiver undecided; no separate opinion."
     },
     {
       "check": "Frozen Associate fidelity and departures",
       "result": "passed",
-      "basis": "Stevens, Souter, Ginsburg and Breyer join each independent constitutional ground and, in Part IV, accept College Savings Part III as controlling on Justice-specific stare decisis bases. Their actual Article I joins rest on individual Union Gas, Seminole and public displacement positions. Four dissenters retain limited vacatur; their conditional Article I opposition remains distinct from an independent overruling."
+      "basis": "Stevens, Souter, Ginsburg and Breyer join Part III's Article I ground and, in Part IV, accept College Savings Part III as controlling on Justice-specific stare decisis bases; on their affirmative §5 ground they dissent from Part II. Their actual Article I joins rest on individual Union Gas, Seminole and public displacement positions. O'Connor, Scalia, Kennedy and Thomas join Part II on their negative substantive-fit ground. Four dissenters retain limited vacatur; their conditional Article I opposition remains distinct from an independent overruling."
     },
     {
       "check": "Authority and Marks",
       "result": "passed",
-      "basis": "Nine common statutory/property/scope joins; five joins in each independent §5 and Article I holding; nine joins in Part IV's consent holding. Express majority holdings require no Marks aggregation. Stone files no separate writing."
+      "basis": "Nine common statutory/property/scope joins; five joins in Part II's Section 5 holding and five in Part III's Article I holding, with different coalitions; nine joins in Part IV's consent holding. Express majority holdings require no Marks aggregation. Stone files no separate writing."
     },
     {
       "check": "Remedy and scope",
@@ -153,7 +160,7 @@
     {
       "check": "Culpability and §5 precision",
       "result": "passed",
-      "basis": "Five-Justice §5 holding preserves the Daniels patent-transfer reservation; no automatic willfulness exception, inferred adequate Florida remedy or universal patent-negligence rule. No individual constitutional violation is a prerequisite to this preventive patent action."
+      "basis": "Part II rests on the Act's failure to differentiate infringement from unconstitutional deprivation and states no negligence rule; whether Daniels governs patent deprivations commands no majority; no automatic willfulness exception, inferred adequate Florida remedy or universal patent-negligence rule. Section 5 legislation need not require each plaintiff to prove a constitutional tort."
     },
     {
       "check": "Sources and date eligibility",
@@ -163,7 +170,7 @@
     {
       "check": "Public legal substance and continuity",
       "result": "passed",
-      "basis": "All controlling rules, authority, explanations, precedent treatment, resulting law, Part IV consent holding and dissent grounds, limits and final stage appear in eleven public blocks. Parts II and III independently sustain the action; no Stone separate writing appears."
+      "basis": "All controlling rules, authority, explanations, precedent treatment, resulting law, Part IV consent holding and separate-writing grounds, limits and final stage appear in eleven public blocks. Part II holds that Section 5 does not independently sustain the Act, and Part III's Article I ground sustains the action; no Stone separate writing appears."
     }
   ],
   "not_performed": [
