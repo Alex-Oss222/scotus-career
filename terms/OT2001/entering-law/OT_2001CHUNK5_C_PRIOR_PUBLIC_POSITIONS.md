@@ -742,11 +742,11 @@ All nine Justices participated at argument and decision.
 
 #### Judgment
 
-**Affirmed, 5–4.**
+**Reversed and remanded, 5–4.**
 
-**Supporting:** Stone-Zsela, Stevens, Souter, Ginsburg and Breyer.
+**Supporting:** Stone-Zsela, O'Connor, Scalia, Kennedy and Thomas.
 
-**Opposing:** O'Connor, Scalia, Kennedy and Thomas.
+**Opposing:** Stevens, Souter, Ginsburg and Breyer.
 
 The judgment sustaining the private prospective action to enforce the section 602 disparate-impact regulation is reversed, and the injunction requiring accommodation of non-English speakers in driver's-license examinations is vacated insofar as it rests on that action. On remand the lower courts must dismiss the section 602 disparate-impact cause of action and enter a conforming judgment. Further proceedings are confined to genuinely preserved, independently authorized claims and defenses, and no new section 601 intentional-discrimination claim may be manufactured from the accepted effects finding. No damages, regulatory invalidation, finding of discriminatory intent, finding of regulatory compliance, new section 1983 claim or funding cutoff is ordered.
 
@@ -756,7 +756,7 @@ Chief Justice Stone-Zsela delivered the opinion of the Court, joined in full by 
 
 #### Controlling Propositions and Authority
 
-##### Prospective enforcement of Title VI's valid implementing requirements
+##### Title VI supplies no private action to enforce section 602's additional effects prohibitions
 
 **Controlling proposition:** Congress has not authorized a private cause of action to enforce the additional disparate-impact prohibitions contained in regulations issued under section 602 of Title VI when the challenged conduct does not violate section 601 itself, and a regulation cannot supply that missing authorization by its own force. Assuming without deciding that the effects regulation at issue is a valid exercise of section 602 authority, Sandoval and the class have no private action to enforce it. The rule governs private enforcement of section 602 disparate-impact regulations generally, because the statutory source is the same for every covered recipient; it does not hold that agency regulations can never elaborate privately enforceable statutory duties under any federal law. Section 601's established private action for intentional discrimination and agency enforcement through the procedures section 602 prescribes remain available.
 
@@ -768,9 +768,9 @@ The rule does not make the regulation meaningless. Its violation may justify age
 
 Cannon remains an implied-action precedent for the statutory right it recognized, not for every agency obligation. Guardians and Choate distinguish intentional statutory discrimination from effects regulation; their fragmented or context-specific discussions are not an unequivocal congressional authorization of this cause. The ground is specific to Title VI: the Court adopts no universal express-action-clause requirement, rests on no funding-notice rule and draws on no general retreat from contextual statutory inference; McClellan and Central Bank stand as decided. Franklin governs available relief once a valid private action exists; it does not create one.
 
-The Department receives federal assistance. The regulations' validity and the finding of unjustified discriminatory effects are accepted premises of this review. Sandoval may maintain this prospective action, and the reviewed injunction remains supported by that route.
+##### Powell v. Ridge decides the question and is followed
 
-##### Powell's direct-action restriction is overruled to the stated extent
+**Controlling proposition:** Powell v. Ridge's holding that Title VI supplies no directly implied private action to enforce a section 602 regulation's additional disparate-impact prohibition decides this case, and the Court follows it; Powell is not overruled in whole or in part. Neither a request for prospective relief, a different state policy nor a finding rather than an allegation of prohibited effects distinguishes it. Powell's separate section 1983 holding remains controlling at its own scope and is not presented here.
 
 **Authority:** The same five Justices join this application of Powell and its complete statutory stare-decisis explanation in the Opinion of the Court.
 

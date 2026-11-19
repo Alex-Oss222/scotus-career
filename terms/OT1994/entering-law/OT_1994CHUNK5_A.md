@@ -638,7 +638,7 @@ Source: `terms/OT1994/workspace/neutral-projection.md`, line 2598
 
 Authority: [Record](../records/Plaut_v_Spendthrift_Farm_Inc_merits_1995-04-18.md#public-projection).
 
-The dissent's completed-private-judgment principle is noncontrolling. No additional separate writing, roster change, circuit allotment, or institutional practice is announced. No external follow-on event is established.
+Breyer's closed-class ground and the dissent's statutory-entitlement position are noncontrolling. No additional separate writing, roster change, circuit allotment, or institutional practice is announced. No external follow-on event is established.
 
 
 ## Verbatim current-term neutral selection

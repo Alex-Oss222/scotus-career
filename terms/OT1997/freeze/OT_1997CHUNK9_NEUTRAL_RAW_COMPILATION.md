@@ -1972,7 +1972,7 @@ BEGIN EXACT COPIED TEXT
 
 **Decided:** 1994-05-23.
 
-##### Bounded statutory reinstatement of completed securities limitations dismissals
+##### Constitutional power to require reinstatement under §27A(b)
 
 **Authority of the disposition:** The Fifth Circuit's judgment reversing the district court's refusal to reinstate Pacific Mutual's action under §27A(b) is affirmed by an equally divided Court, 4–4. Chief Justice Stone-Zsela and Justices Scalia, Kennedy and Thomas would reverse; Blackmun, Stevens, Souter and Ginsburg would affirm. O'Connor took no part; no reason is stated. Five votes were required for any disposition other than affirmance. No opinion issues and no reasons accompany the published alignment. No opinion commands a majority, no controlling rationale or independently majority-supported proposition results, and the affirmance has no precedential force on whether Article III permits §27A(b) to require reinstatement of a final, unappealed federal dismissal; it binds only the parties to this case.
 
@@ -2000,9 +2000,9 @@ BEGIN EXACT COPIED TEXT
 **Docket or dockets:** No. 93-1121.
 **Decided:** April 18, 1995.
 
-##### Section 27A(b) permits mandatory reinstatement of this completed limitations dismissal
+##### Congress may not, solely by changing the applicable law, require an Article III court to reopen a final private judgment
 
-**Holding:** Under Morgan Stanley, Article III permits Congress to require reinstatement under §27A(b) of a qualifying private §10(b) action even though its limitations dismissal became final without appeal before the provision's December 19, 1991 enactment: the action must have commenced on or before June 19, 1991, been dismissed as time barred after that date, and been timely under the jurisdiction's law, including retroactivity principles, as it existed June 19, 1991, with a reinstatement motion filed within sixty days after enactment. The court independently determines those cumulative conditions and, when they are satisfied, must reinstate without discretionary balancing, retaining independent responsibility for all claims, defenses, and remedies; this expressly retrospective entitlement does not authorize legislative findings, dictated liability, or unrestricted reopening of completed merits judgments.
+**Holding:** Article III protects the conclusive disposition of a private case by a federal court once its judgment has become final through the ordinary judicial process. Congress may amend substantive or procedural law, prescribe expressly retrospective rules for pending litigation, and authorize judicial relief through constitutionally permissible procedures. It may not, solely by changing the law previously applicable to a completed private action, require an Article III court to vacate that final judgment and reinstate the same litigation, and later independent judicial determination of eligibility and the merits does not save such a command. Section 27A(b) is unconstitutional to that extent.
 
 **Proposition-level authority:** Chief Justice Stone-Zsela's Opinion of the Court, joined in full by O'Connor, Scalia, Kennedy, and Thomas. Those five direct rationale joins control every proposition, qualification, and limit stated here. Breyer concurs only in the judgment, on a narrower ground, and joins no proposition; Stevens, Souter, and Ginsburg dissent. No combination of separate rationales is necessary.
 
@@ -2547,26 +2547,14 @@ Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Soute
 
 #### Judgment
 
-**Reversed and remanded, 5–4.**
+**Affirmed, 6–3.**
 
-**Supporting:** Chief Justice Stone-Zsela and Justices Stevens, Souter, Ginsburg, and Breyer.
-**Opposing:** Justices O'Connor, Scalia, Kennedy, and Thomas.
+**Supporting:** Chief Justice Stone-Zsela and Justices O'Connor, Scalia, Kennedy, and Thomas; Justice Breyer in the judgment only.
+**Opposing:** Justices Stevens, Souter, and Ginsburg.
 
-The statutory conditions are satisfied, including the timely February 11, 1992 motion. Reinstatement is mandatory; the remand does not authorize discretionary refusal through an equitable balancing test. The underlying securities claims, defenses, and remedies remain for judicial adjudication. No finding of fraud, merits judgment, or damages award is entered.
+The Court affirms the judgment of the Sixth Circuit, which affirmed the district court's refusal to reopen the final August 13, 1991 dismissal under §27A(b). That dismissal remains final. Section 27A(b) is unconstitutional to the extent it requires the district court to vacate that final judgment and reinstate the same litigation, and the February 11, 1992 reinstatement motion was properly denied. No determination of the underlying securities claims is made; no finding of fraud, liability, or damages is entered.
 
 #### Opinion Topology
-
-| Writing | Author | Joined by | Relationship to judgment | Scope joined |
-| --- | --- | --- | --- | --- |
-| Opinion of the Court | Chief Justice Stone-Zsela | O'Connor, Scalia, Kennedy, and Thomas | Affirmance | Entire opinion, including the Article III finality rule, its application to the August 13, 1991 dismissal, its qualifications, and its limits. |
-| Concurrence in the judgment | Breyer | No other Justice | Affirmance | No part of the Court's opinion; rests on the closed, identifiable class of final judgments §27A(b) reopens without general prospective application. |
-| Dissent | Stevens | Souter and Ginsburg | Would reverse and remand for reinstatement | Entire dissent; no part of the Court's opinion. |
-
-#### Controlling Propositions and Authority
-
-##### Section 27A(b) permits mandatory reinstatement of this completed limitations dismissal
-
-**Controlling proposition:** Article III protects the conclusive disposition of a private case by a federal court once its judgment has become final through the ordinary judicial process. Congress may amend substantive or procedural law, prescribe expressly retrospective rules for pending litigation, and authorize judicial relief through constitutionally permissible procedures. It may not, solely by changing the law previously applicable to a completed private action, require an Article III court to vacate that final judgment and reinstate the same litigation. Section 27A(b) is unconstitutional to that extent.
 
 STONE-ZSELA, C. J., delivered the opinion of the Court, in which O'CONNOR, SCALIA, KENNEDY, and THOMAS, JJ., joined. BREYER, J., filed an opinion concurring in the judgment. STEVENS, J., filed a dissenting opinion, in which SOUTER and GINSBURG, JJ., joined.
 
@@ -2576,11 +2564,11 @@ STONE-ZSELA, C. J., delivered the opinion of the Court, in which O'CONNOR, SCALI
 | Concurrence in the judgment | Breyer | No other Justice | Affirmance | No part of the Court's opinion; rests on the closed, identifiable class of final judgments §27A(b) reopens without general prospective application. |
 | Dissent | Stevens | Souter and Ginsburg | Would reverse and remand for reinstatement | Entire dissent; no part of the Court's opinion. |
 
-**Controlling explanation:** The Court holds that finality is itself an Article III protection. It does not disappear merely because Congress leaves the underlying merits undecided. Morgan Stanley's affirmance by an equally divided Court established no precedent, so the question is one of first impression. Robertson permits Congress to change the law governing pending cases and left the final-judgment question open. Klein and McCullough supply the governing principle: Congress may not prescribe the results of cases or legislatively revise completed adjudications. Petitioners' action was not pending. It was dismissed as time barred on August 13, 1991, and the dismissal became final without appeal before §27A(b)'s December 19, 1991 enactment. Section 27A(b) does not change the law for litigation still pending; it commands a court to vacate that completed judgment and reinstate the same litigation because the law that produced the dismissal has since changed. The February 11, 1992 motion sought exactly that vacatur and reinstatement. The principal contrary argument is that §27A(b) dictates no finding or liability, because courts would independently determine eligibility and then decide the securities claims, defenses, and remedies. The statute's objective class and retained adjudication answer the contention that Congress selected parties for liability, but not the finality objection: the judicial act Congress sets aside is the completed dismissal itself, and later independent adjudication cannot restore its conclusiveness. Because §27A(b) expressly directs reinstatement, Landgraf's and Rivers's rules of statutory construction cannot avoid the constitutional question. The rule is confined to legislative commands of this kind. Congress may amend substantive or procedural law, prescribe expressly retrospective rules for pending litigation, and authorize judicial relief through constitutionally permissible procedures. A court's reopening on valid Rule 60(b) grounds is judicial action under general rules, not legislative displacement of the judgment. Section 27A(b) is therefore unconstitutional to the extent it requires reopening this dismissal; the reinstatement motion was properly denied, and the Sixth Circuit's judgment is affirmed. The Court makes no determination of the underlying securities claims.
+#### Controlling Propositions and Authority
 
-The statute's narrow coverage and exclusively retrospective operation require attention, but do not make it an individualized legislative judgment. It reaches every action satisfying objective conditions concerning commencement, dismissal, governing limitations law, and the time for seeking relief. It does not identify parties for an award or assessment of liability. A closed temporal class is still a class defined by law. Congress has directed no finding of deception, reliance, causation, or damages. Independent judicial determination remains both at the eligibility stage and on the merits. Mandatory reinstatement after eligibility is established is the consequence of the new legal rule, not a legislative finding that the plaintiffs prevail on their claims.
+##### Congress may not, solely by changing the applicable law, require an Article III court to reopen a final private judgment
 
-**Holding and operative rule:** Article III protects the conclusive disposition of a private case by a federal court once its judgment has become final through the ordinary judicial process. Congress may amend substantive or procedural law, prescribe expressly retrospective rules for pending litigation, and authorize judicial relief through constitutionally permissible procedures. It may not, solely by changing the law previously applicable to a completed private action, require an Article III court to vacate that final judgment and reinstate the same litigation. Section 27A(b) is unconstitutional to that extent.
+**Controlling proposition:** Article III protects the conclusive disposition of a private case by a federal court once its judgment has become final through the ordinary judicial process. Congress may amend substantive or procedural law, prescribe expressly retrospective rules for pending litigation, and authorize judicial relief through constitutionally permissible procedures. It may not, solely by changing the law previously applicable to a completed private action, require an Article III court to vacate that final judgment and reinstate the same litigation. Section 27A(b) is unconstitutional to that extent.
 
 **Authority:** Chief Justice Stone-Zsela's Opinion of the Court, joined in full by O'Connor, Scalia, Kennedy, and Thomas. Those five direct rationale joins control every proposition, qualification, and limit stated here. Breyer concurs only in the judgment, on a narrower ground, and joins no proposition; Stevens, Souter, and Ginsburg dissent. No combination of separate rationales is necessary.
 

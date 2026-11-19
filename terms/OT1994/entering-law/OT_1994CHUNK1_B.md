@@ -6596,7 +6596,7 @@ For the other question-level holdings in Concrete Pipe & Products of California,
 - TVA v. Hill, 437 U.S. 153 — distinguished: the amendment here is express rather than an inferred repeal.
 - NLRB v. Jones & Laughlin Steel Corp., 301 U.S. 1 — preserved: a possible constitutionally valid construction reinforces, but does not replace, the enacted meaning.
 
-**Later-authority backlinks:** [Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., 511 U.S. 658](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Morgan_Stanley_v_Pacific_Mutual_merits_1994-05-23.md), No. 93-609, decided May 23, 1994: resolves the reserved final-judgment question only for §27A(b)'s compelled reopening of the completed private dismissal. Robertson's pending-litigation holding remains unchanged.
+**Later-authority backlinks:** [Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., 511 U.S. 658](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Morgan_Stanley_v_Pacific_Mutual_merits_1994-05-23.md), No. 93-609, decided May 23, 1994, and affirmed by an equally divided Court without opinion, establishes no precedent and leaves open the final-judgment question expressly reserved in Robertson. Robertson's original pending-litigation holding remains unchanged.
 
 ### Federal and state submerged-land boundaries
 
@@ -7633,8 +7633,6 @@ For the other questions in Northwest Airlines, Inc. v. County of Kent, 1994-01-2
 **Operative remedy:** The Fifth Circuit's judgment reversing the denial of reinstatement and remanding under §27A(b) stands between the parties, and proceedings continue under it. The securities claims, defenses and remedies remain for ordinary judicial adjudication. No fraud finding, liability judgment or damages award is entered.
 
 **Limits and questions not reached:** The affirmance decides only this case. Whether Article III permits Congress, through §27A(b), to require reinstatement of a completed federal limitations dismissal remains undecided by this Court, and Robertson v. Seattle Audubon Society's reservation of the final-judgment question remains open. Nothing is decided on §27A(a), due process, general severability, fraud, liability, damages or entitlement to judgment on the securities merits. No earlier decision is applied, extended, distinguished or overruled; Klein, McCullough, Wheeling Bridge, Sioux Nation, Lampf, Beam, Harper, Landgraf, Rivers and Chase Securities retain their existing force.
-
-**Later-authority backlinks:** Plaut v. Spendthrift Farm, Inc., decided April 18, 1995, decides the Article III question left undecided here as one of first impression: Congress may not, solely by changing the law previously applicable to a completed private action, require an Article III court to vacate a final judgment and reinstate the same litigation, and §27A(b) is unconstitutional to that extent.
 
 ### Military judicial appointments and impartiality
 

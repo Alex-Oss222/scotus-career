@@ -12910,8 +12910,6 @@ Authority: [Record](../records/Plaut_v_Spendthrift_Farm_Inc_merits_1995-04-18.md
 
 #### Holdings
 
-The statute's narrow coverage and exclusively retrospective operation require attention, but do not make it an individualized legislative judgment. It reaches every action satisfying objective conditions concerning commencement, dismissal, governing limitations law, and the time for seeking relief. It does not identify parties for an award or assessment of liability. A closed temporal class is still a class defined by law. Congress has directed no finding of deception, reliance, causation, or damages. Independent judicial determination remains both at the eligibility stage and on the merits. Mandatory reinstatement after eligibility is established is the consequence of the new legal rule, not a legislative finding that the plaintiffs prevail on their claims.
-
 **Limits and questions not reached:** The Court does not decide §27A(a), the application of §27A(b) to litigation still pending on direct review, any due-process question, or severability beyond withholding this application. It does not hold that every statute affecting a final judgment is invalid, decide every form of later judicial reopening, or address the Government's waiver of its own defenses. Fraud, reliance, causation, liability, damages, and ordinary merits defenses are not adjudicated; the affirmance establishes none of them.
 
 **Precedent treatment:**
@@ -15276,7 +15274,7 @@ The Tenth Circuit's judgment is reversed and the case remanded for further proce
 
 Authority: [Record](../records/Plaut_v_Spendthrift_Farm_Inc_merits_1995-04-18.md#public-projection).
 
-The dissent's completed-private-judgment principle is noncontrolling. No additional separate writing, roster change, circuit allotment, or institutional practice is announced. No external follow-on event is established.
+Breyer's closed-class ground and the dissent's statutory-entitlement position are noncontrolling. No additional separate writing, roster change, circuit allotment, or institutional practice is announced. No external follow-on event is established.
 
 ### Shalala v. Whitecotton, No. 94-372. — 1995-04-18
 

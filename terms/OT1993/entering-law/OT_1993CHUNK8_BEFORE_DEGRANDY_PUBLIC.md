@@ -4507,13 +4507,13 @@ The Fifth Circuit's judgment is affirmed by an equally divided Court, 4–4. The
 
 ## Judgment & Remedy
 
-**Affirmed, 5–3.**
+**Affirmed by an equally divided Court, 4–4.**
 
-**Supporting:** Stone-Zsela, Blackmun, Stevens, Souter and Ginsburg.
-**Opposing:** Scalia, Kennedy and Thomas.
+**Supporting:** Blackmun, Stevens, Souter and Ginsburg.
+**Opposing:** Stone-Zsela, Scalia, Kennedy and Thomas.
 **Not participating:** O'Connor.
 
-The Fifth Circuit's judgment sustaining the reinstatement procedure is affirmed. Proceedings may continue under §27A(b). The federal court must determine the statutory prerequisites and reinstate the action when they are proved; it has no discretion to deny reinstatement through a balancing test. The securities claims, defenses and remedies remain for ordinary judicial adjudication. No fraud finding, liability judgment or damages award is entered.
+Five votes were required for a disposition other than affirmance. The Fifth Circuit's judgment reversing the district court's refusal to reinstate Pacific Mutual's action and remanding under §27A(b) stands between the parties. The affirmance establishes no precedent on the Article III question. Nothing is decided on §27A(a), due process, fraud, liability or damages; no fraud finding, liability judgment or damages award is entered.
 
 ## Opinion Topology
 
@@ -4521,7 +4521,7 @@ No opinion issues. The judgment is unsigned; it states the equal division and th
 
 ## Holdings
 
-### Bounded statutory reinstatement of completed securities limitations dismissals
+### Constitutional power to require reinstatement under §27A(b)
 
 **Judgment without controlling rationale:** The Fifth Circuit's judgment is affirmed by an equally divided Court, 4–4; O'Connor does not participate. No opinion issues, no proposition commands a majority and no rationale controls. The affirmance establishes no precedent on whether Article III permits §27A(b) to require reinstatement of a final, unappealed federal dismissal; it binds only the parties to this case.
 
@@ -4533,17 +4533,15 @@ No earlier decision is applied, extended, distinguished or overruled. Robertson 
 
 No Supreme Court rule results. Whether Article III permits Congress, through §27A(b), to require reinstatement of a completed federal limitations dismissal remains undecided by this Court. Between these parties the Fifth Circuit's reinstatement judgment stands.
 
-Subsection (a) separately prescribes the jurisdiction's June 19, 1991 limitations law, including retroactivity principles, for the specified private actions commenced on or before that date. The holding concerns subsection (b), not an independent reopening power under subsection (a). Finality remains a protection of judicial independence, subject to the bounded statutory entitlement sustained here. No general constitutional permission for retrospective legislation, compelled reopening of merits judgments or individualized legislative determination of liability follows.
+Subsection (a) separately prescribes the jurisdiction's June 19, 1991 limitations law, including retroactivity principles, for the specified private actions commenced on or before that date. Nothing is decided under subsection (a), and nothing is decided on due process, fraud, liability or damages.
 
 ## Separate Writings
 
-Scalia dissents, joined by Kennedy and Thomas. A dismissal with prejudice that has become final without appeal is a completed exercise of judicial power even when it rests on limitations rather than a finding about fraud. Congress may change the law governing pending litigation, but requiring a court to reopen this concluded case withdraws the conclusiveness of its judgment. Leaving the underlying securities issues for judicial determination does not answer that objection: the judicial act already completed is the dismissal itself.
-
-The dissent reads McCullough's protection of completed adjudication and Klein's protection of the judicial function as limits on the mandatory reopening command. Robertson's changed-law rule addresses pending litigation; Harper's direct-review rule does not reach ended cases. Wheeling Bridge concerns continuing prospective relief, and Sioux Nation concerns the Government's own defense. Neither establishes power to withdraw the effect of this private final judgment. A general class and an express temporal command do not remove the constitutional objection. The dissent would reverse the Fifth Circuit and require denial of Pacific Mutual's §27A(b) reinstatement motion, without deciding §27A(a), due process or the securities merits. This position does not control.
+None.
 
 ## Procedure After Action
 
-The Fifth Circuit's judgment sustaining the reinstatement procedure is affirmed. Proceedings may continue under §27A(b). The federal court must determine the statutory prerequisites and reinstate the action when they are proved; it has no discretion to deny reinstatement through a balancing test. The securities claims, defenses and remedies remain for ordinary judicial adjudication. No fraud finding, liability judgment or damages award is entered.
+Supreme Court review is complete. The Fifth Circuit's judgment reversing the denial of reinstatement and remanding under §27A(b) stands between the parties, and proceedings continue under it. The securities claims, defenses and remedies remain for ordinary judicial adjudication. No fraud finding, liability judgment or damages award is entered.
 
 ## Source Notes
 

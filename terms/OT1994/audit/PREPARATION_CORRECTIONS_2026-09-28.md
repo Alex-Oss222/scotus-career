@@ -71,7 +71,7 @@ The seven named matters were checked in the final Holdings and Standards and Tes
 | 39 | Swanner v. Anchorage Equal Rights Commission + | Verified. Lukumi and the enacted RFRA inquiry remain distinct; Kiryas Joel’s public-power allocation does not resolve this landlord exemption claim. |
 | 40 | Qualitex Co. v. Jacobson Products Co. | Verified. Two Pesos remains operative; the OT1993 copyright decisions do not decide color as a trademark. |
 | 41 | Oklahoma Tax Commission v. Jefferson Lines, Inc. | Verified. Lohman’s matched local comparison is already properly stated; other OT1993 commerce decisions do not establish bus-tax facts or replace the apportionment inquiry. |
-| 42 | Plaut v. Spendthrift Farm, Inc. | **Corrected.** Added Morgan Stanley’s controlling §27A(b) final-judgment rule and corrected Stone’s source basis without changing the proposed broader holding. |
+| 42 | Plaut v. Spendthrift Farm, Inc. | **Corrected.** Added Morgan Stanley’s equally divided affirmance, which sets no §27A(b) final-judgment rule, and corrected Stone’s source basis without changing the proposed broader holding. |
 | 43 | Shalala v. Whitecotton | Verified. Daubert and the Vaccine Act’s own burdens remain distinct; Greenwich Collieries does not automatically transplant the APA allocation to this statutory vaccine inquiry. |
 | 44 | Freightliner Corp. v. Myrick | Verified. Easterwood, Cipollone and Gade retain their actual preemption limits; Hawaiian Airlines does not determine this separate federal safety-statute question. |
 | 45 | Heintz v. Jenkins | Verified. No OT1993 holding decides the FDCPA lawyer-coverage question. |

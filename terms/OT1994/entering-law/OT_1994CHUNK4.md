@@ -113,22 +113,6 @@ Derived reading copy only. The cited state files and effective current-term Reco
 
 **Holdings navigation:** [General income taxes do not establish a compensatory disposal tax](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#general-income-taxes-do-not-establish-a-compensatory-disposal-tax); [The compensating burden must exist in the affected locality](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-compensating-burden-must-exist-in-the-affected-locality); [Relief must address the established inequality through lawful state procedures](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#relief-must-address-the-established-inequality-through-lawful-state-procedures).
 
-## Standards and Tests selection: Congressional reopening
-
-### Congressional reopening of completed private federal judgments
-
-**Governing question:** Whether Congress may, by changing the law previously applicable to a completed private action, require an Article III court to vacate its final judgment and reinstate the same litigation.
-
-**Current rule:** Article III protects the conclusive disposition of a private case by a federal court once its judgment has become final through the ordinary judicial process. Congress may amend substantive or procedural law, change the law while a case remains pending, expressly make a new limitations rule applicable to pending cases subject to other constitutional limits, change the law governing the future operation of an injunction within the applicable remedial framework, and authorize judicial relief through constitutionally permissible procedures, including reopening on valid Rule 60(b) grounds. It may not, solely by changing the law previously applicable to a completed private action, require an Article III court to vacate that final judgment and reinstate the same litigation. Finality does not disappear because Congress leaves eligibility and the underlying merits to later independent judicial determination: the judicial act set aside is the completed judgment itself, and an objectively defined class with retained adjudication answers only the separate objection that Congress selected parties for liability. Section 27A(b) is unconstitutional to that extent and cannot require a court to reinstate an action whose private judgment had become final through the ordinary judicial process. Congress may not in any case require judges to adopt particular factual findings or impose predetermined liability.
-
-**Authority by component:**
-
-- Final private judgment and the limited reinstatement command: [Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co — Bounded statutory reinstatement of completed securities limitations dismissals](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Morgan_Stanley_v_Pacific_Mutual_merits_1994-05-23.md#public-projection), 1994-05-23. Chief Justice Stone-Zsela's Opinion of the Court is joined in full by Blackmun, Stevens, Souter and Ginsburg. These five direct joins control the rule, explanation, qualifications and remedy; no combination of separate rationales is necessary.
-
-**Present operation effective:** Plaut v. Spendthrift Farm, Inc., April 18, 1995.
-
-**Holdings navigation:** [Bounded statutory reinstatement of completed securities limitations dismissals](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#bounded-statutory-reinstatement-of-completed-securities-limitations-dismissals).
-
 ## Standards and Tests selection: Statutory temporal reach
 
 ### Statutory temporal reach and new consequences for completed conduct
@@ -464,7 +448,7 @@ Source: `state/holdings/constitutional-structure.md`, heading containing `Robert
 - TVA v. Hill, 437 U.S. 153 — distinguished: the amendment here is express rather than an inferred repeal.
 - NLRB v. Jones & Laughlin Steel Corp., 301 U.S. 1 — preserved: a possible constitutionally valid construction reinforces, but does not replace, the enacted meaning.
 
-**Later-authority backlinks:** [Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., 511 U.S. 658](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Morgan_Stanley_v_Pacific_Mutual_merits_1994-05-23.md), No. 93-609, decided May 23, 1994: resolves the reserved final-judgment question only for §27A(b)'s compelled reopening of the completed private dismissal. Robertson's pending-litigation holding remains unchanged.
+**Later-authority backlinks:** [Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., 511 U.S. 658](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Morgan_Stanley_v_Pacific_Mutual_merits_1994-05-23.md), No. 93-609, decided May 23, 1994, and affirmed by an equally divided Court without opinion, establishes no precedent and leaves open the final-judgment question expressly reserved in Robertson. Robertson's original pending-litigation holding remains unchanged.
 
 Source: `state/holdings/constitutional-structure.md`, heading containing `Gade`.
 
@@ -765,8 +749,6 @@ Source: `state/holdings/constitutional-structure.md`, heading containing `Morgan
 **Operative remedy:** The Fifth Circuit's judgment reversing the denial of reinstatement and remanding under §27A(b) stands between the parties, and proceedings continue under it. The securities claims, defenses and remedies remain for ordinary judicial adjudication. No fraud finding, liability judgment or damages award is entered.
 
 **Limits and questions not reached:** The affirmance decides only this case. Whether Article III permits Congress, through §27A(b), to require reinstatement of a completed federal limitations dismissal remains undecided by this Court, and Robertson v. Seattle Audubon Society's reservation of the final-judgment question remains open. Nothing is decided on §27A(a), due process, general severability, fraud, liability, damages or entitlement to judgment on the securities merits. No earlier decision is applied, extended, distinguished or overruled; Klein, McCullough, Wheeling Bridge, Sioux Nation, Lampf, Beam, Harper, Landgraf, Rivers and Chase Securities retain their existing force.
-
-**Later-authority backlinks:** Plaut v. Spendthrift Farm, Inc., decided April 18, 1995, decides the Article III question left undecided here as one of first impression: Congress may not, solely by changing the law previously applicable to a completed private action, require an Article III court to vacate a final judgment and reinstate the same litigation, and §27A(b) is unconstitutional to that extent.
 
 Source: `state/holdings/election-law.md`, heading containing `Norman v. Reed`.
 

@@ -7070,20 +7070,6 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 **Holdings navigation:** [Preserving a substantial question for further review is not itself frivolous](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#preserving-a-substantial-question-for-further-review-is-not-itself-frivolous); [Sanction relief leaves the underlying employment disposition undisturbed](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#sanction-relief-leaves-the-underlying-employment-disposition-undisturbed).
 
-### Congressional reopening of completed private federal judgments
-
-**Governing question:** Whether Congress may, by changing the law previously applicable to a completed private action, require an Article III court to vacate its final judgment and reinstate the same litigation.
-
-**Current rule:** Article III protects the conclusive disposition of a private case by a federal court once its judgment has become final through the ordinary judicial process. Congress may amend substantive or procedural law, change the law while a case remains pending, expressly make a new limitations rule applicable to pending cases subject to other constitutional limits, change the law governing the future operation of an injunction within the applicable remedial framework, and authorize judicial relief through constitutionally permissible procedures, including reopening on valid Rule 60(b) grounds. It may not, solely by changing the law previously applicable to a completed private action, require an Article III court to vacate that final judgment and reinstate the same litigation. Finality does not disappear because Congress leaves eligibility and the underlying merits to later independent judicial determination: the judicial act set aside is the completed judgment itself, and an objectively defined class with retained adjudication answers only the separate objection that Congress selected parties for liability. Section 27A(b) is unconstitutional to that extent and cannot require a court to reinstate an action whose private judgment had become final through the ordinary judicial process. Congress may not in any case require judges to adopt particular factual findings or impose predetermined liability.
-
-**Authority by component:**
-
-- Final private judgment and the limited reinstatement command: [Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co — Bounded statutory reinstatement of completed securities limitations dismissals](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Morgan_Stanley_v_Pacific_Mutual_merits_1994-05-23.md#public-projection), 1994-05-23. Chief Justice Stone-Zsela's Opinion of the Court is joined in full by Blackmun, Stevens, Souter and Ginsburg. These five direct joins control the rule, explanation, qualifications and remedy; no combination of separate rationales is necessary.
-
-**Present operation effective:** Plaut v. Spendthrift Farm, Inc., April 18, 1995.
-
-**Holdings navigation:** [Bounded statutory reinstatement of completed securities limitations dismissals](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#bounded-statutory-reinstatement-of-completed-securities-limitations-dismissals).
-
 ### Private settlement rights and collateral-order appeals
 
 **Governing question:** Whether rejection of a private settlement defense permits an immediate collateral-order appeal.

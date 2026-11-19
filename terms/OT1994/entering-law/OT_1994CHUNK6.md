@@ -4839,7 +4839,7 @@ For the other questions in Livadas v. Bradshaw, 1994-06-13, No. 92-1920, see Lab
 - TVA v. Hill, 437 U.S. 153 — distinguished: the amendment here is express rather than an inferred repeal.
 - NLRB v. Jones & Laughlin Steel Corp., 301 U.S. 1 — preserved: a possible constitutionally valid construction reinforces, but does not replace, the enacted meaning.
 
-**Later-authority backlinks:** [Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., 511 U.S. 658](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Morgan_Stanley_v_Pacific_Mutual_merits_1994-05-23.md), No. 93-609, decided May 23, 1994: resolves the reserved final-judgment question only for §27A(b)'s compelled reopening of the completed private dismissal. Robertson's pending-litigation holding remains unchanged.
+**Later-authority backlinks:** [Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., 511 U.S. 658](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Morgan_Stanley_v_Pacific_Mutual_merits_1994-05-23.md), No. 93-609, decided May 23, 1994, and affirmed by an equally divided Court without opinion, establishes no precedent and leaves open the final-judgment question expressly reserved in Robertson. [Plaut v. Spendthrift Farm, Inc.](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Plaut_v_Spendthrift_Farm_Inc_merits_1995-04-18.md), No. 93-1121, decided April 18, 1995, answers that question for completed private judgments: Article III protects the conclusive disposition of a private case once its judgment has become final through the ordinary judicial process, and Congress may not, solely by changing the law previously applicable to a completed private action, require an Article III court to vacate that final judgment and reinstate the same litigation. Robertson's original pending-litigation holding remains unchanged.
 
 ### Federal and state submerged-land boundaries
 
@@ -12763,11 +12763,11 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 **Authority by component:**
 
-- Final private judgment and the limited reinstatement command: [Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co — Bounded statutory reinstatement of completed securities limitations dismissals](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Morgan_Stanley_v_Pacific_Mutual_merits_1994-05-23.md#public-projection), 1994-05-23. Chief Justice Stone-Zsela's Opinion of the Court is joined in full by Blackmun, Stevens, Souter and Ginsburg. These five direct joins control the rule, explanation, qualifications and remedy; no combination of separate rationales is necessary.
+- Article III finality rule, its qualifications, its application to a final unappealed limitations dismissal and the extent of §27A(b)'s invalidity: [Plaut v. Spendthrift Farm, Inc. — Congress may not, solely by changing the applicable law, require an Article III court to reopen a final private judgment](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Plaut_v_Spendthrift_Farm_Inc_merits_1995-04-18.md#public-projection), April 18, 1995. Chief Justice Stone-Zsela's Opinion of the Court, joined in full by O'Connor, Scalia, Kennedy, and Thomas; those five direct rationale joins control every proposition, qualification, and limit. Breyer concurs only in the judgment, on his closed-class ground, and joins no proposition; Stevens, Souter, and Ginsburg dissent.
 
 **Present operation effective:** Plaut v. Spendthrift Farm, Inc., April 18, 1995.
 
-**Holdings navigation:** [Bounded statutory reinstatement of completed securities limitations dismissals](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#bounded-statutory-reinstatement-of-completed-securities-limitations-dismissals).
+**Holdings navigation:** [Congress may not, solely by changing the applicable law, require an Article III court to reopen a final private judgment](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#congress-may-not-solely-by-changing-the-applicable-law-require-an-article-iii-court-to-reopen-a-final-private-judgment).
 
 ### Private settlement rights and collateral-order appeals
 

@@ -133,7 +133,7 @@ Source: state/STANDARDS_AND_TESTS.md
 
 **Holdings navigation:** Postdismissal contract enforcement requires a jurisdictional basis; A lawful dismissal order may make settlement compliance enforceable.
 
-**Related current rules:** Congressional reopening of completed private federal judgments concerns a distinct statutory source for reinstatement under §27A(b). Morgan Stanley and Plaut separately sustain its constitutionality; the existence of a statutory source alone does not validate every reopening command.
+**Related current rules:** Congressional reopening of completed private federal judgments governs the distinct legislative command to reinstate under §27A(b); the existence of a statutory source of post-dismissal authority cannot validate such a command.
 
 Source: state/STANDARDS_AND_TESTS.md
 
