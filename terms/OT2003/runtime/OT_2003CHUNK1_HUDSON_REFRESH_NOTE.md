@@ -16,7 +16,7 @@ If the Government relies on voluntary participation, its asserted choice must be
 
 ## Lomont and the individual public authorities
 
-Lomont's unanimous Scalia opinion distinguishes an officer's own concrete injury from unauthorized representation, and establishes genuine voluntariness for applicant certification with unconditional refusal and no federal penalty, compulsory investigation or substitute work. It preserves direct own-activity regulation, bounded compulsory assistance, actual statutory delegation and the absence of a majority Printz reimbursement rationale.
+Lomont's unanimous Scalia opinion distinguishes an officer's own concrete injury from unauthorized representation, and establishes genuine voluntariness for applicant certification with unconditional refusal and no federal penalty, compulsory investigation or substitute work. It preserves direct own-activity regulation, Printz's rule against compelled state executive administration, actual statutory delegation and the absence of any Printz compensation rule.
 
 Hudson's plaintiff is the information requester; Lomont and EDC's official-injury holdings do not themselves establish that requester's standing or a new municipal-speech question. Their own-operation and actual-choice reasoning may inform the structural defense only at its proper scope. An unconditional option to decline future applicant assistance does not create a right to disclose protected information already received in a valid federal custody relationship. The saved notice's statement that providers may take steps to terminate their relationship is an agency assertion in the record, not permission to infer particular termination terms, immediate release obligations or the fate of retained records.
 

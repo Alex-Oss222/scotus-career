@@ -278,13 +278,13 @@ Vacate and remand if the lower courts applied the wrong class and did not resolv
 * **Existing Rule's Reach:** A concrete official work obligation can support standing. The merits inquiry into whether an asserted obligation legally exists must remain separate from a categorical rule excluding official plaintiffs.
 * **Open Point:** Whether the pleaded official burdens and requested relief establish the necessary case in this voluntary-certification setting.
 
-### Issue 2: Voluntary cooperation and limited compulsory assistance
+### Issue 2: Voluntary cooperation and compelled executive administration
 
-* **Controlling Law:** Printz v. United States permits bounded temporary records assistance required by statute, within a proper federal function, while retaining federal policy and coercive enforcement. Its fiscal remand had no majority reimbursement rationale. New York v. United States rejects compulsory state legislation. Neither makes optional cooperation a forbidden command.
-* **Current Reusable Doctrine:** Identify an actual duty or federal adverse consequence for refusal. Genuine voluntary assistance differs from limited compulsory records work and from an operational takeover or compelled new investigation. Fiscal responsibility is not resolved by the fractured Printz mandate.
+* **Controlling Law:** Printz v. United States holds that Congress may not command unwilling state executive officers to perform investigative, screening or enforcement duties as administrators of a federal regulatory program directed at private persons; the defect is compulsory assignment of executive responsibility, not hours or the absence of reimbursement, and voluntary cooperation remains available. New York v. United States rejects compulsory state legislation. Neither makes optional cooperation a forbidden command.
+* **Current Reusable Doctrine:** Identify an actual duty or federal adverse consequence for refusal. Genuine voluntary assistance differs from compelled investigation, screening, enforcement or other administration of a federal program. Printz creates no compensation rule.
 * **Other Governing Law:** Tenth Amendment; National Firearms Act and the historical certification regulations. The regulation’s demand on an applicant is not necessarily a command to a local officer.
 * **Material Other Authority:** Reno v. Condon concerns direct regulation of a State’s own activity, a separate category from assisting federal administration. It supplies no automatic command to certify private applications.
-* **Existing Rule's Reach:** Entering law supplies bounded compulsory-assistance and anti-command rules. It does not supply a six-part mandatory compensation holding or permit an agency to enlarge statutory authority through an optional arrangement.
+* **Existing Rule's Reach:** Entering law supplies anti-command rules for compelled legislation and compelled executive administration. It does not supply a mandatory compensation holding or permit an agency to enlarge statutory authority through an optional arrangement.
 * **Open Point:** Whether legal freedom to refuse makes this cooperation voluntary despite constituent pressure; no compulsory reimbursement claim is presented on this record.
 
 ## C. DECISION-MATERIAL LITIGATION POSITIONS
@@ -295,8 +295,8 @@ The officials argue that federal reliance on their offices and applicants’ pre
 
 Recognize official standing and affirm if the unconditional refusal option defeats the commandeering claim. Reverse or remand if an actual federal penalty, mandatory duty, or materially different practice is proved. Dismiss only if the asserted injury and relief fail Article III independently of an adverse merits answer. No path on this record requires a binding compensation rule for a different mandatory scheme.
 
-* **Plausible Holding Scope:** The standing holding can cover concrete official-injury suits without state authorization. The merits holding can govern optional certification while distinguishing actual compulsory records assistance and forbidden conscription, without adjudicating a hypothetical fiscal obligation.
-* **Record and Legal Uncertainty:** Printz establishes no majority reimbursement rationale. This optional-certification record presents no compulsory assistance or cost claim.
+* **Plausible Holding Scope:** The standing holding can cover concrete official-injury suits without state authorization. The merits holding can govern optional certification while distinguishing the compelled executive administration Printz forbids, without adjudicating a hypothetical fiscal obligation.
+* **Record and Legal Uncertainty:** Printz establishes no compensation rule. This optional-certification record presents no compulsory assistance or cost claim.
 
 ## E. SOURCES
 
@@ -333,7 +333,7 @@ Recognize official standing and affirm if the unconditional refusal option defea
 
 ### Issue 1: Own operations and an operative alternative
 
-* **Controlling Law:** Reno v. Condon permits direct regulation of a State’s own covered activity, rather than compelled regulation of its citizens. New York v. United States prohibits legislative conscription. Printz v. United States permits bounded statutory assistance and leaves its fractured fiscal question unresolved; no compensation holding applies automatically to a municipality’s own compliance costs.
+* **Controlling Law:** Reno v. Condon permits direct regulation of a State’s own covered activity, rather than compelled regulation of its citizens. New York v. United States prohibits legislative conscription. Printz v. United States forbids commanding unwilling state executive officers to administer a federal regulatory program directed at private persons; the defect is compulsory assignment of executive responsibility, not hours or the absence of reimbursement, and it creates no compensation rule applicable to a municipality’s own compliance costs.
 * **Current Reusable Doctrine:** Identify the regulated activity, the actual actor owing compliance, and the lawful alternative to administering third-party controls. A fallback must operate in practice; ordinary costs of valid direct regulation do not become reimbursable assistance merely because the regulated operator is governmental.
 * **Other Governing Law:** Clean Water Act §§301 and 402, including 33 U.S.C. §1342(p); 40 C.F.R. §§122.33(b)(2)(ii), 122.34 and 122.26(d), as then effective. Section 122.26(d) supplies application requirements, not a guarantee of particular final permit terms. EPA retains federal permitting responsibility where a State declines administration.
 * **Material Other Authority:** The alternative permit experience discussed in City of Abilene v. United States Environmental Protection Agency is a record-based illustration, not adopted precedent or proof of every future permit’s validity.
@@ -358,7 +358,7 @@ Municipalities argue that EPA compels ordinances, policing and messages without 
 Affirm the challenged constitutional rulings if a lawful direct-discharge route genuinely remains available and the information requirement stays within the justified operational function. Reverse or remand a demonstrated illusory alternative or compelled ideological message. Preserve the separate general-permit remands; no blanket declaration that every part of the rule is valid follows.
 
 * **Plausible Holding Scope:** The federalism rule can govern municipal own-operation regulation with an operative alternative to third-party administration. The speech rule can cover factual pollution information without authorizing prescribed ideology or assuming all government-associated speakers lack protection.
-* **Record and Legal Uncertainty:** Printz's fractured fiscal disposition establishes no compensation entitlement. Particular later permit terms require their own record.
+* **Record and Legal Uncertainty:** Printz establishes no compensation rule. Particular later permit terms require their own record.
 
 ## E. SOURCES
 
@@ -395,7 +395,7 @@ Affirm the challenged constitutional rulings if a lawful direct-discharge route 
 
 ### Issue 1: Delegated preemption and voluntary custody
 
-* **Controlling Law:** Reno v. Condon allows regulation of a State’s own covered activity without compelling it to regulate others. Printz v. United States distinguishes constitutionally permitted assistance from compelled administration; it does not prohibit genuine voluntary cooperation.
+* **Controlling Law:** Reno v. Condon allows regulation of a State’s own covered activity without compelling it to regulate others. Printz v. United States forbids commanding unwilling state executive officers to administer a federal regulatory program directed at private persons; it does not prohibit genuine voluntary cooperation.
 * **Current Reusable Doctrine:** Identify statutory authority first, then the regulated activity and any actual federal command. Federal supremacy attaches only to valid federal law. Compliance expense alone does not convert regulation of voluntary operations into commandeering.
 * **Other Governing Law:** 8 U.S.C. §1103(a); 8 C.F.R. §236.6; APA §553; Supremacy Clause; Tenth Amendment; the then-effective Right-to-Know Law, N.J.S.A. 47:1A-1 to -4, and Jailkeeper's Law, N.J.S.A. 30:8-16. The later OPRA amendments were not effective when the appellate judgment issued.
 * **Material Other Authority:** The rulemaking record and published good-cause statement must support the APA exception; litigation urgency is evidence to evaluate, not an automatic waiver.

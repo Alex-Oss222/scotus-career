@@ -33,7 +33,7 @@ Patrolmen's, April 23, 2003, confirms the unchanged common standard, the governm
 
 **Standing, causation, and statutes.** Peña and Northeastern Florida distinguish unequal competition from entitlement to a seat. Concrete future exposure remains separately necessary for prospective relief; a class label does not create a missing personal injury. Slater's cessation rule preserves genuinely continuing injury without relaxing initial standing or stage-appropriate proof. After an unconstitutional admissions process is established, Hopwood and Lesage put the specified-lawful-counterfactual same-decision defense on the school by a preponderance. Successful defense limits relief for lost admission and its consequences, without erasing process injury. Failure of that defense does not automatically award admission or damages. Actual loss, cause of action, proper defendant, immunity, and equitable requirements remain distinct.
 
-Hopwood's deliberate-treatment rule addresses Title VI intent without deciding every statutory remedial element. Sandoval's April 24, 2001 prospective route under valid section 602 requirements does not convert demographic disparities into a pleaded regulatory violation or a damages entitlement. Section 601, section 602, section 1981, and section 1983 must retain their distinct elements and defendants. The comparative constitutional fit inquiry does not by itself dispose of every requested statutory remedy.
+Hopwood's deliberate-treatment rule addresses Title VI intent without deciding every statutory remedial element. Sandoval (April 24, 2001) holds that no private action enforces section 602 disparate-impact regulations, so demographic disparities supply no pleaded regulatory violation or damages entitlement. Section 601, section 1981, and section 1983 must retain their distinct elements and defendants. The comparative constitutional fit inquiry does not by itself dispose of every requested statutory remedy.
 
 ## Case-specific validation and live paths
 
@@ -251,7 +251,7 @@ United States merits brief, Sell v. United States, No. 02-5664, Question Present
 
 * **Open Point:** Whether this automatic, heavily weighted racial award is sufficiently connected to concrete educational benefits and justified despite practical individualized alternatives.
 
-**Statutory distinction:** Alexander v. Sandoval (April 24, 2001) preserves section 601’s intent requirement and separately permits prospective enforcement of valid, sufficiently definite section 602 requirements. These admissions claims challenge express intentional racial treatment; no separate regulatory-effects violation is supplied by demographic disparity alone.
+**Statutory distinction:** Alexander v. Sandoval (April 24, 2001) preserves section 601’s intent requirement and holds that Congress has not authorized a private action to enforce section 602 disparate-impact regulations where the conduct does not violate section 601. These admissions claims challenge express intentional racial treatment governed by section 601 and equal protection; no section 602 effects claim is available or pleaded, and demographic disparity alone supplies no regulatory-effects violation.
 
 #### C. DECISION-MATERIAL LITIGATION POSITIONS
 
@@ -353,7 +353,7 @@ United States amicus merits brief, Gratz v. Bollinger, No. 02-516, Question Pres
 
 * **Open Point:** Whether any present defect requires invalidation, limited remand, or a record-specific affirmance without fixing a constitutional expiration date.
 
-**Statutory distinction:** Alexander v. Sandoval (April 24, 2001) preserves section 601 intentional-treatment liability while recognizing a separate prospective route for valid section 602 requirements. A voluntary admissions program’s constitutional justification and an actually pleaded statutory violation remain distinct inquiries; no unasserted effects claim is manufactured.
+**Statutory distinction:** Alexander v. Sandoval (April 24, 2001) preserves section 601 intentional-treatment liability while holding that Congress has not authorized a private action to enforce section 602 disparate-impact regulations where the conduct does not violate section 601. A voluntary admissions program’s constitutional justification and an actually pleaded statutory violation remain distinct inquiries; no section 602 effects claim is available or pleaded.
 
 #### C. DECISION-MATERIAL LITIGATION POSITIONS
 

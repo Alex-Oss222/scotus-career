@@ -470,7 +470,7 @@ DOJ argues that identities reveal investigative direction, permit coordination a
 
 * **Controlling Law:** Reno v. Condon permits regulation of States’ own covered activity without requiring them to legislate or enforce federal rules against unrelated parties. New York v. United States and Printz v. United States preserve the anti-commandeering limit at their adopted scope.
 
-* **Current Reusable Doctrine:** Distinguish compliance as a regulated operator from compelled government of third parties. Compliance expense is not alone commandeering; no unresolved fiscal-reimbursement position is converted into a holding.
+* **Current Reusable Doctrine:** Distinguish compliance as a regulated operator from compelled government of third parties. Compliance expense is not alone commandeering; Printz locates the defect in the compulsory assignment of executive responsibility, not in its cost or reimbursement.
 
 * **Other Governing Law:** Tenth Amendment and the Act’s application to public and private water suppliers.
 

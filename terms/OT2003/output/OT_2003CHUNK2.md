@@ -1293,7 +1293,7 @@ The strongest contrary argument invokes an off-year state expenditure, local cam
 
 **Authority:** O'Connor's portion of the Court's opinion, adopted by all eight Associate Justices, controls at the stated scope. Stone-Zsela agrees in the disposition only.
 
-**Controlling explanation:** New York and Condon distinguish source-supported direct regulation from compulsory state government of others. The differing Printz positions addressed imposed state administration; this private-finance arrangement does not require sustaining such an administrative command. Voting Rights Coalition separately recognizes election-specific authority while preserving state qualifications.
+**Controlling explanation:** New York and Condon distinguish source-supported direct regulation from compulsory state government of others. Printz forbids compelled state executive administration of federal regulation of private persons; this private-finance arrangement imposes no such administrative command. Voting Rights Coalition separately recognizes election-specific authority while preserving state qualifications.
 
 The contrary theory treats state campaign finance as categorically immune because it concerns state self-government. That interest does not remove an actual federal-election or federal-official financing connection. State permission to give more cannot defeat an otherwise valid federal restraint; supremacy follows after, not before, constitutional validity is established. The Court therefore rejects the wholesale structural injunction while preserving each separate speech remedy.
 
@@ -1543,7 +1543,7 @@ These distinctions supply no institutional press supremacy.
 
 - **New York:** Retains the direct-regulation/compulsory-government distinction.
 - **Condon:** Retains the direct-regulation/compulsory-government distinction.
-- **Printz:** Neither its actual holding nor its structural separate position is enlarged to prohibit this different arrangement.
+- **Printz:** Its actual holding against compelled state executive administration is not enlarged to prohibit this different arrangement.
 - **Voting Rights Coalition:** Preserves state qualifications and the source-specific election rule.
 
 **Surviving party classifications and the racial-impact alternative:**

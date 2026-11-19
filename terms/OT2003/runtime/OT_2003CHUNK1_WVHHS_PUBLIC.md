@@ -41,7 +41,7 @@ GINSBURG, J., delivered the opinion of the Court, in which STONE-ZSELA, C. J., a
 
 **Controlling explanation:** Kansas applies the distinction between substantial inducement and practical compulsion to related federal funding. Estate recovery replenishes the same medical-assistance program from which the expenditures were made. The duty to seek recovery therefore differs from an independently imposed command that a State administer federal policy outside the funded program.
 
-New York distinguishes lawful monetary incentives from compulsory administration or assumption of private obligations. Printz concerns actual compelled executive assistance and does not categorically prohibit duties within genuine conditional funding. These distinctions require examination of the real arrangement rather than acceptance of a voluntary-program label.
+New York distinguishes lawful monetary incentives from compulsory administration or assumption of private obligations. Printz forbids commanding unwilling state executive officers to administer a federal regulatory program and does not reach duties accepted within genuine conditional funding. These distinctions require examination of the real arrangement rather than acceptance of a voluntary-program label.
 
 The condition is the enacted obligation with its survivor, hardship, service and estate limits. A requirement to seek recovery is not a finding that an estate contains recoverable assets or that a particular recovery succeeds. Nor can beneficiary protections substitute for examining the pressure imposed on the State by threatened funding loss. Kansas requires those inquiries to remain separate.
 
@@ -73,7 +73,7 @@ The strongest contrary argument is that a credible threat to end an established 
 - **South Dakota v. Dole:** Its distinction between inducement and coercion, with general-welfare, notice, relatedness and independent constitutional requirements, is applied through Kansas. Its five-percent setting supplies no numerical safe harbor.
 - **Steward Machine Co. v. Davis:** Its distinction between financial pressure and compulsion is applied without treating every expensive choice as voluntary by definition.
 - **New York v. United States (June 19, 1992):** Its monetary-incentive holding is applied and its compulsory-administration and ownership/liability setting distinguished.
-- **Printz v. United States / Mack v. United States (June 27, 1997):** Its actual compelled-assistance setting is distinguished from conditional program participation; its source-and-function limits and fractured fiscal disposition remain intact.
+- **Printz v. United States / Mack v. United States (June 27, 1997):** Its compelled-executive-administration setting is distinguished from conditional program participation, which it expressly preserves; its anti-commandeering holding remains intact.
 
 ## Law After Decision
 

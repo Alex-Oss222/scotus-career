@@ -446,7 +446,7 @@ Enforcement jurisdiction does not itself permit an injunction against state proc
 
 **Holdings navigation:** Postdismissal contract enforcement requires a jurisdictional basis; A lawful dismissal order may make settlement compliance enforceable.
 
-**Related current rules:** Congressional reopening of completed private federal judgments concerns a distinct statutory source for reinstatement under §27A(b). Morgan Stanley and Plaut separately sustain its constitutionality; the existence of a statutory source alone does not validate every reopening command.
+**Related current rules:** Congressional reopening of completed private federal judgments concerns Plaut's distinct Article III rule: Congress may not, solely by changing the law, require a federal court to vacate a private judgment that has become final through the ordinary judicial process and reinstate the same litigation, and §27A(b) is unconstitutional to that extent. Congress may still authorize judicial relief through permissible procedures such as Rule 60(b); Morgan Stanley, affirmed by an equally divided Court, sets no precedent.
 
 ### Military appellate writs and independently conferred jurisdiction
 

@@ -38,7 +38,7 @@ The review checks judgment and proposition coalitions against the frozen commitm
 
 These are formulation repairs under Engine section 8; none requests a judgment, join, holding or frozen-commitment change.
 
-1. Observed: Gratz Part III and Grutter Part III remove the unpleaded regulatory-effects disclaimer while preserving the actual intentional-treatment reasoning. Grutter Part III and both Sandoval precedent entries now retain only the material affirmative section 601 intentional-treatment point; the unrelated section 602-route discussion is absent from both Public Projections.
+1. Observed: Gratz Part III and Grutter Part III remove the unpleaded regulatory-effects disclaimer while preserving the actual intentional-treatment reasoning. Grutter Part III and both Sandoval precedent entries now retain only the material affirmative section 601 intentional-treatment point; the unrelated section 602 discussion is absent from both Public Projections.
 2. Observed: Gratz Part II removes the assertion that the judgment does not require another school's precise design. The actual-operation rule supplies the positive standard and retains the answer to the broader prohibition advanced by Scalia and Thomas.
 3. Observed: Grutter Part II and Law After Decision retain the positive continuing-justification condition and remove the unadvanced fixed-calendar contrast and hypothetical future-year discussion. The calendar limitation remains internal.
 4. Observed: Grutter Precedent Treatment removes the disclaimer concerning Powell's entire writing and the redundant Lesage statement that the rejected policy theories establish no violation requiring relief. Actual affirmative precedent treatment remains.

@@ -351,7 +351,7 @@ The strongest contrary argument invokes an off-year state expenditure, local cam
 
 **Authority:** O'Connor's portion of the Court's opinion; direct joins by Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer, including the author (8 Justices), controlling at the exact scope stated. Stone-Zsela agrees in the disposition only.
 
-**Controlling explanation:** New York and Condon distinguish source-supported direct regulation from compulsory state government of others. The differing Printz positions addressed imposed state administration; this private-finance arrangement does not require sustaining such an administrative command. Voting Rights Coalition separately recognizes election-specific authority while preserving state qualifications.
+**Controlling explanation:** New York and Condon distinguish source-supported direct regulation from compulsory state government of others. Printz forbids compelled state executive administration of federal regulation of private persons; this private-finance arrangement imposes no such administrative command. Voting Rights Coalition separately recognizes election-specific authority while preserving state qualifications.
 
 The contrary theory treats state campaign finance as categorically immune because it concerns state self-government. That interest does not remove an actual federal-election or federal-official financing connection. State permission to give more cannot defeat an otherwise valid federal restraint; supremacy follows after, not before, constitutional validity is established. The Court therefore rejects the wholesale structural injunction while preserving each separate speech remedy.
 
@@ -437,7 +437,7 @@ A clear category can still burden protected speech. The particular speech object
 
 **Affirmative federal election authority across the challenged Title I classes:** Voting Rights Coalition, Smiley, Siebold and Burroughs supply the election-specific sources. Thornton and Cook preserve qualifications and representative-structure limits. Lopez, Holston and Ho supply source discipline by analogy without creating an interstate-commerce element or an alternative commerce holding.
 
-**Reserved state electoral authority and direct private regulation:** New York and Condon retain their direct-regulation/compulsory-government distinction. Neither the actual Printz holding nor its structural separate position is enlarged to prohibit this different arrangement. Voting Rights Coalition preserves state qualifications and the source-specific election rule.
+**Reserved state electoral authority and direct private regulation:** New York and Condon retain their direct-regulation/compulsory-government distinction. The actual Printz holding against compelled state executive administration is not enlarged to prohibit this different arrangement. Voting Rights Coalition preserves state qualifications and the source-specific election rule.
 
 **Surviving party classifications and the racial-impact alternative:** Day, Lamb and the governing financing decisions preserve actual rather than label-based distinctions. Valeria's racial-classification, proxy or selective-barrier rule is applied; an animus-only substitute is rejected.
 
