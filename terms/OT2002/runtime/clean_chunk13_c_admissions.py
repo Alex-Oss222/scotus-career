@@ -3,7 +3,7 @@ from pathlib import Path
 base=Path(__file__).resolve().parent
 edits={
     'Gratz-v-Bollinger_merits_2003-06-23.md':{
-        ' Sandoval holds that no private action enforces §602 disparate-impact regulations; demographic differences in other criteria do not themselves establish a regulatory violation in this action.':'',
+        ' Under Sandoval a §602 effects claim proceeds only through the bounded prospective action recognized in Powell v. Ridge; demographic differences in other criteria do not themselves establish a regulatory violation in this action.':'',
         "The judgment neither requires another school's precise design nor treats all supported consideration of race as forbidden.":'Supported consideration of race remains available under the existing governing rule.'
     },
     'Grutter-v-Bollinger_merits_2003-06-23.md':{

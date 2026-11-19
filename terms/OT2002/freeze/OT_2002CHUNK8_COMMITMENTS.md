@@ -65,7 +65,7 @@ Coverage includes claims asserted under subsection (a) and other claims in the s
 
 | Justice | Commitment and own date-eligible support |
 |---|---|
-| Stevens | Reverse and join. His Florida Prepaid opinion and Alden join recognize incidental enforcement within enumerated powers. His Syngenta concurrence demands an actual source, which enacted §1367 supplies. |
+| Stevens | Reverse and join. His Florida Prepaid Part III join and Alden join recognize incidental enforcement within enumerated powers. His Syngenta concurrence demands an actual source, which enacted §1367 supplies. |
 | O'Connor | Reverse and join. Her New York opinion preserves state judicial duties; her Raygor join excludes an immune State claim outside subsection (a), unlike this county claim. This does not withdraw her Alden dissent. |
 | Scalia | Reverse and join. His New York and Raygor joins preserve the legislative-command/judicial-duty and State/covered-claim distinctions. The limited tolling rule implements existing jurisdiction; his Alden objection supplies no derivative county immunity. |
 | Kennedy | Reverse and join. His New York and Raygor joins support those distinctions. The rule leaves substantive law operative and relies neither on constructive State consent nor an uncovered claim. |

@@ -176,7 +176,7 @@ United States merits brief, Sell v. United States, No. 02-5664, Question Present
 
 * **Open Point:** Whether this automatic, heavily weighted racial award is sufficiently connected to concrete educational benefits and justified despite practical individualized alternatives.
 
-**Statutory distinction:** Alexander v. Sandoval (April 24, 2001) preserves section 601’s intent requirement and holds that Congress has not authorized a private action to enforce section 602 disparate-impact regulations where the conduct does not violate section 601. These admissions claims challenge express intentional racial treatment governed by section 601 and equal protection; no section 602 effects claim is available or pleaded, and demographic disparity alone supplies no regulatory-effects violation.
+**Statutory distinction:** Alexander v. Sandoval (April 24, 2001) preserves section 601’s intent requirement and applies Powell v. Ridge’s bounded private action for declaratory and appropriately confined prospective equitable relief against a covered recipient’s ongoing violation of a valid section 602 disparate-impact regulation. These admissions claims challenge express intentional racial treatment governed by section 601 and equal protection; no section 602 effects claim is pleaded, and demographic disparity alone supplies no regulatory-effects violation.
 
 #### C. DECISION-MATERIAL LITIGATION POSITIONS
 
@@ -278,7 +278,7 @@ United States amicus merits brief, Gratz v. Bollinger, No. 02-516, Question Pres
 
 * **Open Point:** Whether any present defect requires invalidation, limited remand, or a record-specific affirmance without fixing a constitutional expiration date.
 
-**Statutory distinction:** Alexander v. Sandoval (April 24, 2001) preserves section 601 intentional-treatment liability while holding that Congress has not authorized a private action to enforce section 602 disparate-impact regulations where the conduct does not violate section 601. A voluntary admissions program’s constitutional justification and an actually pleaded statutory violation remain distinct inquiries; no section 602 effects claim is available or pleaded.
+**Statutory distinction:** Alexander v. Sandoval (April 24, 2001) preserves section 601 intentional-treatment liability while applying Powell v. Ridge’s bounded private action for declaratory and appropriately confined prospective equitable relief against a covered recipient’s ongoing violation of a valid section 602 disparate-impact regulation. A voluntary admissions program’s constitutional justification and an actually pleaded statutory violation remain distinct inquiries; no section 602 effects claim is pleaded.
 
 #### C. DECISION-MATERIAL LITIGATION POSITIONS
 

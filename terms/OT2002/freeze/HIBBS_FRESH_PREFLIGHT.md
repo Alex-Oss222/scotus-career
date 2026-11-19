@@ -11,7 +11,7 @@ The neutral Government source was read in its entirety from the Statement throug
 ## Product and checks
 
 - `OT_2002CHUNK10_HIBBS_VALIDATED_NEUTRAL.md` preserves the original neutral section exactly and adds the validated statutory and evidentiary qualifications, legal alternatives, source limitations and relevant Justice-specific public positions.
-- `terms/OT2002/entering-law/OT_2002CHUNK10_HIBBS_FRESH.md` consists of scripted exact copies from the authorized law handoffs. Every included authority predates May 27, 2003. Garrett's Article I and §5 grounds remain independently sufficient; Kimel's §5 question remains reserved; Popovich's bounded §5 holding does not settle all leave legislation.
+- `terms/OT2002/entering-law/OT_2002CHUNK10_HIBBS_FRESH.md` consists of scripted exact copies from the authorized law handoffs. Every included authority predates May 27, 2003. Garrett's Article I ground alone sustains its judgment, and its §5 holding leaves Title I's general requirements unsustained under §5 at the full scope presented; Kimel's §5 question remains reserved; Popovich's bounded §5 holding does not settle all leave legislation.
 - `terms/OT2002/entering-law/OT_2002CHUNK10_HIBBS_STATUTORY_TEXT.md` copies the operative statutory-appendix portions by script. No long source passage was reauthored. It identifies the incorporated §203 definitions that the supplied appendix does not reproduce, rather than claiming possession of missing text.
 - `tmp/build_hibbs_fresh.py` performs those copies and checks original-section identity and absence of machine-specific file-link patterns. `tmp/hibbs_fresh_supplement.txt` holds the authored neutral supplement.
 
