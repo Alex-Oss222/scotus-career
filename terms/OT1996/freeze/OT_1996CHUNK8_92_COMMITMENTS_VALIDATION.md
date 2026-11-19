@@ -8,9 +8,9 @@ Authorized boundary: frozen validated neutral packet and receipt, governing Engi
 
 Checks actually completed: eight named Associates; five component rows for each (40 total); explicit review channel and narrow connected-review determination; temporary-immunity, official-function/press-secretary, constitutional and discretionary stay, derivative Ferguson relief, concrete accommodation, source and future-process limits; actual prior public Nixon/Plaut positions preserved. No authors assigned; no Stone vote supplied.
 
-Neutral packet SHA256: `0217a454636b55c4af6e5b2b72054a361b69c42e41860cf66aa5a6317a4aac2d`.
+Neutral packet SHA256: `cd078fcb192a1fbce96ab0a46619fce9cf7e264c25c8a6621e4a0358e43aeab2`.
 
-Commitments UTF-8 SHA256: `0ad621a002892d402c88a18dc2d7cff9abdd34de76d202d1b0161574f5a1f32b`.
+Commitments UTF-8 SHA256: `f34483d059eb9ca39763b68c25514d93e8b3c089a8a8e4909c22198a37229ff5`.
 
 Frozen bytes: 49129.
 
