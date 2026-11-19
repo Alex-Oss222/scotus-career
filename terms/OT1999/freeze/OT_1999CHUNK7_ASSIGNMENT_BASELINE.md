@@ -68,7 +68,7 @@ All 76 existing Record headers were examined. The 67 counted leads are ordered b
 | 40 | 2000-03-28 | Florida v. J. L.; No. 98-1993. | Stevens | [Record](../records/florida-v-j-l_merits_2000-03-28.md) |
 | 41 | 2000-03-28 | Garner v. Jones; No. 99-137. | O'Connor | [Record](../records/garner-v-jones_merits_2000-03-28.md) |
 | 42 | 2000-03-29 | City of Erie v. Pap's A.M.; No. 98-1161. | Stevens | [Record](../records/city-of-erie-v-paps-am_merits_2000-03-29.md) |
-| 43 | 2000-04-03 | Powell v. Ridge; review of 189 F.3d 387 (3d Cir. 1999); no Supreme Court docket supplied. | Thomas | [Record](../records/powell-v-ridge_merits_2000-04-03.md) |
+| 43 | 2000-04-03 | Powell v. Ridge; review of 189 F.3d 387 (3d Cir. 1999); no Supreme Court docket supplied. | Stone-Zsela | [Record](../records/powell-v-ridge_merits_2000-04-03.md) |
 | 44 | 2000-04-10 | Reform Party of Allegheny County v. Allegheny County Department of Elections; review of Third Circuit Nos. 96-3677 and 97-3359. | Breyer | [Record](../records/reform-party-v-allegheny-county_merits_2000-04-10.md) |
 | 45 | 2000-04-17 | Bond v. United States; No. 98-9349. | Souter | [Record](../records/bond-v-united-states_merits_2000-04-17.md) |
 | 46 | 2000-04-17 | Gillespie v. City of Indianapolis; No. 99-626. | Stone-Zsela | [Record](../records/gillespie-v-city-of-indianapolis_merits_2000-04-17.md) |
@@ -557,7 +557,7 @@ Count treatment: Signed plenary merits lead; one for each of Ginsburg.
 
 **Balance pool:** Stone-Zsela, Stevens, Souter, Ginsburg, Breyer
 
-**Author selected:** Ginsburg. Ginsburg is selected for coordinating the combined statutory authorization, independently sufficient Article I ground and explicit reservation of §5 without turning a power ruling into liability or an award. Her Florida Prepaid Article I join and distinct College Savings §5 position demonstrate the component separation this opinion needs. Stevens is the strongest alternative from his Florida Prepaid opinion, and Stone can faithfully apply the same approved ground; Ginsburg offers the concrete fit in keeping these different statutory and power conclusions precise. All three have zero counted leads, while Souter has one; no lower-count alternative defeats the selection. Stone's agreement and office supply no additional self-assignment advantage, and no expansion accommodation is invented.
+**Author selected:** Ginsburg. Ginsburg is selected for coordinating the combined statutory authorization, independently sufficient Article I ground and explicit reservation of §5 without turning a power ruling into liability or an award. Her Florida Prepaid Article I join and distinct College Savings §5 position demonstrate the component separation this opinion needs. Stevens is the strongest alternative from his Florida Prepaid Part III join and his separate writing there, which kept §5 apart from the Article I ground, and Stone can faithfully apply the same approved ground; Ginsburg offers the concrete fit in keeping these different statutory and power conclusions precise. All three have zero counted leads, while Souter has one; no lower-count alternative defeats the selection. Stone's agreement and office supply no additional self-assignment advantage, and no expansion accommodation is invented.
 
 **Final compatibility:** The five full-opinion supporters adopt authorization, Article I enforcement and ordinary remand, reserving §5. O'Connor and Scalia join Part I only, rejecting Article I enforcement and relying on their §5 objection. Kennedy and Thomas reject the authorization holding independently and also oppose both constitutional grounds. The full Court's statutory and power votes therefore differ: seven support Part I; five support Parts II–III. No judgment-only agreement is promoted to full eligibility and no frozen commitment is changed.
 
@@ -2195,35 +2195,36 @@ Source SHA-256: `50062f52315a2b860b8fc476a9d44d10894f3987abb479266c9d1ee5a95c473
 
 **Case and dockets:** Powell v. Ridge; review of 189 F.3d 387 (3d Cir. 1999); no Supreme Court docket supplied.
 **Event and date:** Merits decision; 2000-04-03; October Term 1999.
-**Result:** Third Circuit reversed and remanded, 5-4 on each count; the direct and section 1983 impact-only theories fail on separate grounds, without creation of an intentional-discrimination claim.
+**Result:** Third Circuit affirmed in part and reversed in part, and remanded, 5-4 on each count: the directly implied prospective Title VI action in Count I proceeds; the regulation-created section 1983 right asserted in Count II fails.
 **Version / lineage:** Original decision; durable filesystem preservation pending operator repository verification and commitment under the no-Git instruction.
 
-Count treatment: Signed plenary merits lead; one for each of Thomas.
+Count treatment: Signed plenary merits lead; one for each of Stone-Zsela.
 
 ## OPINION TABLE
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
-| Opinion of the Court | Thomas | Stone-Zsela, O'Connor, Scalia, Kennedy | Reversal and remand on both impact-only private theories | Entire opinion: direct-action inquiry, distinct individual-right inquiry under section 1983, remedy and every stated limit |
-| Dissenting opinion | Stevens | Souter, Ginsburg, Breyer | Would affirm availability of both prospective enforcement channels and remand | Entire dissent; section 1983 is independently sufficient, with the direct regulatory action separately supported |
+| Opinion of the Court | Stone-Zsela | Part I: Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. Part II: Stevens, Souter, Ginsburg, Breyer. Part III: O'Connor, Scalia, Kennedy, Thomas | Count I affirmed and remanded; Count II reversed | Part I (jurisdiction; separate questions) 9–0; Part II (Count I action, elements, proof, remedies, application, remand) 5–4; Part III (Count II right-creation) 5–4 |
+| Opinion concurring in part and dissenting in part | Stevens | Souter, Ginsburg, Breyer | Joins the Count I affirmance; would affirm on Count II too | Joins Parts I and II; dissents from Part III and the Count II reversal |
+| Opinion concurring in part and dissenting in part | O'Connor | Scalia, Kennedy, Thomas | Joins the Count II reversal; would reverse on Count I too | Joins Parts I and III; dissents from Part II and the Count I affirmance |
 
-Five Justices directly join both holdings and all limits. The four dissenters support both channels; Stevens would also accept leaving the direct-action alternative unresolved if section 1983 were sustained, but does not join its rejection. No partial join, judgment-only vote or Marks synthesis is involved.
+No single five-Justice coalition joins the whole opinion; only Stone-Zsela joins every Part. Each judgment component rests on its own Part's five votes; no judgment-only vote, Marks synthesis or aggregation of distinct grounds is involved. There is no separately joined disposition Part; the judgment rests on Part II for Count I and on Part III for Count II.
 
 ## Assignment
 
-The [preassignment form](../preparation/OT_1999CHUNK4_POWELL_FORM.md) fixed one signed plenary opinion addressing the two private channels on their distinct grounds and one common dissent before the fresh tally or author choice. The Chief Justice assigns from the five-Justice reversal coalition. No division of the opinion is necessary because all five support every governing proposition.
+The [opinion form](../preparation/OT_1999CHUNK4_POWELL_FORM.md), fixed before any count or author choice, sets one signed plenary Opinion of the Court in three Parts that follow the two presented counts and their actual coalitions: Part I, the common threshold and the separation of the two questions, for all nine; Part II, Count I, for Stone-Zsela, Stevens, Souter, Ginsburg and Breyer; and Part III, Count II, for Stone-Zsela, O'Connor, Scalia, Kennedy and Thomas. Two opinions concurring in part and dissenting in part follow. The Chief Justice is in the judgment coalition on every component and assigns every Part.
 
 **Counts before assignment, freshly recounted from actual earlier opinion tables:** Stone-Zsela 4; Stevens 5; O'Connor 6; Scalia 4; Kennedy 5; Souter 4; Thomas 4; Ginsburg 5; Breyer 4.
 
 **Last counted event:** City of Erie v. Pap's A.M., March 29, 2000; Stevens. The [saved recount](../preparation/OT_1999CHUNK4_POWELL_ASSIGNMENT_COUNT.md) includes Erie's single signed lead once, despite its three parts, and every earlier completed counted opinion, including J.L. and Garner. Free and Browne are expressly stopped, with no Records, assignments or counts. The count is derived from actual opinion tables, not earlier tally statements.
 
-**Eligible authors:** Stone-Zsela, O'Connor, Scalia, Kennedy and Thomas. All five support the separate congressional-remedy and statutory-right holdings, the preservation of regulatory elaboration, the right/foreclosure distinction, the same remand, and every stated limit. Stone's approved position, not fallback, supplies his eligibility. Stevens, Souter, Ginsburg and Breyer reject both holdings and are ineligible.
+**Eligible authors:** Part I, all nine. Part II, Stone-Zsela, Stevens, Souter, Ginsburg and Breyer. Part III, Stone-Zsela, O'Connor, Scalia, Kennedy and Thomas. The complete opinion, Stone-Zsela alone: he is the only member of both component coalitions, and his approved position, not fallback, supports every proposition of all three Parts. Each other Justice opposes Part II or Part III. Because Stone-Zsela can carry every Part, the opinion is not divided among authors.
 
-**Balance pool:** Stone-Zsela, Scalia, Kennedy and Thomas. The eligible minimum is four, admitting counts four and five. O'Connor has six and is outside the pool.
+**Balance pool:** Stone-Zsela alone, at count four.
 
-**Selected author:** Thomas. Fit governs a settled five-Justice rationale; no necessary join requires an unrecorded accommodation. His actual Bruneau opinion performs the central separation the present case requires: an identified statutory right may use section 1983 despite funding administration and an implied remedy, but that vehicle does not enlarge the underlying duty. His full Suter, CAPTA and Blessing joins also preserve provision-specific right creation before enforcement. His authorship supplies a concrete advantage in explaining why this decision does not retreat from Bruneau and why the direct-action inquiry remains independently necessary. Stone is the strongest alternative at the same count: his approved Powell position expressly distinguishes validity, entitlement and enforcement. Thomas's authorship of the operative section 1983 precedent supplies the demonstrated fit advantage. Scalia can carry the statutory distinction and Kennedy also qualifies, but neither supplies that additional connection to the actual enforcement rule; Kennedy also has the higher count. No generic expertise claim, later decision or historical Powell authorship supplies the choice.
+**Selected author:** Stone-Zsela. As the only pool member, he writes, and fit confirms it. The opinion must coordinate two statutory questions that come out opposite ways: why Title VI's own scheme supports a bounded equitable compliance action, and why a regulation cannot create the individual statutory right section 1983 enforces. That work separates authority, merits and relief, and his approved position is the only one that states both answers.
 
-Stevens writes the dissent joined by Souter, Ginsburg and Breyer. His Guardians dissent expressly addressed section 1983 enforcement of effects regulations against state actors, while his Blessing opinion supplies the particular-right inquiry; the distinct direct-action ground remains supported by the integrated beneficiary statute and Cannon rather than a false claim about Guardians's holding. One signed plenary lead counts once for Thomas; the dissent does not count.
+Stevens, the senior Associate in the Count II minority, assigns to himself the opinion concurring in part and dissenting in part joined by Souter, Ginsburg and Breyer. His Guardians dissent expressly addressed section 1983 enforcement of effects regulations against state actors, and his Blessing opinion supplies the particular-right inquiry. O'Connor, the senior Associate in the Count I minority, assigns to herself the opinion concurring in part and dissenting in part joined by Scalia, Kennedy and Thomas. Her Guardians concurrence drew the distinction between §601 intent and regulatory effects on which that writing rests; she does not renew its broader objection to the regulations' validity. One signed plenary lead counts once for Stone-Zsela; the two separate writings do not count.
 
 ---
 

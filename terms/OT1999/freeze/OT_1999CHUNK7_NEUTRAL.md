@@ -43,7 +43,7 @@ The lower majority relies on the government's interests and retained control to 
 
 ### Justice-specific starting authorities, without vote assignments
 
-- **Stevens:** his controlling Florida Prepaid Parts I–III, Kimel joins, and Laidlaw join/concurrence distinguish congressional enforcement authority, concrete injury and survival of an existing penalty controversy. His Lujan statutory ground does not control the Court's Article III sequence.
+- **Stevens:** his Florida Prepaid Parts I and III joins, Kimel joins, and Laidlaw join/concurrence distinguish congressional enforcement authority, concrete injury and survival of an existing penalty controversy. His Lujan statutory ground does not control the Court's Article III sequence.
 - **O'Connor:** Laidlaw's Court opinion supports concrete personal injury and remedial redress, while her Kimel constitutional dissent seeks reconsideration of Article I amenability; she joined Kimel's statutory-authorization holding. Those are different questions.
 - **Scalia:** Lujan's controlling parts insist on personal concrete injury; his Laidlaw dissent with Thomas contests the supported injury/redress connection without imposing a categorical Treasury-penalty bar. He joined Kimel's authorization holding but not its constitutional ground.
 - **Kennedy:** his Lujan joins and Laidlaw join support the actual injury inquiry; his Kimel statutory dissent with Thomas requires unmistakable statutory State exposure and is distinct from the constitutional objection.

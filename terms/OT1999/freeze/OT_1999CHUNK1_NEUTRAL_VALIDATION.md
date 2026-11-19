@@ -45,7 +45,7 @@ W.P.'s eight-Associate advance-review and State-persuasion ground rests on New J
 
 - Hopwood's specified-lawful-process causation rule and intentional-treatment rule have all eight Associates' support; its separate nominal/source-specific remedy and prospective-exposure limits are unanimous. Its diverse-student-body rationale has O'Connor, Stevens, Souter, Ginsburg and Breyer with Stone; Kennedy supported only vacating the categorical prohibition on that component. These different joins cannot be collapsed.
 - Lanphere's commercial-records access rule was Kennedy's opinion, joined by Stevens, Souter, Thomas, Ginsburg and Breyer with Stone. O'Connor and Scalia did not join; the Holdings do not themselves provide their separate substantive grounds.
-- Florida Prepaid's Article I and section 5 holdings had Stevens, Souter, Ginsburg and Breyer with Stone; O'Connor, Scalia, Kennedy and Thomas opposed both. College Savings' consent rule must still be respected independently of those positions.
+- Florida Prepaid's Article I holding had Stevens, Souter, Ginsburg and Breyer with Stone; O'Connor, Scalia, Kennedy and Thomas opposed it. Its section 5 holding, that section 5 does not independently sustain the patent remedy at the scope presented, had O'Connor, Scalia, Kennedy and Thomas with Stone; Stevens, Souter, Ginsburg and Breyer would have sustained it. College Savings' consent rule must still be respected independently of those positions.
 - Holmes' causal rule had Souter, Stevens, O'Connor, Kennedy and Thomas among the sitting Associates. Scalia accepted proximate cause but joined no part of that opinion. No inference about the later appointees follows from their absence in 1992.
 - Ornelas' independent ultimate-review rule had all current Associates except Scalia; his opposition to that allocation is a material prior distinction, not a new vote here.
 - Steel Co.'s redressability rationale had O'Connor, Kennedy, Thomas and Breyer with Scalia and Stone; Stevens, Souter and Ginsburg relied on statutory grounds. Lujan's general rule and personal-use limitation had Scalia, Kennedy, Souter and Thomas among current Associates; its absent-agency redressability application had only three votes and must not become controlling.
@@ -126,7 +126,7 @@ The following title and authority-date lines are script-copied from the generate
 
 ### Congruent and proportional Fourteenth Amendment enforcement
 
-**Present operation effective:** College Savings Bank, June 23, 1999, for the confined own-product-advertising boundary; Florida Prepaid, June 23, 1999, for the preventive patent-property remedy; Boerne’s enforcement and preventive-fit framework remains effective June 25, 1997.
+**Present operation effective:** College Savings Bank, June 23, 1999, for the confined own-product-advertising boundary; Florida Prepaid, June 23, 1999, for the holding that section 5 does not independently sustain the patent remedy’s full infringement liability at the scope presented, while adequately fitted preventive legislation remains available; Boerne’s enforcement and preventive-fit framework remains effective June 25, 1997.
 
 ## Deterministic receipt
 

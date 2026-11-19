@@ -91,7 +91,7 @@ California Democratic Party follows Apprendi and precedes Dickerson alphabetical
 | 40 | 2000-03-28 | [Florida v. J. L](../records/florida-v-j-l_merits_2000-03-28.md) | Stevens | 4 |
 | 41 | 2000-03-28 | [Garner v. Jones](../records/garner-v-jones_merits_2000-03-28.md) | O'Connor | 6 |
 | 42 | 2000-03-29 | [City of Erie v. Pap's A.M](../records/city-of-erie-v-paps-am_merits_2000-03-29.md) | Stevens | 5 |
-| 43 | 2000-04-03 | [Powell v. Ridge](../records/powell-v-ridge_merits_2000-04-03.md) | Thomas | 5 |
+| 43 | 2000-04-03 | [Powell v. Ridge](../records/powell-v-ridge_merits_2000-04-03.md) | Stone-Zsela | 5 |
 | 44 | 2000-04-10 | [Reform Party of Allegheny County v. Allegheny County Department of Elections](../records/reform-party-v-allegheny-county_merits_2000-04-10.md) | Breyer | 5 |
 | 45 | 2000-04-17 | [Bond v. United States](../records/bond-v-united-states_merits_2000-04-17.md) | Souter | 5 |
 | 46 | 2000-04-17 | [Gillespie v. City of Indianapolis](../records/gillespie-v-city-of-indianapolis_merits_2000-04-17.md) | Stone-Zsela | 5 |
