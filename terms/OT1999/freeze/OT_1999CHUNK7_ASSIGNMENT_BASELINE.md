@@ -2251,7 +2251,7 @@ Count treatment: Signed plenary merits lead; one for each of Breyer.
 
 Form was fixed in the separate preparation receipt before the recount: one signed opinion, with Part I on finality, Part II on timely equal opportunity and Part III on the confined remedy. Different legal components require partial joins, not divided authorship. The Chief assigns Parts I and II; O'Connor, senior in Part III's five-Justice judgment coalition, assigns that part. One eligible author can deliver all three.
 
-**Fresh counts before assignment:** Stone-Zsela 4; Stevens 5; O'Connor 6; Scalia 5; Kennedy 5; Souter 4; Thomas 5; Ginsburg 5; Breyer 4. Last counted event: Powell v. Ridge, 2000-04-03; Thomas.
+**Fresh counts before assignment:** Stone-Zsela 4; Stevens 5; O'Connor 6; Scalia 5; Kennedy 5; Souter 4; Thomas 5; Ginsburg 5; Breyer 4. Last counted event: Powell v. Ridge, 2000-04-03; Stone-Zsela.
 
 Part I eligible authors: all eight Associates. Part II eligible authors: all nine. Part III eligible authors, and the intersection capable of carrying the entire opinion: O'Connor, Scalia, Kennedy, Thomas and Breyer. The Part I pool is Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; Part II adds Stone-Zsela; Part III and the common full-opinion pool are Scalia, Kennedy, Thomas and Breyer. O'Connor's six exceeds the common minimum of four by more than one.
 
