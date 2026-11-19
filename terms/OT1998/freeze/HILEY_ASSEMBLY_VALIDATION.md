@@ -12,7 +12,7 @@ Counts before assignment are Stone-Zsela 1 and Souter 1, with every other Justic
 
 ## Mechanical verification
 
-The four opening labels, Original decision lineage, natural-key filename, event date and eleven public blocks are present. Internal Holdings and public Holdings match. Controlling-explanation word counts are 108, 166, 159, 106, 130, 96, 83, 108, 117, 95; all are within 350. The current effective-law copy and generated Render Input reproduce the Record's Public Projection. All component votes and opinion scopes were reviewed separately.
+The four opening labels, Original decision lineage, natural-key filename, event date and eleven public blocks are present. Internal Holdings and public Holdings match. Controlling-explanation word counts are 108, 166, 159, 106, 130, 96, 83, 108, 117, 134; all are within 350. The current effective-law copy and generated Render Input reproduce the Record's Public Projection. All component votes and opinion scopes were reviewed separately.
 
 The frozen handoffs match the identities recorded below, and the term checker passes.
 

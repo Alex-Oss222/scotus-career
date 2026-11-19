@@ -476,7 +476,7 @@
 
 ### Issue 1: Does the PLRA’s automatic-stay provision impermissibly suspend existing
 
-* **Controlling Simulated Law:** Robertson permits an actual change in the law governing pending litigation. Morgan Stanley and Plaut permit the defined §27A(b) reinstatement process while leaving adjudication to courts, rather than establishing the historical categorical finality prohibition. Agostini permits relief from a prospective injunction when its governing legal premise is displaced.
+* **Controlling Simulated Law:** Robertson permits an actual change in the law governing pending litigation. Plaut bars Congress, solely by changing the law applicable to a completed private action, from requiring an Article III court to vacate its final judgment and reinstate the same litigation, while leaving Congress free to change the law governing the future operation of continuing injunctive relief; Morgan Stanley, affirmed by an equally divided Court, sets no precedent. Agostini permits relief from a prospective injunction when its governing legal premise is displaced.
 * **Current Reusable Doctrine:** Determine whether §3626(e) changes the conditions for continued prospective relief or directs a judicial result under unchanged law. Statutory timing and meaningful judicial opportunity present a separate as-applied question.
 * **Other Governing Law:** The constitutional, statutory, and rule provisions identified in the question before the Court, together with time-eligible law not displaced by completed simulated decisions.
 * **Material Other Authority:** Time-eligible authorities are used only for the propositions stated here.

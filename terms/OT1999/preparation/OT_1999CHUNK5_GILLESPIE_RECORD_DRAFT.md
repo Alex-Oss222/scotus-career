@@ -113,7 +113,7 @@ Section 922(g) retains separate branches for interstate or foreign shipment or t
 
 **Controlling explanation:** Hiley and the January 18 FOP decision distinguish the loss of a lawful staffing option from compulsory government of others. Indianapolis requires every officer to carry a firearm. Federal law restricts Gillespie's possession; the City independently chooses its employment requirements and its response within the law. The serious employment consequence establishes injury but does not establish the asserted federal command.
 
-New York preserves the prohibition of compulsory state legislation or compulsory ownership and liability. Garcia and South Carolina v. Baker preserve valid direct regulation of state activity, and Condon confirms that compliance work does not itself turn direct regulation into administration of a federal program against others. Printz/Mack addresses an affirmative command for confined temporary records assistance; its limited permission and reserved fiscal objections need not be extended here because this statute assigns no such task.
+New York preserves the prohibition of compulsory state legislation or compulsory ownership and liability. Garcia and South Carolina v. Baker preserve valid direct regulation of state activity, and Condon confirms that compliance work does not itself turn direct regulation into administration of a federal program against others. Printz/Mack forbids commanding unwilling state executive officers to perform investigative, screening, record-processing or enforcement duties as administrators of a federal regulatory program directed at private persons; that rule is not triggered here because this statute assigns no such task.
 
 Commerce authority and the structural inquiry remain distinct. The staffing theory fails because the claimed administrative command is absent, not because every valid federal law necessarily defeats every Tenth Amendment objection. The Court decides neither an actual order requiring local enforcement nor whether state law required retention in a different position.
 
@@ -132,7 +132,7 @@ Commerce authority and the structural inquiry remain distinct. The staffing theo
 - New York retains its actual anti-compulsion boundary and preserved field of direct regulation.
 - Garcia and South Carolina v. Baker are applied to distinguish direct regulation from compelled government of others.
 - Condon is applied for that same distinction without extending its information-market holding.
-- Printz/Mack is distinguished at its affirmative-command, confined-assistance and reserved fiscal boundaries; no new administrative power is recognized.
+- Printz/Mack is distinguished because this statute assigns no state executive officer administrative duties under a federal regulatory program; its categorical rule is neither narrowed nor extended, and no new administrative power is recognized.
 
 ## Law After Decision
 

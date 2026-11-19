@@ -39,7 +39,7 @@
 * **Stone's Legal Position:** Section 922(g)(9) regulates the individual possessor. It does not command a State to legislate, retain a firearm policy, investigate federal disabilities, prosecute violations, or supply officers to administer federal law.
 * **Stone's Proposed Holding:** Application of § 922(g)(9) to state and local officers does not commandeer state government because the statute directly regulates possession and leaves employment policy to the State.
 * **Essential Reasoning and Record Application:** A State may choose whether an affected employee can perform another job. The federal disability may make the State’s preferred armed assignment unavailable, but that consequence is not a federal command to administer the law against third parties.
-* **Boundary or Reserved Question:** No compulsory state administration is imposed here. Printz’s confined temporary records-assistance holding and its reserved fiscal questions remain intact.
+* **Boundary or Reserved Question:** No compulsory state administration is imposed here. Printz’s rule against commanding unwilling state executive officers to administer a federal regulatory program directed at private persons remains intact.
 ### Issue 4: Commerce Clause authority
 
 * **Threshold and Merits Reach:** Stone reaches the preserved enumerated-power objection as actually presented: a prospective associational challenge, not an individual prosecution.

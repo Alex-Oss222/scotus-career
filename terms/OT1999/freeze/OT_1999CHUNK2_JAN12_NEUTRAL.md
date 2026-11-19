@@ -156,7 +156,7 @@ Mechanically copied Section I packets; read with the separate JAN12_NEUTRAL_CLAR
 
 ### Issue 1: Congress may regulate the disclosure and interstate dissemination
 
-* **Controlling Simulated Law:** Printz and Mack permit confined temporary records-based assistance within proper executive function under an affirmative command while reserving fiscal and unauthorized-expenditure objections. New York v. United States distinguishes compelled state administration from valid direct regulation. Lopez separately requires an identified interstate connection.
+* **Controlling Simulated Law:** Printz and Mack hold that Congress may not command unwilling state executive officers to perform affirmative duties as administrators of a federal regulatory program directed at private persons; the defect is the compulsory assignment of executive responsibility, not hours or reimbursement, and direct regulation of state activity and generally applicable laws are preserved. New York v. United States distinguishes compelled state administration from valid direct regulation. Lopez separately requires an identified interstate connection.
 * **Current Reusable Doctrine:** The DPPA regulates the State’s own holding and disclosure of driver information and private redisclosure. Determine the commerce basis and actual regulated conduct; compliance through employees does not itself turn the State into an administrator of federal law against unrelated persons.
 * **Other Governing Law:** Commerce Clause; together with time-eligible law not displaced by completed simulated decisions.
 * **Material Other Authority:** Time-eligible authorities are used only for the propositions stated here.

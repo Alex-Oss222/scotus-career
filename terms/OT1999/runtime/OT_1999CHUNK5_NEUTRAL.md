@@ -236,7 +236,7 @@
 * **Controlling Simulated Law:** Hiley v. Barrett, October 9, 1998, rejects the staffing-based Tenth Amendment challenge: §922(g)(9) regulates possession and does not command termination, state legislation or administration. The October 7, 1998 Fraternal Order of Police decision separately resolves its developed official-use arms and equality claims; it reserves commerce and commandeering.
 * **Current Reusable Doctrine:** A valid federal duty does not become commandeering because a State must account for it in operating its own workplace. The constitutional question is who federal law commands and who retains responsibility for the employment decision.
 * **Other Governing Law:** Tenth Amendment; 18 U.S.C. § 922(g)(9).
-* **Material Other Authority:** Garcia preserves valid regulation of state employment. Printz permits confined temporary records assistance within proper executive function while reserving fiscal objections; this case requires no expansion of that rule.
+* **Material Other Authority:** Garcia preserves valid regulation of state employment. Printz forbids Congress to command unwilling state executive officers to perform investigative, screening, record-processing or enforcement duties as administrators of a federal regulatory program directed at private persons; this case presents no such assignment.
 * **Open Point:** A federal requirement that the City investigate, prosecute, or retain a federal enforcement apparatus would be materially different.
 ### Issue 2: Commerce Clause authority
 
