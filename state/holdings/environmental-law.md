@@ -487,7 +487,7 @@ For this decision of February 27, 2001, Nos. 99-1257 and 99-1426, Environmental 
 
 #### Gibbs v. Babbitt
 
-For Commerce Clause limits and the existing-record inquiry governing private-land experimental-red-wolf taking, see Constitutional Structure, Gibbs v. Babbitt, Fourth Circuit No. 99-1218, decided March 21, 2001. The decision does not alter the existing taking exceptions or decide a Property Clause, treaty or compensation theory.
+For Commerce Clause limits and the holding sustaining the private-land experimental-red-wolf taking rule as an integral part of the Endangered Species Act's valid interstate scheme, see Constitutional Structure, Gibbs v. Babbitt, Fourth Circuit No. 99-1218, decided March 21, 2001. The decision does not alter the existing taking exceptions or decide a Property Clause, treaty or compensation theory.
 
 ### Periodic monitoring and substantive amendment by guidance
 
