@@ -19,7 +19,7 @@ The selected Standards entries identify no separate Current wording authority. T
 
 - `state/holdings/criminal-procedure.md`: SHA-256 `cd91b0b05e90260218d2aa54bf270a5abb64c2b97ce1beaebb5abfb87955796b`.
 - `state/STANDARDS_AND_TESTS.md`: SHA-256 `63ac91ba699d81363221fc054f0b68e53be2689da214de4856f26e4820929034`.
-- `terms/OT1995/entering-law/PUBLIC_Tuggle_v_Netherland_summary_merits_1995-10-30.md`: SHA-256 `bad98cfbf30956ed481b14a3eee1f2c3f4effc479257dfa45fa293a75f394ca3`.
+- `terms/OT1995/entering-law/PUBLIC_Tuggle_v_Netherland_summary_merits_1995-10-30.md`: SHA-256 `85d56b813de750a4267cd932d5b16435e1ff834fa8b0ccaf3b2939367518f9a3`.
 
 ## Verbatim public Holdings entries
 
@@ -435,7 +435,7 @@ For the preservation bar on the jury-heinousness instruction claim in *Sochor v.
 
 ## Verbatim earlier current-term Tuggle public law
 
-Source: `PUBLIC_Tuggle_v_Netherland_summary_merits_1995-10-30.md`, effective October 30, 1995. The copied Court holding names all direct joins and expressly reserves the error-effect standard and ultimate relief.
+Source: `PUBLIC_Tuggle_v_Netherland_summary_merits_1995-10-30.md`, effective October 30, 1995. The copied Court holding names all direct joins and expressly reserves whether harmless-error review applies, actual effect and ultimate relief.
 
 ## Holdings
 
@@ -451,11 +451,11 @@ The Commonwealth presented psychiatric future-danger testimony. Although the jur
 
 The Court assumes the disputed violation only to test that rationale. The 1985 state court affirmatively found penalty-stage Ake error; withdrawal of the Commonwealth's concession does not erase the ruling. A renewed request, adequacy, threshold, preservation, or other defense must be legally available under the existing rulings and procedural history. Neither complete preclusion nor unrestricted reopening is declared.
 
-If an available violation stands, further consideration must address the relevant penalty record and any actual loss of the identified defense functions. Counting existing examiners does not settle adequacy. The Court reserves whether harmless-error review applies, the governing collateral standard, actual effect, and ultimate relief. Brecht covers preserved Doyle error and O'Neal preserved personal-intent error; neither already decides this Ake category. Eventual relief requires a properly available violation warranting relief under the applicable rule and may allow a reasonable opportunity for a lawful penalty disposition. Correcting the appellate rationale alone supplies no immediate writ or hearing.
+If an available violation stands, further consideration must address the relevant penalty record and any actual loss of the identified defense functions. Counting existing examiners does not settle adequacy. The Court reserves whether harmless-error review applies, actual effect, and ultimate relief. It neither applies nor alters the governing harmlessness standard of Brecht and O'Neal. Eventual relief requires a properly available violation warranting relief under the applicable rule and may allow a reasonable opportunity for a lawful penalty disposition. Correcting the appellate rationale alone supplies no immediate writ or hearing.
 
-**Precedent treatment:** Zant is distinguished on its admissible-and-explainable-evidence premise and retains its nonweighing eligibility holding. Ake's assistance protection and no-preferred-examiner limit are applied without deciding the disputed violation. Stringer and Richmond retain their weighing-system rules; their appellate correction routes are not transferred here. Brecht and O'Neal retain their category-specific Chapman rules and the distinction between correcting review and granting a writ; neither is extended to Ake.
+**Precedent treatment:** Zant is distinguished on its admissible-and-explainable-evidence premise and retains its nonweighing eligibility holding. Ake's assistance protection and no-preferred-examiner limit are applied without deciding the disputed violation. Stringer and Richmond retain their weighing-system rules; their appellate correction routes are not transferred here. Brecht's general harmlessness rule, as O'Neal applied it, and their distinction between correcting review and granting a writ remain intact; whether that rule reaches this Ake claim is not decided.
 
 ## Law After Decision
 
-Surviving nonweighing eligibility alone cannot dispose of an independent, properly available psychiatric-assistance claim or establish absence of an effect on sentence selection. Zant's narrower eligibility rule survives. The Court selects no collateral error-effect standard for this Ake category and finds neither a violation nor entitlement to relief. The category-specific Brecht and O'Neal holdings remain unchanged. The concurrence's proposed Chapman extension has no controlling force.
+Surviving nonweighing eligibility alone cannot dispose of an independent, properly available psychiatric-assistance claim or establish absence of an effect on sentence selection. Zant's narrower eligibility rule survives. The Court does not decide whether harmless-error review applies to this Ake category and finds neither a violation nor entitlement to relief. Brecht's general rule and O'Neal's application of it remain unchanged. The concurrence's statement of the governing standard has no controlling force.
 

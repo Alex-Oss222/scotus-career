@@ -366,7 +366,7 @@
 * **Open Point:** No open doctrinal component beyond application to this record is identified.
 ### Issue 2: Fourteenth Amendment Section 5 authority
 
-* **Controlling Simulated Law:** Simulated *Lopez*, the controlling commerce rules for direct interstate-market interference, anti-evasion regulation, and material interstate externalities, plus *Civil Rights Cases*, *United States v. Harris*, and simulated *City of Boerne* for § 5.
+* **Controlling Simulated Law:** Simulated *Lopez*, the controlling commerce rules for direct interstate-market interference, necessary inclusion within valid interstate regulation, and material interstate externalities, plus *Civil Rights Cases*, *United States v. Harris*, and simulated *City of Boerne* for § 5.
 * **Current Reusable Doctrine:** The controlling authorities stated above supply the operative rule; no additional test changes the inquiry.
 * **Other Governing Law:** Fourteenth Amendment; § 5; together with time-eligible law not displaced by completed simulated decisions.
 * **Material Other Authority:** Time-eligible authorities are used only for the propositions stated here.
@@ -376,7 +376,7 @@
 
 * **Controlling reasoning below:** Certiorari to the United States Court of Appeals for the Fourth Circuit. The Fourth Circuit held the remedy unconstitutional.
 * **Petitioner’s or appellant’s strongest supported position:** The party seeking reversal argues that the lower court misidentified the governing source, test, burden, or remedy and that the question presented must be resolved under the competing reading described in Section I.B.
-* **Respondent’s or appellee’s strongest supported position:** The economic consequences identified by Congress do not establish the direct market interference, anti-evasion relationship, or noninternalizable interstate externality required by the controlling commerce doctrine. Section 5 does not authorize a nationwide damages action against a private assailant untethered to unconstitutional state conduct.
+* **Respondent’s or appellee’s strongest supported position:** The economic consequences identified by Congress do not establish the direct market interference, necessary-inclusion relationship, or noninternalizable interstate externality required by the controlling commerce doctrine. Section 5 does not authorize a nationwide damages action against a private assailant untethered to unconstitutional state conduct.
 * **Necessary concessions and limiting principles:** Congress remains free to regulate commerce-linked offenses and fitted components of valid interstate schemes, and to enact remedies directed at discriminatory States and state officials.
 * **Solicitor General or amicus position:** No separate position is included unless it performs work in the cited record or governing authorities.
 

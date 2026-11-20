@@ -392,8 +392,8 @@ The Court awards no freestanding innocence relief and sets no uniform standard f
 - **Giglio v. United States, 405 U.S. 150 (1972):** Its protection for material credibility evidence governs the impeachment claim, subject to the separate suppression and materiality requirements.
 - **Herrera v. Collins, 506 U.S. 390 (1993):** Its limited insufficiency holding is preserved; no general freestanding innocence entitlement or threshold is settled.
 - **Felker v. Turpin, 518 U.S. 651 (1996):** Its authorization-specific temporal ruling and submission-specific gateway assessment are distinguished from universal AEDPA retroactivity or a categorical innocence rule.
-- **Brecht v. Abrahamson (April 21, 1993):** Its category-specific habeas prejudice holding does not supply a general alternative screen overriding Brady's incorporated materiality.
-- **O'Neal v. McAninch (February 21, 1995):** Its treatment of prejudice uncertainty within the governing error category does not add a second screen to a complete Brady violation.
+- **Brecht v. Abrahamson (April 21, 1993):** Its general habeas rule for preserved constitutional trial error excepts a right carrying its own prejudice element and does not supply an alternative screen overriding Brady's incorporated materiality.
+- **O'Neal v. McAninch (February 21, 1995):** Its treatment of prejudice uncertainty under Brecht's general rule does not add a second screen to a complete Brady violation.
 - **California v. Roy (November 4, 1996):** Its instructional-error prejudice holding does not impose an additional harmlessness requirement on established Brady suppression.
 - **Teague v. Lane, 489 U.S. 288 (1989):** Its finality-era new-rule inquiry and both contemporary exceptions remain applicable only on established predicates; the acquisition proposal is not classified here.
 - **Schiro v. Farley (January 19, 1994):** Its discretion to decline a late nonretroactivity defense is preserved; lateness is not automatic waiver.

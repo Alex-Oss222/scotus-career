@@ -25,7 +25,7 @@ Repository object existence, history ordering and final repository commitment ar
 | 2001-05-29 | NLRB v. Kentucky River Community Care, Inc. | Reverse the Sixth Circuit as to the supervisory-exclusion burden and inclusion of the six nurses; remand for enforcement consistent with their supported employee status. Burden and functional criteria are unanimous; enforcement is 5-4. | Breyer |
 | 2001-05-29 | PGA TOUR, Inc. v. Martin | Ninth Circuit affirmed, 7–2; cart injunction sustained. | Stone-Zsela |
 | 2001-06-01 | United States v. Napier | Affirmed against the accepted Second Amendment challenge, 7–2; six Justices adopt intermediate scrutiny, Stone-Zsela separately applies strict scrutiny. | O'Connor |
-| 2001-06-04 | Penry v. Johnson | Psychiatric certificate disposition affirmed, 9–0; mitigation certificate disposition reversed and remanded, 7–2; five Justices adopt the confined Chapman effect rule. | Souter |
+| 2001-06-04 | Penry v. Johnson | Psychiatric certificate disposition affirmed, 9–0; mitigation certificate disposition reversed and remanded, 7–2; five Justices apply Brecht's general rule to the remaining effect inquiry. | Souter |
 | 2001-06-04 | Pollard v. E. I. du Pont de Nemours & Co. | Sixth Circuit front-pay cap ruling reversed and remanded, 8–0; O’Connor not participating. | Thomas |
 
 Validation artifacts: `OT_2000CHUNK6_FINAL_CHECKS.json`, `OT_2000CHUNK6_TOOL_CHECK.json`, `OT_2000CHUNK6_ARTIFACT_CHECK.json`, `OT_2000CHUNK6_FINAL_PROJECTION_REVIEW.md`, and the three assembly-review receipts.

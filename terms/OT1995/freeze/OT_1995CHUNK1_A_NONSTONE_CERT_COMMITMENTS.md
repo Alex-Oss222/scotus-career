@@ -19,7 +19,7 @@ Mechanical projection of the frozen petition handoff. Stone row, private introdu
 
 ## Tuggle v. Netherland, No.95-6016 — October30,1995
 
-**Question for the limited grant:** Whether, on an express assumption that an Ake psychiatric-assistance violation is established and otherwise available on habeas, a surviving valid vileness aggravator in Virginia's nonweighing system is by itself sufficient to reject sentence relief. This isolates the lower appellate rationale; it does not accept the withdrawn concession, find an Ake violation, select an error-effect standard, or grant review of the independent Estelle predicates, vileness instruction, voir dire, or rape-sufficiency questions.
+**Question for the limited grant:** Whether, on an express assumption that an Ake psychiatric-assistance violation is established and otherwise available on habeas, a surviving valid vileness aggravator in Virginia's nonweighing system is by itself sufficient to reject sentence relief. This isolates the lower appellate rationale; it does not accept the withdrawn concession, find an Ake violation, decide whether harmless-error review applies, or grant review of the independent Estelle predicates, vileness instruction, voir dire, or rape-sufficiency questions.
 
 | Justice | Final petition position | Case-specific institutional ground and management limit |
 |---|---|---|

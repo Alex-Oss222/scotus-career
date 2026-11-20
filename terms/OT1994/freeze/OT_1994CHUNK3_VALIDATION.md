@@ -4,13 +4,13 @@
 
 ## Authorization and protected scope
 
-The user expressly revalidated O'Neal on September 29, 2026 to extend Chapman by analogy to operative Brecht and authorized rewriting that matter's Section II. The user prohibited every Git command, reserved repository verification and commitment to the operator, and confined writes to terms/OT1994/ and ignored tmp/. No Git command was executed. Other brief content, prior Records and existing public output remain unchanged. The external Engine file change detected during validation is disclosed below; this task did not write foundation or state. Render remains a separate task.
+The user expressly revalidated O'Neal on September 29, 2026 to apply operative Brecht's general Chapman rule and authorized rewriting that matter's Section II. The user prohibited every Git command, reserved repository verification and commitment to the operator, and confined writes to terms/OT1994/ and ignored tmp/. No Git command was executed. Other brief content, prior Records and existing public output remain unchanged. The external Engine file change detected during validation is disclosed below; this task did not write foundation or state. Render remains a separate task.
 
 ## Completed events
 
 | Event | Matter | Result |
 |---|---|---|
-| 1995-02-21 | [O'Neal v. McAninch, No. 93-7407.](../records/ONeal_v_McAninch_merits_1995-02-21.md) | Sixth Circuit judgment vacated and remanded, 7–2; Chapman instruction controls 5–4 for the preserved personal-intent instructional/argument claim. The broader ordinary-trial-error extension has three votes. Conditional writ only if an established violation is not harmless under Chapman. |
+| 1995-02-21 | [O'Neal v. McAninch, No. 93-7407.](../records/ONeal_v_McAninch_merits_1995-02-21.md) | Sixth Circuit judgment vacated and remanded, 7–2; Chapman instruction controls 5–4 for the preserved personal-intent instructional/argument claim under Brecht's general rule. Conditional writ only if an established violation is not harmless under Chapman. |
 | 1995-02-22 | [Anderson v. Green; No. 94-197; 513 U.S. 557](../records/Anderson_v_Green_decision_1995-02-22.md) | Ninth Circuit judgment vacated, 9–0; remand for vacatur of District Court preliminary judgment and dismissal without prejudice as unripe. |
 | 1995-02-22 | [Harris v. Alabama, No. 93-7659](../records/Harris_v_Alabama_merits_1995-02-22.md) | Alabama Supreme Court judgment affirmed, 7–2; no penalty rehearing ordered. Stone-Zsela and Stevens seek sentence relief on distinct grounds. Guilt remains undisturbed. |
 | 1995-02-22 | [Jerome B. Grubart, Inc. v. Great Lakes Dredge & Dock Co., No. 93-762; City of Chicago v. Great Lakes Dredge & Dock Co., No. 93-1094](../records/Jerome_B_Grubart_Inc_v_Great_Lakes_Dredge_Dock_Co_merits_1995-02-22.md) | Affirmed in both dockets, 7–0. Five join the complete Sisson/Extension Act framework; Thomas and Scalia concur in the judgment on their vessel/locality route. Liability and limitation remain open. |
@@ -25,7 +25,7 @@ The user expressly revalidated O'Neal on September 29, 2026 to extend Chapman by
 
 ## Completed chronology
 
-O'Neal is adjudicated effective February 21, 1995. Its Chapman instruction commands five votes, while seven vote to vacate. The Court's rule is limited to the preserved combined personal-intent instructional/prosecutorial category; Stone's complete general extension remains the three-Justice Part III position. The earlier premise mismatch is resolved by the expressly approved Section II replacement, without recasting Kotteakos as operative constitutional-habeas law.
+O'Neal is adjudicated effective February 21, 1995. Its Chapman instruction commands five votes, while seven vote to vacate. The Court applies Brecht's general rule to the preserved combined personal-intent instructional/prosecutorial claim, which is Stone's complete approved position. The earlier premise mismatch is resolved by the expressly approved Section II replacement, without recasting Kotteakos as operative constitutional-habeas law.
 
 The cumulative workspace contains 36 completed inventory events and 63 open events, retains all seven unscheduled carryovers and the April 4 statutory transition, and is complete for the scheduled inventory through March 20. The next scheduled event is Director, OWCP v. Newport News Shipbuilding & Dry Dock Co., March 21, chunk 4. Existing Miller and conditional Kimberlin/Johnson limits remain. Same-day groups retain their common entering-law baselines. The [completion chronology review](OT_1994CHUNK3_ONEAL_CHRONOLOGY.md) establishes that no later completed adjudication requires correction.
 

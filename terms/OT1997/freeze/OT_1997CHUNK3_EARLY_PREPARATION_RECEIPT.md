@@ -4,7 +4,7 @@
 
 **Lee:** Full lower opinion, statutory appendix, and all six numbered footnotes read at OpenJurist; actual CAP reporter reproduction located through its volume metadata and corroborated. The source-facts handoff and exact entering-law are released to a fresh neutral validator. This preparer did not author or approve Lee's final neutral framing. Source-facts receipt records the narrow failed resource.org/CAP guessed URL attempts and successful actual metadata resolution. No network escalation.
 
-**Buchanan:** Authorized sanitized control facts supply the complete five-paragraph charge, each requested instruction, evidence context, lower grounds, and distinct preservation facts. Exact relevant Holdings and Standards and current Trest/Rogers public law are retained. The review question is ready for no-error or bounded-remand paths. Exact federal petition timing is unrecovered despite control's full lower-opinion check; the range crosses AEDPA enactment. An unconditional writ dependent on assumed pre-AEDPA law is not source-ready. Lindh's noncapital scope and Brecht's category limits are expressly preserved rather than silently expanded.
+**Buchanan:** Authorized sanitized control facts supply the complete five-paragraph charge, each requested instruction, evidence context, lower grounds, and distinct preservation facts. Exact relevant Holdings and Standards and current Trest/Rogers public law are retained. The review question is ready for no-error or bounded-remand paths. Exact federal petition timing is unrecovered despite control's full lower-opinion check; the range crosses AEDPA enactment. An unconditional writ dependent on assumed pre-AEDPA law is not source-ready. Lindh's noncapital scope and the limits of Brecht's general rule are expressly preserved rather than silently expanded.
 
 **LaChance:** Authorized sanitized control facts establish both judgments, five named employees, lower rule and exceptions, McManus's common legal posture, and the 1994 Code procedure/proof/review provisions. Official predivergence judicial texts contained in Loudermill, Bryson, Garrity, and Gardner PDFs were read. Cross-referenced companion writings not contained in those PDFs are explicitly identified as unretrieved and provide no proposition. Packet is ready on constitutional and statutory legal questions and bounded further proceedings. Unreported individual McManus conduct, privilege predicates, and final sanction are not fabricated.
 
@@ -15,9 +15,9 @@
 ## Deterministic validation
 
 - LEE: 4 exact Holdings source ranges verified; slice SHA256 21e505ee0c069daa8671a179db4982618600ab2e7ebe245508fc5a3757af83a3
-- BUCHANAN: 6 exact Holdings source ranges verified; slice SHA256 507e145acc6df0c94ba777494cb5ae460023a705ffc3da08d90d2084d854c6ad
+- BUCHANAN: 6 exact Holdings source ranges verified; slice SHA256 edf5b180a2fa8e52583449e414fcc22f195d441bf13f57e6d95b391a77ecd4a4
 - LACHANCE: 2 exact Holdings source ranges verified; slice SHA256 560d6ff2bf3f37bb1374dddcff3d5bf9589533adf5951daf05795daa9eedc58b
 - LUNDING: 3 exact Holdings source ranges verified; slice SHA256 ecafa980786058c0a88a323d77b4a74b53408ab6e42278fa8e4c1ebbc6223e05
-- BUCHANAN: neutral local handoff links resolve; designated private-position residue scan passed; SHA256 a65bd11fb19d6feea90e34601747611a71ec1c5ae716d5a8b00873ce90f61821
+- BUCHANAN: neutral local handoff links resolve; designated private-position residue scan passed; SHA256 52502be867a0b76a4a09dd72699d44497a27d8ce743d7c3de46db41164930d54
 - LACHANCE: neutral local handoff links resolve; designated private-position residue scan passed; SHA256 458fcac0cdaaa230107e10cdb8ae95570d8e5d92016a34f2a546d0dc9717fc39
 - LUNDING: neutral local handoff links resolve; designated private-position residue scan passed; SHA256 6b1af1449cb50e3888bcb6abf854974c2bc4d72bab1d032d2a0741ce20bacfcd

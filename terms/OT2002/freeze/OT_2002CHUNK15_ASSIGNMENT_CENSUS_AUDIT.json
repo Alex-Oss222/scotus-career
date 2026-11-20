@@ -1,6 +1,6 @@
 {
   "source": "terms/OT2002/freeze/OT_2002CHUNK15_EXISTING_OPINION_TABLES.json",
-  "source_sha256": "202359fc887bcb847dda7783ee92add76a30d8b0f1788d67a3e249ae9a562a85",
+  "source_sha256": "6ae11cd453721152f0532eb2e0e68e78dcc6616b4c4a1d0be5a7b202d7eedfc2",
   "existing_records": 181,
   "counted_signed_merits_records": 160,
   "author_credits": 161,
@@ -42,7 +42,7 @@
     "Federal-Election-Commission-v-Beaumont_merits_2003-06-16.md": "Breyer",
     "Overton-v-Bazzetta_merits_2003-06-16.md": "Souter",
     "Virginia-v-Hicks_merits_2003-06-16.md": "Scalia",
-    "United-States-v-American-Library-Association_merits_2003-06-23.md": "Kennedy"
+    "United-States-v-American-Library-Association_merits_2003-06-23.md": "Souter"
   },
   "cano_counted_authors": [
     "Stone-Zsela",

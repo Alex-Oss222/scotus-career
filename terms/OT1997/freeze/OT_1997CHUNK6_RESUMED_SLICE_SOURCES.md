@@ -43,7 +43,7 @@ This receipt certifies copying and module selection only. It is not a substantiv
 **Present operation effective:** Gomez, April 21, 1992.
 
 ### Preserved protected-silence and personal-intent errors on federal habeas review
-**Present operation effective:** Roy, November 4, 1996, extends the personal-intent category and specifies its actual-verdict method; Brecht’s protected-silence rule and O’Neal’s conditional-relief requirements survive.
+**Present operation effective:** Roy, November 4, 1996, applies Brecht’s general rule to the omitted-purpose claim and specifies its actual-verdict method; Brecht’s general rule and O’Neal’s conditional-relief requirements survive.
 
 ### Sequencing nonretroactivity and procedural default on habeas review
 **Present operation effective:** Lambrix, 1997-05-12.
@@ -89,4 +89,4 @@ This receipt certifies copying and module selection only. It is not a substantiv
 | `terms/OT1997/workspace/neutral-projection.md` | `b1371317e706c491188134e95458abe6b1da3a1418e0c7b435891d03ca4b6891` |
 | `terms/OT1997/research/chunk6_b/PRIOR_PUBLIC_WRITINGS.md` | `2ef55f084186c1eb93ecd2732e13339f083cf19d41c2556556f1124c3395b27c` |
 
-Generated slice SHA-256: `97905c38ea6436d498ba2acc5c443d1c7eedd579d766f9fd78071fb2a3d0c837`.
+Generated slice SHA-256: `eecfd5fcb11ccfb0ac89f0590e3e5cef93e002a876438ee41cd3a78949228ea7`.

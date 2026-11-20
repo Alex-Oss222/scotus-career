@@ -89,7 +89,7 @@
     "case": "Smith v. Doe",
     "date": "2003-03-05",
     "record": "Smith-v-Doe_merits_2003-03-05.md",
-    "author": "O'Connor",
+    "author": "Ginsburg",
     "counts": {
       "Stone-Zsela": 5,
       "Stevens": 5,
@@ -103,16 +103,17 @@
     },
     "last": "Lockyer v. Andrade, 2003-03-05",
     "eligible": [
-      "O'Connor",
-      "Scalia",
-      "Kennedy",
-      "Thomas"
+      "Stone-Zsela",
+      "Stevens",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
     ],
     "pool": [
-      "O'Connor",
-      "Scalia",
-      "Kennedy",
-      "Thomas"
+      "Stone-Zsela",
+      "Stevens",
+      "Ginsburg",
+      "Breyer"
     ],
     "prior_lead_records": [
       "United-States-v-Nelson_merits_2002-10-15.md",

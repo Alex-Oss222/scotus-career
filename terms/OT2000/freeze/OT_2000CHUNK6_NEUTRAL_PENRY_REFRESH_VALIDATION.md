@@ -22,7 +22,7 @@ Graham and Johnson, effective before the February 22, 1995 state merits decision
 
 Buchanan and Weeks remain later applications and present continuity evidence, not the clearly established substantive source at the 1995 state adjudication. Williams governs present interpretation of the independent statutory clauses and objective unreasonable-application inquiry. The new context is relevant separately to constitutional adequacy, objective reasonableness of the state court's disposition and any later actual-effect inquiry. A conclusion on one does not resolve the others.
 
-The addendum supplies no new psychiatric-examination fact, certificate procedure, state adjudication date, participation fact, aggravating or mitigating evidence, complete penalty transcript or independent whole-record effect determination. It does not establish harmlessness or harmfulness. The original distinctions among Coleman's defined Chapman category, Weeks's open category and the present original-charge question remain necessary.
+The addendum supplies no new psychiatric-examination fact, certificate procedure, state adjudication date, participation fact, aggravating or mitigating evidence, complete penalty transcript or independent whole-record effect determination. It does not establish harmlessness or harmfulness. The original treatment of Brecht's general rule, as Coleman and Weeks applied it, and of the present original-charge question remains necessary.
 
 ## Readiness and conclusion
 
@@ -32,6 +32,6 @@ The framing is suitable for clean independent reassessment on the stated source 
 
 The refreshed commitment table contains all eight distinct participating Associates. Content checks passed for both new handoffs. The original Penry commitment matches the SHA-256 identity recorded in the original group C validation and was not rewritten.
 
-- OT_2000CHUNK6_COMMITMENTS_penry_v_johnson.md: SHA-256 `9a5a9b9399ba38c7041c1c453a6dd999eec4901fc605ad676647f0eaeb67850e`.
+- OT_2000CHUNK6_COMMITMENTS_penry_v_johnson.md: SHA-256 `fb09107b7e7d559a9602f9109fe6027a57ae40ed43fc4e6efd20eeb4349c1d5d`.
 - OT_2000CHUNK6_NEUTRAL_PENRY_CONTEXT_ADDENDUM.md: SHA-256 `55bfc4f3b2cd9a0467f0c5c32e1591b8e1665756775cecbacb888579bc900a2b`.
-- OT_2000CHUNK6_COMMITMENTS_penry_refresh.md: SHA-256 `cb770391151f71d834b86ac86c00d2e121e5e2edeb980e53619a6caeb47315c1`.
+- OT_2000CHUNK6_COMMITMENTS_penry_refresh.md: SHA-256 `0e760eabb5426098e2b697859d81709447824f0e77c02129f51aac94588a8e31`.

@@ -8,7 +8,7 @@ The authorized Run has seven completed merits decisions and no stopped matter. T
 |---|---|---|---|---|
 | 2003-10-14 | Demore v. Kim | Vacated and remanded; existing $5,000 bond release preserved through the threshold determination and any consequent bond decision | 5–4 | Breyer |
 | 2003-10-30 | United States v. Holston | Affirmed | 9–0 | O’Connor |
-| 2004-02-05 | Rancho Viejo, LLC v. Norton | Vacated and remanded | 7–2 | Kennedy |
+| 2004-02-05 | Rancho Viejo, LLC v. Norton | Affirmed | 9–0 | Kennedy |
 | 2004-03-11 | Lomont v. O’Neill | Affirmed | 9–0 | Scalia |
 | 2004-03-25 | Environmental Defense Center v. EPA | Both constitutional rulings affirmed; distinct administrative remands preserved | 9–0 on each constitutional component | Souter |
 | 2004-04-13 | ACLU of New Jersey v. County of Hudson | Affirmed | 9–0 | Stone-Zsela |
@@ -56,13 +56,13 @@ The following digests identify the final adjudicative and generated handoff byte
 | Artifact | SHA256 |
 |---|---|
 | [demore_v_kim_merits_2003-10-14.md](../records/demore_v_kim_merits_2003-10-14.md) | 26ce9e81dbfa8be1302ac125ad5bf1e9e1a7ddf0e46cb15421986d0d4c30a546 |
-| [united_states_v_holston_merits_2003-10-30.md](../records/united_states_v_holston_merits_2003-10-30.md) | 53f6b904f321c2ce36ccdecb8518b24ef21b786a9422919da9a85a15ce1face5 |
-| [rancho_viejo_llc_v_norton_merits_2004-02-05.md](../records/rancho_viejo_llc_v_norton_merits_2004-02-05.md) | 1aeceb6e67d21c2143148e48ac010672d9557bb572cc700946e61734697f3ff7 |
-| [lomont_v_oneill_merits_2004-03-11.md](../records/lomont_v_oneill_merits_2004-03-11.md) | 67cf9b356056b48cfcddd2cd5be768ce19271b22949b9ce347325d0105613c61 |
+| [united_states_v_holston_merits_2003-10-30.md](../records/united_states_v_holston_merits_2003-10-30.md) | 53e52a411cdfa07a395576e99d45830ffcc3d13a1e3bef356bbf0164ec1e9f6d |
+| [rancho_viejo_llc_v_norton_merits_2004-02-05.md](../records/rancho_viejo_llc_v_norton_merits_2004-02-05.md) | 63f10c552dd43510fdfef2b6546b3737468760d94c2280277f4d6718dfe4b963 |
+| [lomont_v_oneill_merits_2004-03-11.md](../records/lomont_v_oneill_merits_2004-03-11.md) | ad635edc639629c2fd2b9bca91fda9c32e07ca7341ad003a05453cabe8147e8c |
 | [environmental_defense_center_v_epa_merits_2004-03-25.md](../records/environmental_defense_center_v_epa_merits_2004-03-25.md) | 63a459e25ec43fd65e3366680659c355184bdfd6b8cb89bfa6a4f0290d859a81 |
 | [aclu_of_new_jersey_v_county_of_hudson_merits_2004-04-13.md](../records/aclu_of_new_jersey_v_county_of_hudson_merits_2004-04-13.md) | 2686c0cbf98258087164a16d12243f1322fe2ecbdb34d5a914f6e26c4de03d0d |
 | [west_virginia_v_us_department_of_health_and_human_services_merits_2004-06-16.md](../records/west_virginia_v_us_department_of_health_and_human_services_merits_2004-06-16.md) | 0ae0809e69db6bb99af2d4beab897e1a0531d65103e68407474b7aec55bcc9d8 |
-| [OT_2003CHUNK1.md](../render-inputs/OT_2003CHUNK1.md) | 728a3bd04a5f93f91eb9db2bbbdbbf9e637f6ef3be0252b465dcd99c95adfa42 |
-| [OT_2003CHUNK1_COMMITMENTS.md](../freeze/OT_2003CHUNK1_COMMITMENTS.md) | 92ec5a08c90cb33df1642feb8c01394af66976f602b5a63cedc316d34d741558 |
-| [OT_2003CHUNK1_RECONCILED.md](../freeze/OT_2003CHUNK1_RECONCILED.md) | b5ee847a4c4d16cfa169905cfe02824400cadbc22de11e14d60f91e8d7da3abe |
-| [OT_2003CHUNK1_AUDIT_NOTES.md](../freeze/OT_2003CHUNK1_AUDIT_NOTES.md) | bb132683033dcaaa605c7361f15e874a2908e8e68ee2e1f80c2ad580e924529a |
+| [OT_2003CHUNK1.md](../render-inputs/OT_2003CHUNK1.md) | d7f6960cb1e9602121345cb24620ac0885adc59bbaea2c96ada9172328204885 |
+| [OT_2003CHUNK1_COMMITMENTS.md](../freeze/OT_2003CHUNK1_COMMITMENTS.md) | 466f2412e91f714f128d1bdd1666cbdcb9d97cc9604bcba9ca2199af0e20f52c |
+| [OT_2003CHUNK1_RECONCILED.md](../freeze/OT_2003CHUNK1_RECONCILED.md) | 7cd89f805b61449d9ab9179073b87f02f0b60e71d5e3451bc04a079fc6531a95 |
+| [OT_2003CHUNK1_AUDIT_NOTES.md](../freeze/OT_2003CHUNK1_AUDIT_NOTES.md) | 8fd61ddb58c83e55d4f9275c6683dfb85988ce92f9d6c64eacbe8e6695561e82 |

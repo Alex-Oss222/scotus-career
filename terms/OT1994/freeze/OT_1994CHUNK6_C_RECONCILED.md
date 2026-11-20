@@ -31,7 +31,7 @@ Stevens, O’Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer reverse the ju
 | O’Connor | Reverse; Maleng participation and Wilson join support the actual custody question without merits entitlement. | Same. No challenge based solely on independent expired conviction consequences. |
 | Scalia | Reverse; Maleng participation and O’Neal dissent preserve statutory gates. Peyton aggregation satisfies this gate without enlarging merits relief. | Same. Actual custody-duration effect required. |
 | Kennedy | Reverse; Maleng participation and O’Neal concurrence preserve separate remedy requirements. | Same. No immediate release or automatic merits relief. |
-| Souter | Reverse; Wilson join and O’Neal concurrence are adjacent personal support; Peyton supplies the legal rule. | Same. Continuous consecutive series is the limiting category. |
+| Souter | Reverse; Wilson join and O’Neal join are adjacent personal support; Peyton supplies the legal rule. | Same. Continuous consecutive series is the limiting category. |
 | Thomas | Affirm; Wilson opinion and O’Neal dissent support an independent statutory custody gate. His own Garlotte dissent independently confirms that he confines Peyton to unexpired sentences and treats Maleng as requiring custody under the conviction attacked. | Same. Advancing release alone does not overcome his particular-conviction objection; no supported narrower revision obtains his join. |
 | Ginsburg | Reverse; O’Neal join preserves ordinary gates while Peyton’s aggregate custody reaches this series. | Same. Do not decide conviction validity. |
 | Breyer | Reverse; O’Neal join is adjacent support; Peyton supplies aggregation and the custody effect distinguishes independent expiration. | Same. Merits remain for lawful review. |

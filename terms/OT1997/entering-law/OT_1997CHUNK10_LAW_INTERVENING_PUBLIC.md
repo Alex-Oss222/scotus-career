@@ -1,6 +1,6 @@
 # OT1997 chunk 10: intervening public law
 
-Derived reading copy only. Records remain authoritative. June 8 peers share their pre-June 8 baseline. June 10 and 11 events affect later matters only from their dates; June 15 peers do not govern each other. Home Builders is effective June 8 under its controlling two-route Commerce rule and vacatur/remand.
+Derived reading copy only. Records remain authoritative. June 8 peers share their pre-June 8 baseline. June 10 and 11 events affect later matters only from their dates; June 15 peers do not govern each other. Home Builders is effective June 8 under its controlling necessary-inclusion Commerce rule and affirmance.
 
 ## Copied Public Projection: Cass County v. Leech Lake Band of Chippewa Indians; No. 97-174.
 

@@ -35,7 +35,7 @@
         "Ginsburg",
         "Breyer"
       ],
-      "scope": "Entire narrow opinion: assumed-violation surviving-aggravator rule and bounded remand, collateral standard reserved",
+      "scope": "Entire narrow opinion: assumed-violation surviving-aggravator rule and bounded remand, applicability of harmless-error review reserved",
       "controlling": true
     },
     {
@@ -44,17 +44,17 @@
         "O'Connor",
         "Souter"
       ],
-      "scope": "Concurrence; joins limited to proposed Chapman rule for a preserved, properly available capital denial of required psychiatric assistance when the State presents psychiatric future-danger evidence. Further remedial directions are Stone alone.",
+      "scope": "Concurrence; joins limited to the statement that, if harmless-error review applies, Brecht's general rule governs a preserved, properly available capital denial of required psychiatric assistance when the State presents psychiatric future-danger evidence. Further remedial directions are Stone alone.",
       "controlling": false
     }
   ],
-  "law_summary": "Surviving nonweighing eligibility alone cannot dispose of an independent, properly available psychiatric-assistance claim or establish absence of an effect on sentence selection. Zant's narrower eligibility rule survives. The Court selects no collateral error-effect standard for this Ake category and finds neither a violation nor entitlement to relief. The category-specific Brecht and O'Neal holdings remain unchanged. The concurrence's proposed Chapman extension has no controlling force.",
+  "law_summary": "Surviving nonweighing eligibility alone cannot dispose of an independent, properly available psychiatric-assistance claim or establish absence of an effect on sentence selection. Zant's narrower eligibility rule survives. The Court does not decide whether harmless-error review applies to this Ake category and finds neither a violation nor entitlement to relief. Brecht's general rule and O'Neal's application of it remain unchanged. The concurrence's statement of the governing standard has no controlling force.",
   "published_positions": [
-    "Stone-Zsela (Concurrence): Would extend Chapman to an available Ake denial of this kind, with whole-record State-borne proof beyond a reasonable doubt. Independent narrow ground requires vacatur whatever standard governs. If violation stands, deny relief if harmless; otherwise conditional writ for adequate penalty proceeding within reasonable District Court deadline or lawful replacement of death. No present hearing or deadline; permit standard briefing if not addressed. No invented expert testimony, structural classification, guilt retrial or independent state-aggravator ruling.",
-    "O'Connor (Partial join in Stone concurrence): Supports the proposed Chapman rule only for a preserved, properly available capital denial of required psychiatric assistance when the State presents psychiatric future-danger evidence; no join in further remedial directions.",
-    "Souter (Partial join in Stone concurrence): Supports the same defined Chapman proposal; no join in further remedial directions."
+    "Stone-Zsela (Concurrence): If harmless-error review applies to an available Ake denial of this kind, Brecht's general rule governs, with whole-record State-borne proof beyond a reasonable doubt. Independent narrow ground requires vacatur however applicability and effect are resolved. If violation stands, deny relief if harmless; otherwise conditional writ for adequate penalty proceeding within reasonable District Court deadline or lawful replacement of death. No present hearing or deadline; permit standard briefing if not addressed. No invented expert testimony, structural classification, guilt retrial or independent state-aggravator ruling.",
+    "O'Connor (Partial join in Stone concurrence): Supports the statement that Brecht's general rule governs, if harmless-error review applies, only for a preserved, properly available capital denial of required psychiatric assistance when the State presents psychiatric future-danger evidence; no join in further remedial directions.",
+    "Souter (Partial join in Stone concurrence): Supports the same defined statement of Brecht's general rule; no join in further remedial directions."
   ],
-  "next_stage": "The challenged sentence-review component returns through the Fourth Circuit. Any antecedent defense must be legally available in light of the 1985 state ruling and preservation history; closed issues are not reopened and forfeited defenses are not revived. If an available violation stands, its consequences require consideration on the relevant record under the applicable law. The Court leaves applicability of harmless-error review, the governing standard, actual effect, and ultimate relief unresolved. No writ or new penalty proceeding is ordered now. Independent Estelle theories and other petition questions are outside this limited grant; the Court neither denies those questions nor decides their merits. Unreviewed grounds retain their lawful force.",
+  "next_stage": "The challenged sentence-review component returns through the Fourth Circuit. Any antecedent defense must be legally available in light of the 1985 state ruling and preservation history; closed issues are not reopened and forfeited defenses are not revived. If an available violation stands, its consequences require consideration on the relevant record under the applicable law. The Court leaves applicability of harmless-error review, actual effect, and ultimate relief unresolved. No writ or new penalty proceeding is ordered now. Independent Estelle theories and other petition questions are outside this limited grant; the Court neither denies those questions nor decides their merits. Unreviewed grounds retain their lawful force.",
   "disposition": "Limited certiorari grant; challenged Ake and sentence-review component vacated and remanded, 9–0",
   "participants": [
     "Stone-Zsela",

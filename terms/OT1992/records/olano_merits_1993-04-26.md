@@ -26,13 +26,13 @@ Lawful channel: 28 U.S.C. §1254(1) certiorari review of the identified federal 
 
 Opening trackers: state/HOLDINGS.md, state/STANDARDS_AND_TESTS.md and state/STANDING_STATE.md; Last completed October Term:1991; Processed through:July17 1992, after Benten v. Kessler.; Edition:September15 2026. Unchanged opening state is supplemented by date-eligible workspace records.
 
-**Issue-specific Law-Entering Snapshot:** Rule 24(c) then required discharge of an unused alternate when the jury retired; no later amendment applies. Rule 52 distinguishes preserved and forfeited errors. Atkinson (297 U.S. 157), Young (470 U.S. 1), Zerbst (304 U.S. 458), Richardson (481 U.S. 200) and the jury-intrusion cases supply the surviving baseline. Simulated Zafiro, January 25, preserves claim-specific appellate presentation and record-specific evaluation of instructions. Simulated Brecht, April 21, retains Chapman for preserved Doyle error on habeas; it supplies neither an actual-innocence prerequisite nor a Rule 52(b) burden. Opening Williams, March 9, 1992, and Standards “Review of Guidelines departures resting on invalid grounds,” Present operation effective Williams March 9, 1992, concern Rule 52(a), not this forfeiture. No directly governing opening register entry supplies the new four-part articulation.
+**Issue-specific Law-Entering Snapshot:** Rule 24(c) then required discharge of an unused alternate when the jury retired; no later amendment applies. Rule 52 distinguishes preserved and forfeited errors. Atkinson (297 U.S. 157), Young (470 U.S. 1), Zerbst (304 U.S. 458), Richardson (481 U.S. 200) and the jury-intrusion cases supply the surviving baseline. Simulated Zafiro, January 25, preserves claim-specific appellate presentation and record-specific evaluation of instructions. Simulated Brecht, April 21, retains Chapman for preserved constitutional trial error on habeas; it supplies neither an actual-innocence prerequisite nor a Rule 52(b) burden. Opening Williams, March 9, 1992, and Standards “Review of Guidelines departures resting on invalid grounds,” Present operation effective Williams March 9, 1992, concern Rule 52(a), not this forfeiture. No directly governing opening register entry supplies the new four-part articulation.
 
 **Reach and limits:** Whether the unobjected-to presence of instructed alternate jurors during deliberations permits reversal under Rule 52(b), and how error, plainness, substantial rights and remedial discretion differ. The facts, holdings and remedy supply the material reservations; no unreviewed component is implicitly resolved.
 
 ## Stone’s approved position and revalidation
 
-Source: unchanged briefs/OT_1992CHUNK6.md and matching runtime/OT_1992CHUNK6_STONE.md, SectionII for this case, approved v1.1 used under the present express Run instruction. Approved v1.1 by the present Run instruction. Reverse/remand only the per se new-trial component; insufficient-evidence reversals remain intact. Assumes forfeiture and accepts only error/plainness concessions. Joins the Court’s four distinct requirements, ordinary defendant prejudice burden and rejection of automatic prejudice here. No actual-innocence-only limit or universal outcome-proof requirement; no authorized inquiry into protected juror mental processes. The Court reserves Rule 606(b) questions and hearing authority rather than authorizing such an inquiry. Brecht’s actual narrow holding does not displace any premise of this Rule 52(b) position. No fallback used.
+Source: unchanged briefs/OT_1992CHUNK6.md and matching runtime/OT_1992CHUNK6_STONE.md, SectionII for this case, approved v1.1 used under the present express Run instruction. Approved v1.1 by the present Run instruction. Reverse/remand only the per se new-trial component; insufficient-evidence reversals remain intact. Assumes forfeiture and accepts only error/plainness concessions. Joins the Court’s four distinct requirements, ordinary defendant prejudice burden and rejection of automatic prejudice here. No actual-innocence-only limit or universal outcome-proof requirement; no authorized inquiry into protected juror mental processes. The Court reserves Rule 606(b) questions and hearing authority rather than authorizing such an inquiry. Brecht’s actual holding, confined to preserved constitutional trial error on habeas, does not displace any premise of this Rule 52(b) position. No fallback used.
 
 Discretion is confined to compatible expression, assignment and supported opinion structure. Final vote, authorship and joins appear alongside the other Justices. No substantive Stone exception is invented.
 
@@ -69,7 +69,7 @@ Stone is in the six-Justice judgment coalition and assigns the opinion to O’Co
 - Johnson v. Zerbst, 304 U.S. 458: applies intentional relinquishment; right-specific waiver requirements remain.
 - United States v. Young, 470 U.S. 1: applies limited plain-error authority and ordinary prejudice requirement.
 - Arizona v. Fulminante, 499 U.S. 279: preserves structural/trial-error distinction without deciding every Rule 52(b) category.
-- Simulated Brecht, April 21, 1993: distinguished; preserved Doyle habeas review does not control forfeited Rule 24(c) error.
+- Simulated Brecht, April 21, 1993: distinguished; habeas review of preserved constitutional trial error does not control forfeited Rule 24(c) error.
 
 #### Correction remains discretionary
 
@@ -102,7 +102,7 @@ Stone is in the six-Justice judgment coalition and assigns the opinion to O’Co
 
 ## Law after decision and present force
 
-Before: Rule52(b) and Atkinson/Young supplied discretionary correction without this complete articulation. After: four separate requirements govern forfeited-error review; ordinary defendant prejudice burden and the no-presumed-prejudice result for instructed alternates apply. Valid waiver, new clarity on appeal, structural categories and Rule606(b)/hearing authority remain reserved. Brecht’s Chapman rule for preserved Doyle habeas error and Zafiro’s record-specific instruction analysis remain unchanged.
+Before: Rule52(b) and Atkinson/Young supplied discretionary correction without this complete articulation. After: four separate requirements govern forfeited-error review; ordinary defendant prejudice burden and the no-presumed-prejudice result for instructed alternates apply. Valid waiver, new clarity on appeal, structural categories and Rule606(b)/hearing authority remain reserved. Brecht’s Chapman rule for preserved constitutional trial error on habeas and Zafiro’s record-specific instruction analysis remain unchanged.
 
 All operative qualifications and questions reserved in Holdings and Judgment & Remedy remain part of the stated law. Separate writings do not add controlling propositions.
 

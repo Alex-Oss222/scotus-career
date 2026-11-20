@@ -2,7 +2,7 @@
 
 **Event:** June 17, 1999; No. 98-5864. **Readiness:** NOT ready for final assembly. Cause and conviction-level assessment are reconciled below; all eight penalty rows are stopped for a material source-context correction and fresh affected neutral/model/reconciliation stages. This released artifact is immutable. A later corrected reconciliation must use a distinct filename and expressly supersede its affected status.
 
-**Model:** `OT_1998CHUNK10_STRICKLER_COMMITMENTS.md`, SHA256 `7cbd914a95b35452cd1f25ad625dfe23cbdd810b55241097a8028ee0170bbd2e`.
+**Model:** `OT_1998CHUNK10_STRICKLER_COMMITMENTS.md`, SHA256 `37c3a3e9867bddb9ab4d5b77f9595d61282505c4608df66a391c74065e94a292`.
 
 **Neutral:** `OT_1998CHUNK10_A_STRICKLER_NEUTRAL.md`, SHA256 `1bc89369962bc42ec47b6424ac43c5e270d21e00b2e3ec0d2d8061d6f3af635a`.
 
@@ -47,7 +47,7 @@ No new source fact is adopted to change those unaffected components. The model a
 
 ## Law, remedies and dependencies preserved
 
-The governing Standards remain “Collective Brady materiality and investigating-team responsibility” (Kyles, April 19, 1995), “Independent psychiatric-assistance injury after surviving capital eligibility” (Tuggle, October 30, 1995), and the specified pre-AEDPA capital extension in “Temporal reach of ordinary AEDPA habeas amendments” (Carriger, April 16, 1998, retaining Lindh). Tuggle preserves a distinct penalty injury inquiry but supplies no new Brady burden or automatic relief. Calderon v. Coleman concerns its defined instruction category; no Chapman or substantial-influence test replaces Brady here. Former law applies to the identified §2254 merits/factual provisions without a blanket AEDPA exemption.
+The governing Standards remain “Collective Brady materiality and investigating-team responsibility” (Kyles, April 19, 1995), “Independent psychiatric-assistance injury after surviving capital eligibility” (Tuggle, October 30, 1995), and the specified pre-AEDPA capital extension in “Temporal reach of ordinary AEDPA habeas amendments” (Carriger, April 16, 1998, retaining Lindh). Tuggle preserves a distinct penalty injury inquiry but supplies no new Brady burden or automatic relief. Calderon v. Coleman applies Brecht's general rule to its capital-selection error; no Chapman or substantial-influence test replaces Brady here. Former law applies to the identified §2254 merits/factual provisions without a blanket AEDPA exemption.
 
 A completed material Brady violation would not face a duplicative harmlessness hurdle, but cause alone gives no writ. Guilt and death selection remain distinct. No actual-innocence gateway, withdrawn ineffective-assistance claim, standalone instruction claim, proportionality issue or unverified Tudor recantation is introduced. No later presentence/allocution statement is treated as evidence heard by the guilt jury. No final sentence remedy is authorized while the penalty rows are stopped.
 

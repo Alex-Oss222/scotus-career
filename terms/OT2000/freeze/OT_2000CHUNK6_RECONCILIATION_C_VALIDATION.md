@@ -20,13 +20,13 @@ The official reports were supplied as saved text extracted from their saved offi
 
 The full historical opinion disclosed materially relevant objective trial context beyond the initial frozen extracts: judicial and counsel explanations during voir dire, the interval and intervening trials, renewed defense closing and the prosecution's reported oath/evidence/law emphasis. This context reported the gap and withheld completion of affected reconciliation. Control supplied a mechanical neutral addendum, and a fresh clean context validated it and independently reassessed all eight Associates. The refreshed handoff retains the original outcomes after addressing the stronger clarification argument. The original frozen file was not patched.
 
-The refreshed disposition is unanimous adverse psychiatric treatment on the bounded statutory ground; six Associates find mitigation error and unreasonable application and support corrective return; Scalia and Thomas sustain the mitigation denial on no error and independently reasonable state application. Effect remains four for a confined Chapman extension, Stevens and Kennedy for substantial influence with grave doubt against harmlessness, and Scalia and Thomas conditionally for petitioner-proved substantial injurious influence with an evenly balanced showing insufficient. These positions do not form one eight-Justice standard. The whole penalty record has not been recovered or adjudged harmless or harmful.
+The refreshed disposition is unanimous adverse psychiatric treatment on the bounded statutory ground; six Associates find mitigation error and unreasonable application and support corrective return; Scalia and Thomas sustain the mitigation denial on no error and independently reasonable state application. Effect remains four for applying Brecht's general Chapman rule, Stevens and Kennedy for substantial influence with grave doubt against harmlessness, and Scalia and Thomas conditionally for petitioner-proved substantial injurious influence with an evenly balanced showing insufficient. These positions do not form one eight-Justice standard. The whole penalty record has not been recovered or adjudged harmless or harmful.
 
 ## Entering-law checks
 
 Focused checks covered actual Landgraf, Cleveland and Kolstad; Bragdon, Kirkingburg, Sutton and Olmstead; Love, Hale, Wright and Fraternal Order; Graham, Johnson, Buchanan, Hohn, Coleman, Weeks, Williams and Slack. Public Wright, Coleman, Weeks and Kolstad separate positions were examined where their distinct scope mattered. Current Garrett and Shafer were checked within their actual issue and temporal limits. The enacted C statutory supplement was checked for the material Title III and Title VII provisions; Napier's full footnote supplies the separate section 922(g)(8) alternatives.
 
-Penry's pre-1995 effective-vehicle rule comes from the then-existing authorities, particularly Graham and Johnson. Buchanan, Weeks and Shafer are not backdated. Coleman's commutation category and Weeks's unresolved response category do not already determine this original-charge effect rule. The historical Penry opinion does not supply a separately voted mitigation effect standard. The historical departure line identifies the narrower methodological difference from its additional psychiatric Brecht discussion, without claiming a changed psychiatric judgment.
+Penry's pre-1995 effective-vehicle rule comes from the then-existing authorities, particularly Graham and Johnson. Buchanan, Weeks and Shafer are not backdated. Brecht's general rule, which Coleman and Weeks applied to commutation and response errors, governs this original-charge effect question. The historical Penry opinion does not supply a separately voted mitigation effect standard. The historical departure line identifies the narrower methodological difference from its additional psychiatric Brecht discussion, without claiming a changed psychiatric judgment.
 
 Napier does not mechanically extend Fraternal Order's conviction and official-use holding. Six Associates support a bounded new civil-order application; two require further actual justification. Neither source omissions nor a later assault allegation is converted into an invalid hearing, conviction or new predicate. The statutory force and credible-threat alternatives remain distinct.
 
@@ -43,18 +43,18 @@ No final Court arithmetic, assignment balance, Record-to-Public-Projection ident
 | freeze/OT_2000CHUNK6_COMMITMENTS_new_hampshire_v_maine.md | `30277e4f5c75db16a0ba5748c770b10e4692f20c2d6e619fbc8a53d677d5b0df` |
 | freeze/OT_2000CHUNK6_COMMITMENTS_pga_tour_v_martin.md | `181eeca5131ccb9f44450c8bb62479f9d7dc5a5cb0b6ac1a25fa668613d8af96` |
 | freeze/OT_2000CHUNK6_COMMITMENTS_united_states_v_napier.md | `b34fdb7445ab7901d54a484b44aa13fd446f328eb7f7fea20737b9333ae1dbf5` |
-| freeze/OT_2000CHUNK6_COMMITMENTS_penry_v_johnson.md | `9a5a9b9399ba38c7041c1c453a6dd999eec4901fc605ad676647f0eaeb67850e` |
+| freeze/OT_2000CHUNK6_COMMITMENTS_penry_v_johnson.md | `fb09107b7e7d559a9602f9109fe6027a57ae40ed43fc4e6efd20eeb4349c1d5d` |
 | freeze/OT_2000CHUNK6_COMMITMENTS_pollard_v_du_pont.md | `31a29d0925683a58c0dac0f463e2f3398568e3f6c8f0b0fd8b039f6f82d2c1e0` |
-| freeze/OT_2000CHUNK6_NEUTRAL.md | `0d7878f29c0db53809d97ae3ba0f3481f1ae65d1da10a9a11782953a5edada23` |
-| freeze/OT_2000CHUNK6_NEUTRAL_C.md | `dba166d4df1950acef6a083234064d5c598b4259c29f575133065e66e5394ee2` |
+| freeze/OT_2000CHUNK6_NEUTRAL.md | `b885f5b801267655802d50218198e5f5fffe8bccd78ec3c36d947bef873529df` |
+| freeze/OT_2000CHUNK6_NEUTRAL_C.md | `f9aaa308d63e1855f7692f4ad1a18e4c07021b441c35609f59d4f83295481623` |
 | freeze/OT_2000CHUNK6_NEUTRAL_SOURCE_C.md | `85064436a89156ab76bd94e4cde8c2f2c5a9e55409d32b22fe2a912d7d9b9e88` |
 | freeze/OT_2000CHUNK6_NEUTRAL_C_DATES.md | `236166e24af914c17c4b0b66557a1baebabd436ee4203bbd7091cea20b4f2d47` |
 | freeze/OT_2000CHUNK6_NEUTRAL_C_STATUTES.md | `7b0512bda10ea5ae51a07f265f39107471652bb0ac7c82dbaca475d06d6e27d2` |
 | freeze/OT_2000CHUNK6_NEUTRAL_PENRY_CONTEXT_ADDENDUM.md | `55bfc4f3b2cd9a0467f0c5c32e1591b8e1665756775cecbacb888579bc900a2b` |
-| freeze/OT_2000CHUNK6_NEUTRAL_PENRY_REFRESH_VALIDATION.md | `7ba2e190b8c4850d0b2f27a4d8378ddbb82d728b5ef46dab1fbec61cd96ff7e4` |
-| freeze/OT_2000CHUNK6_COMMITMENTS_penry_refresh.md | `cb770391151f71d834b86ac86c00d2e121e5e2edeb980e53619a6caeb47315c1` |
+| freeze/OT_2000CHUNK6_NEUTRAL_PENRY_REFRESH_VALIDATION.md | `a0f869e5b6690bd12df0d345470706b3bc394fdcf1da08de028cb258f8f4a33a` |
+| freeze/OT_2000CHUNK6_COMMITMENTS_penry_refresh.md | `0e760eabb5426098e2b697859d81709447824f0e77c02129f51aac94588a8e31` |
 | runtime/OT_2000CHUNK6_COMPARATOR.md | `966803c83bfa21c75d0c969563eb2ff564e8d4767093d97ac6526ff9853c351d` |
-| entering-law/OT_2000CHUNK6_C.md | `ead0b2e87d8b48081814fadf8b72f19e9debb40be01459465586c1aa7e7ab266` |
+| entering-law/OT_2000CHUNK6_C.md | `ba4b98d3757f3b53cb537315ce5504811c3791c4f7c98dfb4294706b01ef7c41` |
 | entering-law/OT_2000CHUNK6_C_PENRY_STATE.txt | `b975de94c0253cbaf994d6bc491dda478ccd50eeec17bda5ce92b407f9b6d52c` |
 | sources/chunk6-control/USREPORTS-532-742.txt | `7191b79387fbb0fa34fe4a8ad124acfda3689c49cb8d743e97a8d3354bb6c0d0` |
 | sources/chunk6-control/USREPORTS-532-661.txt | `f846331b144ee429ef7d6116f460e52566c664056a7bad641a8315306015310d` |
@@ -69,5 +69,5 @@ No final Court arithmetic, assignment balance, Record-to-Public-Projection ident
 | freeze/OT_2000CHUNK6_RECONCILED_new_hampshire_v_maine.md | `0655ff2de9aa4e9d517e6f305d5d5cd6cb5f5805c32a65c82af43986caa84f22` |
 | freeze/OT_2000CHUNK6_RECONCILED_pga_tour_v_martin.md | `0bb77c421a89abc60fdcc3710efde50dba99db09a662c46b57c77648faece8b1` |
 | freeze/OT_2000CHUNK6_RECONCILED_united_states_v_napier.md | `b197816217b427674b88691a53627ac47a502dfa2988d80025294259a52991e0` |
-| freeze/OT_2000CHUNK6_RECONCILED_penry_v_johnson.md | `e4f78588197d5dd12ffe34acdc06c114e7bab6322d8d2ecc3d668092be6e3578` |
+| freeze/OT_2000CHUNK6_RECONCILED_penry_v_johnson.md | `84f778dfaa9c98577a32808fbec75b5b1277baf477c971faacf19f353891ba67` |
 | freeze/OT_2000CHUNK6_RECONCILED_pollard_v_du_pont.md | `761d70dfbcba82f165a7a8756a7284fc44dd99d7cb4bced2d657fa2fd1a91289` |

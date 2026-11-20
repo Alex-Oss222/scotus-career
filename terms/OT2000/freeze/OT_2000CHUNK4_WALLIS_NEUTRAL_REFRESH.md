@@ -4,7 +4,7 @@ This preflight preserves the earlier neutral preflight. It supplies source limit
 
 ## Inputs and effective-law version
 
-The original effective-law reading copy contained five completed decisions: Buford and TrafFix of March 20, and Circuit City, Egelhoff and Ferguson of March 21. The complete Ferguson Public Projection and complete published noncontrolling continuity were read from that copy. The subsequently supplied FINAL reading copy adds Gibbs as the sixth decision. Its complete public Holdings and Precedent Treatment were separately checked. Gibbs concerns the Commerce Clause connection required for a wildlife-taking regulation and the existing-record remedy under that framework. It supplies no child-removal, bodily-examination, parental-participation, municipal-attribution or personal-immunity rule. Its confined remand does not create a general entitlement to new evidence and does not resolve Wallis preservation. No change to the Wallis alternatives below follows from that addition.
+The original effective-law reading copy contained five completed decisions: Buford and TrafFix of March 20, and Circuit City, Egelhoff and Ferguson of March 21. The complete Ferguson Public Projection and complete published noncontrolling continuity were read from that copy. The subsequently supplied FINAL reading copy adds Gibbs as the sixth decision. Its complete public Holdings and Precedent Treatment were separately checked. Gibbs concerns the Commerce Clause connection required for a wildlife-taking regulation and sustains the challenged private-land taking rule under that framework. It supplies no child-removal, bodily-examination, parental-participation, municipal-attribution or personal-immunity rule. Its affirmance creates no entitlement to new evidence and does not resolve Wallis preservation. No change to the Wallis alternatives below follows from that addition.
 
 Other substantive inputs are the original NEUTRAL_LATER Wallis block; the approved LATER_NEUTRAL_PREFLIGHT Wallis section; Carter and Troxel in LATER_FOCUS; Denius and McArthur, including their published separate positions, in LATER_CURRENT; and the saved lower Wallis opinion, including its municipal analysis, Rymer dissent and all notes. Repository-relative source paths and exact full-file hashes appear below. No raw decision record or current-target position handoff was used.
 
@@ -57,7 +57,7 @@ The following hashes identify the complete input files; the substantive reading 
 | Input | SHA-256 |
 |---|---|
 | `terms/OT2000/entering-law/OT_2000CHUNK4_EFFECTIVE_BEFORE_2001-04-02.md` | `1a1d46cbdfdeb940bee7f1b85b89252b36f5e1f65eedc3f19c31ed744d2eaf86` |
-| `terms/OT2000/entering-law/OT_2000CHUNK4_EFFECTIVE_BEFORE_2001-04-02_FINAL.md` | `d0647790e6a619d5250d71bbf5b01d97b0951a75b3d3369acf9f354af42e9d19` |
+| `terms/OT2000/entering-law/OT_2000CHUNK4_EFFECTIVE_BEFORE_2001-04-02_FINAL.md` | `59addeddbd8b075029a4780d6172085cd1fe51e1383c5c431f51414690543f4c` |
 | `terms/OT2000/runtime/OT_2000CHUNK4_NEUTRAL_LATER.md` | `04c88fa85b66636353b10e0e4d73520d3766d3495ffb2df29e62a00b5ef1372f` |
 | `terms/OT2000/freeze/OT_2000CHUNK4_LATER_NEUTRAL_PREFLIGHT.md` | `b76a64276cfebee4abd7bd04fa8a453b10cbb766197741af8acaab0f1ed7a498` |
 | `terms/OT2000/entering-law/OT_2000CHUNK4_LATER_FOCUS.md` | `e1030e825f950de3544d429aad9be1664bfc83ab1545c8474c09dceb424f97d8` |

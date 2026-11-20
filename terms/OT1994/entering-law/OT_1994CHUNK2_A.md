@@ -1446,21 +1446,22 @@ No Supreme Court precedent is overruled. This decision establishes no universal 
 - Jenkins, 447 U.S. 231, and Fletcher, 455 U.S. 603 — distinguished: prewarning impeachment remains permissible in the circumstances presented.
 - Fulminante, 499 U.S. 279 — applied: this evidentiary trial error permits harmlessness analysis; structural defects remain distinct.
 
-##### Chapman governs this preserved Doyle claim on habeas
+##### Chapman governs preserved constitutional trial error on habeas
 
-**Holding:** For this preserved Doyle trial error properly before the federal habeas court, the State must establish beyond a reasonable doubt that the constitutional error did not contribute to the verdict. Collateral posture alone does not replace that burden with Kotteakos; the reviewing court must apply Chapman to the whole record, with relief conditional on failure of the State’s showing rather than automatic from the violation.
+**Holding:** When a federal habeas court properly reaches a preserved constitutional trial-error claim, the State must establish beyond a reasonable doubt that the constitutional error did not contribute to the verdict or sentence challenged. That rule governs unless another controlling rule treats the defect as structural or the violated right carries its own necessary prejudice element. The reviewing court examines the actual verdict or sentence, the lawful evidence, the jury charge and material arguments, how the error entered the proceeding and its relation to contested issues; it may not substitute the conclusion that a properly instructed hypothetical jury could have convicted. Collateral posture alone does not replace that burden with Kotteakos; the reviewing court must apply Chapman to the whole record, with relief conditional on failure of the State’s showing rather than automatic from the violation. Preservation, exhaustion, procedural default, Teague, the limits on successive applications and other statutory gates remain intact, and nonconstitutional trial error is not made constitutional. This preserved Doyle violation is reviewed under that rule.
 
 **Proposition-level authority:** White’s Opinion of the Court, II–III; Stone-Zsela, White, Blackmun, O'Connor, Souter (5 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
 **Treatment of earlier authority:**
 
-- Chapman, 386 U.S. 18 — applied on federal habeas to this preserved Doyle claim with its burden unchanged.
-- Kotteakos, 328 U.S. 750 — not extended to replace Chapman here; its existing nonconstitutional-error operation remains.
+- Chapman, 386 U.S. 18 — applied on federal habeas to preserved constitutional trial error properly reached, including this Doyle claim, with its burden unchanged.
+- Kotteakos, 328 U.S. 750 — not extended to replace Chapman for constitutional trial error on habeas; its existing nonconstitutional-error operation remains.
 - Rose, 478 U.S. 570, and Yates, 500 U.S. 391 — continuity supported; prior assumed use is not misdescribed as a square holding on this distinction.
 - Stringer, Sochor, Espinosa and Richmond — unchanged: actual correction of capital weighing errors remains distinct.
 - Sawyer and Herrera — not extended into a universal innocence requirement for review of preserved trial error.
+- Teague, 489 U.S. 288 — preserved: with exhaustion, procedural default and the limits on successive applications, it still decides whether a claim may be heard.
 
-**Limits and questions not reached:** The Chapman ruling covers this preserved Doyle claim properly on habeas, not every constitutional collateral claim. Exhaustion, preservation, other habeas gates, structural-error doctrine and capital weighing-error correction remain distinct. The Court does not decide harmlessness or impose an innocence prerequisite.
+**Limits and questions not reached:** The Chapman ruling governs preserved constitutional trial error properly before a federal habeas court, including this Doyle claim, unless another controlling rule treats the defect as structural or the violated right carries its own necessary prejudice element. Exhaustion, preservation, procedural default, Teague, the limits on successive applications, other statutory gates, structural-error doctrine and capital weighing-error correction remain distinct; nonconstitutional trial error is not made constitutional. The Court does not decide harmlessness or impose an innocence prerequisite.
 
 **Operative remedy or transition:** Vacate the Seventh Circuit judgment and remand for whole-record Chapman review with the State’s burden. Relief follows only if that showing fails; no automatic writ, release, acquittal or present retrial deadline.
 
@@ -1516,7 +1517,7 @@ No Supreme Court precedent is overruled. This decision establishes no universal 
 - Johnson v. Zerbst, 304 U.S. 458: applies intentional relinquishment; right-specific waiver requirements remain.
 - United States v. Young, 470 U.S. 1: applies limited plain-error authority and ordinary prejudice requirement.
 - Arizona v. Fulminante, 499 U.S. 279: preserves structural/trial-error distinction without deciding every Rule 52(b) category.
-- Brecht, April 21, 1993: distinguished; preserved Doyle habeas review does not control forfeited Rule 24(c) error.
+- Brecht, April 21, 1993: distinguished; habeas review of preserved constitutional trial error does not control forfeited Rule 24(c) error.
 
 ##### Correction remains discretionary
 
@@ -1657,7 +1658,7 @@ For the other question-level holdings in Sullivan v. Louisiana, June 1, 1993, No
 - Rose v. Clark, 478 U.S.570: separable presumption error distinguished.
 - Arizona v. Fulminante, 499 U.S.279: structural-defect category applied.
 - Estelle v. McGuire, December4,1991: contested-charge framework preserved; no reopening of the conceded defect.
-- Brecht v. Abrahamson, April21,1993: preserved-Doyle habeas rule unchanged; not a Kotteakos constitutional-habeas rule.
+- Brecht v. Abrahamson, April21,1993: habeas rule for preserved constitutional trial error unchanged; not a Kotteakos constitutional-habeas rule.
 
 ### Firearm barter and the trafficking nexus
 
@@ -1769,7 +1770,7 @@ For the other question-level holdings in Minnesota v. Dickerson, June 7, 1993, N
 
 - Teague, 489 U.S.288: both the substantive and watershed exceptions applied in their event-date form.
 - Sawyer v. Smith, 497 U.S.227: the demanding watershed category applied; importance of a procedural protection alone is insufficient.
-- Brecht v. Abrahamson, April 21, 1993: the preserved-Doyle Chapman holding remains distinct; harmlessness is not reached here.
+- Brecht v. Abrahamson, April 21, 1993: the Chapman holding for preserved constitutional trial error remains distinct; harmlessness is not reached here.
 - Sullivan v. Louisiana, June 1, 1993: the absence of a valid reasonable-doubt verdict is a different instructional defect and does not bypass Teague in this case.
 
 ### Custodial exposure to future health risks
@@ -7017,7 +7018,7 @@ For the other questions in Madsen v. Women’s Health Center, Inc., 1994-06-30, 
 - Hill v. United States, 368 U.S. 424 (1962): its ordinary nonconstitutional-error threshold is extended from §2255 to the presented §2254 claim; its distinction between formal omission and fundamental defect remains operative.
 - United States v. Timmreck, 441 U.S. 780 (1979): its collateral distinction is applied to this timing claim without treating every statutory entitlement as a technicality or deciding every aggravated case.
 - Davis v. United States, 417 U.S. 333 (1974): its statutory no-offense holding remains available; this procedural timing claim does not establish that Reed's conduct lay outside the criminal prohibition.
-- Brecht v. Abrahamson, April 21, 1993: its retention of Chapman for the preserved constitutional Doyle claim is distinguished, not displaced; this case decides statutory collateral entitlement rather than the harmlessness of an established constitutional trial error.
+- Brecht v. Abrahamson, April 21, 1993: its retention of Chapman for preserved constitutional trial error properly before a federal habeas court is distinguished, not displaced; this case decides statutory collateral entitlement rather than the harmlessness of an established constitutional trial error.
 
 **Operative remedy or transition:** The Seventh Circuit's denial of habeas relief is affirmed, 5–4, without adopting the lower courts' distinct statutory-merits grounds. No writ, dismissal, remand, new trial or release is ordered; the conviction and sentence remain undisturbed by this claim.
 
@@ -8126,12 +8127,12 @@ For the other question-level holdings in Concrete Pipe & Products of California,
 
 **Governing question:** What instructions govern preserved protected-silence error on federal habeas review?
 
-**Current rule:** Use of post-Miranda silence to impeach a trial explanation violates Doyle and constitutes constitutional trial error rather than a nonconstitutional rule or structural defect. Permitted prewarning impeachment remains distinct. For preserved Doyle error properly before a federal habeas court, the State must establish beyond a reasonable doubt that it did not contribute to the verdict, considering the whole record. Collateral posture alone does not substitute Kotteakos; relief depends on failure of the State's Chapman showing and is not automatic. Other habeas gates and structural-error rules remain independent; this does not prescribe every collateral-review procedure.
+**Current rule:** Use of post-Miranda silence to impeach a trial explanation violates Doyle and constitutes constitutional trial error rather than a nonconstitutional rule or structural defect. Permitted prewarning impeachment remains distinct. When a federal habeas court properly reaches a preserved constitutional trial-error claim, including preserved Doyle error, the State must establish beyond a reasonable doubt that the error did not contribute to the verdict or sentence, considering the whole record, unless another controlling rule treats the defect as structural or the right carries its own prejudice element. The reviewing court examines the actual verdict or sentence and may not substitute the conclusion that a properly instructed hypothetical jury could have convicted. Collateral posture alone does not substitute Kotteakos; relief depends on failure of the State's Chapman showing and is not automatic. Other habeas gates and structural-error rules remain independent; this does not prescribe every collateral-review procedure.
 
 **Authority by component:**
 
 - The protected-silence error remains constitutional trial error: [Brecht v. Abrahamson — The protected-silence error remains constitutional trial error](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1992/records/brecht_merits_1993-04-21.md), 1993-04-21. White’s Opinion of the Court, I; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority agreement at this level of generality; no Marks inference.
-- Chapman governs this preserved Doyle claim on habeas: [Brecht v. Abrahamson — Chapman governs this preserved Doyle claim on habeas](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1992/records/brecht_merits_1993-04-21.md), 1993-04-21. White’s Opinion of the Court, II–III; Stone-Zsela, White, Blackmun, O'Connor, Souter (5 Justices). Direct majority agreement at this level of generality; no Marks inference.
+- Chapman governs preserved constitutional trial error on habeas: [Brecht v. Abrahamson — Chapman governs preserved constitutional trial error on habeas](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1992/records/brecht_merits_1993-04-21.md), 1993-04-21. White’s Opinion of the Court, II–III; Stone-Zsela, White, Blackmun, O'Connor, Souter (5 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
 **Present operation effective:** 1993-04-21; Brecht v. Abrahamson, for the components identified above.
 

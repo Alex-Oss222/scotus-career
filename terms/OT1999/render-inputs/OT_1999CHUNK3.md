@@ -837,15 +837,15 @@ The Court does not decide harmlessness after finding no violation on this ground
 - **Griffin v. California:** Its prohibition on adverse use of protected silence remains. The Court's limited conclusion rejects the proposed constitutional extension for this summation without adopting the plurality's broader account.
 - **Perry v. Leeke:** Its ordinary witness-rule principle remains intact; the four-Justice merits rationale's further use of it does not become a general majority rule here.
 - **United States v. Scheffer:** Its justified and proportionate reliability restriction remains intact; this decision does not expand its categorical evidentiary holding into general approval of rights-based comments.
-- **Brecht v. Abrahamson:** Its defined preserved-Doyle holding remains unchanged; no general substantial-effect test or new Chapman category is adopted.
-- **O'Neal v. McAninch:** Its preserved personal-intent holding remains unchanged; no broader Chapman category is adopted here.
+- **Brecht v. Abrahamson:** Its general rule placing the Chapman burden on the State for preserved constitutional trial error properly reached on federal habeas remains unchanged and is not reached after the no-violation conclusion; no substantial-effect test is adopted.
+- **O'Neal v. McAninch:** Its application of Brecht's general rule to personal-intent error remains unchanged; no effect question is reached here.
 - **California v. Roy:** Its personal-intent omission holding and qualified actual-verdict method remain unchanged; this decision adopts no new effect rule.
-- **Calderon v. Coleman:** Its defined commutation-misinformation holding remains unchanged; this decision adopts no new Chapman category.
-- **Weeks v. Angelone:** Its independent review gates and reserved effect question remain; its post-enactment application does not place amended §2254(d) over Agard's pre-enactment petition.
+- **Calderon v. Coleman:** Its application of Brecht's general rule to commutation misinformation remains unchanged; this decision adopts no new effect rule.
+- **Weeks v. Angelone:** Its independent review gates and its direction for effect review under Brecht's general rule remain; its post-enactment application does not place amended §2254(d) over Agard's pre-enactment petition.
 
 ## Law After Decision
 
-The limited constitutional conclusion that this summation supplies no basis for habeas relief binds lower courts. No five-Justice ordinary-witness rationale, general permission for every tailoring argument, or alternative Marks rule is created. Pre-AEDPA treatment and discretionary refusal of the late Teague defense apply at their stated scope. Existing harmless-error categories and other independent habeas predicates remain unchanged.
+The limited constitutional conclusion that this summation supplies no basis for habeas relief binds lower courts. No five-Justice ordinary-witness rationale, general permission for every tailoring argument, or alternative Marks rule is created. Pre-AEDPA treatment and discretionary refusal of the late Teague defense apply at their stated scope. Brecht's general harmless-error rule, its exceptions and other independent habeas predicates remain unchanged.
 
 ## Separate Writings
 

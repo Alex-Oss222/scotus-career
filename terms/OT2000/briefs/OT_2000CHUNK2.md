@@ -223,7 +223,7 @@ The Seventh Circuit relied on bird-related commerce and an expansive reading of 
 
 ## D. LAWFUL PATHS AND UNCERTAINTY
 
-**Statutory exclusion:** Reverse the challenged jurisdictional ground without reaching commerce power. The holding can be limited to isolated intrastate ponds regulated solely under the bird-habitat criterion; it need not decide all wetlands. **Statutory inclusion with supported commerce connection:** Sustain jurisdiction while leaving any separate permit-merits issue for its proper review. **Statutory inclusion but inadequate constitutional analysis:** Vacate and remand under National Association of Home Builders v. Babbitt for the actual record's mechanism and fit, without supplying missing ecological findings. The choice among these paths changes both remand work and future authority; no path automatically grants the landfill permit or overrides independent state law.
+**Statutory exclusion:** Reverse the challenged jurisdictional ground without reaching commerce power. The holding can be limited to isolated intrastate ponds regulated solely under the bird-habitat criterion; it need not decide all wetlands. **Statutory inclusion with supported commerce connection:** Sustain jurisdiction while leaving any separate permit-merits issue for its proper review. **Statutory inclusion but inadequate constitutional analysis:** Vacate and remand for application of National Association of Home Builders v. Babbitt to the actual record's mechanism and fit, without supplying missing ecological findings. The choice among these paths changes both remand work and future authority; no path automatically grants the landfill permit or overrides independent state law.
 
 ## E. SOURCES
 

@@ -428,7 +428,7 @@ Source: state/holdings/criminal-procedure.md
 **Treatment of earlier authority:**
 
 - Bagley: treats materiality as a defining element of the suppression violation, not an initial screen before a second duplicative prejudice test.
-- Brecht v. Abrahamson, April 21, 1993, and O’Neal v. McAninch, February 21, 1995: preserve their actual category-specific holdings and distinguish them from claim-defining Brady materiality.
+- Brecht v. Abrahamson, April 21, 1993, and O’Neal v. McAninch, February 21, 1995: preserve Brecht’s general rule, applied in O’Neal, and its exception for a right carrying its own prejudice element, which distinguishes claim-defining Brady materiality.
 
 **Operative remedy or transition:** The judgment is reversed and remanded for a conditional habeas writ requiring release unless Louisiana retries Kyles within a reasonable time fixed by the District Court. No acquittal, immediate unconditional release, fixed number of days, penalty-only relief or adjudication of other claims is ordered.
 
@@ -533,7 +533,7 @@ Source: state/holdings/criminal-procedure.md
 - Johnson v. Zerbst, 304 U.S. 458: applies intentional relinquishment; right-specific waiver requirements remain.
 - United States v. Young, 470 U.S. 1: applies limited plain-error authority and ordinary prejudice requirement.
 - Arizona v. Fulminante, 499 U.S. 279: preserves structural/trial-error distinction without deciding every Rule 52(b) category.
-- Brecht, April 21, 1993: distinguished; preserved Doyle habeas review does not control forfeited Rule 24(c) error.
+- Brecht, April 21, 1993: distinguished; habeas review of preserved constitutional trial error does not control forfeited Rule 24(c) error.
 
 **Later-authority backlinks:** Johnson v. United States, May 12, 1997, resolves the intervening-law plainness reservation where settled contrary trial law changes before direct review ends: clarity at appellate consideration suffices. Initially unsettled law, structural classification and ordinary prejudice remain reserved.
 

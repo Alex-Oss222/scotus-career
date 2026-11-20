@@ -369,7 +369,7 @@ O'Dell makes the confined effective-response protection available against Teague
 
 **Controlling explanation:** O'Dell distinguishes removal of a categorical bar from proof of actual eligibility, a denied effective opportunity and an operative writ. Weeks likewise keeps statutory eligibility separate from constitutional error and causal effect. The same separation governs here. Counsel's prediction, the jury's question, the court's response and the prosecution's use of the robbery belong to the actual presentation. Neither the refused response nor the prediction alone decides whether an effective opportunity existed, and the question does not establish the jurors' eventual reasoning.
 
-The Court makes no whole-record harm finding, adopts no structural-error classification, and chooses no standard, burden or treatment of uncertainty for this distinct collateral error category. Brecht, O'Neal, Roy and Calderon v. Coleman retain their own defined applications; their differing settings do not automatically supply a universal rule here. An available violation requires the applicable effect inquiry before relief. The return permits further judicial consideration, but compels no new evidence and reinstates no prior sentencing clock. The conviction, unrelated claims and independent lawful custody remain undisturbed.
+The Court makes no whole-record harm finding and adopts no structural-error classification. It neither applies nor alters Brecht's general harmlessness rule, as O'Neal, Roy and Calderon v. Coleman applied it. An available violation requires the applicable effect inquiry before relief. The return permits further judicial consideration, but compels no new evidence and reinstates no prior sentencing clock. The conviction, unrelated claims and independent lawful custody remain undisturbed.
 
 ## Precedent Treatment
 
@@ -382,10 +382,10 @@ The Court makes no whole-record harm finding, adopts no structural-error classif
 - **Williams v. Taylor (Terry Williams):** Applies the common holdings on independent clauses, governing legal rules, the state-decision cutoff and objective unreasonableness. Neither four-Justice exclusive general allocation becomes controlling here.
 - **Weeks v. Angelone:** Applies the separation of constitutional error, statutory permission and causal entitlement; no conditional separate-writing effect proposal becomes Court law.
 - **Teague v. Lane:** Preserves the distinction between dictated applications and new procedural rules and the applicable exception inquiry when material; it is not interchangeable with section 2254(d)(1).
-- **Brecht v. Abrahamson:** Preserves State-borne Chapman review for preserved Doyle error, where the prosecution uses silence after Miranda warnings to impeach the defendant; no automatic extension to this parole-information claim follows.
-- **O'Neal v. McAninch:** Preserves State-borne Chapman review for its preserved personal-intent instructional and prosecutorial-argument category; it does not establish a universal collateral-error standard.
-- **California v. Roy:** Preserves the extension to a preserved personal-intent omission without accompanying prosecutorial argument; it supplies no automatic capital-information extension here.
-- **Calderon v. Coleman:** Preserves State-borne Chapman review for its properly available capital-selection commutation-instruction claim and the distinction between error and actual effect; that defined extension does not decide this different parole-information category.
+- **Brecht v. Abrahamson:** Preserves its general rule placing the Chapman burden on the State for preserved constitutional trial error properly reached on federal habeas, which it applied to Doyle error, where the prosecution uses silence after Miranda warnings to impeach the defendant; no effect question under that rule is decided here.
+- **O'Neal v. McAninch:** Preserves its application of Brecht's general rule to preserved personal-intent instructional and prosecutorial-argument error.
+- **California v. Roy:** Preserves its application of Brecht's general rule to a preserved personal-intent omission without accompanying prosecutorial argument.
+- **Calderon v. Coleman:** Preserves its application of Brecht's general rule to its properly available capital-selection commutation-instruction claim and the distinction between error and actual effect.
 
 ## Law After Decision
 

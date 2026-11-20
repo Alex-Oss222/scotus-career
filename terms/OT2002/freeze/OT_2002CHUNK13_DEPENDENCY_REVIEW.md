@@ -53,6 +53,6 @@ The completed judgment rests on established Gingles prerequisites, corrected Sec
 | Gratz v. Bollinger | O'Connor | Exact Public Projection equality |
 | Grutter v. Bollinger | Stone-Zsela | Exact Public Projection equality |
 | Krimstock v. Kelly | Kennedy | Exact Public Projection equality |
-| United States v. American Library Association | Kennedy | Exact Public Projection equality |
+| United States v. American Library Association | Souter | Exact Public Projection equality |
 
 The full-joiner substitutions preserve all additional partial joins already present in the drafts. The comparison includes all eleven public blocks, not just the holding paragraphs. The final published propositions, qualifications, dispositions and remedies therefore preserve the dependency analysis above. No correction of either June 26 adjudication is indicated, and no dependency or final-identity issue remains open in this receipt. This receipt does not replace the separate whole-term validation or repository-preservation checks.

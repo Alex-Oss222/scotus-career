@@ -182,17 +182,17 @@ Rejecting per se treatment may require ordinary competitive-effects analysis on 
 
 ### Issue 1: Habeas Corpus
 
-* **Controlling Simulated Law:** Brecht (April 21, 1993) retained Chapman’s State-borne beyond-reasonable-doubt standard for its preserved Doyle claim; O’Neal (February 21, 1995) and Roy (November 4, 1996) applied Chapman to their specified personal-intent instructional errors. None adopted the historical universal substantial-and-injurious-effect rule or resolved every constitutional habeas category. Stringer/Sochor/Espinosa preserve actual correction of capital weighing error. A misleading commutation instruction requires a reasoned choice of the applicable category and standard, not importation of the historical Coleman opinion.
+* **Controlling Simulated Law:** Brecht (April 21, 1993) held that when a federal habeas court properly reaches a preserved constitutional trial error, the State must establish beyond a reasonable doubt that the error did not contribute to the verdict or sentence, unless another controlling rule treats the defect as structural or the right carries its own prejudice element; O’Neal (February 21, 1995) and Roy (November 4, 1996) applied that general rule to their specified personal-intent instructional errors. None adopted the historical universal substantial-and-injurious-effect rule. Stringer/Sochor/Espinosa preserve actual correction of capital weighing error. A misleading commutation instruction requires reasoned application of that standard to the penalty record, not importation of the historical Coleman opinion.
 * **Other Governing Law:** 28 U.S.C. §2254 in the version applicable to the actual filing; constitutional capital-sentencing instruction rules; Chapman v. California. AEDPA application must follow the filing-date and statutory rules rather than assumption.
 
 ## C. DECISION-MATERIAL LITIGATION POSITIONS
 
 * **Controlling Reasoning Below:** Ninth Circuit affirmed a federal habeas grant invalidating California capital sentencing after a Briggs instruction concerning gubernatorial power to commute a life sentence.
-* **Material Positions and Limits:** The State challenges habeas relief without the required harmlessness analysis; Coleman relies on the instruction’s effect on capital selection and the whole penalty record. The current Brecht/O’Neal/Roy line differs from historical law and reserves some categories. The parties’ positions must therefore be assessed under the actual constitutional error and applicable review rule.
+* **Material Positions and Limits:** The State challenges habeas relief without the required harmlessness analysis; Coleman relies on the instruction’s effect on capital selection and the whole penalty record. The current Brecht/O’Neal/Roy line differs from historical law by placing the Chapman burden on the State for preserved constitutional trial error generally. The parties’ positions must therefore be assessed under the actual constitutional error and applicable review rule.
 
 ## D. LAWFUL PATHS AND UNCERTAINTY
 
-A nonstructural instruction error requires the legally applicable harmlessness inquiry rather than automatic relief. The precise extension of the existing Chapman cases to this commutation instruction must be justified. Any conditional relief reaches sentencing, with independent habeas barriers and guilt preserved.
+A nonstructural instruction error requires the legally applicable harmlessness inquiry rather than automatic relief. The application of Brecht’s general rule to this commutation instruction must be justified. Any conditional relief reaches sentencing, with independent habeas barriers and guilt preserved.
 
 ## E. SOURCES
 

@@ -417,7 +417,7 @@ Reversed, 7–2.
 
 - Teague, 489 U.S.288: both the substantive and watershed exceptions applied in their event-date form.
 - Sawyer v. Smith, 497 U.S.227: the demanding watershed category applied; importance of a procedural protection alone is insufficient.
-- Brecht v. Abrahamson, April 21, 1993: the preserved-Doyle Chapman holding remains distinct; harmlessness is not reached here.
+- Brecht v. Abrahamson, April 21, 1993: the Chapman holding for preserved constitutional trial error remains distinct; harmlessness is not reached here.
 - Sullivan v. Louisiana, June 1, 1993: the absence of a valid reasonable-doubt verdict is a different instructional defect and does not bypass Teague in this case.
 
 #### Current-Law Effect

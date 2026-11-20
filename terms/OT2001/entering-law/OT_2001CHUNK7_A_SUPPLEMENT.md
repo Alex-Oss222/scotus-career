@@ -931,25 +931,26 @@ No precedent is overruled.
 - Jenkins, 447 U.S. 231, and Fletcher, 455 U.S. 603 — distinguished: prewarning impeachment remains permissible in the circumstances presented.
 - Fulminante, 499 U.S. 279 — applied: this evidentiary trial error permits harmlessness analysis; structural defects remain distinct.
 
-##### Chapman governs this preserved Doyle claim on habeas
+##### Chapman governs preserved constitutional trial error on habeas
 
-**Holding:** For this preserved Doyle trial error properly before the federal habeas court, the State must establish beyond a reasonable doubt that the constitutional error did not contribute to the verdict. Collateral posture alone does not replace that burden with Kotteakos; the reviewing court must apply Chapman to the whole record, with relief conditional on failure of the State’s showing rather than automatic from the violation.
+**Holding:** When a federal habeas court properly reaches a preserved constitutional trial-error claim, the State must establish beyond a reasonable doubt that the constitutional error did not contribute to the verdict or sentence challenged. That rule governs unless another controlling rule treats the defect as structural or the violated right carries its own necessary prejudice element. The reviewing court examines the actual verdict or sentence, the lawful evidence, the jury charge and material arguments, how the error entered the proceeding and its relation to contested issues; it may not substitute the conclusion that a properly instructed hypothetical jury could have convicted. Collateral posture alone does not replace that burden with Kotteakos; the reviewing court must apply Chapman to the whole record, with relief conditional on failure of the State’s showing rather than automatic from the violation. Preservation, exhaustion, procedural default, Teague, the limits on successive applications and other statutory gates remain intact, and nonconstitutional trial error is not made constitutional. This preserved Doyle violation is reviewed under that rule.
 
 **Proposition-level authority:** White’s Opinion of the Court, II–III; Stone-Zsela, White, Blackmun, O'Connor, Souter (5 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
 **Treatment of earlier authority:**
 
-- Chapman, 386 U.S. 18 — applied on federal habeas to this preserved Doyle claim with its burden unchanged.
-- Kotteakos, 328 U.S. 750 — not extended to replace Chapman here; its existing nonconstitutional-error operation remains.
+- Chapman, 386 U.S. 18 — applied on federal habeas to preserved constitutional trial error properly reached, including this Doyle claim, with its burden unchanged.
+- Kotteakos, 328 U.S. 750 — not extended to replace Chapman for constitutional trial error on habeas; its existing nonconstitutional-error operation remains.
 - Rose, 478 U.S. 570, and Yates, 500 U.S. 391 — continuity supported; prior assumed use is not misdescribed as a square holding on this distinction.
 - Stringer, Sochor, Espinosa and Richmond — unchanged: actual correction of capital weighing errors remains distinct.
 - Sawyer and Herrera — not extended into a universal innocence requirement for review of preserved trial error.
+- Teague, 489 U.S. 288 — preserved: with exhaustion, procedural default and the limits on successive applications, it still decides whether a claim may be heard.
 
-**Limits and questions not reached:** The Chapman ruling covers this preserved Doyle claim properly on habeas, not every constitutional collateral claim. Exhaustion, preservation, other habeas gates, structural-error doctrine and capital weighing-error correction remain distinct. The Court does not decide harmlessness or impose an innocence prerequisite.
+**Limits and questions not reached:** The Chapman ruling governs preserved constitutional trial error properly before a federal habeas court, including this Doyle claim, unless another controlling rule treats the defect as structural or the violated right carries its own necessary prejudice element. Exhaustion, preservation, procedural default, Teague, the limits on successive applications, other statutory gates, structural-error doctrine and capital weighing-error correction remain distinct; nonconstitutional trial error is not made constitutional. The Court does not decide harmlessness or impose an innocence prerequisite.
 
 **Operative remedy or transition:** Vacate the Seventh Circuit judgment and remand for whole-record Chapman review with the State’s burden. Relief follows only if that showing fails; no automatic writ, release, acquittal or present retrial deadline.
 
-**Later-authority backlinks:** O’Neal v. McAninch, February 21, 1995: extends Chapman review to the preserved personal-intent claim arising from the combined instructions and prosecutorial argument; the State bears the beyond-a-reasonable-doubt burden if a violation is found. The Doyle holding remains unchanged, and no general rule for all preserved constitutional trial errors is adopted. See Criminal Procedure — Constitutional trial error on habeas. Calderon v. Coleman, No. 98-437, December 14, 1998: extends State-borne Chapman review to the defined, properly available capital-selection commutation-instruction claim; the earlier holding remains unchanged and no universal constitutional-habeas extension is adopted.
+**Later-authority backlinks:** O’Neal v. McAninch, February 21, 1995: applies this general rule to the preserved personal-intent claim arising from the combined instructions and prosecutorial argument; the State bears the beyond-a-reasonable-doubt burden if a violation is found, and no category-specific extension is needed. See Criminal Procedure — Constitutional trial error on habeas. Calderon v. Coleman, No. 98-437, December 14, 1998: applies this general rule to the properly available capital-selection commutation-instruction claim; the rule, its exceptions for structural defects and rights carrying their own prejudice element, and its independent habeas gates remain unchanged.
 
 ### Forfeited error on criminal appeal
 
@@ -969,7 +970,7 @@ No precedent is overruled.
 - Johnson v. Zerbst, 304 U.S. 458: applies intentional relinquishment; right-specific waiver requirements remain.
 - United States v. Young, 470 U.S. 1: applies limited plain-error authority and ordinary prejudice requirement.
 - Arizona v. Fulminante, 499 U.S. 279: preserves structural/trial-error distinction without deciding every Rule 52(b) category.
-- Brecht, April 21, 1993: distinguished; preserved Doyle habeas review does not control forfeited Rule 24(c) error.
+- Brecht, April 21, 1993: distinguished; habeas review of preserved constitutional trial error does not control forfeited Rule 24(c) error.
 
 **Later-authority backlinks:** Johnson v. United States, May 12, 1997, resolves the intervening-law plainness reservation where settled contrary trial law changes before direct review ends: clarity at appellate consideration suffices. Initially unsettled law, structural classification and ordinary prejudice remain reserved.
 
@@ -1032,7 +1033,7 @@ For the other question-level holdings in Sullivan v. Louisiana, June 1, 1993, No
 - Rose v. Clark, 478 U.S. 570: separable presumption error distinguished.
 - Arizona v. Fulminante, 499 U.S. 279: structural-defect category applied.
 - Estelle v. McGuire, December 4, 1991: contested-charge framework preserved; no reopening of the conceded defect.
-- Brecht v. Abrahamson, April 21, 1993: preserved-Doyle habeas rule unchanged; not a Kotteakos constitutional-habeas rule.
+- Brecht v. Abrahamson, April 21, 1993: habeas rule for preserved constitutional trial error unchanged; not a Kotteakos constitutional-habeas rule.
 
 **Later-authority backlinks:** Tyler v. Cain, June 28, 2001 — necessarily entailed retroactivity of the confined verdict-wide reasonable-doubt rule for the successive-application requirement.
 
@@ -1108,7 +1109,7 @@ For the other question-level holdings in Sullivan v. Louisiana, June 1, 1993, No
 
 - Teague, 489 U.S. 288: both the substantive and watershed exceptions applied in their event-date form.
 - Sawyer v. Smith, 497 U.S. 227: the demanding watershed category applied; importance of a procedural protection alone is insufficient.
-- Brecht v. Abrahamson, April 21, 1993: the preserved-Doyle Chapman holding remains distinct; harmlessness is not reached here.
+- Brecht v. Abrahamson, April 21, 1993: the Chapman holding for preserved constitutional trial error remains distinct; harmlessness is not reached here.
 - Sullivan v. Louisiana, June 1, 1993: the absence of a valid reasonable-doubt verdict is a different instructional defect and does not bypass Teague in this case.
 
 ### Custodial exposure to future health risks
@@ -1948,7 +1949,7 @@ For the other questions in this decision, see Constitutional Structure — Comme
 **Treatment of earlier authority:**
 
 - Bagley: treats materiality as a defining element of the suppression violation, not an initial screen before a second duplicative prejudice test.
-- Brecht v. Abrahamson, April 21, 1993, and O’Neal v. McAninch, February 21, 1995: preserve their actual category-specific holdings and distinguish them from claim-defining Brady materiality.
+- Brecht v. Abrahamson, April 21, 1993, and O’Neal v. McAninch, February 21, 1995: preserve Brecht’s general rule, applied in O’Neal, and its exception for a right carrying its own prejudice element, which distinguishes claim-defining Brady materiality.
 
 **Operative remedy or transition:** The judgment is reversed and remanded for a conditional habeas writ requiring release unless Louisiana retries Kyles within a reasonable time fixed by the District Court. No acquittal, immediate unconditional release, fixed number of days, penalty-only relief or adjudication of other claims is ordered.
 
@@ -1961,31 +1962,31 @@ For the other questions in this decision, see Constitutional Structure — Comme
 
 ##### Chapman governs the preserved personal-intent instructional claim
 
-**Holding:** For a preserved constitutional trial violation, properly available on federal habeas, in which the combined jury instructions and prosecutor's statement permit conviction without proof of the defendant's own intent required for the offense, the State must establish beyond a reasonable doubt, on the whole record, that the error did not contribute to the verdict. Kotteakos's substantial-and-injurious-effect and grave-doubt framework does not govern this claim; the standard for other reserved categories is not decided.
+**Holding:** For a preserved constitutional trial violation, properly available on federal habeas, in which the combined jury instructions and prosecutor's statement permit conviction without proof of the defendant's own intent required for the offense, the State must establish beyond a reasonable doubt, on the whole record, that the error did not contribute to the verdict. This is Brecht's general rule for preserved constitutional trial error properly before a federal habeas court; Kotteakos's substantial-and-injurious-effect and grave-doubt framework does not govern this claim.
 
-**Proposition-level authority:** O'Connor's Parts II and IV, joined by Stone-Zsela, Souter, Ginsburg and Breyer: five Justices. The broader Part III extension has no controlling coalition.
+**Proposition-level authority:** O'Connor's Parts II and III, joined by Stone-Zsela, Souter, Ginsburg and Breyer: five Justices.
 
 **Treatment of earlier authority:**
 
-- Brecht v. Abrahamson, April 21, 1993: extended from preserved Doyle error to the preserved personal-intent instructional/argument category; its original rule survives, while other reserved categories remain unresolved by the Court.
+- Brecht v. Abrahamson, April 21, 1993: applied; its general rule for preserved constitutional trial error properly before a federal habeas court governs the preserved personal-intent instructional/argument claim.
 - Chapman v. California, 386 U.S. 18 (1967): applied with the State's beyond-a-reasonable-doubt burden and actual-verdict contribution inquiry intact.
 - Kotteakos v. United States, 328 U.S. 750 (1946): not extended to replace Chapman for this constitutional claim; its existing operation for genuinely nonconstitutional trial error remains unchanged.
 - In re Winship, 397 U.S. 358 (1970): applied as the constitutional requirement that the prosecution prove the elements of the charged offense; no new personal-intent element is imposed on offenses that do not require it.
 - Sullivan v. Louisiana, June 1, 1993: preserved as the distinct rule for a defect vitiating the jury's governing reasonable-doubt standard; the assumed error here is not declared structural.
 
-**Limits and questions not reached:** The Court does not adopt a general Chapman rule for all preserved constitutional trial errors. Proof of the violation, preservation, exhaustion, independent habeas gates, structural-error rules and a prejudice element defining another constitutional claim remain separate. Actual harmlessness is not decided.
+**Limits and questions not reached:** Brecht already states the general rule for preserved constitutional trial error properly before a federal habeas court, so the Court applies it without a category-specific extension. Proof of the violation, preservation, exhaustion, independent habeas gates, structural-error rules and a prejudice element defining another constitutional claim remain separate. Actual harmlessness is not decided.
 
-**Later-authority backlinks:** California v. Roy, November 4, 1996, No. 95-2025: extends the State-borne Chapman rule to a preserved personal-intent omission without accompanying prosecutorial argument, while leaving a general extension to all constitutional trial errors unadopted. Calderon v. Coleman, No. 98-437, December 14, 1998: extends State-borne Chapman review to the defined, properly available capital-selection commutation-instruction claim; the earlier holding remains unchanged and no universal constitutional-habeas extension is adopted.
+**Later-authority backlinks:** California v. Roy, November 4, 1996, No. 95-2025: applies Brecht's general rule, as this decision applied it to personal-intent error, to a preserved personal-intent omission without accompanying prosecutorial argument; the State bears the Chapman burden. Calderon v. Coleman, No. 98-437, December 14, 1998: applies Brecht's general rule to the properly available capital-selection commutation-instruction claim, as this decision applied it to personal-intent error; the earlier holding and its distinction between corrective review and conditional relief remain unchanged.
 
 ##### The proper standard requires renewed review, not an automatic writ
 
 **Holding:** The Sixth Circuit's substantial-influence assessment with a prisoner prejudice burden does not supply the required Chapman determination; its challenged judgment must be vacated for review of the combined claim under the correct rule. If an available constitutional violation is established and the State fails to prove beyond a reasonable doubt on the existing record that it did not contribute to the verdict, the writ shall issue for the affected conviction or convictions unless the State retries O'Neal within a reasonable time; no immediate writ or present retrial deadline is imposed.
 
-**Proposition-level authority:** O'Connor's Parts II and IV, joined by Stone-Zsela, Souter, Ginsburg and Breyer: five Justices. The broader Part III extension has no controlling coalition.
+**Proposition-level authority:** O'Connor's Part IV, joined by Stone-Zsela, Souter, Ginsburg and Breyer: five Justices.
 
 **Treatment of earlier authority:**
 
-- Brecht v. Abrahamson, April 21, 1993: its whole-record remand and conditional-relief distinction are extended to this instructional claim, without automatic reinstatement of a prior writ.
+- Brecht v. Abrahamson, April 21, 1993: its whole-record remand and conditional-relief distinction are applied to this instructional claim, without automatic reinstatement of a prior writ.
 - Chapman v. California, 386 U.S. 18 (1967): applied to the existing trial record; a weaker substantial-influence finding is not treated as the required finding beyond a reasonable doubt.
 - Estelle v. McGuire, December 4, 1991, and Victor v. Nebraska / Sandoval v. California, March 22, 1994: their whole-charge reasonable-likelihood inquiry remains the rule for identifying an ambiguous instruction's constitutional defect; the Court does not decide that antecedent application here.
 - Schlup v. Delo, January 23, 1995: its gateway for otherwise barred claims remains independent; neither passage through that gateway nor an innocence showing is invented for this claim.
@@ -2002,15 +2003,15 @@ For the other questions in California v. Roy, No. 95-2025, decided November 4, 1
 
 ##### This personal-intent omission permits harmless-error review under Chapman
 
-**Holding:** The preserved omission of Roy's purpose to facilitate robbery is a constitutional trial error subject to harmlessness review, not an error requiring automatic reversal merely because an element was omitted. For this personal-intent violation properly available on federal habeas, the State must establish beyond a reasonable doubt, on the whole record, that the error did not contribute to the verdict; neither collateral posture nor absence of accompanying prosecutorial argument substitutes a weaker burden.
+**Holding:** The preserved omission of Roy's purpose to facilitate robbery is a constitutional trial error subject to harmlessness review, not an error requiring automatic reversal merely because an element was omitted. Under Brecht's general rule for preserved constitutional trial error properly reached on federal habeas, which O'Neal applied to personal-intent instructional error, the State must establish beyond a reasonable doubt, on the whole record, that the error did not contribute to the verdict; neither collateral posture nor absence of accompanying prosecutorial argument substitutes a weaker burden.
 
 **Proposition-level authority:** Souter's Part II, unanimous.
 
-**Limits and questions not reached:** Knowledge and affirmative assistance do not equal purpose to facilitate robbery. The rule does not extend Chapman to every constitutional habeas claim, revive resolved exhaustion issues, or decide AEDPA's temporal reach.
+**Limits and questions not reached:** Knowledge and affirmative assistance do not equal purpose to facilitate robbery. The rule does not revive resolved exhaustion issues or decide AEDPA's temporal reach.
 
-**Treatment of earlier authority:** Gaudin's jury-allocation rule is applied and its structural-error reservation respected; Sullivan's rule remains intact at its stated scope; O'Neal's protected personal-intent category applies to the omission without accompanying argument; Chapman's actual-contribution burden remains the governing burden.
+**Treatment of earlier authority:** Gaudin's jury-allocation rule is applied and its structural-error reservation respected; Sullivan's rule remains intact at its stated scope; Brecht's general rule supplies the burden, and O'Neal's application of it to personal-intent instructional error governs the omission without accompanying argument; Chapman's actual-contribution burden remains the governing burden.
 
-**Later-authority backlinks:** Calderon v. Coleman, No. 98-437, December 14, 1998: extends State-borne Chapman review to the defined, properly available capital-selection commutation-instruction claim; the earlier holding remains unchanged and no universal constitutional-habeas extension is adopted.
+**Later-authority backlinks:** Calderon v. Coleman, No. 98-437, December 14, 1998: applies Brecht's general rule to the properly available capital-selection commutation-instruction claim, as this decision applied it to the personal-intent omission; the earlier holding remains unchanged, and its actual-verdict distinctions inform the actual-sentence inquiry.
 
 ##### Necessary equivalence is sufficient, but not the exclusive permissible inquiry
 
@@ -3444,8 +3445,8 @@ Rule 707(a) excludes polygraph results, examiner opinions, and references to off
 - **Kyles v. Whitley (April 19, 1995):** Its collective materiality, case-team responsibility and incorporated-prejudice rules govern. The Court neither extends nor rejects its duty-to-learn rule as to the proposed witness-file acquisition obligation.
 - **Brady v. Maryland, 373 U.S. 83 (1963):** Its protection against suppression of material favorable evidence remains the basis for the separately gated constitutional claim; gateway passage is not itself a violation.
 - **Giglio v. United States, 405 U.S. 150 (1972):** Its protection for material credibility evidence governs the impeachment claim, subject to the separate suppression and materiality requirements.
-- **Brecht v. Abrahamson (April 21, 1993):** Its category-specific habeas prejudice holding does not supply a general alternative screen overriding Brady's incorporated materiality.
-- **O'Neal v. McAninch (February 21, 1995):** Its treatment of prejudice uncertainty within the governing error category does not add a second screen to a complete Brady violation.
+- **Brecht v. Abrahamson (April 21, 1993):** Its general habeas rule for preserved constitutional trial error excepts a right carrying its own prejudice element and does not supply an alternative screen overriding Brady's incorporated materiality.
+- **O'Neal v. McAninch (February 21, 1995):** Its treatment of prejudice uncertainty under Brecht's general rule does not add a second screen to a complete Brady violation.
 - **California v. Roy (November 4, 1996):** Its instructional-error prejudice holding does not impose an additional harmlessness requirement on established Brady suppression.
 
 ### Closed court-martial contact and prejudice
@@ -3703,13 +3704,13 @@ The applicable six-month and $5,000 Guidelines maxima reflect the particular off
 
 **Proposition-level authority:** Opinion of the Court (O'Connor). O'Connor's Part IV, joined by all nine; gateway availability is assumed.
 
-**Material application:** Griffin v. California forbids use of the accused's trial silence as inculpatory proof. The prosecutor acknowledged inconclusive handwriting evidence and uncertainty whether the matches belonged to Lucas or the victim, then attributed knowledge to Lucas. The final reference can be troubling in isolation, but the reported paragraph explains why ownership does not determine guilt rather than asking the jury to use silence against him. No responsive defense argument, curative instruction or larger unproduced passage is supplied. The Court does not adopt the lower court's alternative substantial-and-injurious-effect analysis. Brecht v. Abrahamson and O'Neal v. McAninch retain their category-specific Chapman holdings; this no-error conclusion neither extends them universally nor selects a new test for Griffin error.
+**Material application:** Griffin v. California forbids use of the accused's trial silence as inculpatory proof. The prosecutor acknowledged inconclusive handwriting evidence and uncertainty whether the matches belonged to Lucas or the victim, then attributed knowledge to Lucas. The final reference can be troubling in isolation, but the reported paragraph explains why ownership does not determine guilt rather than asking the jury to use silence against him. No responsive defense argument, curative instruction or larger unproduced passage is supplied. The Court does not adopt the lower court's alternative substantial-and-injurious-effect analysis. Brecht v. Abrahamson's general Chapman rule for preserved constitutional trial error properly before a federal habeas court, which O'Neal v. McAninch applied, is not reached; this no-error conclusion makes no harmlessness determination.
 
 **Treatment of earlier authority:**
 
 - Griffin applies to the actual contextual use of silence, not every reference to personal knowledge.
-- Brecht retains its protected-silence category; its historical alternative is not adopted here.
-- O'Neal retains its personal-intent and conditional-relief holdings without a universal extension.
+- Brecht's general Chapman rule for preserved constitutional trial error on habeas remains intact and is not reached; its historical alternative is not adopted here.
+- O'Neal retains its application of Brecht's general rule to personal-intent error and its conditional-relief holding.
 
 ##### Claim 8's state impeachment error did not deny fundamental fairness
 
@@ -4515,7 +4516,7 @@ For the other questions in United States v. Griffin / United States v. Langley, 
 
 **Current force:** The case-specific constitutional conclusion controls as stated; it establishes no general license for every generic tailoring argument.
 
-**Limits and questions not reached:** Actual fabrication is not found. Stricter state or trial-court restrictions and protective instructions remain permissible. The Court does not decide harmlessness, a general collateral-error standard, unrelated habeas claims, exclusion of the accused or compulsory early testimony. Specific inconsistencies, changed accounts, collusion and independent fabrication evidence remain distinct.
+**Limits and questions not reached:** Actual fabrication is not found. Stricter state or trial-court restrictions and protective instructions remain permissible. The Court does not decide harmlessness, announce a general collateral-error standard, or decide unrelated habeas claims, exclusion of the accused or compulsory early testimony. Specific inconsistencies, changed accounts, collusion and independent fabrication evidence remain distinct.
 
 **Operative remedy or transition:** The conditional writ's presence-comment ground is removed and the case remanded consistently with that conclusion. No new trial, acquittal, unconditional release, dismissal of unrelated claims or new whole-record harmlessness proceeding is directed.
 
@@ -4524,11 +4525,11 @@ For the other questions in United States v. Griffin / United States v. Langley, 
 - **Griffin v. California:** Its prohibition on adverse use of protected silence remains. The Court's limited conclusion rejects the proposed constitutional extension for this summation without adopting the plurality's broader account.
 - **Perry v. Leeke:** Its ordinary witness-rule principle remains intact; the four-Justice merits rationale's further use of it does not become a general majority rule here.
 - **United States v. Scheffer:** Its justified and proportionate reliability restriction remains intact; this decision does not expand its categorical evidentiary holding into general approval of rights-based comments.
-- **Brecht v. Abrahamson:** Its defined preserved-Doyle holding remains unchanged; no general substantial-effect test or new Chapman category is adopted.
-- **O'Neal v. McAninch:** Its preserved personal-intent holding remains unchanged; no broader Chapman category is adopted here.
+- **Brecht v. Abrahamson:** Its general rule placing the Chapman burden on the State for preserved constitutional trial error properly reached on federal habeas remains unchanged and is not reached after the no-violation conclusion; no substantial-effect test is adopted.
+- **O'Neal v. McAninch:** Its application of Brecht's general rule to personal-intent error remains unchanged; no effect question is reached here.
 - **California v. Roy:** Its personal-intent omission holding and qualified actual-verdict method remain unchanged; this decision adopts no new effect rule.
-- **Calderon v. Coleman:** Its defined commutation-misinformation holding remains unchanged; this decision adopts no new Chapman category.
-- **Weeks v. Angelone:** Its independent review gates and reserved effect question remain; its post-enactment application does not place amended §2254(d) over Agard's pre-enactment petition.
+- **Calderon v. Coleman:** Its application of Brecht's general rule to commutation misinformation remains unchanged; this decision adopts no new effect rule.
+- **Weeks v. Angelone:** Its independent review gates and its direction for effect review under Brecht's general rule remain; its post-enactment application does not place amended §2254(d) over Agard's pre-enactment petition.
 
 For the pre-AEDPA and belated-Teague holdings in Portuondo v. Agard, No. 98-1170, decided March 6, 2000, see Federal Courts — Habeas temporal law and belated defenses.
 
@@ -5206,9 +5207,9 @@ For the preservation bar on the jury-heinousness instruction claim in *Sochor v.
 
 **Material application:** State Claim IX, the state appeal and federal Ground A presented delayed disclosure, impaired preparation and unfairness. Accepted evidence supplements that same injury. The prosecutor's statements-only assurance, reasonable reliance and last-minute photographs, police and medical-examiner evidence impaired investigation, impeachment, objections and response. Actual preparation objections and exclusion requests were made; the absent formal continuance motion establishes no feasible cure or adequate bar. The findings establish substantial probability of a different sentence, substantial injurious influence, and inability to find beyond reasonable doubt that the error did not contribute.
 
-**Limits and questions not reached:** No universal collateral error-effect standard is selected because relief follows under both competing approaches. No structural-error category, automatic exclusion of all uncharged-crime evidence, other-perpetrator finding or universal exhaustion of related theories is adopted.
+**Limits and questions not reached:** Relief follows under Brecht's general rule and equally under the whole-record substantial-influence approach of the Brecht dissents; no new collateral error-effect standard is created. No structural-error category, automatic exclusion of all uncharged-crime evidence, other-perpetrator finding or universal exhaustion of related theories is adopted.
 
-**Treatment of earlier authority:** Picard and Anderson require claim substance, not identical language; Vasquez permits supplementation without fundamental alteration while retaining its deliberate-withholding reservation. Keeney retains Townsend's fifth hearing circumstance for inadequately developed material facts of a properly presented claim, subject to Fay's knowing, considered choice by the prisoner to bypass state process. Ordinary counsel negligence or counsel's choice without prisoner participation is not automatically bypass. Established deliberate bypass permits refusal of the otherwise required hearing rather than requiring denial; Coleman remains distinct. Tuggle separates lawful eligibility from actual sentence selection. Brecht's preserved-Doyle and O'Neal's personal-intent holdings retain their limits; Chapman and Kotteakos supply the two satisfied competing effect inquiries without a general extension.
+**Treatment of earlier authority:** Picard and Anderson require claim substance, not identical language; Vasquez permits supplementation without fundamental alteration while retaining its deliberate-withholding reservation. Keeney retains Townsend's fifth hearing circumstance for inadequately developed material facts of a properly presented claim, subject to Fay's knowing, considered choice by the prisoner to bypass state process. Ordinary counsel negligence or counsel's choice without prisoner participation is not automatically bypass. Established deliberate bypass permits refusal of the otherwise required hearing rather than requiring denial; Coleman remains distinct. Tuggle separates lawful eligibility from actual sentence selection. Brecht's general rule, as O'Neal applied it, governs this claim's effect through Chapman's State-borne burden, which the established injury fails; Kotteakos's whole-record approach, which the Brecht dissents would apply, is also satisfied, and no general replacement of Chapman is adopted.
 
 ##### How must conditional sentencing relief be implemented?
 
@@ -5292,7 +5293,7 @@ For the preservation bar on the jury-heinousness instruction claim in *Sochor v.
 
 **Material application:** O’Dell’s statements about sixteen years for a prior parole violation and never leaving prison remain part of the presentation but do not themselves establish accurate fixed-law information. The vileness aggravator and earlier prison murder do not automatically cure sentence-selection error.
 
-**Treatment of earlier authority:** Gardner and Skipper supply the pre-1988 effective-response protection; Ramos and Caldwell do not authorize withholding the fixed ordinary-parole answer. Simmons retains its triggers and alternative means of informing the jury. Teague and Sawyer preserve distinct old-rule and watershed inquiries; Gideon and Crane supply a confined fair-adversarial-process analogy. Graham, Gray and Lambrix support functional comparison without adding later decisions to the 1988 law. Gilmore and Caspari preserve genuinely new procedural rules and both contemporary exceptions. Allridge’s ordinary-parole release predictions differ. Brecht and O’Neal retain category-specific Chapman holdings; Gray chose no universal collateral standard. This claim’s necessary standard must be resolved under those holdings or an outcome supported under both competing approaches; no harm result or universal prisoner-prejudice rule is assumed.
+**Treatment of earlier authority:** Gardner and Skipper supply the pre-1988 effective-response protection; Ramos and Caldwell do not authorize withholding the fixed ordinary-parole answer. Simmons retains its triggers and alternative means of informing the jury. Teague and Sawyer preserve distinct old-rule and watershed inquiries; Gideon and Crane supply a confined fair-adversarial-process analogy. Graham, Gray and Lambrix support functional comparison without adding later decisions to the 1988 law. Gilmore and Caspari preserve genuinely new procedural rules and both contemporary exceptions. Allridge’s ordinary-parole release predictions differ. Brecht’s general rule for preserved constitutional trial error properly reached on federal habeas, as O’Neal applied it, supplies the governing harmlessness standard; Gray found the injury there harmful under that rule and under Kotteakos alike. Any necessary effect inquiry here proceeds under that standard; no harm result or universal prisoner-prejudice rule is assumed.
 
 ### Detention credit
 
@@ -6315,11 +6316,11 @@ For the other questions in Witte v. United States, decided June 14, 1995, No. 94
 
 **Material application:** The State presented psychiatric future-danger testimony; surviving vileness did not answer how assumed lost assistance affected the jury's further choice between death and life. The 1985 state Ake-error ruling remains part of the procedural history notwithstanding the Commonwealth's withdrawal of its earlier concession.
 
-**Limits and questions not reached:** Violation is assumed only to test the appellate rationale. No favorable missing expert testimony, actual influence or structural classification is found. Required assistance covers evaluation, preparation, presentation, examination, rebuttal and supported mitigation, not a preferred psychiatrist or another examination on request; counting existing examiners does not determine adequacy. The Court reserves actual violation and availability, whether harmless-error review applies, the governing collateral standard, actual effect and ultimate relief. Independent Estelle theories and other petition questions are outside the limited grant without an implied denial or reopening.
+**Limits and questions not reached:** Violation is assumed only to test the appellate rationale. No favorable missing expert testimony, actual influence or structural classification is found. Required assistance covers evaluation, preparation, presentation, examination, rebuttal and supported mitigation, not a preferred psychiatrist or another examination on request; counting existing examiners does not determine adequacy. The Court reserves actual violation and availability, whether harmless-error review applies, actual effect and ultimate relief. Independent Estelle theories and other petition questions are outside the limited grant without an implied denial or reopening.
 
 **Operative remedy or transition:** Vacate the challenged Ake and sentence-review component and remand. Antecedent defenses must be legally available under the 1985 ruling and preservation history; closed issues are not reopened and forfeited defenses are not revived. If an available violation stands, its consequences require consideration on the relevant penalty record under applicable law. No present writ, hearing, guilt retrial, new penalty proceeding, life sentence, release, stay or execution authorization is ordered.
 
-**Treatment of earlier authority:** Zant is distinguished at its premise of admissible, accurate and explainable evidence; its nonweighing eligibility rule survives. Ake's assistance functions and no-preferred-examiner limit apply without a final violation ruling. Stringer and Richmond's weighing-system correction routes are not transferred. Brecht's preserved-Doyle and O'Neal's preserved-personal-intent Chapman holdings remain category-specific and are not extended to Ake. The separate proposed Chapman extension does not control.
+**Treatment of earlier authority:** Zant is distinguished at its premise of admissible, accurate and explainable evidence; its nonweighing eligibility rule survives. Ake's assistance functions and no-preferred-examiner limit apply without a final violation ruling. Stringer and Richmond's weighing-system correction routes are not transferred. Brecht's general harmlessness rule, as O'Neal applied it, and their distinction between correcting review and granting a writ remain intact; whether that rule reaches this Ake claim is not decided.
 
 #### Allridge v. Scott
 
@@ -6370,11 +6371,11 @@ For the other questions in Witte v. United States, decided June 14, 1995, No. 94
 
 **Proposition-level authority:** Souter's Part IV, unanimous.
 
-**Limits and questions not reached:** The instruction request establishes no exhaustion or preservation of every reformulated theory. Applicable factual presumptions and genuinely available defenses remain; no forfeited defense revives or settled issue reopens. Graham's established rule cannot be called new merely because another defendant invokes it, but a materially new extension requires its own Teague inquiry. Whether a distinct error-effect inquiry is required, its standard, actual effect and relief are reserved; the full charge, testimony, claim-specific rulings and properly preserved submissions are necessary before a writ.
+**Limits and questions not reached:** The instruction request establishes no exhaustion or preservation of every reformulated theory. Applicable factual presumptions and genuinely available defenses remain; no forfeited defense revives or settled issue reopens. Graham's established rule cannot be called new merely because another defendant invokes it, but a materially new extension requires its own Teague inquiry. Whether a distinct error-effect inquiry is required, actual effect and relief are reserved; the full charge, testimony, claim-specific rulings and properly preserved submissions are necessary before a writ.
 
 **Operative remedy or transition:** No present writ, sentencing hearing, release, stay, deadline or execution authorization. Brady, lesser-offense and other unreviewed grounds remain undisturbed.
 
-**Treatment of earlier authority:** Tuggle supplies the review/relief distinction without transferring its Ake subject. Brecht and O'Neal retain their category-specific Chapman holdings; neither they nor Chapman establish the proposed capital-mitigation extension here.
+**Treatment of earlier authority:** Tuggle supplies the review/relief distinction without transferring its Ake subject. Brecht's general harmlessness rule, as O'Neal applied it, remains intact; whether a separate error-effect inquiry is required for this capital-mitigation claim is not decided.
 
 ### Statutory drug sentences and Guidelines calculations
 
@@ -6589,7 +6590,7 @@ For Ortiz's separate pager ruling, see Criminal Procedure — Search incident to
 - Boyde supplies whole-charge and trial-context review for a reasonable likelihood of forbidden operation, not a mere possibility.
 - Delo retains its evidentiary predicate for a particular-factor instruction. The Court does not determine whether each requested factor was proved or rely on an unjoined innocence-instruction rationale.
 - Tuilaepa permits relevant individualized selection without fixed labels or weights while preserving effective mitigation and independent selection errors; its no-error rulings are not harmlessness decisions.
-- Brecht, O'Neal and Roy keep their defined collateral-error categories. Lindh retains its provision-specific noncapital application holding. No broader error-correction or capital temporal rule is adopted.
+- Brecht's general rule for preserved constitutional trial error on habeas, which O'Neal and Roy applied, remains intact and is not reached. Lindh retains its provision-specific noncapital application holding. No broader error-correction or capital temporal rule is adopted.
 - Trest supplies no mandatory default inquiry, and Rogers supplies no instruction-merits, waiver or harmlessness holding. Lee's separate threshold correction creates no general remand requirement.
 
 ### Capital clemency and retained constitutional protection
@@ -6708,11 +6709,11 @@ For Ortiz's separate pager ruling, see Criminal Procedure — Search incident to
 
 ##### Chapman governs this available capital-selection misinformation claim
 
-**Holding:** For a constitutional trial error in the commutation instruction affecting this jury's choice between death and life without parole, when the claim is properly available on federal habeas, the State must establish beyond a reasonable doubt from the whole penalty record that the error did not contribute to the actual death sentence. If an available constitutional violation fails that showing, conditional sentence relief must permit a reasonable opportunity for a lawful new penalty proceeding; a proper harmlessness showing permits denial of relief.
+**Holding:** Under the general rule established in Brecht, for a constitutional trial error in the commutation instruction affecting this jury's choice between death and life without parole, when the claim is properly available on federal habeas, the State must establish beyond a reasonable doubt from the whole penalty record that the error did not contribute to the actual death sentence. If an available constitutional violation fails that showing, conditional sentence relief must permit a reasonable opportunity for a lawful new penalty proceeding; a proper harmlessness showing permits denial of relief.
 
 **Proposition-level authority:** Part II of the per curiam opinion, directly joined by Stone-Zsela, O'Connor, Souter, Ginsburg and Breyer. Ginsburg disagrees with the remand disposition but directly joins this rule and its conditions. No combination of different standards establishes its authority.
 
-**Treatment of earlier authority:** Brecht, O'Neal and Roy are extended to this defined capital-selection category while their prior holdings and reservations otherwise remain. Chapman retains the State's beyond-reasonable-doubt burden; Kotteakos is not substituted for that burden here.
+**Treatment of earlier authority:** Brecht's general rule is applied to this capital-selection error, as O'Neal and Roy applied it to the personal-intent errors they presented; their holdings otherwise remain. Chapman retains the State's beyond-reasonable-doubt burden; Kotteakos is not substituted for that burden here.
 
 ##### The required effect inquiry is substantive, not a verbal formula
 
@@ -6742,10 +6743,10 @@ For Ortiz's separate pager ruling, see Criminal Procedure — Search incident to
 
 **Treatment of earlier authority:**
 
-- Brecht v. Abrahamson, April 21, 1993, retains State-borne Chapman for the preserved Doyle category; its principle is extended here to the defined capital-selection error without treating Brecht as an earlier universal habeas rule.
-- O'Neal v. McAninch, February 21, 1995, retains its personal-intent holding and distinction between corrective review and conditional relief. Its broader proposed extension did not already control this case.
+- Brecht v. Abrahamson, April 21, 1993, supplies the general rule placing the Chapman burden on the State for preserved constitutional trial error properly before a federal habeas court, subject to its exceptions for structural defects and rights carrying their own prejudice element; it is applied here to the defined capital-selection error without a category-specific extension.
+- O'Neal v. McAninch, February 21, 1995, retains its application of Brecht's general rule to personal-intent error and its distinction between corrective review and conditional relief.
 - California v. Roy, November 4, 1996, retains its qualified inquiry into the actual verdict and its rejection of both hypothetical-verdict sufficiency and an exclusive necessary-findings method for the charge there. Those distinctions inform this actual-sentence inquiry without inventing capital factor findings.
-- Chapman v. California supplies the State's beyond-reasonable-doubt noncontribution burden; Kotteakos v. United States is not substituted for it in this defined constitutional category.
+- Chapman v. California supplies the State's beyond-reasonable-doubt noncontribution burden; Kotteakos v. United States is not substituted for it here.
 - Boyde v. California retains its reasonable-likelihood inquiry for identifying unconstitutional instructional operation. It is not an automatic substitute for the distinct effect assessment required here.
 - Sochor v. Florida preserves substantive correction without mandatory wording. Stringer v. Black and Espinosa v. Florida retain their distinct invalid-aggravator and influential-recommendation rules; valid aggravation alone supplies no automatic constitutional cure. No federal reweighing authority is created.
 - Simmons v. South Carolina preserves the effective opportunity to explain the lawful nondeath option in its future-danger setting and its record-specific harmlessness result. This record contains no comparable express parole question, and the Court does not decide the underlying accuracy challenge omitted from the petition.
@@ -7131,7 +7132,7 @@ The pleas and convictions remain intact. The Court orders no acquittal, withdraw
 
 **Treatment of earlier authority:** Koon and Powell supply the separation of legal error from supported sentencing application; Stinson supplies the authority of consistent commentary. Ornelas and Fields/Crawley retain independent review for their constitutional search thresholds and do not govern all mixed questions. First Options supports allocating review according to the task. Apprendi's reservations and Almendarez-Torres's confined judgment remain unchanged.
 
-### Capital mitigation mechanisms and confined habeas effect review
+### Capital mitigation mechanisms and habeas effect review
 
 #### Penry v. Johnson, 532 U.S. 782
 
@@ -7166,10 +7167,10 @@ The pleas and convictions remain intact. The Court orders no acquittal, withdraw
 
 **Proposition-level authority:** Souter's Part III, joined by Stone-Zsela, O'Connor, Ginsburg and Breyer: five direct joins. Stevens and Kennedy support the corrective return but reject this standard; Scalia and Thomas oppose the mitigation disposition. Their distinct effect approaches are not aggregated under Marks.
 
-**Limits and questions not reached:** The error does not automatically establish contribution, and answers to the factual special issues do not establish what an unconflicted mitigation decision would have been. The entire penalty record, including clarifications, must be considered; no present harmlessness or harmfulness finding is made. This new remedial category governs the present return and later applications, not every habeas error, a new retroactivity exception or clearly established substantive law at the 1995 cutoff.
+**Limits and questions not reached:** The error does not automatically establish contribution, and answers to the factual special issues do not establish what an unconflicted mitigation decision would have been. The entire penalty record, including clarifications, must be considered; no present harmlessness or harmfulness finding is made. Brecht's general rule governs this federal habeas effect inquiry; it does not supply clearly established substantive law at the 1995 cutoff, create a new retroactivity exception or displace its exceptions for structural defects and rights carrying their own prejudice element.
 
 **Operative remedy or transition:** The mitigation certificate disposition is reversed for an issue-specific appeal and remaining full-record effect inquiry, with constitutional error and section 2254(d)(1) eligibility settled. No present writ, sentence vacatur, fixed resentencing deadline, stay, release or execution order is entered; conditional relief follows only if the State fails its burden.
 
-**Treatment of earlier authority:** Chapman v. California is expressly extended to this defined original-charge capital-mitigation category. Calderon v. Coleman's commutation-error allocation supports the extension without having already established a universal rule. Weeks's response-error standard, burden and uncertainty reservation remain unresolved. Brecht v. Abrahamson, O'Neal v. McAninch and California v. Roy retain their distinct category-specific force.
+**Treatment of earlier authority:** Chapman v. California is applied through Brecht's general rule to this preserved original-charge capital-mitigation error, allocating the beyond-reasonable-doubt showing to the State. Calderon v. Coleman applied that rule to commutation misinformation and is followed here. Weeks's return of its response error for effect review under Brecht's general rule is undisturbed. Brecht v. Abrahamson supplies the general rule, subject to its exceptions for structural defects and rights carrying their own prejudice element; O'Neal v. McAninch and California v. Roy applied it to the errors they presented and remain intact.
 
 For reviewability of the certificate denial and the distinction between certification and a present writ, see Federal Courts - Capital habeas certificates and issue-specific appellate return, Penry v. Johnson, No. 00-6677, decided June 4, 2001.

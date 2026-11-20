@@ -1,6 +1,6 @@
 # O'Neal completion — operator control
 
-The September 29, 2026 user instruction expressly revalidates and replaces O'Neal's Section II with an extension of Chapman from preserved Doyle error to other preserved constitutional trial error, including the instructional error here. It authorizes the Canonical Decision Record, final vote and opinion structure, generated chunk-3 Render Input, and completed-event workspace projections. This overrides the ordinary brief-immutability rule only for the expressly requested Section II replacement. No other matter's approved position is changed.
+The September 29, 2026 user instruction expressly revalidates and replaces O'Neal's Section II with an application of Brecht's general Chapman rule for preserved constitutional trial error to the instructional error here. It authorizes the Canonical Decision Record, final vote and opinion structure, generated chunk-3 Render Input, and completed-event workspace projections. This overrides the ordinary brief-immutability rule only for the expressly requested Section II replacement. No other matter's approved position is changed.
 
 No Git command is permitted, including read-only history inspection. All writes are confined to terms/OT1994/ and ignored tmp/. File freezes are preserved handoffs for the next context, not repository commits. Stock tool Git hooks are explicitly deferred by the guarded adapter in tmp/oneal/tools_no_git.py; no fabricated commit hash or completed Git check is permitted. The operator verifies and commits after completion.
 

@@ -286,7 +286,7 @@ Legal Assistance is admitted only for its reasoned post-grant procedural holding
 
 ## Earlier holdings and noncase sources
 
-Four later-authority backlinks connect O’Neal to Roy, Witte to Watts/Putra, Schleier to O’Gilvie, and Newport News to Ingalls. Each identifies an extension or resolution of a reserved question. The earlier holdings retain their own coalitions, limits and operative remedies.
+Four later-authority backlinks connect O’Neal to Roy, Witte to Watts/Putra, Schleier to O’Gilvie, and Newport News to Ingalls. Roy applies Brecht’s general rule as O’Neal applied it; each of the other three identifies an extension or resolution of a reserved question. The earlier holdings retain their own coalitions, limits and operative remedies.
 
 Minnesota chapter 419 supplies no controlling proposition for chunks 1–5. IIRIRA §633 supplies the enactment prompting Legal Assistance’s remand without establishing its final construction. The IIRIRA review-transition source and Yang’s date-specific holding retain their separate scopes; later applications appear with the decisions that adopt them.
 
@@ -687,7 +687,7 @@ Published-file verification digests:
 | [state/STANDARDS_AND_TESTS.md](../../../state/STANDARDS_AND_TESTS.md) | `b3aa0ae7557b73e5bee52d2ca0812c7b3b6187330b6fee774763271bd42cb70b` |
 | [state/STANDING_STATE.md](../../../state/STANDING_STATE.md) | `e71a24a0c55e8d94dcf7e659e76153f29ee7ca2f69a32504f5adfc11182722bd` |
 | [terms/OT1996/INDEX.md](../INDEX.md) | `999113812e5932d9a7c19d2fc67976b5a5362a9962382c6f4be59662bab1912f` |
-| [terms/OT1996/close/SEPARATE_WRITINGS.md](SEPARATE_WRITINGS.md) | `a6ba84fa6d5036de97ba78376389f3ddf5dc80962cb5faebedf6b748dfd1e3e1` |
+| [terms/OT1996/close/SEPARATE_WRITINGS.md](SEPARATE_WRITINGS.md) | `864739ea643406e8776edf6605b01322846c095072e589a74dfd925b74fb2724` |
 | [terms/OT1996/close/DEPARTURES.md](DEPARTURES.md) | `ef965069333d682d9fcdd6f34e82ef86467efda971f74d09aaa10b47611e0ce7` |
 | [terms/OT1996/close/CONSEQUENCES.md](CONSEQUENCES.md) | `2c68959514b878094c14113d5393de0474f0a8ff801aef045860cd832e1fc01c` |
 

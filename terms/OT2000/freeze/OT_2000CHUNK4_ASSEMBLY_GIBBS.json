@@ -5,11 +5,11 @@
   "record_sha256": "a4f5b31f35fd60cb6fdf74eb02ffc333b5c804c97af963427873a6f6f01864eb",
   "status": "Assembly legal and clerical checks passed; Record written. Workspace integration and chunk checks remain with root.",
   "input_hashes": {
-    "terms/OT2000/freeze/OT_2000CHUNK4_RECONCILED_GIBBS.md": "59ee1120188575db9355d0699c353c500dfbd02dd254d3bcc705edf10408c679",
-    "terms/OT2000/freeze/OT_2000CHUNK4_COMMITMENTS_GIBBS.md": "c06c4adc839cb7d0dd04194c8f3e8b7b09b57a440df1ba7719f53f359faf4051",
+    "terms/OT2000/freeze/OT_2000CHUNK4_RECONCILED_GIBBS.md": "d6f2357c1be5a78cc17541fdc0aafda56f477fffc7386d6628c9b1234e10971a",
+    "terms/OT2000/freeze/OT_2000CHUNK4_COMMITMENTS_GIBBS.md": "74512e6d08079a92baa56a3933028e6a9817342f0407dced3af08531ea51172d",
     "terms/OT2000/freeze/OT_2000CHUNK4_EARLY_NEUTRAL_GIBBS_SOURCE.md": "29582abfffc0ebb7ab54dabf6c4bc5ff4940d64340e411234dabf6b50cd8ca95",
     "terms/OT2000/freeze/OT_2000CHUNK4_GRANTED_MERITS_SUBMISSION_PREMISE.md": "2368cc50af8ab216e38ce329532a64c2d5bf3ab4afd3271b4fc5e83b9fdfae52",
-    "terms/OT2000/entering-law/OT_2000CHUNK4_EARLY_CONSTITUTIONAL_STRUCTURE.md": "dda6bb92fa1e898226d5fe03a3bcb120ff68056f0e0675986e8535d4b026553f"
+    "terms/OT2000/entering-law/OT_2000CHUNK4_EARLY_CONSTITUTIONAL_STRUCTURE.md": "f499411327027b24edbcda0d47680a0c23483b7c1ced20ed50a7a6ea559229a7"
   },
   "legal_checks": {
     "final_C_before_Stone": true,
@@ -24,8 +24,10 @@
     ],
     "direct_part_ii_joins": [
       "Stone-Zsela",
+      "Stevens",
       "O'Connor",
       "Kennedy",
+      "Souter",
       "Ginsburg",
       "Breyer"
     ],
@@ -38,23 +40,23 @@
   },
   "judgment_components": [
     {
-      "component": "vacatur and confined remand",
+      "component": "affirmance",
       "support": [
         "Stone-Zsela",
+        "Stevens",
         "O'Connor",
         "Kennedy",
+        "Souter",
         "Ginsburg",
         "Breyer"
       ],
       "oppose": [
-        "Stevens",
-        "Souter",
         "Scalia",
         "Thomas"
       ],
       "counts": [
-        5,
-        4
+        7,
+        2
       ]
     }
   ],
@@ -64,7 +66,7 @@
     "projection_identity": true,
     "explanation_word_counts": [
       162,
-      257
+      345
     ],
     "opinion_table_authors_parse": true,
     "forbidden_content_scan": true,
@@ -95,6 +97,6 @@
       "O'Connor",
       "Kennedy"
     ],
-    "author": "O'Connor"
+    "author": "Stone-Zsela"
   }
 }

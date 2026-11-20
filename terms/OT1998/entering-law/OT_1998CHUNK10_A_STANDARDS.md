@@ -73,7 +73,7 @@ Derived reading copy only. The cited state files and effective current-term Reco
 
 **Present operation effective:** Tuggle, 1995-10-30.
 
-**Open question:** Whether harmless-error review applies, the governing collateral standard, actual effect and ultimate relief remain reserved. Correcting a reviewing rationale supplies no immediate writ or hearing. Brecht’s Doyle and O’Neal’s personal-intent Chapman rules are not extended to this category. Review remains subject to the actual prior rulings and legally available procedural defenses.
+**Open question:** Whether harmless-error review applies, actual effect and ultimate relief remain reserved. Correcting a reviewing rationale supplies no immediate writ or hearing. Brecht’s general harmlessness rule, as O’Neal applied it, remains intact; whether that rule reaches this Ake claim is not decided. Review remains subject to the actual prior rulings and legally available procedural defenses.
 
 **Holdings navigation:** Tuggle v. Netherland, 516 U.S. 10.
 

@@ -70,7 +70,7 @@ These counts apply only to the stated cutoff. Recount before each later assignme
 | 2003-03-05 | Ewing v. California; No. 01-6978; reported at 538 U.S. 11. | Stevens | Yes | Ewing-v-California_merits_2003-03-05.md |
 | 2003-03-05 | Johnson & Johnston Associates Inc. v. R.E. Service Co., Inc.; judgment below, 285 F.3d 1046 (en banc). | Scalia | Yes | Johnson-and-Johnston-Associates-Inc-v-RE-Service-Co-Inc_merits_2003-03-05.md |
 | 2003-03-05 | Lockyer v. Andrade; No. 01-1127; reported at 538 U.S. 63. | Souter | Yes | Lockyer-v-Andrade_merits_2003-03-05.md |
-| 2003-03-05 | Smith v. Doe; No. 01-729; 538 U.S. 84. | O'Connor | Yes | Smith-v-Doe_merits_2003-03-05.md |
+| 2003-03-05 | Smith v. Doe; No. 01-729; 538 U.S. 84. | Ginsburg | Yes | Smith-v-Doe_merits_2003-03-05.md |
 | 2003-03-05 | Tenafly Eruv Association, Inc. v. Borough of Tenafly; 309 F.3d 144 (3d Cir. 2002). | Scalia | Yes | Tenafly-Eruv-Association-Inc-v-Borough-of-Tenafly_merits_2003-03-05.md |
 | 2003-03-05 | United States v. Bach; 310 F.3d 1063 (judgment below). | Stone-Zsela | Yes | United-States-v-Bach_merits_2003-03-05.md |
 | 2003-03-05 | United States v. Wheat; 278 F.3d 722 (judgment below). | Breyer | Yes | United-States-v-Wheat_merits_2003-03-05.md |
@@ -1201,24 +1201,24 @@ Souter delivers the signed Opinion of the Court.
 
 **Record:** Smith-v-Doe_merits_2003-03-05.md
 
-**Counted lead author(s):** O'Connor
+**Counted lead author(s):** Ginsburg
 
 ### Assignment statement
 
-**Assignment:** O'Connor assigns the signed lead opinion to O'Connor. Eligible authors: O'Connor, Scalia, Kennedy, Thomas. Balance pool: O'Connor, Scalia, Kennedy, Thomas. O'Connor assigns the lead to herself. Her Ursery opinion and complete current intent-and-effects commitment supply direct fit for maintaining the civil-design predicate, genuine cumulative implementation review and demanding rebuttal as distinct inquiries. Kennedy's privacy work is a substantial alternative, but the leading assignment problem is classification and the precise division from Souter's separate premise; the common framework already preserves the independent privacy claim. Scalia and Thomas fully support the same application without offering an additional needed accommodation. The lead does not try to acquire Souter's incompatible application join. This Associate assignment rests on the settled four-Justice reasoning and is within the recorded pool; historical authorship is not used. The assigning Associate is not bound by the Chief's balance-pool restriction; the selected author is within the calculated pool and the signed lead counts in later assignments.
+**Assignment:** Stone-Zsela assigns the signed opinion to Ginsburg. Eligible authors: Stone-Zsela, Stevens, Souter, Ginsburg, Breyer. Balance pool: Stone-Zsela, Stevens, Ginsburg, Breyer. Fit governs. Ginsburg's frozen commitment carries the opinion's two steps directly: the mixed enactment design that leaves the civil label relevant but not conclusive, and the cumulative retrospective operation, including the missing W.P. safeguards and the absence of any response to supported rehabilitation; it also carries Part III's clearest-proof ground. Breyer, author of the Hendricks and Seling holdings, is the strongest alternative. The signed opinion counts once for Ginsburg in later assignments.
 
 ### Opinion Topology
 
-O'Connor announces the judgment of the Court and delivers the opinion of the Court as to Part I and an opinion as to Parts II and III. The full joiners are Scalia, Kennedy, Thomas.
+Ginsburg delivers the opinion of the Court as to Parts I and II and an opinion as to Part III, joined throughout by Stone-Zsela, Stevens and Breyer. Souter joins Parts I and II; O'Connor, Scalia, Kennedy and Thomas join Part I.
 
 | Writing or part | Author | Complete coalition, including author | Relationship and exact scope |
 |---|---|---|---|
-| Lead Part I | O'Connor | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | All nine join the sequential classification framework and cumulative actual-operation method; this join does not establish Alaska's actual intent or effects. |
-| Lead Parts II–III | O'Connor | O'Connor, Scalia, Kennedy, Thomas | Four join the finding of established civil intent and the conclusion that the clearest punitive proof is absent. These parts are a plurality. |
-| Concurrence in part and in the judgment | Souter | Souter | Joins Part I; reverses through ambiguous intent, direct effects review and the ordinary presumption of constitutionality. Withholds the actual civil-intent finding and heightened-deference application. |
-| Dissent, Part I | Ginsburg | Stone-Zsela, Stevens, Ginsburg, Breyer | The combined lifetime operation is punitive even assuming civil intent and applying clearest proof; would protect respondents and resolve any necessary severability. |
-| Dissent, Part II | Ginsburg | Ginsburg, Breyer | Intent is ambiguous; the combined effects also establish punishment without special civil-design deference. |
-| Further dissent | Stone-Zsela | Stone-Zsela | Adds the proposed presumption of protection for persons governed by the proved retrospective policy unless Alaska establishes a narrower complete cure within the court's remedial jurisdiction. |
+| Opinion of the Court, Part I | Ginsburg | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | All nine join the sequential classification framework and cumulative actual-operation method; this join does not establish Alaska's actual intent or effects. |
+| Opinion of the Court, Part II | Ginsburg | Stone-Zsela, Stevens, Souter, Ginsburg, Breyer | Five hold the civil label relevant but not conclusive, find that Alaska's mixed enactment design does not trigger the heightened override, and hold the retrospective combination punitive on direct cumulative review; affirmance and respondents' relief. |
+| Lead Part III | Ginsburg | Stone-Zsela, Stevens, Ginsburg, Breyer | Four would also find the clearest proof of punishment if Alaska's civil design were established. This part is a plurality. |
+| Concurrence | Stone-Zsela | Stone-Zsela | Joins the opinion in full; adds the proposed presumption of protection for persons governed by the proved retrospective policy unless Alaska establishes a narrower complete cure within the court's remedial jurisdiction. |
+| Concurrence | Souter | Souter | Joins Parts I and II; the close direct-effects balance tips to punishment because the lifetime operation has no ordinary ending mechanism; does not join Part III. |
+| Dissent | O'Connor | O'Connor, Scalia, Kennedy, Thomas | Join Part I; find civil intent established and the clearest punitive proof absent; would reverse. |
 
 ## Tenafly Eruv Association, Inc. v. Borough of Tenafly; 309 F.3d 144 (3d Cir. 2002).
 

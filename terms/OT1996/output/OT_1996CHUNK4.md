@@ -920,7 +920,7 @@ Roy distinguishes a legally available harmless-error inquiry from an actual find
 - United States v. Gaudin continues to require the jury to determine every actual materiality element beyond a reasonable doubt. This decision construes §1014 and does not narrow that constitutional rule.
 - Kay v. United States supports rejecting an actual-influence defense within its predecessor setting without deciding every later false-statement statute.
 - Williams v. United States retains its holding that the particular checks were not factual assertions; it supplies no universal materiality rule.
-- California v. Roy preserves the distinction between permissible error review and an established harmlessness result. Its particular personal-intent habeas rule is not automatically transferred to this direct appeal.
+- California v. Roy preserves the distinction between permissible error review and an established harmlessness result. Its application of Brecht's general habeas rule to personal-intent error is not automatically transferred to this direct appeal.
 
 #### Law After Decision
 
@@ -932,7 +932,7 @@ Materiality is not an additional §1014 element. Actual statutory knowledge, fal
 
 In his view, a speaker's purpose to curry favor differs from a statement's objective capacity to matter to the institution. The majority's culpability requirements therefore do not answer the risk of imposing serious criminal liability for trivial flattery or an inconsequential lie. His Aguilar and X-Citement positions support examining the offense's received legal meaning and object, rather than grammar alone. Williams and restraint in construing serious criminal prohibitions reinforce the narrower reading. Kay rejected an actual-reliance defense under its predecessor; objective materiality does not require proof that the decisionmaker actually relied on the statement.
 
-Once materiality is retained, Gaudin requires the jury to decide it. Respondents contested that issue and the judge expressly removed it from their jury's deliberations. Stevens would preserve the new-trial judgment on that record, not order acquittal or declare every omitted-element error automatically reversible. Roy permits harmlessness review within its category but does not establish harmlessness of this different withdrawal. His position leaves the two acquittals intact and decides no independent instruction, indictment, evidentiary, conspiracy or sentencing issue unnecessarily.
+Once materiality is retained, Gaudin requires the jury to decide it. Respondents contested that issue and the judge expressly removed it from their jury's deliberations. Stevens would preserve the new-trial judgment on that record, not order acquittal or declare every omitted-element error automatically reversible. Roy permits harmlessness review of its preserved personal-intent habeas error but does not establish harmlessness of this different withdrawal. His position leaves the two acquittals intact and decides no independent instruction, indictment, evidentiary, conspiracy or sentencing issue unnecessarily.
 
 #### Source Notes
 

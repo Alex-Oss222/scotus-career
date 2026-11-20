@@ -1162,11 +1162,11 @@ EPA's September 1998 guidance directed permitting officials to review the suffic
 
 **Other Governing Law:** The Eighth and Fourteenth Amendments govern capital selection. The amended habeas statute requires an eligible clearly established basis at the state adjudication. The charge, verdict form, and supported mitigation must be assessed together.
 
-**Material Other Authority:** Lockett v. Ohio, Eddings v. Oklahoma, Penry v. Lynaugh, and Boyde v. California bear on effective mitigation. Calderon v. Coleman adopts State-borne harmless-error review under Chapman v. California for a defined commutation-instruction category; it does not establish that standard for all habeas errors. Graham v. Collins and Johnson v. Texas preceded the reported state direct-review adjudication.
+**Material Other Authority:** Lockett v. Ohio, Eddings v. Oklahoma, Penry v. Lynaugh, and Boyde v. California bear on effective mitigation. Brecht v. Abrahamson requires State-borne harmless-error review under Chapman v. California for preserved constitutional trial error properly reached on federal habeas, unless the defect is structural or the right carries its own prejudice element; Calderon v. Coleman applies that rule to commutation misinformation. Graham v. Collins and Johnson v. Texas preceded the reported state direct-review adjudication.
 
-**Existing Rule's Reach:** Existing law requires a coherent authorized life-sentence route for this kind of supported mitigation, without dictating its evidentiary weight or a particular fourth question. The established commutation-instruction remedy does not already encompass every original-charge restriction.
+**Existing Rule's Reach:** Existing law requires a coherent authorized life-sentence route for this kind of supported mitigation, without dictating its evidentiary weight or a particular fourth question. Brecht's general harmless-error rule governs the effect of any established violation.
 
-**Open Point:** Whether the supplemental instruction coherently authorized a lawful life choice despite the factual special issues, and what remedial effect standard applies if this original-charge mechanism violates the established mitigation requirement.
+**Open Point:** Whether the supplemental instruction coherently authorized a lawful life choice despite the factual special issues, and how the governing harmless-error rule applies if this original-charge mechanism violates the established mitigation requirement.
 
 ## C. DECISION-MATERIAL LITIGATION POSITIONS
 

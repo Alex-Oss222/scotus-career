@@ -248,7 +248,7 @@ Source: state/holdings/criminal-procedure.md
 - Johnson v. Zerbst, 304 U.S. 458: applies intentional relinquishment; right-specific waiver requirements remain.
 - United States v. Young, 470 U.S. 1: applies limited plain-error authority and ordinary prejudice requirement.
 - Arizona v. Fulminante, 499 U.S. 279: preserves structural/trial-error distinction without deciding every Rule 52(b) category.
-- Brecht, April 21, 1993: distinguished; preserved Doyle habeas review does not control forfeited Rule 24(c) error.
+- Brecht, April 21, 1993: distinguished; habeas review of preserved constitutional trial error does not control forfeited Rule 24(c) error.
 
 **Later-authority backlinks:** Johnson v. United States, May 12, 1997, resolves the intervening-law plainness reservation where settled contrary trial law changes before direct review ends: clarity at appellate consideration suffices. Initially unsettled law, structural classification and ordinary prejudice remain reserved.
 
@@ -1740,7 +1740,7 @@ Reversed and remanded, 6–3, as to the new-trial ruling based on alternate-juro
 - Johnson v. Zerbst, 304 U.S. 458: applies intentional relinquishment; right-specific waiver requirements remain.
 - United States v. Young, 470 U.S. 1: applies limited plain-error authority and ordinary prejudice requirement.
 - Arizona v. Fulminante, 499 U.S. 279: preserves structural/trial-error distinction without deciding every Rule 52(b) category.
-- Brecht, April 21, 1993: distinguished; preserved Doyle habeas review does not control forfeited Rule 24(c) error.
+- Brecht, April 21, 1993: distinguished; habeas review of preserved constitutional trial error does not control forfeited Rule 24(c) error.
 
 ##### Correction remains discretionary
 
@@ -1773,7 +1773,7 @@ Reversed and remanded, 6–3, as to the new-trial ruling based on alternate-juro
 
 #### Current-Law Effect
 
-Before: Rule 52(b) and Atkinson/Young supplied discretionary correction without this complete articulation. After: four separate requirements govern forfeited-error review; ordinary defendant prejudice burden and the no-presumed-prejudice result for instructed alternates apply. Valid waiver, new clarity on appeal, structural categories and Rule 606(b)/hearing authority remain reserved. Brecht’s Chapman rule for preserved Doyle habeas error and Zafiro’s record-specific instruction analysis remain unchanged.
+Before: Rule 52(b) and Atkinson/Young supplied discretionary correction without this complete articulation. After: four separate requirements govern forfeited-error review; ordinary defendant prejudice burden and the no-presumed-prejudice result for instructed alternates apply. Valid waiver, new clarity on appeal, structural categories and Rule 606(b)/hearing authority remain reserved. Brecht’s Chapman rule for preserved constitutional trial error on habeas and Zafiro’s record-specific instruction analysis remain unchanged.
 
 #### Separate Positions Relevant to the Decision
 

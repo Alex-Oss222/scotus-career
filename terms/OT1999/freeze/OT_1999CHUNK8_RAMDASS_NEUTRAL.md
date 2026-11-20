@@ -63,7 +63,7 @@ Terry Williams, April 18, 2000, supplies the current construction of section 225
 
 ## Remedy, uncertainties, and readiness
 
-An available violation does not automatically establish harmfulness or an operative writ. The simulated Brecht and O'Neal holdings have defined categories; the public Weeks and O'Dell treatments preserve the unresolved error-effect standard for distinct capital-information or response claims. Simmons's direct-review remedy does not by itself settle this collateral question. A proposed application or extension must specify the standard, burden, and treatment of uncertainty, or reach a supported outcome under each material alternative. No structural-error classification is established.
+An available violation does not automatically establish harmfulness or an operative writ. The simulated Brecht holding states a general rule placing the Chapman burden on the State for preserved constitutional trial error properly reached on federal habeas, and O'Neal applies it; the public Weeks and O'Dell treatments leave the effect determination for distinct capital-information or response claims to that governing standard. Simmons's direct-review remedy does not by itself settle this collateral question. A proposed application must apply that standard on the whole relevant record. No structural-error classification is established.
 
 Any ultimate relief concerns the death sentence and a constitutionally adequate penalty proceeding or lawful noncapital disposition, subject to the actual holding and conditional-writ terms. A remand to resolve legal or causal predicates creates no immediate writ, new hearing entitlement, sentencing deadline, release, stay, or authority to adjudicate unrelated claims.
 

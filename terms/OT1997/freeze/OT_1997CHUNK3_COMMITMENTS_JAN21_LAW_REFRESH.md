@@ -14,7 +14,7 @@ No January 21 peer supplies law to another. The common actual baseline is Januar
 
 ## Buchanan v. Angelone — all eight retained
 
-The petitioner challenges his own existing death sentence. Lee's speculative exposure, contingent civil duties, representation and continuing-class questions supply no changed jurisdictional premise. Its correction of a penalty-based standing rule changes none of Graham/Johnson/Boyde's mitigation law, Delo/Tuilaepa's instruction limits, Teague, capital AEDPA timing or the category-specific Brecht/O'Neal/Roy harmlessness rules.
+The petitioner challenges his own existing death sentence. Lee's speculative exposure, contingent civil duties, representation and continuing-class questions supply no changed jurisdictional premise. Its correction of a penalty-based standing rule changes none of Graham/Johnson/Boyde's mitigation law, Delo/Tuilaepa's instruction limits, Teague, capital AEDPA timing or Brecht's general harmlessness rule as O'Neal and Roy applied it.
 
 The potential remedial analogy was independently tested: six Associates remanded Lee despite an asserted alternative no-application ground, whereas Buchanan's original commitment affirms notwithstanding the lower court's inadequate admissibility-only formulation. There is no conflict. In Lee the statutory duties and concrete application remained unresolved under the correct threshold rule; Buchanan supplies the full material charge and context on which the independent no-error application rests. Lee does not prevent resolving that supported constitutional question or compel a redundant remand. Nor does it turn the absence of original habeas filing records into default or a warrant for an unconditional writ.
 
@@ -29,7 +29,7 @@ The potential remedial analogy was independently tested: six Associates remanded
 | Ginsburg | Retain C1–C3. Her Lee full join neither extends Lindh to unsupplied capital predicates nor creates a reason to defer this supported no-error determination. | None |
 | Breyer | Retain C1–C3. His Lee join creates no presumption of injury, no automatic remedial procedure and no new capital error rule. | None |
 
-The federal habeas filing date and applicable capital provisions remain unestablished as originally recorded. Lee supplies neither a §2254(d) restriction nor a blanket pre-AEDPA exemption. Generic Chapman and historical Brecht rules remain unavailable; the original no-error disposition does not depend on either. All original join barriers and the absence of writ, new sentencing, guilt vacatur or execution directions remain.
+The federal habeas filing date and applicable capital provisions remain unestablished as originally recorded. Lee supplies neither a §2254(d) restriction nor a blanket pre-AEDPA exemption. Brecht's general Chapman rule is not reached and no historical Brecht rule is available; the original no-error disposition does not depend on either. All original join barriers and the absence of writ, new sentencing, guilt vacatur or execution directions remain.
 
 ## LaChance / McManus — all eight retained
 
@@ -75,13 +75,13 @@ The following hashes were computed directly from the authorized files for this r
 
 | Input within OT1997 | SHA-256 |
 |---|---|
-| `entering-law/OT_1997CHUNK3_JAN21_CURRENT_LAW_1998-01-20.md` | `b3af6d43d0112d38f9afc277fcabc246cc0f35c15d55ead536dd22ae182a42da` |
+| `entering-law/OT_1997CHUNK3_JAN21_CURRENT_LAW_1998-01-20.md` | `27185fadb4e568d8e5312e028c385a2cb2968e1dd573622bdec21c296a08d32a` |
 | `freeze/OT_1997CHUNK3_PUBLIC_DELTA_LEE.md` | `81bade2c9413f220d23e1a15e9c51fd5465a59e3fcb058a5ef9b264988398b4f` |
 | `freeze/OT_1997CHUNK3_OPENING_NEUTRAL.md` | `00ff15f2eaacdc63723e4dcc5d808c44eaf4e83c6995f21cc6b27a23983849d6` |
 | `freeze/OT_1997CHUNK3_INVENTORY_SUPPLEMENT.md` | `b4ae689c14cd105a1cc7859a8958ad879e0dcd46c9260d0d30a276665ec1d41b` |
-| `freeze/OT_1997CHUNK3_NEUTRAL_BUCHANAN.md` | `a65bd11fb19d6feea90e34601747611a71ec1c5ae716d5a8b00873ce90f61821` |
-| `entering-law/OT_1997CHUNK3_BUCHANAN.md` | `507e145acc6df0c94ba777494cb5ae460023a705ffc3da08d90d2084d854c6ad` |
-| `freeze/OT_1997CHUNK3_COMMITMENTS_BUCHANAN.md` | `a2df41f6a65690451b6a608207511d39554340a1e91c940d6539dfd7ef73525e` |
+| `freeze/OT_1997CHUNK3_NEUTRAL_BUCHANAN.md` | `52502be867a0b76a4a09dd72699d44497a27d8ce743d7c3de46db41164930d54` |
+| `entering-law/OT_1997CHUNK3_BUCHANAN.md` | `edf5b180a2fa8e52583449e414fcc22f195d441bf13f57e6d95b391a77ecd4a4` |
+| `freeze/OT_1997CHUNK3_COMMITMENTS_BUCHANAN.md` | `fade60d4c8d800ee2124e7a8f1b0d93591dbe91c126ab6ac05b7bf98e1bb6a51` |
 | `freeze/OT_1997CHUNK3_NEUTRAL_LACHANCE.md` | `458fcac0cdaaa230107e10cdb8ae95570d8e5d92016a34f2a546d0dc9717fc39` |
 | `entering-law/OT_1997CHUNK3_LACHANCE.md` | `560d6ff2bf3f37bb1374dddcff3d5bf9589533adf5951daf05795daa9eedc58b` |
 | `freeze/OT_1997CHUNK3_COMMITMENTS_LACHANCE.md` | `2505888b561102955c0be5b43c91b658a66853557446303d3cdfcfa527378596` |

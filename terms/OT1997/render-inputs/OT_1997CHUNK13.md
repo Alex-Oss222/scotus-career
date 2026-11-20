@@ -1511,13 +1511,13 @@ Trest v. Cain identifies default as nonjurisdictional, and Lambrix v. Singletary
 
 **Authority:** O'Connor's Part IV, joined by all nine; gateway availability is assumed.
 
-**Controlling explanation:** Griffin v. California forbids use of the accused's trial silence as inculpatory proof. The prosecutor acknowledged inconclusive handwriting evidence and uncertainty whether the matches belonged to Lucas or the victim, then attributed knowledge to Lucas. The final reference can be troubling in isolation, but the reported paragraph explains why ownership does not determine guilt rather than asking the jury to use silence against him. No responsive defense argument, curative instruction or larger unproduced passage is supplied. The Court does not adopt the lower court's alternative substantial-and-injurious-effect analysis. Brecht v. Abrahamson and O'Neal v. McAninch retain their category-specific Chapman holdings; this no-error conclusion neither extends them universally nor selects a new test for Griffin error.
+**Controlling explanation:** Griffin v. California forbids use of the accused's trial silence as inculpatory proof. The prosecutor acknowledged inconclusive handwriting evidence and uncertainty whether the matches belonged to Lucas or the victim, then attributed knowledge to Lucas. The final reference can be troubling in isolation, but the reported paragraph explains why ownership does not determine guilt rather than asking the jury to use silence against him. No responsive defense argument, curative instruction or larger unproduced passage is supplied. The Court does not adopt the lower court's alternative substantial-and-injurious-effect analysis. Brecht v. Abrahamson's general Chapman rule for preserved constitutional trial error properly before a federal habeas court, which O'Neal v. McAninch applied, is not reached; this no-error conclusion makes no harmlessness determination.
 
 **Precedent treatment:**
 
 - Griffin applies to the actual contextual use of silence, not every reference to personal knowledge.
-- Brecht retains its protected-silence category; its historical alternative is not adopted here.
-- O'Neal retains its personal-intent and conditional-relief holdings without a universal extension.
+- Brecht's general Chapman rule for preserved constitutional trial error on habeas remains intact and is not reached; its historical alternative is not adopted here.
+- O'Neal retains its application of Brecht's general rule to personal-intent error and its conditional-relief holding.
 
 ### 7. Claim 8's state impeachment error did not deny fundamental fairness
 
@@ -1657,8 +1657,8 @@ Where §2254(e)(2) applies and the applicant failed to develop the factual basis
 - Lockhart v. Fretwell: retains its limited displaced-benefit rule, without universal present-law prejudice review.
 - Gribble v. State: supplies the reported later state corroboration clarification, not a categorical rule about professional foreseeability.
 - Griffin v. California: applies to actual contextual use of trial silence.
-- Brecht v. Abrahamson: retains its category-specific protected-silence holding; the historical alternative is not adopted.
-- O'Neal v. McAninch: retains its personal-intent and conditional-relief holdings without universal extension.
+- Brecht v. Abrahamson: retains its general Chapman rule for preserved constitutional trial error on habeas, not reached here; the historical alternative is not adopted.
+- O'Neal v. McAninch: retains its application of Brecht's general rule to personal-intent error and its conditional-relief holding.
 - Loper v. Beto: is distinguished because the impeaching convictions here are stale, not alleged constitutionally invalid.
 - Patterson v. Illinois: permits a valid informed postindictment waiver.
 - Maine v. Moulton: preserves protection against deliberate elicitation about pending charges despite another-investigation label.

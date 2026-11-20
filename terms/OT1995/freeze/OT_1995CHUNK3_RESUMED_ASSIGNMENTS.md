@@ -368,7 +368,7 @@ All 101 OT1994 canonical Record filenames are accounted for below: 92 Records ha
 
 **Count classification:** O'Connor. **Source:** [Record](../../OT1994/records/ONeal_v_McAninch_merits_1995-02-21.md), line 64.
 
-> Stone is in the seven-member vacatur coalition and the five-member Chapman coalition, so he assigns the Court opinion. He assigns it to O'Connor because her actual Brecht concurrence already addresses accuracy and the cost of multiplying harmless-error categories, while her frozen commitment permits the case-specific formulation necessary to retain Ginsburg and Breyer.
+> Stone is in the seven-member vacatur coalition and the five-member Chapman coalition, so he assigns the Court opinion. He assigns it to O'Connor because her actual Brecht concurrence already addresses accuracy and the cost of multiplying harmless-error categories, the grounds on which Brecht's general rule governs this claim.
 
 ### 1995-02-22 — Anderson_v_Green_decision_1995-02-22
 

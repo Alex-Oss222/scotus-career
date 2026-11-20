@@ -16,10 +16,10 @@ The lower source supports the independent handoff's central distinctions. Paragr
 
 | Frozen input | SHA-256 of complete bytes |
 |---|---|
-| `OT_2000CHUNK4_COMMITMENTS_WALLIS.md` | `25a481afdf0d89c32bca2c721a12399f2c3123d4d0b920e8aa60b53cc2028fde` |
+| `OT_2000CHUNK4_COMMITMENTS_WALLIS.md` | `788a01196a34c9debb24f35ca2a8a5906047a9bc6a637d0428e7f2777e908690` |
 | `OT_2000CHUNK4_WALLIS_MODEL_SOURCE_RECEIPT.md` | `f78dbd7ae90961df66f89e766d7981049ed107e4acc650473cb416b5774c0b54` |
-| `OT_2000CHUNK4_WALLIS_NEUTRAL_REFRESH.md` | `dcaf43dd50ed50b6da886bb5d3e1a19bfc8f55f58cd00cf808258501c30ee4c0` |
-| `../entering-law/OT_2000CHUNK4_EFFECTIVE_BEFORE_2001-04-02_FINAL.md` | `d0647790e6a619d5250d71bbf5b01d97b0951a75b3d3369acf9f354af42e9d19` |
+| `OT_2000CHUNK4_WALLIS_NEUTRAL_REFRESH.md` | `7ea99c7c19b29509a9da476c40b2f6e7e9264c0e83b8f4dbe79016afbe50aa28` |
+| `../entering-law/OT_2000CHUNK4_EFFECTIVE_BEFORE_2001-04-02_FINAL.md` | `59addeddbd8b075029a4780d6172085cd1fe51e1383c5c431f51414690543f4c` |
 | `tmp/ot2000-later-neutral/wallis.txt`, workspace-relative | `c690c176caf7a799aac7359ffbbb14003c084abb00c137b08796897d1cb66391` |
 
 ## The competing paths were substantively tested
@@ -73,4 +73,4 @@ Only the City remains in the operative appeal. It cannot borrow an officer's per
 
 The state tort route retains its own respondeat-superior and derivative-immunity provisions. The remand does not invent a new section 820.2 construction: disputed CPS enlistment, discretionary character and any applicable intentional-tort limit remain for ordinary application. The lower court's treatment of the reply-only section 821.6 theory and the City's dependency-prosecution disclaimer is not reopened. No constitutional examination holding is supplied indirectly through the state-law remand.
 
-The final six-case effective-law refresh is complete. Ferguson was materially considered as described above; Buford's review allocation does not displace independent constitutional review or ordinary summary-judgment rules, and TrafFix, Circuit City, Egelhoff and Gibbs supply no new child-removal, examination, municipal-attribution or preservation rule. Gibbs's particular existing-record inquiry is not a universal remand command. Same-day Cobb supplies no premise. No source or reconciliation blocker remains for this bounded resolution, and assembly may proceed without changing the frozen independent commitments.
+The final six-case effective-law refresh is complete. Ferguson was materially considered as described above; Buford's review allocation does not displace independent constitutional review or ordinary summary-judgment rules, and TrafFix, Circuit City, Egelhoff and Gibbs supply no new child-removal, examination, municipal-attribution or preservation rule. Gibbs's Commerce Clause affirmance supplies no remand rule. Same-day Cobb supplies no premise. No source or reconciliation blocker remains for this bounded resolution, and assembly may proceed without changing the frozen independent commitments.

@@ -51,17 +51,17 @@
   "admitted_source_records": 1,
   "existing_ledger_bytes_preserved": true,
   "ledger_rows": 124,
-  "vacating_and_remanding": [
+  "affirming": [
     "Stone-Zsela",
+    "Stevens",
     "O'Connor",
     "Kennedy",
+    "Souter",
     "Ginsburg",
     "Breyer"
   ],
   "dissenting": [
-    "Stevens",
     "Scalia",
-    "Souter",
     "Thomas"
   ],
   "local_links_checked": 30,

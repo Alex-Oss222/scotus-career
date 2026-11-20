@@ -84,6 +84,6 @@ Both counts' admitted dependence on revival permits a precise remedy if the cons
 
 ### B chronology and release
 
-The event is June 26, 2003, with the June 28, 2002 opening baseline plus completed strictly earlier law. Smith is a completed March 5, 2003 event in the supplied projection; the copied packet's conditional reference does not withhold it or enlarge its fractured reasoning. Uncoordinated same-day events supply no entering holding. There is no case-specific participation exception in the authorized packet.
+The event is June 26, 2003, with the June 28, 2002 opening baseline plus completed strictly earlier law. Smith is a completed March 5, 2003 event in the supplied projection; the copied packet's conditional reference does not withhold it or enlarge its reasoning. Uncoordinated same-day events supply no entering holding. There is no case-specific participation exception in the authorized packet.
 
 Pass this correction and clarification with the B neutral materials to fresh modeling. The supplied source map is adequate for the live constitutional forks; further retrieval is required only if a proposed ground depends on a material proposition beyond these supported facts or exact reproduced text. No vote, historical reconciliation, author assignment or Stone compatibility determination is supplied.

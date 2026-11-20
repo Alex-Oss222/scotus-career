@@ -20,7 +20,7 @@ Caldwell, 472 U.S. 320, 328–341, addresses responsibility for the individualiz
 
 The refusal does not treat proof of a constitutional violation alone as automatic proof of harmfulness. It rests on the particular official death-commanding exhibit, its presentation as evidence despite the offered conviction stipulation, the absence of a direction to disregard the other death choice, and the failure of general role instructions and appeal information to remove the identified risk. No new finding about what a juror actually thought is invented. The recognized risk concerns selection of death, not merely proof of an aggravator. Even assuming this kind of error can be assessed under Chapman, these four positions do not support leaving this record's consequence undecided. A universal structural classification is unnecessary and is not adopted by this audit.
 
-Actual prior simulated law must also be kept distinct from historical collateral-review doctrine. The public **Brecht** entry of April 21, 1993 retains Chapman, with the State bearing uncertainty, for the preserved Doyle claim on habeas and remands for its unresolved application. Blackmun and Souter joined that rule/remand; Stevens supported a demanding whole-record Kotteakos approach in dissent. That is affirmative evidence that Blackmun and Souter can support conditional relief for an assessable error whose effect remains unresolved. It is not a general requirement to remand rather than resolve effect, and the historical Kotteakos constitutional-habeas outcome is not governing law here. Romano is direct review; no collateral finality rationale changes its burden or authorizes a lesser standard.
+Actual prior simulated law must also be kept distinct from historical collateral-review doctrine. The public **Brecht** entry of April 21, 1993 retains Chapman, with the State bearing uncertainty, for preserved constitutional trial error on habeas and remands the preserved Doyle claim for its unresolved application. Blackmun and Souter joined that rule/remand; Stevens supported a demanding whole-record Kotteakos approach in dissent. That is affirmative evidence that Blackmun and Souter can support conditional relief for an assessable error whose effect remains unresolved. It is not a general requirement to remand rather than resolve effect, and the historical Kotteakos constitutional-habeas outcome is not governing law here. Romano is direct review; no collateral finality rationale changes its burden or authorizes a lesser standard.
 
 The public **Sullivan** entry of June 1, 1993, and the current public **Victor/Sandoval** entry preserve structural treatment where an invalid reasonable-doubt charge leaves no constitutionally valid guilt verdict to assess. Blackmun, Stevens and Souter joined Sullivan; Ginsburg's current Victor position operates under that law. These authorities warn against an appellate substitute for the constitutionally required jury judgment, but do not by themselves classify Romano's distinct sentencing-responsibility error. They neither compel a categorical no-harmlessness rule here nor supply a reason to disregard the four Justices' actual assessment of this record.
 
@@ -62,17 +62,17 @@ The seal checks match the durable proposal and existing frozen hashes, verify th
 | Permitted input | SHA256 |
 |---|---|
 | `terms/OT1993/freeze/OT_1993CHUNK6_ROMANO_REMEDY_PROPOSAL.md` | `30c9a334e5c285e3c616b0d1e00a5cfdef473dc0c52719e894e8cff0ee3f6c88` |
-| `terms/OT1993/freeze/OT_1993CHUNK6_COMMITMENTS_B.md` | `539871e1fef24ed2bf1bcd8abf317437f9fbb30f4268d54731cf7e50b66f0a32` |
+| `terms/OT1993/freeze/OT_1993CHUNK6_COMMITMENTS_B.md` | `2eedd42c03a7e768d4f38d4b19d707201a147f0d1c3331d5543600282fb588e2` |
 | `terms/OT1993/freeze/OT_1993CHUNK6_RECONCILED_B.md` | `7a6ac6c4ae8064fe8c95cb9f4bd5ea43244acf8625a8d491e54765283b4bc8af` |
 | `terms/OT1993/freeze/OT_1993CHUNK6_COMMITMENTS_B_ROMANO_SUPPLEMENT.md` | `0b10ca479c9839242a100049a3e568424e71a3a9593e02a8a156a4713d0d226f` |
-| `terms/OT1993/freeze/OT_1993CHUNK6_RECONCILED_B_ROMANO_SUPPLEMENT.md` | `bb08fa6ba9543e4b85850a92e91ed328c7191bf0b0f8a34ad7e5c42d230a123a` |
+| `terms/OT1993/freeze/OT_1993CHUNK6_RECONCILED_B_ROMANO_SUPPLEMENT.md` | `8d6fbfd0f889bb9116655804b56ca09352ac3463279107e89078738246fc9d45` |
 | `tmp/OT1993CHUNK6/ROMANO_REMEDY_COMPATIBILITY_PROPOSAL.md` | `30c9a334e5c285e3c616b0d1e00a5cfdef473dc0c52719e894e8cff0ee3f6c88` |
 | `terms/OT1993/entering-law/OT_1993CHUNK6_VALIDATED_NEUTRAL_B.md` | `f9664c4268053df5f23c3a7cd6b32adef3620f32c9f2cbde84a30822f4fc8531` |
 | `terms/OT1993/entering-law/OT_1993CHUNK6.md` | `078cb263fbc3bc1414173a551906050183f9b28dc3cfcec05f12419775d9f2bf` |
 | `terms/OT1993/entering-law/OT_1993CHUNK6_CURRENT_PUBLIC_AUTHORITY.md` | `1ee6ce93b9585e577a75ffdf32800ee20dfee88a3677d8772746787e382e2a5d` |
 | `terms/OT1993/runtime/OT_1993CHUNK6_COMPARATOR_B.md` | `bacb916292efb88b89e329845d0957542a9b8c9901d4c36ec9dc12ad399e7852` |
-| `terms/OT1992/output/OT_1992CHUNK5.md` | `c20dcfe011e2805c5b62118a799b2c22bce4e91df6a0910f80d1680039d1d26a` |
-| `terms/OT1992/output/OT_1992CHUNK7.md` | `d7a165e3f273160451a0bb23add8ad57e19a8a4d3c6bb3db5ffecd022a967670` |
+| `terms/OT1992/output/OT_1992CHUNK5.md` | `e87db0824ba6e42154c367d2706b956997d128fe581c904a9e7f90b5109a6424` |
+| `terms/OT1992/output/OT_1992CHUNK7.md` | `6bb1f206d0049d7bf8bc51665adefdeb651d887fbdeb8a219c7d680cd41c16d8` |
 | `tmp/OT1993CHUNK6/Chapman_386_US_18.txt` | `9c7c734ba3e2df063edf23a58253e064f3c531a71bf17370a7105fc61aa2fd32` |
 | `tmp/OT1993CHUNK6/Chapman_386_US_18.pdf` | `7b06fc4c61deeaf7fa93a2d4a8b6578dab82862a936f539c20ce3fd50100eeb1` |
 | `tmp/OT1993CHUNK6/Satterwhite_486_US_249_remedy.txt` | `527158e1b5c333fa95ed919c22f43b19a84e0874bf32103cbdbc34c1503a52c2` |

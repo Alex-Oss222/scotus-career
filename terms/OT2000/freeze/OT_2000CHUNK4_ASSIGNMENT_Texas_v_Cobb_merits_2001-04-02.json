@@ -184,7 +184,7 @@
       "date": "2001-01-09",
       "case": "Solid Waste Agency of Northern Cook County v. U.S. Army Corps of Engineers",
       "record": "Solid_Waste_Agency_of_Northern_Cook_County_v_US_Army_Corps_of_Engineers_merits_2001-01-09.md",
-      "record_sha256": "26dcda08e1dac5a3d56a189c7420586ddc766854e96e35bcc6c3b9fdaa17f99d",
+      "record_sha256": "6c3ce11a3508a32f71fb2a9ec19e18a2d6fab8da7b96e9365ba2113b597c3282",
       "authors": [
         "Scalia"
       ],
@@ -520,10 +520,10 @@
       "record": "Gibbs_v_Babbitt_merits_2001-03-21.md",
       "record_sha256": "a4f5b31f35fd60cb6fdf74eb02ffc333b5c804c97af963427873a6f6f01864eb",
       "authors": [
-        "O'Connor"
+        "Stone-Zsela"
       ],
       "opinion_table_rows": [
-        "| Opinion of the Court, Parts I and II | O'Connor | Stone-Zsela and Kennedy throughout; Scalia and Thomas in Part I; Ginsburg and Breyer in Part II | Part I controls the enacted class and connection prerequisite; Part II controls both complete current-law routes and vacatur/remand |"
+        "| Opinion of the Court, Parts I and II | Stone-Zsela | O'Connor and Kennedy throughout; Scalia and Thomas in Part I; Stevens, Souter, Ginsburg and Breyer in Part II | Part I controls the enacted class and connection prerequisite; Part II controls the necessary-inclusion holding and affirmance |"
       ]
     }
   ],

@@ -53,7 +53,7 @@ The notice holding concerns its fitted relationship to the regulated operation, 
 ## Precedent Treatment
 
 - United States v. Lopez: applied to connection before aggregation, the actual regulated class and the prohibition on adding an unexpressed commerce element.
-- National Association of Home Builders v. Babbitt: applied and distinguished because this regulation addresses the actual abatement operation, rather than relying on commercial surroundings to characterize unrelated conduct; its support and fit requirements remain effective.
+- National Association of Home Builders v. Babbitt: applied and distinguished because this regulation addresses the actual abatement operation, rather than relying on commercial surroundings to characterize unrelated conduct; its identification-and-fit rule remains effective.
 - Wickard v. Filburn: applied to class-wide effects of supported economic activity without an independently substantial effect from each instance.
 - Perez v. United States: applied to class-wide effects of supported economic activity without an independently substantial effect from each instance.
 - Hodel v. Virginia Surface Mining & Reclamation Association: applied to environmental regulation of an actual economic operation.

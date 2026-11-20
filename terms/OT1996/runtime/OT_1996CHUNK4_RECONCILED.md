@@ -422,7 +422,7 @@ Read all eight decisions in `../entering-law/OT_1996CHUNK4_FEB18_PUBLIC_DELTA.md
 
 **Final readiness:** Source validation, independent model revalidation, actual preceding-date law review and historical reconciliation are complete for the threshold-only disposition specified here. No source or chronology blocker remains for that disposition. A future merits adjudication requires a lawful threshold determination, not an invented waiver or automatic import of these conditional views. Assembly must not copy the provisional merits propositions as current holdings, count conditional joins, or describe this result as an Ex Post Facto merits victory. Final Stone compatibility and assignments remain outside this context.
 
-<!-- frozen-part: OT_1996CHUNK4_RECONCILED_B.md; sha256: 749b002f4c48213c75d20dabba92cef4942c56aebe3d04a93d6622ca639fddf2 -->
+<!-- frozen-part: OT_1996CHUNK4_RECONCILED_B.md; sha256: 2baeb8e67edd1664fa4cc95f12b9d4328ae5d2536467e81d102e925b1985a02d -->
 
 # OT1996 chunk 4 — reconciled non-Stone commitments B
 
@@ -626,7 +626,7 @@ Kay supports rejection of an actual-influence/importance defense under its prede
 
 | Justice | Reconciled E1/E2 position and personal sources | E3/E4 remedy, historical comparison and join boundary |
 |---|---|---|
-| Stevens | Reach; retain materiality. Aguilar's distinct objective offense requirement and his X-Citement position support received criminal meaning beyond grammar; revision history and the statutory object's limits reinforce the narrow construction. | Affirm the new-trial judgment for Counts I/II under Gaudin. His historical dissent confirms that intent to curry favor differs from objective materiality, and Kay's rejection of reliance does not settle that difference. Simulated Roy permits harmlessness review in its category, but the reported express withdrawal of the contested materiality question supports his case-specific new-trial result; no universal structural rule. |
+| Stevens | Reach; retain materiality. Aguilar's distinct objective offense requirement and his X-Citement position support received criminal meaning beyond grammar; revision history and the statutory object's limits reinforce the narrow construction. | Affirm the new-trial judgment for Counts I/II under Gaudin. His historical dissent confirms that intent to curry favor differs from objective materiality, and Kay's rejection of reliance does not settle that difference. Simulated Roy permits harmlessness review of its preserved personal-intent habeas error, but the reported express withdrawal of the contested materiality question supports his case-specific new-trial result; no universal structural rule. |
 | O'Connor | Reach; no materiality element. Staples/X-Citement and Aguilar's section 2232(c) component distinguish offense-specific culpability from an extra objective condition. | Vacate/remand, retaining independent claims. Historical full join confirms both reach and statutory result; Lebron's deliberately abandoned argument differs from this decided-and-granted question. |
 | Scalia | Reach; no materiality element. Lebron reach opinion, X-Citement dissent and Aguilar separate position support the actual enacted offense and purpose requirement. | Vacate/remand; historical full join confirms. Gaudin/Roy jury safeguards do not create an absent element or authorize an appellate substitute verdict on a remaining element. |
 | Kennedy | Reach; no materiality element. Lebron/Aguilar separate joins and Staples/X-Citement joins protect culpability without adding a universal probable-effect element. | Vacate/remand; historical full join. Knowledge, falsity and purpose remain mandatory; no automatic rejection of other trial claims. |
@@ -649,7 +649,7 @@ No material historical departure is retained. The current common explanation doe
 4. **Source/scope boundaries:** The precise source limits in the clean validation and frozen model remain. No missing original proves litigant waiver or default. No new record premise was reconstructed, and the limited holdings do not require inventing one. Expanded Brown claims, a stronger Wells remedy, an exact predecessor-statute census, disputed original Schenck facts or a new Dunn transaction classification would require the targeted clean work already identified.
 5. **Durability:** This file is a separate preserved reconciliation product. It changes no opening tracker, approved brief, frozen provisional commitment, adjudication or public render. It remains insufficient by itself to certify final chronology, Stone compatibility, assignments or a chunk commitment.
 
-<!-- frozen-part: OT_1996CHUNK4_RECONCILED_B_FEB18_REVALIDATION.md; sha256: 0674ad8ae1074a01ee3b35966b232c6c0f1fb916157cde5b04b34e05248c9a33 -->
+<!-- frozen-part: OT_1996CHUNK4_RECONCILED_B_FEB18_REVALIDATION.md; sha256: 5eb5a50f4ba77bd63774791ebf78ceadb4966e7d4166f070e953ed99bae7c2e1 -->
 
 # OT1996 chunk 4 — B reconciliation revalidated through February 18
 
@@ -663,7 +663,7 @@ Read the entire clean modeling addendum and mechanically copied `entering-law/OT
 
 Read-byte identifiers (SHA-256):
 
-- Original reconciled B: `749B002F4C48213C75D20DABBA92CEF4942C56AEBE3D04A93D6622CA639FDDF2`.
+- Original reconciled B: `2BAEB8E67EDD1664FA4CC95F12B9D4328AE5D2536467E81D102E925B1985A02D`.
 - Clean February 18 model addendum: `91E027D1ACD46C60F270352D5F62C8AA6E20FF06D733FDE49ECBE5C2960F2D21`.
 - February 18 public delta: `1EA1784EB10ACE37ECF06281871E0BA8E9ED3F03E235D4CA1AAE931604B32A55`.
 

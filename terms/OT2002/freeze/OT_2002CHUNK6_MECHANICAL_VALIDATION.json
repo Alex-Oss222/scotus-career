@@ -18,19 +18,20 @@
     },
     {
       "record": "Smith-v-Doe_merits_2003-03-05.md",
-      "author": "O'Connor",
+      "author": "Ginsburg",
       "prior_leads": 51,
       "pool": [
-        "O'Connor",
-        "Scalia",
-        "Kennedy",
-        "Thomas"
+        "Stone-Zsela",
+        "Stevens",
+        "Ginsburg",
+        "Breyer"
       ],
       "components_checked": 1,
       "explanation_words": [
-        216
+        216,
+        298
       ],
-      "sha256": "8c421fe335b9801b62c707ad364d8c1945c551e4df361c37c442c02d8e09118c"
+      "sha256": "fb5410b715c8c87be1737bd886c5dabb7fc81d6a7e852836396eac8f90358503"
     },
     {
       "record": "United-States-v-Bach_merits_2003-03-05.md",
@@ -130,7 +131,7 @@
         107,
         85
       ],
-      "sha256": "6e93f496397a87f507f0fca86e455b9af6cdd21a707f6df105b8a3c51906fab1"
+      "sha256": "11f3fd493ca3780aed7f281098b4e3d227f7b06974ebe8371e4f5dc74f06f216"
     },
     {
       "record": "United-States-v-Buckland_merits_2003-03-10.md",

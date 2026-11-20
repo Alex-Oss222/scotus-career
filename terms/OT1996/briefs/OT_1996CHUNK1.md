@@ -125,10 +125,10 @@ The remand may produce the same judgment on a lawful ground. It revives no forfe
 * **Entry Stage and Event:** Non-argued reported merits disposition on federal habeas review.
 * **Simulated Event Date:** November 4, 1996 (historical)
 * **Question Presented:** Whether an aiding-and-abetting instruction that omitted the requirement that the defendant act with the purpose of facilitating the crime was structural error or trial error, and what harmless-error standard governs the omission on federal habeas review.
-* **Question Granted:** Whether the instructional omission required automatic relief or was subject to the claim-specific simulated harmless-error rule.
+* **Question Granted:** Whether the instructional omission required automatic relief or was subject to the simulated general harmless-error rule of Brecht, as applied in O'Neal.
 * **Court and Judgment Under Review:** The en banc United States Court of Appeals for the Ninth Circuit granted federal habeas relief after concluding that the instructional error could be harmless only if the jury necessarily found the omitted intent element.
-* **Relief Requested:** California seeks reversal of the habeas judgment and application of the claim-specific simulated O'Neal standard. Roy seeks affirmance or a remand requiring relief because the jury did not determine the constitutionally required intent element.
-* **Material Record:** Roy was convicted in California as an aider and abettor. The instruction required knowledge of the perpetrator’s unlawful purpose and aid or encouragement, but did not expressly require that Roy act with the purpose of facilitating the crime. The state courts treated the error as harmless. The federal district court denied relief. The Ninth Circuit applied a more defendant-protective necessity inquiry. The complete trial record controls whether California can prove beyond a reasonable doubt that this preserved personal-intent instructional violation did not contribute to the verdict, under simulated O'Neal.
+* **Relief Requested:** California seeks reversal of the habeas judgment and application of the simulated Brecht standard as O'Neal applied it. Roy seeks affirmance or a remand requiring relief because the jury did not determine the constitutionally required intent element.
+* **Material Record:** Roy was convicted in California as an aider and abettor. The instruction required knowledge of the perpetrator’s unlawful purpose and aid or encouragement, but did not expressly require that Roy act with the purpose of facilitating the crime. The state courts treated the error as harmless. The federal district court denied relief. The Ninth Circuit applied a more defendant-protective necessity inquiry. The complete trial record controls whether California can prove beyond a reasonable doubt that this preserved personal-intent instructional violation did not contribute to the verdict, under simulated Brecht as applied in O'Neal.
 * **Threshold, Preservation, and Vehicle Matters:** The claim is preserved for federal habeas review. The error’s classification and the applicable harmless-error standard are distinct. The Court should not itself resolve the record-intensive harmlessness question unless the record permits only one conclusion.
 * **Relevant Dates:** November 4, 1996 (historical).
 * **Companion or Related Matters:** None identified as a separate matter requiring adjudication.
@@ -138,7 +138,7 @@ The remand may produce the same judgment on a lawful ground. It revives no forfe
 
 - **Current Through:** July 1, 1996, authoritative October 7, 2026 OT1995 close (116 Court events and ten admitted sources), plus applicable event-date noncase law. Historical later decisions and prepared OT1996 positions do not enter as holdings.
 - **Earlier Same-Term Decisions:** No completed OT1996 decision is established in the controlling opening state. Earlier scheduled packets are pending inputs. Carry forward authenticated earlier-effective decisions before use, regardless of chunk; same-day order alone creates no intervening law.
-- **Governing simulated rules and application:** See the case-specific authority verification below. O'Neal supplies Chapman for the preserved personal-intent instructional category; Brecht's simulated holding is also Chapman in its own Doyle category. Neither is the historical substantial-and-injurious-effect rule. Gaudin and Sullivan require separate consideration of the element-allocation defect and structural-error boundary.
+- **Governing simulated rules and application:** See the case-specific authority verification below. Brecht's simulated holding supplies Chapman as the general rule for preserved constitutional trial error properly reached on federal habeas; O'Neal applies it to the preserved personal-intent instructional error. Neither is the historical substantial-and-injurious-effect rule. Gaudin and Sullivan require separate consideration of the element-allocation defect and structural-error boundary.
 - **Open Point:** Whether the complete trial record permits the State to prove the omission harmless beyond a reasonable doubt; the existing source does not supply that finding.
 
 
@@ -147,14 +147,14 @@ The remand may produce the same judgment on a lawful ground. It revives no forfe
 ### Issue 1: Error classification and harmlessness
 
 * **Reasoning Below:** The Ninth Circuit treated the omission as harmless only if the jury’s actual findings necessarily embraced the missing intent requirement.
-* **Petitioner or Appellant:** The omission is an assessable trial error and the special necessity test is improper. Any request for Kotteakos review conflicts with the simulated O'Neal holding for preserved personal-intent instructional claims and would require an express request to change or distinguish that holding.
+* **Petitioner or Appellant:** The omission is an assessable trial error and the special necessity test is improper. Any request for Kotteakos review conflicts with the simulated Brecht rule, as O'Neal applied it to preserved personal-intent instructional claims, and would require an express request to change or distinguish those holdings.
 * **Respondent or Appellee:** Removing purpose from the jury permitted conviction without the constitutionally required mental state, and the prosecution cannot show the verdict was unaffected.
 * **Material Alternative or Unreached Ground:** Even under Chapman, the court of appeals could grant relief after reviewing the complete record and applying O’Neal.
 * **Necessary Concession or Limiting Principle:** No rule should permit a court to affirm by supplying a disputed element or by treating overwhelming evidence as a substitute for a jury determination without the applicable error analysis.
 
 ## D. LAWFUL PATHS AND UNCERTAINTY
 
-The Court may classify the omission as trial error and remand for Chapman review under simulated O'Neal. A conditional writ depends on an available violation and the State failing its beyond-reasonable-doubt harmlessness showing. A structural-error path requires a determination that no meaningful verdict-based effect inquiry is possible, which the existing instructional-error authorities do not compel.
+The Court may classify the omission as trial error and remand for Chapman review under simulated Brecht as applied in O'Neal. A conditional writ depends on an available violation and the State failing its beyond-reasonable-doubt harmlessness showing. A structural-error path requires a determination that no meaningful verdict-based effect inquiry is possible, which the existing instructional-error authorities do not compel.
 
 ## E. SOURCES
 
@@ -164,7 +164,7 @@ The Court may classify the omission as trial error and remand for Chapman review
 
 ## F. VERIFIED SIMULATED-LAW APPLICATION
 
-Actual simulated O'Neal (February 21, 1995), Parts II and IV with five joins, governs the preserved personal-intent instructional claim properly available on habeas: the State must prove beyond a reasonable doubt on the whole record that the violation did not contribute to the verdict. Kotteakos's substantial-influence/grave-doubt framework is expressly rejected for that category. Simulated Brecht separately applies Chapman to its preserved Doyle claim, without a universal holding for all collateral error. Roy's purpose-to-facilitate omission fits O'Neal's personal-intent concern if the claim is preserved and the ordinary habeas gates are satisfied. Simulated Gaudin assigns elements to the jury but reserves universal structural-error treatment; Sullivan requires automatic reversal for a charge vitiating the entire reasonable-doubt verdict, a distinct defect. The Court may classify this omission as assessable trial error and remand under Chapman without itself finding harmlessness.
+Simulated Brecht (April 21, 1993) states the general rule for preserved constitutional trial error properly reached on federal habeas: the State must prove beyond a reasonable doubt on the whole record that the violation did not contribute to the verdict, unless another controlling rule treats the defect as structural or the violated right carries its own necessary prejudice element. Actual simulated O'Neal (February 21, 1995), Parts II and IV with five joins, applies that rule to the preserved personal-intent instructional claim properly available on habeas. Kotteakos's substantial-influence/grave-doubt framework does not govern these constitutional claims. Roy's purpose-to-facilitate omission fits O'Neal's personal-intent concern if the claim is preserved and the ordinary habeas gates are satisfied. Simulated Gaudin assigns elements to the jury but reserves universal structural-error treatment; Sullivan requires automatic reversal for a charge vitiating the entire reasonable-doubt verdict, a distinct defect. The Court may classify this omission as assessable trial error and remand under Chapman without itself finding harmlessness.
 
 - **Verified primary case source:** [Official U.S. Reports — record, procedural history and identifiers](https://www.supremecourt.gov/opinions/boundvolumes/519bv.pdf#page=172). The historical outcome is segregated in Section III.
 
@@ -184,17 +184,17 @@ Actual simulated O'Neal (February 21, 1995), Parts II and IV with five joins, go
 
 ## A. STATUS
 
-- **Approval Status:** proposed to the Court and user-approved; the source proposal is corrected to apply the actual simulated O'Neal holding.
+- **Approval Status:** proposed to the Court and approved; the position applies the actual simulated Brecht rule as O'Neal applied it.
 
 ## B. JUDGMENT AND REASONING
 
-Stone would vacate the Ninth Circuit judgment and remand for review of the preserved personal-intent instruction claim under Chapman. Gaudin protects jury determination of elements, but does not classify every omission as structural. Sullivan's destruction of the reasonable-doubt verdict differs from an assessable omission of the purpose-to-facilitate element. Roy's claim instead matches the intent-instruction category controlled by simulated O'Neal: the State must establish beyond a reasonable doubt, on the whole record, that the violation did not contribute to the verdict.
+Stone would vacate the Ninth Circuit judgment and remand for review of the preserved personal-intent instruction claim under Chapman. Gaudin protects jury determination of elements, but does not classify every omission as structural. Sullivan's destruction of the reasonable-doubt verdict differs from an assessable omission of the purpose-to-facilitate element. Roy's claim is instead governed by simulated Brecht's general rule for preserved constitutional trial error, which O'Neal applied to intent-instruction error: the State must establish beyond a reasonable doubt, on the whole record, that the violation did not contribute to the verdict.
 
 The Ninth Circuit's necessity formulation does not replace this whole-record inquiry. Stone would not supply intent himself, shift the harmlessness burden to Roy, or demand proof of innocence. If the violation is properly available and California fails the Chapman showing, the lower court should order relief for the affected conviction subject to a reasonable retrial opportunity. Preservation, exhaustion, independent habeas gates and any event-date statutory transition remain separate; the packet establishes no final harmlessness finding or retrial deadline.
 
 ## D. VERIFIED PRECEDENT APPLICATION AND POSITION STATUS
 
-Correction to the user-approved proposal: vacate and remand for the O'Neal Chapman inquiry, not historical Brecht/Kotteakos. The State bears the beyond-reasonable-doubt harmlessness burden. If a properly available violation is established and the State fails that showing, relief follows for the affected conviction subject to a lawful retrial opportunity; no automatic present writ or invented deadline follows.
+Approved position: vacate and remand for the Chapman inquiry of simulated Brecht as O'Neal applied it, not historical Brecht/Kotteakos. The State bears the beyond-reasonable-doubt harmlessness burden. If a properly available violation is established and the State fails that showing, relief follows for the affected conviction subject to a lawful retrial opportunity; no automatic present writ or invented deadline follows.
 
 # SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 

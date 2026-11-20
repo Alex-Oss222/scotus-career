@@ -10,11 +10,11 @@
 
 | Exact case artifact | Event cutoff | SHA-256 |
 |---|---|---|
-| [DORSAINVIL](OT_1997CHUNK6_RESUMED_DORSAINVIL_INDEPENDENT.md) | 1998-04-02 | `024fab5ac59f43443b0bd6569a52a4a64ea30496681f3f8bf2e4c688b79f41e3` |
+| [DORSAINVIL](OT_1997CHUNK6_RESUMED_DORSAINVIL_INDEPENDENT.md) | 1998-04-02 | `7b758377ad553c6f5493db9f34a7f90b6c125882d5a78bae85ef0d1bfa65f947` |
 | [BIRD](OT_1997CHUNK6_RESUMED_BIRD_INDEPENDENT.md) | 1998-04-13 | `f7b2eedb7248f36eadef7f854d04eb20d80a39205452e038806b4592ab200f0e` |
-| [A732](OT_1997CHUNK6_RESUMED_A732_INDEPENDENT.md) | 1998-04-14 | `0acdc0a84a1db101b7da9c997f9489512061c1ca6db4e057d86609dd408f185d` |
-| [CARRIGER](OT_1997CHUNK6_RESUMED_CARRIGER_INDEPENDENT.md) | 1998-04-16 | `732d3132964d1ee717efff12c2783fd04e304aef42bbfce890a667ed0f2bf3ca` |
-| [Carriger acquisition clarification](OT_1997CHUNK6_RESUMED_CARRIGER_ACQUISITION_CHECK.md) | 1998-04-16 | `90d53c019210ffbaba9cc53c07d9d9977ac1e826b3af0d624f5a817057605cee` |
+| [A732](OT_1997CHUNK6_RESUMED_A732_INDEPENDENT.md) | 1998-04-14 | `e1d7818dc71980595a4aa8fcfa13236569c229dce3c987578b4772bb69bb9f28` |
+| [CARRIGER](OT_1997CHUNK6_RESUMED_CARRIGER_INDEPENDENT.md) | 1998-04-16 | `33f81173a8dc943aebf4fe0500fb24fbb7b0421a7813ea5e5e6ff91fc4c0d68c` |
+| [Carriger acquisition clarification](OT_1997CHUNK6_RESUMED_CARRIGER_ACQUISITION_CHECK.md) | 1998-04-16 | `2f6b3da690c9d662180f86bcd5acef5859bde1106618e79f2f44ee648e28c06b` |
 
 
 ---
@@ -23,7 +23,7 @@
 
 **Event cutoff:** April 2, 1998. **Stage:** Independent non-Stone modeling only. These are provisional individual conclusions, not a Court judgment, assignment, historical reconciliation or merits disposition. No later April 6 Hinds rule enters this event.
 
-**Authorized inputs:** [Final clean neutral packet](OT_1997CHUNK6_RESUMED_NEUTRAL.md), [its validation](OT_1997CHUNK6_RESUMED_NEUTRAL_VALIDATION.md), and [entering-law reading slice](../entering-law/OT_1997CHUNK6_RESUMED.md), including the complete March 12 Triestman public decision and Felker original-jurisdiction module. The final packet hash was checked as `b93ae93f03275931d70fcb7fb860a803bc09c3ca90aed16f506981018970984c`.
+**Authorized inputs:** [Final clean neutral packet](OT_1997CHUNK6_RESUMED_NEUTRAL.md), [its validation](OT_1997CHUNK6_RESUMED_NEUTRAL_VALIDATION.md), and [entering-law reading slice](../entering-law/OT_1997CHUNK6_RESUMED.md), including the complete March 12 Triestman public decision and Felker original-jurisdiction module. The final packet hash was checked as `f576c67f398e0e131822d1dc49d8a300c514522bc8446db6c061c8f5da621d87`.
 
 ## Presented component and common legal boundary
 
@@ -243,7 +243,7 @@ Every Associate can give the short signed explanation required for the actual re
 
 ## Validation and source-limit receipt
 
-The final packet hash was verified as `b93ae93f03275931d70fcb7fb860a803bc09c3ca90aed16f506981018970984c`; the entering-law slice hash was verified as `97905c38ea6436d498ba2acc5c443d1c7eedd579d766f9fd78071fb2a3d0c837`. The full saved stay application and the identified supporting/opposing claim excerpts, District Claim IV, complete Article 36, Rules 22–23, exact C/E judicial text, complete Woodard and Coleman public positions, Lonchar public decision and applicable Standards modules were read. Teague supplements were read at the complete relevant entries.
+The final packet hash was verified as `f576c67f398e0e131822d1dc49d8a300c514522bc8446db6c061c8f5da621d87`; the entering-law slice hash was verified as `eecfd5fcb11ccfb0ac89f0590e3e5cef93e002a876438ee41cd3a78949228ea7`. The full saved stay application and the identified supporting/opposing claim excerpts, District Claim IV, complete Article 36, Rules 22–23, exact C/E judicial text, complete Woodard and Coleman public positions, Lonchar public decision and applicable Standards modules were read. Teague supplements were read at the complete relevant entries.
 
 No own-case historical Supreme Court result, private Stone position, comparator, reconciliation, prior provisional commitment, raw Record, ledger, continuity, runtime file or top-level private directory was accessed. No Git operation or unapproved source research occurred. Public earlier Stone writings present in the authorized source copies are earlier law/public positions, not current controlled material, and were not used to infer a current position. Long source quotations were not newly transcribed into this artifact; its conclusions are concise original doctrinal prose.
 
@@ -258,7 +258,7 @@ The source limits remain operative: no recovered exhibits A/B, untested statisti
 
 **Stage:** Independent modeling only. These are provisional commitments of the eight Associates, not a Court judgment, an assignment, final opinion joins, or historical reconciliation. No present Stone position is supplied or inferred.
 
-**Authorized neutral handoff:** [OT_1997CHUNK6_RESUMED_NEUTRAL.md](OT_1997CHUNK6_RESUMED_NEUTRAL.md), SHA-256 `b93ae93f03275931d70fcb7fb860a803bc09c3ca90aed16f506981018970984c`, with [validation](OT_1997CHUNK6_RESUMED_NEUTRAL_VALIDATION.md). The controlling-law reading copy is [OT_1997CHUNK6_RESUMED.md](../entering-law/OT_1997CHUNK6_RESUMED.md). Earlier public positions appearing there are considered at their actual scope; they are neither present votes nor the current matter's comparator.
+**Authorized neutral handoff:** [OT_1997CHUNK6_RESUMED_NEUTRAL.md](OT_1997CHUNK6_RESUMED_NEUTRAL.md), SHA-256 `f576c67f398e0e131822d1dc49d8a300c514522bc8446db6c061c8f5da621d87`, with [validation](OT_1997CHUNK6_RESUMED_NEUTRAL_VALIDATION.md). The controlling-law reading copy is [OT_1997CHUNK6_RESUMED.md](../entering-law/OT_1997CHUNK6_RESUMED.md). Earlier public positions appearing there are considered at their actual scope; they are neither present votes nor the current matter's comparator.
 
 ## Event and controlling distinctions
 
@@ -272,7 +272,7 @@ The following rules and limits govern every commitment below, including a Justic
 4. **Abuse and other gates remain distinct.** The State's clear and particular abuse pleading, identifying prior history and new claims, precedes the prisoner's response burden. Cause and prejudice and the exceptional innocence route remain separate. Former §2244(b)'s prior-hearing alternatives and both exceptions retain their actual terms: an unadjudicated factual or other ground, and satisfaction that it was not deliberately withheld or otherwise abusive. New evidence does not automatically establish a new ground; lack of deliberate withholding does not eliminate all abuse. McCleskey requires consideration when those conditions and other applicable gates are satisfied. No discretionary refusal may rest on a mistaken gateway standard. No general mandatory-review rule after every gateway showing is supplied here.
 5. **Three attribution theories are separate.** Actual possession or knowledge of favorable information by prosecutors or police acting for this prosecution falls within Kyles, even if the trial prosecutor personally lacked the information. A proposed obligation to obtain a known central witness's corrections file before using him is an acquisition rule beyond that established case-team rule. Imputation of all knowledge in every government office is broader still and is expressly outside current Kyles. The lower opinion's inconclusive statement about individual prosecutors' possession establishes neither possession nor absence of case-team knowledge. A police officer's knowledge of Dunbar's informant status establishes no finding that this officer knew every significant item in the DOC file.
 6. **Brady has independent elements.** Under **Collective Brady materiality and investigating-team responsibility**, effective April 19, 1995, the prisoner must establish favorable evidence, suppression attributable to this prosecution, and collective reasonable-probability materiality. The lawful preparation, investigation and impeachment uses of the proven suppressed evidence are considered together with the whole record; no item must independently be material. Knowing a file exists is not knowing every item in it. Conversely, information actually known to the defense cannot simply be relabeled suppressed. The April 18, 1978 letter therefore matters without establishing that counsel knew the file's entire contents.
-7. **A completed Brady violation needs no second prejudice screen.** Kyles incorporates the necessary prejudice in materiality. It requires neither a second harmlessness assessment of the same suppression nor a showing that acquittal is more likely than conviction. Brecht, O'Neal and Roy retain their actual category-specific holdings; they supply no general Kotteakos rule to defeat an established Brady violation here. Passing Schlup proves none of the Brady elements, and satisfying Brady materiality proves no Schlup gateway.
+7. **A completed Brady violation needs no second prejudice screen.** Kyles incorporates the necessary prejudice in materiality. It requires neither a second harmlessness assessment of the same suppression nor a showing that acquittal is more likely than conviction. Brecht's general rule, which O'Neal and Roy applied, excepts a right carrying its own prejudice element; none of them supplies a general Kotteakos rule to defeat an established Brady violation here. Passing Schlup proves none of the Brady elements, and satisfying Brady materiality proves no Schlup gateway.
 8. **Teague cannot be silently supplied or silently bypassed.** If the acquisition duty were made necessary to the writ, whether it was dictated at the actual finality date and whether a properly presented nonretroactivity defense bars it would require separate resolution. Caspari's preserved same-rule defense, Schiro's discretion concerning a late defense, and Lambrix's absence of an inflexible ordering rule retain their conditions. The supplied record establishes neither the exact finality date for this inquiry nor presentation of a Teague defense to the proposed acquisition rule. No waiver, preservation, or new-rule holding is inferred. The existing case-team rule is not converted into the broader acquisition rule by calling both Brady.
 9. **No freestanding innocence writ follows.** Herrera supplies a record-specific insufficiency holding and leaves a uniform freestanding test unresolved. The conflicting accounts, possible joint participation and physical evidence do not support an affirmative declaration of Carriger's innocence. The present lower judgment rests on Brady after a gateway. No Justice's commitment below substitutes a freestanding writ for those missing predicates.
 10. **Relief tracks the ground.** If a lawful gateway and a completed conviction-level Brady violation are established, conditional new-trial relief is the available remedy, with any reasonable retrial period fixed by the responsible lower court. If the gateway fails, this otherwise-abusive Brady ground supplies no writ. A remand correcting legal error or resolving genuinely material attribution is bounded by those questions and the applicable factual-development rules; it does not automatically require a hearing, unrestricted discovery, acquittal, immediate release or a stay. Unreached mitigation, competence and resentencing-counsel claims remain for their own lawful dispositions and do not disappear with the Brady rationale.
@@ -357,9 +357,9 @@ The clean Lindh supplement supplies Scalia's authored dissent, Kennedy's and Tho
 
 | Read source | SHA-256 |
 |---|---|
-| Final neutral handoff | `b93ae93f03275931d70fcb7fb860a803bc09c3ca90aed16f506981018970984c` |
-| Neutral validation receipt | `41d955ab0c2d26710c79263a2d0c00ed49b504059d77c1b691e7f70ab54ea6e3` |
-| Entering-law slice | `97905c38ea6436d498ba2acc5c443d1c7eedd579d766f9fd78071fb2a3d0c837` |
+| Final neutral handoff | `f576c67f398e0e131822d1dc49d8a300c514522bc8446db6c061c8f5da621d87` |
+| Neutral validation receipt | `099bea36a912fd07f379fbe19a3a0afd2ab246499c40466104922bb44ce64535` |
+| Entering-law slice | `eecfd5fcb11ccfb0ac89f0590e3e5cef93e002a876438ee41cd3a78949228ea7` |
 | Complete clean Carriger lower source | `d9df9ee923a9aba97e92fbf848a2295adf9fbbd0370ba10f2bd8997866d955d0` |
 | Fresh Lindh supplemental validation | `e2ce7ce2590f2147c8d4ca0acdb96a932324cebf8152921e90d886a4217cc1bb` |
 
@@ -372,7 +372,7 @@ The clean Lindh supplement supplies Scalia's authored dissent, Kennedy's and Tho
 
 **Stage and cutoff:** Independent non-Stone modeling; April 16, 1998. Supplemental clarification before historical reconciliation. No Stone position, comparator or new source has entered this context.
 
-**Primary artifact:** [OT_1997CHUNK6_RESUMED_CARRIGER_INDEPENDENT.md](OT_1997CHUNK6_RESUMED_CARRIGER_INDEPENDENT.md), SHA-256 `732d3132964d1ee717efff12c2783fd04e304aef42bbfce890a667ed0f2bf3ca`. Its bytes have not been changed. Read this supplement with it; the explicit reservations and remedial clarification below control any ambiguous suggestion in the primary artifact that the proposed acquisition duty has been rejected on its constitutional merits.
+**Primary artifact:** [OT_1997CHUNK6_RESUMED_CARRIGER_INDEPENDENT.md](OT_1997CHUNK6_RESUMED_CARRIGER_INDEPENDENT.md), SHA-256 `33f81173a8dc943aebf4fe0500fb24fbb7b0421a7813ea5e5e6ff91fc4c0d68c`. Its bytes have not been changed. Read this supplement with it; the explicit reservations and remedial clarification below control any ambiguous suggestion in the primary artifact that the proposed acquisition duty has been rejected on its constitutional merits.
 
 ## Result of the completeness check
 

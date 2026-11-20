@@ -83,7 +83,7 @@ Pre-divergence authorities retained by these holdings include Chapman (the benef
 | Knowledge of machinegun characteristics in unregistered possession | Staples, 1994-05-23 | Distinguishes factual from registration/legal knowledge; expressly reserves other regulated weapons. |
 | Jury determination of criminal materiality | Gaudin, 1995-06-19 | Jury allocation of an actual element; no universal structural-error rule. |
 | A vitiated jury reasonable-doubt standard is structural error | Sullivan, 1993-06-01 | Identifies the distinct global-burden defect; not shown merely by a localized omission. |
-| Preserved protected-silence and personal-intent errors on federal habeas review | Roy, 1996-11-04, with surviving Brecht and O'Neal components | Qualified actual-verdict Chapman method; no general adoption for every habeas error and no transfer of habeas remedy to direct review. |
+| Preserved protected-silence and personal-intent errors on federal habeas review | Roy, 1996-11-04, with surviving Brecht and O'Neal components | Qualified actual-verdict Chapman method applying Brecht's general rule; no transfer of habeas remedy to direct review. |
 | Forfeited error and discretionary correction under Rule 52(b) | Johnson, 1997-05-12, retaining Olano | Conditional only upon genuine forfeiture; four independent inquiries, not an evidence-only shortcut. |
 | Presented questions, subsidiary arguments and exceptional Supreme Court review | Lebron, 1995-02-21, for deliberate-disavowal argument; X-Citement Video, 1994-11-29, for favorable-judgment defense; earlier Izumi/Caspari/Madsen components retained | Keeps actual grant, analytical antecedents, different claims, alternative defenses, and exceptional review distinct. |
 

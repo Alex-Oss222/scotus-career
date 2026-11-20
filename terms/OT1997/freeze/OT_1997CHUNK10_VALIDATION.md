@@ -19,7 +19,7 @@ The frozen commitments and reconciliations preceded Stone's introduction in asse
 
 ## Home Builders
 
-**National Association of Home Builders v. Babbitt:** Vacated and remanded, 5–4. Stone-Zsela delivers the Opinion of the Court with the part-specific joins stated in the Canonical Decision Record.
+**National Association of Home Builders v. Babbitt:** Affirmed, 7–2. Stone-Zsela delivers the Opinion of the Court with the part-specific joins stated in the Canonical Decision Record.
 
 The [assembly validation](OT_1997CHUNK10_NAHB_ASSEMBLY_VALIDATION.md) records the final compatibility review and assignment; the [assembly status receipt](OT_1997CHUNK10_NAHB_ASSEMBLY_STOP.md) records the completed action.
 

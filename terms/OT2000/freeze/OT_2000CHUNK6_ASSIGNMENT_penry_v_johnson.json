@@ -909,10 +909,10 @@
       "case": "Gibbs v. Babbitt",
       "record": "Gibbs_v_Babbitt_merits_2001-03-21.md",
       "authors": [
-        "O'Connor"
+        "Stone-Zsela"
       ],
       "opinion_table_rows": [
-        "| Opinion of the Court, Parts I and II | O'Connor | Stone-Zsela and Kennedy throughout; Scalia and Thomas in Part I; Ginsburg and Breyer in Part II | Part I controls the enacted class and connection prerequisite; Part II controls both complete current-law routes and vacatur/remand |"
+        "| Opinion of the Court, Parts I and II | Stone-Zsela | O'Connor and Kennedy throughout; Scalia and Thomas in Part I; Stevens, Souter, Ginsburg and Breyer in Part II | Part I controls the enacted class and connection prerequisite; Part II controls the necessary-inclusion holding and affirmance |"
       ],
       "counts_before": {
         "Stone-Zsela": 4,
@@ -1742,7 +1742,7 @@
     "Breyer"
   ],
   "author": "Souter",
-  "assignment": "Chief Justice Stone-Zsela assigns from the established judgment coalition. Before this assignment, the actual signed lead rows of prior effective Records were freshly recounted, using alphabetical case order for same-date events and including Records written earlier in this Run. Counts: Stone-Zsela 8; Stevens 8; O'Connor 9; Scalia 8; Kennedy 8; Souter 8; Thomas 7; Ginsburg 8; Breyer 9. Last counted event: United States v. Napier (2001-06-01). Eligible authors supporting every Court proposition: Stone-Zsela, O'Connor, Souter, Ginsburg, Breyer. Balance pool (no more than one above the eligible minimum 8): Stone-Zsela, O'Connor, Souter, Ginsburg, Breyer. Selected author: Souter. Fit controls among the five Justices who join every part, including the new bounded Chapman allocation. Souter offers a concrete advantage coordinating the settled pre-1995 mitigation gateway with the present remedial extension: his Coleman and Weeks positions preserve the State-borne inquiry without treating every capital habeas error as already governed by it. Stone is a same-count eligible alternative whose approved position expressly authorizes the extension, but Souter best connects its limited justification to the prior unresolved effect categories while retaining the different Stevens-Kennedy and Scalia-Thomas positions. The seven-Justice error coalition does not make its two other members eligible to write the complete lead. No division or expansion accommodation is needed. The selected final formulation preserves every frozen join; no reassignment or changed commitment is needed.",
+  "assignment": "Chief Justice Stone-Zsela assigns from the established judgment coalition. Before this assignment, the actual signed lead rows of prior effective Records were freshly recounted, using alphabetical case order for same-date events and including Records written earlier in this Run. Counts: Stone-Zsela 8; Stevens 8; O'Connor 9; Scalia 8; Kennedy 8; Souter 8; Thomas 7; Ginsburg 8; Breyer 9. Last counted event: United States v. Napier (2001-06-01). Eligible authors supporting every Court proposition: Stone-Zsela, O'Connor, Souter, Ginsburg, Breyer. Balance pool (no more than one above the eligible minimum 8): Stone-Zsela, O'Connor, Souter, Ginsburg, Breyer. Selected author: Souter. Fit controls among the five Justices who join every part, including Part III's application of Brecht's general rule. Souter offers a concrete advantage coordinating the settled pre-1995 mitigation gateway with the present remedial inquiry: his Coleman and Weeks positions apply Brecht's State-borne inquiry to the actual effect of particular capital-sentencing errors. Stone is a same-count eligible alternative whose approved position expressly supports that application, but Souter best connects it to the Court's prior capital applications of the rule while retaining the different Stevens-Kennedy and Scalia-Thomas positions. The seven-Justice error coalition does not make its two other members eligible to write the complete lead. No division or expansion accommodation is needed. The selected final formulation preserves every frozen join; no reassignment or changed commitment is needed.",
   "draft_sha256": "9a6fb590c0b84e662a8c1f6e83604127bb69b341045e41877293f7eeb685d22e",
   "record_sha256": "4901a770b247f069272c26e84d1d46c8412c25f3385aaaa6043af850c658394f"
 }

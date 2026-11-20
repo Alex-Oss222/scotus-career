@@ -770,7 +770,7 @@ Count treatment: Signed plenary merits lead; one for each of Thomas.
 
 [Source Record](../records/reno-v-condon_merits_2000-01-12.md)
 
-Source SHA-256: `3310cde500b8ce7b7450de6180a91461812ae1f918b907d0d1cba0a1dc882e70`
+Source SHA-256: `dd2b199ec7191781829b12c3518eacfa97200b7d37eab6bf6ad417cbd26b8409`
 
 **Case and dockets:** Reno v. Condon; No. 98-1464
 **Event and date:** Plenary merits decision, 2000-01-12; October Term 1999, chunk 2.
@@ -970,7 +970,7 @@ Count treatment: Signed plenary merits lead; one for each of Scalia.
 
 [Source Record](../records/weeks-v-angelone_merits_2000-01-19.md)
 
-Source SHA-256: `8afe3d0cd2c7d93edd4266e1b4888887b9e2d21af14fdc6ffffdd5d5dad31886`
+Source SHA-256: `04cb9f33c95b7ae738dd00789666d81d14492f530008e95f8f8e36729d19b6f7`
 
 **Case and dockets:** Weeks v. Angelone; No. 99-5746.
 **Event and date:** Merits decision, 2000-01-19; October Term 1999; argued December 6, 1999.
@@ -986,14 +986,14 @@ Count treatment: Signed plenary merits lead; one for each of Breyer.
 | Lead, Part I | Breyer | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Opinion of the Court, nine: presentation/default and amended-statute applicability. |
 | Lead, Part II | Breyer | Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg | Opinion of the Court, six: defined mitigation claim is not a new rule barred by Teague. |
 | Lead, Part III | Breyer | Stone-Zsela, Stevens, Souter, Ginsburg | Opinion of the Court, five: constitutional error in the jury response. |
-| Lead, Part IV | Breyer | Stevens, Souter, Ginsburg | Four-Justice rationale for statutory return and effect-standard reservation; announces the five-Justice judgment. Stone-Zsela agrees with that judgment only. |
+| Lead, Part IV | Breyer | Stevens, Souter, Ginsburg | Four-Justice rationale for statutory return and effect review under the governing harmlessness standard; announces the five-Justice judgment. Stone-Zsela agrees with that judgment only. |
 | Concurrence in part and in the judgment | Stone-Zsela | No other Justice | Joins lead I–III; states present statutory eligibility and substantial injurious effect; accepts the remand judgment without joining IV's rationale. |
-| Concurrence | Souter | Ginsburg, Breyer | Joins the lead; proposes State-borne Chapman review for this category, while accepting the remand without adoption of that extension. |
-| Concurrence | Stevens | No other Justice | Joins the lead; favors substantial-influence review with genuine grave doubt preventing harmlessness. |
+| Concurrence | Souter | Ginsburg, Breyer | Joins the lead; states that Brecht's general rule places the Chapman burden on the State for this error on return. |
+| Concurrence | Stevens | No other Justice | Joins the lead; adhering to his Brecht dissent, favors substantial-influence review with genuine grave doubt preventing harmlessness. |
 | Concurrence in part and dissent in part, Part I | O'Connor | Scalia, Kennedy, Thomas | Joins lead I–II herself; the other three join lead I only. Common dissent would affirm for no error and independently under §2254(d)(1). |
-| Concurrence in part and dissent in part, Part II | O'Connor | No other Justice | Conditional support for the confined Chapman extension; no vote for vacatur or present eligibility. |
-| Dissent | Kennedy | No other Justice | Also joins the common dissent; states conditional substantial-influence and grave-doubt position. |
-| Dissent | Thomas | Scalia | Also join the common dissent; retain prisoner-borne substantial injurious effect and reject relief on an evenly balanced showing. |
+| Concurrence in part and dissent in part, Part II | O'Connor | No other Justice | Conditional statement that Brecht's general rule would govern effect review; no vote for vacatur or present eligibility. |
+| Dissent | Kennedy | No other Justice | Also joins the common dissent; adhering to his Brecht dissent, states conditional substantial-influence and grave-doubt position. |
+| Dissent | Thomas | Scalia | Also join the common dissent; adhering to their Brecht dissents, retain prisoner-borne substantial injurious effect and reject relief on an evenly balanced showing. |
 
 ## Assignment and opinion form
 
@@ -1013,7 +1013,7 @@ The merits require one signed lead opinion after plenary argument: shared thresh
 
 The fifteen leads are recounted from the actual opinion tables in this term's preceding Records. January 19 runs Gutierrez, Smith, United States v. Martinez-Salazar, then Weeks. The last counted event is United States v. Martinez-Salazar, January 19, 2000. Flippo, Lesage and Adarand are summary dispositions; Fiore is certification; admitted sources and separate writings do not count. No later event enters this count.
 
-Eligible authors and balance pool are Stevens (2), Souter (2), Ginsburg (1) and Breyer (1); the minimum is one and the pool ceiling two. Breyer writes on fit. His Buchanan writing addresses the relation between aggravator language and an effective life choice; this opinion must apply that concern to the actual later question while preserving Souter's acceptance of Buchanan's original charge and the separate statutory inquiry. Ginsburg's statutory expertise is a strong alternative at the same count, but Breyer's directly relevant treatment of this instructional mechanism better fits the lead's central work. The assignment supplies no additional join and does not settle the disputed effect rule. Stone's own substantive findings do not qualify him for the lead's open statutory return. All other Justices may express their supported separate grounds without counted assignments.
+Eligible authors and balance pool are Stevens (2), Souter (2), Ginsburg (1) and Breyer (1); the minimum is one and the pool ceiling two. Breyer writes on fit. His Buchanan writing addresses the relation between aggravator language and an effective life choice; this opinion must apply that concern to the actual later question while preserving Souter's acceptance of Buchanan's original charge and the separate statutory inquiry. Ginsburg's statutory expertise is a strong alternative at the same count, but Breyer's directly relevant treatment of this instructional mechanism better fits the lead's central work. The assignment supplies no additional join and leaves each Justice's stated effect position unchanged. Stone's own substantive findings do not qualify him for the lead's open statutory return. All other Justices may express their supported separate grounds without counted assignments.
 
 ---
 
@@ -1692,7 +1692,7 @@ No Justice joins only part of the Court's opinion, and no Justice concurs only i
 
 [Source Record](../records/portuondo-v-agard_merits_2000-03-06.md)
 
-Source SHA-256: `b327d5bca95ea2a3cbe9bd34f61009dd9f5bb6b9678f20573b807baaba268ca6`
+Source SHA-256: `52c9eed085f5d6abb93a43b43642469394bd557b698d479740ca61b7a41bd613`
 
 **Case and dockets:** Portuondo v. Agard; No. 98-1170
 **Event and date:** Merits decision; 2000-03-06; October Term 1999.

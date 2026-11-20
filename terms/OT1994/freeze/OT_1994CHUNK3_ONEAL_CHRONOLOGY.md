@@ -2,7 +2,7 @@
 
 O'Neal is inventory matter 25, No. 93-7407, with effective date February 21, 1995. This is a first adjudication after a stopped intake, not a correction of an existing O'Neal judgment. Completion uses law effective strictly before February 21. Lebron and Milwaukee Brewery share that date without an established sequence and do not supply entering law to O'Neal. Their corporate-attribution and pension-calculation issues do not depend on a constitutional-habeas harmlessness rule.
 
-The current chronology cursor is March 20, 1995. The eleven already completed later events were reviewed for a material change to entering law, posture, participation, legal ground, judgment, remedy, or published Justice position from resolving the reserved constitutional-habeas harmlessness standard. Their event/question fields and operative rules establish the following boundaries. Harris's full decision kernel was also reviewed because it presents the closest criminal-law setting.
+The current chronology cursor is March 20, 1995. The eleven already completed later events were reviewed for a material change to entering law, posture, participation, legal ground, judgment, remedy, or published Justice position from applying Brecht's constitutional-habeas harmlessness standard to this claim. Their event/question fields and operative rules establish the following boundaries. Harris's full decision kernel was also reviewed because it presents the closest criminal-law setting.
 
 | Later completed event | Dependency conclusion |
 |---|---|

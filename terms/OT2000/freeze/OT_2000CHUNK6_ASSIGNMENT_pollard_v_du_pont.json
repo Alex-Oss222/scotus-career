@@ -909,10 +909,10 @@
       "case": "Gibbs v. Babbitt",
       "record": "Gibbs_v_Babbitt_merits_2001-03-21.md",
       "authors": [
-        "O'Connor"
+        "Stone-Zsela"
       ],
       "opinion_table_rows": [
-        "| Opinion of the Court, Parts I and II | O'Connor | Stone-Zsela and Kennedy throughout; Scalia and Thomas in Part I; Ginsburg and Breyer in Part II | Part I controls the enacted class and connection prerequisite; Part II controls both complete current-law routes and vacatur/remand |"
+        "| Opinion of the Court, Parts I and II | Stone-Zsela | O'Connor and Kennedy throughout; Scalia and Thomas in Part I; Stevens, Souter, Ginsburg and Breyer in Part II | Part I controls the enacted class and connection prerequisite; Part II controls the necessary-inclusion holding and affirmance |"
       ],
       "counts_before": {
         "Stone-Zsela": 4,
@@ -1672,7 +1672,7 @@
       "opinion_table_rows": [
         "| Opinion of the Court, Part I | Souter | All other Justices: Stone-Zsela, Stevens, O\u2019Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer | Affirms psychiatric component; states reviewability framework | Statutory psychiatric ground; no actual-effect ruling |",
         "| Opinion of the Court, Part II | Souter | Other members of: Stone-Zsela, Stevens, O\u2019Connor, Kennedy, Souter, Ginsburg, and Breyer | Reverses mitigation component and remands | Constitutional impairment, unreasonable application, certificate eligibility, corrective return |",
-        "| Opinion of the Court, Part III | Souter | Other members of: Stone-Zsela, O\u2019Connor, Souter, Ginsburg, and Breyer | Governs effect inquiry on remand | Confined Chapman extension and conditional remedy |"
+        "| Opinion of the Court, Part III | Souter | Other members of: Stone-Zsela, O\u2019Connor, Souter, Ginsburg, and Breyer | Governs effect inquiry on remand | Brecht's general rule and conditional remedy |"
       ],
       "counts_before": {
         "Stone-Zsela": 8,

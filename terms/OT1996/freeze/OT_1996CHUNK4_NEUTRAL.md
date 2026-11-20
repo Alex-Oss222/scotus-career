@@ -2126,7 +2126,7 @@ The Court may hold the question reviewable, construe § 1014 without a materiali
 
 - **Presentation route:** This matter is directed to the Court through the appellate or original-jurisdiction route stated above. It is not a newly invented Circuit Justice application.
 
-<!-- frozen-part: OT_1996CHUNK4_NEUTRAL_B_VALIDATED.md; sha256: b3b1d0d0cf2bd58e7289941e79233c72e277e977bb307339eb80eac8300166c4 -->
+<!-- frozen-part: OT_1996CHUNK4_NEUTRAL_B_VALIDATED.md; sha256: 066a94f44d346df74c33cc9a44e7cd37588fb22aa3a74b96423a92c9eb1ff294 -->
 
 # OT1996 chunk 4 — neutral preflight B, matters 42–47
 
@@ -2253,7 +2253,7 @@ The 1994 Code's later penalties and institutional amendments are not automatical
 
 **Entering law.** Gaudin, June 19, 1995, unanimously requires jury determination beyond a reasonable doubt when materiality is an offense element. It does not decide which materially different statutes contain that element, and it reserves universal structural-error treatment. Lebron, February 21, 1995, permits consideration of a disavowed legal argument within the same preserved claim and question on an adequate existing record; it establishes discretion, not an obligation or universal abolition of waiver/invited-error doctrine. The supplied statement that invited error “do[es] not transform” the premise into an unreviewable rule is a proposed application, not an independently established categorical rule.
 
-Roy, November 4, 1996, is included for its actual omitted-intent/actual-verdict harmlessness holdings and published disagreement, if an error/remedy path is reached. Its preservation, habeas category, burden and limits must remain distinct; it does not itself prove this different error harmless or authorize appellate factfinding to replace a jury finding. The Government's reviewability and textual path, defendants' historical-meaning/lenity and trial-specific objections, and the option to remand properly unresolved matters remain available for independent modeling. Reinstatement of all relief is not presumed from success on the statutory question.
+Roy, November 4, 1996, is included for its actual omitted-intent/actual-verdict harmlessness holdings and published disagreement, if an error/remedy path is reached. Its preservation, habeas setting, burden and limits must remain distinct; it does not itself prove this different error harmless or authorize appellate factfinding to replace a jury finding. The Government's reviewability and textual path, defendants' historical-meaning/lenity and trial-specific objections, and the option to remand properly unresolved matters remain available for independent modeling. Reinstatement of all relief is not presumed from success on the statutory question.
 
 **Readiness.** Ready after earlier-effective law revalidation for independent modeling of reviewability, statutory materiality and bounded relief. A final holding resting on a specific unverified predecessor text, waiver event or complete instruction passage would require targeted source verification before commitment. The supplied packet and complete lower source suffice for a narrow ruling preserving those matters for ordinary lawful further consideration.
 

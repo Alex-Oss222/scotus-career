@@ -18,7 +18,7 @@ Read each final Public Projection's opinion topology and the assignment statemen
 | Gratz | O'Connor | 16 | 15 | Shared eligible author within the pool governing a lead partly assigned by the Chief |
 | Grutter | Stone-Zsela | 15 | 15 | Eligible and within Chief's pool |
 | Krimstock | Kennedy | 16 | 15 | Eligible and within Chief's pool |
-| American Library Association | Kennedy | 17 | 15 | Eligible; valid senior-Associate assignment outside the displayed Chief-rule pool |
+| American Library Association | Souter | 16 | 15 | Eligible and within Chief's pool |
 
 The same-day sequence includes the already completed Center for Reproductive Law before Beaumont and Star Scientific between Sell and Hicks. Accordingly Breyer's count rises from 15 before Sell to 17 before Hicks: Sell and the existing Star Scientific lead each count once. Bechhoefer adds none. The June 23 sequence is Fairley, Gratz, Grutter, Krimstock, American Library Association. No June 26 lead enters any of these counts.
 
@@ -33,13 +33,13 @@ The same-day sequence includes the already completed Center for Reproductive Law
 - **Grutter:** The six complete supporters include Stone. His count and Ginsburg's are both 15. The assignment statement identifies his concrete coordination of the common constitutional rule and independent statutory grounds, compares Ginsburg as the strongest alternative, and does not rely on office or prominence alone. His full lead is within the eligible pool.
 - **Krimstock:** Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer support the complete lead. Stone's different proof/remedial allocations and Scalia's rejection of the Mathews explanation make each a partial joiner. Kennedy is eligible for every part and in the pool. Exact partial joins remain separately identified in the final topology.
 
-## American Library Association: senior-Associate assignment
+## American Library Association: Chief assignment
 
-O'Connor, Scalia, Kennedy, Thomas and Breyer support the operative reversal and join both lead parts. Stone, Stevens, Souter and Ginsburg oppose reversal and join only the statutory construction. Their agreement with Part I does not supply a separate judgment component permitting the Chief to assign this lead. O'Connor is the most senior participating Associate in the reversal coalition and assigns the opinion.
+The Chief Justice, Kennedy, Souter, Ginsburg and Breyer join both lead parts. O'Connor, Scalia and Thomas join Part I and the reversal only, and Stevens joins Part I and opposes reversal. The Chief is in the reversal coalition and assigns the opinion under the balance rule.
 
-The displayed pool, calculated under the Chief's formula, is Scalia at 16 and Thomas at 15. Kennedy's count is 17, so he is outside that displayed pool. Engine §8 expressly provides that the balance rule does not bind an Associate's assignment; the resulting signed lead nevertheless counts. Kennedy remains substantively eligible because he joins every proposition of Parts I and II. The assignment statement expressly invokes that exception and gives O'Connor's case-specific ground for selecting him while comparing Scalia's fit. This is neither an omitted count nor a purported Chief exception.
+Eligible authors are Stone-Zsela, Kennedy, Souter, Ginsburg and Breyer. The displayed pool is Stone-Zsela and Souter at 16 and Ginsburg at 15; Kennedy and Breyer, at 17, are eligible but outside it. Souter is a pool member, and the assignment statement gives the case-specific fit ground for selecting him while comparing Ginsburg and Stone.
 
-Kennedy's practical-access concurrence remains separate from the common lead. O'Connor's service theory with Scalia and Thomas, and Breyer's contextual scrutiny, likewise retain their own scopes. The five directly join the shared facial holding; assigning Kennedy does not combine their broader explanations into a new Court rationale.
+Kennedy's practical-access concurrence and Breyer's contextual scrutiny accompany full joins and retain their own explanations. O'Connor's service ground with Scalia and Thomas concurs in the judgment. The five directly join Part II; assigning Souter does not combine the broader explanations into a new Court rationale.
 
 ## Completion
 

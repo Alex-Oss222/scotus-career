@@ -115,7 +115,7 @@ Their position also preserves two limits. First, an identified misconception of 
 - Simulated *Keeney*, May 4, 1992, and *Townsend v. Sain*, 372 U.S. 293: necessary factual development of a properly presented, available claim remains distinct from passing a successive/abusive gateway. Historical *Keeney*'s different cause/prejudice holding cannot be used.
 - Simulated *Herrera*, January 25, 1993: only its record-specific insufficiency proposition controls; no uniform freestanding innocence burden or ultimate resolution of that constitutional claim is imported.
 - Simulated *Delo v. Blair*: equal division creates no precedent.
-- Simulated *Brecht*, April 21, 1993: the preserved-Doyle Chapman holding concerns merits harmlessness and is unchanged. Its historical contrary burden and historical gap-filling discussion are not adopted as operative law here.
+- Simulated *Brecht*, April 21, 1993: the general Chapman holding for preserved constitutional trial error concerns merits harmlessness and is unchanged. Its historical contrary burden and historical gap-filling discussion are not adopted as operative law here.
 - Simulated *McFarland*, June 30, 1994: capital representation and individualized preparatory stays remain separate; no automatic stay, hearing or gateway is supplied.
 - *Salinger v. Loisel*, 265 U.S. 224, *Wong Doo v. United States*, 265 U.S. 239, and *Sanders v. United States*, 373 U.S. 1: support the Scalia/Thomas discretion account within their respective statutory settings. A historical statutory version's ends-of-justice language must not be inserted into former §2244(b). Their invocation does not decide that an independently sufficient discretionary ground necessarily survives every legal error here.
 

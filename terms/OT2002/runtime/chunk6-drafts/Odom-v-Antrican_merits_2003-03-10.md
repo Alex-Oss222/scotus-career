@@ -110,7 +110,7 @@ The official Fourth Circuit opinion, 290 F.3d 178, supports the allegations, req
 
 No new material source fact requiring a changed neutral Odom packet was found. Final relief must remain prospective and defendant-connected; the remand retains the conditions and independent questions reproduced above.
 
-**Same-Run chronological refresh:** Read entering-law/OT_2002CHUNK6_SAME_RUN_BEFORE_2003-03-10.md. Johnson & Johnston concerns a patent-specific public claim boundary; Smith concerns punitive classification and its fractured application; Bach concerns technically necessary warrant execution; Wheat concerns anonymous-report reliability. None changes Medicaid entitlement, officer relief, interlocutory review or Stone's approved position. Same-date cases are not imported.
+**Same-Run chronological refresh:** Read entering-law/OT_2002CHUNK6_SAME_RUN_BEFORE_2003-03-10.md. Johnson & Johnston concerns a patent-specific public claim boundary; Smith concerns punitive classification and its five-Justice application to Alaska's retrospective scheme; Bach concerns technically necessary warrant execution; Wheat concerns anonymous-report reliability. None changes Medicaid entitlement, officer relief, interlocutory review or Stone's approved position. Same-date cases are not imported.
 
 ## Public Projection
 

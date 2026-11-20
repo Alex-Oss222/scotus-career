@@ -341,7 +341,7 @@ Source: `state/holdings/criminal-procedure.md`
 
 - Teague, 489 U.S. 288: both the substantive and watershed exceptions applied in their event-date form.
 - Sawyer v. Smith, 497 U.S. 227: the demanding watershed category applied; importance of a procedural protection alone is insufficient.
-- Brecht v. Abrahamson, April 21, 1993: the preserved-Doyle Chapman holding remains distinct; harmlessness is not reached here.
+- Brecht v. Abrahamson, April 21, 1993: the Chapman holding for preserved constitutional trial error remains distinct; harmlessness is not reached here.
 - Sullivan v. Louisiana, June 1, 1993: the absence of a valid reasonable-doubt verdict is a different instructional defect and does not bypass Teague in this case.
 
 
@@ -493,11 +493,11 @@ Source: `state/holdings/criminal-procedure.md`
 
 **Proposition-level authority:** Souter's Part IV, unanimous.
 
-**Limits and questions not reached:** The instruction request establishes no exhaustion or preservation of every reformulated theory. Applicable factual presumptions and genuinely available defenses remain; no forfeited defense revives or settled issue reopens. Graham's established rule cannot be called new merely because another defendant invokes it, but a materially new extension requires its own Teague inquiry. Whether a distinct error-effect inquiry is required, its standard, actual effect and relief are reserved; the full charge, testimony, claim-specific rulings and properly preserved submissions are necessary before a writ.
+**Limits and questions not reached:** The instruction request establishes no exhaustion or preservation of every reformulated theory. Applicable factual presumptions and genuinely available defenses remain; no forfeited defense revives or settled issue reopens. Graham's established rule cannot be called new merely because another defendant invokes it, but a materially new extension requires its own Teague inquiry. Whether a distinct error-effect inquiry is required, actual effect and relief are reserved; the full charge, testimony, claim-specific rulings and properly preserved submissions are necessary before a writ.
 
 **Operative remedy or transition:** No present writ, sentencing hearing, release, stay, deadline or execution authorization. Brady, lesser-offense and other unreviewed grounds remain undisturbed.
 
-**Treatment of earlier authority:** Tuggle supplies the review/relief distinction without transferring its Ake subject. Brecht and O'Neal retain their category-specific Chapman holdings; neither they nor Chapman establish the proposed capital-mitigation extension here.
+**Treatment of earlier authority:** Tuggle supplies the review/relief distinction without transferring its Ake subject. Brecht's general harmlessness rule, as O'Neal applied it, remains intact; whether a separate error-effect inquiry is required for this capital-mitigation claim is not decided.
 
 
 

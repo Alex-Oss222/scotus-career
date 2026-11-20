@@ -737,7 +737,7 @@ Reversed and remanded, 9–0; the separate sentencing relief is undisturbed.
 
 **Authority:** Scalia’s Opinion of the Court; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority support for this exact proposition; no Marks synthesis.
 
-**Controlling explanation:** The Court holds that the required finding belongs to a properly instructed jury. Winship supplies the beyond-a-reasonable-doubt standard, and Duncan assigns the criminal verdict to the jury. Chapman asks whether a constitutional error contributed to the verdict actually rendered; it does not authorize a reviewing court to make the missing verdict itself. Here the conceded Cage defect reaches the standard governing all findings, so no valid jury determination remains against which to measure the error. Rose involved a separable erroneous presumption and therefore does not establish harmlessness where the entire adjudicative foundation is missing. Fulminante identifies defects of that structure as outside ordinary harmless-error analysis. The strength of the evidence cannot transfer the jury’s constitutional responsibility to appellate judges. The Court reserves different instructional omissions and inaccuracies, accepts the conceded defect rather than reopening it under Estelle, and leaves Brecht’s separate preserved-Doyle habeas rule unchanged.
+**Controlling explanation:** The Court holds that the required finding belongs to a properly instructed jury. Winship supplies the beyond-a-reasonable-doubt standard, and Duncan assigns the criminal verdict to the jury. Chapman asks whether a constitutional error contributed to the verdict actually rendered; it does not authorize a reviewing court to make the missing verdict itself. Here the conceded Cage defect reaches the standard governing all findings, so no valid jury determination remains against which to measure the error. Rose involved a separable erroneous presumption and therefore does not establish harmlessness where the entire adjudicative foundation is missing. Fulminante identifies defects of that structure as outside ordinary harmless-error analysis. The strength of the evidence cannot transfer the jury’s constitutional responsibility to appellate judges. The Court reserves different instructional omissions and inaccuracies, accepts the conceded defect rather than reopening it under Estelle, and leaves Brecht’s separate habeas rule for preserved constitutional trial error unchanged.
 
 **Precedent treatment:**
 
@@ -748,7 +748,7 @@ Reversed and remanded, 9–0; the separate sentencing relief is undisturbed.
 - Rose v. Clark, 478 U.S.570: separable presumption error distinguished.
 - Arizona v. Fulminante, 499 U.S.279: structural-defect category applied.
 - Estelle v. McGuire, December4,1991: contested-charge framework preserved; no reopening of the conceded defect.
-- Brecht v. Abrahamson, April21,1993: preserved-Doyle habeas rule unchanged; not a Kotteakos constitutional-habeas rule.
+- Brecht v. Abrahamson, April21,1993: habeas rule for preserved constitutional trial error unchanged; not a Kotteakos constitutional-habeas rule.
 
 ### 7. Precedent Treatment
 

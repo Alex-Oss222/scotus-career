@@ -38,7 +38,7 @@ Finalization is a pre-opening regulatory event. This refresh creates no new sour
 
 ## Rancho and Holston screen
 
-Rancho's enacted wildlife-taking class, supported interstate mechanisms and existing-record remedy, and Holston's supported actual-image supply mechanism, supply no new confidentiality delegation, preemption, APA, contractor-duty or Spending Clause holding. Their insistence on a supported legal connection does not substitute for construction of the actual custody-and-records statutes. Their different public joins are preserved for relevant Commerce questions and are not generalized into a Hudson coalition. They require no material change to Hudson's identified legal paths.
+Rancho's enacted wildlife-taking class and necessary-inclusion affirmance, and Holston's supported actual-image supply mechanism, supply no new confidentiality delegation, preemption, APA, contractor-duty or Spending Clause holding. Their insistence on a supported legal connection does not substitute for construction of the actual custody-and-records statutes. Their different public joins are preserved for relevant Commerce questions and are not generalized into a Hudson coalition. They require no material change to Hudson's identified legal paths.
 
 ## Actual EDC screen for West Virginia v. HHS
 

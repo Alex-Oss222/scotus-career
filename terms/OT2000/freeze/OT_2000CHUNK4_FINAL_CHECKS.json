@@ -54,7 +54,7 @@
     },
     {
       "record": "Gibbs_v_Babbitt_merits_2001-03-21.md",
-      "words": 257
+      "words": 345
     },
     {
       "record": "Lujan_v_G_and_G_Fire_Sprinklers_merits_2001-04-17.md",
@@ -458,12 +458,12 @@
       "date": "2001-03-21",
       "case": "Gibbs v. Babbitt; judgment below 214 F.3d 483, Fourth Circuit",
       "record": "Gibbs_v_Babbitt_merits_2001-03-21.md",
-      "record_sha256": "b6a5d03de177f5f13a49fd6e05b70fd46fafce1aa42c89f4930e503fa9305f65",
+      "record_sha256": "98dbc05e86939b58ad12213a91bc9347fea7a340ccd53094892f1de3ca46dad0",
       "authors": [
-        "O'Connor"
+        "Stone-Zsela"
       ],
       "opinion_table_rows": [
-        "| Opinion of the Court, Parts I and II | O'Connor | Stone-Zsela and Kennedy throughout; Scalia and Thomas in Part I; Ginsburg and Breyer in Part II | Part I controls the enacted class and connection prerequisite; Part II controls both complete current-law routes and vacatur/remand |"
+        "| Opinion of the Court, Parts I and II | Stone-Zsela | O'Connor and Kennedy throughout; Scalia and Thomas in Part I; Stevens, Souter, Ginsburg and Breyer in Part II | Part I controls the enacted class and connection prerequisite; Part II controls the necessary-inclusion holding and affirmance |"
       ]
     },
     {
@@ -482,7 +482,7 @@
       "date": "2001-04-02",
       "case": "Wallis v. Spencer; Ninth Circuit",
       "record": "Wallis_v_Spencer_merits_2001-04-02.md",
-      "record_sha256": "24b030f048753ca47387d51e4f48b5d9a582e91a2096e5be9a44e7f104a58920",
+      "record_sha256": "c29dc713622b137278c67a4ce6400113cea5031d3b8ca0d4189f6d73bd0cd89a",
       "authors": [
         "Stevens"
       ],
@@ -590,7 +590,7 @@
     },
     {
       "file": "Gibbs_v_Babbitt_merits_2001-03-21.md",
-      "sha256": "b6a5d03de177f5f13a49fd6e05b70fd46fafce1aa42c89f4930e503fa9305f65"
+      "sha256": "98dbc05e86939b58ad12213a91bc9347fea7a340ccd53094892f1de3ca46dad0"
     },
     {
       "file": "Texas_v_Cobb_merits_2001-04-02.md",
@@ -598,7 +598,7 @@
     },
     {
       "file": "Wallis_v_Spencer_merits_2001-04-02.md",
-      "sha256": "24b030f048753ca47387d51e4f48b5d9a582e91a2096e5be9a44e7f104a58920"
+      "sha256": "c29dc713622b137278c67a4ce6400113cea5031d3b8ca0d4189f6d73bd0cd89a"
     },
     {
       "file": "Lujan_v_G_and_G_Fire_Sprinklers_merits_2001-04-17.md",

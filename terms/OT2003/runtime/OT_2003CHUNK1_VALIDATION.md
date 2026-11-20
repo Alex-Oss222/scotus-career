@@ -8,7 +8,7 @@ The authorized Run has six completed merits decisions and one stopped matter. Th
 |---|---|---|---|---|
 | 2003-10-14 | Demore v. Kim | Stopped; no decision entered | No judgment vote published | None |
 | 2003-10-30 | United States v. Holston | Affirmed | 9–0 | O’Connor |
-| 2004-02-05 | Rancho Viejo, LLC v. Norton | Vacated and remanded | 7–2 | Kennedy |
+| 2004-02-05 | Rancho Viejo, LLC v. Norton | Affirmed | 9–0 | Kennedy |
 | 2004-03-11 | Lomont v. O’Neill | Affirmed | 9–0 | Scalia |
 | 2004-03-25 | Environmental Defense Center v. EPA | Both constitutional rulings affirmed; distinct administrative remands preserved | 9–0 on each constitutional component | Souter |
 | 2004-04-13 | ACLU of New Jersey v. County of Hudson | Affirmed | 9–0 | Stone-Zsela |
@@ -55,6 +55,6 @@ The following digests identify the final adjudicative and generated handoff byte
 | [aclu_of_new_jersey_v_county_of_hudson_merits_2004-04-13.md](../records/aclu_of_new_jersey_v_county_of_hudson_merits_2004-04-13.md) | 7276c43f30d97fb8df5a72d9d59e8f407b5e5a9d0f4000615d701ef160b8e833 |
 | [west_virginia_v_us_department_of_health_and_human_services_merits_2004-06-16.md](../records/west_virginia_v_us_department_of_health_and_human_services_merits_2004-06-16.md) | c8c440ab2e28354ddddcda79fc81783fa37014f48ed5035223afcf7e44b6d678 |
 | [OT_2003CHUNK1.md](../render-inputs/OT_2003CHUNK1.md) | 3c9f30ee342a386c576baf8ad9e2ffd550a8b4e51ab8a8ddaf4a2c80b17995e4 |
-| [OT_2003CHUNK1_COMMITMENTS.md](../freeze/OT_2003CHUNK1_COMMITMENTS.md) | 92ec5a08c90cb33df1642feb8c01394af66976f602b5a63cedc316d34d741558 |
-| [OT_2003CHUNK1_RECONCILED.md](../freeze/OT_2003CHUNK1_RECONCILED.md) | b5ee847a4c4d16cfa169905cfe02824400cadbc22de11e14d60f91e8d7da3abe |
-| [OT_2003CHUNK1_AUDIT_NOTES.md](../freeze/OT_2003CHUNK1_AUDIT_NOTES.md) | bb132683033dcaaa605c7361f15e874a2908e8e68ee2e1f80c2ad580e924529a |
+| [OT_2003CHUNK1_COMMITMENTS.md](../freeze/OT_2003CHUNK1_COMMITMENTS.md) | 466f2412e91f714f128d1bdd1666cbdcb9d97cc9604bcba9ca2199af0e20f52c |
+| [OT_2003CHUNK1_RECONCILED.md](../freeze/OT_2003CHUNK1_RECONCILED.md) | 7cd89f805b61449d9ab9179073b87f02f0b60e71d5e3451bc04a079fc6531a95 |
+| [OT_2003CHUNK1_AUDIT_NOTES.md](../freeze/OT_2003CHUNK1_AUDIT_NOTES.md) | 8fd61ddb58c83e55d4f9275c6683dfb85988ce92f9d6c64eacbe8e6695561e82 |

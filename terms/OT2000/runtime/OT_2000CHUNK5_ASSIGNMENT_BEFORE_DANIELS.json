@@ -909,10 +909,10 @@
       "case": "Gibbs v. Babbitt",
       "record": "Gibbs_v_Babbitt_merits_2001-03-21.md",
       "authors": [
-        "O'Connor"
+        "Stone-Zsela"
       ],
       "opinion_table_rows": [
-        "| Opinion of the Court, Parts I and II | O'Connor | Stone-Zsela and Kennedy throughout; Scalia and Thomas in Part I; Ginsburg and Breyer in Part II | Part I controls the enacted class and connection prerequisite; Part II controls both complete current-law routes and vacatur/remand |"
+        "| Opinion of the Court, Parts I and II | Stone-Zsela | O'Connor and Kennedy throughout; Scalia and Thomas in Part I; Stevens, Souter, Ginsburg and Breyer in Part II | Part I controls the enacted class and connection prerequisite; Part II controls the necessary-inclusion holding and affirmance |"
       ],
       "counts_before": {
         "Stone-Zsela": 4,

@@ -174,7 +174,7 @@ The strongest objection is that confidence about a missing element can merely re
 - **Griffith v. Kentucky:** Applies controlling constitutional law to a case still on direct review.
 - **United States v. Olano:** Applies forfeiture, waiver and the four distinct conditions; resolves its reserved intervening-law plainness question at the limited settled-law scope and gives the fourth condition independent effect.
 - **Sullivan v. Louisiana:** Preserves the structural consequence of vitiating the reasonable-doubt standard for all findings; it does not dictate the unresolved classification of this particular omission.
-- **California v. Roy:** Preserves the actual-verdict and burden rules for its preserved personal-intent habeas category; its rejection of an automatic structural premise does not settle this distinct forfeited materiality claim or transform discretion into harmlessness.
+- **California v. Roy:** Preserves the actual-verdict rule and Brecht's burden as applied to its preserved personal-intent habeas error; its rejection of an automatic structural premise does not settle this distinct forfeited materiality claim or transform discretion into harmlessness.
 - **United States v. Wells:** Its interpretation of §1014 leaves §1623's genuine materiality element untouched.
 
 ## Law After Decision

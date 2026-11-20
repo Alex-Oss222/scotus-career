@@ -164,9 +164,9 @@
 
 ### Issue 1: Commerce connection and necessary inclusion
 
-* **Controlling Law:** United States v. Lopez requires a constitutionally eligible connection before aggregate magnitude. National Association of Home Builders v. Babbitt permits inclusion of local noneconomic activity when materially supported necessity prevents evasion or impairment of a valid interstate regulatory scheme; government must identify the mechanism.
+* **Controlling Law:** United States v. Lopez requires a constitutionally eligible connection before aggregate magnitude. National Association of Home Builders v. Babbitt permits inclusion of local noneconomic activity that is a reasonably adapted, integral means of executing a valid interstate regulatory scheme; government must identify the regime, the covered class and a genuine functional relationship.
 
-* **Current Reusable Doctrine:** Define the enacted class and identify the interstate regime; explain with a materially adequate basis why excluding local production impairs it. Past travel of commonplace equipment is not self-proving.
+* **Current Reusable Doctrine:** Define the enacted class and identify the interstate regime; explain the genuine functional relationship, such as why excluding local production impairs it. Past travel of commonplace equipment is not self-proving.
 
 * **Other Governing Law:** Commerce and Necessary and Proper Clauses; 18 U.S.C. §2251(a), applicable historical text.
 
@@ -219,16 +219,16 @@ The lower court upheld the statute using the regulated national market and class
 
 ### Issue 1: The enacted taking class and an interstate mechanism
 
-* **Controlling Law:** National Association of Home Builders v. Babbitt holds that the section 9 wildlife-taking class is not made economic merely by a development project’s commercial features. It permits supported anti-evasion/material-impairment and substantial interstate-externality routes and requires identification of the actual mechanism.
-* **Current Reusable Doctrine:** Identify the enacted class and an eligible interstate connection before aggregation. Government must support the invoked mechanism with materially adequate legislative or adjudicative material; no universal formal-findings or numerical threshold is imposed.
+* **Controlling Law:** National Association of Home Builders v. Babbitt holds that the section 9 wildlife-taking class is not made economic merely by a development project’s commercial features. It holds that Congress may include intrastate conduct when inclusion of the regulated class is a reasonably adapted and integral means of executing an otherwise valid federal regulation of interstate commerce, sustains the taking prohibition as applied to a listed species within the Act’s integrated system without separate proof that the species crosses state boundaries, participates in interstate commerce or independently produces a substantial interstate commercial effect, and keeps a materially supported substantial interstate-externality route as an independent alternative. The Government identifies the valid interstate regulation, the covered class and a genuine functional relationship.
+* **Current Reusable Doctrine:** Identify the enacted class and an eligible interstate connection before aggregation. For necessary inclusion, identify the independently valid interstate regulation, the intrastate class actually covered and a genuine functional relationship between them; a challenger may show that an application is outside the class, that the regime is not independently valid, or that the relationship is nominal or pretextual. Government must support an invoked externality mechanism with materially adequate legislative or adjudicative material; no universal formal-findings, species-by-species proof, least-restrictive-means test or numerical threshold is imposed.
 * **Other Governing Law:** U.S. Constitution, Article I, §8; Endangered Species Act §§9 and 10. Babbitt v. Sweet Home Chapter of Communities for a Great Oregon retains actual habitat-caused injury and ordinary causation requirements.
 * **Material Other Authority:** United States v. Lopez rejects generalized downstream economic effects. Wickard v. Filburn measures magnitude within a properly connected economic class; it does not supply a missing connection.
-* **Existing Rule's Reach:** The governing rule already rejects the principal commercial-development rationale below. It leaves supported alternative mechanisms available and does not make intrastate species categorically immune.
-* **Open Point:** Whether this actual legislative and adjudicative record supports either permissible mechanism and its fit to the challenged application.
+* **Existing Rule's Reach:** The governing rule already rejects the principal commercial-development rationale below. It permits inclusion of the unauthorized taking of listed wildlife within the Act’s integrated system through necessary inclusion, keeps a supported externality route as an alternative, and does not make intrastate species categorically immune.
+* **Open Point:** Whether the taking prohibition, as applied to the arroyo toad and this project, falls within the necessary-inclusion rule, or whether the developer shows that the application is outside the class, that the Act’s interstate regulation is not independently valid, or that the relationship is nominal or pretextual.
 
 ## C. DECISION-MATERIAL LITIGATION POSITIONS
 
-The developer emphasizes the toad’s intrastate range and the absence of an enacted commerce element. The Government emphasizes commercial development, the statutory conservation regime, and the consequences of species loss; its historical opposition defends the circuit’s approach. In this Court, the direct-development rationale cannot prevail unchanged because National Association of Home Builders v. Babbitt governs the enacted class. A supported alternative may still sustain federal application; national importance and comprehensiveness alone cannot do so.
+The developer emphasizes the toad’s intrastate range and the absence of an enacted commerce element. The Government emphasizes commercial development, the statutory conservation regime, and the consequences of species loss; its historical opposition defends the circuit’s approach. In this Court, the direct-development rationale cannot prevail unchanged because National Association of Home Builders v. Babbitt governs the enacted class. The necessary-inclusion rule of National Association of Home Builders v. Babbitt may still sustain federal application; national importance, a declared national objective and comprehensiveness alone cannot do so.
 
 ## D. LAWFUL PATHS AND UNCERTAINTY
 

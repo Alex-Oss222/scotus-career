@@ -80,7 +80,7 @@ The exact four opening labels and natural-key filename were checked. The bounded
 
 ## Completed later-record screen
 
-After fixing all present holdings, the assembly context read only the public Event, Law After Decision and Procedure After Action blocks of Rancho Viejo, Lomont, Environmental Defense Center, ACLU of New Jersey v. County of Hudson and West Virginia v. HHS. Their actual interstate-mechanism remand, voluntary certification, operational stormwater information, custodial confidentiality and conditional-funding premises remain distinct from the present election sources, private-finance structure, electoral information and supported request-file functions. The Record supplies the case-by-case comparison. No concrete displaced predicate was found; no prior adjudication is altered and no later law enters the present holding.
+After fixing all present holdings, the assembly context read only the public Event, Law After Decision and Procedure After Action blocks of Rancho Viejo, Lomont, Environmental Defense Center, ACLU of New Jersey v. County of Hudson and West Virginia v. HHS. Their actual necessary-inclusion affirmance, voluntary certification, operational stormwater information, custodial confidentiality and conditional-funding premises remain distinct from the present election sources, private-finance structure, electoral information and supported request-file functions. The Record supplies the case-by-case comparison. No concrete displaced predicate was found; no prior adjudication is altered and no later law enters the present holding.
 
 ## Durable artifacts
 

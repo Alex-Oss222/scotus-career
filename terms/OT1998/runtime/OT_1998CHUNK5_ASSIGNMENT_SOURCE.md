@@ -266,7 +266,7 @@ Thomas delivers the joint concurrence in part and in the judgment, with Scalia j
 | Writing | Author | Joined by | Relationship to judgment | Scope |
 |---|---|---|---|---|
 | Per curiam opinion, Part I | The Court | All nine | Common merits boundary and trial-error classification | Assumed error, presented-question boundary and absence of automatic structural relief. |
-| Per curiam opinion, Part II | The Court | Stone-Zsela, O'Connor, Souter, Ginsburg and Breyer | Controlling doctrinal rule; Ginsburg opposes the remand | State-borne Chapman for this defined capital-selection category and conditional sentence-relief rule. |
+| Per curiam opinion, Part II | The Court | Stone-Zsela, O'Connor, Souter, Ginsburg and Breyer | Controlling doctrinal rule; Ginsburg opposes the remand | State-borne Chapman for this defined capital-selection error and conditional sentence-relief rule. |
 | Per curiam opinion, Part III | The Court | All eight Associate Justices | Common substantive-review principle; different views of this record | No prescribed verbal formula, no automatic effect finding from error, and the actual record/evidence distinctions. Stone adds no join in this section. |
 | Per curiam opinion, Part IV | The Court | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer | Seven-vote vacatur and confined remand | An unfinished actual-effect inquiry and no present harmlessness finding; the supporters' different standards are not merged. |
 | Per curiam opinion, Part V | The Court | All eight Associate Justices | Application of existing temporal law | Carriger's pending-capital rule for the identified chapter 153 provisions. |

@@ -544,7 +544,7 @@ Format and analytical source: the supplied case-brief template, Section I.A-E, a
 
 #### INHERITED SIMULATED LAW
 
-Fex identifies the IAD receipt trigger; it does not itself make every timing violation cognizable on habeas. Keeney distinguishes factual-development hearings from independent claim default. Simulated Brecht retains Chapman for its preserved Doyle claim, not a universal harmlessness rule for this statutory IAD claim.
+Fex identifies the IAD receipt trigger; it does not itself make every timing violation cognizable on habeas. Keeney distinguishes factual-development hearings from independent claim default. Simulated Brecht retains Chapman for preserved constitutional trial error properly before a federal habeas court, not a harmlessness rule for this statutory IAD claim.
 
 **[Actual receipt and the Interstate Agreement on Detainers trial period](inherited/STANDARDS_AND_TESTS.md#actual-receipt-and-the-interstate-agreement-on-detainers-trial-period)** — Effective: 1993-02-23; Fex v. Michigan, for the components identified above.
 
@@ -558,7 +558,7 @@ When a federal habeas claim properly presented to the state courts turns on mate
 
 **[Preserved protected-silence error on federal habeas review](inherited/STANDARDS_AND_TESTS.md#preserved-protected-silence-error-on-federal-habeas-review)** — Effective: 1993-04-21; Brecht v. Abrahamson, for the components identified above.
 
-Use of post-Miranda silence to impeach a trial explanation violates Doyle and constitutes constitutional trial error rather than a nonconstitutional rule or structural defect. Permitted prewarning impeachment remains distinct. For preserved Doyle error properly before a federal habeas court, the State must establish beyond a reasonable doubt that it did not contribute to the verdict, considering the whole record. Collateral posture alone does not substitute Kotteakos; relief depends on failure of the State's Chapman showing and is not automatic. Other habeas gates and structural-error rules remain independent; this does not prescribe every collateral-review procedure.
+Use of post-Miranda silence to impeach a trial explanation violates Doyle and constitutes constitutional trial error rather than a nonconstitutional rule or structural defect. Permitted prewarning impeachment remains distinct. When a federal habeas court properly reaches a preserved constitutional trial-error claim, including preserved Doyle error, the State must establish beyond a reasonable doubt that the error did not contribute to the verdict or sentence, considering the whole record, unless another controlling rule treats the defect as structural or the right carries its own prejudice element. The reviewing court examines the actual verdict or sentence and may not substitute the conclusion that a properly instructed hypothetical jury could have convicted. Collateral posture alone does not substitute Kotteakos; relief depends on failure of the State's Chapman showing and is not automatic. Other habeas gates and structural-error rules remain independent; this does not prescribe every collateral-review procedure.
 
 **[Prolonged negligent post-accusation delay and presumed defense impairment](inherited/STANDARDS_AND_TESTS.md#prolonged-negligent-post-accusation-delay-and-presumed-defense-impairment)** — Effective: *Doggett*, June 24, 1992.
 

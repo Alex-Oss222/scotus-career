@@ -798,7 +798,7 @@
       "case_name": "Solid Waste Agency of Northern Cook County v. U.S. Army Corps of Engineers",
       "event": "Merits decision; 2001-01-09; argued October 31, 2000; October Term 2000, chunk 2.",
       "record": "Solid_Waste_Agency_of_Northern_Cook_County_v_US_Army_Corps_of_Engineers_merits_2001-01-09.md",
-      "sha256": "26dcda08e1dac5a3d56a189c7420586ddc766854e96e35bcc6c3b9fdaa17f99d",
+      "sha256": "6c3ce11a3508a32f71fb2a9ec19e18a2d6fab8da7b96e9365ba2113b597c3282",
       "opinion_rows": [
         {
           "row": "| Opinion of the Court | Scalia | Stone-Zsela, O'Connor, Kennedy, Thomas | Reversal and remand, 5–4 | Confined statutory exclusion; contingent Commerce question not reached |",
@@ -2158,18 +2158,18 @@
       "case_name": "Gibbs v. Babbitt",
       "event": "Merits decision after full submission; 2001-03-21; October Term 2000, chunk 4.",
       "record": "Gibbs_v_Babbitt_merits_2001-03-21.md",
-      "sha256": "b6a5d03de177f5f13a49fd6e05b70fd46fafce1aa42c89f4930e503fa9305f65",
+      "sha256": "98dbc05e86939b58ad12213a91bc9347fea7a340ccd53094892f1de3ca46dad0",
       "opinion_rows": [
         {
-          "row": "| Opinion of the Court, Parts I and II | O'Connor | Stone-Zsela and Kennedy throughout; Scalia and Thomas in Part I; Ginsburg and Breyer in Part II | Part I controls the enacted class and connection prerequisite; Part II controls both complete current-law routes and vacatur/remand |",
+          "row": "| Opinion of the Court, Parts I and II | Stone-Zsela | O'Connor and Kennedy throughout; Scalia and Thomas in Part I; Stevens, Souter, Ginsburg and Breyer in Part II | Part I controls the enacted class and connection prerequisite; Part II controls the necessary-inclusion holding and affirmance |",
           "lead": true,
           "excluded_form": false,
           "authors": [
-            "O'Connor"
+            "Stone-Zsela"
           ]
         },
         {
-          "row": "| Concurrence in part and in the judgment | Ginsburg | Breyer | Joins Part II and the remand under governing law while preserving the proposed broader class-effects approach; does not join Part I |",
+          "row": "| Concurrence in part and in the judgment | Ginsburg | Breyer | Joins Part II and the judgment while preserving the proposed broader class-effects approach; does not join Part I |",
           "lead": false,
           "excluded_form": false,
           "authors": [
@@ -2177,7 +2177,7 @@
           ]
         },
         {
-          "row": "| Dissent | Stevens | Souter | Would affirm under the broader class-effects proposal; does not join the remand |",
+          "row": "| Concurrence in part and in the judgment | Stevens | Souter | Joins Part II and the judgment; would also affirm under the broader class-effects proposal; does not join Part I |",
           "lead": false,
           "excluded_form": false,
           "authors": [
@@ -2185,7 +2185,7 @@
           ]
         },
         {
-          "row": "| Concurrence in part and dissent in part | Scalia | Thomas | Joins Part I; would reverse for confined relief; rejects independent externality authority and further inquiry on this record |",
+          "row": "| Concurrence in part and dissent in part | Scalia | Thomas | Joins Part I; dissents from Part II and the judgment and would reverse for confined relief; adheres to the Home Builders dissent from Part II-A and rejects independent externality authority |",
           "lead": false,
           "excluded_form": false,
           "authors": [
@@ -2194,7 +2194,7 @@
         }
       ],
       "counted_authors": [
-        "O'Connor"
+        "Stone-Zsela"
       ],
       "chunk4": true,
       "counts_before": {
@@ -2258,7 +2258,7 @@
       "case_name": "Wallis v. Spencer",
       "event": "Merits decision; 2001-04-02; October Term 2000, chunk 4.",
       "record": "Wallis_v_Spencer_merits_2001-04-02.md",
-      "sha256": "24b030f048753ca47387d51e4f48b5d9a582e91a2096e5be9a44e7f104a58920",
+      "sha256": "c29dc713622b137278c67a4ce6400113cea5031d3b8ca0d4189f6d73bd0cd89a",
       "opinion_rows": [
         {
           "row": "| Opinion of the Court, Parts I, II.A and III | Stevens | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Necessary removal protections, municipal policy/fault/causation, examination threshold and distinct consequential-injury route |",
@@ -2882,7 +2882,7 @@
         "O'Connor",
         "Kennedy"
       ],
-      "author": "O'Connor",
+      "author": "Stone-Zsela",
       "checks": {
         "record_counts": true,
         "eligible_set": true,
@@ -3283,7 +3283,7 @@
     {
       "case": "Gibbs",
       "file": "OT_2000CHUNK4_RECONCILED_GIBBS.md",
-      "actual_sha256": "59ee1120188575db9355d0699c353c500dfbd02dd254d3bcc705edf10408c679",
+      "actual_sha256": "d6f2357c1be5a78cc17541fdc0aafda56f477fffc7386d6628c9b1234e10971a",
       "matches_final_index": true
     },
     {
@@ -3295,7 +3295,7 @@
     {
       "case": "Wallis",
       "file": "OT_2000CHUNK4_RECONCILED_WALLIS.md",
-      "actual_sha256": "53a3050369e610394424e87e82b8c35e94bfda9232784549025d5402a79fea1b",
+      "actual_sha256": "5457d7250a2b704ed9538b7fe5423886c4aeab58eb23ca1aef006afd245dd2a3",
       "matches_final_index": true
     },
     {

@@ -79,21 +79,21 @@
     "case": "United States v. American Library Association, Inc.",
     "date": "2003-06-23",
     "countable": true,
-    "assigner": "O'Connor",
+    "assigner": "Stone-Zsela",
     "eligible_authors": [
-      "O'Connor",
-      "Scalia",
+      "Stone-Zsela",
       "Kennedy",
-      "Thomas",
+      "Souter",
+      "Ginsburg",
       "Breyer"
     ],
     "full_joiners": [
-      "O'Connor",
-      "Scalia",
+      "Stone-Zsela",
       "Kennedy",
-      "Thomas",
+      "Souter",
+      "Ginsburg",
       "Breyer"
     ],
-    "assignment_authority_text": "O'Connor is the most senior participating Associate Justice among the five supporting reversal. Stone-Zsela and Stevens oppose reversal. Her assignment must preserve the direct shared facial ground and the independently published differences; the Chief's mandatory balance-pool rule does not govern her assignment, although the resulting signed lead opinion counts."
+    "assignment_authority_text": "The Chief Justice is in the judgment coalition supporting reversal and joins every proposition of Parts I and II, so he assigns; Stevens opposes reversal, and O'Connor, Scalia, and Thomas join the judgment and Part I but not Part II"
   }
 ]

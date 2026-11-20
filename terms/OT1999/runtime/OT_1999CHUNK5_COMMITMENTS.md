@@ -301,7 +301,7 @@ Eight Associates separately assessed. The inquiry distinguishes regulatory appli
 
 ## MICHAEL_WILLIAMS
 
-Frozen source: [OT_1999CHUNK5_MICHAEL_WILLIAMS_COMMITMENTS.md](OT_1999CHUNK5_MICHAEL_WILLIAMS_COMMITMENTS.md). SHA-256: `741d9d4fb4246fb2ae7723e80aff5153773ac96d5df734b6e56961292a7e99f6`.
+Frozen source: [OT_1999CHUNK5_MICHAEL_WILLIAMS_COMMITMENTS.md](OT_1999CHUNK5_MICHAEL_WILLIAMS_COMMITMENTS.md). SHA-256: `71c92a52e3fbb514ccac27adc6b8775a8136493404d1b03607c21060aaea6612`.
 
 ## Michael Wayne Williams v. Taylor — independent non-Stone commitments
 
@@ -357,7 +357,7 @@ The informal plea-agreement claim was separately adjudicated on its merits, with
 
 Weeks unanimously preserves actual state-merits adjudication as the trigger for section 2254(d)'s independent condition on relief; a short explanation does not eliminate it. That principle applies wherever its predicate is actually met, without assuming every newly discovered federal claim was presented to the state court. Section 2254(e)(1)'s factual presumption and clear-and-convincing rebuttal remain separate. The amended exhaustion register permits, but does not command, denial of an unexhausted claim on the merits; lack of an available or effective state process and express counsel waiver remain their own statutory alternatives and limits.
 
-The Williams cross-examination claim is not automatically resolved by Portuondo's narrower summation holding. Its independent harmlessness and Teague dispositions remain outside this grant; the Court neither adopts the lower court's broad historical substantial-effect rule as current law nor creates a new error category. Likewise, the assistance/confidentiality and filing-period rulings are not reopened. The Court does not declare Virginia qualified for chapter 154, approve the incorrect title-number transcription, or rewrite the statutory confidentiality conditions. Leaving an unreviewed ruling undisturbed is not adoption of its rationale as Supreme Court law.
+The Williams cross-examination claim is not automatically resolved by Portuondo's narrower summation holding. Its independent harmlessness and Teague dispositions remain outside this grant; the Court neither adopts the lower court's broad historical substantial-effect rule as current law nor applies Brecht's general rule to that claim here. Likewise, the assistance/confidentiality and filing-period rulings are not reopened. The Court does not declare Virginia qualified for chapter 154, approve the incorrect title-number transcription, or rewrite the statutory confidentiality conditions. Leaving an unreviewed ruling undisturbed is not adoption of its rationale as Supreme Court law.
 
 ### Individual support and join boundaries
 

@@ -15,7 +15,7 @@ The count vector below follows Court seniority: **Stone-Zsela, Stevens, O'Connor
 | March 21 — Circuit City | 3, 4, 4, 4, 4, 5, 4, 4, 4 | TrafFix, March 20 | Stone-Zsela |
 | March 21 — Egelhoff | 4, 4, 4, 4, 4, 5, 4, 4, 4 | Circuit City, March 21 | Ginsburg |
 | March 21 — Ferguson | 4, 4, 4, 4, 4, 5, 4, 5, 4 | Egelhoff, March 21 | Kennedy |
-| March 21 — Gibbs | 4, 4, 4, 4, 5, 5, 4, 5, 4 | Ferguson, March 21 | O'Connor |
+| March 21 — Gibbs | 4, 4, 4, 4, 5, 5, 4, 5, 4 | Ferguson, March 21 | Stone-Zsela |
 | April 2 — Cobb | 4, 4, 5, 4, 5, 5, 4, 5, 4 | Gibbs, March 21 | Breyer |
 | April 2 — Wallis | 4, 4, 5, 4, 5, 5, 4, 5, 5 | Cobb, April 2 | Stevens |
 | April 17 — Lujan | 4, 5, 5, 4, 5, 5, 4, 5, 5 | Wallis, April 2 | Stevens |
@@ -32,7 +32,7 @@ Buford correctly excludes the later-alphabetical Shafer on their shared date. Tr
 
 The material eligibility boundaries are preserved:
 
-- **Gibbs:** Only Stone, O'Connor and Kennedy can carry both parts. Ginsburg and Breyer directly join the conditional current-law remand but not Part I; Scalia and Thomas do not join Part II or its judgment. Stevens and Souter supply no conditional remand commitment. O'Connor is eligible for the undivided lead.
+- **Gibbs:** Only Stone, O'Connor and Kennedy can carry both parts. Stevens, Souter, Ginsburg and Breyer directly join Part II and the affirmance but not Part I; Scalia and Thomas do not join Part II or its judgment. Stone-Zsela is eligible for the undivided lead.
 - **Wallis:** All eight Associates support the whole opinion. Stone's fallback supplies only disposition votes for II.B and IV; he is correctly excluded from whole-opinion eligibility while retaining assignment authority. His conditional examination rule remains separate.
 - **Cleveland Indians:** The seven Associates supporting the regulatory explanation are eligible. Stone's independent statutory construction and Scalia's administrative-gap ground are judgment-only positions. Thomas, with four preceding leads, lies within the correctly computed pool; Stevens, with six, does not.
 - **Weston:** Scalia and Thomas decline Part II and cannot write the complete lead. Kennedy and Stone directly accept the necessary common rule while preserving their broader separate positions. O'Connor qualifies for both parts; Stevens is eligible but outside the pool.

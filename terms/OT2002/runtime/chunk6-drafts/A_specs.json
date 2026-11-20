@@ -48,37 +48,38 @@
     "file": "United-States-v-Bach_merits_2003-03-05.md"
   },
   {
-    "form": "Signed opinion announcing judgment; unanimous framework Part I and four-Justice plurality application Parts II\u2013III, with Souter judgment-only on application; form follows genuine premise and burden differences before counts.",
-    "assigner": "O'Connor",
+    "form": "Signed opinion of the Court: unanimous framework Part I, five-Justice application and remedy Part II, and four-Justice clearest-proof Part III; Souter joins Parts I and II only; form follows genuine premise and burden differences before counts.",
+    "assigner": "Stone-Zsela",
     "eligible_authors": [
-      "O'Connor",
-      "Scalia",
-      "Kennedy",
-      "Thomas"
+      "Stone-Zsela",
+      "Stevens",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
     ],
     "full_joiners": [
-      "O'Connor",
-      "Scalia",
-      "Kennedy",
-      "Thomas"
+      "Stone-Zsela",
+      "Stevens",
+      "Ginsburg",
+      "Breyer"
     ],
-    "fit_notes": "The lead must distinguish mixed codification and notice duties from established civil design, then perform cumulative operation review without relying on historical statutory-face reasoning. O'Connor's Ursery opinion and full current commitments address that sequence; Kennedy's Paul P. authorship offers a concrete advantage separating informational privacy from punishment; Scalia and Thomas fully accept operational review through Seling. No numerical accommodation can absorb Souter's actual-intent difference. The senior Associate's assignment must rest on her supported priorities, not copied historical authorship.",
+    "fit_notes": "The opinion must treat Alaska's civil label as relevant but not conclusive, explain why the mixed enactment design does not trigger the heightened override, and classify the cumulative retrospective operation without relying on historical statutory-face reasoning, while stating for four the clearest-proof ground. Ginsburg's frozen commitment carries both steps and the missing-safeguard and rehabilitation points directly; Breyer's Hendricks and Seling authorship is the strongest alternative. Souter's close-case degree needs only a short concurrence.",
     "components": [
       {
         "name": "Ex Post Facto judgment",
-        "disposition": "Reverse and remand",
+        "disposition": "Affirm",
         "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": [
           "O'Connor",
           "Scalia",
           "Kennedy",
-          "Souter",
           "Thomas"
-        ],
-        "opposing": [
-          "Stone-Zsela",
-          "Stevens",
-          "Ginsburg",
-          "Breyer"
         ]
       }
     ],

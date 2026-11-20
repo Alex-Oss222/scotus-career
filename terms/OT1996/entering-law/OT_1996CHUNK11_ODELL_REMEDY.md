@@ -20,25 +20,26 @@ Source-copy only: current state/holdings/criminal-procedure.md. These entries su
 - Jenkins, 447 U.S. 231, and Fletcher, 455 U.S. 603 — distinguished: prewarning impeachment remains permissible in the circumstances presented.
 - Fulminante, 499 U.S. 279 — applied: this evidentiary trial error permits harmlessness analysis; structural defects remain distinct.
 
-##### Chapman governs this preserved Doyle claim on habeas
+##### Chapman governs preserved constitutional trial error on habeas
 
-**Holding:** For this preserved Doyle trial error properly before the federal habeas court, the State must establish beyond a reasonable doubt that the constitutional error did not contribute to the verdict. Collateral posture alone does not replace that burden with Kotteakos; the reviewing court must apply Chapman to the whole record, with relief conditional on failure of the State’s showing rather than automatic from the violation.
+**Holding:** When a federal habeas court properly reaches a preserved constitutional trial-error claim, the State must establish beyond a reasonable doubt that the constitutional error did not contribute to the verdict or sentence challenged. That rule governs unless another controlling rule treats the defect as structural or the violated right carries its own necessary prejudice element. The reviewing court examines the actual verdict or sentence, the lawful evidence, the jury charge and material arguments, how the error entered the proceeding and its relation to contested issues; it may not substitute the conclusion that a properly instructed hypothetical jury could have convicted. Collateral posture alone does not replace that burden with Kotteakos; the reviewing court must apply Chapman to the whole record, with relief conditional on failure of the State’s showing rather than automatic from the violation. Preservation, exhaustion, procedural default, Teague, the limits on successive applications and other statutory gates remain intact, and nonconstitutional trial error is not made constitutional. This preserved Doyle violation is reviewed under that rule.
 
 **Proposition-level authority:** White’s Opinion of the Court, II–III; Stone-Zsela, White, Blackmun, O'Connor, Souter (5 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
 **Treatment of earlier authority:**
 
-- Chapman, 386 U.S. 18 — applied on federal habeas to this preserved Doyle claim with its burden unchanged.
-- Kotteakos, 328 U.S. 750 — not extended to replace Chapman here; its existing nonconstitutional-error operation remains.
+- Chapman, 386 U.S. 18 — applied on federal habeas to preserved constitutional trial error properly reached, including this Doyle claim, with its burden unchanged.
+- Kotteakos, 328 U.S. 750 — not extended to replace Chapman for constitutional trial error on habeas; its existing nonconstitutional-error operation remains.
 - Rose, 478 U.S. 570, and Yates, 500 U.S. 391 — continuity supported; prior assumed use is not misdescribed as a square holding on this distinction.
 - Stringer, Sochor, Espinosa and Richmond — unchanged: actual correction of capital weighing errors remains distinct.
 - Sawyer and Herrera — not extended into a universal innocence requirement for review of preserved trial error.
+- Teague, 489 U.S. 288 — preserved: with exhaustion, procedural default and the limits on successive applications, it still decides whether a claim may be heard.
 
-**Limits and questions not reached:** The Chapman ruling covers this preserved Doyle claim properly on habeas, not every constitutional collateral claim. Exhaustion, preservation, other habeas gates, structural-error doctrine and capital weighing-error correction remain distinct. The Court does not decide harmlessness or impose an innocence prerequisite.
+**Limits and questions not reached:** The Chapman ruling governs preserved constitutional trial error properly before a federal habeas court, including this Doyle claim, unless another controlling rule treats the defect as structural or the violated right carries its own necessary prejudice element. Exhaustion, preservation, procedural default, Teague, the limits on successive applications, other statutory gates, structural-error doctrine and capital weighing-error correction remain distinct; nonconstitutional trial error is not made constitutional. The Court does not decide harmlessness or impose an innocence prerequisite.
 
 **Operative remedy or transition:** Vacate the Seventh Circuit judgment and remand for whole-record Chapman review with the State’s burden. Relief follows only if that showing fails; no automatic writ, release, acquittal or present retrial deadline.
 
-**Later-authority backlinks:** O’Neal v. McAninch, February 21, 1995: extends Chapman review to the preserved personal-intent claim arising from the combined instructions and prosecutorial argument; the State bears the beyond-a-reasonable-doubt burden if a violation is found. The Doyle holding remains unchanged, and no general rule for all preserved constitutional trial errors is adopted. See Criminal Procedure — Constitutional trial error on habeas.
+**Later-authority backlinks:** O’Neal v. McAninch, February 21, 1995: applies this general rule to the preserved personal-intent claim arising from the combined instructions and prosecutorial argument; the State bears the beyond-a-reasonable-doubt burden if a violation is found, and no category-specific extension is needed. See Criminal Procedure — Constitutional trial error on habeas.
 
 #### O'Neal v. McAninch
 
@@ -47,29 +48,29 @@ Source-copy only: current state/holdings/criminal-procedure.md. These entries su
 
 ##### Chapman governs the preserved personal-intent instructional claim
 
-**Holding:** For a preserved constitutional trial violation, properly available on federal habeas, in which the combined jury instructions and prosecutor's statement permit conviction without proof of the defendant's own intent required for the offense, the State must establish beyond a reasonable doubt, on the whole record, that the error did not contribute to the verdict. Kotteakos's substantial-and-injurious-effect and grave-doubt framework does not govern this claim; the standard for other reserved categories is not decided.
+**Holding:** For a preserved constitutional trial violation, properly available on federal habeas, in which the combined jury instructions and prosecutor's statement permit conviction without proof of the defendant's own intent required for the offense, the State must establish beyond a reasonable doubt, on the whole record, that the error did not contribute to the verdict. This is Brecht's general rule for preserved constitutional trial error properly before a federal habeas court; Kotteakos's substantial-and-injurious-effect and grave-doubt framework does not govern this claim.
 
-**Proposition-level authority:** O'Connor's Parts II and IV, joined by Stone-Zsela, Souter, Ginsburg and Breyer: five Justices. The broader Part III extension has no controlling coalition.
+**Proposition-level authority:** O'Connor's Parts II and III, joined by Stone-Zsela, Souter, Ginsburg and Breyer: five Justices.
 
 **Treatment of earlier authority:**
 
-- Brecht v. Abrahamson, April 21, 1993: extended from preserved Doyle error to the preserved personal-intent instructional/argument category; its original rule survives, while other reserved categories remain unresolved by the Court.
+- Brecht v. Abrahamson, April 21, 1993: applied; its general rule for preserved constitutional trial error properly before a federal habeas court governs the preserved personal-intent instructional/argument claim.
 - Chapman v. California, 386 U.S. 18 (1967): applied with the State's beyond-a-reasonable-doubt burden and actual-verdict contribution inquiry intact.
 - Kotteakos v. United States, 328 U.S. 750 (1946): not extended to replace Chapman for this constitutional claim; its existing operation for genuinely nonconstitutional trial error remains unchanged.
 - In re Winship, 397 U.S. 358 (1970): applied as the constitutional requirement that the prosecution prove the elements of the charged offense; no new personal-intent element is imposed on offenses that do not require it.
 - Sullivan v. Louisiana, June 1, 1993: preserved as the distinct rule for a defect vitiating the jury's governing reasonable-doubt standard; the assumed error here is not declared structural.
 
-**Limits and questions not reached:** The Court does not adopt a general Chapman rule for all preserved constitutional trial errors. Proof of the violation, preservation, exhaustion, independent habeas gates, structural-error rules and a prejudice element defining another constitutional claim remain separate. Actual harmlessness is not decided.
+**Limits and questions not reached:** Brecht already states the general rule for preserved constitutional trial error properly before a federal habeas court, so the Court applies it without a category-specific extension. Proof of the violation, preservation, exhaustion, independent habeas gates, structural-error rules and a prejudice element defining another constitutional claim remain separate. Actual harmlessness is not decided.
 
 ##### The proper standard requires renewed review, not an automatic writ
 
 **Holding:** The Sixth Circuit's substantial-influence assessment with a prisoner prejudice burden does not supply the required Chapman determination; its challenged judgment must be vacated for review of the combined claim under the correct rule. If an available constitutional violation is established and the State fails to prove beyond a reasonable doubt on the existing record that it did not contribute to the verdict, the writ shall issue for the affected conviction or convictions unless the State retries O'Neal within a reasonable time; no immediate writ or present retrial deadline is imposed.
 
-**Proposition-level authority:** O'Connor's Parts II and IV, joined by Stone-Zsela, Souter, Ginsburg and Breyer: five Justices. The broader Part III extension has no controlling coalition.
+**Proposition-level authority:** O'Connor's Part IV, joined by Stone-Zsela, Souter, Ginsburg and Breyer: five Justices.
 
 **Treatment of earlier authority:**
 
-- Brecht v. Abrahamson, April 21, 1993: its whole-record remand and conditional-relief distinction are extended to this instructional claim, without automatic reinstatement of a prior writ.
+- Brecht v. Abrahamson, April 21, 1993: its whole-record remand and conditional-relief distinction are applied to this instructional claim, without automatic reinstatement of a prior writ.
 - Chapman v. California, 386 U.S. 18 (1967): applied to the existing trial record; a weaker substantial-influence finding is not treated as the required finding beyond a reasonable doubt.
 - Estelle v. McGuire, December 4, 1991, and Victor v. Nebraska / Sandoval v. California, March 22, 1994: their whole-charge reasonable-likelihood inquiry remains the rule for identifying an ambiguous instruction's constitutional defect; the Court does not decide that antecedent application here.
 - Schlup v. Delo, January 23, 1995: its gateway for otherwise barred claims remains independent; neither passage through that gateway nor an innocence showing is invented for this claim.
@@ -109,9 +110,9 @@ Source-copy only: current state/holdings/criminal-procedure.md. These entries su
 
 **Material application:** State Claim IX, the state appeal and federal Ground A presented delayed disclosure, impaired preparation and unfairness. Accepted evidence supplements that same injury. The prosecutor's statements-only assurance, reasonable reliance and last-minute photographs, police and medical-examiner evidence impaired investigation, impeachment, objections and response. Actual preparation objections and exclusion requests were made; the absent formal continuance motion establishes no feasible cure or adequate bar. The findings establish substantial probability of a different sentence, substantial injurious influence, and inability to find beyond reasonable doubt that the error did not contribute.
 
-**Limits and questions not reached:** No universal collateral error-effect standard is selected because relief follows under both competing approaches. No structural-error category, automatic exclusion of all uncharged-crime evidence, other-perpetrator finding or universal exhaustion of related theories is adopted.
+**Limits and questions not reached:** Relief follows under Brecht's general rule and equally under the whole-record substantial-influence approach of the Brecht dissents; no new collateral error-effect standard is created. No structural-error category, automatic exclusion of all uncharged-crime evidence, other-perpetrator finding or universal exhaustion of related theories is adopted.
 
-**Treatment of earlier authority:** Picard and Anderson require claim substance, not identical language; Vasquez permits supplementation without fundamental alteration while retaining its deliberate-withholding reservation. Keeney retains Townsend's fifth hearing circumstance for inadequately developed material facts of a properly presented claim, subject to Fay's knowing, considered choice by the prisoner to bypass state process. Ordinary counsel negligence or counsel's choice without prisoner participation is not automatically bypass. Established deliberate bypass permits refusal of the otherwise required hearing rather than requiring denial; Coleman remains distinct. Tuggle separates lawful eligibility from actual sentence selection. Brecht's preserved-Doyle and O'Neal's personal-intent holdings retain their limits; Chapman and Kotteakos supply the two satisfied competing effect inquiries without a general extension.
+**Treatment of earlier authority:** Picard and Anderson require claim substance, not identical language; Vasquez permits supplementation without fundamental alteration while retaining its deliberate-withholding reservation. Keeney retains Townsend's fifth hearing circumstance for inadequately developed material facts of a properly presented claim, subject to Fay's knowing, considered choice by the prisoner to bypass state process. Ordinary counsel negligence or counsel's choice without prisoner participation is not automatically bypass. Established deliberate bypass permits refusal of the otherwise required hearing rather than requiring denial; Coleman remains distinct. Tuggle separates lawful eligibility from actual sentence selection. Brecht's general rule, as O'Neal applied it, governs this claim's effect through Chapman's State-borne burden, which the established injury fails; Kotteakos's whole-record approach, which the Brecht dissents would apply, is also satisfied, and no general replacement of Chapman is adopted.
 
 ##### How must conditional sentencing relief be implemented?
 

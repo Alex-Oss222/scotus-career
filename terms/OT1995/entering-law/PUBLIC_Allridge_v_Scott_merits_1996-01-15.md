@@ -30,7 +30,7 @@ The guilt judgment and unreviewed grounds are undisturbed. No present writ, new 
 |---|---|---|---|
 | Opinion of the Court, Parts I-A, II, and IV | Souter | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | Parole-eligibility distinction, admitted-mitigation review, bounded remedy and reservations |
 | Opinion of the Court, Parts I-B and III | Souter | Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | Eight-Justice independent Teague rationale and unoffered-evidence rationale; Stone-Zsela does not join |
-| Concurrence in part and in the judgment | Stone-Zsela | No additional Justice | Exact partial joins, fixed-legal-fact distinction, and proposed Chapman extension; judgment-only on unoffered-evidence component |
+| Concurrence in part and in the judgment | Stone-Zsela | No additional Justice | Exact partial joins, fixed-legal-fact distinction, and statement that Brecht's general rule governs any separate harmless-error inquiry; judgment-only on unoffered-evidence component |
 
 ## Holdings
 
@@ -86,9 +86,9 @@ The competing contention—that the testimony may still be weak, unsupported, or
 
 **Controlling explanation:** Graham's prefinality analysis bars treating its established functional rule as newly created merely because another defendant invokes it. A materially new extension nevertheless requires its own Teague inquiry. The documented instruction request proves that a request was made, not exhaustion or preservation of every reformulated theory. Applicable factual presumptions and genuinely available exhaustion, default, and other habeas defenses remain; no forfeited defense is revived and no settled issue reopened.
 
-Tuggle corrects a discrete legally insufficient review ground without resolving the underlying violation or issuing a writ. That distinction governs this remand too. Brecht governs preserved Doyle error and O'Neal preserved personal-intent instructional error. Neither already selects a universal collateral harmlessness rule for capital mitigation. The Court reserves whether a separate error-effect inquiry is required here, its applicable standard, the actual effect, and ultimate relief. The complete charge, relevant testimony, claim-specific procedural rulings, and any properly preserved error-effect submissions are needed before further relief. Unreviewed Brady and lesser-offense claims are untouched.
+Tuggle corrects a discrete legally insufficient review ground without resolving the underlying violation or issuing a writ. That distinction governs this remand too. The Court reserves whether a separate error-effect inquiry is required here, the actual effect, and ultimate relief. It neither applies nor alters the governing harmlessness standard of Brecht and O'Neal. The complete charge, relevant testimony, claim-specific procedural rulings, and any properly preserved error-effect submissions are needed before further relief. Unreviewed Brady and lesser-offense claims are untouched.
 
-**Precedent treatment:** Tuggle's review-versus-relief distinction is applied. Brecht and O'Neal retain their category-specific Chapman holdings; neither they nor Chapman's direct-review rule are extended by the Court to this category.
+**Precedent treatment:** Tuggle's review-versus-relief distinction is applied. Brecht's general harmlessness rule, as O'Neal applied it, remains intact; whether a separate error-effect inquiry is required for this capital-mitigation claim is not decided.
 
 ## Precedent Treatment
 
@@ -101,18 +101,18 @@ Tuggle corrects a discrete legally insufficient review ground without resolving 
 - **Lockett v. Ohio, 438 U.S. 586, and Eddings v. Oklahoma, 455 U.S. 104:** Their effective-mitigation requirement remains, without compelled favorable weight.
 - **Delo v. Lashley, 507 U.S. 272:** Its supporting-evidence requirement is applied to the unoffered medical material; it neither excludes admitted lay mitigation nor bars a supported unconstitutional-exclusion challenge.
 - **Tuggle v. Netherland, October 30, 1995:** Its distinction between correction of an insufficient review ground and actual relief governs this remand; its separate Ake subject is not transferred.
-- **Brecht v. Abrahamson, April 21, 1993, and O'Neal v. McAninch, February 21, 1995:** Their category-specific Chapman rules remain, without a controlling extension to capital mitigation.
-- **Chapman v. California, 386 U.S. 18:** No new collateral application is adopted by the Court; the Chief Justice proposes one separately.
+- **Brecht v. Abrahamson, April 21, 1993, and O'Neal v. McAninch, February 21, 1995:** Brecht's general harmlessness rule for preserved constitutional trial error properly reached on federal habeas, as O'Neal applied it, remains intact; whether a separate error-effect inquiry is required for capital mitigation is not decided.
+- **Chapman v. California, 386 U.S. 18:** The Court does not apply it to this claim; the Chief Justice states separately that, under Brecht's general rule, its standard governs any required separate harmless-error inquiry.
 
 ## Law After Decision
 
-Ordinary parole availability does not become legal ineligibility through a prediction of unlikely release. Admitted mitigation must receive the functional inquiry required by Graham and Johnson; an expert diagnosis or uniquely severe disability is not a categorical entrance requirement. Unoffered medical material establishes no independent instruction entitlement merely because its introduction would present strategic risks. The actual instructional violation, available habeas gates, any error-effect standard and finding, and relief remain unresolved. The proposed Chapman extension has no controlling force.
+Ordinary parole availability does not become legal ineligibility through a prediction of unlikely release. Admitted mitigation must receive the functional inquiry required by Graham and Johnson; an expert diagnosis or uniquely severe disability is not a categorical entrance requirement. Unoffered medical material establishes no independent instruction entitlement merely because its introduction would present strategic risks. The actual instructional violation, available habeas gates, whether a separate error-effect inquiry is required, any error-effect finding, and relief remain unresolved. The concurrence's statement of the governing standard has no controlling force.
 
 ## Separate Writings
 
 **Stone-Zsela, concurring in part and in the judgment.** The Chief Justice joins the parole-prediction holding, the admitted-mitigation ruling, and the bounded remand. A jury may not be told that a parole-eligible sentence legally excludes release. A fixed statutory minimum, if properly presented as a distinct claim, is a legal fact rather than a favorable prediction; that distinction establishes neither preservation nor retroactive entitlement here. He does not join the Court's independent Teague rationale or its additional rationale concerning unoffered medical evidence.
 
-If a demonstrated, preserved denial of effective capital mitigation requires a separate harmless-error inquiry, he would extend the rationale of Brecht and O'Neal and require the State to establish beyond a reasonable doubt on the whole relevant record that the denial did not contribute to the death sentence. This is a proposed extension to a distinct category; those decisions do not already decide it. He does not find a violation, harmlessness, or a present right to a writ. Correction, if required, would be confined to punishment through adequate capital resentencing or a lawful noncapital sentence. The unintroduced medical evidence and separate chilling contention require their own lawful basis. No other Justice joins this proposal or opinion.
+If a demonstrated, preserved denial of effective capital mitigation requires a separate harmless-error inquiry, Brecht's general rule governs, and the State must establish beyond a reasonable doubt on the whole relevant record that the denial did not contribute to the death sentence. Brecht already states that rule, so no category-specific extension is needed. He does not find a violation, harmlessness, or a present right to a writ. Correction, if required, would be confined to punishment through adequate capital resentencing or a lawful noncapital sentence. The unintroduced medical evidence and separate chilling contention require their own lawful basis. No other Justice joins this statement or opinion.
 
 ## Procedure After Action
 

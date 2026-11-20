@@ -913,7 +913,7 @@ Vacate and remand for Chapman review, 5–4; no automatic writ.
 | Writing | Author | Parts and exact joins | Judgment relationship |
 |---|---|---|---|
 | Opinion of the Court | White | I: constitutional trial error. Joined by Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas. | Unanimous classification |
-| Opinion of the Court | White | II–III: Chapman for this claim; vacatur and conditional-remedy directions. Joined by Stone-Zsela, Blackmun, O'Connor, Souter. | Five-Justice controlling rule |
+| Opinion of the Court | White | II–III: Chapman for preserved constitutional trial error on habeas; vacatur and conditional-remedy directions. Joined by Stone-Zsela, Blackmun, O'Connor, Souter. | Five-Justice controlling rule |
 | Concurrence | White | A: broader continuity argument. Joined by Blackmun, Souter. | Souter joins without taking a position on Powell’s merits |
 | Concurrence | White | B: objection to rigid structural/trial taxonomy. Joined by Blackmun. | Noncontrolling methodological reservation |
 | Concurrence | O'Connor | Entire. No other join. | Reliability and administration grounds; joins the Court |
@@ -936,42 +936,44 @@ Vacate and remand for Chapman review, 5–4; no automatic writ.
 - Jenkins, 447 U.S. 231, and Fletcher, 455 U.S. 603 — distinguished: prewarning impeachment remains permissible in the circumstances presented.
 - Fulminante, 499 U.S. 279 — applied: this evidentiary trial error permits harmlessness analysis; structural defects remain distinct.
 
-#### Chapman governs this preserved Doyle claim on habeas
+#### Chapman governs preserved constitutional trial error on habeas
 
-**Holding and operative rule:** For this preserved Doyle trial error properly before the federal habeas court, the State must establish beyond a reasonable doubt that the constitutional error did not contribute to the verdict. Collateral posture alone does not replace that burden with Kotteakos; the reviewing court must apply Chapman to the whole record, with relief conditional on failure of the State’s showing rather than automatic from the violation.
+**Holding and operative rule:** When a federal habeas court properly reaches a preserved constitutional trial-error claim, the State must establish beyond a reasonable doubt that the constitutional error did not contribute to the verdict or sentence challenged. That rule governs unless another controlling rule treats the defect as structural or the violated right carries its own necessary prejudice element. The reviewing court examines the actual verdict or sentence, the lawful evidence, the jury charge and material arguments, how the error entered the proceeding and its relation to contested issues; it may not substitute the conclusion that a properly instructed hypothetical jury could have convicted. Collateral posture alone does not replace that burden with Kotteakos; the reviewing court must apply Chapman to the whole record, with relief conditional on failure of the State’s showing rather than automatic from the violation. Preservation, exhaustion, procedural default, Teague, the limits on successive applications and other statutory gates remain intact, and nonconstitutional trial error is not made constitutional. This preserved Doyle violation is reviewed under that rule.
 
 **Authority:** White’s Opinion of the Court, II–III; Stone-Zsela, White, Blackmun, O'Connor, Souter (5 Justices). Direct majority agreement at this level of generality; no Marks inference.
 
-**Controlling explanation:** The Court retains Chapman’s allocation for this constitutional violation. Section 2254 does not expressly choose between the competing harmless-error standards, and prior collateral applications in Rose and Yates do not conclusively settle that precise choice. They nevertheless support continuity with the familiar rule protecting constitutional trial rights. Kotteakos supplies a legitimate alternative model, and finality, federalism and the costs of delayed retrial weigh in its favor. For this properly presented use of protected silence, the Court concludes that uncertainty about contribution to the verdict should remain with the State responsible for the violation. Independent exhaustion, preservation and other habeas requirements continue to protect finality; Chapman itself permits a conviction to stand when harmlessness is proved. The Seventh Circuit must evaluate lawful impeachment and the physical evidence against the credibility defense under that allocation. The Court neither decides harmlessness itself nor reinstates the writ automatically, and it does not prescribe every collateral-review procedure.
+**Controlling explanation:** The Court retains Chapman’s allocation for preserved constitutional trial error on federal habeas review. Section 2254 does not expressly choose between the competing harmless-error standards, and prior collateral applications in Rose and Yates do not conclusively settle that precise choice. They nevertheless support continuity with the familiar rule protecting constitutional trial rights. Kotteakos supplies a legitimate alternative model, and finality, federalism and the costs of delayed retrial weigh in its favor. Once such an error is properly before the habeas court, as this use of protected silence is, the Court concludes that uncertainty about contribution to the verdict or sentence should remain with the State responsible for the violation. Independent exhaustion, preservation, default, Teague and successive-application requirements continue to protect finality by deciding whether a claim may be heard; Chapman itself permits a conviction to stand when harmlessness is proved. A single rule also spares the courts category-by-category litigation over which constitutional trial errors receive Chapman. The Seventh Circuit must evaluate lawful impeachment and the physical evidence against the credibility defense under that allocation. The Court neither decides harmlessness itself nor reinstates the writ automatically, and it does not prescribe every collateral-review procedure.
 
 **Precedent treatment:**
 
-- Chapman, 386 U.S. 18 — applied on federal habeas to this preserved Doyle claim with its burden unchanged.
-- Kotteakos, 328 U.S. 750 — not extended to replace Chapman here; its existing nonconstitutional-error operation remains.
+- Chapman, 386 U.S. 18 — applied on federal habeas to preserved constitutional trial error properly reached, including this Doyle claim, with its burden unchanged.
+- Kotteakos, 328 U.S. 750 — not extended to replace Chapman for constitutional trial error on habeas; its existing nonconstitutional-error operation remains.
 - Rose, 478 U.S. 570, and Yates, 500 U.S. 391 — continuity supported; prior assumed use is not misdescribed as a square holding on this distinction.
 - Stringer, Sochor, Espinosa and Richmond — unchanged: actual correction of capital weighing errors remains distinct.
 - Sawyer and Herrera — not extended into a universal innocence requirement for review of preserved trial error.
+- Teague, 489 U.S. 288 — preserved: with exhaustion, procedural default and the limits on successive applications, it still decides whether a claim may be heard.
 
 ### Precedent Treatment
 
 - Doyle, 426 U.S. 610 — applied: warning-induced silence receives due-process protection.
 - Jenkins, 447 U.S. 231, and Fletcher, 455 U.S. 603 — distinguished: prewarning impeachment remains permissible in the circumstances presented.
 - Fulminante, 499 U.S. 279 — applied: this evidentiary trial error permits harmlessness analysis; structural defects remain distinct.
-- Chapman, 386 U.S. 18 — applied on federal habeas to this preserved Doyle claim with its burden unchanged.
-- Kotteakos, 328 U.S. 750 — not extended to replace Chapman here; its existing nonconstitutional-error operation remains.
+- Chapman, 386 U.S. 18 — applied on federal habeas to preserved constitutional trial error properly reached, including this Doyle claim, with its burden unchanged.
+- Kotteakos, 328 U.S. 750 — not extended to replace Chapman for constitutional trial error on habeas; its existing nonconstitutional-error operation remains.
 - Rose, 478 U.S. 570, and Yates, 500 U.S. 391 — continuity supported; prior assumed use is not misdescribed as a square holding on this distinction.
 - Stringer, Sochor, Espinosa and Richmond — unchanged: actual correction of capital weighing errors remains distinct.
 - Sawyer and Herrera — not extended into a universal innocence requirement for review of preserved trial error.
+- Teague, 489 U.S. 288 — preserved: with exhaustion, procedural default and the limits on successive applications, it still decides whether a claim may be heard.
 
 ### Law After Decision
 
-Effective April 21, Chapman expressly governs this preserved Doyle claim on habeas. Kotteakos is not adopted as a general constitutional-habeas standard. Other habeas gates, structural doctrine and capital-weighing correction are unchanged.
+Effective April 21, Chapman governs preserved constitutional trial error properly before a federal habeas court, including this Doyle claim. Kotteakos is not adopted as a general constitutional-habeas standard. Other habeas gates, structural doctrine and capital-weighing correction are unchanged.
 
 No general Kotteakos standard for constitutional error on habeas is adopted. Existing claim-specific gates and remedies survive.
 
 ### Separate Writings
 
-White, joined by Blackmun and by Souter in Part A with an express reservation of Powell’s merits, concurs that section 2254 and the Court’s constitutional practice more broadly resist giving the same error different remedial force solely because direct review has ended. White and Blackmun alone also question the reliability of a rigid trial-error/structural-defect taxonomy; that reservation does not undo their join in the classification of this Doyle error. O’Connor concurs on the importance of confidence in verdict accuracy and the administrative costs of multiplying harmless-error categories. She accepts that direct and collateral review can differ, but finds no sufficient justification for diluting Chapman here.
+White, joined by Blackmun and by Souter in Part A with an express reservation of Powell’s merits, concurs that section 2254 and the Court’s constitutional practice more broadly resist giving the same error different remedial force solely because direct review has ended. White and Blackmun alone also question the reliability of a rigid trial-error/structural-defect taxonomy; that reservation does not undo their join in the classification of this Doyle error. O’Connor concurs on the importance of confidence in verdict accuracy and the administrative costs of multiplying harmless-error categories. She accepts that direct and collateral review can differ, but finds no sufficient justification for diluting Chapman for preserved constitutional trial error on collateral review.
 
 Kennedy, joined by Scalia and Thomas, would affirm. Finality, comity and the limited collateral role justify asking whether the violation substantially and injuriously affected the verdict under Kotteakos. Lawful prewarning impeachment and the physical and circumstantial evidence make the improper references cumulative on this record. The dissent does not recast Doyle as nonconstitutional or treat structural defects as ordinary trial errors. It leaves open, without adopting an exception, whether an especially egregious deliberate error or a pattern of misconduct could independently undermine the proceeding’s integrity despite no substantial verdict effect. Stevens separately would affirm under Kotteakos, as anticipated by his Greer concurrence. He emphasizes a demanding independent review of the entire record, the prosecution’s obligation to explain harmlessness and the error’s actual influence on the factfinder rather than a bare sufficiency-of-evidence test. His reasoning and the principal dissent remain noncontrolling.
 
@@ -1067,7 +1069,7 @@ Affirm in part, reverse in part and remand; Miranda review 6–3, notice reversa
 
 Effective April 21, no Powell bar to the presented Miranda review; distinct notice/consent requirement applied. No automatic writ, coercion finding or universal rule for prophylactic safeguards.
 
-The same-day Brecht decision expressly governs preserved Doyle error; it creates no general Kotteakos rule and is not automatically enlarged to decide every Miranda harmless-error question.
+The same-day Brecht decision governs preserved constitutional trial error on habeas; it creates no general Kotteakos rule and does not itself decide every Miranda harmless-error question.
 
 ### Separate Writings
 
@@ -1077,7 +1079,7 @@ Scalia, joined by Thomas, also joins the notice ruling but would remand for a de
 
 ### Procedure After Action
 
-Supreme Court review complete; mixed appellate judgment remanded. Miranda review remains available and its remedial consequence requires proper analysis. The independent voluntariness ruling is reversed without deciding its merits; lawful presentation and ordinary gates precede new adjudication. Same-day Brecht operates prospectively within its Doyle scope, not as an invented prior event or blanket Miranda rule.
+Supreme Court review complete; mixed appellate judgment remanded. Miranda review remains available and its remedial consequence requires proper analysis. The independent voluntariness ruling is reversed without deciding its merits; lawful presentation and ordinary gates precede new adjudication. Same-day Brecht operates prospectively within its scope of preserved constitutional trial error, not as an invented prior event or blanket Miranda rule.
 
 ### Source Notes
 

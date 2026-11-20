@@ -259,8 +259,8 @@ Event date: 1995-02-21.
 Source line 64:
 
 > Stone is in the seven-member vacatur coalition and the five-member Chapman coalition, so he assigns the Court opinion.
-> He assigns it to O'Connor because her actual Brecht concurrence already addresses accuracy and the cost of multiplying harmless-error categories, while her frozen commitment permits the case-specific formulation necessary to retain Ginsburg and Breyer.
-> The opinion states the five-Justice instructional rule in Part II and the broader proposed extension in a distinct Part III.
+> He assigns it to O'Connor because her actual Brecht concurrence already addresses accuracy and the cost of multiplying harmless-error categories, the grounds on which Brecht's general rule governs this claim.
+> The opinion applies that rule to the instructional claim in Part II and explains in Part III that, because Brecht already states the general rule, no category-specific extension or broader separate proposal is needed.
 
 ### OT1994/Anderson_v_Green_decision_1995-02-22.md
 

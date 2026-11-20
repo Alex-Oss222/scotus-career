@@ -44,7 +44,7 @@ The event-date research cutoff and inventory-based merits submission are stated 
 
 After forming the seven decisions, the public Event, Law After Decision and Procedure blocks of all five later 2004 Records were inspected, plus the relevant Rancho Viejo, Environmental Defense Center and County of Hudson holdings. They supplied no earlier entering-law premise.
 
-- Rancho Viejo: Ho regulates the actual abatement service and preserves Home Builders's enacted-class distinction. It leaves Rancho's wildlife-taking class, two supported mechanisms and remand intact.
+- Rancho Viejo: Ho regulates the actual abatement service and preserves Home Builders's enacted-class distinction. It leaves Rancho's wildlife-taking class, necessary-inclusion ground and affirmance intact.
 - Environmental Defense Center: Ho creates no automatic Commerce answer for a broader discharge class. The completed commandeering and operational-information holdings remain distinct. Greenville's religious civil authority and intimate-record-transfer rules do not alter the confined factual operational-message holding.
 - County of Hudson: Barnhart preserves actual delegation, authorized mechanism and statutory bounds. Greenville addresses intimate-clinic access and disclosure; Hudson channels covered federal-custody public requests through valid federal disclosure law. Neither decision creates a contrary general publication entitlement or displaces Hudson's separate APA exceptions.
 - Lomont: unconditional refusal of voluntary certification remains distinct from Greenville's actual medical-qualification/private-control inquiry. Ho changes neither official injury nor voluntary federal assistance.

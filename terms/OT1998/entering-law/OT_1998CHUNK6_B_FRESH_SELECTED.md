@@ -321,13 +321,13 @@ Copied from `OT_1998CHUNK6_B.md`.
 
 **Proposition-level authority:** Opinion of the Court (O'Connor). O'Connor's Part IV, joined by all nine; gateway availability is assumed.
 
-**Material application:** Griffin v. California forbids use of the accused's trial silence as inculpatory proof. The prosecutor acknowledged inconclusive handwriting evidence and uncertainty whether the matches belonged to Lucas or the victim, then attributed knowledge to Lucas. The final reference can be troubling in isolation, but the reported paragraph explains why ownership does not determine guilt rather than asking the jury to use silence against him. No responsive defense argument, curative instruction or larger unproduced passage is supplied. The Court does not adopt the lower court's alternative substantial-and-injurious-effect analysis. Brecht v. Abrahamson and O'Neal v. McAninch retain their category-specific Chapman holdings; this no-error conclusion neither extends them universally nor selects a new test for Griffin error.
+**Material application:** Griffin v. California forbids use of the accused's trial silence as inculpatory proof. The prosecutor acknowledged inconclusive handwriting evidence and uncertainty whether the matches belonged to Lucas or the victim, then attributed knowledge to Lucas. The final reference can be troubling in isolation, but the reported paragraph explains why ownership does not determine guilt rather than asking the jury to use silence against him. No responsive defense argument, curative instruction or larger unproduced passage is supplied. The Court does not adopt the lower court's alternative substantial-and-injurious-effect analysis. Brecht v. Abrahamson's general Chapman rule for preserved constitutional trial error properly before a federal habeas court, which O'Neal v. McAninch applied, is not reached; this no-error conclusion makes no harmlessness determination.
 
 **Treatment of earlier authority:**
 
 - Griffin applies to the actual contextual use of silence, not every reference to personal knowledge.
-- Brecht retains its protected-silence category; its historical alternative is not adopted here.
-- O'Neal retains its personal-intent and conditional-relief holdings without a universal extension.
+- Brecht's general Chapman rule for preserved constitutional trial error on habeas remains intact and is not reached; its historical alternative is not adopted here.
+- O'Neal retains its application of Brecht's general rule to personal-intent error and its conditional-relief holding.
 
 
 ## Standards and Tests selection: Advance plea-statement waivers for impeachment

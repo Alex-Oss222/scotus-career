@@ -7,7 +7,7 @@ All thirteen scheduled chunk 6 events are completed. No matter is stopped and no
 | Matter | Disposition and exact vote | Lead author |
 |---|---|---|
 | Johnson & Johnston Associates Inc. v. R.E. Service Co., Inc. | Federal Circuit affirmed, 9–0; the expressly disclosed steel substitute cannot support equivalents infringement under claims 1 and 2 of Patent No. 5,153,050, and the dependent willfulness and monetary awards remain removed. | Scalia |
-| Smith v. Doe | Reverse the Ex Post Facto judgment and remand, 5–4. | O'Connor |
+| Smith v. Doe | Affirm the Ex Post Facto judgment, 5–4. | Ginsburg |
 | United States v. Bach | Affirm the Eighth Circuit judgment, 9–0. | Stone-Zsela |
 | United States v. Wheat | Affirm the reviewed judgment against the initial-stop challenge, 5–4. | Breyer |
 | Cook County v. United States ex rel. Chandler | Seventh Circuit affirmed, 9–0; Cook County is a person subject to the private-relator False Claims Act action, which proceeds under the operative liability and remedial provisions. | Stevens |
@@ -32,7 +32,7 @@ During initial Run publication review, the full Henderson authority caption in t
 
 ## Coalitions, approved position and assignments
 
-Independent A, B and C assembly reviews tested every judgment component, proposition coalition, partial join and substantive separate writing against the final frozen grounds and approved position. Smith has a unanimous abstract framework but four application-plurality votes and Souter's independent judgment route; no five-Justice application synthesis is claimed. Buckland has nine statute-validity votes, six binding-range proposition joins, five for the entered limited appellate remand, three for sentence affirmance and one for immediate sentence vacatur. CRLP has five votes for its exact speech/equality mandate, Stone's distinct scrutiny-remand position and three affirmance votes; its separate international remand has six votes and the standing and notice rulings are unanimous. These relationships are not flattened into compound majority counts.
+Independent A, B and C assembly reviews tested every judgment component, proposition coalition, partial join and substantive separate writing against the final frozen grounds and approved position. Smith has a unanimous abstract framework, a five-Justice Part II application and remedy, and a four-Justice Part III clearest-proof ground; no Marks synthesis is used. Buckland has nine statute-validity votes, six binding-range proposition joins, five for the entered limited appellate remand, three for sentence affirmance and one for immediate sentence vacatur. CRLP has five votes for its exact speech/equality mandate, Stone's distinct scrutiny-remand position and three affirmance votes; its separate international remand has six votes and the standing and notice rulings are unanimous. These relationships are not flattened into compound majority counts.
 
 The Chief's leading positions remain active where their stated factual/legal conditions persist; a contrary majority alone activates no conditional alternative. No standing fallback was needed. Odom and Kendrick retain his distinct conditional remedial presumptions in noncontrolling concurrences. Routine transition restatements are not published as separate legal work.
 

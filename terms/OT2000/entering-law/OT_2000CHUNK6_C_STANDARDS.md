@@ -96,7 +96,7 @@ When a capital jury asks whether proof of an aggravator makes death mandatory, t
 
 **Holdings navigation:** Graham v. Collins, 506 U.S. 461 (1993).
 
-**Exceptions and limits:** Buchanan's original-charge holding survives. A constitutional response error is distinct from statutory habeas eligibility and actual effect on sentence. In Weeks's jury-response category, no majority chooses the effect standard, burden or treatment of uncertainty; the receiving court must resolve those questions consistently with the existing category-specific holdings before granting relief. No automatic writ, general Chapman extension or blanket substantial-and-injurious-effect rule follows.
+**Exceptions and limits:** Buchanan's original-charge holding survives. A constitutional response error is distinct from statutory habeas eligibility and actual effect on sentence. Weeks's jury-response error returns for effect review under Brecht's general rule, with the State bearing the burden of establishing beyond a reasonable doubt, on the complete record, that the error did not contribute to the actual death sentence; the receiving court must complete that inquiry before granting relief. No automatic writ or blanket substantial-and-injurious-effect rule follows.
 
 ## Standards and Tests selection: State-court merits decisions and factual development under amended
 

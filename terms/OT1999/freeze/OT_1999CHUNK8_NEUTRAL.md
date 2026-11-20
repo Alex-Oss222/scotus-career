@@ -278,7 +278,7 @@ Any decision removing a categorical legal bar must separately determine what rem
 
 ## Source: OT_1999CHUNK8_RAMDASS_NEUTRAL.md
 
-SHA256: a4090b53d0c11f364e661505d7de914a1598e2eabdad61858411ed34aa06f790
+SHA256: cfa6ce5c8bf95bb448c637479d13bc2d62156ed50fc4f399bf2e82262bcb2f6a
 Complete stage file copied.
 
 # Ramdass v. Angelone — fresh neutral validation
@@ -346,7 +346,7 @@ Terry Williams, April 18, 2000, supplies the current construction of section 225
 
 ## Remedy, uncertainties, and readiness
 
-An available violation does not automatically establish harmfulness or an operative writ. The simulated Brecht and O'Neal holdings have defined categories; the public Weeks and O'Dell treatments preserve the unresolved error-effect standard for distinct capital-information or response claims. Simmons's direct-review remedy does not by itself settle this collateral question. A proposed application or extension must specify the standard, burden, and treatment of uncertainty, or reach a supported outcome under each material alternative. No structural-error classification is established.
+An available violation does not automatically establish harmfulness or an operative writ. The simulated Brecht holding states a general rule placing the Chapman burden on the State for preserved constitutional trial error properly reached on federal habeas, and O'Neal applies it; the public Weeks and O'Dell treatments leave the effect determination for distinct capital-information or response claims to that governing standard. Simmons's direct-review remedy does not by itself settle this collateral question. A proposed application must apply that standard on the whole relevant record. No structural-error classification is established.
 
 Any ultimate relief concerns the death sentence and a constitutionally adequate penalty proceeding or lawful noncapital disposition, subject to the actual holding and conditional-writ terms. A remand to resolve legal or causal predicates creates no immediate writ, new hearing entitlement, sentencing deadline, release, stay, or authority to adjudicate unrelated claims.
 

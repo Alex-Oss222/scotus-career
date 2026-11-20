@@ -41,7 +41,7 @@ Stone's approved program-benefit rule and affirmance are complete. Medicare's co
 
 ### Morrison / Brzonkala
 
-The approved Commerce Clause position contains its own market, anti-evasion and interstate-externality categories and rejects a categorical noneconomic exclusion. It must be tested against the actual effective simulated Lopez/Hiley line, not substituted with the historical Morrison majority's categories. The separately stated §5 position addresses the private-assailant remedy and preserves the possibility of a remedy directed to unconstitutional state conduct; do not collapse it into a denial of every congressional response to discriminatory state enforcement. Both consolidated dockets and both asserted grants of power must receive component treatment. Title IX claims outside the grant remain outside it. No missing Stone threshold choice was identified in the supplied core.
+The approved Commerce Clause position contains its own market, necessary-inclusion and interstate-externality categories and rejects a categorical noneconomic exclusion. It must be tested against the actual effective simulated Lopez/Hiley line, not substituted with the historical Morrison majority's categories. The separately stated §5 position addresses the private-assailant remedy and preserves the possibility of a remedy directed to unconstitutional state conduct; do not collapse it into a denial of every congressional response to discriminatory state enforcement. Both consolidated dockets and both asserted grants of power must receive component treatment. Title IX claims outside the grant remain outside it. No missing Stone threshold choice was identified in the supplied core.
 
 ### Johnson
 

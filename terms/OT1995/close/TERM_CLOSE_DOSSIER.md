@@ -49,7 +49,7 @@ Every entry incorporates the full linked Record, including component votes, opin
 | 1995-10-10 | [Wood v. Bartholomew; No. 94-1419.](../records/Wood_v_Bartholomew_certiorari_1995-10-10.md) | Certiorari granted for plenary consideration. No merits judgment entered. Internal disposition alignment: five oppose summary disposition, four favor summary reversal; all nine grant the presented question. The petition poll is not published. |
 | 1995-10-16 | [Doe v. Taylor Independent School District; Fifth Circuit No. 90-8431; no separate Supreme Court docket supplied.](../records/Doe_v_Taylor_ISD_merits_1995-10-16.md) | Affirmed and remanded: denial of Lankford’s immunity, 5–4; Caplinger’s immunity, 9–0 in judgment, on an eight-Justice notice rationale; pure factual-sufficiency review excluded unanimously. |
 | 1995-10-23 | [Hodge v. Jones; Fourth Circuit No. 93-1182; no separate Supreme Court docket supplied.](../records/Hodge_v_Jones_merits_1995-10-23.md) | Judgment for individual defendants affirmed, 9–0; eight Justices rest damages on qualified immunity, while Stone-Zsela concurs on the merits. Prospective expunction/declaratory relief is moot, unanimously. |
-| 1995-10-30 | [Tuggle v. Netherland; No. 95-6016; reported identifier 516 U.S. 10.](../records/Tuggle_v_Netherland_summary_merits_1995-10-30.md) | Challenged Ake and sentence-review component vacated and remanded, 9–0; unanimous opinion by Stevens; no collateral error-effect standard selected. |
+| 1995-10-30 | [Tuggle v. Netherland; No. 95-6016; reported identifier 516 U.S. 10.](../records/Tuggle_v_Netherland_summary_merits_1995-10-30.md) | Challenged Ake and sentence-review component vacated and remanded, 9–0; unanimous opinion by Stevens; applicability of harmless-error review reserved. |
 | 1995-10-31 | [Citizens Bank of Maryland v. Strumpf, No. 94-1340](../records/Citizens_Bank_of_Maryland_v_Strumpf_merits_1995-10-31.md) | Reverse and remand for proceedings consistent with the opinion, 9–0. |
 | 1995-10-31 | [Louisiana v. Mississippi et al., No. 121, Original](../records/Louisiana_v_Mississippi_original_exceptions_1995-10-31.md) | Exceptions overruled; report adopted at the stated scope; new hearing denied; verified decree directed; original jurisdiction retained, all 9–0 in judgment. |
 | 1995-11-07 | [Libretti v. United States, No. 94-7427](../records/Libretti_v_United_States_merits_1995-11-07.md) | Affirm the Tenth Circuit on the questions reviewed, 8–1; no new forfeiture proceeding ordered. |
@@ -382,9 +382,9 @@ Published-file verification digests:
 | [HOLDINGS](../../../state/HOLDINGS.md) | `c872e60dd054c6fe68303cfe22d10ad640898cd496e4cb3643eb73f2ed8e0f7e` |
 | [STANDARDS_AND_TESTS](../../../state/STANDARDS_AND_TESTS.md) | `89a0717d8c463a53544f2521f75c9541ebec64f9f205bf345b00eb5a0a5fa6e7` |
 | [STANDING_STATE](../../../state/STANDING_STATE.md) | `e3a9d0666940d71c9c963b7bfc125af7278e2933d1c22f1040cd3a55e87c53e7` |
-| [INDEX.md](../INDEX.md) | `4df67c9462dcac8a9ebaf57083638bd0dd35bdd3916103446768c3d83892a7bf` |
-| [SEPARATE_WRITINGS.md](SEPARATE_WRITINGS.md) | `fcfc3c68d59b78463f285fca741872363fa4bc34d9f260c1d434c1b596a1afa4` |
-| [DEPARTURES.md](DEPARTURES.md) | `959aa029f5a657485d71bf240ab831b86a5f2b4c2c73792d940a4f1027064e4b` |
+| [INDEX.md](../INDEX.md) | `62cac58431f3f53221e5e46641bda41fb1f0f1064c9cee8f3a84a988657b5fd2` |
+| [SEPARATE_WRITINGS.md](SEPARATE_WRITINGS.md) | `7c65ae61cf757929940b207f3be336d45df5e13df1c977a9a333c6aedc9404c2` |
+| [DEPARTURES.md](DEPARTURES.md) | `626c33ca99f9b694b57ad92bdbdd1b8ea62926c92e037f511f739f8b26d7ef88` |
 | [CONSEQUENCES.md](CONSEQUENCES.md) | `3246fbfd627b2c18faa33147d458a1136b0e544a8be3c9573f9496377eb06669` |
 
 The full state/index hash manifest and resume verification evidence are preserved in [publication_verification.json](../../../tmp/ot1995_close_resume_2026-10-07/publication_verification.json). The resume snapshots supplement the original preparation snapshots above. Cleanup completed after this successful verification: the three candidates and all five temporary pass notes were removed. The close directory retains one AUDIT.md, this dossier, the three generated close indexes and its existing .gitkeep.

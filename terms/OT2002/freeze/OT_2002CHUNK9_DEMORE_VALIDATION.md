@@ -24,7 +24,7 @@ The neutral procedural sources use Patterson and Kennedy's Jenkins writing befor
 
 The unsigned procedural form was selected for the order's legal work before any assignment. It issues no signed lead or decided merits proposition, so there is no assigning Justice, eligible-author set, balance pool or author to select. It contributes zero counted leads. Stone's proof proposal has no separate-writing function in an order that leaves the merits pending; no separate merits opinion is published.
 
-The independent section 8 recount, unused for an assignment, verifies 92 signed plenary leads before Demore. It reads authors from actual opinion topologies, includes Smith v. Doe's partial Court lead once for O'Connor, excludes per curiam and procedural actions, and applies alphabetical order within the date. No April 29 case precedes Demore alphabetically. The last counted lead is Lawall, April 28, Ginsburg.
+The independent section 8 recount, unused for an assignment, verifies 92 signed plenary leads before Demore. It reads authors from actual opinion topologies, includes Smith v. Doe's partial Court lead once for Ginsburg, excludes per curiam and procedural actions, and applies alphabetical order within the date. No April 29 case precedes Demore alphabetically. The last counted lead is Lawall, April 28, Ginsburg.
 
 | Justice | Count before Demore |
 |---|---:|

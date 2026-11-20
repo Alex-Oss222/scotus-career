@@ -24,7 +24,7 @@ Lawful channel: 28 U.S.C. §1254(1), certiorari to the identified federal court 
 
 Opening trackers: state/HOLDINGS.md, state/STANDARDS_AND_TESTS.md, state/STANDING_STATE.md. Identical header values: Last completed October Term: 1991; Processed through: July 17, 1992, after Benten v. Kessler.; Edition: September 15, 2026. The live Standing State includes the OT1991 Coleman correction. The opening law plus the effective additions indexed in workspace.md supplies current law; no tracker is changed.
 
-At finality in 1987, Cupp supplied whole-charge fundamental fairness, while Patterson and Martin v. Ohio distinguished the State’s burden on offense elements from permissible allocation concerning affirmative defenses. Teague and its then-existing substantive and watershed exceptions govern this collateral proceeding. Entered Estelle (December 4, 1991) applies reasonable-likelihood review to the whole charge; as a later exposition it is not treated as an opinion available at 1987 finality. Entered Graham (January 25, 1993) finds its capital effective-mitigation rule dictated by the earlier capital authorities, not by judicial agreement alone. Fretwell does not decide this instructional question. Brecht’s preserved-Doyle Chapman rule and Sullivan’s vitiated reasonable-doubt holding do not eliminate Teague’s threshold.
+At finality in 1987, Cupp supplied whole-charge fundamental fairness, while Patterson and Martin v. Ohio distinguished the State’s burden on offense elements from permissible allocation concerning affirmative defenses. Teague and its then-existing substantive and watershed exceptions govern this collateral proceeding. Entered Estelle (December 4, 1991) applies reasonable-likelihood review to the whole charge; as a later exposition it is not treated as an opinion available at 1987 finality. Entered Graham (January 25, 1993) finds its capital effective-mitigation rule dictated by the earlier capital authorities, not by judicial agreement alone. Fretwell does not decide this instructional question. Brecht’s Chapman rule for preserved constitutional trial error and Sullivan’s vitiated reasonable-doubt holding do not eliminate Teague’s threshold.
 
 Standards and Tests: no opening Falconer-specific rule is listed. The controlling Estelle holding in opening Holdings and current-term Graham supply their actual scopes; Teague’s newness inquiry remains tied to law at finality. No post-event restriction on the watershed exception is used.
 
@@ -86,7 +86,7 @@ Chief Justice Stone-Zsela assigns O’Connor the Court opinion, which states the
 
 - Teague, 489 U.S.288: both the substantive and watershed exceptions applied in their event-date form.
 - Sawyer v. Smith, 497 U.S.227: the demanding watershed category applied; importance of a procedural protection alone is insufficient.
-- Brecht v. Abrahamson, April 21, 1993: the entered preserved-Doyle Chapman holding remains distinct; harmlessness is not reached here.
+- Brecht v. Abrahamson, April 21, 1993: the entered Chapman holding for preserved constitutional trial error remains distinct; harmlessness is not reached here.
 - Sullivan v. Louisiana, June 1, 1993: the absence of a valid reasonable-doubt verdict is a different instructional defect and does not bypass Teague in this case.
 
 ## Law after decision

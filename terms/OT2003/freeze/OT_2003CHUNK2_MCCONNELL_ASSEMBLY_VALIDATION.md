@@ -52,7 +52,7 @@ The exact four opening labels and natural-key filename were checked. The bounded
 
 ## Completed later-record screen
 
-After fixing all present holdings, the assembly context read only the public Event, Law After Decision and Procedure After Action blocks of Rancho Viejo, Lomont, Environmental Defense Center, ACLU of New Jersey v. County of Hudson and West Virginia v. HHS. Their actual interstate-mechanism remand, voluntary certification, operational stormwater information, custodial confidentiality and conditional-funding premises remain distinct from the present election sources, private-finance structure, electoral information and supported request-file functions. The Record supplies the case-by-case comparison. No concrete displaced predicate was found; no prior adjudication is altered and no later law enters the present holding.
+After fixing all present holdings, the assembly context read only the public Event, Law After Decision and Procedure After Action blocks of Rancho Viejo, Lomont, Environmental Defense Center, ACLU of New Jersey v. County of Hudson and West Virginia v. HHS. Their actual necessary-inclusion affirmance, voluntary certification, operational stormwater information, custodial confidentiality and conditional-funding premises remain distinct from the present election sources, private-finance structure, electoral information and supported request-file functions. The Record supplies the case-by-case comparison. No concrete displaced predicate was found; no prior adjudication is altered and no later law enters the present holding.
 
 ## Durable artifacts
 
@@ -62,6 +62,6 @@ After fixing all present holdings, the assembly context read only the public Eve
 
 Record and handoff hashes follow. Source and assignment data remain in their named internal artifacts. Root may now perform coordinated projections and the remaining chunk checks.
 
-**Record SHA-256:** `5c49bd07bfd4f086ac6cd9a797793a6f0ec23ee4dd2c47b78f149428710f7b54`
+**Record SHA-256:** `bb76af06d777dde5c69185e2468f0f0b9d6d634305cdc35e4c7c305c5a8868d2`
 
 **Public handoff SHA-256:** `0017ad2a4b0c22f6b466355cf117424cb6d3981d18f9133c6a976f4091ac97a3`

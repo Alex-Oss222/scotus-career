@@ -184,7 +184,7 @@ The arrest-based exclusion ground is removed and the Maryland courts conduct ord
 
 ## Affected later-public-law screen after the present holdings were fixed
 
-This screen followed fixation of Pringle’s final P1–P3 grounds and joins. None of the five completed later decisions rests on a passenger-guilt presumption or an inference of shared possession: Rancho Viejo requires an actual interstate mechanism for the enacted wildlife-taking class; Lomont requires concrete official injury and actual unconditional refusal; Environmental Defense Center retains its operational permit alternative and independently justified information duties; ACLU of New Jersey requires actual custody-and-records delegation, separate APA grounds and a covered-information conflict; West Virginia v. HHS examines its enacted recovery condition and the genuine practical choice under an actual funding consequence. Pringle’s cumulative criminal-probability application neither supplies facts in those records nor lowers their respective source, support, fit or practical-operation requirements. No necessary later premise, disposition or mandate is displaced, and no completed Record is reopened. The later public decisions served only this consequence screen, never present merits law.
+This screen followed fixation of Pringle’s final P1–P3 grounds and joins. None of the five completed later decisions rests on a passenger-guilt presumption or an inference of shared possession: Rancho Viejo sustains the taking prohibition for the enacted wildlife-taking class as an integral, reasonably adapted part of the Endangered Species Act’s valid interstate scheme; Lomont requires concrete official injury and actual unconditional refusal; Environmental Defense Center retains its operational permit alternative and independently justified information duties; ACLU of New Jersey requires actual custody-and-records delegation, separate APA grounds and a covered-information conflict; West Virginia v. HHS examines its enacted recovery condition and the genuine practical choice under an actual funding consequence. Pringle’s cumulative criminal-probability application neither supplies facts in those records nor lowers their respective source, support, fit or practical-operation requirements. No necessary later premise, disposition or mandate is displaced, and no completed Record is reopened. The later public decisions served only this consequence screen, never present merits law.
 
 ## Sources and completed assembly validation
 
@@ -535,11 +535,11 @@ Paths below are relative to this term. Original snapshots are retained for repro
 | `freeze/OT_2003CHUNK2_PRINGLE_HOUGHTON_MODEL_SCREEN.md` | `91ca6a2b65a7b6fe66048abc48cfcee36b45451647d0ca220a8032169a1f63df` |
 | `entering-law/OT_2003CHUNK2_PRINGLE_HOUGHTON.md` | `0ec3e39c0006153a50429dbedf3852b667468008c6702c0f778aa35844fc08c3` |
 | `freeze/OT_2003CHUNK2_NEUTRAL.md` | `e21d7bd70e7e245b8092b421f776fe7310f204754e40297bdeeed1c4169fe227` |
-| `entering-law/OT_2003CHUNK2_B.md` | `4e50ffae841ef5502212fdbb8564d79bd5d7f083b4bcbb1e333d4c82146c4766` |
+| `entering-law/OT_2003CHUNK2_B.md` | `e7000f0e0803ebf1830d13673c382e03aa618b14a8903f7ec89daa20af11a195` |
 | `freeze/OT_2003CHUNK2_MCCONNELL_PUBLIC.md` | `0017ad2a4b0c22f6b466355cf117424cb6d3981d18f9133c6a976f4091ac97a3` |
 | `freeze/OT_2003CHUNK2_DEATON_RECONCILED.md` | `cfd061377f11f1070ce00f4367dd4df84c865f886976d6e2c98508747de5a182` |
 | `freeze/OT_2003CHUNK2_CASTRO_RECONCILED.md` | `efa76c6866cec6bb1a90a6859bcce06a7b6004200fb5cf599e8594a347e5562a` |
-| `freeze/OT_2003CHUNK2_DEATON_PRINGLE_RECONCILIATION_VALIDATION.md` | `06d80c1cd2a71e56dd3aebc92398cc615ac508c20484cae21066fa963c5649c6` |
+| `freeze/OT_2003CHUNK2_DEATON_PRINGLE_RECONCILIATION_VALIDATION.md` | `d2b0396c665bbeb273eb85c5fec1ba201398c1d519af2b542ded5d4f36687d5f` |
 | `freeze/OT_2003CHUNK2_FINAL_PUBLIC_LAW_MODEL_SCREEN.md` | `d72181bd1b454bb32702de147d2da7c7db6a5daa0767c34b6798c9d63dbf3f56` |
 | `freeze/OT_2003CHUNK2_GREENVILLE_PUBLIC_COMPLETENESS.md` | `e2d7a9b30f983153c7b0485bb3e2fdb25183821eda9954085224eebb678cd813` |
 | `freeze/OT_2003CHUNK2_VIRGINIA_PUBLIC_COMPLETENESS.md` | `698cef9ea31c34296f51b9d9f61839df09191f09433cc9c01a2e67721376e43d` |
