@@ -2,7 +2,7 @@
 
 **Stage:** Historical reconciliation of matters 26–28, before Stone and assembly. Harris and Grubart are reconciled below. NTEU's merits and class/nonparty-remedy components are reconciled; its named GS–16 respondent Crane component remains held for the independent neutral source and renewed modeling checkpoint. This file must not be used to assemble a final NTEU mandate until that component is resolved. O'Neal remains stopped and its comparator was not read.
 
-**Lineage and mode:** The original [associate commitments](OT_1994CHUNK3_COMMITMENTS_A.md) remain byte-identical, SHA256 `8b115585b713ebc346bfb8a5213e8596520c2d20c7fe57e6eb7485eb4a99f2d6`. This separately saved reconciliation corrects unsupported model inferences; it does not rewrite a completed adjudication. Disclosed single-conversation fallback, with earlier unrelated B exposure retained, not a claim of blindness. Current A historical comparison is now deliberately authorized. No current Stone packet, combined user brief, private Record, ledger, or continuity was opened. No Git command was used.
+**Lineage and mode:** The original [associate commitments](OT_1994CHUNK3_COMMITMENTS_A.md) remain byte-identical, SHA256 `38b1b80c278b285c3eeb2d3d3107d9809c19d76bb799c920ce30a26042fcbad1`. This separately saved reconciliation corrects unsupported model inferences; it does not rewrite a completed adjudication. Disclosed single-conversation fallback, with earlier unrelated B exposure retained, not a claim of blindness. Current A historical comparison is now deliberately authorized. No current Stone packet, combined user brief, private Record, ledger, or continuity was opened. No Git command was used.
 
 ## Sources, dates, and method
 

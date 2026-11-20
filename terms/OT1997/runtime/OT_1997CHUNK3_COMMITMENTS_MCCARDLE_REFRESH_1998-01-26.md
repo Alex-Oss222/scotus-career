@@ -4,7 +4,7 @@ This is a separate independent-model refresh for the January 29, 1998 event. The
 
 ## Complete actual baseline and sources
 
-Read the clean January 21 late-law addendum and the now-released `entering-law/OT_1997CHUNK3_LATE_CURRENT_LAW_1998-01-26.md`, SHA-256 `7d472982ee73b21202f2506cffc0aadffee0e739228294bf279b316fbafc3684`. Also read the complete actual public deltas for Allentown, Brogan, Oubre and Yankton, including all published separate grounds. The neutral chronology certifies that Lee, the January 21 trio and these four January 26 decisions complete the pre-event baseline. No pending event is needed for McCardle and none is predicted. Initial source, motion-history and review-scope qualifications remain unchanged.
+Read the clean January 21 late-law addendum and the now-released `entering-law/OT_1997CHUNK3_LATE_CURRENT_LAW_1998-01-26.md`, SHA-256 `d8a59876d28a4b785e0c8e8b86bcd97636193f98d3fcec3f210db1a7492cabba`. Also read the complete actual public deltas for Allentown, Brogan, Oubre and Yankton, including all published separate grounds. The neutral chronology certifies that Lee, the January 21 trio and these four January 26 decisions complete the pre-event baseline. No pending event is needed for McCardle and none is predicted. Initial source, motion-history and review-scope qualifications remain unchanged.
 
 ## Substantive effect on the actual alternatives
 

@@ -8,7 +8,7 @@ The context did not read the controlled-position split or full approved brief. N
 
 ## Disposition of affected work
 
-No reconciled commitment file, Decision Record, public projection, or public output was written by this context. No modeled or frozen source was changed. The original independent handoff remained `freeze/OT_2000CHUNK2_COMMITMENTS_JAN9.md`, SHA-256 `0CD5B7BD78D0630509D771B37973FB824AACF9D56A78E083A18B52A466D49F33`. The original comparator and neutral packets likewise remain source inputs, not edited products of this context.
+No reconciled commitment file, Decision Record, public projection, or public output was written by this context. No modeled or frozen source was changed. The original independent handoff remained `freeze/OT_2000CHUNK2_COMMITMENTS_JAN9.md`, SHA-256 `43B2E489DD2505240F9E242C6B1AAC9B5650367D979B4FD0D91510ED930A9B1C`. The original comparator and neutral packets likewise remain source inputs, not edited products of this context.
 
 All five January 9 reconciliations require a fresh context with the authorized scope. The source-facts handoff `freeze/OT_2000CHUNK2_SWANCC_ADDITIONAL_SOURCE_FACTS.md` is separate and contains no controlled-position content or current-matter lineup. It requires fresh neutral validation and any necessary affected independent modeling before reconciliation. It preserves the source status of the newly identified empirical material and makes no legal-sufficiency determination.
 

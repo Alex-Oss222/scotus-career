@@ -141,9 +141,9 @@ SHA-256 values identify the supplied bytes read or selected for this receipt; th
 | `terms/OT1998/runtime/OT_1998CHUNK6_CONN_OBJECTIVE_RECORD.md` | `51dc0c9b1a3d7766c29c926551e3b169f1906ea0d1c67f0ac4fe8ed8ddf6a7b7` |
 | `terms/OT1998/runtime/OT_1998CHUNK6_MITCHELL_OBJECTIVE_RECORD.md` | `2da3b115cc64ce7264502d00bca84229d2d6770bf1166a71d172f402692a7c43` |
 | `terms/OT1998/runtime/OT_1998CHUNK6_MURPHY_STATUTE.md` | `78e504aa626ea84b1d16ba4d839de5a4e6d2a2cfa4a0d2115efda7a949170eaf` |
-| `terms/OT1998/workspace/neutral-projection.md` | `4096d59efa3648370749a9b41a87f30fe09d5e062d94a19471f78588555a12aa` |
-| `terms/OT1998/entering-law/OT_1998CHUNK6_B.md` | `46352f304a8bd2024c25c8f302fe7d38e25beef4c21de1475aa9bd23a7dbdcd7` |
-| `terms/OT1998/entering-law/OT_1998CHUNK6_B_FRESH_SELECTED.md` | `31a968be74f1aa5180ecee5efba1ee59c7ad00bf6cd5ec790a652bdf5bb0bc97` |
+| `terms/OT1998/workspace/neutral-projection.md` | `c14ef31e561e110b0d3ee7947d7882f455ee6b6144fba49c890591a1b32e1dbe` |
+| `terms/OT1998/entering-law/OT_1998CHUNK6_B.md` | `f1664d883d2fbbfcc7ef148e75ab80a9ee3f54b7bc3b9e04c6ea19c99f69f1d5` |
+| `terms/OT1998/entering-law/OT_1998CHUNK6_B_FRESH_SELECTED.md` | `6fe5cd5a485c7a58681b4cf51363b2800bbc3761ccabd3c4d18014e995794d0d` |
 | `terms/OT1998/entering-law/united_states_v_wright_merits_1998-10-05.md` | `9654d2962b002c860e84568c67c6a0b4d79d9eb426e38d01b472c92489bdd7c4` |
 | `terms/OT1998/entering-law/city_of_west_covina_v_perkins_merits_1999-01-13.md` | `d768b7bf45bce0f60055561441cbb1ea72deb4450fa9012d22a844f1d92cd899` |
 | `terms/OT1998/entering-law/haddle_v_garrison_merits_1998-12-14.md` | `7dad0bb209ae9c50a067ab330cf80600e4ede9573cca5cbfbeca414cde6c3a02` |

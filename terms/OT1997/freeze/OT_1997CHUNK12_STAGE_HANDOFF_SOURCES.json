@@ -45,42 +45,42 @@
     "stage": "COMMITMENTS",
     "case": "Bauchman v. West High School",
     "source": "OT_1997CHUNK12_COMMITMENTS_BAUCHMAN.md",
-    "sha256": "7210280e5e602f4b32151903927d5e9137bc770da3bbdb8505e3a1206e035e67",
+    "sha256": "30952b4681f3cc49a4a189b39c61acaa04957a9f313586760431bbb6fd64d0aa",
     "section": null
   },
   {
     "stage": "COMMITMENTS",
     "case": "Burlington Industries, Inc. v. Ellerth",
     "source": "OT_1997CHUNK12_COMMITMENTS_ELLERTH.md",
-    "sha256": "7c2ddac912988642271828f9516f95356a910980017f6c5ac8f9a5963533b693",
+    "sha256": "a7cd843a209e4b9c072156f7903622b510e4148ff486c2c4b185a0fe21587626",
     "section": null
   },
   {
     "stage": "COMMITMENTS",
     "case": "Monge v. California",
     "source": "OT_1997CHUNK12_COMMITMENTS_MONGE.md",
-    "sha256": "2ca697abdfd89eb574482b678a6ccd051c12d3b16f980b05f743e1540675cb88",
+    "sha256": "d0d2d2d94003208077ce8703f52b7f61b341a03590ecb60c7049b67160757834",
     "section": null
   },
   {
     "stage": "COMMITMENTS",
     "case": "Camilo-Robles v. Hoyos",
     "source": "OT_1997CHUNK12_COMMITMENTS_CAMILO.md",
-    "sha256": "4c98a8c3f731761a405b1cd9ef6741686f888257c434a23ef39ec05d6b7a122e",
+    "sha256": "5c79e8dcdba40f07abd9b2f0d8771c22d1f9d1d61f32e43afc6f8109ca36bfd8",
     "section": null
   },
   {
     "stage": "COMMITMENTS",
     "case": "Berryman v. Rieger",
     "source": "OT_1997CHUNK12_COMMITMENTS_BERRYMAN.md",
-    "sha256": "681e64e03ce554f9192baa3083b5fc2282d6b03c1cfa0463ff0095f60b80e289",
+    "sha256": "519e8cc910ca381302c7369fb260ae0f46548f327d352291585bd3d5e7d216b8",
     "section": null
   },
   {
     "stage": "COMMITMENTS",
     "case": "Brewster v. Board of Education",
     "source": "OT_1997CHUNK12_COMMITMENTS_BREWSTER.md",
-    "sha256": "6e55286a2893ed31f5c094f974e19d1ba91f4278fc6e0b8e12d489e3a4a67b3e",
+    "sha256": "8bc1f5f8a0807af7432a252c74f5fa803ba333adeaf01284f8f479d1731985af",
     "section": null
   },
   {
@@ -129,42 +129,42 @@
     "stage": "RECONCILED",
     "case": "Bauchman v. West High School",
     "source": "OT_1997CHUNK12_RECONCILED_BAUCHMAN.md",
-    "sha256": "14dbe40d51fa751903e08a8c49379b91bcfe39faea9de5de80cfbc238f2c2262",
+    "sha256": "6eba1237d3e7c39cca4f55913a4b1a3047206b093f4c5c30fee86edd69260598",
     "section": null
   },
   {
     "stage": "RECONCILED",
     "case": "Burlington Industries, Inc. v. Ellerth",
     "source": "OT_1997CHUNK12_RECONCILED_ELLERTH.md",
-    "sha256": "6b33f6a0c8df1f46115cf2007659de164bcbcedef360961b690bf97a8a1b1258",
+    "sha256": "9fd267e8deb67b4b500c1f107d75b9a45d4284c56437ad993027e7a6202d03fc",
     "section": null
   },
   {
     "stage": "RECONCILED",
     "case": "Monge v. California",
     "source": "OT_1997CHUNK12_RECONCILED_MONGE.md",
-    "sha256": "b9829445ecd6145333d261bc89fedb223fc693a97ec7012f2e6f1950f01f0d58",
+    "sha256": "b0f9ec5d23459f0e134de33b333bb8186b1a835b26345f9f3a61e5a9cd9b1914",
     "section": null
   },
   {
     "stage": "RECONCILED",
     "case": "Camilo-Robles v. Hoyos",
     "source": "OT_1997CHUNK12_RECONCILED_CAMILO.md",
-    "sha256": "7716cf6de157e78a0b7c43a5f8132d843f1e3495d0eb75137d28961e205f248d",
+    "sha256": "ebe69aad11af90066791487ffd47796ba0ab8f73e074d73f93945095e4f266b5",
     "section": null
   },
   {
     "stage": "RECONCILED",
     "case": "Berryman v. Rieger",
     "source": "OT_1997CHUNK12_RECONCILED_BERRYMAN.md",
-    "sha256": "7f0c000591e5dad525a7231f8baa393c2e8f1150c217c52e8cb035467a16c8ec",
+    "sha256": "591f0644bd547eba7e57a84bb80570dfb1a0016f5b10574491cd97b4c1f48893",
     "section": null
   },
   {
     "stage": "RECONCILED",
     "case": "Brewster v. Board of Education",
     "source": "OT_1997CHUNK12_RECONCILED_BREWSTER.md",
-    "sha256": "b6ecda5458ba445e2cd04d50bb6979d6f6609a834184c56f678995fe91fd3276",
+    "sha256": "7a17451672afc3964aebcb3673dce879c0fc227d191d2f12a9079c94228d902a",
     "section": null
   }
 ]

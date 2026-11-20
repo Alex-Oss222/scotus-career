@@ -2,7 +2,7 @@
 
 **Stage and cutoff:** Historical reconciliation; April 18, 2000. No Stone supplement, combined brief, private position or raw Decision Record was read. No same-day Terry Williams decision is entering law. This handoff is not a Court action and chooses no author.
 
-**Frozen base:** `../freeze/OT_1999CHUNK5_MICHAEL_WILLIAMS_COMMITMENTS.md`, SHA-256 `741d9d4fb4246fb2ae7723e80aff5153773ac96d5df734b6e56961292a7e99f6`, is incorporated, subject only to the express cause and formal-disposition clarifications below. The original model remains unchanged. All eight Associates retain the statutory construction, differentiated three-claim application, prior-law distinction and preserved other dispositions.
+**Frozen base:** `../freeze/OT_1999CHUNK5_MICHAEL_WILLIAMS_COMMITMENTS.md`, SHA-256 `71c92a52e3fbb514ccac27adc6b8775a8136493404d1b03607c21060aaea6612`, is incorporated, subject only to the express cause and formal-disposition clarifications below. The original model remains unchanged. All eight Associates retain the statutory construction, differentiated three-claim application, prior-law distinction and preserved other dispositions.
 
 ## Verified comparison and actual changed premise
 

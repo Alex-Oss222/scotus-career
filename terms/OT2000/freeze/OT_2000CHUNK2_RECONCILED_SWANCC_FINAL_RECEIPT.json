@@ -17,22 +17,22 @@
     {
       "path": "terms/OT2000/freeze/OT_2000CHUNK2_COMMITMENTS_SWANCC_REFRESH.md",
       "bytes": 39914,
-      "sha256": "8a570f7bbeee4609bdcec61c69a43485fa1c49e661085535493e8d8c6b8d1951"
+      "sha256": "afbaecb2f5f4b0ec2cb00f32c5c6d25a7ad58e7f5a922c1a2122b4f8ab4a2910"
     },
     {
       "path": "terms/OT2000/freeze/OT_2000CHUNK2_COMMITMENTS_SWANCC_REFRESH_RECEIPT.json",
       "bytes": 6113,
-      "sha256": "56e99f2801645433c71b336bd3f87af2c4ad80a9c5c12504741b7d72b4f0fd28"
+      "sha256": "bfcc6fb9cee918eb5919a250fa7c14c01d4310dd84a1e85852ab5319119ec3b6"
     },
     {
       "path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_swancc.md",
       "bytes": 7620,
-      "sha256": "5336e5a6992aad9cc38ad9e004deaf7b8166ee8db1bf4cac9ffbbfa3648273fc"
+      "sha256": "f3aeed852b9a108b655f106854767d925dd4b8ecc770f783d3713e275e283deb"
     },
     {
       "path": "terms/OT2000/entering-law/OT_2000CHUNK2_swancc.md",
       "bytes": 66793,
-      "sha256": "3f326aa36d9df0318085c432a6967f96ded01fcf9392ef64dc484fad294cb0a2"
+      "sha256": "6794075c94606908221f1ec4cfc861527367d800ac120cc4fcadab5fa913857f"
     },
     {
       "path": "terms/OT2000/entering-law/OT_2000CHUNK2_swancc_positions.md",
@@ -52,7 +52,7 @@
     {
       "path": "terms/OT2000/entering-law/OT_2000CHUNK2_homebuilders_positions.md",
       "bytes": 6553,
-      "sha256": "2fdee8e657d07472b2430eb446f70d55c37a11ae36dcb0eed2cf602163a04e05"
+      "sha256": "805813a0c3abd7f733f89767e062af69f4800002e93f68a09d84e946e354fa0e"
     },
     {
       "path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_SUPPLEMENT.md",
@@ -72,7 +72,7 @@
     {
       "path": "terms/OT2000/freeze/OT_2000CHUNK2_SWANCC_NEUTRAL_ADDITION.md",
       "bytes": 11004,
-      "sha256": "1d75663930f6ef214f7e2f65f875ffc079a41792d44afa93a3c60e45c2121a8d"
+      "sha256": "991a7a09a6503571eb61b59d6009d24da08a9f76587e8a09aff5a179a08e08d6"
     },
     {
       "path": "terms/OT2000/runtime/OT_2000CHUNK2_COMPARATOR_swancc.md",
@@ -112,12 +112,12 @@
     {
       "path": "terms/OT2000/runtime/OT_2000CHUNK2_RECONCILED_SWANCC_FINAL.md",
       "bytes": 56186,
-      "sha256": "507b801cf382e0d24616be2f685c072caa9b45099651bca4dc781644a50d64f4"
+      "sha256": "8307b3273e693516a718c93825a03a53941e05775bd0854f96b1129b9e337163"
     },
     {
       "path": "terms/OT2000/freeze/OT_2000CHUNK2_RECONCILED_SWANCC_FINAL.md",
       "bytes": 56186,
-      "sha256": "507b801cf382e0d24616be2f685c072caa9b45099651bca4dc781644a50d64f4"
+      "sha256": "8307b3273e693516a718c93825a03a53941e05775bd0854f96b1129b9e337163"
     }
   ],
   "byte_identity": true,

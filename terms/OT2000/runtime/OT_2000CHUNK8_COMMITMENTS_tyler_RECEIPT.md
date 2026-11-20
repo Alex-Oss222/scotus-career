@@ -14,8 +14,8 @@ Checks completed: eight named Associate sections; all specified components addre
 
 | Artifact | SHA-256 |
 |---|---|
-| `freeze/OT_2000CHUNK8_COMMITMENTS_tyler.md` | `c8e302a3bd7bf96b394e957c3197a003fbc0c3d8ec6bab3a15be7f10fcb641c1` |
-| `runtime/OT_2000CHUNK8_COMMITMENTS_tyler.md` | `c8e302a3bd7bf96b394e957c3197a003fbc0c3d8ec6bab3a15be7f10fcb641c1` |
+| `freeze/OT_2000CHUNK8_COMMITMENTS_tyler.md` | `9dd0e277ffc9ca1d362cba680949801670a90f2400d79c604179fbfa710146c3` |
+| `runtime/OT_2000CHUNK8_COMMITMENTS_tyler.md` | `9dd0e277ffc9ca1d362cba680949801670a90f2400d79c604179fbfa710146c3` |
 
 ## Authorized source identities
 
@@ -25,13 +25,13 @@ Checks completed: eight named Associate sections; all specified components addre
 | `freeze/OT_2000CHUNK8_TYLER_INSTRUCTION_SOURCE.md` | `3312713a6bf622e1e1e6277135213fca1bb6c68ddcc2d479998a7ce3c5d3b742` |
 | `freeze/OT_2000CHUNK8_TYLER_INSTRUCTION_VALIDATED.md` | `cf0e57a37ed796c8028adc2bb4e690a7bc9e6ff00338fc262835e5f036bb2c16` |
 | `sources/chunk8-prediv/teague.txt` | `a854f02ebcfa22d90ab7532d5f40169f5bdfd0ae9bbc2d698b69a31c18ace573` |
-| `freeze/OT_2000CHUNK8_C_JUNE18_REFRESH_RECEIPT.md` | `e99a9579756dfdd6846f57100be78c5894e4c397a95976fc9eb769548f8cf9f7` |
+| `freeze/OT_2000CHUNK8_C_JUNE18_REFRESH_RECEIPT.md` | `e0938cd402a9206b6f6decff9918b46e72ca418848e398133943833c7f3f5e82` |
 | `freeze/OT_2000CHUNK8_TYLER_BRIEF_FACTS_VALIDATED.md` | `b21a820f77b40fde66dca574ba283a47de1d662c28ac7c7db8e1f182e6b0a8cb` |
-| `freeze/OT_2000CHUNK8_RECORD_SOURCE_VALIDATION_RECEIPT.md` | `73642d34f2c6b8a3f33e67766be35a9c79b83f7599c13c24e5afa091f5a47ed8` |
-| `entering-law/OT_2000CHUNK8_C_HOLDINGS.md` | `bfd33d6f42a92777ee716ab507bff33c6a2c572dfc9d9a0f8ea4192dad5c3578` |
+| `freeze/OT_2000CHUNK8_RECORD_SOURCE_VALIDATION_RECEIPT.md` | `7e714ea202117069c34fee8945535c80a1160f786499f99c6300b670e87c78a1` |
+| `entering-law/OT_2000CHUNK8_C_HOLDINGS.md` | `0a432638cf0d2c709dee4f553e7b08aa85610de983a6176e0ad1dec92126aaa8` |
 | `entering-law/OT_2000CHUNK8_C_STANDARDS.md` | `1e64fc6b2c0ad4af34de98b72684ba170e37754205a3e4f0f179ac04434f1a3d` |
-| `entering-law/OT_2000CHUNK8_C_CURRENT.md` | `31294dee35b1d5946551bbafc58aca8b9e77d39ae79d97cd8840b983a743f250` |
-| `entering-law/OT_2000CHUNK8_C_PUBLIC_WRITINGS.md` | `9d8a4c8e3180677d80d78e375dd037e7ef1ab3f38bd285baf48b5717ac2f59c9` |
+| `entering-law/OT_2000CHUNK8_C_CURRENT.md` | `82178e4e60541ef587fd903f61dd74237a8c33dfe43a3991193bb07edf89fb0b` |
+| `entering-law/OT_2000CHUNK8_C_PUBLIC_WRITINGS.md` | `9ed45adc15fba004edeb76fef71d6a94351918f3a606ef25b82d518b3b60b123` |
 | `entering-law/OT_2000CHUNK8_C_SOURCE_TEXT.md` | `c500bccf479b6a095a63786b1b0369bc7e1f0aac759980446f28af688d8f0e8f` |
 | `sources/chunk8-prediv/teague_retrieval.json` | `23486d228e72055cfd43ac337ce6cd5a37c5c3ddbf726b6b06dd042c5fdc005f` |
 

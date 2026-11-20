@@ -26,7 +26,7 @@ The original independent commitments were read and never written by this task. C
 | `freeze/OT_2003CHUNK2_NEUTRAL.md` | `e21d7bd70e7e245b8092b421f776fe7310f204754e40297bdeeed1c4169fe227` |
 | `freeze/OT_2003CHUNK2_B_PREFLIGHT.md` | `e8009b666d1beb4ef5d0c06cfbb4b8e401233b35a6bb756f21df3b0a65258c40` |
 | `freeze/OT_2003CHUNK2_B_SOURCE_EXTRACTS.md` | `b43fadcd1a93a684eb58a418a9b55e2aea1f568af701fec3d1af2c60e5e69204` |
-| `entering-law/OT_2003CHUNK2_B.md` | `4e50ffae841ef5502212fdbb8564d79bd5d7f083b4bcbb1e333d4c82146c4766` |
+| `entering-law/OT_2003CHUNK2_B.md` | `e7000f0e0803ebf1830d13673c382e03aa618b14a8903f7ec89daa20af11a195` |
 | `runtime/OT_2003CHUNK2_COMPARATOR.md` | `f2374b4c73a5aaad1b9e7b726785df269f8b8b8ebb52bc467d3a2410c42af8e5` |
 
 ## Complete comparator source receipts

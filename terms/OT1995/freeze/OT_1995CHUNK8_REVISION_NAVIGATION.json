@@ -15,13 +15,13 @@
     {
       "path": "freeze/OT_1995CHUNK8_GRAY_COMMITMENTS.md",
       "before_sha256": "7ef924130066e91265ce43c7568b037c63fbdd9267fb26a8ee5efb1fd908e474",
-      "after_sha256": "e59b37f7bf05a0d29c8d2f216c35bfbc63b77bd5fb483cdac9256c5b200b9706",
+      "after_sha256": "6ece01a0d885a0430ad9ddbb72bf14192e67e1c623b493691f635238ec271629",
       "scope": "renamed Markdown link targets; historical-handoff annotation where needed"
     },
     {
       "path": "freeze/OT_1995CHUNK8_GRAY_JUNE17_PUBLIC_REVIEW.md",
       "before_sha256": "956e1004740c6db7366f09520ede0e213526bba0473875518e7964dde644fa36",
-      "after_sha256": "9a8678c53e0a576e3fc3eca75676b1638054645ea248dfad91abdbb9a5851db7",
+      "after_sha256": "00c61901e25bfa20f080c15a092e3805e4b023259b11bc61411075a64a9b91ba",
       "scope": "renamed Markdown link targets; historical-handoff annotation where needed"
     },
     {
@@ -33,7 +33,7 @@
     {
       "path": "freeze/OT_1995CHUNK8_RECONCILED.md",
       "before_sha256": "653f74f19e6799b6462b810fb01083db3152c98ead3a4ad7a0e0dd8ba12a6c2a",
-      "after_sha256": "b62656f19491d3fcd6e52ab5c46920f4694d65215a9afc06f4aeda7282b419f8",
+      "after_sha256": "e308c0c4beb010f419c27f1d7d531941ab23db1b7b74ac023e24e88c6175fb5b",
       "scope": "renamed Markdown link targets; historical-handoff annotation where needed"
     },
     {

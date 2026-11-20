@@ -4,21 +4,21 @@
     {
       "file": "bauchman_v_west_high_school_merits_1998-06-26.md",
       "before_sha256": "4e3b7fc4a760391ea41f699d0f370851e03a1c343733426f35a4275ec309a647",
-      "after_sha256": "d3cf2d7ec6898772c62a8208b8b24b893a9f14be09310dce5271646168ea24ae",
+      "after_sha256": "9a75b35c9019df4f4cfada97b5be5ee8a21e69c9a982b26be2453936e1bfd5fa",
       "only_change": "Eleven Public Projection block heading prefixes normalized from ### to ##; all other bytes unchanged.",
       "source_copy": "tmp\\chunk12_heading_normalization_before\\bauchman_v_west_high_school_merits_1998-06-26.md"
     },
     {
       "file": "burlington_industries_inc_v_ellerth_merits_1998-06-26.md",
       "before_sha256": "5510ad3dc0832f6ac5102467f91a7fd1c42dc7b3ed0091dbce62b02b9e4ec984",
-      "after_sha256": "daa41759143180bf8d1f1ab3825b11eb808976d61a79c6b9aaf51103aee2adbe",
+      "after_sha256": "55bf0671ade001ad136222db22fcbd1c372154b3aae8e8a42203dfa31d8e68bf",
       "only_change": "Eleven Public Projection block heading prefixes normalized from ### to ##; all other bytes unchanged.",
       "source_copy": "tmp\\chunk12_heading_normalization_before\\burlington_industries_inc_v_ellerth_merits_1998-06-26.md"
     },
     {
       "file": "monge_v_california_merits_1998-06-26.md",
       "before_sha256": "980eed5722657cdcab93d5964fb132b51b0bd20d1358cb540fafa617f7cc966d",
-      "after_sha256": "3a0f7f944a2471abcb8caeefc18b12aa93e923672a5af6bf6ebd658c98886132",
+      "after_sha256": "4ea24e5fd93c568598f720f605adeba7a7bdcb3fb9f69876412da408234e95c3",
       "only_change": "Eleven Public Projection block heading prefixes normalized from ### to ##; all other bytes unchanged.",
       "source_copy": "tmp\\chunk12_heading_normalization_before\\monge_v_california_merits_1998-06-26.md"
     }

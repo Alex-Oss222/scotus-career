@@ -3,7 +3,7 @@
   "command": "PYTHONDONTWRITEBYTECODE=1 python -B terms/OT1997/tools/run_tool.py check_term OT1997",
   "exit_code": 0,
   "output": "OK: OT1997; 0 warning(s)\n",
-  "rin_sha256": "ad811862cd5ff28b5ae351b5ecc3cfc2da5dac3387c23f929f7c44c127b3884c",
+  "rin_sha256": "d4f7c3764d008b0398c0d4a5718bc259f3407ff758e3651ce13b81689f9f9cc5",
   "rin_bytes": 180703,
   "completed_records": 12,
   "stopped_matters": 1

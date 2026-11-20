@@ -112,7 +112,7 @@ She independently concludes that, even if the CFP advertisement is only potentia
 
 ## Adaptive audit annex — commitments, reconciliation and final compatibility
 
-The independent [commitments B](../freeze/OT_1993CHUNK6_COMMITMENTS_B.md) remain immutable, SHA256 `539871e1fef24ed2bf1bcd8abf317437f9fbb30f4268d54731cf7e50b66f0a32`. The [reconciled B handoff](../freeze/OT_1993CHUNK6_RECONCILED_B.md), SHA256 `7a6ac6c4ae8064fe8c95cb9f4bd5ea43244acf8625a8d491e54765283b4bc8af`, was checked against the supplied seal before assembly. The case-specific matrix below preserves the reconciled commitments and their personal authority and join limits. Earlier provisional differences, when any, remain visible in the unchanged provisional file. Final compatibility does not invent circulation history, private dialogue or motives.
+The independent [commitments B](../freeze/OT_1993CHUNK6_COMMITMENTS_B.md) remain immutable, SHA256 `2eedd42c03a7e768d4f38d4b19d707201a147f0d1c3331d5543600282fb588e2`. The [reconciled B handoff](../freeze/OT_1993CHUNK6_RECONCILED_B.md), SHA256 `7a6ac6c4ae8064fe8c95cb9f4bd5ea43244acf8625a8d491e54765283b4bc8af`, was checked against the supplied seal before assembly. The case-specific matrix below preserves the reconciled commitments and their personal authority and join limits. Earlier provisional differences, when any, remain visible in the unchanged provisional file. Final compatibility does not invent circulation history, private dialogue or motives.
 
 | Justice | I1; I2; I3; I4 and historical comparison | Personal basis, counterargument, and minimum join limits |
 |---|---|---|

@@ -20,9 +20,9 @@
   "preserved_records": 38,
   "inventory_rows": 115,
   "workspace_sha256": {
-    "manifest.md": "388f44faca25887163cfbfecbc8e92019d638511f352e2dc3d9e2a11f2c679ef",
-    "continuity.md": "697040b95e23f6520efd9347a6bf54fdb0b6187cf906a68e9a38f44138e30a3f",
-    "neutral-projection.md": "b6c4fc367d8bc9bd15244cba813da7d3269e9f26a70381396f625b06a859069e"
+    "manifest.md": "9cdd5d7138e966f1fb2c5f3fcd7b1e011e916a2b0ea01105367586c3afdd494e",
+    "continuity.md": "7e80a1a03a91921e8413e9ff93db0e238bbb6341c387b9f7b2bf3308235241bb",
+    "neutral-projection.md": "c2683e4db33d7c94b7e6fa02d7782754039b9ff51c99da0ab99fd5e76d319754"
   },
   "workspace_before_sha256": {
     "manifest.md": "bed50368e1e5601c03f430d68a7b12e24a09b5ea135edef26724abe901be1e56",

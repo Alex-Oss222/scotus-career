@@ -5,25 +5,25 @@
     {
       "source": "terms/OT2000/workspace/manifest.md",
       "snapshot": "terms/OT2000/freeze/OT_2000CHUNK5_ENTERING_manifest.md",
-      "sha256": "1ecfd16c3e97a770f7ef37b103191e4acb1c94c50bc4f171a132ad50d5524622",
+      "sha256": "e88483d3b483569eef319a8aa5f1be6b43347942d85a7d5544563ec7639f5681",
       "bytes": 76290
     },
     {
       "source": "terms/OT2000/workspace/ledger.md",
       "snapshot": "terms/OT2000/freeze/OT_2000CHUNK5_ENTERING_ledger.md",
-      "sha256": "55f1f8d2de687e51d60936600f5a0162145c7bba8b91f94bdfd3bce09bbb8ca0",
+      "sha256": "64bb6d607e4a72cf552ca4f64e3fde0618c644e07e3386606c5c97962902e777",
       "bytes": 29828
     },
     {
       "source": "terms/OT2000/workspace/continuity.md",
       "snapshot": "terms/OT2000/freeze/OT_2000CHUNK5_ENTERING_continuity.md",
-      "sha256": "8117da0487eade49acd410168ec1f8cf50b56fa711cea7fa6c62674d4148a21e",
+      "sha256": "94e5e977ca54fe992360297d1b7b56b10f5f3f2c9d786818f91246205c821607",
       "bytes": 522356
     },
     {
       "source": "terms/OT2000/workspace/neutral-projection.md",
       "snapshot": "terms/OT2000/freeze/OT_2000CHUNK5_ENTERING_neutral_projection.md",
-      "sha256": "960a08ba7b1168d0e96a48bbc1382dc0c130c0c0dd97539593209c9b3eaa7739",
+      "sha256": "01997bc96b25f913d6e4e00d9a9a18dbad42a2ab70f5b1acb3c2a2a2f8efea7d",
       "bytes": 519214
     }
   ],

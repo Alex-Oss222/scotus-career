@@ -47,12 +47,12 @@ SHA-256 comparison after writing confirms the following inputs remain byte-ident
 
 | Input | SHA-256 |
 |---|---|
-| `OT_1993CHUNK7_COMMITMENTS_B.md` | `3052bda38e3a9f69dd3abceef51e02d0254529f4d814d91a3fd9c560c437f598` |
+| `OT_1993CHUNK7_COMMITMENTS_B.md` | `a98a3792fbce0f15e94f1cf02e1c2ae1a8d6c707a25ef0385c5893ac6c790b9a` |
 | `OT_1993CHUNK7_SOURCE_NEUTRAL_B.md` | `727749e5f116fdad8ec42c8a9399f13dec4b520dad5d87a50e18a9467672a30f` |
 | `OT_1993CHUNK7_COMPARATOR.md` | `6adab9624182184d66febf43508e2d8c731853d843a6d69db942ef1a787cbbd7` |
 | `OT_1993CHUNK7_PUBLIC_THROUGH_1994-06-17.md` | `551c35a066a5feffe6133a1f041d34bad55f645cf436ad7ae04e450c431e9458` |
 
-Final reconciled handoff SHA-256: `f0a89384e547ac8f8d0707667c6cecc5d1769b03d45b2c0ffc36cc27d6aa2c5b` (42,059 bytes). The prior freeze is unmodified. No commit-hash existence check is claimed; Git use was prohibited for this context and parent control owns that preservation step.
+Final reconciled handoff SHA-256: `747cca167f5393d5ae3fb2a020a40c7d5ccd3c7169b6ad43fdbd54e7da5fc962` (42,059 bytes). The prior freeze is unmodified. No commit-hash existence check is claimed; Git use was prohibited for this context and parent control owns that preservation step.
 
 ## Final freeze confirmation
 

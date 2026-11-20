@@ -3,7 +3,7 @@
     "case": "Wright",
     "stage": "COMMITMENTS",
     "source": "WRIGHT_COMMITMENTS.md",
-    "sha256": "275f78995eb5569262cc9339ddb0ef211873798f77d90669438b59b7c9af66ac"
+    "sha256": "c5b6a3bb5280c8a5fa9c59785b0d51d4002a0ad3d984b3f34ff54e20486f30e8"
   },
   {
     "case": "Fraternal Order of Police",
@@ -75,7 +75,7 @@
     "case": "Wright",
     "stage": "RECONCILED",
     "source": "WRIGHT_RECONCILED.md",
-    "sha256": "6d8ed36b5c9b5643b28a20514df8246d81b8f4ee322782b12c7bd0ec818af040"
+    "sha256": "b4f0c552ef3bb451a8bd27fdde3f0fea6e5fc96f58cdc074dce07dcbc61e833b"
   },
   {
     "case": "Fraternal Order of Police",

@@ -2,7 +2,7 @@
 
 Separate append-only refresh for February 2, 1998. Original `freeze/OT_1997CHUNK3_COMMITMENTS_ALEXANDER.md` remains immutable: 37,997 bytes, SHA-256 `99a471c7a0ca5ccd92913ba7324541dcbb28ac773c2d18a65ed3f72fefdc13a1`. Incorporate its complete independent commitments except the expressly superseded lawyer-component treatment below. This is provisional: actual McCardle remains required before finalization. No McCardle outcome or other pending decision is predicted as law.
 
-Read the January 21 late-law addendum, the complete actual Allentown/Brogan/Oubre/Yankton public deltas and separate writings, and `entering-law/OT_1997CHUNK3_LATE_CURRENT_LAW_1998-01-26.md`, SHA-256 `7d472982ee73b21202f2506cffc0aadffee0e739228294bf279b316fbafc3684`. The substantive scope correction comes from the clean `entering-law/OT_1997CHUNK3_ALEXANDER_REVIEW_SCOPE_ADDENDUM.md`, SHA-256 `507e1a63a44b64467b9d0ffadec15bd96f5f688f6de7fc6bb20d644dcffe9bcd`, not from any target comparator or reconciliation.
+Read the January 21 late-law addendum, the complete actual Allentown/Brogan/Oubre/Yankton public deltas and separate writings, and `entering-law/OT_1997CHUNK3_LATE_CURRENT_LAW_1998-01-26.md`, SHA-256 `d8a59876d28a4b785e0c8e8b86bcd97636193f98d3fcec3f210db1a7492cabba`. The substantive scope correction comes from the clean `entering-law/OT_1997CHUNK3_ALEXANDER_REVIEW_SCOPE_ADDENDUM.md`, SHA-256 `507e1a63a44b64467b9d0ffadec15bd96f5f688f6de7fc6bb20d644dcffe9bcd`, not from any target comparator or reconciliation.
 
 ## Affected component remodeled: lawyers are outside the grant
 

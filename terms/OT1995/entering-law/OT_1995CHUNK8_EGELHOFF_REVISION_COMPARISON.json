@@ -1,5 +1,5 @@
 {
-  "snapshot_sha256": "debe0429d2b2e5c85dd8ebce1aae55d78ad2f9edfdd91899bfaa77f0042a3fe4",
+  "snapshot_sha256": "fa1d289531ec92ca57c0b8f399c375759b41bb11d5417b8e7051b42e53f2177b",
   "slice_sha256": "7b5f6a88c77b191b08e9ecad611039171f8abf99b343be4e2ff42eba05491b91",
   "public_copies": [
     {
@@ -24,7 +24,7 @@
     },
     {
       "file": "Tuggle_v_Netherland_summary_merits_1995-10-30.md",
-      "sha256": "8546e2beed36556d27ba488a7ecf9404c345780a058d82d77645df9d6fc4c509",
+      "sha256": "3aa1b7d613a919cf4c0517618d440a6e6ef177ca1bf4b9cd535e23bdf797ac54",
       "complete_public_text_in_prior_snapshot": false
     },
     {
@@ -134,7 +134,7 @@
     },
     {
       "file": "Allridge_v_Scott_merits_1996-01-15.md",
-      "sha256": "f8902991fa5c84add2ffb4b2a64dbbe1297938f4270981c649d9556fa4aae80d",
+      "sha256": "b5a85f536c7440dcbc48e5b5602ec68df39a836aaf650c54f4a6e4df77c8443e",
       "complete_public_text_in_prior_snapshot": false
     },
     {
@@ -439,7 +439,7 @@
     },
     {
       "file": "Loving_v_United_States_merits_1996-06-03.md",
-      "sha256": "af6bf1140b3d97e84d39d234ad4b122fef23db863bdcb0d03354777f5d5f8540",
+      "sha256": "5adecc4307e74220fc7040e2cf41dd2f25982dfb0ef8c85e7f977ebdd0a51f1b",
       "complete_public_text_in_prior_snapshot": true
     },
     {

@@ -23,7 +23,7 @@ All three Records have the exact four opening labels and eleven public blocks. I
 | Record | Bytes | SHA-256 | Controlling explanation word counts |
 |---|---:|---|---|
 | united-states-v-johnson_merits_2000-03-01.md | 25071 | 7bc57fab48e39ec35a6207ad18682c2a95dd05a075fc1edcc691d00ad0fa5f28 | 149, 105 |
-| portuondo-v-agard_merits_2000-03-06.md | 35252 | b327d5bca95ea2a3cbe9bd34f61009dd9f5bb6b9678f20573b807baaba268ca6 | 105, 123 |
+| portuondo-v-agard_merits_2000-03-06.md | 35252 | 52c9eed085f5d6abb93a43b43642469394bd557b698d479740ca61b7a41bd613 | 105, 123 |
 | united-states-v-locke-intertanko-v-locke_merits_2000-03-06.md | 59959 | 3c4e3e6a2fe46c7904856253642162a6c8f67dbb4089f7a597610159e77f4e8f | 159, 121, 157, 166 |
 
 Final fresh count through these events: Stone-Zsela 3; Stevens 3; O'Connor 4; Scalia 3; Kennedy 5; Souter 4; Thomas 3; Ginsburg 4; Breyer 3. Total signed leads: 32.

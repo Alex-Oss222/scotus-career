@@ -7,18 +7,18 @@
       },
       {
         "path": "terms\\OT1997\\freeze\\OT_1997CHUNK5_B_COMMITMENTS.md",
-        "sha256": "7946620332b90dd8d7006c43e993647027b0c73738b9d59a11daa2cb86ed0232"
+        "sha256": "62586ccb256466887f051ad868ebad2c7ace425afadf41f2eb8448a2f249e076"
       },
       {
         "path": "terms\\OT1997\\freeze\\OT_1997CHUNK5_HETZEL_CERTIORARI_COMMITMENTS.md",
-        "sha256": "4d8bbecd36e8ca46086a307b6038ecc0ed52619d3d998073bcf3a4847c5a3828"
+        "sha256": "adddaec8c926804d4b3a53d52294e30604884f38dde6ece1845b3f01968f5825"
       },
       {
         "path": "terms\\OT1997\\freeze\\OT_1997CHUNK5_HETZEL_PRESERVATION_COMMITMENTS.md",
         "sha256": "81b66ca7b83d6723bcc2791b5b10a6c4e998df14f51b0aedf84157e0674cc5fb"
       }
     ],
-    "output_sha256": "3259858d20bad5d92ae405bf3e8452e95f166abeb2c3406871ed21ff45595e2a"
+    "output_sha256": "520c76b4d69da2fb2af6f2211a5ce5de48e4d08af670824323a501ab979d71a3"
   },
   "RECONCILED": {
     "inputs": [
@@ -32,9 +32,9 @@
       },
       {
         "path": "terms\\OT1997\\freeze\\OT_1997CHUNK5_B_RECONCILED.md",
-        "sha256": "5d79588ed0a18ac014231b1a4dfff91730e565c4670756875fe11fdf21dffb56"
+        "sha256": "9a435eac6157acbb0f7d92c6792e9ee75e2bf47d1d81c21de8473d077fcd1a69"
       }
     ],
-    "output_sha256": "cf450c69968ec2b73368b1f526e83a32400a988ff7af9b5c882f3ae2a1a13abe"
+    "output_sha256": "a32a04422d3531a77b5b2a8a8379e4f8ec32892adf61ba7213a1fed53c427c9a"
   }
 }

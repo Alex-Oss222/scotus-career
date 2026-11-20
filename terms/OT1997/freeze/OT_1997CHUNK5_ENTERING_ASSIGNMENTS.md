@@ -457,7 +457,7 @@ Stevens, the most senior Associate in D's six-Justice remand coalition, assigns 
 
 ## buchanan_v_angelone_merits_1998-01-21.md
 
-Effective date: 1998-01-21. Source SHA-256: `ca51e1fb45566cd18a69ef84fef953d254a6a661a31a26f214ac8e1c15d7e5d6`.
+Effective date: 1998-01-21. Source SHA-256: `4d42937a34ecae2d0ab79d12ef91680a5b6c0433631b2bdfe7e70ec00f84373d`.
 
 ### Exact opinion topology
 
@@ -498,7 +498,7 @@ The Chief assigns from each unanimous judgment coalition. All eight Associates f
 
 ## lunding_v_new_york_tax_appeals_tribunal_merits_1998-01-21.md
 
-Effective date: 1998-01-21. Source SHA-256: `b5cd73e3e0c92ba1b0d460baac42068d254dbce256049148e71972a045cf42b7`.
+Effective date: 1998-01-21. Source SHA-256: `dea5f6409a179b030b52365ff717092bb88f4b82cb3884d6846ad45c57708754`.
 
 ### Exact opinion topology
 
@@ -516,7 +516,7 @@ The Chief selects **Thomas** for the concrete work of examining the actual tax c
 
 ## allentown_mack_sales_service_inc_v_nlrb_merits_1998-01-26.md
 
-Effective date: 1998-01-26. Source SHA-256: `057602e06bdc281f86ac3d6c0f83996e57813cad5335f3af737e0517f13d1d5c`.
+Effective date: 1998-01-26. Source SHA-256: `ccd8418f9e54008caa28b8124ed030415771a89652e2f4edc1a2b5b8a910581d`.
 
 ### Exact opinion topology
 
@@ -566,7 +566,7 @@ The **whole-opinion eligible set and balance pool are O'Connor, Scalia, Kennedy 
 
 ## oubre_v_entergy_operations_inc_merits_1998-01-26.md
 
-Effective date: 1998-01-26. Source SHA-256: `a1dd3463f1ec150c10025bbc569fa5ad8c4e9dfe2aa098a1ef72fce99b153bd5`.
+Effective date: 1998-01-26. Source SHA-256: `b726b301f0be883b57d57b7a1639c58b0514dd512d2d3c89f6bd28f2dcf34c0e`.
 
 ### Exact opinion topology
 
@@ -580,7 +580,7 @@ The Chief assigns from the seven-Justice reversal coalition. **Eligible authors 
 
 ## south_dakota_v_yankton_sioux_tribe_merits_1998-01-26.md
 
-Effective date: 1998-01-26. Source SHA-256: `cefc949abfd058bd1a9d227444627934b28ebcda1b958025c09393e9e6fc72a1`.
+Effective date: 1998-01-26. Source SHA-256: `6596668e5b3caa804a7ed6b8856c827c0854dff344a062884da2d26fe5358a78`.
 
 ### Exact opinion topology
 

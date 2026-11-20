@@ -31,7 +31,7 @@ Kennedy delivers the common new-rule dissent because its actual work is to recon
 
 ## Reconciliation and mandate compatibility audit
 
-Both the [final reconciliation](../freeze/OT_1996CHUNK7_83_RECONCILED.md) and the [limited mandate audit](../freeze/OT_1996CHUNK7_83_MANDATE_RECONCILIATION_AUDIT.md) were read in full and remain authoritative together. The final reconciliation hash is 7ea28bbd7bd7ac5257191ecabccdc611d03b7345093b2d85df0eee75cdcd8c6d. The 28,754-byte mandate audit hash is 28d4456587f08a8b93eafdd9616c2e5f373d19265b43fe876642b3c526d5275b. Assembly opened no current raw comparator. No actual historical circulation or draft exchange is claimed.
+Both the [final reconciliation](../freeze/OT_1996CHUNK7_83_RECONCILED.md) and the [limited mandate audit](../freeze/OT_1996CHUNK7_83_MANDATE_RECONCILIATION_AUDIT.md) were read in full and remain authoritative together. The final reconciliation hash is 7ea28bbd7bd7ac5257191ecabccdc611d03b7345093b2d85df0eee75cdcd8c6d. The 28,754-byte mandate audit hash is ea130f84518f647a27e1413e7413233083ca5e609fed31ea71fa522bb843ce49. Assembly opened no current raw comparator. No actual historical circulation or draft exchange is claimed.
 
 | Justice | Frozen substantive position and audited mandate response | Final opinion scope |
 |---|---|---|

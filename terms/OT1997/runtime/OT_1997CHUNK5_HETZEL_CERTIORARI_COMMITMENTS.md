@@ -1,6 +1,6 @@
 # Hetzel — independent Associate certiorari commitments
 
-Supplement to the immutable batch-B merits/threshold commitments; no change to their substantive positions. Prepared from the same clean neutral packet, its objective-source receipt, `entering-law/CHUNK5/10_hetzel.md`, and Engine §10. No comparator, same-matter Supreme Court outcome or current private Stone position was received. The frozen batch-B handoff has SHA-256 `7946620332b90dd8d7006c43e993647027b0c73738b9d59a11daa2cb86ed0232`.
+Supplement to the immutable batch-B merits/threshold commitments; no change to their substantive positions. Prepared from the same clean neutral packet, its objective-source receipt, `entering-law/CHUNK5/10_hetzel.md`, and Engine §10. No comparator, same-matter Supreme Court outcome or current private Stone position was received. The frozen batch-B handoff has SHA-256 `62586ccb256466887f051ad868ebad2c7ace425afadf41f2eb8448a2f249e076`.
 
 **Case:** Hetzel v. Prince William County, No. 97-954.
 **Scheduled action date:** March 23, 1998. No additional earlier grant date is invented.

@@ -6,8 +6,8 @@
   "status": "Assembly legal and clerical checks passed; Record written. Workspace integration and chunk checks remain with root.",
   "input_hashes": {
     "terms/OT2000/freeze/OT_2000CHUNK4_RECONCILED_EGELHOFF_FINAL.md": "713634d7b03a672855189818dc9fdf59c52a466cd4323b55a735896d8ed3f94d",
-    "terms/OT2000/freeze/OT_2000CHUNK4_COMMITMENTS_EGELHOFF_REFRESH.md": "f2a5db4e4bc4d6d24df61e564f5e0a2e40e4887bfe4cbb9f8fbdcc5c151bdd24",
-    "terms/OT2000/freeze/OT_2000CHUNK4_EGELHOFF_NEUTRAL_REFRESH.md": "adac980743425f96a7d9067ac8eead6e3a3003d13a342fb5ff346be66dde7f0c",
+    "terms/OT2000/freeze/OT_2000CHUNK4_COMMITMENTS_EGELHOFF_REFRESH.md": "69f049942531604085c06423dff75f15ec2b434242256a3039ecfd6981f00e80",
+    "terms/OT2000/freeze/OT_2000CHUNK4_EGELHOFF_NEUTRAL_REFRESH.md": "b2a8ecb6265921d0d22cf2cd740620d5c89ff8ca13d395afd745d87c452f2fbd",
     "terms/OT2000/runtime/OT_2000CHUNK4_EGELHOFF_PLAN_RETURN.md": "af118ccbf61f02e98af5d9eb88ce9459a38c3c4c59c42a7c28f30a7ad477d874",
     "terms/OT2000/runtime/OT_2000CHUNK4_EGELHOFF_STATUTE.md": "5142fcfc2aac62bff17cf338380a15b9d87e98bc412a2e29a29094f008347af7"
   },

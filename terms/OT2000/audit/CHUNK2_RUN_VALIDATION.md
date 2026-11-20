@@ -58,6 +58,6 @@ Balanced assignment used each prior actual signed-lead table, in effective-date 
 | [workspace/continuity.md](../workspace/continuity.md) | `d0e39ea1cd0d57feac64dd7336ffdb813b1a6569f8ca22fefc3b5d3364204362` |
 | [workspace/neutral-projection.md](../workspace/neutral-projection.md) | `d1686d3f01ac2768d14a932778a64cd2888432d6955a1a6dfc18cff3f2054dd3` |
 | [render-inputs/OT_2000CHUNK2.md](../render-inputs/OT_2000CHUNK2.md) | `01724d4cb70fa7898c6fc0adda5b04f97fb32e77db5d0d67811f9d0a2317676a` |
-| [freeze/OT_2000CHUNK2_FROZEN_HANDOFF_INDEX.json](../freeze/OT_2000CHUNK2_FROZEN_HANDOFF_INDEX.json) | `348bb863c41660c3949f6e0dc28e81ffc4dd802971881fc0e38d4191b10acb1f` |
+| [freeze/OT_2000CHUNK2_FROZEN_HANDOFF_INDEX.json](../freeze/OT_2000CHUNK2_FROZEN_HANDOFF_INDEX.json) | `3f09249af59ab9359c50379a81c4e8ee1c7ca4cdc9e624fe5e4a18e96aab2100` |
 
 Supporting checks: [term tool receipt](../freeze/OT_2000CHUNK2_TOOL_CHECK.json), [artifact preservation](../freeze/OT_2000CHUNK2_ARTIFACT_CHECK.json), [final interfaces and counts](../freeze/OT_2000CHUNK2_FINAL_INTERFACE_CHECK.json), [inventory identity](../freeze/OT_2000CHUNK2_INVENTORY_CHECK.json), and [projection integration](../freeze/OT_2000CHUNK2_PROJECTION_INTEGRATION_RECEIPT.json).

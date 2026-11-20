@@ -1,8 +1,8 @@
 # Danahy — independent January 26 increment
 
-Append-only refresh incorporating the complete original `freeze/OT_1997CHUNK3_COMMITMENTS_DANAHY.md`, 43,596 bytes, SHA-256 `179bf7aeb3c186e5cb064a6f60bee3bf0e3ce9382ee05d535ddb2befbdb6375a`. Original runtime/freeze remain immutable. The original already covers actual law through January 21; only the four newly actual January 26 decisions and public separate grounds are addressed here.
+Append-only refresh incorporating the complete original `freeze/OT_1997CHUNK3_COMMITMENTS_DANAHY.md`, 43,596 bytes, SHA-256 `5a16340873e1d3523249ca187db7f15e1523d2d995f955f41b20b167e33350d9`. Original runtime/freeze remain immutable. The original already covers actual law through January 21; only the four newly actual January 26 decisions and public separate grounds are addressed here.
 
-Read their complete public deltas and clean `entering-law/OT_1997CHUNK3_LATE_CURRENT_LAW_1998-01-26.md`, SHA-256 `7d472982ee73b21202f2506cffc0aadffee0e739228294bf279b316fbafc3684`. Actual McCardle, Alexander and Fields still require narrow review before February 12 finalization. None is forecast as law.
+Read their complete public deltas and clean `entering-law/OT_1997CHUNK3_LATE_CURRENT_LAW_1998-01-26.md`, SHA-256 `d8a59876d28a4b785e0c8e8b86bcd97636193f98d3fcec3f210db1a7492cabba`. Actual McCardle, Alexander and Fields still require narrow review before February 12 finalization. None is forecast as law.
 
 ## Actual effect and alternative test
 

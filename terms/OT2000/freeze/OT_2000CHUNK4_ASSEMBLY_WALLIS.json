@@ -5,12 +5,12 @@
   "record_sha256": "ce67b4a672eef72a0f0305ce4f733d7a378812f6aa4980f6b468e4e61bd3500c",
   "status": "Assembly legal and clerical checks passed; Record written. Workspace integration and chunk checks remain with root.",
   "input_hashes": {
-    "terms/OT2000/freeze/OT_2000CHUNK4_COMMITMENTS_WALLIS.md": "25a481afdf0d89c32bca2c721a12399f2c3123d4d0b920e8aa60b53cc2028fde",
+    "terms/OT2000/freeze/OT_2000CHUNK4_COMMITMENTS_WALLIS.md": "788a01196a34c9debb24f35ca2a8a5906047a9bc6a637d0428e7f2777e908690",
     "terms/OT2000/freeze/OT_2000CHUNK4_WALLIS_MODEL_SOURCE_RECEIPT.md": "f78dbd7ae90961df66f89e766d7981049ed107e4acc650473cb416b5774c0b54",
-    "terms/OT2000/freeze/OT_2000CHUNK4_RECONCILED_WALLIS.md": "53a3050369e610394424e87e82b8c35e94bfda9232784549025d5402a79fea1b",
-    "terms/OT2000/freeze/OT_2000CHUNK4_WALLIS_NEUTRAL_REFRESH.md": "dcaf43dd50ed50b6da886bb5d3e1a19bfc8f55f58cd00cf808258501c30ee4c0",
-    "terms/OT2000/runtime/OT_2000CHUNK4_STONE.md": "9b0b1a74fd8b06048dfd89f406b2c23f347294d54bc72ed552e05082b4fdcfb4",
-    "terms/OT2000/entering-law/OT_2000CHUNK4_EFFECTIVE_BEFORE_2001-04-02_FINAL.md": "d0647790e6a619d5250d71bbf5b01d97b0951a75b3d3369acf9f354af42e9d19"
+    "terms/OT2000/freeze/OT_2000CHUNK4_RECONCILED_WALLIS.md": "5457d7250a2b704ed9538b7fe5423886c4aeab58eb23ca1aef006afd245dd2a3",
+    "terms/OT2000/freeze/OT_2000CHUNK4_WALLIS_NEUTRAL_REFRESH.md": "7ea99c7c19b29509a9da476c40b2f6e7e9264c0e83b8f4dbe79016afbe50aa28",
+    "terms/OT2000/runtime/OT_2000CHUNK4_STONE.md": "2e19cd5c03278fdc40279cbb14c333d19805fef606a044e4c9e2d4234b0c097b",
+    "terms/OT2000/entering-law/OT_2000CHUNK4_EFFECTIVE_BEFORE_2001-04-02_FINAL.md": "59addeddbd8b075029a4780d6172085cd1fe51e1383c5c431f51414690543f4c"
   },
   "legal_checks": {
     "frozen_eight_preserved": true,

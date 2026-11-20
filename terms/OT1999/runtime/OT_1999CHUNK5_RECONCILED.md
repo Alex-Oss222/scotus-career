@@ -172,13 +172,13 @@ The six support reversal of the warning-device ruling and remand to determine th
 
 ## MICHAEL_WILLIAMS
 
-Frozen source: [OT_1999CHUNK5_MICHAEL_WILLIAMS_RECONCILED.md](OT_1999CHUNK5_MICHAEL_WILLIAMS_RECONCILED.md). SHA-256: `67b3fa364bac14ab8a093ca3575cc1e893bad027d8d09c057816f5a169a473bd`.
+Frozen source: [OT_1999CHUNK5_MICHAEL_WILLIAMS_RECONCILED.md](OT_1999CHUNK5_MICHAEL_WILLIAMS_RECONCILED.md). SHA-256: `515bac2407f65bdb68fc4934f296791211fe798f4e8e8ae9fb99eb789be52b15`.
 
 ## Michael Wayne Williams — reconciled non-Stone commitments
 
 **Stage and cutoff:** Historical reconciliation; April 18, 2000. No Stone supplement, combined brief, private position or raw Decision Record was read. No same-day Terry Williams decision is entering law. This handoff is not a Court action and chooses no author.
 
-**Frozen base:** `../freeze/OT_1999CHUNK5_MICHAEL_WILLIAMS_COMMITMENTS.md`, SHA-256 `741d9d4fb4246fb2ae7723e80aff5153773ac96d5df734b6e56961292a7e99f6`, is incorporated, subject only to the express cause and formal-disposition clarifications below. The original model remains unchanged. All eight Associates retain the statutory construction, differentiated three-claim application, prior-law distinction and preserved other dispositions.
+**Frozen base:** `../freeze/OT_1999CHUNK5_MICHAEL_WILLIAMS_COMMITMENTS.md`, SHA-256 `71c92a52e3fbb514ccac27adc6b8775a8136493404d1b03607c21060aaea6612`, is incorporated, subject only to the express cause and formal-disposition clarifications below. The original model remains unchanged. All eight Associates retain the statutory construction, differentiated three-claim application, prior-law distinction and preserved other dispositions.
 
 ### Verified comparison and actual changed premise
 

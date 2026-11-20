@@ -2,7 +2,7 @@
 
 **Event cutoff:** April 2, 1998. **Stage:** Independent non-Stone modeling only. These are provisional individual conclusions, not a Court judgment, assignment, historical reconciliation or merits disposition. No later April 6 Hinds rule enters this event.
 
-**Authorized inputs:** [Final clean neutral packet](OT_1997CHUNK6_RESUMED_NEUTRAL.md), [its validation](OT_1997CHUNK6_RESUMED_NEUTRAL_VALIDATION.md), and [entering-law reading slice](../entering-law/OT_1997CHUNK6_RESUMED.md), including the complete March 12 Triestman public decision and Felker original-jurisdiction module. The final packet hash was checked as `b93ae93f03275931d70fcb7fb860a803bc09c3ca90aed16f506981018970984c`.
+**Authorized inputs:** [Final clean neutral packet](OT_1997CHUNK6_RESUMED_NEUTRAL.md), [its validation](OT_1997CHUNK6_RESUMED_NEUTRAL_VALIDATION.md), and [entering-law reading slice](../entering-law/OT_1997CHUNK6_RESUMED.md), including the complete March 12 Triestman public decision and Felker original-jurisdiction module. The final packet hash was checked as `f576c67f398e0e131822d1dc49d8a300c514522bc8446db6c061c8f5da621d87`.
 
 ## Presented component and common legal boundary
 

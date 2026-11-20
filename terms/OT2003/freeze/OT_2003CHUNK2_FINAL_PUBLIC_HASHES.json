@@ -37,9 +37,9 @@
   },
   {
     "record": "united_states_v_ho_merits_2003-11-20.md",
-    "record_sha256": "e9f2915f75e672cdc2503860686e8dcceb8c10a49628bdf9ba5c7d1b2290be03",
+    "record_sha256": "c469461c0e579f46d840e6bac7a99bcf3ce582b6cd5195467e1e78e3755c76d1",
     "final_public": "OT_2003CHUNK2_HO_PUBLIC_FINAL_LAYOUT.md",
-    "public_saved_byte_sha256": "7ee69110ef4a4aea3d0f55435acd6a3526108931ec84479ad2de7f5334eb1c06"
+    "public_saved_byte_sha256": "3335465c4461bc625538539587cd791e0f7347a8ccd0146ff8a2ed21a70632a0"
   },
   {
     "record": "valeria_v_davis_merits_2003-11-25.md",
@@ -73,25 +73,25 @@
   },
   {
     "record": "mcconnell_v_federal_election_commission_merits_2003-12-10.md",
-    "record_sha256": "81a9ca6163239fd8c39fc19538cee6dc4df5b76e51b87efc8f2858501e612163",
+    "record_sha256": "6ae131d8397f825dfaba47d70615b291a1cbfd3caa32b1809d46f3d98b4bbd95",
     "final_public": "OT_2003CHUNK2_MCCONNELL_PUBLIC_FINAL_LAYOUT.md",
     "public_saved_byte_sha256": "c683dbe574dbaa28fac2c63a068f3b6e820915857348f3856a5b3daa458731bc"
   },
   {
     "record": "united_states_v_deaton_merits_2003-12-11.md",
-    "record_sha256": "a385aaf4c4a74e8c8d039abaaddb0e6808cd0bf7a9333798b9efd6b51d1eddda",
+    "record_sha256": "cdea844c622f34426780eedaaeb326a652810991954a26814f5651fbcda11fe3",
     "final_public": "OT_2003CHUNK2_DEATON_PUBLIC_COMPLETENESS.md",
     "public_saved_byte_sha256": "4245ea75f1d1272af7ce3b06416a8ef5f964137387732733e1360f1353468a9b"
   },
   {
     "record": "castro_v_united_states_merits_2003-12-15.md",
-    "record_sha256": "597abc76fd458ac6ae4cc6eb503ba6d8c989519064f5dd377fc55e8c07c24669",
+    "record_sha256": "af64e0753ad90d3f4d4fc024180291d7c657ad031ac03113557bf4ef3b86b0c2",
     "final_public": "OT_2003CHUNK2_CASTRO_PUBLIC.md",
     "public_saved_byte_sha256": "486f08fcfde84fade7b932b505c72f86e758ba0cd107dcca7319e3b057fb5483"
   },
   {
     "record": "maryland_v_pringle_merits_2003-12-15.md",
-    "record_sha256": "78914b2f68c4dd91e9654bdedaa485465db951afff525f9c98324c5ced17ed88",
+    "record_sha256": "ba4a9893e6f7bf6baabd02bf00f369949b93e1ad20eeef261333b07ad4839056",
     "final_public": "OT_2003CHUNK2_PRINGLE_PUBLIC_COMPLETENESS.md",
     "public_saved_byte_sha256": "c6ed05d20c76f4e5e87e2c351ea7ae0f61e396e17100c5242013b2b81ea14d9b"
   }

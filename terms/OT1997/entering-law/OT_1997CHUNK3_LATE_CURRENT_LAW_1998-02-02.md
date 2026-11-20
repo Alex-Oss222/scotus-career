@@ -4,7 +4,7 @@ This additive receipt reviews only the actual Alexander public decision and inco
 
 ## Actual input and component authority
 
-All eleven public blocks of [the Alexander public delta](../freeze/OT_1997CHUNK3_PUBLIC_DELTA_ALEXANDER.md) were reviewed. Its verified SHA256 is `0b1323b6ed631a5e67a58f53464aa68f6281a0301c879736032a810f5e93d0d9`. The incorporated January 29 receipt has SHA256 `60b387a18c54bda62611469f1770925330d9cdc031ba187d794503efbff8f909`.
+All eleven public blocks of [the Alexander public delta](../freeze/OT_1997CHUNK3_PUBLIC_DELTA_ALEXANDER.md) were reviewed. Its verified SHA256 is `0b1323b6ed631a5e67a58f53464aa68f6281a0301c879736032a810f5e93d0d9`. The incorporated January 29 receipt has SHA256 `be2bc0473b4b678ff89c6f051c66d29abf5fb4b6a535e29032e53f626a19a3ac`.
 
 Souter's opinion has all eight Associates in full. The Chief joins Parts II, IV-A, IV-B and V, agrees in reaching the authorized claims without joining Part I's threshold rationale, and agrees in the maternal-liberty dismissal without joining Part III's rationale. Thus the nine-vote bounded affirmance does not enlarge either of the eight-vote rationales. There are no separate writings.
 

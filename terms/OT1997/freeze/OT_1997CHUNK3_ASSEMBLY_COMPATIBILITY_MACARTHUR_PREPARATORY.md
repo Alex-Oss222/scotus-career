@@ -82,10 +82,10 @@ Pending before final MacArthur release: actual earlier public deltas through Dan
 | Input | SHA-256 |
 |---|---|
 | First reconciled MacArthur | `dbddfc6621ba269584f2f996ad4da56fa7efb211f94fbca4e15f11c011595993` |
-| First MacArthur reconciliation receipt | `12bbba07c2972205b4347264ccce58c4ad6de81f64b9d785bb7b89835cc67cfa` |
+| First MacArthur reconciliation receipt | `b0d99a3c51ec4a3508b7a6c1e13e8635e3c40175cae563f4a5b1af680fd87355` |
 | Authorized runtime Stone MacArthur | `952382481c1cf62c49e885d3450514f5d4b512292daa806728bcf1448ace2654` |
 | Monetary source-fact addendum | `85f1ec9711d2785733d86d2f212227e44d2c9768018216fcd6d44fcd5875d201` |
-| Independent Danahy Jan26 refresh | `dfa0ef8abf229068c538070f7788141ec80344cff54803850eac8efe3839944c` |
-| Independent MacArthur Jan26 refresh | `1ac3fe0973640935d160d93a122d7f6135e45636d688761764298b3f741c26de` |
-| Reconciled Danahy Jan26 refresh | `bfe1d12df42dcfae563451af913a8673347de3bb5ee98c4db5f51e04dabb6d30` |
-| Reconciled MacArthur Jan26 refresh | `318cf605f2d493e772d83124538dd63189e577ad3bc84fdcd11defa54844f04b` |
+| Independent Danahy Jan26 refresh | `729153d1541215d445c74f46777d3f4adcf0a8730704d25a6e30947061d2b104` |
+| Independent MacArthur Jan26 refresh | `1e0eb31c05c8cda501feb6da2b26d4356bb3b306c865e99f4a387194fca4a425` |
+| Reconciled Danahy Jan26 refresh | `1470f5eaf888fc0a18f7caed5bcee56026264ade706da791937fe40000017257` |
+| Reconciled MacArthur Jan26 refresh | `a19673c76ff1648fe870667289ccd425f077a58cf58be71327ad9f983df8a41d` |

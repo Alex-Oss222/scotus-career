@@ -16,7 +16,7 @@
       "disposition_and_vote": "Affirm the mitigation-instruction ruling, 6–3 (Stone, O’Connor, Scalia, Kennedy, Souter, Thomas; Stevens, Ginsburg and Breyer dissent). Distinct statutory-factor due-process rejection, 9–0.",
       "component_joins_and_limits": "O’Connor lead. Scalia joins with a separate Eighth Amendment reservation; Breyer dissent joined by Stevens and Ginsburg. The five-paragraph charge controls; no assumed habeas filing date, generic harmless-error shortcut or imported waiver. Stone’s statutory-factor agreement is disposition-only fallback.",
       "record": "records/buchanan_v_angelone_merits_1998-01-21.md",
-      "record_sha256": "ca51e1fb45566cd18a69ef84fef953d254a6a661a31a26f214ac8e1c15d7e5d6"
+      "record_sha256": "4d42937a34ecae2d0ab79d12ef91680a5b6c0433631b2bdfe7e70ec00f84373d"
     },
     {
       "case": "LaChance v. Erickson / LaChance v. McManus",
@@ -32,7 +32,7 @@
       "disposition_and_vote": "Reverse and remand, 7–2 (Stone, Stevens, O’Connor, Scalia, Souter, Thomas, Breyer; Ginsburg and Kennedy dissent).",
       "component_joins_and_limits": "Thomas lead; seven full joins. Article IV holding; conditional retrospective relief distinguishes an assessment from compelled payment. McKesson and Reich conditions preserved; no predetermined refund, interest formula or 100-percent deduction cap. Ginsburg dissent, joined by Kennedy, preserves income-attribution and home-state personal-expense grounds.",
       "record": "records/lunding_v_new_york_tax_appeals_tribunal_merits_1998-01-21.md",
-      "record_sha256": "b5cd73e3e0c92ba1b0d460baac42068d254dbce256049148e71972a045cf42b7"
+      "record_sha256": "dea5f6409a179b030b52365ff717092bb88f4b82cb3884d6846ad45c57708754"
     },
     {
       "case": "Allentown Mack Sales & Service, Inc. v. NLRB",
@@ -40,7 +40,7 @@
       "disposition_and_vote": "Facial polling threshold sustained, 5–4 (Stevens, Scalia, Souter, Ginsburg, Breyer). Application reversed and remanded with instructions to deny enforcement, 5–4 (Stone, O’Connor, Scalia, Kennedy, Thomas).",
       "component_joins_and_limits": "Scalia is the sole full-opinion lead eligible for assignment; Stevens assigns the facial portion and the Chief the application/mandate portion. Separate §10(e) nonreview rests on eight Associates’ reasoning and Stone’s disposition-only fallback. Stone’s statutory concurrence/dissent, joined by O’Connor, Kennedy and Thomas, includes an independent application ground; Breyer’s application dissent is joined by Stevens, Souter and Ginsburg.",
       "record": "records/allentown_mack_sales_service_inc_v_nlrb_merits_1998-01-26.md",
-      "record_sha256": "057602e06bdc281f86ac3d6c0f83996e57813cad5335f3af737e0517f13d1d5c"
+      "record_sha256": "ccd8418f9e54008caa28b8124ed030415771a89652e2f4edc1a2b5b8a910581d"
     },
     {
       "case": "Brogan v. United States",
@@ -56,7 +56,7 @@
       "disposition_and_vote": "Reverse and remand, 7–2 (Stone, Stevens, O’Connor, Kennedy, Souter, Ginsburg, Breyer; Scalia and Thomas dissent).",
       "component_joins_and_limits": "O’Connor lead; seven full joins. Breyer concurrence joined by O’Connor. Scalia’s tender-only dissent rejects ratification on this record; Thomas’s dissent accepts ratification and tender. No automatic accounting recovery.",
       "record": "records/oubre_v_entergy_operations_inc_merits_1998-01-26.md",
-      "record_sha256": "a1dd3463f1ec150c10025bbc569fa5ad8c4e9dfe2aa098a1ef72fce99b153bd5"
+      "record_sha256": "b726b301f0be883b57d57b7a1639c58b0514dd512d2d3c89f6bd28f2dcf34c0e"
     },
     {
       "case": "South Dakota v. Yankton Sioux Tribe",
@@ -64,7 +64,7 @@
       "disposition_and_vote": "Bounded reversal and remand, 9–0.",
       "component_joins_and_limits": "Stevens lead, all full joins, no separate writing. Cession and fixed compensation are read with the whole 1894 Act and Article XVIII’s annuity-preservation purpose. Holding covers ordinary ceded/unallotted land and the actual site; no total-disestablishment holding, reopening of the unappealed regulatory branch or displacement of the EPA waiver.",
       "record": "records/south_dakota_v_yankton_sioux_tribe_merits_1998-01-26.md",
-      "record_sha256": "cefc949abfd058bd1a9d227444627934b28ebcda1b958025c09393e9e6fc72a1"
+      "record_sha256": "6596668e5b3caa804a7ed6b8856c827c0854dff344a062884da2d26fe5358a78"
     },
     {
       "case": "McCardle v. Haddad",

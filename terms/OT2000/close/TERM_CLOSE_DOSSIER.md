@@ -44,10 +44,10 @@ The existing line-ending convention is preserved for every state file: HOLDINGS.
 | Final source | SHA-256 |
 |---|---|
 | [Case inventory](../case-list.md) | `bd496d64f4938c3cabddd9282136e2c5cbe76c6dffa1f7366fc931602f23b118` |
-| [Final manifest](../workspace/manifest.md) | `112a9be73f17c1cd1a86497aea65d09626b38277cdd924c43a972586636c7846` |
-| [Final continuity](../workspace/continuity.md) | `8e497c8708037a3ff52f4eebda833380e0a8acc7656ed5b6ee24ec156eccafc0` |
-| [Neutral projection](../workspace/neutral-projection.md) | `b69286d10b2fb4eefea27f26929606caab3d5f7df04f985fe00ba068743f17f2` |
-| [Ledger](../workspace/ledger.md) | `f562495713acd5233c01b6ec2110f449b69c1584997508c3af6254e7f33199db` |
+| [Final manifest](../workspace/manifest.md) | `510d7d11fbb79a8abe326af3e1620358b96b6017649518e649f32e3e72b78f10` |
+| [Final continuity](../workspace/continuity.md) | `65010b93a64446e1fc0b78ac5ffb8d58ba7a4b873d0d6c8aa7e7020794fd8591` |
+| [Neutral projection](../workspace/neutral-projection.md) | `7ae478e9091a71bb2c223ff2202d98d6190dd3b1e756c72703fb4caa48daa9f5` |
+| [Ledger](../workspace/ledger.md) | `b3a0bad686ccd1663b71e117f56eee863d5c38b7dad9b476e8ce7aba4fc0de06` |
 | [Confirming audit](AUDIT.md) | `d76085679261e403cc5bc9920b5241a49b7b18bb1f27533c48e161aa69310685` |
 
 ## Court-event Records in chronological order
@@ -72,7 +72,7 @@ The linked Records are incorporated as the adjudicative source. Ordering same-da
 | 2001-01-09 | [Fiore v. White, No. 98-942.](../records/Fiore_v_White_merits_2001-01-09.md) | `105e08f677bce261247fe1fc268c1c8af097e909059f55348dcedaa2cbe2c592` |
 | 2001-01-09 | [Gitlitz v. Commissioner, No. 99-1295.](../records/Gitlitz_v_Commissioner_merits_2001-01-09.md) | `60bfd03b0761b6439c945fb643caa1a23cb322e6612c7c53a5f88f281b24ade3` |
 | 2001-01-09 | [Glover v. United States, No. 99-8576.](../records/Glover_v_United_States_merits_2001-01-09.md) | `44c07f2bfb6763ef1d50942b6de28c71d4bb2dd143cf1512e0fbf62602cb1cdd` |
-| 2001-01-09 | [Solid Waste Agency of Northern Cook County v. U.S. Army Corps of Engineers, No. 99-1178.](../records/Solid_Waste_Agency_of_Northern_Cook_County_v_US_Army_Corps_of_Engineers_merits_2001-01-09.md) | `26dcda08e1dac5a3d56a189c7420586ddc766854e96e35bcc6c3b9fdaa17f99d` |
+| 2001-01-09 | [Solid Waste Agency of Northern Cook County v. U.S. Army Corps of Engineers, No. 99-1178.](../records/Solid_Waste_Agency_of_Northern_Cook_County_v_US_Army_Corps_of_Engineers_merits_2001-01-09.md) | `6c3ce11a3508a32f71fb2a9ec19e18a2d6fab8da7b96e9365ba2113b597c3282` |
 | 2001-01-10 | [Lopez v. Davis, No. 99-7504.](../records/Lopez_v_Davis_merits_2001-01-10.md) | `96e0ae565cced9d0a436da2c0d45a7b6f7ac8c939082a7b380b0754135fcdfcf` |
 | 2001-01-17 | [City News & Novelty, Inc. v. City of Waukesha, No. 99-1680.](../records/City_News_and_Novelty_v_City_of_Waukesha_mootness-dismissal_2001-01-17.md) | `b430a33983bea69c3845bb8f721d3a33dfb09634cc745fe05650f19bf9cdfbf9` |
 | 2001-01-17 | [Denius v. Dunlap; Seventh Circuit No. 99-1402; 209 F.3d 944; no separate Supreme Court docket supplied.](../records/Denius_v_Dunlap_merits_2001-01-17.md) | `e158261b124e9d4204c4427a88173fac5054cbf0965392d65592215b58c98674` |
@@ -102,9 +102,9 @@ The linked Records are incorporated as the adjudicative source. Ordering same-da
 | 2001-03-21 | [Circuit City Stores, Inc. v. Adams, No. 99-1379; 532 U.S. 105.](../records/Circuit_City_Stores_v_Adams_merits_2001-03-21.md) | `d0dadc6630d1994f730d2856d2db360bd67c7ee42c6962b7f6c987bea93b6d1c` |
 | 2001-03-21 | [Egelhoff v. Egelhoff, No. 99-1529; 532 U.S. 141.](../records/Egelhoff_v_Egelhoff_merits_2001-03-21.md) | `ca1c6016940e09729684f4c29a117c72dd2bc27e7081ef1276ea1a35198a661f` |
 | 2001-03-21 | [Ferguson v. City of Charleston, No. 99-936; 532 U.S. 67.](../records/Ferguson_v_City_of_Charleston_merits_2001-03-21.md) | `713f51503b02aa6d6d18fdde9f09e3d80c8ca2d437d0128436ca383ef71159cb` |
-| 2001-03-21 | [Gibbs v. Babbitt; judgment below 214 F.3d 483, Fourth Circuit No. 99-1218; no separate Supreme Court docket supplied.](../records/Gibbs_v_Babbitt_merits_2001-03-21.md) | `b6a5d03de177f5f13a49fd6e05b70fd46fafce1aa42c89f4930e503fa9305f65` |
+| 2001-03-21 | [Gibbs v. Babbitt; judgment below 214 F.3d 483, Fourth Circuit No. 99-1218; no separate Supreme Court docket supplied.](../records/Gibbs_v_Babbitt_merits_2001-03-21.md) | `98dbc05e86939b58ad12213a91bc9347fea7a340ccd53094892f1de3ca46dad0` |
 | 2001-04-02 | [Texas v. Cobb, No. 99-1702; 532 U.S. 162.](../records/Texas_v_Cobb_merits_2001-04-02.md) | `d3b50e7e2cd13d1645f7af3b119727f9dc54f9c3463dc7cfc50da05ac067e2ef` |
-| 2001-04-02 | [Wallis v. Spencer; Ninth Circuit No. 97-55579, 202 F.3d 1126; no Supreme Court docket supplied.](../records/Wallis_v_Spencer_merits_2001-04-02.md) | `24b030f048753ca47387d51e4f48b5d9a582e91a2096e5be9a44e7f104a58920` |
+| 2001-04-02 | [Wallis v. Spencer; Ninth Circuit No. 97-55579, 202 F.3d 1126; no Supreme Court docket supplied.](../records/Wallis_v_Spencer_merits_2001-04-02.md) | `c29dc713622b137278c67a4ce6400113cea5031d3b8ca0d4189f6d73bd0cd89a` |
 | 2001-04-17 | [Lujan v. G & G Fire Sprinklers, Inc., No. 00-152; 532 U.S. 189.](../records/Lujan_v_G_and_G_Fire_Sprinklers_merits_2001-04-17.md) | `ecb024095abb72a1bd1a9359697e1f85d24e46a2d4f75c024e1256d17479d9d3` |
 | 2001-04-17 | [United States v. Cleveland Indians Baseball Co., No. 00-203; 532 U.S. 200.](../records/United_States_v_Cleveland_Indians_Baseball_merits_2001-04-17.md) | `3c031f828c6ce94846aa99af83bbafec1ea55e5409e3d95a803c56675c9f5acc` |
 | 2001-04-17 | [United States v. Weston; D.C. Circuit No. 99-3119; judgment below, 206 F.3d 9.](../records/United_States_v_Weston_merits_2001-04-17.md) | `baf8a80db749dc4d3a8b989df521d8c6fcfaf170ff7969d0ffebbac234ccc5a8` |
@@ -142,7 +142,7 @@ The linked Records are incorporated as the adjudicative source. Ordering same-da
 | 2001-06-04 | [Florida v. Thomas; No. 00-391; 532 U.S. 774.](../records/Florida_v_Thomas_jurisdictional-dismissal_2001-06-04.md) | `f4e946746b93895a1310458e93ee699ed95842e9f65220dbb2a55c078f07891e` |
 | 2001-06-04 | [In re Independent Service Organizations Antitrust Litigation: CSU, L.L.C. v. Xerox Corporation; Federal Circuit No. 99-1323; District of Kansas MDL-1021; judgment below, 203 F.3d 1322.](../records/CSU_v_Xerox_merits_2001-06-04.md) | `34b18e57076fad92c73f3a0b5c95b0cb342616ff6129a601bf5e51c78ff08a48` |
 | 2001-06-04 | [Norfolk Shipbuilding & Drydock Corp. v. Garris; No. 00-346; 532 U.S. 811.](../records/Norfolk_Shipbuilding_and_Drydock_v_Garris_merits_2001-06-04.md) | `e2d9de833efa23c9d3671f91c8ffec93fcbe4c6a9ba1827c40dbe957a9beaf78` |
-| 2001-06-04 | [Penry v. Johnson; No. 00-6677.](../records/penry_v_johnson_merits_2001-06-04.md) | `cb00a4bab58633691d76aea08ae37ae6452195da592d57d6eb436ca4713b0571` |
+| 2001-06-04 | [Penry v. Johnson; No. 00-6677.](../records/penry_v_johnson_merits_2001-06-04.md) | `99f192df8add151e0fb969fd575d6164d4bb1f21ce688baf5ecd9a296fcc544c` |
 | 2001-06-04 | [Pollard v. E. I. du Pont de Nemours & Co.; No. 00-763.](../records/pollard_v_du_pont_merits_2001-06-04.md) | `287c94df173e66628507d06cc8367437ce893fbb3aa3b099e088fdafef9d4d70` |
 | 2001-06-04 | [United Dominion Industries, Inc. v. United States; No. 00-157; 532 U.S. 822.](../records/United_Dominion_Industries_v_United_States_merits_2001-06-04.md) | `6a268eb6882a1262fc1ea53de02939b0062f132a58762db048596d1fc6808e58` |
 | 2001-06-11 | [Alabama v. Bozeman; No. 00-492; 533 U.S. 146.](../records/Alabama_v_Bozeman_merits_2001-06-11.md) | `a653342539d6e79ba1f130cdeecceec19b82f380398329026ec5a97a1eebd2f2` |
@@ -184,9 +184,9 @@ The authoritative set is the current audited Record set listed above. This publi
 | 1 | 12 | [OT_2000CHUNK1](../output/OT_2000CHUNK1.md) | `c9d4183a710fa7bc8e37dfac02f084a798d8fb53dc6d4dbd09b978d3c2bb4330` |
 | 2 | 15 | [OT_2000CHUNK2](../output/OT_2000CHUNK2.md) | `cbe96fae76241cf91ee402d83db978b2c6e8b9a7355ff96ca97d0963a7efd362` |
 | 3 | 14 | [OT_2000CHUNK3](../output/OT_2000CHUNK3.md) | `ee1629fdc843fbffad5f47e8b88241c60e374901447001a484fd65b56231a137` |
-| 4 | 15 | [OT_2000CHUNK4](../output/OT_2000CHUNK4.md) | `c47dc965a7fef15421c63526a8d1091a1c649040818f3f7e1bcae9119ee61647` |
+| 4 | 15 | [OT_2000CHUNK4](../output/OT_2000CHUNK4.md) | `24657b40c7c2469d13d5330eb7bce64bfb71cd7a6b82dd6ecd199057efffbd3d` |
 | 5 | 14 | [OT_2000CHUNK5](../output/OT_2000CHUNK5.md) | `9a1e43e0b5e6611f283b5629d10672a5a1f7d1cc0984594bdc72bfa9079af068` |
-| 6 | 15 | [OT_2000CHUNK6](../output/OT_2000CHUNK6.md) | `21e7dab74917a191341e66c095bd6f6bec720961824509ed7757f8773f7206c2` |
+| 6 | 15 | [OT_2000CHUNK6](../output/OT_2000CHUNK6.md) | `b730a12a20175e0efcba397001e843d0f9501a44b2ef4848164bbf023e1afbe6` |
 | 7 | 14 | [OT_2000CHUNK7](../output/OT_2000CHUNK7.md) | `33b2c302fcf074e1e6fdf029565fe71d26f804ad37190ef725f615e5595f8029` |
 | 8 | 15 | [OT_2000CHUNK8](../output/OT_2000CHUNK8.md) | `968fdab84cd728a161d31dc2c7a32969572a665795e52eaeb58bda0b1bcefabf` |
 
@@ -240,10 +240,10 @@ A scoped before/after SHA-256 comparison confirms that all 1,618 monitored sourc
 | [state/holdings/maritime-law.md](../../../state/holdings/maritime-law.md) | `bde82293ec35692b9a3bcb60a27c59dd0b5d3e64ed4a85e5202a23c58f7a868f` |
 | [state/holdings/property-and-economic-rights.md](../../../state/holdings/property-and-economic-rights.md) | `10cfaded1e44a94bf62670c49d8bd3fcc0ffa4e4e051b2c80038107c9d487d05` |
 | [state/holdings/tort-law.md](../../../state/holdings/tort-law.md) | `9312a442dbaf5f32be174ee2db180207edb94ca08a7eb24426dc320c0ad928e8` |
-| [terms/OT2000/INDEX.md](../INDEX.md) | `5a05eb2e71626aa8f6c46b0707816bd776262781f437f3120b956ce026fdece7` |
+| [terms/OT2000/INDEX.md](../INDEX.md) | `45fa7a302e705865ce000cd86199f84fdc2204ce2651627fd0cd060c9b6af7fe` |
 | [terms/OT2000/close/CONSEQUENCES.md](CONSEQUENCES.md) | `c071b5ab1df68137f1cc5d87ccbec941c4c720cc1c5630bff58e467e6ed3efa6` |
-| [terms/OT2000/close/DEPARTURES.md](DEPARTURES.md) | `5a348065a35d7cbc8255b8e49a81259c9498aeafbf21ef2a29f1aea09a547aa7` |
-| [terms/OT2000/close/SEPARATE_WRITINGS.md](SEPARATE_WRITINGS.md) | `ba97c6f47feeaaf2741b812813f7e29cf5c27941d2232d899ffca6c5f8b585a6` |
+| [terms/OT2000/close/DEPARTURES.md](DEPARTURES.md) | `1e1389078628065c7b2e4fad7610f3f6e35a930542d41c58a54f49dd5af7f9ac` |
+| [terms/OT2000/close/SEPARATE_WRITINGS.md](SEPARATE_WRITINGS.md) | `c0b87e393442d4adf70c3205a12e45811e6e6232c5c4bdc33c524b4d3ee40826` |
 
 ## Cleanup
 

@@ -21,8 +21,8 @@
 
 | Artifact | SHA-256 |
 |---|---|
-| [Render Input](../render-inputs/OT_1995CHUNK7.md) | `9c18a4fd325c31496ca8fb826e9fec091fae64806b60d4e7b958e15c82265bfe` |
-| [Public render](../output/OT_1995CHUNK7.md) | `a644497deb0684f11212766f14d6abbfa9025d56bab560e58992e54fac5b88d8` |
+| [Render Input](../render-inputs/OT_1995CHUNK7.md) | `f9e9dfc9dcb3438fbf160c23c78ca2ad80f582d15d0b45f874c1c6a672f35134` |
+| [Public render](../output/OT_1995CHUNK7.md) | `d82cba0de588862ddf9a9f8b9b6fe147577b1941dd58ccb31859570538abaeb0` |
 
 ## Canonical decision receipts
 
@@ -33,17 +33,17 @@
 | [Pinder_v_Johnson_merits_1996-05-21.md](../records/Pinder_v_Johnson_merits_1996-05-21.md) | `0f327bd` | `d5d912b5ad45c320a5b4a058b040cfeddac92b48dfa7beba14b7b89ee6406a1e` |
 | [Ornelas_v_United_States_merits_1996-05-28.md](../records/Ornelas_v_United_States_merits_1996-05-28.md) | `155b6fd` | `a9b0bab966b69d0e4e1d5e6bf0f870c84b1f465a545af8be635a94c0923f1fd2` |
 | [Quackenbush_v_Allstate_Insurance_Co_merits_1996-06-03.md](../records/Quackenbush_v_Allstate_Insurance_Co_merits_1996-06-03.md) | `903499b` | `7325524fac9bafe7be0a11cbb98eea3783d4d4d88fc4f0fc709f3cfb8fab30e0` |
-| [Loving_v_United_States_merits_1996-06-03.md](../records/Loving_v_United_States_merits_1996-06-03.md) | `0b208d6` | `ba492b6a039b79ebdea79780e575e8fd19cdd8663aff49c387c0114c12cd7686` |
+| [Loving_v_United_States_merits_1996-06-03.md](../records/Loving_v_United_States_merits_1996-06-03.md) | `0b208d6` | `9894194f9830452defb45fbd4a4db69d14e86ee6bc36a338af12e5285cb248c7` |
 | [Auciello_Iron_Works_Inc_v_NLRB_merits_1996-06-03.md](../records/Auciello_Iron_Works_Inc_v_NLRB_merits_1996-06-03.md) | `8e058fc` | `99d27c41550a93483c96dd60cbb4a0dd2fbaf38940fb98e4f7addfff77c00129` |
-| [Smiley_v_Citibank_South_Dakota_NA_merits_1996-06-03.md](../records/Smiley_v_Citibank_South_Dakota_NA_merits_1996-06-03.md) | `459b6b0` | `0ad8a0e8af76a2f81fff0f68ae475e01e3327b374041d2401c076ecc45da7fca` |
+| [Smiley_v_Citibank_South_Dakota_NA_merits_1996-06-03.md](../records/Smiley_v_Citibank_South_Dakota_NA_merits_1996-06-03.md) | `459b6b0` | `00a6c4ed86e993103f01b5d00b2f5e6bdc67a7ef201a05ab1e91e9efa349451c` |
 | [Richards_v_Jefferson_County_merits_1996-06-10.md](../records/Richards_v_Jefferson_County_merits_1996-06-10.md) | `dc75abf` | `5a7969406a2182ba32181b7fecf19c48000ace8c7709d6524b31b6b27305be92` |
 | [Whren_v_United_States_merits_1996-06-10.md](../records/Whren_v_United_States_merits_1996-06-10.md) | `2f48aa6` | `aaa5d90c66aa10a82d189d74789154fc82df58a1925fd4be93fe98f345afd487` |
 | [Degen_v_United_States_merits_1996-06-10.md](../records/Degen_v_United_States_merits_1996-06-10.md) | `3615a4e` | `e29d97176f4d1bfe3575675081eb77ac41ac310d2819864b0c8d4505a3f2d9e2` |
-| [Exxon_Co_USA_v_Sofec_Inc_merits_1996-06-10.md](../records/Exxon_Co_USA_v_Sofec_Inc_merits_1996-06-10.md) | `4c38fdd` | `c4e22b0a6fa77f571a14044668f12401a991a9a6c78f13eb089dd3ee9fe38f7d` |
+| [Exxon_Co_USA_v_Sofec_Inc_merits_1996-06-10.md](../records/Exxon_Co_USA_v_Sofec_Inc_merits_1996-06-10.md) | `4c38fdd` | `30a921a40f6db4986b1a11fef45aac05c6c4d30b87b05deaf903ec558e8a5c31` |
 
 ## Preserved June 10 baseline
 
-- PRE_JUNE10 projection: `d86eb19a8e518a9253986a0a8390d15fcbbf37de599efd560afaa0a3a561cd75`.
+- PRE_JUNE10 projection: `0ee6d017b4d7a655d078537c0798e39c051f3af607de3692e2ced39873adc959`.
 - Chronology note: `fa734ec368f7d5656b5912feb3befdb089c593115be9c0ebad34c509e2706313`.
 
 The public render contains only the Court’s actions and published reasoning. Stage receipts, research boundaries and review details remain in the internal Records, frozen handoffs and run control.

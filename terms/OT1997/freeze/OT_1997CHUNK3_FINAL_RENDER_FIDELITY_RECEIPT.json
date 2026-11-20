@@ -4,13 +4,13 @@
   "rin": {
     "path": "terms/OT1997/render-inputs/OT_1997CHUNK3.md",
     "bytes": 208276,
-    "sha256_before": "5ec4f843a7d5b9900d8849e8b32fa967be4a05880596f2e8e2e03b2f3f578d88",
-    "sha256_after": "5ec4f843a7d5b9900d8849e8b32fa967be4a05880596f2e8e2e03b2f3f578d88"
+    "sha256_before": "ce48919d68c8790b56d217f151207ae6d8897b708b4b2b144fac593b6217a64d",
+    "sha256_after": "ce48919d68c8790b56d217f151207ae6d8897b708b4b2b144fac593b6217a64d"
   },
   "output": {
     "path": "terms/OT1997/output/OT_1997CHUNK3.md",
     "bytes": 207990,
-    "sha256": "f2d90f62cda9fb02cd876c121695870aa3108fb72751c71f5e8d7bb7cba69f0a"
+    "sha256": "5d168bfe6bf186ab2d23099d1917a261cd4b72bd6bf2df79aac21cc8aea47ff8"
   },
   "completed_events": 13,
   "chronology_rows": 13,

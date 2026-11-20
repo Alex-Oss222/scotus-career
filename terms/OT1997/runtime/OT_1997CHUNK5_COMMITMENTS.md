@@ -216,7 +216,7 @@ All eight adopt the same sufficient Q1 rule and Q2 remedy. No partial join or se
 
 This handoff records decisional conclusions and authority, not private dialogue or a transcript of deliberation. Source limitations and material join barriers are preserved. Raw current Records, comparators and private Stone files were not opened. Freeze and runtime hashes are recorded separately after writing this file; no later substantive edit is authorized through that receipt.
 
-<!-- frozen-source: OT_1997CHUNK5_B_COMMITMENTS.md; sha256: 7946620332b90dd8d7006c43e993647027b0c73738b9d59a11daa2cb86ed0232 -->
+<!-- frozen-source: OT_1997CHUNK5_B_COMMITMENTS.md; sha256: 62586ccb256466887f051ad868ebad2c7ace425afadf41f2eb8448a2f249e076 -->
 
 # OT1997 chunk 5 — independent non-Stone commitments, batch B
 
@@ -399,7 +399,7 @@ Source digests below identify bytes entering this stage; paths are relative to `
 | freeze/CLEAN_NEUTRAL_VALIDATION_B.md | 3DE5C6FDD4B864E1F0D2E7E22925BA9397A99E61DD757461E253FA254A8471B3 |
 | freeze/OT_1997CHUNK5_NEUTRAL_TRIESTMAN_CLEAN.md | 0222530820DE6009255A06047BB7A2DD7D1D499AC1D5D8CF2A9ACDF35FE6D057 |
 | research/chunk5_control/TRIESTMAN_CLEAN_NEUTRAL_REVIEW.md | 003A891811325298BA7E08AB17F1D865F6C315262C844B5AEEF37ADF2BEAF6F4 |
-| entering-law/CHUNK5/07_aktepe.md | EFD40A58478459DD7FDD14D24AA8FB6894F1C69C4A279F7981256E12C3D7CA85 |
+| entering-law/CHUNK5/07_aktepe.md | FF69865D1E03C5FD287F0741AB31AE8A77173824299737909779854FEC5DEA61 |
 | entering-law/CHUNK5/08_triestman.md | CAEEE64A739093874102E00AE50C8CF09F9A52FC421589453021115DCC64B8A7 |
 | entering-law/CHUNK5/09_wp.md | 3AC348EFF7EC27725500BFA199460BF55D742E1877F98E8622E4FAB7872C1EAD |
 | entering-law/CHUNK5/10_hetzel.md | 1C86626DBBDBEC96487E867AB2F83B1ABAFF9805224B980E0FEF4319AF7AE880 |
@@ -417,11 +417,11 @@ Source digests below identify bytes entering this stage; paths are relative to `
 
 Validation performed in this stage: eight named Associates appear for each matter and separately for W.P.'s proof question; judgment/rationale differences and conditional positions are explicit; no final nine-Justice tally, authorship or private dialogue is generated; event cutoffs and same-day independence are retained; source limitations are distinguished from litigant conduct. Historical reconciliation, Stone compatibility, final assignment, full Record checks and final public projection remain later-stage work and are not certified here.
 
-<!-- frozen-source: OT_1997CHUNK5_HETZEL_CERTIORARI_COMMITMENTS.md; sha256: 4d8bbecd36e8ca46086a307b6038ecc0ed52619d3d998073bcf3a4847c5a3828 -->
+<!-- frozen-source: OT_1997CHUNK5_HETZEL_CERTIORARI_COMMITMENTS.md; sha256: adddaec8c926804d4b3a53d52294e30604884f38dde6ece1845b3f01968f5825 -->
 
 # Hetzel — independent Associate certiorari commitments
 
-Supplement to the immutable batch-B merits/threshold commitments; no change to their substantive positions. Prepared from the same clean neutral packet, its objective-source receipt, `entering-law/CHUNK5/10_hetzel.md`, and Engine §10. No comparator, same-matter Supreme Court outcome or current private Stone position was received. The frozen batch-B handoff has SHA-256 `7946620332b90dd8d7006c43e993647027b0c73738b9d59a11daa2cb86ed0232`.
+Supplement to the immutable batch-B merits/threshold commitments; no change to their substantive positions. Prepared from the same clean neutral packet, its objective-source receipt, `entering-law/CHUNK5/10_hetzel.md`, and Engine §10. No comparator, same-matter Supreme Court outcome or current private Stone position was received. The frozen batch-B handoff has SHA-256 `62586ccb256466887f051ad868ebad2c7ace425afadf41f2eb8448a2f249e076`.
 
 **Case:** Hetzel v. Prince William County, No. 97-954.
 **Scheduled action date:** March 23, 1998. No additional earlier grant date is invented.

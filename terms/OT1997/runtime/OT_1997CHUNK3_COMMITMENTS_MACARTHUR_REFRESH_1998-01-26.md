@@ -1,8 +1,8 @@
 # MacArthur / Lindblom — independent January 26 increment
 
-Append-only refresh incorporating the complete original `freeze/OT_1997CHUNK3_COMMITMENTS_MACARTHUR.md`, 50,296 bytes, SHA-256 `2d3ce7e3162be72a91f29e6a318a5125737a548f06625ae4ae58356f99d5d244`. Original runtime/freeze remain immutable, including their accurate treatment of the original monetary request and unestablished surviving statutory damages route.
+Append-only refresh incorporating the complete original `freeze/OT_1997CHUNK3_COMMITMENTS_MACARTHUR.md`, 50,296 bytes, SHA-256 `4b0ecb2f1385f2daeedaeba49f7aebc98837f54dfcf6085ef0b7b5b7bbf91119`. Original runtime/freeze remain immutable, including their accurate treatment of the original monetary request and unestablished surviving statutory damages route.
 
-Read the complete actual Allentown, Brogan, Oubre and Yankton public deltas and every published separate ground, plus `entering-law/OT_1997CHUNK3_LATE_CURRENT_LAW_1998-01-26.md`, SHA-256 `7d472982ee73b21202f2506cffc0aadffee0e739228294bf279b316fbafc3684`. The original already incorporates January 21 actual law and the monetary clarification, SHA-256 `85f1ec9711d2785733d86d2f212227e44d2c9768018216fcd6d44fcd5875d201`. Actual McCardle, Alexander, Fields and Danahy remain required before February 13 finalization; none is forecast as law.
+Read the complete actual Allentown, Brogan, Oubre and Yankton public deltas and every published separate ground, plus `entering-law/OT_1997CHUNK3_LATE_CURRENT_LAW_1998-01-26.md`, SHA-256 `d8a59876d28a4b785e0c8e8b86bcd97636193f98d3fcec3f210db1a7492cabba`. The original already incorporates January 21 actual law and the monetary clarification, SHA-256 `85f1ec9711d2785733d86d2f212227e44d2c9768018216fcd6d44fcd5875d201`. Actual McCardle, Alexander, Fields and Danahy remain required before February 13 finalization; none is forecast as law.
 
 ## Actual effect and competing paths
 

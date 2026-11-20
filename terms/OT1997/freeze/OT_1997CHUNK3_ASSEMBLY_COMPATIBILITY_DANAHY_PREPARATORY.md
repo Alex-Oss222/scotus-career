@@ -48,8 +48,8 @@ The required future gates remain: actual public-law release and clean affected-s
 | Input | SHA-256 |
 |---|---|
 | Frozen neutral Danahy | `f6046179c1ff79f73873fd69723a7f288a74d09149f86ddec6590cf93ae8b61b` |
-| Frozen independent commitments Danahy | `179bf7aeb3c186e5cb064a6f60bee3bf0e3ce9382ee05d535ddb2befbdb6375a` |
+| Frozen independent commitments Danahy | `5a16340873e1d3523249ca187db7f15e1523d2d995f955f41b20b167e33350d9` |
 | Frozen repaired reconciliation Danahy | `cfe1dd0097f76c47936de1dcf601eb6dac08b0662190cc1492aca0f3f7701a32` |
 | Authorized runtime Stone Danahy | `1130978f812470b8526b037c64aaf7d74cceb93cf636303672853d1d69b45b5d` |
 | Exact Danahy entering-law slice | `218f7905a85d0a0bc0481e52d8c834dbeb5e8d396e8d1eaba7703107761a15d4` |
-| January 21 actual-law addendum | `ae27588c32e3c3b726bb86781b635924ba25928363a3699e046b653c0652fc36` |
+| January 21 actual-law addendum | `71fd4f4314551f47047f5635eb92a9bc1058de95d9fc288ebff62a5a68833c75` |

@@ -1,6 +1,6 @@
 # Hetzel preservation modeling validation
 
-Eight named Associate rows are present exactly once. The new freeze and runtime copy are byte-identical. Original batch-B freeze SHA-256 remains `7946620332b90dd8d7006c43e993647027b0c73738b9d59a11daa2cb86ed0232`; it was not edited. New information adds the express preservation ground but changes no Associate vote, remedy or substantive join. Historical reconciliation is not certified here. No comparator or private merits input was opened.
+Eight named Associate rows are present exactly once. The new freeze and runtime copy are byte-identical. Original batch-B freeze SHA-256 remains `62586ccb256466887f051ad868ebad2c7ace425afadf41f2eb8448a2f249e076`; it was not edited. New information adds the express preservation ground but changes no Associate vote, remedy or substantive join. Historical reconciliation is not certified here. No comparator or private merits input was opened.
 
 | Source/artifact | SHA-256 |
 |---|---|

@@ -1,6 +1,6 @@
 {
   "record": "American_Life_League_v_Reno_merits_1995-11-13.md",
-  "record_sha256": "a49f3645b339c538d11da1eae8e48d8cfb5ccf044ab234a7709700276bb8d01b",
+  "record_sha256": "f8a4b150954af8f9c8019e39b2b493879e100d3ffca484ab9959c6446fd31718",
   "record_bytes": 99297,
   "input_sha256": {
     "freeze/OT_1995CHUNK1_ALL_TEXT_NEUTRAL_SUPPLEMENT.md": "adab7fb54ef8b459020c55a4910b7ebcc94f3e46d4ab304b4a64e64b38d9cfd3",
@@ -13,7 +13,7 @@
     "freeze/OT_1995CHUNK1_B_STONE_INPUT.md": "f1973d78b7aec35fa06bee7017819362001cf892e1d8724ff8eeb2ba7a11f81c",
     "freeze/OT1994_ASSIGNMENT_REVIEW.md": "ebeb16642d9172cbfd3b3df41b044c444108c7e7475229ca034805af5642c697",
     "entering-law/OT_1995CHUNK1_B.md": "70eda63e3d903a45d643970407060886142f308a1daa60b97fe0b56f404f24bf",
-    "entering-law/OT_1995CHUNK1_B_SUPPLEMENT.md": "bc073bfd6bb7f10a28848f2e778e28b870fafbe3d293841a0f76f5561a96f1aa",
+    "entering-law/OT_1995CHUNK1_B_SUPPLEMENT.md": "7b30f4cece6240523e095e774f49ae27cfc54e733f627884e6f629ffb393e6c7",
     "sources/B_AMERICAN_LIFE_LEAGUE_OBJECTIVE_SOURCE_ADDENDUM.md": "ce25079f979c1b50370f2f8ee3decf44892ab25f3a2b9be1debd484bb9f79da3",
     "sources/preflight_b/B_FACE_1994.txt": "b235e3651e7c4252deac0f2ac6a6c643bb50ef88588c22f2ca7054377e4fffa7",
     "entering-law/PUBLIC_Wood_v_Bartholomew_summary_merits_1995-10-10.md": "dcc2c0168c64036cef4c6f74c06b1007d654466253f36b1007db2ad7e923e159",
@@ -32,7 +32,7 @@
     "RFRA requires further adjudication of the prospective-enforcement claim": 243
   },
   "checks": "Eleven blocks, exact Holdings identity, component arithmetic, controlling joins, eight Associate rows, explanation ceilings, input preservation, public workflow exclusion passed.",
-  "public_draft_sha256": "a49f3645b339c538d11da1eae8e48d8cfb5ccf044ab234a7709700276bb8d01b",
+  "public_draft_sha256": "f8a4b150954af8f9c8019e39b2b493879e100d3ffca484ab9959c6446fd31718",
   "restarted_from": "Corrected neutral, independent refresh and ALL-only reconciliation frozen before this authorized restart; original freezes unchanged.",
   "pending": "Root actual B effective-law/assignment refresh and final preservation review; no output render created."
 }

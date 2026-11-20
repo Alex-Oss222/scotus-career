@@ -2,7 +2,7 @@
 
 ## Scope and source control
 
-This final handoff covers District of Columbia v. Tri County Industries, Inc. (January 17, 2001), Brentwood Academy, Director of Revenue of Missouri v. CoBank ACB, and Illinois v. McArthur (February 20, 2001). SWANCC is separately final in `OT_2000CHUNK2_RECONCILED_SWANCC_FINAL.md`, SHA-256 `507b801cf382e0d24616be2f685c072caa9b45099651bca4dc781644a50d64f4`.
+This final handoff covers District of Columbia v. Tri County Industries, Inc. (January 17, 2001), Brentwood Academy, Director of Revenue of Missouri v. CoBank ACB, and Illinois v. McArthur (February 20, 2001). SWANCC is separately final in `OT_2000CHUNK2_RECONCILED_SWANCC_FINAL.md`, SHA-256 `8307b3273e693516a718c93825a03a53941e05775bd0854f96b1129b9e337163`.
 
 The immutable model is `OT_2000CHUNK2_COMMITMENTS_LATER.md`, SHA-256 `904fca909f581bd6ee3a7ada9e7623fac444ddace47b4d05f2c411084d42355c`. It was read with the four authorized neutral packets, entering-law slices and public-position/statutory supplements, the relevant validated factual handoffs, and then the four comparator modules and complete official historical texts, including every writing and note. The source-control receipts establish the original-record retrieval and full reading already performed by the source contexts; this context does not claim an independent full read of those original submissions. No controlled current-case position, full approved brief, raw current-term Record, or restricted source was received.
 

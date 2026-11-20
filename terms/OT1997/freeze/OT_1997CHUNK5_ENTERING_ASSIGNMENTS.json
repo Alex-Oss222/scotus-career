@@ -893,7 +893,7 @@
     {
       "record": "buchanan_v_angelone_merits_1998-01-21.md",
       "effective_date": "1998-01-21",
-      "sha256": "ca51e1fb45566cd18a69ef84fef953d254a6a661a31a26f214ac8e1c15d7e5d6",
+      "sha256": "4d42937a34ecae2d0ab79d12ef91680a5b6c0433631b2bdfe7e70ec00f84373d",
       "opinion_topology": "| Writing | Author | Joined by | Relationship to judgment | Scope joined |\n|---|---|---|---|---|\n| Opinion of the Court | O'Connor | Scalia, Kennedy, Souter, Thomas in full | Supports both dispositions | Parts I–II |\n| Same opinion, partial join | O'Connor | Stone-Zsela | Supports constitutional affirmance; agrees only in disposition of statutory-factor claim | Part I only |\n| Same opinion, partial joins | O'Connor | Stevens, Ginsburg, Breyer | Support statutory-factor rejection; oppose constitutional affirmance | Part II only |\n| Concurrence | Scalia | — | Retains full application join | Constitutional reservation does not displace governing law |\n| Concurrence in Part II and dissent | Breyer | Stevens, Ginsburg | Would vacate the constitutional denial and remand | Agrees with limited statutory nonentitlement; rejects Part I's charge application |",
       "topology_table_rows": [
         [
@@ -1006,7 +1006,7 @@
     {
       "record": "lunding_v_new_york_tax_appeals_tribunal_merits_1998-01-21.md",
       "effective_date": "1998-01-21",
-      "sha256": "b5cd73e3e0c92ba1b0d460baac42068d254dbce256049148e71972a045cf42b7",
+      "sha256": "dea5f6409a179b030b52365ff717092bb88f4b82cb3884d6846ad45c57708754",
       "opinion_topology": "Thomas delivers the opinion of the Court, joined in full by Stone-Zsela, Stevens, O'Connor, Scalia, Souter and Breyer. The same seven Justices adopt both holdings and all their qualifications. Ginsburg dissents, joined in full by Kennedy, on both the income-attribution and independent home-State personal-expense grounds.",
       "topology_table_rows": [],
       "principal_authors_in_topology": [
@@ -1034,7 +1034,7 @@
     {
       "record": "allentown_mack_sales_service_inc_v_nlrb_merits_1998-01-26.md",
       "effective_date": "1998-01-26",
-      "sha256": "057602e06bdc281f86ac3d6c0f83996e57813cad5335f3af737e0517f13d1d5c",
+      "sha256": "ccd8418f9e54008caa28b8124ed030415771a89652e2f4edc1a2b5b8a910581d",
       "opinion_topology": "| Writing | Author | Joined by | Relationship to judgment | Scope joined |\n|---|---|---|---|---|\n| Opinion of the Court | Scalia | All eight other Justices | Common posture and record | Part I |\n| Same opinion | Scalia | Stevens, Souter, Ginsburg, Breyer | Rejects facial challenge | Part II |\n| Same opinion | Scalia | Stone-Zsela, O'Connor, Kennedy, Thomas | Supports reversal and denial of enforcement | Parts III–IV: reach, application framework, evidence and mandate |\n| Same opinion | Scalia | Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg, Breyer | Leaves the independent remedy objection unreviewed | Part V; Stone-Zsela agrees only in that nonreview disposition |\n| Concurrence in Parts I and III–IV and the judgment, dissent from Part II | Stone-Zsela | O'Connor, Kennedy, Thomas | Supports denial of enforcement and also would invalidate the threshold | Statutory ground and its preserved limits |\n| Concurrence in Parts I–II and V, dissent from Parts III–IV and judgment | Breyer | Stevens, Souter, Ginsburg | Would affirm enforcement | Question-scope objection and independent substantial-evidence defense |",
       "topology_table_rows": [
         [
@@ -1186,7 +1186,7 @@
     {
       "record": "oubre_v_entergy_operations_inc_merits_1998-01-26.md",
       "effective_date": "1998-01-26",
-      "sha256": "a1dd3463f1ec150c10025bbc569fa5ad8c4e9dfe2aa098a1ef72fce99b153bd5",
+      "sha256": "b726b301f0be883b57d57b7a1639c58b0514dd512d2d3c89f6bd28f2dcf34c0e",
       "opinion_topology": "O'Connor delivers the opinion of the Court, joined in full by Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg and Breyer. Breyer concurs, joined by O'Connor; both fully join the Court. Scalia and Thomas each dissent separately and join neither the Court nor one another's dissent. Scalia would affirm on lack of tender alone and rejects ratification here; Thomas would affirm on ratification and also preserves tender as a distinct condition.",
       "topology_table_rows": [],
       "principal_authors_in_topology": [
@@ -1206,7 +1206,7 @@
     {
       "record": "south_dakota_v_yankton_sioux_tribe_merits_1998-01-26.md",
       "effective_date": "1998-01-26",
-      "sha256": "cefc949abfd058bd1a9d227444627934b28ebcda1b958025c09393e9e6fc72a1",
+      "sha256": "6596668e5b3caa804a7ed6b8856c827c0854dff344a062884da2d26fe5358a78",
       "opinion_topology": "Stevens delivers the opinion of the Court, joined in full by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. All nine adopt the three holdings and their qualifications. No separate writing issues.",
       "topology_table_rows": [],
       "principal_authors_in_topology": [

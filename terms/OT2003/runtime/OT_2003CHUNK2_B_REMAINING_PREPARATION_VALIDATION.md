@@ -17,9 +17,9 @@ The §4 fixed-core and preparatory §15 checks, four/specified component complet
       160,
       141
     ],
-    "commitments_sha256": "2791ef50b4d9f4f67a400c15e653051eddab5aa4a4ea4aa9d540b140a7a7ddef",
+    "commitments_sha256": "796baeb191026f6ffb98cc41da6454edb8bb4882048ead536adc4dd835499133",
     "reconciled_sha256": "cfd061377f11f1070ce00f4367dd4df84c865f886976d6e2c98508747de5a182",
-    "kernel_sha256": "07b3af34985edf03b78f99c8aac1465db396bf10c721313aebdd049ec5485081",
+    "kernel_sha256": "e6e44dd00f930a011539253289019c21c4d9d7375344b615b41dc4c1e57f40e4",
     "public_draft_sha256": "9a3a39d6246af010d917a390f53d7bbd64a4419a0e05345b9eb839b3479e9665",
     "authors_selected": false,
     "counts_performed": false,

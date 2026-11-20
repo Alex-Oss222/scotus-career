@@ -59,12 +59,12 @@ The linked Records are incorporated as the adjudicative source. Ordering same-da
 | 2000-01-12 | [Friends of the Earth, Inc. v. Laidlaw Environmental Services (TOC), Inc.; No. 98-822](../records/friends-of-the-earth-v-laidlaw_merits_2000-01-12.md) | `722d88b86a047776ad44f6e914160c08edf935a7ff24f516e67c81f4d92208d3` |
 | 2000-01-12 | [Illinois v. Wardlow; No. 98-1036](../records/illinois-v-wardlow_merits_2000-01-12.md) | `5f5c25d518248d214c174d9bc40b6ae55037bee7cd2d82ce1997a3e232fb6bb5` |
 | 2000-01-12 | [Martinez v. Court of Appeal of California, Fourth Appellate District; No. 98-7809](../records/martinez-v-court-of-appeal_merits_2000-01-12.md) | `b1f81de58bf02c78e0255b3b50553adfc4e75de928c764a64736fb07ed3d90f5` |
-| 2000-01-12 | [Reno v. Condon; No. 98-1464](../records/reno-v-condon_merits_2000-01-12.md) | `3310cde500b8ce7b7450de6180a91461812ae1f918b907d0d1cba0a1dc882e70` |
+| 2000-01-12 | [Reno v. Condon; No. 98-1464](../records/reno-v-condon_merits_2000-01-12.md) | `dd2b199ec7191781829b12c3518eacfa97200b7d37eab6bf6ad417cbd26b8409` |
 | 2000-01-18 | [Fraternal Order of Police v. United States; D.C. Circuit No. 97-5304; 173 F.3d 898](../records/fraternal-order-of-police-v-united-states_merits_2000-01-18.md) | `68904d46481c260faf823b60dbf5c1c319e3dae369083426ff4c2802b921c974` |
 | 2000-01-19 | [Gutierrez v. Ada; No. 99-51](../records/gutierrez-v-ada_merits_2000-01-19.md) | `1c598428b8b21dc17d7a172fff458e2c179ee73b171df267734bfcfa32050bc4` |
 | 2000-01-19 | [Smith v. Robbins; No. 98-1037](../records/smith-v-robbins_merits_2000-01-19.md) | `13bafda1245b651d98765ea53c2c4353190aef83f1a373db8bd83b432865c1ca` |
 | 2000-01-19 | [United States v. Martinez-Salazar; No. 98-1255](../records/united-states-v-martinez-salazar_merits_2000-01-19.md) | `1f8f0ec2f1ee668beba21fbea4862230a61b035bf53b9ed13439cee3c09a6cff` |
-| 2000-01-19 | [Weeks v. Angelone; No. 99-5746.](../records/weeks-v-angelone_merits_2000-01-19.md) | `8afe3d0cd2c7d93edd4266e1b4888887b9e2d21af14fdc6ffffdd5d5dad31886` |
+| 2000-01-19 | [Weeks v. Angelone; No. 99-5746.](../records/weeks-v-angelone_merits_2000-01-19.md) | `04cb9f33c95b7ae738dd00789666d81d14492f530008e95f8f8e36729d19b6f7` |
 | 2000-01-24 | [Nixon v. Shrink Missouri Government PAC; No. 98-963](../records/nixon-v-shrink-missouri-government-pac_merits_2000-01-24.md) | `d367876a4acfb0fd0e2e16ce6d7a2bdc3e5fd08d433bdb176349edb8515f6eb4` |
 | 2000-01-24 | [Reno v. Bossier Parish School Board / Price v. Bossier Parish School Board; Nos. 98-405 and 98-406](../records/reno-price-v-bossier-parish-school-board_merits_2000-01-24.md) | `cfa06985c18b045c3d63461b363eea8e837e1a622893984df27830892f03679d` |
 | 2000-02-07 | [U.S. West, Inc. v. Federal Communications Commission; Tenth Circuit No. 98-9518; no Supreme Court docket supplied.](../records/us-west-v-fcc_merits_2000-02-07.md) | `4e15e66e44b7fa4c3429f0e627df275c54dd887a015a6008197487c656391d13` |
@@ -80,7 +80,7 @@ The linked Records are incorporated as the adjudicative source. Ordering same-da
 | 2000-02-29 | [Shalala v. Illinois Council on Long Term Care, Inc.; No. 98-1109](../records/shalala-v-illinois-council_merits_2000-02-29.md) | `01fb693a23e7404e08693b4d4a2263c1d3bb0e226f544802dfe4bce3bd537233` |
 | 2000-03-01 | [United States v. Johnson; No. 98-1696](../records/united-states-v-johnson_merits_2000-03-01.md) | `7bc57fab48e39ec35a6207ad18682c2a95dd05a075fc1edcc691d00ad0fa5f28` |
 | 2000-03-06 | [Adams v. Commissioner of Internal Revenue; No. 99-798; below No. 98-7200.](../records/adams-v-commissioner_merits_2000-03-06.md) | `23ed8f7920b3abfabd981e040cf9f92f101a3313f59e44c5879ef42f4d3ecff4` |
-| 2000-03-06 | [Portuondo v. Agard; No. 98-1170](../records/portuondo-v-agard_merits_2000-03-06.md) | `b327d5bca95ea2a3cbe9bd34f61009dd9f5bb6b9678f20573b807baaba268ca6` |
+| 2000-03-06 | [Portuondo v. Agard; No. 98-1170](../records/portuondo-v-agard_merits_2000-03-06.md) | `52c9eed085f5d6abb93a43b43642469394bd557b698d479740ca61b7a41bd613` |
 | 2000-03-06 | [United States v. Locke / International Association of Independent Tanker Owners v. Locke; Nos. 98-1701 and 98-1706](../records/united-states-v-locke-intertanko-v-locke_merits_2000-03-06.md) | `4bcf6a6973029c61cd4653673ce1c52f9c566d71f55b0d044ce029160a27a098` |
 | 2000-03-13 | [Carter v. City of Philadelphia; No. 98-1581 below; no Supreme Court docket supplied.](../records/carter-v-city-of-philadelphia_merits_2000-03-13.md) | `c8e6e7cfd75c02dae7cec9d7073b7ba7ee3708c1936beadfe78ac8eded89be19` |
 | 2000-03-21 | [Cortez Byrd Chips, Inc. v. Bill Harbert Construction Co.; No. 98-1960; below No. 98-6404.](../records/cortez-byrd-chips-v-bill-harbert_merits_2000-03-21.md) | `f8f4dd6a62c78e0f801b6a1fbfd7bf170f03c9e63dc7135d5523155329f03a58` |
@@ -113,7 +113,7 @@ The linked Records are incorporated as the adjudicative source. Ordering same-da
 | 2000-05-15 | [Johnson v. United States; No. 99-5153.](../records/johnson-v-united-states-99-5153_merits_2000-05-15.md) | `54fc40b502516706cfc2696746c88e3a43f8d4f8e552a19a0bebdc6460645a49` |
 | 2000-05-15 | [Public Lands Council v. Babbitt; No. 98-1991.](../records/public-lands-council-v-babbitt_merits_2000-05-15.md) | `79409d6989c6b62d534992af9e66368cf274d506d8295388dd21050e719de3a2` |
 | 2000-05-15 | [United States v. McIver; review of 186 F.3d 1119 (9th Cir. 1999); lower appellate Nos. 98-30145 and 98-30146; no separate Supreme Court docket supplied.](../records/united-states-v-mciver_merits_2000-05-15.md) | `cce0e111dfdbf97e272df660cc3f07a6ca8f1c1251db52d658663950f1debd57` |
-| 2000-05-15 | [United States v. Morrison / Brzonkala v. Morrison; Nos. 99-5 and 99-29, consolidated.](../records/united-states-v-morrison-brzonkala-v-morrison_merits_2000-05-15.md) | `da9f9f86167c0ab0d4d017764d0e99f61a4030c59db397a4e37b7dfe14732ad7` |
+| 2000-05-15 | [United States v. Morrison / Brzonkala v. Morrison; Nos. 99-5 and 99-29, consolidated.](../records/united-states-v-morrison-brzonkala-v-morrison_merits_2000-05-15.md) | `2921c6096ad4272e28e0445ef649cfc6c28efd826c8e681c2de5bc19d3d45ce7` |
 | 2000-05-22 | [Geier v. American Honda Motor Co.; No. 98-1811.](../records/geier-v-american-honda-motor-co_merits_2000-05-22.md) | `5f16e60f519632573a9bd908d0d5a55956f6ed28bc1e915fcb5277737eaa479e` |
 | 2000-05-22 | [Jones v. United States; No. 99-5739.](../records/jones-v-united-states_merits_2000-05-22.md) | `0e778689a0f7af949901d20f0c8514f1c33ff16811efc144070779c0d650eba4` |
 | 2000-05-22 | [Ohler v. United States; No. 98-9828.](../records/ohler-v-united-states_merits_2000-05-22.md) | `a7615d9e0ca05ea7846755f46ca415fc7ed0a80d255dccf5a03b1dcca55d80e5` |
@@ -132,7 +132,7 @@ The linked Records are incorporated as the adjudicative source. Ordering same-da
 | 2000-06-12 | [Carter v. United States; No. 99-5716.](../records/carter-v-united-states_merits_2000-06-12.md) | `3c5d42dad73696b135797069420f4b1e56a9910b34ca69dcaef51e672c9b4761` |
 | 2000-06-12 | [Harris Trust and Savings Bank v. Salomon Smith Barney Inc.; No. 99-579.](../records/harris-trust-and-savings-bank-v-salomon-smith-barney_merits_2000-06-12.md) | `4236fdb1777518355ac888a861566625b2ec171e03f31bfc1a570b4fc010e4db` |
 | 2000-06-12 | [Pegram v. Herdrich; No. 98-1949.](../records/pegram-v-herdrich_merits_2000-06-12.md) | `a689b63f9123bbf0c79e7e34e956f8e5d3bcc1c2a0eee3d9c8d066291c192a06` |
-| 2000-06-12 | [Ramdass v. Angelone; No. 99-7000.](../records/ramdass-v-angelone_merits_2000-06-12.md) | `f87c6c4d36bc6d3dd136ad7340bc9be8b16e2f106dd5b199872fa417bba730ba` |
+| 2000-06-12 | [Ramdass v. Angelone; No. 99-7000.](../records/ramdass-v-angelone_merits_2000-06-12.md) | `7f29f6d6a76f73880508fc6676e8283c341b1d1a379b3a4c5f4a018fc55c854c` |
 | 2000-06-12 | [Reeves v. Sanderson Plumbing Products, Inc.; No. 99-536.](../records/reeves-v-sanderson-plumbing-products-inc_merits_2000-06-12.md) | `857452a2cabba00908c4bb3dc85264bd12e9c4e219f9dbb9e9728302869b923f` |
 | 2000-06-19 | [Arizona v. California; No. 8, Original.](../records/arizona-v-california_original-merits_2000-06-19.md) | `c9f1995b45517fd6aa20566ae518899e01c6594e8ed81c7a5ed84a409b2dd39b` |
 | 2000-06-19 | [Crosby v. National Foreign Trade Council; No. 99-474.](../records/crosby-v-national-foreign-trade-council_merits_2000-06-19.md) | `ff842f3cfd851f2c123b106689cedf1566d2daa275ff4376b577ec17928b80d4` |
@@ -175,13 +175,13 @@ Source provenance and temporal limits:
 | Chunk | Court events | Public render | SHA-256 |
 |---:|---:|---|---|
 | 1 | 12 | [OT_1999CHUNK1](../output/OT_1999CHUNK1.md) | `7d534d169e120da03817d445320431a6a64fd3b31dc2996815c4371edaa0a537` |
-| 2 | 12 | [OT_1999CHUNK2](../output/OT_1999CHUNK2.md) | `53f52f115c940c36ed7444eaf3ac76605b2ad6b117e42a4f72f24e012d72c600` |
-| 3 | 12 | [OT_1999CHUNK3](../output/OT_1999CHUNK3.md) | `5930843ad7875dac0df4ce4336d941900904db195178fac59cce8be100365cc4` |
+| 2 | 12 | [OT_1999CHUNK2](../output/OT_1999CHUNK2.md) | `74d1df12089003cd5a36b47e4117aef5935a0af02e51797c1e9dfcfd306ae8e0` |
+| 3 | 12 | [OT_1999CHUNK3](../output/OT_1999CHUNK3.md) | `cf3f8ccd1a4215613bf2c39ee2ac7985ab1f4a0386604e975a9758c836b76885` |
 | 4 | 12 | [OT_1999CHUNK4](../output/OT_1999CHUNK4.md) | `29c7648fcf9e3fc6d234b254e3297f8c8404b1b33683bfbdb3b63f1423ff7ef9` |
 | 5 | 12 | [OT_1999CHUNK5](../output/OT_1999CHUNK5.md) | `0aab19a8cbe72112e70d5a6cdcfcea0c7fd48ec22867e9e0100d2164f6e641f5` |
-| 6 | 12 | [OT_1999CHUNK6](../output/OT_1999CHUNK6.md) | `17b50782eaea15eb1f82ea208a57a38c62c2b21ae99a509baa4b7a88b1c3d7a4` |
+| 6 | 12 | [OT_1999CHUNK6](../output/OT_1999CHUNK6.md) | `c3e634a5f0677dc5ee8ab3842db17c179acc217f5e566182eae68158f8aa30ee` |
 | 7 | 12 | [OT_1999CHUNK7](../output/OT_1999CHUNK7.md) | `69ba2da2dba6d772dd6ca5227214b31825d0dcb1676a1d599f2435a680efa4ca` |
-| 8 | 12 | [OT_1999CHUNK8](../output/OT_1999CHUNK8.md) | `1b657ac79bd244edd08fec3a2975e3be2bc271a232653bcb63d340dfff2965d4` |
+| 8 | 12 | [OT_1999CHUNK8](../output/OT_1999CHUNK8.md) | `37160b3dc7a2c21312de76ccbc22a2fa11839fe5ee18ca5a53455378a529a2fc` |
 | 9 | 8 | [OT_1999CHUNK9](../output/OT_1999CHUNK9.md) | `05107bc77bbc5c481e7d68be8ed54ef86f43ceab57ae4a7f2117c2d98bd70759` |
 
 ## Generated navigation
@@ -203,8 +203,8 @@ Publication completed and verified on November 3, 2026. All three common metadat
 | [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md) | `e904e48920cfb758efad2e9932db1392579ff3a6234399d3f50be521d03853fb` |
 | [Standing State](../../../state/STANDING_STATE.md) | `1cd83a6f8016eb8233f7ce2886d723c870686285a18b190bfc60ff8ea30c08c9` |
 | [Term index](../INDEX.md) | `b96499c97556dbda39d646d56a046327d6ab1c35f2d9888be805c56e5e7f934e` |
-| [Separate writings](SEPARATE_WRITINGS.md) | `197769bb48537410bad73184949c3b855b72777311a6951a1721b2b5307be5f9` |
-| [Departures](DEPARTURES.md) | `fb79e18341ce6113b76686b5fb079f39e85fdb91c55b15faed6f82b500ceef40` |
+| [Separate writings](SEPARATE_WRITINGS.md) | `1a9289217c2bd8c8f89cedbd4f3c1c28409592bf3ad1163b27886cdf88314e6e` |
+| [Departures](DEPARTURES.md) | `0766fbefd8700ad6e06e7fed63fca669ebab9824ed5ea624e22fa7fc13f89544` |
 | [Consequences](CONSEQUENCES.md) | `354620cef18887a38542d582161d01a8d72d98a1e59aadce84778e43800d36ad` |
 
 The prescribed commands completed:

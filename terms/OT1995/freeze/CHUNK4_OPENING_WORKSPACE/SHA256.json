@@ -1,22 +1,22 @@
 {
   "terms/OT1995/workspace/continuity.md": {
     "snapshot": "terms/OT1995/freeze/CHUNK4_OPENING_WORKSPACE/continuity.md",
-    "sha256": "697040b95e23f6520efd9347a6bf54fdb0b6187cf906a68e9a38f44138e30a3f",
+    "sha256": "7e80a1a03a91921e8413e9ff93db0e238bbb6341c387b9f7b2bf3308235241bb",
     "bytes": 142017
   },
   "terms/OT1995/workspace/ledger.md": {
     "snapshot": "terms/OT1995/freeze/CHUNK4_OPENING_WORKSPACE/ledger.md",
-    "sha256": "4ede3a28a3478fa3299154ecf08072bb2296197831b8157a64138fc41aebf714",
+    "sha256": "00acfda24e56c60252342a3c744dafb4876e56045cc1401ae6ecd45e28f7ca14",
     "bytes": 30593
   },
   "terms/OT1995/workspace/manifest.md": {
     "snapshot": "terms/OT1995/freeze/CHUNK4_OPENING_WORKSPACE/manifest.md",
-    "sha256": "388f44faca25887163cfbfecbc8e92019d638511f352e2dc3d9e2a11f2c679ef",
+    "sha256": "9cdd5d7138e966f1fb2c5f3fcd7b1e011e916a2b0ea01105367586c3afdd494e",
     "bytes": 81818
   },
   "terms/OT1995/workspace/neutral-projection.md": {
     "snapshot": "terms/OT1995/freeze/CHUNK4_OPENING_WORKSPACE/neutral-projection.md",
-    "sha256": "b6c4fc367d8bc9bd15244cba813da7d3269e9f26a70381396f625b06a859069e",
+    "sha256": "c2683e4db33d7c94b7e6fa02d7782754039b9ff51c99da0ab99fd5e76d319754",
     "bytes": 140349
   },
   "state/HOLDINGS.md": {

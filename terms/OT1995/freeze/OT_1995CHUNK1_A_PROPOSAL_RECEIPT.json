@@ -1,7 +1,7 @@
 {
   "artifact": "freeze\\OT_1995CHUNK1_A_RECONCILIATION_PROPOSAL_CERT_EXPOSED.md",
   "status": "proposal only; authoritative audit pending",
-  "sha256": "6af0c5d56c0bac5a321462aab7d1aba9b891641b6b15c03bbe442b1700ceb529",
+  "sha256": "65591b2b10cb7b6fb2a9ef1ce5332f90197a9fd3d51a71520a3c95f1fb0b4873",
   "bytes": 36837,
   "runtime_freeze_identical": true,
   "missing_local_links": [],
@@ -16,8 +16,8 @@
     "Breyer": 4
   },
   "initial_frozen_inputs_preserved": {
-    "OT_1995CHUNK1_A_NEUTRAL_VALIDATED.md": "01fdb030ec167fb378b193f332226d9f2ff449c4e4ad2adf9b3d0f262a53ffd5",
-    "OT_1995CHUNK1_A_COMMITMENTS.md": "49e4eb7f51daea8b6fbfb26272b602bd6c389f8d934cb7fb350e6e10f659bd93",
+    "OT_1995CHUNK1_A_NEUTRAL_VALIDATED.md": "3c860dbde42cbf65baf05bc09cc4d373c41592dd00e695180630304c5573c4b6",
+    "OT_1995CHUNK1_A_COMMITMENTS.md": "77f5a13fb7d30dbb574139fdcd97a5f8068cf8d7a807eac81dd4e6e76151fe1d",
     "OT_1995CHUNK1_A_COMPARATOR_INPUT.md": "b42a29d48eb1685bfbc3735b27db4b39d286ce816da6020cb308abc023203b55"
   },
   "read_extent": {

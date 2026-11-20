@@ -8,10 +8,10 @@ Every saved original matches both its normalization-receipt hash and its hash in
 
 | Record | Current SHA-256 |
 |---|---|
-| Bauchman | `d3cf2d7ec6898772c62a8208b8b24b893a9f14be09310dce5271646168ea24ae` |
-| Burlington / Ellerth | `daa41759143180bf8d1f1ab3825b11eb808976d61a79c6b9aaf51103aee2adbe` |
-| Monge | `3a0f7f944a2471abcb8caeefc18b12aa93e923672a5af6bf6ebd658c98886132` |
+| Bauchman | `9a75b35c9019df4f4cfada97b5be5ee8a21e69c9a982b26be2453936e1bfd5fa` |
+| Burlington / Ellerth | `55bf0671ade001ad136222db22fcbd1c372154b3aae8e8a42203dfa31d8e68bf` |
+| Monge | `4ea24e5fd93c568598f720f605adeba7a7bdcb3fb9f69876412da408234e95c3` |
 
-The mechanical evidence is saved in [chunk12_june26_format_review_checks.json](../../../tmp/chunk12_june26_format_review_checks.json). The prior review memo remains SHA-256 `7b5c287c298471d6aeff271de7612add2a415037f71beb71ccd9320d652819d7`.
+The mechanical evidence is saved in [chunk12_june26_format_review_checks.json](../../../tmp/chunk12_june26_format_review_checks.json). The prior review memo remains SHA-256 `871f4c28fa754a4a0433714359253f16f2db094feb18a67fcd7de8ed99edb3ae`.
 
 This is initial Run integration formatting for the stock checker's exact heading requirement, not an adjudicative change. The earlier review conclusion remains effective; its earlier hashes accurately identify the stage reviewed. Frozen reading copies retain identical legal content and need no substantive revision because of this normalization. This bounded check does not replace the operator's separate artifact-guard, snapshot or workspace validation. The reviewer changed no Record, prior memo or prior receipt and used no Git or private-path access. No format-review discrepancy remains.

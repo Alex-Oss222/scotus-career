@@ -10,10 +10,10 @@ No material effect on Castro or Pringle: the expanded wording concerns an unneed
 
 | Artifact | SHA256 |
 |---|---|
-| Fixed entering-law copy | 4e50ffae841ef5502212fdbb8564d79bd5d7f083b4bcbb1e333d4c82146c4766 |
-| Saved pre-completeness Record | 335bdc47bf6b179628392eeb347d2f10b3e21baf255986d195075b17569fa5d2 |
+| Fixed entering-law copy | e7000f0e0803ebf1830d13673c382e03aa618b14a8903f7ec89daa20af11a195 |
+| Saved pre-completeness Record | 4e9a8e3d2bd1938104738b61265b495a398e1f80e3bd96323c8cf9bce7c35c8e |
 | Preserved original public snapshots | b5f6492d37348b44004bbcbe64866f845b2cf3e16003fdbe1249e7f1aa8c4308 |
-| Final Record | a385aaf4c4a74e8c8d039abaaddb0e6808cd0bf7a9333798b9efd6b51d1eddda |
+| Final Record | cdea844c622f34426780eedaaeb326a652810991954a26814f5651fbcda11fe3 |
 | New public completeness twins | 4245ea75f1d1272af7ce3b06416a8ef5f964137387732733e1360f1353468a9b |
 
 Full holding word counts: [335, 338, 268, 239]. Exact internal/public holding identity, eleven-block order and unchanged original snapshot hashes pass.

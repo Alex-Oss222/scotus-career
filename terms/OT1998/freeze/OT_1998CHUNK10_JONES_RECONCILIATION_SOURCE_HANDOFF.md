@@ -5,9 +5,9 @@
 ## Exact inputs and supersession
 
 - `freeze/OT_1998CHUNK10_JONES_VALIDATED_NEUTRAL.md` is the base clean neutral packet.
-- `freeze/OT_1998CHUNK10_JONES_COMMITMENTS.md` is the original frozen independent model, SHA256 `0243ec8f77551de77ad082e24651d0aa5ec0991dd4510eced86122808f31431a`.
+- `freeze/OT_1998CHUNK10_JONES_COMMITMENTS.md` is the original frozen independent model, SHA256 `1202428e8d806e02a562c425efa07a927debdf4cbe51613092e31acfe8e3189f`.
 - `freeze/OT_1998CHUNK10_JONES_CLOSING_NEUTRAL_ADDENDUM.md` supplies the validated bounded prosecution-argument facts.
-- `freeze/OT_1998CHUNK10_JONES_COMMITMENTS_CLOSING_REFRESH.md`, SHA256 `c0d7a5d9ce4253f73d1cc85252cb96cae419b2256a9e2de6693d56296de177e1`, supersedes only factor-validity/cure/factor-remedy portions. It leaves instruction, deadlock, preservation, Rule 52(b), Rule 606(b) and instruction-remedy rows unchanged.
+- `freeze/OT_1998CHUNK10_JONES_COMMITMENTS_CLOSING_REFRESH.md`, SHA256 `5f2d873edd3ff569ff84f71461d32bb43b7b9de8d50ddc608098793c00062f3f`, supersedes only factor-validity/cure/factor-remedy portions. It leaves instruction, deadlock, preservation, Rule 52(b), Rule 606(b) and instruction-remedy rows unchanged.
 - `freeze/OT_1998CHUNK10_JONES_CLOSING_FACTS_ADDENDUM.md` is the sanitized extraction that generated the clean addendum. It was sent through clean stages; the reconciler should not treat its quotations as a judicial narrowing instruction or a new jury finding.
 - Read only the exact Jones (federal capital, No. 97-9361) block of `freeze/OT_1998CHUNK10_APPROVED_COMPARATOR.md`. The separate March carjacking case is No. 97-6203 and is only date-eligible entering law at its actual scope.
 
@@ -72,9 +72,9 @@ Actual `entering-law/west_v_gibson_merits_1999-06-14.md` and `entering-law/schle
 
 SHA256 identities below identify authorized input and verification bytes, not a final vote freeze. No raw prior Records, private input or directory traversal is included.
 - `freeze/OT_1998CHUNK10_JONES_VALIDATED_NEUTRAL.md`: `670d7a8d5918ee83e9531eb3e9f3166967ec7d5cf6c2f113bfb2157885c154e6`.
-- `freeze/OT_1998CHUNK10_JONES_COMMITMENTS.md`: `0243ec8f77551de77ad082e24651d0aa5ec0991dd4510eced86122808f31431a`.
+- `freeze/OT_1998CHUNK10_JONES_COMMITMENTS.md`: `1202428e8d806e02a562c425efa07a927debdf4cbe51613092e31acfe8e3189f`.
 - `freeze/OT_1998CHUNK10_JONES_CLOSING_NEUTRAL_ADDENDUM.md`: `995302a4690c349bce5abd6e04752971e3520bb19aca472b04269c8d3bdff9e9`.
-- `freeze/OT_1998CHUNK10_JONES_COMMITMENTS_CLOSING_REFRESH.md`: `c0d7a5d9ce4253f73d1cc85252cb96cae419b2256a9e2de6693d56296de177e1`.
+- `freeze/OT_1998CHUNK10_JONES_COMMITMENTS_CLOSING_REFRESH.md`: `5f2d873edd3ff569ff84f71461d32bb43b7b9de8d50ddc608098793c00062f3f`.
 - `freeze/OT_1998CHUNK10_JONES_CLOSING_FACTS_ADDENDUM.md`: `2d05246f717024597f74074d6f254d815770dd4044d60f89a87ad5e070985487`.
 - `freeze/OT_1998CHUNK10_JONES_PARTY_FACTS_ONLY.md`: `571c178283f45c6b7c4a649ecd91e6b232b4ec1d8459361dd68ca71c59385eda`.
 - `research/OT_1998CHUNK10_B_JONES_TRIAL_EXCERPT.md`: `bc95db6b33335a035e32802bd3d40bd7d14b0f1a92e7fd202abdbae44d9e53fe`.
@@ -82,7 +82,7 @@ SHA256 identities below identify authorized input and verification bytes, not a 
 - `research/OT_1998CHUNK10_B_FDPA3593_1994.txt`: `37deb285347eb56cc70cec36aa5969d47ff0d508b332e7aedc7d2b6df669781b`.
 - `research/OT_1998CHUNK10_B_FDPA3594_1994.txt`: `c1095bbc499663392d84c567a89f28c596c5ee6c1575e4a3b6a5dbc5c175df58`.
 - `research/OT_1998CHUNK10_B_FDPA3595_1994.txt`: `4a0d61d7fa483f7c337db63e7f715476bab4cf92a3058fed53087384dca7f305`.
-- `entering-law/OT_1998CHUNK10_B_SELECTED_HOLDINGS.md`: `1f554f65a42e8063a12e4f9e79c1f310c8428c399c225345a166e2983433ccc9`.
+- `entering-law/OT_1998CHUNK10_B_SELECTED_HOLDINGS.md`: `4856e0635b69690865fcd06b4ca8692924e024fac6471b27b6cbbc086d264418`.
 - `entering-law/OT_1998CHUNK10_B_STANDARDS.md`: `7faaeb39b446b16f028fc9bc67a82592490a9fc46616b64fbb573678eb3972d7`.
 - `entering-law/OT_1998CHUNK10_B_CURRENT.md`: `09c290b7b0d69af840b6ee71e596d36b4ff07c9606465d00e3cdeaf850547be5`.
 - `entering-law/west_v_gibson_merits_1999-06-14.md`: `61fe69c95a36eb06b44dfb05cc40e195588e0516d6e18235ece9f160cac183a4`.

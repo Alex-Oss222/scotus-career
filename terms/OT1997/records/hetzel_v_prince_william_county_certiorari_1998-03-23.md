@@ -47,8 +47,8 @@ Historical-reconciliation stage only. No current Chief/Stone position, Chief cer
 
 Input hashes:
 
-- Original B commitments: `7946620332b90dd8d7006c43e993647027b0c73738b9d59a11daa2cb86ed0232`.
-- Associate certiorari commitments: `4d8bbecd36e8ca46086a307b6038ecc0ed52619d3d998073bcf3a4847c5a3828`.
+- Original B commitments: `62586ccb256466887f051ad868ebad2c7ace425afadf41f2eb8448a2f249e076`.
+- Associate certiorari commitments: `adddaec8c926804d4b3a53d52294e30604884f38dde6ece1845b3f01968f5825`.
 - Preservation commitments: `81b66ca7b83d6723bcc2791b5b10a6c4e998df14f51b0aedf84157e0674cc5fb`.
 
 ## 4. Hetzel v. Prince William County — March 23, 1998
@@ -72,7 +72,7 @@ All eight would reverse the challenged mandamus constraint and remand. No sum is
 
 # Hetzel — independent Associate certiorari commitments
 
-Supplement to the immutable batch-B merits/threshold commitments; no change to their substantive positions. Prepared from the same clean neutral packet, its objective-source receipt, `entering-law/CHUNK5/10_hetzel.md`, and Engine §10. No comparator, same-matter Supreme Court outcome or current private Stone position was received. The frozen batch-B handoff has SHA-256 `7946620332b90dd8d7006c43e993647027b0c73738b9d59a11daa2cb86ed0232`.
+Supplement to the immutable batch-B merits/threshold commitments; no change to their substantive positions. Prepared from the same clean neutral packet, its objective-source receipt, `entering-law/CHUNK5/10_hetzel.md`, and Engine §10. No comparator, same-matter Supreme Court outcome or current private Stone position was received. The frozen batch-B handoff has SHA-256 `62586ccb256466887f051ad868ebad2c7ace425afadf41f2eb8448a2f249e076`.
 
 **Case:** Hetzel v. Prince William County, No. 97-954.
 **Scheduled action date:** March 23, 1998. No additional earlier grant date is invented.
@@ -193,7 +193,7 @@ The separate B_CHRONOLOGY_RELEASE was completed on the five actual earlier A Pub
 
 This grant position concerns taking the narrow question for review only. It supplies no Stone summary-merits vote, remedy, adoption of reasoning, separate writing or consent to a partial retrial. Those matters remain exclusively for the approved merits position and lawful assembly. The internal certiorari poll is ordinarily undisclosed publicly. No Stone merits inference may be drawn from this file.
 
-Inputs: `freeze/OT_1997CHUNK5_NEUTRAL_B_CLEAN.md`, `freeze/CLEAN_NEUTRAL_VALIDATION_B.md`, `research/chunk5_control/NEUTRAL_SOURCE_FACTS_B_CLEAN.md`, `entering-law/CHUNK5/10_hetzel.md`, and Engine §10. Their substantive content was received without a comparator, same-matter Supreme Court outcome or private position. The batch-B merits freeze has SHA-256 `7946620332b90dd8d7006c43e993647027b0c73738b9d59a11daa2cb86ed0232` and is not modified by this separate petition-stage artifact.
+Inputs: `freeze/OT_1997CHUNK5_NEUTRAL_B_CLEAN.md`, `freeze/CLEAN_NEUTRAL_VALIDATION_B.md`, `research/chunk5_control/NEUTRAL_SOURCE_FACTS_B_CLEAN.md`, `entering-law/CHUNK5/10_hetzel.md`, and Engine §10. Their substantive content was received without a comparator, same-matter Supreme Court outcome or private position. The batch-B merits freeze has SHA-256 `62586ccb256466887f051ad868ebad2c7ace425afadf41f2eb8448a2f249e076` and is not modified by this separate petition-stage artifact.
 
 
 # Hetzel — neutral Chief certiorari-only preservation addendum

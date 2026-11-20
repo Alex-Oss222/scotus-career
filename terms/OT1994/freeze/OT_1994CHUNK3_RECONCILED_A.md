@@ -2,7 +2,7 @@
 
 **Stage:** Final historical reconciliation of matters 26–28, before Stone and assembly. NTEU, Harris and Grubart are complete at the stated component scope, including the separately validated and then remodeled Crane beneficiary question. This freezes all eight/eight/six associate commitments for assembly. O'Neal remains stopped and its comparator was not read.
 
-**Lineage and mode:** The original [associate commitments](OT_1994CHUNK3_COMMITMENTS_A.md) remain byte-identical, SHA256 `8b115585b713ebc346bfb8a5213e8596520c2d20c7fe57e6eb7485eb4a99f2d6`. This separately saved reconciliation corrects unsupported model inferences; it does not rewrite a completed adjudication. Disclosed single-conversation fallback, with earlier unrelated B exposure retained, not a claim of blindness. Current A historical comparison is now deliberately authorized. No current Stone packet, combined user brief, private Record, ledger, or continuity was opened. No Git command was used.
+**Lineage and mode:** The original [associate commitments](OT_1994CHUNK3_COMMITMENTS_A.md) remain byte-identical, SHA256 `38b1b80c278b285c3eeb2d3d3107d9809c19d76bb799c920ce30a26042fcbad1`. This separately saved reconciliation corrects unsupported model inferences; it does not rewrite a completed adjudication. Disclosed single-conversation fallback, with earlier unrelated B exposure retained, not a claim of blindness. Current A historical comparison is now deliberately authorized. No current Stone packet, combined user brief, private Record, ledger, or continuity was opened. No Git command was used.
 
 ## Sources, dates, and method
 

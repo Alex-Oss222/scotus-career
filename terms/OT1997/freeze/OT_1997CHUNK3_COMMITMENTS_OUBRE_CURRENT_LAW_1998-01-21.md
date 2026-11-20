@@ -4,7 +4,7 @@
 
 **Result:** All eight original commitments remain unchanged. This separate supplement satisfies the pending actual January 20–21 chronology check without altering the original freeze, assigning an opinion or assembling a Court judgment.
 
-**New inputs actually read:** complete public deltas for Lee, Buchanan, LaChance/McManus and Lunding, and final neutral `entering-law/OT_1997CHUNK3_JAN26_CURRENT_LAW_1998-01-21.md` (released SHA-256 `304ef455705ed1176df78d588456b88af1423ffc5fddb62e076e43c654c3dadf`). No January 26 peer supplies law. No original source rereview, private material, historical target decision, comparator or reconciliation was opened.
+**New inputs actually read:** complete public deltas for Lee, Buchanan, LaChance/McManus and Lunding, and final neutral `entering-law/OT_1997CHUNK3_JAN26_CURRENT_LAW_1998-01-21.md` (released SHA-256 `79aef3cc2f5b32417155917ce46a8101b3ad5d60b2fe0eb37f62391dcd83a6e9`). No January 26 peer supplies law. No original source rereview, private material, historical target decision, comparator or reconciliation was opened.
 
 None changes §626(f)'s express minimum waiver conditions or assigned validity burden, McKennon or Mezzanatto. Lee does not render an existing release-based judgment speculative or mandate a hearing. Buchanan's rejection of an entitlement to particular mitigation instructions does not make different express statutory safeguards optional. LaChance neither finds retention deceptive nor supplies estoppel elements or a general waiver rule. Lunding keeps substantive invalidity separate from remedy predicates; its tax-payment and correction rules do not decide ADEA tender, ratification or accounting.
 

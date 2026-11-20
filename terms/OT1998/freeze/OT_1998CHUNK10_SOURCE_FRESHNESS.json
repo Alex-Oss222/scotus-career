@@ -284,7 +284,7 @@
       "path": "terms/OT1998/audit/CHUNK1_FREEZE_IDENTITIES.json",
       "sha": "ae12d2042824ae4e65893cc0c9fe4cbccea21b89",
       "size": 4725,
-      "sha256": "44bd450f30392d7aef8b567a4c58594e33ab9d9f0b07f8606338f9499313c42a"
+      "sha256": "03395a19f49d390ba7445ef6b9b839eaecafc41910ad2958f62ed7c1d5371b9c"
     },
     {
       "path": "terms/OT1998/audit/CHUNK1_INTERIM_CHECK.json",
@@ -422,7 +422,7 @@
       "path": "terms/OT1998/audit/OT_1998CHUNK7_ASSIGNMENT_BASELINE.json",
       "sha": "c7f420f0141a3750968cbfcb8f0fd96e37a5b2c0",
       "size": 60143,
-      "sha256": "0bfefa49a2ca09118943293e153279956221cfbe28245fbb4885f718c82c1815"
+      "sha256": "e2d9eef85d18e89205ca6e4b2483bd00b724879c28a0ddada42f780a92c47f64"
     },
     {
       "path": "terms/OT1998/audit/OT_1998CHUNK7_ASSIGNMENT_BASELINE.md",
@@ -434,7 +434,7 @@
       "path": "terms/OT1998/audit/OT_1998CHUNK7_ASSIGNMENT_EXCERPTS.md",
       "sha": "df95c67f28a5d9315e6bdfd9bd66f5c2b711769c",
       "size": 377297,
-      "sha256": "c714f395ebe5260f98ea300e3f3a26f85e90e068cf11d03bd5b348f9a0c92e0d"
+      "sha256": "6364573704d78d127662d550b930bfca4ed664b798996b6f7a2d13b394784c02"
     },
     {
       "path": "terms/OT1998/audit/OT_1998CHUNK7_CONTROL.md",
@@ -620,7 +620,7 @@
       "path": "terms/OT1998/briefs/OT_1998CHUNK2.md",
       "sha": "93b1e6ccdc9879e36216b3cca96ab9b185a9d523",
       "size": 123459,
-      "sha256": "9f1e903b6dcb0cb56c6937d523edeb834a2a0a5fb9dab251e6a4e2107c5919f8"
+      "sha256": "3623d3681c60e9bbb4fcc3a3e98c69d317c50df8c7c25e713cb82cb78394e033"
     },
     {
       "path": "terms/OT1998/briefs/OT_1998CHUNK3.md",
@@ -734,13 +734,13 @@
       "path": "terms/OT1998/entering-law/OT_1998CHUNK1_BASE.md",
       "sha": "123a44454531f783e751396d7b49e46c79712677",
       "size": 1801685,
-      "sha256": "56d37b0a307319a009421c75bfb270af21b3bde36ee3d53f27ab73c3d6bd523e"
+      "sha256": "5eccc4fcfb291dd2799cf8e6cc2ff0cf05191fad4d322003a3fe1d4ffb92e993"
     },
     {
       "path": "terms/OT1998/entering-law/OT_1998CHUNK1_OTHER.md",
       "sha": "016aca407bfe2386a610cca05708eb6998ca3cdc",
       "size": 1841120,
-      "sha256": "24465a6044b907dc36d1f4bb8f06998f6a004263d702d3d72c744fba0e334a4e"
+      "sha256": "2f054e0350880683fd45d9c9a84da47776a1765db9e5fb0cf8131463778adf18"
     },
     {
       "path": "terms/OT1998/entering-law/OT_1998CHUNK1_STANDARDS_SUPPLEMENT.md",
@@ -752,7 +752,7 @@
       "path": "terms/OT1998/entering-law/OT_1998CHUNK2.md",
       "sha": "e86a3fdd9fcef5b746913656686b5c0ad6b1ab3b",
       "size": 4715390,
-      "sha256": "be4191b90a2b8c53269d620b820e336af583f8c3fb970ccb3a411f5b910abc39"
+      "sha256": "161724bd0f9bdf89cf7276d414ff2a0119aee09abe0fb4966d3861e6e00f31d5"
     },
     {
       "path": "terms/OT1998/entering-law/OT_1998CHUNK2_B_PUBLIC_SUPPLEMENT.md",
@@ -764,7 +764,7 @@
       "path": "terms/OT1998/entering-law/OT_1998CHUNK2_C_PUBLIC_SUPPLEMENT.md",
       "sha": "54368a6431ba45909c28d7c5e3f98e329df47354",
       "size": 79177,
-      "sha256": "295f1026c474f6ccbdce5e8c4d72e8792b4386384f0bb76d03f18edd5144b423"
+      "sha256": "a7d682b9d4028d18a5f8978e8738c00a0ed0fe4f3d7936ad15308019627f6646"
     },
     {
       "path": "terms/OT1998/entering-law/OT_1998CHUNK3_A.md",
@@ -788,7 +788,7 @@
       "path": "terms/OT1998/entering-law/OT_1998CHUNK3_C.md",
       "sha": "59ac5408b4e223cd6e23e24ce757fc458ebd108f",
       "size": 1371183,
-      "sha256": "28139bd31b60322abb693b5597e3145d3113f067e8f3dc23abd85a29022a005e"
+      "sha256": "d5f26d8694c025d78874e6950c512d52c64fcec2232055d29321a7a88b1682fa"
     },
     {
       "path": "terms/OT1998/entering-law/OT_1998CHUNK3_C_FOCUSED_LAW.md",
@@ -866,19 +866,19 @@
       "path": "terms/OT1998/entering-law/OT_1998CHUNK4_B_threshold.md",
       "sha": "b4fa5bc9f5fd36d8e648a1546d4cb5862ab727bd",
       "size": 1094489,
-      "sha256": "73114395b2d93e20772901563ae6ed80a625d6baef47e78387cb225a62acd664"
+      "sha256": "f8eea0425efc5994df4068a0680ed91d5f299b8e5524a916a7057b00a533aded"
     },
     {
       "path": "terms/OT1998/entering-law/OT_1998CHUNK4_C.md",
       "sha": "9860b4bdddd71b08f144c6a61ab8cec2d6661cf5",
       "size": 1975877,
-      "sha256": "293bfa8c8ff282d7dad47249c83f9a3b237917eff5c7e93b94c7e767389dbe90"
+      "sha256": "51026fe4b7e2754218b8625b48e444992fcc0bb5fc0fd7385d05d0557aab07bb"
     },
     {
       "path": "terms/OT1998/entering-law/OT_1998CHUNK4_CENSUS_AKINS.md",
       "sha": "204f57615a6ba8a59596f84c7586075f06b717ab",
       "size": 1092057,
-      "sha256": "06c7568ca6a112c41ab4edd0feab452c3bf7fbc26d6920be2114415322b6daf9"
+      "sha256": "8b693466561426cef3bd137a44298bbfec637ac67fa7bb27f7614af78e44a888"
     },
     {
       "path": "terms/OT1998/entering-law/OT_1998CHUNK4_CENSUS_AKINS_FOCUSED.md",
@@ -896,7 +896,7 @@
       "path": "terms/OT1998/entering-law/OT_1998CHUNK4_C_RENO_ADDITIONAL.md",
       "sha": "cf1d4b723db5cb9977d5d613400eb495d1318d51",
       "size": 1146012,
-      "sha256": "1863a756806c39dfc264576efd3d5eac59df3d345b800de4631e171cb22ec8d2"
+      "sha256": "227c38edc913751a74be39e19f476793969dd572ef145f06edaaf82b90cb1923"
     },
     {
       "path": "terms/OT1998/entering-law/OT_1998CHUNK4_C_SUPPLEMENTAL_SELECTIONS.md",
@@ -926,7 +926,7 @@
       "path": "terms/OT1998/entering-law/OT_1998CHUNK5_B.md",
       "sha": "de87d3bd85e3896003006170e6b9fba88e256183",
       "size": 2780708,
-      "sha256": "5fb4cd1e9927def381265ad920c8e0fd262f5cd0a6470dc2ca4083712d9a362a"
+      "sha256": "274e97a1c89a45ff10e19fca2ef51b5a7ca84ed527eded619dc0201880a94262"
     },
     {
       "path": "terms/OT1998/entering-law/OT_1998CHUNK5_B_ADDITIONAL_LAW.md",
@@ -938,7 +938,7 @@
       "path": "terms/OT1998/entering-law/OT_1998CHUNK5_B_FOCUSED.md",
       "sha": "845d7d113a948e76324452ae2b52b1de1b6d6aee",
       "size": 139997,
-      "sha256": "54a436dcd1bf2724ee95edecc0e7efabc44b3a6b07014941fe2a7b4fe91f0e9b"
+      "sha256": "61ef7890707fc46aab4f18b40b55c94abfa8878ecd91063889665781840c9cb7"
     },
     {
       "path": "terms/OT1998/entering-law/OT_1998CHUNK5_B_INDEX.md",
@@ -950,7 +950,7 @@
       "path": "terms/OT1998/entering-law/OT_1998CHUNK5_C.md",
       "sha": "1344763fd9f3ef2c64b29cb383d0148a04cde103",
       "size": 2140206,
-      "sha256": "420bd1efec515d2c5a5e38c8c8de9c076abc7591cea51ccd60c7bb63155db8b5"
+      "sha256": "26ca43665901d77736290ab459cabca79c076424ad082a840f64411e2dc40535"
     },
     {
       "path": "terms/OT1998/entering-law/OT_1998CHUNK5_CEDAR_FUNDING.md",
@@ -992,7 +992,7 @@
       "path": "terms/OT1998/entering-law/OT_1998CHUNK5_GS_DEFAULT.md",
       "sha": "158fba96b17ec1d3dc44cdba0c94f0f0238a02f9",
       "size": 7532,
-      "sha256": "9c23b6b6ca28aaac15fb469aa90c4a03de99c79e80a39db259a9ef72075c0878"
+      "sha256": "d0b3821b7a484a4c88a7ced36f736aafa1ee32c2ffbe61142032990b076e9d94"
     },
     {
       "path": "terms/OT1998/entering-law/OT_1998CHUNK5_GS_PRIOR_BREARD.md",
@@ -1022,7 +1022,7 @@
       "path": "terms/OT1998/entering-law/OT_1998CHUNK6_A.md",
       "sha": "56e1628e783649750f9bbbd857ceda0f44002041",
       "size": 3130350,
-      "sha256": "f266cda5ee0396fa6e794d1b6c6772b9b8cc7d8935253f02b086caad01c0900b"
+      "sha256": "cf39ce1bf4bfb7b2330b4e853fa4f4e2401dbfb610230045ba73dc119fd1f00b"
     },
     {
       "path": "terms/OT1998/entering-law/OT_1998CHUNK6_A_CURRENT_PUBLIC.md",
@@ -1058,7 +1058,7 @@
       "path": "terms/OT1998/entering-law/OT_1998CHUNK6_B.md",
       "sha": "34769feeb2550f4044e67e14f58ab102c0910a8c",
       "size": 2485217,
-      "sha256": "46352f304a8bd2024c25c8f302fe7d38e25beef4c21de1475aa9bd23a7dbdcd7"
+      "sha256": "f1664d883d2fbbfcc7ef148e75ab80a9ee3f54b7bc3b9e04c6ea19c99f69f1d5"
     },
     {
       "path": "terms/OT1998/entering-law/OT_1998CHUNK6_B_AMCHEM_PUBLIC.md",
@@ -1076,7 +1076,7 @@
       "path": "terms/OT1998/entering-law/OT_1998CHUNK6_B_FRESH_SELECTED.md",
       "sha": "6576f7d81113aba2925923989a29f58382e8b5ac",
       "size": 100940,
-      "sha256": "31a968be74f1aa5180ecee5efba1ee59c7ad00bf6cd5ec790a652bdf5bb0bc97"
+      "sha256": "6fe5cd5a485c7a58681b4cf51363b2800bbc3761ccabd3c4d18014e995794d0d"
     },
     {
       "path": "terms/OT1998/entering-law/OT_1998CHUNK6_B_HOUGHTON_LAW.md",
@@ -1142,7 +1142,7 @@
       "path": "terms/OT1998/entering-law/OT_1998CHUNK7_BASELINE.md",
       "sha": "b53a6209d5b2a05f1bfbefe24fdfc5d7f6f1762f",
       "size": 4178828,
-      "sha256": "98d5317f1d92c0b0ecac24e2881ed50e04b6e39269127ade6323d5ac87f187c6"
+      "sha256": "6af399983e32bc926c0251b314c681ac3fea76d3129487286df2b57e3b9e6495"
     },
     {
       "path": "terms/OT1998/entering-law/OT_1998CHUNK7_BROOKS_PARAS43_53_NEUTRAL.md",
@@ -1346,7 +1346,7 @@
       "path": "terms/OT1998/entering-law/OT_1998CHUNK8_BASE.md",
       "sha": "6574dfa2a6b320f3467f8c532b8beae8909aef53",
       "size": 2773903,
-      "sha256": "b6e422371f81e9a1501994bc54a2d65ae45116980924a2f2142e4bdfd8ba18cb"
+      "sha256": "86a103ff5fe865be0046933776be4c2a7f367ef353afc26d8447b2f83b2f527d"
     },
     {
       "path": "terms/OT1998/entering-law/OT_1998CHUNK8_LAW_01_goldsmith.md",
@@ -1466,19 +1466,19 @@
       "path": "terms/OT1998/entering-law/OT_1998CHUNK9_A.md",
       "sha": "953de30d8a0360285f535c7b96ef1368d9a5c70f",
       "size": 2964240,
-      "sha256": "00d2438763949ee7fda7836d456b03b0d1106dd5d22a0aa1a1725e0a1832bb0d"
+      "sha256": "2858768b3374b265e4126b84e4d785208144bf7bde5885581ab90445ed95bbf0"
     },
     {
       "path": "terms/OT1998/entering-law/OT_1998CHUNK9_A_CURRENT.md",
       "sha": "c3919f9c4ecfcdb86a1b797cb9de3d99a1a63753",
       "size": 86186,
-      "sha256": "c6f5a1eb0cd28014492ed39e610181d7002bf35be92b7bc62f483efd50a7e449"
+      "sha256": "18729b421952b6dd18510e63d7e706077647a249b146c7a93d24d09e4615d3fa"
     },
     {
       "path": "terms/OT1998/entering-law/OT_1998CHUNK9_A_HOLDINGS_EXCERPTS.md",
       "sha": "f0729067ed7db7b56b889f1dfb9e6fdf1a6a55c6",
       "size": 171907,
-      "sha256": "07785736b8c323e545156ad39043a2b5dbe2b0943a1d91b29f754461af50e043"
+      "sha256": "24d1dbf59c2edc3ae70a77292955ce302a0e9a8f1b99cf9055a955fb0c9cd918"
     },
     {
       "path": "terms/OT1998/entering-law/OT_1998CHUNK9_A_sources/848_1994.txt",
@@ -1586,7 +1586,7 @@
       "path": "terms/OT1998/entering-law/OT_1998CHUNK9_B.md",
       "sha": "b7d30b9ad27065502a0154c03fbeeec3d5c6f1f4",
       "size": 2782269,
-      "sha256": "0b74e77dd548e2a43a6b8cb692d7cedd2eca0f2c5560d8fe56d28350174a3ecd"
+      "sha256": "0923cbcf3d386490153fadc70d303fa15190034daab135a118a84c22c8399f41"
     },
     {
       "path": "terms/OT1998/entering-law/OT_1998CHUNK9_B_READING.md",
@@ -1634,7 +1634,7 @@
       "path": "terms/OT1998/entering-law/OT_1998CHUNK9_ROY_PUBLIC_POSITIONS.md",
       "sha": "d94f5c01ae6ce29eadfe2bfb278903ab42df6942",
       "size": 26041,
-      "sha256": "868393e9433fec7330134422aadf7a32e18713714f01e32baa30bf5b37917566"
+      "sha256": "acb26dd32cc3a1ddb1664207c737c95fff45bcf563e3feac734945700115b009"
     },
     {
       "path": "terms/OT1998/entering-law/PEOPLES_RIGHTS_EFFECTIVE.md",
@@ -1736,7 +1736,7 @@
       "path": "terms/OT1998/entering-law/calderon_v_coleman_summary_merits_1998-12-14.md",
       "sha": "92e82f182d2b25c4d355cadfb1c6c2e8047355c6",
       "size": 27392,
-      "sha256": "907ef64db03e2163b79abfaa14a8344f95e0fa151c9be81a30e73267b6305df9"
+      "sha256": "bd4eb315ab696d908cce25e1dddaa9ef3cedc729d2261d4fb9df95e47b6c6dfd"
     },
     {
       "path": "terms/OT1998/entering-law/california_dental_association_v_ftc_merits_1999-05-24.md",
@@ -2510,13 +2510,13 @@
       "path": "terms/OT1998/freeze/OPENING_CONTINUITY.md",
       "sha": "0e1b83f0e9280f0a140194549bead00017314b39",
       "size": 22648,
-      "sha256": "ee202a4d99850a4ce71f66a12252211e25564c7bde74b152f3fe867934fd2362"
+      "sha256": "147db97985b3fc442b84a11ddf269c63d1345660e96e7a8520cbec8498fd6437"
     },
     {
       "path": "terms/OT1998/freeze/OPENING_NEUTRAL_PROJECTION.md",
       "sha": "10a43f86bcda6b4f2f51feddf0baea1de7c26053",
       "size": 20284,
-      "sha256": "744782d06074accc59129714476d7bc5577881149f8b5a27e4cc45f46c0d8e4e"
+      "sha256": "f150e182f77aabd602ca88d68c82014534bea0d61789c463a9c35fbb0ef4f627"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK1_COALITION_COMMITMENTS.md",
@@ -2546,7 +2546,7 @@
       "path": "terms/OT1998/freeze/OT_1998CHUNK1_COMMITMENTS.md",
       "sha": "d8a30900b0abad40eaf9be329f5e5ddd819e2458",
       "size": 180166,
-      "sha256": "df481eed72c5c261c793c4cf506812285515af9fbb4f8552bc90ca04d4a1fcc9"
+      "sha256": "8657a2083e20e4f33446a2ff5fc732e8ecbae54ccff1dfafb753dd25ceb21b9d"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK1_KRAVITZ_COMMITMENTS.md",
@@ -2654,7 +2654,7 @@
       "path": "terms/OT1998/freeze/OT_1998CHUNK1_RECONCILED.md",
       "sha": "632146161b40b915495c06ee6dcbd0b7b694d102",
       "size": 126250,
-      "sha256": "210f23ac864e707e9660e66a3900b79e9da0bdc89c7d856241c1384772e9ddf3"
+      "sha256": "a3b70dd4e605a102daf5dc610cceaee7accaefb6f90fa2fb3fb2f4672bca9da9"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK1_VALIDATION.md",
@@ -2762,31 +2762,31 @@
       "path": "terms/OT1998/freeze/OT_1998CHUNK2_COLEMAN_ASSEMBLY_AUDIT.md",
       "sha": "d9f7bca9d99ec9a8893b7768733e0cbd1a31cd27",
       "size": 4911,
-      "sha256": "82622b87dde5b1f7dca3097d4201e0c9bd86eb6dfa623596964917e8b48fe76b"
+      "sha256": "dc685a2d741e7643a6451e059bc9f28bb1ca7833921350cc60d052d0b68e4105"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK2_COLEMAN_CERT_STONE.md",
       "sha": "3d5a4aa33a6d7935d9161a4e0206590655c2cc1f",
       "size": 4666,
-      "sha256": "29dd7796c2ebd65ee8bc4767dff5610dc292a4d302f97776a6f6f6ff64c3528c"
+      "sha256": "f3ad7e22408333a4e661e600666fac56d734e79f4977a1884e0dd61afbc7804b"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK2_COLEMAN_REFRESH_COMMITMENTS.md",
       "sha": "c912432857c94b00c17f84ab9c150d45cf56a201",
       "size": 36494,
-      "sha256": "cbbd2933f04d0529a5cf87ad8eb0a4312426fb45ffa647760bddaf3e0dea8de2"
+      "sha256": "9a18ddac207fd11976acd921b2690f03c9d087197244302b244862ba6fb03783"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK2_COLEMAN_REFRESH_NEUTRAL.md",
       "sha": "33c30508979e4da8bff3b7a19fbe31a005639315",
       "size": 24219,
-      "sha256": "554a4ca2cc4319e726be3836639031a700617292b278ae1c143e36c6f997a3c7"
+      "sha256": "9ad8aa74e436798e8035a95c8a1f1024211baf9c445d613b0e8a65dd54f6c1b3"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK2_COLEMAN_REFRESH_RECONCILED.md",
       "sha": "1a994d77502232cbd65ea8804de29cbc9ddf2f8a",
       "size": 58144,
-      "sha256": "06fc788a4dbc7444a643b3d55fdf29b20a866dcce45e38b7070c044ccd016847"
+      "sha256": "3dd9076afde7abda8325569258ca83140b13c40646d550491f77955c07cec1dd"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK2_COLEMAN_REFRESH_SOURCE_EXCERPTS.md",
@@ -2798,19 +2798,19 @@
       "path": "terms/OT1998/freeze/OT_1998CHUNK2_COMMITMENTS.md",
       "sha": "e548ecfd48524188e550d679ec74e3c2e6d1a5b1",
       "size": 186729,
-      "sha256": "042ea2b16bbe93cfe30914473c144e1315fdeb9478450f307f25e3b31af4f408"
+      "sha256": "d01ff6aef3217f3ef18cfd2c0c69d38a3de44fb366a779703687749575ea93a7"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK2_C_COMMITMENTS.md",
       "sha": "50c55312c6e08ab8b2e4e6fb3e5ae259a5c5f66f",
       "size": 38515,
-      "sha256": "44120b5094c74d123d5707b66e432b4bfc6ba825bdc22c3c3f4c7afc729622ea"
+      "sha256": "67b728a08244fe727530d037a8653fb2a4c796d2fbc1635dd12787b6dc2c11db"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK2_C_PREFLIGHT.md",
       "sha": "2476feeba1516fc0a8f216c92e76b459f3ccfc6e",
       "size": 20120,
-      "sha256": "be2122d1b3c76bb91f883a4a183d6bc04807b6fdfcc96253014fe719ba2d1944"
+      "sha256": "eff3eb0b2f8e1e86ae25c56036a061fc29ca9670115ac2a348ceaeaab718ea67"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK2_C_RECONCILED.md",
@@ -2864,19 +2864,19 @@
       "path": "terms/OT1998/freeze/OT_1998CHUNK2_NEUTRAL.md",
       "sha": "e7efbb800390401d631178a15f0d0e6c404f18dc",
       "size": 75468,
-      "sha256": "be66e4f7855aecd7dadf405f719cb31b555800dd77ed5b297b1450d938a23ac1"
+      "sha256": "8feca801041e73ea3386bc053bbea683d0da5f9003bfd56962b2abb7b055d7e7"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK2_RECONCILED.md",
       "sha": "9afd0ec2515a237d22f93fec80ff3f7c8cd21dd4",
       "size": 267578,
-      "sha256": "b2fd2dc16b93be47f348d0c237f198479ece19a117731e95cd5d48b9cd99a49d"
+      "sha256": "c09da3f84f58a77c9c9d498978f6665326f714fc7fbff8b9ea92c1a0ced2b34e"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK2_VALIDATION.md",
       "sha": "9691f3209488975babca709f0b02fe0df109a035",
       "size": 18410,
-      "sha256": "69ff2a2f25d9bb470a87fda391f7559f1ba58c699d9fa6f05ec4b397923a747d"
+      "sha256": "a1571453bdd6b750c58ec5b052bc87d1b7555d5995e3b0ae06207866339d82bc"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK3_A_COMMITMENTS.md",
@@ -2960,7 +2960,7 @@
       "path": "terms/OT1998/freeze/OT_1998CHUNK3_ENTERING_CONTINUITY.md",
       "sha": "bdd7b34d7085c5004154c9792c45c15c573da7d2",
       "size": 90962,
-      "sha256": "7b8f0c8b0041af2fe8465e185928f4028ed122e95506b5d94b26d1f342eb6990"
+      "sha256": "8a12479932e15ae3218fa0fe2c0438e6e45002f8b2ec293dd4c90635b495f862"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK3_ENTERING_LEDGER.md",
@@ -2972,7 +2972,7 @@
       "path": "terms/OT1998/freeze/OT_1998CHUNK3_ENTERING_NEUTRAL_PROJECTION.md",
       "sha": "4e588c84833b4c928fd8bc99182ba2465d0d21bc",
       "size": 90546,
-      "sha256": "4049db2eb6e61e6279d0418a3d1000f0f5f50bdbc11b7bd07ea48617e63f59f9"
+      "sha256": "7ccb19e4fbe59ea653d55b63345bdab993b2d0d994eea3241f7d6ebbe55168da"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK3_FELZEN_REFRESH_COMMITMENTS.md",
@@ -3572,7 +3572,7 @@
       "path": "terms/OT1998/freeze/OT_1998CHUNK5_SULLIVAN_RECONCILIATION_READ_RECEIPT.json",
       "sha": "171c47db2d849e47c729238e66530d71fba7b53f",
       "size": 4279,
-      "sha256": "8a8b8229064705825db28cd5e9a32bea8c41f7a7d73b051d0c13500c6fe6a73f"
+      "sha256": "3253ed006ced92234eb2fe0959720a6bf924780f983fe84c20b2a33b2dd25e9b"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK5_VALIDATION.md",
@@ -3620,7 +3620,7 @@
       "path": "terms/OT1998/freeze/OT_1998CHUNK6_A_PREFLIGHT_RECEIPT.json",
       "sha": "474df4ace8fe74e3a83fab5eb6717550adefeedc",
       "size": 3157,
-      "sha256": "de6e0aab40044733a366b2b22c6bc7428eeb28006db89fd4550c6ef86ecf5fff"
+      "sha256": "4b532f0c6823226ef35f4aab96a2740024353780e61731639834400e83a1534f"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK6_A_PUBLISHED_POSITIONS.md",
@@ -3728,7 +3728,7 @@
       "path": "terms/OT1998/freeze/OT_1998CHUNK6_B_CLEAN_RECEIPT.md",
       "sha": "4b447fc6c77d649bcd8fbcc4f4c80606e4eb9f74",
       "size": 1531,
-      "sha256": "56e30d004de603a2d8a2522ec884e68a1ba670b6d05693e51010e7f2b1e74c79"
+      "sha256": "10ea39f7326b5aa97fc1ca0878bd76d01794508de7c19bc9f9ceffcbd6b2ca21"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK6_B_CLEAN_RECONCILED.md",
@@ -3746,7 +3746,7 @@
       "path": "terms/OT1998/freeze/OT_1998CHUNK6_B_FRESH_PREFLIGHT.md",
       "sha": "74da00b522d1fb0ed8f8a51e33ee7e48d293cfac",
       "size": 27569,
-      "sha256": "2c932a91e65cc3fa7d52419af0d74ba30ebaf1a2eba206df70383a22046438d1"
+      "sha256": "b738b4490ff3ea4bdf37c5eef1e3c95c289540ce952f4b866eb8192999fc3d48"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK6_B_PREFLIGHT_EXPOSURE.md",
@@ -3764,13 +3764,13 @@
       "path": "terms/OT1998/freeze/OT_1998CHUNK6_B_PROC_COMMITMENTS_VALIDATION.md",
       "sha": "04e4084363c56301ae9bc55cc52fdd5e42d64aec",
       "size": 1441,
-      "sha256": "ba8fab4684d3c2ba5d91c0600e5f4176609a672bb51b021b57e5994c2e704d79"
+      "sha256": "9a229db23b2b10bcfa8a56b00880f689094a8302cbac0284bd9bb0cda9819929"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK6_B_PROC_RECONCILED.md",
       "sha": "afbafb32b446c0638e80ca389352e3d1b0e72622",
       "size": 26704,
-      "sha256": "86a8607f1feb3dc15ce58b7efb56769a73f5ef5285c9bdc44963e92d5c02bb48"
+      "sha256": "354e9f85635887d989ac8bacd8ef2db30855aa5e81951f3ab07e94173abe265f"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK6_CENTRAL_STATE_NEUTRAL_CERT.md",
@@ -3788,7 +3788,7 @@
       "path": "terms/OT1998/freeze/OT_1998CHUNK6_COMMITMENTS.md",
       "sha": "29301f2e0daf64db45c0c01d9d2340bac1ee8134",
       "size": 3132,
-      "sha256": "05839e7bb1445568f28ae19b629f87fa6483ea1ab478d20bfa8931c2f73f6782"
+      "sha256": "ec52830c7f321810a88e693bbdec696ad8de759382b0b487016ea2d80027a9b7"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK6_CONN_RECOUNT.json",
@@ -3806,13 +3806,13 @@
       "path": "terms/OT1998/freeze/OT_1998CHUNK6_CONN_REFRESH_PREFLIGHT.md",
       "sha": "07063cba7298f9d0af64063d8975f21492d59612",
       "size": 8748,
-      "sha256": "c9dfcf48a390e55dac15ce37273954fcb9c9116e0f03e08e0fc1e689fbe6400d"
+      "sha256": "51de6189734edb0653b0a2bedd7c7c9e31a74bdbdc2c626bb7a2dc8f605f4e4e"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK6_CONN_REFRESH_RECONCILED.md",
       "sha": "68bb17ad3d91fac9990dde1cc6c9c2258f343260",
       "size": 25021,
-      "sha256": "9ca594d10f0dcce45f0ba16d262fc867d578409e3f3a25a8c63cde87ee86574a"
+      "sha256": "72f4d5c8e77d6241426550552d56b8cd0097da094114383883cd1569df7ec32c"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK6_EXTRA_DETERMINISTIC.json",
@@ -3836,7 +3836,7 @@
       "path": "terms/OT1998/freeze/OT_1998CHUNK6_FINAL_WORKSPACE_LINKS.json",
       "sha": "5618bdca4e4f5c1d83ad18109935e18d1df3896b",
       "size": 667,
-      "sha256": "1c9448d5bc52f77f97e507fba9e463de885f4e52ca8ba803662f9ee4c2028976"
+      "sha256": "79ec608e5b419df300d8ad4406d198b3ec9e7ae7d725fc274f542bdfbef00ee6"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK6_HOUGHTON_ASSEMBLY_VALIDATION.json",
@@ -3956,13 +3956,13 @@
       "path": "terms/OT1998/freeze/OT_1998CHUNK6_MITCHELL_ASSEMBLY_VALIDATION.json",
       "sha": "99aa4c2d4a5613ff9ec0cf7afeaffc59a58f6bf0",
       "size": 1719,
-      "sha256": "0cb48ef2fb76cd1d44208e0eb7dc761d41d02c12ce6fab378f77131e65017cec"
+      "sha256": "73e50933195b32e21c3b7e5f47fe4f4d2fde27b4beacf11c336e725541c39a18"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK6_MITCHELL_COMMITMENTS.md",
       "sha": "29cc955ad6408f3ad31d42b7c96f77c63553030f",
       "size": 28565,
-      "sha256": "c11ad017ed80a7bb6992d96e3674b613733862e46c55bc48d14f5fe48de1a6ef"
+      "sha256": "73991ad84263dc33604339f04470b51166ff3c17820bfc14e8b368532e9ea1aa"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK6_MITCHELL_DEPENDENCY_RECEIPT.md",
@@ -3974,7 +3974,7 @@
       "path": "terms/OT1998/freeze/OT_1998CHUNK6_MITCHELL_MODEL_FREEZE_RECEIPT.md",
       "sha": "f826f0cb9525ccc674f6c8524aa07ef5da149b45",
       "size": 4666,
-      "sha256": "1347921ea9845568d79ef3c651914bc2a5c7eb5757807503b29691238cb31b8c"
+      "sha256": "c8de27002dda1a9ab9a68811921dcb573f27c98bbeb2df9129e3696433db4c49"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK6_MITCHELL_RECONCILED.md",
@@ -3986,7 +3986,7 @@
       "path": "terms/OT1998/freeze/OT_1998CHUNK6_MITCHELL_RECONCILIATION_RECEIPT.md",
       "sha": "b18ef825e5c253bd9d7fd071f742fba697b4215c",
       "size": 10531,
-      "sha256": "67a6b1ffe03d9095b7bd9879a28a2a1634fc1c36945d928b3b6141463846e24f"
+      "sha256": "c41c2c62a0f2e9274bf2ed0daa3fb95d0829e7385833019366eb33bb00edf947"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK6_MITCHELL_RECOUNT.json",
@@ -4010,7 +4010,7 @@
       "path": "terms/OT1998/freeze/OT_1998CHUNK6_OPENING_CONTINUITY.md",
       "sha": "04c1e6122130e0f099fbe156878505d7e91b2fe9",
       "size": 397489,
-      "sha256": "8bbeb226e2380724770e06097af6a6638fb594e90c5bb9643a3a44c6b2bc5029"
+      "sha256": "1d527cf69d0bacf1ff4c90c095654b4c53b6d4e315dfaf65284a2757c1064c92"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK6_OPENING_LEDGER.md",
@@ -4028,19 +4028,19 @@
       "path": "terms/OT1998/freeze/OT_1998CHUNK6_OPENING_NEUTRAL_PROJECTION.md",
       "sha": "053a902748cb53c2d099216e97c0afa6c7854bb0",
       "size": 397925,
-      "sha256": "4096d59efa3648370749a9b41a87f30fe09d5e062d94a19471f78588555a12aa"
+      "sha256": "c14ef31e561e110b0d3ee7947d7882f455ee6b6144fba49c890591a1b32e1dbe"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK6_PRIOR_ASSIGNMENT_COUNT.json",
       "sha": "624db0717b9c860a25b1af118289198be97a6c30",
       "size": 56380,
-      "sha256": "2e336d59c8b311066d548cc590ea49e09f57da15a0db8790964e2e91121145ec"
+      "sha256": "e40747294614b80b7f6c5d46a73266dcf9b6ba7a2a268d0745108066d0f3352b"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK6_RECONCILED.md",
       "sha": "04e709f5646cd1bf151ea60c35dd23123a019e52",
       "size": 3149,
-      "sha256": "c7ae93f282855e591cdcfe501196ec2e0a873a236b7e2407b13bcb47dc609a66"
+      "sha256": "f8441cf69eed135e18e124dec0ecb9dadef3185630efe281864d632e2f002f1b"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK6_RODRIGUEZ_RECOUNT.json",
@@ -4160,7 +4160,7 @@
       "path": "terms/OT1998/freeze/OT_1998CHUNK7_A_HAGGAR_REMODELED_VALIDATION.md",
       "sha": "fb16acb80bbc9575b0ffda9b41d3d59c1a52de45",
       "size": 1583,
-      "sha256": "0f153c2a717f6f6879d860b0a6a64a661ce5d9efa8463a247b81b8ca3ce3c8ae"
+      "sha256": "96742e44958442e04218fe2d80081498602351b88255fa756c7e3b7739c9d177"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK7_A_LAST3_COMMITMENTS.md",
@@ -4202,7 +4202,7 @@
       "path": "terms/OT1998/freeze/OT_1998CHUNK7_BASELINE.json",
       "sha": "85d2bc9436c7f3e045683df42dd69b6008889523",
       "size": 13450,
-      "sha256": "42e885965738af496c885cf5faed3c0bb993b1a8d6a0e0da53ab47cb27a39c4a"
+      "sha256": "92ad71c8768ed12c21c3f890b7a00d31d6271eb6eabc88c1b815d6592520b780"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK7_BROOKS_RECOUNT.json",
@@ -4286,7 +4286,7 @@
       "path": "terms/OT1998/freeze/OT_1998CHUNK7_HAGGAR_RECONCILIATION_VALIDATION.md",
       "sha": "46a0cb60b13b38309a2931ca48e4ab310ecc1c17",
       "size": 3288,
-      "sha256": "4c834238c5964f6d7933b490bb8bff08d89abb0b8d11d2d5d46585272a51efe1"
+      "sha256": "e7a2981bbf21e6b1a3424dd0e7838889c29ca4b3d13ea6de2bf736a35869835a"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK7_HAGGAR_RECOUNT.json",
@@ -4304,7 +4304,7 @@
       "path": "terms/OT1998/freeze/OT_1998CHUNK7_HAGGAR_SCOPE_NEUTRAL_VALIDATION.md",
       "sha": "28f81b66edfda53d751e5d584c27dc38f21d17e0",
       "size": 4764,
-      "sha256": "7606facba5ee3588f3f25b0294727a06667e29519ea5749cd00641036ddad598"
+      "sha256": "4b9142889bc565671a764f4139afca3fcb9542e31f7fcd789b264a0751a8a67e"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK7_HAGGAR_STATUTES_NEUTRAL.md",
@@ -4340,7 +4340,7 @@
       "path": "terms/OT1998/freeze/OT_1998CHUNK7_LASALLE_REMODELING_RECEIPT.md",
       "sha": "cecd84f7b13ccc1b4b68eb9de608f122406ca4ca",
       "size": 2507,
-      "sha256": "6b97916296dae09400bf17fd62c46ebf700636a9083138b74ced61b9428eecd3"
+      "sha256": "d82173e1c1d159cab0f527dc345772a27866e2f2e96e9a9b3a3ab42bc4e08c65"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK7_LASALLE_SCOPE_NEUTRAL.md",
@@ -4352,7 +4352,7 @@
       "path": "terms/OT1998/freeze/OT_1998CHUNK7_LASALLE_SCOPE_NEUTRAL_VALIDATION.md",
       "sha": "94d3a183b582c2288b68ee6961f49448bdbd85af",
       "size": 4175,
-      "sha256": "17ed85aed5136d64d79b1d8f969602ae0ba9599cd24d75ff110cad970b4d2eb2"
+      "sha256": "2cdb7d887d5a84f97bb56a38f59c1f41577d8a8bbc4e73c491ad60901ed04906"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK7_LAST3_RECONCILED.md",
@@ -4400,7 +4400,7 @@
       "path": "terms/OT1998/freeze/OT_1998CHUNK7_OPENING_CONTINUITY.md",
       "sha": "3e6fd1ea9dd6d978b162a3b45df10f927c5e950b",
       "size": 503325,
-      "sha256": "c32bf08aaa18c5160b4c220b662894da55ba09ac34f402a9df96536d94f36bd8"
+      "sha256": "efa95c55816066c3ae925d6d4ae773872310547ff724e066614aae9e5543e5bc"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK7_OPENING_MANIFEST.md",
@@ -4412,7 +4412,7 @@
       "path": "terms/OT1998/freeze/OT_1998CHUNK7_OPENING_NEUTRAL_PROJECTION.md",
       "sha": "87daa27c4f09d5138dc57c97e1d3143860add804",
       "size": 503457,
-      "sha256": "803a64d51165a74a2ad702163ef3ab3360f96967503e19903aa4da8977dbbafc"
+      "sha256": "7cea07f03a60ef06c4dab5f5eff15d98f30eb6db71e30d7cea4220fc2e993227"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK7_PBGC_COMMITMENTS.md",
@@ -4754,7 +4754,7 @@
       "path": "terms/OT1998/freeze/OT_1998CHUNK8_OPENING_CONTINUITY.md",
       "sha": "86ff856e59b3afab5675252b5f5a4bc4f26e1b1c",
       "size": 596794,
-      "sha256": "cdd4699c1787a4a24e1817a979ba9d42c8904e6d1acb214224c0fc8f29a9296a"
+      "sha256": "4bb05af77c9d3a0e7e410501296645eccfff0ac8dd2186bddb772a76178f95c0"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK8_OPENING_LEDGER.md",
@@ -4772,7 +4772,7 @@
       "path": "terms/OT1998/freeze/OT_1998CHUNK8_OPENING_NEUTRAL_PROJECTION.md",
       "sha": "f401dd11e47ecdf08a2046cf9a28db11dee0730d",
       "size": 596441,
-      "sha256": "1bf2168a78e6eb06e4c4e766771c2acb82a31f686f02b17d7d78a61e2116f995"
+      "sha256": "a24a6c3fc8d6dd2266a249ca4037cb39ab45ad9413922f13c390bcab88d82c7b"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK8_PREFLIGHT_RECEIPT.md",
@@ -4904,7 +4904,7 @@
       "path": "terms/OT1998/freeze/OT_1998CHUNK9_A_PREFLIGHT.md",
       "sha": "86fd6e114274f888a498aef77c6080aa92b247f7",
       "size": 9484,
-      "sha256": "16ee035339bf0ba9cdd8a272e3dec0ec6d3ce4619101bc7fbad9962bf610ad47"
+      "sha256": "7f37b2a9928a1bae0755d7dfbb0b0c0a8782ea6b934230c873be1479fd90bcc7"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK9_BROADCASTING_RECONCILED.md",
@@ -4934,7 +4934,7 @@
       "path": "terms/OT1998/freeze/OT_1998CHUNK9_BUNDLE_RECEIPT.json",
       "sha": "05fa3fc7529b7fc77255ff5d50f1e1afb4c3ebfa",
       "size": 1178,
-      "sha256": "7ca7b1829b60b509fd935835092a1537778b2ea924f63dd33d4babfdfab2b89d"
+      "sha256": "79d4a1278c03adbf363a2e6bebea13c6358cdab2c866b66dec4df898c7a49245"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK9_B_COMMITMENTS.md",
@@ -4952,7 +4952,7 @@
       "path": "terms/OT1998/freeze/OT_1998CHUNK9_B_PREFLIGHT.md",
       "sha": "733fabaf440d2ca08a0f6272637c42b626d379e8",
       "size": 6208,
-      "sha256": "acd1adcf8f09279b557245afe2705d11dbd7c4b7be2c8c001739b52a63a5b9cb"
+      "sha256": "a842d3cbbd992da42b379da5f6455b00caf2d6542c07cd14786d583e5161188d"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK9_COMMITMENTS.md",
@@ -4982,7 +4982,7 @@
       "path": "terms/OT1998/freeze/OT_1998CHUNK9_FINAL_REVIEW.md",
       "sha": "2e2197e199faa618825a4645ed0490920c9cad97",
       "size": 9325,
-      "sha256": "d8379ba6d23d447a370a3ae212cbd51a540b12026fba2f1a054a16f8c4835030"
+      "sha256": "36fd3781bb6630c4617050880be0ba47f8e9168c7b49cec4344d58040f7a01fd"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK9_GONCALVES_COMMITMENTS.md",
@@ -5006,7 +5006,7 @@
       "path": "terms/OT1998/freeze/OT_1998CHUNK9_INTEGRITY.json",
       "sha": "2a8b394c175f3bf597cea4a47440d7bfd6a047e5",
       "size": 2567,
-      "sha256": "54c3756c3bf31411839ed8b4e518971ee15d84036b709aac666695aaf4753599"
+      "sha256": "53ca175a1e7eec85298545641937023c426e2fc586c36d3c0ca4c1c7e7a2429c"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK9_INTERIM_VALIDATION.md",
@@ -5042,7 +5042,7 @@
       "path": "terms/OT1998/freeze/OT_1998CHUNK9_NEDER_RECONCILED.md",
       "sha": "b2e9506e6e988093b70925b016a08e1162691982",
       "size": 34555,
-      "sha256": "994c3e6b7d3f7e51eb8f18f856032b7206e9f2ce7c7138fdda2eef93d6d144d3"
+      "sha256": "fbd9c38be751e721fed86c5241c48eefbd3ac34ed5d3757fee94cab23c9ee42a"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK9_NEDER_RECOUNT.json",
@@ -5054,7 +5054,7 @@
       "path": "terms/OT1998/freeze/OT_1998CHUNK9_OPENING_CONTINUITY.md",
       "sha": "75a83729a0fa1c59dca1226f0c02207fdd77da98",
       "size": 680551,
-      "sha256": "9334ccaca674f60f441e49545c7438239bc8402c50b5a0ce83210faacc985842"
+      "sha256": "5e7ab6e7daf5db5cae88536e8bd7630d01efb5bce4c5ed75488ed2cd241b9911"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK9_OPENING_LEDGER.md",
@@ -5072,7 +5072,7 @@
       "path": "terms/OT1998/freeze/OT_1998CHUNK9_OPENING_NEUTRAL_PROJECTION.md",
       "sha": "125c04a3a4b315171be800bf855dabda07a5ffd9",
       "size": 681925,
-      "sha256": "c4fd6c9833343a3a5ec9fbddba5975a765063171412075451bf0f3d358366f7f"
+      "sha256": "8a030773ed45976cbd36c96bba7d328cf1dd6aae8efcb8353db751135ae3f43b"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK9_OPENING_RECOUNT.json",
@@ -5114,7 +5114,7 @@
       "path": "terms/OT1998/freeze/OT_1998CHUNK9_RECONCILED.md",
       "sha": "dcba0ab82c583307aa1deb4dd7d497459a1d90a1",
       "size": 217808,
-      "sha256": "d6a0e251c978a41fcc68df4289af5e575479a57f9583f06aaf3f772fede23341"
+      "sha256": "421f731f23ee6f91b765748bbe53716777ecd6eb7447fe55e37b08aedc583a08"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK9_RICHARDSON_COMMITMENTS.md",
@@ -5228,13 +5228,13 @@
       "path": "terms/OT1998/freeze/WRIGHT_ASSEMBLY_VALIDATION.md",
       "sha": "771c36e778bcb238d680d6d2df98cd642e264384",
       "size": 2264,
-      "sha256": "0e6aeb94e3cad041e97bfb2e6b714c026842b457d2169286d62a9e96842be485"
+      "sha256": "ab4991aeebfd7850ca844ec34c4e9bbd9f2d265972de8e752005095cd953d1b1"
     },
     {
       "path": "terms/OT1998/freeze/WRIGHT_COMMITMENTS.md",
       "sha": "0452fd72f31116ed366cb2d1074d4c0540d6026f",
       "size": 44521,
-      "sha256": "275f78995eb5569262cc9339ddb0ef211873798f77d90669438b59b7c9af66ac"
+      "sha256": "c5b6a3bb5280c8a5fa9c59785b0d51d4002a0ad3d984b3f34ff54e20486f30e8"
     },
     {
       "path": "terms/OT1998/freeze/WRIGHT_NEUTRAL.md",
@@ -5252,7 +5252,7 @@
       "path": "terms/OT1998/freeze/WRIGHT_RECONCILED.md",
       "sha": "bf783495e6b148d258a0682b4ba73dfe8f89bc25",
       "size": 31220,
-      "sha256": "6d8ed36b5c9b5643b28a20514df8246d81b8f4ee322782b12c7bd0ec818af040"
+      "sha256": "b4f0c552ef3bb451a8bd27fdde3f0fea6e5fc96f58cdc074dce07dcbc61e833b"
     },
     {
       "path": "terms/OT1998/output/.gitkeep",
@@ -5270,7 +5270,7 @@
       "path": "terms/OT1998/output/OT_1998CHUNK2.md",
       "sha": "936f4ac85a8984cfc5e77813255cbe7aaf1c98d3",
       "size": 155818,
-      "sha256": "f90ef18c7801de719c0aa17ddd40d1e4758c201861f11ebc148a5d4df9989063"
+      "sha256": "ed9b10adef227bfe1b5edb4148f5e61559a945947012e256f8a59fb5b2e715a8"
     },
     {
       "path": "terms/OT1998/output/OT_1998CHUNK3.md",
@@ -5414,7 +5414,7 @@
       "path": "terms/OT1998/records/calderon_v_coleman_summary_merits_1998-12-14.md",
       "sha": "6a04d46c7058c18e0b2397f6fab09c096250bd64",
       "size": 71639,
-      "sha256": "56dff7b3a86e18150cec810a8fd68ed5df59faa9b97bb6f187118951854bf779"
+      "sha256": "9b1e3712f74cd0313cb8c7042e8348f1d8e447c28a2a7d290a75133f2a4ab2ca"
     },
     {
       "path": "terms/OT1998/records/california_dental_association_v_ftc_merits_1999-05-24.md",
@@ -5774,7 +5774,7 @@
       "path": "terms/OT1998/records/neder_v_united_states_merits_1999-06-10.md",
       "sha": "9c737a567c591c072b21fc406a945c139f088a57",
       "size": 113600,
-      "sha256": "fcaccda963c20e2f4004f29c855633b26c468b48befeee5f2fbff3531133f19a"
+      "sha256": "b54fe9570dc89343dec438787fe33dd1fa90adb1860e61accb4da5f62176e5d2"
     },
     {
       "path": "terms/OT1998/records/new_jersey_v_new_york_boundary_map_1999-05-17.png",
@@ -6014,7 +6014,7 @@
       "path": "terms/OT1998/render-inputs/OT_1998CHUNK2.md",
       "sha": "178779e8201c1723b6d6d782650926b2f4728867",
       "size": 161539,
-      "sha256": "185e893148966421727f9deef15ab7b48ec464ad870879e39bf7ebb77271a8e2"
+      "sha256": "c52c253e44c3ee5046974edb171354cec74282805eefeab17464d443f480f905"
     },
     {
       "path": "terms/OT1998/render-inputs/OT_1998CHUNK3.md",
@@ -6284,7 +6284,7 @@
       "path": "terms/OT1998/runtime/OT_1998CHUNK1_COMMITMENTS.md",
       "sha": "d8a30900b0abad40eaf9be329f5e5ddd819e2458",
       "size": 180166,
-      "sha256": "df481eed72c5c261c793c4cf506812285515af9fbb4f8552bc90ca04d4a1fcc9"
+      "sha256": "8657a2083e20e4f33446a2ff5fc732e8ecbae54ccff1dfafb753dd25ceb21b9d"
     },
     {
       "path": "terms/OT1998/runtime/OT_1998CHUNK1_COMPARATOR.md",
@@ -6410,7 +6410,7 @@
       "path": "terms/OT1998/runtime/OT_1998CHUNK1_RECONCILED.md",
       "sha": "632146161b40b915495c06ee6dcbd0b7b694d102",
       "size": 126250,
-      "sha256": "210f23ac864e707e9660e66a3900b79e9da0bdc89c7d856241c1384772e9ddf3"
+      "sha256": "a3b70dd4e605a102daf5dc610cceaee7accaefb6f90fa2fb3fb2f4672bca9da9"
     },
     {
       "path": "terms/OT1998/runtime/OT_1998CHUNK1_STONE.md",
@@ -6548,7 +6548,7 @@
       "path": "terms/OT1998/runtime/OT_1998CHUNK2_COLEMAN_CERT_STONE.md",
       "sha": "3d5a4aa33a6d7935d9161a4e0206590655c2cc1f",
       "size": 4666,
-      "sha256": "29dd7796c2ebd65ee8bc4767dff5610dc292a4d302f97776a6f6f6ff64c3528c"
+      "sha256": "f3ad7e22408333a4e661e600666fac56d734e79f4977a1884e0dd61afbc7804b"
     },
     {
       "path": "terms/OT1998/runtime/OT_1998CHUNK2_COLEMAN_COMPARATOR.md",
@@ -6560,19 +6560,19 @@
       "path": "terms/OT1998/runtime/OT_1998CHUNK2_COLEMAN_REFRESH_COMMITMENTS.md",
       "sha": "c912432857c94b00c17f84ab9c150d45cf56a201",
       "size": 36494,
-      "sha256": "cbbd2933f04d0529a5cf87ad8eb0a4312426fb45ffa647760bddaf3e0dea8de2"
+      "sha256": "9a18ddac207fd11976acd921b2690f03c9d087197244302b244862ba6fb03783"
     },
     {
       "path": "terms/OT1998/runtime/OT_1998CHUNK2_COLEMAN_REFRESH_NEUTRAL.md",
       "sha": "33c30508979e4da8bff3b7a19fbe31a005639315",
       "size": 24219,
-      "sha256": "554a4ca2cc4319e726be3836639031a700617292b278ae1c143e36c6f997a3c7"
+      "sha256": "9ad8aa74e436798e8035a95c8a1f1024211baf9c445d613b0e8a65dd54f6c1b3"
     },
     {
       "path": "terms/OT1998/runtime/OT_1998CHUNK2_COLEMAN_REFRESH_RECONCILED.md",
       "sha": "1a994d77502232cbd65ea8804de29cbc9ddf2f8a",
       "size": 58144,
-      "sha256": "06fc788a4dbc7444a643b3d55fdf29b20a866dcce45e38b7070c044ccd016847"
+      "sha256": "3dd9076afde7abda8325569258ca83140b13c40646d550491f77955c07cec1dd"
     },
     {
       "path": "terms/OT1998/runtime/OT_1998CHUNK2_COLEMAN_REFRESH_SOURCE_EXCERPTS.md",
@@ -6584,13 +6584,13 @@
       "path": "terms/OT1998/runtime/OT_1998CHUNK2_COLEMAN_STONE.md",
       "sha": "17cef7dd211f6154f40330ff41dbc272ec7617c4",
       "size": 3038,
-      "sha256": "6ce794ca917d290fff8789f2b079567bf4692e564729b193ba2aa9c49b20907c"
+      "sha256": "da621327a9df7102edadf192018881991ca488b11cb9a4dbf85b945668b66049"
     },
     {
       "path": "terms/OT1998/runtime/OT_1998CHUNK2_COMMITMENTS.md",
       "sha": "e548ecfd48524188e550d679ec74e3c2e6d1a5b1",
       "size": 186729,
-      "sha256": "042ea2b16bbe93cfe30914473c144e1315fdeb9478450f307f25e3b31af4f408"
+      "sha256": "d01ff6aef3217f3ef18cfd2c0c69d38a3de44fb366a779703687749575ea93a7"
     },
     {
       "path": "terms/OT1998/runtime/OT_1998CHUNK2_COMPARATOR.md",
@@ -6602,19 +6602,19 @@
       "path": "terms/OT1998/runtime/OT_1998CHUNK2_C_COMMITMENTS.md",
       "sha": "50c55312c6e08ab8b2e4e6fb3e5ae259a5c5f66f",
       "size": 38515,
-      "sha256": "44120b5094c74d123d5707b66e432b4bfc6ba825bdc22c3c3f4c7afc729622ea"
+      "sha256": "67b728a08244fe727530d037a8653fb2a4c796d2fbc1635dd12787b6dc2c11db"
     },
     {
       "path": "terms/OT1998/runtime/OT_1998CHUNK2_C_NEUTRAL.md",
       "sha": "56175df01500f331cb9d6fdd43bbd7153683abc3",
       "size": 23248,
-      "sha256": "c5319e57822d43495382d4ee068b23f9e5ef666d8215dd7d60e2078cd36d6832"
+      "sha256": "fc301d26eea10a155211788f0abd9d3e69b122b3559bf5e6f76a109de2b19b3b"
     },
     {
       "path": "terms/OT1998/runtime/OT_1998CHUNK2_C_PREFLIGHT.md",
       "sha": "2476feeba1516fc0a8f216c92e76b459f3ccfc6e",
       "size": 20120,
-      "sha256": "be2122d1b3c76bb91f883a4a183d6bc04807b6fdfcc96253014fe719ba2d1944"
+      "sha256": "eff3eb0b2f8e1e86ae25c56036a061fc29ca9670115ac2a348ceaeaab718ea67"
     },
     {
       "path": "terms/OT1998/runtime/OT_1998CHUNK2_C_RECONCILED.md",
@@ -6716,7 +6716,7 @@
       "path": "terms/OT1998/runtime/OT_1998CHUNK2_NEUTRAL.md",
       "sha": "e7efbb800390401d631178a15f0d0e6c404f18dc",
       "size": 75468,
-      "sha256": "be66e4f7855aecd7dadf405f719cb31b555800dd77ed5b297b1450d938a23ac1"
+      "sha256": "8feca801041e73ea3386bc053bbea683d0da5f9003bfd56962b2abb7b055d7e7"
     },
     {
       "path": "terms/OT1998/runtime/OT_1998CHUNK2_NYNEX_COMPARATOR.md",
@@ -6764,7 +6764,7 @@
       "path": "terms/OT1998/runtime/OT_1998CHUNK2_RECONCILED.md",
       "sha": "9afd0ec2515a237d22f93fec80ff3f7c8cd21dd4",
       "size": 267578,
-      "sha256": "b2fd2dc16b93be47f348d0c237f198479ece19a117731e95cd5d48b9cd99a49d"
+      "sha256": "c09da3f84f58a77c9c9d498978f6665326f714fc7fbff8b9ea92c1a0ced2b34e"
     },
     {
       "path": "terms/OT1998/runtime/OT_1998CHUNK2_REMBERT_COMPARATOR.md",
@@ -6782,7 +6782,7 @@
       "path": "terms/OT1998/runtime/OT_1998CHUNK2_STONE.md",
       "sha": "808382a88066ddd6b36196c4a9c5f0a88fa32a83",
       "size": 34752,
-      "sha256": "dcb4765485f6bccb5acabd87fc5d01b20be7235abe24e5ad772fc62644e06537"
+      "sha256": "21bfaffc97305c34bf8f8b19ecd0a18d28e5f0cb4720863d98b3d8a686454823"
     },
     {
       "path": "terms/OT1998/runtime/OT_1998CHUNK2_WRIGHT_COMPARATOR.md",
@@ -7166,7 +7166,7 @@
       "path": "terms/OT1998/runtime/OT_1998CHUNK3_PRIOR_ASSIGNMENTS.md",
       "sha": "5e574f0940f4f1310b812fec8b0d2ff0dfc7e0e8",
       "size": 105625,
-      "sha256": "bda1edeb504b56b7824c230cc5223e0b1fab7bd4c648b1f1a1acc5cc94e3247a"
+      "sha256": "e48ccb8030a1528b23315d2d3e2a5e592b6f9b215723f0dcd9ca2101ba2285e4"
     },
     {
       "path": "terms/OT1998/runtime/OT_1998CHUNK3_RECORD_ORDER.txt",
@@ -7466,7 +7466,7 @@
       "path": "terms/OT1998/runtime/OT_1998CHUNK5_ASSIGNMENT_SOURCE.md",
       "sha": "47742da88580938f9b6a481fced77308cad7df74",
       "size": 224050,
-      "sha256": "6cc8084fdd4b32ad8944e3114cf3b409b833fd14a9d817b1c8b95c469eb94113"
+      "sha256": "fb5f29ae2020cbcb99793571824f7c62a2c5f7a2a4c72f416227e934f86f1b11"
     },
     {
       "path": "terms/OT1998/runtime/OT_1998CHUNK5_A_COMMITMENTS.md",
@@ -7796,7 +7796,7 @@
       "path": "terms/OT1998/runtime/OT_1998CHUNK5_RESUMED_ASSIGNMENT_RECOUNT.json",
       "sha": "cd436622e95c7e4e77bf27c532f716999f285e51",
       "size": 22494,
-      "sha256": "219b6b071b600b2ffded1f34362aa8982a01833a0c68e24cd513055b6f87b9d3"
+      "sha256": "f6c5a3dae819f12f4e143424d2757fad4022e48f92c720d880f8de9be7835eef"
     },
     {
       "path": "terms/OT1998/runtime/OT_1998CHUNK5_STEWART_ADDITIONAL_FACTS_FOR_NEUTRAL.md",
@@ -8006,7 +8006,7 @@
       "path": "terms/OT1998/runtime/OT_1998CHUNK6_B_FRESH_PREFLIGHT.md",
       "sha": "74da00b522d1fb0ed8f8a51e33ee7e48d293cfac",
       "size": 27569,
-      "sha256": "2c932a91e65cc3fa7d52419af0d74ba30ebaf1a2eba206df70383a22046438d1"
+      "sha256": "b738b4490ff3ea4bdf37c5eef1e3c95c289540ce952f4b866eb8192999fc3d48"
     },
     {
       "path": "terms/OT1998/runtime/OT_1998CHUNK6_B_NEUTRAL.md",
@@ -8030,7 +8030,7 @@
       "path": "terms/OT1998/runtime/OT_1998CHUNK6_B_PROC_RECONCILED.md",
       "sha": "afbafb32b446c0638e80ca389352e3d1b0e72622",
       "size": 26704,
-      "sha256": "86a8607f1feb3dc15ce58b7efb56769a73f5ef5285c9bdc44963e92d5c02bb48"
+      "sha256": "354e9f85635887d989ac8bacd8ef2db30855aa5e81951f3ab07e94173abe265f"
     },
     {
       "path": "terms/OT1998/runtime/OT_1998CHUNK6_CENTRAL_STATE_NEUTRAL_CERT.md",
@@ -8042,7 +8042,7 @@
       "path": "terms/OT1998/runtime/OT_1998CHUNK6_COMMITMENTS.md",
       "sha": "29301f2e0daf64db45c0c01d9d2340bac1ee8134",
       "size": 3132,
-      "sha256": "05839e7bb1445568f28ae19b629f87fa6483ea1ab478d20bfa8931c2f73f6782"
+      "sha256": "ec52830c7f321810a88e693bbdec696ad8de759382b0b487016ea2d80027a9b7"
     },
     {
       "path": "terms/OT1998/runtime/OT_1998CHUNK6_COMPARATOR.md",
@@ -8078,13 +8078,13 @@
       "path": "terms/OT1998/runtime/OT_1998CHUNK6_CONN_REFRESH_PREFLIGHT.md",
       "sha": "07063cba7298f9d0af64063d8975f21492d59612",
       "size": 8748,
-      "sha256": "c9dfcf48a390e55dac15ce37273954fcb9c9116e0f03e08e0fc1e689fbe6400d"
+      "sha256": "51de6189734edb0653b0a2bedd7c7c9e31a74bdbdc2c626bb7a2dc8f605f4e4e"
     },
     {
       "path": "terms/OT1998/runtime/OT_1998CHUNK6_CONN_REFRESH_RECONCILED.md",
       "sha": "68bb17ad3d91fac9990dde1cc6c9c2258f343260",
       "size": 25021,
-      "sha256": "9ca594d10f0dcce45f0ba16d262fc867d578409e3f3a25a8c63cde87ee86574a"
+      "sha256": "72f4d5c8e77d6241426550552d56b8cd0097da094114383883cd1569df7ec32c"
     },
     {
       "path": "terms/OT1998/runtime/OT_1998CHUNK6_CONN_STONE.md",
@@ -8174,7 +8174,7 @@
       "path": "terms/OT1998/runtime/OT_1998CHUNK6_MITCHELL_COMMITMENTS.md",
       "sha": "29cc955ad6408f3ad31d42b7c96f77c63553030f",
       "size": 28565,
-      "sha256": "c11ad017ed80a7bb6992d96e3674b613733862e46c55bc48d14f5fe48de1a6ef"
+      "sha256": "73991ad84263dc33604339f04470b51166ff3c17820bfc14e8b368532e9ea1aa"
     },
     {
       "path": "terms/OT1998/runtime/OT_1998CHUNK6_MITCHELL_COMPARATOR.md",
@@ -8192,7 +8192,7 @@
       "path": "terms/OT1998/runtime/OT_1998CHUNK6_MITCHELL_MODEL_FREEZE_RECEIPT.md",
       "sha": "f826f0cb9525ccc674f6c8524aa07ef5da149b45",
       "size": 4666,
-      "sha256": "1347921ea9845568d79ef3c651914bc2a5c7eb5757807503b29691238cb31b8c"
+      "sha256": "c8de27002dda1a9ab9a68811921dcb573f27c98bbeb2df9129e3696433db4c49"
     },
     {
       "path": "terms/OT1998/runtime/OT_1998CHUNK6_MITCHELL_NEUTRAL.md",
@@ -8216,7 +8216,7 @@
       "path": "terms/OT1998/runtime/OT_1998CHUNK6_MITCHELL_RECONCILIATION_RECEIPT.md",
       "sha": "b18ef825e5c253bd9d7fd071f742fba697b4215c",
       "size": 10531,
-      "sha256": "67a6b1ffe03d9095b7bd9879a28a2a1634fc1c36945d928b3b6141463846e24f"
+      "sha256": "c41c2c62a0f2e9274bf2ed0daa3fb95d0829e7385833019366eb33bb00edf947"
     },
     {
       "path": "terms/OT1998/runtime/OT_1998CHUNK6_MITCHELL_STONE.md",
@@ -8258,13 +8258,13 @@
       "path": "terms/OT1998/runtime/OT_1998CHUNK6_PRIOR_ASSIGNMENTS.md",
       "sha": "da884cbeccee6858e5c451f44b5c6b53b988c7f4",
       "size": 267591,
-      "sha256": "fa5f4533d7a884d5fd5edd38985b7ad7e0b89dd6c1d401771ef789707bacaa3f"
+      "sha256": "88502c9824c25567d036e7c2cdf1058ca8d961a3f7b9316646db5364b3df4873"
     },
     {
       "path": "terms/OT1998/runtime/OT_1998CHUNK6_RECONCILED.md",
       "sha": "04e709f5646cd1bf151ea60c35dd23123a019e52",
       "size": 3149,
-      "sha256": "c7ae93f282855e591cdcfe501196ec2e0a873a236b7e2407b13bcb47dc609a66"
+      "sha256": "f8441cf69eed135e18e124dec0ecb9dadef3185630efe281864d632e2f002f1b"
     },
     {
       "path": "terms/OT1998/runtime/OT_1998CHUNK6_RODRIGUEZ_ASSEMBLY_DRAFT.md",
@@ -8432,7 +8432,7 @@
       "path": "terms/OT1998/runtime/OT_1998CHUNK8_ASSIGNMENT_HISTORY.md",
       "sha": "6274b4de09735a74d84d074ee9e9f33d3460e956",
       "size": 376142,
-      "sha256": "0d35362467f9e9bd78f392396ea9a078df7e440875777c23f2d1d9ba2d0050a6"
+      "sha256": "aa706e4e5b1980f87196faafb22fb91e6d641c6866af243f4554646503ded447"
     },
     {
       "path": "terms/OT1998/runtime/OT_1998CHUNK8_ASSIGNMENT_RECOUNT.json",
@@ -8564,7 +8564,7 @@
       "path": "terms/OT1998/runtime/OT_1998CHUNK9_ASSIGNMENT_HISTORY.md",
       "sha": "ffd2166970375e5e71e99b14cdc827d3f658d0da",
       "size": 414565,
-      "sha256": "0f857ca2d57258acab15a0426a4e785e803d85a571bf20a791eb6ac59653f402"
+      "sha256": "6963bb39cf72990b5a45ec4f462cdd557c987ccbaefb3fa87ba01a509410ae3e"
     },
     {
       "path": "terms/OT1998/runtime/OT_1998CHUNK9_A_COMMITMENTS.md",
@@ -8654,7 +8654,7 @@
       "path": "terms/OT1998/runtime/OT_1998CHUNK9_FINAL_REVIEW.md",
       "sha": "2e2197e199faa618825a4645ed0490920c9cad97",
       "size": 9325,
-      "sha256": "d8379ba6d23d447a370a3ae212cbd51a540b12026fba2f1a054a16f8c4835030"
+      "sha256": "36fd3781bb6630c4617050880be0ba47f8e9168c7b49cec4344d58040f7a01fd"
     },
     {
       "path": "terms/OT1998/runtime/OT_1998CHUNK9_GONCALVES_ASSEMBLY_DRAFT.md",
@@ -8726,13 +8726,13 @@
       "path": "terms/OT1998/runtime/OT_1998CHUNK9_NEDER_FINAL_DRAFT.md",
       "sha": "9c737a567c591c072b21fc406a945c139f088a57",
       "size": 113694,
-      "sha256": "fcaccda963c20e2f4004f29c855633b26c468b48befeee5f2fbff3531133f19a"
+      "sha256": "b54fe9570dc89343dec438787fe33dd1fa90adb1860e61accb4da5f62176e5d2"
     },
     {
       "path": "terms/OT1998/runtime/OT_1998CHUNK9_NEDER_RECONCILED.md",
       "sha": "b2e9506e6e988093b70925b016a08e1162691982",
       "size": 34555,
-      "sha256": "994c3e6b7d3f7e51eb8f18f856032b7206e9f2ce7c7138fdda2eef93d6d144d3"
+      "sha256": "fbd9c38be751e721fed86c5241c48eefbd3ac34ed5d3757fee94cab23c9ee42a"
     },
     {
       "path": "terms/OT1998/runtime/OT_1998CHUNK9_NEUTRAL.md",
@@ -8768,7 +8768,7 @@
       "path": "terms/OT1998/runtime/OT_1998CHUNK9_RECONCILED.md",
       "sha": "dcba0ab82c583307aa1deb4dd7d497459a1d90a1",
       "size": 217808,
-      "sha256": "d6a0e251c978a41fcc68df4289af5e575479a57f9583f06aaf3f772fede23341"
+      "sha256": "421f731f23ee6f91b765748bbe53716777ecd6eb7447fe55e37b08aedc583a08"
     },
     {
       "path": "terms/OT1998/runtime/OT_1998CHUNK9_RICHARDSON_ASSEMBLY_DRAFT.md",
@@ -8858,7 +8858,7 @@
       "path": "terms/OT1998/runtime/WRIGHT_COMMITMENTS.md",
       "sha": "0452fd72f31116ed366cb2d1074d4c0540d6026f",
       "size": 44521,
-      "sha256": "275f78995eb5569262cc9339ddb0ef211873798f77d90669438b59b7c9af66ac"
+      "sha256": "c5b6a3bb5280c8a5fa9c59785b0d51d4002a0ad3d984b3f34ff54e20486f30e8"
     },
     {
       "path": "terms/OT1998/runtime/WRIGHT_NEUTRAL_SUPPLEMENT.md",
@@ -8870,7 +8870,7 @@
       "path": "terms/OT1998/runtime/WRIGHT_RECONCILED.md",
       "sha": "bf783495e6b148d258a0682b4ba73dfe8f89bc25",
       "size": 31220,
-      "sha256": "6d8ed36b5c9b5643b28a20514df8246d81b8f4ee322782b12c7bd0ec818af040"
+      "sha256": "b4f0c552ef3bb451a8bd27fdde3f0fea6e5fc96f58cdc074dce07dcbc61e833b"
     },
     {
       "path": "terms/OT1998/runtime/build_a_reconciliation.py",
@@ -11078,13 +11078,13 @@
       "path": "terms/OT1998/runtime/sources_control/coleman_reconciliation_return.md",
       "sha": "9a3f16c4aba5394b553f1dc54f6d10ed629adc67",
       "size": 6367,
-      "sha256": "12ddcbd0ea445919d3116349b02693e530dff50f823f779bd6c4ba30e4b1a674"
+      "sha256": "a59c273d5e78d82c51505e6a59428015a0ef36f2de73217d513460d52ac653c6"
     },
     {
       "path": "terms/OT1998/workspace/continuity.md",
       "sha": "11a163d3ed4d46cc7f773f6be7c121402848b398",
       "size": 792345,
-      "sha256": "ae940957a25da83b1967ef99b80a3e90811850a25c37b6129ff4b9339d59c3a3"
+      "sha256": "e1ca76359b377e59ec0e1de3d6ff8b548e8066b7494a73ad4942f0ff061ffcd2"
     },
     {
       "path": "terms/OT1998/workspace/ledger.md",
@@ -11102,7 +11102,7 @@
       "path": "terms/OT1998/workspace/neutral-projection.md",
       "sha": "9917fea80bf7624f790c92390c584a32c1ed0dbf",
       "size": 794122,
-      "sha256": "159a09d2e94be48eb4816eaf2215f2d4b62ed02f8295e5396cbd4dd9284dc42f"
+      "sha256": "c27417df709b6e9d26ac259ca7db1087aa34a6f9afb0cf4067a86e12358fab59"
     },
     {
       "path": "terms/OT1997/output/.gitkeep",
@@ -11120,7 +11120,7 @@
       "path": "terms/OT1997/output/OT_1997CHUNK10.md",
       "sha": "57d62f802594343c4dbb38939a6d448c66a906f0",
       "size": 116180,
-      "sha256": "86f47051c17e65537319bd3b5902f555b439235b84c6bbfb1cc1aaafabe04c94"
+      "sha256": "fba6238b143c0e7b2330de1f27ba950977b561b76569e00fd9e705020df3582a"
     },
     {
       "path": "terms/OT1997/output/OT_1997CHUNK11.md",
@@ -11138,7 +11138,7 @@
       "path": "terms/OT1997/output/OT_1997CHUNK13.md",
       "sha": "2e9f8e6fcbe335cc4e6b133adb4759d2ec50fb11",
       "size": 314926,
-      "sha256": "1a0752eb317d6444112cc0a1fbc5024ea9e8b118399432641cc5704607138406"
+      "sha256": "8e2778b1ff90ec33ffd4b1d2b1f8f3acbff823f0cd3d16c19142db7704031ae7"
     },
     {
       "path": "terms/OT1997/output/OT_1997CHUNK2.md",
@@ -11150,7 +11150,7 @@
       "path": "terms/OT1997/output/OT_1997CHUNK3.md",
       "sha": "0c5ce03fa88fd70be8e780316d4d1c9a8e1d7330",
       "size": 207990,
-      "sha256": "f2d90f62cda9fb02cd876c121695870aa3108fb72751c71f5e8d7bb7cba69f0a"
+      "sha256": "5d168bfe6bf186ab2d23099d1917a261cd4b72bd6bf2df79aac21cc8aea47ff8"
     },
     {
       "path": "terms/OT1997/output/OT_1997CHUNK4.md",
@@ -11168,7 +11168,7 @@
       "path": "terms/OT1997/output/OT_1997CHUNK6.md",
       "sha": "3d75d49e893f0d106ea31b2dd0ca86835e929b3a",
       "size": 178863,
-      "sha256": "984d0bb4b766dae7d6cbefed3ed62dda1c097aa6468d9cd736dd559348f877a0"
+      "sha256": "94696ace1d21ed334e5a2c30f8f822d7c5392930165fb444bbf0fe2b64cfa360"
     },
     {
       "path": "terms/OT1997/output/OT_1997CHUNK7.md",

@@ -39,7 +39,7 @@ These fingerprints identify the reading copies available to this model. Applicab
 | `entering-law/OT_2001CHUNK6_A_AUTHORITIES.md` | `f9ae1aecdc287bf6ad2fe26e51f8973308c3d0e401fbbfd9b3eda9084961be5a` |
 | `entering-law/OT_2001CHUNK6_A_CURRENT.md` | `153ff5b2c0d8805534777839dfcb7ead8996ffd803ad56028e7208142d56bf6a` |
 | `entering-law/OT_2001CHUNK6_A_PUBLIC_POSITIONS.md` | `10a1887496f09e5a9b5d5d644b9682f62b1f9d031465850e51acd172c3a7ee7d` |
-| `entering-law/OT_2001CHUNK6_B.md` | `c51c55a9b6e637cb52ae0361deb3048943b20db8e80ca87aed609b89ce7187d2` |
+| `entering-law/OT_2001CHUNK6_B.md` | `0049abfda8e1d61d440671ec0c64e2ee259c03f80d5523c5dde8ea3c6e6e1aed` |
 | `entering-law/OT_2001CHUNK6_B_HOLDINGS.md` | `895f8f778958cada14f9bef4271600da9d6fc8ce00b74ce30e6b9153e416dfdc` |
 | `entering-law/OT_2001CHUNK6_B_CURRENT_LAW.md` | `026bd16f642749f0ec398fbe09d06606db148dc31df74366cbb5b07b5d5ae950` |
 | `entering-law/OT_2001CHUNK6_B_FRANCONIA_PRIOR_PUBLIC.md` | `2d80df43b652d18f79346d2c18e86d1b9c2e2b0fb3a157a5ef4703480637ecd6` |

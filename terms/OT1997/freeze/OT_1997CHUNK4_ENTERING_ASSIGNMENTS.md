@@ -572,7 +572,7 @@ Stevens, the most senior Associate in D's six-Justice remand coalition, assigns 
 ## Buchanan v. Angelone, No. 96-8400; review of 103 F.3d 344 (4th Cir. 1996).
 Source Record: ../records/buchanan_v_angelone_merits_1998-01-21.md
 Event: Plenary merits decision, 1998-01-21; argued 1997-11-03; October Term 1997.
-File SHA256: ca51e1fb45566cd18a69ef84fef953d254a6a661a31a26f214ac8e1c15d7e5d6
+File SHA256: 4d42937a34ecae2d0ab79d12ef91680a5b6c0433631b2bdfe7e70ec00f84373d
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
@@ -613,7 +613,7 @@ The Chief assigns from each unanimous judgment coalition. All eight Associates f
 ## Lunding v. New York Tax Appeals Tribunal, No. 96-1462.
 Source Record: ../records/lunding_v_new_york_tax_appeals_tribunal_merits_1998-01-21.md
 Event: Plenary merits decision, 1998-01-21; argued 1997-11-05; October Term 1997.
-File SHA256: b5cd73e3e0c92ba1b0d460baac42068d254dbce256049148e71972a045cf42b7
+File SHA256: dea5f6409a179b030b52365ff717092bb88f4b82cb3884d6846ad45c57708754
 
 Thomas delivers the opinion of the Court, joined in full by Stone-Zsela, Stevens, O'Connor, Scalia, Souter and Breyer. The same seven Justices adopt both holdings and all their qualifications. Ginsburg dissents, joined in full by Kennedy, on both the income-attribution and independent home-State personal-expense grounds.
 
@@ -630,7 +630,7 @@ The Chief selects **Thomas** for the concrete work of examining the actual tax c
 ## Allentown Mack Sales & Service, Inc. v. NLRB, No. 96-795; D.C. Circuit judgment, 83 F.3d 1483.
 Source Record: ../records/allentown_mack_sales_service_inc_v_nlrb_merits_1998-01-26.md
 Event: Plenary merits decision, 1998-01-26; argued 1997-10-15; October Term 1997.
-File SHA256: 057602e06bdc281f86ac3d6c0f83996e57813cad5335f3af737e0517f13d1d5c
+File SHA256: ccd8418f9e54008caa28b8124ed030415771a89652e2f4edc1a2b5b8a910581d
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
@@ -722,7 +722,7 @@ The **whole-opinion eligible set and balance pool are O'Connor, Scalia, Kennedy 
 ## Oubre v. Entergy Operations, Inc., No. 96-1291.
 Source Record: ../records/oubre_v_entergy_operations_inc_merits_1998-01-26.md
 Event: Plenary merits decision, 1998-01-26; argued 1997-11-12; October Term 1997.
-File SHA256: a1dd3463f1ec150c10025bbc569fa5ad8c4e9dfe2aa098a1ef72fce99b153bd5
+File SHA256: b726b301f0be883b57d57b7a1639c58b0514dd512d2d3c89f6bd28f2dcf34c0e
 
 O'Connor delivers the opinion of the Court, joined in full by Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg and Breyer. Breyer concurs, joined by O'Connor; both fully join the Court. Scalia and Thomas each dissent separately and join neither the Court nor one another's dissent. Scalia would affirm on lack of tender alone and rejects ratification here; Thomas would affirm on ratification and also preserves tender as a distinct condition.
 
@@ -760,7 +760,7 @@ The reversal removes only the challenged ADEA waiver/retention barrier and reman
 ## South Dakota v. Yankton Sioux Tribe, No. 96-1581.
 Source Record: ../records/south_dakota_v_yankton_sioux_tribe_merits_1998-01-26.md
 Event: Plenary merits decision, 1998-01-26; argued 1997-12-08; October Term 1997.
-File SHA256: cefc949abfd058bd1a9d227444627934b28ebcda1b958025c09393e9e6fc72a1
+File SHA256: 6596668e5b3caa804a7ed6b8856c827c0854dff344a062884da2d26fe5358a78
 
 Stevens delivers the opinion of the Court, joined in full by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. All nine adopt the three holdings and their qualifications. No separate writing issues.
 

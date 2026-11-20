@@ -12,8 +12,8 @@ Read the final frozen neutral packet, the relevant holdings, standards and publi
 
 | Authorized input | SHA-256 checked before modeling |
 |---|---|
-| [Final Brewster neutral packet](OT_1997CHUNK12_NEUTRAL_BREWSTER_AUG17.md) | `9DABB67872453737BD4937C8F207113237BDE88F19E1E7990B82D7DCA68F342E` |
-| [August 17 entering law](../entering-law/OT_1997CHUNK12_BEFORE_1998-08-17.md) | `A74133763631378CFB740A60E900B7FD91A0DF50DF519018C6BFC4ED788B7973` |
+| [Final Brewster neutral packet](OT_1997CHUNK12_NEUTRAL_BREWSTER_AUG17.md) | `1D94DD67F82BB3CCA0972CBBF8AFA34B08A263E9BB9B5585FE87998D2A4C3D9B` |
+| [August 17 entering law](../entering-law/OT_1997CHUNK12_BEFORE_1998-08-17.md) | `D6B3DBF0B567E5EABE6A58B28A0F1641C565165488ACBCDBBCB8907CD1E30F32` |
 | [Current-Term Neutral Projection](../workspace/neutral-projection.md) | `8827077E16081509F3146ADE77EF59F766B58256F1E1EA5E0A03853925E7263E` |
 
 The current-case historical Supreme Court disposition, comparator, reconciliation, controlled Stone position, briefs, private Records, audits and other commitments were not opened. Earlier public holdings and published separate positions appearing inside the authorized snapshot were distinguished from controlling law. No Git command or subprocess was used. No top-level `stone/` path was accessed, listed or searched. New files were confined to this term. This is a durable frozen file, not a claim that a repository commit was made.

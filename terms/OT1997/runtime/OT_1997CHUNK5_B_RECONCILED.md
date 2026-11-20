@@ -12,7 +12,7 @@ Historical-reconciliation context: no current Stone position, Stone handoff, com
 
 The independent five-matter text below is mechanically copied from the immutable B commitment file, removing only Hetzel's complete section. The reconciliation addendum following it controls the stated source correction and clarifications. The full original file remains unchanged. All eight Associates participate in each matter; no recusal fact is established.
 
-Independent full B input SHA256: `7946620332b90dd8d7006c43e993647027b0c73738b9d59a11daa2cb86ed0232`.
+Independent full B input SHA256: `62586ccb256466887f051ad868ebad2c7ace425afadf41f2eb8448a2f249e076`.
 
 # OT1997 chunk 5 — independent non-Stone commitments, batch B
 
@@ -178,7 +178,7 @@ Source digests below identify bytes entering this stage; paths are relative to `
 | freeze/CLEAN_NEUTRAL_VALIDATION_B.md | 3DE5C6FDD4B864E1F0D2E7E22925BA9397A99E61DD757461E253FA254A8471B3 |
 | freeze/OT_1997CHUNK5_NEUTRAL_TRIESTMAN_CLEAN.md | 0222530820DE6009255A06047BB7A2DD7D1D499AC1D5D8CF2A9ACDF35FE6D057 |
 | research/chunk5_control/TRIESTMAN_CLEAN_NEUTRAL_REVIEW.md | 003A891811325298BA7E08AB17F1D865F6C315262C844B5AEEF37ADF2BEAF6F4 |
-| entering-law/CHUNK5/07_aktepe.md | EFD40A58478459DD7FDD14D24AA8FB6894F1C69C4A279F7981256E12C3D7CA85 |
+| entering-law/CHUNK5/07_aktepe.md | FF69865D1E03C5FD287F0741AB31AE8A77173824299737909779854FEC5DEA61 |
 | entering-law/CHUNK5/08_triestman.md | CAEEE64A739093874102E00AE50C8CF09F9A52FC421589453021115DCC64B8A7 |
 | entering-law/CHUNK5/09_wp.md | 3AC348EFF7EC27725500BFA199460BF55D742E1877F98E8622E4FAB7872C1EAD |
 | entering-law/CHUNK5/10_hetzel.md | 1C86626DBBDBEC96487E867AB2F83B1ABAFF9805224B980E0FEF4319AF7AE880 |
@@ -273,8 +273,8 @@ Historical-reconciliation stage only. No current Chief/Stone position, Chief cer
 
 Input hashes:
 
-- Original B commitments: `7946620332b90dd8d7006c43e993647027b0c73738b9d59a11daa2cb86ed0232`.
-- Associate certiorari commitments: `4d8bbecd36e8ca46086a307b6038ecc0ed52619d3d998073bcf3a4847c5a3828`.
+- Original B commitments: `62586ccb256466887f051ad868ebad2c7ace425afadf41f2eb8448a2f249e076`.
+- Associate certiorari commitments: `adddaec8c926804d4b3a53d52294e30604884f38dde6ece1845b3f01968f5825`.
 - Preservation commitments: `81b66ca7b83d6723bcc2791b5b10a6c4e998df14f51b0aedf84157e0674cc5fb`.
 
 ## 4. Hetzel v. Prince William County — March 23, 1998
@@ -298,7 +298,7 @@ All eight would reverse the challenged mandamus constraint and remand. No sum is
 
 # Hetzel — independent Associate certiorari commitments
 
-Supplement to the immutable batch-B merits/threshold commitments; no change to their substantive positions. Prepared from the same clean neutral packet, its objective-source receipt, `entering-law/CHUNK5/10_hetzel.md`, and Engine §10. No comparator, same-matter Supreme Court outcome or current private Stone position was received. The frozen batch-B handoff has SHA-256 `7946620332b90dd8d7006c43e993647027b0c73738b9d59a11daa2cb86ed0232`.
+Supplement to the immutable batch-B merits/threshold commitments; no change to their substantive positions. Prepared from the same clean neutral packet, its objective-source receipt, `entering-law/CHUNK5/10_hetzel.md`, and Engine §10. No comparator, same-matter Supreme Court outcome or current private Stone position was received. The frozen batch-B handoff has SHA-256 `62586ccb256466887f051ad868ebad2c7ace425afadf41f2eb8448a2f249e076`.
 
 **Case:** Hetzel v. Prince William County, No. 97-954.
 **Scheduled action date:** March 23, 1998. No additional earlier grant date is invented.

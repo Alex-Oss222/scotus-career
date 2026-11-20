@@ -53,6 +53,6 @@ The saved original output hashes were checked against `OT_1993CHUNK8_NEUTRAL_C_F
 - Tuilaepa commitments: `5179d539bd58919d0599bbdac1739a8649f75635a53a8d3fc0320fe9fe708927`.
 - Original neutral validation: `8c0c9845df5ff7b95027a894c9f0fd95108f5f610ebd997eddd42f88edb4c759`.
 
-Reviewed public-copy SHA-256: `4e138a040fc25e5fd30cb6d5b05ad2689a4776e6507acfe1f2bd7f82b8ab9771`.
+Reviewed public-copy SHA-256: `12b222917c5b129bf198fac386e30ba464c4615e704ca663e1d017d48b12cc42`.
 
 This completes only the June 24 advance check. Receive the actual June 27 bounded public decisions before final reconciliation, assess any material new premise, and remodel only affected commitments if required. No new commitment freeze is needed for the two June 24 additions because no operative ground, disposition, join barrier or remedy changes. No public render, Record, workspace, baseline tracker or original freeze was modified.

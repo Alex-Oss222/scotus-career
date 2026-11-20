@@ -20,7 +20,7 @@ Python was invoked with `-B`. Verified sixteen individual table rows, eight name
 | Frozen neutral packet | `2268feb82106fbaacc41c6aac0a2d018e70e707221fa0224fd9bb378bdc1265e` |
 | Frozen provisional commitments | `2e5ea0cfc72961ce8e878ba9a607df504732f14dd6694cf5fbececa868ed15ea` |
 | Scoped comparator | `1e10fa0d6d0b32047aca6dd35a3f5f8a8d5d4315b7c8a5138e2317641f5a87ee` |
-| Entering-law slice | `8eeb78b74697c3d477df972a84f7f4bed6bd8ddcdaf8273162dbfe687a37cc18` |
+| Entering-law slice | `f305fa16c23036c35a2f33f1716b48e37aa70ccc1d34f97e56eca48bccefd094` |
 | Reconciled handoff, both copies | `a120f3dbbac6ee27bf277a920d10a2ff9ea2c4b0c4951cd2b79eea8570d4a060` |
 
 The checks establish file integrity and arithmetic only. The legal reconciliation is the reasoned review in the handoff. No repository commitment or final adjudication is certified by this receipt.

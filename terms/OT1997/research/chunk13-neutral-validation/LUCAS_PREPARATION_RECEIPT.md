@@ -21,7 +21,7 @@
 * Control extract as received: `aab13a0627b5acec80657a037875e822a2b1cb64620db581597fc72e390f7e49`.
 * Official PDF: `14359f4591f5b2314e2a7ee5e33f97a8dc4193349549919b69b3316a9af6c43f`.
 * Complete extracted text: `437118788e095ab5b035606995e83bdd1a996854aca129dea239fd566e5ec8af`.
-* Focused state law: `8f7e436bc97e970f5e29421b490f5d439df065522341ac676f6723ce866827e0`.
-* Current public law baseline: `089bec562c1fc4d702a73d771aefcf374d632d91aa4fd656ab1bf9b58946a5af`.
+* Focused state law: `712406eff53d622d2d24fb6e6bf1014bd20a3978408427221bb696ecdbf4a20f`.
+* Current public law baseline: `d6272d0d757859f5329b19102519fc322a53a1f245b538e0ca822595f9a13397`.
 
 **Completed mechanical validation:** All neutral relative references resolve. All 15 focused state sections match their exact source sections; all four current-public selections match their recorded neutral-projection line spans. Residual personal-position sentence and legacy supplied/source pointers are absent from the sanitized control extract. Its post-sanitation SHA-256 is `37bde5394c619427497f2fb430e02f9c0ea9e6e59523d7533da5739bff0f35f9`.

@@ -1,6 +1,6 @@
 {
   "record": "records/oubre_v_entergy_operations_inc_merits_1998-01-26.md",
-  "sha256": "a1dd3463f1ec150c10025bbc569fa5ad8c4e9dfe2aa098a1ef72fce99b153bd5",
+  "sha256": "b726b301f0be883b57d57b7a1639c58b0514dd512d2d3c89f6bd28f2dcf34c0e",
   "bytes": 27536,
   "checks": {
     "four_opening_labels": true,
@@ -39,7 +39,7 @@
     "public_workflow_markers_absent": true,
     "frozen_input_identity": {
       "freeze/OT_1997CHUNK3_RECONCILED_OUBRE.md": "08c1c3de1ea5fe3a6bc7ac131c61b6eb36ad9c9cbd94308bf8aaef0c8bf1bb93",
-      "freeze/OT_1997CHUNK3_RECONCILED_OUBRE_CURRENT_LAW_1998-01-21.md": "617832157fcdfad5c053b47bf0f4f5c90a367b314405a76eabf1658ab8d04e4f",
+      "freeze/OT_1997CHUNK3_RECONCILED_OUBRE_CURRENT_LAW_1998-01-21.md": "97f857799ec64e9d5ab466d91089e1bd2c3f719ca8ec3992043ff190c380468e",
       "freeze/OT_1997CHUNK3_COMMITMENTS_OUBRE.md": "ee94805432802d0fefcf2ed5a25fb1c055e79c370ce63f347044cee55f7c9f86",
       "records/brogan_v_united_states_merits_1998-01-26.md": "d52bd9314e0c54541274135d1355fd65a4ac23f49b7e5206291f4b27e81b5134"
     },

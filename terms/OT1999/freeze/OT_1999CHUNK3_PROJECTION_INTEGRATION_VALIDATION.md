@@ -43,7 +43,7 @@ Total counted signed leads: 32. Last counted event: United States v. Locke / Int
 | File | Bytes | SHA-256 |
 |---|---:|---|
 | workspace/continuity.md | 281468 | 3d888b9a4cacaadeabbacc732d3633c3a3fe108113c58a50f453ca41e79d212b |
-| workspace/neutral-projection.md | 275615 | 54175f17d6518b5332a7c32f068fe918d77546c61e76a33b79330cf40367197b |
+| workspace/neutral-projection.md | 275615 | f200f714be342501c72087b49e39e3bf4fa8f166f9f8c10996523bdf620882aa |
 
 ## Input Record identities
 
@@ -59,7 +59,7 @@ Total counted signed leads: 32. Last counted event: United States v. Locke / Int
 | records/strout-v-albanese_merits_2000-02-28.md | 620fdfffb49f12b46bd8c6d4084a9726e835fa679ff4f70792dc20469ac2f8e1 |
 | records/shalala-v-illinois-council_merits_2000-02-29.md | 01fb693a23e7404e08693b4d4a2263c1d3bb0e226f544802dfe4bce3bd537233 |
 | records/united-states-v-johnson_merits_2000-03-01.md | 7bc57fab48e39ec35a6207ad18682c2a95dd05a075fc1edcc691d00ad0fa5f28 |
-| records/portuondo-v-agard_merits_2000-03-06.md | b327d5bca95ea2a3cbe9bd34f61009dd9f5bb6b9678f20573b807baaba268ca6 |
+| records/portuondo-v-agard_merits_2000-03-06.md | 52c9eed085f5d6abb93a43b43642469394bd557b698d479740ca61b7a41bd613 |
 | records/united-states-v-locke-intertanko-v-locke_merits_2000-03-06.md | 4bcf6a6973029c61cd4653673ce1c52f9c566d71f55b0d044ce029160a27a098 |
 
 Reproduction script: preparation/integrate_chunk3_projections.py. Baseline snapshots and the machine-readable check receipt are retained under tmp/chunk3-projection-integration/. No source Record, brief, frozen adjudicative handoff, foundation file, state tracker or public render was modified by this task.

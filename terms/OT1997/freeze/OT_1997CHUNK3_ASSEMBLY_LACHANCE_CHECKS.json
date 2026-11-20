@@ -48,8 +48,8 @@
     "freeze/OT_1997CHUNK3_RECONCILED_LACHANCE.md": "e59982e11c7c102b2b6a664f16db305a88633bfcf1d23f753271d380b1ca3473",
     "entering-law/OT_1997CHUNK3_LACHANCE.md": "560d6ff2bf3f37bb1374dddcff3d5bf9589533adf5951daf05795daa9eedc58b",
     "runtime/OT_1997CHUNK3_STONE_LACHANCE.md": "0a9775f431438c856137b18d9463925baf9780aa442f07c67d8fe67fcb8c155c",
-    "freeze/OT_1997CHUNK3_RECONCILED_JAN21_LAW_REFRESH.md": "8f61f7c587c056d315ca2c086c3d08536032de312a9783af851d2c0a53359d38",
-    "records/buchanan_v_angelone_merits_1998-01-21.md": "ca51e1fb45566cd18a69ef84fef953d254a6a661a31a26f214ac8e1c15d7e5d6"
+    "freeze/OT_1997CHUNK3_RECONCILED_JAN21_LAW_REFRESH.md": "4d76be04647189ab1c35f95f6b244f978f7df1bb47901f340bff72271445d336",
+    "records/buchanan_v_angelone_merits_1998-01-21.md": "4d42937a34ecae2d0ab79d12ef91680a5b6c0433631b2bdfe7e70ec00f84373d"
   },
   "limitations": "Controller integration, generated render interface and whole-term checks are separate."
 }

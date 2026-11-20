@@ -168,9 +168,9 @@
   ],
   "artifact_hashes": {
     "render-inputs/OT_1996CHUNK6.md": "c567915f5846d8e0d718d19ecdd83dfd0906b7f2aa9a3e5c82e23669a7b19790",
-    "workspace/continuity.md": "b3c044004860c4b53a45b82c5aa4ddbad66e542054a45c3ccf19ddae2fb8e527",
+    "workspace/continuity.md": "47d48e6aa4ac1947886bc952612cc498263652a7e0be67af2defff5eca9d2c4e",
     "workspace/ledger.md": "81e6bd72ae133e3012624a0dc5e02c88e61cbf35a576529777d602f82226beb1",
     "workspace/manifest.md": "263eee2e1a023058bdaee7eec88700037cab6c9146b4e4739c14ac8dd1f719de",
-    "workspace/neutral-projection.md": "a199bc83321b209948ae0d8e6b5d2bb3f81011e7e90109a968395ed0807d9311"
+    "workspace/neutral-projection.md": "a9e72b832852ff81f07fc090bda324ee1da2ba7e95eb694f6f9512f1a9992471"
   }
 }

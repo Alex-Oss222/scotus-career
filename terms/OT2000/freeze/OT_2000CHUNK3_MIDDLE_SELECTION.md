@@ -66,7 +66,7 @@ Generated with tools/build_entering_law.py and then tightened by verbatim headin
 - Standards and Tests: Bounded presidential narrowing of military capital punishment
 - Standing State: 1. Current Court
 
-Output SHA-256: `4cd7e25d7d627fa81035ef74f06c696291e0534564e081ce4fff54bb06a2b5c0`.
+Output SHA-256: `3fd2e0b5f6e8b37f8e98c8178a390f65a9352af35b6014488f885cb6012f2257`.
 
 ## Effective current-term selection
 
@@ -85,7 +85,7 @@ Source: terms/OT2000/workspace/neutral-projection.md; selected both law and publ
 Five neutral case blocks match their refreshed source verbatim. The bounded public-position selections were copied from the identified prior-term output headings. Official operative text excerpts were copied by script from saved source text under sources/chunk3-middle. No prohibited external-storage name or absolute local-machine link occurs in the handoff files.
 
 - terms/OT2000/freeze/OT_2000CHUNK3_NEUTRAL_MIDDLE.md: SHA-256 cf76c1c986114aee71fb110d4207b638ad47e1a254070e373fabf0deff3eade0
-- terms/OT2000/entering-law/OT_2000CHUNK3_MIDDLE_AGENCY.md: SHA-256 4cd7e25d7d627fa81035ef74f06c696291e0534564e081ce4fff54bb06a2b5c0
+- terms/OT2000/entering-law/OT_2000CHUNK3_MIDDLE_AGENCY.md: SHA-256 3fd2e0b5f6e8b37f8e98c8178a390f65a9352af35b6014488f885cb6012f2257
 - terms/OT2000/entering-law/OT_2000CHUNK3_MIDDLE_CURRENT.md: SHA-256 a723b9c987b01ca28002534e505c89efbaec8b048cd198a7c83cca8c9c11e8b3
 - terms/OT2000/entering-law/OT_2000CHUNK3_MIDDLE_FEDERAL_ELECTION.md: SHA-256 6734428aa5fd6eafbfa8a49bd0a5934c937e792993b59488662991929c2049d8
 - terms/OT2000/entering-law/OT_2000CHUNK3_MIDDLE_PUBLIC_POSITIONS.md: SHA-256 f8673588b9e9a01fc5eb8a77fc7991f4e0622a76dabc9e900445d6f1704ad4c5

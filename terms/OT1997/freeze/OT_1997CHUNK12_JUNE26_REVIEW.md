@@ -10,7 +10,7 @@ No unresolved substantive, opinion-join, remedy or assignment discrepancy remain
 
 This is independent assembly review, not a new modeling or reconciliation stage, Render task, full-term audit, or claim of source recovery. Review used the applicable AGENTS instructions, Engine sections 4, 8, 9, 11 and 14, the Render Contract, the three final reconciled handoffs and exact scoped Stone supplements, their authorized June 26 neutral packets, the common entering-law snapshot and relevant actual prior public authority. The saved 1997 text of 28 U.S.C. section 2106 was read for the narrow Bauchman remedial question. The reviewer changed no Record. No Git command was used and the top-level private directory was not accessed, listed or searched.
 
-The common entering-law snapshot remains SHA-256 `8b786bb4f1f7dc58e5e574f86e974fc1e4fbf4f890712cc07707b9bf32914c53`. All three decisions use that same pre-June-26 law. Earlier same-day writings enter the assignment count but do not become precedent for their independent peers. The six protected June 25 Records match the normalized-text hashes in the completed first-six review receipt.
+The common entering-law snapshot remains SHA-256 `40e7be133e1a1dab28735429c76127d61ee8038391d46729ffb5c4c96644f530`. All three decisions use that same pre-June-26 law. Earlier same-day writings enter the assignment count but do not become precedent for their independent peers. The six protected June 25 Records match the normalized-text hashes in the completed first-six review receipt.
 
 ## Substantive review
 

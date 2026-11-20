@@ -5,7 +5,7 @@ Released byte-identical runtime/freeze `OT_1997CHUNK3_RECONCILED_MACARTHUR_REFRE
 | Authorized input within OT1997 | SHA-256 |
 |---|---|
 | `freeze/OT_1997CHUNK3_PUBLIC_DELTA_FIELDS.md` | `8899896659c567d8a0bdc1bcf8f6a0bcf4301243cc03721c0e7499af665f3052` |
-| `entering-law/OT_1997CHUNK3_LATE_CURRENT_LAW_1998-02-09.md` | `319f9dce689ed1b31e4962b2696dd14077459d2772b29bbeaa6a1771b664e4d3` |
-| `freeze/OT_1997CHUNK3_COMMITMENTS_MACARTHUR_REFRESH_1998-02-09.md` | `bd00de9574b066632f836b4e3625e3ee4b83a83784d309e9f35920a39bafd154` |
+| `entering-law/OT_1997CHUNK3_LATE_CURRENT_LAW_1998-02-09.md` | `8da02de5b84cc64e999e961dde8f137e3c45db61366ba86c3d87df77a40e8d03` |
+| `freeze/OT_1997CHUNK3_COMMITMENTS_MACARTHUR_REFRESH_1998-02-09.md` | `ad0311ea2f95a00f17844cb6c616463bdfaa53d2f4d2bf40b7b14d540227391f` |
 
 Each input was fully read and hash-verified. Only these new OT1997 handoffs and receipt were written; prior files remain untouched. No Git, retrieval, repeated source audit, comparator reopening, excluded stage material, child, Records, assembly or status action.

@@ -32,7 +32,7 @@ The original commitments and validation files were checked by SHA-256 and remain
 | Preserved input | SHA-256 |
 |---|---|
 | `terms/OT1993/freeze/OT_1993CHUNK8_COMMITMENTS_BAGWELL.md` | `23bbb3e7a863771ccb04d29e0d52fa0a7a2f60d8ca6931c347d17895eeb0cbd5` |
-| `terms/OT1993/freeze/OT_1993CHUNK8_NEUTRAL_VALIDATION_BAGWELL.md` | `602aa59910f3192341c660c00805510ab8aef6597a0bc07f3da8f7ead11feece` |
-| `terms/OT1993/entering-law/OT_1993CHUNK8_BEFORE_JUNE30_PUBLIC.md` | `de35f85eae8bfdfa2e25b00f54a849fb5d3e5bb352de00496b961aaa93718ec3` |
+| `terms/OT1993/freeze/OT_1993CHUNK8_NEUTRAL_VALIDATION_BAGWELL.md` | `d983b360add8081a1dec18e1bbe2aacde402588d735808f1001104ab8e510648` |
+| `terms/OT1993/entering-law/OT_1993CHUNK8_BEFORE_JUNE30_PUBLIC.md` | `adc330b9e44399be25eacb0f39a0e256966b8c3dc42291d935ce2b06f572dcf7` |
 
 The complete refresh-source hash identifies the supplied public reading copy; substantive review on this turn was limited to the three new entries above.

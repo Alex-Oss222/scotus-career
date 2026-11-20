@@ -4,7 +4,7 @@ This additive receipt reviews the actual January 29 McCardle public decision onl
 
 ## Actual input and controlling authority
 
-All eleven public blocks of [the mechanically copied McCardle delta](../freeze/OT_1997CHUNK3_PUBLIC_DELTA_MCCARDLE.md) were reviewed. Input SHA256: `c66e0390c19f21b2b5432afe43cc684727e291bf8ea556989caa56dd0c0bdaf4`. The controller reports canonical Record SHA256 `b9373df510d512944afce2041f02fd98a562348c31a45e625228d0e03329bbde`; this receipt uses the public projection and does not inspect that Record. The incorporated January 26 receipt has SHA256 `7d472982ee73b21202f2506cffc0aadffee0e739228294bf279b316fbafc3684`.
+All eleven public blocks of [the mechanically copied McCardle delta](../freeze/OT_1997CHUNK3_PUBLIC_DELTA_MCCARDLE.md) were reviewed. Input SHA256: `c66e0390c19f21b2b5432afe43cc684727e291bf8ea556989caa56dd0c0bdaf4`. The controller reports canonical Record SHA256 `b9373df510d512944afce2041f02fd98a562348c31a45e625228d0e03329bbde`; this receipt uses the public projection and does not inspect that Record. The incorporated January 26 receipt has SHA256 `d8a59876d28a4b785e0c8e8b86bcd97636193f98d3fcec3f210db1a7492cabba`.
 
 The actual decision unanimously affirms only the rejection of postverdict search-immunity judgment. All nine join Ginsburg's opinion, including its qualifications; there are no separate writings. The following complete holding and explanation are copied verbatim from the public delta:
 

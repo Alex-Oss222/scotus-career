@@ -2,7 +2,7 @@
 
 Status: Brentwood, CoBank and McArthur are durably written and individually validated, following the eight events in the early and middle receipts. Eleven chunk-2 events are now assembled. Operator repository verification, coordinated workspace integration and whole-chunk checks remain pending. No repository command, workspace mutation or public rendering occurred in this assembly task.
 
-The controlling final reconciliation is `OT_2000CHUNK2_RECONCILED_LATER.md`, SHA-256 `4a8990a191a101184bd362c73d2ad4161a44c2cbd3951d3146249e48a8ed3106`. Each Record mechanically copies its complete final case reconciliation and adopted model section, expressly giving final corrections priority. No material Associate ground changed in assembly, no historical author was imported and no standing fallback was used.
+The controlling final reconciliation is `OT_2000CHUNK2_RECONCILED_LATER.md`, SHA-256 `405a138cb32f940c66199bdb5940687fd005dc63aa9ecb61381b3b5a3342fc48`. Each Record mechanically copies its complete final case reconciliation and adopted model section, expressly giving final corrections priority. No material Associate ground changed in assembly, no historical author was imported and no standing fallback was used.
 
 | Record | SHA-256 | Legal form and counted author |
 |---|---|---|

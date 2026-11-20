@@ -11,7 +11,7 @@
   "rin": {
     "path": "terms/OT1997/render-inputs/OT_1997CHUNK3.md",
     "bytes": 208276,
-    "sha256": "5ec4f843a7d5b9900d8849e8b32fa967be4a05880596f2e8e2e03b2f3f578d88"
+    "sha256": "ce48919d68c8790b56d217f151207ae6d8897b708b4b2b144fac593b6217a64d"
   },
   "public_projection_update": "Fresh public-only worker confirmed all older completed public-law blocks preserved, new MacArthur delta present once, pending status removed, five carryovers and Brown separate certiorari preserved.",
   "stage": "Required pre-Render check completed; final Render active."

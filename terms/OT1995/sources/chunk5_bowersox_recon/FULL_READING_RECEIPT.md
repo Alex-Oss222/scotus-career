@@ -21,7 +21,7 @@
 - `OT_1995CHUNK5_BOWERSOX_LAW_FRESHNESS_1996-04-09.md`, supplied commit `c1d8d9b`, checked SHA-256 `b52b2146792a21222088d8d70d42476a9ecb23f3dcaed03ed2228803dd91326d`.
 - Source-only `../chunk5_d/BOWERSOX_LOWER_RECORD_IDENTIFIERS.md`.
 
-The final public snapshot `OT_1995CHUNK5_NEUTRAL_AFTER_1996-04-01.md`, supplied commit `24a465e`, has checked SHA-256 `39313410273211cd6f97fe320b96f26f9b0113b579c46448b521ad8e93cea75f`. Its relevant Lonchar law and individual-position passages were personally read and checked against the complete public Lonchar decision. Complete personal rereading of all 1,441 snapshot lines or all intervening unrelated decisions is **not** claimed; the authorized clean freshness certificate supplies that broader coverage.
+The final public snapshot `OT_1995CHUNK5_NEUTRAL_AFTER_1996-04-01.md`, supplied commit `24a465e`, has checked SHA-256 `1c68b0b42370c388cb73031ae6385c98b6a91fd95bd7aa212af8c7af03c4f11a`. Its relevant Lonchar law and individual-position passages were personally read and checked against the complete public Lonchar decision. Complete personal rereading of all 1,441 snapshot lines or all intervening unrelated decisions is **not** claimed; the authorized clean freshness certificate supplies that broader coverage.
 
 ## Prior authority and actual public continuity checked
 

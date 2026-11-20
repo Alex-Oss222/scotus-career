@@ -67,7 +67,7 @@
     {
       "path": "terms/OT1997/entering-law/OT_1997CHUNK2_ROGERS.md",
       "bytes": 63723,
-      "sha256": "1f7737b277e8bf353c36e2d9ab49e758fd91c07077708b702a74ff6502bdf845"
+      "sha256": "9de9321de8c3da1203c8da2dad570084588bf5cd91c409a9326dbee0d14169b4"
     },
     {
       "path": "terms/OT1997/entering-law/research-a/bates_lower_opinion.txt",
@@ -507,7 +507,7 @@
     {
       "path": "terms/OT1997/freeze/OT_1997CHUNK2_FROZEN_HANDOFF_HASHES.json",
       "bytes": 5964,
-      "sha256": "9e84fe49a69cd6230775c94c0fca9496f946028f27f78321721242fc49dd556a"
+      "sha256": "0baef076ec73ecdcd83d03eb96d8365b141803f2795e181455acd14175de23b0"
     },
     {
       "path": "terms/OT1997/freeze/OT_1997CHUNK2_NEUTRAL_A.md",
@@ -602,7 +602,7 @@
     {
       "path": "terms/OT1997/freeze/OT_1997CHUNK2_NEUTRAL_ROGERS.md",
       "bytes": 40017,
-      "sha256": "66428ca40353caf7e4d3757a3d0e88bb77eb209074af547c4acd8f10670c09a3"
+      "sha256": "705de8939765b49365946c89e4bcd9e7774ded2e8c144f9515af2ce5785ecfad"
     },
     {
       "path": "terms/OT1997/freeze/OT_1997CHUNK2_NEUTRAL_ROGERS_SEED.md",
@@ -1302,7 +1302,7 @@
     {
       "path": "terms/OT1997/workspace/ledger.md",
       "bytes": 77427,
-      "sha256": "7e7c83da4f970e91eb92db962485c3bf7b7f9514612156ef590166d61df80297"
+      "sha256": "5ff17d47deb6be2c7d9dd81544bf7da551d716a034a470c8f3cefe9112efbc28"
     },
     {
       "path": "terms/OT1997/workspace/manifest.md",

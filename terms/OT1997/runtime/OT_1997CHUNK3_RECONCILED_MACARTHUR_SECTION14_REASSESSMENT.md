@@ -214,9 +214,9 @@ The output is additive. This reconciliation made no substantive change to the ne
 
 | Input | SHA-256 |
 |---|---|
-| New independent reassessment | `0d0378b59e661ccd776cb2e08144458aab431e617e6dacc351db630137bb4b24` |
+| New independent reassessment | `04b99a7ebe1d3da4d8f976a9c4702077aa3f46fd153a1ee09e685076f28685af` |
 | Clean MacArthur comparator | `b8fd467abc549e0caac9e00bc13bb402ccfc7a6cb0cdebdd9cc73b1abd04dd8d` |
 | New §14 neutral research | `935a18284fbe567c6f252b030b2bf4c598e8eafea90f1462ce6ef4bd82f64d35` |
-| New neutral receipt | `3f37ad9f036b342c82e3530801687b8ceceb5739da9599f7fa2797d7a9558fed` |
+| New neutral receipt | `eafc11b04568128988f10d25ef3caf01507343dc5ae8351a2324c34731a5f5a5` |
 | Initial MacArthur law slice | `511a1ba0242ed05c7d167ef8baf146cb2accf3b1748cb722a18eae0fe1a68801` |
-| Final February 12 cumulative law receipt | `abc3095012487052ba184ca0fa657d3546133d0c0ba63e4e8510e8865aa324d1` |
+| Final February 12 cumulative law receipt | `bb68554005e8a4a02734bdc53ef10c269ba33ba9e9d1dc6faf8f90efc3f23be5` |

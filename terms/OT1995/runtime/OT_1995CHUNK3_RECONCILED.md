@@ -180,7 +180,7 @@ The seven sustaining Associates identify no admission error on the claims they r
 
 ---
 
-<!-- frozen-source: OT_1995CHUNK3_RESUMED_HALE_RECONCILED.md; sha256: 8d424f8aec838fd1783e67c4087943ce350b48d3f51d55aeb6233a64e39a70b1 -->
+<!-- frozen-source: OT_1995CHUNK3_RESUMED_HALE_RECONCILED.md; sha256: a034e05bd05a03344eb0edb60d8216666557b18c7b7c3c1b9226e6130d8a58b1 -->
 # United States v. Hale — historical reconciliation
 
 **Event:** Expressly assigned merits review, February 12, 1996; Eighth Circuit No. 91-3830, 978 F.2d 1016. No separate Supreme Court docket, grant wording or argument date is established.
@@ -314,7 +314,7 @@ SHA256 values identify the permitted frozen bytes read in this stage. No source,
 | `freeze/OT_1995CHUNK3_RESUMED_HALE_COMMITMENTS.md` | `d2f528fcc7c59d374e52db9f7c3e8eb5ab57162aa7194ff1ad920c557302dd7c` |
 | `freeze/OT_1995CHUNK3_RESUMED_HALE_COMPARATOR_INPUT.md` | `f9d245c9fe106e7db048a373f3608ee96ec7ef1c06fee932defffa7910c140ab` |
 | `entering-law/OT_1995CHUNK3_RESUMED_HALE.md` | `b1ad046e21474a5c294e1f7a6e69f22a82235b389dff93aa31d17f4919bf4840` |
-| `entering-law/OT_1995CHUNK3_RESUMED_HALE_CURRENT_NEUTRAL.md` | `0753e488ee82c5eff0460028792a48d16e1b064fd06f5cdbdf991f5eb0b28813` |
+| `entering-law/OT_1995CHUNK3_RESUMED_HALE_CURRENT_NEUTRAL.md` | `2d418d10fe64dbe0537f3500411a4a069e12affd8de102407b797cf4f05cac01` |
 
 Primary support: the complete [Eighth Circuit opinion](https://static.case.law/f2d/978/html/1016-01.html), [Miller](https://www.law.cornell.edu/supremecourt/text/307/174), [Sonzinsky](https://www.law.cornell.edu/supremecourt/text/300/506), the official statute copies and authorities identified in the [validated neutral supplement](OT_1995CHUNK3_RESUMED_HALE_NEUTRAL_VALIDATED.md), and the actual public prior law supplied in the two entering-law files above. No independent reading of unprovided trial records or briefs is represented. Source-check assistance corroborates only source facts and legal-text distinctions; the reconciliation's Associate conclusions remain this stage's responsibility.
 

@@ -81,19 +81,19 @@
     {
       "path": "terms/OT1996/records/Johnson_v_United_States_merits_1997-05-12.md",
       "bytes": 29930,
-      "sha256": "57c37b024f1ddde41b5fdc7bb18da303d1f27689caff2f3aa40b55c659ec814f"
+      "sha256": "40fdff9125419fef7134247ec7c3fd22095da3bd3c677467d6f44ae8471f973c"
     },
     {
       "path": "terms/OT1996/records/Lambrix_v_Singletary_merits_1997-05-12.md",
       "bytes": 57696,
-      "sha256": "dcac44374c15198571269c8a503fa8b6edfd01567dd3f59354eabfbb53f71dc7"
+      "sha256": "95fce0bc05e3e4c99c240444f105c8121c1274bcbf080976e2b311d01ce9bdca"
     }
   ],
   "artifacts": [
     {
       "path": "terms/OT1996/render-inputs/OT_1996CHUNK7.md",
       "bytes": 189687,
-      "sha256": "c258ec595c4fe55a1f3e295dcc8dba012663cb87607dc69c39ba0e84e66f895a"
+      "sha256": "7d57d680f1528e3ed71abae5b866976a38c7bb82f1d03109f327db69e2b9a80e"
     },
     {
       "path": "terms/OT1996/freeze/OT_1996CHUNK7_ASSIGNMENT_AND_PRESERVATION_VALIDATION.md",
@@ -113,7 +113,7 @@
     {
       "path": "terms/OT1996/freeze/OT_1996CHUNK7_80_83_ASSEMBLY_VALIDATION.json",
       "bytes": 10230,
-      "sha256": "6fcdeec48e49950ce839036ca40da0e0c4a31769f4ef04ffffc96c3d4a60822a"
+      "sha256": "fe3a9223a76a65eaac3b9a0ab273e3b51260e89a45606b9e68a7ee4866d18def"
     },
     {
       "path": "terms/OT1996/workspace/manifest.md",
@@ -128,12 +128,12 @@
     {
       "path": "terms/OT1996/workspace/continuity.md",
       "bytes": 1721455,
-      "sha256": "b3c044004860c4b53a45b82c5aa4ddbad66e542054a45c3ccf19ddae2fb8e527"
+      "sha256": "47d48e6aa4ac1947886bc952612cc498263652a7e0be67af2defff5eca9d2c4e"
     },
     {
       "path": "terms/OT1996/workspace/neutral-projection.md",
       "bytes": 1668327,
-      "sha256": "a199bc83321b209948ae0d8e6b5d2bb3f81011e7e90109a968395ed0807d9311"
+      "sha256": "a9e72b832852ff81f07fc090bda324ee1da2ba7e95eb694f6f9512f1a9992471"
     },
     {
       "path": "terms/OT1996/freeze/OT_1996CHUNK7_COMMITMENTS.md",
@@ -143,12 +143,12 @@
     {
       "path": "terms/OT1996/freeze/OT_1996CHUNK7_RECONCILED.md",
       "bytes": 400615,
-      "sha256": "f4138bc6026d5264910d7438dc0aec1738f5c0ac6936e3a34f1b6f4e6d5eaf7a"
+      "sha256": "d5f765623557f4dc78d3efd965ee815a36725b160d8cb998fe705e86b7e13ffa"
     },
     {
       "path": "terms/OT1996/freeze/OT_1996CHUNK7_83_MANDATE_RECONCILIATION_AUDIT.md",
       "bytes": 28754,
-      "sha256": "28d4456587f08a8b93eafdd9616c2e5f373d19265b43fe876642b3c526d5275b"
+      "sha256": "ea130f84518f647a27e1413e7413233083ca5e609fed31ea71fa522bb843ce49"
     },
     {
       "path": "terms/OT1996/freeze/OT_1996CHUNK7_74_ASSEMBLY_STOP.md",

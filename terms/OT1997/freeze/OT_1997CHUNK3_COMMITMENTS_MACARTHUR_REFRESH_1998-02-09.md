@@ -2,9 +2,9 @@
 
 ## Status and preserved commitments
 
-This is an interim independent eight-Associate refresh for the February 13 event. It incorporates the original MacArthur commitments and their January 26, January 29, and February 2 additive checks; the latest preceding freeze is `OT_1997CHUNK3_COMMITMENTS_MACARTHUR_REFRESH_1998-02-02.md`, SHA256 `181a328eb05c051efb7af133a23dea57dca8089b1285262640a19250cf7193dc`. Those originals remain immutable. Their complete individual anchors, principal and alternative routes, component judgments, qualifications, and join barriers remain operative except for any express change here. There is no change here. Actual Danahy remains to be checked before final event assembly.
+This is an interim independent eight-Associate refresh for the February 13 event. It incorporates the original MacArthur commitments and their January 26, January 29, and February 2 additive checks; the latest preceding freeze is `OT_1997CHUNK3_COMMITMENTS_MACARTHUR_REFRESH_1998-02-02.md`, SHA256 `634aad823ada4aaeed200e647a332b515b041f7da1bdaf02f2f323fdcc2f26e2`. Those originals remain immutable. Their complete individual anchors, principal and alternative routes, component judgments, qualifications, and join barriers remain operative except for any express change here. There is no change here. Actual Danahy remains to be checked before final event assembly.
 
-The sole new event checked is the registered actual Fields public delta, `freeze/OT_1997CHUNK3_PUBLIC_DELTA_FIELDS.md`, SHA256 `8899896659c567d8a0bdc1bcf8f6a0bcf4301243cc03721c0e7499af665f3052`, together with the released neutral applicability receipt, `entering-law/OT_1997CHUNK3_LATE_CURRENT_LAW_1998-02-09.md`, SHA256 `319f9dce689ed1b31e4962b2696dd14077459d2772b29bbeaa6a1771b664e4d3`. Earlier sources were not reaudited.
+The sole new event checked is the registered actual Fields public delta, `freeze/OT_1997CHUNK3_PUBLIC_DELTA_FIELDS.md`, SHA256 `8899896659c567d8a0bdc1bcf8f6a0bcf4301243cc03721c0e7499af665f3052`, together with the released neutral applicability receipt, `entering-law/OT_1997CHUNK3_LATE_CURRENT_LAW_1998-02-09.md`, SHA256 `8da02de5b84cc64e999e961dde8f137e3c45db61366ba86c3d87df77a40e8d03`. Earlier sources were not reaudited.
 
 ## Actual new authority and the strongest alternative
 

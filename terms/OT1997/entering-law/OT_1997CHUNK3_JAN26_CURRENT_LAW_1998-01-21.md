@@ -57,7 +57,7 @@ This is a neutral law update, not current-case votes or an assembly authorizatio
 | Input within OT1997 | SHA-256 |
 |---|---|
 | `freeze/OT_1997CHUNK3_PUBLIC_DELTA_LEE.md` | `81bade2c9413f220d23e1a15e9c51fd5465a59e3fcb058a5ef9b264988398b4f` |
-| `freeze/OT_1997CHUNK3_PUBLIC_DELTA_BUCHANAN.md` | `396a864b1d283f8b59cd185e32246fa7468a5d3f11735a169f728d0670c9b00b` |
+| `freeze/OT_1997CHUNK3_PUBLIC_DELTA_BUCHANAN.md` | `90a625f6a6ef4498e597c598e18681cb5e92e594b2cae7dc32234e6244196fa1` |
 | `freeze/OT_1997CHUNK3_PUBLIC_DELTA_LACHANCE.md` | `1a0bcbcce3db3a1096406312b909c58a5b896732660274ac9326b452db1f4d8b` |
 | `freeze/OT_1997CHUNK3_PUBLIC_DELTA_LUNDING.md` | `78359d4eeb4d30624769ee78d4c98687bc1a769f488681fb1f4677339f3fb8e3` |
 | `freeze/OT_1997CHUNK3_NEUTRAL_ALLENTOWN.md` | `8884cde56713a2610c210335d6ccc816fa8f2ff987565391c63cf782bfe5778e` |
@@ -68,4 +68,4 @@ This is a neutral law update, not current-case votes or an assembly authorizatio
 | `entering-law/OT_1997CHUNK3_BROGAN.md` | `eccbacc2e09ff23f103aff8cc7198482b3a38b7202a9d536cdebf322d0ad74a3` |
 | `entering-law/OT_1997CHUNK3_OUBRE.md` | `f3205bfbaa94865fa6a2db9b95889be89db257ef3c7539826d525b62c9e23889` |
 | `entering-law/OT_1997CHUNK3_YANKTON.md` | `9885d2bc7bfb5b4617c0828abdab2342fb46bed4581308cae73b06f9cb3c49b2` |
-| `entering-law/OT_1997CHUNK3_BROGAN_CURRENT_LAW_1998-01-21.md` | `920c00dda1b46f9038cefc6680bc052749e240a44ba2e684cba4a99ec8b5de52` |
+| `entering-law/OT_1997CHUNK3_BROGAN_CURRENT_LAW_1998-01-21.md` | `91e056d1fce5ee60381f0c110515217964dce5e661e0ca4dafaf6bfda147d8c2` |

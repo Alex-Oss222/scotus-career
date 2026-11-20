@@ -2,7 +2,7 @@
 
 **Event:** California v. Roy, No. 95-2025; consideration and legal cutoff November 4, 1996.
 
-**Completed handoff:** [Reconciled commitments](../freeze/OT_1996CHUNK1_RECONCILED_ROY_REPAIR.md), SHA-256 `c93cb138fe87146d73bf2c28d711dfe1122a6bf2b7e4c18106f168717d1660f8`.
+**Completed handoff:** [Reconciled commitments](../freeze/OT_1996CHUNK1_RECONCILED_ROY_REPAIR.md), SHA-256 `26cea88ec42eeea3d32637bd091bdec706f0ac61daace22cbfc238912323328e`.
 
 **Status:** Durably preserved in the filesystem; repository commitment remains pending the operator. No Git command was run. This receipt does not claim a commit, completed adjudication, updated workspace, entered order or published output. The independently frozen model file remains byte-identical to its supplied hash.
 
@@ -50,10 +50,10 @@ Local links in the handoff were checked against existing targets; the sole initi
 
 | Preserved input/output | SHA-256 |
 |---|---|
-| `freeze/ROY_NEUTRAL_REPAIR_VALIDATED.md` | `113ece7d64daafc6bd2e38a9e5e504a328047072b073a65027d2e75fd2103196` |
-| `freeze/OT_1996CHUNK1_COMMITMENTS_ROY_REPAIR.md` | `1dda9f1c1a6b34c223eef5203cab4d127145085539c692bc5b9de2a98b1f69d8` |
+| `freeze/ROY_NEUTRAL_REPAIR_VALIDATED.md` | `1c5d3400d5fea84a143e7d73bb137a25a6cc052c4645d0c40a4dca064ff253da` |
+| `freeze/OT_1996CHUNK1_COMMITMENTS_ROY_REPAIR.md` | `7fab77e1ad6d8656d1c7b5ed778e847d16f044c1e393f7bbacf08b1f7d5caa7c` |
 | `runtime/OT_1996CHUNK1_ROY_COMPARATOR.md` | `a7407e02dcb6de82796f4e3bf44557963bba28d4b7fd15a3af233a93291899bd` |
-| `entering-law/OT_1996CHUNK1_A.md` | `5a5d87457ef240e6cbdcdde797fcf030b02922ce3c9536269da1a991260647b5` |
+| `entering-law/OT_1996CHUNK1_A.md` | `b3cae8e3c7a6c07d0578dab1ffc03b8332c27900d86c5471154ca6ec10bca6ce` |
 | `entering-law/OT_1996CHUNK1_PRIOR_TO_ROY.md` | `6c9ad171f82735759cb77212e84530e74563c27d2039afd32f6e10ebe0dd74e0` |
 | `sources/reconciliation-a/roy-official.txt` | `d669f874790ac29cb076422693a80fe27d57734c4327eff57147393eb1fc7d38` |
 | `sources/reconciliation-a/roy-official.pdf` | `4ca356157f51aa00e442f285b006b7a7216ae9f6b75079044b23e2dcee12b063` |
@@ -64,6 +64,6 @@ Local links in the handoff were checked against existing targets; the sole initi
 | `sources/roy-procedure/FRAP43-1996-operative-full-rule-and-notes.txt` | `bfd49f0d31e43809a29f5c539795035baf15b5a7737f67da2c3beeafb863c59f` |
 | `sources/roy-procedure/FRCP25-1996-operative-full-rule-and-notes.txt` | `7858c01bb24b761696e4b1497bd692e102a0738b23c84312a8316f563a38f8f9` |
 | `sources/roy-procedure/OFFICER_RULES_SOURCE_MANIFEST.json` | `65baa92a85b2867b3bdc66a88118013bef7a57b24f23e75d20ee031f011881bd` |
-| `freeze/OT_1996CHUNK1_RECONCILED_ROY_REPAIR.md` | `c93cb138fe87146d73bf2c28d711dfe1122a6bf2b7e4c18106f168717d1660f8` |
+| `freeze/OT_1996CHUNK1_RECONCILED_ROY_REPAIR.md` | `26cea88ec42eeea3d32637bd091bdec706f0ac61daace22cbfc238912323328e` |
 
 **Completion:** Reconciliation is ready for assembly. The final handoff is frozen by file preservation and the hash above, with truthful pending-operator-commit status. No substantive choice for Stone or final public disposition is made here.

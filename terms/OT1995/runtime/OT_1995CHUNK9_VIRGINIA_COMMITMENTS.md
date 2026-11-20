@@ -8,7 +8,7 @@
 ## Inputs and source boundary
 
 - Frozen packet: `OT_1995CHUNK9_VIRGINIA_NEUTRAL.md`, SHA256 `C638C3D7DFEEC371FC6D2235AF79CFFE16FAA99F6A7C3947A5A0F955DC787A7A`.
-- Common law snapshot: `../entering-law/OT_1995CHUNK9_PRE_19960626_NEUTRAL_PROJECTION.md`, SHA256 `52DD7810A0353650D128BD3407255152603CAAEC8B304FCE0303FF2FB7BAE45A`.
+- Common law snapshot: `../entering-law/OT_1995CHUNK9_PRE_19960626_NEUTRAL_PROJECTION.md`, SHA256 `97B97AC1D2EE59C82C97B2597AD9CC25312CE9316319493C17308DCF3D60A763`.
 - Opening slice: `../entering-law/OT_1995CHUNK9_JUNE26_VIRGINIA_LAW.md`, SHA256 `FF22F6E487AB522E310FF204EE88DD8C2B814957AD3B43D52F66C1FE6AE643DC`.
 - Exact source and reading-scope receipt: `../entering-law/OT_1995CHUNK9_VIRGINIA_MODEL_SOURCE_RECEIPT.md`. The separately screened original lower opinions, the Virginia portion of the clean objective addendum, primary Hogan/Craig/Sweatt, and the actual earlier simulated public writings described there supply the sources.
 

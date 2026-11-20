@@ -314,7 +314,7 @@ The frozen neutral record is sufficient for the bounded judgments and differing 
 | Historical Court opinion text | `628e5c2f2c85b55d5886b325eba48258ab1760d9792515730afa2fc26b395b57` |
 | Historical Stevens opinion text | `f5ba33ec95c4651977aa20f3152dbce8a5b7915fbff38ec1d413d4722c25ba08` |
 | Historical Scalia opinion text | `5e6d4958627392115997953ff9fd5c0aba059b7e9cb08b57d162bae82c8a2663` |
-| Roy public reading copy | `868393e9433fec7330134422aadf7a32e18713714f01e32baa30bf5b37917566` |
+| Roy public reading copy | `acb26dd32cc3a1ddb1664207c737c95fff45bcf563e3feac734945700115b009` |
 
 The runtime file is to be copied byte-identically to `freeze/OT_1998CHUNK9_NEDER_RECONCILED.md`, with the byte comparison and hash reported separately. Neither that preservation nor this reconciliation performs assembly or changes a completed adjudication.
 

@@ -293,7 +293,7 @@
       "file": "buchanan_v_angelone_merits_1998-01-21.md",
       "date": "1998-01-21",
       "case": "Buchanan v. Angelone, No. 96-8400; review of 103 F.3d 344 (4th Cir. 1996).",
-      "sha256": "ca51e1fb45566cd18a69ef84fef953d254a6a661a31a26f214ac8e1c15d7e5d6",
+      "sha256": "4d42937a34ecae2d0ab79d12ef91680a5b6c0433631b2bdfe7e70ec00f84373d",
       "counted": true,
       "authors": [
         "O'Connor"
@@ -315,7 +315,7 @@
       "file": "lunding_v_new_york_tax_appeals_tribunal_merits_1998-01-21.md",
       "date": "1998-01-21",
       "case": "Lunding v. New York Tax Appeals Tribunal, No. 96-1462.",
-      "sha256": "b5cd73e3e0c92ba1b0d460baac42068d254dbce256049148e71972a045cf42b7",
+      "sha256": "dea5f6409a179b030b52365ff717092bb88f4b82cb3884d6846ad45c57708754",
       "counted": true,
       "authors": [
         "Thomas"
@@ -326,7 +326,7 @@
       "file": "allentown_mack_sales_service_inc_v_nlrb_merits_1998-01-26.md",
       "date": "1998-01-26",
       "case": "Allentown Mack Sales & Service, Inc. v. NLRB, No. 96-795; D.C. Circuit judgment, 83 F.3d 1483.",
-      "sha256": "057602e06bdc281f86ac3d6c0f83996e57813cad5335f3af737e0517f13d1d5c",
+      "sha256": "ccd8418f9e54008caa28b8124ed030415771a89652e2f4edc1a2b5b8a910581d",
       "counted": true,
       "authors": [
         "Scalia"
@@ -348,7 +348,7 @@
       "file": "oubre_v_entergy_operations_inc_merits_1998-01-26.md",
       "date": "1998-01-26",
       "case": "Oubre v. Entergy Operations, Inc., No. 96-1291.",
-      "sha256": "a1dd3463f1ec150c10025bbc569fa5ad8c4e9dfe2aa098a1ef72fce99b153bd5",
+      "sha256": "b726b301f0be883b57d57b7a1639c58b0514dd512d2d3c89f6bd28f2dcf34c0e",
       "counted": true,
       "authors": [
         "O'Connor"
@@ -359,7 +359,7 @@
       "file": "south_dakota_v_yankton_sioux_tribe_merits_1998-01-26.md",
       "date": "1998-01-26",
       "case": "South Dakota v. Yankton Sioux Tribe, No. 96-1581.",
-      "sha256": "cefc949abfd058bd1a9d227444627934b28ebcda1b958025c09393e9e6fc72a1",
+      "sha256": "6596668e5b3caa804a7ed6b8856c827c0854dff344a062884da2d26fe5358a78",
       "counted": true,
       "authors": [
         "Stevens"
@@ -644,7 +644,7 @@
       "file": "hetzel_v_prince_william_county_certiorari_1998-03-23.md",
       "date": "1998-03-23",
       "case": "Hetzel v. Prince William County, No. 97-954.",
-      "sha256": "f37bbef5ffaf80ffa926cf36b43bc6576cb458b22dfb8b70b4518b8ce344ee57",
+      "sha256": "b1770ffd1aef22b8db4733b11bafa13452092c7858630d2deb80b80a58055d44",
       "counted": false,
       "authors": [],
       "topology": "No opinion or separate writing accompanies this grant."
@@ -653,7 +653,7 @@
       "file": "hetzel_v_prince_william_county_summary_merits_1998-03-23.md",
       "date": "1998-03-23",
       "case": "Hetzel v. Prince William County, No. 97-954.",
-      "sha256": "e529ea3797bf144a374c54218030fcd7a18a883fb8b531e635919ae62364914c",
+      "sha256": "f2f86531bd7fe2bf2313186738c05b1e120f033a569839b41db9ef6e7335ae07",
       "counted": false,
       "authors": [],
       "topology": "| Writing | Author | Joined by | Relationship to judgment | Scope joined |\n|---|---|---|---|---|\n| Opinion of the Court, Part I | Per curiam | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Reaches later mandamus challenge | Limited earlier-petition/mandate-scope ground; Stone-Zsela agrees with disposition only |\n| Opinion of the Court, Part II | Per curiam | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Reverses the constraint and remands | Common remittitur election, remedy and stated limits |\n\nNo separate writing is filed. The merits joins disclose no certiorari poll."

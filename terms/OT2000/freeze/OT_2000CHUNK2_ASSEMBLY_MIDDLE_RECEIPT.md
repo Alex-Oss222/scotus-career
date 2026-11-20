@@ -2,11 +2,11 @@
 
 Status: five additional Records through January 22 are durably written and individually validated. Together with the early receipt, eight chunk-2 events are assembled. Operator repository verification, coordinated workspace integration and whole-chunk checks remain pending. No repository command was executed and no output render was written.
 
-Final sources are SWANCC reconciliation SHA-256 `507b801cf382e0d24616be2f685c072caa9b45099651bca4dc781644a50d64f4` and middle reconciliation SHA-256 `89c7a8ce793b3914ad64bf4887878f8054a594d81d43df614ad852e3e01c1b6f`. Each case audit annex is mechanically copied from its controlling frozen handoff. The Seling annex includes seven concrete historical-departure lines. No material Associate commitment changed during assembly and no standing fallback was used.
+Final sources are SWANCC reconciliation SHA-256 `8307b3273e693516a718c93825a03a53941e05775bd0854f96b1129b9e337163` and middle reconciliation SHA-256 `89c7a8ce793b3914ad64bf4887878f8054a594d81d43df614ad852e3e01c1b6f`. Each case audit annex is mechanically copied from its controlling frozen handoff. The Seling annex includes seven concrete historical-departure lines. No material Associate commitment changed during assembly and no standing fallback was used.
 
 | Record | SHA-256 | Form and count |
 |---|---|---|
-| [Record](../records/Solid_Waste_Agency_of_Northern_Cook_County_v_US_Army_Corps_of_Engineers_merits_2001-01-09.md) | `26dcda08e1dac5a3d56a189c7420586ddc766854e96e35bcc6c3b9fdaa17f99d` | Scalia signed lead, +1; Souter dissent adds none. |
+| [Record](../records/Solid_Waste_Agency_of_Northern_Cook_County_v_US_Army_Corps_of_Engineers_merits_2001-01-09.md) | `6c3ce11a3508a32f71fb2a9ec19e18a2d6fab8da7b96e9365ba2113b597c3282` | Scalia signed lead, +1; Souter dissent adds none. |
 | [Record](../records/Lopez_v_Davis_merits_2001-01-10.md) | `96e0ae565cced9d0a436da2c0d45a7b6f7ac8c939082a7b380b0754135fcdfcf` | Thomas signed lead assigned by O'Connor, +1; Stone dissent adds none. |
 | [Record](../records/City_News_and_Novelty_v_City_of_Waukesha_mootness-dismissal_2001-01-17.md) | `b430a33983bea69c3845bb8f721d3a33dfb09634cc745fe05650f19bf9cdfbf9` | Unsigned per curiam threshold dismissal; +0. |
 | [Record](../records/Seling_v_Young_merits_2001-01-17.md) | `c992cf0a06d8b4bb03aaa0600f4b25f685f292ae60298f783a2639c49371403a` | Breyer signed lead, +1. |

@@ -51,14 +51,14 @@ The explicit Engine §15 and five-block §8 checks described in each Record have
       268,
       239
     ],
-    "record_sha256": "a385aaf4c4a74e8c8d039abaaddb0e6808cd0bf7a9333798b9efd6b51d1eddda",
+    "record_sha256": "cdea844c622f34426780eedaaeb326a652810991954a26814f5651fbcda11fe3",
     "public_sha256": "4245ea75f1d1272af7ce3b06416a8ef5f964137387732733e1360f1353468a9b",
     "audit_inputs": {
-      "freeze/OT_2003CHUNK2_DEATON_COMMITMENTS.md": "2791ef50b4d9f4f67a400c15e653051eddab5aa4a4ea4aa9d540b140a7a7ddef",
+      "freeze/OT_2003CHUNK2_DEATON_COMMITMENTS.md": "796baeb191026f6ffb98cc41da6454edb8bb4882048ead536adc4dd835499133",
       "freeze/OT_2003CHUNK2_DEATON_RECONCILED.md": "cfd061377f11f1070ce00f4367dd4df84c865f886976d6e2c98508747de5a182",
       "freeze/OT_2003CHUNK2_FINAL_PUBLIC_LAW_MODEL_SCREEN.md": "d72181bd1b454bb32702de147d2da7c7db6a5daa0767c34b6798c9d63dbf3f56"
     },
-    "initial_record_sha256": "335bdc47bf6b179628392eeb347d2f10b3e21baf255986d195075b17569fa5d2",
+    "initial_record_sha256": "4e9a8e3d2bd1938104738b61265b495a398e1f80e3bd96323c8cf9bce7c35c8e",
     "original_public_sha256": "b5f6492d37348b44004bbcbe64866f845b2cf3e16003fdbe1249e7f1aa8c4308",
     "final_public_basename": "OT_2003CHUNK2_DEATON_PUBLIC_COMPLETENESS.md"
   },
@@ -102,7 +102,7 @@ The explicit Engine §15 and five-block §8 checks described in each Record have
       299,
       227
     ],
-    "record_sha256": "597abc76fd458ac6ae4cc6eb503ba6d8c989519064f5dd377fc55e8c07c24669",
+    "record_sha256": "af64e0753ad90d3f4d4fc024180291d7c657ad031ac03113557bf4ef3b86b0c2",
     "public_sha256": "486f08fcfde84fade7b932b505c72f86e758ba0cd107dcca7319e3b057fb5483",
     "audit_inputs": {
       "freeze/OT_2003CHUNK2_CASTRO_COMMITMENTS.md": "9ed1b7490a08e6921bd50376bff7c8b9eee2577b81d96c23b3109696eabee634",
@@ -156,18 +156,18 @@ The explicit Engine §15 and five-block §8 checks described in each Record have
       240,
       290
     ],
-    "record_sha256": "78914b2f68c4dd91e9654bdedaa485465db951afff525f9c98324c5ced17ed88",
+    "record_sha256": "ba4a9893e6f7bf6baabd02bf00f369949b93e1ad20eeef261333b07ad4839056",
     "public_sha256": "c6ed05d20c76f4e5e87e2c351ea7ae0f61e396e17100c5242013b2b81ea14d9b",
     "audit_inputs": {
       "freeze/OT_2003CHUNK2_PRINGLE_COMMITMENTS.md": "21ee9d2daa05a95179968e3185262f1f1a2466fb84c0f0872f4e43829c760460",
       "freeze/OT_2003CHUNK2_PRINGLE_RECONCILED.md": "b57bbd2e9832b642bf75100d1cd689d5862ee31e9e30c0b72b5417c84355e915",
       "freeze/OT_2003CHUNK2_PRINGLE_HOUGHTON_MODEL_SCREEN.md": "91ca6a2b65a7b6fe66048abc48cfcee36b45451647d0ca220a8032169a1f63df",
       "freeze/OT_2003CHUNK2_PRINGLE_HOUGHTON_RECONCILED.md": "66e2e72089c8c2de683150fbf87a8d8f99808ae54684a1edbbc7f1586dddffcf",
-      "freeze/OT_2003CHUNK2_PRINGLE_HOUGHTON_RECONCILIATION_VALIDATION.md": "720ff6923380a5e9a1843f68b978819f601e046a0b287be8de193c9aa1b60e8a",
+      "freeze/OT_2003CHUNK2_PRINGLE_HOUGHTON_RECONCILIATION_VALIDATION.md": "0bfc1bf6ef9fde1e86babd047f33966ff50e9c01224c971a392d14295c2ca890",
       "freeze/OT_2003CHUNK2_FINAL_PUBLIC_LAW_MODEL_SCREEN.md": "d72181bd1b454bb32702de147d2da7c7db6a5daa0767c34b6798c9d63dbf3f56",
       "freeze/OT_2003CHUNK2_FINAL_PUBLIC_LAW_RECONCILED.md": "4affba53b713a8f9aac9d00fc791a3714a5a82cd56fa736e9b3b726fbe94269b"
     },
-    "initial_record_sha256": "a78564d2e5cc351d446086d2594adc871f26c1a1aeaa63bc28cd4b54c947f41b",
+    "initial_record_sha256": "4c2c4d5e924c3493772584558bfc00843d112b8426a26a4791e30a7ff5d4d6da",
     "original_public_sha256": "11cfce9dfa6bf3c43d8d587fa30346240747d141db3629615eb8a7ca7baa007b",
     "final_public_basename": "OT_2003CHUNK2_PRINGLE_PUBLIC_COMPLETENESS.md"
   }

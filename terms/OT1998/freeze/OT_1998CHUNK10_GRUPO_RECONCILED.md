@@ -2,7 +2,7 @@
 
 **Event:** June 17, 1999; No. 98-231. **Readiness:** all eight independent commitments retained, subject to review of materially relevant earlier Chunk10 public law before assembly. No Stone position, final Court disposition or authorship assignment is supplied. Immutable on release.
 
-**Model:** `OT_1998CHUNK10_GRUPO_COMMITMENTS.md`, SHA256 `b1b74eaa61f17ab23799914134dd4e5b877c53e39747bf11741840ad8017dadf`.
+**Model:** `OT_1998CHUNK10_GRUPO_COMMITMENTS.md`, SHA256 `1096530665237d0dbfbdcd0fd3bb637a05e53fda41abbd70766aa5b182d3f421`.
 
 **Neutral:** `OT_1998CHUNK10_GRUPO_VALIDATED_NEUTRAL.md`, SHA256 `fd8f60f4d365f539d250c53ab7b74d7cbe8321765825f8c8ec80cb05a5326f7f`.
 

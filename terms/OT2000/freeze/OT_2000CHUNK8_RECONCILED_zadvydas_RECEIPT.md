@@ -25,8 +25,8 @@ Mechanical checks performed: original model fingerprint matches its freeze recei
 - `freeze/OT_2000CHUNK8_COMPARATOR_ZADVYDAS.md`: `6cb3fdb5b1a6c772395d73bb35ef1644be9cd0ee9ab124cd085703557bd56315`.
 - `entering-law/OT_2000CHUNK8_CALCANO_PUBLIC_FINAL.md`: `8b816f4bec94f595329035f786fe898ea6797944a899e24ee7a6a47cae7ea1a7`.
 - `entering-law/OT_2000CHUNK8_ST_CYR_PUBLIC_FINAL.md`: `cff1194270ece3bcb10b3ed2fb7cfa6a913d381287c333993c7a39deb1562bd5`.
-- `entering-law/OT_2000CHUNK8_C_PUBLIC_WRITINGS.md`: `9d8a4c8e3180677d80d78e375dd037e7ef1ab3f38bd285baf48b5717ac2f59c9`.
-- `entering-law/OT_2000CHUNK8_C_HOLDINGS.md`: `bfd33d6f42a92777ee716ab507bff33c6a2c572dfc9d9a0f8ea4192dad5c3578`.
+- `entering-law/OT_2000CHUNK8_C_PUBLIC_WRITINGS.md`: `9ed45adc15fba004edeb76fef71d6a94351918f3a606ef25b82d518b3b60b123`.
+- `entering-law/OT_2000CHUNK8_C_HOLDINGS.md`: `0a432638cf0d2c709dee4f553e7b08aa85610de983a6176e0ad1dec92126aaa8`.
 - `freeze/OT_2000CHUNK8_C_JUNE25_FINAL_REFRESH_RECEIPT.md`: `760987b7d4228b2d17e1de4dbaf23de1f51cc829e5915b53444f1941f8fb21e1`.
 - `sources/chunk8-control/zadvydas.txt`: `5bce09872c6397b8911589807eeab238ede52a8c3dba0eccbf6ab5a4711e8cbf`.
 

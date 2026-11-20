@@ -27,12 +27,12 @@ Each packet supplies neutral alternatives and Justice-specific date-eligible aut
 | `terms/OT1998/freeze/OT_1998CHUNK10_A_WEST_FACTS_ONLY.md` | `14926b6333887d5939c23420ac1a717452a9282caa52c0ecd06f647cee4035ad` | all sanitized text |
 | `terms/OT1998/freeze/OT_1998CHUNK10_A_GRUPO_FACTS_ONLY.md` | `54caeffb9c54b00e9470a3f1280e05b8c879fedd2b4a2352c07aa57ef9a442a6` | all sanitized text |
 | `terms/OT1998/freeze/OT_1998CHUNK10_B_JONES_FACTS_ONLY.md` | `ab2dd2e20a996094faf09978946498ab731a4e0115e76cf7ad01ed929c1a8fae` | all sanitized text |
-| `terms/OT1998/entering-law/OT_1998CHUNK10_A_SELECTED_HOLDINGS.md` | `8a8a5cb4ff735a27940d176fe7dc2881b63b4382ce3d561a3d1de4966087e0e5` | West: Lane, McCarthy, Landgraf and bounded Franklin; Grupo: Mertens |
-| `terms/OT1998/entering-law/OT_1998CHUNK10_A_STANDARDS.md` | `07b4522bd56474f6aee39ee2149a5586529af74e8300148855e67353ab6ccdd0` | West: 1991 Act, Lane; Grupo: ERISA remedies; roster |
-| `terms/OT1998/entering-law/OT_1998CHUNK10_A_PRIOR_PUBLIC.md` | `3b259a4babecda091f1cab6b584e39c76722a7753628cde3e4850c7a82fdf88c` | Lane and Mertens entries only |
+| `terms/OT1998/entering-law/OT_1998CHUNK10_A_SELECTED_HOLDINGS.md` | `fb07dd6d674f7ac0704bb4867dfbb8e87eca03af80398dbc4954a09c0d346a21` | West: Lane, McCarthy, Landgraf and bounded Franklin; Grupo: Mertens |
+| `terms/OT1998/entering-law/OT_1998CHUNK10_A_STANDARDS.md` | `57cf5ecb2183e62c1437ef14128540df8ca4d0ecf2d33253416549bb819b7606` | West: 1991 Act, Lane; Grupo: ERISA remedies; roster |
+| `terms/OT1998/entering-law/OT_1998CHUNK10_A_PRIOR_PUBLIC.md` | `b0148d9a029d3f963adbbc213812e9dcda5e08f1e4d9c7ac86770f29de46700d` | Lane and Mertens entries only |
 | `terms/OT1998/entering-law/OT_1998CHUNK10_A_CURRENT_LAW.md` | `ac410b24bf336374f6f3976abf383e57b8f6f957d0e963b1c1c63387b512ee32` | Blue Fox law and procedure; headings/navigation inspected; no June14 peer law applied to West |
 | `terms/OT1998/entering-law/department_of_the_army_v_blue_fox_merits_1999-01-20.md` | `a2b94676eadbd32d4bee5d8796f2ada29d9e9a63f4d0fa7ee5d98da0bd661501` | all bounded public text |
-| `terms/OT1998/entering-law/OT_1998CHUNK10_B_SELECTED_HOLDINGS.md` | `1f554f65a42e8063a12e4f9e79c1f310c8428c399c225345a166e2983433ccc9` | Olano, Johnson, Tuilaepa, Simmons, Shannon, Sochor, Espinosa, Stringer |
+| `terms/OT1998/entering-law/OT_1998CHUNK10_B_SELECTED_HOLDINGS.md` | `4856e0635b69690865fcd06b4ca8692924e024fac6471b27b6cbbc086d264418` | Olano, Johnson, Tuilaepa, Simmons, Shannon, Sochor, Espinosa, Stringer |
 | `terms/OT1998/entering-law/OT_1998CHUNK10_B_STANDARDS.md` | `7faaeb39b446b16f028fc9bc67a82592490a9fc46616b64fbb573678eb3972d7` | five exact Jones-relevant Standards entries |
 | `terms/OT1998/entering-law/OT_1998CHUNK10_B_CURRENT.md` | `09c290b7b0d69af840b6ee71e596d36b4ff07c9606465d00e3cdeaf850547be5` | Neder, March carjacking Jones and institutional paragraph |
 | `terms/OT1998/workspace/neutral-projection.md` | `0bd7fd4d96afbacb46aa80f762325293de4f57c10177eebc33b3d581e583dc50` | opening chronology, selected navigation/public summaries, roster and Lilly remedial component; never raw Records/ledger |

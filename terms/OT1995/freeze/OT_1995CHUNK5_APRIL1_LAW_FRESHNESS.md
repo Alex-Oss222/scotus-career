@@ -10,7 +10,7 @@ No April 1 vote, commitment, coalition, opinion, assignment, factual resolution 
 
 The controlling reading handoff is [OT_1995CHUNK5_NEUTRAL_AFTER_1996-03-27.md](../entering-law/OT_1995CHUNK5_NEUTRAL_AFTER_1996-03-27.md), supplied as committed `099e65e`, with independently verified SHA-256:
 
-`c974c78cd7cdd80d846415ac810471909de116dc6fe143862ca854d836ab0d33`.
+`0ad975aeaa2169a6a87abeea843e7b622be801d8cef5cd7338558f67e7815d68`.
 
 It supplements the [opening Holdings/Standards slice](../entering-law/OT_1995CHUNK5.md), the coordinated law through June 29, 1995, and the earlier actual current-term decisions and enacted sources already included in the neutral baseline. The snapshot reports 55 completed Court events and four enacted sources, including seven completed chunk-five Court events. This worker checked the full March 26-to-March 27 snapshot delta after separately reading each of the seven intervening public decisions in full. Earlier March 19–26 public deltas had already been checked during the same neutral preparation; no primary-source preflight was unnecessarily repeated.
 

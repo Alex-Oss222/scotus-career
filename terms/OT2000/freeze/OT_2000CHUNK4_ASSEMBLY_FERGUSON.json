@@ -6,8 +6,8 @@
   "status": "Assembly legal and clerical checks passed; Record written. Workspace integration and chunk checks remain with root.",
   "input_hashes": {
     "terms/OT2000/freeze/OT_2000CHUNK4_RECONCILED_FERGUSON_FINAL.md": "64338f0e96c675a0bb72975f9a52f8aaea275e9cbd7d8b36798e4b72864cd7ed",
-    "terms/OT2000/freeze/OT_2000CHUNK4_COMMITMENTS_FERGUSON_REFRESH.md": "7f5c382ef831c194a7039803aca5e7605f7f9de91dfbfe888674ab984d290d8c",
-    "terms/OT2000/freeze/OT_2000CHUNK4_FERGUSON_NEUTRAL_REFRESH.md": "6d41e7e0727b5a562c701b51ffe56bccf0f06106cd8f3eed273bda034ed1a7f4",
+    "terms/OT2000/freeze/OT_2000CHUNK4_COMMITMENTS_FERGUSON_REFRESH.md": "9a6113be4842ed3f83778e8262b5933b7be9099a3d224170cb0a1ed42e3bd474",
+    "terms/OT2000/freeze/OT_2000CHUNK4_FERGUSON_NEUTRAL_REFRESH.md": "f98aac1e661528c4cf2aa720a87f49b6b5b611cdee033bc3a0d1311cc103692d",
     "terms/OT2000/runtime/OT_2000CHUNK4_FERGUSON_CONTEXT_RETURN.md": "1bd690ea609735d5f831afbcca4ba6795e6235d83273cd306119919779347b0d",
     "terms/OT2000/freeze/OT_2000CHUNK4_FERGUSON_GRIFFIN_SOURCE.md": "584eb3a57aaa0910b6548c4f28211ebf98e81ccd46b2cbf8402d3ab1747c1fb3"
   },

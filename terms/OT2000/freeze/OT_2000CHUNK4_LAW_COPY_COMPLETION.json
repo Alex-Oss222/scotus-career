@@ -54,9 +54,9 @@
     },
     {
       "original_input": "OT_2000CHUNK4_EFFECTIVE_BEFORE_2001-04-02_FINAL.md",
-      "original_input_sha256": "d0647790e6a619d5250d71bbf5b01d97b0951a75b3d3369acf9f354af42e9d19",
+      "original_input_sha256": "59addeddbd8b075029a4780d6172085cd1fe51e1383c5c431f51414690543f4c",
       "current_copy": "OT_2000CHUNK4_EFFECTIVE_BEFORE_2001-04-02_FINAL_CURRENT.md",
-      "current_copy_sha256": "d0647790e6a619d5250d71bbf5b01d97b0951a75b3d3369acf9f354af42e9d19",
+      "current_copy_sha256": "59addeddbd8b075029a4780d6172085cd1fe51e1383c5c431f51414690543f4c",
       "changed_sources": [
         {
           "record": "Buford_v_United_States_merits_2001-03-20.md",
@@ -86,15 +86,15 @@
         {
           "record": "Gibbs_v_Babbitt_merits_2001-03-21.md",
           "old_sha256": "a4f5b31f35fd60cb6fdf74eb02ffc333b5c804c97af963427873a6f6f01864eb",
-          "current_sha256": "b6a5d03de177f5f13a49fd6e05b70fd46fafce1aa42c89f4930e503fa9305f65"
+          "current_sha256": "98dbc05e86939b58ad12213a91bc9347fea7a340ccd53094892f1de3ca46dad0"
         }
       ]
     },
     {
       "original_input": "OT_2000CHUNK4_EFFECTIVE_BEFORE_2001-04-17.md",
-      "original_input_sha256": "565697744b4be24ac00b2d0f779b235c82e662f9a2cc3d9194f2428a114d499a",
+      "original_input_sha256": "89232623e5d43f0a50b409ccfa35734150da701df9d3f24fc177b35a02e95e9c",
       "current_copy": "OT_2000CHUNK4_EFFECTIVE_BEFORE_2001-04-17_CURRENT.md",
-      "current_copy_sha256": "c842e46c211425f43d9cb3b603831ca96414ae52828e14f9080901ba0901315f",
+      "current_copy_sha256": "7f39579d4960887d8926cfe60e8d6e21fda112959e1e0c7a2a75c458ddf894c1",
       "changed_sources": [
         {
           "record": "Buford_v_United_States_merits_2001-03-20.md",
@@ -124,7 +124,7 @@
         {
           "record": "Gibbs_v_Babbitt_merits_2001-03-21.md",
           "old_sha256": "a4f5b31f35fd60cb6fdf74eb02ffc333b5c804c97af963427873a6f6f01864eb",
-          "current_sha256": "b6a5d03de177f5f13a49fd6e05b70fd46fafce1aa42c89f4930e503fa9305f65"
+          "current_sha256": "98dbc05e86939b58ad12213a91bc9347fea7a340ccd53094892f1de3ca46dad0"
         },
         {
           "record": "Texas_v_Cobb_merits_2001-04-02.md",
@@ -134,15 +134,15 @@
         {
           "record": "Wallis_v_Spencer_merits_2001-04-02.md",
           "old_sha256": "ce67b4a672eef72a0f0305ce4f733d7a378812f6aa4980f6b468e4e61bd3500c",
-          "current_sha256": "24b030f048753ca47387d51e4f48b5d9a582e91a2096e5be9a44e7f104a58920"
+          "current_sha256": "c29dc713622b137278c67a4ce6400113cea5031d3b8ca0d4189f6d73bd0cd89a"
         }
       ]
     },
     {
       "original_input": "OT_2000CHUNK4_EFFECTIVE_BEFORE_2001-04-18.md",
-      "original_input_sha256": "b318f8bda7596cb578a418f757d85f5ff0f1ad5116901eaf3dfd556695df02be",
+      "original_input_sha256": "36da07e00749de766c3168e0deddd8cc2c05e4f59cc8cb5b1e230ed33df8999f",
       "current_copy": "OT_2000CHUNK4_EFFECTIVE_BEFORE_2001-04-18_CURRENT.md",
-      "current_copy_sha256": "a64f4ae891d8216c9d8d15e216e911cf0f4fc265593be0d628780b6b85a79d58",
+      "current_copy_sha256": "f3dac3c1a902c67783128fb44cc7c84f0521ce864624d57c7184e85a71291259",
       "changed_sources": [
         {
           "record": "Buford_v_United_States_merits_2001-03-20.md",
@@ -172,7 +172,7 @@
         {
           "record": "Gibbs_v_Babbitt_merits_2001-03-21.md",
           "old_sha256": "a4f5b31f35fd60cb6fdf74eb02ffc333b5c804c97af963427873a6f6f01864eb",
-          "current_sha256": "b6a5d03de177f5f13a49fd6e05b70fd46fafce1aa42c89f4930e503fa9305f65"
+          "current_sha256": "98dbc05e86939b58ad12213a91bc9347fea7a340ccd53094892f1de3ca46dad0"
         },
         {
           "record": "Texas_v_Cobb_merits_2001-04-02.md",
@@ -182,7 +182,7 @@
         {
           "record": "Wallis_v_Spencer_merits_2001-04-02.md",
           "old_sha256": "ce67b4a672eef72a0f0305ce4f733d7a378812f6aa4980f6b468e4e61bd3500c",
-          "current_sha256": "24b030f048753ca47387d51e4f48b5d9a582e91a2096e5be9a44e7f104a58920"
+          "current_sha256": "c29dc713622b137278c67a4ce6400113cea5031d3b8ca0d4189f6d73bd0cd89a"
         },
         {
           "record": "Lujan_v_G_and_G_Fire_Sprinklers_merits_2001-04-17.md",
@@ -203,9 +203,9 @@
     },
     {
       "original_input": "OT_2000CHUNK4_EFFECTIVE_BEFORE_2001-04-23.md",
-      "original_input_sha256": "bf652402096a6809cb5314d4f73ef87629ae0a70ab13c6b631a23a081ce07b0a",
+      "original_input_sha256": "b902c5f3e40e14e34e08c2ac1f47ba5e7a0a498bc62b7840c54b0ec96b2c9b85",
       "current_copy": "OT_2000CHUNK4_EFFECTIVE_BEFORE_2001-04-23_CURRENT.md",
-      "current_copy_sha256": "c0cae86ef818b8e8280fb70dcee6830af283dc9bb55f6358e6ccef319c26e6ee",
+      "current_copy_sha256": "3c987b96a4bca33f6b05db5b806b94eb3c6c764af66c381d63727addc80f65e8",
       "changed_sources": [
         {
           "record": "Buford_v_United_States_merits_2001-03-20.md",
@@ -235,7 +235,7 @@
         {
           "record": "Gibbs_v_Babbitt_merits_2001-03-21.md",
           "old_sha256": "a4f5b31f35fd60cb6fdf74eb02ffc333b5c804c97af963427873a6f6f01864eb",
-          "current_sha256": "b6a5d03de177f5f13a49fd6e05b70fd46fafce1aa42c89f4930e503fa9305f65"
+          "current_sha256": "98dbc05e86939b58ad12213a91bc9347fea7a340ccd53094892f1de3ca46dad0"
         },
         {
           "record": "Texas_v_Cobb_merits_2001-04-02.md",
@@ -245,7 +245,7 @@
         {
           "record": "Wallis_v_Spencer_merits_2001-04-02.md",
           "old_sha256": "ce67b4a672eef72a0f0305ce4f733d7a378812f6aa4980f6b468e4e61bd3500c",
-          "current_sha256": "24b030f048753ca47387d51e4f48b5d9a582e91a2096e5be9a44e7f104a58920"
+          "current_sha256": "c29dc713622b137278c67a4ce6400113cea5031d3b8ca0d4189f6d73bd0cd89a"
         },
         {
           "record": "Lujan_v_G_and_G_Fire_Sprinklers_merits_2001-04-17.md",

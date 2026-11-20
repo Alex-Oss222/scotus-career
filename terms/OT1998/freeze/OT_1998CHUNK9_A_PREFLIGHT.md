@@ -40,9 +40,9 @@ The hashes below identify saved input/output bytes; they do not imply exhaustive
 | File | SHA-256 |
 |---|---|
 | `terms/OT1998/runtime/OT_1998CHUNK9_NEUTRAL.md` | `80fa6614a5425f81bc4b523d3c63e69b2e799979686a0108e26ec309ba61512a` |
-| `terms/OT1998/entering-law/OT_1998CHUNK9_A.md` | `00d2438763949ee7fda7836d456b03b0d1106dd5d22a0aa1a1725e0a1832bb0d` |
-| `terms/OT1998/entering-law/OT_1998CHUNK9_A_HOLDINGS_EXCERPTS.md` | `07785736b8c323e545156ad39043a2b5dbe2b0943a1d91b29f754461af50e043` |
-| `terms/OT1998/entering-law/OT_1998CHUNK9_A_CURRENT.md` | `c6f5a1eb0cd28014492ed39e610181d7002bf35be92b7bc62f483efd50a7e449` |
+| `terms/OT1998/entering-law/OT_1998CHUNK9_A.md` | `2858768b3374b265e4126b84e4d785208144bf7bde5885581ab90445ed95bbf0` |
+| `terms/OT1998/entering-law/OT_1998CHUNK9_A_HOLDINGS_EXCERPTS.md` | `24d1dbf59c2edc3ae70a77292955ce302a0e9a8f1b99cf9055a955fb0c9cd918` |
+| `terms/OT1998/entering-law/OT_1998CHUNK9_A_CURRENT.md` | `18729b421952b6dd18510e63d7e706077647a249b146c7a93d24d09e4615d3fa` |
 | `terms/OT1998/entering-law/OT_1998CHUNK9_A_sources/schad.txt` | `f0cee8985766325ba2d476b42b4f4982978e387c7ff5fa4716786dffe162b2a8` |
 | `terms/OT1998/entering-law/OT_1998CHUNK9_A_sources/goncalves_lower.txt` | `003b2c1564e629678e39f52f2375fbd49d3500c006a59263e1ccf95bf87d567a` |
 | `terms/OT1998/entering-law/OT_1998CHUNK9_A_sources/bruneau_lower.txt` | `c7702e8650f0d175185438bc867914f99706b53729a0396c0c4ef3124ca53334` |

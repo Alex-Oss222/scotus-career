@@ -10,11 +10,11 @@ All relative paths in this document are under `terms/OT1998`.
 
 | Frozen input or preserved artifact | SHA-256 |
 |---|---|
-| `freeze/OT_1998CHUNK10_STRICKLER_COMMITMENTS_RECORD_REFRESH.md` — operative independent model | `65aa50512fd40ee818a58a6a47bab4f4ba2c07e14698ceed1ec650295f89cb24` |
+| `freeze/OT_1998CHUNK10_STRICKLER_COMMITMENTS_RECORD_REFRESH.md` — operative independent model | `04bec1ce521ed70fe44293e504e4bbc7599a6e5c997b1eb8b5088e45bff0a776` |
 | `freeze/OT_1998CHUNK10_STRICKLER_RECORD_REFRESH_NEUTRAL.md` — controlling record-context correction | `5aa86dc47cf9ae5fee5e8aea686cd0ad94a01f188765ec68664830e4f7758bfe` |
 | `freeze/OT_1998CHUNK10_A_STRICKLER_NEUTRAL.md` — original clean packet, read subject to correction | `1bc89369962bc42ec47b6424ac43c5e270d21e00b2e3ec0d2d8061d6f3af635a` |
-| `freeze/OT_1998CHUNK10_STRICKLER_CAUSE_GUILT_RECONCILED.md` — preserved partial handoff | `5c5f74489962171667de66f4f0230c28b39957dd192a41bae239fae955aae820` |
-| `freeze/OT_1998CHUNK10_STRICKLER_COMMITMENTS.md` — preserved original model, not operative on corrected penalty premises | `7cbd914a95b35452cd1f25ad625dfe23cbdd810b55241097a8028ee0170bbd2e` |
+| `freeze/OT_1998CHUNK10_STRICKLER_CAUSE_GUILT_RECONCILED.md` — preserved partial handoff | `93f4361bc6a62aa61dc2a302af37f1b8e67aada3e0bb8dd924cd3b1819d9dd9a` |
+| `freeze/OT_1998CHUNK10_STRICKLER_COMMITMENTS.md` — preserved original model, not operative on corrected penalty premises | `37c3a3e9867bddb9ab4d5b77f9595d61282505c4608df66a391c74065e94a292` |
 | `freeze/OT_1998CHUNK10_APPROVED_COMPARATOR.md` — Strickler block only | `e8f8da7e014ade73a1e2e296036b266512911eb720c68d9b34d8d1e36cf02076` |
 
 ## Final commitments and the reconciliation changes
@@ -103,10 +103,10 @@ Additional authorized sources and exact scope:
 | `research/OT_1998CHUNK10_A_STRICKLER_SOURCE_FACTS.md` | Clean predecision excerpts, eight-document contents/disclosure distinctions, actual instruction, source limits; SHA-256 `17ec99aa8322abbd46457e0862d51745525043c6ca967a8339450f14f8c23467`. Its obsolete penalty-audience implication is controlled by the refresh. No broad underlying SANITIZED OCR file was opened. |
 | `freeze/OT_1998CHUNK10_STRICKLER_LOWER_FACTS_ONLY.md` | Bounded lower-opinion source receipt and alternative grounds; SHA-256 `dd34a22685ddab0ea25e0bf3f065ee182978fad11024052c6cd9d1694510e5d0`. |
 | `research/OT_1998CHUNK10_STRICKLER_RECONCILIATION_SOURCE_CORRECTION_CONTROL.md` | Earlier sanitized source correction, now processed through fresh neutral/model stages; SHA-256 `05e102bdb76b7ad327a6a8bb64a5a153099d287bf84ab05f1a156e6cce2a3b7c`. Final findings rely on the clean refresh at its exact attributed scope. |
-| `entering-law/OT_1998CHUNK10_A_STRICKLER_CURRENT.md` | Dated O'Sullivan, Coleman, Lilly and Neder scope/public positions; relevant Coleman passages reread for each proposed departure; SHA-256 `cf4575667b6beeb1b0c383a6cb7022fe0a22ffb69e03874958f39fc78f12305d`. |
-| `entering-law/OT_1998CHUNK10_A_SELECTED_HOLDINGS.md` | Selected Kyles/Tuggle and temporal-law components identified in the neutral/model; SHA-256 `8a8a5cb4ff735a27940d176fe7dc2881b63b4382ce3d561a3d1de4966087e0e5`. |
-| `entering-law/OT_1998CHUNK10_A_STANDARDS.md` | Exact collective Brady, independent penalty-injury and pre-AEDPA Standards, with dates preserved; SHA-256 `07b4522bd56474f6aee39ee2149a5586529af74e8300148855e67353ab6ccdd0`. |
-| `entering-law/OT_1998CHUNK10_A_PRIOR_PUBLIC.md` | Authorized prior public Kyles reasoning/joins at the model's identified scope; SHA-256 `3b259a4babecda091f1cab6b584e39c76722a7753628cde3e4850c7a82fdf88c`. No claim of rereading every unrelated entry. |
+| `entering-law/OT_1998CHUNK10_A_STRICKLER_CURRENT.md` | Dated O'Sullivan, Coleman, Lilly and Neder scope/public positions; relevant Coleman passages reread for each proposed departure; SHA-256 `b3f1998290d35212938933f87b0987e36318784ad716b47214fbf7ee597df44d`. |
+| `entering-law/OT_1998CHUNK10_A_SELECTED_HOLDINGS.md` | Selected Kyles/Tuggle and temporal-law components identified in the neutral/model; SHA-256 `fb07dd6d674f7ac0704bb4867dfbb8e87eca03af80398dbc4954a09c0d346a21`. |
+| `entering-law/OT_1998CHUNK10_A_STANDARDS.md` | Exact collective Brady, independent penalty-injury and pre-AEDPA Standards, with dates preserved; SHA-256 `57cf5ecb2183e62c1437ef14128540df8ca4d0ecf2d33253416549bb819b7606`. |
+| `entering-law/OT_1998CHUNK10_A_PRIOR_PUBLIC.md` | Authorized prior public Kyles reasoning/joins at the model's identified scope; SHA-256 `b0148d9a029d3f963adbbc213812e9dcda5e08f1e4d9c7ac86770f29de46700d`. No claim of rereading every unrelated entry. |
 | `entering-law/west_v_gibson_merits_1999-06-14.md` | Exact earlier public copy; SHA-256 `61fe69c95a36eb06b44dfb05cc40e195588e0516d6e18235ece9f160cac183a4`. |
 | `entering-law/schleifer_v_city_of_charlottesville_merits_1999-06-15.md` | Exact earlier public copy; SHA-256 `a7fc7382d31ac3a7ae81453b18c0ebb9f0f95c504be60c413632cfb5c0bac7da`. |
 | Full primary historical pages linked above | Local extracted-text SHA-256: syllabus `f5b0491f09d4ad193aeee770e840a7895b01d399be691e055e184e1acfa9b5bf`; Court opinion `71423cfa63cd093adacc61e2f7d6398bfb36ae4870d31fb869e8d7336b609806`; Souter writing `9dafefb5970b1f77c0e5aabbe74f0b7d93bc35b4ca2c30b0f2100fdf037e8709`. Local `/tmp/strickler-historical-ZS.txt`, `-ZO.txt`, `-ZX.txt` are verification copies, not new neutral inputs. |

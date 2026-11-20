@@ -93,13 +93,13 @@ The substantive controlling correction was read at the hash supplied by the cont
 | `freeze/OT_1998CHUNK10_A_STRICKLER_NEUTRAL.md` | `1bc89369962bc42ec47b6424ac43c5e270d21e00b2e3ec0d2d8061d6f3af635a` |
 | `research/OT_1998CHUNK10_A_STRICKLER_SOURCE_FACTS.md` | `17ec99aa8322abbd46457e0862d51745525043c6ca967a8339450f14f8c23467` |
 | `freeze/OT_1998CHUNK10_STRICKLER_LOWER_FACTS_ONLY.md` | `dd34a22685ddab0ea25e0bf3f065ee182978fad11024052c6cd9d1694510e5d0` |
-| `entering-law/OT_1998CHUNK10_A_STRICKLER_CURRENT.md` | `cf4575667b6beeb1b0c383a6cb7022fe0a22ffb69e03874958f39fc78f12305d` |
-| `entering-law/OT_1998CHUNK10_A_SELECTED_HOLDINGS.md` | `8a8a5cb4ff735a27940d176fe7dc2881b63b4382ce3d561a3d1de4966087e0e5` |
-| `entering-law/OT_1998CHUNK10_A_STANDARDS.md` | `07b4522bd56474f6aee39ee2149a5586529af74e8300148855e67353ab6ccdd0` |
-| `entering-law/OT_1998CHUNK10_A_PRIOR_PUBLIC.md` | `3b259a4babecda091f1cab6b584e39c76722a7753628cde3e4850c7a82fdf88c` |
+| `entering-law/OT_1998CHUNK10_A_STRICKLER_CURRENT.md` | `b3f1998290d35212938933f87b0987e36318784ad716b47214fbf7ee597df44d` |
+| `entering-law/OT_1998CHUNK10_A_SELECTED_HOLDINGS.md` | `fb07dd6d674f7ac0704bb4867dfbb8e87eca03af80398dbc4954a09c0d346a21` |
+| `entering-law/OT_1998CHUNK10_A_STANDARDS.md` | `57cf5ecb2183e62c1437ef14128540df8ca4d0ecf2d33253416549bb819b7606` |
+| `entering-law/OT_1998CHUNK10_A_PRIOR_PUBLIC.md` | `b0148d9a029d3f963adbbc213812e9dcda5e08f1e4d9c7ac86770f29de46700d` |
 | `entering-law/west_v_gibson_merits_1999-06-14.md` | `61fe69c95a36eb06b44dfb05cc40e195588e0516d6e18235ece9f160cac183a4` |
 | `entering-law/schleifer_v_city_of_charlottesville_merits_1999-06-15.md` | `a7fc7382d31ac3a7ae81453b18c0ebb9f0f95c504be60c413632cfb5c0bac7da` |
-| Original `freeze/OT_1998CHUNK10_STRICKLER_COMMITMENTS.md`, preserved | `7cbd914a95b35452cd1f25ad625dfe23cbdd810b55241097a8028ee0170bbd2e` |
+| Original `freeze/OT_1998CHUNK10_STRICKLER_COMMITMENTS.md`, preserved | `37c3a3e9867bddb9ab4d5b77f9595d61282505c4608df66a391c74065e94a292` |
 
 The refreshed passages are authenticated published recitations through the clean neutral handoff, not a claim of personal review of the original penalty transcript. The exact jury mitigation, complete criminal-history evidence and judge's distinct legal sentencing role remain unverified at the specified scope. A conclusion requiring any one of them needs a bounded cleared extraction of the corresponding testimony/closing, exhibits or state procedure; absent local research does not establish litigant nonproduction or default. No modeled conclusion above assigns the unknown mitigation facts or an independent judicial role to reach its result.
 

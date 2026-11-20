@@ -49,8 +49,8 @@ All writes were confined to `terms/OT1995/` and ignored `tmp/`. No Git command w
 
 | Term-relative artifact | SHA-256 |
 |---|---|
-| `briefs/OT_1995CHUNK2.md` | `2ec8c8d3058cf260d017578134208a63898be2953c50b748399c6c187fd272cc` |
+| `briefs/OT_1995CHUNK2.md` | `6eb1b3527e5d9a26b93dfa01ee80c6176161164a53b6d52b83b59430c73c4500` |
 | `freeze/OT_1995CHUNK2_LOVE_RESUMED_COMMITMENTS.md` | `61ab080fb055a89a481e5694dd9723f91d3f9cbb85cd53f498187b900a1ae0d5` |
 | `freeze/OT_1995CHUNK2_LOVE_RESUMED_RECONCILED.md` | `80ad0f755c9352ec833d9c8b9c18a8ad278a6335ebbabed50232f1dff30c1836` |
 | `records/Love_v_Pepersack_merits_1995-12-11.md` | `dd3326382d510aae58ea714e485390f71f250656bb3567d0c3b2a5d52760b341` |
-| `render-inputs/OT_1995CHUNK2.md` | `93f3cd7338071841df565681412ab47383caf927071933e9df898433cfc27e50` |
+| `render-inputs/OT_1995CHUNK2.md` | `fd1265bd42d051ffc184a4e23c78c3e4e64a1183082a5ce2bb44326d86a338da` |

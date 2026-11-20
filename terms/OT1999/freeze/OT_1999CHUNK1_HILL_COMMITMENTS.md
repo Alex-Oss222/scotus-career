@@ -10,9 +10,9 @@ This fresh context received the corrected neutral task and read only the needed 
 
 Read-source SHA-256 values:
 
-- Neutral preflight: `DF4441062C36ED492A14EF26EFF8EE145F958C4547B4C4862398C7782F98B425`.
+- Neutral preflight: `7D07D33F5EC4F2619331C7274DCC3025CD5E06EF9222292F9861DAB389C4A6F2`.
 - As-of neutral projection: `BF68A29064298C82550E787F0D9A859C53001EC63343A04506C15425D8F26028`.
-- Entering-law slice: `F41D12714495AC260DC4FD1961CD4DBB9938E6879F4F29F4159110084AD56F44`.
+- Entering-law slice: `8DDA232681C5DA678802A19C36E95676CB7D180B1824E78B5E796ADC88EBD590`.
 
 The public, date-eligible prior-law statements naming Stone as an earlier author or joiner were read as law only. No present Hill position was supplied or modeled. The as-of projection identifies no earlier current-term change to compact timing or counsel's scheduling authority. Control reports that the separately completed earlier privacy and commercial-speech matters change neither premise; the final neutral dependency receipt remains an assembly prerequisite. No uncoordinated January 11 or January 12 law enters these commitments.
 

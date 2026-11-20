@@ -16,6 +16,6 @@ This registry is mechanical navigation and identity metadata; it supplies no cas
 | 157 posture supplement | [OT_1997CHUNK13_NEUTRAL_SEP28/157-posture-addendum.md](OT_1997CHUNK13_NEUTRAL_SEP28/157-posture-addendum.md) | `23b3d349d4f39cb8dcb403689b9d15286bc7abc7a97d5777bf2b49e5d8331877` |
 | 158 | [OT_1997CHUNK13_NEUTRAL_SEP28/158.md](OT_1997CHUNK13_NEUTRAL_SEP28/158.md) | `e8a9b532da74d6bb444303686a24aee5a68ea28cb128afc36be130d642569343` |
 | 159 | [OT_1997CHUNK13_NEUTRAL_SEP28/159.md](OT_1997CHUNK13_NEUTRAL_SEP28/159.md) | `aab26a98fce31ff46a84a01fae93515995c7119c178be0e6c90748cb44642da1` |
-| 160 | [OT_1997CHUNK13_NEUTRAL_LUCAS.md](OT_1997CHUNK13_NEUTRAL_LUCAS.md) | `13a4436acce70b1238e77737bbdfe5ad54ae757a4c16a6238eafb259966afdd6` |
+| 160 | [OT_1997CHUNK13_NEUTRAL_LUCAS.md](OT_1997CHUNK13_NEUTRAL_LUCAS.md) | `61366231a8801d15807407a5096b259f55d918d502a2808fb0af4d942c114999` |
 
 See [boundary receipt](OT_1997CHUNK13_BOUNDARY_RECEIPT.md) for the discarded preparation exposures and clean replacements. The complete commitment and reconciliation registries identify the operative later handoffs.

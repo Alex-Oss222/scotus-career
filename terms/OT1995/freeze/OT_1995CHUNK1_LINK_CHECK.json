@@ -12,7 +12,7 @@
     },
     {
       "path": "terms/OT1995/records/American_Life_League_v_Reno_merits_1995-11-13.md",
-      "sha256": "ae6922589ba949cef11c37801392da7f371b7cbdaec86b867e19f8a908908138"
+      "sha256": "0627a4f7e8880de1bd2cb5ae4a164ce2e3264af7262f7ae04f68ccbb19d7e5f8"
     },
     {
       "path": "terms/OT1995/records/Citizens_Bank_of_Maryland_v_Strumpf_merits_1995-10-31.md",
@@ -56,7 +56,7 @@
     },
     {
       "path": "terms/OT1995/workspace/ledger.md",
-      "sha256": "c1fe1265d40546e4100e603e31b21b6082ba1bce9dabab61ecd58a2e54ee902d"
+      "sha256": "6e694ca685d6a75eb4b398fcd83259e8ac6976bd08868b97a024e77e5e51faaf"
     },
     {
       "path": "terms/OT1995/workspace/continuity.md",
@@ -68,7 +68,7 @@
     },
     {
       "path": "terms/OT1995/render-inputs/OT_1995CHUNK1.md",
-      "sha256": "a75237f53edead87980545d71a0a7291080121b8baee2b13bec64350316aab06"
+      "sha256": "84925d564a1ca435e43cd49836daec6f0f152d887d0f8a077cd972bafd2c34ae"
     }
   ],
   "missing_required_inputs": [],

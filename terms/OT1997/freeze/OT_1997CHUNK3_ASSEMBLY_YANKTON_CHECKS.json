@@ -1,6 +1,6 @@
 {
   "record": "records/south_dakota_v_yankton_sioux_tribe_merits_1998-01-26.md",
-  "sha256": "cefc949abfd058bd1a9d227444627934b28ebcda1b958025c09393e9e6fc72a1",
+  "sha256": "6596668e5b3caa804a7ed6b8856c827c0854dff344a062884da2d26fe5358a78",
   "bytes": 33415,
   "checks": {
     "four_opening_labels": true,
@@ -40,9 +40,9 @@
     "public_workflow_markers_absent": true,
     "frozen_input_identity": {
       "freeze/OT_1997CHUNK3_RECONCILED_YANKTON.md": "e09b5e67028842965946cd5c6e0edfd939f3098807064d52adddd7c49d5f19b8",
-      "freeze/OT_1997CHUNK3_RECONCILED_YANKTON_CURRENT_LAW_1998-01-21.md": "505adc4d01be64deafcb64be61508fe3cc577f5cfd63e9f08dc60884e51f95b8",
+      "freeze/OT_1997CHUNK3_RECONCILED_YANKTON_CURRENT_LAW_1998-01-21.md": "03bfa242fdf9b6d65e5e2e8079dfadc490a42b8d45e1ac9f523d2c33c5f21d02",
       "freeze/OT_1997CHUNK3_COMMITMENTS_YANKTON.md": "63fc9e921d95c97b2d126e57800032d77f67d1ce7b7a7160904eef7b173e779e",
-      "records/oubre_v_entergy_operations_inc_merits_1998-01-26.md": "a1dd3463f1ec150c10025bbc569fa5ad8c4e9dfe2aa098a1ef72fce99b153bd5"
+      "records/oubre_v_entergy_operations_inc_merits_1998-01-26.md": "b726b301f0be883b57d57b7a1639c58b0514dd512d2d3c89f6bd28f2dcf34c0e"
     },
     "assignment_recount": {
       "Stone-Zsela": 2,

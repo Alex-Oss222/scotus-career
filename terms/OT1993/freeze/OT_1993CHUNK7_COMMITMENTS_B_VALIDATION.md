@@ -2,7 +2,7 @@
 
 **Status:** Completed September 27, 2026; final model handoff ready for immutable freeze before separate historical reconciliation. No Git command was used and no repository commit is asserted by this file.
 
-**Validated artifact:** [OT_1993CHUNK7_COMMITMENTS_B.md](OT_1993CHUNK7_COMMITMENTS_B.md). SHA-256: `3052bda38e3a9f69dd3abceef51e02d0254529f4d814d91a3fd9c560c437f598`.
+**Validated artifact:** [OT_1993CHUNK7_COMMITMENTS_B.md](OT_1993CHUNK7_COMMITMENTS_B.md). SHA-256: `a98a3792fbce0f15e94f1cf02e1c2ae1a8d6c707a25ef0385c5893ac6c790b9a`.
 
 **Actual-law refresh:** Read the entire authorized [public-through-June-17 copy](../entering-law/OT_1993CHUNK7_PUBLIC_THROUGH_1994-06-17.md), SHA-256 `551c35a066a5feffe6133a1f041d34bad55f645cf436ad7ae04e450c431e9458`, containing the verbatim public decisions in MCI, Simmons and West Lynn. The final handoff separately states the controlling rule, each relevant separate position, every affected matter and all eight individual reassessments. No provisional June 17 outcome supplied the final baseline. No June 20 matter enters another.
 

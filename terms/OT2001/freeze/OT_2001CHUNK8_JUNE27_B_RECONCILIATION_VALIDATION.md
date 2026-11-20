@@ -36,5 +36,5 @@ The legal assessment is qualitative, based on the actual sources and changed pre
 | terms/OT1991/output/OT_1991CHUNK7.md (authorized entry only read) | 5983907d10bb9e69828cca568c4212e1a84ae70aab590bfbb45caea17a219446 |
 | terms/OT1994/output/OT_1994CHUNK7.md (authorized entry only read) | 0c9c5a0f6fef9a42986ef10518ed5b0778a57c5551d42f470a7f5f828c24549c |
 | terms/OT1998/output/OT_1998CHUNK5.md (authorized entry only read) | 61d2a05c9d60afdafaba551a4b7683aefcfe638a29de8a7aa6f31dba9d40077a |
-| terms/OT1999/output/OT_1999CHUNK3.md (authorized entry only read) | 5930843ad7875dac0df4ce4336d941900904db195178fac59cce8be100365cc4 |
+| terms/OT1999/output/OT_1999CHUNK3.md (authorized entry only read) | cf3f8ccd1a4215613bf2c39ee2ac7985ab1f4a0386604e975a9758c836b76885 |
 | Frozen reconciliation and identical runtime copy | 57e22675cda2963030e892694aec1171a34d34f9ca2a7cc9d68e3d18848732ed |

@@ -8,7 +8,7 @@ Immediately after preserving the immutable `OT_1999CHUNK1_HILL_COMMITMENTS.md`, 
 
 All eight frozen commitments, their grounds and their scope therefore remain unchanged after assessment of the refreshed baseline. This receipt satisfies the earlier-law dependency identified in the commitment file; it amends no row and adds no vote or holding. Neither the comparator nor any Stone material has entered this context. Historical reconciliation should receive this receipt with the frozen commitments.
 
-- Commitments SHA-256: `BD66421A9B26E84FF419A3D907EB81785E562ADD942A739A33331822F3A1A6D7`.
+- Commitments SHA-256: `0EEE37D4533EECECF05230408C769C1D3EBC61BAB36AC73DCA507C8602318002`.
 - Earlier-law addendum SHA-256: `C4CD0A6EA78504AA3AE6808A175B44BAECEF4E58427599A70AD79E99CD048032`.
 
 Validation performed: the commitment file exists; eight individual rows name Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer once each; all support the same express-agreement propositions and reverse/remand ground; no Stone vote or assignment is supplied. No full-term check is claimed at this isolated modeling stage.

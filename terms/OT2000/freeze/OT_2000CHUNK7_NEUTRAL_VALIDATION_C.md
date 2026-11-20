@@ -41,7 +41,7 @@ The following source and handoff hashes identify the exact bytes used or frozen.
 | Artifact | SHA-256 |
 |---|---|
 | runtime/OT_2000CHUNK7_NEUTRAL.md | `72f02cba7ac59b9cecdd5ef78f0e122d84fba99761ea8a0b61d9ab8e75608927` |
-| entering-law/OT_2000CHUNK7_C.md | `79b714177c627bab8a1ef80df52604273d6081f1790f02aaab50c34f66190b9b` |
+| entering-law/OT_2000CHUNK7_C.md | `b0811c0e6cd4bf96ffe10388948e06f75d0a8cfaa5e5975e1b8889ee97fc55f9` |
 | freeze/OT_2000CHUNK7_NEUTRAL_C.md | `9b649931d6d78a3fd965cee70c807cf0500592a12030d18eb3765ab8161a6840` |
 | freeze/OT_2000CHUNK7_COMMITMENTS_alabama_v_bozeman.md | `99bb6de181c37c1df2e863b37bd9c895e515bc17c590e416c774b81334417e39` |
 | freeze/OT_2000CHUNK7_COMMITMENTS_wood_v_meadows.md | `339bb981f227bad63793aefe29dc1935b3376f2fb2722be631d73830ad65ae5f` |

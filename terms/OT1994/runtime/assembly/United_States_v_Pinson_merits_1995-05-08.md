@@ -15,7 +15,7 @@ Footnote 2 preserves the distinction between the presented search question and t
 
 ## Participation and entering law
 
-Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer participated. No nonparticipation is established. The same nine were eligible at argument or submission and decision. Six constitute a quorum; five votes decide a judgment. The exact chronological baseline is entering-law/OT_1994CHUNK5_BEFORE_1995-05-08.md, SHA-256 95710CD4EE81CAB5961E545531B7C2CC214706238A206F8FE97213CCCBE63B6D, together with the relevant C doctrinal slice. Its effective Kyles, Rubin, Stone v. INS, Morales, Williams, Travelers, Lopez, and Harris propositions retain their actual scope. Robertson remains unadjudicated and supplies no law. Katz/Karo coverage, Hicks's additional-examination boundary, the distinct aerial and canine analogies, Dickerson, Olano, Leon, and actual Evans remain applicable. No later thermal-imaging decision supplies a rule, factual assumption, or Justice position.
+Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer participated. No nonparticipation is established. The same nine were eligible at argument or submission and decision. Six constitute a quorum; five votes decide a judgment. The exact chronological baseline is entering-law/OT_1994CHUNK5_BEFORE_1995-05-08.md, SHA-256 E6D93893CAEB591B098526B4D68453EE1660CE2F900BA385071DBBBAA27187AA, together with the relevant C doctrinal slice. Its effective Kyles, Rubin, Stone v. INS, Morales, Williams, Travelers, Lopez, and Harris propositions retain their actual scope. Robertson remains unadjudicated and supplies no law. Katz/Karo coverage, Hicks's additional-examination boundary, the distinct aerial and canine analogies, Dickerson, Olano, Leon, and actual Evans remain applicable. No later thermal-imaging decision supplies a rule, factual assumption, or Justice position.
 
 ## Stone: approved position and final compatibility
 
@@ -165,7 +165,7 @@ The case returns to the Eighth Circuit for lawful disposition of the preserved s
 
 ## Adaptive audit annex
 
-Final independent commitments: freeze/OT_1994CHUNK5_COMMITMENTS_PINSON.md, SHA-256 B205FB6681562E09FCCF6F8B3CBBA2B8A9AF23FE65AD45B896EEB73AF3B2272D. Final reconciliation: freeze/OT_1994CHUNK5_RECONCILED_PINSON.md, SHA-256 1F48C298D41EDEC6F7D95A0FBE27C9947E0D6A39653AF46EF871B8FFD64CF574. Runtime and freeze copies match. The independent handoff was read fully during authorized preparation; the final reconciled handoff was read fully and verified before current Stone exposure. Its eight individual rows follow verbatim. No preliminary combined Pinson/Hubbard handoff substitutes for the final release.
+Final independent commitments: freeze/OT_1994CHUNK5_COMMITMENTS_PINSON.md, SHA-256 930B061715A82EEEDD229E0D05095425493C32B6C5D550D781F2B799AC5CBC0F. Final reconciliation: freeze/OT_1994CHUNK5_RECONCILED_PINSON.md, SHA-256 602EA3C9694E46FB631EED5902ED8076C9812E05DF215E3CEDD6833BE64050E3. Runtime and freeze copies match. The independent handoff was read fully during authorized preparation; the final reconciled handoff was read fully and verified before current Stone exposure. Its eight individual rows follow verbatim. No preliminary combined Pinson/Hubbard handoff substitutes for the final release.
 
 | Associate | Final independent commitment | Final reconciliation | Individual legal basis, strongest contrary path and join boundary |
 |---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "record": "terms/OT1997/records/buchanan_v_angelone_merits_1998-01-21.md",
-  "sha256": "ca51e1fb45566cd18a69ef84fef953d254a6a661a31a26f214ac8e1c15d7e5d6",
+  "sha256": "4d42937a34ecae2d0ab79d12ef91680a5b6c0433631b2bdfe7e70ec00f84373d",
   "bytes": 35936,
   "checks": {
     "four_labels": true,
@@ -43,12 +43,12 @@
     "final_refresh_hash": true
   },
   "input_hashes": {
-    "freeze/OT_1997CHUNK3_NEUTRAL_BUCHANAN.md": "a65bd11fb19d6feea90e34601747611a71ec1c5ae716d5a8b00873ce90f61821",
-    "freeze/OT_1997CHUNK3_COMMITMENTS_BUCHANAN.md": "a2df41f6a65690451b6a608207511d39554340a1e91c940d6539dfd7ef73525e",
-    "freeze/OT_1997CHUNK3_RECONCILED_BUCHANAN.md": "7ee1a503f955aa1b2c10f6017af3c5e1ac453ea845924f20fe559dd23e296f7b",
-    "entering-law/OT_1997CHUNK3_BUCHANAN.md": "507e145acc6df0c94ba777494cb5ae460023a705ffc3da08d90d2084d854c6ad",
+    "freeze/OT_1997CHUNK3_NEUTRAL_BUCHANAN.md": "52502be867a0b76a4a09dd72699d44497a27d8ce743d7c3de46db41164930d54",
+    "freeze/OT_1997CHUNK3_COMMITMENTS_BUCHANAN.md": "fade60d4c8d800ee2124e7a8f1b0d93591dbe91c126ab6ac05b7bf98e1bb6a51",
+    "freeze/OT_1997CHUNK3_RECONCILED_BUCHANAN.md": "6a8342909950733973a31daae8dc2e86486c8c29c71d11e60d004138b07a3ea3",
+    "entering-law/OT_1997CHUNK3_BUCHANAN.md": "edf5b180a2fa8e52583449e414fcc22f195d441bf13f57e6d95b391a77ecd4a4",
     "runtime/OT_1997CHUNK3_STONE_BUCHANAN.md": "0aa5eba823b9c740703ecfa475c31c204eaa7b2bb8986cf361a3a5ae9a444ea2",
-    "freeze/OT_1997CHUNK3_RECONCILED_JAN21_LAW_REFRESH.md": "8f61f7c587c056d315ca2c086c3d08536032de312a9783af851d2c0a53359d38"
+    "freeze/OT_1997CHUNK3_RECONCILED_JAN21_LAW_REFRESH.md": "4d76be04647189ab1c35f95f6b244f978f7df1bb47901f340bff72271445d336"
   },
   "limitations": "Controller integration, generated render interface and whole-term checks are separate."
 }

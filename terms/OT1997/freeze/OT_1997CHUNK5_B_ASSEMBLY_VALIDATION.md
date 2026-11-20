@@ -45,6 +45,6 @@ The approved core's present vehicle condition cannot be filled by the standing f
 | aktepe_v_united_states_merits_1998-03-10.md | 1ae00070975e7e1c183328e4f5486ba67710c62910d2414f61bca8995008bbbb | 11 | identical | 267 |
 | wp_v_verniero_merits_1998-03-16.md | 9dad07f8bc22853ae33065758eda5c958abed2475ae538ae481f4929afa74aa4 | 11 | identical | 249, 215, 188, 105 |
 | caterpillar_v_uaw_dismissal_1998-03-23.md | cb31e8fb46a1c7450551c293773e81f7557b2ebdba3060159acbd8f160e8b491 | 11 | identical |  |
-| hetzel_v_prince_william_county_certiorari_1998-03-23.md | f37bbef5ffaf80ffa926cf36b43bc6576cb458b22dfb8b70b4518b8ce344ee57 | 11 | identical |  |
-| hetzel_v_prince_william_county_summary_merits_1998-03-23.md | e529ea3797bf144a374c54218030fcd7a18a883fb8b531e635919ae62364914c | 11 | identical | 205, 210 |
+| hetzel_v_prince_william_county_certiorari_1998-03-23.md | b1770ffd1aef22b8db4733b11bafa13452092c7858630d2deb80b80a58055d44 | 11 | identical |  |
+| hetzel_v_prince_william_county_summary_merits_1998-03-23.md | f2f86531bd7fe2bf2313186738c05b1e120f033a569839b41db9ef6e7335ae07 | 11 | identical | 205, 210 |
 | united_states_v_robinson_merits_1998-03-23.md | 3cb551d957ce6c6d86b78cc443f025ac9c2f6d6710150a576ea68907b5c6429f | 11 | identical | 305, 98 |

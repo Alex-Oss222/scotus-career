@@ -2,7 +2,7 @@
 
 **Event:** February 13, 1998; authorized hypothetical plenary review of 102 F.3d 600, D.C. Circuit No. 95-5386; district action No. 90cv02906. Section 1254(1) supplies the review channel. All eight Associate Justices participate; the seated Chief's position remains outside this context. No historical Supreme Court proceeding supplies this event's docket, scope, or disposition.
 
-**Stage and integrity:** Fresh independent modeling under Engine §§3, 5–9, 14–15, after release of the new additive neutral source-validation packet. The packet's verified SHA-256 is 935a18284fbe567c6f252b030b2bf4c598e8eafea90f1462ce6ef4bd82f64d35; its receipt is 3f37ad9f036b342c82e3530801687b8ceceb5739da9599f7fa2797d7a9558fed. No prior MacArthur commitment or modeled vote, historical comparator, reconciliation, assembly, private Justice proposal, Stone material, or target Supreme Court disposition was read. No Git command was used. The independent positions below are inference from the permitted law and record, not accounts of an actual conference.
+**Stage and integrity:** Fresh independent modeling under Engine §§3, 5–9, 14–15, after release of the new additive neutral source-validation packet. The packet's verified SHA-256 is 935a18284fbe567c6f252b030b2bf4c598e8eafea90f1462ce6ef4bd82f64d35; its receipt is eafc11b04568128988f10d25ef3caf01507343dc5ae8351a2324c34731a5f5a5. No prior MacArthur commitment or modeled vote, historical comparator, reconciliation, assembly, private Justice proposal, Stone material, or target Supreme Court disposition was read. No Git command was used. The independent positions below are inference from the permitted law and record, not accounts of an actual conference.
 
 **Independent disposition commitments:** Stevens, O'Connor, Kennedy, Souter, Ginsburg, and Breyer would vacate the statutory summary judgment and remand under a continuing-pertinence construction of §552a(e)(7). Scalia and Thomas would affirm the statutory judgment on the retention construction. All eight recognize a substantial statutory controversy and reach that construction; none selects a jurisdictional remand merely to recover missing research documents. All eight reject both constitutional claims for lack of the requisite supported personal controversy, preserve the distinction between the two plaintiffs, and require that the constitutional dismissals be without prejudice. No Justice commits to damages, final expungement, automatic discovery, or destruction on closure of an investigation.
 
@@ -233,14 +233,14 @@ The table below hashes the actual permitted files used. A hash identifies bytes,
 | AGENTS.md | 34255 | a9b88cb515e8f305d7c85deee83777701c5f09bfde66ae660a843e685fa49881 |
 | foundation/ENGINE.md | 89874 | 505a2d5e30e461c4b945dd2e7bd962ff6c117ede64914321f90014aff3b3428c |
 | entering-law/OT_1997CHUNK3_MACARTHUR.md | 78175 | 511a1ba0242ed05c7d167ef8baf146cb2accf3b1748cb722a18eae0fe1a68801 |
-| entering-law/OT_1997CHUNK3_LATE_CURRENT_LAW_1998-01-21.md | 30482 | ae27588c32e3c3b726bb86781b635924ba25928363a3699e046b653c0652fc36 |
-| entering-law/OT_1997CHUNK3_LATE_CURRENT_LAW_1998-01-26.md | 17094 | 7d472982ee73b21202f2506cffc0aadffee0e739228294bf279b316fbafc3684 |
-| entering-law/OT_1997CHUNK3_LATE_CURRENT_LAW_1998-01-29.md | 8686 | 60b387a18c54bda62611469f1770925330d9cdc031ba187d794503efbff8f909 |
-| entering-law/OT_1997CHUNK3_LATE_CURRENT_LAW_1998-02-02.md | 8941 | 820a1f9eb91514606df3317dff426fff8b0b816c0d11a8bc7065cee0cd3cb2a4 |
-| entering-law/OT_1997CHUNK3_LATE_CURRENT_LAW_1998-02-09.md | 11057 | 319f9dce689ed1b31e4962b2696dd14077459d2772b29bbeaa6a1771b664e4d3 |
-| entering-law/OT_1997CHUNK3_MACARTHUR_CURRENT_LAW_1998-02-12.md | 5197 | abc3095012487052ba184ca0fa657d3546133d0c0ba63e4e8510e8865aa324d1 |
+| entering-law/OT_1997CHUNK3_LATE_CURRENT_LAW_1998-01-21.md | 30482 | 71fd4f4314551f47047f5635eb92a9bc1058de95d9fc288ebff62a5a68833c75 |
+| entering-law/OT_1997CHUNK3_LATE_CURRENT_LAW_1998-01-26.md | 17094 | d8a59876d28a4b785e0c8e8b86bcd97636193f98d3fcec3f210db1a7492cabba |
+| entering-law/OT_1997CHUNK3_LATE_CURRENT_LAW_1998-01-29.md | 8686 | be2bc0473b4b678ff89c6f051c66d29abf5fb4b6a535e29032e53f626a19a3ac |
+| entering-law/OT_1997CHUNK3_LATE_CURRENT_LAW_1998-02-02.md | 8941 | 8bf6759e260f9df5dfcf48a13090775ed02ba3c7c423520a1c8b1ea051336214 |
+| entering-law/OT_1997CHUNK3_LATE_CURRENT_LAW_1998-02-09.md | 11057 | 8da02de5b84cc64e999e961dde8f137e3c45db61366ba86c3d87df77a40e8d03 |
+| entering-law/OT_1997CHUNK3_MACARTHUR_CURRENT_LAW_1998-02-12.md | 5197 | bb68554005e8a4a02734bdc53ef10c269ba33ba9e9d1dc6faf8f90efc3f23be5 |
 | freeze/OT_1997CHUNK3_NEUTRAL_MACARTHUR_SECTION14_RESEARCH.md | 46905 | 935a18284fbe567c6f252b030b2bf4c598e8eafea90f1462ce6ef4bd82f64d35 |
-| freeze/OT_1997CHUNK3_NEUTRAL_MACARTHUR_SECTION14_RECEIPT.json | 15722 | 3f37ad9f036b342c82e3530801687b8ceceb5739da9599f7fa2797d7a9558fed |
+| freeze/OT_1997CHUNK3_NEUTRAL_MACARTHUR_SECTION14_RECEIPT.json | 15722 | eafc11b04568128988f10d25ef3caf01507343dc5ae8351a2324c34731a5f5a5 |
 | freeze/OT_1997CHUNK3_NEUTRAL_MACARTHUR.md | 19798 | a7fed21ae276498a84f4290d7259c7e1c4efa3d2fd5362cf74a1c7f664d320d7 |
 | freeze/OT_1997CHUNK3_SOURCE_FACTS_MACARTHUR_MONETARY_ADDENDUM.md | 4846 | 85f1ec9711d2785733d86d2f212227e44d2c9768018216fcd6d44fcd5875d201 |
 | freeze/OT_1997CHUNK3_MACARTHUR_ARCHIVE_NEUTRAL_SOURCE_FACTS.md | 19195 | 56530d8c90687c5e32241ad5c5681e15c0ead2d279841791fcdafbd41c7d909f |

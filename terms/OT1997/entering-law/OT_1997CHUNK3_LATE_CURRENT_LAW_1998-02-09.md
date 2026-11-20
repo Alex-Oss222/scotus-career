@@ -4,7 +4,7 @@ This additive receipt reviews only the actual Fields/Crawley public delta and in
 
 ## Input and exact authority map
 
-All eleven public blocks of [Fields/Crawley](../freeze/OT_1997CHUNK3_PUBLIC_DELTA_FIELDS.md) were reviewed. Verified input: 25,686 bytes; SHA256 `8899896659c567d8a0bdc1bcf8f6a0bcf4301243cc03721c0e7499af665f3052`. Incorporated February 2 receipt SHA256: `820a1f9eb91514606df3317dff426fff8b0b816c0d11a8bc7065cee0cd3cb2a4`.
+All eleven public blocks of [Fields/Crawley](../freeze/OT_1997CHUNK3_PUBLIC_DELTA_FIELDS.md) were reviewed. Verified input: 25,686 bytes; SHA256 `8899896659c567d8a0bdc1bcf8f6a0bcf4301243cc03721c0e7499af665f3052`. Incorporated February 2 receipt SHA256: `8bf6759e260f9df5dfcf48a13090775ed02ba3c7c423520a1c8b1ea051336214`.
 
 | Component | Actual direct authority; limits |
 | --- | --- |

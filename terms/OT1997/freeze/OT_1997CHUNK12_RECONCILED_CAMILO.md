@@ -14,9 +14,9 @@ The comparator supplies **no historical United States Supreme Court merits decis
 
 | Frozen input | SHA-256 checked at reconciliation |
 |---|---|
-| Neutral packet | `d3a55abde4f77a13d8b71a8e7588ea9367e240a2a425cafe7db5116ad17b5703` |
-| Authority addendum | `8b45ace2c5460cc976aa9ad56adadabf203dadc29401de6073bef98b3e29d597` |
-| Commitments | `4c98a8c3f731761a405b1cd9ef6741686f888257c434a23ef39ec05d6b7a122e` |
+| Neutral packet | `36ebecd0897aeb4dcb389a65c4c2910aa8ef86de2829ef9e33ceb4c01df81071` |
+| Authority addendum | `434a27fa5be1b29a54521cbab2b19ad58106e4d22497a47f74a32cb814c3bb78` |
+| Commitments | `5c79e8dcdba40f07abd9b2f0d8771c22d1f9d1d61f32e43afc6f8109ca36bfd8` |
 | Scoped comparator | `8a58a98ec602079f30c632e0df1d2cbe2c639fafc17a1586bc5aa1868d0f90b1` |
 
 ## Components retained and comparison with the lower decision

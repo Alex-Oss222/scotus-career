@@ -28,7 +28,7 @@
     },
     {
       "path": "terms/OT2000/freeze/OT_2000CHUNK2_UROFSKY_NEUTRAL_RELEASE_RECEIPT.json",
-      "sha256": "17ca5d5d49fc808ae4129359f045440249c44b8ff5fb9551d5fadf1345ffe296"
+      "sha256": "675a58a10d5246e4914e4aa41ec8f98f2670a5ee05d08e433c9b1c5d7017decc"
     },
     {
       "path": "terms/OT2000/freeze/OT_2000CHUNK2_UROFSKY_NEUTRAL_DISTRICT_ADDITION.md",
@@ -56,7 +56,7 @@
     },
     {
       "path": "terms/OT2000/freeze/OT_2000CHUNK2_COMMITMENTS_UROFSKY_RECEIPT.json",
-      "sha256": "bd71b7eef2951e31ed03f7faa28751a5df0662ca666dd71a6e864b74957f29eb"
+      "sha256": "e78a1ddd3c6f9891a7e5160dc89caaa7664d688910e5cc19476cf0e4a3995bcc"
     },
     {
       "path": "terms/OT2000/runtime/OT_2000CHUNK2_COMPARATOR_urofsky.md",

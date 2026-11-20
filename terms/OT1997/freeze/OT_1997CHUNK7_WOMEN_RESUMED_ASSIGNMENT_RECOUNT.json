@@ -355,7 +355,7 @@
       ],
       "counted": true,
       "reason": "Signed plenary merits lead",
-      "source_sha256": "ca51e1fb45566cd18a69ef84fef953d254a6a661a31a26f214ac8e1c15d7e5d6"
+      "source_sha256": "4d42937a34ecae2d0ab79d12ef91680a5b6c0433631b2bdfe7e70ec00f84373d"
     },
     {
       "file": "lachance_v_erickson_mcmanus_merits_1998-01-21.md",
@@ -381,7 +381,7 @@
       ],
       "counted": true,
       "reason": "Signed plenary merits lead",
-      "source_sha256": "b5cd73e3e0c92ba1b0d460baac42068d254dbce256049148e71972a045cf42b7"
+      "source_sha256": "dea5f6409a179b030b52365ff717092bb88f4b82cb3884d6846ad45c57708754"
     },
     {
       "file": "allentown_mack_sales_service_inc_v_nlrb_merits_1998-01-26.md",
@@ -394,7 +394,7 @@
       ],
       "counted": true,
       "reason": "Signed plenary merits lead",
-      "source_sha256": "057602e06bdc281f86ac3d6c0f83996e57813cad5335f3af737e0517f13d1d5c"
+      "source_sha256": "ccd8418f9e54008caa28b8124ed030415771a89652e2f4edc1a2b5b8a910581d"
     },
     {
       "file": "brogan_v_united_states_merits_1998-01-26.md",
@@ -420,7 +420,7 @@
       ],
       "counted": true,
       "reason": "Signed plenary merits lead",
-      "source_sha256": "a1dd3463f1ec150c10025bbc569fa5ad8c4e9dfe2aa098a1ef72fce99b153bd5"
+      "source_sha256": "b726b301f0be883b57d57b7a1639c58b0514dd512d2d3c89f6bd28f2dcf34c0e"
     },
     {
       "file": "south_dakota_v_yankton_sioux_tribe_merits_1998-01-26.md",
@@ -433,7 +433,7 @@
       ],
       "counted": true,
       "reason": "Signed plenary merits lead",
-      "source_sha256": "cefc949abfd058bd1a9d227444627934b28ebcda1b958025c09393e9e6fc72a1"
+      "source_sha256": "6596668e5b3caa804a7ed6b8856c827c0854dff344a062884da2d26fe5358a78"
     },
     {
       "file": "mccardle_v_haddad_merits_1998-01-29.md",
@@ -802,7 +802,7 @@
       "candidate_authors": [],
       "counted": false,
       "reason": "Unsigned, per curiam, summary, or nonmerits event",
-      "source_sha256": "f37bbef5ffaf80ffa926cf36b43bc6576cb458b22dfb8b70b4518b8ce344ee57"
+      "source_sha256": "b1770ffd1aef22b8db4733b11bafa13452092c7858630d2deb80b80a58055d44"
     },
     {
       "file": "hetzel_v_prince_william_county_summary_merits_1998-03-23.md",
@@ -815,7 +815,7 @@
       ],
       "counted": false,
       "reason": "Unsigned, per curiam, summary, or nonmerits event",
-      "source_sha256": "e529ea3797bf144a374c54218030fcd7a18a883fb8b531e635919ae62364914c"
+      "source_sha256": "f2f86531bd7fe2bf2313186738c05b1e120f033a569839b41db9ef6e7335ae07"
     },
     {
       "file": "united_states_v_robinson_merits_1998-03-23.md",
@@ -969,7 +969,7 @@
       "candidate_authors": [],
       "counted": false,
       "reason": "Emergency application",
-      "source_sha256": "196d79766ee0f084c8e263afb816b61451b01fe4da8d7a7e83f38109a0a6b710"
+      "source_sha256": "1211db86d5ee23d24e2475417b97701115e4d07a87dd104dded7b65b2f3a582e"
     },
     {
       "file": "carriger_v_stewart_merits_1998-04-16.md",
@@ -982,7 +982,7 @@
       ],
       "counted": true,
       "reason": "Signed plenary merits lead",
-      "source_sha256": "a6c46db3153cdf385219bcad468c60df072a9b63af3e763f67cebb4765a92f9c"
+      "source_sha256": "cea91c352b10ab78a5e3eb6fe2231553ba30e06fc9a2a4be0b927d3c936c036a"
     }
   ],
   "cutoff": "1998-04-20; no same-date preceding Record exists",

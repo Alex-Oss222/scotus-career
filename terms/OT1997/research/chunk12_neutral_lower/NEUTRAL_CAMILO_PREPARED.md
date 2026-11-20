@@ -22,7 +22,7 @@ Full lower judicial text: https://law.resource.org/pub/us/case/reporter/F3/151/1
 
 ## Already checked law and mandatory later refresh
 
-The last received complete public-law snapshot is `../../entering-law/OT_1997CHUNK12_BEFORE_1998-06-26.md`, SHA-256 `8B786BB4F1F7DC58E5E574F86E974FC1E4FBF4F890712CC07707B9BF32914C53`. It contains law through June 25, not the subsequently completed June 26 decisions. This preparation is not a claim of freshness for the scheduled later event.
+The last received complete public-law snapshot is `../../entering-law/OT_1997CHUNK12_BEFORE_1998-06-26.md`, SHA-256 `40E7BE133E1A1DAB28735429C76127D61EE8038391D46729FFB5C4C96644F530`. It contains law through June 25, not the subsequently completed June 26 decisions. This preparation is not a claim of freshness for the scheduled later event.
 
 At that checked baseline, Diamondstone retains Harlow/Anderson and requires each official's actual role, information, causation and conduct-time federal clarity. Its separate proposed replacement defense is not controlling law. Its final-judgment setting does not expand interlocutory jurisdiction. Bragdon's clinical direct-threat and public-health-weight rules do not define constitutional professional culpability or immunity. Finley's selective arts-grant holding supplies no general immunity for public employment or official discretionary decisions. The exact later snapshot must be screened before these observations become the final entering-law handoff.
 

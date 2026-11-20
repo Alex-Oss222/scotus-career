@@ -1,6 +1,6 @@
 {
   "record": "terms/OT1997/records/allentown_mack_sales_service_inc_v_nlrb_merits_1998-01-26.md",
-  "sha256": "057602e06bdc281f86ac3d6c0f83996e57813cad5335f3af737e0517f13d1d5c",
+  "sha256": "ccd8418f9e54008caa28b8124ed030415771a89652e2f4edc1a2b5b8a910581d",
   "bytes": 41542,
   "status": "passed",
   "opening_labels": true,
@@ -28,7 +28,7 @@
   "frozen_identity_checks": {
     "freeze/OT_1997CHUNK3_COMMITMENTS_ALLENTOWN.md": "03bea7005286863bc77e0e3680a456f39f5b8f4b85e9b4f945270322bd32d062",
     "freeze/OT_1997CHUNK3_RECONCILED_ALLENTOWN.md": "bb3f81ccefccbc596288e25f44e5a22572911eb03cd236c2c2dc63e014aa8756",
-    "freeze/OT_1997CHUNK3_RECONCILED_ALLENTOWN_CURRENT_LAW_1998-01-21.md": "f2fe24986a3d70d317c4c9a5588733e5165fa3331472f73c7ebfff558bfb972b"
+    "freeze/OT_1997CHUNK3_RECONCILED_ALLENTOWN_CURRENT_LAW_1998-01-21.md": "bfacfaba6b52fb9c859c08fe589bc688c06a13a56460cec09faff075a861e752"
   },
   "actual_table_leads": [
     {

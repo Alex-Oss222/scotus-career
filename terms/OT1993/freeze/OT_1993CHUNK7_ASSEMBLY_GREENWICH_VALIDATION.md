@@ -33,14 +33,14 @@ A scoped Python check independently validated nine unique participants; complete
 
 | Preserved input | SHA-256 checked |
 |---|---|
-| `OT_1993CHUNK7_COMMITMENTS_B.md` | `3052bda38e3a9f69dd3abceef51e02d0254529f4d814d91a3fd9c560c437f598` |
+| `OT_1993CHUNK7_COMMITMENTS_B.md` | `a98a3792fbce0f15e94f1cf02e1c2ae1a8d6c707a25ef0385c5893ac6c790b9a` |
 | `OT_1993CHUNK7_SOURCE_NEUTRAL_B.md` | `727749e5f116fdad8ec42c8a9399f13dec4b520dad5d87a50e18a9467672a30f` |
 | `OT_1993CHUNK7_NEUTRAL_VALIDATION_B.md` | `b62db6f56e873515ae679a8133192039a12c0d65e24faac1a3891514a8d70ae9` |
 | `OT_1993CHUNK7_NEUTRAL_B_LINGLE_CORRECTION.md` | `497952fcb901a1fe02976d03f24183b4846aba13de4410be90794aa97fab5287` |
 | `OT_1993CHUNK7_SOURCE_PREFLIGHT_B.md` | `ccdd5289ccb482842e232be8851c217bf1e4fe98301e3ad998a90abe102a6374` |
 | `OT_1993CHUNK7_RECONCILED_B_1.md` | `73b133357ab14b0b1f1f7e5b359881ffa3ae0a95de06bc88cfe2e4631718a23d` |
 
-Record SHA-256 at handoff: `12abed9034f06b5df5f6bfde544cace0e9d9774589e6113f357e2d3e44b6a8e9`.
+Record SHA-256 at handoff: `a7c5b417989d7ad995da7284e169d60d8a9d13d8817bfc6101fe79623450ae3f`.
 
 These are file-content hashes, not Git commit hashes. No Git command or Git-invoking helper was run. No old Record, approved brief, foundation file, state tracker, workspace projection or public render was edited. All writes were new files under `terms/OT1993/` or scratch files under `tmp/`. No public render was authored.
 

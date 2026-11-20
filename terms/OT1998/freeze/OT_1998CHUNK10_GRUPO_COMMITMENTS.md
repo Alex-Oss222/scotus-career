@@ -162,7 +162,7 @@ Hashes identify the exact authorized copies available at freeze. Where a shared 
 | `terms/OT1998/research/OT_1998CHUNK10_A_GRUPO_RESP_MOOTNESS_ARGUMENT_CLEARED.md` | `755e2bdcdd2125f8668cb885a53cb388a7a2322e87f1d3eeaeb2d4e973035520` |
 | `terms/OT1998/research/OT_1998CHUNK10_A_GRUPO_PET_MOOTNESS_CLEARED.md` | `9c0de19b33c98d97c5700c36ccb31569e41e900de5b8b3b387db1c00aacf3d99` |
 | `terms/OT1998/research/OT_1998CHUNK10_A_grupo_below_opinion.txt` | `517cfb679114348d4dd8ea87d5d0b7749ddb24484769d9ff03fdc53818fa00f9` |
-| `terms/OT1998/entering-law/OT_1998CHUNK10_A_SELECTED_HOLDINGS.md` | `8a8a5cb4ff735a27940d176fe7dc2881b63b4382ce3d561a3d1de4966087e0e5` |
-| `terms/OT1998/entering-law/OT_1998CHUNK10_A_STANDARDS.md` | `07b4522bd56474f6aee39ee2149a5586529af74e8300148855e67353ab6ccdd0` |
-| `terms/OT1998/entering-law/OT_1998CHUNK10_A_PRIOR_PUBLIC.md` | `3b259a4babecda091f1cab6b584e39c76722a7753628cde3e4850c7a82fdf88c` |
+| `terms/OT1998/entering-law/OT_1998CHUNK10_A_SELECTED_HOLDINGS.md` | `fb07dd6d674f7ac0704bb4867dfbb8e87eca03af80398dbc4954a09c0d346a21` |
+| `terms/OT1998/entering-law/OT_1998CHUNK10_A_STANDARDS.md` | `57cf5ecb2183e62c1437ef14128540df8ca4d0ecf2d33253416549bb819b7606` |
+| `terms/OT1998/entering-law/OT_1998CHUNK10_A_PRIOR_PUBLIC.md` | `b0148d9a029d3f963adbbc213812e9dcda5e08f1e4d9c7ac86770f29de46700d` |
 | `terms/OT1998/entering-law/department_of_the_army_v_blue_fox_merits_1999-01-20.md` | `a2b94676eadbd32d4bee5d8796f2ada29d9e9a63f4d0fa7ee5d98da0bd661501` |

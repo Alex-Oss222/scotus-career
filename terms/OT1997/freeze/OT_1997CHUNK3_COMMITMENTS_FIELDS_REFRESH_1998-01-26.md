@@ -2,7 +2,7 @@
 
 Append-only refresh incorporating the complete original `freeze/OT_1997CHUNK3_COMMITMENTS_FIELDS.md`, 36,030 bytes, SHA-256 `08ad60d9be58c160286095abd338f238bf263328e91e47e36d430d27f2cfa17c`. Original runtime/freeze remain immutable. This receipt covers only the four new actual January 26 decisions and their public separate grounds; the original already covers actual law through January 21.
 
-Read the complete public deltas Allentown, Brogan, Oubre and Yankton and clean `entering-law/OT_1997CHUNK3_LATE_CURRENT_LAW_1998-01-26.md`, SHA-256 `7d472982ee73b21202f2506cffc0aadffee0e739228294bf279b316fbafc3684`. No pending decision was treated as law. Actual McCardle and Alexander remain required before February 9 finalization.
+Read the complete public deltas Allentown, Brogan, Oubre and Yankton and clean `entering-law/OT_1997CHUNK3_LATE_CURRENT_LAW_1998-01-26.md`, SHA-256 `d8a59876d28a4b785e0c8e8b86bcd97636193f98d3fcec3f210db1a7492cabba`. No pending decision was treated as law. Actual McCardle and Alexander remain required before February 9 finalization.
 
 ## Actual effect and alternative test
 

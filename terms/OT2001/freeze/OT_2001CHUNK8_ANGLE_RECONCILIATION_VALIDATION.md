@@ -28,8 +28,8 @@ This is a substantive reconciliation and handoff-integrity receipt, not term-wid
 | `AGENTS.md` | `34d67c6e388c15dad71857214d1c92ed19de043138020208ee25d1e70b1abfa8` |
 | `foundation/ENGINE.md` | `11735d99fd88acfe6a497af9d67af0a6988e7b6deb8c210797e09dcdb12162d3` |
 | `terms/OT2001/freeze/OT_2001CHUNK8_ANGLE_NEUTRAL.md` | `a0617d45ab04e58e0891f1b20b7f49863f0273cf7d7381e3151d9f7358093ff5` |
-| `terms/OT2001/freeze/OT_2001CHUNK8_ANGLE_COMMITMENTS.md` | `33bb979f4af800da70c7d4187dd2d009b31db1065da3417f23cf51d49899bdb8` |
-| `terms/OT2001/entering-law/OT_2001CHUNK8_ANGLE.md` | `52791cefe56e94519c93842558ee293a8ad6e3d738da0ad222859a8e7e9a5048` |
+| `terms/OT2001/freeze/OT_2001CHUNK8_ANGLE_COMMITMENTS.md` | `917b69cd58487d57e1953d7b25a05edf7b87247604342b1869e9e66cacf4f05a` |
+| `terms/OT2001/entering-law/OT_2001CHUNK8_ANGLE.md` | `c734de33a3c24ce18cc928159dd2ba6d13d02d4d63c8ea0bdbacc14bb45587f3` |
 | `terms/OT2001/entering-law/OT_2001CHUNK8_ANGLE_CURRENT.md` | `37b1618138d903da596e10a2ffa6c31b9d3ad6613f8d8fc760fcfcbaf1da07cc` |
 | `terms/OT2001/runtime/OT_2001CHUNK8_ANGLE_COMPARATOR.md` | `97e2699574c4e3aeceb723ad8aca82f600e7e3d42f72371384348d887aff9990` |
 | `terms/OT2001/sources/chunk8-comparator/angle-enbanc.txt` | `abc6a05519a5b276bbe7be527dd29c36ea520a3f2483127d908d6dc10782c868` |

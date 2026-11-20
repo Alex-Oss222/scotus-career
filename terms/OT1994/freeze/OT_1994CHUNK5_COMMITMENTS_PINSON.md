@@ -84,11 +84,11 @@ The immediately-before-May-8 actual-law release is a reading copy, not new autho
 
 | Source or preserved handoff | SHA-256 |
 |---|---|
-| `entering-law/OT_1994CHUNK5_BEFORE_1995-05-08.md`, complete file bytes | `95710cd4ee81cab5961e545531b7c2cc214706238a206f8fe97213cccbe63b6d` |
+| `entering-law/OT_1994CHUNK5_BEFORE_1995-05-08.md`, complete file bytes | `e6d93893caeb591b098526b4d68453ee1660ce2f900ba385071dbbbaa27187aa` |
 | Harris section of that release, UTF-8 normalized newlines and one terminal newline | `6fe76438f35121ed26196f13ac8ae5153517afc10e063f3e2c0e6b3ee991aeb2` |
 | Pinson-only section of `runtime/OT_1994CHUNK5_NEUTRAL_C_VALIDATED.md`, from its case heading to the next case heading or EOF, UTF-8 normalized newlines and one terminal newline | `21de1d66c63ad7471cf013d45525349bbed34044b4ac75ea3cae876334d4b615` |
 | `freeze/OT_1994CHUNK5_NEUTRAL_VALIDATION_C.md` | `0f47b5224084ba3ddf048a0b5ecb6020e933aa5103917039608fd0d631404af9` |
-| `entering-law/OT_1994CHUNK5_C.md` | `7b99d4bd3055c45e0957d69fd172e0f7f74e161d90c280563564411775d3b14b` |
+| `entering-law/OT_1994CHUNK5_C.md` | `38d7b2ae07f888ab779a5a347caef7b1c154a5f245a219d4a97a2b9c554454c7` |
 | `tmp/ot1994_chunk5_c/pinson.txt` | `cab8ccc8a75805734557158781d75cbb870896ba828e6c05c806755b7462ea38` |
 | `tmp/ot1994_chunk5_c/validation_sources/karo.txt` | `47e4ac949695c80eb71762cff99c809d5007435c437a8c247ae735cb12c3787c` |
 | `tmp/ot1994_chunk5_c/validation_sources/riley.txt` | `1040d2ff3b99dc26d9d8f321f298756da9ac47f18f7b10aad1596c1596de623a` |

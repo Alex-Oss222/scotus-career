@@ -1,6 +1,6 @@
 # A — Stone-unexposed reconciliation reading and validation receipt
 
-**Artifact:** runtime/freeze `OT_1995CHUNK1_A_RECONCILED.md`, 42,834 bytes, SHA256 `d9bf9410bb5d564cf7f8d6fb14fbc2d951e32111ead2d22ce73e9faafb0c235c`. Copies are byte-identical. Research cutoffs: October 10, 16, 23 and 30, 1995. Receipt recorded October 2, 2026. No Git command was used.
+**Artifact:** runtime/freeze `OT_1995CHUNK1_A_RECONCILED.md`, 42,834 bytes, SHA256 `4dcdab3df4a9677b406d806275fbc75a3e1b77c5107abc2571119ce5b099b555`. Copies are byte-identical. Research cutoffs: October 10, 16, 23 and 30, 1995. Receipt recorded October 2, 2026. No Git command was used.
 
 ## Stage and source boundary
 

@@ -4,7 +4,7 @@
 
 ## Actual input and authority
 
-All eleven public blocks of [Danahy's public delta](../freeze/OT_1997CHUNK3_PUBLIC_DELTA_DANAHY.md) were reviewed. Verified input: 10,164 bytes; SHA256 `1bb6031dc35e49fd20d2bf0a4a8b38af165b813f2a49310a60a5b9ffb61473b7`. Incorporated February 9 receipt SHA256: `319f9dce689ed1b31e4962b2696dd14077459d2772b29bbeaa6a1771b664e4d3`.
+All eleven public blocks of [Danahy's public delta](../freeze/OT_1997CHUNK3_PUBLIC_DELTA_DANAHY.md) were reviewed. Verified input: 10,164 bytes; SHA256 `1bb6031dc35e49fd20d2bf0a4a8b38af165b813f2a49310a60a5b9ffb61473b7`. Incorporated February 9 receipt SHA256: `8da02de5b84cc64e999e961dde8f137e3c45db61366ba86c3d87df77a40e8d03`.
 
 All nine Justices join Stevens's Parts I–II in full. Both holdings, their qualifications, each of the seven employee applications and the claim-limited mandate have nine direct joins. There are no separate writings or additional noncontrolling grounds. The actual operative rules and authority statements are copied verbatim:
 

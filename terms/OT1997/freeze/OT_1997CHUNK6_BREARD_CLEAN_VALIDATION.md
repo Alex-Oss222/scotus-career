@@ -26,4 +26,4 @@
 
 **Exact remaining A-732 need:** a sanitized application-ground extract plus the relevant state/federal rulings or reliable judicial recitations identifying the challenged proportionality-review procedure, federal due-process theory, preservation, disposition and application-specific review/reversal showing. The identified problem is narrower than recovering the entire archive.
 
-**Packet SHA-256:** `80cc03a07f98fdc7f5c897d6183e3c81840b380176cf0396112994162bce611a`.
+**Packet SHA-256:** `da32597035e1be297aa007de408b6fd38a8f66e943187686e27c1b0b4ca636f9`.

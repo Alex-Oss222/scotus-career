@@ -6,7 +6,7 @@ This completes the final two B reconciliations. The original model freezes were 
 
 | Case | Original commitment matches supplied SHA-256 | Runtime/freeze identical | Associate rows | Reconciled SHA-256 |
 |---|---|---|---:|---|
-| DEATON | Yes; `2791ef50b4d9f4f67a400c15e653051eddab5aa4a4ea4aa9d540b140a7a7ddef` | Yes | 8 | `cfd061377f11f1070ce00f4367dd4df84c865f886976d6e2c98508747de5a182` |
+| DEATON | Yes; `796baeb191026f6ffb98cc41da6454edb8bb4882048ead536adc4dd835499133` | Yes | 8 | `cfd061377f11f1070ce00f4367dd4df84c865f886976d6e2c98508747de5a182` |
 | PRINGLE | Yes; `21ee9d2daa05a95179968e3185262f1f1a2466fb84c0f0872f4e43829c760460` | Yes | 8 | `b57bbd2e9832b642bf75100d1cd689d5862ee31e9e30c0b72b5417c84355e915` |
 
 ## Read scope and source checks
@@ -44,9 +44,9 @@ Fingerprints identify the exact saved inputs, not a certification of repository 
 | `sources/chunk2_comparator/02-809.ZO.html.txt` | `d5911094a7ca247571f21d8400dacc7afde4475b5c88e7a9f2c76c73539a73e4` |
 | `sources/chunk2_comparator/02-809.ZS.html.txt` | `0d0bc803f5338d78251203ab7f07e28349ab249fa5f58b20456e144756c3fa2b` |
 | `entering-law/OT_2003CHUNK2_PRINGLE_HOUGHTON.md` | `0ec3e39c0006153a50429dbedf3852b667468008c6702c0f778aa35844fc08c3` |
-| `entering-law/OT_2003CHUNK2_B.md` | `4e50ffae841ef5502212fdbb8564d79bd5d7f083b4bcbb1e333d4c82146c4766` |
+| `entering-law/OT_2003CHUNK2_B.md` | `e7000f0e0803ebf1830d13673c382e03aa618b14a8903f7ec89daa20af11a195` |
 | `freeze/OT_2003CHUNK2_PRINGLE_PUBLIC_REFRESH_RECEIPT.md` | `595642a1a5ba26e7943d93af39c6a56ff569c1f95ff76e62dd00a0ee28ade28c` |
 | `freeze/OT_2003CHUNK2_GREENVILLE_PUBLIC_COMPLETENESS.md` | `e2d7a9b30f983153c7b0485bb3e2fdb25183821eda9954085224eebb678cd813` |
-| `freeze/OT_2003CHUNK2_HO_PUBLIC.md` | `4881338d03d530561e2ca7d6a62157774156e84ee281963998c02ea3385c5c3d` |
+| `freeze/OT_2003CHUNK2_HO_PUBLIC.md` | `8dfae66be010ebe4bf024bd8e9d6292851d1d43ec94a9382fc0364ee4f1e7295` |
 | `freeze/OT_2003CHUNK2_BARNHART_PUBLIC.md` | `27bc46c71b6dea83c955d9284482617a327744ef5e80c39cc741bca254c3752b` |
 | `freeze/OT_2003CHUNK2_BANKS_PUBLIC.md` | `581614241a26051ad15f882ac9791b12ba98e02183a83a694128ca2b630d6290` |

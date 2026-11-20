@@ -39,7 +39,7 @@
     "matter": "HO",
     "stage": "COMMITMENTS",
     "file": "OT_2003CHUNK2_HO_COMMITMENTS.md",
-    "sha256": "cb280fa4c397da10bd304b9ff9a69dcea050bbe149bd949800ac5f03873f82d7"
+    "sha256": "b5b07550c7c9540b034a6e046f470d250bb06664527d612a1515ff8ea469389d"
   },
   {
     "matter": "VALERIA",
@@ -81,7 +81,7 @@
     "matter": "DEATON",
     "stage": "COMMITMENTS",
     "file": "OT_2003CHUNK2_DEATON_COMMITMENTS.md",
-    "sha256": "2791ef50b4d9f4f67a400c15e653051eddab5aa4a4ea4aa9d540b140a7a7ddef"
+    "sha256": "796baeb191026f6ffb98cc41da6454edb8bb4882048ead536adc4dd835499133"
   },
   {
     "matter": "PRINGLE",
@@ -135,7 +135,7 @@
     "matter": "HO",
     "stage": "RECONCILED",
     "file": "OT_2003CHUNK2_HO_RECONCILED.md",
-    "sha256": "3b692e5d7e24fca35a1b13a5d11f2ac7e7b4767f6db26e4687a9463f5237aa14"
+    "sha256": "26a3d15a4ce1faf302395c93d326b57d18d77f9634021264b1ae3bf4f32c693c"
   },
   {
     "matter": "VALERIA",

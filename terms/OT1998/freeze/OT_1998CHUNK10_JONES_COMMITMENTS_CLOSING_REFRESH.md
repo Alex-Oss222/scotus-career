@@ -2,7 +2,7 @@
 
 **Status:** Frozen affected independent-model supplement for historical reconciliation. No comparator, same-matter historical Supreme Court treatment, private Stone source or proposed Court coalition was received. No author is selected. These are provisional commitments, not an entered judgment or historical vote report.
 
-**Event:** Federal capital-sentencing merits, June 21, 1999; law cutoff strictly before June 21. This supplements the [original Jones commitments](OT_1998CHUNK10_JONES_COMMITMENTS.md), whose released SHA-256 remains `0243ec8f77551de77ad082e24651d0aa5ec0991dd4510eced86122808f31431a`. The original file is preserved byte-identically. The original participation, lawful review channel and chronology conditions carry forward.
+**Event:** Federal capital-sentencing merits, June 21, 1999; law cutoff strictly before June 21. This supplements the [original Jones commitments](OT_1998CHUNK10_JONES_COMMITMENTS.md), whose released SHA-256 remains `1202428e8d806e02a562c425efa07a927debdf4cbe51613092e31acfe8e3189f`. The original file is preserved byte-identically. The original participation, lawful review channel and chronology conditions carry forward.
 
 ## Exact scope of supersession
 
@@ -154,7 +154,7 @@ The validated closing addendum is the new substantive input. The original commit
 | Input | SHA-256 |
 |---|---|
 | `terms/OT1998/freeze/OT_1998CHUNK10_JONES_CLOSING_NEUTRAL_ADDENDUM.md` | `995302a4690c349bce5abd6e04752971e3520bb19aca472b04269c8d3bdff9e9` |
-| `terms/OT1998/freeze/OT_1998CHUNK10_JONES_COMMITMENTS.md` | `0243ec8f77551de77ad082e24651d0aa5ec0991dd4510eced86122808f31431a` |
+| `terms/OT1998/freeze/OT_1998CHUNK10_JONES_COMMITMENTS.md` | `1202428e8d806e02a562c425efa07a927debdf4cbe51613092e31acfe8e3189f` |
 | `terms/OT1998/freeze/OT_1998CHUNK10_JONES_VALIDATED_NEUTRAL.md` | `670d7a8d5918ee83e9531eb3e9f3166967ec7d5cf6c2f113bfb2157885c154e6` |
 | `terms/OT1998/freeze/OT_1998CHUNK10_JONES_PARTY_FACTS_ONLY.md` | `571c178283f45c6b7c4a649ecd91e6b232b4ec1d8459361dd68ca71c59385eda` |
 | `terms/OT1998/research/OT_1998CHUNK10_B_JONES_TRIAL_EXCERPT.md` | `bc95db6b33335a035e32802bd3d40bd7d14b0f1a92e7fd202abdbae44d9e53fe` |
@@ -162,7 +162,7 @@ The validated closing addendum is the new substantive input. The original commit
 | `terms/OT1998/research/OT_1998CHUNK10_B_FDPA3593_1994.txt` | `37deb285347eb56cc70cec36aa5969d47ff0d508b332e7aedc7d2b6df669781b` |
 | `terms/OT1998/research/OT_1998CHUNK10_B_FDPA3594_1994.txt` | `c1095bbc499663392d84c567a89f28c596c5ee6c1575e4a3b6a5dbc5c175df58` |
 | `terms/OT1998/research/OT_1998CHUNK10_B_FDPA3595_1994.txt` | `4a0d61d7fa483f7c337db63e7f715476bab4cf92a3058fed53087384dca7f305` |
-| `terms/OT1998/entering-law/OT_1998CHUNK10_B_SELECTED_HOLDINGS.md` | `1f554f65a42e8063a12e4f9e79c1f310c8428c399c225345a166e2983433ccc9` |
+| `terms/OT1998/entering-law/OT_1998CHUNK10_B_SELECTED_HOLDINGS.md` | `4856e0635b69690865fcd06b4ca8692924e024fac6471b27b6cbbc086d264418` |
 | `terms/OT1998/entering-law/OT_1998CHUNK10_B_STANDARDS.md` | `7faaeb39b446b16f028fc9bc67a82592490a9fc46616b64fbb573678eb3972d7` |
 | `terms/OT1998/entering-law/OT_1998CHUNK10_B_CURRENT.md` | `09c290b7b0d69af840b6ee71e596d36b4ff07c9606465d00e3cdeaf850547be5` |
 | `AGENTS.md` | `a9b88cb515e8f305d7c85deee83777701c5f09bfde66ae660a843e685fa49881` |
