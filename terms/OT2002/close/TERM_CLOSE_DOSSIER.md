@@ -272,7 +272,7 @@ The five Holdings passes cover chunks 1-3, 4-6, 7-9, 10-12 and 13-15 respectivel
 | Staged file removed after verified publication | SHA-256 |
 |---|---|
 | `HOLDINGS.candidate.md` | `239549904b67c0002349bbd67da862498cea14c087245a86cb975688eec709f8` |
-| `STANDARDS_AND_TESTS.candidate.md` | `5d350d02b79fbba11b722f225a87644a6e5070400d72d42fb8cc93800e5c5d9f` |
+| `STANDARDS_AND_TESTS.candidate.md` | `8f28d24ce486ee7f72c4e4bfde9c63bbb6fbb35e4b85d488c37d83d8c06e74b5` |
 | `STANDING_STATE.candidate.md` | `a296e4484f8fcfdb5749e6123b7c675a963fc3d1b89decf1300de1075005b0eb` |
 | `HOLDINGS_PASS1.md` | `71ed89b1bb5f129a8d2711bb068db14447ebba7c7c375baa312ea42c2c8745e9` |
 | `HOLDINGS_PASS2.md` | `10b2d145b363d19b0fae85dc12aeea38765461a07a6de6ab332340ceedd15456` |
@@ -312,7 +312,7 @@ The authorized publication is complete. The following checks passed before stagi
 | Published file | SHA-256 | Line endings |
 |---|---|---|
 | [state/HOLDINGS.md](../../../state/HOLDINGS.md) | `0a4554cc6c849cbe26ad8099fed75785db137ca7c638f27472ad4cc355f56000` | CRLF |
-| [state/STANDARDS_AND_TESTS.md](../../../state/STANDARDS_AND_TESTS.md) | `5d350d02b79fbba11b722f225a87644a6e5070400d72d42fb8cc93800e5c5d9f` | CRLF |
+| [state/STANDARDS_AND_TESTS.md](../../../state/STANDARDS_AND_TESTS.md) | `8f28d24ce486ee7f72c4e4bfde9c63bbb6fbb35e4b85d488c37d83d8c06e74b5` | CRLF |
 | [state/STANDING_STATE.md](../../../state/STANDING_STATE.md) | `a296e4484f8fcfdb5749e6123b7c675a963fc3d1b89decf1300de1075005b0eb` | LF |
 | [state/holdings/administrative-law.md](../../../state/holdings/administrative-law.md) | `0d6db29949ae2e06f488928ed4ab0ea58088d387a593f3b2288a48ec5f72a877` | LF |
 | [state/holdings/antitrust.md](../../../state/holdings/antitrust.md) | `51f7f98999d6be9dcbbe7f5fd5df240a76d097e0354ddc067968c90bedec3bea` | LF |
