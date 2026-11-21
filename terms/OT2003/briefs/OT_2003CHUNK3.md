@@ -1267,9 +1267,9 @@ Kontrick argues that the deadline’s restricted enlargement makes it unalterabl
 
 ### Issue 1: Official ballot designation
 
-* **Controlling Law:** Burdick v. Takushi requires assessment of the actual burden, the State’s precise interests and fit. Timmons v. Twin Cities Area New Party sustains its particular less-than-severe ballot restriction without authorizing every claimed stability measure.
+* **Controlling Law:** Burdick v. Takushi requires assessment of the actual burden, the State’s precise interests and fit, and Cartwright v. Barnes places that burden at one of three levels on the same calibrated scale. Timmons v. Twin Cities Area New Party and Schrader v. Blackwell give real weight to official-ballot recognition of a genuine party nomination or a truthful party designation, without making every ballot field a forum for self-description.
 
-* **Current Reusable Doctrine:** Severe burdens demand the corresponding heightened justification; reasonable nondiscriminatory administration may be supported by important regulatory interests. Alternative speech channels inform the actual burden but do not excuse viewpoint discrimination.
+* **Current Reusable Doctrine:** A severe burden requires narrow tailoring to a compelling interest; a substantial burden requires an important objective and a demonstrated substantial relationship to the restriction’s actual reach; an ordinary burden imposed by reasonable, nondiscriminatory rules may rest on important regulatory interests. Alternative speech channels inform the actual burden but do not excuse viewpoint discrimination.
 
 * **Other Governing Law:** First and Fourteenth Amendments; California Elections Code §13107 and the implementing designation regulations.
 
@@ -1320,7 +1320,7 @@ Rubin argues that peace activism is how he spends his time, that the definition 
 
 * **Reach Calibration:** Narrow. The actual status rule and complete communication setting determine the burden. A universal ban on political occupations would exceed the justification. Requiring every preferred self-description would defeat the field’s limited identification function.
 
-* **Stone's Proposed Holding:** A State may reserve an optional ballot designation for defined official or occupational identification and exclude generic political status descriptions under a consistently applied, viewpoint-neutral rule when the resulting burden is modest and the rule reasonably serves concise and nonmisleading identification. The State must identify that purpose and fit; it may not reject an otherwise eligible occupation merely because of the cause it advances. The challenged generic-status exclusion, alongside continued ballot candidacy and a separate candidate statement, satisfies that standard here.
+* **Stone's Proposed Holding:** A State may reserve an optional ballot designation for defined official or occupational identification and exclude generic political status descriptions under a consistently applied, viewpoint-neutral rule when the resulting burden is ordinary under Cartwright's three levels and the rule reasonably serves concise and nonmisleading identification. The State must identify that purpose and fit; it may not reject an otherwise eligible occupation merely because of the cause it advances. The challenged generic-status exclusion, alongside continued ballot candidacy and a separate candidate statement, satisfies that standard here.
 
 * **Reach Within the Question:** The reviewed optional designation, not Rubin’s right to campaign as a peace activist or a categorical prohibition on actual political professions.
 
@@ -1328,9 +1328,9 @@ Rubin argues that peace activism is how he spends his time, that the definition 
 
 * **Transition:** Not applicable.
 
-* **Essential Reasoning and Record Application:** Burdick requires the complete burden, which here does not remove a candidate or a political viewpoint from the election. Timmons recognizes that lawful restrictions on the official ballot need not eliminate association. The classification follows the informational role of the field and applies to activist statuses generally. It is not sustained simply because another channel exists; neutrality and reasonable fit remain essential. Cook v. Gralike invalidated an official congressional-ballot penalty for refusing the State’s preferred legislative position. Its distinct Elections Clause source does not govern this municipal race, but the reviewed neutral status rule supplies no comparable ideological penalty under the applicable First and Fourteenth Amendment inquiry.
+* **Essential Reasoning and Record Application:** Burdick requires the complete burden, which here does not remove a candidate or a political viewpoint from the election. Unlike Timmons and Schrader, the rule here withholds no recognition of a genuine party nomination or truthful party designation; it limits an optional occupational field to identifying the candidate. The classification follows the informational role of the field and applies to activist statuses generally. It is not sustained simply because another channel exists; neutrality and reasonable fit remain essential. Cook v. Gralike invalidated an official congressional-ballot penalty for refusing the State’s preferred legislative position. Its distinct Elections Clause source does not govern this municipal race, but the reviewed neutral status rule supplies no comparable ideological penalty under the applicable First and Fourteenth Amendment inquiry.
 
-* **Precedent Treatment:** Apply Burdick v. Takushi and Timmons v. Twin Cities Area New Party without transforming their record-specific holdings into universal ballot immunity.
+* **Precedent Treatment:** Apply Burdick v. Takushi and Cartwright v. Barnes; distinguish Timmons v. Twin Cities Area New Party and Schrader v. Blackwell, which concern official recognition of party nominations and designations, not an optional occupational field.
 
 * **Boundary or Reserved Question:** A supported claim of viewpoint-selective administration or exclusion of a distinct qualifying profession is not established by this generic-status claim.
 
