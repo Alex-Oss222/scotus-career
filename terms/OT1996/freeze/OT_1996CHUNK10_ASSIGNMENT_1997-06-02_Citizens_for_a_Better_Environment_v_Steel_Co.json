@@ -791,10 +791,10 @@
       "date": "1997-04-28",
       "case": "Timmons v. Twin Cities Area New Party; No. 95-1608.",
       "authors": [
-        "Thomas"
+        "Stone-Zsela"
       ],
       "reason": "Signed plenary lead; one count per delivering Justice",
-      "live_opinion_topology": "| Writing | Author | Joined by | Relationship to judgment | Scope joined |\n|---|---|---|---|---|\n| Opinion of the Court | Thomas | O'Connor, Scalia, Kennedy, Breyer; Stevens, Souter and Ginsburg in I and III | Reversal and remand | Five join merits Part II; all eight Associates join live-controversy Part I and statutory-transition Part III; Stone-Zsela agrees to reach the merits without an additional statutory rationale |\n| Dissent | Stevens | Ginsburg throughout; Souter in I–II | Would affirm the as-applied constitutional judgment | I–II: nomination interest and inadequate fit; III: broader objection to preserving the established parties' competitive position |\n| Separate dissent | Souter | No other Justice | Would affirm | Joins Stevens I–II; reserves a demonstrated stability justification connected to effective governing |\n| Dissent | Stone-Zsela | No other Justice | Would affirm on contextual, nonsevere-burden review | Substantial but not severe burden; inadequate fit; prospective and format/consent limits |"
+      "live_opinion_topology": "| Writing | Author | Joined by | Relationship to judgment | Scope joined |\n|---|---|---|---|---|\n| Opinion of the Court | Stone-Zsela | Stevens, Kennedy, Souter, Ginsburg; O'Connor, Scalia, Thomas and Breyer in I and III | Affirmance | Five join merits Part II; all nine join live-controversy Part I and statutory-consequence Part III |\n| Concurrence | Stevens | Ginsburg | Joins the opinion in full | Adds that the stability interest Minnesota pressed describes the established parties' competitive position; treats the Court's reserved question as undecided |\n| Dissent | Thomas | O'Connor, Scalia, Breyer | Would reverse; joins Parts I and III | Less-than-severe limitation on an additional nomination designation, justified by ballot integrity, defined nomination choices and a stable electoral system |"
     },
     {
       "file": "Doe_v_SEPTA_merits_1997-05-05.md",

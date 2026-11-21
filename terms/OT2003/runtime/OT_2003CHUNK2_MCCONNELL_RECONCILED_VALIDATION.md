@@ -56,7 +56,7 @@ Hashes identify the saved bytes; hashing a whole aggregate neutral/comparator fi
 
 | Saved input | SHA-256 |
 |---|---|
-| `freeze/OT_2003CHUNK2_NEUTRAL.md` | e21d7bd70e7e245b8092b421f776fe7310f204754e40297bdeeed1c4169fe227 |
+| `freeze/OT_2003CHUNK2_NEUTRAL.md` | 155428dd01db89f98b2213533378b9438c3bdd9124fcf9957540dcef1ad24fe3 |
 | `freeze/OT_2003CHUNK2_C_VALIDATED_PREFLIGHT.md` | b9712b31bacf993ae7b57cec8fcc3cda800502ba2e1cf26d1223bde9fdc24278 |
 | `freeze/OT_2003CHUNK2_MCCONNELL_POWER_PREFLIGHT.md` | 2eb5eabedffb2f2866c450c857f316e6091044d564b54e178802e73697377fbc |
 | `entering-law/OT_2003CHUNK2_C.md` | a6a85c3595b50effdd1c5d2a193e42e61a94d8af801dc310d7f4528e1cdfb8e0 |
@@ -67,7 +67,7 @@ Hashes identify the saved bytes; hashing a whole aggregate neutral/comparator fi
 | `sources/mcconnell/BCRA-selected-exact.md` | 67d2fa7eb33d47d0c7fdad554a692433e979cd56727d757bee32ecdca3aa7825 |
 | `sources/mcconnell/validation-clean-supplement-exact.md` | 1ad5ee21533ca85638605bdbdf896430f313d0c07b8e877a53362a309c859120 |
 | `sources/mcconnell/17.-Appellants-Brief.txt` | 57b06cd02032a8b2cddf7371b72f32763ec1c2eb9b68e163f1cb1939dd70644b |
-| `freeze/OT_2003CHUNK2_MCCONNELL_TITLE2_VERIFICATION.md` | 0c16a313ff594543ab93f18730ce947b0dd877127e07552b98e63446e9c215d3 |
+| `freeze/OT_2003CHUNK2_MCCONNELL_TITLE2_VERIFICATION.md` | f4a984db7afffcef64836b176559c7b9145c04ccf346c48ef3974f41e08c440a |
 | `freeze/OT_2003CHUNK2_MCCONNELL_SHORT_COMPARATOR_READING.md` | 0f10c4ca19e816f8b899196b31cf301ccbe039db743e3599d9ea3d2ef8ae7e87 |
 | `sources/chunk2_comparator/02-1674.ZD1.pdf` | ebc04601300872131953db39d892c0185c70f80d2f49a3644296d60a4e635c48 |
 | `sources/chunk2_comparator/02-1674P.ZX2.pdf` | a6281d321e95d355a32bd4c856f46c657d7277437454bd52100a042c9894edf8 |
@@ -91,7 +91,7 @@ Hashes identify the saved bytes; hashing a whole aggregate neutral/comparator fi
 | `freeze/OT_2003CHUNK2_VALERIA_PUBLIC.md` | 2adbd430ac6af62a733d0c53f37f3c9fd99e15e6a5bdafeaf05c2dbcf37643a4 |
 | `freeze/OT_2003CHUNK2_BANKS_PUBLIC.md` | 581614241a26051ad15f882ac9791b12ba98e02183a83a694128ca2b630d6290 |
 | `freeze/OT_2003CHUNK2_RAYTHEON_PUBLIC.md` | dea3a7c9721975218f94db70c64abe0e8eb118a8a54c4593df8acf121d0c821d |
-| `freeze/OT_2003CHUNK2_VAN_SUSTEREN_PUBLIC.md` | 54460ddcb64f4445a955aa0f3f689e505ec986e88661dfb491fec8a89f014447 |
+| `freeze/OT_2003CHUNK2_VAN_SUSTEREN_PUBLIC.md` | 0bfa6ab3cbbdcdda7f8dde28f9ac367992a5eb3d5e3ae1ab222aa78ed0542683 |
 | `freeze/OT_2003CHUNK2_VIRGINIA_PUBLIC.md` | 0a23a81fbc7b3c1bfacc97d7aa21f5332676fdf93ba1fbec9554e29b5880d31a |
 | `freeze/OT_2003CHUNK2_GREENVILLE_PUBLIC_COMPLETENESS.md` | e2d7a9b30f983153c7b0485bb3e2fdb25183821eda9954085224eebb678cd813 |
 | `freeze/OT_2003CHUNK2_VIRGINIA_PUBLIC_COMPLETENESS.md` | 698cef9ea31c34296f51b9d9f61839df09191f09433cc9c01a2e67721376e43d |

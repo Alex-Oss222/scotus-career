@@ -4,7 +4,7 @@
   "cases": {
     "MAINE": {
       "record": "maine_green_party_v_maine_merits_1999-05-20.md",
-      "sha256": "c308ec82e5326f765bef7cce181ff640e9b4235a43d2531717c6a96b9b3bf39f",
+      "sha256": "f6bfae4f3b2c1690f9ed9e446ba70b93f2ae8d3df51e6a11cb437bac70f255c2",
       "headers": [
         "Event",
         "Participation",
@@ -23,13 +23,16 @@
         {
           "holding": "A refined legal argument does not itself forfeit the original associational claim",
           "words": 150
+        },
+        {
+          "holding": "The preserved associational claim returns for ordinary examination",
+          "words": 191
         }
       ],
       "explanations_within_350": true,
       "private_tokens": [
-        "commitment",
         "approval",
-        "approval"
+        "commitment"
       ],
       "forbidden_links": [],
       "counts": {
@@ -54,12 +57,12 @@
           "Kennedy"
         ]
       },
-      "private_token_review": "All three lexical hits are substantive: exclusive local political commitment and two references to judicial constitutional approval. None is workflow disclosure.",
+      "private_token_review": "Both lexical hits are substantive: a reference to judicial constitutional approval and exclusive local political commitment. Neither is workflow disclosure.",
       "private_boundary_pass": true
     },
     "DENTAL": {
       "record": "california_dental_association_v_ftc_merits_1999-05-24.md",
-      "sha256": "b904f26257ea107ee407f0d58518b6e5e8a9f1e46e18d77129ca06ced0b85298",
+      "sha256": "fab37deac47051561fda774c8965e19c3c3cf9219d4b0c2211fa6803d2b4fa1b",
       "headers": [
         "Event",
         "Participation",
@@ -114,7 +117,7 @@
         "date": "1999-05-20",
         "case": "Maine Green Party v. Maine; First Circuit No. 98-1309.",
         "authors": [
-          "Breyer"
+          "Stevens"
         ]
       },
       "private_boundary_pass": true

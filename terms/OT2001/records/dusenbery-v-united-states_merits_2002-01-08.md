@@ -131,7 +131,7 @@ The recount read each earlier actual Public Projection / Opinion Topology table 
 - Church of Scientology International v. Behar, 2001-11-27: Kennedy.
 - Correctional Services Corp. v. Malesko, 2001-11-27: Stevens.
 - J. E. M. Ag Supply, Inc. v. Pioneer Hi-Bred International, Inc., 2001-12-10: Souter.
-- Schrader v. Blackwell, 2001-12-10: Thomas.
+- Schrader v. Blackwell, 2001-12-10: Stevens.
 - United States v. Knights, 2001-12-10: Scalia.
 
 The Chief assigns from the recorded pool because he joins the judgment; the chosen author fully supports every governing proposition. No judgment-only or partial join is treated as full author eligibility.

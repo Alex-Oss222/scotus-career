@@ -127,7 +127,7 @@ The JSON companion records source paths, exact line locations, classification, a
 | 1999-05-17 | [New Jersey v. New York](../records/new_jersey_v_new_york_implementing_decree_1999-05-17.md) | No | — |
 | 1999-05-17 | [Ruhrgas AG v. Marathon Oil Co](../records/ruhrgas_ag_v_marathon_oil_co_merits_1999-05-17.md) | Yes | Scalia |
 | 1999-05-17 | [Saenz v. Roe](../records/saenz_v_roe_merits_1999-05-17.md) | Yes | Kennedy |
-| 1999-05-20 | [Maine Green Party v. Maine](../records/maine_green_party_v_maine_merits_1999-05-20.md) | Yes | Breyer |
+| 1999-05-20 | [Maine Green Party v. Maine](../records/maine_green_party_v_maine_merits_1999-05-20.md) | Yes | Stevens |
 | 1999-05-24 | [California Dental Association v. Federal Trade Commission](../records/california_dental_association_v_ftc_merits_1999-05-24.md) | Yes | Souter |
 | 1999-05-24 | [Cleveland v. Policy Management Systems Corp](../records/cleveland_v_policy_management_systems_merits_1999-05-24.md) | Yes | Stevens |
 | 1999-05-24 | [Davis v. Monroe County Board of Education](../records/davis_v_monroe_county_board_of_education_merits_1999-05-24.md) | Yes | Ginsburg |
@@ -2096,7 +2096,7 @@ Counted lead: Yes. Author: Kennedy.
 
 Source: [Record](../records/maine_green_party_v_maine_merits_1999-05-20.md).
 
-Counted lead: Yes. Author: Breyer.
+Counted lead: Yes. Author: Stevens.
 
 #### Identity
 
@@ -2106,13 +2106,13 @@ Counted lead: Yes. Author: Breyer.
 
 #### Opinion Authorship
 
-> | Lead opinion announcing the judgment | Breyer | O'Connor, Scalia, Thomas | Supports affirmance | Procedural preservation ground only; no constitutional merits holding. |
+> | Opinion of the Court | Stevens | Stone-Zsela, Kennedy, Souter, Ginsburg | Supports vacatur and remand | Complete opinion: preserved legal organizational-autonomy argument; ordinary factual and constitutional examination on remand, without final merits determination. |
 
 #### Assignment Classification
 
 > **Counted lead opinion:** Yes.
 
-> Signed lead opinion announcing the judgment after post-grant merits consideration of the submitted record; no Supreme Court argument date is supplied.
+> One signed Opinion of the Court after post-grant merits consideration of the submitted record; no Supreme Court argument date is supplied.
 
 ### 1999-05-24 — California Dental Association v. Federal Trade Commission
 

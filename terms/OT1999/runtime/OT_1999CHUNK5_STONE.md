@@ -19,17 +19,17 @@
 ## B. JUDGMENT AND REMEDY
 
 * **Stone's Controlled Judgment or Disposition:** Affirm.
-* **Stone's Remedy and Remand Position:** The Third Circuit's judgment remains in force. Pennsylvania must afford minor parties the same cross-nomination opportunity it affords major parties for the specified offices. Pennsylvania remains free to prohibit fusion for all parties through a neutral rule.
+* **Stone's Remedy and Remand Position:** The Third Circuit's judgment remains in force. Pennsylvania must afford minor parties the same cross-nomination opportunity it affords major parties for the specified offices. Pennsylvania may regulate fusion nominations through neutral rules consistent with Timmons.
 
 ## C. ISSUE POSITIONS
 
 ### Issue 1: Unequal access to fusion
 
 * **Threshold and Merits Reach:** Stone reaches the merits. No separate threshold or vehicle bar identified in Section I prevents decision.
-* **Stone's Legal Position:** Pennsylvania violates equal protection by creating a lawful cross-nomination mechanism and reserving it to major parties while excluding minor parties. Stone adopts the neutral-ban distinction reflected in the time-eligible *Timmons* comparator: a State may prohibit fusion evenhandedly, but it may not reserve a permitted fusion mechanism to major parties without constitutionally sufficient justification. *Anderson-Burdick* governs the burden, and equal protection independently requires justification of the classification.
+* **Stone's Legal Position:** Pennsylvania violates equal protection by creating a lawful cross-nomination mechanism and reserving it to major parties while excluding minor parties. Stone applies the distinction between evenhanded regulation and selective access: under *Timmons* a State may regulate fusion nominations through neutral rules, but it may not reserve a permitted fusion mechanism to major parties without constitutionally sufficient justification. *Anderson-Burdick* governs the burden, and equal protection independently requires justification of the classification.
 * **Stone's Proposed Holding:** A State that permits fusion may not deny that electoral mechanism to minor parties while making it available to major parties without constitutionally sufficient justification for the distinction.
-* **Essential Reasoning and Record Application:** The challenged rule does not merely regulate fusion. It distributes access to an existing electoral mechanism according to party status. The State therefore must defend the unequal allocation, not only show that a neutral ban could be constitutional. Timmons gives Pennsylvania room to choose an evenhanded fusion policy. It does not answer why the State grants the mechanism to major parties but denies it to this party; the unsupported asymmetry is the basis for Stone’s conclusion.
-* **Boundary or Reserved Question:** The holding does not recognize a freestanding right to fusion and does not disturb a neutral, generally applicable anti-fusion rule.
+* **Essential Reasoning and Record Application:** The challenged rule does not merely regulate fusion. It distributes access to an existing electoral mechanism according to party status. The State therefore must defend the unequal allocation, not only show that a neutral rule could be constitutional. Timmons leaves Pennsylvania room to regulate fusion nominations through neutral rules. It does not answer why the State grants the mechanism to major parties but denies it to this party; the unsupported asymmetry is the basis for Stone’s conclusion.
+* **Boundary or Reserved Question:** The holding does not itself recognize a freestanding right to fusion and does not disturb neutral, generally applicable fusion regulation consistent with Timmons.
 ### Issue 2: Scrutiny for burden plus party discrimination
 
 * **Threshold and Merits Reach:** Stone reaches the merits of this issue. No separate threshold or vehicle bar identified in Section I prevents decision.
@@ -40,10 +40,10 @@
 ### Issue 3: Justification for unequal treatment
 
 * **Threshold and Merits Reach:** Stone reaches the merits of this issue. No separate threshold or vehicle bar identified in Section I prevents decision.
-* **Stone's Legal Position:** Pennsylvania must justify the unequal treatment itself. Interests such as avoiding ballot confusion, factionalism, instability, or candidate manipulation may support a uniform anti-fusion rule, but they do not justify allowing major-party fusion while prohibiting minor-party fusion unless the State establishes a materially different danger arising from minor-party cross-nomination.
-* **Stone's Proposed Holding:** A State may prohibit fusion neutrally, but when it permits fusion it must justify any facial party-status distinction governing access to that mechanism.
-* **Essential Reasoning and Record Application:** The record supplies no constitutionally sufficient reason why the asserted election-administration harms require restriction of minor parties but not major parties. The asymmetry therefore fails even though Pennsylvania could adopt an evenhanded prohibition.
-* **Boundary or Reserved Question:** Pennsylvania may replace the discriminatory arrangement with a neutral rule applicable to every party.
+* **Stone's Legal Position:** Pennsylvania must justify the unequal treatment itself. Interests such as avoiding ballot confusion, factionalism, instability, or candidate manipulation may support uniform fusion regulation consistent with Timmons, but they do not justify allowing major-party fusion while prohibiting minor-party fusion unless the State establishes a materially different danger arising from minor-party cross-nomination.
+* **Stone's Proposed Holding:** A State may regulate fusion nominations through neutral rules consistent with Timmons, but when it permits fusion it must justify any facial party-status distinction governing access to that mechanism.
+* **Essential Reasoning and Record Application:** The record supplies no constitutionally sufficient reason why the asserted election-administration harms require restriction of minor parties but not major parties. The asymmetry therefore fails even though Pennsylvania could adopt evenhanded fusion regulation.
+* **Boundary or Reserved Question:** Pennsylvania may replace the discriminatory arrangement with a neutral rule applicable to every party and consistent with Timmons.
 
 # STONE PRE-VOTE CASE BRIEF
 

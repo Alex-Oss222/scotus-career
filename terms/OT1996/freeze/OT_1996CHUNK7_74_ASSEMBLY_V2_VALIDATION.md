@@ -42,7 +42,7 @@ The event creates no merits holding or published noncontrolling position. All en
 | `freeze/OT_1996CHUNK7_74_RECONCILED.md` | `0b200f891af05e297d2a0a18c40cbc8ebe22ba2f5dbffd159f99c2af67502b32` |
 | `entering-law/OT_1996CHUNK7_74_ENTERING_LAW.md` | `66d0c5ae28283241f90bb6102957938cc5b56a1fd56711bb7f9b914b80d15510` |
 | `runtime/OT_1996CHUNK7_74_STONE_V2.md` | `0d64e3487ecedfc956db0e5d2dcb0ef37288e966737b0ada87355475bf1591f1` |
-| `freeze/OT_1996CHUNK7_74_STONE_V2_COPY_RECEIPT.json` | `c05aba06c8f81cf7ab79d4b0c313a51cb957cfc38264787bb4add4662710cf3f` |
+| `freeze/OT_1996CHUNK7_74_STONE_V2_COPY_RECEIPT.json` | `a9364f765b6cb83d1882e9b3790253cc62ff4a6116aeb769492aab4d974e91e0` |
 | `freeze/OT_1996CHUNK7_74_ASSEMBLY_STOP.md` | `c47474ad3313a86c6db5d1fed072479bca3582fd7b731dd8c3435446d387fff1` |
 
 ## Limits and integration status

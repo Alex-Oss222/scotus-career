@@ -25,7 +25,7 @@
         "| Opinion of the Court | Souter | O'Connor, Scalia, Kennedy and Thomas throughout; Stone-Zsela in Parts I–II; Stevens, Ginsburg and Breyer in Part III | Parts I–II support reversal of status reopening; Part III returns the unresolved vessel appeal | Parts I–II: fleet and status; Part III: independent appeal. Six joins to Parts I–II, eight to Part III. |"
       ],
       "assignment_recount_path": "terms/OT1996/freeze/OT_1996CHUNK7_80_ASSIGNMENT_RECOUNT.json",
-      "assignment_recount_sha256": "efa21f9aab9742b575c5b8ead57ab58b1eaa591e338db54696d14c968e2611e2",
+      "assignment_recount_sha256": "1ce0602c157d4dc11b3a8deac6b4fd2a44061e339b4565ac241d46612cfeea08",
       "assignment_recount_reverified_against_current_tables": "pass",
       "post_assignment_counts": {
         "Stone-Zsela": 6,
@@ -62,7 +62,7 @@
         "| Opinion of the Court | Ginsburg | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer throughout; Stone-Zsela in Part I | Part I supplies the unanimous coverage rule; Part II supports the eight-Justice vacatur | Part I: statutory coverage and limits. Part II: remand, reservations and unaffected claims. |"
       ],
       "assignment_recount_path": "terms/OT1996/freeze/OT_1996CHUNK7_81_ASSIGNMENT_RECOUNT.json",
-      "assignment_recount_sha256": "d1a0ac0c6f0008170de95c6366def62ef36f7ba96b6f69e996c2e2bc3691811d",
+      "assignment_recount_sha256": "5b23665aa90f9ae2b4d0d37fa926a5b8b90882d720e2de3e4ef01ff99bd0fe69",
       "assignment_recount_reverified_against_current_tables": "pass",
       "post_assignment_counts": {
         "Stone-Zsela": 6,
@@ -101,7 +101,7 @@
         "| Opinion of the Court | Stone-Zsela | Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer throughout; Scalia in Parts I and IV | Affirms through the independent fourth condition | I: error/forfeiture; II: intervening-law plainness; III: assumption and classification reservation; IV: discretionary refusal to correct. |"
       ],
       "assignment_recount_path": "terms/OT1996/freeze/OT_1996CHUNK7_82_ASSIGNMENT_RECOUNT.json",
-      "assignment_recount_sha256": "ed3351179dea166c7c4793fecedb87ce6620dffbb4b2cd86e483d9b200b8ddc5",
+      "assignment_recount_sha256": "97fc4864d07c95c91584f18a51b4e3a320301c88e73580008dc351fca077ae99",
       "assignment_recount_reverified_against_current_tables": "pass",
       "post_assignment_counts": {
         "Stone-Zsela": 7,
@@ -140,7 +140,7 @@
         "| Opinion of the Court in its respective Parts | Stevens | Souter, Ginsburg and Breyer throughout; Scalia, Kennedy and Thomas in I; O'Connor in II and III; Stone-Zsela in III-A | I decides to reach Teague; II rejects the new-rule bar; III-A orders common vacatur/default remand; III-B adds the binding old-rule instruction | Seven direct joins to I; five to II and III-B; six to III-A; no five join every Part. |"
       ],
       "assignment_recount_path": "terms/OT1996/freeze/OT_1996CHUNK7_83_ASSIGNMENT_RECOUNT.json",
-      "assignment_recount_sha256": "68079c2f0d8a6e9e9e95ca60cc95ea80084c9341eaba8a6e35103be7cfc78906",
+      "assignment_recount_sha256": "586f380e558f8192622f4da099135a717e426c109f9013290dfb63e96322534c",
       "assignment_recount_reverified_against_current_tables": "pass",
       "post_assignment_counts": {
         "Stone-Zsela": 7,

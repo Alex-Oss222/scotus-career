@@ -86,7 +86,7 @@ The census was reconstructed from current term Records through June 9, 1997, alp
 | 78 | [Pic_A_State_Pennsylvania_v_Reno_merits_1997-04-28.md](../records/Pic_A_State_Pennsylvania_v_Reno_merits_1997-04-28.md) | Kennedy | signed lead after plenary review |
 | 79 | [Richards_v_Wisconsin_merits_1997-04-28.md](../records/Richards_v_Wisconsin_merits_1997-04-28.md) | Breyer | signed lead after plenary review |
 | 80 | [Strate_v_A_1_Contractors_merits_1997-04-28.md](../records/Strate_v_A_1_Contractors_merits_1997-04-28.md) | Scalia | signed lead after plenary review |
-| 81 | [Timmons_v_Twin_Cities_Area_New_Party_merits_1997-04-28.md](../records/Timmons_v_Twin_Cities_Area_New_Party_merits_1997-04-28.md) | Thomas | signed lead after plenary review |
+| 81 | [Timmons_v_Twin_Cities_Area_New_Party_merits_1997-04-28.md](../records/Timmons_v_Twin_Cities_Area_New_Party_merits_1997-04-28.md) | Stone-Zsela | signed lead after plenary review |
 | 82 | [Doe_v_SEPTA_merits_1997-05-05.md](../records/Doe_v_SEPTA_merits_1997-05-05.md) | Kennedy | signed lead after plenary review |
 | 83 | [Harbor_Tug_and_Barge_v_Papai_merits_1997-05-12.md](../records/Harbor_Tug_and_Barge_v_Papai_merits_1997-05-12.md) | Souter | signed lead after plenary review |
 | 84 | [Inter_Modal_Rail_Employees_v_Atchison_merits_1997-05-12.md](../records/Inter_Modal_Rail_Employees_v_Atchison_merits_1997-05-12.md) | Ginsburg | signed lead after plenary review |

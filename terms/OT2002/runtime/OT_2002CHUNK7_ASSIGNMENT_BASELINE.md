@@ -51,7 +51,7 @@ These counts apply only to the stated cutoff. Recount before each later assignme
 | 2003-01-27 | Konop v. Hawaiian Airlines, Inc.; Ninth Circuit No. 99-55106; judgment below, 302 F.3d 868; October Term 2002. | Stone-Zsela | Yes | Konop-v-Hawaiian-Airlines-Inc_merits_2003-01-27.md |
 | 2003-02-24 | Planned Parenthood of the Rocky Mountains Services, Corp. v. Owens; review of 287 F.3d 910; Tenth Circuit No. 00-1385 | Souter | Yes | Planned-Parenthood-of-the-Rocky-Mountains-v-Owens_merits_2003-02-24.md |
 | 2003-02-25 | California First Amendment Coalition v. Woodford; judgment below, 299 F.3d 868; October Term 2002. | Breyer | Yes | California-First-Amendment-Coalition-v-Woodford_merits_2003-02-25.md |
-| 2003-02-25 | Cartwright v. Barnes; judgment below, 304 F.3d 1138; October Term 2002. | Thomas | Yes | Cartwright-v-Barnes_merits_2003-02-25.md |
+| 2003-02-25 | Cartwright v. Barnes; judgment below, 304 F.3d 1138; October Term 2002. | Souter | Yes | Cartwright-v-Barnes_merits_2003-02-25.md |
 | 2003-02-25 | Harvey v. Horan; Fourth Circuit No. 01-6703; 278 F.3d 370 and 285 F.3d 298; October Term 2002. | O'Connor | Yes | Harvey-v-Horan_merits_2003-02-25.md |
 | 2003-02-25 | Miller-El v. Cockrell; No. 01-7662; October Term 2002. | Ginsburg | Yes | Miller-El-v-Cockrell_merits_2003-02-25.md |
 | 2003-02-25 | Washington State Department of Social and Health Services v. Guardianship Estate of Keffeler; No. 01-1420; October Term 2002. | Stevens | Yes | Washington-State-DSHS-v-Guardianship-Estate-of-Keffeler_merits_2003-02-25.md |
@@ -838,22 +838,22 @@ Breyer delivers the opinion of the Court, joined in full by Stone-Zsela, Stevens
 
 **Record:** Cartwright-v-Barnes_merits_2003-02-25.md
 
-**Counted lead author(s):** Thomas
+**Counted lead author(s):** Souter
 
 ### Assignment statement
 
-**Assignment:** Stone assigns Part I to Thomas; O'Connor, the senior Associate in Part II's five-Justice judgment coalition, assigns Part II to Thomas. All nine fully support Part I, with eligible minimum 3 and binding pool Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer at counts 3–4. Part II's eligible authors are O'Connor, Scalia, Kennedy, Thomas and Breyer; all are in its minimum-3/ceiling-4 pool, although balance does not bind the Associate assignment. The common whole-opinion eligible set is those five. Thomas's Timmons opinion supplies concrete fit for preserving contextual review while explaining why this complete support-screening system warrants dismissal. Stone's Part I choice also preserves the distinction between actual personal qualification and administration without adopting disputed broader source theories. O'Connor's own Burdick and Timmons joins support selecting that application-focused author. One lead opinion counts once for Thomas.
+**Assignment:** Stone assigns Part I and Part II to Souter. All nine fully support Part I, with eligible minimum 3 and binding pool Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer at counts 3–4. Part II's eligible authors are the members of its five-Justice judgment coalition, Stone-Zsela, Stevens, Souter, Ginsburg and Breyer, and its minimum-3/ceiling-4 pool is Stone-Zsela, Stevens, Ginsburg and Breyer; the common whole-opinion eligible set is those five. Souter, at 5, is selected for both parts. Expansion governs Part II: Breyer's necessary fifth join depends on a formulation that tests the pleaded combination under Anderson's calibrated scale while keeping Georgia's verification within ordinary administration. Souter's remand position states that accommodation, and his Norman opinion on support measured in the relevant electorate and his Wood opinion on genuine fit equip him to state the three levels the opinion requires. Stone is the strongest alternative, but his support presumption would not carry Stevens, Ginsburg or Breyer, and Souter's authorship keeps it in Stone's separate concurrence. The same author carries Part I's classification without dividing the opinion. One lead opinion counts once for Souter.
 
 ### Opinion Topology
 
-Thomas delivers the opinion of the Court.
+Souter delivers the opinion of the Court.
 
 | Writing or part | Joins | Relationship to judgment |
 |---|---|---|
-| Thomas, Part I: qualifications | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg, Breyer | Unanimous controlling qualifications holding. |
-| Thomas, Part II: practical access | O'Connor, Scalia, Kennedy, Breyer | Five-Justice controlling access holding. |
-| Souter, concurring in part and dissenting in part | Stevens, Ginsburg | Joins Part I; would vacate and remand Part II. |
-| Stone-Zsela, separately concurring in part and dissenting in part | No joins | Joins Part I; would vacate and remand Part II with his stated remedial conditions. |
+| Souter, Part I: qualifications | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | Unanimous controlling qualifications holding. |
+| Souter, Part II: practical access | Stone-Zsela, Stevens, Ginsburg, Breyer | Five-Justice controlling access holding; vacatur and remand. |
+| Stone-Zsela, concurring | No joins | Joins the opinion in full; adds a rebuttable one-percent or 10,000-signature presumption of meaningful support and his stated remedial conditions. |
+| Thomas, concurring in part and dissenting in part | O'Connor, Scalia, Kennedy | Joins Part I; would affirm dismissal of the access claim. |
 
 ## Harvey v. Horan; Fourth Circuit No. 01-6703; 278 F.3d 370 and 285 F.3d 298; October Term 2002.
 

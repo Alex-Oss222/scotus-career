@@ -6,7 +6,7 @@ This formatting completion changes no premise of any later decision. The final a
 
 | Artifact | SHA256 |
 |---|---|
-| Saved pre-completeness Record | 4c2c4d5e924c3493772584558bfc00843d112b8426a26a4791e30a7ff5d4d6da |
+| Saved pre-completeness Record | ea16d435b00742e7af83bc40c421ef95758627d14a0f9c5af651687c5027b713 |
 | Preserved original public snapshots | 11cfce9dfa6bf3c43d8d587fa30346240747d141db3629615eb8a7ca7baa007b |
-| Final Record | ba4a9893e6f7bf6baabd02bf00f369949b93e1ad20eeef261333b07ad4839056 |
+| Final Record | b30fee75325c9c8760f1f55d986ba552ccc8ae3a574f8c16975e153bff8ce4e9 |
 | New public completeness twins | c6ed05d20c76f4e5e87e2c351ea7ae0f61e396e17100c5242013b2b81ea14d9b |

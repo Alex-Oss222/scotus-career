@@ -93,7 +93,7 @@ The linked Records are incorporated as the adjudicative source. Ordering same-da
 | 2000-03-29 | [City of Erie v. Pap's A.M.; No. 98-1161.](../records/city-of-erie-v-paps-am_merits_2000-03-29.md) | `f339cee9ad1800dea762364a2cfcf85e5b63c39f3fae091f929f1032f19b25a7` |
 | 2000-04-03 | [Free v. Abbott Laboratories, Inc.; No. 99-391; judgment below, 176 F.3d 298 (5th Cir. 1999).](../records/free-v-abbott-laboratories_merits_2000-04-03.md) | `acb4fdabf2edb788265f0395e5fbe384c9099b4ce9f497589d4c42a44532d88f` |
 | 2000-04-03 | [Powell v. Ridge; review of 189 F.3d 387 (3d Cir. 1999); no Supreme Court docket supplied.](../records/powell-v-ridge_merits_2000-04-03.md) | `868cfa7ebe44e7357b3a27281955c0b62b818a4064e91c786e68647529989ed2` |
-| 2000-04-10 | [Reform Party of Allegheny County v. Allegheny County Department of Elections; review of Third Circuit Nos. 96-3677 and 97-3359.](../records/reform-party-v-allegheny-county_merits_2000-04-10.md) | `2a8c20a3004e68ae4e91904aa87601e889f84262b8abd926abba6c7548693a25` |
+| 2000-04-10 | [Reform Party of Allegheny County v. Allegheny County Department of Elections; review of Third Circuit Nos. 96-3677 and 97-3359.](../records/reform-party-v-allegheny-county_merits_2000-04-10.md) | `5774a15ca881e84ae961ce89436c3b71ce06349af8228962360ccec315af18f8` |
 | 2000-04-17 | [Bond v. United States; No. 98-9349.](../records/bond-v-united-states_merits_2000-04-17.md) | `a90097b16a59944d986d6465630703d90e313d67f624317658b5ac8475b462d9` |
 | 2000-04-17 | [Gillespie v. City of Indianapolis; No. 99-626.](../records/gillespie-v-city-of-indianapolis_merits_2000-04-17.md) | `4319e7eed80567a88af6010e3b43788420503305fd659d4cebfda0f6fab69c12` |
 | 2000-04-17 | [Norfolk Southern Railway Co. v. Shanklin; No. 99-312.](../records/norfolk-southern-railway-co-v-shanklin_merits_2000-04-17.md) | `43c947090fc17d824b4a729cd13d9d3fcc28fbcb487090b06d581933e01f5dd2` |
@@ -140,7 +140,7 @@ The linked Records are incorporated as the adjudicative source. Ordering same-da
 | 2000-06-19 | [Miller v. French / United States v. French; Nos. 99-224 and 99-582.](../records/miller-v-french-united-states-v-french_merits_2000-06-19.md) | `c5d46c223d20dfb9c430e182554258358e7e9665ccdd1f23d1737b8b9684bb44` |
 | 2000-06-19 | [Santa Fe Independent School District v. Doe; No. 99-62.](../records/santa-fe-independent-school-district-v-doe_merits_2000-06-19.md) | `1eac27e629ee8186f43b9db82c27b55f99ae2c088866d423a91814bf7e2547bb` |
 | 2000-06-26 | [Apprendi v. New Jersey; No. 99-478.](../records/apprendi-v-new-jersey_merits_2000-06-26.md) | `d0142e64e2ef12989dd83764e8c68567149c017eba9030168072d1803cf7b6ca` |
-| 2000-06-26 | [California Democratic Party v. Jones; No. 99-401.](../records/california-democratic-party-v-jones_merits_2000-06-26.md) | `28df06b06bf6fbfcbfd86d20a4a6e871e2b956c12082fb0ddde780fdb9fb56b5` |
+| 2000-06-26 | [California Democratic Party v. Jones; No. 99-401.](../records/california-democratic-party-v-jones_merits_2000-06-26.md) | `d8333f754d47ae6386863895cf2abed2a04d69246be42befdf9ac80bf3edc5cb` |
 | 2000-06-26 | [Dickerson v. United States; No. 99-5525.](../records/dickerson-v-united-states_merits_2000-06-26.md) | `475b4442e33949521a62e19bdfb4855c5630036e6fb27fa08d42deed32adab97` |
 | 2000-06-26 | [Henerey v. City of St. Charles, School District; Eighth Circuit No. 98-3439.](../records/henerey-v-city-of-st-charles-school-district_merits_2000-06-26.md) | `52f87d5afb65e2d5e4c0e26d81bb302582190d1a55917b4afb2c2a54873d2730` |
 | 2000-06-26 | [Mobil Oil Exploration & Producing Southeast, Inc. v. United States / Marathon Oil Co. v. United States; Nos. 99-244 and 99-253.](../records/mobil-oil-marathon-v-united-states_merits_2000-06-26.md) | `72f8d18453abc68e2a88949a0c49be3125c1278975fb800e9adece49f6cfaab7` |
@@ -178,11 +178,11 @@ Source provenance and temporal limits:
 | 2 | 12 | [OT_1999CHUNK2](../output/OT_1999CHUNK2.md) | `74d1df12089003cd5a36b47e4117aef5935a0af02e51797c1e9dfcfd306ae8e0` |
 | 3 | 12 | [OT_1999CHUNK3](../output/OT_1999CHUNK3.md) | `cf3f8ccd1a4215613bf2c39ee2ac7985ab1f4a0386604e975a9758c836b76885` |
 | 4 | 12 | [OT_1999CHUNK4](../output/OT_1999CHUNK4.md) | `29c7648fcf9e3fc6d234b254e3297f8c8404b1b33683bfbdb3b63f1423ff7ef9` |
-| 5 | 12 | [OT_1999CHUNK5](../output/OT_1999CHUNK5.md) | `0aab19a8cbe72112e70d5a6cdcfcea0c7fd48ec22867e9e0100d2164f6e641f5` |
+| 5 | 12 | [OT_1999CHUNK5](../output/OT_1999CHUNK5.md) | `426b8ea03c95c2b02c518d0394f07747f99078eecdeceb42fd3a41fef6a46017` |
 | 6 | 12 | [OT_1999CHUNK6](../output/OT_1999CHUNK6.md) | `c3e634a5f0677dc5ee8ab3842db17c179acc217f5e566182eae68158f8aa30ee` |
 | 7 | 12 | [OT_1999CHUNK7](../output/OT_1999CHUNK7.md) | `69ba2da2dba6d772dd6ca5227214b31825d0dcb1676a1d599f2435a680efa4ca` |
 | 8 | 12 | [OT_1999CHUNK8](../output/OT_1999CHUNK8.md) | `37160b3dc7a2c21312de76ccbc22a2fa11839fe5ee18ca5a53455378a529a2fc` |
-| 9 | 8 | [OT_1999CHUNK9](../output/OT_1999CHUNK9.md) | `05107bc77bbc5c481e7d68be8ed54ef86f43ceab57ae4a7f2117c2d98bd70759` |
+| 9 | 8 | [OT_1999CHUNK9](../output/OT_1999CHUNK9.md) | `2af8853f7bdd32755be5d819e8ac395e001949151ea5ad9d130f3394fe19aee1` |
 
 ## Generated navigation
 

@@ -16,11 +16,11 @@
                    },
                    {
                        "path":  "terms\\OT1998\\freeze\\OT_1998CHUNK6_A_NEUTRAL.md",
-                       "sha256":  "C884F2680D78D645F2096B32D31D792F61E4578882B09D28F77D84869929DAEA"
+                       "sha256":  "89D365CEEA8C924AABCA70214695167B51E33EE905B6D74F1AF465257C1188D3"
                    },
                    {
                        "path":  "terms\\OT1998\\freeze\\OT_1998CHUNK6_A_NEUTRAL_SUPPLEMENT.md",
-                       "sha256":  "A39AB973DCA779C7CB9A5A9B91097D7278AF7A8A21E28ABFABFA28E3BBD4E7C5"
+                       "sha256":  "D3A4076B20EEA14C0E7C5396E5F9EA0E7238AEEFF1EADC693EA94D48BC146021"
                    },
                    {
                        "path":  "terms\\OT1998\\runtime\\OT_1998CHUNK6_A_COMPARATOR.md",
@@ -28,15 +28,15 @@
                    },
                    {
                        "path":  "terms\\OT1998\\entering-law\\OT_1998CHUNK6_A_SELECTED_HOLDINGS.md",
-                       "sha256":  "C4EF662D2E5FE93BD4FE093387A711FED1C894E9552A2B36F97CCE78F9B857E5"
+                       "sha256":  "BF4AAC8D6107985E7C8CDCF666074C5D94DCD814468FD29833661054061D723F"
                    },
                    {
                        "path":  "terms\\OT1998\\entering-law\\OT_1998CHUNK6_A_SELECTED_STANDARDS.md",
-                       "sha256":  "EF7EB4049D2A616BF48BB6ED9BAF004460F0160993112167EC76C32F90B6E957"
+                       "sha256":  "639872581249E9410BEE8C30AE314790B4F1E3FD190B373E392E80A87B6BE98F"
                    },
                    {
                        "path":  "terms\\OT1998\\entering-law\\OT_1998CHUNK6_A_PUBLISHED_POSITIONS.md",
-                       "sha256":  "1809D7F19E600A782F1A23B8CA7DD803CC0027DDD315F6A07FD9A76AF2F06DCB"
+                       "sha256":  "563D64163EE419BC08E36671B77C77336F8C161A013037A61A89A1FEA189EAEF"
                    },
                    {
                        "path":  "terms\\OT1998\\entering-law\\OT_1998CHUNK6_MONGE_PUBLIC.md",
@@ -48,7 +48,7 @@
                    },
                    {
                        "path":  "terms\\OT1998\\entering-law\\OT_1998CHUNK6_A_CURRENT_PUBLIC.md",
-                       "sha256":  "1FDA669BB7151CA0391F173BCB2697C0C75B76D061321D8758C86D167D967515"
+                       "sha256":  "8A8F37171FC63B0800C182A44818C6BA2F431F7643698326E2D45E235EEDA911"
                    },
                    {
                        "path":  "terms\\OT1998\\entering-law\\OT_1998CHUNK6_EFFECTIVE_THROUGH_MARCH23.md",

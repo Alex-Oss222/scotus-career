@@ -44,7 +44,7 @@ For the election-mootness holding in Norman v. Reed, decided January 14, 1992, N
 
 **Holding:** A court must weigh the character and magnitude of the injury to First and Fourteenth Amendment rights against the State's precise asserted interests and the extent to which they require the burden. Severe restrictions must be narrowly drawn to advance a compelling interest; reasonable, nondiscriminatory restrictions ordinarily are justified by important regulatory interests, so strict scrutiny does not govern every election rule.
 
-**Proposition-level authority:** White's opinion of the Court, joined by O'Connor, Scalia, Souter and Thomas; five Justices control the complete rule. Kennedy's dissent, joined by Blackmun and Stevens, and Stone's dissent also accept the calibrated framework without making their contrary application controlling.
+**Proposition-level authority:** Stone's opinion of the Court, joined by Blackmun, Stevens, Kennedy and Souter; five Justices control the complete rule. White's dissent, joined by O'Connor, Scalia and Thomas, also accepts the calibrated framework without making its contrary application controlling.
 
 **Material application:** A write-in prohibition must be examined with the available routes to ballot access and its role in the selection system. Neither the prohibition alone nor the general need for election administration decides the burden.
 
@@ -54,29 +54,29 @@ For the election-mootness holding in Norman v. Reed, decided January 14, 1992, N
 
 ##### Whether Hawaii's complete write-in prohibition is valid within the ballot-access system reviewed
 
-**Holding:** Where the complete ballot-access system imposes only reasonable burdens, a write-in prohibition is presumptively valid and may be sustained by proportionate state interests. Hawaii's party and nonpartisan routes provide adequate access, and its prohibition validly supports primary finality, prevention of sore-loser candidacies and party raiding, and its treatment of uncontested primaries.
+**Holding:** When a State closes its ordinary nomination routes before voters can respond, it must leave an effective route by which voters may support a genuine, legally eligible alternative candidate; a reasonable registered write-in procedure is one such route, and the State may require eligibility, the candidate's consent and declaration, and a reasonable registration date. Hawaii's complete prohibition leaves no such route within its reviewed system, and its interests in primary finality, sore-loser prevention, party raiding and uncontested primaries do not justify that full reach. The prohibition is invalid as applied to genuine eligible candidates.
 
-**Proposition-level authority:** White's opinion of the Court, joined by O'Connor, Scalia, Souter and Thomas; five Justices support both the rationale and affirmance. Stone, Blackmun, Stevens and Kennedy disagree with this application.
+**Proposition-level authority:** Stone's opinion of the Court, joined by Blackmun, Stevens, Kennedy and Souter; five Justices support both the rationale and reversal. White, O'Connor, Scalia and Thomas disagree with this rule and its application and would affirm.
 
-**Current force:** Remains controlling for the complete access system reviewed and its reasonable burdens.
+**Current force:** Controls write-in prohibitions that operate after ordinary nomination routes close, as applied to genuine, legally eligible alternative candidates.
 
-**Material application:** New parties need one percent of registered-voter signatures 150 days before the primary; qualifying established parties retain access. Candidates need 15 signatures for legislative or county offices, or 25 for statewide or federal offices, 60 days before the primary. Nonpartisan candidates advance with ten percent of the primary vote or the votes sufficient to nominate a partisan candidate, whichever is lower; voters choose one party or nonpartisan primary ballot for all offices. These combined routes and restrictions support the limited-burden finding. Lawful selection deadlines need not accommodate every later preference.
+**Material application:** New parties need one percent of registered-voter signatures 150 days before the primary; qualifying established parties retain access. Candidates need 15 signatures for legislative or county offices, or 25 for statewide or federal offices, 60 days before the primary. Nonpartisan candidates advance with ten percent of the primary vote or the votes sufficient to nominate a partisan candidate, whichever is lower; voters choose one party or nonpartisan primary ballot for all offices. The small filing requirements favor Hawaii, but every ordinary route closes before the primary, and the all-office ballot choice and advancement conditions govern how an alternative reaches the deciding election. Burdick faced an actual single-candidate contest. Sore-loser prevention cannot explain a primary ban, anti-raiding interests do not justify excluding genuine support for a candidate on the selected primary ticket, and an uncontested-winner rule leaves no general-election ballot to protect.
 
-**Limits and questions not reached:** Both primary and general-election applications within this system are reached. The Court does not independently validate every surrounding access rule or decide a prohibition within materially more restrictive access rules. Candidate qualifications and reasonable write-in procedures elsewhere remain open; no absolute write-in right or guarantee of competitive races is created.
+**Limits and questions not reached:** Both primary and general-election applications within this system are reached. The Court does not independently invalidate any surrounding access rule or prescribe statewide filing, certification or counting machinery or a ballot form. Valid candidate qualifications, narrow anti-raiding and sore-loser restrictions, the design of a qualifying route and other States' materially different systems remain open; no absolute write-in right, guarantee of competitive races or entitlement to every late candidacy is created, and no new scrutiny tier is adopted.
 
-**Operative remedy or transition:** Affirm the Ninth Circuit; its reversal of the district court's injunction remains effective. No prospective injunction or replacement election-administration scheme issues.
+**Operative remedy or transition:** Reverse the Ninth Circuit and remand for prospective relief confined to votes for legally eligible, genuine alternative candidates. Hawaii chooses the qualifying route, and a reasonable registered write-in procedure suffices. This Court does not itself reinstate the district court's injunction; no special election, reopening of completed elections, or prescribed counting mechanism or ballot form issues.
 
-**Treatment of earlier authority:** *Jenness v. Fortson*, 403 U.S. 431, permits reasonable demonstrations of support. *Munro v. Socialist Workers Party*, 479 U.S. 189, permits primary winnowing and preventive regulation without proof of a particular past disruption. *Storer v. Brown*, 415 U.S. 724, supports primary finality and restrictions against circumvention. *Anderson v. Celebrezze*, 460 U.S. 780, governs this limited-burden application; the decision creates no exception to its inquiry. *Norman v. Reed*, January 14, 1992, retains protection against unjustified party-name and cross-component disqualification.
+**Treatment of earlier authority:** *Anderson v. Celebrezze*, 460 U.S. 780, requires examining the prohibition's own contribution to the asserted interests; the independent validity of surrounding rules supplies no presumption. *Storer v. Brown*, 415 U.S. 724, supports primary finality and sore-loser prevention but not this ban's full reach. *Jenness v. Fortson*, 403 U.S. 431, permits reasonable demonstrations of support. *Munro v. Socialist Workers Party*, 479 U.S. 189, excuses proof of past disruption, not a showing of fit. *Rosario v. Rockefeller*, 410 U.S. 752, permits timely measures against raiding. *Lubin v. Panish*, 415 U.S. 709, is consistent: a write-in option is neither an automatic cure nor the only qualifying route. *Norman v. Reed*, January 14, 1992, retains protection against unjustified party-name and cross-component disqualification.
 
 ##### Whether the Constitution requires the State to count and publish fictional candidates or arbitrary protest messages
 
 **Holding:** The First and Fourteenth Amendments do not require a State to count and publicize write-in votes for fictional figures or arbitrary protest messages as an independent form of expression. Elections select public officials, and a desire to use the ballot for such messages does not create an entitlement to a write-in option.
 
-**Proposition-level authority:** White's opinion, joined by O'Connor, Scalia, Souter and Thomas, controls. Kennedy's dissent, joined by Blackmun and Stevens, and Stone's dissent expressly agree on rejection of this broader claim; all nine support the component without issuing a joint opinion.
+**Proposition-level authority:** Stone's opinion, joined by Blackmun, Stevens, Kennedy and Souter, controls. White's dissent, joined by O'Connor, Scalia and Thomas, expressly agrees on rejection of this broader claim; all nine support the component without issuing a joint opinion.
 
-**Limits and questions not reached:** A genuine interest in supporting an actual alternative candidate requires the contextual access analysis separately stated above. Political expression outside the ballot and every restriction on eligible candidates in a different system are not decided.
+**Limits and questions not reached:** A genuine interest in supporting an actual alternative candidate is protected by the effective-route holding separately stated above, and relief is confined to that interest. Political expression outside the ballot is not decided.
 
-**Operative remedy or transition:** Reject the arbitrary-message tally claim; it supplies no independent ground for relief from the prohibition.
+**Operative remedy or transition:** Reject the arbitrary-message tally claim; it supplies no independent ground for relief, and relief on the electoral-choice claim does not extend to votes for fictional figures or protest messages.
 
 **Treatment of earlier authority:** *Storer v. Brown*, 415 U.S. 724, supplies the office-selecting function of elections; the ballot is not a general expressive forum. *Anderson v. Celebrezze*, 460 U.S. 780, protects electoral participation without requiring an arbitrary-message tally.
 
@@ -87,27 +87,27 @@ For the election-mootness holding in Norman v. Reed, decided January 14, 1992, N
 
 For the separate questions in Timmons v. Twin Cities Area New Party, 1997-04-28, see Federal Courts — Mootness and conditional reenactment.
 
-##### This limitation is justified within the complete nomination system
+##### The categorical ban is not justified as applied to this consenting nomination
 
-**Holding:** Minnesota may prevent this otherwise qualified minor party from placing its consenting nominee on the ballot under its name when he also seeks or holds the other major party's nomination, where the complete system leaves the candidate available and the party able to nominate other candidates, endorse and campaign. In this application the burden is less than severe and proportionate interests in ballot integrity, defined nomination choices and a stable electoral system justify the restriction under Anderson and Burdick.
+**Holding:** Minnesota may not apply its categorical prohibition to prevent this qualified minor party from timely nominating a consenting, eligible candidate, and having that nomination officially recognized on the ballot, merely because he also seeks or holds another party's nomination. In this application the burden on the Party's candidate selection and on its members' ability to vote for their nominee under its name is substantial but not severe, and the interests in ballot integrity, defined nomination choices and a stable electoral system, though legitimate, are not shown to require the ban under Anderson and Burdick. When a qualified party genuinely nominates an eligible, consenting candidate, the State must provide a meaningful official means of recognizing that nomination; it may regulate ballot presentation through separate party lines or a single consolidated listing, require consent and prevent any ballot from being counted more than once.
 
-**Proposition-level authority:** Thomas's Part II, joined by O'Connor, Scalia, Kennedy and Breyer; five direct joins.
+**Proposition-level authority:** Stone-Zsela's Part II, joined by Stevens, Kennedy, Souter and Ginsburg; five direct joins.
 
 **Limits and questions not reached:** The challenged 1994 §204B.06 subdivision 1(b) barred an affidavit when another affidavit was on file for any office at the same primary or next general election. Section 204B.04 subdivision 2 barred petition nomination for the same office by a primary candidate, subject to two distinct exceptions. Under §204D.10 subdivision 2, if any major-party primary candidate received ten percent of the average vote for the party's state officers at the last state general election in the relevant district, its highest-vote candidates became nominees; if none met that threshold, none were nominated and all could seek petition nomination under §§204B.07–.09. The relevant state officers were governor, lieutenant governor, secretary of state, state auditor, state treasurer and attorney general. The §204B.13 subdivision 4 nonpartisan-vacancy exception allowed a petition within one week of the vacancy and no later than four calendar days before election; an eligible voter could sign despite voting in the primary or signing another petition. Neither exception applied to Dawkins. The distinct ban on nomination by two major parties is not decided.
 
 The conditional replacement permitted a major-party and one-or-more-minor-party nomination for the same partisan office with written consent of the parties' state chairs; petition nomination also required the candidate's written consent. Losing the major-party primary forfeited the simultaneous minor-party nominations, and a party candidate could not also file as an independent. It retained the nonpartisan-vacancy exception, barred a defeated major-party primary candidate except to fill a §204B.13 vacancy, and repealed the old primary-turnout provision. Its affidavit rule referred to any other office, required petition acceptance and the consent forms, and contained a distinct dual-office exception for a soil-and-water district supervisor outside Anoka, Hennepin, Ramsey and Washington counties and a mayor/council or town-supervisor office in a city or town of no more than 2,500 people wholly or partly within the district. That different-office exception is not fusion. A multiply nominated candidate's name appeared once with party names; major/minor nomination used the major-party position and multiple-minor nomination the first filing party's position. Votes for multiply nominated candidates were excluded from the specified party-status qualification or retention counts. These features neither establish compliance in this case nor receive independent constitutional approval.
 
-The Court recognizes no right to duplicate votes, separate party vote totals or a particular ballot design and adjudicates no independent challenge to consent, counting, format, support or deadline rules.
+The Court recognizes no right to duplicate votes, separate party vote totals or a particular ballot design, decides no party-specific counting rule, and adjudicates no independent challenge to consent, counting, format, support, deadline or sore-loser rules. Whether a demonstrated threat to effective governing, connected to fusion, could justify a narrower limit is reserved; a required other-party consent, the independent validity of chapter 419's conditions and the distinct two-major-party prohibition are not decided.
 
-**Treatment of earlier authority:** Anderson and Burdick retain contextual burden, precise interest and fit review. Norman's authorized expansion and independent-candidate protections and Colorado Republican's independent campaign speech remain distinct. Tashjian and Eu protect association without compelling every ballot mechanism; Storer, Jenness and Munro permit reasonable preventive selection rules without proof of past disruption. No voter-incapacity premise, incumbent-protection rationale, pure rational-basis rule or universal anti-fusion approval is adopted.
+**Treatment of earlier authority:** Anderson and Burdick retain contextual burden, precise-interest and fit review; Burdick's protection of a genuine choice of an actual candidate and its rejection of arbitrary-message tallies confirm that this nomination is not a fictional vote. Norman's protection of authorized party identity against categorical bars broader than the State's concern applies. Colorado Republican confirms that shared candidate support does not erase a party's independent identity, without imposing campaign-expenditure scrutiny on ballot designations. Tashjian and Eu protect the party's choice of its standard bearer; Storer, Jenness and Munro permit orderly selection, support and preventive rules but do not dispense with a connection between a substantial burden and the interests invoked. No strict-scrutiny requirement, new scrutiny tier, voter-incapacity premise, incumbent-protection rationale or universal fusion right is adopted.
 
-##### Reversal has the enacted transition consequence, without a retrospective election ruling
+##### Affirmance does not engage the enacted expiration condition, and no election is reopened
 
-**Holding:** Chapter 419 §10 makes its amendments effective for the 1996 state primary and thereafter, suspends them while the McKenna judgment is stayed or its mandate recalled, and provides that reversal causes the amendments to expire and prior law to revive. This reversal engages that expiration-and-revival condition; the remand must respect it without assuming an unproved stay, recall or continuous intervening statutory regime.
+**Holding:** Chapter 419 §10 makes its amendments effective for the 1996 state primary and thereafter, suspends them while the McKenna judgment is stayed or its mandate recalled, and provides that reversal causes the amendments to expire and prior law to revive. Affirmance does not engage that expiration-and-revival condition: the amendments remain effective according to their terms, and the old prohibition may not be applied to this nomination. Further proceedings under the affirmed judgment assume no unproved stay, recall or continuous intervening statutory regime.
 
-**Proposition-level authority:** Thomas's Parts I and III, joined by all seven other Associates; eight direct joins. Stone-Zsela agrees to reach the merits without an additional statutory rationale.
+**Proposition-level authority:** Stone-Zsela's Parts I and III, joined by all eight Associates; nine direct joins.
 
-**Operative remedy or transition:** Reverse and remand, 5–4, subject to expiration of the amendments and revival of prior law. The completed 1994 election is not reopened, and no intervening filing is adjudicated.
+**Operative remedy or transition:** Affirm, 5–4. The old prohibition may not be applied to this consenting nomination, and relief is prospective. Chapter 419's amendments remain effective according to their terms; their independent validity is not decided. The completed 1994 election is not reopened, and no intervening filing is adjudicated.
 
 ### Interstate congressional apportionment
 
@@ -1027,17 +1027,17 @@ For the enforcement court's authority to determine approval scope, see Federal C
 
 **Material application:** Anderson v. Celebrezze requires assessment of the injury's character and magnitude, the State's precise interests and their need for the burden. Burdick v. Takushi requires narrow fit to a compelling interest for severe burdens and ordinarily permits reasonable, nondiscriminatory burdens justified by important regulatory interests. The inquiry considers the whole system, not a nominal alternative alone.
 
-Norman v. Reed permits distinct-electorate support requirements while forbidding party-name barriers and loss of independently qualified components because another electorate failed. Statewide trustee support does not itself show congressional-district support. The different denominators and stages make the petition comparison more than a simple tenfold disparity. Jenness v. Fortson permits meaningful support requirements in an actual workable system; Timmons v. Twin Cities Area New Party likewise examines the available nomination and advocacy alternatives. Here the capped general-ballot petition route supplies an available alternative without an automatic constitutional right to a public party primary.
+Norman v. Reed permits distinct-electorate support requirements while forbidding party-name barriers and loss of independently qualified components because another electorate failed. Statewide trustee support does not itself show congressional-district support. The different denominators and stages make the petition comparison more than a simple tenfold disparity. Jenness v. Fortson permits meaningful support requirements in an actual workable system; Timmons v. Twin Cities Area New Party likewise examines whether the alternatives a restriction leaves actually replace what it withholds. Here the capped general-ballot petition route supplies an available alternative without an automatic constitutional right to a public party primary.
 
 The substantial numerical difference and combined conditions deserve examination. The 1994 successes are relevant but not conclusive; disputed 1996 acceptances cannot prove full compliance, and the exceptional 1992 route cannot establish ordinary-year accessibility. No supported genuine dispute of the asserted impossible cumulative burden requires trial. Nor does the record establish Norman's disqualification of an independently qualified component through another electorate's failure. The strongest contrary argument requires a demonstrated heavier cumulative burden or automatic transfer of statewide status that this record does not support. Literal impossibility is not a universal prerequisite to a constitutional claim. Incumbent preservation is no independent justification, and a properly supported future burden challenge remains available.
 
 **Treatment of earlier authority:**
 
 - Anderson applies the actual-burden, precise-interest and necessity inquiry.
-- Burdick preserves complete-system review and the severe-burden boundary; its write-in presumption is not generalized.
+- Burdick preserves complete-system review and the severe-burden boundary; its effective-route holding for write-in prohibitions after early nomination closing is not generalized.
 - Norman preserves electorate-specific support and independently qualified components; it creates no automatic statewide-to-district status.
 - Jenness permits a meaningful demonstration of support, not universal approval of five-percent petitions.
-- Timmons applies proportionate regulation within actual alternatives, not an incumbent-protection interest or categorical approval of every nomination rule.
+- Timmons requires that a substantial nomination burden be connected to the interests invoked, accepts no incumbent-protection interest and neither approves nor condemns every nomination rule categorically.
 
 ##### The judgment supplies no replacement election system
 
@@ -1164,7 +1164,7 @@ The strongest contrary argument is that selective aid magnifies existing parties
 **Treatment of earlier authority:**
 
 - Anderson applies the actual-burden and precise-interest inquiry to this financial classification.
-- Burdick preserves burden-sensitive scrutiny; its write-in presumption is not transferred to all subsidies.
+- Burdick preserves burden-sensitive scrutiny; its write-in holding is not transferred to subsidies.
 - Buckley supplies demonstrated-support funding authority while retaining constitutional limits and political fluidity; the schemes are not identical.
 - Norman preserves qualified-component ballot protection without creating automatic party-expense funding.
 - Arkansas Educational Television Commission v. Forbes preserves review of genuine support criteria and viewpoint discrimination; its forum classification is not an election-finance rule.
@@ -1292,7 +1292,7 @@ Related questions in Libertarian Party of Florida v. Smith, 1998-09-21, dockets 
 
 **Treatment of earlier authority:**
 
-- Anderson and Burdick supply the actual-burden and justification inquiry; Burdick's write-in application creates no categorical presumption for private reimbursement.
+- Anderson and Burdick supply the actual-burden and justification inquiry; Burdick's write-in holding creates no categorical rule for private reimbursement.
 - Buckley v. American Constitutional Law Foundation, decided January 12, 1999, supplies protection against direct restraints on political conversation. Its invalid registration, badge and disclosure restrictions are not facts of this case.
 - Citizens for a Constitutional Convention v. Yoshina, decided January 21, 1999, supplies attention to actual legal effect and preserves review of fundamentally unfair administration. State-law authorization alone remains insufficient to answer a federal injury.
 - National Committee of the Reform Party v. Democratic National Committee, decided March 17, 1999, rejects the presented resource-parity entitlement while preserving actual suppression and discriminatory administration. That limit is retained here.
@@ -1333,7 +1333,7 @@ Related questions in Libertarian Party of Florida v. Smith, 1998-09-21, dockets 
 - **McIntyre, April 19, 1995:** Extended to the personal-name demand during live petition advocacy at the stated narrow-fit scope; candidate-finance, organizational and independent post-circulation settings retain their distinctions.
 - **Riley v. National Federation of the Blind, 487 U.S. 781:** Applied to protection of paid solicitation and the burden of compelled speech during the encounter; its discussion supplies no adjudication of the reserved badge fields.
 - **Anderson v. Celebrezze and Burdick, June 8, 1992:** Their burden-sensitive administrative inquiry remains; the Court applies the actual petition-speech burdens rather than treating every election regulation as equally severe.
-- **Timmons, April 28, 1997:** Distinguished as a candidate-nomination setting; it supplies no automatic lesser review for these speaker restrictions.
+- **Timmons, April 28, 1997:** Distinguished as a candidate-nomination setting; its demand for genuinely connected justification of a nonsevere nomination burden does not lessen review of these speaker restrictions.
 - **Buckley v. Valeo, 424 U.S. 1:** Its disclosure scrutiny and legitimate financial-information interests are applied to each report; no categorical initiative-disclosure immunity is adopted.
 - **Kentucky Right to Life, September 14, 1998:** Its payer and source-identification distinctions remain; identification of the financer does not automatically justify identifying each messenger.
 
@@ -1496,32 +1496,33 @@ For the other questions and complete operative scope in Hunt v. Cromartie, 1999-
 
 The judgment of dismissal is reversed and the case remanded to implement the November 6, 1996 mandate. The dependent disposition of the judicial-term-extension order is set aside insofar as based on the rejected exemption. The District Court must identify the actual reach of the 1983 submission, prevent prospective use of the remaining unprecleared operative changes and apply the confined judicial-remedy rule. No officeholder outcome, completed-election consequence, damages award, new deadline or automatic Supreme Court return is directed.
 
-### The affirmance has no controlling constitutional rationale
+### The preserved associational claim returns for ordinary examination
 
 #### Maine Green Party v. Maine
 
 **Docket or dockets:** First Circuit No. 98-1309.
 **Decided:** 1999-05-20.
 
-##### The affirmance has no controlling constitutional rationale
+##### The preserved associational claim returns for ordinary examination
 
-**Authority of the judgment:** Five Justices affirm, but the four-Justice preservation ground and the Chief's contextual merits ground are not logical subsets of one another. Marks yields no common narrower rationale. The judgment binds the parties; it establishes no general five-percent safe harbor, no duty to participate nationally, and no Court holding approving every alternative ballot route or rejecting every concrete as-applied exclusion claim. The affirming Justices are Stone-Zsela, O'Connor, Scalia, Thomas and Breyer.
+**Holding:** Because the First Circuit affirmed on forfeiture without deciding the preserved organizational-autonomy objection, its judgment is vacated and the case remanded for ordinary consideration of that claim's actual factual basis, the electoral burdens on the party, Maine's precise interests and the feasible alternatives within sections 301, 302 and 303. The Court finds no exclusive-local intent, neither sustains nor invalidates the retention condition, and orders no recognition, injunction, new election, permanent party status or public funding.
 
-**Limits and questions not reached:** The majority preservation proposition concerns refinement of an existing legal argument, not an established exclusively local philosophy or permission to invent new summary-judgment facts. No general retention threshold or constitutional ballot-access application receives five votes.
+**Proposition-level authority:** Stevens's opinion for the Court, joined by Stone-Zsela, Kennedy, Souter and Ginsburg; five Justices. O'Connor, Scalia, Thomas and Breyer would affirm on preservation. Stone-Zsela's separate view that presidential results cannot be the exclusive price of recognition has no other vote.
 
-**Operative remedy or transition:** Affirm, 5–4, by Stone-Zsela, O'Connor, Scalia, Thomas and Breyer. Four rely on preservation and Stone-Zsela on contextual merits; no logical subset supplies a Marks rationale. The judgment orders no reopening, recognition, injunction or new election.
+**Limits and questions not reached:** The preservation holding concerns refinement of an existing legal argument, not an established exclusively local philosophy or permission to invent new summary-judgment facts. No general retention threshold, five-percent safe harbor, duty to participate nationally or constitutional ballot-access application is adopted, and no alternative ballot route is approved or condemned.
+
+**Operative remedy or transition:** Vacated and remanded, 5–4, by Stone-Zsela, Stevens, Kennedy, Souter and Ginsburg. The judgment orders no recognition, injunction, new election, permanent party status or public funding; the lower courts may sustain the condition or reject the claim on the developed record.
 
 **Treatment of earlier authority:**
 
-- Yee v. City of Escondido is applied by the five Justices supporting the preserved-legal-argument proposition; its separate factual and granted-question limits remain.
+- Yee v. City of Escondido is applied by the Court to the preserved legal argument; its separate factual and granted-question limits remain.
 - Thomas v. Arn remains a rule allowing nonjurisdictional presentation requirements, not a mandatory forfeiture rule for every theory raised in objections.
-- Marks v. United States supplies no common affirmance rationale because the procedural and merits grounds are independent.
-- Anderson v. Celebrezze retains contextual review of actual burden, precise interests and fit; no majority adopts a new retention-rule application.
-- Burdick v. Takushi retains its calibrated framework and complete-system limits; no new constitutional application commands five here.
-- Norman v. Reed retains its actual-access and separate-electorate protections without a majority retention-rule application.
-- Timmons v. Twin Cities Area New Party retains its specific nonfusion holding; no majority extends it to validate this condition.
+- Anderson v. Celebrezze retains contextual review of actual burden, precise interests and fit, which governs the remand; the Court adopts no retention-rule application.
+- Burdick v. Takushi retains its calibrated framework and complete-system inquiry; no new constitutional application is decided here.
+- Norman v. Reed retains its actual-access and separate-electorate protections; the remand applies them without a retention-rule merits ruling.
+- Timmons v. Twin Cities Area New Party retains its fusion-nomination holding; it does not decide this retention condition.
 - National Committee of the Reform Party v. Democratic National Committee retains its support-sensitive financing scope and supplies no general retention safe harbor.
-- Buckley v. American Constitutional Law Foundation retains its petition-advocacy protections; no majority changes them in this case.
+- Buckley v. American Constitutional Law Foundation retains its petition-advocacy protections; the Court does not change them in this case.
 
 For the other questions and complete operative scope in Maine Green Party v. Maine, 1999-05-20, First Circuit No. 98-1309, see Federal Courts.
 
@@ -1816,7 +1817,7 @@ Rayphand v. Sablan / Torres v. Sablan (December 13, 1999) remains confined to it
 **Treatment of earlier authority:**
 
 - Anderson and Burdick are applied for review of actual burdens, asserted interests and fit; their calibrated election review remains in force.
-- Timmons is distinguished by Pennsylvania's unequal permitted nomination opportunity. Its particular Minnesota holding remains intact and is not enlarged into universal fusion approval or prohibition.
+- Timmons is distinguished by Pennsylvania's unequal permitted nomination opportunity. The Court decides the equality ground and does not reach Timmons's associational rule, which remains intact and is not enlarged into a universal fusion right.
 - Norman is applied to independently qualified party participation and the continuing election controversy; meaningful support rules remain available.
 - Storer, Jenness and Munro retain their allowance for preventive election administration; that allowance does not dispense with a justification for the distinction imposed here.
 
@@ -1944,7 +1945,7 @@ The distinct defendant-immunity question is stated in the primary Federal Courts
 - Eu v. San Francisco County Democratic Central Committee supplies the protection against state control of party governance and political choice; ordinary election administration remains available.
 - Democratic Party v. Wisconsin ex rel. La Follette supplies protection against forced participation inconsistent with protected party selection rules; the present decision applies that principle to the challenged official nominations without deciding national-delegate questions.
 - Burdick v. Takushi supplies burden-sensitive review of election regulations. The severe burden here triggers compelling-interest and narrow-tailoring review rather than the lesser justification sufficient for ordinary mechanics.
-- Timmons v. Twin Cities Area New Party remains controlling as to its nonfusion restriction. Its retained means of choosing a consenting nominee distinguish it from compelled outsider participation in the actual choice.
+- Timmons v. Twin Cities Area New Party remains controlling in requiring meaningful official recognition of a qualified party's voluntary nomination of a consenting candidate. That protection of the party's own choice distinguishes it from compelled outsider participation in the actual choice.
 - Reform Party of Allegheny County v. Allegheny County Department of Elections retains its equal-access holding concerning a timely consensual cross-nomination and its limits on the independent association issue. It does not itself decide the present public-primary question.
 - Hurley v. Irish-American Gay, Lesbian and Bisexual Group of Boston supplies protection for the composition of private expression, with its actual limits; this decision neither exempts ordinary services from neutral regulation nor classifies every regulated association as private expression.
 - The white-primary decisions, including Smith v. Allwright and Terry v. Adams, retain their prohibitions on unconstitutional exclusion from electoral processes. Associational protection supplies no exemption from those constitutional commands.
@@ -2280,8 +2281,8 @@ For the continuing-controversy holding in Wood v. Meadows, June 11, 2001, Fourth
 **Treatment of earlier authority:**
 
 - Anderson v. Celebrezze: applied as the actual burden, precise interest and fit inquiry; its earlier presidential deadline does not mechanically decide this Senate system.
-- Burdick v. Takushi: applied without changing its calibrated scrutiny or importing an absolute rule from its write-in application.
-- Timmons v. Twin Cities Area New Party: applied for proportionate preventive nomination administration in an accessible system; it remains neither pure rational-basis review nor permission to suppress competition.
+- Burdick v. Takushi: applied without changing its calibrated scrutiny; its effective-route holding concerns ordinary nomination routes that close before voters can respond to the actual field, and this system leaves independents meaningful time to organize after primary candidates file, without any entitlement to every late candidacy.
+- Timmons v. Twin Cities Area New Party: applied for genuine fit between a nomination burden and the State's precise interests, leaving orderly candidate-selection rules available; it remains neither pure rational-basis review nor permission to suppress competition.
 - Norman v. Reed and Moore v. Ogilvie: applied to the continuing election controversy and meaningful access; support screening remains permissible within the actual electorate.
 - Storer v. Brown: applied for the legitimate role of orderly candidate selection, without validating every deadline.
 
@@ -2342,14 +2343,14 @@ The lower court must determine the remaining ordinary former-residence, age, reg
 **Treatment of earlier authority:**
 
 - **Anderson v. Celebrezze, 460 U.S. 780:** Its actual-burden, precise-interest and necessity inquiry is applied to the retained former-resident presidential opportunity.
-- **Burdick v. Takushi, 504 U.S. 428:** Its calibrated framework is extended to this selective former-resident franchise; its reasonable-burden application remains controlling in its complete-system setting.
+- **Burdick v. Takushi, 504 U.S. 428:** Its calibrated framework is extended to this selective former-resident franchise; its effective-route holding remains controlling for candidacies in its complete-system setting.
 - **McDonald v. Board of Election Commissioners, 394 U.S. 802:** Distinguished because its record did not establish exclusion from voting itself; it remains authority for the absentee distinction it reviewed.
 - **Harper v. Virginia Board of Elections, 383 U.S. 663:** Its equality protection within an available franchise supports scrutiny of this selective distribution.
 - **Reynolds v. Sims, 377 U.S. 533:** Its protection of meaningful electoral equality supports the participation inquiry without creating territorial electors.
 - **Carrington v. Rash, 380 U.S. 89:** Its distinction between bona fide residence rules and impermissible electoral exclusions remains; it creates no permanent former-state franchise.
 - **McPherson v. Blacker, 146 U.S. 1:** Its state-based appointment structure remains in force; relief uses New York's existing electors.
-- **Timmons v. Twin Cities Area New Party, April 28, 1997:** Its limited-burden holding within a system preserving meaningful electoral opportunities remains; it does not decide complete presidential exclusion.
-- **Schrader v. Blackwell, December 10, 2001:** Its holding on an official nomination designation with continuing candidate access is distinguished; the complete-system inquiry remains operative.
+- **Timmons v. Twin Cities Area New Party, April 28, 1997:** Its rule requiring meaningful official recognition of a qualified party's genuine nomination remains; it does not decide complete presidential exclusion.
+- **Schrader v. Blackwell, December 10, 2001:** Its truthful-designation holding for a candidate already on the ballot is distinguished; the complete-system inquiry remains operative.
 - **The Bush election decisions:** Their adjudicated counting and institutional holdings remain; neither supplies a categorical answer to this former-resident eligibility classification.
 
 ##### The federal minimum must satisfy the same electoral equality requirement
@@ -2388,22 +2389,22 @@ The lower court must determine the remaining ordinary former-residence, age, reg
 
 For Schrader v. Blackwell, December 10, 2001, concerning the continuing controversy, see Federal Courts: Justiciability — Recurring ballot-designation restrictions and election mootness.
 
-##### Ohio’s official party designation within its complete nomination system
+##### Truthful designation of a verified, petition-qualified party nominee
 
-**Holding:** Under Anderson-Burdick, Ohio may condition this requested official party designation on compliance with its neutral party-recognition system where the complete nomination scheme leaves meaningful independent ballot access and opportunities for endorsement and campaigning. The actual burden is less than severe, and coherent nomination categories and reasonable preventive administration proportionately justify this application; empirical proof of prior disruption is not indispensable.
+**Holding:** Under Anderson-Burdick, where Ohio's ballot prints party designations, a candidate who qualified by petition and was genuinely nominated by a party may not be forced to appear as an independent without a substantial justification grounded in the actual burden and the State's demonstrated ballot interests; full party recognition is not, by itself, that justification. Ohio may verify the affiliation, distinguish recognized parties from candidate-specific nominating associations and choose truthful wording, and it need not print a label that falsely implies recognized-party nomination. The exact label is left to the remedy stage.
 
-**Proposition-level authority:** Thomas's opinion on the merits, joined by O'Connor, Scalia, Kennedy and Breyer; five Justices.
+**Proposition-level authority:** Stevens's opinion on the merits, joined by Stone-Zsela, Souter, Ginsburg and Breyer; five Justices.
 
-**Limits and questions not reached:** Independent access and campaigning lessen rather than eliminate the associational burden. The Court adopts neither rational-basis review nor universal approval of affiliation restrictions or recognition thresholds. Verified affiliation does not compel redesign of the official recognized-party cue whenever alternative wording is feasible. More restrictive access and unsupported burdens remain subject to actual burden-and-fit review.
+**Limits and questions not reached:** Independent access and campaigning lessen rather than eliminate the associational burden, which is less than severe. Ohio may verify affiliation, distinguish recognized parties from candidate-specific nominating associations, choose truthful wording and refuse labels that falsely imply recognized-party nomination; a demonstrated administrative or effective-governing interest connected to the restriction remains available. The rule does not eliminate party-recognition thresholds, confer recognized-party privileges or order a particular label.
 
-**Operative remedy or transition:** The reviewed ballot-designation judgment is affirmed, 5–4.
+**Operative remedy or transition:** The reviewed ballot-designation judgment is vacated and the case remanded, 5–4, for determination of the truthful designation, verification and administrative fit, with appropriately bounded prospective relief; the completed 1998 election is not reopened.
 
 **Treatment of earlier authority:**
 
-- Anderson v. Celebrezze, 460 U.S. 780, and Burdick v. Takushi, 504 U.S. 428: the actual burden, precise interests and proportional fit remain controlling; no write-in presumption is transferred to labels.
-- Timmons v. Twin Cities Area New Party, No. 95-1608: its contextual nomination-system reasoning supports this bounded application, without universal approval of recognition restrictions.
-- Norman v. Reed, 502 U.S. 279: authorized expansion and independently qualified slate access remain protected; the present official status designation is distinguished.
-- Tashjian v. Republican Party of Connecticut, 479 U.S. 208, and Eu v. San Francisco County Democratic Central Committee, 489 U.S. 214: associational protection remains, without compelling every requested ballot format.
+- Anderson v. Celebrezze, 460 U.S. 780, and Burdick v. Takushi, 504 U.S. 428: the actual burden, precise interests and proportional fit remain controlling; Burdick's alternative-route holding concerns access and is not transferred to labels.
+- Timmons v. Twin Cities Area New Party, No. 95-1608: its rule requiring meaningful official recognition of a qualified party's genuine nomination is distinguished because the party here lacked recognition; its treatment of a genuine nomination as central association informs the burden.
+- Norman v. Reed, 502 U.S. 279: its protection of authorized party identity and independently established support supports the weight given to the verified nomination; party-recognition thresholds remain.
+- Tashjian v. Republican Party of Connecticut, 479 U.S. 208, and Eu v. San Francisco County Democratic Central Committee, 489 U.S. 214: associational protection supports a truthful designation, without compelling every requested ballot format.
 
 ### Advance casting and the federal final-selection date
 

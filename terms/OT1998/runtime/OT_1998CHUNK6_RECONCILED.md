@@ -4,16 +4,16 @@ This mechanically generated index identifies the operative case-specific frozen 
 
 | Matter | Operative frozen handoff | SHA-256 |
 |---|---|---|
-| Central State | [case-specific scope](../freeze/OT_1998CHUNK6_A_FIRST3_RECONCILED.md) | `8c2da1fea898eeb586cd9774c588f14b71ef13aad10ae34ce0a74a59f2495ba0` |
-| Kumho Tire | [case-specific scope](../freeze/OT_1998CHUNK6_A_FIRST3_RECONCILED.md) | `8c2da1fea898eeb586cd9774c588f14b71ef13aad10ae34ce0a74a59f2495ba0` |
-| South Central Bell | [case-specific scope](../freeze/OT_1998CHUNK6_A_FIRST3_RECONCILED.md) | `8c2da1fea898eeb586cd9774c588f14b71ef13aad10ae34ce0a74a59f2495ba0` |
+| Central State | [case-specific scope](../freeze/OT_1998CHUNK6_A_FIRST3_RECONCILED.md) | `63567be7e582bba1ff930bbe3338cd90de7976d7dd049eb4f8a4b32f247998c7` |
+| Kumho Tire | [case-specific scope](../freeze/OT_1998CHUNK6_A_FIRST3_RECONCILED.md) | `63567be7e582bba1ff930bbe3338cd90de7976d7dd049eb4f8a4b32f247998c7` |
+| South Central Bell | [case-specific scope](../freeze/OT_1998CHUNK6_A_FIRST3_RECONCILED.md) | `63567be7e582bba1ff930bbe3338cd90de7976d7dd049eb4f8a4b32f247998c7` |
 | Jones | [case-specific scope](../freeze/OT_1998CHUNK6_JONES_REFRESH_RECONCILED.md) | `748ab9432a4cf88121806fc5f92fb6fa93bcdb9ac88212c94ed0d411615cc5f6` |
-| Mille Lacs | [case-specific scope](../freeze/OT_1998CHUNK6_MILLE_LACS_RECONCILED.md) | `ff7b2f0123c956da514c8f5919effa5422d5ba6bddb5764248483fc584ca3841` |
-| Brower | [case-specific scope](../freeze/OT_1998CHUNK6_BROWER_REFRESH_RECONCILED.md) | `88ef92890e28cd3ff15cc36f8321ff98fb8dcfcd645d54458c73821e608b097d` |
+| Mille Lacs | [case-specific scope](../freeze/OT_1998CHUNK6_MILLE_LACS_RECONCILED.md) | `b8fa75e1b10e6fb2d6133a8530c5c7fd6a1ec6478933e2e81a0b90e39747957b` |
+| Brower | [case-specific scope](../freeze/OT_1998CHUNK6_BROWER_REFRESH_RECONCILED.md) | `6075b84ae1c437e02cb5d762e768d951377def6f32a88e826532fa202b74a9b6` |
 | Rodriguez-Moreno | [case-specific scope](../freeze/OT_1998CHUNK6_B_CLEAN_RECONCILED.md) | `f76516c11cc6a016e3dcfc9861b3597d19c93fd89243419077d59421335d1b2f` |
-| Conn | [case-specific scope](../freeze/OT_1998CHUNK6_CONN_REFRESH_RECONCILED.md) | `419f1be07b1ca6d083111e6ef494f628c2e6066707ea50ec39937ca2a2498aca` |
+| Conn | [case-specific scope](../freeze/OT_1998CHUNK6_CONN_REFRESH_RECONCILED.md) | `0a08b12d6cb1c8cc27a7b59bebefd4c2962021b8389018b2d73e517eb9f82079` |
 | Mitchell | [case-specific scope](../freeze/OT_1998CHUNK6_MITCHELL_RECONCILED.md) | `803bac70a559ee016e167ab7dce8dcf4dbd5f88e1c16f1fee92c65448de3e81a` |
-| Murphy Brothers | [case-specific scope](../freeze/OT_1998CHUNK6_B_PROC_RECONCILED.md) | `9821238dcefea33d1300d2e1f20fe1186b33b3c7469cd6835ff11ec2cebd4e0c` |
+| Murphy Brothers | [case-specific scope](../freeze/OT_1998CHUNK6_B_PROC_RECONCILED.md) | `b67b1980a8a04b34f91b826444eda9c1cf045e10a71ddd09959d44d5c5e1ce0f` |
 | Wyoming v. Houghton | [case-specific scope](../freeze/OT_1998CHUNK6_B_CLEAN_RECONCILED.md) | `f76516c11cc6a016e3dcfc9861b3597d19c93fd89243419077d59421335d1b2f` |
 | Barnes | [case-specific scope](../freeze/OT_1998CHUNK6_B_CLEAN_RECONCILED.md) | `f76516c11cc6a016e3dcfc9861b3597d19c93fd89243419077d59421335d1b2f` |
 

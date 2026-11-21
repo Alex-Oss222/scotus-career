@@ -89,8 +89,8 @@ Source: [Record](../records/schrader-v-blackwell_merits_2001-12-10.md).
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
-| Opinion of the Court | Thomas | O'Connor, Scalia, Kennedy, Breyer throughout; Stone-Zsela, Stevens, Souter and Ginsburg as to the recurring-controversy holding only | Supports affirmance on the merits; all nine support reaching the dispute | Five join the recognition-linked merits rule; all nine join the threshold holding |
-| Dissent | Stevens | Stone-Zsela, Souter, Ginsburg | Would vacate and remand | Verified affiliation, separate justification, supported administrative limits and bounded prospective relief |
+| Opinion of the Court | Stevens | Stone-Zsela, Souter, Ginsburg, Breyer throughout; O'Connor, Scalia, Kennedy and Thomas as to the recurring-controversy holding only | Supports vacatur and remand on the merits; all nine support reaching the dispute | Five join the truthful-designation merits rule; all nine join the threshold holding |
+| Dissent | Thomas | O'Connor, Scalia, Kennedy | Would affirm | Recognition-linked official designation within a complete nomination system; qualified-party scope of Timmons; preserved candidate access |
 
 ## United States v. Knights; No. 00-1260
 Merits decision; 2001-12-10; October Term 2001, chunk 1.

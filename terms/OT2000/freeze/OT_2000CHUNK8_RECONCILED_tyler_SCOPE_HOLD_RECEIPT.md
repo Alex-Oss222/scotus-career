@@ -16,7 +16,7 @@ Boundary checks: no Stone supplement or private material, original brief, runtim
 |---|---|
 | `freeze/OT_2000CHUNK8_RECONCILED_tyler_DRAFT_SCOPE_HOLD.md` | `2da134420e89e641afe567b3e4b5c03125a7e9233eb039eb7b81768d9aa27996` |
 | `freeze/OT_2000CHUNK8_COMMITMENTS_tyler.md` | `9dd0e277ffc9ca1d362cba680949801670a90f2400d79c604179fbfa710146c3` |
-| `freeze/OT_2000CHUNK8_COMMITMENTS_tyler_RECEIPT.md` | `3e9675d1d17dab3c6cd7f4a47ed1efdb131c09c69fdfb81cd5448a5fb346f71c` |
+| `freeze/OT_2000CHUNK8_COMMITMENTS_tyler_RECEIPT.md` | `9b82bc41c0eb1bb4206291ee906a6d5ba4301bb7a285050a86c1b897b3f4240c` |
 | `freeze/OT_2000CHUNK8_COMPARATOR_KDM_TYLER.md` | `02a7119ecd25a51434150447d6a8219dac80b5437b749b0c470b383cbc5fde6f` |
 | `freeze/OT_2000CHUNK8_NEUTRAL_TYLER_REFRESH.md` | `d722dd6db2f551ae0f18f0bc924bd5d79e3a7d646d43379fccae7dfe42c7e192` |
 | `freeze/OT_2000CHUNK8_TYLER_INSTRUCTION_VALIDATED.md` | `cf0e57a37ed796c8028adc2bb4e690a7bc9e6ff00338fc262835e5f036bb2c16` |
@@ -25,7 +25,7 @@ Boundary checks: no Stone supplement or private material, original brief, runtim
 | `sources/chunk8-control/tyler.pdf` | `437d3cdb25e82ea6e3fa935b95678a49555b8de79a316e136ddba862d1df4270` |
 | `entering-law/OT_2000CHUNK8_C_HOLDINGS.md` | `0a432638cf0d2c709dee4f553e7b08aa85610de983a6176e0ad1dec92126aaa8` |
 | `entering-law/OT_2000CHUNK8_C_STANDARDS.md` | `1e64fc6b2c0ad4af34de98b72684ba170e37754205a3e4f0f179ac04434f1a3d` |
-| `entering-law/OT_2000CHUNK8_C_CURRENT.md` | `82178e4e60541ef587fd903f61dd74237a8c33dfe43a3991193bb07edf89fb0b` |
+| `entering-law/OT_2000CHUNK8_C_CURRENT.md` | `572a7a259194ae690150a88d150fd4b7a96d19c60566c717ac9538873b9c63c5` |
 | `entering-law/OT_2000CHUNK8_C_PUBLIC_WRITINGS.md` | `9ed45adc15fba004edeb76fef71d6a94351918f3a606ef25b82d518b3b60b123` |
 | `entering-law/OT_2000CHUNK8_C_SOURCE_TEXT.md` | `c500bccf479b6a095a63786b1b0369bc7e1f0aac759980446f28af688d8f0e8f` |
 | `entering-law/OT_2000CHUNK8_JUNE18_PUBLIC_FINAL.md` | `4f5f290c2387cb930be8bea25c69f77f3e982c1cc712cd86cc53db138808666b` |

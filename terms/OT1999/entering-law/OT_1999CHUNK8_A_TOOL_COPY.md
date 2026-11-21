@@ -20011,7 +20011,7 @@ For the separate questions in Timmons v. Twin Cities Area New Party, 1997-04-28,
 
 **Holding:** A challenge to the old prohibition remains live where the officials seek reversal of its invalidation and an enacted provision expressly revives that prohibition upon reversal. Chapter 419 supplies that concrete consequence; neither its replacement scheme nor completion of the 1994 election makes this dispute advisory.
 
-**Proposition-level authority:** Thomas's Parts I and III, joined by all seven other Associates; eight direct joins. Stone-Zsela agrees to reach the merits without an additional statutory rationale.
+**Proposition-level authority:** Stone-Zsela's Parts I and III, joined by all eight Associates; nine direct joins.
 
 **Limits and questions not reached:** No stay, mandate recall or compliance with the replacement scheme is assumed; its independent constitutionality and the governing law of intervening filings remain open.
 
@@ -23678,7 +23678,7 @@ Daubert supplies flexible foundation and fit and now reaches all knowledge cover
 
 **Holding:** A party that initially challenged the presidential-vote condition and asserted its right to choose its organizational structure does not lose that legal organizational-autonomy objection merely by sharpening it later. That conclusion neither proves an exclusive local philosophy nor permits new summary-judgment facts to be assumed; the national-organizing affidavit and the factual basis of the as-applied theory retain their ordinary evidentiary significance.
 
-**Proposition-level authority:** Stone-Zsela's concurrence and Stevens's dissent joined by Kennedy, Souter and Ginsburg directly agree on this bounded proposition (five Justices), across the judgment division.
+**Proposition-level authority:** Stevens's opinion for the Court, joined by Stone-Zsela, Kennedy, Souter and Ginsburg; five Justices. O'Connor, Scalia, Thomas and Breyer would affirm on preservation.
 
 For the other questions and complete operative scope in Maine Green Party v. Maine, 1999-05-20, First Circuit No. 98-1309, see Election Law.
 

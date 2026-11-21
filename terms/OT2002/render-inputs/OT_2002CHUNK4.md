@@ -272,25 +272,25 @@ Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Soute
 
 ## Public Action
 
-The Court affirms dismissal of both constitutional theories.
+The Court affirms dismissal of the Article I qualification theory and vacates dismissal of the First and Fourteenth Amendment access claim, remanding that claim for factual development.
 
 ## Judgment & Remedy
 
 | Component | Disposition and vote | Supporting | Opposing |
 |---|---|---|---|
 | Additional congressional qualification | Dismissal affirmed, 9–0. | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — |
-| First and Fourteenth Amendment access burden | Dismissal affirmed, 5–4. | O'Connor, Scalia, Kennedy, Thomas, Breyer | Stone-Zsela, Stevens, Souter, Ginsburg, who would vacate this component and remand. |
+| First and Fourteenth Amendment access burden | Dismissal vacated and remanded, 5–4. | Stone-Zsela, Stevens, Souter, Ginsburg, Breyer | O'Connor, Scalia, Kennedy, Thomas, who would affirm the dismissal. |
 
 ## Opinion Topology
 
-Thomas delivers the opinion of the Court.
+Souter delivers the opinion of the Court.
 
 | Writing or part | Joins | Relationship to judgment |
 |---|---|---|
-| Thomas, Part I: qualifications | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg, Breyer | Unanimous controlling qualifications holding. |
-| Thomas, Part II: practical access | O'Connor, Scalia, Kennedy, Breyer | Five-Justice controlling access holding. |
-| Souter, concurring in part and dissenting in part | Stevens, Ginsburg | Joins Part I; would vacate and remand Part II. |
-| Stone-Zsela, separately concurring in part and dissenting in part | No joins | Joins Part I; would vacate and remand Part II with his stated remedial conditions. |
+| Souter, Part I: qualifications | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | Unanimous controlling qualifications holding. |
+| Souter, Part II: practical access | Stone-Zsela, Stevens, Ginsburg, Breyer | Five-Justice controlling access holding; vacatur and remand. |
+| Stone-Zsela, concurring | No joins | Joins the opinion in full; adds a rebuttable one-percent or 10,000-signature presumption of meaningful support and his stated remedial conditions. |
+| Thomas, concurring in part and dissenting in part | O'Connor, Scalia, Kennedy | Joins Part I; would affirm dismissal of the access claim. |
 
 ## Holdings
 
@@ -298,40 +298,40 @@ Thomas delivers the opinion of the Court.
 
 **Holding and operative rule:** A genuine requirement to demonstrate electoral support regulates ballot access rather than adding a personal qualification for congressional membership, while remaining subject to independent First and Fourteenth Amendment review. Georgia's pleaded petition requirement measures support rather than age, status, prior service or another personal characteristic, so the Article I theory fails.
 
-**Authority:** Thomas's Part I, joined by all eight other Justices; nine direct votes.
+**Authority:** Souter's Part I, joined by all eight other Justices; nine direct votes.
 
 **Controlling explanation:** The Court holds that the rule's operation, not its ballot label, determines its classification. Thornton/Bryant prohibits States from adding personal congressional qualifications indirectly through ballot restrictions while distinguishing ordinary administration. Cook rejects ballot handicaps designed to penalize a candidate's refusal of a state-selected legislative position. This petition requires a showing of support and imposes neither kind of personal or policy penalty. Its procedural classification leaves the asserted associational burden to separate review.
 
-### The accepted allegations do not materially distinguish the complete system sustained in Jenness
+### Anderson review has three levels, and these cumulative allegations require factual development
 
-**Holding and operative rule:** Under Anderson–Burdick, courts weigh the character and magnitude of the actual burden against the State's precise interests and the need for its restrictions; severe burdens require narrow tailoring to compelling interests, while reasonable nondiscriminatory burdens ordinarily may be justified by important regulatory interests. Accepting the complaint's facts, this six-month, broad-signer, sheet-affidavit petition system and its alleged district-identification, surplus-signature and qualification-history burdens do not materially distinguish Jenness sufficiently to state the asserted constitutional access claim.
+**Holding and operative rule:** Under Anderson–Burdick, courts weigh the character and magnitude of the actual burden against the State's precise interests and the need for its restrictions, and must explain where the burden falls on that calibrated scale. Severe burdens require narrow tailoring to compelling interests; substantial burdens require an important objective and a demonstrated substantial relationship between that objective and the restriction's actual reach, without proof that success is impossible; reasonable nondiscriminatory burdens ordinarily may be justified by important regulatory interests. Accepting the complaint's facts, the alleged combination of a registered-voter denominator fixed by the preceding election, district identification after reapportionment, surplus-signature and sheet-affidavit verification burdens and the absence of any Libertarian congressional petition qualification since 1943 plausibly states a substantial or severe burden that Jenness does not answer as a matter of law, so the access claim requires factual development.
 
-**Authority:** Thomas's Part II, joined by O'Connor, Scalia, Kennedy, and Breyer; five direct votes control this application.
+**Authority:** Souter's Part II, joined by Stone-Zsela, Stevens, Ginsburg and Breyer; five direct votes control this rule and its application.
 
-**Controlling explanation:** The Court holds that the complete system remains the relevant unit of analysis. Jenness sustained a five-percent demonstration of support within Georgia's open petition arrangements; Burdick and Timmons preserve contextual review rather than strict scrutiny of every election rule. Candidates have about six months to circulate, and voters may sign multiple petitions and participate in primaries. Verification requires an affidavit for the circulator's sheet, not notarization of every signature. Those features remain material when the pleaded district-identification difficulties and surplus needs are considered together.
+**Controlling explanation:** The Court holds that the complete system remains the relevant unit of analysis and that the calibrated scale Anderson describes has three levels. Burdick, in an opinion and a concurrence that each called Hawaii's complete write-in ban a substantial burden on electoral choice, required the State's interests to justify the ban's full reach; Timmons held Minnesota's fusion ban a substantial but not severe burden that conjecture could not sustain; Wood rejected the suggestion that fit ceases to matter once a burden is called reasonable. A severe burden requires narrow tailoring to a compelling interest. A substantial burden requires an important objective and a demonstrated substantial relationship between that objective and the restriction's actual operation; it need not make success impossible. An ordinary burden imposed by reasonable, nondiscriminatory administration may rest on important regulatory interests without proof of past disorder. A court must explain its placement, and a valid interest does not by itself establish a sufficient relationship. These levels describe Anderson's single scale, not a new tier.
 
-The Court accepts the allegation that no Libertarian congressional candidate qualified by petition since 1943. That history is relevant, but the fact of nonqualification does not itself identify a changed legal or operational barrier in the support route. The added allegations concern identification and verification costs within the same basic open system; combined with the accepted history, they do not make this complaint materially different from the system Jenness sustained. Georgia's interests in a modicum of support and reliable verification justify this application. The dissent would require development before that conclusion; the Court finds the pleaded distinctions legally insufficient. The holding neither creates a universal five-percent safe harbor nor independently resolves the statewide one-percent rule.
+Jenness sustained a five-percent showing within Georgia's open system, not a percentage exempt from later scrutiny. The complaint alleges that the requirement is measured against registered voters eligible in the preceding election, that reapportionment made district-specific signers difficult to identify, that verification losses force surplus collection under sheet affidavits, and that no Libertarian congressional candidate has qualified by petition since 1943. Accepted as true, those allegations plausibly describe at least a substantial burden, and listing formal opportunities does not answer them. The six-month period, multiple signing and primary participation favor Georgia and remain part of the assessment; party-specific failure alone does not prove severity. The dissent would treat these as familiar costs within the system Jenness sustained, but that conclusion requires facts the pleading does not supply: whether candidates with genuine support can reasonably qualify, and whether Georgia's interests in a modicum of support and reliable verification require the requirement's actual reach. On remand the district court places the burden and applies the corresponding justification. The holding does not independently resolve the statewide one-percent rule.
 
 ## Precedent Treatment
 
 - U.S. Term Limits, Inc. v. Thornton / Bryant v. Hill (May 22, 1995) is applied to distinguish genuine support procedures from personal congressional qualifications.
 - Cook v. Gralike, 531 U.S. 510, retains its prohibition on official policy-compliance penalties; this support petition imposes a different kind of condition.
-- Jenness v. Fortson, 403 U.S. 431, is applied to the materially comparable complete Georgia petition system rather than treated as approval of a percentage in isolation.
-- Anderson v. Celebrezze, 460 U.S. 780, Burdick v. Takushi, 504 U.S. 428, and Timmons v. Twin Cities Area New Party (April 28, 1997) retain the calibrated burden, precise-interest and fit framework; this decision applies it without replacing it with rational-basis review.
+- Jenness v. Fortson, 403 U.S. 431, is reaffirmed at the scope of the complete Georgia system it sustained; it does not answer as a matter of law the materially different combined burdens pleaded here.
+- Anderson v. Celebrezze, 460 U.S. 780, Burdick v. Takushi, 504 U.S. 428, and Timmons v. Twin Cities Area New Party (April 28, 1997) retain the calibrated burden, precise-interest and fit framework; with Wood v. Meadows (June 11, 2001), they supply the three levels this decision states as that framework's structure, without creating a new tier or substituting rational-basis review.
 
 ## Law After Decision
 
-Congressional support petitions remain distinct from personal qualifications and remain subject to meaningful access review. The particular allegations here do not state a materially different constitutional barrier from the open system sustained in Jenness. Materially different or severe burdens continue to receive the scrutiny Anderson–Burdick requires.
+Congressional support petitions remain distinct from personal qualifications and remain subject to meaningful access review. Courts applying Anderson–Burdick place a burden at one of three levels of its calibrated scale and explain that placement: severe burdens require narrow tailoring to a compelling interest; substantial burdens require an important objective and a demonstrated substantial relationship, without proof that success is impossible; reasonable, nondiscriminatory administration may rest on important regulatory interests. A petition percentage sustained within one open system does not answer as a matter of law a pleaded claim that a later system's combined operation imposes a substantial or severe burden, and Georgia's congressional access claim proceeds to factual development.
 
 ## Separate Writings
 
-Souter, joined by Stevens and Ginsburg, agrees on qualifications but would remand the access claim. Jenness's system-specific holding does not answer the cumulative allegations of district identification, affidavits, surplus needs and prolonged exclusion. The formal access opportunities favor Georgia, but factual examination should determine actual severity and justification.
+Stone-Zsela joins the Court's opinion in full and concurs. He would treat valid support equal to one percent of the votes cast at the last comparable election, or 10,000 valid signatures for a statewide office where that number is smaller, as a rebuttable presumption of meaningful support, severable from the Court's holding; Georgia's registered-voter denominator is a different measure, and Norman's and Rednour's requirements, sustained on their records, are not reopened. If an unjustified common barrier is proved, he would require a workable lawful nomination route tied to that barrier and the real election timetable, presuming relief for governed candidates and voters unless a narrower complete cure is demonstrated, beginning with a state proposal and proceeding to a fitted judicial order if necessary.
 
-Stone-Zsela also joins the qualifications holding and would remand access. He requires examination of the complete system before its burden is settled. If an unjustified common barrier is proved, he would require a workable lawful nomination route with relief tied to that barrier and the real election timetable, presuming correction for governed candidates and voters unless a narrower complete cure is demonstrated. His proposed remedy would begin with a state proposal and proceed to a fitted judicial order if necessary; it would not select a replacement percentage at the pleading stage.
+Thomas, joined by O'Connor, Scalia and Kennedy, agrees on qualifications but would affirm dismissal of the access claim. Jenness's system-specific holding answers allegations of familiar identification, verification and surplus costs within the same open six-month, broad-signer system, and the accepted absence of Libertarian qualification does not itself identify a changed barrier. Because the allegations fail under any formulation of Anderson's calibrated review, the dissent does not reach Part II's statement of levels.
 
 ## Procedure After Action
 
-The mandate leaves the dismissal of both claims in force. The challenged congressional petition requirements remain operative.
+The mandate leaves dismissal of the qualification claim in force and returns the access claim to the district court for factual development under Part II. The challenged congressional petition requirements remain operative while that claim proceeds.
 
 ## Source Notes
 

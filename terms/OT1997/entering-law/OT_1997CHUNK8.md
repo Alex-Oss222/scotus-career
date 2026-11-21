@@ -6548,7 +6548,7 @@ For the separate questions in Timmons v. Twin Cities Area New Party, 1997-04-28,
 
 **Holding:** A challenge to the old prohibition remains live where the officials seek reversal of its invalidation and an enacted provision expressly revives that prohibition upon reversal. Chapter 419 supplies that concrete consequence; neither its replacement scheme nor completion of the 1994 election makes this dispute advisory.
 
-**Proposition-level authority:** Thomas's Parts I and III, joined by all seven other Associates; eight direct joins. Stone-Zsela agrees to reach the merits without an additional statutory rationale.
+**Proposition-level authority:** Stone-Zsela's Parts I and III, joined by all eight Associates; nine direct joins.
 
 **Limits and questions not reached:** No stay, mandate recall or compliance with the replacement scheme is assumed; its independent constitutionality and the governing law of intervening filings remain open.
 
@@ -22046,18 +22046,38 @@ If a prisoner's judgment includes costs, the full costs ordered must be paid, ne
 
 **Governing question:** Whether a ban on write-in voting violates electoral-choice or independent expressive rights.
 
-**Current rule:** Under the existing Anderson inquiry, the court assesses the character and magnitude of the actual injury against the State's precise interests and the extent to which those interests require the burden. Severe burdens require narrow tailoring to a compelling interest; reasonable, nondiscriminatory burdens ordinarily may be justified by important regulatory interests. When the complete access system imposes only reasonable burdens, a write-in prohibition is presumptively valid and may be sustained by proportionate interests, including primary finality and prevention of evasive candidacies or party raiding. The ballot need not provide an official count and publication of votes for fictional figures or arbitrary protest messages as an independent expressive entitlement.
+**Current rule:** Under the existing Anderson inquiry, the court assesses the character and magnitude of the actual injury against the State's precise interests and the extent to which those interests require the burden. Severe burdens require narrow tailoring to a compelling interest; reasonable, nondiscriminatory burdens ordinarily may be justified by important regulatory interests. A write-in prohibition is assessed within the complete access system by what the prohibition itself contributes to the asserted interests; the independent validity of surrounding filing, support and primary rules does not make it presumptively valid. When ordinary nomination routes close before voters can respond, the prohibition must leave an effective route for a genuine, legally eligible alternative candidate. The ballot need not provide an official count and publication of votes for fictional figures or arbitrary protest messages as an independent expressive entitlement.
 
 **Authority by component:**
-- Governing inherited framework: Burdick v. Takushi, “1. Review of election regulations follows the actual burden”, June 8, 1992; White, joined by O'Connor, Scalia, Souter and Thomas (five), applying Anderson and the earlier simulated Norman rule.
-- Limited-burden write-in presumption: Burdick, “2. Hawaii's complete write-in prohibition is valid in its reasonably accessible system,” June 8, 1992; same five Justices.
+- Governing inherited framework: Burdick v. Takushi, “1. Review of election regulations follows the actual burden”, June 8, 1992; Stone, joined by Blackmun, Stevens, Kennedy and Souter (five), applying Anderson and the earlier simulated Norman rule.
+- Complete-system assessment and effective-route requirement: Burdick, “2. Hawaii’s complete write-in prohibition leaves no effective route for a genuine alternative candidate,” June 8, 1992; same five Justices.
 - Arbitrary-message claim: Burdick, “3. The ballot need not serve as an official tally of arbitrary political messages,” June 8, 1992; same controlling five-Justice opinion, with all nine agreeing in rejection of that component.
 
-**Present operation effective:** Burdick v. Takushi, June 8, 1992, for the write-in presumption and expressive boundary; the underlying Anderson framework is applied unchanged.
+**Present operation effective:** Burdick v. Takushi, June 8, 1992, for the complete-system assessment, effective-route requirement and expressive boundary; the underlying Anderson framework is applied unchanged.
 
-**Exceptions and limits:** No absolute validation of all write-in bans follows. Materially more restrictive access systems may impose severe burdens. The rule does not replace strict scrutiny of content-based campaign restrictions on public sidewalks.
+**Exceptions and limits:** No absolute write-in right follows, and no particular route, counting mechanism or ballot form is required. Valid qualifications, narrow anti-raiding and sore-loser rules and materially different systems remain open. The rule does not replace strict scrutiny of content-based campaign restrictions on public sidewalks.
 
 **Holdings navigation:** Burdick v. Takushi, 504 U.S. 428 (1992) — Ballot access and political parties.
+
+### Effective alternative-candidate route after early closing of nomination
+
+**Governing question:** What a State must leave available to voters who wish to support a genuine alternative candidate when its ordinary nomination routes close before voters can respond to the actual field.
+
+**Current rule:** When a State closes its ordinary nomination routes before voters can respond to the actual field of candidates, it must leave an effective route by which voters may support a genuine, legally eligible alternative candidate. A complete write-in prohibition that leaves no such route must be justified by what the prohibition itself contributes to the State's precise interests; the validity of the surrounding filing, support and primary rules does not supply that justification, sore-loser prevention does not explain a primary ban, and anti-raiding interests do not justify excluding genuine support for a candidate on the voter's selected primary ticket. A reasonable registered write-in procedure is one effective route. The State may require eligibility, the candidate's consent and declaration, and a reasonable registration date, and it keeps its deadlines, support requirements and qualifications. Relief is prospective and confined to genuine, legally eligible candidates; no special election, particular counting mechanism or ballot form is required.
+
+**Authority by component:**
+
+- Effective-route requirement, complete-system fit and permitted conditions: Burdick v. Takushi — “2. Hawaii’s complete write-in prohibition leaves no effective route for a genuine alternative candidate,” June 8, 1992; Stone, joined by Blackmun, Stevens, Kennedy and Souter (five). White, O'Connor, Scalia and Thomas dissent.
+- Calibrated Anderson inquiry: Burdick — “1. Review of election regulations follows the actual burden,” June 8, 1992; same five, with the dissenters also accepting the calibrated framework.
+- Exclusion of fictional and protest votes: Burdick — “3. The ballot need not serve as an official tally of arbitrary political messages,” June 8, 1992; same five, with all nine agreeing in rejection of that component.
+
+**Present operation effective:** *Burdick*, June 8, 1992.
+
+**Exceptions and limits:** The Constitution guarantees neither a competitive contest nor every late candidacy, and no absolute write-in right follows. A write-in option is not the only qualifying route, and its availability is not an automatic cure for a defective printed-ballot system. Valid candidate qualifications, narrow anti-raiding and sore-loser rules, the design of a qualifying route and other States' materially different systems remain open; surrounding access rules are not independently invalidated. No new scrutiny tier is adopted.
+
+**Related current rules:** Write-in voting within the complete ballot-access system; Authorized party expansion and independently qualified slate components.
+
+**Holdings navigation:** Burdick v. Takushi, 504 U.S. 428 (1992) — Whether Hawaii's complete write-in prohibition is valid within the ballot-access system reviewed; Burdick v. Takushi, 504 U.S. 428 (1992) — What level of constitutional scrutiny applies to a restriction on voting or candidate access; Burdick v. Takushi, 504 U.S. 428 (1992) — Whether the Constitution requires the State to count and publish fictional candidates or arbitrary protest messages.
 
 ### Commercial-speech advancement and fit in selective restrictions
 
@@ -22424,6 +22444,25 @@ The claimant must show protected conduct was a substantial or motivating factor.
 **Open question:** An act compelled in every detail by federal law with no state discretion remains undecided. The particular short and incompletely adopted Provisional Plan's failure to become the benchmark creates no numerical time/use threshold and no general exclusion of every temporary or state-law-defective practice. Uncertainty about the benchmark does not prove a change, and does not excuse prospective use after a covered unprecleared change is established.
 
 **Holdings navigation:** Lopez v. Monterey County (1996-11-06) — State compulsion does not exempt a covered County's administration; Lopez v. Monterey County (1996-11-06) — Electorate changes and the limits of prior submission; Lopez v. Monterey County (1996-11-06) — Effective designation and prospective enforcement; Lopez v. Monterey County (1996-11-06) — Enforcement and a genuinely judicial temporary remedy; Young v. Fordice (1997-03-31) — Election Law / Voting Rights Act preclearance; Foreman v. Dallas County (1997-06-27) — Whether county discretion exempts changed methods for appointing polling officials; Foreman v. Dallas County (1997-06-27) — Whether approval of the 1985 state recodification precleared undisclosed county formulas; Foreman v. Dallas County (1997-06-27) — What remand and nonuse follow from the missing 1972 baseline.
+
+### Meaningful official recognition of a qualified party's consenting nomination
+
+**Governing question:** Whether a State may categorically prevent a qualified political party from nominating, and having recognized on the official ballot, a consenting eligible candidate who also seeks or holds another party's nomination.
+
+**Current rule:** Under the existing Anderson inquiry, denying a qualified party's legally operative nomination of its chosen, consenting candidate solely because another party also nominated him imposes a substantial, though not severe, burden on the party's candidate selection and on its members' ability to vote for that nominee under the party's name. Endorsement and campaigning outside the ballot do not replace the nomination the State has made legally operative. No new scrutiny tier follows; the State's precise interests must be weighed and genuinely connected to the burden. Ballot integrity, defined nomination choices and political stability are legitimate interests, but stability cannot mean preserving established parties' competitive position, and conjecture does not justify a categorical ban where consent, recognized-party status, clear labeling and single counting address the asserted concerns and the record shows no confusion, fraud, duplicate counting or splintered vote. When a qualified party genuinely nominates an eligible, consenting candidate, the State must provide a meaningful official means of recognizing that nomination. It may choose separate party lines or a single consolidated listing with the applicable party names, require the candidate's consent and prevent any ballot from being counted more than once.
+
+**Authority by component:**
+
+- Burden, fit and meaningful official recognition: Timmons v. Twin Cities Area New Party — II. The categorical ban is not justified as applied to this consenting nomination, 1997-04-28; Stone-Zsela, joined by Stevens, Kennedy, Souter and Ginsburg (five). Thomas, joined by O'Connor, Scalia and Breyer, dissents.
+- Live controversy and the statutory consequence of affirmance: Timmons — I. The conditional enactment leaves a live controversy; III. Affirmance does not engage the enacted expiration condition, and no election is reopened, 1997-04-28; all nine Justices.
+
+**Present operation effective:** Timmons, 1997-04-28.
+
+**Exceptions and limits:** No right to a separate ballot line, multiple vote credit, a particular ballot format or separate party vote totals is recognized, and no party-specific counting rule is decided. No independent challenge to consent, counting, format, support or deadline rules is adjudicated. The holding concerns a timely nomination of a candidate who was not defeated in another party's primary; sore-loser rules, a required other-party consent, the distinct two-major-party prohibition and the independent validity of Minnesota's chapter 419 conditions are not decided. Whether a demonstrated threat to effective governing, connected to fusion, could justify a narrower limit is reserved. Completed elections are not reopened.
+
+**Related current rules:** “Authorized party expansion and independently qualified slate components” protects authorized party identity; “Write-in voting within the complete ballot-access system” supplies the calibrated framework, and “Effective alternative-candidate route after early closing of nomination” protects a genuine choice of an actual candidate.
+
+**Holdings navigation:** Timmons v. Twin Cities Area New Party (1997-04-28) — The categorical ban is not justified as applied to this consenting nomination; Timmons v. Twin Cities Area New Party (1997-04-28) — The conditional enactment leaves a live controversy; Timmons v. Twin Cities Area New Party (1997-04-28) — Affirmance does not engage the enacted expiration condition, and no election is reopened.
 
 ### Generic promotion assessments in collective agricultural marketing
 

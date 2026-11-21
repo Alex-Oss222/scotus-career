@@ -1,12 +1,12 @@
 {
   "scope": "151-153 historical reconciliation; September 21, 1998",
   "context_scope": "Frozen neutral, preparation, source hashes, non-Stone commitments, three scoped comparators; no private Stone material, raw Decision Records, full brief or other control files",
-  "neutral_manifest_sha256": "2ce90edd7f20df8a0b615ff07e98bf0161ea2aaadbce337dd159aa05b104eb6e",
+  "neutral_manifest_sha256": "797a95597dcf632b16ed34effaaee70970e729bbdfef1927d4d338fd48c99caf",
   "source_hash_checks": [
     {
       "path": "terms/OT1997/freeze/OT_1997CHUNK13_ELECTIONS_SEP21_SOURCE_OT_1997CHUNK13_ELECTIONS_SEP21_BASE.md",
-      "expected_sha256": "f5b071c75799205011c4af3725d92446846a39923a82341f7f509ffff47ae013",
-      "actual_sha256": "f5b071c75799205011c4af3725d92446846a39923a82341f7f509ffff47ae013",
+      "expected_sha256": "d2a8a478c6d44dfe0164416ef994dec1371e5f45eec448ec8302969acd708e96",
+      "actual_sha256": "d2a8a478c6d44dfe0164416ef994dec1371e5f45eec448ec8302969acd708e96",
       "bytes": 1232347,
       "pass": true
     },
@@ -124,22 +124,22 @@
     },
     {
       "path": "terms/OT1997/freeze/OT_1997CHUNK13_ELECTIONS_SEP21_SOURCE_NEUTRAL_153.md",
-      "expected_sha256": "de6c04d67f6b2dd844cd66231eaf30c3a8b6e9a20058789a1979fc5a23d4b50b",
-      "actual_sha256": "de6c04d67f6b2dd844cd66231eaf30c3a8b6e9a20058789a1979fc5a23d4b50b",
+      "expected_sha256": "43fe449376625e7e91b53172b8d7d0e01b2806d18f9fb32f54131218efb4c36f",
+      "actual_sha256": "43fe449376625e7e91b53172b8d7d0e01b2806d18f9fb32f54131218efb4c36f",
       "bytes": 8064,
       "pass": true
     },
     {
       "path": "terms/OT1997/freeze/OT_1997CHUNK13_NEUTRAL_ELECTIONS_SEP21.md",
-      "expected_sha256": "39e9b9591b028e57fab6e8ef378dca03cab0b5fa821a328639d0bb6a291873a9",
-      "actual_sha256": "39e9b9591b028e57fab6e8ef378dca03cab0b5fa821a328639d0bb6a291873a9",
+      "expected_sha256": "67921c0dabda519b938a452d15af1ba5d2e136a56025ca1aab30c8b6866999d0",
+      "actual_sha256": "67921c0dabda519b938a452d15af1ba5d2e136a56025ca1aab30c8b6866999d0",
       "bytes": 45183,
       "pass": true
     },
     {
       "path": "terms/OT1997/freeze/OT_1997CHUNK13_COMMITMENTS_ELECTIONS_SEP21.md",
-      "expected_sha256": "85d0e33f5e3f6b4deab9c958a8be125ee42cc67eaff07565b9871edb9ec02b51",
-      "actual_sha256": "85d0e33f5e3f6b4deab9c958a8be125ee42cc67eaff07565b9871edb9ec02b51",
+      "expected_sha256": "b9962509ff61fb148057c40002a31f43818c836ced106504684da33eab76a62d",
+      "actual_sha256": "b9962509ff61fb148057c40002a31f43818c836ced106504684da33eab76a62d",
       "bytes": 31297,
       "pass": true
     },
@@ -243,7 +243,7 @@
   },
   "reconciled_artifact": {
     "path": "terms/OT1997/freeze/OT_1997CHUNK13_RECONCILED_ELECTIONS_SEP21.md",
-    "sha256": "5e1a623d599c1c41bc82a77d83a90b1b8df934dbfd0ee35e42767caf91c2f63f",
+    "sha256": "04d25699c7663377eff1dc2d87dda6b6349c40fa565f743a1042f4acc68c369e",
     "bytes": 11519
   },
   "git_operation": "none; operator commit pending"

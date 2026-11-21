@@ -902,7 +902,7 @@
 
 ### Issue 1: Party recognition and accurate candidate affiliation
 
-* **Controlling Simulated Law:** Burdick v. Takushi requires assessment of the character and magnitude of the burden against the state’s actual interests. Timmons v. Twin Cities Area New Party sustains the particular antifusion restriction in its record while preserving the importance of other means of association and expression.
+* **Controlling Simulated Law:** Burdick v. Takushi requires assessment of the character and magnitude of the burden against the state’s actual interests. Timmons v. Twin Cities Area New Party invalidates the particular antifusion restriction as applied and requires a meaningful official means of recognizing a qualified party’s genuine nomination of a consenting candidate, while leaving ballot presentation, consent and prevention of double counting to the state.
 * **Current Reusable Doctrine:** Identify the precise ballot burden and its practical alternatives. A less severe burden can receive proportionate review, but an administrative label does not exempt the state from explaining the restriction’s fit.
 * **Other Governing Law:** The First and Fourteenth Amendments, Ohio’s applicable party-recognition and independent-nomination provisions, and Article III’s live-controversy requirements govern.
 * **Material Other Authority:** Anderson v. Celebrezze supplies the historical balancing framework. An official recognized-party nomination and a truthful statement of affiliation need not convey the same governmental representation.

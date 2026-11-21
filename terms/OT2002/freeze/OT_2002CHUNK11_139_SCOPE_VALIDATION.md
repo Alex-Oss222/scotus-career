@@ -11,7 +11,7 @@ Six full affirmances; two partial reversals seeking a precisely narrowed existin
 No current Stone position, comparator, reconciliation substance, author selection or Record internals entered this work.
 No local-machine path appears in the commitment file. Identity checks do not decide legal substance.
 
-Original neutral SHA-256: `d05378b6ab2dac5589ac94a166cab7b68fafe577a650070bf08267d8fc16bdb4`
-Original commitments SHA-256: `fe0fa4adac6ed8eaf3c027daa6bb7067176ff1db59646fadaffc01c564d0193d`
+Original neutral SHA-256: `6a8f2f95adc33a3ce5ba87dde52eb295dcd956be4bb72bd987a30a62cdb6ef9e`
+Original commitments SHA-256: `90bcdbcf10c7a7476549244cb7c4e61a6f624a721600af74809e0e7aa726e8a7`
 Scope neutral SHA-256: `f6cce59cd14a7eb5e78852df3694cde1d89e50ea095b762eacb4bffc99af4d85`
-Scope commitments SHA-256: `43d4606f222e38581443ba5620503fa227468ba594306b6cb233dbbaa9bf4c1d`
+Scope commitments SHA-256: `bbe334af75f4a744a483af569032d14378df07be38c7c9447014e38dfccff0d3`

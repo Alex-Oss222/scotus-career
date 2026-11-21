@@ -4,7 +4,7 @@ Scope: 151, *Jordahl v. Democratic Party of Virginia*, No. 97-859; 152, *Liberta
 
 ## Disposition of the frozen commitments
 
-The complete [independent commitments](OT_1997CHUNK13_COMMITMENTS_ELECTIONS_SEP21.md), including every Justice's sufficient ground, competing path, reservation and join barrier, are adopted unchanged as the reconciled non-Stone commitments. Their SHA-256 is `85d0e33f5e3f6b4deab9c958a8be125ee42cc67eaff07565b9871edb9ec02b51`. This incorporation preserves the full analysis; the component table below is navigation, not a replacement or enlargement. No authorship is assigned and no Stone vote or join is supplied.
+The complete [independent commitments](OT_1997CHUNK13_COMMITMENTS_ELECTIONS_SEP21.md), including every Justice's sufficient ground, competing path, reservation and join barrier, are adopted unchanged as the reconciled non-Stone commitments. Their SHA-256 is `b9962509ff61fb148057c40002a31f43818c836ced106504684da33eab76a62d`. This incorporation preserves the full analysis; the component table below is navigation, not a replacement or enlargement. No authorship is assigned and no Stone vote or join is supplied.
 
 The reconciliation context received only the governing instructions, the frozen neutral packet, its preparation and source-hash receipt, the frozen independent commitments, and the three scoped comparator files. It did not receive a Stone supplement, private Stone position, complete brief, raw Decision Record, or other control file. The neutral preparation's corrections govern the appended original neutral text. Source-hash checks and comparator-copy identities are recorded in [the validation receipt](OT_1997CHUNK13_ELECTIONS_RECONCILIATION_VALIDATION_SEP21.json).
 

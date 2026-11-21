@@ -144,7 +144,7 @@ The recount read each earlier actual Public Projection / Opinion Topology table 
 - Church of Scientology International v. Behar, 2001-11-27: Kennedy.
 - Correctional Services Corp. v. Malesko, 2001-11-27: Stevens.
 - J. E. M. Ag Supply, Inc. v. Pioneer Hi-Bred International, Inc., 2001-12-10: Souter.
-- Schrader v. Blackwell, 2001-12-10: Thomas.
+- Schrader v. Blackwell, 2001-12-10: Stevens.
 - United States v. Knights, 2001-12-10: Scalia.
 - Dusenbery v. United States, 2002-01-08: Stone.
 - Great-West Life & Annuity Insurance Co. v. Knudson, 2002-01-08: Thomas.

@@ -18,8 +18,8 @@ SHA-256 identifies the bytes consulted or preserved; these are source integrity 
 
 | Relative artifact | SHA-256 |
 |---|---|
-| `freeze/OT_2001CHUNK1_B_COMMITMENTS.md` | `3032ffb6277fcab08260b88f78022ef9a16e52f3ff44c179b6bf0962d74f05b7` |
-| `freeze/OT_2001CHUNK1_B_STANDARDS_CONFIRMATION.md` | `eba55749d867211ceb91a3d32343a4ce9a0cf9c6e4b5b5b3482c0f0905babe41` |
+| `freeze/OT_2001CHUNK1_B_COMMITMENTS.md` | `9760395d5941c24c51349afff477077e2d2b3a7cf536f3c63ae08fc81def022c` |
+| `freeze/OT_2001CHUNK1_B_STANDARDS_CONFIRMATION.md` | `ca2a191155012e86c29dbf5950d51a8c5eb90db77c37725c85a061710152baed` |
 | `sources/knights-534us112.pdf` | `be97de207a797480805abcb73d331ece29c49d9548ac39ed302ad2694588334c` |
 | `sources/knights-534us112.txt` | `cbf97cdc7c6af75b8a26d76267e8318792f813a943e08d18c7d759681f810d2c` |
 | `sources/toyota-534us184.pdf` | `59eb24ec2df9ba066b736a79eb4dbf8b4ab8aaf7fb2c03c6d5db35e3099636d2` |
@@ -41,4 +41,4 @@ Additional final input hashes:
 |---|---|
 | `freeze/OT_2001CHUNK1_TOYOTA_SCOPE_COMMITMENTS.md` | `718fb4c83a1e9dde50e4c3e747980ccf5ab3330aa8b6f4bcb66e4d26d731364e` |
 | `runtime/OT_2001CHUNK1_TOYOTA_SCOPE_VALIDATION.md` | `97da062ab125fa6787295d0aa4ac3fb65bbb73ac677b9e354bb0d5f9577a2ef0` |
-| `freeze/OT_2001CHUNK1_B_RECONCILED.md` | `b5604cebfe301dfa414e44155bb1ba619a81df5e2f6de29d22112b7c6b488760` |
+| `freeze/OT_2001CHUNK1_B_RECONCILED.md` | `d8e3767b546aaf83e97b3c79447000af35f12a991a153d96eef9af10fd442af9` |

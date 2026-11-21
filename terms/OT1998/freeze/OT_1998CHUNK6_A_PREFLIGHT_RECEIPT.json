@@ -13,13 +13,13 @@
     {
       "source": "terms/OT1998/runtime/OT_1998CHUNK6_A_NEUTRAL.md",
       "frozen": "terms/OT1998/freeze/OT_1998CHUNK6_A_NEUTRAL.md",
-      "sha256": "c884f2680d78d645f2096b32d31d792f61e4578882b09d28f77d84869929daea",
+      "sha256": "89d365ceea8c924aabca70214695167b51e33ee905b6d74f1af465257c1188d3",
       "bytes": 36325
     },
     {
       "source": "terms/OT1998/runtime/OT_1998CHUNK6_A_NEUTRAL_SUPPLEMENT.md",
       "frozen": "terms/OT1998/freeze/OT_1998CHUNK6_A_NEUTRAL_SUPPLEMENT.md",
-      "sha256": "a39ab973dca779c7cb9a5a9b91097d7278af7a8a21e28abfabfa28e3bbd4e7c5",
+      "sha256": "d3a4076b20eea14c0e7c5396e5f9ea0e7238aeeff1eadc693ea94d48bc146021",
       "bytes": 31952
     },
     {
@@ -37,28 +37,28 @@
     {
       "source": "terms/OT1998/entering-law/OT_1998CHUNK6_A_SELECTED_HOLDINGS.md",
       "frozen": "terms/OT1998/freeze/OT_1998CHUNK6_A_SELECTED_HOLDINGS.md",
-      "sha256": "c4ef662d2e5fe93bd4fe093387a711fed1c894e9552a2b36f97cce78f9b857e5",
+      "sha256": "bf4aac8d6107985e7c8cdcf666074c5d94dcd814468fd29833661054061d723f",
       "bytes": 76177
     },
     {
       "source": "terms/OT1998/entering-law/OT_1998CHUNK6_A_SELECTED_STANDARDS.md",
       "frozen": "terms/OT1998/freeze/OT_1998CHUNK6_A_SELECTED_STANDARDS.md",
-      "sha256": "ef7eb4049d2a616bf48bb6ed9baf004460f0160993112167ec76c32f90b6e957",
+      "sha256": "639872581249e9410bee8c30ae314790b4f1e3fd190b373e392e80a87b6be98f",
       "bytes": 35230
     },
     {
       "source": "terms/OT1998/entering-law/OT_1998CHUNK6_A_PUBLISHED_POSITIONS.md",
       "frozen": "terms/OT1998/freeze/OT_1998CHUNK6_A_PUBLISHED_POSITIONS.md",
-      "sha256": "1809d7f19e600a782f1a23b8ca7dd803cc0027ddd315f6a07fd9a76af2f06dcb",
+      "sha256": "563d64163ee419bc08e36671b77c77336f8c161a013037a61a89a1fea189eaef",
       "bytes": 18556
     },
     {
       "source": "terms/OT1998/entering-law/OT_1998CHUNK6_A_CURRENT_PUBLIC.md",
       "frozen": "terms/OT1998/freeze/OT_1998CHUNK6_A_CURRENT_PUBLIC.md",
-      "sha256": "1fda669bb7151ca0391f173bcb2697c0c75b76d061321d8758c86d167d967515",
+      "sha256": "8a8f37171fc63b0800c182a44818c6ba2f431f7643698326e2d45e235eeda911",
       "bytes": 53023
     }
   ],
   "neutral_projection_sha256": "853035b903719e66e86483e7f7804387581d4d350337ad8915a9de0a8acce482",
-  "large_tool_generated_slice_sha256": "3afc6dac0c170f919706cb01c77d13b9df41302d2bc88d0c211793b14d63d2ea"
+  "large_tool_generated_slice_sha256": "d7ff44d065cb126335ad1cef90834930ab2b272d56f2ae1f06b1709d249389af"
 }

@@ -6,7 +6,7 @@ The original June24 independent group is operative only for BE&K, Kirk and Ruiz.
 
 | Matter | Operative frozen source | SHA-256 of complete source |
 |---|---|---|
-| United States v. Angle | [OT_2001CHUNK8_ANGLE_COMMITMENTS.md](../freeze/OT_2001CHUNK8_ANGLE_COMMITMENTS.md) | 917b69cd58487d57e1953d7b25a05edf7b87247604342b1869e9e66cacf4f05a |
+| United States v. Angle | [OT_2001CHUNK8_ANGLE_COMMITMENTS.md](../freeze/OT_2001CHUNK8_ANGLE_COMMITMENTS.md) | ec2c857a1bd0e58db145c1b3743a6f1c35c508e9b6705e62ae461afe8c7c406b |
 | BE&K Construction Co. v. NLRB | [OT_2001CHUNK8_JUNE24_INDEPENDENT_COMMITMENTS.md](../freeze/OT_2001CHUNK8_JUNE24_INDEPENDENT_COMMITMENTS.md) | 9261d5756080a9e14373ae2bad69c5cdf064e126517857e6a92bfaa203d3caff |
 | Harris v. United States | [OT_2001CHUNK8_HARRIS_RING_COMMITMENTS.md](../freeze/OT_2001CHUNK8_HARRIS_RING_COMMITMENTS.md) | 2e5ea0cfc72961ce8e878ba9a607df504732f14dd6694cf5fbececa868ed15ea |
 | Kirk v. Louisiana | [OT_2001CHUNK8_JUNE24_INDEPENDENT_COMMITMENTS.md](../freeze/OT_2001CHUNK8_JUNE24_INDEPENDENT_COMMITMENTS.md) | 9261d5756080a9e14373ae2bad69c5cdf064e126517857e6a92bfaa203d3caff |

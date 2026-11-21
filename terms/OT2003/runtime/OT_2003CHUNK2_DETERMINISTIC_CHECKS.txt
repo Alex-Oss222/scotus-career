@@ -29,7 +29,7 @@ united_states_v_banks_merits_2003-12-02.md controlling explanation word counts [
 united_states_v_deaton_merits_2003-12-11.md controlling explanation word counts [225, 260, 160, 141]
 united_states_v_ho_merits_2003-11-20.md controlling explanation word counts [231, 156]
 valeria_v_davis_merits_2003-11-25.md controlling explanation word counts [204, 252]
-van_susteren_v_jones_merits_2003-12-04.md controlling explanation word counts [240, 92]
+van_susteren_v_jones_merits_2003-12-04.md controlling explanation word counts [318, 92]
 virginia_v_maryland_merits_2003-12-09.md controlling explanation word counts [341, 94]
 washoe_county_v_united_states_merits_2003-11-17.md controlling explanation word counts [81, 142, 157]
 yarborough_v_gentry_merits_2003-10-20.md controlling explanation word counts [98, 134]

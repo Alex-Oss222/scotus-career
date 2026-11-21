@@ -2,7 +2,7 @@
   "stage": "fresh Brower historical reconciliation",
   "runtime": "terms/OT1998/runtime/OT_1998CHUNK6_BROWER_REFRESH_RECONCILED.md",
   "freeze": "terms/OT1998/freeze/OT_1998CHUNK6_BROWER_REFRESH_RECONCILED.md",
-  "sha256": "88ef92890e28cd3ff15cc36f8321ff98fb8dcfcd645d54458c73821e608b097d",
+  "sha256": "6075b84ae1c437e02cb5d762e768d951377def6f32a88e826532fa202b74a9b6",
   "identical": true,
   "research_cutoff": "1999-03-25 before Brower",
   "historical_supreme_court_merits_comparator": false,

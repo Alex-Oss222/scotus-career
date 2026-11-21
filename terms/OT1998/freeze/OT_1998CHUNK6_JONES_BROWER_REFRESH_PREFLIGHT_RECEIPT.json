@@ -21,7 +21,7 @@
     {
       "source": "terms/OT1998/runtime/OT_1998CHUNK6_BROWER_REFRESH_PREFLIGHT.md",
       "frozen": "terms/OT1998/freeze/OT_1998CHUNK6_BROWER_REFRESH_PREFLIGHT.md",
-      "sha256": "d76080ed889cfe33ea534d055303950fa4376807d59d984326a49de6dd5a137b",
+      "sha256": "87b619f44d7a9ff0bb4db4692ac5ba14b07cd8bc0e84d2082c852ea05ed34fd2",
       "bytes": 8638
     },
     {
@@ -44,7 +44,7 @@
     }
   ],
   "original_freeze_sha256": {
-    "OT_1998CHUNK6_A_NEUTRAL.md": "c884f2680d78d645f2096b32d31d792f61e4578882b09d28f77d84869929daea",
-    "OT_1998CHUNK6_A_NEUTRAL_SUPPLEMENT.md": "a39ab973dca779c7cb9a5a9b91097d7278af7a8a21e28abfabfa28e3bbd4e7c5"
+    "OT_1998CHUNK6_A_NEUTRAL.md": "89d365ceea8c924aabca70214695167b51e33ee905b6d74f1af465257c1188d3",
+    "OT_1998CHUNK6_A_NEUTRAL_SUPPLEMENT.md": "d3a4076b20eea14c0e7c5396e5f9ea0e7238aeeff1eadc693ea94d48bc146021"
   }
 }

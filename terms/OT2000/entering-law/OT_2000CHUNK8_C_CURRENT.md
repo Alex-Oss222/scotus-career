@@ -483,7 +483,7 @@ Authority: [controlling holdings and authority limits](../records/Wood_v_Meadows
 
 **Authority:** Souter's complete opinion is supported by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer, including its author. Those seven direct joins control the application and affirmance.
 
-**Controlling explanation:** The Court applies Anderson's examination of actual injury, precise interests and fit. Burdick requires compelling-interest narrow tailoring for severe restrictions and permits proportionate important regulatory interests for reasonable, nondiscriminatory restrictions. Timmons permits preventive nomination rules within an accessible complete system without granting them immunity from constitutional review.
+**Controlling explanation:** The Court applies Anderson's examination of actual injury, precise interests and fit. Burdick requires compelling-interest narrow tailoring for severe restrictions and permits proportionate important regulatory interests for reasonable, nondiscriminatory restrictions. Timmons requires that a burden on nomination be genuinely connected to the interests asserted for it, while leaving orderly candidate-selection rules available.
 
 Wood's exclusion involved 14,865 signatures, including 200 per congressional district. Collection began January 1; signers could support multiple candidates and still vote in a primary, and candidates needed no prior party disaffiliation. Primary candidates filed sixty days earlier, while other party nomination methods ended by June. Independents thus received meaningful time after primary candidates filed, although no opportunity to wait for the primary result. That lost opportunity is a real burden, but it does not establish a severe barrier within this system.
 
@@ -492,8 +492,8 @@ The Commonwealth's asserted interests include verification, demonstrated support
 **Precedent treatment:**
 
 - Anderson v. Celebrezze: applied as the actual burden, precise interest and fit inquiry; its earlier presidential deadline does not mechanically decide this Senate system.
-- Burdick v. Takushi: applied without changing its calibrated scrutiny or importing an absolute rule from its write-in application.
-- Timmons v. Twin Cities Area New Party: applied for proportionate preventive nomination administration in an accessible system; it remains neither pure rational-basis review nor permission to suppress competition.
+- Burdick v. Takushi: applied without changing its calibrated scrutiny; its effective-route holding concerns ordinary nomination routes that close before voters can respond to the actual field, and this system leaves independents meaningful time to organize after primary candidates file, without any entitlement to every late candidacy.
+- Timmons v. Twin Cities Area New Party: applied for genuine fit between a nomination burden and the State's precise interests, leaving orderly candidate-selection rules available; it remains neither pure rational-basis review nor permission to suppress competition.
 - Norman v. Reed and Moore v. Ogilvie: applied to the continuing election controversy and meaningful access; support screening remains permissible within the actual electorate.
 - Storer v. Brown: applied for the legitimate role of orderly candidate selection, without validating every deadline.
 

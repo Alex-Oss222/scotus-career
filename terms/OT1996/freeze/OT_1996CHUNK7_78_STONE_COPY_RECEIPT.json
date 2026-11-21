@@ -4,8 +4,8 @@
   "source_sha256": "bfec352414ab856f9b8bb56e22dae7fff6339e6fd2826c606dc6dd0765511e7a",
   "character_interval": [
     23021,
-    30394
+    31881
   ],
-  "copy_sha256": "aac54330e146ed9b5f0b8a285480c80230203b677f80b49a7e6a8b09aac43907",
-  "reconciled_freeze_sha256": "65d24bea538bf844d05238069c5f1fdac2120e34d077fd8b751dc57acb1798f5"
+  "copy_sha256": "c35da80435dd7e80ecdda1fb1df5c286f583d58173dd2823546e22661766e8fa",
+  "reconciled_freeze_sha256": "1859f0ac1c955dba7945d54f3ecb35ca59210ae5ea0da8d0bf560b91c702ad8d"
 }

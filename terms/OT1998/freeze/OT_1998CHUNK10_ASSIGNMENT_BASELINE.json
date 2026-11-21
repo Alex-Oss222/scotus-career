@@ -7383,21 +7383,21 @@
       "event": "Merits decision, 1999-05-20; October Term 1998.",
       "qualifying": true,
       "form": "Signed lead: Opinion of the Court in whole or part, or opinion announcing the judgment.",
-      "full_merits_status": "Qualifying signed opinion announcing judgment after post-grant merits consideration of the submitted record, although its lead ground is procedural; no argument date supplied.",
+      "full_merits_status": "Qualifying signed opinion of the Court after post-grant merits consideration of the submitted record; no argument date supplied.",
       "actual_lead_authors": [
-        "Breyer"
+        "Stevens"
       ],
       "author_source": "opinion-table rows",
       "author_count_increments": {
         "Stone-Zsela": 0,
-        "Stevens": 0,
+        "Stevens": 1,
         "O'Connor": 0,
         "Scalia": 0,
         "Kennedy": 0,
         "Souter": 0,
         "Thomas": 0,
         "Ginsburg": 0,
-        "Breyer": 1
+        "Breyer": 0
       },
       "classification_notes": [],
       "quoted_extracts": {
@@ -7416,7 +7416,7 @@
             "lines": [
               137
             ],
-            "quote": "| Lead opinion announcing the judgment | Breyer | O'Connor, Scalia, Thomas | Supports affirmance | Procedural preservation ground only; no constitutional merits holding. |"
+            "quote": "| Opinion of the Court | Stevens | Stone-Zsela, Kennedy, Souter, Ginsburg | Supports vacatur and remand | Complete opinion: preserved legal organizational-autonomy argument; ordinary factual and constitutional examination on remand, without final merits determination. |"
           }
         ],
         "assignment_classification": [
@@ -7426,7 +7426,7 @@
           },
           {
             "line": 14,
-            "quote": "Signed lead opinion announcing the judgment after post-grant merits consideration of the submitted record; no Supreme Court argument date is supplied."
+            "quote": "One signed Opinion of the Court after post-grant merits consideration of the submitted record; no Supreme Court argument date is supplied."
           }
         ],
         "plenary_predicate": []

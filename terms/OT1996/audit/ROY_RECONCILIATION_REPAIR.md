@@ -53,7 +53,7 @@ Local links in the handoff were checked against existing targets; the sole initi
 | `freeze/ROY_NEUTRAL_REPAIR_VALIDATED.md` | `1c5d3400d5fea84a143e7d73bb137a25a6cc052c4645d0c40a4dca064ff253da` |
 | `freeze/OT_1996CHUNK1_COMMITMENTS_ROY_REPAIR.md` | `7fab77e1ad6d8656d1c7b5ed778e847d16f044c1e393f7bbacf08b1f7d5caa7c` |
 | `runtime/OT_1996CHUNK1_ROY_COMPARATOR.md` | `a7407e02dcb6de82796f4e3bf44557963bba28d4b7fd15a3af233a93291899bd` |
-| `entering-law/OT_1996CHUNK1_A.md` | `b3cae8e3c7a6c07d0578dab1ffc03b8332c27900d86c5471154ca6ec10bca6ce` |
+| `entering-law/OT_1996CHUNK1_A.md` | `8a2b1b3c038b3c541ae28e7bec0b5988838aafcd97c8eb3bb7de45e696269728` |
 | `entering-law/OT_1996CHUNK1_PRIOR_TO_ROY.md` | `6c9ad171f82735759cb77212e84530e74563c27d2039afd32f6e10ebe0dd74e0` |
 | `sources/reconciliation-a/roy-official.txt` | `d669f874790ac29cb076422693a80fe27d57734c4327eff57147393eb1fc7d38` |
 | `sources/reconciliation-a/roy-official.pdf` | `4ca356157f51aa00e442f285b006b7a7216ae9f6b75079044b23e2dcee12b063` |

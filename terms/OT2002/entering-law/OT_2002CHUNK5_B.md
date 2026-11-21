@@ -5949,7 +5949,7 @@ For the separate questions in Timmons v. Twin Cities Area New Party, 1997-04-28,
 
 **Holding:** A challenge to the old prohibition remains live where the officials seek reversal of its invalidation and an enacted provision expressly revives that prohibition upon reversal. Chapter 419 supplies that concrete consequence; neither its replacement scheme nor completion of the 1994 election makes this dispute advisory.
 
-**Proposition-level authority:** Thomas's Parts I and III, joined by all seven other Associates; eight direct joins. Stone-Zsela agrees to reach the merits without an additional statutory rationale.
+**Proposition-level authority:** Stone-Zsela's Parts I and III, joined by all eight Associates; nine direct joins.
 
 **Limits and questions not reached:** No stay, mandate recall or compliance with the replacement scheme is assumed; its independent constitutionality and the governing law of intervening filings remain open.
 
@@ -7189,13 +7189,13 @@ For the statutory floor, equality rules and prospective remedies in Romeu v. Coh
 
 **Decided:** December 10, 2001.
 
-For Schrader v. Blackwell, December 10, 2001, concerning the recognition-linked official designation, see Election Law — Official party designations and recognition requirements.
+For Schrader v. Blackwell, December 10, 2001, concerning the truthful party designation, see Election Law — Official party designations and recognition requirements.
 
 ##### Whether the completed election and restored party recognition end the controversy
 
 **Holding:** Completion of the election and the party's later recognition do not end this challenge to a recognition requirement capable of recurring against the continuing party plaintiff in elections too short for full review. The Court reaches the ballot-designation dispute under the capable-of-repetition exception.
 
-**Proposition-level authority:** Thomas's opinion on the threshold question, joined by all eight other Justices.
+**Proposition-level authority:** Stevens's opinion on the threshold question, joined by all eight other Justices.
 
 **Material application:** The continuing party plaintiff is subject to periodic recognition requirements and has lost and regained recognition; recurrence can evade complete review within an election cycle.
 

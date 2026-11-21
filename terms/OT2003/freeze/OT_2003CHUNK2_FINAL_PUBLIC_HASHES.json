@@ -61,9 +61,9 @@
   },
   {
     "record": "van_susteren_v_jones_merits_2003-12-04.md",
-    "record_sha256": "fbdec79555196e817572437023b9ba3ae5274589385e58776b17d7c28f55f34b",
+    "record_sha256": "9d4634ee3ff2860e6da591debdb328b627d599fd2731fd30b42cd65d1d11ed3f",
     "final_public": "OT_2003CHUNK2_VAN_SUSTEREN_PUBLIC_FINAL_LAYOUT.md",
-    "public_saved_byte_sha256": "90b2476a95f702e2cd4bdfe3ef2a2382569c5fe6149c97dbaf5a439d8e647db6"
+    "public_saved_byte_sha256": "c0bc9df9321a8b6289cd46e19126fc6697f3eb89800db7f9c5ecc4b52245bc1e"
   },
   {
     "record": "virginia_v_maryland_merits_2003-12-09.md",
@@ -91,7 +91,7 @@
   },
   {
     "record": "maryland_v_pringle_merits_2003-12-15.md",
-    "record_sha256": "ba4a9893e6f7bf6baabd02bf00f369949b93e1ad20eeef261333b07ad4839056",
+    "record_sha256": "b30fee75325c9c8760f1f55d986ba552ccc8ae3a574f8c16975e153bff8ce4e9",
     "final_public": "OT_2003CHUNK2_PRINGLE_PUBLIC_COMPLETENESS.md",
     "public_saved_byte_sha256": "c6ed05d20c76f4e5e87e2c351ea7ae0f61e396e17100c5242013b2b81ea14d9b"
   }

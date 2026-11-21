@@ -25,7 +25,7 @@ The strongest contrary argument is that selective aid magnifies existing parties
 **Treatment of earlier authority:**
 
 - Anderson applies the actual-burden and precise-interest inquiry to this financial classification.
-- Burdick preserves burden-sensitive scrutiny; its write-in presumption is not transferred to all subsidies.
+- Burdick preserves burden-sensitive scrutiny; its write-in holding is not transferred to subsidies.
 - Buckley supplies demonstrated-support funding authority while retaining constitutional limits and political fluidity; the schemes are not identical.
 - Norman preserves qualified-component ballot protection without creating automatic party-expense funding.
 - Arkansas Educational Television Commission v. Forbes preserves review of genuine support criteria and viewpoint discrimination; its forum classification is not an election-finance rule.

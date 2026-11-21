@@ -9,7 +9,7 @@ No defect was found.
 | Event | Lead author | Verified assignment point |
 |---|---|---|
 | J. E. M., December 10 | Souter | Full seven-member eligibility/coexistence coalition; Chief assigns within pool. Scalia retains his full join and additional concurrence; Stevens's dissent has Breyer's join. |
-| Schrader, December 10 | Thomas | O'Connor assigns the five-member merits ground; Stone assigns the unanimous recurring-controversy ground to the same author. Thomas supports every proposition in the combined opinion and belongs to both relevant pools. The broader threshold eligibility does not make a merits dissenter eligible to write the whole opinion. One author and one lead count; the Chief does not assign the contrary merits disposition. |
+| Schrader, December 10 | Stevens | Stone assigns the five-member merits ground and the unanimous recurring-controversy ground to the same author. Stevens supports every proposition in the combined opinion and belongs to both relevant pools. The broader threshold eligibility does not make a merits dissenter eligible to write the whole opinion. One author and one lead count; the Chief assigns within both recorded pools. |
 | Knights, December 10 | Scalia | All nine fully join the bounded rule; the common opinion preserves Souter's qualification. Chief assignment and pool are correct. |
 | Dusenbery, January 8 | Stone-Zsela | Full five-member route/application support; self-assignment compares O'Connor's case-specific fit and counts. Stevens's four-member dissent does not become a join in the adequacy application. |
 | Great-West, January 8 | Thomas | Full five-member remedy support; Souter states the four-member common restitution dissent without an added injunction theory. |

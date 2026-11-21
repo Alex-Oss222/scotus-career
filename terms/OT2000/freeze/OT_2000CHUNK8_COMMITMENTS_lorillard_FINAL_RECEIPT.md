@@ -19,10 +19,10 @@ The handoff retains the different small-sign statuses, the statutory compliant-p
 | Input | SHA-256 | Coverage |
 | --- | --- | --- |
 | `freeze/OT_2000CHUNK8_NEUTRAL_LORILLARD_FINAL.md` | `8566ff3e75f82a6ebee006928dbc26cffebf4767a2b8d6ad28a9ca3ed4164991` | Complete final packet, all eight sections. |
-| `freeze/OT_2000CHUNK8_NEUTRAL_LORILLARD_FINAL_RECEIPT.md` | `fa8a6d3b396b0c80ae289aa76d6a7462a4c399fc14c56cb4ad7dde3f15701f5d` | Complete receipt; source boundaries and coverage were reviewed, not treated as a new substantive source. |
+| `freeze/OT_2000CHUNK8_NEUTRAL_LORILLARD_FINAL_RECEIPT.md` | `8bf8286e67a4dcca67919247e118f6b210c95cff9c5a48e19b631d9743f18dec` | Complete receipt; source boundaries and coverage were reviewed, not treated as a new substantive source. |
 | `entering-law/OT_2000CHUNK8_C_HOLDINGS.md` | `0a432638cf0d2c709dee4f553e7b08aa85610de983a6176e0ad1dec92126aaa8` | Relevant Cipollone and commercial-speech entries; Rubin material also verified through the complete public writing. |
 | `entering-law/OT_2000CHUNK8_C_STANDARDS.md` | `1e64fc6b2c0ad4af34de98b72684ba170e37754205a3e4f0f179ac04434f1a3d` | Commercial-speech, alcohol/First Amendment, and cigarette-preemption entries. |
-| `entering-law/OT_2000CHUNK8_C_CURRENT.md` | `82178e4e60541ef587fd903f61dd74237a8c33dfe43a3991193bb07edf89fb0b` | Buckman and Egelhoff holdings and published positions, neutral scope and participation. No raw Record followed. |
+| `entering-law/OT_2000CHUNK8_C_CURRENT.md` | `572a7a259194ae690150a88d150fd4b7a96d19c60566c717ac9538873b9c63c5` | Buckman and Egelhoff holdings and published positions, neutral scope and participation. No raw Record followed. |
 | `entering-law/OT_2000CHUNK8_C_PUBLIC_WRITINGS.md` | `9ed45adc15fba004edeb76fef71d6a94351918f3a606ef25b82d518b3b60b123` | Cipollone, Discovery Network, Edenfield, Rubin, 44 Liquormart, and Greater New Orleans relevant published holdings/positions. Necessary position passages were read in bounded outputs after larger outputs truncated. |
 | `entering-law/OT_2000CHUNK8_LORILLARD_PRIOR_SUPPLEMENT.md` | `1dc651960c2a3885d3fb78bb43e6ba4061a4780e02efa43828bd343a4759352c` | Relevant Medtronic, Geier, and Reno holdings, topology and separate positions. No claim to reading unrelated technical regulatory detail in full. |
 | `entering-law/OT_2000CHUNK8_C_SOURCE_TEXT.md` | `c500bccf479b6a095a63786b1b0369bc7e1f0aac759980446f28af688d8f0e8f` | Full FCLAA opening unit and complete Massachusetts original regulations and amendment instructions, lines 1505-2632; unrelated units excluded. |

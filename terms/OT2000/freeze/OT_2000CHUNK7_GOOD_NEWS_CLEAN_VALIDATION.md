@@ -22,7 +22,7 @@
 
 **Input fingerprints at freeze (SHA-256):**
 
-- runtime/OT_2000CHUNK7_NEUTRAL.md: `72f02cba7ac59b9cecdd5ef78f0e122d84fba99761ea8a0b61d9ab8e75608927`
+- runtime/OT_2000CHUNK7_NEUTRAL.md: `c99633da620345dfb2410ee4bbab1debd4f89c64f8d8bd4a1e76a8e94fd0dd2f`
 - entering-law/OT_2000CHUNK7_B.md: `3d4a120c95cd53433a2757ce4153e3f9174082368d7bed87a8d3f9cd2d6cec24`
 - workspace/neutral-projection.md: `eef4176c677098f070a9a1b3214eff29366aea4ac564fc7ab5d1248ff9d5054c`
 - freeze/OT_2000CHUNK7_NEUTRAL_GOOD_NEWS_SUPPLEMENT_B.md: `a7498ae1d082990d5507bc9eba448f085145b71f04d25d8574579dfbfc57419c`

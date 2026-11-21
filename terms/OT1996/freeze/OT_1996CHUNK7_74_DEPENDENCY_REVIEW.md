@@ -30,8 +30,8 @@ The review checks dependence, not the correctness of every pre-existing adjudica
 
 ### `Doe_v_SEPTA_merits_1997-05-05.md`
 
-Before SHA-256: `56032dc73400f99bce75e2105122950e34b9b309a3c994717f423ebb62bc3279`.
-After SHA-256: `56032dc73400f99bce75e2105122950e34b9b309a3c994717f423ebb62bc3279`.
+Before SHA-256: `76f65cdaac1560e7ec0ddec51941feaeb67c49d87d3a52feeec89a5368b3a4f1`.
+After SHA-256: `76f65cdaac1560e7ec0ddec51941feaeb67c49d87d3a52feeec89a5368b3a4f1`.
 Unchanged Public Projection SHA-256: `e44c788ad7158e9f640aa1e1edae59f577e8c182ce367d47490ddedebc3aa944`.
 Original bytes preserved at `tmp/brown_v2_before/Doe_v_SEPTA_merits_1997-05-05.md` for independent comparison.
 
@@ -82,7 +82,7 @@ Brown's same-day reargument order supplies no entering law for this uncoordinate
 
 | Existing Record | Before SHA-256 | After SHA-256 | Public Projection unchanged |
 |---|---|---|---|
-| `Doe_v_SEPTA_merits_1997-05-05.md` | `56032dc73400f99bce75e2105122950e34b9b309a3c994717f423ebb62bc3279` | `56032dc73400f99bce75e2105122950e34b9b309a3c994717f423ebb62bc3279` | Yes: `e44c788ad7158e9f640aa1e1edae59f577e8c182ce367d47490ddedebc3aa944` |
+| `Doe_v_SEPTA_merits_1997-05-05.md` | `76f65cdaac1560e7ec0ddec51941feaeb67c49d87d3a52feeec89a5368b3a4f1` | `76f65cdaac1560e7ec0ddec51941feaeb67c49d87d3a52feeec89a5368b3a4f1` | Yes: `e44c788ad7158e9f640aa1e1edae59f577e8c182ce367d47490ddedebc3aa944` |
 | `Harbor_Tug_and_Barge_v_Papai_merits_1997-05-12.md` | `30be8ea0502c98db23c1ec3ab6b856d6f8fef6838930a28873d75c367ffe4ea7` | `30be8ea0502c98db23c1ec3ab6b856d6f8fef6838930a28873d75c367ffe4ea7` | Yes: `0104af2561746ac44a69bdf008414c62f04efaf1db65c94782b5d12f762dfbe0` |
 | `Inter_Modal_Rail_Employees_v_Atchison_merits_1997-05-12.md` | `9bb23e5bcfbc9f6bf3669916fb8973989dcd183bc56722707041736933ed73f3` | `9bb23e5bcfbc9f6bf3669916fb8973989dcd183bc56722707041736933ed73f3` | Yes: `6f862caebd25587e38a604aa5215de689ade12864e96d5aa577e6a0e8ff1c8bd` |
 | `Johnson_v_United_States_merits_1997-05-12.md` | `40fdff9125419fef7134247ec7c3fd22095da3bd3c677467d6f44ae8471f973c` | `40fdff9125419fef7134247ec7c3fd22095da3bd3c677467d6f44ae8471f973c` | Yes: `bd0aaab0a9acdc75e3f660babdc85999bfc897acace8179d25bd15af3aadb630` |
@@ -90,7 +90,7 @@ Brown's same-day reargument order supplies no entering law for this uncoordinate
 | `Pic_A_State_Pennsylvania_v_Reno_merits_1997-04-28.md` | `65633ae8c837d053907c05ce09c1095167489f7c7aae0e56ce5e2c6afd54c47a` | `65633ae8c837d053907c05ce09c1095167489f7c7aae0e56ce5e2c6afd54c47a` | Yes: `e5137771d3da84621839ef024fca66afa329f5bffc362e90e79bb97a85cb8a80` |
 | `Richards_v_Wisconsin_merits_1997-04-28.md` | `1f76ac620e3f86b292b8bddcbc79b588cce2d31f1cb68822a59921a8a11933f1` | `1f76ac620e3f86b292b8bddcbc79b588cce2d31f1cb68822a59921a8a11933f1` | Yes: `9e2dd77187b7720410dabd815b38c69cd4801b8fa0b21eee911f0b1e7bb1e21e` |
 | `Strate_v_A_1_Contractors_merits_1997-04-28.md` | `e6546a8a19a1f41d363d57d1825ddef95c78dc46dde99d26f22f2fcf3844e689` | `e6546a8a19a1f41d363d57d1825ddef95c78dc46dde99d26f22f2fcf3844e689` | Yes: `754df81c49bb30ce282b7aaa68d7ece826222bd19c41b322ad6db646fcdb3ba0` |
-| `Timmons_v_Twin_Cities_Area_New_Party_merits_1997-04-28.md` | `1a3015f75689b661511ee8acacca43cbf8cd5ace1de892702d684be6cd57c02b` | `1a3015f75689b661511ee8acacca43cbf8cd5ace1de892702d684be6cd57c02b` | Yes: `fbeb0beb75f971505753fb4a6173d6beb755bfb72a611ce16d03245147629dcf` |
+| `Timmons_v_Twin_Cities_Area_New_Party_merits_1997-04-28.md` | `c538908069c5e6d59cdda35a79538d4b35b6d055d9ab25387cecd5e1bd0d1d50` | `c538908069c5e6d59cdda35a79538d4b35b6d055d9ab25387cecd5e1bd0d1d50` | Yes: `fbeb0beb75f971505753fb4a6173d6beb755bfb72a611ce16d03245147629dcf` |
 
 For each changed file, the replacement strings occur exactly once before `## Public Projection`. Reversing only the listed substitutions reconstructs the original bytes exactly, proving that all unlisted internal content and all adjudicative content are unchanged. For every file, the Public Projection hash equals its initial hash. The other seven complete-file hashes equal their initial hashes. UTF-8 encoding, any byte-order mark and original line endings are preserved because replacements operate on exact bytes.
 

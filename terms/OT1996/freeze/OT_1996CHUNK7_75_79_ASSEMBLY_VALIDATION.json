@@ -120,32 +120,32 @@
     {
       "matter": 78,
       "record": "Timmons_v_Twin_Cities_Area_New_Party_merits_1997-04-28.md",
-      "sha256": "1a3015f75689b661511ee8acacca43cbf8cd5ace1de892702d684be6cd57c02b",
-      "record_word_count": 5164,
-      "public_word_count": 2264,
-      "lead_author": "Thomas",
-      "opinion_topology": "| Writing | Author | Joined by | Relationship to judgment | Scope joined |\n|---|---|---|---|---|\n| Opinion of the Court | Thomas | O'Connor, Scalia, Kennedy, Breyer; Stevens, Souter and Ginsburg in I and III | Reversal and remand | Five join merits Part II; all eight Associates join live-controversy Part I and statutory-transition Part III; Stone-Zsela agrees to reach the merits without an additional statutory rationale |\n| Dissent | Stevens | Ginsburg throughout; Souter in I\u2013II | Would affirm the as-applied constitutional judgment | I\u2013II: nomination interest and inadequate fit; III: broader objection to preserving the established parties' competitive position |\n| Separate dissent | Souter | No other Justice | Would affirm | Joins Stevens I\u2013II; reserves a demonstrated stability justification connected to effective governing |\n| Dissent | Stone-Zsela | No other Justice | Would affirm on contextual, nonsevere-burden review | Substantial but not severe burden; inadequate fit; prospective and format/consent limits |",
+      "sha256": "c538908069c5e6d59cdda35a79538d4b35b6d055d9ab25387cecd5e1bd0d1d50",
+      "record_word_count": 5684,
+      "public_word_count": 2516,
+      "lead_author": "Stone-Zsela",
+      "opinion_topology": "| Writing | Author | Joined by | Relationship to judgment | Scope joined |\n|---|---|---|---|---|\n| Opinion of the Court | Stone-Zsela | Stevens, Kennedy, Souter, Ginsburg; O'Connor, Scalia, Thomas and Breyer in I and III | Affirmance | Five join merits Part II; all nine join live-controversy Part I and statutory-consequence Part III |\n| Concurrence | Stevens | Ginsburg | Joins the opinion in full | Adds that the stability interest Minnesota pressed describes the established parties' competitive position; treats the Court's reserved question as undecided |\n| Dissent | Thomas | O'Connor, Scalia, Breyer | Would reverse; joins Parts I and III | Less-than-severe limitation on an additional nomination designation, justified by ballot integrity, defined nomination choices and a stable electoral system |",
       "explanation_word_counts": [
         130,
-        233,
-        92
+        345,
+        118
       ],
       "input_hashes_verified": [
         {
           "path": "freeze/OT_1996CHUNK7_78_NEUTRAL.md",
-          "sha256": "b3f0d2f2761a33e7fa1dc9225d826e99b38707cf20f82147a117fd3c33f99bbf"
+          "sha256": "487294adbc2a1b298b547270032a80d2ba104b50cbf4363bbe7889dc022a40da"
         },
         {
           "path": "freeze/OT_1996CHUNK7_78_RECONCILED.md",
-          "sha256": "65d24bea538bf844d05238069c5f1fdac2120e34d077fd8b751dc57acb1798f5"
+          "sha256": "1859f0ac1c955dba7945d54f3ecb35ca59210ae5ea0da8d0bf560b91c702ad8d"
         },
         {
           "path": "runtime/OT_1996CHUNK7_78_STONE.md",
-          "sha256": "aac54330e146ed9b5f0b8a285480c80230203b677f80b49a7e6a8b09aac43907"
+          "sha256": "c35da80435dd7e80ecdda1fb1df5c286f583d58173dd2823546e22661766e8fa"
         },
         {
           "path": "entering-law/OT_1996CHUNK7_78_READING.md",
-          "sha256": "409c0b657dea24e62614f259c1796ccec79372405d3df2b79cf0fd0164055aef"
+          "sha256": "bfca1cb865e7e1ee2ebe3692f0cbb2c72ad050da2024c27447eeaff3fc06ee60"
         },
         {
           "path": "freeze/OT_1996CHUNK7_78_ASSIGNMENT_RECOUNT.json",
@@ -157,7 +157,7 @@
     {
       "matter": 79,
       "record": "Doe_v_SEPTA_merits_1997-05-05.md",
-      "sha256": "56032dc73400f99bce75e2105122950e34b9b309a3c994717f423ebb62bc3279",
+      "sha256": "76f65cdaac1560e7ec0ddec51941feaeb67c49d87d3a52feeec89a5368b3a4f1",
       "record_word_count": 4008,
       "public_word_count": 1482,
       "lead_author": "Kennedy",
@@ -184,7 +184,7 @@
         },
         {
           "path": "freeze/OT_1996CHUNK7_79_ASSIGNMENT_RECOUNT.json",
-          "sha256": "b7ccfee8bac6bec92805f02cafe4762798a51158e4c1bd12efee1fca10fb2554"
+          "sha256": "2e242a694d5c0ead839b724883aa3b9294560421c4c60b0d790cd87f34f48be1"
         }
       ],
       "errors": []

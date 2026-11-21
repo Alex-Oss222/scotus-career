@@ -35,9 +35,9 @@ The eight split treatments remain accurate at their original scopes: contextual 
     "record": "van_susteren_v_jones_merits_2003-12-04.md",
     "shared_lines_separated": 2,
     "before_record_sha256": "952ea1244daf32054f1bb2bbeeeb94809e20c28a6140128f72baa7501a1fc0ce",
-    "final_record_sha256": "fbdec79555196e817572437023b9ba3ae5274589385e58776b17d7c28f55f34b",
+    "final_record_sha256": "9d4634ee3ff2860e6da591debdb328b627d599fd2731fd30b42cd65d1d11ed3f",
     "final_public_file": "OT_2003CHUNK2_VAN_SUSTEREN_PUBLIC_FINAL_LAYOUT.md",
-    "final_public_sha256": "90b2476a95f702e2cd4bdfe3ef2a2382569c5fe6149c97dbaf5a439d8e647db6"
+    "final_public_sha256": "c0bc9df9321a8b6289cd46e19126fc6697f3eb89800db7f9c5ecc4b52245bc1e"
   },
   {
     "record": "washoe_county_v_united_states_merits_2003-11-17.md",

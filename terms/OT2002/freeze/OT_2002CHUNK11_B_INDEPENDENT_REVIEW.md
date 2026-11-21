@@ -52,7 +52,7 @@ Validation after repair:
 - The entire bounded frozen-source region of each draft was byte-identical before and after repair; its independent commitments, reconciled commitments and approved Stone text remained intact.
 - Internal Controlling holdings and Public Projection/Holdings remained identical in each draft.
 - Each Public Projection retained the exact eleven headings in the required order.
-- Lerman's controlling explanation has 203 words. Duncan's three have 193, 170 and 134 words. Each remains within the ordinary 350-word ceiling.
+- Lerman's controlling explanation has 205 words. Duncan's three have 193, 170 and 134 words. Each remains within the ordinary 350-word ceiling.
 - Named judgment arithmetic remained Lerman nine to zero; Duncan harassment seven to two and discharge six to three, with nine distinct participants and no cross-list overlap in either component.
 - The removed routine transition sentences no longer occur in authored draft text; the approved transition positions remain in the untouched frozen-source copies.
 - A qualitative reread confirmed that the condition-specific Lerman right and decree, the practical signature-defect directions, the supported Duncan corrective-opportunity limits, both component dispositions, and the substantive separate proposals remain unchanged.

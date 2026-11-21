@@ -5382,7 +5382,7 @@ Daubert supplies flexible foundation and fit and now reaches all knowledge cover
 
 **Holding:** A party that initially challenged the presidential-vote condition and asserted its right to choose its organizational structure does not lose that legal organizational-autonomy objection merely by sharpening it later. That conclusion neither proves an exclusive local philosophy nor permits new summary-judgment facts to be assumed; the national-organizing affidavit and the factual basis of the as-applied theory retain their ordinary evidentiary significance.
 
-**Proposition-level authority:** Stone-Zsela's concurrence and Stevens's dissent joined by Kennedy, Souter and Ginsburg directly agree on this bounded proposition (five Justices), across the judgment division.
+**Proposition-level authority:** Stevens's opinion for the Court, joined by Stone-Zsela, Kennedy, Souter and Ginsburg; five Justices. O'Connor, Scalia, Thomas and Breyer would affirm on preservation.
 
 For the other questions and complete operative scope in Maine Green Party v. Maine, 1999-05-20, First Circuit No. 98-1309, see Election Law.
 

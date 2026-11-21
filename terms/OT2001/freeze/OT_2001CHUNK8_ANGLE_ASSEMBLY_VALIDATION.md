@@ -18,10 +18,10 @@
 |---|---|
 | `terms/OT2001/records/united-states-v-angle_merits_2002-06-20.md` | `00f430f3f730ed2e3daf66d79e6d84385b8260598fa6fd6bad11085533ec7d20` |
 | `terms/OT2001/freeze/OT_2001CHUNK8_ANGLE_NEUTRAL.md` | `a0617d45ab04e58e0891f1b20b7f49863f0273cf7d7381e3151d9f7358093ff5` |
-| `terms/OT2001/freeze/OT_2001CHUNK8_ANGLE_COMMITMENTS.md` | `917b69cd58487d57e1953d7b25a05edf7b87247604342b1869e9e66cacf4f05a` |
+| `terms/OT2001/freeze/OT_2001CHUNK8_ANGLE_COMMITMENTS.md` | `ec2c857a1bd0e58db145c1b3743a6f1c35c508e9b6705e62ae461afe8c7c406b` |
 | `terms/OT2001/freeze/OT_2001CHUNK8_ANGLE_RECONCILED.md` | `1ff1e5bab38d152d1ac6a3d0f20f977ead0fb1c038e77c15c3565680862dc1e4` |
 | `terms/OT2001/runtime/OT_2001CHUNK8_ANGLE_STONE.md` | `2083b62083149c49b37ba59d7ba2c593f8a73c8922b7dbce895d91efc4302978` |
 | `terms/OT2001/freeze/OT_2001CHUNK8_ANGLE_OPINION_FORM.md` | `67028228fa6326244d0fc44d3f36c0fa2f1cf4508bd6682b4f8bfe05221a0e3d` |
-| `terms/OT2001/freeze/OT_2001CHUNK8_ANGLE_ASSIGNMENT_COUNTS.json` | `3a9fa73af82e1dbad4f64adc07fdba9592c9561f90e7ece904d1b3276dde448d` |
+| `terms/OT2001/freeze/OT_2001CHUNK8_ANGLE_ASSIGNMENT_COUNTS.json` | `0c351c9e94f83c74bae0729dbfb25766d4dc7515b6dd58a7dfc57af2b49e1326` |
 
 Integration metadata check: the Standards and Tests entry identifies Johnson's present operation as May 12, 1997. The internal entering-law date was corrected to that exact register date; the Public Projection and all substantive determinations are unchanged. The Record digest above reflects the integrated bytes.

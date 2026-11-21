@@ -4,12 +4,12 @@ This mechanically generated index identifies the operative case-specific frozen 
 
 | Matter | Operative frozen handoff | SHA-256 |
 |---|---|---|
-| Central State | [case-specific scope](../freeze/OT_1998CHUNK6_A_COMMITMENTS.md) | `be54f9826c0e95ca72f8ffc718d7ff517f830032b5d16e4e1f2e908e96106efb` |
-| Kumho Tire | [case-specific scope](../freeze/OT_1998CHUNK6_A_COMMITMENTS.md) | `be54f9826c0e95ca72f8ffc718d7ff517f830032b5d16e4e1f2e908e96106efb` |
-| South Central Bell | [case-specific scope](../freeze/OT_1998CHUNK6_A_COMMITMENTS.md) | `be54f9826c0e95ca72f8ffc718d7ff517f830032b5d16e4e1f2e908e96106efb` |
+| Central State | [case-specific scope](../freeze/OT_1998CHUNK6_A_COMMITMENTS.md) | `ff1eaba9254a875e94eb06f71f17b239ed993df0b714b52391422f01e8d25057` |
+| Kumho Tire | [case-specific scope](../freeze/OT_1998CHUNK6_A_COMMITMENTS.md) | `ff1eaba9254a875e94eb06f71f17b239ed993df0b714b52391422f01e8d25057` |
+| South Central Bell | [case-specific scope](../freeze/OT_1998CHUNK6_A_COMMITMENTS.md) | `ff1eaba9254a875e94eb06f71f17b239ed993df0b714b52391422f01e8d25057` |
 | Jones | [case-specific scope](../freeze/OT_1998CHUNK6_JONES_REFRESH_COMMITMENTS.md) | `70d7d9b4f392931bcafe8d1ef73606e2492cd720beff8c95bcee07f17dd9e0eb` |
-| Mille Lacs | [case-specific scope](../freeze/OT_1998CHUNK6_A_COMMITMENTS.md) | `be54f9826c0e95ca72f8ffc718d7ff517f830032b5d16e4e1f2e908e96106efb` |
-| Brower | [case-specific scope](../freeze/OT_1998CHUNK6_BROWER_REFRESH_COMMITMENTS.md) | `7a533aa225db9d9c611fd96a43647ac567d466cbfc19680b4f2f2f3c4cc709dd` |
+| Mille Lacs | [case-specific scope](../freeze/OT_1998CHUNK6_A_COMMITMENTS.md) | `ff1eaba9254a875e94eb06f71f17b239ed993df0b714b52391422f01e8d25057` |
+| Brower | [case-specific scope](../freeze/OT_1998CHUNK6_BROWER_REFRESH_COMMITMENTS.md) | `21056f1dc3e11b43e2398be6d0b9a68361f6cdb54add374e68cfb02c5011fd62` |
 | Rodriguez-Moreno | [case-specific scope](../freeze/OT_1998CHUNK6_B_CLEAN_COMMITMENTS.md) | `a045ec6326bca63ccd93cc686dfad34f976215f7f1d9834e23f504e36ccfc8be` |
 | Conn | [case-specific scope](../freeze/OT_1998CHUNK6_CONN_REFRESH_COMMITMENTS.md) | `57d7bf35492b395039b440703dc6077d39a1cbb56be841a8efb47f79a0204b8c` |
 | Mitchell | [case-specific scope](../freeze/OT_1998CHUNK6_MITCHELL_COMMITMENTS.md) | `73991ad84263dc33604339f04470b51166ff3c17820bfc14e8b368532e9ea1aa` |

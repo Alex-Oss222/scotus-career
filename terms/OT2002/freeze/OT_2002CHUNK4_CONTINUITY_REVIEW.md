@@ -20,7 +20,7 @@ Brown v. Li (January 22), FCC v. NextWave (January 27), Konop v. Hawaiian Airlin
 
 ## Additional completed comparisons
 
-Cartwright's qualifications and case-specific petition application preserve the independent Section 5 and Section 2 rules in Georgia and Old Person. Its contextual access analysis does not create a percentage safe harbor or a general exclusion of practical-operation evidence. It displaces no premise in those later decisions or in the other later public projections already read.
+Cartwright's qualifications holding and pleading-stage access remand preserve the independent Section 5 and Section 2 rules in Georgia and Old Person. Its three-level access analysis does not create a percentage safe harbor or a general exclusion of practical-operation evidence. It displaces no premise in those later decisions or in the other later public projections already read.
 
 Harvey's precise residual-relief requirement likewise displaces no later premise. Georgia identifies the continuing request to use the original plan, while Old Person expressly distinguishes an actual replacement affecting relief from an anticipated replacement. Steele rests on supported redressable fiscal injury. The remaining reviewed later actions retain concrete custody, privacy, search, regulatory or prospective-injunction disputes. Harvey decides no new access entitlement or civil-action channel that could alter their substantive law.
 

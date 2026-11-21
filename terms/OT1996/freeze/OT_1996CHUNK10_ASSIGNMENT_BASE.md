@@ -125,7 +125,7 @@ Each row links to the source Record. Author cells are extracted from its public 
 | 1997-04-28 | [Pic-A-State Pennsylvania, Inc. v. Reno](../records/Pic_A_State_Pennsylvania_v_Reno_merits_1997-04-28.md) | Kennedy | Kennedy +1 | Signed plenary lead; one count per delivering Justice |
 | 1997-04-28 | [Richards v. Wisconsin](../records/Richards_v_Wisconsin_merits_1997-04-28.md) | Breyer | Breyer +1 | Signed plenary lead; one count per delivering Justice |
 | 1997-04-28 | [Strate v. A-1 Contractors](../records/Strate_v_A_1_Contractors_merits_1997-04-28.md) | Scalia | Scalia +1 | Signed plenary lead; one count per delivering Justice |
-| 1997-04-28 | [Timmons v. Twin Cities Area New Party](../records/Timmons_v_Twin_Cities_Area_New_Party_merits_1997-04-28.md) | Thomas | Thomas +1 | Signed plenary lead; one count per delivering Justice |
+| 1997-04-28 | [Timmons v. Twin Cities Area New Party](../records/Timmons_v_Twin_Cities_Area_New_Party_merits_1997-04-28.md) | Stone-Zsela | Stone-Zsela +1 | Signed plenary lead; one count per delivering Justice |
 | 1997-05-05 | [Doe v. Southeastern Pennsylvania Transportation Authority](../records/Doe_v_SEPTA_merits_1997-05-05.md) | Kennedy | Kennedy +1 | Signed plenary lead; one count per delivering Justice |
 | 1997-05-12 | [Harbor Tug & Barge Co. v. Papai](../records/Harbor_Tug_and_Barge_v_Papai_merits_1997-05-12.md) | Souter | Souter +1 | Signed plenary lead; one count per delivering Justice |
 | 1997-05-12 | [Inter-Modal Rail Employees Association v. Atchison, Topeka & Santa Fe Railway Co.](../records/Inter_Modal_Rail_Employees_v_Atchison_merits_1997-05-12.md) | Ginsburg | Ginsburg +1 | Signed plenary lead; one count per delivering Justice |

@@ -10,7 +10,7 @@ No material effect on Castro or Pringle: the expanded wording concerns an unneed
 
 | Artifact | SHA256 |
 |---|---|
-| Fixed entering-law copy | e7000f0e0803ebf1830d13673c382e03aa618b14a8903f7ec89daa20af11a195 |
+| Fixed entering-law copy | e1fe5a43e59d9ae9e9794e19dbe4a686b405ca96edee817bc97e0ed03a1399bf |
 | Saved pre-completeness Record | 4e9a8e3d2bd1938104738b61265b495a398e1f80e3bd96323c8cf9bce7c35c8e |
 | Preserved original public snapshots | b5f6492d37348b44004bbcbe64866f845b2cf3e16003fdbe1249e7f1aa8c4308 |
 | Final Record | cdea844c622f34426780eedaaeb326a652810991954a26814f5651fbcda11fe3 |

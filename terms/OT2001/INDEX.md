@@ -11,7 +11,7 @@
 | 2001-11-27 | Church of Scientology International v. Behar; 238 F.3d 168 (2d Cir. 2001); no Supreme Court docket supplied | Vacate the subsidiary-meaning dismissal of the three Vancouver statements and remand, 9–0; independently supported dispositions remain. | The Court vacates the judgment insofar as it dismisses the three Vancouver statements through an independent subsidiary-meaning immunity, and remands. |  |
 | 2001-11-27 | Correctional Services Corp. v. Malesko; No. 00-860 | Affirm availability of a confined own-conduct constitutional damages claim against the private federal custodial operator and remand, 5–4. | The Court affirms the availability of a confined constitutional damages claim against the private federal custodial operator for its own unconstitutional conduct and remands for application to the pleading. |  |
 | 2001-12-10 | J. E. M. Ag Supply, Inc. v. Pioneer Hi-Bred International, Inc.; No. 99-1996 | Affirm, 7–2. | Affirm, 7–2. |  |
-| 2001-12-10 | Schrader v. Blackwell; 241 F.3d 783 (6th Cir. 2001) | Affirm, 5–4. | Affirm, 5–4. |  |
+| 2001-12-10 | Schrader v. Blackwell; 241 F.3d 783 (6th Cir. 2001) | Vacate and remand, 5–4. | Vacate and remand, 5–4. |  |
 | 2001-12-10 | United States v. Knights; No. 00-1260 | Reverse and remand, 9–0. | Reverse and remand, 9–0. |  |
 | 2002-01-08 | Dusenbery v. United States; No. 00-6567 | Affirm, 5–4. | Affirm, 5–4. |  |
 | 2002-01-08 | Great-West Life & Annuity Insurance Co. v. Knudson; No. 99-1786 | Affirm, 5–4. | Affirm, 5–4. |  |

@@ -23,7 +23,7 @@ Primary URLs are https://www.law.cornell.edu/supct/html/02-1674.ZO.html, https:/
 | freeze/OT_2003CHUNK2_MCCONNELL_COMMITMENTS.md | 082f5cec329b35a79c17bf495e8540541979e36460d5627598497c7fb7141581 |
 | freeze/OT_2003CHUNK2_C_VALIDATED_PREFLIGHT.md | b9712b31bacf993ae7b57cec8fcc3cda800502ba2e1cf26d1223bde9fdc24278 |
 | entering-law/OT_2003CHUNK2_C.md | a6a85c3595b50effdd1c5d2a193e42e61a94d8af801dc310d7f4528e1cdfb8e0 |
-| freeze/OT_2003CHUNK2_NEUTRAL.md | e21d7bd70e7e245b8092b421f776fe7310f204754e40297bdeeed1c4169fe227 |
+| freeze/OT_2003CHUNK2_NEUTRAL.md | 155428dd01db89f98b2213533378b9438c3bdd9124fcf9957540dcef1ad24fe3 |
 | runtime/OT_2003CHUNK2_COMPARATOR.md | f2374b4c73a5aaad1b9e7b726785df269f8b8b8ebb52bc467d3a2410c42af8e5 |
 
 Only neutral characters [63228,75651) and comparator characters [5868,7210) were substantively read from the aggregated handoffs. The commitment comparison covered sections 1, 4–6, 7.3.D, 7.4, 7.5 and 9. Entering-law readings included the Lee/Maine threshold rules, National Park Hospitality holding, Day nonprofit and public positions, Colorado I, Maine, Clifton, Bartlett, Colorado II, Lamb, Beaumont and the relevant prior public opinion topology/separate-position extracts. This is not a claim to have reread every source in the full preflight bundle.

@@ -33,7 +33,7 @@
       "date": "1998-10-05",
       "case": "United States v. Wright; Eleventh Circuit No. 95-8397; judgment below, 117 F.3d 1265. No separately established Supreme Court docket.",
       "event": "Plenary merits decision after full merits briefing; 1998-10-05; October Term 1998, chunk 1.",
-      "source_sha256": "539efc66607d5583a17430745f0250fd76672b162b80512b67b74386bb6efb21",
+      "source_sha256": "0de01709bd3669da7b9c31bc7ffb4d3145a6a9f2af59ca14b301feb9d7dc8f69",
       "authors": [
         "Stone-Zsela"
       ],
@@ -338,7 +338,7 @@
       "date": "1999-01-12",
       "case": "Buckley v. American Constitutional Law Foundation, Inc.; No. 97-930; 120 F.3d 1092.",
       "event": "Merits decision after argument, 1999-01-12; October Term 1998, chunk 3.",
-      "source_sha256": "f3a0016bb39f38fb846a7a0e605e652152e6d4f2fbe78c023297a99c2ce39a06",
+      "source_sha256": "abe13eb185f95827ead6c96e648620d5e11e9fc3d137029d3f824db80c304208",
       "authors": [
         "Stevens"
       ],
@@ -463,7 +463,7 @@
       "date": "1999-01-21",
       "case": "Citizens for a Constitutional Convention v. Yoshina; No. 98-671; Ninth Circuit Nos. 97-16408, 97-16543, 97-16540 and 97-16596.",
       "event": "Merits decision, 1999-01-21; OT1998, chunk 4.",
-      "source_sha256": "bfec6ee2a7a68b3081e8346d8dbb220047997c58b5d14f1781e6fffb410c310a",
+      "source_sha256": "71ab3c01c4e8c77adff92bd41c2995a9111f0f97f2c046dfb57f4e3de3bdf227",
       "authors": [
         "Souter"
       ],
@@ -806,7 +806,7 @@
       "date": "1999-03-25",
       "case": "Brower v. Washington; No. 98-1510; judgment below Brower v. State, 137 Wash. 2d 44, 969 P.2d 42.",
       "event": "Post-grant merits decision; 1999-03-25; October Term 1998, chunk 6.",
-      "source_sha256": "c799e32c814ab93b86266c6d02d2d2eb8c71295b46bcb19b2b726f49b2609a97",
+      "source_sha256": "320efd7b108c889a857a08c32e985b2c3f9f720262b357a6973b9be913ebd955",
       "authors": [
         "Kennedy"
       ],

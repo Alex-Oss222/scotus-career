@@ -8,7 +8,7 @@ Scope: five separately frozen non-Stone reconciliations. This fresh context rece
 |---|---|---:|---|
 | RAYTHEON | Yes | 6 | `0d877d83d58c436379e5e22d429d8cecd197a19c6a856177e3fd9d5bc50cecc3` |
 | BANKS | Yes | 8 | `236b570a2e739e412f8c34a021d81a8d145ec31cec17f7391aaab6afbe97e408` |
-| VAN_SUSTEREN | Yes | 8 | `3a9de7684cb9269cf7e3ed21caf27c45b94dcce7e9529e5a0f6cf3d73c5808eb` |
+| VAN_SUSTEREN | Yes | 8 | `7f4f27a860c6e1963fe043bb7c7a67f77738e28e81a19866482e9a46d749190a` |
 | VIRGINIA | Yes | 8 | `982d2eb5c0fadd2c8de64453e4874d8fba6d0510cf4775a70f845430716639c5` |
 | CASTRO | Yes | 8 | `efa76c6866cec6bb1a90a6859bcce06a7b6004200fb5cf599e8594a347e5562a` |
 
@@ -20,13 +20,13 @@ The original independent commitments were read and never written by this task. C
 |---|---|
 | `freeze/OT_2003CHUNK2_RAYTHEON_COMMITMENTS.md` | `888eb8e771b7688d04b2b81263ea433bbb19a41111f17e04adc2b08e6212d35a` |
 | `freeze/OT_2003CHUNK2_BANKS_COMMITMENTS.md` | `a3d3725d5feb75b9de9c1c18afa7e66df0cdfc5056f9458ef4f33ae159494271` |
-| `freeze/OT_2003CHUNK2_VAN_SUSTEREN_COMMITMENTS.md` | `8b0be51c8f30e7327397ac2da98db8135b37516a6e6d2ab3acf0dc5c4ec4b1db` |
+| `freeze/OT_2003CHUNK2_VAN_SUSTEREN_COMMITMENTS.md` | `b10d3d2b01ec73b0a3e5b0c522132e6c03fa3f67d3941781b397d2305139c5e6` |
 | `freeze/OT_2003CHUNK2_VIRGINIA_COMMITMENTS.md` | `7404aaae242247bbba71cc9fbb5cda585c9708eb06f727189df03b20910f2720` |
 | `freeze/OT_2003CHUNK2_CASTRO_COMMITMENTS.md` | `9ed1b7490a08e6921bd50376bff7c8b9eee2577b81d96c23b3109696eabee634` |
-| `freeze/OT_2003CHUNK2_NEUTRAL.md` | `e21d7bd70e7e245b8092b421f776fe7310f204754e40297bdeeed1c4169fe227` |
-| `freeze/OT_2003CHUNK2_B_PREFLIGHT.md` | `e8009b666d1beb4ef5d0c06cfbb4b8e401233b35a6bb756f21df3b0a65258c40` |
+| `freeze/OT_2003CHUNK2_NEUTRAL.md` | `155428dd01db89f98b2213533378b9438c3bdd9124fcf9957540dcef1ad24fe3` |
+| `freeze/OT_2003CHUNK2_B_PREFLIGHT.md` | `b523ed8725da080761c8042c9621794c4849c3cbf7613be1547509f2fd85329d` |
 | `freeze/OT_2003CHUNK2_B_SOURCE_EXTRACTS.md` | `b43fadcd1a93a684eb58a418a9b55e2aea1f568af701fec3d1af2c60e5e69204` |
-| `entering-law/OT_2003CHUNK2_B.md` | `e7000f0e0803ebf1830d13673c382e03aa618b14a8903f7ec89daa20af11a195` |
+| `entering-law/OT_2003CHUNK2_B.md` | `e1fe5a43e59d9ae9e9794e19dbe4a686b405ca96edee817bc97e0ed03a1399bf` |
 | `runtime/OT_2003CHUNK2_COMPARATOR.md` | `f2374b4c73a5aaad1b9e7b726785df269f8b8b8ebb52bc467d3a2410c42af8e5` |
 
 ## Complete comparator source receipts

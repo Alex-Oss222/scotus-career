@@ -16,7 +16,7 @@ Readiness: Adair and Palazzolo ready on supplied source/law. Lorillard awaits on
 - `terms/OT2000/freeze/OT_2000CHUNK8_C_PREPARATION_RECEIPT.md`: `20779924ddd9b2672ced82009ac40a06925960afe6e55e5e4ba3a1fa91b8ff50`
 - `terms/OT2000/entering-law/OT_2000CHUNK8_C_HOLDINGS.md`: `0a432638cf0d2c709dee4f553e7b08aa85610de983a6176e0ad1dec92126aaa8`
 - `terms/OT2000/entering-law/OT_2000CHUNK8_C_STANDARDS.md`: `1e64fc6b2c0ad4af34de98b72684ba170e37754205a3e4f0f179ac04434f1a3d`
-- `terms/OT2000/entering-law/OT_2000CHUNK8_C_CURRENT.md`: `82178e4e60541ef587fd903f61dd74237a8c33dfe43a3991193bb07edf89fb0b`
+- `terms/OT2000/entering-law/OT_2000CHUNK8_C_CURRENT.md`: `572a7a259194ae690150a88d150fd4b7a96d19c60566c717ac9538873b9c63c5`
 - `terms/OT2000/entering-law/OT_2000CHUNK8_C_PUBLIC_WRITINGS.md`: `9ed45adc15fba004edeb76fef71d6a94351918f3a606ef25b82d518b3b60b123`
 - `terms/OT2000/entering-law/OT_2000CHUNK8_C_SOURCE_TEXT.md`: `c500bccf479b6a095a63786b1b0369bc7e1f0aac759980446f28af688d8f0e8f`
 

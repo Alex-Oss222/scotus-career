@@ -5,6 +5,6 @@ Lerman: exact supplied eleven-block Public Projection included; May 27 precedes 
 Neutral runtime/freeze: byte-identical.
 No matter-specific comparator, private Stone material, Record internals, or provisional commitments read.
 
-Neutral SHA-256: `d05378b6ab2dac5589ac94a166cab7b68fafe577a650070bf08267d8fc16bdb4`
-Refreshed law SHA-256: `5b4557f3ae685dc2d85b9f46be0a931f682e072024baa101bc5fa91c8e7a275f`
-Lerman supplied handoff SHA-256: `60e6c32e7af50203273d7c1d01c6ffa96a5294745508efa4f58c5a5b002a6ef9`
+Neutral SHA-256: `6a8f2f95adc33a3ce5ba87dde52eb295dcd956be4bb72bd987a30a62cdb6ef9e`
+Refreshed law SHA-256: `99a2f5d141446fb361f516483eb6c6e264cac5a9acd813480d3732d29af2473f`
+Lerman supplied handoff SHA-256: `75785d09a2a1be17a3dd72cf96fe4c7a0bd1b188f3982da56f519bf20202a1a9`

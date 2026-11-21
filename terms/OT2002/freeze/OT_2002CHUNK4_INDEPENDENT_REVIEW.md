@@ -36,15 +36,15 @@ Independent recount adds Konop and the preexisting Owens opinion: Stone-Zsela 3;
 
 ### Cartwright v. Barnes — February 25, 2003
 
-Substantive comparison passes: nine qualifications joins, five access joins and the two partial dissents preserve the frozen split and Stone's unchanged preference for factual development. The conditional affirmance remains inactive. Pleading assumptions, sheet-level affidavit, system-specific Jenness application and contingent remedies are accurately distinguished.
+Substantive comparison passes: nine qualifications joins, five access joins, Thomas's partial dissent and Stone's concurrence preserve the frozen split and Stone's preference for factual development. The conditional affirmance remains inactive. Pleading assumptions, sheet-level affidavit, system-specific Jenness application and contingent remedies are accurately distinguished.
 
-Independent recount: 31 earlier leads; California First Amendment Coalition is last; Breyer rises to 4 and all other counts remain as above. Thomas is eligible for both parts and within each applicable pool. The Chief assigns Part I and O'Connor assigns Part II. Two small drafting points were repaired and the changed text verified: Part I now identifies its binding pool, and the public Event states the five-percent registered-electorate denominator. Neither repair changes the selected author or judgment. No Cartwright discrepancy remains.
+Independent recount: 31 earlier leads; California First Amendment Coalition is last; Breyer rises to 4 and all other counts remain as above. Souter is eligible for both parts, and the Chief assigns both. Two small drafting points were repaired and the changed text verified: Part I now identifies its binding pool, and the public Event states the five-percent registered-electorate denominator. Neither repair changes the selected author or judgment. No Cartwright discrepancy remains.
 
 ### Harvey v. Horan — February 25, 2003
 
 No material discrepancy found. The unanimous threshold vacatur does not establish mootness, a surviving injury, an access entitlement or a civil-action channel. It preserves comparison of the actual federal request with the testing supplied, claim-specific findings, the parties' separate responsibilities, conditional jurisdictional dismissal and separate equitable judgment treatment. The prior access order is not automatically restored, and the 1995 judgment is not reopened. Full Stone and frozen Associate commitments match.
 
-Independent recount: 32 earlier leads; Cartwright is last; Thomas rises to 4. O'Connor is fully eligible and within the minimum-plus-one pool at counts 3–4. This signed lead follows plenary submission and is counted once.
+Independent recount: 32 earlier leads; Cartwright, Souter's signed lead, is last. O'Connor is fully eligible and within the minimum-plus-one pool at counts 3–4. This signed lead follows plenary submission and is counted once.
 
 ### Miller-El v. Cockrell — February 25, 2003
 
@@ -54,7 +54,7 @@ Independent recount: 33 earlier leads; Harvey is last; O'Connor rises to 4. Gins
 
 ### Mechanical projection checks through Harvey
 
-All six reviewed Public Projections through Harvey contain the eleven required blocks in exact order, with resolvable internal file references. Their ordinary controlling explanations are all below 350 whitespace-delimited words: Brown 201; NextWave 173 and 134; Konop 99 and 162; California First Amendment Coalition 150 and 158; Cartwright 72 and 199; Harvey 198. This is a consistency check, not a legal determination.
+All six reviewed Public Projections through Harvey contain the eleven required blocks in exact order, with resolvable internal file references. Their ordinary controlling explanations are all below 350 whitespace-delimited words: Brown 201; NextWave 173 and 134; Konop 99 and 162; California First Amendment Coalition 150 and 158; Cartwright 72 and 342; Harvey 198. This is a consistency check, not a legal determination.
 
 ### Washington State Department of Social and Health Services v. Guardianship Estate of Keffeler — February 25, 2003
 

@@ -40,16 +40,16 @@ These checks confirm consistency, not judicial meaning. Final participation, the
 
 | Artifact | SHA-256 |
 |---|---|
-| freeze/OT_2000CHUNK7_NEUTRAL_C.md | `9b649931d6d78a3fd965cee70c807cf0500592a12030d18eb3765ab8161a6840` |
-| entering-law/OT_2000CHUNK7_C.md | `b0811c0e6cd4bf96ffe10388948e06f75d0a8cfaa5e5975e1b8889ee97fc55f9` |
+| freeze/OT_2000CHUNK7_NEUTRAL_C.md | `b4ae9161dd2965ff63a30dcb8ba6588f7438d2cb200eae39210841f4cfd032e1` |
+| entering-law/OT_2000CHUNK7_C.md | `0461585224c5b142e321a41d9c2d64b8424527fa9a7a1340588782585feeaa1d` |
 | freeze/OT_2000CHUNK7_COMPARATOR_SCOPED.md | `34998cdcbaab6d5a6ff7f5af4e95f556367220b3d511b23c38fd038a0608212f` |
 | freeze/OT_2000CHUNK7_COMMITMENTS_alabama_v_bozeman.md | `99bb6de181c37c1df2e863b37bd9c895e515bc17c590e416c774b81334417e39` |
-| freeze/OT_2000CHUNK7_COMMITMENTS_wood_v_meadows.md | `339bb981f227bad63793aefe29dc1935b3376f2fb2722be631d73830ad65ae5f` |
+| freeze/OT_2000CHUNK7_COMMITMENTS_wood_v_meadows.md | `9785f79c283a1b2a4492f8633547958c984a5d2830096095d78b6723d84e3752` |
 | freeze/OT_2000CHUNK7_COMMITMENTS_landry_v_fdic.md | `c50c9d5917621662ae4a739ee75e55691a316fd155ed52bd61fbb7f519fbfdf4` |
 | freeze/OT_2000CHUNK7_COMMITMENTS_saucier_v_katz.md | `1fa6bc30b0cef9ecaa1c5db2d2242aa0ae0bc4fc99755e8fce50c4d42da3fb37` |
 | freeze/OT_2000CHUNK7_COMMITMENTS_united_states_v_mead.md | `5b22eb5365109289bf09cddca016cca5a8c7acb66343f746f9d88e5884171338` |
 | freeze/OT_2000CHUNK7_MEAD_PUBLIC_POSITION_NEUTRAL_SUPPLEMENT.md | `8b0c4a86a69b8c81906b2f8226dede9f0994db2dabea536f6ebd7094bf40bc8d` |
 | freeze/OT_2000CHUNK7_RECONCILED_alabama_v_bozeman_clean.md | `49740d1281bc4566932e2fdedee4ba2232e43f43f48ca0642dd01db1ccbf9d78` |
-| freeze/OT_2000CHUNK7_RECONCILED_wood_v_meadows_clean.md | `04c61371f85123535ac4d7784ac4c48c018341fa1d2c584e8f8ff0456b27490e` |
+| freeze/OT_2000CHUNK7_RECONCILED_wood_v_meadows_clean.md | `e2cd74a0553bd11c14ee0c0bf3adbc47075f7353cdde0044d04c31dc78b95243` |
 | freeze/OT_2000CHUNK7_RECONCILED_landry_v_fdic_clean.md | `4313ef463e051d683924d464d84cc05bdf422e3ae433b0f6f62f61191d37ea5a` |
 | freeze/OT_2000CHUNK7_RECONCILED_saucier_v_katz_clean.md | `2c1a25fe73ab6eb8e40f572166c2c26ce3a75637d86da5715b08168249cd3aaf` |

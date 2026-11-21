@@ -1,12 +1,12 @@
 {
   "new_files": {
     "terms/OT1995/freeze/OT_1995CHUNK5_RUTLEDGE_RECONCILED.md": {
-      "sha256": "704ad7f964e92893902c82c7969b4bb73a51ef43c627dd02119a191221679fef",
+      "sha256": "a22dcbff0c1743ce6cf02fec04c8bcc612ef51e859bb7a1520bfc63fbde0a2bc",
       "bytes": 24814,
       "lines": 81
     },
     "terms/OT1995/sources/chunk5_rutledge_recon/RECEIPT.md": {
-      "sha256": "97c715edd0919bebccd95211be026a65dca19908eb2d53e6ee3ddc94944b42b1",
+      "sha256": "d2753b38601fdc8497ca4aa54cae7d58bbecf7e8afe5a1fcea95fc5df38feb93",
       "bytes": 14195,
       "lines": 91
     }
@@ -15,7 +15,7 @@
     {
       "path": "terms/OT1995/freeze/OT_1995CHUNK5_RUTLEDGE_COMMITMENTS.md",
       "freeze": "8e012ce",
-      "sha256": "7f1ecfd9f85027eabdd979845c35bec452e3da81216cda6a21cab2986549eb93",
+      "sha256": "5af6c3a1016d705a058005c122e3c05b3567abdefcfd53dc16f3e25fdd6a2901",
       "matches": true
     },
     {
@@ -27,7 +27,7 @@
     {
       "path": "terms/OT1995/freeze/OT_1995CHUNK5_MARCH27_NEUTRAL_LAW_FRESHNESS.md",
       "freeze": "45ca332",
-      "sha256": "66899a3b3507691547044f51d3d7e9eff2161c7db13c8708ea5ceda17b564afc",
+      "sha256": "e08d945791770ae723ba9c7053914fd87e9fb13aeb8c2e2124f336093c35f39e",
       "matches": true
     },
     {

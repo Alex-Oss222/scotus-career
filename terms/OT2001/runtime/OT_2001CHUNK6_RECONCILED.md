@@ -11,6 +11,6 @@ The four event dates use their respective preceding-date law. Same-date assignme
 | Four late-A matters; scope correction below governs Franconia | [OT_2001CHUNK6_LATE_A_RECONCILED.md](../freeze/OT_2001CHUNK6_LATE_A_RECONCILED.md) | 449161fbd0660a855d10930aaac1b63cff207b2062ddc932769390cbfdb67f6f |
 | Franconia final docket scope and component remedies | [OT_2001CHUNK6_FRANCONIA_SCOPE_RECONCILED.md](../freeze/OT_2001CHUNK6_FRANCONIA_SCOPE_RECONCILED.md) | efcb98e3f6491f1bc47cbffa29993e5e5121954bd989af8ab4be3859d0c6c668 |
 | Seven late-B matters; aggregate of both dated handoffs | [OT_2001CHUNK6_LATE_B_RECONCILED.md](../freeze/OT_2001CHUNK6_LATE_B_RECONCILED.md) | d45a4e016527d68f50432fed5587e3f730dcf07b9a4975ba809d5c69edd88850 |
-| June 17 final reconciled positions checked against actual June 10 law | [OT_2001CHUNK6_LATE_B_JUNE17_READINESS.md](../freeze/OT_2001CHUNK6_LATE_B_JUNE17_READINESS.md) | 29b6be073d044a349514f17d883b302922d46fbd9cdc05c8c55a5ca4a75ed3b7 |
+| June 17 final reconciled positions checked against actual June 10 law | [OT_2001CHUNK6_LATE_B_JUNE17_READINESS.md](../freeze/OT_2001CHUNK6_LATE_B_JUNE17_READINESS.md) | 8e120ed3ab14b402b5699f483bdc91ef272ae19810c97d3dc6b40c7cfd68175d |
 
 The independent dated-law validations in the commitments index close chronology reservations only where they expressly find no material change. They do not revise any reconciled vote. Any material revision requires its own reconciliation supplement before assembly.

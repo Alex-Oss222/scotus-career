@@ -101,16 +101,16 @@ In K–12 public schooling, supported educational benefits from meaningful integ
 
 **Governing question:** Whether a ban on write-in voting violates electoral-choice or independent expressive rights.
 
-**Current rule:** Under the existing Anderson inquiry, the court assesses the character and magnitude of the actual injury against the State's precise interests and the extent to which those interests require the burden. Severe burdens require narrow tailoring to a compelling interest; reasonable, nondiscriminatory burdens ordinarily may be justified by important regulatory interests. When the complete access system imposes only reasonable burdens, a write-in prohibition is presumptively valid and may be sustained by proportionate interests, including primary finality and prevention of evasive candidacies or party raiding. The ballot need not provide an official count and publication of votes for fictional figures or arbitrary protest messages as an independent expressive entitlement.
+**Current rule:** Under the existing Anderson inquiry, the court assesses the character and magnitude of the actual injury against the State's precise interests and the extent to which those interests require the burden. Severe burdens require narrow tailoring to a compelling interest; reasonable, nondiscriminatory burdens ordinarily may be justified by important regulatory interests. A write-in prohibition is assessed within the complete access system by what the prohibition itself contributes to the asserted interests; the independent validity of surrounding filing, support and primary rules does not make it presumptively valid. When ordinary nomination routes close before voters can respond, the prohibition must leave an effective route for a genuine, legally eligible alternative candidate. The ballot need not provide an official count and publication of votes for fictional figures or arbitrary protest messages as an independent expressive entitlement.
 
 **Authority by component:**
-- Governing inherited framework: Burdick v. Takushi, “1. Review of election regulations follows the actual burden”, June 8, 1992; White, joined by O'Connor, Scalia, Souter and Thomas (five), applying Anderson and the earlier simulated Norman rule.
-- Limited-burden write-in presumption: Burdick, “2. Hawaii's complete write-in prohibition is valid in its reasonably accessible system,” June 8, 1992; same five Justices.
+- Governing inherited framework: Burdick v. Takushi, “1. Review of election regulations follows the actual burden”, June 8, 1992; Stone, joined by Blackmun, Stevens, Kennedy and Souter (five), applying Anderson and the earlier simulated Norman rule.
+- Complete-system assessment and effective-route requirement: Burdick, “2. Hawaii’s complete write-in prohibition leaves no effective route for a genuine alternative candidate,” June 8, 1992; same five Justices.
 - Arbitrary-message claim: Burdick, “3. The ballot need not serve as an official tally of arbitrary political messages,” June 8, 1992; same controlling five-Justice opinion, with all nine agreeing in rejection of that component.
 
-**Present operation effective:** Burdick v. Takushi, June 8, 1992, for the write-in presumption and expressive boundary; the underlying Anderson framework is applied unchanged.
+**Present operation effective:** Burdick v. Takushi, June 8, 1992, for the complete-system assessment, effective-route requirement and expressive boundary; the underlying Anderson framework is applied unchanged.
 
-**Exceptions and limits:** No absolute validation of all write-in bans follows. Materially more restrictive access systems may impose severe burdens. The rule does not replace strict scrutiny of content-based campaign restrictions on public sidewalks.
+**Exceptions and limits:** No absolute write-in right follows, and no particular route, counting mechanism or ballot form is required. Valid qualifications, narrow anti-raiding and sore-loser rules and materially different systems remain open. The rule does not replace strict scrutiny of content-based campaign restrictions on public sidewalks.
 
 **Holdings navigation:** Burdick v. Takushi, 504 U.S. 428 (1992) — Ballot access and political parties.
 

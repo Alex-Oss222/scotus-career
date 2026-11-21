@@ -9,4 +9,4 @@ Neutral packet preceded commitments; completed Lerman Public Projection preceded
 No local-machine path appears in the commitment text.
 These checks establish consistency and identity, not legal correctness. Repository commitment remains with the parent operator.
 
-Commitments SHA-256: `fe0fa4adac6ed8eaf3c027daa6bb7067176ff1db59646fadaffc01c564d0193d`
+Commitments SHA-256: `90bcdbcf10c7a7476549244cb7c4e61a6f624a721600af74809e0e7aa726e8a7`

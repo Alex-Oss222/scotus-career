@@ -74,7 +74,7 @@ No target Supreme Court opinion, target comparator, Stone supplement, raw Record
 1. The approved Section I's generic State argument, generic remedy paths and stale baseline are insufficient alone; the sanitized extraction supplies the trial findings, actual lower judgment, State interests, procedural scope and material limits.
 2. The focused entering-law handoff omitted the effective April 10, 2000 Reform Party decision. The validator found it in the sanitized projection and mechanically copied its complete public section into the freeze. The packet explains both its relevance and its equality/timing limits without predicting a result.
 3. The freeze separates constitutional characterizations from underlying findings; predictions from actual California counts; sincere/strategic crossover from organized raiding; popular support from party consent; and party-committee selection from official nominee selection.
-4. All-eight-Associate date-eligible source grounding is available through the actual Timmons and Hurley joins, with the Timmons public dissents and surviving pre-divergence sources identified. Those positions are evidence for modeling, not commitments in this case.
+4. All-eight-Associate date-eligible source grounding is available through the actual Timmons and Hurley joins, with the Timmons public concurrence and dissent and surviving pre-divergence sources identified. Those positions are evidence for modeling, not commitments in this case.
 5. The packet preserves lawful competing paths and remedy limits. The code copies exact saved source text; no long source passage was manually retyped.
 
 ## Exact gaps and consequences

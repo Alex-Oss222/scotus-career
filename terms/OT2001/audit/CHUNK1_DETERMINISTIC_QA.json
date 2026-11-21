@@ -22,7 +22,7 @@
     },
     {
       "file": "terms\\OT2001\\records\\schrader-v-blackwell_merits_2001-12-10.md",
-      "issue": "Full lead joiners omitted from eligibility need express grounds: Ginsburg, Souter, Stevens, Stone"
+      "issue": "Full lead joiners omitted from eligibility need express grounds: Kennedy, O'Connor, Scalia, Thomas"
     },
     {
       "file": "terms\\OT2001\\records\\searles-v-van-bebber_merits_2002-01-08.md",
@@ -592,7 +592,7 @@
       "date": "2001-12-10",
       "case": "Schrader v. Blackwell; 241 F.3d 783 (6th Cir. 2001)",
       "lead_authors_from_opinion_table": [
-        "Thomas"
+        "Stevens"
       ],
       "fresh_counts": {
         "Stone": 0,
@@ -617,16 +617,17 @@
         "Breyer": 1
       },
       "eligible": [
-        "O'Connor",
-        "Scalia",
-        "Kennedy",
-        "Thomas",
+        "Stone",
+        "Stevens",
+        "Souter",
+        "Ginsburg",
         "Breyer"
       ],
       "declared_pool": [
-        "O'Connor",
-        "Scalia",
-        "Thomas",
+        "Stone",
+        "Stevens",
+        "Souter",
+        "Ginsburg",
         "Breyer"
       ],
       "additional_component_assignments": [
@@ -664,7 +665,7 @@
             "Breyer"
           ],
           "author": [
-            "Thomas"
+            "Stevens"
           ],
           "assigner": [
             "Stone"
@@ -672,12 +673,13 @@
         }
       ],
       "derived_pool": [
-        "O'Connor",
-        "Scalia",
-        "Thomas",
+        "Stone",
+        "Stevens",
+        "Souter",
+        "Ginsburg",
         "Breyer"
       ],
-      "assigner_text": "O'Connor.",
+      "assigner_text": "Stone.",
       "last_counted_declaration": "J. E. M. Ag Supply, Inc. v. Pioneer Hi-Bred International, Inc., 2001-12-10.",
       "expected_last_counted_record": "j-e-m-ag-supply-inc-v-pioneer-hi-bred-international-inc_merits_2001-12-10.md"
     },
@@ -1148,17 +1150,17 @@
     {
       "record": "schrader-v-blackwell_merits_2001-12-10.md",
       "supporting": [
-        "O'Connor",
-        "Scalia",
-        "Kennedy",
-        "Thomas",
-        "Breyer"
-      ],
-      "opposing": [
         "Stone",
         "Stevens",
         "Souter",
-        "Ginsburg"
+        "Ginsburg",
+        "Breyer"
+      ],
+      "opposing": [
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas"
       ],
       "stated_tally": "5-4"
     },

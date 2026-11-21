@@ -6,6 +6,6 @@ No repository-history operation was performed. Content hashes identify the froze
 
 - `freeze/OT_2001CHUNK2_D_NEUTRAL.md`: SHA-256 `263d3d126b54d422a025a5cbb81e17eac57eee22d2d5434f37c9c1b576ae8ee1`; 18139 bytes.
 
-- `entering-law/OT_2001CHUNK2_C_FOCUSED_LAW.md`: SHA-256 `20f26030054d0c8e87febf79959771cecde0c950b01952578a259129ee3a14e7`; 155052 bytes.
+- `entering-law/OT_2001CHUNK2_C_FOCUSED_LAW.md`: SHA-256 `da2cae24e2c28d1b3a7aae0f0ac66bb45ea271c27e02828a29b58083d8072a97`; 155052 bytes.
 
-- `entering-law/OT_2001CHUNK2_C.md`: SHA-256 `93a71ecb04df9ec4d4fc0f299a08e2e8484dc2a0ae036d63ec8c442761c084ed`; 2934520 bytes.
+- `entering-law/OT_2001CHUNK2_C.md`: SHA-256 `86256d91c941adae3bcd300819e6ae5fc9d529100295d0009c9ddebf3ceb9dab`; 2934520 bytes.

@@ -13,7 +13,7 @@
 | 2001-11-27 | Church of Scientology International v. Behar | Merits decision | Three Vancouver statements returned for statement-specific adjudication |
 | 2001-11-27 | Correctional Services Corp. v. Malesko (No. 00-860) | Merits decision | Confined corporate cause affirmed; remanded for application to the pleading |
 | 2001-12-10 | J. E. M. Ag Supply, Inc. v. Pioneer Hi-Bred International, Inc. (No. 99-1996) | Merits decision | Categorical defense rejected; preserved patent litigation may continue |
-| 2001-12-10 | Schrader v. Blackwell | Merits decision | Reviewed ballot-designation judgment affirmed |
+| 2001-12-10 | Schrader v. Blackwell | Merits decision | Vacated and remanded for a truthful designation and bounded prospective relief |
 | 2001-12-10 | United States v. Knights (No. 00-1260) | Merits decision | Reversed and remanded; preserved independent issues remain |
 | 2002-01-08 | Dusenbery v. United States (No. 00-6567) | Merits decision | Forfeiture-notice determination affirmed |
 | 2002-01-08 | Great-West Life & Annuity Insurance Co. v. Knudson (No. 99-1786) | Merits decision | Dismissal of the reviewed federal reimbursement claim affirmed |
@@ -785,22 +785,22 @@ All nine Justices participated at argument or submission and decision.
 
 #### Judgment
 
-**Affirmed, 5–4.**
+**Vacated and remanded, 5–4.**
 
-**Supporting:** O'Connor, Scalia, Kennedy, Thomas and Breyer.
+**Supporting:** Stone-Zsela, Stevens, Souter, Ginsburg and Breyer.
 
-**Opposing:** Stone-Zsela, Stevens, Souter and Ginsburg.
+**Opposing:** O'Connor, Scalia, Kennedy and Thomas.
 
-The Sixth Circuit's judgment remains in force at the reviewed ballot-designation scope. The four dissenters would vacate and remand for the actual burden, affiliation wording, verification and administrative fit, with appropriately bounded prospective relief.
+The Sixth Circuit's judgment is vacated at the reviewed ballot-designation scope, and the case is remanded for determination of the actual affiliation, truthful wording, verification and administrative fit, with appropriately bounded prospective relief. No particular label is ordered, no recognized-party privilege is conferred and the completed 1998 election is not reopened. The four dissenters would affirm.
 
 #### Opinion Topology
 
-THOMAS, J., delivered the opinion of the Court, in which O'CONNOR, SCALIA, KENNEDY, and BREYER, JJ., joined, and in which STONE-ZSELA, C. J., and STEVENS, SOUTER, and GINSBURG, JJ., joined as to the recurring-controversy holding. STEVENS, J., filed a dissenting opinion, in which STONE-ZSELA, C. J., and SOUTER and GINSBURG, JJ., joined.
+STEVENS, J., delivered the opinion of the Court, in which STONE-ZSELA, C. J., and SOUTER, GINSBURG, and BREYER, JJ., joined, and in which O'CONNOR, SCALIA, KENNEDY, and THOMAS, JJ., joined as to the recurring-controversy holding. THOMAS, J., filed a dissenting opinion, in which O'CONNOR, SCALIA, and KENNEDY, JJ., joined.
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
-| Opinion of the Court | Thomas | O'Connor, Scalia, Kennedy, Breyer throughout; Stone-Zsela, Stevens, Souter and Ginsburg as to the recurring-controversy holding only | Supports affirmance on the merits; all nine support reaching the dispute | Five join the recognition-linked merits rule; all nine join the threshold holding |
-| Dissent | Stevens | Stone-Zsela, Souter, Ginsburg | Would vacate and remand | Verified affiliation, separate justification, supported administrative limits and bounded prospective relief |
+| Opinion of the Court | Stevens | Stone-Zsela, Souter, Ginsburg, Breyer throughout; O'Connor, Scalia, Kennedy and Thomas as to the recurring-controversy holding only | Supports vacatur and remand on the merits; all nine support reaching the dispute | Five join the truthful-designation merits rule; all nine join the threshold holding |
+| Dissent | Thomas | O'Connor, Scalia, Kennedy | Would affirm | Recognition-linked official designation within a complete nomination system; qualified-party scope of Timmons; preserved candidate access |
 
 #### Controlling Propositions and Authority
 
@@ -814,34 +814,34 @@ THOMAS, J., delivered the opinion of the Court, in which O'CONNOR, SCALIA, KENNE
 
 **Precedent treatment:** Timmons's preservation of review in a continuing nomination dispute is applied consistently with its distinct conditional-enactment facts.
 
-##### Ohio may retain the official nomination designation within its reasonable recognition system
+##### Ohio must justify listing a verified party nominee as an independent
 
-**Holding and operative rule:** Under Anderson-Burdick, Ohio may condition this requested official party designation on compliance with its neutral party-recognition system where the complete nomination scheme leaves meaningful independent ballot access and opportunities for endorsement and campaigning. The actual burden is less than severe, and coherent nomination categories and reasonable preventive administration proportionately justify this application; empirical proof of prior disruption is not indispensable.
+**Holding and operative rule:** Under Anderson-Burdick, where Ohio's ballot prints party designations, a candidate who qualified by petition and was genuinely nominated by a party may not be forced to appear as an independent without a substantial justification grounded in the actual burden and the State's demonstrated ballot interests; full party recognition is not, by itself, that justification. Ohio may verify the affiliation, distinguish recognized parties from candidate-specific nominating associations and choose truthful wording, and it need not print a label that falsely implies recognized-party nomination. The exact label is left to the remedy stage.
 
-**Authority:** The Opinion of the Court on the merits, joined by O'Connor, Scalia, Kennedy, Thomas and Breyer; five direct joins.
+**Authority:** The Opinion of the Court on the merits, joined by Stone-Zsela, Stevens, Souter, Ginsburg and Breyer; five direct joins.
 
-**Controlling explanation:** The Court holds that support sufficient to place a congressional candidate on the ballot does not itself establish the separate statewide party status represented by Ohio's official nomination cue. Anderson and Burdick require attention to the actual burden and the fit of the State's interests, rather than treating the designation as immune from review. Timmons permits proportionate regulation of official nomination machinery within a system that leaves meaningful political participation.
+**Controlling explanation:** The Court holds that a verified party nomination and the formal status of a recognized party are different facts, and Ohio's ballot may mark that difference without suppressing the first. Schrader qualified by petition with the required district signatures, and the Libertarian Party actually nominated him at its convention. Where the ballot prints party designations for other candidates, listing him as "Independent" or with no affiliation tells voters that no party chose him. Independent access and campaigning reduce that burden; they do not make it disappear, because the ballot is the one communication every voter sees at the moment of choice. The burden is less than severe, but Anderson and Burdick require a substantial justification, measured by the State's precise interests and their actual connection to the information withheld.
 
-Schrader's verified nomination and affiliation make his associational interest real. They do not compel Ohio to redesign its official designation to distinguish affiliation from recognized-party nomination whenever an alternative wording is feasible. Independent access and campaigning reduce the burden; they do not make it disappear. The State may use reasonable preventive categories without waiting for actual disruption.
+Ohio's interests in an accurate ballot and a coherent recognition system are legitimate. They support verification of a claimed affiliation and can support reserving the formal designation of a recognized party's nominee. They do not explain why no truthful wording separating recognition from affiliation would serve them. Full party recognition answers a different question: whether the party receives recognized-party privileges statewide. Support sufficient to place this candidate on the ballot does not establish that status, and the remedy does not confer it. Timmons requires meaningful official recognition of a qualified party's genuine nomination; the Libertarian Party then lacked recognition, so Timmons does not decide this case, but its treatment of a genuine nomination as central association, not replaceable by endorsement, informs the burden. Norman, Tashjian and Eu give weight to that real association. Burdick's alternative-route holding concerns access, not ballot labels.
 
-Norman protected authorized geographic party expansion and independently qualified candidates from disqualification. This candidate remains on the ballot through a functioning nomination route, and the different party-recognition designation serves a distinct purpose. Tashjian and Eu's associational protection does not settle every official ballot format. The Court adopts neither pure rational-basis review nor a presumption validating every affiliation prohibition. More restrictive access systems and unsupported burdens remain subject to the governing calibrated inquiry.
+The rule is limited. Ohio may require verification, distinguish recognized parties from candidate-specific nominating associations, choose truthful wording and refuse any label that falsely implies recognized-party nomination. A demonstrated administrative or effective-governing interest connected to the restriction remains available. No duplicate listing, vote credit, recognized-party privilege or particular label follows, and the completed 1998 election is not reopened. The exact wording and any disputed verification facts are for the remedy stage.
 
-**Precedent treatment:** Anderson and Burdick supply the calibrated framework; Timmons's nomination-system reasoning is applied to this distinct designation burden; Norman is distinguished by the preserved candidate access and different state-status cue; Tashjian and Eu retain their associational protections.
+**Precedent treatment:** Anderson and Burdick supply the calibrated framework, and Burdick's alternative-route holding is not transferred to labels; Timmons's recognition rule for a qualified party's genuine nomination is distinguished at its scope while its associational reasoning informs this informational burden; Norman, Tashjian and Eu support the weight given to the verified association.
 
 #### Precedent Treatment
 
-- Anderson v. Celebrezze, 460 U.S. 780, and Burdick v. Takushi, 504 U.S. 428: the actual burden, precise interests and proportional fit remain controlling; no write-in presumption is transferred to labels.
-- Timmons v. Twin Cities Area New Party, No. 95-1608: its contextual nomination-system reasoning supports this bounded application, without universal approval of recognition restrictions.
-- Norman v. Reed, 502 U.S. 279: authorized expansion and independently qualified slate access remain protected; the present official status designation is distinguished.
-- Tashjian v. Republican Party of Connecticut, 479 U.S. 208, and Eu v. San Francisco County Democratic Central Committee, 489 U.S. 214: associational protection remains, without compelling every requested ballot format.
+- Anderson v. Celebrezze, 460 U.S. 780, and Burdick v. Takushi, 504 U.S. 428: the actual burden, precise interests and proportional fit remain controlling; Burdick's alternative-route holding concerns access and is not transferred to labels.
+- Timmons v. Twin Cities Area New Party, No. 95-1608: its rule requiring meaningful official recognition of a qualified party's genuine nomination is distinguished because the party here lacked recognition; its treatment of a genuine nomination as central association informs the burden.
+- Norman v. Reed, 502 U.S. 279: its protection of authorized party identity and independently established support supports the weight given to the verified nomination; party-recognition thresholds remain.
+- Tashjian v. Republican Party of Connecticut, 479 U.S. 208, and Eu v. San Francisco County Democratic Central Committee, 489 U.S. 214: associational protection supports a truthful designation, without compelling every requested ballot format.
 
 #### Law After Decision
 
-The official party designation may remain linked to Ohio's recognition system in these circumstances. The holding applies burden-and-fit review to a designation restriction; it supplies no categorical approval of every recognition threshold or prohibition of truthful affiliation.
+Where a ballot prints party designations, a State must justify forcing a verified, petition-qualified nominee of an actual party to appear as an independent by the actual burden and its demonstrated ballot interests under Anderson's calibrated inquiry; full party recognition is not, by itself, sufficient. The State may verify affiliation, distinguish recognized parties from candidate-specific nominating associations, choose truthful wording and bar labels that falsely imply recognized-party nomination. Party-recognition thresholds and recognized-party privileges are unaffected, and the exact label is left to the remedy stage.
 
 #### Separate Positions Relevant to the Decision
 
-Stevens dissents, joined by Stone-Zsela, Souter and Ginsburg, and would distinguish verified affiliation from the privileges and official representation of recognized-party nomination. Because the candidate has independently qualified and the party actually nominated him, the State must explain why every accurately qualified affiliation cue must be suppressed. Anderson-Burdick requires that fit even when the burden is less than severe; campaign speech does not eliminate the distinct ballot burden. Norman, Tashjian and Eu give weight to the real association and supported standard bearer. Timmons concerned fusion nomination and does not decide this separate informational burden. The dissent would permit the State to verify affiliation and choose accurate wording, and would recognize demonstrated administrative or effective-governing interests rather than impose a universal preferred-label right. It would remand for bounded prospective relief, preserving party-recognition thresholds and leaving the completed election intact.
+Thomas dissents, joined by O'Connor, Scalia and Kennedy, and would affirm. Support sufficient to place a congressional candidate on the ballot does not itself establish the separate statewide party status represented by Ohio's official nomination cue. Anderson and Burdick require attention to the actual burden and the fit of the State's interests, and that burden is less than severe: the candidate remained on the ballot, and the party and candidate could endorse and campaign. Coherent nomination categories and reasonable preventive administration proportionately justify tying the official designation to the neutral recognition system without proof of prior disruption; a feasible alternative wording does not oblige the State to redesign its official designation. Timmons protects a qualified party's genuine nomination, and the Libertarian Party had not satisfied Ohio's recognition requirements; Burdick concerned an effective route to the ballot, which this candidate used. Norman protected authorized party expansion and independently qualified candidates from disqualification, not every official ballot format. The dissent adopts neither pure rational-basis review nor a presumption validating every affiliation prohibition, and would leave more restrictive access systems and unsupported burdens to the governing calibrated inquiry.
 
 #### Source Notes
 
@@ -849,7 +849,7 @@ U.S. Const. amends. I and XIV; Schrader v. Blackwell, 241 F.3d 783 (6th Cir. 200
 
 #### Mandate, Remedy, and Stage
 
-The reviewed Sixth Circuit judgment stands. The completed election remains intact, and this decision confers no additional recognized-party privileges.
+The Sixth Circuit's judgment is vacated, and the case returns for determination of a truthful designation and bounded prospective relief under the rule stated above. The completed election remains intact, and this decision confers no recognized-party privileges.
 
 **End of entry: Schrader v. Blackwell, Merits decision, December 10, 2001.**
 

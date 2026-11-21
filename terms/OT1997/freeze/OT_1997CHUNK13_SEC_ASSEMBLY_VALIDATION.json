@@ -51,6 +51,6 @@
   },
   "internal_links_resolve": true,
   "final_reconciliation_identity": true,
-  "canonical_sha256": "b08f744e1b14edebb535c243f71ae282c67f549802cd7708a81669c750cb451e",
+  "canonical_sha256": "6ab55528f338d3cb7f3822ffe63f95388297aec79fd51b2520ba5d64bc166e34",
   "workspace_or_render_written": false
 }

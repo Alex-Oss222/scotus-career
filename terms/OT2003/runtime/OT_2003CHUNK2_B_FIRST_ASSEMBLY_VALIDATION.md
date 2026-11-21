@@ -104,11 +104,11 @@ Public handoffs are exact copies of the bounded Public Projections. Frozen commi
     "Breyer"
   ],
   "explanation_words": [
-    240,
+    318,
     92
   ],
   "record_sha256": "952ea1244daf32054f1bb2bbeeeb94809e20c28a6140128f72baa7501a1fc0ce",
-  "public_sha256": "54460ddcb64f4445a955aa0f3f689e505ec986e88661dfb491fec8a89f014447",
+  "public_sha256": "0bfa6ab3cbbdcdda7f8dde28f9ac367992a5eb3d5e3ae1ab222aa78ed0542683",
   "vote": "Affirmed on both granted constitutional grounds, 9–0; Thomas for the Court."
 }
 
@@ -155,7 +155,7 @@ All fifteen preexisting opinion topologies in the accounting handoff were compar
 - `freeze/OT_2003CHUNK2_RAYTHEON_RECONCILED.md`: `0d877d83d58c436379e5e22d429d8cecd197a19c6a856177e3fd9d5bc50cecc3`; exact normalized-text inclusion passed.
 - `freeze/OT_2003CHUNK2_BANKS_COMMITMENTS.md`: `a3d3725d5feb75b9de9c1c18afa7e66df0cdfc5056f9458ef4f33ae159494271`; exact normalized-text inclusion passed.
 - `freeze/OT_2003CHUNK2_BANKS_RECONCILED.md`: `236b570a2e739e412f8c34a021d81a8d145ec31cec17f7391aaab6afbe97e408`; exact normalized-text inclusion passed.
-- `freeze/OT_2003CHUNK2_VAN_SUSTEREN_COMMITMENTS.md`: `8b0be51c8f30e7327397ac2da98db8135b37516a6e6d2ab3acf0dc5c4ec4b1db`; exact normalized-text inclusion passed.
-- `freeze/OT_2003CHUNK2_VAN_SUSTEREN_RECONCILED.md`: `3a9de7684cb9269cf7e3ed21caf27c45b94dcce7e9529e5a0f6cf3d73c5808eb`; exact normalized-text inclusion passed.
+- `freeze/OT_2003CHUNK2_VAN_SUSTEREN_COMMITMENTS.md`: `b10d3d2b01ec73b0a3e5b0c522132e6c03fa3f67d3941781b397d2305139c5e6`; exact normalized-text inclusion passed.
+- `freeze/OT_2003CHUNK2_VAN_SUSTEREN_RECONCILED.md`: `7f4f27a860c6e1963fe043bb7c7a67f77738e28e81a19866482e9a46d749190a`; exact normalized-text inclusion passed.
 - `freeze/OT_2003CHUNK2_VIRGINIA_COMMITMENTS.md`: `7404aaae242247bbba71cc9fbb5cda585c9708eb06f727189df03b20910f2720`; exact normalized-text inclusion passed.
 - `freeze/OT_2003CHUNK2_VIRGINIA_RECONCILED.md`: `982d2eb5c0fadd2c8de64453e4874d8fba6d0510cf4775a70f845430716639c5`; exact normalized-text inclusion passed.

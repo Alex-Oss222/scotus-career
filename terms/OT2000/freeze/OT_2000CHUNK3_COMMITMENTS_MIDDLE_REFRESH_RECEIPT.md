@@ -18,13 +18,13 @@ SHA-256 of complete file bytes. The received-law excerpts were read in the autho
 |---|---|
 | AGENTS.md | 4390e27578018ca667567889b495bd5ca2e3a7f61e4be192564fa834b9d26d48 |
 | foundation/ENGINE.md | 3ea9b517025f55ebcfa6d1857f6ab6e7b84c90529c60f5ca2ba889e31b77afbf |
-| terms/OT2000/freeze/OT_2000CHUNK3_MIDDLE_NEUTRAL_REFRESH.md | 2dc16779c8cff4bcc905d51af9a423760b4b18c87ccdb9aa459c7c9ac8c704a7 |
+| terms/OT2000/freeze/OT_2000CHUNK3_MIDDLE_NEUTRAL_REFRESH.md | d213ab564bef409b6f1754acef2ce78dbc5eae05ff0c4d24f96831a5022353d0 |
 | terms/OT2000/freeze/OT_2000CHUNK3_NEUTRAL_MIDDLE.md | cf76c1c986114aee71fb110d4207b638ad47e1a254070e373fabf0deff3eade0 |
 | terms/OT2000/freeze/OT_2000CHUNK3_MIDDLE_VALIDATION.md | 6e5c585b158e3c47fce99192b6d2b96a7dc854ca8d51db1564abeaed1cbe65db |
-| terms/OT2000/freeze/OT_2000CHUNK3_MIDDLE_SELECTION.md | 805337dff0efd1a42096aed0c7e1f4194eb6b9b79ff1a71a1df412e1326b4aff |
+| terms/OT2000/freeze/OT_2000CHUNK3_MIDDLE_SELECTION.md | 75f58eec3630b2f9015562459952379abbe1bafdbc487fa04b5c4e1b6bd2edbc |
 | terms/OT2000/entering-law/OT_2000CHUNK3_MIDDLE_AGENCY.md | 3fd2e0b5f6e8b37f8e98c8178a390f65a9352af35b6014488f885cb6012f2257 |
 | terms/OT2000/entering-law/OT_2000CHUNK3_MIDDLE_CURRENT.md | a723b9c987b01ca28002534e505c89efbaec8b048cd198a7c83cca8c9c11e8b3 |
-| terms/OT2000/entering-law/OT_2000CHUNK3_MIDDLE_FEDERAL_ELECTION.md | 6734428aa5fd6eafbfa8a49bd0a5934c937e792993b59488662991929c2049d8 |
+| terms/OT2000/entering-law/OT_2000CHUNK3_MIDDLE_FEDERAL_ELECTION.md | 58b23f5aa21519e77f311c85c1208295b1a204b16231b804f47da40762a8d418 |
 | terms/OT2000/entering-law/OT_2000CHUNK3_MIDDLE_PUBLIC_POSITIONS.md | f8673588b9e9a01fc5eb8a77fc7991f4e0622a76dabc9e900445d6f1704ad4c5 |
 | terms/OT2000/entering-law/OT_2000CHUNK3_MIDDLE_RELIGION_SPEECH.md | cc5f10d61496e8ead2f411e4545a25df95bc384997d5f96ea78df7d88d1cf017 |
 | terms/OT2000/entering-law/OT_2000CHUNK3_MIDDLE_TEXT.md | e2868e7a9da372e5deacc1e15885e8fff1b4e00d588315793dbf4d715a1d71b1 |
@@ -32,9 +32,9 @@ SHA-256 of complete file bytes. The received-law excerpts were read in the autho
 ## Frozen output and preservation
 
 - New output: `terms/OT2000/freeze/OT_2000CHUNK3_COMMITMENTS_MIDDLE_REFRESH.md`
-- New output SHA-256: `218d36de293c60e17f2b692d39302981cef749484a3e270cda3473938faca3f5`
+- New output SHA-256: `f112b4d656ce2953b6e000a565b22ffcdc614473398b7301b3d085459ca32416`
 - Original freeze: `terms/OT2000/freeze/OT_2000CHUNK3_COMMITMENTS_MIDDLE.md`
-- Original SHA-256, verified unchanged: `84f3f0e1ac18db12449848bccc38a295f5e94fe083a7f59f13094fc3efe7c417`
+- Original SHA-256, verified unchanged: `1297caa98e5e9f613cf84f5d1fdb2cbbbbfbe3b46c5fcea907d01914c230a6b0`
 - Both new targets were absent before exclusive creation. No frozen file was replaced.
 - Deterministic checks passed: thirty-two Justice rows, all eight Associates in each affected matter, four distinct Whitman component sections, required input identity, prohibited-token absence, and no absolute local-machine links.
 - Manual component review completed for sufficient grounds, actual scope, alternative paths, qualifications, remedies, and Justice-specific change explanations. Deterministic checks certify structure and bytes, not legal correctness or historical reconciliation.

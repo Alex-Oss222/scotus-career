@@ -30,7 +30,7 @@ The linked opening trackers carry last completed term 1995, the July 1, 1996 cut
 
 The published-file digests below identify the current publication. The opening snapshots identify the law entering OT1996.
 
-The published Holdings and Standards registers retain the term-opening authorities at their proper dates and incorporate the current term's controlling law. Standards contains 584 rule titles in 32 doctrinal areas.
+The published Holdings and Standards registers retain the term-opening authorities at their proper dates and incorporate the current term's controlling law. Standards contains 586 rule titles in 32 doctrinal areas.
 
 ## Final manifest, continuity and carry-forward
 
@@ -127,7 +127,7 @@ All 153 linked Records are incorporated in full. Dispositions below are copied f
 | 1997-04-28 | [Pic-A-State Pennsylvania, Inc. v. Reno; Third Circuit No. 95-7137; no separate Supreme Court docket assigned.](../records/Pic_A_State_Pennsylvania_v_Reno_merits_1997-04-28.md) | Affirmed, 9–0; federal declaratory and prospective injunctive relief denied. |
 | 1997-04-28 | [Richards v. Wisconsin; No. 96-5955.](../records/Richards_v_Wisconsin_merits_1997-04-28.md) | Affirmed, 9–0, on particularized destruction risk; categorical felony-drug exception rejected. |
 | 1997-04-28 | [Strate v. A-1 Contractors; No. 95-1872.](../records/Strate_v_A_1_Contractors_merits_1997-04-28.md) | Affirmed unanimously as to the reviewed jurisdictional claim; conforming-relief reservation adopted 8–1. |
-| 1997-04-28 | [Timmons v. Twin Cities Area New Party; No. 95-1608.](../records/Timmons_v_Twin_Cities_Area_New_Party_merits_1997-04-28.md) | Reversed and remanded, 5–4; old restriction sustained as applied, subject to the enacted transition. |
+| 1997-04-28 | [Timmons v. Twin Cities Area New Party; No. 95-1608.](../records/Timmons_v_Twin_Cities_Area_New_Party_merits_1997-04-28.md) | Affirmed, 5–4; old restriction invalid as applied to the consenting nomination; chapter 419's amendments remain effective by their terms. |
 | 1997-05-05 | [Doe v. Southeastern Pennsylvania Transportation Authority; Third Circuit No. 95-1559; no separate Supreme Court merits docket supplied.](../records/Doe_v_SEPTA_merits_1997-05-05.md) | Affirmed, 5–4, on an expressly assumed-right and confined no-violation ground. |
 | 1997-05-12 | [Harbor Tug & Barge Co. v. Papai; No. 95-1621; OT1996, chunk 7, matter 80.](../records/Harbor_Tug_and_Barge_v_Papai_merits_1997-05-12.md) | Status reopening reversed, 6–3; status summary judgment reinstated only for seaman-dependent claims. Separate vessel-negligence appeal returned for consideration, 9–0 in disposition. Both final-award foreclosure theories reserved by the controlling status majority. |
 | 1997-05-12 | [Inter-Modal Rail Employees Association v. Atchison, Topeka & Santa Fe Railway Co.; No. 96-491; OT1996, chunk 7, matter 81.](../records/Inter_Modal_Rail_Employees_v_Atchison_merits_1997-05-12.md) | Welfare-interference dismissal vacated and remanded, eight Justices; Stone-Zsela would reverse and remand with reinstatement directions. All nine join the §510 coverage holding. |
@@ -392,7 +392,7 @@ The published Holdings register, Standards and Tests register, and Standing Stat
 
 The Standards and Tests Register derives its reusable rules from the term-opening register, all 153 Court-event Records and the three Admitted Source Records. Substantive coverage runs through September 15, 1997. Holdings references supply navigation, not independent substantive authority.
 
-The published register contains 584 rules in 32 doctrinal areas and uses CRLF. Earlier authorities remain at their proper operative scopes; current rules reflect the term’s controlling decisions.
+The published register contains 586 rules in 32 doctrinal areas and uses CRLF. Earlier authorities remain at their proper operative scopes; current rules reflect the term’s controlling decisions.
 
 ## Consolidation and authority boundaries
 
@@ -411,7 +411,7 @@ Foreman v. Dallas County appears under Election Law’s Voting Rights Act precle
 ## Verification
 
 - All 153 Court events appear once in the coverage table; the three admitted sources are separately accounted for.
-- The register contains 584 rule titles in 32 doctrinal areas; each rule retains its established entry form.
+- The register contains 586 rule titles in 32 doctrinal areas; each rule retains its established entry form.
 - Current-term citations identify the controlling Record and proposition, preserving scope, burdens, exceptions, remedies and dates.
 - Records remain the source of operative law, and their documented source limits continue to apply.
 - Pending Court matters retain their recorded posture; no expired deadline alone establishes default or closure.
@@ -505,7 +505,7 @@ Verification fingerprints:
 | 7 / 1997-04-28 | [Pic-A-State Pennsylvania, Inc. v. Reno](../records/Pic_A_State_Pennsylvania_v_Reno_merits_1997-04-28.md) | Contributes: Interstate lottery procurement and bounded state authorization. |
 | 7 / 1997-04-28 | [Richards v. Wisconsin](../records/Richards_v_Wisconsin_merits_1997-04-28.md) | Contributes: Announcement before dwelling entry. |
 | 7 / 1997-04-28 | [Strate v. A-1 Contractors](../records/Strate_v_A_1_Contractors_merits_1997-04-28.md) | Contributes: Tribal adjudication of nonmember public-highway claims. |
-| 7 / 1997-04-28 | [Timmons v. Twin Cities Area New Party](../records/Timmons_v_Twin_Cities_Area_New_Party_merits_1997-04-28.md) | No addition: Contextual Anderson-Burdick application and enactment-specific expiration/revival; no new balancing test or generally applicable transition rule. |
+| 7 / 1997-04-28 | [Timmons v. Twin Cities Area New Party](../records/Timmons_v_Twin_Cities_Area_New_Party_merits_1997-04-28.md) | Contributes: Meaningful official recognition of a qualified party's consenting nomination. |
 | 7 / 1997-05-05 | [Doe v. Southeastern Pennsylvania Transportation Authority](../records/Doe_v_SEPTA_merits_1997-05-05.md) | No addition: Assumed-interest, record-confined no-violation decision; general medical-information coverage and a universal balancing formula remain open. |
 | 7 / 1997-05-12 | [Harbor Tug & Barge Co. v. Papai](../records/Harbor_Tug_and_Barge_v_Papai_merits_1997-05-12.md) | Contributes: Jones Act seaman status and LHWCA overlap. |
 | 7 / 1997-05-12 | [Inter-Modal Rail Employees Association v. Atchison, Topeka & Santa Fe Railway Co.](../records/Inter_Modal_Rail_Employees_v_Atchison_merits_1997-05-12.md) | Contributes: ERISA interference with prospective welfare-plan rights. |
@@ -588,7 +588,7 @@ Verification fingerprints:
 |---|---|
 | [IIRIRA §633](../records/IIRIRA_Section_633_Admitted_Source_1996-09-30.md) | Supplies the immigrant-visa processing-procedures and locations rule from September 30, 1996; the authority to set procedures remains distinct from a substantive nationality-discrimination exemption. |
 | [IIRIRA review and transition provisions](../records/IIRIRA_Review_Transition_Admitted_Source_1996-09-30.md) | Supplies enacted commencement, transition, saving and exclusion text; later judicial constructions are identified separately in the two coordinated immigration entries. |
-| [Minnesota Laws 1996, chapter 419](../records/Minnesota_Chapter_419_Admitted_Source_1996-04-02.md) | Reviewed with Timmons. The conditional statutory arrangement no longer governs after the specified reversal condition restores the prior law. It creates no additional recurring constitutional standard and no inactive state-statute archive in this Register. |
+| [Minnesota Laws 1996, chapter 419](../records/Minnesota_Chapter_419_Admitted_Source_1996-04-02.md) | Reviewed with Timmons. Affirmance does not engage the specified reversal condition, so the amendments remain effective according to their terms; their independent consent and party-status counting provisions are unadjudicated. It creates no additional recurring constitutional standard and no inactive state-statute archive in this Register. |
 
 ## Published components
 
@@ -654,7 +654,7 @@ The published trackers incorporate the current Records through September 15, 199
 - Holdings doctrinal volumes are generated from the continuous register by `python tools/holdings_volumes.py split`.
 - The continuous compatibility view and doctrinal volumes contain the same current-law entries.
 - Holdings synchronization: `python tools/holdings_volumes.py check` passes; the doctrinal volumes and compatibility view are synchronized.
-- Close indexes: `python tools/build_close_indexes.py OT1996` generated the four indexes from 156 current Records; the indexes contain 137 separate-writing sections, 62 historical-departure entries and no recorded consequence entries.
+- Close indexes: `python tools/build_close_indexes.py OT1996` generated the four indexes from 156 current Records; the indexes contain 137 separate-writing sections, 63 historical-departure entries and no recorded consequence entries.
 - State files retain CRLF without a byte-order mark. No GitHub repository URL is added.
 - Local links and natural authority anchors identify the linked Records, publications and doctrinal entries.
 - The published-file digests below identify the current bytes of the trackers, doctrinal volumes and generated indexes.
@@ -686,8 +686,8 @@ Published-file verification digests:
 | [state/HOLDINGS.md](../../../state/HOLDINGS.md) | `67da79f767571a5325d8193d4ade103f31581d7f45830aa436c504e94a9ba22c` |
 | [state/STANDARDS_AND_TESTS.md](../../../state/STANDARDS_AND_TESTS.md) | `b3aa0ae7557b73e5bee52d2ca0812c7b3b6187330b6fee774763271bd42cb70b` |
 | [state/STANDING_STATE.md](../../../state/STANDING_STATE.md) | `e71a24a0c55e8d94dcf7e659e76153f29ee7ca2f69a32504f5adfc11182722bd` |
-| [terms/OT1996/INDEX.md](../INDEX.md) | `999113812e5932d9a7c19d2fc67976b5a5362a9962382c6f4be59662bab1912f` |
-| [terms/OT1996/close/SEPARATE_WRITINGS.md](SEPARATE_WRITINGS.md) | `864739ea643406e8776edf6605b01322846c095072e589a74dfd925b74fb2724` |
+| [terms/OT1996/INDEX.md](../INDEX.md) | `6f9c14a974b1a4785f85a85ee83c1e8a7749d49f0beb61fb9a93386620c3a90d` |
+| [terms/OT1996/close/SEPARATE_WRITINGS.md](SEPARATE_WRITINGS.md) | `6a0d6f1095a0c745881a0db68da027554e3878f7cdc12cc35968d58520ebe689` |
 | [terms/OT1996/close/DEPARTURES.md](DEPARTURES.md) | `ef965069333d682d9fcdd6f34e82ef86467efda971f74d09aaa10b47611e0ce7` |
 | [terms/OT1996/close/CONSEQUENCES.md](CONSEQUENCES.md) | `2c68959514b878094c14113d5393de0474f0a8ff801aef045860cd832e1fc01c` |
 

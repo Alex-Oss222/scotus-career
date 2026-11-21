@@ -277,7 +277,7 @@
     "case": "Cartwright v. Barnes; judgment below, 304 F.3d 1138; October Term 2002.",
     "event": "Merits decision, 2003-02-25, after full merits submission.",
     "date": "2003-02-25",
-    "topology": "Thomas delivers the opinion of the Court.\n\n| Writing or part | Joins | Relationship to judgment |\n|---|---|---|\n| Thomas, Part I: qualifications | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg, Breyer | Unanimous controlling qualifications holding. |\n| Thomas, Part II: practical access | O'Connor, Scalia, Kennedy, Breyer | Five-Justice controlling access holding. |\n| Souter, concurring in part and dissenting in part | Stevens, Ginsburg | Joins Part I; would vacate and remand Part II. |\n| Stone-Zsela, separately concurring in part and dissenting in part | No joins | Joins Part I; would vacate and remand Part II with his stated remedial conditions. |"
+    "topology": "Souter delivers the opinion of the Court.\n\n| Writing or part | Joins | Relationship to judgment |\n|---|---|---|\n| Souter, Part I: qualifications | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | Unanimous controlling qualifications holding. |\n| Souter, Part II: practical access | Stone-Zsela, Stevens, Ginsburg, Breyer | Five-Justice controlling access holding; vacatur and remand. |\n| Stone-Zsela, concurring | No joins | Joins the opinion in full; adds a rebuttable one-percent or 10,000-signature presumption of meaningful support and his stated remedial conditions. |\n| Thomas, concurring in part and dissenting in part | O'Connor, Scalia, Kennedy | Joins Part I; would affirm dismissal of the access claim. |"
   },
   {
     "file": "Harvey-v-Horan_merits_2003-02-25.md",

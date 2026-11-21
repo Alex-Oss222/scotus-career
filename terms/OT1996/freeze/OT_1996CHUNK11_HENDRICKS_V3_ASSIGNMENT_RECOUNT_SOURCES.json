@@ -2679,7 +2679,7 @@
         },
         {
           "line": 3,
-          "text": "**Result:** Reversed and remanded, 5–4; old restriction sustained as applied, subject to the enacted transition."
+          "text": "**Result:** Affirmed, 5–4; old restriction invalid as applied to the consenting nomination; chapter 419's amendments remain effective by their terms."
         },
         {
           "line": 4,
@@ -2689,17 +2689,17 @@
       "opinion_evidence": [
         {
           "line": 100,
-          "text": "| Opinion of the Court | Thomas | O'Connor, Scalia, Kennedy, Breyer; Stevens, Souter and Ginsburg in I and III | Reversal and remand | Five join merits Part II; all eight Associates join live-controversy Part I and statutory-transition Part III; Stone-Zsela agrees to reach the merits without an additional statutory rationale |"
+          "text": "| Opinion of the Court | Stone-Zsela | Stevens, Kennedy, Souter, Ginsburg; O'Connor, Scalia, Thomas and Breyer in I and III | Affirmance | Five join merits Part II; all nine join live-controversy Part I and statutory-consequence Part III |"
         }
       ],
       "authors": [
-        "Thomas"
+        "Stone-Zsela"
       ],
       "source_kind": "opinion table",
       "all_opinion_tables_crosscheck": [
-        "Thomas"
+        "Stone-Zsela"
       ],
-      "evidence_sha256": "1a3015f75689b661511ee8acacca43cbf8cd5ace1de892702d684be6cd57c02b",
+      "evidence_sha256": "c538908069c5e6d59cdda35a79538d4b35b6d055d9ab25387cecd5e1bd0d1d50",
       "event_ordinal": 66
     },
     {
@@ -2737,7 +2737,7 @@
       "all_opinion_tables_crosscheck": [
         "Kennedy"
       ],
-      "evidence_sha256": "56032dc73400f99bce75e2105122950e34b9b309a3c994717f423ebb62bc3279",
+      "evidence_sha256": "76f65cdaac1560e7ec0ddec51941feaeb67c49d87d3a52feeec89a5368b3a4f1",
       "event_ordinal": 67
     },
     {

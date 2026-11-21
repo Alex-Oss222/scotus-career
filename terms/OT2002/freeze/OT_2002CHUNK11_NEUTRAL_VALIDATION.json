@@ -1,6 +1,6 @@
 {
   "neutral_input_sha256": "412b7692e4bf4a357d4f48a5ef6174ff24e447eca203b4fc3af6d26f727cdea3",
-  "freeze_sha256": "dbeda66a06a06eb02a89c6693fb2b223e5296c1975a05a6466957d269891c473",
+  "freeze_sha256": "d1ec04f093054d0e5990eb6c827b922d60bd460b1e29cc60aaa54318b26ffdce",
   "verbatim_runtime_prefix": true,
   "matters": [
     129,

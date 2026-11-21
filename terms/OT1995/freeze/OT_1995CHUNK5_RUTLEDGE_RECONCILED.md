@@ -6,7 +6,7 @@
 
 **Stage and boundary:** Engine §3C, fresh historical-reconciliation context. No present or prior private Stone material, combined brief, raw Canonical Record or audit, ledger, continuity, private control artifact, other current commitment, or agent-status listing was read. Earlier published positions were read as public law. No Chief position, opinion assignment, final opinion topology or Court tally is supplied. The original commitments and prior validation artifacts remain unchanged. Root must commit this handoff before assembly.
 
-**Verified input:** [Independent commitments](OT_1995CHUNK5_RUTLEDGE_COMMITMENTS.md), frozen at `8e012ce`, SHA-256 `7f1ecfd9f85027eabdd979845c35bec452e3da81216cda6a21cab2986549eb93`. The neutral validation at `208dca9`, freshness certificate at `45ca332`, and March 26 snapshot at `71a1954` match their supplied hashes and committed bytes. The complete historical archive supplied at `6c4a11a` passes its archived checksum list. Detailed reading coverage and checks are in the [source receipt](../sources/chunk5_rutledge_recon/RECEIPT.md).
+**Verified input:** [Independent commitments](OT_1995CHUNK5_RUTLEDGE_COMMITMENTS.md), frozen at `8e012ce`, SHA-256 `5af6c3a1016d705a058005c122e3c05b3567abdefcfd53dc16f3e25fdd6a2901`. The neutral validation at `208dca9`, freshness certificate at `45ca332`, and March 26 snapshot at `71a1954` match their supplied hashes and committed bytes. The complete historical archive supplied at `6c4a11a` passes its archived checksum list. Detailed reading coverage and checks are in the [source receipt](../sources/chunk5_rutledge_recon/RECEIPT.md).
 
 ## Historical comparison and actual changes
 

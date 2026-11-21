@@ -24,7 +24,7 @@ Outstanding assembly gate only: screen completed June 25 public law before the J
 | `freeze/OT_2000CHUNK8_NEUTRAL_TYLER_SCOPE_ADDENDUM.md` | `80699444d8046228d5afe7dc23b5d784e000cacf9b472263cebf72543dde3555` |
 | `freeze/OT_2000CHUNK8_TYLER_SCOPE_VALIDATION_RECEIPT.md` | `922ea4fe9de631e71701043ba20c43f7a3b19a581e5e64e2d755f3546f27e533` |
 | `freeze/OT_2000CHUNK8_RECONCILED_tyler_DRAFT_SCOPE_HOLD.md` | `2da134420e89e641afe567b3e4b5c03125a7e9233eb039eb7b81768d9aa27996` |
-| `freeze/OT_2000CHUNK8_RECONCILED_tyler_SCOPE_HOLD_RECEIPT.md` | `91e75f3b0580bed508b84fd1c42fa9b988f9bbeecd6cb5139e24a794c549e956` |
+| `freeze/OT_2000CHUNK8_RECONCILED_tyler_SCOPE_HOLD_RECEIPT.md` | `632b4908f9a45831996da927fdfdda3dee7534ac6c8fa6f6b902e0ce2bfed553` |
 | `freeze/OT_2000CHUNK8_COMPARATOR_KDM_TYLER.md` | `02a7119ecd25a51434150447d6a8219dac80b5437b749b0c470b383cbc5fde6f` |
 | `sources/chunk8-control/tyler.txt` | `4bb6bb95aebd99ad71fc8bc8ba86f79a93fe6ac69bafef15cb6ec8a6f1713f18` |
 | `sources/chunk8-control/tyler.pdf` | `437d3cdb25e82ea6e3fa935b95678a49555b8de79a316e136ddba862d1df4270` |

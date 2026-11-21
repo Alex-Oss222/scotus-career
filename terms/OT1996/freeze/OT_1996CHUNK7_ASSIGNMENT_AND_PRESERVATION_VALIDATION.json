@@ -260,25 +260,25 @@
     {
       "inventory": 78,
       "case": "Timmons v. Twin Cities Area New Party",
-      "assignors": "Chief, live controversy; O'Connor, reversal",
+      "assignors": "Chief, all judgment components",
       "eligible": [
-        "O'Connor",
-        "Scalia",
+        "Stone-Zsela",
+        "Stevens",
         "Kennedy",
-        "Thomas",
-        "Breyer"
+        "Souter",
+        "Ginsburg"
       ],
       "pool": [
-        "Scalia",
+        "Stone-Zsela",
+        "Stevens",
         "Kennedy",
-        "Thomas",
-        "Breyer"
+        "Ginsburg"
       ],
-      "author": "Thomas",
+      "author": "Stone-Zsela",
       "balance_binding": true,
-      "qualification": "The admitted conditional enactment presents a genuine threshold component independently frozen before assembly. Stone reaches the merits but supplies no enactment-specific rationale and opposes reversal; the Chief does not assign the merits.",
+      "qualification": "The admitted conditional enactment presents a genuine threshold component independently frozen before assembly. Stone's approved position reaches it on the enacted revival condition and supports affirmance; the Chief is in the judgment coalition and assigns the whole opinion.",
       "record": "terms/OT1996/records/Timmons_v_Twin_Cities_Area_New_Party_merits_1997-04-28.md",
-      "record_sha256": "1a3015f75689b661511ee8acacca43cbf8cd5ace1de892702d684be6cd57c02b",
+      "record_sha256": "c538908069c5e6d59cdda35a79538d4b35b6d055d9ab25387cecd5e1bd0d1d50",
       "topology_sha256": "eba5c1eac6976bc388423fea90b74ea5e12d62ca70627f337e1ae386340818d0",
       "receipt": "terms/OT1996/freeze/OT_1996CHUNK7_78_ASSIGNMENT_RECOUNT.json",
       "receipt_sha256": "2e06477729311d5ec6e85e88bfb002c6782353012e1bd611bd2c5561af7ba959",
@@ -295,12 +295,12 @@
       },
       "qualifying_opinions": 65,
       "last_counted": "Strate_v_A_1_Contractors_merits_1997-04-28.md",
-      "eligible_minimum": 7,
+      "eligible_minimum": 6,
       "computed_minimum_plus_one_pool": [
-        "Scalia",
+        "Stone-Zsela",
+        "Stevens",
         "Kennedy",
-        "Thomas",
-        "Breyer"
+        "Ginsburg"
       ],
       "independent_receipt_differences": []
     },
@@ -325,10 +325,10 @@
       "balance_binding": false,
       "qualification": "The sole merits ground assumes the asserted right. Scalia and Thomas fully join that assumption-based opinion despite their separate source objection. There is no separate disputed threshold judgment component. The listed pool is comparative only; the Chief's binding balance rule does not govern this Associate assignment.",
       "record": "terms/OT1996/records/Doe_v_SEPTA_merits_1997-05-05.md",
-      "record_sha256": "56032dc73400f99bce75e2105122950e34b9b309a3c994717f423ebb62bc3279",
+      "record_sha256": "76f65cdaac1560e7ec0ddec51941feaeb67c49d87d3a52feeec89a5368b3a4f1",
       "topology_sha256": "643847a4f1b7ba35dd9018fb00548ece610417cb4751e53121373201c1d1d6c2",
       "receipt": "terms/OT1996/freeze/OT_1996CHUNK7_79_ASSIGNMENT_RECOUNT.json",
-      "receipt_sha256": "b7ccfee8bac6bec92805f02cafe4762798a51158e4c1bd12efee1fca10fb2554",
+      "receipt_sha256": "2e242a694d5c0ead839b724883aa3b9294560421c4c60b0d790cd87f34f48be1",
       "counts": {
         "Stone-Zsela": 6,
         "Stevens": 7,
@@ -375,7 +375,7 @@
       "record_sha256": "30be8ea0502c98db23c1ec3ab6b856d6f8fef6838930a28873d75c367ffe4ea7",
       "topology_sha256": "06065f45806395ebc77a668b46b128aef4ce51ff146ff0ec963fbcb01cf4e8b2",
       "receipt": "terms/OT1996/freeze/OT_1996CHUNK7_80_ASSIGNMENT_RECOUNT.json",
-      "receipt_sha256": "efa21f9aab9742b575c5b8ead57ab58b1eaa591e338db54696d14c968e2611e2",
+      "receipt_sha256": "1ce0602c157d4dc11b3a8deac6b4fd2a44061e339b4565ac241d46612cfeea08",
       "counts": {
         "Stone-Zsela": 6,
         "Stevens": 7,
@@ -420,7 +420,7 @@
       "record_sha256": "9bb23e5bcfbc9f6bf3669916fb8973989dcd183bc56722707041736933ed73f3",
       "topology_sha256": "10f923161e854dc3633a305a2b14779c656a45348ab710644f7b1abd50ba6898",
       "receipt": "terms/OT1996/freeze/OT_1996CHUNK7_81_ASSIGNMENT_RECOUNT.json",
-      "receipt_sha256": "d1a0ac0c6f0008170de95c6366def62ef36f7ba96b6f69e996c2e2bc3691811d",
+      "receipt_sha256": "5b23665aa90f9ae2b4d0d37fa926a5b8b90882d720e2de3e4ef01ff99bd0fe69",
       "counts": {
         "Stone-Zsela": 6,
         "Stevens": 7,
@@ -471,7 +471,7 @@
       "record_sha256": "40fdff9125419fef7134247ec7c3fd22095da3bd3c677467d6f44ae8471f973c",
       "topology_sha256": "bc98f0d70c56005aa9a9dd09d5c12bcb29f5be2f53ad75565e9cb9a6c97946e1",
       "receipt": "terms/OT1996/freeze/OT_1996CHUNK7_82_ASSIGNMENT_RECOUNT.json",
-      "receipt_sha256": "ed3351179dea166c7c4793fecedb87ce6620dffbb4b2cd86e483d9b200b8ddc5",
+      "receipt_sha256": "97fc4864d07c95c91584f18a51b4e3a320301c88e73580008dc351fca077ae99",
       "counts": {
         "Stone-Zsela": 6,
         "Stevens": 7,
@@ -515,7 +515,7 @@
       "record_sha256": "95fce0bc05e3e4c99c240444f105c8121c1274bcbf080976e2b311d01ce9bdca",
       "topology_sha256": "34c3a38b25ad1e4c274bd76dd09b6f9c4373be03d0f8757aa18abc339bbe423b",
       "receipt": "terms/OT1996/freeze/OT_1996CHUNK7_83_ASSIGNMENT_RECOUNT.json",
-      "receipt_sha256": "68079c2f0d8a6e9e9e95ca60cc95ea80084c9341eaba8a6e35103be7cfc78906",
+      "receipt_sha256": "586f380e558f8192622f4da099135a717e426c109f9013290dfb63e96322534c",
       "counts": {
         "Stone-Zsela": 7,
         "Stevens": 7,
@@ -572,11 +572,11 @@
       "terms/OT1996/freeze/OT_1996CHUNK7_76_ASSIGNMENT_RECOUNT.json": "a721a8fd56776ca85ae703cbcf94f70260673958ee15a4b0022a2115be9b1ab3",
       "terms/OT1996/freeze/OT_1996CHUNK7_77_ASSIGNMENT_RECOUNT.json": "bea2905659f40d77535894b1d7fc0ee2dd4dd3c1536720d84d8580e6bd57a890",
       "terms/OT1996/freeze/OT_1996CHUNK7_78_ASSIGNMENT_RECOUNT.json": "2e06477729311d5ec6e85e88bfb002c6782353012e1bd611bd2c5561af7ba959",
-      "terms/OT1996/freeze/OT_1996CHUNK7_79_ASSIGNMENT_RECOUNT.json": "b7ccfee8bac6bec92805f02cafe4762798a51158e4c1bd12efee1fca10fb2554",
-      "terms/OT1996/freeze/OT_1996CHUNK7_80_ASSIGNMENT_RECOUNT.json": "efa21f9aab9742b575c5b8ead57ab58b1eaa591e338db54696d14c968e2611e2",
-      "terms/OT1996/freeze/OT_1996CHUNK7_81_ASSIGNMENT_RECOUNT.json": "d1a0ac0c6f0008170de95c6366def62ef36f7ba96b6f69e996c2e2bc3691811d",
-      "terms/OT1996/freeze/OT_1996CHUNK7_82_ASSIGNMENT_RECOUNT.json": "ed3351179dea166c7c4793fecedb87ce6620dffbb4b2cd86e483d9b200b8ddc5",
-      "terms/OT1996/freeze/OT_1996CHUNK7_83_ASSIGNMENT_RECOUNT.json": "68079c2f0d8a6e9e9e95ca60cc95ea80084c9341eaba8a6e35103be7cfc78906"
+      "terms/OT1996/freeze/OT_1996CHUNK7_79_ASSIGNMENT_RECOUNT.json": "2e242a694d5c0ead839b724883aa3b9294560421c4c60b0d790cd87f34f48be1",
+      "terms/OT1996/freeze/OT_1996CHUNK7_80_ASSIGNMENT_RECOUNT.json": "1ce0602c157d4dc11b3a8deac6b4fd2a44061e339b4565ac241d46612cfeea08",
+      "terms/OT1996/freeze/OT_1996CHUNK7_81_ASSIGNMENT_RECOUNT.json": "5b23665aa90f9ae2b4d0d37fa926a5b8b90882d720e2de3e4ef01ff99bd0fe69",
+      "terms/OT1996/freeze/OT_1996CHUNK7_82_ASSIGNMENT_RECOUNT.json": "97fc4864d07c95c91584f18a51b4e3a320301c88e73580008dc351fca077ae99",
+      "terms/OT1996/freeze/OT_1996CHUNK7_83_ASSIGNMENT_RECOUNT.json": "586f380e558f8192622f4da099135a717e426c109f9013290dfb63e96322534c"
     },
     "failures": [],
     "limits": "The term baseline excludes case-insensitive chunk7 paths and the four mutable workspace projections. In particular it does not establish an initial hash for the approved chunk 7 brief. This audit makes no preservation claim for unlisted files, and does not replace runtime-split freshness, Public Projection/Render Input identity, or full term validation."

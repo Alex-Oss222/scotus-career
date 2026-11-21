@@ -1025,7 +1025,7 @@ The strongest contrary argument is that selective aid magnifies existing parties
 **Precedent treatment:**
 
 - Anderson applies the actual-burden and precise-interest inquiry to this financial classification.
-- Burdick preserves burden-sensitive scrutiny; its write-in presumption is not transferred to all subsidies.
+- Burdick preserves burden-sensitive scrutiny; its write-in holding is not transferred to subsidies.
 - Buckley supplies demonstrated-support funding authority while retaining constitutional limits and political fluidity; the schemes are not identical.
 - Norman preserves qualified-component ballot protection without creating automatic party-expense funding.
 - Arkansas Educational Television Commission v. Forbes preserves review of genuine support criteria and viewpoint discrimination; its forum classification is not an election-finance rule.
@@ -1044,7 +1044,7 @@ The strongest contrary argument is that selective aid magnifies existing parties
 #### Precedent Treatment
 
 - Anderson v. Celebrezze: applies the actual injury, precise interest and necessary-burden inquiry.
-- Burdick v. Takushi: retains scrutiny according to actual burden; no universal funding exemption or write-in presumption for subsidies is created.
+- Burdick v. Takushi: retains scrutiny according to actual burden; no universal funding exemption or write-in rule for subsidies is created.
 - Buckley v. Valeo: applies demonstrated-support financing principles while distinguishing its particular vote criteria, recipient expenditure ceilings and post-election payments.
 - Norman v. Reed: preserves independently qualified candidacies without equating candidate qualification with every party subsidy.
 - Arkansas Educational Television Commission v. Forbes: retains reasonable actual selection and viewpoint review within its forum setting; neither its majority nor its dissent supplies automatic subsidy access.
@@ -1136,17 +1136,17 @@ O'Connor, Scalia and Thomas withhold assent from Part III.A's constitutional exc
 
 **Controlling explanation:** Anderson v. Celebrezze requires assessment of the injury's character and magnitude, the State's precise interests and their need for the burden. Burdick v. Takushi requires narrow fit to a compelling interest for severe burdens and ordinarily permits reasonable, nondiscriminatory burdens justified by important regulatory interests. The inquiry considers the whole system, not a nominal alternative alone.
 
-Norman v. Reed permits distinct-electorate support requirements while forbidding party-name barriers and loss of independently qualified components because another electorate failed. Statewide trustee support does not itself show congressional-district support. The different denominators and stages make the petition comparison more than a simple tenfold disparity. Jenness v. Fortson permits meaningful support requirements in an actual workable system; Timmons v. Twin Cities Area New Party likewise examines the available nomination and advocacy alternatives. Here the capped general-ballot petition route supplies an available alternative without an automatic constitutional right to a public party primary.
+Norman v. Reed permits distinct-electorate support requirements while forbidding party-name barriers and loss of independently qualified components because another electorate failed. Statewide trustee support does not itself show congressional-district support. The different denominators and stages make the petition comparison more than a simple tenfold disparity. Jenness v. Fortson permits meaningful support requirements in an actual workable system; Timmons v. Twin Cities Area New Party likewise examines whether the alternatives a restriction leaves actually replace what it withholds. Here the capped general-ballot petition route supplies an available alternative without an automatic constitutional right to a public party primary.
 
 The substantial numerical difference and combined conditions deserve examination. The 1994 successes are relevant but not conclusive; disputed 1996 acceptances cannot prove full compliance, and the exceptional 1992 route cannot establish ordinary-year accessibility. No supported genuine dispute of the asserted impossible cumulative burden requires trial. Nor does the record establish Norman's disqualification of an independently qualified component through another electorate's failure. The strongest contrary argument requires a demonstrated heavier cumulative burden or automatic transfer of statewide status that this record does not support. Literal impossibility is not a universal prerequisite to a constitutional claim. Incumbent preservation is no independent justification, and a properly supported future burden challenge remains available.
 
 **Precedent treatment:**
 
 - Anderson applies the actual-burden, precise-interest and necessity inquiry.
-- Burdick preserves complete-system review and the severe-burden boundary; its write-in presumption is not generalized.
+- Burdick preserves complete-system review and the severe-burden boundary; its effective-route holding for write-in prohibitions after early nomination closing is not generalized.
 - Norman preserves electorate-specific support and independently qualified components; it creates no automatic statewide-to-district status.
 - Jenness permits a meaningful demonstration of support, not universal approval of five-percent petitions.
-- Timmons applies proportionate regulation within actual alternatives, not an incumbent-protection interest or categorical approval of every nomination rule.
+- Timmons requires that a substantial nomination burden be connected to the interests invoked, accepts no incumbent-protection interest and neither approves nor condemns every nomination rule categorically.
 
 ##### 3. Genuine nomination procedures do not add a personal congressional qualification
 
@@ -1174,7 +1174,7 @@ The substantial numerical difference and combined conditions deserve examination
 - Anderson v. Celebrezze: applies the character and magnitude of actual burden, precise interest and necessity inquiry.
 - Burdick v. Takushi: applies complete-system scrutiny without making a nominal route or numerical label conclusive.
 - Jenness v. Fortson: permits meaningful support requirements in their actual setting, not every five-percent rule.
-- Timmons v. Twin Cities Area New Party: applies its examination of meaningful remaining alternatives and proportionate administration; it authorizes no independent protection of established competitors.
+- Timmons v. Twin Cities Area New Party: applies its examination of whether remaining alternatives replace what a restriction withholds and its demand for connected justification; it authorizes no independent protection of established competitors.
 - U.S. Term Limits, Inc. v. Thornton: preserves exclusive substantive congressional qualifications and genuine procedural administration, with its actual prior authority and today's separate rationale joins.
 
 #### Law After Decision
@@ -1183,7 +1183,7 @@ Illinois's challenged congressional access route survives on the actual record, 
 
 #### Separate Writings
 
-**Stone-Zsela, concurring in part and dissenting in part.** Stone-Zsela agrees to reach the recurring controversy and would not reopen the completed election. He would reverse the access judgment because the combination of gubernatorial-vote recognition, district new-party classification, heavier general-election petitions and associated slate requirements unjustifiably favors established organizations. Anderson and Burdick require justification of the combined injury, not just the existence of some route. Jenness permits a workable five-percent requirement in context; Timmons sustained its narrower rule because meaningful participation alternatives remained.
+**Stone-Zsela, concurring in part and dissenting in part.** Stone-Zsela agrees to reach the recurring controversy and would not reopen the completed election. He would reverse the access judgment because the combination of gubernatorial-vote recognition, district new-party classification, heavier general-election petitions and associated slate requirements unjustifiably favors established organizations. Anderson and Burdick require justification of the combined injury, not just the existence of some route. Jenness permits a workable five-percent requirement in context; Timmons confirms that remaining avenues of participation do not end the inquiry when a substantial burden lacks a demonstrated connection to the interests invoked.
 
 The primary and general-election denominators differ, so a straight ten-to-one calculation does not prove his conclusion. Nor does statewide trustee success automatically establish every district. His objection is that the classification and accumulated requirements impose an inadequately justified comparative burden; literal impossibility is unnecessary. Two 1994 successes show possibility, not equality of opportunity. Norman requires respect for independently qualified candidacies while permitting reasonable district support. His criticism of slate-linked burdens concerns the actual relevant-subdivision condition, not a requirement to nominate a complete statewide slate with every congressional candidate or a finding that an independently qualified component has already been excluded here.
 

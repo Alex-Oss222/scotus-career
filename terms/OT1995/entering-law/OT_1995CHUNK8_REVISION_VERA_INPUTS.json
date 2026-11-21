@@ -4,7 +4,7 @@
   "coverage_status": "Complete as to Records presently on disk at the stated strict-before cutoff.",
   "slice": "terms/OT1995/entering-law/OT_1995CHUNK8_REVISION_VERA.md",
   "slice_sha256": "420bea1d0b8db3d7d3b124dc817f4af8c97bb81547886d060f13991e91b96caf",
-  "baseline_sha256": "d0d660d1b56c6c45c052a91c7495cd434c6c851caa81783db85cada204c0346f",
+  "baseline_sha256": "aba9552b1e4caa91d068b1bee958935df16b2c6f318bb37e59b63d28bee1a234",
   "selected": {
     "holdings-area": [
       "election-law"
@@ -18,7 +18,7 @@
     "standing-heading": []
   },
   "inputs": {
-    "terms/OT1995/entering-law/OT_1995CHUNK8_A_VERA.md": "d0d660d1b56c6c45c052a91c7495cd434c6c851caa81783db85cada204c0346f",
+    "terms/OT1995/entering-law/OT_1995CHUNK8_A_VERA.md": "aba9552b1e4caa91d068b1bee958935df16b2c6f318bb37e59b63d28bee1a234",
     "state/holdings/election-law.md": "31d5b1cbab12c2744cdb1069bad48c94669056d4f741f3b9e21251fa87a3885f",
     "state/STANDARDS_AND_TESTS.md": "63ac91ba699d81363221fc054f0b68e53be2689da214de4856f26e4820929034",
     "tools/build_entering_law.py": "b6f19fc552b200e1c50b28369c3d9f734ccb3580b182db4cb37072bf78802abc"
@@ -378,7 +378,7 @@
     {
       "path": "terms/OT1995/records/Morse_v_Republican_Party_of_Virginia_merits_1996-03-27.md",
       "date": "1996-03-27",
-      "record_sha256": "1d4a5e25bf04ef4c02b18faa8664ce817eddc0cec2f68802a4d1bdc37d86bc13",
+      "record_sha256": "cdc356da0bae67dc5c935fd4ce3c376adb8ad40fc6b71646d3a47c12aa8a913b",
       "projection_sha256": "b8ca2604e07e8cab76fe9d00970bc79494a7e8ad0803ad1695710b505ce92182"
     },
     {

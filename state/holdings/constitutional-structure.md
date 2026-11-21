@@ -3986,7 +3986,7 @@ For the distinct practical-access claim in Cartwright, February 25, 2003, judgme
 
 **Holding:** A genuine requirement to demonstrate electoral support regulates ballot access rather than adding a personal qualification for congressional membership, while remaining subject to independent First and Fourteenth Amendment review. Georgia's pleaded petition requirement measures support rather than age, status, prior service or another personal characteristic, so the Article I theory fails.
 
-**Proposition-level authority:** Thomas's Part I, joined by all eight other Justices; nine direct votes.
+**Proposition-level authority:** Souter's Part I, joined by all eight other Justices; nine direct votes.
 
 **Material application:** The petition measures electoral support rather than a candidate’s age, status, prior service or adherence to a prescribed legislative position. Classification turns on operation, not the ballot label.
 

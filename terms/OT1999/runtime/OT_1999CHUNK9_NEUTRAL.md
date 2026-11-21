@@ -34,7 +34,7 @@
 
 ### Issue 1: May California require political parties to select their
 
-* **Controlling Simulated Law:** Timmons and Burdick require assessment of the actual associational burden and proportionate state interests; a less-than-severe fusion limit is not an authorization to let outsiders determine a party’s nominee. Hurley protects control over attributable expression under its own conditions.
+* **Controlling Simulated Law:** Timmons and Burdick require assessment of the actual associational burden and proportionate state interests; Timmons protects a qualified party’s voluntary nomination of a consenting candidate while leaving neutral regulation of ballot presentation, consent and double counting available, and it does not itself decide compelled outsider participation in a party’s nomination. Hurley protects control over attributable expression under its own conditions.
 * **Current Reusable Doctrine:** Determine the effect of compulsory outsider participation on the party’s official choice, then assess the State’s precise interests and alternatives. Nomination control, public election access and expressive-association claims remain distinct.
 * **Other Governing Law:** The constitutional, statutory, and rule provisions identified in the question before the Court, together with time-eligible law not displaced by completed simulated decisions.
 * **Material Other Authority:** Time-eligible authorities are used only for the propositions stated here.

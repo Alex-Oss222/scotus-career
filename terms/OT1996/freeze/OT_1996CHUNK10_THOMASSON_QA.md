@@ -30,7 +30,7 @@ These are review-stage hashes. Parent integration may update only the internal v
 | OT_1996CHUNK10_THOMASSON_NEUTRAL.md | `1a9542c12d82be78300cb4009a4dd2f3b0aef57edd527faddc9c4191ad6af405` |
 | OT_1996CHUNK10_THOMASSON_STONE_V2_ASSEMBLY.md | `3afcc1a9b1f715423adc32716aae40b5dd86a440521b914e74c7a5c1fa157b04` |
 | OT_1996CHUNK10_C_RECONCILED.md | `965679bdfd7d383189b4005fb024fd8663165583ef1be36775756f8ce073b97a` |
-| OT_1996CHUNK10_THOMASSON_ASSIGNMENT_CENSUS.md | `f326145ba50e7b537949ec040420483bbf0f0199ebe7f82afeb0494ede6c81c6` |
-| OT_1996CHUNK10_THOMASSON_ASSIGNMENT_EXCERPTS.md | `acf165a023014019c128e6659caf1f8c7afd828bd6cd3a41da6b44adf9d04eb9` |
+| OT_1996CHUNK10_THOMASSON_ASSIGNMENT_CENSUS.md | `de121dbe571c03b02e9ad3cab6ef1a796e01d1feb192071337db636a41f1f066` |
+| OT_1996CHUNK10_THOMASSON_ASSIGNMENT_EXCERPTS.md | `23d6ba69f6366ab2ff9817e987726681f4bab163f052c6381b00a7ee215ad134` |
 
 Git history, object existence and commitment are unperformed under the user's instruction, not passed checks. No Git command was run and the top-level private-position directory was not accessed. This reviewer wrote only the earlier task-local tooling adapter and this receipt, both beneath terms/OT1996/.

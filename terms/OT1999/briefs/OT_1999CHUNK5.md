@@ -33,21 +33,21 @@
 
 ### Issue 1: Unequal access to fusion
 
-* **Controlling Simulated Law:** Timmons v. Twin Cities Area New Party, April 28, 1997, sustains Minnesota’s presented fusion restriction under Anderson and Burdick because the burden is less than severe and proportionate election interests support it. That holding does not decide a system allowing major-party fusion while withholding the same opportunity from minor parties.
+* **Controlling Simulated Law:** Timmons v. Twin Cities Area New Party, April 28, 1997, holds under Anderson and Burdick that Minnesota’s categorical fusion ban is not justified as applied to a qualified minor party’s timely nomination of a consenting candidate, because the burden is substantial but not severe and the asserted election interests are not shown to require the ban; the State must provide a meaningful official means of recognizing such a nomination and may regulate ballot presentation, consent and double counting through neutral rules. That holding does not decide a system allowing major-party fusion while withholding the same opportunity from minor parties.
 * **Current Reusable Doctrine:** Evaluate the burden and the precise asserted interests, then separately examine the unequal distribution of the available nomination mechanism. A valid evenhanded restriction does not automatically justify a party-status distinction.
 * **Other Governing Law:** Equal Protection Clause; together with time-eligible law not displaced by completed simulated decisions.
 * **Material Other Authority:** *Anderson v. Celebrezze* and *Burdick v. Takushi* supply surviving election-burden doctrine. Real-world *Timmons v. Twin Cities Area New Party* is a time-eligible persuasive comparator only for the distinction between an evenhanded fusion ban and selective access to a permitted fusion mechanism; it is not current simulated law.
 * **Open Point:** Current simulated law does not specifically resolve whether a State that permits fusion may reserve the mechanism to major parties. The Court must answer that question within the existing election-burden and equal-protection frameworks.
 ### Issue 2: Scrutiny for burden plus party discrimination
 
-* **Controlling Simulated Law:** Timmons sustains an evenhanded fusion restriction on its actual record under Anderson and Burdick; it does not settle the distinct major/minor-party asymmetry here. Ordinary equal-protection requirements separately govern that distinction.
+* **Controlling Simulated Law:** Timmons holds a categorical fusion ban unjustified as applied to a qualified party’s consenting nomination on its actual record under Anderson and Burdick and leaves neutral fusion regulation available; it does not settle the distinct major/minor-party asymmetry here. Ordinary equal-protection requirements separately govern that distinction.
 * **Current Reusable Doctrine:** The controlling authorities stated above supply the operative rule; no additional test changes the inquiry.
 * **Other Governing Law:** The constitutional, statutory, and rule provisions identified in the question before the Court, together with time-eligible law not displaced by completed simulated decisions.
 * **Material Other Authority:** *Anderson v. Celebrezze* and *Burdick v. Takushi* supply surviving election-burden doctrine. Real-world *Timmons v. Twin Cities Area New Party* is a time-eligible persuasive comparator only for the distinction between an evenhanded fusion ban and selective access to a permitted fusion mechanism; it is not current simulated law.
 * **Open Point:** Current simulated law does not specifically resolve whether a State that permits fusion may reserve the mechanism to major parties. The Court must answer that question within the existing election-burden and equal-protection frameworks.
 ### Issue 3: Justification for unequal treatment
 
-* **Controlling Simulated Law:** Timmons sustains an evenhanded fusion restriction on its actual record under Anderson and Burdick; it does not settle the distinct major/minor-party asymmetry here. Ordinary equal-protection requirements separately govern that distinction.
+* **Controlling Simulated Law:** Timmons holds a categorical fusion ban unjustified as applied to a qualified party’s consenting nomination on its actual record under Anderson and Burdick and leaves neutral fusion regulation available; it does not settle the distinct major/minor-party asymmetry here. Ordinary equal-protection requirements separately govern that distinction.
 * **Current Reusable Doctrine:** The controlling authorities stated above supply the operative rule; no additional test changes the inquiry.
 * **Other Governing Law:** The constitutional, statutory, and rule provisions identified in the question before the Court, together with time-eligible law not displaced by completed simulated decisions.
 * **Material Other Authority:** *Anderson v. Celebrezze* and *Burdick v. Takushi* supply surviving election-burden doctrine. Real-world *Timmons v. Twin Cities Area New Party* is a time-eligible persuasive comparator only for the distinction between an evenhanded fusion ban and selective access to a permitted fusion mechanism; it is not current simulated law.
@@ -58,7 +58,7 @@
 * **Controlling reasoning below:** The United States Court of Appeals for the Third Circuit, sitting en banc, affirmed the district court’s Equal Protection judgment and injunction while directing deletion of the separate free-association wording from the judgment.
 * **Petitioner’s or appellant’s strongest supported position:** The party seeking reversal argues that the lower court misidentified the governing source, test, burden, or remedy and that the question presented must be resolved under the competing reading described in Section I.B.
 * **Respondent’s or appellee’s strongest supported position:** A State that permits fusion may not deny that electoral mechanism to minor parties while making it available to major parties without constitutionally sufficient justification for the distinction.
-* **Necessary concessions and limiting principles:** The holding does not recognize a freestanding right to fusion and does not disturb a neutral, generally applicable anti-fusion rule. The holding creates no new suspect classification for minor political parties and preserves ordinary Anderson-Burdick review of neutral election regulations. Pennsylvania may replace the discriminatory arrangement with a neutral rule applicable to every party.
+* **Necessary concessions and limiting principles:** The holding does not recognize a freestanding right to fusion and does not disturb neutral, generally applicable fusion regulation consistent with Timmons. The holding creates no new suspect classification for minor political parties and preserves ordinary Anderson-Burdick review of neutral election regulations. Pennsylvania may replace the discriminatory arrangement with a neutral rule applicable to every party and consistent with Timmons.
 * **Solicitor General or amicus position:** No separate position is included unless it performs work in the cited record or governing authorities.
 
 ## D. LAWFUL PATHS AND UNCERTAINTY
@@ -90,17 +90,17 @@
 ## B. JUDGMENT AND REMEDY
 
 * **Stone's Controlled Judgment or Disposition:** Affirm.
-* **Stone's Remedy and Remand Position:** The Third Circuit's judgment remains in force. Pennsylvania must afford minor parties the same cross-nomination opportunity it affords major parties for the specified offices. Pennsylvania remains free to prohibit fusion for all parties through a neutral rule.
+* **Stone's Remedy and Remand Position:** The Third Circuit's judgment remains in force. Pennsylvania must afford minor parties the same cross-nomination opportunity it affords major parties for the specified offices. Pennsylvania may regulate fusion nominations through neutral rules consistent with Timmons.
 
 ## C. ISSUE POSITIONS
 
 ### Issue 1: Unequal access to fusion
 
 * **Threshold and Merits Reach:** Stone reaches the merits. No separate threshold or vehicle bar identified in Section I prevents decision.
-* **Stone's Legal Position:** Pennsylvania violates equal protection by creating a lawful cross-nomination mechanism and reserving it to major parties while excluding minor parties. Stone adopts the neutral-ban distinction reflected in the time-eligible *Timmons* comparator: a State may prohibit fusion evenhandedly, but it may not reserve a permitted fusion mechanism to major parties without constitutionally sufficient justification. *Anderson-Burdick* governs the burden, and equal protection independently requires justification of the classification.
+* **Stone's Legal Position:** Pennsylvania violates equal protection by creating a lawful cross-nomination mechanism and reserving it to major parties while excluding minor parties. Stone applies the distinction between evenhanded regulation and selective access: under *Timmons* a State may regulate fusion nominations through neutral rules, but it may not reserve a permitted fusion mechanism to major parties without constitutionally sufficient justification. *Anderson-Burdick* governs the burden, and equal protection independently requires justification of the classification.
 * **Stone's Proposed Holding:** A State that permits fusion may not deny that electoral mechanism to minor parties while making it available to major parties without constitutionally sufficient justification for the distinction.
-* **Essential Reasoning and Record Application:** The challenged rule does not merely regulate fusion. It distributes access to an existing electoral mechanism according to party status. The State therefore must defend the unequal allocation, not only show that a neutral ban could be constitutional. Timmons gives Pennsylvania room to choose an evenhanded fusion policy. It does not answer why the State grants the mechanism to major parties but denies it to this party; the unsupported asymmetry is the basis for Stone’s conclusion.
-* **Boundary or Reserved Question:** The holding does not recognize a freestanding right to fusion and does not disturb a neutral, generally applicable anti-fusion rule.
+* **Essential Reasoning and Record Application:** The challenged rule does not merely regulate fusion. It distributes access to an existing electoral mechanism according to party status. The State therefore must defend the unequal allocation, not only show that a neutral rule could be constitutional. Timmons leaves Pennsylvania room to regulate fusion nominations through neutral rules. It does not answer why the State grants the mechanism to major parties but denies it to this party; the unsupported asymmetry is the basis for Stone’s conclusion.
+* **Boundary or Reserved Question:** The holding does not itself recognize a freestanding right to fusion and does not disturb neutral, generally applicable fusion regulation consistent with Timmons.
 ### Issue 2: Scrutiny for burden plus party discrimination
 
 * **Threshold and Merits Reach:** Stone reaches the merits of this issue. No separate threshold or vehicle bar identified in Section I prevents decision.
@@ -111,10 +111,10 @@
 ### Issue 3: Justification for unequal treatment
 
 * **Threshold and Merits Reach:** Stone reaches the merits of this issue. No separate threshold or vehicle bar identified in Section I prevents decision.
-* **Stone's Legal Position:** Pennsylvania must justify the unequal treatment itself. Interests such as avoiding ballot confusion, factionalism, instability, or candidate manipulation may support a uniform anti-fusion rule, but they do not justify allowing major-party fusion while prohibiting minor-party fusion unless the State establishes a materially different danger arising from minor-party cross-nomination.
-* **Stone's Proposed Holding:** A State may prohibit fusion neutrally, but when it permits fusion it must justify any facial party-status distinction governing access to that mechanism.
-* **Essential Reasoning and Record Application:** The record supplies no constitutionally sufficient reason why the asserted election-administration harms require restriction of minor parties but not major parties. The asymmetry therefore fails even though Pennsylvania could adopt an evenhanded prohibition.
-* **Boundary or Reserved Question:** Pennsylvania may replace the discriminatory arrangement with a neutral rule applicable to every party.
+* **Stone's Legal Position:** Pennsylvania must justify the unequal treatment itself. Interests such as avoiding ballot confusion, factionalism, instability, or candidate manipulation may support uniform fusion regulation consistent with Timmons, but they do not justify allowing major-party fusion while prohibiting minor-party fusion unless the State establishes a materially different danger arising from minor-party cross-nomination.
+* **Stone's Proposed Holding:** A State may regulate fusion nominations through neutral rules consistent with Timmons, but when it permits fusion it must justify any facial party-status distinction governing access to that mechanism.
+* **Essential Reasoning and Record Application:** The record supplies no constitutionally sufficient reason why the asserted election-administration harms require restriction of minor parties but not major parties. The asymmetry therefore fails even though Pennsylvania could adopt evenhanded fusion regulation.
+* **Boundary or Reserved Question:** Pennsylvania may replace the discriminatory arrangement with a neutral rule applicable to every party and consistent with Timmons.
 
 # SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
 

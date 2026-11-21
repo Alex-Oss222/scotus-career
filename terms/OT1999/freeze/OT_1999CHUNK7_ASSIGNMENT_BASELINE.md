@@ -2232,7 +2232,7 @@ Stevens, the senior Associate in the Count II minority, assigns to himself the o
 
 [Source Record](../records/reform-party-v-allegheny-county_merits_2000-04-10.md)
 
-Source SHA-256: `2a8c20a3004e68ae4e91904aa87601e889f84262b8abd926abba6c7548693a25`
+Source SHA-256: `5774a15ca881e84ae961ce89436c3b71ce06349af8228962360ccec315af18f8`
 
 **Case and dockets:** Reform Party of Allegheny County v. Allegheny County Department of Elections; review of Third Circuit Nos. 96-3677 and 97-3359.
 **Event and date:** Merits decision; 2000-04-10; October Term 1999.

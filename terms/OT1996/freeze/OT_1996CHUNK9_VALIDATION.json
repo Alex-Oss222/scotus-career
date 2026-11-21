@@ -158,9 +158,9 @@
   "outputs": {
     "terms/OT1996/render-inputs/OT_1996CHUNK9.md": "d2c7f145c11b669c2d2cc18116f50d211de2c4700dc3398061d796c5b83f7727",
     "terms/OT1996/workspace/manifest.md": "bf4d8c02fe0f8fee36c0643d59f85a5016467ca975a292118fdb999b738521d9",
-    "terms/OT1996/workspace/ledger.md": "81e6bd72ae133e3012624a0dc5e02c88e61cbf35a576529777d602f82226beb1",
-    "terms/OT1996/workspace/continuity.md": "47d48e6aa4ac1947886bc952612cc498263652a7e0be67af2defff5eca9d2c4e",
-    "terms/OT1996/workspace/neutral-projection.md": "a9e72b832852ff81f07fc090bda324ee1da2ba7e95eb694f6f9512f1a9992471",
+    "terms/OT1996/workspace/ledger.md": "60c39af672929e52a1cc70367f7f822f17de87999b2ab35307ac91b39f7ad7f5",
+    "terms/OT1996/workspace/continuity.md": "78e397945fff058207c2cfa72f218729bf0f46365ed14bdb95a77dd50e6cfe66",
+    "terms/OT1996/workspace/neutral-projection.md": "de58138be887e3d571edf4c61871a8d09fed44ece637dee38e19b6c051f33cd8",
     "terms/OT1996/freeze/OT_1996CHUNK9_ASSEMBLY_QA_RECEIPT.json": "47778f90752a1818b783e2c9ec92d9e3b1529b053cf1e47f0bbf157cb186415a",
     "terms/OT1996/freeze/OT_1996CHUNK9_DURABLE_WRITE_ORDER.json": "bf8eababf4ee680e015ab8900e06fc8955bcbad93d9d24d2ab5cdd1bc6286197"
   }

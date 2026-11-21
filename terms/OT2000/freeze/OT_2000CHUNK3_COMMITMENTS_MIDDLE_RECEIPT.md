@@ -18,10 +18,10 @@ All hashes are SHA-256 of file bytes. The seven frozen neutral/reading-slice has
 | foundation/ENGINE.md | 3ea9b517025f55ebcfa6d1857f6ab6e7b84c90529c60f5ca2ba889e31b77afbf |
 | terms/OT2000/freeze/OT_2000CHUNK3_NEUTRAL_MIDDLE.md | cf76c1c986114aee71fb110d4207b638ad47e1a254070e373fabf0deff3eade0 |
 | terms/OT2000/freeze/OT_2000CHUNK3_MIDDLE_VALIDATION.md | 6e5c585b158e3c47fce99192b6d2b96a7dc854ca8d51db1564abeaed1cbe65db |
-| terms/OT2000/freeze/OT_2000CHUNK3_MIDDLE_SELECTION.md | 805337dff0efd1a42096aed0c7e1f4194eb6b9b79ff1a71a1df412e1326b4aff |
+| terms/OT2000/freeze/OT_2000CHUNK3_MIDDLE_SELECTION.md | 75f58eec3630b2f9015562459952379abbe1bafdbc487fa04b5c4e1b6bd2edbc |
 | terms/OT2000/entering-law/OT_2000CHUNK3_MIDDLE_AGENCY.md | 3fd2e0b5f6e8b37f8e98c8178a390f65a9352af35b6014488f885cb6012f2257 |
 | terms/OT2000/entering-law/OT_2000CHUNK3_MIDDLE_CURRENT.md | a723b9c987b01ca28002534e505c89efbaec8b048cd198a7c83cca8c9c11e8b3 |
-| terms/OT2000/entering-law/OT_2000CHUNK3_MIDDLE_FEDERAL_ELECTION.md | 6734428aa5fd6eafbfa8a49bd0a5934c937e792993b59488662991929c2049d8 |
+| terms/OT2000/entering-law/OT_2000CHUNK3_MIDDLE_FEDERAL_ELECTION.md | 58b23f5aa21519e77f311c85c1208295b1a204b16231b804f47da40762a8d418 |
 | terms/OT2000/entering-law/OT_2000CHUNK3_MIDDLE_PUBLIC_POSITIONS.md | f8673588b9e9a01fc5eb8a77fc7991f4e0622a76dabc9e900445d6f1704ad4c5 |
 | terms/OT2000/entering-law/OT_2000CHUNK3_MIDDLE_RELIGION_SPEECH.md | cc5f10d61496e8ead2f411e4545a25df95bc384997d5f96ea78df7d88d1cf017 |
 | terms/OT2000/entering-law/OT_2000CHUNK3_MIDDLE_TEXT.md | e2868e7a9da372e5deacc1e15885e8fff1b4e00d588315793dbf4d715a1d71b1 |
@@ -29,7 +29,7 @@ All hashes are SHA-256 of file bytes. The seven frozen neutral/reading-slice has
 ## Frozen output
 
 - Output: `terms/OT2000/freeze/OT_2000CHUNK3_COMMITMENTS_MIDDLE.md`
-- SHA-256: `84f3f0e1ac18db12449848bccc38a295f5e94fe083a7f59f13094fc3efe7c417`
+- SHA-256: `1297caa98e5e9f613cf84f5d1fdb2cbbbbfbe3b46c5fcea907d01914c230a6b0`
 - Output written by exclusive creation from the completed draft; no prior frozen artifact was replaced.
 - The eight named Associates each have one explicit row in each of the five matters: forty case-specific rows. Whitman's four independent component sections and eight-by-four commitment table are present.
 - Manual substantive coverage review completed for threshold, disposition, legal ground, level of generality, authorities, alternative paths, remedy, and material join limits. This is not historical reconciliation or a final adjudication.

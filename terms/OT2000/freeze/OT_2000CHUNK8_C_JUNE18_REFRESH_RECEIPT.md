@@ -23,7 +23,7 @@ Lorillard/Altadis still awaits actual United Foods law. Zadvydas/Ma still awaits
 - Unchanged `terms/OT2000/freeze/OT_2000CHUNK8_NEUTRAL_C.md`: `3ebdc055d26e8c0852ba5287ff1b5e4eb6552479947f2ab2a80c8c65a50c3686`.
 - Unchanged `terms/OT2000/freeze/OT_2000CHUNK8_C_PREPARATION_RECEIPT.md`: `20779924ddd9b2672ced82009ac40a06925960afe6e55e5e4ba3a1fa91b8ff50`.
 - Unchanged `terms/OT2000/freeze/OT_2000CHUNK8_NEUTRAL_C_VALIDATED.md`: `87966837d458fffaaaebf62f4ad052933330cfcc53f05748494f3d834f77c5c1`.
-- Unchanged `terms/OT2000/freeze/OT_2000CHUNK8_C_VALIDATION_RECEIPT.md`: `2f863c67436cb73725c3f34e7d99d38e47ef073c3d10833c264bfeecd343a815`.
+- Unchanged `terms/OT2000/freeze/OT_2000CHUNK8_C_VALIDATION_RECEIPT.md`: `38411fb64958a2777c8a1ac6afc254597b45d1a58067e3648bcd6bf649a9e2bb`.
 - Public-law input SHA-256: `4f5f290c2387cb930be8bea25c69f77f3e982c1cc712cd86cc53db138808666b`.
 - Exact Duncan byte-slice SHA-256: `b99c034d8d119251c72f474c96ed76dc7effb4f114ef4e870c7fa413a31cfeb5`.
 - Tyler refresh SHA-256: `d722dd6db2f551ae0f18f0bc924bd5d79e3a7d646d43379fccae7dfe42c7e192`.

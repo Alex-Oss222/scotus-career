@@ -6904,7 +6904,7 @@ For the separate questions in Timmons v. Twin Cities Area New Party, 1997-04-28,
 
 **Holding:** A challenge to the old prohibition remains live where the officials seek reversal of its invalidation and an enacted provision expressly revives that prohibition upon reversal. Chapter 419 supplies that concrete consequence; neither its replacement scheme nor completion of the 1994 election makes this dispute advisory.
 
-**Proposition-level authority:** Thomas's Parts I and III, joined by all seven other Associates; eight direct joins. Stone-Zsela agrees to reach the merits without an additional statutory rationale.
+**Proposition-level authority:** Stone-Zsela's Parts I and III, joined by all eight Associates; nine direct joins.
 
 **Limits and questions not reached:** No stay, mandate recall or compliance with the replacement scheme is assumed; its independent constitutionality and the governing law of intervening filings remain open.
 

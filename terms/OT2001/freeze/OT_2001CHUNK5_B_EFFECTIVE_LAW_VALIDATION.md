@@ -35,6 +35,6 @@ The pending-May-13 language in the older packets and preflight is satisfied by t
 Verified four new event sections, each effective May 13; four exact Law After Decision matches and four exact Separate Writings matches against the current neutral projection; one exact copied Lapides Holdings section and five exact copied Verizon rule/authority blocks. Checked this receipt and supplement for prohibited external-storage and machine links. Writes were confined to this term, and no repository-history operation was used.
 
 - `entering-law/OT_2001CHUNK5_B_REFRESH_PUBLIC_LAW.md`: SHA-256 `199601d70b9cd6e3a67c891dd56ab4f50af4b5c767e35c094b0059fd601aadf2`.
-- `freeze/OT_2001CHUNK5_B_CURRENT_NEUTRAL.md`: SHA-256 `9bb0d406130c45ed374ebb78817eeb49895be904813b3b5b248dc47cd2d2bba7`.
+- `freeze/OT_2001CHUNK5_B_CURRENT_NEUTRAL.md`: SHA-256 `11b94ab05314222b2572bd2bfbbea4b2e7a5b39fff69965f3ccef5b601cd593c`.
 - `freeze/OT_2001CHUNK5_B_CLEAN_NEUTRAL_BASE.md`: SHA-256 `7b0855c4ea6dcfe3113dbef7c2ab654c601226b55cbaf624aae840f3f5517014`.
 - `freeze/OT_2001CHUNK5_B_LAW_REFRESH_SUPPLEMENT.md`: SHA-256 `950e199b5804504287e7720500a378f9df90f8caef8dcad93ddd98e1f0681604`.

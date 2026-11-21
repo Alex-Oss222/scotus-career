@@ -3,7 +3,7 @@
   "date": "2003-06-02",
   "status": "Draft checks complete; publication checks pending",
   "file": "Krislov-v-Rednour_merits_2003-06-02.md",
-  "sha256": "d86eae35d902e57320f9e9883974ad501ccddd924d0ce9f3784734a141f7de35",
+  "sha256": "8a9ceb75c8e01c2f6be0caba2d00dc163cf00dc5a17ac9d8a0afbd34c768e6cb",
   "public_blocks_exact_order": [
     "Event",
     "Participation",
@@ -21,24 +21,24 @@
   "internal_public_blocks_identical": true,
   "controlling_explanation_word_counts": [
     117,
-    231,
+    233,
     222,
     79
   ],
   "ordinary_ceiling": 350,
   "stone_source_exact_copy": true,
   "source_hashes": {
-    "freeze/OT_2002CHUNK11_139_NEUTRAL.md": "d05378b6ab2dac5589ac94a166cab7b68fafe577a650070bf08267d8fc16bdb4",
+    "freeze/OT_2002CHUNK11_139_NEUTRAL.md": "6a8f2f95adc33a3ce5ba87dde52eb295dcd956be4bb72bd987a30a62cdb6ef9e",
     "freeze/OT_2002CHUNK11_139_SCOPE_NEUTRAL.md": "f6cce59cd14a7eb5e78852df3694cde1d89e50ea095b762eacb4bffc99af4d85",
-    "freeze/OT_2002CHUNK11_139_COMMITMENTS.md": "fe0fa4adac6ed8eaf3c027daa6bb7067176ff1db59646fadaffc01c564d0193d",
-    "freeze/OT_2002CHUNK11_139_SCOPE_COMMITMENTS.md": "43d4606f222e38581443ba5620503fa227468ba594306b6cb233dbbaa9bf4c1d",
-    "freeze/OT_2002CHUNK11_139_RECONCILED.md": "40d202467d32fd42a4052b3d5bca90a3eca6bdcacff2fd216b70afc697e70e41",
+    "freeze/OT_2002CHUNK11_139_COMMITMENTS.md": "90bcdbcf10c7a7476549244cb7c4e61a6f624a721600af74809e0e7aa726e8a7",
+    "freeze/OT_2002CHUNK11_139_SCOPE_COMMITMENTS.md": "bbe334af75f4a744a483af569032d14378df07be38c7c9447014e38dfccff0d3",
+    "freeze/OT_2002CHUNK11_139_RECONCILED.md": "6877c3074b3cf3a5cda02ea67825d7fb9e94b0f4eb73ee8e84ad7ff353713ab4",
     "freeze/OT_2002CHUNK11_139_SCRUTINY_CLARIFICATION.md": "ad32b35c3877ffb66453b702540b68ddd0a45b337c9c651b0aae7660782ec8a1",
     "freeze/OT_2002CHUNK11_139_STONE.md": "21fb6ce4b144445e4ed304ce1fc034cd3c4ecb4a3bf41430d4e0221663ed7754",
-    "entering-law/OT_2002CHUNK11_139_REFRESHED.md": "5b4557f3ae685dc2d85b9f46be0a931f682e072024baa101bc5fa91c8e7a275f",
+    "entering-law/OT_2002CHUNK11_139_REFRESHED.md": "99a2f5d141446fb361f516483eb6c6e264cac5a9acd813480d3732d29af2473f",
     "entering-law/OT_2002CHUNK11_139_SOURCE_SCOPE_SUPPLEMENT.md": "5ae49f0d388c96969a77dce2fe357fad1f8d89ad7e6bacf1fd3bfd8af5765027",
     "entering-law/OT_2002CHUNK11_139_LOWER_OPINION.txt": "9e115ef710469c95f52523e0bed9f2c0f3ce8e566815b98eb78e5128b2fa0be7",
-    "freeze/OT_2002CHUNK11_139_OPINION_TABLES.json": "29114a4eb69a4f34243499664f18f31b6b0ea65c070bbce4bca256a6629d74b2"
+    "freeze/OT_2002CHUNK11_139_OPINION_TABLES.json": "fa4363e0b1b887fd25400a6a207b5b89a3925a38907b286fa53fd208e3e4f1d3"
   },
   "source_links_checked_at_canonical_location": true,
   "judgment_votes": {

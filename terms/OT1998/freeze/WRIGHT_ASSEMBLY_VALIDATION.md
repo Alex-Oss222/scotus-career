@@ -22,5 +22,5 @@ The frozen handoffs match the identities recorded below, and the term checker pa
 |---|---|
 | WRIGHT_NEUTRAL.md | `2ba45c64873c791821b95fd6304ed412b4d04f900d9ee9890a56c07c5f6f681d` |
 | WRIGHT_NEUTRAL_SUPPLEMENT.md | `c7460b0e9233225fe37f6bf622c4f7b9aacfafab35c3ffcbd317bf17722839c7` |
-| WRIGHT_COMMITMENTS.md | `baf441ba9c3d17fa398a9d2fdff4918ccba6d4d4ffdf17fd4294efa42f48b3ec` |
-| WRIGHT_RECONCILED.md | `979f118db8fcaecad5b649e84c3d0a07454231c275f3c83826f3acb07f6fa501` |
+| WRIGHT_COMMITMENTS.md | `391596b2fdac266ea8ee455fd0e2e6a697cadc35104e938fd48c144df28f3d16` |
+| WRIGHT_RECONCILED.md | `1f12c25c90fed411a773a418351731ca66a3667267cf0a958da700061e59b1bd` |

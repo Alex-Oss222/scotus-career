@@ -8,7 +8,7 @@
       "source": "terms/OT1997/entering-law/OT_1997CHUNK13_ELECTIONS_SEP21_BASE.md",
       "frozen": "terms/OT1997/freeze/OT_1997CHUNK13_ELECTIONS_SEP21_SOURCE_OT_1997CHUNK13_ELECTIONS_SEP21_BASE.md",
       "bytes": 1232368,
-      "sha256": "f5b071c75799205011c4af3725d92446846a39923a82341f7f509ffff47ae013"
+      "sha256": "d2a8a478c6d44dfe0164416ef994dec1371e5f45eec448ec8302969acd708e96"
     },
     {
       "source": "terms/OT1997/entering-law/OT_1997CHUNK13_ELECTIONS_SEP21_EXTRA.md",
@@ -110,17 +110,17 @@
       "source": "terms/OT1997/runtime/chunk13-neutral/153.md",
       "frozen": "terms/OT1997/freeze/OT_1997CHUNK13_ELECTIONS_SEP21_SOURCE_NEUTRAL_153.md",
       "bytes": 8064,
-      "sha256": "de6c04d67f6b2dd844cd66231eaf30c3a8b6e9a20058789a1979fc5a23d4b50b"
+      "sha256": "43fe449376625e7e91b53172b8d7d0e01b2806d18f9fb32f54131218efb4c36f"
     },
     {
       "artifact": "terms/OT1997/freeze/OT_1997CHUNK13_NEUTRAL_ELECTIONS_SEP21.md",
       "bytes": 45183,
-      "sha256": "39e9b9591b028e57fab6e8ef378dca03cab0b5fa821a328639d0bb6a291873a9"
+      "sha256": "67921c0dabda519b938a452d15af1ba5d2e136a56025ca1aab30c8b6866999d0"
     },
     {
       "artifact": "terms/OT1997/freeze/OT_1997CHUNK13_COMMITMENTS_ELECTIONS_SEP21.md",
       "bytes": 31297,
-      "sha256": "85d0e33f5e3f6b4deab9c958a8be125ee42cc67eaff07565b9871edb9ec02b51"
+      "sha256": "b9962509ff61fb148057c40002a31f43818c836ced106504684da33eab76a62d"
     },
     {
       "artifact": "terms/OT1997/freeze/OT_1997CHUNK13_ELECTIONS_PREPARATION_SEP21.md",

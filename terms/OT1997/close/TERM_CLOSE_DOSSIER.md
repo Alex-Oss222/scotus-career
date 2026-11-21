@@ -37,8 +37,8 @@ Publication preserves each audited candidate apart from the three common header 
 | [case-list.md](../case-list.md) | `605d4b01437126f628a5db5bf800c362a00877d1f12e98306c84ca1c940cf381` |
 | [workspace/manifest.md](../workspace/manifest.md) | `f1295ba248b698a1216ceb0ea15e4478f7ec4bb027271ab1696aaaf1e80d6978` |
 | [workspace/ledger.md](../workspace/ledger.md) | `020ce8f0db450456787316462e8c115bfeaa3cf95afe4753c7eb43ef345e584d` |
-| [workspace/continuity.md](../workspace/continuity.md) | `4c42f3b2ff2c7040832a96172df6a36239b69572311713b786c77a12e5a547b5` |
-| [workspace/neutral-projection.md](../workspace/neutral-projection.md) | `cf0b54898b165d73714e65075b8faebe00b9ff96fdfab300ef083ee796db89a7` |
+| [workspace/continuity.md](../workspace/continuity.md) | `91d4188a323469a4f790b9a04f92abcd6fc6bd71ba6942e8a276f7a69752f68e` |
+| [workspace/neutral-projection.md](../workspace/neutral-projection.md) | `6a9526eb357beeec463cf72056d41a03c2b6b3fe12c14204e06fba2fbf73142b` |
 
 The final manifest marks all 160 scheduled rows completed. The final continuity note preserves the public positions and source limits of all thirteen chunks and the effective statutory admission. Its date cursor is not an exhaustive external-event search. Those inputs remain unchanged during publication. The pending docket below is copied from the audited Standing State candidate; completion of a financial motion, interim application or remand supplies no additional terminal Supreme Court action.
 
@@ -226,13 +226,13 @@ Each Record linked below is incorporated in full, including its exact judgment, 
 | 1998-09-21 | [Engineering Contractors Association of South Florida v. Metropolitan Dade County; Nos. 97-1115 and 97-1160; 122 F.3d 895.](../records/engineering_contractors_association_v_metropolitan_dade_county_merits_1998-09-21.md) | Affirm BBE and HBE invalidation/injunctions, 8–1 each, and WBE invalidation/injunction, 5–4. | `6350494a6a6643411cb5336656710ca618e3231d5f9c547fc993389eee493ca0` |
 | 1998-09-21 | [Equal Employment Opportunity Commission v. Johnson & Higgins, Inc.; No. 96-1743; Second Circuit No. 95-6216.](../records/equal_employment_opportunity_commission_v_johnson_and_higgins_merits_1998-09-21.md) | Affirm ADEA liability and bounded employment injunction, 6–3; monetary relief remains reserved. | `75066aab5853a6ce59a94429640c4fe9e88624c6afe86742fbe370e90d9b7c86` |
 | 1998-09-21 | [Jordahl v. Democratic Party of Virginia; No. 97-859.](../records/jordahl_v_democratic_party_of_virginia_jurisdiction_1998-09-21.md) | Affirm jurisdictional dismissals: Count One 9–0; federal damages and related state counts 7–2; state claims without prejudice. | `34b8a4bfb147726405776225ad418233dc1ecc53bf034c77e622c59254c86b7f` |
-| 1998-09-21 | [Libertarian Party of Florida v. Smith; No. 96-1867.](../records/libertarian_party_of_florida_v_smith_merits_1998-09-21.md) | Affirm the bounded federal constitutional judgment sustaining the party-expense allocation, 8–1; no new monetary or allocation remedy. | `ed6092bb081a3dfe53c0f0361dc421227f292d9185007875200b9ea60055f6da` |
-| 1998-09-21 | [Libertarian Party of Illinois v. Rednour; No. 97-25.](../records/libertarian_party_of_illinois_v_rednour_merits_1998-09-21.md) | Affirm access judgment 8–1; reject distinct Qualifications Clause challenge 9–0, with five exclusivity and eight genuine-procedure rationale votes. | `318d027b53c985432fa55b68cba788a33844505fe53a1c26b7c39671f1fbdf29` |
+| 1998-09-21 | [Libertarian Party of Florida v. Smith; No. 96-1867.](../records/libertarian_party_of_florida_v_smith_merits_1998-09-21.md) | Affirm the bounded federal constitutional judgment sustaining the party-expense allocation, 8–1; no new monetary or allocation remedy. | `481c949dde40a2424d0378f5497727ffe34d30f17b5e563f99281d015810390d` |
+| 1998-09-21 | [Libertarian Party of Illinois v. Rednour; No. 97-25.](../records/libertarian_party_of_illinois_v_rednour_merits_1998-09-21.md) | Affirm access judgment 8–1; reject distinct Qualifications Clause challenge 9–0, with five exclusivity and eight genuine-procedure rationale votes. | `0218023c50a06f08a476af4650691b112eb5f219df998974bb25d60ec2b8f218` |
 | 1998-09-28 | [Ino Ino, Inc. v. City of Bellevue; No. 97-858; Washington Nos. 62941-2, 62939-1 and 62940-4.](../records/ino_ino_inc_v_city_of_bellevue_merits_1998-09-28.md) | Operational and narrowed-overbreadth rulings affirmed, 9–0; protected-expression application of the outdoor-visibility prohibition reversed, 8–1; both fee dispositions vacated to the stated extent and remanded, 9–0; independent state protection untouched. | `897df1da77a5bd39b3f1793c9d42069056101449954591b86e6efee58b26ddd9` |
 | 1998-09-28 | [Lucas v. Johnson; Fifth Circuit No. 96-10389; 132 F.3d 1069.](../records/lucas_v_johnson_merits_1998-09-28.md) | Affirm specified live-claim denials; claim 9 affirmed 5–4; claim 15 vacated/remanded 5–4; death-only requests moot 9–0 with partial vacatur 8–1; no writ or hearing ordered. | `08bfec13407ca0f477791008e46c7e07e67440f2e79449c4beb7bb5d451b903e` |
 | 1998-09-28 | [Newton County Wildlife Association v. Rogers; No. 97-774; Eighth Circuit Nos. 96-1994 and 96-3463.](../records/newton_county_wildlife_association_v_rogers_merits_1998-09-28.md) | Completed-plan request and superseded preliminary MBTA interval disposed of as moot with limited vacatur, 9–0; actual MBTA-claim dismissal vacated and remanded, 5–4. | `e6a7a49d68b8a610e2f5d5e99dc30df00dbc6ce7fe7654033e2facd7be3f21ae` |
-| 1998-09-28 | [Securities and Exchange Commission v. First Jersey Securities, Inc.; No. 96-1862.](../records/securities_and_exchange_commission_v_first_jersey_securities_merits_1998-09-28.md) | Affirm the Second Circuit judgment, 9–0; preserve its reversal of the investigative Special Agent appointment. | `b08f744e1b14edebb535c243f71ae282c67f549802cd7708a81669c750cb451e` |
-| 1998-09-28 | [United States ex rel. McKenzie v. BellSouth Telecommunications, Inc.; No. 97-850.](../records/united_states_ex_rel_mckenzie_v_bellsouth_telecommunications_merits_1998-09-28.md) | Vacate the qui tam dismissal, affirm the separate retaliation reversal, and remand, 9–0. | `ca09fce3ff4203238289ae5627a5fa504732ce12ccba6a2277aec45366927b81` |
+| 1998-09-28 | [Securities and Exchange Commission v. First Jersey Securities, Inc.; No. 96-1862.](../records/securities_and_exchange_commission_v_first_jersey_securities_merits_1998-09-28.md) | Affirm the Second Circuit judgment, 9–0; preserve its reversal of the investigative Special Agent appointment. | `6ab55528f338d3cb7f3822ffe63f95388297aec79fd51b2520ba5d64bc166e34` |
+| 1998-09-28 | [United States ex rel. McKenzie v. BellSouth Telecommunications, Inc.; No. 97-850.](../records/united_states_ex_rel_mckenzie_v_bellsouth_telecommunications_merits_1998-09-28.md) | Vacate the qui tam dismissal, affirm the separate retaliation reversal, and remand, 9–0. | `e01f7b883bb33a8a627f67acced77863138c1a966267254b1140e6b2a80e6da1` |
 
 ## Admitted sources in effective order
 
@@ -264,7 +264,7 @@ The audit reports a successful term checker with 16 explained heuristic warnings
 | 10 | [OT_1997CHUNK10.md](../output/OT_1997CHUNK10.md) | `fba6238b143c0e7b2330de1f27ba950977b561b76569e00fd9e705020df3582a` |
 | 11 | [OT_1997CHUNK11.md](../output/OT_1997CHUNK11.md) | `8c50d404397b3327dd383615c4c0547c14fe22d95678f7724d9ebb77b6605e07` |
 | 12 | [OT_1997CHUNK12.md](../output/OT_1997CHUNK12.md) | `9760748611a3caefc96fc417c5e746ab371e18225a25d6f1bc5ebd92790328b1` |
-| 13 | [OT_1997CHUNK13.md](../output/OT_1997CHUNK13.md) | `e252263ed0e831476bf6d823cd01866777846a12ef4931768949851f13736a33` |
+| 13 | [OT_1997CHUNK13.md](../output/OT_1997CHUNK13.md) | `bace362e759fc50e947c9e00e69d1b5f0c65f15527c1a525dbb6a2ccc5a98383` |
 
 ## Preserved preparation notes
 
@@ -432,7 +432,7 @@ Published-file identities:
 | [state/STANDARDS_AND_TESTS.md](../../../state/STANDARDS_AND_TESTS.md) | `baeb6c3d6b9c3977218fc62568f131124c45b4e58c2e36a2d6f05d634974dbb3` |
 | [state/STANDING_STATE.md](../../../state/STANDING_STATE.md) | `f2ec2f1fb8545492e3d166e7ec02795824e7ac644bc8ebc43148b4834e1907cd` |
 | [terms/OT1997/INDEX.md](../INDEX.md) | `ef66f7ee1944d4f8e091ed8e842438dcc01783b62b23c685074535fcdff95113` |
-| [terms/OT1997/close/SEPARATE_WRITINGS.md](SEPARATE_WRITINGS.md) | `de44c69334f4b88c3a30f810a3b83556e3c0b5c7d364dbb2060b226f07e2bd28` |
+| [terms/OT1997/close/SEPARATE_WRITINGS.md](SEPARATE_WRITINGS.md) | `54f9bb151d01531184dbc4fd4a1819b9f61e3e17d6c591e27fef9cbfe1450976` |
 | [terms/OT1997/close/DEPARTURES.md](DEPARTURES.md) | `1a5a3b5965393c96eafe7ad586b831c458660d7c9903adca4fd6ef7a072ddf65` |
 | [terms/OT1997/close/CONSEQUENCES.md](CONSEQUENCES.md) | `99a9bb54552c8c6def29ba4838c143c223707e68b2f31b25870e6f671be33c4c` |
 

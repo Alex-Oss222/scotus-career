@@ -14381,7 +14381,7 @@ Daubert supplies flexible foundation and fit and now reaches all knowledge cover
 
 **Holding:** A party that initially challenged the presidential-vote condition and asserted its right to choose its organizational structure does not lose that legal organizational-autonomy objection merely by sharpening it later. That conclusion neither proves an exclusive local philosophy nor permits new summary-judgment facts to be assumed; the national-organizing affidavit and the factual basis of the as-applied theory retain their ordinary evidentiary significance.
 
-**Proposition-level authority:** Stone-Zsela's concurrence and Stevens's dissent joined by Kennedy, Souter and Ginsburg directly agree on this bounded proposition (five Justices), across the judgment division.
+**Proposition-level authority:** Stevens's opinion for the Court, joined by Stone-Zsela, Kennedy, Souter and Ginsburg; five Justices. O'Connor, Scalia, Thomas and Breyer would affirm on preservation.
 
 For the other questions and complete operative scope in Maine Green Party v. Maine, 1999-05-20, First Circuit No. 98-1309, see Election Law.
 
@@ -16725,7 +16725,7 @@ For the separate questions in Timmons v. Twin Cities Area New Party, 1997-04-28,
 
 **Holding:** A challenge to the old prohibition remains live where the officials seek reversal of its invalidation and an enacted provision expressly revives that prohibition upon reversal. Chapter 419 supplies that concrete consequence; neither its replacement scheme nor completion of the 1994 election makes this dispute advisory.
 
-**Proposition-level authority:** Thomas's Parts I and III, joined by all seven other Associates; eight direct joins. Stone-Zsela agrees to reach the merits without an additional statutory rationale.
+**Proposition-level authority:** Stone-Zsela's Parts I and III, joined by all eight Associates; nine direct joins.
 
 **Limits and questions not reached:** No stay, mandate recall or compliance with the replacement scheme is assumed; its independent constitutionality and the governing law of intervening filings remain open.
 
@@ -17965,13 +17965,13 @@ For the statutory floor, equality rules and prospective remedies in Romeu v. Coh
 
 **Decided:** December 10, 2001.
 
-For Schrader v. Blackwell, December 10, 2001, concerning the recognition-linked official designation, see Election Law — Official party designations and recognition requirements.
+For Schrader v. Blackwell, December 10, 2001, concerning the truthful party designation, see Election Law — Official party designations and recognition requirements.
 
 ##### Whether the completed election and restored party recognition end the controversy
 
 **Holding:** Completion of the election and the party's later recognition do not end this challenge to a recognition requirement capable of recurring against the continuing party plaintiff in elections too short for full review. The Court reaches the ballot-designation dispute under the capable-of-repetition exception.
 
-**Proposition-level authority:** Thomas's opinion on the threshold question, joined by all eight other Justices.
+**Proposition-level authority:** Stevens's opinion on the threshold question, joined by all eight other Justices.
 
 **Material application:** The continuing party plaintiff is subject to periodic recognition requirements and has lost and regained recognition; recurrence can evade complete review within an election cycle.
 

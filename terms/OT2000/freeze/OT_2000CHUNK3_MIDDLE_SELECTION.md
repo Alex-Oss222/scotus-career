@@ -44,7 +44,7 @@ Generated with tools/build_entering_law.py and then tightened by verbatim headin
 - Standards and Tests: Write-in voting within the complete ballot-access system
 - Standing State: 1. Current Court
 
-Output SHA-256: `6734428aa5fd6eafbfa8a49bd0a5934c937e792993b59488662991929c2049d8`.
+Output SHA-256: `58b23f5aa21519e77f311c85c1208295b1a204b16231b804f47da40762a8d418`.
 
 ## AGENCY
 
@@ -87,7 +87,7 @@ Five neutral case blocks match their refreshed source verbatim. The bounded publ
 - terms/OT2000/freeze/OT_2000CHUNK3_NEUTRAL_MIDDLE.md: SHA-256 cf76c1c986114aee71fb110d4207b638ad47e1a254070e373fabf0deff3eade0
 - terms/OT2000/entering-law/OT_2000CHUNK3_MIDDLE_AGENCY.md: SHA-256 3fd2e0b5f6e8b37f8e98c8178a390f65a9352af35b6014488f885cb6012f2257
 - terms/OT2000/entering-law/OT_2000CHUNK3_MIDDLE_CURRENT.md: SHA-256 a723b9c987b01ca28002534e505c89efbaec8b048cd198a7c83cca8c9c11e8b3
-- terms/OT2000/entering-law/OT_2000CHUNK3_MIDDLE_FEDERAL_ELECTION.md: SHA-256 6734428aa5fd6eafbfa8a49bd0a5934c937e792993b59488662991929c2049d8
+- terms/OT2000/entering-law/OT_2000CHUNK3_MIDDLE_FEDERAL_ELECTION.md: SHA-256 58b23f5aa21519e77f311c85c1208295b1a204b16231b804f47da40762a8d418
 - terms/OT2000/entering-law/OT_2000CHUNK3_MIDDLE_PUBLIC_POSITIONS.md: SHA-256 f8673588b9e9a01fc5eb8a77fc7991f4e0622a76dabc9e900445d6f1704ad4c5
 - terms/OT2000/entering-law/OT_2000CHUNK3_MIDDLE_RELIGION_SPEECH.md: SHA-256 cc5f10d61496e8ead2f411e4545a25df95bc384997d5f96ea78df7d88d1cf017
 - terms/OT2000/entering-law/OT_2000CHUNK3_MIDDLE_TEXT.md: SHA-256 e2868e7a9da372e5deacc1e15885e8fff1b4e00d588315793dbf4d715a1d71b1

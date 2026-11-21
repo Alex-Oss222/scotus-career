@@ -44,7 +44,7 @@ Fingerprints identify the exact saved inputs, not a certification of repository 
 | `sources/chunk2_comparator/02-809.ZO.html.txt` | `d5911094a7ca247571f21d8400dacc7afde4475b5c88e7a9f2c76c73539a73e4` |
 | `sources/chunk2_comparator/02-809.ZS.html.txt` | `0d0bc803f5338d78251203ab7f07e28349ab249fa5f58b20456e144756c3fa2b` |
 | `entering-law/OT_2003CHUNK2_PRINGLE_HOUGHTON.md` | `0ec3e39c0006153a50429dbedf3852b667468008c6702c0f778aa35844fc08c3` |
-| `entering-law/OT_2003CHUNK2_B.md` | `e7000f0e0803ebf1830d13673c382e03aa618b14a8903f7ec89daa20af11a195` |
+| `entering-law/OT_2003CHUNK2_B.md` | `e1fe5a43e59d9ae9e9794e19dbe4a686b405ca96edee817bc97e0ed03a1399bf` |
 | `freeze/OT_2003CHUNK2_PRINGLE_PUBLIC_REFRESH_RECEIPT.md` | `595642a1a5ba26e7943d93af39c6a56ff569c1f95ff76e62dd00a0ee28ade28c` |
 | `freeze/OT_2003CHUNK2_GREENVILLE_PUBLIC_COMPLETENESS.md` | `e2d7a9b30f983153c7b0485bb3e2fdb25183821eda9954085224eebb678cd813` |
 | `freeze/OT_2003CHUNK2_HO_PUBLIC.md` | `8dfae66be010ebe4bf024bd8e9d6292851d1d43ec94a9382fc0364ee4f1e7295` |

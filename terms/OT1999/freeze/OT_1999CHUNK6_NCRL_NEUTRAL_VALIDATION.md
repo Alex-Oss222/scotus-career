@@ -11,7 +11,7 @@ The separate-writing source limitation identified during validation was resolved
 ## Integrity receipts
 
 - `terms/OT1999/runtime/OT_1999CHUNK6_NEUTRAL.md` — SHA-256 `66c394bb874b5182ab1c6b070518173761ed75c9c5e5fae630f83de92f3f19f1`
-- `terms/OT1999/freeze/OT_1999CHUNK6_OPENING_NEUTRAL_PROJECTION.md` — SHA-256 `d830804d94d8fd0211fc7ab07e447a8340d1a9b7cc1d3b0289fde7a4cf2297f8`
+- `terms/OT1999/freeze/OT_1999CHUNK6_OPENING_NEUTRAL_PROJECTION.md` — SHA-256 `b7899db7d9d9f891fa43befd654c9054343a184eea7119aecf8de4f4333f9526`
 - `terms/OT1999/entering-law/OT_1999CHUNK6_NCRL.md` — SHA-256 `4bb541bb0b3c1ba2dca0ddab2620c6af42154cae79d49cd1b09b3289e656c636`
 - `terms/OT1999/preparation/chunk6-ncrl-neutral-supplement.md` — SHA-256 `e6b455d629f9642e268e23cee7635bb9eea6d5e5da1121b05ba729cfdc352c2c`
 - `terms/OT1999/sources/chunk6-neutral/ncrl-lower.txt` — SHA-256 `9274a2cdc5738eb52d8366011a0a2ede3ee05c57e96aa0fc85fa04be2be31e08`

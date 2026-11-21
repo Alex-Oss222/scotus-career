@@ -8392,18 +8392,38 @@ Ordinarily determine whether a separately supported danger or medical treatment 
 
 **Governing question:** Whether a ban on write-in voting violates electoral-choice or independent expressive rights.
 
-**Current rule:** Under the existing Anderson inquiry, the court assesses the character and magnitude of the actual injury against the State's precise interests and the extent to which those interests require the burden. Severe burdens require narrow tailoring to a compelling interest; reasonable, nondiscriminatory burdens ordinarily may be justified by important regulatory interests. When the complete access system imposes only reasonable burdens, a write-in prohibition is presumptively valid and may be sustained by proportionate interests, including primary finality and prevention of evasive candidacies or party raiding. The ballot need not provide an official count and publication of votes for fictional figures or arbitrary protest messages as an independent expressive entitlement.
+**Current rule:** Under the existing Anderson inquiry, the court assesses the character and magnitude of the actual injury against the State's precise interests and the extent to which those interests require the burden. Severe burdens require narrow tailoring to a compelling interest; reasonable, nondiscriminatory burdens ordinarily may be justified by important regulatory interests. A write-in prohibition is assessed within the complete access system by what the prohibition itself contributes to the asserted interests; the independent validity of surrounding filing, support and primary rules does not make it presumptively valid. When ordinary nomination routes close before voters can respond, the prohibition must leave an effective route for a genuine, legally eligible alternative candidate. The ballot need not provide an official count and publication of votes for fictional figures or arbitrary protest messages as an independent expressive entitlement.
 
 **Authority by component:**
-- Governing inherited framework: Burdick v. Takushi, “1. Review of election regulations follows the actual burden”, June 8, 1992; White, joined by O'Connor, Scalia, Souter and Thomas (five), applying Anderson and the earlier simulated Norman rule.
-- Limited-burden write-in presumption: Burdick, “2. Hawaii's complete write-in prohibition is valid in its reasonably accessible system,” June 8, 1992; same five Justices.
+- Governing inherited framework: Burdick v. Takushi, “1. Review of election regulations follows the actual burden”, June 8, 1992; Stone, joined by Blackmun, Stevens, Kennedy and Souter (five), applying Anderson and the earlier simulated Norman rule.
+- Complete-system assessment and effective-route requirement: Burdick, “2. Hawaii’s complete write-in prohibition leaves no effective route for a genuine alternative candidate,” June 8, 1992; same five Justices.
 - Arbitrary-message claim: Burdick, “3. The ballot need not serve as an official tally of arbitrary political messages,” June 8, 1992; same controlling five-Justice opinion, with all nine agreeing in rejection of that component.
 
-**Present operation effective:** Burdick v. Takushi, June 8, 1992, for the write-in presumption and expressive boundary; the underlying Anderson framework is applied unchanged.
+**Present operation effective:** Burdick v. Takushi, June 8, 1992, for the complete-system assessment, effective-route requirement and expressive boundary; the underlying Anderson framework is applied unchanged.
 
-**Exceptions and limits:** No absolute validation of all write-in bans follows. Materially more restrictive access systems may impose severe burdens. The rule does not replace strict scrutiny of content-based campaign restrictions on public sidewalks.
+**Exceptions and limits:** No absolute write-in right follows, and no particular route, counting mechanism or ballot form is required. Valid qualifications, narrow anti-raiding and sore-loser rules and materially different systems remain open. The rule does not replace strict scrutiny of content-based campaign restrictions on public sidewalks.
 
 **Holdings navigation:** Burdick v. Takushi, 504 U.S. 428 (1992) — Ballot access and political parties.
+
+### Effective alternative-candidate route after early closing of nomination
+
+**Governing question:** What a State must leave available to voters who wish to support a genuine alternative candidate when its ordinary nomination routes close before voters can respond to the actual field.
+
+**Current rule:** When a State closes its ordinary nomination routes before voters can respond to the actual field of candidates, it must leave an effective route by which voters may support a genuine, legally eligible alternative candidate. A complete write-in prohibition that leaves no such route must be justified by what the prohibition itself contributes to the State's precise interests; the validity of the surrounding filing, support and primary rules does not supply that justification, sore-loser prevention does not explain a primary ban, and anti-raiding interests do not justify excluding genuine support for a candidate on the voter's selected primary ticket. A reasonable registered write-in procedure is one effective route. The State may require eligibility, the candidate's consent and declaration, and a reasonable registration date, and it keeps its deadlines, support requirements and qualifications. Relief is prospective and confined to genuine, legally eligible candidates; no special election, particular counting mechanism or ballot form is required.
+
+**Authority by component:**
+
+- Effective-route requirement, complete-system fit and permitted conditions: Burdick v. Takushi — “2. Hawaii’s complete write-in prohibition leaves no effective route for a genuine alternative candidate,” June 8, 1992; Stone, joined by Blackmun, Stevens, Kennedy and Souter (five). White, O'Connor, Scalia and Thomas dissent.
+- Calibrated Anderson inquiry: Burdick — “1. Review of election regulations follows the actual burden,” June 8, 1992; same five, with the dissenters also accepting the calibrated framework.
+- Exclusion of fictional and protest votes: Burdick — “3. The ballot need not serve as an official tally of arbitrary political messages,” June 8, 1992; same five, with all nine agreeing in rejection of that component.
+
+**Present operation effective:** *Burdick*, June 8, 1992.
+
+**Exceptions and limits:** The Constitution guarantees neither a competitive contest nor every late candidacy, and no absolute write-in right follows. A write-in option is not the only qualifying route, and its availability is not an automatic cure for a defective printed-ballot system. Valid candidate qualifications, narrow anti-raiding and sore-loser rules, the design of a qualifying route and other States' materially different systems remain open; surrounding access rules are not independently invalidated. No new scrutiny tier is adopted.
+
+**Related current rules:** Write-in voting within the complete ballot-access system; Authorized party expansion and independently qualified slate components.
+
+**Holdings navigation:** Burdick v. Takushi, 504 U.S. 428 (1992) — Whether Hawaii's complete write-in prohibition is valid within the ballot-access system reviewed; Burdick v. Takushi, 504 U.S. 428 (1992) — What level of constitutional scrutiny applies to a restriction on voting or candidate access; Burdick v. Takushi, 504 U.S. 428 (1992) — Whether the Constitution requires the State to count and publish fictional candidates or arbitrary protest messages.
 
 ### Commercial-speech advancement and fit in selective restrictions
 
@@ -8797,6 +8817,25 @@ State-court adoption does not exempt a covered governmental plan. A warranted, n
 
 
 
+### Meaningful official recognition of a qualified party's consenting nomination
+
+**Governing question:** Whether a State may categorically prevent a qualified political party from nominating, and having recognized on the official ballot, a consenting eligible candidate who also seeks or holds another party's nomination.
+
+**Current rule:** Under the existing Anderson inquiry, denying a qualified party's legally operative nomination of its chosen, consenting candidate solely because another party also nominated him imposes a substantial, though not severe, burden on the party's candidate selection and on its members' ability to vote for that nominee under the party's name. Endorsement and campaigning outside the ballot do not replace the nomination the State has made legally operative. No new scrutiny tier follows; the State's precise interests must be weighed and genuinely connected to the burden. Ballot integrity, defined nomination choices and political stability are legitimate interests, but stability cannot mean preserving established parties' competitive position, and conjecture does not justify a categorical ban where consent, recognized-party status, clear labeling and single counting address the asserted concerns and the record shows no confusion, fraud, duplicate counting or splintered vote. When a qualified party genuinely nominates an eligible, consenting candidate, the State must provide a meaningful official means of recognizing that nomination. It may choose separate party lines or a single consolidated listing with the applicable party names, require the candidate's consent and prevent any ballot from being counted more than once.
+
+**Authority by component:**
+
+- Burden, fit and meaningful official recognition: Timmons v. Twin Cities Area New Party — II. The categorical ban is not justified as applied to this consenting nomination, 1997-04-28; Stone-Zsela, joined by Stevens, Kennedy, Souter and Ginsburg (five). Thomas, joined by O'Connor, Scalia and Breyer, dissents.
+- Live controversy and the statutory consequence of affirmance: Timmons — I. The conditional enactment leaves a live controversy; III. Affirmance does not engage the enacted expiration condition, and no election is reopened, 1997-04-28; all nine Justices.
+
+**Present operation effective:** Timmons, 1997-04-28.
+
+**Exceptions and limits:** No right to a separate ballot line, multiple vote credit, a particular ballot format or separate party vote totals is recognized, and no party-specific counting rule is decided. No independent challenge to consent, counting, format, support or deadline rules is adjudicated. The holding concerns a timely nomination of a candidate who was not defeated in another party's primary; sore-loser rules, a required other-party consent, the distinct two-major-party prohibition and the independent validity of Minnesota's chapter 419 conditions are not decided. Whether a demonstrated threat to effective governing, connected to fusion, could justify a narrower limit is reserved. Completed elections are not reopened.
+
+**Related current rules:** “Authorized party expansion and independently qualified slate components” protects authorized party identity; “Write-in voting within the complete ballot-access system” supplies the calibrated framework, and “Effective alternative-candidate route after early closing of nomination” protects a genuine choice of an actual candidate.
+
+**Holdings navigation:** Timmons v. Twin Cities Area New Party (1997-04-28) — The categorical ban is not justified as applied to this consenting nomination; Timmons v. Twin Cities Area New Party (1997-04-28) — The conditional enactment leaves a live controversy; Timmons v. Twin Cities Area New Party (1997-04-28) — Affirmance does not engage the enacted expiration condition, and no election is reopened.
+
 ### Generic promotion assessments in collective agricultural marketing
 
 **Governing question:** Compelled funding of generic product promotion within comprehensive collective agricultural regulation.
@@ -9044,7 +9083,7 @@ Advance voting is compatible with then-operative 2 U.S.C. sections 1 and 7 when 
 
 Compelled publication of each paid circulator’s identity, addresses and individual compensation in final or monthly reports requires a substantial relationship to important informational or enforcement interests. The messenger is not automatically a financing source or candidate contributor. Sponsor identity and aggregate spending disclosures retain a distinct financing function. Timing may matter independently, but disclosure during circulation does not cure an insufficient relationship between each messenger’s identity and the asserted interest.
 
-Candidate-petition advocacy is distinct from signing as a member of the electorate. Under Anderson–Burdick, assess actual burden, the State’s precise interests and the need for the restriction: severe burdens require compelling interests and narrow tailoring; reasonable nondiscriminatory burdens ordinarily may rest on important regulatory interests. Direct geographic exclusion of otherwise qualified, accountable candidate-petition advocates from outside the represented district or State imposes a severe burden not justified by the accountability, fraud, local-support and administrative grounds established in Lerman and Krislov. A candidate’s choice of otherwise eligible resident advocates also cannot be defeated merely by their nonregistration under the conditions adjudicated in Krislov. Independent lawful signature qualifications remain.
+Candidate-petition advocacy is distinct from signing as a member of the electorate. Under Anderson–Burdick, assess actual burden, the State’s precise interests and the need for the restriction, and place the burden on the three-level calibrated scale: severe burdens require compelling interests and narrow tailoring; substantial burdens require an important objective and a demonstrated substantial relationship; reasonable nondiscriminatory burdens ordinarily may rest on important regulatory interests. Direct geographic exclusion of otherwise qualified, accountable candidate-petition advocates from outside the represented district or State imposes a severe burden not justified by the accountability, fraud, local-support and administrative grounds established in Lerman and Krislov. A candidate’s choice of otherwise eligible resident advocates also cannot be defeated merely by their nonregistration under the conditions adjudicated in Krislov. Independent lawful signature qualifications remain.
 
 **Authority by component:**
 
@@ -9053,6 +9092,7 @@ Candidate-petition advocacy is distinct from signing as a member of the electora
 
 - Candidate district-residence exclusion: Canonical Decision Record `Lerman-v-Board-of-Elections-in-the-City-of-New-York_merits_2003-05-27.md`, Public Projection / Holdings / District residence cannot exclude these otherwise qualified petition witnesses, 2003-05-27; eight-Justice opinion; Thomas’s separate strict-scrutiny judgment is not a method join.
 - State/district exclusions and otherwise eligible residents’ voter enrollment: Canonical Decision Record `Krislov-v-Rednour_merits_2003-06-02.md`, Public Projection / Holdings / II. The State and district boundaries cannot exclude these advocates; III. Otherwise eligible residents may circulate without voter enrollment, 2003-06-02; Part II eight direct joins; Part III six direct joins, with Thomas supporting judgment separately.
+- Three-level placement of the burden: Canonical Decision Record `Cartwright-v-Barnes_merits_2003-02-25.md`, Public Projection / Holdings / Anderson review has three levels, and these cumulative allegations require factual development, 2003-02-25; Souter’s Part II, joined by Stone-Zsela, Stevens, Ginsburg and Breyer; five direct joins.
 
 **Present operation effective:** Krislov, June 2, 2003, for candidate-petition geography and eligible-resident nonregistration; Lerman, May 27, 2003, for candidate-district exclusion; the January 12, 1999 initiative identification rules retain their scope.
 
@@ -9219,7 +9259,7 @@ The same contribution standard permits the presented viewpoint-neutral prohibiti
 
 **Present operation effective:** 2000-06-26; the component authority identified above.
 
-**Exceptions and limits:** Conventional open primaries, nonpartisan or top-two designs, voluntary party invitations and registration conditions are not categorically resolved. The decision creates no exemption from constitutional voting protections, no unlimited party-leader authority over members and no holding on national-delegate or separately presented Elections Clause questions. Distinct nonfusion and equal-cross-nomination rules remain.
+**Exceptions and limits:** Conventional open primaries, nonpartisan or top-two designs, voluntary party invitations and registration conditions are not categorically resolved. The decision creates no exemption from constitutional voting protections, no unlimited party-leader authority over members and no holding on national-delegate or separately presented Elections Clause questions. Fusion recognition and equal cross-nomination remain governed by their distinct rules; a party's voluntary choice of a consenting nominee is not compelled outsider participation.
 
 ### Expressive-association defenses to ordinary access requirements
 
@@ -9437,6 +9477,25 @@ The First Amendment bars disclosure damages on the bounded Bartnicki circumstanc
 
 **Exceptions and limits:** Ordinary state injury, causation and damages rules remain distinct; nominal relief does not remove the public-figure fault requirement. The different libel-proof-plaintiff doctrine remains outside the ruling.
 
+### Truthful party designation for a verified, petition-qualified nominee
+
+**Governing question:** Whether a State that prints party designations on its ballot may list a verified party nominee who qualified by petition as an independent because the nominating party lacks recognized status.
+
+**Current rule:** Under the Anderson inquiry, forcing a candidate who qualified by petition and was genuinely nominated by a party to appear as an independent, where the ballot prints party designations, imposes a real though less-than-severe burden on association and on the information voters receive. The State must supply a substantial justification grounded in that actual burden and its demonstrated ballot interests; full party recognition is not, by itself, a sufficient explanation for withholding every truthful designation. Independent access and campaigning lessen the burden but do not eliminate it. The State may verify the affiliation, distinguish recognized parties from candidate-specific nominating associations, choose truthful wording and refuse any label that falsely implies recognized-party nomination; a demonstrated administrative or effective-governing interest connected to the restriction remains available.
+
+**Authority by component:**
+
+- Truthful designation of a verified, petition-qualified party nominee: Canonical Decision Record `schrader-v-blackwell_merits_2001-12-10.md`, Public Projection / Holdings / Ohio must justify listing a verified party nominee as an independent, 2001-12-10; Stevens, joined by Stone-Zsela, Souter, Ginsburg and Breyer (five). Thomas, joined by O'Connor, Scalia and Kennedy, dissents.
+- Reviewability of the recurring designation restriction: Canonical Decision Record `schrader-v-blackwell_merits_2001-12-10.md`, Public Projection / Holdings / The recurring controversy remains reviewable, 2001-12-10; all nine.
+
+**Present operation effective:** Schrader v. Blackwell, 2001-12-10.
+
+**Exceptions and limits:** The rule confers no recognized-party privilege, duplicate listing or vote credit, eliminates no party-recognition threshold, compels no misleading or unverifiable label and orders no particular wording; the exact label and disputed verification facts are for remedial proceedings. It protects a verified, genuine party nomination. Completed elections are not reopened.
+
+**Related current rules:** Authorized party expansion and independently qualified slate components protects authorized party identity and independently established support; Meaningful official recognition of a qualified party's consenting nomination governs a qualified party's genuine nomination of a consenting candidate.
+
+**Holdings navigation:** [Schrader v. Blackwell — Official party designations and recognition requirements](HOLDINGS.md#schrader-v-blackwell-1); [Schrader v. Blackwell — Recurring ballot-designation restrictions and election mootness](HOLDINGS.md#schrader-v-blackwell).
+
 ### Content-neutral permits for shared public space
 
 **Governing question:** Which procedural safeguards govern a genuinely neutral permit system allocating shared space and coordinating activity.
@@ -9539,6 +9598,25 @@ A viewpoint-independent prohibition of burning a cross on another’s property, 
 - Confined intentional-intimidation offense and contextual proof: Canonical Decision Record `Virginia-v-Black_merits_2003-04-07.md`, Public Projection / Holdings / I. An intentional threatening method may be prohibited; II. Black's specific instruction does not preserve the required distinction, 2003-04-07; Parts I–II, Stone-Zsela, Stevens, O’Connor, Scalia and Breyer.
 
 **Present operation effective:** Virginia v. Black, April 7, 2003, for the confined criminal offense and instruction; ACLA, December 10, 2002, for the civil culpability rule.
+
+### Three levels of calibrated review of ballot-access burdens
+
+**Governing question:** How a court places a burden on candidate, party or voter access to the ballot within Anderson's calibrated review, and the justification each level requires.
+
+**Current rule:** Under Anderson–Burdick, the court weighs the character and magnitude of the actual burden against the State’s precise interests and the extent to which those interests require it, and explains where the burden falls on that single calibrated scale. A severe burden requires narrow tailoring to a compelling interest. A substantial burden requires an important objective and a demonstrated substantial relationship between that objective and the restriction’s actual reach; a burden may be substantial without proof that success is impossible, and a valid interest does not by itself establish a sufficient relationship. An ordinary burden imposed by reasonable, nondiscriminatory administration may be justified by important regulatory interests without proof of past disorder. The complete system remains the unit of analysis. A petition percentage sustained within one open system does not answer as a matter of law a pleaded claim that a later system’s combined operation imposes a substantial or severe burden; accepted allegations of that kind require factual development rather than dismissal.
+
+**Authority by component:**
+
+- Three levels, placement and the pleading-stage application: Canonical Decision Record `Cartwright-v-Barnes_merits_2003-02-25.md`, Public Projection / Holdings / Anderson review has three levels, and these cumulative allegations require factual development, 2003-02-25; Souter’s Part II, joined by Stone-Zsela, Stevens, Ginsburg and Breyer; five direct joins. Thomas, joined by O’Connor, Scalia and Kennedy, would affirm the access dismissal without reaching the statement of levels.
+- Underlying calibrated framework: Burdick v. Takushi, “1. Review of election regulations follows the actual burden,” June 8, 1992; the calibrated framework accepted by all nine Justices.
+
+**Present operation effective:** Cartwright, February 25, 2003; Burdick’s June 8, 1992 calibrated framework is applied unchanged.
+
+**Exceptions and limits:** The levels describe the structure of Anderson’s calibrated scale, not a new tier, and they leave Part I’s distinct Article I classification unchanged: a genuine support petition is not an added congressional qualification. No universal five-percent safe harbor follows; Jenness remains authority for the complete system it sustained, and the statewide one-percent rule was not independently decided. Party-specific failure to qualify is evidence, not proof of severity.
+
+**Related current rules:** Write-in voting within the complete ballot-access system; Effective alternative-candidate route after early closing of nomination; Meaningful official recognition of a qualified party's consenting nomination; Exclusive congressional qualifications and ballot restrictions; Compulsory outsider selection of official party nominees.
+
+**Holdings navigation:** [Cartwright v. Barnes, 304 F.3d 1138 — Georgia congressional petitions and cumulative access allegations](HOLDINGS.md#cartwright-v-barnes-304-f3d-1138-1).
 
 ### Compelled factual commercial disclosures for health and environmental protection
 

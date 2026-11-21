@@ -25,7 +25,7 @@
       "authors": [
         "Stone-Zsela"
       ],
-      "source_sha256": "539efc66607d5583a17430745f0250fd76672b162b80512b67b74386bb6efb21",
+      "source_sha256": "0de01709bd3669da7b9c31bc7ffb4d3145a6a9f2af59ca14b301feb9d7dc8f69",
       "author_evidence": [
         "| Opinion of the Court | Stone-Zsela | O'Connor, Kennedy, Souter, Ginsburg | All Parts I-V, including II-B's complete Core-Preservation Review, II-C's two-stage remand and III's incidental-regulation application. Five direct rationale votes throughout. |"
       ]
@@ -365,7 +365,7 @@
       "authors": [
         "Stevens"
       ],
-      "source_sha256": "f3a0016bb39f38fb846a7a0e605e652152e6d4f2fbe78c023297a99c2ce39a06",
+      "source_sha256": "abe13eb185f95827ead6c96e648620d5e11e9fc3d137029d3f824db80c304208",
       "author_evidence": [
         "| Opinion of the Court, Parts I, III-A and III-B | Stevens | Stone-Zsela, Scalia, Kennedy, Souter, Ginsburg | Six-Justice Court rationale; seven votes for each invalidation | Registration, final individual reports and monthly individual reports, with their distinct limits. |",
         "| Opinion of the Court, Part II | Stevens | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Ginsburg, Breyer | Eight-Justice Court rationale; unanimous invalidation | Complete bounded personal-name-badge rule and explanation. |"
@@ -498,7 +498,7 @@
       "authors": [
         "Souter"
       ],
-      "source_sha256": "bfec6ee2a7a68b3081e8346d8dbb220047997c58b5d14f1781e6fffb410c310a",
+      "source_sha256": "71ab3c01c4e8c77adff92bd41c2995a9111f0f97f2c046dfb57f4e3de3bdf227",
       "author_evidence": [
         "| Opinion of the Court | Souter | Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer in full; Stone-Zsela in Parts I and II and the remedial disposition | Supports affirmance | Parts I and II: live controversy, federal review and due process; Part III: First Amendment; disposition: affirmance and denial of the requested constitutional relief |"
       ]
@@ -886,7 +886,7 @@
       "authors": [
         "Kennedy"
       ],
-      "source_sha256": "c799e32c814ab93b86266c6d02d2d2eb8c71295b46bcb19b2b726f49b2609a97",
+      "source_sha256": "320efd7b108c889a857a08c32e985b2c3f9f720262b357a6973b9be913ebd955",
       "author_evidence": [
         "| Opinion of the Court | Kennedy | Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | All three federal grounds, their limits and affirmance. |"
       ]
@@ -1216,11 +1216,11 @@
       "caption": "Maine Green Party v. Maine",
       "qualifying": true,
       "authors": [
-        "Breyer"
+        "Stevens"
       ],
-      "source_sha256": "c308ec82e5326f765bef7cce181ff640e9b4235a43d2531717c6a96b9b3bf39f",
+      "source_sha256": "f6bfae4f3b2c1690f9ed9e446ba70b93f2ae8d3df51e6a11cb437bac70f255c2",
       "author_evidence": [
-        "| Lead opinion announcing the judgment | Breyer | O'Connor, Scalia, Thomas | Supports affirmance | Procedural preservation ground only; no constitutional merits holding. |"
+        "| Opinion of the Court | Stevens | Stone-Zsela, Kennedy, Souter, Ginsburg | Supports vacatur and remand | Complete opinion: preserved legal organizational-autonomy argument; ordinary factual and constitutional examination on remand, without final merits determination. |"
       ]
     },
     {
@@ -1231,7 +1231,7 @@
       "authors": [
         "Souter"
       ],
-      "source_sha256": "b904f26257ea107ee407f0d58518b6e5e8a9f1e46e18d77129ca06ced0b85298",
+      "source_sha256": "fab37deac47051561fda774c8965e19c3c3cf9219d4b0c2211fa6803d2b4fa1b",
       "author_evidence": [
         "| Opinion of the Court on statutory coverage | Souter | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | Unanimous coverage determination | Complete coverage rule and limits. |",
         "| Opinion of the Court on competitive analysis | Souter | Stone-Zsela, O'Connor, Scalia, Thomas | Supports vacatur of both advertising components | Flexible inquiry and both insufficiency applications; no final liability. |",
@@ -1726,7 +1726,7 @@
       "authors": [
         "Souter"
       ],
-      "source_sha256": "ab90c2458ffbe17cfe92b8d330101a7ce29225dadf6e222f124fd7b01d105ff6",
+      "source_sha256": "42c2c27fa07376baf9bf975398d89afd5e907b46712401bf34524f9b4b75521b",
       "author_evidence": [
         "| Opinion of the Court, Part I — review, distinct proceedings and express statutory authorization | Souter | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer; unanimous. |",
         "| Opinion of the Court, Parts II–III — constitutional state-forum rule and reversal/remand | Souter | Stone-Zsela, Stevens, Ginsburg and Breyer; five Justices including the author. |",
@@ -1742,7 +1742,7 @@
       "authors": [
         "Stone-Zsela"
       ],
-      "source_sha256": "b0475e0239e1c18da80ba4d55eb1eb217eb7e54a0f58388c9b5396ce05bf6c0f",
+      "source_sha256": "f2f64f7a1d5248ab5cd69b0647a668989357efc43bde8fbce4da2181b324edc7",
       "author_evidence": [
         "| Opinion of the Court, Part I | Stone-Zsela | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Unanimous statutory clarity and separation of authorization, power, consent, liability and relief; no common affirmative amenability ground. |",
         "| Opinion of the Court, Part II | Stone-Zsela | O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Eight directly reject this own-product-advertising §5 justification, with Boerne prevention and property qualifications intact. Stevens refuses this part. |",
@@ -1764,7 +1764,7 @@
       "authors": [
         "Stone-Zsela"
       ],
-      "source_sha256": "2ac5972a793d834d116ab44a2c683e83567406f82182e44b3eae036eab028c74",
+      "source_sha256": "4f9b22d9fe7e0232fb13a3c765f6a613a54af013ad484213f2ec31d67172d87e",
       "author_evidence": [
         "| Opinion of the Court | Stone-Zsela | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer as to Parts I and IV; O'Connor, Scalia, Kennedy, Thomas as to Part II; Stevens, Souter, Ginsburg, Breyer as to Part III | Stone-Zsela, Stevens, Souter, Ginsburg, Breyer support affirmance on Part III's Article I ground; the other four dissent from Part III and the judgment | Part I: common statutory clarity, patent-property/deprivation distinction, and proper respondent alternatives. Part II: Section 5 does not independently sustain the Act at the scope presented; a differently supported or fitted measure remains possible. Part III: Article I sustains the expressly authorized action and decides the judgment. Part IV: continued commercial participation is not consent, applying College Savings Part III; actual consent remains available, and litigation-conduct waiver is not decided. |"
       ]

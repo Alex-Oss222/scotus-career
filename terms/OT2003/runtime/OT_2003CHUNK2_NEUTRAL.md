@@ -770,9 +770,9 @@ The court below treated the policy as illegitimate when applied to a rehabilitat
 
 ### Issue 1: Disaffiliation and effective nomination access
 
-* **Controlling Law:** Burdick v. Takushi requires actual burden, precise state interest and fit review. Timmons v. Twin Cities Area New Party upholds its particular less-than-severe fusion restriction without approving every barrier justified by stability.
+* **Controlling Law:** Burdick v. Takushi requires actual burden, precise state interest and fit review. Timmons v. Twin Cities Area New Party holds a categorical fusion bar unjustified as applied to a qualified party's consenting nomination and requires meaningful official recognition, without approving every barrier justified by stability or deciding sore-loser rules.
 
-* **Current Reusable Doctrine:** Severe burdens require narrow tailoring to a compelling interest; reasonable nondiscriminatory burdens may be justified by important regulatory interests. Compare the complete nomination routes rather than raw calendar durations alone.
+* **Current Reusable Doctrine:** Severe burdens require narrow tailoring to a compelling interest; substantial burdens require an important objective and a demonstrated substantial relationship; reasonable nondiscriminatory burdens may be justified by important regulatory interests. Compare the complete nomination routes rather than raw calendar durations alone.
 
 * **Other Governing Law:** First and Fourteenth Amendments; California Elections Code §8001(a)(2).
 

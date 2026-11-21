@@ -37,7 +37,7 @@ Whole-opinion eligibility below requires a full join to every governing proposit
 | 75 | Chief | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Stone-Zsela, Stevens, Scalia, Kennedy, Thomas, Ginsburg, Breyer | Kennedy |
 | 76 | Chief | Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg, Breyer | Stevens, Kennedy, Thomas, Ginsburg, Breyer | Breyer |
 | 77 | Chief, jurisdiction; Stevens, remedial reservation | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Scalia, Stevens, Kennedy, Thomas, Ginsburg, Breyer | Scalia |
-| 78 | Chief, live controversy; O'Connor, reversal | O'Connor, Scalia, Kennedy, Thomas, Breyer | Scalia, Kennedy, Thomas, Breyer | Thomas |
+| 78 | Chief, all judgment components | Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg | Stone-Zsela, Stevens, Kennedy, Ginsburg | Stone-Zsela |
 | 79 | O'Connor alone | O'Connor, Scalia, Kennedy, Thomas, Breyer | Inapplicable: Associate assignment | Kennedy |
 | 80 | Chief, both genuine judgment components | O'Connor, Scalia, Kennedy, Souter, Thomas | Scalia, Kennedy, Souter, Thomas | Souter |
 | 81 | Stevens alone | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Inapplicable: Associate assignment | Ginsburg |
@@ -49,7 +49,7 @@ Whole-opinion eligibility below requires a full join to every governing proposit
 - **75 — Pic-A-State v. Reno:** Every Justice joins all three holdings and qualifications; all nine are eligible, including Stone.
 - **76 — Richards v. Wisconsin:** Scalia and Stone withhold Part III appellate method; judgment agreement does not supply full-opinion eligibility.
 - **77 — Strate v. A-1 Contractors:** Stone lacks Part II general-ceiling ground and opposes Part V relief. The Chief assigns part, so the whole coordinated opinion is subject to balance.
-- **78 — Timmons v. Twin Cities Area New Party:** The admitted conditional enactment presents a genuine threshold component independently frozen before assembly. Stone reaches the merits but supplies no enactment-specific rationale and opposes reversal; the Chief does not assign the merits.
+- **78 — Timmons v. Twin Cities Area New Party:** The admitted conditional enactment presents a genuine threshold component independently frozen before assembly. Stone's approved position reaches it on the enacted revival condition and supports affirmance; the Chief is in the judgment coalition and assigns the whole opinion.
 - **79 — Doe v. SEPTA:** The sole merits ground assumes the asserted right. Scalia and Thomas fully join that assumption-based opinion despite their separate source objection. There is no separate disputed threshold judgment component. The listed pool is comparative only; the Chief's binding balance rule does not govern this Associate assignment.
 - **80 — Harbor Tug & Barge v. Papai:** Stone fully joins fleet/status Parts I-II but only the Part III independent-appeal disposition through fallback; the three dissenters join only Part III. The five Associates who join all Parts can carry the whole opinion. Souter is one above the eligible minimum.
 - **81 — Inter-Modal Rail Employees v. Atchison:** There is one reviewed disposition. Stone joins the coverage rule but seeks formal reversal instead of the eight Associates' vacatur. A proposition join creates no additional judgment component or Chief assignment. The mandatory Chief pool is expressly inapplicable.

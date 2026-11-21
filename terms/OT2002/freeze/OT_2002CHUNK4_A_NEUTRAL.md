@@ -353,7 +353,7 @@ Washington State Department of Social and Health Services v. Guardianship Estate
 
 ##### Issue 2: The combined practical burden of the petition system
 
-* **Controlling Law:** Burdick v. Takushi requires the character and magnitude of the actual burden to be weighed against precise state interests and their need for the restriction. Timmons v. Twin Cities Area New Party preserves contextual review and permits justified less-than-severe nomination limits without a universal exemption.
+* **Controlling Law:** Burdick v. Takushi requires the character and magnitude of the actual burden to be weighed against precise state interests and their need for the restriction. Timmons v. Twin Cities Area New Party preserves contextual review and requires a demonstrated justification, not conjecture, for a substantial but not severe nomination burden, without a universal exemption.
 * **Current Reusable Doctrine:** Severe burdens require narrow tailoring to compelling interests; reasonable nondiscriminatory burdens ordinarily may be justified by important regulatory interests. Consider the complete system and actual alleged changes, not the percentage in isolation.
 * **Other Governing Law:** First and Fourteenth Amendments; the five-percent denominator, circulation period, affidavit requirements and permitted signer participation under the contemporaneous Georgia scheme.
 * **Material Other Authority:** Jenness v. Fortson sustained the basic Georgia system. Plaintiffs rely on later notarization and district-change burdens to distinguish that setting; no signer-level notarization is actually required.

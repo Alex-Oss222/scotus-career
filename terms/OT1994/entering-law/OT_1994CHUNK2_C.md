@@ -5006,18 +5006,38 @@ Parental informed consent may use the accurate medical content and qualified mat
 
 **Governing question:** Whether a ban on write-in voting violates electoral-choice or independent expressive rights.
 
-**Current rule:** Under the existing Anderson inquiry, the court assesses the character and magnitude of the actual injury against the State's precise interests and the extent to which those interests require the burden. Severe burdens require narrow tailoring to a compelling interest; reasonable, nondiscriminatory burdens ordinarily may be justified by important regulatory interests. When the complete access system imposes only reasonable burdens, a write-in prohibition is presumptively valid and may be sustained by proportionate interests, including primary finality and prevention of evasive candidacies or party raiding. The ballot need not provide an official count and publication of votes for fictional figures or arbitrary protest messages as an independent expressive entitlement.
+**Current rule:** Under the existing Anderson inquiry, the court assesses the character and magnitude of the actual injury against the State's precise interests and the extent to which those interests require the burden. Severe burdens require narrow tailoring to a compelling interest; reasonable, nondiscriminatory burdens ordinarily may be justified by important regulatory interests. A write-in prohibition is assessed within the complete access system by what the prohibition itself contributes to the asserted interests; the independent validity of surrounding filing, support and primary rules does not make it presumptively valid. When ordinary nomination routes close before voters can respond, the prohibition must leave an effective route for a genuine, legally eligible alternative candidate. The ballot need not provide an official count and publication of votes for fictional figures or arbitrary protest messages as an independent expressive entitlement.
 
 **Authority by component:**
-- Governing inherited framework: [Burdick v. Takushi, “1. Review of election regulations follows the actual burden”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Burdick_v_Takushi_merits_1992-06-08.md), June 8, 1992; White, joined by O'Connor, Scalia, Souter and Thomas (five), applying Anderson and the earlier simulated Norman rule.
-- Limited-burden write-in presumption: Burdick, “2. Hawaii's complete write-in prohibition is valid in its reasonably accessible system,” June 8, 1992; same five Justices.
+- Governing inherited framework: [Burdick v. Takushi, “1. Review of election regulations follows the actual burden”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/Burdick_v_Takushi_merits_1992-06-08.md), June 8, 1992; Stone, joined by Blackmun, Stevens, Kennedy and Souter (five), applying Anderson and the earlier simulated Norman rule.
+- Complete-system assessment and effective-route requirement: Burdick, “2. Hawaii’s complete write-in prohibition leaves no effective route for a genuine alternative candidate,” June 8, 1992; same five Justices.
 - Arbitrary-message claim: Burdick, “3. The ballot need not serve as an official tally of arbitrary political messages,” June 8, 1992; same controlling five-Justice opinion, with all nine agreeing in rejection of that component.
 
-**Present operation effective:** Burdick v. Takushi, June 8, 1992, for the write-in presumption and expressive boundary; the underlying Anderson framework is applied unchanged.
+**Present operation effective:** Burdick v. Takushi, June 8, 1992, for the complete-system assessment, effective-route requirement and expressive boundary; the underlying Anderson framework is applied unchanged.
 
-**Exceptions and limits:** No absolute validation of all write-in bans follows. Materially more restrictive access systems may impose severe burdens. The rule does not replace strict scrutiny of content-based campaign restrictions on public sidewalks.
+**Exceptions and limits:** No absolute write-in right follows, and no particular route, counting mechanism or ballot form is required. Valid qualifications, narrow anti-raiding and sore-loser rules and materially different systems remain open. The rule does not replace strict scrutiny of content-based campaign restrictions on public sidewalks.
 
 **Holdings navigation:** [Burdick v. Takushi, 504 U.S. 428 (1992) — Ballot access and political parties](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#burdick-v-takushi-504-us-428-1992).
+
+### Effective alternative-candidate route after early closing of nomination
+
+**Governing question:** What a State must leave available to voters who wish to support a genuine alternative candidate when its ordinary nomination routes close before voters can respond to the actual field.
+
+**Current rule:** When a State closes its ordinary nomination routes before voters can respond to the actual field of candidates, it must leave an effective route by which voters may support a genuine, legally eligible alternative candidate. A complete write-in prohibition that leaves no such route must be justified by what the prohibition itself contributes to the State's precise interests; the validity of the surrounding filing, support and primary rules does not supply that justification, sore-loser prevention does not explain a primary ban, and anti-raiding interests do not justify excluding genuine support for a candidate on the voter's selected primary ticket. A reasonable registered write-in procedure is one effective route. The State may require eligibility, the candidate's consent and declaration, and a reasonable registration date, and it keeps its deadlines, support requirements and qualifications. Relief is prospective and confined to genuine, legally eligible candidates; no special election, particular counting mechanism or ballot form is required.
+
+**Authority by component:**
+
+- Effective-route requirement, complete-system fit and permitted conditions: Burdick v. Takushi — “2. Hawaii’s complete write-in prohibition leaves no effective route for a genuine alternative candidate,” June 8, 1992; Stone, joined by Blackmun, Stevens, Kennedy and Souter (five). White, O'Connor, Scalia and Thomas dissent.
+- Calibrated Anderson inquiry: Burdick — “1. Review of election regulations follows the actual burden,” June 8, 1992; same five, with the dissenters also accepting the calibrated framework.
+- Exclusion of fictional and protest votes: Burdick — “3. The ballot need not serve as an official tally of arbitrary political messages,” June 8, 1992; same five, with all nine agreeing in rejection of that component.
+
+**Present operation effective:** *Burdick*, June 8, 1992.
+
+**Exceptions and limits:** The Constitution guarantees neither a competitive contest nor every late candidacy, and no absolute write-in right follows. A write-in option is not the only qualifying route, and its availability is not an automatic cure for a defective printed-ballot system. Valid candidate qualifications, narrow anti-raiding and sore-loser rules, the design of a qualifying route and other States' materially different systems remain open; surrounding access rules are not independently invalidated. No new scrutiny tier is adopted.
+
+**Related current rules:** Write-in voting within the complete ballot-access system; Authorized party expansion and independently qualified slate components.
+
+**Holdings navigation:** Burdick v. Takushi, 504 U.S. 428 (1992) — Whether Hawaii's complete write-in prohibition is valid within the ballot-access system reviewed; Burdick v. Takushi, 504 U.S. 428 (1992) — What level of constitutional scrutiny applies to a restriction on voting or candidate access; Burdick v. Takushi, 504 U.S. 428 (1992) — Whether the Constitution requires the State to count and publish fictional candidates or arbitrary protest messages.
 
 ### Commercial-speech advancement and fit in selective restrictions
 

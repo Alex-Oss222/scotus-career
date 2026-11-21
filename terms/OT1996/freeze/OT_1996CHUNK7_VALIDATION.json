@@ -61,12 +61,12 @@
     {
       "path": "terms/OT1996/records/Timmons_v_Twin_Cities_Area_New_Party_merits_1997-04-28.md",
       "bytes": 37997,
-      "sha256": "1a3015f75689b661511ee8acacca43cbf8cd5ace1de892702d684be6cd57c02b"
+      "sha256": "c538908069c5e6d59cdda35a79538d4b35b6d055d9ab25387cecd5e1bd0d1d50"
     },
     {
       "path": "terms/OT1996/records/Doe_v_SEPTA_merits_1997-05-05.md",
       "bytes": 30594,
-      "sha256": "56032dc73400f99bce75e2105122950e34b9b309a3c994717f423ebb62bc3279"
+      "sha256": "76f65cdaac1560e7ec0ddec51941feaeb67c49d87d3a52feeec89a5368b3a4f1"
     },
     {
       "path": "terms/OT1996/records/Harbor_Tug_and_Barge_v_Papai_merits_1997-05-12.md",
@@ -93,12 +93,12 @@
     {
       "path": "terms/OT1996/render-inputs/OT_1996CHUNK7.md",
       "bytes": 189687,
-      "sha256": "7d57d680f1528e3ed71abae5b866976a38c7bb82f1d03109f327db69e2b9a80e"
+      "sha256": "4dfffed623b93e05274351414d133275e6238ddaf63870141af8d2db8cea4b90"
     },
     {
       "path": "terms/OT1996/freeze/OT_1996CHUNK7_ASSIGNMENT_AND_PRESERVATION_VALIDATION.md",
       "bytes": 11546,
-      "sha256": "ac8944bbea4f1e80bb1c910c6f303afe9c998d31b4b557749c33eb219e65b61c"
+      "sha256": "12408c2f646fbd6ebf6794789782a46067bd4fae92e778c7fa0cdf1f3d3c1610"
     },
     {
       "path": "terms/OT1996/freeze/OT_1996CHUNK7_72_73_ASSEMBLY_VALIDATION.json",
@@ -108,12 +108,12 @@
     {
       "path": "terms/OT1996/freeze/OT_1996CHUNK7_75_79_ASSEMBLY_VALIDATION.json",
       "bytes": 10724,
-      "sha256": "00d88a0d1deb458897f20779347428186cfae652b47184de24a44bc3b5b37714"
+      "sha256": "ee62e9db5052c2b33efcc1cfd008b208c3f8f4d50204c041fd0b2b3f876914a4"
     },
     {
       "path": "terms/OT1996/freeze/OT_1996CHUNK7_80_83_ASSEMBLY_VALIDATION.json",
       "bytes": 10230,
-      "sha256": "fe3a9223a76a65eaac3b9a0ab273e3b51260e89a45606b9e68a7ee4866d18def"
+      "sha256": "dbd9d476aa623af853ea5115699c38f1453c22d8bbed061ba21619192db52664"
     },
     {
       "path": "terms/OT1996/workspace/manifest.md",
@@ -123,27 +123,27 @@
     {
       "path": "terms/OT1996/workspace/ledger.md",
       "bytes": 67064,
-      "sha256": "81e6bd72ae133e3012624a0dc5e02c88e61cbf35a576529777d602f82226beb1"
+      "sha256": "60c39af672929e52a1cc70367f7f822f17de87999b2ab35307ac91b39f7ad7f5"
     },
     {
       "path": "terms/OT1996/workspace/continuity.md",
       "bytes": 1721455,
-      "sha256": "47d48e6aa4ac1947886bc952612cc498263652a7e0be67af2defff5eca9d2c4e"
+      "sha256": "78e397945fff058207c2cfa72f218729bf0f46365ed14bdb95a77dd50e6cfe66"
     },
     {
       "path": "terms/OT1996/workspace/neutral-projection.md",
       "bytes": 1668327,
-      "sha256": "a9e72b832852ff81f07fc090bda324ee1da2ba7e95eb694f6f9512f1a9992471"
+      "sha256": "de58138be887e3d571edf4c61871a8d09fed44ece637dee38e19b6c051f33cd8"
     },
     {
       "path": "terms/OT1996/freeze/OT_1996CHUNK7_COMMITMENTS.md",
       "bytes": 293983,
-      "sha256": "f13ae9f266f1a25f83dc1f161d24a8bd2bd5949cc46959e8448fae6c220fc552"
+      "sha256": "c209d57eeb549cb17ba660c80da5ff8c111e874f40f5c769f48858a058c02486"
     },
     {
       "path": "terms/OT1996/freeze/OT_1996CHUNK7_RECONCILED.md",
       "bytes": 400615,
-      "sha256": "d5f765623557f4dc78d3efd965ee815a36725b160d8cb998fe705e86b7e13ffa"
+      "sha256": "3a83dc093a0287e5ab1874947cad2432a23acfbdb6de33a21c992abe6a946e45"
     },
     {
       "path": "terms/OT1996/freeze/OT_1996CHUNK7_83_MANDATE_RECONCILIATION_AUDIT.md",
@@ -158,7 +158,7 @@
     {
       "path": "terms/OT1996/freeze/OT_1996CHUNK7_ROLLING_LAW_REVIEW.md",
       "bytes": 5835,
-      "sha256": "6d4f0f2889875c29fba4255e6db42df891f9513ff1255002608765fcd9e53e7f"
+      "sha256": "25a0cafa6df5a5bfc3ab1ab16d5ed2b4296286c475b42501c71fdfccca91c98b"
     }
   ]
 }

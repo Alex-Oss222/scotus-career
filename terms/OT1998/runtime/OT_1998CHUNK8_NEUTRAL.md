@@ -290,7 +290,7 @@ Each State seeks a precise boundary honoring the earlier constitutional and comp
 
 ### Issue 1: Elections and Voting
 
-* **Controlling Simulated Law:** Burdick and Timmons review a party rule within the complete electoral system, weighing the actual associational and ballot burden against supported state interests. Timmons’s upheld nonfusion rule is not automatic approval of a five-percent retention requirement. Feasible requalification, alternative ballot routes and the relation of statewide privileges to statewide support determine the burden here.
+* **Controlling Simulated Law:** Burdick and Timmons review a party rule within the complete electoral system, weighing the actual associational and ballot burden against supported state interests. Timmons’s protection of a qualified party’s consenting fusion nomination does not decide a five-percent retention requirement. Feasible requalification, alternative ballot routes and the relation of statewide privileges to statewide support determine the burden here.
 * **Other Governing Law:** First and Fourteenth Amendments; Maine’s actual five-percent party-retention, requalification and alternative-access provisions; Anderson v. Celebrezze.
 
 ## C. DECISION-MATERIAL LITIGATION POSITIONS

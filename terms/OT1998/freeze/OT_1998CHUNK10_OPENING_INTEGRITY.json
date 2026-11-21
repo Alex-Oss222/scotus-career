@@ -2,9 +2,9 @@
   "base_main": "b4388b175a3b71b3bc308f9d28cdbae269e77f0a",
   "approved_brief_sha256": "aa16478723ff936955778f77e1707f0466b52522376f9d1ba126e20ac420360f",
   "baseline_workspace_sha256": {
-    "manifest": "02a0984192c2996234a13fa9179f2f27922d1afee41f2d39e79fb0aaf33163a5",
-    "ledger": "e4697f71689158ca279a23732eef7c8847d2a41dabcea62f6ef8b7f8a769dc86",
-    "continuity": "794aaf2b880020345fdadd04c982b276d72b3863c505ece6c5d575a68fd4c35d",
-    "neutral-projection": "099e23925c01aad730f41ee0c500f59532d8ae3135e5e264ea67da52a976e18e"
+    "manifest": "c6e512b3556ace9359b44cf30a8d8f0396e43edeadeb7531d755f2ef8d06afbb",
+    "ledger": "69f4c9498eddb3e15e2b881ab4aa0e16a0d2e6e3151ed3295ea041d3530551d9",
+    "continuity": "73d2a578e307c896ee15896b8da60028f561f74a8e2332d6f7395d741307431a",
+    "neutral-projection": "1b2410eb36d368f98c29dbf06d910fba44dec1b31ead430a55b7d06e98b8757e"
   }
 }

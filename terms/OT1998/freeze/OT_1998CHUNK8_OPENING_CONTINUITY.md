@@ -1856,7 +1856,7 @@ The Band's reserved uses survive the three asserted extinction grounds. The 1850
 
 #### Precedent Treatment
 
-- Anderson and Burdick supply the actual-burden and justification inquiry; Burdick's write-in application creates no categorical presumption for private reimbursement.
+- Anderson and Burdick supply the actual-burden and justification inquiry; Burdick's write-in holding creates no categorical rule for private reimbursement.
 - Buckley v. American Constitutional Law Foundation, decided January 12, 1999, supplies protection against direct restraints on political conversation. Its invalid registration, badge and disclosure restrictions are not facts of this case.
 - Citizens for a Constitutional Convention v. Yoshina, decided January 21, 1999, supplies attention to actual legal effect and preserves review of fundamentally unfair administration. State-law authorization alone remains insufficient to answer a federal injury.
 - National Committee of the Reform Party v. Democratic National Committee, decided March 17, 1999, rejects the presented resource-parity entitlement while preserving actual suppression and discriminatory administration. That limit is retained here.

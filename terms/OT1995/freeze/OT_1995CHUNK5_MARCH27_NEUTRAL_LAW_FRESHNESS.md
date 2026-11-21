@@ -90,7 +90,7 @@ All five earlier freeze files remain immutable. Their checked SHA-256 values are
 | `OT_1995CHUNK5_SEMINOLE_NEUTRAL_VALIDATED.md` | `371046c332b529c28ada8e2a2536074986fd4579f05a0d4ab95b4d68860e1253` |
 | `OT_1995CHUNK5_SEMINOLE_US_SOURCE_ADDENDUM.md` | `eeac4a9d8330dcee6512322fa8bbbe9b7e3904a25fce12e4175fce3fee356160` |
 | `OT_1995CHUNK5_SEMINOLE_ARTICLE_III_SOURCE_ADDENDUM.md` | `62325bb44f9547310eafa934a3173cab455afed869d3074ae38c014163fc06e9` |
-| `OT_1995CHUNK5_MORSE_NEUTRAL_VALIDATED.md` | `dfb1aac08d4c20fd545663ba24871d24b1de134f789eb3d9c8012186a508087d` |
+| `OT_1995CHUNK5_MORSE_NEUTRAL_VALIDATED.md` | `9f8277b16fa62d2ce2a8e350cb1cbbbe26034a9bdde57c47114491f8465697e0` |
 | `OT_1995CHUNK5_RUTLEDGE_NEUTRAL_VALIDATED.md` | `0d2a1f7258b5f4a3d6c6e96bedb031116104b431ee7c99b278b01bf617222d78` |
 
 **Boundary:** This review used authorized neutral materials and public law only. It read no current-case Stone position, historical comparator, commitment, reconciliation, private canonical Record, ledger, continuity, or private control artifact. No agent-status listing, Git operation, or workspace mutation was performed. Only this new certificate was written. Root must freeze it before activating independent commitments, as specified in the supplied handoff.

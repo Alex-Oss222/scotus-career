@@ -18,7 +18,7 @@ No target Supreme Court opinion, target comparator, Stone supplement, raw Record
 1. The approved Section I's generic State argument, generic remedy paths and stale baseline are insufficient alone; the sanitized extraction supplies the trial findings, actual lower judgment, State interests, procedural scope and material limits.
 2. The focused entering-law handoff omitted the effective April 10, 2000 Reform Party decision. The validator found it in the sanitized projection and mechanically copied its complete public section into the freeze. The packet explains both its relevance and its equality/timing limits without predicting a result.
 3. The freeze separates constitutional characterizations from underlying findings; predictions from actual California counts; sincere/strategic crossover from organized raiding; popular support from party consent; and party-committee selection from official nominee selection.
-4. All-eight-Associate date-eligible source grounding is available through the actual Timmons and Hurley joins, with the Timmons public dissents and surviving pre-divergence sources identified. Those positions are evidence for modeling, not commitments in this case.
+4. All-eight-Associate date-eligible source grounding is available through the actual Timmons and Hurley joins, with the Timmons public concurrence and dissent and surviving pre-divergence sources identified. Those positions are evidence for modeling, not commitments in this case.
 5. The packet preserves lawful competing paths and remedy limits. The code copies exact saved source text; no long source passage was manually retyped.
 
 ## Exact gaps and consequences
@@ -32,10 +32,10 @@ These are bounded source and scope limits, not a blocker to the supported state/
 
 ## Snapshot integrity
 
-- `runtime/OT_1999CHUNK9_NEUTRAL.md`: SHA-256 `3f6c88d62a0886bbcf6cb498e36bb5812da510e9255911c521e6fcfa71785981`.
-- `preparation/OT_1999CHUNK9_JONES_CONTROL_FACTS.md`: SHA-256 `f928bfdc5f0a63513b061ee5605739c61599b40f8bfe92bf0c4c02c76509125c`.
-- `entering-law/OT_1999CHUNK9_JONES.md`: SHA-256 `9acb5b5c4f28f3e39e992c5a63c36a12dafad25169796ca179f58d94c222c37a`.
-- `workspace/neutral-projection.md`: SHA-256 `947c1ab62ca970c82c76d4cde08ae0b0da4c63a2e2b805797e493cb975bead41`.
-- `freeze/OT_1999CHUNK9_JONES_NEUTRAL.md`: SHA-256 `f983fe4c9df0105cb3e369e33c17a1d322c8fb67f60af07c96330931e4354b1d`.
+- `runtime/OT_1999CHUNK9_NEUTRAL.md`: SHA-256 `25910e6f0fe0bf0b94af0af01c05093634507f2740bcc6f9797f576815d0dfbc`.
+- `preparation/OT_1999CHUNK9_JONES_CONTROL_FACTS.md`: SHA-256 `21c497e590caeeba9c31f0520b19c4f55ea78d9df472f5817178d75cd7795532`.
+- `entering-law/OT_1999CHUNK9_JONES.md`: SHA-256 `3bde5b11c86d76bfe1efebce2874bfd1788d15a36f33cb87fbb82f866de9278f`.
+- `workspace/neutral-projection.md`: SHA-256 `99c0c79e869062a97eaf44c88f4408ae8776d9c88d071e6e85e550704e498e67`.
+- `freeze/OT_1999CHUNK9_JONES_NEUTRAL.md`: SHA-256 `6b3204cae597d09dadca641d187bd2d97cbac3623139407cee50ddfc0db2e4da`.
 
 The frozen packet is a durable neutral handoff, not a Court action or a revision of any completed adjudication. It contains no opinion assignment or modeled vote.
