@@ -2,7 +2,7 @@
 
 Status: validated for handoff at the expressly bounded scopes. Repository commitment is left to the operator; this context ran no Git commands.
 
-The frozen independent model was preserved unchanged at 62,823 bytes and SHA-256 `bd423c6d5c02735434e87f510c09d71440ac5e76507d3fcd364cda1b47549abc`. All eleven input identities in its exact-byte receipt still match. The comparator file hash below identifies the whole mechanical file; only the six authorized later entries were read substantively.
+The frozen independent model was preserved unchanged at 62,823 bytes and SHA-256 `44865b08cb66a61c89ec658fc105b59ee36857c926ad7d1edc0709c1bce3ba69`. All eleven input identities in its exact-byte receipt still match. The comparator file hash below identifies the whole mechanical file; only the six authorized later entries were read substantively.
 
 Six reconciliation tables each name all eight Associates once. Named coalition sets, complementarity and arithmetic were checked mechanically after legal reconciliation; the script supplies no vote or legal conclusion. Historical-departure labels occur only for Council and Locke. No author assignment, current Stone choice, Court-wide final vote total or new factual premise is supplied.
 
@@ -40,10 +40,10 @@ Remaining limits: no source blocker prevents the bounded commitments. Unquoted e
 
 | Input relative to OT1999 | SHA-256 |
 |---|---|
-| `freeze/OT_1999CHUNK3_LATER_COMMITMENTS.md` | `bd423c6d5c02735434e87f510c09d71440ac5e76507d3fcd364cda1b47549abc` |
+| `freeze/OT_1999CHUNK3_LATER_COMMITMENTS.md` | `44865b08cb66a61c89ec658fc105b59ee36857c926ad7d1edc0709c1bce3ba69` |
 | `freeze/OT_1999CHUNK3_NEUTRAL.md` | `6e662d770a0d5609d9c76fdec772f04bc5a4fde9415dd441fdbbb09800a61a98` |
 | `freeze/OT_1999CHUNK3_ENTERING_NEUTRAL_STATE.md` | `605ba8876f8053ada8ba8e8cfc92937e01382a363275622d37043b8d32fc4fb8` |
-| `entering-law/OT_1999CHUNK3_LATER.md` | `43026303bb20f59af089d5ee3af7feee84d94f24d90a15ae0634917e210853a7` |
+| `entering-law/OT_1999CHUNK3_LATER.md` | `bbae6c6b42f32b9236e0b716c8c5f9eef09f522876a4ae6de04c2e8afaf770d5` |
 | `freeze/OT_1999CHUNK3_LATER_SOURCE_FACTS.md` | `bdc71f985319c6f4fbe352cf412158820cfb218eadf508db31d6ba8a848ee503` |
 | `freeze/OT_1999CHUNK3_LATER_NEUTRAL_EXCERPTS.md` | `85475854bf26b34d783672922c635e69096043d1221a8a7a3d4090fda48ffaa8` |
 | `freeze/OT_1999CHUNK3_NEUTRAL_LAW_SUPPLEMENT.md` | `a9f5931fc917191cdc9373b8e4af060360b3076c7734994017a1b41d98ef1a3c` |

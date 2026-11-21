@@ -19277,6 +19277,8 @@ No precedent is overruled.
 
 **Proposition-level authority:** Opinion of the Court (Souter), Part I, joined by Stone-Zsela, Stevens, O'Connor, Kennedy, Ginsburg and Breyer; seven Justices.
 
+**Current force:** Romer remains valid as an earlier rational-basis decision and an independent floor for the actual disadvantage. Shahar v. Bowers, March 2, 1998, Part III-B, subjects sexual-orientation classifications to intermediate scrutiny, a tier Romer did not itself supply.
+
 **Material application:** The authoritative state construction covers legislative, executive, and judicial channels of the State, agencies, schools, and local government, including public and private settings; it is not merely a quota prohibition or local preemption leaving the legislature free to act. Uniformity, regulatory restraint, finite resources, religious and intimate association, parental teaching, and conduct-based morality do not explain this blanket ineligibility across public and impersonal commercial life. Ordinary review permits supported predictions, imperfect categories, and conceivable grounds without formal findings or empirical certainty; a narrower alternative alone is insufficient. The defect concerns the relationship to the actual disadvantage, rather than an independent hostility finding or mandatory least-restrictive-means inquiry.
 
 **Limits and questions not reached:** The Court assumes, without deciding, that generally applicable criminal, tort, contract, and public-service protections remain. It creates no suspect or quasi-suspect tier, general duty to enact nondiscrimination laws, nationwide code, quota entitlement, universal access to every lawmaking level, or presumption invalidating every group-affecting repeal, referendum, or constitutional policy reservation. Particular religious, intimate-association, and expressive defenses retain their own predicates; no municipal exemption is approved.
@@ -19509,6 +19511,8 @@ For the other questions in Abebe-Jira v. Negewo, No. 95-8873; Eleventh Circuit N
 
 **Proposition-level authority:** Opinion of the Court (Stone-Zsela), unanimous.
 
+**Current-force modification:** Shahar v. Bowers, March 2, 1998, Part III-B, subjects sexual-orientation classifications to intermediate scrutiny. This holding remains valid, and purposeful irrational withholding of protection because of sexual orientation remains unconstitutional, but its rational-basis orientation analysis is not the full governing standard. The conduct-time immunity holding below is unaffected.
+
 **Material application:** Statements and departures from enforcement permit a finding that officials selected Nabozny for disadvantage because he was openly gay; no legitimate disciplinary rationale accounts for the alleged treatment.
 
 **Limits and questions not reached:** Knowledge, discriminatory effect, deliberate indifference without discriminatory purpose and inconsistent enforcement alone do not suffice. No general school-safety entitlement is established.
@@ -19592,6 +19596,8 @@ For the other questions in Walmer v. Department of Defense, Tenth Circuit No. 93
 
 **Proposition-level authority:** O'Connor's Part I, joined by Scalia, Kennedy, Thomas and Breyer; five Justices.
 
+**Current-force modification:** Shahar v. Bowers, March 2, 1998, Part III-B: to the extent a military personnel rule classifies by sexual orientation or operates as a deliberate status proxy, Shahar's intermediate scrutiny, not the ordinary review applied here, governs. This preliminary judgment stands, and the rule is reassessed under that standard when it materially affects it.
+
 **Limits and questions not reached:** This is preliminary review of admitted conduct with stipulated exception ineligibility. The full retention-exception criteria, their validity and application to other claimants are not adjudicated. No final validity declaration, orientation-only inference rule, later-statute ruling, Government actual-purpose burden, individualized-impairment requirement or universal scrutiny tier follows. The other equitable factors were assumed below, not found satisfied.
 
 **Treatment of earlier authority:** Beach, both relevant Heller propositions and Romer are applied at their actual ordinary-review scope; Goldman and Rostker supply deference without immunity. Bowers, Kelley and Virginia are distinguished at the questions they decided.
@@ -19613,6 +19619,8 @@ For the speech question in Thomasson v. Perry, Fourth Circuit No. 95-2185, decid
 **Holding:** Ordinary rational-basis review permits the Navy to apply 10 U.S.C. §654(b)(2) to Thomasson's voluntary declaration of homosexual identity as a rebuttable indication of prohibited conduct, propensity, or intent, with propensity meaning a likelihood of acts beyond abstract preference or desire and a genuine opportunity to rebut that inference. On this record, the unrebutted inference rationally relates to legitimate military personnel interests and sustains the discharge without proof of a completed prohibited act or individualized operational impairment; it is not a conclusive disqualification for private orientation.
 
 **Proposition-level authority:** O'Connor's opinion, joined by Scalia, Kennedy, Thomas and Breyer; five direct joins.
+
+**Current-force modification:** Shahar v. Bowers, March 2, 1998, Part III-B: to the extent a military personnel rule classifies by sexual orientation or operates as a deliberate status proxy, Shahar's intermediate scrutiny, not the ordinary review applied here, governs. This judgment stands, and the statement rule is reassessed under that standard when it materially affects it; its conduct-likelihood and genuine-rebuttal requirements remain minimum conditions.
 
 **Material application:** The Board considered service history, supporting accounts and expert evidence and found the inference unrebutted. No exclusion of evidence or compelled denial of identity was established. Service excellence and absence of completed prohibited conduct do not automatically negate the predictive premise.
 
@@ -20387,6 +20395,8 @@ For the legal-immunity appeal boundary, see Danahy v. Buscaglia, Second Circuit 
 
 **Proposition-level authority:** Opinion of the Court (O'Connor), joined by Scalia, Kennedy, Thomas and Breyer; five Justices.
 
+**Current-force modification:** Shahar v. Bowers, March 2, 1998, Part III-B: to the extent a military personnel rule classifies by sexual orientation or operates as a deliberate status proxy, Shahar's intermediate scrutiny, not the ordinary review applied here, governs. This judgment stands, and the statement-based discharge rule is reassessed under that standard when it materially affects it.
+
 **Material application:** Two hearings considered Richenberg's denial and substantial service, character and discipline evidence, together with equivocal cross-examination answers about future conduct. The existing reasons and evidence permit a conduct-related assessment rather than conclusive reliance on orientation. Discounting general character testimony can reflect its limited bearing on propensity. A competing inference or sparse explanation alone does not establish constitutional invalidity or compel additional findings; no new demeanor finding or hypothetical agency reason supports the result.
 
 **Limits and questions not reached:** Attraction alone is insufficient and is not itself a statutory act. Section 654(b)(2)'s rebuttal concerns absence of engagement, attempt, propensity or intent. Section 654(e) allows omission of processing only on findings of avoidance-or-termination intent and military best interests; neither is established, and permission to omit processing does not command retention. The separate §654(b)(1) retention route requires departure from usual behavior, unlikely recurrence, absence of force/coercion/intimidation, consistency of continued presence with discipline/order/morale, and no propensity or intent; that route and §654(b)(3)'s marriage route do not replace the statement inquiry. No new ruling decides those unpresented grounds. Independent APA reviewability or relief, speech, due process, directive validity, substantive liberty and other ungranted issues remain open. No heightened scrutiny, actual-purpose burden or universal findings checklist is created.
@@ -20403,15 +20413,27 @@ For the legal-immunity appeal boundary, see Danahy v. Buscaglia, Second Circuit 
 
 **Decided:** 1998-03-02.
 
-##### The actual equality disadvantage requires ordinary constitutional justification
+##### Conduct and hiring labels do not remove a sexual-orientation classification from equality review
 
-**Holding:** An adverse civilian employment classification does not escape ordinary equal-protection review by being described as conduct-based or as a hiring choice. The actual disadvantage must bear a rational relation to a legitimate governmental interest; no new orientation-based heightened tier is adopted.
+**Holding:** A conduct or hiring label does not remove an adverse civilian employment classification from equal-protection review. Government that disadvantages an individual because of sexual orientation, including through a nominal conduct rule operating as a deliberate status proxy, classifies by sexual orientation. Government that regulates actual conduct because of independently relevant professional obligations is reviewed under the applicable constitutional protections.
 
-**Proposition-level authority:** Opinion of the Court (Souter), Part III: Stevens, Kennedy, Souter, Ginsburg and Breyer. Stone-Zsela’s proposed intermediate scrutiny does not form part of the controlling rule.
+**Proposition-level authority:** Opinion of the Court (Souter), Part III-A: Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg and Breyer; six Justices.
 
-**Limits and questions not reached:** The office’s professional responsibilities and reasonable predictions remain legitimate considerations; the conduct or hiring label alone does not resolve rationality. The decision adopts no heightened orientation tier and no military inference for this civilian ceremony.
+**Material application:** Conduct operates as a status proxy when it is penalized because it reveals or expresses orientation, as when comparable conduct is treated differently or the asserted concern attaches to a relationship’s same-sex character rather than to a professional obligation the conduct implicates. The lower court’s conduct/employment characterization ended its equality analysis without asking which kind of action this withdrawal was. On the plaintiff-favorable record, the asserted concerns could be found to attach to what a same-sex religious commitment ceremony disclosed; no refusal of duties or lawbreaking is established.
 
-**Operative remedy or transition:** Five Justices vacate the equality judgment and remand under ordinary rationality. Stone-Zsela would reverse under intermediate scrutiny; that rationale supplies no part of the controlling instruction.
+**Limits and questions not reached:** Conduct that genuinely conflicts with confidentiality, representation or assigned duties may be regulated on that ground, subject to whatever separate protections it independently carries under other constitutional provisions. The office’s professional responsibilities and reasonable predictions remain legitimate considerations. Bowers v. Hardwick concerns its specified conduct; orientation or the ceremony alone proves no violation, and no military inference governs this civilian ceremony. Which kind of action this withdrawal was returns on remand.
+
+##### Sexual-orientation classifications receive intermediate scrutiny
+
+**Holding:** Sexual-orientation classifications receive intermediate scrutiny. Once government is shown to have disadvantaged an individual because of sexual orientation, including through a deliberate status proxy, it must demonstrate a genuine, important objective and a substantial relationship between that objective and the actual classification; it bears that burden, and moral disapproval, private bias, stereotype and post hoc or merely conceivable reasons do not carry it. Supported professional judgment and reasonable contemporaneous predictions receive substantial but nonconclusive weight, and the standard requires neither least restrictive means, an individual exception in every case nor an entitlement to a particular position. The standard adopted here does not itself establish fair notice in July 1991; prospective constitutional validity and personal damages liability remain separate on remand.
+
+**Proposition-level authority:** Opinion of the Court (Souter), Part III-B: Stone-Zsela, Stevens, Souter, Ginsburg and Breyer; five Justices. Kennedy joins Part III-A and the equality vacatur but not Part III-B. O’Connor, Scalia and Thomas reject Part III-B and would sustain the equality judgment under ordinary rationality.
+
+**Material application:** Romer’s ordinary review excludes bare harm but accepts conceivable reasons, reasonable generalizations and imperfect fit, leaving the challenger to negate them; in Walmer, Thomasson, Richenberg and this withdrawal, conduct, statement, relationship or ceremony labels can let an orientation classification stand on grounds the government need not establish. Adarand’s common standard supplies the method: an important objective and a substantial, evidence-supported relationship to the classification actually used. Confidentiality, professional competence, credible representation and workplace administration remain available interests, and prevention need not await disruption, but generalized predictions about gay employees do not show that a particular exclusion substantially serves them, and an assertion of deference is not a showing. The summary judgment required no such showing.
+
+**Limits and questions not reached:** The standard is demanding, not an absolute prohibition; experience may suffice without scientific certainty or formal findings. Neither Romer nor Virginia already supplied a tier for this classification. Bowers v. Hardwick’s specified-conduct holding is not reopened. The military decisions sustained under ordinary review are not reopened; their particular rules are assessed under this standard when it materially affects them.
+
+**Operative remedy or transition:** Five Justices vacate the equality judgment and remand for application of Parts III-A and III-B; Stone-Zsela joins Part III but would formally reverse that claim and remand under intermediate scrutiny on a developed record, and O’Connor, Scalia and Thomas would affirm. No liability, reinstatement or damages is ordered.
 
 ##### Causation, conduct-date immunity and relief remain independent
 
@@ -20426,8 +20448,8 @@ For the legal-immunity appeal boundary, see Danahy v. Buscaglia, Second Circuit 
 **Treatment of earlier authority:**
 
 - Umbehr distinguishes benefit entitlement from unconstitutional retaliation and preserves actual causation and the preponderance same-decision defense.
-- Romer supplies ordinary rationality for the actual disadvantage. Valot keeps that standard distinct from a protected-right penalty and a same-decision defense.
-- Walmer, Thomasson and Richenberg retain their military and conduct-related scope; they do not establish civilian exclusion or a heightened orientation tier. Bowers v. Hardwick is not extended from specified conduct to orientation or a ceremony.
+- Romer’s ordinary rationality remains valid as a floor for the actual disadvantage; it did not itself supply the intermediate tier Part III-B adopts. Valot keeps equality review distinct from a protected-right penalty and a same-decision defense.
+- Walmer, Thomasson and Richenberg retain their military and conduct-related scope and establish no civilian exclusion. Under Part III-B, intermediate scrutiny, not the ordinary review they applied, governs sexual-orientation classifications; their judgments are not reopened, and their particular rules are assessed under that standard when it materially affects them. Bowers v. Hardwick retains its specified-conduct holding and is not extended to orientation or a ceremony.
 - Danahy supplies no office-wide merits exception and no retroactive July 1991 notice. NTEU’s broad prospective-restraint burden is not transferred wholesale to this single hiring decision.
 
 For this case’s other questions, see First Amendment (Private association requires its own protection and employment inquiry; Free exercise cannot be absorbed into a general employee-speech balance).
@@ -20722,7 +20744,7 @@ The five postviability duties are the attending physician’s written necessity 
 
 **Proposition-level authority:** The same unanimous opinion controls this narrow selective-enforcement rule, without an orientation-based scrutiny tier.
 
-**Limits and questions not reached:** Perceived orientation supplies the alleged arbitrary selection; no heightened scrutiny tier is adopted. Probable cause, epithets, nonarrest, later acquittal or another person’s characterization alone is insufficient. No duty to arrest every offender, prosecutor-discovery threshold, universal burden sequence or resolution of every personal-animosity claim follows.
+**Limits and questions not reached:** Perceived orientation supplies the alleged arbitrary selection; the narrow claim adopts no scrutiny tier of its own and does not depend on Shahar's intermediate scrutiny for sexual-orientation classifications. Probable cause, epithets, nonarrest, later acquittal or another person’s characterization alone is insufficient. No duty to arrest every offender, prosecutor-discovery threshold, universal burden sequence or resolution of every personal-animosity claim follows.
 
 ##### 4. The narrow arbitrary-selection prohibition predates this encounter
 
@@ -20964,11 +20986,11 @@ For the other questions decided in this same case, docket and date, see Criminal
 
 ##### The BBE and HBE programs fail the governing standard's alternatives requirement
 
-**Holding:** Before using these racial and ethnic contracting preferences, the County must seriously consider reasonably available race-neutral measures responsive to the exclusion it identifies and provide a supported explanation of their inadequacy. This record does not satisfy that requirement for either BBE or HBE; it requires considered alternatives, not trial and exhaustion of every conceivable measure.
+**Holding:** Under Adarand's alternatives inquiry, the County must seriously consider concrete, practicable alternatives responsive to the exclusion it identifies, race-neutral or otherwise, and give a supported explanation of why they would not comparably advance its objective with materially less racial disadvantage. Reasonably available race-neutral measures are weighed within that inquiry rather than as a separate prerequisite, and formal neutrality earns them no priority. This record does not satisfy that requirement for either BBE or HBE; it requires considered alternatives, not trial and exhaustion of every conceivable measure.
 
 **Proposition-level authority:** Opinion of the Court (O'Connor). Part III has all eight Associates. Stone-Zsela would vacate and remand for program-specific application of Adarand's standard. Four Associates also find the racial evidence insufficient, but that additional ground does not control.
 
-**Material application:** Adarand's requirement of a justified response to concrete practicable alternatives, applied with Croson's evidentiary demands and Hopwood's fitted-repair principle, requires attention to measures addressing the actual problem. The record identifies procurement information, financing, bonding, payment and discriminatory-treatment obstacles. The County's limited technical and financial assistance and conclusory treatment of alternatives do not show serious assessment of responsive neutral measures; HBE lacks such consideration. Flexibility, waivers, annual review and five-year continuation review cannot supply the missing inquiry. The possibility that an existing BBE program reduced observed disparities matters to evidence, but cannot cure this distinct tailoring defect. The Court therefore need not decide whether the combined racial evidence would otherwise establish a sufficient remedial predicate. It does not constitutionalize a statistical-significance threshold, numerical parity, a requirement of a prior discrimination judgment or a duty to exhaust every possible neutral course.
+**Material application:** Adarand's requirement of a justified response to concrete practicable alternatives, applied with Croson's evidentiary demands and Hopwood's fitted-repair principle, requires attention to measures addressing the actual problem. That inquiry asks whether a concrete, practicable alternative would comparably advance the supported objective with materially less racial disadvantage; government need not accept a less effective measure simply because it uses no racial classification. The record identifies procurement information, financing, bonding, payment and discriminatory-treatment obstacles, and measures directed at those obstacles, which allocate no contract opportunity by race, are concrete, practicable responses to the exclusion the County itself identifies. The County's limited technical and financial assistance and conclusory treatment of alternatives do not explain why such measures would not comparably advance its objective; HBE lacks any such consideration. Flexibility, waivers, annual review and five-year continuation review cannot supply the missing inquiry. The possibility that an existing BBE program reduced observed disparities matters to evidence, but cannot cure this distinct tailoring defect. The Court therefore need not decide whether the combined racial evidence would otherwise establish a sufficient remedial predicate. It does not constitutionalize a statistical-significance threshold, numerical parity, a requirement of a prior discrimination judgment or a duty to exhaust every possible neutral course.
 
 **Treatment of earlier authority:**
 
@@ -23902,7 +23924,7 @@ For this case’s other questions, see Civil Rights (Initial parole and confiden
 - Smith retains neutral, generally applicable rules; Lukumi supplies objective targeting, comparable secular conduct and triggered strict justification. Brown requires the separate religion-specific employment inquiry.
 - Danahy supplies no office-wide merits exception and no retroactive July 1991 notice. NTEU’s broad prospective-restraint burden is not transferred wholesale to this single hiring decision.
 
-For this case’s other questions, see Civil Rights (The actual equality disadvantage requires ordinary constitutional justification; Causation, conduct-date immunity and relief remain independent).
+For this case’s other questions, see Civil Rights (Conduct and hiring labels do not remove a sexual-orientation classification from equality review; Sexual-orientation classifications receive intermediate scrutiny; Causation, conduct-date immunity and relief remain independent).
 
 ### Official university commencement prayer
 
@@ -34219,7 +34241,7 @@ A parent or legal guardian is exempt from every FACE penalty and civil remedy, i
 
 **Present operation effective:** 1998-06-01.
 
-**Exceptions and limits:** No orientation-based scrutiny tier or general defense to otherwise lawful prosecution is created.
+**Exceptions and limits:** The narrow claim creates no scrutiny tier of its own and does not depend on Shahar’s intermediate scrutiny for sexual-orientation classifications. No general defense to otherwise lawful prosecution is created.
 
 **Holdings navigation:** City of Florence v. Chipman / Stemler v. City of Florence — Knowing dangerous restraint and arbitrary selective enforcement.
 
@@ -37506,15 +37528,34 @@ For the full-accommodation route, actual demonstrated interests, abilities and c
 
 **Holdings navigation:** Brown v. Hot, Sexy & Safer Productions, Inc. (1997-02-24) — The pleaded compulsory exposure does not establish the asserted parental-liberty deprivation.
 
+### Intermediate scrutiny for sexual-orientation classifications
+
+**Governing question:** When government action classifies by sexual orientation, and the justification such a classification requires.
+
+**Current rule:** A conduct or hiring label does not remove an adverse civilian employment classification from equal-protection review. Government that disadvantages an individual because of sexual orientation, including through a nominal conduct rule operating as a deliberate status proxy, classifies by sexual orientation. Conduct operates as such a proxy when it is penalized because it reveals or expresses orientation, as when comparable conduct is treated differently or the asserted concern attaches to a relationship’s same-sex character rather than to a professional obligation the conduct implicates. Government that regulates actual conduct because of independently relevant professional obligations is reviewed under the applicable constitutional protections. Sexual-orientation classifications receive intermediate scrutiny: government must demonstrate a genuine, important objective and a substantial relationship between that objective and the actual classification. It bears that burden, and moral disapproval, private bias, stereotype and post hoc or merely conceivable reasons do not carry it. Confidentiality, professional competence, credible representation and workplace administration remain available interests, and prevention need not await disruption, but generalized predictions about gay employees do not show that a particular exclusion substantially serves them, and an assertion of deference is not a showing. Supported professional judgment and reasonable contemporaneous predictions receive substantial but nonconclusive weight; the standard requires neither least restrictive means, an individual exception in every case nor an entitlement to a particular position.
+
+**Authority by component:**
+
+- Conduct and hiring labels, deliberate status proxies and the professional-obligation distinction: Shahar v. Bowers — III-A. Conduct and hiring labels do not remove a sexual-orientation classification from equality review, 1998-03-02; Souter Part III-A with Stone-Zsela, Stevens, Kennedy, Ginsburg and Breyer; six.
+- Intermediate scrutiny, the government’s burden, excluded reasons and the weight of professional judgment: Shahar v. Bowers — III-B. Sexual-orientation classifications receive intermediate scrutiny, 1998-03-02; Souter Part III-B with Stone-Zsela, Stevens, Ginsburg and Breyer; five. Kennedy joins Part III-A but not Part III-B; O’Connor, Scalia and Thomas reject Part III-B.
+
+**Present operation effective:** Shahar, March 2, 1998.
+
+**Exceptions and limits:** The standard is demanding, not an absolute prohibition; experience may suffice without scientific certainty or formal findings. Romer’s ordinary rationality remains valid as a floor for the actual disadvantage. Military decisions sustained under ordinary review stand and are not reopened; their particular rules are assessed under this standard when it materially affects them, and no military inference governs civilian employment. Bowers v. Hardwick’s specified-conduct holding is not reopened. The standard, announced in 1998, does not itself establish fair notice in July 1991; prospective constitutional validity and personal damages liability remain separate.
+
+**Related current rules:** Military statement-based conduct inference and evidentiary use.
+
+**Holdings navigation:** Shahar v. Bowers — Conduct and hiring labels do not remove a sexual-orientation classification from equality review; Shahar v. Bowers — Sexual-orientation classifications receive intermediate scrutiny.
+
 ### Race-conscious local public-contracting preferences
 
 **Governing question:** Constitutional justification and fit for local racial or ethnic contracting classifications.
 
-**Current rule:** Local racial or ethnic contracting preferences must satisfy Adarand's common substantial-justification standard. General inequality, imbalance and good intentions alone are insufficient; a supported local system of exclusion in which the government participates may permit fitted repair without an invariably required prior liability judgment. Before adopting preferences, the government must seriously consider reasonably available race-neutral measures responsive to the identified exclusion and explain their inadequacy; it need not try and exhaust every conceivable measure.
+**Current rule:** Local racial or ethnic contracting preferences must satisfy Adarand's common substantial-justification standard. General inequality, imbalance and good intentions alone are insufficient; a supported local system of exclusion in which the government participates may permit fitted repair without an invariably required prior liability judgment. Under Adarand's alternatives inquiry, the government must seriously consider concrete, practicable alternatives responsive to the identified exclusion, race-neutral or otherwise, and give a supported explanation of why they would not comparably advance its objective with materially less racial disadvantage. Reasonably available race-neutral measures are weighed within that inquiry rather than as a separate prerequisite, and formal neutrality earns them no priority; the government need not try and exhaust every conceivable measure.
 
 **Authority by component:**
 
-- Engineering Contractors Holdings 2–3: application of Adarand's common standard, supported repair and neutral alternatives: Engineering Contractors Association of South Florida v. Metropolitan Dade County — controlling Holdings, 1998-09-21.
+- Engineering Contractors Holdings 2–3: application of Adarand's common standard, supported repair and the alternatives inquiry: Engineering Contractors Association of South Florida v. Metropolitan Dade County — controlling Holdings, 1998-09-21.
 
 **Present operation effective:** 1998-09-21.
 
@@ -38395,18 +38436,19 @@ No numerical deduction threshold, compulsory notice format, universal employer-c
 
 **Governing question:** The §654(b)(2) statement route, construed as a rebuttable conduct-related military personnel inference.
 
-**Current rule:** Under ordinary rational-basis review, a voluntary declaration of homosexual or bisexual identity may be treated as rebuttable evidence of prohibited acts, propensity or intent where propensity means likelihood of acts beyond abstract preference or desire and a genuine rebuttal opportunity exists. The sustained application requires neither a completed act nor individualized operational impairment; it is not a conclusive orientation exclusion. Section 654(b)(2) directs separation after the approved statement finding unless a further approved finding establishes that the member demonstrated no engagement, attempted engagement, propensity or intent to engage in homosexual acts. The First Amendment permits the relevant evidentiary use at that conduct-related scope, without permitting punishment for abstract belief or opposition to the policy.
+**Current rule:** A voluntary declaration of homosexual or bisexual identity may be treated as rebuttable evidence of prohibited acts, propensity or intent where propensity means likelihood of acts beyond abstract preference or desire and a genuine rebuttal opportunity exists; Thomasson sustained that application under ordinary rational-basis review. To the extent the statement rule classifies by sexual orientation or operates as a deliberate status proxy, Shahar’s intermediate scrutiny, not that ordinary review, governs; Thomasson’s judgment stands, the rule is reassessed under that standard when the standard materially affects it, and its conduct-likelihood and genuine-rebuttal requirements remain minimum conditions. The sustained application requires neither a completed act nor individualized operational impairment; it is not a conclusive orientation exclusion. Section 654(b)(2) directs separation after the approved statement finding unless a further approved finding establishes that the member demonstrated no engagement, attempted engagement, propensity or intent to engage in homosexual acts. The First Amendment permits the relevant evidentiary use at that conduct-related scope, without permitting punishment for abstract belief or opposition to the policy.
 
 **Authority by component:**
 
 - Thomasson v. Perry — I. The conduct-related, rebuttable statement inference is constitutional in this application, 1997-06-09; O'Connor with Scalia, Kennedy, Thomas and Breyer; five
 - Thomasson v. Perry — II. The First Amendment permits this relevant evidentiary use of the statement, 1997-06-09; the same five
+- Shahar v. Bowers — III-B. Sexual-orientation classifications receive intermediate scrutiny, 1998-03-02; Souter Part III-B with Stone-Zsela, Stevens, Ginsburg and Breyer; five, supplying the governing scrutiny and the reassessment of military rules it materially affects
 
-**Present operation effective:** Thomasson, 1997-06-09.
+**Present operation effective:** Shahar, 1998-03-02, for the governing scrutiny; Thomasson’s statement-inference and evidentiary-use components retain their 1997-06-09 operation.
 
-**Exceptions and limits:** Section 654(e) permits omission of processing if the military determines both intent to avoid or terminate service and that separation would not serve its best interest; it does not compel omission. The act and marriage routes have distinct predicates and are not adjudicated here. Denial of meaningful rebuttal, an irrelevant inference, an irrebuttable status exclusion or retaliation for advocacy remains distinct. Service excellence is not an automatic defense, and every identity statement is not an admission of an act. No facial validation, civilian-employment rule, new scrutiny tier or investigation checklist follows; independent due-process, APA, directive-validity and substantive-liberty claims remain undecided.
+**Exceptions and limits:** Section 654(e) permits omission of processing if the military determines both intent to avoid or terminate service and that separation would not serve its best interest; it does not compel omission. The act and marriage routes have distinct predicates and are not adjudicated here. Denial of meaningful rebuttal, an irrelevant inference, an irrebuttable status exclusion or retaliation for advocacy remains distinct. Service excellence is not an automatic defense, and every identity statement is not an admission of an act. No facial validation, civilian-employment rule or investigation checklist follows; independent due-process, APA, directive-validity and substantive-liberty claims remain undecided.
 
-**Holdings navigation:** Thomasson v. Perry (1997-06-09) — A genuinely rebuttable conduct inference sustains this statement-based separation; Thomasson v. Perry (1997-06-09) — First Amendment / Military statements as relevant evidence.
+**Holdings navigation:** Thomasson v. Perry (1997-06-09) — A genuinely rebuttable conduct inference sustains this statement-based separation; Thomasson v. Perry (1997-06-09) — First Amendment / Military statements as relevant evidence; Shahar v. Bowers (1998-03-02) — Sexual-orientation classifications receive intermediate scrutiny.
 
 ### Title VII limits on diversity-based selection for layoff
 

@@ -543,7 +543,7 @@ Source: [canonical doctrinal volume](../../../state/holdings/civil-rights.md).
 
 **Proposition-level authority:** The same unanimous opinion controls this narrow selective-enforcement rule, without an orientation-based scrutiny tier.
 
-**Limits and questions not reached:** Perceived orientation supplies the alleged arbitrary selection; no heightened scrutiny tier is adopted. Probable cause, epithets, nonarrest, later acquittal or another person’s characterization alone is insufficient. No duty to arrest every offender, prosecutor-discovery threshold, universal burden sequence or resolution of every personal-animosity claim follows.
+**Limits and questions not reached:** Perceived orientation supplies the alleged arbitrary selection; the narrow claim adopts no scrutiny tier of its own and does not depend on Shahar's intermediate scrutiny for sexual-orientation classifications. Probable cause, epithets, nonarrest, later acquittal or another person’s characterization alone is insufficient. No duty to arrest every offender, prosecutor-discovery threshold, universal burden sequence or resolution of every personal-animosity claim follows.
 
 ##### 4. The narrow arbitrary-selection prohibition predates this encounter
 

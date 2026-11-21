@@ -213,7 +213,7 @@ The prescribed commands completed:
 - The first `python tools/holdings_volumes.py check` identified one extra terminal blank line in the candidate-derived continuous view. A direct comparison confirmed that every nonblank line was identical. `python tools/holdings_volumes.py build` regenerated the continuous view from the volumes, and `python tools/holdings_volumes.py check` then passed.
 - `python tools/build_close_indexes.py OT1999` generated all four indexes from 109 Records. An independent in-memory reproduction matched each generated index exactly.
 
-Candidate comparison confirms that only the three shared metadata fields, line-ending serialization and the single terminal blank line changed. Publication retains 1,320 Holdings entries, 869 Standards entries and sixteen carried matters. No GitHub repository URL occurs in state/, its Holdings volumes or the four generated indexes. All eighteen volumes match the continuous view by section and header.
+Candidate comparison confirms that only the three shared metadata fields, line-ending serialization and the single terminal blank line changed. Publication retains 1,320 Holdings entries, 870 Standards entries and sixteen carried matters. No GitHub repository URL occurs in state/, its Holdings volumes or the four generated indexes. All eighteen volumes match the continuous view by section and header.
 
 The dossier inventories all 104 Court Records and five admissions once each in chronological or effective order. Their hashes and all nine render hashes match the files. Every local dossier link resolves. Independent read-only review confirms metadata, substantive candidate fidelity, volume identity, CRLF, URL absence, source coverage and carry-forward.
 

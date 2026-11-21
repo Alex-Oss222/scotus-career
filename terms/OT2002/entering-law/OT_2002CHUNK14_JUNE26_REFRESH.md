@@ -94,7 +94,7 @@ The dissent's reliance on longstanding prohibition and the continuing criminal p
 
 **Controlling explanation:** Romer requires a rational relationship to the actual disadvantage, while Heller preserves legislative generalizations, conceivable grounds and imperfect fit without formal findings, empirical certainty or a least-restrictive-means requirement. Moreno and Cleburne establish the limits of bare harm and irrational prejudice within that ordinary review. The relevant comparison is the same private, voluntary adult intimacy with different-sex participants. Texas identifies no difference in injury explaining why only these participants receive criminal punishment.
 
-The authority to regulate an act generally does not answer the distinct question why the State adds a penalty for one class. For that reason, the conduct-based morality argument accepted by the dissent does not rationally explain this selective disability. The rule rests on the particular disadvantage and creates no new sexual-orientation tier or universal prohibition on moral interests in legislation.
+The authority to regulate an act generally does not answer the distinct question why the State adds a penalty for one class. For that reason, the conduct-based morality argument accepted by the dissent does not rationally explain this selective disability. The rule rests on the particular disadvantage. Because the selective penalty fails even ordinary review, the Court need not decide whether this same-sex distinction is a sexual-orientation classification subject to Shahar's intermediate scrutiny, and it adopts no universal prohibition on moral interests in legislation.
 
 ## Precedent Treatment
 
@@ -106,6 +106,7 @@ The authority to regulate an act generally does not answer the distinct question
 - Romer v. Evans, 517 U.S. 620: applied to the actual unequal disadvantage under ordinary review; its former preservation of Bowers gives way to Part I's express overruling.
 - Heller v. Doe, 509 U.S. 312: applied to the challenger burden, conceivable grounds and required connection to the actual disadvantage.
 - United States Department of Agriculture v. Moreno, 413 U.S. 528, and City of Cleburne v. Cleburne Living Center, 473 U.S. 432: applied for the ordinary-review limits on bare disadvantage and irrational prejudice.
+- Shahar v. Bowers (March 2, 1998): Part II does not decide whether this same-sex criminal distinction is a sexual-orientation classification subject to its intermediate scrutiny, because the selective penalty fails even ordinary review.
 
 ## Law After Decision
 
@@ -185,7 +186,7 @@ The independent proportionality claim has four votes for invalidation (Stevens, 
 
 **Controlling explanation:** Romer requires a rational relationship to the actual disadvantage; Heller preserves conceivable grounds, reasonable generalizations and imperfect fit without formal findings, empirical certainty or a least-restrictive-means demand. Kansas's own comparison supplies the defect. Section 21-3522 reduces punishment for voluntary intercourse, sodomy or lewd fondling or touching when the child is at least fourteen and under sixteen, the offender is under nineteen and less than four years older, and only those two participate. It assigns severity levels eight, nine and ten respectively, but excludes same-sex participants. Limon's stipulated act satisfies the other reduced-sodomy conditions. His same history produces thirteen to fifteen months there, compared with 206 months imposed under the severity-level-three classification.
 
-Protecting minors, developmental vulnerability and sexual health are legitimate concerns. They do not rationally explain radically greater punishment for this same act, ages, consent, age gap and history solely because both participants are male. Describing the favored category as approved adolescent development restates the distinction rather than explaining its protective connection. Bowers's authority over specified conduct does not answer this separate unequal-mitigation question.
+Protecting minors, developmental vulnerability and sexual health are legitimate concerns. They do not rationally explain radically greater punishment for this same act, ages, consent, age gap and history solely because both participants are male. Describing the favored category as approved adolescent development restates the distinction rather than explaining its protective connection. Bowers's authority over specified conduct does not answer this separate unequal-mitigation question. Because the exclusion fails even ordinary review, the Court need not decide whether this same-sex distinction is a sexual-orientation classification subject to Shahar's intermediate scrutiny.
 
 The statutory age, consent, conduct and two-participant limits remain. Equal treatment concerns eligibility for an enacted reduced offense, not an entitlement to adult-minor sexual conduct. The court on remand must eliminate the exclusion in applying the reduced category unless a genuine state severability obstacle prevents that cure. Any alternative must end Limon's unequal aggravated treatment without retroactively increasing criminal liability. The existing sentencing judgment is vacated now; the State's remedial inquiry cannot preserve it indefinitely.
 
@@ -206,6 +207,7 @@ The state court must begin with the corrected offense and its authorized maximum
 - Romer v. Evans: applied to the actual unequal disadvantage under ordinary rational-basis review, independently of the adult-intimacy question.
 - Heller v. Doe: applied to the challenger burden, conceivable grounds and the requirement of a rational connection to the actual disadvantage.
 - Bowers v. Hardwick: its specified-conduct holding does not resolve unequal eligibility for the enacted close-in-age mitigation.
+- Shahar v. Bowers: Part I does not decide whether this same-sex mitigation exclusion is a sexual-orientation classification subject to its intermediate scrutiny, because the exclusion fails even ordinary review.
 - Apprendi v. New Jersey: extended to the defined maximum-increasing nonjury juvenile predicate that the earlier decision reserved.
 - United States v. Angle: applied to the binding sentencing ceiling rather than the larger outer offense maximum.
 - Harris v. United States and Ring v. Arizona: their element-protection reasoning informs the newly resolved nonjury-predicate question; their distinct present-offense holdings remain intact.

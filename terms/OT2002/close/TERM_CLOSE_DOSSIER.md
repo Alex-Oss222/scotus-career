@@ -36,7 +36,7 @@ All 180 scheduled inventory rows are completed, implemented by 185 canonical Cou
 | [workspace/ledger.md](../workspace/ledger.md) | `89823f8d20648c191c8730ec13e8343b30726eea2df694b73475bb9cb2f875f5` |
 | [workspace/neutral-projection.md](../workspace/neutral-projection.md) | `8940658af542b707139ccfb2ca65ab1da99b5353c7092ee54d72dc79572c026e` |
 | [close/AUDIT.md](AUDIT.md) | `f446624f4cf77c5423ecb000868574f85c068030f262656535941504f15a341c` |
-| [output/OT_2002CHUNK1.md](../output/OT_2002CHUNK1.md) (cross-check only) | `9473f269a1f7225efdf55dbe93732f1c0b823827233a5f5480bf2b6d089741e3` |
+| [output/OT_2002CHUNK1.md](../output/OT_2002CHUNK1.md) (cross-check only) | `3b0347aeb839a5511f5d6abe74bc0938bf08c08d01e9bd3aa4d5a08dd9262673` |
 | [output/OT_2002CHUNK2.md](../output/OT_2002CHUNK2.md) (cross-check only) | `7cd75dfbee31fc7282a0301aa104854b5d6632b6c973c36e403c0f0bf9fb11c3` |
 | [output/OT_2002CHUNK3.md](../output/OT_2002CHUNK3.md) (cross-check only) | `9b5e45d3cbc436bde050aa0c47146f4ad255ff4a561533184bb4de8e502876ba` |
 | [output/OT_2002CHUNK4.md](../output/OT_2002CHUNK4.md) (cross-check only) | `ccff5e4357c252d67922a0def195b1e60f30b7fc1ae1c940fd6eab478bda8f81` |
@@ -49,9 +49,9 @@ All 180 scheduled inventory rows are completed, implemented by 185 canonical Cou
 | [output/OT_2002CHUNK11.md](../output/OT_2002CHUNK11.md) (cross-check only) | `a0f19df50228ed0b959dbc74ed5a5f282d73dc9cab1f7f9433157b2c50683d7e` |
 | [output/OT_2002CHUNK12.md](../output/OT_2002CHUNK12.md) (cross-check only) | `155bd06e68bb21f729372347eec8f03504ace5a1ca01dddc96862583f796c00c` |
 | [output/OT_2002CHUNK13.md](../output/OT_2002CHUNK13.md) (cross-check only) | `c8d84aea7cdb16611682017ef00f6b1f75d36448873f9c6e7ea8a5d2c5459ecd` |
-| [output/OT_2002CHUNK14.md](../output/OT_2002CHUNK14.md) (cross-check only) | `31b8c2ccd82e77c25f13dd783caa4fa23ad74a75b51af0ff6edf1677199cd769` |
+| [output/OT_2002CHUNK14.md](../output/OT_2002CHUNK14.md) (cross-check only) | `6ec5557372c95a5566a54995532f34f61c937c62a274b720643027df0fef6450` |
 | [output/OT_2002CHUNK15.md](../output/OT_2002CHUNK15.md) (cross-check only) | `df7117389beb9c42b9a70bcb85b202fbce92695edbf165b051d4f7b503a13a56` |
-| [render-inputs/OT_2002CHUNK1.md](../render-inputs/OT_2002CHUNK1.md) | `a8ecf6987f6b59e83515b316a3f3718212cc6f63d703e547b87126fc0e0bbdf7` |
+| [render-inputs/OT_2002CHUNK1.md](../render-inputs/OT_2002CHUNK1.md) | `6e721dd3e9073bc1159f094e1ab3389c378e91300e32fab2d3a28e4eb9870bc0` |
 | [render-inputs/OT_2002CHUNK2.md](../render-inputs/OT_2002CHUNK2.md) | `99dd48d53f84a234cdbaf3bf7ba815fc4fa6de0ecd5eb0336ab193f0f589c870` |
 | [render-inputs/OT_2002CHUNK3.md](../render-inputs/OT_2002CHUNK3.md) | `c4872cbc93b77c66d77db51a81185904a29de4dc811f48a4734245a024f07c97` |
 | [render-inputs/OT_2002CHUNK4.md](../render-inputs/OT_2002CHUNK4.md) | `0dadc116a4c4c2deefe5ef5fe38566befb204ab5cb910d5f80f227cbf678d5ed` |
@@ -64,7 +64,7 @@ All 180 scheduled inventory rows are completed, implemented by 185 canonical Cou
 | [render-inputs/OT_2002CHUNK11.md](../render-inputs/OT_2002CHUNK11.md) | `8c8cb397aa52487ba9d64224da3a7629f92e174622e6fcba49d201d2a760a19d` |
 | [render-inputs/OT_2002CHUNK12.md](../render-inputs/OT_2002CHUNK12.md) | `632d8787211215dda04bd29ecabacf071edd83ca13b257d015b9747b04fbf741` |
 | [render-inputs/OT_2002CHUNK13.md](../render-inputs/OT_2002CHUNK13.md) | `28425dca97d41159bc8a76f88b338e791ece84ec87c4b8f6bdfe0878ff61367b` |
-| [render-inputs/OT_2002CHUNK14.md](../render-inputs/OT_2002CHUNK14.md) | `da268f1270628ceda01ab993a002e56e3dfb96ac827d5cdd7453cf551f34aacf` |
+| [render-inputs/OT_2002CHUNK14.md](../render-inputs/OT_2002CHUNK14.md) | `775042f3be98fdbbe1c2f0213fbafc4cd6343cf367499f26463762ec57c92a53` |
 | [render-inputs/OT_2002CHUNK15.md](../render-inputs/OT_2002CHUNK15.md) | `7c6704faa3393aec5eb19855530a6dfe3cbaa095d3a866e1b16701078f000f68` |
 
 ## Canonical Decision Records in effective order
@@ -245,9 +245,9 @@ The following 185 validated Records are the complete Court-event source set inco
 | 2003-06-23 | [United States v. American Library Association, Inc.; No. 02-361; 539 U.S. 194.](../records/United-States-v-American-Library-Association_merits_2003-06-23.md) | `86d5317b70fe9853b89f1535691e6f4417d9317f7ff07d59abef670ddc2db2c2` |
 | 2003-06-26 | [Alkire v. Irving; 330 F.3d 802; Sixth Circuit No. 00-4567.](../records/Alkire-v-Irving_merits_2003-06-26.md) | `f8fe114ea14b3bfa92b81b011e5bf87ceee560b05e1084ec540aa6b745eb0008` |
 | 2003-06-26 | [Cano v. Davis, No. 02-577.](../records/Cano-v-Davis_merits_2003-06-26.md) | `047cf1654baffbeee18659f7590b263e55d1728697c8b875fc0eee36aa21208e` |
-| 2003-06-26 | [Georgia v. Ashcroft, No. 02-182; October Term 2002.](../records/Georgia-v-Ashcroft_merits_2003-06-26.md) | `e370150d58f98a85ead2075b7a1d494743d18236dfe4c2a131fe7f41698d7950` |
-| 2003-06-26 | [Lawrence v. Texas; No. 02-102; 539 U.S. 558.](../records/Lawrence-v-Texas_merits_2003-06-26.md) | `cbf14f64ad66c77734c3ffa093b72db0c52d595ed74d6bd7589b77c6b3f15e25` |
-| 2003-06-26 | [Limon v. Kansas; No. 02-583; Kansas Court of Appeals No. 85,898; District Court No. 00CR36.](../records/Limon-v-Kansas_merits_2003-06-26.md) | `4baf05363901259cbb0a06a453cbde03d698ee66c084f3ee3c98de14226db557` |
+| 2003-06-26 | [Georgia v. Ashcroft, No. 02-182; October Term 2002.](../records/Georgia-v-Ashcroft_merits_2003-06-26.md) | `930b24280451504b043f3f7999cdf8bef1ae2e60965ebe6f7dd005e220d0a4d5` |
+| 2003-06-26 | [Lawrence v. Texas; No. 02-102; 539 U.S. 558.](../records/Lawrence-v-Texas_merits_2003-06-26.md) | `767ce00f41f09935b905bcb7ae55a2b6779901733d44e88ed063694cdf4ecee1` |
+| 2003-06-26 | [Limon v. Kansas; No. 02-583; Kansas Court of Appeals No. 85,898; District Court No. 00CR36.](../records/Limon-v-Kansas_merits_2003-06-26.md) | `485ad628cbd34b4f99b51074f908b2aa8365234731110064cdd772fafa497975` |
 | 2003-06-26 | [Nike, Inc. v. Kasky; No. 02-575; 539 U.S. 654.](../records/Nike-Inc-v-Kasky_jurisdictional_2003-06-26.md) | `2500cdaa705271d7b387d3f6e49f02b44581a348d418fff6cfdbff58745601f2` |
 | 2003-06-26 | [Old Person v. Brown; Ninth Circuit No. 02-35171; October Term 2002.](../records/Old-Person-v-Brown_merits_2003-06-26.md) | `bb9493d2ffb80627f48c1bf516be801ac5659e03fed43e6a10a4b887626d8b58` |
 | 2003-06-26 | [Stogner v. California; No. 01-1757; 539 U.S. 607.](../records/Stogner-v-California_merits_2003-06-26.md) | `c8e7c82ce7db2bb0c09d2c8279ff255f8a852b76571446140e35a83b0a68beee` |
@@ -267,12 +267,12 @@ The Owens documentation-pathway limit recorded during Holdings preparation remai
 
 ## Coordinated candidate preparation
 
-The five Holdings passes cover chunks 1-3, 4-6, 7-9, 10-12 and 13-15 respectively: 43, 37, 39, 38 and 28 Records. Together they admit controlling content from 177 events, with 298 case-and-area entries and 491 question blocks. Standards and Tests was independently derived from the opening register and all 185 Records: 990 opening entries, changes integrated into 42, and 63 additions, yielding 1,053 entries. Standing State supplies the OT2003 nine-member Court, thirteen allotments, unchanged standing referral practice, and five pending matters. The audit validates the completed synchronized candidates.
+The five Holdings passes cover chunks 1-3, 4-6, 7-9, 10-12 and 13-15 respectively: 43, 37, 39, 38 and 28 Records. Together they admit controlling content from 177 events, with 298 case-and-area entries and 491 question blocks. Standards and Tests was independently derived from the opening register and all 185 Records: 991 opening entries, changes integrated into 44, and 64 additions, yielding 1,055 entries. Standing State supplies the OT2003 nine-member Court, thirteen allotments, unchanged standing referral practice, and five pending matters. The audit validates the completed synchronized candidates.
 
 | Staged file removed after verified publication | SHA-256 |
 |---|---|
 | `HOLDINGS.candidate.md` | `239549904b67c0002349bbd67da862498cea14c087245a86cb975688eec709f8` |
-| `STANDARDS_AND_TESTS.candidate.md` | `8f28d24ce486ee7f72c4e4bfde9c63bbb6fbb35e4b85d488c37d83d8c06e74b5` |
+| `STANDARDS_AND_TESTS.candidate.md` | `5be2e4502c1692cf073dac2bc02016656d51cdb2f611f5fbcd24171f908e28fa` |
 | `STANDING_STATE.candidate.md` | `a296e4484f8fcfdb5749e6123b7c675a963fc3d1b89decf1300de1075005b0eb` |
 | `HOLDINGS_PASS1.md` | `71ed89b1bb5f129a8d2711bb068db14447ebba7c7c375baa312ea42c2c8745e9` |
 | `HOLDINGS_PASS2.md` | `10b2d145b363d19b0fae85dc12aeea38765461a07a6de6ab332340ceedd15456` |
@@ -311,17 +311,17 @@ The authorized publication is complete. The following checks passed before stagi
 
 | Published file | SHA-256 | Line endings |
 |---|---|---|
-| [state/HOLDINGS.md](../../../state/HOLDINGS.md) | `0a4554cc6c849cbe26ad8099fed75785db137ca7c638f27472ad4cc355f56000` | CRLF |
-| [state/STANDARDS_AND_TESTS.md](../../../state/STANDARDS_AND_TESTS.md) | `8f28d24ce486ee7f72c4e4bfde9c63bbb6fbb35e4b85d488c37d83d8c06e74b5` | CRLF |
+| [state/HOLDINGS.md](../../../state/HOLDINGS.md) | `ab7e0d6a227afbda00532c487608a2b86f7e69ba0d873b55b97cfceec605733f` | CRLF |
+| [state/STANDARDS_AND_TESTS.md](../../../state/STANDARDS_AND_TESTS.md) | `5be2e4502c1692cf073dac2bc02016656d51cdb2f611f5fbcd24171f908e28fa` | CRLF |
 | [state/STANDING_STATE.md](../../../state/STANDING_STATE.md) | `a296e4484f8fcfdb5749e6123b7c675a963fc3d1b89decf1300de1075005b0eb` | LF |
 | [state/holdings/administrative-law.md](../../../state/holdings/administrative-law.md) | `0d6db29949ae2e06f488928ed4ab0ea58088d387a593f3b2288a48ec5f72a877` | LF |
 | [state/holdings/antitrust.md](../../../state/holdings/antitrust.md) | `51f7f98999d6be9dcbbe7f5fd5df240a76d097e0354ddc067968c90bedec3bea` | LF |
 | [state/holdings/bankruptcy.md](../../../state/holdings/bankruptcy.md) | `1e01810c9d6626174dac4ebc9e422e0e6d70f10be2f0f10e2a9c9043fddbb57f` | LF |
 | [state/holdings/business-and-commercial-law.md](../../../state/holdings/business-and-commercial-law.md) | `93830e959fd3fdb58b15fcea447809fca7789cda157ea5172cbfc9654786e02d` | LF |
-| [state/holdings/civil-rights.md](../../../state/holdings/civil-rights.md) | `a1e59ec5194ebebaa0233df1f31a2f882a0749a82c8cc2736cdea1f3f5e6c515` | LF |
-| [state/holdings/constitutional-structure.md](../../../state/holdings/constitutional-structure.md) | `0667016c93ecb18a5151fab0d9a1563e256e78093745069f479bc2c9086ecd16` | LF |
+| [state/holdings/civil-rights.md](../../../state/holdings/civil-rights.md) | `d8ae452ab7ded88e5f8878350bafee5bf71558528ec158c85c26747bfa62e9a6` | LF |
+| [state/holdings/constitutional-structure.md](../../../state/holdings/constitutional-structure.md) | `5ae5b2aa570c3942f15b26ca3beef07264bdd50c08c39e8e91179599d3ba490e` | LF |
 | [state/holdings/criminal-procedure-investigations.md](../../../state/holdings/criminal-procedure-investigations.md) | `457130cd5bbc01915c22b3a914a1fca0f48f55c87cd534b9d724cb747935d28a` | LF |
-| [state/holdings/criminal-procedure-sentencing-and-capital.md](../../../state/holdings/criminal-procedure-sentencing-and-capital.md) | `c191fa8f329176c52e18b7a4194aabebf9e0712d74e3ea1b5504fb571419fa8a` | LF |
+| [state/holdings/criminal-procedure-sentencing-and-capital.md](../../../state/holdings/criminal-procedure-sentencing-and-capital.md) | `2bc57b54c97c4c959eeffb904f36224b17f7a2918085d9534542c327b28983cb` | LF |
 | [state/holdings/criminal-procedure.md](../../../state/holdings/criminal-procedure.md) | `c0950f14a01d791b07245f0448a25514b670bf7ba99f2e1e4c6327e650bf4921` | LF |
 | [state/holdings/election-law.md](../../../state/holdings/election-law.md) | `9ad6682df09fd92c3a1613c60b9c0e3f210b5b3166c910ea2f28a1254563144b` | LF |
 | [state/holdings/environmental-law.md](../../../state/holdings/environmental-law.md) | `fb2ef8df9e90151fbdf729a9553b68597b5799eadeb059359f4b6fe1b0acba71` | LF |
@@ -331,7 +331,7 @@ The authorized publication is complete. The following checks passed before stagi
 | [state/holdings/federal-courts.md](../../../state/holdings/federal-courts.md) | `886724980ad8a79610bf159f0b2f69d6da67c4e0c2bb4348c479c4e8daedacc2` | LF |
 | [state/holdings/federal-indian-law.md](../../../state/holdings/federal-indian-law.md) | `ea7d1c7550e04cc11a72bba45f93dc3c8d53c16aabf98bde5616173dc9668fc6` | LF |
 | [state/holdings/federal-taxation.md](../../../state/holdings/federal-taxation.md) | `b165b21949d215f73104f2ef70d333a3724e6db252d1fa4e0cb707abc0bdc53f` | LF |
-| [state/holdings/first-amendment.md](../../../state/holdings/first-amendment.md) | `3823c9433cdcaa6441c2da672ba193cba1d7a88408c3c45d8fd4ebbc5bb83c0b` | LF |
+| [state/holdings/first-amendment.md](../../../state/holdings/first-amendment.md) | `7025dbe549fcddc55f0db7d0f57766531d3f4aa83d448556ac4490c62e9d34f1` | LF |
 | [state/holdings/immigration.md](../../../state/holdings/immigration.md) | `37ad32d92cbcc3ff8fb951d89eb4114c47ccde362f6de24240eb86a6dfc38714` | LF |
 | [state/holdings/INDEX.md](../../../state/holdings/INDEX.md) | `c7ad11463c78e27ca07972fa2314ea714afa0b899c5addf2df4b4e1eaf78b87c` | CRLF |
 | [state/holdings/labor-and-employment.md](../../../state/holdings/labor-and-employment.md) | `0006429d16bcc86d10831298adb1c9371c8387298bdde2e09ba29fb150105c86` | LF |

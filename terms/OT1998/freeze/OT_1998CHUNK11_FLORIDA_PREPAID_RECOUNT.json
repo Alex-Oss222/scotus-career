@@ -246,9 +246,9 @@
       "authors": [
         "Ginsburg"
       ],
-      "source_sha256": "43808a1195e7cb9d3a108b48faec24caf2c2b35031c2ff4148bd1db659d45f34",
+      "source_sha256": "7c4ff3aef30413fe99715c89b364c1308d59c56488e3e111271b3dd77569e019",
       "author_evidence": [
-        "| Opinion of the Court | Ginsburg | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Breyer | Court, seven, on all components | Ordinary rationality, fitted equitable relief, dependent fee consequence and all limits. |"
+        "| Opinion of the Court | Ginsburg | Stone-Zsela, Stevens, Souter, Breyer; O'Connor and Kennedy join Parts II, III and IV | Court, seven, on all components; five on Part I | Part I (Shahar's intermediate scrutiny applied to Article XII's sexual-orientation classification) has Stone-Zsela, Stevens, Souter, Ginsburg and Breyer; Parts II (ordinary rationality, independently), III (fitted equitable relief) and IV (dependent fee consequence), with all limits, have those five and O'Connor and Kennedy. |"
       ]
     },
     {
@@ -1551,7 +1551,7 @@
       "authors": [
         "Kennedy"
       ],
-      "source_sha256": "d1475b8c5c8480ce95ccada4a2c39f7eef8f0e4a657ce8d3c11f9d78755f83e8",
+      "source_sha256": "12afd8b17ee205d590e1b858345819467d70e6e2fbed6fa066bf9d6a4b3fbbd7",
       "author_evidence": [
         "| O'Connor | Affirms both. Joins complete lead opinion: independent racial connection and fit failures; separate sex-predicate failure. | Engineering Contractors opinion and concurrence require relevant opportunity proof and fit; Kelley/Klinger keep sex separate. Neither prior liability nor resistance nor exhaustion of every alternative is required. No historical merits vote is inferred. |",
         "| Thomas | Affirms both; joins complete lead opinion. | His actual Engineering Contractors affirmative-remediation join remains bounded; general reputation supplies no categorical ban. Good intentions do not establish fit; Kelley/Klinger preserve separate sex review. No historical merits vote is inferred. |",
@@ -1583,7 +1583,7 @@
       "authors": [
         "Breyer"
       ],
-      "source_sha256": "a81e507dad3e18ebfdfc4609a9c456de235761eea210f6c0d5966cbed21f5785",
+      "source_sha256": "7bd77fd4205042a76f6c9a6617e50a6da8501a4aeeac1f46a927a9611e0a0b3d",
       "author_evidence": [
         "| Opinion of the Court, Part I-A | Breyer | Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg: statutory nondeath consequence of actual deadlock; Stone-Zsela agrees with that disposition only |",
         "| Opinion of the Court, Part I-B | Breyer | All eight other Justices: no universal deadlock-instruction formula |",
@@ -1610,7 +1610,7 @@
       "caption": "Maryland v. Dyson",
       "qualifying": false,
       "authors": [],
-      "source_sha256": "c6462ceed17c8fb49307d09b38472193f4ac6b9b8bb4643045d4c55533bf9454",
+      "source_sha256": "76a9da989328a90ce27f2e6f5c3dd1151fe194177e2cdc2b58a50973199be242",
       "author_evidence": []
     },
     {
@@ -1726,7 +1726,7 @@
       "authors": [
         "Souter"
       ],
-      "source_sha256": "975e80978d6e4405daff023e6a3e8186a19fd949b561af7a5ee4d49b695c6ece",
+      "source_sha256": "ab90c2458ffbe17cfe92b8d330101a7ce29225dadf6e222f124fd7b01d105ff6",
       "author_evidence": [
         "| Opinion of the Court, Part I — review, distinct proceedings and express statutory authorization | Souter | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer; unanimous. |",
         "| Opinion of the Court, Parts II–III — constitutional state-forum rule and reversal/remand | Souter | Stone-Zsela, Stevens, Ginsburg and Breyer; five Justices including the author. |",
@@ -1742,7 +1742,7 @@
       "authors": [
         "Stone-Zsela"
       ],
-      "source_sha256": "ec9690e000a003200850cef2bfbab3610fb96de057b1ede38739710d10e97957",
+      "source_sha256": "b0475e0239e1c18da80ba4d55eb1eb217eb7e54a0f58388c9b5396ce05bf6c0f",
       "author_evidence": [
         "| Opinion of the Court, Part I | Stone-Zsela | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Unanimous statutory clarity and separation of authorization, power, consent, liability and relief; no common affirmative amenability ground. |",
         "| Opinion of the Court, Part II | Stone-Zsela | O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Eight directly reject this own-product-advertising §5 justification, with Boerne prevention and property qualifications intact. Stevens refuses this part. |",

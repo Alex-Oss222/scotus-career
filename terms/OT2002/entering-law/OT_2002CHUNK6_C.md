@@ -159,7 +159,7 @@ Supported curtailment of an identified person's local recreational or aesthetic 
 
 **Present operation effective:** 1998-06-01.
 
-**Exceptions and limits:** No orientation-based scrutiny tier or general defense to otherwise lawful prosecution is created.
+**Exceptions and limits:** The narrow claim creates no scrutiny tier of its own and does not depend on Shahar’s intermediate scrutiny for sexual-orientation classifications. No general defense to otherwise lawful prosecution is created.
 
 **Holdings navigation:** City of Florence v. Chipman / Stemler v. City of Florence — Knowing dangerous restraint and arbitrary selective enforcement.
 

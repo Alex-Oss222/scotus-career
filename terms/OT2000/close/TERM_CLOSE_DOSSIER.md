@@ -48,7 +48,7 @@ The existing line-ending convention is preserved for every state file: HOLDINGS.
 | [Final continuity](../workspace/continuity.md) | `65010b93a64446e1fc0b78ac5ffb8d58ba7a4b873d0d6c8aa7e7020794fd8591` |
 | [Neutral projection](../workspace/neutral-projection.md) | `7ae478e9091a71bb2c223ff2202d98d6190dd3b1e756c72703fb4caa48daa9f5` |
 | [Ledger](../workspace/ledger.md) | `b3a0bad686ccd1663b71e117f56eee863d5c38b7dad9b476e8ce7aba4fc0de06` |
-| [Confirming audit](AUDIT.md) | `d76085679261e403cc5bc9920b5241a49b7b18bb1f27533c48e161aa69310685` |
+| [Confirming audit](AUDIT.md) | `67d13f0998ceb2df7fad44c49c53c3c26d2f3ae1c1add88008426872fd237dd2` |
 
 ## Court-event Records in chronological order
 

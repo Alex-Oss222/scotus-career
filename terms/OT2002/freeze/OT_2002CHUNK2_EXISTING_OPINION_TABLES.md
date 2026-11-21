@@ -102,7 +102,7 @@ Stone-Zsela delivered the opinion of the Court, joined in full by Stevens, Soute
 | Part I | All nine | Live original-plan controversy; continuing intervention dispute; Rule 24 permits and supports the intervention ordered here. |
 | Part II: common propositions | All nine | Lawful benchmark comparison; State's ordinary burden; numerical majorities, statewide averages, and legislators' approval are evidence rather than conclusive tests; percentage reduction alone is not retrogression. |
 | Part II: effective electoral choice, influence, and application | Stone-Zsela, Stevens, Souter, Ginsburg, Breyer | Dependable electoral opportunity must be preserved; diffuse influence cannot compensate for its loss; this record supports denial. |
-| Part III | Stone-Zsela, Stevens, Souter, Ginsburg, Breyer | Rejection of the as-applied enforcement-power objection. |
+| Part III | Stone-Zsela, Stevens, Souter, Ginsburg, Breyer | Section 2 of the Fifteenth Amendment supplies the preventive preclearance power; rejection of the as-applied enforcement-power objection; an application defended as Fourteenth Amendment enforcement requires independent justification under Boerne. |
 | O'Connor's concurrence in part and dissent | O'Connor, Scalia, Kennedy, Thomas | Would vacate only the original-Senate denial for a broader influence comparison; would reserve the constitutional question. |
 
 ## INS-v-Ventura_certiorari-grant_2002-11-04.md

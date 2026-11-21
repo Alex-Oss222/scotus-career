@@ -1654,7 +1654,7 @@ The stop, gun discovery, arrests, warrants, physical evidence and statements ret
 
 ### Equality Foundation of Greater Cincinnati, Inc. v. City of Cincinnati — 1998-12-03
 
-The matter returns through the Sixth Circuit for declaratory and injunctive protection against the unconstitutional charter barrier, conformity of the injunction to the violation and applicable severability, and remaining lawful §1988 review. The rational-basis merits are resolved. No new code, damages, fixed fee award or additional Supreme Court event is ordered.
+The matter returns through the Sixth Circuit for declaratory and injunctive protection against the unconstitutional charter barrier, conformity of the injunction to the violation and applicable severability, and remaining lawful §1988 review. The equal-protection merits are resolved. No new code, damages, fixed fee award or additional Supreme Court event is ordered.
 
 [Public mandate](../entering-law/equality_foundation_v_cincinnati_merits_1998-12-03.md#procedure-after-action).
 
@@ -2046,7 +2046,7 @@ In Part B, Stevens, Souter and Ginsburg additionally conclude that no warrant, p
 
 Scalia dissents, joined by Thomas. They would affirm the merits judgment, dissolution of the injunction and dependent fee vacatur. They accept that Article XII reaches ordinary nondiscrimination protection and that municipalities remain subject to equal protection. In their view, regulatory restraint, limited resources, private association and the electorate's authority to make a local policy durable rationally support the measure despite imperfect coverage. Higher-level and generally applicable remedies remain available, and a local body's control over its own delegated policies differs from Colorado's restriction of state and local channels.
 
-The dissent maintains its disagreement with Romer's application of ordinary rationality and proposes the municipal distinction as an additional limit. It does not claim Romer's majority adopted that reasoning or that every affected protection is a quota. O'Connor's Coalition writing supplies support for withdrawal of optional policies, while Hurley preserves actual expression; neither is treated as making every orientation protection unlawful. The dissent rejects a new racial political-process extension and finds no duty to adopt or preserve these municipal protections. Its fee position follows its merits conclusion only and supplies no separate bar to a fee award resting on an independently established surviving basis.
+The dissent maintains its disagreement with Romer's application of ordinary rationality, adheres to the Shahar dissent's view that ordinary rationality rather than intermediate scrutiny governs sexual-orientation classifications and so rejects Part I, and proposes the municipal distinction as an additional limit. It does not claim Romer's majority adopted that reasoning or that every affected protection is a quota. O'Connor's Coalition writing supplies support for withdrawal of optional policies, while Hurley preserves actual expression; neither is treated as making every orientation protection unlawful. The dissent rejects a new racial political-process extension and finds no duty to adopt or preserve these municipal protections. Its fee position follows its merits conclusion only and supplies no separate bar to a fee award resting on an independently established surviving basis.
 
 [Published opinion topology](../entering-law/equality_foundation_v_cincinnati_merits_1998-12-03.md#opinion-topology).
 

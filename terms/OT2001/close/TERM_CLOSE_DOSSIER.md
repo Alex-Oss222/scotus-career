@@ -35,7 +35,7 @@ All 127 scheduled events are completed; no scheduled inventory item remains open
 | [workspace/continuity.md](../workspace/continuity.md) | `0adf98ce6902dc91a6d944eb981e026baf2e26e1bf4108091c5f86b51bbfa860` |
 | [workspace/ledger.md](../workspace/ledger.md) | `c27733db1514e0e68083d7be23d15ca87004b9e23e6a16cc72977fbc6657ea13` |
 | [workspace/neutral-projection.md](../workspace/neutral-projection.md) | `9c307a6af06cdf1655f334412febc31b2e17cb5a9f319c0b3867d305ad9bb578` |
-| [close/AUDIT.md](AUDIT.md) | `510efefb83af0dd61ba9194dd33934da32ddbcbd9096d12267008a8daae9c842` |
+| [close/AUDIT.md](AUDIT.md) | `d1e98368048e933bccf618481c54bcfec63514bdd98ac1aed26c2bd436b4f562` |
 | [Chunk 1 public render](../output/OT_2001CHUNK1.md) (cross-check only) | `da9bab92ca1469683681e08279a922dfec16f7fe955cc0c1b2de65d444059b93` |
 | [Chunk 2 public render](../output/OT_2001CHUNK2.md) (cross-check only) | `a3579352c9df37c38a75919e49b48ede47d12b1afcabb4ded81aa52629a0f35f` |
 | [Chunk 3 public render](../output/OT_2001CHUNK3.md) (cross-check only) | `8010905c6979166b6f1bd90d6f843303812f06322a125a02f889811222d2086e` |
@@ -189,7 +189,7 @@ The OT2002 Standing State retains all nine Justices, all 13 circuit allotments u
 
 The candidates retain their audited substantive text. Publication changes the three common header values to those at the beginning of this dossier. The deterministic Holdings compatibility rebuild also removes one extra terminal empty line; no doctrinal text changes. Standing State already supplies the OT2002 setting. The Holdings index receives the same header update, and the 23 volumes are mechanically split from the published continuous view. No GitHub repository URL is added to any tracker, volume or generated index.
 
-Holdings contains the controlling propositions from 123 events; four dismissals as improvidently granted add no holding. The Standards candidate contains 990 entries. The pass notes and the final audit document their independent derivation and reconciliation.
+Holdings contains the controlling propositions from 123 events; four dismissals as improvidently granted add no holding. The Standards candidate contains 991 entries. The pass notes and the final audit document their independent derivation and reconciliation.
 
 | Staging file scheduled for cleanup | Prepublication SHA-256 |
 |---|---|

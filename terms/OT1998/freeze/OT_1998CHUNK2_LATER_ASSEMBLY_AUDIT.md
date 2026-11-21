@@ -22,7 +22,7 @@ None within this scope. The Parker completeness and source-precision repairs des
 
 ## Scope conclusions
 
-No other concrete substantive defect was found. Equality preserves the seven-to-two merits and fee components, restores protection against the unconstitutional barrier while fitting the injunction under applicable severability law, and leaves lawful fee calculation questions open. It does not manufacture a fee amount, independent Ohio severability conclusion, heightened scrutiny or facts about every voter.
+No other concrete substantive defect was found. Equality preserves the seven-to-two merits and fee components, restores protection against the unconstitutional barrier while fitting the injunction under applicable severability law, and leaves lawful fee calculation questions open. Its five-Justice Part applies Shahar's intermediate scrutiny, and it does not manufacture a fee amount, independent Ohio severability conclusion, a new scrutiny tier or facts about every voter.
 
 Mosley preserves the exact grant-vacatur and petition-dismissal action, leaves the Third Circuit judgment undisturbed, reaches no offense-elements or survivor-rights question, and publishes no tally or individual votes. Its short per curiam form counts no signed lead.
 

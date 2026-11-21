@@ -157,11 +157,11 @@ The appended hash receipt fixes the bytes of the authorized freezes, law copies 
 |---|---|
 | `freeze/OT_1998CHUNK10_JONES_VALIDATED_NEUTRAL.md` | `670d7a8d5918ee83e9531eb3e9f3166967ec7d5cf6c2f113bfb2157885c154e6` |
 | `freeze/OT_1998CHUNK10_JONES_CLOSING_NEUTRAL_ADDENDUM.md` | `995302a4690c349bce5abd6e04752971e3520bb19aca472b04269c8d3bdff9e9` |
-| `freeze/OT_1998CHUNK10_JONES_COMMITMENTS.md` | `1202428e8d806e02a562c425efa07a927debdf4cbe51613092e31acfe8e3189f` |
-| `freeze/OT_1998CHUNK10_JONES_COMMITMENTS_CLOSING_REFRESH.md` | `5f2d873edd3ff569ff84f71461d32bb43b7b9de8d50ddc608098793c00062f3f` |
-| `freeze/OT_1998CHUNK10_JONES_RECONCILIATION_SOURCE_HANDOFF.md` | `de59e938b8c3d1e588e6263bd82322aa1e82493ead13771ca84d2a36b33d7ca1` |
-| `entering-law/OT_1998CHUNK10_B_SELECTED_HOLDINGS.md` | `4856e0635b69690865fcd06b4ca8692924e024fac6471b27b6cbbc086d264418` |
-| `entering-law/OT_1998CHUNK10_B_STANDARDS.md` | `7faaeb39b446b16f028fc9bc67a82592490a9fc46616b64fbb573678eb3972d7` |
+| `freeze/OT_1998CHUNK10_JONES_COMMITMENTS.md` | `ffb839fddb507604367209eaf4780c6dda667257218edbe648db5872e96c1c7e` |
+| `freeze/OT_1998CHUNK10_JONES_COMMITMENTS_CLOSING_REFRESH.md` | `83973465c000fbd51966e0b7b0979a4b4f013c30477411e0c2502c30a1208a22` |
+| `freeze/OT_1998CHUNK10_JONES_RECONCILIATION_SOURCE_HANDOFF.md` | `ac2950ce49420ab03f008b7d1f00886ff175d2a84f058b4f7422b347f6d8385e` |
+| `entering-law/OT_1998CHUNK10_B_SELECTED_HOLDINGS.md` | `a56f62277428aa3e3d4e8854e824c6b9b3751666b2ced081480fd2c3b8172d56` |
+| `entering-law/OT_1998CHUNK10_B_STANDARDS.md` | `b14d3343a8ece3faadaf6ca51175c8da366fad33213de14d531de037f57b8dd3` |
 | `entering-law/OT_1998CHUNK10_B_CURRENT.md` | `09c290b7b0d69af840b6ee71e596d36b4ff07c9606465d00e3cdeaf850547be5` |
 | `entering-law/west_v_gibson_merits_1999-06-14.md` | `61fe69c95a36eb06b44dfb05cc40e195588e0516d6e18235ece9f160cac183a4` |
 | `entering-law/schleifer_v_city_of_charlottesville_merits_1999-06-15.md` | `a7fc7382d31ac3a7ae81453b18c0ebb9f0f95c504be60c413632cfb5c0bac7da` |
@@ -169,7 +169,7 @@ The appended hash receipt fixes the bytes of the authorized freezes, law copies 
 | `entering-law/nasa_v_flra_merits_1999-06-17.md` | `ae01444246f5258ac29a98f4924b01da427bc6fb7fb5b54a78ac4abc432e094e` |
 | `entering-law/strickler_v_greene_merits_1999-06-17.md` | `82a9f4a16de6cdb120635d8d8e72392a07efe741bb4c896a5f8e484f19882ee7` |
 | `entering-law/valdespino_v_alamo_heights_independent_school_district_merits_1999-06-17.md` | `f85b9b9c6013264743a71296d59c279a8d41198938c814dedaeb79c051687a5e` |
-| `entering-law/city_of_dallas_v_dallas_fire_fighters_association_merits_1999-06-18.md` | `d27a85c6c6142253acfd9539ee1423c8d5e70bee78b5945f4f95085f75cf8e4e` |
+| `entering-law/city_of_dallas_v_dallas_fire_fighters_association_merits_1999-06-18.md` | `0bd0fea0349f35e1a1a4f8ed1354bb9d56030f6c8094ffced833fcb59a31ce1a` |
 | `research/JONES_FRESH_HISTORICAL_SYLLABUS.txt` | `0e744ed30c1f308499394517b38bcbea3bfd34ff321fc31851cf75c3498b32e6` |
 | `research/JONES_FRESH_HISTORICAL_COURT.txt` | `6f36b177e37bea425706ef971850602d86964d0bdb7625945c24bbda38ae645c` |
 | `research/JONES_FRESH_HISTORICAL_DISSENT.txt` | `160647d1c4d1caf25d0d3d1d13c661cfe97f2e0c3134f7c9133b3cfd9c8af850` |

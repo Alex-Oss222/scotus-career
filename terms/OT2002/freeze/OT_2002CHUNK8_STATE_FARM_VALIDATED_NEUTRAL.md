@@ -150,6 +150,6 @@ Every source-only section from the supplied handoff is copied below by script. Q
 Input handoff SHA-256: `f74474963a21d9f3fad1d6b0790daf4d51929e76d1c1065d938c6d2677ebbffa`. All 11 source-only sections are preserved exactly and in their supplied order.
 
 - Preserved `OT_2002CHUNK8_A_NEUTRAL.md`: `c5bd4ac4fe2df243c41f2673c2f7ce2c7bc7dcc1303f78f393c47bdc132ec97d`.
-- Preserved `OT_2002CHUNK8_A_PREFLIGHT.md`: `92fe041a33e8e75785856307a8b073030b417777ee0ab84731cfb78226ea16a7`.
+- Preserved `OT_2002CHUNK8_A_PREFLIGHT.md`: `a77d24f7872be89ddb0885954fa724dff62f6657713472028405fe012a8df31b`.
 
 The prior frozen files and source handoff have the same hashes after preparation. No source-original research or excluded material was used for this validation.

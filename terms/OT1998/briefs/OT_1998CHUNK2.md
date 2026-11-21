@@ -518,7 +518,7 @@ Card issuer argues financial inability and gambling dependence imply fraudulent 
 
 ### Issue 1: The actual Romer rule
 
-* **Controlling Simulated Law:** Romer (May 20, 1996) invalidates broad withdrawal and constitutional foreclosure of ordinary protection for the named orientation class under rational-basis review. It does not adopt a new scrutiny tier or a universal right to legislation at each level.
+* **Controlling Simulated Law:** Romer (May 20, 1996) invalidates broad withdrawal and constitutional foreclosure of ordinary protection for the named orientation class under rational-basis review. It does not adopt a new scrutiny tier or a universal right to legislation at each level. Shahar v. Bowers (March 2, 1998) holds that a conduct or relationship label does not remove a sexual-orientation classification from equality review and that sexual-orientation classifications receive intermediate scrutiny: the government must establish a genuine important objective and a substantial relationship between that objective and the actual classification. Romer’s rational-basis invalidation remains an independent ground.
 * **Current Reusable Doctrine:** Article XII has a narrower territorial reach but operates across the City’s own public and private regulatory fields. Higher-level access matters to scope; it does not establish a municipal exemption from equal protection.
 * **Other Governing Law:** Fourteenth Amendment; Cleburne; Moreno; Heller v. Doe (1993).
 
@@ -535,7 +535,7 @@ Card issuer argues financial inability and gambling dependence imply fraudulent 
 
 ## D. LAWFUL PATHS AND UNCERTAINTY
 
-The court must compare the actual operation to Romer, not simply count governmental levels. A valid distinction requires a legitimate connection between this breadth and the proffered objectives; relief does not require enactment of a new antidiscrimination code.
+The court must compare the actual operation to Romer, not simply count governmental levels. A valid distinction requires a legitimate connection between this breadth and the proffered objectives; where Article XII classifies by sexual orientation, Shahar also requires the City to establish a genuine important objective and a substantial relationship. Relief does not require enactment of a new antidiscrimination code.
 
 ## E. SOURCES
 
@@ -564,10 +564,10 @@ The court must compare the actual operation to Romer, not simply count governmen
 ### Issue 1: Equal protection
 
 * **Threshold and Merits Reach:** Decide the preserved question within this proceeding; the proposed result is a position, not an entered Court judgment.
-* **Question Stone Resolves:** Is municipal scale a sufficient distinction from Romer?
-* **Stone's Legal Position:** Article XII fails the ordinary rational-basis inquiry applied in Romer.
-* **Stone's Proposed Holding:** Article XII fails the ordinary rational-basis inquiry applied in Romer.
-* **Essential Reasoning and Record Application:** The relevant breadth is the range of civic transactions and governmental functions closed to the named class, not only the geographic size of the sovereign. Article XII reaches municipal employment as well as housing, public accommodations and private employment regulation, and bars future targeted protection regardless of the harm shown. Access to the Ohio legislature does not explain why this group alone must bypass ordinary city government. The saving of administrative costs is real but would justify eliminating any protected class’s remedy; it supplies no rational explanation for this comprehensive selective disability. Associational freedom may justify tailored exceptions, but cannot explain restrictions on the City’s own conduct or every possible future remedy. Romer requires that actual fit without demanding proof of each voter’s motive.
+* **Question Stone Resolves:** Does Article XII survive Shahar’s intermediate scrutiny, and is municipal scale a sufficient distinction from Romer?
+* **Stone's Legal Position:** Article XII classifies by sexual orientation and fails Shahar’s controlling intermediate scrutiny; independently, it fails the ordinary rational-basis inquiry applied in Romer.
+* **Stone's Proposed Holding:** Article XII classifies by sexual orientation and fails Shahar’s controlling intermediate scrutiny; independently, it fails the ordinary rational-basis inquiry applied in Romer.
+* **Essential Reasoning and Record Application:** Article XII names homosexual, lesbian and bisexual orientation and status; its references to conduct and relationships regulate no independently relevant conduct and operate as proxies for the same status. Under Shahar the City must therefore establish a genuine important objective and a substantial relationship between that objective and the actual classification. Moral disapproval, bias, stereotype and merely conceivable or post hoc explanations do not carry that burden, though supported institutional judgment receives substantial but not conclusive weight. The City offers generalized predictions about complaint and defense costs, association and durable local policy, not a showing that categorical, prospective ineligibility for all ordinary municipal protection substantially serves them. Independently, Article XII fails ordinary review. The relevant breadth is the range of civic transactions and governmental functions closed to the named class, not only the geographic size of the sovereign. Article XII reaches municipal employment as well as housing, public accommodations and private employment regulation, and bars future targeted protection regardless of the harm shown. Access to the Ohio legislature does not explain why this group alone must bypass ordinary city government. The saving of administrative costs is real but would justify eliminating any protected class’s remedy; it supplies no rational explanation for this comprehensive selective disability. Associational freedom may justify tailored exceptions, but cannot explain restrictions on the City’s own conduct or every possible future remedy. Romer requires that actual fit without demanding proof of each voter’s motive.
 * **Boundary or Reserved Question:** No new suspect classification, broad political-access fundamental right or decision on the conduct issue reserved by Bowers.
 
 ### Issue 2: Remedy and fees

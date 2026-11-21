@@ -67,7 +67,7 @@ The companion [evidence](OT_1997CHUNK9_ASSIGNMENT_EVIDENCE.json) mechanically co
 | 1998-02-25 | Alaska v. Native Village of Venetie Tribal Government | Stevens | [Record](../records/alaska_v_native_village_of_venetie_tribal_government_merits_1998-02-25.md): topology 159; assignment 74, 115, 117, 123, 125, 129 |
 | 1998-02-25 | National Credit Union Administration v. First National Bank & Trust Co. / AT&T Family Federal Credit Union v. First National Bank & Trust Co. | Stone-Zsela | [Record](../records/national_credit_union_administration_v_first_national_bank_trust_co_merits_1998-02-25.md): topology 280; assignment 49, 86, 116, 221, 235, 237, 243, 245, 249 |
 | 1998-02-26 | Aponte Matos v. Toledo Dávila | Ginsburg | [Record](../records/aponte_matos_v_toledo_davila_merits_1998-02-26.md): topology 203; assignment 10, 102, 156, 158, 164, 166, 170 |
-| 1998-03-02 | Shahar v. Bowers | Souter | [Record](../records/shahar_v_bowers_merits_1998-03-02.md): topology 208; assignment 102, 161, 163, 169, 171, 173, 175 |
+| 1998-03-02 | Shahar v. Bowers | Souter | [Record](../records/shahar_v_bowers_merits_1998-03-02.md): topology 216; assignment 110, 169, 171, 177, 179, 181, 183 |
 | 1998-03-03 | Bogan v. Scott-Harris | Thomas | [Record](../records/bogan_v_scott_harris_merits_1998-03-03.md): topology 158; assignment 77, 114, 116, 122, 124, 128 |
 | 1998-03-03 | Kawaauhau v. Geiger, No. 97-115. | Ginsburg | [Record](../records/kawaauhau_v_geiger_merits_1998-03-03.md): topology 114; assignment 1 |
 | 1998-03-03 | Lexecon Inc. v. Milberg Weiss Bershad Hynes & Lerach | Kennedy | [Record](../records/lexecon_inc_v_milberg_weiss_bershad_hynes_lerach_merits_1998-03-03.md): topology 169; assignment 10, 86, 100, 125, 127, 133, 135, 139 |

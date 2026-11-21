@@ -55,10 +55,10 @@
     {
       "source": "terms/OT1998/entering-law/OT_1998CHUNK6_A_CURRENT_PUBLIC.md",
       "frozen": "terms/OT1998/freeze/OT_1998CHUNK6_A_CURRENT_PUBLIC.md",
-      "sha256": "841ee4d088ef7a407c3e163b92db1000c299f44bd91d72fd6d9cd3a48b6b5ddd",
+      "sha256": "1fda669bb7151ca0391f173bcb2697c0c75b76d061321d8758c86d167d967515",
       "bytes": 53023
     }
   ],
-  "neutral_projection_sha256": "c14ef31e561e110b0d3ee7947d7882f455ee6b6144fba49c890591a1b32e1dbe",
-  "large_tool_generated_slice_sha256": "cf39ce1bf4bfb7b2330b4e853fa4f4e2401dbfb610230045ba73dc119fd1f00b"
+  "neutral_projection_sha256": "853035b903719e66e86483e7f7804387581d4d350337ad8915a9de0a8acce482",
+  "large_tool_generated_slice_sha256": "3afc6dac0c170f919706cb01c77d13b9df41302d2bc88d0c211793b14d63d2ea"
 }

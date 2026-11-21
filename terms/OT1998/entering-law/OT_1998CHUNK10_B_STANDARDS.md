@@ -8,11 +8,11 @@ Derived reading copy only. The cited state files and effective current-term Reco
 
 **Governing question:** Constitutional justification and fit for local racial or ethnic contracting classifications.
 
-**Current rule:** Local racial or ethnic contracting preferences must satisfy Adarand's common substantial-justification standard. General inequality, imbalance and good intentions alone are insufficient; a supported local system of exclusion in which the government participates may permit fitted repair without an invariably required prior liability judgment. Before adopting preferences, the government must seriously consider reasonably available race-neutral measures responsive to the identified exclusion and explain their inadequacy; it need not try and exhaust every conceivable measure.
+**Current rule:** Local racial or ethnic contracting preferences must satisfy Adarand's common substantial-justification standard. General inequality, imbalance and good intentions alone are insufficient; a supported local system of exclusion in which the government participates may permit fitted repair without an invariably required prior liability judgment. Under Adarand's alternatives inquiry, the government must seriously consider concrete, practicable alternatives responsive to the identified exclusion, race-neutral or otherwise, and give a supported explanation of why they would not comparably advance its objective with materially less racial disadvantage. Reasonably available race-neutral measures are weighed within that inquiry rather than as a separate prerequisite, and formal neutrality earns them no priority; the government need not try and exhaust every conceivable measure.
 
 **Authority by component:**
 
-- Engineering Contractors Holdings 2–3: application of Adarand's common standard, supported repair and neutral alternatives: Engineering Contractors Association of South Florida v. Metropolitan Dade County — controlling Holdings, 1998-09-21.
+- Engineering Contractors Holdings 2–3: application of Adarand's common standard, supported repair and the alternatives inquiry: Engineering Contractors Association of South Florida v. Metropolitan Dade County — controlling Holdings, 1998-09-21.
 
 **Present operation effective:** 1998-09-21.
 

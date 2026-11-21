@@ -24,27 +24,27 @@
     },
     {
       "path": "terms/OT1997/freeze/OT_1997CHUNK13_COMMITMENTS_LUCAS_FINAL.md",
-      "sha256": "37eb21dae0e6293a3791f0ed6587524cec734af658dacc28fe6c842da3a05f16",
+      "sha256": "aaea602efa4891b8ea2fc5654d2b94136ad9a0e2d8be893472059485eb1b74b1",
       "bytes": 39183
     },
     {
       "path": "terms/OT1997/entering-law/OT_1997CHUNK13_SEP21_PUBLIC.md",
-      "sha256": "3152168622ac4f2d79bafd3d7ccd9e410e0f39bf04fd673ce1954e7248dc9184",
+      "sha256": "3123fbd2af019a27464543f91ecf4a561b8a0b16aba7bf923916505c9ed06a2d",
       "bytes": 98638
     },
     {
       "path": "terms/OT1997/freeze/OT_1997CHUNK13_SEP28_FINAL_VALIDATION.md",
-      "sha256": "d67ec73b2770efba84338af23ca69d589e795b1d65311d533376ae3a45b47b25",
+      "sha256": "d094155aafb24d876f7bdfe43b4876fe32c6803f6f361486fb2b0c15347541a9",
       "bytes": 9290
     },
     {
       "path": "terms/OT1997/freeze/OT_1997CHUNK13_SEP28_FINAL_SOURCES.json",
-      "sha256": "2128e5404ec9282bca87d1777818bc826270e76d9c1d4f3b039af25c82799a88",
+      "sha256": "5e6287a818d61e530da37ff2709077ce40bb1051b539edf55b8e0213e09b85e8",
       "bytes": 1271
     },
     {
       "path": "terms/OT1997/research/chunk13-neutral-validation/LUCAS_MODEL_FINAL_REFRESH_RECEIPT.md",
-      "sha256": "7c2e68d5a7ba82a7f51ed472916379fd6762dfc88414aee46f7176d9b836e368",
+      "sha256": "6ae9d7a6405a5774fe0bd418d643850c658d9d34a8e3ac97c17cb1e52c8e2ba0",
       "bytes": 5979
     },
     {
@@ -59,7 +59,7 @@
     },
     {
       "path": "terms/OT1997/freeze/OT_1997CHUNK13_RECONCILED_SEP28_FINAL.md",
-      "sha256": "e0e34c4caa8de3970bb6ab2f20cfa7ae5feed69845512cd879a9e7acb9468adf",
+      "sha256": "992b02f6f0173d2f03d10836ab484ec08df1945979a97c5cacd74e64d92ca024",
       "bytes": 14815
     },
     {

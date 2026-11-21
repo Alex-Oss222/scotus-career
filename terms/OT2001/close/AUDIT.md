@@ -32,7 +32,7 @@ The required checker ran first. The remaining checks were independently rerun, a
 | Frozen handoffs | All 37 overlapping commitment copies and 31 reconciliation copies match. The eight previously reviewed neutral-copy differences remain scoped, augmented or index handoffs; they do not override frozen authority or impair runtime-split freshness. |
 | Public Projection identity | All 127 generated event blocks match their authoritative Records. No event is omitted or duplicated. |
 | Links and anchors | All 2,182 local Markdown file/anchor references across 155 Record, Render Input, output, workspace and close files resolve, including staged candidate publication targets. External URLs were outside this local-link check. |
-| Candidate integrity | All 990 distinct Standards entries have the four required core fields. The three publication headers agree. Holdings and Standards retain CRLF; Standing State retains its existing LF. |
+| Candidate integrity | All 991 distinct Standards entries have the four required core fields. The three publication headers agree. Holdings and Standards retain CRLF; Standing State retains its existing LF. |
 | Open matters | Standing State carries Arizona v. California, Kansas v. Colorado and Nebraska v. Wyoming's continuing decree/cost proceedings consistently with the authoritative Records and workspace. All scheduled events are complete. |
 | Standing State and cleanup | The OT2002 roster, seniority, 13 circuit allotments and unchanged referral practice agree with governing sources. The candidate contains only its four permitted substantive sections and three docket carryovers. Three candidates and five pass notes remain appropriate before Commit. |
 

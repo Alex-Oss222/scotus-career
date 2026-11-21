@@ -54,7 +54,7 @@ Hashes identify the copies consulted or incorporated. The original current-proje
 | `freeze/OT_2001CHUNK3_C_PREPARATION.md` | `fbab68bfc95aa720155396ba6d7f1e221d5a8b9e1fb8505697ebe4691e5816f8` |
 | `freeze/OT_2001CHUNK3_C_COMMITMENTS.md` | `4bdf67c21434ac8392ae486a93d995726da100ca7db298077734cedcfd0936de` |
 | `entering-law/OT_2001CHUNK3_B.md` | `1aae059c51830c1d57f5559323c9a502dd59454e7deff5b4225f06e37f49cfa4` |
-| `entering-law/OT_2001CHUNK3_C.md` | `2b3184954f2eedcb9488d304df8920273e0a692efaf054822e6cffd287e3417b` |
+| `entering-law/OT_2001CHUNK3_C.md` | `e560cc81e84b3d8dd9b7ec8cc7c437dda7a132d510c09d75d61e8fe7d75eff99` |
 | `entering-law/OT_2001CHUNK3_BASE.md` | `3c06bca3727589af55190ef60ce9e6f10ab64e3db5321f325204340e83ee8445` |
 | `workspace/neutral-projection.md` | `8416f488f7b41591ea939f2666d292e87d7e9f77cde7cc615bfe52f2dc6f4a84` |
 | `runtime/OT_2001CHUNK3_B_COMPARATOR.md` | `4697ae382120d2b61ffd944649da9637e4f01c644db3cee8264463398d3d54c3` |

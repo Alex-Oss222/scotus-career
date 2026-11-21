@@ -319,7 +319,7 @@ Card issuer argues financial inability and gambling dependence imply fraudulent 
 
 ### Issue 1: The actual Romer rule
 
-* **Controlling Simulated Law:** Romer (May 20, 1996) invalidates broad withdrawal and constitutional foreclosure of ordinary protection for the named orientation class under rational-basis review. It does not adopt a new scrutiny tier or a universal right to legislation at each level.
+* **Controlling Simulated Law:** Romer (May 20, 1996) invalidates broad withdrawal and constitutional foreclosure of ordinary protection for the named orientation class under rational-basis review. It does not adopt a new scrutiny tier or a universal right to legislation at each level. Shahar v. Bowers (March 2, 1998) holds that a conduct or relationship label does not remove a sexual-orientation classification from equality review and that sexual-orientation classifications receive intermediate scrutiny: the government must establish a genuine important objective and a substantial relationship between that objective and the actual classification. Romer’s rational-basis invalidation remains an independent ground.
 * **Current Reusable Doctrine:** Article XII has a narrower territorial reach but operates across the City’s own public and private regulatory fields. Higher-level access matters to scope; it does not establish a municipal exemption from equal protection.
 * **Other Governing Law:** Fourteenth Amendment; Cleburne; Moreno; Heller v. Doe (1993).
 
@@ -336,7 +336,7 @@ Card issuer argues financial inability and gambling dependence imply fraudulent 
 
 ## D. LAWFUL PATHS AND UNCERTAINTY
 
-The court must compare the actual operation to Romer, not simply count governmental levels. A valid distinction requires a legitimate connection between this breadth and the proffered objectives; relief does not require enactment of a new antidiscrimination code.
+The court must compare the actual operation to Romer, not simply count governmental levels. A valid distinction requires a legitimate connection between this breadth and the proffered objectives; where Article XII classifies by sexual orientation, Shahar also requires the City to establish a genuine important objective and a substantial relationship. Relief does not require enactment of a new antidiscrimination code.
 
 ## E. SOURCES
 

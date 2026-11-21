@@ -1,11 +1,11 @@
 [
   {
     "file": "entering-law/OT_2002CHUNK9_A_LAW.md",
-    "sha256": "a4ef538b46bf4f5d29f0ef186fec89f8cfd29bd364d8895a60a5c271fa5aef00"
+    "sha256": "88e4a60aff609ecb15f672a835f143931ce5ae983308476aa238b930bf2c5fec"
   },
   {
     "file": "entering-law/OT_2002CHUNK9_A_OPENING.md",
-    "sha256": "6cc8f79f7807c2dd31dd973457c2dbf57d60a2cce73489ff1e1ada202c83fe84"
+    "sha256": "84cf93cb81eda5d5388c2c85181a442a3082217b8292d91b488b24d67166d0e5"
   },
   {
     "file": "entering-law/OT_2002CHUNK9_A_PUBLIC_BEFORE_2003-04-23.md",
@@ -33,7 +33,7 @@
   },
   {
     "file": "entering-law/OT_2002CHUNK9_B_OPENING.md",
-    "sha256": "5003ad60e454ec5037a61626b0cba28f09c78857a8629e8be5f278eb82fffdf2"
+    "sha256": "18f070f513c5e8215a8ddf9b44b59f5a88ab172b28bcfef01b51bc52c7ce29fd"
   },
   {
     "file": "entering-law/OT_2002CHUNK9_B_PRIOR_PUBLIC.md",
@@ -65,7 +65,7 @@
   },
   {
     "file": "entering-law/OT_2002CHUNK9_C_OPENING.md",
-    "sha256": "1313ffe593012bc2a2029f1fa02bcd8982335aaf5f84424cbd0e640fd26af3b7"
+    "sha256": "65ed39e562ab3b59cd842d123bad8c6e2c492d9e3c7f23aaed73e58f09cf19f7"
   },
   {
     "file": "entering-law/OT_2002CHUNK9_C_PRIOR_PUBLIC.md",
@@ -101,15 +101,15 @@
   },
   {
     "file": "entering-law/OT_2002CHUNK9_PUBLIC_BEFORE_2003-05-05.md",
-    "sha256": "5efaa78694f21b6f89f7d1d6929a3070c075331503ee17008979583f9548da16"
+    "sha256": "36737c088adb21006993431dd82ed38879e6d9272a113c5717173d59aa507f86"
   },
   {
     "file": "entering-law/OT_2002CHUNK9_PUBLIC_BEFORE_2003-05-19.md",
-    "sha256": "1fc6ee81beea9067485a21a41e9bbde76266954ba1e292ba124d02947f8029df"
+    "sha256": "e00240fa7c36e4ec51e68569724de2902757a0f8ee28c52be6926111e0ab5aff"
   },
   {
     "file": "entering-law/OT_2002CHUNK9_PUBLIC_BEFORE_2003-06-02.md",
-    "sha256": "a06b35a87eff0a21a650a20f4f66cbbde5f09af9d0c805b306f07a63f0b531ba"
+    "sha256": "a6faf9ff16dae63fccd558f35d5feab1ba15f89b0e9839a10568cfcafd24065c"
   },
   {
     "file": "freeze/OT_2002CHUNK9_A_SCOPED_COMPARATOR.md",

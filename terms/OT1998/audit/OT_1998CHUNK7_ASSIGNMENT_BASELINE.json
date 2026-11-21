@@ -246,12 +246,12 @@
       "date": "1998-12-03",
       "case": "Equality Foundation of Greater Cincinnati, Inc. v. City of Cincinnati; Sixth Circuit Nos. 94-3855 and 94-3973 (merits), No. 94-4280 (fees); 128 F.3d 289.",
       "event": "Merits decision, 1998-12-03; October Term 1998, chunk 2.",
-      "source_sha256": "43808a1195e7cb9d3a108b48faec24caf2c2b35031c2ff4148bd1db659d45f34",
+      "source_sha256": "7c4ff3aef30413fe99715c89b364c1308d59c56488e3e111271b3dd77569e019",
       "authors": [
         "Ginsburg"
       ],
       "exact_lead_rows": [
-        "| Opinion of the Court | Ginsburg | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Breyer | Court, seven, on all components | Ordinary rationality, fitted equitable relief, dependent fee consequence and all limits. |"
+        "| Opinion of the Court | Ginsburg | Stone-Zsela, Stevens, Souter, Breyer; O'Connor and Kennedy join Parts II, III and IV | Court, seven, on all components; five on Part I | Part I (Shahar's intermediate scrutiny applied to Article XII's sexual-orientation classification) has Stone-Zsela, Stevens, Souter, Ginsburg and Breyer; Parts II (ordinary rationality, independently), III (fitted equitable relief) and IV (dependent fee consequence), with all limits, have those five and O'Connor and Kennedy. |"
       ]
     },
     {

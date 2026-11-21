@@ -9349,7 +9349,7 @@ For this case’s other questions, see Civil Rights (Initial parole and confiden
 - Smith retains neutral, generally applicable rules; Lukumi supplies objective targeting, comparable secular conduct and triggered strict justification. Brown requires the separate religion-specific employment inquiry.
 - Danahy supplies no office-wide merits exception and no retroactive July 1991 notice. NTEU’s broad prospective-restraint burden is not transferred wholesale to this single hiring decision.
 
-For this case’s other questions, see Civil Rights (The actual equality disadvantage requires ordinary constitutional justification; Causation, conduct-date immunity and relief remain independent).
+For this case’s other questions, see Civil Rights (Conduct and hiring labels do not remove a sexual-orientation classification from equality review; Sexual-orientation classifications receive intermediate scrutiny; Causation, conduct-date immunity and relief remain independent).
 
 ### Official university commencement prayer
 
@@ -9827,6 +9827,6 @@ No ultimate liability, damages, reinstatement, restoration of salary, costs, com
 
 **Present operation effective:** 1998-06-01.
 
-**Exceptions and limits:** No orientation-based scrutiny tier or general defense to otherwise lawful prosecution is created.
+**Exceptions and limits:** The narrow claim creates no scrutiny tier of its own and does not depend on Shahar’s intermediate scrutiny for sexual-orientation classifications. No general defense to otherwise lawful prosecution is created.
 
 **Holdings navigation:** City of Florence v. Chipman / Stemler v. City of Florence — Knowing dangerous restraint and arbitrary selective enforcement.

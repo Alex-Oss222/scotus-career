@@ -66,7 +66,7 @@
   "retry_backup": "tmp\\ot1997_chunk13_workspace_backups\\20261025_201741_900631",
   "initial_workspace_sha256": {
     "manifest.md": "9ddf58fd006759822690dd43fd16a0672a8ed5997e8c1ea2e77695295959a672",
-    "ledger.md": "5ff17d47deb6be2c7d9dd81544bf7da551d716a034a470c8f3cefe9112efbc28",
+    "ledger.md": "020ce8f0db450456787316462e8c115bfeaa3cf95afe4753c7eb43ef345e584d",
     "continuity.md": "4c4cf921cb8d4f9532d4152c953b37ea1afa360839e982f14fd0f5f236815100",
     "neutral-projection.md": "3a8fe35b4cf64cc9ddf7b9f8a498c894822845ef74b0fa52278dcfc107f374d1"
   },

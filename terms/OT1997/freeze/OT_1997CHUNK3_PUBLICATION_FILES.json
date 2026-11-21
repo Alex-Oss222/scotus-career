@@ -695,7 +695,7 @@
     {
       "path": "terms/OT1997/freeze/OT_1997CHUNK3_PRESERVATION_CHECK.json",
       "bytes": 1371,
-      "sha256": "3ca07db6396b707db398930cd42b7c0ca34dc945387205f928f6162c2fb2ad29"
+      "sha256": "87e10250bfa8f2da87f38474dde51d1a7e0a08cd330b4a45587cc8c4976d0f6d"
     },
     {
       "path": "terms/OT1997/freeze/OT_1997CHUNK3_PRE_RENDER_CHECK.json",
@@ -2350,7 +2350,7 @@
     {
       "path": "terms/OT1997/workspace/ledger.md",
       "bytes": 77427,
-      "sha256": "5ff17d47deb6be2c7d9dd81544bf7da551d716a034a470c8f3cefe9112efbc28"
+      "sha256": "020ce8f0db450456787316462e8c115bfeaa3cf95afe4753c7eb43ef345e584d"
     },
     {
       "path": "terms/OT1997/workspace/manifest.md",

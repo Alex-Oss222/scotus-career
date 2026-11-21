@@ -22,7 +22,7 @@ Same-day peers retain common entering law. All June 23 handoffs incorporate the 
 
 ## Alden
 
-- [OT_1998CHUNK11_ALDEN_RECONCILED.md](../freeze/OT_1998CHUNK11_ALDEN_RECONCILED.md) — 36342 bytes; SHA-256 `32ad3aad833655993229bf2c3a3ac823c909378ab2f5c68a418036b6e6859107`.
+- [OT_1998CHUNK11_ALDEN_RECONCILED.md](../freeze/OT_1998CHUNK11_ALDEN_RECONCILED.md) — 36342 bytes; SHA-256 `a58a0782256b0785f160cfe6e7fff0c325e3df956927ab097443ddb3aeaab7c4`.
 
 ## College Savings Bank
 
@@ -34,5 +34,5 @@ Same-day peers retain common entering law. All June 23 handoffs incorporate the 
 
 ## Ortiz
 
-- [OT_1998CHUNK11_ORTIZ_RECONCILED.md](../freeze/OT_1998CHUNK11_ORTIZ_RECONCILED.md) — 35555 bytes; SHA-256 `cd3943be8f48c8b537f5ad2a87f6dfb34b19ea6976169894aa291cec0daae46a`.
+- [OT_1998CHUNK11_ORTIZ_RECONCILED.md](../freeze/OT_1998CHUNK11_ORTIZ_RECONCILED.md) — 35555 bytes; SHA-256 `409b506192b565f8d74669dea90979f89c3d520ed3ea98d07bb6fc1a72432f45`.
 

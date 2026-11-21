@@ -507,7 +507,7 @@ Source: `shahar_v_bowers_merits_1998-03-02.md`, Public Projection → Opinion To
 > **Event and date:** Plenary merits decision; 1998-03-02; October Term 1997; chunk 4.
 
 ```text
-| Opinion of the Court | Souter | Stevens, Kennedy, Ginsburg and Breyer | Vacates and remands all four claims | Parts I (association), II (free exercise), III (equal protection) and IV (bounded mandate) have Stevens, Kennedy, Souter, Ginsburg and Breyer; O’Connor also joins Part II and Part IV only as applied to the free-exercise remand |
+| Opinion of the Court | Souter | Stevens, Kennedy, Ginsburg and Breyer; Stone-Zsela joins Parts III-A and III-B | Vacates and remands all four claims | Parts I (association), II (free exercise), III-A (conduct labels and status proxies) and IV (bounded mandate) have Stevens, Kennedy, Souter, Ginsburg and Breyer; Stone-Zsela also joins Part III-A; Part III-B (intermediate scrutiny) has Stone-Zsela, Stevens, Souter, Ginsburg and Breyer; O’Connor also joins Part II and Part IV only as applied to the free-exercise remand |
 ```
 
 ### Bogan v. Scott-Harris; No. 96-1569.

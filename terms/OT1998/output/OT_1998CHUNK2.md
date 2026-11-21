@@ -516,15 +516,31 @@ The Court awards no damages or fee amount and orders no new municipal ordinance.
 
 #### Opinions
 
-Ginsburg delivered the opinion of the Court, joined in full by Stone-Zsela, Stevens, O'Connor, Kennedy, Souter and Breyer. The opinion controls all three holdings below. Scalia filed a dissent, joined by Thomas, seeking affirmance of both the merits judgment and the dependent fee vacatur.
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court, Part I | Ginsburg | Stone-Zsela, Stevens, Souter, Breyer | Court, five | Shahar's intermediate scrutiny applied to Article XII's sexual-orientation classification. |
+| Opinion of the Court, Parts II–IV | Ginsburg | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Breyer | Court, seven, on all components | Ordinary rationality, independently of Part I; fitted equitable relief; dependent fee consequence and all limits. |
+| Dissent | Scalia | Thomas | Would affirm all reviewed components | Municipal policy withdrawal under ordinary rationality; rejects Part I's application of Shahar's intermediate scrutiny; fee vacatur follows the proposed merits result. |
 
 #### Controlling Propositions and Authority
+
+##### Article XII's sexual-orientation classification fails Shahar's intermediate scrutiny
+
+**Operative rule:** Article XII classifies by sexual orientation: it names homosexual, lesbian and bisexual orientation and status, and its accompanying references to conduct and relationships regulate no independently relevant conduct but operate as proxies for the same status. Under Shahar's controlling intermediate scrutiny the City must establish a genuine important objective and a substantial relationship between that objective and the actual classification. It has not shown that categorical withdrawal and prospective prohibition of ordinary municipal protection for the named class substantially serves its fiscal, associational, regulatory or local-policy objectives. The rule does not make every repeal unlawful, require the City to enact a particular protection or treat sexual orientation as a suspect classification.
+
+**Authority:** Part I of the Opinion of the Court described above has Stone-Zsela, Stevens, Souter, Ginsburg and Breyer, five direct joins, and directly adopts this rule, its application and limits. O'Connor and Kennedy join Parts II, III and IV but not Part I; Scalia and Thomas dissent.
+
+**Controlling explanation:** Shahar holds that a conduct or relationship label does not remove a sexual-orientation classification from equality review and that such classifications receive intermediate scrutiny. Article XII withholds protection from persons because of homosexual, lesbian or bisexual orientation or status and attaches conduct and relationships to the same class; it regulates no actual conduct for an independently relevant reason. The City therefore bears the burden of establishing a genuine important objective and a substantial relationship between that objective and the classification it actually drew. Moral disapproval, private bias, stereotype and post hoc or merely conceivable reasons cannot carry that burden. Supported professional and institutional judgment receives substantial but not conclusive weight, and the standard requires neither least restrictive means nor exact fit.
+
+The City invokes complaint and defense costs, private association, regulatory restraint and durable local policy. Fiscal management and genuine associational freedom may be important objectives. But the City relies on generalized predictions about the cost of protecting this class, not a showing that categorical, prospective ineligibility for every form of ordinary municipal protection substantially serves those interests. The cost rationale would equally justify removing any class's remedy and does not explain why this class alone is excluded. Associational concerns may support tailored exemptions; they do not explain the bar on the City's own employment policy or on protection in impersonal commercial settings. Charter durability concerns who decides and for how long, not whether the classification serves an important objective. Access to Ohio's higher government and generally applicable law neither changes the classification nor supplies its justification.
+
+The Court does not hold every repeal of an orientation protection unconstitutional, requires no particular ordinance and adopts neither strict scrutiny nor a suspect classification. Bowers's specified-conduct holding is not reopened. Part II independently holds that Article XII fails even the ordinary rational-basis review applied in Romer.
 
 ##### The municipal class-specific foreclosure fails ordinary rational-basis review
 
 **Operative rule:** Article XII's combined withdrawal of existing sexual-orientation nondiscrimination protection and prospective prohibition of ordinary municipal protection for the named class violates equal protection because its actual breadth bears no rational relationship to the asserted fiscal, associational, regulatory and local-policy interests. Municipal scope, continued general-law remedies and access to higher government do not cure that unexplained selective disability; the rule does not make every repeal unlawful or require the City to enact a particular protection.
 
-**Authority:** The seven-Justice Opinion of the Court described above directly adopts the ordinary rationality rule, application and limits.
+**Authority:** Part II of the Opinion of the Court described above has Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer, seven direct joins, and directly adopts the ordinary rationality rule, application and limits as a ground independent of Part I.
 
 **Controlling explanation:** Romer requires a rational connection between legitimate objectives and the actual class-specific disadvantage. Heller's separate holdings preserve that connection while allowing reasonable generalizations, conceivable grounds and imperfect categories without formal findings, empirical certainty or least restrictive means. Moreno and Cleburne forbid bare harm and irrational prejudice; no finding about every voter's private motive is required.
 
@@ -532,13 +548,13 @@ Local fiscal management, regulatory restraint, private association and durable p
 
 Hurley protects actual private expression; it does not make impersonal services or the City's own conduct categorically expressive association. Those distinct concerns cannot justify this entire public and private reach. Bowers's specified-conduct holding likewise does not explain the broader disability based on orientation or status. No particular expression or religious exemption is adjudicated and Bowers is not overruled.
 
-The City emphasizes that Ohio institutions and general laws remain accessible. Romer already assumed generally applicable protection remained. The relevant breadth is the civic activity excluded from ordinary protection, not simply the number of governmental levels affected. Ordinary repeal remains permissible; the reported concession about repeal is not assent to prospective charter foreclosure. Coalition's distinct racial political-process inquiry supplies neither a heightened orientation standard nor a universal entitlement to favorable legislation. This decision applies ordinary rationality to Article XII's own operation.
+The City emphasizes that Ohio institutions and general laws remain accessible. Romer already assumed generally applicable protection remained. The relevant breadth is the civic activity excluded from ordinary protection, not simply the number of governmental levels affected. Ordinary repeal remains permissible; the reported concession about repeal is not assent to prospective charter foreclosure. Coalition's distinct racial political-process inquiry supplies neither the sexual-orientation standard nor a universal entitlement to favorable legislation. This Part applies ordinary rationality to Article XII's own operation, independently of Part I.
 
 ##### Equitable protection must address the discriminatory barrier without writing municipal law
 
 **Operative rule:** The appellate direction to enter judgment for defendants cannot stand, and declaratory and injunctive protection must be restored against Article XII's unconstitutional ordinary-protection foreclosure. The lower courts must conform the injunction to that common operation and any genuinely independent lawful remainder under applicable severability law, without rewriting the charter federally, imposing a nondiscrimination code or reopening the resolved rational-basis merits.
 
-**Authority:** The same seven-Justice Opinion of the Court directly adopts this remedial holding.
+**Authority:** Part III of the Opinion of the Court, with the same seven direct joins, directly adopts this remedial holding.
 
 **Controlling explanation:** Removing the barrier returns ordinary lawmaking to its lawful operation; it does not require the City to adopt every requested remedy or prevent a lawful policy revision. Romer's relief followed the violation and an authoritative Colorado inseparability determination. This record supplies no corresponding final Ohio severability determination or established autonomous preference-only remainder. The Court therefore neither performs textual severance nor declares every conceivable separate quota restriction invalid.
 
@@ -548,13 +564,14 @@ The remand concerns fitting the injunction to the decided constitutional defect 
 
 **Operative rule:** Because the constitutional merits judgment is reversed and protection against the charter barrier is restored, the dependent vacatur of the plaintiffs' fee award cannot stand on loss of merits success. Their prevailing-party basis on this constitutional claim is restored, while remaining lawful §1988 issues and review of the calculation return to the lower courts; no particular amount is established here.
 
-**Authority:** The same seven-Justice Opinion of the Court directly adopts the fee disposition and its limits.
+**Authority:** Part IV of the Opinion of the Court, with the same seven direct joins, directly adopts the fee disposition and its limits.
 
 **Controlling explanation:** The Sixth Circuit removed the fee award as a consequence of its direction to enter judgment for defendants. The rejection of that merits direction removes the stated basis for erasing the award. It does not decide every statutory fee question or make an earlier contested calculation unreviewable. The lower courts must address those remaining matters in light of the restored constitutional success, separately from conforming the injunction.
 
 #### Precedent Treatment
 
 - Romer v. Evans (May 20, 1996): applies ordinary rationality to the actual withdrawal and prospective foreclosure of class-specific ordinary protection. Municipal scope does not remove that requirement, and Romer's Colorado severability result is not imported into Ohio law.
+- Shahar v. Bowers (March 2, 1998): Part I applies its controlling holdings that a conduct or relationship label does not remove a sexual-orientation classification from equality review and that such classifications receive intermediate scrutiny, with the government's burden. Part II's ordinary-review ground does not depend on that standard.
 - Heller v. Doe: preserves both the actual connection required by its proof-burden holding and the reasonable generalizations accepted in its distinct family-participation holding. A narrower alternative alone does not defeat rationality.
 - Department of Agriculture v. Moreno and Cleburne v. Cleburne Living Center: apply the limits on bare harm and irrational prejudice without a voter-by-voter motive inquiry.
 - Hurley: preserves actual private expressive choice without establishing a universal exemption for ordinary impersonal transactions.
@@ -570,7 +587,7 @@ Article XII cannot enforce its unconstitutional common withdrawal and foreclosur
 
 Scalia dissents, joined by Thomas. They would affirm the merits judgment, dissolution of the injunction and dependent fee vacatur. They accept that Article XII reaches ordinary nondiscrimination protection and that municipalities remain subject to equal protection. In their view, regulatory restraint, limited resources, private association and the electorate's authority to make a local policy durable rationally support the measure despite imperfect coverage. Higher-level and generally applicable remedies remain available, and a local body's control over its own delegated policies differs from Colorado's restriction of state and local channels.
 
-The dissent maintains its disagreement with Romer's application of ordinary rationality and proposes the municipal distinction as an additional limit. It does not claim Romer's majority adopted that reasoning or that every affected protection is a quota. O'Connor's Coalition writing supplies support for withdrawal of optional policies, while Hurley preserves actual expression; neither is treated as making every orientation protection unlawful. The dissent rejects a new racial political-process extension and finds no duty to adopt or preserve these municipal protections. Its fee position follows its merits conclusion only and supplies no separate bar to a fee award resting on an independently established surviving basis.
+The dissent maintains its disagreement with Romer's application of ordinary rationality, adheres to the Shahar dissent's view that ordinary rationality rather than intermediate scrutiny governs sexual-orientation classifications and so rejects Part I, and proposes the municipal distinction as an additional limit. It does not claim Romer's majority adopted that reasoning or that every affected protection is a quota. O'Connor's Coalition writing supplies support for withdrawal of optional policies, while Hurley preserves actual expression; neither is treated as making every orientation protection unlawful. The dissent rejects a new racial political-process extension and finds no duty to adopt or preserve these municipal protections. Its fee position follows its merits conclusion only and supplies no separate bar to a fee award resting on an independently established surviving basis.
 
 #### Source Notes
 
@@ -578,7 +595,7 @@ Article XII is reproduced from the [Sixth Circuit opinion, 128 F.3d 289](https:/
 
 #### Mandate, Remedy, and Stage
 
-The matter returns through the Sixth Circuit for declaratory and injunctive protection against the unconstitutional charter barrier, conformity of the injunction to the violation and applicable severability, and remaining lawful §1988 review. The rational-basis merits are resolved. No new code, damages, fixed fee award or additional Supreme Court event is ordered.
+The matter returns through the Sixth Circuit for declaratory and injunctive protection against the unconstitutional charter barrier, conformity of the injunction to the violation and applicable severability, and remaining lawful §1988 review. The equal-protection merits are resolved. No new code, damages, fixed fee award or additional Supreme Court event is ordered.
 
 **End of entry: Equality Foundation of Greater Cincinnati, Inc. v. City of Cincinnati, Merits decision, December 3, 1998.**
 

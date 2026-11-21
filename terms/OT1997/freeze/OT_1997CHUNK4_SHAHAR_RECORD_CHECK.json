@@ -1,6 +1,6 @@
 {
   "record": "records\\shahar_v_bowers_merits_1998-03-02.md",
-  "sha256": "d9eb0e3958a1c5795f911ba76017d8c59260d489f9f22d9d4247ffd801502320",
+  "sha256": "471db0b63a1301086a40bf86c66d47851014f2c9c61f6039bb79eb4acf5e0b7e",
   "blocks": [
     "Event",
     "Participation",
@@ -18,7 +18,8 @@
   "explanation_words": [
     192,
     145,
-    120,
+    188,
+    188,
     115
   ],
   "assignment": "terms\\OT1997\\freeze\\OT_1997CHUNK4_SHAHAR_ASSIGNMENT.json",

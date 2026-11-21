@@ -13964,7 +13964,7 @@ For this case’s other questions, see Civil Rights (Initial parole and confiden
 - Smith retains neutral, generally applicable rules; Lukumi supplies objective targeting, comparable secular conduct and triggered strict justification. Brown requires the separate religion-specific employment inquiry.
 - Danahy supplies no office-wide merits exception and no retroactive July 1991 notice. NTEU’s broad prospective-restraint burden is not transferred wholesale to this single hiring decision.
 
-For this case’s other questions, see Civil Rights (The actual equality disadvantage requires ordinary constitutional justification; Causation, conduct-date immunity and relief remain independent).
+For this case’s other questions, see Civil Rights (Conduct and hiring labels do not remove a sexual-orientation classification from equality review; Sexual-orientation classifications receive intermediate scrutiny; Causation, conduct-date immunity and relief remain independent).
 
 ### Official university commencement prayer
 

@@ -99,15 +99,27 @@ Source: `state/holdings/civil-rights.md`.
 
 **Decided:** 1998-03-02.
 
-##### The actual equality disadvantage requires ordinary constitutional justification
+##### Conduct and hiring labels do not remove a sexual-orientation classification from equality review
 
-**Holding:** An adverse civilian employment classification does not escape ordinary equal-protection review by being described as conduct-based or as a hiring choice. The actual disadvantage must bear a rational relation to a legitimate governmental interest; no new orientation-based heightened tier is adopted.
+**Holding:** A conduct or hiring label does not remove an adverse civilian employment classification from equal-protection review. Government that disadvantages an individual because of sexual orientation, including through a nominal conduct rule operating as a deliberate status proxy, classifies by sexual orientation. Government that regulates actual conduct because of independently relevant professional obligations is reviewed under the applicable constitutional protections.
 
-**Proposition-level authority:** Opinion of the Court (Souter), Part III: Stevens, Kennedy, Souter, Ginsburg and Breyer. Stone-Zsela’s proposed intermediate scrutiny does not form part of the controlling rule.
+**Proposition-level authority:** Opinion of the Court (Souter), Part III-A: Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg and Breyer; six Justices.
 
-**Limits and questions not reached:** The office’s professional responsibilities and reasonable predictions remain legitimate considerations; the conduct or hiring label alone does not resolve rationality. The decision adopts no heightened orientation tier and no military inference for this civilian ceremony.
+**Material application:** Conduct operates as a status proxy when it is penalized because it reveals or expresses orientation, as when comparable conduct is treated differently or the asserted concern attaches to a relationship’s same-sex character rather than to a professional obligation the conduct implicates. The lower court’s conduct/employment characterization ended its equality analysis without asking which kind of action this withdrawal was. On the plaintiff-favorable record, the asserted concerns could be found to attach to what a same-sex religious commitment ceremony disclosed; no refusal of duties or lawbreaking is established.
 
-**Operative remedy or transition:** Five Justices vacate the equality judgment and remand under ordinary rationality. Stone-Zsela would reverse under intermediate scrutiny; that rationale supplies no part of the controlling instruction.
+**Limits and questions not reached:** Conduct that genuinely conflicts with confidentiality, representation or assigned duties may be regulated on that ground, subject to whatever separate protections it independently carries under other constitutional provisions. The office’s professional responsibilities and reasonable predictions remain legitimate considerations. Bowers v. Hardwick concerns its specified conduct; orientation or the ceremony alone proves no violation, and no military inference governs this civilian ceremony. Which kind of action this withdrawal was returns on remand.
+
+##### Sexual-orientation classifications receive intermediate scrutiny
+
+**Holding:** Sexual-orientation classifications receive intermediate scrutiny. Once government is shown to have disadvantaged an individual because of sexual orientation, including through a deliberate status proxy, it must demonstrate a genuine, important objective and a substantial relationship between that objective and the actual classification; it bears that burden, and moral disapproval, private bias, stereotype and post hoc or merely conceivable reasons do not carry it. Supported professional judgment and reasonable contemporaneous predictions receive substantial but nonconclusive weight, and the standard requires neither least restrictive means, an individual exception in every case nor an entitlement to a particular position. The standard adopted here does not itself establish fair notice in July 1991; prospective constitutional validity and personal damages liability remain separate on remand.
+
+**Proposition-level authority:** Opinion of the Court (Souter), Part III-B: Stone-Zsela, Stevens, Souter, Ginsburg and Breyer; five Justices. Kennedy joins Part III-A and the equality vacatur but not Part III-B. O’Connor, Scalia and Thomas reject Part III-B and would sustain the equality judgment under ordinary rationality.
+
+**Material application:** Romer’s ordinary review excludes bare harm but accepts conceivable reasons, reasonable generalizations and imperfect fit, leaving the challenger to negate them; in Walmer, Thomasson, Richenberg and this withdrawal, conduct, statement, relationship or ceremony labels can let an orientation classification stand on grounds the government need not establish. Adarand’s common standard supplies the method: an important objective and a substantial, evidence-supported relationship to the classification actually used. Confidentiality, professional competence, credible representation and workplace administration remain available interests, and prevention need not await disruption, but generalized predictions about gay employees do not show that a particular exclusion substantially serves them, and an assertion of deference is not a showing. The summary judgment required no such showing.
+
+**Limits and questions not reached:** The standard is demanding, not an absolute prohibition; experience may suffice without scientific certainty or formal findings. Neither Romer nor Virginia already supplied a tier for this classification. Bowers v. Hardwick’s specified-conduct holding is not reopened. The military decisions sustained under ordinary review are not reopened; their particular rules are assessed under this standard when it materially affects them.
+
+**Operative remedy or transition:** Five Justices vacate the equality judgment and remand for application of Parts III-A and III-B; Stone-Zsela joins Part III but would formally reverse that claim and remand under intermediate scrutiny on a developed record, and O’Connor, Scalia and Thomas would affirm. No liability, reinstatement or damages is ordered.
 
 ##### Causation, conduct-date immunity and relief remain independent
 
@@ -122,8 +134,8 @@ Source: `state/holdings/civil-rights.md`.
 **Treatment of earlier authority:**
 
 - Umbehr distinguishes benefit entitlement from unconstitutional retaliation and preserves actual causation and the preponderance same-decision defense.
-- Romer supplies ordinary rationality for the actual disadvantage. Valot keeps that standard distinct from a protected-right penalty and a same-decision defense.
-- Walmer, Thomasson and Richenberg retain their military and conduct-related scope; they do not establish civilian exclusion or a heightened orientation tier. Bowers v. Hardwick is not extended from specified conduct to orientation or a ceremony.
+- Romer’s ordinary rationality remains valid as a floor for the actual disadvantage; it did not itself supply the intermediate tier Part III-B adopts. Valot keeps equality review distinct from a protected-right penalty and a same-decision defense.
+- Walmer, Thomasson and Richenberg retain their military and conduct-related scope and establish no civilian exclusion. Under Part III-B, intermediate scrutiny, not the ordinary review they applied, governs sexual-orientation classifications; their judgments are not reopened, and their particular rules are assessed under that standard when it materially affects them. Bowers v. Hardwick retains its specified-conduct holding and is not extended to orientation or a ceremony.
 - Danahy supplies no office-wide merits exception and no retroactive July 1991 notice. NTEU’s broad prospective-restraint burden is not transferred wholesale to this single hiring decision.
 
 For this case’s other questions, see First Amendment (Private association requires its own protection and employment inquiry; Free exercise cannot be absorbed into a general employee-speech balance).

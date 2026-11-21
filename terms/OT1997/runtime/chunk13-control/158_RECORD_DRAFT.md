@@ -170,7 +170,7 @@ The official 1994 Code supplies the applicable injunctive enforcement grants in 
 
 ## Adaptive audit annex
 
-The complete [final reconciled commitments](../freeze/OT_1997CHUNK13_RECONCILED_SEP28_FINAL.md), SHA-256 `e0e34c4caa8de3970bb6ab2f20cfa7ae5feed69845512cd879a9e7acb9468adf`, adopt the complete [final non-Stone commitments](../freeze/OT_1997CHUNK13_COMMITMENTS_SEP28_FINAL.md). The final validation confirms the actual September 21 refresh. The following individual rows are mechanically copied from that operative handoff:
+The complete [final reconciled commitments](../freeze/OT_1997CHUNK13_RECONCILED_SEP28_FINAL.md), SHA-256 `992b02f6f0173d2f03d10836ab484ec08df1945979a97c5cacd74e64d92ca024`, adopt the complete [final non-Stone commitments](../freeze/OT_1997CHUNK13_COMMITMENTS_SEP28_FINAL.md). The final validation confirms the actual September 21 refresh. The following individual rows are mechanically copied from that operative handoff:
 
 | Justice | Own date-eligible support for the result | Material reservation or join barrier |
 |---|---|---|

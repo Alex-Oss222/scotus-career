@@ -508,7 +508,7 @@ Record and proceedings: Lawrence v. Texas, No. 02-102; citation: 539 U.S. 558.
 
 * **Material Other Authority:** None beyond the authorities identified here.
 
-* **Existing Rule’s Reach:** United States Department of Agriculture v. Moreno and City of Cleburne v. Cleburne Living Center inform ordinary review. The sex-classification theory is an alternative and does not require invention of a new orientation tier.
+* **Existing Rule’s Reach:** United States Department of Agriculture v. Moreno and City of Cleburne v. Cleburne Living Center inform ordinary review. The sex-classification theory is an alternative; whether this same-sex distinction is a sexual-orientation classification subject to the intermediate scrutiny of Shahar v. Bowers is a separate question.
 
 * **Open Point:** Whether child protection, maturity, public health, or moral disapproval rationally explains denying the close-in-age mitigation solely because both participants are male.
 
@@ -558,7 +558,7 @@ Record and proceedings: Lawrence v. Texas, No. 02-102; citation: 539 U.S. 558.
 
 * **Merits Paths, Judgment, and Remedy:** Affirm only if the classification and any reviewable independent sentencing grounds survive. Reverse or vacate on equal protection if the State cannot explain the actual differential treatment, and remand for a lawful nondiscriminatory disposition. Resolve the proportionality preservation question before reaching its merits. Decide the juvenile issue only with the correct sentencing maximum and waiver predicates, rather than assuming a categorical prior-conviction exception to the governing jury rule.
 
-* **Plausible Holding Scope:** The unequal mitigation rule can be invalidated under existing ordinary equality principles without adopting a new orientation tier or extending an adult-intimacy holding to minors. The separate sentencing issues remain fully identified despite a narrower sufficient disposition.
+* **Plausible Holding Scope:** The unequal mitigation rule can be invalidated under existing ordinary equality principles without deciding whether the intermediate scrutiny of Shahar v. Bowers applies or extending an adult-intimacy holding to minors. The separate sentencing issues remain fully identified despite a narrower sufficient disposition.
 
 * **Material Uncertainty:** The contemporaneous appendix is available and supports the factual account and supplemental Apprendi presentation. It does not eliminate the conflict over appellate preservation of the Eighth Amendment objection. The exact remedial choice under Kansas law and any intervening decisions require review within their actual holdings.
 

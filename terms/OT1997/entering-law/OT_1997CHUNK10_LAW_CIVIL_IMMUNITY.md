@@ -854,7 +854,7 @@ Elder's February 23, 1994 decision, Farmer and later decisions including Pinder,
 
 **Authority:** The same unanimous opinion controls this narrow selective-enforcement rule, without an orientation-based scrutiny tier.
 
-**Controlling explanation:** Yick Wo prohibits arbitrary discriminatory enforcement; Oyler preserves enforcement discretion while rejecting selection on an unjustifiable arbitrary basis; Wayte requires purpose and effect. Moreno excludes bare group hostility as a legitimate governmental end. Whren preserves an independent equality claim despite objective Fourth Amendment authority, and Romer applies ordinary review's prohibition on bare hostility without creating a new tier.
+**Controlling explanation:** Yick Wo prohibits arbitrary discriminatory enforcement; Oyler preserves enforcement discretion while rejecting selection on an unjustifiable arbitrary basis; Wayte requires purpose and effect. Moreno excludes bare group hostility as a legitimate governmental end. Whren preserves an independent equality claim despite objective Fourth Amendment authority, and Romer applies ordinary review's prohibition on bare hostility. The narrow claim does not depend on Shahar's intermediate scrutiny for sexual-orientation classifications.
 
 Stemler alleges that officers deliberately arrested her while leaving the visibly intoxicated Kritis unenforced because they perceived her as a lesbian and sought to impose arbitrary harm. Her denial of that orientation does not erase the alleged perceived classification. Wince arrested her; Wince, Dusing and Dolan are her individual defendants. Other defendants on Black's claim are not automatically defendants on hers.
 

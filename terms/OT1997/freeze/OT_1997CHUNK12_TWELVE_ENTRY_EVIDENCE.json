@@ -1,7 +1,7 @@
 {
   "status": "Final twelve-entry structural, protection, actual-table and assignment recount checks passed; legal review supplied separately",
   "record": "terms\\OT1997\\records\\brewster_v_board_of_education_merits_1998-08-17.md",
-  "raw_sha256": "a33ba301ee3b7dc4fecb42d5ecec3264a30820787279e2c97399eeebbaeb13ab",
+  "raw_sha256": "430854d29f76315b3887b6185c3151fb2930cdfab486b34fcd0706135cc0e62b",
   "public_blocks": [
     "Event",
     "Participation",
@@ -357,7 +357,7 @@
     {
       "file": "bauchman_v_west_high_school_merits_1998-06-26.md",
       "date": "1998-06-26",
-      "raw_sha256": "9a75b35c9019df4f4cfada97b5be5ee8a21e69c9a982b26be2453936e1bfd5fa",
+      "raw_sha256": "4adc1eba7bdca15d367045a18913fb2f2b950c5cfbeca70cded41e8239ddb4aa",
       "actual_authors": [
         "Ginsburg"
       ],
@@ -414,7 +414,7 @@
     {
       "file": "burlington_industries_inc_v_ellerth_merits_1998-06-26.md",
       "date": "1998-06-26",
-      "raw_sha256": "55bf0671ade001ad136222db22fcbd1c372154b3aae8e8a42203dfa31d8e68bf",
+      "raw_sha256": "040de466623dc9b6826693a80891c28b2bfaf791ce2189eddd22b352c68007dd",
       "actual_authors": [
         "Stone-Zsela"
       ],
@@ -473,7 +473,7 @@
     {
       "file": "monge_v_california_merits_1998-06-26.md",
       "date": "1998-06-26",
-      "raw_sha256": "4ea24e5fd93c568598f720f605adeba7a7bdcb3fb9f69876412da408234e95c3",
+      "raw_sha256": "3297c0cdf107554278184443c315703651f2af011139d11ed669de45aa3a512e",
       "actual_authors": [
         "Thomas"
       ],
@@ -523,7 +523,7 @@
     {
       "file": "camilo_robles_v_hoyos_merits_1998-07-20.md",
       "date": "1998-07-20",
-      "raw_sha256": "ea10c9d2c0d6de45463eced585ec38fd0613cf1c21dc0e25a1a2943d3e8d1c6c",
+      "raw_sha256": "9cd9b659713e671a4113031baa439e736552f1a7b255e36f84f5b6c02087649e",
       "actual_authors": [
         "Scalia"
       ],
@@ -580,7 +580,7 @@
     {
       "file": "berryman_v_rieger_jurisdiction_and_sanctions_1998-08-03.md",
       "date": "1998-08-03",
-      "raw_sha256": "b6ec73075e03f8b3bf3120caa8a100c966f7acf09a171b5f270329453cdc9316",
+      "raw_sha256": "790106a7a40a7b1d8af89fad1bbb02486ce6dd46994c9435e00d272f925de6ef",
       "actual_authors": [
         "O'Connor"
       ],
@@ -638,7 +638,7 @@
     {
       "file": "brewster_v_board_of_education_merits_1998-08-17.md",
       "date": "1998-08-17",
-      "raw_sha256": "a33ba301ee3b7dc4fecb42d5ecec3264a30820787279e2c97399eeebbaeb13ab",
+      "raw_sha256": "430854d29f76315b3887b6185c3151fb2930cdfab486b34fcd0706135cc0e62b",
       "actual_authors": [
         "Breyer"
       ],

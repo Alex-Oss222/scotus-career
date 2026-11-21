@@ -549,7 +549,7 @@ The denial of preclearance for the original Senate plan and the order permitting
 |---|---|---|---|---|
 | Original Senate plan | Denial of preclearance affirmed, 5–4 | Stone-Zsela, Stevens, Souter, Ginsburg, Breyer | O'Connor, Scalia, Kennedy, Thomas would vacate and remand | Original plan remains uncleared; the revised Senate, House, and congressional clearances remain undisturbed. |
 | Four voters' intervention | Upheld, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | No opposing vote | Voters retain party status to defend the Senate denial; unappealed successful clearances cannot be reopened at their request. |
-| As-applied enforcement-power objection | Rejected by five Justices | Stone-Zsela, Stevens, Souter, Ginsburg, Breyer | O'Connor, Scalia, Kennedy, Thomas do not reach the issue | The preventive §5 effects requirement is valid as applied to the original plan. |
+| As-applied enforcement-power objection | Rejected by five Justices | Stone-Zsela, Stevens, Souter, Ginsburg, Breyer | O'Connor, Scalia, Kennedy, Thomas do not reach the issue | Section 2 of the Fifteenth Amendment sustains the preventive §5 effects requirement as applied to the original plan. |
 
 ## Opinion Topology
 
@@ -560,7 +560,7 @@ Stone-Zsela delivered the opinion of the Court, joined in full by Stevens, Soute
 | Part I | All nine | Live original-plan controversy; continuing intervention dispute; Rule 24 permits and supports the intervention ordered here. |
 | Part II: common propositions | All nine | Lawful benchmark comparison; State's ordinary burden; numerical majorities, statewide averages, and legislators' approval are evidence rather than conclusive tests; percentage reduction alone is not retrogression. |
 | Part II: effective electoral choice, influence, and application | Stone-Zsela, Stevens, Souter, Ginsburg, Breyer | Dependable electoral opportunity must be preserved; diffuse influence cannot compensate for its loss; this record supports denial. |
-| Part III | Stone-Zsela, Stevens, Souter, Ginsburg, Breyer | Rejection of the as-applied enforcement-power objection. |
+| Part III | Stone-Zsela, Stevens, Souter, Ginsburg, Breyer | Section 2 of the Fifteenth Amendment supplies the preventive preclearance power; rejection of the as-applied enforcement-power objection; an application defended as Fourteenth Amendment enforcement requires independent justification under Boerne. |
 | O'Connor's concurrence in part and dissent | O'Connor, Scalia, Kennedy, Thomas | Would vacate only the original-Senate denial for a broader influence comparison; would reserve the constitutional question. |
 
 ## Holdings
@@ -575,11 +575,11 @@ Stone-Zsela delivered the opinion of the Court, joined in full by Stevens, Soute
 
 ### Preventive enforcement and the separate purpose inquiry
 
-**Holding and operative rule:** Congress may require covered jurisdictions to prove nonretrogression in effective racial voting opportunity without a new constitutional violation being established for each proposed change. That preventive requirement is valid as applied here because it preserves opportunity without mandating racial maximization, a fixed majority, or permanent boundaries.
+**Holding and operative rule:** Section 2 of the Fifteenth Amendment empowers Congress to prevent racial denial or abridgment of the right to vote, not merely to remedy completed violations. Congress may therefore require covered jurisdictions to prove nonretrogression in effective racial voting opportunity without a new constitutional violation being established for each proposed change. That preventive requirement is valid as applied here because it preserves opportunity without mandating racial maximization, a fixed majority, or permanent boundaries. An application defended instead as Fourteenth Amendment enforcement must be justified independently under Boerne's congruence and proportionality inquiry.
 
 **Authority:** Part III, adopted by Stone-Zsela, Stevens, Souter, Ginsburg, and Breyer, controls. The other four Justices reserve the constitutional question rather than vote to invalidate §5.
 
-**Controlling explanation:** South Carolina v. Katzenbach and City of Rome sustain preventive preclearance, including an effects inquiry reaching conduct not independently unconstitutional. Boerne preserves those authorities. Georgia's contention that this application freezes racial districting mistakes the rule: reliable coalition opportunity can satisfy it, and other plans with reduced racial percentages were cleared. Section 5's benchmark and burden remain independent of constitutional injury and of §2's prerequisites. Denial on effects neither finds nor excuses unlawful purpose. The Bossier decisions' independent prohibition of unconstitutional racial dilution purpose remains governing law; a fresh purpose finding is unnecessary because failure on effects independently defeats the requested declaration.
+**Controlling explanation:** South Carolina v. Katzenbach and City of Rome sustain preventive preclearance as appropriate legislation under Section 2 of the Fifteenth Amendment, including an effects inquiry reaching conduct not independently unconstitutional. Federal protection need not await a completed violation in each covered change. Because preventive enforcement may reach conduct not itself unconstitutional, the Court need not decide whether the Fifteenth Amendment itself reaches vote dilution, a question Voinovich v. Quilter and Brooks v. Barnes left open. Boerne preserves those authorities in their Fifteenth Amendment setting. Each enforcement clause empowers Congress to enforce its own Amendment's guarantee. Katzenbach and City of Rome illustrate preventive enforcement, as Boerne recognized, but do not establish that a measure enforcing a different guarantee is congruent and proportional to the injury it addresses; an application defended as Fourteenth Amendment enforcement requires that independent showing. This application rests on the Fifteenth Amendment, so the Court does not decide whether the Fourteenth Amendment would independently sustain it. Georgia's contention that this application freezes racial districting mistakes the rule: reliable coalition opportunity can satisfy it, and other plans with reduced racial percentages were cleared. Section 5's benchmark and burden remain independent of constitutional injury and of §2's prerequisites. Denial on effects neither finds nor excuses unlawful purpose. The Bossier decisions' independent prohibition of unconstitutional racial dilution purpose remains governing law. No purpose finding is made here because failure on effects independently defeats the requested declaration, and the constitutional basis of the Bossier purpose rule in a particular application is not presented.
 
 ### Live controversy and intervention
 
@@ -597,9 +597,10 @@ Stone-Zsela delivered the opinion of the Court, joined in full by Stevens, Soute
 - Valdespino: its dependable-crossover capacity rule informs the analogy to effective opportunity; its §2 elements and comparator are not transplanted into §5.
 - Balderas v. Texas: preserves the need for reliable proof of actual opportunity rather than numerical labels; its §2 capacity and remedial rules remain distinct.
 - Johnson v. De Grandy: its rejection of maximization and conclusive arithmetic informs the opportunity comparison without replacing §5's benchmark.
-- South Carolina v. Katzenbach: applied to Congress's preventive preclearance authority; the enforcement foundation remains effective.
-- City of Rome: applied to uphold the preventive effects inquiry without a new constitutional violation in each voting change.
-- City of Boerne v. Flores: preserves the voting-rights enforcement precedents supporting this application; no broader Fifteenth Amendment reconstruction is undertaken.
+- South Carolina v. Katzenbach: applied to Congress's preventive preclearance authority under Section 2 of the Fifteenth Amendment; the enforcement foundation remains effective.
+- City of Rome: applied under Section 2 of the Fifteenth Amendment to uphold the preventive effects inquiry without a new constitutional violation in each voting change.
+- City of Boerne v. Flores: preserves the Fifteenth Amendment voting-rights enforcement precedents supporting this application and independently governs any application defended as Fourteenth Amendment enforcement; no broader Fifteenth Amendment reconstruction is undertaken.
+- Voinovich v. Quilter and Brooks v. Barnes: their reservation of whether the Fifteenth Amendment itself reaches vote dilution remains; preventive enforcement under Section 2 of the Fifteenth Amendment does not require deciding it.
 - NAACP v. New York: applied to Rule 24 in judicial-preclearance proceedings; ordinary civil intervention remains available.
 - Morris v. Gressette: distinguished because restrictions on reviewing administrative preclearance do not categorically exclude intervention in the separate judicial action.
 

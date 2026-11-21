@@ -947,7 +947,7 @@ Source: [Record](../records/equality_foundation_v_cincinnati_merits_1998-12-03.m
 
 ### Form, opinion structure, and assignment eligibility
 
-The form is one signed plenary opinion resolving ordinary equal protection and its separate injunction and fee consequences; the governing propositions and single-case form are fixed before counting. Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer directly join all three propositions and all reviewed judgment components. Scalia and Thomas would affirm all components on their recorded rationality ground. A dissent by Scalia, joined by Thomas, expresses their full common position without a lead-assignment count.
+The form is one signed plenary opinion resolving equal protection under Shahar's intermediate scrutiny and, independently, under ordinary rationality, together with its separate injunction and fee consequences; the governing propositions and single-case form are fixed before counting. Stone-Zsela, Stevens, Souter, Ginsburg and Breyer directly join all four propositions and all reviewed judgment components. O'Connor and Kennedy directly join the ordinary-rationality, remedial and fee propositions in Parts II, III and IV and all reviewed judgment components; on their Shahar positions they do not join Part I's application of intermediate scrutiny. Scalia and Thomas would affirm all components on their recorded rationality ground. A dissent by Scalia, joined by Thomas, expresses their full common position without a lead-assignment count.
 
 ### Final assignment under Engine section 8
 
@@ -957,9 +957,9 @@ The form is one signed plenary opinion resolving ordinary equal protection and i
 |---|---:|---|---|
 | Stone-Zsela | 3 | Yes | No |
 | Stevens | 2 | Yes | Yes |
-| O'Connor | 1 | Yes | Yes |
+| O'Connor | 1 | No | No |
 | Scalia | 2 | No | No |
-| Kennedy | 1 | Yes | Yes |
+| Kennedy | 1 | No | No |
 | Souter | 2 | Yes | Yes |
 | Thomas | 1 | No | No |
 | Ginsburg | 1 | Yes | Yes |
@@ -967,7 +967,7 @@ The form is one signed plenary opinion resolving ordinary equal protection and i
 
 Last counted event: Minnesota v. Carter and Minnesota v. Johns, 1998-12-01, delivered by Breyer. The minimum eligible count is 1; the pool includes eligible authors at no more than 2. **Author chosen: Ginsburg.**
 
-Chief Justice Stone-Zsela assigns all portions from the common seven-Justice judgment coalition. Fit governs; the frozen full joins require no new accommodation. Ginsburg's Romer, Hurley and Coalition positions supply the precise distinction between an ordinary-protection barrier and a demand for preferences, while preserving genuine private expression and relief fitted to the violation. That combination fits both the municipal merits inquiry and the injunction's boundaries. O'Connor is the strongest equal-count alternative: her full Romer join and contrary Coalition position sharply distinguish the two operations, but the present full commitment requires no repair of her objection or expansion through her authorship. Stone's approved core is fully carried by Ginsburg's ordinary-rationality and fitted-relief formulation; his substantive eligibility remains, but his count of three places him outside the pool and he supplies no additional precision or coalition accommodation. Ginsburg receives one counted lead; the common majority on the injunction and dependent fees supplies no reason to divide the opinion. Scalia's dissent, joined by Thomas, expresses their shared municipal-rationality ground and is not counted.
+Chief Justice Stone-Zsela assigns all portions from the common seven-Justice judgment coalition. Fit governs; the frozen joins require no new accommodation. Ginsburg's Shahar Part III-B join and her full join in Virginia's demand for an actual, non-stereotyped justification fit Part I's application of intermediate scrutiny, and her Romer, Hurley and Coalition positions supply the precise distinction between an ordinary-protection barrier and a demand for preferences, while preserving genuine private expression and relief fitted to the violation. That combination fits both the municipal merits inquiry and the injunction's boundaries. Souter, whose Romer and Shahar opinions supply the governing standards, is the strongest alternative in the pool, but Part I applies Shahar rather than developing it, and Ginsburg's Coalition and Hurley positions more precisely separate this barrier from a demand for preferences and fit the injunction's limits; Stevens supplies no additional precision. O'Connor and Kennedy share Ginsburg's count but join only Parts II, III and IV, so neither is eligible for the complete opinion. Stone's approved core is fully carried by Ginsburg's intermediate-scrutiny, ordinary-rationality and fitted-relief formulation; his substantive eligibility remains, but his count of three places him outside the pool and he supplies no additional precision or coalition accommodation. Ginsburg receives one counted lead; she carries every Part, and the common majority on the injunction and dependent fees supplies no reason to divide the opinion. Scalia's dissent, joined by Thomas, expresses their shared municipal-rationality ground and is not counted.
 
 All final joins remain within the approved and frozen grounds. No circulation history, changed commitment or new accommodation is invented. Separate writings add no counted lead.
 
@@ -979,10 +979,10 @@ All final joins remain within the approved and frozen grounds. No circulation hi
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
-| Opinion of the Court | Ginsburg | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Breyer | Court, seven, on all components | Ordinary rationality, fitted equitable relief, dependent fee consequence and all limits. |
-| Dissent | Scalia | Thomas | Would affirm all reviewed components | Municipal policy withdrawal under ordinary rationality; fee vacatur follows the proposed merits result. |
+| Opinion of the Court | Ginsburg | Stone-Zsela, Stevens, Souter, Breyer; O'Connor and Kennedy join Parts II, III and IV | Court, seven, on all components; five on Part I | Part I (Shahar's intermediate scrutiny applied to Article XII's sexual-orientation classification) has Stone-Zsela, Stevens, Souter, Ginsburg and Breyer; Parts II (ordinary rationality, independently), III (fitted equitable relief) and IV (dependent fee consequence), with all limits, have those five and O'Connor and Kennedy. |
+| Dissent | Scalia | Thomas | Would affirm all reviewed components | Municipal policy withdrawal under ordinary rationality; rejects Part I's application of Shahar's intermediate scrutiny; fee vacatur follows the proposed merits result. |
 
-The Court-opinion coalition is Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer, each joining the opinion in full.
+The Court-opinion coalition is Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer. Stone-Zsela, Stevens, Souter and Breyer join the opinion in full; O'Connor and Kennedy join Parts II, III and IV and not Part I.
 
 
 

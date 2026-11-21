@@ -522,10 +522,10 @@ Plenary merits decision; 1998-03-02; October Term 1997; chunk 4.
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
-| Opinion of the Court | Souter | Stevens, Kennedy, Ginsburg and Breyer | Vacates and remands all four claims | Parts I (association), II (free exercise), III (equal protection) and IV (bounded mandate) have Stevens, Kennedy, Souter, Ginsburg and Breyer; O’Connor also joins Part II and Part IV only as applied to the free-exercise remand |
-| Concurrence in setting aside the equality judgment and remanding; dissent from formal vacatur and the ordinary-rationality mandate | Stone-Zsela | — | Would reverse that claim and remand under intermediate scrutiny | Does not join the Court’s formal equality disposition or mandate, its ordinary-rationality reasoning, or reach the association/free-exercise claims |
-| Opinion concurring in part and dissenting in part | O’Connor | — | Joins the free-exercise remand; would sustain association and equality judgments | Particular professional employment balance and ordinary rationality |
-| Dissent | Scalia | Thomas | Would affirm all four claims | Assumed-right employment balance, secular-ground free-exercise analysis and ordinary rationality |
+| Opinion of the Court | Souter | Stevens, Kennedy, Ginsburg and Breyer; Stone-Zsela joins Parts III-A and III-B | Vacates and remands all four claims | Parts I (association), II (free exercise), III-A (conduct labels and status proxies) and IV (bounded mandate) have Stevens, Kennedy, Souter, Ginsburg and Breyer; Stone-Zsela also joins Part III-A; Part III-B (intermediate scrutiny) has Stone-Zsela, Stevens, Souter, Ginsburg and Breyer; O’Connor also joins Part II and Part IV only as applied to the free-exercise remand |
+| Concurrence in Part III and in setting aside the equality judgment and remanding; dissent from formal vacatur | Stone-Zsela | — | Would reverse that claim and remand under intermediate scrutiny | Joins Parts III-A and III-B; does not join the Court’s formal equality vacatur or reach the association/free-exercise claims |
+| Opinion concurring in part and dissenting in part | O’Connor | — | Joins the free-exercise remand; would sustain association and equality judgments | Particular professional employment balance and ordinary rationality; rejects Part III-B |
+| Dissent | Scalia | Thomas | Would affirm all four claims | Assumed-right employment balance, secular-ground free-exercise analysis and ordinary rationality; rejects Part III-B |
 
 ## Bogan v. Scott-Harris; No. 96-1569.
 

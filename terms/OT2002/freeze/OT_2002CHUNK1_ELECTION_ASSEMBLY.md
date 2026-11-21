@@ -99,6 +99,6 @@ Deterministic checks actually run with `python -B` on all four draft files:
 
 - Four exact opening labels: passed for each.
 - Exactly eleven Public Projection headings, in Contract order: passed for each.
-- Each controlling explanation is within the ordinary 350-word ceiling: Montiel 158, 156, 147 words; Old Person 192 and 120 words; Georgia 228, 101, 118 words. Cano contains no controlling explanation.
+- Each controlling explanation is within the ordinary 350-word ceiling: Montiel 158, 156, 147 words; Old Person 192 and 120 words; Georgia 228, 251, 118 words. Cano contains no controlling explanation.
 
 Manual compatibility review confirms fixed-core compliance without fallback, nine-person participation, judgment/proposition arithmetic, complete mandated distinctions, one treatment line per material precedent, and proper retention of Cano. Lead author selection, actual earlier-effective snapshot refresh, final record filenames, integrated repository checks, and commitment to Current Term State remain root finalization work. No public output file, brief, foundation file, or state tracker was edited.

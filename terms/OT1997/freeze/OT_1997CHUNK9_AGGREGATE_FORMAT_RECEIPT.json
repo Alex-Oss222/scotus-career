@@ -4,15 +4,15 @@
     {
       "group": "NEUTRAL",
       "changed": true,
-      "before_sha256": "af588862271f02fca02b0f7da63fcfa19699484a60c1e02809d4504d88f16fbc",
-      "after_sha256": "af588862271f02fca02b0f7da63fcfa19699484a60c1e02809d4504d88f16fbc",
+      "before_sha256": "27ab854242b6fa4023e0359c2e66e71820abd59acf1483decfcb61e88b38953e",
+      "after_sha256": "27ab854242b6fa4023e0359c2e66e71820abd59acf1483decfcb61e88b38953e",
       "only_carriage_return_normalization": true
     },
     {
       "group": "COMMITMENTS",
       "changed": false,
-      "before_sha256": "17025cd9464bbf50b99d1903407bdb495ccfdc66f2a353c15f24e52622db2428",
-      "after_sha256": "17025cd9464bbf50b99d1903407bdb495ccfdc66f2a353c15f24e52622db2428",
+      "before_sha256": "5a9de1e445e92b030c1f5a442b2effa19be1966668335652db0e60e58a84f144",
+      "after_sha256": "5a9de1e445e92b030c1f5a442b2effa19be1966668335652db0e60e58a84f144",
       "only_carriage_return_normalization": true
     },
     {

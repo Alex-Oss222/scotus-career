@@ -3805,7 +3805,7 @@ A different, conviction-based registry does not require a hearing about current 
 
 **Present operation effective:** 1998-06-01.
 
-**Exceptions and limits:** No orientation-based scrutiny tier or general defense to otherwise lawful prosecution is created.
+**Exceptions and limits:** The narrow claim creates no scrutiny tier of its own and does not depend on Shahar’s intermediate scrutiny for sexual-orientation classifications. No general defense to otherwise lawful prosecution is created.
 
 **Holdings navigation:** City of Florence v. Chipman / Stemler v. City of Florence — Knowing dangerous restraint and arbitrary selective enforcement.
 
@@ -10271,7 +10271,7 @@ Intentional selection for police investigation by race is a racial classificatio
 
 - Objective, evidence-supported relationship, coverage, burdens and alternatives; permissible and impermissible objectives; absence of universal prerequisites; application to federal, state and local government; overruling of Metro's lower federal tier and displacement of Croson's categorical formulation: Adarand Constructors, Inc. v. Peña — The common substantial-justification standard, 1995-06-12; Chief Justice Stone-Zsela's opinion of the Court, joined in full by Stevens, Souter, Ginsburg and Breyer (five). O'Connor, Scalia, Kennedy and Thomas concur in the judgment on strict-scrutiny grounds and do not join the standard.
 - State university admissions classifications: Hopwood v. Texas — I. The established unequal admissions process, 1996-11-25; O'Connor, all nine.
-- Local contracting classifications and serious consideration of responsive race-neutral alternatives: Engineering Contractors Association of South Florida v. Metropolitan Dade County — The local racial classifications are subject to Adarand's common standard and The BBE and HBE programs fail the governing standard's alternatives requirement, 1998-09-21; O'Connor for the Court, Parts II and III with all eight Associates.
+- Local contracting classifications and the alternatives inquiry applied to responsive race-neutral measures: Engineering Contractors Association of South Florida v. Metropolitan Dade County — The local racial classifications are subject to Adarand's common standard and The BBE and HBE programs fail the governing standard's alternatives requirement, 1998-09-21; O'Connor for the Court, Parts II and III with all eight Associates.
 - Municipal promotion preferences and the distinct sex standard: City of Dallas v. Dallas Fire Fighters Association — Local racial and sex classifications retain distinct constitutional standards, 1999-06-18; Kennedy's Part I, all nine.
 
 - Eisenberg v. Montgomery County Public Schools; Fourth Circuit No. 98-2503, 197 F.3d 123; no Supreme Court docket supplied. — Canonical Decision Record, Holdings, I. The actual transfer restriction must satisfy the common standard; II. Supported educational benefits of K–12 integration may qualify, 2000-05-30; Stone-Zsela Part I with Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer (seven); Part II with Stevens, O'Connor, Souter, Ginsburg and Breyer (six), Kennedy reserving that affirmative objective.
@@ -10366,15 +10366,34 @@ Title VI §601 permits the supported, genuinely competitive educational consider
 
 **Holdings navigation:** Brown v. Hot, Sexy & Safer Productions, Inc. (1997-02-24) — The pleaded compulsory exposure does not establish the asserted parental-liberty deprivation.
 
+### Intermediate scrutiny for sexual-orientation classifications
+
+**Governing question:** When government action classifies by sexual orientation, and the justification such a classification requires.
+
+**Current rule:** A conduct or hiring label does not remove an adverse civilian employment classification from equal-protection review. Government that disadvantages an individual because of sexual orientation, including through a nominal conduct rule operating as a deliberate status proxy, classifies by sexual orientation. Conduct operates as such a proxy when it is penalized because it reveals or expresses orientation, as when comparable conduct is treated differently or the asserted concern attaches to a relationship’s same-sex character rather than to a professional obligation the conduct implicates. Government that regulates actual conduct because of independently relevant professional obligations is reviewed under the applicable constitutional protections. Sexual-orientation classifications receive intermediate scrutiny: government must demonstrate a genuine, important objective and a substantial relationship between that objective and the actual classification. It bears that burden, and moral disapproval, private bias, stereotype and post hoc or merely conceivable reasons do not carry it. Confidentiality, professional competence, credible representation and workplace administration remain available interests, and prevention need not await disruption, but generalized predictions about gay employees do not show that a particular exclusion substantially serves them, and an assertion of deference is not a showing. Supported professional judgment and reasonable contemporaneous predictions receive substantial but nonconclusive weight; the standard requires neither least restrictive means, an individual exception in every case nor an entitlement to a particular position.
+
+**Authority by component:**
+
+- Conduct and hiring labels, deliberate status proxies and the professional-obligation distinction: Shahar v. Bowers — III-A. Conduct and hiring labels do not remove a sexual-orientation classification from equality review, 1998-03-02; Souter Part III-A with Stone-Zsela, Stevens, Kennedy, Ginsburg and Breyer; six.
+- Intermediate scrutiny, the government’s burden, excluded reasons and the weight of professional judgment: Shahar v. Bowers — III-B. Sexual-orientation classifications receive intermediate scrutiny, 1998-03-02; Souter Part III-B with Stone-Zsela, Stevens, Ginsburg and Breyer; five. Kennedy joins Part III-A but not Part III-B; O’Connor, Scalia and Thomas reject Part III-B.
+
+**Present operation effective:** Shahar, March 2, 1998.
+
+**Exceptions and limits:** The standard is demanding, not an absolute prohibition; experience may suffice without scientific certainty or formal findings. Romer’s ordinary rationality remains valid as a floor for the actual disadvantage. Military decisions sustained under ordinary review stand and are not reopened; their particular rules are assessed under this standard when it materially affects them, and no military inference governs civilian employment. The standard does not itself reopen Bowers v. Hardwick’s specified-conduct holding; Lawrence v. Texas, June 26, 2003, overrules that holding insofar as it permits criminal punishment of private consensual adult intimacy resting solely on moral disapproval. The standard, announced in 1998, does not itself establish fair notice in July 1991; prospective constitutional validity and personal damages liability remain separate.
+
+**Related current rules:** Military statement-based conduct inference and evidentiary use; Class-specific foreclosure of ordinary municipal protection; Equal protection against same-sex criminal disadvantage.
+
+**Holdings navigation:** [Shahar v. Bowers — Conduct and hiring labels do not remove a sexual-orientation classification from equality review](HOLDINGS.md#conduct-and-hiring-labels-do-not-remove-a-sexual-orientation-classification-from-equality-review); [Shahar v. Bowers — Sexual-orientation classifications receive intermediate scrutiny](HOLDINGS.md#sexual-orientation-classifications-receive-intermediate-scrutiny).
+
 ### Race-conscious local public-contracting preferences
 
 **Governing question:** Constitutional justification and fit for local racial or ethnic contracting classifications.
 
-**Current rule:** Local racial or ethnic contracting preferences must satisfy Adarand's common substantial-justification standard. General inequality, imbalance and good intentions alone are insufficient; a supported local system of exclusion in which the government participates may permit fitted repair without an invariably required prior liability judgment. Before adopting preferences, the government must seriously consider reasonably available race-neutral measures responsive to the identified exclusion and explain their inadequacy; it need not try and exhaust every conceivable measure.
+**Current rule:** Local racial or ethnic contracting preferences must satisfy Adarand's common substantial-justification standard. General inequality, imbalance and good intentions alone are insufficient; a supported local system of exclusion in which the government participates may permit fitted repair without an invariably required prior liability judgment. Under Adarand's alternatives inquiry, the government must seriously consider concrete, practicable alternatives responsive to the identified exclusion, race-neutral or otherwise, and give a supported explanation of why they would not comparably advance its objective with materially less racial disadvantage. Reasonably available race-neutral measures are weighed within that inquiry rather than as a separate prerequisite, and formal neutrality earns them no priority; the government need not try and exhaust every conceivable measure.
 
 **Authority by component:**
 
-- Engineering Contractors Holdings 2–3: application of Adarand's common standard, supported repair and neutral alternatives: Engineering Contractors Association of South Florida v. Metropolitan Dade County — controlling Holdings, 1998-09-21.
+- Engineering Contractors Holdings 2–3: application of Adarand's common standard, supported repair and the alternatives inquiry: Engineering Contractors Association of South Florida v. Metropolitan Dade County — controlling Holdings, 1998-09-21.
 
 **Present operation effective:** 1998-09-21.
 
@@ -10416,19 +10435,22 @@ Title VI §601 permits the supported, genuinely competitive educational consider
 
 ### Class-specific foreclosure of ordinary municipal protection
 
-**Governing question:** Ordinary rational-basis review of a municipal charter’s combined withdrawal and prospective prohibition of ordinary protection for a named class.
+**Governing question:** Equal-protection review of a municipal charter’s combined withdrawal and prospective prohibition of ordinary protection for a named class, including a class defined by sexual orientation.
 
-**Current rule:** The actual breadth of a class-specific exclusion from ordinary municipal nondiscrimination protection must bear a rational relationship to legitimate objectives. Municipal scope, continued generally applicable remedies and access to higher government do not by themselves answer an unexplained selective disability across ordinary civic activity. Fiscal, regulatory, associational or durable-policy interests must rationally relate to that actual disadvantage; no finding about each voter’s private motive is required. This rule does not prohibit every repeal or require enactment of a particular protection.
+**Current rule:** A charter provision that withholds protection because of sexual orientation or status, including through references to conduct or relationships that regulate no independently relevant conduct but operate as proxies for the same status, classifies by sexual orientation and must satisfy Shahar’s intermediate scrutiny. The government must establish a genuine important objective and a substantial relationship between that objective and the actual classification; generalized predictions about the cost of protecting the class do not show that categorical withdrawal and prospective prohibition of ordinary municipal protection substantially serve fiscal, associational, regulatory or local-policy objectives. Independently, the actual breadth of a class-specific exclusion from ordinary municipal nondiscrimination protection must bear a rational relationship to legitimate objectives. Municipal scope, continued generally applicable remedies and access to higher government do not by themselves answer an unexplained selective disability across ordinary civic activity, and they neither change the classification nor supply its justification. Fiscal, regulatory, associational or durable-policy interests must rationally relate to that actual disadvantage; no finding about each voter’s private motive is required. This rule does not prohibit every repeal or require enactment of a particular protection.
 
 **Authority by component:**
 
-- Actual-breadth rationality and rejection of municipal-scope cure: Canonical Decision Record `equality_foundation_v_cincinnati_merits_1998-12-03.md`, Public Projection / Holdings / The municipal class-specific foreclosure fails ordinary rational-basis review, 1998-12-03; seven direct joins.
+- Sexual-orientation classification by charter and failure under Shahar’s intermediate scrutiny: Canonical Decision Record `equality_foundation_v_cincinnati_merits_1998-12-03.md`, Public Projection / Holdings / Article XII's sexual-orientation classification fails Shahar's intermediate scrutiny, 1998-12-03; Ginsburg’s Part I with Stone-Zsela, Stevens, Souter and Breyer, five direct joins.
+- Actual-breadth rationality and rejection of municipal-scope cure: Canonical Decision Record `equality_foundation_v_cincinnati_merits_1998-12-03.md`, Public Projection / Holdings / The municipal class-specific foreclosure fails ordinary rational-basis review, 1998-12-03; Part II, seven direct joins, as a ground independent of Part I.
 
 **Present operation effective:** 1998-12-03.
 
-**Exceptions and limits:** Genuine expression and religious-exemption questions retain their own predicates. The ruling establishes no heightened sexual-orientation scrutiny or universal entitlement to favorable legislation. Relief removes the unlawful barrier without imposing a municipal code; any independently lawful remainder requires actual state-law severability.
+**Exceptions and limits:** Genuine expression and religious-exemption questions retain their own predicates. The ruling adopts neither strict scrutiny nor a suspect classification and creates no universal entitlement to favorable legislation. Relief removes the unlawful barrier without imposing a municipal code; any independently lawful remainder requires actual state-law severability.
 
-**Holdings navigation:** [Equality Foundation of Greater Cincinnati, Inc. v. City of Cincinnati — The municipal class-specific foreclosure fails ordinary rational-basis review](HOLDINGS.md#the-municipal-class-specific-foreclosure-fails-ordinary-rational-basis-review-1).
+**Related current rules:** Intermediate scrutiny for sexual-orientation classifications.
+
+**Holdings navigation:** [Equality Foundation of Greater Cincinnati, Inc. v. City of Cincinnati — Article XII's sexual-orientation classification fails Shahar's intermediate scrutiny](HOLDINGS.md#article-xiis-sexual-orientation-classification-fails-shahars-intermediate-scrutiny); [Equality Foundation of Greater Cincinnati, Inc. v. City of Cincinnati — The municipal class-specific foreclosure fails ordinary rational-basis review](HOLDINGS.md#the-municipal-class-specific-foreclosure-fails-ordinary-rational-basis-review).
 
 ### Necessary nonphysician school-health services under IDEA
 
@@ -10463,11 +10485,29 @@ Title VI §601 permits the supported, genuinely competitive educational consider
 
 **Holdings navigation:** [Saenz v. Roe — Bona fide new citizens receive equal ordinary welfare treatment](HOLDINGS.md#bona-fide-new-citizens-receive-equal-ordinary-welfare-treatment-1); [Saenz v. Roe — Federal permission cannot lower the constitutional floor](HOLDINGS.md#federal-permission-cannot-lower-the-constitutional-floor).
 
+### Sex-role exclusion from caregiving benefits
+
+**Governing question:** Whether government may assign eligibility for an existing caregiving benefit by a categorical sex role.
+
+**Current rule:** A State may not deny an otherwise qualified father a primary-caregiver benefit by presuming that nurturing belongs to mothers. The plaintiff must prove intentional sex-based treatment by a preponderance; the State must establish an important governmental objective substantially related to the actual classification, and genuine medical-recovery distinctions, proof of caregiving responsibility and lawful overlapping-benefit limits remain distinct from a categorical bar against fathers.
+
+**Authority by component:**
+
+- Categorical sex-role exclusion, proof of intentional sex-based treatment and the State’s justification burden: Canonical Decision Record `Knussman-v-Maryland_merits_2003-06-02.md`, Public Projection / Holdings / I. Caregiving eligibility cannot be assigned by a categorical sex role, 2003-06-02; O’Connor’s Part I, all nine Justices.
+
+**Present operation effective:** Knussman, June 2, 2003.
+
+**Exceptions and limits:** The rule requires equal administration of an existing caregiving benefit; it creates no universal leave entitlement or new leave program. Knussman’s objective-immunity and compensatory-review holdings apply existing immunity and §1983 compensation law to this record and are stated in the Holdings.
+
+**Related current rules:** Relevant precedent in appellate qualified-immunity review governs the separate immunity question; State compensation limits within federal new-trial review governs the trial and appellate allocation of compensatory review, and its New York compensation measure is not the measure of a federal §1983 claim.
+
+**Holdings navigation:** [Knussman v. Maryland — Intentional sex-role administration of an existing primary-caregiver benefit](HOLDINGS.md#intentional-sex-role-administration-of-an-existing-primary-caregiver-benefit).
+
 ### Equal protection against same-sex criminal disadvantage
 
 **Governing question:** Criminal law imposes an additional disadvantage on same-sex participants in otherwise comparable conduct, including denial of an otherwise applicable close-in-age category.
 
-**Current rule:** Under ordinary rational-basis review, the claimant must establish the unequal condition and negate a reasonably conceivable legitimate explanation. Disapproval of the same-sex class does not explain a separate injury from otherwise comparable private consensual adult conduct. In a close-in-age category, the claimant must also satisfy the remaining eligibility requirements; a same-sex exclusion lacking a rational connection to protecting minors cannot stand. Extend the reduced category to remove that unequal criminal treatment unless an actual state-law severability obstacle requires a different lawful cure consistent with equality and fair notice.
+**Current rule:** Shahar’s intermediate scrutiny governs sexual-orientation classifications, including conduct rules operating as deliberate status proxies; Lawrence and Limon did not need to decide whether these same-sex criminal distinctions are such classifications because each fails even ordinary review. Under ordinary rational-basis review, the claimant must establish the unequal condition and negate a reasonably conceivable legitimate explanation. Disapproval of the same-sex class does not explain a separate injury from otherwise comparable private consensual adult conduct. In a close-in-age category, the claimant must also satisfy the remaining eligibility requirements; a same-sex exclusion lacking a rational connection to protecting minors cannot stand. Extend the reduced category to remove that unequal criminal treatment unless an actual state-law severability obstacle requires a different lawful cure consistent with equality and fair notice.
 
 **Authority by component:**
 
@@ -10478,7 +10518,9 @@ Title VI §601 permits the supported, genuinely competitive educational consider
 
 **Controlling construction:** The retained Kansas §21-3522 conditions are voluntary intercourse, sodomy or lewd fondling or touching; a child at least fourteen and under sixteen; an offender under nineteen and less than four years older; and only those two participants. The corresponding severity levels are eight, nine and ten. Only the unequal same-sex condition is removed, subject to the stated severability rule.
 
-**Exceptions and limits:** This equality instruction neither constitutionalizes all conduct involving minors nor creates heightened sexual-orientation scrutiny.
+**Exceptions and limits:** This equality rule neither constitutionalizes all conduct involving minors nor decides whether these same-sex criminal distinctions are sexual-orientation classifications subject to Shahar’s intermediate scrutiny.
+
+**Related current rules:** Intermediate scrutiny for sexual-orientation classifications.
 
 
 ## Apportionment and representation
@@ -10736,7 +10778,7 @@ Section 11(a) independently authorizes Attorney General declaratory and injuncti
 
 **Current rule:** Section 5 effect review asks whether the proposed change retrogresses from the operative benchmark; a §2 violation neither establishes that effect nor independently bars preclearance. Clearance leaves a separate §2 action available. Relevant racial-dilution evidence must nevertheless be considered in assessing §5 purpose, without treating it as conclusive. Preclearance is forbidden for a change adopted with an unconstitutional purpose to dilute voting opportunity on account of race even without intended or actual benchmark deterioration. The jurisdiction retains its burden to establish absence of prohibited purpose.
 
-For effect review, the covered jurisdiction must prove by a preponderance that the change preserves protected voters’ effective opportunity relative to the lawful operative benchmark. Dependable crossover or coalition support may establish preserved opportunity without a fixed demographic threshold. Expected legislative influence, sympathetic officials, committee positions or policy gains cannot offset a demonstrated loss of practical ability to elect preferred representatives; more nominal opportunity districts statewide do not alone prove preservation. Commensurate genuine electoral gains must be established for the affected voters. This preventive effects requirement does not demand proof of a new constitutional violation for each change and mandates neither maximization nor permanent boundaries.
+For effect review, the covered jurisdiction must prove by a preponderance that the change preserves protected voters’ effective opportunity relative to the lawful operative benchmark. Dependable crossover or coalition support may establish preserved opportunity without a fixed demographic threshold. Expected legislative influence, sympathetic officials, committee positions or policy gains cannot offset a demonstrated loss of practical ability to elect preferred representatives; more nominal opportunity districts statewide do not alone prove preservation. Commensurate genuine electoral gains must be established for the affected voters. Section 2 of the Fifteenth Amendment authorizes this preventive effects requirement, which demands no proof of a new constitutional violation for each change; Georgia sustains it as applied to the original Senate plan. It mandates neither maximization nor permanent boundaries. An application defended instead as Fourteenth Amendment enforcement must be justified independently under congruence and proportionality.
 
 **Authority by component:**
 
@@ -10748,7 +10790,7 @@ For effect review, the covered jurisdiction must prove by a preponderance that t
 
 **Present operation effective:** Georgia v. Ashcroft, June 26, 2003, for the effective-opportunity boundary and its preventive application; Bossier Parish’s independent purpose rule retains its May 12, 1997 operation.
 
-**Exceptions and limits:** Consideration of race or rejection of a feasible alternative is not automatically unlawful. Independent §2 standards and designated preclearance channels are unchanged.
+**Exceptions and limits:** Consideration of race or rejection of a feasible alternative is not automatically unlawful. Independent §2 standards and designated preclearance channels are unchanged. Because preventive enforcement may reach conduct not itself unconstitutional, Georgia does not decide whether the Fifteenth Amendment itself reaches vote dilution; it makes no purpose finding, and the constitutional basis of the Bossier purpose rule in a particular application is not presented.
 
 **Holdings navigation:** Reno v. Bossier Parish School Board; Price v. Bossier Parish School Board (1997-05-12) — Distinct statutory inquiries; Reno v. Bossier Parish School Board; Price v. Bossier Parish School Board (1997-05-12) — Relevant evidence remains relevant to purpose; Reno v. Bossier Parish School Board; Price v. Bossier Parish School Board (1997-05-12) — Unconstitutional purposeful racial dilution is not confined to intended retrogression.
 
@@ -12799,18 +12841,19 @@ No numerical deduction threshold, compulsory notice format, universal employer-c
 
 **Governing question:** The §654(b)(2) statement route, construed as a rebuttable conduct-related military personnel inference.
 
-**Current rule:** Under ordinary rational-basis review, a voluntary declaration of homosexual or bisexual identity may be treated as rebuttable evidence of prohibited acts, propensity or intent where propensity means likelihood of acts beyond abstract preference or desire and a genuine rebuttal opportunity exists. The sustained application requires neither a completed act nor individualized operational impairment; it is not a conclusive orientation exclusion. Section 654(b)(2) directs separation after the approved statement finding unless a further approved finding establishes that the member demonstrated no engagement, attempted engagement, propensity or intent to engage in homosexual acts. The First Amendment permits the relevant evidentiary use at that conduct-related scope, without permitting punishment for abstract belief or opposition to the policy.
+**Current rule:** A voluntary declaration of homosexual or bisexual identity may be treated as rebuttable evidence of prohibited acts, propensity or intent where propensity means likelihood of acts beyond abstract preference or desire and a genuine rebuttal opportunity exists; Thomasson sustained that application under ordinary rational-basis review. To the extent the statement rule classifies by sexual orientation or operates as a deliberate status proxy, Shahar’s intermediate scrutiny, not that ordinary review, governs; Thomasson’s judgment stands, the rule is reassessed under that standard when the standard materially affects it, and its conduct-likelihood and genuine-rebuttal requirements remain minimum conditions. The sustained application requires neither a completed act nor individualized operational impairment; it is not a conclusive orientation exclusion. Section 654(b)(2) directs separation after the approved statement finding unless a further approved finding establishes that the member demonstrated no engagement, attempted engagement, propensity or intent to engage in homosexual acts. The First Amendment permits the relevant evidentiary use at that conduct-related scope, without permitting punishment for abstract belief or opposition to the policy.
 
 **Authority by component:**
 
 - Thomasson v. Perry — I. The conduct-related, rebuttable statement inference is constitutional in this application, 1997-06-09; O'Connor with Scalia, Kennedy, Thomas and Breyer; five
 - Thomasson v. Perry — II. The First Amendment permits this relevant evidentiary use of the statement, 1997-06-09; the same five
+- Shahar v. Bowers — III-B. Sexual-orientation classifications receive intermediate scrutiny, 1998-03-02; Souter Part III-B with Stone-Zsela, Stevens, Ginsburg and Breyer; five, supplying the governing scrutiny and the reassessment of military rules it materially affects
 
-**Present operation effective:** Thomasson, 1997-06-09.
+**Present operation effective:** Shahar, 1998-03-02, for the governing scrutiny; Thomasson’s statement-inference and evidentiary-use components retain their 1997-06-09 operation.
 
-**Exceptions and limits:** Section 654(e) permits omission of processing if the military determines both intent to avoid or terminate service and that separation would not serve its best interest; it does not compel omission. The act and marriage routes have distinct predicates and are not adjudicated here. Denial of meaningful rebuttal, an irrelevant inference, an irrebuttable status exclusion or retaliation for advocacy remains distinct. Service excellence is not an automatic defense, and every identity statement is not an admission of an act. No facial validation, civilian-employment rule, new scrutiny tier or investigation checklist follows; independent due-process, APA, directive-validity and substantive-liberty claims remain undecided.
+**Exceptions and limits:** Section 654(e) permits omission of processing if the military determines both intent to avoid or terminate service and that separation would not serve its best interest; it does not compel omission. The act and marriage routes have distinct predicates and are not adjudicated here. Denial of meaningful rebuttal, an irrelevant inference, an irrebuttable status exclusion or retaliation for advocacy remains distinct. Service excellence is not an automatic defense, and every identity statement is not an admission of an act. No facial validation, civilian-employment rule or investigation checklist follows; independent due-process, APA, directive-validity and substantive-liberty claims remain undecided.
 
-**Holdings navigation:** Thomasson v. Perry (1997-06-09) — A genuinely rebuttable conduct inference sustains this statement-based separation; Thomasson v. Perry (1997-06-09) — First Amendment / Military statements as relevant evidence.
+**Holdings navigation:** Thomasson v. Perry (1997-06-09) — A genuinely rebuttable conduct inference sustains this statement-based separation; Thomasson v. Perry (1997-06-09) — First Amendment / Military statements as relevant evidence; Shahar v. Bowers (1998-03-02) — Sexual-orientation classifications receive intermediate scrutiny.
 
 ### Title VII limits on diversity-based selection for layoff
 
@@ -17662,7 +17705,7 @@ On nonfinal direct review, a substantial statutory defect in appellate membershi
 
 **Present operation effective:** College Savings Bank, June 23, 1999, for the confined own-product-advertising boundary; Florida Prepaid, June 23, 1999, for the undifferentiated patent-liability limit; Garrett, February 21, 2001, for Title I’s general requirements; Hibbs, May 27, 2003, for the bounded family-care entitlement; Boerne’s enforcement and preventive-fit framework remains effective June 25, 1997.
 
-**Exceptions and limits:** Independent Fifteenth Amendment power and other sources of congressional authority retain their own law. The rule creates no general hearing requirement or evidentiary checklist. Hibbs adopts the bounded sex-role mechanism, not a rule that every absence of leave is unconstitutional or that pregnancy disability always amounts to forbidden sex discrimination.
+**Exceptions and limits:** Independent Fifteenth Amendment power and other sources of congressional authority retain their own law: Georgia v. Ashcroft, June 26, 2003, Part III, sustains the preventive §5 effects requirement, as applied to the original Senate plan, as enforcement under Section 2 of the Fifteenth Amendment, and an application defended instead as Fourteenth Amendment enforcement must be justified independently under this congruence and proportionality inquiry. The rule creates no general hearing requirement or evidentiary checklist. Hibbs adopts the bounded sex-role mechanism, not a rule that every absence of leave is unconstitutional or that pregnancy disability always amounts to forbidden sex discrimination.
 
 **Holdings navigation:** City of Boerne v. Flores (1997-06-25) — I. Section 5 permits prevention and remedy, not replacement of a constitutional right. [College Savings Bank v. Florida Prepaid Postsecondary Education Expense Board — This own-product-advertising theory does not establish the required §5 basis](HOLDINGS.md#this-own-product-advertising-theory-does-not-establish-the-required-5-basis); [Florida Prepaid Postsecondary Education Expense Board v. College Savings Bank — Section 5 does not sustain the Patent Remedy Act at the scope presented](HOLDINGS.md#section-5-does-not-sustain-the-patent-remedy-act-at-the-scope-presented); [Board of Trustees of the University of Alabama v. Garrett, 531 U.S. 356 — Private ADA Title I enforcement against state employers](HOLDINGS.md#board-of-trustees-of-the-university-of-alabama-v-garrett-531-us-356); [Nevada Department of Human Resources v. Hibbs, 538 U.S. 721 — Article I and Section 5 independently sustain the family-care action despite State immunity](HOLDINGS.md#article-i-and-section-5-independently-sustain-the-family-care-action-despite-state-immunity).
 
