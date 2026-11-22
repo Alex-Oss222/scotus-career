@@ -1,0 +1,159 @@
+Source: https://www.law.cornell.edu/supct/html/02-626.ZS.html
+
+NOTE:  Where it is feasible, a
+syllabus (headnote) will be released, as is being done in
+connection with this case, at the time the opinion is
+issued.
+The syllabus constitutes no part of the opinion of
+the Court but has been prepared by the Reporter of Decisions
+for the convenience of the reader.
+See United States
+v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+SOUTH FLORIDA WATER MANAGEMENT DISTRICT
+v. MICCOSUKEE TRIBE OF INDIANS et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE ELEVENTH CIRCUIT
+
+No. 02—626. 
+Argued January 14, 2004–Decided March 23, 2004
+
+Congress established the Central and South
+Florida Flood Control Project (Project) to address drainage and
+flood control problems in reclaimed portions of the Everglades.
+ Five Project elements are at issue here.  The first, the
+“C—11” canal, collects ground water and
+rainwater from an area that includes urban, agricultural, and
+residential development.  The second Project element, pump
+station “S—9,” moves water from the canal to the
+third element, an undeveloped wetland, “WCA—3,”
+which is a remnant of the original South Florida Everglades. 
+Petitioner, the Project’s day-to-day operator (hereinafter
+District), impounds the water there to keep if from flowing
+into the ocean and to preserve wetlands habitat.  Absent such
+human intervention, the water would flow back to the canal and
+flood the C—11 basin’s populated areas.  Such flow is
+prevented by levees, including the “L—33” and
+“L—37” levees at issue here.  The combined
+effect of L—33, L—37, C—11, and S—9 is
+artificially to separate the C—11 basin from WCA—3,
+which would otherwise be a single wetland.  The Project has an
+environmental impact on wetland ecosystems.  Rain on the
+western side of L—33 and L—37 falls into
+WCA—3’s wetland ecosystem, but rain falling on the
+eastern side absorbs contaminants, including phosphorous from
+fertilizers, before entering the C—11 canal.  When that
+water is pumped across the levees, the phosphorus alters the
+WCA—3 ecosystem’s balance, stimulating the growth of
+algae and plants foreign to the Everglades.  Respondents
+(hereinafter Tribe) filed suit under the Clean Water Act (Act),
+which prohibits “the discharge of any pollutant by any
+person” unless done in compliance with the Act, 33 U.S. C.
+§1311(a).	Under the Act’s National Pollutant
+Discharge Elimination System (NPDES), dischargers must obtain
+permits limiting the type and quantity of pollutants they can
+release into the Nation’s waters.	§1342.  The Act
+defines “ ‘discharge of a
+pollutant’ ” as “any
+addition of any pollutant to navigable waters from any point
+source,” §1362(12), and defines “ ‘point source’ ” as “any discernible,
+confined and discrete conveyance”	“from which
+pollutants are or may be discharged,” §1362(14).  The
+Tribe claims that S—9 requires an NPDES permit because it
+moves phosphorus-laden water from C—11 into WCA—3,
+but the District contends that S—9’s operation does
+not constitute the “discharge of [a] pollutant” under
+the Act.  The District Court granted the Tribe summary
+judgment, and the Eleventh Circuit affirmed.  Both rested their
+holdings on the predicate determination that C—11 and
+WCA—3 are two distinct water bodies.  
+
+Held: The case is remanded for
+further proceedings regarding the parties’ factual dispute
+over whether C—11 and WCA—3 are meaningfully distinct
+water bodies.  Pp. 6—14.
+
+    (a) Each of
+three arguments advanced by the District and the Federal
+Government as amicus would, if accepted, lead to the
+conclusion that S—9 does not require an NPDES permit. 
+P. 6.
+
+      (b) The
+Court rejects the District’s initial argument that the
+NPDES program covers a point source only when pollutants
+originate from that source and not when pollutants originating
+elsewhere merely pass through the point source.  The definition
+of a point source as a “conveyance,” §1362(14),
+makes plain that the point source need only convey the
+pollutant to navigable waters.	The Act’s examples of
+point sources–pipes, ditches, tunnels, and
+conduits–are objects that transport, but do not generate,
+pollutants.  And one of the Act’s primary goals was to
+impose NPDES permitting requirements on municipal wastewater
+treatment plants, which treat and discharge pollutants added to
+water by others.  Pp. 7—8.
+
+      (c) The
+Government contends that all water bodies that are navigable
+waters under the Act should be viewed unitarily for purposes of
+NPDES permitting.  Because the Act requires NPDES permits only
+when a pollutant is added to navigable waters, the Government
+contends that such permits are not required when water from one
+navigable body is discharged, unaltered, into another navigable
+body.  Despite the relevance of this “unitary waters”
+approach, neither the District nor the Government raised it
+before the Eleventh Circuit or in their briefs respecting
+certiorari, and this Court is unaware of any case that has
+examined the argument in its present form.  Thus, the Court
+declines to resolve the argument here.	However, because the
+judgment must be vacated in any event, the unitary waters
+argument will be open to the parties on remand. 
+Pp. 8—12.
+
+      (d) The
+District and the Government believe that the C—11 canal
+and WCA—3 impoundment area are not distinct water bodies,
+but are two hydrologically indistinguishable parts of a single
+water body.  The Tribe agrees that, if this is so, pumping
+water from one into the other cannot constitute an
+“addition” of pollutants within the meaning of the
+Act, but it disputes the District’s factual premise that
+C—11 and WCA—3 are one.  The parties also disagree
+about how the relationship between S—9 and WCA—3
+should be assessed.  This Court does not decide here whether
+the District Court’s test is adequate for determining
+whether C—11 and WCA—3 are distinct, because that
+court applied its test prematurely.  Summary judgment is
+appropriate only where there is no genuine issue of material
+fact, but some factual issues remain unresolved here.  The
+District Court correctly characterized the flow through
+S—9 as nonnatural, and it appears that if S—9 were
+shut down, the water in the C—11 canal might for a brief
+time flow east, rather than west.  But the record also suggests
+that if S—9 were shut down, the area drained by C—11
+would flood, which might mean C—11 would no longer be a
+distinct body of navigable water, but instead part of a larger
+water body extending over WCA—3 and the C—11 basin. 
+It also might call into question the Eleventh Circuit’s
+conclusion that S—9 is the cause in fact of phosphorous
+addition to WCA—3.  Nothing in the record suggests that
+the District Court considered these issues when it granted
+summary judgment.  If, after further development of the record,
+that court concludes that C—11 and WCA—3 are not
+meaningfully distinct water bodies, S—9 will not need an
+NPDES permit.  Pp. 12—14.
+
+280 F.3d 1364, vacated and remanded.
+
+    O’Connor, J.,
+delivered the opinion of the Court, Parts I and II—A of
+which were unanimous, and Parts II—B and II—C of
+which were joined by Rehnquist, C. J., and Stevens,
+Kennedy, Souter, Thomas, Ginsburg, and Breyer, JJ.  Scalia, J.,
+filed an opinion concurring in part and dissenting in part.

@@ -1,0 +1,321 @@
+{
+  "checked_files": [
+    "terms/OT2003/freeze/OT_2003CHUNK5_NEUTRAL.md",
+    "terms/OT2003/freeze/OT_2003CHUNK5_COMMITMENTS.md",
+    "terms/OT2003/freeze/OT_2003CHUNK5_RECONCILED.md",
+    "terms/OT2003/runtime/OT_2003CHUNK5_NEUTRAL.md",
+    "terms/OT2003/runtime/OT_2003CHUNK5_COMMITMENTS.md",
+    "terms/OT2003/runtime/OT_2003CHUNK5_COMPARATOR.md",
+    "terms/OT2003/runtime/OT_2003CHUNK5_RECONCILED.md",
+    "terms/OT2003/entering-law/OT_2003CHUNK5.md",
+    "terms/OT2003/workspace/manifest.md",
+    "terms/OT2003/workspace/ledger.md",
+    "terms/OT2003/workspace/continuity.md",
+    "terms/OT2003/workspace/neutral-projection.md",
+    "terms/OT2003/render-inputs/OT_2003CHUNK5.md"
+  ],
+  "links_checked": 409,
+  "fragment_links_checked": 7,
+  "broken_links": [],
+  "broken_anchors": [],
+  "restricted_anchor_checks": [],
+  "counts": {
+    "scheduled_rows": 119,
+    "completed_rows": 71,
+    "remaining_rows": 48,
+    "status_counts": {
+      "Completed": 71,
+      "Open": 48
+    },
+    "completed_per_chunk": {
+      "OT_2003CHUNK1": 7,
+      "OT_2003CHUNK2": 16,
+      "OT_2003CHUNK3": 16,
+      "OT_2003CHUNK4": 16,
+      "OT_2003CHUNK5": 16
+    },
+    "ledger_rows": 71,
+    "neutral_event_headings": 71,
+    "neutral_public_links": 39,
+    "unique_neutral_public_links": 39
+  },
+  "aggregate_identity": {
+    "NEUTRAL": {
+      "identical": true,
+      "sha256": "6c96bcffe72c1b620beb823306f275912092658bac33f2056bad5af815eeaff3"
+    },
+    "COMMITMENTS": {
+      "identical": true,
+      "sha256": "4600ff6b7f95f988f428c9b1432ed29070d1a9c13e2daf24c9c3f718c94ac52c"
+    },
+    "RECONCILED": {
+      "identical": true,
+      "sha256": "e1bf703585bd04ae1b6d8198d50048b222b5f8456fdf92ec4b14dcbea4d8affd"
+    }
+  },
+  "carryover_rows": {
+    "manifest": {
+      "Arizona v. California": [
+        "| *Arizona v. California*, No. 8, Original | Supplemental decree in force; original jurisdiction retained; unresolved Fort Yuma title, cession, boundary, irrigable-acreage and water-quantity issues before the Special Master. | No OT2003 event date is scheduled. | Open carryover; outside the 119 scheduled events. | Supplemental-decree Decision Record, October 10, 2000. |"
+      ],
+      "Kansas v. Colorado": [
+        "| *Kansas v. Colorado*, No. 105, Original | Recommitted to the Special Master for damages calculation and preparation of judgment; original action pending. | No OT2003 event date is scheduled. | Open carryover; outside the 119 scheduled events. | Decision Record on exceptions to the Third Report, June 11, 2001. |"
+      ],
+      "Nebraska v. Wyoming": [
+        "| *Nebraska v. Wyoming*, No. 108, Original | Further litigation-cost allocation pending; settled merits claims dismissed with prejudice. | No OT2003 event date is scheduled. | Open carryover; outside the 119 scheduled events. | Order and modified-decree Decision Record, November 13, 2001. |"
+      ],
+      "Kansas v. Nebraska": [
+        "| *Kansas v. Nebraska*, No. 126, Original, with Colorado | Limited model-completion proceedings; covered pre-December 15, 2002 claims await dismissal upon the Master's final report certifying the States' adoption of the RRCA Groundwater Model. | No OT2003 event date is scheduled. | Open carryover; outside the 119 scheduled events. | Settlement-approval and conditional-decree Decision Record, May 19, 2003. |"
+      ]
+    },
+    "ledger": {
+      "Arizona v. California": [],
+      "Kansas v. Colorado": [],
+      "Nebraska v. Wyoming": [],
+      "Kansas v. Nebraska": []
+    },
+    "continuity": {
+      "Arizona v. California": [
+        "| *Arizona v. California*, No. 8, Original | Supplemental decree in force; original jurisdiction retained; unresolved Fort Yuma title, cession, boundary, irrigable-acreage and water-quantity issues before the Special Master. | No OT2003 event date is scheduled. | Open carryover; outside the 119 scheduled events. | Supplemental-decree Decision Record, October 10, 2000. |"
+      ],
+      "Kansas v. Colorado": [
+        "| *Kansas v. Colorado*, No. 105, Original | Recommitted to the Special Master for damages calculation and preparation of judgment; original action pending. | No OT2003 event date is scheduled. | Open carryover; outside the 119 scheduled events. | Decision Record on exceptions to the Third Report, June 11, 2001. |"
+      ],
+      "Nebraska v. Wyoming": [
+        "| *Nebraska v. Wyoming*, No. 108, Original | Further litigation-cost allocation pending; settled merits claims dismissed with prejudice. | No OT2003 event date is scheduled. | Open carryover; outside the 119 scheduled events. | Order and modified-decree Decision Record, November 13, 2001. |"
+      ],
+      "Kansas v. Nebraska": [
+        "| *Kansas v. Nebraska*, No. 126, Original, with Colorado | Limited model-completion proceedings; covered pre-December 15, 2002 claims await dismissal upon the Master's final report certifying the States' adoption of the RRCA Groundwater Model. | No OT2003 event date is scheduled. | Open carryover; outside the 119 scheduled events. | Settlement-approval and conditional-decree Decision Record, May 19, 2003. |"
+      ]
+    },
+    "neutral-projection": {
+      "Arizona v. California": [
+        "| *Arizona v. California*, No. 8, Original | Supplemental decree in force; original jurisdiction retained; unresolved Fort Yuma title, cession, boundary, irrigable-acreage and water-quantity issues before the Special Master. | No OT2003 event date is scheduled. | Open carryover; outside the 119 scheduled events. | Supplemental-decree Decision Record, October 10, 2000. |"
+      ],
+      "Kansas v. Colorado": [
+        "| *Kansas v. Colorado*, No. 105, Original | Recommitted to the Special Master for damages calculation and preparation of judgment; original action pending. | No OT2003 event date is scheduled. | Open carryover; outside the 119 scheduled events. | Decision Record on exceptions to the Third Report, June 11, 2001. |"
+      ],
+      "Nebraska v. Wyoming": [
+        "| *Nebraska v. Wyoming*, No. 108, Original | Further litigation-cost allocation pending; settled merits claims dismissed with prejudice. | No OT2003 event date is scheduled. | Open carryover; outside the 119 scheduled events. | Order and modified-decree Decision Record, November 13, 2001. |"
+      ],
+      "Kansas v. Nebraska": [
+        "| *Kansas v. Nebraska*, No. 126, Original, with Colorado | Limited model-completion proceedings; covered pre-December 15, 2002 claims await dismissal upon the Master's final report certifying the States' adoption of the RRCA Groundwater Model. | No OT2003 event date is scheduled. | Open carryover; outside the 119 scheduled events. | Settlement-approval and conditional-decree Decision Record, May 19, 2003. |"
+      ]
+    }
+  },
+  "neutral_leak_candidates": [
+    {
+      "line": 55,
+      "text": "Stone-Zsela concurs in part, concurs in the privacy judgment and dissents in part. He would affirm the clergy condition only as voluntary patient-requested assistance, allowing ordinary emergency and referral arrangements while forbidding an unreviewable private veto or compelled religious counseling. He also would sustain the contextual professional-care rules, including their application only to reasonably ascertainable obligations. He regards the professional setting and limiting constructions as sufficient for these facial dispositions. On identifiers, his ground is more demanding than Part IV-A: once compelled disclosure of intimate treatment records is established, the State must justify identity access by a concrete regulatory need that reasonably cannot be met through less identifying review. Casey's bounded reporting permissions and Whalen's scheme-specific safeguards support that requirement. He would direct findings identifying the authorized recipients, demonstrated tasks, confidentiality protections and review mechanism, maintaining the existing privacy injunction to the extent needed to prevent unnecessary identifier disclosure while permitting nonidentifying inspection. Relief would cover the challenged policy and its patients unless the State shows a narrower restriction fully cures the established defect."
+    },
+    {
+      "line": 193,
+      "text": "For coordination they accept actual requested resources and enforceable financial substitutes before airing, while seeking a present declaration protecting party-owned joint expression and independent issue/editorial work. They would protect contracts for separate unbroadcast independent messages under sections 201 and 212, preserving reports of unpaid obligations for messages already public and the dissemination-trigger regulation. Ordinary disclosure's informational justification does not justify exposing still-private plans at another advertisement's first airing."
+    },
+    {
+      "line": 495,
+      "text": "The judicial warrant must supply its particularized authorization. An unincorporated application and the preparer's private knowledge do not cure a complete omission of items to be seized. The responsible preparer receives no qualified immunity for executing the obviously deficient warrant on these accepted facts; the individual damages claim proceeds under ordinary liability and remedy rules."
+    },
+    {
+      "line": 952,
+      "text": "The projection contains opening law and completed public current-term law, published separate positions, public procedure, roster, allotments, chronology and neutral schedule information. No private position, comparator, provisional commitment, reconciliation or audit annex is included. The opening legal cutoff is June 30, 2003. Each completed event retains its own decision-date cutoff and source limits; the latest completed date supplies no authority for an earlier event."
+    }
+  ],
+  "neutral_internal_links": [],
+  "index_case_numbers": [
+    "56",
+    "57",
+    "58",
+    "59",
+    "60",
+    "61",
+    "62",
+    "63",
+    "64",
+    "65",
+    "66",
+    "67",
+    "68",
+    "69",
+    "70",
+    "71"
+  ],
+  "render_case_headers": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes",
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes",
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes",
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes",
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes",
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes",
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes",
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes",
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes",
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes",
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes",
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes",
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes",
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes",
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes",
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ]
+}

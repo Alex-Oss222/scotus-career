@@ -1,0 +1,15 @@
+# Case 64 clean neutral preflight
+
+**Case:** BedRoc Limited, LLC v. United States.
+**Event and cutoff:** Merits, March 31, 2004; only law effective before that date.
+**Status:** Ready for bounded statutory modeling on the supplied classification of the material as commonplace sand and gravel.
+
+This context received only `runtime/OT_2003CHUNK5_CASE64_NEUTRAL.md`, `entering-law/OT_2003CHUNK5_CASE64.md`, the exact Standards and Tests entry **Coal reservations and distinct coalbed methane**, and the authorized copy of the prior Amoco public render at `entering-law/OT_2003CHUNK5_CASE64_AMOCO_PUBLIC.md`. It received no target-case comparator, outcome, supplement, other modeler's preflight, commitments or notes. No target-case external search was performed. General model knowledge is not represented as erased.
+
+The mechanically generated `entering-law/OT_2003CHUNK5_CASE64_A.md` adds the exact Standard to the supplied narrow Holdings copy. Its **Present operation effective** authority is Amoco, June 7, 1999. The Standard reserves the substance Congress named, protects new valuable uses of that substance, and distinguishes a separately understood resource. It expressly supplies no universal rule for every mineral or every later-developed use. The prior public writing confirms Ginsburg's distinct ground: practical historical dominion and responsibility can make the estate genuinely ambiguous, with Western Nuclear's sovereign-grant canon favoring the retained estate. Her position is not based on automatic agency deference or tribal succession enlarging title.
+
+The Pittman reservation is a live ownership dispute on statutory merits review. It is not a taking case or a new mining-claim application. All eight Associates are seated and no nonparticipation is supplied. The event is properly before the Court as scheduled. No current-term decision identified in the authorized packet resolves the reservation.
+
+The record supplies commonplace sand and gravel and present commercial extraction. It does not supply an express historical finding about these deposits' local market price, transportation cost, demand or profitability in 1919. None is inferred. The statutory exclusion path must rest on the historical legal category and the limiting work of valuable, not on a newly invented finding of past worthlessness. If later assembly seeks a deposit-specific valuation rationale, that fact must first be supplied through sanitized neutral extraction and the affected stages repeated.
+
+The alternative inclusion path reads valuable as commercially useful mineral resources within the reservation and uses Western Nuclear for this broader mineral category, while distinguishing Amoco's separate gas identity. The exclusion path treats the Pittman qualification and 1919 setting as a material textual distinction from Western Nuclear's differently worded statute. Both paths preserve the earlier case within its own statute. No new reconstruction premise, concession, filing or source finding is introduced.

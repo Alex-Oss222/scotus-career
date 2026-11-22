@@ -1,0 +1,141 @@
+Source: https://www.law.cornell.edu/supct/html/02-1593.ZS.html
+
+NOTE:  Where it is feasible, a
+syllabus (headnote) will be released, as is being done in
+connection with this case, at the time the opinion is
+issued.
+The syllabus constitutes no part of the opinion of
+the Court but has been prepared by the Reporter of Decisions
+for the convenience of the reader.
+See United States
+v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+BEDROC LIMITED, LLC, et al. v. UNITED
+STATES 
+et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE NINTH CIRCUIT
+
+No. 02—1593. Argued January 20, 2004–Decided March 31,
+2004
+
+The Pittman Underground Water Act of 1919
+authorized the Secretary of the Interior to designate certain
+“nonmineral” Nevada lands on which settlers could
+obtain permits to drill for water.  Under §8 of the
+Pittman Act, each land grant, or patent, reserved to the United
+States all coal and other “valuable minerals” in the
+lands, and the right to remove the same.  When one of
+petitioners’ predecessors-in-interest began extracting
+sand and gravel from land patented under the Pittman Act, the
+Bureau of Land Management ruled that he had trespassed against
+the Government’s reserved interest in the property’s
+“valuable minerals,” and the Interior Board of Land
+Appeals affirmed.  Petitioner BedRoc Limited, LLC, which
+subsequently acquired the property and continued to remove the
+sand and gravel under an interim agreement with the Department
+of the Interior, and petitioner Western Elite, Inc., filed a
+quiet title action in Federal District Court.  The court
+granted the Government summary judgment, holding that the
+contested sand and gravel are “valuable minerals”
+reserved to the United States by the Pittman Act.  The Ninth
+Circuit affirmed.
+
+Held: The judgment is reversed,
+and the case is remanded.
+
+314 F.3d 1080, reversed and remanded.
+
+    The Chief Justice,
+joined by Justice O’Connor, Justice Scalia, and Justice
+Kennedy, concluded that sand and gravel are not “valuable
+minerals” reserved to the United States in land grants
+issued under the Pittman Act.  In construing the mineral
+reservation of the Stock-Raising Homestead Act of 1916
+(SRHA)–which was identical to the Pittman Act’s
+except insofar as it reserved to the United States “all
+the coal and other minerals,” whereas the Pittman Act
+reserved “valuable minerals”–this Court
+determined that neither the dictionary nor the legal
+understanding of “minerals” prevailing in 1916 was
+conclusive, but that the SRHA’s purpose and history
+demonstrated that gravel was a “mineral” reserved to
+the United States.  Watt v. Western Nuclear,
+Inc., 462 U.S.
+36, 55—60.  This Court will not extend that
+holding to conclude that sand and gravel are “valuable
+minerals.”  The Western Nuclear Court had no choice
+but to speculate about congressional intent with respect to the
+scope of the amorphous term “minerals,” but here
+Congress has textually narrowed the term’s scope by using
+the modifier “valuable.”  The inquiry begins with the
+statutory text, and ends there as the text is unambiguous.  The
+proper inquiry	in interpreting mineral reservations focuses on
+the reservation’s ordinary meaning when it was enacted. 
+Amoco Production Co. v. Southern Ute Tribe, 526 U.S. 865, 874. 
+Because the Pittman Act applied only to Nevada, the ultimate
+question is whether the State’s sand and gravel were
+commonly regarded as “valuable minerals” in 1919. 
+Common sense says no: They were, and are, abundant throughout
+Nevada; they have no intrinsic value; and they were
+commercially worthless in 1919.  Thus, even if they were
+regarded as minerals, no one would have mistaken them for
+valuable minerals.  The statutory context of the Pittman
+Act’s mineral reservation further confirms its ordinary
+meaning, as Congress explicitly cross-referenced the General
+Mining Act of 1872, and it is beyond dispute that when the
+Pittman Act became law, common sand and gravel could not
+constitute a locatable “valuable mineral deposit”
+under the General Mining Act.  Because the statutory
+reservation’s text clearly excludes sand and gravel, there
+is no occasion to resort to legislative history here. 
+Pp. 4—11.
+
+      Justice Thomas,
+joined by Justice Breyer, concluded that the Pittman
+Underground Water Act of 1919’s mineral reservation cannot
+be meaningfully distinguished from the analogous provision in
+the Stock-Raising Homestead Act of 1916 (SRHA), and that the
+mineral reservations pursuant to both do not include sand and
+gravel.  Emphasizing “valuable” in the Pittman Act
+ignores the fact that the Act uses “valuable
+minerals” and “minerals” interchangeably.  And
+it implies that the Court erred in Watt v. Western
+Nuclear, Inc., 462
+U.S. 36, not by interpreting “minerals” too
+broadly to include sand and gravel, but by interpreting
+“minerals” too narrowly by reading into the term a
+requirement that the minerals can be used for commercial
+purposes.  If “valuable” were the textual source of a
+commercial purpose requirement, then the SRHA’s lack of
+that modifier would imply that the SRHA contains no such
+requirement.  Because the SRHA and the Pittman Act should be
+construed similarly, the plurality’s reasoning with
+respect to the Pittman Act cannot be confined to that Act and
+naturally carries over to the SRHA.  If sand and gravel are not
+included within the Pittman Act’s mineral reservations
+because they were not considered “valuable minerals”
+at the time the Act was passed, they, with respect to SRHA
+lands, were not considered to be susceptible of commercial use
+when Congress passed the SRHA.	Although the Western
+Nuclear Court incorrectly defined “minerals” to
+include sand and gravel, significant reliance interests would
+be upset if Western Nuclear were overruled.  The Pittman
+Act, however, involves substantially less land than the SRHA,
+and the Government does not identify any significant reliance
+interest that would be unsettled by this Court’s failing
+to extend Western Nuclear’s reasoning.  Pp.
+1—3.
+
+    Rehnquist,
+C. J., announced the judgment of the Court and delivered
+an opinion, in which O’Connor, Scalia, and Kennedy, JJ.,
+joined.  Thomas, J., filed an opinion concurring in the
+judgment, in which Breyer, J., joined.	Stevens, J., filed a
+dissenting opinion, in which Souter and Ginsburg, JJ.,
+joined.

@@ -1,0 +1,160 @@
+Source: https://www.law.cornell.edu/supct/html/02-857.ZS.html
+
+NOTE:  Where it is feasible, a
+syllabus (headnote) will be released, as is being done in
+connection with this case, at the time the opinion is
+issued.
+The syllabus constitutes no part of the opinion of
+the Court but has been prepared by the Reporter of Decisions
+for the convenience of the reader.
+See United States
+v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+HOUSEHOLD CREDIT SERVICES, INC., et al.
+v. PFENNIG
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE SIXTH CIRCUIT
+
+No. 02—857. 
+Argued February 23, 2004–Decided April 21, 2004
+
+The Truth in Lending Act (TILA) regulates,
+inter alia, the disclosures that credit card issuers
+must make to consumers, 15 U.S.C. §
+1637(a), and provides consumers with a civil remedy for
+creditors’ failure to comply, §1640.	Among other
+things, the creditor’s periodic balance statement to the
+consumer must include “[t]he amount of any finance
+charge,” §1637(b)(4), which is defined as an amount
+“payable directly or indirectly by the [consumer], and
+imposed directly or indirectly by the creditor as an incident
+to the extension of credit.”  §1605(a).  Section
+§1604(a) expressly gives to the Federal Reserve Board
+(Board) expansive authority to prescribe regulations containing
+“such classifications, differentiations, or other
+provisions,” as, in the Board’s judgment, “are
+necessary or proper to effectuate [TILA’s] purposes …
+, to prevent circumvention or evasion thereof, or to facilitate
+compliance therewith.”  The Board’s Regulation Z
+interprets §1605(a)’s “finance charge”
+definition to exclude “charges … for exceeding a
+credit limit” (over-limit fees).
+
+        Respondent
+holds a credit card issued by one of the petitioner financial
+institutions and in which the other holds an interest. 
+Although the parties’ agreement set respondent’s
+credit limit at $2,000, she was able to make charges exceeding
+that limit, subject to a $29 over-limit fee for each month in
+which her balance exceeded $2,000.  While her monthly billing
+statement disclosed the over-limit fees, the amount was not
+included as part of the “finance charge,” consistent
+with Regulation Z.  Respondent filed suit alleging that
+petitioners violated TILA by failing to classify over-limit
+fees as “finance charges,” but the District Court
+granted petitioners’ motion to dismiss on the ground that
+Regulation Z specifically excludes such fees.  The Sixth
+Circuit reversed, holding that the exclusion conflicts with
+§1605(a)’s plain language.  Noting, first, that, as a
+remedial statute, TILA must be liberally interpreted in favor
+of consumers, the court then concluded that the over-limit fees
+in this case were imposed “incident to an extension of
+credit” and therefore fell squarely within
+§1605’s language.  That conclusion turned on the
+distinction the court drew between unilateral acts of default,
+which would not generate a “finance charge,” and acts
+of default resulting from an agreement between the creditor and
+the consumer, which would.
+
+Held: Regulation Z is not an
+unreasonable interpretation of §1605. 
+Pp. 4—11.
+
+    (a) Because
+respondent does not challenge the Board’s authority under
+§1604(a) to issue binding regulations, this Court faces
+only two questions.  It asks, first, whether “Congress has
+directly spoken to the precise question at issue,”
+Chevron U.S. A. Inc. v. Natural Resources
+Defense Council, Inc., 467 U.S. 837, 842, in
+which case courts, as well as the Board, “must give effect
+to the unambiguously expressed intent of Congress,”
+id., at 842—843.  However, whenever Congress
+has “explicitly left a gap for the [implementing] agency
+to fill,” the agency’s regulation is “given
+controlling weight unless [it is] arbitrary, capricious, or
+manifestly contrary to the statute.”  Id., at
+843—844.  Pp. 4—5.
+
+      (b) TILA
+itself does not explicitly address whether over-limit fees are
+included within the “finance charge” definition.  The
+Sixth Circuit did not attempt to clarify the scope of
+§1605(a)’s critical term “incident to the
+extension of credit.”  Because the phrase “incident
+to” does not make clear whether a substantial (as opposed
+to a remote) connection is required between an antecedent and
+its object, cf. Holly Farms Corp. v. NLRB, 517 U.S. 392, 402,
+n. 9, it cannot be concluded that the term “finance
+charge,” standing alone, unambiguously includes over-limit
+fees.  Moreover, an examination of TILA’s related
+provisions, as well as the full text of §1605 itself,
+casts doubt on the Sixth Circuit’s interpretation.  A
+consumer holding an open-end credit plan may incur two types of
+charges–finance charges and “other charges which may
+be imposed as part of the plan.” 
+§§1637(a)(1)—(5).  TILA does not make clear
+which charges fall into each category, but its recognition of
+at least two categories establishes that Congress did not
+contemplate that all charges made in connection with an
+open-end credit plan would be considered “finance
+charges.”	And where TILA explicitly addresses over-limit
+fees, it defines them as fees imposed “in connection with
+an extension of credit,” §1637(c)(1)(B)(iii), rather
+than “incident to an extension of credit,”
+§1605(a).	Furthermore, none of §1605’s specific
+examples of charges that fall within the “finance
+charge” definition includes over-limit or comparable fees.
+ Thus, 1605(a) is, at best, ambiguous.	Pp. 5—8.
+
+    (c) Regulation Z’s exclusion
+of over-limit fees from “finance charge[s]” is in no
+way manifestly contrary to §1605.	Regulation Z defines
+“finance charge” as “the cost of consumer
+credit,” excluding as less relevant to determining such
+cost a number of specific payments, including over-limit fees,
+that do not automatically recur or are imposed only when a
+consumer defaults on a credit agreement.  Because over-limit
+fees are imposed only in the latter circumstance, they can
+reasonably be characterized as a penalty for defaulting on the
+credit agreement, and the Board’s decision to exclude them
+from “finance charge[s]” is reasonable.  Despite the
+Board’s rational decision to adopt a uniform rule
+excluding from the term “finance charge” all
+penalties imposed for exceeding the credit limit, the lower
+court adopted a case-by-case approach contingent on whether an
+act of default was “unilateral.”  That approach would
+prove unworkable to creditors and, more importantly, lead to
+significant confusion for the consumer, who would be able to
+decipher if a charge is more properly a “finance
+charge” or an “other charge” only by recalling
+the details of the particular transaction that caused him to
+exceed his credit limit.  In most cases, the consumer would not
+even know the relevant facts, which are contingent on the
+nature of the authorization given by the creditor to the
+merchant.  Here, the Board accomplished all of the objectives
+set forth in §1604(a)’s broad delegation of
+rulemaking authority when it set forth a clear, easy to apply
+(and easy to enforce) rule that highlights the charges the
+Board determined to be most relevant to a consumer’s
+credit decisions.  Pp. 8—11.	
+
+295 F.3d 522, reversed.
+
+    Thomas, J., delivered
+the opinion for a unanimous Court.

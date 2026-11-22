@@ -1,0 +1,1493 @@
+Source: https://laws.flrules.org/2003/415
+
+PDF PAGE 1
+CHAPTER 2003-415
+House Bill No. 29-B
+An act relating to elections; amending s. 97.012, F.S.; revising and
+providing duties of the Secretary of State as chief election officer;
+amending s. 97.021, F.S.; deleting the definition of “central voter
+file”; revising the definition of “provisional ballot”; amending s.
+97.052, F.S.; requiring the uniform statewide voter registration ap-
+plication to contain a notice to first-time registrants about required
+identification prior to voting the first time; amending s. 97.053, F.S.;
+authorizing use of a driver’s license or state-issued identification
+card number in lieu of a portion of the social security number on a
+voter registration application; creating s. 97.028, F.S.; providing
+procedures on complaints of violations of Title III of the Help Amer-
+ica Vote Act of 2002; creating s. 97.0535, F.S.; providing registration
+requirements for applicants who register by mail and who haven’t
+previously voted in the county; amending s. 98.045, F.S.; deleting a
+reference, to conform; repealing s. 98.097, F.S., relating to the cen-
+tral voter file; amending s. 98.0977, F.S.; providing for continued
+operation and maintenance of the statewide voter registration data-
+base until the statewide voter registration system required by the
+Help America Vote Act of 2002 is operational; requiring the Depart-
+ment of State to begin the development of a statewide voter registra-
+tion system designed to meet certain requirements of the Help
+America Vote Act of 2002; amending s. 98.212, F.S.; removing duty
+of supervisors of elections relating to the central voter file, to con-
+form; amending s. 98.461, F.S.; requiring use of a computer printout
+as a precinct register at the polls; requiring the precinct register to
+contain space for elector signatures and clerk or inspector initials;
+amending and renumbering s. 98.471, F.S.; providing requirements
+for identification required at the polls; providing for voting a provi-
+sional ballot under certain circumstances; repealing s. 98.491, F.S.,
+relating to intent that alternative electronic procedures for registra-
+tion and elections be followed at the discretion of the supervisor of
+elections; amending s. 101.048, F.S.; providing for casting a provi-
+sional ballot by electronic means; requiring each supervisor of elec-
+tions to create a free access system that allows each person casting
+a provisional ballot to find out whether the ballot was counted and,
+if not, why; requiring each person casting a provisional ballot to be
+given written instructions regarding the free access system; creating
+s. 101.049, F.S.; requiring voting that occurs during polling hours
+extended by a court or other order to be done by provisional ballot;
+providing requirements for casting provisional ballots under such
+circumstances; amending s. 101.111, F.S.; revising provisions relat-
+ing to challenging the right of a person to vote; providing for voting
+a provisional ballot under certain circumstances; amending s.
+101.62, F.S.; providing an exception to limiting an absentee ballot
+request to ballots for elections within a single calendar year; amend-
+ing s. 101.64, F.S.; revising a reference on the Voter’s Certificate;
+amending s. 101.65, F.S.; revising the instructions to absentee elec-
+tors to include instructions to prevent overvoting; amending s.
+1
+CODING:  Words stricken are deletions; words underlined are additions.
+
+PDF PAGE 2
+101.657, F.S.; requiring certain persons voting absentee in person to
+vote a provisional ballot; creating s. 101.6921, F.S.; providing re-
+quirements for delivery of special absentee ballots for certain first-
+time voters; creating s. 101.6923, F.S.; providing voter instructions
+for such special absentee ballots; creating s. 101.6925, F.S.; provid-
+ing requirements for the canvassing of special absentee ballots;
+amending s. 101.694, F.S.; authorizing federal postcard applicants
+for absentee ballots to receive ballots for two general election cycles;
+amending s. 102.141, F.S.; requiring the canvassing of provisional
+ballots cast during any extended polling-hour period to segregate the
+votes from such ballots from other votes; directing the Department
+of State to adopt uniform rules for machine recounts; amending s.
+125.01, F.S.; conforming a cross reference; repealing s. 20, ch. 2002-
+281, Laws of Florida; eliminating future revision of a cross reference,
+to conform; amending s. 163.511, F.S.; revising a reference; revising
+the primary date in 2004; suspending operation of the second pri-
+mary election until January 1, 2006; providing a date in 2004 by
+which candidates for Lieutenant Governor must be designated and
+qualified; providing campaign finance reporting dates; specifying
+applicability of contribution limits for the 2004 elections; providing
+for construction of the act in pari materia with laws enacted during
+the 2003 Regular Session or 2003 Special Session A of the Legisla-
+ture; providing effective dates.
+Be It Enacted by the Legislature of the State of Florida:
+Section 1. Section 97.012, Florida Statutes, is amended to read:
+97.012 Secretary of State as chief election officer.—The Secretary of
+State is the chief election officer of the state, and it is his or her responsibil-
+ity to:
+(1) Obtain and maintain uniformity in the application, operation, and
+interpretation of the election laws.
+(2) Provide uniform standards for the proper and equitable implementa-
+tion of the registration laws.
+(3) Actively seek out and collect the data and statistics necessary to
+knowledgeably scrutinize the effectiveness of election laws.
+(4) Provide technical assistance to the supervisors of elections on voter
+education and election personnel training services.
+(5) Provide technical assistance to the supervisors of elections on voting
+systems.
+(6) Provide voter education assistance to the public.
+(7) Coordinate the state’s responsibilities under the National Voter Reg-
+istration Act of 1993.
+Ch. 2003-415
+LAWS OF FLORIDA
+Ch. 2003-415
+2
+CODING:  Words stricken are deletions; words underlined are additions.
+
+PDF PAGE 3
+(8) Provide training to all affected state agencies on the necessary proce-
+dures for proper implementation of this chapter.
+(9) Ensure that all registration applications and forms prescribed or ap-
+proved by the department are in compliance with the Voting Rights Act of
+1965.
+(10) Coordinate with the United States Department of Defense so that
+armed forces recruitment offices administer voter registration in a manner
+consistent with the procedures set forth in this code for voter registration
+agencies.
+(11) Create and maintain a statewide voter registration database central
+voter file.
+(12) Maintain a voter fraud hotline and provide election fraud education
+to the public.
+(13) Designate an office within the department to be responsible for
+providing information regarding voter registration procedures and absentee
+ballot procedures to absent uniformed services voters and overseas voters.
+Section 2. Section 97.021, Florida Statutes, is amended to read:
+97.021 Definitions.—For the purposes of this code, except where the con-
+text clearly indicates otherwise, the term:
+(1) “Absent elector” means any registered and qualified voter who casts
+an absentee ballot.
+(2) “Alternative formats” has the meaning ascribed in the Americans
+with Disabilities Act of 1990, Pub. L. No. 101-336, 42 U.S.C. ss. 12101 et
+seq., including specifically the technical assistance manuals promulgated
+thereunder, as amended.
+(3) “Ballot” or “official ballot” when used in reference to:
+(a) “Paper ballots” means that printed sheet of paper, used in conjunction
+with an electronic or electromechanical vote tabulation voting system, con-
+taining the names of candidates, or a statement of proposed constitutional
+amendments or other questions or propositions submitted to the electorate
+at any election, on which sheet of paper an elector casts his or her vote.
+(b) “Electronic or electromechanical devices” means a ballot that is voted
+by the process of electronically designating, including by touchscreen, or
+marking with a marking device for tabulation by automatic tabulating
+equipment or data processing equipment.
+(4) “Candidate” means any person to whom any one or more of the follow-
+ing applies:
+(a) Any person who seeks to qualify for nomination or election by means
+of the petitioning process.
+Ch. 2003-415
+LAWS OF FLORIDA
+Ch. 2003-415
+3
+CODING:  Words stricken are deletions; words underlined are additions.
+
+PDF PAGE 4
+(b) Any person who seeks to qualify for election as a write-in candidate.
+(c) Any person who receives contributions or makes expenditures, or
+gives his or her consent for any other person to receive contributions or make
+expenditures, with a view to bringing about his or her nomination or election
+to, or retention in, public office.
+(d) Any person who appoints a treasurer and designates a primary depos-
+itory.
+(e) Any person who files qualification papers and subscribes to a candi-
+date’s oath as required by law.
+However, this definition does not include any candidate for a political party
+executive committee.
+(5) “Central voter file” means a statewide, centrally maintained database
+containing voter registration information of all counties in this state.
+(5)(6) “Department” means the Department of State.
+(6)(7) “Division” means the Division of Elections of the Department of
+State.
+(7)(8) “Election” means any primary election, special primary election,
+special election, general election, or presidential preference primary elec-
+tion.
+(8)(9) “Election board” means the clerk and inspectors appointed to con-
+duct an election.
+(9)(10) “Election costs” shall include, but not be limited to, expenditures
+for all paper supplies such as envelopes, instructions to voters, affidavits,
+reports, ballot cards, ballot booklets for absentee voters, postage, notices to
+voters; advertisements for registration book closings, testing of voting equip-
+ment, sample ballots, and polling places; forms used to qualify candidates;
+polling site rental and equipment delivery and pickup; data processing time
+and supplies; election records retention; and labor costs, including those
+costs uniquely associated with absentee ballot preparation, poll workers,
+and election night canvass.
+(10)(11) “Elector” is synonymous with the word “voter” or “qualified elec-
+tor or voter,” except where the word is used to describe presidential electors.
+(11)(12) “General election” means an election held on the first Tuesday
+after the first Monday in November in the even-numbered years, for the
+purpose of filling national, state, county, and district offices and for voting
+on constitutional amendments not otherwise provided for by law.
+(12)(13) “Lists of registered electors” means copies of printed lists of
+registered electors, computer tapes or disks, or any other device used by the
+supervisor of elections to maintain voter records.
+Ch. 2003-415
+LAWS OF FLORIDA
+Ch. 2003-415
+4
+CODING:  Words stricken are deletions; words underlined are additions.
+
+PDF PAGE 5
+(13)(14) “Member of the Merchant Marine” means an individual, other
+than a member of a uniformed service or an individual employed, enrolled,
+or maintained on the Great Lakes for the inland waterways, who is:
+(a) Employed as an officer or crew member of a vessel documented under
+the laws of the United States, a vessel owned by the United States, or a
+vessel of foreign-flag registry under charter to or control of the United
+States; or
+(b) Enrolled with the United States for employment or training for em-
+ployment, or maintained by the United States for emergency relief service,
+as an officer or crew member of such vessel.
+(14)(15) “Minor political party” is any group as defined in this subsection
+which on January 1 preceding a primary election does not have registered
+as members 5 percent of the total registered electors of the state. Any group
+of citizens organized for the general purposes of electing to office qualified
+persons and determining public issues under the democratic processes of the
+United States may become a minor political party of this state by filing with
+the department a certificate showing the name of the organization, the
+names of its current officers, including the members of its executive commit-
+tee, and a copy of its constitution or bylaws. It shall be the duty of the minor
+political party to notify the department of any changes in the filing certifi-
+cate within 5 days of such changes.
+(15)(16) “Newspaper of general circulation” means a newspaper printed
+in the language most commonly spoken in the area within which it circulates
+and which is readily available for purchase by all inhabitants in the area of
+circulation, but does not include a newspaper intended primarily for mem-
+bers of a particular professional or occupational group, a newspaper the
+primary function of which is to carry legal notices, or a newspaper that is
+given away primarily to distribute advertising.
+(16)(17) “Nominal value” means having a retail value of $10 or less.
+(17)(18) “Nonpartisan office” means an office for which a candidate is
+prohibited from campaigning or qualifying for election or retention in office
+based on party affiliation.
+(18)(19) “Office that serves persons with disabilities” means any state
+office that takes applications either in person or over the telephone from
+persons with disabilities for any program, service, or benefit primarily re-
+lated to their disabilities.
+(19)(20) “Overseas voter” means:
+(a) Members of the uniformed services while in the active service who are
+permanent residents of the state and are temporarily residing outside the
+territorial limits of the United States and the District of Columbia;
+(b) Members of the Merchant Marine of the United States who are per-
+manent residents of the state and are temporarily residing outside the
+territorial limits of the United States and the District of Columbia; and
+Ch. 2003-415
+LAWS OF FLORIDA
+Ch. 2003-415
+5
+CODING:  Words stricken are deletions; words underlined are additions.
+
+PDF PAGE 6
+(c) Other citizens of the United States who are permanent residents of
+the state and are temporarily residing outside the territorial limits of the
+United States and the District of Columbia,
+who are qualified and registered to vote as provided by law.
+(20)(21) “Overvote” means that the elector marks or designates more
+names than there are persons to be elected to an office or designates more
+than one answer to a ballot question, and the tabulator records no vote for
+the office or question.
+(21)(22) “Persons with disabilities” means individuals who have a physi-
+cal or mental impairment that substantially limits one or more major life
+activities.
+(22)(23) “Polling place” is the building which contains the polling room
+where ballots are cast.
+(23)(24) “Polling room” means the actual room in which ballots are cast.
+(24)(25) “Primary election” means an election held preceding the general
+election for the purpose of nominating a party nominee to be voted for in the
+general election to fill a national, state, county, or district office. The first
+primary is a nomination or elimination election; the second primary is a
+nominating election only.
+(25)(26) “Provisional ballot” means a conditional ballot, the validity of
+which is determined by the canvassing board issued to a voter by the election
+board at the polling place on election day for one of the following reasons:
+(a) The voter’s name does not appear on the precinct register and verifi-
+cation of the voter’s eligibility cannot be determined; or
+(b) There is an indication on the precinct register that the voter has
+requested an absentee ballot and there is no indication whether the voter
+has returned the absentee ballot.
+(26)(27) “Public assistance” means assistance provided through the food
+stamp program; the Medicaid program; the Special Supplemental Food Pro-
+gram for Women, Infants, and Children; and the WAGES Program.
+(27)(28) “Public office” means any federal, state, county, municipal,
+school, or other district office or position which is filled by vote of the elec-
+tors.
+(28)(29) “Qualifying educational institution” means any public or private
+educational institution receiving state financial assistance which has, as its
+primary mission, the provision of education or training to students who are
+at least 18 years of age, provided such institution has more than 200 stu-
+dents enrolled in classes with the institution and provided that the recog-
+nized student government organization has requested this designation in
+writing and has filed the request with the office of the supervisor of elections
+in the county in which the institution is located.
+Ch. 2003-415
+LAWS OF FLORIDA
+Ch. 2003-415
+6
+CODING:  Words stricken are deletions; words underlined are additions.
+
+PDF PAGE 7
+(29)(30) “Special election” is a special election called for the purpose of
+voting on a party nominee to fill a vacancy in the national, state, county, or
+district office.
+(30)(31) “Special primary election” is a special nomination election desig-
+nated by the Governor, called for the purpose of nominating a party nominee
+to be voted on in a general or special election.
+(31)(32) “Supervisor” means the supervisor of elections.
+(32)(33) “Tactile input device” means a device that provides information
+to a voting system by means of a voter touching the device, such as a
+keyboard, and that complies with the requirements of s. 101.56062(1)(k) and
+(l).
+(33)(34) “Undervote” means that the elector does not properly designate
+any choice for an office or ballot question, and the tabulator records no vote
+for the office or question.
+(34)(35) “Uniformed services” means the Army, Navy, Air Force, Marine
+Corps, and Coast Guard, the commissioned corps of the Public Health Ser-
+vice, and the commissioned corps of the National Oceanic and Atmospheric
+Administration.
+(35)(36) “Voter interface device” means any device that communicates
+voting instructions and ballot information to a voter and allows the voter to
+select and vote for candidates and issues.
+(36)(37) “Voter registration agency” means any office that provides pub-
+lic assistance, any office that serves persons with disabilities, any center for
+independent living, or any public library.
+(37)(38) “Voting booth” or “booth” means that booth or enclosure wherein
+an elector casts his or her ballot for tabulation by an electronic or electrome-
+chanical device.
+(38)(39) “Voting system” means a method of casting and processing votes
+that functions wholly or partly by use of electromechanical or electronic
+apparatus or by use of paper ballots and includes, but is not limited to, the
+procedures for casting and processing votes and the programs, operating
+manuals, tabulating cards, printouts, and other software necessary for the
+system’s operation.
+Section 3. Subsection (3) of section 97.052, Florida Statutes, is amended
+to read:
+97.052 Uniform statewide voter registration application.—
+(3) The uniform statewide voter registration application must also con-
+tain:
+(a) The oath required by s. 3, Art. VI of the State Constitution and s.
+97.051.
+Ch. 2003-415
+LAWS OF FLORIDA
+Ch. 2003-415
+7
+CODING:  Words stricken are deletions; words underlined are additions.
+
+PDF PAGE 8
+(b) A statement specifying each eligibility requirement under s. 97.041.
+(c) The penalties provided in s. 104.011 for false swearing in connection
+with voter registration.
+(d) A statement that, if an applicant declines to register to vote, the fact
+that the applicant has declined to register will remain confidential and may
+be used only for voter registration purposes.
+(e) A statement that informs the applicant who chooses to register to vote
+or update a voter registration record that the office at which the applicant
+submits a voter registration application or updates a voter registration
+record will remain confidential and may be used only for voter registration
+purposes.
+(f) A statement that informs the applicant that any person who has been
+granted a homestead exemption in this state, and who registers to vote in
+any precinct other than the one in which the property for which the home-
+stead exemption has been granted, shall have that information forwarded
+to the property appraiser where such property is located, which may result
+in the person’s homestead exemption being terminated and the person being
+subject to assessment of back taxes under s. 193.092, unless the homestead
+granted the exemption is being maintained as the permanent residence of
+a legal or natural dependent of the owner and the owner resides elsewhere.
+(g) A statement informing the applicant that if the form is submitted by
+mail and the applicant is registering for the first time, the applicant will be
+required to provide identification prior to voting the first time.
+Section 4. Paragraph (a) of subsection (5) of section 97.053, Florida Stat-
+utes, is amended to read:
+97.053 Acceptance of voter registration applications.—
+(5)(a) A voter registration application is complete if it contains:
+1. The applicant’s name.
+2. The applicant’s legal residence address.
+3. The applicant’s date of birth.
+4. An indication that the applicant is a citizen of the United States.
+5. The applicant’s Florida driver’s license number, the identification
+number from a Florida identification card issued under s. 322.051, or the
+last four digits of the applicant’s social security number.
+6. An indication that the applicant has not been convicted of a felony or
+that, if convicted, has had his or her civil rights restored.
+7. An indication that the applicant has not been adjudicated mentally
+incapacitated with respect to voting or that, if so adjudicated, has had his
+or her right to vote restored.
+Ch. 2003-415
+LAWS OF FLORIDA
+Ch. 2003-415
+8
+CODING:  Words stricken are deletions; words underlined are additions.
+
+PDF PAGE 9
+8. Signature of the applicant swearing or affirming under the penalty for
+false swearing pursuant to s. 104.011 that the information contained in the
+registration application is true and subscribing to the oath required by s. 3,
+Art. VI of the State Constitution and s. 97.051.
+Section 5. Effective upon this act becoming a law, section 97.028, Florida
+Statutes, is created to read:
+97.028 Procedures on complaints of violations of Title III of the Help
+America Vote Act of 2002.—
+(1)(a) Any person who believes that a violation of Title III of the Help
+America Vote Act of 2002 has occurred, is occurring, or is about to occur may
+file a complaint with the department.
+(b) The complaint must be in writing and must be signed and sworn to
+before a notary by the person filing the complaint. Further, the complaint
+must state the alleged violation and the person or entity responsible for the
+violation. The department shall prescribe the form for complaints filed
+under this section. If the department determines that the complaint fails to
+allege both a violation and a person or entity responsible for the violation,
+or that the complaint is not properly executed, the department shall inform
+the complainant in writing that the complaint is legally insufficient.
+(c) For purposes of this section, a violation of Title III of the Help America
+Vote Act of 2002 is the failure to perform an act required or the performance
+of an act prohibited by Title III of the Help America Vote Act of 2002 by a
+covered person or entity.
+(d) The department shall have sole jurisdiction over complaints filed
+under the provisions of this section.
+(e) This section provides the sole avenue of redress for alleged violations
+of Title III of the Help America Vote Act of 2002 and does not give rise to
+any other cause of action.
+(f) The department may consolidate complaints filed under this section.
+(g) All proceedings under this section are exempt from chapter 120.
+(2)(a) When a legally sufficient complaint is filed with the department,
+the agency head shall designate a hearing officer who shall:
+1. Provide the subject of the complaint with a copy of the complaint. The
+subject of the complaint shall, within 10 days after receipt of the complaint,
+file with the department a written, sworn response to the complaint.
+2. Upon receipt of the response, the hearing officer shall review both
+sworn filings to determine whether a violation of the Title III of the Help
+America Vote Act of 2002 has occurred, is occurring, or is about to occur. The
+complaint and the response shall constitute the official hearing record to be
+considered by the hearing officer. The hearing officer shall provide the com-
+plainant with a copy of the response.
+Ch. 2003-415
+LAWS OF FLORIDA
+Ch. 2003-415
+9
+CODING:  Words stricken are deletions; words underlined are additions.
+
+PDF PAGE 10
+3. At the hearing officer’s discretion, the complainant and the respondent
+may be ordered by the hearing officer to provide additional sworn oral or
+written statements or additional documents to assist the hearing officer in
+making his or her determination. Further, other relevant witnesses may
+also be ordered by the hearing officer to give sworn testimony or to provide
+relevant documents to assist the hearing officer in making his or her deter-
+mination. Any such statements or documents received by the hearing officer
+shall also become part of the official hearing record. For purposes of this
+section, the hearing officer is authorized to administer oaths and to issue
+subpoenas.
+4. The hearing officer shall advise both the complainant and respondent
+in writing of their determination. If the hearing officer determines that no
+violation has occurred, is occurring, or is about to occur, the department
+shall dismiss the complaint and publish its determination. If the hearing
+officer determines that a violation of Title III of the Help America Vote Act
+has occurred, is occurring, or is about to occur, the department shall issue
+and deliver an order directing the appropriate remedy to persons responsi-
+ble for effecting such remedy. The issuance of an order does not constitute
+agency action for which a hearing under ss. 120.569 or 120.57 may be
+sought. For purposes of enforcing the order, the department may initiate a
+proceeding in the name of the state seeking issuance of an injunction, a writ
+of mandamus, or other equitable remedy against any person who violates
+any provision of such order.
+5. The department shall make a final determination with respect to the
+complaint within 90 days after the date that the complaint was filed, unless
+the complainant consents to a longer period for making such a determina-
+tion.
+(b) If the department fails to meet the deadline established in subpara-
+graph (a)5., the complaint shall be forwarded to mediation. Mediation shall
+occur within 60 days after the department’s failure to make a determination
+within the timeframe established in subparagraph (a)5. The record created
+under this section shall be made available for use in the mediation.
+Section 6. Section 97.0535, Florida Statutes, is created to read:
+97.0535 Special requirements for certain applicants.—
+(1) Each applicant who registers by mail and who has never previously
+voted in the county shall be required to provide a copy of a current and valid
+identification, as provided in subsection (3), or indicate that he or she is
+exempt from the requirements prior to voting. The applicant may provide
+the identification or indication at the time of registering, or at any time prior
+to voting for the first time in the county. If the voter registration application
+clearly provides information from which the supervisor can determine that
+the applicant meets at least one of the exemptions in subsection (4), the
+supervisor shall make the notation on the registration records and the appli-
+cant shall not be required to provide further information that is required of
+first time voters who register by mail.
+Ch. 2003-415
+LAWS OF FLORIDA
+Ch. 2003-415
+10
+CODING:  Words stricken are deletions; words underlined are additions.
+
+PDF PAGE 11
+(2) The supervisor of elections shall, upon accepting the voter registra-
+tion for an applicant who registered by mail and who has not previously
+voted in the county, determine if the applicant provided the required identi-
+fication at the time of registering. If the required identification was not
+provided, the supervisor shall notify the applicant that he or she must
+provide the identification prior to voting the first time in the county.
+(3)(a) The following forms of identification shall be considered current
+and valid if they contain the name and photograph of the applicant and have
+not expired:
+1. Florida driver’s license.
+2. Florida identification card issued by the Department of Highway
+Safety and Motor Vehicles.
+3. United States passport.
+4. Employee badge or identification.
+5. Buyer’s club identification.
+6. Debit or credit card.
+7. Military identification.
+8. Student identification.
+9. Retirement center identification.
+10. Neighborhood association identification.
+11. Entertainment identification.
+12. Public assistance identification.
+(b) The following forms of identification shall be considered current and
+valid if they contain the name and current residence address of the appli-
+cant:
+1. Utility bill.
+2. Bank statement.
+3. Government check.
+4. Paycheck.
+5. Other government document (excluding voter identification card).
+(4) The following persons are exempt from the identification require-
+ments of this section:
+(a) Persons 65 years of age or older.
+Ch. 2003-415
+LAWS OF FLORIDA
+Ch. 2003-415
+11
+CODING:  Words stricken are deletions; words underlined are additions.
+
+PDF PAGE 12
+(b) Persons with a temporary or permanent physical disability.
+(c) Members of the uniformed service on active duty who, by reason of
+such active duty, are absent from the county on election day.
+(d) Members of the merchant marine who, by reason of service in the
+merchant marine, are absent from the county on election day.
+(e) The spouse or dependent of a member referred to in paragraph (c) or
+paragraph (d) who, by reason of the active duty or service of the member,
+is absent from the county on election day.
+(f) Persons currently residing outside the United States who are eligible
+to vote in Florida.
+Section 7. Subsection (3) of section 98.045, Florida Statutes, is amended
+to read:
+98.045 Administration of voter registration.—
+(3) Notwithstanding the provisions of ss. 98.095, 98.097, and 98.0977,
+each supervisor shall maintain for at least 2 years, and make available for
+public inspection and copying, all records concerning implementation of
+registration list maintenance programs and activities conducted pursuant
+to ss. 98.065, 98.075, and 98.0977. The records must include lists of the
+name and address of each person to whom an address confirmation final
+notice was sent and information as to whether each such person responded
+to the mailing, but may not include any information that is confidential or
+exempt from public record requirements under this code.
+Section 8. Section 98.097, Florida Statutes, is repealed.
+Section 9. Section 98.0977, Florida Statutes, is amended to read:
+98.0977 Statewide voter registration database; operation development
+and maintenance.—
+(1) From the funds appropriated, The department shall may contract
+with the Florida Association of Court Clerks to analyze, design, develop,
+operate, and maintain the a statewide, on-line voter registration database
+and associated website until such time as the statewide voter registration
+system required to be developed pursuant to the Help America Vote Act of
+2002 is operational, to be fully operational statewide by June 1, 2002. The
+database shall contain voter registration information from each of the 67
+supervisors of elections in this state and shall be accessible through an
+Internet website. The system shall provide functionality for ensuring that
+the database is updated on a daily basis to determine if a registered voter
+is ineligible to vote for any of the following reasons, including, but not
+limited to:
+(a) The voter is deceased;
+(b) The voter has been convicted of a felony and has not had his or her
+civil rights restored; or
+Ch. 2003-415
+LAWS OF FLORIDA
+Ch. 2003-415
+12
+CODING:  Words stricken are deletions; words underlined are additions.
+
+PDF PAGE 13
+(c) The voter has been adjudicated mentally incompetent and his or her
+mental capacity with respect to voting has not been restored.
+The database shall also allow for duplicate voter registrations to be identi-
+fied.
+(2) The Department of State shall not contract with any private entity
+other than the Florida Association of Court Clerks for the operation or
+maintenance of the statewide voter registration database.
+(3)(a) In administering the database, each supervisor of elections shall
+compare registration information provided by a voter with information held
+by the Department of Law Enforcement, the Board of Executive Clemency,
+the Office of Vital Statistics, and other relevant sources.
+(b) The supervisor of elections shall remove from the voter registration
+rolls the name of any person who is listed in the database as deceased.
+(c) Information in the database indicating that a person registered to
+vote in a given county has subsequently registered to vote in another juris-
+diction shall be considered as a written request from that voter to have his
+or her name removed from the voter registration rolls of that county, and
+the supervisor of elections of that county shall remove that voter’s name
+from the county’s voter registration rolls.
+(d) When the supervisor of elections finds information through the data-
+base that suggests that a voter has been convicted of a felony and has not
+had his or her civil rights restored or has been adjudicated mentally incom-
+petent and his or her mental capacity with respect to voting has not been
+restored, the supervisor of elections shall notify the voter by certified United
+States mail. The notification shall contain a statement as to the reason for
+the voter’s potential ineligibility to be registered to vote and shall request
+information from the voter on forms provided by the supervisor of elections.
+As an alternative, the voter may attend a hearing at a time and place
+specified in the notice. If there is evidence that the notice was not received,
+notice must be given once by publication in a newspaper of general circula-
+tion in the county. The notice must plainly state that the voter is potentially
+ineligible to be registered to vote and must state a time and place for the
+person to appear before the supervisor of elections to show cause why his or
+her name should not be removed from the voter registration rolls. After
+reviewing the information provided by the voter, if the supervisor of elec-
+tions determines that the voter is not eligible to vote under the laws of this
+state, the supervisor of elections shall notify the voter by certified United
+States mail that he or she has been found ineligible to be registered to vote
+in this state, shall state the reason for the ineligibility, and shall inform the
+voter that he or she has been removed from the voter registration rolls. The
+supervisor of elections shall remove from the voter registration rolls the
+name of any voter who fails either to respond within 30 days to the notice
+sent by certified mail or to attend the hearing.
+(e) Upon hearing all evidence in a hearing, the supervisor of elections
+must determine whether there is sufficient evidence to strike the person’s
+Ch. 2003-415
+LAWS OF FLORIDA
+Ch. 2003-415
+13
+CODING:  Words stricken are deletions; words underlined are additions.
+
+PDF PAGE 14
+name from the registration books. If the supervisor determines that there
+is sufficient evidence, he or she must strike the name.
+(f) Appeal may be taken to the circuit court in and for the county where
+the person was registered. Notice of appeal must be filed within the time and
+in the manner provided by the Florida Rules of Appellate Procedure and acts
+as supersedeas. Trial in the circuit court is de novo and governed by the rules
+of that court. Unless the person can show that his or her name was errone-
+ously or illegally stricken from the registration books or that he or she is
+indigent, the person must bear the costs of the trial in the circuit court.
+Otherwise, the cost of the appeal must be paid by the board of county
+commissioners.
+(4) To the maximum extent feasible, state and local government entities
+shall facilitate provision of information and access to data to the department
+in order to compare information in the statewide voter registration database
+with available information in other computer databases, including, but not
+limited to, databases that contain reliable criminal records and records of
+deceased persons. State and local governmental agencies that provide such
+data shall do so without charge if the direct cost incurred by those agencies
+is not significant.
+(5) The Division of Elections shall provide written quarterly progress
+reports on each phase of development of the voter registration database to
+the President of the Senate and the Speaker of the House of Representatives
+beginning July 1, 2001, and continuing until the database is fully imple-
+mented.
+(5)(6) The duties of the supervisors of elections under this section shall
+be considered part of their regular registration list maintenance duties
+under this chapter, and any supervisor of elections who willfully refuses or
+willfully neglects to perform his or her duties under this section shall be in
+violation of s. 104.051(2).
+Section 10. (1) Beginning July 1, 2003, from the funds appropriated the
+Department of State shall begin the development of a statewide voter regis-
+tration system designed to meet the requirements of sections 303 through
+305 of the Help America Vote Act of 2002. The Legislature recognizes that
+the January 1, 2004, implementation date for the system provided in the
+federal bill cannot be met because there is not sufficient time for implemen-
+tation of such a system. Accordingly, the department shall certify these facts
+to the Election Assistance Commission in order to qualify for waiver and
+extension of the due date until January 1, 2006.
+(2) The department shall begin system needs assessments and design
+activities by July 1, 2003. The Department of Highway Safety and Motor
+Vehicles, the Department of Health, the Department of Law Enforcement,
+the Board of Executive Clemency, the State Technology Office, and repre-
+sentatives of the Florida State Association of Supervisors of Elections shall
+cooperate and participate in the development of the system. Other state
+agencies and local government entities that may have data or systems
+needed for integration with the system shall also cooperate and participate
+in the development of the system upon a request from the department.
+Ch. 2003-415
+LAWS OF FLORIDA
+Ch. 2003-415
+14
+CODING:  Words stricken are deletions; words underlined are additions.
+
+PDF PAGE 15
+(3) No later than January 31, 2004, the department shall present to the
+Governor, the President of the Senate, and the Speaker of the House of
+Representatives a plan for completion of the system, which shall include:
+(a) Business process design for all participants in the system operation.
+(b) Design, location, and specifications for hardware, system software
+components, and communications infrastructure of the system.
+(c) Design, specifications, and development plans for application soft-
+ware for the system.
+(d) Budget for completion of the system, including all agencies and
+county offices.
+(e) Recommended statutory changes needed to implement the system.
+(4) This phase of the development shall continue through June 30, 2004,
+and shall include design and development of the core system, which will be
+operated by the Department of State; definition of the business processes
+which will be required of the other agencies and counties; and functional
+requirements specifications for integration with the data systems of the
+other agencies and the counties.
+(5) This section shall take effect upon this act becoming a law.
+Section 11. Section 98.212, Florida Statutes, is amended to read:
+98.212 Supervisors to furnish statistical and other information.—
+(1)(a) Upon written request, supervisors shall, as promptly as possible,
+furnish to recognized public or private universities and senior colleges
+within the state, to state or county governmental agencies, and to recognized
+political party committees statistical information for the purpose of analyz-
+ing election returns and results.
+(b) Supervisors may require reimbursement for any part or all of the
+actual expenses of supplying any information requested under paragraph
+(a). For the purposes of this subsection, supervisors may use the services of
+any research and statistical personnel that may be supplied.
+(c) Lists of names submitted to supervisors for indication of registration
+or nonregistration or of party affiliation shall be processed at any time at
+cost, except that in no case shall the charge exceed 10 cents for each name
+on which the information is furnished.
+(2) The supervisors shall provide information as requested by the depart-
+ment for program evaluation and reporting to the Federal Election Commis-
+sion pursuant to the National Voter Registration Act of 1993.
+(3) The supervisors shall provide information as requested by the depart-
+ment for the creation and maintenance of the central voter file.
+Section 12. Section 98.461, Florida Statutes, is amended to read:
+Ch. 2003-415
+LAWS OF FLORIDA
+Ch. 2003-415
+15
+CODING:  Words stricken are deletions; words underlined are additions.
+
+PDF PAGE 16
+98.461 Registration form, precinct register; contents.—A registration
+form, approved by the Department of State, containing the information
+required in s. 97.052 shall be filed alphabetically in the office of the supervi-
+sor as the master list of electors of the county. However, the registration
+forms may be microfilmed and such microfilms substituted for the original
+registration forms; or, when voter registration information, including the
+voter’s signature, is maintained digitally or on electronic, magnetic, or optic
+media, such stored information may be substituted for the original registra-
+tion form. Such microfilms or stored information shall be retained in the
+custody of the supervisor of elections. In the event the original registration
+forms are microfilmed or maintained digitally or on electronic or other
+media, such originals may be destroyed in accordance with the schedule
+approved by the Bureau of Archives and Records Management of the Divi-
+sion of Library and Information Services of the Department of State. As an
+alternative, the information from the registration form, including the signa-
+ture, may be electronically reproduced and stored as provided in s. 98.451.
+A computer printout shall may be used at the polls as a precinct register in
+lieu of the registration books. The precinct register shall contain the date of
+the election, the precinct number, and the following information concerning
+each registered elector: last name, first name, and middle name or initial;
+party affiliation; residence address; registration number; date of birth; sex,
+if provided; race, if provided; whether the voter needs assistance in voting;
+and such other additional information as to readily identify the elector. The
+precinct register may also contain a list of the forms of identification, which
+must include, but is not limited to, a Florida driver’s license, a Florida
+identification card issued under s. 322.051, or another form of picture identi-
+fication approved by the Department of State. The precinct register shall
+may also contain a space for the elector’s signature and, a space for the
+initials of the witnessing clerk or inspector, and a space for the signature slip
+or ballot number.
+Section 13. Section 98.471, Florida Statutes, is renumbered as section
+101.043, Florida Statutes, and amended to read:
+101.043 98.471 Identification required Use of precinct register at polls.—
+(1) The precinct register, as prescribed in s. 98.461, shall may be used at
+the polls in lieu of the registration books for the purpose of identifying the
+elector at the polls prior to allowing him or her to vote. The clerk or inspector
+shall require each elector, upon entering the polling place, to present a
+current and valid Florida driver’s license, a Florida identification card is-
+sued under s. 322.051, or another form of picture identification as provided
+in s. 97.0535(3)(a). If the picture identification does not contain the signa-
+ture of the voter, an additional identification that provides the voter’s signa-
+ture shall be required approved by the Department of State. The elector
+shall sign his or her name in the space provided, and the clerk or inspector
+shall compare the signature with that on the identification provided by the
+elector and enter his or her initials in the space provided and allow the
+elector to vote if the clerk or inspector is satisfied as to the identity of the
+elector.
+(2) Except as provided in subsection (3), if the elector fails to furnish the
+required identification, or if the clerk or inspector is in doubt as to the
+Ch. 2003-415
+LAWS OF FLORIDA
+Ch. 2003-415
+16
+CODING:  Words stricken are deletions; words underlined are additions.
+
+PDF PAGE 17
+identity of the elector, such clerk or inspector shall follow the procedure
+prescribed in s. 101.49.
+(3) If the elector who fails to furnish the required identification is a first-
+time voter who registered by mail and has not provided the required identifi-
+cation to the supervisor of elections prior to election day, the elector shall
+be allowed to vote a provisional ballot. The canvassing board shall determine
+the validity of the ballot pursuant to s. 101.048(2).
+Section 14. Section 98.491, Florida Statutes, is repealed.
+Section 15. Section 101.048, Florida Statutes, is amended to read:
+101.048 Provisional ballots.—
+(1) At all elections, a voter claiming to be properly registered in the
+county and eligible to vote at the precinct in the election, but whose eligibil-
+ity cannot be determined, and other persons specified in the code shall be
+entitled to vote a provisional ballot. Once voted, the provisional ballot shall
+be placed in a secrecy envelope and thereafter sealed in a provisional ballot
+envelope. The provisional ballot shall be deposited in a ballot box. All provi-
+sional ballots shall remain sealed in their envelopes for return to the super-
+visor of elections. The department shall prescribe the form of the provisional
+ballot envelope.
+(2)(a) The county canvassing board shall examine each provisional ballot
+envelope to determine if the person voting that ballot was entitled to vote
+at the precinct where the person cast a vote in the election and that the
+person had not already cast a ballot in the election.
+(b)1. If it is determined that the person was registered and entitled to
+vote at the precinct where the person cast a vote in the election, the canvass-
+ing board shall compare the signature on the provisional ballot envelope
+with the signature on the voter’s registration and, if it matches, shall count
+the ballot.
+2. If it is determined that the person voting the provisional ballot was not
+registered or entitled to vote at the precinct where the person cast a vote in
+the election, the provisional ballot shall not be counted and the ballot shall
+remain in the envelope containing the Provisional Ballot Voter’s Certificate
+and Affirmation and the envelope shall be marked “Rejected as Illegal.”
+(3) The Provisional Ballot Voter’s Certificate and Affirmation shall be in
+substantially the following form:
+STATE OF FLORIDA
+COUNTY OF ....
+I do solemnly swear (or affirm) that my name is ....; that my date of birth
+is ....; that I am registered to vote and at the time I registered I resided at
+...., in the municipality of ...., in .... County, Florida; that I am registered in
+the .... Party; that I am a qualified voter of the county; and that I have not
+voted in this election. I understand that if I commit any fraud in connection
+Ch. 2003-415
+LAWS OF FLORIDA
+Ch. 2003-415
+17
+CODING:  Words stricken are deletions; words underlined are additions.
+
+PDF PAGE 18
+with voting, vote a fraudulent ballot, or vote more than once in an election,
+I can be convicted of a felony of the third degree and fined up to $5,000 and/or
+imprisoned for up to 5 years.
+...(Signature of Voter)...
+...(Current Residence Address)...
+...(Current Mailing Address)...
+...(City, State, Zip Code)...
+...(Driver’s License Number or Last Four Digits of Social Security
+Number)...
+Sworn to and subscribed before me this .... day of ........, ...(year)...
+...(Election Official)...
+Precinct # .... Ballot Style/Party Issued: ....
+Additional information may be provided to further assist the supervisor of
+elections in determining eligibility.
+(4) In counties where the voting system does not utilize a paper ballot,
+the supervisor of elections may shall provide the appropriate provisional
+ballot to the voter by electronic means as provided for by the certified voting
+system. Each person casting a provisional ballot by electronic means shall,
+prior to casting his or her ballot, complete the Provisional Ballot Voter’s
+Certificate and Affirmation as provided in subsection (3) ballots to each
+polling place.
+(5) Each person casting a provisional ballot shall be given written in-
+structions regarding the free access system established pursuant to subsec-
+tion (6). The instructions shall contain information on how to access the
+system and the information the voter will need to provide to obtain informa-
+tion on his or her particular ballot. The instructions shall also include the
+following statement: “If this is a primary election, you should contact the
+supervisor of elections’ office immediately to confirm that you are registered
+and can vote in the general election.”
+(6) Each supervisor of elections shall establish a free access system that
+allows each person who casts a provisional ballot to determine whether his
+or her provisional ballot was counted in the final canvass of votes and, if not,
+the reasons why. Information regarding provisional ballots shall be avail-
+able no later than 30 days following the election. The system established
+must restrict information regarding an individual ballot to the person who
+cast the ballot.
+Section 16. Section 101.049, Florida Statutes, is created to read:
+101.049 Provisional ballots; special circumstances.—
+Ch. 2003-415
+LAWS OF FLORIDA
+Ch. 2003-415
+18
+CODING:  Words stricken are deletions; words underlined are additions.
+
+PDF PAGE 19
+(1) Any person who votes in an election after the regular poll-closing time
+pursuant to a court or other order extending the statutory polling hours
+must vote a provisional ballot. Once voted, the provisional ballot shall be
+placed in a secrecy envelope and thereafter sealed in a provisional ballot
+envelope. The election official witnessing the voter’s subscription and affir-
+mation on the Provisional Ballot Voter’s Certificate shall indicate whether
+or not the voter met all requirements to vote a regular ballot at the polls.
+All such provisional ballots shall remain sealed in their envelopes and trans-
+mitted to the supervisor of elections.
+(2) Separate and apart from all other ballots, the county canvassing
+board shall count all late-voted provisional ballots that the canvassing board
+determines to be valid.
+(3) The supervisor shall ensure that late-voted provisional ballots are not
+commingled with other ballots during the canvassing process or at any other
+time they are statutorily required to be in the supervisor’s possession.
+(4) This section shall not apply to voters in line at the poll-closing time
+provided in s. 100.011 who cast their ballot subsequent to that time.
+(5) As an alternative, provisional ballots cast pursuant to this section
+may be cast in accordance with the provisions of s. 101.048(4).
+Section 17. Section 101.111, Florida Statutes, is amended to read:
+101.111 Person desiring to vote may be challenged; challenger to execute
+oath; oath of person challenged elector; determination of challenge.—
+(1) When the right to vote of any person who desires to vote is challenged
+questioned by any elector or poll watcher, the challenge shall be reduced to
+writing with an oath as provided in this section, giving reasons for the
+challenge, which shall be delivered to the clerk or inspector. Any elector or
+authorized poll watcher challenging the right of a person to vote an elector
+at an election shall execute the oath set forth below:
+OATH OF PERSON ENTERING CHALLENGE
+State of Florida
+County of ....
+I do solemnly swear that my name is ....; that I am a member of the .... party;
+that I am .... years old; that I was born in the state of .... or the country of
+....; that my residence address is on .... street, in the municipality of ....; and
+that I have reason to believe that .... is attempting to vote illegally and the
+reasons for my belief are set forth herein to wit:
+...(Signature of person challenging voter)...
+Sworn and subscribed to before me this .... day of ...., ...(year)....
+...(Clerk of election)...
+Ch. 2003-415
+LAWS OF FLORIDA
+Ch. 2003-415
+19
+CODING:  Words stricken are deletions; words underlined are additions.
+
+PDF PAGE 20
+(2) Before a person who is challenged elector is permitted to vote by any
+officer or person in charge of admission to the polling place, the challenged
+person’s elector’s right to vote shall be determined in accordance with the
+provisions of subsection (3). The clerk or inspector shall immediately deliver
+to the challenged person elector a copy of the oath of the person entering the
+challenge and shall request the challenged person elector to execute the
+following oath affidavit:
+OATH OF PERSON CHALLENGED VOTER
+State of Florida
+County of _____
+I do solemnly swear that my name is ....; that I am a member of the .... party;
+that my date of birth is I am .... years old; that I was born in the state of ....
+or the country of ....; that my residence address is on .... street, in the
+municipality of ...., in this the .... precinct of .... county; that I personally
+made application for registration and signed my name and that I am a
+qualified voter in this election, and I am not registered to vote in any other
+precinct other than the one in which I am presently seeking to vote.
+...(Signature of person voter)...
+Sworn and subscribed to before me this .... day of ...., ...(year)....
+...(Clerk of election or Inspector)...
+Any inspector or clerk of election may administer the oath.
+(3)(a) The clerk and inspectors shall compare the information in the
+challenged person’s oath with that entered on the precinct register and shall
+take any other evidence that may be offered. The clerk and inspectors shall
+then decide by a majority vote whether the challenged person may vote a
+regular ballot.
+(b) If the challenged person refuses to complete the oath or if a majority
+of the clerk and inspectors doubt the eligibility of the person to vote, the
+challenged person shall be allowed to vote a provisional ballot. The oath of
+the person entering the challenge and the oath of the person challenged
+shall be attached to the provisional ballot for transmittal to the canvassing
+board. If the challenged person refuses to make and sign the affidavit, the
+clerk or inspector shall refuse to allow him or her to vote. If such person
+makes the affidavit, the inspectors and clerk of election shall compare the
+information in the affidavit with that entered on the registration books
+opposite the person’s name, and, upon such comparison of the information
+and the person’s signature and the taking of other evidence which may then
+be offered, the clerk and inspectors shall decide by a majority vote whether
+the challenged person may vote. If the challenged person is unable to write
+or sign his or her name, the clerk or inspector shall examine the precinct
+register to ascertain whether the person registered under the name of such
+person is represented to have signed his or her name. If the person is so
+Ch. 2003-415
+LAWS OF FLORIDA
+Ch. 2003-415
+20
+CODING:  Words stricken are deletions; words underlined are additions.
+
+PDF PAGE 21
+represented, then he or she shall be denied permission to vote without
+further examination; but, if not, then the clerk or one of the inspectors shall
+place such person under oath and orally examine him or her upon the subject
+matter contained in the affidavit, and, if there is any doubt as to the identity
+of such person, the clerk or inspector shall compare the person’s appearance
+with the description entered upon the precinct register opposite the person’s
+name. The clerk or inspector shall then proceed as in other cases to deter-
+mine whether the challenged person may vote.
+Section 18. Paragraph (a) of subsection (1) of section 101.62, Florida
+Statutes, is amended to read:
+101.62 Request for absentee ballots.—
+(1)(a) The supervisor may accept a request for an absentee ballot from
+an elector in person or in writing. Except as provided in s. 101.694, one
+request shall be deemed sufficient to receive an absentee ballot for all elec-
+tions which are held within a calendar year, unless the elector or the elec-
+tor’s designee indicates at the time the request is made the elections for
+which the elector desires to receive an absentee ballot. Such request may be
+considered canceled when any first-class mail sent by the supervisor to the
+elector is returned as undeliverable.
+Section 19. Subsection (1) of section 101.64, Florida Statutes, is amended
+to read:
+101.64 Delivery of absentee ballots; envelopes; form.—
+(1) The supervisor shall enclose with each absentee ballot two envelopes:
+a secrecy envelope, into which the absent elector shall enclose his or her
+marked ballot; and a mailing envelope, into which the absent elector shall
+then place the secrecy envelope, which shall be addressed to the supervisor
+and also bear on the back side a certificate in substantially the following
+form:
+Note: Please Read Instructions Carefully Before
+Marking Ballot and Completing Voter’s Certificate.
+VOTER’S CERTIFICATE
+I, ...., do solemnly swear or affirm that I am a qualified and registered voter
+of .... County, Florida, and that I have not and will not vote more than one
+ballot in this election. I understand that if I commit or attempt to commit
+any fraud in connection with voting, vote a fraudulent ballot, or vote more
+than once in an election, I can be convicted of a felony of the third degree
+and fined up to $5,000 and/or imprisoned for up to 5 years. I also understand
+that failure to sign this certificate and have my signature properly wit-
+nessed will invalidate my ballot.
+...(Date)... ...(Voter’s Signature)...
+Note: Your Signature Must Be Witnessed By One Witness 18 Years of Age
+or Older as provided in item 8 of the Instruction Sheet.
+Ch. 2003-415
+LAWS OF FLORIDA
+Ch. 2003-415
+21
+CODING:  Words stricken are deletions; words underlined are additions.
+
+PDF PAGE 22
+I swear or affirm that the voter signed this Voter’s Certificate in my pres-
+ence.
+...(Signature of Witness)...
+...(Address)...
+...(City/State)...
+Section 20. Section 101.65, Florida Statutes, is amended to read:
+101.65 Instructions to absent electors.—The supervisor shall enclose
+with each absentee ballot separate printed instructions in substantially the
+following form:
+READ THESE INSTRUCTIONS CAREFULLY BEFORE MARKING BAL-
+LOT.
+1. VERY IMPORTANT. In order to ensure that your absentee ballot will
+be counted, it should be completed and returned as soon as possible so that
+it can reach the supervisor of elections of the county in which your precinct
+is located no later than 7 p.m. on the day of the election.
+2. Mark your ballot in secret as instructed on the ballot. You must mark
+your own ballot unless you are unable to do so because of blindness, disabil-
+ity, or inability to read or write.
+3. Mark only the number of candidates or issue choices for a race as
+indicated on the ballot. If you are allowed to “Vote for One” candidate and
+you vote for more than one candidate, your vote in that race will not be
+counted.
+4.3. Place your marked ballot in the enclosed secrecy envelope.
+5.4. Insert the secrecy envelope into the enclosed mailing envelope which
+is addressed to the supervisor.
+6.5. Seal the mailing envelope and completely fill out the Voter’s Certifi-
+cate on the back of the mailing envelope.
+7.6. VERY IMPORTANT. In order for your absentee ballot to be counted,
+you must sign your name on the line above (Voter’s Signature).
+8.7. VERY IMPORTANT. If you are an overseas voter, you must include
+the date you signed the Voter’s Certificate on the line above (Date) or your
+ballot may not be counted.
+9.8. VERY IMPORTANT. In order for your absentee ballot to be counted,
+it must include the signature and address of a witness 18 years of age or
+older affixed to the Voter’s Certificate. No candidate may serve as an attest-
+ing witness.
+Ch. 2003-415
+LAWS OF FLORIDA
+Ch. 2003-415
+22
+CODING:  Words stricken are deletions; words underlined are additions.
+
+PDF PAGE 23
+10.9. Mail, deliver, or have delivered the completed mailing envelope. Be
+sure there is sufficient postage if mailed.
+11.10. FELONY NOTICE. It is a felony under Florida law to accept any
+gift, payment, or gratuity in exchange for your vote for a candidate. It is also
+a felony under Florida law to vote in an election using a false identity or false
+address, or under any other circumstances making your ballot false or fraud-
+ulent.
+Section 21. Section 101.657, Florida Statutes, is amended to read:
+101.657 Voting absentee ballots in person.—
+(1) Any qualified and registered elector may pick up and vote an absentee
+ballot in person at the office of, and under the supervision of, the supervisor
+of elections. Before receiving the ballot, the elector must present a current
+and valid Florida driver’s license, a Florida identification card issued under
+s. 322.051, or another form of picture identification as provided in s.
+97.0535(3)(a) approved by the Department of State. If the elector fails to
+furnish the required identification, or if the supervisor is in doubt as to the
+identity of the elector, the supervisor must follow the procedure prescribed
+in s. 101.49. If the elector who fails to furnish the required identification is
+a first-time voter who registered by mail and has not provided the required
+identification to the supervisor of elections prior to voting, the elector shall
+be allowed to vote a provisional ballot. The canvassing board shall compare
+the signature on the provisional ballot envelope with the signature on the
+voter’s registration and, if the signatures match, shall count the ballot.
+(2) As an alternative to the provisions of ss. 101.64 and 101.65, the
+supervisor of elections may allow an elector to cast an absentee ballot in the
+main or branch office of the supervisor by depositing the voted ballot in a
+voting device used by the supervisor to collect or tabulate ballots. The results
+or tabulation may not be made before the close of the polls on election day.
+(a) The elector must provide picture identification as required in subsec-
+tion (1) and must complete an In-Office Voter Certificate in substantially the
+following form:
+IN-OFFICE VOTER CERTIFICATE
+I, ...., am a qualified elector in this election and registered voter of ....
+County, Florida. I do solemnly swear or affirm that I am the person so listed
+on the voter registration rolls of .... County and that I reside at the listed
+address. I understand that if I commit or attempt to commit fraud in connec-
+tion with voting, vote a fraudulent ballot, or vote more than once in an
+election I could be convicted of a felony of the third degree and both fined
+up to $5,000 and imprisoned for up to 5 years. I understand that my failure
+to sign this certificate and have my signature witnessed invalidates my
+ballot.
+...(Voter’s Signature)...
+Ch. 2003-415
+LAWS OF FLORIDA
+Ch. 2003-415
+23
+CODING:  Words stricken are deletions; words underlined are additions.
+
+PDF PAGE 24
+...(Address)...
+...(City/State)...
+...(Name of Witness)...
+...(Signature of Witness)...
+...(Type of identification provided)...
+(b) Any elector may challenge an elector seeking to cast an absentee
+ballot under the provisions of s. 101.111. Any challenged ballot must be
+placed in a regular absentee ballot envelope. The canvassing board shall
+review the ballot and decide the validity of the ballot by majority vote.
+(c) The canvass of returns for ballots cast under this subsection shall be
+substantially the same as votes cast by electors in precincts, as provided in
+s. 101.5614.
+Section 22. Section 101.6921, Florida Statutes, is created to read:
+101.6921 Delivery of special absentee ballot to certain first-time vot-
+ers.—
+(1) The provisions of this section apply to voters who registered to vote
+by mail, who have not previously voted in the county, and who have not
+provided the identification or certification required by s. 97.0535 by the time
+the absentee ballot is mailed.
+(2) The supervisor shall enclose with each absentee ballot three enve-
+lopes: a secrecy envelope, into which the absent elector will enclose his or
+her marked ballot; an envelope containing the Voter’s Certificate, into which
+the absent elector shall place the secrecy envelope; and a mailing envelope,
+which shall be addressed to the supervisor and into which the absent elector
+will place the envelope containing the Voter’s Certificate and a copy of the
+required identification.
+(3) The Voter’s Certificate shall be in substantially the following form:
+Note: Please Read Instructions Carefully Before Marking Ballot and Com-
+pleting Voter’s Certificate
+VOTER’S CERTIFICATE
+I, ...., do solemnly swear or affirm that I am a qualified and registered voter
+of .... County, Florida, and that I have not and will note vote more than one
+ballot in this election. I understand that if I commit or attempt to commit
+any fraud in connection with voting, vote a fraudulent ballot, or vote more
+than once in an election, I can be convicted of a felony of the third degree
+and fined up to $5,000 and/or imprisoned for up to 5 years. I also understand
+that failure to sign this certificate and have my signature properly wit-
+nessed will invalidate my ballot. I understand that unless I meet one of the
+exemptions below, I must provide a copy of a current and valid identification
+Ch. 2003-415
+LAWS OF FLORIDA
+Ch. 2003-415
+24
+CODING:  Words stricken are deletions; words underlined are additions.
+
+PDF PAGE 25
+as provided in the instruction sheet to the supervisor of elections in order
+for my ballot to count.
+I further certify that I am exempt from the requirements to furnish a copy
+of a current and valid identification with my ballot because of one or more
+of the following (check all that apply):
+l I am 65 years of age or older.
+l I have a permanent or temporary physical disability.
+l I am a member of a uniformed service on active duty who, by reason of
+such active duty, will be absent from the county on election day.
+l I am a member of the merchant marine who, by reason of service in the
+merchant marine, will be absent from the county on election day.
+l I am the spouse or dependent of a member of the uniformed service or
+merchant marine who, by reason of the active duty or service of the member,
+will be absent from the county on election day.
+l I am currently residing outside the United States.
+...(Date)... ...Voter’s Signature...
+Note: Your signature must be witnessed by one witness 18 years of age or
+older as provided in the instruction sheet.
+I swear or affirm that the voter signed this Voter’s Certificate in my pres-
+ence.
+...(Signature of witness)...
+...(Address)...
+...(City/State)...
+(4) The certificate shall be arranged on the back of the envelope so that
+the lines for the signatures of the absent elector and the attesting witness
+are across the seal of the envelope.
+Section 23. Section 101.6923, Florida Statutes, is created to read:
+101.6923 Special absentee ballot instructions for certain first-time vot-
+ers.—
+(1) The provisions of this section apply to voters who registered to vote
+by mail, who have not previously voted in the county, and who have not
+provided the identification or information required by s. 97.0535 by the time
+the absentee ballot is mailed.
+(2) A voter covered by this section shall be provided with the following
+printed instructions with his or her absentee ballot:
+Ch. 2003-415
+LAWS OF FLORIDA
+Ch. 2003-415
+25
+CODING:  Words stricken are deletions; words underlined are additions.
+
+PDF PAGE 26
+READ THESE INSTRUCTIONS CAREFULLY BEFORE MARKING
+YOUR BALLOT. FAILURE TO FOLLOW THESE INSTRUCTIONS
+MAY CAUSE YOUR BALLOT NOT TO COUNT.
+1. In order to ensure that your absentee ballot will be counted, it should
+be completed and returned as soon as possible so that it can reach the
+supervisor of elections of the county in which your precinct is located no later
+than 7 p.m. on the date of the election.
+2. Mark your ballot in secret as instructed on the ballot. You must mark
+your own ballot unless you are unable to do so because of blindness, disabil-
+ity, or inability to read or write.
+3. Mark only the number of candidates or issue choices for a race as
+indicated on the ballot. If you are allowed to “Vote for One” candidate and
+you vote for more than one, your vote in that race will not be counted.
+4. Place your marked ballot in the enclosed secrecy envelope and seal the
+envelope.
+5. Insert the secrecy envelope into the enclosed envelope bearing the
+Voter’s Certificate. Seal the envelope and completely fill out the Voter’s
+Certificate on the back of the envelope.
+a. You must sign your name on the line above (Voter’s Signature).
+b. You must have your signature witnessed. Have the witness sign above
+(Signature of Witness) and include his or her address. No candidate may
+serve as an attesting witness.
+c. If you are an overseas voter, you must include the date you signed the
+Voter’s Certificate on the line above (Date) or your ballot may not be
+counted.
+6. Unless you meet one of the exemptions in Item 7., you must make a
+copy of one of the following forms of identification:
+a. Identification which must include your name and photograph: current
+and valid Florida driver’s license; Florida identification card issued by the
+Department of Highway Safety and Motor Vehicles; United States passport;
+employee badge or identification; buyer’s club identification card; debit or
+credit card; military identification; student identification; retirement center
+identification; neighborhood association identification; entertainment iden-
+tification; or public assistance identification; or
+b. Identification which shows your name and current residence address:
+current utility bill, bank statement, government check, paycheck, or govern-
+ment document (excluding voter identification card).
+7. The identification requirements of Item 6. do not apply if you meet one
+of the following requirements:
+a. You are 65 years of age or older.
+Ch. 2003-415
+LAWS OF FLORIDA
+Ch. 2003-415
+26
+CODING:  Words stricken are deletions; words underlined are additions.
+
+PDF PAGE 27
+b. You have a temporary or permanent physical disability.
+c. You are a member of a uniformed service on active duty who, by reason
+of such active duty, will be absent from the county on election day.
+d. You are a member of the merchant marine who, by reason of service
+in the merchant marine, will be absent from the county on election day.
+e. You are the spouse or dependent of a member referred to in paragraph
+c. or paragraph d. who, by reason of the active duty or service of the member,
+will be absent from the county on election day.
+f. You are currently residing outside the United States.
+8. Place the envelope bearing the Voter’s Certificate into the mailing
+envelope addressed to the supervisor. Insert a copy of your identification in
+the mailing envelope. DO NOT PUT YOUR IDENTIFICATION INSIDE
+THE SECRECY ENVELOPE WITH THE BALLOT OR INSIDE THE EN-
+VELOPE WHICH BEARS THE VOTER’S CERTIFICATE OR YOUR BAL-
+LOT WILL NOT COUNT.
+9. Mail, deliver, or have delivered the completed mailing envelope. Be
+sure there is sufficient postage if mailed.
+10. FELONY NOTICE. It is a felony under Florida law to accept any gift,
+payment, or gratuity in exchange for your vote for a candidate. It is also a
+felony under Florida law to vote in an election using a false identity or false
+address, or under any other circumstances making your ballot false or fraud-
+ulent.
+Section 24. Section 101.6925, Florida Statutes, is created to read:
+101.6925 Canvassing special absentee ballots.—
+(1) The supervisor of the county where the absent elector resides shall
+receive the voted special absentee ballot, at which time the mailing envelope
+shall be opened to determine if the voter has enclosed the identification
+required or has indicated on the Voter’s Certificate that he or she is exempt
+from the identification requirements.
+(2) If the identification is enclosed or the voter has indicated that he or
+she is exempt from the identification requirements, the supervisor shall
+make the note on the registration records of the voter and proceed to canvass
+the absentee ballot as provided in s. 101.68.
+(3) If the identification is not enclosed in the mailing envelope and the
+voter has not indicated that he or she is exempt from the identification
+requirements, the supervisor shall check the voter registration records to
+determine if the voter’s identification was previously received or the voter
+had previously notified the supervisor that he or she was exempt. The
+envelope with the Voter’s Certificate shall not be opened unless the identifi-
+cation has been received or the voter has indicated that he or she is exempt.
+The ballot shall be treated as a provisional ballot until 7 p.m. on election day
+Ch. 2003-415
+LAWS OF FLORIDA
+Ch. 2003-415
+27
+CODING:  Words stricken are deletions; words underlined are additions.
+
+PDF PAGE 28
+and shall not be canvassed unless the supervisor has received the required
+identification or written indication of exemption by 7 p.m. on election day.
+Section 25. Subsection (1) of section 101.694, Florida Statutes, is
+amended to read:
+101.694 Mailing of ballots upon receipt of federal postcard application.—
+(1) Upon receipt of a federal postcard application for an absentee ballot
+executed by a person whose registration is in order or whose application is
+sufficient to register or update the registration of that person, the supervisor
+shall mail to the applicant a ballot, if the ballots are available for mailing.
+The federal postcard application request for an absentee ballot shall be
+effective for all elections through the next two regularly scheduled general
+elections.
+Section 26. Subsections (2) and (6) of section 102.141, Florida Statutes,
+are amended to read:
+102.141 County canvassing board; duties.—
+(2) The county canvassing board shall meet in a building accessible to the
+public in the county where the election occurred at a time and place to be
+designated by the supervisor of elections to publicly canvass the absentee
+electors’ ballots as provided for in s. 101.68 and provisional ballots as pro-
+vided by ss. s. 101.048, 101.049, and 101.6925. Provisional ballots cast pur-
+suant to s. 101.049 shall be canvassed in a manner that votes for candidates
+and issues on those ballots can be segregated from other votes. Public notice
+of the time and place at which the county canvassing board shall meet to
+canvass the absentee electors’ ballots and provisional ballots shall be given
+at least 48 hours prior thereto by publication once in one or more newspa-
+pers of general circulation in the county or, if there is no newspaper of
+general circulation in the county, by posting such notice in at least four
+conspicuous places in the county. As soon as the absentee electors’ ballots
+and the provisional ballots are canvassed, the board shall proceed to publicly
+canvass the vote given each candidate, nominee, constitutional amendment,
+or other measure submitted to the electorate of the county, as shown by the
+returns then on file in the office of the supervisor of elections and the office
+of the county court judge.
+(6) If the unofficial returns reflect that a candidate for any office was
+defeated or eliminated by one-half of a percent or less of the votes cast for
+such office, that a candidate for retention to a judicial office was retained or
+not retained by one-half of a percent or less of the votes cast on the question
+of retention, or that a measure appearing on the ballot was approved or
+rejected by one-half of a percent or less of the votes cast on such measure,
+the board responsible for certifying the results of the vote on such race or
+measure shall order a recount of the votes cast with respect to such office
+or measure. A recount need not be ordered with respect to the returns for
+any office, however, if the candidate or candidates defeated or eliminated
+from contention for such office by one-half of a percent or less of the votes
+cast for such office request in writing that a recount not be made.
+Ch. 2003-415
+LAWS OF FLORIDA
+Ch. 2003-415
+28
+CODING:  Words stricken are deletions; words underlined are additions.
+
+PDF PAGE 29
+(a) In counties with voting systems that use paper ballots, each canvass-
+ing board responsible for conducting a recount shall put each ballot through
+automatic tabulating equipment and determine whether the returns cor-
+rectly reflect the votes cast. If any paper ballot is physically damaged so that
+it cannot be properly counted by the automatic tabulating equipment during
+the recount, a true duplicate shall be made of the damaged ballot pursuant
+to the procedures in s. 101.5614(5). Immediately before the start of the
+recount and after completion of the count, a test of the tabulating equipment
+shall be conducted as provided in s. 101.5612. If the test indicates no error,
+the recount tabulation of the ballots cast shall be presumed correct and such
+votes shall be canvassed accordingly. If an error is detected, the cause
+therefor shall be ascertained and corrected and the recount repeated, as
+necessary. The canvassing board shall immediately report the error, along
+with the cause of the error and the corrective measures being taken, to the
+Department of State. No later than 11 days after the election, the canvassing
+board shall file a separate incident report with the Department of State,
+detailing the resolution of the matter and identifying any measures that will
+avoid a future recurrence of the error.
+(b) In counties with voting systems that do not use paper ballots, each
+canvassing board responsible for conducting a recount shall examine the
+counters on the precinct tabulators to ensure that the total of the returns
+on the precinct tabulators equals the overall election return. If there is a
+discrepancy between the overall election return and the counters of the
+precinct tabulators, the counters of the precinct tabulators shall be pre-
+sumed correct and such votes shall be canvassed accordingly.
+(c) The canvassing board shall submit a second set of unofficial returns
+to the Department of State for each federal, statewide, state, or multicounty
+office or ballot measure no later than noon on the third day after any election
+in which a recount was conducted pursuant to this subsection. If the can-
+vassing board is unable to complete the recount prescribed in this subsection
+by the deadline, the second set of unofficial returns submitted by the can-
+vassing board shall be identical to the initial unofficial returns and the
+submission shall also include a detailed explanation of why it was unable
+to timely complete the recount. However, the canvassing board shall com-
+plete the recount prescribed in this subsection, along with any manual
+recount prescribed in s. 102.166, and certify election returns in accordance
+with the requirements of this chapter.
+(d) The Department of State shall adopt detailed rules prescribing addi-
+tional recount procedures for each certified voting system, which shall be
+uniform to the extent practicable.
+Section 27. Paragraph (y) of subsection (1) of section 125.01, Florida
+Statutes, is amended to read:
+125.01 Powers and duties.—
+(1) The legislative and governing body of a county shall have the power
+to carry on county government. To the extent not inconsistent with general
+or special law, this power includes, but is not restricted to, the power to:
+Ch. 2003-415
+LAWS OF FLORIDA
+Ch. 2003-415
+29
+CODING:  Words stricken are deletions; words underlined are additions.
+
+PDF PAGE 30
+(y) Place questions or propositions on the ballot at any primary election,
+general election, or otherwise called special election, when agreed to by a
+majority vote of the total membership of the legislative and governing body,
+so as to obtain an expression of elector sentiment with respect to matters of
+substantial concern within the county. No special election may be called for
+the purpose of conducting a straw ballot. Any election costs, as defined in
+s. 97.021(9), associated with any ballot question or election called specifi-
+cally at the request of a district or for the creation of a district shall be paid
+by the district either in whole or in part as the case may warrant.
+Section 28. Section 20 of chapter 2002-281, Laws of Florida, is repealed.
+Section 29. Paragraph (a) of subsection (5) of section 163.511, Florida
+Statutes, is amended to read:
+163.511 Special neighborhood improvement districts; creation; referen-
+dum; board of directors; duration; extension.—
+(5)(a) The city clerk or the supervisor of elections, whichever is appropri-
+ate, shall enclose with each ballot sent pursuant to this section two enve-
+lopes: a secrecy envelope, into which the elector or freeholder shall enclose
+the marked ballot; and a mailing envelope, into which the elector or free-
+holder shall then place the secrecy envelope, which shall be addressed to the
+city clerk or the supervisor of elections. The back side of the mailing enve-
+lope shall bear a certificate in substantially the following form:
+Note: Please Read Instructions Carefully Before
+Marking Ballot and Completing Voter’s Certificate.
+VOTER’S CERTIFICATE
+I, ...., am a duly qualified and registered ...(voter or freeholder, whichever
+is appropriate)... of the proposed ...(name)... ...(Special Residential or Busi-
+ness, whichever is appropriate)... Neighborhood Improvement District; and
+I am entitled to vote this ballot. I do solemnly swear or affirm that I have
+not and will not vote more than one ballot in this election. I understand that
+failure to sign this certificate and have my signature witnessed will invali-
+date my ballot.
+...(Voter’s Signature)...
+Note: Your Signature Must Be Witnessed By One Witness 18 Years of Age
+or Older as provided in Item 7. of the Instruction Sheet.
+I swear or affirm that the elector signed this Voter’s Certificate in my
+presence.
+...(Signature of Witness)...
+...(Address)... ...(City/State)...
+Section 30. (1) Notwithstanding s. 100.061, Florida Statutes, for the
+year 2004, a primary election for nomination of candidates of political par-
+ties shall be held on the Tuesday nine weeks prior to the general election.
+The candidate receiving the highest number of the votes cast in each contest
+Ch. 2003-415
+LAWS OF FLORIDA
+Ch. 2003-415
+30
+CODING:  Words stricken are deletions; words underlined are additions.
+
+PDF PAGE 31
+in the primary election shall be declared nominated for such office. If two
+or more persons receive an equal and highest number of votes for the same
+office, such persons shall draw lots to determine who shall receive the nomi-
+nation.
+(2) Notwithstanding s. 100.091, Florida Statutes, or any other provision
+of the Florida Election Code to the contrary, there shall be no second pri-
+mary election between the effective date of this act and January 1, 2006.
+(3)(a) No later than 5 p.m. of the 9th day following the primary election
+in 2004, each candidate for Governor shall designate a Lieutenant Governor
+as a running mate. Such designation must be made in writing to the Depart-
+ment of State.
+(b) No later than the time specified in paragraph (a), each designated
+candidate for Lieutenant Governor shall file with the Department of State
+the qualifying papers specified in s. 99.063, Florida Statutes.
+(4)(a) For the 2004 elections, following the last day of qualifying for office,
+reports required under s. 106.07, Florida Statutes, shall be filed on the 32nd,
+18th, and 4th days immediately preceding the primary election and on the
+46th, 32nd, 18th, and 4th days immediately preceding the general election,
+notwithstanding any provision of s. 106.07, Florida Statutes, to the contrary.
+(b) For the 2004 elections, following the last day of qualifying for office,
+any statewide candidate who has requested to receive contributions from the
+Election Campaign Financing Trust Fund or any statewide candidate in a
+race with a candidate who has requested to receive contributions from the
+trust fund shall file reports on the 4th, 11th, 18th, 25th, and 32nd days
+immediately preceding the primary election and on the 4th, 11th, 18th, 25th,
+32nd, 39th, 46th, and 53rd days prior to the general election.
+(5) For the 2004 elections, there shall be two elections for purposes of the
+contribution limits in s. 106.08, Florida Statutes.
+Section 31. If any law amended by this act was also amended by a law
+enacted at the 2003 Regular Session of the Legislature or at the 2003 Special
+Session A of the Legislature, such laws shall be construed as if they had been
+enacted at the same session of the Legislature, and full effect shall be given
+to each if possible.
+Section 32. Except as otherwise provided herein, this act shall take effect
+January 1, 2004.
+Approved by the Governor July 24, 2003.
+Filed in Office Secretary of State July 24, 2003.
+Ch. 2003-415
+LAWS OF FLORIDA
+Ch. 2003-415
+31
+CODING:  Words stricken are deletions; words underlined are additions.

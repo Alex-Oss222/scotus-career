@@ -1,0 +1,243 @@
+Source: https://www.law.cornell.edu/supct/html/02-1580.ZS.html
+
+NOTE:  Where it is feasible, a
+syllabus (headnote) will be released, as is being done in
+connection with this case, at the time the opinion is
+issued.
+The syllabus constitutes no part of the opinion of
+the Court but has been prepared by the Reporter of Decisions
+for the convenience of the reader.
+See United States
+v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+VIETH et al. v. JUBELIRER, PRESIDENT
+OF THE PENNSYLVANIA SENATE, et al.
+
+APPEAL FROM UNITED STATES DISTRICT COURT FOR
+THE MIDDLE DISTRICT OF PENNSYLVANIA
+
+No. 02—1580. Argued December 10, 2003–Decided April 28,
+2004
+
+After Pennsylvania’s General Assembly
+adopted a congressional redistricting plan,
+plaintiffs-appellants sued to enjoin the plan’s
+implementation, alleging, inter alia, that it
+constituted a political gerrymander in violation of Article I
+and the Fourteenth
+Amendment’s Equal Protection Clause.  The three-judge
+District Court dismissed the gerrymandering claim, and the
+plaintiffs appealed.
+
+Held: The judgment is
+affirmed.
+
+241 F. Supp. 2d 478, affirmed.
+
+    Justice Scalia,
+joined by The Chief Justice, Justice O’Connor, and Justice
+Thomas, concluded that political gerrymandering claims are
+nonjusticiable because no judicially discernible and manageable
+standards for adjudicating such claims exist.  They would
+therefore overrule Davis v. Bandemer, 478 U.S. 109, in
+which this Court held that political gerrymandering claims are
+justiciable, but could not agree upon a standard for assessing
+political gerrymandering claims.  Pp. 4—37.
+
+    (a) Political gerrymanders existed
+in colonial times and continued through the framing.  The
+Framers provided a remedy for the problem: the Constitution
+gives state legislatures the initial power to draw federal
+election districts, but authorizes Congress to “make or
+alter” those districts.  U.S. Const., Art. I, §4.  In
+Bandemer, the Court held that the Equal Protection
+Clause also grants judges the power–and duty–to
+control that practice.	Pp. 4—7.
+
+      (b) Neither
+Art. I, §2 or §4, nor the Equal Protection Clause,
+provides a judicially enforceable limit on the political
+considerations that the States and Congress may take into
+account when districting.  Pp. 7—37.
+
+        (1) Among
+the tests for determining the existence of a
+“nonjusticiable” or “political” question is
+a lack of judicially discoverable and manageable standards for
+resolving the question.  Baker v. Carr, 369 U.S. 186, 217. 
+Because the Bandemer Court was “not persuaded”
+that there are no such standards for deciding political
+gerrymandering cases, 478 U.S., at 123, such cases were
+justiciable.  However, the six-Justice majority in
+Bandemer could not discern what the standards might be. 
+For the past 18 years, the lower courts have simply applied the
+Bandemer plurality’s standard, almost invariably
+producing the same result as would have obtained had the
+question been nonjusticiable: judicial intervention has been
+refused.  Eighteen years of judicial effort with virtually
+nothing to show for it justifies revisiting whether the
+standard promised by Bandemer exists.  Pp.
+7—11.
+
+        (2) The
+Bandemer plurality’s standard–that a political
+gerrymandering claim can succeed only where the plaintiffs show
+“both intentional discrimination against an identifiable
+political group and an actual discriminatory effect on that
+group,” 478 U.S., at 127–has proved unmanageable in
+application.  Because that standard was misguided when
+proposed, has not been improved in subsequent application, and
+is not even defended by the appellants in this Court, it should
+not be affirmed as a constitutional requirement. 
+Pp. 11—14.
+
+        (3) Appell
+ants’ proposed two-pronged standard based on Art. I,
+§2, and the Equal Protection Clause is neither discernible
+nor manageable.  Appellants are mistaken when they contend that
+their intent prong (“predominant intent”) is no
+different from that which this Court has applied in racial
+gerrymandering cases.  In those cases, the predominant intent
+test is applied to the challenged district in which the
+plaintiffs voted, see, e.g., Miller v. Johnson,
+515 U.S. 900,
+whereas here appellants assert that their test is satisfied
+only when partisan advantage was the predominant motivation
+behind the entire statewide plan.  Vague as a
+predominant-motivation test might be when used to evaluate
+single districts, it all but evaporates when applied statewide.
+ For this and other reasons, the racial gerrymandering cases
+provide no comfort.  The effects prong of appellants’
+proposal requires (1) that the plaintiffs show that the rival
+party’s voters are systematically “packed” or
+“cracked”; and (2) that the court be persuaded from
+the totality of the circumstances that the map can thwart the
+plaintiffs’ ability to translate a majority of votes into
+a majority of seats.  This standard is not discernible because
+the Constitution provides no right to proportional
+representation.  Even were the standard discernible, it is not
+judicially manageable.	There is no effective way to ascertain
+a party’s majority status, and, in any event, majority
+status in statewide races does not establish majority status
+for particular district contests.  Moreover, even if a majority
+party could be identified, it would be impossible to assure
+that it won a majority of seats unless the States’
+traditional election structures were radically revised.  Pp.
+14—21.
+
+        (4) For
+many of the same reasons, Justice Powell’s Bandemer
+standard–a totality-of-the-circumstances analysis that
+evaluates districts with an eye to ascertaining whether the
+particular gerrymander is not “fair”–must also
+be rejected.  “Fairness” is not a judicially
+manageable standard.  Some criterion more solid and more
+demonstrably met than that is necessary to enable state
+legislatures to discern the limits of their districting
+discretion, to meaningfully constrain the courts’
+discretion, and to win public acceptance for the courts’
+intrusion into a process that is the very foundation of
+democratic decisionmaking.  Pp. 21—22.
+
+      (c) Writing
+separately in dissent, Justices Stevens, Souter, and Breyer
+each propose a different standard for adjudicating political
+gerrymandering claims.	These proposed standards each have
+their own deficiencies, but additionally fail for reasons
+identified with respect to the standards proposed by appellants
+and those proposed in Bandemer.	Justice Kennedy concurs
+in the judgment, recognizing that there are no existing
+manageable standards for measuring whether a political
+gerrymander burdens the representational rights of a
+party’s voters.  Pp. 22—37.
+
+    (d) Stare decisis does not
+require that Bandemer be allowed to stand.  Stare
+decisis claims are at their weakest with respect to a
+decision interpreting the Constitution, particularly where
+there has been no reliance on that decision.  P. 37.
+
+      Justice
+Kennedy, while agreeing that appellants’ complaint must be
+dismissed, concluded that all possibility of judicial relief
+should not be foreclosed in cases such as this because a
+limited and precise rationale may yet be found to correct an
+established constitutional violation.  Courts confront two
+obstacles when presented with a claim of injury from partisan
+gerrymandering.  First is the lack of comprehensive and neutral
+principles for drawing electoral boundaries.  No substantive
+definition of fairness in districting commands general assent. 
+Second is the absence of rules to limit and confine judicial
+intervention.  That courts can grant relief in districting
+cases involving race does not answer the need for fairness
+principles, since those cases involve sorting permissible
+districting classifications from impermissible ones.  Politics
+is a different matter.	Gaffney v. Cummings, 412 U.S. 735.  A
+determination that a gerrymander violates the law must rest on
+something more than the conclusion that political
+classifications were applied.  It must rest instead on a
+conclusion that the classifications, though generally
+permissible, were applied in an invidious manner or in a way
+unrelated to any legitimate legislative objective.  The object
+of districting is to establish “fair and effective
+representation for all citizens.”	Reynolds v.
+Sims, 377 U.S.
+533.  It might seem that courts could determine, by the
+exercise of their judgment, whether political classifications
+are related to this object or instead burden representational
+rights.  The lack, however, of any agreed upon model of fair
+and effective representation makes the analysis difficult. 
+With no agreed upon substantive principles of fair districting,
+there is no basis on which to define clear, manageable, and
+politically neutral standards for measuring the burden a given
+partisan classification imposes on representational rights. 
+Suitable standards for measuring this burden are critical to
+our intervention. In this case, the plurality convincingly
+demonstrates that the standards proposed in Davis v.
+Bandemer, 478
+U.S. 109, by the parties here, and by the dissents are
+either unmanageable or inconsistent with precedent, or both. 
+There are, then, weighty arguments for holding cases like these
+to be nonjusticiable.  However, they are not so compelling that
+they require the Court now to bar all future partisan
+gerrymandering claims.	Baker v. Carr, 369 U.S. 186, makes
+clear that the more abstract standards that guide analysis of
+all Fourteenth
+Amendment claims suffice to assure justiciability of claims
+like these.  That a workable standard for measuring a
+gerrymander’s burden on representational rights has not
+yet emerged does not mean that none will emerge in the future. 
+The Court should adjudicate only what is in the case before it.
+ In this case, absent a standard by which to measure the burden
+appellants claim has been imposed on their representational
+rights, appellants’ evidence at best demonstrates only
+that the legislature adopted political classifications.  That
+describes no constitutional flaw under the governing Fourteenth
+Amendment standard.  Gaffney, 412 U.S., at 752. 
+While the equal protection standard continues to govern such
+cases, the First
+Amendment may prove to offer a sounder and more prudential
+basis for judicial intervention in political gerrymandering
+cases.	First
+Amendment analysis does not dwell on whether a generally
+permissible classification has been used for an impermissible
+purpose, but concentrates on whether the legislation burdens
+the representational rights of the complaining party’s
+voters for reasons of ideology, beliefs, or political
+association.  That analysis allows a pragmatic or functional
+assessment that accords some latitude to the States.  See,
+e.g., Eu v. San Francisco County Democratic Central
+Comm., 489 U.S.
+214.  Pp. 1—13.
+
+    Scalia, J., announced
+the judgment of the Court and delivered an opinion, in which
+Rehnquist, C. J., and O’Connor and Thomas,
+JJ., joined.  Kennedy, J., filed an opinion concurring in
+the judgment.  Stevens, J., filed a dissenting opinion. 
+Souter, J., filed a dissenting opinion, in which Ginsburg, J.,
+joined.  Breyer, J., filed a dissenting opinion.

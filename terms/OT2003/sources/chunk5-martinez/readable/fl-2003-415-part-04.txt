@@ -1,0 +1,191 @@
+ provided by the Florida Rules of Appellate Procedure and acts
+as supersedeas. Trial in the circuit court is de novo and governed by the rules
+of that court. Unless the person can show that his or her name was errone-
+ously or illegally stricken from the registration books or that he or she is
+indigent, the person must bear the costs of the trial in the circuit court.
+Otherwise, the cost of the appeal must be paid by the board of county
+commissioners.
+(4) To the maximum extent feasible, state and local government entities
+shall facilitate provision of information and access to data to the department
+in order to compare information in the statewide voter registration database
+with available information in other computer databases, including, but not
+limited to, databases that contain reliable criminal records and records of
+deceased persons. State and local governmental agencies that provide such
+data shall do so without charge if the direct cost incurred by those agencies
+is not significant.
+(5) The Division of Elections shall provide written quarterly progress
+reports on each phase of development of the voter registration database to
+the President of the Senate and the Speaker of the House of Representatives
+beginning July 1, 2001, and continuing until the database is fully imple-
+mented.
+(5)(6) The duties of the supervisors of elections under this section shall
+be considered part of their regular registration list maintenance duties
+under this chapter, and any supervisor of elections who willfully refuses or
+willfully neglects to perform his or her duties under this section shall be in
+violation of s. 104.051(2).
+Section 10. (1) Beginning July 1, 2003, from the funds appropriated the
+Department of State shall begin the development of a statewide voter regis-
+tration system designed to meet the requirements of sections 303 through
+305 of the Help America Vote Act of 2002. The Legislature recognizes that
+the January 1, 2004, implementation date for the system provided in the
+federal bill cannot be met because there is not sufficient time for implemen-
+tation of such a system. Accordingly, the department shall certify these facts
+to the Election Assistance Commission in order to qualify for waiver and
+extension of the due date until January 1, 2006.
+(2) The department shall begin system needs assessments and design
+activities by July 1, 2003. The Department of Highway Safety and Motor
+Vehicles, the Department of Health, the Department of Law Enforcement,
+the Board of Executive Clemency, the State Technology Office, and repre-
+sentatives of the Florida State Association of Supervisors of Elections shall
+cooperate and participate in the development of the system. Other state
+agencies and local government entities that may have data or systems
+needed for integration with the system shall also cooperate and participate
+in the development of the system upon a request from the department.
+Ch. 2003-415
+LAWS OF FLORIDA
+Ch. 2003-415
+14
+CODING:  Words stricken are deletions; words underlined are additions.
+
+PDF PAGE 15
+(3) No later than January 31, 2004, the department shall present to the
+Governor, the President of the Senate, and the Speaker of the House of
+Representatives a plan for completion of the system, which shall include:
+(a) Business process design for all participants in the system operation.
+(b) Design, location, and specifications for hardware, system software
+components, and communications infrastructure of the system.
+(c) Design, specifications, and development plans for application soft-
+ware for the system.
+(d) Budget for completion of the system, including all agencies and
+county offices.
+(e) Recommended statutory changes needed to implement the system.
+(4) This phase of the development shall continue through June 30, 2004,
+and shall include design and development of the core system, which will be
+operated by the Department of State; definition of the business processes
+which will be required of the other agencies and counties; and functional
+requirements specifications for integration with the data systems of the
+other agencies and the counties.
+(5) This section shall take effect upon this act becoming a law.
+Section 11. Section 98.212, Florida Statutes, is amended to read:
+98.212 Supervisors to furnish statistical and other information.—
+(1)(a) Upon written request, supervisors shall, as promptly as possible,
+furnish to recognized public or private universities and senior colleges
+within the state, to state or county governmental agencies, and to recognized
+political party committees statistical information for the purpose of analyz-
+ing election returns and results.
+(b) Supervisors may require reimbursement for any part or all of the
+actual expenses of supplying any information requested under paragraph
+(a). For the purposes of this subsection, supervisors may use the services of
+any research and statistical personnel that may be supplied.
+(c) Lists of names submitted to supervisors for indication of registration
+or nonregistration or of party affiliation shall be processed at any time at
+cost, except that in no case shall the charge exceed 10 cents for each name
+on which the information is furnished.
+(2) The supervisors shall provide information as requested by the depart-
+ment for program evaluation and reporting to the Federal Election Commis-
+sion pursuant to the National Voter Registration Act of 1993.
+(3) The supervisors shall provide information as requested by the depart-
+ment for the creation and maintenance of the central voter file.
+Section 12. Section 98.461, Florida Statutes, is amended to read:
+Ch. 2003-415
+LAWS OF FLORIDA
+Ch. 2003-415
+15
+CODING:  Words stricken are deletions; words underlined are additions.
+
+PDF PAGE 16
+98.461 Registration form, precinct register; contents.—A registration
+form, approved by the Department of State, containing the information
+required in s. 97.052 shall be filed alphabetically in the office of the supervi-
+sor as the master list of electors of the county. However, the registration
+forms may be microfilmed and such microfilms substituted for the original
+registration forms; or, when voter registration information, including the
+voter’s signature, is maintained digitally or on electronic, magnetic, or optic
+media, such stored information may be substituted for the original registra-
+tion form. Such microfilms or stored information shall be retained in the
+custody of the supervisor of elections. In the event the original registration
+forms are microfilmed or maintained digitally or on electronic or other
+media, such originals may be destroyed in accordance with the schedule
+approved by the Bureau of Archives and Records Management of the Divi-
+sion of Library and Information Services of the Department of State. As an
+alternative, the information from the registration form, including the signa-
+ture, may be electronically reproduced and stored as provided in s. 98.451.
+A computer printout shall may be used at the polls as a precinct register in
+lieu of the registration books. The precinct register shall contain the date of
+the election, the precinct number, and the following information concerning
+each registered elector: last name, first name, and middle name or initial;
+party affiliation; residence address; registration number; date of birth; sex,
+if provided; race, if provided; whether the voter needs assistance in voting;
+and such other additional information as to readily identify the elector. The
+precinct register may also contain a list of the forms of identification, which
+must include, but is not limited to, a Florida driver’s license, a Florida
+identification card issued under s. 322.051, or another form of picture identi-
+fication approved by the Department of State. The precinct register shall
+may also contain a space for the elector’s signature and, a space for the
+initials of the witnessing clerk or inspector, and a space for the signature slip
+or ballot number.
+Section 13. Section 98.471, Florida Statutes, is renumbered as section
+101.043, Florida Statutes, and amended to read:
+101.043 98.471 Identification required Use of precinct register at polls.—
+(1) The precinct register, as prescribed in s. 98.461, shall may be used at
+the polls in lieu of the registration books for the purpose of identifying the
+elector at the polls prior to allowing him or her to vote. The clerk or inspector
+shall require each elector, upon entering the polling place, to present a
+current and valid Florida driver’s license, a Florida identification card is-
+sued under s. 322.051, or another form of picture identification as provided
+in s. 97.0535(3)(a). If the picture identification does not contain the signa-
+ture of the voter, an additional identification that provides the voter’s signa-
+ture shall be required approved by the Department of State. The elector
+shall sign his or her name in the space provided, and the clerk or inspector
+shall compare the signature with that on the identification provided by the
+elector and enter his or her initials in the space provided and allow the
+elector to vote if the clerk or inspector is satisfied as to the identity of the
+elector.
+(2) Except as provided in subsection (3), if the elector fails to furnish the
+required identification, or if the clerk or inspector is in doubt as to the
+Ch. 2003-415
+LAWS OF FLORIDA
+Ch. 2003-415
+16
+CODING:  Words stricken are deletions; words underlined are additions.
+
+PDF PAGE 17
+identity of the elector, such clerk or inspector shall follow the procedure
+prescribed in s. 101.49.
+(3) If the elector who fails to furnish the required identification is a first-
+time voter who registered by mail and has not provided the required identifi-
+cation to the supervisor of elections prior to election day, the elector shall
+be allowed to vote a provisional ballot. The canvassing board shall determine
+the validity of the ballot pursuant to s. 101.048(2).
+Section 14. Section 98.491, Florida Statutes, is repealed.
+Section 15. Section 101.048, Florida Statutes, is amended to read:
+101.048 Provisional ballots.—
+(1) At all elections, a voter claiming to be properly registered in the
+county and eligible to vote at the precinct in the election, but whose eligibil-
+ity cannot be determined, and other persons specified in the code shall be
+entitled to vote a provisional ballot. Once voted, the provisional ballot shall
+be placed in a secrecy envelope and thereafter sealed in a provisional ballot
+envelope. The provisional ballot shall be deposited in a ballot box. All provi-
+sional ballots shall remain sealed in their envelopes for return to the super-
+visor of elections. The department shall prescribe the form of the provisional
+ballot envelope.
+(2)(a) The county canvassing board shall examine each provisional ballot
+envelope to determine if the person voting that ballot was entitled to vote
+at the precinct where the person cast a vote in the election and that the
+person had not already cast a ballot in the election.
+(b)1. If it is determined that the person was registered and entitled to
+vote at the precinct where the person cast a vote in the election, the canvass-
+ing board shall compare the signature on the provisional ballot envelope
+with the signature on the voter’s registration and, if it matches, shall count
+the ballot.
+2. If it is determined that the person voting the provisional ballot was not
+registered or entitled to vote at the precinct where the person cast a vote in
+the election, the provisional ballot shall not be counted and the ballot shall
+remain in the envelope containing the Provisional Ballot Voter’s Certificate
+and Affirmation and the envelope shall be marked “Rejected as Illegal.”
+(3) The Provisional Ballot Voter’s Certificate and Affirmation shall be in
+substantially the following form:
+STATE OF FLORIDA
+COUNTY OF ....
+I do solemnly swear (or affirm) that my name is ....; that my date of birth
+is ....; that I am registered to vote and at the time I registere

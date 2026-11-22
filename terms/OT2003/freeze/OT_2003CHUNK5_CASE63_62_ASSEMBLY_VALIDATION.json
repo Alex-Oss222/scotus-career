@@ -1,0 +1,42 @@
+{
+  "cases": [
+    {
+      "case": 63,
+      "file": "National_Archives_and_Records_Administration_v_Favish_merits_2004-03-30.md",
+      "controlling_explanation_words": [
+        195,
+        265,
+        99
+      ],
+      "structure": "pass",
+      "holdings_and_public_handoff_identity": "pass",
+      "frozen_copy_and_links": "pass",
+      "semantic_negative_review": "pass"
+    },
+    {
+      "case": 62,
+      "file": "United_States_v_Flores_Montano_merits_2004-03-30.md",
+      "controlling_explanation_words": [
+        224
+      ],
+      "structure": "pass",
+      "holdings_and_public_handoff_identity": "pass",
+      "frozen_copy_and_links": "pass",
+      "semantic_negative_review": "pass"
+    }
+  ],
+  "final_counts": {
+    "Stone-Zsela": 6,
+    "Stevens": 7,
+    "O'Connor": 7,
+    "Scalia": 7,
+    "Kennedy": 6,
+    "Souter": 7,
+    "Thomas": 7,
+    "Ginsburg": 7,
+    "Breyer": 7
+  },
+  "last_durable": "United_States_v_Flores_Montano_merits_2004-03-30.md",
+  "sequence": "61, 63, 62 completed",
+  "unresolved_blockers": []
+}

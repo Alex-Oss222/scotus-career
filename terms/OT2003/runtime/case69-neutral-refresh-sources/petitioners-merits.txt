@@ -1,0 +1,2205 @@
+[PDF page 1]
+FILED 
+‘ 
+AUG 29 2003 
+No. 02-1343 
+OFFICE OF THE CLERK 
+Jn the Supreme Court of the Gnited States 
+ENGINE MANUFACTURERS ASSOCIATION AND 
+WESTERN STATES PETROLEUM ASSOCIATION, 
+Petitioners, 
+V. 
+SOUTH COAST AIR QUALITY MANAGEMENT 
+DISTRICT, ET AL., 
+Respondents. 
+On Writ of Certiorari to the United States 
+Court of Appeals for the Ninth Circuit 
+BRIEF FOR THE PETITIONERS 
+KENNETH S. GELLER 
+JED R. MANDEL 
+ANDREW J. PINCUS 
+Counsel of Record 
+JOHN J. SULLIVAN 
+TIMOTHY A. FRENCH 
+CRAIG W. CANETTI 
+Neal, Gerber & 
+Mayer, Brown, Rowe & 
+Eisenberg LLP 
+Maw LLP 
+Two North LaSalle Street 
+1909 K Street, N.W. 
+Suite 2200 
+Washington, DC 20006 
+Chicago, Illinois 60602 
+(202) 263-3000 
+(312) 269-8000 
+Counsel for Western States 
+Counsel for Engine 
+Petroleum Association 
+Manufacturers Association 
+
+
+[PDF page 2]
+QUESTION PRESENTED 
+Whether local government regulations prohibiting the 
+purchase of new motor vehicles with specified emission 
+characteristics — which are otherwise approved for sale by 
+state and federal regulators — are preempted by Section 209(a) 
+of the Clean Air Act, which expressly preempts any state or 
+local “standard relating to the control of emissions from new 
+motor vehicles.” 42 U.S.C. § 7543(a). 
+(L) 
+
+
+[PDF page 3]
+ll 
+LIST OF PARTIES AND RULE 29.6 STATEMENT 
+Petitioner Engine Manufacturers Association (“EMA”), a 
+not-for-profit trade association, was plaintiff and appellant 
+below. It has no corporate parents, subsidiaries or affiliates, and 
+no publicly traded company has a 10% or greater ownership 
+interest in EMA. 
+Petitioner Western States Pettoleum Association (“WSPA”) 
+intervened as a plaintiff and was an appellant in the court of 
+appeals. It is a trade association organized as a non-profit 
+corporation. WSPA has no corporate parents, subsidiaries or 
+affiliates, and no publicly traded company has a 10% or greater 
+ownership interest in WSPA. 
+Respondents South Coast Air Quality Management District, 
+its individual Board Members (William A. Burke, Norma J. 
+Glover, Michael D. Antonovich, Hal Bernson, Jane W. Carney, 
+Cynthia P. Coad, Beatrice J.S. Lapisto-Kirtley, Ronald O. 
+Loveridge, Jon D. Mikels, Leonard Paulitz, Cynthia Vedugo- 
+Peralta, and S. Roy Wilson), and its Executive Officer (Barry 
+S. Wallerstein) were defendants and appellees below. 
+| 
+The Natural Resources Defense Council, Coalition for 
+Clean Air, Communities for a Better Environment, Inc., 
+Planning & Conservation League, and Sierra Club intervened 
+as defendants and were appellees in the court of appeals. 
+TABLE OF CONTENTS 
+Page 
+Ee e J 
+LIST OF PARTIES AND RULE 29.6 STATEMENT 
+.... 
+ii 
+EE ee 
+rare l 
+Nee 
+ee 
+see cceceuncaccene 
+l 
+CONSTITUTIONAL AND STATUTORY 
+o fyy 
+6 De 
+3) 
+l 
+i 
+cee 
+e cea bancocedteseaccccess 2 
+cect 
+ec cenkemneGocece cn 3 
+B. The California Motor Vehicle Emission Regula- 
+EE 
+eee 
+10 
+C. The Challenged Fleet Rules .................. 
+14 
+D. The Proceedings Below .................0065 
+18 
+SUMMARY OF THE ARGUMENT ................ 
+19 
+eerie 
+eek eeeceetesesesccescecces 20 
+I. SECTION 209(A) ENCOMPASSES RESTRICTIONS 
+ON PURCHASES OF NEW MOTOR VEHICLES 
+SUCH AS THE DISTRICT’S FLEET RULES ...... 21 
+A. The Plain Language Of Section 209(a) Estab- 
+lishes That A Rule Barring The Purchase Of 
+New Motor Vehicles Based On Their Emission 
+Characteristics 
+Is A Preempted 
+“Standard 
+Relating To The Control Of Emissions.” ........ 22 
+B. Other Provisions Of Section 209 Support A 
+Broad Reading Of “Any Standard Relating To 
+The Control Of Emissions” In Section 209(a) .... 28 
+
+
+[PDF page 4]
+iv 
+TABLE OF CONTENTS — Continued 
+Page 
+C. The 1990 Amendments To The Clean Air Act 
+Confirm That Section 209(a) Preempts Purchas- 
+DEED 
+od vccccustacancnscoesascens 29 
+D. The Fleet Rules Are Preempted By Section 
+PES o4dd0c0dsndcctressnudsenesneeusens 33 
+Il. THE FLEET RULES ARE NOT SAVED FROM 
+PREEMPTION BY ANY OTHER SECTIONS OF 
+ee 
+ISS a cc ccnesecescecensercecs 36 
+OED Kacccccucsdctdescuevensaseni 36 
+ee Pe 
+id66 6 snenskusaeetenseeend beets 39 
+ibd 
+oy os ce edaneduseeeunentens 42 
+i <cicnbis cused dbenseseseesesawens 44 
+Vv 
+TABLE OF AUTHORITIES 
+Page(s) 
+Cases: 
+American Airlines, Inc. v. Wolens, 513 U.S. 219 
+Di.) <tsuncnvéhsatheheanieteiiaankatee’ 24 
+American Auto. Mfrs. Ass'n v. Cahill, 152 F.3d 196 
+DP CD . cicentudccnksdethenesenkatas passim 
+Ass'n of Int'l] Auto. Mfrs. v. Commissioner, 
+ee 
+Tee passim 
+Barnett Bank of Marion County, NA v. Nelson, 
+a 
+a tes 
+ee ewks 24 
+California Div. of Labor Standards 
+Enforcement v. Dillingham Constr. N.A., 
+ST 
+TTT ee passim 
+Central Green Co. v. United States, 
+CR 
+23 
+City of Chicago v. General Motors Corp., 
+— 4 
+fo ly sk 
+6 
+CSX Transp., Inc. v. Easterwood, 
+I i 
+6s 
+a ci ON 
+oe an 
+ee eeun ae 21 
+District of Columbia v. Greater Washington 
+Bd. of Trade, 506 U.S: 125 (1992) ............... 27 
+Egelhoff v. Egelhoff, 532 U.S. 141 (2001) 
+......... 21, 24 
+Engine Mfrs. Ass'n v. EPA, 88 F.3d 1075 
+Te ee 
+4,8 
+FDA v. Brown & Williamson Tobacco Corp., 
+I. 
+voc 
+n 
+us ee eenweheunneeees 30 
+
+
+[PDF page 5]
+vi 
+TABLE OF AUTHORITIES — Continued 
+Page(s) 
+Gade v. Nat'l Solid Wastes Mgmt. Ass'n, 
+rere a diehialins 33 
+General Motors Corp. v. United States, 
+La 
+bannckbacesced¢trececcesse's 9 
+Harrison v. PPG Indus., Inc., 446 U.S. 578 (1980) ..... 23 
+Morales v. Trans World Airlines, Inc., 
+A ee 
+od hence ce abbedetoenwin 
+sens 24 
+Motor & Equip. Mfrs. Ass'n v. EPA, 
+mee 
+eB 
+ere 6, 37, 38 
+Motor Vehicle Mfrs. Ass'n v. New York State 
+Dep't of Envtl. Conservation, 17 F.3d 521 
+DED 
+tccécoeessncceesepeseesende passim 
+New York State Conference of Blue Cross & 
+Blue Shield Plans v. Travelers Ins. Co., 
+De 
+Lvs lores sadaswbbaknee en 25 
+Rice v. Sante Fe Elevator Corp., 
+as 
+ccerccktsshe dcensuundeune 22 
+Shea v. Vialpando, 416 U.S. 251 (1974) 
+............. 23 
+Sprietsma v. Mercury Marine, 537 U.S. 51 (2002) 
+..... 21 
+Train v. NRDC, 421 U.S. 60 (1975) ..........-..4.. 6,9 
+United States v. James, 478 U.S. 597 (1986) .......... 23 
+United States v. Locke, 529 U.S. 89 (2000) 
+........... 22 
+Vermont Agency of Natural Res. v. 
+United States, 529 U.S. 765 (2000) 
+.............. 30 
+Vii 
+TABLE OF AUTHORITIES — Continued 
+Page(s) 
+Wasitimgnon State Dep't of Soc. & 
+Health Servs. v. Guardianship Estate of 
+Danmy Keffeler. 123 §.Ct. 1017 (2003) 
+........... 33 
+Washington v. Genenal Motors Corp.. 
+i 5 
+passim 
+Constitutional 
+ana Statutory Provisions: 
+I, 
+av wvrwieincicdwscccccccccccecs l 
+DY 
+nance natcamsoendevenesbes 
+snes | 
+ee 27 
+Cleam Air Act, 42 U.S.C. §§ 7401-7671q ......... passim 
+TEE” 
+wvecccccccbvcccvcsscccosens 2 
+Nd 
+oes cvdwwetdecseuceenenveussence + 
+SED 
+aie odedcccccdscccvdsedadeseens 39 
+hk 
+dn escnncesereseeedeecnseesues 7 
+OTS 
+CTT TTT Te TT TT Teer 39 
+re 
+eo os ope cbetasdeoosetneeese 39 
+ee 39 
+EE, 
+os ciewddccbsccccccocesesedcuns 40 
+ic ccdegaseandecevsvess’ passim 
+dc tecseevececeesonbes 32 
+eee 10, 43 
+a 
+a a 38 
+
+
+[PDF page 6]
+Viil 
+TABLE OF AUTHORITIES — Continued 
+Page(s) 
+42 U.S.C. §§ 7521-7590 
+2.0... cece cere ween passim 
+GBUBL. OTEES 
+cc cccvccccscccsccsvcccsceseseces 28 
+42 U.S.C. § TS4HO) 
+onc cece cccccccccvesvcvces passim 
+42 U.S.C. § TS4BQD) 
+onc cccccccccccsccscoees passim 
+42 U.S.C. § TS43(OM1) 
+oo. ccccc ete renee neennes 
+37 
+42 U.S.C. § T543(DM IMC)... cec ee cece eee eee eee 38 
+42 U.S.C. § TS4HG) 
+0. cc cccccvccccccsceseces 
+passim 
+42 U.S.C. § 7581(2) 
+..........+.- Speesccesrerentas 
+10 
+42 UBL. § TSBITT) 
+onc ccccccccccccccccccssess 
+10, 43 
+GBUDGIC. 6 TERB occwncvcccccccccccccccsccesess 9, 32 
+EPUB. 6 THOT 
+occccccccccccccccesereccovens 32 
+42 U.S.C. § TSBG(a){O) 
+6... ec 
+eee cece eeees 32 
+42 U.S.C. § TSBG(D)-(C) 
+6. 
+ccc 
+cece 
+cece eee nees 10 
+42 UBC. § TSOGG) 
+... ccc nccccccccccccccecces 
+10, 32 
+42 U.S.C. § T6Q1(d) ... 
+6. cece 
+eee ee eee eees 39 
+Pub. L. No. 89-272, § 101(8), 79 Stat. 992 (1965) ....... 4 
+Pub. L. No. 90-148, §2, 81 Stat. 501 (1967).......... 5,6 
+Pub. L. No. 95-95, § 207, 91 Stat. 755 (1977) ........... 8 
+Pub. L. No. 101-549, § 229(a), 104 Stat. 2513 (1990) 
+... 10 
+Pub. L. No. 101-549, § 229(a), 104 Stat. 2520 (1990) .... 9 
+Pub. L. No. 101-549, § 232, 104 Stat. 2529 (1990) 
+...... 9 
+IX 
+TABLE OF AUTHORITIES — Continued 
+Page(s) 
+Cal. Health & Safety Code § 39003......... Lene ee 
+WOT 
+Cal. Health & Safety Code § 39052.5 ................ 
+15 
+Cal. Health & Safety Code § 39602 
+.............. “se Tn 
+Cal. Health & Safety Code § 40402 
+................. 
+15 
+Cal. Health & Safety Code §§ 40410-40412 
+.......... 
+15 
+Cal. Health & Safety Code §§ 40440-40459 
+.......... 15 
+Cal. Health & Safety Code § 40447.5 ................ 
+15 
+Cal. Health & Safety Code § 43009 ................. 
+1] 
+Cal. Health & Safety Code § 43013 
+.............. 
+10-11 
+Cal. Health & Safety Code §§ 43016-43017 
+.......... 
+1] 
+Cal. Health & Safety Code 
+§ 43018 .............. 
+10-11 
+Cal. Health & Safety Code §§ 43100-43108 ........ 
+10-11 
+Cal. Health & Safety Code § 43102 
+................. 
+1] 
+Cal. Health & Safety Code § 43105 
+................. 
+1] 
+Regulatory Provisions: 
+Chk 
+rincacccthhes cenaceneseseeds 14 
+Pe PO BE GP PEMEED cc cccccccccccccvecccccecce 4 
+GO FOE GE GEN COND ccc ccc ccvcccccccsccccses 37 
+FO POE. TA, GTO CRONE ccc ccc ccc cccccccssens 12, 
+40 
+ne 12 
+CS 
+BIE CRUE occ ccccannsvcceveccecs 35 
+
+
+[PDF page 7]
+xX 
+TABLE OF AUTHORITIES — Continued 
+Page(s) 
+63 Fed. Reg. 18,403 (1998) ...... 6... cece cree eee eees 
+12 
+64 Fed. Reg. 46,849 (1999) ...... 
+6. cece eee eens 12, 43 
+64 Fed. Reg. 46,850 (1999) ... 0.0... cece cece 
+eens 
+12 
+66 Fed. Reg. 5,005 (2001) ..... 6... cece cere eee eees 
+14 
+67 Fed. Reg. 60,680 (2002) .......- 
+0c cece e ee eeeees 12 
+68 Fed. Reg. 19,811 (2003) ...... 
+6... cece eens 
+12, 40 
+68 Fed. Reg. 35,809 (2001) ...... 6... cece cece eee: 37 
+Cal. Code Regs. tit. 13, § 1956.1(a)(6)-(12) ........ 13,17 
+Cal. Code Regs. tit. 13, § 1956.2-1956.3 
+..........5.. 
+13 
+Cal. Code Regs. tit. 13, § 1956.2(a) ......... 
+eee eee 13 
+Cal. Code Regs. tit. 13, § 1956.2(b)(1) ...... 6... 
+- eee 
+13 
+Cal. Code Regs. tit. 13, § 1956.2(f)(2)-(3) 
+..........5. 
+13 
+Cal. Code Regs. tit. 13, § 1956.3(C) 
+.... 6... eee cece 13 
+Cal. Code Regs tit. 13, § 1956.8, ef seq ........-.005 14 
+Cal. Code Regs. tit. 13, § 1960(a) ...... 6.5. .0e 
+ee eens 
+11 
+Cal. Code Regs. tit. 13, § 1960.1 .. 6.2.6... 
+e cece eens 1] 
+Cal. Code Regs. tit. 13, § 1960.1(e)(3) ...........05- 
+11 
+Cal. Code Regs. tit. 13, § 1960.1(g)... 
+6... 6... eens 
+11 
+Cal. Code Regs. tit. 13, § 1960.1(g)(1)-(2) .........--. 40 
+Cal. Code Regs. tit. 13, § 1960.1(g)(2) ......... 
+11, 12, 16 
+Cal. Code Regs. tit. 13, § 1960.1(h)(2) ..........0008. 11 
+—_ 
+~ ———eE—eeE—eEeE—EEe 
+Xi 
+TABLE OF AUTHORITIES — Continued 
+Page(s) 
+Cal. Code Regs. tit. 13, § 1960.1(p) 
+............0ee8- 
+11 
+Cal. Code Regs. tit. 13, § 1961(a)-(b) ................ 40 
+Cal. Code Regs. tit. 13, § 1961(a) ..........cceeeeee 
+11 
+Cal. Code Regs. tit. 13, § 1961(b) ..............5.. 
+11, 16 
+Cal. Code Regs. tit. 13, § 1961(cM1) 
+.......... eee 
+12 
+ee Se, Gs Ele 
+PEED boc wccercccvcusecss 
+12 
+Other Authorities: 
+BLACK’S LAW DICTIONARY (7th ed. 1999) ............ 24 
+CARB, Low-Emission Vehicle Program, 
+at http://www.arb.ca.gov/msprog/levprog/ 
+evprog.htm (last updated Oct. 2, 2002) ............ 
+11 
+CARB, On-Road Heavy-Duty Vehicle Program, 
+at http://www.arb.ca.gov/msprog/onroadhd/ 
+onroadhd.htm (last updated May 12, 2003) ......... 
+14 
+CARB News Release, ARB Cuts Emissions From 
+Transit Buses (Feb. 24, 2000), available at 
+http://www.arb.ca.gov/newsrel/nr022400.htm 
+CEE AEE, GE, BED eo cccccccessecevsecvenes 
+13 
+CARB Board Resolution 00-02 (Feb. 24, 2000), 
+available at http://www.arb.ca.gov/regact/bus/ 
+res00-2.pdf (viewed Aug. 18, 2003) .............. 
+13 
+Clean Air Conference Report (Oct. 27, 1990), 
+A LEGISLATIVE HISTORY OF THE CLEAN AIR 
+ACT AMENDMENTS OF 1990 (1993) 
+............4.. 9 
+
+
+[PDF page 8]
+Xli 
+TABLE OF AUTHORITIES — Continued 
+Page(s) 
+Exhibit 1 (Oct. 27, 1990), A LEGISLATIVE 
+HISTORY OF THE CLEAN AIR ACT AMENDMENTS 
+OF 1990 (1993)... 
+2... cece eee eee 
+eee tenes 9 
+H.R. Conf. Rep. 101-952, 101st Cong., 
+2d Sess. (1990) 
+..... cece eee 
+e cence ee reeeeecers 9 
+H.R. Rep. No. 728, 90th Cong., Ist Sess. (1967) 
+..... 4,21 
+S. Rep. No. 403, 90th Cong., Ist Sess. (1967) .......-- 4,5 
+WERSTER’S THIRD NEW INTERNATIONAL DICTIONARY 
+(NOOB) 
+cc cccccccccccnccccccccccscoccccces 23, 24 
+BRIEF FOR THE PETITIONERS 
+OPINIONS BELOW 
+The opinion of the court of appeals (Pet. App. la-2a) is 
+reported at 309 F.3d 550. The opinion of the district court 
+granting summary judgment for respondents (Pet. App. 3a-27a) 
+is reported at 158 F. Supp. 2d 1107. 
+JURISDICTION 
+The judgment of the court of appeals was entered on 
+October 24, 2002, and a petition for rehearing was denied on 
+December 11, 2002. Pet. App. 2a, 28a-29a. The petition for a 
+writ of certiorari was filed on March 11, 2003, and was granted 
+on June 9, 2003. This Court’s jurisdiction rests on 28 U.S.C. 
+§ 1254(1). 
+CONSTITUTIONAL AND STATUTORY 
+PROVISIONS INVOLVED 
+The Supremacy Clause, U.S. Const. art. VI, cl. 2, provides 
+in pertinent part: 
+This Constitution, and the Laws of the United States which 
+shall be made in Pursuance thereof * * * shall be the 
+supreme Law of the Land; and the Judges in every State 
+shall be bound thereby, any Thing in the Constitution or 
+Laws of any State to the Contrary notwithstanding. 
+Section 209(a) of the Clean Air Act, 42 U.S.C. § 7543(a), 
+provides: 
+No State or any political subdivision thereof shall adopt or 
+attempt to enforce any standard relating to the control of 
+emissions from new motor vehicles or new motor vehicle 
+engines subject to this part. No State shall require certifica- 
+tion, inspection, or any other approval relating to the 
+control of emissions from any new motor vehicle or new 
+motor vehicle engine as condition precedent to the initial 
+retail sale, titling (if any), or registration of such motor 
+vehicle, motor vehicle engine, or equipment. 
+
+
+[PDF page 9]
+2 
+The Fleet Rules promulgated by respondent South Coast 
+Air Quality Management District appear at pages 16-74 of the 
+Joint Appendix. 
+STATEMENT 
+This case concerns the scope of Section 209(a) of the Clean 
+Air Act, 42 U.S.C. § 7543(a), which expressly preempts state 
+and local “‘standard{s] relating to the control of emissions from 
+new motor vehicles.” This Court has observed that by this 
+language “Congress has largely preempted the field with regard 
+to ‘emissions from new motor vehicles.”” Washington v. 
+General Motors Corp., 406 U.S. 109, 114 (1972). 
+Respondent South Coast Air Quality Management District 
+(“SCAQMD” or “the District”), a local governmental body in 
+California, has adopted “Fleet Rules” that prohibit an operator 
+of a fleet of 15 or more vehicles from purchasing certain types 
+of new motor vehicles because of those vehicles’ emission 
+characteristics. The Fleet Rules are preempted “standard(s] 
+relating to the control of emissions” under Section 209(a). They 
+were adopted with the undisputed purpose and effect of 
+reducing motor vehicle emissions by prohibiting the purchase 
+of certain new motor vehicles otherwise approved for sale in 
+California by the federal and state governments. 
+Unlike stationary sources of air pollution such as factories 
+and power plants — over which the States retain substantial 
+regulatory authority, subject to general oversight by the United 
+States Environmental Protection Agency (“EPA”) (see 42 
+U.S.C. §§ 7401-7515; Washington, 406 U.S. at 114) — mobile 
+sources of air pollution (particularly new motor vehicles) are 
+regulated exclusively by federal law, subject to narrow excep- 
+tions allowing the State of California to adopt and enforce 
+standards relating to new motor vehicle emissions, but only 
+with the approval of EPA, 42 U.S.C. § 7543(b). 
+“ 
+») 
+- 
+States other than California, under certain limited condi- 
+tions set forth in Section 177 of the Clean Air Act, may also 
+adopt California’s motor vehicle emission standards as to which 
+EPA has waived preemption, 42 U.S.C. § 7507. Under no 
+circumstances, however, may any State (including California) 
+impose any standard relating to the control of new motor 
+vehicle emissions without the express approval of EPA. Nor 
+may any local governmental body impose standards relating to 
+the control of emission from new motor vehicles. 
+The Fleet Rules at issue in this case are not covered by any 
+of the limited exceptions in the Clean Air Act for state motor 
+vehicle emission standards. First, the District is not a State. 
+Second, the Fleet Rules vary from the EPA-approved standards 
+adopted by the State of California by prohibiting the purchase 
+of certain vehicles that already have been approved for sale in 
+the State. Third, the Fleet Rules have never been approved by 
+EPA. 
+If the District can adopt local standards banning the 
+purchase of certain new motor vehicles based on their emission 
+characteristics, then other local governments can do the same. 
+Such action would directly contravene the express, and plainly 
+stated, provisions of the Clean Air Act that prohibit the 
+adoption of such standards except in strict accordance with 
+EPA’s preemption waiver procedures. Allowing the District’s 
+Fleet Rules to stand would undermine Congress’s determina- 
+tion that — to prevent chaos in the motor vehicle industry — 
+only the federal government and the State of California, with 
+EPA’s approval, should be permitted to establish standards 
+relating to emissions from new motor vehicles. 
+A. The Clean Air Act. 
+The Clean Air Act (42 U.S.C. §§ 7401-7671q) divides the 
+sources of air pollution into two categories — stationary and 
+mobile — and provides fundamentally different regulatory 
+regimes for each. Title I of the Act, which regulates stationary 
+
+
+[PDF page 10]
+4 
+sources of air pollution, directs EPA to establish “national 
+ambient air quality standards” and requires each State to submit 
+for EPA review and approval a “state implementation plan” for 
+meeting those standards. 42 U.S.C. §7408. The plan must 
+identify and describe the state emission control regulations 
+adopted for sources of air pollution in the State. 
+Title II of the Act (42 U.S.C. §§ 7521-7590), which is at 
+issue here, regulates mobile sources of air pollution, primarily 
+motor vehicles. “In contrast to federally encouraged state 
+control over stationary sources, regulation of motor vehicle 
+emissions ha[s] been a principally federal project.” Engine 
+Mfrs. Ass'n v. EPA, 88 F.3d 1075, 1079 (D.C. Cir. 1996). 
+1. The first time Congress mandated the exercise of federal 
+regulatory authority to reduce air pollution was in 1965, when 
+Congress directed the federal government to regulate emissions 
+from new motor vehicles and new motor vehicle engines. Pub. 
+L. No. 89-272, § 101(8), 79 Stat. 992 (1965) (42 U.S.C. 
+§ 1857f-1 (Supp. IV, 1966-1968)). Despite the enactment of 
+this statute and the adoption of a regulation establishing 
+emission levels in 1966 (see 31 Fed. Reg. 5,170 (1966)), “[a] 
+number of states * * * continued to develop separate emission 
+programs. Congress thereupon promptly amended the Clean Air 
+Act in 1967 to impose federal preemption.” Motor Vehicle 
+Mfrs. Ass'nv. New York State Dep't of Envtl. 
+Conservation, 17 
+F.3d 521, 525 (2d Cir. 1994) (“MVMA”); see also H.R. Rep. 
+No. 728, 90th Cong., Ist Sess. 21 (1967) (preemption is 
+“necessary in order to prevent a chaotic situation from develop- 
+ing in interstate commerce in new motor vehicles”); S. Rep. 
+No. 403, 90th Cong., Ist Sess. 33 (1967) (under federal 
+preemption, “industry * * * will be able to minimize economic 
+disruption and therefore provide emission control systems at 
+lower costs to the people of the Nation”). 
+The express preemption provision adopted by Congress, 
+now Section 209(a) of the Act (codified at 42 U.S.C. 
+— 
+—<<—- 
+a 
+-—o 
+— 
+——~a 
+5 
+§ 7543(a)), contains two separate restrictions on state authority. 
+First, “[n]o State or any political subdivision thereof shall adopt 
+or attempt to enforce any standard relating to the control of 
+emissions from new motor vehicles or new motor vehicle 
+engines subject to this part.” Second, “[nJo State shall require 
+certification, inspection, or any other approval relating to the 
+control of emissions from any new motor vehicle or new motor 
+vehicle engine as condition precedent to the initial retail sale, 
+titling (if any), or registration of such motor vehicle, motor 
+vehicle engine, or equipment.” 
+The provision also contains a savings clause, now codified 
+in Section 209(d), in which Congress delineated the outer 
+boundaries of its preemption of state and local law. It provides 
+that “[nJothing in this title shall preclude or deny to any State 
+or political subdivision the right otherwise to control, regulate, 
+or restrict the use, operation, or movement of registered or 
+licensed motor vehicles.” Pub. L. No. 90-148, § 2, 81 Stat. 501 
+(1967) (codified as amended at 42 U.S.C. § 7543(d)). Thus, the 
+States retained authority to regulate the use, operation, or 
+movement of motor vehicles only through means other than 
+standards or approvals relating to the control of emissions from 
+new motor vehicles or new motor vehicle engines. 
+Congress permitted only one exception to Section 209(a)’s 
+expansive preemption. During the debate on the 1967 statute, 
+“representatives of the State of California were clearly opposed 
+to displacing that State’s right to set more stringent standards 
+to meet peculiar local conditions.” S. Rep. No. 403, at 33. 
+Congress concluded that “California’s unique problems and 
+pioneering efforts justified a waiver of the preemption section 
+to the State.” Jbid. 
+Accordingly, the statute requires the federal government to 
+waive application of the preemption section to a standard 
+adopted by the State of California unless EPA finds that the 
+State “[did] not require standards more stringent than applica- 
+
+
+[PDF page 11]
+6 
+ble Federal standards to meet compelling and extraordinary 
+conditions” or that the California standard was inconsistent 
+with the rule-making criteria established by federal law. Pub. L. 
+No. 90-148, § 2, 81 Stat. 501 (now codified, as subsequently 
+amended, at Section 209(b), 42 U.S.C. § 7543(b)). The statute, 
+by its terms, made the waiver process available to any State that 
+had adopted motor vehicle emission control standards prior to 
+March 30, 1966, but California was the only State that satisfied 
+that test. MVMA, 17 F.3d at 525. 
+Given the broad language in Section 209(a), and the lumited 
+exception for California in Section 209(b), it is not surprising 
+that when this Court surveyed federal law with respect to air 
+pollution in 1972 it observed that “Congress has largely 
+preempted the field with regard to ‘emissions from new motor 
+vehicles.”” Washington, 406 U.S. at 114 (citing Section 209(a)); 
+see also Motor & Equip. Mfrs. Ass'n v. EPA, 627 F.2d 1095, 
+1109 (D.C. Cir. 1979) (*“MEMA”) (“Congress in 1967 ex- 
+pressed its intent to occupy the regulatory role over emissions 
+control to the exclusion of all the states, all, that is, except 
+California”); City of Chicago v. General Motors Corp., 467 
+F.2d 1262, 1264 (7th Cir. 1972) (footnote omitted) (Section 
+209(a) preempts “the entire field of standards for emissions 
+from new motor vehicles”). 
+Congress’s approach with respect to emissions from new 
+motor vehicles stands in sharp contrast to the path that it took 
+with respect to stationary sources of air pollution. Although 
+under Title I of the Act, the federal government sets the 
+national ambient air quality standards that establish permissible 
+concentrations of various types of air pollutants, “it is relegated 
+by the Act to a secondary role in the process of determining and 
+enforcing the specific, source-by-source emission limitations 
+which are necessary if the national standards it has set are to be 
+met.” Train v. NRDC, 421 U.S. 60, 79 (1975) (footnote 
+omitted); see also id at 79 n.16 (characterizing the federal 
+government’s authority over emissions from new motor 
+> 
+vehicles as an “[e}xception”™ to this approach); Washington, 406 
+U.S. at 115 (“{sJo far as factories, incinerators, and other 
+Stationary devices are implicated, the States have broad control 
+** ™. 
+To confirm the leading role for the States in controlling 
+non-mobile sources of air pollution, Congress enacted a general 
+savings clause in Title 1, 42 U.S.C. § 7416, preserving “the 
+right of any State or political subdivision thereof to adopt or 
+enforce (1) any standard or limitation respecting emissions of 
+air pollutants or (2) any requirement respecting control or 
+abatement of air pollution.” Nevertheless, to confirm federal 
+authority over mobile sources of air pollution, Congress 
+expressly excepted the “standard{s] relating to the control of 
+emissions from new motor vehicles” set forth in Section 209(a) 
+from that savings clause. 
+Congress has amended the Clean Air Act several times 
+since 1967, but it has not altered the basic scheme 
+that estab- 
+lishes the federal government 
+as preeminent with respect 
+to the 
+regulation of pollution from new motor vehicles and motor 
+vehicle engines. To this day, only two sets of standards relating 
+to new motor vehicle emissions are permissible — those 
+adopted by the federal government and those adopted by the 
+State of California for which EPA has granted a waiver. 
+2. Congress 
+in 1977 amended the motor vehicle provisions 
+of the Clean Air Act in two relevant respects. First, 
+it allowed 
+certain States other than California — under conditions 
+“carefuily circumscribed to avoid placing an undue burden on 
+the automobile manufacturing industry” (MVMA, 17 F.3d at 
+527) — to adopt, in whole, California standards as to which the 
+federal government 
+has waived preemption. Section 177 of 
+the 
+Act, 42 U.S.C. § 7507, excludes from the preemptive 
+scope of 
+Section 209(a) “standards relating 
+to control of emissions” 
+and 
+“such other actions as are referred to in [Section 209(a)] if * * * 
+such standards are identical to the California standards for 
+
+
+[PDF page 12]
+which a waiver has been granted for such model year” and if 
+both California and the other State adopt the standards at least 
+two years before the commencement of the model year. Thus, 
+“(rjather than being faced with 51 different standards, as they 
+had feared, 
+or with only one, 
+as they had sought, manufacturers 
+must cope with two regulatory standards * * *.” Engine Mfrs. 
+Ass'n, 88 F.3d at 1080. 
+The 1977 amendments also revised the statutory test for 
+granting a request by California for a waiver of preemptioti. 
+The principal change was to require the federal government “to 
+consider California’s standards as a package, so that California 
+could seek a waiver from preemption if its standards ‘in the 
+aggregate’ protected public health at least as well as federal 
+standards.” MVMA, 17 F.3d at 525. In addition, Congress 
+directed the federal government in considering a waiver request 
+under Section 209(b) of the Act to accord deference to the 
+State’s judgment regarding the effect of its standards on the 
+public health and welfare. 42 U.S.C. § 7543(b) (Pub. L. No. 95- 
+95, § 207, 91 Stat. 755 (1977)). 
+3. Congress again revisited the Clean Air Act in 1990. It 
+added a second paragraph to Section 177 — the provision 
+authorizing other States to adopt California standards that 
+received a Section 209(b) preemption waiver — to emphasize 
+the strict limitations on the authority of such a State: 
+Nothing in this section or [in the title of the Act concerning 
+mobile source pollution] shall be construed as authorizing 
+any * * * State [that adopts California standards] to prohibit 
+or limit, directly or indirectly, the manufacture or sale of a 
+new motor vehicle or motor vehicle engine that is certified 
+in California as meeting California standards, or to take any 
+action of any kind to create, or have the effect of creating, 
+a motor vehicle or motor vehicle engine different than a 
+motor vehicle or engine certified in California under 
+9 
+California standards (a “third vehicle”) or otherwise create 
+such a “third vehicle.” 
+Pub. L. No. 101-549, § 232, 104 Stat. 2529 (1990). This 
+language was added to “codifly], in effect, Congress's under- 
+standing of the authority originally [given] to states by Section 
+177 as expressed in the legislative history of Section 177 when 
+it was adopted in 1977.” Clean Air Conference Report (Oct. 27, 
+1990), A LEGISLATIVE HISTORY OF THE CLEAN AIR ACT 
+AMENDMENTS OF 1990 1001, 1021-1022 (1993); see also 
+Exhibit 1 (Oct. 27, 1990), id. at 790 (entered by Sen. Mitchell) 
+(describing the amendment to section 177 as “a mere clarifica- 
+tion of current law”). 
+Congress in 1990 also required some States that had failed 
+to reduce air pollution levels in accordance with national 
+ambient air quality standards to force operators of fleets of cars 
+and trucks to purchase specified percentages of vehicles that 
+“would be substantially cleaner than conventional vehicles.” 
+H.R. Conf. Rep. 101-952, 101st Cong., 2d Sess. 337 (1990). 
+Each State must submit to EPA for approval an implementation 
+plan setting forth the emission limitations and other rules 
+adopted by the State — relating principally to the regulation of 
+stationary sources such as power plants and factories — that are 
+designed to produce compliance with the federal air quality 
+standards and other requirements of the Act. See generally 
+General Motors Corp. v. United States, 496 U.S. 530, 533 
+(1990); Train, 421 U.S. at 79-80. 
+: 
+The 1990 amendments provide that a State that has failed 
+to attain specified air quality levels must submit for EPA 
+approval a revised implementation plan that requires operators 
+of centrally fueled fleets of ten or more specified types of 
+vehicles to purchase a designated percentage of “clean-fuel 
+vehicles.” Section 246, 42 U.S.C. § 7586 (Pub. L. No. 101-549, 
+§ 229(a), 104 Stat. 2520). A “clean-fuel vehicle” is one that 
+meets the clean-fuel vehicle emission standards established 
+
+
+[PDF page 13]
+10 
+under the Act (Section 241(7), 42 U.S.C. § 7581(7) (Pub. L. 
+No. 101-549, § 229(a), 104 Stat. 2513)). 
+Significantly, the Clean Air Act's “clean-fuel 
+fleet” 
+provisions state that “[t]he plan revision * * * shall provide that 
+the choice of clean-fuel vehicles and clean alternative fuels 
+shall be made by the covered fleet operators subject to the 
+requirements” of Section 246. Section 246(d), 42 U.S.C. 
+§ 7586(d). The provisions also broadly define “clean alternative 
+fuel” as “any fuel (including methanol, ethanol, or other 
+alcohols * * *, reformulated gasoline, diesel, natural gas, 
+liquefied petroleum gas, and hydrogen) or power source 
+(including electricity) used in a clean-fuel vehicle that com- 
+plies” with the standards established under the Act (Section 
+241(2), 42 U.S.C. § 7581(2)); and apply only to limited 
+percentages of a fleet operator’s covered fleet vehicles (Section 
+246(b)-(c), 42 U.S.C. § 7586(b)-(c)). Thus, the “clean-fuel 
+fleet” provisions do not authorize States (much less local 
+governments) to limit a fleet operators’ ability to choose among 
+the various types of clean-fuel vehicles that otherwise comply 
+with the applicable emission regulations. 
+Finally, Congress authorized the federal government to 
+excuse a State from its obligation to impose a “clean-fuel fleet” 
+purchasing requirement if the State proposed an alternative 
+approach that would achieve emission reductions equal to those 
+that would be achieved under a fleet purchasing rule. 42 U.S.C. 
+§ 751 la(c)(4)(B). 
+B. The California Motor Vehicle Emission Regulations. 
+California law designates the California Air Resources 
+Board (“CARB”) as “the air pollution control agency for all 
+set forth in federal law” (Cal. Health & Safety Code 
+§ 39602) and vests CARB with authority to promulgate 
+regulations addressing air pollution resulting from motor 
+vehicles, including limitations on emissions from new motor 
+vehicles and new motor vehicle engines. See id §§ 39003, 
+ee 
+li 
+43013, 43018, 43100-43108. Three sets of CARB’s regulations 
+are relevant here. 
+1. CARB’s 
+low-emission 
+vehicle (“LEV”) program, 
+governing low-emission passenger cars and medium-duty 
+vehicles, was adopted in 1990 and 1991 and applies to 1994 to 
+2003 model-year vehicles. Cal. Code Regs. tit. 13, § 1960.1; 
+Pet. App. 13a; CARB, Low-Emission Vehicle Program, at 
+http://www.arb.ca.gov/msprog/levprog/evprog.htm 
+(last up- 
+dated Oct. 2, 2002). In 1999, CARB adopted “LEV II” rules, 
+which are applicable to the 2004 and later model years. See 
+Cal. Code Regs. tit. 13, § 1960(a); CARB, Low-Emission 
+Vehicle Program, at http://www.arb.ca.gov/msprog/levprog/ 
+levprog.htm (last updated Oct. 2, 2002). Although the numeri- 
+cal requirements differ, the basic structure of the two programs 
+is substantially similar. The rules establish different tiers of 
+emission regulation, which are, in order of increasing strin- 
+gency: Transitional Low-Emission Vehicles (“TLEVs”), which 
+include 
+diesel-fueled 
+vehicles; 
+Low-Emission 
+Vehicles 
+(“LEVs”); Ultra-Low-Emission Vehicles (“ULEVs”); Super- 
+Ultra-Low-Emission Vehicles (““SULEVs”); and Zero-Emission 
+Vehicles (“ZEVs”). Each tier has a set of emission limitations 
+for carbon monoxide, formaldehyde, non-methane organic 
+gases, oxides of nitrogen, and particulate matter. Cal. Code 
+Regs. tit. 13, §§1960.1(e)(3), (g), (h)(2), (p) (LEV 1); id 
+§ 1961(a) (LEV II). A vehicle may be sold in California only if 
+it qualifies under one of these categories. See Cal. Health & 
+Safety Code §§ 43009, 43016-43017, 43102, 43105. 
+The LEV program further requires that vehicles that a 
+single manufacturer delivers for sale in California must meet 
+overall fleet average emission requirements. These require- 
+ments are reduced over time, “requiring manufacturers to sell 
+progressively cleaner mixes of vehicles.” Pet. App. 14a; see 
+Cal. Code Regs. tit. 13, § 1960.1(g)(2) (LEV I); id. § 1961(b) 
+(LEV II). “Automobile manufacturers, under CARB’s regula- 
+tions, have the flexibility to decide how many vehicles of each 
+
+
+[PDF page 14]
+12 
+type they manufacture and sell in order to meet the fleet 
+average.” Pet. App. 14a. Additional flexibility is provided 
+through establishment of a marketable credit system: manufac- 
+turers may earn credits against the non-methane organic gas 
+emission standards by exceeding the fleet average require- 
+ments, and against the ZEV requirements by creating Partial 
+Zero-Emission Vehicles (“PZEVs”), reducing carbon dioxide 
+emissions, or increasing fuel efficiency. Cal. Code Regs. tit. 13, 
+§ 1960.1(g)(2) (note 7 to appended table of fleet average 
+emission requirements) (non-methane organic gas credits); id. 
+§ 1961(c)(1) (same); id. § 1962(g) (ZEV credits). 
+In 1993, EPA granted California a waiver of federal 
+preemption under Section 209(b) for the LEV program applica- 
+ble to light-duty vehicles. 58 Fed. Reg. 4,166 (1993). Califor- 
+nia’s LEV program for medium-duty vehicles received preemp- 
+tion waivers from EPA in 1994 (59 Fed. Reg. 48,625 (1995 and 
+later model years)) and in 1998 (63 Fed. Reg. 18,403 (1998 and 
+later model years)). In April 2003, EPA granted a preemption 
+waiver for California’s LEV II amendments as they apply to 
+light-duty and medium-duty vehicles — except with respect to 
+California’s ZEV program. 68 Fed. Reg. 19,811. CARB 
+initially sought but later withdrew its requests for EPA consid- 
+eration of California’s ZEV program. 67 Fed. Reg. 60,680 
+(2002). 
+In addition to granting California’s LEV program a waiver 
+from federal preemption, EPA also approved that program as 
+a substitute for the federal “clean-fuel fleet” program required 
+by Section 246 for “nonattainment” areas in the State. 64 Fed. 
+Reg. 46,849 (1999). But for EPA’s approval of California’s 
+LEV program as a substitute, six “nonattainment” areas in 
+California, including the South Coast Air Basin, would have 
+been required by Section 246 to adopt federal “clean-fuel fleet” 
+programs. 64 Fed. Reg. 46,850. 
+13 
+2. CARB promulgated an emission control program for 
+- 
+heavy-duty urban transit buses (the “Urban Bus Program’’) in 
+February 2000. See CARB News Release, ARB Cuts Emissions 
+From Transit Buses (Feb. 24, 2000), at http://www.arb.ca.gov/ 
+newsrel/n1022400.htm (viewed Aug. 18, 2003). One element of 
+the program 
+establishes 
+increasingly 
+stringent emission 
+standards for new urban buses and bus engines. Cal. Code 
+Regs. tit. 13, § 1956.1(a)(6)-(12). 
+The Urban Bus Program also imposes a ceiling on the 
+average emission level of a bus fleet operated by a public 
+transit agency. CARB nonetheless respected fleet operators’ 
+need “to determine their optimal fleet mix in consideration of 
+such factors as air quality benefits, service availability, cost, 
+efficiency, safety, and convenience.” Accordingly, CARB 
+established “two paths to compliance with this fleet rule * * *: 
+the alternative-fuel path and the diesel path.” Cal. Code Regs. 
+tit. 13, § 1956.2(a). 
+Operators choosing the diesel path are obligated to retrofit 
+a larger number of existing buses to reduce nitrogen oxide 
+emissions than those choosing the alternative-fuel path (see 
+Cal. Code Regs. tit. 13, § 1956.2(f)(2)-(3)) and must purchase 
+a specified minimum number of zero emission buses (see id. 
+§ 1956.3(c)). The alternative-fuel path requires that at least 
+85% of new buses be capable of operating on alternative fuel, 
+which is defined as “natural gas, propane, ethanol, methanol, 
+electricity, fuel cells, or advanced technologies that do not rely 
+on diesel fuel” (id. § 1956.2(b)(1)); a lesser retrofit obligation 
+(see id. § 1956.2(f)(2)-(3)); and a deferred obligation to 
+purchase zero-emission buses (see id. § 1956.3(c)). All opera- 
+tors, regardless of the path selected, must retrofit existing buses 
+to reduce particulate emissions. /d. § 1956.2-1956.3; Pet. App. 
+15a. 
+' CARB Board Resolution 00-02 at 6 (Feb. 24, 2000), available at 
+http://www.arb.ca.gov/regact/bus/res00-2.pdf (viewed Aug. 18, 2003), 
+(continued...) 
+
+
+[PDF page 15]
+14 
+3. CARB also has developed an emission control program 
+for heavy-duty vehicles (those over 14,000 pounds in gross 
+vehicle weight rating), including diesel-fueled trucks. Under 
+CARB’s Heavy-Duty Vehicle Program, emission limits are 
+established for oxides of nitrogen, non-methane hydrocarbons, 
+particulate matter, and carbon monoxide. Heavy-duty vehicles 
+that CARB certifies as meeting those emission limits may be 
+sold throughout the State. Cal. Code Regs. tit. 13, §§ 1956.8, er 
+seq. (2003); CARB, On-Road Heavy-Duty Vehicle Program, at 
+http://www.arb.ca.gov/msprog/onroadhd/onroadhd.htm 
+(last 
+updated May 12, 2003). 
+Significantly, and in recognition of the need for regulatory 
+uniformity in the capital-intensive heavy-duty vehicle market, 
+CARB’s Heavy-Duty Vehicle Program standards are largely 
+identical to, and incorporate by reference, the standards EPA 
+has adopted for heavy-duty vehicles. Compare Cal. Code Regs. 
+tit. 13, §§ 1956.8, et seg. with 40 C.F.R. Part 86; see also J.A. 
+163, 165. As a result of these standards, “[heavy-duty] diesel 
+vehicles will [during 2007 to 2010] achieve gasoline-like 
+exhaust emission levels, in addition to their inherent advantages 
+over gasoline vehicles with respect to fuel economy, green- 
+house gas emissions, and lower evaporative hydrocarbon 
+emissions.” 66 Fed. Reg. 5,005 (2001). 
+C. The Challenged Fleet Rules. 
+The District is a political subdivision of the State of 
+California. It is a regional entity responsible for “imple- 
+ment[ing] a strategy for achieving and maintaining ambient air 
+quality standards within the South Coast Air Basin,” which 
+consists of parts of Los Angeles, San Bernardino, Riverside and 
+'(..continued) 
+directed CARB’s Executive Officer to forward the details of the Urban Bus 
+Program to EPA and request “a waiver or confirmation that the regulations 
+are within the scope of an existing waiver” under Section 209(b). According 
+to EPA’s on-line docket, however, CARB’s waiver request for the Urban 
+Bus Program has not yet been submitted to EPA. 
+15 
+Orange Counties. Pet App. 4a-5a; see Cal. Health & Safety 
+Code § 39052.5, 40402, 40410-40412, 40440-40459. The 
+district court in this case stated that the South Coast Air Basin 
+“experiences the most serious air quality problems in the 
+nation, primarily due to motor vehicle pollution.” Pet. App. Sa. 
+The California legislature in 1987 authorized the District to 
+adopt regulations governing vehicle purchases by operators of 
+“public and commercial vehicle fleets” of 15 or more vehicles. 
+Cal. Health & Safety Code § 40447.5. With some exceptions, 
+the District was permitted to require such operators “to pur- 
+chase vehicles which are capable of operating on methanol or 
+other equivalently clean burning alternative fuel and to require 
+that these vehicles be operated, to the maximum extent feasible, 
+on the alternative fuel when operating” in the District. Jbid. 
+In June, August and October 2000, the District promulgated 
+a series of six “Fleet Rules” regulating purchases or leases of 
+new vehicles by various private and public operators (including 
+federal, state, regional, county, and city departments and 
+agencies) of commercial fleets to “reduce air toxic and criteria 
+pollutant emissions.” J.A. 16. Each of the Rules addresses a 
+separate type of vehicle fleet, but all follow a common ap- 
+proach, prohibiting fleet operators from purchasing many types 
+of new vehicles — including some low-emission vehicles and 
+all diesel-fueled vehicles — that are certified by CARB for sale 
+within California. 
+For example, Rule 1194 (J.A. 58-65) applies “to all public 
+and private fleet operators of fifteen (15) or more vehicles 
+operated by the airport authority or any other public or private 
+fleet operators that transport passengers from commercial 
+airports located in the District.” Rule 1194(b) (J.A. 58). It 
+imposes separate restrictions on different types of transporta- 
+tion providers, as follows: 
+¢ For operators “providing limousine or transit shuttle 
+services out of commercial airport terminals to the public 
+
+
+[PDF page 16]
+16 
+through the collection of fares or fees, or [that] provide 
+courtesy pickup services out of commercial airport termi- 
+nals,” any new passenger car or medium-duty vehicle 
+purchase or lease “shall be a vehicle that has been certified 
+by CARB that meets the ULEV, SULEV, or ZEV emission 
+standards.” Rule 1194(d)(1) (J.A. 61-62). These operators 
+are barred from purchasing or leasing other vehicles that 
+also are certified by CARB and therefore permitted to be 
+sold in California — such as those meeting the TLEV and 
+LEV emissions standards. See Cal. Code Regs. tit. 13, 
+§ 1960.1(g)(2) (LEV I fleet average requirements permit- 
+ting sale of TLEVs and LEVs as part of manufacturers total 
+fleet of vehicles); id. § 1961(b) (same for LEV II). 
+* Operators of “shuttle van services that provide multi- 
+ple-party passenger transportation services to commercial 
+airport terminals and do not operate on fixed or scheduled 
+routes” were subjected to a phased-in requirement: from 
+July 1, 2001, through June 30, 2002, half of their purchases 
+or leases of new passenger cars or medium-duty vehicles 
+were required to be CARB-certified as meeting ULEV, 
+SULEV, or ZEV emission standards; beginning July 1, 
+2002, all purchases and leases had to meet this standard. 
+Rule 1194(d)(2) (J.A. 62). As noted above (at pages 11-12), 
+CARB’s rules permit the purchase and lease within Califor- 
+nia of new passenger cars and medium-duty vehicles that 
+do not meet these particular standards. 
+¢ For providers of “shuttle services to the public in and out 
+of airport terminals to airport parking lots, car rental lots, or 
+hotels/motels, all new heavy-duty transit vehicle purchases 
+or leases shall be alternative-fueled vehicles,” (Rule 
+1194(d)(3) (J.A. 62)), which the Rule defines as a “vehicle 
+or engine that is not powered by gasoline or diesel fuel,” 
+(Rule 
+1194(c)(2) 
+(J.A. 
+59)). Under CARB’s 
+rules, 
+heavy-duty transit vehicles powered by gasoline or diesel 
+17 
+fuel are CARB-certified and may be sold within California. 
+See Cal. Code Regs. tit. 13, § 1956.1(a)(6)-(12). 
+¢ Finally, for fleet operators “providing taxicab pickup 
+services out of commercial airport terminals,” any new 
+purchase or lease of a passenger car or medium-duty 
+vehicle to perform such services “shall [only] be a vehicle 
+that has been certified by CARB that meets the ULEV, 
+SULEV, or ZEV emission standards” (Rule 1194(d)(4) 
+(J.A. 
+62-63)), 
+despite 
+the 
+availability 
+of other 
+CARB-certified vehicles, including diesel-powered vehicles 
+(see page 11, supra). The Rule provides for an exemption 
+for such operators if the District has failed to make avail- 
+able a subsidy to cover any amount in excess of $10,000 
+that the operator is required to pay for such a vehicle. Rule 
+1194(e)(3) (J.A. 63-64). 
+Rule 1194 contains exemptions for situations in which the 
+operator demonstrates to the District that the vehicle required 
+under the Rule is not available commercially or could not be 
+used; for vehicles converted to be wheelchair accessible; and 
+for buses “used 
+for the express 
+purpose of providing 
+long-distance service.” Rule 1194(e)(1)-(2), (4) (J.A. 63-64). 
+Each of the other Fleet Rules follows the same approach for 
+different types of fleets: public and private street-sweeper fleet 
+operators (Rule 1186.1 (J.A. 16-23)); public fleet operators of 
+passenger cars, light-duty trucks, or medium-duty vehicles 
+(Rule 1191 (J.A. 24-45)); public transit fleet operators (Rule 
+1192 (J.A. 46-51)); public and private solid waste collection 
+fleet operators (Rule 1193 (J.A. 52-57)); and public fleet 
+operators of heavy-duty vehicles (Rule 1196 (J.A. 66-74)). In 
+each instance, the purchase of certain low-emission vehicles 
+and all covered diesel-fuel vehicles is generally prohibited. See 
+Pet. App. 16a-19a. 
+
+
+[PDF page 17]
+- 
+18 
+D. The Proceedings Below. 
+Petitioner Engine Manufacturers Association commenced 
+this action against respondent SCAQMD in the United States. 
+District Court for the Central District of California asserting 
+that the Fleet Rules are preempted by Section 209(a) of the 
+Clean Air Act and seeking an injunction barring the District 
+from enforcing those Rules. Petitioner Western States Petro- 
+leum Association intervened as a plaintiff; and respondents 
+Natural Resources Defense Council, Coalition for Clean Air, 
+Communities for a Better Environment, Inc., Planning & 
+Conservation League, and Sierra Club intervened as defen- 
+dants. Pet. App. 19a-20a. 
+The district court granted respondents’ motion for summary 
+judgment (Pet. App. 3a-27a). The court recognized that the 
+First and Second Circuits had held that state-imposed require- 
+ments regarding the sales of motor vehicles constitute a 
+“standard relating to the control of emissions” preempted by 
+Section 209(a). Pet. App. 23a. Nonetheless, the district court 
+stated that “[i]t does not follow, however, that a rule regulating 
+the purchase of vehicles is such a standard.” /bid. (emphasis in 
+original). “Where a state regulation does not compel manufac- 
+turers to meet a new emissions limit, but rather affects the 
+purchase of vehicles, as the Fleet Rules do, that regulation is 
+not a standard. No restriction on the sale of vehicles is present 
+here. Plaintiffs may continue to sell any vehicle which is 
+otherwise certified in California.” /bid. 
+The district court also relied on Section 246’s requirement 
+that some States require fleet operators to purchase certain 
+low-emission vehicles. “It is not rational to conclude that the 
+[Clean Air Act] would authorize purchasing restrictions on the 
+one hand, and prohibit them, as a prohibited adoption of a 
+‘standard,’ on the other.” Pet. App. 23a. 
+Finally, the district court concluded that Section 177’s 
+requirement that a State adopt standards “identical” to Califor- 
+19 
+nia’s to be exempt from preemption was not applicable because 
+it referred only to “the non-California ‘opt-in’ states.” Pet. App. 
+26a. The court also determined that the District's Fleet Rules 
+did not impose a “third car” requirement in violation of Section 
+177 because “they require purchasers to choose from among a 
+subset of previously certified vehicles. Automobile manufactur- 
+ers will not be forced to do something more than they already 
+must.” Pet. App. 27a. “The Fleet Rules may lead to decreased 
+demand for some cars and trucks certified in California, but the 
+Rules do not require the manufacturers to build or sell any 
+particular model for this area.” /bid. 
+The Ninth Circuit affirmed the judgment “for the reasons 
+stated in” the district court’s “well-reasoned opinion.” Pet. App. 
+la-2a. The court of appeals subsequently denied rehearing. Pet. 
+App. 28a-29a. 
+SUMMARY OF THE ARGUMENT 
+Section 209(a) of the Clean Air Act prohibits any “State or 
+any political subdivision 
+thereof’ 
+from 
+“adopt{ing] 
+or 
+attempt[ing] to enforce any standard relating to the control of 
+emissions from new motor vehicles or new motor vehicle 
+engines.” This provision sweeps broadly and encompasses the 
+emissions-based purchasing restrictions imposed on fleet 
+operators by the Fleet Rules 
+at issue in this case. 
+The District’s Fleet Rules prohibit the purchase of certain 
+new motor vehicles — including all diesel-fueled vehicles — 
+based on the emission characteristics of those vehicles. As a 
+result, the Rules are “standard{s] relating to the control of 
+emissions from new motor vehicles” preempted by Section 
+209(a). The distinction 
+drawn by respondents 
+and the courts 
+below between purchase prohibitions (which they contend are 
+not preempted) and sales restrictions (which they acknowledge 
+are preempted) finds no support in the text of Section 209(a) or 
+the Clean Air Act’s regulatory scheme. Indeed, the distinction 
+
+
+[PDF page 18]
+20 
+is illusory; every sale includes a purchase and every purchase 
+includes a sale. 
+The Fleet Rules also expressly refer to and incorporate a 
+subset of the emission standards adopted by CARB. That subset 
+includes only the most stringent and restrictive of the broader 
+range of CARB emission standards and phase-in provisions. 
+The Fleet Rules amount to a new and different set of standards 
+adopted for the undisputed purpose of controlling emissions. If 
+the District can adopt these standards, then other state and local 
+governments can as well. The congressional scheme for 
+regulating mobile sources of emissions would be gutted. 
+No provision of the Clean Air Act — not the preemption 
+waiver provision for California (Section 209(b)), the “opt-in” 
+provision allowing other States to adopt California emission 
+standards that have been approved by EPA (Section 177), nor 
+the clean-fue! fleet provisions (Section 246) — saves the Fleet 
+Rules from federal preemption. The District is not a State. The 
+Fleet Rules vary from the EPA-approved standards adopted by 
+the State of California. And the Fleet Rules have never been 
+approved by EPA. 
+ARGUMENT 
+The District’s Fleet Rules are “standard[s] relating to the 
+control of emissions from new motor vehicles” and are, 
+therefore, preempted by Section 209(a) of the Clean Air Act. 
+The contrary holding of the courts below — based on the 
+conclusion that the Fleet Rules are beyond the reach of Section 
+209(a) because they proscribe purchases, not sales (see Pet. 
+App. 2a, 23a) — is untenable. It ignores the broad language 
+of 
+Section 209(a), the entire regulatory scheme for controlling 
+motor vehicle emissions under the Clean Air Act, and the 
+purpose and effect of the Fleet Rules themselves. 
+If the Fleet Rules were not preempted emission standards, 
+then any state or local government could adopt rules permitting 
+21 
+or prohibiting any motor vehicle purchases (whether by fleet 
+operators or individuals) based on the emissions characteristics 
+of those vehicles. The balkanized regulatory scheme that 
+would result is the very sort of “chaotic situation” Congress 
+sought to avoid by preempting state and local regulation of 
+~ motor vehicle emission standards. See pages 4-7, supra. Such 
+localized variation will disrupt “interstate commerce in new 
+motor vehicles” and undermine the regulatory regime created 
+by Congress for mobile sources in Title II of the Act. H.R. Rep. 
+728, at 21. 
+I. SECTION 209(A) ENCOMPASSES RESTRICTIONS 
+ON PURCHASES OF NEW MOTOR VEHICLES 
+SUCH AS THE DISTRICT’S FLEET RULES - 
+Whether the Clean Air Act preempts the Fleet Rules is 
+determined by the text of Section 209(a). Where, 
+as here, a 
+federal statute “contains an express pre-emption clause, [the] 
+task of statutory construction must in the first instance focus on 
+the plain wording of the clause, which necessarily contains the 
+best evidence of Congress’ pre-emptive intent.” Sprietsma v. 
+Mercury Marine, 537 U.S. 51, 62-63 (2002) (quoting CSX 
+Transp., Inc. v. Easterwood, 507 U.S. 658, 664 (1993)) 
+(internal quotation marks omitted). 
+The courts below, and respondents, mistakenly relied on a 
+“presumption” against federal preemption of traditional state 
+“police powers” in seeking to narrow the scope of Section 
+209(a). Pet. App 2a, 9a. But such a presumption has no bearing 
+on this case, where “Congress has made clear its desire for 
+preemption.” Egelhoff v. Egelhoff, 532 U.S. 141, 146 (2001). 
+Moreover, the presumption applies only when Congress 
+legislates “in a field which the States have traditionally occu- 
+> The statute preempts state and local standards applicable to both “new 
+motor vehicles” and “new motor vehicle engines.” For ease of reference, we 
+include both “new motor vehicles” and “new motor vehicle engines” in 
+referring 
+to “motor vehicles.” 
+
+
+[PDF page 19]
+22 
+pied” (United States v. Locke, 529 U.S. 89, 108 (2000) (quoting 
+Rice v. Sante Fe Elevator Corp., 331 U.S. 218, 230 (1947))), 
+and not in a field “where there has been a history of significant 
+federal presence” (529 U.S. at 108). In this case, there is no 
+“tradition” of state regulation of motor vehicle emissions — 
+only a single State had adopted emission standards at the time 
+Congress enacted the relevant provisions of the Clean Air Act. 
+See pages 5-6, supra. To the contrary, there have been decades 
+of a “significant federal presence” in the field. Locke, 529 U.S. 
+at 108. 
+The preemption inquiry in this case begins and ends with 
+the text of Section 209(a), which “provides a reliable indicium 
+of congressional intent with respect to state authority.” 
+Cipollone, 505 U.S. at 517 (internal quotation marks omitted). 
+Section 209(a) plainly demonstrates Congress’s intent to 
+preempt regulations like the Fleet Rules. 
+A. The Plain Language Of Section 209(a) Establishes 
+That A Rule Barring The Purchase Of New Motor 
+Vehicles Based On Their Emission Characteristics Is 
+A Preempted “Standard Relating 
+To The Control Of 
+Emissions.” 
+The first sentence of Section 209(a) is written in expansive 
+terms: “No State or any political subdivision thereof shall adopt 
+or attempt to enforce amy standard relating to the control of 
+emissions for new motor vehicles or new motor vehicle engines 
+subject to this part.” 42 U.S.C. § 7543(a) (emphasis added). 
+This language “largely preempt([s] the field with regard to 
+‘emissions from new motor vehicles.’” Washington, 406 U.S. 
+at 114; see also American Auto. Mfrs. Ass'n v. Cahill, 152 F.3d 
+196, 198 (2d Cir. 1998) (“Under Section 209 of the Clean Air 
+Act, exclusive control over ‘standards relating to the control of 
+emissions from new motor vehicles’ is vested in the federal 
+government, and the states are preempted from regulating in the 
+area.”); MVMA, 17 F.3d at 526 (the “cornerstone of Title II [of 
+23 
+the Clean Air Act] is Congress’ continued preemption of state 
+regulation of automobile emissions”). 
+Despite the provision’s broad language, the courts below 
+concluded that, although Section 209(a) has been properly 
+construed to preempt state laws regulating sales of new motor 
+vehicles based on the vehicles’ emission characteristics,’ “[i]t 
+does not follow * * * that a rule regulating the purchase of 
+vehicles is such a standard.” Pet. App. 23a (emphasis in 
+original). That construction of the statute cannot withstand even 
+casual scrutiny in light of the breadth of Section 209(a)’s 
+prohibition against “adopt[ing] or attempt[ing] to enforce any 
+standard relating to the control of emissions,” which is evident 
+from each element of the language Congress used in crafting 
+the provision. 
+First, the statute proscribes “any standard.” The term “any” 
+generally means a thing “selected without restriction or 
+limitation of choice,” and when used as a modifier — as in 
+Section 209(a) — “any” indicates “the maximum or whole of 
+a number or quantity.” WEBSTER’S THIRD NEW INTERNA- 
+TIONAL DICTIONARY 97 (1986). Congress’s use of the word 
+“any” in a statute “undercuts a narrow construction” of the 
+provision. United States v. James, 478 U.S. 597, 605 (1986), 
+abrogated on other grounds by Central Green Co. v. United 
+States, 531 U.S. 425 (2001); see also Harrison v. PPG Indus., 
+Inc., 446 U.S. 578, 588-589 (1980) (Congress’s use of the 
+“expansive” term “any” “offer[ed] no indication whatever that 
+Congress intended the limiting construction” of the statute 
+urged by the respondents); Shea v. Vialpando, 416 U.S. 251, 
+260 (1974) (interpreting Congress’s use of the word “any” to 
+* See Ass'n of Int'l Auto. Mfrs. v. Commissioner, 208 F.3d 1, 6-7 (1st Cir. 
+2000) (“a requirement that a particular percentage of vehicle sales be ZEVs 
+has no purpose other than to effect a general reduction in emissions” and 
+“must be considered ‘standards relating to the control of emissions” for 
+purposes 
+of Section 209(a) (quoting Cahill, 152 F.3d 
+at 200)). 
+
+
+[PDF page 20]
+24 
+indicate that there was “no limitation, apart from that of 
+reasonableness,” upon statute’s applicability). 
+Second, Congress described the object of the preemption 
+provision in broad terms: “any standard.” A “standard” is a 
+“criterion for measuring acceptability” (BLACK’s LAw DICTIO- 
+NARY 1412-1413 (7th ed. 1999)) and “something that is 
+established by authority, custom, or general consent as a model 
+or example to be followed,” ie., a “criterion” or “test” 
+(WEBSTER’S THIRD MEW INTERNATIONAL DICTIONARY 2223 ). 
+The word “standard” includes not only the more limited terms 
+“law” and “regulation,” but also encompasses restrictions that 
+are the functional equivalents of standards as well. That is 
+confirmed by the inclusion by Congress of standards that a 
+State or local government either “adopt[s]” or “attempt(s] to 
+enforce;” an attempt to enforce a standard never formally 
+adopted is sufficient to trigger preemption. 
+Third, Section 209(a) preempts any standard “relating to 
+the control of emissions from motor vehicles,” and Congress’s 
+use of the term “relate to” in an express preemption clause 
+signals a “clearly expansive” preemptive intent. Egelhoff, 532 
+U.S. at 146; see also Barnett Bank of Marion County, NA v. 
+Nelson, 517 U.S. 25, 38 (1996) (“The word ‘relates’ is highly 
+general, and this Court has interpreted it broadly in other 
+pre-emption contexts.”); Morales v. Trans World Airlines, Inc., 
+504 U.S. 374, 384 (1992) (the phrase “relating to” in a preemp- 
+tion clause “express[es] a broad preemptive purpose”). 
+This Court has interpreted “related to” preemption clauses 
+to invalidate state laws that have a “reference to” or a “connec- 
+tion with” the preempted subject matter. See, e.g, Egelhoff, 532 
+U.S. at 147; California Div. of Labor Standards Enforcement 
+v. Dillingham Constr. N.A., Inc., 519 U.S. 316, 324 (1997); 
+American Airlines, Inc. v. Wolens, 513 U.S. 219, 223 (1995). 
+The “reference to” or “connection with” inquiry is based on 
+whether the state or local law at issue is expressly linked in 
+25 
+some fashion to the subject matter that has been reserved for 
+federal regulation. As the Court explained in Dillingham, a 
+“reference” sufficient to establish preemption will be found 
+“[wJhere a State’s law acts immediately or exclusively upon” 
+the preempted subject matter, or where the preempted subject 
+matter “is essential to the law’s operation.” 519 U.S. at 325. 
+To determine whether a state or local law has “the forbid- 
+den connection,” resort must be had to “the objectives of the 
+[federal statute] as a guide to the scope of the state law that 
+Congress understood would survive,” and “the nature of the 
+effect of the state law on [the preempted legislative area].” 
+Dillingham, 519 U.S. at 325 (internal quotation marks omitted); 
+see also New York State Conference of Blue Cross & Blue 
+Shield Plans v. Travelers Ins. Co., 514 U.S. 645, 656 (1995) 
+(the Court looked to “the objectives of the [federal] statute as 
+a guide to the scope of the state law that Congress understood 
+would survive’’). 
+In light of these principles, the proscription against “any 
+standard relating to the control of emissions from new motor 
+vehicles” must encompass purchase prohibitions. Whatever the 
+outer limits of Section 209(a)’s preemptive scope, it is plain 
+that a state or local rule that bars the purchase of some new 
+motor vehicles and permits the purchase of others on the basis 
+of the vehicles’ respective emission characteristics is well 
+within Section 209(a)’s prohibition. There are only a few ways 
+to regulate motor vehicle emissions. Manufacturers may be 
+barred from producing vehicles that do not meet specified 
+emissions criteria; or sales, purchases, or use of new motor 
+vehicles may be limited on the same basis. Given its expansive 
+language, Section 209(a) necessarily encompasses such direct 
+emission controls. 
+Certainly, any distinction between sale restrictions and 
+purchase restrictions is nonsensical. Every new vehicle transac- 
+tion involves the purchase of the vehicle by the purchaser and 
+
+
+[PDF page 21]
+(e) 
+63 
+has been certified by CARB that meets the ULEV, 
+SULEV, or ZEV emission standards when adding or 
+replacing a passenger car or medium-duty vehicle to 
+their fleet. 
+(5) 
+Vehicles acquired pursuant to paragraph (d)(4) 
+must be operated within the South Coast Air Quality 
+Management District for a minimum of three years if 
+funding to offset the purchase cost, less $10,000 in ac- 
+cordance with paragraph (e)(3), was made available. 
+(6) Prior to January 1, 2002, airport fleet operators 
+voluntarily purchasing an alternative-fueled vehicle 
+meeting requirements of paragraph (d)(4) after adop- 
+tion of this rule, may apply for funding to offset the 
+purchase cost, less $10,000 in accordance with para- 
+graph (e)(3). 
+Exemptions 
+The provisions of this rule shall not apply to the following: 
+(1) 
+Buses used for the express purpose of providing 
+long-distance service (out-of-District), that are gener- 
+ally equipped with luggage compartments, restrooms, 
+and overhead storage. 
+(2) Upon demonstration to the Executive Officer, 
+any vehicles as required pursuant to paragraph (d) 
+for which no alternative-fuel engine and chassis con- 
+figuration is available commercially or could be used. 
+(3) An airport fleet operator who provides taxicab 
+pickup services at commercial airport terminals may 
+purchase a light- or medium-duty vehicle that is not 
+certified by CARB as ULEV or cleaner if the SCAQMD 
+or its designated agent has not provided sufficient fund- 
+ing to fully offset the purchase cost of an alternative- 
+fueled vehicle that complies with paragraph (d)(4) 
+64 
+less $10,000 (paid by or on the behalf of the airport 
+fleet operator): 
+(A) 
+within 10 working days after notification by 
+the airport fleet operator of the intent to pur- 
+chase such vehicle and the airport fleet operator 
+has provided documentation that the $10,000 is 
+immediately available for purchase of the rule 
+compliant vehicle, or 
+(B) 
+within two working days after the airport 
+fleet operator has notified the SCAQMD or its 
+designated agent in the event that the taxicab 
+vehicle to be replaced is rendered inoperable due 
+to a roadside accident and would require imme- 
+diate replacement of the taxicab vehicle. In addi- 
+tion, the airport fleet operator must demonstrate 
+that the $10,000 to be provided by the airport 
+fleet operator is immediately available for pur- 
+chase of the rule compliant vehicle. 
+(C) 
+Notwithstanding the provisions 
+in para- 
+graphs (e)(3)(A) or (e)(3)(B), the airport fleet op- 
+erator shall be responsible to pay for the cost of 
+converting the new rule compliant vehicle to 
+meet applicable taxicab vehicle specifications 
+and all other incidental costs including but not 
+limited to, sales tax on the $10,000 provided by 
+the airport fleet operator, license, and registra- 
+tion fees. 
+(D) An airport fleet operator qualifying for a 
+non-rule compliant vehicle as provided in para- 
+graphs (e\3\A) or (e)(3)(B) shall purchase the 
+non-rule compliant vehicle within 10 working 
+days after being notified that such vehicle could 
+be purchased or reapply for co-funding pursuant 
+to paragraphs (e)(3)(A) or (eX 3)(B). 
+
+
+[PDF page 22]
+65 
+(4) 
+Vehicles not certified by CARB as ULEV or 
+cleaner that are converted to be wheelchair accessible 
+(to meet regulations set by the Commercial Airport 
+Authority and all Americans with Disability Act of 
+1990 requirements, including door height overhead 
+clearance as well as ramp or lift design specifications) 
+for the purpose of providing taxicab pickup services at 
+commercial airport terminals. 
+(f) Compliance Auditing and Enforcement 
+(1) The fleet operator shall provide at the request of 
+the District any files and/or records created to comply 
+with subdivision (d) including fleet-specific purchase 
+information, such as a list of official DMV registra- 
+tions, and manufacturer, model-year, model, engine 
+family number, and fuel type of each fleet vehicle. The 
+fleet operator shall keep all required records for a 
+minimum of two years. 
+(2) Any fleet operator seeking an exemption under 
+subdivision (f) shall supply proof that their fleet is ex- 
+empted from this rule when requested by the District. 
+(g) Severability 
+If any provision of this rule is held by judicial order to be 
+invalid, or invalid or inapplicable to any person or circum- 
+stance, such order shall not affect the validity of the 
+remainder of this rule, or the validity or applicability of 
+such provision to other persons or circumstances. In the 
+- 
+event any of the exceptions to this rule is held by judicial 
+order to be invalid, the persons or circumstances covered 
+by the exception shall instead be required to comply with 
+the remainder of this rule. 
+66 
+South Coast Air Quality Management District 
+(Adopted October 20, 2000) 
+RULE 
+1196. 
+CLEAN 
+ON-ROAD 
+HEAVY-DUTY 
+PUBLIC FLEET VEHICLES 
+(a) Purpose 
+For public fleets of heavy-duty vehicles operating in the 
+South Coast Air Quality Management (District), this rule 
+requires public fleet operators to acquire alternative-fuel 
+heavy-duty vehicles when procuring 
+or leasing these 
+vehicles to reduce air toxic and criteria pollutant emis- 
+sions. 
+(b) Applicability 
+This rule applies to all government agencies located in the 
+District, including federal, state, regional, county and city 
+government departments and agencies, and any special 
+districts such as water, air, sanitation, transit and school 
+districts, with 15 or more heavy-duty vehicles. This rule 
+shall not apply to vehicles or services pursuant to para- 
+graph (f) or vehicles subject to Rules 1192, 1193, [adopted 
+June 16, 2000], 1194 [adopted August 18, 2000], 1195 
+[proposal for school buses} or 1186.1 [adopted August 18, 
+2000). 
+(c) 
+Definitions 
+For purposes of this rule, the following definitions shall 
+apply: 
+(1) ALTERNATIVE-FUEL HEAVY-DUTY EN- 
+GINE OR VEHICLE means a heavy-duty vehicle 
+or engine that uses compressed or liquefied natu- 
+ral gas, propane, methanol, electricity, fuel cells, 
+or other advanced technologies that do not rely 
+
+
+[PDF page 23]
+67 
+on diesel fuel, and has been certified by the Cali- 
+fornia Air Resources Board (CARB). 
+(2) APPROVED CONTROL DEVICE(S) 
+is a 
+CARB-certified exhaust control device(s) that re- 
+duces particulate matter and possibly other pre- 
+cursor emissions. To be considered fitted with an 
+approved control 
+device(s), 
+all diesel exhaust 
+from the vehicle must be vented through such a 
+device(s) that has been fitted at the time of vehi- 
+cle purchase. The vehicle equipped with such a 
+control device must use diesel fuel with a sulfur 
+content no greater than 15 ppm. 
+(3) DUAL-FUEL 
+HEAVY-DUTY 
+VEHICLE 
+means a heavy-duty vehicle equipped with a die- 
+se] engine that uses an alternative fuel (such as 
+compressed or liquefied natural gas, liquefied pe- 
+troleum gas, methanol, or other advanced tech- 
+nologies) 
+in combination 
+with 
+diesel 
+fuel 
+to 
+enable compression ignition. A dual-fuel engine 
+typically uses the alternative fuel to supply 85 
+percent of the total engine fuel requirement on a 
+BTU basis. A dual-fuel engine must be certified 
+by CARB to meet an applicable optional nitrogen 
+oxide exhaust emission standard and be fitted 
+68 
+(5) FLEET VEHICLE means any heavy-duty 
+on-road vehicle, owned or leased by a public fleet 
+operator that totals 15 or more heavy-duty vehi- 
+cles excluding vehicles exempt under paragraphs 
+(f)(1) and (f)(2). 
+(6) HEAVY-DUTY VEHICLE means any vehicle 
+having a gross vehicle weight of at least 14,000 
+pounds. 
+(7) PUBLIC FLEET OPERATOR is a person 
+who owns, leases, or operates heavy-duty fleet 
+vehicles in the District. A person is a federal, 
+state, county or city government department or 
+agency, or special! district. 
+(8) SPECIAL DISTRICT 
+means 
+any 
+public 
+agency that provides public services such as, but 
+not limited to, sanitation, school, transit, air, and 
+water districts. 
+(9) VEHICLE means any self-propelled, motor- 
+ized device that is permitted to operate on public 
+roads through Department of Motor Vehicle reg- 
+istration or the federal government. 
+(d) 
+Fleet Requirements 
+Beginning July 1, 2002, for public fleet operators with 15 
+or more heavy-duty vehicles, 
+all new additions to an 
+existing fleet, or formation of a new fleet, of heavy-duty 
+vehicles shall be by purchase or lease of: 
+with a particulate matter aftertreatment control 
+device that achieves a particulate matter emis- 
+sions level no greater than the particulate matter 
+emissions 
+level of the latest certified M-100 
+methanol engine certified by CARB prior to the 
+date of adoption of this rule. 
+(1) 
+alternative-fuel heavy-duty engine or vehi- 
+(4) EMERGENCY 
+OR 
+RESCUE 
+VEHICLE 
+cles; 
+means any vehicle defined in Section 165 of the 
+: 
+California Vehicle Code and is equipped with red 
+(2) dual-fuel heavy-duty vehicles; 
+lights and sirens as defined in Sections 30, 
+. 
+. 
+wv 
+25269, and 27002 of the California Vehicle Code. 
+(3) dedicated gasstine heavy-duty vehicles; or 
+
+
+[PDF page 24]
+69 
+(4) 
+Ifthe fleet operator has an approved Techni- 
+cal Infeasibility Certification for this purchase or 
+lease, as described in subdivision (), a diesel- 
+powered heavy-duty engine or vehicle with an 
+approved contro] device and maintain that ap- 
+proved control device per manufacturer’s specifi- 
+cations. The provisions of this section shall not 
+apply to subparagraph (e)(1)D) after June 30, 
+2004. 
+(e) Technical 
+Infeasibility 
+Certification 
+Criteria 
+and Procedures 
+~— 
+(1) No less than 60 days prior to the date of 
+purchase or lease of a replacement or additional 
+heavy-duty engine or vehicle, any fleet operator 
+seeking to comply with paragraph (d)(4) shall 
+demonstrate the technical infeasibility of comply- 
+ing with paragraph (d)(1), d(2), or (d)(3) require- 
+ments 
+by submitting 
+a 
+signed 
+and 
+dated 
+Technical Infeasibility Certification Request to 
+the Executive Officer and attest to the accuracy 
+of all statements therein, that shall include: 
+(A) 
+The name and address of the pub- 
+lic fleet operator; and 
+(B) 
+Current heavy-duty vehicle fleet 
+composition, 
+including make, 
+model; 
+and 
+(C) Demonstration that no engine and 
+chassis/body configuration that meets 
+the requirements of paragraphs (d)(1), 
+(dX2), or (d)(3) is commercially avail- 
+able from any manufacturer (only tech- 
+nical 
+reasons 
+for choosing 
+a given 
+chassis/body configuration are accept- 
+able) or could be used in a specific ap- 
+plication. 
+70 
+(D) Demonstration 
+that an alterna- 
+tive-fuel refueling station for alternative- 
+fueled or dual-fuel heavy-duty vehicles 
+that are commercially available from any 
+manufacturer is not available within five 
+miles of the vehicle storage or mainte- 
+nance yards, or at locations where vehi- 
+cles will be home-based 
+for extended 
+periods of time and the refueling supply 
+is provided through mobile means. 
+(E) Demonstration that vehicles com- 
+plying with paragraphs (d)(1), (d2), or 
+(dX3) 
+exceed 
+the 
+incremental 
+cost- 
+effectiveness criteria established in ac- 
+cordance with the most recent require- 
+ments of the Carl Moyer Program or 
+the Mobile Source Emission Reduction 
+Review Committee Program, whichever 
+is greater. 
+(2) Within 45 calendar days of receipt of a com- 
+pleted Technical Infeasibility Certification Re- 
+quest submitted pursuant to paragraph (e)1), 
+the Executive Officer will either approve or dis- 
+approve the Request, in writing. The Executive 
+Officer shall disapprove the request if it does not 
+meet the requirements of paragraph (e)(1). If a 
+Technical Infe sibility Certification Request is 
+disapproved by the Executive Officer: 
+(A) The reasons for disapproval shall 
+be given to the applicant in writing. 
+(B) Upon receipt of a notice of a dis- 
+approved Technica! Infeasibility Certifi- 
+cation Request, the fleet operator shall 
+comply with paragraph (d\1), (d)(2), or 
+(dX3). 
+
+
+[PDF page 25]
+. 
+71 
+(C) The fleet operator may resubmit a 
+Technical Infeasibility Certification Re- 
+quest at any time after receiving a dis- 
+approval notification »- nay apply for a 
+variance with the “~*QMD Hearing 
+Board. (See SCAQMD Regulation V and 
+California Health and Safety Code Sec- 
+tions 42350 through 42372 for informa- 
+tion regarding variances.), but must 
+still 
+comply 
+with 
+paragraph 
+(d)1), 
+(dX2), or (dX3) until such time as the 
+Executive Officer approves a Technical 
+Infeasibility Certification Request un- 
+der paragraph (e)(1) or a variance is 
+given by the SCAQMD Hearing Board. 
+(3) A Technical Infeasibility Certification Re- 
+quest is subject to a plan filing and evaluation 
+fees as described in Rule 306. 
+(f) Exemptions 
+The provisions of this rule shall not apply to the following: 
+(1) Emergency or rescue vehicles operated by 
+local, state, and federal law enforcement agen- 
+cies, police and sheriffs department, fire depart- 
+ment, hospital, medical or paramedic facility, and 
+used for responding to situations where potential 
+threats to life or property exist, including but not 
+limited to fire, ambulance calls, or life-saving 
+calls. 
+(2) 
+Privately owned or operated heavy-duty ve- 
+hicle fleets that provide contract services to a 
+public agency. 
+Nevertheless, 
+privately owned 
+or operated heavy-duty vehicle fleets may be 
+required to meet other SCAQMD rules such as 
+Rules 1192, 1193, 1194, or 1186.1. 
+72 
+(3) No more than ten evaluation/test vehicles 
+per fleet, provided by or operated by vehicle 
+manufacturer for testing or evaluation, exclu- 
+sively. 
+(4) Any vehicle added to or replacing a vehicle 
+in an existing fleet after the applicable imple- 
+mentation date of this rule, as specified in subdi- 
+vision (d), as long as the purchase contract for 
+acquisition of such vehicle is signed before the 
+date of adoption of this rule. This exemption does 
+not apply to the execution of options to acquire 
+vehicles where the option is executed after the 
+date of adoption of this rule and where vehicle 
+delivery does not occur until after the applicable 
+implementation date as specified in subdivision 
+(d). 
+(5) 
+Military vehicles used for tactical opera- 
+tions. 
+(6) Heavy-duty 
+vehicles 
+used 
+routinely 
+to 
+transport materials in and out of the District. 
+(7) Heavy-duty 
+vehicles operated and housed by 
+state agencies or special districts in the Riverside 
+County portion of the Mojave Desert Air Basin 
+and located within the District if the vehicles are 
+equipped with approved control devices. 
+(8) When the remainder of the fleet consists of 
+heavy-duty vehicles that meet the requirements 
+of paragraphs (d)(1) 
+or (d2), 
+(a) For public fleets with greater than 
+15 but less than 100 heavy-duty vehi- 
+cles, no more than three (3) heavy-duty 
+vehicles that do not meet the require- 
+ments of Subdivision (d) of this rule 
+may be part of the fleet at any given 
+
+
+[PDF page 26]
+(g) 
+73 
+time. Such vehicles shal] be equipped 
+with approved control devices. 
+(b) 
+For public fleets with 100 or more 
+heavy-duty 
+vehicles, 
+no 
+more 
+than 
+three (3) heavy-duty vehicles that do 
+not meet the requirements of Subdivi- 
+sion (d) of this rule may be part of the 
+fleet and are garaged, housed, parked, 
+stored at any single vehicle storage or 
+maintenance yard at any given time. 
+Such vehicles shall be equipped with 
+approved control devices. A public fleet 
+operator may deploy these vehicles and 
+place them at any one vehicle storage or 
+maintenance yard if the public fleet op- 
+erator submits a plan to the SCAQMD 
+demonstrating 
+that 
+a 
+proportionate 
+number of such heavy-duty vehicles is 
+reduced at other facilities operated by 
+the public fleet operator. 
+(9) Heavy-duty vehicles leased for no more than 
+120 days in any 12-month period by the U.S. 
+Postal Service during the peak winter holiday 
+period. 
+(10) 
+Heavy-duty vehicles owned or operated by 
+federal agencies, state agencies, county agencies, 
+or special districts whose jurisdiction include ar- 
+eas outside of the District and the heavy-duty 
+vehicles are garaged, housed, parked, stored or 
+operated within the District for no more than 180 
+days in any 12-month period. 
+Compliance 
+Auditing and Enforcement 
+(1) The fleet operator shall provide at the re- 
+quest of the District any files and/or records cre- 
+ated to comply with subdivision (d) including 
+74 
+fleet-specific information, such as a list of official 
+DMV registrations, 
+principal vehicle location, 
+and manufacturer, model-year, model, and fuel 
+type and usage, of each fleet vehicle. This provi- 
+sion shall not apply for records that have been in 
+existence for more than one year. 
+(2) Any fleet operator seeking an exemption 
+under subdivision (f) shall supply proof that their 
+vehicle or fleet is exempted from this rule when 
+requested by the District. 
+(h) Severability 
+If any provision of this rule is held by judicial order to be 
+invalid, or invalid or inapplicable to any person or circum- 
+stance, such order shall not affect the validity of the 
+remainder of this rule, or the validity or applicability of 
+such provision to other persons or circumstances. In the 
+event any of the exceptions to this rule is held by judicial 
+order to be invalid, the persons or circumstances covered 
+by the exception shall instead be required to comply with 
+the remainder of this rule. 
+
+
+[PDF page 27]
+75 
+SOUTH COAST AIR QUALITY 
+MANAGEMENT DISTRICT 
+Proposed Rule 1191 - Clean On-Road Light- and 
+Medium-Duty Public Fleet Vehicles 
+June 2000 
+Deputy Executive Officer 
+Planning, Rule Development and Area Sources 
+Jack P. Broadbent 
+Assistant Deputy Executive Officer 
+Planning, Rule Development and Area Sources 
+Elaine Chang, Dr. PH 
+- 
+Planning and Rules Manager 
+Planning, Rule Development and Area Sources 
+Henry Hogo 
+AUTHORS: 
+Planning, Rule Development and Area Sources 
+David Coel — Program Supervisor 
+Larry Irwin —A.Q. Specialist 
+Vasken Yardemian — Transportation Specialist 
+REVIEWED BY: 
+District Counsel 
+Barbara Baird — District Counsel 
+Jeri Voge — Senior Deputy District Counsel 
+SOUTH COAST AIR QUALITY 
+MANAGEMENT DISTRICT 
+GOVERNING BOARD 
+Chair: 
+WILLIAM A. BURKE, Ed.D. 
+Speaker of the Assembly Appointee 
+76 
+Vice Chair: 
+NORMAJ. GLOVER 
+Councilmember, City of Newport Beach 
+Cities Representative, Orange County 
+MEMBERS: 
+MICHAEL D. ANTONOVICH 
+Supervisor, Fifth District 
+Los Angeles County Representative 
+HAL BERNSON 
+Councilmember, City of Los Angeles 
+Cities Representative, Los Angeles County, 
+Western Region 
+CYNTHIA COAD 
+Supervisor, Fourth District 
+Orange County Representative 
+JANE CARNEY 
+Senate Rules Committee Appointee 
+BEATRICE LAPISTO-KIRTLEY 
+Councilmember, City of Bradbury 
+Cities Representative, Los Angeles County, 
+Eastern Region 
+RONALD O. LOVERIDGE 
+Mayor, City of Riverside 
+Cities Representative, Riverside County 
+JON D. MIKELS 
+Supervisor, Second District 
+San Bernardino County Representative 
+LEONARD PAULITZ 
+Councilmember, City of Montclair 
+Cities Representative, San Bernardino County 
+CYNTHIA VERDUGO-PERALTA 
+Governor’s Appointee 
+
+
+[PDF page 28]
+40 
+some for both manufacturers (who would have to keep track of 
+what could be sold where) as well as purchasers (who would be 
+confused about offerings that could differ from town to town). 
+The District is not a State, and therefore cannot rely upon 
+Section 177. 
+Second, Section 177 applies only if a State adopts and 
+enforces standards that are “identical to the California standards 
+for which a waiver has been granted for such model year.” 42 
+U.S.C. § 7505(1). The District’s standards fail this test as well. 
+As noted above, the Fleet Rules were adopted by the District 
+precisely to achieve an impact different from the CARB rules, 
+which already applied within the geographic area under the 
+District’s jurisdiction. See pages 33-34, supra; J.A. 141, 152. 
+Far from seeking to mirror the CARB standards, the District’s 
+entire purpose was to adopt a different, more restrictive 
+regulatory regime, and it accomplished that goal. That is fatal 
+under Section 177. 
+For example, CARB’s LEV Program consists of two 
+interrelated elements — standards establishing permissible 
+emission levels for each of the four categories of low-emission 
+vehicles, and standards setting the progressively lower average 
+emission level that a manufacturers’ fleet (of vehicles sold in 
+the State each year) must meet over time. See Cal. Code Regs. 
+tit. 13, §§ 1960.1(g)(1)-(2), § 1961(a)-(b). When CARB sought 
+EPA approval of its LEV Program, it submitted the emission 
+levels and the implementation mechanism together as a single 
+interrelated program. See 58 Fed. Reg. at 4,166 (referring to 
+amendments to California’s “exhaust emission standards and 
+test procedures” as the “California LEV program,” and evaluat- 
+ing the disparate standards as one program for purposes of a 
+single waiver request); see also 68 Fed. Reg. at 19,812 (using 
+the same framework of analysis for LEV II amendments). EPA 
+based its approval on the effect of the entire program; it did not 
+review the emission levels alone. See generally 68 Fed. Reg. at 
+19,812; 58 Fed. Reg. at 4,166. 
+4] 
+The District’s Fleet Rules allow the purchase of only some 
+of the vehicles that are permitted to be sold under CARB’s 
+LEV program, in most cases adopting an immediate prohibition 
+of certain vehicles (typically diesel-fueled vehicles) instead of 
+allowing manufacturers to phase in a mix of vehicles based 
+upon yearly state-wide emission averages. The Fleet Rules also 
+prohibit the purchase of all of the diesel-fueled trucks certified 
+for sale under CARB’s Heavy-Duty Vehicle Program. Thus, 
+what the District has done is to take some, but not all, of the 
+CARB emission regulations and combine them with a com- 
+pletely different implementation mechanism. 
+It is plain that the Fleet Rules are not “identical to the 
+California standards for which a waiver has been granted for 
+such model year,”as Section 177 requires. EPA has granted a 
+waiver to both the emission standards for the year and the fleet 
+average emission standards that apply to the particular model 
+year. The District’s attempt to implement only a selected subset 
+of the California standards precludes it from relying upon 
+Section 177. 
+The district court emphasized that “[t]he Fleet Rules require 
+purchasers to choose from among a subset of previously 
+certified California vehicles.” Pet. App. 23a. Several simple 
+examples illustrate why this approach is not permissible under 
+Section 177. 
+A State could decide on a different selective adoption of 
+California’s standards, choosing the CARB emission regula- 
+tions but not the requirement of progressively lower fleet 
+averages, and defend its decision on the same basis as the 
+District — that it had adopted California standards. 
+Of course, the effect of such a rule would be quite different 
+from the rules promulgated by CARB. Without the pressure of 
+having to meet increasingly stringent emission levels, manufac- 
+turers would have no reason to produce and sell the cleaner 
+vehicles. They could focus all of their efforts on vehicles 
+
+
+[PDF page 29]
+42 
+satisfying the least restrictive emission standards. That would 
+have substantially different — and adverse — consequences for 
+pollution levels. 
+On the other hand, a State could choose to adopt only the 
+most restrictive of the CARB emission standards. Eliminating 
+the gradual phase-in period provided by the CARB standards 
+could create a situation in which manufacturers might not have 
+sufficient production to meet demand for vehicles in that State. 
+Not surprisingly, the lower courts that have considered this 
+question — other than the courts below — have concluded that 
+any deviation from the exact rules adopted by California makes 
+Section 177 inapplicable. See Ass'n of Int'l Auto. Mfrs., 208 
+F.3d at 7-8 (ZEV sales mandates not identical to California 
+standards are preempted); American Auto. Mfrs. Ass'n, 152 
+F.3d at 199-201 (same). 
+Under Section 177, a State may adopt standards that differ 
+- from the federal standards only if they “are identical to the 
+California standards.” 42 U.S.C. § 7507 (emphasis added). 
+Here, of course, the Fleet Rules are not identical to the Califor- 
+nia standards. As noted above, their very purpose is to be more 
+restrictive. Moreover, Section 177 expressly prohibits a State 
+that adopts the California standards from limiting — whether 
+directly or indirectly — the “sale of a new motor vehicle * * * 
+that is certified in California as meeting California standards.” 
+Ibid. But that is precisely the function of the Fleet Rules, which 
+limit the sale of various vehicles (including diesel-fueled 
+vehicles) that do meet the California standards. 
+C. Section 246. 
+As discussed above (at pages 31-33), Section 246 does not 
+generally authorize States to adopt purchasing restrictions; 
+rather, it preserves against Section 209(a) preemption any fleet 
+purchasing requirements that satisfy the procedural and 
+43 
+substantive standards set forth in Section 246. Because the Fleet 
+Rules do not comply with these standards, they are preempted. 
+The Fleet Rules were not submitted to EPA for approval as 
+part of California’s state implementation plan revision, as 
+required by Section 246. Indeed, California did not submit any 
+fleet purchasing program in its implementation plan revision. 
+California 
+instead 
+exercised 
+its option 
+under 
+Section 
+182(c)(4)(B) of the Act, 42 U.S.C. § 751 1a(c)(4)(B), to submit 
+its LEV Program as a substitute in place of a Section 246 fleet 
+purchasing program, and EPA approved the substitution finding 
+that the LEV Program would achieve substantially greater 
+emission reductions. See 64 Fed. Reg. 46,849, 46,851 (1999) 
+(Table 1) (forecasting LEV program emission benefits in excess 
+of those that would be achieved by the federal clean-fuel fleet 
+program). Because the Fleet Rules were not even submitted to 
+(let alone approved by) EPA, respondents cannot rely on 
+Section 246. 
+Moreover, the Fleet Rules could not otherwise be autho- 
+rized by Section 246 because the terms of the Fleet Rules are 
+squarely inconsistent with the plain language of Section 246(d), 
+which states that a plan revision establishing a fleet purchase 
+program “shall provide that the choice of clean-fuel vehicles 
+and clean alternative fuels shall be made by the covered fleet 
+operator * * *.” The Act defines “clean-fuel vehicle” as a 
+vehicle that “has been certified to meet * * * the clean-fuel 
+vehicle standards” applicable under the statute. 42 U.S.C. 
+§ 7581(7). Thus, federal law requires Section 246 fleet purchas- 
+ing programs to preserve the fleet operator’s freedom to choose 
+from among all of the low-emission and diesel-fueled vehicles 
+permitted to be sold. The Fleet Rules, however, do not allow a 
+fleet operator to choose to purchase vehicles from among all of 
+the low-emission vehicles permitted to be sold under California 
+law. Rather the Fleet Rules prohibit operators from purchasing 
+certain low-emission (and all diesel-fueled) vehicles that 
+
+
+[PDF page 30]
+comply with the applicable emission regulations and that are 
+offered for sale in California. 
+In sum, the Fleet Rules fail to comply with numerous 
+requirements of Section 246 and accordingly are not protected 
+against preemption under Section 209(a). 
+CONCLUSION 
+The judgment of the court of appeals should be reversed. 
+Respectfully submitted. 
+KENNETH S. GELLER 
+ANDREW J. PINCUS 
+JOHN J. SULLIVAN 
+CRAIG W. CANETTI 
+Mayer, Brown, Rowe & 
+Maw LLP 
+1909 K Street, N.W. 
+Washington, DC 20006 
+(202) 263-3000 
+Counsel for Western States 
+Petroleum Association 
+AUGUST 2003 
+JED R. MANDEL 
+Counsel of Record 
+TIMOTHY A. FRENCH 
+Neal, Gerber & 
+Eisenberg LLP 
+Two North LaSalle Street 
+Suite 2200 
+Chicego, Illinois 60602 
+(312) 269-8000 
+Counsel for Engine 
+Manufacturers Association 

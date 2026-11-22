@@ -1,0 +1,2913 @@
+[PDF page 1]
+Supreme Court, U.S. 
+FILED 
+02 1343 mar 11 2003: VY) 
+OMCRPF oe CLERE 
+IN THE 
+- 
+Supreme Court of the Anited States 
+ENGINE MANUFACTURERS ASSOCIATION AND 
+WESTERN STATES PETROLEUM ASSOCIATION, 
+Petitioners, 
+v. 
+SOUTH COAST AIR QUALITY MANAGEMENT DisTRICT, et al., 
+Respondents. 
+Petition for a Writ of Certiorari to the 
+United States Court of Appeals 
+for the Ninth Circuit 
+PETITION FOR A WRIT OF CERTIORARI 
+JOHN J. SULLIVAN 
+PHIL C. NEAL 
+GREGORY R. MCCLINTOCK 
+Counsel of Record 
+MAYER, BROWN, ROWE & MAW 
+JEDR. MANDEL 
+1909 K Street, N.W. 
+TIMOTHY A. FRENCH 
+Washington, D.C. 20006 
+NEAL, GERBER & EISENBERG 
+(202) 263-3000 
+Two North LaSalle Street 
+Suite 2200 
+Counsel for Petitioner Western 
+Chicago, Illinois 60602 
+States Petroleum Association 
+(312) 269-8000 
+Counsel for Petitioner Engine 
+Manufacturers Association 
+WILSON-EPES PRINTING CO., INC. -— 
+(202) 789-0096 
+-— 
+WASHINGTON, D. C. 20001 
+
+
+[PDF page 2]
+QUESTION PRESENTED 
+Section 209(a) of the Clean Air Act expressly preempts any 
+state or local “standard relating to the control of emissions 
+from new motor vehicles.” 42 U.S.C. § 7543(a). The First 
+and Second Circuits have applied this provision to invalidate 
+state regulations limiting the sale of new motor vehicles with 
+specified emission characteristics. The Ninth Circuit in this 
+case has held that a local regulation may impose such restric- 
+tions on new vehicle purchases. The question presented is: 
+Whether 
+local government 
+regulations prohibiting 
+the 
+purchase of new motor vehicles with specified emission 
+characteristics—which are otherwise approved for sale by 
+state and federal regulators—are preempted by the Clean Air 
+Act, 42 U.S.C. § 7401 et seq. 
+(i) 
+
+
+[PDF page 3]
+FARTIES TO THE PROCEEDINGS 
+AND RULE 29.6 STATEMENT 
+Petitioner Engine Manufacturers Association (“EMA”) was 
+plaintiff and appellant below. Respondents South Coast Air 
+Quality Management District, its individual Board Members 
+(William A. Burke, Norma J. Glover, Michael D. Antono- 
+vich, Hal Bernson, Jane W. Carney, Cynthia P. Coad, Bea- 
+trice J.S. Lapisto-Kirtley, Ronald O. Loveridge, Jon D. 
+Mikels, 
+Leonard 
+Paulitz, 
+Cynthia Verdugo-Peralta, 
+and 
+S. Roy Wilson), and its Executive Officer (Barry R. Waller- 
+stein) were defendants and appellees below. 
+Petitioner 
+Western 
+States 
+Petroleum 
+Association 
+(““WSPA”) intervened below on behalf of plaintiff EMA, and 
+also joined in EMA’s appeal to the Ninth Circuit. 
+The 
+Natural Resources Defense Council, Coalition for Clean Air, 
+Communities for a Better Environment, Inc., Planning & 
+Conservation League, and Sierra Club intervened on behalf 
+of defendants. 
+Pursuant to S. Ct. Rule 29.6, petitioner EMA states that it is 
+the not-for-profit trade association representing the interests 
+of the world’s leading manufacturers of internal combustion 
+engines used in almost all medium-duty and heavy-duty 
+motor vehicles, other than passenger cars. 
+EMA members 
+manufacture the medium-duty and heavy-duty compression- 
+ignition, diesel-fueled engines that are installed in certain 
+pick-up trucks and sport-utility vehicles, delivery vans, 
+shuttle vans and cargo vehicles, trucks, tractor-trailers, waste 
+haulers, street-sweepers and buses, and sold throughout the 
+United States. EMA has no corporate parents, subsidiaries or 
+affiliates, and no publicly traded company has a 10% or 
+greater ownership interest in EMA. 
+iil 
+Petitioner WSPA is a trade association organized as a non- 
+profit corporation under California law. Its members consist 
+of companies engaged in the exploration, production, trans- 
+portation, refining and marketing of crude oil and petroleum 
+products, including diesel fuel. 
+WSPA has no corporate 
+parents, subsidiaries or affiliates, and no publicly traded 
+company has a 10% or greater ownership interest in WSPA. 
+
+
+[PDF page 4]
+TABLE OF CONTENTS 
+Page 
+QUESTION PRESENTED ..0...-ccccccccssescoccscccsccseeseceseee 
+j 
+PARTIES TO THE PROCEEDINGS AND RULE 
+29.6 STATEMENT 0.0 -ccccccccccccsecssccsessssssessecssssseeees 
+ii 
+TABLE OF AUTHORITIES. .......-.-ccccccccccsseccsessesseesees 
+vi 
+ERAGE 
+TS SC 
+| 
+I 
+ae 
+2 
+CONSTITUTIONAL AND STATUTORY 
+PROVISIONS INVOLVED .....-ccccccccsccsccsseceeeseeoees 
+2 
+LS 
+A EN 
+ee 
+2 
+STATEMENT OF THE CASE ..00.-.cccccccssessessesseesveses 
+5 
+REASONS FOR GRANTING THE WRIT ........000.-... 
+10 
+|. THE NINTH CIRCUIT’S DECISION 
+CONFLICTS WITH THE DECISIONS OF 
+THE OTHER FEDERAL CIRCUITS TO 
+HAVE ADDRESSED THE ISSUE ................ 
+10 
+Il. THE NINTH CIRCUIT’S DECISION 
+CONFLICTS WITH THIS COURT’S 
+PREEMPTION JURISPRUDENCE............... 
+18 
+III. THE QUESTION PRESENTED IS AN 
+ISSUE OF NATIONAL IMPORTANCE 
+AND SHOULD BE DECIDED BY THIS 
+"sR 
+21 
+EE 
+es oe 
+24 
+
+
+[PDF page 5]
+Vv 
+TABLE OF CONTENTS—Continued 
+Page 
+APPENDICES 
+APPENDIX A: 
+Opinion of the Court of Appeals, dated 
+October 24, 2002 .........ccccccceeceeeeeeeenenernnenes 
+la 
+APPENDIX B: 
+Opinion of the District Court, dated August 
+22, QOON ......cecccescesesessseresstoorcsrssnsnsenensesnnens 
+3a 
+APPENDIX C: 
+Order of the Court of Appeals denying rehear- 
+ing, dated December 11, 2002...........-+-+++ 
+28a 
+APPENDIX D: 
+Excerpt of Br. Amicus Curiae of the United 
+States, Central Valley Chrysler-Plymouth, 
+Inc. v. Michael P. Kenny, No. 02-16395 
+(Gtr Cir.) .....csccseseseeseeeeesenensnennnnsnennnannnennees 
+30a 
+TABLE OF AUTHORITIES 
+Cases: 
+Allway Taxi Inc. v. City of New York, 340 F. Supp. 
+eee 
+American Airlines, Inc. v. Wolens, 513 U.S. 219 
+American Auto. Mfrs. Ass'n vy. Cahill, 152 F.3d 196 
+DIDS. IIIT esstnsiiasriectgrad 
+tinea aiidiataiinaibiaananaateians 
+Association of Int'l Auto. Mfrs. vy. 
+Commissioner, 
+Massachusetts Dep't of Envil. Protection, 208 
+eof 
+en 
+Buckman 
+Co. 
+v. 
+Plaintiffs’ 
+Legal 
+Comm., 
+Be Se Be CE cicenecncesnsencgpscicinntenninnssintennes 
+Central Valley Chrysler-Plymouth, Inc. v. Michael 
+P. Kenny, No. 02-16395 (9th Cir.) ........ccccccecceeeeeeeees 
+City of Chicago 
+v. 
+General 
+Motors 
+Corp., 
+467 F.2d 1262 (7th Cir. 1972) ......cccccccesceeceeeeeeeeees 
+Engine Mfrs. Ass'n v. EPA, 88 F.3d 1075 (D.C. 
+Morales v. Trans World Airlines, Inc., 504 U.S. 
+SE ITTTTITEI isinscichtpesscheepeiiaaaaetaptinctaiatettettgntaaataemeanmuanntnan 
+Motor 
+& Equipment 
+Mfrs. 
+Ass'n 
+v. 
+EPA, 
+627 F.2d 1095 (D.C. Cir. 1979)........ccccccccseserseerenees 
+Motor Vehicle Mfrs. Ass'n v. New York State Dep't 
+of Envtl. Conservation, 79 F.3d 1298 (2d Cir. 
+Motor Vehicle Mfrs. Ass'n v. New York State Dep't 
+of Envtl. Conservation, 
+17 F.3d 521 (2d Cir. 
+(vi) 
+Page 
+
+
+[PDF page 6]
+vil 
+TABLE OF AUTHORITIES—Continued 
+Page 
+Cases: 
+Motor Vehicle Mfrs. Ass'n v. New York State Dept 
+of Envtl. Conservation, 
+810 F. Supp. 1331 
+(N.D.N.Y. 1993), aff'd in part, rev'd in part, 17 
+F.3d 521 (2d Cir. 1994) .......cccccsesereerserersnensnnensnenerenes 
+5 
+Norfolk S. Ry. Co. v. Shanklin, 529 U.S. 344 
+(2000) ......:serecsscessosssssreesensnsensnsensnsenenensenensenensnonsnseness 
+21 
+Washington v. General Motors Corp., 406 U.S. 109 
+(1972) ..ccessessesessessssssnssnsnssssnsensnnsnsensnssnsnnenennsnsnnssenssees 
+3, 18 
+Constitution: 
+U.S. Const., art. VI, ch. 2.....ccccccccceseseeenesrenercnnsnnnennenens 
+2 
+Statutes: 
+2B U.S.C. § 1254(1) ...sececcceseresssesrsnensnsnensnsnenansnenenensenens 
+2 
+42 U.S.C. § 7401 Cf SOG ...-.-cecsereererenenenenenenanerennennnnnnens 
+9 
+42 U.S.C. § T408(a) .....ccececesseesseneesnencnsnensnensnanenanerennnnes 
+5 
+42 U.S.C. § 7507 .....ccscccseesssenssssnensnsnsnssnsnananananenanensnsnnes 
+6, 11 
+M2 U.S.C. § TS2D ..ereccscscsresesessssensnsnsensrsnsnenenananenansnsnenens 
+22 
+42 U.S.C. § 75438) ...ecccecereeosserseensesenensnenanananennnnanenenes 
+passim 
+42 U.S.C. § 7543(D)....cecccecereresesesrsnsnsrsnsnsnsnnnnensnnnansnenes 6, 10, 22 
+42 U.S.C. § T543(D) 
+1) ..-c-scsecererseenseresrsenenenananennanenes yooes 
+6 
+Legislation: 
+H.R. Rep. No. 90-728 (1967), reprinted in 1967 
+U.S.C.C.A.N. 1938 ...cccccsccssccssseeseesesesenenennsnennnensnnnnnes 
+22 
+Rules: 
+S. Ct. Rule 10(a) ......-..-cscccsceseeseeeessnensennenensenannennannenneny 
+3 
+S. Ct. Rule 10(C) ......-cccceccceeceersseeesernserenennsnnnnannnsnnnnennns 
+“3,4 
+IN THE 
+Supreme Court of the Anited States 
+ENGINE MANUFACTURERS ASSOCIATION AND 
+WESTERN STATES PETROLEUM ASSOCIATION, 
+Petitioners, 
+v. 
+SOUTH COAST AIR QUALITY MANAGEMENT DISTRICT, ef al., 
+Respondents. 
+Petition for a Writ of Certiorari to the 
+United States Court of Appeals 
+for the Ninth Circuit 
+PETITION FOR A WRIT OF CERTIORARI 
+The Engine Manufacturers Association (“EMA”) and the 
+Western States Petroleum Association (“WSPA”) respect- 
+fully petition for a writ of certiorari to review the judgment 
+of the United States Court of Appeals for the Ninth Circuit in 
+this case. 
+OPINIONS BELOW 
+The opinion of the Ninth Circuit affirming the District 
+Court’s judgment is reported at 309 F.3d 550 and reprinted in 
+the appendix hereto (“App.”) at la. 
+The opinion of the 
+District Court granting judgment for defendants is reported at 
+158 F.Supp.2d 1107 and is reprinted at App. 3a-27a. 
+
+
+[PDF page 7]
+2 
+JURISDICTION 
+The judgment of the Court of Appeals was entered on 
+October 24, 2002. A timely petition for rehearing was denied 
+on December 11. 2002. App. 29a. The jurisdiction of this 
+Court rests on 28 U.S.C. § 1254(1). 
+CONSTITUTIONAL AND © f ATUTORY 
+PROVISIONS INVOLY 
+&D 
+The Supremacy Clause of the United States Constitution 
+provides in pertinent part: 
+This Constitution, and the Laws of the United States 
+which shall be made in Pursuance thereof * * * shall be 
+the supreme Law of the Land; and the Judges in every 
+State shall be bound thereby, any Thing in the Constitu- 
+tion or Laws of any State to the Contrary notwithstand- 
+ing. (U.S. Const., art. VI, cl. 2.] 
+Section 209(a) of the federal Clean Air Act, 42 USC. 
+§ 7543(a), an express preemption provision, provides in 
+pertinent part: 
+No State or any political subdivision thereof shall adopt 
+or attempt to enforce any standard relating to the control 
+of emissions from new motor vehicles or new motor ve- 
+hicle engines subject to this part. No State shall require 
+certification, inspection, or any other approval relating to 
+the control of emissions from any new motor vehicle or 
+new motor vehicle engine as condition precedent to the 
+initial retail sale, titling (if any), or registration of such 
+motor vehicle, motor vehicle engine, or equipment. 
+INTRODUCTION 
+This case presents the question whether a local air quality 
+district’s “Fleet Rules,” which prohibit operators of a fleet of 
+fifteen or more vehicles from purchasing new diesel-fueled 
+vehicles, constitute “standards relating to the control of 
+emissions,” and are thus preempted under the Clean Air Act. 
+3 
+It is also one of the unusual cases in which all the customary 
+criteria for certiorari are readily met. 
+First, the Ninth Circuit’s decision conflicts with the deci- 
+sions of two other federal circuit courts that have considered 
+the same issue. S. Ct. Rule 10(a). Both the First and Second 
+Circuits have squarely held that regulations requiring that a 
+percentage of vehicles sold be zero-emission vehicles estab- 
+lished emissions “standards” and thus were preempted by the 
+Clean Air Act. Association of Int'l Auto. Mfrs. v. Commis- 
+sioner, Massachusetts Dep't of Envtl. Protection, 208 F.2d 1, 
+7 (Ist Cir. 2000); American Auto. Mfrs. Ass'n v. Cahill, 152 
+F.3d 196, 200 (2d Cir. 1998). The Ninth Circuit, on the other 
+hand, held that the Fleet Rules did not impose emissions 
+“standards,” and thus were not preempted, because the Fleet 
+Rules spoke in terms of “purchases,” not “sales.” 
+That 
+semantic distinction does not and cannot explain away the 
+stark conflict that now exists between the First and Second 
+Circuits and the Ninth Circuit. 
+Second, the Court of Appeals’s decision flatly conflicts 
+with the decisions of this Court. 
+S. Ct. Rule 10(c). 
+This 
+Court observed over three decades ago that Congress in the 
+Clean Air Act “largely preempted the field with regard to 
+‘emissions from new motor vehicles.’” 
+Washington v. 
+General Motors Corp., 406 U.S. 109, 114 (1972). 
+And as 
+this Court has recognized in other contexts, the language 
+chosen by Congress in preempting standards “relating to the 
+control of emissions from new motor vehicles” is deliberately 
+broad. Morales v. Trans World Airlines, Inc., 504 U.S. 374, 
+383-384 (1992) (“related to” preemption is “broad” and 
+“expansive”). 
+Preemption under a “related to” clause typi- 
+cally covers all state laws having “reference to” or “connec- 
+tion with” the preempted subject matter. American Airlines, 
+Inc. v. Wolens, 513 U.S. 219, 223 (1995). 
+This Court’s precedents concerning the preemptive force of 
+the Clean Air Act and the expansive nature of its “relating 
+
+
+[PDF page 8]
+4 
+to” language compel the conclusion that the Act’s preemp- 
+tion provisions encompass and prohibit the Fleet Rules here 
+at issue. 
+The Fleet Rules refer to and adopt a subset of 
+standards and other preconditions in an effort to control the 
+level of emissions from new motor vehicles. Indeed, obtain- 
+ing reductions from new vehicle emissions is the very 
+purpose of the Fleet Rules. The Fleet Rules seek to do so by 
+mandating the purchase of new vehicles meeting the Dis- 
+trict’s designated subset of “standards,” and by prohibiting 
+the purchase of diesel-fueled vehicles that can be purchased 
+throughout California and the nation as a whole. 
+Thus, 
+pursuant to this Court’s prior decisions, the Fleet Rules 
+clearly “relate to” the control of emissions from new motor 
+vehicles, and so are expressly preempted under the Clean Air 
+Act. 
+Third, the conflict in this case concerns a matter of overrid- 
+ing national importance. 
+S. Ct. Rule 10(c). 
+Congress 
+included an express preemption provision in the Clean Air 
+Act to ensure uniformity in regulating new motor vehicle 
+emissions. 
+But the Ninth Circuit’s decision allows local 
+governments to impose varying and conflicting emissions 
+standards on the purchase of new vehicles, balkanizing 
+emissions standards across the country, undermining the 
+regulatory authority of the U.S. Environmental Protection 
+Agency (“EPA”), and thus negating plainly stated congres- 
+sional intent. The court’s decision should not be allowed to 
+stand. 
+5 
+STATEMENT OF THE CASE 
+A. 
+The Clean Air Act. 
+The Clean Air Act, 42 U.S.C §§ 7401-7671, “is one of the 
+most comprehensive pieces of legislation in our nation’s 
+history.” Motor Vehicle Mfrs. Ass'n v. New York State Dep't 
+of Envtl. Conservation (“MVMA”), 17 F.3d 521, 524 (2d Cir. 
+1994). Title I of the Clean Air Act directs the U.S. Environ- 
+mental Protection Agency (“EPA”) to establish national 
+ambient air quality standards (“NAAQS”) for pollutants that 
+cause or contribute to air pollution. 42 U.S.C. § 7408(a). To 
+achieve and maintain those NAAQS, each state is required to 
+submii a state implementation plan (“SIP”) to EPA for 
+approval. 
+The SIP details the emission control regulations 
+applicable to stationary sources within its jurisdiction that the 
+state will utilize to ensure compliance with the NAAQS. 
+However, in their attempts to attain the NAAQS deter- 
+mined by EPA, states may not promulgate standards or other 
+pre-approval requirements “relating to the control of emis- 
+sions from new motor vehicles.” 42 U.S.C. § 7543. As the 
+District Court noted in this case, 
+Section 209(a) [of the Clean Air Act] expressly pre- 
+empts all state regulation of motor vehicle emissions. 
+Congress preempted the field of vehicle emissions for 
+two reasons: 
+“to ensure uniformity throughout the na- 
+tion, and to avoid the undue burden on motor vehicle 
+manufacturers which would result from different stan- 
+dards.” [App. 7a (quoting Motor Vehicle Mfrs. Ass'n. 
+v. New York State Dep't of Envtl. Conservation, 810 F. 
+Supp. 1331, 1337 (N.D.N.Y. 1993), aff'd in part, rev'd 
+in part, 17 F.3d 521 (2d Cir. 1994))]. 
+Title II of the Clean Air Act reflects Congress’s “endeavor 
+to resolve the problems caused by moveable sources or 
+vehicle emissions,” as distinguished from stationary sources 
+of air pollution such as factories and power plants. App. | la. 
+
+
+[PDF page 9]
+6 
+Section 202 of the Clean Air Act, 42 U.S.C. § 7543(a), 
+expressly authorizes EPA to promulgate emission standards 
+for new motor vehicles sold in the United States. 
+Further, 
+“fujnder Section 209 of the Clean Air Act, exclusive control 
+over ‘standards relating to the control of emissions from new 
+motor vehicles’ is vested in the federal government, and the 
+states are preempted from regulating in the area.” 
+Cahill, 
+152 F.3d at 198. 
+“In contrast to federally encouraged state control over 
+stationary sources, regulation of motor vehicle emissions had 
+been a principally federal project.” 
+Engine Mfrs. Ass'n v. 
+EPA, 88 F.3d 1075, 1079 (D.C. Cir. 1996). Thus, the “cor- 
+nerstone of Title II is Congress’ continued express preemp- 
+tion of state regulation of automobile emissions.” M VMA Gs, 
+F.3d at 526. Only the State of California, due to its unique 
+air quality problems, received a statutory exemption from the 
+Clean Air Act’s broad federal preemption, which permitted 
+that State and that State alone to adopt its own new motor 
+vehicle emission regulations. 42 U.S.C. § 7543(b)(1). Even 
+so, California may adopt and enforce its own emission 
+standards only after applying to and receiving a preeraption 
+waiver from EPA. /d. § 7543(b). 
+Other states may promulgate regulations requiring new 
+vehicles sold in their states to be in compliance with Califor- 
+nia’s emission 
+standards, thereby “piggy-backing” onto 
+California’s preemption exemption. 
+However, this opt-in 
+provision, set forth in section 177 of the Clean Air Act, 42 
+U.S.C. § 7507, “is carefully drafted to avoid placing ‘an 
+undue burden on the automobile manufacturing industry.’ ” 
+App. 12a (quoting MVMA, 17 F.3d at 527). Specifically, an 
+opt-in state must adopt standards “identical” to California's. 
+B. 
+California’s Regulations 
+Pursuant to its authority to adopt its own new motor vehi- 
+cle emission regulations, California, acting through its Air 
+Resources Board (“CARB”), has enacted two stringent 
+7 
+emission control programs for new motor vehicles: 
+one for 
+passenger cars and medium-duty vehicles, including certain 
+diesel-fueled vehicles (the “LEV Program”), and one for 
+heavy-duty urban transit buses (the “Urban Bus Program”). 
+In adopting the LEV Program, “CARB established the 
+most stringent exhaust regulations ever for light and medium 
+duty vehicles.” 
+App. 13a. 
+The regulations establish four 
+tiers of exhaust emission standards for increasingly stringent 
+categories of low-emission vehicles: 
+(1) transitional low- 
+emission 
+vehicles (“TLEVs’) 
+(2} low-emission 
+vehicles 
+(“LEVs”); (3) ultra-low-emission vehicles (“ULEVs”); and 
+(4) zero-emission vehicles (“ZEVs”). 
+For each category of 
+vehicles, a set of stringent emission standards for carbon 
+monoxide, oxides of nitrogen and formaldehyde applies. 
+“The LEV Program achieves emission reductions by requir- 
+ing manufacturers to sell progressively cleaner mixes of 
+vehicles over time. The average emissions from the mix of 
+these categories of vehicles produced by a manufacturer must 
+meet an [increasingly lower] overall ‘fleet average’ [emis- 
+sion] requirement.” App. 14a. 
+CARB’s Urban Bus Program: 
+(i) requires reductions in 
+particulate matter and oxides of nitrogen fleet emissions by 
+urban transit bus operators; and (ii) establishes stringent 
+exhaust emission standards applicable-to new urban bus 
+engines. 
+To 
+implement the CARB Urban Bus Program, 
+urban transit bus fleet operators are required to choose 
+between two different compliance paths: (i) a diesel path, or 
+(ii) an alternative fuel (i.e., natural gas) path. 
+Accordingly, under the CARB Urban Bus Program, as 
+under the LEV Program, new CARB-certified diesel-fueled 
+vehicles may continue to be bought and sold throughout 
+California. 
+The Fleet Rules, by contrast, prohibit fleet 
+operators 
+from purchasing CARB-certified 
+diesel-fueled 
+motor vehicles. 
+
+
+[PDF page 10]
+8 
+C. 
+-The SCAQMD Fleet Rules. 
+The Fleet Rules at issue in this case were promulgated in 
+2000 by the South Coast Air Quality Management District 
+(the “SCAQMD” or “District”), a political subdivision of the 
+State of California encompassing the greater Los Angeles 
+metropolitan area. The Fleet Rules app!y to various catego- 
+ries of operators of public and private fleets of motor vehi- 
+cles, including transit buses, airport shuttles, limousines, 
+taxis, street-sweepers, waste haulers, and other heavy-duty 
+trucks. App. 15a-19a. 
+As to each category, the Fleet Rules prescribe that when 
+any covered fleet operator within the District purchases or 
+replaces its vehicles it must, in the words of the District 
+Court, “acquire only those specific motor vehicles that the 
+SCAQMD has designated as meeting its standards and 
+requirements.” App. 16a (emphasis added). Specifically, the 
+Rules require fleet operators to procure only the types of low- 
+emission gasoline vehicles (LEVs or ULEVs) or alternative- 
+mel vehicles designated by the SCAQMD, which constitute 
+just a limited “subset” of the types of vehicles certified by 
+CARB as meeting the State’s new motor vehicle emission 
+standards. The Fleet Rules also expressly prohibit the pur- 
+chase of new vehicles equipped with CARB-certified diesel- 
+fueled engines. ! 
+' For example, Fleet Rules 1191 and 1194 require fleet operators 
+of passenger cars, light-duty trucks, medium-duty vehicles, airport 
+shuttles, limousines and taxis to acquire only LEVs, ULEVs or 
+alternative-fueled vehicles when procuring or leasing those types 
+of vehicles in the District. Fleet Rule 1192 requires public transit 
+bus fleet operators to acquire only alternative-fuel heavy-duty 
+vehicles. Diesel-fueled transit buses, which are allowed under the 
+CARB Urban Bus Program, are prohibited. 
+Fleet Rules 1193, 
+1186.1 and 1196 apply to fleets of garbage trucks, street-sweepers 
+and other heavy-duty trucks, and mandate the purchase or ‘easing 
+of only alternative-fuel vehicles. The purchase of CARB-certified 
+D. 
+Proceedings Below. 
+EMA, later joined by the Western States Petroleum Asso- 
+ciation, brought suit in the District Court to enjoin the Fleet 
+Rules, contending that the rules were preempted by the 
+federal Clean Air Act, 42 U.S.C. § 7401 ef seg. 
+Section 
+209(a) of the Clean Air Act prohibits States or their political 
+subdivisions from “adopt[ing] or attempt{ing]} to enforce any 
+standard relating to the control of emissions from new motor 
+vehicles or new motor vehicle engines subject to this part.” 
+42 U.S.C. §7543(a). 
+The Clean Air Act’s preemption 
+provision 
+also provides 
+that “{njo State 
+shall 
+require 
+certification, inspection, or any other approval relating to the 
+control of emissions 
+from any new motor vehicle or new 
+motor vehicle engine as condition precedent to the initial 
+retail sale, titling (if any), or registration of such motor 
+vehicle, motor vehicle engine, or equipment.” /d. (Emphasis 
+added.) 
+The District Court granted summary judgment to defen- 
+dants. 
+App. 27a. 
+In the District Court’s view, the Fleet 
+Rules did not implicate the Clean Air Act’s preemption 
+provisions because they regulate only “the purchasing and 
+leasing, not the sale, of vehicles by fleet operators.” 
+App. 
+21a. The court further held that “[t}he Fleet Rules do not set 
+a ‘standard relating to the control of emissions.’ Rather than 
+imposing any numerical control on new vehicles, the rules 
+regulate the purchase of previously certified vehicles.” 
+/d. 
+The District Court acknowledged the flatly contrary holdings 
+of the Firs’ and Second Circuits, but distinguished each of 
+those decisions on the grounds that they “hold that an attempt 
+to limit the sale of vehicles is preempted.” /d. (emphasis in 
+original). Thus, the linchpin of the District Court’s decision 
+was its reasoning that the Clean Air Act’s broad preemption 
+of state and local emission regulations applies only to regula- 
+diesel-fueled vehicles—tawful for purchase elsewhere in the State 
+—is expressly prohibited. See App. |Sa-19a. 
+
+
+[PDF page 11]
+10 
+tions applicable to new motor vehicle sales, and not to 
+identical regulations governing new motor vehicle purchases. 
+EMA and WSPA appealed to the Ninth Circuit. The Court 
+of Appeals adopted the District Court’s decision in whole. 
+Specifically, the Ninth Circuit issued a published opinion 
+adopting as its own the “well-reasoned opinion” of the 
+District Court. App. 2a. The Court of Appeals subsequently 
+denied EMA’s request for rehearing on December 11, 2002. 
+App. 29a. 
+REASONS FOR GRANTING THE WRIT 
+I. 
+THE 
+NINTH 
+CIRCUIT’S 
+DECISION 
+CONFLICTS WITH THE DECISIONS OF THE 
+OTHER 
+FEDERAL 
+CIRCUITS 
+TO 
+HAVE 
+ADDRESSED THE ISSUE. 
+The Ninth Circuit’s decision directly conflicts with the 
+decisions of the First and Second Circuits on the scope and 
+effect of the Clean Air Act’s broad preemption provisions. 
+Those decisions both found that regulations . «h “no purpose 
+other than to effect a general reduction in emissions”—like 
+the Fleet Rules here—are preempted by the Act. 
+In American Auto. Mfrs. Ass'n v. Cahill, 152 F.3d 196, the 
+Second Circuit considered whether New York regulations 
+requiring a percentage of all new vehicles sold in model 
+years 1998-2003 to be zero-emission vehicles (“ZEVs”) were 
+preempted 
+by the Clean Air Act. Section 
+209(a) of the Clean 
+Air Act prohibits 
+any state from “adopt{ing] 
+or attempt[ing] 
+to enforce any standard relating to the control of emissions 
+from new motor vehicles.” 
+42 U.S.C. § 7543(a). As ex- 
+plained above (at 6), the statute provides an exception, 
+allowing California to adopt or enforce its own new-vehicle 
+emissions standards, as long as California first obtains a 
+waiver from the Environmental Protection Agency. 
+See 42 
+U.S.C. § 7543(b). The statute also allows any other state to 
+“opt in” to the California regulations if the state’s standards 
+“are identical to the California standards for which a waiver 
+has been granted for such model year” and are adopted “at 
+least two years before commencement of such model year.” 
+Id. § 7507. 
+In the early 1990s, California adopted, and obtained a 
+waiver for, its LEV Program, as described above. In addition 
+to establishing progressively lower “fleet average” emissions 
+standards for new vehicle manufacturers, the LEV Program 
+also required that two percent of all new vehicles certified for 
+sale in California for model years 1998-2000, five percent for 
+model years 2001-2002, and ten percent for model year 2003, 
+be ZEVs. New York adopted California’s LEV program for 
+light-duty vehicles pursuant to the Clean Air Act’s “opt-in” 
+provision. 
+California subsequently abandoned the ZEV sales require- 
+ment for model years 1998-2002, replacing it with individual 
+Memoranda of Agreement (“MOAs”) with the seven largest 
+automobile manufacturers, requiring specific numbers of 
+ZEVs to be sold during calendar years 1998-2000. 
+New 
+York, however, did not amend its regulations in response to 
+the California 
+changes, 
+and 
+automobile 
+manufacturers 
+challenged New York’s ZEV sales requirement for model 
+years 1998-2002 as preempted under Section 209 of the 
+Clean Air Act. 
+Reviewing a district court decision which had found no 
+preemption 
+of the New York regulations, the Second Circuit 
+considered 
+whether the State’s ZEV sales requirement was a 
+“standard relating 
+to the control of emissions” 
+and therefore 
+within Section 209’s preemptive scope, or whether it was 
+only an enforcement procedure and therefore not preempted. 
+Noting that “standards relating to the control of emissions” 
+are “regulatory measures intended to lower the level of auto 
+emissions,” the court found New York’s ZEV requirement to 
+constitute such a standard: 
+
+
+[PDF page 12]
+12 
+To be sure, the ZEV sales requirement does not impose 
+precise overall quantitative limits on levels of emis- 
+sions, as do the classification system and fleet averages. 
+It mandates only that a specified percentage of the [ve- 
+hicles} sold by a manufacturer in any model year be 
+ZEVs. Nevertheless, the ZEV sales requirement must 
+be considered a standard “relating to the control of 
+emissions.” 
+ZEV, after all, stands for “zero-emission 
+vehicle,” and a requirement that a particular percentage 
+of vehicle sales be ZEVs has no purpose other than to 
+effect a general reduction in emissions * * *. The ZEV 
+sales requirement is, therefore, in the nature of a com- 
+mand having a direct effect on the level of emissions. 
+[152 F.3d at 200 (emphases added). } 
+Finding that the ZEV sales requirement was a “standard” 
+within the meaning of Section 209, the court concluded that 
+the New York regulations were preempted by the Act. See 
+ibid? 
+See also MVMA, 17 F.3d at 536 (Clean Air Act’s 
+preemption provisions prohibit limitations on the types of 
+certified new motor vehicles that may be bought and sold in 
+interstate commerce). 
+The First Circuit reached a similar conclusion in Associa- 
+tion of Int'l Auto. Mfrs. v. Commissioner, Mass. Dep't of 
+Envtl. Prot., 208 F.3d 1, which considered Massachusetts’s 
+adoption of California’s LEV program. 
+Unlike New York, 
+Massachusetts amended its regulations in response to the 
+California MOAs; Massachusetts, however, did not adopt the 
+MOAs in their entirety. The California MOAs provided that 
+the manufacturers would develop ZEV technology and 
+introduce a limited number of ZEVs into the California 
+market during the years 1998-2002, and California, in 
+2 The court also concluded that the New York ZEV program did 
+not identically copy the California program as amended, and thus 
+was not alternatively 
+permitted under Section 177 of the Act. /d. 
+at 201. 
+13 
+exchange, agreed to provide infrastructural support for ZEV 
+implementation. 
+| The 
+Massachusetts 
+regulations 
+were 
+amended to reflect the automakers’ obligations under the 
+MOAs, but the reciprocal obligations undertaken by Califor- 
+nia were not also included. 
+Automobile manufacturers 
+challenged those regulations, arguing that because 
+the 
+Massachusetts program did not copy the California program 
+in its entirety, the regulations were preempted by the Clean 
+Air Act. 
+Reviewing the district court’s conclusion that ZEV man- 
+dates were “standards relating to the control of emissions,” 
+the First Circuit agreed with the Second Circuit that “a 
+requirement that a particular percentage of vehicle sales be 
+ZEVs has no purpose other than to effect a general reduction 
+in emissions.” /d. at 7. The court continued: 
+In contrast to [nonpreempted] “enforcement mecha- 
+nisms” such as testing and reporting requirements, we 
+think that numerical production requirements such as 
+those in the Massachusetts ZEV mandates must be con- 
+sidered “standards relating to the control of emissions.” 
+Rather than simply monitoring or enforcing compliance 
+with some distinct numerical emissions standard, the 
+very purpose and effect of the ZEV mandate is to effect 
+a quantitative reduction in emissions. 
+[Id. at 6-7 (cita- 
+tions omitted and emphases added)]. 
+Finding that the ZEV mandates are standards as that term is 
+used in Section 209 of the Clean Air Act, the court concluded 
+that Massachusetts’s regulations were preempied by that 
+section of the Act. See id. at 7. As a result, the court invali- 
+dated Massachusetts’s ZEV program. /d. 
+As both Cahill and Commissioner emphasize, Section 209 
+expressly covers “standards relating to the control of emis- 
+sions”; regulations are considered to be such standards where 
+they have “no purpose other than to effect a general reduction 
+in emissions.” 
+Cahill, 152 F.3d at 200; see also Commis- 
+
+
+[PDF page 13]
+14 
+sioner, 208 F.3d at 6. That is exactly the type of regulation 
+that the South Coast Air Quality Management District has 
+instituted here. 
+The Fleet Rules mandate that when certain local operators 
+of fleets purchase or replace their fleet vehicles, they must 
+acquire only those specific motor vehicles that the SCAQMD 
+has designated as meeting “its standards and requirements.” 
+The Ninth Circuit recognized as much. App. 16a, 2a. Such 
+regulations, which collectively require fleet operators to 
+purchase or lease only low-emission 
+or alternative-fuel 
+vehicles, have “no purpose other than to effect a general 
+reduction in emissions.” 
+Cahill, 152 F.3d at 200; see also 
+Commissioner, 208 F.3d at 6. 
+Indeed, by requiring fleet operators—a group which by its 
+nature controls large numbers of pollution-emitting vehicles 
+in a given area—to purchase or lease vehicles with lower 
+emissions, the SCAQMD imposed rules that would lead to a 
+quantitative reduction in emissions. Even the District Court 
+explicitly recognized that the SCAQMD adopted the Fleet 
+Rules “in an effort to reduce public exposure to motor 
+vehicle pollution.” App. 15a. Thus, because the Fleet Rules 
+are “regulatory measures intended to lower the level of auto 
+emissions,” Cahill, 152 F.3d at 200, they are “standards 
+relating to the control of emissions” preempted by Section 
+209 of the Clean Air Act.’ 
+3 Furthermore, the extent to which the Fleet Rules actually 
+serve to reduce the total level of emissions within the District is 
+irrelevant. 
+As the First Circuit observed in Commissioner, 
+“Massachusetts’ original contention that the ZEV mandates should 
+not be considered standards simply because they would have a 
+very small impact on overall emissions 
+levels is unpersua- 
+sive—whether a regulation effects a small or great impact on 
+overall emissions is a question of degree, not one of kind.” 208 
+F.3d at 6. 
+15 
+But the Ninth Circuit concluded that “the Fleet Rules do 
+not set a ‘standard relating to the control of emissions.’” 
+App. 21a, 2a. In support of this conclusion, the court distin- 
+guished Cahill and Commissioner by stating that “(t}hese 
+cases hold that an attempt to limit the sale of vehicles is 
+preempted.* * * 
+It does not follow, however, that a rule 
+regulating the purchase of vehicles is such a standard.” App. 
+23a, 2a (emphasis in original). 
+Nowhere, however, does the Clean Air Act limit the “stan- 
+dards relating to the control of emissions” to rules regulating 
+the sale of vehicles. 
+Rather, the plain language of the Act 
+makes clear that “standards” are found to exist where emis- 
+sions levels are regulated, regardless of the means used. See 
+42 U.S.C. § 7543(a) (prohibiting states from imposing “any 
+standard relating to the control of emissions”) (emphasis 
+added); see also Commissioner, 208 F.3d at 6; Cahill, 152 
+F.3d at 200.4 
+In addition, the Ninth Circuit’s purely semantic distinction 
+does not bear up under even slight scrutiny. 
+It is impossible 
+to imagine a situation in which a regulatory limit on pur- 
+_ 
+chases does not necessarily affect sales—especially here, 
+where the customer base, fleet operators, is distinct. When 
+all fleet operators in the South Coast Air Basin are required 
+4 One might argue that the Ninth Circuit read the Clean Air 
+Act’s ban on restrictions as limited to “sales,” rather than “pur- 
+chases,” from the second sentence in Section 209(a) of the Clean 
+Air Act, which provides that no state shall put measures into place 
+to control emissions as a “condition precedent to the initial retail 
+sale, titling (if any), or registration” of a motor vehicle. 42 U.S.C. 
+§ 7543(a). 
+However, this provision (which the court did not 
+discuss at all), must be read in context with the broad prohibition 
+in the first sentence of Section 209(a). 
+/d. Thus, the prohibited 
+standards include duties the state may place on the manufacturer 
+(such as requirements before a sale), or on the consumer (such as 
+requirements before titling and registration, or in this instance, 
+limits on purchases). 
+
+
+[PDF page 14]
+16 
+to purchase only certain low-emissions or alternative-fuel 
+vehicles for public transit, street sweeping, waste collection, 
+and other public purposes, sales of such vehicles inevitably 
+will be affected. The Ninth Circuit’s attempt to characterize 
+the Fleet Rules as only affecting vehicle purchases, and not 
+sales, is therefore untenable; the Fleet Rules, like the New 
+York and Massachusetts ZEV regulations, impact the trade of 
+vehicles in their respective regions and in turn are standards 
+“having a direct effect on the level of emissions,” as contem- 
+plated by the Act. 
+The Court of Appeals also tried to distinguish the Fleet 
+Rules from the ZEV regulations by noting that the Fleet 
+Rules “regulate the purchase of previously-certified vehi- 
+cles,” rather than “imposing any numerical control on new 
+vehicles.” App. 21a, 2a. But, again, there is no support for 
+the contention that “standards” as used in the Act are only 
+those regulations that impose some type of a numerical 
+requirement on manufacturers. 
+Moreover, as noted above, the Fleet Rules do impose nu- 
+merical requirements on manufacturers, even if they do so 
+indirectly. The truth of this observation is strongly supported 
+by EPA’s opinion letter discussed in Commissioner, in which 
+the EPA provided its understanding of the term “standard” 
+under the Act: 
+Setting the link between the emission limit and the ap- 
+plicability of the limit to a particular number of vehicles 
+is an inherent part of the standard setting process. * * * 
+If a production requirement, such as the ZEV mandate, 
+is not considered part of the standard itself, then the 
+compliance with a standard * * * would be discon- 
+nected from the obligation to build cars to meet the 
+standard. 
+This could lead to emission standards that 
+17 
+have no air quality benefit at all. [208 F.3d at 6 (quot- 
+ing EPA Opinion Letter at 9).]5 
+In addition to emphasizing that impact on emissions is the 
+primary criterion in determining whether a regulation is a 
+Clean Air Act “standard,” the EPA letter reveals that state 
+motor vehicle requirements must be read in terms of their 
+practical application. 
+In this case, the Fleet Rules require 
+fleet operators to purchase only low-emission or alternative- 
+fuel vehicles. As a result, manufacturers must provide more 
+fleet vehicles that are LEVs, ULEVs, or that operate on 
+alternative fuels. 
+Indeed, if the Fleet Rules’ purchase re- 
+quirements were not considered part of the “standard,” there 
+would be a similar compliance “disconnect” here. 
+Thus, 
+despite the fact that the Fleet Rules do not impose numerical 
+requirements directly on manufacturers, they nonetheless 
+impose standards that require ‘nanufacturers to build more 
+vehicles of certain lower emissions levels or fuel types, and 
+thus in the EPA’s construction are “standards” under the Act. 
+In short, both the First and Second Circuits, and the EPA, 
+have concluded that regulations are Clean Air Act “stan- 
+dards” when they seek to bring about a general reduction in 
+5 Before the First Circuit decided Commissioner, it referred 
+several questions to the Environmental Protection Agency under 
+the doctrine of primary jurisdiction. See Commissioner, 208 F.3d 
+at 3-4. The EPA responded in an opinion letter, in which it opined, 
+as disclosed in the quote above, that the Massachusetts ZEV 
+mandates are “standards” for purposes of Sections 209 and 177 of 
+the Clean Air Act. See id. at 6. The First Circuit subsequently 
+decided, however, that its referral to the EPA was “somewhat 
+inartful,” because the EPA opinion letter was not final agency 
+action warranting any particular deference, but rather was an 
+“advisory opinion only.” /d. at 5-6. As a result, the First Circuit 
+did not rely on the EPA’s conclusion that the ZEV mandates are 
+standards as that term is used in Sections 209 and 177 of the Act; 
+nonetheless, it independently agreed with the EPA on this point. 
+See id. at 7. 
+
+
+[PDF page 15]
+18 
+emission levels. The Fleet Rules, just like the ZEV regula- 
+tions in New York and Massachusetts, were instituted to 
+reduce emissions levels, and for this reason are identical to 
+the regulations deemed “standards” by the First and Second 
+Circuits. Yet, the Ninth Circuit failed to find federal preemp- 
+tion of these “standards.” 
+Thus, the Ninth Circuit’s ruling 
+creates a circuit split—and an especially intolerable one, 
+because it introduces disparity in the operation of a federal 
+law specifically armed with a preemption clause intended to 
+promote national uniformity. 
+Il. 
+THE 
+NINTH 
+CIRCUIT’S 
+DECISION 
+CONFLICTS 
+WITH 
+THIS 
+COURT’S 
+PREEMPTION JURISPRUDENCE. 
+The scope of the Clean Air Act’s express preemption of 
+state and local regulation of emissions from new motor 
+vehicles is expansive. 
+This Court has long recognized that 
+Section 209(a) of the Act comprehensively preempts state 
+and local regulation of new motor vehicle emissions. 
+See 
+Washington v. General Motors Corp., 406 U.S. 109, 114 
+(1972) (“Congress has largely pre-empted the field with 
+regard to ‘emissions from new motor vehicles’ ”’).° 
+6 See also Commissioner, 208 F.3d at 3 (Congress “expressly 
+preempted ail state regulation of new motor vehicle emissions”) 
+(emphasis added); Motor Vehicle Mfrs. Ass'n v. New York State 
+Dep't of Envtl. Conservation, 79 F.3d 1298, 1302 (2d Cir. 1996) 
+(“In general, state regulation of automotive tailpipe emissions is 
+preempted by the federal Clean Air Act”); Motor & Equipment 
+Mfrs. Ass'n v. EPA, 627 F.2d 1095, 1109 (D.C. Cir. 1979) (“Con- 
+gress in 1967 expressed its intent to occupy the regulatory role 
+over emissions control to the exclusion of all the states, all, that is, 
+except California”), cert. denied, 446 U.S. 952 (1980); City of 
+Chicago v. General Motors Corp., 467 F.2d 1262, 1264 (7th Cir. 
+1972) (section 209(a) preempts “the entire field of standards for 
+emissions from new motor vehicles”). 
+19 
+The consistency of the holdings regarding the breadth of 
+the Clean Air Act’s express preemption provisions is not 
+surprising. 
+Section 209(a) preempts state and local govern- 
+ments both from adopting or enforcing “any standard relating 
+to the control of emissions from new motor vehicles” and 
+from requiring “certification, inspection, or any other ap- 
+proval relating to the control of emissions from any new 
+motor vehicle * * * as condition precedent to the initial retail 
+sale, titling (if any), or registration of such motor vehicle.” 
+42 U.S.C. § 7543(a). Taken together, these dual preemptions 
+encompass virtually all state or local regulations directed at 
+controlling emissions from new motor vehicles. 
+The Ninth Circuit, however, rejected this well-established 
+jurisprudence relating to the Clean Air Act, and held that the 
+SCAQMD Fleet Rules fall within neither of the two com- 
+plementary preemption provisions of Section 209(a). 
+That 
+holding should not stand. 
+The Fleet Rules are a “standard 
+relating to the control of emissions from new motor vehi- 
+cles,” as both the First and Second Circuit have held. 
+In 
+addition, in certain situations the Fleet Rules require fleet 
+operators to obtain approval certificates from the District as a 
+condition precedent to the purchase of new vehicles. 
+That 
+too is expressly preempted by Section 209(a). 
+Thus, the 
+Ninth Circuit’s ruling is in direct conflict with controlling 
+jurisprudence relating to Section 209¢a). 
+The Ninth Circuit’s decision also flatly conflicts with this 
+Court’s numerous holdings recognizing the breadth of the 
+phrase “relating to” when used in preemption statutes. 
+See, 
+e.g., Morales v. Trans World Airlines, Inc., 504 U.S. 374, 
+378 (1992) (the phrase “related to” used in a preemption 
+statute “express[es] a broad preemptive purpose”). 
+Instead, 
+and contrary to this Court’s precedent, the lower court 
+strained to narrow the scope of the Clean Air Act’s express 
+preemption provisions and improperly looked beyond its 
+plain meaning in a freewheeling reconstruction of legislative 
+
+
+[PDF page 16]
+20 
+history. See Geier v. American Honda Motor Co., 529 USS. 
+861, 906 (2000) (“a freewheeling judicial inquiry into 
+whether [state law] is in tension with federal objectives 
+would undercut the principle that it is Congress [and federal 
+agencies] rather than the courts that preempt state law.”) 
+(Brackets in original). 
+The result of the Ninth Circuit's 
+disregard of the express terms of the Clean Air Act is a 
+wholesale evisceration of preemption and Congressional 
+purpose, all contrary to this Court’s prior decisions.’ 
+The Fleet Rules clearly “relate to” the “control of emis- 
+sions from new motor vehicles.” 
+Indeed, control of emis- 
+sions is the entire purpose and effect of the Fleet Rules. App. 
+15a (noting that Fleet Rules are “an effort to reduce public 
+exposure to motor vehicle pollution”). 
+There can be no 
+doubt that the Fleet Rules are “in connection with” the 
+control of emissions, or that their “purpose and effect * * * is 
+to effect a quantitative reduction in emissions.” 
+Commis- 
+sioner, 208 F.3d at 7. Moreover, it can hardly be disputed 
+that the Fleet Rules make “reference to” the control of 
+emissions given that they incorporate a subset of vehicle 
+standards approved by CARB for purposes of emissions 
+control. 
+The fact that the Fleet Rules expressly limit the 
+purchase of vehicles to those that are certified toa subset of 
+the applicable California numerical emission limits, while 
+prohibiting the purchase of vehicles that comply with other 
+valid California and federal emission 
+limits, necessarily 
+7 The court’s “freewheeling” approach also yielded a result in 
+direct conflict with the recently expressed view of the United 
+States on the broad scope of preemption “relating to” new motor 
+vehicles. 
+See Br. Amicus Curiae of the United States, Central 
+Valley Chrysler-Plymouth, Inc. v. Michael P. Kenny, No. 02- 
+16395 (9th Cir.) (arguing that “under the ‘connection with or 
+reference to’ standard embraced by the Supreme Court, the 
+California emission control regulations at issue [in that case] are 
+clearly preempted”). An excerpt of the United States’ submission 
+in the Central Valley case is appended hereto. App. 30a-42a. 
+21 
+means that the Rules are preempted “standards” relating to 
+control of vehicle emissions. 
+The Ninth Circuit’s ruling to 
+the contrary thus clearly warrants review. 
+Ill. . THE QUESTION PRESENTED IS AN ISSUE OF 
+NATIONAL IMPORTANCE AND SHOULD BE 
+DECIDED BY THIS COURT. 
+Preemption is the “cornerstone” of the portions of the 
+Clean Air Act governing the regulation of new motor vehi- 
+cles. MVMA, 17 F.3d at 526. The Ninth Circuit’s decision 
+substantially undermines the Clean Air Act’s preemption 
+provisions; it thus presents an issue of national importance, 
+particularly to the United States Government and the EPA.® 
+If the court’s holding stands, any State or political subdivi- 
+sion may enact its own unique emission requirements simply 
+by prescribing that no one subject to its jurisdiction may 
+purchase or lease a new motor vehicle that is not an alterna- 
+tive-fuel vehicle, or that no one may purchase or lease a new 
+motor vehicle that, for example, is not a “low emission 
+vehicle” by some definition. And there would be no assur- 
+ance whatsoever that each state and political subdivision 
+would designate the same “subset” of “approved” new motor 
+8 See Br. of United States as Amicus Curiae, Motor Vehicle Mfrs 
+Ass'n v. New York State Dep't of Envtl. Conservation, 79 F.3d 
+1298 (discussing challenge to California regulations alleged to 
+violate Clean Air Act’s “third vehicle” prohibition); Br. of United 
+States as Amicus Curiae, MVMA, 17 F.3d 521 (discussing chal- 
+lenge under Clean Air Act to State rules regulating tailpipe 
+emissions); see also Br. of United States as Amicus Curiae, 
+Norfolk S. Ry. Co. v. Shanklin, 529 U.S. 344 (2000) (noting 
+“strong interest” of United States in how statute with an express 
+preemption provision—there, the Federal Railroad Safety Act—is 
+“interpreted and applied”); Br. of United States as Amicus Curiae, 
+Buckman Co. v. Plaintiffs’ Legal Comm., 531 U.S. 341 (2001) 
+(noting “substantial interest” of United States in question whether 
+federal law preempted state-law tort claims alleging fraud on the 
+FDA). 
+
+
+[PDF page 17]
+22 
+vehicles. 
+The result would be that interstate commerce in 
+motor vehicles would be subjected to the varying require- 
+ments of the fifty states and their thousands of political 
+subunits—the very result Congress meant 
+to avoid by 
+explicitly preempting regulation in this field. 
+Congress broadly preempted local regulations relating to 
+the control of emissions from new motor vehicles specifically 
+“to prevent a chaotic situation from developing in interstate 
+commerce in new motor vehicles,” H.R. Rep. No. 90-728 
+(1967), reprinted in 1967 U.S.C.C.A.N. 1938, 1956, and to 
+avoid “the spectre of an anarchic patchwork of federal and 
+state regulatory programs, a prospect which threatened to 
+create nightmares for the manufacturers.” 
+Engine Mfrs. 
+Ass'n v. EPA, 88 F.3d at 1079. The Fleet Rules bring that 
+chaos to life, and the Ninth Circuit’s decision upholding the 
+rules flouts Congress’s express directive against balkaniza- 
+tion of the nationwide market for new motor vehicles. The 
+impact of such a fractured market for new motor vehicles in 
+the United States would be to increase significantly the cost 
+of manufacturing marketable vehicles and engines. 
+The Ninth Circuit’s decision not only fractures the nation- 
+wide market for motor vehicles, it also undermines the ability 
+of the Federal government to establish, implement and 
+achieve its emission standards for new motor vehicles. 
+In 
+preempting states and local governments from regulating 
+new motor vehicles, Congress also imposed on the Federal 
+government the obligation to set emission standards for, and 
+reduce emissions from, new motor vehicles. 
+42 U.S.C. 
+§ 7521. The primacy of EPA's nationwide emission reduc- 
+tion standards was recognized by Congress. Thus, California 
+may obtain a waiver of federal preemption for its standards 
+only if, among other things, EPA determines that the Califor- 
+nia standards are “at least as stringent as” and “at least as 
+protective of health and welfare as” the comparable Federal 
+standards. 42 U.S.C. § 7543(b). 
+23 
+However, under the Ninth Circuit’s decisi 
+iti 
+subdivisions of states are free to mandate the va Ar 
+subset of the types of new motor vehicles certified by EPA or 
+California. While the SCAQMD has attempted to pick and 
+choose its subsets ostensibly to set more stringent emission 
+standards, there is nothing in the Ninth Circuit’s decision that 
+would prevent a political subdivision from adopting a local 
+mandate requiring the purchase of the highest emitting 
+certified vehicles while prohibiting the purchase of the lowest 
+emitting vehicles. Such an approach, implicitly condoned by 
+the Ninth Circuit, would undermine the Federal govern- 
+ment’s ability to reduce emissions from new motor vehicles 
+which suggests that the United States Government would 
+want to be heard on this issue (see su pra n.8), and 
+wh 
+further warrants this Court’s review. 
+oe 
+
+
+[PDF page 18]
+24 
+CONCLUSION 
+For the foregoing reasons, the petition for a writ of certio- 
+rari should be granted. 
+JOHN J. SULLIVAN 
+GREGORY R. MCCLINTOCK 
+MAYER, BROWN, ROWE & MAW 
+1909 K STREET, N.W. 
+Washington, D.C. 20006 
+(202) 263-3000 
+Counsel for Petitioner Western 
+States Petroleum Association 
+Respectfully submitted, 
+PHIL C. NEAL 
+Counsel of Record 
+JED R. MANDEL 
+TIMOTHY A. FRENCH 
+NEAL, GERBER & EISENBERG 
+Two North LaSalle Street 
+Suite 2200 
+Chicago, Illinois 60602 
+(312) 269-8000 
+Counsel for Petitioner Engine 
+Manufacturers Association 
+
+
+[PDF page 19]
+APPENDICES 
+
+
+[PDF page 20]
+la 
+APPENDIX A 
+PUBLISHED AT 309 F.3d 550 
+IN THE UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+No. 01-56688 
+(D.C. No. CV-00-09065-FMC) 
+ENGINE MANUFACTURERS ASSOCIATION, ef al., 
+Plaintiffs-Appellants, 
+SOUTH COAST AIR QUALITY MANAGEMENT DISTRICT, ef al., 
+Defendants-Appellees. 
+Filed October 24, 2002 
+OPINION 
+Appeal from the United States District Court for the Central 
+District of California, Florence Marie Cooper, District Judge, 
+Presiding, D.C. No. CV-00-09065-FMC. 
+Before GOODWIN, RYMER, and McKEOWN, Circuit 
+Judges. 
+
+
+[PDF page 21]
+2a 
+ORDER 
+Engine Manufacturers 
+Association and Western States 
+Petroleum Association appeal the district court’s judgment 
+that the fleet rules adopted by the South Coast Air Quality 
+Management District are not preempted by the Clean Air 
+Act. 
+We affirm the decision of the district court for the reasons 
+stated in its well-reasoned opinion, reported at Engine Mfrs. 
+Ass'n v. South Coast Air Quality Mgmt. Dist., 158 F.Supp.2d 
+1107 (C.D. Cal. 2001).! 
+AFFIRMED. 
+| We decline to consider Amici’s arguments regarding § 246 of 
+the Clean Air Act. “Generally, we do not consider on appeal an 
+issued raised only by amicus.” 
+Swan v. Peterson, 6 F.3d 1373, 
+1383 (9th Cir. 1993). 
+3a 
+APPENDIX B 
+PUBLISHED AT 158 F.Supp.2d 1107 
+IN THE UNITED STATES DISTRICT COURT 
+FOR THE CENTRAL DISTRICT OF CALIFORNIA 
+No. CV 00-09065-FMC (BQRx) 
+ENGINE MANUFACTURERS ASSOCIATION, et al., 
+Plaintiffs, 
+SOUTH COAST A!IR QUALITY MANAGEMENT DISTRICT, ef al., 
+Defendants. 
+Filed August 22, 2001 
+OPINION 
+ORDER RE CROSS MOTIONS FOR 
+SUMMARY JUDGMENT 
+COOPER, District judge. 
+
+
+[PDF page 22]
+4a 
+I. 
+BACKGROUND 
+A. 
+The Parties 
+Plaintiff Engine Manufacturers Association (“EMA”) is the 
+not-for-profit 
+trade 
+association 
+representing 
+the leading 
+manufacturers of internal combustion engines used in most 
+all medium-duty and heavy-duty motor vehicles, other than 
+passenger 
+cars. 
+EMA members manufacture the me- 
+dium-duty 
+and 
+heavy-duty 
+compression-ignition, 
+die- 
+sel-fueled engines that are installed in certain pickup trucks 
+and sports-utility vehicles, delivery vans, shuttle vans, and 
+cargo 
+vehicles, 
+trucks, 
+tractor-trailers, 
+waste 
+haulers, 
+street-sweepers and buses, and sold throughout the United 
+States. 
+Plaintiff-in-Intervention Western States Petroleum Associa- 
+tion (“WSPA”) is a trade association organized as a nonprofit 
+corporation under California law. Its members consist of 
+companies engaged in the exploration, production, transpor- 
+tation, refining and marketing of crude oil and petroleum 
+products, including diesel fuel. 
+Defendant South Coast Air Quality Management District 
+(“SCAQMD”) is the air quality management district estab- 
+lished under the California Health and Safety Code to 
+develop and implement a strategy for achieving and main- 
+taining ambient air quality standards within the South Coast 
+Air Basin. 
+Agents of the SCAMQD, 
+including the 
+SCAMQD Defendants,' are responsible for administering the 
+Fleet Rules at issue. 
+| The “SCAQMD Defendants” consist of thirteen (13) Board 
+members of the SCAQMD, including the SCAQMD’s Executive 
+Director. 
+Sa 
+Defendants-in-Intervention 
+“Environmental 
+Intervenors” 
+are non-profit organizations? dedicated to the protection of 
+the environment and public health. 
+California Attorney General Bill Lockyer submitted an 
+amicus curiae brief on behalf of the State of California in 
+support of the SCAQMD’s motion for summary judgment 
+and in opposition to the crossmotions for summary judgment 
+filed by EMA and WSPA. 
+B. 
+The South Coast Air Basin 
+The South Coast Air Basin (“the Basin”), which includes 
+Los Angeles, San Bernardino, Riverside, and Orange Coun- 
+ties, experiences the most serious air quality problems in the 
+nation, primarily due to motor vehic!e pollution. 
+(Staff 
+Report (“SR”) 1191-1, p. 7439). It is the only air basin in the 
+country 
+classified by the United 
+States Environmental 
+Protection Agency (“E.P.A.”) as an extreme nonattainment 
+area. See 42 U.S.C. § 7511(a). 
+On-road motor vehicles 
+contribute more than one-half of the ozone 
+precursors 
+emitted in the Basin and are a principal source of toxic 
+pollution. (Administrative Record (“AR”) 57 R-6252). 
+Emission of particulate matter from diesel vehicles and 
+equipment is the most significant individual toxic air pollut- 
+ant in the Basin accounting for fully seventy-one percent 
+(71%) of the air-borne cancer risk. (AR 57 R-6258). 
+The 
+California Air Resources Board (“CARB”) has formally 
+designated particulate emissions from diesel-fueled vehicles 
+as a Toxic Air Contaminant. 
+Studies reveal that exposure to 
+diesel exhaust increases the risk of developing lung cancer 
+anc 
+other non-cancer adverse health 
+effects. 
+(AR 41 
+“ The non-profit organizations include: Coalition for Clean Air, 
+Inc.; Natural Resources Defense Council, Inc.; Communities for a 
+Better Environment, Inc.; Planning and Conservation League; 2nd 
+Sierra Club. 
+
+
+[PDF page 23]
+6a 
+R-1840). 
+Diesel exhaust has also long been considered a 
+probable human carcinogen by the National Institute of 
+Occupational Safety and Health and by the International 
+Agency for Research on Cancer. (AR 41 R-1841). 
+Diesel trucks and buses are also significant contributors to 
+smog and fine particles, two pollutants that have serious 
+public health impacts. 
+On-road motor vehicles contribute 
+more than half of all smog-forming hydrocarbons and oxides 
+of nitrogen in the entire emissions inventory. (SR 1191-1, p. 
+7439). 
+More than ninety-percent (90%) of the particles 
+emitted from diesel engines are fine particles. 
+(AR 54 
+R-5514-5515). 
+Fine particles are particularly hazardous, 
+because they can bypass respiratory defense mechanisms and 
+penetrate deeply into the lungs. 
+(AR 20 R 5783). 
+The 
+presence of high quantities of fine particles in the air has 
+been shown to lead to higher mortality rates, greater occur- 
+rences and severity of asthma, cardiovascular disease, and 
+potentially to a higher incidence of cancer. (AR 39 R-1325). 
+C. 
+Legislative Background 
+1. 
+The Clean Air Act 
+The Clean Air Act, 42 U.S.C. §§ 7401-7671q (“CAA”), “is 
+one of the most comprehensive pieces of legislation in our 
+nation’s history.” Motor Vehicle Mfrs. Ass'n v. New York 
+State Dep't of Envtl. Conservation, 17 F.3d 521, 524 (2d 
+Cir.1994). 
+The CAA makes “the States and the Federal 
+Government partners in the struggle against air pollution.” 
+General Motors Corp. v. U.S., 496 U.S. 530, 532, 110 S. Ct. 
+2528, 110 L. Ed. 2d 480 (1990). A primary purpose of the 
+CAA is “to encourage or otherwise promote reasonable 
+Federal, State, and local governmental actions, consistent 
+with the provisions of this chapter, for pollution prevention.” 
+42 U.S.C. § 7401(c). Additionally, Congress envisioned the 
+CAA as a means of encouraging and assisting “the develop- 
+7a 
+ment and operation of regional air pollution prevention and 
+control programs.” 42 U.S.C. § 7401(b)(4). 
+The CAA directs the E.P.A. to establish and enforce na- 
+tional ambient air quality standards (“NAAQS”) for pollut- 
+ants that “cause or contribute to air pollution which may 
+reasonably be anticipated 
+to endanger public health 
+or 
+welfare.” 
+42 U.S.C. § 7408(a). 
+To achieve and maintain 
+these NAAQS by regulating sources of air pollution, each 
+State is required to submit a state implementation plan 
+(“SIP”) to the EPA for approval. 
+CAA § 110, 42 U.S.C. 
+§ 7410(a)(1). 
+However, states may not promulgate individ- 
+ual motor vehicle emission standards to attain the NAAQS 
+set by the EPA. Section 209(a) expressly preempts all state 
+regulation of motor vehicle emissions. Congress preempted 
+the field of vehicle emission regulation for two reasons: 
+“to 
+ensure uniformity throughout the nation, and to avoid the 
+undue burden on motor vehicle manufacturers which would 
+result from different state standards.” Motor Vehicle Mfrs. 
+Ass'n v. New York State Dep't of Envtl. Conservation, 810 
+F.Supp. 1331, 1337 (N.D.N.Y.1993), aff'd in part, rev'd in 
+part, 17 F.3d 521 (2d Cir.1994). 
+“Both the history and text of the [CAA] show that the 
+* * * preemption section was made not to hamstring locali- 
+ties in their fight against air pollution but to prevent the 
+burden on interstate commerce which would result if, instead 
+of uniform standards, every state and locality were left free to 
+impose different standards for exhaust emission control 
+devices for the manufacture and sale of new cars.” Allway 
+Taxi Inc. 
+v. City of New York, 340 F.Supp. 1120,1124 
+(S.D.N.Y.1972). 
+2. 
+Preemption 
+The United States Supreme Court has given substantial 
+weight in the preemption analysis to evidence that Congress 
+intended to preserve the state regulatory authority, stating 
+
+
+[PDF page 24]
+8a 
+that courts must “give full effect to evidence that Congress 
+considered, and sought to preserve, the States’ coordinate 
+regulatory role in our federal scheme.” 
+California v. Fed. 
+Energy Regulatory Comm'n, 495 U.S. 490, 497, 110 S. Ct.. 
+2024, 109 L. Ed. 2d 474 (1990). 
+Moreover, the Supreme 
+Court has cautioned that preemption provisions must be 
+narrowly and strictly construed. See Kelly v. Robinson, 479 
+U.S. 36, 43, 107 S. Ct. 353, 93 L. Ed. 2d 216 (1986); see also 
+Charas v. Trans World Airlines, Inc., 160 F.3d 1259, 1265 
+(9th Cir.1998); Chrysler Corp. v. Tofany, 419 F.2d 499, 511 
+(2d Cir.1969) (where exercise of local police power serves 
+the purpose of a federal Act, the preemptive effect of that Act 
+should be narrowly construed). 
+The Clean Air Act explicitly protects the authority of states 
+to regulate air pollution. 
+The first section of the CAA, 
+entitled “Congressional Findings”, 42 U.S.C. § 7401, makes 
+clear that the states retain the leading authority in regulating 
+matters of health and air quality: 
+“air pollution prevention 
+(that is, the reduction or elimination, through any measures, 
+of the amount of pollutants produced or created at the source) 
+and air pollution control at its source is the primary responsi- 
+bility of States 
+and 
+local 
+governments.” 
+42 U.S.C. 
+§ 7401(a)(3). Similarly, 42 U.S.C. § 7407, which focuses on 
+SIPs, provides: “Each state shall have the primary responsi- 
+bility for assuring air quality within the entire geographic 
+area comprising such State by submitting an implementation 
+plan for such State which will specify the manner in which 
+national primary and secondary ambient air quality standards 
+will be achieved and maintained within each air quality 
+control region in such State.” 42 U.S.C. § 7407(a). 
+“In preemption analysis, the Supreme Court is highly def- 
+erential to state law in areas traditionally regulated by the 
+states.” Exxon Mobil Corp. v. U.S. E.P.A., 217 F.3d 1246, 
+1255 (9th Cir. 2000). The Court has explained: 
+9a 
+[W]e have never assumed lightly that Congress has 
+derogated State regulation, but instead have addressed 
+claims of preemption with the starting presumption that 
+Congress does not intend to supplant state law * * * [I]n 
+cases like this one, where federal law is said to bar state 
+action in fields of traditional state regulation * * * we 
+have worked on the “assumption that the historic police 
+powers of the States were not to be superseded by the 
+Federal Act unless that was the clear and manifest pur- 
+pose of Congress.” 
+N.Y. State Conference of Blue Cross & Blue Shield Plans v. 
+Travelers Ins. Co., 514 U.S. 645, 654-55, 115 S. Ct. 1671, 
+131 L. Ed. 2d 695 (1995) (internal citations omitted). 
+“Air 
+pollution prevention falls under the broad police powers of 
+the states, which include the power to protect the health of 
+citizens in the state. Environmental regulation has tradition- 
+ally been a matter of state authority.” Exxon Mobil Corp., 
+217 F.3d at 1255; see also Massachusetts v. U.S. Dep't of 
+Transp., 93 F.3d 890, 894 (D.C.Cir.1996).The Supreme 
+Court has directed that the preemption analysis begin with 
+the presumption that such local police powers are not pre- 
+empted: 
+“Throughout our history the several States have 
+exercised their police powers to protect the health and safety 
+of their 
+citizens. 
+Because 
+these 
+are 
+‘primar- 
+ily, * * * matter[s] of local concern,’ the ‘States traditionally 
+have had great latitude under their police powers to legislate 
+as to the protection of the lives, limbs, health, comfort, and 
+quiet of all persons.”” Medtronic, Inc. v. Lohr, 518 U.S. 470, 
+475, 116 S. Ct. 2240, 135 L. Ed. 2d 700 (1996) (internal 
+citations omitted). 
+The CAA “explicitly preserved this 
+principle: 
+‘Each state shall have the primary responsibility 
+for assuring air quality within the entire geographic area 
+comprising such State.”” Train v. Natural Res. Def. Council, 
+Inc., 421 U.S. 60, 64, 95 S. Ct. 1470, 43 L. Ed. 2d 731 
+(1975). 
+
+
+[PDF page 25]
+10a 
+Furthermore, the Supreme Court has made clear that the 
+objectives and purpose of a statute, as well as the text, are 
+critical to the preemption analysis. See Travelers, 514 U.S. 
+at 654, 115 S. Ct. 1671; Medtronic, 518 U.S. at 486, 116 S. 
+Ct. 2240. “The overriding purpose of the Clean Air Act is to 
+force states to do their job in regulating air pollution effec- 
+tively so as to achieve baseline air quality standards, the 
+NAAQS. The primary mechanism for achieving the NAAQS 
+are through the local and state planning process which create 
+the SIPs.” Exxon Mobil Corp., 217 F.3d at 1255-56. 
+“As 
+regulating air pollution falls under the historic police powers 
+of the states, the authority of the states is assumed not to have 
+been preempted unless it was the clear and manifest purpose 
+of Congress to do so.” /d. at 1256; see also Rice v. Santa Fe 
+Elevator Corp., 331 U.S. 218, 230, 67 S. Ct. 1146, 91 L. Ed. 
+1447 (1947) (“{[W]e start with the assumption that the 
+historic police powers of the States were not to be superceded 
+by the Federal Act unless that was clear and manifest purpose 
+of Congress.”). 
+3. 
+Legislative History of the Clean Air Act 
+The original CAA, enacted by Congress in 1955, was 
+aimed primarily at increasing federal research and assistance 
+in air pollution prevention. 
+It made no provision for federal 
+motor vehicle emission standards. 
+After several states 
+adopted their own motor vehicle emission standards, the 
+Senate Committee on Public Works decided that national 
+standards were to be preferred over having each state go its 
+own way, “which could result in chaos insofar as manufac- 
+turers, dealers, and users are concerned.” 
+S. Rep. No. 192, 
+89th Cong., Ist Sess. 5-6 (1965). 
+As a result, Congress 
+enacted emission standards for new motor vehicle engines. 
+Despite this enactment, a number of states continued to 
+develop separate emission , ograms. 
+Congress promptly 
+amended the CAA in 1967 to impose federal preemption 
+lla 
+over motor vehicle emission standards. See Air Quality Act 
+of 1967, Pub. L. No. 90-148, § 208, 81 Stat. 485. An excep- 
+tion, however, was made for California because of its 
+“unique problems” and its “pioneering efforts” to control its 
+particularly severe air quality problems. 
+/d. at § 208(b); S. 
+Rep. No. 403, 90th Cong., Ist Sess. (1967). In 1970, the Act 
+was amended to establish national ambient air quality stan- 
+dards (“NAAQS”), which required even more stringent 
+uniform emission standards for new motor vehicles. 
+See 
+Clean Air Amendments of 1970, Pub. L. No. 91-604, §§ 4, 6, 
+84 Stat. 1676. 
+In 1990, the Clean Air Act was amended once again. Title 
+I of the Act directs the E.P.A. Administrator to develop 
+NAAQS for pollutants the Administrator determines “cause 
+or contribute to air pollution which may reasonably be 
+anticipated to endanger public health or welfare.” 42 U.S.C. 
+§ 7408(a)(1)(A). 
+The states are vested with the primary 
+responsibility for attaining and maintaining the NAAQS 
+through the development and implementation of a state 
+implementation plan (“SIP”). 
+See CAA § 110, 42 U.S.C. 
+§ 7410. Each state’s SIP, which is submitted to the E.P.A., 
+must explain exactly how the state intends to reduce or 
+maintain the concentration of pollution in the air to meet the 
+NAAQS. 
+“The states have broad license to institute their 
+own programs for the reduction of air pollution. * * *” 
+Motor Vehicle Mfrs. Ass'n, 17 F.3d at 525. 
+Title Il of the Act reflects Congress’ endeavor to resolve 
+the problems caused by moveable sources or vehicle emis- 
+sions. 
+The emission standards applicable to any given 
+vehicle depend upon its weight and use classification, and its 
+model year designation. See CAA §§ 202, 207(c), 42 U.S.C. 
+§§ 7521, 7541(c). Section 202 authorizes the E.P.A. Admin- 
+istrator to promulgate emission standards for motor vehicles 
+sold in the United States. Motor vehicle emission standards 
+primarily regulate emissions of carbon monoxide (CO), 
+
+
+[PDF page 26]
+12a 
+hydrocarbons or volatile organic compounds (VOCs) and 
+nitrogen oxides (NOx). 
+The “cornerstone of Title II is Congress’ continued express 
+preemption of state regulation of automobile emissions.” 
+Motor 
+Vehicle Mfrs. Ass'n, 
+17 F.3d at 526; see CAA 
+§ 209(a), 42 U.S.C. § 7543(a); see also Engine Mfrs. Ass ny. 
+U.S. Envtl. Prot. Agency, 88 F.3d 1075, 1079 (D.C.Cir.1996). 
+The majority of states have chosen to rely on the federal 
+emission standards set forth in § 202 of the CAA, 42 U.S.C. 
+§ 7521. 
+Only California enjoys a statutory exemption 
+allowing it to promulgate its own emission standards. 
+See 
+CAA § 209%(b), 42 U.S.C. § 7543(b)(1). California may only 
+adopt and enforce its own emission standards, however, after 
+applying to and obtaining the approval of the E.P.A. for a 
+waiver of preemption. See CAA § 209(b), 42 U.S.C. 7543. 
+The California Air Resources Board (“CARB”) submits an 
+application upon determining that its proposed standards 
+“will be, in the aggregate, at least as protective of public 
+health and welfare as the applicable Federal standards.” /d. 
+Were California simply to change its standards, and such 
+change were found to be within the scope of an existing 
+waiver, California need not submit a new waiver application. 
+Id. 
+Additionally, other states could promulgate regulations 
+requiring vehicles sold in their state to be in compliance with 
+California’s emission standards, or, in other words, to 
+“piggyback” onto California’s preemption exception. 
+This 
+opt-in authority, set forth in CAA § 177, 42 U.S.C. § 7507, is 
+carefully drafted to avoid placing “an undue burden on the 
+automobile manufacturing industry.” 
+Motor Vehicle Mfrs. 
+Ass'n, 17 F.3d at 527. Specifically: (1) an opt-in state must 
+adopt standards identical to California’s; (2) California must 
+receive a waiver from the E.P.A. for the standards; and (3) 
+both California and the opt-in state must adopt the standards 
+at least two years before the beginning of the automobile 
+l3a 
+— to which they apply. See CAA § 177, 42 U.S.C. 
+The 1990 Amendments to the CAA added two further 
+restrictions to § 177. First, Congress added language provid- 
+ing that § 177 shall not be construed as authorizing an opt-in 
+state to limit the sale of California-certified vehicles. 
+Sec- 
+ond, it forbade opt-in states from taking any action that has 
+the effect of creating a car different from those produced to 
+meet either federal 
+or California emission 
+standards, 
+a 
+so-called “third vehicle.” 
+4. 
+California's Plan 
+Pursuant to its authority to adopt separate emission control 
+requirements for new motor vehicle engines, California, 
+acting through CARB, has enacted two stringent emission 
+control programs for motor vehicles: 
+one for light and 
+medium-duty motor vehicles, including certain diesel-fueled 
+vehicles (the “LEV Program”), and one for heavy-duty urban 
+transit buses (the “Urban Bus Program’). 
+a. The LEV Program 
+_In adopting the LEV Program in 1990-1991, CARB estab- 
+lished the most stringent exhaust regulations ever for light 
+and medium-duty vehicles. 
+The regulations include three 
+primary elements: 
+(1) four tiers of exhaust emission stan- 
+dards for increasingly stringent categories of low-emission 
+vehicles; (2) a mechanism requiring manufacturers to phase 
+in a progressively cleaner mix of vehicles from year to year; 
+and (3) a requirement that a specified percentage of passen- 
+ger cars and lighter light-duty trucks be zero-emission 
+vehicles (“ZEVs”). (SR 1191-4, p. 7442). 
+The four tiers of exhaust emission standards, in descending 
+order of emission levels are: (1) Transitional Low-Emission 
+Vehicles (“TLEVs”); (2) Low-Emission Vehicles (“LEVs”); 
+
+
+[PDF page 27]
+l4a 
+(3) Ultra-Low-Emission Vehicles (“ULEVs”); and (4) Zero- 
+Emission Vehicles (“ZEVs”). 
+For each category a set of 
+more stringent emission standards for carbon monoxide, 
+nitrogen oxides and formaldehyde applies. ‘The LEV Pro- 
+gram achieves emission reductions by requiring manufactur- 
+ers to sell progressively cleaner mixes of vehicles over time. 
+The average emissions from the mix of these categories of 
+vehicles produced by a given manufacturer in a given year 
+must meet an overall “fleet average” requirement. Automo- 
+bile manufacturers, under CARB’s regulations, have the 
+flexibility to decide how many vehicles of each type they 
+manufacture and sell in order to meet the fleet average. 
+Additional flexibility is provided through the establishment 
+of a marketable credit system: 
+manufacturers may earn 
+credits if they sell more LEVs than needed to meet the fleet 
+average. 
+b. 
+The Urban Bus Program 
+On February 24, 2000, CARB adopted its Urban Bus Pro- 
+gram (“UBP”) to further reduce air pollution from large 
+urban transit buses. 
+The UBP requires: 
+(i) reductions in 
+particulate matter (“PM”) and oxides of nitrogen (“NOx”) 
+fleet emissions by urban transit bus operators; and (ii) 
+stringent exhaust emission standards applicable to engine 
+manufacturers. 
+To implement the CARB regulation, urban 
+transit bus fleet operators are required to choose between two 
+different compliance paths: (i) a diesel path or (ii) an alterna- 
+tive fuel path. Fleet operators were required to notify CARB 
+of their choice by January 31, 2001. 
+Fleet operators choosing the diesel path may continue to 
+purchase diesel powered buses as long as they comply with 
+emission standards. 
+These emission requirements specify 
+that engines meet an eighty-percent (80%) PM emission 
+reduction by October 2002. For the 2004 model year, CARB 
+established an optional NOx emission standard representing 
+15a 
+an eighty-seven percent (87%) emission‘ decrease relative to 
+the current NOx standard. 
+For the 2007 model year, diesel 
+transit bus engines must comply with a NOx emission 
+standard that would result in a ninety-five percent (95%) 
+emission decreases relative to the current NOx standard. 
+Transit agencies on the diesel path with more than 200 urban 
+buses in their active fleet (on January 31, 2001) must place 
+into service at least three zero-emission buses (“ZEBs”) by 
+July 1, 2003, and operate them for a year as a required 
+demonstration project. 
+From model year 2008 through 
+model year 2015, a minimum fifteen percent (15%) of all 
+new bus purchases or leases must be ZEBs for the transit 
+Agencies on the diesel path. (SR 1192-4, p. 7545). ZEBs 
+must be certified by CARB and are expected to be powered 
+by fuel cells, electricity, 
+or other fuels that result 
+in 
+zero-emission exhaust levels. (SR 1192-5, p. 7546). 
+The Alternative-Fuel Path requires at least eighty-five 
+percent (85%) of new bus purchases to be alternative-fueled. 
+Alternative fuels are defined as compressed natural gas, 
+liquefied natural gas, liquefied petroleum gas, methanol, 
+electricity, fuel cells, or other advanced technologies that do 
+not rely on diesel fuel. (SR 1192-6, p. 7547; SR 1192-2, p. 
+7543). Transit operators would need to introduce ZEBs into 
+their fleets by 2010. 
+Additionally, retrofit requirements to 
+reduce PM emissions from existing buses, are required under 
+both paths. 
+D. 
+The Fleet Rules 
+In response to the need for the South Coast Basin to reduce 
+pollution levels dramatically to achieve its NAAQS, the 
+California state legislature in 1987 adopted Health and Safety 
+Code § 40447.5, which authorizes the SCAQMD to adopt 
+fleet rules in an effort to reduce public exposure to motor 
+vehicle pollution. On June 16, 2000, August 18, 2000, and 
+October 20, 2000, the SCAQMD adopted six rules (referred 
+
+
+[PDF page 28]
+l6a 
+to hereinafter as the “Fleet Rules”), each of which mandates 
+that when certain local operators of fleets purchase or replace 
+their fleet vehicles, they must acquire only those specific 
+motor vehicles that the SCAQMD has designated as meeting 
+its standards and requirements. 
+]. 
+Fleet Rule 1191 
+Rule 1191 requires passenger car, light-duty truck, or me- 
+dium-duty 
+vehicle 
+public 
+fleet 
+operators 
+to acquire 
+low-emitting gasoline or alternative-fueled vehicles? when 
+procuring or leasing these vehicles in the District. The Rule 
+applies to all government agencies and any special districts 
+with 15 or more on-road light and medium-duty vehicles. 
+Rule 
+1191 
+also contains specified exemptions. 
+(Rule 
+1191(f)) 
+2. 
+Fleet Rule 1192 
+Rule 1192 requires public transit fleet operators to acquire 
+alternative-fuel heavy-duty vehicles‘ when procuring 
+Or 
+leasing vehicles to reduce air toxic and criteria pollutant 
+emissions. This Rule applies to public transit fleets with 15 
+or more public transit vehicle or urban buses, operated by 
+government agencies or operated by private entities under 
+contract to government agencies, that provide passenger 
+3} “Alternative-fueled vehicle” is defined under the Rule as “a 
+vehicle or engine that is not powered by gasoline or diesel fuel and 
+emits hydrocarbon, carbon monoxide, or nitrogen oxides, on an 
+individual basis at least equivalent to or lower than a ULEV based 
+on [C]ARB’s certification data.” (Rule 1191(c)(1)). 
+4 “Alternative-fuel 
+heavy-duty 
+vehicle” 
+is defined 
+as 
+a 
+“heavy-duty vehicle, urban bus or engine that uses compressed or 
+liquified natural gas, propane, methanol, electricity, fuel cells, or 
+other advanced technologies that do not rely on diesel fuel,” and 
+that meets the emissions requirements of the Urban Transit Bus 
+Rule adopted by CARB. (Rule | 192(c)(1)). 
+17a 
+transportation services. The Rule requires these fleet opera- 
+tors to acquire alternative-fuel vehicles when adding or 
+replacing vehicles. Rule 1192 also contains specified exemp- 
+tions. (Rule 1192(e)). 
+3 
+Fleet Rule 1193 
+Rule 1193 requires public and private solid waste collec- 
+tion fleet operators to acquire alternative-fuel’ refuse collec- 
+tion heavy-duty vehicles when procuring or leasing these 
+vehicles. 
+The Rule applies to government agencies and 
+private entities that operate solid waste collection fleets with 
+15 or more solid waste collection vehicles. 
+Acquisition of 
+dual-fueled vehicles® is allowed for fleets of 15 or more 
+transfer or rolloff vehicle.’ Rule 1193 also contains specified 
+exemptions. (Rule 1193(e)). 
+4. 
+Fleet Rule 1194 
+Rule 1194 applies to public and private fleet operators of 
+15 or more vehicles that transport passengers from commer- 
+cial airports located in the District. 
+The affected vehicles 
+include taxis, shuttles, and limousines. 
+The Rule requires 
+> Under Rule 1193, “alternative-fuel heavy-duty vehicles” use 
+compressed or liquefied natural gas, liquefied petroleum gas, 
+methanol, electricity, fuel cells, or other advanced technologies 
+that do not rely on diesel fuel. (Rule 1193(c)(1)). 
+© A “dual-fuel heavy duty vehicle” is a “heavy-duty vehicle 
+equipped with a diesel engine that uses an alternative fuel . 
+. 
+. in 
+combination with diesel fuel to enable compression ignition. 
+A 
+dual-fuel engine typically used the alternative fuel to supply 85 
+percent of the total engine fuel requirement.***” 
+(Rule 
+1193(c)(2)). 
+7 A “rolloff vehicle” is “any heavy-duty vehicle used for the 
+express purpose of transporting waste containers such as open 
+boxes or compactors.” (Rule 1193(c)(5)). 
+
+
+[PDF page 29]
+18a 
+passenger car, light-duty truck, medium-duty transit vehicle, 
+and heavy-duty transit vehicle fleet operators to acquire 
+cleaner burning or alternative-fueled vehicles* when procur- 
+ing or leasing these vehicles in the District, unless otherwise 
+exempt. 
+Fleet operators using passenger cars or medium- 
+duty vehicles to provide airport transportation services must 
+purchase a specified percentage of vehicles 
+that meet 
+CARB’s standards for ultra low emission vehicles. 
+Fleet 
+operators that use heavy-duty vehicles must purchase alterna- 
+tive-fuel vehicles. 
+Specified exemptions are provided for 
+under this Rule as well. (Rule 1194(e)). 
+5. 
+Fleet Rule 1186.1 
+Rule 1186.1 requires certain public and private sweeper 
+fleet operators 
+to acquire alternative-fuel 
+or otherwise 
+less-polluting sweepers when purchasing or leasing these 
+vehicles 
+for sweeping operations undertaken by or for 
+governments or governmental agencies in the District’s 
+jurisdiction. Rule 1186.1 also requires government agencies 
+that contract for sweeping services to solicit bids or contract 
+for services that use alternative-fuel sweepers. An “alterna- 
+tive-fuel sweeper” is one with “engine(s) that use compressed 
+or liquefied natural gas, liquefied petroleum gas (propane), 
+methanol, electricity, or fuel cells. 
+Hybrid-electric and 
+dual-fuel technologies that use diesel fuel are not considered 
+alternative-fuel technologies for the purposes of this rule.” 
+(Rule 1186.1(c)(2)). Specified exemptions are also provided 
+for. (Rule 1186.1(f)). 
+6. 
+Fleet Rule 1196 
+Rule 1196 requires public fleet operators of heavy-duty 
+vehicles to acquire alternative-fuel heavy-duty vehicles when 
+8 An “alternative-fueled vehicle” means “a light or medium-duty 
+vehicle, or heavy-duty transit vehicle or engine that is not powered 
+by gasoline or diesel fuel.” (Rule 1194(c)(2)). 
+19a 
+procuring or leasing these vehicles. The Rule applies to all 
+government agencies located in the District and to any 
+special districts such as water, air, sanitation, transit, and 
+school districts, with 15 or more heavy-duty vehicles. These 
+operators must acquire alternative-fuel vehicles, dual-fuel 
+vehicles, or dedicated gasoline vehicles when adding or 
+replacing heavy-duty vehicles. 
+Specified exemptions are 
+provided for under the Rule as well. (Rule 1196(f)). 
+E. 
+Procedural History 
+On November 21, 2000, Plaintiff EMA filed its First 
+Amended Complaint against the SCAQMD Defendants for 
+declaratory and injunctive relief, challenging the constitu- 
+tionality of the Fleet Rules. 
+Specifically, Plaintiff EMA 
+claims the Fleet Rules violate Sections 209 and 177 of the 
+federal Clean Air Act, 42 U.S.C. §§ 7543 and 7507, as well 
+as the Supremacy Clause of the United States Constitution, 
+U.S. Const. Art. V1, cl. 2, and are therefore preempted as a 
+matter of law. On January 17, 2001, Plaintiff-in-Intervention 
+WSPA also brought suit against the SCAQMD Defendants 
+and the Environmental 
+Intervenors 
+for declaratory and 
+injunctive relief, claiming the Fleet Rules violate CAA 
+§§ 209 and 177 and the Supremacy Clause.° 
+On March 23, 2001, Plaintiffs and Defendants filed cross 
+motions for summary judgment. 
+Plaintiffs moved for sum- 
+mary judgment on counts one (1) through six (6) of their 
+respective Complaints.'° 
+On April 20, 2001 
+California 
+9 Plaintiff EMA and Plaintiff-in-Intervention WSPA will herein- 
+after collectively be referred to as “Plaintiffs.” 
+The SCAQMD 
+Defendants 
+and 
+Defendants-in-Intervention 
+Environmental 
+Intervenors will hereinafter collectively be referred to as “Defen- 
+dants.” 
+'0 On July 25, 2001 the parties entered into a stipulated dismissal 
+of count seven (7) of Plaintiff EMA’s First Amended Complaint. 
+
+
+[PDF page 30]
+20a 
+Attorney General Bill Lockyer submitted an amicus curiae 
+brief on behalf of the State of California in support of Defen- 
+dants’ Motions for Summary Judgment and in opposition to 
+Plaintiffs’ Motions for Summary Judgment. 
+The parties have stipulated that this case should be adjudi- 
+cated on the pleadings, as no material factual disputes are at 
+issue. 
+The case turns entirely on the scope of the express 
+preemption provisions of §§ 209 and 177 of the Clean Air 
+Act. 
+After considering the parties’ written and oral argu- 
+ments, the Court issues the following decision: 
+DISCUSSION 
+A. 
+~ 
+CAA § 209(a) 
+Section 209(a) of the Clean Air Act provides: 
+No State or any political subdivision thereof shall adopt 
+or attempt to enforce any standard relating to the con- 
+trol of emissions from new motor vehicles or new mo- 
+tor vehicle engines subject to this part. No State shall 
+require certification, inspection, or any other approval 
+relating to the control of emissions from any new motor 
+vehicle or new motor vehicle engine as condition 
+precedent to the initial retail sale, titling (if any), or reg- 
+istration of such motor vehicle, motor vehicle engine, or 
+equipment. 42 U.S.C. § 7543(a). 
+Plaintiffs argue that the Fleet Rules violate CAA § 209(a) 
+because they constitute “standard{s] relating to the control of 
+emissions from new motor vehicles or new motor vehicle 
+engines.” Plaintiffs also assert that the Fleet Rules establish 
+unlawful conditions precedent to the sale of new motor 
+vehicles or engines. 
+2la 
+The Court does not accept Plaintiffs’ interpretation of the 
+impact of the Fleet Rules. The Rules regulate the purchasing 
+and leasing, not the sale, of vehicles by fleet operators. Fleet 
+operators are required to purchase “cleaner” vehicles when 
+adding or replacing fleet vehicles. The Fleet Rules accept as 
+given the existing CARB vehicle standards; they merely 
+require fleet operators to choose from among the least 
+polluting of CARB-certified, available vehicles. 
+The Rules 
+impose no new emission requirements on manufacturers 
+whatsoever, and therefore do not run afoul of Congress’s 
+purpose behind motor vehicle preemption: 
+namely, the 
+protection of manufacturers against having to build engines 
+in compliance with a multiplicity of standards. See People of 
+State of Cal. ex rel. State 
+Air Resources Bd. v. Department of 
+Navy, 431 F.Supp. 1271, 1285 (N.D.Cal.1977), aff'd by 624 
+F.2d 885 (9th Cir.1980) (“The reasons given for the enact- 
+ment of the preemption provision can be summarized as 
+follows: to protect the manufacturer against having to build 
+engines, which would comply with a multiplicity of stan- 
+dards; to protect the vehicle owner from having to deal with 
+different standards in each state in which he drives; to avoid 
+the unnecessary duplication of federal standards; to avoid 
+“unnecessary expense’ to the owner; and generally to avoid 
+‘chaos’ and ‘confusion.’ ” (internal citations omitted)). 
+Furthermore, the Fleet Rules do not set a “standard relating 
+to the control of emissions.” 
+Rather than imposing any 
+numerical control on new vehicles, the rules regulate the 
+purchase of previously-certified vehicles. 
+Plaintiffs rely 
+primarily on two cases to support their contention that the 
+Fleet Rules constitute unlawful standards: 
+Am. Auto. Mfrs. 
+Ass'n Vv. Cahill, 152 F.3d 196 (2d Cir.1998) and Ass'n of Int'l 
+Auto. Mfrs., Inc. v. Commissioner, 208 F.3d 1 (1st Cir.2000). 
+These cases hold that an attempt to limit the sale of vehicles 
+is preempted. In Cahill and Commissioner, the states of New 
+York and Massachusetts, respectively, adopted California’s 
+emission standards targeting ZEVs. 
+Under the California 
+
+
+[PDF page 31]
+22a 
+regulations, two percent (2%) of all new vehicles certified for 
+sale in California for model years 1998-2000, five percent 
+(5%) for model years 2001-2002, and ten percent (10%) for 
+model year 2003 were required to be ZEVs. 
+California's 
+program was granted a § 209(b) waiver by the E.P.A. in 
+1993, and New York and Massachusetts adopted the program 
+pursuant to CAA § 177.'' Both the Second Circuit in Cahill 
+and the First Circuit in Commissioner held that “the ZEV 
+sales requirement must be considered a standard ‘relating to 
+the control of emissions.”” Cahill, 152 F.3d at 200; Commis- 
+sioner, 208 F.3d at 6. The ZEV program mandated that a 
+specified percentage of cars sold by manufacturers in any 
+\| In Cahill, the state of New York adopted California’s LEV 
+program for light-duty vehicles pursuant to the CAA’s opt-in 
+provision. 
+New York’s classification system, 
+fleet average 
+requirements, and ZEV sales requirements were identical, with one 
+exception, to those of California for model years 1998-2003. That 
+exception concerned medium-duty vehicles, which were included 
+in California’s ZEV requirements but not in New York’s. Addi- 
+tionally, New York maintained the ZEV sales requirement for 
+model years 1998-2002 even after California had abandoned it. 
+The automobile manufacturers associations brought suit to prevent 
+the enforcement of New York’s 1998-2002 ZEV sales require- 
+ment. 
+In Commissioner, 
+automobile manufacturers brought 
+suit 
+against the Massachusetts Department of Environmental Protec- 
+tion, claiming automobile emission standards adopted by the state 
+of Massachusetts were preempted by the CAA. 
+After California 
+repealed its ZEV requirements for the model years 1998-2000, it 
+entered into memoranda of agreements (“MOAs”) with seven 
+major automakers by which the manufacturers agreed to develop 
+ZEV technology and introduce a limited number of ZEVS into the 
+California market. 
+In exchange, California agreed to provide 
+infra-structural support for ZEV implementation. 
+Massachusetts 
+amended its ZEV mandates to reflect the automakers’ obligations 
+under the MOAs, but did not include the reciprocal obligations 
+undertaken by California. 
+23a 
+model year be ZEVs. 
+“The ZEV sales requirement is, 
+therefore, in the nature of a command having a direct effect 
+on the level of emissions, rather than in the nature of a means 
+of enforcing, or testing the effectiveness of, a command.” 
+Cahill, 152 F.3d at 200. 
+It does not follow, however, that a rule regulating the pur- 
+chase of vehicles is such a standard. The Fleet Rules require 
+purchasers to choose from among a subset of previously 
+certified California vehicles. 
+Where a state regulation does 
+not compel manufacturers to meet a new emissions limit, but 
+rather affects the purchase of vehicles, as the Fleet Rules do, 
+that regulation is not a standard. No restriction on the sale of 
+vehicles is present here. 
+Plaintiffs may continue to sell any 
+vehicle which is otherwise certified in California. 
+Furthermore, CAA § 246, 42 U.S.C. § 7586, expressly 
+recognizes that Fleet Rules must be established in areas with 
+particularly high pollution levels, and authorizes restrictions 
+on the purchase of fleet vehicles to meet clean-air standards. 
+Specifically, section 246 requires that “{e]ach state in which 
+there is located all or part of a covered area * * * shall 
+subriit* ** a State implementation plan revision * * * to 
+establish a clean-fuel vehicle program for fleets under this 
+section.” 42 U.S.C. § 7586(a)(1). Section 246 also mandates 
+that “a specified percentage of all new covered fleet vehi- 
+cles * * * purchased by each covered fleet operator in each 
+covered area shall be clean-fuel vehicles and shall use clean 
+alternative fuels. ***” 
+42 U.S.C. § 7586(b). 
+It is not 
+rational to conclude that the CAA would authorize purchas- 
+ing restrictions on the one hand, and prohibit them, as a 
+prohibited adoption of a “standard,” on the other. 
+Additionally, through its Health and Safety Code, Califor- 
+nia has mandated these Rules be enacted by Districts with 
+severe air quality problems. 
+The South Coast Air Basin is 
+the only “extreme” nonattainment area for ozone in the 
+
+
+[PDF page 32]
+24a 
+country. 
+It is classified as a “severe” nonattainment area for 
+particulate matter and has extremely high levels of toxic air 
+pollution throughout the region. The California legislature 
+enacted Health and Safety Code § 40447.5 in response to the 
+need for the South Coast Air Basin to reduce pollution. 
+Section 40447.5 authorizes the District to “[rjequire opera- 
+tors of public and commercial fleet vehicles * * * in the south 
+coast district, when adding vehicles to or replacing vehicles 
+in an existing fleet or purchasing vehicles to form a new 
+fleet, to purchase vehicles which are capable of operating on 
+methanol or other equivalently clean burning alternative fuel 
+and to require that these vehicles be operated, to the maxi- 
+mum extent feasible, on the alternative fuel when operating 
+in the south coast district.” Such state regulations are pre- 
+sumed to be valid. 
+See, e.g., Medtronic, Inc. v. Lohr, 518 
+U.S. 470, 475, 116 S. Ct. 2240, 135 L. Ed. 2d 700 (1996) 
+(stating that the preemption analysis begins with the pre- 
+sumption that local police powers, such as air pollution 
+prevention, are not preempted: “Throughout our history the 
+several states have exercised their police powers to protect 
+the health and safety of their citizens. 
+Because these are 
+‘primarily, and historically, * * * matter(s] of local concern, 
+the ‘States traditionally have had great latitude under their 
+police powers to legislate as to the protection of the * os 
+health * * * of all persons.”’) (internal citations omitted) 
+(cited in Exxon Mobil Corp. v. U.S. Envtl, Prot. Agency, 217 
+F.3d 1246, 1255 (9th Cir.2000)). 
+The Court therefore concludes that the Fleet Rules do not 
+constitute unlawful standards “relating to the control of 
+emissions.” 
+B. 
+Section 177 
+Plaintiffs argue that the Fleet Rules violate CAA § 177, 
+which provides: 
+25a 
+Notwithstanding section 7543(a) of this title, any State 
+which has plan provisions approved under this part may 
+adopt and enforce for any model year standards relating 
+to control of emissions from new motor vehicles or new 
+motor vehicle engines and take such other actions as are 
+referred to in section 7543(a) of this title respecting 
+such vehicles if 4(1) such standards are identical to the 
+California standards 
+for which a waiver has been 
+granted for such model year, and 
+(2) California and such State adopt such standards at 
+least two years before commencement of such model 
+year (as determined by regulations of the Administra- 
+tor). 
+Nothing in this section or in subchapter II of this chap- 
+ter shall be construed as authorizing any such State to 
+prohibit or limit, directly or indirectly, the manufacture 
+or sale of a new motor vehicle or motor vehicle engine 
+that is certified in California as meeting California stan- 
+dards, or to take any action of any kind to create, or 
+have the effect of creating, a motor vehicle or motor 
+vehicle engine different than a motor vehicle or engine 
+certified in California under California standards (a 
+“third vehicle”) or otherwise create such a “third vehi- 
+cle.” 
+42 U.S.C. § 7507. 
+As discussed earlier, CAA § 177 permits states other than 
+California to “piggyback” onto California’s standards if the 
+state’s standards are identical to California standards for 
+which a waiver has been granted for a model year. Section 
+177, however, applies only to non-California “opt-in” states. 
+The statutory language supports this conclusion. 
+After first 
+referring to states that adopt the California standards, section 
+177 declares that “any such state” is subject to certain 
+limitations. 
+The word “such” indicates that the statute is 
+
+
+[PDF page 33]
+26a 
+referring back to the non-California “opt-in” states. 
+Section 
+177 has no application to the right of the District to regulate 
+the purchase of fleet vehicles. 
+Furthermore, Congress’ purpose in enacting § 177 is to 
+prevent states from adopting and enforcing standards in a 
+manner that would create a “third vehicle.” 
+See Motor 
+Vehicle Mfrs. Ass'n, 17 F.3d at 528. Evident in the statutory 
+scheme is Congress’ desire not to burden manufacturers with 
+“myriad state emission regulations.” /d. at 531. 
+Congress 
+restricted states to duplicating either federal or California 
+standards in order “to protect motor vehicle manufacturers 
+from the undue burden of complying with more than two 
+different regulatory schemes.” 
+Am. Auto. Mfrs. Assn V. 
+Comm'r, 998 F.Supp. 10, 13 (D. Mass.1997) (quoting Motor 
+Vehicle Mfrs. Ass'n, 810 F.Supp. at 1339). 
+{Section 177] prevents opt-in states from imposing dif- 
+ferent emission requirements on new vehicles and en- 
+gines that would place an undue burden on manufactur- 
+ers by requiring them to produce materially different 
+new vehicles for sale in such areas. To the extent that a 
+manufacturer could demonstrate that each vehicle leav- 
+ing the assembly line performs at levels to which it was 
+certified, that manufacturers could claim ‘undue bur- 
+den’ if a state that adopted the California standard ap- 
+plied enforcement procedures that would require mate- 
+rials [sic].changes in the manufacture of such vehicles, 
+i.e., production of a third car. 
+Senate Comm. on Pub. Works, 103d Cong., Ist Sess., A 
+Legislative History of the Clean Air Act Amendments of 
+1990, Serial No. 103-38, Vol. 1 at 1022. 
+Therefore, “there 
+can only be two types of cars in this country: 
+‘California’ 
+cars or ‘federal’ cars’. 
+States cannot adopt any other stan- 
+dards which would require automakers to create a ‘third’ 
+car.” Commissioner, 998 F. Supp. at 13. 
+27a 
+The Fleet Rules impose no such “third car” requirement. 
+Rather, they require purchasers to choose from among a 
+subset of previously certified vehicles. Automobile manufac- 
+turers will not be forced to do something more than they 
+already must do. 
+Restricting purchases to the types of 
+engines already approved in California and for which a 
+waiver has been granted will not violate § 177’s “third 
+vehicle” prohibition. Section 177 bans any requirement for a 
+third vehicle, not all requirements intended to reduce motor 
+vehicle emissions. The CAA and its legislative history show 
+that Congress limited the burden upon manufacturers to that 
+of designing and manufacturing two versions of each motor 
+vehicle, and no more. The Fleet Rules may lead to decreased 
+demand for some cars and trucks certified for sale in Califor- 
+nia, but the Rules do not require the manufacturers to build or 
+sell any particular model for this area. The Court concludes, 
+therefore, that even if § 177 were to apply, the Fleet Rules do 
+not run afoul of Congress’ purpose in enacting § 177. 
+Il. 
+CONCLUSION 
+The Court concludes that the Fleet Rules are not preempted 
+by § 209(a) of the Clean Air Act and are a valid exercise of 
+the SCAQMD’s authority. Section 177 does not apply to the 
+District’s Fleet Rules. 
+Plaintiffs’ Motions for Summary 
+Judgment as to counts one through six of their Complaints 
+are denied. Defendants’ Motions for Summary Judgment are 
+granted. 
+IT IS SO ORDERED. 
+
+
+[PDF page 34]
+28a 
+APPENDIX C 
+IN THE UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+No. 01-56688 
+(D.C. No. CV-00-09065-FMC) 
+ENGINE MANUFACTURERS ASSOCIATION, ef al., 
+Plaintiffs-Appellants, 
+SOUTH COAST AIR QUALITY MANAGEMENT DisTRICT, ef al., 
+Defendant:-Appellees. 
+Filed December 11, 2002 
+ORDER 
+Before: GOODWIN, RYMER, and McKEOWN, Cir- 
+cuit Judges. 
+The panel has voted unanimously to deny the petition for 
+rehearing. Judges Rymer and McKeown have voted to deny 
+the petition for rehearing en banc, and Judge Goodwin 
+recommended denial. 
+29a 
+. 
+The full court has been advised of the petition for rehear- 
+ing en banc and no active judge has requested a vote on 
+whether to rehear the matter en banc. Fed.R.App.P.35. 
+The petition for rehearing is DENIED and the petition 
+for rehearing en banc is DENIED. 
+
+
+[PDF page 35]
+30a 
+APPENDIX D 
+IN THE UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+No. 02-16395 
+(D.C. No. CV-F-02-5017 REC/SMS) 
+CENTRAL VALLEY CHRYSLER-PLYMOUTH, INC., ef al., 
+Plaintiffs-Appellees, 
+\ - 
+MICHAEL P. KENNY, 
+Defendant-Appellant. 
+EXCERPT OF BRIEF OF THE UNITED STATES AS 
+AMICUS CURIAE IN SUPPORT OF AFFIRMANCE 
+INTEREST OF THE AMICUS CURIAE 
+As part of the Energy Policy and Conservation Act, Con- 
+gress has mandated federal fuel economy standards. 
+In so 
+doing, Congress also expressly preempted any state laws or 
+regulations relating to fuel economy standards. 
+The United 
+States has a substantial interest in enforcing the federal fuel 
+economy standards and in ensuring that states adhere to the 
+Congressional directive prohibiting them from “adopt[ing]} or 
+enforce[ing]” any “law or regulation related to fuel economy 
+standards or average fuel economy standards for automo- 
+biles.” 49 U.S.C. § 32919(a). 
+3la 
+STATEMENT OF THE ISSUE 
+Whether the provisions of the California’s Zero Vehicle 
+Emission regulations granting credits for hybrid vehicle, if 
+they meet specified criteria, are preempted under 49 U.S.C. 
+§ 32919(a), because the criteria are defined in reference to 
+fuel economy standards. 
+STATEMENT OF THE CASE 
+1. 
+Federal Fuel Economy Standards. 
+a. 
+In the aftermath of the 1973-1974 Arab oil embargo, 
+Congress in 1975 enacted the Energy Policy and Conserva- 
+tion Act (“EPCN”). 
+The EPCA was intended to conserve 
+energy, to increase the supply of fossil fuels in the United 
+States, and to reduce American dependence on foreign oil. 
+See S. Rep. No. 516, 94th Cong., Ist Sess. 116, reprinted in 
+1975 U.S. Code Cong. & Ad. News 1956, 1957. 
+Title [II of the EPCA added a new Title V to the Motor 
+Vehicle Information and Cost Savings Act, introducing a 
+program of mandatory fuel economy standards for passenger 
+cars and light trucks to be implemented by the Department of 
+Transportation. 
+See P.L. 94-163, 89 Stat. 901, codified as 
+amended at 49 U.S.C. § 32901, et seg. For model year 1985, 
+Congress set a 27.5 miles per gallon (“mpg”) fuel economy 
+standard, a figure that would represent an approximate 
+doubling of then-existing average passenger car fuel econ- 
+omy. 49 U.S.C. § 32902(b). Congress authorized the agency 
+to modify the 27.5 mpg standard for a particular model year 
+to the level which it determines is the “maximum feasible 
+average fuel economy level” for that year. 
+49 U.S.C. § 
+32902(a). The statute sets out four criteria for the agency to 
+apply in determining maximum feasible average fuel econ- 
+omy standards. 
+49 U.S.C. § 32902(f). 
+The agency must 
+consider (1) technological feasibility; (2) economic practica- 
+
+
+[PDF page 36]
+32a 
+bility, (3) the effect of other motor vehicle standards on fuel 
+economy, and (4) the need of the Nation to conserve energy. 
+Ibid. 
+The Act does not require that every vehicle, or every 
+model, meet the fuel economy standard for a given model 
+year. The Act requires instead that the average fuel economy 
+level of all of a manufacturer’s passenger cars and light 
+trucks meet the applicable standard. Thus, the fuel economy 
+standard which a manufacturer is required to meet for a given 
+model year is known as the Corporate Average Fuel Econ- 
+omy or “CAFE” standard, and the level which the manufac- 
+turer actually achieves in a given model year is known as the 
+CAFE level. 
+49 U. S.C. § 32902; see, e.g. 67 Fed. Reg. 
+16052 (2002) (establishing the light truck CAFE level for 
+model year 2004). 
+Federal law defines an “automobile” as a “four-wheeled 
+vehicle that is propelled by fuel, or by alternative fuel, 
+manufactured primarily for use on public streets, roads, and 
+highways,” with a gross vehicle weight rating up to 10,000 
+pounds. See 49 U.S.C. § 32901(a)(3). See also 49 C.F.R. § 
+523.3 (defining “automobile” under the CAFE program). 
+Furthermore, 49 U.S.C. § 32901(a)(3) defines “alternative 
+fuel” to include “electricity.” An “alternative fueled auto- 
+mobile” means an automobile that either has a single “dedi- 
+cated” fuel type (such as natural gas or electricity) or is “dual 
+fueled,” meaning that it uses regular fuels such as gasoline as 
+well as an alternative fuel. 
+Jd. at §§ 32901(a)(2)(A) and 
+32901(aX2B). 
+Federal law specifically addresses the manner in which cars 
+running on “alternative fuel” are to be factored into a manu- 
+facturer’s CAFE rating, requiring that the CAFE calculation 
+include all vehicles, including electric vehicles and should 
+include the “equivalent petroleum based fuel economy values 
+33a 
+determined by the Secretary of Energy for various classes of 
+electric vehicles.” 49 U.S.C. § 32904(a)(2)(B). 
+b. In enacting the federal CAFE standards, Congress ex- 
+plicitly and broadly preempted all state laws relating to fuel 
+economy standards: 
+[w]hen an average fuel economy standard prescribed 
+under this chapter is in effect, a State or a political sub- 
+division of a State may not adopt or enforce a law or 
+regulation related to fuel economy standards or average 
+fuel economy standards for automobiles covered by an 
+average fuel economy standard under this chapter. 
+49 U.S.C. § 32919%(a). 
+2. 
+The Clean Air Act. 
+The Clean Air Act (“CAA”) also contains a preemption 
+provision. It provides that “no State or any political subdivi- 
+sion thereof shall adopt or attempt to enforce any standard 
+relating to the control of emissions from new motor vehicles 
+or new motor vehicle engines.” 42 U.S.C. § 7543(a). The 
+CAA, however, permits California to adopt standards for the 
+control of emissions from new motor vehicles that are in the 
+aggregate at least as protective of public health and welfare 
+as federal standards. See 42 U.S.C. § 7543(b). The Admin- 
+istrator of EPA must waive preemption under the Clean Air 
+Act for those state standards, unless the Administrator makes 
+specified findings regarding protectiveness, necessity, and 
+consistency with certain Clean Air Act provisions. /bid. 
+3. 
+California's ZEV Program. 
+The California Air Resources Board first adopted the Zero 
+Emissions Vehicle (“ZEV”) program in 1990 as part of its 
+efforts to regulate exhaust emissions from automobiles. 
+2001-19 Cal. Reg. L. Bull. 204. 
+See 13 Cal. Code Regs. 
+
+
+[PDF page 37]
+34a 
+§ 1962. The regulations originally required large automakers 
+to produce vehicles as a specified percentage of their fleet 
+that produce no exhaust emissions of criteria pollutants or 
+their precursors. Excerpts of Record (“ER”) 364. In the face 
+of questions regarding the feasibility of these goals, the 
+Board repeatedly amended the ZEV regulations, ultimately 
+issuing in 2001 the final rule at issue in this litigation. See 13 
+Cal. Code Regs. § 1962. 
+The rule at issue requires that for model years 2003 through 
+2008, at least 10% of the passenger cars and light-duty trucks 
+produced by a manufacturer and delivered for sale in Cali- 
+fornia must be ZEVs. 
+13 Cal. Code Regs. § 1962(b)(1)(A); 
+ER 367. After that date, the percentage rises incrementally to 
+16% for 2018 and subsequent model years. 
+13 Cal. Code 
+Regs. § 1962(b)(1)(A); ER 367. 
+The regulations contemplate that it would be too costly for 
+manufacturers to meet these standards solely by the produc- 
+tion of pure Zero Emission Vehicles. ER 362-363. Accord- 
+ingly, the regulations allow manufacturers to accrue “ZEV 
+credits” through the production of “Partial Zero Emission 
+Vehicles” or “PZEVs,” and “advanced technology” PZEVs. 
+See 13 Cal. Code Regs. § 1962(c). Automobiles can qualify 
+for an allowance as advanced technology PZEVs “if the 
+manufacturer demonstrates to the reasonable satisfaction of 
+the [State] Executive Officer that the vehicle is equipped 
+with advanced ZEV componentry such as an advanced 
+battery integral to the operation of the vehicle power train or 
+an 
+electric power 
+train.” 
+See 
+13 Cal. Code Regs. 
+§ 1962(c)(4)(B). 
+Gasoline-electric hybrid vehicles can qualify as advanced 
+technology PZEVs—and hence qualify for ZEV credits—but 
+only if they meet one of the alternative standards prescribed 
+in the regulations. See 13 Cal. Code Regs. § 1962(c)(4)(B); 
+ER 403. 
+These include the “Efficiency Method” and the 
+35a 
+“Carbon Dioxide (CO) Reduction Method.” 
+13 Cal. Code 
+Regs. § 1962(c)(4)(B)(1) and (2). 
+a. The Efficiency Method. 
+For a hybrid vehicle to qualify for credits under the “Effi- 
+ciency Method,” the vehicle must achieve a certain level of 
+efficiency as measured by its federal fuel economy rating as 
+compared with the class average. 
+See 13 Cal. Code Regs. 
+§ 1962(c)(4)(B)(2), ER 403. 
+As provided under the Effi- 
+ciency Method, a vehicle’s “Advanced Componentry Allow- 
+ance” is measured through a formula under which its “Cali- 
+fornia Miles Per Equivalent Gallon” is divided by a function 
+of its “Baseline Fuel Economy.” 
+13 Cal. Code Regs. 
+§ 1962(c)(4)(B)(2). 
+* 
+* 
+* 
+4. 
+Proceedings Below. 
+Plaintiffs—General Motors Corporation, Daimler-Chrysler 
+Corporation, 
+and 
+severai 
+California 
+automobile 
+deal- 
+ers—sought to enjoin enforcement of the 2001 regulations, 
+arguing that the regulations fall within the broad preemption 
+of the EPCA. 
+ER 1-15. 
+California argued that its rule 
+permissibly regulates emissions and that the provisions 
+relating to fuel economy standards merely represented some 
+of the options by which manufacturers could comply with the 
+regulatory standards. 
+Plaintiffs filed a motion for a preliminary injunction. ER 
+163-165. 
+After a hearing and extensive briefing, the court 
+granted plaintiffs’ motion. ER 1052-1067. The court found 
+that plaintiffs had demonstrated a “strong likelihood of 
+success on the merits of their claim that the AT PZEV option 
+set forth in the 2001 ZEV amendments is completely pre- 
+empted by [49 U.S.C. § 32919(a)] * * * and that plaintiffs 
+will suffer irreparable injury if the requested preliminary 
+
+
+[PDF page 38]
+36a 
+injunction is not granted because of the very substantial costs 
+of compliance with the 2001 ZEV Amendments.” ER 1066. 
+In holding that plaintiffs were likely to prevail on their 
+preemption claim, the court explained, “{pjlaintiffs have 
+shown that the 2001 ZEV amendments 
+‘relate to’ fuel 
+economy standards because they clearly have the purpose of 
+regulating the fuel economy performance of * * * advanced 
+technology hybrids * * * [that plaintiffs] predict [ ] the 
+industry will sell in California.” ER 1056-1057. The court 
+noted that the specific state regulations incorporate federal 
+fuel economy test procedures, and that qualifying vehicles 
+are credited based upon their fuel consumption as measured 
+using the federal procedure. ER 1057. The court found that 
+the state regulations have the practical effect of regulating 
+fuel economy based on California’s calculation of the ex- 
+pected number of hybrids that would use the advanced 
+technology provision to earn additional credits. 
+The court 
+rejected the State’s argument that the preemption provision 
+should not apply because the State’s requirements are fo- 
+cused on the reduction of emissions, and do not conflict with 
+the objectives of the CAFE provisions. The court explained, 
+“{p]reemption cannot be avoided by intertwining preempted 
+requirements with nonpreempted requirements.” 
+ER 1059. 
+The court also rejected the State’s contention that the avail- 
+ability of other options for obtaining ZEV credits saved from 
+preemption the options linked to fuel economy. 
+ER 
+1060-1061. 
+The court found that options linked to fuel 
+economy would be the lowest cost options available and that 
+the other options did not in fact offer a “viable alternative.” 
+ER 1061. 
+The court then determined that the automakers would suf- 
+fer irreparable injury from enforcernent of the 2001 ZEV 
+rules. The court found that the automakers 
+had shown that 
+would have to spend hundreds of millions of dollars to 
+comply with the 2001 ZEV regulations (accord Cal. Br. 19), 
+37a 
+and that those investments could not be recovered from 
+California due to sovereign immunity. ER 1065. 
+SUMMARY OF ARGUMENT 
+A. In the Energy Policy and Conservation Act, Congress 
+expressly preempted all state laws or regulations “related to 
+fuel economy standards or average fuel economy standards 
+for automobiles covered by an average fuel economy stan- 
+dard under this chapter.” 49 U.S.C. § 32919%a). The phrase 
+“related to” used in a preemption statute “express[es] a broad 
+preemptive purpose,” Morales v. Trans World Airlines, Inc., 
+504 U.S. 374, 378 (1992), and, here, preempts any state 
+statute or regulation “if it has a connection with or reference 
+to” fuel economy standards. 
+FEgelhoff v. Egelhoff ex rel. 
+Breiner, 532 U.S. 141, 147 (2001). 
+Under the “connection with or reference to” standard em- 
+braced wy the Supreme Court, the California regulations at 
+issue here clearly are preempted. 
+Specifically, the regula- 
+tions’ “Efficiency Method,” “CO, Reduction Method,” and 
+“High-Efficiency Allowance” 
+all refer t@ fuel economy 
+ratings and provide credits or allowances based on the level 
+of a vehicle’s fuel economy rating. For example, a threshold 
+fuel economy level must be met to qualify for credits under 
+the “CO, Reduction Method.” 
+Then, once that threshold 
+level is met, the number of credits earned deperids upon the 
+vehicle’s fuel economy rating: the better the fuel economy 
+ratings, the greater the ZEV credits. 
+Because these California regulations directly refer to fuel 
+economy levels, and because manufacturer credits are based 
+on the level of a vehicle’s fuel economy rating, they are 
+preempted under the plain terms of section 32919(a). 
+B. The State argues that these standards are not preempted 
+because manufacturers may also meet ZEV requirements 
+
+
+[PDF page 39]
+38a 
+through various alternative means. 
+The Supreme Court, 
+however, has rejected the notion that a state’s provision of 
+options or even the ability to freely opt out of the state law 
+provision saves the state law from the effects of an express 
+federal preemption statute. See Egelhoff v. Egelhoff ex rel. 
+Breiner, supra. 
+The primary case relied upon by the State, Ray v. Atlantic 
+Richfield Co., 435 U.S. 151 (1978), is not to the contrary. 
+Ray did not involve an express preemption provision, such as 
+the one here, addressing a particular subject that Congress 
+has determined may not be the subject of state regulation. 
+ARGUMENT 
+THE CALIFORNIA 2001 ZEV REGULATIONS ARE 
+PREEMPTED UNDER 49 U.S.C. § 32919%a). 
+A. Article VI of the United States Constitution commands 
+that the laws of the United States “shall be the supreme Law 
+of the Land; * * * any Thing in the Constitution or Laws of 
+any State to the Contrary notwithstanding.” 
+Art. VI, cl. 2. 
+See also McCulloch v. Maryland, 4 Wheat. 316, 427 (1819) 
+(“It is of the very essence of supremacy, to remove all 
+obstacles to its action within its own sphere, and so to modify 
+every power vested in subordinate governments”). Thus, “[a] 
+fundamental principle of the Constitution is that Congress 
+has the power to preempt state law.” 
+Crosby v. National 
+Foreign Trade Council, 530 U.S. 363, 372 (2000). See also 
+Gibbons v. Ogden, 9 Wheat. 1, 211 (1824). “State law may 
+be preempted “by express language in a congressional 
+enactment, 
+* * * by implication from the depth and breadth 
+of a congressional scheme that occupies the legislative 
+field, 
+* * * or by implication 
+because of a conflict with a 
+39a 
+congressional enactment.” Lorillard Tobacco Co. v. Reilly, 
+533 U.S. 525, 540 (2001). 
+In the present case, state law has been preempted by ex- 
+press language in a congressional 
+enactment. The Energy 
+Policy and Conservation Act provides that when a federal 
+fuel economy standard is in effect “a State or a political 
+subdivision of a State may not adopt or enforce a law or 
+regulation related to fuel economy standards or average fuel 
+economy standards for automobiles covered by an average 
+fuel economy standard under this chapter.” 
+49 U.S.C. 
+§ 32919%(a). 
+The phrase “related to” in the statute is broad on its face, 
+and as the Supreme Court has held in interpreting similar 
+language in other preemption statutes, “express[es] a broad 
+preemptive purpose.” Morales v. Trans World Airlines, Inc., 
+504 U.S. 374, 378 (1992) (interpreting the preemption 
+provision of the Airline Deregulation 
+Act, 49 U.S.C. 
+§ 41713); see also American Airlines, Inc. v. Wolens, 513 
+U.S. 219 (1995). 
+In Morales, the statute at issue expressly 
+preempted the States from “enact[ing] or enforc[ing] any 
+law, rule, regulation, 
+standard, or other provision having the 
+force and effect of law relating to rates, routes, or services of 
+any air carrier.” Morales v. Trans World Airlines, Inc., 504 
+U.S. at 383. The Court recognized that the “ordinary mean- 
+ing” of the key phrase “relating to” “ is a broad one—‘to 
+stand in some relation; to have bearing or concern; to pertain; 
+refer; to bring into association with or connection with,’ 
+Black’s Law Dictionary 1158 (Sth ed. 1979)}—and the words 
+thus express a broad preemptive 
+purpose.” /bid. 
+In another context where Congress used similar lan- 
+guage—29 U.S.C. § 1144(a}—preempting all state laws 
+“related to” an ERISA plan—the Supreme Court has ad- 
+dressed the phrase many times and has “observed repeatedly 
+that this broadly worded” language is “clearly expansive.” 
+
+
+[PDF page 40]
+40a 
+Egelhoff v. Egelhoff ex rel. Breiner, 532 U.S. 141, 146 
+(2001). See also Shaw v. Delta Air Lines, Inc., 463 US. 85, 
+96-97 (1983) (the “breadth of [the ERISA provision’ 
+s] 
+preemptive reach is apparent from [its] language”), Metro- 
+politan Life Ins. Co. v. Massachusetts, 471 US. 724, 739 
+(1985) (the “related to” language has a “broad scope”); Pilot 
+Life Ins. Co. v. Dedeaux, 481 US. 41, 46-47, 107 S. Ct. 
+1549, 1552-1553, 95 L. Ed. 2d 39 (1987) (the language has 
+an “expansive sweep,” and must be read as “deliberately 
+expansive”); Ingersoll-Rand Co. v. McClendon, 498 US. 
+133, 
+138 (1990) 
+(the preemption 
+statute 
+is “broadly 
+worded”); FMC Corp. v. Holliday, 498 U.S. 529 58 (1990) 
+(the statute is “conspicuous for its breadth”). 
+In the other contexts where Congress has employed the 
+“related to” language in a preemption provision, the Court 
+has explained that a state statute is preempted “if it has a 
+connection with or reference to such a plan.” Egelhoff, 532 
+U.S. at 147 (quoting Shaw v. Delta Air Lines, Inc., 463 U.S. 
+at 97) (emphasis added). See also Morales v. TWA, 504 U.S. 
+at 384 (adopting the same standard for the Airline Deregula- 
+tion Act preemption provision). 
+Whatever the outer limits of this expansive “related to” 
+language may be, they need not be decided in this case, 
+however, because the preemption provision of the Energy 
+Policy and Conservation Act clearly encompasses the Cali- 
+fornia regulations at issue here. Under the “connection with 
+or reference to” standard embraced by the Supreme Court, 
+there can be no question that the California regulations at 
+issue here are subject to preemption because they expressly 
+speak in “reference to” fuel economy ratings, with regulatory 
+credits for vehicle manufacturers based on the level of the 
+fuel economy rating. 
+This is most evidently the case with the “Efficiency 
+Method,” which allows manufacturers to qualify for ZEV 
+4la 
+credits by producing hybrid vehicles with a federal fuel 
+economy rating at least 30% better than a standard level set 
+by 
+the 
+regulations. 
+See 
+13 
+Cal. 
+Code 
+Regs. 
+§ 1962(c)(4\(B)(2); ER 64-65. 
+The regulations provide 
+regulatory credits for the vehicle manufacturer based solely 
+on comparing the vehicle’s fuel economy ratings, measured 
+using the federal test procedure, to a specified class average 
+fuel economy. 
+Av bettom, the State asks this Court to ignore the statutory 
+laumgguage ad io deduce whether Congress would have 
+wamied (© preempt regulations that establish fuel economy 
+standards for vehicle manufacturers, because they are a part 
+of a regulatory program addressing emissions. As the Su- 
+preme Court has recently observed, however, such “[a] 
+freewheeling judicial inquiry into whether [state law] is in 
+tension with federal objectives would undercut the principle 
+that it is Congress [and federal agencies,] rather than the 
+courts[,) that pre-emp[t] state law.” 
+Geier v. American 
+Honda Motor Co., 529 U.S. at 906 (brackets in original) 
+(quoting Gade v. National Solid Wastes Management Assn., 
+505 U.S. at 111 (Kennedy, J., concurring)). In any event, the 
+“the plain language of the enacted text is the best indicator of 
+[congressional] intent.” 
+Nixon v. United States, 506 U.S. 
+224, 231 (1993). 
+Thus, when construing a preemption 
+statute, a court must “begin with the language employed by 
+Congress and the assumption that the ordinary meaning of 
+that language accurately expresses the legislative purpose.” 
+Morales v. Trans World Airlines, Inc., 504 U.S. at 383 
+(quoting FMC Corp. v. Holliday, 498 U.S. at 56-57). The 
+plain language of section 32919(a) clearly encompasses the 
+regulations at issue in this case. Accordingly, further inquiry 
+into whether Congress would have wanted to preempt the 
+regulations at issue here would be both unnecessary and 
+inappropriate. 
+
+
+[PDF page 41]
+42a 
+Even if California’s intent is to regulate emissions, it can- 
+not escape the effect of the EPCA preemption-provision. The 
+preemption provision contains no exceptions based on the 
+purpose or purposes of a state’s fuel economy regulation. 
+When state regulations by their terms make compliance by 
+the vehicle manufacturer dependent in whole or in part on a 
+vehicle’s fuel economy, as these regulations do, the terms 
+and purpose of the preemption provision are implicated 
+directly. 
+CONCLUSION 
+For the reasons stated above, the judgment of the district 
+court should be affirmed. 
+Respectfully Submitted, 
+ROBERT D. McCALLUM, JR. 
+Assistant Attorney General 
+JOHN K. VINCENT 
+United States Attorney 
+MARK STERN 
+(202) 514-5089 
+ROBERT M. LOEB 
+(202) 514-4332 
+Attorneys, Appellate Staff 
+Civil Division, Room 9126 
+Department of Justice 
+601 D Street, N.W. 
+Washington, D.C. 20530-0001 
+OCTOBER 2002 

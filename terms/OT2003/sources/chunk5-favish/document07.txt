@@ -1,0 +1,2799 @@
+ourt, tS 
+! 
+' 
+
+
+on 
+JUL 1 8 2003 ams | 
+
+
+LICL OF THE CLERK 
+
+
+No. 02-954 
+
+
+ea—a————EEEE————— 
+In the Supreme Court of the Anited States 
+
+
+OFFICE OF INDEPENDENT COUNSEL, PETITIONER 
+
+
+ALLAN J. FAVISH 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+
+
+BRIEF FOR THE PETITIONER 
+
+
+THEODORE B. OLSON 
+Solicitor General 
+Counsel of Record 
+
+
+PETER D. KEISLER 
+Assistant Attorney General 
+
+
+EDWIN S. KNEEDLER 
+Deputy Solicitor General 
+
+
+PATRICIA A. MILLETT 
+Assistant to the Solicitor 
+General 
+
+
+LEONARD SCHAITMAN 
+RORERT M. LOEB 
+Attorneys 
+
+
+Department of Justice 
+Washington, D.C. 20530-0001 
+(202) 514-2217 
+
+
+SSS 
+= —_—_—_—_—_—_—_—_—_—_———————EEEE 
+
+
+QUESTION PRESENTED 
+
+
+The Freedom of Information Act’s Exemption 7(C) 
+protects from disclosure “records or information com- 
+piled for law enforcement purposes” if their produc- 
+tion “could reasonably be expected to constitute an 
+unwarranted invasion of personal privacy.” 5 U.S.C. 
+552(b)(7)(C). The question presented is: 
+
+
+Whether the Office of Independent Counsel properly 
+withheld, under Exemption 7(C), photographs of the 
+body of former Deputy White House Counsel Vincent 
+Foster taken at the scene of his death. 
+
+
+(I) 
+
+
+TABLE OF CONTENTS 
+
+
+Opinions below 
+
+
+Jurisdiction 
+
+
+Statutory provision involved 
+
+
+Statement 
+
+
+Summary of argument 
+
+
+Argument: 
+The Office of Independent Counsel properly withheld 
+photographs of Vincent Foster’s body at his death 
+scene under Exemption 7(C) of the Freedom of 
+Information Act 
+
+
+A. Disclosure of the photographs could reasonably 
+be expected to intrude upon the surving family 
+members’ privacy 
+
+
+1. Protecting against unwarranted intrusions 
+on personal privacy under FOIA has been 
+
+
+a prime concern of Congress 
+2. FOIA’s privacy protection extends to con- 
+trol by close family members over sensitive 
+
+
+~ matters and personal decisions concerning 
+
+
+the death of a loved one 
+« The scope of FOIA’s privacy pro- 
+tection 
+
+
+b. The privacy of surviving family 
+members 
+
+
+B. _ Release of the photographs of Foster's body 
+at the scene of his death would not significantly 
+advance the general public interest in under- 
+
+
+standing governmental activity 
+
+
+1. There is ne general public interest in 
+further probing unsubstantiated or already 
+refuted allegations of government mis- 
+conduct 
+
+
+(III) 
+
+
+i) 
+
+
+1 
+
+
+13 
+
+
+14 
+
+
+14 
+
+
+18 
+
+
+IV 
+
+
+TABLE OF CONTENTS—Continued: Page 
+
+
+2. The public inter eet :n probing Foster's 
+death has been saiisfied by the voluminous 
+disclosures of information already made 
+by the government 41 
+3. The photographs ordered released lack 
+any substantial nexus to the asserted public 
+interest 47 
+
+
+TABLE OF AUTHORITIES 
+
+
+Cases: 
+
+
+Accuracy in Media v. National Park Serv., 194 
+F.3d 120 (D.C. Cir. 1999), cert. denied, 529 U.S. 1111 
+(2000) passim 
+
+Bank of the United States v. Dandridge, 25 U.S. 
+
+65 (1827) 
+
+Bast v. Department of Justice, 655 F.2d 1251 (D.C. 
+Cir. 1981) 
+
+Bauer v. North Fulton Med. Ctr., 517 S.E.2d 240 
+(Ga. Ct. App. 1999) 
+
+Bibles v. Oregon Natural Desert Ass'n, 519 U.S. 355 
+(1997) 
+
+Bodelson v. Denver Pub. Co., 5 P.3d 373 (Colo. Ct. 
+App. 2000) 
+
+Bowen v. FDA, 925 F.2d 225 (9th Cir. 1991) 
+
+Campbell v. Department of Justice, 164 F.3d 20 
+D.C. Cir. 1998) 
+
+Campus Communications, Inc. v. Earnhardt, 821 
+
+' So. 2d 388 (Fla. Dist. Ct. App. 2002) 
+
+CIA v. Sims, 471 U.S. 159 (1985) 
+
+Coleman v. FBI, 13 F. Supp. 2d 75 (D.D.C. 1998) ........... 
+
+Comaroto. v. Pierce County Med. Exam'rs 
+Office, 43 P.3d 539 (Wash. Ct. App. 2002) 26, 
+
+
+é 
+& 
+
+
+Ss F&F ER BKB B 
+
+
+V 
+Cases—Continued: Page 
+Crawford-El v. Britton, 523 U.S. 574 (1998) 41 
+Department of the Air Force v. Rose, 425 U.S. 
+352 (1976) 15, 20, 48, 50 
+
+
+Department of Justice, Bureau of Alcohol, Tobacco, 
+Firearms & Explosives v. City of Chicago, 123 
+
+
+S. Ct. 1352 (2003) 31 
+Department of Defense v. FLRA, 510 U.S. 487 
+
+(1994) passim 
+Department of Justice v. Julian, 486 U.S. 1 (1988) ........... 14, 40 
+Department of Justice v. Reporters Committee for 
+
+Freedom of the Press, 489 U.S. 749 (1989) .......--0-- passim 
+Department of State v. Ray, 502 U.S. 164 (1991) .......... passim 
+Department of State v. Washington Post Co., 456 
+
+U.S. 595 (1982) 18, 20, 21 
+John Doe Agency v. John Doe Corp., 493 U.S. 146 
+
+(1989) 14, 16, 39 
+Douglas v. Stokes, 149 S.W. 849 (Ky. 1912) 25 
+
+
+Earnhardt v. Volusia County, No. 2001-30373-CICI, 
+2001 WL 992068 (Fla. Cir. Ct. 2001), aff'd, 821 So. 
+
+
+2d 388 (5th Cir. Ct. App. 2002) 24, 30 
+Estate of Medien, In re, 677 N.E. 2d 33 (Ill. App. Ct. 
+
+1997) 28 
+FBI v. Abramson, 456 U.S. 615 (1982) 16 
+FLRA v. Department of Veterans Affairs, 958 F.2d 
+
+503 (2d Cir. 1992) 46 
+Fund for Const. Gov't v. National Archives & Records 
+
+Serv., 656 F.2d 856 (D.C. Cir. 1981) 21,44 
+Galvin v. Freedom of Information Comm'n, 581 
+
+A.2d 64 (Conn. 1986) 26 
+Globe Newspaper Co. v. Chief Med. Examiner, 
+
+533 N.E.2d 1356 (Mass. 1989) ~ 26 
+
+
+Hale v. Department of Justice, 973 F.2d 894 (10th 
+Cir. 1992), vacated and remanded on other grounds, 
+
+
+509 U.S. 918, reinstating judgment in relevant part, 
+2 F.3d 1055 (10th Cir. 1993) 33 
+
+
+VI Vil 
+
+
+25 
+
+43 
+
+547 F.2d 673 (D.C. Cir. 1976) 19 
+Neely v. FBI, 208 F.3d 461 (4th Cir. 2000) oo) 
+22-23 
+
+22 
+
+
+New York Times Co. v. NASA: 
+920 F.2d 1002 (D.C. Cir. 1990) 
+782 F. Supp. 628 (D.D.C. 1991) 
+
+NLRB v. Robbins Tire & Rubber Co., 437 U.S. 214 
+
+
+(1978) 16 
+
+
+Halloran v. Veterans Admin., 874 F.2d 315 (5th Cir. Quinon v. FBI, 86 F.3d 1222 (D.C. Cir. 1996) ............0000 22 
+
+1989) ~ 17,42 Reid v. Pierce County, 961 P.2d 333 (Wash. 1998) .......... 24 
+Halpern v. FBI, 181 F.3d 279 (2d Cir. 1999) 48 SafeCard Servs., Inc. v. SEC, 926 F.2d 1197 (D.C. 
+Herald Co. v. Murray, 136 A.D.2d 954 (N.Y. Ct. Cir. 1991) - 34 
+
+App. 1988) 26 Senate of the Commonwealth of Puerto Rico v. Depart- 
+Katz v. National Arcives & Records Admin., 862 ment of Justice, 823 F.2d 574 (D.C. Cir. 1987) ........ 33, 34, 47 
+
+F. Supp. 476 (D.D.C. 1994), aff'd on other grounds, 68 Sherman v. Department of the Army, 244 F.3d 357 
+
+F.3d 1438 (D.C. Cir. 1995) 23 (5th Cir. 2001) 48 
+Kimberlin v. Department of Justice, 139 F.3d 944 Shuttleworth v. City of Camden, 610 A.2d 903 
+
+(D.C. Cir.), cert. denied, 525 U.S. 891 (1998) 22 (NJ. Super. Ct. 1992) 26 
+King v. United States, 830 F 2d 210 (D.C. Cir. Silets v. Department of Justice, 945 F.2d 227 (7th Cir. 
+
+1987) 32-33 1991), cert. denied, 505 U.S. 1204 (1992) 35 
+KYVY-TV v. United States, 919 F 2d 1465 (10th Stone v. FBI, 727 F. Supp. 662 (D.D.C. 1990), affd, 
+
+Cir. 1990) 34 No. 90-50651990, WL 134431 (D.C. Cir. Sept. 14, 
+Larson v. Chase, 50 N.W. 238 (Minn. 1891) 28 1990) 38, 40, 42 
+L &C Marine Transport v. United States, 740 F.2d Swickard v. Wayne County Med. Examiner, 475 N.W. 
+
+919 (11th Cir. 1984) 24 2d 304 (Mich. 1991) ..... 27 
+Lesar v. Department of Justice, 636 F 2d 472 (D.C. Swidler & Berlin v. United States, 524 U.S. 399 
+
+Cir. 1980) 22, 23 (1998) : 32 
+Louisville & N.R. Co. v. Wilson, 51 S.E. 24 (Ga. 1905) .. 28 Time, Inc. v. Firestone, 424 U.S. 448 (1976) 21 
+Manna v. Department of Justice, 51 F.3d 1158 (3d United States v. Armstrong, 517 U.S. 456 (1996) .......... 7 38 
+
+Cir.), cert. denied, 516 U.S. 975 (1995) 34 United States v. Chemical Found., Inc., 272 U.S. 1 
+Marzen v. Department of Health & Human Servs., (1926) . 38 
+McCambridge v. City of Little Rock, 766 S.W.2d 909 Vaughn v. Rosen, 484 F.2d 820 (D.C. Cir. 1973), 
+
+(Ark. 1989) cert. denied, 415 U.S. 977 (1974) 7 
+Miller v. Bell, 661 F.2d 623 (7th Cir. 1981), cert. Weinberger v. Catholic Action, 454 U.S. 139 (1981) ........ 14 
+
+denied, 456 U.S. 960 (1982) Whalen v. Roe, 429 U.S. 589 (1977) 19 
+National Parks & Conservation Ass'n v. Kleppe, Whitehair v. Highland Memory Gardens, Inc., 
+
+327 S.E.2d 438 (W. Va. 1985) 28 
+
+
+Vill 
+
+
+Statutes and regulations: 
+Act of July 4, 1966, Pub. L. No. 89-487, § 3(e), 
+80 Stat. 250 (1966) 
+Freedom of Information Act , 5 U.S.C. 522 
+
+5 U.S.C. 552 
+
+5 U.S.C. 552(b)(6) 
+
+
+5 U.S.C. 552(b)(7)(A) 
+5 U.S.C. 552(b)(7) 
+5 U.S.C. 552(b)(7)(C) 
+Independent Counsel Reauthorization Act, 
+
+
+1994, 28 U.S.C. 591 et seq. 
+28 U.S.C. 594(k\(1) 
+28 U.S.C. 599 
+
+
+Alaska Stat. § 12.65.020(b) (2003) 
+
+
+Cal. Civ. Proc. Code § 129 (West 2002) 
+Del. Code Ann. title 29, § 1002(d)(15) (1997) 
+2001 Fla. Laws ch. 2001-2, § 2 
+Fla. Stat. Ann. § 406.135 (West 2002) 
+Ga. Code Ann. § 45-16-27 (2003) 
+Ind. Code Ann. § 26-2-14-10 (Michie 2003) 
+Iowa Code Ann. § 22.7(41) (2001) 
+La. Rev. Stat. 44:19 (Supp. 2003) 
+Mass. Gen. Laws. ch. 38, § 2, para. 8 (2003) 
+Me. Rev. Stat. Ann. title 22, § 3022(8) (West Supp. 
+
+2002) 
+Minn. Stat. § 13.83 (2002) 
+N.H. Rev. Stat. Ann. 611-A:8(IV) (2003) 
+N.Y. County Law § 677(3)(b) (McKinney 2008) ............. canes 
+2003 N.D. Law 384 
+Okla. Stat. title 51, § 24A.5(1)(d) (2002) 
+Or. Rev. Stat. § 146.035(S) (2003) 
+R.I. Gen. Laws §§ 23-3-11 to 3-23(a) (2002) 
+S.C. Code Ann. § 17-5-535A (Supp. 2002) 
+Tex. Code Crim. Proc. Ann. Art. 49.25(11) (2008) ............. 
+Utah Code Ann. § 26-4-174 (2003) 
+Wash. Rev. Code § 68.50.105 (1997) 
+
+
+SSSSSSSSRSSS BSSSSVSSRSwaae i 
+
+
+IX 
+
+
+Statutes and regulations—Continued: 
+W. Va. Code § 61-12-10 (2003) 
+28 C.F.R.: 
+
+
+Pt. 600 
+Section 603.1 
+Miscellaneous: 
+Associated Press, Rapist’s Request for Photos Prompts, 
+Bill (May 29, 20003) ms 
+Attorney General's Memorandum on the 1974 
+Amendments to the Freedom of Information Act 
+(Feb. 1975) 
+Attorney General’s Memorandum on the 1986 
+Amendments to the Freedom of Information Act 
+(Dec. 1987) 
+Attorney General’s Memorandum on the Public 
+information Section of the Administrative Pro- 
+cedure Act (June 1967) 
+A. Scott Berg, Lindbergh, 273 (1998) 
+Robert B. Fiske, Jr., Report of the Independent 
+Counsel: In re Vincent W. Foster, Jr. (June 30, 
+1994) 
+H.R. Rep. No. 1497, 89th Cong., 2d Sess. (1966) .........-0000+ 
+Hearings Relating to Madison Guaranty S&L, and 
+the Whitewater Development Corp. — Washington, 
+D.C. Phase: On Death of Vincent W. Foster, Jr., 
+Before the Sen. Banking, Housing & Urban Affairs 
+Comm. 108 Cong., 2d Sess. (July 29, 1994): 
+
+
+Vol. 1 3, 
+
+
+ES ss 
+
+
+16 
+
+
+15, 18, 19 
+
+
+SSSSSsas 
+
+
+X 
+Miscellaneous—Continued: Page 
+http://www.lindberghkidnappinghoax.com/body.htm] ...... 26 
+http://www.whyaretheydead.net/lisa-mcpherson/ 
+autopsy 30 
+H.R. Rep. No. 1497, 89th Cong., 2d Sess. (1966) ............... 14 
+
+
+Maurice Lamm, The Jewish way In Death and Mourning 
+(2000) 23 
+Nev. Atty. Gen. Op. 82-12 (June 15, 1982) 27 
+Restatement (Second) of Torts (1979) 28 
+Right to Publicize or Commercially Exploit Deceased 
+Person’s Name or Likeness as Inheritable, 10 A.L.R. 
+
+
+4th 1193 (1981) 28 
+S. Rep. No. 813, 89th Cong., Ist Sess. (1965) , 15, 39 
+S. Rep. No. 221, 98th Cong., Ist Sess. (1983) ............. 15, 16, 17 
+S. Rep. No. 433, 108d Cong., 2d Sess. (1995) 37, 43 
+
+
+Subcomm. on Admin. Practice & Procedure of the Sen. 
+
+Comm. on the Judiciary, 93d Cong., 2d Sess., Freedom 
+
+of Information Act Source Book (Comm. Print 
+
+1974) 15, 19 
+Subcomm. on Admin. Practice & Procedure of the 
+, Senate Comm. on the Judiciary, 94th Cong., Ist Sess., 
+
+Freedom of Information Act and Amendments of 
+
+1974 Source Book (Joint Comm. Print 1975) 24 
+Summary Report by William F. Clinger, Jr., Ranking 
+
+Republican, Comm. on Gov't Operations, U.S. 
+
+House of Representatives, on the Death of White 
+
+House Deputy Counsel Vincent W. Foster, Jr. 
+
+(Aug. 12, 1994) 4, 37 
+Kenneth W. Starr, Report on the Death of Vincent 
+
+W. Foster, Jr., by the Office of Independent 
+
+Counsel In Re: Madison Guaranty Savings & Loan 
+
+
+Assoc. (Oct. 1997) 5 
+Webster’s Third New Int'l Dictionary 1804 (1976) ............. 19 
+Samuel Warren & Louis Brandeis, The Right to Privacy, 
+
+4 Harv. L. Rev. 193 (1890) 30 
+
+
+In the Supreme Court of the Gnited States 
+
+
+No. 02-954 
+
+
+OFFICE OF INDEPENDENT COUNSEL, PETITIONER 
+vz. 
+ALLAN J. FAVISH 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+
+
+BRIEF FOR THE PETITIONER 
+
+
+OPINIONS BELOW 
+
+
+The per curiam order of the court of appeals (Pet. 
+App. 1la-3a) is not published in the Federal Reporter, 
+but it is reprinted in 37 Fed. Appx. 863. A prior 
+opinion of the court of appeals in this case (Pet. App. 4a- 
+43a) is reported at 217 F.3d 1168. The orders of the 
+district court (Pet. App. 44a-46a, 47a-62a) are un- 
+reported. 
+
+JURISDICTION 
+
+
+The court of appeals entered its judgment on June 6, 
+2002. The government’s petition for rehearing was 
+denied on August 16, 2002 (Pet. App. 63a-64a). On 
+November 5, 2002, Justice O’Connor extended the time 
+within which to file a petition for a writ of certiorari to 
+and including December 14, 2002. On December 4, 
+2002, Justice O’Connor further extended the time to 
+and including December 20, 2002, and the petition was 
+filed on that date. Certiorari was granted on May 5, 
+2003. This Court has jurisdiction pursuant to 28 U.S.C. 
+1254(1). 
+
+
+(1) 
+
+
+2 
+
+
+STATUTORY PROVISION INVOLVED 
+
+
+Exemption 7(C) of the Freedom of Information Act, 
+Y U.S.C. 552(b)(7)(C), exempts from mandatory dis- 
+closure: 
+
+
+records or information compiled for law enforcement 
+purposes, but only to the extent that the production 
+of such law enforcement records or information 
+* * * (C) could reasonably be expected to consti- 
+tute an unwarranted invasion of personal privacy. 
+
+
+STATEMENT 
+
+
+1. This Freedom of Information Act (FOIA) suit 
+arises from the July 1993 death of Deputy Counsel to 
+the President, Vincent W. Foster, Jr. Foster was found 
+dead in Fort Marcy Park in McLean, Virginia, which is 
+part of the National Park System. The United States 
+Park Police conducted the initial investigation of 
+Foster’s death and took color photographs of the death 
+scene, including ten pictures of Foster’s body. The 
+Park Police investigation concluded that Foster com- 
+mitted suicide. Pet. App. 5a; see also Press Conf. with 
+Deputy Attorney General Philip Heyman. (Aug. 10, 
+1993), reprinted in 2 Hearings Relating to Madison 
+Guaranty S&L, and the Whitewater Dev. 
+Corp.—Washington, DC Phase: On Death of Vincent 
+W. Foster, Jr., Before the Senate Comm. on Banking, 
+Housing & Urban Affairs, 103d Cong., 2d Sess. 1848 
+(1994) (Death of Vincent Foster Hearings). The FBI 
+reached the same conclusion. Jd. at 1851, 1857, 1860; 
+Pet. App. 5a. 
+
+Two independent counsels also investigated the 
+Foster death, and definitively concluded that Foster 
+committed suicide. In January 1994, Attorney General 
+Reno appointed Robert B. Fiske, Jr., as a special 
+counsel under Department of Justice regulations, see 28 
+
+
+9 6 Re TE Pe 
+
+
+3 
+
+
+C.F.R. Pt. 600, 603.1, with jurisdiction over matters 
+connected with Madison Guaranty Savings and Loan 
+Association and the Whitewater Development Cor- 
+poration. Because of the possible connection between 
+Foster and Whitewater, Independent Counsel Fiske 
+investigated the cause of Foster’s death. See Robert B. 
+Fiske, Jr., Report of the Independent Counsel: In re 
+Vincent W. Foster, Jr. (June 30, 1994) (Fiske Report), 
+reprinted in 1 Death of Vincent Foster Hearings 181- 
+373. That investigation included interviews with ap- 
+proximately 125 individuals, review of voluminous 
+documentary and photographic evidence, extensive 
+examination of physical evidence, and analysis by a 
+panel of four nationally renowned forensic pathologists 
+who were afforded “unrestricted access to all available 
+investigative and scientific information and materials 
+regarding the death of Vincent W. Foster, Jr.” Jd. at 2- 
+6 & App. 3. Based on the unanimous conclusion of the 
+panel of pathologists, see id. at App. 3, and his con- 
+sideration of all the other evidence, Mr. Fiske concluded 
+that the “overwhelming weight of the evidence compels 
+the conclusion * * * that Vincent Foster committed 
+suicide.” Jd. at 58; see also id. at 6 (“[TJhere is no 
+evidence to the contrary. This conclusion is endorsed 
+by all participants in the investigation, including each 
+member of the Pathologist Panel.”). 
+
+The United States Senate, through its Committee on 
+Banking, Housing, and Urban Affairs, conducted its 
+own inquiry into the Park Police investigation of 
+Foster’s death. After assembling nearly 2700 pages of 
+evidence and testimony from individuals involved in 
+the investigation, see 1 & 2 Death of Vincent Foster 
+Hearings, supra, the Senate Committee issued a 54- 
+page report in which it concluded, without dissent, that 
+“(t]he evidence overwhelmingly supports the conclusion 
+
+
+4 
+
+
+of the Park Police that on July 20, 1993, Mr. Foster died 
+in Fort Marcy Park from a self-inflicted gun shot wound 
+to the upper palate of his mouth.” S. Rep. No. 433, 103d 
+Cong., 2d Sess. 4 (1995); see also 1 Death of Vincent 
+Foster Hearings 38-39 (statement of Sen. Hatch) 
+(“There is absolutely no credible evidence to contradict 
+the Fiske Report’s conclusion that Vincent Foster took 
+his own life and it happened at Fort Marcy Park. There 
+is no credible evidence to the contrary. I suspect con- 
+spiracy theorists will always differ with this conclusion 
+and little this Committee does is going to muffle 
+their speculation.”). An investigation in the House of 
+Representatives, led by Representative William 
+Clinger, Jr., the Ranking Minority Member of the 
+House Committee on Government Operations, similarly 
+concluded that “all available facts lead to the undeni- 
+able conclusion that Vincent W. Foster, Jr. took his own 
+life in Fort Marcy Park, Virginia on July 20, 1993.” 
+Summary Report by William F. Clinger, Jr., Ranking 
+Republican, House Comm. on Gov’t Operations, on the 
+Death of White House Deputy Counsel Vincent W. 
+Foster, Jr. 6 (Aug. 12, 1994) (Clinger Report). 
+Following enactment of the Independent Counsel 
+Reauthorization Act in June 1994, 28 U.S.C. 591 et seq., 
+the Special Division of the District of Columbia Circuit 
+appointed Kenneth W. Starr as Independent Counsel 
+charged with investigating the Madison Guaranty 
+Savings and Loan matter.’ As part of that investi- 
+
+
+1 The Independent Counsel provisions of the Act expired on 
+June 30, 1999, 28 U.S.C. 599, but the Act permits continuation of 
+the Office of Independent Counsel to resolve any pending matters 
+until the Independent Counsel “determines such matters have 
+been completed,” ibid. The Office has now concluded all of its 
+investigations and is completing tasks necessary to close the office, 
+including transferring its records to the Archivist, 28 U.S.C. 
+594(k)(1). 
+
+
+5 
+
+
+gation, Mr. Starr conducted a fresh inquiry into the 
+death of Vincent Foster. See Kenneth W. Starr, Report 
+on the Death of Vincent W. Foster, Jr., by the Office of 
+Independent Counsel In re: Madison Guaranty Sav- 
+ings & Loan Assoc. (Oct. 1997) (Starr Report), re- 
+printed in J.A. 97- 212. The Independent Counsel, with 
+the assistance of an expert pathologist, forensic scien- 
+tists, an experienced suicidologist, and numerous ex- 
+pert homicide investigators, reviewed all of the avail- 
+able forensic, scientific, physical, and documentary 
+evidence. J.A 102-103, 110-115. After a lengthy and 
+thorough investigation, which included convening a 
+grand jury (J.A. 102), Mr. Starr filed a 114-page report 
+that, “based on all of the available evidence, which is 
+considerable, * * * agrees with the conclusion reached 
+by every official entity that has examined the issue: 
+Mr. Foster committed suicide by gunshot in Fort Marcy 
+Park on July 20, 1993.” J.A. 212; see also J.A. 103 (“(T]o 
+a 100% degree of medical certainty, the death of Vin- 
+cent Foster was a suicide. No plausible evidence has 
+been presented to support any other conclusion.”) 
+(quoting Dr. Alan Berman). 
+
+2. Respondent Favish (respondent) filed a FOIA re- 
+quest with the Office of Independent Counsel for color 
+copies of the ten death-scene photographs of Foster. 
+J.A. 43-46. The request also sought a large number of 
+other photographs related to the investigation of 
+Foster’s death. Ibid. When the Office of Independent 
+Counsel declined to release the photographs due to its 
+pending investigation, J.A. 47-48, 51-52, respondent. 
+filed suit in the Central District of California.’ Follow- 
+
+
+2 FOIA Exemption 7(A) authorizes the withholding of law 
+enforcement records the production of which “could reasonably be 
+expected to interfere with [law] enforcement proceedings,” 5 
+U.S.C. 552(b)(7)(A). 
+
+
+6 
+
+
+ing publication of the Independent Counsel’s report on 
+his investigation into Foster’s death, the Office released 
+118 photographs to respondent. Pet. App. 6a, 48a; J.A. 
+59, 62-67. The Office continued to assert Exemption 
+7(C) to withhold the death-scene photographs. J.A. 71- 
+72 (concluding that release of the photographs “would 
+cause Mr. Foster’s surviving family members a great 
+deal of anguish well beyond that which they have 
+already suffered, and thus would constitute an unwar- 
+ranted invasion of their personal privacy”). 
+
+a. On cross-motions for summary judgment, the 
+district court sustained the government’s invocation of 
+Exemption 7(C) with respect to the death-scene 
+photographs. Pet. App. 47a-62a. The court explained 
+that the public interest asserted by respondent—that of 
+“ensuring that the [Office of Independent Counsel] 
+conducted a proper and thorough investigation”—“is 
+lessened because of the exhaustive investigation that 
+has already occurred regarding Foster’s death,” id. at 
+58a. The court further held that respondent failed to 
+“sufficiently explain{] how the disclosure of these 
+photographs will illuminate any deficiencies of the 
+[Independent Counsel] investigation.” Jd. at 59a. The 
+district court therefore concluded that the family’s 
+privacy interest outweighed the public interest in 
+disclosure of the photographs. Ibid.’ 
+
+b. A divided court of appeals reversed and re- 
+manded. Pet. App. 4a-43a. The court agreed with 
+every other circuit court to address the question that 
+“the personal privacy” protected by Exemption 7(C) 
+“extends to the memory of the deceased held by those 
+tied closely to the deceased by blood or love.” Id. at 
+
+
+3 The district court ordered release of a photograph of Foster’s 
+eyeglasses at the death scene, and the Office of Independent 
+Counsel complied with that order. Pet. App. 59a-60a. 
+
+
+ia toatl Tm ig it Ae ae 
+
+
+7 
+
+
+13a. With respect to the public interest in disclosure 
+that would be necessary to overcome that privacy 
+interest, however, the Ninth Circuit held that 
+respondent’s interest in probing “how the [Office of 
+Independent Counsel] conducted its investigation of 
+Foster’s death” sufficed, because respondent sought to 
+examine “what [his] government is up to.” Jd. at 10a- 
+lla. Evidence or knowledge of “misfeasance by the 
+agency,” the court declared, is not necessary, 
+regardless of how many “other agencies have engaged 
+in similar investigations” already. Jd. at lla. The court 
+remanded the case for the district court to review the 
+photographs in camera and balance “the effect of their 
+release on the privacy of the Foster family against the 
+public benefit to be obtained by their release.” Jd. at 
+14a. 
+
+Judge Pregerson agreed with the majority that 
+Exemption 7(C) protects the privacy interests of sur- 
+viving family members, Pet. App. 14a, but in a lengthy 
+dissent disagreed with the majority’s analysis of the 
+public interest in disclosure and its remand of the case 
+for further proceedings, id. at 14a-43a. Judge Pre- 
+gerson reasoned that the government’s Vaughn index‘ 
+was sufficiently detailed to make a remand for in 
+camera review unnecessary, id. at 18a-22a, and that the 
+“pain and anguish” that respondent concedes the 
+Foster family would suffer, id. at 35a, outweighs the 
+public interest in obtaining the photographs to facilitate 
+a sixth investigation into the cause of Foster’s death, id. 
+at 38a-42a. Judge Pregerson also noted that, although 
+respondent alleges that the investigation was “grossly 
+incomplete and untrustworthy,” id. at 38a, he “has 
+made no showing that anyone connected with the 
+
+
+* See Vaughn v. Rosen, 484 F.2d 820 (D.C. Cir. 1973), cert. 
+denied, 415 U.S. 977 (1974). 
+
+
+8 
+
+
+(Independent Counsel’s] investigations—including Mr. 
+Starr—engaged in wrongful conduct, [or] failed in his or 
+her official duties,” ibid. Finally, like the district court, 
+Judge Pregerson could find no nexus between dis- 
+closure of the photographs and advancement of the 
+asserted public interest, because respondent failed to 
+demonstrate that the “photographs at issue will shed 
+any light on the integrity of their investigations, the 
+nature of the [Office of Independent Counsel’s] conduct, 
+or the correctness of its conclusions.” [bid. 
+
+3. a. On remand, the district court ordered release 
+of five of the ten photographs, Pet. App. 44a-46a, 
+including one photograph of a gun in Foster’s hand that 
+had been published previously by Time magazine, id. at 
+45a; see also 1 C.A. E.R. 170-171. 
+
+The government filed a motion for reconsideration, 
+and Foster’s widow and sister moved to intervene to 
+oppose disclosure. J.A. 9. Foster’s widow, Lisa Foster 
+Moody, submitted a declaration in which she explained 
+that Foster’s “death and the manner in which he died 
+totally devastated our family” and that, “[i]f these 
+photographs are released, we will again be thrust in the 
+public eye and forced to endure the pain and invasion of 
+privacy all over again.” J.A. 90. She further explained 
+that the family has tried to “deal{] with our grief in 
+private and * * * [the privacy we have sought to 
+maintain has been our salvation.” J.A. 91. She also 
+described the impact that disclosure of the photographs 
+would have on her and her children: “I did not even 
+open Vince’s casket for fear of seeing him distorted by 
+the autopsy. I surely cannot bear seeing him lying on 
+the ground in Fort Marcy Park with blood stains on 
+him.” Ibid. Disclosure of the photographs, she con- 
+tinued, would “cause us no end of pain and sorrow,” 
+especially if “my children hav[e] to see pictures of their 
+
+
+a a 
+
+
+9 
+
+
+dead father on the nightly news, on the Internet and on 
+the supermarket shelves.” J.A. 92. 
+
+Sheila Foster Anthony, Foster’s sister, also submit- 
+ted a declaration discussing the intrusiveness of the 
+“barrage” of media coverage that has persisted since 
+Foster’s death, and how reporters and “[cjonspiracy 
+theorists” have “harassed my grieving family in unbe- 
+lievably insensitive ways.” J.A. 93-94. She explained 
+that the “family was horrified and devastated by the 
+photograph leaked to the press and published on a na- 
+tional television network of Vince’s dear dead hand 
+holding the gun he used to kill himself.” J.A. 94. She 
+further expressed her “fear” that release of the photo- 
+graphs would result in their publication on the Internet 
+and would “subject my family to more public scrutiny.” 
+J.A. 95. “The horror,” she continued, “of actually seeing 
+Vince’s dead body and bloody face and shirt would un- 
+doubtedly cause me extreme mental anguish * * * 
+[and] would only bring more agony to my family.” Jbid. 
+Anthony concluded by “implor{ing] the Court to do all it 
+can to protect our family, but particularly Vince’s chil- 
+dren and his 86 year old mother, from further invasion 
+and the distressing events that surely would result 
+from release of these photographs.” J.A. 96. 
+
+The district court granted the family members’ 
+motion to intervene, but declined to alter or amend its 
+ruling. J.A. 10. 
+
+b. In a one-sentence, unpublished disposition, the 
+court of appeals affirmed the district court’s judgment 
+insofar as it sustained the withholding of five of the 
+photographs and required the release of four others. 
+Pet. App. la-2a. The court held, however, that one 
+photograph ordered released by the district court—of 
+Foster’s body, as seen by looking down from the top 
+of the berm of the slope where his body lay—had 
+
+
+10 
+
+
+been properly withheld by the Office of Independent 
+Counsel. Jd. at 2a. The four photographs ordered 
+released include one that shows Foster’s right hand 
+holding the gun, two of Foster’s right shoulder and the 
+right side of his torso, and one of the top of Foster’s 
+head through heavy foliage. Jd. at 45a. None of the 
+photographs ordered released depicts Foster’s face or 
+the bullet wounds. See id. at 45a-46a. 
+
+Judge Pregerson again dissented on the ground that 
+the nine “never-before-released” photographs were 
+properly withheld under Exemption 7(C). Pet. App. 3a.° 
+
+
+SUMMARY OF ARGUMENT 
+
+
+Exemption 7(C) of the Freedom of Information Act 
+strikes a calibrated balance between the public’s right 
+to understand the operations and activities of govern- 
+ment and the privacy interests of individuals in the 
+vast amounts of personal information that are stored 
+in government files. The Ninth Circuit’s judgment 
+ordering the public release of law enforcement photo- 
+graphs of Vincent Foster’s dead body at the scene of his 
+suicide ignores that balance, by equating the public 
+interest in disclosure with one individual’s personal 
+disbelief and distrust of the government. | 
+
+A. This Court’s cases have established that the per- 
+sonal privacy protected by FOIA exceeds constitutional 
+and common-law conceptions and includes personal 
+interests both in avoiding unwanted public attention 
+and emotional disquiet, and in controlling the dissemi- 
+nation of personal information that was provided or 
+collected for a particularized and limited governmental 
+use. The release of photographic or similar records of a 
+loved one’s dead body or of that person in the throes 
+
+
+5 Judge Pregerson agreed with the ordered release of the one 
+photograph published by Time magazine. Pet. App. 3a. 
+
+
+11 
+
+
+of death implicates precisely those types of privacy 
+interests in surviving family members. When the gov- 
+ernment takes or obtains images of persons either im- 
+mediately before or after their death, it does so for 
+specific purposes, such as law enforcement, accident 
+investigations, or as an adjunct to military or intelli- 
+gence operations. There is no well-established tradition 
+of public access to such materials. Quite the contrary, 
+many jurisdictions affirmatively prohibit or restrict 
+public access to such photographs. Furthermore, the 
+government’s release of photographs of a loved one’s 
+dead body can reasonably be expected to cause sub- 
+stantial emotional upset and disruption of peace of mind 
+for family members, as is powerfully documented by 
+the declarations of Foster’s family members. Tradition 
+and culture, as well as the law, have long left to close 
+family members the control over display of the 
+deceased’s body. FOIA does not empower any curious 
+individual to trump those family choices. 
+
+B. That powerful privacy interest is not offset by any 
+discernible public interest in disclosure of Foster's 
+death-scene photographs. The Ninth Circuit concluded 
+that it was sufficient that respondent articulated a 
+theory of governmental conspiracy or misfeasance that, 
+“if believed,” would reveal governmental misconduct of 
+interest to the public. That standard is wrong for three 
+reasons. 
+
+First, this case stands as a testament both to the ease 
+with which allegations of governmental misconduct can 
+be leveled and the longevity that they can acquire. 
+Five investigations conducted by officials in the Execu- 
+tive and Legislative Branches, as well as two Indepen- 
+dent Counsels, have unanimously concluded—without 
+dissent—that Vincent Foster committed suicide. Four 
+of those investigations probed not just Foster’s death, 
+
+
+12 
+
+
+but also the conduct of the Park Police investigation in 
+and of itself. Those investigations, moreover, have 
+considered, addressed, and rejected the theories pro- 
+pounded by respondent. FOIA’s carefully crafted pro- 
+tection of personal privacy would be rendered an empty 
+promise if it could be overcome by little more than an 
+idiosyncratic distrust of government or the creative 
+spawning of conspiracy theories by any one FOIA 
+requester. Instead, consistent with the presumption of 
+legitimacy long accorded to government records and 
+official conduct, FOIA requests asserting a public 
+interest only in uncovering hypothesized governmental 
+misconduct must substantiate their allegations with 
+new (not already refuted), credible, and objectively 
+reasonable grounds for believing that misconduct 
+occurred. 
+
+Second, even where a FOIA requester makes such a 
+showing, this Court’s cases establish that the public 
+interest in disclosure must be evaluated in light of the 
+amount of information already in the public domain. In 
+this case, five expert investigations have resulted in the 
+disclosure of thousands of pages of evidence and analy- 
+sis and more than 100 photographs associated with the 
+suicide. Dozens of pathology, forensic, and law enforce- 
+ment experts have asked and answered the questions 
+and theories propounded by respondent, and their con- 
+clusions have been unanimous. The test under Exemp- 
+tion 7(C) is not whether there is a slim prospect that 
+release of the photographs would quell respondent’s 
+persistent, personal speculation. It is whether the 
+public interest would be significantly advanced by dis- 
+closing these additional, highly intrusive details of 
+Foster’s death. In light of all of the information already 
+disclosed and the investigations already undertaken, 
+the contribution that disclosure of the photographs 
+
+
+See ae ee ee 
+
+
+ee 
+
+
+13 
+
+
+would make to an informed public is marginal, if not 
+nonexistent. 
+
+Finally, the photographs ordered released bear no 
+substantial nexus to the public interest that respondent 
+asserts. They reveal only Foster’s death image; they 
+show nothing directly about the Office of Independent 
+Counsel, which did not take the photographs and was 
+not involved in the investigation until months later. 
+Nor do the photographs ordered released, which show 
+Foster’s shoulder, arm, and torso, cast any light on 
+whether Foster shot himself in the mouth or neck. 
+Respondent’s personal desire to see for himself, in ad- 
+dition to all of the evidence already available to him, 
+what Foster looked like immediately after his suicide 
+cannot be equated with the general public interest in 
+knowing that the government investigations were 
+thorough and accurate in their conclusions. That latter 
+interest, which is the only relevant public interest 
+under Exemption 7(C), has been fully served. Further 
+private probing, which could come only at enormous 
+expense to the surviving family members, is unwar- 
+ranted. 
+
+
+ARGUMENT 
+
+
+THE OFFICE OF INDEPENDENT COUNSEL PRO- 
+PERLY WITHHELD PHOTOGRAPHS OF VINCENT 
+FOSTER’S BODY AT HIS DEATH SCENE UNDER 
+EXEMPTION 7(C) OF THE FREEDOM OF INFOR- 
+MATION ACT 
+
+
+In applying Exemption 7(C) of the Freedom of 
+Information Act (FOIA), 5 U.S.C. 552(b)(7)(C), courts 
+must first determine whether the records at issue were 
+“compiled for law enforcement purposes,” 5 U.S.C. 
+552(b)(7). In this case, there is no dispute that the 
+photographs at issue are law enforcement records. 
+They were taken by law enforcement officials at the 
+
+
+14 
+
+
+scene of a death for the purpose of investigating the 
+cause of death. See J.A. 87. Accordingly, the applic- 
+ability of Exemption 7(C) turns upon weighing the 
+public interest in disclosure of the documents against 
+the invasion of privacy that disclosure would esuse. 
+Department of Justice v. Reporters Committee for 
+Freedom of the Press, 489 U.S. 749, 762 (1989). Because 
+disclosure of the death-scene photographs would in- 
+trude significantly on the privacy of the Foster family 
+without measurably advancing the general public 
+interest in understanding governmental activity, the 
+photographs are exempt from disclosure under FOIA. 
+A. Disclosure Of The Photographs Could Reasonably 
+Be Expected To Intrude Upon The Surviving 
+Family Members’ Privacy 
+1. Protecting Against Unwarranted Intrusions On 
+Personal Privacy Under FOIA Has Been A Prime 
+Concern Of Congress 
+In enacting the FOIA, 5 U.S.C. 552, Congress “bal- 
+ance[d] the public’s need for access to official informa- 
+tion with the Government’s need for confidentiality.” 
+Weinberger v. Catholic Action, 454 U.S. 139, 144 (1981). 
+While FOIA generally calls for “broad disclosure of 
+Government records,” Congress also “realized that 
+legitimate governmental and private interests could be 
+harmed by release of certain types of information.” 
+Department of Justice v. Julian, 486 U.S. 1, 8 (1988) 
+(quotation marks omitted). Because “public disclosure 
+is not always in the public interest,” Congress “pro- 
+vided that agency records may be withheld” if they fall 
+within one of the Act’s nine exemptions. CJA v. Sims, 
+471 U.S. 159, 166-167 (1985). Those exemptions “are in- 
+tended to have meaningful reach and application.” John 
+Doe Agency v. John Doe Corp., 493 U.S. 146, 152 (1989). 
+
+
+15 
+
+
+Congress was aware, in particular, that vast amounts 
+of personal information about individuals routinely 
+accumulate in government records. See, e.g., H.R. Rep. 
+No. 1497, 89th Cong., 2d Sess. (1966), reprinted in 
+Subcomm. on Admin. Practice & Procedure of the 
+Senate Comm. on the Judiciary, 98d Cong., 2d Sess., 
+Freedom of Information Act Source Book 32 (Comm. 
+Print 1974) (1974 Source Book) (a number of agencies 
+“have great quantities of files containing intimate de- 
+tails about millions of citizens”). As a consequence, the 
+two “vital and deeply held commitments in our 
+democratic system * * * [of] privacy and the right to 
+know{]” could “inevitably impinge one against another.” 
+Attorney General’s Memorandum on the Public 
+Information Section of the Admin. Procedure Act at iii 
+(June 1967) (1967 Attorney General Mem.). In response 
+to that problem, “[a]t the same time that a broad 
+philosophy of ‘freedom of information’” was enacted 
+into law, Congress sought to “protect certain equally 
+important rights of privacy with respect to certain 
+information in Government files.” S. Rep. No. 813, 89th 
+Cong., 1st Sess. 3 (1965) (quoted in Department of the 
+Air Force v. Rose, 425 U.S. 352, 372 n.9 (1976)); see also 
+S. Rep. No. 221, 98th Cong., Ist Sess. 21 (1983) (“Since 
+passage of the FOIA in 1966, Congress has recognized 
+the need to balance an open government philosophy 
+against legitimate concerns for the privacy of in- 
+dividuals.”). 
+
+To that end, two of FOIA’s nine exemptions are di- 
+rected specifically to protecting the privacy of personal 
+information in government records. The broadest 
+protection for privacy under the FOIA is provided by 
+Exemption 7(C), which is at issue in the present case. 
+That provision exempts from the government’s general 
+duty of disclosure “records or information compiled for 
+
+
+16 
+
+
+law enforcement purposes” if their production “could 
+reasonably be expected to constitute an unwarranted 
+invasion of personal privacy.” 5 U.S.C. 552(b)(7)(C). 
+
+As originally enacted in 1966, Exemption 7 protected 
+“investigatory files compiled for law enforcement 
+purposes except to the extent available by law to a 
+private party.” Act of July 4, 1966, Pub. L. No. 89-487, 
+§ 3(e), 80 Stat. 251. Because courts often construed it 
+as a blanket exemption for all law enforcement records, 
+Congress amended Exemption 7 in 1974 to specify that 
+only certain classes of sensitive law enforcement 
+material should be exempt from disclosure. NLRB v. 
+Robbins Tire & Rubber Co., 437 U.S. 214, 230 (1978). 
+Accordingly, “[aJs amended, Exemption 7 requires the 
+Government to demonstrate that a record is ‘com- 
+piled for law enforcement purposes’ and that disclosure 
+would effectuate one or more of the six specified 
+harms.” John Doe Agency, 493 U.S. at 156; see also 
+FBI v. Abramson, 456 U.S. 615, 622 (1982). 
+
+In 1986, Congress significantly broadened the scope 
+of Exemption 7(C) to ensure that the protection of 
+privacy it affords would not be construed in an “overly 
+formalistic way.” S. Rep. No. 221, 98th Cong., 1st Sess. 
+22 (1983).° Before the 1986 amendment, the govern- 
+ment was required to prove that the invasion of the 
+privacy interest at stake “would” be “unwarranted.” 
+The 1986 amendment supplied a more flexible standard. 
+
+
+6 Because the 1986 revision was enacted through a floor amend- 
+ment to the Anti-Drug Abuse Act of 1986, there are no contem- 
+poraneous committee reports to consult. However, the 1983 
+Senate Report on the virtually identical amendments (S. Rep. No. 
+221, supra) has been cited by this Court and others as providing 
+helpful guidance in construing the 1986 amendments. See Re- 
+porters Committee, 489 U.S. at 777 n.22; Attorney General’s 
+Memorandum on the 1986 Amendments to the Freedom of Infor- 
+mation Act 4 & nn.6-7 (Dec. 1987). 
+
+
+ee ok 
+
+
+ed SY I 
+
+
+‘res 
+
+
+WIPE Pts st F 
+
+
+17 
+
+
+See Reporters Committee, 489 U.S. at 756 n.9. In an 
+effort to ease the government’s burden in protecting 
+personal information under Exemption 7(C), Congress 
+replaced the phrase “would constitute an unwarranted 
+invasion of personal privacy” with the more flexible and 
+predictive standard of “could reasonably be expected to 
+constitute” an unwarranted invasion of privacy. Jbid.; 
+Halloran v. Veterans Admin., 874 F.2d 315, 319 (5th 
+Cir. 1989). The change was “des 'gned to make it clear 
+that the courts should apply a common sense approach 
+to this balancing test,” and to “eliminate any possibility 
+of an overly literal interpretation” of the exemption. S. 
+Rep. No. 221, supra, at 22. That approach was deemed 
+critical because, by their very nature, law enforcement 
+investigations commonly require officials to collect con- 
+siderable amounts of private information about in- 
+dividuals, whether they are witnesses, victims, or 
+possible suspects. The amendment embodied the judg- 
+ment of Congress that, although “[nJo one questions the 
+value of an informed citizenry; nor should anyone 
+question the government’s obligation to respect the 
+privacy of those same citizens.” Jd. at 3. 
+
+With respect to non-law enforcement records, FOIA 
+Exemption 6 allows the government to withhoid infor- 
+mation contained in “personnel and medical files and 
+similar files” if the disclosure “would constitute a 
+clearly unwarranted invasion of personal privacy.” 5 
+U.S.C. 552(b)(6). Exemption 7(C) “is more protective of 
+privacy than Exemption 6” because the former “applies 
+to any disclosure that ‘could reasonably be expected to 
+constitute’ an invasion of privacy that is ‘unwar- 
+ranted,’” while the latter bars only disclosures “that 
+‘would constitute” an invasion of privacy that is ‘clearly 
+unwarranted.’” Department of Defense v. FLRA, 510 
+U.S. 487, 496-497 n.6 (1994). The two exemptions thus 
+
+
+18 
+
+
+“differ in the magnitude of the public interest that is 
+required to override the respective privacy interests 
+protected by the exemptions,” id. at 497. 
+2. FOIA’s Privacy Protection Extends To Control 
+By Close Family Members Over Sensitive Matters 
+And Personal Decisions Concerning The Death 
+Of A Loved One 
+a. The scope of FOIA’s privacy protection 
+Exemption 7(C) protects against unwarranted in- 
+vasions of “personal privacy.” 5 U.S.C. 552(b)(7)(C). 
+Nothing in the statutory text limits the privacy 
+protected to that of the subject of the requested record. 
+Indeed, since FOIA’s enactment, the privacy exemp- 
+tions have been understood to “includ{[e] members of 
+the family of the person to whom the information 
+pertains.” 1967 Attorney General Mem. 36. Even 
+when Congress narrowed Exemption 7’s scope in 1974 
+by identifying particular categories of information for 
+withholding, the reference to personal privacy in Ex- 
+emption 7(C) was understood to “protect[] relatives or 
+descendants of” persons under investigation, and to 
+factor into the withholding decision the “possible 
+adverse effects upon [the individual] or his family.” 
+Attorney General’s Memorandum on the 1974 Amend- 
+ments to the Freedom of Information Act 9-10 (Feb. 
+1975); see also Department of State v. Ray, 502 U.S. 
+164, 176 (1991) (privacy interest includes embarrass- 
+ment that disclosure could cause for returned Haitian 
+nationals “or their families”). Congress employed the 
+modifier “personal” not to limit the protection to parti- 
+cular individuals, but to restrict it to natural persons 
+rather than corporations or other entities.’ 
+
+
+7 See Department of State v. Washington Post Co., 456 U.S 
+595, 602 n.4 (1982) (“(TJhere are undoubtedly many Government 
+files which contain information not personal to any particular 
+
+
+19 
+
+
+Because FOIA was not intended to afford the general 
+public a right of access to the vast amounts of “infor- 
+mation about private citizens that happens to be in the 
+warehouse of the Government,” Reporters Committee, 
+489 U.S. at 774 (emphasis omitted), this Court has re- 
+fused to adopt a “cramped notion of [the] personal 
+privacy” that FOIA protects, id. at 763.° The Court 
+instead has broadly defined the types of privacy 
+interests protected by Exemptions 6 and 7(C). In Re- 
+porters Committee, the Court held that criminal history 
+records—“rap sheets”—are exempted from disclosure 
+under Exemption 7(C). Jd. at 762-780. In so holding, 
+the Court explained that the privacy interests pro- 
+tected by FOIA are more expansive than tort-law or 
+constitutional conceptions of privacy. Id. at 762 n.13; 
+see also Marzen v. Department of Health & Human 
+Servs., 825 F.2d 1148, 1152 (7th Cir. 1987) (“(T]he 
+privacy interest protected under FOIA extends beyond 
+the common law.”). Exemption 7(C) also protects infor- 
+mation about an individual that is already in the public 
+record, but that is “intended for or restricted to the use 
+of a particular person or group or class of persons” and 
+is “not freely available to the public.” Reporters Com- 
+mittee, 489 U.S. at 763-764 (quoting Webster’s Third 
+New Int’l Dictionary 1804 (1976)). The “practical 
+obscurity” of such information and its “hard-to-obtain” 
+
+
+individual * * *. Information unrelated to any particular person 
+presumably would not satisfy the threshold test” for protection 
+under FOIA’s privacy exemptions.); 1974 Source Book 278; 1967 
+Attorney General Mem. 36-37; Sims v. CIA, 642 F.2d 562, 572 n.47 
+(D.C. Cir. 1980); National Parks & Conservation Ass'n v. Kleppe, 
+547 F.2d 673, 685 n.44 (D.C. Cir. 1976). 
+
+8 See also Whalen v. Roe, 429 U.S. 589, 605 (1977) (“We are not 
+unaware of the threat to privacy implicit in the accumulation of 
+vast amounts of personal information in computerized data banks 
+or other massive government files.”). 
+
+
+20 
+
+
+character creates a FOIA-protected privacy interest 
+against its broad disclosure to the public. Reporters 
+Committee, 489 U.S. at 762, 764.° 
+
+Moreover, “invasion[s]” of privacy that are “unwar- 
+ranted” under FOIA extend beyond intrusions into the 
+home, physical invasions of the body, disruption of 
+mental solitude, and incursions on other archetypically 
+private realms. Under this Court’s cases, privacy 
+includes the right to avoid public embarrassment, har- 
+assment, and the unwanted attention of others. In 
+Reporters Committee, the Court spoke of a “privacy 
+interest in keeping personal facts away from the public 
+eye,” especially matters that otherwise might be 
+“wholly forgotten” due to the passage of time. 489 U.S. 
+at 769. In Ray, the Court recognized that disclosure of 
+the identities of Haitian nationals who had unsuccess- 
+fully attempted to flee to the United States and were 
+returned to Haiti “could subject them or their families 
+to embarrassment in their social and community re- 
+lationships,” 502 U.S. at 176, and that there existed a 
+“privacy interest in protecting these individuals from 
+any retaliatory action” or even attempted “inter- 
+view[s]” by third parties that disclosure might bring 
+about, id. at 177. 
+
+Likewise, in Rose, the Court upheld, under FOIA 
+Exemption 6, the redaction of identifying information 
+about third parties and witnesses from case summaries 
+of honors and ethics hearings held by the United States 
+Air Force Academy. Such redactions, the Court rea- 
+
+
+® See also Department of Defense v. FLRA, 510 U.S. at 497 
+(names and addresses exempt from disclosure); Washington Post, 
+456 U.S. at 600 (FOIA’s protection of privacy is not limited to 
+“highly personal” matters; it includes “information about a parti- 
+cular individual that is not intimate,” such as “place of birth, date 
+of birth, date of marriage, employment history, and comparable 
+data”). 
+
+
+21 
+
+
+soned, promote “privacy values” by protecting the sub- 
+jects of the hearings from “embarrassment, perhaps 
+disgrace,” 425 U.S. at 376-377, due to the revival of 
+“wholly forgotten” past events, id. at 381; see also D- 
+epartment of State v. Washington Post Co., 456 U.S. 
+595, 599 (1982) (“Congress’ primary purpose in enacting 
+Exemption 6 was to protect individuals from the injury 
+and embarrassment that can result from the unneces- 
+sary disclosure of personal information.”). 
+
+Accordingly, FOIA’s definition of “personal privacy” 
+extends to (i) personal information about an individual 
+or a close family member that happens to be ware- 
+housed in government files, (ii) that was intended for or 
+restricted to the use of particular persons, and (iii) the 
+disclosure of which could reasonably be expected to 
+cause embarrassment, emotional upset or anguish, 
+injury, or unwanted public attention for the individual 
+or family members.” 
+
+
+10 Foster's status at the time of his death as a public official does 
+not affect the privacy interests of his surviving family members for 
+three reasons. First, even if Foster were a “public figure,” his 
+children, spouse, siblings, and mother are not, see Time, Inc. v. 
+Firestone, 424 U.S. 448 (1976), and their privacy interests in 
+controlling their loved one’s death image are not diminished by the 
+deceased’s prior occupation. Indeed, arguably his prominence in- 
+creases the likelihood of harassment and unwanted attention for 
+his family members. See Fund for Const. Gov't v. National 
+Archives & Records Serv., 656 F.2d 856, 865 (D.C. Cir. 1981). 
+Second, even public officials maintain legitimate privacy interests 
+protected by FOIA. See, e.g, Department of Defense v. FLRA, 
+510 U.S. at 500-502 (protecting the privacy of civil service em- 
+ployees); Rose, 425 U.S. at 381 (acknowledging privacy interests of 
+Air Force Academy graduates who have remained in the military); 
+New York Times Co. v. NASA, 920 F.2d 1002, 1005 (D.C. Cir. 1990) 
+(en banc) (recognizing privacy interests of NASA astronauts and 
+their families). Even if public officials’ expectations of privacy 
+may be “somewhat diminished,” they “do not surrender all rights 
+to personal privacy when they accept a public appointment.” 
+
+
+22 
+
+
+b. The privacy of surviving family members 
+
+Consistent with this Court’s delineation of the scope 
+of FOIA’s privacy protection, every court of appeals to 
+address the question, including the court of appeals in 
+this case, see Pet. App. 13a, has held both that the 
+privacy interests of close family members survive the 
+death of an individual who is the subject of a govern- 
+mental record, and that the family members’ privacy 
+interests include controlling the images and sensitive 
+events surrounding a loved one’s death. 
+
+Tracking the privacy protection from embarrass- 
+ment, mental distress, and unwanted attention recog- 
+nized by this Court in Reporters Committee, Ray, and 
+Rose, the lower courts’ recognition of survivors’ privacy 
+interests in the images and specific details of a loved 
+one’s death has relied upon the emotional disquiet and 
+intrusion upon the solitude of grieving families that 
+disclosure would cause. In New York Times Co. v. 
+NASA, 782 F. Supp. 628 (D.D.C. 1991), the court sus- 
+tained the withholding under Exemption 6 of an audio- 
+tape of the Space Shuttle Challenger astronauts’ last 
+words because “(e]xposure to the voice of a beloved 
+family member immediately prior to that family 
+member’s death * * * would cause the Challenger 
+families pain,” and disclosure to the general public 
+under FOIA would inflict a “disruption of their peace of 
+mind every time a portion of the tape is played within 
+their hearing.” Jd. at 631-632, on remand from New 
+
+
+Kimberlin v. Department of Justice, 139 F.3d 944, 949 (D.C. Cir.), 
+cert. denied, 525 U.S. 891 (1998) (quoting Quinon v. FBI, 86 F.3d 
+1222, 1230 (D.C. Cir. 1996)); see also Lesar v. Department of 
+Justice, 636 F.2d 472, 487 (D.C. Cir. 1980). Third, respondent has 
+never asserted that disclosure of the photographs would cast 
+relevant light on Foster’s performance of his own duties as Deputy 
+Counsel to the President. See Pet. App. 57a. 
+
+
+23 
+
+
+York Times Co. v. NASA, 920 F.2d 1002, 1005 (D.C. 
+Cir. 1990) (recognizing continuing privacy interests of 
+astronauts and their families). In Katz v. National 
+Archives & Records Admin., 862 F. Supp. 476 (D.D.C. 
+1994), aff’d on other grounds, 68 F.3d 1438 (D.C. Cir. 
+1995), the court held that autopsy X-rays and similar 
+photographs of President Kennedy were exempt from 
+disclosure because their release would cause “additional 
+anguish” to the surviving family, id. at 485. See also 
+Lesar v. Department of Justice, 636 F.2d 472, 487 (D.C. 
+Cir. 1980) (recognizing, with respect to the assassina- 
+tion of Dr. Martin Luther King, Jr., his survivors’ pri- 
+vacy interests in avoiding “annoyance or harassment”). 
+Where family members have religious or cultural objec- 
+tions to the public display of the deceased, disclosure 
+also could inflict a profound spiritual and psychological 
+intrusion on the survivors. See, ¢.g., Maurice Lamm, 
+The Jewish Way in Death and Mourning 29-37 (2000). 
+Indeed, with respect to the very photographs at issue 
+here, the D.C. Circuit held that Exemption 7(C)’s pri- 
+vacy protection embraces “the powerful sense of in- 
+vasion bound to be aroused in close survivors by wan- 
+ton publication of gruesome details of death by vio- 
+lence,” observing that “there seems nothing unnatural 
+in saying that the interest asserted against it by spouse, 
+parents, and children of the deceased is one of privacy.” 
+Accuracy in Media, Inc. v. National Park Serv., 194 
+F.3d 120, 123 (D.C. Cir. 1999), cert. denied, 529 U.S. 
+1111 (2000)." As the Ninth Circuit noted in this case, 
+there is “a zone of privacy in which a spouse, a parent, a 
+child, a brother or a sister preserves the memory of the 
+deceased loved one,” and “{t]o violate that memory is to 
+
+
+'! The D.C. Circuit case involved a request for black-and-white 
+
+
+copies of the photographs, while here respondent seeks the “high- 
+est quality” color copies of the photographs. J.A. 45; Pet. App. 22a. 
+
+
+24 
+
+
+invade the personality of the survivor * * * [and] an 
+aspect of human personality essential to being human, 
+the survivor’s memory of the beloved dead.” Pet. App. 
+13a. In that same vein, Independent Counsel Starr de- 
+clined to include death-scene or autopsy photographs as 
+part of his report “based on traditional privacy con- 
+siderations.” Starr Report, J.A. 116.” 
+While the privacy protection afforded by FOIA is 
+broader than common-law conceptions of privacy, see 
+Reporters Committee, 489 U.S. at 762 n.13, it is note- 
+worthy that several States, under their common law, 
+have recognized a similar right of survivor privacy in 
+the images and other records surrounding the death of 
+a loved one. See, e.g., Campus Comm., Inc. v. Earn- 
+hardt, 821 So. 2d 388, 402 (Fla. Dist. Ct. App. 2002) 
+(“{PJublication of the nude and dissected body of Mr. 
+
+
+12 See also Campbell v. Department of Justice, 164 F.3d 20, 33 
+(D.C. Cir. 1998) (“family-related privacy expectations survive 
+death”); Bowen v. FDA, 925 F.2d 1225, 1228 (9th Cir. 1991) 
+(autopsy reports exempt under FOIA where disclosure would 
+constitute a clearly unwarranted invasion of personal privacy); 
+Marzen, 825 F.2d at 1152, 1154 (family has privacy interest in 
+medical records pertaining to “circumstances surrounding the life 
+and death of Infant Doe,” because their disclosure would reveal 
+“the intimate details connected with the family’s ordeal”); L & C 
+Marine Transp., Lid. v. United States, 740 F.2d 919, 923 (11th Cir. 
+1984) (Exemption 7(C) protects “information about an individual 
+which he could reasonably assert an option to withhold from the 
+public at large because of * * * its possible adverse effects upon 
+himself or his family.”) (quoting Attorney General’s Memorandum 
+on the 1974 Amendments to FOIA, reprinted in Subcomm. on 
+Admin. Practice & Procedure of the Senate Comm. on the Judi- 
+ciary, 94th Cong., Ist Sess., Freedom of Information Act and 
+Amendments of 1974 Source Book 520 (Comm. Print 1975); Cole- 
+man v. FBI, 13 F. Supp. 2d 75, 80 (D.D.C. 1998) (autopsy reports 
+and photographs of the deceased victim are exempt from 
+disclosure under Exemption 7(C) based upon “the privacy in- 
+terests of the victim’s family”). 
+
+
+25 
+
+
+Earnhardt would cause his wife and children pain and 
+sorrow beyond the poor power of our ability to express 
+in words.”), review denied, No. SC02-1635 (Fla. July 1, 
+2003); Earnhardt v. Volusia County, No. 2001-30373- 
+CICI, 2001 WL 992068, at *3 (Fla. Cir. Ct. July 10, 
+2001) (“The publication of a person’s autopsy photo- 
+graphs constitutes a unique, serious, and extraordinar- 
+ily intrusive invasion of the personal privacy of that 
+person’s surviving family members.”; “(E ]}xamination of 
+these autopsy photographs by any means would be an 
+indecent, outrageous, and intolerable invasion, and 
+would cause deep and serious emotional pain, embar- 
+rassment, humiliation and sadness to Dale Earnhardt’s 
+surviving family members.”); Reid v. Pierce County 
+Med. Examiner’s Office, 961 P.2d 333, 338-341 (Wash. 
+1998) (immediate relatives have privacy interest in 
+autopsy photographs because “[wle fail to see how 
+autopsy photographs of the Plaintiffs’ deceased rela- 
+tives do not constitute intimate details of the Plaintiffs’ 
+lives or are not facts Plaintiffs do not wish exposed be- 
+fore the public gaze”); McCambridge v. City of Little 
+Rock, 766 S.W.2d 909, 915 (Ark. 1989) (recognizing valid 
+privacy interest of mother of murder victim in crime- 
+scene photographs, but finding it outweighed by a 
+competing public interest); Douglas v. Stokes, 149 S.W. 
+849 (Ky. 1912) (recognizing parents’ privacy-like 
+interest in photographs of stillborn conjoined twins).” 
+
+
+'8 As the D.C. Circuit explained in rejecting a request for the 
+same death-scene photographs of Vincent Foster, to understand 
+the emotional intrusion on family members’ traditional solitude in 
+the burial and grieving process, “[o)ne has only to think of Lind- 
+bergh’s rage at the photographer who pried open the coffin of his 
+kidnapped son to photograph the remains and peddle the resulting 
+photos.” Accuracy in Media, 194 F.3d at 123. See also A. Scott 
+Berg, Lindbergh 273 (1998). Websites continue to display photo- 
+
+
+26 
+
+
+Consistent with that view, there is no broadly 
+recognized tradition in the United States of public 
+access to autopsy or crime-scene photographs or similar 
+depictions of individuals immediately prior to or in the 
+throes of their death. See, e.g., Comaroto v. Pierce 
+County Med. Examiner’s Office, 43 P.3d 539 (Wash. Ct. 
+App. 2002) (convicted child molester denied access to 
+his victim’s suicide note); Bodelson v. Denver Pub. Co., 
+5 P.3d 373 (Colo. Ct. App. 2000) (restrictions on public 
+inspection and disclosure of autopsy reports, where dis- 
+closure would harm privacy interests of family mem- 
+bers of victims of Columbine school shooting); Shuttle- 
+worth v. City of Camden, 610 A.2d 903 (N.J. Super. Ct. 
+1992) (unlike autopsy reports, autopsy photographs are 
+not public records and thus are not subject to release 
+under state “Right to Know” law; instead, they are 
+subject to possible release under the common law, 
+which balances the parties’ interests), certif. denied, 
+627 A.2d 1135 (N.J. 1992); Globe Newspaper Co. v. Chief 
+Med. Examiner, 533 N.E.2d 1356 (Mass. 1989) (autopsy 
+reports exempt from disclosure); Herald Co. v. Murray, 
+136 A.D.2d 954 (N.Y. App. Div. 1988) (same); Galvin v. 
+Freedom of Info. Comm’n, 518 A.2d 64, 71 (Conn. 1986) 
+(autopsy reports exempted from state freedom of 
+information law, in part because they “could contain 
+information which, if disclosed, might cause 
+embarrassment and unwanted public attention to the 
+relatives of the deceased”)."* 
+
+
+graphs of the murdered child 70 years after his death. See, e.g., 
+httpolfwww lindberghkidnappinghoax com/body bia. 
+
+4Many States have near-absolute exemptions from their 
+freedom of information laws, or similar statutory prohibitions, that 
+speak directly to the release of autopsy reports in full, or autopsy 
+photographs specifically. See Alaska Stat. § 12.65.020 (Michie 
+2002); Del. Code Ann. title 29, § 10002(d)(15) (1997) (absolute pro- 
+hibition on disclosure of records in custody of medical examiner); 
+
+
+<< eee 
+
+
+— 
+
+
+ee eee 
+
+
+27 
+
+
+Those cases and laws grow out of long-established 
+cultural traditions acknowledging familial control over 
+the body and image of the deceased. Few events in 
+life are more profoundly intimate and personal than 
+grieving over and coming to terms with the loss of a 
+loved one. American tradition respects the privacy of 
+the event by affording close family members the right 
+
+
+Ga. Code Ann. § 45-16-27(d) (2002) (prohibiting release of autopsy 
+photographs without written release of next-of-kin); lowa Code 
+Ann. § 22.7(41) (West 2001); La. Rev. Stat. Ann. § 44:19 (West 
+Supp. 2003) (public right of inspection, but no right to reproduce); 
+Me. Rev. Stat. Ann., title 22, § 3022(8) (West Supp. 2002); Mass. 
+Gen. Laws. ch. 38, § 2, para. 8 (2003); Minn. Stat. § 13.83 (2002) 
+(providing for disclosure of only enumerated categories of data on 
+deceased individuals, not including photographs); 82-12 Op. Nev. 
+Atty. Gen. (1982); N.H. Rev. Stat. Ann. § 611-A:8(IV) (2002); 2003 
+N.D. Laws 384; Okla. Stat. title 51, § 24A.5(1)(d) (2002); Or. Rev. 
+Stat. § 146.035(5) (2001); R.I. Gen. Laws §§ 23-3-1(11), 23-3-23(a) 
+(2002) (barring inspection or disclosure of records concerning 
+“death” and “data related [there]to,” unless authorized); S.C. Code 
+Ann. § 17-5-535(A) (Law. Co-op. Supp. 2002) (restricting use of 
+autopsy photographs); Tex. Crim. P. Code Ann. § 49.25(11) (West 
+2003); Utah Code Ann. § 26-4-17(4) (2003); Wash. Rev. Code § 
+68.50.105 (1997). 
+
+Several other States require a court order based upon a 
+showing of good cause, or a similarly heightened showing, to re- 
+lease such material. See Cal. Civ. Proc. Code § 129 (West 1998); 
+Fla. Stat. Ann. § 406.135 (West 2002) (exempting autopsy photo- 
+graphs and videotapes from state freedom of information law and 
+requiring consideration by a court of the “seriousness of the in- 
+trusion into the family’s right to privacy and whether such dis- 
+closure is the least intrusive means available”); Ind. Code Ann. 
+§ 36-2-14-10 (Michie 2003) (requiring deference to privacy in- 
+terests); N.Y. County Law § 677(3)(b) (McKinney 2003); W. Va. 
+Code § 61-12-10 (2003). But see Swickard v. Wayne County Med. 
+Examiner, 475 N.W.2d 304, 310 (Mich. 1991) (autopsy report of 
+judge who committed suicide ordered released because family 
+members only have a protected privacy right where “the disclosed 
+information [would] be highly offensive to a reasonable person and 
+of no legitimate concern to the public”). 
+
+
+28 
+
+
+to decide, consistent with their own religious and moral 
+preferences and any views expressed beforehand by 
+the deceased, whether a loved one’s body will be 
+publicly viewed or not and whether funeral services or 
+disposition of the remains will be public or private. 
+
+Similarly, the bodies of individuals who die in public 
+places are routinely draped to prevent trauma to family 
+members and unwarranted public exposure. In the 
+case at hand, Foster’s widow chose not to open her 
+husband’s casket to view him and further decided to 
+have the casket remain closed throughout the funereal 
+process, for profoundly personal reasons associated 
+with her desire to preserve her memories of her hus- 
+band in life. J.A. 91. FOIA was never intended to 
+wrest control of that decision away from family mem- 
+
+
+15 See Restatement (Second) of Torts § 868 (1979) (one who 
+“prevents [the] proper interment or cremation [of a corpse] is 
+subject to liability to a member of the family of the deceased who is 
+entitled to disposition of the body”); Larson v. Chase, 50 N.W. 238, 
+240 (Minn. 1891) (recognizing the wrong inflicted on survivors by 
+“indignity to the dead”); see also, ¢.g., Whitehair v. Highland 
+Memory Gardens, Inc., 327 S.E.2d 438, 441 (W. Va. 1985) (“The 
+quasi-property rights of the survivors include the right to custody 
+of the body; * * * to have the body treated with decent respect, 
+without outrage or indignity thereto; and to bury or otherwise 
+dispose of the body without interference.”); Bauer v. North Fulton 
+Med. Ctr., Inc., 527 S.E.2d 240, 243 (Ga. Ct. App. 1999) (“{I}n order 
+to respect ‘those sentiments connected with decently disposing of 
+the remains of the departed which furnish one ground of difference 
+between men and brutes,’ * * * this Court has consistently found 
+that a decedent’s next of kin has a personal, quasi-property right in 
+his or her corpse to ensure its proper handling and burial.”) 
+(quoting Louisville & N.R. Co. v. Wilson, 51 S.E. 24 (Ga. 1905)); In 
+re Estate of Medlen, 677 N.E.2d 33, 35-36 (Ill. App. Ct. 1997) (“The 
+nearest relatives of the deceased have a quasi-property right in the 
+body; this right arises out of their duty to bury the dead.”); ef. 
+Right to Publicize or Commercially Exploit Deceased Person's 
+Name or Likeness as Inheritable, 10 A.L.R. 4th 1193 (1981). 
+
+
+errs 
+
+
+ec ee ee 
+
+
+29 
+
+
+bers and into the hands of any curious member of the 
+public. 
+
+The need for such privacy protection is crucial in 
+modern times. Whether in the performance of law 
+enforcement functions, the administration of aviation 
+safety, the execution of military operations, or the 
+exploration of outer space, federal agencies not infre- 
+quently come into possession of photographs, video- 
+tapes, audiotapes, and other records of dead and dying 
+individuals, the public disclosure of which would cause 
+unquestionable pain and anguish for surviving family 
+members. Examples include the videotaped murder of 
+Wall Street Journal reporter Daniel Pearl, the cockpit 
+audiotape of United Airlines Flight 93 that crashed in 
+Pennsylvania on September 11, 2001, videotapes and 
+photographs of soldiers killed in Iraq, photographs and 
+videotapes of the remains of John F. Kennedy, Jr., and 
+records detailing the remains of the Space Shuttle 
+Columbia and Space Shuttle Challenger astronauts. 
+
+Furthermore, because withholding cannot be predi- 
+cated on the identity of the requester, see Reporters 
+Committee, 489 U.S. at 771, it is the privacy interest of 
+surviving family members that allows the government 
+to deny requests by child molesters, rapists, murderers, 
+and other violent felons for photographs and other 
+records of their deceased victims." Due to the exis- 
+tence of websites that specialize in displaying images of 
+dead bodies or that focus on high-profile deaths, the 
+profound intrusion that a FOIA disclosure could inflict 
+
+
+'6 See, e.g., Rapist’s Request for Photos Prompts Bill, Associ- 
+ated Press, May 29, 2003 (convicted rapist obtained investiga- 
+tive photographs of his victim’s genitals), available at http://www. 
+heraldonline.com/24hour/nation/story/902243p6283580c.html; Com- 
+aroto, 43 P.3d at 542-544 (convicted child molester denied access to 
+his victim’s suicide note). The federal government has received 
+comparable FOIA requests from convicts for many years. 
+
+
+30 
+
+
+on the private grieving process of survivors has 
+become, in contemporary times, boundless.” Indeed, in 
+declining to publicize Foster’s death-scene photo- 
+graphs, Independent Counsel Starr noted that the “po- 
+tential for misuse and exploitation of such photographs 
+is both substantial and obvious.” Starr Report, J.A. 116. 
+
+Established tradition and judicial practice thus 
+demonstrate that, like the rap sheets at issue in Re- 
+
+
+17 See, e.g., Earnhardt, 2001 WL 992068, at *3 (listing some 
+websites); http://deathgallery.com (broad collection of pictures 
+ranging from World Trade Center victims, to American soldiers, to 
+celebrities); http://www.drudgereport.com/md323.htm (pictures 
+of American soldiers killed in Iraq); http://whyaretheydead.net/ 
+lisa_mepherson/autopsy/ (pictures of individual who died while in 
+care of the Church of Scientology); http://www.bobaugust.com/ 
+photo.htm (Nicole Brown Simpson crime-scene photograph); 
+http://www.jfklancer.com/aphotos.html (purported autopsy photo- 
+graphs of President Kennedy’s body); http://www.finda death.com 
+(includes crime-scene photographs of Jeffrey Dahmer’s victims). 
+Because websites of this character are sometimes dismantled and 
+reestablished under new names, the URLs may change during the 
+pendency of this case. The fact of such websites’ existence will not. 
+See 2001 Fla. Laws ch. 2001-1, § 2 (legislative findings that “the 
+existence of the World Wide Web and the proliferation of personal 
+computers throughout the world encourages and promotes the 
+wide dissemination of photographs and video and audio recordings 
+24 hours a day and that widespread unauthorized dissemination of 
+autopsy photographs and video and audio recordings would subject 
+the immediate family of the deceased to continuous injury”); cf. 
+Samuel Warren & Louis Brandeis, The Right to Privacy, 4 Harv. 
+L. Rev. 193, 211 (1890) (the law’s protection of privacy must recog- 
+nize technological evolution in such matters as “photographic art”). 
+While respondent’s website is not similarly rife with such gro- 
+tesque displays, the existence of his website, a portion of which is 
+dedicated to the Foster investigation and already displays 4 
+number of photographs from the investigation, enhances the risk 
+that the rhotographs at issue here will be displayed on the 
+Internet. See http://www.allanfavish.com. The photographs that 
+already have been released have been placed on the Internet by 
+others as well. See http://www.fbi cover-up.com. 
+
+
+i a 
+
+
+31 
+
+
+porters Committee, death-scene photographs and other 
+images of the deceased and dying in the possession of 
+the government are “not freely available to the public” 
+and, instead, are “intended for or restricted to the use 
+of a particular person or group or class of persons,” 
+giving affected family members a FOIA-protected pri- 
+vacy interest in restricting “the degree of dissemina- 
+tion.” 489 U.S. at 763-764. Also like the hearing sum- 
+maries at issue in Rose and the rap sheets at issue in 
+Reporters Committee, the “passage of time” since 
+Foster’s death would exacerbate the intrusiveness of 
+releasing the photographs. Id. at 763; see also J.A. 70 
+(“It was determined that the privacy interests are as 
+strong—if not stronger—now than when the records 
+were created.”); cf. Bast v. Department of Justice, 665 
+F.2d 1251, 1255 (D.C. Cir. 1981) (“[RJenewed publicity 
+brings with it a renewed invasion of privacy.”). Dis- 
+closure of such records would inflict the same type of 
+profound emotional invasion and unwanted public 
+attention that this Court has held triggers protection 
+under Exemptions 6 and 7(C). Thus, the Foster 
+family’s privacy interest in these photographs is com- 
+pelling.” 
+
+
+8 In his own petition for a writ of certiorari, respondent has 
+sought this Court’s review of the question whether “a deceased’s 
+surviving family members [have] a privacy interest under the 
+FOIA in photographs of the deceased’s body, when those photo- 
+graphs do not contain any information about those family 
+members.” 02-409 Pet. i, Favish v. Office of Indep. Counsel. A 
+separate petition for writ of certiorari filed by the Foster family 
+members, who are respondents supporting petitioner in this case, 
+also presents a question about the scope of survivor privacy 
+protection under FOIA. 02-599 Pet. i, Anthony v. Favish. At the 
+same time that the government asked the Court to hold the 
+government’s petition in this case pending decision in Department 
+of Justice, Bureau of Alcohol, Tobacco, Firearms & Explosives v. 
+City of Chicago, 123 S. Ct. 1352 (2003), the United States opposed 
+
+
+32 
+
+
+B. Release Of The Photographs Of Foster’s Body At 
+The Scene Of His Death Would Not Significantly 
+Advance The General Public Interest In Under- 
+standing Governmental Activity 
+
+Balanced against that grave intrusion on family 
+
+members’ privacy, disclosure of the photographs of 
+Foster’s body at the scene of his death would not 
+significantly advance any public interest that is cogni- 
+zable under FOIA. In analyzing the public interest side 
+of the Exemption 7(C) balance, the Court must consider 
+the extent to which disclosure of the requested 
+documents would “contribute significantly to public 
+understanding of the operations or activities of the 
+government.” Reporters Committee, 489 U.S. at 775 
+(emphasis added). That is “the only relevant public 
+interest.” Department of Defense v. FLRA, 510 U.S. at 
+497; see also Bibles v. Oregon Natural Desert Ass’n, 519 
+U.S. 355, 355-356 (1997) (per curiam). The requester 
+bears the burden of “identify[ing] with reasonable 
+specificity the public interest that would be served by 
+release.” Hale v. Department of Justice, 973 F.2d 894, 
+900 (10th Cir. 1992), vacated and remanded on other 
+grounds, 509 U.S. 918, reinstating judgment in relevant 
+part, 2 F.3d 1055, 1057 (10th Cir. 1993); King v. 
+
+
+certiorari on both of those questions, due to the absence of any 
+circuit conflict. See 02-954 Pet. 7; 02-409 U.S. Br. in Opp. 5-7; 02- 
+599 U.S. Br. in Opp. 5-7. This Court is now holding both respon- 
+dent’s and the Foster family’s petitions. Because of those pending 
+petitions and because an understanding of the privacy interest at 
+issue helps set the groundwork for analysis of the public interest 
+prong of the Exemption 7(C) analysis, the United States has 
+addressed the survivor privacy issue in this brief. As this case has 
+proceeded solely as a survivor privacy claim, there is no occasion 
+for the Court to decide under what other circumstances privacy 
+interests (whether of the deceased or others) may survive post- 
+mortem. Cf. Swidler & Berlin v. United States, 524 U.S. 399 
+
+
+(1998). 
+
+
+33 
+
+
+Department of Justice, 830 F.2d 210, 234 (D.C. Cir. 
+1987). The requester, moreover, must demonstrate 
+more than just a general public interest in the subject 
+matter of the request. He must show that there is a 
+public interest in the “specific information being 
+withheld.” Senate of the Commonwealth of Puerto Rico 
+v. Department of Justice, 823 F.2d 574, 588 (D.C. Cir. 
+1987) (R. B. Ginsburg, J.). That is because, when a 
+FOIA request “seeks no ‘official information’ about a 
+Government agency, but merely [seeks] records that 
+the Government happens to be storing,” then “the pri- 
+vacy interest protected by Exemption 7(C) is in fact at 
+its apex while the FOIA-based public interest in 
+disclosure is at its nadir.” Reporters Committee, 489 
+U.S. at 780. 
+
+Disclosure of the photographs at issue here would not 
+significantly, or even discernibly, advance any relevant 
+public interest, for three reasons. There is no public 
+interest cognizable under FOIA in investigating unsub- 
+stantiated and repeatedly refuted allegations of govern- 
+mental misconduct; the voluminous disclosures of 
+information already made by the government satisfy 
+any public interest in probing the government’s investi- 
+gation of Foster’s death; and, in any event, the photo- 
+graphs ordered released lack any substantial nexus to 
+the public interest that respondent asserts. 
+
+1. There Is No General Public Interest In Further 
+Probing Unsubstantiated Or Already Refuted 
+Allegations Of Governmental Misconduct 
+
+Respondent has asserted a public interest in 
+uncovering deficiencies in the Independent Counsel’s 
+investigation into Foster’s death. Pet. App. 10a. In 
+particular, respondent asserts that he needs the photo- 
+graphs to pursue personally his own allegations of a 
+government-wide conspiracy to cover up the alleged 
+murder of Foster. See generally Br. in Opp. 6-17. The 
+
+
+34 
+
+
+court of appeals declared that respondent’s allega- 
+tions and speculation of “misfeasance by the agency” 
+amounted to a cognizable public interest under FOIA 
+that was sufficient to outweigh the family’s privacy 
+interests, because respondent sought to examine “what 
+[his] government is up to.” Pet. App. 10a-lla. The 
+Ninth Circuit’s approach conflicts with this Court’s pre- 
+cedent and accords insufficient protection to the pri- 
+vacy interests of the vast number of individuals whose 
+personal information is stored in government files.” 
+
+In Ray, this Court held that unsubstantiated allega- 
+tions of governmental misconduct in monitoring the 
+treatment of returned Haitians would not suffice to 
+overcome privacy interests under FOIA: 
+
+We are also unmoved by respondents’ asserted 
+interest in ascertaining the veracity of the [govern- 
+ment’s] interview reports. There is not a scintilla of 
+evidence, either in the documents themselves or 
+elsewhere in the record, that tends to impugn the 
+integrity of the reports. We generally accord Gov- 
+ernment records and official conduct a presumption 
+of legitimacy. If a totally unsupported suggestion 
+that the interest in finding out whether Government 
+
+
+9 Other courts of appeals have required a more substantial 
+showing by FOIA requesters alleging governmental misfeasance. 
+See Neely v. FBI, 208 F.3d 461, 464 (4th Cir. 2000) (public interest 
+is “negligible” in the absence of a “compelling allegation of agency 
+corruption or illegality”); Accwracy in Media, 194 F.3d at 124 (com- 
+pelling evidence) (following SafeCard Servs., Inc. v. SEC, 926 F.2d 
+1197, 1205-1206 (D.C. Cir. 1991)); Manna v. Department of Justice, 
+51 F.3d 1158, 1166 (3d Cir.) (“proof of misconduct” necessary), cert. 
+denied, 516 U.S. 975 (1995); KTVY-TV v. United States, 919 F.2d 
+1465, 1470 (10th Cir. 1990) (“broad unsupported statement of pos- 
+sible neglect” by government is insufficient to outweigh privacy 
+
+
+concerns); Senate of Puerto Rico, 823 F.2d at 588 (a “general - 
+
+
+interest in getting to the bottom of” an alleged murder conspiracy 
+is “not in itself sufficient to outweigh the privacy concerns”). 
+
+
+35 
+
+
+agents have been telling the truth justified 
+disclosure of private materials, Government agents 
+would have no defense against requests for pro- 
+duction of private information. 
+
+502 U.S. at 179.” 
+
+This case is precisely what Ray warned against. 
+Respondent wants the photographs of Foster at the 
+scene of his death to satisfy himself that Foster was not 
+murdered or to prove that he was. But six pathologists 
+and numerous forensic scientists, law enforcement 
+investigators (not only from the Park Police and the 
+FBI, but also those retained by the Office of Indepen- 
+dent Counsel), a committee of the United States 
+Senate, Members of the House of Representatives, and 
+two Independent Counsels already have studied the 
+matter at length and have wnanimously concluded that 
+Foster committed suicide. And detailed reports of 
+those investigations, explaining their conclusions, al- 
+ready have been released to the public. 
+
+Respondent’s personal interest in the “blowback” and 
+“backspatter” of blood and other morbid matters (see, 
+e.g., Br. in Opp. 7-15) are all fully and comprehensively 
+addressed in those prior investigations by persons who 
+(unlike respondent) are trained experts in pathology 
+and the forensics of murder and suicide. See, e.g., J.A. 
+111 (retention of expert in bloodspatter). As the dis- 
+trict court noted, moreover, each subsequent investi- 
+gation was undertaken for the express purpose of 
+addressing and resolving doubts that had been posited 
+
+
+” See also Silets v. Department of Justice, 945 F.2d 227, 231 
+(7th Cir. 1991) (en banc) (“If we were to require only an assertion 
+of bad faith as opposed to evidence of bad faith, we would send a 
+signal flare to all future litigants to make certain to allege Govern- 
+ment misconduct no matter how unsupported the allegation.”), 
+cert. denied, 505 U.S. 1204 (1992). 
+
+
+36 
+
+
+both about Foster’s death and the predecessor in- 
+quiries. 3/9/98 Tr. 10 (“{TJhere were just literally 
+scores of people out there trying to prove your points; 
+namely, something was amiss here, something was 
+rotten, and none of them did.”); id. at 6-7 (“[AJll [the 
+different investigators] were driven to find a negative 
+aspect of things, not just Mr. Foster dispatching him- 
+self. And despite their demonstrated inclination, they 
+didn’t come up with anything.”)." The pictures that 
+
+
+21 Compare Br. in Opp. 7 (questioning whether gun would have 
+remained in Foster’s hand if he shot himself), with Starr Report, 
+J.A. 141-143 (gun shot residue and indentations on thumb both 
+prove that Foster fired the gun and explain why the gun remained 
+in his hand), Fiske Report 34, 50 (same); compare Br. in Opp. 7 
+(questioning blood spatter patterns), with Starr Report, J.A. 146- 
+148 (analyzing blood spatter patterns and finding them incon- 
+sistent with any theory that the body was moved); compare Br. in 
+Opp. 9 (questioning blood spot on Foster’s neck), with Starr 
+Report, J.A. 133-134 & n.77, 163-164 & n.188 (finding no evidence of 
+neck wound, refuting contrary allegations, and further noting that 
+nie Ge Sine ne Oo ee i ee ae 
+wound theory, as did all six persons attending the autopsy), and 
+Fiske Report 33 n.* (same); compare Br. in Opp. 12 (questioning 
+blood drainage patterns and blood transfer stain on Foster’s face), 
+with Starr Report, J.A. 162-168 (explaining blood flow pattern and 
+transfer stain); compare Br. in Opp. 22 (questioning alleged 
+absence of blood spatter on vegetation), with Starr Report, J.A. 
+158 (finding blood spatter on vegetation); compare Br. in Opp. 23 
+(questioning gun identification), with Starr Report, J.A. 180- 184 
+(explaining basis for concluding that the gun was Foster’s); 
+compare Br. in Opp. 23-24 (questioning whether Foster’s body was 
+dragged), with Starr Report, J.A. 151 (no evidence of dragging); 
+compare Br. in Opp. 22 (discussing witness who claimed to see no 
+gun in Foster’s hand), with Starr Report, J.A. 177-179, 1 Death of 
+Vincent Foster Hearings 391 (Officer John Rolla), and 2 id. at 1587 
+(Officer Renee Apt) (all: discussing limitations on witness’s van- 
+tage point, due to severe slope of hill and heavy foliage), and Fiske 
+Report 30 (witness acknowledges that “because of his position at 
+the top of the berm and the heavy foliage, there could have been a 
+gun in the man’s hand that he did not see”). The Senate Report 
+
+
+37 
+
+
+respondent wants to see to confirm or dispel his own 
+doubts were fully examined by numerous investigators, 
+without a single individual determining that they 
+evidenced a murder. The deviations in preliminary 
+observations and other questions that respondent 
+raises were all probed and were all resolved to the 
+satisfaction of expert investigators.” And all of those 
+investigations came unequivocally to the same con- 
+clusion: Vincent Foster committed suicide. 
+
+The conduct of those investigations by the Park 
+Police, the FBI, the Senate Committee, Members of the 
+House of Representatives, Independent Counsel Fiske, 
+and Independent Counsel Starr—and the integrity of 
+their unanimous outcomes—are entitled to a presump- 
+tion of legitimacy and regularity. Ray, 502 U.S. 179. 
+Under this Court’s cases, that presumption can be 
+overcome only by “clear evidence” of governmental 
+
+
+and the Report by Rep. Clinger also expressly address and refute 
+many of respondent’s theories. See Clinger Report 3-6; S. Rep. No. 
+433, supra, at 9-35. 
+
+2 For example, respondent continues to rely on the tentative 
+observation of one paramedic that he saw what “appeared to be a 
+bullet wound” on Foster’s neck. Br. in Opp. 8. Not only has that 
+paramedic long since recanted his initial impression, Starr Report, 
+J.A. 133-134 n.77, but, as the D.C. Circuit observed, “[wJhen mul- 
+tiple agencies and personnel converge on a complex scene and offer 
+their hurried assessments of details, some variation among all the 
+reports is hardly so shocking as to suggest illegality or deliberate 
+government falsification. Nor does it suggest that the congres- 
+sional or independent counsel inquiries got anything wrong re- 
+garding Foster’s wounds.” Accuracy in Media, 194 F.3d at 124. 
+Indeed, had all of the hundreds of officials and experts involved in 
+every stage of each of the five investigations expressed perfectly 
+harmonized observations and assessments, respondent might have 
+pointed to that wholly unnatural cohesion as evidence of a coordi- 
+nated and well-rehearsed coverup. FOIA’s protection of individual 
+privacy ought not be sacrificed to such win-win conceptions of the 
+public interest. 
+
+
+38 
+
+
+wrongdoing. See, e.g., United States v. Armstrong, 517 
+U.S. 456, 464 (1996); United States v. Chemical Found., 
+Inc., 272 U.S. 1, 14-15 (1926); United States v. Nix, 189 
+U.S. 199, 206 (1903); Bank of the United States v. 
+Dandridge, 25 U.S. 64, 69-70 (1827) (the law “presumes 
+that every man, in his private and official character, 
+does his duty, until the contrary is proved”). 
+
+Within the framework of FOIA, that standard re- 
+quires a FOIA requester to identify new (as opposed to 
+already refuted), credible, and objectively reasonable 
+evidence of misfeasance before an allegation of govern- 
+mental misconduct will rise to the level of a cognizable 
+public interest in disclosure. Requiring such a showing 
+performs the important function of differentiating be- 
+tween a personal insistence on individually examining 
+every detail of every stage of a governmental investi- 
+gation, and the general public interest in ensuring that 
+deaths are properly and reasonably—not obsessively— 
+investigated. Such a distinction is critical because the 
+interests of “someone who has spent many years study- 
+ing every aspect of [a governmental] investigation in 
+great detail * * * and the public interest are not 
+necessarily identical.” Stone v. FBI, 727 F. Supp. 662, 
+667 n.4 (D.D.C. 1990) (withholding information pertain- 
+ing to the investigation of Robert F. Kennedy’s 
+assassination), aff'd, No. 90-5065, 1990 WL 134431 (D.C. 
+Cir. Sept. 14, 1990). After all, “the same bit of new 
+information considered significant by zealous students 
+of the * * * investigation [clould be nothing more 
+than minutiae of little or no value in terms of the public 
+interest.” Ibid. 
+
+It is important to remember, though, that a showing 
+of clear evidence is not needed for every or even most 
+FOIA requests. It need be made only when (i) a FOIA 
+request triggers one of the privacy exemptions, which 
+
+
+~~ 
+
+
+39 
+
+
+entails consideration of the countervailing public in- 
+terest, and (ii) the public interest asserted is an interest 
+in exposing alleged missteps by governmental actors in 
+the presumptively proper execution of their duties. In 
+that context, such a showing is needed to effectuate a 
+“workable balance,” John Doe Corp, 493 U.S. at 157, 
+between the public’s right of access to governmental re- 
+cords when necessary to know “what the Government 
+is up to,” Reporters Committee, 489 U.S. at 780, and the 
+
+“equally important rights of privacy with respect to 
+certain information in Government files,” S. Rep. No. 
+813, supra, at 3.” 
+
+Application of that standard requires reversal of the 
+Ninth Circuit’s judgment. In the face of investigations 
+of a death that are among the most thorough in Ameri- 
+can history, the Ninth Circuit concluded that the 
+results of those five presumptively proper investiga- 
+tions were irrelevant to assessing the public interest. 
+Pet. App. lla. Rather than require clear evidence of 
+governmental misconduct by the Office of Independent 
+Counsel (or any other investigating entity), the Ninth 
+Circuit concluded that third parties’ privacy interests 
+can be overcome by any FOIA requester armed with a 
+theory that, “if believed, would justify his doubts.” Ibid 
+(emphasis added). But Exemption 7(C) required the 
+court of appeals to balance the intrusion into the Foster 
+family’s privacy against the “public interest in [the 
+photographs’] release,” Reporters Committee, 489 U.S. 
+at 762 (emphasis added), not respondent’s “highly- 
+
+
+specialized interests” and “great personal stake in gain- 
+
+
+% Reporters Committee establishes that, when FOIA requests 
+seek law enforcement records that contain personal information 
+about individuals and that provide little or no official information 
+about a federal agency, courts may adopt categorical rules, like the 
+“clear evidence” standard. 489 U.S. at 776-780. 
+
+
+40 
+
+
+ing access to that information,” Stone, 727 F. Supp. at 
+667 n.4; see also Julian, 486 U.S. at 17 (Scalia, J., dis- 
+senting) (“FOIA is not meant to provide documents to 
+particular individuals who have special entitlement to 
+them, but rather to inform the public about agency 
+action.”). In the absence of new (not repeatedly re- 
+futed), reliable, and objectively reasonable evidence of a 
+governmental conspiracy or gross incompetence by all 
+five investigating entities, the public interest in probing 
+Foster’s death and receiving a full report of those 
+investigations has been thoroughly satisfied. 
+
+In support of its contrary approach, the court of 
+appeals invoked “famous cases” in history that “gen- 
+erate controversy, suspicion, and the desire to second 
+guess the authorities,” and concluded that FOIA “es- 
+tablishes a right to look, a right to speculate and argue 
+again.” Pet. App. lla. But this case is not about 
+respondent’s right to persist in his own beliefs or to 
+“speculate and argue.” Jbid.. It is about whether FOIA 
+allows respondent to feed his curiosity with personal 
+information the disclosure of which would inflict 
+anguish on other private individuals. Nor is this case 
+about whether the “authorities” should be second- 
+guessed. It is about whether, given the five prior 
+investigations, the general public has an interest in a 
+sixth guess by respondent. This Court has answered 
+that question: “Mere speculation about hypothetical 
+public benefits cannot outweigh a demonstrably signifi- 
+cant invasion of privacy.” Ray, 502 U.S. at 179.” 
+
+In short, contrary to the Ninth Circuit’s supposition, 
+FOIA does not afford members of the public a single- 
+minded “right to look” (Pet. App. 11a) at ail information 
+
+
+% As the D.C. Circuit concluded, the “likelihood that the photos 
+contradict the statements of all [prior] investigating agencies 
+seems remote.” Accuracy in Media, 194 F.3d at 124. 
+
+
+41 
+
+
+about individuals in governmental records. Quite 
+the contrary, whenever an individual’s interest in 
+“look{ing]” has run up against the privacy interests of 
+third parties, “none of [this Court’s] cases construing 
+the FOIA ha[s] * * * found it appropriate to order a 
+Government agency to honor a FOIA request for infor- 
+mation about a particular private citizen.” R 
+Committee, 489 U.S. at 774-775. The Ninth Circuit’s 
+approach fails to account for the practical reality that 
+allegations of governmental misconduct are “easy to 
+allege and hard to disprove,” Crawford-El vy. Britton 
+523 U.S. 574, 585 (1998). Indeed, some FOIA re- 
+questers have an unlimited capacity to see new indicia 
+of governmental conspiracy or coverup at every turn. 
+Simply asking, as the court of appeals did here, whether 
+such speculation and suspicions, “if believed,” would 
+suggest governmental misconduct—which, by defini- 
+tion, they would—would transform FOIA’s “workable 
+a into an easily circumvented pleading require- 
+ment. 
+
+2. The Public Interest In Probing Foster’s Death Has 
+Been Satiafied By The Voluminous Disclosures Of In- 
+Sormation Already Made By The Government 
+
+Even if the Court were to conclude that there is some 
+remaining public interest in further probing Foster’s 
+death, the court of appeals erred in ordering release of 
+the photographs because their disclosure would not 
+significantly advance that public interest or otherwise 
+reveal the operations or activities of the Office of Inde- 
+pendent Counsel or other governmental actors. 
+
+a. In the first place, the public interest in disclosure 
+of the specific information sought must be measured 
+against the amount of information that is already in the 
+public domain. In Ray, this Court sustained the gov- 
+
+
+‘ ernment’s withholding on privacy grounds of the identi- 
+
+
+——————— a 
+
+
+42 
+
+
+ties of repatriated Haitian refugees who had been inter- 
+viewed by the State Department, reasoning that the 
+“public interest has been adequately served by dis- 
+closure of the redacted interview summaries.” 502 U.S. 
+at 178.” By giving no weight to the enormous volume 
+of information already released by the government, the 
+Ninth Circuit found the public interest requirement to 
+be satisfied by information the disclosure of which could 
+contribute only marginally, if at all, to public under- 
+standing. 
+
+In this instance, the government has already publicly 
+disclosed Foster’s autopsy report; diagrams and 
+sketches of his body, head, and brain from the autopsy; 
+details about his blood tests, the medication he was 
+taking, and information about the state of his stomach 
+
+
+25 Other courts of appeals likewise have discounted the public 
+interest in further disclosures based on the amount of information 
+already in the public domain. See Halloran, 874 F.2d at 324 & n.13 
+(the public interest “in learning about the nature, scope, and 
+results of the [Veterans’ Administration]’s investigation of, and its 
+relationship with, one of its contractors * * * has already been 
+substantially served by the release of the redacted transcripts and 
+the VA’s report on the investigation, from which the full nature 
+and extent of the VA’s actions, as well as whatever the VA learned 
+from its surreptitious recording of the conversations, can be dis- 
+cerned.”); id. at n.13; Marzen, 825 F.2d at 1153-1154 (“While it is 
+true that the circumstances surrounding the life and death of 
+Infant Doe are of substantial public interest, release of the inti- 
+mate details contained in the medical records would not appreci- 
+ably serve the ethical debate since most of the factual material 
+concerning the details of the case, including the final HHS report, 
+are already in the public domain.”); Bast, 665 F.2d at 1255 (“While 
+these are important public interests, we note that they have been 
+served to a large extent by the substantial release of information 
+already made in this case. Thus, it is the incremental advantage to 
+the public of releasing the undisclosed portions of the twelve docu- 
+ments which must be weighed against the invasion of personal 
+privacy.”); Stone, 727 F. Supp. at 666. 
+
+
+43 
+
+
+contents; more than 100 pictures of the gun Foster used 
+and other images from the death scene (such as 
+Foster’s car); descriptions and photographs of the con- 
+tents of Foster’s car; countless descriptions of the body 
+by witnesses and investigating officials; a number of 
+analyses of his psychological state; the results of 
+laboratory analyses of the gun, DNA, blood found at the 
+scene, gunshot residue, and Foster’s clothes and eye- 
+glasses; the depositions and interviews of and communi- 
+cations with countless witnesses, officials, family mem- 
+bers, and friends relevant to the investigation; the 
+contents of a note Foster wrote shortly before his 
+death; and detailed descriptions of Foster’s activities 
+and behavior in the days leading up to his death, down 
+to the contents of his last lunch. Significantly, more- 
+over, the Park Police’s descriptions of the contents of 
+the photographs respondent seeks have been released. 
+2 Death of Vincent Foster Hearings 2112. Independent 
+Counsel Starr published a 114-page report, with a 25- 
+page appendix. See J.A. 97-212; 1 C.A. R.E. 248-273. 
+Independent Counsel Fiske published a 58-page report 
+with 138 pages of appendices. See Fiske Report, supra. 
+The Senate published two volumes—amounting to 2700 
+pages—of evidence and testimony from individuals 
+involved in the investigation, see 1 & 2 Death of 
+Vincent Foster Hearings, supra, and issued its own 54- 
+page report, S. Rep. No. 433, supra. Representative 
+Clinger filed an eight-page report on behalf of the 
+minority members of the House of Representatives’ 
+Government. Operations Committee. 
+
+In short, the records already released “reveal the 
+entire course of the investigation and the facts it un- 
+covered.” Miller v. Bell, 661 F.2d 623, 630-631 (7th Cir. 
+1981) (per curiam), cert. denied, 456 U.S. 960 (1982). 
+The released materials have provided ample opportun- 
+
+
+44 
+
+
+ity for respondent to evaluate and critique the govern- 
+ment’s conduct. The qualitatively distinct injury to 
+Foster’s family that public release of the pictures of his 
+dead body would inflict thus is not outweighed by any 
+measurable, let alone significant, contribution to public 
+understanding or public debate. “[A]ny public interest 
+in pursuing the completeness and adequacy of the 
+investigation beyond this point [is] minimal in the 
+extreme.” Ibid. 
+
+Furthermore, only an artificial and wooden concep- 
+tion of the public interest would always weigh in favor 
+of more disclosure. See Fund for Const. Gov't v. 
+National Archives & Records Serv., 656 F.2d 856, 865 
+n.22 (D.C. Cir. 1981). The more realistic assessment is 
+that, in light of the numerous and lengthy investiga- 
+tions that already have taken place, the vast amount of 
+detailed personal information that already has been 
+disclosed, and society’s (not just the family’s) interest in 
+repose a decade after Foster’s death, the public at large 
+would not consider its interests to be well served by 
+having its government serve as the instrument for 
+reopening the Foster family’s wounds. 
+
+b. FOIA’s “central purpose” is to inform the citi- 
+zenry about “what their government is up to,” and to 
+“ensure that the Government’s activities [are] opened 
+to the sharp eye of public scrutiny.” Reporters Com- 
+mittee, 489 U.S. at 773-774; see also Department of 
+Defense v. FLRA, 510 U.S. at 497 (FOIA’s purpose is to 
+“she[d] light on an agency’s performance of its statu- 
+tory duties’ or otherwise let citizens know ‘what their 
+government is up to.’”). 
+
+The crux of respondent’s argument for disclosure, 
+however, is not that he lacks knowledge of how the 
+Office of Independent Counsel conducted its investi- 
+gation. He knows exactly what the Office did, has seen 
+
+
+45 
+
+
+much of the same evidence, and has devoted consider- 
+able time and hundreds of pages of briefing in this 
+litigation to scrutinizing and critiquing it. Respondent 
+simply disagrees with, or at least is not yet personally 
+satisfied with, the conclusions that the Independent 
+Counsel reached. FOIA’s purpose, however, is not to 
+obviate the persistent disbelief of a few; it is to let the 
+public as a whole know what the government has done 
+and to permit informed debate. Respondent’s filings in 
+this case, not to mention his website and the published 
+books he cites (Br. in Opp. 9), stand as a testament that 
+the public interest in examining both the death of 
+Vincent Foster and the government’s investigations of 
+it “has been adequately served.” Ray, 502 U.S. at 178. 
+
+Furthermore, the photographs themselves reveal 
+nothing directly about the Office of Independent Coun- 
+sel’s activities; they reveal only the tragic consequences 
+of Vincent Foster’s personal conduct. The photo- 
+graphs that respondent seeks thus are not themselves 
+official records or information about the Office of 
+Independent Counsel or its investigation into Foster’s 
+death. Nor does respondent need the photographs to 
+determine whether the government’s collection of 
+photographs at the scene was consistent with proper 
+law enforcement techniques. How many photographs 
+were taken and what aspects of the death scene and 
+Foster’s body were photographed is already a matter of 
+public record. 
+
+To the extent that respondent instead wants the 
+photographs to supplement his own shadow investiga- 
+tion and to buttress his personal interpretation of the 
+
+
+% The photographs were not taken by the Office of Independent 
+Counsel and, indeed, that Office had no involvement in the Foster 
+
+
+investigation until months after the death the photographs depict. 
+
+
+46 
+
+
+evidence surrounding Foster’s death, that is a proposed 
+derivative use of the records sought under FOIA. The 
+photographs themselves do not directly reveal infor- 
+mation about the government itself or “what the 
+Government is up to.” Reporters Committee, 489 U.S. 
+at 780. While the majority in Ray left open the ques- 
+tion whether a derivative use “would ever justify re- 
+lease of information about private individuals,” 502 U.S. 
+at 179 (emphasis added), Justices Scalia and Kennedy 
+concluded that an asserted public interest under FOIA 
+“must be solely upon what the requested information 
+reveals, not upon what it might lead to,” id. at 180 
+(Scalia, J. concurring) (emphasis omitted). More re- 
+cently, in Department of Defense v. FLRA, the Court 
+concluded that a union’s intended derivative use of 
+names and addresses to facilitate collective bargaining 
+was not a cognizable public interest under FOIA. 510 
+U.S. at 497; see also FLRA v. Department of Veterans 
+Affairs, 958 F.2d 503, 512 (2d Cir. 1992) (taking into 
+account all possible derivative uses of information 
+“would inevitably result in the disclosure of virtually all 
+personal information, thereby effectively eviscerating 
+the protections of privacy provided by [the FOIA]”). 
+
+In short, FOIA’s purpose is to allow the public to 
+understand the operations of government; it is not to 
+deputize every citizen as a private independent counsel 
+with the unlimited right to examine and reevaluate all 
+information in the government’s hands in order to 
+advance his own investigation. 
+
+3. The Photographs Ordered Released Lack Any Sub- 
+
+stantial Nexus To The Asserted Public Interest 
+
+No matter how meritorious respondent’s asserted 
+public interest, the court of appeals erred in ordering 
+disclosure of the four photographs of Foster at his 
+death scene because they cannot shed any relevant 
+
+
+47 
+
+
+light on his interest in exposing deficiencies in the 
+Independent Counsel’s investigation, see Pet. App. 58a. 
+In weighing the public and private interests implicated 
+under Exemption 7(C), a court “must weigh[{] the 
+specific privacy invasion against the value of disclosing 
+a given document.” Senate of Puerto Rico, 823 F.2d at 
+588; see also ibid. (“[T]Jhe Senate has not adequately 
+supported its ‘public interest’ claim with respect to the 
+specific information being withheld.”). 
+Respondent has identified four general areas of the 
+investigation in which he alleges that the Office of 
+Independent Counsel fell short. The first three areas of 
+the investigation respondent cited to the court of ap- 
+peals involved “which officials were present during 
+Vincent Foster’s autopsy,” “witness identifications of 
+Mr. Foster’s car in Fort Marcy Park at the time of his 
+death,” and “possible discrepancies between the kind of 
+gun that was reportedly found at the scene of Mr. 
+Foster’s death and the gun identified by his widow.” 
+Pet. App. 39a-40a; see also Br. in Opp. 23-24. The 
+ordered release of photographs of Foster’s right 
+shoulder, arm, and torso, however, have no relevance to 
+and can shed no light on the persons present at or the 
+subsequent autopsy of Foster, or the appearance of 
+Foster's abandoned car in the parking lot at Fort Marcy 
+Park, some distance from where Foster took his life. 
+Only one of the four photographs the court of appeals 
+ordered released depicts the gun in Foster’s hand. But 
+“[mJany of the 119 photographs already released to Mr. 
+Favish depict the gun that was found at the scene.” 
+Pet. App. 40a. Respondent has made no showing, and 
+the court of appeals offered no explanation, for how 
+disclosure of yet another picture of the gun would 
+materially advance the public interest. Beyond that, 
+respondent’s personal interest in seeing every picture 
+
+
+48 
+
+
+of the gun in the possession of the government because, 
+in his view, the government is “demonstrably untrust- 
+worthy and deceptive” (Br. in Opp. 6) cannot be 
+equated with the “public” interest.” 
+
+The remaining aspect of the investigation that 
+respondent has identified is alleged inconsistencies in 
+the description of the entrance and exit wounds— 
+specifically, whether the wounds were in Foster’s head 
+or neck. Pet. App. 40a-41a; see also Br. in Opp. 8-12. 
+But the photographs that the court of appeals ordered 
+released, by their description in the district court 
+opinion based on the government’s Vaughn index, do 
+not show any part of Foster’s head or neck or any 
+aspect of the bullet wound or the bullet’s path. They 
+
+
+27 The prior unauthorized disclosure of the photograph to Time 
+magazine does not affect the balance under FOIA. Such wholly 
+unauthorized activity cannot waive either the government’s in- 
+terest in withholding the photograph from official release or the 
+Foster family’s profound privacy interests in cabining dissemina- 
+tion of the photograph, which depicts a portion of Foster’s body. 
+See Department of Defense v. FLRA, 510 U.S. at 500 (“An 
+individual’s interest in controlling the dissemination of information 
+regarding personal matters does not dissolve simply because that 
+information may be available to the public in some form.”); 
+Reporters Committee, 489 U.S. at 767 (“{Ojur cases have also 
+recognized the privacy interest inherent in the nondisclosure of 
+certain information even where the information may have been at 
+one time public.”); Rose, 425 U.S. at 380-381; Sherman v. 
+Department of the Army, 244 F.3d 357, 363-364 (5th Cir. 2001) 
+(“(T]he fact that otherwise private information at one time or in 
+some way may have been placed in the public domain does not 
+mean that a person irretrievably loses his or her privacy interest 
+in the information.”); Halpern v. FBI, 181 F.3d 279, 297 (2d Cir. 
+1999) (“Confidentiality interests [under Exemption 7(C)] cannot be 
+waived through prior public disclosure.”); Bast, 665 F.2d at 1255 
+(“(P]ublicity in the popular media cannot vitiate the FOIA privacy 
+exemption for official information.”). In any event, the public 
+
+
+49 
+
+
+are pictures “focusing on Rt. side shoulder/arm”; “Right 
+
+hand showing gun & thumb in guard,” which hand was 
+
+positioned next to Foster’s hip; “focusing on right side 
+and arm”; and the “top of head thru heavy foliage.” 
+
+Pet. App. 45a-46a. Having reviewed the pictures in 
+
+camera (see J.A. 7, 29), both the district court and the 
+court of appeals were fully apprised that those photo- 
+graphs would do nothing to facilitate respondent’s 
+inquiry into the bullet’s trajectory. Indeed, the district 
+court, summarily affirmed by the court of appeals, could 
+say nothing more than that the photographs “may be 
+probative of the public’s right to know.” Pet. App. 45a. 
+
+In fact, it is only the photographs that the court of 
+appeals correctly held were exempted from disclosure— 
+the dramatically more graphic shots of Foster’s head 
+and face—that bear any potential relation to respon- 
+dent’s asserted interest in studying the bullet’s path. 
+As the D.C. Circuit explained, “[gliven the subject 
+matter, we cannot imagine any photos that could both 
+elucidate the true nature of Foster’s wounds and yet 
+not be disturbingly graphic.” Accuracy in Media, 194 
+F.3d at 125. Unable to release the only photographs 
+relevant to the purported public interest because of the 
+enormous intrusion on family privacy, however, the 
+N inth Circuit had no equitable license to offset that 
+withholding by ordering the release of different photo- 
+graphs that bear no relationship to advancing the 
+asserted public interest. 
+
+Instead, the “workable compromise between in- 
+dividual rights” to privacy and the public’s right to in- 
+formation about the government, Rose, 425 U.S. at 381, 
+that FOIA’s Exemption 7(C) embodies dictates that all 
+of the pictures of Foster’s dead body be kept “away 
+from the public eye,” Reporters Committee, 489 U.S. at 
+
+
+7c0 nawtiasslawler b oN — =. ae ae, Gee, Dee, Beets, 
+
+
+50 
+
+
+tions into his death and voluminous disclosures of infor- 
+mation that already have taken place. The public’s 
+interest in matters pertaining to his death and its 
+investigation has been satisfied. 
+
+
+CONCLUSION 
+
+
+The portion of the judgment of the court of appeals 
+ordering the release of four photographs should be 
+
+
+reversed. 
+Respectfully submitted. 
+
+
+JULY 2003 
+
+
+THEODORE B. OLSON 
+Solicitor General 
+
+PETER D. KEISLER 
+Assistant Attorney General 
+
+EDWIN S. KNEEDLER 
+Deputy Solicitor General 
+
+PATRICIA A. MILLETT 
+
+
+Assistant to the Solicitor 
+General 
+
+
+LEONARD SCHAITMAN 
+ROBERT M. LOEB 
+
+
+Attorneys 
+
+

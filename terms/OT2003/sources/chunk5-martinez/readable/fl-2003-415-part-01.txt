@@ -1,0 +1,211 @@
+Source: https://laws.flrules.org/2003/415
+
+PDF PAGE 1
+CHAPTER 2003-415
+House Bill No. 29-B
+An act relating to elections; amending s. 97.012, F.S.; revising and
+providing duties of the Secretary of State as chief election officer;
+amending s. 97.021, F.S.; deleting the definition of “central voter
+file”; revising the definition of “provisional ballot”; amending s.
+97.052, F.S.; requiring the uniform statewide voter registration ap-
+plication to contain a notice to first-time registrants about required
+identification prior to voting the first time; amending s. 97.053, F.S.;
+authorizing use of a driver’s license or state-issued identification
+card number in lieu of a portion of the social security number on a
+voter registration application; creating s. 97.028, F.S.; providing
+procedures on complaints of violations of Title III of the Help Amer-
+ica Vote Act of 2002; creating s. 97.0535, F.S.; providing registration
+requirements for applicants who register by mail and who haven’t
+previously voted in the county; amending s. 98.045, F.S.; deleting a
+reference, to conform; repealing s. 98.097, F.S., relating to the cen-
+tral voter file; amending s. 98.0977, F.S.; providing for continued
+operation and maintenance of the statewide voter registration data-
+base until the statewide voter registration system required by the
+Help America Vote Act of 2002 is operational; requiring the Depart-
+ment of State to begin the development of a statewide voter registra-
+tion system designed to meet certain requirements of the Help
+America Vote Act of 2002; amending s. 98.212, F.S.; removing duty
+of supervisors of elections relating to the central voter file, to con-
+form; amending s. 98.461, F.S.; requiring use of a computer printout
+as a precinct register at the polls; requiring the precinct register to
+contain space for elector signatures and clerk or inspector initials;
+amending and renumbering s. 98.471, F.S.; providing requirements
+for identification required at the polls; providing for voting a provi-
+sional ballot under certain circumstances; repealing s. 98.491, F.S.,
+relating to intent that alternative electronic procedures for registra-
+tion and elections be followed at the discretion of the supervisor of
+elections; amending s. 101.048, F.S.; providing for casting a provi-
+sional ballot by electronic means; requiring each supervisor of elec-
+tions to create a free access system that allows each person casting
+a provisional ballot to find out whether the ballot was counted and,
+if not, why; requiring each person casting a provisional ballot to be
+given written instructions regarding the free access system; creating
+s. 101.049, F.S.; requiring voting that occurs during polling hours
+extended by a court or other order to be done by provisional ballot;
+providing requirements for casting provisional ballots under such
+circumstances; amending s. 101.111, F.S.; revising provisions relat-
+ing to challenging the right of a person to vote; providing for voting
+a provisional ballot under certain circumstances; amending s.
+101.62, F.S.; providing an exception to limiting an absentee ballot
+request to ballots for elections within a single calendar year; amend-
+ing s. 101.64, F.S.; revising a reference on the Voter’s Certificate;
+amending s. 101.65, F.S.; revising the instructions to absentee elec-
+tors to include instructions to prevent overvoting; amending s.
+1
+CODING:  Words stricken are deletions; words underlined are additions.
+
+PDF PAGE 2
+101.657, F.S.; requiring certain persons voting absentee in person to
+vote a provisional ballot; creating s. 101.6921, F.S.; providing re-
+quirements for delivery of special absentee ballots for certain first-
+time voters; creating s. 101.6923, F.S.; providing voter instructions
+for such special absentee ballots; creating s. 101.6925, F.S.; provid-
+ing requirements for the canvassing of special absentee ballots;
+amending s. 101.694, F.S.; authorizing federal postcard applicants
+for absentee ballots to receive ballots for two general election cycles;
+amending s. 102.141, F.S.; requiring the canvassing of provisional
+ballots cast during any extended polling-hour period to segregate the
+votes from such ballots from other votes; directing the Department
+of State to adopt uniform rules for machine recounts; amending s.
+125.01, F.S.; conforming a cross reference; repealing s. 20, ch. 2002-
+281, Laws of Florida; eliminating future revision of a cross reference,
+to conform; amending s. 163.511, F.S.; revising a reference; revising
+the primary date in 2004; suspending operation of the second pri-
+mary election until January 1, 2006; providing a date in 2004 by
+which candidates for Lieutenant Governor must be designated and
+qualified; providing campaign finance reporting dates; specifying
+applicability of contribution limits for the 2004 elections; providing
+for construction of the act in pari materia with laws enacted during
+the 2003 Regular Session or 2003 Special Session A of the Legisla-
+ture; providing effective dates.
+Be It Enacted by the Legislature of the State of Florida:
+Section 1. Section 97.012, Florida Statutes, is amended to read:
+97.012 Secretary of State as chief election officer.—The Secretary of
+State is the chief election officer of the state, and it is his or her responsibil-
+ity to:
+(1) Obtain and maintain uniformity in the application, operation, and
+interpretation of the election laws.
+(2) Provide uniform standards for the proper and equitable implementa-
+tion of the registration laws.
+(3) Actively seek out and collect the data and statistics necessary to
+knowledgeably scrutinize the effectiveness of election laws.
+(4) Provide technical assistance to the supervisors of elections on voter
+education and election personnel training services.
+(5) Provide technical assistance to the supervisors of elections on voting
+systems.
+(6) Provide voter education assistance to the public.
+(7) Coordinate the state’s responsibilities under the National Voter Reg-
+istration Act of 1993.
+Ch. 2003-415
+LAWS OF FLORIDA
+Ch. 2003-415
+2
+CODING:  Words stricken are deletions; words underlined are additions.
+
+PDF PAGE 3
+(8) Provide training to all affected state agencies on the necessary proce-
+dures for proper implementation of this chapter.
+(9) Ensure that all registration applications and forms prescribed or ap-
+proved by the department are in compliance with the Voting Rights Act of
+1965.
+(10) Coordinate with the United States Department of Defense so that
+armed forces recruitment offices administer voter registration in a manner
+consistent with the procedures set forth in this code for voter registration
+agencies.
+(11) Create and maintain a statewide voter registration database central
+voter file.
+(12) Maintain a voter fraud hotline and provide election fraud education
+to the public.
+(13) Designate an office within the department to be responsible for
+providing information regarding voter registration procedures and absentee
+ballot procedures to absent uniformed services voters and overseas voters.
+Section 2. Section 97.021, Florida Statutes, is amended to read:
+97.021 Definitions.—For the purposes of this code, except where the con-
+text clearly indicates otherwise, the term:
+(1) “Absent elector” means any registered and qualified voter who casts
+an absentee ballot.
+(2) “Alternative formats” has the meaning ascribed in the Americans
+with Disabilities Act of 1990, Pub. L. No. 101-336, 42 U.S.C. ss. 12101 et
+seq., including specifically the technical assistance manuals promulgated
+thereunder, as amended.
+(3) “Ballot” or “official ballot” when used in reference to:
+(a) “Paper ballots” means that printed sheet of paper, used in conjunction
+with an electronic or electromechanical vote tabulation voting system, con-
+taining the names of candidates, or a statement of proposed constitutional
+amendments or other questions or propositions submitted to the electorate
+at any election, on which sheet of paper an elector casts his or her vote.
+(b) “Electronic or electromechanical devices” means a ballot that is voted
+by the process of electronically designating, including by touchscreen, or
+marking with a marking device for tabulation by automatic tabulating
+equipment or data processing equipment.
+(4) “Candidate” means any person to whom any one or more of the follow-
+ing applies:
+(a) Any person who seeks to qualify for nomination or election by means
+of the petitioning process.
+Ch. 2003-415
+LAWS OF FLORIDA
+Ch. 2003-415
+3
+CODING:  Words stricken are deletions; words underlined are additions.
+
+PDF PAGE 4
+(b) Any person who seeks to qualify for election as a write-in candidate.
+(c) Any person who receives contributions or makes expenditures, or
+gives his or her consent for any other person to receive contributions or make
+expenditures, with a view to bringing about his or her nomination or election
+to, or retention in, public office.
+(d) Any person who appoints a treasurer and designates a primary depos-
+itory.
+(e) Any person who files qualification papers and subscribes to a candi-
+date’s oath as required by law.
+However, this definition does not include any candidate for a political party
+executive committee.
+(5) “Central voter file” means a statewide, centrally maintained database
+containing voter registration information of all counties in this state.
+(5)(6) “Department” means the Department of State.
+(6)(7) “Division” means the Division of Elections of the Department of
+State.
+(7)(8) “Election” means any primary election, special primary election,
+special election, general election, or presidential preference primary elec-
+tion.
+(8)(9) “Election board” means the clerk and inspectors appointed to con-
+duct an election.
+(9)(10) “Election costs” shall include, but not be limited to, expenditures
+for all paper supplies such as envelopes, instructions to voters, affidavits,
+reports, ballot cards, ballot booklets for absentee voters, postage, notices to
+voters; advertisements for registration book closings, testing of voting equip-
+ment, sample ballots, and polling places; forms used to qualify candidates;
+polling site rental and equipment delivery and pickup; data processing time
+and supplies; election records retention; and labor costs, including those
+costs uniquely associated with absentee ballot preparation, poll workers,
+and election night canvass.
+(10)(11) “Elector” is synonymous with the word “voter” or “qualified elec-
+tor or voter,” except where the word is used to describe presidential electors.
+(11)(12) “General election” means an election held on the first Tuesday
+after the first Monday in November in the even-numbered years, for the
+purpose of filling national, state, county, and district offices and for voting
+on constitutional amendments not otherwise provided for by law.
+(12)(13) “Lists of registered electors” means copies of printed lists of
+registered electors, computer tapes or disks, or any other device used by the
+supervisor of elections to maintain voter records.
+Ch. 2003-415
+LAWS OF FLORIDA
+Ch. 2003-415
+4
+CODING:  Words stricken are deletions; words underlined are additions.
+
+PDF PAGE 5
+(13)(14) “Member of the Merchant Marine” means an individual, other
+than a member of a uniformed service or an individual employed, enrolled,
+or maintained on the Great Lakes for the inland waterways, who is:
+(a) Employed as an officer or crew member of a vessel documented under
+the laws of the United States, a vessel owned by the United States, or a
+vessel of foreign-flag registry under charter to or control of the United
+States; or
+(b) Enrolled with the United States for employment or training for em-
+ployment, or maintained by the United States for emergency relief service,
+as an officer or crew member of such vessel.
+(14)(15) “Minor political party” is any group as defined in this subsection
+which on January 1 preceding a primary election does not have registered
+as members 5 percent of the total registered electors of the state. Any group
+of citizens organized for the g

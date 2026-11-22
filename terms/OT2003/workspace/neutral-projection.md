@@ -618,6 +618,14 @@ Public procedure: The case returns for disposition of the enhancement proceeding
 
 Complete public rules, qualifications, proposition-level joins and remedy: [Public decision](../runtime/OT_2003CHUNK4_Iowa_v_Tovar_merits_2004-03-08_PUBLIC.md).
 
+### Karaha Bodas Co., LLC v. Perusahaan Pertambangan Minyak Dan Gas Bumi Negara — 2004-03-09
+
+In Convention enforcement proceedings, an anti-suit applicant must show an actual threat that ordinary domestic recognition and enforcement adjudication cannot adequately address, lawful equitable authority and proportionate relief. Parallel foreign challenges alone do not satisfy that requirement. Domestic courts retain responsibility for the legal effect of foreign orders under the Convention.
+
+Public procedure: The district court must remove the challenged restraint and the civil enforcement measures dependent on it. Authorized recognition and execution proceedings may continue, with the domestic effect of any foreign order determined under the Convention.
+
+Complete public rules, qualifications, proposition-level joins and remedy: [Public decision](../runtime/OT_2003CHUNK5_Karaha_Bodas_v_Pertamina_merits_2004-03-09_PUBLIC.md).
+
 ### Lomont v. O’Neill — 2004-03-11
 
 Effective March 11, 2004, officers presenting a concrete, traceable and redressable challenge to federal burdens on their own work may litigate without separate authorization to represent the State. The official-injury inquiry remains distinct from whether the challenged measure imposes an unconstitutional command.
@@ -627,6 +635,48 @@ Federal certification arrangements of this kind remain voluntary when officers c
 Public procedure: The mandate issues in the ordinary course, leaving the challenged certification arrangement effective against the granted constitutional attack. Officers remain free to decline certification without federal sanction. The Supreme Court's review of the granted questions is concluded.
 
 [Complete public law and procedure](../runtime/current-public-law/lomont_v_oneill_merits_2004-03-11.md).
+
+### Batzel v. Smith — 2004-03-18
+
+Denials of the identified California anti-SLAPP screening motion do not become federal collateral orders through state appeal permission, a litigation-avoidance label or ordinary liability defenses. Section 230 defenses proceed through the district court and review through a valid final judgment or an independently authorized interlocutory route.
+
+Public procedure: The Ninth Circuit must dismiss the moderator's interlocutory appeal and remove its unauthorized merits disposition. The district court may adjudicate the defenses and factual disputes through ordinary proceedings; subsequent appellate review requires a valid final or independently authorized interlocutory route.
+
+Complete public rules, qualifications, proposition-level joins and remedy: [Public decision](../runtime/OT_2003CHUNK5_Batzel_v_Smith_merits_2004-03-18_PUBLIC.md).
+
+### South Florida Water Management District v. Miccosukee Tribe of Indians; No. 02-626 — 2004-03-23
+
+The point-source element reaches transport of existing pollutants by pumps and other statutory conveyances. A separate addition to covered receiving waters remains necessary, and movement wholly within one water body does not establish it by itself. Meaningful water-body identity turns on the actual hydrological relationship, while the broader all-waters statutory theory remains unresolved on the stated presentation ground.
+
+Published separate positions:
+
+Scalia concurs in the conveyance ruling and in vacating the premature permit judgment for resolution of the actual distinct-water dispute within the question presented. The statutory addition requirement and that litigated dispute suffice. He withholds assent from the Court's separate invitation to pursue the broader all-waters theory, which exceeds the limited basis on which he supports further proceedings. His agreement in the judgment rests on the actual disputed predicate, not a new factual hypothesis.
+
+Public procedure: On remand the lower court must resolve the material hydrological evidence concerning C-11 and WCA-3, apply the conveyance and addition rules, and enter a permit-compliance judgment if the statutory elements are proved. If an addition to distinct receiving waters is not established, it must reject this permit claim. The parties may present the broader statutory theory in accordance with ordinary preservation and adjudication requirements.
+
+Complete public rules, qualifications, proposition-level joins and remedy: [Public decision](../runtime/OT_2003CHUNK5_South_Florida_Water_Management_District_v_Miccosukee_merits_2004-03-23_PUBLIC.md).
+
+### United States v. Galletti; No. 02-1389 — 2004-03-23
+
+A timely assessment of partnership employment tax supplies the collection-period predicate for judicial proceedings against general partners independently liable for that same debt. The Government must satisfy debtor-specific substantive liability and the actual collection procedure; the legal assessment question is settled, while application to the claims proceeds under those rules.
+
+Public procedure: The bankruptcy claims return for adjudication under the collection period applicable to the timely assessed partnership tax. The courts must resolve the amount, each debtor's liability and the remaining properly available claim defenses and procedural requirements, without imposing a duplicate-assessment prerequisite.
+
+Complete public rules, qualifications, proposition-level joins and remedy: [Public decision](../runtime/OT_2003CHUNK5_United_States_v_Galletti_merits_2004-03-23_PUBLIC.md).
+
+### Nixon v. Missouri Municipal League; Nos. 02-1238, 02-1386 and 02-1405 — 2004-03-24
+
+Section 253 leaves a State's assignment or withdrawal of telecommunications-service powers to its own political subdivisions intact absent the requisite congressional direction. Its ordinary preemption of covered market barriers remains operative. Courts must identify whether a challenged measure regulates the conduct of an empowered provider or determines the authority of a State's subdivision to become that provider.
+
+Published separate positions:
+
+Stevens dissents. He would affirm that municipal providers are included within § 253 and return the proceeding for application to their actual state-law authority. In his reading, the general entity language, the express targeting of state and local restrictions and the Act's competition structure reach public utilities already authorized and capable of operating without compelled state assistance. Ordinary preemption removes an unlawful barrier; it need not create a municipality, provide funding or supply an otherwise nonexistent power.
+
+Drawing on the distinction in White's Gregory writing and his support for AT&T's federal local-competition program, Stevens considers the statute's express regulation of state barriers sufficient without an additional clear statement naming municipal providers. He would distinguish a general redefinition of municipal powers from a restraint specifically targeting municipal telecommunications, including an indirect restraint with that prohibitory effect. The effects language strengthens his protection against disguised market barriers rather than eliminating that distinction. His proposed remand would determine the surviving state-law capacity and the actual restriction, rather than presume federal creation of authority.
+
+Public procedure: The challenged Missouri restriction remains effective against the municipal respondents, and the FCC's refusal to displace it is sustained. The consolidated review is concluded; any change to municipal service authority must occur through an independently lawful route.
+
+Complete public rules, qualifications, proposition-level joins and remedy: [Public decision](../runtime/OT_2003CHUNK5_Nixon_v_Missouri_Municipal_League_merits_2004-03-24_PUBLIC.md).
 
 ### Environmental Defense Center, Inc. v. United States Environmental Protection Agency — 2004-03-25
 
@@ -638,6 +688,58 @@ Public procedure: The ordinary mandate affirms the two constitutional rulings. E
 
 [Complete public law and procedure](../runtime/current-public-law/environmental_defense_center_v_epa_merits_2004-03-25.md).
 
+### California ex rel. Lockyer v. FERC; 329 F.3d 700; FERC proceedings EC01-49-002 and EC01-41-002 — 2004-03-29
+
+The Federal Power Act's notice and hearing commands continue to govern expedited approvals. This record establishes that informative notice, written participation and genuinely effective reconsideration can satisfy those commands and the assumed constitutional interest when the actual issues require no additional evidentiary hearing. Courts assess whether consideration remained capable of meaningful relief and review the agency's own supported reasons. The decision adds a confined application of existing procedural and administrative-review doctrine.
+
+Public procedure: The judgment denying review is affirmed and the approvals remain in effect. The mandate returns the case for implementation of that judgment; the reviewed procedural objections require no additional agency hearing.
+
+Complete public rules, qualifications, proposition-level joins and remedy: [Public decision](../runtime/OT_2003CHUNK5_California_ex_rel_Lockyer_v_FERC_merits_2004-03-29_PUBLIC.md).
+
+### National Archives and Records Administration v. Favish; No. 02-954 — 2004-03-30
+
+Exemption 7(C) protects living relatives' demonstrated privacy against unwarranted disclosure of death images. A misconduct-based disclosure claim requires a reasonable evidentiary foundation and plausible connection to the requested material, assessed with the actual evidence and agency burden intact. The rule permits withholding of these protected depictions while requiring disclosure of reasonably segregable nonexempt portions; other demonstrated transparency purposes retain their own analysis.
+
+Public procedure: The lower court must enter summary judgment permitting withholding of the four protected depictions and enforce the statutory segregation duty. Before complete withholding, the agency must establish that no reasonably segregable nonexempt material remains or release any such material. The judgment concerns the present four-image FOIA demand; already released material remains released.
+
+Complete public rules, qualifications, proposition-level joins and remedy: [Public decision](../runtime/OT_2003CHUNK5_National_Archives_and_Records_Administration_v_Favish_merits_2004-03-30_PUBLIC.md).
+
+### United States v. Flores-Montano; No. 02-1794 — 2004-03-30
+
+Reasonable suspicion is unnecessary for the reversible fuel-tank inspection described here within a lawful international-border examination. Courts must require the Government to establish that examination's predicates and independently assess the actual manner and extent of interference. Specialized labor or mechanical complexity alone does not create a heightened suspicion category.
+
+Public procedure: The district court must resume the prosecution without excluding the contraband on the rejected categorical fuel-tank ground. Any genuinely independent, properly raised issue remains for its ordinary adjudication, and the prosecution retains its burden to prove the charged offenses.
+
+Complete public rules, qualifications, proposition-level joins and remedy: [Public decision](../runtime/OT_2003CHUNK5_United_States_v_Flores_Montano_merits_2004-03-30_PUBLIC.md).
+
+### BedRoc Limited, LLC v. United States; No. 02-1593; 541 U.S. 176. — 2004-03-31
+
+Ordinary sand and gravel are conveyed under the Pittman Act patents rather than retained by the valuable-minerals reservation. The competing explanations do not establish a general rule that all newly profitable materials belong to patentees or a common rule for differently worded land grants. Western Nuclear continues to govern its own statute.
+
+Published separate positions:
+
+**Thomas, joined by Breyer, concurring in the judgment.** The two reservation statutes should be read alike; the commercial character of minerals is already part of Western Nuclear's analysis, so the adjective does not supply a meaningful distinction. In their view that decision incorrectly placed ordinary sand and gravel in the reserved category. Reliance on settled property rights counsels leaving its construction of the Stock-Raising Homestead Act in place, but does not require repeating the mistake in a different statute. They therefore support the owners' title and reversal while withholding assent to the plurality's central textual distinction.
+
+**Stevens, joined by Souter and Ginsburg, dissenting.** Western Nuclear already limits its mineral category to resources with commercial use. Pittman's related provisions use minerals and valuable minerals interchangeably, so the added word does not exclude these commercially useful materials. The statutes' relationship and settled land-title expectations favor continuity. Amoco involved a chemically distinct gas outside a coal reservation; it does not establish that new demand removes the same sand and gravel from a mineral class originally reserved. The dissent would affirm federal title.
+
+**Ginsburg, additionally dissenting.** The retained mineral estate and the practical historical allocation of control leave genuine uncertainty about these useful deposits. Western Nuclear's rule for construing uncertain sovereign grants favors the estate retained by the United States. That ground concerns the original conveyance; it does not rest on automatic deference to federal officials or create title merely from present profitability.
+
+Public procedure: The case returns for proceedings implementing the title construction and the remand directions stated in the judgment. The Supreme Court's merits review is concluded.
+
+Complete public rules, qualifications, proposition-level joins and remedy: [Public decision](../runtime/OT_2003CHUNK5_bedroc_limited_v_united_states_merits_2004-03-31_PUBLIC.md).
+
+### Arakaki v. Hawaii; review of 314 F.3d 1091 (Ninth Circuit, December 31, 2002); no Supreme Court docket supplied. — 2004-04-08
+
+The ancestry qualification for elected OHA office is unenforceable under the governing equal-protection standard. Hawaii's beneficiary responsibilities remain lawful purposes, but they do not supply the missing justification for this complete exclusion. The appointment branch ends on standing. The Court's sufficient equal-protection ground supplies no independent Fifteenth Amendment or §2 candidacy rule.
+
+Published separate positions:
+
+**Stone-Zsela, concurring in the election judgment.** Equal protection should categorically forbid a racial-ancestry condition on eligibility for elected public state office, even when the electorate is open to everyone. A challenger must prove the public election, the operative racial qualification and personal exclusion by a preponderance of the evidence; proof that the candidate would win is unnecessary. Once those predicates are established, a racial constituency cannot justify the unequal civic status. Rice supplies the public-election premise, Nixon the equal-protection foundation and Smith v. Allwright a related participation analogy. Opening the ballot to voters does not cure exclusion from eligibility to serve. This specific civic-exclusion rule would leave Adarand's ordinary classification standard intact and would not decide genuine tribal governance or other Hawaiian programs. Stone-Zsela agrees with the election-wide relief and joins the Court's separate appointment-standing ruling.
+
+Public procedure: The district court shall maintain and enforce the elected-candidate relief and dismiss the appointment component without prejudice. The Supreme Court's merits review is concluded.
+
+Complete public rules, qualifications, proposition-level joins and remedy: [Public decision](../runtime/OT_2003CHUNK5_arakaki_v_hawaii_merits_2004-04-08_PUBLIC.md).
+
 ### ACLU of New Jersey v. County of Hudson — 2004-04-13
 
 The decision establishes the validity, against the presented delegation, interim APA and structural challenges, of federal control over public disclosure of information acquired through voluntarily accepted paid federal immigration custody. Contrary state disclosure requirements yield for that covered information. Each good-cause exception retains its own statutory predicate and published justification. The holding’s reach follows the custodial source and information category, while applicable federal disclosure channels and ordinary processing of separable unprotected material remain operative.
@@ -645,6 +747,92 @@ The decision establishes the validity, against the presented delegation, interim
 Public procedure: The mandate implements the affirmed appellate judgment. The counties continue administering covered information under §236.6 and separately available access law, with any coverage question resolved by its identified category and legal ground. Supreme Court review of the granted federal questions is concluded.
 
 [Complete public law and procedure](../runtime/current-public-law/aclu_of_new_jersey_v_county_of_hudson_merits_2004-04-13.md).
+
+### United States v. Lara; No. 03-107; 541 U.S. 193. — 2004-04-19
+
+Section 1301(2)'s restoration permits the existing Tribe to exercise inherent criminal authority over the covered nonmember Indian. That tribal prosecution does not supply a same-sovereign bar to the later federal prosecution. Individual-rights challenges retain their own governing law and proper proceedings; the sovereign-source rule creates no procedural exemption.
+
+Published separate positions:
+
+**Kennedy, concurring in the judgment.** Congress unmistakably chose recognition of inherent tribal authority rather than delegation of federal prosecutorial power. The second-federal-jeopardy theory therefore fails on the statute's choice. But that conclusion does not require approval of Congress's constitutional power to subject a nonmember citizen to another sovereign's criminal jurisdiction. Duro's concern with citizenship, membership and political participation presents a structural objection independent of the procedural fairness of a particular trial. Reserving due process alone would not answer it. Kennedy leaves the legitimacy of that asserted authority to a proceeding that actually contests it and withholds assent to the Court's affirmative constitutional-restoration holding.
+
+**Thomas, concurring in the judgment.** Within Wheeler's inherited premises, a surviving tribal sovereign's criminal authority may be restricted by federal policy; the political branches have removed the particular inconsistency Duro identified. Section 1301 recognizes inherent authority instead of delegating a federal prosecution. That is sufficient for this defense. Thomas nevertheless questions the coexistence of broad congressional control and inherent tribal sovereignty, and rejects treating the Indian Commerce or Treaty Clause as an unexplained general legislative power over sovereign status. He accepts the result under the inherited federal-common-law framework while withholding the Court's broader affirmative constitutional account.
+
+**Souter, joined by Scalia, dissenting.** Duro and Wheeler tie retained criminal sovereignty to membership; power to prosecute an outsider did not survive as inherent authority. Congress may authorize the Tribe to fill the resulting jurisdictional gap, but it cannot alter the constitutional source of that newly supplied power by calling it inherent. General federal supervision differs from conferring a power the Tribe lacked. The tribal prosecution thus exercises delegated federal authority for double-jeopardy purposes, and the subsequent federal prosecution is barred. This source conclusion does not require invalidating Congress's authorization of the tribal proceeding itself.
+
+Public procedure: The case returns to the federal courts for the reinstated prosecution and the ordinary proceedings stated in the judgment. The Supreme Court's review of the double-jeopardy defense is concluded.
+
+Complete public rules, qualifications, proposition-level joins and remedy: [Public decision](../runtime/OT_2003CHUNK5_united_states_v_lara_merits_2004-04-19_PUBLIC.md).
+
+### Ammex, Inc. v. United States; review of 334 F.3d 1052 (Federal Circuit, July 1, 2003), lower-court No. 02-1498. — 2004-04-20
+
+The first judgment binds Customs on the determination it resolved. It does not preclude this later IRS-dependent revocation, and contempt cannot expand its command. A genuinely later administrative action remains reviewable through its appropriate channel; the Government receives no exemption from ordinary finality for a renamed version of the same action.
+
+Public procedure: The judgment refusing contempt remains operative. Any challenge to the later revocation proceeds through the applicable statutory review channel, where its validity must be determined on that action's own legal and factual grounds. This Supreme Court enforcement review is concluded.
+
+Complete public rules, qualifications, proposition-level joins and remedy: [Public decision](../runtime/OT_2003CHUNK5_ammex_v_united_states_merits_2004-04-20_PUBLIC.md).
+
+### Household Credit Services, Inc. v. Pfennig; No. 02-857; 541 U.S. 232. — 2004-04-21
+
+The challenged Regulation Z provision validly treats qualifying over-limit fees as other charges rather than finance charges, including when an issuer knowingly permits the transaction that exceeds the limit. The category remains subject to its regulatory terms and separate disclosure obligations. Courts must identify the actual charge and apply those duties; this decision supplies no general exemption for all default or credit-related fees.
+
+Public procedure: The case returns for application of the valid exclusion and the disposition stated in the judgment. The Supreme Court's review of the classification question is concluded.
+
+Complete public rules, qualifications, proposition-level joins and remedy: [Public decision](../runtime/OT_2003CHUNK5_household_credit_services_v_pfennig_merits_2004-04-21_PUBLIC.md).
+
+### Engine Manufacturers Association v. South Coast Air Quality Management District; No. 02-1343; 541 U.S. 246. — 2004-04-28
+
+Section 209(a) reaches covered emissions standards enforced through compulsory purchases as well as standards enforced through other commands. Commercial availability alone does not remove that regulatory character. Courts must still establish the statutory coverage and determine the effect of the actual rule terms and legally available application defenses. The all-six declaration of validity cannot rest on a categorical purchaser exemption, while rule-specific adjudication determines the lawful scope of prospective relief.
+
+Published separate positions:
+
+**Souter, concurring in the judgment.** Section 209 should be read in its manufacturing and certification setting, with the presumption protecting traditional local authority. Selecting among vehicles actually available under the federal and California regimes need not impose a competing production requirement. His Cipollone and Medtronic positions require identification of the particular federal choice displaced; market consequences alone do not establish a forbidden standard. Section 246 also shows that purchase programs and production standards can have distinct statutory roles, although it does not authorize these Rules.
+
+The broad prospective judgment nevertheless cannot stand on an assumption that all six Rules merely select available products. Rule 1186.1's purchase-certificate route ends July 1, 2004; its separate service-contract route does not replace that exception for every purchase. The other Rules contain different certificate procedures, vehicle classes, offsets and continuing control obligations. The lower courts must construe those provisions and determine whether any challenged command operates as a production requirement under his narrower reading. April 28 precedes the cutoff, and the uncertainty establishes neither an unavailable vehicle nor a post-cutoff violation. Souter would preserve severable applications shown to select available products, while accepting preemption of an application that actually compels a new emissions-related production choice. He rejects both an unconditional all-six availability premise and acceptance of the manufacturers' hypothetical-product interpretation as a fact, and therefore concurs only in the judgment.
+
+Public procedure: The case returns for the rule-specific adjudication and lawful prospective relief described in the judgment. The Supreme Court's review of the categorical purchase exemption is concluded.
+
+Complete public rules, qualifications, proposition-level joins and remedy: [Public decision](../runtime/OT_2003CHUNK5_engine_manufacturers_association_v_south_coast_air_quality_management_district_merits_2004-04-28_PUBLIC.md).
+
+### Vieth v. Jubelirer; No. 02-1580; 241 F. Supp. 2d 478 — 2004-04-28
+
+A personal equal-protection claim now lies for an identified, existing or demonstrably attainable political opportunity materially impaired by electoral boundaries substantially motivated by the defined purpose of suppressing opposition and insulating governing power. The five-Justice rule requires all four elements, an independently grounded lawful comparison and ordinary preponderance proof; the State then bears the same-decision defense. Proof may take varied forms, but must establish lawful feasibility and actual causation. Actual participation injury can arise before an electoral defeat.
+
+Ordinary partisan considerations remain permissible, and a projected statewide vote-seat disparity supplies neither the personal deprivation nor an independent Article I violation. Courts apply the rule to properly presented open cases, determine individual standing and actual proof, and give the State the first remedial opportunity after a violation is established.
+
+Published separate positions:
+
+**Stone-Zsela, concurring.** The Chief Justice would also ground the four-element protection in the First Amendment's guarantees of political expression and association. O'Hare Truck Service and Umbehr establish that government may burden association through a political penalty even when the affected person has no entitlement to the governmental benefit. Districting similarly cannot deliberately impose the material deprivation defined by the Court to suppress opposition and insulate governing power. The Chief Justice applies the same opportunity, substantial impairment, purpose, causation and same-decision requirements, with no automatic injury from partisan design or unfavorable seats. A standalone First Amendment claim must still be properly presented; this additional constitutional ground does not supply a finding about the Act 34 pleadings. No other Justice joins this writing.
+
+**O'Connor, concurring in part and dissenting in part; Scalia and Thomas join.** The three join rejection of the Article I seat-ratio claim but would affirm dismissal of partisan dilution as a political question and overrule Bandemer's contrary conclusion for that category. O'Connor's Bandemer position distinguishes ordinary individual equality from a judicial allocation of partisan strength. The new opportunity and comparison language, they conclude, still requires judges to select the political arrangement against which disadvantage is measured. A lawful alternative can be feasible without being constitutionally owed, and purpose cannot supply that missing entitlement. Their Holder positions reinforce the objection to a court-selected allocation, while Growe protects legislative responsibility. They retain adjudication of independently defined exclusion, retaliation, population and racial claims under their own standards. The objection concerns the affirmative partisan-opportunity cause, not the Court's unanimous Article I rule.
+
+**Kennedy, concurring in part and dissenting in part.** Kennedy joins Part IV and would affirm this partisan dismissal because the asserted theories and proposed standards fail to identify a sufficiently manageable personal constitutional burden in Act 34. He declines to declare that every future partisan claim is nonjusticiable. Holder requires a principled basis for comparison, while Cook, Cano and the political-expression principles reflected in his McConnell position leave room for an actually defined participation or association injury. The Court's new formulation, in his view, does not yet furnish a sufficient measure for this claim. A possible future expression-based standard is therefore a reason to retain Bandemer's openness, rather than to remand this case or join the announced four-element rule. He joins neither the categorical dissent's overruling proposal nor the Court's affirmative standard.
+
+Public procedure: The case returns to the three-judge District Court. It shall permit conforming amendment, determine personal standing and apply the announced standard to the live Act 34 claim under ordinary pleading and proof rules, on a prompt schedule suited to the election calendar. An additional association theory remains subject to ordinary preservation and amendment rules. If the plaintiffs establish a violation and defeat the State's defense, the court shall identify the deprivation and responsible boundaries, afford the State the first opportunity to correct them and fit any further relief to that violation. The Article I dismissal and separate population disposition retain their stated force.
+
+Complete public rules, qualifications, proposition-level joins and remedy: [Public decision](../runtime/OT_2003CHUNK5_Vieth_v_Jubelirer_merits_2004-04-28_PUBLIC.md).
+
+### Martinez v. Bush; lower Nos. 02-20244-CIV-JORDAN and 02-10028-CIV-JORDAN — 2004-04-29
+
+The racial and statutory judgments stand on supported local findings under their own governing rules. Predictive performance findings retain their actual primary-law assumptions and limits; a local injury cannot be offset by gains elsewhere.
+
+Vieth's constitutional rule governs properly presented partisan claims in the Florida congressional and House plans. Imported racial statutory gates and complete political exclusion are not additional constitutional prerequisites. Its personal injury, lawful comparison, purpose, causation and proof requirements control the remaining application. The Senate claim ends on its separate proof concession, and the independent automatic theories fail.
+
+Published separate positions:
+
+**Stone-Zsela, concurring in part and dissenting in part.** The Chief Justice joins the Court's congressional and House remand and would also vacate the preserved Senate partisan portion for application of the governing Vieth rule. He would require the three-judge court to evaluate the preserved partisan claims under that rule, permitting amendments and further proof only through ordinary procedure, and to enter judgment for officials on any branch where injury is not established. His broader partisan remand preserves the independently resolved racial findings and statutory judgments.
+
+**O'Connor, joined by Scalia and Thomas, concurring in part and dissenting in part.** These Justices retain the objection stated in Vieth that partisan-dilution claims lack a judicially enforceable entitlement to an alternative distribution of political support. A feasible map and partisan purpose do not establish which distribution the Constitution owes. They would affirm the congressional and House judgments on that threshold ground. Their objection concerns this partisan category; independently defined population, racial, exclusion and retaliation claims retain their own reach. They agree with the Senate judgment and recognize its proof failure conditionally if the Court's cause is applied. They do not join that cause through conditional agreement with its implementation.
+
+**Kennedy, concurring in part and dissenting in part.** Kennedy would affirm the presented congressional and House partisan claims because the announced measure does not adequately distinguish a constitutionally defined burden from an unfavorable composition of the electorate. Holder's comparison discipline and Cano's independent-injury requirement inform his objection. The congressional index and local reassignment evidence do not persuade him that the required independent entitlement has been identified. His House conclusion rests on that constitutional objection, rather than an inferred absence of House evidence. He retains the possibility of a properly defined future participation or association injury and rejects categorical foreclosure. He joins the Senate proof-failure rationale and the other portions specified in the topology.
+
+**Thomas, joined by Scalia, concurring in the statutory judgment.** They adhere to their Holder/De Grandy position, continued in Valdespino, Montiel and Cano, that Section 2 does not authorize these district-dilution claims. That noncoverage rule supplies their ground for affirmance. Their conditional recognition that the cited percentages and plurality extension do not automatically establish liability is not adoption of the Court's dilution framework or its local sufficiency rationale. They join the distinct intentional-racial and Title VI disposition at the scope stated in Part I.
+
+Public procedure: The case returns to the three-judge District Court for application of the complete Vieth rule to the preserved congressional and House partisan claims and their actual record. The court must determine personal standing and address conforming amendment or supplementation under ordinary procedure, including valid preservation and disclosure rulings and any genuinely sufficient independent ground. A failure to establish injury requires judgment for officials on that branch.
+
+Upon a proved violation, the State receives the first opportunity to correct the actual deprivation. Any further remedy must address the responsible boundaries, comply with governing districting requirements and extend no further than necessary, on a prompt workable schedule suited to the election calendar. Existing operative plans remain in effect pending supported relief. The racial, process and Senate partisan affirmances remain intact.
+
+Complete public rules, qualifications, proposition-level joins and remedy: [Public decision](../runtime/OT_2003CHUNK5_Martinez_v_Bush_merits_2004-04-29_PUBLIC.md).
 
 ### West Virginia v. U.S. Department of Health & Human Services — 2004-06-16
 
@@ -660,7 +848,7 @@ Public procedure: The mandate leaves the estate-recovery condition effective and
 
 ## Chronology and manifest
 
-The [manifest](manifest.md) contains 119 scheduled events in eight chunks and four separately preserved undated original actions. 55 inventory events are completed across chunks 1–4. The next presentation event is Karaha Bodas Co., LLC v. Perusahaan Pertambangan Minyak Dan Gas Bumi Negara, OT_2003CHUNK5, effective 2004-03-09. The latest completed event has effective date 2004-06-16; this does not decide earlier-dated matters in later presentation chunks. Roeder v. Islamic Republic of Iran on 2004-06-30 remains the final scheduled inventory event. No anticipated event is a completed action.
+The [manifest](manifest.md) contains 119 scheduled events in eight chunks and four separately preserved undated original actions. 71 inventory events are completed across chunks 1–5. The next presentation event is Jones v. R. R. Donnelley & Sons Co., OT_2003CHUNK6, effective 2004-05-03. The latest completed event has effective date 2004-06-16; this does not decide earlier-dated matters in later presentation chunks. Roeder v. Islamic Republic of Iran on 2004-06-30 remains the final scheduled inventory event. No anticipated event is a completed action.
 
 The inventory retains the user's presentation order, numbering and chunk membership. Chunk 1 contains seven matters dated October 14, 2003 through June 16, 2004; chunks 2–8 contain sixteen each. Presentation order does not advance the chronology cursor. Every event uses only law effective before its own event date, including applicable earlier current-term Records, and never law from a later-dated event already encountered in a presentation chunk. Chunks are processed in presentation order. Within a chunk, events are processed by effective date. An earlier-dated event in a later chunk that has not been decided supplies no law and does not delay the present event. A completed Record applies only to events after its effective date; any material effect of a later-completed earlier event is assessed when that event is supplied. Preparation of a chunk does not freeze entering law for the entire chunk.
 

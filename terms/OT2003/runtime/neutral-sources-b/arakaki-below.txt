@@ -1,0 +1,690 @@
+
+
+
+
+
+  
+
+    
+314 F.3d 1091
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+
+  
+
+  
+
+    
+314 F.3d 1091
+
+    
+Earl F. ARAKAKI; Evelyn C. Arakaki; Patrick Barrett; Sandra P. Burgess; Edward U. Bugarin; Patricia A. Carroll; Robert M. Chapman; Brian Clarke; Kenneth R. Conklin; Michael Y. Garcia; Toby M. Kravet; Thurston Twigg-Smith; Jean Yokoyama, Plaintiffs-Appellees,
+v.
+State of HAWAII; Benjamin J. Cayetano, in his official capacity as the Governor of the State of Hawaii; Dwayne D. Yoshina, in his official capacity as Chief Election Officer of the State of Hawaii, Defendants-Appellants.
+
+    
+No. 00-17213.
+
+    
+United States Court of Appeals, Ninth Circuit.
+
+    
+Argued and Submitted May 6, 2002.
+
+    
+Filed December 31, 2002.
+
+    
+
+      
+Girard D. Lau, Deputy Attorney General, Honolulu, HI, for the Defendants-Appellants.
+
+      
+Patrick W. Hanifin, Honolulu, HI, for the Plaintiffs-Appellees.
+
+      
+Deborah G. Kiley, Sacramento, CA, for amicus curiae Pacific Legal Foundation.
+
+      
+Appeal from the United States District Court for the District of Hawaii; Helen Gillmor, District Judge, Presiding. D.C. No. CV 00-514 HG.
+
+      
+Before WALLACE, TASHIMA, and TALLMAN, Circuit Judges.
+
+      
+Opinion by Judge TASHIMA; Concurrence by Judge WALLACE.
+
+      
+OPINION
+
+      
+TASHIMA, Circuit Judge.
+
+    
+
+    
+
+      
+1
+
+      
+Defendants-Appellants, State of Hawaii, Benjamin J. Cayetano, in his official capacity as Governor of the State of Hawaii, and Dwayne D. Yoshina, in his official capacity as Chief Elections Officer of the State of Hawaii (collectively "Hawaii" or the "State"), appeal the district court's grant of summary judgment to Plaintiffs-Appellees, Earl F. Arakaki and twelve other individuals (collectively "Arakaki"), holding that the State's constitutional and statutory requirements that the trustees of the Office of Hawaiian Affairs ("OHA") be "Hawaiian" are invalid under the Equal Protection Clause of the Fourteenth Amendment, the Fifteenth Amendment, and the Voting Rights Act.
+1
+ We have jurisdiction pursuant to 28 U.S.C. § 1291, and we affirm in part and vacate in part.
+
+    
+
+    
+I. BACKGROUND
+
+    
+
+      
+2
+
+      
+At the time of its admission as the 50th State of the Union, in 1959, Congress granted Hawaii "title to all the public lands and other public property within the boundaries of the State of Hawaii" that had been held by the United States, including the "available lands" set out in the Hawaiian Homes Commission Act ("HHCA").
+2
+ 
+See
+ Hawaii Statehood Admission Act of March 18, 1959, Pub.L. No. 86-3, 73 Stat. 4 ("Admission Act"); 
+id.
+ Intro., § 5(b). Congress required that Hawaii hold these ceded lands, and their income and proceeds, as a "public trust" to be "managed and disposed of for one or more of the foregoing purposes," one of which is "the betterment of the conditions of native Hawaiians, as defined in the[HHCA]." Admission Act § 5(f). The four other purposes, which include "the support of the public schools and other public educational institutions," pertain to the Hawaii public at large, 
+i.e.,
+ they are not restricted to or expressly for the benefit of native Hawaiians. 
+Id.
+ In accordance with this statutory requirement, the Hawaii Constitution was amended to provide for these lands, excluding the lands covered by the HHCA, to be "held by the State as a public trust for native Hawaiians and the general public." Haw. Const. art. XII, § 4.
+
+    
+
+    
+
+      
+3
+
+      
+In 1978, Hawaii amended its Constitution to establish the OHA to "address the needs of the aboriginal class of people of Hawaii." Haw.Rev.Stat. § 10-1. OHA's primary responsibility is to manage and administer the property and funds, including those from the public trust, that have been allocated for the betterment of the conditions of "native Hawaiians" and "Hawaiians,"
+3
+ Haw.Rev.Stat. §§ 10-1, 10-3, and to formulate policies, programs, and activities relating to the affairs of native Hawaiians and Hawaiians. Haw. Const. art. XII, § 6.
+
+    
+
+    
+
+      
+4
+
+      
+OHA is governed by a nine-member board of trustees, elected by qualified voters in the State. 
+See
+ Haw. Const. art. XII, § 5; Haw.Rev.Stat. § 13D-1. Former statutory provisions that limited eligible voters in OHA trustee elections to citizens of Hawaiian ancestry were repealed after the Supreme Court held those provisions to violate the Fifteenth Amendment. 
+See Rice v. Cayetano,
+ 528 U.S. 495, 120 S.Ct. 1044, 145 L.Ed.2d 1007 (2000). The issue we must decide is whether the remaining statutory and constitutional provisions requiring that all OHA trustee candidates be Hawaiian, Haw. Const. art. XII, § 5; Haw.Rev.Stat. § 13D-2, are constitutional and valid.
+
+    
+
+    
+
+      
+5
+
+      
+Arakaki contends that the requirement that all OHA trustees be Hawaiian violates the Equal Protection Clause, the Fifteenth Amendment, and the Voting Rights Act. Arakaki further contends that an effective vote requires that the choice of OHA trustee candidates cannot be limited by the race or ancestry of the candidates.
+4
+
+    
+
+    
+
+      
+6
+
+      
+On cross-motions for summary judgment, the district court denied Hawaii's motion and granted Arakaki's motion for summary judgment. It held that § 5, Article XII, of the Hawaii Constitution, and Haw.Rev.Stat. § 13D-2, to the extent that they require OHA trustees be Hawaiian, violate the Equal Protection Clause, the Fifteenth Amendment, and § 2 of the Voting Rights Act. The judgment requires Hawaii "to permit otherwise qualified non-Hawaiians to run for office and to serve, if elected, as trustees of the [OHA]." Hawaii timely appeals.
+
+    
+
+    
+II. STANDARD OF REVIEW
+
+    
+
+      
+7
+
+      
+We review a district court's grant of summary judgment 
+de novo. See Lopez v. Smith,
+ 203 F.3d 1122, 1131 (9th Cir. 2000) (en banc). Neither side contends that there are any genuine issues of material fact. Therefore, our task is to determine whether the district court correctly applied the relevant substantive law. 
+See id.
+
+    
+
+    
+III. DISCUSSION
+
+    
+A. Fifteenth Amendment
+
+    
+
+      
+8
+
+      
+The Fifteenth Amendment provides in relevant part that "[t]he right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of race, color, or previous condition of servitude." U.S. Const. amend. XV, § 1. "The Amendment grants protection to all persons, not just members of a particular race." 
+Rice,
+ 528 U.S. at 512, 120 S.Ct. 1044.
+
+    
+
+    
+
+      
+9
+
+      
+Hawaii contends that the Fifteenth Amendment is not even implicated by this case because the OHA trustee qualification does not restrict the right to vote based on the race of the 
+voter.
+ Since voters are allowed to vote in the trustee elections regardless of race, the right to vote is not denied or abridged on the basis of the race of the 
+voter.
+ The trustee requirement, however, categorically excludes all non-Hawaiians from running for the office of OHA trustee based solely on the fact that they are not of Hawaiian ancestry. In doing so, the qualification significantly limits the voters' choice of candidates on the basis of race.
+
+    
+
+    
+
+      
+10
+
+      
+In 
+Hadnott v. Amos,
+ 394 U.S. 358, 364, 89 S.Ct. 1101, 22 L.Ed.2d 336 (1969), the Supreme Court established that the disqualification of candidates based on race implicates the Fifteenth Amendment right of voters "regardless of their race, color, or previous condition of servitude to cast their votes effectively." The Court has also recognized the importance of the process by which the choice of candidates is determined to the preservation of their voting rights. 
+See Smith v. Allwright,
+ 321 U.S. 649, 664, 64 S.Ct. 757, 88 L.Ed. 987 (1944) (recognizing that a state adopts and enforces discrimination where its election procedures "limit[] the choice of the electorate in general elections for state offices ... to those whose names appear" on "a general election ballot made up of party nominees" who have been chosen through discriminatory primary elections). Stated differently, the "fundamental principle of our representative democracy ... `that the people should choose whom they please to govern them,' ... is undermined as much by limiting whom the people can select as by limiting the franchise itself." 
+Powell v. McCormack,
+ 395 U.S. 486, 547, 89 S.Ct. 1944, 23 L.Ed.2d 491 (1969) (quoting 2 Elliot's Debates 257).
+
+    
+
+    
+
+      
+11
+
+      
+Hawaii further contends that the Supreme Court's decision in 
+Morton v. Mancari
+ 417 U.S. 535, 94 S.Ct. 2474, 41 L.Ed.2d 290 (1974), saves the OHA trustee requirement from violating the Fifteenth Amendment. In 
+Mancari,
+ the Court upheld a statutory employment preference for American Indians in the Bureau of Indian Affairs ("BIA") based in part upon the "unique legal status of Indian tribes under federal law and upon the plenary power of Congress ... to legislate on behalf of[them]." 
+Id.
+ at 551, 94 S.Ct. 2474. In 
+Rice,
+ however, the Court held that the voting scheme which allowed only Hawaiians to vote in OHA trustee elections violated the Fifteenth Amendment, regardless of whether the 
+Mancari
+ rule applied.
+5
+ 528 U.S. at 518-19, 120 S.Ct. 1044. In reaching this conclusion, the Court rejected arguments that the State's voting restrictions were not "racial" in nature, concluding that "[a]ncestry can be a proxy for race. It is that proxy here." 
+Id.
+ at 514, 120 S.Ct. 1044. Despite the unique position OHA has under state law, the Court also concluded that it is an "arm of the State" and that the Fifteenth Amendment applies to elections for OHA trustees, which are "elections of the State." 
+Id.
+ at 521-22, 120 S.Ct. 1044. Rejecting the State's efforts to set apart the elections based on the special purpose of OHA or the status of native Hawaiians and Hawaiians as special beneficiaries of its programs, the Court declared that "[a]ll citizens, regardless of race, have an interest in selecting officials who make policies on their behalf, even if those policies will affect some groups more than others" and held that the restriction was prohibited by the Fifteenth Amendment. 
+Id.
+ at 523, 120 S.Ct. 1044.
+
+    
+
+    
+
+      
+12
+
+      
+Hawaii argues that it does not follow from the Court's decision about 
+voter
+ qualifications in 
+Rice
+ that the 
+candidate
+ qualification in the present case violates the Fifteenth Amendment. But the holdings of 
+Rice
+ that: (1) OHA is an "arm of the State"; (2) trustee elections are "elections of the State" in which all citizens should have an equal voting interest, 
+id.
+ at 521-23, 120 S.Ct. 1044; and (3) the Hawaiian ancestry requirement is "race-based," 
+id.
+ at 515-17, 120 S.Ct. 1044, apply equally in this case. There is no principled basis on which to distinguish these holdings in this case. Accordingly, we must decide whether the Fifteenth Amendment prohibits the use of candidate qualifications that exclude candidates from state elections on the basis of race.
+
+    
+
+    
+
+      
+13
+
+      
+Although the language of the Fifteenth Amendment does not explicitly extend its protections to the abridgement of the right to vote on account of race-based 
+candidate
+ qualifications, the Court has acknowledged that the disqualification of candidates on the basis of race implicates voters' Fifteenth Amendment rights. 
+See Hadnott,
+ 394 U.S. at 363-64, 89 S.Ct. 1101. Thus, a candidate restriction which directly and expressly excludes all non-Hawaiians from qualifying as a candidate for the office of OHA trustee, compels the conclusion that the candidate restriction abridges the right to vote and is thus prohibited by the Fifteenth Amendment.
+
+    
+
+    
+B. Voting Rights Act
+
+    
+
+      
+14
+
+      
+The Voting Rights Act, 42 U.S.C. § 1973, "forbids the imposition or application of any practice that would deny or abridge, on grounds of race or color, the right of any citizen to vote." 
+Garza v. County of Los Angeles,
+ 918 F.2d 763, 765 (9th Cir.1990). Section 2(a) of the Voting Rights Act provides:
+
+    
+
+    
+
+      
+15
+
+      
+No voting qualification or prerequisite to voting or standard, practice, or procedure shall be imposed or applied by any State or political subdivision in a manner which results in the denial or abridgement of the right of any citizen of the United States to vote on account of race or color....
+
+    
+
+    
+
+      
+16
+
+      
+42 U.S.C. § 1973(a). A § 2 violation is established if:
+
+    
+
+    
+
+      
+17
+
+      
+based on a totality of the circumstances, it is shown that the political processes leading to nomination or election in the State ... are not equally open to participation by members of a class of citizens protected by subsection (a) of this section in that its members have less opportunity than other members of the electorate to participate in the political process and to elect representatives of their choice.
+
+    
+
+    
+
+      
+18
+
+      
+42 U.S.C. § 1973(b). "In order to make out a § 2 claim against [Hawaii], [Arakaki] must establish that the [Hawaiian ancestry requirement] results in discrimination `on account of race or color.'" 
+Smith v. Salt River Project Agric. Improvement & Power Dist.,
+ 109 F.3d 586, 595 (9th Cir.1997) (quoting 42 U.S.C. § 1973).
+
+    
+
+    
+
+      
+19
+
+      
+The Supreme Court established that the Voting Rights Act "should be interpreted in a manner that provides `the broadest possible scope' in combating racial discrimination." 
+Chisom v. Roemer,
+ 501 U.S. 380, 403, 111 S.Ct. 2354, 115 L.Ed.2d 348 (1991) (citing 
+Allen v. State Bd. of Elections,
+ 393 U.S. 544, 567, 89 S.Ct. 817, 22 L.Ed.2d 1 (1969)). In line with this premise, it is well-established that the exclusion or limitation of a class of 
+candidates
+ based on "obstacles to candidate qualification" can result in a discriminatory "abridgement" of the right to vote on account of race in violation of the Voting Rights Act. 
+See Dougherty County Bd. of Educ. v. White,
+ 439 U.S. 32, 43, 99 S.Ct. 368, 58 L.Ed.2d 269 (1978) (holding that "obstacles to candidate qualification" such as economic disincentives are "standard[s], practice[s], or procedure[s] with respect to voting" under § 5 of the Voting Rights Act); 
+Allen,
+ 393 U.S. at 570, 89 S.Ct. 817 (construing § 5 to encompass candidate qualification requirements that could "undermine the effectiveness" of voters by "increasing the difficulty for an independent candidate to gain a position on the general election ballot"). 
+See also Hadnott,
+ 394 U.S. at 366, 89 S.Ct. 1101 (subjecting "increased barriers" on candidacy to § 5 scrutiny).
+6
+
+    
+
+    
+
+      
+20
+
+      
+Once the premise that a race-based candidate restriction results in a discriminatory "abridgement" of the right to vote under the Voting Rights Act is established, we are compelled to conclude that the trustee qualification at issue in the case at bench is a clear violation of § 2. By systematically disqualifying all non-Hawaiians from running for the office of OHA trustee on the basis of their race alone, 
+see
+ Haw. Const. art. XII, § 5; Haw.Rev.Stat. § 13D-2, the trustee qualification ensures that the "political processes leading to nomination or election in the State ... are 
+not equally open
+ to participation" by citizens who are not Hawaiian. 
+See
+ 42 U.S.C. § 1973(b). Furthermore, because Congress enacted the Voting Rights Act to "implement" the Fifteenth Amendment, our earlier conclusion that the trustee qualification violates the Fifteenth Amendment provides additional support for this conclusion. 
+See Smith,
+ 109 F.3d at 592 (citations omitted).
+
+    
+
+    
+C. Fourteenth Amendment
+
+    
+
+      
+21
+
+      
+Arakaki also challenges the constitutional and statutory provisions that restrict not only candidates for the position of OHA trustee to Hawaiians, but also require that appointed OHA trustees be Hawaiian.
+7
+ Arakaki contends that the qualification for trustee appointment constitutes invidious racial discrimination in violation of the Equal Protection Clause of the Fourteenth Amendment. The district court held "that the State's scheme prohibiting non-Hawaiians from serving in a particular public office is unconstitutional." And the judgment provides that "Section 5 of Article XII of the State Constitution and HRS § 13D-2, to the extent they require OHA trustees be Hawaiian, violate the Equal Protection Clause of the Fourteenth Amendment...." We conclude that the district court erred in reaching this issue because Arakaki lacks standing to challenge the restriction on appointments.
+8
+
+    
+
+    
+
+      
+22
+
+      
+Standing is a threshold requirement, without which neither the district court nor this court has jurisdiction. 
+See Warth v. Seldin,
+ 422 U.S. 490, 498, 95 S.Ct. 2197, 45 L.Ed.2d 343 (1975) ("In essence the question of standing is whether the litigant is entitled to have the court decide the merits of the dispute or of particular issues."); 
+City of So. Lake Tahoe v. Calif. Tahoe Reg'l Planning Agency,
+ 625 F.2d 231, 233 (9th Cir.1980) ("Standing is a necessary element of federal-court jurisdiction." (citation omitted)). As a jurisdictional issue, standing may be addressed for the first time on appeal. 
+Pritikin v. Dep't of Energy,
+ 254 F.3d 791, 796 (9th Cir.2001).
+
+    
+
+    
+
+      
+23
+
+      
+The standing requirement focuses on injury to the plaintiff:
+
+    
+
+    
+
+      
+24
+
+      
+[T]o satisfy Article III's standing requirements, a plaintiff must show (1) it has suffered an "injury in fact" that is (a) concrete and particularized and (b) actual or imminent, not conjectural or hypothetical; (2) the injury is fairly traceable to the challenged action of the defendant; and (3) it is likely, as opposed to merely speculative, that the injury will be redressed by a favorable decision.
+
+    
+
+    
+
+      
+25
+
+      
+Friends of the Earth, Inc. v. Laidlaw Envtl. Servs. (TOC), Inc.,
+ 528 U.S. 167, 180-81, 120 S.Ct. 693, 145 L.Ed.2d 610 (2000) (citing 
+Lujan v. Defenders of Wildlife,
+ 504 U.S. 555, 560-61, 112 S.Ct. 2130, 119 L.Ed.2d 351 (1992)).
+
+    
+
+    
+
+      
+26
+
+      
+Arakaki does not have standing to challenge the restriction on appointments because he has neither alleged nor provided evidence of any injury related to the appointment process. The complaint alleges that plaintiffs are "residents, registered voters, and taxpayers in the State of Hawaii." It also alleges that the denial of nomination papers to Conklin, and the restriction of 1996 and 1998 elections to Hawaiian candidates for OHA Trustees, injured plaintiffs because "Defendants denied to Plaintiffs and to all eligible voters the right to chose [sic] for whom to vote and the right to be considered for election to public office, i.e., the OHA board, without the burden of invidiously discriminatory disqualifications." The complaint neither alleges that any plaintiff has been denied an appointment as OHA trustee because he or she is not Hawaiian nor any other injury related to the appointment restriction. Thus, on its face, the complaint fails to allege an injury sufficient to give Arakaki standing to challenge the appointment process.
+
+    
+
+    
+
+      
+27
+
+      
+Moreover, as indicated earlier, the district court reached its decision, including on the Fourteenth Amendment issue, on summary judgment. In order to have standing at the summary judgment stage, plaintiffs must "set forth by affidavit or other evidence specific facts," 
+Lujan,
+ 504 U.S. at 561, 112 S.Ct. 2130 (internal quotation marks omitted), showing that they have suffered an "injury in fact" that is fairly traceable to the action they seek to challenge. 
+Id.
+ at 560, 112 S.Ct. 2130. Arakaki's evidence demonstrates injury fairly traceable only to the candidacy restriction. Arakaki has not provided evidence of any injury traceable to the restriction on appointments to Hawaiians.
+
+    
+
+    
+
+      
+28
+
+      
+Because Arakaki lacks standing to raise the appointments issue, the district court was without jurisdiction to decide this issue and, therefore, erred in reaching its merits. We therefore vacate that portion of the district court's judgment concluding that Hawaii violated the Fourteenth Amendment and remand for dismissal of that claim without reaching its merits.
+
+    
+
+    
+IV. CONCLUSION
+
+    
+
+      
+29
+
+      
+Based on the foregoing, we hold that Hawaii's limitation of eligibility to be a candidate for OHA trustee to "Hawaiians" is invalid under the Fifteenth Amendment and § 2 of the Voting Rights Act. The district court, however, should not have reached the question of whether the Equal Protection Clause of the Fourteenth Amendment precludes restriction on OHA trustee appointments because Arakaki lacks standing to raise the issue. Arakaki shall recover his costs on appeal from Hawaii. The judgment of the district court is, therefore,
+
+    
+
+    
+
+      
+30
+
+      
+AFFIRMED in part, VACATED and REMANDED in part.
+
+    
+
+    
+
+      
+
+        
+Notes:
+
+      
+
+      
+
+        
+1
+
+        
+ We use the term "Hawaiian" as it is defined in Haw.Rev.Stat. § 10-2: "any descendant of the aboriginal peoples inhabiting the Hawaiian Islands which exercised sovereignty and subsisted in the Hawaiian Islands in 1778, and which peoples thereafter have continued to reside in Hawaii."
+
+      
+
+      
+
+        
+2
+
+        
+ Congress enacted the HHCA in 1920, in part, as a response to the poverty and rapid decline in the native Hawaiian population. H.R.Rep. No. 839, 66th Cong., 2nd Sess. 2 (1920). The HHCA set aside some 200,000 acres of public lands as "available lands" for nominal-price leases to "native Hawaiians," HHCA § 203, defined as "any descendent of not less than one-half part of the blood of the races inhabiting the Hawaiian Islands previous to 1778." HHCA § 201(7)
+
+      
+
+      
+
+        
+3
+
+        
+ OHA oversees the administration of funds that have been set aside for the benefit of native Hawaiians,
+see
+ Haw.Rev.Stat. § 10-13.5 (designating a percentage of the revenues from the public land trust granted to the State of Hawaii pursuant to § 5(b) of the Admission Act for use by OHA to better the conditions of native Hawaiians), and Hawaiians, 
+see
+ Haw. Const. art. XII, § 6; 
+see also
+ Haw.Rev.Stat. § 10-3. "Native Hawaiians" are "descendant[s] of 
+not less than one-half part
+ of the races inhabiting the Hawaiian Islands previous to 1778." Haw.Rev.Stat. § 10-2 (emphasis added). The broader category of "Hawaiians" does not have a blood quantum requirement. 
+Id.
+
+      
+
+      
+
+        
+4
+
+        
+ Plaintiffs-Appellees include individuals of English, Japanese, Irish, Okinawan, Portuguese, Chinese, Filipino, French, German, Spanish, Scottish, and Hawaiian ancestries. One of Plaintiffs-Appellees is Kenneth R. Conklin, a prospective candidate, who sought to run for and serve in the office of OHA trustee without being disqualified on the basis of his race. The Office of Elections refused to issue him nominating papers for the position based solely on the fact that he is not Hawaiian
+
+      
+
+      
+
+        
+5
+
+        
+ The provisions on the right to vote that were struck down by the Court in
+Rice
+ required all 
+voters
+ in OHA trustee elections to be Hawaiians, as defined by Haw.Rev.Stat. § 10-2. This is the same definition which applies to the restriction of OHA trustee 
+candidates
+ to Hawaiians only.
+
+      
+
+      
+
+        
+6
+
+        
+ Section 5 of the Voting Rights Act requires that a covered jurisdiction must submit any changes in its "standard[s], practice[s], or procedure[s] with respect to voting" to the Attorney General or to the United States District Court of the District of Columbia for preclearance that such "qualification, prerequisite, standard, practice, or procedure ... will not have the effect of denying or abridging the right to vote on account of race or color...." 42 U.S.C. § 1973c. Since §§ 5 and 2 of the Voting Rights Act are "closely related" and use similar language to define the prohibited voting practices, it "seems logical that § 2 should reach at least as far as § 5."
+Smith,
+ 109 F.3d at 593. 
+See also Chisom,
+ 501 U.S. at 403-04, 111 S.Ct. 2354.
+
+      
+
+      
+
+        
+7
+
+        
+ 
+See
+ Haw. Const. art. XII, § 5 ("The board members shall be Hawaiians."); Haw.Rev. Stat. § 13D-2 ("No person shall be eligible for election or appointment to the board unless the person is Hawaiian ....") (emphasis added).
+
+      
+
+      
+
+        
+8
+
+        
+ The district court's discussion of Arakaki's Fourteenth Amendment challenge does not differentiate between the candidacy requirement and the service requirement for appointed trustees. It is clear, however, that the district court reached both claims. We find it unnecessary to reach Arakaki's challenge to the candidacy requirement on Fourteenth Amendment grounds, because we have already disposed of Arakaki's challenge to the candidacy requirement under the Fifteenth Amendment and the Voting Rights Act
+
+      
+
+    
+
+    
+WALLACE, Circuit Judge, concurring:
+
+    
+
+      
+31
+
+      
+Though a constitutional violation is sufficient to show a Voting Rights Act violation, a statute can violate the Act without violating the Constitution. 
+Reno v. Bossier Parish Sch. Bd.,
+ 520 U.S. 471, 482, 117 S.Ct. 1491, 137 L.Ed.2d 730 (1997) ("Because the Constitution requires a showing of intent that § 2 does not, a violation of § 2 is no longer a 
+fortiori
+ a violation of the Constitution."); 
+Chisom v. Roemer,
+ 501 U.S. 380, 390-91, 111 S.Ct. 2354, 115 L.Ed.2d 348 (1991) (recounting the history of section 2). By ruling on the Fifteenth Amendment issue, the majority goes farther than it needs to resolve the dispute before us. I therefore cannot join the majority's otherwise sound opinion.
+
+    
+
+    
+
+      
+32
+
+      
+Admittedly, 
+Rice v. Cayetano,
+ 528 U.S. 495, 120 S.Ct. 1044, 145 L.Ed.2d 1007 (2000), aids the Court's statutory analysis by holding that OHA is an arm of the state, 
+id.
+ at 520, 120 S.Ct. 1044, trustee elections are elections of the state, 
+id.
+ at 521-22, 120 S.Ct. 1044, and the Hawaiian ancestry requirement is race-based. 
+Id.
+ at 520-21, 120 S.Ct. 1044. However, these holdings of 
+Rice
+ do not depend on the ultimate Fifteenth Amendment analysis, but instead on the Court's study of state law, the formation of the OHA, and the culture and characteristics of pre-1778 Hawaiians. 
+Id.
+ at 520-22, 120 S.Ct. 1044. We can, and therefore should (if not 
+must
+), avoid the unnecessary constitutional question of a Fifteenth Amendment violation. 
+See Meinhold v. United States Dep't of Defense,
+ 34 F.3d 1469, 1474 (9th Cir.1994) (holding that it is error to rule on an avoidable constitutional claim); 
+Jean v. Nelson,
+ 472 U.S. 846, 854, 105 S.Ct. 2992, 86 L.Ed.2d 664 (1985) ("Prior to reaching any constitutional questions, federal courts 
+must
+ consider nonconstitutional grounds for decision. This is a fundamental rule of judicial restraint.") (emphasis added) (internal quotation marks and citations omitted); 
+Spector Motor Serv., Inc. v. McLaughlin,
+ 323 U.S. 101, 105, 65 S.Ct. 152, 89 L.Ed. 101 (1944) ("If there is one doctrine more deeply rooted than any other in the process of constitutional adjudication, it is that we ought not pass on questions of constitutionality ... unless such adjudication is unavoidable.").
+
+    
+
+    
+
+      
+33
+
+      
+We should, therefore, be satisfied with disposing of this appeal based on the Act violation, which we can and should do, and not venture unnecessarily into constitutional waters.
+
+    
+
+    
+
+      
+CC∅
+ | Transformed by 
+Public.Resource.Org
+
+    
+
+  
+
+
+

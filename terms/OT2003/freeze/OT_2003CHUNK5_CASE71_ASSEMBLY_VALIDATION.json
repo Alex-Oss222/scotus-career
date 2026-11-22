@@ -1,0 +1,46 @@
+{
+  "record": "Martinez_v_Bush_merits_2004-04-29.md",
+  "eleven_blocks": true,
+  "internal_public_holdings_identical": true,
+  "exact_vieth_rule_copy": true,
+  "four_whole_frozen_handoffs_copied": true,
+  "chief_supplement_copied": true,
+  "all_relative_markdown_links_resolve": true,
+  "explanation_words": [
+    238,
+    183,
+    247,
+    275,
+    210,
+    255,
+    67,
+    89
+  ],
+  "all_under_350": true,
+  "negative_statement_semantic_review": "Passed: adopted substantive limits, actual presented-theory gaps, requested relief and surviving judgments only; no hypothetical governing-control rule published.",
+  "judgments": {
+    "intent_racial": "9–0 affirm",
+    "section2": "9–0 affirm;7 statutory rationale",
+    "Congress": "5–4 vacate/remand",
+    "House": "5–4 vacate/remand",
+    "Senate": "8–1 affirm;5 rationale",
+    "automatic_theories": "9–0 reject"
+  },
+  "author": "Souter",
+  "component_assigners": {
+    "I–VI and VIII": "Stone-Zsela",
+    "VII": "Stevens"
+  },
+  "counts_before": {
+    "Stone-Zsela": 8,
+    "Stevens": 7,
+    "O'Connor": 7,
+    "Scalia": 7,
+    "Kennedy": 8,
+    "Souter": 7,
+    "Thomas": 8,
+    "Ginsburg": 8,
+    "Breyer": 8
+  },
+  "record_sha256": "3a4308104006ced71242d7e7c236f4454ae84042c6905e6a92c788fac12b7b35"
+}

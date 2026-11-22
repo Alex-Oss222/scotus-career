@@ -1,0 +1,84 @@
+{
+  "cases": [
+    {
+      "case": 56,
+      "record": "Karaha_Bodas_v_Pertamina_merits_2004-03-09.md",
+      "explanation_words": [
+        189
+      ],
+      "eleven_blocks": "pass",
+      "shared_holdings": "identical",
+      "public_handoff": "identical",
+      "frozen_annexes": "mechanical_copy_with_navigation_rebased",
+      "links": "pass",
+      "negative_statement_review": "completed_semantically"
+    },
+    {
+      "case": 57,
+      "record": "Batzel_v_Smith_merits_2004-03-18.md",
+      "explanation_words": [
+        209
+      ],
+      "eleven_blocks": "pass",
+      "shared_holdings": "identical",
+      "public_handoff": "identical",
+      "frozen_annexes": "mechanical_copy_with_navigation_rebased",
+      "links": "pass",
+      "negative_statement_review": "completed_semantically"
+    },
+    {
+      "case": 58,
+      "record": "South_Florida_Water_Management_District_v_Miccosukee_merits_2004-03-23.md",
+      "explanation_words": [
+        133,
+        168,
+        73
+      ],
+      "eleven_blocks": "pass",
+      "shared_holdings": "identical",
+      "public_handoff": "identical",
+      "frozen_annexes": "mechanical_copy_with_navigation_rebased",
+      "links": "pass",
+      "negative_statement_review": "completed_semantically"
+    },
+    {
+      "case": 59,
+      "record": "United_States_v_Galletti_merits_2004-03-23.md",
+      "explanation_words": [
+        212
+      ],
+      "eleven_blocks": "pass",
+      "shared_holdings": "identical",
+      "public_handoff": "identical",
+      "frozen_annexes": "mechanical_copy_with_navigation_rebased",
+      "links": "pass",
+      "negative_statement_review": "completed_semantically"
+    },
+    {
+      "case": 60,
+      "record": "Nixon_v_Missouri_Municipal_League_merits_2004-03-24.md",
+      "explanation_words": [
+        270
+      ],
+      "eleven_blocks": "pass",
+      "shared_holdings": "identical",
+      "public_handoff": "identical",
+      "frozen_annexes": "mechanical_copy_with_navigation_rebased",
+      "links": "pass",
+      "negative_statement_review": "completed_semantically"
+    }
+  ],
+  "counts_after_case60": {
+    "Stone-Zsela": 6,
+    "Stevens": 6,
+    "O'Connor": 7,
+    "Scalia": 7,
+    "Kennedy": 6,
+    "Souter": 6,
+    "Thomas": 7,
+    "Ginsburg": 6,
+    "Breyer": 7
+  },
+  "last_durable": "Nixon_v_Missouri_Municipal_League_merits_2004-03-24.md",
+  "remaining_blockers": []
+}

@@ -1,0 +1,193 @@
+Source: https://www.law.cornell.edu/supct/html/02-1238.ZS.html
+
+NOTE:  Where it is feasible, a
+syllabus (headnote) will be released, as is being done in
+connection with this case, at the time the opinion is
+issued.
+The syllabus constitutes no part of the opinion of
+the Court but has been prepared by the Reporter of Decisions
+for the convenience of the reader.
+See United States
+v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+NIXON, ATTORNEY GENERAL OF MISSOURI
+v.
+MISSOURI MUNICIPAL LEAGUE et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE EIGHTH CIRCUIT
+
+No. 02—1238. Argued January 12, 2004–Decided March 24,
+2004*
+
+After Missouri enacted a statute forbidding
+its “political subdivision[s to] provide or offer for sale
+… a telecommunications service or … facility,”
+the municipal respondents, including municipally owned
+utilities, petitioned the Federal Communications Commission
+(FCC) for an order declaring the statute unlawful under 47 U.S.C. § 253
+which authorizes preemption of state and local laws and
+regulations “that prohibit or have the effect of
+prohibiting the ability of any entity” to provide
+telecommunications services.  Relying on its earlier order
+resolving a challenge to a comparable Texas law and the
+affirming opinion of the District of Columbia Circuit, the FCC
+refused to declare the Missouri statute preempted, concluding
+that “any entity” in §253(a) does not include
+state political subdivisions, but applies only to independent
+entities subject to state regulation.  The FCC also adverted to
+the principle of Gregory v. Ashcroft, 501 U.S. 452, that
+Congress needs to be clear before it constrains traditional
+state authority to order its government.  The Eighth Circuit
+panel unanimously reversed, explaining that §253(a)’s
+word “entity,” especially when modified by
+“any,” manifested sufficiently clear congressional
+attention to governmental entities to get past Gregory.
+
+Held: The class of entities
+contemplated by §253 does not include the State’s own
+subdivisions, so as to affect the power of States and
+localities to restrict their own (or their political
+inferiors’) delivery of telecommunications services. 
+Pp. 4—14.
+
+    (a) Two
+considerations fall short of supporting the municipal
+respondents.  First, they argue that fencing governmental
+entities out of the telecommunications business flouts the
+public interest in promoting competition.  It does not follow,
+however, that preempting state or local barriers to
+governmental entry into the market would be an effective way to
+draw municipalities into the business, and in any event the
+issue here does not turn on the merits of municipal
+telecommunications services.  Second, concentrating on the
+undefined statutory phrase “any entity” does not
+produce a persuasive answer here.  While an “entity”
+can be either public or private, there is no convention of
+omitting the modifiers “public and private” when both
+are meant to be covered.  Nor is coverage of public entities
+reliably signaled by speaking of “any” entity;
+“any” can and does mean different things depending
+upon the setting.  To get at Congress’s understanding
+requires a broader frame of reference, and in this litigation
+it helps to ask how Congress could have envisioned the
+preemption clause actually working if the FCC applied it at the
+municipal respondents’ urging.  See, e.g., New
+Jersey Realty Title Ins. Co. v. Division of Tax Appeals
+of N. J., 338
+U.S. 665, 673.  The strange and indeterminate results of
+using federal preemption to free public entities from state or
+local limitations is the key to understanding that Congress
+used “any entity” with a limited reference to any
+private entity.  Pp. 4—6.
+
+      (b) The
+municipal respondents’ position holds sufficient promise
+of futility and uncertainty to keep this Court from accepting
+it.  Pp. 6—13.
+
+        (1) In
+familiar instances of regulatory preemption under the Supremacy
+Clause, a federal measure preempting state regulation of
+economic conduct by a private party simply leaves that party
+free to do anything it chooses consistent with the prevailing
+federal law.  See, e.g., Lorillard Tobacco Co.
+v. Reilly, 533 U.S. 525,
+540—553.  But no such simple result would follow from
+federal preemption meant to unshackle local governments from
+entrepreneurial limitations.  Such a government’s capacity
+to enter an economic market turns not only on the effect of
+straightforward economic regulation below the national level
+(including outright bans), but on the authority and potential
+will of state or local governments to support entry into the
+market.  Preempting a ban on government utilities would not
+accomplish much if the government could not point to some law
+authorizing it to run a utility in the first place.  And
+preemption would make no difference to anyone if the state
+regulator were left with control over funding needed for any
+utility operation and declined to pay for it.  In other words,
+when a government regulates itself (or the subdivision through
+which it acts) there is no clear distinction between the
+regulator and the entity regulated.  Legal limits on what the
+government itself (including its subdivisions) may do will
+often be indistinguishable from choices that express what the
+government wishes to do with the authority and resources it can
+command.  Thus, preempting state or local governmental
+self-regulation (or regulation of political inferiors) would
+work so differently from preempting regulation of private
+players that it is highly unlikely that Congress intended to
+set off on such uncertain adventures.  Pp. 6—7.
+
+        (2) Severa
+l hypothetical examples illustrate the implausibility of the
+municipal respondents’ reading that Congress intended
+§253 to preempt state or local governmental
+self-regulation.  Whether a law prohibiting an entity’s
+“ability” to provide telecommunications under
+§253 means denying the entity a capacity or authority to
+act in the first place, or whether it means limiting or cutting
+back on some preexisting authority to go into the
+telecommunications business (under a different law), the
+hypotheticals demonstrate that §253 would not work like a
+normal preemptive statute if it applied to a governmental unit.
+ It would often accomplish nothing, it would treat States
+differently depending on the formal structures of their laws
+authorizing municipalities to function, and it would hold out
+no promise of a national consistency.  That Congress meant
+§253 to start down such a road in the absence of any
+clearer signal than the phrase “ability of any
+entity” is farfetched.  See, e.g., United States
+v. American Trucking Assns., Inc., 310 U.S. 534, 543. 
+Pp. 7—12.
+
+        (3) The
+practical implication of the dissent’s reading of
+§253 to forbid States to withdraw municipalities’
+preexisting authority expressly to enter the telecommunications
+business, but not withdrawals of authority that are
+competitively neutral in the sense of being couched in general
+terms that do not expressly target telecommunications, is to
+read out of §253 the words “or has the effect of
+prohibiting.”  Those words signal Congress’
+willingness to preempt laws that produce the unwanted effect,
+even if they do not advertise their prohibitory agenda on their
+faces.	The dissent’s reading therefore disregards
+§253’s plain language and entails a policy
+consequence that Congress could not possibly have intended. 
+Pp. 12—13.
+
+      (c) A
+complementary principle would bring the Court to the same
+conclusion even on the assumption that preemption might operate
+straightforwardly to provide local choice.  Section 253(a) is
+hardly forthright enough to pass Gregory: “ability
+of any entity” is not limited to one reading, and neither
+statutory structure nor legislative history points
+unequivocally to a commitment by Congress to treat governmental
+telecommunications providers on par with private firms.  The
+want of any “unmistakably clear” statement to that
+effect, 501 U.S., at 460, would be fatal to respondents’
+reading.  Pp. 13—
+14.
+
+299 F.3d 949, reversed.
+
+    Souter, J., delivered
+the opinion of the Court, in which Rehnquist, C. J., and
+O’Connor, Kennedy, Ginsburg, and Breyer, JJ., joined. 
+Scalia, J., filed an opinion concurring in the judgment, in
+which Thomas, J., joined.  Stevens, J., filed a dissenting
+opinion.
+
+Notes
+
+*.  Together with No. 02—1386,
+Federal Communications Commission et al. v. Missouri
+Municipal League et al., and No. 02—1405,
+Southwestern Bell Telephone, L. P., fka Southwestern
+Bell Telephone Co. v. Missouri Municipal League et
+al., also on certiorari to the same court.

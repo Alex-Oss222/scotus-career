@@ -1,0 +1,99 @@
+Source: https://www.law.cornell.edu/supct/html/02-1343.ZS.html
+
+NOTE:  Where it is feasible, a
+syllabus (headnote) will be released, as is being done in
+connection with this case, at the time the opinion is
+issued.
+The syllabus constitutes no part of the opinion of
+the Court but has been prepared by the Reporter of Decisions
+for the convenience of the reader.
+See United States
+v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+ENGINE MANUFACTURERS ASSOCIATION et al.
+v. SOUTH COAST AIR QUALITY MANAGEMENT 
+DISTRICT et
+al.
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE NINTH CIRCUIT
+
+No. 02—1343. Argued January 14, 2004–Decided April 28,
+2004
+
+Respondent South Coast Air Quality Management
+District (District)–the California subdivision responsible
+for air pollution control in the Los Angeles metropolitan
+area–enacted six Fleet Rules prohibiting the purchase or
+lease by various public and private fleet operators of vehicles
+that do not comply with requirements in the Rules.  Petitioner
+Engine Manufacturers Association sued the District and its
+officials, claiming that the Fleet Rules were pre-empted by
+§209 of the federal Clean Air Act (CAA), which prohibits
+the adoption or attempted enforcement of any state or local
+“standard relating to the control of emissions from new
+motor vehicles or new motor vehicle engines,” 42 U.S.C. §
+7543(a).  In upholding the Rules, the District Court found
+that they were not “standard[s]” under §209
+because they regulate only the purchase of vehicles that are
+otherwise certified for sale in California, and distinguished
+decisions of the First and Second Circuits pre-empting similar
+state laws as involving a restriction on vehicle sales rather
+than vehicle purchases.  The Ninth Circuit affirmed.
+
+Held: 
+
+    1. The Fleet
+Rules do not escape pre-emption just because they address the
+purchase of vehicles, rather than their manufacture or sale. 
+Neither the District Court’s interpretation of
+“standard” to include only regulations that compel
+manufacturers to meet specified emission limits nor its
+resulting distinction between purchase and sales restrictions
+finds support in §209(a)’s text or the CAA’s
+structure.  The ordinary meaning of language employed by
+Congress is assumed accurately to express its legislative
+purpose.  Park ’N Fly, Inc. v. Dollar Park &
+Fly, Inc., 469
+U.S. 189, 194.  Today, as when §209(a) became law,
+“standard” means that which “is established by
+authority, custom, or general consent, as a model or example;
+criterion; test.”	Webster’s Second New International
+Dictionary 2455.  The criteria referred to in §209 relate
+to the emission characteristics of a vehicle or engine.  This
+interpretation is consistent with the use of
+“standard” throughout Title II of the CAA.  Defining
+“standard” to encompass only production mandates
+confuses standards with methods of enforcing standards. 
+Manufacturers (or purchasers) can be made responsible for
+ensuring that vehicles comply with emission standards, but the
+standards themselves are separate from enforcement techniques. 
+While standards target vehicles and engines,
+standard-enforcement efforts can be directed toward
+manufacturers or purchasers.  This distinction is borne out in
+the enforcement provisions immediately following CAA §202.
+ And §246, which requires federal purchasing restrictions,
+shows that Congress contemplated the enforcement of emission
+standards through purchase requirements.  A purchase/sale
+distinction also makes no sense, since a manufacturer’s
+right to sell federally approved vehicles is meaningless absent
+a purchaser’s right to buy them.  Pp. 5—11.
+
+      2. While at
+least certain aspects of the Fleet Rules appear to be
+pre-empted, the case is remanded for the lower courts to
+address, in light of the principles articulated here, questions
+neither passed on below nor presented in the certiorari
+petition that may affect the ultimate disposition of
+petitioners’ suit.  Pp. 11—12.
+
+309 F.3d 550, vacated and remanded.
+
+    Scalia, J., delivered
+the opinion of the Court, in which Rehnquist, C. J., and
+Stevens, O’Connor, Kennedy, Thomas, Ginsburg, and Breyer,
+JJ., joined.  Souter, J., filed a dissenting opinion.

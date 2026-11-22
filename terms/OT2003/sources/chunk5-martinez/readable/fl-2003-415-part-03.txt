@@ -1,0 +1,214 @@
+all designate a hearing officer who shall:
+1. Provide the subject of the complaint with a copy of the complaint. The
+subject of the complaint shall, within 10 days after receipt of the complaint,
+file with the department a written, sworn response to the complaint.
+2. Upon receipt of the response, the hearing officer shall review both
+sworn filings to determine whether a violation of the Title III of the Help
+America Vote Act of 2002 has occurred, is occurring, or is about to occur. The
+complaint and the response shall constitute the official hearing record to be
+considered by the hearing officer. The hearing officer shall provide the com-
+plainant with a copy of the response.
+Ch. 2003-415
+LAWS OF FLORIDA
+Ch. 2003-415
+9
+CODING:  Words stricken are deletions; words underlined are additions.
+
+PDF PAGE 10
+3. At the hearing officer’s discretion, the complainant and the respondent
+may be ordered by the hearing officer to provide additional sworn oral or
+written statements or additional documents to assist the hearing officer in
+making his or her determination. Further, other relevant witnesses may
+also be ordered by the hearing officer to give sworn testimony or to provide
+relevant documents to assist the hearing officer in making his or her deter-
+mination. Any such statements or documents received by the hearing officer
+shall also become part of the official hearing record. For purposes of this
+section, the hearing officer is authorized to administer oaths and to issue
+subpoenas.
+4. The hearing officer shall advise both the complainant and respondent
+in writing of their determination. If the hearing officer determines that no
+violation has occurred, is occurring, or is about to occur, the department
+shall dismiss the complaint and publish its determination. If the hearing
+officer determines that a violation of Title III of the Help America Vote Act
+has occurred, is occurring, or is about to occur, the department shall issue
+and deliver an order directing the appropriate remedy to persons responsi-
+ble for effecting such remedy. The issuance of an order does not constitute
+agency action for which a hearing under ss. 120.569 or 120.57 may be
+sought. For purposes of enforcing the order, the department may initiate a
+proceeding in the name of the state seeking issuance of an injunction, a writ
+of mandamus, or other equitable remedy against any person who violates
+any provision of such order.
+5. The department shall make a final determination with respect to the
+complaint within 90 days after the date that the complaint was filed, unless
+the complainant consents to a longer period for making such a determina-
+tion.
+(b) If the department fails to meet the deadline established in subpara-
+graph (a)5., the complaint shall be forwarded to mediation. Mediation shall
+occur within 60 days after the department’s failure to make a determination
+within the timeframe established in subparagraph (a)5. The record created
+under this section shall be made available for use in the mediation.
+Section 6. Section 97.0535, Florida Statutes, is created to read:
+97.0535 Special requirements for certain applicants.—
+(1) Each applicant who registers by mail and who has never previously
+voted in the county shall be required to provide a copy of a current and valid
+identification, as provided in subsection (3), or indicate that he or she is
+exempt from the requirements prior to voting. The applicant may provide
+the identification or indication at the time of registering, or at any time prior
+to voting for the first time in the county. If the voter registration application
+clearly provides information from which the supervisor can determine that
+the applicant meets at least one of the exemptions in subsection (4), the
+supervisor shall make the notation on the registration records and the appli-
+cant shall not be required to provide further information that is required of
+first time voters who register by mail.
+Ch. 2003-415
+LAWS OF FLORIDA
+Ch. 2003-415
+10
+CODING:  Words stricken are deletions; words underlined are additions.
+
+PDF PAGE 11
+(2) The supervisor of elections shall, upon accepting the voter registra-
+tion for an applicant who registered by mail and who has not previously
+voted in the county, determine if the applicant provided the required identi-
+fication at the time of registering. If the required identification was not
+provided, the supervisor shall notify the applicant that he or she must
+provide the identification prior to voting the first time in the county.
+(3)(a) The following forms of identification shall be considered current
+and valid if they contain the name and photograph of the applicant and have
+not expired:
+1. Florida driver’s license.
+2. Florida identification card issued by the Department of Highway
+Safety and Motor Vehicles.
+3. United States passport.
+4. Employee badge or identification.
+5. Buyer’s club identification.
+6. Debit or credit card.
+7. Military identification.
+8. Student identification.
+9. Retirement center identification.
+10. Neighborhood association identification.
+11. Entertainment identification.
+12. Public assistance identification.
+(b) The following forms of identification shall be considered current and
+valid if they contain the name and current residence address of the appli-
+cant:
+1. Utility bill.
+2. Bank statement.
+3. Government check.
+4. Paycheck.
+5. Other government document (excluding voter identification card).
+(4) The following persons are exempt from the identification require-
+ments of this section:
+(a) Persons 65 years of age or older.
+Ch. 2003-415
+LAWS OF FLORIDA
+Ch. 2003-415
+11
+CODING:  Words stricken are deletions; words underlined are additions.
+
+PDF PAGE 12
+(b) Persons with a temporary or permanent physical disability.
+(c) Members of the uniformed service on active duty who, by reason of
+such active duty, are absent from the county on election day.
+(d) Members of the merchant marine who, by reason of service in the
+merchant marine, are absent from the county on election day.
+(e) The spouse or dependent of a member referred to in paragraph (c) or
+paragraph (d) who, by reason of the active duty or service of the member,
+is absent from the county on election day.
+(f) Persons currently residing outside the United States who are eligible
+to vote in Florida.
+Section 7. Subsection (3) of section 98.045, Florida Statutes, is amended
+to read:
+98.045 Administration of voter registration.—
+(3) Notwithstanding the provisions of ss. 98.095, 98.097, and 98.0977,
+each supervisor shall maintain for at least 2 years, and make available for
+public inspection and copying, all records concerning implementation of
+registration list maintenance programs and activities conducted pursuant
+to ss. 98.065, 98.075, and 98.0977. The records must include lists of the
+name and address of each person to whom an address confirmation final
+notice was sent and information as to whether each such person responded
+to the mailing, but may not include any information that is confidential or
+exempt from public record requirements under this code.
+Section 8. Section 98.097, Florida Statutes, is repealed.
+Section 9. Section 98.0977, Florida Statutes, is amended to read:
+98.0977 Statewide voter registration database; operation development
+and maintenance.—
+(1) From the funds appropriated, The department shall may contract
+with the Florida Association of Court Clerks to analyze, design, develop,
+operate, and maintain the a statewide, on-line voter registration database
+and associated website until such time as the statewide voter registration
+system required to be developed pursuant to the Help America Vote Act of
+2002 is operational, to be fully operational statewide by June 1, 2002. The
+database shall contain voter registration information from each of the 67
+supervisors of elections in this state and shall be accessible through an
+Internet website. The system shall provide functionality for ensuring that
+the database is updated on a daily basis to determine if a registered voter
+is ineligible to vote for any of the following reasons, including, but not
+limited to:
+(a) The voter is deceased;
+(b) The voter has been convicted of a felony and has not had his or her
+civil rights restored; or
+Ch. 2003-415
+LAWS OF FLORIDA
+Ch. 2003-415
+12
+CODING:  Words stricken are deletions; words underlined are additions.
+
+PDF PAGE 13
+(c) The voter has been adjudicated mentally incompetent and his or her
+mental capacity with respect to voting has not been restored.
+The database shall also allow for duplicate voter registrations to be identi-
+fied.
+(2) The Department of State shall not contract with any private entity
+other than the Florida Association of Court Clerks for the operation or
+maintenance of the statewide voter registration database.
+(3)(a) In administering the database, each supervisor of elections shall
+compare registration information provided by a voter with information held
+by the Department of Law Enforcement, the Board of Executive Clemency,
+the Office of Vital Statistics, and other relevant sources.
+(b) The supervisor of elections shall remove from the voter registration
+rolls the name of any person who is listed in the database as deceased.
+(c) Information in the database indicating that a person registered to
+vote in a given county has subsequently registered to vote in another juris-
+diction shall be considered as a written request from that voter to have his
+or her name removed from the voter registration rolls of that county, and
+the supervisor of elections of that county shall remove that voter’s name
+from the county’s voter registration rolls.
+(d) When the supervisor of elections finds information through the data-
+base that suggests that a voter has been convicted of a felony and has not
+had his or her civil rights restored or has been adjudicated mentally incom-
+petent and his or her mental capacity with respect to voting has not been
+restored, the supervisor of elections shall notify the voter by certified United
+States mail. The notification shall contain a statement as to the reason for
+the voter’s potential ineligibility to be registered to vote and shall request
+information from the voter on forms provided by the supervisor of elections.
+As an alternative, the voter may attend a hearing at a time and place
+specified in the notice. If there is evidence that the notice was not received,
+notice must be given once by publication in a newspaper of general circula-
+tion in the county. The notice must plainly state that the voter is potentially
+ineligible to be registered to vote and must state a time and place for the
+person to appear before the supervisor of elections to show cause why his or
+her name should not be removed from the voter registration rolls. After
+reviewing the information provided by the voter, if the supervisor of elec-
+tions determines that the voter is not eligible to vote under the laws of this
+state, the supervisor of elections shall notify the voter by certified United
+States mail that he or she has been found ineligible to be registered to vote
+in this state, shall state the reason for the ineligibility, and shall inform the
+voter that he or she has been removed from the voter registration rolls. The
+supervisor of elections shall remove from the voter registration rolls the
+name of any voter who fails either to respond within 30 days to the notice
+sent by certified mail or to attend the hearing.
+(e) Upon hearing all evidence in a hearing, the supervisor of elections
+must determine whether there is sufficient evidence to strike the person’s
+Ch. 2003-415
+LAWS OF FLORIDA
+Ch. 2003-415
+13
+CODING:  Words stricken are deletions; words underlined are additions.
+
+PDF PAGE 14
+name from the registration books. If the supervisor determines that there
+is sufficient evidence, he or she must strike the name.
+(f) Appeal may be taken to the circuit court in and for the county where
+the person was registered. Notice of appeal must be filed within the time and
+in the manner

@@ -1,0 +1,120 @@
+Source: https://www.law.cornell.edu/supct/html/02-1389.ZS.html
+
+NOTE:  Where it is feasible, a
+syllabus (headnote) will be released, as is being done in
+connection with this case, at the time the opinion is
+issued.
+The syllabus constitutes no part of the opinion of
+the Court but has been prepared by the Reporter of Decisions
+for the convenience of the reader.
+See United States
+v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+UNITED STATES v. GALLETTI et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE NINTH CIRCUIT
+
+No. 02—1389. Argued January 12, 2004–Decided March 23,
+2004
+
+“[T]he amount of any tax imposed [by the
+Internal Revenue Code] shall be assessed within three years
+after the return was filed.”  26 U.S.C. §
+6501(a).  If a tax is properly so assessed, the statute of
+limitations for collecting it is extended by 10 years from the
+assessment date.  §6502(a).  Respondents were general
+partners of a partnership (hereinafter Partnership) that failed
+to pay significant federal employment taxes from 1992 to 1995. 
+The Internal Revenue Service (IRS) timely assessed the
+Partnership, but the taxes were never paid.  Respondents later
+filed for Chapter 13 bankruptcy protection, and the IRS then
+filed proof of claims against them for the Partnership’s
+unpaid employment taxes.  Respondents objected, arguing that
+the timely assessment of the Partnership did not extend the
+3-year limitations period against the general partners, who had
+not been separately assessed within that period.  The
+Bankruptcy Court and the District Court agreed and sustained
+respondents’ objections.  The Ninth Circuit affirmed,
+holding that since respondents are “taxpayers” under
+§7701, which defines “taxpayer” to mean
+“any person subject to any internal revenue tax,”
+they are also “taxpayers” under §§6203 and
+6501.  As such, the court held that the assessment against the
+Partnership extended the limitations period only with respect
+to the Partnership.
+
+Held: The proper tax assessment
+against the Partnership suffices to extend the statute of
+limitations to collect the tax in a judicial proceeding from
+the general partners who are liable for the payment of the
+Partnership’s debts.  Pp. 4—9.
+
+    (a) Respondents
+argue that a valid assessment triggering the 10-year increase
+in the limitations period must name them individually, as they
+are primarily liable for the tax debt.	They claim, first, that
+they are the relevant taxpayers under §6203, which
+requires the assessment to be made by “recording the
+liability of the taxpayer.”  Although the Ninth Circuit
+correctly concluded that an individual partner can be a
+“taxpayer,” §6203 speaks of the taxpayer’s
+“liability,” which indicates that the relevant
+taxpayer must be determined.  Here, the liability arose from
+the Partnership’s failure to comply with
+§3402(a)(1)’s requirement that an “employer
+[paying] wages” deduct and withhold employment taxes.  And
+§3403 makes clear that the “employer” that fails
+to withhold and submit the requisite employment taxes is the
+“liable” taxpayer.  In this case, the Partnership is
+the “employer.”  Second, respondents claim that they
+are primarily liable for the tax debt because California law
+makes them jointly and severally liable for the
+Partnership’s debts.  However, to be primarily liable for
+this debt, respondents must show that they are the
+“employer.”  And, under California law, a partnership
+and its general partners are separate entities.  Thus
+respondents cannot argue that, for all intents and purposes,
+imposing a tax directly on the Partnership is equivalent to
+imposing a tax directly on the general partners, but must
+instead prove that the tax liability was imposed both on the
+Partnership and on respondents as separate
+“employers.”	That respondents are jointly and
+severally liable for the Partnership’s debts is irrelevant
+to this determination.	Pp. 4—7.
+
+      (b) The Code
+does not require the Government to make separate assessments of
+a single tax debt against persons or entities secondarily
+liable for that debt in order for §6502’s extended
+limitations period to apply to judicial collection actions
+against those persons or entities.  It is clear that
+“assessment” refers to little more than the
+calculation or recording of a tax liability, see, e.g.,
+§6201, and that it is the tax that is assessed, not
+the taxpayer, see, e.g., §6501.  The limitations
+period resulting from a proper assessment governs the time
+extension for enforcing the tax liability.  United
+States v. Updike, 281 U.S. 489, 495. 
+Once a tax has been properly assessed, nothing in the Code
+requires the IRS to duplicate its efforts by separately
+assessing the same tax against individuals or entities who are
+not the actual taxpayers but are, by reason of state law,
+liable for the taxpayer’s debt.  The assessment’s
+consequences–the extension of the limitations period for
+collecting the debt–attach to the debt without reference
+to the special circumstances of the secondarily liable parties.
+ Here, the tax was properly assessed against the Partnership,
+thereby extending the limitations period for collecting the
+debt.  The United States now timely seeks to collect that debt
+in judicial proceedings against respondents. 
+Pp. 7—9.
+
+314 F.3d 336, reversed and remanded.
+
+    Thomas, J., delivered
+the opinion for a unanimous Court.

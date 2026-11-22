@@ -1,0 +1,153 @@
+Source: https://www.law.cornell.edu/supct/html/03-107.ZS.html
+
+NOTE:  Where it is feasible, a
+syllabus (headnote) will be released, as is being done in
+connection with this case, at the time the opinion is
+issued.
+The syllabus constitutes no part of the opinion of
+the Court but has been prepared by the Reporter of Decisions
+for the convenience of the reader.
+See United States
+v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+UNITED STATES v. LARA
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE EIGHTH CIRCUIT
+
+No. 03—107. 
+Argued January 21, 2004–Decided April 19, 2004
+
+After respondent Lara, an Indian who is not a
+member of the Spirit Lake Tribe (Tribe), ignored the
+Tribe’s order excluding him from its reservation, he
+struck one of the federal officers arresting him.  He pleaded
+guilty in Tribal Court to the crime of violence to a policeman.
+ The Federal Government then charged him with the federal crime
+of assaulting a federal officer.  Lara claimed that, because
+key elements of that crime mirrored elements of his tribal
+crime, he was protected by the Double Jeopardy Clause.	The
+Government countered that the Clause does not bar successive
+prosecutions by separate sovereigns, and that this
+“dual sovereignty” doctrine determined the outcome. 
+The Government noted that this Court has held that a tribe acts
+as a separate sovereign in prosecuting its own members,
+United States v. Wheeler, 435 U.S. 313, 318,
+322—323; that, after this Court ruled that a tribe lacks
+sovereign authority to prosecute nonmember Indians, see
+Duro v. Reina, 495 U.S. 676, 679,
+Congress specifically authorized such prosecutions; and that,
+because this statute enlarges the tribes’ self-government
+powers to include “the inherent power of Indian tribes
+… to exercise criminal jurisdiction over all
+Indians,” 25
+U.S.C. § 1301(2), the Tribe here had exercised its own
+tribal authority, not delegated federal authority.  Accepting
+this argument, the Magistrate Judge rejected Lara’s double
+jeopardy claim.  The en banc Eighth Circuit reversed, holding
+that the “dual sovereignty” doctrine did not apply
+because the Tribal Court was exercising a federal prosecutorial
+power, and, thus, the Double Jeopardy Clause barred the second
+prosecution.
+
+Held: Because the Tribe acted in
+its capacity as a sovereign authority, the Double Jeopardy
+Clause does not prohibit the Federal Government from proceeding
+with the present prosecution for a discrete federal offense. 
+Pp. 4—16.
+
+    (a) Congress has
+the constitutional power to lift the restrictions on the
+tribes’ criminal jurisdiction over nonmember Indians. 
+Pp. 4—13.
+
+        (1) Sectio
+n 1301(2) “recognize[s] and affirm[s]” in each tribe
+the “inherent power” to prosecute nonmember Indians,
+and its legislative history confirms that such was
+Congress’ intent.	Thus, it seeks to adjust the
+tribes’ status, relaxing restrictions, recognized in
+Duro, that the political branches had imposed on the
+tribes’ exercise of inherent prosecutorial power. 
+Pp. 4—5.
+
+        (2) Severa
+l considerations lead to the conclusion that Congress has the
+constitutional power to lift these restrictions.  First, the
+Constitution, through the Indian Commerce and Treaty Clauses,
+grants Congress “plenary and exclusive” powers to
+legislate in respect to Indian tribes.	E.g.,
+Washington v. Confederated Bands and Tribes of Yakima
+Nation, 439 U.S.
+463, 470—471.	Second, Congress, with this
+Court’s approval, has interpreted these plenary grants of
+power as authorizing it to enact legislation that both
+restricts tribal powers and, in turn, relaxes those
+restrictions.  Third, Congress’ statutory goal–to
+modify the degree of autonomy enjoyed by a dependent sovereign
+that is not a State–is not an unusual legislative
+objective.  Fourth, Lara points to no explicit language in the
+Constitution suggesting a limitation on Congress’
+institutional authority to relax tribal sovereignty
+restrictions previously imposed by the political branches. 
+Fifth, the change at issue is limited, concerning a power
+similar to the power to prosecute a tribe’s own members,
+which this Court has called inherent.  Sixth, concluding that
+Congress has the power to relax the restrictions imposed by the
+political branches on the tribes’ inherent prosecutorial
+authority is consistent with this Court’s earlier cases. 
+The holdings in Wheeler, supra, at 326; Oliphant
+v. Suquamish Tribe, 435 U.S. 191,
+209—210; and Duro, supra, at 686, that the
+tribes’ power to prosecute nonmembers was divested by
+treaties and Congress, reflected the Court’s view of the
+tribes’ retained sovereign status at the time of those
+decisions; but they did not set forth constitutional limits
+prohibiting Congress from taking actions to modify or adjust
+that status.  The Court there based its descriptions of
+inherent tribal authority on the sources as they existed at the
+time.  Congressional legislation was one such important source,
+but it is a source subject to change.  When Duro, supra,
+at 686, like other cases, referred to a statute that
+“delegated” power to the tribes, it simply did not
+consider whether a statute could constitutionally achieve the
+same end by removing restrictions on the tribes’ inherent
+authority.  Thus, none of those cases can be read to hold that
+the Constitution forbids Congress to change judicially made
+federal Indian law through an amendment to §1301(2). 
+Wheeler, Oliphant, and Duro, then, are not
+determinative because Congress has enacted a new statute,
+relaxing restrictions on the bounds of the inherent tribal
+authority the United States recognizes.  Pp. 5—13.
+
+    (b) Lara’s additional
+arguments cannot help him win his double jeopardy claim.  This
+Court will not consider the merits of his due process claim
+that his prosecution was invalid because the Indian Civil
+Rights Act of 1968 does not guarantee counsel to an indigent
+criminal defendant.  Proving that claim does not show that the
+source of the tribal prosecution was federal power, something
+Lara must do to win his double jeopardy claim.	Like the due
+process claim, Lara’s argument that the phrase “all
+Indians” in “inherent power … to exercise
+criminal jurisdiction over all Indians” violates the Equal
+Protection Clause is beside the point.	And Lara simply repeats
+these due process and equal protection arguments in a different
+form when he argues that the Duro Court found the
+absence of certain constitutional safeguards, such as an
+indigent defendant’s right to counsel, an important reason
+for concluding that tribes lacked the “inherent
+power” to try nonmember Indians.  Pp. 13—15.
+
+324 F.3d 635, reversed.
+
+    Breyer, J., delivered
+the opinion of the Court, in which Rehnquist, C. J., and
+Stevens, O’Connor, and Ginsburg, JJ., joined.  Stevens,
+J., filed a concurring opinion.  Kennedy, J., and Thomas, J.,
+filed opinions concurring in the judgment.  Souter, J., filed a
+dissenting opinion, in which Scalia, J., joined.

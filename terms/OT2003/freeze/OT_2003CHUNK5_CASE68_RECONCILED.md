@@ -1,0 +1,43 @@
+﻿# Case 68 reconciled non-Chief commitments
+
+**Case:** Household Credit Services, Inc. v. Pfennig, No. 02-857.
+**Event and cutoff:** Merits, April 21, 2004.
+**Stage:** Historical reconciliation without the Chief's supplement. Original commitments remain unchanged; no authorship assignment.
+**Inputs:** Case 68 neutral packet, frozen commitments, entering-law slice and comparator supplement; official dated section 1604, section 1605 and Regulation Z texts.
+
+## Complete historical verification
+
+The complete [Cornell syllabus](https://www.law.cornell.edu/supct/html/02-857.ZS.html) and [Court opinion](https://www.law.cornell.edu/supct/html/02-857.ZO.html) were read from `../sources/chunk5-comparator/case68_02-857.ZS.txt` and `.ZO.txt`, including all four opinion footnotes. The syllabus verifies unanimity and no separate writing. Historical authorship supplies no assignment here.
+
+The historical result is reversal sustaining Regulation Z's exclusion of over-limit fees. The frozen eight-Associate reversal and delegated-classification grounds are consistent with it. The more explicit current-law attention to actual delegation does not change the decisive premise: section 1604(a) expressly supplies classification authority, and this binding regulation exercises it. Current Mead, Haggar and Heimmermann require enforcement of statutory boundaries before assessing a reasonable delegated choice; they do not remove the power at issue. No historical judgment departure is necessary.
+
+## Reconciled rule and disposition
+
+All eight Associates retain reversal of the Sixth Circuit and rejection of the supplied finance-charge misclassification theory. Section 1605(a)'s reference to charges incident to an extension of credit does not unambiguously determine the treatment of a fee triggered by exceeding the agreed credit limit. The statutory scheme distinguishes finance charges from other charges associated with an open-end plan. The Board may reasonably classify a contingent over-limit charge separately from the agreed price of credit under section 1604(a)'s express authority to make classifications, differentiations, adjustments and exceptions necessary or proper to effectuate TILA's purposes, prevent circumvention or evasion, or facilitate compliance.
+
+Knowing authorization of an over-limit transaction does not by itself require treating the resulting fee as the price of a renegotiated credit limit. Pfennig's causal account remains a substantial possible reading, but it is not the only reading the statute permits. The contingent-limit category provides an intelligible, administrable comparison of credit prices without eliminating independent disclosure duties. Administrative ease alone cannot override unambiguous text, and separate disclosure alone cannot cure a classification outside the statute.
+
+The actual statute's section 1602(aa) mortgage exclusion from section 1604(a)'s classification authority remains in its own terms; this card-account case does not implicate that mortgage category. Section 1604(f)'s different exemption power and criteria are not substituted for section 1604(a). Regulation Z section 226.4(c)(2)'s over-limit exclusion is distinct from subsection (c)(3)'s overdrawing-account exclusion and its prior-written-agreement qualification. The latter qualification does not become an exception to the former. No new retroactive agency authority is required because the operative regulation was already effective for the fees in the frozen packet.
+
+## Individual reconciled commitments
+
+| Justice | Result and source-supported reason | Material boundary retained |
+|---|---|---|
+| Stevens | Reverse; his Haggar, Heimmermann and substantive Smiley joins support a binding classification within actual delegation and statutory ambiguity. His actual historical full join confirms this application. | No presumption that consumer regulations survive, and no substitution of disclosure elsewhere for lawful statutory classification. |
+| O'Connor | Reverse; her Haggar, Mead and Heimmermann joins require the actual delegation and reasonableness inquiries that section 1604(a) and this regulation satisfy. Her historical join confirms the uniform-category answer. | Point-of-sale permission is not necessarily amendment of the credit-limit bargain; an actual qualifying over-limit charge and other disclosure duties remain distinct. |
+| Scalia | Reverse; his Haggar and Heimmermann joins accept an authorized binding regulation within a genuine statutory opening. His Mead disagreement concerning informal letters creates no contrary result. | The regulation's own separate provisions govern. No imported written-agreement exception, unlimited agency power, or compelled adoption of Mead's disputed informal-letter analysis. |
+| Kennedy | Reverse; his current actual-delegation and statutory-boundary opinions support separate review of authority, statutory meaning and reasonableness. The regulation satisfies all three here. | Procedure alone does not validate substance. His historical full join supplies no reason to weaken that current-law boundary. |
+| Souter | Reverse; his Smiley reasoning and Mead and Heimmermann joins permit statute-specific classifications after the actual authority inquiry. His historical join confirms that the credit connection does not unambiguously resolve the category. | National Bank Act interest and TILA finance charge are different legal terms. No cross-statute definition or automatic deference to agency assertion. |
+| Thomas | Reverse; his Heimmermann grounds and Haggar and Smiley joins support actual statutory delegation exercised within substantive limits. His historical opinion directly confirms the classification ground. | A forbidden practice cannot become lawful by relabeling; the statute's actual classification authority and unresolved fee boundary do the work. |
+| Ginsburg | Reverse; her Haggar, Mead, Heimmermann and Smiley joins preserve judicial boundary review and permit this reasoned contingency classification. Her actual full join confirms the result. | Consumer cost is relevant; separate disclosure does not itself decide validity or excuse other duties. |
+| Breyer | Reverse; his current agency-law joins support expert administration within identified limits and an administrable resolution of the actual statutory category. His historical full join confirms the result. | Expertise alone is insufficient. Statutory analysis precedes acceptance of the Board's choice; charges outside the actual category retain their separate treatment. |
+
+The eight support both the common judgment and bounded rationale. No separate-writing function is established by the supplied non-Chief commitments. Assembly must test its actual formulation and cannot attribute a general power to override enacted text.
+
+## Comparator-only procedural facts and clean-stage boundary
+
+Historical footnote 2 states that the Sixth Circuit had already affirmed dismissal of monetary TILA relief under section 1640(f). Footnote 3 states that Pfennig abandoned her plain-language position in that Court and advanced a different regulatory-coverage theory that was not considered because of the stated presentation history. Those procedural facts do not appear as operative facts in the frozen packet. They were reported to control for any needed sanitized correction; they are not silently imported here, and no forfeiture, cross-petition defect or new good-faith-defense adjudication is imposed.
+
+The authorized record presents the statutory classification question and a monthly over-limit charge. That question can be resolved on its frozen premises without those additional procedural facts. The reversal rejects that classification theory; it does not reopen monetary relief or grant a new claim. If the final event's stated surviving remedy or preservation analysis depends on either additional historical fact, control must incorporate it through fresh affected neutral and modeling stages before commitment. Historical details about transaction-authorization machinery likewise are not added as independent findings; the existing category distinction suffices.
+
+**Validation:** All eight Associates retain the same result and sufficient legal ground. Both historical primary files, all four notes, the official operative statutes and distinct regulatory exclusions were checked. Actual delegation, statutory limits, separate disclosure duties and the difference between classification and remedy remain intact. Ready for bounded assembly on the frozen record; comparator-only procedural facts require clean incorporation if used.

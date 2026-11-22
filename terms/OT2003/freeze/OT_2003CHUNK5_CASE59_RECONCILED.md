@@ -1,0 +1,23 @@
+# Galletti — frozen historical reconciliation
+
+Event: March 23, 2004; No. 02-1389. Research cutoff: the event date. Inputs: frozen neutral case, CASE59 commitments, clean CASE59 entering-law slice and comparator. Read the Cornell syllabus and complete unanimous opinion, including all five footnotes, at `../sources/chunk5-comparator/case59_02-1389.ZS.txt` and `.ZO.txt`. This context received no private Chief material. The original commitments remain unchanged. No author is assigned.
+
+## Retained result and common rationale
+
+Retain Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer: reverse the partner-specific repeat-assessment bar and remand for the Government's bankruptcy claims to be addressed under the correct rule. A timely assessment of the partnership's employment-tax obligation supplies section 6502's collection period for that same tax debt in judicial proceedings against general partners independently liable under state law. The Code requires no duplicate assessment merely because another person is answerable for that existing debt.
+
+The historical unanimous reversal strongly confirms this statutory ground. Thomas's actual opinion distinguishes assessment of the tax from the persons against whom the obligation may be collected; its result does not depend on administrative convenience. The relevant partnership employer obligation is distinct from each partner's other possible tax obligations. Describing a partner as a taxpayer generally does not identify that person as the independently assessed taxpayer for this particular employer tax. Updike supports attaching the collection period to the assessed obligation when collection proceeds against a legally responsible derivative debtor; its historical six-year provision is not the current period.
+
+All eight provisional grounds remain compatible. Stevens, O'Connor, Kennedy and Ginsburg joined the simulated Fior D'Italia assessment rule, and Breyer authored it; their support is for assessment tied to the enacted obligation, not for ignoring distinct liabilities. Scalia, Souter and Thomas did not join Fior D'Italia's estimation rule, but the present question concerns no estimate, employee-specific wage reconstruction or enlargement of the tax base. Their prior disagreement therefore supplies no causal reason to depart from the unanimous Galletti comparator. Different authorship would not create a rationale departure.
+
+## Exact scope, footnotes and source limits
+
+The judicial collection setting matters. The actual opinion's first footnote reserves administrative lien/levy collection and interest or penalties without separate notice and demand. The frozen rule likewise grants no administrative collection power and does not adjudicate unrelated personal taxes or distinct penalties. Assessment, substantive partner liability, timely collection and the lawful collection mechanism retain their different functions.
+
+The historical opinion also reports conceded state-law debt liability; treats a separately asserted state limitations theory as forfeited; and explains that bankruptcy adjudication can supply California's required judgment while an allowable claim need not already be reduced to judgment. Those reports have been identified to control because the supplied neutral handoff does not adopt the historical concessions or forfeiture and directs ordinary adjudication of actual liability, amount and procedure. They are not silently inserted into the neutral record here. Conversely, the frozen general reservation of proper claim defenses is not a finding that any particular historical forfeited theory is preserved or has merit. The limited holding resolves the repeat-assessment question completely without supplying an unapproved concession or a new factual controversy.
+
+No substantive historical departure is required for any Associate on the question actually granted. The neutral record supports a narrower remand account than the historical opinion's case-specific admissions, without changing the assessment rule or disposition. Any incorporation of those additional procedural facts requires the neutral handoff process rather than an assembly inference.
+
+## Validation
+
+Eight Associate reversal votes and eight direct joins to the same-tax assessment rule; no mandatory separate writing. All actual opinion footnotes reviewed. No Chief vote, final claim amount, administrative collection authorization, new assessment condition or new preservation finding added. The March 23 Miccosukee event supplies no same-day entering law. Ready for assembly at the supplied scope.

@@ -1,0 +1,30 @@
+{
+  "eight_independent_commitments": true,
+  "artifacts": [
+    {
+      "file": "terms/OT2003/freeze/OT_2003CHUNK5_CASE69_COMMITMENTS_REFRESH.md",
+      "bytes": 24463,
+      "sha256": "ea78ff306b720420d6f0f811636246e0ce0439d129617b83428ad774f96a8879"
+    },
+    {
+      "file": "terms/OT2003/freeze/OT_2003CHUNK5_CASE69_PREFLIGHT_REFRESH.md",
+      "bytes": 11552,
+      "sha256": "3031d3367834d8d136919b4f2ab44faffa5a97ae59392b59c0842ced3d7a7ff5"
+    },
+    {
+      "file": "terms/OT2003/freeze/OT_2003CHUNK5_CASE69_PRIMARY_RULE_EXTRACTS.md",
+      "bytes": 141214,
+      "sha256": "56876006e7bec6f48a41332c39ab8023f27f2e607ef2cb158e430a66a132628f"
+    },
+    {
+      "file": "terms/OT2003/freeze/OT_2003CHUNK5_CASE69_PRIMARY_SOURCE_AUDIT.md",
+      "bytes": 24579,
+      "sha256": "236c1956fba8587a5d435c1e6289cfd4cafa3128bede1d45b3993702e85d2a7d"
+    },
+    {
+      "file": "terms/OT2003/entering-law/OT_2003CHUNK5_CASE69_CURRENT_SUPPLEMENT.md",
+      "bytes": 32921,
+      "sha256": "9bbedb85fac0c943f28326b68821e4769af0a942135498a4c36660fd7e525ca8"
+    }
+  ]
+}

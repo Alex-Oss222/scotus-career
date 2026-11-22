@@ -1,0 +1,50 @@
+[
+  {
+    "query": "collection:us-supreme-court AND \"02-1343\"",
+    "listing_url": "https://archive.org/advancedsearch.php?q=collection%3Aus-supreme-court+AND+%2202-1343%22&output=json&rows=50&fl%5B%5D=identifier&fl%5B%5D=title",
+    "found": 1,
+    "items": [
+      {
+        "identifier": "micro_IA40385014_0643",
+        "title": "Engine Mfrs. Assn. v. South Coast Air Quality Management Dist., 541 U.S. 246 (2004) (No. 02-1343)"
+      }
+    ]
+  },
+  {
+    "query": "collection:us-supreme-court AND title:(\"Engine Manufacturers\")",
+    "listing_url": "https://archive.org/advancedsearch.php?q=collection%3Aus-supreme-court+AND+title%3A%28%22Engine+Manufacturers%22%29&output=json&rows=50&fl%5B%5D=identifier&fl%5B%5D=title",
+    "found": 0,
+    "items": []
+  },
+  {
+    "query": "collection:us-supreme-court AND title:(\"South Coast\")",
+    "listing_url": "https://archive.org/advancedsearch.php?q=collection%3Aus-supreme-court+AND+title%3A%28%22South+Coast%22%29&output=json&rows=50&fl%5B%5D=identifier&fl%5B%5D=title",
+    "found": 6,
+    "items": [
+      {
+        "identifier": "micro_IA40385004_1076",
+        "title": "Avco Community Developers, Inc. v. South Coast Regional Commission, 429 U.S. 1083 (1977) (No. 76-888)"
+      },
+      {
+        "identifier": "micro_IA40385014_0643",
+        "title": "Engine Mfrs. Assn. v. South Coast Air Quality Management Dist., 541 U.S. 246 (2004) (No. 02-1343)"
+      },
+      {
+        "identifier": "micro_IA40386004_0227",
+        "title": "The South Coast, 251 U.S. 519 (1920) (No. 68)"
+      },
+      {
+        "identifier": "micro_IA40385004_1229",
+        "title": "Avco Community Developers, Inc. v. South Coast Regional Commission, 430 U.S. 952 (1977) (No. 76-1102)"
+      },
+      {
+        "identifier": "micro_IA40385001_0396",
+        "title": "South Coast Fisheries, Inc. v. Department of Fish & Game, 375 U.S. 57 (1963) (No. 372)"
+      },
+      {
+        "identifier": "micro_IA40386015_2282",
+        "title": "South Coast Cab Co. v. City of Anaheim, 540 U.S. 1105 (2004) (No. 03-571)"
+      }
+    ]
+  }
+]
