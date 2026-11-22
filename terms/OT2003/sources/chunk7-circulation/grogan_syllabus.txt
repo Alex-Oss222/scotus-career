@@ -1,0 +1,39 @@
+Source: https://www.law.cornell.edu/supct/html/89-1149.ZS.html
+
+Grogan v. Garner, 498 U.S. 279 (1991)
+LII
+Supreme Court
+Grogan v. Garner (89-1149), 498 U.S. 279 (1991)
+Syllabus
+Opinion
+HTML version
+WordPerfect version
+HTML version
+WordPerfect version
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is  being done in connection with this case, at the time the opinion is issued.   The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.  See
+United States
+v.
+Detroit Lumber Co.,
+200 U.S. 321
+, 337.
+COY R. GROGAN,
+et al.,
+PETITIONERS
+v.
+FRANK J. GARNER, JR.
+certiorari to the united states court of appeals for the eighth circuit
+No.
+89-1149
+.   Argued
+October 29, 1990
+—  Decided
+January 15, 1991
+Respondent Garner filed a petition for relief under Chapter 11 of the Bankruptcy Code, listing a fraud judgment in petitioners' favor as a dischargeable debt.  Petitioners then filed a complaint in the proceeding  requesting a determination that their claim should be exempted from  discharge pursuant to  523(a), which provides that a debtor may not be  discharged from,
+inter alia,
+obligations for money obtained by "actual  fraud."  Presented with portions of the fraud case record, the Bankruptcy Court found that the elements of actual fraud under  523 were  proved and that the doctrine of collateral estoppel required a holding  that the debt was not dischargeable.  It and the District Court rejected  Garner's argument that collateral estoppel does not apply because the  fraud trial's jury instructions required that fraud be proved by a preponderance of the evidence, whereas  523 requires proof by clear and convincing evidence.  The Court of Appeals reversed, concluding that the  clear-and-convincing evidence standard applies in fraud cases, since Congress would not have silently changed pre-523(a) law, which generally  applied the higher standard in common-law fraud litigation and in resolving dischargeability issues, and since the Code's general "fresh start"  policy militated in favor of a broad construction favorable to the debtor.
+Held:
+Preponderance of the evidence is the standard of proof for  523(a)'s  dischargeability exceptions.  Neither  523 and its legislative history  nor the legislative history of  523's predecessor prescribes a standard of  proof, a silence that is inconsistent with the view that Congress intended  to require a clear-and-convincing evidence standard.  The preponderance standard is presumed to be applicable in civil actions between private parties unless particularly important individual interests or rights  are at stake, and, in the context of the discharge exemption provisions, a  debtor's interest in discharge is insufficient to require a heightened  standard.  Such a standard is not required to effectuate the Code's  "fresh start" policy.  Since the Code limits the opportunity for a  completely unencumbered new beginning to the honest but unfortunate  debtor by exempting certain debts from discharge, it is unlikely that  Congress would have fashioned a proof standard that favored an interest  in giving the perpetrators of fraud a fresh start over an interest in protecting the victims of fraud.  It is also fair to infer from  523(a)'s  structure that Congress intended the preponderance standard to apply  to all of the discharge exceptions.  That they are grouped together in  the same subsection with no suggestion that any particular exception is  subject to a special standard implies that the same standard should govern all of them, and it seems clear that a preponderance standard is sufficient to establish nondischargeability of some claims.  The fact that  many States required proof of fraud by clear and convincing evidence at  the time the current Code was enacted does not mean that Congress silently endorsed such a rule for the fraud discharge exception.  Unlike  many States, Congress has chosen a preponderance standard when it has  created substantive causes of action for fraud.  In addition, it amended  the Bankruptcy Act in 1970 to make nondischargeability a question of  federal law independent of the issue of the underlying claim's validity,  which is determined by state law.  Moreover, both before and after  1970, courts were split over the appropriate proof standard for the fraud  discharge exception.  Application of the preponderance standard will  also permit exception from discharge of all fraud claims creditors have  reduced to judgment, a result that accords with the historical development of the discharge exceptions, which have been altered to broaden  the coverage of the fraud exceptions.  Pp. 4-11.
+881 F. 2d 579, reversed.
+Stevens, J.,
+delivered the opinion for a unanimous Court.

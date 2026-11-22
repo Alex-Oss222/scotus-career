@@ -1,0 +1,41 @@
+542 U.S. ____ (2004) (https://www.law.cornell.edu/supct/html/03-221.ZC.html)
+citeturn16view0 [wordlim: 200] Crawled: 4 months ago; Content type: text/html; Source: open({"ref_id":"https://www.law.cornell.edu/supct/html/03-221.ZC.html","lineno":0}); Total lines: 39
+L0: 1. 【0†LII】
+L1:   2. 【1†Supreme Court】
+L2: 
+L3: PLILER V. FORD (03-221)
+L4: 330 F.3d 1086, vacated and remanded.Syllabus
+L5: Opinion
+L6: [ Thomas ]Concurrence
+L7: [ O’Connor ]Concurrence
+L8: [ Stevens ]Dissent
+L9: [ Ginsburg ]Dissent
+L10: [ Breyer ]
+L11: 【2†HTML version】
+L12: 【3†PDF version】【4†HTML version】
+L13: 【5†PDF version】【6†HTML version】
+L14: 【7†PDF version】【8†HTML version】
+L15: 【9†PDF version】【10†HTML version】
+L16: 【11†PDF version】【12†HTML version】
+L17: 【13†PDF version】
+L18: 
+L19: * * *
+L20: 
+L21: 542 U.S. ____ (2004)
+L22: 
+L23: SUPREME COURT OF THE UNITED STATES
+L24: 
+L25: * * *
+L26: No. 03—221
+L27: ### CHERYL K. PLILER, WARDEN, PETITIONER v.
+L28: RICHARD HERMAN FORD
+L29: #### ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT
+L30: 
+L31: [June 21, 2004]
+L32: 
+L33: Justice O’Connor, concurring.
+L34: 
+L35: I join the Court’s opinion because it is limited to the narrow question whether the notifications crafted by the Ninth Circuit must be given.
+L36: The propriety of the stay-and-abeyance procedure generally is not addressed. The District Court did not employ that procedure, nor did the Ninth Circuit hold that it must be applied in every case. There is, therefore, no need for us to pass on it in this case, and the Court properly avoids doing so.
+L37: I note, however, that the procedure is not an idiosyncratic one; as Justice Breyer describes, post, at 3 (dissenting opinion), seven of the eight Circuits to consider it have approved stay-and-abeyance as an appropriate exercise of a district court’s equitable powers.
+L38: For the reasons given by the majority, ante, at 6—7, it is not incumbent upon a district court to establish whether the statute of limitations has already run before explaining the options available to a habeas petitioner who has filed a mixed petition. Nevertheless, if the petitioner is affirmatively misled, either by the court or by the State, equitable tolling might well be appropriate. This is a question for the Ninth Circuit to consider on remand. See ante, at 8.

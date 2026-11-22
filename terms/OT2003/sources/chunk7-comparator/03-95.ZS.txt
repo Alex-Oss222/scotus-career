@@ -1,0 +1,219 @@
+Source: https://www.law.cornell.edu/supct/html/03-95.ZS.html
+
+PENNSYLVANIA STATE POLICE V. SUDERS
+PENNSYLVANIA STATE POLICE V. SUDERS (03-95)
+325 F.3d 432, vacated and remanded.Syllabus
+Opinion
+[ Ginsburg ]Dissent
+[ Thomas ]HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+Syllabus
+NOTE:  Where it is feasible, a
+syllabus (headnote) will be released, as is being done in
+connection with this case, at the time the opinion is
+issued.
+The syllabus constitutes no part of the opinion of
+the Court but has been prepared by the Reporter of Decisions
+for the convenience of the reader.
+See United States
+v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+SUPREME COURT OF THE UNITED
+STATES
+PENNSYLVANIA STATE POLICE v.
+SUDERS
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE THIRD CIRCUIT
+No. 03—95.
+Argued March 31, 2004–Decided June 14, 2004
+In March 1998, the Pennsylvania State Police
+(PSP) hired plaintiff-respondent Suders to work as a police
+communications operator for the McConnellsburg barracks, where
+her male supervisors subjected her to a continuous barrage of
+sexual harassment.  In June 1998, Suders told the PSP’s
+Equal Employment Opportunity Officer, Virginia Smith-Elliott,
+that she might need help, but neither woman followed up on the
+conversation.  Two months later, Suders contacted Smith-Elliott
+again, this time reporting that she was being harassed and was
+afraid.  Smith-Elliott told Suders to file a complaint, but did
+not tell her how to obtain the necessary form.	Two days later,
+Suders’ supervisors arrested her for theft of her own
+computer-skills exam papers.  Suders had removed the papers
+after concluding that the supervisors had falsely reported that
+she had repeatedly failed, when in fact, the exams were never
+forwarded for grading.	Suders then resigned from the force and
+sued the PSP, alleging, inter alia, that she had been
+subjected to sexual harassment and constructively discharged,
+in violation of Title VII of the Civil Rights Act of 1964.
+The District
+Court granted the PSP’s motion for summary judgment.
+Although recognizing that Suders’ testimony would permit a
+fact trier to conclude that her supervisors had created a
+hostile work environment, the court nevertheless held that the
+PSP was not vicariously liable for the supervisors’
+conduct.  In support of its decision, the District Court
+referred to Faragher v. Boca Raton, 524 U.S. 775, 808.
+In that case, and in Burlington Industries, Inc. v.
+Ellerth, 524
+U.S. 742, decided the same day, this Court held that an
+employer is strictly liable for supervisor harassment that
+“culminates in a tangible employment action, such as
+discharge, demotion, or undesirable reassignment.”  524
+U.S., at 765.  But when no such tangible action is
+taken, both decisions also hold, the employer may raise an
+affirmative defense to liability.  To prevail on the basis of
+the defense, the employer must prove that “(a) [it]
+exercised reasonable care to prevent and correct promptly any
+sexually harassing behavior,” and that (b) the employee
+“unreasonably failed to take advantage of any preventive
+or corrective opportunities provided by the employer or to
+avoid harm otherwise.”  Ibid.  Suders’ hostile
+work environment claim was untenable as a matter of law, the
+District Court stated, because she unreasonably failed to avail
+herself of the PSP’s internal antiharassment procedures.
+The court did not address Suders’ constructive discharge
+claim.
+The Third
+Circuit reversed and remanded the case for trial.  The appeals
+court disagreed with the District Court in two key respects:
+First, even if the PSP could assert the Ellerth/Faragher
+affirmative defense, genuine issues of material fact existed
+about the effectiveness of the PSP’s program to address
+sexual harassment claims; second, Suders had stated a claim of
+constructive discharge due to hostile work environment.  The
+appeals court ruled that a constructive discharge, if proved,
+constitutes a tangible employment action that renders an
+employer strictly liable and precludes recourse to the
+Ellerth/Faragher affirmative defense.
+Held: To establish
+“constructive discharge,” a plaintiff alleging sexual
+harassment must show that the abusive working environment
+became so intolerable that her resignation qualified as a
+fitting response.  An employer may assert the
+Ellerth/Faragher affirmative defense to such a claim
+unless the plaintiff quit in reasonable response to an adverse
+action officially changing her employment status or situation,
+e.g., a humiliating demotion, extreme cut in pay, or
+transfer to a position in which she would face unbearable
+working conditions.  Pp. 9—21.
+(a) Under the
+constructive discharge doctrine, an employee’s reasonable
+decision to resign because of unendurable working conditions is
+assimilated to a formal discharge for remedial purposes.  The
+inquiry is objective: Did working conditions become so
+intolerable that a reasonable person in the employee’s
+position would have felt compelled to resign?  This doctrine
+was developed by the National Labor Relations Board (NLRB) in
+the 1930’s, and was solidly established in the lower
+federal courts by 1964, when Title VII was enacted.  The Court
+agrees that Title VII encompasses employer liability for a
+constructive discharge.  Pp. 9—11.
+(b) This
+case concerns employer liability for one subset of constructive
+discharge claims: those resulting from sexual harassment, or
+“hostile work environment,” attributable to a
+supervisor.  The Court’s starting point is the
+Ellerth/Faragher framework.  Those decisions delineate
+two categories of sexual harassment claims: (1) those alleging
+a “tangible employment action,” for which employers
+may be held strictly liable; and (2) those asserting no
+tangible employment action, in which case employers may assert
+the affirmative defense.  Ellerth, 524 U.S., at 765.
+The key issues here are: Into which Ellerth/Faragher
+category hostile-environment constructive discharge claims
+fall, and what proof burdens the parties bear in such cases.
+In Ellerth and Faragher, the Court invoked the
+principle drawn from agency law that an employer is liable for
+the acts of its agent when the agent is “aided in
+accomplishing the tort by the existence of the agency
+relation.”  Id., at 758.  When a supervisor engaged
+in harassing conduct takes a tangible employment action against
+a subordinate, the Court reasoned, it is beyond question that
+the supervisor is aided by the agency relation.  A tangible
+employment action, the Court stated, is an “official act
+of the enterprise” and “fall[s] within the special
+province of the supervisor.”  Id., at 762.	In
+contrast, when supervisor harassment does not culminate in a
+tangible employment action, Ellerth and Faragher
+explained, it is less obvious that the agency relation is the
+driving force.	The Court also recognized that a liability
+limitation linked to an employer’s effort to install
+effective grievance procedures and an employee’s effort to
+report harassing behavior would advance Title VII’s
+conciliation and deterrence purposes.  Id., at 764.
+Accordingly, the Court held that when no tangible employment
+action is taken, an employer may defeat vicarious liability for
+supervisor harassment by establishing the two-part affirmative
+defense.  That defense, the Court observed, accommodates the
+“avoidable consequences” doctrine Title VII
+“borrows from tort law,” ibid., by requiring
+plaintiffs reasonably to stave off avoidable harm.
+Ellerth and Faragher clarify, however, that the
+defending employer bears the burden to prove that the
+plaintiff-employee unreasonably failed to avoid or reduce harm.
+Faragher, at 807.  Pp. 11—15.
+(1) The
+constructive discharge at issue stems from, and can be regarded
+as an aggravated case of, sexual harassment or hostile work
+environment.   For an atmosphere of harassment or hostility to
+be actionable, the offending behavior must be sufficiently
+severe or pervasive to alter the victim’s employment
+conditions and create an abusive working environment.
+Meritor Savings Bank, FSB v. Vinson, 477 U.S. 57, 67.  A
+hostile-environment constructive discharge claim entails
+something more: working conditions so intolerable that a
+reasonable person would have felt compelled to resign.
+Suders’ claim is of the same genre as the claims analyzed
+in Ellerth and Faragher.	Essentially, Suders
+presents a “worse case” harassment scenario,
+harassment ratcheted up to the breaking point.	Like the
+harassment considered in Ellerth and Faragher,
+harassment so intolerable as to cause a resignation may be
+effected through co-worker conduct, unofficial supervisory
+conduct, or official company acts.  Unlike an actual
+termination, which is always effected through an
+official company act, a constructive discharge may or may not
+involve official action.  When it does not, the extent to which
+the agency relationship aided the supervisor’s misconduct
+is less certain, and that uncertainty justifies affording the
+employer the chance to establish, through the
+Ellerth/Faragher affirmative defense, that it should not
+be held vicariously liable.  The Third Circuit erred in drawing
+the line differently.  Pp. 15—19.
+(2) The
+Third Circuit qualified its holding that a constructive
+discharge itself constitutes a tangible employment action under
+Ellerth and Faragher: The affirmative defense
+delineated in those cases, the court noted, might be imported
+into the anterior issue whether the employee’s decision to
+resign was reasonable under the circumstances.	However, the
+appeals court left open when and how the
+Ellerth/Faragher considerations would be brought home to
+the fact trier.  The Court of Appeals did not address
+specifically the allocation of pleading and persuasion burdens,
+but simply relied on “the wisdom and expertise of trial
+judges to exercise their gatekeeping authority when assessing
+whether all, some, or none of the evidence relating to
+employers’ antiharassment programs and to employees’
+exploration of alternative avenues warrants introduction at
+trial.”  325 F.3d, at 463.  There is no cause for leaving
+the district courts thus unguided.  Following Ellerth
+and Faragher, the plaintiff who alleges no tangible
+employment action has the duty to mitigate harm, but the
+defendant bears the burden to allege and prove that the
+plaintiff failed in that regard.  Pp. 19—21.
+(c) Although
+the Third Circuit correctly ruled that the case, in its current
+posture, presents genuine issues of material fact concerning
+Suders’ hostile work environment and constructive
+discharge claims, that court erred in declaring the affirmative
+defense described in Ellerth and Faragher never
+available in constructive discharge cases.  P. 21.
+325 F.3d 432, vacated and remanded.
+Ginsburg, J.,
+delivered the opinion of the Court, in which Rehnquist,
+C. J., and Stevens, O’Connor, Scalia, Kennedy,
+Souter, and Breyer, JJ., joined.  Thomas, J., filed a
+dissenting opinion.

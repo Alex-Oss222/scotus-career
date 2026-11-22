@@ -1,0 +1,161 @@
+Source: https://www.law.cornell.edu/supct/html/02-1845.ZS.html
+
+AETNA HEALTH INC. V. DAVILA
+AETNA HEALTH INC. V. DAVILA (02-1845)
+307 F.3d 298, reversed and remanded.Syllabus
+Opinion
+[ Thomas ]Concurrence
+[ Ginsburg ]HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+Syllabus
+NOTE:  Where it is feasible, a
+syllabus (headnote) will be released, as is being done in
+connection with this case, at the time the opinion is
+issued.
+The syllabus constitutes no part of the opinion of
+the Court but has been prepared by the Reporter of Decisions
+for the convenience of the reader.
+See United States
+v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+SUPREME COURT OF THE UNITED
+STATES
+AETNA HEALTH INC., fka AETNA U.S. HEALTHCARE
+INC. et al. v. DAVILA
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE FIFTH CIRCUIT
+No. 02—1845. Argued March 23, 2004–Decided June 21,
+2004*
+Respondents brought separate Texas
+state-court suits, alleging that petitioners, their health
+maintenance organizations (HMOs), had refused to cover certain
+medical services in violation of an HMO’s duty “to
+exercise ordinary care” under the Texas Health Care
+Liability Act (THCLA), and that those refusals
+“proximately caused” respondents’
+injuries.  Petitioners removed the cases to federal
+courts, claiming that the actions fit within the scope of, and
+were thus completely pre-empted by, §502 of the Employee
+Retirement Income Security Act of 1974 (ERISA).  The District
+Courts agreed, declined to remand the cases to state court, and
+dismissed the complaints with prejudice after respondents
+refused to amend them to bring explicit ERISA claims.
+Consolidating these and other cases, the Fifth Circuit
+reversed.  It found that respondents’ claims did not fall
+under ERISA §502(a)(2), which allows suit against a plan
+fiduciary for breaches of fiduciary duty to the plan, because
+petitioners were being sued for mixed eligibility and treatment
+decisions that were not fiduciary in nature, see Pegram
+v. Herdrich, 530 U.S. 211; and did
+not fall within the scope of §502(a)(1)(B), which provides
+a cause of action for the recovery of wrongfully denied
+benefits, because THCLA did not duplicate that cause of action,
+see Rush Prudential HMO, Inc. v. Moran, 536 U.S. 355.
+Held: Respondents’ state
+causes of action fall within ERISA §502(a)(1)(B), and are
+therefore completely pre-empted by ERISA §502 and
+removable to federal court.  Pp. 4—20.
+(a) When a
+federal statute completely pre-empts a state-law cause of
+action, the state claim can be removed.  See Beneficial Nat.
+Bank v. Anderson, 539 U.S. 1, 8.	ERISA
+is such a statute.  Because its purpose is to provide a uniform
+regulatory regime, ERISA includes expansive pre-emption
+provisions, such an ERISA §502(a)’s integrated
+enforcement mechanism, which are intended to ensure that
+employee benefit plan regulation is “exclusively a federal
+concern,” Alessi v. Raybestos&nbhyph;Manhattan,
+Inc., 451 U.S.
+504, 523.  Any state-law cause of action that duplicates,
+supplements, or supplants ERISA’s civil enforcement remedy
+conflicts with clear congressional intent to make that remedy
+exclusive, and is therefore pre-empted.  ERISA
+§502(a)’s pre-emptive force is still stronger.  Since
+ERISA §502(a)(1)(B)’s pre-emptive force mirrors that
+of §301 of the Labor Management Relations Act, 1947,
+Metropolitan Life Ins. Co. v. Taylor, 481 U.S. 58,
+65—66, and since §301 converts state causes of
+actions into federal ones for purposes of determining the
+propriety of removal, so too does ERISA §502(a)(1)(B).
+Pp. 4—7.
+(b) If an
+individual, at some point in time, could have brought his claim
+under ERISA §502(a)(1)(B), and where no other independent
+legal duty is implicated by a defendant’s actions, then
+the individual’s cause of action is completely pre-empted
+by ERISA §502(a)(1)(B).  Respondents brought suit only to
+rectify wrongful benefits denials, and their only relationship
+with petitioners is petitioners’ partial administration of
+their ERISA-regulated benefit plans; respondents therefore
+could have brought §502(a)(1)(B) claims to recover the
+allegedly wrongfully denied benefits.  Both respondents allege
+violations of the THCLA’s duty of ordinary care, which
+they claim is entirely independent of any ERISA duty or the
+employee benefits plans at issue.  However, respondents’
+claims do not arise independently of ERISA or the plan terms.
+If a managed care entity correctly concluded that, under the
+relevant plan’s terms, a particular treatment was not
+covered, the plan’s failure to cover the requested
+treatment would be the proximate cause of any injury arising
+from the denial.  More significantly, the THCLA provides that a
+managed care entity is not subject to THCLA liability if it
+denies coverage for a treatment not covered by the plan it
+administers.  Pp. 7—12.
+(c) The
+Fifth Circuit’s reasons for reaching its contrary
+conclusion are all erroneous.  First, it found significant that
+respondents asserted tort, rather than contract, claims and
+that they were not seeking reimbursement for benefits denied.
+However, distinguishing between pre-empted and non-pre-empted
+claims based on the particular label affixed to them would
+allow parties to evade ERISA’s pre-emptive scope simply by
+relabeling contract claims as claims for tortious breach of
+contracts.  And the fact that a state cause of action attempts
+to authorize remedies beyond those that ERISA §502(a)
+authorizes does not put it outside the scope of ERISA’s
+civil enforcement mechanism.  See, e.g., Pilot Life Ins.
+Co. v. Dedeaux, 481 U.S. 41, 43.
+Second, the court believed the plans’ wording immaterial
+because the claims invoked an external ordinary care duty, but
+the wording is material to the state causes of action and the
+THCLA creates a duty that is not external to respondents’
+rights under their respective plans.  Finally, nowhere in
+Rush Prudential did this Court suggest that ERISA
+§502(a)’s pre-emptive force is limited to state
+causes of action that precisely duplicate an ERISA §502(a)
+cause.	Nor would it be consistent with this Court’s
+precedent to do so.  Pp. 12—14.
+(d) Also
+unavailing is respondents’ argument that the THCLA is a
+law regulating insurance that is saved from pre-emption by
+ERISA §514(b)(2)(A).  This Court’s understanding of
+§514(b)(2)(A) is informed by the overpowering federal
+policy embodied in ERISA §502(a), which is intended
+to create an exclusive federal remedy, Pilot Life, 481
+U.S., at 52.  Allowing respondents to proceed with their
+state-law suits would “pose an obstacle” to that
+objective.  Ibid.  Pp. 14—16.
+(e) Pegram’s
+holding that an HMO is not intended to be treated as a
+fiduciary to the extent that it makes mixed eligibility
+decisions acting through its physicians is not implicated here
+because petitioners’ coverage decisions are pure
+eligibility decisions.	A benefit determination under ERISA is
+part and parcel of the ordinary fiduciary responsibilities
+connected to the administration of a plan.  That it is infused
+with medical judgments does not alter this result.
+Pegram itself recognized this principle, see 530 U.S.,
+at 231—232.  And ERISA and its implementing regulations
+confirm this interpretation.  Here, petitioners are neither
+respondents’ treating physicians nor those
+physicians’ employees.  Pp. 16—19.
+307 F.3d 298, reversed and remanded.
+Thomas, J., delivered
+the opinion for a unanimous Court.  Ginsburg, J., filed a
+concurring opinion, in which Breyer, J., joined.
+Notes
+*.  Together with No. 03—83, CIGNA
+HealthCare of Texas, Inc., dba CIGNA Corp. v. Calad et
+al., also on certiorari to the same court.

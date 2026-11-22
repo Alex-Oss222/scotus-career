@@ -1,0 +1,53 @@
+PLILER V. FORD (https://www.law.cornell.edu/supct/html/03-221.ZS.html)
+citeturn17view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.law.cornell.edu/supct/html/03-221.ZS.html","lineno":0}); Total lines: 51
+L0: PLILER V. FORD (03-221)
+L1: 330 F.3d 1086, vacated and remanded.
+L2: Syllabus
+L3:  | Opinion
+L4: [ Thomas ]  | Concurrence
+L5: [ O’Connor ]  | Concurrence
+L6: [ Stevens ]  | Dissent
+L7: [ Ginsburg ]  | Dissent
+L8: [ Breyer ]
+L9: --- | --- | --- | --- | --- | ---
+L10: 【0†HTML version】
+L11: 【1†PDF version】  | 【2†HTML version】
+L12: 【3†PDF version】  | 【4†HTML version】
+L13: 【5†PDF version】  | 【6†HTML version】
+L14: 【7†PDF version】  | 【8†HTML version】
+L15: 【9†PDF version】  | 【10†HTML version】
+L16: 【11†PDF version】
+L17: 
+L18: * * *
+L19: 
+L20: Syllabus
+L21: NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+L22: The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+L23: See United States v. Detroit Timber & Lumber Co., 【12†200 U.S. 321】, 337.
+L24: 
+L25: SUPREME COURT OF THE UNITED STATES
+L26: ### PLILER, WARDEN v. FORD
+L27: #### CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT
+L28: 
+L29: * * *
+L30: 
+L31: No. 03—221. Argued April 26, 2004–Decided June 21, 2004
+L32: 
+L33: * * *
+L34: Five days before the 1-year statute of limitations under the Antiterrorism and Effective Death Penalty Act of 1996 (AEDPA) would have run, respondent filed two pro se “mixed” federal habeas petitions–those containing both unexhausted and exhausted claims–and motions to stay the petitions while he returned to state court to exhaust the unexhausted claims.
+L35: The Magistrate Judge gave him three options: (1) The petitions could be dismissed without prejudice and respondent could refile after exhausting the unexhausted claims; (2) the unexhausted claims could be dismissed and he could proceed with only the exhausted claims; or (3) he could contest the Magistrate Judge’s finding that some claims were unexhausted. He chose the first option with respect to one petition and failed to respond with respect to the other.
+L36: The Federal District Court dismissed his petitions without prejudice. He then filed habeas petitions in the California Supreme Court, which were both denied. The federal court dismissed his subsequently refiled pro se habeas petitions with prejudice as untimely under AEDPA, see 【13†28 U.S.C. § 2254】(d), and denied him a certificate of appealability (COA).
+L37: The Ninth Circuit granted a COA, concluding that his initial petitions were timely under §2254(d) and that his later petitions related back to the initial ones. The Ninth Circuit determined that although the District Court correctly concluded that it did not have discretion to stay respondent’s mixed petitions, it could have acted on his stay motions had he chosen the Magistrate Judge’s second option and then renewed the prematurely filed stay motions.
+L38: It also held that the District Court had to give respondent two specific warnings: first, that it could not consider his motions to stay the mixed petitions unless he chose to amend them and dismiss the then-unexhausted claims; and second, if applicable, that his federal claims would be time barred, absent cause for equitable tolling, upon his return to federal court if he opted to dismiss the petitions without prejudice and return to state court to exhaust all his claims.
+L39: Held: The District Court was not required to provide the warnings directed by the Ninth Circuit. Pp. 4—9.
+L40: (a) Federal district courts must dismiss “mixed” habeas petitions. Rose v. Lundy, 【14†455 U.S. 509】, 522. The combined effect of Rose and AEDPA’s limitations period is that if a petitioner comes to federal court with a mixed petition toward the end of the limitations period, a dismissal of his mixed petition could result in the loss of all his claims–including those already exhausted–because the limitations period could expire during the time he returns to state court to exhaust his unexhausted claims.
+L41: To address this, the Ninth Circuit allows a district court to employ a stay-and-abeyance procedure, which involves (1) dismissal of any unexhausted claims from the original mixed habeas petition; (2) a stay of the remaining claims, pending exhaustion of the dismissed unexhausted claims in state court; and (3) amendment of the original petition to add the newly exhausted claims that then relate back to the original petition.
+L42: Here, the Ninth Circuit held that if a pro se prisoner files a mixed petition, the district court must give two specific warnings regarding the stay-and-abeyance procedure. But federal district judges have no obligation to act as counsel or paralegal to pro se litigants. See, e.g., McKaskle v. Wiggins, 【15†465 U.S. 168】, 183—184. Explaining the details of federal habeas procedure and calculating statutes of limitations are tasks normally and properly performed by trained counsel.
+L43: Requiring district courts to advise pro se litigants in such a manner would undermine district judges’ role as impartial decisionmakers. And the warnings run the risk of being misleading. The first could encourage the use of stay-and-abeyance when it is not in the petitioner’s best interest.
+L44: The second would force upon judges the potentially burdensome task of making a case-specific calculation of whether the AEDPA limitations period has already run or will have run by the time the petitioner returns to federal court. Because such calculations depend upon information contained in documents that do not necessarily accompany the petition, a district judge’s calculation could be in error and thereby misinform a pro se petitioner.
+L45: Respondent’s argument that Rose requires that a prisoner be given “the choice of returning to state court to exhaust his claims or amending or resubmitting the habeas petition to present only exhausted claims to the district court,” 455 U.S., at 510, is unavailing. Rose requires only that a district court dismiss mixed petitions, which, as a practical matter, means that the prisoner must follow one of these two paths if he wants to proceed with his federal petition.
+L46: Nothing in Rose requires that both options be equally attractive, or that district judges give specific advisements as to the availability and wisdom of these options. Respondent’s reliance on Castro v. United States, 540 U.S. ___, is misplaced, because Castro dealt with a district court’s sua sponte recharacterization of a prisoner’s pleading and did not address whether a district court is required to explain a pro se litigant’s options before a voluntary dismissal. Pp. 4—8.
+L47: (b) The case is remanded for further proceedings given the concern that respondent had been affirmatively misled. P. 8.
+L48: 
+L49: 330 F.3d 1086, vacated and remanded.
+L50: Thomas, J., delivered the opinion of the Court, in which Rehnquist, C. J., and O’Connor, Scalia, and Kennedy, JJ., joined. O’Connor, J., filed a concurring opinion. Stevens, J., filed an opinion concurring in the judgment, in which Souter, J., joined. Ginsburg, J., filed a dissenting opinion, in which Breyer, J., joined. Breyer, J., filed a dissenting opinion.

@@ -1,0 +1,137 @@
+Source: https://www.law.cornell.edu/supct/html/03-724.ZS.html
+
+F. HOFFMANN-LA ROCHE LTD. V. EMPAGRAN S.A.
+F. HOFFMANN-LA ROCHE LTD. V. EMPAGRAN S.A. (03-724)
+315 F.3d 338, vacated and remanded.Syllabus
+Opinion
+[ Breyer ]Concurrence
+[ Scalia ]HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+Syllabus
+NOTE:  Where it is feasible, a
+syllabus (headnote) will be released, as is being done in
+connection with this case, at the time the opinion is
+issued.
+The syllabus constitutes no part of the opinion of
+the Court but has been prepared by the Reporter of Decisions
+for the convenience of the reader.
+See United States
+v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+SUPREME COURT OF THE UNITED
+STATES
+F. HOFFMAN-La ROCHE LTD. et al. v.
+EMPAGRAN S. A. et al.
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE DISTRICT OF COLUMBIA CIRCUIT
+No. 03—724.
+Argued April 26, 2004–Decided June 14, 2004
+The Foreign Trade Antitrust Improvements Act
+of 1982 (FTAIA) provides that the Sherman Act “shall not
+apply to conduct involving trade or commerce … with
+foreign nations,” 15 U.S.C. § 6a
+but creates exceptions for conduct that significantly harms
+imports, domestic commerce, or American exporters.  In this
+case, vitamin purchasers filed a class action alleging that
+vitamin manufacturers and distributors had engaged in a
+price-fixing conspiracy, raising vitamin prices in the United
+States and foreign countries, in violation of the Sherman and
+Clayton Acts.  As relevant here, defendants (petitioners) moved
+to dismiss the suit as to the foreign purchasers
+(respondents), foreign companies located abroad, who had
+purchased vitamins only outside United States commerce.  In
+dismissing respondents’ claims, the District Court applied
+the FTAIA and found none of its exceptions applicable.	The
+Court of Appeals reversed, concluding that the FTAIA’s
+exclusionary rule applied, but so did its exception for conduct
+that has a “direct, substantial and reasonably foreseeable
+effect” on domestic commerce that “gives rise to a
+[Sherman Act] claim,” §§6a(1)(A), (2).  Assuming
+that the foreign effect, i.e., higher foreign prices,
+was independent of the domestic effect, i.e., higher
+domestic prices, the court nonetheless concluded that the
+Act’s text, legislative history, and policy goal of
+deterring harmful price-fixing activity made the lack of
+connection between the two effects inconsequential.
+Held: Where the price-fixing
+conduct significantly and adversely affects both customers
+outside and within the United States, but the adverse foreign
+effect is independent of any adverse domestic effect, the FTAIA
+exception does not apply, and thus, neither does the Sherman
+Act, to a claim based solely on the foreign effect.
+Pp. 4—19.
+(a) Respondents
+6; threshold argument that the transactions fall outside the
+FTAIA because its general exclusionary rule applies only to
+conduct involving exports is rejected.	The House Judiciary
+Committee changed the bill’s original language from
+“export trade or export commerce,” H. R. 5235,
+to “trade or commerce (other than import trade or import
+commerce)” deliberately to include commerce that did not
+involve American exports but was wholly foreign.
+Pp. 5—6.
+(b) The
+FTAIA exception does not apply here for two reasons.
+First, this Court ordinarily construes ambiguous
+statutes to avoid unreasonable interference with other
+nations’ sovereign authority.  This rule of construction
+reflects customary international law principles and cautions
+courts to assume that legislators take account of other
+nations’ legitimate sovereign interests when writing
+American laws.	It thereby helps the potentially conflicting
+laws of different nations work together in harmony.  While
+applying America’s antitrust laws to foreign conduct can
+interfere with a foreign nation’s ability to regulate its
+own commercial affairs, courts have long held such application
+nonetheless reasonable, and hence consistent with prescriptive
+comity principles, insofar as the laws reflect a legislative
+effort to redress domestic antitrust injury caused by foreign
+anticompetitive conduct.  However, it is not reasonable to
+apply American laws to foreign conduct insofar as that conduct
+causes independent foreign harm that alone gives rise to a
+plaintiff’s claim.  The risk of interference is the same,
+but the justification for the interference seems insubstantial.
+While some of the anticompetitive conduct alleged here took
+place in America, the higher foreign prices are not the
+consequence of any domestic anticompetitive conduct sought to
+be forbidden by Congress, which rather wanted to release
+domestic (and foreign) anticompetitive conduct from Sherman Act
+constraint when that conduct causes foreign harm.  Contrary to
+respondents’ claim, the comity concerns remain real as
+other nations have not in all areas adopted antitrust laws
+similar to this country’s and, in any event, disagree
+dramatically about appropriate remedies.  Respondents’
+alternative argument that case-by-case comity analysis is
+preferable to an across the board exclusion of foreign injury
+cases is too complex to prove workable.  Second, the
+FTAIA’s language and history suggest that Congress
+designed the Act to clarify, perhaps to limit, but not to
+expand, the Sherman Act’s scope as applied to foreign
+commerce.  There is no significant indication that at the time
+Congress wrote the FTAIA courts would have thought the Sherman
+Act applicable in these circumstances, nor do the six cases on
+which respondents rely warrant a different conclusion.
+Pp. 6—16.
+(c) Respondents’ additional
+linguistic arguments might show a natural reading of the
+statute, but the comity and history considerations previously
+discussed make clear that respondents’ reading is not
+consistent with the FTAIA’s basic intent.	Their
+deterrence-based policy argument is also unavailing in light of
+the contrary arguments by the antitrust enforcement agencies.
+Pp. 16—18.
+(d) On
+remand, the Court of Appeals may consider whether respondents
+properly preserved their alternative argument that the foreign
+injury here was not in fact independent of the domestic
+effects; and, if so, it may consider and decide the related
+claim.	Pp. 18—19.
+315 F.3d 338, vacated and remanded.
+Breyer, J., delivered
+the opinion of the Court, in which Rehnquist, C. J., and
+Stevens, Kennedy, Souter, and Ginsburg, JJ., joined.  Scalia,
+J., filed an opinion concurring in the judgment, in which
+Thomas, J., joined.  O’Connor, J., took no part in the
+consideration or decision of the case.

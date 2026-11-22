@@ -1,0 +1,35 @@
+# OT2003 chunk 7 ? fresh neutral validation of matters 89 and 91
+
+This fresh review validates Republic of Austria v. Altmann and Department of Transportation v. Public Citizen for independent modeling. Both scheduled events occur June 7, 2004 and use law effective before that date. They do not draw law from uncoordinated same-day decisions.
+
+## Isolation and sources
+
+The reviewer received the two approved neutral packets and [Group A entering-law slice](../entering-law/OT_2003CHUNK7_GROUP_A.md), with the governing Engine and sanitized current-term projection already available. No current-case Supreme Court outcome, lineup, opinion rationale or petition treatment for either matter was exposed. No controlled Stone material, historical comparator, commitments, reconciliation, raw Decision Record or private continuity was read. This is an independent framing-and-completeness check, not an adoption of any earlier reviewer's conclusion.
+
+The packets are authorized factual recitations. The cases' supplied review channels are accepted under the user?s instruction that the inventory is properly before the Court. No extra grant or docket-verification condition is imposed. No new fact, filing, waiver, concession or procedural reconstruction is adopted.
+
+## 89. Republic of Austria v. Altmann
+
+Ready for independent modeling. The granted question concerns the FSIA?s temporal operation, not ownership of the paintings or final proof of an unlawful taking. The exception determination below is outside that temporal question. The packet consistently keeps adjudicative immunity, act of state, title, limitations and execution distinct.
+
+The relevant standards are Statutory temporal reach and new consequences for completed conduct, effective through Rivers on April 26, 1994, and Filing-time ownership and foreign-state instrumentality status, effective April 22, 2003. Landgraf requires statutory temporal direction first and then examination of actual new consequences. Rivers does not equate a corrective legislative purpose with retrospective reach. Hughes Aircraft prevents treating a jurisdictional label as dispositive where a new private enforcement exposure is created. Dole Food?s filing-time holding supports analysis of present statutory status but does not itself decide every immunity?s temporal reach. The six-Justice direct-ownership rule is distinct from its unanimous filing-time ground.
+
+The neutral paths remain legally intelligible on both sides: the Act can be understood as the present comprehensive rule for immunity determinations, or its application to earlier sovereign conduct can be examined for a new consequence requiring clearer temporal direction. The United States? exception-specific cutoff proposal is separately stated; it is not assimilated into either party?s argument or adopted as law. Affirmance on the temporal issue permits the suit to proceed under the existing posture, while a contrary temporal holding requires the proper earlier-immunity inquiry rather than an invented final title judgment.
+
+The FSIA?s governing 1976 framework and historical 1952 policy predate divergence; no displaced post-divergence Supreme Court enactment predicate is identified. The existing packet?s source limits do not prevent adjudication of the temporal question. An eventual opinion must identify exactly why the FSIA?s text, structure and operation resolve the temporal issue and must not declare the alleged expropriation proved merely by allowing adjudication.
+
+## 91. Department of Transportation v. Public Citizen
+
+Ready for independent modeling with the framing clarification below. The question concerns the environmental duties of the actual agency rules and their legally attributable effects. The President?s independent opening decision supplies the record?s allocation of authority; calling that decision exempt does not itself resolve the agency?s own statutory duties.
+
+Metropolitan Edison supplies the requirement of a reasonably close causal relationship; Robertson distinguishes NEPA procedure from a substantive environmental veto; Vermont Yankee requires meaningful presentation of an objection when the agency could address it. None establishes that every effect following implementation is attributable to the implementing agency, or that an agency?s limited authority eliminates every procedural duty. The material inquiry concerns what the agency can decide and what effects its particular choices produce. The current-term Alaska DEC and Engine Manufacturers holdings in the slice retain their separate statutory subjects; neither directly resolves this NEPA and conformity dispute.
+
+The Department?s strongest path ties review to effects within its statutory decisionmaking and rejects treatment of the President?s independently controlled choice as an agency environmental choice. The opposing analytical path emphasizes the agency?s necessary implementing act and the informational function of environmental review even where the agency lacks a general power to veto entry. This latter formulation is an analytical possibility from the stated record, not an assertion that a new filing or concession occurred. The decision must answer that argument at the scope its controlling coalition adopts.
+
+NEPA analysis, the separate Clean Air Act conformity requirement and omitted-alternative preservation require distinct treatment. The supported possibility of effects from discretionary safety choices remains separate from the claimed increase caused by lifting the moratorium. The packet?s statement that commenters did not identify additional regulatory alternatives does not prove forfeiture of every environmental objection. Any obvious-defect exception must have its supported trigger; no exception is presumed to cover a missing proposal. The remedy may remove an unsupported review requirement or return a genuinely unresolved controllable effect for adjudication, but cannot grant an environmental entry veto absent statutory authority.
+
+The NEPA and Clean Air Act frameworks identified in the packet predate divergence; the source material supplies no identified amendment enacted to reverse a Supreme Court predicate absent here. Then-operative CEQ and conformity regulations control; later amendments must not enter. If an eventual holding turns on a particular regulatory qualifier, its date-eligible operative text must be quoted or accurately specified before the holding is finalized. No new source gap currently requires stopping independent modeling on the supplied legal question.
+
+## Participation and completion
+
+The two packets identify no case-specific nonparticipation; the seated nine-member roster supplies a quorum and the ordinary five-vote majority threshold, subject to any later verified objective participation correction. This receipt supplies no vote, rationale commitment, opinion assignment, judgment or current-law change. The two neutral packets, their selected entering law and these stated limits are ready for a fresh independent modeling context.

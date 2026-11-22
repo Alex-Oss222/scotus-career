@@ -1,0 +1,233 @@
+Source: https://www.law.cornell.edu/supct/html/02-1809.ZS.html
+
+HIBBS V. WINN
+HIBBS V. WINN (02-1809)
+307 F.3d 1011, affirmed.Syllabus
+Opinion
+[ Ginsburg ]Concurrence
+[ Stevens ]Dissent
+[ Kennedy ]HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+Syllabus
+NOTE:  Where it is feasible, a
+syllabus (headnote) will be released, as is being done in
+connection with this case, at the time the opinion is
+issued.
+The syllabus constitutes no part of the opinion of
+the Court but has been prepared by the Reporter of Decisions
+for the convenience of the reader.
+See United States
+v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+SUPREME COURT OF THE UNITED
+STATES
+HIBBS, DIRECTOR, ARIZONA DEPARTMENT OF
+REVENUE v. WINN et al.
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE NINTH CIRCUIT
+No. 02—1809. Argued January 20, 2004–Decided June 14,
+2004
+Plaintiffs-respondents, Arizona taxpayers,
+filed suit in federal court against the Director of
+Arizona’s Department of Revenue (Director) seeking to
+enjoin the operation of Ariz. Rev. Stat. Ann.
+§43—1089 on Establishment Clause grounds.
+Arizona’s law authorizes an income-tax credit for payments
+to nonprofit “school tuition organizations” (STOs)
+that award scholarships to students in private elementary or
+secondary schools.  Section 43—1089 provides that STOs may
+not designate schools that “discriminate on the basis of
+race, color, handicap, familial status or national
+origin,” §43—1089(F), but does not preclude STOs
+from designating schools that provide religious instruction or
+give religion-based admissions preferences.  The District Court
+granted the Director’s motion to dismiss on the ground
+that the Tax Injunction Act (TIA), 28 U.S.C. §
+1341 barred the suit.  The TIA prohibits lower federal
+courts from restraining “the assessment, levy or
+collection of any tax under State law where a plain, speedy and
+efficient remedy may be had in the courts of such State.”
+The Ninth Circuit reversed, holding that the TIA does not bar
+federal-court actions challenging state tax credits.
+Held:
+1.  The Court
+rejects respondents’ contention that the Director’s
+certiorari petition was jurisdictionally untimely under 28 U.S.C. §
+2101(c) and this Court’s Rule 13(3).  Section 2101(c)
+instructs that a petition must be filed “within ninety
+days after the entry of … judgment,” and this
+Court’s Rule 13(3) elaborates on that statute’s
+instruction.  More than 90 days elapsed between the date the
+Ninth Circuit first entered judgment and the date the
+Director’s petition was filed.  That time lapse,
+respondents assert, made the filing untimely under Rule
+13(3)’s first sentence: “[T]he time to file …
+runs from the date of entry of the judgment or order sought to
+be reviewed.”  Moreover, respondents submit, because no
+party petitioned for rehearing, the extended filing periods
+prescribed by the Rule’s second sentence never came into
+play.  This case, however, did not follow the typical course.
+The Ninth Circuit, on its own initiative, had recalled its
+mandate and ordered the parties to brief the question whether
+the case should be reheard en banc.  That order, this Court
+holds, suspended the judgment’s finality under
+§2101(c), just as a timely filed rehearing petition would
+or a court’s appropriate decision to consider a late-filed
+rehearing petition, see Missouri v. Jenkins, 495 U.S. 33, 49.  The
+Court of Appeals’ order raised the question whether that
+court would modify the judgment and alter the parties’
+rights; thus, while the court-initiated briefing order was
+pending, there was no “judgment” to be reviewed.
+See, e.g., id., at 46.  The Director’s certiorari
+petition was timely under the statute because it was filed
+within 90 days of the date the Ninth Circuit denied rehearing
+en banc.  Were this Court to read Rule 13 as the sole guide, so
+that only a party’s rehearing petition could reset the
+statute’s 90-day count, the Court would lose sight of the
+congressional objective underpinning §2101(c): An
+appellate court’s final adjudication, Congress indicated,
+marks the time from which the filing period begins to run.  The
+statute takes priority over the “procedural rules adopted
+by the Court for the orderly transaction of its business.”
+Schacht v. United States, 398 U.S. 58, 64.
+Because the petition was timely under §2101(c), the Court
+has jurisdiction.  Pp. 5—8.
+2. The TIA
+does not bar respondents’ suit.  Pp. 8—22.
+(a) To
+determine whether the TIA bars this litigation, it is
+appropriate, first, to identify the relief sought.  Respondents
+seek prospective relief only: injunctive relief prohibiting the
+Director from allowing taxpayers to utilize the
+§43—1089 tax credit for payments to STOs that make
+religion-based tuition grants; a declaration that
+§43—1089, on its face and as applied, violates the
+Establishment Clause; and an order that the Director inform
+such STOs that all funds in their possession as of the
+order’s date must be paid into the state general fund.
+Taking account of the prospective nature of the relief
+requested, the Court reaches the dispositive question whether
+respondents’ suit seeks to “enjoin, suspend or
+restrain the assessment, levy or collection of any tax under
+State law,” §1341.  The answer turns on the meaning
+of the term “assessment” as employed in the TIA.  For
+Internal Revenue Code (IRC) purposes, an assessment involves a
+“recording” of the amount the taxpayer owes the
+Government.  26
+U.S.C. § 6203.  The Court does not focus on the word
+“assessment” in isolation, however, but follows
+“the cardinal rule that statutory language must be read in
+context.”	General Dynamics Land Systems, Inc. v.
+Cline, 540 U.S. ___, ___.  In the TIA and tax law
+generally, an assessment is closely tied to the collection of a
+tax, i.e., the assessment is the official recording of
+liability that triggers levy and collection efforts.
+Complementing the cardinal rule just stated, the rule against
+superfluities instructs courts to interpret a statute to
+effectuate all its provisions, so that no part is rendered
+superfluous.  If, as the Director asserts, the term
+“assessment,” by itself, signified the entire taxing
+plan, the TIA would not need the words “levy” or
+“collection”; the term “assessment,” alone,
+would do all the necessary work.  In briefing United
+States v. Galletti, 541 U.S. ___, the Government
+made clear that, under the IRC definition, an
+“assessment” serves as the trigger for levy and
+collection efforts.  The Government did not describe
+“assessment” as synonymous with the entire taxation
+plan, nor disassociate the word from the company (“levy or
+collection”) it keeps.  Instead, and in accord with this
+Court’s understanding, the Government related
+“assessment” to the term’s collection-propelling
+function.  Pp. 8—11.
+(b) Congre
+ss modeled §1341 on earlier federal statutes of similar
+import, which in turn paralleled state provisions proscribing
+state-court actions to enjoin the collection of state and local
+taxes.	Congress drew particularly on the Anti-Injunction Act
+(AIA), which bars “any court” from entertaining a
+suit brought “for the purpose of restraining the
+assessment or collection of any [federal] tax.”  26 U.S.C. §
+7421(a).  This Court has recognized, from the AIA’s
+text, that the measure serves twin purposes: It responds to the
+Government’s need to assess and collect taxes
+expeditiously with a minimum of preenforcement judicial
+interference; and it requires that the legal right to disputed
+sums be determined in a refund suit.  E.g., Bob Jones
+Univ. v. Simon, 416 U.S. 725, 736.
+Lower federal courts have similarly comprehended §7421(a).
+Just as the AIA shields federal tax collections from
+federal-court injunctions, so the TIA shields state tax
+collections from federal-court restraints.  In both 26 U.S.C. §
+7421(a) and 28
+U.S.C. § 1341 Congress directed taxpayers to pursue
+refund suits instead of attempting to restrain collections.
+Third-party suits not seeking to stop the collection (or
+contest the validity) of a tax imposed on plaintiffs
+were outside Congress’ purview.  The TIA’s
+legislative history shows that, in enacting the statute,
+Congress focused on taxpayers who sought to avoid paying their
+state tax bill by pursuing a challenge route other than the one
+specified by the taxing authority.   Nowhere does the history
+announce a sweeping congressional direction to prevent
+federal-court interference with all aspects of state tax
+administration.  The foregoing understanding of the TIA’s
+purposes and legislative history underpins this Court’s
+previous applications of that statute.	See, e.g.,
+California v. Grace Brethren Church, 457 U.S. 393,
+408—409.  Id., at 410, distinguished.  Contrary to
+the Director’s assertion, Arkansas v. Farm
+Credit Servs. of Central Ark., 520 U.S. 821;
+National Private Truck Council, Inc. v. Oklahoma Tax
+Comm’n, 515
+U.S. 582; Fair Assessment in Real Estate Assn., Inc.
+v. McNary, 454
+U.S. 100; and Rosewell v. LaSalle Nat. Bank,
+450 U.S. 503, do
+not hold that state tax administration matters must be kept
+entirely free from lower federal-court
+“interference.”  Like Grace Brethren Church,
+all of those cases fall within §1341’s undisputed
+compass: All involved plaintiffs who mounted federal litigation
+to avoid paying state taxes (or to gain a refund of such
+taxes).  Federal-court relief, therefore, would have operated
+to reduce the flow of state tax revenue.  Those decisions are
+not fairly portrayed cut loose from their secure,
+state-revenue-protective moorings.  See, e.g., Grace
+Brethren Church, 457 U.S., at 410.	This Court has
+interpreted and applied the TIA only in cases Congress wrote
+the statute to address, i.e., cases in which state
+taxpayers seek federal-court orders enabling them to avoid
+paying state taxes.  The Court has read harmoniously the
+§1341 instruction conditioning the jurisdictional bar on
+the availability of “a plain, speedy and efficient
+remedy” in state court.  The remedy inspected in the
+Court’s decisions was not designed for the universe of
+plaintiffs who sue the State, but was tailor-made for
+taxpayers.  See, e.g., id., at 411.
+Pp. 11—17.
+(c) In
+other federal courts as well, §1341 has been read to
+restrain taxpayers from instituting federal actions to contest
+their liability for state taxes, but not to stop third parties
+from pursuing constitutional challenges to state tax benefits
+in a federal forum.  Further, numerous federal-court
+decisions–including decisions of this Court reviewing
+lower federal-court judgments–have reached the merits of
+third-party constitutional challenges to tax benefits without
+mentioning the TIA.  See, e.g., Byrne v.
+Public Funds for Public Schools of New Jersey, 442 U.S. 907;
+Griffin v. School Bd. of Prince Edward Cty., 377 U.S. 218.
+Consistent with the decades-long understanding prevailing on
+this issue, respondents’ suit may proceed without any TIA
+impediment.  Pp. 17—21.
+307 F.3d 1011, affirmed.
+Ginsburg, J.,
+delivered the opinion of the Court, in which Stevens,
+O’Connor, Souter, and Breyer, JJ., joined.  Stevens, J.,
+filed a concurring opinion.  Kennedy, J., filed a dissenting
+opinion, in which Rehnquist, C. J., and Scalia and Thomas,
+JJ., joined.

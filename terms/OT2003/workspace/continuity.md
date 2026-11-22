@@ -4,7 +4,7 @@
 
 The opening law is the coordinated OT2002 tracker publication, processed through June 30, 2003 after all 185 completed Court events, edition November 14, 2026: [Holdings doctrinal index](../../../state/holdings/INDEX.md), [Holdings compatibility view](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), and [Standing State](../../../state/STANDING_STATE.md). The 23 doctrinal volumes and continuous view are synchronized. These repository trackers control over descriptions of other source files in the supplied index. The divergence point is October 7, 1991, when Chief Justice Alex-Lamar Stone-Zsela replaced Rehnquist.
 
-The [manifest](manifest.md) retains all 119 scheduled events and four separately preserved undated original actions. The [ledger](ledger.md) records 87 completed Court events across presentation chunks 1–6 and one Admitted Source Record. Latest completed effective date: 2004-06-16. Next unprocessed presentation event: Williams v. Morton, OT_2003CHUNK7, effective 2004-06-02. The Rule 53 amendment effective December 1, 2003 is admitted with its pending-proceeding transition; existing adjudications retain their original terms.
+The [manifest](manifest.md) retains all 119 scheduled events and four separately preserved undated original actions. The [ledger](ledger.md) records 103 completed Court events across presentation chunks 1–7 and one Admitted Source Record. Latest completed effective date: 2004-06-21. Next unprocessed presentation event: Intel Corp. v. Advanced Micro Devices, Inc., OT_2003CHUNK8, effective 2004-06-21. The Rule 53 amendment effective December 1, 2003 is admitted with its pending-proceeding transition; existing adjudications retain their original terms.
 
 Chunks follow presentation order; events within the chunk follow effective dates. An earlier-dated event in a later chunk supplies no law until decided and does not delay the present event. Every decision uses only completed law effective before its own date. Same-day uncoordinated events share the pre-date baseline. A later-completed earlier event requires an actual dependency assessment before any completed later adjudication is changed. The chronology cursor never means all intervening calendar events are complete.
 
@@ -99,7 +99,23 @@ Chunks follow presentation order; events within the chunk follow effective dates
 | 2004-05-24 | Nelson v. Campbell; No. 03-6821; 541 U.S. 637 | Reversed and remanded, 9–0, for the section 1983 claim and independently governed interim-relief inquiry. | [Record](../records/nelson_v_campbell_merits_2004-05-24.md) |
 | 2004-05-24 | Thornton v. United States; No. 03-5165; 541 U.S. 615 | Affirmed, 6–3; the bounded offense-evidence permission controls under Marks from the two-Justice concurrence and four broader categorical positions; seven direct joins support the limited first-contact proposition. | [Record](../records/thornton_v_united_states_merits_2004-05-24.md) |
 | 2004-06-01 | Yarborough v. Alvarado; No. 02-1684; 541 U.S. 652 | Reversed, 5–4; denial of habeas relief on the presented Miranda-custody ground reinstated. | [Record](../records/yarborough_v_alvarado_merits_2004-06-01.md) |
+| 2004-06-02 | Williams v. Morton; judgment below, 343 F.3d 212 (3d Cir. 2003). | Affirm both constitutional claims; Free Exercise 8–1 and equal protection 9–0. | [Record](../records/williams_v_morton_merits_2004-06-02.md) |
+| 2004-06-07 | Central Laborers' Pension Fund v. Heinz; No. 02-891; judgment below, 303 F.3d 802. | Affirmed and remanded, 9–0, for restoration and calculation of improperly suspended benefits. | [Record](../records/central_laborers_pension_fund_v_heinz_merits_2004-06-07.md) |
+| 2004-06-07 | City of Littleton v. Z. J. Gifts D-4, L.L.C.; No. 02-1609. | Reversed and remanded, 9–0, on the facial judicial-timing challenge. | [Record](../records/city_of_littleton_v_zj_gifts_d4_merits_2004-06-07.md) |
+| 2004-06-07 | Department of Transportation v. Public Citizen; No. 03-358. | Reversed and remanded, 9–0. | [Record](../records/department_of_transportation_v_public_citizen_merits_2004-06-07.md) |
+| 2004-06-07 | Republic of Austria v. Altmann; No. 03-13. | Affirmed and remanded, 7–2, on the temporal applicability of the FSIA. | [Record](../records/republic_of_austria_v_altmann_merits_2004-06-07.md) |
+| 2004-06-10 | Belitskus v. Pizzingrilli; judgment below, 343 F.3d 632; lower-court Nos. 01-3747 and 01-3824. | Affirm candidate/party merits and Donovan dismissal 9–0; vacate the injunction cap and remand by five votes, with the Chief favoring broader reversal and three Associates favoring affirmance of the cap. | [Record](../records/belitskus_v_pizzingrilli_merits_2004-06-10.md) |
+| 2004-06-14 | Elk Grove Unified School District v. Newdow; No. 02-1624; 542 U.S. 1. | Reverse and remand, 7–1; five Justices require dismissal on prudential standing grounds, two concur in the judgment on the merits; Scalia does not participate. | [Record](../records/elk_grove_unified_school_district_v_newdow_merits_2004-06-14.md) |
+| 2004-06-14 | F. Hoffmann-La Roche Ltd. v. Empagran S.A.; No. 03-724; 542 U.S. 155. | Vacate and remand, 8–0; five join the complete rationale, the Chief joins Parts I and III, Scalia and Thomas concur in the judgment; O'Connor does not participate. | [Record](../records/f_hoffmann_la_roche_ltd_v_empagran_sa_merits_2004-06-14.md) |
+| 2004-06-14 | Hibbs v. Winn; No. 02-1809; 542 U.S. 88. | Petition timely, 9–0; affirm rejection of the Tax Injunction Act bar and remand, 6–3. | [Record](../records/hibbs_v_winn_merits_2004-06-14.md) |
+| 2004-06-14 | Norton v. Southern Utah Wilderness Alliance; No. 03-101; 542 U.S. 55. | Reverse and remand on the live inaction theories, 9–0; dismiss the two completed initial-act demands as moot, 9–0. | [Record](../records/norton_v_southern_utah_wilderness_alliance_merits_2004-06-14.md) |
+| 2004-06-14 | Pennsylvania State Police v. Suders; No. 03-95; 542 U.S. 129. | Affirm reversal of employer summary judgment and remand, 5–4; all nine join the common compulsion and attribution rules; four would vacate and adopt a bounded complete defense. | [Record](../records/pennsylvania_state_police_v_suders_merits_2004-06-14.md) |
+| 2004-06-14 | United States v. Dominguez Benitez; No. 03-167; 542 U.S. 74. | Reverse and remand, 8–1; all nine join the prejudice rule and whole-record inquiry, while the Chief would vacate rather than reverse. | [Record](../records/united_states_v_dominguez_benitez_merits_2004-06-14.md) |
 | 2004-06-16 | West Virginia v. U.S. Department of Health & Human Services; judgment below, 289 F.3d 281 (4th Cir. 2002). | Affirmed, 9–0; facial invalidation denied, with the condition operative and concrete coercive funding consequences reviewable. | [Record](../records/west_virginia_v_us_department_of_health_and_human_services_merits_2004-06-16.md) |
+| 2004-06-17 | Drummond ex rel. Drummond v. City of Anaheim; judgment below, 343 F.3d 1052 (9th Cir. 2003). | Affirmed, 9–0, with the individual, municipal and state-law branches returning for further proceedings. | [Record](../records/drummond_ex_rel_drummond_v_city_of_anaheim_merits_2004-06-17.md) |
+| 2004-06-21 | Aetna Health Inc. v. Davila; No. 02-1845; consolidated with CIGNA HealthCare of Texas, Inc. v. Calad, No. 03-83; 542 U.S. 200. | Reversed and remanded separately in both dockets, 9–0. | [Record](../records/aetna_health_inc_v_davila_merits_2004-06-21.md) |
+| 2004-06-21 | Hiibel v. Sixth Judicial District Court of Nevada; No. 03-5554; 542 U.S. 177. | Affirmed, 5–4; the five-Justice Court opinion controls both constitutional grounds. | [Record](../records/hiibel_v_sixth_judicial_district_court_of_nevada_merits_2004-06-21.md) |
+| 2004-06-21 | Pliler v. Ford; No. 03-221; 542 U.S. 225. | Repeated-claim dispositions vacated and remanded, 7–2; independent new-claim branches preserved, 9–0; controlling notice and defined equitable rules have five direct joins. | [Record](../records/pliler_v_ford_merits_2004-06-21.md) |
 
 
 ## Current Law
@@ -660,6 +676,104 @@ Complete rule, qualifications, authority and remedy: [Public decision](../runtim
 
 Rule 53 procedural source: [Admitted Source Record](../records/Federal_Rule_of_Civil_Procedure_53_amendment_source_2003-12-01.md). The December 1, 2003 effective date and just-and-practicable transition govern the rule text; the source admission creates no adjudicated construction.
 
+### Presentation chunk 7 additions
+
+**Williams v. Morton; judgment below, 343 F.3d 212 (3d Cir. 2003). — 2004-06-02:**
+
+Turner governs this constitutional diet claim, and Rule 56 continues to require a genuine dispute about a fact material under that standard. The supported cost, administration, screening and scale grounds sustain this policy on the record presented. The meat-based equal-protection theory fails because the alleged differential benefit is absent.
+
+Complete rule, qualifications, authority and remedy: [Public decision](../runtime/OT_2003CHUNK7_williams_v_morton_merits_2004-06-02_PUBLIC.md).
+
+**Central Laborers' Pension Fund v. Heinz; No. 02-891; judgment below, 303 F.3d 802. — 2004-06-07:**
+
+Section 204(g) protects the conditions of an earned early-retirement payment entitlement as well as its nominal amount. A plan must respect those conditions when amending disqualifying employment; §203's separate suspension permission does not override that protection. The rule governs the challenged accrued benefits and pending benefit claims, while lawful terms for future accruals retain their separate operation.
+
+Complete rule, qualifications, authority and remedy: [Public decision](../runtime/OT_2003CHUNK7_central_laborers_pension_fund_v_heinz_merits_2004-06-07_PUBLIC.md).
+
+**City of Littleton v. Z. J. Gifts D-4, L.L.C.; No. 02-1609. — 2004-06-07:**
+
+Objective adult-business licensing must provide effective protection against suppression through judicial delay. A special fixed judicial-decision deadline is unnecessary when ordinary procedures furnish prompt adjudication, expedition and interim protection as required. Colorado's scheme survives the facial timing challenge on that basis. Concrete delay invokes application of this governing protection rather than a new unresolved timing rule.
+
+Complete rule, qualifications, authority and remedy: [Public decision](../runtime/OT_2003CHUNK7_city_of_littleton_v_zj_gifts_d4_merits_2004-06-07_PUBLIC.md).
+
+**Department of Transportation v. Public Citizen; No. 03-358. — 2004-06-07:**
+
+NEPA review follows the legally relevant effects of the agency's action under its governing authority, with cumulative analysis of that action's incremental impact. The conformity inquiry separately applies the regulation's same-time-and-place or foreseeable-emissions-plus-continuing-control conditions. These rules remove the challenged review requirements for the President's independent entry increase while preserving review of effects attributable to the agency's actual discretionary choices.
+
+Complete rule, qualifications, authority and remedy: [Public decision](../runtime/OT_2003CHUNK7_department_of_transportation_v_public_citizen_merits_2004-06-07_PUBLIC.md).
+
+**Republic of Austria v. Altmann; No. 03-13. — 2004-06-07:**
+
+Post-enactment suits receive immunity determinations under the FSIA even when the alleged conduct occurred before 1976 or 1952. Each statutory exception retains its own requirements, and temporal applicability does not establish substantive property liability. Independent defenses and remedies continue to be governed by their own law.
+
+Complete rule, qualifications, authority and remedy: [Public decision](../runtime/OT_2003CHUNK7_republic_of_austria_v_altmann_merits_2004-06-07_PUBLIC.md).
+
+**Belitskus v. Pizzingrilli; judgment below, 343 F.3d 632; lower-court Nos. 01-3747 and 01-3824. — 2004-06-10:**
+
+The inability-to-pay protection governs otherwise qualified candidates actually excluded by an unaffordable mandatory fee, together with the associated party and voter interests. Reasonable proof and lawful qualifications remain enforceable, but the alternative must work in practice. A remedy in an as-applied action must be concrete and fitted to the successful plaintiffs' actual injuries, including an established recurring party injury; its enforceable reach requires that remedial connection.
+
+Complete rule, qualifications, authority and remedy: [Public decision](../runtime/OT_2003CHUNK7_belitskus_v_pizzingrilli_merits_2004-06-10_PUBLIC.md).
+
+**Elk Grove Unified School District v. Newdow; No. 02-1624; 542 U.S. 1. — 2004-06-14:**
+
+The operative allocation and opposed exercise of parental authority require prudential dismissal of the retained claim in this setting. Courts must examine that allocation and the personal interest asserted, rather than treat parenthood, joint custody or family disagreement as dispositive labels. Sherman's established civic-Pledge permission and the governing establishment precedents retain their force; this threshold judgment changes no Establishment Clause rule.
+
+Complete rule, qualifications, authority and remedy: [Public decision](../runtime/OT_2003CHUNK7_elk_grove_unified_school_district_v_newdow_merits_2004-06-14_PUBLIC.md).
+
+**F. Hoffmann-La Roche Ltd. v. Empagran S.A.; No. 03-724; 542 U.S. 155. — 2004-06-14:**
+
+The effects exception restores coverage only when the qualifying statutory effect gives rise to the actual claim for relief. Independent foreign injury falls outside that exception even when the same conspiracy harms American commerce. Import commerce retains its distinct statutory treatment, and an export-only basis retains the limitation to injury to export business in the United States. If preserved, the dependent-injury theory must be evaluated under those conditions; a worldwide cartel allegation alone does not establish them.
+
+Complete rule, qualifications, authority and remedy: [Public decision](../runtime/OT_2003CHUNK7_f_hoffmann_la_roche_ltd_v_empagran_sa_merits_2004-06-14_PUBLIC.md).
+
+**Hibbs v. Winn; No. 02-1809; 542 U.S. 88. — 2004-06-14:**
+
+Genuine timely reconsideration initiated by an appellate court makes its eventual disposition the starting point for §2101(c)'s ninety days. The tax-forum restriction requires examination of the actual restraint sought; this credit challenge may proceed because its relief does not obstruct the protected tax process. The generalized comity objection likewise fails. The lower courts must adjudicate personal standing, genuinely distinct preserved barriers, the actual financing and alleged religious use, and ultimate remedial entitlement in their proper order.
+
+Complete rule, qualifications, authority and remedy: [Public decision](../runtime/OT_2003CHUNK7_hibbs_v_winn_merits_2004-06-14_PUBLIC.md).
+
+**Norton v. Southern Utah Wilderness Alliance; No. 03-101; 542 U.S. 55. — 2004-06-14:**
+
+Courts may compel discrete legally obligatory agency acts unlawfully withheld or unreasonably delayed, leaving lawful substantive choices to the agency. A broad management standard does not itself identify every act that may be compelled. Plans constrain inconsistent action, while affirmative enforcement requires an independently binding duty or clear obligatory commitment. The Henry Mountains projections fail that requirement for the program claimed. Mandatory supplementation attaches to relevant major action remaining to occur and either regulatory trigger; discretionary supplementation retains its permissive character. The component dismissals implement those rules and the separate completion-based mootness conclusions.
+
+Complete rule, qualifications, authority and remedy: [Public decision](../runtime/OT_2003CHUNK7_norton_v_southern_utah_wilderness_alliance_merits_2004-06-14_PUBLIC.md).
+
+**Pennsylvania State Police v. Suders; No. 03-95; 542 U.S. 129. — 2004-06-14:**
+
+An employee must establish actionable discrimination, objective compulsion, resignation causation and an independent attribution basis. Employer policies and employee nonuse cannot categorically erase an established authority-aided violation. The employer bears the burden of proving an actual legally cognizable avoidable loss under otherwise applicable remedial law, and any reduction is confined to that loss.
+
+Complete rule, qualifications, authority and remedy: [Public decision](../runtime/OT_2003CHUNK7_pennsylvania_state_police_v_suders_merits_2004-06-14_PUBLIC.md).
+
+**United States v. Dominguez Benitez; No. 03-167; 542 U.S. 74. — 2004-06-14:**
+
+For this class of forfeited Rule 11 warning omission, the defendant must establish a reasonable probability of a different plea choice on the relevant existing record. The reviewing court must separately apply all remaining Rule 52(b) conditions, including discretionary correction. Written advice can bear on effect while the judge's personal-warning duty remains mandatory. The lower court's actual assessment is ordinary application of the settled rule.
+
+Complete rule, qualifications, authority and remedy: [Public decision](../runtime/OT_2003CHUNK7_united_states_v_dominguez_benitez_merits_2004-06-14_PUBLIC.md).
+
+**Drummond ex rel. Drummond v. City of Anaheim; judgment below, 343 F.3d 1052 (9th Cir. 2003). — 2004-06-17:**
+
+The established force rule prohibits unnecessary substantial compression of a controlled, nonresisting person despite known respiratory distress. Preconduct law already gave clear warning on that assumed combination. Courts must separate the actual force and continuing need, the individual officer's conduct-date defense, personal causal responsibility, and the municipality's own required grounds of responsibility.
+
+Complete rule, qualifications, authority and remedy: [Public decision](../runtime/OT_2003CHUNK7_drummond_ex_rel_drummond_v_city_of_anaheim_merits_2004-06-17_PUBLIC.md).
+
+**Aetna Health Inc. v. Davila; No. 02-1845; consolidated with CIGNA HealthCare of Texas, Inc. v. Calad, No. 03-83; 542 U.S. 200. — 2004-06-21:**
+
+State-law claims satisfying both the benefits-entitlement and no-independent-duty conditions fall within the exclusive federal benefits cause and may be removed on that basis. The source and function of the alleged duty control despite a tort label or consequential-injury demand. Independently operating treatment obligations remain outside this rule, and saved substantive coverage conditions remain subject to ERISA's enforcement limits.
+
+Complete rule, qualifications, authority and remedy: [Public decision](../runtime/OT_2003CHUNK7_aetna_health_inc_v_davila_merits_2004-06-21_PUBLIC.md).
+
+**Hiibel v. Sixth Judicial District Court of Nevada; No. 03-5554; 542 U.S. 177. — 2004-06-21:**
+
+A State may enforce a precise, relevant name duty within an independently lawful and properly limited investigative stop. Courts must verify the stop's justification, the demand's investigative relationship and any properly raised real danger of incrimination before imposing liability. Names have no categorical exemption from the privilege.
+
+Complete rule, qualifications, authority and remedy: [Public decision](../runtime/OT_2003CHUNK7_hiibel_v_sixth_judicial_district_court_of_nevada_merits_2004-06-21_PUBLIC.md).
+
+**Pliler v. Ford; No. 03-221; 542 U.S. 225. — 2004-06-21:**
+
+Federal courts must give the specified minimum notice and deletion opportunity when their own election concerning a timely mixed petition presents an apparent substantial risk of losing timely return. A proved loss caused by deficient notice or materially misleading judicial directions may receive equitable protection under the stated proof, reasonable-diligence and causal-remedy requirements. The court must calculate the whole period and identify a lawful remedy effective against the actual defect. Federal pendency alone remains outside statutory tolling, and separate closed and later actions do not automatically merge. The general stay and contingent relation-back questions identified above remain unresolved; the factual and remedial inquiries on remand apply settled rules.
+
+Complete rule, qualifications, authority and remedy: [Public decision](../runtime/OT_2003CHUNK7_pliler_v_ford_merits_2004-06-21_PUBLIC.md).
+
 ## Material Published Noncontrolling Positions
 
 The following are exact copies of published separate-writing summaries. Opinion topology in each linked public copy identifies partial joins and controlling portions; disagreement and additional separate grounds remain noncontrolling.
@@ -1000,6 +1114,112 @@ Stone-Zsela, joined in full by Stevens and Souter, would require a reasonable po
 
 Breyer, joined by Stevens, Souter and Ginsburg, agrees with the review framework but finds both statutory unreasonableness and actual custody. A young person transported by parents at police request, separated from them, and questioned alone in a small station room for two hours while confronted with contradictory evidence would reasonably understand that officials controlled whether he could end the encounter. Breaks offered only near the end can reinforce that understanding; eventual release does not resolve the restraint during interrogation. Obvious youth describes the objectively apparent position of the interviewee, while undisclosed police experience invites an unrelated psychological inquiry. Stansbury and Thompson already supply the objective rule, and Williams and Andrade permit that general rule to compel a result without identical facts. The dissent relies on the supported encounter, not the disputed account that the parents requested admission and were refused, and not a later constitutional holding. It would preserve the Ninth Circuit's statutory and custody conclusions, then require whatever admission and trial-prejudice determinations remain before a final writ. Custody alone would not supply immediate release or an unconditional new trial.
 
+### Presentation chunk 7 separate writings
+
+**Williams v. Morton; judgment below, 343 F.3d 212 (3d Cir. 2003). — 2004-06-02**
+
+Chief Justice Stone-Zsela, concurring in part and dissenting in part, agrees that the corrected meatless-kosher record defeats the asserted equal-protection comparator and joins the governing Turner and Rule 56 standards. He would vacate the Free Exercise summary judgment because the outside-supply testimony requires a focused assessment of whether the proposed procurement method answers the actual security, scale and cost objections. Turner and Overton permit deference, but they do not permit the court to assume a disputed operational premise; acknowledged added cost remains relevant without categorically resolving the concrete proposal.
+
+He would direct prompt identification of the genuinely disputed facts, targeted proof and a decision on the reasonableness of rejecting the actual proposal. If a violation were proved, a prospective remedy would require the findings under 18 U.S.C. §3626: necessity, narrow scope and least intrusive correction, with substantial weight to public-safety and system effects. He would require a workable accommodation schedule and compliance reporting; relief would reach prisoners affected by the proved unlawful policy unless officials established that a narrower cure sufficed. Damages and immunity would require individual adjudication. This remedial position supports a factual remand rather than procurement based on assumed feasibility.
+
+**Central Laborers' Pension Fund v. Heinz; No. 02-891; judgment below, 303 F.3d 802. — 2004-06-07**
+
+Justice Breyer, joined by Justices O'Connor and Ginsburg, joins the Court's opinion on the understanding that its construction of the existing statute and regulation does not foreclose a legally authorized, explicit regulation by the Secretary of Labor or the Secretary of the Treasury permitting an expansion of disqualifying employment for already earned benefits. The concurrence leaves the existence and exercise of that agency power open. No such operative regulation permits this amendment, so the qualification does not alter the present benefit-restoration result.
+
+Chief Justice Stone-Zsela joins the anti-cutback holding and restoration judgment. He would require the plan to identify the protected accruals, stop applying the new restriction, calculate the sums withheld solely because of it and resume payment, with the district court setting accounting and payment deadlines and retaining enforcement authority. A remedy confined to selected participants would require the plan to show that it fully cures the same unlawful condition within the affected live claim. He regards any authorized Treasury determination under 26 U.S.C. §7805(b)(8) about retroactive tax consequences as separate from participants' established payment rights. His concurrence addresses implementation of the statutory entitlement rather than replacing it with a fiduciary or surplus-ownership theory.
+
+**City of Littleton v. Z. J. Gifts D-4, L.L.C.; No. 02-1609. — 2004-06-07**
+
+Justice Stevens joins Part II and the judgment. He distinguishes ministerial adult-business licensing from the direct content censorship addressed in Freedman. In his reading, FW/PBS requires a prompt administrative decision and the possibility of prompt judicial review, rather than imposing on the licensor the full censorship-system duty to ensure a prompt judicial determination. Ordinary Colorado procedures supply an adequate possibility of promptness on this facial record. He withholds Part I because equating the two safeguards risks either burdening ordinary licensing with censorship procedures or weakening Freedman's stronger protection.
+
+Justice Souter, joined by Justice Kennedy, joins Part I's prompt-determination rule and agrees that the facial challenge fails. Although the denial criteria are objective, adult-business licensing is triggered by the expressive materials sold, so its administration can expose unpopular sellers to delay. The mere availability of discretionary judicial tools does not by itself settle practical adequacy. Actual judicial practice must provide prompt disposition, with immediate intervention against foot-dragging and expeditious review at every stage. A rigid censorship timetable is unnecessary, and this record does not establish that the available procedures fail to furnish that protection. This is their sufficient adequacy ground in place of Part II's reliance on ordinary administration and available tools.
+
+Justice Scalia concurs in the judgment. Even assuming the activity is protected, a general permit requirement unrelated to censorship of expressive content does not give the business a special constitutional priority in the courts. Ordinary Colorado procedures therefore suffice against the demand for special timing rules without his joining the affirmative prompt-determination entitlement. His conditional ground resolves this facial challenge without a finding that the bookstore's materials are obscene or that its actual business satisfies a distinct unprotected category.
+
+**Republic of Austria v. Altmann; No. 03-13. — 2004-06-07**
+
+Justice Scalia joins the Court's opinion and adds that the relevant activity regulated by the FSIA is the present invocation of judicial power. The Act governs access to the United States forum rather than creating or modifying the underlying substantive right. Hughes Aircraft concerned a restriction attached to a cause of action wherever it could be pursued, so its jurisdictional language did not make it merely a forum rule. A claimant's possible inability to find an effective foreign forum does not transform the FSIA's intended operation into creation of a substantive claim. This applies his relevant-activity approach while accepting the Court's common statutory result.
+
+Justice Breyer, joined by Justice Souter, joins the Court's opinion and emphasizes present status, the statute's absence of conduct-date cutoffs and the historically changing practice of sovereign immunity. Section 1602's use of henceforth alone is insufficient; those additional considerations explain why the asserted reliance on a permanent earlier immunity regime is weak. An exception-by-exception historical schedule would create instability inconsistent with a comprehensive current framework. Remaining substantive defenses and distinct remedies explain why amenability to suit is not a judgment of title. Their additional analysis supports the present statutory rule without deciding those independent questions.
+
+Justice Kennedy, joined by Justice Thomas, dissents. Landgraf and Hughes Aircraft protect against attaching new legal disabilities to completed conduct, including loss of an immunity defense that formerly prevented American litigation. In their view, the FSIA's direction to future courts does not clearly make every new exception applicable to earlier conduct, and its forum character does not eliminate the resulting legal exposure. They would vacate and remand to determine whether the claim would have been immune under the pre-FSIA regime, including the restrictive theory announced in the Tate Letter and any applicable executive position. If the earlier regime already allowed jurisdiction, present application would create no new exposure on their objection. The lower courts did not perform that inquiry, so the dissent seeks its completion rather than automatic dismissal or a conclusive classification of the alleged acquisition.
+
+**Belitskus v. Pizzingrilli; judgment below, 343 F.3d 632; lower-court Nos. 01-3747 and 01-3824. — 2004-06-10**
+
+Chief Justice Stone-Zsela joins the threshold and inability-to-pay holdings and agrees that the two-name cap must be set aside, but would reverse it and require a policy remedy for all otherwise qualified candidates who establish inability to pay without material financial hardship. He would place on officials the burden to show that a narrower remedy fully cures the proved mandatory policy.
+
+Under his proposed proof rule, a claimant establishes inability by a preponderance through a sworn account of available income, reasonably available assets, necessary living expenses and dependent obligations. Material hardship means sacrificing ordinary necessities or assuming an unreasonable financial burden, rather than merely preferring not to pay. Poverty-line status would be neither necessary nor conclusive. Officials could verify a material factual dispute but could not demand unavailable records or postpone a decision beyond the relevant ballot deadline. Bullock and Lubin supply the inability-to-pay protection, while Cartwright's calibrated review governs the resulting burden and justification; the preliminary hardship procedure shows that an administrable mechanism is possible without dispensing with evidence for a disputed claim.
+
+He would require a published hardship application and objective decision criteria before the next relevant filing deadline, identification of the deciding official, written reasons for denial and prompt review early enough for a successful candidate to reach the ballot. A petition alternative would count only if its deadlines and support requirements were realistically usable. The district court would set dates tied to the election calendar and provide provisional filing when official delay would otherwise defeat relief. Officials would accept qualifying filings and maintain reasons sufficient for review, while the court retained enforcement authority. Independent lawful qualifications would remain controlling, and candidates able to pay would receive no automatic exemption. He would preserve the claimant-specific dispositions and any independently available fee award. These are his proposed additional proof and remedial rules; the operative vacatur and instructions are those in the Court's Part III.
+
+Justice O'Connor, joined by Justices Scalia and Thomas, joins Parts I and II but would affirm the present injunction limiting enforceable relief to Stith and Linzey upon demonstrated hardship. The constitutional rule protects every qualifying financial-exclusion claim through precedent, but this action was litigated as applied. In their view the current candidacies define the established need for an injunction; the party's standing alone does not establish that a wider order is necessary. They would permit enlargement after a concrete determination that distinct proved party injury remains unremedied by the existing terms. They agree that Rule 65(d) requires specific conditions and official duties and that a realistic alternative must protect a candidate whose inability is shown.
+
+**Elk Grove Unified School District v. Newdow; No. 02-1624; 542 U.S. 1. — 2004-06-14**
+
+**O'Connor, concurring in the judgment, joined by Thomas.** The retained parent-child instructional relationship supplies an adequately alleged personal injury, and Ankenbrandt permits the federal claim without changing custody. On the merits, Sherman directly permits the materially equivalent civic Pledge where pupils may decline words and gestures, remain in place and suffer no penalty. Agostini preserves that established permissible relationship within its unified inquiry. The practice is governmental speech, but its religious acknowledgment need not become meaningless to believers. Protected abstention matters in this civic exercise; it does not validate official prayer generally. Lee and Santa Fe remain controlling for school-organized worship and pressure. These Justices would restore dismissal on the merits under the concrete civic rule.
+
+**Stone-Zsela, dissenting.** Newdow's retained instructional relationship can sustain a personal claim even though he cannot represent his daughter or override the final custody allocation. The recurring official exercise directly affects that relationship; this is not merely disagreement with the mother's beliefs or ordinary curriculum. Ankenbrandt rejects a categorical family-law barrier, and Lujan requires the retained interest, concrete interference and redressability.
+
+The Chief would overrule Sherman only insofar as it permits teacher-led elementary-school affirmation of the religious proposition within the Pledge. Sherman supplies the contrary permission and Agostini did not erase it. Lee and Santa Fe's treatment of official school sponsorship and religious pressure supports reconsidering that permission openly: teachers organize affirmation of a religious proposition as part of the school's own civic program. Longstanding use and administrative reliance deserve weight but do not justify the profession. Protected abstention under Sherman and Barnette remains, while a claimant-only opt-out leaves the official practice in place.
+
+He would affirm the constitutional rejection and require a declaration and prospective order removing the religious affirmation from the organized exercise while preserving a secular patriotic program, historical instruction and private speech. Administrators would communicate compliant instructions before the next exercise governed by the order. Officials would bear the burden of showing a narrower effective cure. Any demonstrated material custody ambiguity would receive prompt, limited clarification without postponing relief on an otherwise established personal interest. Other governmental ceremonies present a different question.
+
+**F. Hoffmann-La Roche Ltd. v. Empagran S.A.; No. 03-724; 542 U.S. 155. — 2004-06-14**
+
+**Stone-Zsela, concurring in part and in the judgment.** The text and statutory structure require the domestic effect to give rise to the plaintiff's own asserted claim. Hartford Fire preserves its domestic-injury holding but does not decide independent foreign injury. International enforcement interests cannot erase the statutory connection. The Chief joins Parts I and III and would require identification of the challenged transactions and causal theories, determination of preservation, and application of the domestic-effect and causation requirements under ordinary pleading and proof rules. Unsupported independent-injury theories must be dismissed; a properly preserved dependent theory receives its own analysis, without assuming dependence from global pricing.
+
+**Scalia, concurring in the judgment, joined by Thomas.** The text readily permits the claim-specific construction, and customary deference to other nations' regulation within their territories makes that construction sufficient to decide this case. These Justices accept the operative coverage rule, the independent-injury result and the defined remand. They withhold assent from the Court's legislative-history and broader explanatory route. Their territorial canon is a rule of statutory interpretation, not discretionary comity dependent on proof of incompatible foreign commands.
+
+**Hibbs v. Winn; No. 02-1809; 542 U.S. 88. — 2004-06-14**
+
+**Stevens, concurring.** Stevens joins the entire opinion and adds that settled judicial treatment of this category of challenge and Congress's failure to displace it support stability in statutory interpretation. His approach in Runyon and Fink counsels restraint before upsetting established statutory expectations. That history reinforces the contextual reading; it neither proves that every earlier case decided the present question nor permits disregard of unmistakable enacted language.
+
+**Kennedy, concurring in part and dissenting in part, joined by Scalia and Thomas.** These Justices join the timing holding but would reverse and remand for dismissal under §1341. A federal decree ordering Arizona to disallow lawful credits restrains computation and assessment of liabilities, even if receipts rise. Assessment has a statutory function separate from levy and collection; the Act contains no requirement that plaintiffs challenge their own taxes or that receipts decrease. The declaration and demand for the organizations' remaining funds depend on invalidating the same credit arrangement and supply no separate route around the bar.
+
+Respondents admit that a state court would hear them, and a related constitutional credit challenge was heard there. The available account identifies no concrete procedural impediment to judicial consideration of these federal objections. Under Rosewell and Grace Brethren, adequacy requires an effective judicial opportunity, not identical relief, a preferred tribunal or success. The admission establishes forum availability rather than conceded coverage. The statutory condition is satisfied, and these Justices would end the federal action on that ground.
+
+**Norton v. Southern Utah Wilderness Alliance; No. 03-101; 542 U.S. 55. — 2004-06-14**
+
+
+
+**Pennsylvania State Police v. Suders; No. 03-95; 542 U.S. 129. — 2004-06-14**
+
+**Ginsburg, concurring, joined by Stevens, Souter and Breyer.** These Justices join the entire Court opinion and would specify additional terms for the loss inquiry. After the employee proves the claim and otherwise compensable injury, the employer would have to prove by a preponderance that internal remedies were adequately publicized and likely to provide redress without undue risk, effort or expense; that the employee unreasonably failed to use them; and that the particular loss consequently could have been avoided. Reduction or denial would extend only to that proved loss.
+
+A paper policy, nonreporting alone, unsafe or futile channels, correction after injury or the mere possibility of a complaint would not suffice. The employee need not complain to the harasser. Injury before a reasonable protective opportunity and injury the procedure could not prevent would remain compensable if otherwise established. Even proof that all compensable loss was avoidable would eliminate that recovery rather than erase the violation or automatically decide other relief and fees. The rule would contain neither special immunity where no official act occurs nor a categorical exception from ordinary avoidability whenever one occurs. An official coercive act may make effective protection or avoidability impossible to establish on the facts. Their proposal develops the causal recovery approach in the Ellerth concurrence; it has four votes here.
+
+**Kennedy, concurring in part and dissenting in part, joined by O'Connor, Scalia and Thomas.** These Justices join Part I but would vacate and remand under a newly adopted complete defense. An employer would have to prove by a preponderance both reasonable care to prevent and promptly correct the harassment and the employee's unreasonable failure to use provided preventive or corrective opportunities or otherwise avoid harm. The measures must be practically accessible and reasonably effective; unsafe or futile channels, paper policies and nonreporting alone would not establish the defense, and no particular written-policy form is invariably required. The employee would retain the actual-authority/material-aid burden.
+
+The defense would be unavailable when an official discriminatory employment act precipitated the compelled resignation—for example, a demotion, extreme pay cut or transfer imposing unbearable working conditions through delegated employer authority. Authority to make the employment decision does not mean the employer authorized its discriminatory motive. The employee would establish that official act and its causal connection; the employer would retain persuasion on both defense elements. Resignation itself would not become an official act merely because it was objectively compelled. The alleged arrest matters to authority, coercion and safe complaint opportunities but does not conclusively determine the employment-act exception.
+
+The dissent distinguishes delegated power materially aiding an environment from an official decision directly consummating the discrimination. Agency responsibility, in its view, permits a defense for genuine diligence and unreasonable nonuse in the former setting while withholding it in the latter. That rule deliberately does more than reduce particular avoidable losses; the dissent rejects the Court's view that attributable discrimination forecloses the complete defense. It would allow adjudication of the disputed defense rather than restore summary judgment for the employer.
+
+**United States v. Dominguez Benitez; No. 03-167; 542 U.S. 74. — 2004-06-14**
+
+**Stone-Zsela, concurring in part and dissenting in part.** The Chief joins Part I's reasonable-probability standard and relevant-record inquiry. He would vacate the appellate judgment and remand for that inquiry and all four plain-error conditions. The written nonwithdrawal term, expected reduction and known mandatory exposure bear on the actual choice but require evaluation rather than conclusiveness. The court of appeals must decide substantial-rights effect and the independent basis for discretionary correction before permitting withdrawal. Any authorized withdrawal returns the charges to the posture supplied by ordinary criminal procedure.
+
+**Drummond ex rel. Drummond v. City of Anaheim; judgment below, 343 F.3d 1052 (9th Cir. 2003). — 2004-06-17**
+
+
+
+**Aetna Health Inc. v. Davila; No. 02-1845; consolidated with CIGNA HealthCare of Texas, Inc. v. Calad, No. 03-83; 542 U.S. 200. — 2004-06-21**
+
+**Ginsburg, concurring, joined by Breyer.** The exclusive federal benefits route may displace a state claim for serious consequential injury while supplying no equivalent compensation. Pegram's treatment boundary and Rush's preservation of substantive insurance regulation do not eliminate that gap when the challenged function is administration of coverage. The concurrence joins the Court because the remedial shortfall cannot itself change jurisdiction or create a statutory cause. It identifies a substantial reason to reconsider the remedial regime through a lawful case or legislation. Genuine equity retains the predicates recognized in Eichorn; concern about incomplete compensation is not adjudication of a different fiduciary claim or a new equitable category.
+
+**Hiibel v. Sixth Judicial District Court of Nevada; No. 03-5554; 542 U.S. 177. — 2004-06-21**
+
+**Stevens, dissenting.** A spoken name conveys information, and punishment for refusal compels that information. Hoffman protects an evidentiary link rather than only a completed confession. The State seeks Hiibel's identity to investigate his possible responsibility for a reported crime; Stevens regards that concrete purpose as the contextual basis for apprehending incrimination. Requiring an additional explanation of how the name connects to proof risks demanding the very disclosure the privilege protects. Hubbell reinforces protection for knowledge used as an investigative aid, and Muniz's routine-booking context differs from questioning targeted at a suspect's offense. He would reverse under the Fifth Amendment and supplies no separate Fourth Amendment ground.
+
+**Breyer, dissenting, joined by Souter and Ginsburg.** Terry's limited seizure authority permits police to investigate on suspicion while leaving answers voluntary. A useful identity question remains distinct from a criminal obligation to answer. Berkemer's refusal principle expresses that boundary even though its immediate issue was Miranda custody. Nevada's name-only construction avoids Kolender's uncertainty, and the accepted stop avoids Brown's suspicion defect, but neither supplies the additional power to punish silence. A stable voluntary-answer rule protects the limited character of suspicion-based detention without preventing officers from asking questions. The dissent would set aside this conviction under the Fourth Amendment; its disposition does not depend on a Fifth Amendment application ruling.
+
+**Pliler v. Ford; No. 03-221; 542 U.S. 225. — 2004-06-21**
+
+**Thomas, concurring in part and in the judgment, joined by O'Connor, Scalia and Kennedy.** The four Justices reject the compulsory advice requirements below and the new minimum warning duty. Rose supplies mixed-petition exhaustion procedure; it does not make a judge counsel responsible for explaining alternatives and limitation consequences. Castro concerns unsolicited conversion into a vehicle the prisoner did not select. Ford chose habeas, and accurate description of a nonmerits dismissal does not itself become misleading because advice is omitted. The narrower warning reduces computational demands but does not answer the objection to creating an affirmative duty. They support vacatur and adjudication of genuinely available independent grounds. O'Connor additionally joins the Court's equity and proof rules for actual materially misleading judicial directions, preserving that distinction without adopting a new omission duty; Scalia, Kennedy and Thomas do not join the new equitable formulation.
+
+**Ginsburg, concurring in part and dissenting in part, joined by Breyer throughout, and by Stevens and Souter on the fuller protective procedure.** The four Justices would recognize deletion of unexhausted claims, retention and a stay of exhausted claims, and lawful amendment after exhaustion as an available procedure. Rose's comity requirement does not categorically prohibit retaining a timely federal opportunity while the State addresses other claims. Conditions can control abusive delay; amendment and timing retain their ordinary requirements. Because Ford requested preservation of that opportunity, accurate presentation of his options should disclose the available protective procedure. The minimum warning adopted by the Court is a floor. Duncan's federal-pendency exclusion makes this protection consequential, and Castro supports responsibility for the court's own intervention.
+
+Ginsburg and Breyer would also preserve the Ninth Circuit's vacatur of the repeated-claim dismissals by partial affirmance, correcting the relation-back mechanism while requiring lawful further proceedings. They oppose withdrawing that existing protection merely because the precise remedy needs adjudication. Stevens and Souter do not join this remedial portion; they regard vacatur and individualized equitable adjudication under the Court's rules as an adequate disposition.
+
 ## Current Procedure and Institution
 
 ### Court and seniority
@@ -1254,16 +1474,50 @@ Upon a proved violation and failure of the State's defense, the State receives t
 
 **Yarborough v. Alvarado; No. 02-1684; 541 U.S. 652 — 2004-06-01:** The case returns for reinstatement and implementation of denial of the presented Miranda-custody claim. The conviction and sentence remain in force on this ground.
 
+### Presentation chunk 7 public procedure
+
+**Williams v. Morton; judgment below, 343 F.3d 212 (3d Cir. 2003). — 2004-06-02:** The Third Circuit's affirmance of summary judgment remains effective on the two constitutional diet claims. Those claims are concluded by the affirmed officials' judgment.
+
+**Central Laborers' Pension Fund v. Heinz; No. 02-891; judgment below, 303 F.3d 802. — 2004-06-07:** The case returns for calculation and restoration of payments withheld solely because of the 1998 added employment restriction and enforcement of the protected accrued terms. The plan must administer those benefits without the invalid condition.
+
+**City of Littleton v. Z. J. Gifts D-4, L.L.C.; No. 02-1609. — 2004-06-07:** The case returns to the Tenth Circuit for disposition of the facial timing claim consistently with the Court's ruling. The ordinance remains operative against that claim. A court reviewing a concrete denial must provide expedition or interim protection when delay threatens suppression of protected expression.
+
+**Department of Transportation v. Public Citizen; No. 03-358. — 2004-06-07:** The case returns to the Ninth Circuit to implement reversal and remove the environmental-impact-statement and conformity requirements based on the independent traffic increase.
+
+**Republic of Austria v. Altmann; No. 03-13. — 2004-06-07:** The property suit continues under the FSIA. The district court must address remaining preserved defenses and merits in their proper order; the lower courts' separate expropriation-exception determination retains its existing posture outside this grant.
+
+**Belitskus v. Pizzingrilli; judgment below, 343 F.3d 632; lower-court Nos. 01-3747 and 01-3824. — 2004-06-10:** The case returns for a specific injunction protecting the proved candidate and party interests through a usable hardship or nonmonetary route. The district court must determine the necessary scope, define the financial-hardship condition and responsible officials' concrete duties, and preserve the State's choice among effective lawful alternatives. Donovan's individual claim is dismissed as moot.
+
+**Elk Grove Unified School District v. Newdow; No. 02-1624; 542 U.S. 1. — 2004-06-14:** The case returns through the mandate for dismissal on the Court's prudential standing ground. The Ninth Circuit's constitutional judgment cannot support an injunction in this action.
+
+**F. Hoffmann-La Roche Ltd. v. Empagran S.A.; No. 03-724; 542 U.S. 155. — 2004-06-14:** The court of appeals must give effect to vacatur, determine whether the alternative domestic-effects theory was preserved, and, if it was, consider statutory sufficiency and the further proceedings needed. The claim-specific rule governs that work. Claims based solely on the assumed independent foreign harm cannot proceed under the exception.
+
+**Hibbs v. Winn; No. 02-1809; 542 U.S. 88. — 2004-06-14:** The affirmed appellate judgment returns the action to the district court. That court must resolve Article III standing and any genuinely distinct preserved threshold, then adjudicate the constitutional claim and requested remedies if the case properly reaches them. The rejected generalized fiscal-interference argument cannot be repeated as a mandatory bar to the same action.
+
+**Norton v. Southern Utah Wilderness Alliance; No. 03-101; 542 U.S. 55. — 2004-06-14:** The lower courts must dismiss the generalized nonimpairment, nonbinding continuing monitoring-program and completed-plan supplementation theories on the grounds stated. They must dismiss as moot the requests solely for San Rafael route-plan completion and Henry Mountains file creation. The remand implements these component outcomes under ordinary procedure.
+
+**Pennsylvania State Police v. Suders; No. 03-95; 542 U.S. 129. — 2004-06-14:** The case returns through the Third Circuit for proceedings consistent with the affirmed reversal. Supported factual disputes requiring decision must be resolved through ordinary trial procedures. The courts must keep discrimination, objective compulsion, resignation causation, actual-authority attribution and claim-specific injury distinct, apply genuine independent grounds in their proper posture, and determine any employer-proved avoidable-loss limitation and lawful relief under the governing statutory limits.
+
+**United States v. Dominguez Benitez; No. 03-167; 542 U.S. 74. — 2004-06-14:** The court of appeals must apply the reasonable-probability inquiry on the whole relevant existing record, then separately resolve the remaining plain-error conditions and the resulting appellate relief. The prior award of plea relief cannot stand on the rejected prejudice rule.
+
+**Drummond ex rel. Drummond v. City of Anaheim; judgment below, 343 F.3d 1052 (9th Cir. 2003). — 2004-06-17:** The case returns for ordinary proceedings on the supported factual disputes, each defendant's participation and causation, applicable independent defenses, and the municipal and state-law elements. The lower courts must apply the settled force and notice conclusions to the facts actually established and determine any recoverable injury under the governing causes of action.
+
+**Aetna Health Inc. v. Davila; No. 02-1845; consolidated with CIGNA HealthCare of Texas, Inc. v. Calad, No. 03-83; 542 U.S. 200. — 2004-06-21:** The Fifth Circuit must implement reversal separately for Davila and Calad, treating removal as proper and respecting the district dismissals following each patient's refusal to amend. Any preserved procedural question proceeds under the applicable ordinary rules.
+
+**Hiibel v. Sixth Judicial District Court of Nevada; No. 03-5554; 542 U.S. 177. — 2004-06-21:** The Nevada judgment remains in force. The ordinary mandate returns the case for implementation of the affirmance.
+
+**Pliler v. Ford; No. 03-221; 542 U.S. 225. — 2004-06-21:** The repeated claims return for petition-specific proceedings under Parts I–IV and the mandate in Part V. The lower courts must determine whether the actual court-created loss and supported causal period permit a lawful remedy curing the defect, then calculate timeliness and proceed on the grounds that apply. The independent new-claim branches continue in their preserved posture.
+
 ## Blockers and Revalidation Needs
 
-All 16 scheduled chunk 6 matters are completed; no chunk 6 matter is stopped. Ordinary remand work has the scope stated above. The four unscheduled original actions remain preserved.
+All 16 scheduled chunk 7 matters are completed; no chunk 7 matter is stopped. Ordinary remand work has the scope stated above. The four unscheduled original actions remain preserved.
 
 The chunk validation records the affected-law screen for already completed later decisions. Those adjudications remain unchanged. A future dependency must use the exact new holding rather than its result alone. Earlier-dated undecided matters in later presentation chunks supply no law and create no blocker.
 
 The source limitation retained from Planned Parenthood of the Rocky Mountains Services, Corp. v. Owens concerns the acknowledgment signer, declaration/report actors and report recipient; a later use depending on those identities needs the operative source and authorized clarification.
 
-Repository operations remain reserved to the user. The ledger preserves actual durable file order; repository history and commit-object verification remain deferred. Each assignment counts the previously durable signed leads under the current task instruction, independently of the event-date cutoff governing entering law.
+Repository operations remain reserved to the user. The ledger retains the prior recorded order and commitment fields and appends the sixteen new Records in effective-date and filename order pending operator verification and commit. Repository history and commit-object verification remain deferred. For chunk 7, each assignment recounts actual preceding effective-date opinion tables, taking same-date cases alphabetically and including earlier Records written in the same Run. Earlier committed assignments stand as made. Repository history verification remains the operator's task.
 
 ## Source and Research Cutoff
 
-Opening legal cutoff: June 30, 2003, from the synchronized OT2002 trackers, edition November 14, 2026. Every completed event applies its own decision-date cutoff. The [chunk 1 reading index](../entering-law/OT_2003CHUNK1.md), [chunk 2 reading index](../entering-law/OT_2003CHUNK2.md), [chunk 3 reading index](../entering-law/OT_2003CHUNK3.md), [chunk 4 reading index](../entering-law/OT_2003CHUNK4.md), [chunk 5 reading index](../entering-law/OT_2003CHUNK5.md), [chunk 6 reading index](../entering-law/OT_2003CHUNK6.md), neutral packets and source supplements, frozen commitments and reconciliations, and Records identify source support and specific limits. Neither a maximum chronology cursor nor a later-dated durable Record supplies substantive law to an earlier event. Research retrieval dates are internal provenance only.
+Opening legal cutoff: June 30, 2003, from the synchronized OT2002 trackers, edition November 14, 2026. Every completed event applies its own decision-date cutoff. The [chunk 1 reading index](../entering-law/OT_2003CHUNK1.md), [chunk 2 reading index](../entering-law/OT_2003CHUNK2.md), [chunk 3 reading index](../entering-law/OT_2003CHUNK3.md), [chunk 4 reading index](../entering-law/OT_2003CHUNK4.md), [chunk 5 reading index](../entering-law/OT_2003CHUNK5.md), [chunk 6 reading index](../entering-law/OT_2003CHUNK6.md), [chunk 7 reading index](../entering-law/OT_2003CHUNK7.md), neutral packets and source supplements, frozen commitments and reconciliations, and Records identify source support and specific limits. Neither a maximum chronology cursor nor a later-dated durable Record supplies substantive law to an earlier event. Research retrieval dates are internal provenance only.

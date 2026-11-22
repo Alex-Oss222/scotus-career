@@ -1,0 +1,192 @@
+Source: https://www.law.cornell.edu/supct/html/03-13.ZS.html
+
+REPUBLIC OF AUSTRIA V. ALTMANN
+REPUBLIC OF AUSTRIA V. ALTMANN (03-13)
+327 F.3d 1246, affirmed.Syllabus
+Opinion
+[ Stevens ]Concurrence
+[ Scalia ]Concurrence
+[ Breyer ]Dissent
+[ Kennedy ]HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+Syllabus
+NOTE:  Where it is feasible, a
+syllabus (headnote) will be released, as is being done in
+connection with this case, at the time the opinion is
+issued.
+The syllabus constitutes no part of the opinion of
+the Court but has been prepared by the Reporter of Decisions
+for the convenience of the reader.
+See United States
+v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+SUPREME COURT OF THE UNITED
+STATES
+REPUBLIC OF AUSTRIA et al. v.
+ALTMANN
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE NINTH CIRCUIT
+No. 03—13.
+Argued February 25, 2004–Decided June 7, 2004
+Upon evidence that certain of her
+uncle’s valuable art works had either been seized by the
+Nazis or expropriated by Austria after World War II, respondent
+filed this action in Federal District Court to recover six of
+the paintings from petitioners, Austria and its
+instrumentality, the Austrian Gallery.	She asserts
+jurisdiction under §2 of the Foreign Sovereign Immunities
+Act of 1976 (FSIA or Act), 28 U.S.C. §
+1330(a), which authorizes federal civil suits against
+foreign states “as to any claim for relief in personam
+with respect to which the foreign state is not entitled to
+immunity” under another section of the FSIA or under
+“any applicable international agreement.”  She
+further asserts that petitioners are not entitled to immunity
+under the FSIA’s “expropriation exception,”
+§1605(a)(3), which expressly exempts from immunity certain
+cases involving “rights in property taken in violation of
+international law.”  Petitioners moved to dismiss based
+on, inter alia, the two-part claim that (1) as of 1948,
+when much of their alleged wrongdoing took place, they would
+have enjoyed absolute sovereign immunity from suit in United
+States courts, and that (2) nothing in the FSIA retroactively
+divests them of that immunity.	Rejecting this argument, the
+District Court concluded, among other things, that the FSIA
+applies retroactively to pre-1976 actions.  The Ninth Circuit
+affirmed.
+Held: The FSIA applies to
+conduct, like petitioners’ alleged wrongdoing, that
+occurred prior to the Act’s 1976 enactment and even prior
+to the United States’ 1952 adoption of the so-called
+“restrictive theory” of sovereign immunity.
+Pp. 9—24.
+(a) This Court
+has long deferred to Executive Branch sovereign immunity
+decisions.  Until 1952, Executive policy was to request
+immunity in all actions against friendly sovereigns.  In that
+year, the State Department began to apply the “restrictive
+theory,” whereby immunity is recognized with regard to a
+foreign state’s sovereign or public acts, but not its
+private acts.  Although this change had little impact on
+federal courts, which continued to abide by the
+Department’s immunity suggestions, Verlinden
+B. V. v. Central Bank of Nigeria, 461 U.S. 480, 487,
+the change threw immunity decisions into some disarray: Foreign
+nations’ diplomatic pressure sometimes prompted the
+Department to file suggestions of immunity in cases in which
+immunity would not have been available under the restrictive
+theory; and when foreign nations failed to ask the Department
+for immunity, the courts had to determine whether immunity
+existed, so responsibility for such determinations lay with two
+different branches, ibid.  To remedy these problems, the
+FSIA codified the restrictive principle and transferred primary
+responsibility for immunity determinations to the Judicial
+Branch.  The Act grants federal courts jurisdiction over civil
+actions against foreign states and carves out the expropriation
+and other exceptions to its general grant of immunity.	In any
+such action, the district court’s subject-matter
+jurisdiction depends on the applicability of one of those
+exceptions.  Id., at 493—494.
+Pp. 9—13.
+(b) This
+case is not controlled by Landgraf v. USI Film
+Products, 511 U.S.
+244.  In describing the general presumption against
+retroactive application of a statute, the Court there declared,
+inter alia, that, if a federal law enacted after the
+events in suit does not expressly prescribe its own proper
+reach but does operate retroactively–i.e., would
+impair rights a party possessed when he acted, increase his
+liability for past conduct, or impose new duties with respect
+to transactions already completed–it does not govern
+absent clear congressional intent favoring that result.
+Id., at 280.  Though seemingly comprehensive, this inquiry
+does not provide a clear answer here.  None of the three
+examples of retroactivity mentioned above fits the FSIA’s
+clarification of sovereign immunity law.  However, the
+preliminary conclusion that the FSIA does not appear to
+“operate retroactively” within the meaning of
+Landgraf’’s default rule creates some tension
+with the Court’s observation in Verlinden that the
+FSIA is not simply a jurisdictional statute, but a codification
+of “the standards governing foreign sovereign immunity as
+an aspect of substantive federal law.”  461 U.S.,
+at 496—497 (emphasis added).  And while the FSIA’s
+preamble suggests that it applies to preenactment conduct, that
+statement by itself falls short of the requisite express
+prescription.  Thus Landgraf’s default rule does
+not definitively resolve this case.  While
+Landgraf’s antiretroactivity presumption aims to
+avoid unnecessary post hoc changes to legal rules on
+which private parties relied in shaping their primary conduct,
+however, foreign sovereign immunity’s principal purpose is
+to give foreign states and their instrumentalities some
+present protection from the inconvenience of suit,
+Dole Food Co. v. Patrickson, 538 U.S. 468, 479.
+In this sui generis context, it is more appropriate,
+absent contraindications, to defer to the most recent decision
+of the political branches on whether to take jurisdiction, the
+FSIA, than to presume that decision inapplicable merely
+because it postdates the conduct in question.
+Pp. 13—18.
+(c) Nothing
+in the FSIA or the circumstances surrounding its enactment
+suggests that it should not be applied to petitioners’
+1948 actions.  Indeed, clear evidence that Congress intended it
+to apply to preenactment conduct lies in its preamble’s
+statement that foreign states’ immunity
+“[c]laims … should henceforth be
+decided by [American] courts … in conformity with the
+principles set forth in this chapter,” §1602
+(emphasis added).  Though perhaps not sufficient to satisfy
+Landgraf’’s “express command”
+requirement, 511 U.S., at 280, this language is unambiguous:
+Immunity “claims”–not actions protected by
+immunity, but assertions of immunity to suits arising from
+those actions–are the relevant conduct regulated by the
+Act and are “henceforth” to be decided by the courts.
+Thus, Congress intended courts to resolve all such
+claims “in conformity with [FSIA] principles”
+regardless of when the underlying conduct occurred.  The
+FSIA’s overall structure strongly supports this
+conclusion: Many of its provisions unquestionably apply to
+cases arising out of conduct that occurred before 1976, see,
+e.g., Dole Food Co., supra, and its
+procedural provisions undoubtedly apply to all pending cases.
+In this context, it would be anomalous to presume that an
+isolated provision (such as the expropriation exception on
+which respondent relies) is of purely prospective application
+absent any statutory language to that effect.  Finally,
+applying the FSIA to all pending cases regardless of when the
+underlying conduct occurred is most consistent with two of the
+Act’s principal purposes: clarifying the rules judges
+should apply in resolving sovereign immunity claims and
+eliminating political participation in the resolution of such
+claims.  Pp. 18—22.
+(d) This
+holding is extremely narrow.  The Court does not review the
+lower courts’ determination that §1605(a)(3) applies
+here, comment on the application of the so-called “act of
+state” doctrine to petitioners’ alleged wrongdoing,
+prevent the State Department from filing statements of interest
+suggesting that courts decline to exercise jurisdiction in
+particular cases implicating foreign sovereign immunity, or
+express an opinion on whether deference should be granted such
+filings in cases covered by the FSIA.  The issue here concerns
+only the interpretation of the FSIA’s reach–a
+“pure question of statutory construction … well
+within the province of the Judiciary.”  INS v.
+Cardoza&nbhyph;Fonseca, 480 U.S. 421, 446,
+448.  Pp. 22—24.
+327 F.3d 1246, affirmed.
+Stevens, J.,
+delivered the opinion of the Court, in which O’Connor,
+Scalia, Souter, Ginsburg, and Breyer, JJ., joined.  Scalia, J.,
+filed a concurring opinion.  Breyer, J., filed a concurring
+opinion, in which Souter, J., joined.  Kennedy, J., filed a
+dissenting opinion, in which Rehnquist, C. J., and Thomas,
+J., joined.

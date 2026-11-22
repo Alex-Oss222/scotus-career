@@ -143,7 +143,7 @@ Only five briefs carry a special conditional writing direction. In McConnell v. 
 | 99 | OT_2003CHUNK7 | F. Hoffmann-La Roche Ltd. v. Empagran S.A. | No. 03-724; 542 U.S. 155 (2004) | 2004-06-14 | Merits decision | MERITS | Antitrust: extraterritoriality |
 | 100 | OT_2003CHUNK7 | Drummond ex rel. Drummond v. City of Anaheim + | 343 F.3d 1052 (9th Cir. 2003) | 2004-06-17 | Merits decision | MERITS | Fourth Amendment: excessive force |
 | 101 | OT_2003CHUNK7 | Hiibel v. Sixth Judicial District Court of Nevada | No. 03-5554; 542 U.S. 177 (2004) | 2004-06-21 | Merits decision | MERITS | Fourth/Fifth Amendments: stop and identify |
-| 102 | OT_2003CHUNK7 | Aetna Health Inc. v. Davila | Nos. 02-1845 and 02-1846; 542 U.S. 200 (2004) | 2004-06-21 | Merits decision | MERITS | ERISA: federal preemption |
+| 102 | OT_2003CHUNK7 | Aetna Health Inc. v. Davila | Nos. 02-1845 and 03-83; 542 U.S. 200 (2004) | 2004-06-21 | Merits decision | MERITS | ERISA: federal preemption |
 | 103 | OT_2003CHUNK7 | Pliler v. Ford | No. 03-221; 542 U.S. 225 (2004) | 2004-06-21 | Merits decision | MERITS | Habeas corpus: procedural requirements |
 
 ## OT_2003CHUNK8

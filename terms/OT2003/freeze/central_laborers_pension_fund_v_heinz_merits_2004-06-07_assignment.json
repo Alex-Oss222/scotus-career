@@ -1,0 +1,822 @@
+{
+  "counts": {
+    "Stone-Zsela": 9,
+    "Stevens": 9,
+    "O'Connor": 10,
+    "Scalia": 9,
+    "Kennedy": 9,
+    "Souter": 10,
+    "Thomas": 9,
+    "Ginsburg": 9,
+    "Breyer": 9
+  },
+  "last_counted_event": "Williams v. Morton; judgment below, 343 F.3d 212 (3d Cir. 2003).",
+  "last_counted_date": "2004-06-02",
+  "actual_opinion_tables": [
+    {
+      "file": "demore_v_kim_merits_2003-10-14.md",
+      "date": "2003-10-14",
+      "case": "Demore v. Kim; No. 01-1491; judgment below, 276 F.3d 523 (9th Cir. 2002).",
+      "authors": [
+        "Breyer"
+      ],
+      "opinion_table": "BREYER, J., delivered the opinion of the Court with respect to Parts I, II-A and II-B, and an opinion with respect to Parts III and IV. STEVENS, SOUTER, and GINSBURG, JJ., joined the entire opinion. STONE-ZSELA, C. J., joined Parts I, II-A and II-B, and filed an opinion concurring in part and concurring in the judgment. O'CONNOR and KENNEDY, JJ., joined Parts I and II-A. SCALIA and THOMAS, JJ., joined Part II-A on the Court's determination of jurisdiction. SOUTER, J., filed a concurring opinion, in which STEVENS and GINSBURG, JJ., joined. O'CONNOR, J., filed an opinion concurring in part and dissenting in part, in which SCALIA, KENNEDY, and THOMAS, JJ., joined. KENNEDY, J., filed an additional opinion concurring in part and dissenting in part. SCALIA, J., filed an additional opinion concurring in part and dissenting in part, in which THOMAS, J., joined.\n\n| Lead-opinion part | Subject | Justices joining, including author | Authority |\n|---|---|---|---|\n| I | Section 1226(e) and independent habeas | Breyer, Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg | Opinion of the Court, seven |\n| II-A | Pre-order reach and actual category inquiry | All nine; Scalia and Thomas proceed on the Court's jurisdiction determination | Opinion of the Court, nine on the statutory merits |\n| II-B | Substantial-question threshold for individual assessment | Breyer, Stone-Zsela, Stevens, Souter, Ginsburg | Opinion of the Court, five |\n| III | Detainee clear-and-convincing proof at the risk assessment | Breyer, Stevens, Souter, Ginsburg | Plurality rationale, four; applied to Kim by the five-vote judgment |\n| IV | Application and remedy under that complete pathway | Breyer, Stevens, Souter, Ginsburg | Four opinion joins; Stone-Zsela concurs in the entire judgment |\n\nThe four dissenters oppose the statutory pathway and seek reversal of the constitutional hearing requirement with lawful implementation and proper consideration of preserved category objections. Their agreement on pre-order reach does not join Parts II-B, III or IV. Scalia and Thomas also oppose the jurisdiction holding. The separate writings' grounds and joins are stated below."
+    },
+    {
+      "file": "yarborough_v_gentry_merits_2003-10-20.md",
+      "date": "2003-10-20",
+      "case": "Yarborough v. Gentry; No. 02-1597; 540 U.S. 1.",
+      "authors": [],
+      "opinion_table": "The Court issues a per curiam opinion joined in full by all nine participating Justices."
+    },
+    {
+      "file": "greenville_womens_clinic_v_commissioner_merits_2003-10-27.md",
+      "date": "2003-10-27",
+      "case": "Greenville Women's Clinic v. Commissioner; Fourth Circuit Nos. 01-2090 and 01-2235; 317 F.3d 357",
+      "authors": [
+        "Ginsburg"
+      ],
+      "opinion_table": "GINSBURG, J., delivered the opinion of the Court, with the joins specified below. STONE-ZSELA, C. J., filed an opinion concurring in part, concurring in the judgment in part and dissenting in part. SCALIA, J., filed an opinion concurring in part and dissenting in part, in which THOMAS, J., joined.\n\n| Lead-opinion part | Subject | Justices joining, including author | Authority |\n|---|---|---|---|\n| I | Medical and secular referral delegation; common qualification and arbitrary-control ground | All nine | Opinion of the Court |\n| II, religious-authority boundary | Requested private assistance versus compulsory religious civil power | All nine | Opinion of the Court |\n| II, application and remand | Determine the legally operative clergy duty | Ginsburg, Stevens, O'Connor, Kennedy, Souter, Breyer | Opinion of the Court, six |\n| III-A | Ordinary contextual standards and section 305(A) | All nine | Opinion of the Court |\n| III-B | Independent undefined best-practices sanction mechanism | Ginsburg, Stevens, O'Connor, Kennedy, Souter, Breyer | Opinion of the Court, six |\n| IV-A | Independent information-recipient-function inquiry and privacy remand | Ginsburg, Stevens, O'Connor, Kennedy, Souter, Breyer | Opinion of the Court, six; Stone-Zsela agrees in the judgment only |\n| IV-B | Additional proved interference with protected choice | Ginsburg, Stevens, O'Connor, Souter, Breyer | Opinion of the Court, five; Kennedy withholds assent to this additional rationale |\n\nThe common qualification ground in Part I does not purport to give Scalia, Thomas or Kennedy a join in the complete lesser-burden framework."
+    },
+    {
+      "file": "united_states_v_holston_merits_2003-10-30.md",
+      "date": "2003-10-30",
+      "case": "United States v. Holston; Second Circuit No. 02-1292; judgment below reported at 343 F.3d 83.",
+      "authors": [
+        "O'Connor"
+      ],
+      "opinion_table": "O'CONNOR, J., delivered the opinion of the Court, in which STONE-ZSELA, C. J., and STEVENS, SCALIA, KENNEDY, SOUTER, THOMAS, GINSBURG, and BREYER, JJ., joined.\n\n| Writing | Author | Joined by | Relationship to judgment | Scope joined |\n|---|---|---|---|---|\n| Opinion of the Court | O'Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Affirms the judgment | Both controlling holdings, their explanations and application, and the entire judgment and remedy |"
+    },
+    {
+      "file": "mitchell_v_esparza_merits_2003-11-03.md",
+      "date": "2003-11-03",
+      "case": "Mitchell v. Esparza; No. 02-1369; 540 U.S. 12",
+      "authors": [
+        "Scalia"
+      ],
+      "opinion_table": "SCALIA, J., delivered the opinion of the Court, in which STEVENS, O'CONNOR, KENNEDY, SOUTER, THOMAS, GINSBURG, and BREYER, JJ., joined. STONE-ZSELA, C. J., joined Parts I and III and filed an opinion concurring in part and dissenting in part.\n\n| Writing or part | Author | Joins besides author | Scope |\n|---|---|---|---|\n| Lead Part I | Scalia | All eight other Justices | Dated review and rejection of categorical structural treatment |\n| Lead Part II | Scalia | Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg, Breyer | Definitive statutory rejection of the reviewed omission ground |\n| Lead Part III | Scalia | All eight other Justices | Independent sentence claims and remand |\n| Partial dissent | Stone-Zsela | No other Justice | Would retain the omission theory's properly dated inquiry on remand |"
+    },
+    {
+      "file": "boca_investerings_partnership_v_united_states_merits_2003-11-06.md",
+      "date": "2003-11-06",
+      "case": "Boca Investerings Partnership v. United States; judgment below, 314 F.3d 625",
+      "authors": [
+        "Kennedy"
+      ],
+      "opinion_table": "KENNEDY, J., delivered the opinion of the Court, in which STONE-ZSELA, C. J., and STEVENS, O'CONNOR, SCALIA, SOUTER, THOMAS, GINSBURG, and BREYER, JJ., joined.\n\n| Writing | Author | Joined by | Scope |\n|---|---|---|---|\n| Opinion of the Court | Kennedy | Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Complete recognition rule, application, review standard and remedy |"
+    },
+    {
+      "file": "barnhart_v_thomas_merits_2003-11-12.md",
+      "date": "2003-11-12",
+      "case": "Barnhart v. Thomas; No. 02-763; 540 U.S. 20",
+      "authors": [
+        "Souter"
+      ],
+      "opinion_table": "SOUTER, J., delivered the opinion of the Court, in which STONE-ZSELA, C. J., and STEVENS, O'CONNOR, SCALIA, KENNEDY, THOMAS, GINSBURG, and BREYER, JJ., joined.\n\n| Writing | Author | Joined by | Scope |\n|---|---|---|---|\n| Opinion of the Court | Souter | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | Whole statutory, delegation and reasonable-implementation rationale and remedy |"
+    },
+    {
+      "file": "washoe_county_v_united_states_merits_2003-11-17.md",
+      "date": "2003-11-17",
+      "case": "Washoe County v. United States; judgment below, 319 F.3d 1320",
+      "authors": [
+        "Thomas"
+      ],
+      "opinion_table": "THOMAS, J., delivered the opinion of the Court, in which STONE-ZSELA, C. J., and STEVENS, O'CONNOR, SCALIA, KENNEDY, SOUTER, GINSBURG, and BREYER, JJ., joined.\n\n| Writing | Author | Joined by | Scope |\n|---|---|---|---|\n| Opinion of the Court | Thomas | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg, Breyer | Finality, property definition, physical and regulatory theories, and complete affirmance |"
+    },
+    {
+      "file": "united_states_v_ho_merits_2003-11-20.md",
+      "date": "2003-11-20",
+      "case": "United States v. Ho; judgment below, 311 F.3d 589",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "opinion_table": "STONE-ZSELA, C. J., delivered the opinion of the Court, in which STEVENS, O'CONNOR, SCALIA, KENNEDY, SOUTER, THOMAS, GINSBURG, and BREYER, JJ., joined.\n\n| Writing | Author | Joined by | Scope |\n|---|---|---|---|\n| Opinion of the Court | Stone-Zsela | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Complete direct-market, preventive-regulation and ancillary-notice grounds; both conviction components and sentence-remand limit |"
+    },
+    {
+      "file": "valeria_v_davis_merits_2003-11-25.md",
+      "date": "2003-11-25",
+      "case": "Valeria v. Davis; Ninth Circuit No. 01-15219; judgment below, 307 F.3d 1036",
+      "authors": [
+        "O'Connor"
+      ],
+      "opinion_table": "O'CONNOR, J., delivered the opinion of the Court, in which STONE-ZSELA, C. J., and SCALIA, KENNEDY, and THOMAS, JJ., joined. STEVENS, SOUTER, GINSBURG, and BREYER, JJ., joined Part I. BREYER, J., filed an opinion dissenting in part, in which STEVENS, SOUTER, and GINSBURG, JJ., joined.\n\n| Writing or part | Author | Joins besides author | Scope |\n|---|---|---|---|\n| Lead Part I | O'Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Governing racial political-process rule and distinction from neutral statewide policy |\n| Lead Part II | O'Connor | Stone-Zsela, Scalia, Kennedy, Thomas | Record-specific application and affirmance |\n| Partial dissent | Breyer | Stevens, Souter, Ginsburg | Accepts Part I but would vacate for a proper structural application |"
+    },
+    {
+      "file": "Federal_Rule_of_Civil_Procedure_53_amendment_source_2003-12-01.md",
+      "date": "2003-12-01",
+      "case": "Federal Rule of Civil Procedure 53, 2003 amendment; House Document 108-56.",
+      "authors": [],
+      "opinion_table": "Noncase source; no lead or separate opinion."
+    },
+    {
+      "file": "raytheon_co_v_hernandez_merits_2003-12-02.md",
+      "date": "2003-12-02",
+      "case": "Raytheon Co. v. Hernandez; No. 02-749; 540 U.S. 44",
+      "authors": [
+        "Stevens"
+      ],
+      "opinion_table": "STEVENS, J., delivered the opinion of the Court, in which STONE-ZSELA, C. J., and O'CONNOR, SCALIA, KENNEDY, THOMAS, and GINSBURG, JJ., joined.\n\n| Writing | Author | Joined by | Scope |\n|---|---|---|---|\n| Opinion of the Court | Stevens | Stone-Zsela, O'Connor, Scalia, Kennedy, Thomas, Ginsburg | Both holdings, their explanations and the full limited remand |"
+    },
+    {
+      "file": "united_states_v_banks_merits_2003-12-02.md",
+      "date": "2003-12-02",
+      "case": "United States v. Banks; No. 02-473; 540 U.S. 31",
+      "authors": [
+        "Breyer"
+      ],
+      "opinion_table": "BREYER, J., delivered the opinion of the Court, in which STONE-ZSELA, C. J., and STEVENS, O'CONNOR, SCALIA, KENNEDY, SOUTER, THOMAS, and GINSBURG, JJ., joined.\n\n| Writing | Author | Joined by | Scope |\n|---|---|---|---|\n| Opinion of the Court | Breyer | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Both complete holdings and the entry-based suppression remand |"
+    },
+    {
+      "file": "van_susteren_v_jones_merits_2003-12-04.md",
+      "date": "2003-12-04",
+      "case": "Van Susteren v. Jones; Ninth Circuit No. 01-57210; judgment below, 331 F.3d 1024",
+      "authors": [
+        "Thomas"
+      ],
+      "opinion_table": "THOMAS, J., delivered the opinion of the Court, in which STONE-ZSELA, C. J., and STEVENS, O'CONNOR, SCALIA, KENNEDY, SOUTER, GINSBURG, and BREYER, JJ., joined.\n\n| Writing | Author | Joined by | Scope |\n|---|---|---|---|\n| Opinion of the Court | Thomas | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg, Breyer | Both granted constitutional grounds and the complete affirmance |"
+    },
+    {
+      "file": "virginia_v_maryland_merits_2003-12-09.md",
+      "date": "2003-12-09",
+      "case": "Virginia v. Maryland; No. 129, Original; 540 U.S. 56",
+      "authors": [
+        "Souter"
+      ],
+      "opinion_table": "SOUTER, J., delivered the opinion of the Court, in which STONE-ZSELA, C. J., and O'CONNOR, SCALIA, THOMAS, GINSBURG, and BREYER, JJ., joined. KENNEDY, J., filed a dissenting opinion, in which STEVENS, J., joined.\n\n| Writing | Author | Joined by | Relationship and scope |\n|---|---|---|---|\n| Opinion of the Court | Souter | Stone-Zsela, O'Connor, Scalia, Thomas, Ginsburg, Breyer | Both holdings, their explanations and the complete decree |\n| Dissent | Kennedy | Stevens | Rejects categorical permit exemption; conditional acquiescence observation supplies no join in the Court's opinion |"
+    },
+    {
+      "file": "mcconnell_v_federal_election_commission_merits_2003-12-10.md",
+      "date": "2003-12-10",
+      "case": "McConnell v. Federal Election Commission; 540 U.S. 93; Nos. 02-1674, 02-1675, 02-1676, 02-1702, 02-1727, 02-1733, 02-1734, 02-1740, 02-1747, 02-1753, 02-1755 and 02-1756.",
+      "authors": [
+        "Stone-Zsela",
+        "O'Connor"
+      ],
+      "opinion_table": "STONE-ZSELA, C. J., and O'CONNOR, J., delivered the opinion of the Court in the portions identified below. STONE-ZSELA, C. J., filed an opinion concurring in part and dissenting in part, in which STEVENS, GINSBURG and BREYER, JJ., joined only the payroll portion. KENNEDY, J., filed an opinion concurring in part and dissenting in part, in which SCALIA, J., joined throughout and THOMAS, J., joined except its demand to invalidate every new section 504 application. THOMAS, J., filed an additional opinion concurring in part and dissenting in part. STEVENS, J., filed an opinion dissenting in part on section 305, in which GINSBURG and BREYER, JJ., joined.\n\n| Writing and scope | Author | Direct joins besides author | Relationship |\n|---|---|---|---|\n| National-party rule; registration/turnout/Levin; candidate-for-office party and state-official communications; nonfederal §323(d) residue; primary treasury facial result; complete coordination facial result; separate-unbroadcast contracts and §212; full §504 result | Stone-Zsela | Stevens, O'Connor, Souter, Ginsburg, Breyer | Six-Justice Court grounds and remedies |\n| Compliant §323(d) protection; §323(e); functional nonprofit protection; enforceable requested campaign-resource contracts; §213; ordinary §201 reports and obligations for aired messages; Paul, Adams and self-financing dismissals; §318 | Stone-Zsela | All eight Associate Justices | Unanimous propositions and component remedies; broader neighboring propositions retain their separate joins |\n| §311 extension | Stone-Zsela | Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg, Breyer | Eight-Justice affirmance; Thomas dissents at his stated issue-expression scope |\n| §305 threshold | Stone-Zsela | O'Connor, Scalia, Kennedy, Souter, Thomas | Six-Justice threshold dismissal |\n| Candidate requests and aired noncandidate federal-election records under §504 | Stone-Zsela | Stevens, O'Connor, Souter, Thomas, Ginsburg, Breyer | Seven-Justice sustaining portions; Thomas does not join the remaining §504 applications |\n| Full-salary fit and remand | O'Connor | Scalia, Kennedy, Souter, Thomas | Five direct joins; the three broader challengers also prefer invalidation |\n| Fallback nonactivation and vacatur | O'Connor | Stevens, Souter, Ginsburg, Breyer | Five direct reasoning joins; Stone-Zsela agrees in the disposition only; all nine oppose the lower deletion |\n| §§211/214(d) statutory theories; §214(b)/(c) thresholds; independent Press/media claim; directly regulated parties' standing; federal election sources; state sovereignty; Thompson racial-impact theory; bounded vagueness; intervenor nonreach | O'Connor | Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Eight direct joins; Stone-Zsela agrees in the dispositions only |\n| Surviving party-specific classifications | O'Connor | Stevens, Souter, Ginsburg, Breyer | Five direct joins; Stone-Zsela agrees in the disposition only; Scalia, Kennedy and Thomas require no separate equality remedy beyond their speech relief |\n| Payroll dissent | Stone-Zsela | Stevens, Ginsburg, Breyer | Would sustain the complete payroll class |\n| Additional affirmative timely-review instruction | Stone-Zsela | No other Justice | Concurs in the common remand and proposes the further practical-protection instruction stated in the separate writing |\n| Broader party/expression, treasury, coordination and prepublication protection; narrower payroll remand accepted | Kennedy | Scalia and Thomas | Partial dissent and stated common/narrower joins, without adoption of the complete sustaining grounds |\n| Full new-duty §504 dissent | Kennedy | Scalia | Would retain complete injunction; Thomas joins only the stated invalid applications |\n| Distinct §311 anonymity and §504 application positions | Thomas | No other Justice | Partial dissent on issue identification; partial concurrence and dissent on the broadcaster branches |\n| §305 merits position | Stevens | Ginsburg, Breyer | Would reach and sustain rather than dismiss |\n\nJudgment agreement does not enlarge these reasoning joins. Every controlling proposition has direct majority support at its stated scope; no combination under Marks supplies a missing rationale."
+    },
+    {
+      "file": "united_states_v_deaton_merits_2003-12-11.md",
+      "date": "2003-12-11",
+      "case": "United States v. Deaton; judgment below, 332 F.3d 698",
+      "authors": [
+        "Kennedy"
+      ],
+      "opinion_table": "KENNEDY, J., delivered the opinion of the Court, in which STEVENS, O'CONNOR, SCALIA, SOUTER, THOMAS, GINSBURG, and BREYER, JJ., joined. STONE-ZSELA, C. J., joined the statutory coverage conclusion in Part I, all of Part II and the operative restoration mandate in Part IV, and concurred in the judgment on Part III without adding a ground.\n\n| Lead-opinion component | Justices joining the stated rationale | Relationship |\n|---|---|---|\n| I, conclusion that the demonstrated tributary-connected wetlands are covered | All nine | Common statutory coverage proposition |\n| I, delegated statutory choice and own-regulation interpretation | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Eight complete rationale joins |\n| II, channel protection | All nine | Complete controlling rationale |\n| III, wetland delineation | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Eight rationale joins; Stone-Zsela concurs in this component's judgment without adding a ground |\n| IV, restoration | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Eight complete rationale joins; Stone-Zsela joins the operative restoration mandate |"
+    },
+    {
+      "file": "castro_v_united_states_merits_2003-12-15.md",
+      "date": "2003-12-15",
+      "case": "Castro v. United States; No. 02-6683; 540 U.S. 375",
+      "authors": [
+        "Stevens"
+      ],
+      "opinion_table": "STEVENS, J., delivered the opinion of the Court, in which STONE-ZSELA, C. J., and O'CONNOR, KENNEDY, SOUTER, GINSBURG, and BREYER, JJ., joined. SCALIA and THOMAS, JJ., joined Part I. SCALIA, J., filed an opinion concurring in part and concurring in the judgment, in which THOMAS, J., joined.\n\n| Writing or part | Justices adopting it | Relationship |\n|---|---|---|\n| Lead Part I, review channel | All nine | Opinion of the Court |\n| Lead Part II, warning rule | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg, Breyer | Opinion of the Court, seven direct joins |\n| Lead Part III, application and remand | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg, Breyer | Opinion of the Court, seven direct rationale joins |\n| Concurrence in the merits judgment | Scalia and Thomas | Joins Part I; independent improper-conversion ground for vacatur and remand, without joining Parts II–III |"
+    },
+    {
+      "file": "in_re_trans_world_airlines_merits_2003-12-15.md",
+      "date": "2003-12-15",
+      "case": "In re Trans World Airlines, Inc.; judgment below, 322 F.3d 283 (3d Cir. 2003).",
+      "authors": [
+        "Thomas"
+      ],
+      "opinion_table": "THOMAS, J., delivered the opinion of the Court, in which STONE-ZSELA, C. J., and STEVENS, O'CONNOR, SCALIA, KENNEDY, SOUTER, GINSBURG, and BREYER, JJ., joined.\n\nThe opinion, both holdings, their qualifications and the complete judgment and remedy have nine direct joins."
+    },
+    {
+      "file": "maryland_v_pringle_merits_2003-12-15.md",
+      "date": "2003-12-15",
+      "case": "Maryland v. Pringle; No. 02-809; 540 U.S. 366",
+      "authors": [
+        "O'Connor"
+      ],
+      "opinion_table": "O'CONNOR, J., delivered the opinion of the Court, in which STONE-ZSELA, C. J., and STEVENS, SCALIA, KENNEDY, SOUTER, THOMAS, GINSBURG, and BREYER, JJ., joined.\n\nThe Court's opinion has complete joins from all nine Justices on the rule, application and bounded remand."
+    },
+    {
+      "file": "concrete_works_of_colorado_v_denver_merits_2003-12-18.md",
+      "date": "2003-12-18",
+      "case": "Concrete Works of Colorado v. City and County of Denver; judgment below, 321 F.3d 950 (10th Cir. 2003).",
+      "authors": [
+        "Ginsburg"
+      ],
+      "opinion_table": "GINSBURG, J., delivered the opinion of the Court, in which STEVENS, O'CONNOR, SCALIA, KENNEDY, SOUTER, THOMAS, and BREYER, JJ., joined. STONE-ZSELA, C. J., joined the three controlling holdings and the 1996 mootness ground and concurred in the judgment on the superseded 1990 prospective claim without adding a ground.\n\n| Portion | Direct rationale support | Relationship |\n|---|---|---|\n| Racial justification, separate sex justification and law of the case; live merits dispositions | All nine Justices | Opinion of the Court |\n| Mootness of the superseded 1996 claims | All nine Justices | Opinion of the Court |\n| Mootness of the superseded 1990 prospective claim | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Opinion of the Court; Stone-Zsela agrees in the judgment |"
+    },
+    {
+      "file": "center_for_national_security_studies_v_doj_merits_2004-01-06.md",
+      "date": "2004-01-06",
+      "case": "Center for National Security Studies v. U.S. Department of Justice; judgment below, 331 F.3d 918 (D.C. Cir. 2003).",
+      "authors": [
+        "Stevens"
+      ],
+      "opinion_table": "STEVENS, J., delivered the opinion of the Court, in which STONE-ZSELA, C. J., and O'CONNOR, KENNEDY, SOUTER, GINSBURG, and BREYER, JJ., joined. SCALIA and THOMAS, JJ., joined the independent-access holdings. STONE-ZSELA, C. J., filed a concurring opinion. SCALIA, J., filed an opinion concurring in part and dissenting in part, in which THOMAS, J., joined.\n\n| Writing or portion | Rationale support | Scope |\n|---|---|---|\n| Court opinion, Holdings 1–2 | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg, Breyer | Complete statutory grounds, remaining-exemption standards and remand |\n| Court opinion, Holdings 3–4 | All nine | Both independent-access rulings |\n| Stone-Zsela concurrence | Stone-Zsela | Joins the Court; adds the specified prompt-review and disclosure-scheduling directions |\n| Scalia partial dissent | Scalia, Thomas | Would sustain the statutory withholding on this record; joins both independent-access rulings |"
+    },
+    {
+      "file": "nebraska_v_environmental_protection_agency_merits_2004-01-08.md",
+      "date": "2004-01-08",
+      "case": "Nebraska v. Environmental Protection Agency; D.C. Circuit No. 01-1101; judgment below, 331 F.3d 995.",
+      "authors": [
+        "Scalia"
+      ],
+      "opinion_table": "SCALIA, J., delivered the opinion of the Court, in which STEVENS, O'CONNOR, KENNEDY, SOUTER, THOMAS, GINSBURG, and BREYER, JJ., joined. STONE-ZSELA, C. J., joined Parts I and II and concurred in the judgment on Part III without adding a ground.\n\n| Portion | Direct rationale support | Relationship |\n|---|---|---|\n| I: interstate commercial-water regulation; II: public-operator compliance | All nine Justices | Opinion of the Court |\n| III: preservation of rule-specific objections | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Opinion of the Court; Stone-Zsela agrees in the judgment |"
+    },
+    {
+      "file": "illinois_v_lidster_merits_2004-01-13.md",
+      "date": "2004-01-13",
+      "case": "Illinois v. Lidster; No. 02-1060; 540 U.S. 419.",
+      "authors": [
+        "Breyer"
+      ],
+      "opinion_table": "BREYER, J., delivered the opinion of the Court, in which STONE-ZSELA, C. J., and O'CONNOR, SCALIA, KENNEDY, and THOMAS, JJ., joined. STEVENS, SOUTER, and GINSBURG, JJ., joined the purpose distinction and governing reasonableness standard. STEVENS, J., filed an opinion concurring in part and dissenting in part, in which SOUTER and GINSBURG, JJ., joined.\n\n| Portion | Direct rationale support | Authority |\n|---|---|---|\n| Specific witness purpose and Brown framework | All nine | Opinion of the Court |\n| Queue-inclusive reasonableness application and bounded remand | Stone-Zsela, O'Connor, Scalia, Kennedy, Thomas, Breyer | Opinion of the Court, six |\n| Separate initial-application remand position | Stevens, Souter, Ginsburg | Noncontrolling partial dissent |"
+    },
+    {
+      "file": "sec_v_edwards_merits_2004-01-13.md",
+      "date": "2004-01-13",
+      "case": "SEC v. Edwards; No. 02-1196; 540 U.S. 389.",
+      "authors": [
+        "Scalia"
+      ],
+      "opinion_table": "Scalia delivered the opinion of the Court, in which Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer joined.\n\nThe complete opinion, definition, application and remand have nine direct joins."
+    },
+    {
+      "file": "verizon_communications_v_trinko_merits_2004-01-13.md",
+      "date": "2004-01-13",
+      "case": "Verizon Communications Inc. v. Law Offices of Curtis V. Trinko, LLP; No. 02-682.",
+      "authors": [
+        "Stevens"
+      ],
+      "opinion_table": "Stevens delivered the opinion of the Court. The joins differ by part:\n\n| Portion | Justices joining, including the author | Controlling scope |\n|---|---|---|\n| Part I: independent monopoly maintenance and the conduct remand | Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg, Breyer | Six direct joins |\n| Part II: damages directness and dismissal | Stevens, O'Connor, Scalia, Souter, Thomas | Five direct joins |\n| Part III: distinct prospective injury and equitable remand | Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg, Breyer | Six direct joins |\n| Scalia's partial dissent, joined by O'Connor and Thomas | O'Connor, Scalia, Thomas | Would dismiss the prospective claim for an inadequate section 2 predicate; joins Part II |\n| Ginsburg's partial dissent, joined by Stone-Zsela, Kennedy and Breyer | Stone-Zsela, Kennedy, Ginsburg, Breyer | Would remand the damages inquiry; joins Parts I and III |\n\nSouter joins the complete lead opinion. Each controlling part rests on the stated direct majority."
+    },
+    {
+      "file": "frew_v_hawkins_merits_2004-01-14.md",
+      "date": "2004-01-14",
+      "case": "Frew v. Hawkins; No. 02-628; 540 U.S. 431.",
+      "authors": [
+        "Thomas"
+      ],
+      "opinion_table": "Thomas delivered the opinion of the Court, in which Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer joined.\n\nSTONE-ZSELA, C. J., filed a concurring opinion.\n\nBoth controlling holdings and the complete ordinary remand have nine direct joins. Stone-Zsela joins the Court's opinion in full and adds the implementation directions stated in his concurrence."
+    },
+    {
+      "file": "kontrick_v_ryan_merits_2004-01-14.md",
+      "date": "2004-01-14",
+      "case": "Kontrick v. Ryan; No. 02-819; 540 U.S. 443.",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "opinion_table": "Stone-Zsela delivered the opinion of the Court, in which Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer joined.\n\nThe complete rule, application and affirmance have nine direct joins."
+    },
+    {
+      "file": "rubin_v_santa_monica_merits_2004-01-15.md",
+      "date": "2004-01-15",
+      "case": "Rubin v. City of Santa Monica; judgment below, 308 F.3d 1008.",
+      "authors": [
+        "Souter"
+      ],
+      "opinion_table": "Souter delivered the opinion of the Court, in which Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer joined.\n\nThe complete granted-question rule, application and prospective disposition have nine direct joins."
+    },
+    {
+      "file": "alaska_department_of_environmental_conservation_v_epa_merits_2004-01-21.md",
+      "date": "2004-01-21",
+      "case": "Alaska Department of Environmental Conservation v. EPA; No. 02-658.",
+      "authors": [
+        "Ginsburg"
+      ],
+      "opinion_table": "Ginsburg delivered the opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Souter and Breyer. Kennedy filed a dissenting opinion, joined by Scalia and Thomas.\n\nThe Court's two holdings and remedy are joined by Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer. Scalia, Kennedy and Thomas dissent on statutory authority and would reverse on that ground."
+    },
+    {
+      "file": "freier_v_westinghouse_electric_corp_merits_2004-01-22.md",
+      "date": "2004-01-22",
+      "case": "Freier v. Westinghouse Electric Corp.; Second Circuit Nos. 00-7724(L) and 00-7728(XAP); 303 F.3d 176.",
+      "authors": [
+        "Kennedy"
+      ],
+      "opinion_table": "Kennedy delivered the opinion of the unanimous Court, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer. Both constitutional holdings and the limited remedy have nine direct joins."
+    },
+    {
+      "file": "fellers_v_united_states_merits_2004-01-26.md",
+      "date": "2004-01-26",
+      "case": "Fellers v. United States; No. 02-6320.",
+      "authors": [
+        "Breyer"
+      ],
+      "opinion_table": "Breyer delivered the opinion of the Court, joined in full by Stone-Zsela, Stevens, O'Connor, Kennedy, Souter and Ginsburg. SCALIA and THOMAS, JJ., joined the initial-violation holding and concurred in the judgment. Scalia filed an opinion concurring in part and concurring in the judgment, joined by Thomas.\n\n| Portion or writing | Direct support | Relationship |\n|---|---|---|\n| Initial deliberate-elicitation violation and error in the lower framework | All nine Justices | Opinion of the Court |\n| Causal-independence rule, preponderance standard and conditional remand | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer | Opinion of the Court |\n| Partial concurrence | Scalia and Thomas | Joins the initial-violation ruling; agrees with reversal and remand without the new causal rule |"
+    },
+    {
+      "file": "lamie_v_united_states_trustee_merits_2004-01-26.md",
+      "date": "2004-01-26",
+      "case": "Lamie v. United States Trustee; No. 02-693.",
+      "authors": [
+        "Thomas"
+      ],
+      "opinion_table": "Thomas delivered the opinion of the Court, joined by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer. STEVENS, J., filed an opinion concurring in the judgment, in which SOUTER and BREYER, JJ., joined.\n\n| Writing | Author | Joined by | Relationship and scope |\n|---|---|---|---|\n| Opinion of the Court | Thomas | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer | Full lead opinion: recipient rule, sufficient textual-and-structural explanation and affirmance |\n| Concurrence in the judgment | Stevens | Souter and Breyer | Expressly adopts the recipient rule and affirmance; supplies the additional drafting-error inquiry; Stevens does not formally join the lead |"
+    },
+    {
+      "file": "in_re_roving_interception_merits_2004-01-27.md",
+      "date": "2004-01-27",
+      "case": "In re Application of the United States for an Order Authorizing the Roving Interception of Oral Communications; Ninth Circuit No. 02-15635; 349 F.3d 1132.",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "opinion_table": "Stone-Zsela delivered the opinion of the unanimous Court, joined by Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. The threshold, statutory holdings and complete disposition have nine direct joins."
+    },
+    {
+      "file": "rancho_viejo_llc_v_norton_merits_2004-02-05.md",
+      "date": "2004-02-05",
+      "case": "Rancho Viejo, LLC v. Norton; D.C. Circuit No. 01-5373; judgment below reported at 323 F.3d 1062.",
+      "authors": [
+        "Kennedy"
+      ],
+      "opinion_table": "KENNEDY, J., delivered the opinion of the Court, in which STONE-ZSELA, C. J., and O'CONNOR, SCALIA, THOMAS, GINSBURG, and BREYER, JJ., joined, and in which STEVENS and SOUTER, JJ., joined as to Parts II and III. STEVENS, J., filed an opinion concurring in part and concurring in the judgment, in which SOUTER, J., joined.\n\n| Writing | Author | Joined by | Relationship to judgment | Scope joined |\n|---|---|---|---|---|\n| Opinion of the Court | Kennedy | Stone-Zsela, O'Connor, Scalia, Thomas, Ginsburg, Breyer; Stevens and Souter as to Parts II and III | Affirms | Part I: enacted taking class and rejection of the commercial-project ground (seven Justices); Part II: necessary inclusion under Home Builders sustains the taking prohibition as applied to the arroyo toad (nine); Part III: affirmance, with the statutory questions left to their own rules (nine) |\n| Concurrence in part and in the judgment | Stevens | Souter | Joins Parts II and III and the judgment | Additional economic-application ground for affirmance and proposed reconsideration of Home Builders's contrary class ruling at that scope; does not join Part I |"
+    },
+    {
+      "file": "united_states_v_carnes_merits_2004-02-09.md",
+      "date": "2004-02-09",
+      "case": "United States v. Carnes; Sixth Circuit No. 00-2103; 309 F.3d 950.",
+      "authors": [
+        "O'Connor"
+      ],
+      "opinion_table": "O'Connor delivered the opinion of the unanimous Court, joined by Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. The instrumentality holding, application and limited disposition have nine direct joins."
+    },
+    {
+      "file": "leebaert_v_harrington_merits_2004-02-17.md",
+      "date": "2004-02-17",
+      "case": "Leebaert v. Harrington; judgment below, 332 F.3d 134 (2d Cir. 2003).",
+      "authors": [
+        "Ginsburg"
+      ],
+      "opinion_table": "Ginsburg delivered the opinion of the unanimous Court, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer. Both constitutional grounds, their operative limits and the full disposition have nine direct joins."
+    },
+    {
+      "file": "united_states_v_mcfarland_merits_2004-02-19.md",
+      "date": "2004-02-19",
+      "case": "United States v. McFarland; Fifth Circuit No. 00-10569; judgment below, 311 F.3d 376.",
+      "authors": [
+        "Kennedy"
+      ],
+      "opinion_table": "Kennedy delivered the opinion of the unanimous Court, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer. The complete commercial-connection rule, application and derivative disposition have nine direct joins."
+    },
+    {
+      "file": "illinois_v_fisher_merits_2004-02-23.md",
+      "date": "2004-02-23",
+      "case": "Illinois v. Fisher; No. 03-374.",
+      "authors": [],
+      "opinion_table": "The Court issues a per curiam opinion joined by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. Stevens files an opinion concurring in the judgment. The judgment is unanimous; the controlling rationale has eight joins."
+    },
+    {
+      "file": "banks_v_dretke_merits_2004-02-24.md",
+      "date": "2004-02-24",
+      "case": "Banks v. Dretke; No. 02-8286.",
+      "authors": [
+        "Souter"
+      ],
+      "opinion_table": "Souter delivered the opinion of the Court. Stone-Zsela, Stevens, O'Connor, Kennedy, Ginsburg and Breyer join in full. Scalia and Thomas join the factual-development and Cook certificate portions. Thomas files an opinion concurring in part and dissenting in part, joined by Scalia.\n\n| Portion | Direct joins, including author | Authority |\n|---|---|---|\n| Applicable factual-development rules and consideration of Farr evidence | All nine | Opinion of the Court |\n| Farr materiality and conditional sentence writ | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg, Breyer | Opinion of the Court |\n| Cook two-prong certificate and appellate proceedings | All nine | Opinion of the Court |\n| Rejection of Farr materiality and alternative assistance prejudice | Thomas, Scalia | Partial dissent |"
+    },
+    {
+      "file": "doe_v_chao_merits_2004-02-24.md",
+      "date": "2004-02-24",
+      "case": "Doe v. Chao; No. 02-1377.",
+      "authors": [
+        "Scalia"
+      ],
+      "opinion_table": "Scalia delivered the opinion of the Court, joined by Stone-Zsela, O'Connor, Kennedy, Souter and Thomas. Ginsburg files a dissenting opinion, joined by Stevens and Breyer. The six-Justice common rationale rests on the enacted remedy's text and structure."
+    },
+    {
+      "file": "general_dynamics_land_systems_v_cline_merits_2004-02-24.md",
+      "date": "2004-02-24",
+      "case": "General Dynamics Land Systems, Inc. v. Cline; No. 02-1080.",
+      "authors": [
+        "Breyer"
+      ],
+      "opinion_table": "Breyer delivered the opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Souter and Ginsburg. Thomas files a dissent, joined by Kennedy. Scalia files a separate dissent on the agency-construction ground."
+    },
+    {
+      "file": "groh_v_ramirez_merits_2004-02-24.md",
+      "date": "2004-02-24",
+      "case": "Groh v. Ramirez; No. 02-811.",
+      "authors": [
+        "Stevens"
+      ],
+      "opinion_table": "Stevens delivered the opinion of the Court, joined in full by Stone-Zsela, O'Connor, Souter, Ginsburg and Breyer. Kennedy joins the particularity holding and files an opinion concurring in part and dissenting in part. Thomas files a dissent, joined by Scalia.\n\n| Portion | Direct support, including author | Relationship |\n|---|---|---|\n| Search under the wholly deficient warrant violates the Fourth Amendment | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg, Breyer | Seven-Justice Court holding |\n| Qualified immunity denied; judgment affirmed | Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg, Breyer | Six-Justice Court holding and judgment |\n| Immunity despite violation | Kennedy | Partial dissent |\n| Search-reasonableness alternative and immunity | Thomas, Scalia | Dissent |"
+    },
+    {
+      "file": "olympic_airways_v_husain_merits_2004-02-24.md",
+      "date": "2004-02-24",
+      "case": "Olympic Airways v. Husain; No. 02-1348.",
+      "authors": [
+        "Thomas"
+      ],
+      "opinion_table": "Thomas delivered the opinion of the Court, joined by Stone-Zsela, Stevens, Kennedy, Souter and Ginsburg. Scalia files a dissent, joined by O'Connor. Breyer did not participate."
+    },
+    {
+      "file": "Locke_v_Davey_merits_2004-02-25.md",
+      "date": "2004-02-25",
+      "case": "Locke v. Davey, No. 02-1315",
+      "authors": [
+        "Souter"
+      ],
+      "opinion_table": "Justice Souter delivered the Opinion of the Court, joined by Stevens, O'Connor, Ginsburg, Breyer.\n\n| Writing | Author | Joins | Relation to judgment and law |\n|---|---|---|---|\n| Opinion of the Court | Justice Souter | Stevens, O'Connor, Ginsburg, Breyer | Whole controlling permission rationale and complete restoration of State judgment |\n| Concurrence in part and dissent in part | Chief Justice Stone-Zsela | None | Supports devotional-formation reversal on actual-function ground; would remand a preserved genuinely separated secular component |\n| Dissent | Scalia | Kennedy, Thomas | Would affirm invalidation of the exclusion and require equal scholarship administration |"
+    },
+    {
+      "file": "Muhammad_v_Close_merits_2004-02-25.md",
+      "date": "2004-02-25",
+      "case": "Muhammad v. Close, No. 02-9065",
+      "authors": [],
+      "opinion_table": "The Court delivered a per curiam opinion, joined in full by Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer."
+    },
+    {
+      "file": "United_States_Postal_Service_v_Flamingo_Industries_merits_2004-02-25.md",
+      "date": "2004-02-25",
+      "case": "United States Postal Service v. Flamingo Industries (USA) Ltd., No. 02-1290",
+      "authors": [
+        "Thomas"
+      ],
+      "opinion_table": "Justice Thomas delivered the unanimous Opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg, Breyer."
+    },
+    {
+      "file": "Freedom_From_Religion_Foundation_v_McCallum_merits_2004-02-26.md",
+      "date": "2004-02-26",
+      "case": "Freedom From Religion Foundation, Inc. v. McCallum, review of Seventh Circuit No. 02-3102",
+      "authors": [
+        "Breyer"
+      ],
+      "opinion_table": "Justice Breyer delivered the unanimous Opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg."
+    },
+    {
+      "file": "Baldwin_v_Reese_merits_2004-03-02.md",
+      "date": "2004-03-02",
+      "case": "Baldwin v. Reese, No. 02-964",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "opinion_table": "Chief Justice Stone-Zsela delivered the Opinion of the Court, joined by O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. Justice Stevens filed a dissent on fair notice and the Court's discretionary refusal to decide the late equivalence contention."
+    },
+    {
+      "file": "Raymond_B_Yates_Plan_v_Hendon_merits_2004-03-02.md",
+      "date": "2004-03-02",
+      "case": "Raymond B. Yates, M.D., P.C. Profit Sharing Plan v. Hendon, No. 02-458",
+      "authors": [
+        "Ginsburg"
+      ],
+      "opinion_table": "Justice Ginsburg delivered the Opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Breyer.\n\n| Writing | Author | Joins | Relationship |\n|---|---|---|---|\n| Opinion of the Court | Justice Ginsburg | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Breyer | Seven full statutory-and-regulatory rationale joins |\n| Concurrence in the judgment | Scalia | None | Directly adopts definitive coverage rule through authoritative agency interpretation |\n| Concurrence in the judgment | Thomas | None | Rejects categorical owner exclusion but would require common-law employee classification on remand |"
+    },
+    {
+      "file": "Crawford_v_Washington_merits_2004-03-08.md",
+      "date": "2004-03-08",
+      "case": "Crawford v. Washington, No. 02-9410",
+      "authors": [
+        "Scalia"
+      ],
+      "opinion_table": "Justice Scalia delivered the Opinion of the Court, joined by Stone-Zsela, Stevens, Kennedy, Souter, Thomas, Ginsburg, Breyer.\n\n| Writing | Author | Joins | Relationship |\n|---|---|---|---|\n| Opinion of the Court | Justice Scalia | Stone-Zsela, Stevens, Kennedy, Souter, Thomas, Ginsburg, Breyer | Eight direct joins to categorical confrontation rule, application and remedy |\n| Concurrence in the judgment | O'Connor | None | Same constitutional error and remedy under the received intrinsic-reliability rule |"
+    },
+    {
+      "file": "Iowa_v_Tovar_merits_2004-03-08.md",
+      "date": "2004-03-08",
+      "case": "Iowa v. Tovar, No. 02-1541",
+      "authors": [
+        "O'Connor"
+      ],
+      "opinion_table": "Justice O'Connor delivered the unanimous Opinion of the Court, joined by Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer."
+    },
+    {
+      "file": "Karaha_Bodas_v_Pertamina_merits_2004-03-09.md",
+      "date": "2004-03-09",
+      "case": "Karaha Bodas Co., LLC v. Perusahaan Pertambangan Minyak Dan Gas Bumi Negara",
+      "authors": [
+        "Kennedy"
+      ],
+      "opinion_table": "Kennedy, J., delivered the opinion of the Court, in which Stone-Zsela, C. J., and Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer, JJ., joined."
+    },
+    {
+      "file": "lomont_v_oneill_merits_2004-03-11.md",
+      "date": "2004-03-11",
+      "case": "Lomont v. O’Neill; judgment below reported at 285 F.3d 9 (D.C. Circuit).",
+      "authors": [
+        "Scalia"
+      ],
+      "opinion_table": "SCALIA, J., delivered the opinion of the Court, in which STONE-ZSELA, C. J., and STEVENS, O'CONNOR, KENNEDY, SOUTER, THOMAS, GINSBURG, and BREYER, JJ., joined.\n\n| Writing | Author | Joined by | Relationship to judgment | Scope joined |\n|---|---|---|---|---|\n| Opinion of the Court | Scalia | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg, Breyer | Affirms | Both holdings and their explanations: the officials' own concrete injury without a categorical state-authorization barrier, unconditional-refusal merits ground, and complete judgment and remedy |"
+    },
+    {
+      "file": "Batzel_v_Smith_merits_2004-03-18.md",
+      "date": "2004-03-18",
+      "case": "Batzel v. Smith",
+      "authors": [
+        "Stevens"
+      ],
+      "opinion_table": "Stevens, J., delivered the opinion of the Court, in which Stone-Zsela, C. J., and O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer, JJ., joined."
+    },
+    {
+      "file": "South_Florida_Water_Management_District_v_Miccosukee_merits_2004-03-23.md",
+      "date": "2004-03-23",
+      "case": "South Florida Water Management District v. Miccosukee Tribe of Indians; No. 02-626",
+      "authors": [
+        "O'Connor"
+      ],
+      "opinion_table": "O'Connor, J., delivered the opinion of the Court, in which Stone-Zsela, C. J., and Stevens, Kennedy, Souter, Thomas, Ginsburg and Breyer, JJ., joined, and in which Scalia, J., joined as to Parts I and II. Scalia, J., filed an opinion concurring in part and concurring in the judgment.\n\n| Writing | Author | Joined by | Relationship to judgment | Scope |\n|---|---|---|---|---|\n| Opinion of the Court, Parts I–II | O'Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Supports vacatur and bounded factual remand | Conveyance rule, distinct addition predicate, genuine factual dispute and remedy |\n| Opinion of the Court, Part III | O'Connor | Stone-Zsela, Stevens, Kennedy, Souter, Thomas, Ginsburg, Breyer | Additional remand permission | Proper presentation of the broader statutory theory |\n| Concurrence in part and in the judgment | Scalia | — | Supports the same vacatur and bounded factual remand | Withholds assent from the affirmative broader-theory invitation |"
+    },
+    {
+      "file": "United_States_v_Galletti_merits_2004-03-23.md",
+      "date": "2004-03-23",
+      "case": "United States v. Galletti; No. 02-1389",
+      "authors": [
+        "Breyer"
+      ],
+      "opinion_table": "Breyer, J., delivered the opinion of the Court, in which Stone-Zsela, C. J., and Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg, JJ., joined."
+    },
+    {
+      "file": "Nixon_v_Missouri_Municipal_League_merits_2004-03-24.md",
+      "date": "2004-03-24",
+      "case": "Nixon v. Missouri Municipal League; Nos. 02-1238, 02-1386 and 02-1405",
+      "authors": [
+        "Scalia"
+      ],
+      "opinion_table": "Scalia, J., delivered the opinion of the Court, in which Stone-Zsela, C. J., and O'Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer, JJ., joined. Stevens, J., filed a dissenting opinion."
+    },
+    {
+      "file": "environmental_defense_center_v_epa_merits_2004-03-25.md",
+      "date": "2004-03-25",
+      "case": "Environmental Defense Center, Inc. v. United States Environmental Protection Agency; judgment below reported at 344 F.3d 832 (Ninth Circuit).",
+      "authors": [
+        "Souter"
+      ],
+      "opinion_table": "SOUTER, J., delivered the opinion of the Court, in which STONE-ZSELA, C. J., and STEVENS, O'CONNOR, SCALIA, KENNEDY, THOMAS, GINSBURG, and BREYER, JJ., joined.\n\n| Writing | Author | Joined by | Relationship to judgment | Scope joined |\n|---|---|---|---|---|\n| Opinion of the Court | Souter | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | Affirms both constitutional dispositions | Both complete holdings, official-injury threshold, regulatory qualifications, actual permit alternative, operational speech justification and burden limits, and preserved administrative mandate |"
+    },
+    {
+      "file": "California_ex_rel_Lockyer_v_FERC_merits_2004-03-29.md",
+      "date": "2004-03-29",
+      "case": "California ex rel. Lockyer v. FERC; 329 F.3d 700; FERC proceedings EC01-49-002 and EC01-41-002",
+      "authors": [
+        "Ginsburg"
+      ],
+      "opinion_table": "Ginsburg, J., delivered the opinion of the Court, in which Stone-Zsela, C. J., and Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Breyer, JJ., joined."
+    },
+    {
+      "file": "National_Archives_and_Records_Administration_v_Favish_merits_2004-03-30.md",
+      "date": "2004-03-30",
+      "case": "National Archives and Records Administration v. Favish; No. 02-954",
+      "authors": [
+        "Stevens"
+      ],
+      "opinion_table": "Stevens, J., delivered the opinion of the Court, in which O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer, JJ., joined, and in which Stone-Zsela, C. J., joined as to Parts I and II. Stone-Zsela, C. J., concurred in the judgment as to Part III.\n\n| Opinion portion | Author | Rationale joins | Judgment relationship |\n|---|---|---|---|\n| Parts I–II: family privacy, public interest and four-image balance | Stevens | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | All nine support reversal and summary judgment permitting withholding of the protected depictions |\n| Part III: mandatory segregation | Stevens | O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | All nine support this remedial component; Stone-Zsela agrees in judgment only |"
+    },
+    {
+      "file": "United_States_v_Flores_Montano_merits_2004-03-30.md",
+      "date": "2004-03-30",
+      "case": "United States v. Flores-Montano; No. 02-1794",
+      "authors": [
+        "Souter"
+      ],
+      "opinion_table": "Souter, J., delivered the opinion of the Court, in which Stone-Zsela, C. J., and Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer, JJ., joined."
+    },
+    {
+      "file": "bedroc_limited_v_united_states_merits_2004-03-31.md",
+      "date": "2004-03-31",
+      "case": "BedRoc Limited, LLC v. United States; No. 02-1593; 541 U.S. 176.",
+      "authors": [
+        "Kennedy"
+      ],
+      "opinion_table": "Kennedy delivered the opinion announcing the judgment, joined by the other members of the four-Justice plurality identified below. Thomas filed an opinion concurring in the judgment, joined by Breyer. Stevens filed a dissent, joined by Souter and Ginsburg; Ginsburg also filed a separate dissent.\n\n| Writing | Author | Joined by | Relationship to judgment | Scope joined |\n|---|---|---|---|---|\n| Opinion announcing the judgment | Kennedy | Other members of Stone-Zsela, O'Connor, Scalia and Kennedy | Supports reversal | Complete Pittman-specific textual and historical-category rationale |\n| Concurrence in the judgment | Thomas | Breyer | Supports reversal on a distinct ground | Ordinary-material exclusion; refusal to extend Western Nuclear while preserving its settled statutory-property result |\n| Dissent | Stevens | Souter and Ginsburg | Would affirm | Related statutory mineral category and continuity of reserved title |\n| Additional dissent | Ginsburg | No other Justice | Would affirm; also joins Stevens | Genuine statutory uncertainty and the sovereign-grant canon |\n\nNo single explanatory rationale commands a majority."
+    },
+    {
+      "file": "arakaki_v_hawaii_merits_2004-04-08.md",
+      "date": "2004-04-08",
+      "case": "Arakaki v. Hawaii; review of 314 F.3d 1091 (Ninth Circuit, December 31, 2002); no Supreme Court docket supplied.",
+      "authors": [
+        "Ginsburg"
+      ],
+      "opinion_table": "Ginsburg delivered the opinion of the Court, joined in full by the other seven Associate Justices. Stone-Zsela joined the appointment-standing portion and filed an opinion concurring in the judgment on elected eligibility.\n\n| Writing | Author | Joined by | Relationship to judgment | Scope joined |\n|---|---|---|---|---|\n| Opinion of the Court | Ginsburg | Other members of Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; Stone-Zsela for appointment standing | Affirms both components | Eight-Justice election rationale; unanimous appointment-standing rationale |\n| Concurrence in the election judgment | Stone-Zsela | No other Justice | Agrees with election relief | Categorical public-candidacy equal-protection rule; joins the Court's appointment ruling |"
+    },
+    {
+      "file": "aclu_of_new_jersey_v_county_of_hudson_merits_2004-04-13.md",
+      "date": "2004-04-13",
+      "case": "ACLU of New Jersey v. County of Hudson; Appellate Division No. A-4100-01; 352 N.J. Super. 44, 799 A.2d 629.",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "opinion_table": "STONE-ZSELA, C. J., delivered the opinion of the Court, in which STEVENS, O'CONNOR, SCALIA, KENNEDY, SOUTER, THOMAS, GINSBURG, and BREYER, JJ., joined.\n\n| Writing | Author | Joined by | Relationship to judgment | Scope joined |\n|---|---|---|---|---|\n| Opinion of the Court | Stone-Zsela | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Affirms | All four holdings, both separately justified interim APA exceptions, their explanations and operative qualifications, and the complete judgment and remedy |"
+    },
+    {
+      "file": "united_states_v_lara_merits_2004-04-19.md",
+      "date": "2004-04-19",
+      "case": "United States v. Lara; No. 03-107; 541 U.S. 193.",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "opinion_table": "Stone-Zsela delivered the opinion of the Court, joined by the other members of the five-Justice coalition below. Kennedy and Thomas each filed an opinion concurring in the judgment. Souter filed a dissent, joined by Scalia.\n\n| Writing | Author | Joined by | Relationship to judgment | Scope joined |\n|---|---|---|---|---|\n| Opinion of the Court | Stone-Zsela | Other members of Stone-Zsela, Stevens, O'Connor, Ginsburg and Breyer | Supports reversal | Constitutional restoration of this retained authority and its double-jeopardy consequence |\n| Concurrence in the judgment | Kennedy | No other Justice | Supports reversal | Statutory nondelegation ground; withholds the affirmative constitutional-restoration holding |\n| Concurrence in the judgment | Thomas | No other Justice | Supports reversal | Statutory recognition under inherited federal-common-law premises; withholds the Court's constitutional-power account |\n| Dissent | Souter | Scalia | Would affirm | Nonmember prosecution power derives from federal delegation |"
+    },
+    {
+      "file": "ammex_v_united_states_merits_2004-04-20.md",
+      "date": "2004-04-20",
+      "case": "Ammex, Inc. v. United States; review of 334 F.3d 1052 (Federal Circuit, July 1, 2003), lower-court No. 02-1498.",
+      "authors": [
+        "Kennedy"
+      ],
+      "opinion_table": "Kennedy delivered the unanimous opinion of the Court. No separate opinion was filed."
+    },
+    {
+      "file": "household_credit_services_v_pfennig_merits_2004-04-21.md",
+      "date": "2004-04-21",
+      "case": "Household Credit Services, Inc. v. Pfennig; No. 02-857; 541 U.S. 232.",
+      "authors": [
+        "Thomas"
+      ],
+      "opinion_table": "Thomas delivered the unanimous opinion of the Court. No separate opinion was filed."
+    },
+    {
+      "file": "engine_manufacturers_association_v_south_coast_air_quality_management_district_merits_2004-04-28.md",
+      "date": "2004-04-28",
+      "case": "Engine Manufacturers Association v. South Coast Air Quality Management District; No. 02-1343; 541 U.S. 246.",
+      "authors": [
+        "Breyer"
+      ],
+      "opinion_table": "Breyer delivered the opinion of the Court, joined by the other members of the eight-Justice coalition below. Souter filed an opinion concurring in the judgment.\n\n| Writing | Author | Joined by | Relationship to judgment | Scope joined |\n|---|---|---|---|---|\n| Opinion of the Court | Breyer | Other members of Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer | Supports vacatur and remand | Purchaser-directed enforcement of covered emissions standards; commercial availability alone supplies no categorical exemption; rule-specific application and remedy |\n| Concurrence in the judgment | Souter | No other Justice | Supports vacatur on a narrower ground | Production-focused construction and examination of the full prospective rule set's actual availability qualifications |"
+    },
+    {
+      "file": "Vieth_v_Jubelirer_merits_2004-04-28.md",
+      "date": "2004-04-28",
+      "case": "Vieth v. Jubelirer; No. 02-1580; 241 F. Supp. 2d 478",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "opinion_table": "Stone-Zsela, C. J., delivered the opinion of the Court.\n\n| Writing or portion | Author | Joins | Controlling status |\n|---|---|---|---|\n| Parts I–III and V: justiciability, complete four-element rule, comparison, proof, defense and remand | Stone-Zsela | Stevens, Souter, Ginsburg, Breyer | Five-Justice majority on every stated proposition |\n| Part IV: Article I seat-ratio theory | Stone-Zsela | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Unanimous |\n| Additional First Amendment ground, concurring | Stone-Zsela | None | Separate rationale |\n| Categorical nonjusticiability, concurring in part and dissenting in part | O'Connor | Scalia, Thomas | Three dissenters on the partisan component; join Part IV |\n| Present insufficiency without categorical foreclosure, concurring in part and dissenting in part | Kennedy | None | Dissent on the partisan component; joins Part IV |"
+    },
+    {
+      "file": "Martinez_v_Bush_merits_2004-04-29.md",
+      "date": "2004-04-29",
+      "case": "Martinez v. Bush; lower Nos. 02-20244-CIV-JORDAN and 02-10028-CIV-JORDAN",
+      "authors": [
+        "Souter"
+      ],
+      "opinion_table": "SOUTER, J., delivered the opinion of the Court. STONE-ZSELA, C. J., filed an opinion concurring in part and dissenting in part. O'CONNOR, J., filed an opinion concurring in part and dissenting in part, in which SCALIA and THOMAS, JJ., joined. KENNEDY, J., filed an opinion concurring in part and dissenting in part. THOMAS, J., filed an opinion concurring in the statutory judgment, in which SCALIA, J., joined.\n\n| Writing or portion | Author | Joins | Relationship and scope |\n|---|---|---|---|\n| Part I: intentional racial process, plans and § 601 | Souter | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | Opinion for the unanimous Court |\n| Parts II–IV: Section 2 rule and district-specific application | Souter | Stone-Zsela, Stevens, O'Connor, Kennedy, Ginsburg, Breyer | Seven-Justice opinion; Scalia and Thomas concur in the judgment |\n| Parts V–VI: complete Vieth rule, congressional and House application | Souter | Stone-Zsela, Stevens, Ginsburg, Breyer | Five-Justice opinion and remand; O'Connor, Scalia, Kennedy and Thomas dissent |\n| Part VII: Senate partisan proof failure | Souter | Stevens, Kennedy, Ginsburg, Breyer | Five-Justice opinion; O'Connor, Scalia and Thomas join the judgment; Stone-Zsela dissents |\n| Part VIII: independent Article I and delegated-power theories | Souter | Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | Eight-Justice opinion; Stone-Zsela joins the judgment |\n| Broader partisan remand; concurring in part and dissenting in part | Stone-Zsela | — | Joins Parts I–VI and the Part VIII judgment; would also vacate the Senate partisan judgment |\n| Categorical partisan nonjusticiability; concurring in part and dissenting in part | O'Connor | Scalia, Thomas | Would affirm the congressional and House partisan judgments; agrees in the Senate judgment at the separate scope stated |\n| Present partisan insufficiency without categorical foreclosure; concurring in part and dissenting in part | Kennedy | — | Would affirm the congressional and House partisan judgments; joins Part VII |\n| Section 2 statutory noncoverage; concurring in the statutory judgment | Thomas | Scalia | Affirms denial of statutory relief on a distinct ground |"
+    },
+    {
+      "file": "dretke_v_haley_merits_2004-05-03.md",
+      "date": "2004-05-03",
+      "case": "Dretke v. Haley, No. 02-1824; 541 U.S. 386",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "opinion_table": "Stone-Zsela delivered the opinion of the Court, with different joins in Parts I and II.\n\n| Writing or portion | Author | Joins | Relationship to the judgment |\n|---|---|---|---|\n| Part I: recidivist-eligibility gateway and Haley's satisfaction of it | Stone-Zsela | Stevens, Kennedy, Souter, Ginsburg | Five-Justice controlling gateway ruling |\n| Part II: independent constitutional adjudication and remand | Stone-Zsela | O'Connor, Scalia, Thomas, Breyer | Five-Justice controlling remand ground and remedy |\n| Concurrence in part and dissent in part | O'Connor | Scalia, Thomas, Breyer | Joins Part II; would defer the new gateway question and adjudicate assistance first |\n| Concurrence in part and dissent in part | Stevens | Kennedy, Souter, Ginsburg | Joins Part I; would affirm the conditional sentence writ under Thompson |\n\nThe five direct joins in each part establish its stated rule. The distinct assistance-first preference in the separate opinion supplies no broader sequencing rule."
+    },
+    {
+      "file": "johnson_v_california_jurisdictional-dismissal_2004-05-03.md",
+      "date": "2004-05-03",
+      "case": "Johnson v. California, No. 03-6539; 541 U.S. 428",
+      "authors": [],
+      "opinion_table": "Per curiam opinion of the Court. All nine participating Justices join in full. No separate writing is published."
+    },
+    {
+      "file": "jones_v_rr_donnelley_sons_merits_2004-05-03.md",
+      "date": "2004-05-03",
+      "case": "Jones v. R. R. Donnelley & Sons Co., No. 02-1205; 541 U.S. 369",
+      "authors": [
+        "Stevens"
+      ],
+      "opinion_table": "Stevens delivered the opinion of the Court, joined in full by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. No separate writing is published."
+    },
+    {
+      "file": "middleton_v_mcneil_merits_2004-05-03.md",
+      "date": "2004-05-03",
+      "case": "Middleton v. McNeil, No. 03-1028; 541 U.S. 433",
+      "authors": [],
+      "opinion_table": "Per curiam opinion of the Court. All nine participating Justices join the complete opinion. No separate writing is published."
+    },
+    {
+      "file": "scarborough_v_principi_merits_2004-05-03.md",
+      "date": "2004-05-03",
+      "case": "Scarborough v. Principi, No. 02-1657; 541 U.S. 401",
+      "authors": [
+        "Ginsburg"
+      ],
+      "opinion_table": "Ginsburg delivered the opinion of the Court, joined in full by Stone-Zsela, Stevens, O'Connor, Kennedy, Souter and Breyer. Thomas dissented, joined by Scalia."
+    },
+    {
+      "file": "nippon_steel_v_united_states_merits_2004-05-10.md",
+      "date": "2004-05-10",
+      "case": "Nippon Steel Corp. v. United States; review of 337 F.3d 1373",
+      "authors": [
+        "Scalia"
+      ],
+      "opinion_table": "Scalia delivered the opinion of the Court, joined in full by Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer. No separate writing is published."
+    },
+    {
+      "file": "Lipscomb_v_Federal_Labor_Relations_Authority_merits_2004-05-13.md",
+      "date": "2004-05-13",
+      "case": "Lipscomb v. Federal Labor Relations Authority; 333 F.3d 611 (5th Cir. 2003); no separate Supreme Court docket supplied",
+      "authors": [
+        "O'Connor"
+      ],
+      "opinion_table": "O'Connor delivered the opinion of the unanimous Court, joined by Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer."
+    },
+    {
+      "file": "Grupo_Dataflux_v_Atlas_Global_Group_merits_2004-05-17.md",
+      "date": "2004-05-17",
+      "case": "Grupo Dataflux v. Atlas Global Group, L.P.; No. 02-1689",
+      "authors": [
+        "Scalia"
+      ],
+      "opinion_table": "Scalia delivered the opinion of the Court, joined by Stone-Zsela, O'Connor, Kennedy and Thomas. Ginsburg filed a dissenting opinion, joined by Stevens, Souter and Breyer."
+    },
+    {
+      "file": "Sabri_v_United_States_merits_2004-05-17.md",
+      "date": "2004-05-17",
+      "case": "Sabri v. United States; No. 03-44",
+      "authors": [
+        "Kennedy"
+      ],
+      "opinion_table": "Kennedy delivered the opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Ginsburg and Breyer. Thomas filed an opinion concurring in the judgment.\n\n| Writing | Author | Joined by | Relationship to judgment | Scope joined |\n|---|---|---|---|---|\n| Opinion of the Court | Kennedy | Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Ginsburg and Breyer | Affirmance | Bounded Spending and Necessary and Proper ground; no dollar-tracing requirement; statutory trial conditions |\n| Concurrence in the judgment | Thomas | — | Affirmance on a distinct ground | The pleaded direct program relationship is plainly adapted to federal protection and defeats this facial objection |"
+    },
+    {
+      "file": "Tennessee_Student_Assistance_Corporation_v_Hood_merits_2004-05-17.md",
+      "date": "2004-05-17",
+      "case": "Tennessee Student Assistance Corporation v. Hood; No. 02-1606",
+      "authors": [
+        "Souter"
+      ],
+      "opinion_table": "Souter delivered the opinion of the Court, joined in full by Stone-Zsela, Stevens, Ginsburg and Breyer and as to Parts I and III by O'Connor and Kennedy. O'Connor filed an opinion concurring in part and in the judgment, joined by Kennedy. Thomas filed a dissenting opinion, joined by Scalia.\n\n| Writing | Author | Joined by | Relationship to judgment | Scope joined |\n|---|---|---|---|---|\n| Court opinion, Parts I and III | Souter | Stone-Zsela, Stevens, O'Connor, Kennedy, Ginsburg and Breyer | Affirmance and hardship adjudication | Discharge jurisdiction; actual statutory conditions and remand |\n| Court opinion, Part II | Souter | Stone-Zsela, Stevens, Ginsburg and Breyer | Independently sufficient ground for affirmance | Express authorization under the Article I enforcement rule |\n| Concurrence in part and in the judgment | O'Connor | Kennedy | Affirmance | Joins Parts I and III; withholds Part II's Article I ground |\n| Dissent | Thomas | Scalia | Reverse and dismiss the adversary action against TSAC | Compulsory private process; express reconsideration of contrary Article I precedent |"
+    },
+    {
+      "file": "Tennessee_v_Lane_merits_2004-05-17.md",
+      "date": "2004-05-17",
+      "case": "Tennessee v. Lane; No. 02-1667",
+      "authors": [
+        "Stevens"
+      ],
+      "opinion_table": "Stevens delivered the opinion of the Court, joined by Stone-Zsela, O'Connor, Kennedy, Souter, Ginsburg and Breyer. Stone-Zsela filed a concurring opinion. Thomas filed a dissenting opinion, joined by Scalia."
+    },
+    {
+      "file": "Till_v_SCS_Credit_Corporation_merits_2004-05-17.md",
+      "date": "2004-05-17",
+      "case": "Till v. SCS Credit Corp.; No. 02-1016",
+      "authors": [
+        "Breyer"
+      ],
+      "opinion_table": "Breyer delivered the opinion of the Court, joined by Stone-Zsela, Stevens, Souter and Ginsburg. Thomas filed an opinion concurring in the judgment. Scalia filed a dissenting opinion, joined by O'Connor and Kennedy.\n\n| Writing | Author | Joined by | Relationship to judgment | Scope joined |\n|---|---|---|---|---|\n| Opinion of the Court | Breyer | Stone-Zsela, Stevens, Souter and Ginsburg | Reverse and remand | Prime plus supported risk; creditor's preponderance burden on a demanded higher adjustment; remaining confirmation duties |\n| Concurrence in the judgment | Thomas | — | Reverse on a distinct ground | Time value for deferred cash; 9.5 percent sufficient for that component; other confirmation conditions preserved |\n| Dissent | Scalia | O'Connor and Kennedy | Affirm the method below | Rebuttable contract/comparable-loan method and evidentiary application |"
+    },
+    {
+      "file": "benjamin_v_fraser_merits_2004-05-20.md",
+      "date": "2004-05-20",
+      "case": "Benjamin v. Fraser; judgment below 343 F.3d 35",
+      "authors": [
+        "Souter"
+      ],
+      "opinion_table": "Souter delivered the opinion of the Court. The part-specific joins are:\n\n| Part or writing | Author | Joining Justices besides the author | Relationship |\n|---|---|---|---|\n| Lead Part I: systemic pretrial conditions and ordinary proof | Souter | Stone-Zsela, Stevens, O'Connor, Kennedy, Ginsburg, Breyer | Seven-Justice controlling rationale; Scalia and Thomas concur in the judgment on actual notice and knowing unreasonable nonresponse |\n| Lead Part II: actual OCC classification and independent judicial assessment | Souter | Stone-Zsela, Stevens, Kennedy, Ginsburg, Breyer | Six-Justice controlling rationale |\n| Lead Part III: continuous pre-enactment appointment | Souter | Stevens, Kennedy, Ginsburg, Breyer | Five-Justice independently sufficient ground for OCC affirmance; Stone-Zsela does not join this part |\n| Lead Part IV.A: current findings and preserved remedial structure | Souter | All eight other Justices | All nine join the requirements for substantive relief; O'Connor, Scalia and Thomas retain their disagreement with OCC continuation |\n| Lead Part IV.B: effective alternatives and implementation | Souter | Stone-Zsela, Stevens, O'Connor, Kennedy, Ginsburg, Breyer | Seven directly join the bounded implementing directions; O'Connor requires a lawful reporting arrangement consistent with her OCC dissent |\n| Concurrence in part and dissent in part | O'Connor | — | Joins Parts I, IV.A and IV.B; would vacate OCC continuation for future statutory conformity |\n| Concurrence in the constitutional judgment and dissent in part | Scalia | Thomas | Actual-awareness ground for constitutional relief; would vacate OCC continuation; both join Part IV.A at its stated scope |"
+    },
+    {
+      "file": "nelson_v_campbell_merits_2004-05-24.md",
+      "date": "2004-05-24",
+      "case": "Nelson v. Campbell; No. 03-6821; 541 U.S. 637",
+      "authors": [
+        "O'Connor"
+      ],
+      "opinion_table": "O'Connor delivered the opinion of the Court, in which all eight other Justices joined."
+    },
+    {
+      "file": "thornton_v_united_states_merits_2004-05-24.md",
+      "date": "2004-05-24",
+      "case": "Thornton v. United States; No. 03-5165; 541 U.S. 615",
+      "authors": [
+        "Thomas"
+      ],
+      "opinion_table": "Thomas delivered the opinion announcing the judgment, an opinion of the Court in Part I, and a plurality opinion in Part II.\n\n| Part or writing | Author | Joins besides author | Scope |\n|---|---|---|---|\n| Lead Part I | Thomas | Stone-Zsela, O'Connor, Scalia, Kennedy, Ginsburg, Breyer | Seven directly reject first contact outside the car as itself a constitutional bar; Stone-Zsela's join is confined to that proposition |\n| Lead Part II | Thomas | O'Connor, Kennedy, Breyer | Four support the categorical recent-occupant rule and its application after securing |\n| Concurrence in the judgment and in Part I | Scalia | Ginsburg | The offense-evidence rationale supplies the controlling affirmative permission under Marks at the shared bounded scope; two express joins, with the four broader categorical positions retained as distinct positions |\n| Dissent, joining Part I | Stone-Zsela | Stevens and Souter join the dissent in full | Access rule, application, actual alternative-ground remand, conditional exclusion and conviction-error review, ordinary factual preponderance and direct-review transition |"
+    },
+    {
+      "file": "yarborough_v_alvarado_merits_2004-06-01.md",
+      "date": "2004-06-01",
+      "case": "Yarborough v. Alvarado; No. 02-1684; 541 U.S. 652",
+      "authors": [
+        "O'Connor"
+      ],
+      "opinion_table": "O'Connor delivered the opinion of the Court. All nine joined Part I's review framework; the five-Justice majority joined Part II's application and disposition.\n\n| Part or writing | Author | Joins besides author | Scope |\n|---|---|---|---|\n| Lead Part I | O'Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Objective custody, substantive-law date and independent statutory review |\n| Lead Part II | O'Connor | Stone-Zsela, Scalia, Kennedy, Thomas | State noncustody application remains within the statutory range; denial on this ground |\n| Dissent | Breyer | Stevens, Souter, Ginsburg | Finds custody and objectively unreasonable state application on the supported circumstances; preserves independently necessary admission and prejudice work |"
+    },
+    {
+      "file": "williams_v_morton_merits_2004-06-02.md",
+      "date": "2004-06-02",
+      "case": "Williams v. Morton; judgment below, 343 F.3d 212 (3d Cir. 2003).",
+      "authors": [
+        "Ginsburg"
+      ],
+      "opinion_table": "GINSBURG, J., delivered the opinion of the Court, in which STEVENS, O'CONNOR, SCALIA, KENNEDY, SOUTER, THOMAS and BREYER, JJ., joined, and in which STONE-ZSELA, C. J., joined as to Parts I and III. STONE-ZSELA, C. J., filed an opinion concurring in part and dissenting in part.\n\n| Writing | Author | Joined by | Relationship to judgment | Scope joined |\n|---|---|---|---|---|\n| Opinion of the Court | Ginsburg | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Breyer; Stone-Zsela as to Parts I and III | Affirms both claims | Eight join the entire opinion; all nine join the Turner standard in Part I and the comparator holding in Part III. |\n| Concurrence in part and dissent in part | Stone-Zsela | — | Agrees on equal protection; would vacate the Free Exercise summary judgment and remand | Parts I and III joined; disputes Part II's treatment of the operational evidence. |"
+    }
+  ],
+  "eligible": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "pool": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "author": "Ginsburg",
+  "assigner": "Stone-Zsela"
+}

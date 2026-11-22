@@ -1,0 +1,5 @@
+# Davila and Calad companion identifier
+
+The companion to Aetna Health Inc. v. Davila, No. 02-1845, is CIGNA HealthCare of Texas, Inc. v. Calad, No. 03-83. The supplied index and brief used 02-1846 for that companion. The official opinion heading and syllabus companion note identify 03-83: https://www.law.cornell.edu/supct/html/02-1845.ZO.html and https://www.law.cornell.edu/supct/html/02-1845.ZS.html . The saved source text is in `sources/chunk7-comparator/02-1845.ZO.txt` and `02-1845.ZS.txt`.
+
+This is a clerical identifier correction under Engine section 4. The patients, administrators, claims, questions, lower judgments, June 21 event, and approved positions are the same. All inventory matters remain properly before the Court under the operator direction. The case index and derived event metadata use the corrected companion identifier; the supplied brief and its mechanical runtime and frozen copies retain their original bytes, read with this correction. No judgment or commitment changes, and no additional merits matter is created.

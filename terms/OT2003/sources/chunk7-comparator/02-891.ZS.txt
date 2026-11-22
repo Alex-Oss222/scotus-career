@@ -1,0 +1,123 @@
+Source: https://www.law.cornell.edu/supct/html/02-891.ZS.html
+
+CENTRAL LABORERS’ PENSION FUND V. HEINZ
+CENTRAL LABORERS’ PENSION FUND V. HEINZ (02-891)
+303 F.3d 802, affirmed.Syllabus
+Opinion
+[ Souter ]Concurrence
+[ Breyer ]HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+Syllabus
+NOTE:  Where it is feasible, a
+syllabus (headnote) will be released, as is being done in
+connection with this case, at the time the opinion is
+issued.
+The syllabus constitutes no part of the opinion of
+the Court but has been prepared by the Reporter of Decisions
+for the convenience of the reader.
+See United States
+v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+SUPREME COURT OF THE UNITED
+STATES
+CENTRAL LABORERS’ PENSION FUND
+v. HEINZ
+et al.
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE SEVENTH CIRCUIT
+No. 02—891.
+Argued April 19, 2004–Decided June 7, 2004
+Respondents (collectively, Heinz) are retired
+participants in a multiemployer pension plan (hereinafter Plan)
+administered by petitioner.  Heinz retired from the
+construction industry after accruing enough pension credits to
+qualify for early retirement payments under a “service
+only” pension scheme that pays him the same monthly
+benefit he would have received had he retired at the usual age.
+The Plan prohibits such beneficiaries from certain
+“disqualifying employment” after they retire,
+suspending monthly payments until they stop the forbidden work.
+When Heinz retired, the Plan defined “disqualifying
+employment” to include a job as a construction worker but
+not as a supervisor, the job Heinz took.  In 1998, the Plan
+expanded its definition to include any construction industry
+job and stopped Heinz’s payments when he did not leave his
+supervisor’s job.	Heinz sued to recover the suspended
+benefits, claiming that the suspension violated the
+“anti-cutback” rule of the Employee Retirement Income
+Security Act of 1974 (ERISA), which prohibits any pension plan
+amendment that would reduce a participant’s “accrued
+benefit,” ERISA §204(g), 29 U.S.C. §
+1054(g).  The District Court granted the Plan judgment on
+the pleadings, but the Seventh Circuit reversed, holding that
+imposing new conditions on rights to benefits already accrued
+violates the anti-cutback rule.
+Held: ERISA §204(g)
+prohibits a plan amendment expanding the categories of
+postretirement employment that triggers suspension of the
+payment of early retirement benefits already accrued.
+Pp. 3—11.
+(a) The
+anti-cutback provision is crucial to ERISA’s central
+object of protecting employees’ justified expectations of
+receiving the benefits that they have been promised, see
+Lockheed Corp. v. Spink, 517 U.S. 882, 887.
+The provision prohibits plan amendments that have “the
+effect of … eliminating or reducing an early retirement
+benefit.” 29
+U.S.C. § 1054(g)(2).  The question here is whether the
+Plan’s amendment had such an effect.  Although the
+statutory text is not as helpful as it might be, it is clear as
+a matter of common sense that a benefit has suffered under the
+amendment.  Heinz accrued benefits under a plan allowing him to
+supplement his retirement income, and he reasonably relied on
+that plan’s terms in planning his retirement.  The 1998
+amendment undercut that reliance, paying benefits only if he
+accepted a substantial curtailment of his opportunity to do the
+kind of work he knew.  There is no way that, in any practical
+sense, this change of terms could not be viewed as shrinking
+the value of Heinz’s pension rights and reducing his
+promised benefits.  Pp. 3—5.
+(b) The
+Plan’s technical responses are rejected.  To give the
+anti-cutback rule the constricted reading urged by the
+Plan–applying it only to amendments directly altering the
+monthly payment’s nominal dollar amount and not to a
+suspension when the amount that would be paid is
+unaltered–would take textual force majeure, and
+certainly something closer to irresistible than language in 29 U.S.C. §
+1002(23)(A) to the effect that accrued benefits are
+ordinarily “expressed in the form of an annual benefit
+commencing at normal retirement age.”  And the Plan’s
+argument that §204(g)’s “eliminat[e] or
+reduc[e]” language does not apply to mere suspensions
+misses the point.  ERISA permits conditions that are elements
+of the benefit itself but the question here is whether a new
+condition may be imposed after a benefit has accrued.  The
+right to receive certain money on a certain date may not be
+limited by a new condition narrowing that right.
+Pp. 5—6.
+(c) This
+Court’s conclusion is confirmed by an Internal Revenue
+Service regulation that adopts the reading of §204(g)
+approved here.	Pp. 6—9.
+(d) ERISA
+§203(a)(3)(B), 29 U.S.C. §
+1053(a)(3)(B)–which provides that the right to an
+accrued benefit “shall not be treated as forfeitable
+solely because the plan” suspends benefit payments when
+beneficiaries like respondents are employed in the same
+industry and the same geographic area covered by the
+plan–is irrelevant to the question here.  Section 203(a)
+addresses the entirely distinct concept of benefit forfeitures.
+And read most simply and in context, §203(a)(3)(B) is a
+statement about the terms that can be offered to plan
+participants up front, not as an authorization to adopt
+retroactive amendments.  Pp. 9—11.
+303 F.3d 802, affirmed.
+Souter, J., delivered
+the opinion for a unanimous Court.  Breyer, J., filed a
+concurring opinion, in which Rehnquist, C. J., and
+O’Connor and Ginsburg, JJ., joined.

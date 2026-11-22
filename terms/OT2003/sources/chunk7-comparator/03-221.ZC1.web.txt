@@ -1,0 +1,36 @@
+542 U.S. ____ (2004) (https://www.law.cornell.edu/supct/html/03-221.ZC1.html)
+citeturn14view0 [wordlim: 200] Crawled: last month; Content type: text/html; Source: open({"ref_id":"https://www.law.cornell.edu/supct/html/03-221.ZC1.html","lineno":0}); Total lines: 34
+L0: PLILER V. FORD (03-221)
+L1: 330 F.3d 1086, vacated and remanded.
+L2: Syllabus
+L3:  | Opinion
+L4: [ Thomas ]  | Concurrence
+L5: [ O’Connor ]  | Concurrence
+L6: [ Stevens ]  | Dissent
+L7: [ Ginsburg ]  | Dissent
+L8: [ Breyer ]
+L9: --- | --- | --- | --- | --- | ---
+L10: 【0†HTML version】
+L11: 【1†PDF version】  | 【2†HTML version】
+L12: 【3†PDF version】  | 【4†HTML version】
+L13: 【5†PDF version】  | 【6†HTML version】
+L14: 【7†PDF version】  | 【8†HTML version】
+L15: 【9†PDF version】  | 【10†HTML version】
+L16: 【11†PDF version】
+L17: 
+L18: * * *
+L19: 
+L20: 542 U.S. ____ (2004)
+L21: 
+L22: SUPREME COURT OF THE UNITED STATES
+L23: * * *
+L24: 
+L25: No. 03—221
+L26: ### CHERYL K. PLILER, WARDEN, PETITIONER v.
+L27: RICHARD HERMAN FORD
+L28: #### ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT
+L29: 
+L30: [June 21, 2004]
+L31: 
+L32: Justice Stevens, with whom Justice Souter joins, concurring in the judgment.
+L33: While I fully agree with the views expressed by Justice Ginsburg, post, p. 1, and Justice Breyer, post, p. 1 (dissenting opinions), I am persuaded that the judgment entered by the Court–remanding to the Ninth Circuit to determine the propriety of equitable tolling–is both consistent with those views and correct. I therefore concur in that judgment.

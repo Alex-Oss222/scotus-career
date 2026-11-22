@@ -1,0 +1,196 @@
+Source: https://www.law.cornell.edu/supct/html/03-358.ZS.html
+
+DEPARTMENT OF TRANSPORTATION V. PUBLICCITIZEN
+DEPARTMENT OF TRANSPORTATION V. PUBLICCITIZEN (03-358)
+316 F.3d 1002, reversed and remanded.Syllabus
+Opinion
+[ Thomas ]HTML version
+PDF versionHTML version
+PDF version
+Syllabus
+NOTE:  Where it is feasible, a
+syllabus (headnote) will be released, as is being done in
+connection with this case, at the time the opinion is
+issued.
+The syllabus constitutes no part of the opinion of
+the Court but has been prepared by the Reporter of Decisions
+for the convenience of the reader.
+See United States
+v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+SUPREME COURT OF THE UNITED
+STATES
+DEPARTMENT OF TRANSPORTATION et al.
+v.
+PUBLIC CITIZEN et al.
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE NINTH CIRCUIT
+No. 03—358.
+Argued April 21, 2004–Decided June 7, 2004
+The National Environmental Policy Act of 1969
+(NEPA) requires federal agencies to analyze the environmental
+impact of their proposals and actions in an Environmental
+Impact Statement (EIS), but Council of Environmental Quality
+(CEQ) regulations allow an agency to prepare a more limited
+Environmental Assessment (EA) if the agency’s proposed
+action neither is categorically excluded from the EIS
+production requirement nor would clearly require production of
+an EIS.  An agency that decides, pursuant to an EA, that no EIS
+is required must issue a “finding of no significant
+impact” (FONSI).  The Clean Air Act (CAA) leaves States to
+develop “implementation plans” to comply with
+national air quality standards mandated by the Act, and
+requires federal agencies’ actions to “conform”
+to those state plans, 42 U.S.C. §
+7506(c)(1).  In 1982, Congress enacted a moratorium,
+prohibiting, inter alia, Mexican motor carriers from
+obtaining operating authority within the United States and
+authorizing the President to lift the moratorium.  In 2001, the
+President announced his intention to lift the moratorium once
+new regulations were prepared to grant operating authority to
+Mexican motor carriers.  The Federal Motor Carrier Safety
+Administration (FMCSA) published one proposed rule addressing
+the application form for such carriers and another addressing
+the establishment of a safety-inspection regime for carriers
+receiving operating authority.	Congress subsequently provided,
+in §350 of a DOT appropriations Act, that no funds
+appropriated could be obligated or expended to review or
+process any Mexican motor carrier’s applications until
+FMCSA implemented specific application and safety-monitoring
+requirements.  Acting pursuant to NEPA, FMCSA issued an EA for
+its proposed rules.  The EA did not consider the environmental
+impact that might be caused by the increased presence of
+Mexican trucks in the United States, concluding that any such
+impact would be an effect of the moratorium’s
+modification, not the regulations’ implementation.
+Concluding that the regulations’ issuance would have no
+significant environmental impact, FMCSA issued a FONSI.  In
+subsequent interim rules, FMCSA relied on the EA and FONSI to
+demonstrate compliance with NEPA, and determined that any
+emissions increase from the regulations would fall below the
+Environmental Protection Agency’s (EPA) threshold levels
+needed to trigger a conformity review under the CAA.  Before
+the moratorium was lifted, respondents sought judicial review
+of the proposed rules, arguing that their promulgation violated
+NEPA and the CAA.  The Court of Appeals agreed, finding the EA
+deficient because it did not consider the environmental impact
+of lifting the moratorium, when that action was reasonably
+foreseeable at the time FMCSA prepared the EA and directing
+FMCSA to prepare an EIS and a full CAA conformity determination
+for the regulations.
+Held: Because FMCSA lacks
+discretion to prevent cross-border operations of Mexican motor
+carriers, neither NEPA nor the CAA requires FMCSA to evaluate
+the environmental effects of such operations.
+Pp. 9—19.
+(a) FMCSA did
+not violate NEPA or the relevant CEQ regulations.
+Pp. 9—16.
+(1) An
+agency’s decision not to prepare an EIS can be set aside
+only if it is arbitrary and capricious, see 5 U.S.C. §
+706(2)(A).	Respondents argue that the issuance of a FONSI
+was arbitrary and capricious because the EA did not take into
+account the environmental effects of an increase in
+cross-border operations of Mexican motor carriers.  The
+relevant question, under NEPA, is whether that increase, and
+the correlative release of emissions, is an “effect,”
+40 CFR §
+1508.8 of FMCSA’s rules; if not, FMCSA’s failure
+to address these effects in the EA did not violate NEPA, and
+the FONSI’s issuance cannot be arbitrary and capricious.
+Pp. 9—10.
+(2) Respon
+dents have forfeited any objection to the EA on the ground that
+it did not adequately discuss potential alternatives to the
+proposed action because respondents never identified in their
+comments to the rules any alternatives beyond those the EA
+evaluated.  Pp. 10—11.
+(3) Respon
+dents argue that the EA must take the increased cross-border
+operations’ environmental effects into account because
+§350’s expenditure bar makes it impossible for any
+Mexican truck to operate in the United States until the
+regulations are issued, and hence the trucks’ entry is a
+“reasonably foreseeable” indirect effect of the
+issuance of the regulations.  40 CFR §
+1508.8.  Critically, that argument overlooks FMCSA’s
+inability to countermand the President’s lifting of the
+moratorium or otherwise categorically to exclude Mexican trucks
+from operating in the United States.  While §350
+restricted FMCSA’s ability to authorize such operations,
+FMCSA remains subject to 49 U.S.C. §
+13902(a)(1)’s mandate that it register any motor
+carrier willing and able to comply with various safety and
+financial responsibility rules.  Only the moratorium prevented
+it from doing so for Mexican trucks before 2001.  Respondents
+must rest on “but for” causation, where an
+agency’s action is considered a cause of an environmental
+effect even when the agency has no authority to prevent the
+effect.  However, “but for” causation is insufficient
+to make an agency responsible for a particular effect under
+NEPA and the relevant regulations.  NEPA requires a
+“reasonably close causal relationship” akin to
+proximate cause in tort law.  Metropolitan Edison Co. v.
+People Against Nuclear Energy, 460 U.S. 766, 774.
+Also, inherent in NEPA and its implementing regulations is a
+“rule of reason,” which ensures that agencies
+determine whether and to what extent to prepare an EIS based on
+the usefulness of any new potential information to the
+decisionmaking process.  The underlying policies behind NEPA
+and Congress’ intent, as informed by the “rule of
+reason,” make clear that the causal connection between the
+proposed regulations and the entry of Mexican trucks is
+insufficient to make FMCSA responsible under NEPA to consider
+the environmental effects of entry.  Neither of the purposes of
+NEPA’s EIS requirement–to ensure both that an agency
+has information to make its decision and that the public
+receives information so it might also play a role in the
+decisionmaking process–will be fulfilled by requiring
+FMCSA to consider the environmental impact at issue.  Since
+FMCSA has no ability to prevent such cross-border operations,
+it lacks the power to act on whatever information might be
+contained in an EIS and could not act on whatever input the
+public could provide.  This analysis is not changed by the CEQ
+regulation requiring an agency to evaluate the “cumulative
+impact” of its action, 40 CFR §
+1508.7 since that rule does not require FMCSA to treat the
+lifting of the moratorium itself or the consequences from that
+lifting as an effect of its rules promulgation.
+Pp. 11—16.
+(b) FMCSA
+did not act improperly by not performing a full conformity
+analysis pursuant to the CAA and relevant regulations.	To
+ensure that its actions are consistent with 42 U.S.C. §
+7606 a federal agency must undertake “a conformity
+determination … where the total of direct and indirect
+emissions in a nonattainment or maintenance area caused by
+[the] action would equal or exceed” certain threshold
+levels established by the EPA.	40 CFR §
+93.153(b).	“Direct emissions” “are caused
+or initiated by the Federal action and occur at the same time
+and place as the action,” §93.152; and “indirect
+emissions” are “caused by the Federal action”
+but may occur later in time, and may be practicably controlled
+or maintained by the federal agency, ibid.  Some sort of
+“but for” causation is sufficient for evaluating
+causation in the conformity review process.  See ibid.
+Because it excluded emissions attributable to the increased
+presence of Mexican trucks within the United States, FMCSA
+concluded that its regulations would not exceed EPA thresholds.
+Although arguably FMCSA’s proposed regulations would be
+“but for” causes of the entry of Mexican trucks into
+the United States, such trucks’ emissions are not
+“direct” because they will not occur at the same time
+or place as the promulgation of the regulations.  And they are
+not “indirect” because FMCSA cannot practicably
+control or maintain control over the emissions: FMCSA has no
+ability to countermand the President’s decision to lift
+the moratorium or to act categorically to prevent Mexican
+carriers from registering and Mexican trucks from entering the
+country; and once the regulations are promulgated, FMCSA will
+not be able to regulate any aspect of vehicle exhaust from
+those trucks.  Pp. 17—19.
+316 F.3d 1002, reversed and remanded.
+Thomas, J., delivered
+the opinion for a unanimous Court.

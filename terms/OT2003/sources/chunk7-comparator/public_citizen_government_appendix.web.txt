@@ -1,0 +1,287 @@
+Office of the Solicitor General | DOT v. Public Citizen - Brief (Merits) | United States Department of Justice (https://www.justice.gov/osg/brief/dot-v-public-citizen-brief-merits)
+citeturn32view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"turn29view0","lineno":480}); Total lines: 721
+L395: CONCLUSION
+L396: 
+L397: The judgment of the court of appeals should be reversed.
+L398: 
+L399: Respectfully submitted.
+L400: 
+L401: JEFFREY A. ROSEN
+L402: General Counsel
+L403: PAUL M. GEIER
+L404: Assistant General Counsel
+L405: for Litigation
+L406: PETER J. PLOCKI
+L407: Senior Trial Attorney
+L408: BRIGHAM A. MCCOWAN
+L409: Chief Counsel
+L410: MICHAEL J. FALK
+L411: Acting Assistant Chief
+L412: Counsel
+L413: Federal Motor Carrier Safety
+L414: Administration
+L415: Department of Transportation
+L416: JOHN K. VERONEAU
+L417: General Counsel
+L418: Office of the United States
+L419: Trade Representative
+L420: Executive Office of the
+L421: President
+L422: THEODORE B. OLSON
+L423: Solicitor General
+L424: THOMAS L. SANSONETTI
+L425: Assistant Attorney General
+L426: EDWIN S. KNEEDLER
+L427: THOMAS G. HUNGAR
+L428: Deputy Solicitors General
+L429: JEFFREY BOSSERT CLARK
+L430: Deputy Assistant Attorney
+L431: 
+L432: General
+L433: 
+L434: AUSTIN C. SCHLICK
+L435: 
+L436: Assistant to the Solicitor
+L437: 
+L438: General
+L439: 
+L440: JOHN L. SMELTZER
+L441: 
+L442: DAVID C. SHILTON
+L443: 
+L444: Attorneys
+L445: 
+L446: FEBRUARY 2004
+L447: 1 There are approximately 4.5 million northbound truck crossings of the United States-Mexico border each year. See J.A. 85, Fig. 3-2. Because of the moratorium, Mexican cargo that enters the United States by truck generally is transported by Mexican carriers only to terminals within the border commercial zones, where it is transferred to United States carriers for transport to its final destination.
+L448: Passengers using scheduled bus services must follow similar procedures for their trips from Mexico to the United States. See J.A. 123-124; Pet. 25-26.
+L449: 2 In 1999, Congress transferred responsibility for motor carrier safety within DOT from the Federal Highway Administration to the newly created FMCSA. See Motor Carrier Safety Improvement Act of 1999, Pub. L. No. 106-159, 113 Stat. 1748; 49 U.S.C. 113. Previously, when Congress had abolished the ICC, it assigned most of the ICC's responsibilities for motor carrier operations to the Secretary of Transportation. See ICC Termination Act of 1995, Pub. L. No. 104-88, § 101, 109 Stat.
+L450: 804 (abolishing ICC); 49 U.S.C. 13301, 13501. See also J.A. 51.
+L451: 3 In 1995, as part of its efforts to prepare for NAFTA's implementation, the ICC had promulgated application requirements and an application form for Mexican carriers seeking authority to conduct cross-border operations. Pet. App. 57a; J.A. 32; see Freight Operations by Mexican Motor Carriers: Implementation of North American Free Trade Agreement, 60 Fed. Reg. 63,981 (1995). Approximately 190 applications were filed under the ICC's regulations. Pet. App. 58a; J.A. 53-54.
+L452: Because the President did not modify the moratorium on cross-border operations on the schedule established by NAFTA, neither the ICC, nor its successor agencies within DOT (see note 2, supra), granted operating authority to any Mexican carriers under the regulations that the ICC promulgated in 1995.
+L453: 4 A third proposed rule that FMCSA issued on the same day concerned applications for operating authority by Mexican carriers operating solely within border commercial zones, which were not covered by the moratorium on cross-border operations. See Revision of Regulations and Application Form for Mexican-Domiciled Motor Carriers to Operate in U.S. Municipalities and Commercial Zones on the U.S.-Mexico Border, 66 Fed. Reg. 22,328 (2001).
+L454: That rule does not pertain to the President's modification of the trade moratorium to allow cross-border operations and is not at issue in this case.
+L455: 5 FMCSA estimated that, in 2002, Mexican operators would operate approximately 72,000 commercial motor vehicles subject to the new regulations (of which about half would engage in operations outside the border commercial zones), and there would be approximately 230,000 inspections of those vehicles. J.A. 67, 132, 165. By contrast, there were approximately 4.5 million commercial motor vehicles operating in the United States. J.A. 149.
+L456: Furthermore, new cross-border operations by Mexican-domiciled trucks often would substitute for, rather than be cumulative of, operations by United States trucks. See J.A. 135.
+L457: 6 FMCSA also relied on EPA's regulation creating an exemption from the CAA's conformity-review requirement for agency rulemakings. See Pet. App. 65a-66a; 40 C.F.R. 93.153(c)(2)(iii). The court of appeals found that exemption inapplicable to FMCSA's Application and Safety Monitoring Rules. See Pet. App. 48a-51a. The court of appeals' rejection of that alternative ground for FMCSA's conformity-review decision is not at issue in this case. See Pet. 10 n.4.
+L458: 7 On the same day that FMCSA published the Application and Safety Monitoring Rules, it also promulgated a rule to establish training and certification requirements for all persons who conduct safety inspections and audits of domestic or foreign motor carriers under FMCSA's regulations. See Pet. App. 203a-220a (Auditor Certification Rule).
+L459: Although the Auditor Certification Rule is not limited to inspections of Mexican motor carriers, Section 350 made promulgation of that rule one of the prerequisites to expending funds on processing Mexican carriers' applications for cross-border operating authority. See Pub. L. No. 107-87, § 350(a)(10)(B), 115 Stat. 866. The court of appeals invalidated the Auditor Certification Rule as well as the Application and Safety Monitoring Rules. See Pet. App. 43a-45a.
+L460: After the Ninth Circuit's decision, however, FMCSA reissued the Auditor Certification Rule on the basis of an EA that addressed both NEPA and CAA issues with respect to that rule alone. See Safety Auditor Certification: Notice of Statutory Compliance Date, 68 Fed. Reg. 74,287 (2003). This Court's disposition of the instant case will have no direct effect on the reissued Auditor Certification Rule.
+L461: 8 Although the government argued in the court of appeals that respondents lack standing, the petition for a writ of certiorari did not ask this Court to review the standing issue.
+L462: 9 In its Application Rule, FMCSA determined to advise applicants for cross-border operating authority of their obligation to comply with "all pertinent Federal, State, local and tribal statutory and regulatory requirements, including labor and environmental laws." Pet. App. 91a. That statement on the application form is purely "informational in nature" and does not (and could not) impose any new environmental obligation. Ibid.
+L463: 10 Accord, e.g., C.A. Br. of Public Citizen, et al. 32 ("The challenged rules will have the practical effect-that is, the trucks crossing the border-that will create adverse environmental effects."); C.A. Br. of NRDC and Planning and Conservation League 17 ("The EA fails to take into account the public health effects that will result from an increase in the number of more polluting Mexican-domiciled trucks traveling in the U.S. once the Final Rules are implemented.").
+L464: 11 At the petition stage, respondents invoked (Br. in Opp. 25 n.5) the Ninth Circuit's practice of considering an appellant's arguments concerning issues the appellee injected into the case. See United States v. Franco-Lopez, 312 F.3d 984, 993 n.6 (9th Cir. 2002). But respondents did not identify anything in the government's appellate brief that supposedly raised, on their behalf, this alternative claim of agency error.
+L465: Moreover, even if the Ninth Circuit's practice concerning arguments made in a reply brief is appropriate where (unlike here) the predicate for its invocation is present, that would not excuse respondents' previous procedural default, as a matter of administrative law under Vermont Yankee, in failing to present this issue to FMCSA.
+L466: 12 Another analysis on which respondents principally rely likewise addressed "emissions increases with Mexican heavy-duty diesel trucks operating in California and elsewhere in the U.S.," not the effects of the particular provisions of FMCSA's safety regulations. J.A. 387.
+L467: 13 The practical dependence of FMCSA's new safety requirements on the President's trade action distinguishes this case from one involving indirect effects that are related to a change in the physical environment that genuinely is brought about by the agency's action, such as changes in land use that are induced by the construction of a federal highway. See 40 C.F.R. 1508.8(b).
+L468: 14 The fact that the President had formally lifted the moratorium on cross-border operations by the time of the court of appeals' decision highlights the further point that, even if the court of appeals was correct that FMCSA should have prepared an EIS before the President acted (which it was not), it does not follow that FMCSA must prepare an EIS under current conditions.
+L469: More generally, even under the court of appeals' incorrect understanding of NEPA and the CAA, it was error for the court of appeals to require FMCSA to prepare an EIS and a CAA conformity review, rather than identifying the particular errors in FMCSA's analysis that the court of appeals believed to exist and then remanding to FMCSA for a determination whether an EIS and conformity review are required. See INS v. Ventura, 537 U.S.
+L470: 12, 16 (2002) (discussing "the basic legal principles that govern remand" following court of appeals' determination of agency error).
+L471: 15 FMCSA has entered into a contract with a vendor for the preparation of the EIS and CAA analysis mandated by the court of appeals. DOT advises that it now expects its total payments under the contract to be at least $2.25 million, if that analysis is required.
+L472: 16 As the court of appeals observed (Pet. App. 31a), NEPA requires federal agencies to comply with the EIS requirement "to the fullest extent possible." 42 U.S.C. 4332. That does not support respondents' position in this case, however. Congress included that language in NEPA to "make it clear that each agency of the Federal Government shall comply with the directives set out in [42 U.S.C.
+L473: 4332(2)(C)] unless the existing law applicable to such agency's operations expressly prohibits or makes full compliance * * * impossible." Flint Ridge Dev. Co. v. Scenic Rivers Ass'n, 426 U.S. 776, 787-788 (1976) (quoting 115 Cong. Rec. 39,703 (1969)). There is no dispute here that FMCSA must apply NEPA. Similarly, the court of appeals' decision is not bolstered by Congress's statutory clarification that NAFTA implementation is subject to the Nation's environmental laws. 19 U.S.C. 3312(a); see Pet. App.
+L474: 7a-8a. The issue is what NEPA requires, not whether NEPA applies to NAFTA implementation.
+L475: 17 The FMCSA safety rulemakings in this case are subject to the conformity-review provisions of 40 C.F.R. Part 93, Subpart B, not the special provisions governing conformity reviews for certain transportation projects, 40 C.F.R. Pt. 51, Subpt. T. See 42 U.S.C. 7506(c)(2); 40 C.F.R. 93.153(a).
+L476: 18 In addition to its incorrect determination that the EA's "distinction between the effects of the [safety] regulations themselves and the effects of the presidential rescission of the moratorium on Mexican truck entry" is "illusory," the court of appeals expressed the view that "methodological flaws" in the EA, such as FMCSA's failure to analyze the truck emissions "on a local or regional basis," compromised the conformity analysis. Pet. App. 47a.
+L477: Because FMCSA was not required to consider the truck emissions resulting from cross-border operations in its CAA conformity review at all, methodological issues concerning how the truck emissions should be analyzed cannot be a basis for overturning the agency's conformity determination.
+L478: 
+L479: 
+L480: APPENDIX
+L481: 
+L482: 
+L483: 
+L484: STATUTES AND REGULATIONS INVOLVED
+L485: 
+L486: 1. Administrative Procedure Act
+L487: 
+L488: Section 706 of Title 5 of the United States Code provides:
+L489: 
+L490: To the extent necessary to decision and when presented, the reviewing court shall decide all relevant questions of law, interpret constitutional and statutory provisions, and determine the meaning or applicability of the terms of an agency action. The reviewing court shall-
+L491: 
+L492: (1) compel agency action unlawfully withheld or unreasonably delayed; and
+L493: (2) hold unlawful and set aside agency action, findings, and conclusions found to be-
+L494: 
+L495: (A) arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law;
+L496: 
+L497: (B) contrary to constitutional right, power, privilege, or immunity;
+L498: 
+L499: (C) in excess of statutory jurisdiction, authority, or limitations, or short of statutory right;
+L500: 
+L501: (D) without observance of procedure required by law;
+L502: (E) unsupported by substantial evidence in a case subject to sections 556 and 557 of this title or otherwise reviewed on the record of an agency hearing provided by statute; or
+L503: 
+L504: (F) unwarranted by the facts to the extent that the facts are subject to trial de novo by the reviewing court.
+L505: 
+L506: In making the foregoing determinations, the court shall review the whole record or those parts of it cited by a party, and due account shall be taken of the rule of prejudicial error.
+L507: 2. National Environmental Policy Act
+L508: 
+L509: a. Section 4332 of Title 42 of the United States Code provides in pertinent part:
+L510: 
+L511: The Congress authorizes and directs that, to the fullest extent possible: (1) the policies, regulations, and public laws of the United States shall be interpreted and administered in accordance with the policies set forth in this chapter, and (2) all agencies of the Federal Government shall-
+L512: (A) utilize a systematic, interdisciplinary approach which will insure the integrated use of the natural and social sciences and the environmental design arts in planning and in decisionmaking which may have an impact on man's environment;
+L513: (B) identify and develop methods and procedures, in consultation with the Council on Environmental Quality established by subchapter II of this chapter, which will insure that presently unquantified environmental amenities and values may be given appropriate consideration in decisionmaking along with economic and technical considerations;
+L514: (C) include in every recommendation or report on proposals for legislation and other major Federal actions significantly affecting the quality of the human environment, a detailed statement by the responsible official on-
+L515: 
+L516: (i) the environmental impact of the proposed action,
+L517: 
+L518: (ii) any adverse environmental effects which cannot be avoided should the proposal be implemented,
+L519: 
+L520: (iii) alternatives to the proposed action,
+L521: (iv) the relationship between local short-term uses of man's environment and the maintenance and enhancement of long-term productivity, and
+L522: 
+L523: (v) any irreversible and irretrievable commitments of resources which would be involved in the proposed action should it be implemented.
+L524: Prior to making any detailed statement, the responsible Federal official shall consult with and obtain the comments of any Federal agency which has jurisdiction by law or special expertise with respect to any environmental impact involved.
+L525: Copies of such statement and the comments and views of the appropriate Federal, State, and local agencies, which are authorized to develop and enforce environmental standards, shall be made available to the President, the Council on Environmental Quality and to the public as provided by section 552 of title 5, and shall accompany the proposal through the existing agency review processes[.]
+L526: b. Section 1508.7 of Title 40 of the Code of Federal Regulations provides:
+L527: 
+L528: Cumulative impact is the impact on the environment which results from the incremental impact of the action when added to other past, present, and reasonably foreseeable future actions regardless of what agency (Federal or non-Federal) or person undertakes such other actions. Cumulative impacts can result from individually minor but collectively significant actions taking place over a period of time.
+L529: c. Section 1508.8 of Title 40 of the Code of Federal Regulations provides:
+L530: 
+L531: Effects include:
+L532: 
+L533: (a) Direct effects, which are caused by the action and occur at the same time and place.
+L534: (b) Indirect effects, which are caused by the action and are later in time or farther removed in distance, but are still reasonably foreseeable. Indirect effects may include growth inducing effects and other effects related to induced changes in the pattern of land use, population density or growth rate, and related effects on air and water and other natural systems, including ecosystems.
+L535: Effects and impacts as used in these regulations are synonymous. Effects includes ecological (such as the effects on natural resources and on the components, structures, and functioning of affected ecosystems), aesthetic, historic, cultural, economic, social, or health, whether direct, indirect, or cumulative. Effects may also include those resulting from actions which may have both beneficial and detrimental effects, even if on balance the agency believes that the effect will be beneficial.
+L536: d. Section 1508.12 of Title 40 of the Code of Federal Regulations provides:
+L537: 
+L538: Federal agency means all agencies of the Federal Government. It does not mean the Congress, the Judiciary, or the President, including the performance of staff functions for the President in his Executive Office. It also includes for purposes of these regulations States and units of general local government and Indian tribes assuming NEPA responsibilities under section 104(h) of the Housing and Community Development Act of 1974.
+L539: e. Section 1508.25 of Title 40 of the Code of Federal Regulations provides:
+L540: 
+L541: Scope consists of the range of actions, alternatives, and impacts to be considered in an environmental impact statement. The scope of an individual statement may depend on its relationships to other statements (Secs. 1502.20 and 1508.28). To determine the scope of environmental impact statements, agencies shall consider 3 types of actions, 3 types of alternatives, and 3 types of impacts. They include:
+L542: (a) Actions (other than unconnected single actions) which may be:
+L543: 
+L544: (1) Connected actions, which means that they are closely related and therefore should be discussed in the same impact statement. Actions are connected if they:
+L545: 
+L546: (i) Automatically trigger other actions which may require environmental impact statements.
+L547: 
+L548: (ii) Cannot or will not proceed unless other actions are taken previously or simultaneously.
+L549: (iii) Are interdependent parts of a larger action and depend on the larger action for their justification.
+L550: 
+L551: (2) Cumulative actions, which when viewed with other proposed actions have cumulatively significant impacts and should therefore be discussed in the same impact statement.
+L552: (3) Similar actions, which when viewed with other reasonably foreseeable or proposed agency actions, have similarities that provide a basis for evaluating their environmental consequences together, such as common timing or geography. An agency may wish to analyze these actions in the same impact statement. It should do so when the best way to assess adequately the combined impacts of similar actions or reasonable alternatives to such actions is to treat them in a single impact statement.
+L553: (b) Alternatives, which include:
+L554: 
+L555: (1) No action alternative.
+L556: 
+L557: (2) Other reasonable courses of actions.
+L558: 
+L559: (3) Mitigation measures (not in the proposed action).
+L560: 
+L561: (c) Impacts, which may be: (1) Direct; (2) indirect; (3) cumulative.
+L562: 
+L563: 3. Clean Air Act
+L564: 
+L565: a. Section 7506(c)(1) of Title 42 of the United States Code provides:
+L566: No department, agency, or instrumentality of the Federal Government shall engage in, support in any way or provide financial assistance for, license or permit, or approve, any activity which does not conform to an implementation plan after it has been approved or promulgated under section 7410 of this title.
+L567: No metropolitan planning organization designated under section 134 of title 23, shall give its approval to any project, program, or plan which does not conform to an implementation plan approved or promulgated under section 7410 of this title. The assurance of conformity to such an implementation plan shall be an affirmative responsibility of the head of such department, agency, or instrumentality. Conformity to an implementation plan means-
+L568: (A) conformity to an implementation plan's purpose of eliminating or reducing the severity and number of violations of the national ambient air quality standards and achieving expeditious attainment of such standards; and
+L569: 
+L570: (B) that such activities will not-
+L571: 
+L572: (i) cause or contribute to any new violation of any standard in any area;
+L573: 
+L574: (ii) increase the frequency or severity of any existing violation of any standard in any area; or
+L575: (iii) delay timely attainment of any standard or any required interim emission reductions or other milestones in any area.
+L576: 
+L577: The determination of conformity shall be based on the most recent estimates of emissions, and such estimates shall be determined from the most recent population, employment, travel and congestion estimates as determined by the metropolitan planning organization or other agency authorized to make such estimates.
+L578: b. Section 93.150 of Title 40 of the Code of Federal Regulations provides:
+L579: 
+L580: (a) No department, agency or instrumentality of the Federal Government shall engage in, support in any way or provide financial assistance for, license or permit, or approve any activity which does not conform to an applicable implementation plan.
+L581: (b) A Federal agency must make a determination that a Federal action conforms to the applicable implementation plan in accordance with the requirements of this subpart before the action is taken.
+L582: 
+L583: (c) Paragraph (b) of this section does not include Federal actions where:
+L584: (1) A National Environmental Policy Act (NEPA) analysis was completed as evidenced by a final environmental assessment (EA), environmental impact statement (EIS), or finding of no significant impact (FONSI) that was prepared prior to January 31, 1994; or
+L585: 
+L586: (2)(i) Prior to January 31, 1994, an environmental analysis was commenced or a contract was awarded to develop the specific environmental analysis;
+L587: (ii) Sufficient environmental analysis is completed by March 15, 1994 so that the Federal agency may determine that the Federal action is in conformity with the specific requirements and the purposes of the applicable SIP pursuant to the agency's affirmative obligation under section 176(c) of the Clean Air Act (Act); and
+L588: 
+L589: (iii) A written determination of conformity under section 176(c) of the Act has been made by the Federal agency responsible for the Federal action by March 15, 1994.
+L590: (d) Notwithstanding any provision of this subpart, a determination that an action is in conformance with the applicable implementation plan does not exempt the action from any other requirements of the applicable implementation plan, the National Environmental Policy Act (NEPA), or the Clean Air Act (Act).
+L591: 
+L592: c. Section 93.152 of Title 40 of the Code of Federal Regulations provides in pertinent part:
+L593: Direct emissions means those emissions of a criteria pollutant or its precursors that are caused or initiated by the Federal action and occur at the same time and place as the action.
+L594: 
+L595: * * * * *
+L596: 
+L597: Indirect emissions means those emissions of a criteria pollutant or its precursors that:
+L598: 
+L599: (1) Are caused by the Federal action, but may occur later in time and/or may be further removed in distance from the action itself but are still reasonably foreseeable; and
+L600: (2) The Federal agency can practicably control and will maintain control over due to a continuing program responsibility of the Federal agency.
+L601: 
+L602: 
+L603: 
+L604: 4. ICC Termination Act of 1995, Pub. L. No. 104-88, as Amended
+L605: 
+L606: Section 13902 of Title 49 of the United States Code provides in pertinent part:
+L607: 
+L608: (a) MOTOR CARRIER GENERALLY.-
+L609: (1) IN GENERAL.-Except as provided in this section, the Secretary shall register a person to provide transportation subject to jurisdiction under subchapter I of chapter 135 of this title as a motor carrier if the Secretary finds that the person is willing and able to comply with-
+L610: 
+L611: (A) this part and the applicable regulations of the Secretary and the Board;
+L612: 
+L613: (B) any safety regulations imposed by the Secretary and the safety fitness requirements established by the Secretary under section 31144; and
+L614: (C) the minimum financial responsibility requirements established by the Secretary pursuant to sections 13906 and 31138.
+L615: 
+L616: (2) CONSIDERATION OF EVIDENCE; FINDINGS.-The Secretary shall consider and, to the extent applicable, make findings on, any evidence demonstrating that the registrant is unable to comply with the requirements of subparagraph (A), (B), or (C) of paragraph (1).
+L617: (3) WITHHOLDING.-If the Secretary determines that any registrant under this section does not meet the requirements of paragraph (1), the Secretary shall withhold registration.
+L618: (4) LIMITATION ON COMPLAINTS.-The Secretary may hear a complaint from any person concerning a registration under this subsection only on the ground that the registrant fails or will fail to comply with this part, the applicable regulations of the Secretary and the Board, the safety regulations of the Secretary, or the safety fitness or minimum financial responsibility requirements of paragraph (1) of this subsection.
+L619: 
+L620: * * * * *
+L621: (c) RESTRICTIONS ON MOTOR CARRIERS DOMICILED IN OR OWNED OR CONTROLLED BY NATIONALS OF A CONTIGUOUS FOREIGN COUNTRY.-
+L622: (1) PREVENTION OF DISCRIMINATORY PRACTICES. -If the President, or the delegate thereof, determines that an act, policy, or practice of a foreign country contiguous to the United States, or any political subdivision or any instrumentality of any such country is unreasonable or discriminatory and burdens or restricts United States transportation companies providing, or seeking to proide, motor carrier transportation to, from, or within such foreign country, the President or such delegate may-
+L623: (A) seek elimination of such practices through consultations; or
+L624: 
+L625: (B) notwithstanding any other provision of law, suspend, modify, amend, condition, or restrict operations, including geographical restriction of operations, in the United States by motor carriers of property or passengers domiciled in such foreign country or owned or controlled by persons of such foreign country.
+L626: (2) EQUALIZATION OF TREATMENT.-Any action taken under paragraph (1)(A) to eliminate an act, policy, or practice shall be so devised so as to equal to the extent possible the burdens or restrictions imposed by such foreign country on United States transportation companies.
+L627: (3) REMOVAL OR MODIFICATION.-The President, or the delegate thereof, may remove or modify in whole or in part any action taken under paragraph (1)(A) if the President or such delegate determines that such removal or modification is consistent with the obligations of the United States under a trade agreement or with United States transportation policy.
+L628: (4) PROTECTION OF EXISTING OPERATIONS.- Unless and until the President, or the delegate thereof, makes a determination under paragraph (1) or (3), nothing in this subsection shall affect-
+L629: 
+L630: (A) operations of motor carriers of property or passengers domiciled in any contiguous foreign country or owned or controlled by persons of any contiguous foreign country permitted in the commercial zones along the United States-Mexico border as such zones were defined on December 31, 1995; or
+L631: (B) any existing restrictions on operations of motor carriers of property or passengers domiciled in any contiguous foreign country or owned or controlled by persons of any contiguous foreign country or any modifications thereof pursuant to section 6 of the Bus Regulatory Reform Act of 1982.
+L632: (5) PUBLICATION; COMMENT.-Unless the President, or the delegate thereof, determines that expeditious action is required, the President shall publish in the Federal Register any determination under paragraph (1) or (3), together with a description of the facts on which such a determination is based and any proposed action to be taken pursuant to paragraph (1)(B) or (3), and provide an opportunity for public comment.
+L633: (6) DELEGATION TO SECRETARY.-The President may delegate any or all authority under this subsection to the Secretary, who shall consult with other agencies as appropriate. In accordance with the directions of the President, the Secretary may issue regulations to enforce this subsection.
+L634: (7) CIVIL ACTIONS.-Either the Secretary or the Attorney General may bring a civil action in an appropriate district court of the United States to enforce this subsection or a regulation prescribed or order issued under this subsection. The court may award appropriate relief, including injunctive relief.
+L635: (8) LIMITATION ON STATUTORY CONSTRUCTION. -This subsection shall not be construed as affecting the requirement for all foreign motor carriers and foreign motor private carriers operating in the United States to comply with all applicable laws and regulations pertaining to fitness, safety of operations, financial responsibility, and taxes imposed by section 4481 of the Internal Revenue Code of 1986.
+L636: 
+L637: 5. Department of Transportation and Related Agencies Act, 2002
+L638: Section 350 of the Department of Transportation and Related Agencies Appropriations Act, 2002, Pub. L. No. 107-87, 115 Stat. 864, provides in pertinent part:
+L639: SAFETY OF CROSS-BORDER TRUCKING BETWEEN UNITED STATES AND MEXICO. (a) No funds limited or appropriated in this Act may be obligated or expended for the review or processing of an application by a Mexican motor carrier for authority to operate beyond United States municipalities and commercial zones on the United States-Mexico border until the Federal Motor Carrier Safety Administration-
+L640: (1)(A) requires a safety examination of such motor carrier to be performed before the carrier is granted conditional operating authority to operate beyond United States municipalities and commercial zones on the United States-Mexico border;
+L641: 
+L642: (B) requires the safety examination to include-
+L643: 
+L644: (i) verification of available performance data and safety management programs;
+L645: 
+L646: (ii) verification of a drug and alcohol testing program consistent with part 40 of title 49, Code of Federal Regulations;
+L647: (iii) verification of that motor carrier's system of compliance with hours- of-service rules, including hours-of-service records;
+L648: 
+L649: (iv) verification of proof of insurance;
+L650: 
+L651: (v) a review of available data concerning that motor carrier's safety history, and other information necessary to determine the carrier's preparedness to comply with Federal Motor Carrier Safety rules and regulations and Hazardous Materials rules and regulations;
+L652: (vi) an inspection of that Mexican motor carrier's commercial vehicles to be used under such operating authority, if any such commercial vehicles have not received a decal from the inspection required in subsection (a)(5);
+L653: 
+L654: (vii) an evaluation of that motor carrier's safety inspection, maintenance, and repair facilities or management systems, including verification of records of periodic vehicle inspections;
+L655: (viii) verification of drivers' qualifications, including a confirmation of the validity of the Licencia de Federal de Conductor of each driver of that motor carrier who will be operating under such authority; and
+L656: 
+L657: (ix) an interview with officials of that motor carrier to review safety management controls and evaluate any written safety oversight policies and practices.
+L658: 
+L659: (C) requires that-
+L660: (i) Mexican motor carriers with three or fewer commercial vehicles need not undergo on-site safety examination; however 50 percent of all safety examinations of all Mexican motor carriers shall be conducted onsite; and
+L661: 
+L662: (ii) such on-site inspections shall cover at least 50 percent of estimated truck traffic in any year.
+L663: (2) requires a full safety compliance review of the carrier consistent with the safety fitness evaluation procedures set forth in part 385 of title 49, Code of Federal Regulations, and gives the motor carrier a satisfactory rating, before the carrier is granted permanent operating authority to operate beyond United States municipalities and commercial zones on the United States-Mexico border, and requires that any such safety compliance review take place within 18 months of that motor carrier being granted conditional operating authority, provided that-
+L664: (A) Mexican motor carriers with three or fewer commercial vehicles need not undergo onsite compliance review; however 50 percent of all compliance reviews of all Mexican motor carriers shall be conducted on-site; and
+L665: 
+L666: (B) any Mexican motor carrier with 4 or more commercial vehicles that did not undergo an on-site safety exam under (a)(1)(C), shall undergo an on-site safety compliance review under this section.
+L667: (3) requires Federal and State inspectors to verify electronically the status and validity of the license of each driver of a Mexican motor carrier commercial vehicle crossing the border;
+L668: 
+L669: (A) for every such vehicle carrying a placardable quantity of hazardous materials;
+L670: 
+L671: (B) whenever the inspection required in subsection (a)(5) is performed; and
+L672: 
+L673: (C) randomly for other Mexican motor carrier commercial vehicles, but in no case less than 50 percent of all other such commercial vehicles.
+L674: (4) gives a distinctive Department of Transportation number to each Mexican motor carrier operating beyond the commercial zone to assist inspectors in enforcing motor carrier safety regulations including hours-of-service rules under part 395 of title 49, Code of Federal Regulations;
+L675: 
+L676: (5) requires, with the exception of Mexican motor carriers that have been granted permanent operating authority for three consecutive years-
+L677: (A) inspections of all commercial vehicles of Mexican motor carriers authorized, or seeking authority to operate beyond United States municipalities and commercial zones on the United States-Mexico border that do not display a valid Commercial Vehicle Safety Alliance inspection decal, by certified inspectors in accordance with the requirements for a Level I Inspection under the criteria of the North American Standard Inspection (as defined in section 350.105 of title 49, Code of Federal Regulations), including examination of the driver, vehicle exterior and vehicle under-carriage;
+L678: (B) a Commercial Vehicle Safety Alliance decal to be affixed to each such commercial vehicle upon completion of the inspection required by clause (A) or a re-inspection if the vehicle has met the criteria for the Level I inspection; and
+L679: (C) that any such decal, when affixed, expire at the end of a period of not more than 90 days, but nothing in this paragraph shall be construed to preclude the Administration from requiring reinspection of a vehicle bearing a valid inspection decal or from requiring that such a decal be removed when a certified Federal or State inspector determines that such a vehicle has a safety violation subsequent to the inspection for which the decal was granted.
