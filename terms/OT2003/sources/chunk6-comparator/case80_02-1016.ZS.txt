@@ -1,0 +1,182 @@
+Source: https://www.law.cornell.edu/supct/html/02-1016.ZS.html
+
+NOTE:  Where it is feasible, a
+syllabus (headnote) will be released, as is being done in
+connection with this case, at the time the opinion is
+issued.
+The syllabus constitutes no part of the opinion of
+the Court but has been prepared by the Reporter of Decisions
+for the convenience of the reader.
+See United States
+v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+TILL et ux. v. SCS CREDIT CORP.
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE SEVENTH CIRCUIT
+
+No. 02—1016. Argued December 2, 2003–Decided May 17,
+2004
+
+Under the so-called “cram down
+option” permitted by the Bankruptcy Code, a Chapter 13
+debtor’s proposed debt adjustment plan must provide each
+allowed, secured creditor both a lien securing the claim and a
+promise of future property disbursements whose total value, as
+of the plan’s date, “is not less than the
+[claim’s] allowed amount,” 11 U.S.C. §
+1325(a)(5)(B)(ii).	When such plans provide for installment
+payments, each installment must be calibrated to ensure that
+the creditor receives disbursements whose total present value
+equals or exceeds that of the allowed claim.  Respondent’s
+retail installment contract on petitioners’ truck had a
+secured value of $4,000 at the time petitioners filed a Chapter
+13 petition.  Petitioners’ proposed debt adjustment plan
+provided the amount that would be distributed to creditors each
+month and that petitioners would pay an annual 9.5% interest
+rate on respondent’s secured claim.  This
+“prime-plus” or “formula rate” was reached
+by augmenting the national prime rate of 8% to account for the
+nonpayment risk posed by borrowers in petitioners’
+financial position.  In confirming the plan, the Bankruptcy
+Court overruled respondent’s objection that it was
+entitled to its contract interest rate of 21%.	The District
+Court reversed, ruling that the 21% “coerced loan
+rate” was appropriate because cram down rates must be set
+at the level the creditor could have obtained had it foreclosed
+on the loan, sold the collateral, and reinvested the proceeds
+in equivalent loans.  The Seventh Circuit modified that
+approach, holding that the original contract rate was a
+“presumptive rate” that could be challenged with
+evidence that a higher or lower rate should apply, and
+remanding the case to the Bankruptcy Court to afford the
+parties an opportunity to rebut the presumptive 21% rate.  The
+dissent proposed a “cost of funds rate” that would
+simply ask what it would cost the creditor to obtain the cash
+equivalent of the collateral from another source.
+
+Held: The judgment is reversed,
+and the case is remanded.
+
+301 F.3d 583, reversed and remanded.
+
+    Justice Stevens,
+joined by Justice Souter, Justice Ginsburg, and Justice Breyer,
+concluded that the prime-plus or formula rate best meets the
+purposes of the Bankruptcy Code.  Pp. 7—18.
+
+      (a) The Code
+gives little guidance as to which of the four interest rates
+advocated by opinions in this case Congress intended when it
+adopted the cram down provision.  A debtor’s promise of
+future payments is worth less than an immediate lump sum
+payment because the creditor cannot use the money right away,
+inflation may cause the dollar’s value to decline before
+the debtor pays, and there is a nonpayment risk.  In choosing
+an interest rate sufficient to compensate the creditor for such
+concerns, bankruptcy courts must consider that: (1) Congress
+likely intended bankruptcy judges and trustees to follow
+essentially the same approach when choosing an appropriate
+interest rate under any of the many Code provisions requiring a
+court to discount a stream of deferred payments back to their
+present dollar value; (2) Chapter 13 expressly authorizes a
+bankruptcy court to modify the rights of a creditor whose claim
+is secured by an interest in anything other than the
+debtor’s principal residence; and (3) from a
+creditor’s point of view, the cram down provision mandates
+an objective rather than a subjective inquiry. 
+Pp. 7—10.
+
+      (b) These
+considerations lead to the conclusion that the coerced loan,
+presumptive contract rate, and cost of funds approaches should
+be rejected, since they are complicated, impose significant
+evidentiary costs, and aim to make each individual creditor
+whole rather than to ensure that a debtor’s payments have
+the required present value.  Pp. 10—12.
+
+      (c) The
+formula approach has none of these defects.  Taking its cue
+from ordinary lending practices, it looks to the national prime
+rate, which reflects the financial market’s estimate of
+the amount a commercial bank should charge a creditworthy
+commercial borrower to compensate for the loan’s
+opportunity costs, the inflation risk, and the relatively
+slight default risk.  A bankruptcy court is then required to
+adjust the prime rate to account for the greater nonpayment
+risk that bankrupt debtors typically pose.  Because that
+adjustment depends on such factors as the estate’s
+circumstances, the security’s nature, and the
+reorganization plan’s duration and feasibility, the court
+must hold a hearing to permit the debtor and creditors to
+present evidence about the appropriate risk adjustment.  Unlike
+the other approaches proposed in this case, the formula
+approach entails a straightforward, familiar, and objective
+inquiry, and minimizes the need for potentially costly
+additional evidentiary hearings.  The resulting prime-plus rate
+also depends only on the state of financial markets, the
+bankruptcy estate’s circumstances, and the loan’s
+characteristics, not on the creditor’s circumstances or
+its prior interactions with the debtor.  The risk
+adjustment’s proper scale is not before this Court.  The
+Bankruptcy Court approved 1.5% in this case, and other courts
+have generally approved 1% to 3%, but respondent claims a risk
+adjustment in this range is inadequate.  The issue need not be
+resolved here; it is sufficient to note that courts must choose
+a rate high enough to compensate a creditor for its risk but
+not so high as to doom the bankruptcy plan. 
+Pp. 12—14.
+
+      Justice Thomas
+concluded that the proposed 9.5% rate will sufficiently
+compensate respondent for the fact that it is receiving monthly
+payments rather than a lump sum payment, but that 11 U.S.C. §
+1325(a)(5)(B)(ii) does not require that the proper interest
+rate reflect the risk of nonpayment.  Pp. 1—7.
+
+      (a) The
+plain language of §1325(a)(5)(B)(ii) requires a court to
+determine, first, the allowed amount of the claim; second, what
+is the property to be distributed under the plan; and third,
+the “value, as of the effective date of the plan” of
+the property to be distributed.  This third requirement, which
+is at issue here, incorporates the principle of the time value
+of money.  Section 1325(a)(5)(B)(ii) requires valuation of the
+property, not valuation of the plan.  Thus, a
+plan need only propose an interest rate that will compensate a
+creditor for the fact that had he received the property
+immediately rather than at a future date, he could have
+immediately made use of the property.  In most, if not all,
+cases, where the plan proposes simply a stream of cash
+payments, the appropriate risk-free rate should suffice.  There
+may be some risk of nonpayment, but §1325(a)(5)(B)(ii)
+does not take this risk into account.  Respondent’s
+argument that §1325(a)(5)(B)(ii) was crafted to protect
+creditors rather than debtors ignores the statute’s plain
+language and overlooks the fact that secured creditors are
+compensated in part for the nonpayment risk through the
+valuation of the secured claim.  Further, the statute’s
+plain language is by no means debtor protective.  Given the
+presence of multiple creditor-specific protections, it is not
+irrational to assume that Congress opted not to provide further
+protection for creditors by requiring a debtor-specific risk
+adjustment under §1325(a)(5).  Pp. 2—6.
+
+      (b) Here,
+the allowed amount of the secured claim is $4,000, and the
+property to be distributed under the plan is cash payments. 
+Because the proposed 9.5% interest rate is higher than the
+risk-free rate, it is sufficient to account for the time value
+of money, which is all the statute requires. 
+Pp. 6—7.
+
+    Stevens, J.,
+announced the judgment of the Court and delivered an opinion,
+in which Souter, Ginsburg, and Breyer, JJ., joined.  Thomas,
+J., filed an opinion concurring in the judgment.  Scalia, J.,
+filed a dissenting opinion, in which Rehnquist, C. J., and
+O’Connor and Kennedy, JJ., joined.

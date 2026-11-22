@@ -1,0 +1,62 @@
+{
+  "84": {
+    "file": "benjamin_v_fraser_merits_2004-05-20.md",
+    "sha256": "145cd9ed297d158e6565e329ff2e80a02cb36c67fdadcc530440d1ee74d52950",
+    "holdings_and_handoff_identity": true,
+    "explanation_words": [
+      171,
+      176,
+      117,
+      138,
+      191
+    ],
+    "eleven_blocks_names_links": true
+  },
+  "86": {
+    "file": "nelson_v_campbell_merits_2004-05-24.md",
+    "sha256": "f7b3bf750f8c89be4828606e19224b7b31e6a254bb37bd333e4b502bae86219c",
+    "holdings_and_handoff_identity": true,
+    "explanation_words": [
+      200,
+      127,
+      168,
+      159
+    ],
+    "eleven_blocks_names_links": true
+  },
+  "85": {
+    "file": "thornton_v_united_states_merits_2004-05-24.md",
+    "sha256": "9720791e1164c60cf1fee8b92f272219d0739e59c16493eaa623cda415e34370",
+    "holdings_and_handoff_identity": true,
+    "explanation_words": [
+      103,
+      242
+    ],
+    "eleven_blocks_names_links": true
+  },
+  "87": {
+    "file": "yarborough_v_alvarado_merits_2004-06-01.md",
+    "sha256": "7179b8760692fd41215fcd38771f0d6f43be0d46491f7bd8c855c5244f9a1201",
+    "holdings_and_handoff_identity": true,
+    "explanation_words": [
+      173,
+      212
+    ],
+    "eleven_blocks_names_links": true
+  },
+  "final_counts": {
+    "Stone-Zsela": 9,
+    "Stevens": 9,
+    "O'Connor": 10,
+    "Scalia": 9,
+    "Kennedy": 9,
+    "Souter": 10,
+    "Thomas": 9,
+    "Ginsburg": 9,
+    "Breyer": 9
+  },
+  "records": 88,
+  "counted_leads": 83,
+  "supersedes": "Current scope and public wording checks supersede OT_2003CHUNK6_C_FINAL_VALIDATION.json. Prior freezes, circulation receipts and original assignment snapshots are unchanged.",
+  "scope_check": "Thornton Marks-derived affirmative permission is confined to the shared secured-recent-occupant, lawful-arrest, contemporaneous passenger-compartment domain and its offense-evidence condition. Four broader categorical positions remain separate opinions, not extra express joins or new binding categorical authority. Independent automobile-probable-cause, inventory and Chimel grounds retain their own requirements. Benjamin, Nelson and Alvarado final circulation and presentation refinements remain unchanged."
+}

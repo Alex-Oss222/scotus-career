@@ -1,0 +1,224 @@
+Source: https://www.law.cornell.edu/supct/html/02-1657.ZS.html
+
+NOTE:  Where it is feasible, a
+syllabus (headnote) will be released, as is being done in
+connection with this case, at the time the opinion is
+issued.
+The syllabus constitutes no part of the opinion of
+the Court but has been prepared by the Reporter of Decisions
+for the convenience of the reader.
+See United States
+v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+SCARBOROUGH v. PRINCIPI, SECRETARY OF
+
+VETERANS AFFAIRS
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE FEDERAL CIRCUIT
+
+No. 02—1657. Argued February 23, 2004–Decided May 3,
+2004
+
+The Equal Access to Justice Act (EAJA)
+authorizes the payment of attorney’s fees to a prevailing
+party in an action against the United States absent a showing
+by the Government that its position in the underlying
+litigation “was substantially justified.”  28 U.S. C.
+§2412(d)(1)(A).  Section 2412(d)(1)(B) sets a deadline of
+30 days after final judgment for the filing of a fee
+application and directs that the application include: (1) a
+showing that the applicant is a “prevailing party”;
+(2) a showing that the applicant is “eligible to receive
+an award”; and (3) a statement of “the amount sought,
+including an itemized statement from any attorney …
+stating the actual time expended and the rate” charged. 
+Section 2412(d)(1)(B)’s second sentence further requires
+the applicant to “allege that the position of the United
+States was not substantially justified.”
+
+        Petitioner
+Scarborough prevailed before the Court of Appeals for Veterans
+Claims (CAVC) in an action for disability benefits against
+respondent Secretary of Veterans Affairs.  Scarborough’s
+counsel filed a timely application for attorney’s fees and
+costs pursuant to §2412(d), showing that Scarborough was
+the prevailing party in the underlying litigation and was
+eligible to receive an award.  Counsel also stated the total
+amount sought, and itemized hours and rates of work.  But
+counsel failed initially to allege, in addition, that “the
+position of the United States was not substantially
+justified.” §2412(d)(1)(B).  The Secretary moved to
+dismiss the application on the ground that the CAVC lacked
+subject-matter jurisdiction to award fees because
+Scarborough’s counsel had failed to make the required
+no-substantial-justification allegation.  Scarborough’s
+counsel immediately filed an amended application adding that
+allegation.  In the interim between the initial filing and the
+amendment, however, the 30-day fee application filing period
+had expired.  For that sole reason, the CAVC dismissed
+Scarborough’s fee application.
+
+        In affirming,
+the Federal Circuit initially held that EAJA plainly and
+unambiguously requires a party seeking fees under §2412(d)
+to submit an application, including all enumerated allegations,
+within the 30-day time limit.  This Court granted certiorari,
+vacated the judgment, and remanded the case in light of
+Edelman v. Lynchburg College, 535 U.S. 106.  In
+Edelman, the Court had upheld an Equal Employment
+Opportunity Commission (EEOC) regulation allowing amendment of
+an employment discrimination charge, timely filed under Title
+VII of the Civil Rights Act of 1964, to add, after the filing
+deadline, the required, but initially absent, verification. 
+Title VII, the Court explained, permitted “relation
+back” of a verification missing from an original filing. 
+Id., at 115—118.  On remand, the Federal Circuit
+adhered to its earlier decision, distinguishing Edelman
+on the ground that, in Title VII’s remedial scheme,
+laypersons often initiate the process, whereas EAJA is directed
+to attorneys.  The appeals court also observed that the timely
+filing and verification requirements at issue in Edelman
+appear in separate statutory provisions, while EAJA’s
+30-day filing deadline and the contents required for a fee
+application are detailed in the same statutory provision.  The
+Federal Circuit also distinguished the holding in Becker
+v. Montgomery, 532 U.S. 757, that a
+pro se litigant’s failure to hand sign a timely
+filed notice of appeal is a nonjurisdictional, and therefore
+curable, defect.  This Court had noted in Becker, the
+Federal Circuit pointed out, that the timing and signature
+requirements there at issue were found in separate rules.
+
+Held: A timely fee application,
+pursuant to §2412(d), may be amended after the 30-day
+filing period has run to cure an initial failure to allege that
+the Government’s position in the underlying litigation
+lacked substantial justification.  Thus, Scarborough’s fee
+application, as amended, qualifies for consideration and
+determination on the merits.  Pp. 9—20.
+
+    (a) Whether
+Scarborough is time barred by §2412(d)(1)(B) from gaining
+the fee award authorized by §2412(d)(1)(A) does not
+concern the federal courts’ “subject-matter
+jurisdiction.”  Rather, it concerns a mode of relief
+(costs including legal fees) ancillary to the judgment of a
+court that has plenary “jurisdiction of [the civil]
+action” in which the fee application is made.  See
+§§2412(b) and (d)(1)(A); 38 U.S. C. §7252(a). 
+More particularly, the current dispute presents a question of
+time.  The issue is not whether, but when,
+§§2412(d)(1)(A) and (B) require a fee applicant to
+“allege that the position of the United States was not
+substantially justified.”	Clarity would be facilitated if
+courts and litigants used the label “jurisdictional”
+not for such claim-processing rules, but only for prescriptions
+delineating the classes of cases (subject-matter jurisdiction)
+and the persons (personal jurisdiction) falling within a
+court’s adjudicatory authority.  Kontrick v.
+Ryan, 540 U.S.___ , ___ (slip op., at 10).  Section
+2412(d)(1)(B) does not describe what classes of cases the CAVC
+is competent to adjudicate, but relates only to postjudgment
+proceedings auxiliary to cases already within that court’s
+adjudicatory authority.  Pp. 9—11.
+
+      (b) Unlike
+the §2412(d)(1)(B) prescriptions on what the applicant
+must show (his “prevailing party” status,
+“eligib[ility] to receive an award,” and “the
+amount sought, including an itemized statement”), the
+required “not substantially justified” allegation
+imposes no proof burden on the fee applicant, but is simply an
+allegation or pleading requirement.  So understood, the
+applicant’s pleading burden is akin to
+Becker’s signature requirement and
+Edelman’s verification requirement.  Like those
+requirements, EAJA’s ten-word “not substantially
+justified” allegation is a “think twice”
+prescription that “stem[s] the urge to litigate
+irresponsibly,” Edelman, 535 U.S., at 116; at the
+same time, the allegation functions to shift the burden to the
+Government to prove that its position in the underlying
+litigation “was substantially justified,”
+§2412(d)(1)(A).  The allegation does not serve an
+essential notice-giving function; the Government is aware, from
+the moment a fee application is filed, that to defeat the
+application on the merits, it will have to prove its position
+“was substantially justified.”  A failure to make the
+allegation, therefore, should not be fatal where no genuine
+doubt exists about who is applying for fees, from what
+judgment, and to which court.  Becker, 532 U.S., at 767.
+ Moreover, because Scarborough’s lawyer’s statutory
+contingent fee would be reduced dollar for dollar by an EAJA
+award, see 38 U.S. C. §5904(d)(1); Fee Agreements, note
+following 28 U.S. C. §2412, allowing the curative
+amendment benefits the complainant directly, and is not fairly
+described as simply a boon for his counsel.
+
+      The Court rejects
+the Government’s assertion that the relation-back regime,
+as now codified in Federal Rule of Civil Procedure 15(c), is
+out of place in this context because that Rule governs
+“pleadings,” a term that does not encompass fee
+applications.  In Becker and Edelman, the Court
+approved application of the relation-back doctrine to a notice
+of appeal and an EEOC discrimination charge, neither of which
+is a “pleading” under the Federal Rules.  Moreover,
+“relation back” was not an invention of the federal
+rulemakers.  This Court applied the doctrine well before the
+Federal Rules became effective, see, e.g., New York
+Central & Hudson River R. Co. v. Kinney, 260 U.S. 340, 346. 
+Thus, the relation-back doctrine properly guides the
+Court’s determination here: The amended application
+“arose out of the conduct, transaction, or occurrence set
+forth or attempted to be set forth” in the initial
+application.  Fed. Rule Civ. Proc. 15(c)(2). 
+Pp. 11—16.
+
+      (c) The
+Court rejects the Government’s argument that
+§2412’s waiver of sovereign immunity from liability
+for fees is conditioned on the fee applicant’s meticulous
+compliance with each and every §2412(d)(1)(B) requirement
+within 30 days of final judgment, including the allegation that
+that the United States’ position “was not
+substantially justified.”	Irwin v. Department
+of Veterans Affairs, 498 U.S. 89, 95, and
+Franconia Associates v. United States, 536 U.S. 129,
+145–in which the Court recognized that limitation
+principles generally apply to the Government in the same way
+they apply to private parties–are enlightening on this
+issue.	The Government asserts unpersuasively that Irwin
+and Franconia do not bear on this case because
+§2412(d) authorizes fee awards against it under rules that
+have no analogue in private litigation.  Because many statutes
+that create claims for relief against the United States or its
+agencies apply only to Government defendants,
+Irwin’s reasoning would be diminished were it
+instructive only in situations with a readily identifiable
+private-litigation equivalent.	In any event, §2412(d) is
+analogous to federal “prevailing party” fee-shifting
+statutes that are applicable to suits between private
+litigants.  Finally, the Court’s conclusion will not
+expose the Government to any unfair imposition.  The Government
+has never argued that it will be prejudiced if
+Scarborough’s “not substantially justified”
+allegation is permitted to relate back to his timely filed fee
+application.  Moreover, a showing of prejudice should preclude
+operation of the relation-back doctrine in the first place. 
+EAJA itself also has a built-in check: Section 2412(d)(1)(A)
+disallows fees where “special circumstances make an award
+unjust.”  Pp. 17—20.
+
+319 F.3d 1346, reversed and remanded.
+
+    Ginsburg, J.,
+delivered the opinion of the Court, in which Rehnquist,
+C. J., and Stevens, O’Connor, Kennedy, Souter, and
+Breyer, JJ., joined.  Thomas, J., filed a dissenting opinion,
+in which Scalia, J., joined.

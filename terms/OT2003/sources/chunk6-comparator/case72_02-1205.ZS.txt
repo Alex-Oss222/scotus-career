@@ -1,0 +1,120 @@
+Source: https://www.law.cornell.edu/supct/html/02-1205.ZS.html
+
+NOTE:  Where it is feasible, a
+syllabus (headnote) will be released, as is being done in
+connection with this case, at the time the opinion is
+issued.
+The syllabus constitutes no part of the opinion of
+the Court but has been prepared by the Reporter of Decisions
+for the convenience of the reader.
+See United States
+v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+JONES et al. on behalf of herself and a
+class of others similarly situated v. R. R.
+DONNELLEY 
+& SONS CO.
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE SEVENTH CIRCUIT
+
+No. 02—1205. Argued February 24, 2004–Decided May 3,
+2004
+
+After this Court held that federal courts
+should apply the most appropriate state statute of limitations
+to claims arising under 42 U.S.C. §
+1981 which contains no statute of limitations, see
+Goodman v. Lukens Steel Co., 482 U.S. 656, 660,
+Congress enacted a 4-year statute of limitations for causes of
+action “arising under an Act of Congress enacted after
+[December 1, 1990],” 28 U.S.C. §
+1658(a).  Petitioners, African-American former employees of
+respondent, filed a class action alleging violations of
+§1981, as amended by the Civil Rights Act of 1991. 
+Respondent sought summary judgment, claiming that the
+applicable state 2-year statute of limitations barred their
+claims, but the District Court held that petitioners’
+wrongful discharge, refusal to transfer, and hostile work
+environment claims arose under the 1991 Act and therefore are
+governed by §1658.  The Seventh Circuit reversed,
+concluding that §1658 does not apply to a cause of action
+based on a post-1990 amendment to a pre-existing statute.
+
+Held: Petitioners’ causes of
+action are governed by §1658.  Pp. 5—15.
+
+    (a) Because the
+meaning of “arising under” in §1658 is
+ambiguous, Congress’ intent must be ascertained by looking
+beyond the section’s bare text to the context in which it
+was enacted and the purposes it was designed to accomplish. 
+Pp. 5—7.
+
+      (b) Before
+§1658’s enactment, Congress’ failure to pass a
+uniform limitations statute for federal causes of action had
+created a void that spawned a vast amount of litigation.  The
+settled practice of borrowing state statutes of limitations
+generated a host of issues, such as which of the forum
+State’s statutes was the most appropriate, whether the
+forum State’s law or that of the situs of the injury
+controlled, and when a statute of limitations could be tolled. 
+Congress was keenly aware of these problems, and a central
+purpose of §1658 was to minimize the need for borrowing. 
+That purpose would not be served if §1658 were interpreted
+to reach only entirely new sections of the United States Code. 
+An amendment to an existing statute is no less an “Act of
+Congress” than a new, stand-alone statute.  What matters
+is the new rights of action and corresponding liabilities
+created by the enactment.  Thus, a cause of action
+“aris[es] under an Act of Congress enacted” after
+December 1, 1990–and therefore is governed by
+§1658’s 4-year statute of limitations–if the
+plaintiff’s claim against the defendant was made possible
+by a post-1990 enactment.  This construction best serves
+Congress’ interest in alleviating the uncertainty inherent
+in the practice of borrowing state statutes of limitations,
+while protecting litigants’ settled expectations by
+applying only to causes of actions not available until after
+December 1, 1990.  It also is consistent with the common usage
+of “arise” and with this Court’s interpretations
+of “arising under” as it is used in statutes
+governing the scope of federal subject-matter jurisdiction. 
+Pp. 7—13.
+
+    (c) Petitioners’ hostile work
+environment, wrongful termination, and failure-to-transfer
+claims all “ar[rose] under” the 1991 Act in the sense
+that they were made possible by that Act.  The 1991 Act
+overturned this Court’s decision in Patterson v.
+McLean Credit Union, 491 U.S. 164, 171,
+which held that racial harassment relating to employment
+conditions was not actionable under §1981.  The Act
+redefined §1981’s key “make and enforce
+contracts” language to include the “termination of
+contracts and the enjoyment of all benefits, privileges, terms,
+and conditions of the contractual relationship,”
+§1981(b).	In Rivers v. Roadway Express,
+Inc., 511 U.S.
+298, this Court held that the amendment enlarged the
+category of conduct subject to §1981 liability,
+id., at 303, and thus did not apply to a case that arose
+before it was enacted, id., at 300.  Rivers’
+reasoning supports the conclusion that the 1991 Act
+qualifies as an “Act of Congress enacted after [December
+1, 1990].”  Petitioners’ causes of action clearly
+arose under the 1991 Act, and the hypothetical problems posited
+by respondent and the Seventh Circuit pale in comparison with
+the difficulties that federal courts faced for decades in
+trying to answer questions raised by borrowing state
+limitations rules.  Pp. 13—15.
+
+305 F.3d 717, reversed and remanded.
+
+    Stevens, J.,
+delivered the opinion for a unanimous Court.

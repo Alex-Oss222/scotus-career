@@ -1,0 +1,149 @@
+Source: https://www.law.cornell.edu/supct/html/02-1606.ZS.html
+
+NOTE:  Where it is feasible, a
+syllabus (headnote) will be released, as is being done in
+connection with this case, at the time the opinion is
+issued.
+The syllabus constitutes no part of the opinion of
+the Court but has been prepared by the Reporter of Decisions
+for the convenience of the reader.
+See United States
+v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+TENNESSEE STUDENT ASSISTANCE CORPORATION
+v. HOOD
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE SIXTH CIRCUIT
+
+No. 02—1606. Argued March 1, 2004–Decided May 17,
+2004
+
+Respondent Hood had an outstanding balance on
+student loans guaranteed by petitioner Tennessee Student
+Assistance Corporation (TSAC), a state entity, at the time she
+filed a Chapter 7 bankruptcy petition.	Hood’s general
+discharge did not cover her student loans, as she did not list
+them and they are only dischargeable if a bankruptcy court
+determines that excepting the debt from the order would be an
+“undue hardship” on the debtor, 11 U.S.C. §
+523(a)(8).	Hood subsequently reopened the petition,
+seeking an “undue hardship” determination.  As
+prescribed by Federal Rules of Bankruptcy Procedure 7001(6),
+7003, and 7004, she filed a complaint and, later, an amended
+complaint, and served them with a summons on TSAC and others. 
+The Bankruptcy Court denied TSAC’s motion to dismiss the
+complaint for lack of jurisdiction, holding that 11 U.S.C. §
+106(a) abrogated the State’s Eleventh Amendment
+sovereign immunity.  The Sixth Circuit Bankruptcy Appellate
+Panel affirmed, as did the Sixth Circuit, which held that the
+Bankruptcy Clause gave Congress the authority to abrogate state
+sovereign immunity in §106(a).  This Court granted
+certiorari to determine whether the Bankruptcy Clause grants
+Congress such authority. 
+
+Held: Because the Bankruptcy
+Court’s discharge of a student loan debt does not
+implicate a State’s Eleventh Amendment
+immunity, this Court does not reach the question on which
+certiorari was granted.  Pp. 4—13.
+
+    (a) States may
+be bound by some judicial actions without their consent.  For
+example, the Eleventh Amendment
+does not bar federal jurisdiction over in rem admiralty
+actions when the State does not possess the res. 
+California v. Deep Sea Research, Inc., 523 U.S. 491,
+507—
+508.  A debt’s discharge by a bankruptcy
+court is similarly an in rem proceeding.  The court has
+exclusive jurisdiction over a debtor’s property, wherever
+located, and over the estate.  Once debts are discharged, a
+creditor who did not submit a proof of claim will be unable to
+collect on his unsecured loans.  A bankruptcy court is able to
+provide the debtor a fresh start, even if all of his creditors
+do not participate, because the court’s jurisdiction is
+premised on the debtor and his estate, not on the creditors. 
+Because the court’s jurisdiction is premised on the res,
+however, a nonparticipating creditor cannot be personally
+liable.  States, whether or not they choose to participate in
+the proceeding, are bound by a bankruptcy court’s
+discharge order no less than other creditors, see, e.g.,
+New York v. Irving Trust Co., 288 U.S. 329, 333. 
+And when the bankruptcy court’s jurisdiction over the res
+is unquestioned, the exercise of its in rem jurisdiction
+to discharge the debt does not infringe a State’s
+sovereignty.  TSAC argues, however, that the individualized
+process by which student loan debts are discharged
+unconstitutionally infringes its sovereignty.  If a debtor does
+not affirmatively secure §523(a)(8)’s “undue
+hardship” determination, States choosing not to submit
+themselves to the court’s jurisdiction might receive some
+benefit: The debtor’s personal liability on the loan may
+survive the discharge.	TSAC misunderstands the
+proceeding’s fundamental nature when it claims that
+Congress, by making a student loan debt presumptively
+nondischargeable and singling it out for an individualized
+determination, has authorized a suit against a State.  The
+bankruptcy court’s jurisdiction is premised on the res,
+not the persona; that States were granted the presumptive
+benefit of nondischargeability does not alter the court’s
+underlying authority.  A debtor does not seek damages or
+affirmative relief from a State or subject an unwilling State
+to a coercive judicial process by seeking to discharge his
+debts.	Indeed, this Court has endorsed individual
+determinations of States’ interests within the federal
+courts’ in rem jurisdiction, e.g., Deep Sea
+Research, supra.  Although bankruptcy and admiralty are
+specialized areas of the law, there is no reason why the
+exercise of federal courts’ in rem bankruptcy
+jurisdiction is more threatening to state sovereignty than the
+exercise of their in rem admiralty jurisdiction.  Pp.
+4—9.
+
+      (b) With
+regard to the procedure used in this case, the Bankruptcy Rules
+require a debtor to file an adversary proceeding against the
+State to discharge student loan debts.	While this is part of
+the original bankruptcy case and within the bankruptcy
+court’s in rem jurisdiction, it requires the
+service of a summons and a complaint, see Rules 7001(6), 7003,
+and 7004.  The issuance of process is normally an indignity to
+a State’s sovereignty, because its purpose is to establish
+personal jurisdiction; but the court’s in rem
+jurisdiction allows it to adjudicate the debtors’
+discharge claim without in personam jurisdiction over
+the State.  Section 523(a)(8) does not require a summons, and
+absent Rule 7001(6) a debtor could proceed by motion, which
+would raise no constitutional concern.	There is no reason why
+service of a summons, which in this case is indistinguishable
+in practical effect from a motion, should be given dispositive
+weight.  Dismissal of the complaint is not appropriate here
+where the court has in rem jurisdiction and has not
+attempted to adjudicate any claims outside of that
+jurisdiction.  This case is unlike an adversary proceeding by a
+bankruptcy trustee seeking to recover property in the
+State’s hands on the grounds that the transfer was a
+voidable preference.  Even if this Court were to hold that
+Congress lacked the ability to abrogate state sovereign
+immunity under the Bankruptcy Clause, the Bankruptcy Court
+would still have authority to make the undue hardship
+determination Hood seeks.  Thus, this Court declines to decide
+whether a bankruptcy court’s exercise of personal
+jurisdiction over a State would be valid under the Eleventh Amendment.
+ If the Bankruptcy Court on remand exceeds its in rem
+jurisdiction, TSAC would be free to challenge the court’s
+authority.  Pp. 10—13.
+
+319 F.3d 755, affirmed and remanded.
+
+    Rehnquist,
+C. J., delivered the opinion of the Court, in which
+Stevens, O’Connor, Kennedy, Souter, Ginsburg, and Breyer,
+JJ., joined.  Souter, J., filed a concurring opinion, in which
+Ginsburg, J., joined.  Thomas, J., filed a dissenting opinion,
+in which Scalia, J., joined.

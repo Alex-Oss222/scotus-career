@@ -1,0 +1,136 @@
+Source: https://www.law.cornell.edu/supct/html/03-44.ZS.html
+
+NOTE:  Where it is feasible, a
+syllabus (headnote) will be released, as is being done in
+connection with this case, at the time the opinion is
+issued.
+The syllabus constitutes no part of the opinion of
+the Court but has been prepared by the Reporter of Decisions
+for the convenience of the reader.
+See United States
+v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+SABRI v. UNITED STATES
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE EIGHTH CIRCUIT
+
+No. 03—44. 
+Argued March 3, 2004–Decided May 17, 2004
+
+After petitioner Sabri offered three separate
+bribes to a Minneapolis councilman to facilitate construction
+in the city, Sabri was charged with violating 18 U.S.C. §
+666(a)(2), which proscribes bribery of state and local
+officials of entities, such as Minneapolis, that receive at
+least $10,000 in federal funds.  Before trial, Sabri moved to
+dismiss the indictment on the ground that §666(a)(2) is
+unconstitutional on its face for failure to require proof of a
+connection between the federal funds and the alleged bribe, as
+an element of liability.  The District Court agreed, but the
+Eighth Circuit reversed, holding that the absence of such an
+express requirement was not fatal, and that the statute was
+constitutional under the Constitution’s Necessary and
+Proper Clause in serving the objects of the congressional
+spending power.
+
+Held: Section 666(a)(2) is a
+valid exercise of Congress’s Article I authority. 
+Pp. 3—9.
+
+    (a) Sabri’s
+“facial” challenge that §666(a)(2) must, as an
+element of the offense, require proof of connection with
+federal money is readily rejected.  This Court does not presume
+the unconstitutionality of all federal criminal statutes from
+the absence of an explicit jurisdictional hook, and there is no
+occasion even to consider the need for such a requirement where
+there is no reason to suspect that enforcing a criminal statute
+would extend beyond a legitimate interest cognizable under
+Article I, §8.  Congress has Spending Clause authority to
+appropriate federal moneys to promote the general welfare,
+Art. I, §8, cl. 1, and corresponding Necessary
+and Proper Clause authority, Art. I, §8, cl. 18,
+to assure that taxpayer dollars appropriated under that power
+are in fact spent for the general welfare, rather than
+frittered away in graft or upon projects undermined by graft. 
+See, e.g., McCulloch v. Maryland, 4 Wheat. 316. 
+Congress does not have to accept the risk of getting poor
+performance for its money, owing to local and state
+administrators’ improbity.  See, e.g., id.,
+at 417.  Section 666(a)(2) addresses the problem at the
+sources of bribes, by rational means, to safeguard the
+integrity of federal dollar recipients.  Although not every
+bribe offered or paid to covered government agents will be
+traceably skimmed from specific federal payments, or be found
+in the guise of a quid pro quo for some dereliction in
+spending a federal grant, these facts do not portend
+enforcement beyond the scope of federal interest, for the
+simple reason that corruption need not be so limited in order
+to affect that interest.  Money is fungible, bribed officials
+are untrustworthy stewards of federal funds, and corrupt
+contractors do not deliver dollar-for-dollar value.  It is
+enough that the statute condition the offense on a threshold
+amount of federal dollars to the government such as that
+provided here and a bribe that goes well beyond liquor and
+cigars.  The legislative history confirms that §666(a)(2)
+is an instance of necessary and proper legislation.  Neither of
+Sabri’s arguments against §666(a)(2)’s
+constitutionality helps him.  First, his claim that §666
+is of a piece with the legislation ruled unconstitutional in
+United States v. Lopez, 514 U.S. 549, and
+United States v. Morrison, 529 U.S. 598, is
+unavailing because these precedents do not control here.  In
+them, the Court struck down federal statutes regulating gun
+possession near schools and gender-motivated violence,
+respectively, because it found the effects of those activities
+on interstate commerce insufficiently robust.  Here, in
+contrast, Congress was within its prerogative to ensure that
+the objects of spending are not menaced by local administrators
+on the take.  Cf. Lopez, supra, at 561.	Second,
+contrary to Sabri’s argument, §666(a)(2) is not an
+unduly coercive, and impermissibly sweeping, condition on the
+grant of federal funds, but is authority to bring federal power
+to bear directly on individuals who convert public spending
+into unearned private gain.  South Dakota v.
+Dole, 483 U.S.
+203, distinguished.  Pp. 3—7.
+
+      (b) The
+Court disapproves Sabri’s technique for challenging his
+indictment by facial attack on the underlying statute.	If
+Sabri was making any substantive constitutional claim, it had
+to be seen as an overbreadth challenge; the most he could
+seriously say was that the statute could not be enforced
+against him, because it could not be enforced against someone
+else whose behavior would be outside the scope of
+Congress’s Article I authority to legislate.  Facial
+challenges of this sort are to be discouraged because they
+invite judgments on fact-poor records and entail a departure
+from the norms of federal-court adjudication by calling for
+relaxation of familiar standing requirements to allow a
+determination that the law would be unconstitutionally applied
+to different parties and different circumstances from those at
+hand.  See, e.g., Chicago v. Morales, 527 U.S. 41,
+55—56, n. 22.  Thus, the Court has recognized the
+validity of facial attacks alleging overbreadth (though not
+necessarily using that term) in relatively few settings, and,
+generally, only on the strength of a specific reason, such as
+free speech, that is weighty enough to overcome the
+Court’s well-founded reticence.  See, e.g.,
+Broadrick v. Oklahoma, 413 U.S. 601. 
+Pp. 8—9.
+
+326 F.3d 937, affirmed and remanded.
+
+    Souter, J., delivered
+the opinion of the Court, in which Rehnquist, C. J., and
+Stevens, O’Connor, Ginsburg, and Breyer, JJ., joined, and
+in which Kennedy and Scalia, JJ., joined as to all but Part
+III.  Kennedy, J., filed an opinion concurring in part, in
+which Scalia, J., joined.  Thomas, J., filed an opinion
+concurring in the judgment.

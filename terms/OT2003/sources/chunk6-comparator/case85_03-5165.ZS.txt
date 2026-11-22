@@ -1,0 +1,98 @@
+Source: https://www.law.cornell.edu/supct/html/03-5165.ZS.html
+
+NOTE:  Where it is feasible, a
+syllabus (headnote) will be released, as is being done in
+connection with this case, at the time the opinion is
+issued.
+The syllabus constitutes no part of the opinion of
+the Court but has been prepared by the Reporter of Decisions
+for the convenience of the reader.
+See United States
+v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+THORNTON v. UNITED STATES
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE FOURTH CIRCUIT
+
+No. 03—5165. Argued March 31, 2004–Decided May 24,
+2004
+
+Before Officer Nichols could pull over
+petitioner, petitioner parked and got out of his car.  Nichols
+then parked, accosted petitioner, and arrested him after
+finding drugs in his pocket.  Incident to the arrest, Nichols
+searched petitioner’s car and found a handgun under the
+driver’s seat.  Petitioner was charged with federal drug
+and firearms violations.  In denying his motion to suppress the
+firearm as the fruit of an unconstitutional search, the
+District Court found, inter alia, the automobile search
+valid under New York v. Belton, 453 U.S. 454, in
+which this Court held that, when a police officer makes a
+lawful custodial arrest of an automobile’s occupant, the
+Fourth Amendment
+allows the officer to search the vehicle’s passenger
+compartment as a contemporaneous incident of arrest,
+id., at 460.  Petitioner appealed his conviction,
+arguing that Belton was limited to situations where the
+officer initiated contact with an arrestee while he was still
+in the car.  The Fourth Circuit affirmed.
+
+Held: Belton governs even
+when an officer does not make contact until the person arrested
+has left the vehicle.  In Belton, the Court placed no
+reliance on the fact that the officer ordered the occupants out
+of the vehicle, or initiated contact with them while they
+remained within it.  And here, there is simply no basis to
+conclude that the span of the area generally within the
+arrestee’s immediate control is determined by whether the
+arrestee exited the vehicle at the officer’s direction, or
+whether the officer initiated contact with him while he was in
+the car.  In all relevant aspects, the arrest of a suspect who
+is next to a vehicle presents identical concerns regarding
+officer safety and evidence destruction as one who is inside. 
+Under petitioner’s proposed “contact initiation”
+rule, officers who decide that it may be safer and more
+effective to conceal their presence until a suspect has left
+his car would be unable to search the passenger compartment in
+the event of a custodial arrest, potentially compromising their
+safety and placing incriminating evidence at risk of
+concealment or destruction.  The Fourth Amendment
+does not require such a gamble.  Belton allows police to
+search a car’s passenger compartment incident to a lawful
+arrest of both “occupants” and “recent
+occupants.”  Ibid.	While an arrestee’s status
+as a “recent occupant” may turn on his temporal or
+spatial relationship to the car at the time of the arrest and
+search, it certainly does not turn on whether he was inside or
+outside the car when the officer first initiated contact with
+him.  Although not all contraband in the passenger compartment
+is likely to be accessible to a “recent occupant,”
+the need for a clear rule, readily understood by police and not
+depending on differing estimates of what items were or were not
+within an arrestee’s reach at any particular moment,
+justifies the sort of generalization which Belton
+enunciated.  Under petitioner’s rule, an officer would
+have to determine whether he actually confronted or signaled
+confrontation with the suspect while he was in his car, or
+whether the suspect exited the car unaware of, and for reasons
+unrelated to, the officer’s presence.  Such a rule would
+be inherently subjective and highly fact specific, and would
+require precisely the sort of ad hoc determinations on the
+part of officers in the field and reviewing courts that
+Belton sought to avoid.	Pp. 4—8.
+
+325 F.3d 189, affirmed.
+
+    Rehnquist,
+C. J., delivered the opinion of the Court except as to
+footnote 4.  Kennedy, Thomas, and Breyer, JJ., joined that
+opinion in full, and O’Connor, J., joined as to all but
+footnote 4.  O’Connor, J., filed an opinion concurring in
+part.  Scalia, J., filed an opinion concurring in the judgment,
+in which Ginsburg, J., joined.	Stevens, J., filed a dissenting
+opinion, in which Souter, J., joined.

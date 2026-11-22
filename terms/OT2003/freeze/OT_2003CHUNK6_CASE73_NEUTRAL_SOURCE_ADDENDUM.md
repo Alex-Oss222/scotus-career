@@ -1,0 +1,5 @@
+# Case 73: controlled objective-record supplement
+
+Control extracted objective record facts from a published primary opinion. Historical Supreme Court outcomes, votes, reasons and orders are excluded. These facts require fresh neutral validation; allegations remain allegations. Research cutoff is the scheduled event date.
+
+Source: https://www.law.cornell.edu/supct/html/02-1824.ZO.html, factual Part I only. The state habeas court rejected the sufficiency claim on procedural grounds and separately rejected the related ineffective-assistance claim in a brief merits statement. The August 2000 federal petition renewed both claims. The magistrate judge and district court did not address the ineffective-assistance claims because they granted relief on the enhancement claim. The district court ordered resentencing without the improper enhancement. The Fifth Circuit affirmed, limiting its gateway to career-offender or habitual-offender eligibility and treating the sufficiency claim as cognizable under Jackson v. Virginia. No current custody fact or new state resentencing event is established beyond the supplied brief.

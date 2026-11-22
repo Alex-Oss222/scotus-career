@@ -1,0 +1,24 @@
+[
+  {
+    "case": 80,
+    "record": "Till_v_SCS_Credit_Corporation_merits_2004-05-17.md",
+    "record_before_sha256": "2db83c3a618145ebd56823e53f8573f609aed0b840ba77f23bbab4ee9a98fef1",
+    "record_after_sha256": "ee4446164165c7fe8b159e65175b4ff8545aedf302547796551f2b71ee0b31da",
+    "assignment_sha256": "cb91f65f6ce5340d85bdd8029fe7a64abb7dafca5b4ac368995c731cdc54befb",
+    "author": "Breyer",
+    "judgment": "6-3",
+    "new_express_associate_joins": 4,
+    "checks": "passed"
+  },
+  {
+    "case": 81,
+    "record": "Tennessee_v_Lane_merits_2004-05-17.md",
+    "record_before_sha256": "474a2cdbd8fa7a5af6def72aa34d04f05413a62e2e7f7882efdb9991a1867831",
+    "record_after_sha256": "6fd6b1bcaec47a227a3daabf84c53f6f4d9965aec439a6d5ead0952e0a0dd490",
+    "assignment_sha256": "4e1df2392e7c0cbe4c716e01f396ebace815d566ed8737021f4e98415781672e",
+    "author": "Stevens",
+    "judgment": "7-2",
+    "new_express_associate_joins": 6,
+    "checks": "passed"
+  }
+]

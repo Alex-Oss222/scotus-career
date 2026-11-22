@@ -1,0 +1,208 @@
+Source: https://www.law.cornell.edu/supct/html/02-1684.ZS.html
+
+YARBOROUGH V. ALVARADO
+
+LII
+
+Supreme Court
+
+YARBOROUGH V. ALVARADO (02-1684) 
+316 F.3d 841, reversed.
+Syllabus
+ Opinion
+ [ Kennedy ]Concurrence
+ [ O’Connor ]Dissent
+ [ Breyer ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a
+syllabus (headnote) will be released, as is being done in
+connection with this case, at the time the opinion is
+issued.
+The syllabus constitutes no part of the opinion of
+the Court but has been prepared by the Reporter of Decisions
+for the convenience of the reader.
+See United States
+v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+YARBOROUGH, WARDEN v. ALVARADO
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE NINTH CIRCUIT
+
+No. 02—1684. Argued March 1, 2004–Decided June 1,
+2004
+
+Respondent Alvarado helped Paul Soto try to
+steal a truck, leading to the death of the truck’s owner. 
+Alvarado was called in for an interview with Los Angeles
+detective Comstock.  Alvarado was 17 years old at the time, and
+his parents brought him to the station and waited in the lobby
+during the interview.  Comstock took Alvarado to a small room
+where only the two of them were present.  The interview lasted
+about two hours, and Alvarado was not given a warning under
+Miranda v. Arizona, 334 U.S. 436. 
+Although he at first denied being present at the shooting,
+Alvarado slowly began to change his story, finally admitting
+that he had helped Soto try to steal the victim’s truck
+and to hide the gun after the murder.  Comstock twice asked
+Alvarado if he needed a break and, when the interview was over,
+returned him to his parents, who drove him home.  After
+California charged Alvarado with murder and attempted robbery,
+the trial court denied his motion to suppress his interview
+statements on Miranda grounds.  In affirming
+Alvarado’s conviction, the District Court of Appeal
+(hereinafter state court) ruled that a Miranda warning
+was not required because Alvarado had not been in custody
+during the interview under the test articulated in
+Thompson v. Keohane, 516 U.S. 99, 112,
+which requires a court to consider the circumstances
+surrounding the interrogation and then determine whether a
+reasonable person would have felt at liberty to leave.	The
+Federal District Court agreed with the state court on habeas
+review, but the Ninth Circuit reversed, holding that the state
+court erred in failing to account for Alvarado’s youth and
+inexperience when evaluating whether a reasonable person in his
+position would have felt free to leave the interview.  Noting
+that this Court has considered a suspect’s juvenile status
+in other criminal law contexts, see, e.g., Haley
+v. Ohio, 332
+U.S. 596, 599, the Court of Appeals held that the state
+court’s error warranted habeas relief under the
+Antiterrorism and Effective Death Penalty Act of 1996 (AEDPA)
+because it “resulted in a decision that … involved an
+unreasonable application of … clearly established Federal
+law, as determined by [this] Court,” 28 U.S.C. §
+2254(d)(1).  
+
+Held: The state court considered
+the proper factors and reached a reasonable conclusion that
+Alvarado was not in custody for Miranda purposes during
+his police interview.  Pp. 7—15.
+
+    (a) AEDPA
+requires federal courts to consider whether the state-court
+decision involved an unreasonable application of clearly
+established law.  Clearly established law “refers to the
+holdings, as opposed to the dicta, of this Court’s
+decisions as of the time of the relevant state-court
+decision.”  Williams v. Taylor, 529 U.S. 362, 412. 
+The Miranda custody test is an objective test.  Two
+discrete inquiries are essential: (1) the circumstances
+surrounding the interrogation, and (2) given those
+circumstances, whether a reasonable person would have felt free
+to terminate the interrogation and leave.  “Once the
+… players’ lines and actions are reconstructed, the
+court must apply an objective test to resolve the ultimate
+inquiry: was there a formal arrest or restraint on freedom of
+movement of the degree associated with a formal arrest.” 
+Thompson, 516 U.S., at 112.  Pp. 7—9.
+
+      (b) The
+state-court adjudication did not involve an unreasonable
+application of clearly established law when it concluded that
+Alvarado was not in custody.  The meaning of
+“unreasonable” can depend in part on the specificity
+of the relevant legal rule.  If a rule is specific, the range
+of reasonable judgment may be narrow.  Applications of the rule
+may be plainly correct or incorrect.  Other rules are more
+general, and their meaning must emerge in application over
+time.  The more general the rule, the more leeway courts have
+in reaching outcomes in case by case determinations.  Cf.
+Wright v. West, 505 U.S. 277,
+308—309.  Fair-minded jurists could disagree over whether
+Alvarado was in custody.  The custody test is general, and the
+state court’s application of this Court’s law fits
+within the matrix of the Court’s prior decisions.	Certain
+facts weigh against a finding that Alvarado was in custody. 
+The police did not transport him to the station or require him
+to appear at a particular time, cf. Oregon v.
+Mathiason, 429
+U.S. 492, 495; they did not threaten him or suggest he
+would be placed under arrest, ibid.; his parents
+remained in the lobby during the interview, suggesting that the
+interview would be brief, see Berkemer v.
+McCarty, 468
+U.S. 420, 441—442; Comstock appealed to
+Alvarado’s interest in telling the truth and being helpful
+to a police officer, cf. Mathiason, 429 U.S., at 495;
+Comstock twice asked Alvarado if he wanted to take a break;
+and, at the end of the interview, Alvarado went home,
+ibid.  Other facts point in the opposite direction. 
+Comstock interviewed Alvarado at the police station; the
+interview lasted 4 times longer than the 30-minute interview in
+Mathiason; Comstock did not tell Alvarado that he was
+free to leave; he was brought to the station by his legal
+guardians rather than arriving on his own accord; and his
+parents allegedly asked to be present at the interview but were
+rebuffed.  Given these differing indications, the state
+court’s application of this Court’s custody standard
+was reasonable.  Indeed, a number of the facts echo those in
+Mathiason, a per curiam summary reversal in which
+we found it clear that the suspect was not in custody. 
+Pp. 9—12.
+
+      (c) The
+state court’s failure to consider Alvarado’s age and
+inexperience does not provide a proper basis for finding that
+the state court’s decision was an unreasonable application
+of clearly established law.  The Court’s opinions applying
+the Miranda custody test have not mentioned the
+suspect’s age, much less mandated its consideration.  The
+only indications in those opinions relevant to a suspect’s
+experience with law enforcement have rejected reliance on such
+factors.  See, e.g., Berkemer, supra, at 442,
+n. 35, 430—432.  It was therefore improper for the
+Court of Appeals to grant relief on the basis of the state
+court’s failure to consider them.	There is an important
+conceptual difference between the Miranda test and the
+line of cases from other contexts considering age and
+experience.  The Miranda custody inquiry is an objective
+test, see Thompson, supra, at 112, that furthers
+“the clarity of [Miranda’s] rule,” Berkemer,
+468 U.S., at 430, ensuring that the police need not
+“gues[s] as to [the circumstances] at issue before
+deciding how they may interrogate the suspect,”
+id., at 431.  This objective inquiry could reasonably be
+viewed as different from doctrinal tests that depend on the
+actual mindset of a particular suspect, where the Court does
+consider a suspect’s age and experience.  In concluding
+that such factors should also apply to the Miranda
+custody inquiry, the Ninth Circuit ignored the argument
+that that inquiry states an objective rule designed to give
+clear guidance to the police, while consideration of a
+suspect’s individual characteristics–including his
+age–could be viewed as creating a subjective inquiry, cf.
+Mathiason, supra, at 495—496.  Reliance on
+Alvarado’s prior history with law enforcement was improper
+not only under §2254(d)(1)’s deferential standard,
+but also as a de novo matter.  In most cases, the police
+will not know a suspect’s interrogation history.  See
+Berkemer, supra, at 430—431.  Even if they do, the
+relationship between a suspect’s experiences and the
+likelihood a reasonable person with that experience would feel
+free to leave often will be speculative.  Officers should not
+be asked to consider these contingent psychological factors
+when deciding when suspects should be advised of Miranda
+rights.  See Berkemer, supra, at 431—432. 
+Pp. 12—15.
+
+316 F.3d 841, reversed.
+
+    Kennedy, J.,
+delivered the opinion of the Court, in which Rehnquist,
+C. J., and  O’Connor, Scalia, and Thomas, JJ.,
+joined.  O’Connor, J., filed a concurring opinion. 
+Breyer, J., filed a dissenting opinion, in which Stevens,
+Souter, and Ginsburg, JJ., joined.

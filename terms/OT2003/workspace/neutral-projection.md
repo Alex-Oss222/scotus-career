@@ -834,6 +834,206 @@ Upon a proved violation, the State receives the first opportunity to correct the
 
 Complete public rules, qualifications, proposition-level joins and remedy: [Public decision](../runtime/OT_2003CHUNK5_Martinez_v_Bush_merits_2004-04-29_PUBLIC.md).
 
+### Dretke v. Haley, No. 02-1824; 541 U.S. 386 — 2004-05-03
+
+Procedural default may now be excused by clear-and-convincing factual ineligibility for a statutory noncapital recidivist enhancement. That rule governs Haley’s constitutional review and comparable eligibility claims, while ordinary discretionary sentencing objections remain outside it. Constitutional entitlement, applicable collateral restrictions and an operative custody remedy require their own adjudication. The Thompson application to this enhancement remains without a majority resolution; the case returns under the Court’s gateway ruling.
+
+Published separate positions:
+
+**O’Connor, joined by Scalia, Thomas and Breyer, concurring in part and dissenting in part.** These Justices join Part II’s independent-constitutional-adjudication ground and vacatur. The separately pleaded assistance claim offers an ordinary constitutional route to the complete requested sentence remedy. They would require prompt adjudication of that claim under its actual section 2254(d) conditions and Strickland before addressing the extension of the innocence gateway and Thompson’s application to this noncapital enhancement. Edwards preserves assistance’s separate conditions; the permissible sequencing recognized in Lambrix and Trest permits that case-specific course. They acknowledge the force of the admitted chronology and the earlier no-evidence argument. Their position preserves those routes if assistance does not resolve the request and makes no categorical rule against a noncapital gateway. They would leave the gateway question open now and therefore do not join Part I.
+
+**Stevens, joined by Kennedy, Souter and Ginsburg, concurring in part and dissenting in part.** These Justices join the confined gateway and conclude that Haley also establishes an independent constitutional violation. Thompson v. Louisville protects against punishment with no evidentiary foundation; Jackson v. Virginia distinguishes that earlier anti-arbitrariness protection from its broader reasonable-doubt sufficiency inquiry. The admitted chronology affirmatively disproves the indispensable status authorizing additional custody. Applying the earlier no-evidence rule to that predicate, in their view, requires neither a general federal remedy for state sentencing error nor retrospective application of Gatewood’s jury-and-proof rule. Because that independent ground already establishes sentence relief, another open-ended merits remand needlessly postpones the remedy. They would affirm the conditional sentence writ and return solely for a concrete lawful-sentence or custody-termination order, with present custody and service actually determined. Kennedy joins this full constitutional analysis; no additional distinct writing is needed to repeat the same obligation to correct unsupported punishment.
+
+Public procedure: On mandate, the district court must obtain the current custody and sentencing information and adjudicate the preserved assistance and properly reached sufficiency grounds on a priority schedule. The assistance inquiry must use the actual state merits date for section 2254(d), then determine performance and prejudice under Strickland. The separate sufficiency claim receives constitutional review with its default excused and every independently applicable collateral condition observed. One properly adjudicated route supplying the complete sentence remedy can make further adjudication of another route unnecessary. If a constitutional defect establishes entitlement, the court must condition continued custody on lawful resentencing within a short concrete period it sets, credit time served, identify any lawful judgment supporting custody, and specify release from unsupported custody upon noncompliance. The existing sentence-only writ is vacated pending that adjudication.
+
+Complete public rules, qualifications, proposition-level joins and remedy: [Public decision](../runtime/OT_2003CHUNK6_dretke_v_haley_merits_2004-05-03_PUBLIC.md).
+
+### Johnson v. California, No. 03-6539; 541 U.S. 428 — 2004-05-03
+
+Section 1257 requires completion of substantive state proceedings in this posture. The established Cox exceptions remain available when their predicates are shown. This dismissal leaves existing Batson law in place and gives the state ruling no additional federal endorsement.
+
+Public procedure: The California Court of Appeal must complete the existing remand and adjudicate the independent grounds for reversal under state procedure. Johnson may seek review following an adverse final state judgment through the applicable filing process, subject to the jurisdictional and timing requirements then governing.
+
+Complete public rules, qualifications, proposition-level joins and remedy: [Public decision](../runtime/OT_2003CHUNK6_johnson_v_california_jurisdictional-dismissal_2004-05-03_PUBLIC.md).
+
+### Jones v. R. R. Donnelley & Sons Co., No. 02-1205; 541 U.S. 369 — 2004-05-03
+
+Section 1658 follows the post-1990 enactment that supplies a new claim, including an amendment to an older statute. A mixed complaint can contain claims with different applicable periods. The employees’ amendment-dependent claims receive the four-year period; identifying accrual and resolving any actually disputed tolling, timeliness and discrimination issues are ordinary application of that rule.
+
+Public procedure: The district court must identify the claims whose substantive basis depends on the 1991 expansion, restore those improperly barred under the shorter borrowed period, apply four years from accrual and adjudicate the surviving claims through ordinary procedure. Any properly certified class receives the same claim-specific analysis.
+
+Complete public rules, qualifications, proposition-level joins and remedy: [Public decision](../runtime/OT_2003CHUNK6_jones_v_rr_donnelley_sons_merits_2004-05-03_PUBLIC.md).
+
+### Middleton v. McNeil, No. 03-1028; 541 U.S. 433 — 2004-05-03
+
+The existing whole-charge and objective habeas standards govern. The repeated actual-but-unreasonable distinction and express reasonable-person contrast sustain the state court’s application on this record. Other charges require their own contextual assessment under the same rule; this holding creates no automatic cure from repetition or counsel’s argument.
+
+Public procedure: The case returns for implementation of denial on the reviewed instructional claim. The lower federal court must reject this ground under section 2254(d)(1) rather than order a new trial on its preferred reading of the isolated phrase.
+
+Complete public rules, qualifications, proposition-level joins and remedy: [Public decision](../runtime/OT_2003CHUNK6_middleton_v_mcneil_merits_2004-05-03_PUBLIC.md).
+
+### Scarborough v. Principi, No. 02-1657; 541 U.S. 401 — 2004-05-03
+
+An otherwise qualifying timely EAJA application can receive this omitted allegation by relation back, subject to demonstrated amendment prejudice. The allegation remains obligatory, and the Government’s fee defenses remain available. The treatment of a missing first-sentence showing remains outside this holding. The resulting fee proceeding applies the statute’s award command, substantial-justification defense and distinct special-circumstances exception.
+
+Published separate positions:
+
+**Thomas, joined by Scalia, dissenting.** The application-content command and thirty-day requirement should be read together to require the allegation within the statutory period when the Government timely objects. The omission may add no factual surprise, but lack of prejudice cannot itself supply cure authority. Becker depended on an express rule allowing a missing signature to be corrected, and Edelman involved an authorized verification regulation; neither supplies a free-standing power to complete this EAJA application. Kontrick’s distinction between jurisdiction and mandatory procedure leaves an invoked mandatory condition enforceable. The dissent would affirm dismissal on that statutory ground without requiring a jurisdictional label.
+
+Public procedure: The veterans court must accept the corrected allegation as relating back to the timely application, allow the Government to present its substantial-justification defense, and decide any properly presented statutory eligibility, special-circumstances and reasonable-amount issues. It must enter a reasoned fee decision under section 2412(d).
+
+Complete public rules, qualifications, proposition-level joins and remedy: [Public decision](../runtime/OT_2003CHUNK6_scarborough_v_principi_merits_2004-05-03_PUBLIC.md).
+
+### Nippon Steel Corp. v. United States; review of 337 F.3d 1373 — 2004-05-10
+
+Commerce may use an adverse inference for a supported avoidable failure to use available capability even without intentional misconduct. Missing information and failure to cooperate remain separate predicates, with permissive inference, practicable corroboration and the distinct section 1677m duties governing the resulting calculation. The presented record sustains the partial adverse-facts treatment. The separate currency methodology lies outside the submitted question and remains governed by the existing mandate.
+
+Public procedure: Commerce must implement the lawful calculation on the affected sales consistently with the affirmed adverse-inference ruling and the Federal Circuit’s surviving directions. Its explanation must identify the deficient requests, available information and inadequate effort, with the applicable information and corroboration provisions observed. The trade court reviews compliance and the resulting calculation under section 1516a(b)(1)(B)(i); genuinely unresolved agency calculations remain for Commerce under Ventura.
+
+Complete public rules, qualifications, proposition-level joins and remedy: [Public decision](../runtime/OT_2003CHUNK6_nippon_steel_v_united_states_merits_2004-05-10_PUBLIC.md).
+
+### Lipscomb v. Federal Labor Relations Authority; 333 F.3d 611 (5th Cir. 2003); no separate Supreme Court docket supplied — 2004-05-13
+
+Federal civilian technician administration carries the labor obligations Congress attached to that function. The Guard's dual character must be assessed by the capacity and particular obligation at issue. Representation proceeds subject to the statute's genuine military and management exclusions, which govern later concrete bargaining disputes.
+
+Published separate positions:
+
+No separate opinion is filed.
+
+Public procedure: The Guard and adjutant general must cooperate with the lawful representation process on the FLRA's schedule. Any objection to a particular bargaining subject must follow the applicable statutory procedure and identify the military or management restriction on which it rests.
+
+Complete public rules, qualifications, proposition-level joins and remedy: [Public decision](../runtime/OT_2003CHUNK6_Lipscomb_v_Federal_Labor_Relations_Authority_merits_2004-05-13_PUBLIC.md).
+
+### Grupo Dataflux v. Atlas Global Group, L.P.; No. 02-1689 — 2004-05-17
+
+A continuing partnership cannot cure an initial diversity defect by changing its membership after filing. The recognized dismissal of an actual dispensable party remains available on its own requirements. Litigation expense, consent and delayed objection supply no independent federal jurisdiction.
+
+Published separate positions:
+
+**Ginsburg, dissenting, joined by Stevens, Souter and Breyer.** The four would affirm preservation of the litigation outcome against this jurisdictional objection. They accept Carden's attribution of the former members' citizenship at filing and expressly extend Caterpillar's cure principle to the real removal of those citizenship interests before trial, with complete diversity persisting through judgment. Because the partnership's jurisdictional citizenship is derived from its members, their genuine departure removes the precise obstacle that made the initial suit nondiverse.
+
+The dissent accepts that the departed partners were not thereby dismissed as actual parties to the original action. It considers that formal difference insufficient to require destruction of a verdict reached after the relevant interests became diverse. Its proposed extension concerns this actual pretrial membership cure; expense or Grupo's delayed objection alone would not establish jurisdiction, and a defect persisting through trial would remain fatal. The four would preserve the outcome against this ground while leaving independent appellate questions to ordinary review.
+
+Public procedure: The case returns through the Fifth Circuit for entry of a jurisdictional dismissal without prejudice and removal of any merits judgment resting on the unsupported verdict. A renewed action must establish its own jurisdiction and comply with applicable limitations rules.
+
+Complete public rules, qualifications, proposition-level joins and remedy: [Public decision](../runtime/OT_2003CHUNK6_Grupo_Dataflux_v_Atlas_Global_Group_merits_2004-05-17_PUBLIC.md).
+
+### Sabri v. United States; No. 03-44 — 2004-05-17
+
+Section 666's assisted-entity bribery prohibition has a sufficient Spending and Necessary and Proper connection without individual federal-dollar tracing. Prosecution remains tied to genuine assistance, the recipient's agent and business, substantial transaction value and corrupt intent. Salinas's rejection of an added effects element and Fischer's limits operate together.
+
+Published separate positions:
+
+**Thomas, concurring in the judgment.** Thomas concludes that the pleaded bribery of an agent administering the directly assisted institution's development business is plainly adapted to protecting that federal undertaking. The facial claim that an express dollar-tracing element is indispensable therefore fails. He requires an evident protective relationship, and declines to treat any rational association between incidental federal receipts and local integrity as sufficient.
+
+His reasoning applies McCulloch's means-to-power inquiry at the narrower scope of this indictment. The identifiable-undertaking and genuine-functional-relationship analysis applied in Lopez and Rancho Viejo supports this direct protective application; it does not add a statutory nexus element or dispense with proof at trial. Salinas remains a construction of the enacted elements. Thomas agrees that the case may proceed while withholding assent from the Court's broader institutional rule for all covered transactions.
+
+Public procedure: The district court must permit the prosecution to proceed, instruct on the actual benefits, agency, transaction-value and corrupt-intent requirements, and apply §666(c)'s exception when implicated. The Government bears the criminal burden of proof. Independently preserved defenses receive ordinary adjudication.
+
+Complete public rules, qualifications, proposition-level joins and remedy: [Public decision](../runtime/OT_2003CHUNK6_Sabri_v_United_States_merits_2004-05-17_PUBLIC.md).
+
+### Tennessee Student Assistance Corporation v. Hood; No. 02-1606 — 2004-05-17
+
+The bankruptcy court may adjudicate the education-debt exception against a State creditor on both the seven-Justice discharge ground and the five-Justice Article I ground. The debtor must prove undue hardship to obtain the discharge determination sought. An affirmative recovery from the State, recovery of property it holds or a separate coercive enforcement remedy lies outside the requested discharge relief and requires its own source and remedy analysis.
+
+Published separate positions:
+
+**O'Connor, concurring in part and in the judgment, joined by Kennedy.** The two join the discharge-specific analysis and statutory remand. They retain their structural objection to general Article I authorization of private suits against a State, and therefore withhold Part II. Their agreement rests on the bankruptcy court's actual determination of Hood's discharge and the absence of an affirmative State payment obligation. Nordic Village's remedy distinction and the function inquiry emphasized in their Federal Maritime Commission positions support that limited basis. Their concurrence creates no exemption for every bankruptcy adversary proceeding.
+
+**Thomas, dissenting, joined by Scalia.** The two would reverse the immunity denial and remand for dismissal of this adversary action against TSAC. In their view, compelling a nonparticipating State creditor to defend a separate, individualized hardship claim imposes the private-suit burden immunity protects. A claim presumptively outside the discharge cannot escape that objection merely by being characterized as an adjustment of status. Local Loan involved a private creditor, and Irving Trust involved participation in distribution; neither resolves the coercive proceeding here.
+
+They accept §106(a)'s clear authorization but would reconsider Florida Prepaid, Garrett and the related Article I enforcement rule to the extent necessary to preserve immunity against this private judicial compulsion. Their objection expressly challenges existing precedent. They would dismiss the adversary action against TSAC while leaving Hood's underlying bankruptcy case intact; they prescribe no substitute motion procedure.
+
+Public procedure: The case returns to the bankruptcy court for a scheduled hardship adjudication. TSAC must receive notice and an opportunity to present its position; Hood must prove the statutory basis for bringing the debt within her discharge. The court must then enter the dischargeability determination with the binding effect bankruptcy law authorizes.
+
+Complete public rules, qualifications, proposition-level joins and remedy: [Public decision](../runtime/OT_2003CHUNK6_Tennessee_Student_Assistance_Corporation_v_Hood_merits_2004-05-17_PUBLIC.md).
+
+### Tennessee v. Lane; No. 02-1667 — 2004-05-17
+
+Expressly authorized Title II claims concerning access to judicial proceedings and their operative services may proceed against States under Section 5. The claimant need not establish an independent constitutional tort as an additional gateway within that valid preventive class. Actual statutory coverage, effective accommodation, defenses and remedial proof continue to govern each claim, including Jones's asserted role in judicial services. The State bears the applicable fundamental-alteration burden, with §35.150's distinct existing-facilities requirements preserved. Lawful prospective relief must effectively cure the proved violation; the necessity and extent of policy correction or deadlines depend on actual remedial findings and the persons the court may lawfully protect.
+
+Published separate positions:
+
+**Stone-Zsela, concurring.** The Chief Justice joins the court-access holding, the State's defense burden and the qualified effective-relief guidance. He would additionally prescribe a default for a proved unlawful access policy or practice: correct that policy for the persons it governs unless Tennessee shows that narrower relief completely cures the violation. He would direct the district court to identify each inaccessible service, effective accommodation and continuing risk, then set enforceable access measures and deadlines for the violation proved. Standing, statutory liability and the independent prerequisites for damages and prospective relief remain necessary.
+
+His additional position gives the policy's proved reach operative remedial weight and places the showing for narrower correction on Tennessee. Popovich supplies the protected opportunity and an enforceable access duty. The Chief would specify this implementation requirement now so that recognition of meaningful participation produces effective correction, while preserving effective alternatives and actual statutory burden limits.
+
+**Thomas, dissenting, joined by Scalia.** The two would vacate the categorical immunity denial and remand for a supported statutory application enforcing an actual denial of meaningful judicial participation or an unconstitutional penalty for requesting it. They accept §12202's express authorization and the constitutional hearing right. Their objection concerns the fit of the broader preventive damages regime, particularly when the asserted interest is a professional opportunity rather than participation in one's own adjudication.
+
+Following their Popovich position, they would reconsider that decision's preventive-damages reach to the extent necessary. They do not treat it as absent. Effective participation may be supplied by alternatives even when a further statutory accommodation duty is alleged. Boerne and Garrett require examination of that relationship rather than reliance on the courthouse setting alone. Their proposed remand concerns the actual preserved claims; it is not a universal rule that all Section 5 prevention requires an individual constitutional tort, a prescribed incident count or a violation by every regulated State.
+
+Public procedure: The lower court must determine each plaintiff's disability and qualification, the proceeding or service at issue, actual access, available reasonable accommodations and the State's supported defenses under the applicable regulation. It must resolve actionable exclusion, causation, compensable injury and lawful relief. If the predicates for prospective relief are established, it must provide an effective cure for those it may lawfully protect, with enforceable obligations and any policy changes or implementation deadlines shown necessary by the remedial findings. Lane's criminal-proceeding allegations and Jones's court-reporting allegations require separate application.
+
+Complete public rules, qualifications, proposition-level joins and remedy: [Public decision](../runtime/OT_2003CHUNK6_Tennessee_v_Lane_merits_2004-05-17_PUBLIC.md).
+
+### Till v. SCS Credit Corp.; No. 02-1016 — 2004-05-17
+
+The prime-plus method and the creditor's burden to substantiate a demanded higher risk adjustment by a preponderance of the evidence govern the presented Chapter 13 deferred-secured-payment question by five direct votes. Courts must separately enforce adequate present value and feasibility. Evidence of comparable lending may inform risk without restoring a contract-rate presumption. Valuation of the secured principal remains governed by §506 and Rash.
+
+Published separate positions:
+
+**Thomas, concurring in the judgment.** Thomas reads §1325(a)(5)(B)(ii) to require compensation for delay in the cash the plan will distribute, while §1325(a)(6) separately addresses ability to make those payments. He accepts that uncertain payments have different economic value but considers the statute's identification of the distributed property decisive. A transferred note or other promise would itself be valued with its inherent risk; this plan distributes future cash.
+
+The record reports an 8 percent prime rate two points above a 6 percent risk-free Treasury benchmark. The offered 9.5 percent exceeds that temporal measure, so Thomas finds it sufficient for the interest component and rejects a higher rate demanded solely for default risk or the old contract. The statutory floor does not require reducing the debtors' offered rate. He preserves every other actual confirmation condition and orders no automatic final confirmation. His rationale does not join mandatory default-risk compensation or the Court's formula.
+
+**Scalia, dissenting, joined by O'Connor and Kennedy.** The three would affirm the Seventh Circuit's rebuttable contract/comparable-loan method and return for its application. The uncertain payment stream must be valued economically. The original transaction supplies a starting reference that may be displaced by current rates, collateral coverage, different unsecured exposure, payment duration, bankruptcy supervision, joint vehicle-and-financing pricing or other actual differences. A party seeking departure must substantiate the relevant change; the contract is evidence, not an immutable right to 21 percent.
+
+The dissent objects that a low prime starting estimate can underprice risk when disputes are expensive to litigate. Prime's own risk-and-cost spread does not establish the price of these debtors' payment stream. The three accept meaningful evidence of comparability and reject both a legally riskless cash assumption and confirmation obtained through an artificially low rate. If an adequate rate makes the plan infeasible, confirmation must fail.
+
+Public procedure: The case returns through the Seventh Circuit for the bankruptcy court to identify the prime benchmark, hear relevant evidence on the plan's additional risk, apply the creditor's preponderance burden on a demanded higher adjustment and enter a reasoned rate finding. The court must separately decide feasibility and the remaining confirmation conditions. The 9.5 percent proposal may be confirmed only on findings satisfying those requirements; an insufficient plan must be denied or lawfully amended.
+
+Complete public rules, qualifications, proposition-level joins and remedy: [Public decision](../runtime/OT_2003CHUNK6_Till_v_SCS_Credit_Corporation_merits_2004-05-17_PUBLIC.md).
+
+### Benjamin v. Fraser; judgment below 343 F.3d 35 — 2004-05-20
+
+Prospective institutional pretrial relief follows the seven-Justice Bell rule, together with section 3626's independent current-violation and tailoring conditions. OCC continuation rests on both the six-Justice actual-function classification and the five-Justice continuous-appointment ground. An altered delegation receives an actual-function assessment under the event-effective statute and Rule 53. The preserved facility-specific remand governs the remaining correction of the orders. The seven-Justice implementation holding requires substantiation of asserted effective alternatives and definite, verifiable execution of justified obligations, while the court retains the independent statutory findings. The supported-functions requirement and independent evaluation of OCC reports are part of the six-Justice classification holding.
+
+Published separate positions:
+
+O'Connor concurs in the constitutional rule, ordinary proof and bounded substantive remedial requirements but dissents from OCC continuation. Recurring court-directed compliance investigation is, in her view, master's work under the amended Rule 53 even when reports are advisory. Section 802(b)(1)'s application to all prospective relief governs future operations despite the 1982 origin. She would require future conformity with section 3626(f)'s appointment, power, review and compensation requirements, or a genuinely different lawful assistance arrangement.
+
+Scalia, joined by Thomas, concurs in the constitutional-relief judgment on actual notice and knowing unreasonable continuation of the serious conditions. Wilson v. Seiter and Farmer require culpability separately from harmful conditions; the established ongoing notice and inadequate response meet that requirement here. Reasonable but unsuccessful protection would not. They join Part IV.A's need for current tailored substantive relief, but, like O'Connor, would vacate OCC continuation for future statutory conformity. Informality and the absence of binding findings cannot exempt recurring delegated investigation and remedial assistance. Regulating those future functions does not require pretending that a new appointment occurred in 2001.
+
+Public procedure: The case returns through the Second Circuit for the particularized food-service, lighting, spacing and airflow work specified by its preserved judgment. Retained obligations and the restricted OCC role continue at their supported scope. Every further prospective duty must receive the current-violation and remedial findings stated above; the Rule 53 pending-case transition governs applicable future proceedings insofar as just and practicable. The district court must consider substantiated effective alternatives, specify supported official responsibilities and compliance dates, and obtain justified verifiable reports through lawful authority. Unsupported duties and those whose current justification has ended must terminate; any enforcement follows the notice and independent judicial procedures stated above.
+
+Complete public rules, qualifications, proposition-level joins and remedy: [Public decision](../runtime/OT_2003CHUNK6_benjamin_v_fraser_merits_2004-05-20_PUBLIC.md).
+
+### Nelson v. Campbell; No. 03-6821; 541 U.S. 637 — 2004-05-24
+
+A severable execution-related procedure claim may proceed under section 1983 when its success leaves lawful implementation of the sentence available. Necessary legal invalidity, temporary litigation delay, medical entitlement, exhaustion and stay equity perform separate work. The strong avoidable-delay presumption governs the equitable inquiry with its actual-timing and irreversible-harm qualifications; the PLRA's distinct conditions govern any relief. Properly presented interim requests receive meaningful prompt adjudication under those conditions; any judicial restraint must have its own lawful basis, precise scope and justified duration.
+
+Public procedure: The case returns through the Eleventh Circuit for ordinary civil proceedings. The district court must promptly decide any properly presented interim request in time to address the threatened procedure where the actual schedule permits, then resolve the supported medical and constitutional claim and applicable administrative-remedy requirements. A scheduling direction itself imposes no State restraint. Any warranted injunction must identify its conduct, persons bound and supported scope; any stay must retain its actual equitable basis for its necessary duration, subject to the statutory expiration and final-finding requirements. The death judgment remains in place.
+
+Complete public rules, qualifications, proposition-level joins and remedy: [Public decision](../runtime/OT_2003CHUNK6_nelson_v_campbell_merits_2004-05-24_PUBLIC.md).
+
+### Thornton v. United States; No. 03-5165; 541 U.S. 615 — 2004-05-24
+
+First contact after a recent occupant leaves a car is not an independent constitutional bar to a search with a valid arrest-related justification. Under the controlling ground derived through Marks, lawful arrest of a genuine recent occupant secured away from the car permits a contemporaneous passenger-compartment search when an objective reasonable belief connects the vehicle to evidence of the arrest offense. Thornton's search and convictions stand under that rule. The four broader categorical positions remain separate opinions from the concurrence's two express joins. Independent automobile-probable-cause, inventory and Chimel grounds retain their own applicable conditions.
+
+Published separate positions:
+
+The four-Justice lead applies Belton's contemporaneous passenger-compartment rule to a genuine recent occupant and includes containers within that compartment capable of the search's scope. Ordinary securing during the arrest does not, for those Justices, end the categorical authority. The rule avoids making the officer choose between promptly securing a suspect and undertaking the authorized arrest search. They acknowledge that Thornton could not actually reach the car and rely on the established category, not a finding of escape danger. O'Connor recognizes the force of the contrary access argument, but, like Kennedy, Thomas and Breyer, retains the category here rather than adopting a replacement evidence standard. Genuine recent occupancy and contemporaneity bound their rationale.
+
+Scalia, joined by Ginsburg, agrees that first contact outside is not decisive but rejects the categorical justification once Thornton is secured away. Chimel's immediate-control premise cannot explain an inaccessible area, and Robinson's personal search does not authorize every nearby intrusion. Their controlling narrower ground permits a contemporaneous search of the passenger compartment after lawful arrest of a recent occupant secured away from the car when it is reasonable to believe that the vehicle contains evidence relevant to that arrest offense. The drugs produced before arrest and the immediate association with Thornton's car supply that connection; finding the gun later supplies no earlier justification. Their narrowest ground retains Belton at this vehicle- and offense-specific scope rather than creating general exploratory authority. Its controlling status follows from Marks; the four categorical Justices do not expressly join its replacement rationale. Houghton's probable-cause automobile rule concerns a distinct exception. Ginsburg's protection of an identified passenger's belongings there does not decide this search of the arrested suspect's own recent vehicle for evidence connected to his offense.
+
+Stone-Zsela, joined in full by Stevens and Souter, would require a reasonable possibility at the time of search that the arrestee can reach the searched area to obtain a weapon or destroy evidence. Chimel supplies that purpose, and Knowles rejects a categorical additional intrusion when its justification is absent. A first-contact line would leave the same defect whenever the officer spoke a moment earlier. Thornton's handcuffing and confinement in the patrol car defeat the access ground. They reject the new reduced-suspicion evidence rationale and preserve independently established probable cause and other exceptions on their own terms. The Government must prove the necessary factual predicates of its asserted warrantless incident-search exception by a preponderance under Matlock; the court determines the legal scope, and that factual quantum does not replace an exception's substantive probable-cause or suspicion requirement. They would remand for actual lawful impoundment, standardized inventory criteria under Florida v. Wells, and inevitable lawful discovery under Nix v. Williams. A possible inventory is insufficient. If no independent lawful basis makes the gun admissible, it must be excluded, followed by applicable error review of materially affected convictions and appropriate further proceedings. This conditional direction first resolves available independent grounds and does not order automatic relief from every count. They would apply their proposed access limit to Thornton and other still-open criminal direct-review cases under Griffith v. Kentucky, preserving the separate operation of finality, preservation, harmless-error and collateral-review requirements.
+
+Public procedure: The Fourth Circuit's affirmance remains operative. Admission of the handgun and the resulting convictions stand under the Court's judgment.
+
+Complete public rules, qualifications, proposition-level joins and remedy: [Public decision](../runtime/OT_2003CHUNK6_thornton_v_united_states_merits_2004-05-24_PUBLIC.md).
+
+### Yarborough v. Alvarado; No. 02-1684; 541 U.S. 652 — 2004-06-01
+
+The presented Miranda-custody ground is foreclosed by section 2254(d)(1) on this record. The objective arrest-equivalence inquiry remains enforceable through established general holdings, and statutory reasonableness remains a legal inquiry into the full supported state adjudication. The decision imposes no universal exclusion of visible age from custody analysis. A generally applicable direct-review age rule remains outside this adjudication.
+
+Published separate positions:
+
+Breyer, joined by Stevens, Souter and Ginsburg, agrees with the review framework but finds both statutory unreasonableness and actual custody. A young person transported by parents at police request, separated from them, and questioned alone in a small station room for two hours while confronted with contradictory evidence would reasonably understand that officials controlled whether he could end the encounter. Breaks offered only near the end can reinforce that understanding; eventual release does not resolve the restraint during interrogation. Obvious youth describes the objectively apparent position of the interviewee, while undisclosed police experience invites an unrelated psychological inquiry. Stansbury and Thompson already supply the objective rule, and Williams and Andrade permit that general rule to compel a result without identical facts. The dissent relies on the supported encounter, not the disputed account that the parents requested admission and were refused, and not a later constitutional holding. It would preserve the Ninth Circuit's statutory and custody conclusions, then require whatever admission and trial-prejudice determinations remain before a final writ. Custody alone would not supply immediate release or an unconditional new trial.
+
+Public procedure: The case returns for reinstatement and implementation of denial of the presented Miranda-custody claim. The conviction and sentence remain in force on this ground.
+
+Complete public rules, qualifications, proposition-level joins and remedy: [Public decision](../runtime/OT_2003CHUNK6_yarborough_v_alvarado_merits_2004-06-01_PUBLIC.md).
+
 ### West Virginia v. U.S. Department of Health & Human Services — 2004-06-16
 
 Medicaid estate recovery remains an operative funding condition within its mandatory and optional categories, survivor protections, hardship waiver and estate limits. Section 1396c’s all-or-part mechanism survives this facial challenge, with its required procedure, findings, notification and endpoint intact. Enforcement remains subject to Kansas’s genuine-practical-choice rule: an actual credible threatened or imposed funding consequence can be challenged on its scope, notice and practical effects, including competent qualitative evidence. Statutory discretion supplies lawful possible applications and remains reviewable when exercised or credibly threatened.
@@ -846,9 +1046,13 @@ Public procedure: The mandate leaves the estate-recovery condition effective and
 
 [Complete public law and procedure](../runtime/current-public-law/west_virginia_v_us_department_of_health_and_human_services_merits_2004-06-16.md).
 
+## Effective noncase procedural law
+
+Federal Rule of Civil Procedure 53, effective December 1, 2003, supplies the amended federal district-court master provisions. The rule governs later-commenced civil cases and, insofar as just and practicable, then-pending proceedings. An existing monitoring arrangement's classification remains a case-specific question. Complete rule and transition summary: [public source](../runtime/OT_2003CHUNK6_RULE53_PUBLIC.md). The amendment supplies no Court merits holding or new master appointment.
+
 ## Chronology and manifest
 
-The [manifest](manifest.md) contains 119 scheduled events in eight chunks and four separately preserved undated original actions. 71 inventory events are completed across chunks 1–5. The next presentation event is Jones v. R. R. Donnelley & Sons Co., OT_2003CHUNK6, effective 2004-05-03. The latest completed event has effective date 2004-06-16; this does not decide earlier-dated matters in later presentation chunks. Roeder v. Islamic Republic of Iran on 2004-06-30 remains the final scheduled inventory event. No anticipated event is a completed action.
+The [manifest](manifest.md) contains 119 scheduled events in eight chunks and four separately preserved undated original actions. 87 inventory events are completed across chunks 1–6. The next presentation event is Williams v. Morton, OT_2003CHUNK7, effective 2004-06-02. The latest completed event has effective date 2004-06-16; this does not decide earlier-dated matters in later presentation chunks. Roeder v. Islamic Republic of Iran on 2004-06-30 remains the final scheduled inventory event. No anticipated event is a completed action.
 
 The inventory retains the user's presentation order, numbering and chunk membership. Chunk 1 contains seven matters dated October 14, 2003 through June 16, 2004; chunks 2–8 contain sixteen each. Presentation order does not advance the chronology cursor. Every event uses only law effective before its own event date, including applicable earlier current-term Records, and never law from a later-dated event already encountered in a presentation chunk. Chunks are processed in presentation order. Within a chunk, events are processed by effective date. An earlier-dated event in a later chunk that has not been decided supplies no law and does not delay the present event. A completed Record applies only to events after its effective date; any material effect of a later-completed earlier event is assessed when that event is supplied. Preparation of a chunk does not freeze entering law for the entire chunk.
 

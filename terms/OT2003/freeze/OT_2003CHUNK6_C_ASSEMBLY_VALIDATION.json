@@ -1,0 +1,184 @@
+{
+  "84": {
+    "record": "benjamin_v_fraser_merits_2004-05-20.md",
+    "eleven_block_order": true,
+    "identical_holdings": true,
+    "explanation_word_counts": [
+      153,
+      151,
+      117,
+      138
+    ],
+    "links_resolve": true,
+    "public_names_valid": true,
+    "author": "Souter",
+    "assigner": "Stone-Zsela",
+    "prior_records": 84,
+    "prior_lead_count": 79,
+    "counts_before_assignment": {
+      "Stone-Zsela": 9,
+      "Stevens": 9,
+      "O'Connor": 8,
+      "Scalia": 9,
+      "Kennedy": 9,
+      "Souter": 9,
+      "Thomas": 8,
+      "Ginsburg": 9,
+      "Breyer": 9
+    },
+    "eligible": [
+      "Stevens",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "pool": [
+      "Stevens",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ]
+  },
+  "86": {
+    "record": "nelson_v_campbell_merits_2004-05-24.md",
+    "eleven_block_order": true,
+    "identical_holdings": true,
+    "explanation_word_counts": [
+      200,
+      127,
+      168
+    ],
+    "links_resolve": true,
+    "public_names_valid": true,
+    "author": "O'Connor",
+    "assigner": "Stone-Zsela",
+    "prior_records": 85,
+    "prior_lead_count": 80,
+    "counts_before_assignment": {
+      "Stone-Zsela": 9,
+      "Stevens": 9,
+      "O'Connor": 8,
+      "Scalia": 9,
+      "Kennedy": 9,
+      "Souter": 10,
+      "Thomas": 8,
+      "Ginsburg": 9,
+      "Breyer": 9
+    },
+    "eligible": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "pool": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ]
+  },
+  "85": {
+    "record": "thornton_v_united_states_merits_2004-05-24.md",
+    "eleven_block_order": true,
+    "identical_holdings": true,
+    "explanation_word_counts": [
+      103
+    ],
+    "links_resolve": true,
+    "public_names_valid": true,
+    "author": "Thomas",
+    "assigner": "O'Connor",
+    "prior_records": 86,
+    "prior_lead_count": 81,
+    "counts_before_assignment": {
+      "Stone-Zsela": 9,
+      "Stevens": 9,
+      "O'Connor": 9,
+      "Scalia": 9,
+      "Kennedy": 9,
+      "Souter": 10,
+      "Thomas": 8,
+      "Ginsburg": 9,
+      "Breyer": 9
+    },
+    "eligible": [
+      "O'Connor",
+      "Kennedy",
+      "Thomas",
+      "Breyer"
+    ],
+    "pool": [
+      "O'Connor",
+      "Kennedy",
+      "Thomas",
+      "Breyer"
+    ]
+  },
+  "87": {
+    "record": "yarborough_v_alvarado_merits_2004-06-01.md",
+    "eleven_block_order": true,
+    "identical_holdings": true,
+    "explanation_word_counts": [
+      173,
+      212
+    ],
+    "links_resolve": true,
+    "public_names_valid": true,
+    "author": "O'Connor",
+    "assigner": "Stone-Zsela",
+    "prior_records": 87,
+    "prior_lead_count": 82,
+    "counts_before_assignment": {
+      "Stone-Zsela": 9,
+      "Stevens": 9,
+      "O'Connor": 9,
+      "Scalia": 9,
+      "Kennedy": 9,
+      "Souter": 10,
+      "Thomas": 9,
+      "Ginsburg": 9,
+      "Breyer": 9
+    },
+    "eligible": [
+      "Stone-Zsela",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Thomas"
+    ],
+    "pool": [
+      "Stone-Zsela",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Thomas"
+    ]
+  },
+  "final_counts": {
+    "Stone-Zsela": 9,
+    "Stevens": 9,
+    "O'Connor": 10,
+    "Scalia": 9,
+    "Kennedy": 9,
+    "Souter": 10,
+    "Thomas": 9,
+    "Ginsburg": 9,
+    "Breyer": 9
+  },
+  "final_records": 88,
+  "final_counted_leads": 83,
+  "sequence_correct": true,
+  "semantic_review": "Component votes, direct proposition joins, exact partial joins, bounded Chief additional directions, independent alternative holdings, strongest contrary grounds, current-law dependencies, actual statutory exceptions and operative negative-statement limits checked. No material post-reconciliation Associate join changed."
+}

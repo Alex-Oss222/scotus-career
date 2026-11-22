@@ -1,0 +1,425 @@
+**Case and dockets:** Till v. SCS Credit Corp.; No. 02-1016
+**Event and date:** Merits decision; 2004-05-17
+**Result:** Reversed and remanded, 6–3; five Justices adopt prime plus supported risk, Thomas concurs in the judgment.
+**Version / lineage:** Original Run adjudication, finalized through separately reconciled assembly circulation before chunk validation. Original frozen handoffs and the prior validation remain preserved; no repository commit is claimed.
+
+## Scope, source cutoff and participation
+
+Research and entering-law cutoff: 2004-05-17. All nine Justices participate. Earlier effective law enters only through the authorized slices and any clean refresh supplied by control. Uncoordinated same-date decisions share the pre-date baseline and provide no mutual merits authority. Later-dated prior Records count only for the separately authorized assignment accounting. The route, operative facts and questions are those stated in the Public Projection.
+
+The current Chief supplement was received only in this assembly context after the independently scoped non-Chief stages froze. Original and reconciled commitments are copied below as audit evidence; final reconciled grounds control where they qualify the earlier handoff. No claim of erased general model knowledge is made. No factual reconstruction, litigant default or newly assumed concession supplies a result.
+
+The newly durable earlier-effective chunk decisions were screened through their public Event and Law After Decision blocks before assignment. Dretke concerns its specific noncapital recidivist habeas gateway; Johnson concerns section 1257 finality; Jones concerns section 1658; Middleton concerns contextual habeas review of a jury charge; Scarborough permits amendment of the specified timely fee application; and Nippon concerns section 1677e adverse inferences. None changes a material premise of this event. Their limited rules are not generalized into jurisdictional cure, merits proof or immunity.
+
+## Final compatibility and opinion joins
+
+The Chief's approved formula, creditor preponderance showing and genuine risk remand now have four express Associate joins. The separately scoped circulation reconciliation records Stevens, Souter, Ginsburg and Breyer each adopting ordinary preponderance, with Grogan's civil-proof principle and their own existing allocation and statutory positions supplying the individual bases. Their earlier absence of a specified quantum was not a legal objection. The five therefore join the entire refined lead; the Chief has no remaining distinct concurrence function, and his redundant separate writing is removed.
+
+The refinement preserves creditor persuasion on the requested increment, an adequate debtor foundation, all-evidence consideration, a supported partial increase when warranted, the equipoise consequence and the distinction from mathematical prediction of default. It preserves the debtor's independent confirmation and feasibility obligations. Thomas remains a sixth reversal vote on the time-value-only construction, with 9.5 percent sufficient for that component and other confirmation conditions intact. O'Connor, Scalia and Kennedy keep the rebuttable contract method. Neither group is recruited into the formula or its proof quantum. No Marks synthesis or fallback is used.
+
+Breyer expressly joins the new ground and retains the complete lead. The original counts, eligibility pool and assignment remain unchanged: this supported refinement loses no governing coalition and requires no reassignment. The individual responses and strongest contrary arguments are preserved in the appended circulation receipt; the original freezes remain audit history rather than an operative barrier to supported circulation.
+
+## Opinion form and assignment
+
+A signed five-Justice Court opinion announces a controlling formula and evidentiary allocation. Thomas independently supports reversal, creating a six-Justice judgment but not an additional methodology join. Three Justices dissent; final scoped circulation incorporates the ordinary proof standard into the five-Justice Court opinion. This form follows actual supported grounds, not assignment balance.
+
+The judgment coalition and governing propositions are established before choosing the author. Stone-Zsela assigns. The user's task-specific counting direction counts signed leads in all previously durable current-term Records, including Records written earlier in this Run. Later-dated Records count for assignment alone and supply no earlier merits law. Each count below was rebuilt from the actual opinion topology.
+
+| Justice | Count before assignment | Eligible | Balance pool |
+|---|---:|---|---|
+| Stone-Zsela | 9 | Yes | Yes |
+| Stevens | 9 | Yes | Yes |
+| O'Connor | 8 | No | No |
+| Scalia | 9 | No | No |
+| Kennedy | 9 | No | No |
+| Souter | 9 | Yes | Yes |
+| Thomas | 8 | No | No |
+| Ginsburg | 9 | Yes | Yes |
+| Breyer | 8 | Yes | Yes |
+
+Last counted lead in durable-file order: Tennessee v. Lane; No. 02-1667; 2004-05-17. The recount covers 83 prior Records and 78 author counts. Eligible authors: Stone-Zsela, Stevens, Souter, Ginsburg, Breyer. Balance pool: Stone-Zsela, Stevens, Souter, Ginsburg, Breyer. Chosen author: Breyer.
+
+Fit governs the five-Justice formula and evidentiary allocation. Breyer, at eight counted leads, writes because his reconciled position connects an observable prime reference, actual plan-risk evidence and the creditor's access to lending information without treating debtor affordability or creditor silence as proof. The legal work is to explain why creditor persuasion on its demanded increment coexists with debtor disclosure and independent confirmation duties, while avoiding automatic reproduction of all subprime-loan costs. Ginsburg, at nine, is the strongest alternative because her Rash opinion distinguishes the statutory property valued from irrelevant pricing components. Both can carry the full lead; Breyer gives the required practical, provision-specific explanation at the lower count. Stevens, Souter and the Chief also have nine. Final scoped circulation secures all four formula Associates' express agreement to ordinary preponderance; Breyer and the same eligible pool support the refined lead, so the original assignment stands. Thomas supports a distinct time-value judgment ground and is ineligible; the three contract-method dissenters are likewise ineligible. No Marks combination or count-driven opinion division occurs.
+
+## Controlling law kernel
+
+### Prime plus the supported risk adjustment preserves present value
+
+**Holding and operative rule:** For deferred payments of the allowed secured claim under §1325(a)(5)(B)(ii), the Chapter 13 court must begin with the national prime rate and add the adjustment supported by the actual payment stream's additional repayment risk. The contract rate is relevant evidence when its components and comparability warrant consideration, but it carries no presumption and is not an automatic entitlement.
+
+**Authority:** Breyer's opinion of the Court, joined by Stone-Zsela, Stevens, Souter and Ginsburg; five Justices directly adopt the formula, allocation and remand.
+
+**Controlling explanation:** Section 1325(a)(5) separately allows acceptance, lien retention with effective-date present-value protection, or surrender. Section 506 and Rash identify the secured value of retained collateral; §1325(a)(5)(B)(ii) determines what deferred payments must provide for that value. Prime supplies an observable reference already containing baseline time value, risk and ordinary lending components. It is not risk-free. The court must determine the additional risk imposed by the actual plan, considering the debtor's circumstances, retained security, duration and terms insofar as they bear on repayment, without treating those considerations as an exclusive checklist.
+
+The contract or a replacement subprime loan can include origination, marketing and profit components unrelated to preserving this allowed claim's value. The statute does not automatically reproduce those components. Useful market evidence remains admissible to the actual inquiry, and ordinary components embedded in prime are not mechanically removed. The answer to the competing market-rate method is therefore a statutory and evidentiary distinction, not disregard of real credit risk. The Court's formula must compensate the risk proved. Contrary to the time-value-only reading, uncertainty of the promised cash payments affects their present value; feasibility addresses ability to perform and does not guarantee payment.
+
+### A creditor must substantiate the higher adjustment it demands
+
+**Holding and operative rule:** After the debtor supplies an adequate plan and financial foundation for a proposed formula rate, a creditor demanding a higher risk adjustment must show by a preponderance of the evidence that the additional adjustment is warranted. The debtor retains disclosure and responsive-evidence duties and the independently applicable confirmation responsibilities; this allocation concerns the creditor's requested increment.
+
+**Authority:** Breyer's opinion of the Court, joined by Stone-Zsela, Stevens, Souter and Ginsburg; five Justices adopt the allocation, ordinary proof standard and qualifications.
+
+**Controlling explanation:** The creditor's access to lending and collateral-market information supports assigning persuasion on its demanded increase to the creditor. Grogan v. Garner supplies the ordinary civil preponderance baseline in bankruptcy. Its discharge-exception holding addresses a different provision, but its general proof principle supports the ordinary standard for this monetary determination. Neither a creditor's substantial recovery interest nor the debtor's fresh-start interest supplies a heightened threshold.
+
+The court weighs all relevant evidence, including evidence supplied by the debtor. An increase supported by that evidence may be awarded even if the creditor fails to establish every part of its original demand; an unsupported portion receives no presumption. At evidentiary equipoise on the additional increment, the creditor has not carried its burden. Supported estimates and economic judgment remain permissible: preponderance measures persuasion that the adjustment is warranted, not mathematical certainty or proof that default itself is more likely than not.
+
+The debtor must first provide an adequate financial and plan foundation and respond to material contrary evidence. The court must reject an unsupported proposed rate, apply adequate present value and independently determine feasibility and other confirmation conditions. Creditor silence therefore supplies no automatic entitlement to confirmation. Conversely, the debtor's remaining responsibilities cannot transfer persuasion on the demanded increment back to the debtor after minimal creditor production; that would undo the allocation rather than implement it.
+
+The Treasury comparison establishes that prime already contains risk and other ordinary lending components. It does not establish this plan's default risk or the adequacy of the offered 1.5-point increment. The bankruptcy court must make supported findings after considering both parties' evidence.
+
+### Present value and feasibility must both be satisfied
+
+**Holding and operative rule:** The plan must provide the allowed secured claim's required present value and satisfy §1325(a)(6)'s separate requirement that the debtor can make all payments and comply with the plan. An adequate rate may not be reduced merely to make the plan affordable; if both conditions cannot be met, confirmation must be denied or a lawful amended plan considered.
+
+**Authority:** The same five-Justice opinion of the Court.
+
+**Controlling explanation:** Rash's adjusted replacement valuation preserves the relevant secured principal and fixes no interest methodology. Nobelman's protection of specified principal-residence mortgage rights does not preserve this truck lender's contractual rate. The court must identify the appropriate prime benchmark at confirmation, determine the supported risk addition and evaluate feasibility before approving the payment stream. The risk adjustment's scale must follow supported evidence concerning this plan.
+
+**Material precedent treatment:** Rash remains the valuation prerequisite, including its treatment of supported collateral prices and appropriate adjustments; it is not an interest-rate rule. Nobelman's home-mortgage protection remains separate.
+
+## Continuity and published separate positions
+
+The prime-plus method and the creditor's burden to substantiate a demanded higher risk adjustment by a preponderance of the evidence govern the presented Chapter 13 deferred-secured-payment question by five direct votes. Courts must separately enforce adequate present value and feasibility. Evidence of comparable lending may inform risk without restoring a contract-rate presumption. Valuation of the secured principal remains governed by §506 and Rash.
+
+**Thomas, concurring in the judgment.** Thomas reads §1325(a)(5)(B)(ii) to require compensation for delay in the cash the plan will distribute, while §1325(a)(6) separately addresses ability to make those payments. He accepts that uncertain payments have different economic value but considers the statute's identification of the distributed property decisive. A transferred note or other promise would itself be valued with its inherent risk; this plan distributes future cash.
+
+The record reports an 8 percent prime rate two points above a 6 percent risk-free Treasury benchmark. The offered 9.5 percent exceeds that temporal measure, so Thomas finds it sufficient for the interest component and rejects a higher rate demanded solely for default risk or the old contract. The statutory floor does not require reducing the debtors' offered rate. He preserves every other actual confirmation condition and orders no automatic final confirmation. His rationale does not join mandatory default-risk compensation or the Court's formula.
+
+**Scalia, dissenting, joined by O'Connor and Kennedy.** The three would affirm the Seventh Circuit's rebuttable contract/comparable-loan method and return for its application. The uncertain payment stream must be valued economically. The original transaction supplies a starting reference that may be displaced by current rates, collateral coverage, different unsecured exposure, payment duration, bankruptcy supervision, joint vehicle-and-financing pricing or other actual differences. A party seeking departure must substantiate the relevant change; the contract is evidence, not an immutable right to 21 percent.
+
+The dissent objects that a low prime starting estimate can underprice risk when disputes are expensive to litigate. Prime's own risk-and-cost spread does not establish the price of these debtors' payment stream. The three accept meaningful evidence of comparability and reject both a legally riskless cash assumption and confirmation obtained through an artificially low rate. If an adequate rate makes the plan infeasible, confirmation must fail.
+
+## Audit annex: frozen commitments and historical reconciliation
+
+### Frozen commitments
+
+Source: [frozen handoff](../freeze/OT_2003CHUNK6_CASE80_COMMITMENTS.md). Mechanically copied below; historical comparisons remain audit evidence and do not determine authorship.
+
+### Till v. SCS Credit Corp. — independent non-Chief commitments
+
+Event: May 17, 2004; No. 02-1016. Research cutoff: May 17, 2004. The pre-2005 Code governs. Uncoordinated same-day decisions are not entering law.
+
+#### Boundary and fixed record
+
+This context received the neutral case packet, B_PREFLIGHT, the case 80 entering-law slice and Engine instructions. The Chief Justice's position and the current historical comparator were neither supplied nor opened. No target-case historical research was undertaken. General model knowledge cannot be erased. Facts and source limits were preserved first in `OT_2003CHUNK6_B_MODEL_FACTS.md`. No current-Chief commitment, author, or opinion assignment is modeled.
+
+The allowed secured claim is $4,000; the original rate is 21 percent; the proposed rate is 9.5 percent, consisting of 8 percent prime and 1.5 points. Those figures do not independently establish the correct risk adjustment or feasibility. The Seventh Circuit selected a rebuttable contract-rate method. Rash's adjusted replacement value supplies the amount being protected, not an interest methodology. Its refusal mechanically to exclude every profit or overhead component from a supported collateral market price remains intact. Nobelman's special principal-residence mortgage protection does not govern this truck claim.
+
+#### Separable propositions and alternative methods
+
+All eight Associates accept that section 1325(a)(5) offers acceptance, lien retention with present-value protection, and surrender as distinct alternatives. The retained-collateral plan must satisfy subsection (B)(ii)'s effective-date value requirement and subsection (a)(6)'s separate ability-to-pay requirement. A method that measures value does not itself prove feasibility. The dispute is how to measure deferred-payment value, not the secured amount or the unsecured balance.
+
+**Prime-plus formula.** Stevens, Souter, Ginsburg and Breyer would reverse the contract presumption. Begin with an objective prime reference and make an adjustment for the demonstrated risk associated with the plan's deferred payments. Consider the debtor's financial circumstances, the security and the plan's actual payment duration and terms insofar as they bear on repayment risk. Those are applications of present-value measurement, not an exclusive checklist. The rate must reflect delay and the actual payment risk, without importing origination, marketing or profit components unrelated to the statutory value being preserved. The formula does not categorically prohibit useful market evidence or every component that appears in a lending rate; the question is its relation to deferred-payment value.
+
+The strongest contrary ground is that the creditor must accept a risky replacement loan, whose value is best measured by what comparable lenders would demand. The four formula supporters answer that Chapter 13 confirmation creates a supervised plan with a judicially valued secured claim; the old loan's full pricing and a new lender's customer-acquisition costs are not automatically prices for that statutory payment stream. A method grounded in a common reference and supported risk findings better isolates the measure Congress specified. Rash uses a market for the property actually retained and therefore does not dictate a hypothetical new-loan market for a different valuation task. No particular premium or numerical band is fixed on this record.
+
+**Comparable-loan measure with a rebuttable contract starting point.** O'Connor, Scalia and Kennedy would affirm the Seventh Circuit's method. The creditor's protected present value includes the economic effect of delayed, uncertain payment. A recent contract negotiated for this collateral and borrower is probative of that value; use its rate presumptively, subject to evidence that current risk, collateral coverage, duration, the confirmation setting or other economically relevant differences make it an unsuitable measure. Comparable lending evidence may rebut or refine the starting rate. A presumption is justified as an evidentiary starting point for a transaction already priced, not as a protected contractual entitlement or an irrebuttable 21 percent award.
+
+The strongest objection is that an old subprime contract embeds unsecured risk, origination expenses, collection assumptions and profit that a current secured payment stream does not warrant. The three supporters accept that actual comparability must be tested, but reject a presumption that a prime-based adjustment reliably prices this borrower's risk. They read Rash as support for identifying the relevant actual economic value through evidence, while recognizing that its collateral measure does not itself settle interest. The method cannot sustain an infeasible plan and cannot turn a distinct mortgage protection into a rule governing this truck.
+
+**Time-value-only construction.** Thomas would reverse the contract presumption on a different sufficient statutory ground. He reads the value-as-of-effective-date requirement as discounting the money to be distributed for delay, with the separate feasibility condition addressing whether those promised payments can be made. The statute does not direct courts to value the debtor's promise as a newly marketed loan or to add a default-risk premium to the actual money it directs the plan to distribute. The relevant temporal rate therefore compensates for deferral itself, with application supported by the actual payment schedule and evidence of the rate for such time value.
+
+The strongest objection is that money that may never be received is worth less at confirmation, so ignoring default risk understates the very value being measured. Thomas's answer is textual: subsection (B)(ii) identifies property to be distributed, while subsection (a)(6) independently addresses ability to perform; courts should not replace those separate statutory requirements with a hypothetical market-loan command. The other seven reject his exclusion of repayment risk, although they disagree about its measurement. His construction is not a factual finding that this plan is safe, that prime is risk-free, or that 9.5 percent necessarily supplies the correct temporal rate.
+
+#### Justice-specific commitments
+
+| Justice | Judgment | Rationale and own date-eligible foundation | Material limit or separate-writing function |
+|---|---|---|---|
+| Stevens | Reverse and remand for application of the formula method and supported risk/confirmation findings. | His Rash dissent separates collateral entitlement from the debtor's retained-use advantage and relies on distinct present-value safeguards instead of enlarging lien value. His Nobelman join respects provision-specific mortgage protection. His Lamie concurrence supports careful construction of the actual text and statutory setting. He adopts prime plus demonstrated payment risk here. | He does not revive his rejected Rash collateral valuation. A formula must actually preserve the allowed secured claim's value, and rehabilitation policy alone cannot justify an insufficient rate. |
+| O'Connor | Affirm the rebuttable contract method and return for its evidentiary application. | Her Rash join supports relevant economic evidence with appropriate adjustments; her Nobelman join distinguishes protection supplied by the particular Code provision. She treats the already priced credit transaction as the sounder rebuttable starting point for this payment stream. | She will not join a universal 21 percent entitlement. Current comparability, changed risk and plan terms remain relevant; confirmation still requires ability to perform. |
+| Scalia | Affirm the rebuttable contract method. | His Rash and Nobelman joins give operative effect to statutory value and property-right language rather than a general rehabilitation preference. In his reading, actual present value includes repayment risk; the creditor's transaction supplies a usable, rebuttable benchmark. | He rejects Thomas's elimination of risk and the formula supporters' assumption that a prime adjustment is the legally preferred measure. Preserving statutory value does not protect every original contract term. |
+| Kennedy | Affirm the rebuttable contract method. | His Rash and Nobelman joins preserve economically grounded valuation and provision-specific rights. He views the deferred plan stream as carrying credit risk that must be measured with evidence relevant to the borrower and retained security, using the contract as a rebuttable starting point. | The old rate can be displaced by demonstrated differences. He does not treat original bargaining as conclusive after bankruptcy or impose the home-mortgage exception on a vehicle. |
+| Souter | Reverse and remand under prime plus a supported risk adjustment. | His Rash join preserves evidence-based valuation rather than a mandatory quote; his Nobelman join keeps the different mortgage provision distinct. His Lamie joins accept the operative text while requiring careful attention to a genuine statutory ambiguity. Present value protects the allowed secured amount, not a new loan's full revenue model. | The prime reference is a starting point, not conclusive proof. Adequate risk compensation must be demonstrated; a desired affordable rate cannot displace the statutory value requirement. |
+| Thomas | Reverse and remand on the time-value-only construction. | His Nobelman opinion gives the words of each provision independent work, and his Rash join recognizes the precise property and transaction being valued. Here he separates actual money to be distributed from valuation of a risky promise and gives the feasibility clause its distinct role. | He does not join the risk-premium formula or the contract presumption. His separate ground explains why agreement in reversal does not support either method's complete rationale. No unsupported finding that the proposed rate exceeds a proved time-value rate is made. |
+| Ginsburg | Reverse and remand under the formula method. | Her Rash opinion measures the actual retained property and permits appropriate adjustments rather than an automatic retail figure. The same provision-specific discipline separates that collateral task from section 1325's discount inquiry. Her Lamie join supports applying the enacted compensation condition rather than restoring a displaced entitlement. | Rash's inclusion of profit within a demonstrated property price does not mandate an unrelated lending-profit allowance. Conversely, this rate rule does not silently change Rash's collateral-price treatment. |
+| Breyer | Reverse and remand under the formula method. | His Rash join accepts a practical, evidence-based measure tied to the actual statutory object; his Lamie join and concurrence recognize both enacted structure and its context. The prime reference plus demonstrated plan risk isolates the value of deferred secured payments without assuming a new-loan market identical to this plan. | The method is not permission to underestimate risk to make a plan affordable. A genuinely comparable market may inform the evidence; the supported record must still establish present value and feasibility separately. |
+
+#### Judgment arithmetic and assembly limits
+
+Five Associates support reversal: Stevens, Souter, Thomas, Ginsburg and Breyer. Four of them support the complete prime-plus-risk rationale; Thomas supports a materially different time-value-only rationale. Three Associates support affirmance of the rebuttable contract method: O'Connor, Scalia and Kennedy. No Chief Justice position is inferred.
+
+Agreement in reversing does not make Thomas a fifth vote for a risk premium. His reasoning is not a logical subset of the four-Justice formula: he rejects a component that the four consider required, and their grounds can prescribe different rates. The eight Associates do share the need to preserve the allowed secured value and separately satisfy feasibility. Any eventual controlling method must be established by actual proposition-level joins in assembly; no automatic Marks synthesis is supplied here.
+
+Reversal returns the method issue for findings and application under the adopted rule. The supplied packet does not establish the findings needed to order final confirmation at 9.5 percent; the commitments therefore support a method decision and remand. The affirming Justices preserve the Seventh Circuit's rebuttable-method direction rather than finally award the original rate. The court must determine the actual deferred-payment value and confirm only a plan satisfying the separate statutory conditions. No universal rate range, allocation of evidentiary burdens absent supplied authority, or rule for a different bankruptcy chapter is added.
+
+The method question and supported remand are ready for reconciliation. A disposition conclusively approving the particular rate would require the additional record support identified in the neutral preflight before new affected commitments could be frozen.
+
+### Frozen commitments recheck
+
+Source: [frozen handoff](../freeze/OT_2003CHUNK6_CASE80_COMMITMENTS_RECHECK.md). Mechanically copied below; historical comparisons remain audit evidence and do not determine authorship.
+
+### Till v. SCS Credit Corp.: independent commitments recheck
+
+Event and research cutoff: May 17, 2004. This new handoff leaves CASE80_COMMITMENTS unchanged. Authorized materials are the case 80 frozen neutral packet and original commitments, the case 80 entering-law slice, the case 80 portions of the neutral preflight and model-facts receipt, and the new neutral recheck addendum. Control confirms that the supplied plan provides future cash payments; no substituted-note or material benchmark-mismatch fact is supplied. No target-case historical outcome source, reconciliation, current controlled Chief Justice material or opinion assignment was received or consulted.
+
+#### Fresh neutral validation and additional evidentiary effect
+
+The new supplement reports Professor Russell's record testimony that prime at filing was two percentage points above the risk-free Treasury rate and that the spread consisted mostly of risk and partly of transaction costs. This is testimony in the record, not a new judicial finding about every loan, Treasury maturity, risk adjustment or confirmation element. Combined with the already supplied 8 percent prime reference, it identifies a reported 6 percent Treasury benchmark. The proposed 9.5 percent is 3.5 points above that benchmark. This arithmetic neither proves the plan's actual default risk nor establishes its feasibility.
+
+The testimony materially strengthens the application of Thomas's existing time-value-only construction: he need not assume that prime is risk-free or leave the rate component wholly undecided for want of any temporal benchmark. It also requires the formula supporters to acknowledge risk and some transaction costs already within prime rather than describing their starting point as pure time value. It does not establish that the contract's 21 percent is necessary or that the 1.5-point addition adequately prices this plan's risk.
+
+The separate allocation question is properly within the choice and operation of the present-value method. The statute's confirmation command requires satisfaction of its conditions; no existing entry in the slice independently decides a comprehensive burden rule for the disputed interest adjustment. The allocations below are therefore independently assessed consequences of each proposed method, supported by the statutory structure and the identified Justices' evidentiary and interpretive positions. They are not supplied historical holdings or inferred party concessions.
+
+#### Governing components retained by all eight
+
+Section 1325(a)(5) distinguishes acceptance, lien retention with effective-date present-value protection, and surrender. Section 506 and Rash determine the allowed secured value for the retained truck; they do not set this interest rate. Section 1325(a)(6) separately requires ability to make the payments and comply with the plan. Nobelman's protection of specified principal-residence mortgage rights does not preserve this vehicle lender's original rate as a contractual entitlement.
+
+The proponent must establish that the proposed plan satisfies the confirmation conditions, including adequate present value under the legally correct method and feasibility. An evidentiary starting point or a limited production allocation does not dispense with those conditions. The court must decide on the actual record, giving each side a fair opportunity to submit pertinent evidence. Creditor silence is not proof that an otherwise unsupported plan meets the statute, and lack of an operator's research source is not a creditor's evidentiary failure.
+
+#### Rechecked methods and their allocation rules
+
+**Prime plus a supported adjustment: Stevens, Souter, Ginsburg and Breyer.** These four retain reversal of the contract presumption. Begin with prime as an objective reference reflecting the market's baseline time value, risk and ordinary lending components; then determine the additional adjustment necessary for the actual deferred secured payments. The debtor's financial circumstances, retained security, payment duration and plan terms matter insofar as they bear on repayment risk, without becoming an exclusive checklist. The method must preserve the allowed claim's present value rather than recreate every expense or profit associated with originating a new subprime loan.
+
+The additional testimony does not defeat that method. A reference rate may contain risk and ordinary costs while remaining useful; the court must avoid treating the entire default risk as absent from prime or automatically reimbursing unrelated creditor-specific origination and marketing expense. Rash's treatment of profit embedded in a demonstrated collateral price remains unchanged because property valuation and deferred-payment discounting perform different statutory work.
+
+These four support placing the initial production responsibility for a requested higher risk adjustment on the creditor after the proponent supplies a plan and evidentiary basis sufficient to evaluate the proposed payments and adjustment. A creditor seeking more must identify the actual risk and supporting evidence rather than invoke the old rate alone. The lender's knowledge of relevant credit and collateral pricing supports that limited allocation, while the debtor must disclose and support the financial and plan facts within the debtor's knowledge. This is a burden of producing support for the claimed increase, not a transfer to the creditor of the ultimate responsibility to establish all confirmation conditions. The proponent retains that ultimate responsibility, must respond to material contrary evidence, and cannot obtain confirmation merely because the creditor produces nothing. The court may find the proposed rate inadequate from the existing record and must make supported risk findings.
+
+The strongest alternative places every aspect of the initial risk showing on the debtor because the debtor seeks confirmation and knows its finances best. The four accept the debtor's financial-disclosure and ultimate-persuasion responsibilities, but conclude that the creditor should substantiate a claimed increment beyond the supported proposed formula rather than enjoy a presumption from a differently priced original transaction. This division gives each party evidentiary work tied to its information without authorizing confirmation on an unsupported minimum rate. The supplied Treasury comparison does not determine the correct additional risk adjustment, so the four retain remand of that application.
+
+**Comparable lending with a rebuttable contract reference: O'Connor, Scalia and Kennedy.** These three retain affirmance of the Seventh Circuit's method. A rate that preserves the value of the uncertain payment stream should reflect economically comparable lending. The original transaction supplies a rebuttable starting point, subject to actual changes in risk, collateral coverage, duration, current rates, and the bankruptcy payment setting. The creditor has no irrevocable right to 21 percent, and a different underlying unsecured exposure or unrelated expense can undermine the old transaction's comparability.
+
+The added testimony strengthens their objection to treating prime as a complete rate tailored to this debtor: its spread reflects some baseline lending risk and cost, but does not identify the risk of the proposed payment stream. They accept that the proponent ultimately establishes confirmation and must produce evidence displacing the contract starting point when it proposes a lower rate. The creditor must substantiate disputed facts and comparability on which it actually relies; the presumption does not make unsupported assertions true or require the debtor to disprove every imagined risk. These three do not adopt a creditor production burden for increasing a prime-plus rate because they reject that rate as the governing starting point. The matter returns for application of the rebuttable method rather than an automatic 21 percent award.
+
+**Time value of deferred cash: Thomas.** Thomas retains reversal on his distinct reading of the property to be distributed. The submitted plan distributes future cash; section 1325(a)(5)(B)(ii) requires discounting that cash for delay, while subsection (a)(6) separately addresses the ability to make the promised payments. He does not read the former provision to require pricing a newly issued risky note or a hypothetical replacement loan. His rule addresses the actual deferred cash treatment presented, not the valuation of different property that a different plan might distribute.
+
+The newly supplied benchmark now supports his conclusion that the proposed 9.5 percent is adequate for the rate component under this construction. The reported risk-free benchmark is 6 percent; prime is already higher, and the proposed rate adds another 1.5 points. He therefore rejects SCS's demand for a higher rate based on default risk or the original contract without requiring a remand merely to decide whether 9.5 percent exceeds the supplied time-value measure. The statutory requirement is a floor; his view does not require reducing the debtors' offered rate to the minimum temporal rate.
+
+The strongest objection remains that uncertain cash is worth less than certain cash and feasibility is not a guarantee of full performance. Thomas accepts that economic distinction but finds that the enacted text separately identifies the cash to be distributed and the ability-to-perform condition; he declines to replace that division with valuation of a loan instrument the plan does not distribute. The proponent still must support the payment schedule, the temporal-value application and feasibility. Because default-risk compensation is not required under his construction, neither debtor nor creditor has a persuasion burden to establish a mandatory default-risk premium. This is a legal exclusion of that component, not a finding that the Tills have no default risk. The supported numerical conclusion supplies no automatic finding of every confirmation element.
+
+#### Eight rechecked commitments
+
+| Justice | Rechecked judgment and sufficient method | Retained or changed application and allocation; own date-eligible support |
+|---|---|---|
+| Stevens | Reverse the contract-presumption ruling and remand for prime plus supported plan-risk adjustment and remaining confirmation work. | **Method and remand retained; production allocation now specified.** His Rash dissent distinguishes the lien entitlement from the debtor's retained-use benefit and relies on separate present-value safeguards; his Nobelman join and Lamie concurrence require provision-specific construction. He places production of a requested higher adjustment on the creditor once the proponent supplies a sufficient evidentiary foundation, while retaining ultimate confirmation responsibility with the proponent. He recognizes that prime already contains risk and costs and does not find the particular 1.5-point addition sufficient merely from the new comparison. |
+| O'Connor | Affirm the rebuttable comparable-loan/contract method and return for its evidentiary application. | **Commitment retained; allocation made explicit.** Her Rash join supports actual economic evidence and appropriate adjustments, and her Nobelman join confines contractual protection to its statutory source. The Treasury spread does not establish the actual plan's credit price. The proponent must rebut the contract reference with relevant differences; disputed creditor evidence remains subject to support and review. She will not join an irrebuttable 21 percent entitlement or an ultimate burden on the creditor to disprove confirmation. |
+| Scalia | Affirm the rebuttable contract starting point as a method of preserving the risky stream's present value. | **Commitment retained.** His Rash and Nobelman joins require effect for the statutory object and value rather than rehabilitation preference. The new testimony does not quantify the debtor-specific risk that his method measures. He retains the proponent's ultimate burden and production responsibility for displacing the reference, while allowing relevant current comparability evidence. He rejects both Thomas's exclusion of default risk and a prime-based presumption that creditor silence establishes adequate value. |
+| Kennedy | Affirm the rebuttable contract/comparable-lending method; remand its actual application. | **Commitment retained; allocation clarified.** His Rash and Nobelman joins support economically grounded, provision-specific protection. He treats the actual transaction as evidence rather than a protected rate term, and would assess present differences before applying it. The proponent must establish the proposed reduction's adequacy; the creditor must support facts it advances. Neither the reported 6 percent Treasury rate nor prime's existing spread proves that 9.5 percent prices this payment stream. |
+| Souter | Reverse and remand under the prime-plus-risk method. | **Method retained; limited creditor production rule added.** His Rash join demands evidentiary adjustment, while his Nobelman and Lamie joins distinguish separate statutory functions. He supports requiring a creditor seeking a higher increment to identify actual risk evidence after the proponent's adequate presentation, without shifting ultimate present-value persuasion or making silence dispositive. The testimony corrects any pure-risk-free description of prime but leaves the necessary additional adjustment for supported determination. |
+| Thomas | Reverse the contract presumption on the time-value-only construction; treat the offered 9.5 percent as sufficient for this rate component on the supplied benchmark, with remaining confirmation work preserved. | **Method retained; rate application changed from wholly open to sufficient on this record.** His Nobelman opinion gives separate Code clauses independent effect; his Rash join identifies the actual property and transaction being valued. The cash/Treasury comparison supplies the evidence missing from his original numerical reservation. He does not join prime plus default risk, the contract presumption, or a creditor burden to justify a legally required risk premium. The proponent retains responsibility for the actual payment and feasibility conditions; he orders no automatic final confirmation. |
+| Ginsburg | Reverse and remand for the formula method and supported risk findings. | **Method and remand retained; production allocation specified.** Her Rash opinion requires an evidence-based measure with adjustments tied to the actual statutory property; her Lamie join respects the enacted conditions. She places production for a requested higher risk adjustment on the creditor within an adequate proponent record, while retaining ultimate confirmation persuasion with the proponent. She rejects automatic transplantation of all original-lending costs and also rejects a claim that prime is risk-free. The numerical premium and feasibility remain unproved by the new testimony alone. |
+| Breyer | Reverse and remand under prime plus a supported adjustment for the actual plan risk. | **Method retained; functional production allocation specified.** His Rash join and Lamie opinion/concurrence joins support practical measurement within the statute's structure. The lender should substantiate a demanded increase using its relevant pricing knowledge; the debtor must supply its financial information and establish the complete confirmation conditions. This is not a default entitlement to prime or 9.5 percent. The new comparison supports Thomas's different temporal inquiry but does not complete Breyer's risk inquiry. |
+
+#### Proposition-level relationships and remedy
+
+Five Associates continue to support reversal of the contract-presumption judgment: Stevens, Souter, Thomas, Ginsburg and Breyer. Four support prime plus a supported risk adjustment and the limited creditor production allocation described above. Thomas supports neither that risk requirement nor its allocation; he now resolves the adequacy of the offered interest component on his own time-value ground. O'Connor, Scalia and Kennedy support affirmance of the rebuttable contract method and its remaining evidentiary application.
+
+Thomas is not a fifth join in the formula method. His rule permits a rate satisfying time value even when the four would require additional default-risk compensation, and their rule does not adopt his distinction as a sufficient rate method. Agreement that 9.5 percent exceeds the reported Treasury benchmark does not supply common agreement that the plan's actual risk is adequately priced. No automatic Marks synthesis or unified governing discount method is inferred from the shared reversal.
+
+For the four formula supporters, reversal requires application of the formula to the actual plan and findings supporting the needed risk adjustment. The creditor must have an opportunity to produce support for a higher adjustment, the debtors must provide relevant plan and financial evidence and respond to contrary proof, and the bankruptcy court must determine adequate present value and feasibility. Their commitments neither prescribe a universal premium range nor conclusively approve the particular 1.5-point increment.
+
+Thomas would reject the contract/default-risk objection to the proposed 9.5 percent and permit further proceedings consistent with that resolved interest component. Those proceedings implement the actual payment terms and all independently remaining confirmation conditions; no additional inquiry is required solely to rediscover that the offered rate exceeds the supplied temporal benchmark. The three method-affirming Justices preserve the Seventh Circuit's rebuttable reference and require its evidentiary application, not an automatic award at the original contract rate.
+
+#### Readiness and limits
+
+This recheck creates no new rate evidence, maturity finding, default probability or feasibility finding. The supplied plan is future cash, and no speculative substituted note or unidentified benchmark mismatch is made a blocker. The official statutory reading copies and canonical prior holdings remain controlling over these analytical summaries. The original commitment file is preserved, and this fresh handoff is ready for separate historical reconciliation and subsequent proposition-level compatibility testing.
+
+### Frozen reconciled
+
+Source: [frozen handoff](../freeze/OT_2003CHUNK6_CASE80_RECONCILED.md). Mechanically copied below; historical comparisons remain audit evidence and do not determine authorship.
+
+### Till v. SCS Credit Corp. — reconciled non-Chief commitments
+
+Event: May 17, 2004; No. 02-1016. Research cutoff: May 17, 2004. The pre-2005 Bankruptcy Code governs; same-date matters supply no entering law.
+
+#### Boundary, source review and handoff sequence
+
+This fresh reconciliation context received the frozen neutral packet, original commitments, entering-law slice, B preflight and model-facts receipts, and scoped comparator. No current Chief Justice position was supplied or opened. The complete historical syllabus, plurality, concurrence in the judgment and dissent, including all notes, were read in `case80_02-1016.ZS.txt`, `.ZO.txt`, `.ZC.txt` and `.ZD.txt` in `sources/chunk6-comparator/`, corresponding to 541 U.S. 465–508. The official report PDF and extracted text are retained in that directory.
+
+Full-writing review identified the record's Treasury comparison and the formula opinion's express evidentiary allocation. A mechanical, outcome-free extraction and neutral allocation alternatives were returned in `OT_2003CHUNK6_CASE80_NEUTRAL_RECHECK_ADDENDUM.md`. A separate clean context validated those materials and produced `OT_2003CHUNK6_CASE80_COMMITMENTS_RECHECK.md`. This reconciliation reads that new frozen handoff without altering the original commitments. The numerical testimony's locator was verified against the official report at 541 U.S. 501 n.10, quoting App. 42.
+
+Historically, Stevens, Souter, Ginsburg and Breyer supported reversal under a prime-plus formula; Thomas supported reversal under a distinct time-value construction; O'Connor, Scalia and Kennedy supported the dissent's rebuttable contract-rate method. Those eight judgment alignments and principal methodological differences are retained. Historical authorship is evidence of each Justice's position, not a current assignment.
+
+#### Reconciliation of the operative methods
+
+The four formula supporters read the effective-date value requirement to protect the actual deferred secured payment stream. Prime is an objective starting reference that already includes baseline time value, risk and ordinary lending components; it is not a risk-free rate. The court adjusts it for the additional repayment risk of the actual plan. The debtor's circumstances, retained security, payment period and plan terms supply relevant evidence without becoming a closed checklist. The resulting rate must preserve present value; the method does not recreate all origination, marketing and profit components of an original or replacement subprime loan. Useful market evidence is not forbidden merely because it arises from lending, and embedded ordinary components in prime are not mechanically stripped away.
+
+The historical plurality expressly places the evidentiary burden for an upward risk adjustment on creditors because they have readier access to relevant lending and collateral-market information. Its explanation is not fairly reduced to a requirement that the creditor produce any evidence, after which every doubt about the requested increment must be resolved against the debtor. No changed statutory, factual or prior-law premise supports that weaker allocation for these four Justices.
+
+The rechecked allocation is therefore retained with this express reconciliation: once the debtor supplies an adequate plan and financial foundation for a proposed formula rate, a creditor demanding a higher risk adjustment bears the evidentiary burden of substantiating the need for that higher adjustment. The creditor must persuade the court that the asserted additional risk warrants the claimed increase; citing the original contract alone does not carry that burden. The debtor must disclose and support facts within its knowledge, respond to material contrary evidence and establish the independently applicable confirmation conditions. The court must determine that the record supports adequate present value and feasibility, and must reject an unsupported proposed rate even if the creditor supplies nothing. The creditor's burden on its requested increment does not place every confirmation condition on the creditor or make creditor silence an entitlement to confirmation. Conversely, preserving the debtor's overall confirmation responsibility does not erase the creditor's allocated burden on the higher adjustment. No separate numerical standard of proof is invented.
+
+This precision rejects the recheck's formulation to the extent its references to a merely initial production duty or retained ultimate present-value persuasion would transfer persuasion on the disputed increment back to the debtor after minimal creditor production. It leaves the four Justices' prime reference, adequate-foundation requirement, need for supported risk findings and remand intact. Their own historical plurality joins support the more precise allocation, and their Rash and Lamie positions supply no changed premise warranting departure. This is reconciliation of the already remitted allocation issue, not a new factual premise or an assembly-stage alteration.
+
+O'Connor, Scalia and Kennedy instead retain the contract as a rebuttable economic starting point. The old transaction can be displaced by evidence concerning current rates, actual collateral coverage, different unsecured exposure, duration, bankruptcy supervision or other differences bearing on comparability. The contract is evidence, not an independently protected right to 21 percent. A proponent seeking a lower rate must substantiate the relevant difference; a party seeking a higher rate likewise must substantiate that change. Joint pricing of the vehicle and financing can matter to comparability, and an identified effective alternative loan can be relevant. Their concern is that a low initial prime estimate will underprice risk when disputes are costly to litigate. It does not entitle the creditor to unsupported factual assertions or an irrebuttable original rate.
+
+Thomas retains a distinct construction of the property to be distributed. For the actual deferred cash payments, section 1325(a)(5)(B)(ii) requires compensation for delay rather than a debtor-specific default-risk premium; section 1325(a)(6) separately requires the ability to make the payments. This does not mean that the plan is riskless or that feasibility guarantees performance. Nor is it a rule eliminating inherent risk from the value of different distributed property: a note or other promise transferred as the property itself must be valued with its inherent risk. The present plan distributes cash, not such a substituted instrument.
+
+The clean recheck establishes that the record reports an 8 percent prime reference two points above a 6 percent risk-free Treasury benchmark. The offered 9.5 percent exceeds that reported temporal benchmark. Thomas therefore finds the offered rate sufficient under his construction, rejects a demand for more based solely on default risk or the old contract, and requires no remand simply to rediscover that comparison. The statutory floor does not require reduction of the debtors' offered rate. All independently remaining confirmation conditions remain distinct. This now agrees with his historical application and cures the original handoff's unsupported numerical reservation.
+
+#### Eight reconciled positions
+
+| Justice | Judgment and adopted ground | Historical comparison and individual basis |
+|---|---|---|
+| Stevens | Reverse and remand for prime plus a supported adjustment; creditor bears the evidentiary burden of substantiating its requested higher increment after an adequate debtor foundation. | Matches his historical method and judgment. His Rash dissent separates the retained-use valuation question from present-value safeguards, and his Lamie concurrence examines the actual statutory function. Neither prior position supports weakening the historical creditor allocation. He adopts no automatic 1.5-point premium or final confirmation finding. |
+| O'Connor | Affirm the rebuttable contract/comparable-lending method and return for application. | Matches her historical dissenting position. Her Rash and Nobelman joins support economically relevant evidence and provision-specific protection. She accepts adjustment when actual differences defeat the old rate's comparability and joins no irrebuttable 21 percent entitlement. |
+| Scalia | Affirm the rebuttable contract method; compensate actual default risk in the deferred stream. | Matches his historical method and judgment. His Rash and Nobelman positions support the statutory object being valued, and his historical dissent expressly permits rebuttal and recognizes transaction differences. He rejects both Thomas's cash/time-value-only reading and the formula starting point. If adequate risk compensation makes the plan infeasible, the answer is denial of confirmation, not an artificially lower rate. |
+| Kennedy | Affirm the rebuttable contract/comparable-lending method with evidentiary application remaining. | Matches his historical dissent join. His Rash and Nobelman positions preserve economically grounded value while distinguishing protected mortgage rights from this vehicle debt. The Treasury comparison does not prove the risk-adjusted price of this actual stream. |
+| Souter | Reverse and remand under prime plus supported risk; require the creditor to substantiate the higher adjustment it seeks. | Matches his historical plurality join. His Rash and Lamie positions require attention to the actual statutory measure and evidence. Overall debtor confirmation responsibility does not remove the creditor's burden on the disputed increment. No particular risk premium is established by the Treasury testimony. |
+| Thomas | Reverse on the cash-payment time-value construction; find 9.5 percent sufficient for this interest component, preserving independent confirmation work. | Matches his historical concurrence in judgment after the clean recheck. His Nobelman opinion and Rash join distinguish the actual statutory property and separate clauses. The new objective testimony supplies the previously missing benchmark; he supplies no fifth join for mandatory default-risk compensation or prime-plus methodology. |
+| Ginsburg | Reverse and remand under the formula, with the creditor bearing the evidentiary burden for a demanded higher adjustment after an adequate debtor presentation. | Matches her historical plurality join. Her Rash opinion requires a measure tied to the property actually valued; its collateral-price treatment neither dictates an interest rate nor excludes every embedded lending cost. Her Lamie join supplies no reason to depart from the historical allocation. Actual risk and feasibility remain for application. |
+| Breyer | Reverse and remand under prime plus supported plan risk; require substantiation of the creditor's requested increase while retaining debtor disclosure and independent confirmation duties. | Matches his historical plurality join. His Rash and Lamie positions support practical, evidence-based measurement within the enacted scheme. Information access supports the creditor's allocated evidentiary burden; it does not justify confirming an unsupported or infeasible plan. |
+
+#### Proposition-level support and remedy
+
+Five Associates support reversal: Stevens, Souter, Thomas, Ginsburg and Breyer. Four of them support the prime-plus-risk method and its creditor evidentiary allocation. Thomas supports the time-value-only method for these cash payments. Three support affirmance of the rebuttable contract method: O'Connor, Scalia and Kennedy. Seven Associates accept that the governing present-value measure should account for default risk, but they disagree about the starting point and the distribution of evidentiary responsibility. That shared proposition does not turn the three dissenters into joins in the formula or Thomas into a fifth formula supporter. No Chief Justice position is inferred.
+
+Thomas's rationale is not a logical subset of the formula rationale. His rule can approve cash payments at a temporal rate even where the other four require additional risk compensation. Conversely, they reject his exclusion of default risk as the sufficient measure of statutory value. Agreement in reversal and in the numerical comparison with Treasury yields no automatic Marks synthesis. Final assembly must identify actual proposition-level joins rather than manufacture a unified method from these distinct grounds.
+
+For the four formula supporters, the Seventh Circuit's contract presumption is reversed and the case returns through that court to the bankruptcy court for supported risk adjustment and remaining confirmation work. The court must permit relevant evidence from both sides, apply the allocation stated above and separately determine feasibility. The scale of the risk adjustment is not fixed here: neither 1.5 points nor a universal one-to-three-point range is adopted. An adequate rate cannot be reduced merely to make a proposed plan affordable; an inability to satisfy both adequate value and feasibility prevents confirmation.
+
+Thomas would reject the contract/default-risk objection to the proposed 9.5 percent on his distinct sufficient ground. Further proceedings implement that resolved interest component while preserving every other actual confirmation issue. He orders no automatic final confirmation. The three method-affirming Justices preserve the Seventh Circuit's rebuttable method and further evidentiary application, not an automatic award at 21 percent.
+
+Section 1325(a)(5)'s acceptance, retained lien with present-value protection, and surrender alternatives remain separate. Section 506 and Rash identify the allowed secured amount and adjusted replacement value for retained collateral; they fix no rate. Nobelman's specified principal-residence protection does not apply to the truck as a blanket right to its contract terms. The unsecured balance is outside this rate question. No categorical rule for Chapter 11 or a different bankruptcy chapter is adopted; market evidence must be evaluated for the actual statutory task and transaction.
+
+#### Reconciliation result and validation limits
+
+There is no supported departure from the eight Associates' historical judgment alignments or principal methods. Thomas's numerical application is updated through the separately validated clean recheck, and the four formula supporters' evidentiary allocation is stated with the force their historical opinion actually adopted. The original commitment and recheck files remain preserved. No new default rate, feasibility finding, maturity mismatch, party concession or plan fact is invented. The historical dissent's illustrative default-cost calculations and failure statistics are not findings about these debtors and are not imported.
+
+Physical reconciliation is complete and ready for assembly. No opinion author is assigned. Final compatibility, controlling-coalition classification and repository-history verification remain for control; no version-control operation was performed.
+
+## Audit annex: final scoped circulation
+
+Source: [scoped circulation reconciliation](../freeze/OT_2003CHUNK6_CASE80_CIRCULATION_RECONCILED.md). The following receipt is mechanically copied. Its express responses supplement the preserved original freezes and supersede the initial assembly treatment of these proposals.
+
+### Till — scoped circulation reconciliation
+
+Event and cutoff: May 17, 2004. This supplementary receipt tests a sanitized proposed refinement against the prior final reconciliation, the neutral packet and entering law. It does not replace either original commitment file or `OT_2003CHUNK6_CASE80_RECONCILED.md`. No current private position, internal Decision Record or assignment material was consulted. No author is selected.
+
+#### Proposal and decision
+
+The circulated proposal makes a creditor seeking a higher prime-plus risk adjustment persuade the court by the ordinary preponderance standard, after an adequate plan-proponent foundation, while preserving the proponent's ultimate confirmation responsibilities.
+
+**Stevens, Souter, Ginsburg and Breyer each adopt this refinement.** Their previous agreement already placed persuasion concerning the demanded higher adjustment on the creditor. Ordinary preponderance supplies the applicable quantum; it does not substitute mere production, reverse that allocation or import an extraordinary evidentiary demand. The prior receipt's refusal to invent a numerical proof standard was a reservation for examination, not a legal objection to the ordinary civil standard. This circulation resolves it.
+
+#### Legal basis and strongest contrary path
+
+Grogan v. Garner, 498 U.S. 279, 286–291 (1991), supplies the ordinary civil preponderance baseline and applies it within bankruptcy notwithstanding the competing interests in recovery and a fresh start. Its actual holding concerns section 523(a) discharge exceptions, not the allocation or calculation of a section 1325 interest adjustment. Its general proof principle is the relevant analogy: a special heightened standard requires a reason beyond a party's substantial monetary stake. The full official opinion, including every note, has been read. Stevens wrote it and Souter joined it before the simulation's divergence; no participation by Ginsburg or Breyer in that decision is asserted.
+
+The strongest objection is that section 1325 directs the court to find present value and makes the debtor responsible for confirmation, so the creditor's objection should require only production, leaving every doubt against the debtor. That would undo the formula supporters' already adopted allocation on the incremental risk dispute. The debtor's adequate financial presentation, duty to respond and independent confirmation responsibilities address unsupported proposals. They do not make the creditor's assigned persuasion burden disappear. A second objection is that prediction and rate selection cannot be proved with mathematical precision. Ordinary preponderance is a measure of persuasion on the economic showing, not a demand for mathematical certainty, exact future default prediction or proof that default itself is more likely than not.
+
+Neither the statutory text identified in the neutral packet nor the supplied entering law establishes a heightened standard for this monetary calculation. Rash supplies the distinct collateral-valuation task and its evidentiary discipline; Nobelman protects specified home-mortgage rights, not this truck's historical contract rate. Lamie supplies no contrary rule of proof. No changed factual premise is required to adopt the ordinary standard on the already presented adjustment issue.
+
+#### Individual circulation responses
+
+| Justice | Response to ordinary preponderance | Individual legal basis and limitation |
+|---|---|---|
+| Stevens | Join. | His Grogan opinion expressly rejects raising the ordinary civil threshold merely to favor one bankruptcy interest. His Rash dissent treats present-value protection as an independent safeguard rather than a reason to enlarge collateral valuation. Having assigned the creditor persuasion on an increased risk premium, he applies the ordinary standard to that issue. He does not infer that the proposed 1.5-point adjustment is established. |
+| Souter | Join. | His Grogan join accepts the ordinary proof baseline; his Rash and Lamie positions retain separate statutory tasks and a supported application. An adequate debtor foundation and creditor persuasion on the requested increment can coexist with the debtor's remaining duties. He rejects a formulation that would give the creditor its increase merely upon producing some evidence. |
+| Ginsburg | Join. | Her Rash opinion requires a valuation grounded in the transaction the statute actually addresses, with supported adjustments instead of mechanical amounts. Her adopted formula position similarly requires a supported adjustment and assigns the creditor the higher-increment burden. Applying Grogan's governing civil baseline makes that allocation operational without adding either a heightened obstacle to recovery or an automatic entitlement to the old rate. She does not claim that Rash itself decided the proof standard for interest. |
+| Breyer | Join. | His Rash and Lamie joins and adopted formula rationale favor an administrable, evidence-based implementation of the enacted task. The creditor's informational access supports the assigned burden, while ordinary preponderance distributes error in the familiar civil way. Requiring mathematical certainty would obstruct that practical inquiry; requiring only production would deprive the adopted persuasion allocation of force. Neither follows from his position. |
+
+#### Exact scope available for integration
+
+After the plan proponent provides an adequate evidentiary foundation for its proposed prime-plus rate, a creditor seeking a higher risk increment must show by a preponderance of the evidence that the additional adjustment is warranted. The court weighs all relevant evidence, including evidence supplied by the debtor; the creditor's burden does not restrict the source of proof. The creditor need not establish every feature of its original requested number to justify some supported increase, but an unsupported portion of that demand receives no presumptive effect. At evidentiary equipoise on whether the demanded additional increment is warranted, the creditor has not carried its burden on that increment.
+
+That consequence operates only after an adequate foundation. It does not compel acceptance of a facially insufficient rate, excuse missing debtor information, permit an infeasible plan or establish entitlement to final confirmation from creditor silence. The court must determine adequate present value on the record and independently apply feasibility and all other confirmation requirements. Conversely, those duties cannot be used to transfer persuasion on the creditor's requested increase back to the debtor. Supported estimates and economic judgment remain permissible; preponderance does not establish a fixed premium, a probability-of-default threshold or an across-the-board range.
+
+The four formula supporters retain reversal and remand for application. O'Connor, Scalia and Kennedy retain their distinct rebuttable contract method and affirmance positions; no join in this formula-specific refinement is solicited or inferred from their acceptance of default-risk compensation. Thomas retains reversal on his separate cash/time-value rationale and the sufficiency of the offered 9.5 percent for that interest component. His position supplies no formula join. The receipt therefore adds four express joins in the proof quantum, changes no Associate's judgment and creates no combined rationale by counting incompatible methods together.
+
+This is an explicit response to circulated language supported by each Justice's grounds, not an inference from silence or an automatic new join. The historical comparator remains reconciled as in the original receipt; the additional quantum is the ordinary civil standard, not a claim that the historical Till writings expressly decided that precise formulation.
+
+#### Verification
+
+Primary supplement: [Grogan v. Garner, official report](https://tile.loc.gov/storage-services/service/ll/usrep/usrep498/usrep498279/usrep498279.pdf). Complete PDF and extraction are saved in `sources/chunk6-circulation/grogan_498_279.pdf` and `.txt`. Original neutral facts, original and rechecked commitments, and original reconciliation remain unchanged. No version-control operation was performed.
+
+## Final validation
+
+Judgment votes and signed lead authors remain unchanged. The separately scoped circulation receipt supplies the actual additional Associate joins and, for Lane, each Justice's concrete objection to the stronger remedial prescription. The initial assembly's inference from an earlier unspecified detail is superseded; no new join is inferred from silence. The original assignment snapshots remain valid because the selected author and every previously eligible full joiner support the refined complete lead, and no governing coalition was lost. This is final assembly circulation within the original Run, not a reopened adjudication after chunk validation.
+
+The internal controlling-law kernel and public Holdings are identical. The eleven public blocks and matching runtime handoff preserve the actual judgment, full and partial joins, material qualifications and remaining work. Negative statements retain only adopted material limits, actual questions outside the presented record, disposition of requested relief or operative judgment status. The earlier assembly validation remains frozen as the check of the earlier formulation; the supplementary circulation validation records the final text. No adjudicative blocker remains.
+
+## Public Projection
+
+## Event
+
+**Till v. SCS Credit Corp., No. 02-1016.** Argued December 2, 2003. Decided May 17, 2004, on review of the Seventh Circuit's direction to use a presumptive contract-rate method under Chapter 13. The question is how deferred payments must preserve the effective-date value of an allowed secured claim over the creditor's objection.
+
+The retained truck secured an allowed claim of $4,000. The contract rate was 21 percent; the proposed plan used 9.5 percent, comprising an 8 percent prime reference and a 1.5-point addition. The plan distributes future cash.
+
+## Participation
+
+Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated in the decision.
+
+## Public Action
+
+Reversed and remanded, 6–3; five Justices adopt prime plus supported risk, Thomas concurs in the judgment.
+
+## Judgment & Remedy
+
+**Reversed and remanded, 6–3. Supporting:** Stone-Zsela, Stevens, Souter, Thomas, Ginsburg and Breyer. **Opposing:** O'Connor, Scalia and Kennedy.
+
+The Seventh Circuit's contract-rate presumption is reversed. The case returns for a prime-plus determination, supported risk findings and remaining confirmation work. Thomas supports reversal on a distinct ground that regards 9.5 percent as sufficient for the interest component while preserving the other confirmation conditions.
+
+## Opinion Topology
+
+Breyer delivered the opinion of the Court, joined by Stone-Zsela, Stevens, Souter and Ginsburg. Thomas filed an opinion concurring in the judgment. Scalia filed a dissenting opinion, joined by O'Connor and Kennedy.
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court | Breyer | Stone-Zsela, Stevens, Souter and Ginsburg | Reverse and remand | Prime plus supported risk; creditor's preponderance burden on a demanded higher adjustment; remaining confirmation duties |
+| Concurrence in the judgment | Thomas | — | Reverse on a distinct ground | Time value for deferred cash; 9.5 percent sufficient for that component; other confirmation conditions preserved |
+| Dissent | Scalia | O'Connor and Kennedy | Affirm the method below | Rebuttable contract/comparable-loan method and evidentiary application |
+
+## Holdings
+
+### Prime plus the supported risk adjustment preserves present value
+
+**Holding and operative rule:** For deferred payments of the allowed secured claim under §1325(a)(5)(B)(ii), the Chapter 13 court must begin with the national prime rate and add the adjustment supported by the actual payment stream's additional repayment risk. The contract rate is relevant evidence when its components and comparability warrant consideration, but it carries no presumption and is not an automatic entitlement.
+
+**Authority:** Breyer's opinion of the Court, joined by Stone-Zsela, Stevens, Souter and Ginsburg; five Justices directly adopt the formula, allocation and remand.
+
+**Controlling explanation:** Section 1325(a)(5) separately allows acceptance, lien retention with effective-date present-value protection, or surrender. Section 506 and Rash identify the secured value of retained collateral; §1325(a)(5)(B)(ii) determines what deferred payments must provide for that value. Prime supplies an observable reference already containing baseline time value, risk and ordinary lending components. It is not risk-free. The court must determine the additional risk imposed by the actual plan, considering the debtor's circumstances, retained security, duration and terms insofar as they bear on repayment, without treating those considerations as an exclusive checklist.
+
+The contract or a replacement subprime loan can include origination, marketing and profit components unrelated to preserving this allowed claim's value. The statute does not automatically reproduce those components. Useful market evidence remains admissible to the actual inquiry, and ordinary components embedded in prime are not mechanically removed. The answer to the competing market-rate method is therefore a statutory and evidentiary distinction, not disregard of real credit risk. The Court's formula must compensate the risk proved. Contrary to the time-value-only reading, uncertainty of the promised cash payments affects their present value; feasibility addresses ability to perform and does not guarantee payment.
+
+### A creditor must substantiate the higher adjustment it demands
+
+**Holding and operative rule:** After the debtor supplies an adequate plan and financial foundation for a proposed formula rate, a creditor demanding a higher risk adjustment must show by a preponderance of the evidence that the additional adjustment is warranted. The debtor retains disclosure and responsive-evidence duties and the independently applicable confirmation responsibilities; this allocation concerns the creditor's requested increment.
+
+**Authority:** Breyer's opinion of the Court, joined by Stone-Zsela, Stevens, Souter and Ginsburg; five Justices adopt the allocation, ordinary proof standard and qualifications.
+
+**Controlling explanation:** The creditor's access to lending and collateral-market information supports assigning persuasion on its demanded increase to the creditor. Grogan v. Garner supplies the ordinary civil preponderance baseline in bankruptcy. Its discharge-exception holding addresses a different provision, but its general proof principle supports the ordinary standard for this monetary determination. Neither a creditor's substantial recovery interest nor the debtor's fresh-start interest supplies a heightened threshold.
+
+The court weighs all relevant evidence, including evidence supplied by the debtor. An increase supported by that evidence may be awarded even if the creditor fails to establish every part of its original demand; an unsupported portion receives no presumption. At evidentiary equipoise on the additional increment, the creditor has not carried its burden. Supported estimates and economic judgment remain permissible: preponderance measures persuasion that the adjustment is warranted, not mathematical certainty or proof that default itself is more likely than not.
+
+The debtor must first provide an adequate financial and plan foundation and respond to material contrary evidence. The court must reject an unsupported proposed rate, apply adequate present value and independently determine feasibility and other confirmation conditions. Creditor silence therefore supplies no automatic entitlement to confirmation. Conversely, the debtor's remaining responsibilities cannot transfer persuasion on the demanded increment back to the debtor after minimal creditor production; that would undo the allocation rather than implement it.
+
+The Treasury comparison establishes that prime already contains risk and other ordinary lending components. It does not establish this plan's default risk or the adequacy of the offered 1.5-point increment. The bankruptcy court must make supported findings after considering both parties' evidence.
+
+### Present value and feasibility must both be satisfied
+
+**Holding and operative rule:** The plan must provide the allowed secured claim's required present value and satisfy §1325(a)(6)'s separate requirement that the debtor can make all payments and comply with the plan. An adequate rate may not be reduced merely to make the plan affordable; if both conditions cannot be met, confirmation must be denied or a lawful amended plan considered.
+
+**Authority:** The same five-Justice opinion of the Court.
+
+**Controlling explanation:** Rash's adjusted replacement valuation preserves the relevant secured principal and fixes no interest methodology. Nobelman's protection of specified principal-residence mortgage rights does not preserve this truck lender's contractual rate. The court must identify the appropriate prime benchmark at confirmation, determine the supported risk addition and evaluate feasibility before approving the payment stream. The risk adjustment's scale must follow supported evidence concerning this plan.
+
+**Material precedent treatment:** Rash remains the valuation prerequisite, including its treatment of supported collateral prices and appropriate adjustments; it is not an interest-rate rule. Nobelman's home-mortgage protection remains separate.
+
+## Precedent Treatment
+
+- **Associates Commercial Corp. v. Rash:** Applied to the allowed secured value of retained collateral and distinguished from the rate needed for deferred payment; its refusal mechanically to remove dealer profit and overhead from a supported collateral price remains intact.
+- **Nobelman v. American Savings Bank:** Distinguished because its protection of specified principal-residence mortgage rights does not grant a vehicle lender an automatic contractual rate.
+- **Lamie v. United States Trustee:** Applied to respect the distinct work of the enacted valuation and feasibility provisions.
+- **Grogan v. Garner, 498 U.S. 279:** Its ordinary civil preponderance principle is applied to the creditor's assigned higher-increment burden.
+
+## Law After Decision
+
+The prime-plus method and the creditor's burden to substantiate a demanded higher risk adjustment by a preponderance of the evidence govern the presented Chapter 13 deferred-secured-payment question by five direct votes. Courts must separately enforce adequate present value and feasibility. Evidence of comparable lending may inform risk without restoring a contract-rate presumption. Valuation of the secured principal remains governed by §506 and Rash.
+
+## Separate Writings
+
+**Thomas, concurring in the judgment.** Thomas reads §1325(a)(5)(B)(ii) to require compensation for delay in the cash the plan will distribute, while §1325(a)(6) separately addresses ability to make those payments. He accepts that uncertain payments have different economic value but considers the statute's identification of the distributed property decisive. A transferred note or other promise would itself be valued with its inherent risk; this plan distributes future cash.
+
+The record reports an 8 percent prime rate two points above a 6 percent risk-free Treasury benchmark. The offered 9.5 percent exceeds that temporal measure, so Thomas finds it sufficient for the interest component and rejects a higher rate demanded solely for default risk or the old contract. The statutory floor does not require reducing the debtors' offered rate. He preserves every other actual confirmation condition and orders no automatic final confirmation. His rationale does not join mandatory default-risk compensation or the Court's formula.
+
+**Scalia, dissenting, joined by O'Connor and Kennedy.** The three would affirm the Seventh Circuit's rebuttable contract/comparable-loan method and return for its application. The uncertain payment stream must be valued economically. The original transaction supplies a starting reference that may be displaced by current rates, collateral coverage, different unsecured exposure, payment duration, bankruptcy supervision, joint vehicle-and-financing pricing or other actual differences. A party seeking departure must substantiate the relevant change; the contract is evidence, not an immutable right to 21 percent.
+
+The dissent objects that a low prime starting estimate can underprice risk when disputes are expensive to litigate. Prime's own risk-and-cost spread does not establish the price of these debtors' payment stream. The three accept meaningful evidence of comparability and reject both a legally riskless cash assumption and confirmation obtained through an artificially low rate. If an adequate rate makes the plan infeasible, confirmation must fail.
+
+## Procedure After Action
+
+The case returns through the Seventh Circuit for the bankruptcy court to identify the prime benchmark, hear relevant evidence on the plan's additional risk, apply the creditor's preponderance burden on a demanded higher adjustment and enter a reasoned rate finding. The court must separately decide feasibility and the remaining confirmation conditions. The 9.5 percent proposal may be confirmed only on findings satisfying those requirements; an insufficient plan must be denied or lawfully amended.
+
+## Source Notes
+
+11 U.S.C. §§506(a), 1325(a)(5), 1325(a)(6); Associates Commercial Corp. v. Rash; Nobelman v. American Savings Bank; Grogan v. Garner, 498 U.S. 279, 286–291 (1991). The reported Treasury comparison is record testimony, App. 42, described at 541 U.S. 501 n.10; it establishes neither plan feasibility nor the necessary risk adjustment.

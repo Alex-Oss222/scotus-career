@@ -1,0 +1,3 @@
+OK: all 119 inventory identities match; existing manifest order preserved
+DEFERRED: all Git object and history verification; it is not included in this check result
+OK: non-Git checks only for OT2003; 0 deferred commit reference(s)

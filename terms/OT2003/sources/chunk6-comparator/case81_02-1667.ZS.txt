@@ -1,0 +1,216 @@
+Source: https://www.law.cornell.edu/supct/html/02-1667.ZS.html
+
+NOTE:  Where it is feasible, a
+syllabus (headnote) will be released, as is being done in
+connection with this case, at the time the opinion is
+issued.
+The syllabus constitutes no part of the opinion of
+the Court but has been prepared by the Reporter of Decisions
+for the convenience of the reader.
+See United States
+v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+TENNESSEE v. LANE et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE SIXTH CIRCUIT
+
+No. 02—1667. Argued January 13, 2004–Decided May 17,
+2004
+
+Respondent paraplegics filed this action for
+damages and equitable relief, alleging that Tennessee and a
+number of its counties had denied them physical access to that
+State’s courts in violation of Title II of the Americans
+with Disabilities Act of 1990 (ADA), which provides: “[N]o
+qualified individual with a disability shall, by reason of such
+disability, be excluded from participation or denied the
+benefits of the services, programs or activities of a public
+entity,” 42 U.S. C. §12132.  After the District Court
+denied the State’s motion to dismiss on Eleventh Amendment
+immunity grounds, the Sixth Circuit held the appeal in abeyance
+pending Board of Trustees of Univ. of Ala. v.
+Garrett, 531
+U.S. 356.  This Court later ruled in Garrett that
+the Eleventh
+Amendment bars private money damages actions for state
+violations of ADA Title I, which prohibits employment
+discrimination against the disabled.  The en banc Sixth Circuit
+then issued its Popovich decision, in which it
+interpreted Garrett to bar private ADA suits against
+States based on equal protection principles, but not those
+relying on due process, and therefore permitted a Title II
+damages action to proceed despite the State’s immunity
+claim.	Thereafter, a Sixth Circuit panel affirmed the
+dismissal denial in this case, explaining that
+respondents’ claims were not barred because they were
+based on due process principles.  In response to a rehearing
+petition arguing that Popovich did not control because
+respondents’ complaint did not allege due process
+violations, the panel filed an amended opinion, explaining that
+due process protects the right of access to the courts, and
+that the evidence before Congress when it enacted Title II
+established, inter alia, that physical barriers in
+courthouses and courtrooms have had the effect of denying
+disabled people the opportunity for such access.
+
+Held: As it applies to the class
+of cases implicating the fundamental right of access to the
+courts, Title II constitutes a valid exercise of Congress’
+authority under §5 of the Fourteenth
+Amendment to enforce that Amendment’s substantive
+guarantees.  Pp. 4—23.
+
+    (a) Determining
+whether Congress has constitutionally abrogated a State’s
+Eleventh
+Amendment immunity requires resolution of two predicate
+questions: (1) whether Congress unequivocally expressed its
+intent to abrogate; and (2), if so, whether it acted pursuant
+to a valid grant of constitutional authority.  Kimel v.
+Florida Bd. of Regents, 528 U.S. 62, 73.  The
+first question is easily answered here, since the ADA
+specifically provides for abrogation.  See §12202.  With
+regard to the second question, Congress can abrogate state
+sovereign immunity pursuant to a valid exercise of its power
+under §5 of the Fourteenth
+Amendment.	E.g., Fitzpatrick v. Bitzer, 427 U.S. 445, 456. 
+That power is not, however, unlimited.	While Congress must
+have a wide berth in devising appropriate remedial and
+preventative measures for unconstitutional actions, those
+measures may not work a “substantive change in the
+governing law.”  City of Boerne v. Flores,
+521 U.S. 507, 519.
+ In Boerne, the Court set forth the test for
+distinguishing between permissible remedial legislation and
+unconstitutional substantive redefinition: Section 5
+legislation is valid if it exhibits “a congruence and
+proportionality” between an injury and the means adopted
+to prevent or remedy it.  Id., at 520.  Applying the
+Boerne test in Garrett, the Court concluded that
+ADA Title I was not a valid exercise of Congress’ §5
+power because the historical record and the statute’s
+broad sweep suggested that Title I’s true aim was not so
+much enforcement, but an attempt to “rewrite” this
+Court’s Fourteenth
+Amendment jurisprudence.  531 U.S., at 372—374.  In
+view of significant differences between Titles I and II,
+however, Garrett left open the question whether Title II
+is a valid exercise of Congress’ §5 power,
+id., at 360, n. 1.	Pp. 5—10.
+
+      (b) Title II
+is a valid exercise of Congress’ §5 enforcement
+power.	Pp. 11—23.
+
+        (1) The
+Boerne inquiry’s first step requires identification
+of the constitutional rights Congress sought to enforce when it
+enacted Title II.  Garrett, 531 U.S., at 365.  Like
+Title I, Title II seeks to enforce the Fourteenth
+Amendment’s prohibition on irrational disability
+discrimination, Garrett, 531 U.S., at 366.  But it also
+seeks to enforce a variety of other basic constitutional
+guarantees, including some, like the right of access to the
+courts here at issue, infringements of which are subject to
+heightened judicial scrutiny.  See, e.g., Dunn v.
+Blumstein, 405
+U.S. 330, 336—337.  Whether Title II validly enforces
+such constitutional rights is a question that “must be
+judged with reference to the historical experience which it
+reflects.”  E.g., South Carolina v.
+Katzenbach, 383
+U.S. 301, 308.  Congress enacted Title II against a
+backdrop of pervasive unequal treatment of persons with
+disabilities in the administration of state services and
+programs, including systematic deprivations of fundamental
+rights.  The historical experience that Title II reflects is
+also documented in the decisions of this and other courts,
+which have identified unconstitutional treatment of disabled
+persons by state agencies in a variety of public programs and
+services.  With respect to the particular services at issue,
+Congress learned that many individuals, in many States, were
+being excluded from courthouses and court proceedings by reason
+of their disabilities.	A Civil Rights Commission report before
+Congress showed that some 76% of public services and programs
+housed in state-owned buildings were inaccessible to and
+unusable by such persons.  Congress also heard testimony from
+those persons describing the physical inaccessibility of local
+courthouses.  And its appointed task force heard numerous
+examples of their exclusion from state judicial services and
+programs, including failure to make courtrooms accessible to
+witnesses with physical disabilities.  The sheer volume of such
+evidence far exceeds the record in last Term’s Nevada
+Dept. of Human Resources v. Hibbs, 538 U.S. 721,
+728—733, in which the Court approved the family-care leave
+provision of the Family and Medical Leave Act of 1993 as valid
+§5 legislation.  Congress’ finding in the ADA that
+“discrimination against individuals with disabilities
+persists in such critical areas as … access to public
+services,” §12101(a)(3), together with the extensive
+record of disability discrimination that underlies it, makes
+clear that inadequate provision of public services and access
+to public facilities was an appropriate subject for
+prophylactic legislation.  Pp. 11—18.
+
+        (2) Title
+II is an appropriate response to this history and pattern of
+unequal treatment.  Unquestionably, it is valid §5
+legislation as it applies to the class of cases implicating the
+accessibility of judicial services.  Congress’ chosen
+remedy for the pattern of exclusion and discrimination at
+issue, Title II’s requirement of program accessibility, is
+congruent and proportional to its object of enforcing the right
+of access to the courts.  The long history of unequal treatment
+of disabled persons in the administration of judicial services
+has persisted despite several state and federal legislative
+efforts to remedy the problem.	Faced with considerable
+evidence of the shortcomings of these previous efforts,
+Congress was justified in concluding that the difficult and
+intractable problem of disability discrimination warranted
+added prophylactic measures.  Hibbs, 538 U.S., at 737. 
+The remedy Congress chose is nevertheless a limited one. 
+Recognizing that failure to accommodate persons with
+disabilities will often have the same practical effect as
+outright exclusion, Congress required the States to take
+reasonable measures to remove architectural and other barriers
+to accessibility.  §12132.  But Title II does not require
+States to employ any and all means to make judicial services
+accessible or to compromise essential eligibility criteria for
+public programs.  It requires only “reasonable
+modifications” that would not fundamentally alter the
+nature of the service provided, and only when the individual
+seeking modification is otherwise eligible for the service. 
+Ibid.  Title II’s implementing regulations make
+clear that the reasonable modification requirement can be
+satisfied in various ways, including less costly measures than
+structural changes.  This duty to accommodate is perfectly
+consistent with the well-established due process principle
+that, within the limits of practicability, a State must afford
+to all individuals a meaningful opportunity to be heard in its
+courts.  Boddie, 401 U.S., at 379.  A number of
+affirmative obligations flow from this principle.  Cases such
+as Boddie, Griffin v. Illinois, 351 U.S. 12, and
+Gideon v. Wainwright, 372 U.S. 335, make
+clear that ordinary considerations of cost and convenience
+alone cannot justify a State’s failure to provide
+individuals with a meaningful right of access to the courts. 
+Judged against this backdrop, Title II’s affirmative
+obligation to accommodate is a reasonable prophylactic measure,
+reasonably targeted to a legitimate end. 
+Pp. 18—23.
+
+315 F.3d 680, affirmed.
+
+    Stevens, J.,
+delivered the opinion of the Court, in which O’Connor,
+Souter, Ginsburg, and Breyer, JJ., joined.  Souter, J., filed a
+concurring opinion, in which Ginsburg, J., joined. Ginsburg,
+J., filed a concurring opinion, in which Souter and Breyer,
+JJ., joined.  Rehnquist, C. J., filed a dissenting
+opinion, in which Kennedy and Thomas, JJ., joined.  Scalia, J.,
+and Thomas, J., filed dissenting opinions.

@@ -1,0 +1,590 @@
+Comment 29: Use of Facts Available for NSC's Theoretical Weight 
+U.S. Sales.
+    NSC characterizes as an inadvertent mistake the fact that, in its 
+response to the initial questionnaire, NSC stated that a theoretical 
+weight to actual weight conversion factor could not be supplied because 
+coils sold on a theoretical basis are never weighed. Respondent states 
+that it believed this statement to be true at the time of filing. NSC 
+argues that it corrected this error within the Department's time limits 
+for submitting new information. In the alternative, NSC argues that the 
+conversion data it presented constitutes a minor correction. Thus, the 
+Department should have accepted the information under the minor 
+corrections rule. NSC states that the Department never rejected the 
+filings containing the corrections as untimely, and therefore abused 
+its discretion by refusing to verify this information and by applying 
+adverse facts available to the affected sales. NSC also argues that to 
+reject the information now would severely prejudice NSC's rights, that 
+this information meets the criteria set forth in section 782(e) of the 
+Tariff Act and, thus, that the Department must consider this 
+information in calculating a margin for NSC. Finally, NSC argues that 
+the Department incorrectly applied an adverse inference in the 
+preliminary determination regarding the theoretical-actual conversion 
+factor, because it did not first find that NSC had not acted to the 
+best of its ability to provide this information to the Department. To 
+the contrary, NSC argues its responses to the Department's requests for 
+information establish a pattern of cooperation and accuracy.
+    NSC further states that it was placed under extreme time pressures 
+in attempting to comply with the Department's accelerated schedule in 
+this investigation, and that this contributed to NSC's failure to 
+identify the mistake regarding the weight conversion factor.
+    NSC states that it realized in preparing for verification that all 
+hot-rolled coils are weighed during the production process, and that 
+these actual weight data are recorded at the production facilities. NSC 
+adds that the production databases do not overlap with the sales 
+databases at NSC's headquarters. NSC stated it obtained the actual 
+weight information, calculated a conversion factor and submitted this 
+information to the Department on February 22, 1999, prior to both the 
+cost and sales verifications. NSC also states that it filed additional 
+information on this subject on March 1, 1999.
+    NSC disagrees with the Department's statement in the Preliminary 
+Determination (February 19, 1999) that NSC had ``refused'' to provide a 
+conversion factor. NSC argues that this statement baselessly implies 
+that NSC intentionally withheld information, whereas, it claims, the 
+record shows that NSC cooperated fully but committed an inadvertent 
+error in its initial questionnaire response.
+    NSC states that the Department took no action to remove the 
+conversion factor from the record, and included in the verification 
+agenda an instruction that NSC explain how its production and sales 
+systems capture actual weight. NSC alleges that at verification, 
+``Department representatives repeatedly assured NSC that the 
+theoretical weight conversion factor would be verified. Those 
+assurances notwithstanding, NSC claims, the Department abruptly 
+informed it approximately two hours before the end of verification that 
+``Washington'' had directed that the conversion factor not be verified. 
+The Department also refused to allow NSC's representatives to even 
+explain the background of its initial mistake. The reasons for those 
+decisions have never been disclosed on the record and the verification 
+report was silent on theoretical weight.'' NSC Brief at 16. NSC 
+concludes that the Department's failure to verify this issue was 
+unwarranted and unexplained.
+    NSC further argues that (1) its correction was submitted more than 
+seven days prior to verification, (2) the conversion factor is not a 
+substantial revision to NSC's response, but is similar to the type of 
+corrections
+
+[[Page 24358]]
+
+allowed by the Department on the first day of or during verification 
+and (3) the Department had adequate time to analyze the conversion 
+factor prior to verification.
+    NSC cites Sec. 351.301(b)(1) of the Department's regulations, which 
+states that in an investigation, the time limit for submitting factual 
+information is no later than seven days before the commencement of 
+verification. NSC argues that it is the Department's practice to allow 
+respondents to amend questionnaire responses to correct limited errors 
+within this period, and to verify the accuracy of this information at 
+verification, and use the corrected data. See, e.g., Porcelain-on-Steel 
+Cooking Ware from the People's Republic of China; Final Results of 
+Administrative Review, 62 FR 32757, 32,759 (June 17, 1997); Notice of 
+Final Determination of Sales at Less than Fair Value: Certain Partial-
+Extension Steel Drawer Slides from the People's Republic of China, 60 
+FR 54472 (October 24, 1995); Notice of Determination of Sales at Not 
+Less than Fair Value: Stainless Steel Bar from Italy, 59 FR 66921, 
+66926 (December 28, 1994). See also Final Determination of Sales at 
+less than Fair Value: Certain Corrosion-Resistant Carbon Steel Flat 
+Products from Australia, 58 FR 37079, 37081 (July 9, 1993). NSC 
+acknowledges that the Department has rejected timely submissions which 
+are substantial revisions of previously submitted data or attempts to 
+respond to a questionnaire for the first time. See, e.g., Koenig & 
+Bauer-Albert AG v. United States, 15 F. Supp. 2d 834, 847 n.6 (CIT 
+1998); Final Determination of Sales at Less Than Fair Value: Certain 
+Cut-to-Length Steel From the People's Republic of China, 62 FR 61964, 
+61987 (November 20, 1997). NSC argues, however, that because submitting 
+its conversion factor is not comparable to submitting a substantial 
+quantity of new information, and because it answered the questionnaire 
+(albeit incorrectly as to this point) within the questionnaire 
+deadline, it properly corrected its response by submitting the 
+correction within the terms of the seven-day rule.
+    NSC argues that the Department accepts minor corrections even when 
+the correcting submissions are untimely filed. See Bowe-Passat v. 
+United States, 17 CIT 335, 337-8 (1993). NSC asserts that it is the 
+Department's practice to allow respondents to make minor revisions to 
+or to supplement questionnaire responses after the preliminary 
+determination, both prior to and during verification. See, e.g., Final 
+Determination of Sales at Less than Fair Value: Antifriction Bearings 
+(Other than Tapered Roller Bearings) and Parts Thereof from the Federal 
+Republic of Germany, 54 FR 18992, 19034 (May 3, 1989); Notice of Final 
+Determination of Sales at Less than Fair Value: Certain Pasta from 
+Italy, 61 FR 30326, 30352 (June 15, 1996); Notice of Final 
+Determination of Sales at Less than Fair Value: Certain Cut-to Length 
+Carbon Steel Plate from the Russian Federation, 62 FR 61787, 61789 
+(November 19, 1997); Notice of Final Determination of Sales at Less 
+than Fair Value: Certain Freshwater Crawfish Tail Meat from The 
+People's Republic of China, 62 FR 41347, 41356 (August 1, 1997); Usinor 
+Sacilor v. United States, 872 F. Supp. 1000, 1008 (CIT 1994). NSC 
+argues that the Department has allowed this type of revision where the 
+correction is limited and the corrected information is submitted early 
+enough to allow adequate time for the Department to analyze the 
+revision. NSC argues that its correction, which affects only a limited 
+number of its U.S. sales, qualifies as a minor correction.
+    NSC states that the timing of its correcting submissions allowed 
+the Department and petitioner adequate time to review its changes. See 
+Brother Indus. Ltd. v. United States, 771 F. Supp. 374, 383-84 (CIT 
+1991); Final Determination of Sales at Less than Fair Value; Steel Wire 
+Rope from Korea, 58 FR 11029, 11031 (February 23, 1993); Antidumping: 
+Circular Welded Carbon Steel Pipes and Tubes from Thailand; Final 
+Determination of Sales at Less than Fair Value, 51 FR 3384, 3386 
+(January 27, 1986).
+    NSC states, furthermore, that its conversion factor is so simple 
+that there was no analysis that the Department or petitioners could 
+have performed on it, and therefore the petitioner suffered no 
+disadvantage or prejudice from NSC's submission of the conversion 
+factor prior to verification. NSC adds that it would not have been 
+difficult for the Department to incorporate the factor into the margin 
+calculation. NSC also argues that use of its conversion factor, rather 
+than use of facts available, contributes to the accuracy of the record 
+on which the margin is calculated--a goal of the antidumping statute. 
+See Rhone-Poulenc, Inc. v. United States, 899 F.2d 1185, 1191 (Fed. 
+Cir. 1990).
+    NSC argues that, if the Department believed that the submissions 
+containing its conversion factor were untimely, the Department was 
+required under Sec. 351.301(c) and 351.302.(d) of its regulations to 
+reject and return the submissions to NSC with written notice stating 
+the reason for the return. See Koenig & Bauer-Albert AG v. United 
+States, 15 F. Supp. 2d at 847 n.6 (CIT 1998); Kerr-McGee Chem. Corp. v. 
+United States, 955 F. Supp. 1466, 1469-70 (CIT 1997); Usinor Sacilor v. 
+United States, 872 F. Supp. 1000, 1007 (CIT 1994); Gray Portland Cement 
+and Clinker from Mexico; Final Results of Antidumping Duty 
+Administrative Review, 64 FR 13148, 13153 (March 17, 1999); Final 
+Determination of Sales at Less than Fair Value: Certain Cut-to-Length 
+Steel Plate from the People's Republic of China, 62 FR 61964, 61985 
+(November 20, 1997). Because these submissions were on the record at 
+the time of verification, NSC states that the Department could not 
+refuse to verify the conversion factor. NSC also states that the 
+Department would prejudice the rights of parties by removing 
+information from the record without following the procedures 
+established in the regulations, since the record serves as the basis 
+for the parties' arguments before the Department or in a subsequent 
+appeal. See Kerr-McGee Chem. Corp. v. United States, 955 F. Supp. 1466, 
+1472 (CIT 1997).
+    NSC also notes that the Department has broad discretion in choosing 
+to accept untimely filed information onto the record, and thus the 
+parties must rely on the Department's notice of rejection to determine 
+the status of each submission. See Bowe-Passat v. United States, 17 CIT 
+at 338 (1993). Thus, NSC argues that to reject the information now 
+would deprive it of the opportunity to respond to the Department's 
+rationale for rejecting the submission, and to demonstrate that the 
+conversion factor could have been easily derived, which will prejudice 
+NSC by leading to the continued use of facts available.
+    NSC argues that if, notwithstanding the above arguments, the 
+Department wishes to resort to use of the facts available as to this 
+issue, pursuant to section 776(a)(2)(B) of the Act (19 U.S.C. 
+Sec. 1677e(a)(2)(B)), because NSC did not submit its conversion factor 
+within the questionnaire deadlines, the Department must also consider 
+the provisions of 782(e) of the Tariff Act (19 U.S.C. Sec. 1677m(e)). 
+See 19 U.S.C. Sec. 1677(e)(a)(2)(B); Borden, Inc. v. United States 
+(``Borden''), 4 F. Supp. 2d 1221, 1244-45 (CIT 1998). NSC argues that 
+the conversion factor submission meets the criteria set forth in 
+Sec. 1677m(e) (i.e., it is complete, capable of being verified, capable 
+of being used without undue difficulty, provided by NSC acting to the 
+best of its ability, and submitted within the deadline established for 
+its submission) and thus is appropriate for use in the final 
+determination.
+    NSC argues that its submission was timely because ``in the context 
+of Sec. 1677m(e)(1), the `deadline' cannot be
+
+[[Page 24359]]
+
+interpreted as the due date for the initial or supplemental 
+questionnaires because such an interpretation would nullify the express 
+reference to Sec. 1677m(e) in Sec. 1677e(a)(2)(B).'' NSC Brief at 31. 
+NSC argues that untimely information can still be considered for a 
+final determination, provided that it meets the requirements set out in 
+Sec. 1677m(e). NSC states that the reference to a ``deadline'' in 
+Sec. 1677m(e) should be interpreted as compliance with the seven-day 
+rule or the minor error rule, and thus NSC's conversion factor should 
+be used in the final determination.
+    The Department, according to NSC, may rely on information it does 
+not examine at verification. See Floral Trade Council v. United States, 
+822 F. Supp. 766, 722 (CIT 1993); Micron Tech., Inc. v. United States, 
+117 F.3d 1386, 1396 (Fed. Cir. 1997); Certain Cut-to-Length Carbon 
+Steel Plate from Germany: Final Results of Antidumping Duty 
+Administrative Review, 61 FR 13834, 13840 (1996). Moreover, NSC argues, 
+there is no reason to doubt the accuracy of its conversion factors 
+given the accuracy of other NSC information demonstrated at 
+verification.
+    NSC argues that, in the Preliminary Determination, the Department 
+did not make the requisite finding under section 776(b) of the Tariff 
+Act (19 U.S.C. Sec. 1677e(b)) and 19 C.F.R. Sec. 351.308.(a) that NSC 
+had failed to cooperate to the best of its ability; instead, it found 
+only that NSC had not provided the conversion factor requested. 
+Therefore, NSC argues, the Department was not justified in using an 
+adverse inference in selecting facts available to apply to the affected 
+sales. See Ferro Union, Inc. v. United States, Ct. No. 97-11-01973, 
+Slip Op. 99-27, 1999 CIT LEXIS 24, at *54 (March 23, 1999); D&L Supply 
+Co. v. United States, Ct. No. 92-06-00424, Slip Op. 98-81, 1998 CIT 
+LEXIS 79, at *4 (June 22, 1998). See also Certain Cold-Rolled and 
+Corrosion-Resistant Carbon Steel Flat Products from Korea: Final 
+Results of Antidumping Duty Administrative Reviews, 64 FR 12927, 12947 
+(Mar. 16, 1999). NSC states that this two-part process the Department 
+must undertake before using an adverse inference differs from the 
+Department's former BIA standard under prior law. See Antidumping 
+Duties; Countervailing Duties: Proposed Rule, 61 FR 7308, 7327 (1996).
+    NSC argues that the Department may only apply an adverse inference 
+if the Department determines that a party's failure to provide 
+information is ``deliberate.'' See Preamble to Proposed Rule, 61 FR at 
+7328; Borden Inc. v. United States, 4 F. Supp. 2d at 25 (CIT 1998); 
+Ferro Union Inc. v. United States, 1999 CIT LEXIS 24, at *7. NSC states 
+that the Department refused to verify the circumstances surrounding 
+NSC's failure to provide the actual weight data, although NSC sought to 
+have it do so. NSC contends that the Department cannot prevent 
+inclusion on the record of information relating to whether its initial 
+failure to provide these data was deliberate, and then conclude that it 
+was unwilling to provide the data. See Usinor Sacilor v. United States, 
+872 F. Supp. 1000, 1007 (CIT 1994).
+    NSC also states that the record as a whole evidences its 
+extraordinary level of cooperation. NSC states that the Department 
+cannot hold NSC to the ``standard of perfection'' that it appears to 
+have applied in the preliminary determination (see NTN Bearings Corp. 
+v. United States, 74 F.3d 1204, 1208 (Fed. Cir. 1995)), and that the 
+selection of adverse facts available was improper given the minor 
+adjustment in data involved (see Usinor Sacilor v. United States, 872 
+F. Supp. 1000,1007 (CIT 1994)). NSC argues that the Department should 
+not treat a respondent that simply errs the same way it treats a 
+respondent that refuses to reply to part or all of a questionnaire.
+    NSC argues that the rate assigned to it in the Preliminary 
+Determination was punitive, and that antidumping law prohibits imposing 
+punitive duties, calling instead for remedial measures. See NTN 
+Bearings Corp. v. United States, 74 F.3d 1204, 1208 (Fed. Cir. 1995). 
+For this reason, NSC contends, in choosing the ``facts available,'' the 
+Department must, at a minimum, select margins that are ``nonaberrant,'' 
+and not abnormal. See National Steel Corp. v. United States (``National 
+Steel I''), 870 F. Supp. 1130, 1134-37 (CIT 1994). NSC argues that it 
+is a Department policy upheld by the court that a margin used as facts 
+available must correspond to a substantial commercial quantity of a 
+respondent's sales that fall within the mainstream of that respondent's 
+sales. See National Steel Corp v. United States (``National Steel 
+III''), 929 F. Supp. 1577, 1579-80 (CIT 1996). NSC argues that the 
+margin the Department used in the Preliminary Determination for the 
+sales affected by this issue was the highest possible, and that 
+therefore it is ``aberrant.'' Finally, NSC argues that the extent of 
+increase in the total margin as a result of this issue constitutes an 
+impermissible penalty.
+    Petitioners argue that NSC's case brief and letters submitted after 
+the Preliminary Determination regarding the theoretical-actual weight 
+conversion factor amount to admissions that NSC did not act to the best 
+of its ability in responding to the Department's questionnaires and did 
+not provide information in a timely manner. Petitioners point out that 
+NSC stated that in preparing its responses, it failed to check the 
+records at the manufacturing facilities, despite two Department 
+requests for information maintained there. Petitioners argue that NSC's 
+failure to cooperate to the best of its ability warrants using adverse 
+inferences.
+    Petitioners stated that NSC's arguments that its post-Preliminary 
+Determination submissions regarding the conversions factor were timely 
+under the seven-day rule ignore 19 CFR Sec. 351.301(c)(2), which 
+authorizes the Department to set time limits for questionnaire 
+responses, and 19 CFR Sec. 351.302(d), which authorizes the Department 
+to return untimely filed questionnaire responses. Petitioners note that 
+the Department cited Sec. 351.302(d) in its supplemental questionnaire 
+issued on January 4, 1999. Petitioners contend that, under 19 CFR 
+Sec. 351.301(c)(2), the seven-day rule does not apply in these 
+circumstances.
+    Petitioners state that, because NSC indicated that it would not and 
+could not provide this data, and because the Department did not request 
+it again, the time for submitting new information other than specific 
+corrections had passed. For these reasons, petitioners argue that the 
+Department was authorized to use facts available. See Cut-to-Length 
+Steel from the People's Republic of China, 62 FR 61964, 61987 (November 
+20, 1997) (``Steel from China'').
+    Petitioners state that the cases cited by NSC at pages 17 and 18 of 
+its case brief are off point, because the respondents in those cases 
+sought to correct minor errors prior to verification. Petitioners argue 
+that, in the instant case, NSC is seeking to present new information 
+which contradicts earlier statements that the information did not 
+exist. Petitioners argue that Steel from China, also cited in NSC's 
+brief, is on point, in that the Department rejected information a 
+respondent had previously failed to provide in a questionnaire 
+response.
+    Petitioners also argues that even under the seven-day rule, the 
+conversion submission was untimely filed. Petitioners then argue that 
+NSC's three post-Preliminary Determination submissions reveal that NSC 
+did not make a reasonable inquiry to obtain the weight conversion 
+information in response to the Department's questionnaires. For this 
+reason, petitioners argue that NSC's case brief argument regarding the 
+Department's
+
+[[Page 24360]]
+
+failure to verify the information it submitted after the preliminary 
+determination is out of place and without merit. Finally, petitioners 
+argue that NSC incorrectly characterized its submission of the 
+conversion information as a minor correction. Petitioners state that 
+NSC's submission attempted to supply new information it had previously 
+characterized as unattainable and nonexistent. This type of 
+information, petitioners argue, is not eligible for untimely admission. 
+Petitioners argue that the Department acted correctly and should 
+continue to use adverse inferences in the final results.
+    Petitioners argue that all NSC information relating to the weight 
+conversion factor was submitted after the questionnaire deadlines and 
+was therefore untimely filed. Petitioners argue that under section 
+776(a)(2) of the Tariff Act (19 U.S.C. Sec. 1677e(a)(2)), the 
+Department was justified in rejecting this information and applying 
+facts available. Petitioners add that the statute mandates the use of 
+facts available in these circumstances, and that to refrain from using 
+facts available would run contrary to the intent of the law, which is 
+to encourage compliance with the Department's questionnaires. See SAA 
+at 868.
+    Petitioners also argue that NSC's claim that the Department 
+improperly rejected its weight conversion factor is without merit. 
+Petitioners state that, contrary to NSC's position, the seven-day rule 
+does not apply to the correlation submissions, since it does not serve 
+to extend the established deadlines for responses to the Department's 
+questionnaires. See 19 C.F.R. Sec. 351.301(b) and (c). The information 
+NSC attempted to submit, petitioners argue, was the subject of a 
+specific request in a Department questionnaire and was not provided by 
+the deadline set in that questionnaire.
+    Petitioners also rebut NSC's argument that its weight conversion 
+information was properly submitted as a minor correction. Petitioners 
+state that NSC's submission does not meet the standard for minor 
+corrections established in Titanium Sponge from the Russian Federation, 
+61 FR 58525, 58531 (November 15, 1996). According to petitioners, the 
+information NSC submitted was not a correction to anything, but was 
+instead information supplied for the first time after being repeatedly 
+withheld.
+    Petitioners state that NSC improperly relied on section 782(e) of 
+the Act (19 U.S.C. Sec. 1677m(e)) (the Department ``shall not decline 
+to consider information that is submitted by an interested party'') 
+because NSC did not submit its weight conversion information within the 
+deadlines established in the Department's questionnaires, and failed to 
+act to the best of its ability to comply with the Department's 
+requirements for supplying this information. See Borden, 4 F. Supp. 2d 
+at 1245. Petitioners note that NSC stated in its original questionnaire 
+response that, despite the Department's request, the factor was 
+unnecessary, and stated in its supplemental questionnaire response that 
+it could not calculate a factor, when in fact the required information 
+was within its records. Petitioners also point to NSC's statement that 
+the conversion factor was ``hardly the most pressing issue for NSC's 
+staff'' when preparing its response. See NSC Brief at 13. Petitioners 
+conclude that the requirements of section 782(e) are not met because, 
+if NSC had acted to the best of its ability, the information would have 
+been timely filed and NSC would not have presented inaccurate 
+explanations for its failure to provide this information.
+    Petitioners reject as irrelevant NSC's claims that its weight 
+conversion information should be accepted because its failure to 
+provide the data when they were originally requested was inadvertent. 
+Petitioners state that the statute does not require the Department to 
+determine whether a reporting failure is in good faith, and that the 
+Department cannot excuse inaccurate responses on the grounds of 
+``honest mistake.'' Petitioners argue that this would undermine the 
+Department's ability to gather information. Petitioners state that the 
+Department's rejection of NSC's responses regarding the conversion 
+factor as untimely was warranted under the statute and the Department's 
+practice.
+    Petitioners argue that the Department properly applied adverse 
+facts available because NSC failed to provide information under its 
+possession and control to the Department in a timely manner. These 
+circumstances, petitioners contend, show that NSC did not act to the 
+best of its ability in preparing this aspect of its questionnaire 
+response. See Borden, 4 F. Supp. 2d at 1246; Ferro Union 1999 CIT LEXIS 
+24, at * 55. Petitioner notes that, contrary to NSC's inference in its 
+case brief, affirmative evidence of bad faith is not required before 
+the Department can make an adverse inference. See Preamble, 62 FR at 
+27340.
+    Further, petitioners reject NSC's argument that the Department 
+should be precluded from making an adverse inference because much of 
+NSC's other information was timely submitted and verified. Petitioners 
+state that use of partial facts available is appropriate in these 
+circumstances. Petitioners state that NSC has pointed to no 
+justification for its claim that the adverse facts available margin 
+applied to NSC's U.S. theoretical weight sales was aberrant, and that 
+this may constitute the best information available. See National Steel 
+I, 870 F. Supp. at 1136; accord National Steel Corporation v. United 
+States (``National Steel II''), 913 F. Supp. at 596-597; see also 
+Stainless Steel Sheet and Strip in Coils from Mexico, 64 FR 124, 128 
+(January 4, 1999). The facts available margin, petitioners claim, was 
+based on NSC mainstream sales made under customary selling practices.
+    Finally, petitioners state that NSC was incorrect when it argued 
+that its only act of non-cooperation was to make a mistake in its 
+answer. Petitioners argue that NSC repeatedly withheld information 
+within its control, and issued statements as to why this information 
+was not provided which were shown to be untrue.
+    Department's Position: We agree with petitioners that the 
+Department should continue to apply adverse facts available with 
+respect to NSC's U.S. sales which are based on theoretical weight. 
+Section 776(a)(2) of the Act provides that if an interested party: (A) 
+withholds information that has been requested by the Department; (B) 
+fails to provide such information in a timely manner or in the form or 
+manner requested; (C) significantly impedes a proceeding under the 
+antidumping statute; or (D) provides such information but the 
+information cannot be verified, as provided in section 782(i), the 
+Department shall, subject to subsection 782(d), use facts otherwise 
+available in reaching the applicable determination. Section 776(b) of 
+the Act further provides that adverse inferences may be used where an 
+interested party has failed to cooperate by not acting to the best of 
+its ability to comply with the Department's requests for information. 
+See also, SAA at 870.
+    NSC reported most of its U.S. and home market sales on an actual 
+weight basis, with the exception of a small percentage of U.S. and home 
+market sales. The Department requested conversion factors for these 
+transactions in its original and supplemental questionnaires. Section 
+351.301(b)(1) of the Department's regulations provides generally that, 
+in an investigation, factual information can be submitted up to seven 
+days prior to verification. However, section 351.301(c)(2) states that 
+``[n]otwithstanding paragraph (b)'',
+
+[[Page 24361]]
+
+when requesting information pursuant to a questionnaire, the Department 
+will specify the deadlines by which time the information is to be 
+provided by the parties. Thus, NSC is incorrect in asserting that the 
+requested conversion data is timely because it was submitted within the 
+general deadline in section 351.301(b)(1). Any information submitted 
+after the deadline specified in the questionnaire is untimely, 
+regardless of whether the general deadline in section 351.301(b)(1) has 
+passed.
+    In the instant case, NSC failed to submit the requested information 
+by December 21, 1998 (the deadline for the original section B and C 
+questionnaire responses), nor did it provide this information by 
+January 25, 1999 (the deadline for submission of information requested 
+in the section B and C supplemental questionnaire). Despite repeated 
+requests for this information, NSC did not provide the requested data 
+until March 1, 1999 (nearly 3 months after the initial questionnaire 
+deadline).
+    NSC also argues that the conversion data falls within the 
+Department's practice of accepting ``minor corrections'' to 
+questionnaire responses after the response deadline has passed, 
+provided the Department has the information in time to verify it. 
+However, a minor correction is normally a correction to information 
+that was timely submitted. In this case, NSC did not timely submit the 
+conversion data that it subsequently sought to correct. NSC's only 
+response was that the data did not exist. While NSC characterizes that 
+statement as a correctable minor error, we disagree. The evidence 
+indicates that the requested information was routinely maintained by 
+NSC in the normal course of business, but that obtaining it was simply 
+not a priority. Regardless of who specifically knew about this 
+information, the sales department or the production department, the 
+data existed and could have easily been obtained. The fact that NSC was 
+able to provide this information shortly after the preliminary 
+determination also supports the conclusion that it could have done so 
+within the time requested. Moreover, it is impossible for the 
+Department to determine whether NSC's claims of inadvertent error are 
+valid or merely self-serving. Thus, they are insufficient to rebut the 
+evidence establishing that the requested information was readily 
+available.
+    Furthermore, timely, accurate conversion information is necessary 
+to the margin calculation and can have a significant impact. In 
+recognition of steel industry practices, the Department routinely 
+requests respondents in proceedings involving steel to provide either 
+the actual and theoretical weights of the transactions in both markets, 
+or in the alternative, to provide conversion factors to ensure apples 
+to apples comparisons on the same weight basis. See Preliminary 
+Determination of Sales at Less Than Fair Value: Circular Welded Non-
+Alloy Steel Pipe from Brazil, 57 FR 17883, 17884 (April 28, 1992). The 
+need for timely filed, verifiable actual weights or conversion factors 
+is particularly acute with flat rolled steel products in coils, 
+including those at issue. Assuming that the coils meet the 
+specifications of the ordered product, the actual width and the actual 
+thickness of the coils will vary within the allowed tolerances, but the 
+lengths of the coils are not specified in the available sales-related 
+documentation. Therefore, the total actual weight of the coils sold in 
+transactions denominated in theoretical weight can vary by a 
+significant, but unknown amount, as the actual dimensions of the coils 
+cannot be determined. Accordingly, the resulting unit values that would 
+be used in the Department's price-to-price comparisons could also vary 
+by a significant, but unknown amount. The Court of International Trade 
+has addressed the issue, upholding the Department's decision to apply 
+best information available when a theoretical-to-actual conversion 
+factor could not be verified. See Persico Pizzamiglio, S.A. v. United 
+States, 18 CIT 299, 305 (CIT 1994).
+    Because NSC's conversion data was untimely and did not constitute a 
+minor correction, the Department informed NSC at verification that it 
+would not accept the theoretical to actual weight conversion factors 
+and returned the data on April 12, 1999. Section 351.302(d) of the 
+Department's regulations provides that the Department will not retain 
+in the record information that is untimely or unsolicited. 19 C.F.R. 
+Sec. 351.302(d)(2). The fact that the Department did not reject this 
+information prior to verification did not prejudice NSC. Many decisions 
+are made between the preliminary and final determinations, including, 
+in some instances, the rejection of submissions. While the Department 
+must explain the basis for those decisions in its final determination, 
+it is under no obligation to do so before then. As evidenced by NSC's 
+case brief and the hearing transcript, the company was well aware of 
+the issue and has had ample opportunity to defend its interests. See 
+also Department's response to Comment 13, ``Ex Parte Communications'', 
+above.
+    Section 776 of the Act states that, if a party fails to provide 
+information by the established deadline, the Department shall, subject 
+to section 782(d), use the facts otherwise available. See also 19 
+C.F.R. 351.301(c)(2)(ii) (``failure to submit requested information in 
+the requested manner by the date specified may result in use of facts 
+available under section 776 of the Act and section 351.308.''). Section 
+782(d) of the Act provides that, subject to 782(e), the Department may 
+disregard a deficient response. NSC argues that the Department should 
+have used the conversion factor data because it meets the criteria of 
+section 782(e), i.e., it is complete, capable of being verified, 
+capable of being used without undue difficulty, provided by NSC acting 
+to the best of its ability, and submitted within the deadline 
+established for its submission. We find this argument unpersuasive. The 
+provision of the statute relied upon by NSC sets forth the 
+circumstances under which the Department will consider information 
+provided by a respondent, even though it may be deficient in some 
+respects. For example, if the freight information in a timely 
+questionnaire response is missing or cannot be used, the Department 
+will not reject the entire response; it will consider the remaining 
+information, provided that it is verified. There is simply no support 
+for NSC's argument that this provision is essentially an exception to 
+rejecting information that is submitted after the established deadline. 
+To the contrary, the first criterion in this provision is that ``the 
+information is submitted by the deadline established for its 
+submission.'' As noted above, NSC's conversion data was not submitted 
+by the deadline established in the questionnaire. Therefore, it does 
+not meet the criteria of section 782(e) and the use of facts available 
+for theoretical weight sales is warranted.
+    Because NSC failed to timely provide requested information, in 
+accordance with section 776 of the Act, the Department has made its 
+determination with respect to the theoretical weight sales on the basis 
+of the facts available. Further, the Department finds that NSC, by not 
+submitting a theoretical weight conversion factor it could have 
+provided when originally requested until well after the time for 
+response had passed, failed to cooperate by not acting to the best of 
+its ability. NSC's claims that it could provide a conversion factor in 
+March of 1999, but was unable to derive such a factor when the 
+questionnaire responses were due, does not withstand scrutiny. Although 
+NSC argues that it lacked the data necessary to calculate a conversion 
+factor, as required by section
+
+[[Page 24362]]
+
+782(c)(1) of the Act, it should have proposed to the Department the 
+sort of conversion factor it ultimately did calculate, explaining why a 
+more accurate one might not be practicable. Instead, NSC merely 
+dismissed the Department's repeated requests. As noted above, the data 
+requested was routinely maintained by NSC in the normal course of 
+business. It was readily available and would not have been burdensome 
+to produce in a timely manner. Moreover, NSC had other information to 
+use in providing a conversion factor. Nevertheless, NSC did not provide 
+the information until well after the established deadline. As noted 
+above, NSC's claims of inadvertent error are insufficient to overcome 
+these basic facts. The fact that NSC ultimately did provide such a 
+factor is proof that it could have done so much earlier. Thus, because 
+NSC failed to timely provide the requested conversion data, it has 
+``failed to cooperate by not acting to the best of its ability to 
+comply with an information request.'' Therefore, in accordance with 
+section 776(b) of the Act, the Department is authorized, to use an 
+adverse inference in choosing the facts otherwise available.
+    We have considered, but rejected, the suggestion made by NSC that 
+the Department use a theoretical-to-actual conversion factor from 
+another source as facts available. Because of the potential differences 
+in theoretical-to-actual variances among producers and for different 
+flat rolled products, particularly those sold in coils, we cannot 
+determine that an alternative theoretical-to-actual conversion factor 
+would be appropriate in this situation. Therefore, we have used a facts 
+available margin for these sales.
+    In selecting a facts available margin, we sought a margin that is 
+sufficiently adverse so as to effectuate the statutory purposes of the 
+adverse facts available rule, which is to induce respondents to provide 
+the Department with complete and accurate information in a timely 
+manner. We also sought a margin that is indicative of NSC's customary 
+selling practices and is rationally related to the transactions to 
+which the adverse facts available are being applied. To that end, we 
+selected margins from individual sales of CONNUMs that involved 
+substantial commercial quantities and fell within the mainstream of 
+NSC's transactions. Thus, as adverse facts available, we have 
+calculated an average of the highest calculated sale-specific margins 
+for each of the CONNUMs involved in the theoretical weight sales; that 
+is, we used margins from sales of the same CONNUMs with actual weight 
+sales for which we had all necessary information to calculate a margin. 
+Finally, we found nothing on the record to indicate that the 
+transactions that we selected were not conducted in a normal manner.
+    

@@ -1,0 +1,114 @@
+Source: https://www.law.cornell.edu/supct/html/02-1824.ZS.html
+
+NOTE:  Where it is feasible, a
+syllabus (headnote) will be released, as is being done in
+connection with this case, at the time the opinion is
+issued.
+The syllabus constitutes no part of the opinion of
+the Court but has been prepared by the Reporter of Decisions
+for the convenience of the reader.
+See United States
+v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+DRETKE, DIRECTOR, TEXAS DEPARTMENT OF
+CRIMINAL JUSTICE, CORRECTIONAL 
+INSTITUTIONS DIVISION
+v. HALEY
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE FIFTH CIRCUIT
+
+No. 02—1824. Argued March 2, 2004–Decided May 3,
+2004
+
+Respondent was charged with and convicted of
+felony theft.  Based on two prior convictions, he was also
+charged as a habitual offender.  Under Texas’ habitual
+offender statute, a defendant convicted of a felony is subject
+to a sentence of 2 to 20 years if (1) he has two prior felony
+convictions, and (2) the conviction for the first prior offense
+became final before commission of the second.  Texas law
+requires the State to prove the habitual offender allegations
+to a jury beyond a reasonable doubt at a separate penalty
+hearing.  The jury here convicted respondent of the habitual
+offender charge, and the judge sentenced him to 16½
+years.	As it turned out, the evidence presented at the penalty
+phase showed that respondent had committed his second offense
+three days before his first conviction became final,
+meaning that he was not eligible for the habitual offender
+enhancement.  No one, including defense counsel, noted the
+discrepancy–either at trial or on direct appeal. 
+Respondent first raised the issue in a request for state
+postconviction relief, arguing that the evidence at the penalty
+hearing was insufficient to support the habitual offender
+conviction.  The state court rejected his sufficiency of the
+evidence claim on procedural grounds, because he had not raised
+the issue earlier; the state court likewise rejected
+respondent’s claim that counsel had been ineffective for
+failing to object.  Respondent renewed his sufficiency of the
+evidence and ineffective assistance claims in a subsequent
+federal habeas application.  Conceding that respondent was not,
+in fact, eligible for the habitual offender enhancement, the
+State nevertheless argued that respondent had procedurally
+defaulted his sufficiency of the evidence claim.  The District
+Court excused the procedural default because respondent was
+actually innocent of the enhanced sentence; it thus did not
+reach the ineffective assistance claim.  The Fifth Circuit
+affirmed, holding that the actual innocence exception applies
+to noncapital sentencing procedures involving career offenders
+and habitual felony offenders.
+
+Held: A federal court faced with
+allegations of actual innocence, whether of the sentence or of
+the crime charged, must first address all nondefaulted claims
+for comparable relief and other grounds for cause to excuse the
+procedural default.  Normally, a federal court will not
+entertain a procedurally defaulted constitutional claim in a
+habeas petition absent a showing of cause and prejudice to
+excuse the default.  However, this Court recognizes a narrow
+exception to the general rule when the applicant can
+demonstrate actual innocence of the substantive offense,
+Murray v. Carrier, 477 U.S. 478, 496,
+or, in the capital sentencing context, of the aggravating
+circumstances rendering the inmate eligible for the death
+penalty, Sawyer v. Whitley, 505 U.S. 333.  The
+Court declines to answer the question presented here, whether
+this exception should be extended to noncapital sentencing
+error, because the District Court failed first to consider
+alternative grounds for relief urged by respondent.  This
+avoidance principle was implicit in Carrier itself,
+where the Court expressed confidence that, “for the most
+part, ‘victims of fundamental miscarriage of justice will
+meet the cause-and-prejudice standard,’ ” 477 U.S., at
+495—496, particularly given the availability of
+ineffective assistance of counsel claims, id., at 496. 
+Petitioner concedes that respondent has a viable and
+significant ineffective assistance of counsel claim.  Success
+on the merits would give respondent all of the relief that he
+seeks, i.e., resentencing, and also would provide cause
+to excuse the procedural default of his sufficiency of the
+evidence claim.  The many threshold legal questions often
+accompanying actual innocence claims provide additional reason
+for restraint.	For instance, respondent’s claim raises
+the question whether the holding of In re Winship, 397 U.S.
+358–that each element of a criminal offense must be
+proved beyond a reasonable doubt–should be extended to
+proof of prior convictions used to support recidivist
+enhancements.  Not all actual innocence claims will involve
+threshold constitutional questions, but, as this case
+illustrates, such claims are likely to present equally
+difficult questions regarding the scope of the actual innocence
+exception itself.  Pp. 5—9.
+
+306 F.3d 257, vacated and remanded.
+
+    O’Connor, J.,
+delivered the opinion of the Court, in which Rehnquist,
+C. J., and Scalia, Thomas, Ginsburg, and Breyer, JJ.,
+joined.  Stevens, J., filed a dissenting opinion, in which
+Kennedy and Souter, JJ., joined.  Kennedy, J., filed a
+dissenting opinion.

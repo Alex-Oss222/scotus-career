@@ -1,0 +1,87 @@
+Source: https://www.law.cornell.edu/supct/html/02-1689.ZS.html
+
+NOTE:  Where it is feasible, a
+syllabus (headnote) will be released, as is being done in
+connection with this case, at the time the opinion is
+issued.
+The syllabus constitutes no part of the opinion of
+the Court but has been prepared by the Reporter of Decisions
+for the convenience of the reader.
+See United States
+v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+GRUPO DATAFLUX v. ATLAS GLOBAL GROUP,
+L. P., et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE FIFTH CIRCUIT
+
+No. 02—1689. Argued March 3, 2004–Decided May 17,
+2004
+
+Respondent Atlas Global Group, L. P., a
+limited partnership created under Texas law, filed a state-law
+suit against petitioner, a Mexican corporation, in federal
+court, alleging diversity jurisdiction.  After the jury
+returned a verdict for Atlas, but before entry of judgment,
+petitioner moved to dismiss for lack of subject-matter
+jurisdiction because the parties were not diverse at the time
+the complaint was filed.  In granting the motion, the
+Magistrate Judge found that, as a partnership, Atlas was a
+Mexican citizen because two of its partners, also respondents,
+were Mexican citizens at the time of filing; and that the
+requisite diversity was absent because petitioner was also a
+Mexican citizen.  On appeal, Atlas urged the Fifth Circuit to
+disregard the diversity failure at the time of filing because
+the Mexican partners had left Atlas before the trial began and,
+thus, diversity existed thereafter.  Relying on Caterpillar
+Inc. v. Lewis, 519 U.S. 61, the Fifth
+Circuit held that the conclusiveness of citizenship at the time
+of filing is subject to an exception where, as here, the
+jurisdictional error was not identified until after the
+jury’s verdict and the postfiling change in the
+partnership cured the jurisdictional defect before it was
+identified.
+
+Held: A party’s postfiling
+change in citizenship cannot cure a lack of subject-matter
+jurisdiction that existed at the time of filing in a diversity
+action.  This Court has long adhered to the rule that
+subject-matter jurisdiction in diversity cases depends on the
+state of facts that existed at the time of filing. 
+Caterpillar’s statement that “[o]nce a
+diversity case has been tried in federal court …
+considerations of finality, efficiency, and economy become
+overwhelming,” 519 U.S., at 75, did not augur a new
+approach to deciding whether a jurisdictional defect has been
+cured.	The jurisdictional defect Caterpillar addressed
+had been cured by the dismissal of the party that had destroyed
+diversity, a curing method that had long been an exception to
+the time-of-filing rule.  This Court has never approved a
+deviation from the longstanding rule that “[w]here there
+is no change of party, a jurisdiction depending on the
+condition of the party is governed by that condition, as it was
+at the commencement of the suit.”	Conolly v.
+Taylor, 2 Pet. 556, 565 (emphasis added).  Dismissal for
+lack of subject-matter jurisdiction is the only option
+available here.  Allowing a citizenship change in the
+partnership to cure the jurisdictional defect existing at the
+time of filing would contravene the Conolly
+principle.  Apart from breaking with this
+Court’s longstanding precedent, holding that
+“finality, efficiency, and judicial economy” can
+justify suspension of the time-of-filing rule would create an
+exception of indeterminate scope that is bound to produce
+costly collateral litigation.  Pp. 3—16.
+
+312 F.3d 168, reversed.
+
+    Scalia, J., delivered
+the opinion of the Court, in which Rehnquist, C. J., and
+O’Connor, Kennedy, and Thomas, JJ., joined.  Ginsburg, J.,
+filed a dissenting opinion, in which Stevens, Souter, and
+Breyer, JJ., joined.

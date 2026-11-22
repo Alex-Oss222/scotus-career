@@ -1,0 +1,42 @@
+# Case 87 — completed-law dependency reconciliation
+
+Yarborough v. Alvarado, No. 02-1684. Merits event and research cutoff: June 1, 2004. This receipt completes the chronology condition in `OT_2003CHUNK6_CASE87_RECONCILED.md` after the actual May 3, 2004 Middleton and Dretke decisions. The original frozen neutral packet, commitments and reconciliation remain unchanged. No private Chief position, internal Decision Record or assignment material was read for this review.
+
+## Authorized inputs and determination
+
+Read the completed public handoffs `terms/OT2003/runtime/OT_2003CHUNK6_middleton_v_mcneil_merits_2004-05-03_PUBLIC.md` and `terms/OT2003/runtime/OT_2003CHUNK6_dretke_v_haley_merits_2004-05-03_PUBLIC.md`; the case 87 frozen neutral packet, objective source addendum, commitments and reconciliation; and the relevant current-law portions of `terms/OT2003/entering-law/OT_2003CHUNK6_CASE87.md`. The public handoffs supply the effective completed decisions. The entering-law slice remains a reading copy of its cited authorities.
+
+**Determination:** Neither completed decision changes a material factual, legal, procedural or remedial premise of the frozen eight positions. No renewed modeling or revised reconciliation is required. The Middleton chronology condition is satisfied, and Dretke's claim-specific statutory trigger has also been screened. The four-to-four Associate division and every existing qualification remain operative for assembly.
+
+## Middleton: present review method and earlier substantive cutoff
+
+Middleton applies Williams, Andrade and Visciotti without changing their rules. Its unanimous holding examines the complete supported charge and trial context, keeps ordinary disagreement distinct from objective statutory unreasonableness, and measures clearly established substantive holdings at the state merits adjudication. Its particular result rests on the express actual-but-unreasonable distinction elsewhere in that charge and the relation between the instructions. It neither makes repeated correct language an automatic cure nor permits counsel to replace an unambiguously contrary judicial command.
+
+Alvarado already receives the same two inquiries: objective Miranda custody under the pre-1999 governing holdings, followed by whether the state court's contrary conclusion falls beyond the permissible range under section 2254(d)(1). The frozen positions assess the entire supported interview, including the evidence opposing each proposed result. Middleton supplies no new custody rule, factual-twin requirement, general presumption that contextual state decisions are reasonable, or numerical test based on the number of judges who disagree. Its 2004 instructional application cannot become newly established Miranda law for the 1999 adjudication.
+
+The four Justices supporting custody relief can consistently join Middleton's contextual conclusion and find the different Alvarado encounter objectively arrest-equivalent beyond the statutory range. Their position must continue to explain why voluntary arrival, offered breaks, absence of physical restraint and eventual departure do not reasonably overcome the combined duration, separation, communicated accusations and apparent youth. It cannot rest merely on a preferred independent custody answer, the disputed parental-refusal allegation or later constitutional authority. The frozen reconciliation already imposes those limits.
+
+## Dretke: the statutory restriction attaches to the actual claim
+
+Dretke's new factual-eligibility gateway concerns procedural default of a constitutional challenge to a noncapital recidivist enhancement. Alvarado presents no such default or enhancement claim. That gateway therefore changes neither access to review nor the applicable burden here.
+
+Dretke separately requires an independent constitutional adjudication and the collateral restrictions applicable to each actual claim. A state merits adjudication of one claim does not trigger section 2254(d) for a different procedurally rejected claim. Here the custody claim itself was rejected on its merits as noncustodial. Its section 2254(d)(1) trigger therefore remains established without borrowing any adjudication from another claim. Dretke also preserves the temporal conditions of the actual claim and does not move later constitutional holdings backward.
+
+For the four custody proponents, Dretke reinforces the existing distinction between passing the statutory condition, establishing custody and determining the admission and prejudice consequences required for a writ. It does not establish those remaining consequences. For the reversal group, rejection at the statutory condition continues to make further prejudice adjudication unnecessary on this ground. Any separately preserved claim retains its own conditions; none is newly found, defaulted or resolved in this receipt.
+
+## Eight-position continuity check
+
+| Justice | Position retained | Effect of the completed decisions |
+|---|---|---|
+| Stevens | Affirm statutory unreasonableness and custody; complete any independently unresolved admission and prejudice work before a writ. | His Middleton join approves that charge's supported contextual conclusion. It does not negate his full-encounter custody analysis here. Dretke preserves the difference between gateway satisfaction and actual constitutional relief. |
+| O'Connor | Reverse the custody-based writ determination and implement denial on that ground. | Middleton confirms her existing separate statutory inquiry. Dretke confirms its application to this merits-adjudicated custody claim. Her refusal to categorically exclude apparent age remains intact. |
+| Scalia | Reverse under section 2254(d)(1) because the state result remains within the established rule's permissible range. | Both decisions preserve his statutory ground. Neither supplies a new categorical age rule or requires investigation of private experience. |
+| Kennedy | Reverse the custody-based habeas determination and reinstate denial on that ground. | Middleton's supported-record method matches his frozen analysis. Dretke's claim-specific rule does not change the custody claim's actual merits adjudication or his application of the statutory range. |
+| Souter | Affirm statutory unreasonableness and custody, preserving independently necessary admission and prejudice work. | His Middleton join accepts context-sensitive review rather than automatic deference from a correct formula. He retains the conclusion that the materially different full interview exceeds the permitted range. Dretke changes no remaining relief requirement. |
+| Thomas | Reverse at the statutory condition. | Middleton and Dretke confirm the current restriction already applied to this state merits decision. They do not alter the classification of historical facts, import former-law review, or establish universal noncustody for station interviews. |
+| Ginsburg | Affirm the statutory and custody conclusions, with independent admission and prejudice requirements preserved. | Middleton's case-specific assessment is consistent with finding the entire Alvarado encounter objectively unreasonable under the earlier custody rule. Dretke supplies no automatic writ from custody and changes no supported fact. |
+| Breyer | Affirm statutory unreasonableness and custody; preserve ordinary remaining relief requirements through a bounded remand. | His Middleton join remains compatible with applying a general established rule to different facts without a factual twin. Dretke reinforces his recorded distinction between access to merits adjudication and entitlement to relief. |
+
+## Handoff
+
+O'Connor, Scalia, Kennedy and Thomas remain for reversal of the custody-based writ determination. Stevens, Souter, Ginsburg and Breyer remain for affirmance of the statutory and custody conclusions, with any independently unresolved admission and prejudice questions decided before final relief. No immediate release, acquittal, unconditional new trial, automatic evidentiary hearing or independent coerced-confession finding follows. Apparent youth remains distinct from private experience; the disputed parental-refusal account remains excluded as a dispositive finding. No historical departure, changed commitment or new controlling proposition is created by this dependency review. The original reconciliation, read with this completed-law receipt, is ready for assembly.

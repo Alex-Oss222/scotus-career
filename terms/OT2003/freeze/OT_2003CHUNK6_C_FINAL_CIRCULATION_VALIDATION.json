@@ -1,0 +1,77 @@
+{
+  "84": {
+    "record": "benjamin_v_fraser_merits_2004-05-20.md",
+    "record_sha256": "145cd9ed297d158e6565e329ff2e80a02cb36c67fdadcc530440d1ee74d52950",
+    "holdings_identity": true,
+    "explanation_words": [
+      171,
+      176,
+      117,
+      138,
+      191
+    ],
+    "author_and_assignment_counts_unchanged": true,
+    "public_blocks": [
+      "Event",
+      "Participation",
+      "Public Action",
+      "Judgment & Remedy",
+      "Opinion Topology",
+      "Holdings",
+      "Precedent Treatment",
+      "Law After Decision",
+      "Separate Writings",
+      "Procedure After Action",
+      "Source Notes"
+    ]
+  },
+  "86": {
+    "record": "nelson_v_campbell_merits_2004-05-24.md",
+    "record_sha256": "f7b3bf750f8c89be4828606e19224b7b31e6a254bb37bd333e4b502bae86219c",
+    "holdings_identity": true,
+    "explanation_words": [
+      200,
+      127,
+      168,
+      159
+    ],
+    "author_and_assignment_counts_unchanged": true,
+    "public_blocks": [
+      "Event",
+      "Participation",
+      "Public Action",
+      "Judgment & Remedy",
+      "Opinion Topology",
+      "Holdings",
+      "Precedent Treatment",
+      "Law After Decision",
+      "Separate Writings",
+      "Procedure After Action",
+      "Source Notes"
+    ]
+  },
+  "87": {
+    "record": "yarborough_v_alvarado_merits_2004-06-01.md",
+    "record_sha256": "7179b8760692fd41215fcd38771f0d6f43be0d46491f7bd8c855c5244f9a1201",
+    "holdings_identity": true,
+    "explanation_words": [
+      173,
+      212
+    ],
+    "author_and_assignment_counts_unchanged": true,
+    "public_blocks": [
+      "Event",
+      "Participation",
+      "Public Action",
+      "Judgment & Remedy",
+      "Opinion Topology",
+      "Holdings",
+      "Precedent Treatment",
+      "Law After Decision",
+      "Separate Writings",
+      "Procedure After Action",
+      "Source Notes"
+    ]
+  },
+  "supersedes": "The applicable presentation and join-account entries in OT_2003CHUNK6_C_ASSEMBLY_VALIDATION.json; its original count snapshots remain valid."
+}

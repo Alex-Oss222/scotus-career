@@ -1,0 +1,82 @@
+{
+  "72": [
+    "case72_02-1205.ZO.txt",
+    "case72_02-1205.ZS.txt"
+  ],
+  "73": [
+    "case73_02-1824.ZD.txt",
+    "case73_02-1824.ZD1.txt",
+    "case73_02-1824.ZO.txt",
+    "case73_02-1824.ZS.txt"
+  ],
+  "74": [
+    "case74_02-1657.ZD.txt",
+    "case74_02-1657.ZO.txt",
+    "case74_02-1657.ZS.txt"
+  ],
+  "79": [
+    "case79_02-1606.ZC.txt",
+    "case79_02-1606.ZD.txt",
+    "case79_02-1606.ZO.txt",
+    "case79_02-1606.ZS.txt"
+  ],
+  "80": [
+    "case80_02-1016.ZC.txt",
+    "case80_02-1016.ZD.txt",
+    "case80_02-1016.ZO.txt",
+    "case80_02-1016.ZS.txt"
+  ],
+  "81": [
+    "case81_02-1667.ZC.txt",
+    "case81_02-1667.ZC1.txt",
+    "case81_02-1667.ZD.txt",
+    "case81_02-1667.ZD1.txt",
+    "case81_02-1667.ZD2.txt",
+    "case81_02-1667.ZO.txt",
+    "case81_02-1667.ZS.txt"
+  ],
+  "82": [
+    "case82_02-1689.ZD.txt",
+    "case82_02-1689.ZO.txt",
+    "case82_02-1689.ZS.txt"
+  ],
+  "83": [
+    "case83_03-44.ZC.txt",
+    "case83_03-44.ZC1.txt",
+    "case83_03-44.ZO.txt",
+    "case83_03-44.ZS.txt"
+  ],
+  "85": [
+    "case85_03-5165.ZC.txt",
+    "case85_03-5165.ZC1.txt",
+    "case85_03-5165.ZD.txt",
+    "case85_03-5165.ZO.txt",
+    "case85_03-5165.ZS.txt"
+  ],
+  "86": [
+    "case86_03-6821.ZO.txt",
+    "case86_03-6821.ZS.txt"
+  ],
+  "87": [
+    {
+      "file": "case87_02-1684.ZC.txt",
+      "url": "https://www.law.cornell.edu/supct/html/02-1684.ZC.html",
+      "characters": 1126
+    },
+    {
+      "file": "case87_02-1684.ZD.txt",
+      "url": "https://www.law.cornell.edu/supct/html/02-1684.ZD.html",
+      "characters": 13510
+    },
+    {
+      "file": "case87_02-1684.ZO.txt",
+      "url": "https://www.law.cornell.edu/supct/html/02-1684.ZO.html",
+      "characters": 27971
+    },
+    {
+      "file": "case87_02-1684.ZS.txt",
+      "url": "https://www.law.cornell.edu/supct/html/02-1684.ZS.html",
+      "characters": 8994
+    }
+  ]
+}

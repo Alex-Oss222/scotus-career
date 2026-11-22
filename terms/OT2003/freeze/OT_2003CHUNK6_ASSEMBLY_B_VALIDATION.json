@@ -1,0 +1,181 @@
+[
+  {
+    "case": 78,
+    "file": "Lipscomb_v_Federal_Labor_Relations_Authority_merits_2004-05-13.md",
+    "judgment": "9-0",
+    "author": "O'Connor",
+    "prior_records": 78,
+    "prior_leads": 73,
+    "eligible": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "pool": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Breyer"
+    ],
+    "explanation_words": [
+      174,
+      64
+    ],
+    "checks": "passed"
+  },
+  {
+    "case": 82,
+    "file": "Grupo_Dataflux_v_Atlas_Global_Group_merits_2004-05-17.md",
+    "judgment": "5-4",
+    "author": "Scalia",
+    "prior_records": 79,
+    "prior_leads": 74,
+    "eligible": [
+      "Stone-Zsela",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Thomas"
+    ],
+    "pool": [
+      "Stone-Zsela",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Thomas"
+    ],
+    "explanation_words": [
+      215
+    ],
+    "checks": "passed"
+  },
+  {
+    "case": 83,
+    "file": "Sabri_v_United_States_merits_2004-05-17.md",
+    "judgment": "9-0",
+    "author": "Kennedy",
+    "prior_records": 80,
+    "prior_leads": 75,
+    "eligible": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "pool": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "explanation_words": [
+      224,
+      83
+    ],
+    "checks": "passed"
+  },
+  {
+    "case": 79,
+    "file": "Tennessee_Student_Assistance_Corporation_v_Hood_merits_2004-05-17.md",
+    "judgment": "7-2",
+    "author": "Souter",
+    "prior_records": 81,
+    "prior_leads": 76,
+    "eligible": [
+      "Stone-Zsela",
+      "Stevens",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "pool": [
+      "Stone-Zsela",
+      "Stevens",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "explanation_words": [
+      159,
+      141,
+      85
+    ],
+    "checks": "passed"
+  },
+  {
+    "case": 81,
+    "file": "Tennessee_v_Lane_merits_2004-05-17.md",
+    "judgment": "7-2",
+    "author": "Stevens",
+    "prior_records": 82,
+    "prior_leads": 77,
+    "eligible": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "pool": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "explanation_words": [
+      262,
+      98
+    ],
+    "checks": "passed"
+  },
+  {
+    "case": 80,
+    "file": "Till_v_SCS_Credit_Corporation_merits_2004-05-17.md",
+    "judgment": "6-3",
+    "author": "Breyer",
+    "prior_records": 83,
+    "prior_leads": 78,
+    "eligible": [
+      "Stone-Zsela",
+      "Stevens",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "pool": [
+      "Stone-Zsela",
+      "Stevens",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "explanation_words": [
+      189,
+      140,
+      63
+    ],
+    "checks": "passed"
+  }
+]

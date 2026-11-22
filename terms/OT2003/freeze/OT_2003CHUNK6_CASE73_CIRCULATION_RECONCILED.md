@@ -1,0 +1,46 @@
+# Dretke v. Haley: bounded circulation compatibility
+
+**Event and cutoff:** May 3, 2004; No. 02-1824.
+
+**Authorized scope:** Test only the supplied public remand proposal against the frozen commitments of O'Connor, Scalia, Thomas and Breyer. No current Chief Justice supplement or Chief-specific file was supplied or opened. [The final reconciliation](OT_2003CHUNK6_CASE73_RECONCILED.md) remains unchanged. This is a circulation join determination, not renewed independent modeling, a new factual premise, or a change in judgment.
+
+## Determination
+
+O'Connor, Scalia, Thomas and Breyer can directly join the narrower independent-constitutional-adjudication and remand portion. They need not be classified as judgment-only voters for that portion. They continue to withhold assent from deciding and adopting the noncapital gateway, and each retains the position that the assistance claim should be adjudicated first. Their separate writing preserves that disagreement; it does not negate their direct agreement with the common remand ground.
+
+Their common sufficient ground is bounded: even accepting the separately controlling gateway for the purpose of the remaining disposition, passage through that gateway does not establish the independent constitutional entitlement necessary to sustain a sentence writ. The constitutional claim still requires a supported merits adjudication under its own governing rules. The Court does not decide that application in the proposed common portion. Vacatur and prompt adjudication of the pleaded constitutional routes therefore remain appropriate on their view, without either adopting the gateway or making their preferred sequencing rule a condition of the common join.
+
+This is a substantive agreement on the scope of the available writ and the work required on remand. It is not merely acknowledgment that lower courts must obey an opinion from which these Justices dissent. They affirmatively agree that the existing conditional writ should be vacated and that the remaining independent constitutional adjudication can supply the lawful sentence remedy. They reject the four direct-relief Associates' conclusion that this Court should now affirm on the earlier no-evidence application.
+
+## Common portion they join
+
+The conditional sentence writ is vacated and the case remanded for prompt adjudication of the independently pleaded ineffective-assistance claim under Strickland and the actual applicable section 2254(d) inquiry, and of any properly reached constitutional challenge to the sufficiency of the enhancement evidence. The assistance claim's state merits adjudication and the sufficiency claim's state procedural rejection retain their separate consequences. The court must determine the actual relevant dates and applicable legal standards rather than supply a date by assumption.
+
+The separately controlling gateway ruling governs the remand's default question. It establishes neither a constitutional violation nor entitlement to a writ and does not erase independent collateral requirements whose actual predicates are established. If a properly adjudicated constitutional route supplies the complete sentence remedy, the court need not decide another route merely because it was pleaded. If the assistance route does not resolve the request, the remaining properly available constitutional grounds require their own adjudication. This portion imposes no general assistance-first or sufficiency-first rule and does not decide Gatewood's collateral application.
+
+The remand must lead to an effective lawful sentence remedy if constitutional entitlement is established. It does not direct automatic continued enhanced custody, automatic release, invalidation of the theft conviction, or a finding that either constitutional claim succeeds. No present custody status or replacement state judgment is assumed.
+
+## Objections, response and resulting joins
+
+| Justice | Recorded objection retained | What the common portion supplies; exact join |
+|---|---|---|
+| O'Connor | The available ordinary assistance claim should be decided before recognizing a new noncapital innocence exception. | Her Edwards and Williams joins distinguish cause, statutory eligibility, actual constitutional error and relief. The common portion preserves those independent requirements and promptly returns the pleaded assistance claim without treating gateway passage as a writ. She directly joins that sufficient remand ground and remedy, while dissenting from deciding the gateway now and separately advocating assistance first. |
+| Scalia | Recognition of necessary punishment facts as constitutionally significant does not itself justify extending an equitable default exception; assistance should be addressed first. | His Sawyer and Edwards joins preserve a demanding gateway distinct from merits; his Almendarez-Torres and Gatewood opinions forbid a categorical constitutional exemption for recidivist chronology. The common portion neither adopts such an exemption nor backdates Gatewood. It requires actual constitutional adjudication after the separately adopted gateway. He directly joins that limited ground and vacatur, without joining the gateway or surrendering his sequencing objection. |
+| Thomas | Assistance should be resolved under its actual section 2254(d) and Strickland conditions before the new gateway is decided. | His Edwards and Williams joins require the independent statutory and constitutional work; his Gatewood join prevents misuse of Monge as a general due-process exclusion. The common portion preserves all those limits and leaves the disputed Thompson application to proper adjudication. He directly joins the common remand ground and remedy, while separately withholding assent from the gateway and urging assistance first. |
+| Breyer | The ordinary assistance route can supply the complete remedy and should precede resolution of the novel gateway. | His Williams and Bell opinions insist on distinct statutory eligibility and actual assistance adjudication; his Schlup and Lambrix joins permit exceptional innocence review and reasoned nonjurisdictional sequencing. The common portion requires the independent adjudication, preserves the complete-remedy limit, and does not convert his Edwards judgment-only position into adoption of that decision's broader cause rule. He directly joins the common ground and remand, while retaining his gateway and sequencing disagreement. |
+
+The circulation adjustment concerns the breadth of each join. The four initially committed to a more specific assistance-first mandate. They now also expressly support the less prescriptive common remand ground while maintaining that preference separately. No judgment changes: all four continue to support vacatur rather than affirmance of the conditional writ. No opinion portion finding the gateway available or satisfied receives any of these four joins.
+
+## Drafting boundaries
+
+The common portion must accurately describe the proceedings below. The Fifth Circuit did not stop at finding an innocence gateway: it treated the sufficiency claim as cognizable under Jackson and sustained relief. The remand rationale may state that gateway passage does not independently establish a writ and that the constitutional classification and application remain for proper adjudication under the Court's disposition. It must not falsely state that the lower courts never addressed sufficiency or granted relief solely because the gateway was satisfied.
+
+Do not convert the state assistance merits disposition into a state merits disposition of the sufficiency claim. Do not turn unknown dates into a proven collateral bar. Do not describe every pleaded route as requiring a separate decision after one supplies the full requested remedy. No claim that assistance is certain to succeed, oral procedural waiver, or assurance against reincarceration supports these joins.
+
+The separate writing may state that the four would have left the new gateway undecided and required assistance adjudication first. It should also state their direct agreement with the common independent-merits and remand portion. That preserves a clear topology: direct joins to the specified remand portion, withheld assent and separate disagreement concerning the gateway and preferred sequence.
+
+## Reconciliation effect and readiness
+
+No new historical departure results from this circulation adjustment. All four retain the historical vacatur-and-remand disposition and the narrower case-specific scope already recorded in the final reconciliation. The changed controlling recidivist-law premise and their retained gateway objections are unchanged. Their direct joins arise from a narrower shared sufficient ground and preserved separate disagreement, not a new historical premise or a change in the merits position.
+
+The supplied proposal is compatible at the scope stated here. Assembly may record O'Connor, Scalia, Thomas and Breyer as direct joins to the common independent-constitutional-adjudication and remand portion, with their separate objection to deciding the gateway and preference for assistance-first adjudication. All other reconciled Associate commitments remain untouched.
