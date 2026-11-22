@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2002
-**Processed through:** June 30, 2003, after all 185 completed OT2002 Court events.
-**Edition:** November 14, 2026
+**Last completed October Term:** 2003
+**Processed through:** June 30, 2004, after all 119 completed OT2003 Court events and the admitted Rule 53 amendment effective December 1, 2003.
+**Edition:** November 22, 2026
 
 ## Maritime Law
 

@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2002
-**Processed through:** June 30, 2003, after all 185 completed OT2002 Court events.
-**Edition:** November 14, 2026
+**Last completed October Term:** 2003
+**Processed through:** June 30, 2004, after all 119 completed OT2003 Court events and the admitted Rule 53 amendment effective December 1, 2003.
+**Edition:** November 22, 2026
 
 ## Immigration
 
@@ -557,3 +557,42 @@ For the jurisdiction question in INS v. St. Cyr, No. 00-767, decided June 25, 20
 **Limits and questions not reached:** Supervision requires periodic identification, necessary medical or psychiatric examinations at government expense, sworn information and reasonable written conduct restrictions. A violation or regulatory revocation ground supports renewed custody only with actual lawful authority and process; regulation cannot revive unlimited custody. No stay or release condition changes by implication, and terrorism or other special circumstances possibly supporting distinct preventive authority or heightened deference are not decided.
 
 **Treatment of earlier authority:** The purpose-bound construction rejects both permanent-impossibility and agreement-only proxies. Calcano-Martinez and St. Cyr retain an effective independent review channel; their removal-merits and discretionary limits remain intact.
+
+
+### Whether mandatory detention can apply before a final removal order
+
+#### Demore v. Kim - pre-order coverage and individual custody review
+
+**Docket or dockets:** No. 01-1491; judgment below, 276 F.3d 523.
+
+**Decided:** October 14, 2003
+
+##### Whether mandatory detention can apply before a final removal order — Demore v. Kim, October 14, 2003
+
+**Holding:** Section 1226(c) can govern custody during pending removal proceedings before a final removal order. Its application requires the actual statutory category to be addressed through the proper classification process; acceptance of lawful initial custody does not itself concede each asserted ground of continuing mandatory coverage.
+
+**Proposition-level authority:** Breyer's Part II-A, joined by all nine Justices on the statutory merits; Scalia and Thomas proceed on the Court's jurisdiction determination.
+
+**Material application:** The original theft ground and the added burglary and two-crimes grounds require proper classification inquiry; accepting initial custody does not resolve the contested grounds.
+
+**Treatment of earlier authority:** National Center for Immigrants' Rights requires actual application predicates beneath a general custody rule. Ventura leaves initial unresolved classification and factual determinations to the agency. Section 1231 separately governs post-order custody.
+
+##### When a disputed mandatory category entitles a permanent resident to an individualized risk assessment
+
+**Holding:** A lawful permanent resident challenging mandatory membership under section 1226(c) is entitled to an individualized flight-risk and danger assessment when the contention raises a question of law or fact that is not insubstantial and is not interposed solely for purposes of delay. The inquiry must address every independently sufficient asserted mandatory ground; a challenge to one ground cannot displace another established ground capable of sustaining mandatory custody.
+
+**Proposition-level authority:** Breyer's Part II-B, directly joined by Stone-Zsela, Stevens, Souter and Ginsburg; five Justices.
+
+**Limits and questions not reached:** A request for time to obtain evidence, litigation time or mixed motives does not by itself make a challenge solely dilatory. A request for discretionary relief after accepting covered removability differs from contesting category membership. The witness-protection exception remains separate. The Court leaves a broader constitutional hearing entitlement and constitutional continued-detention rule undecided and does not import Zadvydas's post-order six-month mechanism.
+
+**Treatment of earlier authority:** Zadvydas supplies purpose-sensitive construction in light of liberty concerns; its post-order burden and duration mechanism remains confined to that setting. National Center requires genuine category inquiry. Matter of Joseph cannot make its substantially-unlikely-to-prevail threshold the exclusive route to risk review when the lower substantial-question condition is met; its classification-review function survives. Corona-Sanchez requires examination of the original theft theory without resolving the added grounds.
+
+##### What authority supports the risk allocation and the complete custody remand
+
+**Authority of the judgment:** Vacated and remanded, 5-4, with Stone-Zsela, Stevens, Souter, Ginsburg and Breyer supporting the complete remedy. Breyer's Parts III and IV have only Stevens, Souter and Ginsburg's additional joins; Stone-Zsela concurs in the judgment without joining the detainee proof allocation. The opposing governmental and detainee allocations are not logical subsets, so no controlling general burden rule arises under Marks.
+
+**Operative remedy or transition:** Kim's $5,000 bond release continues through the substantial-question determination and any ensuing lawful bond decision. Each independently sufficient mandatory ground must receive proper agency consideration. If the threshold is met, Kim must establish by clear and convincing evidence that he is unlikely to flee or endanger others; the decisionmaker must genuinely consider the individual evidence and have effective authority to release on lawful bond conditions. This instruction binds this remand through the judgment, while the rationale remains a four-Justice view. Failure of the threshold on an independently sufficient mandatory ground leaves categorical custody applicable, subject to an independently established constitutional defect; actual exclusion from the category returns custody to section 1226(a).
+
+**Limits and questions not reached:** The broader constitutional hearing and continued-detention positions lack majority support at the necessary level of generality. A distinct duration claim requires findings about the course and justification of Kim's confinement. The section 3143(b) release-pending-appeal analogy in Part III is neither a direct application of that criminal statute nor a universal immigration burden.
+
+For Demore v. Kim, No. 01-1491, October 14, 2003, on independent legal-authority habeas jurisdiction, see Federal Courts: Habeas and Collateral Review - Demore v. Kim.

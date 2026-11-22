@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2002
-**Processed through:** June 30, 2003, after all 185 completed OT2002 Court events.
-**Edition:** November 14, 2026
+**Last completed October Term:** 2003
+**Processed through:** June 30, 2004, after all 119 completed OT2003 Court events and the admitted Rule 53 amendment effective December 1, 2003.
+**Edition:** November 22, 2026
 
 ## Property and Economic Rights
 
@@ -2526,3 +2526,60 @@ For the rejection of federal displacement, the fractured Commerce judgment and t
 **Limits and questions not reached:** The City’s preliminary probable-validity showing is distinct from its reported final-forfeiture preponderance burden. Bennis requires practical reasonable prevention, not constant surveillance or prevention at any cost: lawful sharing does not defeat the defense conclusively, while ignorance alone is insufficient. Local allocation concerning whether the owner permitted or suffered misuse remains for the lower court under applicable law; this interim-process grant presents no final-title dispute requiring the Court to construe that allocation.
 
 **Treatment of earlier authority:** Bennis supplies every separate-interest defense predicate and reasonable-prevention limit. Farmer’s claimant preponderance rule remains confined to legitimate funds actually needed for trial counsel and does not govern all vehicle-retention questions.
+
+
+### Water rights dependent on an ungranted federal route
+
+#### Washoe County v. United States — compensation theories
+
+**Docket or dockets:** Federal Circuit No. 02-5039; judgment below, 319 F.3d 1320.
+**Decided:** November 17, 2003.
+
+##### Whether denial of the crossing physically appropriated the water right
+
+**Holding:** Refusing a new federal-land right-of-way does not physically take an existing water right when no crossing entitlement is owned and the refusal neither appropriates water nor restricts existing lawful use. State authorization to change water use or location does not convey a federal-land interest.
+
+**Proposition-level authority:** Thomas's opinion of the Court, unanimous.
+
+**Material application:** No water was diverted, available quantity reduced, pumping restricted or well access blocked. Agricultural use remained lawful and continued pending perfection of municipal use. Dependence on the sole feasible municipal route establishes the project's need for federal land, not an owned route or seizure of water.
+
+**Treatment of earlier authority:** Dugan and International Paper concern actual diversion or interference with an owned water entitlement and are distinguished from refusal of a neighboring property interest.
+
+##### Whether the same refusal establishes a regulatory or total taking
+
+**Holding:** Denial of the new route establishes no supported regulatory interference with the water entitlement actually owned; retained agricultural use also defeats the complete-deprivation category. Remaining value alone does not defeat a genuine partial-taking claim, but the independent absence of appropriation or a supported restriction on the existing entitlement resolves that theory here.
+
+**Proposition-level authority:** The same unanimous opinion.
+
+**Limits and questions not reached:** Government acquires no categorical immunity by describing action as proprietary. Penn Central remains applicable to a cognizable regulatory burden, and valuation cannot create the missing crossing interest. Separate APA legality of processing lies outside the compensation question.
+
+**Operative remedy or transition:** Affirm summary judgment for the United States and denial of claimants' partial-summary-judgment motion. Compensation and a remand to value the proposed municipal project are denied.
+
+**Treatment of earlier authority:** Palazzolo preserves the distinction between actual property, total deprivation and contextual compensation. Tahoe-Sierra prevents treating a selected hoped-for use as the whole property. Penn Central retains its combined economic-impact, expectations and governmental-character inquiry; Lucas's complete-deprivation category does not apply to retained lawful agricultural use.
+
+For this decision's finality ruling, see Federal Courts: Justiciability — Finality of refusal of a federal crossing.
+
+#### BedRoc Limited, LLC v. United States, 541 U.S. 176
+
+**Docket or dockets:** No. 02-1593.
+**Decided:** 2004-03-31.
+
+##### The Pittman mineral reservation and ordinary sand and gravel
+
+**Authority of the judgment:** Reversed and remanded, 6–3: Stone-Zsela, O'Connor, Scalia, Kennedy, Thomas and Breyer support the judgment; Stevens, Souter and Ginsburg dissent. Kennedy's four-Justice plurality and Thomas's concurrence joined by Breyer supply different explanations, with no controlling logical subset under Marks.
+
+**Independently majority-supported proposition:** The Pittman Act's reservation of valuable minerals does not reserve the ordinary sand and gravel at issue, and those materials passed with the patented land. Contemporary commercial profitability alone does not establish federal title under that reservation.
+
+**Proposition-level authority:** Stone-Zsela, O'Connor, Scalia and Kennedy adopt the opinion announcing the judgment; Thomas and Breyer expressly adopt the ordinary-material exclusion through their separate ground. These six directly support the stated statutory result and category, while their distinct explanations do not form a single majority rationale or a controlling logical subset under Marks.
+
+**Current force:** The shared ordinary-material exclusion controls at its stated Pittman Act scope. Neither explanatory rationale controls other mineral reservations.
+
+**Limits and questions not reached:** Special deposits and differently worded reservations require separate construction. The decision does not depend on a finding of the deposits' 1919 market value or establish a general title rule for all newly profitable materials.
+
+**Operative remedy or transition:** Implement the owners' title and reject mineral-trespass liability resting solely on reservation of these deposits; resolve any remaining accounting or independent claim consistently with that title.
+
+**Treatment of earlier authority:**
+
+- **Watt v. Western Nuclear:** Its construction remains effective for the Stock-Raising Homestead Act. The plurality distinguishes Pittman's qualified wording; Thomas and Breyer preserve the earlier statutory-property result but decline to extend its reasoning.
+- **Amoco Production Co. v. Southern Ute Indian Tribe:** The plurality applies its requirement to identify the resource actually reserved, preserving new uses of a resource already within that estate. Its distinct-methane holding remains intact.
+- **Marks v. United States:** The different grounds for reversal do not yield a logical-subset rationale. The expressly shared statutory exclusion has six supporters at its stated scope.

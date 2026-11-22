@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2002
-**Processed through:** June 30, 2003, after all 185 completed OT2002 Court events.
-**Edition:** November 14, 2026
+**Last completed October Term:** 2003
+**Processed through:** June 30, 2004, after all 119 completed OT2003 Court events and the admitted Rule 53 amendment effective December 1, 2003.
+**Edition:** November 22, 2026
 
 ## Criminal Procedure: Sentencing and Capital Punishment
 
@@ -2546,6 +2546,8 @@ For Cotton, May 20, 2002, No. 01-687, on section 3231 jurisdiction and the confi
 
 **Treatment of earlier authority:** Apprendi's rule is extended to the expressly reserved capital-eligibility boundary; Angle is applied as supporting range doctrine. Walton's contrary necessary-aggravator allocation is overruled. Winship and Gaudin supply proof and factfinder protections; Harris v. Alabama retains its distinct final-selection holding.
 
+**Later-authority backlinks:** Schriro v. Summerlin, No. 03-526, decided June 24, 2004, resolves Ring's reserved collateral-availability question: the new procedural protection for an indispensable present-offense death-eligibility finding satisfies the confined watershed exception, subject to the petition's governing regime and remaining relief requirements. Ring's eligibility/selection distinction and qualified actual-adjudication method remain unchanged.
+
 ##### The omitted eligibility finding receives qualified actual-verdict review
 
 **Holding:** This omitted statutory eligibility finding is subject to the qualified Neder inquiry: the State must establish beyond a reasonable doubt that the omission did not contribute to the actual verdict, examining the actual instructions, the evidence they directed to the jury, required findings and material conflicts. Necessary equivalent jury findings suffice but are not exclusive; supported whole-record inferences may establish noncontribution only when reliably connected to the actual adjudication, without new credibility findings or substitution of sufficient evidence for a hypothetical verdict.
@@ -2961,3 +2963,155 @@ For the independent §2254(d)(1) ruling and conditional sentence writ, see Feder
 **Operative remedy or transition:** The sentence-sustaining judgment is reversed, all three mandatory-life terms are vacated and lawful resentencing is required. The guilt convictions and ungranted suppression rulings stand. Further enhanced proceedings require an independent lawful basis and compliance with charging, notice, waiver, sufficiency, procedure, finality and double-jeopardy rules; the remand supplies no new authority. Without that authority, resentencing excludes the enhancement.
 
 **Treatment of earlier authority:** Almendarez-Torres's charge-bound protection extends to the constitutional recidivist elements recognized here. Cotton preserves nonjurisdictional treatment of charging omissions and its separate forfeiture inquiry; this objection was preserved. Neder and Ring retain their qualified actual-verdict inquiries in their own settings. Monge's bounded noncapital renewed-proof rule survives, but supplies no independent authorization for another enhancement proceeding. Sattazahn's completed capital life judgment remains distinct.
+
+
+### Capital-eligibility omissions and structural error
+
+#### Mitchell v. Esparza, 540 U.S. 12 — capital-error classification
+
+**Docket or dockets:** No. 02-1369.
+**Decided:** November 3, 2003.
+
+##### Whether this capital-eligibility omission is categorically structural
+
+**Holding:** Omission of this principal-offender allegation or finding is not automatically beyond harmless-error review merely because it concerns capital eligibility. A discrete omission differs from a defective reasonable-doubt instruction that destroys the standard governing every jury finding.
+
+**Proposition-level authority:** Scalia's Part I, unanimous.
+
+**Limits and questions not reached:** Ohio's principal-offender and prior-calculation-and-design alternatives remain distinct. Neither a sole-defendant indictment nor a capital designation alone establishes sufficient notice or narrowing. The Court finds no new constitutional violation and makes no independent de novo harmlessness determination.
+
+**Treatment of earlier authority:** Sullivan is distinguished by its verdict-wide defect. Chapman and Satterwhite permit meaningful review of available capital trial-error claims. Presnell forbids a materially unsubmitted aggravating basis; Lowenfield permits narrowing through actual guilt-stage findings. Neder and Ring retain qualified actual-verdict review without establishing duties retroactively at earlier state adjudications. Brecht's treatment of preserved error is unchanged.
+
+For Mitchell v. Esparza, No. 02-1369, November 3, 2003, on the dated statutory inquiry, rejection of the omission ground and remaining sentence-writ grounds, see Federal Courts: Habeas and Collateral Review — Dated review of a capital-eligibility omission.
+
+#### Banks v. Dretke, 540 U.S. 668 — Criminal Procedure: Sentencing and Capital Punishment, OT2003
+
+**Docket or dockets:** No. 02-8286.
+**Decided:** 2004-02-24.
+
+For the other questions in this decision, see Federal Courts: Habeas and Collateral Review — whether concealed factual development of the presented Farr claim is barred under former hearing law; Federal Courts: Habeas and Collateral Review — whether the Cook transcript and implied-consent issues satisfy both certificate requirements.
+
+##### Whether the concealed Farr relationship is material to the selection of death — Banks v. Dretke, 2004-02-24
+
+**Holding:** Suppressed favorable evidence is material when its supported lawful uses, assessed together against the relevant record, create a reasonable probability of a different lawful result sufficient to undermine confidence in that adjudication. Farr's concealed paid cooperation and instigation meet that burden for the death-selection decision; after establishing the material Brady violation, Banks owes no additional harmless-error showing.
+
+**Proposition-level authority:** Souter's opinion, joined on materiality and the sentence remedy by Stone-Zsela, Stevens, O'Connor, Kennedy, Ginsburg and Breyer: seven direct joins. Scalia and Thomas withhold these joins.
+
+**Material application:** Disclosure would have altered investigation, preparation and impeachment concerning the origin of the gun-retrieval encounter and Farr's apparent independent confirmation of future violent plans. The murder, Jefferson's pistol-assault account and Banks's acknowledged gun assistance do not make those uses merely cumulative. Confidence in death selection requires separate assessment from guilt or eligibility.
+
+**Limits and questions not reached:** The complete Farr sentence remedy makes the alternative penalty-assistance ground unnecessary to decide. This holding does not vacate the murder conviction or resolve the Cook guilt claim.
+
+**Operative remedy or transition:** The sentence-relief denial is reversed, 7–2. A conditional sentence writ must allow a reasonable, concrete period fixed by the district court for lawful capital resentencing or replacement with a lawful noncapital disposition.
+
+**Treatment of earlier authority:** Brady v. Maryland and Kyles v. Whitley govern suppression and the combined lawful uses of the evidence without a second harmlessness barrier. Strickler v. Greene requires phase-specific confidence in the penalty result. Strickland v. Washington and Terry Williams v. Taylor retain their independent assistance standards without a further holding on that redundant route.
+
+#### Iowa v. Tovar, 541 U.S. 77 — Criminal Procedure: Sentencing and Capital Punishment, OT2003
+
+**Docket or dockets:** No. 02-1541.
+**Decided:** 2004-03-08.
+
+For the other questions in this decision, see Criminal Procedure — whether informed guilty-plea waiver always requires the two additional counsel warnings.
+
+##### Whether the two-warning collateral attack requires exclusion of the prior conviction from enhancement — Iowa v. Tovar, 2004-03-08
+
+**Holding:** Tovar's collateral attack cannot exclude his prior uncounseled conviction merely by identifying omitted warnings that counsel might find an overlooked defense or independently advise whether to plead, and suggesting possible misunderstanding, where he does not assert actual unawareness of counsel's availability before and at arraignment. Under the applicable Iowa framework he must identify the waiver defect and support factual assertions by a preponderance.
+
+**Proposition-level authority:** O'Connor's unanimous opinion of the Court.
+
+**Material application:** The old conviction imposed two days' jail, making valid waiver necessary, but the actual challenge asserted those warning omissions and only a possible mistaken belief. Those omissions do not establish the hypothesized lack of understanding.
+
+**Limits and questions not reached:** The ruling resolves that attack without reopening an unasserted ignorance claim. It creates neither a silent-record presumption nor automatic validity of uncounseled pleas, and does not direct an automatic final enhanced conviction.
+
+**Operative remedy or transition:** The direction to disregard the earlier conviction and enter the lesser judgment is reversed; the enhancement proceeding is remanded under the correct waiver rule and otherwise applicable law.
+
+**Treatment of earlier authority:** Parke v. Raley retains its bounded collateral burden sequence for the earlier counseled-plea setting, without validating an uncounseled plea automatically. Watts v. State supplies Iowa's factual preponderance requirement, not a finding of Tovar's actual knowledge.
+
+#### Nelson v. Campbell, 541 U.S. 637 (2004) — Criminal Procedure: Sentencing and Capital Punishment, OT2003
+
+**Docket or dockets:** No. 03-6821.
+**Decided:** May 24, 2004.
+
+##### Whether civil cognizability entitles a prisoner to an execution stay
+
+**Holding:** A cognizable §1983 claim creates no automatic stay of execution. Interim equity requires likelihood of success, comparative harm, the State's enforcement interest and the actual reasons for delay, with a strong presumption against a stay when timely presentation could have allowed merits consideration without one; the presumption remains contextual and must account for timing explanations and irreversible harm.
+
+**Proposition-level authority:** O'Connor's unanimous opinion of the Court.
+
+**Material application:** Counsel sought information and medical consultation in August 2003; the access plan changed materially between September 10 and October 3, and suit followed the next Monday before the scheduled October 9 execution. Those circumstances foreclose an assumption that this precise challenge had been unchanged and available for years, while leaving diligence and equitable entitlement to evidence.
+
+**Operative remedy or transition:** The district court must promptly adjudicate any properly presented interim request in time to address the threatened procedure where the actual schedule permits. Timing instructions impose no restraint on the State; a stay requires its own lawful basis and may last only as long as its purpose, record and equitable findings justify, subject to reconsideration, including a supported extension, as those premises change. The separate ninety-day preliminary-relief and final-finding conditions remain applicable.
+
+**Treatment of earlier authority:** Gomez supplies the independent equitable-delay principle, which Nelson makes express as a contextual strong presumption against an avoidably necessary stay. Actual timing, serious injury and irreversible consequences remain material to that inquiry.
+
+For Nelson, No. 03-6821, decided May 24, 2004, the §1983/habeas boundary is in Federal Courts: Habeas and Collateral Review and PLRA and injunction conditions are in Federal Courts: Immunities and Remedies.
+
+
+
+### Relevant capital mitigation and intellectual functioning
+
+#### Tennard v. Dretke, 542 U.S. 274
+
+**Docket or dockets:** No. 02-10038.
+**Decided:** 2004-06-24
+
+For Tennard v. Dretke, 542 U.S. 274, 2004-06-24, No. 02-10038, see Federal Courts: Habeas and Collateral Review for [Whether the preserved mitigation claim warrants a certificate of appealability](../HOLDINGS.md#whether-the-preserved-mitigation-claim-warrants-a-certificate-of-appealability).
+
+##### Whether culpability mitigation requires a severe permanent impairment or causal connection to the offense
+
+**Holding:** Supported intellectual-functioning and other culpability mitigation cannot be excluded from constitutional consideration merely because the defendant has not proved a uniquely severe permanent impairment or a causal connection between the impairment and the offense. Evidence may bear on culpability independently of deliberateness or future danger; relevance requires neither a completed categorical disability diagnosis nor favorable weight from the sentencer.
+
+**Proposition-level authority:** Kennedy's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer; seven Justices.
+
+**Material application:** The IQ score of 67 supports a culpability argument even if it does not establish adaptive limitations, developmental onset or a categorical intellectual-disability diagnosis. Evidence may mitigate culpability while also bearing adversely on future danger.
+
+**Treatment of earlier authority:** Graham v. Collins supplies the rejection of the uniquely severe permanent-handicap screen and protection for independent culpability mitigation. Johnson v. Texas preserves effective consideration beyond the factual special issues. Penry v. Johnson supplies the coherent-verdict requirement and separates the constitutional/statutory inquiry from effect review. Atkins v. Virginia concerns categorical intellectual disability and is distinguished from ordinary mitigation relevance.
+
+### Binding sentencing ranges and valid admissions
+
+#### Blakely v. Washington, 542 U.S. 296
+
+**Docket or dockets:** No. 02-1632.
+**Decided:** 2004-06-24
+
+##### Whether the outer statutory maximum permits judicial enlargement of a binding sentencing range
+
+**Holding:** A present-offense fact legally necessary to increase a binding sentencing ceiling or floor must be validly admitted as an element or proved to the jury beyond a reasonable doubt; a lawful jury waiver changes the factfinder while retaining that burden. A higher outer statutory maximum does not permit a judge to exceed the enforceable inner range supported by the verdict or valid admissions.
+
+**Proposition-level authority:** Souter's opinion of the Court, joined by Stone-Zsela, Stevens, Scalia, Thomas and Ginsburg; six Justices support both the rule and the sentence remedy.
+
+**Material application:** Blakely's actual plea authorized at most 53 months. The unadmitted deliberate-cruelty finding was necessary to authorize 90 months, so it required the constitutional factfinding protections.
+
+**Limits and questions not reached:** Judicial evaluation remains permissible within punishment independently authorized by the verdict or valid admissions.
+
+**Treatment of earlier authority:** Apprendi v. New Jersey is applied to the fact legally necessary for greater punishment and to the distinction between notice and valid admission. United States v. Angle directly governs the binding-inner-range question. Harris v. United States supplies the common treatment of present-offense facts raising binding floors and ceilings. United States v. Buckland preserves analysis of the punishment actually authorized, rather than assumed exposure. Ring v. Arizona retains its separate capital-eligibility and qualified remedy rules. The Court applies these decisions without changing their operative rules.
+
+##### Whether the unadmitted cruelty finding sustains the 90-month sentence and what resentencing is permitted
+
+**Holding:** An unadmitted and untried deliberate-cruelty finding cannot authorize the exceptional sentence imposed here. The sentence must be vacated, and lawful resentencing must begin from the range authorized by the actual plea; any further aggravation adjudication depends on independent state-law authority and valid procedures.
+
+**Proposition-level authority:** Souter's opinion of the Court, joined by Stone-Zsela, Stevens, Scalia, Thomas and Ginsburg; six Justices support both the rule and the sentence remedy.
+
+**Limits and questions not reached:** Notice of broader felony exposure is neither admission of the aggravating element nor waiver of its adjudication. The judge's repeated finding, evidentiary strength or hypothetical replacement verdict does not cure the omission.
+
+**Operative remedy or transition:** Reverse the sentence-sustaining judgment and vacate the 90-month sentence. The plea and conviction remain intact. On the existing admissions, sentence within the lawful standard range; further aggravated proceedings need independent Washington authority and compliance with charging, plea, waiver and double-jeopardy limits.
+
+### Individual-juror mitigation and capital unanimity instructions
+
+#### Beard v. Banks, 542 U.S. 406 — Individual-juror mitigation and capital unanimity instructions
+
+**Docket or dockets:** No. 02-1603.
+**Decided:** 2004-06-24
+
+For Beard v. Banks, 542 U.S. 406, 2004-06-24, No. 02-1603, see Federal Courts: Habeas and Collateral Review for [Whether forbidding a unanimity veto on individual mitigation use was dictated before 1987 finality](../HOLDINGS.md#whether-forbidding-a-unanimity-veto-on-individual-mitigation-use-was-dictated-before-1987-finality); [Whether the 1995 state adjudication unreasonably applied the mitigation rule under section 2254(d)(1)](../HOLDINGS.md#whether-the-1995-state-adjudication-unreasonably-applied-the-mitigation-rule-under-section-2254d1); [Whether the established violation and statutory gateway permit automatic capital sentence relief](../HOLDINGS.md#whether-the-established-violation-and-statutory-gateway-permit-automatic-capital-sentence-relief).
+
+##### Whether the combined penalty charge and verdict form prevent individual use of mitigation
+
+**Holding:** A capital charge violates the effective-mitigation requirement when, read with the verdict form and trial context, it creates a reasonable likelihood that a juror cannot use supported mitigation without unanimous agreement. Banks’s combined charge and form create that likelihood.
+
+**Proposition-level authority:** Stone-Zsela's opinion of the Court, joined by Stevens, Souter, Ginsburg and Breyer; five Justices support the old-rule, constitutional-error and statutory-gateway conclusions and the confined effect remand.
+
+**Material application:** Repeated agreement requirements and the form's common unanimity introduction did not distinguish individual mitigation use. Different proof burdens for aggravation and mitigation did not establish different voting rules. Acceptance of one mitigating circumstance did not show each juror could use impaired-capacity or catchall mitigation, and reported polling supplied no cure.
+
+**Limits and questions not reached:** The violation turns on reasonable likelihood from the whole mechanism, not merely a possible reading, absence of a particular sentence or lawful unanimity for the ultimate death verdict.
+
+**Treatment of earlier authority:** Mills v. Maryland and McKoy v. North Carolina apply to the unanimity mechanism. Boyde v. California supplies reasonable-likelihood review; Middleton v. McNeil requires the complete charge and context.

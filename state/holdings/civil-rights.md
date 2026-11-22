@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2002
-**Processed through:** June 30, 2003, after all 185 completed OT2002 Court events.
-**Edition:** November 14, 2026
+**Last completed October Term:** 2003
+**Processed through:** June 30, 2004, after all 119 completed OT2003 Court events and the admitted Rule 53 amendment effective December 1, 2003.
+**Edition:** November 22, 2026
 
 ## Civil Rights
 
@@ -8015,3 +8015,236 @@ The commerce holding is under Constitutional Structure, Haney, May 19, 2003, jud
 **Limits and questions not reached:** Because the selective penalty fails even ordinary review, the Court need not decide whether this same-sex distinction is a sexual-orientation classification subject to Shahar's intermediate scrutiny, and the comparison creates no general rule excluding moral interests from legislation. Ordinary review still permits imperfect classifications, reasonable generalizations and conceivable grounds without formal findings, empirical certainty or a least-restrictive-means inquiry.
 
 **Treatment of earlier authority:** Romer requires a rational connection to the particular unequal disadvantage. Heller preserves the challenger's burden and ordinary legislative latitude. Moreno and Cleburne supply the limits on bare harm and irrational prejudice. Authority to regulate conduct generally does not answer the independent discriminatory-penalty question. Shahar v. Bowers's intermediate scrutiny is not reached because the selective penalty fails even ordinary review.
+
+
+### Abortion-facility qualifications and identified inspection records
+
+#### Greenville Women's Clinic v. Commissioner — qualifications and patient information
+
+**Docket or dockets:** Fourth Circuit Nos. 01-2090 and 01-2235; judgment below, 317 F.3d 357.
+**Decided:** October 27, 2003.
+
+For the clergy question in Greenville Women's Clinic v. Commissioner, October 27, 2003, Nos. 01-2090 and 01-2235, see First Amendment — Religious arrangements in facility licensing; for notice and residual sanctions, see Administrative Law — Ascertainable medical-facility duties and residual sanctions.
+
+##### Whether medical cooperation and secular referrals confer an arbitrary private veto
+
+**Holding:** States may require objective medical qualifications and emergency-care arrangements, but may not make protected care depend on an outsider's arbitrary, legally uncontrolled licensing consent. The separately considered medical and secular-referral provisions, in their established operation here, have not been shown to create that veto.
+
+**Proposition-level authority:** Ginsburg's Part I, unanimous on the qualification and arbitrary-control ground; this agreement does not establish unanimous assent to Casey's complete residual-interference framework.
+
+**Material application:** Section 205(C)(2) requires a signed agreement with a board-certified obstetrician/gynecologist if none is on staff; that physician must be able to admit patients at a local hospital offering obstetrical and gynecological services and be available throughout operating hours. Section 305(A) separately requires staff and consulting physicians' privileges at local hospitals providing appropriate obstetrical and gynecological services, permitting documented Department-approved emergency-transfer arrangements when hospitalization becomes necessary. Section 309(B) independently commands appropriate local hospital privileges; neither other provision's exception transfers to it. No actual or supported impending arbitrary refusal controlling these providers is established. Section 307's secular referrals provide services as needed.
+
+**Limits and questions not reached:** Existing licenses evidence operation but do not require waiting for closure before challenging a supported prospective veto. A discretionary community-health-and-welfare waiver is no assured timely cure; public-hospital constraints do not automatically bind private institutions. Earlier overall-access and equal-protection judgments are outside review.
+
+**Operative remedy or transition:** Affirm rejection of this delegation claim.
+
+**Treatment of earlier authority:** Yick Wo prohibits arbitrary licensing control. Danforth and Casey govern effective third-party control of protected choice without making professional cooperation itself a private veto.
+
+##### What permits governmental access to intimate clinical information
+
+**Holding:** Authorized transfer of intimate clinic records to inspectors requires a sufficient connection between the regulatory need and the information, recipients, official function, scope, uses and safeguards. Courts must determine those permissions and connections, restrain established improper access or dissemination and preserve lawful confidential inspection.
+
+**Proposition-level authority:** Ginsburg's Part IV-A, joined by Stevens, O'Connor, Kennedy, Souter and Breyer; six reasoning joins. Stone-Zsela supplies a seventh vote for vacatur and remand on a separate ground only.
+
+**Material application:** Identified care audits, complaint investigation and corroboration may serve sufficiently connected tasks. Section 102(F)(2) limits copying to documents required for inspections or investigations, without resolving all access permissions. Section 401 includes contact, social-security, birth, family and emergency-contact fields, so name deletion may leave identification possible. Retention, training and privacy protections must be considered with actual use and redistribution permissions. Reported releases require assessment without establishing every release's details or authority.
+
+**Limits and questions not reached:** Section 44-7-310's public-identification restriction has facility-licensure, certificate-of-need, employee-licensing and court-order exceptions. Section 44-7-315 requires disclosure on written request while protecting identities of individuals present in a licensed facility. Section 44-41-60 excludes patient and physician names from registrar reports; section 44-41-360 separately requires an explicit constitutional anonymity determination absent the woman's consent. These distinct rules do not establish universal inspection secrecy. Redaction, consent and targeted follow-up are alternatives to assess where adequate, not universal preconditions. Universal compelling need is not the governing rule.
+
+**Operative remedy or transition:** Vacate and remand, 7–2, for actual-permission, regulatory-connection and safeguard determinations. The District Court's universal compelling-need restriction and appellate categorical rejection cease to be final merits resolutions. Existing material may suffice without another hearing; ordinary equity governs surviving interim requests, preserving severable lawful requirements.
+
+**Treatment of earlier authority:** Lawall's information-recipient-function inquiry extends to clinic-to-inspector access. Herring requires recipient-specific assessment of further dissemination. Doe's confined benefits-administration ruling does not decide these permissions and retains its rejection of universal indispensability. Whalen preserves safeguarded health administration; Casey's bounded reporting holdings confer no general identified-access permission.
+
+##### When inspection duties also implicate protected reproductive choice
+
+**Holding:** Proved additional interference caused by an actual inspection obligation independently invokes Casey's complete framework. The claimant must identify the duty, affected population, attributable burden and applicable protection; relief must address the violation while preserving lawful requirements.
+
+**Proposition-level authority:** Ginsburg's Part IV-B, joined by Stevens, O'Connor, Souter and Breyer; five direct joins. Kennedy's Part IV-A join does not extend to this rationale.
+
+**Limits and questions not reached:** A prohibited baseline invasion, effective private veto, denial of timely necessary care, obstructive purpose or substantial obstacle is independently invalid. Other severe interference requires compelling permissible justification and narrow tailoring; other meaningful interference requires substantiated justification and fit addressing concrete practicable substantially less burdensome alternatives. Usable exceptions and supported prospective effects matter; success for some patients cannot erase another group's demonstrated burden. Below meaningful interference, the heightened access inquiry ends while independent protections remain. Clinical judgment, truthful communication and timely necessary care retain protection. Identifiers or a privacy label do not presume an access burden, and the earlier overall-access judgment is not reopened.
+
+**Operative remedy or transition:** Apply the corresponding protection to proved additional inspection interference within the preserved claims and tailor relief accordingly.
+
+**Treatment of earlier authority:** Casey's complete framework remains unchanged and independent of information-transfer doctrine; Lawall preserves that distinction.
+
+### Racial political-process claims concerning instructional policy
+
+#### Valeria v. Davis
+
+**Docket or dockets:** Ninth Circuit No. 01-15219; judgment below, 307 F.3d 1036.
+**Decided:** November 25, 2003.
+
+##### What establishes a racial barrier in relocation of educational authority
+
+**Holding:** Predominant benefit to minority pupils does not by itself make statewide displacement of an educational program unconstitutional. The claimant must show a racial classification, deliberate racial proxy or racially selective obstruction of ordinary political participation. A prior discrimination adjudication is unnecessary, and absence of hostility does not conclusively answer an established racial decisionmaking structure.
+
+**Proposition-level authority:** O'Connor's Part I, unanimous.
+
+**Limits and questions not reached:** Demographics and campaign references may bear on the mechanism but do not alone establish it; language proficiency is not automatically race. An established racial mechanism invokes Adarand's common substantial-justification standard: important lawful objective, evidence-supported substantial relationship, justified coverage and actual burdens, and an adequate response to concrete practicable alternatives comparably advancing the objective with materially less racial disadvantage. The rule protects political equality, not policy victory or access to every political level.
+
+**Treatment of earlier authority:** Hunter and Seattle protect against race-selected political burdens. Coalition for Economic Equity preserves the inquiry for lawful voluntary racial measures without a prior-remedial-decree requirement. Crawford permits neutral policy withdrawal and statewide educational authority without erasing structural review. Adarand supplies the actual racial-classification standard; Romer's class-wide exclusion from protection differs from a neutral curricular policy.
+
+##### Whether Proposition 227 establishes that allocation on the tried record
+
+**Holding:** Proposition 227's supported text, operation and trial findings establish a linguistic instructional policy rather than the requisite racial allocation of political authority. The facial political-process claim therefore fails.
+
+**Proposition-level authority:** O'Connor's Part II, joined by Stone-Zsela, Scalia, Kennedy and Thomas; five Justices. The other four join Part I only and would require further application.
+
+**Material application:** The instructional rule applies to every family seeking the method. Immersion normally serves as a transition not exceeding one year, with mainstream instruction upon proficiency. Every waiver requires parental consent. Waivers cover existing English knowledge; a child at least ten whom the school finds would receive better English education through an alternative; or, after thirty days of immersion, identified physical, emotional, psychological or educational needs and better development through an alternative. Twenty waivers in a grade at a school require an alternative class. Amendment requires voter approval or a purpose-furthering enactment approved by two-thirds of each house and signed by the Governor. These real limitations use instruction and need rather than ancestry.
+
+**Limits and questions not reached:** Minority concentration, Latino references in campaign materials and continued local power over other subjects establish effects and subject selection, but do not establish race as the authority rule's source on this record. The pedagogical-purpose finding reinforces rather than replaces the structural inquiry. Neutral wording alone does not defeat a supported proxy claim. Independent educational and language-access duties retain their force; statutory claims omitted from the operative complaint are not revived.
+
+**Operative remedy or transition:** Affirm judgment for California, 5–4, and deny the requested facial political-process injunction.
+
+**Treatment of earlier authority:** Coalition's expressly race-selected allocation is distinguished by this supported proficiency-based policy. Its structural rule remains controlling.
+
+### Racial-impact objections to federal solicitation rules
+
+#### McConnell v. Federal Election Commission, 540 U.S. 93 — racial-impact challenge to federal solicitation rules
+
+**Docket or dockets:** Nos. 02-1674, 02-1675, 02-1676, 02-1702, 02-1727, 02-1733, 02-1734, 02-1740, 02-1747, 02-1753, 02-1755 and 02-1756.
+**Decided:** December 10, 2003.
+
+For the distinct questions in McConnell, December 10, 2003, on these consolidated dockets, see Election Law — campaign financing and electoral expression; Federal Courts: Justiciability — claimant-specific thresholds and regulated-party standing; First Amendment — press functions and broadcaster records; Constitutional Structure — federal election authority and reserved state powers.
+
+##### Whether the presented Thompson racial-impact theory establishes a racial political barrier
+
+**Holding:** The Thompson racial-impact theory fails as presented: Valeria requires an actual racial classification, deliberate proxy or racially selective political barrier, while this theory identifies demographic consequences of a uniform federal-candidate solicitation rule rather than that trigger.
+
+**Proposition-level authority:** O’Connor’s opinion for the Court, joined by all seven other Associate Justices; eight Justices adopt this racial-impact proposition. Stone-Zsela agrees in the disposition only.
+
+**Limits and questions not reached:** A uniform description does not insulate an actually proved racial classification, deliberate proxy or selective political barrier. The rejection concerns the demographic-impact theory presented here.
+
+**Operative remedy or transition:** The racial-impact alternative supplies no additional relief against the federal-candidate solicitation rule.
+
+**Treatment of earlier authority:** **Valeria:** Its racial-classification, proxy or selective-barrier rule is applied; an animus-only substitute is rejected.
+
+#### Concrete Works of Colorado v. City and County of Denver (judgment below: 321 F.3d 950)
+
+**Docket or dockets:** Supreme Court docket not supplied.
+
+**Decided:** 2003-12-18.
+
+For the preserved fit adjudication and the separate mootness dispositions, see Federal Courts and Federal Courts: Justiciability, Concrete Works of Colorado v. City and County of Denver, decided December 18, 2003, judgment below 321 F.3d 950.
+
+##### Whether Denver proved the racial contracting provisions’ substantial justification — Concrete Works of Colorado v. City and County of Denver, 2003-12-18
+
+**Holding:** A public contracting classification satisfies Adarand when the government proves an important lawful remedial objective and a substantial, evidence-supported relationship between the classification and that objective, accounting for its actual coverage and burdens and answering supported, practicable alternatives that would comparably advance the objective with materially less racial disadvantage. Linked statistical and anecdotal evidence can establish local exclusion to which public spending contributes without a prior discrimination judgment against each contractor or individual proof of injury to every beneficiary; Denver's developed evidence and preserved fit determination meet that burden here.
+
+**Proposition-level authority:** Ginsburg's opinion of the Court, unanimous; all nine participating Justices directly join this proposition.
+
+**Material application:** Accepted findings, contracting experience, studies and testimony connect local exclusion with firms receiving city funds. The developed response to capacity and availability criticisms addresses hiring, subcontracting and equipment rental; the preserved fit determination remains effective.
+
+**Limits and questions not reached:** Denver retains ultimate persuasion. General societal disparity, failure to produce a counterstudy, or proof supporting a different classification does not establish the required justification. No mandatory regression, fixed disparity cutoff, universal prior discrimination judgment or individualized injury prerequisite is imposed.
+
+**Operative remedy or transition:** The direction to enter judgment for Denver on the live 1990 damages and 1998 prospective claims is affirmed; inconsistent injunctive and declaratory relief must be removed.
+
+**Treatment of earlier authority:** Adarand supplies substantial justification; Engineering Contractors requires responsive treatment of supported practical alternatives; City of Dallas requires a demonstrated local remedial connection. Gratz requires scrutiny of actual mechanism, coverage and burdens; Grutter requires genuine consideration of practicable alternatives without exhaustion of imagined possibilities.
+
+##### Whether the women-owned-business provisions have independent constitutional support — Concrete Works of Colorado v. City and County of Denver, 2003-12-18
+
+**Holding:** Government must establish an actual important objective and a substantial relationship between the sex classification and that objective under the demanding governmental proof requirement. Denver satisfies that standard through the women-specific utilization, earnings and exclusion evidence and the program's preserved fit; proof supporting the racial provisions does not by itself establish this separate justification.
+
+**Proposition-level authority:** Ginsburg's opinion of the Court, unanimous; all nine participating Justices directly join this proposition.
+
+**Limits and questions not reached:** The government’s demanding proof burden concerns actual objectives and the sex classification’s own relationship to them. Stereotypes and evidence about other groups cannot replace women-specific support.
+
+**Operative remedy or transition:** Judgment for Denver on the live sex-classification challenge remains in force.
+
+**Treatment of earlier authority:** City of Dallas preserves the separate sex-classification inquiry and requires independent evidentiary support.
+
+#### Leebaert v. Harrington (judgment below: 332 F.3d 134)
+
+**Docket or dockets:** No Supreme Court docket supplied.
+**Decided:** 2004-02-17.
+
+For the other questions in this decision, see First Amendment — whether combining parental and religious objections establishes heightened scrutiny of ordinary instruction.
+
+##### Whether parental educational liberty requires an exemption from neutral compulsory instruction — Leebaert v. Harrington, 2004-02-17
+
+**Holding:** Parental authority over upbringing and education does not confer a general constitutional right to remove a public-school pupil from neutral ordinary instruction. The rule covers genuine instruction while preserving independently protected parental and personal interests.
+
+**Proposition-level authority:** Ginsburg's unanimous opinion of the Court.
+
+**Material application:** The stipulated dispute concerns attendance at health instruction, with the requirement's reasonable relationship to education conceded. Mere exposure to a lesson does not establish interference with a protected parental choice.
+
+**Limits and questions not reached:** Public-school enrollment does not waive constitutional protection. The federal ruling does not determine the independent state-law exemptions.
+
+**Operative remedy or transition:** The federal judgment and denial of the requested exemption are affirmed; dismissal of the state-law claims remains without prejudice.
+
+**Treatment of earlier authority:** Brown v. Hot, Sexy & Safer Productions supplies the compulsory-exposure boundary. Meyer v. Nebraska and Pierce v. Society of Sisters preserve parental teaching and educational choice without granting control over each public-school lesson. Elizabeth G. Curtis v. School Committee of Falmouth remains confined to its optional-program setting and did not alone decide compulsory attendance.
+
+#### Benjamin v. Fraser, 343 F.3d 35 (judgment below)
+
+**Docket or dockets:** No separate Supreme Court docket supplied.
+**Decided:** May 20, 2004.
+
+##### What constitutional showing governs deliberately maintained systemic pretrial conditions
+
+**Holding:** For prospective relief from longstanding, deliberately maintained systemic pretrial conditions, detainees must prove by a preponderance a current substantial risk of serious harm and conditions unrelated reasonably to a legitimate nonpunitive purpose or excessive in relation to it. Sustained notice, a genuine opportunity to deliberate and prolonged inadequate correction establish the institutional culpability shown here without separate proof of every incumbent's subjective appreciation; negligence alone remains insufficient.
+
+**Proposition-level authority:** Part I of Souter's opinion, joined by Stone-Zsela, Stevens, O'Connor, Kennedy, Ginsburg and Breyer; seven direct joins. Scalia and Thomas concur in the constitutional-relief judgment on a distinct actual-notice and knowing-nonresponse ground, not this full rationale.
+
+**Limits and questions not reached:** Serious danger alone is insufficient without the stated deliberately maintained conditions and culpability. Individual damages and convicted-prisoner claims fall outside this prospective pretrial holding.
+
+**Treatment of earlier authority:** Bell supplies protection against punishment before conviction. Daniels excludes negligence, Crawford-El supplies ordinary civil proof without eliminating substantive elements, and County of Sacramento v. Lewis makes custodial duties and the opportunity for deliberation material without importing its emergency-pursuit standard. Farmer's knowledge and reasonable-response rule retains force for the convicted-prisoner claim it decided.
+
+For Benjamin, decided May 20, 2004, no separate Supreme Court docket supplied, OCC classification and appointment are in Federal Courts; current prospective-relief conditions and implementation are in Federal Courts: Immunities and Remedies.
+
+#### Jones v. R. R. Donnelley & Sons Co., 541 U.S. 369 (2004)
+
+**Docket or dockets:** No. 02-1205.
+**Decided:** May 3, 2004.
+
+##### Whether a post-1990 amendment supplies the four-year limitation for a claim under an older statute
+
+**Holding:** Unless another law supplies the limitation, 28 U.S.C. §1658(a)'s four-year period from accrual applies when a congressional enactment after December 1, 1990 made the asserted claim possible, including an amendment of a preexisting statute. The claimant must identify the amendment's new substantive basis for liability against the defendant; merely citing amended text or an amendment irrelevant to an already available claim does not establish the federal period.
+
+**Proposition-level authority:** Stevens's unanimous opinion of the Court.
+
+**Material application:** The 1991 expansion of §1981 into performance, modification, termination and enjoyment of contractual benefits supplies the newly actionable basis for the employees' hostile-environment, termination and transfer claims insofar as each depends on that expansion. Claims within one complaint may have different limitations periods.
+
+**Operative remedy or transition:** Reverse the categorical rejection of §1658 based on §1981's original enactment date. Restore claims improperly barred under the shorter borrowed period, determine accrual and any disputed tolling or timeliness claim by claim, and adjudicate the surviving claims through ordinary proceedings, including the same analysis for any properly certified class.
+
+**Treatment of earlier authority:** Rivers v. Roadway Express identifies the substantive expansion and retains its prospective temporal boundary. Patterson v. McLean Credit Union supplies the earlier-text coverage against which amendment dependence is measured. Goodman v. Lukens Steel continues to require borrowing where no federal period displaces it. Landgraf's provision-specific temporal analysis remains distinct from §1658's enacted-date criterion.
+
+#### Tennessee v. Lane, 541 U.S. 509 (2004) — Civil Rights, OT2003
+
+**Docket or dockets:** No. 02-1667.
+**Decided:** May 17, 2004.
+
+##### What statutory conditions and defense burdens govern the judicial-access claims
+
+**Holding:** A Title II claimant must prove qualification under §12131, disability-based exclusion, denial or discrimination under §12132, and the applicable conditions for relief under §12133. The State must substantiate a claimed fundamental alteration under the applicable regulation; the separate existing-facilities defense and its procedures apply only within their own scope.
+
+**Proposition-level authority:** Stevens's opinion, joined by Stone-Zsela, O'Connor, Kennedy, Souter, Ginsburg and Breyer; seven Justices.
+
+**Limits and questions not reached:** Section 35.130(b)(7) requires necessary reasonable modifications unless the entity demonstrates a fundamental alteration of the actual service, program or activity. The claimant must establish the claim and needed modification, while the State must give service-specific evidence and reasons; labels, inconvenience or unsupported cost assertions do not establish its defense.
+
+For existing facilities, §35.150(a) requires accessibility of the service, program or activity viewed in its entirety, not necessarily each building, and does not require action threatening or destroying historic significance. Under subsection (a)(3), the entity must prove fundamental alteration or undue financial and administrative burdens; its head or designee must consider all resources available for funding and operation and issue written reasons. Even when a proposed action is excused, another action avoiding the alteration or burden must ensure receipt of the benefits or services. These financial-burden and written-reasons requirements are not imported into every §35.130(b)(7) modification claim. Section 35.150(b)(1) permits effective alternatives to structural alteration and gives priority to the most integrated appropriate setting.
+
+**Material application:** Lane's and Jones's claims require separate proof of access, qualification, reasonable accommodations, defenses, causation and compensable injury. A physical barrier, ineffective participation and an entitlement to compensation are distinct inquiries.
+
+For Lane, No. 02-1667, decided May 17, 2004, the court-access abrogation and effective prospective-relief holdings are in Federal Courts: Immunities and Remedies.
+
+
+
+### Religious-diet equal protection
+
+#### Williams v. Morton — Religious-diet equal protection
+
+**Docket or dockets:** No separate Supreme Court docket number is supplied.
+**Decided:** 2004-06-02
+
+For Williams v. Morton, 2004-06-02, No separate Supreme Court docket number is supplied, see First Amendment for [The governing constitutional and summary-judgment standards](../HOLDINGS.md#the-governing-constitutional-and-summary-judgment-standards); [The record supports the refusal to add halal meat](../HOLDINGS.md#the-record-supports-the-refusal-to-add-halal-meat).
+
+##### The asserted meat-based comparator lacks its factual predicate
+
+**Holding:** An equal-protection claim premised on furnishing meat to one religious group while denying it to another requires evidence of that differential benefit. The corrected and corroborated record describes both religious diets as meatless, so the asserted meat preference supplies no triable equal-protection violation.
+
+**Proposition-level authority:** Ginsburg's Part III, joined by all nine Justices, is the opinion of the Court.
+
+**Material application:** The meat description in an earlier certification was corrected and corroborated. Different aggregate spending for programs of different sizes does not establish the alleged meat preference.
+
+**Operative remedy or transition:** Summary judgment for officials on the identified equal-protection claim is affirmed unanimously.
+
+**Treatment of earlier authority:** Lukumi requires examination of actual governmental religious treatment; the asserted differential benefit is absent.

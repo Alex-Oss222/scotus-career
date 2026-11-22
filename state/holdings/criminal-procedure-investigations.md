@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2002
-**Processed through:** June 30, 2003, after all 185 completed OT2002 Court events.
-**Edition:** November 14, 2026
+**Last completed October Term:** 2003
+**Processed through:** June 30, 2004, after all 119 completed OT2003 Court events and the admitted Rule 53 amendment effective December 1, 2003.
+**Edition:** November 22, 2026
 
 ## Criminal Procedure: Search, Seizure and Interrogation
 
@@ -904,6 +904,8 @@ For the other questions in In re Askin, Fourth Circuit No. 94-5428, decided Dece
 - Sabbath v. United States, 391 U.S. 585, retains its rule that opening a closed unlocked door is breaking and its rejection of unsupported danger. Its common-law discussion supports the danger qualification adopted here; physical damage creates no new announcement tier.
 - Aponte Matos v. Toledo Dávila retains its separate conduct-date qualified-immunity scope and supplies no direct suppression immunity here.
 
+**Later-authority backlinks:** United States v. Banks, No. 02-473, decided December 2, 2003, resolves the evidence-destruction application reserved here: after meaningful notice, particularized reasonable suspicion that further delay will permit imminent destruction of the warranted evidence permits entry without actual or inferred refusal, with the Government required to establish the exception. The danger holding and independent force limits remain unchanged; Banks does not resolve statutory futility or escape applications.
+
 ### Search incident to arrest
 
 #### United States v. Ortiz; United States v. Hurtado
@@ -1715,6 +1717,8 @@ No earlier decision is overruled. Chapman and Neder inform Stevens's proposed re
 The Court does not invalidate the whole section. Subsection (c) protects a voluntary confession against exclusion solely for presentment delay when its weight is left to the jury and it is given within six hours of the relevant arrest or detention; the time limit does not apply when the judge finds a longer delay reasonable considering transportation and distance to the nearest available qualifying magistrate or other committing officer. Alvarez-Sanchez's relevant-duty inquiry and unresolved post-six-hour and McNabb–Mallory questions remain. Subsection (d) does not bar voluntary statements given without interrogation or while the speaker is not under arrest or detention; those alternatives remain distinct. Subsection (e) includes an admission of guilt and any oral or written self-incriminating statement. Each provision remains subject to constitutional requirements.
 
 No automatic civil liability, general fruit-of-the-statement rule, mandatory warning wording or elimination of recognized exceptions follows. The separate apartment-evidence ruling, car-evidence dispute, refusal to reopen the suppression record and circuit authority to raise section 3501 are outside this review. The Court orders no new suppression hearing, dismissal, acquittal, release or vacatur of a conviction; none exists at this interlocutory stage.
+
+**Later-authority backlinks:** United States v. Patane, No. 02-1183, decided June 28, 2004, resolves the reserved physical-fruits question for nontestimonial evidence derived from a voluntary answer. Dickerson's constitutional case-in-chief warning-and-waiver rule remains unchanged; Patane preserves actual-coercion and independent-admission objections.
 
 ##### II. The Court retains Miranda's core against the separate request for judicial abandonment
 
@@ -2635,3 +2639,342 @@ For Shain’s conduct-date immunity holdings and reviewed relief, decided March 
 **Treatment of earlier authority:** Graham requires reassessment as justification changes and control is obtained. Brower v. County of Inyo supplies intentional control as the relevant seizure characteristic; Summers does not authorize unjustified continuing force.
 
 For Holland, June 30, 2003, Tenth Circuit No. 99-1373, on interlocutory review, individual damages proof and the separate deployment and continued-restraint immunity dispositions, see Federal Courts: Immunities and Remedies — Holland ex rel. Overdorff v. Harrington — individual immunity and appellate scope.
+
+
+### Whether the announced cocaine-warrant entry required a longer wait or a higher threshold for property damage
+
+#### United States v. Banks, 540 U.S. 31
+
+**Docket or dockets:** No. 02-473.
+**Decided:** 2003-12-02.
+
+##### Whether the announced cocaine-warrant entry required a longer wait or a higher threshold for property damage — United States v. Banks, 2003-12-02
+
+**Holding:** After meaningful notice during execution of a search warrant, officers may force entry when contemporaneous circumstances support reasonable suspicion that further waiting will permit imminent destruction of the evidence sought. The Government must justify that exception; property damage does not require a higher suspicion threshold, but the means and extent of damage remain independently reasonable.
+
+**Proposition-level authority:** Breyer's unanimous opinion of the Court.
+
+**Material application:** Loud daytime announcement, the small apartment, readily disposable cocaine and fifteen to twenty seconds without a response jointly justified the entry. The relevant interval concerned an opportunity to destroy evidence; officers needed neither audible destruction nor certainty that no innocent explanation existed. Banks's unknown shower use supplied no contemporaneous fact.
+
+**Limits and questions not reached:** Neither a fixed waiting time nor an exception based solely on a narcotics warrant is established. Without exigency, the possibility of avoidable damage may require additional patience. The amount and means of force remain subject to separate review; the Court adopts no new appellate-review allocation.
+
+**Operative remedy or transition:** Reverse the entry-based suppression judgment and remand. These waiting-time and damage objections do not defeat the conditional conviction; interrogation and counsel rulings outside the grant retain their effect.
+
+**Treatment of earlier authority:** Wilson v. Arkansas supplies constitutional announcement protection. Richards v. Wisconsin supplies the particularized, contemporaneous reasonable-suspicion inquiry and rejects an offense-category shortcut; its review allocation is unchanged. United States v. Ramirez forecloses a heightened threshold merely because entry damages property while preserving independent limits on force.
+
+##### Whether section 3109 permits a supported post-announcement destruction exigency without refusal of admission
+
+**Holding:** Section 3109 ordinarily permits breaking after notice of authority and purpose and refused admission, and separately permits breaking when necessary to liberate an officer or a person assisting execution. Its common-law announcement rule also permits entry after notice without actual or inferred refusal when particular circumstances support reasonable suspicion that further delay will permit imminent destruction of the warranted evidence; the Government must establish those circumstances.
+
+**Proposition-level authority:** Breyer's unanimous opinion of the Court.
+
+**Material application:** The same specific facts justified the statutory destruction exception after actual announcement; the Court makes no finding of actual or implied refusal.
+
+**Limits and questions not reached:** The ordinary notice-and-refusal requirements and the separate liberation provision continue to operate. General drug-related risk does not suffice, and the holding does not authorize unannounced entry for every drug search or automatically import all constitutional exceptions into the statute.
+
+**Operative remedy or transition:** The statutory objection supplies no independent suppression ground; reversal and remand rest on lawful execution under both governing sources.
+
+**Treatment of earlier authority:** Miller v. United States supplies the common-law background, and Sabbath v. United States supplies the codification method while retaining its rules concerning breaking and unsupported danger. United States v. Ramirez is extended from its supported statutory danger exception to the destruction application it left unresolved. Wilson and Richards inform the historical protection and particularized threshold rather than themselves incorporating every constitutional exception into section 3109.
+
+### Whether a factually supported common-possession inference supplies personal arrest probable cause
+
+#### Maryland v. Pringle, 540 U.S. 366
+
+**Docket or dockets:** No. 02-809.
+**Decided:** 2003-12-15.
+
+##### Whether a factually supported common-possession inference supplies personal arrest probable cause — Maryland v. Pringle, 2003-12-15
+
+**Holding:** Officers may arrest a vehicle occupant for possession when facts known at arrest, considered together, establish a fair probability that the occupant knowingly exercises sole or joint dominion or control over the contraband. The Government must identify the particular facts supporting that common-possession inference; mere presence, a general passenger presumption or silence alone is insufficient, while exclusive ownership need not be established.
+
+**Proposition-level authority:** O'Connor's unanimous opinion of the Court.
+
+**Limits and questions not reached:** Probable cause addresses knowing participation rather than dividing a fixed probability among hypothetical exclusive owners. An already valid vehicle search supplies no automatic personal arrest justification. The stop and consent search are outside the grant; the opinion adds no new appellate-review rule.
+
+**Treatment of earlier authority:** Ornelas v. United States supplies independent legal review with appropriate treatment of historical findings and grounded inferences. Illinois v. Wardlow and United States v. Valentine require an actual personal connection, applied here at the higher probable-cause threshold. Ybarra v. Illinois's public-place association and United States v. Di Re's affirmative identification of another participant differ from a supported joint-possession inference. Wyoming v. Houghton retains its object-based detached-container rule and supplies no passenger-guilt or shared-enterprise presumption.
+
+##### Whether the contemporaneous cocaine, cash and shared travel established probable cause for Pringle
+
+**Holding:** The five separately packaged cocaine baggies accessible within the common passenger compartment, associated rolled cash, small private automobile and shared early-morning travel together supplied probable cause that Pringle participated in sole or joint possession. This conclusion rests on the contemporaneous combination, including the drugs’ concealed location, rather than his later confession.
+
+**Proposition-level authority:** The same unanimous opinion of O'Connor.
+
+**Material application:** The cocaine was hidden behind the upright rear armrest rather than seen by Pringle or found on him. Its accessibility, separate packaging, associated rolled cash and the shared journey nevertheless supported the combined inference. Each circumstance alone is insufficient; the officer's stated plan to arrest everyone contributes no justification.
+
+**Limits and questions not reached:** Failure to identify an owner is neither an independent sign of guilt nor a duty to confess; it leaves the otherwise supported inference undisplaced by reliable exclusive-ownership information. Later confession evidence cannot establish what the officer knew at arrest, and the disputed release-promise account is not a judicial finding.
+
+**Operative remedy or transition:** Reverse the Maryland Court of Appeals' arrest-based suppression ruling and remand. The confession cannot be excluded as the derivative product of this lawful arrest; independently preserved issues retain their actual posture, and the conviction is not unconditionally reinstated.
+
+#### Illinois v. Lidster, 540 U.S. 419
+
+**Docket or dockets:** No. 02-1060.
+
+**Decided:** 2004-01-13.
+
+##### Whether a genuine witness checkpoint has an independent operational justification — Illinois v. Lidster, 2004-01-13
+
+**Holding:** Edmond does not categorically bar a genuine checkpoint seeking possible witnesses' information about another person's specific serious incident. The government must establish the actual purpose and a concrete connection between the incident, the selected place and time, and the likely information sought; Brown then requires consideration of the gravity of the concern, how the seizure advances it, and the full interference with liberty, including duration and limits on officer discretion.
+
+**Proposition-level authority:** Breyer's opinion of the Court, unanimous; all nine participating Justices directly join this proposition.
+
+**Limits and questions not reached:** Information gathering alone is no authorization; purpose must be genuine and concretely related to the incident and chosen location and time. Investigation of a stopped driver’s own offense requires separate justification.
+
+**Treatment of earlier authority:** Edmond is distinguished because its ordinary suspect-screening purpose differs; its antecedent-justification requirement remains. Chandler requires actual operational need. Brown supplies the public-concern, advancement, full-intrusion and discretion inquiry.
+
+##### Whether the complete hit-and-run checkpoint, including its queue, is reasonable — Illinois v. Lidster, 2004-01-13
+
+**Holding:** The same-place, same-time inquiry one week after a fatal hit-and-run, its systematic and narrowly limited question and flyer, and its brief total delay establish a proportionate witness checkpoint. The whole detention—including the queue rather than just officer contact—satisfies Brown, so the checkpoint supplies no basis for the ordered suppression.
+
+**Proposition-level authority:** Breyer’s opinion, joined by Stone-Zsela, O’Connor, Scalia, Kennedy and Thomas; six direct joins. Stevens, Souter and Ginsburg join the governing framework but withhold this final application.
+
+**Material application:** The total wait was a very few minutes at most, distinct from the ten-to-fifteen-second officer contact. Uniform questions and flyers constrained discretion; the same place and approximate weekly timing linked travelers to useful evidence.
+
+**Limits and questions not reached:** Every driver need not have witnessed the event. The later intoxication investigation does not retrospectively justify the initial seizure.
+
+**Operative remedy or transition:** The suppression judgment is reversed with checkpoint reasonableness settled, removing that suppression ground for the continuing prosecution.
+
+#### Fellers v. United States, 540 U.S. 519
+
+**Docket or dockets:** No. 02-6320.
+
+**Decided:** 2004-01-26.
+
+##### Whether directed discussion of the indicted crime violates the attached right to counsel — Fellers v. United States, 2004-01-26
+
+**Holding:** Once prosecution has begun, officers may not deliberately elicit incriminating statements about the charged crime without counsel or a valid waiver of the Sixth Amendment right. The officers' directed discussion of Fellers's indicted methamphetamine conspiracy deliberately elicited his admissions; the absence of custodial interrogation under Miranda does not answer that distinct constitutional question.
+
+**Proposition-level authority:** Breyer's opinion of the Court, unanimous; all nine participating Justices directly join this proposition.
+
+**Material application:** Officers identified the charged distribution conspiracy and named associates to invite admissions. Permission to enter the home did not waive the attached right; no valid home waiver is established.
+
+**Operative remedy or transition:** The home statements remain excluded. The lower court’s Fifth-Amendment-only framework is reversed.
+
+**Treatment of earlier authority:** Massiah and Brewer govern deliberate elicitation after attachment. Patterson permits valid waiver; none occurred at home. Cobb preserves the separate Sixth Amendment inquiry, without needing its inseparable-occurrence extension for the charged conspiracy itself.
+
+##### Whether later warnings and waiver establish independence from unlawful elicitation — Fellers v. United States, 2004-01-26
+
+**Holding:** After the defendant establishes deliberate elicitation violating the attached right and a causal connection to a later statement, the Government must prove by a preponderance of the evidence that the later statement resulted from a sufficiently independent exercise of choice rather than exploitation of the violation. The court considers timing and continuity, genuine intervening circumstances, the purpose and character of the unlawful elicitation, actual use of the first account, and later warnings and a knowing, voluntary waiver; the Government must show independence is more likely than not.
+
+**Proposition-level authority:** Breyer’s opinion, joined by Stone-Zsela, Stevens, O’Connor, Kennedy, Souter and Ginsburg; seven direct joins. Scalia and Thomas agree with reversal and remand but withhold this causal rule and proof standard.
+
+**Material application:** The short sequence, same officers and repeated home account require the separate causal determination. An evenly balanced showing does not meet the Government’s preponderance burden.
+
+**Limits and questions not reached:** A valid waiver remains important but distinct from causal independence. The identification-memory reconstruction problem supporting Wade’s heightened standard is absent from this interview-sequence inquiry.
+
+**Operative remedy or transition:** The rule applies here and to similarly situated cases pending on direct review. If independence is not proved, the jail statements must be excluded. A properly preserved harmlessness claim requires proof beyond a reasonable doubt that admission did not contribute to the actual verdict; otherwise the conviction must be vacated and a new trial may proceed with independently admissible evidence.
+
+**Treatment of earlier authority:** Brown’s voluntariness-versus-exploitation principle extends to this Sixth Amendment violation; Kaupp supplies its arrest application. Wade supports derivative consequences but not a heightened burden here. Elstad and Dickerson are distinguished at the voluntary warning-omission setting. Nix, Matlock and Lego support ordinary preponderance for admissibility facts; Chapman governs preserved constitutional harmlessness.
+
+#### In re Application of the United States for an Order Authorizing the Roving Interception of Oral Communications (judgment below: 349 F.3d 1132) — Criminal Procedure: Search, Seizure and Interrogation, OT2003
+
+**Docket or dockets:** Supreme Court docket not supplied; Ninth Circuit No. 02-15635.
+
+**Decided:** 2004-01-27.
+
+##### Whether necessary interception assistance may materially disable contracted customer service — In re Application of the United States for an Order Authorizing the Roving Interception of Oral Communications, 2004-01-27
+
+**Holding:** Section 2518(4) permits a court to require a covered provider's necessary technical assistance only when performed unobtrusively and with a minimum of interference with the services furnished to the intercepted person. The applicant must support the proposed method and its actual service effects; the least disruptive feasible technique still exceeds that authority when it materially disables the primary contracted assistance service instead of producing incidental interruption.
+
+**Proposition-level authority:** Stone-Zsela's opinion of the Court, unanimous; all nine participating Justices directly join this proposition.
+
+**Material application:** This electronic-communications-link provider falls within §2510(15), but interception stopped ordinary information and roadside assistance, and emergency-button or airbag signals reached investigators instead of the normal emergency service. Loss of service availability suffices without a proved attempted call or failed rescue.
+
+**Limits and questions not reached:** Coverage of the provider and permissibility of the assistance method are distinct. The absence of unreasonable burden on the provider, cost reimbursement and §2518(5) conversational minimization do not satisfy §2518(4)’s customer-service protection. Incidental interruption remains subject to the actual minimum-interference rule.
+
+**Operative remedy or transition:** Invalidation of the expired assistance orders is affirmed. A later request requires its own showing about actual technology and service effects.
+
+**Treatment of earlier authority:** Hartford Underwriters requires the grant and independent conditions. New York Telephone’s ancillary power cannot override the express service constraint. Bach permits necessary execution only within valid authorization, without enlarging this assistance power.
+
+#### Groh v. Ramirez, 540 U.S. 551
+
+**Docket or dockets:** No. 02-811.
+**Decided:** 2004-02-24.
+
+For the other questions in this decision, see Federal Courts: Immunities and Remedies — whether the preparing officer has immunity for executing an obviously incomplete warrant.
+
+##### Whether an unincorporated application cures a home warrant omitting every item to be seized — Groh v. Ramirez, 2004-02-24
+
+**Holding:** A home-search warrant that identifies no things to be seized and incorporates no identifying document fails particularity; executing this search under that wholly deficient authorization violates the Fourth Amendment. An officer's knowledge of the separate application or intended restraint cannot supply the omitted judicial limitation.
+
+**Proposition-level authority:** Stevens's opinion, joined on this holding by Stone-Zsela, O'Connor, Kennedy, Souter, Ginsburg and Breyer: seven direct joins. All nine acknowledge the facial defect, but Scalia and Thomas do not join the unconstitutional-search holding.
+
+**Material application:** The warrant placed the premises description in the space for objects and incorporated neither the application nor affidavit. The asserted oral explanation is disputed and cannot establish a homeowner-adverse fact on summary judgment; it would not amend the judicial authorization.
+
+**Limits and questions not reached:** No categorical advance-service rule or holding that incorporation and accompaniment always suffice is adopted.
+
+**Operative remedy or transition:** The individual claim is reinstated under the affirmed judgment; remaining factual and remedial questions retain ordinary adjudication.
+
+**Treatment of earlier authority:** Wilson v. Layne supplies the relationship between the warrant's authorized scope and execution. The constitutional particularity requirement demands the omitted judicial description.
+
+#### Thornton v. United States, 541 U.S. 615 (2004)
+
+**Docket or dockets:** No. 03-5165.
+**Decided:** May 24, 2004.
+
+##### Whether first contact outside the car defeats a recent-occupant arrest search
+
+**Holding:** First police contact after a recent occupant leaves the vehicle does not by itself preclude a search incident to arrest. Validity depends on the actual constitutional justification for the search, rather than contact timing alone.
+
+**Proposition-level authority:** Part I of Thomas's opinion, joined by Stone-Zsela, O'Connor, Scalia, Kennedy, Ginsburg and Breyer; seven direct joins. Stone-Zsela joins only this limited proposition while dissenting from the search's approval.
+
+**Treatment of earlier authority:** Belton's lawful-arrest vehicle setting is applied without a first-contact distinction. Knowles retains the difference between a citation and custodial arrest. Florida v. Thomas supplies only its finality holding, not a recent-occupant merits rule.
+
+##### When offense evidence justifies a contemporaneous search after the recent occupant is secured
+
+**Holding:** After lawful custodial arrest of a genuine recent vehicle occupant secured away from the vehicle, police may contemporaneously search its passenger compartment within the vehicle-search scope when an objective reasonable belief connects it to evidence of the arrest offense. The supported drug arrest and immediate vehicle association justify Thornton's search on that bounded ground.
+
+**Proposition-level authority:** Scalia's concurrence, joined by Ginsburg, supplies the controlling affirmative permission under Marks. O'Connor, Kennedy, Thomas and Breyer would permit every search in the same lawful-arrest, genuine-recent-occupancy, contemporaneous passenger-compartment category without the offense-evidence condition. The concurrence retains each common predicate and adds that condition, so every search it permits falls within the broader permission; a secured occupant arrested for an offense yielding no reasonable expectation of vehicle evidence falls only within the broader category. These are two express joins plus four broader positions, not six express adoptions of the concurrence.
+
+**Material application:** Thornton's production of marijuana and crack cocaine before arrest and immediate connection with his car establish the objective offense-evidence link; discovery of the handgun afterward supplies no earlier justification.
+
+**Limits and questions not reached:** The derived permission is confined to those shared temporal, spatial and arrest predicates. Automobile probable cause, inventory and Chimel grounds retain independent legal and factual requirements; the lower court's suggestion that an inventory could have occurred does not itself establish them.
+
+**Material judgment:** Affirm admission of the handgun and the convictions, 6–3: O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer support affirmance; Stone-Zsela, Stevens and Souter would vacate and remand for the independent admissibility ground and conviction consequences.
+
+**Treatment of earlier authority:** Belton is applied at the common recent-occupant scope, with the offense-evidence condition controlling the secured-occupant permission. Chimel's immediate-control premise is distinguished because the arrestee cannot reach the vehicle; Robinson's person-search rule does not itself justify an inaccessible-area search. Marks permits the logical subset at shared predicates, and Nichols requires a common question and compatible predicates, both present here. Houghton's automobile exception retains its distinct probable-cause basis.
+
+#### United States v. Flores-Montano, 541 U.S. 149
+
+**Docket or dockets:** No. 02-1794.
+**Decided:** 2004-03-30.
+
+##### Reversible fuel-tank inspection at the international border
+
+**Holding:** Officials conducting a lawful international-border inspection may remove, disassemble and reassemble an entering vehicle's fuel tank to inspect for contraband without individualized reasonable suspicion when the method does not inflict serious destruction or otherwise make the search unreasonable. The Government must establish the actual border and inspection predicates; mechanical complexity or use of specialized labor alone adds no suspicion requirement, while the means and extent of property interference remain independently subject to Fourth Amendment reasonableness.
+
+**Proposition-level authority:** Souter's opinion for the unanimous Court, joined in full by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer, controls the complete rule, method-and-duration application and suppression disposition.
+
+**Material application:** The Otay Mesa inspection involved reversible tank removal and reassembly, approximately one hour including waiting, and no established serious destruction. The Court relies on the preserved border ground, not a reasonable-suspicion argument declined below or the later discovery of contraband.
+
+**Limits and questions not reached:** Bodily searches, materially different destructive methods and prolonged detention require separate assessment.
+
+**Operative remedy or transition:** Reverse suppression and remand for prosecution without the rejected categorical fuel-tank rule; independently preserved issues remain subject to ordinary adjudication.
+
+**Treatment of earlier authority:** United States v. Ramsey supplies the actual-border inspection authority. United States v. Montoya de Hernandez retains the distinct rules governing personal detention and bodily intrusion; mechanical work on a vehicle does not import that intrusion. United States v. Ramirez and United States v. Banks supply the distinction between authority and reasonable execution, including independently limited property damage. Soldal v. Cook County retains its home-possession holding and does not establish an additional fuel-tank suspicion requirement.
+
+#### Yarborough v. Alvarado, 541 U.S. 652 (2004)
+
+**Docket or dockets:** No. 02-1684.
+**Decided:** June 1, 2004.
+
+##### What objective circumstances determine Miranda custody
+
+**Holding:** Miranda custody depends on whether the objective circumstances as a whole would make a reasonable person in the interviewee's position understand restraint comparable to formal arrest. Communicated circumstances, including the effect of conveyed suspicion, matter; undisclosed beliefs and personal psychology do not determine custody, and neither station questioning nor suspicion alone is sufficient.
+
+**Proposition-level authority:** Part I of O'Connor's opinion, joined by all nine Justices.
+
+**Limits and questions not reached:** This habeas disposition neither excludes apparent youth categorically from objective circumstances nor establishes a new general age rule for direct review. Ultimate release, a friendly tone or a lack of physical force alone does not settle custody.
+
+**Treatment of earlier authority:** Miranda supplies the warning consequence, Berkemer and Stansbury the objective arrest-equivalent inquiry, and Mathiason and Beheler the limits of station location and suspicion. Thompson v. Keohane retains custody's mixed law-and-fact character under its former-statute setting.
+
+For Yarborough, No. 02-1684, decided June 1, 2004, the independent §2254(d)(1) framework and case-specific denial are in Federal Courts: Habeas and Collateral Review.
+
+
+
+### Continued restraint and respiratory distress
+
+#### Drummond ex rel. Drummond v. City of Anaheim
+
+**Docket or dockets:** No separate Supreme Court docket number is supplied.
+**Decided:** 2004-06-17
+
+For Drummond ex rel. Drummond v. City of Anaheim, 2004-06-17, No separate Supreme Court docket number is supplied, see Federal Courts: Immunities and Remedies for [Preconduct law gave sufficiently clear warning](../HOLDINGS.md#preconduct-law-gave-sufficiently-clear-warning); [Dependent judgments return for their independent requirements](../HOLDINGS.md#dependent-judgments-return-for-their-independent-requirements).
+
+##### Continued severe pressure must answer an actual continuing need
+
+**Holding:** Officers violate the Fourth Amendment when, without a proportionate continuing safety need, they maintain substantial body-weight pressure that obstructs breathing after an unarmed person is handcuffed, controlled and nonresisting, despite known respiratory distress. The inquiry considers the complete circumstances as they develop, and an actual continuing threat may materially change the assessment.
+
+**Proposition-level authority:** Souter’s opinion of the Court, unanimous; all nine Justices join every proposition and the confined mandate.
+
+**Material application:** The assumed account involves sustained back and neck compression after handcuffing and control, nonresistance and repeated breathing complaints. Emergency custody can justify control but does not itself justify the continued dangerous pressure. Each officer’s participation and causal contribution remain necessary.
+
+**Operative remedy or transition:** Affirm reversal of officers’ summary judgment on the supported nonmovant account; disputed actual force, medical causation and attributable injury remain for ordinary proceedings.
+
+**Treatment of earlier authority:** - Graham v. Connor: applied to continued force as the actual need changes; the complete objective on-scene inquiry retains its force.
+- Plakas v. Drinski: distinguished because its supported immediate armed attack supplied a continuing need absent from the assumed account here.
+
+### Name demands during investigative stops
+
+#### Hiibel v. Sixth Judicial District Court of Nevada, 542 U.S. 177
+
+**Docket or dockets:** No. 03-5554.
+**Decided:** 2004-06-21
+
+##### A relevant name duty can operate within a lawful investigative stop
+
+**Holding:** During an independently lawful investigative stop, a State may require a person to disclose a name when the demand is reasonably related to the circumstances justifying the stop and does not enlarge its lawful scope or duration. A prosecution must establish the lawful stop, the properly bounded demand and the statutory violation under the applicable criminal burden; refusal cannot supply retroactive suspicion or authority for unrelated questioning.
+
+**Proposition-level authority:** O’Connor’s opinion of the Court, joined in full by Stone-Zsela, Scalia, Kennedy and Thomas; five direct joins.
+
+**Material application:** Nevada’s authoritative construction requires communication of a name, not an identification document. The stop and investigation-related demand are independently justified on the accepted record.
+
+**Limits and questions not reached:** No automatic authority arises for compelled explanations, unrelated questions or expanded detention. Atwater separately requires an actual enforcement function for added fine-only station transport and confinement.
+
+**Operative remedy or transition:** The conviction is affirmed, 5–4.
+
+**Treatment of earlier authority:** - Terry v. Ohio: applied to independent suspicion and the continuing scope and duration limits; its framework now permits the defined relevant name duty.
+- Brown v. Texas: distinguished because this review accepts an independently justified stop; its suspicion requirement remains binding.
+- Kolender v. Lawson: distinguished because Nevada requires a name rather than undefined reliable identification.
+- Berkemer v. McCarty: confined to its Miranda-custody question; its general discussion of voluntary answers does not settle the enacted name duty.
+- Atwater v. City of Lago Vista: preserved at its separate requirement of an actual function for added fine-only station transport and confinement.
+
+##### A real evidentiary-link danger preserves the privilege
+
+**Holding:** A compelled name demand remains subject to the Fifth Amendment when disclosure presents a real and appreciable danger of furnishing criminal evidence, including an evidentiary link. The claimant must supply a sufficient contextual basis to identify that danger without being forced to disclose the privileged substance itself; a claim of privacy alone does not establish the privilege, and this record supplies no such incriminating link.
+
+**Proposition-level authority:** O’Connor’s opinion of the Court, joined in full by Stone-Zsela, Scalia, Kennedy and Thomas; five direct joins.
+
+**Limits and questions not reached:** Names have no categorical identity exception from the privilege. Investigative usefulness alone does not prove incrimination; silence is not waiver. Custodial-interrogation safeguards retain their distinct operation.
+
+**Treatment of earlier authority:** - Hoffman v. United States and Ohio v. Reiner: applied to real contextual exposure, including an evidentiary link and despite asserted innocence.
+- United States v. Hubbell: preserved at its compelled-testimony and derivative-use scope without eliminating the actual incrimination requirement.
+- Dickerson v. United States: preserved at its distinct custodial-interrogation scope.
+
+### Effective warnings after question-first interrogation
+
+#### Missouri v. Seibert, 542 U.S. 600
+
+**Docket or dockets:** No. 02-1371.
+**Decided:** June 28, 2004.
+
+##### When midstream Miranda warnings convey a genuine choice after unwarned custodial questioning
+
+**Holding:** When a confession follows unwarned custodial questioning, the prosecution must establish a knowing, voluntary and effective warning waiver by a preponderance of the evidence on the complete circumstances. In a coordinated question-first sequence, courts must assess the initial questioning's completeness, overlapping content, timing, setting, personnel, references to prior admissions and meaningful corrective measures; deliberate evasion is powerful evidence but is not necessary to find objectively ineffective warnings. A signed form cannot cure circumstances in which the warnings could not reasonably convey a real choice to stop.
+
+**Proposition-level authority:** Souter's objective-rule portion, joined by Stone-Zsela, Stevens, Ginsburg and Breyer; five direct joins, without a Marks combination.
+
+**Limits and questions not reached:** The listed circumstances are considerations rather than a numerical test. No fixed waiting period, additional sentence or signed form establishes a categorical cure; conversely, an earlier unwarned statement does not permanently bar a genuinely separated interview with effective warnings and waiver.
+
+**Treatment of earlier authority:** - **Miranda v. Arizona, 384 U.S. 436:** Applied to effective warnings and knowing, voluntary waiver in the whole custodial sequence.
+- **Dickerson v. United States, 530 U.S. 428:** Its constitutional safeguard governs; voluntariness alone cannot substitute for effective warnings and waiver.
+- **Oregon v. Elstad, 470 U.S. 298:** Distinguished on the actual continuity and lack of effective separation; its rule for a genuinely effective subsequent warning and waiver remains.
+- **Colorado v. Connelly, 479 U.S. 157:** The ordinary prosecution burden to establish waiver remains distinct from proving actual coercion.
+
+##### Whether this deliberate continuous interrogation requires suppression of the warned repetition
+
+**Holding:** The warned repetition obtained through this detailed initial confession, short break, same officer, overlapping content and use of prior admissions must be suppressed. The established deliberate method lacked effective intervening measures that restored an informed choice.
+
+**Proposition-level authority:** Souter's application, joined by Stone-Zsela, Stevens, Kennedy, Ginsburg and Breyer; six direct joins. Kennedy joins this sufficient ground but not the intent-independent rule.
+
+**Operative remedy or transition:** The repeated confession must be excluded at any retrial, as must the initial statement already suppressed. Missouri may retry Seibert on independently admissible evidence within applicable procedure. The reversed conviction cannot itself support continued custody; custody must rest on valid charges and ordinary state authority.
+
+### Physical fruits of a voluntary unwarned answer
+
+#### United States v. Patane, 542 U.S. 630
+
+**Docket or dockets:** No. 02-1183.
+**Decided:** June 28, 2004.
+
+##### Whether incomplete Miranda warnings alone require suppression of voluntary nontestimonial physical fruits
+
+**Holding:** Failure to give complete Miranda warnings restricts case-in-chief use of the resulting statement but does not by itself require suppression of nontestimonial physical evidence derived from a voluntary answer. When voluntariness is properly contested, the prosecution must establish it under the applicable burden and satisfy other independent admission requirements; an unwarned answer is not thereby a valid waiver, and the rule does not extend to evidence produced by actual coercion.
+
+**Proposition-level authority:** Stone-Zsela's opinion of the Court, joined by O'Connor, Scalia, Kennedy and Thomas; five direct joins to this narrow remedial ground.
+
+**Material application:** The reviewed answer is assumed voluntary. Patane's interruption of warnings does not establish a complete waiver, and the record supplies no finding resolving good faith or deliberate evasion.
+
+**Operative remedy or transition:** The automatic Miranda-fruits bar to the pistol is removed. The lower court must apply any genuinely preserved independent admission ground; the appellate rejection of the probable-cause rationale remains part of the posture. The pistol may be admitted if otherwise lawful, while case-in-chief use of the unwarned answer remains governed by the separate statement rule.
+
+**Treatment of earlier authority:** - **Miranda v. Arizona; Dickerson v. United States, 530 U.S. 428:** Their constitutional case-in-chief warning-and-waiver core is preserved; Dickerson's open physical-fruits question is resolved at the voluntary, nontestimonial scope here.
+- **Michigan v. Tucker, 417 U.S. 433; Oregon v. Elstad, 470 U.S. 298:** Their differentiated consequences support this physical-remedy distinction without replacing the original statement's warning requirement.
+- **Chavez v. Martinez, 538 U.S. 760:** Its no-use damages judgment had no controlling Fifth Amendment rationale and does not decide admissibility; its separate interrogation-abuse inquiry survives at its actual scope.

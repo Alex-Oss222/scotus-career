@@ -2,6 +2,7 @@
 """Maintain doctrinal Holdings volumes and the continuous compatibility view."""
 from __future__ import annotations
 import argparse
+import re
 from pathlib import Path
 
 AREAS = [
@@ -30,6 +31,14 @@ AREAS = [
     ("Antitrust", "antitrust"),
 ]
 
+def volume_links(text: str):
+    """Keep compatibility-view anchors usable from a split volume."""
+    return re.sub(r"(?<=\]\()#(?=[^\s)]+\))", "../HOLDINGS.md#", text)
+
+def continuous_links(text: str):
+    """Undo only the volume-relative form of compatibility-view anchors."""
+    return re.sub(r"(?<=\]\()\.\./HOLDINGS\.md#(?=[^\s)]+\))", "#", text)
+
 def header_and_sections(text: str):
     lines = text.splitlines()
     starts = [(i, line[3:].strip()) for i, line in enumerate(lines) if line.startswith("## ")]
@@ -52,8 +61,10 @@ def split(root: Path):
         missing = expected - set(sections)
         extra = set(sections) - expected
         raise SystemExit(f"area mismatch; missing={sorted(missing)} extra={sorted(extra)}")
+    if any(continuous_links(section) != section for section in sections.values()):
+        raise SystemExit("continuous Holdings contains a reserved volume-relative anchor link")
     for name, slug in AREAS:
-        (out / f"{slug}.md").write_text(header + "\n\n" + sections[name] + "\n", encoding="utf-8")
+        (out / f"{slug}.md").write_text(header + "\n\n" + volume_links(sections[name]) + "\n", encoding="utf-8", newline="\n")
 
 def build(root: Path, check: bool):
     vol = root / "state" / "holdings"
@@ -64,7 +75,7 @@ def build(root: Path, check: bool):
         if list(parsed) != [name]:
             raise SystemExit(f"{path}: expected only area {name!r}")
         headers.append(header)
-        sections.append(parsed[name])
+        sections.append(continuous_links(parsed[name]))
     if len(set(headers)) != 1:
         raise SystemExit("volume publication headers are not synchronized")
     generated = headers[0] + "\n\n" + "\n\n".join(sections) + "\n"

@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2002
-**Processed through:** June 30, 2003, after all 185 completed OT2002 Court events.
-**Edition:** November 14, 2026
+**Last completed October Term:** 2003
+**Processed through:** June 30, 2004, after all 119 completed OT2003 Court events and the admitted Rule 53 amendment effective December 1, 2003.
+**Edition:** November 22, 2026
 
 ## Federal Indian Law
 
@@ -814,3 +814,24 @@ For compensation, waiver and the proof-dependent remand in this case, March 4, 2
 **Limits and questions not reached:** The duty concerns the assets and periods of actual federal use or control, which require identification in the claims court. It does not establish an automatic historic-restoration standard or resolve the funding of proper upkeep.
 
 **Treatment of earlier authority:** Mitchell I is distinguished because its allotment scheme assigned use and management to allottees. Mitchell II's source-defined responsibility method extends to preservation of expressly entrusted property under retained and exercised federal use.
+
+#### United States v. Lara, 541 U.S. 193
+
+**Docket or dockets:** No. 03-107.
+**Decided:** 2004-04-19.
+
+##### Congress may remove this restriction on retained tribal criminal authority
+
+**Holding:** Congress may lift the federal common-law restriction on an existing tribe's retained criminal authority over nonmember Indians in the presented reservation setting. Section 1301(2) validly recognizes and restores that authority; a prosecution exercising it is tribal rather than federal in source and therefore does not bar this subsequent federal prosecution under the Double Jeopardy Clause.
+
+**Proposition-level authority:** Stone-Zsela's opinion of the Court, joined by the other members of Stone-Zsela, Stevens, O'Connor, Ginsburg and Breyer, supplies five direct votes for the complete rule and explanation.
+
+**Limits and questions not reached:** The holding concerns a surviving tribe and nonmember Indians in the reservation setting. Section 1301(4) covers a person who would be subject to 18 U.S.C. §1153 for one of its listed offenses in Indian country. Non-Indian criminal jurisdiction and the tribal proceeding's distinct due-process and equal-protection validity are not decided; individual protections under the Indian Civil Rights Act remain operative.
+
+**Operative remedy or transition:** Reverse the double-jeopardy bar and reinstate the federal prosecution, with ordinary proof and independently preserved defenses. The constitutional-restoration rationale has five votes; Kennedy and Thomas add judgment votes only.
+
+**Treatment of earlier authority:**
+
+- **United States v. Wheeler:** Applied for the ultimate-source inquiry and the distinction between federal supervision and inherent tribal prosecution. Its previously open restoration question is resolved at the stated scope.
+- **Duro v. Reina:** Its former nonmember-Indian restriction is recognized as altered by Congress within Congress's constitutional authority. Its reasoning does not establish an immutable bar to this restoration.
+- **Strate v. A-1 Contractors; Atkinson Trading Co. v. Shirley; Nevada v. Hicks:** Their source-specific civil-jurisdiction holdings remain intact. They do not constitutionalize the criminal restriction that the express statute changes here.

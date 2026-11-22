@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2002
-**Processed through:** June 30, 2003, after all 185 completed OT2002 Court events.
-**Edition:** November 14, 2026
+**Last completed October Term:** 2003
+**Processed through:** June 30, 2004, after all 119 completed OT2003 Court events and the admitted Rule 53 amendment effective December 1, 2003.
+**Edition:** November 22, 2026
 
 ## Antitrust
 
@@ -275,6 +275,8 @@ For the Connecticut/Arizona reconsideration and statutory fact-review holding in
 - Charming Betsy, 2 Cranch 64: interpretive canon retained; does not require the asserted dismissal here.
 - Aramco, 499 U.S. 244, and Sale, June 21, 1993: source-specific geographic scope preserved; different statutes do not erase established Sherman Act reach.
 
+**Later-authority backlinks:** F. Hoffmann-La Roche Ltd. v. Empagran S.A., No. 03-724, decided June 14, 2004, resolves the reserved section 6a question for foreign injury independent of the qualifying domestic effect: another person's domestic claim does not establish the required connection to the plaintiff's claim. Hartford Fire's American-market disposition and retained territorial interpretive principle remain unchanged; Empagran leaves its alternatively asserted dependent injury for the separate preservation and statutory-sufficiency inquiry.
+
 ### Nonstatutory labor exemption
 
 #### Brown v. Pro Football, Inc., 518 U.S. 231 (1996)
@@ -526,3 +528,75 @@ For the recusal violation and civil relief in United States v. Microsoft Corp., 
 **Operative remedy or transition:** Dismissal of the independent-party antitrust claims is affirmed, 8–1.
 
 **Treatment of earlier authority:** California Dental supplies inquiry suited to the actual restraint and commercial explanation. NYNEX requires the actual agreement and competitive harm. Microsoft supports actual justification rather than reliance on an integration label; its platform context does not itself classify this covenant.
+#### Verizon Communications Inc. v. Law Offices of Curtis V. Trinko, LLP, 540 U.S. 398
+
+**Docket or dockets:** No. 02-682.
+
+**Decided:** 2004-01-13.
+
+For the distinct damages-directness and prospective-remedy questions, see Federal Courts: Immunities and Remedies, Verizon Communications Inc. v. Law Offices of Curtis V. Trinko, LLP, decided January 13, 2004, No. 02-682.
+
+##### Whether discriminatory performance of regulated access duties independently maintains monopoly power — Verizon Communications Inc. v. Law Offices of Curtis V. Trinko, LLP, 2004-01-13
+
+**Holding:** A regulated firm's breach of an access duty violates Sherman Act section 2 only when the plaintiff independently establishes relevant-market monopoly power, unlawful acquisition or maintenance through an exclusionary competitive mechanism, and causally connected antitrust injury. Deliberate discriminatory degradation of rival-customer access may qualify when it maintains monopoly power and lacks an adequate business justification; regulatory breach, rival injury or exclusionary purpose alone supplies no substitute for those elements.
+
+**Proposition-level authority:** Part I of Stevens’s opinion, joined by Stone-Zsela, Kennedy, Souter, Ginsburg and Breyer; six direct joins.
+
+**Material application:** The complaint alleges selective degradation of rival-customer orders as the competitive mechanism. Actual market constraints, technical requirements, investment incentives, efficiency and other substantial business explanations remain material.
+
+**Limits and questions not reached:** The saving clause preserves existing antitrust law without creating new dealing duties. Prior voluntary dealing is probative but not an exclusive prerequisite. A leveraging label cannot replace the offense elements; an attempt theory requires anticompetitive conduct, specific intent and dangerous probability in the relevant market. The ordinary civil burden and pleading rules apply.
+
+**Operative remedy or transition:** The prior reinstatement basis is vacated for adjudication of the existing prospective claim under the independent offense and remedy requirements. Properly permitted amendment remains available; an insufficient theory is subject to ordinary dismissal.
+
+**Treatment of earlier authority:** CSU v. Xerox’s separation of statutory entitlement, exclusion and substantial justification extends to regulated network inputs. Kodak requires actual market analysis; Aspen Skiing illustrates unjustified exclusion without an exclusive prior-dealing gate. NYNEX separates regulatory wrongs from competitive harm; Spectrum Sports supplies each attempt element.
+
+#### United States Postal Service v. Flamingo Industries (USA) Ltd., 540 U.S. 736
+
+**Docket or dockets:** No. 02-1290.
+**Decided:** 2004-02-25.
+
+For the other questions in this decision, see Federal Courts: Immunities and Remedies — whether the postal sue-and-be-sued waiver creates absent substantive antitrust liability.
+
+##### Whether the Postal Service is a covered defendant under the operative antitrust statutes — United States Postal Service v. Flamingo Industries (USA) Ltd., 2004-02-25
+
+**Holding:** The Postal Service remains part of the United States under the operative Postal Reorganization Act and is outside the federal antitrust laws' defendant-person class. Operational independence and commercial contracting do not change its enacted executive-establishment status; the coverage ruling governs its operations rather than only conduct Congress specifically commands.
+
+**Proposition-level authority:** Thomas's unanimous opinion of the Court.
+
+**Material application:** The alleged mail-sack restraint cannot supply statutory coverage absent from the enactments. Congress's authorization for the Government to sue does not make it an antitrust defendant.
+
+**Limits and questions not reached:** The alleged scheme is not adjudicated as fact. The independent procurement and state-law claims are outside the reviewed antitrust question.
+
+**Operative remedy or transition:** The Ninth Circuit judgment is reversed and remanded for dismissal of the federal antitrust counts against the Service, with independent claims receiving separate treatment.
+
+**Treatment of earlier authority:** United States v. Cooper Corp. retains the United States/antitrust-person distinction. FDIC v. Meyer requires separate substantive coverage after waiver. Trinko's conduct and remedial rules for covered private defendants do not answer this antecedent entity-status question.
+
+
+
+### Foreign injury and the domestic-effects exception
+
+#### F. Hoffmann-La Roche Ltd. v. Empagran S.A., 542 U.S. 155
+
+**Docket or dockets:** No. 03-724.
+**Decided:** 2004-06-14
+
+##### The qualifying effect must give rise to the claimant's own claim
+
+**Holding:** Section 6a excludes nonimport foreign commerce, including wholly foreign transactions, from the Sherman Act unless the conduct has a direct, substantial and reasonably foreseeable effect on domestic or import commerce, or on the foreign export commerce of a person engaged in that commerce in the United States, and that effect gives rise to the plaintiff's asserted antitrust claim. A foreign injury independent of the domestic effect does not qualify merely because that effect gives another person a claim; import trade remains outside the general exclusion, and coverage restored only through the export branch permits recovery only for injury to export business in the United States.
+
+**Proposition-level authority:** Part I of Breyer's opinion is joined by Stevens, Kennedy, Souter, Ginsburg and Stone-Zsela: six direct joins. Part II's additional explanation has the five-Justice coalition of Breyer, Stevens, Kennedy, Souter and Ginsburg. Scalia and Thomas support the operative construction in their separate judgment concurrence.
+
+**Limits and questions not reached:** The territorial canon construes section 6a; it is not a country-by-country balancing defense or a demand for incompatible foreign commands. The five-Justice Part II explanation supplements Part I’s six direct joins; no Marks synthesis is needed.
+
+**Treatment of earlier authority:** - Hartford Fire Insurance v. California, 509 U.S. 764: distinguished because its substantial American-market effects gave rise to the claims it sustained; its reserved §6a question is now resolved for independent foreign injury, and its retained territorial interpretive canon remains effective.
+- Murray v. Schooner Charming Betsy, 2 Cranch 64: applied as an interpretive principle favoring a permissible construction consistent with customary territorial restraint. The principle operates in construing §6a, not as an automatic defense based on foreign permission.
+
+##### The assumed independent injury is excluded; the alternative requires its own procedural and statutory inquiry
+
+**Holding:** On the assumed independence of these purchasers' foreign injuries, §6a's effects exception is unavailable. The judgment is vacated, and the court of appeals must determine preservation of the alternative claim that domestic price effects caused the foreign loss and, if preserved, assess its legal sufficiency under the statute and direct appropriate further proceedings.
+
+**Proposition-level authority:** Part III of Breyer's opinion, joined by Stevens, Kennedy, Souter, Ginsburg and Stone-Zsela, has six direct joins; Scalia and Thomas independently support the same mandate.
+
+**Operative remedy or transition:** Vacate unanimously among the eight participants and remand. Dismiss independent-injury theories; determine whether the domestic-price-dependence theory was preserved and, if so, its statutory sufficiency. O’Connor did not participate.
+
+**Limits and questions not reached:** A worldwide-cartel allegation does not establish domestic-effects causation. The reviewed question assumes independent foreign injury; the alternative’s sufficiency remains undecided.

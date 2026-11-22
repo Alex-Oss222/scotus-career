@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2002
-**Processed through:** June 30, 2003, after all 185 completed OT2002 Court events.
-**Edition:** November 14, 2026
+**Last completed October Term:** 2003
+**Processed through:** June 30, 2004, after all 119 completed OT2003 Court events and the admitted Rule 53 amendment effective December 1, 2003.
+**Edition:** November 22, 2026
 
 ## Constitutional Structure
 
@@ -4272,3 +4272,580 @@ For this case's local insurance connection holding, see Property and Economic Ri
 **Operative remedy or transition:** Reverse the facial spending ground along with the facial speech ground for both programs, 8–1, and remand for judgment rejecting the facial claims and removal of the injunction founded on them. An adult denied effective access through an actual library policy may seek as-applied prospective relief against actual denial, material delay or compelled disclosure. The statutory construction, the adult-access rule and the facial speech holding appear in First Amendment.
 
 **Treatment of earlier authority:** Dole’s bar on conditions inducing unconstitutional conduct remains intact and is applied: these conditions do not facially require such conduct because the disabling provisions permit compliance, but Congress may not condition covered assistance on a recipient's refusal to provide the adult-access protection the First Amendment requires.
+
+
+### Commerce authority over asbestos-abatement services
+
+#### United States v. Ho
+
+**Docket or dockets:** Review of the judgment reported at 311 F.3d 589.
+**Decided:** November 20, 2003.
+
+##### Whether the removal operation has a sufficient interstate-market connection
+
+**Holding:** Congress may regulate this commercial asbestos-removal operation's work practices because the regulated service itself is produced and procured in an established interstate abatement market. Once the direct economic relationship and enacted class's fit are supported, aggregate effects may be assessed without showing this project's independently substantial interstate effect.
+
+**Proposition-level authority:** Stone-Zsela's opinion of the Court, unanimous.
+
+**Material application:** Ho rejected licensed bids because of cost and paid substitute workers for removal. That performance participates in the service market and changes competitive costs; the connection comes from regulated work rather than ownership, property value, commercial surroundings or generalized health costs.
+
+**Limits and questions not reached:** Facility coverage extends beyond commercial buildings to institutional, public, industrial and specified residential structures, including condominiums and cooperatives, ships and active or inactive waste sites. It excludes apartment buildings with four or fewer units, does not treat a loft dwelling as making a structure residential, and preserves coverage despite later changes in use. Hospital coverage is uncontested. The Court adds no commercial-building or individual-commerce element and announces no universal environmental exception.
+
+**Treatment of earlier authority:** Lopez requires a connection before aggregation and preserves enacted elements. Home Builders's regulated-class identification and fit rule remains; regulation of abatement work differs from characterizing unrelated conduct by commercial surroundings. Wickard and Perez permit aggregation of a supported economic class; Hodel permits environmental regulation of economic operations.
+
+##### Whether preventive practices and advance notice require an actual release
+
+**Holding:** Valid regulation of this connected removal operation may impose preventive practices and advance notice without proof of ambient escape or cross-border injury from the project. Notice is sustained as directly ancillary to enforcement of the work standards; every enacted offense element still requires proof beyond a reasonable doubt.
+
+**Proposition-level authority:** The same unanimous opinion.
+
+**Limits and questions not reached:** Absence of release is assumed for this question. A release requirement in another offense retains its role; a sentencing finding under another evidentiary burden cannot establish a conviction element. The holding neither aggregates reporting failures generally nor relies on an independent interstate-externality theory. Separate sentence-enhancement validity is outside review.
+
+**Operative remedy or transition:** Affirm the work-practice and notification convictions against the preserved Commerce Clause challenge. The independent sentence vacatur and remand retain their grounds and scope; acquittals and dismissed counts remain undisturbed.
+
+**Treatment of earlier authority:** Holston's production anti-evasion rationale remains distinct; its concealment, reproducibility and image-supply predicates do not supply this direct-service holding.
+
+### Whether the Potomac settlement subjects Virginia's reserved riparian uses to Maryland permits
+
+#### Virginia v. Maryland, 540 U.S. 56
+
+**Docket or dockets:** No. 129, Original.
+**Decided:** 2003-12-09.
+
+##### Whether the Potomac settlement subjects Virginia's reserved riparian uses to Maryland permits — Virginia v. Maryland, 2003-12-09
+
+**Holding:** The congressionally approved settlement reserves Virginia’s riparian use beyond its low-water boundary and does not subject that use to Maryland’s unilateral licensing veto. Virginia, its subdivisions and citizens may make the protected withdrawals and improvements appurtenant to the Virginia shore without the challenged Maryland permits, subject to navigation, Maryland’s proper use and applicable federal law.
+
+**Proposition-level authority:** Souter's opinion, joined by Stone-Zsela, O'Connor, Scalia, Thomas, Ginsburg and Breyer (seven Justices). Stevens and Kennedy dissent; their conditional acquiescence observation adds no join.
+
+**Material application:** The Black-Jenkins Award reserves Virginia's qualified use beyond its low-water boundary while recognizing Maryland's riverbed title. The reservation to Virginia itself controls, rather than a general exemption of private riparian property from reasonable regulation.
+
+**Limits and questions not reached:** The 1958 Compact replaced the former Compact while Article VII section 1 preserved existing riparian rights and relevant judicial constructions without enlargement or diminution. Article VII section 2 separately continued the Maryland Code Article 66C rules in force on December 1, 1958 for Potomac finfish, crabs, oysters and clams, subject to Commission changes under the Compact. Section 3 continued existing licenses and associated fishing rights for those species and other shellfish for six months and then abrogated them; neither provision displaces section 1. Article IX made replacement effective sixty days after the last legally necessary act, Article VIII prohibits unilateral alteration, and Congress preserved federal rights, jurisdiction, commerce power and authority to alter, amend or repeal its consent. The preserved 1785 shore-property and improvement protections remain qualified by navigation; its distinct common-fishing clause bars disturbance of the opposite shore's fisheries and net or seine fishing on that shore. Article Eighth's historical mutual-consent subjects (fish preservation, quarantine, channels, navigation and ballast) do not establish a present mutual-consent requirement for every subject. No project-specific water quantity or universal riparian immunity is decided.
+
+**Operative remedy or transition:** Overrule both Maryland exceptions and enter the declaration, effective on entry, protecting covered withdrawals and construction or maintenance of improvements by Virginia, its subdivisions and citizens. Maryland must cease conditioning those activities on the challenged permits. The prohibitions on obstructing or injuring navigation and interfering with Maryland's proper use, applicable federal law, and reserved federal rights and jurisdiction remain enforceable. The Court retains jurisdiction to implement and enforce the decree; concrete compliance disputes proceed under its limits rather than the rejected unilateral licensing condition.
+
+**Treatment of earlier authority:** New Jersey v. New York requires the actual allocation of territorial title and separately reserved rights to be honored. Arizona v. California requires identification of the entitlement and valid predicates before procedural displacement. Nebraska v. Wyoming distinguishes enforcement of existing interstate obligations from creation of a new allocation.
+
+##### Whether the permit applications and cooperation surrendered Virginia's reserved authority
+
+**Holding:** Applications for permits and administrative cooperation do not establish acquiescence in displacement of an interstate entitlement without supported acceptance of the adverse authority claimed. Considered with the official awareness and protest history, the permit practice here does not establish Virginia’s surrender of the reserved authority, and Maryland’s acquiescence exception is overruled.
+
+**Proposition-level authority:** Souter's opinion, joined by Stone-Zsela, O'Connor, Scalia, Thomas, Ginsburg and Breyer (seven Justices). Stevens and Kennedy dissent; their conditional acquiescence observation adds no join.
+
+**Material application:** Official awareness in 1973, protests beginning in 1976, the Fairfax applications and the contested refusal do not establish accepted displacement of the reserved entitlement. Seeking permission for a project while disputing sovereign authority is not itself surrender.
+
+**Operative remedy or transition:** Maryland's acquiescence exception is overruled as part of the same seven-Justice declaratory decree.
+
+**Treatment of earlier authority:** New Jersey v. New York requires supported adverse exercise, notice and acceptance. Arizona v. California preserves the need for actual substantive and procedural predicates before an interstate entitlement is barred.
+
+### Federal election financing power and state authority
+
+#### McConnell v. Federal Election Commission, 540 U.S. 93 — federal election authority and reserved state powers
+
+**Docket or dockets:** Nos. 02-1674, 02-1675, 02-1676, 02-1702, 02-1727, 02-1733, 02-1734, 02-1740, 02-1747, 02-1753, 02-1755 and 02-1756.
+**Decided:** December 10, 2003.
+
+For the distinct questions in McConnell, December 10, 2003, on these consolidated dockets, see Election Law — campaign financing and electoral expression; Federal Courts: Justiciability — claimant-specific thresholds and regulated-party standing; First Amendment — press functions and broadcaster records; Civil Rights — racial-impact challenge to federal solicitation rules.
+
+##### Affirmative federal election authority across the challenged Title I classes
+
+**Holding:** Article I, section 4 authorizes fitted financial safeguards for congressional elections; presidential safeguards rest separately on the national protective authority recognized in Burroughs and Voting Rights Coalition, implemented through the Necessary and Proper Clause. Supported circumvention channels and shared federal-election operations may be reached despite state-election uses. Each challenged Title I class falls within that affirmative authority, while speech fit remains independently necessary.
+
+The actual national-party institution supplies section 323(a)'s receipt channel, including nominally local uses. The 120-day registration and federal-ballot turnout/generic classes concern shared federal machinery; Levin own-fundraising, aggregation and transfer conditions protect the bounded allocation alternative. Class (iii) and section 323(f) concern support or opposition to a candidate for federal office, with their actual exclusions. Class (iv) concerns employees materially engaged in federal-election work, although the whole-salary speech burden requires the separate remand. Section 323(d)'s defined election-spending recipients and party routes supply a federal-financing subject even for compliant funds whose prohibition fails the separate fit test. Section 323(e)'s official-requester relationship supplies the federal connection despite another election's ultimate benefit.
+
+**Proposition-level authority:** O'Connor's portion of the Court's opinion; direct joins by Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer, including the author (8 Justices), controlling at the exact scope stated. Stone-Zsela agrees in the disposition only.
+
+**Limits and questions not reached:** Election authority does not import a Commerce Clause element, dispense with speech fit, or alter state candidate qualifications.
+
+**Operative remedy or transition:** Wholesale invalidation of Title I for want of affirmative power is denied. This source holding leaves the separate speech relief and payroll fit remand intact.
+
+**Treatment of earlier authority:**
+
+- **Voting Rights Coalition:** Supplies the election-specific sources.
+- **Smiley:** Supplies the election-specific source applied here.
+- **Siebold:** Supplies the election-specific source applied here.
+- **Burroughs:** Supplies the election-specific source applied here.
+- **Thornton:** Preserves qualifications and representative-structure limits.
+- **Cook:** Preserves qualifications and representative-structure limits.
+- **Lopez:** Supplies source discipline by analogy without creating an interstate-commerce element or an alternative commerce holding.
+- **Holston:** Supplies source discipline by analogy without creating an interstate-commerce element or an alternative commerce holding.
+- **Ho:** Supplies source discipline by analogy without creating an interstate-commerce element or an alternative commerce holding.
+
+##### Reserved state electoral authority and direct private regulation
+
+**Holding:** Otherwise authorized Title I restrictions do not violate the asserted reserved-state-power or Tenth Amendment limit merely because they restrict private financing that a State permits. They directly regulate the identified parties, candidates and fundraising actors. They neither require a state legislature to enact a code nor assign a state executive a general program governing others, and they leave state qualifications, offices, election calendars and administration intact. This conclusion depends on the established affirmative source and the surviving speech limits.
+
+**Proposition-level authority:** O'Connor's portion of the Court's opinion; direct joins by Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer, including the author (8 Justices), controlling at the exact scope stated. Stone-Zsela agrees in the disposition only.
+
+**Operative remedy or transition:** The wholesale reserved-powers injunction is denied; each independently established speech remedy remains effective.
+
+**Treatment of earlier authority:**
+
+- **New York:** Retains the direct-regulation/compulsory-government distinction.
+- **Condon:** Retains the direct-regulation/compulsory-government distinction.
+- **Printz:** Its actual holding against compelled state executive administration is not enlarged to prohibit this different arrangement.
+- **Voting Rights Coalition:** Preserves state qualifications and the source-specific election rule.
+
+### Whether channel protection supports regulation of discharges in this demonstrated tributary system
+
+#### United States v. Deaton - protection of the navigable receiving channel
+
+**Docket or dockets:** Review of the Fourth Circuit judgment reported at 332 F.3d 698.
+**Decided:** 2003-12-11.
+
+For United States v. Deaton, decided December 11, 2003, review of 332 F.3d 698, the statutory-coverage and delineation questions are in Environmental Law; the independent restoration question is in Federal Courts: Immunities and Remedies.
+
+##### Whether channel protection supports regulation of discharges in this demonstrated tributary system — United States v. Deaton, 2003-12-11
+
+**Holding:** Congress may prevent pollutant effects in an identified navigable waterway by regulating the established discharge class in its demonstrated tributary system and adjacent wetlands. The Government must support that connection and mechanism; once established, the channel ground requires neither an independently substantial effect from this individual fill nor tracing a particular particle into the receiving river.
+
+**Proposition-level authority:** Kennedy's Part II, unanimous.
+
+**Material application:** The agreed drainage route reaches the navigable Wicomico through intermediate waters. Evidence connected the regulated discharge class to substantial receiving-water quality effects, and the owners did not contest the reported class effect. The eight-mile distance, ponds, dams and disputed flow consistency do not erase that established connection; a small individual contribution does not require individual-particle tracing.
+
+**Limits and questions not reached:** A proved channel, route and discharge mechanism are required; general environmental importance or a presumption that every ditch connects is insufficient. Home Builders' separate externality route still requires an identified regulated class, a concrete cross-border ecological, commercial or comparable effect, a supported account of substantiality, an explanation why ordinary territorial authority cannot reasonably internalize or control it, and reasonable fit between the federal prohibition and that spillover. Drainage alone does not meet those conditions, and that alternative route is unnecessary here.
+
+**Operative remedy or transition:** Affirm this constitutional application; statutory coverage, wetland delineation and restoration retain their independently stated grounds.
+
+**Treatment of earlier authority:** United States v. Lopez preserves channel protection and demands a supported connection before aggregation. United States v. Rio Grande Dam & Irrigation Co., United States v. Appalachian Electric Power Co., Oklahoma ex rel. Phillips v. Guy F. Atkinson Co. and United States v. Grand River Dam Authority support protection of navigable waters through connected nonnavigable reaches. Caminetti v. United States permits protection against harmful channel uses. National Association of Home Builders v. Babbitt retains its distinct externality requirements.
+
+### Whether confidentiality duties for voluntarily accepted paid federal custody commandeer a county
+
+#### ACLU of New Jersey v. County of Hudson - voluntary custody and disclosure preemption
+
+**Docket or dockets:** Appellate Division No. A-4100-01; judgment below, 352 N.J. Super. 44, 799 A.2d 629.
+
+**Decided:** April 13, 2004
+
+##### Whether confidentiality duties for voluntarily accepted paid federal custody commandeer a county — ACLU of New Jersey v. County of Hudson, April 13, 2004
+
+**Holding:** A valid federal confidentiality rule may govern information acquired through a county’s voluntarily accepted, federally paid immigration-custody operation without compelling the county to administer federal regulation against unrelated private persons. The rule’s obligation follows that custody function and its resulting information, and the personnel work needed for compliance does not convert it into prohibited conscription.
+
+**Proposition-level authority:** Stone-Zsela's unanimous opinion of the Court.
+
+**Limits and questions not reached:** Actual delegation and valid procedure are necessary independently of official consent. The duty concerns the accepted operation and its information; ordinary compliance costs do not convert that direct regulation into conscription.
+
+**Treatment of earlier authority:** Condon supplies direct regulation of a State's own information handling. New York preserves the rule that consent cannot enlarge federal power. Printz and Mack's compulsory-assistance setting differs from voluntarily accepted paid custody. Lomont requires real voluntariness; Environmental Defense Center requires examination of the actual function and preserves ordinary own-operation compliance costs.
+
+##### Whether the valid custody-information rule preempts the conflicting state release demand
+
+**Holding:** When state disclosure law requires public release of information covered by this valid federal custody rule and federal law restricts that release to its own disclosure channels, the federal rule controls the actual conflict. The appellate reversal of the disclosure order is affirmed for the covered information; separable unprotected material remains governed by applicable law, and any coverage dispute must identify the information’s category and legal basis rather than rely on a blanket immigration label.
+
+**Proposition-level authority:** Stone-Zsela's unanimous opinion of the Court.
+
+**Material application:** The rule expressly reaches pending disclosure requests. Applying it to future public release imposes no new sanction on completed conduct; the trial disclosure order remained subject to appellate review and was reversed after promulgation.
+
+**Operative remedy or transition:** The appellate reversal stands for covered information, which the counties must continue withholding under the rule while processing separable unprotected material under applicable law. Coverage disputes require the information category and legal basis. Independent federal access channels remain available on their own terms, and the unappealed common-law-access dismissal remains intact.
+
+For ACLU of New Jersey v. County of Hudson, No. A-4100-01, April 13, 2004, on the custody-record delegation and the two independent interim APA exceptions supporting this conflict ruling, see Administrative Law - ACLU of New Jersey v. County of Hudson.
+
+### Commerce power and the arroyo toad taking prohibition
+
+#### Rancho Viejo, LLC v. Norton
+
+**Docket or dockets:** D.C. Circuit No. 01-5373; judgment below, 323 F.3d 1062.
+
+**Decided:** February 5, 2004
+
+##### Whether a housing project's commercial character replaces the enacted wildlife-taking class
+
+**Holding:** The commercial character of a housing project does not by itself establish Congress's authority to apply the Endangered Species Act's wildlife-taking prohibition. The Government must identify an eligible interstate mechanism fitted to the taking class Congress enacted, including the habitat-caused injury that class reaches.
+
+**Proposition-level authority:** Kennedy's Part I, joined by Stone-Zsela, O'Connor, Scalia, Thomas, Ginsburg and Breyer; seven Justices. Stevens and Souter do not join this part.
+
+**Treatment of earlier authority:** Home Builders's enacted-class holding is reaffirmed and applied. Lopez requires an eligible connection fitted to that class before aggregation. Wickard and Perez preserve class-wide assessment of connected economic conduct but do not supply the missing connection through the project's commerce. Sweet Home defines habitat-caused statutory injury, not constitutional authority.
+
+##### Whether the listed arroyo toad application is integral to the Act's interstate wildlife scheme
+
+**Holding:** Under National Association of Home Builders v. Babbitt, Congress may regulate intrastate conduct that is neither itself interstate commerce nor independently shown to have substantial interstate effects when inclusion of the regulated class is a reasonably adapted and integral means of executing an otherwise valid federal regulation of interstate commerce. The Endangered Species Act's integrated system regulating interstate exploitation, movement and commercial disposition of listed wildlife may include the unauthorized taking of listed wildlife as a means of preserving the populations and enforceability of that system, without separate proof that each species crosses state boundaries, participates in interstate commerce or would independently produce a substantial interstate commercial effect. The section 9(a)(1)(B) taking prohibition, as applied to the listed arroyo toad within that system, falls within Congress's Commerce and Necessary and Proper powers; Rancho Viejo has not shown that the application is outside the statutory class, that the Act's interstate regulation is not independently valid, or that the relationship is nominal or pretextual.
+
+**Proposition-level authority:** Kennedy's Parts II and III, joined by all nine Justices.
+
+**Material application:** The statute's own operation identifies its valid interstate wildlife regulation, the taking class and the population-protection and enforceability relationship. Courts independently determine those boundaries while respecting reasonable congressional judgments. The project's commercial character, general biodiversity value, speculative future value, tourism and development pressure do not substitute for that relationship.
+
+**Limits and questions not reached:** Home Builders's independent externality route remains available but need not be satisfied. Statutory liability still requires Sweet Home's actual killing or injury from significant habitat modification impairing essential behavior, proximate causation and ordinary foreseeability; speculative injury and bare but-for causation do not suffice, an omission requires an independent legal duty, and otherwise lawful development supplies no exemption. Section 10 permission remains governed by its own terms.
+
+**Operative remedy or transition:** The constitutional judgment sustaining the application is affirmed on the necessary-inclusion ground, without a Commerce Clause evidentiary remand; the text-and-structure relationship does not depend on further species-specific facts. The Government may enforce section 9 subject to its actual elements and exceptions. The decision determines no actual taking or permit entitlement.
+
+**Treatment of earlier authority:** Home Builders's necessary-inclusion holding is reaffirmed and applied to another listed single-State species, with its outside-class, invalid-regime and nominal-or-pretextual-relationship limits intact. Holston illustrates the method, but its image-supply facts establish no wildlife market or ecological spillover. Hale and Kirk remain distinct necessary-inclusion applications. Sweet Home's statutory causation rules remain separate.
+
+### Whether Medicaid estate recovery is a permissible condition on the funded program's own expenditures
+
+#### West Virginia v. U.S. Department of Health & Human Services - Medicaid estate recovery and practical funding choice
+
+**Docket or dockets:** Review of the judgment reported at 289 F.3d 281 (Fourth Circuit).
+
+**Decided:** June 16, 2004
+
+##### Whether Medicaid estate recovery is a permissible condition on the funded program's own expenditures — West Virginia v. U.S. Department of Health & Human Services, June 16, 2004
+
+**Holding:** Congress may condition continued Medicaid participation on seeking recovery of the program’s own correctly paid assistance within §1396p(b)’s specified categories and protections, subject to the independent requirement that the funding arrangement leave a genuine practical choice. The recovery duty concerns the funded program itself; its relationship to Medicaid supports the condition but does not alone answer whether an actual threatened funding loss is coercive.
+
+**Proposition-level authority:** Ginsburg's unanimous opinion of the Court.
+
+**Material application:** Recovery replenishes Medicaid's own expenditures. The duty is to seek recovery under the enacted limits, not a finding that any estate has recoverable assets or that recovery succeeds. Beneficiary safeguards do not decide whether funding pressure on the State is coercive.
+
+Section 1396p generally prohibits adjustment or recovery of correctly paid assistance except within the following categories and qualifications. These provisions define the condition being sustained.
+
+- **Institutional category:** Under §1396p(b)(1)(A), the State shall seek adjustment or recovery from the estate or upon sale of property subject to an institutional lien for a person described in subsection (a)(1)(B). That person is an inpatient in a nursing facility, an intermediate care facility for persons with intellectual disabilities, or another medical institution, and must spend all income except a minimal personal-needs amount on medical care as a condition of receiving institutional services under the plan. After notice and a hearing opportunity under state procedures, the State must determine that discharge and return home cannot reasonably be expected.
+- **Assistance received at age 55 or older:** Section (b)(1)(B) requires estate recovery for nursing-facility services, home-and-community-based services, and related hospital and prescription-drug services. Recovery for other plan items or services is optional for the State.
+- **Long-term-care insurance:** Section (b)(1)(C) requires recovery of nursing-facility and other long-term-care assistance from the estate of a person receiving or entitled to benefits under the specified insurance arrangement involving disregarded assets or resources. Its exception applies to assistance under a State plan whose amendment was approved as of May 14, 1993 and disregarded assets or resources to the extent of insurance payments, or because the person received or was entitled to insurance benefits.
+- **Surviving spouse and child:** Recovery under paragraph (1) may occur only after any surviving spouse dies and when there is no surviving child under 21 or in the protected blindness or disability category. For States eligible to participate in the State program under subchapter XVI, that category is a child who is blind or permanently and totally disabled; for other States, it is a child who is blind or disabled as defined in §1382c. The blindness and disability protections are not limited to children under 21.
+- **Additional home-lien recovery protection:** Recovery must also wait while a qualifying sibling or caregiving son or daughter lawfully lives in the home and has continuously lawfully resided there since institutional admission. The sibling must have lived there for at least the year immediately before admission. The son or daughter must have lived there for at least the two years immediately before admission and establish to the State’s satisfaction that the care provided allowed the individual to remain home instead of entering an institution. This recovery-stage sibling protection requires no equity interest.
+- **Hardship and estate scope:** Section (b)(3) requires procedures conforming to the Secretary’s standards under which the agency shall waive application for undue hardship under the Secretary’s criteria, except for paragraph (1)(C). The estate must include all real and personal property and other assets within the State-probate estate. Additional property or assets in which the person held legal title or an interest at death may be included, to that extent, including property conveyed through joint tenancy, tenancy in common, survivorship, life estate, living trust or another arrangement. That broader inclusion is mandatory for a person to whom paragraph (1)(C)(i) applies and otherwise is the State’s option.
+- **Incorporated lien rules:** Section (a) generally prohibits a predeath lien for assistance paid or to be paid, with distinct exceptions for a court judgment concerning incorrectly paid benefits and the institutional real-property lien described above. The institutional lien cannot attach to the home while a spouse, a child in the protected age or blindness/disability categories, or a sibling with an equity interest who lived there for at least the year immediately before admission lawfully resides there. This pre-lien sibling protection includes the equity condition that the recovery-stage protection does not. The institutional lien dissolves upon discharge from the institution and return home.
+
+**Treatment of earlier authority:** Kansas applies genuine practical choice to related funding. New York distinguishes monetary incentives from compulsory administration. Printz and Mack's rule against compelled executive administration preserves duties accepted through genuine conditional funding.
+
+##### Whether the all-or-part funding mechanism is facially coercive on this record
+
+**Holding:** A related funding condition is not facially coercive merely because its statute permits both total and partial funding cessation when lawful noncoercive enforcement remains available and the present record does not establish an unavoidable coercive demand. The State must establish practical compulsion under Kansas’s genuine-choice inquiry.
+
+**Proposition-level authority:** Ginsburg's unanimous opinion of the Court.
+
+**Material application:** The State must establish practical compulsion under Kansas. Relevant evidence can concern the centrality and scope of funds, relation to the program, a materially new mission, notice and transition, replacement possibilities and refusal's consequences, without a mandatory checklist. Competent qualitative evidence and administrative experience suffice; no fixed dollar, percentage, insolvency or statistics-only threshold governs. Clear notice, relatedness and no entitlement to unchanged grants are individually insufficient answers to an established coercion claim. West Virginia's dependence, receipt disparity, resistance and all-or-part warning show pressure but do not establish that HHS selected total cessation, foreclosed the narrower route or made an unavoidable coercive demand. A theoretically available lesser option does not defeat proof that the actual demand destroys choice, and a lesser sanction can itself be coercive.
+
+**Limits and questions not reached:** Discretion is not a guarantee of constitutional enforcement. No administrative-funds-only ceiling or Medicaid borrowing of TANF's sanctions is adopted. A specified total cutoff remains unadjudicated on this record. The distinct threshold ruling preserving a continuing challenge and review before a completed cutoff is recorded under Federal Courts: Justiciability.
+
+**Operative remedy or transition:** Facial invalidation is denied and the judgment is affirmed. The condition remains operative with its statutory safeguards and lawful enforcement subject to the genuine-choice rule.
+
+Before acting under §1396c, the Secretary must give reasonable notice and an opportunity for hearing to the agency administering or supervising the approved State plan. The Secretary must find either that the plan has changed so that it no longer complies with §1396a or that plan administration fails to comply substantially with a provision of that section. The Secretary shall then notify the State agency that further payments will not be made or, in the Secretary’s discretion, that payments will be limited to categories under or parts of the plan not affected by the failure. Cessation or that limitation continues until the Secretary is satisfied that there will no longer be the failure to comply. The alternative preserves payments to unaffected categories or parts; it does not require selection of that alternative or create an administrative-funds-only ceiling. This State-funding discretion is distinct from the mandatory beneficiary hardship safeguard in §1396p(b)(3).
+
+**Treatment of earlier authority:** Kansas's practical-choice and qualitative-proof rules are applied; its TANF-specific graduated sanctions and exemption do not become Medicaid limits. Dole's inducement/coercion distinction and general-welfare, notice, relatedness and independent constitutional requirements are applied through Kansas, without a five-percent safe harbor. Steward Machine preserves the difference between pressure and compulsion.
+
+For West Virginia v. U.S. Department of Health & Human Services, June 16, 2004, reviewing 289 F.3d 281, on the live continuing-condition challenge and review without first enduring a cutoff, see Federal Courts: Justiciability - West Virginia v. U.S. Department of Health & Human Services.
+
+### Whether unconditional refusal makes the local firearm certification arrangement voluntary
+
+#### Lomont v. O'Neill - voluntary firearm certification
+
+**Docket or dockets:** Review of the judgment reported at 285 F.3d 9 (D.C. Circuit).
+
+**Decided:** March 11, 2004
+
+##### Whether unconditional refusal makes the local firearm certification arrangement voluntary — Lomont v. O'Neill, March 11, 2004
+
+**Holding:** A federal requirement that an applicant obtain local certification does not commandeer the certifying officer when the officer may unconditionally refuse without a federal penalty, compulsory investigation or substitute work obligation. The challenger must identify an actual federal command or adverse consequence; constituent pressure alone does not convert an applicant's obligation into the officer's legal duty.
+
+**Proposition-level authority:** Scalia's unanimous opinion of the Court.
+
+**Material application:** The certification arrangement under 27 C.F.R. sections 179.63 and 179.85 imposes no federal duty to sign, sanction for refusal or compulsory substitute work. Applicant requests and constituent pressure do not make refusal legally compulsory.
+
+**Limits and questions not reached:** Optional certification authorizes no compelled investigation or broader administration and supplies no agency delegation that is otherwise missing. Compulsory-program questions are not decided; Printz provides no reimbursement condition or compensation rule.
+
+**Operative remedy or transition:** The judgment rejecting the commandeering claim is affirmed. The regulations remain effective against the granted attack, with the officers' unconditional freedom to decline intact.
+
+**Treatment of earlier authority:** New York supplies the genuine-choice distinction; two compulsory alternatives would not suffice. Printz and Mack's ban on unwilling executive administration is distinguished because refusal is unconditional. Condon's regulation of a State's own activity remains a separate ground and does not convert applicants' regulated conduct into the officers' activity.
+
+For Lomont v. O'Neill, March 11, 2004, reviewing 285 F.3d 9, on the officers' own official-injury standing, see Federal Courts: Justiciability - Lomont v. O'Neill.
+
+### Whether Phase II stormwater permitting offers a genuine alternative to third-party administration
+
+#### Environmental Defense Center, Inc. v. United States Environmental Protection Agency - municipal discharge regulation and genuine permit choice
+
+**Docket or dockets:** Review of the judgment reported at 344 F.3d 832 (Ninth Circuit, September 15, 2003), replacing the vacated 319 F.3d 398 opinion.
+
+**Decided:** March 25, 2004
+
+##### Whether Phase II stormwater permitting offers a genuine alternative to third-party administration — Environmental Defense Center, Inc. v. United States Environmental Protection Agency, March 25, 2004
+
+**Holding:** The Federal Government may regulate a municipality's own covered pollutant discharges and offer an optional management program when a lawful, available alternative permits compliance through direct regulation of those discharges instead of compulsory administration of third-party rules. The Government must identify that operative alternative when relying on choice, and the challenger may establish that its availability is illusory; ordinary costs of valid own-operation regulation do not become federal-assistance reimbursement claims.
+
+**Proposition-level authority:** Souter's unanimous opinion of the Court.
+
+**Material application:** Some minimum controls govern third parties and cannot be justified merely by municipal sewer ownership. The different-program route under sections 122.33(b)(2)(ii), 122.34(a) and 122.26(d) is genuinely available on the facial record. Lawful own-discharge compliance may be costly and compulsory; application requirements do not guarantee particular final permit terms or numerical end-of-pipe limits.
+
+A regulated small municipal separate storm sewer system must seek discharge authorization from its authorized State, Tribe or Territory, or from the EPA Regional Office where no authorized program operates. Federal permitting remains available when a State declines administration. Under section 122.33(b)(2)(ii), an operator seeking a different individual program uses section 122.26(d)'s application requirements. It may omit the legal-authority information described in sections 122.26(d)(1)(ii) and (d)(2), unless it wants the permit writer to consider that information in developing other permit conditions. This is permission to omit that material; the remaining applicable application requirements continue. Section 122.34(a) excepts that route from its listed minimum controls, while lawful information requirements and final discharge conditions remain separately applicable.
+
+For the minimum-control route, section 122.34 requires a program designed to reduce pollutants to the maximum extent practicable, protect water quality and satisfy appropriate Clean Water Act requirements. The permitting authority specifies up to five years from permit issuance for development and implementation. The six measures are public education and outreach, public involvement, illicit-discharge detection and elimination, construction-site controls, post-construction controls, and pollution prevention and housekeeping for municipal operations. Public involvement must at least comply with State, Tribal and local public-notice requirements. Municipal housekeeping includes an operation and maintenance program with employee training to prevent and reduce runoff from activities such as park, fleet, building, construction and stormwater-system maintenance.
+
+The third-party controls have distinct operative conditions:
+
+- **Illicit discharges:** The operator must develop, implement and enforce a detection-and-elimination program, prepare the required outfall and receiving-water map if not already completed, and develop a plan to detect and address non-stormwater discharges, including illegal dumping. Its effective prohibition through ordinance or another regulatory mechanism, with enforcement procedures and actions, operates to the extent allowable under State, Tribal or local law.
+- **Listed flows:** The operator need address the following flows only if it identifies them as significant contributors of pollutants to the small system: water-line flushing, landscape irrigation, diverted stream flows, rising groundwater, uncontaminated groundwater infiltration, uncontaminated pumped groundwater, potable-water discharges, foundation drains, air-conditioning condensation, irrigation water, springs, crawl-space pump water, footing drains, lawn watering, individual residential car washing, riparian-habitat and wetland flows, dechlorinated pool discharges, and street wash water. Firefighting discharges are separately excluded from the effective non-stormwater prohibition and need be addressed only when identified as significant pollutant sources to waters of the United States. The latter condition concerns the receiving waters, not the small-system destination used for the listed flows.
+- **Construction controls:** The program covers construction disturbing at least one acre, including smaller disturbances forming part of a common development or sale plan disturbing at least one acre. It includes an ordinance or regulatory mechanism requiring erosion and sediment controls and compliance sanctions to the extent allowable under State, Tribal or local law; appropriate erosion and sediment practices; control of site waste capable of harming water quality; review of plans for water-quality effects; receipt and consideration of public information; and inspection and enforcement procedures. When the permitting authority grants the incorporated small-construction waiver, the municipality need not develop, implement or enforce the corresponding program for the waived sites.
+- **Covered small construction and waiver:** Section 122.26(b)(15)(i) covers clearing, grading and excavation disturbing at least one but less than five acres, including smaller components of a common development or sale plan ultimately disturbing at least one but less than five acres. Routine maintenance preserving the original line and grade, hydraulic capacity or original purpose is excluded. The Director may waive otherwise applicable general-permit requirements for construction disturbing less than five acres through either of the two paths below; qualifying acreage alone does not grant a waiver. Section 122.26(b)(15)(ii) separately permits designation of other construction by the Director or, in an approved State program, the Director or EPA Regional Administrator, based on potential contribution to a water-quality-standard violation or significant pollutants to covered waters.
+- **Rainfall path:** The rainfall erosivity factor must be less than five during construction, calculated under Chapter 2, pages 21–64, of the incorporated January 1997 Agriculture Handbook 703 RUSLE method. The operator must certify to the Director that construction will occur during a period meeting that criterion.
+- **Water-quality-analysis path:** Controls must be unnecessary under an EPA-approved or EPA-established total maximum daily load addressing the pollutants of concern. For non-impaired waters that do not require such a load, an equivalent analysis must allocate pollutants to small construction sites or determine that allocations are unnecessary to protect water quality after considering existing in-stream concentrations, expected growth in pollutant contributions from all sources and a margin of safety. Pollutants of concern include sediment or a sediment measure, such as suspended solids, turbidity or siltation, and every other pollutant identified as causing impairment of a receiving water body. The operator must certify to the Director that construction and stormwater discharges will occur within the analysis's drainage area. The permitting authority's waiver remains permissive under either path.
+- **Post-construction controls:** New development and redevelopment disturbing at least one acre, including smaller projects within a larger common development or sale plan, are covered when they discharge into the small system. The operator must ensure controls preventing or minimizing water-quality impacts, use appropriate structural or nonstructural practices, employ an ordinance or regulatory mechanism to the extent allowable under State, Tribal or local law, and ensure adequate long-term operation and maintenance. The construction-site waiver is not an exception to this separate provision.
+
+Text labeled Guidance recommends methods; it does not make each suggested civic project, outreach medium, planning strategy, inspection technique or enforcement example compulsory. The minimum-control duties themselves remain duties within that route. These actual qualifications define the program considered here; the different-program route, rather than the State-law qualifications alone, provides the genuine alternative to compulsory third-party administration.
+
+**Limits and questions not reached:** A final permit that removes the genuine route must be assessed on its actual terms and record. State-law qualifications alone do not cure compulsory third-party administration, and a permit label alone cannot establish validity.
+
+**Operative remedy or transition:** The federalism rejection is affirmed while access to the lawful alternative remains required. The Ninth Circuit's separate general-permitting, notice-of-intent and public-review, and forest-road remands remain operative at their existing scope.
+
+**Treatment of earlier authority:** Condon permits direct regulation and employee compliance work for the municipality's own activity. New York requires a lawful genuine choice. Printz and Mack prohibit compulsory third-party administration, locate the defect in assigned executive responsibility rather than cost, and create no compensation rule. Lomont supplies actual-choice analysis; its right to decline private-applicant assistance does not create a right to refuse valid regulation of municipal discharges.
+
+For Environmental Defense Center, March 25, 2004, reviewing 344 F.3d 832, see Federal Courts: Justiciability for municipal own-work injury and First Amendment for the operational-information holding.
+
+### Commerce power and production of actual-child-abuse images
+
+#### United States v. Holston
+
+**Docket or dockets:** Second Circuit No. 02-1292; judgment below, 343 F.3d 83.
+
+**Decided:** October 30, 2003
+
+##### Whether prior interstate movement of recording materials alone supplies constitutional authority for local production
+
+**Holding:** The prior interstate movement of ordinary recording equipment or media does not, standing alone, supply constitutional authority for prohibiting the later wholly intrastate production of child pornography. That movement can satisfy the materials-in-commerce element of 18 U.S.C. §2251(a), which remains independently required in this prosecution; constitutional authority must rest on a sufficient relationship between the regulated production class and interstate commerce.
+
+**Proposition-level authority:** O'Connor's unanimous opinion of the Court.
+
+**Material application:** The established movement of Holston's equipment or media satisfies the enacted materials condition. It does not independently establish the constitutional basis for the local production class.
+
+**Treatment of earlier authority:** Lopez requires an eligible connection before aggregation. Griffin and Langley distinguish a statutory historical-movement element from constitutional authority over the ensuing local conduct; both inquiries remain necessary.
+
+##### Whether local production of actual-child-abuse images is necessary to the valid interstate prohibition
+
+**Holding:** The Commerce Clause together with the Necessary and Proper Clause permits Congress to prohibit local production of images exploiting actual children when excluding that production would permit evasion or material impairment of a valid prohibition of the interstate market in those images; including that production is then a reasonably adapted and integral means of executing the prohibition. The Government must identify the valid prohibition, the covered production class and their genuine relationship from the statute's operation and any supporting legislative or adjudicative basis; the court independently determines those constitutional boundaries and the class's reasonable fit, while Congress receives substantial latitude on reasonable empirical predictions and practical regulatory design.
+
+**Proposition-level authority:** O'Connor's unanimous opinion of the Court.
+
+**Material application:** Holston produced actual-abuse recordings. Their reproducibility, concealability and capacity to replace or add to the prohibited supply establish the source relationship; no finding that Holston distributed them is necessary. No individual sale, formal legislative finding, numerical benchmark or heightened proof quantum is required, but the Government retains responsibility to identify the genuine class-and-regime relationship.
+
+**Limits and questions not reached:** Marketability alone, statutory comprehensiveness and generalized national harms do not establish the connection. Distinct possession offenses and virtual imagery are outside the preserved challenge.
+
+**Operative remedy or transition:** The conviction and conditional plea remain effective; the judgment is affirmed against the preserved Commerce Clause challenge. Independent sentencing issues retain their separate scope.
+
+**Treatment of earlier authority:** Hale and Kirk supply supported necessary inclusion of conduct connected to prohibited stock without an individual-sale prerequisite. Home Builders supplies identification of the valid interstate regime, covered class and genuine relationship, independent judicial review of boundaries and respect for reasonable congressional judgments. Hiley and Franklyn/Gonzalez apply the practical supply-relationship method; their recipient-possession settings remain distinct.
+
+#### Nebraska v. Environmental Protection Agency (judgment below: 331 F.3d 995)
+
+**Docket or dockets:** Supreme Court docket not supplied; D.C. Circuit No. 01-1101.
+
+**Decided:** 2004-01-08.
+
+For the unpreserved objections to the arsenic rule’s implementation, see Administrative Law, Nebraska v. Environmental Protection Agency, decided January 8, 2004, D.C. Circuit No. 01-1101.
+
+##### Whether noncommunicable contaminants escape federal regulation of interstate water sales — Nebraska v. Environmental Protection Agency, 2004-01-08
+
+**Holding:** The sale and interstate supply of drinking water provide a direct commercial connection for federal contaminant standards, and noncommunicability of the contaminant does not remove that connection. Because the challenged statute validly reaches these interstate utility transactions, petitioners' facial claim that Congress lacks authority to regulate noncommunicable contaminants fails.
+
+**Proposition-level authority:** Scalia's opinion of the Court, unanimous; all nine participating Justices directly join this proposition.
+
+**Limits and questions not reached:** The actual interstate utility transactions defeat the facial claim. Locally distributed water and arsenic’s noncontagious character do not negate those valid applications.
+
+**Operative remedy or transition:** The facial commerce challenge is rejected; the requested injunction is denied.
+
+**Treatment of earlier authority:** Lopez requires a constitutional connection before magnitude; the interstate commodity transactions provide it. Home Builders requires a supported mechanism for the actual regulated class, without making its distinct intrastate routes exclusive.
+
+##### Whether compliance duties on publicly owned water systems commandeer States — Nebraska v. Environmental Protection Agency, 2004-01-08
+
+**Holding:** A federal law may regulate States and municipalities as operators of covered water systems without compelling them to enact federal policy or enforce federal rules against unrelated persons. Work and expense required to bring the government's own operation into compliance do not alone constitute commandeering; these operational duties are valid.
+
+**Proposition-level authority:** Scalia's opinion of the Court, unanimous; all nine participating Justices directly join this proposition.
+
+**Operative remedy or transition:** The anti-commandeering challenge is rejected. The rule remains effective for covered public and private suppliers under its 2006 compliance schedule.
+
+**Treatment of earlier authority:** Reno v. Condon distinguishes regulation of government’s covered operations from commands to govern others. New York and Printz retain their prohibitions on compulsory legislative and executive administration; neither is triggered by these duties on a public utility’s own operations.
+
+#### Freier v. Westinghouse Electric Corp. (judgment below: 303 F.3d 176)
+
+**Docket or dockets:** Supreme Court docket not supplied; Second Circuit Nos. 00-7724(L) and 00-7728(XAP).
+
+**Decided:** 2004-01-22.
+
+##### Whether CERCLA’s causal-discovery commencement floor is adapted to commercial hazardous-waste regulation — Freier v. Westinghouse Electric Corp., 2004-01-22
+
+**Holding:** Congress may displace an earlier state limitations commencement date for covered hazardous-substance exposure claims when that displacement is reasonably adapted to preserving remedies for latent harm within its valid regulation of commercial hazardous-waste generation, handling, disposal and response. Section 9658 satisfies that requirement because premature commencement can defeat exposure-based liability before causal discovery and thereby impair the cost allocation and preventive and remedial incentives of the regulated waste activity.
+
+**Proposition-level authority:** Kennedy's opinion of the Court, unanimous; all nine participating Justices directly join this proposition.
+
+**Material application:** Latent toxic harm and delayed causal discovery can otherwise erase liability before a claim can meaningfully be brought, undermining cost allocation and preventive and remedial incentives within commercial waste regulation.
+
+**Limits and questions not reached:** Section 9658 covers state-law personal-injury or property-damage actions caused or contributed to by exposure to a hazardous substance, pollutant or contaminant released from a facility into the environment; §9607 actions are excluded. It replaces only an earlier state commencement date, leaving the otherwise applicable limitations period and tort elements intact. Ordinarily the federal date is when the claimant knew or reasonably should have known of the causal contribution. For a minor, it is the later of that causal-discovery date and the date of reaching state-law majority or appointment of a legal representative. For an incompetent plaintiff, it is the later of causal discovery and becoming competent or having a legal representative appointed. The invoking party must establish all applicable predicates under ordinary civil rules.
+
+**Operative remedy or transition:** The constitutional objection cannot restore limitations summary judgment. The existing remand for disputed causal-discovery facts remains in force.
+
+**Treatment of earlier authority:** Lopez and Home Builders require the actual constitutional mechanism and fitted regulated class. Guillen supports confined litigation means within a valid interstate program; Jinks supports adapted claim-linked timing rules but rests on federal adjudicative authority. Neither indispensability nor the least restrictive method is constitutionally required.
+
+##### Whether state judicial application of the valid federal commencement rule is commandeering — Freier v. Westinghouse Electric Corp., 2004-01-22
+
+**Holding:** Article VI binds state courts adjudicating covered private claims to section 9658's valid federal rule of decision even though the cause of action arises under state law. That judicial obligation does not commandeer state legislatures or executive officers to establish or administer a federal regulatory program.
+
+**Proposition-level authority:** Kennedy's opinion of the Court, unanimous; all nine participating Justices directly join this proposition.
+
+**Limits and questions not reached:** Article VI requires application of valid federal law; it does not independently supply enumerated legislative power. Calling commencement procedural creates no exception to the judicial duty.
+
+**Operative remedy or transition:** The Tenth Amendment objection is rejected. The existing remand must apply the federal commencement rule to covered claims and decide surviving claims and defenses.
+
+**Treatment of earlier authority:** Testa supplies competent state courts’ duty to apply controlling federal law; Jinks confirms the distinction for timing rules. New York and Printz govern compelled legislative and executive administration, not this judicial duty. Guillen’s reserved Tenth Amendment question remains a reservation.
+
+#### United States v. Carnes (judgment below: 309 F.3d 950)
+
+**Docket or dockets:** Supreme Court docket not supplied; Sixth Circuit No. 00-2103.
+
+**Decided:** 2004-02-09.
+
+##### Whether federal protection of an interstate telephone network reaches local-endpoint calls — United States v. Carnes, 2004-02-09
+
+**Holding:** Congress may prohibit unauthorized interception of covered telephone communications carried through an interstate communications system even when the particular call begins and ends in one State. Direct interference with that instrumentality supplies the constitutional connection; the prosecution must prove the statutory interception and network-related predicates beyond a reasonable doubt, but need not prove an additional interstate endpoint or a substantial individual economic effect.
+
+**Proposition-level authority:** O’Connor's opinion of the Court, unanimous; all nine participating Justices directly join this proposition.
+
+**Material application:** The interception directly affected communications carried on the interstate telephone system. Physical damage to the network is not required.
+
+**Limits and questions not reached:** The statutory definitions, intentional-interception element and applicable exceptions remain independently operative; the Court decides no separate exception’s application. This is actual network use, not remote interstate provenance of recording equipment.
+
+**Operative remedy or transition:** The commerce objection cannot dismiss the wiretap count. The independent suppression reversal, new-trial direction and associated sentencing mandate remain effective; the reversed conviction is not reinstated.
+
+**Treatment of earlier authority:** Lopez and Harris support direct protection of interstate instrumentalities; Guillen permits a fitted protective mechanism without case-by-case substantial effects. Holston distinguishes remote equipment provenance from the actual constitutional connection. Home Builders’s additional routes for other regulated classes do not displace the instrumentality ground.
+
+#### United States v. McFarland (judgment below: 311 F.3d 376)
+
+**Docket or dockets:** No Supreme Court docket supplied; Fifth Circuit No. 00-10569.
+**Decided:** 2004-02-19.
+
+For the other questions in this decision, see Criminal Procedure — whether the preserved degree-of-effect instruction and derivative firearm objections require reversal.
+
+##### Whether direct robbery of interstate businesses requires a substantial effect from each taking — United States v. McFarland, 2004-02-19
+
+**Holding:** The Hobbs Act constitutionally reaches direct removal of operating assets from an active interstate business when the prosecution proves the statutory commerce nexus and the assets' commercial function beyond a reasonable doubt. A taking within that genuinely connected business-robbery class need not itself have a substantial interstate effect.
+
+**Proposition-level authority:** Kennedy's unanimous opinion of the Court.
+
+**Material application:** The four robberies removed register receipts serving as operating capital for retailers stocking goods from outside Texas. The Government need not prove a particular cancelled inventory purchase; replacement funds do not undo removal of the working capital.
+
+**Limits and questions not reached:** A business label, the Act's jurisdictional wording or aggregation cannot create an absent commercial relationship. Possible later spending by a private robbery victim remains different from taking assets with a proved operating function.
+
+**Operative remedy or transition:** The four Hobbs Act convictions stand against the reviewed commerce objection.
+
+**Treatment of earlier authority:** United States v. Robinson is reaffirmed and applied to direct commercial-capital depletion without a substantial-individual-effect condition. United States v. Lopez requires the actual commercial connection before aggregate magnitude becomes relevant.
+
+#### Lipscomb v. Federal Labor Relations Authority, 333 F.3d 611 (judgment below) — Constitutional Structure, OT2003
+
+**Docket or dockets:** No separate Supreme Court docket supplied.
+**Decided:** May 13, 2004.
+
+##### Whether federal representation obligations commandeer the State's administration of unrelated persons
+
+**Holding:** Applying federal labor law to the Guard's expressly created federal civilian employer function does not commandeer a state executive to administer federal regulation of unrelated private conduct. The obligation follows Congress's departmental employment arrangement and the administrator designated for it.
+
+**Proposition-level authority:** O'Connor's unanimous opinion of the Court.
+
+**Treatment of earlier authority:** Reno v. Condon supplies the distinction between covered governmental operations and compelled administration of others' conduct. Printz and Mack retain the latter prohibition but do not govern this federal employment function.
+
+For Lipscomb, decided May 13, 2004, no separate Supreme Court docket supplied, federal civilian representation coverage and its military limits are in Labor and Employment; immunity is in Federal Courts: Immunities and Remedies.
+
+#### Nixon v. Missouri Municipal League, 541 U.S. 125
+
+**Docket or dockets:** Nos. 02-1238, 02-1386 and 02-1405; consolidated.
+**Decided:** 2004-03-24.
+
+##### Section 253 does not clearly reassign municipal service powers
+
+**Holding:** Section 253 does not authorize the FCC to displace a State's assignment or withdrawal of telecommunications-service authority to its own political subdivisions merely through the provision's general reference to the ability of any entity to provide service. A claimant seeking that alteration of state governmental authority must identify unmistakable congressional direction in the statute's text and structure; § 253 supplies no such direction here and does not preempt Missouri's restriction on the municipal respondents.
+
+**Proposition-level authority:** Scalia's opinion of the Court, joined in full by Stone-Zsela, O'Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer, controls the statutory rule and judgment in all three consolidated dockets. Stevens dissents.
+
+**Limits and questions not reached:** The rule addresses a State's allocation of powers to its own subdivisions. Private providers, independently chartered municipal corporations and an explicit congressional alteration of governmental authority present distinct questions. Section 253 continues to govern covered market barriers.
+
+**Operative remedy or transition:** Reverse in all three consolidated dockets; the FCC's refusal to displace Missouri's municipal-service restriction remains effective.
+
+**Treatment of earlier authority:** Gregory v. Ashcroft supplies the requirement of statutory clarity before altering important state governmental arrangements. New York v. United States preserves the distinction between regulating state activity and directing governmental responsibility. AT&T Corp. v. Iowa Utilities Board retains the FCC's actual delegated national implementing authority and the State's assigned functions. City of Columbus v. Ours Garage & Wrecker Service, Inc. supplies the State's ability to act through authorized subdivisions within retained authority; that state choice is the relevant analogy here.
+
+#### Sabri v. United States, 541 U.S. 600 (2004)
+
+**Docket or dockets:** No. 03-44.
+**Decided:** May 17, 2004.
+
+##### Whether the assisted-entity bribery prohibition requires tracing each bribe to federal dollars
+
+**Holding:** The Spending and Necessary and Proper Clauses authorize Congress to prohibit corrupt payments affecting an actually assisted entity's agents and substantial institutional transactions without tracing the bribe to particular federal funds. Section 666 is not facially invalid for omitting that tracing element; genuine benefits, the recipient's agency and business relationship, covered transaction value and corrupt intent remain necessary.
+
+**Proposition-level authority:** Kennedy's opinion, joined by every Justice except Thomas; eight direct joins. Thomas supplies the ninth judgment vote on a narrower pleaded-program relationship without joining the complete institutional rule.
+
+**Limits and questions not reached:** The protective connection is corruption of the actual recipient institution's operations, reinforced rather than replaced by money's fungibility. Ordinary commercial or procurement receipts and geographic proximity to federal spending are insufficient. A materially different prosecution lacking that institutional connection requires its own concrete facts and is not decided on this indictment.
+
+**Operative remedy or transition:** Affirm reinstatement of the indictment; the allegations must be proved at trial under the enacted elements, compensation exception and independently preserved defenses.
+
+**Treatment of earlier authority:** McCulloch supplies the appropriate-means inquiry. Salinas's statutory no-tracing construction is applied and its presented constitutional question resolved; Fischer requires genuine programmatic assistance. Lopez and Morrison require an actual enumerated-power connection rather than generalized economic effects. Dole and Kansas concern funding conditions and do not confine Congress to that device when prohibiting third-party bribery threatening the assisted entity.
+
+For Sabri, No. 03-44, decided May 17, 2004, the enacted bribery elements and compensation exception are in Criminal Procedure.
+
+
+
+### Presidential advisory discovery and concrete institutional burdens
+
+#### Cheney v. United States District Court for the District of Columbia, 542 U.S. 367 — Presidential advisory discovery and concrete institutional burdens
+
+**Docket or dockets:** No. 03-475.
+**Decided:** 2004-06-24
+
+For Cheney v. United States District Court for the District of Columbia, 542 U.S. 367, 2004-06-24, No. 03-475, see Federal Courts: Immunities and Remedies for [Which requirements govern appellate mandamus and the distinct underlying enforcement routes](../HOLDINGS.md#which-requirements-govern-appellate-mandamus-and-the-distinct-underlying-enforcement-routes); [Whether the appellate court must reconsider the petition or issue the writ immediately](../HOLDINGS.md#whether-the-appellate-court-must-reconsider-the-petition-or-issue-the-writ-immediately).
+
+For Cheney v. United States District Court for the District of Columbia, 542 U.S. 367, 2004-06-24, No. 03-475, see Administrative Law for [When a private participant is a functional FACA member despite the wholly federal membership exclusion](../HOLDINGS.md#when-a-private-participant-is-a-functional-faca-member-despite-the-wholly-federal-membership-exclusion).
+
+##### Whether concrete discovery burdens on presidential advisory work must await formal executive privilege claims
+
+**Holding:** A court considering extraordinary protection against compulsory civil discovery directed into presidential advisory work must assess demonstrated separation-of-powers burdens from the scope and operation of the demands. A formal assertion of executive privilege is not an invariant prerequisite to addressing those distinct burdens; particular claims of privilege retain their own requirements.
+
+**Proposition-level authority:** Part II of Stone-Zsela's opinion of the Court, joined by Stevens, O'Connor, Scalia, Kennedy, Thomas and Breyer; seven direct joins.
+
+**Material application:** The appellate court erred by treating the absence of a formal privilege confrontation as sufficient to avoid examining discovery's breadth and structural burdens. Available narrower district-court remedies require actual assessment, not presumed adequacy.
+
+**Limits and questions not reached:** The holding concerns demonstrated burdens of the demands, including the search they require; it supplies no status-based immunity. Particular privilege claims retain their own requirements.
+
+**Treatment of earlier authority:** Clinton v. Jones's concrete-accommodation principle extends to official advisory discovery while its unofficial-conduct holding remains intact. United States v. Nixon's rejection of absolute insulation for identified criminal evidence does not compel broad civil discovery followed by a privilege contest. Nixon v. Fitzgerald preserves its different function-based official-act damages immunity.
+
+### Authorized battlefield detention and its purpose
+
+#### Hamdi v. Rumsfeld, 542 U.S. 507
+
+**Docket or dockets:** No. 03-6696.
+**Decided:** June 28, 2004.
+
+For Hamdi v. Rumsfeld, 542 U.S. 507, June 28, 2004, No. 03-6696, see Federal Courts: Habeas and Collateral Review for [What process is required to contest prolonged military custody on a disputed citizen battlefield classification](../HOLDINGS.md#what-process-is-required-to-contest-prolonged-military-custody-on-a-disputed-citizen-battlefield-classification).
+
+##### Whether the AUMF supplies section 4001(a) authority for detention of the defined battlefield category
+
+**Holding:** The AUMF authorizes military detention of an actual member of opposing Taliban forces captured in the authorized Afghanistan hostilities as an incident of the force Congress authorized, including when that person is a citizen. That Act supplies the congressional authority required by 18 U.S.C. §4001(a) for this category.
+
+**Proposition-level authority:** Part I of O'Connor's opinion; Stone-Zsela, O'Connor, Kennedy, Thomas and Breyer directly adopt this proposition. Thomas joins this statutory proposition despite disagreeing with the remand and the additional limits below.
+
+**Material application:** Authority for the category does not establish Hamdi's membership in it. The Mobbs declaration and next-friend petition dispute whether he was an opposing Taliban fighter.
+
+**Limits and questions not reached:** Section 4001(b) concerns military-institution prison management and supplies no independent exception to section 4001(a). The holding addresses the defined actual fighters captured in the authorized Afghanistan hostilities, without deciding every military-custody category.
+
+**Treatment of earlier authority:** - **Ex parte Quirin, 317 U.S. 1:** Supplies the limited proposition that citizenship does not itself remove an actual enemy belligerent from the law of war; it does not establish Hamdi's disputed status.
+- **Ex parte Milligan, 71 U.S. 2:** Its civilian military-trial setting does not resolve detention of an actual opposing battlefield fighter under this authorization; the separate criminal-process position relies on its different account of the citizen's protection.
+
+##### How the authorized battlefield detention is limited by combat purpose and duration
+
+**Holding:** Detention under this narrow battlefield authorization lasts only while the relevant active-hostilities justification for preventing return to combat continues. The authorization does not permit detention solely for interrogation; a changed purpose or end of the relevant justification requires renewed lawful authority.
+
+**Proposition-level authority:** Part III of O'Connor's opinion; Stone-Zsela, O'Connor, Kennedy and Breyer adopt the limitation directly; Souter and Ginsburg adopt it as a protection if the detention is sustained. These six support the same operative limit. Thomas does not join it.
+
+**Limits and questions not reached:** The record establishes no cessation date. The relevant current hostilities-related basis must be examined in lawful-custody review; Zadvydas's immigration-specific six-month framework and security reservation retain their original scope.
+
+**Operative remedy or transition:** The custody inquiry on remand must address the present lawful justification as well as the disputed classification. If that inquiry establishes unlawful custody, effective relief must follow.
+
+**Treatment of earlier authority:** - **Zadvydas v. Davis:** Its purpose-bound method informs the duration limit; its immigration-specific six-month framework and security reservation retain their original scope.
+
+### Legislation affecting pending cases and independent adjudication
+
+#### Roeder v. Islamic Republic of Iran — Legislation affecting pending cases and independent adjudication
+
+**Docket or dockets:** No. 03-1147; judgment below, 333 F.3d 228 (D.C. Cir. 2003), No. 02-5145.
+**Decided:** June 30, 2004.
+
+For Roeder v. Islamic Republic of Iran, June 30, 2004, No. 03-1147; judgment below, 333 F.3d 228 (D.C. Cir. 2003), No. 02-5145, see Federal Courts: Immunities and Remedies for [Whether the designated immunity amendments displace the independent Algiers Accords claim bar](../HOLDINGS.md#whether-the-designated-immunity-amendments-displace-the-independent-algiers-accords-claim-bar); [What independent intervention, foreign-state default and payment conditions remain after the immunity amendment](../HOLDINGS.md#what-independent-intervention-foreign-state-default-and-payment-conditions-remain-after-the-immunity-amendment).
+
+##### Whether the immunity amendments govern a pending case without reopening a completed private judgment
+
+**Holding:** Congress may enact a new legal rule governing a pending controversy, including an identifiable controversy, subject to its lawful temporal reach and constitutional limits, while courts independently apply the rule to facts and claims. The present amendments fall on that pending-case side of Plaut's distinction: the unresolved-damages liability default did not finally dispose of the action, and the enacted immunity change prescribes neither findings nor liability. Unenacted explanations cannot become binding adjudicative commands.
+
+**Proposition-level authority:** Stone-Zsela's unanimous opinion of the Court; all nine Justices directly join this present holding.
+
+**Material application:** Damages remained unresolved after the August 2001 liability default. The enactments changed the specified immunity condition and case designation while leaving application of all remaining law to the courts; the supposed broader command to preserve liability appeared only in unenacted explanations.
+
+**Limits and questions not reached:** This pending-case application does not enlarge Plaut's completed-private-judgment rule or establish a new unanimous join to its original rationale. Constitutionally permissible judicial reopening, including valid Rule 60(b) grounds, remains distinct from legislatively required reopening. Changed future enforcement of continuing equitable relief likewise retains its separate rules and meaningful judicial determination; an express temporal instruction does not itself establish constitutional validity.
+
+**Treatment of earlier authority:** - Robertson v. Seattle Audubon Society is applied to a genuine law change in pending litigation with independent judicial application.
+- Plaut v. Spendthrift Farm is applied at its pending-case boundary. Its completed-private-judgment rule, prospective-relief qualification and preservation of constitutionally permissible judicial procedures retain their existing force.
+- United States v. Klein and McCullough v. Virginia supply the continuing protection against legislative findings or prescribed liability.
+- Miller v. French and Pennsylvania v. Wheeling & Belmont Bridge Co. retain their distinct treatment of changed prospective law and meaningful judicial adjudication.
+- Landgraf v. USI Film Products is applied to distinguish enacted temporal effect from constitutional permission.
+- Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., affirmed by an equally divided Court, establishes no precedent.

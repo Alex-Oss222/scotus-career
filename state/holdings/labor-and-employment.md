@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2002
-**Processed through:** June 30, 2003, after all 185 completed OT2002 Court events.
-**Edition:** November 14, 2026
+**Last completed October Term:** 2003
+**Processed through:** June 30, 2004, after all 119 completed OT2003 Court events and the admitted Rule 53 amendment effective December 1, 2003.
+**Edition:** November 22, 2026
 
 ## Labor and Employment
 
@@ -1601,6 +1601,10 @@ For the constitutional invalidity and distinct constitutional remedies in Brown 
 
 **Treatment of earlier authority:** Meritor does not make paper policy and noncomplaint conclusive. Andrade's reserved defense question remains open; later correction does not retroactively erase earlier attributable misconduct.
 
+**Current-force modification:** Pennsylvania State Police v. Suders, decided June 14, 2004, resolves this entry's complete-defense reservation. Preventive care and employee nonuse do not extinguish an actionable violation proved to have been materially aided by delegated supervisory authority. An otherwise available reduction under ordinary remedial law requires the employer to prove actual, legally cognizable, causally avoidable loss after compensable injury is established; the reduction reaches only that loss, preserving the statutory wrong and unavoidable injury. Faragher's original attribution, ineffective-policy application and restoration mandate remain unchanged.
+
+**Later-authority backlinks:** Pennsylvania State Police v. Suders, No. 03-95, June 14, 2004, Part II — complete-defense reservation and the separate loss-specific remedial inquiry.
+
 ##### What relief the supported Title VII findings require
 
 **Holding:** The appellate judgment is reversed only insofar as it reversed Faragher's Title VII judgment against the City, and the case is remanded for reinstatement of the existing one-dollar judgment without a new merits trial or further agency findings. No individual or state-law award, remaining appellate disposition, fee entitlement or additional remedy is adjudicated.
@@ -1652,6 +1656,10 @@ For the constitutional invalidity and distinct constitutional remedies in Brown 
 **Limits and questions not reached:** No complete defense is supplied to Potash. Universal policy ignorance, unavailable reporting routes, unreasonable nonuse and inadequate response are not found. No policy-publication duty, general reporting duty or new burden-shifting formula follows; dissemination failure is not negligence per se.
 
 **Treatment of earlier authority:** Faragher's general-defense reservation remains unchanged. Meritor distinguishes unwelcome conduct from apparently voluntary participation; the investigator's account is no judicial finding that the conduct was welcome.
+
+**Current-force modification:** Pennsylvania State Police v. Suders, decided June 14, 2004, resolves the complete-defense reservation preserved here: preventive care and employee nonuse do not erase proved authority-aided discrimination. Any otherwise available avoidability reduction follows ordinary remedial law, requires employer proof of actual legally cognizable loss and causation, and reaches only that proved loss after compensable injury is established. The original actual-authority instruction, policy application and trial mandate retain their force.
+
+**Later-authority backlinks:** Pennsylvania State Police v. Suders, No. 03-95, June 14, 2004, Part II — resolution of the preserved complete-defense question and distinct remedial burden.
 
 ##### Whether the asserted contractual grievance requirement bars this independent Title VII action
 
@@ -2242,6 +2250,10 @@ Related questions in United States ex rel. McKenzie v. BellSouth Telecommunicati
 **Limits and questions not reached:** The Court finds neither policy effectiveness nor employee reasonableness. No burden shift, universal reporting or publication duty, tangible-action exception, negligence safe harbor or automatic erasure of incurred harm is adopted. The three-Justice concurrence's avoidable-loss proposal creates no governing recovery limitation.
 
 **Treatment of earlier authority:** Faragher's complete-defense reservation and Harrison's preservation of it remain unchanged; Meritor does not make a policy and noncomplaint conclusive.
+
+**Current-force modification:** Pennsylvania State Police v. Suders, decided June 14, 2004, resolves this entry's complete-defense reservation against extinguishing proved authority-aided discrimination through preventive care and employee nonuse. Ordinary remedial law may permit a reduction only for actual, legally cognizable loss the employer proves was causally avoidable after the employee establishes compensable injury; the underlying violation and unavoidable injury remain. Ellerth's plaintiff-proved attribution rule, rejection of policy knowledge and nonreporting as conclusive, and original remand remain intact.
+
+**Later-authority backlinks:** Pennsylvania State Police v. Suders, No. 03-95, June 14, 2004, Part II — complete-defense reservation and employer-proved avoidable loss.
 
 ##### The appellate reversal stands, with ordinary further proceedings
 
@@ -3596,3 +3608,154 @@ For Miller’s independent deemer and federal-enforcement boundaries, decided Ap
 **Treatment of earlier authority:** Inter-Modal protects prospective attainment while preserving all statutory elements. Hazen Paper distinguishes pension from age motivation without insulating deliberate pension interference.
 
 For Eichorn's class-discovery and certification holding, June 30, 2003, No. 99-5791 below, see Federal Courts; for its separate §502 remedial limits, see Federal Courts: Immunities and Remedies.
+
+
+### Whether a neutral no-rehire policy satisfies production in an ADA intentional-discrimination action
+
+#### Raytheon Co. v. Hernandez, 540 U.S. 44
+
+**Docket or dockets:** No. 02-749.
+**Decided:** 2003-12-02.
+
+##### Whether a neutral no-rehire policy satisfies production in an ADA intentional-discrimination action — Raytheon Co. v. Hernandez, 2003-12-02
+
+**Holding:** A neutral, consistently applicable policy against rehiring employees separated for misconduct satisfies the employer’s burden to produce a legitimate nondiscriminatory reason in an ADA disparate-treatment action. Its legal sufficiency establishes neither its truthful application nor the actual motive; the employee retains the burden to prove intentional disability discrimination by a preponderance of the evidence.
+
+**Proposition-level authority:** Stevens's opinion, unanimous among the seven participating Justices. Souter took no part in the decision; Breyer took no part in consideration or decision.
+
+**Material application:** The disputed employment action is the 1994 refusal to rehire; the 1991 misconduct separation is unchallenged. Possible adverse effects on recovered addicts do not make the neutral explanation legally unavailable in the preserved treatment claim.
+
+**Limits and questions not reached:** Protected disability status is assumed for this litigation, without deciding the status of all former drug users. Neither the statutory disability definition nor the separate elements of disparate impact are altered.
+
+**Treatment of earlier authority:** McDonnell Douglas Corp. v. Green and Texas Department of Community Affairs v. Burdine retain their distinction between employer production and employee persuasion. Hazen Paper Co. v. Biggins permits an analytically independent criterion while preserving proof that it operated as a proxy for protected status.
+
+##### Whether a legally sufficient explanation ends the inquiry into knowledge and pretext
+
+**Holding:** After the employer produces its explanation, a court must determine whether the whole record permits a reasonable finding that protected disability status caused the decision, drawing the inferences required on summary judgment without resolving credibility. A prima facie case and meaningful evidence of falsity may support that finding without a mandatory additional category of proof, but do not compel liability.
+
+**Proposition-level authority:** The same seven-Justice opinion of Stevens.
+
+**Material application:** The personnel materials, recovery letter and decisionmaker's knowledge testimony require assessment together. Medina's later EEOC explanation must be evaluated for its connection to the rehire decision; his statements are neither automatically attributed to the decisionmaker nor disregarded solely because he was not that decisionmaker.
+
+**Limits and questions not reached:** The unchallenged prima facie determination, including qualification, remains outside review, and the untimely disparate-impact theory remains closed. Summary judgment cannot rest on resolving credibility; a permissible discrimination inference does not compel liability.
+
+**Operative remedy or transition:** Vacate and remand for the remaining knowledge, pretext and sufficiency inquiry. A record permitting a reasonable finding of intentional discrimination proceeds to ordinary adjudication; otherwise summary judgment is proper. No reinstatement, damages or blanket policy invalidation is awarded.
+
+**Treatment of earlier authority:** St. Mary's Honor Center v. Hicks rejects automatic liability from disbelief of an explanation. Reeves v. Sanderson Plumbing Products requires the entire record to be considered and rejects a mandatory additional category of discrimination proof.
+
+#### General Dynamics Land Systems, Inc. v. Cline, 540 U.S. 581
+
+**Docket or dockets:** No. 02-1080.
+**Decided:** 2004-02-24.
+
+##### Whether the ADEA forbids favoring older workers over younger workers who are also at least forty — General Dynamics Land Systems, Inc. v. Cline, 2004-02-24
+
+**Holding:** The ADEA protects against disadvantage because of advancing age and does not prohibit an employer's preference for older workers over younger workers solely because both groups are within the age-forty-and-over class. Statutory coverage of the challenged disadvantage must precede use of the Act's proof and remedial rules.
+
+**Proposition-level authority:** Breyer's opinion, joined by Stone-Zsela, Stevens, O'Connor, Souter and Ginsburg: six direct joins.
+
+**Material application:** Preserving retirement health benefits for workers fifty and older while withdrawing the future benefit from younger workers does not state the reviewed ADEA claim. The operative language, findings and structure give the prohibition a directional meaning; the EEOC's contrary construction cannot override it.
+
+**Limits and questions not reached:** The Court settles this statute's meaning without choosing a degree of deference to an otherwise permissible agency interpretation. It does not replace coverage with a general constitutional anti-classification rule.
+
+**Operative remedy or transition:** The Sixth Circuit's coverage judgment is reversed and remanded for dismissal of the reviewed directional-discrimination theory.
+
+**Treatment of earlier authority:** Hazen Paper Co. v. Biggins retains the distinction between age motivation and correlated pension or tenure factors. O'Connor v. Consolidated Coin Caterers Corp. retains its proof rule for substantially younger replacements within the protected class. Neither made ADEA coverage bilateral.
+
+#### Raymond B. Yates, M.D., P.C. Profit Sharing Plan v. Hendon, 541 U.S. 1
+
+**Docket or dockets:** No. 02-458.
+**Decided:** 2004-03-02.
+
+##### Whether a working owner can participate in an ERISA plan covering genuine other employees — Raymond B. Yates, M.D., P.C. Profit Sharing Plan v. Hendon, 2004-03-02
+
+**Holding:** A working owner may serve as employer and employee-beneficiary and qualify as a participant in an ERISA pension plan covering at least one genuine employee other than the owner and spouse. The owner-only exclusion defines whether an employee plan exists; it does not exclude the working owner from an otherwise covered plan or require an additional common-law classification step for this statutory category.
+
+**Proposition-level authority:** Ginsburg's opinion, joined by Stone-Zsela, Stevens, O'Connor, Kennedy, Souter and Breyer, supplies seven direct statutory-rationale joins. Scalia independently adopts the same operative rule through agency interpretation, yielding eight direct supporters; Thomas agrees only that categorical exclusion must be set aside and would require a further common-law inquiry.
+
+**Material application:** Genuine nonowner coverage is established here. Section 1108 recognizes dual capacities: subsection (c)(1)'s benefit permission requires computation and payment consistent with the plan as applied to all participants and beneficiaries; (c)(3) recognizes dual service, and (d) separately regulates owner-employee transactions. Section 2510.3-3's owner exclusion serves its employee-plan definition.
+
+**Limits and questions not reached:** Covered-plan and participant predicates remain necessary. Participant status does not establish plan qualification, valid anti-inurement or anti-alienation protection, or the bankruptcy treatment of the actual repayment; transaction provisions retain their distinct conditions and applicable temporal versions.
+
+**Operative remedy or transition:** The categorical exclusion is vacated unanimously. The definitive coverage rule has eight supporters, and the court must decide remaining protection and repayment issues without Thomas's added classification requirement. The unchallenged preference finding remains in place.
+
+**Treatment of earlier authority:** Nationwide Mutual Insurance Co. v. Darden retains common-law classification as a default when specific statutory guidance is lacking. Clackamas preserves attention to the particular statute, without categorical owner exclusion. Patterson v. Shumate still requires a qualifying beneficial trust interest and enforceable transfer restriction; it does not decide the repayment's protection automatically.
+
+#### Lipscomb v. Federal Labor Relations Authority, 333 F.3d 611 (judgment below)
+
+**Docket or dockets:** No separate Supreme Court docket supplied.
+**Decided:** May 13, 2004.
+
+##### Whether the Guard's federal civilian technician function carries federal representation duties
+
+**Holding:** A Guard organization and adjutant general administering civilian technician employment under 32 U.S.C. §709 must meet the applicable federal labor obligations in that federal employer capacity. Required military membership does not erase the distinct civilian appointment, and the uniformed-services exclusion does not defeat this civilian representation election.
+
+**Proposition-level authority:** O'Connor's unanimous opinion of the Court.
+
+**Limits and questions not reached:** Coverage follows the departmental employment function expressly assigned by §709, not every Guard activity. Representation does not establish the validity of every bargaining proposal: §7103(a)(12) requires neither concession nor agreement, §7103(a)(14)(C) excludes matters specifically governed by federal statute from conditions of employment, and §709's particular military-management, discipline and appeal exceptions remain. Concrete bargaining disputes require their applicable statutory procedure and actual exclusion.
+
+**Operative remedy or transition:** Affirm rejection of the requested injunction; the civilian representation proceeding may continue.
+
+**Treatment of earlier authority:** NASA v. FLRA directs attention to the actual statutory representation relationship, and NFFE preserves the Authority's enacted limits. Feres concerns military tort liability and does not displace express civilian labor coverage.
+
+For Lipscomb, decided May 13, 2004, no separate Supreme Court docket supplied, the anti-commandeering question is in Constitutional Structure and the immunity question is in Federal Courts: Immunities and Remedies.
+
+
+
+### Accrued early-retirement conditions
+
+#### Central Laborers’ Pension Fund v. Heinz, 541 U.S. 739
+
+**Docket or dockets:** No. 02-891.
+**Decided:** 2004-06-07
+
+##### Adding a payment restriction reduces the accrued benefit
+
+**Holding:** Under ERISA §204(g), a plan amendment reduces an accrued early-retirement benefit when it adds a condition withholding payment for employment the terms governing that accrual permitted. The reduction occurs when the added condition diminishes the entitlement, even though the nominal monthly amount remains unchanged; lawful changes to terms governing future accruals remain possible.
+
+**Proposition-level authority:** Ginsburg’s opinion of the Court, unanimous; all nine Justices adopt this statutory rule, its distinction between accrual and forfeiture, and the restoration disposition.
+
+**Material application:** The retirees accrued benefits under terms allowing supervisory construction work. The 1998 amendment added that work as a disqualifying condition. The protected benefit includes its earned payment conditions, not merely its nominal monthly amount.
+
+**Limits and questions not reached:** The formal regulation distinguishes original objective conditions and future accruals from added restrictions on an accrued benefit; inconsistent informal approval or an unreasoned manual cannot displace it.
+
+**Treatment of earlier authority:** - Lockheed Corp. v. Spink is applied to preserve sponsor design power subject to independent statutory limits; sponsor status supplies no answer to the accrued-benefit violation.
+- Hughes Aircraft Co. v. Jacobson is applied for enforceable accrued payment rights, distinct from ownership of plan surplus; its rejection of the surplus claim remains intact.
+
+##### Permission for original suspension terms does not authorize this cutback
+
+**Holding:** Section 203(a)(3)(B)'s permission to suspend specified benefits during covered postretirement employment does not authorize a later amendment reducing an already accrued benefit contrary to §204(g). For the multiemployer provision invoked here, work in the same industry, trade or craft, and geographic area covered by the plan may be made an original suspension condition; attaching an additional restriction after accrual remains subject to the separate anti-cutback command.
+
+**Proposition-level authority:** Ginsburg’s opinion of the Court, unanimous; all nine Justices adopt this statutory rule, its distinction between accrual and forfeiture, and the restoration disposition.
+
+**Material application:** Section 203 addresses vesting and forfeiture; section 204 separately protects accrual. Original suspension terms define the earned package, while adding them afterward diminishes that package.
+
+**Limits and questions not reached:** Substantial-business-hardship reductions under section 302(c)(8), terminated-multiemployer-plan mechanisms under section 1441, tax qualification and authority to adopt a prospective regulatory exception are outside the adjudicated participant-benefit claim.
+
+**Operative remedy or transition:** Affirmed unanimously and remanded to restore payments withheld solely under the added restriction, with calculation below; lawful terms for future accruals remain available.
+
+### Constructive discharge and actual-authority attribution
+
+#### Pennsylvania State Police v. Suders, 542 U.S. 129
+
+**Docket or dockets:** No. 03-95.
+**Decided:** 2004-06-14
+
+For Pennsylvania State Police v. Suders, 542 U.S. 129, 2004-06-14, No. 03-95, see Federal Courts: Immunities and Remedies for [Preventive care and nonuse do not erase proved authority-aided discrimination](../HOLDINGS.md#preventive-care-and-nonuse-do-not-erase-proved-authority-aided-discrimination); [The supported claims return for ordinary factfinding and lawful relief](../HOLDINGS.md#the-supported-claims-return-for-ordinary-factfinding-and-lawful-relief).
+
+##### Constructive discharge and employer attribution require distinct proof
+
+**Holding:** A Title VII hostile-environment constructive-discharge claimant must prove unlawful discrimination because of sex, conditions so objectively intolerable that a reasonable employee would feel compelled to resign, and a causal connection between those conditions and the resignation. On the actual-authority route, the plaintiff must separately prove by a preponderance that delegated supervisory power materially aided creation or maintenance of the actionable environment; title, rank or workplace proximity alone is insufficient.
+
+**Proposition-level authority:** All nine Justices join Part I of Stone-Zsela's opinion, including these requirements and the plaintiff-favorable application.
+
+**Limits and questions not reached:** A completed personnel decision, economic injury, higher-management notice or express discharge threat is not invariably necessary. Apparent authority requires employer manifestations and reasonable reliance; negligence remains a separate route. Corrective opportunities matter without imposing exhaustion or requiring danger, futility or indefinite delay; announced investigation alone supplies no safe harbor.
+
+**Material application:** The supported account raises genuine issues concerning hostility, objective compulsion, practical protection, delegated aid and resignation causation. Resignation and police rank do not themselves establish the required predicates.
+
+**Treatment of earlier authority:** - Harris v. Forklift Systems: applied for objectively and subjectively severe-or-pervasive hostility without a separate psychological-injury prerequisite.
+- Oncale v. Sundowner Offshore Services: applied for the distinct requirement that the discrimination occur because of sex.
+- Duncan v. General Motors Corp.: applied for objective compulsion and real corrective opportunities without exhaustion, and for separate attribution and claim-specific relief.
+- Faragher v. City of Boca Raton: its actual-power attribution and ineffective-protection rules remain; the previously reserved complete-defense issue is now resolved.
+- Burlington Industries, Inc. v. Ellerth: its plaintiff-proved material-aid rule and distinction between policy knowledge and effective protection remain. Its complete-defense reservation is replaced by the present five-Justice rule.
+- Meritor Savings Bank v. Vinson: its requirement of an agency analysis remains, rather than automatic liability from supervisory rank or a universal management-notice prerequisite.

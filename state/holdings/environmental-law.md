@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2002
-**Processed through:** June 30, 2003, after all 185 completed OT2002 Court events.
-**Edition:** November 14, 2026
+**Last completed October Term:** 2003
+**Processed through:** June 30, 2004, after all 119 completed OT2003 Court events and the admitted Rule 53 amendment effective December 1, 2003.
+**Edition:** November 22, 2026
 
 ## Environmental Law
 
@@ -644,3 +644,207 @@ For the delegation question in Michigan v. Environmental Protection Agency, Apri
 **Material application:** The buffer rule restricts disturbance within one hundred feet of an intermittent or perennial stream unless the Director specifically authorizes it and finds no adverse effect on normal flow or gradient, fish migration or related environmental values, no material damage to water quantity or quality, and no causation of or contribution to violation of applicable state or federal water-quality standards. Each condition requires its own analysis; the retained duty does not establish a universal valley-fill prohibition.
 
 **Operative remedy or transition:** The categorical immunity dismissal of Counts 2 and 3 is vacated. The courts must identify the required findings and incorporated compliance content and decide remaining interpretation and compliance issues. Supported undisturbed findings may be used; no automatic new trial is required. For prospective officer relief and the limits on the returned injunction in Bragg, June 30, 2003, historical petition No. 01-619, see Federal Courts: Immunities and Remedies.
+
+
+### Whether the Clean Water Act and tributary regulations cover these connected wetlands
+
+#### United States v. Deaton - connected wetlands and delineation
+
+**Docket or dockets:** Review of the Fourth Circuit judgment reported at 332 F.3d 698.
+**Decided:** 2003-12-11.
+
+For United States v. Deaton, decided December 11, 2003, review of 332 F.3d 698, the distinct channel-protection question is in Constitutional Structure and the restoration question is in Federal Courts: Immunities and Remedies.
+
+##### Whether the Clean Water Act and tributary regulations cover these connected wetlands — United States v. Deaton, 2003-12-11
+
+**Holding:** The Clean Water Act and the Corps’ tributary and adjacent-wetland regulations cover these wetlands adjoining the demonstrated feeder system into navigable waters. The statutory program delegates authority exercised through binding regulations; the permissible inclusion of this connected system and the responsible Corps construction of tributaries as its feeder branches receive their respective controlling weight within statutory and regulatory limits.
+
+**Proposition-level authority:** Kennedy's Part I: all nine Justices join the coverage conclusion; Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer join the delegated-choice and own-regulation reasoning. Stone-Zsela joins the conclusion only.
+
+**Material application:** Sections 1311, 1344 and 1362, including section 1344's assignment to the Secretary of the Army through the Chief of Engineers, supply the authority exercised through binding permit regulations. Section 328.3(a)(1), (5) and (7) permits coverage of the established feeder network and conceded adjacent wetlands; paragraph (7) covers wetlands adjacent to the specified waters except waters that are themselves wetlands. The responsible Corps construction includes branches reaching navigable waters through intermediate streams; the former headwaters cutoff did not define such branches out of the word tributaries.
+
+**Limits and questions not reached:** Statutory delegation must precede deference; ambiguity or expertise alone does not create it. The separate own-regulation inquiry concerns a fair, considered and text-consistent construction. Neither inquiry proves actual hydrology, permits amendment through interpretation or relieves the Government of ordinary civil proof. The earlier determination that sidecasting was a discharge is settled.
+
+**Operative remedy or transition:** Affirm the statutory coverage determination for the demonstrated connected system; the existing restoration order remains effective within its separately sustained scope.
+
+**Treatment of earlier authority:** United States v. Riverside Bayview Homes preserves adjacent-wetland coverage. Solid Waste Agency of Northern Cook County v. United States Army Corps of Engineers retains its bird-use-only isolated-pond limit and supplies no direct-feeder restriction here. United States v. Haggar Apparel Co., United States v. Mead Corp. and Barnhart v. Thomas require actual delegated authority and its exercise before statutory deference; Barnhart's different agency assignment is not transferred to the Corps. Auer v. Robbins separately governs the responsible regulatory construction while leaving factual proof independent.
+
+##### Whether wetland hydrology requires surface saturation despite the Manual's root-zone indicator
+
+**Holding:** Section 328.3(b) requires inundation or saturation by surface or groundwater at a frequency and duration sufficient to support, and under normal circumstances actually supporting, a prevalence of vegetation typically adapted to saturated soils. Within that complete definition, the Manual’s express visual indicator of saturation in a major part of the root zone, usually within twelve inches, defeats the asserted requirement of saturation to the surface; the Corps’ determination is sustained on this preserved interpretation issue.
+
+**Proposition-level authority:** Kennedy's Part III, adopted by all eight Associate Justices. Stone-Zsela concurs in affirmance of this component without joining its ground.
+
+**Material application:** The Manual combines vegetation, hydric soil and hydrology criteria, giving recorded water information priority over field indicators. Its express root-zone indicator answers the owners' surface-saturation argument based on twenty-two wells; vegetation and hydric soil were undisputed, and no contrary root-zone measurement requiring resolution was established by this challenge.
+
+**Limits and questions not reached:** The indicator does not replace frequency, duration, normal conditions or the actual vegetation requirement, and one observation is not conclusive. Genuinely contrary higher-ranked data retain their proper weight. The distinct claim that the Manual itself conflicts with the regulation was not preserved.
+
+**Operative remedy or transition:** Affirm the delineation determination on the preserved interpretation issue.
+
+**Treatment of earlier authority:** Auer v. Robbins permits the responsible and text-consistent interpretation; it does not allow the Manual to amend the governing regulation or substitute interpretation for proof.
+
+#### Alaska Department of Environmental Conservation v. EPA, 540 U.S. 461
+
+**Docket or dockets:** No. 02-658.
+
+**Decided:** 2004-01-21.
+
+For the record-supported APA application and existing conditional permit, see Administrative Law, Alaska Department of Environmental Conservation v. EPA, decided January 21, 2004, No. 02-658.
+
+##### Whether EPA may enforce the requirement of a reasoned state BACT determination — Alaska Department of Environmental Conservation v. EPA, 2004-01-21
+
+**Holding:** Sections 113(a)(5) and 167 authorize EPA to prevent construction that fails the Clean Air Act's prevention-of-significant-deterioration requirements, including section 165(a)(4)'s best-available-control-technology requirement. EPA may intervene when a state BACT determination lacks a reasoned basis under section 169(3)'s maximum-achievable-reduction standard and its energy, environmental, economic and other-cost factors, but may not replace a supported state choice merely because it prefers another permissible technology.
+
+**Proposition-level authority:** Ginsburg’s opinion, joined by Stone-Zsela, Stevens, O’Connor, Souter and Breyer; six direct joins.
+
+**Limits and questions not reached:** EPA must identify and demonstrate the particular statutory defect. State primacy preserves case-specific weighing within the permitted range; neither a BACT label nor available state review displaces the enacted federal enforcement channels. Agency experience may inform persuasion but creates no power.
+
+**Operative remedy or transition:** The federal enforcement authority is sustained. The actual modified construction restrictions, including the March allowance for summer-dependent work, remain in effect; the withdrawn December direction is not revived.
+
+**Treatment of earlier authority:** Mead and Christensen distinguish statutory authority from persuasive advice. Walton and Heimmermann require actual delegation and authorized exercise. Bragg preserves an identified federal requirement after state primacy without authorizing review of every discretionary state judgment.
+
+#### Engine Manufacturers Association v. South Coast Air Quality Management District, 541 U.S. 246
+
+**Docket or dockets:** No. 02-1343.
+**Decided:** 2004-04-28.
+
+##### A compulsory purchase criterion can enforce an emissions standard
+
+**Holding:** A state or local mandatory emissions criterion for new motor vehicles or engines subject to Clean Air Act §209(a) can adopt or enforce a prohibited standard even when the legal command addresses purchasers rather than manufacturers or sellers. Existing commercial availability of compliant vehicles does not by itself exempt an otherwise covered regulatory standard; preemption and relief require application of the statute to each actual criterion, covered vehicle and legally available qualification.
+
+**Proposition-level authority:** Breyer's opinion joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas and Ginsburg; eight rationale votes. Souter concurs in the judgment only.
+
+**Material application and remand limits:**
+
+The prospective rules concern sweepers, public light- and medium-duty fleets, transit vehicles, solid-waste vehicles, airport passenger transport and public heavy-duty fleets. Rules 1191 and 1196 exempt their respective private contractor fleets, while the other four contain private applications. A new purchase or fleet addition is not necessarily a new motor vehicle under the federal statute; Rule 1191 expressly addresses used vehicles.
+
+**Material commercial-availability qualifications.** These provisions are not a uniform exemption. CARB is the California Air Resources Board; LEV, ULEV, SULEV and ZEV denote low-, ultra-low-, super-ultra-low- and zero-emission vehicles, respectively:
+
+| Rule | Actual qualification and remaining obligations |
+|---|---|
+| **1186.1: sweepers** | The rule covers sweeping by or for government agencies whose counted fleets have at least 15 vehicles; the sweepers weigh at least 14,000 pounds. From July 1, 2002, a replacement or additional purchase or lease must be alternative fueled, or, before July 1, 2004, have a technical-infeasibility certificate for that transaction. A signed, accurate request is due six months before purchase. It must show manufacturer-wide unavailability of an alternative-fuel engine/chassis for the operation, with only technical reasons justifying the chassis choice, or absence of a suitable alternative-fuel station within five miles of storage or maintenance yards. A completed request must receive a written decision within 90 days; denial requires reasons, and reapplication does not suspend compliance. Controlled diesel remains subject to approved devices handling all diesel exhaust, manufacturer maintenance, diesel sulfur no greater than 15 parts per million, and Rule 1186 compliance except where solely technical reasons establish that no certified sweeper is commercially available. The separate service-contract route permits nonalternative sweeping only after solicitation produces no alternative-fuel bid, retaining those control, fuel and Rule 1186 duties; it has no corresponding July 2004 cutoff. Renewal or extension options after January 1, 2003 count as new service contracts. Paragraph (e)(1)'s reference to the service-contract paragraph while prescribing purchase certification requires construction. |
+| **1191: light- and medium-duty public fleets** | The availability exception covers medium-duty vehicles only. The operator must demonstrate both the absence of a commercially available LEV-or-cleaner engine/chassis and inability to use the purchase-offset route. That route allows qualifying alternative-fuel ULEV/SULEV/ZEV purchases already in the fleet as of July 1, 2001, but concurrent purchases must be alternative-fuel SULEV/ZEV vehicles. One noncompliant medium-duty vehicle is offset by one light/medium ZEV, two light/medium SULEVs, ten light-duty ULEVs or three medium-duty ULEVs, subject to that prior/concurrent distinction. Used vehicles below LEV may be bought if converted to LEV or cleaner with a CARB-certified kit. The medium-duty exception supplies no corresponding light-duty exemption. |
+| **1192: transit fleets** | Public operators and specified public-transit contractors are covered. The operator must demonstrate to the Executive Officer that no alternative-fuel engine/chassis configuration for the covered heavy-duty passenger-transport vehicle is commercially available or could be used. The parties dispute how availability and possible use relate; the provision does not establish unconditional permission to buy any preferred vehicle. |
+| **1193: solid-waste fleets** | Public and private fleets are covered. The Executive Officer must receive the stated availability-or-possible-use demonstration concerning an alternative-fuel engine/chassis for the covered solid-waste collection vehicle. Collection purchases have a distinct dual-fuel route ending before July 1, 2003; the transfer/roll-off paragraph permits alternative or dual fuel without that same cutoff. A separate dual-fuel permission until July 1, 2003 requires every existing 1995-and-later diesel collection vehicle to have CARB-certified controls reducing particulates at least 71 percent. Applying for a variance does not grant one. |
+| **1194: airport passenger transport** | Public and private operators must make the availability-or-possible-use demonstration concerning an alternative-fuel engine/chassis, although some operative duties also permit listed emissions-tier vehicles. Taxi cofunding and accessibility exemptions are separate. The cofunding provision permits a non-ULEV purchase if the designated funding fails to cover the compliant alternative-fuel purchase price less the operator's available $10,000 contribution within ten working days after notice and documentation, or two working days for an accident requiring immediate replacement. The operator still pays taxi conversion, incidental costs, tax on its contribution, licensing and registration. Purchase must follow permission within ten working days or cofunding must be sought again. A non-ULEV taxi converted for wheelchair-accessible airport pickup must meet the airport regulations and all Americans with Disabilities Act requirements, including overhead door clearance and ramp or lift design specifications. |
+| **1196: public heavy-duty fleets** | Alternative fuel, qualifying dual fuel and dedicated gasoline are compliant options. Qualifying dual fuel requires CARB certification to the applicable optional nitrogen-oxide standard and particulate aftertreatment meeting the latest preadoption CARB-certified M-100 methanol engine level. A diesel alternative requires a transaction-specific technical-infeasibility certificate, controls fitted at purchase and handling all diesel exhaust, manufacturer-specified maintenance, and diesel sulfur no greater than 15 parts per million. A signed, accurate request is due at least 60 days before purchase. Paragraph (e)(1)(C) addresses manufacturer-wide availability of an engine and chassis/body meeting one of the three options, permits only technical configuration reasons, and includes possible use in the specific application. Paragraph (D) addresses absence of an alternative-fuel station within five miles of storage/maintenance or extended home-base locations served by mobile fueling. Paragraph (E) concerns the incremental cost-effectiveness threshold of the latest Carl Moyer or Mobile Source Emission Reduction Review Committee program, whichever is greater. Their connective relationship requires construction. The June 30, 2004 sunset expressly names the fueling-station ground in (D), not (C)'s availability/use ground. A completed request requires a written decision within 45 days; denial must give reasons and requires compliance with the three ordinary options. A new request or variance application alone does not suspend that duty. |
+
+The judgment under review addresses the enacted prospective rules. April 28 precedes the sweeper purchase cutoff. Neither the cutoff nor the disputed availability/use wording establishes that an unavailable vehicle will actually be demanded.
+
+**Limits and questions not reached:** A fleet addition is not necessarily a statutory new motor vehicle. Genuine proprietary decisions require source-specific examination rather than an automatic procurement exemption. The six Rules have different availability, technical-infeasibility, offset, fuel-control and timing provisions; none may be replaced with a common availability assumption. The Court establishes neither an actual demand for an unavailable vehicle nor a violation after a future cutoff. Vehicle certification, waiver of standards and approval of these Rules remain distinct.
+
+**Operative remedy or transition:** Vacate the all-six declaration of validity. On remand identify each operative criterion and vehicle category; establish statutory coverage and newness; construe each actual qualification and date; distinguish proprietary choices from commands to independent purchasers; and decide preserved applications and severability. Enjoin proved preempted regulatory applications and explain the surviving ones. No §§246, 209(b) or 177 saving defense was invoked; §209(d) remains subject to ordinary presentation and preservation.
+
+**Treatment of earlier authority:**
+
+- **Cipollone v. Liggett Group:** Applied to identify the enforceable substantive duty rather than its label; its cigarette-specific text and separate proposition coalitions retain their scope.
+- **Medtronic v. Lohr:** Applied for actual statutory comparison and the distinction between inclusion within a clause and ultimate preemption. Its different-or-additional requirement is not inserted into §209(a).
+- **Building and Construction Trades Council v. Associated Builders and Contractors (Boston Harbor):** Applied as a bounded distinction between genuine purchasing and regulation, subject to the governing statute; its labor-law holding creates no universal procurement exemption.
+
+#### South Florida Water Management District v. Miccosukee Tribe of Indians, 541 U.S. 95
+
+**Docket or dockets:** No. 02-626.
+**Decided:** 2004-03-23.
+
+##### A point source may convey pollutants generated elsewhere
+
+**Holding:** A pump, pipe, ditch or other point-source conveyance may discharge pollutants that it transports from elsewhere; the Clean Water Act does not require the conveyance itself to generate them. A permit claimant must still establish an addition of a pollutant to covered receiving waters from that point source.
+
+**Proposition-level authority:** Part I of O'Connor's opinion, joined by all nine Justices, controls the conveyance rule and its distinct discharge predicates.
+
+
+
+##### The addition predicate requires resolution of the actual water-body dispute
+
+**Holding:** Moving pollutant-bearing water wholly within a single water body does not, by that movement alone, add pollutants to it. A party seeking summary judgment on a permit obligation must establish the absence of a genuine material dispute over the addition and other discharge predicates; the genuine dispute whether C-11 and WCA-3 are meaningfully distinct prevents the present permit summary judgment from standing.
+
+**Proposition-level authority:** Part II of O'Connor's opinion, joined by all nine Justices, controls the addition rule, the summary-judgment application and the bounded factual remand.
+
+**Limits and questions not reached:** Neither separate names nor a hydrological connection alone establishes whether C-11 and WCA-3 are distinct water bodies. Part III permits proper presentation on remand of the broader theory that all covered navigable waters count as one for the addition inquiry, without deciding its merits; O'Connor, Stone-Zsela, Stevens, Kennedy, Souter, Thomas, Ginsburg and Breyer join that permission, while Scalia does not.
+
+**Operative remedy or transition:** Vacate the permit summary judgment and remand to resolve the actual water-body dispute. A permit-compliance judgment requires proof of the statutory elements; failure to establish an addition to distinct receiving waters defeats this claim.
+
+**Treatment of earlier authority:** Borden Ranch Partnership v. Army Corps of Engineers is applied to the requirement of actual conveyance and addition and to rejection of an origin prerequisite; its § 404 soil-deposit and farming-recapture application retains its distinct setting. Arkansas v. Oklahoma preserves the Act's water-quality and supported-record requirements in its federal permitting context. United States v. Deaton remains controlling on the demonstrated connected-system coverage it decided; coverage does not merge all connected waters for the addition inquiry.
+
+
+
+### Agency authority and environmental causation
+
+#### Department of Transportation v. Public Citizen, 541 U.S. 752
+
+**Docket or dockets:** No. 03-358.
+**Decided:** 2004-06-07
+
+##### NEPA connects the required analysis to the agency's own action and authority
+
+**Holding:** NEPA requires a reasonably close causal relationship between the reviewed agency action and the environmental effects to be studied. Where an independent governmental decision produces the challenged increase and the agency lacks statutory authority to prevent that increase, the agency's necessary implementation step does not by itself make those effects attributable to its rules; effects of the agency's own available choices remain subject to the applicable review requirements.
+
+**Proposition-level authority:** Scalia’s opinion of the Court, unanimous; all nine Justices join this proposition and its operative qualifications.
+
+**Material application:** FMCSA must register carriers satisfying safety and financial requirements and lacks an environmental entry veto. The President independently controls lifting the moratorium. Discretionary safety choices and their own environmental consequences remain subject to review.
+
+**Limits and questions not reached:** The statutory allocation must substantiate the claimed absence of agency control; foreseeability and a necessary implementation step alone do not establish the required causation.
+
+**Treatment of earlier authority:** - Metropolitan Edison Co. v. People Against Nuclear Energy supplies NEPA's reasonably close causal relationship and defeats attribution based only on a necessary implementation sequence.
+- Robertson v. Methow Valley Citizens Council supplies the procedural duty to make an informed choice within the agency's actual authority; it supplies no additional power to prevent the President's entry decision.
+
+##### Cumulative-impact analysis and preservation retain their distinct requirements
+
+**Holding:** Under 40 CFR §1508.7, the agency must consider its action's incremental impact together with past, present and reasonably foreseeable future actions, regardless of actor; that requirement does not turn another actor's independent action into an effect of the agency rule. A party seeking review based on an omitted regulatory alternative must meaningfully present that alternative while the agency can address it, unless an obvious defect supplies the requisite notice without a specific comment.
+
+**Proposition-level authority:** Scalia’s opinion of the Court, unanimous; all nine Justices join this proposition and its operative qualifications.
+
+**Material application:** No additional regulatory alternative was meaningfully presented, and no supported obvious defect provided notice despite that omission. This forfeiture does not dispose of the separately preserved causation or conformity objections. An environmental-entry veto also exceeds FMCSA’s statutory options.
+
+**Treatment of earlier authority:** - Vermont Yankee Nuclear Power Corp. v. Natural Resources Defense Council supplies meaningful presentation of an alternatives objection, applied here subject to the supported-obvious-defect qualification.
+
+##### The conformity regulations separately require direct emissions or practicable continuing control
+
+**Holding:** For the conformity inquiry under 40 CFR §93.152, direct emissions must be caused or initiated by the federal action and occur at the same time and place. Indirect emissions may occur later or farther away, but must be caused by the action, reasonably foreseeable, and emissions the agency can practicably control and will maintain control over because of its continuing program responsibility; the independent traffic increase satisfies neither the direct nor the indirect definition here.
+
+**Proposition-level authority:** Scalia’s opinion of the Court, unanimous; all nine Justices join this proposition and its operative qualifications.
+
+**Material application:** The conformity regulation permits a but-for causal connection, unlike NEPA’s separate close-causation requirement. Even assuming that connection, truck emissions do not occur at the same time and place as rule promulgation; safety regulation supplies no continuing environmental control over the President’s independently authorized traffic increase.
+
+**Operative remedy or transition:** The judgment is reversed unanimously and remanded to remove the EIS and full-conformity requirements predicated on that independent increase.
+
+### Wilderness management and environmental supplementation
+
+#### Norton v. Southern Utah Wilderness Alliance, 542 U.S. 55 — Wilderness management and environmental supplementation
+
+**Docket or dockets:** No. 03-101.
+**Decided:** 2004-06-14
+
+For Norton v. Southern Utah Wilderness Alliance, 542 U.S. 55, 2004-06-14, No. 03-101, see Administrative Law for [Section 706(1) requires a discrete act that governing law makes obligatory](../HOLDINGS.md#section-7061-requires-a-discrete-act-that-governing-law-makes-obligatory); [These planning projections do not create the compulsory continuing program alleged](../HOLDINGS.md#these-planning-projections-do-not-create-the-compulsory-continuing-program-alleged).
+
+For Norton v. Southern Utah Wilderness Alliance, 542 U.S. 55, 2004-06-14, No. 03-101, see Federal Courts: Justiciability for [Completion ends the two requests directed solely to initial acts](../HOLDINGS.md#completion-ends-the-two-requests-directed-solely-to-initial-acts).
+
+##### The wilderness standard does not specify the act demanded by this program-wide claim
+
+**Holding:** Section 1782(c)'s binding obligation to preserve wilderness suitability does not identify a discrete omitted act that can sustain the organizations' demand for judicial supervision of BLM's wilderness-management program. That §706(1) demand must be dismissed, while the statutory management standard retains its force.
+
+**Proposition-level authority:** Parts I–IV of Thomas’s opinion, joined by all nine Justices; direct unanimous support for this live-claim proposition.
+
+**Material statutory qualifications:** The standard governs during review and until Congress determines otherwise. It permits continued mining, grazing and mineral leasing in the manner and degree existing on October 21, 1976, while separately requiring action against unnecessary or undue degradation or to afford environmental protection. Unless previously withdrawn, the lands remain open to appropriation under mining law during review, subject to withdrawal under §1714 for reasons other than preservation of wilderness character. Following congressional wilderness designation, the Wilderness Act's national-forest wilderness rules govern, including mineral surveys, development, access, land exchange and claimant ingress and egress.
+
+**Limits and questions not reached:** Section 1732(a) separately requires plan-conforming multiple-use and sustained-yield management, with separately dedicated tracts governed by their dedicating law. Section 1732(b)’s unnecessary-or-undue-degradation command retains its distinct operation.
+
+**Material application:** The organizations seek continuing supervision of wilderness management, rather than a discrete act the binding nonimpairment standard requires. The statutory objective remains binding even though it does not supply that missing discrete-act predicate.
+
+**Operative remedy or transition:** Reverse and remand for dismissal of the generalized section 706(1) demand. Review of final action violating a binding boundary remains available through its proper channel.
+
+**Treatment of earlier authority:** - Lujan v. National Wildlife Federation, 497 U.S. 871: applied against wholesale program supervision, while permitting review directed to an identifiable agency act.
+- Lincoln v. Vigil: applied to distinguish enforceable law from administrative discretion; the present decision specifies the complete discrete-act rule for §706(1).
+
+##### Supplementation requires relevant major action remaining to occur
+
+**Holding:** When relevant major federal action remains, 40 C.F.R. §1502.9(c)(1) requires an EIS supplement if either substantial changes to the proposed action are relevant to environmental concerns or significant new circumstances or information relevant to those concerns bear on the action or its impacts. Section 1502.9(c)(2) separately permits supplementation when the agency determines it would further NEPA's purposes; that permission alone imposes no mandatory duty.
+
+**Proposition-level authority:** Parts I–IV of Thomas’s opinion, joined by all nine Justices; direct unanimous support for this live-claim proposition.
+
+**Material application:** Approval of these plans is complete. Continuing management and increased off-road use identify no distinct remaining major action; later amendments and site-specific decisions retain their separate NEPA obligations. Completing an EIS for an unfinished project does not finish that project.
+
+**Operative remedy or transition:** Dismiss the demand to supplement these completed plan approvals; permissive supplementation is not converted into a mandatory duty.
+
+**Treatment of earlier authority:** - Marsh v. Oregon Natural Resources Council, 490 U.S. 360: applied to supplementation where relevant major federal action remains; completed plan approval differs from an unfinished project whose EIS has already been prepared.
+- Department of Transportation v. Public Citizen: applied at its requirement to identify the agency action and available choices; BLM's authority over management remains governed by its own statutes.

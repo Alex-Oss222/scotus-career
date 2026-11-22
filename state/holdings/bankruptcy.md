@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2002
-**Processed through:** June 30, 2003, after all 185 completed OT2002 Court events.
-**Edition:** November 14, 2026
+**Last completed October Term:** 2003
+**Processed through:** June 30, 2004, after all 119 completed OT2003 Court events and the admitted Rule 53 amendment effective December 1, 2003.
+**Edition:** November 22, 2026
 
 ## Bankruptcy
 
@@ -984,3 +984,125 @@ For the authorized review channel and its limits in this decision, January 27, 2
 **Operative remedy or transition:** The categorical discharge ruling is reversed and remanded. The bankruptcy court must determine the qualifying fraud, connected enforceable unpaid amount and genuinely preserved promise-not-to-seek-nondischargeability and issue-preclusion defenses. Those distinct defenses were insufficiently addressed and lie beyond the granted universal-novation question. Connected valid liability may exceed the value initially obtained; the actual bargain still governs enforceability.
 
 **Treatment of earlier authority:** Grogan v. Garner supplies preponderance proof. Field v. Mans supplies actual and recipient-specific justifiable reliance and the separate financial-condition provisions. In re Cohen supplies the acquisition connection and extent of legally valid resulting liability.
+
+#### In re Trans World Airlines, Inc. (judgment below: 322 F.3d 283)
+
+**Docket or dockets:** Supreme Court docket not supplied.
+
+**Decided:** 2003-12-15.
+
+For the ancillary stay appeal’s mootness, see Federal Courts: Justiciability, In re Trans World Airlines, Inc., decided December 15, 2003, judgment below 322 F.3d 283.
+
+##### Whether transfer-dependent successor obligations satisfy the free-and-clear sale statute — In re Trans World Airlines, Inc., 2003-12-15
+
+**Holding:** Section 363(f)(5) permits a sale free of a successor obligation arising through acquisition and continuation of the debtor's transferred operating enterprise when an applicable legal or equitable proceeding can compel satisfaction of that interest in money. The sale proponent bears the ordinary civil burden of establishing both the property connection and this independent monetary-satisfaction condition; the represented pre-sale discrimination and voucher obligations satisfy them here.
+
+**Proposition-level authority:** Thomas's opinion of the Court, unanimous; all nine participating Justices directly join this proposition.
+
+**Material application:** American acquired and continued the operating enterprise against which the represented pre-sale employment-discrimination and travel-voucher successor obligations were asserted. Both obligations could legally be reduced to money in liquidation; valuation alone would not establish that predicate.
+
+**Limits and questions not reached:** Otherwise valid nonbankruptcy successor claims are assumed. Ownership of debtor assets alone does not connect every personal debt to the property. Favorable sale value, priorities, general plan powers and equitable usefulness do not replace either statutory condition.
+
+**Operative remedy or transition:** The free-and-clear transfer is affirmed as to the represented claims. Their claims against TWA remain subject to ordinary allowance, valuation, priority and distribution.
+
+**Treatment of earlier authority:** Patterson v. Shumate supplies the operative-text approach; Hartford Underwriters requires the particular statutory authorization. In re Dow Corning is distinguished because §363(f)(5) supplies a specific property-transfer mechanism; its bar on independent nondebtor releases through general plan powers remains intact.
+
+##### What claimant-process and adequate-protection limits govern the sale order — In re Trans World Airlines, Inc., 2003-12-15
+
+**Holding:** The sale order binds the represented claimant groups at the adjudicated scope and preserves their estate claims under the Code. Its protection extends to the transfer-dependent pre-sale successor obligations; independent purchaser wrongdoing, future compliance duties, and claims of persons without legally sufficient notice and opportunity to be heard fall outside that adjudicated protection.
+
+**Proposition-level authority:** Thomas's opinion of the Court, unanimous; all nine participating Justices directly join this proposition.
+
+**Limits and questions not reached:** Under §363(e), an affected interest holder’s request requires the bankruptcy court to prohibit or condition the sale as necessary to provide adequate protection. Participation of the represented groups at the sale hearing establishes process for those groups, not for unidentified absent claimants.
+
+**Operative remedy or transition:** The reviewed injunction remains enforceable only within these statutory and process limits. Estate claims and independent purchaser obligations retain their separate operation.
+
+#### Kontrick v. Ryan, 540 U.S. 443
+
+**Docket or dockets:** No. 02-819.
+
+**Decided:** 2004-01-14.
+
+##### Whether Rules 4004 and 9006 impose jurisdictional limits or a forfeitable filing defense — Kontrick v. Ryan, 2004-01-14
+
+**Holding:** Bankruptcy Rules 4004 and 9006 regulate claim processing and enlargement rather than subject-matter jurisdiction; a debtor who litigates an objection to discharge through an adverse merits determination before raising untimeliness forfeits that defense. The creditor retains the burden to prove the discharge objection, and the rules' restrictions continue to govern when the debtor timely invokes them; forfeiture supplies no power to grant an extension the rules forbid over a timely objection.
+
+**Proposition-level authority:** Stone-Zsela's opinion of the Court, unanimous; all nine participating Justices directly join this proposition.
+
+**Material application:** Kontrick answered and litigated the untimely family-account discharge objection through an adverse merits adjudication before asserting its timing. Forfeiture requires neither intentional waiver nor an equitable extension.
+
+**Limits and questions not reached:** Rules cannot alter jurisdiction supplied by 28 U.S.C. §§1334 and 157. Rule 4004 ordinarily requires filing within sixty days of the first date set for the creditors’ meeting and permits an extension for cause on a motion filed before expiration; Rule 9006(b)(3) permits enlargement only on Rule 4004’s conditions. Equitable tolling, relation back and the precise final premerits assertion point remain undecided.
+
+**Operative remedy or transition:** The denial of discharge is affirmed because the postmerits timing defense is forfeited.
+
+**Treatment of earlier authority:** Carlisle’s timely invoked mandatory deadline remains effective; Kontrick resolves the distinct postmerits forfeiture issue. Henderson supplies the source, placement and function approach to classifying timing commands, without altering its different timetable.
+
+#### Lamie v. United States Trustee, 540 U.S. 526
+
+**Docket or dockets:** No. 02-693.
+
+**Decided:** 2004-01-26.
+
+##### Whether unretained Chapter 7 debtor’s counsel may receive estate compensation under section 330(a)(1) — Lamie v. United States Trustee, 2004-01-26
+
+**Holding:** Section 330(a)(1) does not authorize compensation from a Chapter 7 estate for the debtor's attorney unless the attorney qualifies as a professional employed under section 327 with the required approval. Eligibility precedes valuation of services, and Lamie's acknowledged lack of section 327 employment defeats this application; the distinct provision permitting reasonable compensation to an individual Chapter 12 or Chapter 13 debtor's attorney under section 330(a)(4)(B) retains its own operation.
+
+**Proposition-level authority:** Thomas’s opinion is joined in full by Stone-Zsela, O’Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer. Stevens’s separate concurrence expressly adopts the recipient-list rule, giving that operative rule nine direct supporters; the lead’s textual-and-structural explanation has eight. Souter and Breyer join both writings.
+
+**Limits and questions not reached:** The services clause describes compensable work by eligible professionals; its retained reference to an attorney does not independently restore the omitted recipient category. Useful services or continued representation after conversion cannot supply §327 employment.
+
+**Operative remedy or transition:** Denial of postconversion compensation from the Chapter 7 estate under this application is affirmed.
+
+**Treatment of earlier authority:** Hartford Underwriters requires the enacted claimant entitlement before recovery; Patterson enforces operative Code language. Dewsnup’s limited contextual lien construction does not require insertion of an omitted recipient.
+
+#### Tennessee Student Assistance Corporation v. Hood, 541 U.S. 440 (2004) — Bankruptcy, OT2003
+
+**Docket or dockets:** No. 02-1606.
+**Decided:** May 17, 2004.
+
+##### Whether overcoming immunity establishes the student-loan hardship discharge
+
+**Holding:** Section 523(a)(8)'s covered educational obligations remain outside discharge unless that exclusion would impose undue hardship on the debtor and the debtor's dependents. The debtor must establish hardship through the applicable adjudication; overcoming immunity or the State's nonparticipation supplies no substitute.
+
+**Proposition-level authority:** Part III of Souter's opinion, joined by Stone-Zsela, Stevens, O'Connor, Kennedy, Ginsburg and Breyer; seven Justices.
+
+**Limits and questions not reached:** Coverage includes an educational benefit overpayment or loan made, insured or guaranteed by a governmental unit; a loan under a program funded wholly or partly by a governmental unit or nonprofit institution; and an obligation to repay funds received as an educational benefit, scholarship or stipend. The Court determines no actual hardship.
+
+**Operative remedy or transition:** The bankruptcy court must give TSAC notice and an opportunity to contest Hood's showing, then decide dischargeability with the binding effect bankruptcy law authorizes.
+
+For Hood, No. 02-1606, decided May 17, 2004, the discharge-jurisdiction and independent Article I answers to immunity are in Federal Courts: Immunities and Remedies.
+
+#### Till v. SCS Credit Corp., 541 U.S. 465 (2004)
+
+**Docket or dockets:** No. 02-1016.
+**Decided:** May 17, 2004.
+
+##### How deferred Chapter 13 secured payments preserve present value
+
+**Holding:** Under §1325(a)(5)(B)(ii), deferred payment of an allowed secured claim requires the national prime rate plus the adjustment supported by the additional repayment risk of the actual plan. A contract rate may supply relevant evidence when its components and comparability justify it, but carries neither a presumption nor an automatic contractual entitlement.
+
+**Proposition-level authority:** Breyer's opinion, joined by Stone-Zsela, Stevens, Souter and Ginsburg; five direct joins. Thomas's distinct judgment concurrence adds a sixth reversal vote but supplies no part of this controlling formula; no Marks derivation is needed.
+
+**Limits and questions not reached:** Prime already contains ordinary risk, time-value and lending components; it is not a risk-free benchmark. The court assesses actual circumstances, security, duration and terms relevant to repayment without an exclusive checklist. Comparable lending may inform risk, but contract origination, marketing and profit components need not reproduce the price of a new loan, and ordinary components embedded in prime are not automatically removed.
+
+**Operative remedy or transition:** Reverse the contract-rate presumption and remand for the appropriate prime benchmark, supported adjustment and remaining confirmation findings. The offered 9.5 percent is not held adequate merely because it exceeds the reported Treasury benchmark; the comparison proves neither plan default risk nor the adequacy of the 1.5-point addition.
+
+**Treatment of earlier authority:** Rash and §506 fix the retained collateral's allowed secured value, not the interest method; Rash's refusal mechanically to remove dealer profit and overhead from supported collateral prices remains. Nobelman's principal-residence mortgage protection does not preserve this truck lender's contract rate.
+
+##### Who must prove the additional risk adjustment demanded by a creditor
+
+**Holding:** Once the debtor provides an adequate financial and plan foundation for the formula rate, a creditor seeking a higher risk increment must establish the warranted addition by a preponderance of the evidence. Debtor disclosure, responsive evidence and other confirmation duties remain, but minimal creditor production does not shift persuasion on the demanded increment back to the debtor.
+
+**Proposition-level authority:** The same five-Justice opinion of the Court.
+
+**Limits and questions not reached:** All relevant evidence counts, including the debtor's; a supported partial increase may be awarded even if the creditor fails to prove its entire demand. Equipoise defeats the unproved increment. Supported estimates and economic judgment remain permissible: the burden concerns the warranted adjustment, not mathematical certainty or whether default itself is more likely than not. Silence by the creditor does not require approval of an inadequately supported proposed rate or plan.
+
+**Treatment of earlier authority:** Grogan v. Garner supplies the ordinary civil preponderance principle; its distinct discharge-exception holding is not transplanted as an interest rule.
+
+##### Whether feasibility permits reduction of the rate needed for present value
+
+**Holding:** Adequate present value and §1325(a)(6)'s ability to make all payments and comply with the plan are independent requirements. The court may not lower the needed rate simply to make the plan affordable; if both requirements cannot be satisfied, it must deny confirmation or consider a lawful amendment.
+
+**Proposition-level authority:** The same five-Justice opinion of the Court.
+
+**Treatment of earlier authority:** Lamie preserves the distinct work of the enacted provisions. Rash's valuation requirement and Nobelman's particular mortgage protection retain their separate operation.

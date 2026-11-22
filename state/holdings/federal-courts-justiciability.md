@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2002
-**Processed through:** June 30, 2003, after all 185 completed OT2002 Court events.
-**Edition:** November 14, 2026
+**Last completed October Term:** 2003
+**Processed through:** June 30, 2004, after all 119 completed OT2003 Court events and the admitted Rule 53 amendment effective December 1, 2003.
+**Edition:** November 22, 2026
 
 ## Federal Courts: Justiciability
 
@@ -2996,3 +2996,372 @@ The speech and criminal-participation boundaries are under First Amendment, and 
 **Limits and questions not reached:** Class certification cannot supply missing personal exposure, and Gratz’s past rejection alone supplies no prospective jurisdiction. The Court does not assume transfer applicants use the freshman point worksheet; supported transfer readiness and the actual policy relationship sustain the represented continuing injury.
 
 **Treatment of earlier authority:** Peña and Northeastern Florida distinguish equal competition from assured selection. Slater permits a genuinely continuing controversy through policy change without dispensing with initial personal injury.
+
+
+### Finality of refusal of a federal crossing
+
+#### Washoe County v. United States — finality
+
+**Docket or dockets:** Federal Circuit No. 02-5039; judgment below, 319 F.3d 1320.
+**Decided:** November 17, 2003.
+
+##### Whether another application is required after fixed opposition to the pipeline route
+
+**Holding:** A compensation claimant need not repeat an application once the government's position is fixed and the established remaining use sufficiently defines the restriction. Fixed Army and tribal opposition, known retained agricultural use and absence of another useful administrative step make this claim final enough for merits adjudication.
+
+**Proposition-level authority:** Thomas's opinion of the Court, unanimous.
+
+**Limits and questions not reached:** A separate suit to compel agency action is not another application needed to define the burden. The holding concerns established futility here; it does not excuse useful applications generally or decide a distinct APA processing challenge.
+
+**Treatment of earlier authority:** Palazzolo requires a sufficiently defined restriction rather than repetitive proposals for their own sake and is applied without alteration.
+
+For Washoe County v. United States, November 17, 2003, Federal Circuit No. 02-5039, on the physical, regulatory and complete-deprivation theories, see Property and Economic Rights — Water rights dependent on an ungranted federal route.
+
+### Campaign-finance challenges and claimant-specific review
+
+#### McConnell v. Federal Election Commission, 540 U.S. 93 — claimant-specific thresholds and regulated-party standing
+
+**Docket or dockets:** Nos. 02-1674, 02-1675, 02-1676, 02-1702, 02-1727, 02-1733, 02-1734, 02-1740, 02-1747, 02-1753, 02-1755 and 02-1756.
+**Decided:** December 10, 2003.
+
+For the distinct questions in McConnell, December 10, 2003, on these consolidated dockets, see Election Law — campaign financing and electoral expression; First Amendment — press functions and broadcaster records; Constitutional Structure — federal election authority and reserved state powers; Civil Rights — racial-impact challenge to federal solicitation rules.
+
+##### Completed repeal and unspecified regulatory applications
+
+**Holding:** The section 214(b) regulatory-vacuum theory is dismissed as moot after the replacement rules became effective February 3, 2003. The challenge to unspecified applications of section 214(c)'s rulemaking command is unripe. The command removes an agreement or formal-collaboration prerequisite and requires treatment of republication, common vendors, former employees and substantial discussions; it does not itself classify every contact as coordinated. Advisory opinions remain permissive.
+
+**Proposition-level authority:** O'Connor's portion of the Court's opinion; direct joins by Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer, including the author (8 Justices), controlling at the exact scope stated. Stone-Zsela agrees in the disposition only.
+
+**Limits and questions not reached:** A concrete civil duty may support review without a criminal penalty or exhaustion of a permissive advisory-opinion process. Only the completed vacuum and unspecified applications are dismissed.
+
+**Treatment of earlier authority:**
+
+- **Maine Right to Life:** Its permissive advisory procedure remains.
+- **Lee:** Its present-civil-duty rule remains.
+- **National Park Hospitality:** Distinguished by its nonbinding policy.
+- **Barnhart:** Requires an actual statutory assignment and its lawful exercise.
+
+##### Lowest-unit-rate certification: section 305
+
+**Holding:** The section 305 challenge is dismissed without prejudice because these claimants have not established the required concrete present rate/certification conflict. McConnell's next identified exposure is his 2008 election; the other identified candidate circumstances do not establish the necessary current dispute. Congressional permission to sue does not itself supply Article III injury. The dismissal leaves the condition's constitutional merits unresolved for want of a justiciable claim.
+
+**Proposition-level authority:** Stone-Zsela's portion of the Court's opinion; direct joins by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, including the author (6 Justices), controlling at the exact scope stated.
+
+**Limits and questions not reached:** The Court does not decide the rate condition’s constitutional merits or assume that every station will charge a higher rate. Loss of a civil benefit can establish injury in a properly concrete case.
+
+**Treatment of earlier authority:**
+
+- **Lujan:** Applied to the actual temporal and personal nexus.
+- **Raines:** Applied to the actual temporal and personal nexus.
+- **Lee:** Its recognition of civil-duty and lost-benefit injury is preserved.
+
+Section 403 permission does not replace Article III.
+
+##### Paul: amended ceilings, unchanged limits and the available remedy
+
+**Holding:** Paul's section 307 candidate-contribution and comparative Press Clause claims, and the challenge to unchanged nonparty-PAC ceilings and indexing differences, are dismissed without prejudice to the proper review route. Willing-donor and campaign-receipt allegations establish a distinct asserted injury. But section 403 review of BCRA and its amendments cannot furnish the requested removal of the preexisting FECA restrictions: invalidating an increase or indexing amendment leaves the older limit and media treatment in place. This action cannot remove that restraint; dismissal leaves proper section 437h review available under its own requirements.
+
+**Proposition-level authority:** Stone-Zsela's portion of the Court's opinion; direct joins by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer, including the author (9 Justices), controlling at the exact scope stated.
+
+**Limits and questions not reached:** This is an action-and-remedy defect, not a merits rejection of Paul’s distinct Press Clause theory. Section 437h retains its own eligibility, substantiality and certification requirements.
+
+**Treatment of earlier authority:**
+
+- **Lujan:** Its injury and redressability elements remain separate.
+- **Mariani:** Its section 437h route is applied without automatic certification or conversion of this direct appeal into review of every FECA restriction.
+
+##### Adams: increased limits and particularized competitive injury
+
+**Holding:** The Adams increased-limit claim is dismissed without prejudice. The asserted classwide dilution of electoral influence and deterrence of future candidacies do not establish a concrete, imminent personal competitive disadvantage traceable to the particular challenged increase and likely redressable by restoring the older ceilings. This claimant-specific disposition preserves ordinary competitor standing when its actual requirements are established.
+
+**Proposition-level authority:** Stone-Zsela's portion of the Court's opinion; direct joins by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer, including the author (9 Justices), controlling at the exact scope stated.
+
+**Limits and questions not reached:** Standing does not turn on whether a claimant has a substantive right to equal electoral influence. Concrete shared injury and properly established competitor standing remain possible.
+
+**Treatment of earlier authority:**
+
+- **Lujan:** Applied to particularization and causation.
+- **Raines:** Applied to particularization and causation.
+- **Akins:** Its recognition of concrete shared injury remains.
+
+No categorical competitor-standing bar follows.
+
+##### Presented self-financing challenges: sections 304, 316 and 319
+
+**Holding:** The presented self-financing challenges are dismissed without prejudice because these claimants have not established an actual or imminent triggering candidate race. A self-financing candidate, an opponent potentially entitled to an increased allowance, an additional opponent and a party committee have distinct statutory positions; they cannot supply one another's injury. The constitutional merits of the presented scheme remain undecided for this Article III reason.
+
+**Proposition-level authority:** Stone-Zsela's portion of the Court's opinion; direct joins by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer, including the author (9 Justices), controlling at the exact scope stated.
+
+**Limits and questions not reached:** The distinct candidate and committee roles must be evaluated under the applicable triggering formula; the existing declarations, notices and personal-loan provision are not newly presented independent claims.
+
+**Treatment of earlier authority:**
+
+- **Lujan:** Supplies the claimant-specific threshold.
+- **Raines:** Supplies the claimant-specific threshold.
+- **Day:** Its public-financing position does not determine the merits or create injury under this formula.
+- **Daggett:** Its different public-financing position does not determine the merits or create injury under this formula.
+
+##### Standing of directly regulated parties to challenge federal allocation
+
+**Holding:** Parties directly restricted in their own fundraising and spending may raise the presented affirmative-power and associated reserved-power objections. Their own financial duties and exposure establish personal injury, enforcement supplies causation, and relief from those duties supplies redress. A State plaintiff is unnecessary to this own-command challenge. The prudential third-party bar adopted by one district judge does not defeat it.
+
+**Proposition-level authority:** O'Connor's portion of the Court's opinion; direct joins by Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer, including the author (8 Justices), controlling at the exact scope stated. Stone-Zsela agrees in the disposition only.
+
+**Limits and questions not reached:** The holding concerns a claimant’s own imposed duties, not a claimant asserting only a State’s independent institutional injury.
+
+**Treatment of earlier authority:**
+
+- **Lujan:** Applied to the plaintiffs' own duties.
+- **Printz:** Applied to the plaintiffs' own duties.
+- **Guillen:** Its reserved question remains reserved beyond this direct-regulation setting.
+- **Tennessee Electric:** Distinguished by its competitive-injury setting.
+
+##### Intervenor standing in the existing adversarial action
+
+**Holding:** The intervenor-defendants' independent standing is not decided because the FEC is properly before the Court and advances the same position and relief. That additional question is unnecessary to resolve this existing adversarial action.
+
+**Proposition-level authority:** O'Connor's portion of the Court's opinion; direct joins by Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer, including the author (8 Justices), controlling at the exact scope stated. Stone-Zsela agrees in the disposition only.
+
+**Treatment of earlier authority:**
+
+Ordinary injury and remedial requirements remain applicable to the actual claim and relief.
+
+### Whether compliance and the absence of a completed cutoff foreclose a live funding-condition challenge
+
+#### West Virginia v. U.S. Department of Health & Human Services - continuing condition and threatened funding consequences
+
+**Docket or dockets:** Review of the judgment reported at 289 F.3d 281 (Fourth Circuit).
+
+**Decided:** June 16, 2004
+
+##### Whether compliance and the absence of a completed cutoff foreclose a live funding-condition challenge — West Virginia v. U.S. Department of Health & Human Services, June 16, 2004
+
+**Holding:** A State's compliance with the continuing Medicaid estate-recovery condition does not extinguish its live challenge. Review of a concrete, credible threatened or imposed funding consequence does not categorically require the State first to suffer a completed cutoff.
+
+**Proposition-level authority:** Ginsburg's unanimous opinion of the Court; the present facial merits are reached and concrete-sanction review is expressly preserved.
+
+**Limits and questions not reached:** The absence of a particular selected sanction limits what the Court decides on the merits; it creates no new jurisdictional or exhaustion bar. The constitutionality of a specified total cutoff remains undecided because its scope and practical effects are not presented.
+
+For West Virginia v. U.S. Department of Health & Human Services, June 16, 2004, reviewing 289 F.3d 281, on Medicaid recovery obligations and the genuine-choice inquiry governing funding consequences, see Constitutional Structure - West Virginia v. U.S. Department of Health & Human Services.
+
+### Whether officers need state authorization to challenge burdens on their own work
+
+#### Lomont v. O'Neill - official-injury standing
+
+**Docket or dockets:** Review of the judgment reported at 285 F.3d 9 (D.C. Circuit).
+
+**Decided:** March 11, 2004
+
+##### Whether officers need state authorization to challenge burdens on their own work — Lomont v. O'Neill, March 11, 2004
+
+**Holding:** A local officer challenging a concrete federal burden on the officer's own official work need not obtain separate state authorization merely to present that claim. The officer must establish injury, traceability and redressability; a concrete official controversy does not disappear merely because the Court ultimately concludes that the challenged arrangement imposes no unlawful command.
+
+**Proposition-level authority:** Scalia's unanimous opinion of the Court.
+
+**Material application:** Certification work and demands directed to the plaintiff officers' own offices supply a concrete stake connected to the federal arrangement and redressable by its removal. Losing the merits question about legal compulsion does not retroactively defeat that stake.
+
+**Limits and questions not reached:** Official title and a nonfrivolous legal characterization alone do not establish injury. The officers do not obtain standing to challenge independent obligations of absent applicants. Because they support the same relief, independent private-applicant standing is unnecessary and undecided.
+
+**Treatment of earlier authority:** Printz and Mack supply concrete official-injury standing. Raines's abstract institutional-dilution claim and unauthorized representation differ from this own-office claim; its ordinary Article III requirements remain.
+
+For Lomont v. O'Neill, March 11, 2004, reviewing 285 F.3d 9, on unconditional refusal and voluntary certification, see Constitutional Structure - Lomont v. O'Neill.
+
+### Whether municipal operators may challenge obligations imposed on their systems and work
+
+#### Environmental Defense Center, Inc. v. United States Environmental Protection Agency - municipal own-operation standing
+
+**Docket or dockets:** Review of the judgment reported at 344 F.3d 832 (Ninth Circuit, September 15, 2003), replacing the vacated 319 F.3d 398 opinion.
+
+**Decided:** March 25, 2004
+
+##### Whether municipal operators may challenge obligations imposed on their systems and work — Environmental Defense Center, Inc. v. United States Environmental Protection Agency, March 25, 2004
+
+**Holding:** The municipal operators' concrete system and work obligations establish injury, traceability and redressability for their own-operation constitutional challenge; separate authorization to represent the State is not categorically necessary.
+
+**Proposition-level authority:** Souter's unanimous opinion of the Court; the official-injury threshold is expressly joined with the constitutional holdings.
+
+**Treatment of earlier authority:** Lomont's own-work standing rule is applied to the municipal operators; official status alone remains insufficient.
+
+For Environmental Defense Center, March 25, 2004, reviewing 344 F.3d 832, see Constitutional Structure for the real permit alternative and First Amendment for the independent operational-information holding.
+
+#### In re Trans World Airlines, Inc. (judgment below: 322 F.3d 283) — Federal Courts: Justiciability, OT2003
+
+**Docket or dockets:** Supreme Court docket not supplied.
+
+**Decided:** 2003-12-15.
+
+##### Whether final resolution of the sale merits leaves the limited-stay appeal live — In re Trans World Airlines, Inc., 2003-12-15
+
+**Holding:** Final adjudication of the challenged sale treatment renders the ancillary appeal from refusal of a limited stay moot.
+
+**Proposition-level authority:** Thomas's opinion of the Court, unanimous; all nine participating Justices directly join this proposition.
+
+**Operative remedy or transition:** The limited-stay appeal is dismissed as moot; the sale and injunction survive only within the scope affirmed on the merits.
+
+#### Concrete Works of Colorado v. City and County of Denver (judgment below: 321 F.3d 950) — Federal Courts: Justiciability, OT2003
+
+**Docket or dockets:** Supreme Court docket not supplied.
+
+**Decided:** 2003-12-18.
+
+##### How supersession affects the distinct prospective and damages claims — Concrete Works of Colorado v. City and County of Denver, 2003-12-18
+
+**Holding:** The prospective challenges to the superseded 1990 and 1996 ordinances, and the declaratory challenge to the 1996 ordinance, are moot on this record. The 1990 damages claim remains live despite repeal and is rejected on the constitutional merits; the 1998 prospective claim also remains live.
+
+**Proposition-level authority:** Ginsburg’s opinion has nine direct joins on the 1996 mootness ground and the live merits claims. The eight Associate Justices join the superseded 1990 prospective-claim mootness rationale; Stone-Zsela agrees only in that component’s judgment.
+
+**Limits and questions not reached:** No damages claim under the 1996 ordinance is identified. Repeal does not extinguish the accrued 1990 damages controversy.
+
+**Operative remedy or transition:** The stated mootness dispositions remain effective, with judgment for Denver on the live claims.
+
+#### Rubin v. City of Santa Monica (judgment below: 308 F.3d 1008) — Federal Courts: Justiciability, OT2003
+
+**Docket or dockets:** Supreme Court docket not supplied.
+
+**Decided:** 2004-01-15.
+
+##### Whether completion of the election ends this recurring prospective designation challenge — Rubin v. City of Santa Monica, 2004-01-15
+
+**Holding:** The short election cycle and Rubin’s intended recurrence preserve the prospective challenge to the municipal ballot-designation rule after the completed election.
+
+**Proposition-level authority:** Souter's opinion of the Court, unanimous; all nine participating Justices directly join this proposition.
+
+**Limits and questions not reached:** The threshold conclusion supports adjudication of the granted municipal constitutional question; the completed election is not reopened and the separate Secretary-of-State dismissal remains outside that question.
+
+#### In re Application of the United States for an Order Authorizing the Roving Interception of Oral Communications (judgment below: 349 F.3d 1132)
+
+**Docket or dockets:** Supreme Court docket not supplied; Ninth Circuit No. 02-15635.
+
+**Decided:** 2004-01-27.
+
+For the substantive assistance limitation, see Criminal Procedure: Search, Seizure and Interrogation, In re Application of the United States for an Order Authorizing the Roving Interception of Oral Communications, decided January 27, 2004, Ninth Circuit No. 02-15635.
+
+##### Whether expired thirty-day assistance orders remain reviewable — In re Application of the United States for an Order Authorizing the Roving Interception of Oral Communications, 2004-01-27
+
+**Holding:** A challenged action remains reviewable when its duration is too short for full litigation before it ends and there is a reasonable expectation that the same challenger will again face it. The thirty-day assistance orders satisfy the duration requirement, and the Government's anticipated further requests involving this provider establish the required recurrence.
+
+**Proposition-level authority:** Stone-Zsela's opinion of the Court, unanimous; all nine participating Justices directly join this proposition.
+
+**Material application:** The brief authorization prevents completed appellate review, and anticipated new requests concern this same provider rather than unidentified future challengers.
+
+**Operative remedy or transition:** Expiration does not foreclose review of the recurring statutory dispute; it supplies no continuing authority under the expired orders.
+
+#### Freedom From Religion Foundation, Inc. v. McCallum (judgment below: 324 F.3d 880)
+
+**Docket or dockets:** No Supreme Court docket supplied; Seventh Circuit No. 02-3102.
+**Decided:** 2004-02-26.
+
+For the other questions in this decision, see First Amendment — whether voluntary provider selection validates restricted payments buying integrated religious treatment; Federal Courts: Immunities and Remedies — whether prospective relief must stop each proved devotional payment while preserving separated secular services.
+
+##### Whether the identified correctional-contract expenditure supports taxpayer standing — Freedom From Religion Foundation, Inc. v. McCallum, 2004-02-26
+
+**Holding:** The taxpayer plaintiffs may challenge the identified Department of Corrections reimbursements as governmental financing of religious treatment and seek prospective expenditure relief. The accepted standing predicate is the concrete taxpayer-spending and Establishment Clause nexus, not general objection to religious recommendations.
+
+**Proposition-level authority:** Breyer's unanimous opinion of the Court; all nine directly accept this threshold.
+
+**Material application:** The challenged State action pays part of placement costs under the Faith Works contract, and the asserted constitutional limitation concerns that use of public money.
+
+**Limits and questions not reached:** The threshold is confined to this tried expenditure claim. It establishes no general standing for disagreement with executive recommendations.
+
+**Operative remedy or transition:** The Court reaches the financing question and reverses and remands under the payment-specific rule.
+
+#### Arakaki v. Hawaii — appointment standing
+
+**Docket or dockets:** No Supreme Court docket supplied; review of 314 F.3d 1091 (9th Cir. 2002).
+**Decided:** 2004-04-08.
+
+##### Election injury does not establish standing to challenge appointments
+
+**Holding:** A plaintiff must establish an actual or imminent personal injury from the challenged appointment restriction to obtain a judgment on that restriction. Because these plaintiffs show only election-related injury, the appointment claim must be dismissed for lack of standing, without prejudice.
+
+**Proposition-level authority:** Ginsburg's opinion of the Court, unanimous.
+
+**Operative remedy or transition:** Affirm vacatur of appointment relief and dismissal without prejudice. Election-related injury alone supplies no basis to adjudicate the distinct appointment restriction.
+
+**Treatment of earlier authority:** Warth v. Seldin requires the claimant's own actual or imminent injury on the challenged appointment practice.
+
+The elected-candidate equal-protection holding in Arakaki, April 8, 2004, review of 314 F.3d 1091, appears under Election Law.
+
+#### Vieth v. Jubelirer, 541 U.S. 267 — partisan-claim justiciability
+
+**Docket or dockets:** No. 02-1580.
+**Decided:** 2004-04-28.
+
+##### Justiciability of a defined partisan electoral-treatment injury
+
+**Holding:** A claim that district assignments deliberately impose material electoral disadvantage on identified voters because of political affiliation or activity is justiciable under the complete equal-treatment rule adopted in Vieth. The claimant must separately establish personal injury, traceability and likely redress; a statewide partisan grievance or an asserted entitlement to a favored constituency or proportionate delegation is insufficient.
+
+**Proposition-level authority:** Parts I–III and V of Stone-Zsela's opinion, joined by Stevens, Souter, Ginsburg and Breyer; five votes for the complete framework and its qualifications.
+
+**Treatment of earlier authority:** Baker requires a claim-specific manageable-standard inquiry. Bandemer's justiciability holding survives; the substantive standard is supplied here. The Court does not decide an independent First Amendment cause of action.
+
+Vieth's complete four-element rule, proof and defense, April 28, 2004, No. 02-1580, appear under Election Law; its remedial rules appear under Federal Courts: Immunities and Remedies.
+
+
+
+### Recurring ballot-access injuries
+
+#### Belitskus v. Pizzingrilli
+
+**Docket or dockets:** Third Circuit Nos. 01-3747 and 01-3824; no separate Supreme Court docket number is supplied.
+**Decided:** 2004-06-10
+
+For Belitskus v. Pizzingrilli, 2004-06-10, Third Circuit Nos. 01-3747 and 01-3824; no separate Supreme Court docket number is supplied, see Election Law for [Actual inability to pay requires a usable alternative](../HOLDINGS.md#actual-inability-to-pay-requires-a-usable-alternative).
+
+For Belitskus v. Pizzingrilli, 2004-06-10, Third Circuit Nos. 01-3747 and 01-3824; no separate Supreme Court docket number is supplied, see Federal Courts: Immunities and Remedies for [The injunction must cure the proved candidate and party injuries](../HOLDINGS.md#the-injunction-must-cure-the-proved-candidate-and-party-injuries).
+
+##### Recurring candidate and party injuries remain justiciable
+
+**Holding:** Completion of an election does not moot a challenge to a ballot-access condition when the injury is sufficiently likely to recur against the claimant and the election cycle is too short for full review. The established recurring injuries support adjudication for Stith, Linzey and the Pennsylvania Green Party; Donovan's individual claim must be dismissed because the required likelihood of recurrence to him is absent.
+
+**Proposition-level authority:** Kennedy's Part I, joined by all nine Justices, controls the distinct threshold dispositions.
+
+**Material application:** Stith and Linzey show recurring personal candidacy injuries; the party has a continuing nomination injury. Its live claim does not preserve Donovan’s completed injury without likelihood of recurrence to him.
+
+**Operative remedy or transition:** Affirm the live-claim thresholds and Donovan’s mootness dismissal unanimously.
+
+**Treatment of earlier authority:** - Timmons v. Twin Cities Area New Party is applied to the party's concrete nomination interest and the need for effective protection of it.
+- Schrader v. Blackwell is applied to the continuing party's recurring election injury and distinguished from Donovan's unsupported recurrence claim.
+
+### Parental authority and prudential standing
+
+#### Elk Grove Unified School District v. Newdow, 542 U.S. 1
+
+**Docket or dockets:** No. 02-1624.
+**Decided:** 2004-06-14
+
+##### A parental claim intertwined with the opposed authority assigned by the custody order
+
+**Holding:** A parent who has abandoned representation of a child may not obtain adjudication of a claimed personal entitlement to control the child's disputed school religious experience when that entitlement is intertwined with parental authority the operative custody order assigns finally to the other, opposing parent. In this setting prudential standing requires dismissal while preserving the parent's distinct right to teach his own views; a joint-custody label or family disagreement alone does not establish that bar.
+
+**Proposition-level authority:** Stevens's opinion, joined by Kennedy, Souter, Ginsburg and Breyer, supplies five direct joins to this rule and its application.
+
+**Limits and questions not reached:** This confined prudential ground neither expands the domestic-relations jurisdictional exception nor bars every joint-custody parent from showing Article III injury. No Establishment Clause question is reached; Sherman’s civic-Pledge rule remains intact.
+
+**Operative remedy or transition:** Reverse and remand for prudential dismissal on five direct joins. Seven of eight participating Justices support reversal; O’Connor and Thomas concur on a different merits ground, and Stone-Zsela dissents. Scalia did not participate.
+
+**Treatment of earlier authority:** - Warth v. Seldin, 422 U.S. 490: applied to require the claimant's own legal interest in the particular relief sought.
+- Raines v. Byrd: applied for the distinction between a personal legal stake and unauthorized assertion of another's interest; its legislative setting is not treated as a parental-standing rule.
+- Ankenbrandt v. Richards, 504 U.S. 689: preserved; its limited exception for specified domestic decrees supplies no general exclusion of federal constitutional questions.
+- Lujan v. Defenders of Wildlife, 504 U.S. 555: its ordinary personal-injury requirements remain; the Court's disposition rests on the confined prudential ground.
+
+### Completed agency acts and mootness
+
+#### Norton v. Southern Utah Wilderness Alliance, 542 U.S. 55 — Completed agency acts and mootness
+
+**Docket or dockets:** No. 03-101.
+**Decided:** 2004-06-14
+
+For Norton v. Southern Utah Wilderness Alliance, 542 U.S. 55, 2004-06-14, No. 03-101, see Administrative Law for [Section 706(1) requires a discrete act that governing law makes obligatory](../HOLDINGS.md#section-7061-requires-a-discrete-act-that-governing-law-makes-obligatory); [These planning projections do not create the compulsory continuing program alleged](../HOLDINGS.md#these-planning-projections-do-not-create-the-compulsory-continuing-program-alleged).
+
+For Norton v. Southern Utah Wilderness Alliance, 542 U.S. 55, 2004-06-14, No. 03-101, see Environmental Law for [The wilderness standard does not specify the act demanded by this program-wide claim](../HOLDINGS.md#the-wilderness-standard-does-not-specify-the-act-demanded-by-this-program-wide-claim); [Supplementation requires relevant major action remaining to occur](../HOLDINGS.md#supplementation-requires-relevant-major-action-remaining-to-occur).
+
+##### Completion ends the two requests directed solely to initial acts
+
+**Holding:** Requests solely to compel completion of the San Rafael route-designation plan and initial creation of the Henry Mountains use-supervision files are moot because those acts have been completed. They must be dismissed on that ground.
+
+**Proposition-level authority:** Part V's mootness rationale has the eight Associate Justices' direct joins. Stone-Zsela concurs in those two component dispositions.
+
+**Limits and questions not reached:** Completion of the two initial acts does not establish performance of a different continuing duty. The separate continuing monitoring claim fails on its legal-force ground, not mootness.
+
+**Operative remedy or transition:** Dismiss only the route-designation completion and initial file-creation requests as moot. The eight Associates join the rationale; Stone-Zsela concurs in those dispositions.

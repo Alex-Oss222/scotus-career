@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2002
-**Processed through:** June 30, 2003, after all 185 completed OT2002 Court events.
-**Edition:** November 14, 2026
+**Last completed October Term:** 2003
+**Processed through:** June 30, 2004, after all 119 completed OT2003 Court events and the admitted Rule 53 amendment effective December 1, 2003.
+**Edition:** November 22, 2026
 
 ## Business and Commercial Law
 
@@ -2823,3 +2823,46 @@ For Specht’s FAA §4 formation-trial ruling, decided March 31, 2003, judgment 
 **Treatment of earlier authority:** Markman v. Westview Instruments, Inc., 517 U.S. 370, supplies judicial determination of public claim meaning while retaining the distinct factual inquiry. Vitronics Corp. v. Conceptronic, Inc., May 27, 1997, supplies construction from the whole public instrument and the explanatory role of technical evidence; preferred commercial embodiments cannot replace established claim meaning. Both allocations remain unchanged.
 
 For Amazon.com, June 30, 2003, Federal Circuit No. 00-1109, on the preliminary validity burden, application and injunction vacatur, see Federal Courts: Immunities and Remedies — Amazon.com, Inc. v. Barnesandnoble.com, Inc. — preliminary patent relief.
+
+#### SEC v. Edwards, 540 U.S. 389
+
+**Docket or dockets:** No. 02-1196.
+
+**Decided:** 2004-01-13.
+
+##### Whether a fixed, contractually enforceable investment return can satisfy Howey — SEC v. Edwards, 2004-01-13
+
+**Holding:** An investment contract may promise a fixed return: expected income from committed capital qualifies as profit, and a contractual right to payment does not itself eliminate reliance on the entrepreneurial or managerial efforts supplying that return. The SEC must establish an investment of money in a common enterprise with the required expectation of profits from others' efforts, assessed through the complete offered arrangement; these payphone arrangements cannot be excluded merely because the yield is fixed or contractually enforceable.
+
+**Proposition-level authority:** Scalia's opinion of the Court, unanimous; all nine participating Justices directly join this proposition.
+
+**Material application:** The payphone purchase, leaseback and operating services must be considered together. Contractual entitlement describes the duty to pay; it does not generate the resources on which payment depends.
+
+**Limits and questions not reached:** Ordinary consumption purchases and instruments missing other investment-contract elements are not converted into securities. Classification, alleged fraud, preliminary protection and ultimate remedies retain their distinct proof requirements; insufficient revenue and later-investor funding remain allegations at this posture.
+
+**Operative remedy or transition:** The categorical exclusions are reversed. The lower courts must apply the complete definition and resolve remaining enforcement and preliminary-relief requirements; no final restitution or penalty follows from classification alone.
+
+**Treatment of earlier authority:** Howey requires the complete economic arrangement. Forman separates investment income from consumption without exhaustively listing income forms. Reves’s contrary fixed-income suggestion is noncontrolling dictum; its note-category rule survives. Zandford preserves proof of the actual violation and ordinary remedial predicates.
+
+#### Household Credit Services, Inc. v. Pfennig, 541 U.S. 232
+
+**Docket or dockets:** No. 02-857.
+**Decided:** 2004-04-21.
+
+##### The Board may separately classify these over-limit charges
+
+**Holding:** Under 15 U.S.C. §1604(a)'s express classification authority, the Board may reasonably exclude fees for exceeding an agreed credit limit from TILA's finance-charge category while leaving applicable separate disclosure duties in force. Regulation Z §226.4(c)(2) validly makes that classification, and knowingly honoring an over-limit transaction does not by itself require a different classification; the statutory-conflict or unreasonableness challenge fails here.
+
+**Proposition-level authority:** Thomas's unanimous opinion of the Court controls.
+
+**Limits and questions not reached:** Section 1604(a), rather than §1604(f)'s distinct exemption power, supplies the classification authority; §1602(aa) mortgages retain the statutory exclusion from that authority. Regulation Z §226.4(c)(3)'s prior-written-agreement exception addresses overdraft items, not the over-limit-fee category in (c)(2). Separate disclosure duties remain enforceable; the ruling is no general exclusion for all default or credit-related fees.
+
+**Operative remedy or transition:** Reverse and remand to apply the valid exclusion and dismiss the necessary-inclusion theory; any actually pleaded independent disclosure claim requires its own statutory analysis.
+
+**Treatment of earlier authority:**
+
+- **United States v. Mead Corp.:** Applied to actual authority exercised through a binding regulation; its different conclusion about transaction-specific Customs letters does not govern this mechanism.
+- **United States v. Haggar Apparel Co.:** Applied for independent statutory-boundary review followed by reasonableness within genuine delegated ambiguity.
+- **Heimmermann v. First Union Mortgage Corp.:** Applied for actual delegation and preservation of substantive statutory limits; uncertainty alone cannot confer power.
+- **Chevron U.S.A. v. Natural Resources Defense Council:** Applied within those actual authority and statutory limits to the reasonable regulatory choice.
+- **Smiley v. Citibank:** Distinguished as a construction of national-bank interest. That statute's category does not determine the TILA finance-charge category.

@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2002
-**Processed through:** June 30, 2003, after all 185 completed OT2002 Court events.
-**Edition:** November 14, 2026
+**Last completed October Term:** 2003
+**Processed through:** June 30, 2004, after all 119 completed OT2003 Court events and the admitted Rule 53 amendment effective December 1, 2003.
+**Edition:** November 22, 2026
 
 ## Administrative Law
 
@@ -1389,6 +1389,8 @@ For statutory Article III standing, the authorized agency action and sovereign c
 
 The circuit decisions Albright, Doe v. FBI, Nagel and Clarkson inform the distinct statutory elements and remedial routes at their actual scope. Albright's damages questions and Doe's case-specific adverse-effect finding are not imported as findings here. No Supreme Court precedent is overruled.
 
+**Later-authority backlinks:** Doe v. Chao, No. 02-1377, February 24, 2004, resolves the reserved statutory-minimum question: actual damages caused by qualifying intentional or willful noncompliance must be established before the $1,000 minimum is available. MacArthur's personal-adverse-effect holding remains distinct, and the complete definition of actual damages, including emotional harm and its proof, remains open.
+
 ### Medicare reimbursement bases and payment finality
 
 #### Regions Hospital v. Shalala
@@ -2570,3 +2572,337 @@ The hospital civil-action and causal-harm requirements are under Federal Courts:
 **Limits and questions not reached:** The 1999 official account already required actual services and reasonable aggregate compensation. The record establishes no contrary official assurance or newly imposed legislative duty. A clarification label or disagreement with circuit reasoning alone would not establish permissible earlier application.
 
 **Treatment of earlier authority:** Smiley permits judicial use of a current authoritative interpretation without clear contrary earlier guidance; Lechmere preserves binding judicial statutory construction. Landgraf and Bowen continue to govern genuinely new retrospective legislative obligations.
+
+
+### Ascertainable medical-facility duties and residual sanctions
+
+#### Greenville Women's Clinic v. Commissioner — notice and enforcement standards
+
+**Docket or dockets:** Fourth Circuit Nos. 01-2090 and 01-2235; judgment below, 317 F.3d 357.
+**Decided:** October 27, 2003.
+
+##### Whether the ordinary professional and facility standards provide adequate notice
+
+**Holding:** Professional and facility standards satisfy due process when their text, clinical setting and recognized functions make the duty ascertainable and constrain enforcement. The challenged ordinary provisions and section 305(A)'s complete physician-privileges sentence meet that requirement.
+
+**Proposition-level authority:** Ginsburg's Part III-A, unanimous.
+
+**Material application:** The sustained standards concern names, waivers, penalty factors, policies, trained personnel, health and background checks, contagious conditions, qualifications, safe care, equipment, indicated referrals, quality review, safety, sterile storage, cleanliness, odors, grounds, pests and rooms. Their medical and facility functions provide workable content. Section 305(A) addresses staff and consulting physicians, not receptionists, and permits documented Department-approved emergency transfer when hospitalization becomes necessary.
+
+**Limits and questions not reached:** These provisions satisfy the stricter clarity objection without resolving disputed criminal-sanction incorporation. Section 305(A)'s alternative is not an exception to section 309(B).
+
+**Operative remedy or transition:** Affirm rejection of these vagueness claims.
+
+**Treatment of earlier authority:** Hoffman Estates supplies contextual notice review; Grayned distinguishes workable judgment from standardlessness.
+
+##### Whether undefined additional best practices can independently support sanctions
+
+**Holding:** Chapter 10 and section 103(C) cannot support independent sanctions or adverse licensing consequences solely for violating an additional best practice selected by the Department without an adequate legally operative standard. Warnings and mitigation do not supply the missing criterion authorizing compulsory compliance.
+
+**Proposition-level authority:** Ginsburg's Part III-B, joined by Stevens, O'Connor, Kennedy, Souter and Breyer; six Justices.
+
+**Material application:** Chapter 10 concerns otherwise unaddressed conditions; section 103(C) separately classifies breaches of Department-interpreted best practices. This is an operative enforcement branch, not merely authority for future rulemaking. No identified binding criterion establishes which additional practice is compulsory.
+
+**Limits and questions not reached:** The defect exists even with civil licensing consequences, leaving section 44-7-340's disputed criminal linkage undecided. Definite duties, section 103(C)'s residual classification of their violations and lawful prospective standard setting remain effective.
+
+**Operative remedy or transition:** Reverse and remand, 6–3, for a restraint confined to the independent undefined branch until an adequate operative standard exists, preserving severable lawful requirements.
+
+**Treatment of earlier authority:** Morales requires meaningful criteria for initiating compelled compliance; Kolender and Grayned also require guidance against arbitrary enforcement. Warning or mitigation cannot replace a missing legal standard.
+
+For this case's medical and patient-information questions, see Civil Rights — Abortion-facility qualifications and identified inspection records; for clergy arrangements, see First Amendment — Religious arrangements in facility licensing.
+
+### Previous-work capacity in adult disability adjudication
+
+#### Barnhart v. Thomas, 540 U.S. 20
+
+**Docket or dockets:** No. 02-763.
+**Decided:** November 12, 2003.
+
+##### Whether step-four denial requires proof that the former occupation still exists nationally
+
+**Holding:** Sections 423(d)(2)(A) and 1382c(a)(3)(B) permit denial at step four for retained capacity to perform qualifying past relevant work without a separate finding that the occupation exists in significant numbers nationally. The claimant retains the step-four burden; the agency must support actual capacity and comply with valid regulations. National availability governs the later other-work stage. This is a permissible implementation, not the sole statutorily required construction.
+
+**Proposition-level authority:** Souter's opinion of the Court, unanimous.
+
+**Material application:** Congress left interpretive room to distinguish prior-work capacity from other-work vocational conditions. Section 405(a), incorporated for SSI through section 1383(d)(1), and its exercise through binding five-step regulations supply delegated authority. Prior-work ability reasonably measures retained function despite imperfect correspondence with current employment prospects. Administrative practicality supports that permitted choice without overriding statutory limits.
+
+**Limits and questions not reached:** Expertise, complexity and longevity alone do not confer controlling interpretive authority. Thomas's individual elevator job ended; nationwide occupational extinction was asserted rather than found. Actual-capacity and qualifying-work findings remain necessary.
+
+**Operative remedy or transition:** Reverse and remand to apply the valid rule to the established capacity finding and resolve any independently preserved capacity challenge under ordinary substantial-evidence review. Denial stands absent a successful such challenge, without an added occupational-existence inquiry.
+
+**Treatment of earlier authority:** Mead requires actual delegation and exercise; Walton establishes both in this disability scheme. Heimmermann preserves the authorized mechanism and statutory limits. Chevron applies within that assignment and permissible interpretive choice.
+
+### Whether the custody-and-records statutes delegate authority for this detainee-confidentiality rule
+
+#### ACLU of New Jersey v. County of Hudson - custody-record delegation and interim APA procedure
+
+**Docket or dockets:** Appellate Division No. A-4100-01; judgment below, 352 N.J. Super. 44, 799 A.2d 629.
+
+**Decided:** April 13, 2004
+
+##### Whether the custody-and-records statutes delegate authority for this detainee-confidentiality rule — ACLU of New Jersey v. County of Hudson, April 13, 2004
+
+**Holding:** The immigration-administration, Service-records, implementing-regulation and paid nonfederal-custody provisions of 8 U.S.C. §1103(a)(1), (2), (3), (9)(A) and (c), as governing the promulgation, authorize federal control of public disclosure of detainee information acquired through the covered federal custody function. Section 236.6 validly channels that disclosure through applicable federal laws, regulations and executive orders; a voluntary contract alone supplies neither delegated authority nor a power over unrelated county records.
+
+**Proposition-level authority:** Stone-Zsela's unanimous opinion of the Court.
+
+**Material application:** The rule reaches public and private custodians holding detainees for the Service and persons acquiring detainee information through official or contractual relations with those custodians. Records are covered only insofar as they contain that information. Applicable federal disclosure law governs requests; the rule does not categorically deny every request. Detainees retain identification, communication and counsel access under applicable law.
+
+**Limits and questions not reached:** Section 1103(a)(1)'s reserved powers of the President, Secretary of State, State Department officers and diplomatic or consular officers remain intact. Neither rulemaking form nor the Attorney General's legal-ruling proviso replaces independent judicial examination of delegated authority.
+
+**Treatment of earlier authority:** Haggar requires enforcement of statutory boundaries before acceptance of a reasonable delegated choice. Mead requires actual force-of-law authority exercised through the relevant mechanism; the binding custody rule differs from its revisable transaction-specific classification letter.
+
+##### Whether the interim notice independently supports omission of public procedure and the thirty-day delay
+
+**Holding:** Except when a statute requires notice or a hearing, §553(b)(B) permits omission of advance notice and public procedure when the agency finds and briefly explains in the issued rule that such procedure is impracticable, unnecessary or contrary to the public interest. The interim notice’s identified risk of irreversible disclosures satisfies the public-interest ground here; independently, its published explanation establishes good cause under §553(d)(3) to dispense with the ordinary thirty-day period before effectiveness for the public-release demand presented in this case.
+
+**Proposition-level authority:** Stone-Zsela's unanimous opinion; all nine Justices separately support the section 553(b)(B) and section 553(d)(3) grounds.
+
+**Material application:** The published prediction of irreversible disclosures concerned investigative methods, sources, witnesses, investigative scope, intimidation, harm, retaliation and impaired cooperation. Advance procedure would permit disclosure before federal release controls operated; an additional thirty-day delay would independently defeat that protective function. The demand concerns future release after promulgation, with the stated April 17, 2002 effective date distinguished from April 22 publication.
+
+**Limits and questions not reached:** The ruling supplies no general emergency or litigation exception and makes no finding that every detainee has sensitive information. Satisfying one good-cause provision does not satisfy the other. Unchanged final adoption in January 2003 is not an independent procedural holding or cure for a defective interim rule.
+
+For ACLU of New Jersey v. County of Hudson, No. A-4100-01, April 13, 2004, on voluntary custody operations and conflict with state disclosure law, see Constitutional Structure - ACLU of New Jersey v. County of Hudson.
+
+#### Center for National Security Studies v. U.S. Department of Justice (judgment below: 331 F.3d 918)
+
+**Docket or dockets:** Supreme Court docket not supplied.
+
+**Decided:** 2004-01-06.
+
+For the independent constitutional compilation-access claim, see First Amendment, Center for National Security Studies v. U.S. Department of Justice, decided January 6, 2004, judgment below 331 F.3d 918.
+
+##### Whether Exemption 7(A) supports blanket withholding of the detention compilation — Center for National Security Studies v. U.S. Department of Justice, 2004-01-06
+
+**Holding:** An agency invoking 7(A) must establish, through sufficiently specific facts or supported functional categories, how disclosure could reasonably be expected to interfere with pending or reasonably anticipated enforcement proceedings. Courts give supported security predictions substantial weight and may protect sensitive explanations, but must independently assess the connection and reasonable segregation; the undifferentiated showing here does not establish the entire withholding category.
+
+**Proposition-level authority:** Stevens’s opinion, joined by Stone-Zsela, O’Connor, Kennedy, Souter, Ginsburg and Breyer; seven direct joins.
+
+**Material application:** The asserted risks of exposing investigative direction, sources, coordination and misleading evidence can support functional categories, but do not substantiate the entire immigration-detention, material-witness and attorney category on this record.
+
+**Limits and questions not reached:** A national-security label alone is insufficient. Release or deportation does not automatically eliminate investigative value, a protected source need not be culpable, and protected common evidence may support a category without public item-by-item disclosures.
+
+**Operative remedy or transition:** The blanket FOIA disposition is vacated for actual category adjudication. Supported temporary protection and justified protective procedures may remain during review.
+
+**Treatment of earlier authority:** Robbins Tire permits supported functional predictions, not unsubstantiated categorical breadth. Landano’s agency-burden and supported-category discipline extends from its distinct 7(D) confidentiality inquiry to 7(A), while its segregation requirement applies. Klamath requires the actual exemption’s conditions despite a governmental confidentiality purpose.
+
+##### What independent exemptions, sealing and segregation determinations remain necessary — Center for National Security Studies v. U.S. Department of Justice, 2004-01-06
+
+**Holding:** On remand, DOJ retains the burden on each independently invoked exemption, and the court must order disclosure of reasonably segregable nonexempt information. The following distinct predicates govern:
+
+- Under **7(C)**, cognizable personal-privacy interests are balanced against disclosure's illumination of government conduct; association with a terrorism inquiry can create substantial privacy consequences.
+- Under **7(F)**, the agency must support a reasonable expectation of danger to a person's life or physical safety.
+- Under **Exemption 3 and Rule 6(e)**, the inquiry is whether disclosure would reveal protected grand-jury matters.
+- A **sealing order** protects information within the actual order's coverage; the court must identify that order and its reach.
+
+**Proposition-level authority:** Stevens’s opinion, joined by Stone-Zsela, O’Connor, Kennedy, Souter, Ginsburg and Breyer; seven direct joins.
+
+**Limits and questions not reached:** Attorney information needs its own supported connection; professional status neither imports every client exemption nor forfeits safety protection. A material-witness label establishes neither grand-jury secrecy nor the scope of a sealing order.
+
+**Operative remedy or transition:** Courts must order disclosure of reasonably segregable nonexempt information after the separate determinations. The earlier wholesale names-release order is not automatically reinstated.
+
+**Treatment of earlier authority:** Landano requires genuine segregation. Reporters Committee identifies illumination of governmental conduct as the public interest under 7(C), while recognizing compilation-related personal privacy.
+
+##### Whether common law supplies an alternative route to the same executive compilation — Center for National Security Studies v. U.S. Department of Justice, 2004-01-06
+
+**Holding:** Congress's disclosure-and-exemption scheme governs access to the executive compilation at issue. Common law cannot override a valid FOIA exemption or create a second balancing route to the same withheld agency records.
+
+**Proposition-level authority:** Stevens's opinion of the Court, unanimous; all nine participating Justices directly join this proposition.
+
+**Limits and questions not reached:** The decision concerns agency records within FOIA’s disclosure and exemption scheme. Access to a particular judicial record belongs to a different legal channel.
+
+**Operative remedy or transition:** Rejection of the independent common-law compilation-access claim is affirmed.
+
+**Treatment of earlier authority:** Milwaukee v. Illinois supports displacement of federal common law when enacted law addresses the subject; Nixon v. Warner Communications requires use of the applicable statutory access route.
+
+#### Nebraska v. Environmental Protection Agency (judgment below: 331 F.3d 995) — Administrative Law, OT2003
+
+**Docket or dockets:** Supreme Court docket not supplied; D.C. Circuit No. 01-1101.
+
+**Decided:** 2004-01-08.
+
+##### Whether statutory facial review excuses failure to present objections to agency implementation — Nebraska v. Environmental Protection Agency, 2004-01-08
+
+**Holding:** EPA's inability to invalidate its governing statute permits judicial consideration of the facial constitutional claim, but does not excuse nonpresentation of objections to the agency's own implementation that it could meaningfully address. On petitioners' actual nonpresentation and waiver concession, the rule-specific objections remain unpreserved.
+
+**Proposition-level authority:** Part III of Scalia’s opinion, joined by all eight Associate Justices; Stone-Zsela concurs in the judgment on this component.
+
+**Limits and questions not reached:** EPA could interpret its mandate, consider implementation and develop scientific facts even though it could not invalidate Congress’s statute. The ruling follows the actual nonpresentation and waiver concession; it creates no universal agency-presentation rule for every constitutional claim.
+
+**Operative remedy or transition:** The implementation objections remain unpreserved. Denial of the petition for review and the existing arsenic level and compliance schedule remain in force.
+
+#### Alaska Department of Environmental Conservation v. EPA, 540 U.S. 461 — Administrative Law, OT2003
+
+**Docket or dockets:** No. 02-658.
+
+**Decided:** 2004-01-21.
+
+##### Whether EPA’s actual explanation sustains the modified Red Dog construction orders — Alaska Department of Environmental Conservation v. EPA, 2004-01-21
+
+**Holding:** Review under 5 U.S.C. §706(2)(A) sustains EPA's orders when the administrative record supports its conclusion that the State's BACT explanation falls outside the reasoned statutory range. Alaska's abandoned offset rationale and unsupported economic reversal meet that standard here; the operative federal orders are sustained as modified.
+
+**Proposition-level authority:** Ginsburg’s opinion, joined by Stone-Zsela, Stevens, O’Connor, Souter and Breyer; six direct joins.
+
+**Material application:** After finding SCR technically and economically feasible, Alaska abandoned its offset rationale and relied on economic consequences while acknowledging the information needed to assess them was absent. The rural-utility analogy and regional importance did not bridge the gap for this mine. EPA’s actual path is discernible from its orders and correspondence.
+
+**Limits and questions not reached:** Review cannot supply reasons or select technology. Costs remain a statutory factor; Alaska’s top-down method is not universally required, and a missing financial statement does not automatically dictate SCR.
+
+**Operative remedy or transition:** Affirmance sustains the orders as modified. The July 16, 2003 permit’s SCR term remains operative because its condition of an Alaska victory is unmet. Ordinary reasoned reconsideration remains possible; no fresh permit proceeding is ordered.
+
+**Treatment of earlier authority:** INS v. Ventura preserves the agency’s initial decisional role: courts identify legal defects and the responsible agency makes any subsequent BACT determination.
+
+#### California ex rel. Lockyer v. FERC
+
+**Docket or dockets:** No Supreme Court docket supplied; FERC proceedings EC01-49-002 and EC01-41-002; review of 329 F.3d 700 (9th Cir. 2003).
+**Decided:** 2004-03-29.
+
+##### Statutory notice and opportunity for hearing
+
+**Holding:** An expedited approval under Federal Power Act section 203 can satisfy the statutory notice and hearing requirements through informative notice and written proceedings when the agency genuinely considers the material submissions while retaining effective authority to alter its decision, and the issues require no additional fact hearing. The abbreviated periods here, followed by substantive reconsideration, furnished that opportunity; an objector seeking further process must identify a material factual issue or a lost opportunity that the actual process failed to address.
+
+**Proposition-level authority:** Ginsburg's unanimous opinion of the Court controls all three questions in this entry.
+
+**Material application:** Seven- and four-day comment periods were followed by substantive reconsideration under §313, during which FERC could still alter the approvals. Prescribed mailing, late intervention where allowed, written submissions and responsive orders supplied the relevant opportunity; actual receipt was not an added statutory condition.
+
+**Limits and questions not reached:** No universal minimum comment period or rule that postapproval review always cures defective notice follows. Adequacy depends on genuine responsive consideration, effective remedial authority and the absence of an identified factual issue requiring an evidentiary hearing.
+
+##### The creditor's constitutional process claim
+
+**Holding:** Assuming the public power agency had a protected creditor interest, the notice, written submissions and effective reconsideration afforded it constitutionally sufficient process in these proceedings. The nature of the actual dispute required meaningful participation and responsive consideration, rather than a trial-type hearing merely because the proposed transactions might affect creditors.
+
+**Proposition-level authority:** Ginsburg's unanimous opinion of the Court.
+
+**Limits and questions not reached:** A protected creditor interest is assumed, not decided. Meaningful written participation was adequate for these legal and policy objections; trial-type process was unnecessary on the identified dispute.
+
+##### Review of the agency's own public-interest determination
+
+**Holding:** A court reviewing these approvals must evaluate FERC's actual reasons and the supporting administrative record. FERC's consideration of the creditor objection together with the financing and generation interests supports the challenged approvals; disagreement with that assessment supplies no basis to replace the agency's supported determination.
+
+**Proposition-level authority:** Ginsburg's unanimous opinion of the Court.
+
+**Limits and questions not reached:** Independent creditor, fraudulent-transfer and bankruptcy claims retain their own legal requirements and fall outside this procedural review.
+
+**Operative remedy or transition:** Affirm denial of review; the challenged transaction approvals stand without another hearing on these objections.
+
+**Treatment of earlier authority:** Mullane v. Central Hanover Bank & Trust Co. supplies the requirement of notice suited to the affected interests. Mathews v. Eldridge supplies the functional constitutional inquiry; the statute's independent notice and hearing commands retain their force. National Railroad Passenger Corp. v. Boston & Maine Corp. supplies the agency-ground requirement and permits recognition of a discernible actual reason. Arkansas v. Oklahoma supplies whole-record review and bars substitution of a court's preferred policy. Alaska Department of Environmental Conservation v. EPA preserves source-specific statutory authority and reasoned exercise of that authority.
+
+#### National Archives and Records Administration v. Favish, 541 U.S. 157
+
+**Docket or dockets:** No. 02-954.
+**Decided:** 2004-03-30.
+
+##### Living-family privacy and the asserted public interest
+
+**Holding:** Exemption 7(C) permits withholding law-enforcement material whose disclosure could reasonably be expected to constitute an unwarranted invasion of surviving relatives' own privacy through dissemination of a close family member's death images. The agency must establish the law-enforcement and privacy predicates and ultimately justify withholding; when the asserted public benefit is exposing official misconduct or a meaningful investigative deficiency, the requester must identify a significant governmental-transparency interest, supply an objective foundation warranting a reasonable belief that such a deficiency might have occurred, and show a plausible connection between the requested material and that issue, without first proving misconduct itself.
+
+**Proposition-level authority:** Part I of Stevens's opinion, joined by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer, establishes the unanimous rule. All nine also join Part II's application below.
+
+**Limits and questions not reached:** The surviving family asserts its own privacy, not inherited rights or a disclosure veto. Exemption 7(C)'s reasonable-expectation standard differs from Exemption 6. Other demonstrated transparency purposes require their own assessment; an unauthorized degraded image does not waive privacy in official release of the original. FOIA permission to withhold is not an independent prohibition on disclosure.
+
+##### These four protected depictions may be withheld
+
+**Holding:** On this record, the demonstrated family intrusion outweighs the sufficiently supported incremental governmental-transparency value of the four disputed death-scene depictions. The custodian is entitled to summary judgment permitting withholding of their protected material under Exemption 7(C), subject to the ordinary segregability requirement stated in Part III.
+
+**Proposition-level authority:** Part II of Stevens's opinion, joined by all nine Justices.
+
+**Material application:** The actual image-specific gun-hand and shoulder hypotheses and the disclosed investigative work were weighed. Their supported incremental contribution did not outweigh the demonstrated family intrusion; this is not a determination of the cause of death or an inference that official conclusions are infallible.
+
+##### Reasonably segregable nonexempt material must be released
+
+**Holding:** Before complete withholding of a photograph is implemented, the agency must establish that no reasonably segregable nonexempt material remains; any such material must be disclosed after exempt portions are removed. Photographic form creates no exception, and the requester need not prove that a nonexempt portion would be useful or would independently advance the asserted theory.
+
+**Proposition-level authority:** Part III of Stevens's opinion, joined by O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer, supplies eight direct joins to the complete rule and its application. Stone-Zsela concurs in this component's judgment without joining its rationale.
+
+**Limits and questions not reached:** Cropping that still depicts protected remains retains the applicable privacy analysis; omitting a face alone does not resolve exemption. The separate neck-only example concerned an image outside this four-image review.
+
+**Operative remedy or transition:** Reverse and remand for summary judgment permitting withholding of the four protected depictions. Entire-image withholding requires an actual finding that no reasonably segregable nonexempt material remains; otherwise that material must be released.
+
+**Treatment of earlier authority:** United States Department of State v. Ray supplies concrete privacy and incremental-transparency balancing while preserving the possibility of a supported derivative inquiry. Bibles v. Oregon Natural Desert Association and Department of Justice v. Reporters Committee for Freedom of the Press supply the governmental-conduct focus; Exemption 7(C)'s own threshold governs. Department of Defense v. Federal Labor Relations Authority preserves controlled official dissemination and the distinction between FOIA permission and an independent disclosure prohibition. Center for National Security Studies v. United States Department of Justice and United States Department of Justice v. Landano preserve agency persuasion and mandatory segregation under the applicable exemption.
+
+#### Nippon Steel Corp. v. United States, 337 F.3d 1373 (judgment below)
+
+**Docket or dockets:** No separate Supreme Court docket supplied.
+**Decided:** May 10, 2004.
+
+##### Whether Commerce needs intentional misconduct to use an adverse inference under §1677e(b)
+
+**Holding:** Under the governing §1677e(b), Commerce may select available facts adversely when substantial evidence shows that the respondent failed to make the effort within its actual ability to answer an information request. Intentional concealment, willfulness and bad faith are unnecessary, but the agency must establish available capability and inadequate effort separately from the existence of a deficient response.
+
+**Proposition-level authority:** Scalia's unanimous opinion of the Court.
+
+**Material application:** Commerce requested conversion information twice. Nippon's personnel failed to seek routinely maintained, readily available factory records, later admitting that omission; the agency found production nonburdensome. Those findings support the inference despite accelerated investigation and separate sales and production databases. The rule requires the maximum effort within actual capabilities, including reasonable inquiry, without demanding perfection or genuinely unavailable information.
+
+**Operative remedy or transition:** Affirm the adverse-inference component and Commerce's partial adverse-facts determination. The distinct starting-price disposition and mootness treatment of the regulation challenge remain outside the review and operative under the existing mandate.
+
+**Treatment of earlier authority:** Allentown Mack requires whole-record support under the actual announced standard; Boston & Maine requires Commerce's own reasons. Ventura preserves agency responsibility for unresolved findings and delegated calculations but does not require repeating this completed decision. Mead and Haggar retain their actual-authority and statutory-limit distinctions; the Court independently construes the best-ability requirement.
+
+##### What information safeguards qualify available facts and adverse inference
+
+**Holding:** Section 1677e(a) mandates otherwise available facts when necessary information is absent, requested information is withheld, the requested deadline or form is missed, the proceeding is significantly impeded, or information is unverifiable, subject to §1677m(d); the deadline/form branch also preserves §1677m(c)(1) and (e). A supported noncooperation finding under §1677e(b) authorizes, but does not compel, adverse inference, while subsection (c) requires practicable corroboration of secondary information from reasonably available independent sources.
+
+**Proposition-level authority:** The same unanimous opinion adopts all these statutory qualifications.
+
+**Limits and questions not reached:** Under §1677m(c)(1), prompt explanation of inability to meet the requested form or manner, with proposed alternatives, requires consideration of actual ability and permits modifications needed to avoid unreasonable burden. Subsection (c)(2) requires attention to difficulties, especially those of small companies, and practicable assistance. Subsection (d) requires prompt notice of deficiency and, as practicable within investigation limits, an opportunity to explain or correct; disregard of an unsatisfactory or late further response is permissive and remains subject to subsection (e). Subsection (e) requires consideration of necessary information despite unmet requirements when all five conditions hold: timely submission, verifiability, sufficient completeness for a reliable basis, demonstrated best ability in providing the information and satisfying its requirements, and usability without undue difficulty. Subsection (f) separately requires a written explanation of refusal insofar as practicable.
+
+**Material application:** A general opportunity for preverification submissions does not override questionnaire deadlines. Entirely missing conversion data are not merely a minor correction, and submission before verification alone does not compel acceptance under subsection (e). The repeated requests and supported available-record findings sustain the determination with these safeguards preserved.
+
+
+
+### Discrete legally required agency acts
+
+#### Norton v. Southern Utah Wilderness Alliance, 542 U.S. 55
+
+**Docket or dockets:** No. 03-101.
+**Decided:** 2004-06-14
+
+For Norton v. Southern Utah Wilderness Alliance, 542 U.S. 55, 2004-06-14, No. 03-101, see Environmental Law for [The wilderness standard does not specify the act demanded by this program-wide claim](../HOLDINGS.md#the-wilderness-standard-does-not-specify-the-act-demanded-by-this-program-wide-claim); [Supplementation requires relevant major action remaining to occur](../HOLDINGS.md#supplementation-requires-relevant-major-action-remaining-to-occur).
+
+For Norton v. Southern Utah Wilderness Alliance, 542 U.S. 55, 2004-06-14, No. 03-101, see Federal Courts: Justiciability for [Completion ends the two requests directed solely to initial acts](../HOLDINGS.md#completion-ends-the-two-requests-directed-solely-to-initial-acts).
+
+##### Section 706(1) requires a discrete act that governing law makes obligatory
+
+**Holding:** Section 706(1) authorizes a court to compel a discrete agency act that governing law requires and the agency has unlawfully withheld or unreasonably delayed. The claimant must identify the act and establish that legal obligation and withholding or delay; a court may compel a required decision while leaving its permissible substance to the agency, but may not undertake continuing supervision of an administrative program.
+
+**Proposition-level authority:** All nine Justices join Parts I–IV and the live-claim mandate of Thomas's opinion. The same coalition supplies authority for the live-claim holdings below.
+
+**Limits and questions not reached:** A specific statutory deadline is not indispensable to every unreasonable-delay claim. Required decisionmaking can be compelled without dictating permissible substantive choices; nominal agency choice of means does not authorize continuing judicial supervision of a program.
+
+**Treatment of earlier authority:** - Lujan v. National Wildlife Federation, 497 U.S. 871: applied against wholesale program supervision, while permitting review directed to an identifiable agency act.
+- Lincoln v. Vigil: applied to distinguish enforceable law from administrative discretion; the present decision specifies the complete discrete-act rule for §706(1).
+- Bennett v. Spear: applied for an identified binding duty and the proper review channel.
+
+##### These planning projections do not create the compulsory continuing program alleged
+
+**Holding:** Plan conformity prevents agency action inconsistent with an operative land-use plan until amendment, but a plan's prediction of future activity does not by itself create an affirmative duty enforceable under §706(1). A plan can reiterate an independently binding duty or clearly commit the agency to a particular obligatory act; the source, language, function and context must establish that commitment.
+
+**Proposition-level authority:** Parts I–IV of Thomas’s opinion, joined by all nine Justices; direct unanimous support for this live-claim proposition.
+
+**Material application:** The Factory Butte and Henry Mountains terms project monitoring, damage documentation, corrective recommendations, possible designation changes and priority supervision; in context they do not clearly bind BLM to the intensive ongoing program demanded. Informal monitoring or program commencement does not moot this distinct continuing claim.
+
+**Operative remedy or transition:** Dismiss the continuing program demand for lack of the asserted obligatory command. Plan conformity still constrains inconsistent agency action through the proper section 706(2) review channel.
+
+**Treatment of earlier authority:** - Lincoln v. Vigil: applied to distinguish enforceable law from administrative discretion; the present decision specifies the complete discrete-act rule for §706(1).
+- Bennett v. Spear: applied for an identified binding duty and the proper review channel.
+
+### Functional membership in a federal advisory committee
+
+#### Cheney v. United States District Court for the District of Columbia, 542 U.S. 367 — Functional membership in a federal advisory committee
+
+**Docket or dockets:** No. 03-475.
+**Decided:** 2004-06-24
+
+For Cheney v. United States District Court for the District of Columbia, 542 U.S. 367, 2004-06-24, No. 03-475, see Federal Courts: Immunities and Remedies for [Which requirements govern appellate mandamus and the distinct underlying enforcement routes](../HOLDINGS.md#which-requirements-govern-appellate-mandamus-and-the-distinct-underlying-enforcement-routes); [Whether the appellate court must reconsider the petition or issue the writ immediately](../HOLDINGS.md#whether-the-appellate-court-must-reconsider-the-petition-or-issue-the-writ-immediately).
+
+For Cheney v. United States District Court for the District of Columbia, 542 U.S. 367, 2004-06-24, No. 03-475, see Constitutional Structure for [Whether concrete discovery burdens on presidential advisory work must await formal executive privilege claims](../HOLDINGS.md#whether-concrete-discovery-burdens-on-presidential-advisory-work-must-await-formal-executive-privilege-claims).
+
+##### When a private participant is a functional FACA member despite the wholly federal membership exclusion
+
+**Holding:** Under FACA’s definition and its exclusion for a body composed wholly of federal officers or employees, a private person may be a functional member when sustained participation integrates that person into an established body’s internal collective deliberative and advisory work. Formal appointment, voting, veto or final governmental decisionmaking authority is not indispensable; access, attendance, lobbying, consultation, influence or outside recommendations without that integration is insufficient.
+
+**Proposition-level authority:** Part III of Stone-Zsela's opinion of the Court, joined by Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer; seven direct joins independently of the disagreement over appellate relief.
+
+**Material application:** Regular internal meetings, continuing responsibilities, developing collective recommendations, drafting the report and work materially indistinguishable from recognized members can show integration. No one fact automatically establishes membership; labels and assertions of influence are not conclusive.
+
+**Limits and questions not reached:** The inquiry concerns an established organized advisory body. Private integration here remains disputed; actual coverage and final enforcement require factual and claim-specific adjudication through an available legal route.
+
+**Treatment of earlier authority:** Public Citizen v. Department of Justice supplies contextual statutory caution without a blanket presidential-advice exemption. The functional reasoning of Association of American Physicians & Surgeons v. Clinton is adopted to distinguish integrated members from outside consultants. The statutory inquiry must preserve the independent requirements of the asserted enforcement channel.

@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2002
-**Processed through:** June 30, 2003, after all 185 completed OT2002 Court events.
-**Edition:** November 14, 2026
+**Last completed October Term:** 2003
+**Processed through:** June 30, 2004, after all 119 completed OT2003 Court events and the admitted Rule 53 amendment effective December 1, 2003.
+**Edition:** November 22, 2026
 
 ## Federal Taxation
 
@@ -1352,3 +1352,48 @@ For whether bankruptcy changes the ultimate persuasion burden assigned by the su
 **Operative remedy or transition:** Both judgments are affirmed. Boeing receives no refund on its rejected product-line theory. The conditional cross-petition fails, leaving Boeing Sales Corporation's favorable judgment intact; no new tax or refund amount is fixed.
 
 **Treatment of earlier authority:** United Dominion requires the computation established by the operative regulatory scheme; here that scheme expressly includes the research-allocation rule.
+
+
+### Genuine tax partnerships and separate adjustment theories
+
+#### Boca Investerings Partnership v. United States
+
+**Docket or dockets:** Review of the judgment reported at 314 F.3d 625.
+**Decided:** November 6, 2003.
+
+##### Whether recognition requires a separate nontax necessity for partnership form
+
+**Holding:** Sections 761 and 7701(a)(2) require genuine intent to conduct a joint enterprise and share its economic results, assessed from agreement, conduct, contributions, control, risks and the actual relationship. No separate nontax necessity for partnership form is required. Tax avoidance can evidence artificiality but does not alone disqualify a genuine enterprise; actual transactions alone likewise cannot establish one. Ordinary tax burdens remain.
+
+**Proposition-level authority:** Kennedy's opinion of the Court, unanimous.
+
+**Material application:** The appellate court sustained detailed trial findings, including actual sharing of results, but made nontax necessity for the elaborate entity indispensable. Ability to invest directly cannot itself defeat recognition. Foreign entities, financing, planned exits, premiums, structuring costs, allocation sequence and actual exposure remain relevant. A supported absence of shared business purpose can defeat recognition under the proper rule.
+
+**Treatment of earlier authority:** Culbertson supplies whole-undertaking review and Tower the actual economic relationship. Gregory preserves examination of whether the statutory arrangement exists. Gitlitz requires enacted consequences once prerequisites are met without establishing partnership qualification or an independent anti-benefit veto.
+
+##### How factual review and entity and transaction grounds remain distinct
+
+**Holding:** Recognition law receives independent appellate review; trial findings receive Rule 52 clear-error review. Entity nonrecognition may allocate otherwise recognized gains and losses to AHP, whereas an independently established transaction sham may eliminate the transactions' consequences. Each ground requires separate adjudication.
+
+**Proposition-level authority:** The same unanimous opinion.
+
+**Limits and questions not reached:** Another taxpayer's findings cannot replace those made here, and a finding described as partnership intent does not shield ultimate statutory qualification from legal review. Rejection of the necessity prerequisite grants neither recognition nor a refund.
+
+**Operative remedy or transition:** Vacate and remand for genuine-enterprise review on supported findings and separate resolution of preserved adjustment theories. The Government preserved its nontax-purpose argument in its trial memorandum. Necessary factfinding belongs in the proper trial forum; computations follow the supported disposition for the years and adjustments under review.
+
+#### United States v. Galletti, 541 U.S. 114
+
+**Docket or dockets:** No. 02-1389.
+**Decided:** 2004-03-23.
+
+##### The same assessed tax may be collected from independently liable general partners
+
+**Holding:** A timely assessment of a partnership's employment tax preserves the statutory collection period under § 6502(a) for judicial collection of that tax from general partners independently liable for the same debt under state law; the Code does not require duplicate assessments solely because collection is sought from those partners. The Government must establish the timely assessed obligation and amount, the applicable basis of each partner's liability and the requirements of the collection proceeding, so the absence of a second assessment alone cannot defeat these bankruptcy claims.
+
+**Proposition-level authority:** Breyer's opinion for the unanimous Court, joined in full by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg, controls the assessment rule and reversal.
+
+**Limits and questions not reached:** The rule is confined to judicial collection of the same timely assessed partnership tax. Independent personal taxes and separately created penalties retain their own assessment requirements, and each collection procedure retains its safeguards.
+
+**Operative remedy or transition:** Reverse the duplicate-assessment bar and remand the bankruptcy claims for determination of amount, individual liability, remaining defenses and applicable procedure.
+
+**Treatment of earlier authority:** United States v. Updike supplies the distinction between assessment of an obligation and collection from persons legally responsible for it; the current statutory collection period governs this case. United States v. Fior D'Italia, Inc. remains the employer-estimation decision it was: identifying the enacted obligation does not merge distinct liabilities or their assessment rules.

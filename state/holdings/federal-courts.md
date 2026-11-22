@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2002
-**Processed through:** June 30, 2003, after all 185 completed OT2002 Court events.
-**Edition:** November 14, 2026
+**Last completed October Term:** 2003
+**Processed through:** June 30, 2004, after all 119 completed OT2003 Court events and the admitted Rule 53 amendment effective December 1, 2003.
+**Edition:** November 22, 2026
 
 ## Federal Courts
 
@@ -6699,3 +6699,277 @@ The EMTALA duty is under Administrative Law, and the hospital civil-action requi
 **Operative remedy or transition:** The discovery reconsideration direction is affirmed. Certification must be denied or limited if the proposed arrangement cannot fairly adjudicate the relevant differences, preserving viable individual claims; no categorical bar to an employment class follows.
 
 **Treatment of earlier authority:** Bridgestone/Firestone requires examination of an actual workable arrangement rather than a general assertion of commonality; its product and state-law differences do not decide this employment class's outcome.
+
+#### Concrete Works of Colorado v. City and County of Denver (judgment below: 321 F.3d 950) — Federal Courts, OT2003
+
+**Docket or dockets:** Supreme Court docket not supplied.
+
+**Decided:** 2003-12-18.
+
+##### Whether an unchallenged fit determination governs later stages of the same litigation — Concrete Works of Colorado v. City and County of Denver, 2003-12-18
+
+**Holding:** An earlier determination in the same litigation ordinarily governs a later stage when the available appeal left it unchallenged and the challenged program has not materially changed. Substantially different evidence, contrary intervening controlling law, or clear error producing manifest injustice may justify departure; none is established for this preserved fit issue.
+
+**Proposition-level authority:** Ginsburg's opinion of the Court, unanimous; all nine participating Justices directly join this proposition.
+
+**Limits and questions not reached:** Law of the case regulates reconsideration as a judicial practice, not subject-matter jurisdiction. No material program amendment or supported exception reopens this fit question. Applying Adarand’s actual standard does not alone reopen an earlier, more demanding fit determination; genuinely preserved new issues retain their independent status.
+
+**Operative remedy or transition:** The earlier fit determination remains effective and supplies its limited part of the constitutional analysis; the developed findings support judgment without new appellate factfinding.
+
+#### Baldwin v. Reese, 541 U.S. 27 — Federal Courts, OT2003
+
+**Docket or dockets:** No. 02-964.
+**Decided:** 2004-03-02.
+
+For the other questions in this decision, see Federal Courts: Habeas and Collateral Review — whether discoverability in a separate lower opinion fairly presents an unidentified federal claim.
+
+##### Whether permission to hear an included respondent argument requires deciding late equivalence — Baldwin v. Reese, 2004-03-02
+
+**Holding:** The Court has discretion to consider an included legal argument defending the same favorable judgment, but that permission does not require resolution of the state/federal-equivalence contention first advanced in the Supreme Court merits brief. The Court declines that contention under Rule 15.2 because of its complexity, broader implications and lack of lower-court treatment.
+
+**Proposition-level authority:** Stone-Zsela's opinion, joined by O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer: eight direct joins.
+
+**Material application:** The equivalence contention was not addressed below. The nonreach is a discretionary judgment on this record, not a jurisdictional rule barring every new respondent argument.
+
+**Limits and questions not reached:** Guinn's ultimate effect on substantive equivalence or fair notice remains undecided.
+
+**Operative remedy or transition:** The fair-presentation reversal and ordinary procedural remand stand without adjudication of the late equivalence theory.
+
+**Treatment of earlier authority:** United States v. X-Citement Video and Lebron v. National Railroad Passenger Corporation retain permission to consider an included defense of the same judgment; neither makes that consideration compulsory here.
+
+#### Ammex, Inc. v. United States
+
+**Docket or dockets:** Federal Circuit No. 02-1498; review of 334 F.3d 1052 (2003); no separate Supreme Court docket supplied.
+**Decided:** 2004-04-20.
+
+##### The earlier judgment does not preclude this distinct later action
+
+**Holding:** A judgment invalidating a particular administrative determination does not bar a genuinely later, distinct agency action based on a subsequently developed determination outside the adjudicated claim; a different legal label on the same operative action would not suffice. The party asserting preclusion must establish the required claim identity or actual issue determination within the earlier judgment's scope, which Ammex has not established for this IRS-dependent revocation.
+
+**Proposition-level authority:** Kennedy's unanimous opinion of the Court controls.
+
+**Limits and questions not reached:** A new legal label for the same operative action does not escape preclusion. The later IRS-dependent revocation followed a distinct subsequently developed determination; its substantive tax validity is outside this enforcement review.
+
+**Operative remedy or transition:** The earlier judgment remains binding within its actual scope. Challenge to the later revocation requires the proper statutory review channel.
+
+**Treatment of earlier authority:**
+
+- **SEC v. First Jersey Securities:** Applied to preserve finality while distinguishing later operative transactions; similarity in business activity does not expand the first adjudicated claim.
+- **Lawlor v. National Screen Service:** Applied for the same distinction between later conduct and relitigation of one claim.
+- **Arizona v. California, June 19, 2000, Part II:** Applied for the distinction between a final judgment's actual scope and a predicate never determined.
+- **Montana v. United States:** Applied to the actual-determination requirement for issue preclusion.
+- **Semtek International v. Lockheed Martin:** Applied to identify preclusion's proper source and scope; its diversity-specific incorporation rule is distinguished.
+
+For Ammex's contempt holding, April 20, 2004, Federal Circuit No. 02-1498, see Federal Courts: Immunities and Remedies.
+
+#### Batzel v. Smith
+
+**Docket or dockets:** No Supreme Court docket supplied; review of 333 F.3d 1018 (9th Cir. 2003).
+**Decided:** 2004-03-18.
+
+##### Federal appellate jurisdiction over the special-motion denial
+
+**Holding:** Denial of a California anti-SLAPP motion in federal court is not immediately appealable under 28 U.S.C. § 1291 merely because state law permits an appeal or describes protection from litigation. This category of merits-linked probability-of-success screening and ordinary liability defense remains effectively reviewable after final judgment, and therefore fails the cumulative collateral-order requirements; the Ninth Circuit lacked jurisdiction to decide the moderator's § 230 defense on this appeal.
+
+**Proposition-level authority:** Stevens's opinion for the unanimous Court, joined in full by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer, controls the jurisdictional rule and mandate.
+
+**Limits and questions not reached:** The sponsor's independent final judgment cannot supply jurisdiction over the moderator's distinct interlocutory defense. The Court does not reach the actual-intent, reasonable-perception or broader supplied-content constructions of §230 because this appeal is unauthorized.
+
+**Operative remedy or transition:** Vacate the interlocutory appellate disposition and remand for dismissal of the moderator's appeal for want of appellate jurisdiction; the independent sponsor judgment remains intact.
+
+**Treatment of earlier authority:** Cohen v. Beneficial Industrial Loan Corp. retains its narrow cumulative collateral-order requirements. Digital Equipment Corp. v. Desktop Direct, Inc. is applied through its independent adequate-final-review holding; the private-settlement importance rationale does not erase California's public expression interest. Swint v. Chambers County Commission supplies the distinction between ordinary liability defenses and independently appealable immunity, and the limit on adding a separate party's nonappealable defense for convenience.
+
+#### Benjamin v. Fraser, 343 F.3d 35 (judgment below) — Federal Courts, OT2003
+
+**Docket or dockets:** No separate Supreme Court docket supplied.
+**Decided:** May 20, 2004.
+
+##### Whether the OCC's restricted actual delegation makes it a PLRA special master
+
+**Holding:** Classification under §3626(f) turns on actual delegated powers, not the monitor's title. The OCC's limited observation, information collection, informal compliance assistance and reporting leave disputes and enforcement to independent judicial decision and do not constitute a special-master appointment; the appointment's defender must provide a supported account of those actual functions, and a material expansion requires renewed functional assessment.
+
+**Proposition-level authority:** Part II of Souter's opinion, joined by Stone-Zsela, Stevens, Kennedy, Ginsburg and Breyer; six Justices.
+
+**Limits and questions not reached:** The judge must independently classify the arrangement and evaluate its reports as contestable evidence. The supported-functions requirement does not allocate the ultimate risk of uncertainty in every classification dispute. Amended Rule 53 reaches qualifying pretrial and posttrial work, investigation and enforcement duties, and generally de novo consideration of challenged findings; absence of binding findings or trial hearings alone therefore proves no exemption. The OCC does not conduct adjudicatory hearings, subpoena or swear witnesses, rule on evidence, resolve discrete disputes or issue findings carrying prescribed deference. Its complete restricted delegation, rather than an exemption for monitors generally, controls.
+
+**Independent alternative holding:** Section 3626(f)'s appointment machinery does not recreate the completed 1982 appointment when later orders continue and adjust the same entity. That continuity independently permits the restricted arrangement to continue, subject to present prospective-relief restrictions in §§3626(a) and (b).
+
+**Proposition-level authority for alternative holding:** Part III of Souter's opinion, joined by Stevens, Kennedy, Ginsburg and Breyer; five direct joins. Stone-Zsela does not join this alternative ground.
+
+**Operative remedy or transition:** Affirm the restricted OCC continuation, 6–3. The December 1, 2003 Rule 53 amendment applies to pending proceedings insofar as just and practicable; it does not itself erase the original appointment or excuse present-relief requirements.
+
+**Treatment of earlier authority:** Ex parte Peterson permits differentiated judicial assistance while retaining judicial responsibility. Benjamin v. Jacobson requires present statutory fit for continued prospective obligations; the pre-enactment origin creates no unlimited exemption.
+
+For Benjamin, decided May 20, 2004, no separate Supreme Court docket supplied, the constitutional pretrial-conditions rule is in Civil Rights and continuing remedial requirements are in Federal Courts: Immunities and Remedies.
+
+#### Grupo Dataflux v. Atlas Global Group, L.P., 541 U.S. 567 (2004)
+
+**Docket or dockets:** No. 02-1689.
+**Decided:** May 17, 2004.
+
+##### Whether a continuing partnership cures original nondiversity by changing its members
+
+**Holding:** Diversity for a continuing party is determined at commencement. Removing nondiverse partners after filing does not cure the original defect while the same partnership remains the litigant; the party invoking federal jurisdiction must establish the citizenship required at that controlling time.
+
+**Proposition-level authority:** Scalia's opinion, joined by Stone-Zsela, O'Connor, Kennedy and Thomas; five Justices.
+
+**Material application:** Atlas's Mexican partners made it nondiverse from Grupo when it sued. Their pretrial departure changed Atlas's attributed citizenship, not the identity of the plaintiff. Their appearance on a counterclaim does not transform membership withdrawal into a court-ordered dismissal curing the original plaintiff's citizenship.
+
+**Limits and questions not reached:** Section 1653 cures defective allegations, not the missing jurisdictional facts. Lawful dismissal of an actual dispensable party, with dispensability and prejudice review, remains a distinct cure. Expense, consent and delayed objection cannot supply jurisdiction.
+
+**Operative remedy or transition:** Reverse and remand for dismissal without prejudice. The verdict supports no federal merits judgment, and any dependent judgment must be vacated; a new action must independently establish jurisdiction and satisfy applicable limitations.
+
+**Treatment of earlier authority:** Carden attributes all partners' citizenship, and Mollan fixes the commencement inquiry. Newman-Green preserves actual-party dismissal under its conditions. Caterpillar's cure by lawful dismissal producing complete diversity before trial and through judgment does not extend to changed citizenship of the same party. Kontrick distinguishes subject-matter jurisdiction from forfeitable processing rules.
+
+#### Johnson v. California, 541 U.S. 428 (2004)
+
+**Docket or dockets:** No. 03-6539.
+**Decided:** May 3, 2004.
+
+##### Whether rejection of a federal jury-selection claim is final while independent appellate claims remain
+
+**Holding:** A state judgment rejecting a federal ground for reversal is not final under §1257(a) while substantive independent appellate claims remain and effective review of the federal issue can follow an adverse final judgment, absent an established Cox practical-finality exception. The jurisdiction-invoking party must establish finality or the exception; agreement between the parties cannot supply it.
+
+**Proposition-level authority:** Unanimous per curiam opinion.
+
+**Material application:** The unresolved evidence and prosecutorial-misconduct claims require substantive decision and may eliminate the jury-selection dispute. Later review can effectively protect the asserted right. Correcting the jury-selection ruling would provide conviction relief and permit further criminal proceedings, rather than protect against litigation itself; ordinary delay threatens no distinct destruction of federal policy. None of Cox's four routes applies.
+
+**Limits and questions not reached:** The importance of the Batson right creates no general immediate-review exception. The challenged first-stage Batson standard receives no merits ruling or federal endorsement.
+
+**Operative remedy or transition:** Dismiss for want of jurisdiction, leaving the existing state remand operative and supplying no federal merits mandate.
+
+**Treatment of earlier authority:** Florida v. Thomas applies statutory finality to an unfinished substantive remand. Cox Broadcasting preserves its four practical-finality categories on their own predicates. Jefferson v. City of Tarrant distinguishes a settled issue from a final judgment; Pennsylvania v. Ritchie requires that later review remain practically effective.
+
+
+
+### Appellate reconsideration and tax-forum restrictions
+
+#### Hibbs v. Winn, 542 U.S. 88
+
+**Docket or dockets:** No. 02-1809.
+**Decided:** 2004-06-14
+
+##### Genuine court-initiated reconsideration suspends finality
+
+**Holding:** When an appellate court begins genuine reconsideration capable of changing the parties' adjudicated rights before the original §2101(c) period expires, the ninety-day period for Supreme Court review runs from disposition of that reconsideration. A mandate recall alone or a nominal order merely extending this Court's filing time is insufficient; this petition is timely because substantive rehearing briefing began within the original period and the petition followed within ninety days after rehearing ended.
+
+**Proposition-level authority:** All nine Justices join Part I of Ginsburg's opinion.
+
+**Limits and questions not reached:** The rule enforces section 2101(c) from actual finality rather than equitably enlarging it. An unentertained suggestion, mandate recall alone or an order merely extending this Court’s filing time is insufficient.
+
+**Treatment of earlier authority:** - Young v. Harper: extended from accepted party rehearing to genuine court-initiated reconsideration begun within the original review period.
+
+##### The requested relief does not restrain protected assessment, levy or collection
+
+**Holding:** Section 1341 bars federal restraint of a State's assessment, levy or collection of taxes when a plain, speedy and efficient state remedy exists; it does not bar this third-party challenge seeking disallowance of credits, the related declaration and transfer of remaining organizational funds, because those remedies do not restrain the protected imposition or collection of tax liabilities. The rule turns on the actual operation of relief, not a categorical exemption for third parties, constitutional claims, credit challenges or suits increasing revenue.
+
+**Proposition-level authority:** Part II has six direct joins: Ginsburg, Stone-Zsela, Stevens, O'Connor, Souter and Breyer.
+
+**Material application:** Plaintiffs seek no reduction of their own tax liabilities. Disallowance of credits permits collection of the full tax; the declaration and transfer of organizations’ remaining funds neither refund plaintiffs’ taxes nor impede collection.
+
+**Limits and questions not reached:** Article III standing, genuinely distinct preserved barriers, the constitutional merits and entitlement to each remedy remain for ordinary adjudication below.
+
+**Operative remedy or transition:** Affirm rejection of section 1341 dismissal, 6–3, and remand; coverage turns on actual relief rather than the claim’s constitutional or tax-credit label.
+
+**Treatment of earlier authority:** - California v. Grace Brethren Church, 457 U.S. 393: preserved; declaratory relief cannot evade an applicable restriction on tax collection, and a constitutional claim creates no automatic exemption.
+- Arkansas v. Farm Credit Services of Central Arkansas: distinguished because the requested relief there restrained taxation; a substantive tax privilege does not itself create access to a federal forum.
+
+##### General interference with tax administration does not independently require dismissal here
+
+**Holding:** The same challenge is not barred on comity grounds merely because it affects state tax administration. Fair Assessment and Great Lakes concern efforts to arrest or countermand tax collection and do not require dismissal of this claim simply because the challenged subsidy is located in the tax code.
+
+**Proposition-level authority:** Part III has the five direct joins of Ginsburg, Stevens, O'Connor, Souter and Breyer.
+
+**Operative remedy or transition:** The generalized tax-administration comity argument is rejected by five direct joins and may not be repeated as a mandatory bar to this same action. Other genuine thresholds retain their own requirements.
+
+**Treatment of earlier authority:** - Fair Assessment in Real Estate Ass'n v. McNary, 454 U.S. 100, and Great Lakes Dredge & Dock Co. v. Huffman, 319 U.S. 293: distinguished as collection-interference cases, rather than a freestanding bar to this subsidy challenge.
+
+### Complete ERISA preemption and removal of benefit-denial claims
+
+#### Aetna Health Inc. v. Davila and CIGNA HealthCare of Texas, Inc. v. Calad, 542 U.S. 200
+
+**Docket or dockets:** Nos. 02-1845 and 03-83.
+**Decided:** 2004-06-21
+
+##### A claim duplicating the federal benefits cause is completely preempted
+
+**Holding:** A state-law claim is completely preempted by ERISA when the claimant could, at some point, have pursued the disputed plan benefit under §502(a)(1)(B) and no legal duty independent of the plan entitlement supports the challenged conduct. The removing defendant must establish federal jurisdiction and both predicates; a later bodily injury or different damages demand does not change the source of the duty, while an independently operating treatment duty remains distinct.
+
+**Proposition-level authority:** Kennedy’s opinion of the Court, unanimous; all nine Justices join the common test, both applications and mandate.
+
+**Limits and questions not reached:** Ordinary defensive preemption alone does not permit removal. The actual function and source of obligation control: medical information does not convert coverage administration into physician treatment, and insurance involvement does not convert independent treatment negligence into administration. Saved substantive coverage conditions retain section 502’s enforcement limits.
+
+**Treatment of earlier authority:** - Metropolitan Life Insurance Co. v. Taylor: applied as the specific ERISA complete-preemption and removal rule.
+- Beneficial National Bank v. Anderson: applied to distinguish replacement by an exclusive federal cause from ordinary defensive preemption.
+- Pegram v. Herdrich: applied to distinguish treatment from administration of plan coverage; medical information alone does not make administration treatment.
+- Rush Prudential HMO, Inc. v. Moran: applied to preserve §502 enforcement despite a saved substantive coverage condition.
+- Kentucky Association of Health Plans, Inc. v. Miller: preserved in its separate insurance-saving inquiry and federal-enforcement boundary.
+- Eichorn v. AT&T Corp.: applied to require an authorized remedial channel and the actual predicates of genuine equitable relief.
+
+##### Both pleaded coverage-denial claims satisfy that rule
+
+**Holding:** Davila's challenge to the administrator's drug-coverage denial and Calad's challenge to the administrator's further-hospitalization coverage denial each could have pursued the asserted plan entitlement under §502(a)(1)(B), and neither identified claim rests on an independently operating treatment duty. Both claims are therefore completely preempted, removal was proper in each case, and the contrary Fifth Circuit judgments must be reversed.
+
+**Proposition-level authority:** Kennedy’s opinion of the Court, unanimous; all nine Justices join the common test, both applications and mandate.
+
+**Material application:** Davila challenges drug-coverage denial and Calad further-hospitalization coverage denial. Their alleged ensuing physical injuries and Texas ordinary-care labels do not establish a duty independent of the asserted plan entitlement. The lack of equivalent consequential compensation cannot create a competing enforcement cause.
+
+**Operative remedy or transition:** Reverse and remand in both dockets, unanimously, respecting the district dismissals after each patient declined to amend to assert an ERISA cause. Any preserved procedural matter remains governed by ordinary rules.
+
+### Evidence assistance for foreign adjudication
+
+#### Intel Corp. v. Advanced Micro Devices, Inc., 542 U.S. 241
+
+**Docket or dockets:** No. 02-572.
+**Decided:** 2004-06-21
+
+##### Whether an interested complainant may obtain evidence for a reasonably contemplated foreign adjudication
+
+**Holding:** A district court may provide assistance under 28 U.S.C. §1782(a) upon an interested person’s application for evidence from a person residing or found in the district, for use in a reasonably contemplated proceeding before a foreign governmental body exercising adjudicative authority. The applicant need not await a pending or imminent adjudication; practical rights to submit evidence and obtain review may establish the required interest without formal litigant status.
+
+**Proposition-level authority:** Scalia's opinion of the Court, joined by Stone-Zsela, Stevens, Kennedy, Souter, Thomas and Ginsburg; seven of eight participating Justices. O'Connor took no part.
+
+**Material application:** AMD's rights to submit evidence and obtain review establish its practical interest; the Commission's first-instance competition determination, subject to judicial review, supplies the adjudicative function. Its mixed investigative role does not exclude that function.
+
+**Limits and questions not reached:** The anticipated adjudication must rest on more than speculation. The Commission's investigative directorate need not itself request the evidence; its refusal does not extinguish AMD's right to apply. Statutory eligibility does not decide what production is appropriate.
+
+##### Whether foreign discoverability or an analogous domestic discovery entitlement is required
+
+**Holding:** Section 1782 does not require the applicant to show that the evidence would be discoverable under foreign law or that an analogous domestic proceeding would permit the same discovery. Differences in national procedures do not alone establish an effort to evade foreign restrictions.
+
+**Proposition-level authority:** Scalia's opinion of the Court, joined by Stone-Zsela, Stevens, Kennedy, Souter, Thomas and Ginsburg; seven of eight participating Justices. O'Connor took no part.
+
+**Limits and questions not reached:** Foreign practices, policies and the Commission's position remain relevant to discretion. Refusal to request evidence and absence of comparable procedures are not categorical statutory vetoes.
+
+##### How the district court must exercise discretion over an eligible assistance request
+
+**Holding:** An eligible application does not compel production. The district court must exercise reasoned discretion in light of the contemplated proceeding and requested assistance, considering the foreign body’s receptivity, the nature and character of its proceeding, access to evidence through a participant within that body’s reach, actual circumvention of foreign proof-gathering restrictions or policies, and undue intrusion or burden; no order may violate a legally applicable privilege.
+
+**Proposition-level authority:** Scalia's opinion of the Court, joined by Stone-Zsela, Stevens, Kennedy, Souter, Thomas and Ginsburg; seven of eight participating Justices. O'Connor took no part.
+
+**Limits and questions not reached:** The stated considerations guide discretion rather than operate as cumulative eligibility conditions. The court may deny, narrow or condition assistance with reasons and may protect confidentiality; it must distinguish disapproval of a mechanism from an operative foreign restriction.
+
+**Operative remedy or transition:** The Ninth Circuit's judgment is affirmed. The application returns for a reasoned decision identifying the materials, their use in the contemplated proceeding, and actual privilege, burden and protection issues; no particular production is ordered.
+
+**Treatment of earlier authority:** F. Hoffmann-La Roche Ltd. v. Empagran S.A. supplies respect for foreign regulatory interests through the statute actually at issue. Its construction of antitrust coverage does not eliminate Congress’s affirmative authorization of foreign evidentiary assistance.
+
+### Three-judge district courts in congressional-apportionment litigation
+
+#### Duckworth v. State Administration Board of Election Laws, 332 F.3d 769 (judgment below)
+
+**Docket or dockets:** No Supreme Court docket number stated.
+**Decided:** 2004-06-23
+
+For Duckworth v. State Administration Board of Election Laws, 332 F.3d 769 (judgment below), 2004-06-23, No Supreme Court docket number stated, see Election Law for [What rule and pleading requirements govern the preserved partisan equal-treatment claim](../HOLDINGS.md#what-rule-and-pleading-requirements-govern-the-preserved-partisan-equal-treatment-claim).
+
+##### Whether ordinary failure to state a claim permits a single judge to bypass section 2284
+
+**Holding:** When a plaintiff presents a constitutional challenge to congressional apportionment within federal jurisdiction, §2284 requires a three-judge district court unless the constitutional claim is wholly insubstantial, obviously frivolous or clearly foreclosed. A single judge may not equate ordinary failure to state a claim with that exceptional category and enter a merits dismissal.
+
+**Proposition-level authority:** Thomas's unanimous opinion of the Court. All nine join statutory tribunal allocation and application of existing Vieth law; their joins do not enlarge Vieth's constitutional coalition.
+
+**Material application:** The pleaded purposeful impairment of Republican participation presents a substantial Fourteenth Amendment claim. Prior unsuccessful litigation over a different map supplies no categorical pleading bar.
+
+**Operative remedy or transition:** Vacate and remand. The district judge must notify the chief circuit judge and request the additional judges; the statutory panel decides the preserved claim, permissible amendment and any supported relief.
+
+**Treatment of earlier authority:** Goosby v. Osser supplies the distinction between a wholly insubstantial claim and ordinary merits insufficiency. Vieth supplies the existing substantive claim that makes the controversy substantial for tribunal allocation.

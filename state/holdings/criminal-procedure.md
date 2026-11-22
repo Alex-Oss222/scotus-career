@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2002
-**Processed through:** June 30, 2003, after all 185 completed OT2002 Court events.
-**Edition:** November 14, 2026
+**Last completed October Term:** 2003
+**Processed through:** June 30, 2004, after all 119 completed OT2003 Court events and the admitted Rule 53 amendment effective December 1, 2003.
+**Edition:** November 22, 2026
 
 ## Criminal Procedure
 
@@ -161,6 +161,10 @@ For the Sixth Amendment scope and delay holdings in *Doggett v. United States*, 
 - *Bourjaily v. United States*, 483 U.S. 171 — firmly rooted exceptions retain their established reliability significance.
 - *Coy v. Iowa*, 487 U.S. 1012, and *Maryland v. Craig*, 497 U.S. 836 — distinguished as trial-witness presentation cases; their safeguards remain intact.
 
+**Current-force modification:** Crawford v. Washington, No. 02-9410, March 8, 2004, limits exception-based admission for a formal, recorded custodial police interrogation eliciting an account of past criminal events for evidentiary use against the accused. When offered for its truth, that accusation requires constitutionally adequate confrontation at trial or both unavailability and an earlier opportunity for cross-examination; a hearsay exception cannot replace the required opportunity. Existing forfeiture by wrongdoing remains an independent ground for losing the claim. White's accepted spontaneous-declaration and medical-treatment applications remain effective on their stated foundations, and existing law continues outside Crawford's defined class.
+
+**Later-authority backlinks:** Crawford v. Washington, No. 02-9410, March 8, 2004: confrontation required for the defined formal recorded custodial accusation; White's accepted exception applications retained.
+
 ##### Whether confrontation is categorically limited to formal affidavits or equivalent trial substitutes
 
 **Holding:** The Confrontation Clause is not categorically confined to formal affidavits or equivalent trial substitutes, so that limiting definition does not supply an alternative basis for admitting these statements. The Court resolves the accepted exceptions under existing confrontation law and leaves any broader reconstruction of that law open.
@@ -174,6 +178,8 @@ For the Sixth Amendment scope and delay holdings in *Doggett v. United States*, 
 - *Mattox v. United States*, 156 U.S. 237 — retained as evidence of confrontation's substantive protection and its coexistence with established exceptions.
 - *California v. Green*, 399 U.S. 149, and *Dutton v. Evans*, 400 U.S. 74 — preserved; the Court's treatment of out-of-court statements is not displaced by a formal-affidavit-only definition.
 - *Inadi* and *Roberts* — applied as exception-sensitive confrontation decisions, not replaced with a new categorical testimonial rule.
+
+**Later-authority backlinks:** Crawford v. Washington, No. 02-9410, March 8, 2004, decides the previously open treatment of formal recorded custodial police accusations at its defined scope. White's rejection of an exclusively formal boundary for the whole Confrontation Clause remains effective.
 
 #### Gray v. Maryland
 
@@ -3234,6 +3240,8 @@ Halper remains binding in its exceptional personal-civil-penalty field and is ap
 
 **Treatment of earlier authority:** Wells distinguishes genuine elements from additions without itself construing §666. Ratzlaf preserves contextual interpretation and residual lenity; neither entails the proposed demonstrable-effects condition.
 
+**Later-authority backlinks:** Sabri v. United States, No. 03-44, decided May 17, 2004, sustains the assisted-entity bribery mechanism against the facial constitutional objection to the absence of transaction-specific tracing of federal funds, within the statute's benefits, agency, transaction and culpability conditions. It does not decide every outer constitutional application or erase the distinct statutory question reserved here.
+
 ##### Whether a RICO conspirator must personally commit or promise two predicate acts
 
 **Holding:** Section 1962(d) requires knowing agreement to advance an undertaking that would satisfy the substantive enterprise offense if carried out, without requiring each conspirator personally to commit or agree to commit two predicates. The agreement must concern an unlawful object encompassing the substantive elements, including Reves's direction requirement; association, awareness, friendship or employment alone is insufficient.
@@ -3900,6 +3908,10 @@ Almendarez-Torres supplies the statutory aggravated-element and charging analogu
 **Holding:** Under the governing confrontation framework, the prosecution must establish particularized guarantees of trustworthiness from the circumstances surrounding the actual statement when no genuinely applicable firmly rooted exception supports admission. Independent corroborating trial evidence cannot substitute for those guarantees. Mark's challenged custodial accusations lack them, and their substantive admission without confrontation violated Benjamin's right.
 
 **Proposition-level authority:** Breyer's opinion's reliability holding and application, joined by Stone-Zsela, Stevens, Souter, Ginsburg and Breyer. Those five supply controlling reasoning at this scope. Scalia and Thomas independently agree that admission violated confrontation on different grounds; neither supplies a reliability-framework join.
+
+**Current-force modification:** Crawford v. Washington, No. 02-9410, March 8, 2004, displaces reliability-based permission to admit the defined class of formal recorded custodial police accusations. For an account of past criminal events elicited for evidentiary use against the accused and offered for its truth, the prosecution must provide constitutionally adequate confrontation at trial or establish unavailability and a prior opportunity for cross-examination; intrinsic trustworthiness alone cannot authorize admission. Forfeiture by wrongdoing remains an independent equitable ground. Lilly's established admission error and its intrinsic-guarantee requirements remain effective where the received confrontation framework still applies.
+
+**Later-authority backlinks:** Crawford v. Washington, No. 02-9410, March 8, 2004: replaces reliability as an admission method for the defined formal investigative accusation while preserving Lilly's exclusion result and the received framework outside that class.
 
 ##### Harmlessness and relief
 
@@ -5319,3 +5331,134 @@ The single structuring unit and duplicate-punishment correction are under Crimin
 **Operative remedy or transition:** The judgment is reversed; both pending indictment counts must be dismissed and custody or conditions resting solely on them terminated. The established chronology leaves no independent timely count. The rule also governs covered nonfinal cases on direct review.
 
 **Treatment of earlier authority:** Calder's second category reaches restoration of penal exposure after expiration. Brown explains the legal protection supplied by an expired period. Carmell supplies attention to operative legal effect while retaining its distinct proof-sufficiency holding and completed-trial remedy. Collins preserves the received-category restriction. Rogers's judicial fair-warning rule and Sattazahn's final mandatory-life protection remain distinct and supply no general limitations-finality rule.
+
+#### United States v. McFarland (judgment below: 311 F.3d 376) — Criminal Procedure, OT2003
+
+**Docket or dockets:** No Supreme Court docket supplied; Fifth Circuit No. 00-10569.
+**Decided:** 2004-02-19.
+
+For the other questions in this decision, see Constitutional Structure — whether direct robbery of interstate businesses requires a substantial effect from each taking.
+
+##### Whether the preserved degree-of-effect instruction and derivative firearm objections require reversal — United States v. McFarland, 2004-02-19
+
+**Holding:** The challenged Hobbs Act instruction is not defective for permitting a minimal commerce effect where it leaves the commerce element to proof beyond a reasonable doubt and permits, rather than directs, the relevant inference. Because the reviewed commerce objection fails as to each robbery predicate, the same objection supplies no derivative ground for disturbing its corresponding firearm conviction.
+
+**Proposition-level authority:** Kennedy's unanimous opinion of the Court.
+
+**Material application:** The preserved charge objection demanded substantial effect from each robbery. The actual instruction retained the prosecution's burden; the operative business function was supported by evidence rather than made conclusive by a label.
+
+**Limits and questions not reached:** The firearm ruling is confined to the wholly derivative objection presented. Aggregation does not dispense with proof of each offense.
+
+**Operative remedy or transition:** The four robbery convictions, four corresponding firearm convictions and existing sentence are affirmed against the reviewed objections.
+
+**Treatment of earlier authority:** United States v. Robinson supplies the bounded derivative-predicate disposition and distinguishes the necessary connection from its individual magnitude.
+
+#### Illinois v. Fisher, 540 U.S. 544
+
+**Docket or dockets:** No. 03-374.
+**Decided:** 2004-02-23.
+
+##### Whether a discovery request eliminates the bad-faith requirement for destroyed potentially useful evidence — Illinois v. Fisher, 2004-02-23
+
+**Holding:** When destroyed material had only potential usefulness to the defense, federal due process requires police bad faith; a pending discovery request or the material's centrality does not remove that condition. Evidence whose exculpatory value was apparent before destruction and for which no reasonably available comparable evidence exists remains subject to Trombetta's separate rule.
+
+**Proposition-level authority:** Per curiam opinion joined by eight Justices; Stevens concurs in the judgment only. The other eight adopt the rule, application and remand.
+
+**Material application:** Four tests identified cocaine, and no allegation or finding of bad faith supports the lost fifth-testing opportunity. Neither the request nor importance establishes what an additional test would have revealed; a request may nevertheless bear on a genuine inquiry into police knowledge and purpose.
+
+**Limits and questions not reached:** Stevens's exceptional-fundamental-unfairness theory is not the Court's rule. Independent state preservation and discovery protections retain their own force.
+
+**Operative remedy or transition:** The federal due-process ground is reversed. The state courts must address any properly preserved independent state-law ground on remand.
+
+**Treatment of earlier authority:** Arizona v. Youngblood governs the potentially useful category. California v. Trombetta retains its apparently exculpatory and irreplaceable category. Kyles v. Whitley concerns suppression of favorable evidence and does not presume favorable contents of untested material.
+
+#### Crawford v. Washington, 541 U.S. 36
+
+**Docket or dockets:** No. 02-9410.
+**Decided:** 2004-03-08.
+
+##### Whether formal recorded investigative accusations require confrontation instead of reliability review — Crawford v. Washington, 2004-03-08
+
+**Holding:** A formal recorded custodial police examination obtaining a witness's account of completed criminal events for evidentiary use against the accused is testimonial. For substantive truth use, the prosecution must produce the witness for constitutionally adequate confrontation or prove both unavailability and an earlier opportunity for cross-examination; a hearsay exception, reliability determination or correspondence with other evidence is no substitute.
+
+**Proposition-level authority:** Scalia's opinion, joined by Stone-Zsela, Stevens, Kennedy, Souter, Thomas, Ginsburg and Breyer: eight direct joins. O'Connor concurs in the judgment under the existing reliability approach and does not join the replacement rule.
+
+**Material application:** Sylvia's structured recorded interrogations sought an investigative account of the completed assault, and Crawford had no cross-examination opportunity. Claimed self-inculpation, interlocking accounts and marital privilege supply neither that procedure nor forfeiture. The recording is inadmissible for its truth against him.
+
+**Limits and questions not reached:** Existing forfeiture by wrongdoing remains an independent ground for loss of confrontation protection. Genuine nontruth use is distinct, and earlier statements may be tested when the declarant appears for adequate cross-examination. Outside the defined testimonial class, existing exception-sensitive law remains operative; no exhaustive testimonial taxonomy is adopted.
+
+**Operative remedy or transition:** The new rule governs this case and ordinary direct review. The unanimous reversal requires relief from the assault conviction, with lawful retrial available. The State's failure to challenge the intermediate nonharmlessness ruling forecloses reopening harmlessness on remand.
+
+**Treatment of earlier authority:** Ohio v. Roberts is overruled only to the extent it permits this defined testimonial class through hearsay categories or reliability without confrontation. Mattox supplies unavailability and prior examination for absent testimony. White v. Illinois is qualified at that scope while its accepted spontaneous/medical applications and rejection of an exclusively formal boundary for the whole Clause survive. Lilly v. Virginia and Idaho v. Wright retain exclusion and intrinsic-guarantee rules where their framework remains applicable, but cannot authorize this class. Hale's bounded independent-public-record search/nonentry application survives. Coy and Craig retain their trial-presentation rules. Chapman retains the State's harmlessness burden for properly available contentions, without reviving the abandoned contention here.
+
+#### Iowa v. Tovar, 541 U.S. 77
+
+**Docket or dockets:** No. 02-1541.
+**Decided:** 2004-03-08.
+
+For the other questions in this decision, see Criminal Procedure: Sentencing and Capital Punishment — whether the two-warning collateral attack requires exclusion of the prior conviction from enhancement.
+
+##### Whether informed guilty-plea waiver always requires the two additional counsel warnings — Iowa v. Tovar, 2004-03-08
+
+**Holding:** An uncounseled guilty plea producing imprisonment requires a knowing, intelligent and voluntary waiver, including understanding of the charge, counsel's availability and assistance at the plea, and the applicable punishment. The Sixth Amendment does not invariably require warnings that counsel might find an overlooked defense or independently advise whether to plead; omission of those warnings alone does not prove invalid waiver.
+
+**Proposition-level authority:** O'Connor's unanimous opinion of the Court.
+
+**Material application:** The constitutional inquiry concerns actual understanding at the relevant stage. Information about trial counsel is not automatically equivalent to awareness of counsel before and at the plea, and competence alone does not establish waiver.
+
+**Limits and questions not reached:** States may require fuller colloquies. The Court does not declare every feature of Tovar's old plea adequate or prescribe a universal allocation of enhancement burdens.
+
+**Operative remedy or transition:** The mandatory-two-warning basis for exclusion is rejected; the distinct collateral enhancement application is stated in Criminal Procedure: Sentencing and Capital Punishment.
+
+**Treatment of earlier authority:** Johnson v. Zerbst supplies intentional relinquishment of a known right. Godinez v. Moran separates competence from informed waiver. Patterson v. Illinois makes necessary information sensitive to counsel's task at the stage. Faretta's trial-representation warnings are not mechanically imposed on every guilty plea.
+
+#### Sabri v. United States, 541 U.S. 600 (2004) — Criminal Procedure, OT2003
+
+**Docket or dockets:** No. 03-44.
+**Decided:** May 17, 2004.
+
+##### Which enacted §666 elements and ordinary-course payments survive rejection of the tracing objection
+
+**Holding:** The prosecution must prove beyond a reasonable doubt corrupt giving, offering or agreeing to give something of value; intent to influence or reward a covered agent; covered institutional business, a transaction or a series worth at least $5,000; and receipt of more than $10,000 in qualifying federal benefits within the statutory continuous one-year period. Section 666(c) excludes bona fide salary, wages, fees and other compensation paid, and expenses paid or reimbursed, in the usual course of business.
+
+**Proposition-level authority:** Kennedy's opinion, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Ginsburg and Breyer; eight Justices.
+
+**Limits and questions not reached:** The transaction-value threshold is not a minimum bribe amount. The benefits period may begin up to twelve months before the offense, end up to twelve months afterward, or straddle it. The constitutional ruling neither establishes the indictment's allegations nor removes the Government's criminal burden or independently preserved defenses.
+
+**Treatment of earlier authority:** Salinas rejects the additional traced-dollar effect requirement while preserving all enacted elements. Fischer supplies actual programmatic assistance and preserves bona fide compensation and ordinary-course expense payments.
+
+For Sabri, No. 03-44, decided May 17, 2004, the Spending and Necessary and Proper ruling is in Constitutional Structure.
+
+
+
+### Forfeited plea-warning omissions
+
+#### United States v. Dominguez Benitez, 542 U.S. 74
+
+**Docket or dockets:** No. 03-167.
+**Decided:** 2004-06-14
+
+##### Prejudice concerns the decision to plead guilty
+
+**Holding:** A defendant seeking plain-error relief for the unpreserved omission of the required warning that rejection of a nonbinding sentencing recommendation does not permit withdrawal must show a reasonable probability that, with the warning, he would not have pleaded guilty. That probability must undermine confidence in the plea decision, is less than a more-likely-than-not threshold, and concerns the choice to plead rather than probable acquittal at trial; error, plainness and the separate discretionary-correction condition remain independently necessary.
+
+**Proposition-level authority:** Part I of O’Connor’s opinion, joined by all nine Justices, controls the plea-choice prejudice and whole-record rules.
+
+**Material application:** The existing agreement, advisements, demonstrated comprehension, sentencing expectations, plea alternatives and consequences of trial bear on plea choice. Written advice is relevant but does not conclusively establish comprehension or perform the judge’s personal duty. Disappointment over the failed safety-valve reduction alone does not prove causation.
+
+**Limits and questions not reached:** The judge’s warning remains mandatory. Rule 11(h) supplies no automatic-prejudice exception. Each Rule 52(b) condition, including serious effect on fairness, integrity or public reputation, requires its own determination.
+
+**Treatment of earlier authority:** - United States v. Vonn, 535 U.S. 55: applied; forfeited Rule 11 omissions receive Rule 52(b) review with the defendant's ordinary prejudice burden and relevant whole-record consideration, while the personal judicial duty remains.
+- Harris v. United States: extended from its actual-record sentencing inquiry to the counterfactual plea choice; substantial-rights effect and discretionary correction remain separate.
+- United States v. Olano, 507 U.S. 725: applied for the four distinct conditions and independent discretionary correction.
+- Strickland v. Washington, 466 U.S. 668, and United States v. Bagley, 473 U.S. 667: their reasonable-probability formulation informs the outcome measure without converting the claim into ineffective assistance or suppressed-evidence litigation.
+- McCarthy v. United States, 394 U.S. 459: its personal-colloquy duty remains; later Rule 11(h) and Vonn govern the remedy for this forfeited omission.
+- United States v. Young, 470 U.S. 1: applied through Vonn for relevant whole-record assessment.
+
+##### The correct standard must be applied on remand
+
+**Holding:** The court of appeals' incorrect prejudice rule requires reversal and remand for application of the reasonable-probability standard to the whole relevant existing record. The appellate court must decide each distinct Rule 52(b) condition before determining whether plea relief is warranted.
+
+**Proposition-level authority:** Part II of O’Connor’s opinion, supported by all eight Associate Justices; Stone-Zsela agrees on the inquiry but would vacate rather than reverse.
+
+**Operative remedy or transition:** The award of plea relief is set aside by reversal, 8–1, and the case remanded for the settled rule’s application. All nine join the substantive prejudice standard; Stone-Zsela favors vacatur instead of reversal.

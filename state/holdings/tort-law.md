@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2002
-**Processed through:** June 30, 2003, after all 185 completed OT2002 Court events.
-**Edition:** November 14, 2026
+**Last completed October Term:** 2003
+**Processed through:** June 30, 2004, after all 119 completed OT2003 Court events and the admitted Rule 53 amendment effective December 1, 2003.
+**Edition:** November 22, 2026
 
 ## Tort Law
 
@@ -379,3 +379,22 @@ For the emergency-removal, section 1983 and independent-examination questions, s
 **Treatment of earlier authority:** Hofmann v. Hofmann, 94 Ill. 2d 205, 222–225 (1983), supplies the common-law proof burden. In re Witt, 145 Ill. 2d 380, 390–391, 397 (1991), supplies the fraud elements and deliberate-intent distinction without supplying a universal statutory burden.
 
 The First Amendment boundary against fee-based liability is under First Amendment, this case, No. 01-1806, decided May 5, 2003.
+
+#### Olympic Airways v. Husain, 540 U.S. 644
+
+**Docket or dockets:** No. 02-1348.
+**Decided:** 2004-02-24.
+
+##### Whether an unusual carrier refusal to address a known medical need can be an Article 17 accident — Olympic Airways v. Husain, 2004-02-24
+
+**Holding:** An unexpected or unusual carrier refusal of assistance responding to a known medical need can qualify as an external accident under Warsaw Convention Article 17 if it contributes causally to death or bodily injury. The claimant must prove that unusual external event and its causal role; injury or negligent care by itself is insufficient.
+
+**Proposition-level authority:** Thomas's opinion, joined by Stone-Zsela, Stevens, Kennedy, Souter and Ginsburg: six direct joins among eight participants. O'Connor and Scalia dissent; Breyer takes no part.
+
+**Material application:** The accepted findings establish repeated unusual refusals after notice of the passenger's vulnerability and their contribution to the death. Ordinary smoke and asthma do not exclude another qualifying link in the causal chain. The deliberate character of the refusal does not prevent it from being an event.
+
+**Limits and questions not reached:** The finding concerns the concrete encounter, not every failure to assist or breach of airline practice. The false full-plane statements require no new independent causation finding because the accepted refusal ground suffices. Domestic compensable-loss categories remain separate from treaty liability.
+
+**Operative remedy or transition:** The existing liability judgment is affirmed against the Article 17 objection, without alteration of the award.
+
+**Treatment of earlier authority:** Air France v. Saks supplies the external unusual-event and causal-chain inquiry, distinguished from internal reaction to ordinary operations. Zicherman v. Korean Air Lines Co. preserves the separation of treaty liability from domestic damage categories. El Al Israel Airlines v. Tsui Yuan Tseng retains the Convention's governing remedial framework.
