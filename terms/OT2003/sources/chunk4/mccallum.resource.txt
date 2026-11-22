@@ -1,0 +1,90 @@
+324 F.3d 880
+
+324 F.3d 880
+
+FREEDOM FROM RELIGION FOUNDATION, INC., et al., Plaintiffs-Appellants,
+v.
+Scott McCALLUM, et al., Defendants-Appellees, and
+Faith Works Milwaukee, Inc., Intervening Defendant-Appellee.
+
+No. 02-3102.
+
+United States Court of Appeals, Seventh Circuit.
+
+Argued February 12, 2003.
+
+Decided April 2, 2003.
+
+Rehearing and Rehearing En Banc Denied: May 22, 2003.
+
+Richard L. Bolton (argued), Boardman, Suhr, Curry & Field, Madison, WI, for Plaintiffs-Appellants.
+
+Bruce A. Olsen (argued), Office of the Atty. Gen., Wisconsin Dept. of Justice, Madison, WI, for Defendants-Appellees Scott McCallum, Jennifer Reinert, Richard A. Gartner and George Lightbourn.
+
+Daniel Kelly (argued), Reinart, Boerner, Van Deuren, Norris & Rieselbach, Milwaukee, WI, for Defendant-Appellee Faith Works Milwaukee, Inc.
+
+Ayesha Khan, Americans United for Separation of Church and State, Washington, DC, for Amicus Curiae Americans United for Separation of Church and State.
+
+Steven M. Freeman, Anti-Defamation League of B'Nai B'rith, New York, NY, for Amicus Curiae Anti-Defamation League.
+
+Jeffrey P. Sinensky, American Jewish Committee, New York, NY, For Amicus Curiae American Jewish Committee.
+
+Gene C. Schaerr, Michael L. Post, Richard H. Menard Jr., Sidley Austin Brown & Wood LLP, Washington, DC, for Amici Curiae Evangelicals for Faith-Based Initiatives, Prison Fellowship Ministries, and Christian Community Health Fellowship.
+
+Before BAUER, POSNER, and RIPPLE, Circuit Judges.
+
+POSNER, Circuit Judge.
+
+      1
+      
+This is a taxpayer suit to enjoin Wisconsin correctional authorities from funding Faith Works, a halfway house that, like Alcoholics Anonymous, incorporates Christianity into its treatment program. The plaintiffs argue that this funding constitutes an establishment of religion, in violation of the Constitution. The district judge rejected the argument after a bench trial.
+
+      2
+      
+If a convicted criminal is out on parole (or probation, but we need not discuss that separately) and living in Milwaukee and he violates the terms of the parole, his parole officer may offer him, as an alternative to being sent back to prison, enrollment in one of several halfway houses with which the state has contracts. The officer can recommend a specific halfway house—the one he thinks best for the particular offender—but the offender is free to choose one of the others. One of the authorized halfway houses, Faith Works, which focuses on employment needs, drug and alcohol addiction, and parental responsibility, has a religious theme: it encourages the offender to establish a personal relationship with God through the mediation of Jesus Christ. Parole officers have recommended Faith Works to some parolees, but have been careful to explain that it is a nonbinding recommendation and that Faith Works is a Christian institution and its program of rehabilitation has a significant Christian element. Parole officers who recommend Faith Works are required to offer the offender a secular halfway house as an alternative. And although Faith Works will enroll an offender even if he is not a Christian, a parole officer will not recommend Faith Works to an offender who has no Christian identity and religious interest and will not advise anyone to convert to Christianity in order to get the most out of Faith Works.
+
+      3
+      
+There is no evidence that in recommending Faith Works a parole officer will be influenced by his own religious beliefs. His end is secular, the rehabilitation of a criminal, though the means include religion when the offender chooses Faith Works. Because the Supreme Court will not allow a public agency to force religion on people even if the agency honestly and indeed correctly believes that it is the best way of achieving a secular end that is within government's constitutional authority to promote, Lee v. Weisman, 505 U.S. 577, 587-89, 112 S.Ct. 2649, 120 L.Ed.2d 467 (1992), the state may not require offenders to enroll in Faith Works even if it is the best halfway house in Milwaukee for any or even all offenders. Kerr v. Farrey, 95 F.3d 472, 479-80 (7th Cir.1996). The choice must be private, to provide insulating material between government and religion. It is private; it is the offender's choice.
+
+      4
+      
+The success of Alcoholics Anonymous is evidence that Christianity can be a valuable element in a program for treating addiction. And alone among the approved halfway houses in Milwaukee, Faith Works offers a nine-month residential program; the secular programs are only three months. The longer term makes Faith Works uniquely attractive to the correctional authorities because they believe that many offenders need the longer period of supervised residence in order to succeed in becoming reintegrated into civil society. So the state waived the usual bidding requirements when it contracted with Faith Works, which it had not done with the other halfway houses in Milwaukee. A similar program has operated in New York, reportedly successfully.
+
+      5
+      
+If an offender enrolls in Faith Works, the state reimburses a part of the cost in accordance with the terms of the contract, just as it does in the case of offenders who enroll in secular halfway houses. Pending the final outcome of this litigation, however, the parole and probation officers have stopped referring offenders to Faith Works, and the halfway house is empty.
+
+      6
+      
+The district judge was right to dismiss the suit. A city does not violate the establishment clause by giving parents vouchers that they can use to purchase private school education for their children, even if most of the private schools in the city are parochial schools—provided, of course, that the parents are not required to use the vouchers to attend a parochial school rather than a secular school. Zelman v. Simmons-Harris, 536 U.S. 639, 122 S.Ct. 2460, 2467-70, 153 L.Ed.2d 604 (2002). The practice challenged in the present case is similar. The state in effect gives eligible offenders "vouchers" that they can use to purchase a place in a halfway house, whether the halfway house is "parochial" or secular. We have put "vouchers" in scare quotes because the state has dispensed with the intermediate step by which the recipient of the publicly funded private service hands his voucher to the service provider. But so far as the policy of the establishment clause is concerned, there is no difference between giving the voucher recipient a piece of paper that directs the public agency to pay the service provider and the agency's asking the recipient to indicate his preference and paying the provider whose service he prefers.
+
+      7
+      
+Nor does it make a difference that the state, rather than accrediting halfway houses, enters into contracts with them. Obviously it has not refused to enter into contracts with halfway houses that are secular—all but one of its contracts are with secular houses. The only evidence of favoritism, the bid waiver, is unpersuasive; it was granted because Faith Works' program has such attractive features from a purely secular standpoint, such as the length of the program, that the state was eager to have it on its menu of halfway-house choices. That most of the halfway houses with which the state has contracts are secular makes this an easier case than the school voucher case. Most private schools in this country are parochial schools, so that a voucher system, at least in the short run (in the long run the existence of such a system is likely to stimulate the creation of new secular private schools), will give a definite boost to religion. Most halfway houses are secular.
+
+      8
+      
+The plaintiffs argue that by recommending Faith Works to some offenders, parole officers steer the offenders to a religious program and by doing so provide governmental support to religion. The implications of the argument are unacceptable. If recommending a religious institution constituted an establishment of religion, a public school guidance counselor could not recommend that a student apply to a Catholic college even if the counselor thought that the particular college would be the best choice for the particular student. And, coming closer to home, a parole officer could not recommend to a parolee who had a serious drinking problem that he enroll in Alcoholics Anonymous, even if the officer believed that this was the only alcoholic-treatment program that would keep the parolee from committing further crimes. To suppose such recommendations unlawful would be to adopt a doctrinaire interpretation of the establishment clause remote from its underlying purpose and historical understanding. DeStefano v. Emergency Housing Group, Inc., 247 F.3d 397, 414-16 (2d Cir.2001); compare Warner v. Orange County Department of Probation, 115 F.3d 1068, 1069 (1997), reinstated, 173 F.3d 120, 121 (2d Cir.1999). Suggestion is not a synonym for coercion.
+
+      9
+      
+The plaintiffs' lawyer acknowledged at argument that it would be lawful for a public agency to rate public and private, including parochial, schools and publish the rating, even if it put a Catholic school at the top. That would be tantamount to recommending that school. He argued that the difference between that case and this one is that there are no objective criteria for rating halfway houses and therefore ratings or, what are equivalent, recommendations would involve discretionary judgments possibly influenced by the religious preferences of the agency or public employees doing the rating or making the recommendations. That is a danger, though the district court found, not clearly erroneously, that it has not materialized. A school year has a standard length, so that a school that announced it was shortening its school year to three months would quickly be stripped of its accreditation. There is no standard halfway-house treatment program that would enable an "objective" comparison to be made between a three-month secular halfway-house program and Faith Works' nine-month program. Lack of uniform intake criteria would defeat efforts to use the recidivism rate as a test of quality. In short, it is easier to establish accreditation criteria for schools than for halfway houses.
+
+      10
+      
+If religiously oriented halfway houses were obviously of little value from a correctional standpoint, the danger of seepage of religious preferences or aversions into the process of rating or recommendation might tip the scale against allowing such halfway houses to receive public funding even as mediated by private choice. But on the contrary—and quite apart from the evidence, confirmed by long experience with the parallel case of Alcoholics Anonymous, that for some substance abusers religion is an effective treatment—there is the fact that Faith Works offers a program that lasts three times as long as that of any of its secular competitors. To exclude Faith Works from this competition on the basis of a speculative fear that parole or probation officers might recommend its program because of their own Christian faith would involve the sacrifice of a real good to avoid a conjectured bad. It would be perverse if the Constitution required this result. Cf. Metzl v. Leininger, 57 F.3d 618, 620-21 (7th Cir.1995); Cammack v. Waihee, 932 F.2d 765, 778, 780 (9th Cir.1991).
+
+      11
+      
+The plaintiffs try to turn the real good of Faith Works' program in their favor by arguing that because it is indeed the best program, offenders who are advised to enroll in it—perhaps all offenders who are eligible for a halfway house—have no real choice. But quality cannot be coercion. That would amount to saying that a city cannot adopt a school voucher system if the parochial schools in the city are better than the public or secular private schools. Faith Works, penalized because its secular competitors were unwilling to invest as much in the rehabilitation of offenders, would have an incentive to reduce the quality of its program, while those competitors would have an incentive to reduce the quality of their own programs in order to make Faith Works' "violation" of the establishment clause more perspicuous and encourage it to curtail its program. There would be a race to the bottom.
+
+      12
+      
+It is a misunderstanding of freedom (another paradox, given the name of the principal plaintiff) to suppose that choice is not free when the objects between which the chooser must choose are not equally attractive to him. It would mean that a person was not exercising his free will when in response to the question whether he preferred vanilla or chocolate ice cream he said vanilla, because it was the only honest answer that he could have given and therefore "he had no choice."
+
+      13
+      
+AFFIRMED.
+
+CC∅ | Transformed by Public.Resource.Org

@@ -1,0 +1,355 @@
+332 F.3d 134
+
+332 F.3d 134
+
+Turk LEEBAERT, in his own right and on behalf of his minor son Corky Leebaert, Plaintiff-Appellant,
+v.
+Carol A. HARRINGTON, in her personal capacity and official capacity as Superintendent of Schools, and Fairfield Board of Education, Defendants-Appellees.
+
+Docket No. 02-7399.
+
+United States Court of Appeals, Second Circuit.
+
+Argued: December 12, 2002.
+
+Decided: June 13, 2003.
+
+Vincent P. McCarthy, American Center for Law and Justice Northeast, Inc. (Kristina J. Wenberg, of counsel), New Milford, CT, for Plaintiff-Appellant.
+
+Steven A. Levy, Friedman, Newman, Levy, Sheehan & Carolan, P.C. (James A. Mahar, of counsel), Fairfield, CT, for Defendants-Appellees.
+
+Before: NEWMAN, KEARSE, and SACK, Circuit Judges.
+
+SACK, Circuit Judge.
+
+      1
+      
+Plaintiff-Appellant Turk Leebaert ("Leebaert") argues that his constitutional right to direct the upbringing and education of his child requires the defendants, upon his request, to excuse his minor son, Corky Leebaert, from attending health education classes at a public school administered by the defendants. Leebaert further argues that the right so to excuse his son is, as a matter of constitutional law, "fundamental." His son may therefore be required to attend classes teaching the health curriculum only if the requirement that he do so withstands constitutional "strict scrutiny" which, Leebaert contends, it does not. The defendants assert to the contrary that their mandatory curriculum must meet only the lower "rational basis" constitutional standard of review because the right that Leebaert asserts is not properly classified as "fundamental." They also contend — and this Leebaert does not dispute — that required attendance at the health education classes meets the rational basis test. The district court agreed with the defendants, and so do we. We therefore affirm.
+
+BACKGROUND
+
+      2
+      
+Connecticut state law sets forth requirements for Connecticut public-school curricula. Subjects that must be "taught by legally qualified teachers" include "health and safety, including, but not limited to, human growth and development, nutrition, first aid, disease prevention, community and consumer health, physical, mental and emotional health, including youth suicide prevention, substance abuse prevention, safety, which may include the dangers of gang membership, and accident prevention." Conn. Gen.Stat. § 10-16b(a). State law also provides:
+
+      3
+      
+The State Board of Education shall... develop curriculum guides to aid local and regional boards of education in developing family life education programs within the public schools. The curriculum guides shall include, but not be limited to, information on developing a curriculum including family planning, human sexuality, parenting, nutrition and the emotional, physical, psychological, hygienic, economic and social aspects of family life, provided the curriculum guides shall not include information pertaining to abortion as an alternative to family planning.
+
+      4
+      
+Id. § 10-16c. Connecticut law does not, however, require "local or regional board[s] of education to develop or institute such family life education programs." Id. § 10-16d. And it provides that "[n]o student shall be required by any local or regional board of education to participate in any such family life program which may be offered within such public schools." Id. § 10-16e.
+
+      5
+      
+In addition, Connecticut law provides that "[t]he knowledge, skills and attitudes required to understand and avoid the effects of alcohol, of nicotine or tobacco and of drugs ... on health, character, citizenship and personality development shall be taught every academic year to pupils in all grades in the public schools...." Id. § 10-19(a). "The content and scheduling of [this] instruction [is] within the discretion of the local or regional board of education." Id.
+
+Finally, state law provides that:
+
+      6
+      
+each local and regional board of education shall offer during the regular school day planned, ongoing and systematic instruction on acquired immune deficiency syndrome ["AIDS"], as taught by legally qualified teachers. The content and scheduling of the instruction shall be within the discretion of the local or regional board of education.
+
+      7
+      
+Id. § 10-19(b).
+
+      8
+      
+The seventh-grade health-education curriculum at the Fairfield Public School System's Roger Ludlowe Middle School, under the aegis of the defendants, includes instruction on health and safety, alcohol, tobacco and drugs, and family life. The defendants, school superintendent Carol A. Harrington and the Fairfield Board of Education,1 maintain that only six of the forty-five days on which the seventh-grade health education classes are taught during the fourth quarter are related to family-life instruction or AIDS education, and that, pursuant to sections 10-16e and 10-19b, the school permits parents, including Leebaert, to excuse their children from those six classes by notifying the school principal of their request. The remainder of the health education program at the school is mandatory and the defendants insist that it is not unconstitutional for the school to require Leebaert's son to attend.
+
+      9
+      
+The parties stipulated to the following additional facts: Leebaert and his son Corky are residents of Fairfield, Connecticut. During the 1998-1999 academic year, Corky was enrolled as a seventh-grade student at Roger Ludlowe Middle School, which is administered by the defendants. In a letter dated December 14, 1998, Leebaert informed Harrington that Corky would not take part in the health education program scheduled for the fourth quarter. The letter, incorporated into the stipulated facts, reads in part as follows:
+
+      10
+      
+Corky and I are exercising our Fourteenth Amendment rights in this matter as we both prefer him to be home schooled regarding health, morals, ethical and personal behavior. I believe health, sex, and character development education are all necessary in the course of an individual's life and I have been teaching these things successfully to my children since they were toilet trained, without the need of government assistance. I am sure your health educators are capable teachers and their ability to instruct their students is not in question here. I, however, as the father, and being sufficiently educated in health, sex, and behavioral issues, feel it is more appropriate that as they enter adolescence I handle this facet of my children's personal growth at home.
+
+      11
+      
+Leebaert letter to Harrington dated Dec. 14, 1998. Harrington responded to Leebaert by letter, advising him of the mandatory nature of the health curriculum and informing him of the opt-out policy for the six classes relating to family-life instruction or AIDS education.
+
+      12
+      
+Over the next few months, Leebaert, Harrington, and Roger Ludlowe Middle School Principal John Boyle continued their correspondence. Leebaert repeatedly told the school officials that Corky would not be attending any part of the fourth-quarter health curriculum. Harrington and Boyle advised Leebaert that while Corky could opt out of the family-life instruction and AIDS education classes, he was required to attend the other health curriculum classes. Corky nonetheless absented himself from all of the fourth-quarter health curriculum classes, and therefore failed the course.
+
+      13
+      
+On October 22, 1999, Leebaert filed suit in the United States District Court for the District of Connecticut against Harrington, the Fairfield Board of Education, and the Town of Fairfield, pursuant to 42 U.S.C. § 1983, alleging that the defendants deprived him of his right to direct the upbringing and education of his minor child and his right to the free exercise of his religion in violation of the First and Fourteenth Amendments to the United States Constitution. He also asserted pendent state-law claims. Leebaert requested that the district court issue an order directing the school to withdraw Corky's "F"; a permanent injunction prohibiting the defendants from giving failing grades to students who have complied with the relevant opt-out provisions; an injunction ordering the defendants to "further clarify and separate Health and Family Life and their respective curricula" (Compl. at p. 6); and attorney's fees.
+
+      14
+      
+Incorporated into the stipulated facts was an affidavit in which Leebaert testified that matters in the health curriculum conflicted with his sincerely held religious beliefs:
+
+      15
+      
+While I do not belong to any institutionalized religion, I have religious beliefs which incorporate, in my view, the best from all religions. The basis of my religious beliefs is Christian, I consider myself to be a Christian and I was baptized a Catholic....
+
+      16
+      
+I take an orthodox religious view on moral and ethical issues, ie, I do not believe that drugs and tobacco are proper subjects that I want my son's school to teach. My view is that children should be taught just do not engage in drugs or tobacco.
+
+      17
+      
+Similarly, my religious view on sex before marriage is that it is something I do not want my sons to be involved in. I teach them abstention because my religious view is that sex should be reserved for marriage when it is appropriate.
+
+      18
+      
+I believe in a Creator who is an all-powerful, one God. I believe in the power of prayer to God.
+
+      19
+      
+The basis of my religious beliefs is the Golden Rule as taught by Christ and the Ten Commandments which I have found prevalent in all religions. The Golden Rule, as taught by Jesus Christ, is particularly important to me because I believe that a successful life is based on the practice of these principles.
+
+      20
+      
+My objection to the subjects taught in Health, to which I sought to opt my son Corky out of in the last part of his 7th grade, is that I believe that God has empowered human beings with the right to bring their children up with correct moral principles in dealing with the issues taught in this course, not the school system. I claim the right, and responsibility, to impart those religious values which I have been taught to my children to develop their moral, ethical and religious character.
+
+      21
+      
+I believe that the way the school system teaches the subjects to which I sought to opt my son out of, is anti-religion. For one example, it doesn't support a married man and woman together as the basic unit of the family. The school teaches that this unit can be comprised of anything or anyone, that anything you say can be a family. This contradicts my religious beliefs.
+
+      22
+      
+Leebaert Aff. dated May 22, 2000, ¶¶ 4-10.
+
+      23
+      
+In his brief to this Court on appeal, Leebaert identified the following aspects of the school's health curriculum as contradicting his sincerely held beliefs:
+
+      24
+      
+1. Defining self-esteem;
+
+      25
+      
+2. Grieving and feelings about death...;
+
+      26
+      
+3. The definition of love, defining different kinds of love, and how love and affection influence behavior;
+
+      27
+      
+4. The qualities of successful people;
+
+      28
+      
+5. Myths and facts about tobacco, marijuana and alcohol;
+
+      29
+      
+6. Discussions about drinking alcohol;
+
+      30
+      
+7. Discussions about using drugs and social pressures to use drugs;
+
+      31
+      
+8. Discussions about the negative consequences of using drugs, marijuana and alcohol;
+
+      32
+      
+9. Explanations of alcohol and alcoholism;
+
+      33
+      
+10. Discussions about tobacco products;
+
+      34
+      
+11. Discussions about the harmful effects of marijuana;
+
+      35
+      
+12. Identifying high risk behaviors and measures for protecting against them;
+
+      36
+      
+13. Practicing social pressure resistance skills;
+
+      37
+      
+14. Respect for others feelings, rights and differences;
+
+      38
+      
+15. Discussion of behaviors which demonstrate respect for self and others;
+
+      39
+      
+16. Discussing responses to being sexually harassed;
+
+      40
+      
+17. Demonstrating the ability to set personal goals; and
+
+      41
+      
+18. Discussing the habits of highly effective people.
+
+      42
+      
+Appellant's Br. at 17.
+
+      43
+      
+The parties filed cross-motions for summary judgment. The district court (Robert N. Chatigny, Judge) denied Leebaert's motion, but granted the defendants' motion, dismissing Leebaert's federal claims with prejudice and the state-law claims without prejudice. Leebaert v. Harrington, 193 F.Supp.2d 491, 494 (D.Conn.2002). The court upheld the mandatory nature of the health curriculum on the ground that rational basis, rather than strict scrutiny, is the appropriate standard of review. It is undisputed that the rational basis test, if applicable, is met: Requiring students to attend health education classes serves a legitimate state interest and is reasonably related to that interest.
+
+      44
+      
+Leebaert appeals.
+
+DISCUSSION
+
+I. Standard of Review
+
+      45
+      
+We review the district court's grant of summary judgment de novo. See Steel Partners II, L.P. v. Bell Indus., Inc., 315 F.3d 120, 123 (2d Cir.2002). "Summary judgment is appropriate only where, examining the evidence in the light most favorable to the nonmoving party, the record shows that there is no genuine issue as to any material fact and that the moving party is entitled to judgment as a matter of law." Id. (citations, internal quotation marks, and alterations omitted); see also Fed.R.Civ.P. 56(c). These standards apply where, as here, the summary judgment motions are based upon stipulated facts. See Steel Partners II, 315 F.3d at 122-23.
+
+      46
+      
+II. Application of Strict Scrutiny or Rational Basis Review
+
+      47
+      
+Leebaert does not contest defendants' position that the mandatory health curriculum would pass rational basis review. There is "a `reasonable fit' between the governmental purpose," Reno v. Flores, 507 U.S. 292, 305, 113 S.Ct. 1439, 123 L.Ed.2d 1 (1993) here, promoting the health and welfare of children, "and the means chosen to advance that purpose," here, requiring children to attend health education classes. Leebaert argues instead that to pass constitutional muster, the mandatory nature of the curriculum must withstand strict scrutiny — it must be narrowly tailored to meet a compelling state interest, see, e.g., Republican Party v. White, 536 U.S. 765, 774-75, 122 S.Ct. 2528, 153 L.Ed.2d 694 (2002) — and that it does not do so.
+
+      48
+      
+In support of his position, Leebaert argues, first, that under Troxel v. Granville, 530 U.S. 57, 120 S.Ct. 2054, 147 L.Ed.2d 49 (2000), a parent's right to direct the education of his or her children — which Leebaert argues includes a right to excuse one's child from public school requirements — is fundamental, and that therefore government regulation alleged to violate this right, including the mandatory health curriculum, must be subjected to strict scrutiny. Second, Leebaert asserts that claims such as his that are based on a combination of the Free Exercise Clause of the First Amendment and another constitutional right, such as his parental rights under the Due Process Clause — so-called "hybrid claims" — require strict scrutiny under Employment Division, Department of Human Resources of Oregon v. Smith, 494 U.S. 872, 110 S.Ct. 1595, 108 L.Ed.2d 876 (1990). Third, Leebaert contends that the district court should have applied strict scrutiny and held that the requirement that his son attend health curriculum classes is unconstitutional under Wisconsin v. Yoder, 406 U.S. 205, 92 S.Ct. 1526, 32 L.Ed.2d 15 (1972), in which the Supreme Court held that a state's compulsory schooling law abridged the due process rights of Amish parents who objected to the compulsory schooling on religious grounds. For the reasons set forth below, we conclude that none of these arguments are persuasive, that Leebaert's challenge to the mandatory portions of the health curriculum does not warrant strict scrutiny review, and that summary judgment was therefore properly entered against him by the district court.
+
+      A. Parental Rights
+
+      49
+      
+"[T]he touchstone of due process is protection of the individual against arbitrary action of government...." County of Sacramento v. Lewis, 523 U.S. 833, 845, 118 S.Ct. 1708, 140 L.Ed.2d 1043 (1998) (citation and internal quotation marks omitted). "While due process protection in the substantive sense limits what the government may do in both its legislative and its executive capacities, criteria to identify what is fatally arbitrary differ depending on whether it is legislation or a specific act of a governmental officer that is at issue." Id. at 846, 118 S.Ct. 1708 (citations omitted).
+
+      50
+      
+In assessing whether a government regulation2 impinges on a substantive due process right, the first step is to determine whether the asserted right is "fundamental." "Rights are fundamental when they are implicit in the concept of ordered liberty, or deeply rooted in this Nation's history and tradition." Immediato v. Rye Neck School Dist., 73 F.3d 454, 460-61 (2d Cir.) (citations and internal quotation marks omitted), cert. denied, 519 U.S. 813, 117 S.Ct. 60, 136 L.Ed.2d 22 (1996). Where the right infringed is fundamental, strict scrutiny is applied to the challenged governmental regulation. Id. at 460 (citing Flores, 507 U.S. at 302, 113 S.Ct. 1439). "Where[, however,] the claimed right is not fundamental, the governmental regulation need only be reasonably related to a legitimate state objective" to survive constitutional review. Id. at 461, 73 F.3d 454.
+
+      51
+      
+The question before us, then, is whether Leebaert's asserted right — the right to excuse his son from mandatory public school classes — is fundamental. Leebaert argues that it is, asserting that it stems from a pair of cases decided in the first quarter of the twentieth century. In Meyer v. Nebraska, 262 U.S. 390, 43 S.Ct. 625, 67 L.Ed. 1042 (1923), the Supreme Court held unconstitutional a Nebraska statute prohibiting the teaching of any subject in a language other than English in any school and the teaching of languages other than English to any child who had not graduated from the eighth grade. Id. at 397, 43 S.Ct. 625. The Court reversed the conviction of a school teacher who had been convicted of teaching German to a ten-year-old, reasoning that "the right of parents to engage him so to instruct their children ... [is] within the liberty of the [Due Process Clause of the Fourteenth] Amendment." Id. at 400, 43 S.Ct. 625.
+
+      52
+      
+Similarly, in Pierce v. Society of Sisters, 268 U.S. 510, 45 S.Ct. 571, 69 L.Ed. 1070 (1925), the Supreme Court affirmed an order preliminarily enjoining enforcement of an Oregon statute requiring children to attend public school. Id. at 536, 45 S.Ct. 571. The Society of Sisters, which ran a private Roman Catholic school, had challenged the statute's constitutionality. The Court held that the statute "unreasonably interfere[d] with the liberty of parents and guardians to direct the upbringing and education of children under their control." Id. at 534-35, 45 S.Ct. 571. The Court reasoned that
+
+      53
+      
+rights guaranteed by the Constitution may not be abridged by legislation which has no reasonable relation to some purpose within the competency of the State. The fundamental theory of liberty ... excludes any general power of the State to standardize its children by forcing them to accept instruction from public teachers only.
+
+      54
+      
+Id. at 535, 45 S.Ct. 571.
+
+      55
+      
+In describing the rights established in Meyer and Pierce, the Supreme Court in Runyon v. McCrary, 427 U.S. 160, 96 S.Ct. 2586, 49 L.Ed.2d 415 (1976), stated that the former protected "the subject matter... taught at ... private school," and that the latter established a parental right to "send ... children to a particular private school rather than a public school." 427 U.S. at 177, 96 S.Ct. 2586.
+
+      56
+      
+In defining the scope of the parental right to direct the upbringing and education of children, the First and Tenth Circuits have held that it does not include a right to exempt one's child from public school requirements. In Brown v. Hot, Sexy and Safer Productions, Inc., 68 F.3d 525, 539 (1st Cir.1995), cert. denied, 516 U.S. 1159, 116 S.Ct. 1044, 134 L.Ed.2d 191 (1996), the First Circuit held that a parental challenge to a public school's AIDS awareness and sex education program was not rooted in a constitutionally protected right. Id. at 534. The court distinguished the right established in Meyer and Pierce from the right asserted by the plaintiffs, which the court understood as the right to dictate public school curricula:
+
+      57
+      
+The Meyer and Pierce cases, we think, evince the principle that the state cannot prevent parents from choosing a specific educational program — whether it be religious instruction at a private school or instruction in a foreign language.... We do not think, however, that this freedom encompasses a fundamental constitutional right to dictate the curriculum at the public school to which they have chosen to send their children.... If all parents had a fundamental constitutional right to dictate individually what the schools teach their children, the schools would be forced to cater a curriculum for each student whose parents had genuine moral disagreements with the school's choice of subject matter. We cannot see that the Constitution imposes such a burden on state educational systems....
+
+      58
+      
+Id. at 533-34, 45 S.Ct. 571 (citations and internal quotation marks omitted).
+
+      59
+      
+Similarly, in Swanson v. Guthrie Independent School District No. I-L, 135 F.3d 694 (10th Cir.1998), the Tenth Circuit held that a public school's policy against part-time attendance did not implicate parents' constitutional right to direct their children's education. Id. at 702. The court rejected the parents' argument that this right protects "the right of parents to send their children to public school on a part-time basis, and to pick and choose which courses their children will take from the public school," id. at 699-700, reasoning that "decisions as to how to allocate scarce resources, as well as what curriculum to offer or require, are uniquely committed to the discretion of local school authorities," id. at 700.
+
+      60
+      
+We agree. Meyer, Pierce, and their progeny do not begin to suggest the existence of a fundamental right of every parent to tell a public school what his or her child will and will not be taught. As the Brown and Swanson courts correctly perceived, recognition of such a fundamental right — requiring a public school to establish that a course of instruction objected to by a parent was narrowly tailored to meet a compelling state interest before the school could employ it with respect to the parent's child — would make it difficult or impossible for any public school authority to administer school curricula responsive to the overall educational needs of the community and its children.
+
+      61
+      
+Leebaert argues to the contrary that the Supreme Court's recent decision in Troxel v. Granville, 530 U.S. 57, 120 S.Ct. 2054, 147 L.Ed.2d 49 (2000), established that there is just such a fundamental parental right. We disagree.
+
+      62
+      
+In Troxel, the Court affirmed the Washington Supreme Court's invalidation of a Washington State statute that allowed courts to grant visitation rights to "any person" when a court decided that such visitation would serve the best interests of the child, as applied. Id. at 67, 75, 120 S.Ct. 2054 (plurality opinion). The Troxels, the paternal grandparents of Ms. Granville's minor daughters, filed a petition in Washington Superior Court to obtain visitation rights under the statute. Id. at 60-61, 120 S.Ct. 2054. The court granted the Troxels' petition, but the Washington Court of Appeals reversed, and the Washington Supreme Court affirmed the reversal. Id. at 62, 120 S.Ct. 2054. The United States Supreme Court granted certiorari, and affirmed the judgment of the Washington Supreme Court. Id. at 63, 120 S.Ct. 2054.
+
+      63
+      
+Writing for a plurality, Justice O'Connor identified Granville's asserted liberty interest as "the interest of parents in the care, custody, and control of their children,"3 id. at 65, 120 S.Ct. 2054, but left the scope of that right undefined. In rehearsing the history of this right, Troxel, 530 U.S. at 65, 120 S.Ct. 2054, the plurality included Meyer and Pierce, the cases that recognized a parental right "to direct the upbringing and education of children under their control," Pierce, 268 U.S. at 534-35, 45 S.Ct. 571. But there is nothing in Troxel that would lead us to conclude from the Court's recognition of a parental right in what the plurality called "the care, custody, and control" of a child with respect to visitation rights that parents have a fundamental right to the upbringing and education of the child that includes the right to tell public schools what to teach or what not to teach him or her.
+
+      64
+      
+Our conclusion that the plaintiff enjoys no such fundamental right is consistent with our decision in Immediato, supra. There, we upheld a public school's mandatory community service program against a parental challenge that it violated the parents' constitutional right to direct the upbringing and education of their children. 73 F.3d at 462. We concluded that where "parents seek ... to exempt their child from an educational requirement ... rational basis review applies."4 Id. We similarly conclude here that the defendants' mandatory health curriculum must withstand no more than rational basis review to pass constitutional muster, which concededly it does.
+
+      B. "Hybrid" Claims
+
+      65
+      
+Leebaert further argues that his challenge to the health curriculum warrants strict scrutiny because he has asserted a "hybrid" claim. In Employment Division, Department of Human Resources of Oregon v. Smith, 494 U.S. 872, 110 S.Ct. 1595, 108 L.Ed.2d 876 (1990), the Supreme Court held that the First Amendment does not bar application of a neutral, generally applicable criminal law to religiously motivated action, but distinguished the facts under review from potential cases that might involve the Free Exercise Clause in conjunction with other constitutional protections. Id. at 882, 110 S.Ct. 1595. The Court stated that "[t]he present case does not present such a hybrid situation, but a free exercise claim unconnected with any communicative activity or parental right," id., implying that such "hybrid situations" combining a free exercise claim with a parental rights claim, for example, might merit a higher standard than rational basis review.
+
+      66
+      
+Several circuits have stated that Smith mandates stricter scrutiny for hybrid situations than for a free exercise claim standing alone, but, as far as we are able to tell, no circuit has yet actually applied strict scrutiny based on this theory. In Brown v. Hot, Sexy and Safer Productions, Inc., 68 F.3d 525, 539 (1st Cir.1995), cert. denied, 516 U.S. 1159, 116 S.Ct. 1044, 134 L.Ed.2d 191 (1996), Miller v. Reed, 176 F.3d 1202, 1207-08 (9th Cir.1999), and Swanson v. Guthrie Independent School District No. I-L, 135 F.3d 694, 699-700 (10th Cir.1998), the First, Ninth, and Tenth Circuits respectively stated that hybrid situations would warrant strict scrutiny after Smith, but concluded that the plaintiffs in those cases had not sufficiently alleged a violation of two separate rights necessary to make them hybrid claims. Similarly, in Equal Employment Opportunity Commission v. Catholic University of America, 83 F.3d 455 (D.C.Cir.1996), the D.C. Circuit invoked the Smith hybrid-rights exception as an alternative basis for its holding, id. at 467, but not as the primary rationale in the case. Instead, the court concluded that the Free Exercise Clause, the Establishment Clause, and the Religious Freedom Restoration Act each independently protected the university from a sex discrimination suit. Id. at 470. None of these opinions attempts to explain the requirement of strict scrutiny for hybrid situations; they simply rely on the language in Smith.
+
+      67
+      
+We have held, by contrast, in the context of claims involving free exercise and free speech, that Smith's "language relating to hybrid claims is dicta and not binding on this court." Knight v. Conn. Dep't of Pub. Health, 275 F.3d 156, 167 (2d Cir.2001). We further stated that "we have not yet addressed generally whether hybrid claims require a greater governmental justification than each component of the hybrid claim taken separately...." Id. Given our understanding of the Smith statement as dicta, we are not bound, as the First, Ninth, Tenth, and D.C. Circuits seem to perceive themselves to be, to apply some stricter standard of review than the rational basis test to hybrid claims. The plaintiff urges us, nonetheless, to follow these other circuits and hold that hybrid claims merit a stricter standard of review — specifically, that his claim, which alleged a violation of both his free exercise rights and his parental rights, warrants strict scrutiny.
+
+      68
+      
+We decline to adopt this approach. We agree, instead, with the Sixth Circuit's view of the matter. In Kissinger v. Board of Trustees of the Ohio State University, College of Veterinary Medicine, 5 F.3d 177 (6th Cir.1993), a case involving free exercise and various other First Amendment claims, the court explicitly rejected a more stringent legal standard for hybrid claims. Id. at 180. The court explained that it did "not see how a state regulation would violate the [F]ree Exercise Clause if it implicates other constitutional rights but would not violate the Free Exercise Clause if it did not implicate other constitutional rights." Id. We too can think of no good reason for the standard of review to vary simply with the number of constitutional rights that the plaintiff asserts have been violated. "[T]herefore, at least until the Supreme Court holds that legal standards under the Free Exercise Clause vary depending on whether other constitutional rights are implicated, we will not use a stricter legal standard" to evaluate hybrid claims. Id.
+
+      C. Wisconsin v. Yoder
+
+      69
+      
+Leebaert refers us, finally, to Wisconsin v. Yoder, 406 U.S. 205, 92 S.Ct. 1526, 32 L.Ed.2d 15 (1972). There, the Supreme Court invalidated Wisconsin's compulsory high-school attendance law under the Free Exercise Clause in response to Amish parents' objections. In so doing, the Court held that "when the interests of parenthood are combined with a free exercise claim of the nature revealed by this record, more than merely a `reasonable relation to some purpose within the competency of the State' is required to sustain the validity of the State's requirement under the First Amendment." Id. at 233, 92 S.Ct. 1526.
+
+      70
+      
+Leebaert argues that his claim, based on the interests of parenthood combined with a free exercise claim, is analogous to that of the Amish parents in Yoder. But the Yoder Court took pains explicitly to limit its holding to "a free exercise claim of the nature revealed by this record," id., "one that probably few other religious groups or sects could make," id. at 236, 92 S.Ct. 1526. In Yoder,
+
+      71
+      
+[a]ided by a history of three centuries as an identifiable religious sect and a long history as a successful and self-sufficient segment of American society, the Amish... convincingly demonstrated the sincerity of their religious beliefs, the interrelationship of belief with their mode of life, the vital role that belief and daily conduct play in the continued survival of Old Order Amish communities and their religious organization, and the hazards presented by the State's enforcement of a statute generally valid as to others.
+
+      72
+      
+Id. at 235, 92 S.Ct. 1526.
+
+      73
+      
+This threat to the Amish community's way of life, posed by a compulsory school attendance statute, was central to the holding in Yoder. We have no reason to doubt either Leebaert's sincerity or the depth of his convictions. But because of the comparative breadth of the plaintiffs' claim in Yoder, we do not think that Leebaert's free exercise claim is governed by that decision: He has not alleged that his community's entire way of life is threatened by Corky's participation in the mandatory health curriculum. Leebaert does not assert that there is an irreconcilable Yoder-like clash between the essence of Leebaert's religious culture and the mandatory health curriculum that he challenges. Leebaert asserts that the mandatory health curriculum conflicts with his belief that "drugs and tobacco are [not] proper subjects that I want my son's school to teach" and his view that "sex before marriage is ... something I do not want my sons to be involved in." Leebaert Aff. dated May 22, 2000, at ¶¶ 5-6. Leebaert's "free exercise claim is [thus] qualitatively distinguishable from that alleged in Yoder." Brown, 68 F.3d at 539 (distinguishing the free exercise claims arising from the plaintiffs' children's one-time compulsory attendance at a ninety-minute AIDS awareness program from those asserted in Yoder).
+
+CONCLUSION
+
+      74
+      
+We affirm the judgment of the district court.
+
+Notes:
+
+        1
+        
+ The Town of Fairfield was dismissed as a party to this litigation by stipulation prior to judgment
+
+        2
+        
+ We readSacramento to apply broadly to governmental regulation and not to be limited to legislation. See Immediato v. Rye Neck School Dist., 73 F.3d 454, 460-61 (2d Cir.), cert. denied, 519 U.S. 813, 117 S.Ct. 60, 136 L.Ed.2d 22 (1996).
+
+        3
+        
+ TheTroxel Court appears to be the first to use the phrase "care, custody, and control," rather than the very similar "care, custody, and management," Stanley v. Illinois, 405 U.S. 645, 651, 92 S.Ct. 1208, 31 L.Ed.2d 551 (1972), in the context of a parent's right concerning his or her children. Prior to Troxel, the phrase was typically used with respect to physical property, for example, in criminal statutes, see, e.g., Fischer v. United States, 529 U.S. 667, 675, 120 S.Ct. 1780, 146 L.Ed.2d 707 (2000) (quoting 18 U.S.C. § 666 which prohibits theft or bribery concerning programs receiving federal funds), and in the context of insurance policies, see, e.g., First Investors Corp. v. Liberty Mut. Ins. Co., 152 F.3d 162, 167 n. 6 (2d Cir.1998) (quoting a portion of an insurance policy which read, "The loss, depreciation in value, or damage to any real or personal property, including, but not limited to, money, securities, negotiable instruments or contracts representing money, held by or in the care, custody or control of the insured."). After Troxel, federal courts of appeals have begun to employ the phrase to refer to parental rights. See, e.g., Batten v. Gomez, 324 F.3d 288, 295 (4th Cir. 2003) (seizure of child violated mother's due process interest "in the companionship, care, custody, and control of her child"); Hatch v. Dep't for Children, Youth and Their Families, 274 F.3d 12, 20 (1st Cir.2001) ("The interest of parents in the care, custody, and control of their children is among the most venerable of the liberty interests embedded in the Constitution.") (citing Troxel, 530 U.S. at 65, 120 S.Ct. 2054); Littlefield v. Forney Indep. Sch. Dist., 268 F.3d 275, 288 (5th Cir.2001) ("One of `the fundamental liberty interests' recognized by the Court is the `interest of parents in the care, custody, and control of their children.'") (quoting Troxel, 530 U.S. at 65-66, 120 S.Ct. 2054).
+
+        4
+        
+ To be sure, inImmediato we concluded that "where, as here, parents seek for secular reasons to exempt their child from an educational requirement and the basis is a claimed right to direct the `upbringing' of their child, rational basis review applies." 73 F.3d at 462 (emphasis added). But we referred to "secular reasons" only to clarify that we were not required to analyze and apply Wisconsin v. Yoder, 406 U.S. 205, 92 S.Ct. 1526, 32 L.Ed.2d 15 (1972), a successful Free Exercise Clause challenge by Amish parents to certain regulations compelling public-school attendance. We discuss Yoder's application to this case in section II.C, below. We do not read Immediato to imply that where the due process right of a parent to control the upbringing and education of his or her child is invoked on religious grounds, the standard of review is somehow changed. We discuss this issue further in the course of our analysis of Employment Division, Department of Human Resources of Oregon v. Smith, 494 U.S. 872, 110 S.Ct. 1595, 108 L.Ed.2d 876 (1990), in section II.B, below.
+
+CC∅ | Transformed by Public.Resource.Org

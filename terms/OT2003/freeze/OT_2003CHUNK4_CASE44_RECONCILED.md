@@ -1,0 +1,24 @@
+# OT2003 chunk 4 — case 44 reconciled commitments
+
+**Stage and cutoff:** Historical reconciliation before Chief assembly; February 24, 2004. No Chief material or full brief was opened. Source commitment: `OT_2003CHUNK4_CASE40_41_43_44_COMMITMENTS.md`, case 44. The complete Thomas dissent (joined by Kennedy), Scalia dissent and notes were read here; the source-validation receipt establishes the complete historical opinion set. The case-specific entering-law slice was read, including Hazen Paper, Consolidated Coin and current Lamie.
+
+**Reconciled change:** Kennedy's provisional reverse-coverage commitment is not supported after comparison. The historical Thomas opinion he joined rejects narrowing the operative language by statutory purpose and social understanding. Hazen Paper and Consolidated Coin leave the directional-coverage question open; Lamie supplies no intervening directional rule and does not answer that objection. No changed record, text, scope or relief premise supports Kennedy abandoning his historical interpretation. His reconciled commitment is therefore to affirm coverage, joining Thomas's best-text ground. This is a reasoned correction of the provisional prediction, not a departure in the final reconciled result.
+
+Scalia also retains a materially distinct ground. His historical dissent treats the agency's construction as reasonable and authoritative under the operative deference framework. The provisional common plain-text theory cannot erase that ground merely because both theories reach coverage. No entering authority supplied here displaces the agency-deference premise. Scalia may agree with the textual criticisms without joining a claim that only the employees' reading is permissible.
+
+| Justice | Reconciled disposition | Ground and scope of join |
+|---|---|---|
+| Stevens | Reverse coverage; restore dismissal. | Full contextual directional construction. Enacted older-worker purpose and statutory usage define the wrong; no general license to override text. |
+| O'Connor | Reverse coverage; restore dismissal. | Full directional construction. Hazen Paper and Consolidated Coin distinguish coverage from actual motive and claimant age. |
+| Scalia | Affirm coverage; remand for remaining defenses and liability questions. | Agency-deference ground: the EEOC's bilateral reading is reasonable and not foreclosed by unambiguous text. Judgment agreement with Thomas/Kennedy does not establish identical rationale. |
+| Kennedy | Affirm coverage; remand. | Joins Thomas's best-text construction. Section 623(a)(1)'s individual-age command and section 631(a)'s class include these plaintiffs; purpose does not insert a directional exclusion. |
+| Souter | Reverse coverage; restore dismissal. | Full directional construction from text in statutory context, structure and enacted older-worker setting; agency reading considered and rejected because the statute resolves the question. |
+| Thomas | Affirm coverage; remand. | Best-text construction; the other uses of age, protected class and express defenses support bilateral coverage. EEOC interpretation confirms rather than creates that reading. |
+| Ginsburg | Reverse coverage; restore dismissal. | Full directional construction; the forty-year floor identifies claimants without defining the entire substantive wrong. |
+| Breyer | Reverse coverage; restore dismissal. | Full contextual directional construction; agency reading is material but cannot overcome that statutory meaning. |
+
+**Coalitions:** Five Associates support directional exclusion: Stevens, O'Connor, Souter, Ginsburg and Breyer. Three support statutory coverage: Scalia, Kennedy and Thomas. Thomas/Kennedy share the best-text rationale; Scalia has the distinct deferential basis. Assembly must choose actual opinion authors independently and preserve these differences.
+
+**Alternative-path reconciliation:** The coverage side's strongest objection is that unqualified age language and bilateral usage elsewhere cannot be narrowed to the principal evil. The directional side answers that the particular phrase has meaning in the enacted statutory context, without treating all discrimination statutes as one-directional. The directional side's strongest objection to the agency is textual resolution; Scalia rejects the claim of clarity, while Thomas/Kennedy find the agency correct on the best reading. The complete subsection 1625.2(b) qualification for older-worker benefits designed reasonably to counteract age discrimination remains distinct from subsection (a); coverage alone resolves neither that possible defense nor liability.
+
+**Remedy and scope:** Five Associates reverse the coverage ruling and restore the federal dismissal; three would affirm coverage and remand for genuinely remaining defenses and liability issues. No damages or willfulness finding follows from either construction alone. No retained material historical departure or unresolved reconciliation blocker remains.

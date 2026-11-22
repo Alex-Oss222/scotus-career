@@ -1,0 +1,448 @@
+Page 407  TITLE 29—LABOR                                        § 1108
+
+(f) Maximum percentage of stock held by plan;                      1987—Subsec. (d)(3)(C). Pub. L. 100–203, § 9345(a)(1),
+      time of holding or acquisition; necessity of              added subpar. (C).
+      legally binding contract
+                                                                   Subsec. (d)(5). Pub. L. 100–203, § 9345(b)(1), inserted at
+   (1) Stock satisfies the requirements of this                 end ‘‘After December 17, 1987, in the case of a plan
+paragraph if, immediately following the acquisi-                other than an eligible individual account plan, stock
+tion of such stock—                                             shall be considered a qualifying employer security only
+                                                                if such stock satisfies the requirements of subsection
+      (A) no more than 25 percent of the aggregate              (f)(1) of this section.’’
+   amount of stock of the same class issued and
+   outstanding at the time of acquisition is held                  Subsec. (d)(9). Pub. L. 100–203, § 9345(a)(2), added par.
+   by the plan, and                                             (9).
+
+      (B) at least 50 percent of the aggregate                     Subsec. (f). Pub. L. 100–203, § 9345(b)(2), added subsec.
+   amount referred to in subparagraph (A) is held               (f).
+   by persons independent of the issuer.
+                                                                              EFFECTIVE DATE OF 1997 AMENDMENT
+   (2) Until January 1, 1993, a plan shall not be
+treated as violating subsection (a) of this sec-                   Section 1524(b) of Pub. L. 105–34 provided that: ‘‘The
+tion solely by holding stock which fails to sat-                amendments made by this section [amending this sec-
+isfy the requirements of paragraph (1) if such                  tion] shall apply to elective deferrals for plan years be-
+stock—                                                          ginning after December 31, 1998.’’
+
+      (A) has been so held since December 17, 1987,                           EFFECTIVE DATE OF 1990 AMENDMENT
+   or
+                                                                   Section 2 of Pub. L. 101–540 provided that: ‘‘The
+      (B) was acquired after December 17, 1987,                 amendment made by section 1 [amending this section]
+   pursuant to a legally binding contract in ef-                shall apply to interests in publicly traded partnerships
+   fect on December 17, 1987, and has been so held              acquired before, on, or after January 1, 1987.’’
+   at all times after the acquisition.
+                                                                              EFFECTIVE DATE OF 1989 AMENDMENT
+(Pub. L. 93–406, title I, § 407, Sept. 2, 1974, 88 Stat.
+880; Pub. L. 100–203, title IX, § 9345(a)(1), (2), (b),            Amendment by section 7881(l)(1)–(4) of Pub. L. 101–239
+Dec. 22, 1987, 101 Stat. 1330–373; Pub. L. 101–239,             effective, except as otherwise provided, as if included in
+title VII, §§ 7881(l)(1)–(4), 7891(a)(1), 7894(e)(2),           the provision of the Pension Protection Act, Pub. L.
+Dec. 19, 1989, 103 Stat. 2443, 2445, 2450; Pub. L.              100–203, §§ 9302–9346, to which such amendment relates,
+101–540, § 1, Nov. 8, 1990, 104 Stat. 2379; Pub. L.             see section 7882 of Pub. L. 101–239, set out as a note
+105–34, title XV, § 1524(a), Aug. 5, 1997, 111 Stat.            under section 401 of Title 26, Internal Revenue Code.
+1071.)
+                                                                   Amendment by section 7891(a)(1) of Pub. L. 101–239 ef-
+                           REFERENCES IN TEXT                   fective, except as otherwise provided, as if included in
+                                                                the provision of the Tax Reform Act of 1986, Pub. L.
+   Section 10211(c)(2)(A) of the Revenue Act of 1987 (Pub-      99–514, to which such amendment relates, see section
+lic Law 100–203), referred to in subsec. (d)(5)(C), is set      7891(f) of Pub. L. 101–239, set out as a note under section
+out as a note under section 7704 of Title 26, Internal          1002 of this title.
+Revenue Code.
+                                                                   Amendment by section 7894(e)(2) of Pub. L. 101–239 ef-
+                                  AMENDMENTS                    fective, except as otherwise provided, as if originally
+                                                                included in the provision of the Employee Retirement
+   1997—Subsec. (b)(2), (3). Pub. L. 105–34 added par. (2)      Income Security Act of 1974, Pub. L. 93–406, to which
+and redesignated former par. (2) as (3).                        such amendment relates, see section 7894(i) of Pub. L.
+                                                                101–239, set out as a note under section 1002 of this title.
+   1990—Subsec. (d)(5). Pub. L. 101–540 amended par. (5)
+generally. Prior to amendment, par. (5) read as follows:                      EFFECTIVE DATE OF 1987 AMENDMENT
+‘‘The term ‘qualifying employer security’ means an em-
+ployer security which is stock or a marketable obliga-             Section 9345(a)(3) of Pub. L. 100–203 provided that:
+tion (as defined in subsection (e) of this section). After      ‘‘The amendments made by this subsection [amending
+December 17, 1987, in the case of a plan other than an          this section] shall apply with respect to arrangements
+eligible individual account plan, stock shall be consid-        established after December 17, 1987.’’
+ered a qualifying employer security only if such stock
+satisfies the requirements of subsection (f)(1) of this                                           REGULATIONS
+section.’’
+                                                                   Secretary authorized, effective Sept. 2, 1974, to pro-
+   1989—Subsec. (d)(3)(A), (6)(A), (7). Pub. L. 101–239,        mulgate regulations wherever provisions of this part
+§ 7891(a)(1), substituted ‘‘Internal Revenue Code of 1986’’     call for the promulgation of regulations, see sections
+for ‘‘Internal Revenue Code of 1954’’, which for purposes       1031 and 1114 of this title.
+of codification was translated as ‘‘title 26’’ thus requir-
+ing no change in text.                                                      SECTION REFERRED TO IN OTHER SECTIONS
+
+   Subsec. (d)(3)(C). Pub. L. 101–239, § 7881(l)(1), realigned     This section is referred to in sections 1101, 1104, 1106,
+margin.                                                         1108, 1114, 1222 of this title.
+
+   Subsec. (d)(6)(A). Pub. L. 101–239, § 7894(e)(2), sub-       § 1108. Exemptions from prohibited transactions
+stituted ‘‘money purchase plan’’ for ‘‘money purchase’’
+and ‘‘employer securities’’ for ‘‘employee securities’’.        (a) Grant of exemptions
+
+   Subsec. (d)(9). Pub. L. 101–239, § 7881(l)(2), substituted      The Secretary shall establish an exemption
+‘‘such individual account plan’’ for ‘‘such arrange-            procedure for purposes of this subsection. Pursu-
+ment’’ and realigned margin.                                    ant to such procedure, he may grant a condi-
+                                                                tional or unconditional exemption of any fidu-
+   Subsec. (f)(1). Pub. L. 101–239, § 7881(l)(3)(A), (4), sub-  ciary or transaction, or class of fiduciaries or
+stituted ‘‘paragraph’’ for ‘‘subsection’’ and ‘‘if, imme-       transactions, from all or part of the restrictions
+diately following the acquisition of such stock’’ for           imposed by sections 1106 and 1107(a) of this title.
+‘‘if’’.                                                         Action under this subsection may be taken only
+                                                                after consultation and coordination with the
+   Subsec. (f)(3). Pub. L. 101–239, § 7881(l)(3)(B), struck     Secretary of the Treasury. An exemption grant-
+out par. (3) which read as follows: ‘‘After December 17,        ed under this section shall not relieve a fidu-
+1987, no plan may acquire stock which does not satisfy          ciary from any other applicable provision of this
+the requirements of paragraph (1) unless the acquisi-           chapter. The Secretary may not grant an ex-
+tion is made pursuant to a legally binding contract in
+effect on such date.’’
+§ 1108  TITLE 29—LABOR                                  Page 408
+
+emption under this subsection unless he finds                 (B) such investment is expressly author-
+that such exemption is—                                    ized by a provision of the plan or by a fidu-
+                                                           ciary (other than such bank or institution or
+      (1) administratively feasible,                       affiliate thereof) who is expressly empow-
+      (2) in the interests of the plan and of its par-     ered by the plan to so instruct the trustee
+   ticipants and beneficiaries, and                        with respect to such investment.
+      (3) protective of the rights of participants
+   and beneficiaries of such plan.                         (5) Any contract for life insurance, health
+                                                        insurance, or annuities with one or more in-
+Before granting an exemption under this sub-            surers which are qualified to do business in a
+section from section 1106(a) or 1107(a) of this         State, if the plan pays no more than adequate
+title, the Secretary shall publish notice in the        consideration, and if each such insurer or in-
+Federal Register of the pendency of the exemp-          surers is—
+tion, shall require that adequate notice be given
+to interested persons, and shall afford interested            (A) the employer maintaining the plan, or
+persons opportunity to present views. The Sec-                (B) a party in interest which is wholly
+retary may not grant an exemption under this               owned (directly or indirectly) by the em-
+subsection from section 1106(b) of this title un-          ployer maintaining the plan, or by any per-
+less he affords an opportunity for a hearing and           son which is a party in interest with respect
+makes a determination on the record with re-               to the plan, but only if the total premiums
+spect to the findings required by paragraphs (1),          and annuity consideration written by such
+(2), and (3) of this subsection.                           insurers for life insurance, health insurance,
+                                                           or annuities for all plans (and their employ-
+(b) Enumeration of transactions exempted from              ers) with respect to which such insurers are
+      section 1106 prohibitions                            parties in interest (not including premiums
+                                                           or annuity considerations written by the
+   The prohibitions provided in section 1106 of            employer maintaining the plan) do not ex-
+this title shall not apply to any of the following         ceed 5 percent of the total premiums and an-
+transactions:                                              nuity considerations written for all lines of
+                                                           insurance in that year by such insurers (not
+      (1) Any loans made by the plan to parties in         including premiums or annuity consider-
+   interest who are participants or beneficiaries          ations written by the employer maintaining
+   of the plan if such loans (A) are available to          the plan).
+   all such participants and beneficiaries on a
+   reasonably equivalent basis, (B) are not made           (6) The providing of any ancillary service by
+   available to highly compensated employees            a bank or similar financial institution super-
+   (within the meaning of section 414(q) of title       vised by the United States or a State, if such
+   26) in an amount greater than the amount             bank or other institution is a fiduciary of such
+   made available to other employees, (C) are           plan, and if—
+   made in accordance with specific provisions
+   regarding such loans set forth in the plan, (D)            (A) such bank or similar financial institu-
+   bear a reasonable rate of interest, and (E) are         tion has adopted adequate internal safe-
+   adequately secured. A loan made by a plan               guards which assure that the providing of
+   shall not fail to meet the requirements of the          such ancillary service is consistent with
+   preceding sentence by reason of a loan repay-           sound banking and financial practice, as de-
+   ment suspension described under section                 termined by Federal or State supervisory
+   414(u)(4) of title 26.                                  authority, and
+
+      (2) Contracting or making reasonable ar-                (B) the extent to which such ancillary
+   rangements with a party in interest for office          service is provided is subject to specific
+   space, or legal, accounting, or other services          guidelines issued by such bank or similar fi-
+   necessary for the establishment or operation            nancial institution (as determined by the
+   of the plan, if no more than reasonable com-            Secretary after consultation with Federal
+   pensation is paid therefor.                             and State supervisory authority), and adher-
+                                                           ence to such guidelines would reasonably
+      (3) A loan to an employee stock ownership            preclude such bank or similar financial in-
+   plan (as defined in section 1107(d)(6) of this          stitution from providing such ancillary serv-
+   title), if—                                             ice (i) in an excessive or unreasonable man-
+                                                           ner, and (ii) in a manner that would be in-
+         (A) such loan is primarily for the benefit        consistent with the best interests of partici-
+      of participants and beneficiaries of the plan,       pants and beneficiaries of employee benefit
+      and                                                  plans.
+
+         (B) such loan is at an interest rate which     Such ancillary services shall not be provided
+      is not in excess of a reasonable rate.            at more than reasonable compensation.
+
+   If the plan gives collateral to a party in inter-       (7) The exercise of a privilege to convert se-
+   est for such loan, such collateral may consist       curities, to the extent provided in regulations
+   only of qualifying employer securities (as de-       of the Secretary, but only if the plan receives
+   fined in section 1107(d)(5) of this title).          no less than adequate consideration pursuant
+                                                        to such conversion.
+      (4) The investment of all or part of a plan’s
+   assets in deposits which bear a reasonable in-          (8) Any transaction between a plan and (i) a
+   terest rate in a bank or similar financial insti-    common or collective trust fund or pooled in-
+   tution supervised by the United States or a          vestment fund maintained by a party in inter-
+   State, if such bank or other institution is a fi-    est which is a bank or trust company super-
+   duciary of such plan and if—                         vised by a State or Federal agency or (ii) a
+                                                        pooled investment fund of an insurance com-
+         (A) the plan covers only employees of such     pany qualified to do business in a State, if—
+      bank or other institution and employees of
+      affiliates of such bank or other institution,
+      or
+Page 409  TITLE 29—LABOR                                 § 1108
+
+         (A) the transaction is a sale or purchase of    (d) Owner-employees; family members; share-
+      an interest in the fund,                                 holder employees
+
+         (B) the bank, trust company, or insurance          (1) Section 1107(b) of this title and subsections
+      company receives not more than reasonable          (b), (c), and (e) of this section shall not apply to
+      compensation, and                                  a transaction in which a plan directly or indi-
+                                                         rectly—
+         (C) such transaction is expressly permitted
+      by the instrument under which the plan is                (A) lends any part of the corpus or income of
+      maintained, or by a fiduciary (other than             the plan to,
+      the bank, trust company, or insurance com-
+      pany, or an affiliate thereof) who has au-               (B) pays any compensation for personal serv-
+      thority to manage and control the assets of           ices rendered to the plan to, or
+      the plan.
+                                                               (C) acquires for the plan any property from,
+      (9) The making by a fiduciary of a distribu-          or sells any property to,
+   tion of the assets of the plan in accordance
+   with the terms of the plan if such assets are         any person who is with respect to the plan an
+   distributed in the same manner as provided            owner-employee (as defined in section 401(c)(3)
+   under section 1344 of this title (relating to al-     of title 26), a member of the family (as defined
+   location of assets).                                  in section 267(c)(4) of such title) of any such
+                                                         owner-employee, or any corporation in which
+      (10) Any transaction required or permitted         any such owner-employee owns, directly or indi-
+   under part 1 of subtitle E of subchapter III of       rectly, 50 percent or more of the total combined
+   this chapter.                                         voting power of all classes of stock entitled to
+                                                         vote or 50 percent or more of the total value of
+      (11) A merger of multiemployer plans, or the       shares of all classes of stock of the corporation.
+   transfer of assets or liabilities between multi-
+   employer plans, determined by the Pension                (2)(A) For purposes of paragraph (1), the fol-
+   Benefit Guaranty Corporation to meet the re-          lowing shall be treated as owner-employees:
+   quirements of section 1411 of this title.
+                                                               (i) A shareholder-employee.
+      (12) The sale by a plan to a party in interest           (ii) A participant or beneficiary of an indi-
+   on or after December 18, 1987, of any stock, if—         vidual retirement plan (as defined in section
+                                                            7701(a)(37) of title 26).
+         (A) the requirements of paragraphs (1) and            (iii) An employer or association of employ-
+      (2) of subsection (e) of this section are met         ees which establishes such an individual re-
+      with respect to such stock,                           tirement plan under section 408(c) of such
+                                                            title.
+         (B) on the later of the date on which the
+      stock was acquired by the plan, or January            (B) Paragraph (1)(C) shall not apply to a trans-
+      1, 1975, such stock constituted a qualifying       action which consists of a sale of employer secu-
+      employer security (as defined in section           rities to an employee stock ownership plan (as
+      1107(d)(5) of this title as then in effect), and   defined in section 1107(d)(6) of this title) by a
+                                                         shareholder-employee, a member of the family
+         (C) such stock does not constitute a quali-     (as defined in section 267(c)(4) of such title) of
+      fying employer security (as defined in sec-        any such owner-employee, or a corporation in
+      tion 1107(d)(5) of this title as in effect at the  which such a shareholder-employee owns stock
+      time of the sale).                                 representing a 50 percent or greater interest de-
+                                                         scribed in paragraph (1).
+      (13) Any transfer made before January 1,
+   2006, of excess pension assets from a defined            (3) For purposes of paragraph (2), the term
+   benefit plan to a retiree health account in a         ‘‘shareholder-employee’’ means an employee or
+   qualified transfer permitted under section 420        officer of an S corporation (as defined in section
+   of title 26 (as in effect on December 17, 1999).      1361(a)(1) of such title) who owns (or is consid-
+                                                         ered as owning within the meaning of section
+(c) Fiduciary benefits and compensation not pro-         318(a)(1) of such title) more than 5 percent of the
+      hibited by section 1106                            outstanding stock of the corporation on any day
+                                                         during the taxable year of such corporation.
+   Nothing in section 1106 of this title shall be
+construed to prohibit any fiduciary from—                (e) Acquisition or sale by plan of qualifying em-
+                                                               ployer securities; acquisition, sale, or lease
+      (1) receiving any benefit to which he may be             by plan of qualifying employer real property
+   entitled as a participant or beneficiary in the
+   plan, so long as the benefit is computed and             Sections 1106 and 1107 of this title shall not
+   paid on a basis which is consistent with the          apply to the acquisition or sale by a plan of
+   terms of the plan as applied to all other par-        qualifying employer securities (as defined in
+   ticipants and beneficiaries;                          section 1107(d)(5) of this title) or acquisition,
+                                                         sale or lease by a plan of qualifying employer
+      (2) receiving any reasonable compensation          real property (as defined in section 1107(d)(4) of
+   for services rendered, or for the reimburse-          this title)—
+   ment of expenses properly and actually in-
+   curred, in the performance of his duties with               (1) if such acquisition, sale, or lease is for
+   the plan; except that no person so serving who           adequate consideration (or in the case of a
+   already receives full time pay from an em-               marketable obligation, at a price not less fa-
+   ployer or an association of employers, whose             vorable to the plan than the price determined
+   employees are participants in the plan, or               under section 1107(e)(1) of this title),
+   from an employee organization whose mem-
+   bers are participants in such plan shall receive            (2) if no commission is charged with respect
+   compensation from such plan, except for reim-            thereto, and
+   bursement of expenses properly and actually
+   incurred; or                                                (3) if—
+                                                                  (A) the plan is an eligible individual ac-
+      (3) serving as a fiduciary in addition to being
+   an officer, employee, agent, or other rep-                  count plan (as defined in section 1107(d)(3) of
+   resentative of a party in interest.                         this title), or
+§ 1108  TITLE 29—LABOR                                         Page 410
+
+         (B) in the case of an acquisition or lease of            Pub. L. 101–239, § 7894(e)(4)(A), in last sentence, sub-
+      qualifying employer real property by a plan              stituted ‘‘individual retirement account or individual
+      which is not an eligible individual account              retirement annuity described in section 408 of title 26
+      plan, or of an acquisition of qualifying em-             or a retirement bond described in section 409 of title 26
+      ployer securities by such a plan, the lease or           (as effective for obligations issued before January 1,
+      acquisition is not prohibited by section                 1984)’’ for ‘‘individual retirement account, individual
+      1107(a) of this title.                                   retirement annuity, or an individual retirement bond
+                                                               (as defined in section 408 or 409 of title 26)’’ and ‘‘sec-
+(f) Applicability of statutory prohibitions to                 tion 408(c) of such Code’’ for ‘‘section 408(c) of such
+      mergers or transfers                                     code’’, which for purposes of codification was trans-
+                                                               lated as ‘‘section 408(c) of title 26’’ thus requiring no
+   Section 1106(b)(2) of this title shall not apply            change in text.
+to any merger or transfer described in sub-
+section (b)(11) of this section.                                  1986—Subsec. (b)(1)(B). Pub. L. 99–514, § 1114(b)(15)(B),
+                                                               substituted ‘‘highly compensated employees (within
+(Pub. L. 93–406, title I, § 408, Sept. 2, 1974, 88 Stat.       the meaning of section 414(q) of title 26)’’ for ‘‘highly
+883; Pub. L. 96–364, title III, § 308, Sept. 26, 1980,         compensated employees, officers, or shareholders’’.
+94 Stat. 1295; Pub. L. 97–354, § 5(a)(43), Oct. 19,
+1982, 96 Stat. 1697; Pub. L. 99–514, title XI,                    Subsec. (d). Pub. L. 99–514, § 1898(i)(1), struck out
+§ 1114(b)(15)(B), title XVIII, § 1898(i)(1), Oct. 22,          ‘‘(a),’’ before ‘‘(b),’’ in introductory provisions.
+1986, 100 Stat. 2452, 2957; Pub. L. 101–239, title
+VII, §§ 7881(l)(5), 7891, 7894(e)(4)(A), Dec. 19, 1989,           1982—Subsec. (d). Pub. L. 97–354 substituted ‘‘section
+103 Stat. 2443, 2445, 2450; Pub. L. 101–508, title             1379 of title 26 as in effect on the day before the date
+XII, § 12012(b), Nov. 5, 1990, 104 Stat. 1388–571;             of the enactment of the Subchapter S Revision Act of
+Pub. L. 103–465, title VII, § 731(c)(4)(C), Dec. 8,            1982’’ for ‘‘section 1379 of title 26’’.
+1994, 108 Stat. 5004; Pub. L. 104–188, title I,
+§ 1704(n)(2), Aug. 20, 1996, 110 Stat. 1886; Pub. L.              1980—Subsec. (b)(10), (11). Pub. L. 96–364, § 308(a),
+105–34, title XV, § 1506(b)(2), Aug. 5, 1997, 111 Stat.        added pars. (10) and (11).
+1066; Pub. L. 106–170, title V, § 535(a)(2)(C), Dec.
+17, 1999, 113 Stat. 1934.)                                        Subsec. (f). Pub. L. 96–364, § 308(b), added subsec. (f).
+
+                           REFERENCES IN TEXT                                EFFECTIVE DATE OF 1999 AMENDMENT
+
+   This chapter, referred to in subsec. (a), was in the           Amendment by Pub. L. 106–170 applicable to qualified
+original ‘‘this Act’’, meaning Pub. L. 93–406, known as        transfers occurring after Dec. 17, 1999, see section
+the Employee Retirement Income Security Act of 1974.           535(c)(1) of Pub. L. 106–170, set out as a note under sec-
+Titles I, III, and IV of such Act are classified prin-         tion 420 of Title 26, Internal Revenue Code.
+cipally to this chapter. For complete classification of
+this Act to the Code, see Short Title note set out under                     EFFECTIVE DATE OF 1997 AMENDMENT
+section 1001 of this title and Tables.
+                                                                  Amendment by Pub. L. 105–34 applicable to taxable
+                                  AMENDMENTS                   years beginning after Dec. 31, 1997, see section 1506(c) of
+                                                               Pub. L. 105–34, set out as a note under section 409 of
+   1999—Subsec. (b)(13). Pub. L. 106–170 substituted           Title 26, Internal Revenue Code.
+‘‘made before January 1, 2006’’ for ‘‘in a taxable year
+beginning before January 1, 2001’’ and ‘‘December 17,                        EFFECTIVE DATE OF 1996 AMENDMENT
+1999’’ for ‘‘January 1, 1995’’.
+                                                                  Amendment by Pub. L. 104–188 effective as of Dec. 12,
+   1997—Subsec. (d). Pub. L. 105–34 amended subsec. (d)        1994, see section 1704(n)(3) of Pub. L. 104–188, set out as
+generally, substituting present provisions for provi-          a note under section 414 of Title 26, Internal Revenue
+sions exempting transactions involving an owner-em-            Code.
+ployee, a member of the family, or a corporation con-
+trolled by any such owner-employee through the own-                          EFFECTIVE DATE OF 1990 AMENDMENT
+ership, directly or indirectly, of 50 percent or more of
+the total combined voting power of all classes of stock           Amendment by Pub. L. 101–508 applicable to qualified
+entitled to vote or 50 percent or more of the total value      transfers under section 420 of title 26 made after Nov.
+of shares of all classes of stock of the corporation.          5, 1990, see section 12012(e) of Pub. L. 101–508, set out as
+                                                               a note under section 1021 of this title.
+   1996—Subsec. (b)(1). Pub. L. 104–188 inserted at end ‘‘A
+loan made by a plan shall not fail to meet the require-                      EFFECTIVE DATE OF 1989 AMENDMENT
+ments of the preceding sentence by reason of a loan re-
+payment suspension described under section 414(u)(4) of           Amendment by section 7881(l)(5) of Pub. L. 101–239 ef-
+title 26.’’                                                    fective, except as otherwise provided, as if included in
+                                                               the provision of the Pension Protection Act, Pub. L.
+   1994—Subsec. (b)(13). Pub. L. 103–465 substituted           100–203, §§ 9302–9346, to which such amendment relates,
+‘‘2001’’ for ‘‘1996’’ and ‘‘1995’’ for ‘‘1991’’.               see section 7882 of Pub. L. 101–239, set out as a note
+                                                               under section 401 of Title 26, Internal Revenue Code.
+   1990—Subsec. (b)(13). Pub. L. 101–508 added par. (13).
+   1989—Subsec. (b)(12). Pub. L. 101–239, § 7881(l)(5), added     Amendment by section 7891(a) of Pub. L. 101–239 effec-
+par. (12).                                                     tive, except as otherwise provided, as if included in the
+   Subsec. (d). Pub. L. 101–239, § 7891(a)(1), in last sen-    provision of the Tax Reform Act of 1986, Pub. L. 99–514,
+tence, substituted ‘‘section 401(c)(3) of the Internal         to which such amendment relates, see section 7891(f) of
+Revenue Code of 1986’’ for ‘‘section 401(c)(3) of the Inter-   Pub. L. 101–239, set out as a note under section 1002 of
+nal Revenue Code of 1954’’, which for purposes of codi-        this title.
+fication was translated as ‘‘section 401(c)(3) of title 26’’
+thus requiring no change in text.                                 Section 7894(e)(4)(B) of Pub. L. 101–239 provided that:
+   Pub. L. 101–239, § 7891(a)(2), in last sentence, sub-       ‘‘The amendments made by subparagraph (A) [amend-
+stituted ‘‘section 408 of the Internal Revenue Code of         ing this section] shall take effect as if originally in-
+1986’’ for ‘‘section 408 of the Internal Revenue Code of       cluded in section 491(b) of the Deficit Reduction Act of
+1954’’ and ‘‘section 408(c) of the Internal Revenue Code       1984 [Pub. L. 98–369].’’
+of 1986’’ for ‘‘section 408(c) of such Code’’ which for pur-
+poses of codification were translated as ‘‘section 408 of                    EFFECTIVE DATE OF 1986 AMENDMENT
+title 26’’ and ‘‘section 408(c) of title 26’’, respectively,
+thus requiring no change in text.                                 Amendment by section 1114(b)(15)(B) of Pub. L. 99–514
+                                                               applicable to years beginning after Dec. 31, 1988, see
+                                                               section 1114(c)(3) of Pub. L. 99–514, set out as a note
+                                                               under section 414 of Title 26, Internal Revenue Code.
+
+                                                                  Section 1898(i)(2) of Pub. L. 99–514 provided that: ‘‘The
+                                                               amendment made by paragraph (1) [amending this sec-
+                                                               tion] shall apply to transactions after the date of the
+                                                               enactment of this Act [Oct. 22, 1986].’’
+Page 411  TITLE 29—LABOR                                       § 1111
+
+              EFFECTIVE DATE OF 1982 AMENDMENT                       (1) a plan from purchasing insurance for its
+                                                                  fiduciaries or for itself to cover liability or
+   Amendment by Pub. L. 97–354 applicable to taxable              losses occurring by reason of the act or omis-
+years beginning after Dec. 31, 1982, see section 6(a) of          sion of a fiduciary, if such insurance permits
+Pub. L. 97–354, set out as a note under section 1361 of           recourse by the insurer against the fiduciary
+Title 26, Internal Revenue Code.                                  in the case of a breach of a fiduciary obliga-
+                                                                  tion by such fiduciary;
+              EFFECTIVE DATE OF 1980 AMENDMENT
+                                                                     (2) a fiduciary from purchasing insurance to
+   Amendment by Pub. L. 96–364 effective Sept. 26, 1980,          cover liability under this part from and for his
+except as specifically provided, see section 1461(e) of           own account; or
+this title.
+                                                                     (3) an employer or an employee organization
+                                  REGULATIONS                     from purchasing insurance to cover potential
+                                                                  liability of one or more persons who serve in a
+   Secretary of the Treasury or his delegate to issue be-         fiduciary capacity with regard to an employee
+fore Feb. 1, 1988, final regulations to carry out amend-          benefit plan.
+ments made by section 1114 of Pub. L. 99–514, see sec-
+tion 1141 of Pub. L. 99–514, set out as a note under sec-      (Pub. L. 93–406, title I, § 410, Sept. 2, 1974, 88 Stat.
+tion 401 of Title 26, Internal Revenue Code.                   886.)
+
+   Secretary authorized, effective Sept. 2, 1974, to pro-                  SECTION REFERRED TO IN OTHER SECTIONS
+mulgate regulations wherever provisions of this part
+call for the promulgation of regulations, see sections            This section is referred to in section 1114 of this title.
+1031 and 1114 of this title.
+                                                               § 1111. Persons prohibited from holding certain
+           PLAN AMENDMENTS NOT REQUIRED UNTIL                        positions
+                                JANUARY 1, 1989
+                                                               (a) Conviction or imprisonment
+   For provisions directing that if any amendments
+made by subtitle A or subtitle C of title XI [§§ 1101–1147        No person who has been convicted of, or has
+and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L.       been imprisoned as a result of his conviction of,
+99–514 require an amendment to any plan, such plan             robbery, bribery, extortion, embezzlement,
+amendment shall not be required to be made before the          fraud, grand larceny, burglary, arson, a felony
+first plan year beginning on or after Jan. 1, 1989, see        violation of Federal or State law involving sub-
+section 1140 of Pub. L. 99–514, as amended, set out as a       stances defined in section 802(6) of title 21, mur-
+note under section 401 of Title 26, Internal Revenue           der, rape, kidnaping, perjury, assault with in-
+Code.                                                          tent to kill, any crime described in section
+                                                               80a–9(a)(1) of title 15, a violation of any provi-
+            SECTION REFERRED TO IN OTHER SECTIONS              sion of this chapter, a violation of section 186 of
+                                                               this title, a violation of chapter 63 of title 18, a
+   This section is referred to in sections 1101, 1106, 1107,   violation of section 874, 1027, 1503, 1505, 1506, 1510,
+1403 of this title; title 5 section 8477; title 26 section     1951, or 1954 of title 18, a violation of the Labor-
+4975.                                                          Management Reporting and Disclosure Act of
+                                                               1959 (29 U.S.C. 401), any felony involving abuse or
+§ 1109. Liability for breach of fiduciary duty                 misuse of such person’s position or employment
+                                                               in a labor organization or employee benefit plan
+   (a) Any person who is a fiduciary with respect              to seek or obtain an illegal gain at the expense
+to a plan who breaches any of the responsibil-                 of the members of the labor organization or the
+ities, obligations, or duties imposed upon fidu-               beneficiaries of the employee benefit plan, or
+ciaries by this subchapter shall be personally                 conspiracy to commit any such crimes or at-
+liable to make good to such plan any losses to                 tempt to commit any such crimes, or a crime in
+the plan resulting from each such breach, and to               which any of the foregoing crimes is an element,
+restore to such plan any profits of such fiduciary             shall serve or be permitted to serve—
+which have been made through use of assets of
+the plan by the fiduciary, and shall be subject to                   (1) as an administrator, fiduciary, officer,
+such other equitable or remedial relief as the                    trustee, custodian, counsel, agent, employee,
+court may deem appropriate, including removal                     or representative in any capacity of any em-
+of such fiduciary. A fiduciary may also be re-                    ployee benefit plan,
+moved for a violation of section 1111 of this
+title.                                                               (2) as a consultant or adviser to an employee
+                                                                  benefit plan, including but not limited to any
+   (b) No fiduciary shall be liable with respect to               entity whose activities are in whole or sub-
+a breach of fiduciary duty under this subchapter                  stantial part devoted to providing goods or
+if such breach was committed before he became                     services to any employee benefit plan, or
+a fiduciary or after he ceased to be a fiduciary.
+                                                                     (3) in any capacity that involves decision-
+(Pub. L. 93–406, title I, § 409, Sept. 2, 1974, 88 Stat.          making authority or custody or control of the
+886.)                                                             moneys, funds, assets, or property of any em-
+                                                                  ployee benefit plan,
+            SECTION REFERRED TO IN OTHER SECTIONS
+                                                               during or for the period of thirteen years after
+   This section is referred to in section 1132 of this title.  such conviction or after the end of such impris-
+                                                               onment, whichever is later, unless the sentenc-
+§ 1110. Exculpatory provisions; insurance                      ing court on the motion of the person convicted
+                                                               sets a lesser period of at least three years after
+   (a) Except as provided in sections 1105(b)(1)               such conviction or after the end of such impris-
+and 1105(d) of this title, any provision in an                 onment, whichever is later, or unless prior to
+agreement or instrument which purports to re-                  the end of such period, in the case of a person so
+lieve a fiduciary from responsibility or liability             convicted or imprisoned (A) his citizenship
+for any responsibility, obligation, or duty under
+this part shall be void as against public policy.
+
+   (b) Nothing in this subpart 1 shall preclude—
+
+   1 So in original. This part does not contain subparts.
+

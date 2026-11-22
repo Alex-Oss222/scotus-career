@@ -412,6 +412,212 @@ Public procedure: The lower courts must retain the wiretap count against this co
 
 [Complete public law and procedure](../runtime/current-public-law/united_states_v_carnes_merits_2004-02-09.md).
 
+### Leebaert v. Harrington — 2004-02-17
+
+Neutral ordinary instruction may be compulsory despite parental disagreement. Courts must identify the actual interference with parental direction and examine an asserted religious burden independently. Combining constitutional labels does not supply an otherwise missing protected interference. The separate state-law exemptions continue to operate under state law.
+
+Published separate positions:
+
+No separate opinion is filed.
+
+Public procedure: The affirmed federal judgment governs the parties. The state-law claims remain eligible for adjudication in the appropriate state forum under ordinary law.
+
+Complete public rules, qualifications, proposition-level joins and remedy: [Public decision](../runtime/OT_2003CHUNK4_leebaert_v_harrington_merits_2004-02-17_PUBLIC.md).
+
+### United States v. McFarland — 2004-02-19
+
+The direct-business-assets rule governs these retail robberies. The prosecution must prove the enacted nexus and the assets' operating function beyond a reasonable doubt; slight individual magnitude does not defeat a properly connected application. The constitutional rule rests on interference with active commerce, not on the proposition that all stolen money may eventually be spent.
+
+Published separate positions:
+
+No separate opinion is filed.
+
+Public procedure: The affirmed convictions and sentence remain enforceable under the existing judgment.
+
+Complete public rules, qualifications, proposition-level joins and remedy: [Public decision](../runtime/OT_2003CHUNK4_united_states_v_mcfarland_merits_2004-02-19_PUBLIC.md).
+
+### Illinois v. Fisher — 2004-02-23
+
+The federal preservation inquiry continues to turn on the evidence category and its applicable conditions. A discovery request may be relevant proof of bad faith, but neither the request nor importance automatically changes the potentially-useful-evidence rule. States may enforce independent preservation and discovery protections under their own law.
+
+Published separate positions:
+
+**Stevens, concurring in the judgment.** Stevens retains the position expressed in his Youngblood concurrence that destruction of evidence could make a trial fundamentally unfair in an exceptional case despite the absence of bad faith. He does not join an unconditional bad-faith rule covering every conceivable loss. Four inculpatory tests and the ordinary destruction shown here do not establish the exceptional unfairness he would require, so he agrees that this federal ground cannot support the judgment. Independent state discovery law remains available on its own terms.
+
+Public procedure: The case returns to the Illinois courts for the preserved state-law inquiry and further proceedings consistent with the federal rule.
+
+Complete public rules, qualifications, proposition-level joins and remedy: [Public decision](../runtime/OT_2003CHUNK4_illinois_v_fisher_merits_2004-02-23_PUBLIC.md).
+
+### Banks v. Dretke — 2004-02-24
+
+Former-law factual development is governed by the actual deliberate-bypass rule, with separate defaults and statutory restrictions assessed under their own triggers. Concealed informant evidence must be evaluated through all supported lawful uses in the relevant penalty record. A material suppression violation entitles Banks to the stated sentence remedy. A procedural certificate requires both constitutional and procedural debatability, and grants appellate access at the identified issue-specific scope.
+
+Published separate positions:
+
+**Thomas, joined by Scalia, concurring in part and dissenting in part.** They join the ruling permitting consideration of the developed evidence and the Cook certificate disposition. They reject Farr materiality after considering disclosure's investigative and impeachment uses: the murder, the independent pistol-assault account and Banks's admitted gun assistance leave them confident in the penalty result despite Farr's concealed role.
+
+Because they reject the Farr route, they also address the independently presented penalty-assistance claim. Assuming deficient investigation and considering the full supported proffer, they find no reasonable probability of a different lawful sentence. The proffer includes family violence and harsh discipline, the skin condition and resulting isolation, asserted learning or developmental limitations, and the fuller Jefferson account. Their conclusion rests on whole-record prejudice under Strickland and Terry Williams, rather than excluding later evidence as automatically unexhausted or applying amended merits deference. They would affirm denial of sentence relief while allowing the Cook appeal.
+
+Public procedure: The case returns for implementation of the conditional sentence writ and the issue-specific Cook appeal. The district court must set the concrete compliance period, and the appellate court must adjudicate the Cook pleading and constitutional issues on the actual litigation record.
+
+Complete public rules, qualifications, proposition-level joins and remedy: [Public decision](../runtime/OT_2003CHUNK4_banks_v_dretke_merits_2004-02-24_PUBLIC.md).
+
+### Doe v. Chao — 2004-02-24
+
+A Privacy Act plaintiff must distinguish the violation, culpability and adverse-effect predicates from the actual-damages condition for monetary recovery. Once qualifying actual damages are established, the statutory minimum governs the amount recoverable when those damages are smaller. The complete definition and proof of actual damages remain outside this decision's granted scope.
+
+Published separate positions:
+
+**Ginsburg, joined by Stevens and Breyer, dissenting.** They would restore Doe's $1,000 award. In their reading, the opening liability command identifies the persons entitled to recovery once an intentional or willful violation causes a genuine adverse effect, and the proviso supplies an independent minimum for those persons. The actual-damages language permits larger compensation for proved loss rather than imposing a further threshold on the minimum.
+
+They distinguish a fixed amount expressly enacted by Congress from unlimited presumed general damages. The intentional-or-willful requirement and genuine adverse effect restrict recovery and answer the concern that a harmless technical violation would produce an award. Breyer's emphasis on that culpability limit is part of the shared dissent. MacArthur left this monetary issue open; its separation of injury from ultimate recovery does not, for the dissenters, decide which reading of the proviso is correct.
+
+Public procedure: The Fourth Circuit's monetary judgment stands. The separate prospective obligations continue under their existing terms.
+
+Complete public rules, qualifications, proposition-level joins and remedy: [Public decision](../runtime/OT_2003CHUNK4_doe_v_chao_merits_2004-02-24_PUBLIC.md).
+
+### General Dynamics Land Systems, Inc. v. Cline — 2004-02-24
+
+The ADEA reaches disadvantage because of advancing age. A preference for older workers over younger protected workers does not, by that feature alone, violate its age-discrimination prohibition. Courts must determine whether the challenged disadvantage falls within that protection before applying the statute's proof and remedial rules.
+
+Published separate positions:
+
+**Thomas, joined by Kennedy, dissenting.** They read the enacted prohibition on discrimination because of age as covering either direction within the protected class. Congress specified the age-forty boundary but did not place a second, older-versus-younger restriction in the operative command. They reject narrowing that language through general statutory purpose or assumptions about the usual victim of age discrimination. They would sustain statutory coverage and leave remaining liability and defenses for ordinary proceedings.
+
+**Scalia, dissenting.** Scalia would sustain coverage because the EEOC's bilateral interpretation is a permissible construction entitled to acceptance. His ground does not require agreement that the employees' reading is the single best interpretation. The regulation treats discrimination between protected-age workers bilaterally. Its separate additional-benefits provision says such benefits may be lawful if the employer has a reasonable basis to conclude they will counteract problems related to age discrimination, while forbidding their use to carry out otherwise prohibited practices. Scalia would preserve that qualification for application below with any statutory defenses, rather than exclude this claim categorically.
+
+Public procedure: The lower court must remove the reviewed directional-discrimination theory and enter the resulting judgment under the Court's construction.
+
+Complete public rules, qualifications, proposition-level joins and remedy: [Public decision](../runtime/OT_2003CHUNK4_general_dynamics_land_systems_v_cline_merits_2004-02-24_PUBLIC.md).
+
+### Groh v. Ramirez — 2004-02-24
+
+The judicial warrant must supply its particularized authorization. An unincorporated application and the preparer's private knowledge do not cure a complete omission of items to be seized. The responsible preparer receives no qualified immunity for executing the obviously deficient warrant on these accepted facts; the individual damages claim proceeds under ordinary liability and remedy rules.
+
+Published separate positions:
+
+**Kennedy, concurring in part and dissenting in part.** He agrees that the warrant violated particularity. He would nevertheless grant immunity because the detailed application, magistrate's approval and clerical character of the omission made the officer's mistaken reliance objectively reasonable in the legal circumstances. He distinguishes the existence of a defect from sufficiently clear notice imposing individual liability.
+
+**Thomas, joined by Scalia, dissenting.** They resist treating a defective warrant as automatically making the execution an unreasonable warrantless search. On the officer's asserted account of a confined search following the detailed application, they would examine the actual reasonableness of execution rather than make the form defect conclusive. That account remains an assertion, including the disputed oral explanation. Independently, they would grant qualified immunity even assuming a constitutional violation, because the application and judicial approval leave sufficient uncertainty about individual liability. The Court's denial of immunity therefore conflicts with both their alternative merits approach and their separate notice ground.
+
+Public procedure: The district court must adjudicate the reinstated individual claim consistently with the particularity and immunity rulings.
+
+Complete public rules, qualifications, proposition-level joins and remedy: [Public decision](../runtime/OT_2003CHUNK4_groh_v_ramirez_merits_2004-02-24_PUBLIC.md).
+
+### Olympic Airways v. Husain — 2004-02-24
+
+A specifically established unusual refusal of assistance may satisfy Article 17 when it is external to the passenger and contributes causally to the injury. Courts must identify the event and causal link rather than substitute negligence or injury alone for the treaty condition. The applicable domestic damage rules remain distinct from that liability inquiry.
+
+Published separate positions:
+
+**Scalia, joined by O'Connor, dissenting.** They would vacate and remand. In their reading of Saks and the treaty text, failure to alter ordinary cabin conditions is not itself the event that Article 17 requires. Calling nonperformance an unexpected response risks converting the accident condition into a duty-of-care inquiry.
+
+They distinguish the attendant's affirmative statement that the plane was full. A false statement may be an external event even if mere nonperformance is not. They would have the lower courts examine any properly available theory based on that affirmative conduct and its actual causal significance under the existing record and ordinary preservation rules. They do not assume that the misinformation independently caused the injury or that the unoccupied seats establish that separate causal link.
+
+Public procedure: The affirmed judgment remains enforceable under its existing terms.
+
+Complete public rules, qualifications, proposition-level joins and remedy: [Public decision](../runtime/OT_2003CHUNK4_olympic_airways_v_husain_merits_2004-02-24_PUBLIC.md).
+
+### Locke v. Davey, No. 02-1315 — 2004-02-25
+
+States may retain the confined devotional-ministry-degree condition described here within an otherwise available individual education scholarship. Existing protection for religious students, eligible religious institutions, individual theology courses and separately eligible secular work continues. The permissive Free Exercise holding does not rest on a constitutional command to exclude these payments.
+
+Published separate positions:
+
+Chief Justice Stone-Zsela concurs in reversal insofar as the judgment compels payment for the established pastoral-formation function, and dissents from ending any preserved genuinely separated secular claim. He applies Strout's actual-function refusal rule and Columbia Union's requirement that proof concern the work the public funds purchase. The claimant must identify the denied benefit and unequal treatment; the State's funded-function justification must match the actual course and payment design. Religious governance, faith and speculative freeing of resources do not establish a devotional purchase. The scholarship's actual terms must determine whether independently eligible secular study exists; the business major alone proves neither separation nor inseparability. He would remand that preserved question for equal consideration, while rejecting unconditional payment and damages on the devotional-subsidy theory.
+
+Scalia, joined by Kennedy and Thomas, dissents. The actual award is independently directed educational assistance, including living costs, within Witters's surviving relationship. Under Lukumi and the equality principles of K.D.M. and Columbia Union, excluding an otherwise eligible student for devotional study requires a compelling justification and narrow tailoring. A historical preference against ministry support does not supply the necessary justification for withholding this student benefit. Allowing a business degree only at another institution does not answer the discrimination at the eligible college. The dissent would require equal consideration under the remaining lawful academic, income and enrollment conditions and separate adjudication of any properly presented monetary claim.
+
+Public procedure: The case returns through the ordinary mandate for effectuation of reversal and restoration of Washington’s favorable judgment within the granted Free Exercise claim.
+
+Complete public rules, qualifications, proposition-level joins and remedy: [Public decision](../runtime/OT_2003CHUNK4_Locke_v_Davey_merits_2004-02-25_PUBLIC.md).
+
+### Muhammad v. Close, No. 02-9065 — 2004-02-25
+
+A prison-discipline connection alone cannot bar a compatible civil injury claim. Actual success must necessarily invalidate the pertinent custody determination before favorable invalidation is required. Claims within that rule continue under ordinary civil requirements.
+
+Published separate positions:
+
+
+
+Public procedure: On remand the Sixth Circuit must address the actual retaliation-evidence basis for summary judgment and the remaining preserved defenses. The accepted insolence determination remains intact.
+
+Complete public rules, qualifications, proposition-level joins and remedy: [Public decision](../runtime/OT_2003CHUNK4_Muhammad_v_Close_merits_2004-02-25_PUBLIC.md).
+
+### United States Postal Service v. Flamingo Industries (USA) Ltd., No. 02-1290 — 2004-02-25
+
+The Service’s operational independence and commercial conduct do not create antitrust coverage absent from the applicable enactments. The broad sue-and-be-sued waiver remains effective for causes of action supported by their own substantive law.
+
+Published separate positions:
+
+
+
+Public procedure: The mandate requires dismissal of the reviewed antitrust claims. The independent procurement and state-law claims retain their separate procedural posture.
+
+Complete public rules, qualifications, proposition-level joins and remedy: [Public decision](../runtime/OT_2003CHUNK4_United_States_Postal_Service_v_Flamingo_Industries_merits_2004-02-25_PUBLIC.md).
+
+### Freedom From Religion Foundation, Inc. v. McCallum, review of Seventh Circuit No. 02-3102 — 2004-02-26
+
+Restricted correctional-service payments must fund lawful functions even where the beneficiary chooses freely among providers. A proved integrated devotional purchase requires effective prospective correction at its actual scope. Religious providers remain eligible for reliably separated secular work; neutral choice and religious identity alone answer neither the financing violation nor its remedy.
+
+Published separate positions:
+
+
+
+Public procedure: The case returns for prompt application of the actual-function rule to the trial record, payment-specific findings where materially needed, and effective prospective relief. Established devotional purchases must cease; a claimed secular remainder requires documented separation. The court must provide any necessary lawful transition in light of actual current placements. The Workforce Development judgment remains undisturbed.
+
+Complete public rules, qualifications, proposition-level joins and remedy: [Public decision](../runtime/OT_2003CHUNK4_Freedom_From_Religion_Foundation_v_McCallum_merits_2004-02-26_PUBLIC.md).
+
+### Baldwin v. Reese, No. 02-964 — 2004-03-02
+
+State courts must receive clear federal notice through the properly presented papers, including valid incorporation. They need not reconstruct an unstated federal theory by searching a separate opinion. Clear substance controls over a mandatory citation formula; the governing procedural consequences remain those of the actual state-review record.
+
+Published separate positions:
+
+Stevens dissents. He would exercise the Court’s discretion to consider Guinn and finds its Oregon-law context sufficient for fair notice on these papers. Oregon’s highest court discussed appellate assistance under both constitutions and supplied a unified formulation for failure to raise an appellate issue. A short petition expressly complaining of trial and appellate assistance, within a federal constitutional challenge to representation and conviction, would naturally alert that court to the recognized claim. Guinn itself involved express dual pleading and an omitted-shackling issue, but those qualifications do not defeat the contextual notice Stevens finds here. He does not require universal identity of every state and federal element or a search through all lower opinions. He would affirm federal consideration of the appellate-assistance claim.
+
+Public procedure: The case returns for further proceedings consistent with the fair-presentation ruling and the actual closed state-review route. Existing default and gateway rules govern any remaining properly preserved issue. The late equivalence contention remains undecided on this review.
+
+Complete public rules, qualifications, proposition-level joins and remedy: [Public decision](../runtime/OT_2003CHUNK4_Baldwin_v_Reese_merits_2004-03-02_PUBLIC.md).
+
+### Raymond B. Yates, M.D., P.C. Profit Sharing Plan v. Hendon, No. 02-458 — 2004-03-02
+
+Working ownership is compatible with participation in a plan covering genuine nonowner employees. Owner-only arrangements retain their distinct regulatory treatment. Courts must separately apply the requirements for plan coverage, participation, enforceable anti-alienation protection and the bankruptcy treatment of the actual transaction.
+
+Published separate positions:
+
+Scalia concurs in the judgment. The Department of Labor's official interpretation permitting working-owner participation is reasonable within ERISA's structure and governs under his approach to authoritative agency interpretation. That ground supplies the same operative coverage result without independently declaring the judicial construction the only permissible reading. He agrees that the remaining qualification and transaction questions must be decided separately.
+
+Thomas concurs in the judgment setting aside categorical exclusion. In his view, provisions regulating benefits or transactions for some owner-employees do not establish that every working owner in the proposed category is an employee. Darden's common-law relationship inquiry remains necessary because those structural indications do not fully resolve classification. Ownership alone is insufficient to disqualify Yates, and corporate separateness may support employee status, but Thomas would require the lower court to decide that question first and then address the remaining statutory and bankruptcy conditions.
+
+Public procedure: The case returns for application of the participation holding and adjudication of the remaining claimed protection of the repayment. The established employee coverage and unchallenged preference finding are part of that posture.
+
+Complete public rules, qualifications, proposition-level joins and remedy: [Public decision](../runtime/OT_2003CHUNK4_Raymond_B_Yates_Plan_v_Hendon_merits_2004-03-02_PUBLIC.md).
+
+### Crawford v. Washington, No. 02-9410 — 2004-03-08
+
+Formal recorded custodial accusations assembled by police for evidentiary use against the accused require confrontation, with unavailability and prior cross-examination when the declarant cannot appear. Courts may not admit them for their truth merely because they seem reliable. The rule changes the method of constitutional review for that class while retaining the existing protections and accepted applications outside it.
+
+Published separate positions:
+
+O'Connor concurs in the judgment. White, Wright and Lilly already exclude this recording. The penal-interest label does not establish a firmly rooted exception for the accusation, and the State's comparison of omissions in the two accounts is external corroboration, not an intrinsic guarantee. Directed custodial questioning, a changed account and uncertainty about Sylvia's observation undermine the offered reasons for trustworthiness; the trial court's description of the investigator as neutral supplies no substitute. O'Connor would decide the case on that complete existing-law ground. She declines a replacement whose historical reach and practical application remain uncertain, while agreeing that admission was unconstitutional and that the conviction requires relief.
+
+Public procedure: The case returns for relief from the assault conviction and further proceedings consistent with exclusion of the recorded accusation. A new trial may proceed under lawful evidence and confrontation rules. The intermediate nonharmlessness conclusion remains operative under the State’s preserved litigation posture.
+
+Complete public rules, qualifications, proposition-level joins and remedy: [Public decision](../runtime/OT_2003CHUNK4_Crawford_v_Washington_merits_2004-03-08_PUBLIC.md).
+
+### Iowa v. Tovar, No. 02-1541 — 2004-03-08
+
+Courts assess actual understanding of counsel’s availability and role at the plea, the charge and punishment. The two prescribed warnings are not universal federal constitutional prerequisites. A State may impose fuller colloquies, and a collateral challenge must identify and support the actual defect under the applicable burden rules.
+
+Published separate positions:
+
+
+
+Public procedure: The case returns for disposition of the enhancement proceeding with the mandatory-two-warning basis for exclusion removed. Tovar’s presented warning-based collateral attack has been resolved.
+
+Complete public rules, qualifications, proposition-level joins and remedy: [Public decision](../runtime/OT_2003CHUNK4_Iowa_v_Tovar_merits_2004-03-08_PUBLIC.md).
+
 ### Lomont v. O’Neill — 2004-03-11
 
 Effective March 11, 2004, officers presenting a concrete, traceable and redressable challenge to federal burdens on their own work may litigate without separate authorization to represent the State. The official-injury inquiry remains distinct from whether the challenged measure imposes an unconstitutional command.
@@ -454,7 +660,7 @@ Public procedure: The mandate leaves the estate-recovery condition effective and
 
 ## Chronology and manifest
 
-The [manifest](manifest.md) contains 119 scheduled events in eight chunks and four separately preserved undated original actions. 39 inventory events are completed across chunks 1–3. The next presentation event is Leebaert v. Harrington, OT_2003CHUNK4, effective 2004-02-17. The latest completed event has effective date 2004-06-16; this does not decide earlier-dated matters in later presentation chunks. Roeder v. Islamic Republic of Iran on 2004-06-30 remains the final scheduled inventory event. No anticipated event is a completed action.
+The [manifest](manifest.md) contains 119 scheduled events in eight chunks and four separately preserved undated original actions. 55 inventory events are completed across chunks 1–4. The next presentation event is Karaha Bodas Co., LLC v. Perusahaan Pertambangan Minyak Dan Gas Bumi Negara, OT_2003CHUNK5, effective 2004-03-09. The latest completed event has effective date 2004-06-16; this does not decide earlier-dated matters in later presentation chunks. Roeder v. Islamic Republic of Iran on 2004-06-30 remains the final scheduled inventory event. No anticipated event is a completed action.
 
 The inventory retains the user's presentation order, numbering and chunk membership. Chunk 1 contains seven matters dated October 14, 2003 through June 16, 2004; chunks 2–8 contain sixteen each. Presentation order does not advance the chronology cursor. Every event uses only law effective before its own event date, including applicable earlier current-term Records, and never law from a later-dated event already encountered in a presentation chunk. Chunks are processed in presentation order. Within a chunk, events are processed by effective date. An earlier-dated event in a later chunk that has not been decided supplies no law and does not delay the present event. A completed Record applies only to events after its effective date; any material effect of a later-completed earlier event is assessed when that event is supplied. Preparation of a chunk does not freeze entering law for the entire chunk.
 
@@ -547,7 +753,7 @@ The four original actions remain open as follows; none has an OT2003 event sched
 
 For Kansas v. Nebraska, the [prior-term close dossier](../../OT2002/close/TERM_CLOSE_DOSSIER.md) preserves the full conditional scope: Finite model-completion proceedings continue. Covered claims, counterclaims and cross-claims arising before December 15, 2002 await dismissal with prejudice upon the Special Master's final report certifying the States' adoption of the RRCA Groundwater Model. No certification event is supplied.
 
-The 38 added lower-court matters in Standing State are the corresponding inventory rows, not additional carryovers. Virginia v. Maryland, No. 129, Original, has a completed December 9, 2003 decree; its retained jurisdiction and decree limits appear with its public procedure above. All 119 scheduled matters are properly before the Court at their scheduled events. The manifest supplies the neutral entry-stage and participation fields for each row; Raytheon records Souter’s nonparticipation at decision and Breyer’s nonparticipation at consideration and decision. Other completed events establish participation separately.
+The 38 added lower-court matters in Standing State are the corresponding inventory rows, not additional carryovers. Virginia v. Maryland, No. 129, Original, has a completed December 9, 2003 decree; its retained jurisdiction and decree limits appear with its public procedure above. All 119 scheduled matters are properly before the Court at their scheduled events. The manifest supplies the neutral entry-stage and participation fields for each row; Raytheon records Souter’s nonparticipation at decision and Breyer’s nonparticipation at consideration and decision. Olympic Airways records Breyer’s nonparticipation in consideration and decision, with no public reason supplied. Other completed events establish participation separately.
 
 ## Continuation requirements
 

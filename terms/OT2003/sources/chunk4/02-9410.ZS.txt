@@ -1,0 +1,141 @@
+CRAWFORD V. WASHINGTON
+
+LII
+
+Supreme Court
+
+CRAWFORD V. WASHINGTON (02-9410) 
+147 Wash. 2d 424, 54 P.3d 656, reversed and remanded.
+Syllabus
+ Opinion
+ [ Scalia ]Concurrence
+ [ Rehnquist ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a
+syllabus (headnote) will be released, as is being done in
+connection with this case, at the time the opinion is
+issued.
+The syllabus constitutes no part of the opinion of
+the Court but has been prepared by the Reporter of Decisions
+for the convenience of the reader.
+See United States
+v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+CRAWFORD v. WASHINGTON
+
+CERTIORARI TO THE SUPREME COURT OF
+WASHINGTON
+
+No. 02—9410. Argued November 10, 2003–Decided March 8,
+2004
+
+Petitioner was tried for assault and
+attempted murder. The State sought to introduce a recorded
+statement that petitioner’s wife Sylvia had made during
+police interrogation, as evidence that the stabbing was not in
+self-defense. Sylvia did not testify at trial because of
+Washington’s marital privilege. Petitioner argued that
+admitting the evidence would violate his Sixth Amendment
+right to be “confronted with the witnesses against
+him.” Under Ohio v. Roberts, 448 U.S. 56, that
+right does not bar admission of an unavailable witness’s
+statement against a criminal defendant if the statement bears
+“adequate ‘indicia of reliability,’ ” a test met when the evidence
+either falls within a “firmly rooted hearsay
+exception” or bears “particularized guarantees of
+trustworthiness.” Id., at 66. The trial
+court admitted the statement on the latter ground. The State
+Supreme Court upheld the conviction, deeming the statement
+reliable because it was nearly identical to, i.e.,
+interlocked with, petitioner’s own statement to the
+police, in that both were ambiguous as to whether the victim
+had drawn a weapon before petitioner assaulted him.
+
+Held: The State’s use of
+Sylvia’s statement violated the Confrontation Clause
+because, where testimonial statements are at issue, the only
+indicium of reliability sufficient to satisfy constitutional
+demands is confrontation. Pp. 5—33.
+
+ (a) The
+Confrontation Clause’s text does not alone resolve this
+case, so this Court turns to the Clause’s historical
+background. That history supports two principles. First, the
+principal evil at which the Clause was directed was the
+civil-law mode of criminal procedure, particularly the use of
+ex parte examinations as evidence against the accused. 
+The Clause’s primary object is testimonial hearsay, and
+interrogations by law enforcement officers fall squarely within
+that class. Second, the Framers would not have allowed
+admission of testimonial statements of a witness who did not
+appear at trial unless he was unavailable to testify and the
+defendant had had a prior opportunity for cross-examination. 
+English authorities and early state cases indicate that this
+was the common law at the time of the founding. And the
+“right … to be confronted with the witnesses against
+him,” Amdt. 6, is most naturally read as a reference to
+the common-law right of confrontation, admitting only those
+exceptions established at the time of the founding. See
+Mattox v. United States, 156 U.S. 237, 243. 
+Pp. 5—21.
+
+ (b) This
+Court’s decisions have generally remained faithful to the
+Confrontation Clause’s original meaning. See, e.g.,
+Mattox, supra. Pp. 21—23.
+
+ (c) However,
+the same cannot be said of the rationales of this Court’s
+more recent decisions. See Roberts, supra, at
+66. The Roberts test departs from historical
+principles because it admits statements consisting of ex
+parte testimony upon a mere reliability finding. Pp.
+24—25.
+
+ (d) The
+Confrontation Clause commands that reliability be assessed in a
+particular manner: by testing in the crucible of
+cross-examination. Roberts allows a jury to hear
+evidence, untested by the adversary process, based on a mere
+judicial determination of reliability, thus replacing the
+constitutionally prescribed method of assessing reliability
+with a wholly foreign one. Pp. 25—27.
+
+ (e) Roberts’ framework
+is unpredictable. Whether a statement is deemed reliable
+depends on which factors a judge considers and how much weight
+he accords each of them. However, the unpardonable vice of the
+Roberts test is its demonstrated capacity to admit core
+testimonial statements that the Confrontation Clause plainly
+meant to exclude. Pp. 27—30.
+
+ (f) The
+instant case is a self-contained demonstration of
+Roberts’ unpredictable and inconsistent
+application. It also reveals Roberts’ failure to
+interpret the Constitution in a way that secures its intended
+constraint on judicial discretion. The Constitution prescribes
+the procedure for determining the reliability of testimony in
+criminal trials, and this Court, no less than the state courts,
+lacks authority to replace it with one of its own devising. 
+Pp. 30—32.
+
+147 Wash. 2d 424, 54 P.3d 656, reversed and
+remanded.
+
+ Scalia, J., delivered
+the opinion of the Court, in which Stevens, Kennedy, Souter,
+Thomas, Ginsburg, and Breyer, JJ., joined. Rehnquist,
+C. J., filed an opinion concurring in the judgment, in
+which O’Connor, J., joined.

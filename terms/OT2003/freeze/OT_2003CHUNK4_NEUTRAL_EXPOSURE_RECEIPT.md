@@ -1,0 +1,9 @@
+# OT2003 chunk 4 neutral context exposure receipt
+
+During a team-status inventory call, the returned response unexpectedly included a completed historical-source agent's substantive final summary. This exposed excluded target-case historical material to the neutral preparation context for inventory rows 42, 45, 46, 47, 50 and 54. No account of that material's substance is reproduced here.
+
+The following artifacts were durably written before the exposure: the mechanically copied neutral freeze; the preparation receipt; the entering-law index and all sixteen focused case slices; the selection manifest; the objective neutral source supplement; the case 45 statutory supplement; and the case 42/44/46 primary-source supplement. Those bytes are preserved. Their initial no-exposure statements describe the preparation and validation completed before this later incident; this receipt records the subsequent context change.
+
+The neutral context had also read and assessed the sanitized Banks record extract and the complete bounded lower-court assistance extract before the exposure. It had not yet assembled or frozen a combined Banks source handoff. That remaining validation and handoff is assigned to a fresh scoped neutral context.
+
+The exposed context ceased substantive neutral framing immediately and informed control. It made no commitments and transmitted no exposed substance to the modeling contexts. The preserved sanitized materials require fresh neutral affirmation for the affected matters before further affected stages rely on the preparation. The fresh validator must receive only the bounded neutral artifacts, relevant entering law and authorized source facts, without the historical material or an account of its substance. This receipt records the isolation limitation; it changes no law, record, vote or public projection.

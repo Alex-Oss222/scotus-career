@@ -1,0 +1,199 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 202,
+    "params": {
+      "query": "collection:us-supreme-court AND ((text:&quot;02-1541&quot; OR text:&quot;02-1541&quot; OR text__reviews:&quot;02-1541&quot;) OR title:Tovar)",
+      "qin": "collection:us-supreme-court AND (&quot;02-1541&quot; OR title:Tovar)",
+      "fields": "_default_",
+      "wt": "json",
+      "rows": 20,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 3,
+    "start": 0,
+    "docs": [
+      {
+        "avg_rating": 0,
+        "btih": "f114c611fe0f87257265f91fee44cca39fccbae6",
+        "collection": [
+          "microfiche",
+          "USGovernmentDocuments",
+          "us-supreme-court"
+        ],
+        "contributor": "Internet Archive",
+        "creator": "Supreme Court of the United States",
+        "date": "1984-01-01T00:00:00Z",
+        "description": "Case name: Billmeyer v. Tovar Opinion filed: 1984-10-01 Docket No.: 83-2041 Citations: \u2022 469 U.S. 872",
+        "downloads": 115,
+        "external-identifier": "urn:courtlistener:9050614/billmeyer-v-tovar",
+        "format": [
+          "AVIF Thumbnails ZIP",
+          "Archive BitTorrent",
+          "DjVuTXT",
+          "Djvu XML",
+          "Item Image",
+          "Item Tile",
+          "Metadata",
+          "Micro Cards Data JSON",
+          "Micro Cards JP2 ZIP",
+          "OCR Page Index",
+          "OCR Search Text",
+          "Page Numbers JSON",
+          "Scandata",
+          "Single Page Processed JP2 ZIP",
+          "Text PDF",
+          "chOCR",
+          "hOCR"
+        ],
+        "identifier": "micro_IA40385010_2968",
+        "imagecount": 455,
+        "indexflag": [
+          "index",
+          "nonoindex",
+          "scanned_by_ia"
+        ],
+        "item_size": 1638487926,
+        "language": "eng",
+        "mediatype": "texts",
+        "month": 8,
+        "num_reviews": 1,
+        "oai_updatedate": [
+          "2025-01-14T07:15:12Z",
+          "2025-01-13T21:06:02Z",
+          "2026-04-28T08:07:45Z",
+          "2026-04-28T08:07:28Z"
+        ],
+        "publicdate": "2025-01-13T21:06:02Z",
+        "reviewdate": "2026-04-28T08:07:28Z",
+        "source": "Microfiche",
+        "subject": "Cert. Denied",
+        "title": "Billmeyer v. Tovar, 469 U.S. 872 (1984) (No. 83-2041)",
+        "week": 1,
+        "year": 1984
+      },
+      {
+        "avg_rating": 0,
+        "btih": "19334c63901b715d4584fd3fc539c3e162a377c9",
+        "collection": [
+          "us-supreme-court",
+          "USGovernmentDocuments",
+          "microfiche",
+          "government-documents"
+        ],
+        "contributor": "Internet Archive",
+        "creator": "Supreme Court of the United States",
+        "date": "1996-01-01T00:00:00Z",
+        "description": "Case name: Tovar v. IBP, Inc. Opinion filed: 1996-12-02 Docket No.: 96-549 Citations: \u2022 519 U.S. 1010",
+        "downloads": 70,
+        "external-identifier": "urn:courtlistener:us/519/1010/",
+        "format": [
+          "AVIF Thumbnails ZIP",
+          "Archive BitTorrent",
+          "DjVuTXT",
+          "Djvu XML",
+          "Item Image",
+          "Item Tile",
+          "Metadata",
+          "Micro Cards Data JSON",
+          "Micro Cards JP2 ZIP",
+          "OCR Page Index",
+          "OCR Search Text",
+          "Page Numbers JSON",
+          "Scandata",
+          "Single Page Processed JP2 ZIP",
+          "Text PDF",
+          "chOCR",
+          "hOCR"
+        ],
+        "identifier": "micro_IA40386004_1585",
+        "imagecount": 93,
+        "indexflag": [
+          "index",
+          "nonoindex",
+          "scanned_by_ia"
+        ],
+        "item_size": 886576684,
+        "language": "eng",
+        "mediatype": "texts",
+        "month": 5,
+        "num_reviews": 1,
+        "oai_updatedate": [
+          "2025-08-08T20:44:38Z",
+          "2025-08-08T20:40:47Z",
+          "2026-04-28T11:38:42Z",
+          "2026-04-28T11:38:29Z"
+        ],
+        "publicdate": "2025-08-08T20:40:47Z",
+        "reviewdate": "2026-04-28T11:38:29Z",
+        "source": "Microfiche",
+        "subject": "Cert. Denied",
+        "title": "Tovar v. IBP, Inc., 519 U.S. 1010 (1996) (No. 96-549)",
+        "week": 0,
+        "year": 1996
+      },
+      {
+        "avg_rating": 0,
+        "btih": "542711630954c6ef3883127bf0ea8cc4c75c17a7",
+        "collection": [
+          "government-documents",
+          "microfiche",
+          "USGovernmentDocuments",
+          "us-supreme-court"
+        ],
+        "contributor": "Internet Archive",
+        "creator": "Supreme Court of the United States",
+        "date": "2004-01-01T00:00:00Z",
+        "description": "Case name: Iowa v. Tovar Opinion filed: 2004-03-08 Docket No.: 02-1541 Citations: \u2022 158 L. Ed. 2d 209 \u2022 124 S. Ct. 1379 \u2022 541 U.S. 77 \u2022 2004 U.S. LEXIS 1837 Case holding summaries: \u2022 \u201cA plea hearing qualifies as a \u2018critical stage.\u2019\u201d \u2022 \u201c[t]he Sixth Amendment safeguards to an accused who faces incarceration the right to counsel at all critical stages of the criminal process\u201d \u2022 explaining that what a defendant must be advised of regarding the right to counsel before a guilty plea may be less than for a defendant waiving counsel for a trial \u2022 \"The entry of a guilty plea, whether to a misdemeanor or a felony charge, ranks as a 'critical stage' at which the right to counsel adheres.\" \u2022 \u201c[B]efore a defendant may be allowed to proceed pro se, he must be warned specifically of the hazards ahead.\u201d \u2022 \u201cA plea hearing qualifies as a critical stage.\u201d \u2022 applying state law requiring that \u201cin a collateral attack on an uncounseled conviction, it is the defendant\u2019s burden to prove that he did not competently and intelligently waive his right to the assistance of counsel\u201d \u2022 \u201cWaiver of the right to counsel, as of constitutional rights in the criminal process generally, must be a knowing, intelligent act done with sufficient awareness of the relevant circumstances.\u201d (alteration omitted) (quotation marks omitted) \u2022 warning that a defendant\u2019s \u201cvain hope\u201d in the benefits of counsel can impede the \u201cprompt disposition of the case\u201d and waste the \u201cresources of either the State (if the defendant is indigent \u2022 warning that a defendant\u2019s \u201cvain hope\u201d in the benefits of counsel can impede the \u201cprompt disposition of the case\u201d and waste the \u201cresources of either the State (if the defendant is indigent) or the defendant himself (if he is financially ineligible for appointed counsel)\u201d \u2022 The Court recently decided this case exclusively under the Federal Constitution and noted \"that states are free to adopt by statute, rule, or decision any guides . . . they deem useful.\" \u2022 \u201cThe entry of a guilty plea, whether to a misdemeanor or a felony charge, ranks as a \u2018critical stage\u2019 at which the right to counsel adheres.\u201d \u2022 noting that \u201cbefore a defendant may be allowed to proceed pro se, he must be warned specifically of the hazards ahead\u201d \u2022 stating that \"[a]s to waiver of trial counsel, we have said that before a defendant may be allowed to proceed pro se, he must be warned specifically of the hazards ahead.\" \u2022 Noting that the United States Supreme Court \u201cha[s] not * * * prescribed any formula or script to be read to a defendant who states that he elects to proceed without counsel.\u201d \u2022 characterizing an invalid waiver of counsel as a violation of the Sixth Amend- ment right to counsel \u2022 entry of a guilty plea \u2022 \u201cWaiver . . . of constitutional rights in the criminal process generally, must be a knowing, intelligent act done with sufficient awareness of the relevant circumstances.\u201d \u2022 \u201c[I]n a collateral attack on an uncounseled conviction, it is the defendant\u2019s burden to prove that he did not competently and intelligently waive his right to the assistance of counsel.\u201d \u2022 discussing the general admonishments a defendant must receive before being allowed to proceed pro se at trial \u2022 \u201c[t]he Sixth Amendment safeguards to an accused who faces incarceration the right to counsel at all critical stages of the criminal process\u201d \u2022 entry of the guilty plea is a critical stage of the criminal process \u2022 \"Warnings of the pitfalls of proceeding to trial without counsel ... must be `rigorous[ly]' conveyed.\" (alteration in original \u2022 \"As to waiver of trial counsel, we have said that before a defendant may be allowed to proceed pro se, he must be warned specifically of the hazards ahead.\" \u2022 explaining waiver of the right to plea counsel requires defendant do so knowingly and intelligently with sufficient awareness of the relevant circumstances \u2022 \u201c[I]t is the defendant\u2019s burden to prove that he did not competently and intelligently waive his right to assistance of counsel.\u201d \u2022 ruling valid waiver depends on particular facts and circumstances surrounding case \u2022 emphasizing that a defendant \u201cmust be warned specifically of the hazards ahead\u201d \u2022 \u201cWe have not . . . prescribed any formula or script to be read to a defendant who states that he elects to proceed without counsel.\u201d \u2022 noting that \u201cbefore a defendant may be allowed to proceed pro se, he must be warned specifically of the hazards ahead\u201d \u2022 \"Waiver of the right to counsel, as of constitutional rights in the criminal process generally, must be a `knowing, intelligent ac[t] done with sufficient awareness of the relevant circumstances.'\" (quoting Brady v. United States, 397 U. S. 742, 748 (1970)) \u2022 \u201cA plea hearing qualifies as a critical stage.\u201d \u2022 \u201cWaiver of the right to counsel, as of constitutional rights in the criminal process generally, must be a knowing, intelligent act done with sufficient awareness of the relevant circumstances.\u201d (alteration omitted) (quotation marks omitted) \u2022 \u201cA plea hearing qualifies as a critical stage.\u201d \u2022 holding that the Sixth Amendment does not require a trial court to give a rigid and detailed admonishment of the usefulness of an attorney to a pro se defendant pleading guilty \u2022 waiver may be knowing and intelligent even if the defendant \"lacked a full and complete appreciation of all of the consequences flowing from his waiver\" \u2022 stating that waiver of Sixth Amendment right to counsel at plea hearing is \"knowing\" when the court informs defendant of the right to counsel even though the court did not explain potential ramifications of waiver \u2022 \"The constitutional requirement is satisfied when the trial court informs the accused of the nature of the charges against him, of his right to be counseled regarding his plea, and of the range of allowable punishments attendant upon the entry of a guilty plea.\" \u2022 \"Warnings of the pitfalls of proceeding to trial without counsel . . . must be rigorously conveyed.\" \u2022 \"Waiver of the right to counsel, as of constitutional rights in the criminal process generally, must be a `knowing, intelligent ac[t] done with sufficient awareness of the relevant circumstances.'\" (quoting Brady v. United States, 397 U.S. 742, 748, 90 S.Ct. 1463, 25 L.Ed.2d 747 (1970)) \u2022 \u201cA plea hearing qualifies as a critical stage.\u201d (internal quotation marks omitted) \u2022 \u201cThe Sixth Amendment 3 safeguards to an accused who faces incarceration the right to counsel at all critical stages of the 4 criminal process.\u201d \u2022 noting that \u201cbefore a defendant may be allowed to proceed pro se, he must be warned specifically of the hazards ahead\u201d \u2022 \u201cThe entry of a guilty plea, whether to a misdemeanor or a felony charge, ranks as a \u2018critical stage\u2019 at which the right to counsel adheres.\u201d (citation omitted) \u2022 \"the [federal] constitutional requirement is satisfied when the trial court informs the accused of the nature of the charges against him, of his right to be counseled regarding his plea, and of the range of allowable punishments attendant upon the entry of the guilty plea\" \u2022 requiring that a defendant \"must be warned specifically of the hazards ahead\" and that those warnings surrounding waiver of counsel at trial be \" rigorous[ly] conveyed \" \u2022 approving use of motions for adjudication of law points under Iowa Rule of Criminal Procedure 10(2) where material facts are undisputed \u2022 stating there is no formula or script to a Faretta inquiry and the waiver need only be made with \"eyes open\"",
+        "downloads": 583,
+        "external-identifier": "urn:courtlistener:134725/iowa-v-tovar",
+        "format": [
+          "AVIF Thumbnails ZIP",
+          "Archive BitTorrent",
+          "DjVuTXT",
+          "Djvu XML",
+          "Item Image",
+          "Item Tile",
+          "Metadata",
+          "Micro Cards Data JSON",
+          "Micro Cards JP2 ZIP",
+          "OCR Page Index",
+          "OCR Search Text",
+          "Page Numbers JSON",
+          "Scandata",
+          "Single Page Processed JP2 ZIP",
+          "Text PDF",
+          "chOCR",
+          "hOCR"
+        ],
+        "identifier": "micro_IA40385014_0652",
+        "imagecount": 274,
+        "indexflag": [
+          "index",
+          "nonoindex",
+          "scanned_by_ia"
+        ],
+        "item_size": 1146327659,
+        "language": "eng",
+        "mediatype": "texts",
+        "month": 40,
+        "num_reviews": 1,
+        "oai_updatedate": [
+          "2024-03-13T19:54:57Z",
+          "2024-03-13T19:44:37Z",
+          "2026-04-28T08:46:13Z",
+          "2026-04-28T08:45:26Z"
+        ],
+        "publicdate": "2024-03-13T19:44:37Z",
+        "reviewdate": "2026-04-28T08:45:26Z",
+        "source": "Microfiche",
+        "subject": "Decision",
+        "title": "Iowa v. Tovar, 541 U.S. 77 (2004) (No. 02-1541)",
+        "week": 14,
+        "year": 2004
+      }
+    ]
+  }
+}

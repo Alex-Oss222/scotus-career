@@ -1,0 +1,581 @@
+# Banks: lower-court penalty-assistance account
+
+Source: petition appendix in archive item micro_IA40385014_0687, appellate opinion pages 33-47; downloaded OCR text banks-petition-appendix.txt. Mechanically copied account of the judgment under review, its testimony descriptions, and its procedural and legal grounds. This is lower-court reasoning and described evidence, not adopted Supreme Court law. OCR is preserved; use the source scan if an exact disputed word becomes material. No finding of source absence is made.
+
+Relief was also granted on Banks’ ineffective-assistance claim 
+for the penalty phase. He did not raise it in his first state 
+petition; in his second, he claimed only appellate counsel was 
+ineffective. In his third state petition, however, he claimed 
+trial counsel was ineffective for both phases. In recommending 
+Genial, the state trial court stated: Banks received effective 
+assistance at all trial stages; and counsel adequately and 
+effectively investigated “matters relevant to both the 
+guilt/innocence and punishment phases”. Again, after remanding 
+for an evidentiary hearing concerning Banks’ Swain and juror bias 
+
+
+claims, the Court of Criminal Appeals accepted the trial court’s 
+
+
+33 
+
+
+4 “ 
+' 
+
+
+recommendation and denied habeas relief. Ex parte Banks, No. 
+13,568-03 (Tex. Crim. App. 11 Jan. 1996) (unpublished). 
+
+To prevail on ineffective-assistance, Banks must prove 
+deficient-performance and resulting prejudice. Strickland v. 
+Washington, 466 U.S. 668, 687 (1984). Performance is deficient 
+when the representation falls “below an objective standard of 
+reasonableness”. Id. at 688. 
+
+Prejudice occurs if counsel’s errors “were so serious as to 
+deprive the defendant of a fair trial, a trial whose result is 
+reliable”. Id. at 687. Accordingly, Banks must show “there is a 
+reasonable probability that, but for counsel’s unprofessional 
+errors, the result of the proceeding would have been different”. 
+Id. at 694. “When a defendant challenges a death sentence ..., the 
+question is whether there is a reasonable probability that, absent 
+the errors, the sentencer ... would have concluded that the balance 
+of aggravating and mitigating circumstances did not warrant death”. 
+Id. at 695 (emphasis added). 
+
+The district court held counsel’s performance “deficient 
+[because he) failled) to investigate or prepare for the punishment 
+phase, despite ... available mitigating evidence relating to 
+Banks’s background” and “failfed) to interview or prepare the 
+witnesses he ... called and examined” at that phase. Banks-USDC, 
+at 24. Concerning prejudice, the court held there was “a 
+reasonable probability that[,] but for the errors and omissions of 
+
+
+34 
+
+
+/ 
+
+
+trial counsel at the punishment phase, combined with the State’s 
+failure to disclose Farr as a paid informant, the outcome of 
+Banks’s punishment phase would have been different”. Id. at 24-25 
+(emphasis added; cumulation of error discussed infra). 
+
+The district court first found deficient-performance because 
+counsel did not “attempt[) to obtain a social history from Banks or 
+his family”. Id. at 22. In addition, it found: counsel never 
+questioned Banks’ parents about his childhood; never informed them 
+they would be called to testify at the penalty phase; and waited 
+until the guilty verdict was returned to instruct Banks’ mother to 
+“gather witnesses for the punishment phase, which began the 
+following day”. Id. 
+
+The district court also based deficient-performance on Dr. 
+Cunningham’s testimony at the federal hearing; the court stated: 
+“Banks's father abused alcohol and subjected Banks to repeated 
+incidents of brutality and harsh discipline”; as a child, “Banks 
+witnessed many episodes of cruelty directed at his mother”; and 
+“Banks ... had no history of violence or alcohol abuse and seemed 
+to possess a self-control that would suggest no particular risk of 
+future violence”. Id. at 23. According to the district court, 
+counsel never explored any of these issues and never presented this 
+evidence to the jury. Id. 
+
+The district court also found that, prior to trial, counsel 
+
+
+made no attempt to interview Vetrano Jefferson, the State witness. 
+
+
+35 
+
+
+Fr’ >) 
+
+
+Id. at 22. As noted, he was the second of the two penalty phase 
+witnesses used to establish future dangerousness; he testified 
+Banks had hit him with a gun and threatened to kill him. 
+According to the district court, if counsel had interviewed 
+Vetrano Jefferson, he would have known that 
+Jefferson, not Banks, was the aggressor in the 
+fight between the two men which occurred the 
+proceeding April [the month of the murder). 
+The trial testimony of Jefferson and the 
+
+
+prosecutor’s argument left the clear 
+impression that Banks was the aggressor. 
+
+
+Id. at 23. 
+a. 
+
+First at issue is whether counsel was ineffective for failing 
+to obtain Banks’ social history and to investigate mitigating 
+psychological evidence. 
+
+i. 
+
+The two failures are related. Obviously, to determine whether 
+expert assistance was needed, counsel needed to know the 
+circumstances of Banks’ past. For example, was he abused; did he 
+have mental deficiencies? Failure to ask these and similar 
+questions of his parents and others, a failure the State does not 
+dispute, falls below an objective standard of reasonableness. 
+Banks has demonstrated deficient-performance. 
+
+ii. 
+
+Regarding prejudice, in his brief here, Banks relies on Dr. 
+
+Cunningham’s testimony: 
+
+
+36 
+
+
+e 
+
+
+Dr. Cunningham’s testimony showed that [Banks’ 
+father’s] chronic abuse of alcohol nearly tore 
+his family apart, caused ... Banks to endure 
+repeated incidents of undeserved brutality and 
+harsh discipline, and to witness many 
+instances of extreme cruelty directed at his 
+mother and siblings. 
+
+Rr. Cunningham testified: (1) Banks was physically and 
+mentally abused by his father; (2) he witnessed his father’s abuse 
+of his mother; (3) his father discharged firearms in the house; (4) 
+his father was an alcoholic; (5) Banks had a learning disability; 
+(6) he suffered from a chronic skin disease; and (7) there was a 
+low risk Banks would commit future acts of violence. 
+
+The State maintains Dr. Cunningham's testimony is not 
+exhausted, because it was not presented in the state proceedings. 
+There, Banks submitted the affidavits of Dr. Pina, which stated: 
+his observations indicated Banks suffered brain damage; and, 
+ultimately, Banks did “not understand much of what was happening at 
+his trial, [and] he also did not understand much of what his lawyer 
+was saying”. In his amended affidavit, Dr. Pina discussed, inter 
+alia, Banks’ skin condition and his conclusion that Banks was 
+“beaten and terrorized by his alcoholic father; at least one such 
+beating involved young Delma’s being tied to a t-ee and whipped”. 
+He also stated that “some of the[]) features of ... Banks’ 
+psychological profile accurately would have predicted that he would 
+
+
+prove a ‘safe,’ nonviolent inmate during his present 
+
+
+incarceration’. 
+
+
+37 
+
+
+‘a * - 
+
+Banks does not address the exhaustion issue. He also stated 
+that “some of the[) features of ... Banks’ psychological profile 
+accurately would have predicted that he would prove a ‘safe,’ 
+nonviolent inmate during his present incarceration”. 
+
+He fails to show cause for not presenting Dr. Cunningham's 
+testimony to the state courts. This testimony is not exhausted; it 
+is a significant expansion of the facts and opinions presented in 
+
+
+state court through Dr. Pina’s affidavits. See Beazley, 242 F.3d 
+
+
+at 264. Accordingly, the only exhausted evidence for this claim is 
+through Dr. Pina’s affidavits. 
+
+As discussed supra, those affidavits addressed, inter alia, 
+Banks’ father’s “beating” and “terrorizing” him, including the 
+tying-whipping incident. Dr. Pina concluded: “[These) experiences 
+alone would be enough to account for a large part of Mr. Banks’ 
+psychological impairment”. As for Banks’ skin condition, Dr. Pina 
+concluded: “(This]) illness, compounding the trouble in his parents’ 
+marriage from his father’s alcoholism, impaired the development of 
+normal and supportive bonding relationships between [Banks] and his 
+mother and father”. Accordingly, Dr. Pina concluded: 
+
+Banks learned to see himself as he thought the 
+world saw him: as a ghastly, frightful, 
+monstrous eyesore. He understandably went to 
+great lengths to hide himself from public view 
+throughout life.... His fears of rejection, 
+
+
+confirmed by his classmates, only led to lower 
+self esteem. 
+
+
+38 
+
+
+O) 
+
+This psychological information, while possibly mitigating, 
+does not present a reasonable probability that, had the jury been 
+presented with it, it would have not assessed the death penalty. 
+In other words, in the light of the nature of the murder, Banks’ 
+intent soon thereafter to retrieve a weapon to be used in future 
+armed robberies, and Banks’ continued denial during the penalty 
+phase that he committed the murder, there is not a reasonable 
+probability that this evidence would have changed the outcome of 
+the penalty phase. Accordingly, the district court erred in 
+granting relief on this basis. 
+
+
+b. 
+
+
+\ 
+' 
+| 
+
+
+Next at issue is whether counsel was ineffective in failing to 
+prepare penalty phase witnesses — in particular, Banks’ parents — 
+to testify. 
+
+a. 
+
+Regarding deficient-performance, the State does not dispute 
+the finding that Banks’ counsel never attempted to prepare Banks’ 
+parents or any of the other defense witnesses offered during the 
+penalty phase. We will assume deficient-performance. 
+
+ii. 
+
+Regarding prejudice, Banks’ father testified at the federal 
+hearing that he had a drinking problem in his “younger days” and 
+“used to get drunk every weekend”. When asked “what would you have 
+
+
+wanted to tell the jury about your son when they were going to go 
+
+
+39 
+
+
+O 
+
+
+back and decide the sentence in this case”, Banks’ father 
+responded: “I would’ve just [told] them to spare his life, because 
+I know I raised him real nice. He couldn’t [have done anything] 
+like that. I still say that”. In an affidavit submitted in the 
+
+tate habeas proceedings, Banks’ father stated that, when Banks was 
+in elementary school, he tied him to a tree and “whipped him with 
+a leather belt or strap” to discipline him for tricking other 
+students out of their lunch money. 
+
+Banks’ mother testified at the federal evidentiary hearing: 
+Banks suffered from a skin disorder, as well as an inferiority 
+complex; and her husband had a drinking problem while Banks was 
+growing vp. She testified during state habeas proceedings that her 
+husband “would get drunk and he would get angry and holler at me”. 
+
+Accordingly, at ieeue is whether, had Banks’ counsel prepared 
+Banks’ parents to testify to the above described events (including: 
+(1) the father’s drinking; (2) the tying-whipping incident; and (3) 
+the skin disorder), there is a reasonable probability the jury 
+would not have assessed the death penalty. There is not a 
+reasonable probability that, had the jury been presented with this 
+information, it would not have assessed the death penalty. 
+Therefore, the district court erred in granting relief on this 
+basis. 
+
+As for the failure to prepare other penalty phase witnesses, 
+
+
+the district court pointed to Kelly’s being intoxicated on the 
+
+
+40 
+
+
+© 
+morning he testified a= Banks’ trial anc Banks’ counsel’s “speaking 
+with Kelly for no more than one minute pricr to testifying”. 
+Banks-USDC, at 22. The district court did not specify, nor does 
+Banks, what Kelly’s testimony would have been had counsel prepared 
+him. (In fact, Kelly's testimony was quite helpful to Banks; it 
+impeached Farr’s testimony concerning his attempts to illegally 
+obtain prescription drugs.) Likewise, for his other penalty phase 
+witnesses, Banks does not state what their testimony would have 
+been had they been prepared. Accordingly, there is not a 
+reasonable probability that, had counsel prepared them, the jury 
+would not have sentenced Banks to death. Again, the district court 
+erred in granting relief on this basis. 
+Cc. 
+
+Next at issue is whether Banks’ counsel was ineffective for 
+
+failing to interview Vetrano Jefferson. 
+i. 
+
+Concerning deficient-performance, the State does not dispute 
+that Banks’ counsel never interviewed Jefferson, one of only two 
+penalty phase witnesses offered by the State. This failure falls 
+below an objective standard of reasonableness. — Counsel’s 
+performance was deficient. 
+
+ii. 
+Again, in holding there was prejudice, the district court 
+
+
+determined that, based on Jefferson’s testimony at the evidentiary 
+
+
+41 
+
+
+s O 
+
+
+hearing, had Banks’ counsel interviewed him, counsel “would have 
+known that Jefferson, not Banks, was the aggressor in the fight 
+between the two men.... The trial testimony of Jefferson ... left 
+the clear impression that Banks was the aggressor”. Banks-USDC, at 
+23 (emphasis added). The State maintains: that Jefferson's 
+testimony at the federal hearing is unexhausted; and that, 
+alternatively, no prejudice resulted fromthe failure to interview. 
+(a) 
+
+The State asserts, and Banks does not dispute, that Vetrano 
+Jefferson’s post-trial testimony was never presented during the 
+state habeas proceedings. (The State points out that the unsigned 
+affidavit of Demetra Jefferson, (Vetrano Jefferson's sister and the 
+mother of Banks’ children) was presented during those proceedings. 
+The district court apparently did not rely on that affidavit, and 
+Banks does not contend that we should consider it in determining 
+exhaustion vel non.) 
+
+Banks does not address exhaustion, much less show cause for 
+why, in the state proceedings, he did not present Jefferson's 
+current version of the events. Accordingly, his testimony is 
+unexhausted; without it, Banks has not shown a seesenahie 
+probability that the outcome of the penalty phase would have been 
+different, as there is no evidence to contradict Jefferson’s trial 
+
+
+testimony. 
+
+
+42 
+
+
+. e 
+~ (b) 
+Even assuming exhaustion, Banks has not shown prejudice. At 
+the penalty phase, Banks admitted he hit Jefferson with a gun and 
+threatened to kill him. 
+Although, at trial, Jefferson testified that Banks did so, he 
+gave no background regarding the altercation. Jefferson provided 
+that aspect at the federal hearing: 
+I was drunk one day I came over and I was 
+threatening my sister and he [Banks] defended 
+her. And when he told me to leave her alone, 
+I told him I‘ll whoop his ass. So we got into 
+a fight. And he got a gun and hit me in the 
+face with it. 
+
+Jefferson testified that he started the fight. 
+
+The only cifference between Jefferson’s trial and federal 
+hearing testimony is; his stating Banks hit and threatened to kill 
+him in response to his “threatening” his (Jefferson’s) sister and 
+telling Banks that he would “whoop his ass”. Thus, at issue is 
+whether, based on this information, there is a reasonable 
+probability the jury would not have answered the future 
+Gangerousness issue as it did. 
+
+Needless to say, Banks’ assaulting and threatening to kill 
+Jefferson is far from a proportional response to verbal threats of 
+a@ non-lethal nature. Based on Banks’ violent response, coupled 
+with Farr’s testimony about Banks’ post-murder intent to commit, or 
+
+
+at least assist in, armed robberies, had the jury been presented 
+
+
+with Jefferson's federal testimony, there is not a reasonable 
+
+
+43 
+
+
+© O 
+
+
+probability it would not have found future dangerousness. 
+
+
+Accordingly, the district court erred in granting relief on this 
+
+
+basis. 
+3. 
+
+
+As stated, relief should not have been granted on the basis of 
+either ineffective-assistance or Brady error. But, the magistrate 
+judge seems to have grounded her recommendations with respect to 
+both.claims on cumulative error. 
+
+
+For the Brady claim, the magistrate judge recommended that the 
+
+
+withheld information was material because 
+
+
+the State’s failure to disclose Farr’s 
+informant status, coupled with trial counsel’s 
+dismal performance during the punishment 
+phase, undermined the reliability of the 
+jury’s verdict regarding punishment. There is 
+a reasonable probability that[,] but for the 
+foregoing, the results of the punishment phase 
+of the trial would have been different. 
+
+
+Banks-USDC, at 44 (emphasis added). 
+For the ineffective-assistance claim, regarding prejudice, the 
+
+
+magistrate judge stated: 
+
+
+This is not a case where the evidence 
+presented by the State compels the conclusion 
+that the specific evidence offered by Banks 
+would not have made any difference in the 
+outcome with respect to punishment. There is 
+a reasonable probability that([,] but for the 
+errors and omissions of trial counsel at the 
+punishment phase, combined with the State’s 
+failure to disclose Farr as a paid informant, 
+
+
+44 
+
+
+the outcome of Banks’ punishment phase would 
+have been different. 
+
+
+Banks-USDC, at 24-25 (emphasis added). 
+
+The State objected to the report and recommendation on the 
+basis that the cumulative error doctrine had been improperly 
+invoked. The district judge overruled the objection, holding that 
+the magistrate judge “separately considered and analyzed” the Brady 
+and ineffective-assistance claims. Banks-USDCII, at 5. The 
+district judge also overruled the objection on the basis that the 
+two claims are interrelated, because Banks “contend[ed) that the 
+State failed to produce, and his counsel, due to inadequate 
+preparation, contrary to Strickland, failed to discover, 
+substantial evidence regarding Farr’s status”. Id. Ultimately, 
+the district judge noted that 
+
+federal habeas corpus relief may only be 
+granted for cumulative errors in the conduct 
+of a state trial where (1) the individual 
+errors involved matters of constitutional 
+dimension rather than mere violations of state 
+law; (2) the errors were not procedurally 
+defaulted for habeas purposes; and (3) the 
+errors so infected the entire trial that the 
+resulting conviction violates due process. 
+Id. at 5-6 (quoting Derden v. McNeel, 978 F.2d 1453, 1454 (Sth Cir. 
+1992) (en banc), cert. denied, 508 U.S. 960 (1993)). 
+The magistrate judge did separately address the claims; but, 
+
+
+each holding included the other as the basis of materiality or 
+
+
+prejudice. The district judge was also incorrect that the claims 
+
+
+45 
+
+
+© O 
+
+
+were interrelated. In Ciscussing ineffective-assistance, the 
+
+
+magistrate judge stated: 
+The State had a clear duty to correct Farr’s 
+untruthful testimony and failed to do so. 
+While trial counsel cannot be faulted for 
+failing to object on this basis, Farr’s 
+inaccurate testimony compounded the otherwise 
+inadequate efforts of trial counsel during the 
+punishment phase of the trial. 
+Banks-USDC, at 24 (emphasis added). Although this statement 
+attempts to link the two claims through cumulative error, it is not 
+a conclusion that the Brady claim is related to deficient- 
+performance. 
+
+Instead, it is the opposite. In fact, in his brief, Banks 
+makes clear he does not claim counsel was ineffective regarding the 
+Brady claim: “(Trial counsel’s) failure to impeach ... Farr’s most 
+damaging sentencing testimony ... cannot be laid at his feet”. 
+Accordingly, contrary to the district court’s holding that the 
+claimed errors were related, the magistrate judge’s recommendation 
+was instead based upon cumulative error. 
+
+a. 
+
+Banks, however, did not claim cumulative error in his federal 
+petition, with the exception of asserting that the “cumulative 
+effect of the prosecutors’ multifarious violations ... [denied him) 
+a fundamentally fair trial”. (Emphasis added.) Furthermore, he 
+
+
+did not claim cumulative error in any of his three state petitions. 
+
+
+46 
+
+
+st O 
+Accordinsly the district court’s cumulative error holding is based 
+on an unexhausted claim. 
+b. 
+
+Assuming this claim is exhausted and was raised in the 
+district court, the cumulative error holding fails on the merits. 
+
+Such error is predicated upon the theory that, although 
+certain errors, considered individually, do not mandate relief, 
+those errors, when considered in the aggregate, do. See United 
+States v. Sepulveda, 15 F.3d 1161, 1195-96 (Sth Cir. 1993) 
+("Individual errors, insufficient in themselves to necessitate a 
+new trial, may in the aggregate have a more debilitating effect”.), 
+cert. denied, 512 U.S. 1223 (1994). 
+
+It goes without saying that, for there to be cumulative error, 
+there must first be error. Likewise, where there is no error, 
+there is nothing to cumulate. See, e.g., Yohey v. Collins, 985 
+F.2d 222, 229 (Sth Cir. 1993). Banks has not established error 
+either under Brady or for ineffective-assistance. Therefore, 
+relief cannot be based on cumulative error. 
+
+B. 
+

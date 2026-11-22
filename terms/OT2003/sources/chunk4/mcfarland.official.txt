@@ -1,0 +1,3359 @@
+REVISED DECEMBER 13, 2002
+IN THE UNITED STATES COURT OF APPEALS
+FOR THE FIFTH CIRCUIT
+                   
+No. 00-10569
+                   
+UNITED STATES OF AMERICA
+Plaintiff - Appellee
+v.
+JAMES MCFARLAND, JR
+Defendant - Appellant
+Appeal from the United States District Court
+for the Northern District of Texas
+October 28, 2002
+Before KING, Chief Judge, GARWOOD, JOLLY, HIGGINBOTHAM, DAVIS,
+JONES, SMITH, WIENER, BARKSDALE, EMILIO M. GARZA, DeMOSS,
+BENAVIDES, STEWART, PARKER, DENNIS, and CLEMENT, Circuit Judges.
+PER CURIAM:
+By reason of an equally divided en banc court, we affirm the
+district court’s judgment of conviction and sentence. 
+
+DAVIS and BENAVIDES, concurring in the affirmance of the
+judgment:
+It is a deep mystery to us why five judges thought it
+helpful or appropriate to take eight fellow judges to task for
+failing to explain why they decline to change the established law
+of this circuit and create a circuit split.  We of course
+disclaim their attempt to attribute views to us.
+
+3
+GARWOOD, Circuit Judge, with whom JOLLY, HIGGINBOTHAM, JONES,
+SMITH, BARKSDALE, DEMOSS and CLEMENT, Circuit Judges, join,
+dissenting:
+We respectfully dissent from the evenly divided Court’s per
+curiam, unexplained affirmance of these convictions.  The nature
+of the case and our reasons for concluding that reversal is
+required are set forth below.  
+                   
+James McFarland, Jr. appeals his conviction of four counts of
+robbery of local convenience stores in Fort Worth, Texas, in
+violation of 18 U.S.C. § 1951 (the Hobbs Act) and four
+corresponding counts of using and carrying a firearm during and in
+relation to those robberies in violation of 18 U.S.C. § 924(c)(1).
+He challenges his conviction on the Hobbs Act counts, asserting
+that 
+the 
+evidence 
+was 
+insufficient 
+to 
+establish 
+the
+constitutionally or statutorily required nexus to interstate
+commerce and that the jury charge respecting this element was
+defective.  A panel of this court affirmed per curiam.  United
+States v. McFarland, 264 F.3d 557 (5th Cir. 2001).  The panel
+considered itself bound by our prior decision in United States v.
+Robinson, 119 F.3d 205 (5th Cir. 1997), and United States v.
+
+1McFarland had been arrested for the robberies by Fort Worth
+police in late December 1998 and incarcerated in the Tarrant
+county, Texas, jail.  He was later transferred into federal
+custody when the state dismissed its robbery charges against him
+and the United States Attorney adopted the robbery offenses for
+federal prosecution.  
+2The counts of acquittal were count three (robbery on
+November 24, 1998 of Haynie’s Inc.) and count four (the related §
+924(c)(1) count).  
+4
+Hickman, 151 F.3d 446 (5th Cir. 1998), aff’d by an equally divided
+en banc court, 179 F.3d 230 (5th Cir. 1999), cert. denied, 120
+S.Ct. 2195 (2000).  Judge Demoss specially concurred, 264 F.3d at
+559-61, urging en banc reconsideration in light of the intervening
+decisions in United States v. Morrison, 120 S.Ct. 1740 (2000), and
+Jones v. United States, 120 S.Ct. 1904 (2000), the equally divided
+nature of the Hickman en banc affirmance and Judge Higginbotham’s
+dissent therefrom.  The Court subsequently took the case en banc.
+United States v. McFarland, 281 F.3d 506 (5th Cir. 2002).
+Facts and Procedural Background
+McFarland was charged in a ten count indictment with five
+Hobbs Act robbery counts, and five related section 924(c)(1)
+counts, pertaining to robberies of local convenience stores
+committed in Fort Worth, Texas, in November and December 1998.1  He
+was acquitted of one of the robbery counts and of its related
+section 924(c)(1) count.2  He was convicted on all the remaining
+counts.  The four Hobbs Act counts of conviction (counts one, five,
+seven and nine) each alleged that McFarland “did knowingly and
+willfully obstruct, delay, and affect interstate commerce and did
+attempt to obstruct, delay and affect interstate commerce, by
+robbery, to wit: the defendant did take and obtain property, namely
+
+3Although, as indicated, these counts each reference
+“attempt,” the jury charge makes no reference whatever to
+“attempt,” and these counts were submitted to the jury entirely
+on a completed offense basis.  There was no conspiracy allegation
+or count, each Hobbs Act count was submitted to the jury as a
+separate and distinct offense, and the jury was charged “A
+separate crime is charged in each count of the indictment.  Each
+count and the evidence pertaining to it should be considered
+separately.”  The defendant acted alone in each of the robberies,
+although there is evidence indicating that in at least one of
+them he was driven from the site just after the robbery by his
+wife or girlfriend.  There is no suggestion that the defendant
+(or the wife or girlfriend) was other than a resident of Fort
+Worth, or that he had any intention or purpose to do or
+accomplish anything other than simply what he did, namely take
+cash from each store robbed.    
+5
+United States Currency, from the person and in the presence of . .
+. [name of store employee], an employee of . . . [name and address
+of store], against his will by means of actual and threatened
+force, violence, and fear of injury to his person.”3  
+The stores involved, the amounts taken, in each case from the
+cash register, and the relevant dates of the four robberies were
+the following: 
+Count one, robbery November 20, 1998 of “Buy-Low” convenience
+store in which “about $100, close to $100" was taken;  
+Count five, robbery December 3, 1998 of Gateway Discount
+Liquor store in which “somewhere around 15 [$1,500] to $2,000" cash
+was taken;
+Count seven, robbery December 11, 1998, Quickway Shopping
+
+4“About $50" is the testimony of Rosa Candanosa, the
+employee on duty at the store when the robbery took place who
+took the money from the cash register and handed it to the
+defendant.  The then store owner, William Gumfory, who at the
+time of trial in March 2000 had been retired for an unstated
+length of time, testified he was not at the store when the
+robbery occurred.  When asked by the prosecution “can you tell us
+approximately how much your store was robbed the day Rosa
+Candanosa was working” he replied “I really don’t recall, but I
+would say in the neighborhood of $100.”  No further precision was
+supplied nor is there any explanation of how or on what basis the
+“in the neighborhood of $100" was arrived at.  
+6
+convenience store in which “about $50" cash was taken;4
+Count nine, robbery December 21, 1998, Jeff Stop convenience
+store, in which $145 cash was taken.
+Each of these four stores was a retail store, three being
+retail convenience stores and one a retail liquor store.  There is
+no evidence that any of the four stores made any sales or shipments
+to points or purchasers outside of Texas, or, indeed made any sales
+other than at the store premises to retail purchasers resident in
+Fort Worth.  There is no evidence that any of the stores was
+located at (or near) any transportation facility, such as a bus or
+train station or airport, or on an interstate highway.  Three of
+the stores–Buy-Low, Jeff Stop and Gateway Discount Liquor–were
+apparently stand-alone, single location, concerns, unaffiliated, by
+common ownership or otherwise, with any other concern.  The
+Quickway Shopping convenience store was apparently one of an
+unstated number of such stores so named, and William Gumfory, owner
+of the store robbed, may have owned some (or all) of the other
+
+5The evidence in this respect is sparse, consisting only of
+the following.  William Gumfory replied “That is correct” to the
+prosecutor’s question “Was one of the convenience stores that you
+owned Quickway Convenience Store shopping on 245 Bailey Fort
+Worth, Texas” [The store robbed on December 11, 1998].  And, a
+Weatherford, Texas, wholesaler testified that “we supplied
+Quickway Convenience Stores as a group,” that he supplied the
+Quickway store at 245 Bailey Street, had long done business with
+Mr. Gumfory, and answered “yes” to the prosecutor’s question did
+he “rely on Mr. Gumfory’s stores, at least in the December ‘98
+time frame, and stores like that, in conducting your business?”
+6Such out-of-state items included the following.  The Buy-
+Low store sold cigarettes, Coors beer and Gatorade.  The Quickway
+Shopping store sold cigarettes, Tropicana Orange Juice, Coors
+beer, Gatorade, Nabisco snacks, Anacin and Purina dog food.  The
+Jeff Stop sold cigarettes, Tropicana Orange Juice, Coors beer,
+Anacin, and Purina dog food.  The Gateway Discount Liquor store
+sold various liquors produced outside of Texas.  
+7
+Quickway Shopping convenience stores.5  There is no evidence that
+any of the four robbed stores (or any Quickway Shopping store) had
+any facilities, property, employees, bank accounts or activities
+outside of Fort Worth, or was owned, in whole or in part, by any
+one not a Fort Worth resident.
+Each of the four retail stores sold items of merchandise some
+of which the evidence showed were originally manufactured or
+processed outside of Texas.6  As to none of the three convenience
+stores was there any evidence indicating what fraction or
+percentage of their sales was of or allocable to items which had
+been manufactured or processed out of Texas, or what was the total
+dollar amount either of such sales or of all sales at the
+particular store.  As to the Gateway Discount Liquor store, one of
+the three Texas wholesalers who supplied it testified that ninety-
+five percent of what he distributed both generally and to that
+particular store “came from outside the state of Texas” and that a
+
+8
+very small amount of liquor or wine products was produced in Texas.
+The only evidence as to the Gateway Discount Liquor Store’s dollar
+volume of sales and purchases was that it had $26,640.69 sales and
+$23,084.73 purchases from November 17 to November 30, 1998, and
+$34,910.03 sales and $36,547.67 purchases from December 1, 1998
+through December 17, 1998, and that in the retail liquor business
+people start buying after Thanksgiving and the busiest time of year
+is from October through December.
+There was no evidence that either the Buy-Low store or the
+Jeff Store acquired any of their inventory from sources outside of
+Texas, as opposed, for example, to acquiring it from a Texas
+wholesaler.  Indeed, there was no evidence whatever as to how or
+from whom or where or on what basis either of those two stores
+acquired their inventory, except that they purchased it.  The only
+evidence in this respect as to Gateway Discount Liquor is that it
+purchased its inventory from three Texas wholesalers, as required
+by Texas law.  The only one of these three wholesalers who
+testified stated “I pay for that product beforehand, and its mine
+to distribute and sell and collect.”  Quickway Shopping purchased
+its  merchandise inventory from a Weatherford, Texas, wholesaler,
+Hartnett Company, which in turn had purchased items including
+Tropicana juices from Florida, Wrigley’s Gum and Gatorade from
+Chicago, and Purina dog food from Oklahoma.  The goods Hartnett
+Company acquires come to a warehouse in Texas.  It then sells them
+to local retail stores (and to some stores in Kansas).  Quickway
+Shopping also sold money orders which it acquired from a company in
+Minnesota, and Mr. Gumfory testified “any money orders we sold we
+
+7The Buy-Low owner answered “yes” when asked “when money is
+stolen from you like that, does it cause you problems in rebuying
+inventory.”  The Jeff Stop owner answered “yes” when asked “when
+your store is robbed of its money, does that hurt your ability to
+re-buy, repurchase merchandise to sell in your store.”  The
+Quickway Shopping owner, asked “if your store is robbed of its
+money, does that hinder your ability to replenish your stock,”
+responded “well, naturally, we have less money to operate with.” 
+The Gateway Discount Liquor owner, asked “if your store is robbed
+of money and you don’t have that money, it hurts your ability to
+replenish your stock,” replied “yes.  It does hurt us.” 
+Comparable general testimony was likewise given by the liquor
+wholesaler, the wholesaler who supplied Quickway Shopping and a
+Coors distributor; these wholesalers also gave general testimony
+that if their customers didn’t pay them they couldn’t pay the
+suppliers from whom they had purchased their products.  
+9
+paid off the same day” and estimated “we sold probably 300 a
+month.”  It is not clear whether the 300 figure refers to the total
+number of individual money orders or the total face amount of the
+money orders sold per month.  Nor is it clear whether the reference
+is to all Gumfory’s Quickway Shopping stores or the particular one
+robbed of $50 on December 11, 1998.  
+The owners when the robberies occurred of Buy-Low, Jeff Stop
+and Gateway Discount Liquor stores testified that the percentage of
+their gross sales proceeds used to restock inventory was seventy-
+five percent for Gateway and Jeff Stop and seventy percent for
+Gateway.  The former owner of Quickway Shopping testified that his
+profit margin on sales was approximately twenty-five percent,
+meaning that “if we sold $20,000 a month, we would have to buy
+$15,000 a month to replace it.”  These store owners each gave
+brief, conclusory testimony that robbery of money from the store
+would cause problems  respecting, hurt or hinder inventory
+purchases.7  However, there was no evidence that any of the stores
+actually did purchase less, or delay any purchase, as a result of
+
+8The Buy-Low owner testified that at some unspecified time
+prior to the March 2000 trial he had elected to close his store,
+that “six or seven months” after the charged November 20, 1998
+robbery, “we had another robbery,” and that he closed his store
+for two reasons, “first of all” because his landlord sold the
+store premises and “number two” because “I’m tired of” being
+robbed.  
+9We also observe that the wholesaler supplying Quickway
+Shopping, when asked “how do you know a [customer] store has been
+robbed” responded “because they will call us and need an extra
+delivery because they don’t have any product in their store.” 
+There is no evidence that this ever occurred respecting any of
+the four stores.    
+10The owner, when asked approximately how much was taken in
+the robbery, had stated “I really don’t recall, but I would say
+in the neighborhood of $100.”  He was not present when the
+robbery occurred.  The employee on duty testified that “about
+$50" was taken.  There is no other evidence as to the amount
+taken (see note 4, supra).  
+10
+(or following) the charged robbery of that store.  No questions in
+that respect were asked of the Buy-Low or Jeff Stop owners, and no
+one identified as a seller or supplier to either testified.8
+Likewise, neither the Gateway Discount Liquor owner (whose sales
+and purchases rose following the robbery) nor the former Quickway
+Shopping owner, nor their wholesalers, ever testified that as a
+result of the charged robbery the retail store actually reduced or
+delayed any purchases, and their testimony suggests that they did
+not.9  The Quickway Shopping former owner, when asked “were you not
+able to buy anything you would normally buy because that $100
+wasn’t there,” responded “we would be able to buy it, but we would
+have to take the $100 from the bank or somewhere to keep our
+balances in the correct proportion.”10  The Gateway Discount Liquor
+owner, when asked “after the $1,500 to $2,000 was taken from you by
+the defendant, did it cause your business problems,” responded
+
+11
+“It kept me a little stretched.  In business every day
+sales are ringing, but we have to overstretch some bills
+and tell the distributor that we won’t be able to pay you
+today, but we’ll pay you in the next two or three days.”
+Apart from the just above quoted testimony of the Gateway Discount
+Liquor owner, there was no evidence that any of the robberies
+resulted in any of the victim stores even slightly delaying any
+payment to any party as a result of the charged robberies.
+McFarland made and renewed timely motions for judgment of
+acquittal on the grounds, inter alia, that the required nexus to
+interstate commerce was not shown as to any of the Hobbs Act
+counts.  These motions were overruled.  The trial court’s jury
+charge instructed, with reference to the Hobbs Act counts, that,
+among other things:  
+“If you decide that there is any effect at all of [sic]
+interstate commerce, then that is enough to satisfy this
+element.  The effect can be minimal.  A showing that a
+business regularly buys goods from out of state allows an
+inference that a robbery may impair a future purchase .
+. . . If you find beyond a reasonable doubt that the
+defendant’s conduct affected interstate commerce, then
+you may conclude that the government has met its burden
+of proof as to the interstate commerce element of the
+offense.”
+McFarland objected to the word “any” in the first sentence above
+quoted, objected to the sentence “the effect can be minimal,” and
+to the failure to include the word “substantially,” as he had
+previously requested, between “conduct” and “interstate commerce”
+in the last above quoted sentence.  These objections were all
+overruled.
+Discussion 
+As noted, the principal issue presented is whether the Hobbs
+Act extends, or may be applied consistent with the limitations of
+
+11The balance of the statute consists of paragraphs (1) and
+(2) of subsection (b), reading as follows:
+“ (1) The term ‘robbery’ means the unlawful taking or
+obtaining of personal property from the person or in
+the presence of another, against his will, by means of
+actual or threatened force, or violence, or fear of
+injury, immediate or future, to his person or property,
+or property in his custody or possession, or the person
+or property of a relative or member of his family or of
+anyone in his company at the time of the taking or
+obtaining.
+  (2) The term ‘extortion’ means the obtaining of
+property from another, with his consent, induced by
+wrongful use of actual or threatened force, violence,
+or fear, or under color of official right.”
+and subsection (c), which provides:  “ (c) This section shall not
+be construed to repeal, modify or affect section 17 of Title 15,
+12
+the Commerce Clause reflected by Lopez and Morrison, to these
+robberies of local retail stores.
+I.  The Act, its history and Supreme Court interpretation
+The Hobbs Act, 18 U.S.C. § 1951, provides in relevant part:
+“  (a) Whoever in any way or degree obstructs, delays, or
+affects commerce or the movement of any article or
+commodity in commerce, by robbery or extortion or
+attempts or conspires so to do, or commits or threatens
+physical violence to any person or property in
+furtherance of a plan or purpose to do anything in
+violation of this section shall be fined under this title
+or imprisoned not more than twenty years, or both.
+   (b) As used in this section– 
+. . .
+(3) The term “commerce” means commerce
+within the District of Columbia, or any
+Territory or Possession of the United States;
+all commerce between any point in a State,
+Territory, Possession, or the District of
+Columbia and any point outside thereof; all
+commerce between points within the same State
+through any place outside such State; and all
+other commerce over which the United States
+has jurisdiction.”11
+
+sections 52, 101-115, 151-166 of Title 29 or sections 151-188 of
+Title 45.”  
+12In the 1948 revision and codification of Title 18, purely
+formal, stylistic changes were made to the Hobbs Act (largely
+reordering and consolidating its subsections and paragraphs). 
+June 25, 1948, Pub. L. 772, c. 645, 62 Stat. 793-794.  In 1994
+the words immediately following “fined” in subsection (a) were
+changed from “not more than $10,000" to “under this title.” 
+Sept. 13, 1994, Pub. L. 103-322, Title XXXIII, § 330016(1)(L),
+108 Stat. 2147. 
+13The 1934 Act was subsequently codified, without
+substantive change, as §§ 420a through 420e of Title 18, U.S.
+Code 1940 Ed.  
+13
+It was originally enacted July 3, 1946, ch. 537, Pub. L. 486,
+60 Stat. 420,12 as an amendment to the generally similar Anti-
+Racketeering Act of June 18, 1934 (the 1934 Act), Pub. L. 376, 48
+Stat. 979-80.13  The Hobbs Act was occasioned by the holding in
+United States v. Local 807, 62 S.Ct. 642 (1942) that the 1934 Act,
+by virtue of its exclusion relating to an employer’s payment of
+wages to an employee and its provision indicating an intent not to
+diminish union rights, did not apply to the activities of members
+of a New York City truck drivers union who, by violence or threats,
+extracted payments for themselves from out-of-state truckers in
+return for the unwanted and superfluous service of driving the
+trucks to and from the city.  Id., at 643-44, 649; United States v.
+Enmons, 99 S.Ct. 1007, 1011 (1973) (“[A]s frequently emphasized on
+the floor of the House, the limited effect of the bill was to shut
+off the possibility opened by the Local 807 case, that union
+members could use their protected status to exact payments from
+
+14See also United States v. Green, 76 S.Ct. 522, 525, 526
+(1956) (“The legislative history makes clear that the new [Hobbs]
+Act was meant to eliminate any grounds for future judicial
+conclusions that Congress did not intend to cover the employer-
+employee relationship;” “The city truckers in the Local 807 case
+similarly were trying by force to get jobs from the out-of-state
+truckers by threats and violence”); H.R. Rep. 238, 79th Cong.,
+1st Sess. (1945) (reporting favorably H.R. 32 which became the
+Hobbs Act, the report consisting mostly of verbatim quotation of
+the entire Local 807 majority opinion and dissent); 89 Cong. Rec.
+3202 (1943) (“. . . it is the intention of the Committee on the
+Judiciary to enact legislation for one purpose, and one purpose
+alone, namely, to correct the unfortunate decision in the Local
+807 case”) (Rep. Walter); 91 Cong. Rec. 11841-11842 (1945) (“I
+want it distinctly understood that the legislation under
+consideration is designed to meet one situation and one situation
+alone. . . . Let us see what that situation is.  Unfortunately,
+the Supreme Court in the famous Local 807 case by a very strained
+construction . . .”) (Rep. Walter); 91 Cong. Rec. 11841 (1945)
+(“The sole purpose of the bill . . . is to undo the outrageous
+opinion of the Supreme Court in the Teamsters Union case where
+that Court legitimatized highway robbery committed by a labor
+goon”) (Rep. Cox); 91 Cong. Rec. 11900 (1945) (“This bill is
+designed simply to prevent both union members and nonunion people
+from making use of robbery and extortion under the guise of
+obtaining wages in the obstruction of interstate commerce.  That
+is all it does. . . . this bill is made necessary by the amazing
+decision of the Supreme Court in the case of the United States
+against Teamsters Union 807 . . . That is all this bill does.  We
+think a mistake was made by the Supreme Court.  We are attempting
+to correct it . . .”) (Rep. Hancock).  
+The Congressional Record does not reflect any Senate debate
+or discussion of the Hobbs Act. 
+14
+employers for imposed, unwanted and superfluous services.”).14
+The Senate Report on S. 2248, which (as amended) became the
+1934 Act, states that “the nearest approach to prosecution of
+racketeers as such has been under the Sherman Antitrust Act” but
+such prosecutions have been hampered by the requirement of proving
+conspiracy or monopoly and by being merely a misdemeanor, and that
+the proposed bill “is designed to avoid many of the embarrassing
+limitations . . . of the Sherman Act, and to extend Federal
+jurisdiction over all restraints of any commerce within the scope
+
+15
+of the Federal Government’s constitutional powers.”  S. Rep. 532,
+73rd Cong., 2nd Sess. (1934).  The House Report on S. 2248, which
+recommends a rewritten form of S. 2248, states “this is the so-
+called ‘antiracketeering bill’ for the suppression of racketeering
+in interstate commerce,” and quotes a  memorandum from Attorney
+General Cummings noting that the bill, with the suggested
+amendments, had been approved by representatives of organized labor
+and that “The Sherman Antitrust Act is too restricted in its terms
+and the penalties thereunder are too moderate to make that act an
+effective weapon in prosecuting racketeers.  The antiracketeering
+bill would extend the Federal jurisdiction in those cases where
+racketeering acts are related to interstate commerce and are
+therefore of concern to the Nation as a whole.”  H. Rep. 1833, 73rd
+Cong., 2nd Sess. (1934).  Despite the breadth of some of this
+language, it may be seriously doubted that Congress then
+contemplated that it was making a federal crime the “plain vanilla”
+cash robbery from a local retail store of the sort here involved.
+Moreover, at that time the federal government’s commerce power was
+generally viewed far less expansively than it later came to be.
+See Lopez, 115 S.Ct. at 1628.  The then view of the commerce power
+is also suggested by S. Rep. 1189, 75th Cong., 1st Sess. (1937),
+the report of the principal congressional committee (the Copeland
+Committee) working on the 1934 Act (see United States v. Culbert,
+98 S.Ct. 1112, 1115 & n.6 (1978)), recounting its investigations,
+commencing in 1933, into racketeering and the recommendations it
+had made for legislation (including the 1934 Act).  This report
+reflects an understanding that there were meaningful limits on the
+
+15We are aware of the language in Judge Learned Hand’s
+opinion in United States v. Local 807, 118 F.2d 684 (2d Cir.
+1941), aff’d, United States v. Local 807, 62 S.Ct. 642 (1942),
+where, in the course of reversing the convictions of the union
+16
+commerce power.  For example, the report mentions the “Poultry
+Racket” “practiced upon the live-poultry business in New York
+City,” to which the “poultry comes from the Southern and Midwestern
+states,” and, due to the rackets, the charge for shipping a carload
+of poultry from Chicago to New York was less than the charge for
+its unloading and delivery in New York City.  Id. at 16, 17.  The
+report notes “[w]hile some phases of the poultry racket were of a
+local nature and not within Federal jurisdiction, the committee
+felt that insofar as the transportation and distribution of live
+poultry was interstate in character, the necessary legislation
+should be enacted. . . .”  Id. at 18 (emphasis added).  The report
+also discusses ”the ‘kick-back’ racket . . . that nefarious
+practice of requiring the employee to give back to his employer a
+percentage of his earnings,” id., observes, respecting the “kick-
+back racket,” that “a great proportion of the complaints came from
+the building trades” but “[i]t is, of course, practiced in other
+industries,” id. at 19, and concludes, respecting the kick-back
+racket, that: “After a thorough study of the testimony given and
+the complaints made, the committee concluded that the majority of
+the cases presented were of a local nature and were not within the
+jurisdiction of the Federal Government.  But it was decided that
+the committee could effectuate the purpose of certain Federal
+statutes concerning rates of wages to be paid on work done under
+[Federal] Government contracts.”  Id. at 20 (emphasis added).15
+
+truckers for violating the 1934 Act, he remarked “[f]or a number
+of years before 1934–at least in the City of New York–the levy of
+blackmail upon industry, especially upon relatively small shops,
+had become very serious, and the local authorities either would
+not, or could not, check it. . . . It was, at least primarily, to
+check such Camorras that Congress passed this measure [the 1934
+Act].”  118 F.2d at 687-88.  In United States v. Staszcuk, 517
+F.2d 53 (7th Cir. 1975), the en banc Seventh Circuit, in
+upholding (over three dissents) a Hobbs Act conviction for
+extorting $3,000 from a property owner to procure a zoning change
+authorizing construction of an animal hospital (which would have
+involved importing equipment from other states) despite the fact
+that the owner, for unrelated reasons, later elected not to build
+the hospital and improved the property with other construction
+which would have been permitted without the zoning change, relied
+on this language of Judge Hand’s to broadly construe the Hobbs
+Act’s commerce coverage, Straszcuk at 57, in support of its
+ultimate conclusion to affirm even though “the record
+demonstrates the extortion had no actual effect on commerce.” 
+Id. at 60.  We attach no significance to Judge Hand’s quoted
+language.  In the first place, Judge Hand in the passage in
+question was not addressing the matter of an interstate commerce
+nexus–which was plain and undisputed in the case before him–but
+was rather distinguishing labor related extortion from other
+kinds.  Further, it is entirely unclear what he meant–especially
+as it might bear on interstate commerce–by “industry” and
+“relatively small shops.”  And, Judge Hand cites absolutely
+nothing–no legislative history, no publications, nor anything
+else–in support of his quoted observations (nor is any such
+support cited in Staszcuk).  Finally, the quoted passage in Judge
+Hand’s opinion was not cited or alluded to, or anything similar
+to it stated, by the Supreme Court in the Local 807 case (or in
+any other case of which we are aware).  Doubtless in 1933 and
+1934 there was great concern about rackets and crime, but that
+does not suggest that Congress had a broad view of its Commerce
+Clause powers or intended to legislate in matters “of a local
+nature.”  In addition to the passages of the Copeland Committee
+report cited in the text above, we also note the following:
+“Demands in great numbers for all types of
+investigations, into all kinds of wrongs, reached the
+committee.  These varied from requests that the
+committee investigate the internal affairs of
+municipalities, to requests that it look into specific
+financial transactions, alleged unconscionable mortgage
+foreclosures, and the like.  The public generally
+seemed to be unaware of, or at least not alive to, the
+jurisdictional boundaries in this field created by the
+constitutional limitations on the power of Congress.
+. . .
+[I]t was clear that the committee was not intended as a
+superpolice, nor as a prosecuting or judicial body for
+17
+
+the supervision and investigation of the activities of
+local authorities.  On the contrary, the subcommittee
+was organized to consider ways and means by which the
+Federal Government might aid in the suppression of
+rackets and racketeering, and, therefore, its activity
+would have to be limited for the most part to matters
+falling within the categories of interstate commerce
+and use of the mails.”
+Id. at 2.
+16The 1934 Act defined “trade or commerce” as “trade or
+commerce between any States, with foreign nations, in the
+District of Columbia, in any Territory of the United States,
+between any such Territory or the District of Columbia and any
+state or other Territory, and all other commerce over which the
+United States has constitutional jurisdiction.”  The Hobbs Act
+definition is of the term “commerce” instead of the 1934 Act’s
+“trade or commerce,” defined “Territory” as meaning “any
+Territory or possession of the United States,” omitted the word
+“constitutional” just before “jurisdiction,” and added the
+category “between points within the same State, Territory, or the
+District of Columbia but through any place outside thereof.”  The
+Hobbs Act definition is otherwise the same as in the 1934 Act. 
+The Hobbs Act’s addition of the latter category, if meaningful at
+all, would merely appear to suggest concern that without it
+something might possibly have been inadvertently excluded.  The
+concluding “all other commerce” clause in the Hobbs Act (and in
+the 1934 Act) would appear to include commerce between points in
+a single State and an Indian Tribe within that state, see, e.g.,
+Morton v. Moncari, 94 S.Ct. 2474, 2483 (1974); Perrin v. United
+States, 34 S.Ct. 388, 389 (1914), and commerce between points in
+the same state by a vessel traveling along the portion of a
+18
+By the time the Hobbs Act eventually passed, the Supreme Court
+had already begun its articulation of a Commerce Clause power
+greatly expanded over that as previously defined.  See Lopez, 115
+S.Ct. at 1628.  However, this does not seem to have been a matter
+at all the subject of consideration by Congress in enacting the
+Hobbs Act, and the Act was merely directed at changing the result
+in the Local 807 case.  See note 14 and accompanying text, supra.
+The wording of the Hobbs Act did not in any presently meaningful
+way change the 1934 Act’s interstate commerce nexus requirement.16
+
+navigable waterway wholly within that state.  See, e.g., Ex Parte
+Garnett, 11 S.Ct. 840, 842 (1891). 
+The required nexus to commerce in the proscriptive section
+of the 1934 Act (“Any person who, in connection with or in
+relation to any act in any way or in any degree affecting trade
+or commerce or any article or commodity moving or about to move
+in trade or commerce”) appears as broad as that of the comparable
+provision in Hobbs Act (“whoever in any way or degree obstructs,
+delays, or affects commerce, or the movement of any article or
+commodity in commerce”), the latter essentially treating
+“movement” as the equivalent of “moving or about to move,” and
+substituting “commerce” for “trade or commerce.”
+19
+Nor is any more expansive relation to interstate commerce
+suggested by the Congressional committee reports on H.R. 32, the
+bill which became the Hobbs Act.  The House Committee on the
+Judiciary report states that the bill is a “successor” to similar
+bills introduced in the 77th and 78th Congresses (the first not
+acted on, the second passing the House but not acted on by the
+Senate), and that the bill’s purpose is “to prevent interference
+with interstate commerce by robbery or extortion.”  H. Rep. 288,
+79th Cong., 1st Sess. (1945), at 1.  It goes on to say that the
+bill 
+“is an amendment of the existing antiracketeering law
+which was enacted in 1934.  It was passed in an effort to
+eliminate 
+racketeering 
+in 
+relation 
+to 
+interstate
+commerce, of concern to the Nation as a whole.  That
+statute came under examination of the Supreme Court in
+United States v. Local 807, and the opinion in that case
+is set out in full, both the majority opinion and the
+dissent:”, id. at 1, 2, 
+which opinions the report then proceeds to quote in full.  Id. at
+2-9.  Thereafter, the report recites that the bill’s objective “is
+to prevent anyone from obstructing, delaying, or affecting
+commerce, or the movement of any article or commodity in commerce
+by robbery or extortion.”  Id. at 9.  The concluding section of the
+
+17The brief, half page Senate report does not point in any
+different direction.  Its only relevant statement is the
+following:
+“The purpose of this bill is to prevent interference
+with interstate commerce by robbery or extortion, as
+defined in the bill. . . . this bill is an amendment of
+the existing law which was enacted in 1934.  The
+objective of the amendments is to prevent anyone from
+obstructing, delaying, or affecting commerce, or the
+movement of any article or commodity in commerce by
+robbery or extortion.”  
+18The Congressional Record does not reflect any debate or
+discussion in the Senate.  
+20
+report commences by stating “The Congress does not need to be
+reminded that the Constitution of the United States confers on it
+the exclusive and unlimites [sic] power to regulate interstate
+commerce,” id. at 10 (emphasis added), that “the members of the
+Constitutional Convention agreed that our Federal Government would
+be destroyed if barriers should be erected in any way to impede the
+free flow of interstate commerce,” and, finally, that “This bill
+would outlaw two kinds of criminal interference with interstate
+commerce.”  Id.  Certainly what this report is concerned with is
+interference with the movement of articles in interstate commerce,
+with interstate commerce itself.17
+The debates in the House are wholly consistent with this.18
+As previously observed, these debates reflect that the “sole”
+purpose and effect of the Hobbs Act was to override the Local 807
+case and remove the exemption from the 1934 Act which that case was
+thought to create for union members.  See note 14, supra, and
+accompanying text.  Two other aspects of these debates should be
+mentioned.
+First, the discussion of the evils the pending bill was
+
+19See, e.g., 89 Cong. Rec. 3203 (1943) (Rep. Walter)
+(“Farmer after farmer in the eastern part of Pennsylvania has
+been stopped at the entrance to the Holland Tunnel [into New
+York], compelled to get off his truck and give to some man $9.40
+to deliver that truck to a point where that farmer had been
+delivering his produce for a great many years”); 91 Cong. Rec.
+11902 (1945) (Rep. Walter) (“a processor from . . . Bethlehem
+[Pa] . . . informed me he was no longer shipping articles to New
+York by truck but was shipping them by train because he was
+compelled to kick in . . . $10 for every load of his materials
+that went into the gentleman’s city”); id. at 11903 (“the
+practice of members of that union to post themselves at the
+bridges and at the Holland Tunnel.  Here would come a farmer,
+say, from North Carolina with a load of vegetables.  The union
+members would stop him at the bridge . . .”) (Rep. Gwynne); id.
+at 11904 (“some of us out in the country know something more
+about New York . . . some of my [Pa.] neighbors are paying as
+much as $90 a load to take their produce in and get out alive in
+their trucks”) (Rep. Gross); id. at 11905 (“The products of the
+farms were being trucked from New Jersey, Pennsylvania, and
+Maryland, and hundreds of these trucks were help up when they
+approached the city limits of New York and especially the Holland
+Tunnel”) (Rep. Robsion); id. at 11906 (“These crimes are not
+confined to racketeers in the labor movement.  We have many
+instances where one group of farmers has taken possession
+unlawfully of the trucks of other farmers and overturned the
+trucks and destroyed the produce of the others by violence and
+fear and prevented the trucks moving in interstate commerce”)
+(Rep. Robsion); id. at 11910 (article from Dawson, Minnesota,
+paper reciting that Dawson farmer sent to De Moines, Iowa, to
+pick up machinery to install driers at Dawson elevators was
+forced by Iowa labor groups to return to Dawson without his load
+and to join union and pay dues “before they would permit him to
+leave with his truck”) (Rep. Anderson); id. at 11911 (“Let us
+illustrate what we are proposing to stop by this measure we are
+now considering.  Here comes a farmer with a load of
+produce–milk, butter, eggs, vegetables, . . . As they near a
+State line in going to market to sell that produce a thug they
+never saw before or a coterie of thugs comes up to the truck and
+says, ‘Here, stop your truck.’”) (Rep. Jennings); id. at 11917
+(“I want the farmers of this Nation protected from hijacking,
+robbery, and assault when they deliver milk from New Jersey to
+New York, or produce from South Carolina to New York”) (Rep.
+Rivers).  
+21
+designed to eliminate focused almost entirely on the interruption
+of commodity shipments actually moving in interstate commerce,
+principally agricultural commodities being carried by truck across
+state lines.19  
+
+22
+Other aspects of the debate likewise reflect an emphasis that
+the bill applied only to interstate commerce, without any broad
+reading of that concept.  See, e.g., 89 Cong. Rec. 3210 (1943) (“It
+is directed against robbery and extortion when used to obstruct the
+free flow of goods in interstate commerce, no matter who the
+offenders may be.”) (Rep. Hancock); 91 Cong. Rec. 11843 (1943) (“.
+. . it is the duty of Congress to protect its citizens and the
+people who use the highways in interstate commerce.  Remember, this
+proposal applies to interstate commerce only. . . . if interstate
+commerce is being interfered with, and if the farmers and truckers,
+who take food into New York from the surrounding territory and
+States, must submit to the treatment outlined by Chief Justice
+Stone, then it seems clear that it is the obligation of the
+Congress to furnish national protection in these interstate
+operations.” (emphasis added) (Rep. Michener); id. (Rep. Graham.
+“Is not this bill limited to interstate commerce alone?”  Rep.
+Michener.  “Certainly.”; emphasis added); id. (Rep. Robsion. “Would
+this apply to those conditions in a number of other States where
+they meet and overturn milk trucks and do other things like that?”
+Rep. Michener.  “This bill applies to interstate commerce only.”;
+emphasis added); id. at 11912 (“. . . the sole and simple purpose,
+the single purpose, of this bill is to do the best we can to
+protect interstate commerce and free the highways and streets of
+this country of robbers”) (Rep. Hobbs).  The following exchange is
+similarly relevant:
+“Mr. GRANGER.  This applies only to interstate commerce,
+does it not?
+Mr. SPRINGER.  It applies to interstate commerce.
+
+20Moreover, so far as we are aware the 1934 Act was never
+applied to robberies of local retail stores such as those here,
+and for many years the Hobbs Act apparently was not either.  Cf.
+United States v. Enmons, 93 S.Ct. 1007, 10015 (1973) (“It is
+unlikely that if Congress had indeed wrought such a major
+expansion of federal criminal jurisdiction in enacting the Hobbs
+Act, its action would have so long passed unobserved;”also
+invoking principles of strict construction of criminal statutes
+and reluctance to assume significant change in relation between
+federal and state criminal jurisdiction in declining broad
+construction of Hobbs Act).  Further, the “depletion of assets”
+theory, which is essentially the basis for Hobbs Act prosecutions
+such as that in this case, seems to have had its origin in United
+States v. Provenzano, 334 F.2d 678 (3d Cir. 1964), where, in
+upholding a “depletion of assets” jury charge in a conviction for
+extorting $30,000 from an interstate trucking company to prevent
+23
+Mr. GRANGER.  It would not affect a farmer who picked up
+produce within his own State and delivered it within his
+own State?  That would be intrastate commerce?
+Mr. SPRINGER.  Yes.
+Mr. GRANGER.  What is interstate commerce?  Is a farmer
+who crosses the State line with his own property engaged
+in interstate commerce?
+Mr. SPRINGER.  There is no doubt but that he is engaged
+in interstate commerce when he crosses a State line.
+Mr. ROBSION of Kentucky.  A transaction within a State
+may be interstate commerce if it oppresses and interrupts
+seriously or in a substantial way goods moving from one
+State to another?
+Mr. SPRINGER.  The gentleman is entirely correct.  That
+has been defined by judicial decisions.”  Id. at 11910.
+We are aware of nothing in the legislative history relating or
+referring to the aggregation principle or anything comparable to it
+as applicable to discrete intrastate actions which individually
+have only a minimal, indirect and attenuated effect on interstate
+commerce.  
+This legislative history strongly suggests to us that Congress
+in enacting the Hobbs Act was concerned with protecting against
+relatively direct obstruction of the actual movement of goods in
+interstate commerce, and did not contemplate its application to
+robberies of local retail stores such as those here.20  However, the
+
+labor disruption of its terminal, the court stated:
+“We can perceive no reason why extortive payments, in
+substantial amounts, paid as here from the treasury of
+a company engaged in interstate commerce in order to
+avoid obstruction of the company’s interstate business
+should not be deemed to affect commerce and therefore
+to lie within the proscription of the Hobbs Act. . . .
+This was the substance of the court’s charge.  We hold
+it to have been a correct one in the light of all the
+circumstances.”  Id. at 693 (emphasis added).
+In Esperti v. United States, 406 F.2d 148 (5th Cir. 1969), we
+relied on Provenzano’s depletion of assets theory in sustaining a
+Hobbs Act conviction for robbery of $2,000 (proceeds of a sale to
+a Chicago customer) and attempted extortion (to collect a $25,000
+alleged debt to a New Yorker), the Florida victim being “Red Ball
+Merchandising” which “sold close-out merchandise” and whose
+“interstate sales and purchases amounted to ninety per cent of
+its business.”
+21In Green the Court held the Hobbs Act applied to a union
+agent’s threats of violence to force an employer to pay union
+members for unwanted and superfluous services notwithstanding
+24
+Supreme Court in Stirone v. United States, 80 S.Ct. 270 (1960),
+stated that the Hobbs “Act speaks in broad language, manifesting a
+purpose to use all the constitutional power Congress has to punish
+interference with interstate commerce by extortion, robbery or
+physical violence.  The Act outlaws such interference ‘in any way
+or degree.’  18 U.S.C. § 1951(a) . . .”  Id. at 272.  The victim
+there was extorted of some $31,000 to avoid cancellation of his
+contract to supply from his Pennsylvania plant concrete for the
+construction of a Pennsylvania steel mill; the victim depended on
+shipments of sand to him from outside of Pennsylvania to make the
+concrete, and such shipments would have slackened or stopped had
+his contract to supply the steel mill job been cancelled.  Id.  The
+Court observed that “[i]t was to free commerce from such
+destructive burdens that the Hobbs Act was passed,” citing United
+States v. Green, 76 S.Ct. 522 (1956).  Stirone, at 272.21  Stirone
+
+that payments to the union or the agent personally were not
+sought, noting that “The city truckers in the Local 807 case
+similarly were trying by force to get jobs and pay from the out-
+of-state truckers by threats and violence.  The Hobbs Act was
+meant to stop just such conduct.”  Green at 526.  The Court went
+on to observe “[w]e said in the Local 807 case that racketeering
+affecting interstate commerce was within federal legislative
+control.”  Id.  Green then cites Cleveland v. United States, 67
+S.Ct. 13 (1946) (upholding Mann Act convictions for transporting
+a “plural wife across state lines” for purposes of cohabitation,
+stating “[t]he power of Congress over the instrumentalities of
+interstate commerce is plenary,” id. at 16) and Mitchell v.
+Vollmer & Co., 75 S.Ct. 860 (1955) (workers on project improving
+the Algiers Lock, a unit of the Gulf Intercoastal Waterway, are
+“engaged in commerce” for purposes of overtime under the FLSA;
+“the work of improving existing facilities of interstate
+commerce” is activity in commerce just as “[r]epair of facilities
+of interstate commerce is activity ‘in commerce’”).  
+22Culbert involved a Hobbs Act conviction for attempting to
+extort “$100,000 from a federally insured bank.”  Id.  Cf.
+Westfall v. United States, 47 S.Ct. 629 (1927) (defrauding state
+bank which is a member of the Federal Reserve System is properly
+a federal offense).  A divided Ninth Circuit panel had reversed
+the conviction because there was no evidence “that the attempted
+extortion of the bank assets related, in any way, to
+‘racketeering.’” United States v. Culbert, 548 F.2d 1355, 1357
+(9th Cir. 1977).  The Ninth Circuit reasoned that the Hobbs Act
+25
+went on to state that it did not have to decide the “more difficult
+question” of whether an adequate interstate commerce nexus would
+have been shown by the evidence that the steel mill would produce
+steel to be shipped in interstate commerce.  Id. at 272.  Later, in
+United States v. Culbert, 98 S.Ct. 1112 (1978), the court stated
+that the “in any way or degree . . . affected commerce . . . by
+robbery or extortion” words of the Hobbs Act “do not lend
+themselves to restrictive interpretation,” and proceeded to quote
+Stirone’s statement that they manifest “‘a purpose to use all the
+constitutional power Congress has to punish interference with
+interstate commerce by extortion, robbery or physical violence.’”
+Culbert at 1113.22
+
+carried forward the 1934 Act’s antiracketeering purpose and that
+“[g]iven the applicable de minimus burden on interstate commerce
+rule . . . a contrary interpretation of the Act would justify
+usurpation of virtually the entire criminal jurisdiction of the
+states.”  Id. (the Ninth Circuit also relied on the similar
+conclusions of the Sixth Circuit in United States v. Yokely, 542
+F.2d 300 (6th Cir. 1976)).  The Supreme Court reversed the Ninth
+Circuit, holding that “racketeering” was not an element of an
+offense under the Hobbs Act, relying on several grounds:  first,
+“[n]othing on the face of the statute suggests a congressional
+intent to limit its coverage to . . . ‘racketeering’” and the
+relevant statutory words “do not lend themselves to restrictive
+interpretation,” id. at 1113; second, the statute carefully
+defines terms, but makes no “reference to racketeering–much less
+any definition of the word,” id. at 1114; third, making
+racketeering an element” might create serious constitutional
+problems, in view of the absence of any definition of
+racketeering in the statute,” id.; fourth, the legislative
+history of the 1934 Act reflects that “Congress simply did not
+intend to make racketeering a separate, unstated element of an
+Anti-Racketeering Act violation,” id. at 1115; fifth, the Hobbs
+Act’s purpose was simply to correct the “perceived deficiency” in
+the 1934 Act (reflected by the Local 807 case) and “that
+deficiency had nothing to do with the element of racketeering,”
+id.; sixth, the rule of lenity did not apply, as it only applies
+“‘when we are uncertain about the statute’s meaning,’” id. at
+1116; and seventh, Congress was well aware that state laws
+prohibited robbery and extortion.  Id. at 1117.  In the latter
+connection, we observe that the legislative history clearly
+indicates that the statements made regarding state law
+prohibition of robbery and extortion were directed at answering
+the criticism that the proposed Hobbs Act was anti labor and
+infringed the rights of labor (which was the major issue
+respecting the Act), the answer being that the proposed statute
+did not prohibit anything not already unlawful; the statements in
+no way related to the nature of the required interstate commerce
+nexus.
+26
+In Jones v. United States, 120 S.Ct. 1904 (2000), the Court
+construed the federal arson statute, 18 U.S.C. § 844(i), as not
+extending to arson of a home insured by an out-of-state insurer,
+financed by an out-of-state lender, and furnished with gas from
+out-of-state, relying in part on the principle of avoiding a
+statutory 
+construction 
+under 
+which 
+“‘grave 
+and 
+doubtful
+constitutional questions arise,’” and stating “[g]iven the concerns
+
+27
+brought to the fore by Lopez, it is appropriate to avoid the
+constitutional question that would arise were we to read § 844(i)
+to render the ‘traditionally local criminal conduct’ in which
+petitioner Jones engaged ‘a matter for federal enforcement.’” Jones
+at 1911, 1912.  Accordingly, in Jones, the court read the words
+“used in” in section 844(i) as modifying “any activity affecting
+interstate . . . commerce,” so that “an owner-occupied residence
+not used for any commercial purpose does not qualify as property
+‘used in’ commerce or commerce-affecting activity” within the
+meaning of section 844(i).  Id. at 1908, 1910-11.  However, the
+Hobbs Act contains no comparable special language upon which an
+analogous limiting construction can be focused.  It does not at all
+differentiate between robberies which “in any way or degree
+obstruct[], delay[], or affect[] commerce or the movement of any
+article or commodity in commerce.”  Thus, driven by the above noted
+language in Stirone and Culbert, we conclude that to determine
+whether the Hobbs Act applies to these offenses we must examine the
+limits of the commerce power as articulated by the Supreme Court in
+Lopez and Morrison.
+II.  Lopez and Morrison applied to this Hobbs Act prosecution
+A.  Overview; Commerce Power Categories
+In Lopez the Court “identified three broad categories of
+activity that Congress may regulate under its commerce power,”
+namely:
+“First, Congress may regulate the use of the channels of
+interstate commerce” (citing, inter alia, United States v. Darby,
+61 S.Ct. 451 at 457 (1941), sustaining statute prohibiting shipment
+
+28
+in interstate commerce of goods produced for interstate commerce by
+employees whose wages and hours do not conform to the requirements
+of the Fair Labor Standards Act; statute not invalid even if its
+motive was to regulate local wages not otherwise subject to
+commerce power).
+“Second, Congress is empowered to regulate and protect the
+instrumentalities of interstate commerce, or persons or things in
+interstate commerce, even though the threat may come only from
+intrastate activities” (listing as examples “‘destruction of an
+aircraft,’” “‘thefts from interstate shipments,’” and Southern R.
+Co. v. United States, 32 S.Ct. 2 (1914), upholding Safety Appliance
+Act equipment requirements as applied to cars of interstate carrier
+moving on interstate railroad line even though particular cars were
+carrying only intrastate traffic).  
+Third, “Congress’ commerce authority includes the power to
+regulate those activities having a substantial relation to
+interstate commerce . . . i.e. those activities that substantially
+affect interstate commerce. . . . 
+Within this final category, admittedly, our case law has not
+been clear whether an activity must ‘affect’ or ‘substantially
+affect’ interstate commerce in order to be within Congress’ power
+to regulate it under the Commerce Clause. . . . We conclude,
+consistent with the great weight of our case law, that the proper
+test requires an analysis of whether the regulated activity
+‘substantially affects’ interstate commerce.”  United States v.
+Lopez, 115 S.Ct. 1624, 1629-30 (1995).  
+Lopez held unconstitutional, as beyond Congress’s power under
+
+23Morrison also held § 13981 beyond Congress’s power under §
+5 of the Fourteenth Amendment.  Id. at 1755 et seq.
+29
+the Commerce Clause, the Gun-Free School Zones Act of 1990, 18
+U.S.C. § 922(q) (1988 ed., Supp. V).  It “quickly disposed of” the
+first and second categories of congressional commerce power, noting
+that section 922(q) clearly fell within neither and that “if §
+922(q) is to be sustained, it must be under the third category as
+a regulation of an activity that substantially affects interstate
+commerce.”  Id. at 1630.  It then went on to hold that the statute
+likewise could not be sustained under the third category, rejecting
+the Government’s argument that “possession of a firearm in a local
+school zone does indeed substantially affect interstate commerce.”
+Id. at 1632.
+Some five years later in Morrison the Court reconfirmed
+Lopez’s Commerce Clause analysis and holding as well as its
+articulation and description of the “‘three broad categories of
+activity that Congress may regulate under its commerce power.’”
+Morrison at 1749.  Morrison held unconstitutional, as beyond
+Congress’s power under the Commerce Clause, 42 U.S.C. § 13981, the
+civil action portion of the Violence Against Women Act of 1994.23
+Morrison observes that “[p]etitioners do not contend that these
+cases fall within either of the first two categories of Commerce
+Clause regulation.  They seek to sustain § 13981 as a regulation of
+activity that substantially affects interstate commerce. . . . [w]e
+agree that this is the proper inquiry.”  Id. at 1749.  The Court
+held that section 13981 did not meet the requirements of the third
+Lopez category, stating “petitioners’ reasoning would allow
+
+24Unlike the situation in Lopez, Congress in enacting §
+13981 specifically invoked its powers under section 8 of Article
+I of the Constitution, Morrison at 1748, and made numerous
+findings regarding the adverse impact of gender motivated
+violence on interstate commerce.  Id. at 1752.  
+30
+Congress to regulate any crime so long as the nationwide,
+aggregated impact of that crime has substantial effects on
+employment, production, transit, or consumption,” Morrison at 1752-
+53, contrary to the constitutionally required “distinction between
+what is truly national and what is truly local.”  Id. at 1754.24
+B.  Lopez category one.
+This category–“use of the channels of interstate commerce”–is
+clearly inapplicable to the present offenses, and the Government
+does not contend otherwise.
+C.  Lopez category two.
+The Government contends that these offenses fall within Lopez
+category two because, according to the Government, the victim
+stores were engaged in interstate commerce, relying on United
+States v. Robertson, 115 S.Ct. 1732 (1995), and that therefore no
+“substantial” effect on interstate commerce had to be shown.
+For several reasons, we reject the Government’s contention
+that these are Lopez category two offenses.  To begin with, simply
+because a business is engaged to any extent in interstate commerce
+does not alone suffice to bring regulation of any and all conduct
+involving it within category two.  That category applies to
+“instrumentalities of interstate commerce,” such as “an aircraft”
+or a railroad line, and to “persons or things in interstate
+commerce,” such as “thefts from interstate shipments.”  Plainly, a
+
+25We respectfully disagree with the apparently contrary
+conclusions of the divided panel in United States v. Harrington,
+108 F.3d 1460, 1466, 1469-70 (D.C. Cir. 1997), and the seemingly
+similar suggestion in United States v. Farmer, 73 F.3d 836 at 843
+(8th Cir. 1966).  
+26So far as concerns application of the Hobbs Act to violent
+interference with shipments actually moving or about to move in
+interstate commerce (reflected in its “or the movement of any
+article or commodity in commerce” prong, comparable to the 1934
+Act’s “or any article or commodity moving or about to move in
+trade or commerce” language)–which was plainly at least the Hobbs
+Act’s primary purpose–Lopez category two would doubtless be the
+appropriate category.  Obviously, that is not the case here.  
+31
+local retail store is not analogous to any of those.25  The
+Government’s argument would vastly expand Lopez’s category two,
+extending federal jurisdiction on a per se, categorical basis to a
+broad range of matters such as shoplifting of a candy bar from any
+business engaged in interstate commerce or children scuffling in
+any such business’s parking lot, and would also blur the
+distinction between categories two and three.  Moreover, we note
+the Seventh Circuit’s observation, rejecting the Government’s
+attempts to fit a Hobbs Act prosecution into Lopez category two,
+that “[t]he Hobbs Act, however, falls within Lopez category three,”
+at least where the conviction is sought to be sustained simply on
+the theory that the victim was engaged in interstate commerce.  See
+United States v. Peterson, 236 F.3d 848, 856 (7th Cir. 2001).26
+Nor do we agree that the Government’s argument is supported by
+Robertson.  There the defendant was convicted of “various narcotics
+offenses” and of violating 18 U.S.C. § 1962(a) (RICO) “by investing
+the proceeds of those unlawful activities in the ‘acquisition of
+any interest in, or the establishment or operation of, any
+enterprise which is engaged in, or the activities of which affect,
+
+32
+interstate or foreign commerce.’” Id. at 1732.  The Ninth Circuit,
+in a pre-Lopez decision, affirmed the narcotics convictions but
+reversed the RICO conviction, holding that the RICO enterprise–an
+Alaskan gold mine–was not shown to have “had more than an
+incidental effect on interstate commerce” and hence did not meet
+section 1962(a)’s “the activities of which affect, interstate . .
+. commerce” requirement (without addressing the “engaged in . . .
+interstate commerce” prong of section 1962(a)).  United States v.
+Robertson, 15 F.3d 862, 868 (9th Cir. 1994).  The Ninth Circuit did
+not even mention, let alone discuss, the Commerce Clause or the
+limits of Congress’s power thereunder.  The Supreme Court, shortly
+after Lopez, reversed the Ninth Circuit’s reversal of the RICO
+count, holding there was sufficient evidence that the gold mine was
+“engaged in . . . interstate . . . commerce” for purposes of
+section 1962(a).  Robertson, 115 S.Ct. at 1733.  It stated in this
+connection:
+“. . . Robertson, who resided in Arizona, made a cash
+payment of $125,000 for placer gold mining claims near
+Fairbanks.  He paid approximately $100,000 (in cash) for
+mining equipment and supplies, some of which were
+purchased in Los Angeles and transported to Alaska for
+use in the mine.  Robertson also hired and paid the
+expenses for seven out-of-state employees to travel to
+Alaska to work in the mine. . . . He again hired a number
+of employees from outside Alaska to work in the mine.
+. . .
+Furthermore, Robertson, the mine’s sole proprietor, took
+$30,000 worth of gold, or 15% of the mine’s total output,
+with him out of the State.
+Whether or not these activities met (and whether or not,
+to bring the gold mine within the ‘affecting commerce’
+provision of RICO, they would have to meet) the
+requirement 
+of 
+substantially 
+affecting 
+interstate
+commerce, they assuredly brought the gold mine within §
+
+27Moreover, it is not clearly apparent that Congress’s power
+to criminalize an offender’s use of the proceeds of his federal
+narcotics offenses to invest in, establish or operate an
+enterprise is necessarily dependent on the enterprise being
+otherwise subject to Congress’ power under the Commerce Clause. 
+See, e.g., United States v. Owens, 996 F.2d 59, 61 (5th Cir.
+1993).  
+33
+1962(a)’s alternative criterion of ‘any enterprise . . .
+engaged in . . . interstate or foreign commerce.’” Id.
+Robertson is a statutory construction case and does not purport to
+make any constitutional holding or to address (or recognize as
+being potentially before it) any constitutional issue, and it does
+not mention Lopez or discuss its three categories of Commerce
+Clause power.27
+Finally, and in any event, we reject the underlying premise of
+the Government’s argument in this connection, namely that the
+victim stores here were “engaged in” interstate commerce as the
+Robertson Court understood and intended that phrase.  Robertson’s
+principal illustrations of what is, and what is not, “engaged in
+[interstate] commerce” are as follows:
+“the Government proved that some . . . [equipment and
+supplies] were purchased in California and transported to
+Alaska for use in the mine’s operations.  Cf. United
+States v. American Building Maintenance Industries, 422
+U.S. 271, 285, 95 S.Ct. 2150, 2159, 45 L.Ed.2d 177 (1975)
+(allegation that company had made local purchases of
+equipment and supplies that were merely manufactured out
+of state was insufficient to show that company was
+“engaged in commerce” within the meaning of § 7 of the
+Clayton Act).
+. . .
+As we said in American Building Maintenance, a
+corporation is generally ‘engaged “in commerce”’ when it
+is 
+itself 
+‘directly 
+engaged 
+in 
+the 
+production,
+distribution, or acquisition of goods and services in
+interstate commerce.’  Id., at 283, 95 S.Ct., at 2158.”
+
+28It is true that Quickway Shopping (one of which stores was
+robbed of $50) sold some money orders which it purchased from a
+company in Minnesota.  But given that there is no evidence that
+amount of these was other than insignificant–either absolutely or
+as fraction of the store’s total sales–we hold that this does not
+34
+In American Building Maintenance the Court held summary judgment
+was properly granted that the Benton janitorial service companies,
+located in California, were not “engaged in [interstate] commerce,”
+for purposes of section 7 of the Clayton Act, stating:
+“[T]he Benton companies performed a substantial portion
+[80% to 90%] of their janitorial services for enterprises
+which were themselves clearly engaged in selling products
+in interstate and international markets and in providing
+interstate 
+communication 
+facilities. 
+ 
+But 
+simply
+supplying localized services [in California] to a
+corporation engaged in interstate commerce does not
+satisfy the “in commerce” requirement of § 7.
+To be engaged “in commerce” within the meaning of § 7, a
+corporation must itself be directly engaged in the
+production, distribution, or acquisition of goods or
+services in interstate commerce.
+. . .
+Similarly, although the Benton companies used janitorial
+equipment and supplies manufactured in large part outside
+of California, they did not purchase them directly from
+suppliers located in other States. [citation] Rather,
+those products were purchased in intrastate transactions
+from local distributors. . . . By the time the Benton
+companies purchased their janitorial supplies, the flow
+of commerce had ceased.  See Schechter Corp. v. United
+States, 295 U.S., at 542-543, 55 S.Ct. at 848.”  Id.,
+2158-59 (emphasis added; footnote omitted).
+Here there is no evidence that any of these local retail stores
+made any sales other than at the store premises in Fort Worth or
+any sales to any person or entity engaged in interstate commerce,
+or had any operations, facilities or employees outside of Fort
+Worth; nor is there any evidence that any of them acquired any of
+their merchandise inventory other than from in-state wholesalers.28
+
+constitute Quickway Shopping as being engaged in interstate
+commerce, certainly not for purposes of bringing the robbery of
+it within Lopez category two.  Cf. American Building Maintenance
+at 2153 and notes 3 and 4 (referring to “negligible” use of
+interstate facilities and “insignificant” interstate purchases).  
+35
+If the Benton companies were not “engaged in” interstate commerce,
+it necessarily follows, a fortiori, that these local retailers were
+not.
+D.  Lopez category three.
+We accordingly conclude that the issue of whether the Hobbs
+Act is properly applied to these robberies turns on whether such
+application meets the test of Lopez category three, as to which
+“the proper test requires an analysis of whether the regulated
+activity ‘substantially affects’ interstate commerce.”  Id. at
+1630.
+The evidence does not reflect any particular, concrete effect
+on interstate commerce that in fact actually resulted from any of
+the four robberies.  But the evidence does support the conclusions
+that the victim stores each regularly used their funds to, among
+other things, purchase from local wholesalers inventory which
+included (but was not shown to be limited to) items manufactured
+out-of-state, and that the robberies reduced, by the amounts taken
+($50, $100, $145, $1,500-2,000), the funds the stores would, but
+for the robbery, otherwise thereafter have had available for use in
+(or withdrawal from) their respective businesses, including (but
+not limited to) use for inventory purchasing.  The evidence also
+shows that any reduction in a retailer’s purchases from its
+wholesaler would reduce the funds the wholesaler would otherwise
+
+36
+thereafter have had available for use in (or withdrawal from) its
+business, including (but not limited to) use for purchase of out-
+of-state merchandise. Cf. United States v. Atcheson, 94 F.3d 1237,
+1243 (9th Cir. 1996) (“To establish a de minimis effect on
+interstate commerce, the Government need not show that a
+defendant’s acts actually affected interstate commerce . . .
+Rather, the jurisdictional requirement is satisfied ‘by proof of a
+probable or potential impact’”).  Assuming that all this suffices
+to show that each individual robbery did probably or potentially
+have some minimal, attenuated and indirect affect on interstate
+commerce, it is clear that none individually had what could fairly
+be  described as a “substantial” affect (actual, probable or
+potential).  
+The Government in this connection relies on the “aggregation”
+principle under which in determining whether the affect on
+interstate commerce is “substantial” the focus is not upon any one
+individual instance of the activity covered by the regulation but
+is rather upon whether the aggregate of all covered instances as a
+whole substantially affects interstate commerce.  The validity of
+that general principle has long been clearly established, and is
+recognized in both Lopez and Morrison.  At the same time, however,
+each of those decisions holds that the principle is not of
+universal or unlimited application, and refused to apply it to
+sustain the statutes there under consideration.  Thus, in Morrison
+the Court recognized that the aggregate of instances of gender-
+motive violence within the scope of section 13981 did ultimately
+have a large effect on interstate commerce, id. at 1752, but
+
+29See United States v. Gray, 260 F.3d 1267, 1274 (11th Cir.
+2001); United States v. Malone, 222 F.3d 1286, 1295 (10th Cir.
+2000).  See also United States v. Harrington, 108 F.3d 1460, 1465
+(D.C. Cir. 1997).  
+37
+nevertheless held that the aggregation principle could not be
+applied, stating:
+“We accordingly reject the argument that Congress may
+regulate non-economic, violent criminal conduct based
+solely on that conduct’s aggregate effect on interstate
+commerce.  The Constitution requires a distinction
+between what is truly national and what is truly local.
+. . . The regulation and punishment of intrastate
+violence that is not directed at the instrumentalities,
+channels, or goods involved in interstate commerce has
+always been the province of the States.”  Id. at 1754.
+The central question in this case, then, is whether this Hobbs
+Act prosecution can be sustained under the aggregation theory.  We
+now turn to that question.
+E.  Hobbs Act jurisdictional element.
+Because the Hobbs Act has an interstate commerce related
+jurisdictional element and the statutes at issue in Lopez and
+Morrison contained no comparable provision, as the Supreme Court’s
+opinions in those cases emphasized, some of our sister circuits
+have relied on this distinction (among other considerations) in
+holding that Lopez and Morrison are either largely inapplicable to
+Hobbs Act cases, or do not require that a substantial effect on
+interstate commerce be shown in Hobbs Act prosecutions falling
+under Lopez category three.29  We respectfully disagree.  Such an
+approach would in effect either create a fourth category of
+commerce clause power, contrary to the plainly comprehensive three
+category approach taken in Lopez and Morrison, or would do away
+with the “substantially affect” requirement which those opinions so
+
+30The Wilson court stated: “In discussing the lack of a
+jurisdictional element in Lopez, the court simply did not state
+or imply that all criminal statutes must have such an element, or
+that all statutes with such an element would be constitutional,
+or that any statute without such an element is per se
+unconstitutional.”  Id. (emphasis added).  We quoted that
+sentence from Wilson with approval in United States v. Bird, 124
+F.3d 667, 675 (5th Cir. 1997).
+Moreover, several decisions have indicated that Lopez and/or
+Morrison preclude most Hobbs Act prosecutions for robberies of
+individuals.  See United States v. Lynch, 282 F.3d 1049, 1052-55
+(9th Cir. 2002); United States v. Wang, 222 F.3d 243, 239-40 (6th
+Cir. 2000); United States v. Collins, 40 F.3d 95, 100-101 (5th
+Cir. 1994) (applying this Court’s decision in Lopez, 2 F.3d 1342
+(5th Cir. 1993), later affirmed by the Supreme Court).  See also
+United States v. Quigley, 53 F.3d 908, 910 (8th Cir. 1995)
+(relying on Collins).  Obviously, these decisions proceed on the
+assumption that Lopez and/or Morrison speak to Hobbs Act
+prosecutions in Lopez category three cases notwithstanding the
+presence of a jurisdictional element in the Hobbs Act and the
+absence of such an element in the statutes involved in Lopez and
+Morrison.  
+38
+clearly state is constitutionally mandated in category three cases.
+Congress lacks the power to provide for a lesser relation to
+interstate commerce in that category of case simply by including a
+jurisdictional provision.  Otherwise the principles enunciated in
+Lopez and Morrison would be essentially meaningless.  We agree with
+the Seventh Circuit’s observations in this respect in United States
+v. Wilson, 73 F.3d 675, 685 (7th Cir. 1995).30  
+This is not to say that the Hobbs Act jurisdictional element
+serves no function.  It allows a determination in each case, based
+on its particular facts and characteristics, whether in that case
+application of the statute is consistent with Congress’s Commerce
+Clause power.  Because of that jurisdictional element the statute
+is not properly subject to being facially invalidated, which was
+essentially the result in Lopez and Morrison where the statutes
+involved lacked any jurisdictional element.  
+
+31Where only Lopez categories one or two are involved, a
+showing of “substantially affects” is not required, and so
+whether aggregation is available is generally irrelevant.  
+39
+F.  Regulation of commercial or economic activity.
+Some of our sister circuits have held that the refusal of
+Lopez and Morrison to apply the aggregation principle to sustain
+the statutes there under consideration is wholly inapplicable to
+the Hobbs Act because those statutes proscribed offenses which were
+not commercial or economic while robbery (or extortion, but we here
+deal only with robbery), which the Hobbs Act proscribes, is a
+commercial or economic activity as it always involves taking
+“personal property” from another person. § 1951(b)(1).  See United
+States v. Gray, 260 F.3d 1267, 1274 (11th Cir. 2001) (“Unlike the
+statute at issue in Morrison, the Hobbs Act plainly and undeniably
+regulates economic activity”); United States v. Malone, 222 F.3d
+1286, 1295 (10th Cir. 2000) (“Unlike the statutes at issue in
+Morrison and Lopez, the Hobbs Act regulates economic activity”).
+But see United States v. Peterson, 236 F.3d 848, 852 (7th Cir.
+2001) (“. . . the Hobbs Act does not suggest that robbery is an
+economic activity”).
+We respectfully take a somewhat different view of the matter.
+The approach of these cases seems to be that whenever the
+regulated activity is “economic,” then, for purposes of Lopez
+category three cases, there are never any limits whatever to use of
+the aggregation theory and it may always be employed to satisfy
+(and as practical matter will always satisfy) the “substantially”
+affects requirement of Lopez category three.31  While this would
+
+32If “the regulated activity” is not “commercial” (or the
+regulation does not govern the conduct of a wholly or partially
+commercial enterprise or endeavor), that means merely that, in
+Lopez category three cases where there must be a “substantially
+affects” showing, then, whether or not aggregation is available
+depends on the considerations elaborated on in G below and in
+Judge Higginbotham’s Hickman dissent.  We need not and do not
+address whether such considerations (or similar ones) govern or
+limit the availability of aggregation for such purpose where the
+regulated intrastate activity is “commercial” (or the regulation
+does govern the conduct of a wholly or partially commercial
+enterprise or endeavor).
+40
+seem, at least as a practical matter, to limit Lopez category three
+to cases where the regulated activity was non-economic and to
+obliterate any distinction in “economic” cases between the Lopez
+categories, we need not and do not reach that issue.
+Assuming, arguendo, that there is a class of category three
+cases as to which there are no restraints whatever on aggregation,
+we conclude that such a class would exclude instances where “the
+regulated activity” is not properly described as “commercial” or
+“economic” in the same general sense as “commercial.”32
+Lopez and Morrison each refer to both “commercial” and
+“economic” activities and appear to use the terms synonymously.
+Thus Lopez states that section 922(q) does not “regulate[] a
+commercial activity” id. at 1626 (quoted in Morrison id. 1750), and
+that
+“Section 922(q) is not an essential part of a larger
+regulation of economic activity, in which the regulatory
+scheme could be undercut unless the intrastate activity
+were regulated.  It cannot, therefore, be sustained under
+our cases upholding regulations of activities that arise
+out of or are connected with a commercial transaction,
+which viewed in the aggregate, substantially affects
+interstate commerce,” id. at 1631 (emphasis added), 
+and that
+
+41
+“We do not doubt that Congress has authority under the
+Commerce 
+Clause 
+to 
+regulate 
+numerous 
+commercial
+activities that substantially affect interstate commerce
+and also affect the educational process. . . . 
+Admittedly, a determination whether an intrastate
+activity is commercial or noncommercial may in some cases
+result in legal uncertainty.”  Id. at 1633 (emphasis
+added).
+The last sentence above quoted is likewise quoted in Morrison.  Id.
+at 1750.  Justice Kennedy, in his concurring opinion in Lopez
+(joined in by Justice O’Connor and joining in Chief Justice
+Rehnquist’s opinion for the Court) states:
+“Were the Federal Government to take over the regulation
+of entire areas of traditional state concern, areas
+having nothing to do with the regulation of commercial
+activities, the boundaries between the spheres of federal
+and 
+state 
+authority 
+would 
+blur 
+and 
+political
+responsibility would become illusory.”  Id. at 1638
+(emphasis added).
+The above passage is likewise quoted with approval in Morrison.
+Id. at 1750.  
+And, since what we are concerned with is the power of Congress
+under the Commerce Clause–the power “[t]o regulate Commerce with
+foreign Nations, and among the several States, and with the Indian
+Tribes”–“commercial” rather than simply any broadly understood
+concept of “economic” seems to be the appropriate concept.
+Robbery is the “activity” regulated by the Hobbs Act, and we
+conclude that for these purposes robbery cannot be considered a
+commercial activity.  Robbery does have an economic effect.  But
+so, too, do not only all thefts of any kind from any victim but
+also, for example, virtually all criminal homicides.  Moreover, the
+here relevant portion of the Hobbs Act, apart from simply
+specifying that the accused have committed a “robbery” which “in
+
+33Nor may the victims here be properly so characterized. 
+See part IIC, supra.  
+42
+any way or degree . . . affects commerce” (although not requiring
+any intention to have or foreknowledge of such an effect), says
+nothing whatever about the identity, status or activity (whether as
+being engaged in any sort of commercial activity or otherwise) of
+either the victim or the robber, and does not purport to in any way
+regulate the conduct of any commercial activity.  What is relevant
+in this connection under Lopez and Morrison is not the effects of
+the conduct which the statute proscribes but whether the statute
+may fairly be said to regulate commercial activity.  The here
+relevant portion of the Hobbs Act cannot.
+We recognize that some decisions have taken the view that “the
+Hobbs Act regulates the interference with economic activity by
+robbery,” Peterson at 852, and for that reason alone an aggregation
+analysis is always per se appropriate and all that needs be shown
+is a depletion of assets.  Id. (“what is aggregated is the
+depletion of the interstate entity’s assets by robbery”).  See also
+Gray at 1274 (“Economic activity, or more precisely the infliction
+of economic harm, is at the heart of the Hobbs Act’s prohibition on
+robbery”).  However, as noted, the here relevant portion of the
+Hobbs Act says nothing about the victim being an “interstate
+entity.”33  And, we are aware of no Commerce Clause case in which
+the Supreme Court has applied the aggregation principle to a class
+of activities where contours of the class are not reasonably
+inferable from the language of the challenged statute or
+regulation.  Moreover, the approach of allowing aggregation simply
+
+34And, the here relevant portion of the Hobbs Act,
+denouncing any “robbery” which “in any way or degree . . .
+affects commerce” is in no way limited to robberies “directed at
+the instrumentalities, channels, or goods involved in interstate
+commerce.”  
+43
+because of “the infliction of economic harm” (or the “depletion of
+. . . assets”) equally supports making a federal offense of any
+crime (say any criminal homicide or assault producing serious
+bodily injury) so long as it causes economic harm or depletes
+economic resources and hence in some way or degree affects
+interstate commerce–in the same sense as does a fifty dollar
+robbery or a fifty cent shoplifting from a victim (whether an
+individual or a local retailer) who purchases items made in another
+state–and so long as the aggregate effect of all such crimes on
+interstate commerce is substantial.  Yet, Morrison rejects the
+notion that Congress may regulate a crime simply because “the
+nationwide, aggregated impact of that crime has substantial effects
+on employment, production, transit, or consumption.”  Id. at 1752-
+53.  Lopez and Morrison reflect that such a limitation on the
+aggregation principle is necessary because “[t]he Constitution
+requires a distinction between what is truly national and what is
+truly local,” and “[t]he regulation and punishment of intrastate
+violence that is not directed at the instrumentalities, channels,
+or goods involved in interstate commerce has always been the
+province of the States.”  Id. at 1754.  Certainly, none of the
+instant robberies can be characterized as “directed at the
+instrumentalities, channels, or goods involved in interstate
+commerce.”34  Further, the several decisions refusing to find the
+
+35See United States v. Lynch, 282 F.3d 1049, 1054 (9th Cir.
+2002) (“. . . robbery does have an economic component; however,
+that economic component must rise above the simple, though
+forced, economic transaction between two individuals.  Otherwise,
+almost every violent property crime would be transformed into a
+federal offense, contrary to the teachings of Morrison”); United
+States v. Wang, 222 F.3d 234, 239-40 (6th Cir. 2000) (restaurant
+owner robber of $4,200 by former employee; of $4,200 taken $1,200
+had been withdrawn that day from restaurant with intent to
+deposit it in the restaurant bank account the next day;
+restaurant purchased meat from out-of-state suppliers; not
+covered by Hobbs Act, citing Morrison); United States v. Quigley,
+53 F.3d 908, 910 (8th Cir. 1995); United States v. Collins, 40
+F.3d 95, 100-101 (5th Cir. 1994) (robbery of Mercedes-Benz
+automobile, cell phone, cash, jewelry and clothes); United States
+v. Buffey, 899 F.2d 1402 (4th Cir. 1990) ($20,000 extortion);
+United States v. Matson, 671 F.2d 1020 (7th Cir. 1982) ($3,000
+extortion); United States v. Merolla, 523 F.2d 51 (2d Cir. 1975)
+(extortion of contractor by owner).  
+44
+Hobbs Act applicable to most robberies of individuals under
+theories of deletion of assets and aggregation of the effect on
+interstate commerce of all such robberies likewise support our view
+in this respect.35  It has been said that this distinction is
+justified because “in general . . . businesses purchase on a larger
+scale than individuals.”  United States v. Boulahanis, 677 F.2d
+586, 590 (7th Cir. 1982).  However, this justification is not
+persuasive because the here relevant portion of the Hobbs Act makes
+no distinction between the robberies it proscribes on the basis of
+whether the victim is a business (or is engaged in a commercial
+activity), and because virtually every consumer regularly expends
+considerable funds on the purchase of items originating out-of-
+state and there are many more consumers than businesses.  Indeed,
+consumer spending is generally estimated to amount to two-thirds of
+the national economy.  See also United States v. Thomas, 159 F.3d
+296, 298 (7th Cir. 1998) (“since the aggregate effect of such
+
+45
+robberies [of individuals] on commerce is non-trivial, those cases
+are in tension with the ones . . . which insist on aggregation”).
+Moreover, as previously noted, we are aware of no Supreme Court
+Commerce Clause decision applying the aggregation principle to a
+class of activities the contours of which are not reasonably
+inferable from the language of the challenged statute or
+regulation.  Thus, the aggregation principle if applied to Hobbs
+Act prosecutions, would apply all robberies (of any personal
+property, from any victim, by any robber) which “in any way or
+degree . . . affect[s] commerce.”  
+We turn now to the appropriate standards to determine whether
+in such a case the applicable Lopez category three “substantially
+affects” requirement can be met by aggregating the effects of all
+such robberies.  
+G.  Aggregation and the Hobbs Act
+As previously observed, the aggregation principle has
+relevance only in Lopez category three cases, cases that are
+concerned only with regulation of intrastate conduct.  As to such
+regulation, Lopez’s explicit requirement that the regulated
+intrastate conduct not merely affect interstate commerce but that
+it do so “substantially” is obviously designed to insure that
+congressional power under the Commerce Clause is not wholly without
+meaningful limits and does not obliterate the “distinction between
+what is truly national and what is truly local,” id. at 1634, so as
+to transform to a unitary system of government the constitutionally
+established federal system under which, among other things, there
+is “no better example of the police power, which the Founders
+
+36Robinson involved one conspiracy and three substantive
+counts involving retail store robberies.  The victim “stores
+46
+denied the National Government and reposed in the States, than the
+suppression of violent crime and vindication of its victims.”
+Morrison at 1754.  Yet if there are essentially no limits on use of
+the 
+aggregation 
+principle 
+to 
+satisfy 
+the 
+“substantially”
+requirement, then that requirement becomes virtually meaningless
+and wholly incapable of performing the function it is designed to
+serve, for the greater the breadth and generality of the regulatory
+net which Congress casts over intrastate conduct the more
+“substantial” will be the aggregated affect on interstate commerce
+of the total of all the intrastate conduct so regulated.  Moreover,
+if the aggregation principle is applicable “the courts have no
+power ‘to excise, as trivial, individual instances’ of the class”
+being aggregated.  Perez v. United States, 91 S.Ct. 1357, 1361
+(1971) (quoting Maryland v. Wirtz, 88 S.Ct. 2017, 2022 (1968)).
+Although the Supreme Court has on several occasions sustained
+federal statutes on the aggregation theory, it has never applied or
+even referred to it in a Hobbs Act case (nor is anything in the
+Hobbs Act legislative history supportive of such an approach).  Nor
+since Lopez and Morrison has the Court made any general analysis or
+explanation of the contours of the doctrine.
+In United States v. Robinson, 119 F.3d 1205 (5th Cir. 1997),
+we rejected an as-applied challenge to a Hobbs Act conviction which
+urged that under Lopez the evidence was insufficient because it
+showed only that the charged robberies had some, but not a
+substantial, effect on interstate commerce.36  We rejected that
+
+provided check-cashing services . . . the stores cashed out-of-
+state checks, payroll checks, and government benefit checks . . .
+several of the stores sold products that had been shipped to
+Texas from other states.  The victims . . . suffered substantial
+losses as a result of the robberies: one store was forced to
+close permanently for lack of capital, and the others were unable
+to cash checks for a finite period of time.”  Id. at 1208. 
+“[T]hese robberies caused business losses of approximately $5,000
+each” to two different victims and “$60,000" to a third.  Id. at
+1209.  
+37The panel opinion states:
+“A review of Supreme Court authority raises serious
+questions regarding whether aggregation principles can
+be used as the commerce clause jurisdictional hook
+under the Hobbs Act when the underlying crimes arise
+from a purely local crime spree. . . . These local
+robberies are not the sort of economic activity that
+can legitimately be viewed in the aggregate for
+traditional economic impact analysis purposes.  The
+conceptual difference between the consumption of home-
+grown wheat that might otherwise have been sold on the
+47
+contention, relying on the “aggregation principle” as reflected by
+cases such as Wickard v. Filburn, 63 S.Ct. 82 (1942), Katzenbach v.
+McClung, 85 S.Ct. 377 (1964) and Heart of Atlanta Motel v. United
+States, 85 S.Ct. 348 (1964), held that “Lopez did not undermine
+ this principle” and relied in that connection on the Tenth
+Circuit’s decision in United States v. Bolton, 68 F.3d 396 (1995).
+Robinson, 1214-15.
+Subsequently, in United States v. Hickman, 151 F.3d 449 (5th
+Cir. 1998) (panel opinion), 179 F.3d 230 (5th Cir. 1999) (en banc),
+we again addressed the requisite interstate commerce connection
+respecting Hobbs Act convictions for several robberies of retail
+establishments.  The Hickman panel affirmed the convictions,
+considering itself bound by Robinson, but expressed “serious
+questions” as to the propriety of applying the aggregation
+principle in that setting.37  The en banc court noted that “[b]y
+
+open market, see Wickard v. Filburn, 317 U.S. 111, 63
+S.Ct. 82, 87 L.Ed. 122 (1942), or denying service in a
+restaurant to a particular race of interstate
+travelers, see Katzenbach v. McClung, 379 U.S. 294, 85
+S.Ct. 377, 13 L.Ed.2d 290 (1964), and a string of local
+robberies is apparent.  We, however, are bound by
+circuit law.  See United States v. Robinson, 119 F.3d
+at 1208.  Robinson constitutes clear circuit precedent
+for the application of aggregation to this local non-
+economic activity, thereby setting the commerce clause
+jurisdictional hook.”  Id. at 456.
+38We recognize decisions of our sister circuits that
+continue after Morrison to apply an aggregation analysis to Hobbs
+Act prosecutions.  See, e.g., United States v. Elias, 285 F.3d
+183, 188-89 (2d Cir. 2002); United States v. Gray, 260 F.3d 1267,
+1273-74 (11th Cir. 2001); United States v. Peterson, 236 F.3d
+848, 852 (7th Cir. 2001); United States v. Malone, 222 F.3d 1286,
+1294-95 (10th Cir. 2000).  But see United States v. Lynch, 282
+F.3d 1049, 1054 (9th Cir. 2002); United States v. Wang, 222 F.3d
+234, 240 (6th Cir. 2000).  For the reasons stated herein, we
+respectfully view the matter differently.  
+48
+means of an equally divided en banc court, we affirm the counts of
+conviction,” but no opinion for affirmance was issued.  Hickman,
+179 F.3d 230.  Half the judges comprising the en banc court joined
+in a dissenting opinion by Judge Higginbotham urging reversal on
+the basis that, particularly in light of Lopez, the aggregation
+principle was not properly applicable to those Hobbs Act
+prosecutions.  Id.  
+Given the intervening decision in Morrison we revisit that
+issue and now express our essential agreement with the conclusions
+and underlying reasoning of Judge Higginbotham’s Hickman opinion.38
+As stated in that opinion:  
+“We would hold that substantial effects upon interstate
+commerce may not be achieved by aggregating diverse,
+separate individual instances of intrastate activity
+where there is no rational basis for finding sufficient
+connections among them.  Of course, Congress may protect,
+enhance, or restrict some particular interstate economic
+market, such as those in wheat, credit, minority travel,
+
+39See, e.g., United States v. Peterson, 236 F.3d 848, 854
+(7th Cir. 2001) (“the Hobbs Act does not require that the
+commerce affected be legal commerce”); United States v. Jones, 30
+F.3d 276, 286 (2d cir. 1994); United States v. Ambrose, 740 F.2d
+505, 512 (7th Cir. 1984) (Hobbs Act properly “read to punish
+extortion that promotes illegal commerce as well as extortion
+that retards legal commerce”).  See also, e.g., United States v.
+Bailey, 227 F.3d 792, 798 (7th Cir. 2000) (“robbery of cocaine
+49
+abortion service, illegal drugs, and the like, and
+Congress may regulate intrastate activity as part of a
+broader scheme.  The Hobbs Act is not a regulation of any
+relevant interstate economic market, nor are there other
+rational connections among nationwide robberies that
+would entitle Congress to make federal crimes of them
+all.
+The Hobbs Act does not target any class of product,
+process, or market, or indeed even commercial victims.
+It facially applies to any robbery, or its attempt, of
+any person or entity. . . . The Hobbs Act offers no
+‘regulatory scheme’ which ‘could be undercut’ if
+individual robberies were not aggregated. . . . Thus,
+putting aside robberies as part of an effort to regulate
+particular interstate markets such as guns, drugs, or
+organized crime syndicates, a local robbery spree can be
+within Congress’s power only if it by itself has a
+substantial effect.”  Id. at 231.
+. . .
+“Where Congress has sought to regulate–protect, enhance,
+or restrict–some particular market such as wheat, credit,
+minority travel, or abortion service, it has pointed the
+way to a rational aggregation test.  It has identified
+those things that affect that market, things which if not
+all subject to the regulation would erode the effort.
+Intrastate production and sales can be aggregated,
+because the prices of goods and services are determined
+in interstate markets.  If, for example, the federal
+government enacts a price control to ensure sufficient
+income for producers, it will be thwarted if consumers
+switch to buying goods in intrastate commerce or produce
+the goods themselves.  Because the instances of economic
+activity are intimately connected and in the aggregate
+substantially affect commerce, Congress can regulate such
+activity.”  Id. at 233.
+We also observe that not only does the Hobbs Act “not target
+any class of product, process or market or even commercial
+victims,” but it has also been held to apply to robbery (or
+extortion) which adversely affects illegal commerce39 as well as to
+
+dealers generally has an effect on commerce” for purposes of
+Hobbs Act).  
+40See, e.g., United States v. Diaz, 248 F.3d 1065, 1084
+(11th Cir. 2001) (under Hobbs Act “the effect on interstate
+commerce is not limited to only adverse effects”); United States
+v. Kaplan, 171 F.3d 1351, 1357 (11th Cir. 1999) (Hobbs Act
+“intended to protect commerce from any and all forms of effect,
+whether they are . . . beneficial or adverse”); United States v.
+Mattson, 671 F.2d 1020, 1024 (7th Cir. 1982) (“Even a beneficial
+effect on interstate commerce, e.g., facilitating the flow of
+building materials across state lines, is within the prohibition
+of the statute”).  
+50
+that which beneficially affects commerce.40
+The analysis in the Hickman en banc dissent fully comports
+with the following crucial passage in Lopez explaining the Court’s
+refusal to sustain 18 U.S.C. § 922(q) under an aggregation theory,
+viz:
+“Section 922(q) is not an essential part of a larger
+regulation of economic activity, in which the regulatory
+scheme could be undercut unless the intrastate activity
+were regulated.  It cannot, therefore, be sustained under
+our cases upholding regulations of activities that arise
+out of or are connected with a commercial transaction,
+which viewed in the aggregate, substantially affects
+interstate commerce.”  Id. at 1631 (emphasis added).
+Where the Supreme Court has applied aggregation to uphold
+federal regulation of intrastate conduct against constitutional
+challenge under the Commerce Clause, there has always been a
+rational basis to find sufficient interrelationship or commonality
+of effect on interstate commerce among the discrete intrastate
+instances regulated and between them and a scheme of regulation
+(protection, enhancement or restriction) of some particular
+interstate market or activity such that the regulation of those
+intrastate activities can rationally be viewed as necessary to the
+effectiveness of or a meaningfully supporting part of the scheme of
+
+41Wheat not threshed was not considered “available for
+marketing” and could without penalty be cut and cured or fed as
+hay or reaped and fed with the head and straw together.  Id. at
+93.  
+51
+regulation of that particular interstate activity or market.
+We now turn to the most frequently cited of these cases.
+Wickard v. Filburn, 63 S.Ct. 82 (1942), involved a farmer who
+“owned and operated a small farm . . . maintaining a herd of dairy
+cattle, selling milk, raising poultry, and selling poultry and
+eggs” and raising “a small acreage of winter wheat.”  Id. at 84.
+He sold part of the wheat, fed part to his poultry and cattle, some
+of which were sold, used some for seeding and some in making flour
+for home consumption.  In the year in question his wheat “available
+for marketing” quota under the Agricultural Adjustment Act of 1938
+as amended was 11.1 acres but he harvested and threshed 23 acres
+and was penalized 49 cents a bushel on the 239 bushels harvested
+and threshed from the 11.9 acres of excess acreage.  Id. at 83, 84,
+86.41  The Court assumed that this excess was consumed on the farm,
+but nevertheless, and despite the comparatively minimal quantity,
+sustained the penalty as against Commerce Clause challenge,
+stating, inter alia, 
+“The effect of consumption of home-grown wheat on
+interstate commerce is due to the fact that it
+constitutes the most variable factor in the disappearance
+of the wheat crop.
+. . .
+One of the primary purposes of the Act in question was to
+increase the market price of wheat and to that end to
+limit the volume thereof that could affect the market.
+It can hardly be denied that a factor of such volume and
+variability 
+as 
+home-consumed 
+wheat would 
+have a
+substantial influence on price and market conditions.
+This may arise because being in marketable condition such
+wheat overhangs the market and if induced by rising
+
+52
+prices tends to flow into the market and check price
+increases.  But if we assume that it is never marketed,
+it supplies a need of the man who grew it which would
+otherwise be reflected by purchases in the open market.
+Home-grown wheat in this sense competes with wheat in
+commerce. . . . Congress may properly have considered
+that wheat consumed on the farm where grown if wholly
+outside the scheme of regulation would have a substantial
+effect in defeating and obstructing its purpose to
+stimulate trade therein at increased prices.
+. . .
+Control of total supply, upon which the whole statutory
+plan is based, depends upon control of individual
+supply.”  Id. at 90-91 (emphasis added).
+We note that Lopez describes Wickard as “perhaps the most far
+reaching example of Commerce Clause authority over intrastate
+commerce.”  Lopez at 1630.  Clearly, however, the factors that
+brought Wickard under the aggregation principle are absent in the
+present character of prosecution.  In Wickard market forces related
+the effect of the individual instances of regulated intrastate
+conduct to each other and to the scheme of regulation of the
+particular interstate market, namely sustaining the price at which
+wheat was sold in interstate commerce; moreover, the diverse
+instances of regulated intrastate conduct in Wickard each had a
+similar effect on the regulatory scheme, that is each had the same
+tendency to affect the interstate price of wheat in the same way.
+Likewise, in United States v. Wrightwood Dairy Co., 62 S.Ct.
+523 (1942), the Court upheld a regulation prescribing the minimum
+price to be paid producers for all milk marketed in the Chicago
+area, approximately forty percent of which came from out-of-state,
+rejecting the contention that the regulations could not under the
+Commerce Clause be applied to a local milk marketer all of whose
+business was entirely intrastate.  The Court explained:
+
+53
+“. . . the marketing of intrastate milk which competes
+with that shipped interstate would tend seriously to
+break down price regulation of the latter.
+. . .
+We conclude that the national power to regulate the price
+of milk moving interstate into the Chicago, Illinois,
+marketing area, extends to such control over intrastate
+transactions there as is necessary and appropriate to
+make the regulation of the interstate commerce effective;
+and that it includes authority to make like regulations
+for the marketing of intrastate milk whose sale and
+competition with the interstate milk affects its price
+structure so as in turn to affect adversely the
+Congressional regulation.”  Id. at 527.
+The decisions in Heart of Atlanta Motel v. United States, 85
+S.Ct. 348 (1964), and Katzenbach v. McClung, 85 S.Ct. 377 (1964),
+sustained under the Commerce Clause the public accommodation
+provisions of Title II of the Civil Rights Act of 1964 applicable
+to hotels and restaurants respectively.  In doing so the Court in
+each case pointed to the overwhelming evidence before Congress in
+its consideration of the legislation that racial discrimination by
+hotels and restaurants impeded minority interstate travel.  In
+Heart of Atlanta the Court noted that the Committee Reports and
+testimony before Congress reflected that:
+“[O]ur people have become increasingly mobile with
+millions of people of all races traveling from State to
+State; that Negroes in particular have been the subject
+of discrimination in transient accommodations, having to
+travel great distances to secure the same; that often
+they have been unable to obtain accommodations and have
+had to call upon friends to put them up overnight, . . .
+and that these conditions had become so acute as to
+require the listing of available lodging for Negroes in
+a special guidebook . . . that this uncertainty [of the
+Negro traveler finding lodging] stemming from racial
+discrimination had the effect of discouraging travel on
+the part of a substantial portion of the Negro community.
+This was the conclusion not only of the Under Secretary
+of Commerce but also of the Administrator of the Federal
+Aviation Agency who wrote the Chairman of the Senate
+Commerce Committee that it was his ‘belief that air
+commerce is adversely affected by the denial to a
+
+42The portion of the above quotation up through the
+reference to “a special guidebook” is quoted in Perez v. United
+States, 91 S.Ct. 1357, 1361 (1971), as explanatory of the
+decision in Heart of Atlanta.  
+43McClung states: 
+“. . . there was an impressive array of testimony that
+discrimination in restaurants had a direct and highly
+restrictive effect upon interstate travel by Negroes. 
+This resulted, it was said, because discriminatory
+practices prevent Negroes from buying prepared food
+served on the premises while on a trip, except in
+isolated and unkempt restaurants and under most
+unsatisfactory and often unpleasant conditions.  This
+obviously discourages travel and obstructs interstate
+commerce for one can hardly travel without eating. 
+Likewise, it was said, that discrimination deterred
+professional, as well as skilled, people from moving
+into areas where such practices occurred and thereby
+caused industry to be reluctant to establish there.” 
+Id. at 381-82 (emphasis added).
+This passage from McClung is likewise quoted in full in
+Perez v. United States, 91 S.Ct. 1357, 1361 (1971), as
+explanatory of the decision in McClung.
+54
+substantial segment of the traveling public of adequate
+and desegregated public accommodations.’ . . . We shall
+not burden this opinion with further details since the
+voluminous testimony presents overwhelming evidence that
+discrimination by hotels and motels impedes interstate
+travel.”  Id. at 355 (emphasis added).42
+The Court went on to hold that interstate travel was interstate
+commerce under the Commerce Clause and that accordingly Congress’s
+commerce power embraced the power to remove the impediment to
+interstate travel posed by race based refusal to serve hotel
+customers.  Id. at 355-360.  McClung similarly placed great
+emphasis on the same consideration, id. at 381-82,43 and goes on to
+hold that the fact that one restaurant’s activities may have but a
+de minimus effect on interstate commerce was not significant,
+relying on Wickard.  McClung at 382.
+
+44Wirtz was overruled on other grounds in National League of
+Cities v. Usery, 96 S.Ct. 2465 (1975), which was in turn
+overruled in Garcia v. San Antonio Metropolitan Transit
+Authority, 105 S.Ct. 1005 (1985).  
+45See also id. n.12 quoting congressional finding that
+substandard labor conditions “in industries engaged in commerce
+or in the production of goods for commerce . . . causes commerce
+and the channels and instrumentalities of commerce to be used to
+spread and perpetuate such labor conditions among the workers of
+the several States.”  
+55
+In Heart of Atlanta and McClung the discrete local activities
+regulated–the race based refusal of diverse hotels and restaurants
+to serve minority customers–each had a similar effect on a
+particular interstate market or activity, namely impeding minority
+interstate travel, an obstruction to interstate commerce which the
+statute was designed to remove. 
+Maryland v. Wirtz, 88 S.Ct. 2017 (1968),44 rejected Commerce
+Clause challenges to the 1961 amendments to the Fair Labor
+Standards Act adopting the “enterprise concept” extending coverage
+to include not only employees personally engaged in interstate
+commerce or in the production of goods for interstate commerce, but
+also all those employed by “an enterprise” engaged in interstate
+commerce or in the production of goods for interstate commerce.
+The Court noted that in the original act Congress had found that
+“substandard wages and excessive hours, when imposed on employees
+of a company shipping goods into other States, gave the exporting
+company an advantage over companies in the importing States” and
+that this had the “undesirable effect of driving down labor
+conditions in the importing States.”  Id. at 2020.45  The Court went
+on to state:  
+
+56
+“When a company does an interstate business, its
+competition with companies elsewhere is affected by all
+its significant labor costs, not merely by the wages and
+hours of those employees who have physical contact with
+the goods in question.”  Id. at 2021.
+Wirtz also noted that Congress had found that substandard labor
+conditions tended to labor disputes and strikes, “that when such
+strife disrupted businesses involved in interstate commerce, the
+flow of goods in commerce was itself affected,” id. at 2021, and
+that this applied equally to substandard labor conditions of all
+employees of an enterprise engaged in commerce, not merely those
+personally so engaged.  Id. at 2021-22.  Wirtz goes on to state
+that under the Commerce Clause courts could not “excise, as
+trivial, individual instances falling within a rationally defined
+class of activities,” citing Wickard.  Wirtz at 2022.
+The intrastate activities regulated in Wirtz (wages of
+employees of an enterprise engaged in interstate commerce or in the
+production of goods for or acquisition of goods directly in
+interstate commerce even where the employee personally was not so
+engaged) were by market forces interrelated and related to
+interstate commerce and to the regulated interstate market in
+wages.  Moreover, each of those intrastate activities had the same
+character of effect on the statutory scheme of regulation–as each
+proscribed substandard wage tended, by market forces, to lower
+wages generally and to foster industrial discord, contrary to and
+tending to undermine the statutory scheme for maintaining wages of
+employees of enterprises engaged in interstate commerce (or the
+production of goods for or acquisition of goods directly in
+interstate commerce) and avoiding the disruption of interstate
+
+57
+commerce incident to industrial strife resulting from substandard
+wages.
+In Perez v. United States, 91 S.Ct. 1357 (1971), the Court
+sustained Perez’s conviction for making an extortionate extension
+of credit contrary to the provisions of Title II of the Consumer
+Credit Protection Act of 1968, rejecting the contention that the
+statute was unconstitutional as not requiring proof that the
+particular transaction affected interstate commerce.  The Court
+observed that “[p]etitioner is one of the species commonly known as
+‘loan sharks’ which Congress found are in large part under the
+control of ‘organized crime,’” citing congressional findings under
+Title II that “[o]rganized crime is interstate and international in
+character,” that “[a] substantial part of the income of organized
+crime is generated by extortionate credit transactions,” and that
+“[e]xtortionate 
+credit 
+transactions 
+are 
+carried 
+on 
+to 
+a
+considerable extent in interstate and foreign commerce and through
+the means and instrumentalities of such commerce” and “[e]ven where
+. . . purely intrastate in character . . . directly affect
+interstate and foreign commerce.”  Id. 1358 & n.1.  It also noted
+evidence before Congress that loan sharking was “the second largest
+source of revenue for organized crime” and is “controlled by
+organized criminal syndicates,” that “through loan sharking the
+organized underworld has obtained control of legitimate businesses,
+including securities brokerages and banks,” id. at 1362, and
+concluded by stating that “loan sharking in its national setting is
+one way organized interstate crime . . . syphons funds from
+numerous localities to finance its national operations.”  Id. at
+
+46The Court also noted that Perez, among other collection
+threats, had said “my people” could put the victim in the
+hospital if he didn’t pay.  Id. at 1359.  The Second Circuit,
+whose affirmance of the conviction was ultimately affirmed by the
+Supreme Court, noted that the victim borrowed the money to open
+his own butcher shop, having been unable to procure a loan
+through normal banking channels, that the rate of interest
+charged by Perez “was obviously large enough to perpetuate the
+indebtedness forever,” that payments to Perez were made only by
+such methods as the victim’s delaying payments to his meat
+suppliers, and that as a result of all this, including Perez’s
+threats of violence and of “the attention of persons higher in
+the moneylending chain,” the victim “abandoned his business” and
+fled to Puerto Rico “leaving his debts, legitimate and
+illegitimate, behind.”  United States v. Perez, 426 F.2d 1073,
+1074 (2d Cir. 1970).  
+58
+1362-63.  
+The Court likewise noted that “[t]here was ample evidence
+showing petitioner was a ‘loan shark’ who used the threat of
+violence as a method of collection,” id. at 1358, and “[i]n the
+setting of the present case there is a tie-in between local loan
+sharks and interstate crime.”  Id. at 1367.46  
+In upholding the conviction the Perez Court relied on Wickard,
+Wrightwood Dairy Co., Heart of Atlanta, McClung, and Wirtz for the
+principle that the class of activities is the proper measure of the
+required relationship to interstate commerce and that courts would
+not “‘excise, as trivial, individual instances’ of the class.”
+Perez at 1360-61.
+Plainly, Perez dealt with a national market in credit, in
+which individual instances interact with each other by virtue of
+market forces.  More significantly, perhaps, it dealt with a
+statute attempting to regulate a particular interstate activity,
+that of “organized interstate crime,” which was financed by the
+both local and interstate loan sharking which it controlled.  Id.
+
+47As the Second Circuit had observed in its affirmance of
+the conviction:
+“Loan-sharking activities can persuasively be
+characterized as generally in or affecting commerce
+precisely because such practices depend for their full
+effect on monopoly in metropolitan areas and national,
+or at least multi-state, organization.  This provided a
+logical basis for congressional focus on loan-sharking
+rather than on a variety of other crimes which may be
+far more “local” in nature, e.g., robbery, burglary,
+larceny.”  United States v. Perez, 426 F.2d 1073, 1079
+(2d Cir. 1970) (emphasis added).  
+48Much the same thought is expressed in the Second Circuit’s
+opinion affirming Perez’s conviction, viz:
+“What is known as legislative fact for a class of
+transactions–the effect on interstate commerce–is not
+necessarily easily provable in an individual instance
+of loan-sharking.  Trying to trace the flow of funds
+from the immediate enforcer to the organization behind
+the loan might well be impossible in a particular case. 
+Money, of course, is a classic fungible commodity;
+showing its movement interstate may be completely
+impossible where all that moves is cash recorded, if at
+59
+at 1362-63.47  Moreover, Perez also relied on the principle that
+“‘when it is necessary in order to prevent an evil to make the law
+embrace more than the precise thing to be prevented it may do so’”
+(quoting Westfall v. United States, 47 S.Ct. 629 (1927)), and then
+observed “in the present case there is a tie-in between local loan
+sharks and interstate crime.” Id. at 1362.  This would appear to
+invoke the rule that where the same kind of trafficking is carried
+on both interstate and intrastate Congress in preventing the
+interstate 
+trafficking 
+may 
+also 
+proscribe 
+the 
+intrastate
+trafficking where, as a practical matter (for reasons such as the
+fungibility of the particular commodities or the like), it is
+necessary to regulate the intrastate trafficking in order to
+effectively regulate the interstate trafficking.  See, e.g., United
+States v. Lopez, 459 F.2d 949, 951-53 (5th Cir. 1972).48
+
+all, as an intangible on someone’s records or in
+someone’s memory.”  United States v. Perez, 426 F.2d
+1073, 1080-81 (2d Cir. 1970).  
+Similarly, in United States v. Darby, 61 S.Ct. 451, 461 (1941),
+the Court stated:
+“Congress in the exercise of its power to require
+inspection and grading of tobacco shipped in interstate
+commerce may compel such inspection and grading of all
+tobacco sold at local auction rooms from which a
+substantial part but not all of the tobacco sold is
+shipped in interstate commerce.”  
+60
+The present case does not involve the targeting of any
+particular interstate market or activity, and it is evident that
+the proscription of robberies which do not have the requisite
+effect on interstate commerce is in no sense necessary to effective
+regulation of those that do.  
+We finally turn in this connection to Hodel v. Virginia
+Surface Mining & Reclamation Ass’n, 101 S.Ct. 2352 (1981) (Hodel v.
+Virginia) and Hodel v. Indiana, 101 S.Ct. 2376 (1981), in each of
+which the Court rejected Commerce Clause challenges by various coal
+producers to certain provisions of the Surface Mining and
+Reclamation Control Act of 1977.  The challenged provisions
+constituted a complex regulatory scheme governing surface coal
+mining operations, requiring, among other things, land restoration,
+use of dams, spoil disposal and the like.  The Court noted
+congressional findings that surface mining adversely affects
+interstate commerce by, inter alia, destroying the utility of land
+for commercial, industrial, agricultural, forestry and other
+purposes, causing erosion and contributing to flooding, polluting
+water and otherwise.  Hodel v. Virginia at 2361.  The Court
+observed that “coal is a commodity that moves in interstate
+
+49The opinion there states: “. . . the Act reflects the
+congressional goal of protecting mine operators in States
+adhering to high performance and reclamation standards from
+disadvantageous competition with operators in States with less
+rigorous regulatory programs.”  Id. at 2386.
+61
+commerce.  Here Congress rationally determined that regulation of
+surface coal mining is necessary to protect interstate commerce
+from adverse effects that may result from that activity” and that
+“the power conferred by the Commerce Clause [is] broad enough to
+permit congressional regulation of activities causing air or water
+pollution, or other environmental hazards that may have effects in
+more than one state.”  Id. at 2363.  Hodel v. Indiana focused on
+the prime farmland provisions of the Act, holding that “Congress
+had a rational basis for finding that surface coal mining on prime
+farmland affects interstate commerce in agricultural products.”
+Id. at 2384.  Both decisions note that federal standards were
+appropriate to insure that the forces of interstate competition in
+the coal industry would not undermine the maintenance of adequate
+standards.  Thus Hodel v. Virginia states:
+“the Act responds to a congressional finding that
+nationwide ‘surface mining and reclamation standards are
+essential in order to insure that competition in
+interstate commerce among sellers of coal produced in
+different States will not be used to undermine the
+ability of the several States to improve and maintain
+adequate standards on coal mining operations within their
+borders.’ . . . The prevention of this sort of
+destructive interstate competition is a traditional role
+for congressional action under the Commerce Clause.”  Id.
+at 2363.
+Hodel v. Indiana expresses essentially the same thought.49  A
+footnote called for at the conclusion of the portion of the Hodel
+v. Indiana opinion dealing with the Commerce Clause states:
+
+62
+“Appellees contend that a number of the specific
+provisions challenged in this case cannot be shown to be
+related to the congressional goal of preventing adverse
+effects on interstate commerce.  This claim, even if
+correct, is beside the point.  A complex regulatory
+program such as established by the Act can survive a
+Commerce Clause challenge without a showing that every
+single facet of the program is independently and directly
+related to a valid congressional goal.  It is enough that
+the challenged provisions are an integral part of the
+regulatory program and that the regulatory scheme when
+considered as a whole satisfies this test.”  Id. at 2386
+n.17 (emphasis added) (citing Heart of Atlanta Motel and
+McClung).
+Thus the Hodel cases deal with a complex regulatory program of
+a particular industry engaged in interstate commerce designed to
+control a particular set of interstate effects of certain practices
+of that industry.  The regulated instances of intrastate conduct
+are related to each other and to the particular scheme of
+regulation of interstate commerce and effects thereon by the forces
+of the interstate market in the particular regulated industry.  And
+the regulated instances of intrastate conduct also all either have
+the same character of effect on interstate commerce or are an
+integral or essential part of the overall complex regulatory scheme
+governing particular businesses engaged in interstate commerce,
+such that unless the covered intrastate activities were regulated
+the regulatory scheme would be undercut.
+It is also significant that in all the above discussed Supreme
+Court aggregation cases the intrastate conduct being regulated was
+conduct forming a part of the operation of a wholly or partially
+commercial enterprise (whether owned and operated by an individual
+or some legal entity).  The regulations governed aspects of how
+such a commercial (or partially commercial) enterprise must
+
+50Russell states:
+“[T]he local rental of an apartment unit is merely an
+element of a much broader commercial market in rental
+properties.  The congressional power to regulate the
+class of activities that constitute the rental market
+for real estate includes the power to regulate
+individual activity within that class.”  Id. at 2457.  
+51See also the opinion of the Seventh Circuit affirming the
+conviction, United States v. Russell, 738 F.2d 825, 827 (1984),
+stating:
+“The South Union Street apartment building was one of
+four pieces of property that Russell owned and rented
+to tenants.  Russell’s income tax returns from 1976
+through 1982 demonstrated that Russell treated these
+properties as income property for which he claimed
+business deductions for depreciation and expenses. 
+These properties also were covered by business fire
+insurance policies, in contrast to the defendant’s own
+residence which he covered by a homeowner’s policy
+limited to owner-occupied premises.  At the time of the
+incident in question, Russell lived in neither unit of
+63
+operate, what it must or must not do in its operations.  See
+Morrison, 120 S.Ct. at 1750 n.4 (“[I]n every case where we have
+sustained federal regulation under Wickard’s aggregation principle,
+the regulated activity was of an apparent commercial character.”).
+We recognize that language in Russell v. United States, 105
+S.Ct. 2455 (1985), a prosecution under the federal arson statute,
+18 U.S.C. § 844(i), suggests that a broader–indeed virtually
+unlimited–application 
+of 
+the 
+aggregation 
+principle 
+is
+constitutionally permissible.50  But the only issue in Russell was
+one of statutory construction; no constitutional or Commerce Clause
+claim was presented to the Supreme Court.  Russell involved the
+owner of a two unit apartment building which was being rented to
+tenants at the time he attempted to destroy it by fire; he earned
+rental income from it and treated it as business property for tax
+purposes.  Id. at 2456.51  He unsuccessfully contended before the
+
+the South Union Street property.”
+52The Government’s “Brief For The United States” in the
+Supreme Court likewise states “Petitioner concedes that Congress
+has power under the Commerce Clause to prohibit arson of sort he
+attempted.  Relying on United States v. Mennuti, 639 F.2d 107 (2d
+Cir. 1981), petitioner argues that Congress did not intend to
+exercise its commerce power fully in enacting section 844(i), but
+intended to cover ‘business property’ only.”  Id. at 5.  
+Nothing in either the District Court or the Court of Appeals
+opinions in Russell even mentions any constitutional issue, and
+each treats the case as solely one of statutory construction,
+namely whether § 844(i) was inapplicable (as the defendant
+contended, before those courts and the Supreme Court, that it
+was) because the property was residential and hence not business
+property.  Both those courts rejected that contention, holding
+that though residential in one sense the property was used as a
+business by the defendant.  See United States v. Russell, 738
+F.2d at 827.  
+64
+Supreme Court, as he had in the District Court, 563 F. Supp. 1058
+(N.D. Ill. 1983), and in the Court of Appeals, 738 F.2d 825 (7th
+Cir. 1984), “that the building was not commercial or business
+property, and therefore was not capable of being the subject of an
+offense under section 844(i).”  Id. at 2456.  In the Supreme Court
+he presented only an issue of statutory construction and expressly
+disclaimed any constitutional argument, his “Brief For Petitioner”
+there stating:
+“Mennuti [United States v. Mennuti, 639 F.2d 107, 2d Cir.
+1981, the case on which he principally relied] does not
+hold, nor does petitioner contend, that Congress could
+not have drafted a statute encompassing virtually every
+building in the land, had it chosen to do so.  Thus, this
+case does not present a constitutional challenge to
+congressional power under the Commerce Clause.  It is our
+contention that, as held in Mennuti, the statute that
+Congress did pass, 18 U.S.C. § 844(i), as explicated by
+the House Judiciary Committee Report referred to above,
+does not cover a building used as a dwelling by a tenant
+of the owner, even though interstate utilities may have
+been used in the building.”  Id. at 11 (emphasis added;
+footnote omitted).52
+We also note that section 844(i) applies only to property that is
+
+65
+“active[ly] employ[ed] for commercial purposes,” Jones, 120 S.Ct.
+at 1910, while the here relevant prong of the Hobbs Act is in no
+way analogously limited but rather applies regardless of whether or
+not the victim is engaged in any character of commercial activity.
+We conclude that Russell does not resolve the Commerce Clause
+aggregation issue as applied to this character of Hobbs Act
+prosecution.  
+We recognize that “substantial” for purposes of Lopez category
+three has a qualitative as well as a quantitative aspect, though
+those two aspects are somewhat interrelated rather than being
+entirely independent of each other.  Limits on the aggregation
+principle, necessary to give meaning to “substantial” so as to
+preserve the distinction between “what is truly national and what
+is truly local,” should thus take into account both quantitative
+and qualitative considerations.  We conclude that the limits we
+have outlined do so notwithstanding that their most obvious focus
+may be quantitative.  To the extent that there is a meaningful,
+rational basis to aggregate, then the aggregated quantitative
+effect on interstate commerce tends to qualitatively justify
+viewing the matter as truly national rather than truly local.
+Conversely, that the regulated category three intrastate conduct is
+not a commercial activity but is rather essentially “the
+suppression of violent crime” is a qualitative consideration
+pointing towards the regulation being of a truly local nature
+unless there is a meaningful and rational basis for aggregation.
+There is no sufficient rational basis to aggregate the effects on
+interstate commerce of any of the four individual prototypically
+
+66
+local crimes of violence here prosecuted with the effects on
+interstate commerce of all the undifferentiated mass of robberies
+covered by the Hobbs Act’s general proscription of any and all
+robberies that “in any way or degree . . . affect[] commerce.”
+Conclusion
+We turn to Lopez and Morrison for guidance, concluding that
+their relevance is not confined to cases where the statute lacks a
+jurisdictional element.  Moreover, we conclude that the Hobbs Act’s
+here relevant proscription of any robbery that “in any way or
+degree . . . affects commerce” does not constitute a regulation of
+commercial activity, notwithstanding that all robberies have some
+economic effect, and hence is within the scope of Lopez and
+Morrison.  We further conclude that the instant robberies fall
+within Lopez category three, and for that reason they are within
+the Commerce Clause power only if they “substantially” affect
+interstate commerce.  Individually considered, it is clear that
+none of them do.  Nor is there any rational basis to for that
+purpose aggregate their respective effects on interstate commerce
+with the effect on interstate commerce of all the undifferentiated
+mass of robberies covered by the Hobbs Act’s here relevant general
+proscription of any and all robberies which “in any way or degree
+. . . affect[] commerce.”  To allow such aggregation in Lopez
+category three cases would, without adequate justification, bring
+within the scope of the Commerce Clause the proscription of local
+violent (and other) crimes not constituting the regulation of
+commercial activity, crimes prototypical of those that historically
+have been within the reserved police power of the states, contrary
+
+53As we conclude the evidence does not suffice to show the
+requisite effect on interstate commerce we do not separately
+address the complaints of the jury charge.
+67
+to the principle that the Commerce Clause is limited to matters
+that are truly national rather than truly local.
+The conviction on each of the Hobbs Act counts accordingly
+should be reversed.53  Because each of the section 924(c)(1) counts
+of conviction is concededly dependent on the corresponding Hobbs
+Act count of conviction, all the section 942(c)(1) counts of
+conviction should likewise be reversed.
+We respectfully dissent from the affirmance of these
+convictions.
+
+68
+PATRICK E. HIGGINBOTHAM, Circuit Judge, concurring in the dissent
+from the judgment affirming conviction, with whom GARWOOD, JOLLY
+and DeMOSS, Circuit Judges, join:
+For a second time this court has been unable to agree upon the
+bite of recent Supreme Court interpretations of the Commerce
+Clause.  This should be no surprise.  We are left adrift by a
+statute whose reach is at best no more fixed than a property line
+set at the latest low tide mark of an ocean tributary. 
+There is some certainty.  The Supreme Court has turned away
+from the New Deal view that the reach of the Commerce Clause is to
+be largely defined by the political process.  But the path it will
+follow and how far it will go are undecided.  In turn, the
+respective roles of Congress and the courts in this enterprise
+remain uncertain.  Add the Hobbs Act’s unique effort to define its
+reach by proscribing all robberies over which there is federal
+jurisdiction – a wholly tautological statement made at the zenith
+of the judiciary’s abandonment of the commerce field to the
+Congress – and we are left with three choices.  We can take the
+Hobbs Act as a congressional punt and decide it ourselves, we can
+leave it to the political process, or we can invoke the dialogic
+process of the doctrine of clear statement.  The first two options
+describe this court’s division.  Our court’s impasse leads me to
+state the case for the third path.  At the least, it will make
+
+54 Will v. Michigan Dept. of State Police, 491 U.S. 58, 65 (1989)
+(quoting Atascadero State Hosp. v. Scanlon, 473 U.S. 234, 242 (1985)).
+55 Will, 491 U.S. at 65; United States v. Bass, 404 U.S. 336, 349
+(1971).
+69
+plain the division of this court.  In describing this path, I need
+not retreat from the view expressed for half of our court in
+Hickman and so ably defended in Judge Garwood’s opinion, again for
+one half of our court.  
+I 
+With the developing case law since Hickman, there is a step
+that principles of judicial restraint offer this inferior court
+before it decides if Congress has the authority under the Commerce
+Clause to make a federal crime of local robberies such as those
+before us here.  It could insist that Congress first do what it has
+not done – make clear its purpose to reach the wholly intrastate
+activity charged in the crimes now before us.  For reasons I will
+explain, by the third path we ought to refuse to apply the Hobbs
+Act to this genre of local robberies until Congress clearly states
+its purpose to do so. Only then should the courts decide the
+commerce question now being pressed upon us.
+II
+The Supreme Court has long required that if Congress intends
+to alter “the usual constitutional balance between the States and
+the Federal Government,”54 it must make an unmistakably clear
+statement of its intention to do so in the language of the
+statute.55
+
+56 Atascadero, 473 U.S. at 242.
+57 Will, 491 U.S. at 65.
+58 Gregory v. Ashcroft, 501 U.S. 452, 463-64 (1991). This although the
+statute provided that uncertainty of scope should be resolved in favor of
+coverage. Id. at 467.
+59 South Dakota v. Dole, 483 U.S. 203, 207 (1987).
+60 Bass, 404 U.S. at 349.
+61 See Seminole Tribe of Florida v. Florida, 517 U.S. 44, 55-56 (1996)
+(“This rule arises from a recognition of the important role played by the
+Eleventh Amendment and the broader principles that it reflects.”); Gregory,
+501 U.S. at 461 (“This plain statement rule is nothing more than an
+acknowledgment that the States retain substantial sovereign powers under our
+70
+Although it found expression most often in the context of
+congressional abrogation of state sovereign immunity,56 the doctrine
+of clear statement has been applied broadly where uncertainty in
+the application of congressional directives would leave to the
+court the decision to upset the federal-state balance.  The Supreme
+Court has invoked the doctrine in various settings.  It found that
+states were not “persons” within the meaning of 42 U.S.C. § 1983,57
+and that the Federal Age Discrimination in Employment Act could not
+be construed to interfere with a State’s choice of judges absent
+clear language that judges are included.58  Similarly, the doctrine
+of clear statement is one of the articulated limits on the spending
+power,59 and federal laws criminally punishing “conduct readily
+denounced as criminal by the States” are narrowly interpreted
+absent a clear statement of Congress’ intent to significantly alter
+the federal state-balance.60
+The doctrine of clear statement is animated by principles of
+federalism inherent in the structure of the Constitution.61
+
+constitutional scheme.”).
+62 Garcia v. San Antonio Metropolitan Transit Authority, 469 US. 528
+(1985) (declining to review limitations placed upon Congress’ Commerce Clause
+powers by our federal system).
+63 Gregory, 501 U.S. at 465 (quoting LAURENCE H. TRIBE, AMERICAN CONSTITUTIONAL
+LAW § 6-25, at 480 (2d ed. 1988)).
+64 See United States v. Lopez, 514 U.S. 549, 577 (Kennedy, J.,
+concurring) (citing New York v. United States, 505 U.S. 144, 155-169 (1992)).
+65 LAURENCE H. TRIBE, AMERICAN CONSTITUTIONAL LAW § 5-9, at 857 (3d ed. 2000).
+66 Garcia, 469 U.S. at 538-540 (arguing that it is too difficult to
+define a “traditional governmental activity”).
+71
+Although the protection of the States against intrusive exercises
+of Congress’ Commerce Clause powers is still largely left to the
+political process,62 to permit courts to decide whether a poorly
+aimed congressional thrust encroached upon state regulation of
+intrastate criminal activity “would evade the very procedure for
+lawmaking on which Garcia relies to protect states’ interests.”63
+Insisting upon a clear statement from the Congress is a modest
+exercise of judicial power.  It only asks that Congress do its job,
+insisting that Congress engage its political responsibility by
+being clear of its purpose when it would reach into a sphere of
+state authority.64  In its most sanguine form, it “may lead some
+members to engage in the kind of deliberation about the scope of
+their Article I powers that they should undertake anyway as part of
+their responsibility to uphold the Constitution.”65
+The doctrine of clear statement does not require us to define
+“traditional governmental activities” in the abstract, an approach
+rejected by the Court in Garcia.66  We follow long-standing Supreme
+
+67 Gregory, 501 U.S. at 464 (explaining how the doctrine of clear
+statement works in conjunction with Garcia’s conviction that the federal-state
+balance is primarily protected by the political process); Will, 491 U.S. at
+65; Atascadero, 473 U.S. at 247 (articulating doctrine of clear statement four
+months after Garcia was decided).
+68 Id. at 460 (citing Atascadero, 473 U.S. at 243).
+69 Gregory, 501 U.S. at 460-61 (requiring a clear statement of
+congressional intent before interpreting a law to infringe upon State
+sovereignty); see also Lopez, 514 U.S. at 611 (Souter, J., dissenting) (noting
+that the doctrine of clear statement should be relied upon in cases
+implicating congressional encroachment upon “state legislative prerogatives”
+or “enter[ing] into spheres already occupied by the States.”).
+70 Bass, 404 U.S. at 523-24.
+72
+Court precedent, decided after Garcia,67 that requires us to be
+certain of Congressional purpose before finding that a federal law
+overrides the federal-state balance.68  There is here no cordoning
+off of traditional governmental activities — rather, we follow the
+Supreme Court’s lead, recognizing that the doctrine of clear
+statement protects a sphere of state authority.69  Local robberies
+of local businesses have always been the concern of state
+government and within this sphere of state authority that must not
+be entered absent a clear congressional statement.70  Significantly
+and independently it is a legal doctrine uniquely fitted to the
+hand of a court that would act with restraint in insisting that the
+enumerated powers remain just that.  For this reason, by this path
+we would not now decide that the Hobbs Act may be applied to
+discrete local robberies.  The political process ought to first
+decide its intended reach, at least before the full force of
+judicial review is unleashed.
+III
+
+71 Atascadero, 473 U.S. at 247.
+72 18 U.S.C. § 1951.
+73 Stirone v. United States, 361 U.S. 212, 215 (1960). 
+73
+The Hobbs Act fails to provide the expression of “unequivocal
+congressional intent” necessary to intrude upon this sphere of
+state authority.71  It is true that the statute reaches all
+robberies that affect commerce “in any way or degree,”72 and it is
+also a truism that the Hobbs Act expresses congressional intent to
+use “all the constitutional power Congress has.”73  Neither of these
+statements state a congressional purpose to regulate the robberies
+here, as I will explain.  And although in recent years there have
+been episodic federal prosecutions of these type of local
+robberies, this activity of other branches of government reflects
+purpose only in the sense that it was not halted by the Congress –
+inaction from which we ordinarily do not infer purpose and
+certainly not clear purpose.  Significantly, there is no principled
+limit to a reading of commerce power that would sustain federal
+jurisdiction over the activity charged in the cases before us
+today.  Those who would argue that the Congress has clearly
+expressed its purpose to make federal crimes of the robberies here
+will have to persuade that Congress intended to reach the
+proverbial “robbery of the lemonade stand”; that its purpose was to
+claim federal hegemony over local activities, including a street
+mugging.  Either that or defy the words claimed to be so clear by
+some case-by-case judgment that is little more than the arbitrary,
+“well, not that far.”    
+
+74 Nat’l Labor Relations Bd. v. Fainblatt, 306 U.S. 601, 606 (1939); see
+also Nick v. United States, 122 F.2d 660, 668-69 (4th Cir. 1941) (holding that
+Fainblatt mandates an expansive reading of the Anti-Racketeering Act). 
+75 379 U.S. 294 (1964). 
+76 Id. at 304. 
+77 Maryland v. Wirtz, 392 U.S. 183, 189 (1968) (quoting Katzenbach, 379
+U.S. at 303-04).
+74
+By the time the Anti-Racketeering Act of 1934 was amended and
+became the Hobbs Act, the Supreme Court had already held that
+congressional power under the Commerce Clause was “plenary and
+extends to all such commerce be it great or small.”74  This was a
+direct subscription to the view that the limits of congressional
+power under the Commerce Clause will be set by the political
+process; at the least the political process was the main player.
+As the Court later conceded in Katzenbach v. McClung,75 it would not
+“interfere” as long as Congress violated “no express constitutional
+limitation.”76  Until Lopez was decided, the Court upheld all
+Commerce Clause legislation as a matter of course, concluding that
+where there is “a rational basis for finding a chosen regulatory
+scheme necessary to the protection of commerce, our investigation
+is at an end.”77  Given that the Court wholly deferred to Congress’
+own interpretation of the limits of the commerce power, the
+observation that the Hobbs Act purports to reach to the limits of
+the commerce power as defined by the courts sheds no light.  In an
+era when the limits of the commerce power were defined by the
+Congress, even a congressional directive to reach to the limits of
+the Commerce Clause was no direction at all – it was wholly
+
+78 18 U.S.C. § 1951(b)(3) (emphasis added).
+75
+tautological and as we will see, the Hobbs Act definition of
+commerce was not even that pointed.
+Lopez and Morrison, with the doctrine of substantiality,
+returned the courts to the field, to once again police the limits
+of congressional authority under the Commerce Clause.  Arguably,
+when the Court began to withdraw from the concession to the
+political process, the earlier congressional directives that the
+Act ought reach as far as the constitution permits could then be
+seen as a clear expression of congressional purpose in that it was
+no longer talking to itself; rather the courts were to decide.  But
+with the doctrine of substantiality, whether the meandering
+intrusions by local United States Attorneys can be validated if
+Congress wishes to do so, is at best uncertain.  The statute’s
+description of robberies and its definition of commerce are quite
+different, its commerce definition clearly reaching conduct falling
+under the first two prongs of Lopez but leaving intrastate activity
+(as before us here) to be picked up at all only by its question-
+begging catch of all other commerce over which the United States
+has federal jurisdiction:
+“commerce within the District of Columbia, or
+any Territory or Possession of the United
+States; all commerce between any point in a
+State, Territory, Possession, or the District
+of Columbia and any point outside thereof; all
+commerce between points within the same State
+through any place outside such State; and all
+other commerce over which the United States
+has jurisdiction.”78 (emphasis supplied)
+The “robberies” in this case, if picked up at all, must be
+reached by the phrase “and all other commerce over which the United
+
+79 Welch, 483 U.S. at 475-76 (applying doctrine of clear statement to
+exempt states from the Jones Act despite the sweeping language of “[a]ny
+seaman” in the statute); Bass, 404 U.S. at 350 (employing the doctrine of
+clear statement to exclude the “mere possession” of firearms from the reach of
+the Act).
+76
+States has jurisdiction.”  This expression of purpose, made at the
+zenith of legislative hegemony in the contest of who decides the
+limits of the commerce power, is no more plain than the Jones Act’s
+reach of any seaman or the Omnibus Crime Control and Safe Streets
+Act’s reach of every firearm.79
+IV
+As we observed, it is now clear that this generalized reach
+cannot touch intrastate acts that do not have a substantial effect
+upon interstate commerce.  The government concedes that the
+robberies before us cannot meet the substantial effects requirement
+– all robberies must be aggregated.  At this point we can engage in
+a supposition that Congress thought all these local robberies were
+sufficiently linked to regulate them as a class. This is fanciful
+because such an aggregation was not even thought to be necessary at
+the time of the 1934 Act or the Hobbs Act.  The fact is that
+Congress has never made that decision.  It has never decided
+whether or what to aggregate.
+Hickman insists that Morrison’s requirement that regulated
+intrastate activities have a substantial effect upon intrastate
+commerce has no content absent a further insistence upon a rational
+relationship among discrete effects that would be aggregated.  This
+means that a judgment about the rationality of aggregating the
+effects of these discrete robberies is a correlative requirement of
+substantiality, and must be made.  By this third path, it must
+
+80 Bass, 404 U.S. at 349-51. 
+77
+first be made by the Congress.  Only after that judgment is made,
+should the courts decide the issue of the level of deference due
+that legislative judgment.  And it is then that the very content of
+the newly required substantial effect will be decided.
+There is irony in a court about the task of policing the
+enumerated powers moving to the alternative of presuming a
+legislative judgment or supplying its own view in the first
+instance.  If it is sufficient to hypothesize rationality, drawing
+upon the creativity of counsel and judicial imagination there is
+nothing substantial about substantiality; the courts will have
+wholly deferred to the political process as the arbiter of the
+state-federal role.  On the other hand, if the congressional
+purpose is not relevant, or is simply supplied by the courts, the
+courts would be the exclusive arbiter. I am not persuaded that the
+principle of the separation of powers ought to only oscillate
+between these two polarities.
+V
+This is not the first time that the doctrine of clear
+statement has been applied to limit the application of a federal
+criminal statute to intrastate criminal conduct.  In United States
+v. Bass,80 for example, the Court required a clear statement from
+Congress before it would apply the Omnibus Crime Control and Safe
+Streets Act to extend federal law enforcement to a class of
+intrastate criminal activity that had long been regulated solely by
+
+81 Id. at 350-51.
+82 410 U.S. 396 (1973).
+83 Id. at 350-51.
+84 United States v. Culbert, 548 F.2d 1355 (9th Cir. 1977); United
+States v. Yokley, 542 F.2d 300 (6th Cir. 1976).
+85 435 U.S. 371 (1978). 
+86 Id. at 373-378. 
+78
+the States.81  Two years later, in United States v. Enmons,82
+Congress applied this doctrine to the Hobbs Act.  In Enmons the
+Court refused to apply the Hobbs Act to violence associated with a
+labor dispute even though this activity was presumptively within
+the broad bounds of the statute.  Despite the general and broad
+language of the Hobbs Act, the Court required “language much more
+explicit” before it would apply it to local strikes because doing
+so would represent “an extraordinary change in federal labor law”
+and constitute “an unprecedented incursion into the criminal
+jurisdiction of the States.”83
+In response to Enmons, the Sixth and Ninth Circuits narrowly
+construed the Hobbs Act, concluding that only activities that
+constitute “racketeering” are prohibited by the Act.84  The Court
+rejected this approach in United States v. Culbert,85 concluding
+that it conflicted with a plain reading of the statute as well as
+the legislative history.86  Culbert also rejected the claim that the
+doctrine of clear statement required the Court to read a
+racketeering requirement into the Hobbs Act, characterizing the
+argument as an attempt to “manufacture ambiguity where none
+
+87 Id. at 379.
+88 Id. at 379. 
+89 It should be noted that while Culbert held that “Congress intended to
+make criminal all conduct within the reach of the statutory language” of the
+Hobbs Act, this must be read as a response to the argument that a racketeering
+requirement be read into an act, given that the conduct reached in Enmons fit
+within the statutory language but presumably could not be reached without a
+clear statement from Congress. 
+90 Enmons, 410 U.S. at 411. 
+79
+exists.”87  The Court also rejected the idea that a racketeering
+requirement must be read into the Act because without a
+racketeering requirement, the federal-state balance would be upset.
+The Court held that “there is no question that Congress intended to
+define as a federal crime conduct that it knew was punishable under
+state law.”88  Of course, these were robberies fully under the first
+two prongs of Lopez, never seen as the exclusive domain of the
+states.  
+Culbert and Enmons teach that by defining as a federal crime
+conduct that it knew was punishable under state law, Congress knew
+that it would alter the balance of federal-state power.  The
+question was whether the application of the statute would generate
+a result that interfered with state authority in a way that
+Congress had not intended.89  Unlike Culbert, which involved an
+attempted robbery of $100,000 from a federally insured bank, Enmons
+involved the application of the Hobbs Act to violence used to
+achieve legitimate union objectives in a strike, thereby
+effectuating “an unprecedented incursion into the criminal
+jurisdiction of the States.”90  Here, as in Enmons, we cannot apply
+
+80
+the statute to violate the protected sphere of state authority
+without a clear statement that Congress intended that result.
+V
+To make clear its purpose to regulate this activity, Congress
+must make a legislative judgment about the rationality of
+regulating the activity as a class, impliedly or explicitly.
+Courts in turn must decide the deference due that legislative
+judgment, a task that has proved difficult and divisive in the
+course of recent cases. Only then will it be decided whether the
+requirement of substantial effect has content or is only a symbolic
+waive of the judicial hand.  The recent pattern of Commerce Clause
+cases offers a powerful argument for the dialogic legislative first
+step afforded by the doctrine of clear statement.
+The Court’s claim of a judicial role in defining the limits of
+the commerce power did not suggest that it was to the exclusion of
+Congress.  Nonetheless, we could simply proceed.  And in
+justification point out that even with a clear statement, at the
+margins we might yet be engaged to adjudicate the limits by a case-
+by-case decision of this one’s in and that one’s out.  But there
+remains the nagging precedent and transcendent question of the
+rationality of aggregating and what is meant by rationality, a task
+the Congress and the courts in turn have not faced.  The question
+nags because of the further suggestion that unless no deference
+will be given to such a congressional decision, we ought not
+proceed without it, and the Supreme Court has not said that no
+deference is due.
+
+91  United States v. Morrison, n.7 120 S.Ct. 1740, 1753
+(2000).  
+81
+All said, by the third path we ought to require Congress to
+first make clear the wholly intrastate robberies with an effect
+upon interstate commerce that it would regulate, whether connected
+by conspiracy, spree, or in some other way, possibly a
+confrontational response of single robbery without substantial
+effect.  As Chief Justice Rehnquist reminded in Morrison:  
+[I]n the performance of assigned constitutional duties
+each branch of the government must initially interpret
+the Constitution, and the interpretation of its powers by
+any branch is due great respect from the others....91
+We have nothing from the Congress.
+
+EDITH H. JONES, Circuit Judge, dissenting, with whom JOLLY, SMITH,
+DeMOSS and CLEMENT, Circuit Judges, join:
+Judges Garwood’s and Higginbotham’s non pareil opinions
+explain why eight members of this court would hold that appellant
+McFarland could not be constitutionally prosecuted under the Hobbs
+Act for routine convenience store robberies.  The Supreme Court’s
+decisions in Lopez and Morrison compel this result, in our view, by
+limiting the extent to which the Commerce Clause facilitates ever-
+deeper 
+federal 
+incursions into 
+the states’ 
+constitutional
+prerogative of local crime control.  Eight other judges silently
+reject this conclusion.  Unfortunately, they have withdrawn from
+the field of reasoned dispute, just as they did in a similar case
+two years ago.  United States v. Hickman, 179 F.3d 230 (5th Cir.
+1999) (en banc).  It is our view that our court owes the public a
+candid explanation of our respective positions.  
+One may ask why our silent colleagues should be called on
+to write anything.  Is it somehow inappropriate for courts to issue
+opinions when they are evenly divided?  The short answer to this
+question is, no.  Both the general role of the appellate courts and
+the exact circumstances of this case virtually demand expression of
+our competing views.  
+Federal appellate courts’ twin duties are to decide
+appeals and to articulate the law.  Writing reasoned opinions,
+especially in important cases, is critical to the responsible
+performance of these duties.  One of the most prominent studies of
+the federal appellate courts exhorts us:
+The obligation to give reasons is vital to both
+functions.  When reasons are announced and can be
+
+83
+weighed, the public can have assurance that the
+correcting process is working.  Announcing reasons can
+also provide public understanding of how the numerous
+decisions of the system are integrated.  In a busy court,
+the reasons are an essential demonstration that the court
+did in fact fix its mind on the case at hand.  An
+unreasoned decision has very little claim to acceptance
+by the defeated party, and is difficult or impossible to
+accept as an act reflecting systematic application of
+legal principles.  Moreover, the necessity of stating
+reasons not infrequently changes the results by forcing
+the judges to come to grips with nettlesome facts or
+issues which their normal instincts would otherwise cause
+them to avoid.
+Paul D. Carrington, Daniel J. Meador and Maurice Rosenberg, Justice
+on Appeal 10 (West 1976) (emphasis added).  Judge Wald, formerly
+Chief Judge of the District of Columbia Circuit, also emphasized
+this point: “The courts’ opinions should contain reasoned
+explanations of their decisions to lend them legitimacy, permit
+public evaluation, and impose a discipline on judges.”  Hon.
+Patricia Wald, The Problem with the Courts: Black-Robed Bureaucracy
+or Collegiality Under Challenge?, 42 Md. L.REV. 766, 768-69 (1983).
+The benefits of issuing reasoned opinions – fostering
+public understanding of the law, accountability and transparency,
+and imposing self-discipline on the judges – are not limited to
+majority opinions.  Judges’ occasional writings, such as
+concurrences, dissents, opinions following denial of en banc
+rehearing – and opinions written despite an evenly divided court –
+lack the force of law but deploy the force of suasion for exactly
+the same purposes as majority opinions.  In no case can we compel
+our brethren to provide published reasons for their decisions.  By
+their silence here, however, they have defaulted their duties of
+public explication, accountability and transparency.  
+
+84
+Our 
+colleagues’ 
+uniform 
+silence 
+is 
+initially
+disappointing because this is an important case.  For more than a
+decade, the Supreme Court has been reinvigorating federalism as a
+component of our constitutional structure.  Lower federal courts
+have the obligation conscientiously to enforce the Court’s
+decisions in this evolving area.  The new trend furnishes issues
+that should intellectually delight and challenge us and evoke our
+utmost analytical powers.  Our opinions may be useful to the
+Supreme Court, for good or ill, when this case is appealed, and may
+be persuasive in other federal courts.  
+The reticence of our colleagues cannot, in our view, be
+rationalized as prudence, or the unwillingness to write reasons in
+a non-definitive case.  The outcome of this case is definitive.
+When the court tackled the same issue two years ago, nearly the
+same group of judges declined to give reasons for affirming a Hobbs
+Act conviction against a Commerce Clause attack.  As a result, the
+federal government feels free to prosecute purely local robberies
+without inhibition in this circuit.  Our pattern jury instructions
+continue to say that a showing of any effect on interstate commerce
+(no matter how small) will suffice to create federal jurisdiction
+over a Hobbs Act crime.  The only brake installed by this court
+against federalization of all robberies under the Hobbs Act
+consists of our arbitrary exclusion a few years ago of robberies of
+individuals.  United States v. Collins, 40 F.3d 95 (5th Cir. 1994).
+The affirming judges’ silence here thus assures, whether they
+desire it or not, that there is no principled limit on federal
+prosecution of robberies – even of the proverbial lemonade stand.
+
+92United States v. Brown, 276 F.3d 14 (1st Cir. 2002) (en
+banc):  Three judges wrote separate statements supporting
+reversal of the district court’s judgment
+Jean v. Collins, 221 F.3d 656 (4th Cir. 2000) (en banc):  1
+opinion concurring in affirmance by equally divided court; 2
+dissenting opinions.
+United States v. Walton, 207 F.3d 694 (4th Cir. 2000) (en
+banc):  An opinion for affirmance written by a deceased judge was
+concurred in by half the court.  In addition, two judges wrote
+separate concurring opinions, and three judges wrote dissenting
+opinions.
+United States v. Barber, 119 F.3d 276 (4th Cir. 1997).
+Stupak-Thrall v. United States, 89 F.3d 1269 (6th Cir. 1996)
+(en banc):  The order affirming the judgment of the district
+court by an equally divided vote states:  “The mandate will not
+issue for fourteen (14) days from the date of this order so that
+members of the court may file any separate opinions they wish
+to.”  Id. at 1269.  Thereafter, concurring and dissenting
+opinions were filed.  
+United States v. Page, 167 F.3d 325 (6th Cir. 1999) (en
+banc):  8 judges joined separate concurring opinion supporting
+affirmance; 3 separate opinions supporting reversal.
+Norwood v. Bain, 166 F.3d 243 (4th Cir. 1999) (en banc): 
+separate opinions written explaining reasons why judges would
+reverse or affirm district court’s judgment on issues as to which
+en banc court was equally divided.
+United States v. Chen, 131 F.3d 375 (4th Cir. 1997) (en
+banc):  defendants’ 18 U.S.C. § 924(c)(1) convictions were
+affirmed by an equally divided court.  Judge Wilkins wrote a
+separate concurring opinion explaining the reasons for affirming
+those convictions.  The judges who voted to reverse the
+convictions did not file an opinion.
+Baker v. Pataki, 85 F.3d 919 (2d Cir. 1996) (en banc):  One
+separate opinion in favor of affirming; two separate opinions in
+85
+Adding to the mystery of their silence is the long-
+standing and consistent, albeit optional, practice of issuing
+explanatory opinions in other courts that have split evenly when
+sitting en banc.  There are at least two dozen cases in recent
+years, from nearly every circuit, in which such opinions were
+i s s u e d . 9 2 
+ 
+R e s p o n d i n g 
+t o 
+a 
+c o l l e a g u e ’ s
+
+favor of reversing.  The separate opinion in favor of affirmance
+cites cases regarding the practice of filing opinions in such
+cases in other circuits and notes:
+Our prior cases do not purport to announce a
+rule that opinions on the merits should not
+be written, and we believe that there should
+be an option to issue them (which is
+obviously exercised affirmatively in this
+case).  This is especially so because the
+views of this court of intermediate appeal
+might be useful to the Supreme Court in the
+event of an application for certiorari.
+Id. at 922 n.2.
+United States v. Hamrick, 43 F.3d 877 (4th Cir. 1995) (en
+banc).
+Smith v. Zant, 887 F.2d 1407 (11th Cir. 1989) (en banc):  By
+an equally divided vote, the court affirmed the district court’s
+grant of habeas relief as to Smith’s death sentence.  Judge
+Tjoflat wrote a separate concurrence explaining why he and five
+other judges would affirm the denial of habeas relief as to the
+conviction, and would reverse the grant of habeas relief as to
+the death sentence.  Judge Kravitch wrote a concurrence and
+dissent explaining why six judges would reverse the denial of
+habeas relief as to the conviction and affirm the grant of habeas
+relief as to the death sentence.
+United States v. Grey Bear, 863 F.2d 572 (8th Cir. 1988) (en
+banc):  Separate opinions were filed in support of reversal and
+in support of affirmance.  The opinion in support of reversal
+states that it is written “solely because” the opinion in support
+of affirmance “could cause confusion among lawyers and district
+judges of this circuit.”  Id. at 573.  The opinion in support of
+affirmance states:  “As the divided court today affirms the
+rulings of the district court with respect to joinder and
+severance, it is appropriate that we articulate the reasons that
+five judges vote in favor of this result.”  Id. at 580.
+Hotel & Restaurant Employees Union, Local 25 v. Smith, 846
+F.2d 1499 (D.C. Cir. 1988):  The court split over the issues of
+standing and ripeness.  Judge Mikva’s separate opinion
+acknowledges that the opinions “carry no weight and determine no
+law of the circuit” and that it is “unlikely they will shed much
+light.”  Nevertheless, he states that “[a] reasonable regard for
+our colleagues’ views in disagreement ... compels our brief
+statement of how we believe this appeal should have been
+resolved.”  Id. at 1500.  Judge Silberman filed a separate
+opinion for the other half of the court.
+Piper v. Supreme Court of New Hampshire, 723 F.2d 110 (1st
+86
+
+Cir. 1983) (en banc):  Separate opinions supporting affirmance
+and reversal.
+Elmore v. Cone Mills Corp., 23 F.3d 855 (4th Cir. 1994) (en
+banc):  The court was evenly divided as to one issue.  Three
+separate opinions were filed regarding that issue, two in support
+of affirmance and one in support of reversal.
+Faulkner Advertising Assocs., Inc. v. Nissan Motor Corp. in
+U.S.A., 945 F.2d 694 (4th Cir. 1991) (en banc):  Separate
+opinions in support of affirmance and in support of reversal.
+United States v. Klubock, 832 F.2d 664 (1st Cir. 1987) (en
+banc):  one opinion supporting affirmance and two supporting
+reversal.
+Jenkins v. Agyei, 807 F.2d 657 (8th Cir. 1987) (en banc): 
+separate opinions supporting affirmance and reversal.
+Roesch, Inc. v. Star Cooler Corp., 712 F.2d 1235 (8th Cir.
+1983) (en banc):  After noting that the usual practice when a
+judgment is affirmed by an equally divided court is not to
+express any opinion, the judges supporting affirmance stated: 
+“In the present case, however, because of the significance of the
+issue involved and the circumstances of the changed en banc
+panel, we elect to set forth our reasons for affirming the
+district court’s judgment.”  Id. at 1236.  A brief dissent was
+filed by the judges supporting reversal, relying on the reasons
+discussed in a dissenting opinion filed in a companion case
+(Battle).
+Battle v. Watson, 712 F.2d 1238 (8th Cir. 1983) (en banc): 
+The judges supporting affirmance adopted the reasoning of the
+judges supporting affirmance in Roesch.  The judges supporting
+reversal wrote a separate dissent.
+But see FMC Corp. v. United States Dep’t of Commerce, 29
+F.3d 833 (3d Cir. 1994) (en banc):  One of the dissenting
+opinions contains a footnote stating:  “Because the court is
+equally divided on the issue of the government’s liability as an
+arranger, and it is our tradition not to write an opinion in that
+situation, I do not set forth what I believe are independent
+reasons to reverse the district court in that regard.”  Id. at
+854 n.7.
+87
+criticism of his filing a separate opinion in one such case, Judge
+Wilkins of the Fourth Circuit had this explanation:
+Judge Murnaghan’s unsupported statement that a judge
+should remain silent when an en banc vote on a particular
+issue is equally divided is misplaced.  To the contrary,
+many times a judge feels that it is important for the
+
+88
+litigants and others to know why the court is divided on
+a particular issue.  And, we routinely author opinions
+that do not carry the weight of the majority opinion such
+as concurring opinions, dissenting opinions, and opinions
+following a failed poll for en banc consideration; an
+expression of the reasons supporting a vote in this
+situation is not dissimilar.  Moreover, the expression of
+the views of individual judges when an en banc vote is
+equally divided is hardly novel.
+United States v. Barber, 119 F.3d 276, 289 (4th Cir. 1997) (en
+banc) (citing cases).
+In this court as well, silence is not our custom.  Judges
+have explained themselves in many previous cases where this court
+divided evenly en banc.  Carter v. United States, 325 F.2d 697 (5th
+Cir. 1963) (en banc); United States v. Holmes, 537 F.2d 227 (5th
+Cir. 1976) (en banc); Meltzer v. Bd. of Pub. Instruction of Orange
+County, Florida, 577 F.2d 311 (5th Cir. 1978) (en banc); United
+States v. Ibarra, 965 F.2d 1354 (5th Cir. 1992) (en banc); United
+States v. Greer, 968 F.2d 433 (5th Cir. 1992) (en banc); United
+States v. Kirk, 105 F.3d 997 (5th Cir. 1997) (en banc); United
+States v. Hickman, 179 F.3d 230 (5th Cir. 1999) (en banc).  In
+1997, five of the eight judges who now say nothing joined an
+opinion on an issue similar to the one now before us, whether Lopez
+applied to invalidate a federal gun possession violation.  United
+States v. Kirk, 105 F.3d at 998 (en banc) (separate opinion of
+Judge Parker, joined by Judges King, Davis, Wiener and Stewart). 
+The court was also evenly divided in Kirk.  One wonders what could
+prompt silence here, when juxtaposed with the writings there?  In
+sum, there  are customary, issue-specific and even judge-specific
+precedents for publishing written explanations following evenly
+split en banc decisions in our court.
+
+93As Judge Richard Arnold put it, “The third duty of the
+court is to write an opinion which is intelligible, which
+explains the result, and which we hope, is acceptable to the
+losing side.  I think about losing litigants a lot.  Those are
+the people who need to understand that they have been heard –
+that a reasoning creature of some kind has evaluated their
+argument and comes to some sort of conclusion about it.  They
+won’t like it; they won’t enjoy losing, but I hope that they will
+have a sense that they have been heard.”  Richard S. Arnold, The
+Future of the Federal Courts, 60 Mo. L. Rev. 533, 536 (1995).
+89
+Given the sharpness and timeliness of the issue that
+divides this court, the silence of those who affirm McFarland’s
+conviction has a public dimension.  The court is an institution
+defined by the reasoned exercise of power.  It signals disregard
+for the public – the federal prosecutors and defense attorneys –
+who remain unenlightened over how to avert, or precipitate, serious
+discussion of the limits now imposed by the commerce clause on
+federalization of local crime.  Silence exhibits a unique unconcern
+for appellant McFarland, as earlier for appellant Hickman, both of
+whom were entitled to know how the power of the federal government
+constitutionally bore down on them.  Our court almost invariably
+gives reasons for affirming criminal convictions – but not today.
+Even in non-orally argued summary calendar dispositions, the
+defendants invariably receive some explanation in response to their
+appeals.93  Finally, this silence signals indifference toward the
+predictability required of a fair-minded criminal justice system.
+While 
+diminishing 
+the 
+court’s 
+transparency 
+and
+accountability, our colleagues’ silence may also obscure their
+internal disagreements.  But if that were the sole purpose, it
+makes no sense.  Judges often express different reasons for
+reaching a single result.  In fact, the best test of competing
+
+94“If I cannot give a reason I should be willing to stand
+to, I must shrink from the very result which otherwise seems
+good.”  County of Los Angeles v. Kling, 474 U.S. 936, 940 n.6
+(1985) (Stevens, J. dissenting from summary reversal) (quoting
+Karl Llewellyn, The Common Law Tradition 26 (1960), quoted in
+Reynolds & Richman, The Non-Precedential Precedent -- Limited
+Publication and No-Citation Rules in the United States Courts of
+Appeals, 78 Colum. L. Rev. 1167, 1204 (1978)).
+95We all agree that under the Hobbs Act, Congress may punish
+robberies that are perpetrated against the channels of interstate
+commerce (Lopez category I), goods or things in interstate
+commerce (Lopez category II), and even individual robberies that
+“substantially affect” interstate commerce (Lopez category III). 
+Our dispute rests solely on whether intrastate robberies like the
+ones before us, that have no impact on interstate commerce, can
+be federally prosecuted.
+90
+legal theories is in the open marketplace of ideas.  Silence,
+therefore, could mean an unwillingness to compete.94
+Had any of our silent colleagues chosen to compete, they
+would have to explain why – in the face of Lopez, Morrison, Jones
+and Judges Garwood’s and Higginbotham’s able opinions – the Hobbs
+Act regulates “interstate commerce” by federalizing even a single
+local robbery.95  Because our colleagues are unwilling to speak for
+themselves, and because the public is entitled to receive some
+reasons for affirming McFarland’s conviction, we shall attempt to
+paraphrase the most significant arguments for their position.  
+Those who affirm concede that none of these local
+robberies, considered individually or collectively, “substantially
+affects” interstate commerce, as Lopez category III requires.  They
+acknowledge they can only show a proper basis for federal
+prosecution under Lopez and Morrison if the Hobbs Act “regulates”
+some 
+intrastate 
+activity 
+whose 
+aggregate 
+national 
+impact
+substantially affects interstate commerce.  But what is the
+regulated activity, and how are its “substantial effects”
+
+91
+calculated?  There are mutually conflicting ways to answer these
+critical questions.  The silent judges apparently cannot agree on
+the answers, and some of them apparently adhere to more than one
+answer.
+The first route is to assert that robbery is an “economic
+activity.”  This theory draws on an alleged distinction between
+Morrison and Lopez.  Even if Morrison states a categorical rule
+against aggregating the effects of “noneconomic, violent criminal
+conduct”, some of the silent judges apparently believe that
+aggregation of robberies under the Hobbs Act is still permissible.
+While Lopez suggested that aggregation of noncommercial activities
+is inappropriate, see Lopez, 514 U.S. at 561, 115 S. Ct. at 1631
+(emphasis added), Morrison’s language “clarifies” that the
+aggregation of noneconomic activities is problematic.  529 U.S. at
+617, 120 S. Ct. at 1754 (emphasis added).  Thus, their argument
+goes, Congress could have had a rational basis for concluding that
+the Hobbs Act regulates economic activity because robbery is an
+“economic crime.”  More colorfully, one might assert that because
+the thief sticks his hand into the stream of commerce, not
+inadvertently or tangentially, but as a primary and defining aspect
+of his conduct, robbery is an economic activity.  Substituting yet
+another metaphor, the robber’s conduct is a “coercive barter” in an
+unquestionably commercial environment – a convenience store.
+Of course, robbery should not be considered an “economic”
+activity.  The dictionary defines “economic” as “relating to, or
+concerned with the production, distribution and consumption of
+commodities.”  Webster’s Third New International Dictionary 720
+
+96Justice Ginsburg further noted that in Lopez, “the Court
+stressed that the [regulated activity] was one of traditional
+state concern and that the legislation aimed at activity in which
+‘neither the actors nor their conduct has a commercial
+character.”  Jones, 529 U.S. at 858, 120 S. Ct. at 1911-12
+(quoting Lopez, 514 U.S. at 577, 580, 115 S. Ct. at 1638, 1640
+(Kennedy, J. concurring)).  Additionally, Justice Stevens, in
+concurrence, stated the courts should be reluctant to “believe
+Congress intended to authorize federal intervention in local law
+enforcement in a marginal case such as this [arson of a private
+residence].”  Id. at 859 (Stevens, J. concurring); see also
+Lopez, 514 U.S. at 561 n.3, 115 S. Ct. at 1631 n.3.
+92
+(1981).  Certainly, robbery has some economic effect, but so do
+murder, aggravated assault, and theft.  Further, to say that
+robberies may be aggregated because robbery is an economic activity
+is contrary to the decisions of this court and many other courts
+that robberies of individuals may not be aggregated for prosecution
+under the Hobbs Act.  See cases cited in n.35 of Judge Garwood’s
+opinion.  Under the robbery-as-economic-activity theory, Congress
+could make it a federal crime intentionally to walk out of your
+neighbor’s house with a $5 bill he left on his kitchen counter.
+Arson is frequently an economically-motivated crime, but
+in Jones, the Supreme Court interpreted the federal arson statute
+not to reach the immolation of an individual owner-occupied
+residence.  Justice Ginsburg wrote for a unanimous Court that,
+“[g]iven the concerns brought to the fore in Lopez, it is
+appropriate to avoid the constitutional question that would arise
+were we to read [the federal arson statute] to render ‘the
+traditionally local criminal conduct’ in which petitioner Jones
+engaged ‘a matter for federal law enforcement’” Jones v. United
+States, 529 U.S. 848, 858, 120 S. Ct. 1912 (2000).96
+Moving in exactly the opposite direction, some of our
+silent colleagues would agree that robbery is not an economic act,
+
+97Advocates of this position would contend that Congress
+can, pursuant to its Commerce Clause power, regulate otherwise
+local criminal conduct that targets businesses, but not
+individuals.  This “rule”, they could say, provides a clear,
+practical guideline for legislators who are considering federal
+criminal legislation as well as for federal prosecutors.  Let us
+ignore that this “rule” amounts to judicial legislation – if the
+“rule” were so easily defensible, why is it not articulated as
+the position of the silent colleagues?
+93
+but because the Hobbs Act has a jurisdictional hook encompassing
+any robbery that has “any effect” on interstate commerce, and
+because robbery is not “too attenuated” from commercial enterprise,
+Congress has power to proscribe all robberies under the Commerce
+Clause.  But the question these judges have not answered is how
+their rationale provides any limit at all to the prosecution of
+local crime by the federal government.  Under their position, a
+federal statute could extend to all murders and assaults which “in
+any way or degree affect commerce,” or a federal statute could
+criminalize all murders or assaults in which the victim is an
+income earner and which “in any way or degree affect commerce.”
+Aggregating such crimes would result in the requisite “substantial
+effect.”  Obviously, such “reasoning would allow Congress to
+regulate any crime as long as the nationwide, aggregated impact of
+that crime has substantial effects on employment, production,
+transit or  consumption.”  Morrison, 529 U.S. at 615, 120 S. Ct. at
+1752-53.  Morrison clearly rejected this view. 
+Some would affirm by crafting a narrower approach to the
+statute, arguing that the Hobbs Act is really concerned with
+convenience store robberies and the like, that is, with robberies
+of commercial establishments.97  This approach stalls, however,
+because it requires ignoring or judicially rewriting the statute;
+
+94
+the statute is not restricted to robberies of businesses or
+commercial enterprises, much less to convenience stores or any
+other specific victim.  It plainly and broadly applies to any
+robbery of any victim which “in any way or degree . . . affects
+[interstate] commerce.”  Further, in a purely result-oriented
+fashion, this position allows aggregation of all convenience store
+robberies, so that any of them – including a $1 robbery from a
+local store that buys $10 a month of out-of-state goods from a
+local wholesaler - may properly be prosecuted as a federal crime,
+but it excludes a $10,000 robbery of diamonds from a jewel merchant
+walking along a city street.  Congress was hardly so inconsistent.
+Alternatively, instead of facing the hard decision
+whether robbery is or is not an “economic activity,” some of our
+silent colleagues would argue that the Hobbs Act is “more closely
+related to economic activity” than are other crimes, hence,
+aggregation of robberies is permitted.  But, as the Court pointed
+out in Morrison, “in those cases where we have sustained regulation
+of intrastate activity based upon the activity’s substantial
+effects on interstate commerce, the activity in question has been
+some sort of economic endeavor.”  Morrison, 529 U.S. at 611, 120 S.
+Ct. at 1750.  See also Morrison, Id. n.4 (“. . . in every case
+where we have sustained federal regulation under the aggregation
+principle in Wickard (citation omitted), the regulated activity was
+of an apparently commercial character.  See, e.g., Lopez.”)
+(citation omitted) (emphasis added).  All of the Court’s prior
+aggregation holdings involved a regulation of the conduct of a
+wholly or partially commercial enterprise.  The Hobbs Act is not
+
+95
+such a statute.  This theory would extend aggregation to an area no
+Supreme Court holding has traversed.   Lopez and Morrison plainly
+point away from such an extension.
+Then again, some of our colleagues may head in a
+different direction and dispute the premise that it has made a
+crucial difference to the Supreme Court whether aggregation was
+based on the status of the regulated activity as commercial or
+noncommercial.  From this standpoint, aggregation turns on the
+effects of the activity (such as robbery) and not on the inherent
+relation of the activity to interstate commerce.  But Lopez says
+exactly the opposite:  “[w]here economic activity substantially
+affects interstate commerce, legislation regulating that activity
+will be sustained.”  Lopez, 514 U.S. at 560, 115 S. Ct. at 1630
+(emphasis added).  
+One distinctive approach would state that robbery is not
+an economic activity, but also would assert that Judge Garwood’s
+opinion has constructed a new test different from that in Lopez and
+Morrison.  Since no further explanation is offered, the source of
+the novelty would apparently be left to the reader’s imagination.
+Yet another conclusory position seems to assert that
+prosecutors have been convicting defendants under the Hobbs Act by
+aggregating the de minimis effects of local, intrastate robberies
+for forty years.  Of course, Lopez and Morrison had not been
+decided forty years ago.  Moreover, even though recent opinions of
+sister circuits may support this sort of an argument for stare
+
+98See United States v. Gray, 260 F.3d 1267, 1274-75 (11th
+Cir. 2001);  United States v. Peterson, 236 F.3d 848, 852 (7th
+Cir. 2001); United States v. Malone, 222 F.3d 1286, 1294-95 (10th
+Cir. 2001).  Several of the circuit courts have also drawn the
+patently arbitrary distinction between robberies of individuals
+and commercial establishments.  
+99To cite but one example: “Were the Federal Government to
+take over the regulation of entire areas of traditional state
+concern, areas having nothing to do with the regulation of
+commercial activities, the boundaries between the spheres of
+federal and state authority would blur and political
+responsibility would become illusory.”  Morrison, 529 U.S. at
+611, 120 S. Ct at 1750, (quoting Lopez, 514 U.S. at 577, 115 S.
+Ct. at 1638 (Kennedy, J., concurring)). 
+100“If accepted, petitioners’ reasoning would allow Congress
+to regulate any crime as long as the nationwide, aggregated
+impact of that crime has substantial effects on employment,
+production, transit, or consumption.  Indeed, if Congress may
+regulate gender-motivated violence, it would be able to regulate
+murder or any type of violence since gender-motivated violence,
+96
+decisis, their inadequate reasoning does not sustain the
+constitutionality of the Hobbs Act as here applied.98  
+Finally, some of our silent colleagues would go so far as
+to suggest that if the Supreme Court wanted to rein in application
+of the Hobbs Act, it has had ample opportunity to do so.  This
+court should not take the initiative.  But this reasoning is
+backwards.  It is the lower courts’ duty faithfully to  apply the
+Supreme Court’s rulings in Lopez and Morrison in the first
+instance.  We cannot ignore the Court’s decisions any more than we
+are permitted to second-guess its failure to grant certiorari on
+issues of interest to us.
+Despite their internal conflicts or incoherency, all of
+these arguments share a common thread.  None of them responds to
+the federalism concerns expressed so unmistakably in Lopez and
+Morrison.99  None of them sets any principled limit on the exercise
+of federal power to prosecute indisputably local crime.100  None of
+
+as a subset of all violent crime, is certain to have lesser
+economic impacts than the larger class of which it is a part.” 
+Morrison, 529 U.S. at 615, 120 S. Ct. at 1752-53.
+97
+them respects that the words “commerce” and “economic” have fixed
+meanings, which do not conventionally include ordinary robbery.
+Chief Justice Rehnquist’s conclusion in Morrison was,
+however, tolerably clear to the lay reader:
+We accordingly reject the argument that
+Congress may regulate noneconomic, violent
+criminal 
+conduct 
+based 
+solely 
+on 
+that
+conduct’s aggregate effect on interstate
+commerce. 
+ 
+The 
+Constitution 
+requires 
+a
+distinction between what is truly national and
+what is truly local.  In recognizing this fact
+we preserve one of the few principles that has
+been consistent since the [Commerce] Clause
+was adopted.  The regulation and punishment of
+intrastate violence that is not directed at
+the instrumentalities, channels, or goods
+involved in interstate commerce has always
+been the province of the States.  Indeed, we
+can think of no better example of the police
+power, which the Founders denied the National
+Government and reposed in the States, than the
+suppression of violent crime and vindication
+of its victims.” 
+Morrison, 529 U.S. at 617, 120 S. Ct. at 1754.  (citations and
+footnote omitted).  We might have had a forthright and responsible
+debate, if our colleagues had adhered to their duty to express
+reasons why they have chosen to allow McFarland to be convicted of
+a federal crime.

@@ -1,0 +1,158 @@
+DOE V. CHAO
+
+LII
+
+Supreme Court
+
+DOE V. CHAO (02-1377) 
+306 F.3d 170, affirmed.
+Syllabus
+ Opinion
+ [ Souter ]Dissent
+ [ Ginsburg ]Dissent
+ [ Breyer ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a
+syllabus (headnote) will be released, as is being done in
+connection with this case, at the time the opinion is
+issued.
+The syllabus constitutes no part of the opinion of
+the Court but has been prepared by the Reporter of Decisions
+for the convenience of the reader.
+See United States
+v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+DOE v. CHAO, SECRETARY OF LABOR
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE FOURTH CIRCUIT
+
+No. 02—1377. Argued December 3, 2003–Decided February 24,
+2004
+
+After petitioner Doe filed a black lung
+benefits claim with the Department of Labor, the agency used
+his Social Security number to identify his claim on official
+agency documents, including a multicaptioned hearing notice
+that was sent to a group of claimants, their employers, and
+lawyers. Doe and other black lung claimants sued the
+Department, claiming that such disclosures violated the Privacy
+Act of 1974. The Government stipulated to an order prohibiting
+future publication of Social Security numbers on multicaptioned
+hearing notices, and the parties moved for summary judgment. 
+The District Court entered judgment against all plaintiffs but
+Doe, finding that they had raised no issues of cognizable harm.
+ However, the court accepted Doe’s uncontroverted
+testimony about his distress on learning of the improper
+disclosure, granted him summary judgment, and awarded him
+$1,000, the minimum statutory damages award under 5 U.S.C. §
+552a(g)(4). The Fourth Circuit reversed on Doe’s
+claim, holding that the $1,000 minimum is available only to
+plaintiffs who suffer actual damages, and that Doe had not
+raised a triable issue of fact about such damages, having
+submitted no corroboration for his emotional distress
+claim.
+
+Held: Plaintiffs must prove some
+actual damages to qualify for the minimum statutory award. 
+Pp. 3—13.
+
+ (a) The Privacy
+Act gives agencies detailed instructions for managing their
+records and provides various sorts of civil relief to persons
+aggrieved by the Government’s failure to comply with the
+Act’s requirements. Doe’s claim falls within a
+catchall category for someone who suffers an “adverse
+effect” from a failure not otherwise specified in the
+remedial section of the Act. §552a(g)(1)(D). If a court
+determines in a subsection (g)(1)(D) suit that the agency acted
+in an “intentional or willful” manner, the Government
+is liable for “actual damages sustained by the individual
+… , but in no case shall a person entitled to
+recovery receive less than … $1,000.” 
+§552a(g)(4)(A). Pp. 3—4.
+
+ (b) A
+straightforward textual analysis supports the Government’s
+position that the minimum guarantee goes only to victims who
+prove some actual damages. By the time the statute guarantees
+the $1,000 minimum, it not only has confined eligibility to
+victims of adverse effects caused by intentional or willful
+actions, but has provided expressly for liability to such
+victims for “actual damages sustained.” When the
+next clause of the sentence containing such an explicit
+provision guarantees $1,000 to the “person entitled to
+recovery,” the obvious referent is the immediately
+preceding provision for recovering actual damages, the
+Act’s sole provision for recovering anything. Doe’s
+theory that the minimum requires nothing more than proof of a
+statutory violation is immediately questionable in ignoring the
+“actual damages” language so directly at hand and
+instead looking for “a person entitled to recovery”
+in a separate part of the statute devoid of any mention of
+recovery or of what might be recovered. Doe ignores statutory
+language by reading the statute to speak of liability in a
+freestanding, unqualified way, when it actually speaks in a
+limited way, by referencing enumerated damages. His reading is
+also at odds with the traditional understanding that tort
+recovery requires both wrongful act plus causation and proof of
+some harm for which damages can reasonably be assessed. And an
+uncodified provision of the Act demonstrates that Congress left
+for another day the question whether to authorize general
+damages, i.e., an award calculated without reference to
+specific harm. In fact, drafting history shows that Congress
+cut out the very language in the bill that would have
+authorized such damages. Finally, Doe’s reading leaves
+the entitlement to recovery reference with no job to do. As he
+treats the text, Congress could have accomplished its object
+simply by providing that the Government would be liable for
+actual damages but in no case less than $1,000. Pp.
+4—8.
+
+ (c) Doe’s argument suggests
+that it would have been illogical for Congress to create a
+cause of action for anyone suffering an adverse effect from
+intentional or willful agency action, then deny recovery
+without actual damages. But subsection (g)(1)(D)’s
+recognition of a civil action was not meant to provide a
+complete cause of action. A subsequent provision requires
+proof of intent or willfulness in addition to adverse effect,
+and if the specific state of mind must be proven additionally,
+it is consistent with logic to require some actual damages as
+well. Doe also suggests that it is peculiar to offer
+guaranteed damages, as a form of presumed damages not requiring
+proof of amount, only to plaintiffs who can demonstrate actual
+damages. But this approach parallels the common-law remedial
+scheme for certain defamation claims in which plaintiffs can
+recover presumed damages only if they can demonstrate some
+actual, quantifiable pecuniary loss. Finally, Doe points to
+subsequently enacted statutes with remedial provisions similar
+to §552a(g)(4). However, the text of one provision is too
+far different from the Privacy Act’s language to serve as
+a sound basis for analogy; and even as to the other provisions,
+this Court has said repeatedly that subsequent legislative
+history will rarely override a reasonable interpretation of a
+statute that can be gleaned from its language and legislative
+history prior to its enactment. Pp. 9—12.
+
+306 F.3d 170, affirmed.
+
+ Souter, J., delivered
+the opinion of the Court, in which Rehnquist, C. J., and
+O’Connor, Kennedy, and Thomas, JJ., joined, and in which
+Scalia, J., joined except as to the penultimate paragraph of
+Part III and footnote 8. Ginsburg, J., filed a dissenting
+opinion, in which Stevens and Breyer, JJ., joined. Breyer, J.,
+filed a dissenting opinion.

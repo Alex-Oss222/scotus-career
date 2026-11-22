@@ -1,0 +1,151 @@
+GROH V. RAMIREZ
+
+LII
+
+Supreme Court
+
+GROH V. RAMIREZ (02-811) 
+298 F.3d 1022, affirmed.
+Syllabus
+ Opinion
+ [ Stevens ]Dissent
+ [ Kennedy ]Dissent
+ [ Thomas ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a
+syllabus (headnote) will be released, as is being done in
+connection with this case, at the time the opinion is
+issued.
+The syllabus constitutes no part of the opinion of
+the Court but has been prepared by the Reporter of Decisions
+for the convenience of the reader.
+See United States
+v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+GROH v. RAMIREZ et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE NINTH CIRCUIT
+
+No. 02—811. 
+Argued November 4, 2003–Decided February 24, 2004
+
+Petitioner, a Bureau of Alcohol, Tobacco and
+Firearms agent, prepared and signed an application for a
+warrant to search respondents’ Montana ranch, which stated
+that the search was for specified weapons, explosives, and
+records. The application was supported by petitioner’s
+detailed affidavit setting forth his basis for believing that
+such items were on the ranch and was accompanied by a warrant
+form that he completed. The Magistrate Judge (Magistrate)
+signed the warrant form even though it did not identify any of
+the items that petitioner intended to seize. The portion
+calling for a description of the “person or property”
+described respondents’ house, not the alleged weapons; the
+warrant did not incorporate by reference the application’s
+itemized list. Petitioner led federal and local law
+enforcement officers to the ranch the next day but found no
+illegal weapons or explosives. Petitioner left a copy of the
+warrant, but not the application, with respondents. 
+Respondents sued petitioner and others under Bivens v.
+Six Unknown Fed. Narcotics Agents, 403 U.S. 388, and 42 U.S.C. §
+1983 claiming, inter alia, a Fourth Amendment
+violation. The District Court granted the defendants summary
+judgment, finding no Fourth Amendment
+violation, and finding that even if such a violation occurred,
+the defendants were entitled to qualified immunity. The Ninth
+Circuit affirmed except as to the Fourth Amendment
+claim against petitioner, holding that the warrant was invalid
+because it did not describe with particularity the place to be
+searched and the items to be seized. The court also concluded
+that United States v. Leon, 468 U.S. 897,
+precluded qualified immunity for petitioner because he was the
+leader of a search who did not read the warrant and satisfy
+himself that he understood its scope and limitations and that
+it was not obviously defective.
+
+Held:
+
+ 1. The search
+was clearly “unreasonable” under the Fourth Amendment. 
+Pp. 5—11.
+
+ (a) The
+warrant was plainly invalid. It did not meet the Fourth
+Amendment’s unambiguous requirement that a warrant
+“particularly describ[e] … the persons or things to
+be seized.” The fact that the application adequately
+described those things does not save the warrant; Fourth Amendment
+interests are not necessarily vindicated when another document
+says something about the objects of the search, but that
+document’s contents are neither known to the person whose
+home is being searched nor available for her inspection. It is
+not necessary to decide whether the Amendment permits a warrant
+to cross-reference other documents, because such incorporation
+did not occur here. Pp. 5—6.
+
+ (b) Petiti
+oner’s argument that the search was nonetheless reasonable
+is rejected. Because the warrant did not describe the items
+at all, it was so obviously deficient that the search
+must be regarded as warrantless, and thus presumptively
+unreasonable. This presumptive rule applies to searches whose
+only defect is a lack of particularity in the warrant. 
+Petitioner errs in arguing that such searches should be exempt
+from the presumption if they otherwise satisfy the
+particularity requirement’s goals. Unless items in the
+affidavit are set forth in the warrant, there is no written
+assurance that the Magistrate actually found probable cause for
+a search as broad as the affiant requested. The restraint
+petitioner showed in conducting the instant search was imposed
+by the agent himself, not a judicial officer. Moreover, the
+particularity requirement’s purpose is not limited to
+preventing general searches; it also assures the individual
+whose property is searched and seized of the executing
+officer’s legal authority, his need to search, and the
+limits of his power to do so. This case presents no occasion
+to reach petitioner’s argument that the particularity
+requirements’ goals were served when he orally described
+the items to respondents, because respondents dispute his
+account. Pp. 6—11.
+
+ 2. Petitioner is not entitled to
+qualified immunity despite the constitutional violation because
+“it would be clear to a reasonable officer that his
+conduct was unlawful in the situation he confronted,”
+Saucier v. Katz, 533 U.S. 194, 202. 
+Given that the particularity requirement is stated in the
+Constitution’s text, no reasonable officer could believe
+that a warrant that did not comply with that requirement was
+valid. Moreover, because petitioner prepared the warrant, he
+may not argue that he reasonably relied on the
+Magistrate’s assurance that it contained an adequate
+description and was valid. Nor could a reasonable officer
+claim to be unaware of the basic rule that, absent consent or
+exigency, a warrantless search of a home is presumptively
+unconstitutional. “[A] warrant may be so facially
+deficient … that the executing officers cannot reasonably
+presume it to be valid.” Leon, 468 U.S., at 923. 
+This is such a case. Pp. 11—14.
+
+298 F.3d 1022, affirmed.
+
+ Stevens, J.,
+delivered the opinion of the Court, in which O’Connor,
+Souter, Ginsburg, and Breyer, JJ., joined. Kennedy, J., filed
+a dissenting opinion, in which Rehnquist, C. J., joined. 
+Thomas, J., filed a dissenting opinion, in which Scalia, J.,
+joined, and in which Rehnquist, C. J., joined as to Part
+III.

@@ -1,0 +1,217 @@
+Employee Benefits Security Admin., Labor                  § 2510.3–3
+
+that may be paid with respect to August 1980          SPF = 249.4 − 247.8 × $500 = $3.23
+may be paid at any time after August 31,                            247.8
+1980. The $9.44 that may be paid with respect
+to September 1980 may be paid at any time          SPF for September 1980:
+after September 30, 1980.
+                                                       SPF = 251.7 − 247.8 × $500 = $7.87
+   Example (1)(b). S is the beneficiary of R. Be-                   247.8
+cause R received pension benefits under a
+straight-life annuity, S will receive no sur-         Total = $0.00 + 3.23 + 7.87 = $11.10
+vivor annuity from E after R’s death. S thus
+will have no PBA after R’s death and will not      No supplemental payment may be made as a
+be eligible to receive any supplemental pay-       welfare plan payment with respect to July
+ments from E based on S’s PBA. To the ex-          1980, the month of retirement. The $3.23 that
+tent, however, that R did not receive supple-      may be paid with respect to August 1980 may
+mental payments from E to the maximum              be paid at any time after August 31, 1980. The
+limit allowable under paragraph (g)(1), any        $7.87 that may be paid with respect to Sep-
+amounts not paid to R may be cumulated             tember 1980 may be paid at any time after
+and paid to S after R’s death.                     September 30, 1980.
+
+   Example (2)(a). E is an employer. Q received       Example (2)(b). Q dies on October 15, 1980
+monthly benefits of $500 in the form of a          without having received any supplemental
+joint and survivor annuity under E’s defined       payments from E. T is the beneficiary of Q.
+benefit pension plan since retirement from E       E pays T a survivor’s annuity of $300 begin-
+on July 1, 1980. The amount that E may pay         ning in November of 1980. The amount pay-
+to Q as welfare rather than pension plan pay-      able to T as a survivor annuity under the
+ments with respect to the months of July           plan has not been increased since Q began to
+through September of 1980 is computed as           receive pension benefits. Thus, T’s PBA is
+follows:                                           $300. The amount that E may pay to T as
+                                                   welfare rather than pension plan payments
+SPF for July 1980:                                 with respect to the months of July through
+                                                   November 1980 is computed as follows:
+   SPF = 247.8 − 247.8 × $500 = $0.00
+                247.8                              SPF for July 1980=$0.00
+                                                   SPF for August 1980=$3.23
+SPF for August 1980:                               SPF for September 1980=$7.87
+                                                   SPF for October 1980:
+
+SPF = a − b × PBA = 253.9 − 247.8 × $500 = $12.31
+b                                                  247.8
+
+(Note that T’s ‘‘b’’ is equal to Q’s ‘‘b’’.)       ity. See paragraph (g)(3)(ii)(A)(1) of this sec-                  EC21OC91.043</MATH> EC21OC91.044</MATH> EC21OC91.045</MATH> EC21OC91.046</MATH> EC21OC91.047</MATH>
+SPF for November 1980:                             tion.
+
+  SPF = 256.2 − 247.8 × $300 = $10.17              [40 FR 34530, Aug. 15, 1975, as amended at 44
+                247.8                              FR 11763, Mar. 2, 1979; 44 FR 23527, Apr. 20,
+                                                   1979; 47 FR 50240, Nov. 5, 1982; 47 FR 56847,
+Total that may be paid to T                        Dec. 21, 1982]
+
+The maximum E may pay T with respect to            § 2510.3–3 Employee benefit plan.
+the months of July through November 1980
+as welfare rather than pension plan pay-              (a) General. This section clarifies the
+ments is the sum of those months’ SPFs,            definition in section 3(3) of the term
+which is $33.58.                                   ‘‘employee benefit plan’’ for purposes
+                                                   of title I of the Act and this chapter. It
+   Example (3). Assume the same facts as in        states a general principle which can be
+Example (1)(a), except that R elected to re-       applied to a large class of plans to de-
+ceive a lump-sum distribution rather than a        termine whether they constitute em-
+straight-life annuity. If R is unmarried on        ployee benefit plans within the mean-
+July 1, 1980, R’s PBA is $600 for the remain-      ing of section 3(3) of the Act. Under
+der of R’s life. If R is married to S on July      section 4(a) of the Act, only employee
+1, 1980, the PBAs of R and S are based on the      benefit plans within the meaning of
+annuity that would have been paid under an         section 3(3) are subject to title I.
+election to receive a joint and survivor annu-
+
+   349
+
+VerDate jul<14>2003 09:00 Jul 31, 2003 Jkt 200113 PO 00000 Frm 00349 Fmt 8010 Sfmt 8010 Y:\SGML\200113T.XXX 200113T
+§ 2510.3–3                                  29 CFR Ch. XXV (7–1–03 Edition)
+
+   (b) Plans without employees. For pur-       (1) The date on which the individual
+poses of title I of the Act and this        makes a contribution, whether vol-
+chapter, the term ‘‘employee benefit        untary or mandatory, or
+plan’’ shall not include any plan, fund
+or program, other than an apprentice-          (2) The date designated by the plan as
+ship or other training program, under       the date on which the individual has
+which no employees are participants         satisfied the plan’s age and service re-
+covered under the plan, as defined in       quirements for participation, and
+paragraph (d) of this section. For ex-
+ample, a so-called ‘‘Keogh’’ or ‘‘H.R.         (B) In the case of a plan which does
+10’’ plan under which only partners or      not provide for employee contributions
+only a sole proprietor are participants     and does not define participation to in-
+covered under the plan will not be cov-     clude employees who have not yet re-
+ered under title I. However, a Keogh        tired, the date on which the individual
+plan under which one or more common         completes the first year of employment
+law employees, in addition to the self-     which may be taken into account in de-
+employed individuals, are participants      termining—
+covered under the plan, will be covered
+under title I. Similarly, partnership          (1) Whether the individual is entitled
+buyout agreements described in section      to benefits under the plan, or
+736 of the Internal Revenue Code of 1954
+will not be subject to title I.                (2) The amount of benefits to which
+                                            the individual is entitled,
+   (c) Employees. For purposes of this
+section:                                    whichever results in earlier participa-
+                                            tion.
+   (1) An individual and his or her
+spouse shall not be deemed to be em-           (2)(i) An individual is not a partici-
+ployees with respect to a trade or busi-    pant covered under an employee wel-
+ness, whether incorporated or unincor-      fare plan on the earliest date on which
+porated, which is wholly owned by the       the individual—
+individual or by the individual and his
+or her spouse, and                             (A) Is ineligible to receive any ben-
+                                            efit under the plan even if the contin-
+   (2) A partner in a partnership and his   gency for which such benefit is pro-
+or her spouse shall not be deemed to be     vided should occur, and
+employees with respect to the partner-
+ship.                                          (B) Is not designated by the plan as a
+                                            participant.
+   (d) Participant covered under the plan.
+(1)(i) An individual becomes a partici-        (ii) An individual is not a participant
+pant covered under an employee wel-         covered under an employee pension
+fare benefit plan on the earlier of—        plan or a beneficiary receiving benefits
+                                            under an employee pension plan if—
+   (A) The date designated by the plan
+as the date on which the individual be-        (A) The entire benefit rights of the
+gins participation in the plan;             individual—
+
+   (B) The date on which the individual        (1) Are fully guaranteed by an insur-
+becomes eligible under the plan for a       ance company, insurance service or in-
+benefit subject only to occurrence of       surance organization licensed to do
+the contingency for which the benefit       business in a State, and are legally en-
+is provided; or                             forceable by the sole choice of the indi-
+                                            vidual against the insurance company,
+   (C) The date on which the individual     insurance service or insurance organi-
+makes a contribution to the plan,           zation; and
+whether voluntary or mandatory.
+                                               (2) A contract, policy or certificate
+   (ii) An individual becomes a partici-    describing the benefits to which the in-
+pant covered under an employee pen-         dividual is entitled under the plan has
+sion plan—                                  been issued to the individual; or
+
+   (A) In the case of a plan which pro-        (B) The individual has received from
+vides for employee contributions or de-     the plan a lump-sum distribution or a
+fines participation to include employ-      series of distributions of cash or other
+ees who have not yet retired, on the        property which represents the balance
+earlier of—                                 of his or her credit under the plan.
+
+                                               (3)(i) In the case of an employee pen-
+                                            sion benefit plan, an individual who,
+                                            under the terms of the plan, has in-
+                                            curred a one-year break in service after
+                                            having become a participant covered
+
+            350
+
+VerDate jul<14>2003 09:00 Jul 31, 2003 Jkt 200113 PO 00000 Frm 00350 Fmt 8010 Sfmt 8010 Y:\SGML\200113T.XXX 200113T
+Employee Benefits Security Admin., Labor     § 2510.3–21
+
+under the plan, and who has acquired         investment policies or strategy, overall
+no vested right to a benefit before such     portfolio composition, or diversifica-
+break in service is not a participant        tion of plan investments.
+covered under the plan until the indi-
+vidual has completed a year of service          (2) A person who is a fiduciary with
+after returning to employment covered        respect to a plan by reason of rendering
+by the plan.                                 investment advice (as defined in para-
+                                             graph (c)(1) of this section) for a fee or
+   (ii) For purposes of paragraph (d)(3)(i)  other compensation, direct or indirect,
+of this section, in the case of an em-       with respect to any moneys or other
+ployee pension benefit plan which is         property of such plan, or having any
+subject to section 203 of the Act the        authority or responsibility to do so,
+term ‘‘year of service’’ shall have the      shall not be deemed to be a fiduciary
+same meaning as in section 203(b)(2)(A)      regarding any assets of the plan with
+of the Act and any regulations issued        respect to which such person does not
+under the Act and the term ‘‘one-year        have any discretionary authority, dis-
+break in service’’ shall have the same       cretionary control or discretionary re-
+meaning as in section 203(b)(3)(A) of        sponsibility, does not exercise any au-
+the Act and any regulations issued           thority or control, does not render in-
+under the Act.                               vestment advice (as defined in para-
+                                             graph (c)(1) of this section) for a fee or
+[40 FR 34530, Aug. 15, 1975]                 other compensation, and does not have
+                                             any authority or responsibility to
+§ 2510.3–21 Definition of ‘‘Fiduciary.’’     render such investment advice, pro-
+                                             vided that nothing in this paragraph
+   (a)–(b) [Reserved]                        shall be deemed to:
+   (c) Investment advice. (1) A person
+shall be deemed to be rendering ‘‘in-           (i) Exempt such person from the pro-
+vestment advice’’ to an employee ben-        visions of section 405(a) of the Act con-
+efit plan, within the meaning of section     cerning liability for fiduciary breaches
+3(21)(A)(ii) of the Employee Retirement      by other fiduciaries with respect to any
+Income Security Act of 1974 (the Act)        assets of the plan; or
+and this paragraph, only if:
+   (i) Such person renders advice to the        (ii) Exclude such person from the def-
+plan as to the value of securities or        inition of the term ‘‘party in interest’’
+other property, or makes recommenda-         (as set forth in section 3(14)(B) of the
+tion as to the advisability of investing     Act) with respect to any assets of the
+in, purchasing, or selling securities or     plan.
+other property; and
+   (ii) Such person either directly or in-      (d) Execution of securities transactions.
+directly (e.g., through or together with     (1) A person who is a broker or dealer
+any affiliate)—                              registered under the Securities Ex-
+   (A) Has discretionary authority or        change Act of 1934, a reporting dealer
+control, whether or not pursuant to          who makes primary markets in securi-
+agreement, arrangement or under-             ties of the United States Government
+standing, with respect to purchasing or      or of an agency of the United States
+selling securities or other property for     Government and reports daily to the
+the plan; or                                 Federal Reserve Bank of New York its
+   (B) Renders any advice described in       positions with respect to such securi-
+paragraph (c)(1)(i) of this section on a     ties and borrowings thereon, or a bank
+regular basis to the plan pursuant to a      supervised by the United States or a
+mutual agreement, arrangement or un-         State, shall not be deemed to be a fidu-
+derstanding, written or otherwise, be-       ciary, within the meaning of section
+tween such person and the plan or a fi-      3(21)(A) of the Act, with respect to an
+duciary with respect to the plan, that       employee benefit plan solely because
+such services will serve as a primary        such person executes transactions for
+basis for investment decisions with re-      the purchase or sale of securities on be-
+spect to plan assets, and that such per-     half of such plan in the ordinary course
+son will render individualized invest-       of its business as a broker, dealer, or
+ment advice to the plan based on the         bank, pursuant to instructions of a fi-
+particular needs of the plan regarding       duciary with respect to such plan, if:
+such matters as, among other things,
+
+351
+
+VerDate jul<14>2003 09:00 Jul 31, 2003 Jkt 200113 PO 00000 Frm 00351 Fmt 8010 Sfmt 8010 Y:\SGML\200113T.XXX 200113T
+

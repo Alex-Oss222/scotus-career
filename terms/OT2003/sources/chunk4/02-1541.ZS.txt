@@ -1,0 +1,196 @@
+IOWA V. TOVAR
+
+LII
+
+Supreme Court
+
+IOWA V. TOVAR (02-1541) 
+656 N. W. 2d 112, reversed and remanded.
+Syllabus
+ Opinion
+ [ Ginsburg ]
+
+HTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a
+syllabus (headnote) will be released, as is being done in
+connection with this case, at the time the opinion is
+issued.
+The syllabus constitutes no part of the opinion of
+the Court but has been prepared by the Reporter of Decisions
+for the convenience of the reader.
+See United States
+v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+IOWA v. TOVAR
+
+CERTIORARI TO THE SUPREME COURT OF IOWA
+
+No. 02—1541. Argued January 21, 2004–Decided March 8,
+2004
+
+At respondent Tovar’s November 1996
+arraignment for operating a motor vehicle under the influence
+of alcohol (OWI), in response to the trial court’s
+questions, Tovar affirmed that he wanted to represent himself
+and to plead guilty. Conducting the guilty plea colloquy
+required by the Iowa Rules of Criminal Procedure, the court
+explained that, if Tovar pleaded not guilty, he would be
+entitled to a speedy and public jury trial where he would have
+the right to counsel who could help him select a jury, question
+and cross-examine witnesses, present evidence, and make
+arguments on his behalf. By pleading guilty, the court
+cautioned, Tovar would give up his right to a trial and his
+rights at that trial to be represented by counsel, to remain
+silent, to the presumption of innocence, and to subpoena
+witnesses and compel their testimony. The court then informed
+Tovar of the maximum and minimum penalties for an OWI
+conviction, and explained that, before accepting a guilty plea,
+the court had to assure itself that Tovar was in fact guilty of
+the charged offense. To that end, the court informed Tovar of
+the two elements of the OWI charge: The defendant must
+have (1) operated a motor vehicle in Iowa (2) while
+intoxicated. Tovar confirmed, first, that on the date in
+question, he was operating a motor vehicle in Iowa and, second,
+that he did not dispute the result of the intoxilyzer test
+showing his blood alcohol level exceeded the legal limit nearly
+twice over. The court then accepted his guilty plea and, at a
+hearing the next month, imposed the minimum sentence of two
+days in jail and a fine. In 1998, Tovar was again charged with
+OWI, this time as a second offense, an aggravated misdemeanor
+under Iowa law. Represented by counsel in that proceeding, he
+pleaded guilty. In 2000, Tovar was charged with third-offense
+OWI, a class “D” felony under Iowa law. Again
+represented by counsel, Tovar pleaded not guilty to the felony
+charge. Counsel moved to preclude use of Tovar’s first
+(1996) OWI conviction to enhance his 2000 offense from an
+aggravated misdemeanor to a third-offense felony. Tovar
+maintained that his 1996 waiver of counsel was invalid–not
+fully knowing, intelligent, and voluntary–because he was
+never made aware by the court of the dangers and disadvantages
+of self-representation. The trial court denied the motion,
+found Tovar guilty, and sentenced him on the OWI third-offense
+charge. The Iowa Court of Appeals affirmed, but the Supreme
+Court of Iowa reversed and remanded for entry of judgment
+without consideration of Tovar’s first OWI conviction. 
+Holding that the colloquy preceding acceptance of Tovar’s
+1996 guilty plea had been constitutionally inadequate,
+Iowa’s high court ruled, as here at issue, that two
+warnings not given to Tovar are essential to the “knowing
+and intelligent” waiver of the Sixth Amendment
+right to counsel at the plea stage: The defendant must be
+advised specifically that waiving counsel’s assistance in
+deciding whether to plead guilty (1) entails the risk that a
+viable defense will be overlooked and (2) deprives him of the
+opportunity to obtain an independent opinion on whether, under
+the facts and applicable law, it is wise to plead guilty.
+
+Held: Neither warning ordered by
+the Iowa Supreme Court is mandated by the Sixth Amendment. 
+The constitutional requirement is satisfied when the trial
+court informs the accused of the nature of the charges against
+him, of his right to be counseled regarding his plea, and of
+the range of allowable punishments attendant upon the entry of
+a guilty plea. Pp. 8—15.
+
+ (a) The Sixth Amendment
+secures to a defendant facing incarceration the right to
+counsel at all “critical stages” of the criminal
+process, see, e.g., Maine v. Moulton, 474 U.S. 159, 170,
+including a plea hearing, White v. Maryland, 373 U.S. 59, 60
+(per curiam). Because Tovar received a two-day prison
+term for his first OWI conviction, he had a right to counsel
+both at the plea stage and at trial had he elected to contest
+the charge. Argersinger v. Hamlin, 407 U.S. 25, 34, 37. 
+Although an accused may choose to forgo representation, any
+waiver of the right to counsel must be knowing, voluntary, and
+intelligent, see Johnson v. Zerbst, 304 U.S. 458, 464. 
+The information a defendant must possess in order to make an
+intelligent election depends on a range of case-specific
+factors, including his education or sophistication, the complex
+or easily grasped nature of the charge, and the stage of the
+proceeding. See Johnson, 304 U.S., at 464. Although
+warnings of the pitfalls of proceeding to trial uncounseled
+must be “rigorous[ly]” conveyed, Patterson v.
+Illinois, 487
+U.S. 285, 298; see Faretta v. California, 422 U.S. 806, 835, a
+less searching or formal colloquy may suffice at earlier stages
+of the criminal process, 487 U.S., at 299. In
+Patterson, this Court described a pragmatic approach to
+right-to-counsel waivers, one that asks “what purposes a
+lawyer can serve at the particular stage of the proceedings in
+question, and what assistance [counsel] could provide to an
+accused at that stage.” Id., at 298. Less
+rigorous warnings are required pretrial because, at that stage,
+“the full dangers and disadvantages of self-representation
+… are less substantial and more obvious to an accused than
+they are at trial.” Id., at 299. 
+Pp. 8—11.
+
+ (b) The Sixth Amendment
+does not compel the two admonitions ordered by the Iowa Supreme
+Court. “[T]he law ordinarily considers a waiver knowing,
+intelligent, and sufficiently aware if the defendant fully
+understands the nature of the right and how it would likely
+apply in general in the circumstances
+… .” United States v. Ruiz, 536 U.S. 622, 629. 
+Even if the defendant lacked a full and complete appreciation
+of all of the consequences flowing from his waiver, the State
+may nevertheless prevail if it shows that the information
+provided to the defendant satisfied the constitutional minimum.
+ Patterson, 487 U.S., at 294. The Iowa high court gave
+insufficient consideration to this Court’s guiding
+decisions. In prescribing scripted admonitions and holding
+them necessary in every guilty plea instance, that court
+overlooked this Court’s observations that the information
+a defendant must have to waive counsel intelligently will
+depend upon the particular facts and circumstances in each
+case, Johnson, 304 U.S., at 464. Moreover, as Tovar
+acknowledges, in a collateral attack on an uncounseled
+conviction, it is the defendant’s burden to prove that he
+did not competently and intelligently waive his right to
+counsel. Tovar has never claimed that he did not fully
+understand the 1996 OWI charge or the range of punishment for
+that crime prior to pleading guilty. He has never
+“articulate[d] with precision” the additional
+information counsel could have provided, given the simplicity
+of the charge. See Patterson, 487 U.S., at 294. Nor
+does he assert that he was unaware of his right to be
+counseled prior to and at his arraignment. Before this Court,
+he suggests only that he may have been under the
+mistaken belief that he had a right to counsel at trial, but
+not if he was, instead, going to plead guilty. Given “the
+particular facts and circumstances surrounding [this]
+case,” Johnson, 304 U.S., at 464, it is far from
+clear that warnings of the kind required by the Iowa Supreme
+Court would have enlightened Tovar’s decision whether to
+seek counsel or to represent himself. In a case so
+straightforward, the two admonitions at issue might confuse or
+mislead a defendant more than they would inform him,
+i.e., the warnings might be misconstrued to convey that
+a meritorious defense exists or that the defendant could plead
+to a lesser charge, when neither prospect is a realistic one. 
+If a defendant delays his plea in the vain hope that counsel
+could uncover a tenable basis for contesting or reducing the
+criminal charge, the prompt disposition of the case will be
+impeded, and the resources of either the State (if the
+defendant is indigent) or the defendant himself (if he is
+financially ineligible for appointed counsel) will be wasted. 
+States are free to adopt by statute, rule, or decision any
+guides to the acceptance of an uncounseled plea they deem
+useful, but the Federal Constitution does not require the two
+admonitions here in controversy. Pp. 11—15.
+
+656 N. W. 2d 112, reversed and
+remanded.
+
+ Ginsburg, J.,
+delivered the opinion for a unanimous Court.

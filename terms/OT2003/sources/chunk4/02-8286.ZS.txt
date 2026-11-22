@@ -1,0 +1,401 @@
+BANKS V. DRETKE
+
+LII
+
+Supreme Court
+
+BANKS V. DRETKE (02-8286) 
+48 Fed. Appx. 104, reversed and remanded.
+Syllabus
+ Opinion
+ [ Ginsburg ]Other
+ [ Opinion of Thomas ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a
+syllabus (headnote) will be released, as is being done in
+connection with this case, at the time the opinion is
+issued.
+The syllabus constitutes no part of the opinion of
+the Court but has been prepared by the Reporter of Decisions
+for the convenience of the reader.
+See United States
+v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+BANKS v. DRETKE, DIRECTOR, TEXAS
+DEPARTMENT OF CRIMINAL JUSTICE, CORRECTIONAL 
+INSTITUTIONS
+DIVISION
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE FIFTH CIRCUIT
+
+No. 02—8286. Argued December 8, 2003–Decided February 24,
+2004
+
+After police found a gun-shot corpse near
+Texarkana, Texas, Deputy Sheriff Willie Huff learned that the
+decedent had been seen with petitioner Banks three days
+earlier. When a paid informant told Deputy Huff that Banks was
+driving to Dallas to fetch a weapon, Deputy Huff followed Banks
+to a residence there. On the return trip, police stopped
+Banks’s vehicle, found a handgun, and arrested the
+car’s occupants. Returning to the Dallas residence,
+Deputy Huff encountered Charles Cook and recovered a second
+gun, which Cook said Banks had left at the residence several
+days earlier. On testing, the second gun proved to be the
+murder weapon. Prior to Banks’s trial, the State advised
+defense counsel that, without necessity of motions, the State
+would provide Banks with all discovery to which he was
+entitled. Nevertheless, the State withheld evidence that would
+have allowed Banks to discredit two essential prosecution
+witnesses. At the trial’s guilt phase, Cook testified,
+inter alia, that Banks admitted “kill[ing a] white
+boy.” On cross-examination, Cook thrice denied talking to
+anyone about his testimony. In fact, Deputy Huff and
+prosecutors intensively coached Cook about his testimony during
+at least one pretrial session. The prosecution allowed
+Cook’s misstatements to stand uncorrected. After
+Banks’s capital murder conviction, the penalty-phase jury
+found that Banks would probably commit criminal acts of
+violence that would constitute a continuing threat to society. 
+One of the State’s two penalty-phase witnesses, Robert
+Farr, testified that Banks had retrieved a gun from Dallas in
+order to commit robberies. According to Farr, Banks had said
+he would “take care of it” if trouble arose during
+those crimes. Two defense witnesses impeached Farr, but were,
+in turn, impeached. Banks testified, among other things, that,
+although he had traveled to Dallas to obtain a gun, he had no
+intent to participate in the robberies, which Farr alone
+planned to commit. In summation, the prosecution suggested
+that Banks had not traveled to Dallas only to supply Farr with
+a weapon. Stressing Farr’s testimony that Banks said he
+would “take care” of trouble arising during the
+robberies, the prosecution urged the jury to find Farr
+credible. Farr’s admission that he used narcotics, the
+prosecution suggested, indicated that he had been open and
+honest in every way. The State did not disclose that Farr was
+the paid informant who told Deputy Huff about the Dallas trip. 
+The judge sentenced Banks to death.
+
+ Through
+Banks’s direct appeal, the State continued to hold secret
+Farr’s and Cook’s links to the police. In a 1992
+state-court postconviction motion, Banks alleged for the first
+time that the prosecution knowingly failed to turn over
+exculpatory evidence that would have revealed Farr as a police
+informant and Banks’s arrest as a “set-up.” 
+Banks also alleged that during the trial’s guilt phase,
+the State deliberately withheld information of a deal
+prosecutors made with Cook, which would have been critical to
+the jury’s assessment of Cook’s credibility. Banks
+asserted that the State’s actions violated Brady v.
+Maryland, 373
+U.S. 83, 87, which held that the prosecution’s
+suppression of evidence requested by and favorable to an
+accused violates due process where the evidence is material to
+either guilt or punishment, irrespective of the
+prosecution’s good or bad faith. The State denied
+Banks’s allegations, and the state postconviction court
+rejected his claims.
+
+ In 1996, Banks
+filed the instant federal habeas petition, alleging, as
+relevant, that the State had withheld material exculpatory
+evidence revealing Farr to be a police informant and
+Banks’ arrest as a “set-up.” Banks further
+alleged that the State had concealed Cook’s incentive to
+testify in a manner favorable to the prosecution. Banks
+attached affidavits from Farr and Cook to a February 1999
+motion seeking discovery and an evidentiary hearing. 
+Farr’s declaration stated that he had agreed to help
+Deputy Huff with the murder investigation out of fear Huff
+would arrest him on drug charges; that Huff had paid him $200;
+and that Farr had “set [Banks] up” by convincing him
+to drive to Dallas to retrieve Banks’s gun. Cook recalled
+that he had participated in practice sessions before the Banks
+trial at which prosecutors told him he must either testify as
+they wanted or spend the rest of his life in prison. In
+response to the Magistrate Judge’s disclosure order in the
+federal habeas proceeding, the prosecution gave Banks a
+transcript of a September 1980 pretrial interrogation of Cook
+by police and prosecutors. This transcript provided compelling
+evidence that Cook’s testimony had been tutored, but did
+not bear on whether Cook had a deal with the prosecution. At
+the federal evidentiary hearing Huff acknowledged, for the
+first time, that Farr was an informant paid for his involvement
+in Banks’s case. A Banks trial prosecutor testified,
+however, that no deal had been offered to gain Cook’s
+testimony. The Magistrate Judge recommended a writ of habeas
+corpus with respect to Banks’s death sentence based on,
+inter alia, the State’s failure to disclose
+Farr’s informant status. The judge did not recommend
+disturbing the guilt-phase verdict, concluding in this regard
+that Banks had not properly pleaded a Brady claim based
+on the September 1980 Cook interrogation transcript. The
+District Court adopted the Magistrate Judge’s report and
+rejected Banks’s argument that the Cook transcript claim
+be treated as if raised in the pleadings, under Federal Rule of
+Civil Procedure 15(b).
+
+ The Fifth
+Circuit reversed to the extent the District Court had granted
+relief on Banks’s Farr Brady claim. The Court of
+Appeals recognized that, prior to federal habeas proceedings,
+the prosecution had suppressed Farr’s informant status and
+his part in the Dallas trip. The Fifth Circuit nonetheless
+concluded that Banks did not act diligently to develop the
+facts underpinning his Farr Brady claim when he pursued
+his 1992 state-court postconviction application. That lack of
+diligence, the Court of Appeals held, rendered the evidence
+uncovered in the federal habeas proceeding procedurally barred.
+ In any event, the Fifth Circuit ruled, Farr’s status as
+an informant was not “material” for Brady
+purposes. That was so, in the Fifth Circuit’s judgment,
+because Banks had impeached Farr at trial by bringing out that
+he had been an unreliable police informant in Arkansas, and
+because much of Farr’s testimony was corroborated by other
+witnesses, including Banks himself, who had acknowledged his
+willingness to get a gun for Farr’s use in robberies. The
+Fifth Circuit also denied a certificate of appealability on
+Banks’s Cook Brady claim. In accord with the
+District Court, the Court of Appeals rejected Banks’s
+assertion that, because his Cook Brady claim had been
+aired by implied consent, Rule 15(b) required it to be treated
+as if raised in the pleadings.
+
+Held: The Fifth Circuit erred in
+dismissing Banks’s Farr Brady claim and denying him
+a certificate of appealability on his Cook Brady claim. 
+When police or prosecutors conceal significant exculpatory or
+impeaching material in the State’s possession, it is
+ordinarily incumbent on the State to set the record straight. 
+Pp. 17—34.
+
+ (a) Both of
+Banks’s Brady claims arose under the regime in
+place prior to the Antiterrorism and Effective Death Penalty
+Act of 1996 (AEDPA). P. 17.
+
+ (b) Banks’s Farr Brady
+claim, as it trains on his death sentence, is not barred. All
+three elements of a Brady claim are satisfied as to the
+suppression of Farr’s informant status and its bearing on
+the reliability of the jury’s verdict regarding
+punishment. Because Banks has also demonstrated cause and
+prejudice, he is not precluded from gaining federal habeas
+relief by his failure to produce evidence in anterior
+state-court proceedings. Pp. 17—31.
+
+ (1) Pre-AE
+DPA habeas law required Banks to exhaust available state-court
+remedies in order to pursue federal-court relief. See,
+e.g., Rose v. Lundy, 455 U.S. 509. Banks
+satisfied this requirement by alleging in his 1992 state-court
+habeas application that the prosecution knowingly failed to
+turn over exculpatory evidence about Farr. Banks, however,
+failed to produce evidence in state postconviction court
+establishing that Farr had served as Deputy Sheriff Huff’s
+informant. In the federal habeas forum, Banks must show that
+he was not thereby barred from producing evidence to
+substantiate his Farr Brady claim. Banks would be
+entitled to a federal-court evidentiary hearing if he could
+show both cause for his failure to develop facts in state
+court, and actual prejudice resulting from that failure. 
+Keeney v. Tamayo-Reyes, 504 U.S. 1, 11. A
+Brady prosecutorial misconduct claim has three essential
+elements. Strickler v. Greene, 527 U.S. 263,
+281—282. Beyond debate, the first such element–that
+the evidence at issue be favorable to the accused as
+exculpatory or impeaching–is satisfied here. Farr’s
+paid informant status plainly qualifies as evidence
+advantageous to Banks. Cause and prejudice in this case
+parallel the second and third of the three Brady
+components. Corresponding to the second Brady
+element–that the State suppressed the evidence at
+issue–a petitioner shows cause when the reason for the
+failure to develop facts in state-court proceedings was the
+State’s suppression of the relevant evidence. Coincident
+with the third Brady component–that prejudice
+ensued–prejudice within the compass of the “cause and
+prejudice” requirement exists when suppressed evidence is
+“material” for Brady purposes. Ibid. 
+Thus, if Banks succeeds in demonstrating cause and prejudice,
+he will also succeed in establishing the essential elements of
+his Farr Brady claim. Pp. 17—19.
+
+ (2) Banks
+has shown cause for failing to present evidence in state court
+capable of substantiating his Farr Brady claim. As
+Strickler instructs, 527 U.S., at 289, three inquiries
+underlie the “cause” determination: (1) whether the
+prosecution withheld exculpatory evidence; (2) whether the
+petitioner reasonably relied on the prosecution’s open
+file policy as fulfilling the prosecution’s duty to
+disclose such evidence; and (3) whether the State confirmed the
+petitioner’s reliance on that policy by asserting during
+the state habeas proceedings that the petitioner had already
+received everything known to the government. This case is
+congruent with Strickler in all three respects. First,
+the State knew of, but kept back, Farr’s arrangement with
+Deputy Huff. Cf. Kyles v. Whitley, 514 U.S. 419, 437. 
+Second, the State asserted, on the eve of trial, that it would
+disclose all Brady material. Banks cannot be faulted
+for relying on that representation. See Strickler, 527
+U.S., at 283—284. Third, in its answer to Banks’s
+1992 state habeas application, the State denied Banks’s
+assertions that Farr was a police informant and Banks’s
+arrest a “set-up.” The State thereby confirmed
+Banks’s reliance on the prosecution’s representation
+that it had disclosed all Brady material. In this
+regard, Banks’s case is stronger than was the Strickler
+petitioner’s: Each time Farr misrepresented his
+dealings with police, the prosecution allowed that testimony to
+stand uncorrected. Cf. Giglio v. United States,
+405 U.S. 150, 153.
+ Banks appropriately assumed police would not engage in
+improper litigation conduct to obtain a conviction. None of
+the State’s arguments for distinguishing Strickler
+on the “cause” issue accounts adequately for the
+State’s concealment and misrepresentation of Farr’s
+link to Huff. In light of those misrepresentations, Banks did
+not lack appropriate diligence in pursuing the Farr
+Brady claim in state court. Nor is Banks at fault for
+failing to move, in the 1992 state-court postconviction
+proceedings, for investigative assistance so that he could
+inquire into Farr’s police connections, for state law
+entitled him to no such aid. Further, Roviaro v.
+United States, 353 U.S. 53, which
+concerned the Government’s obligation to reveal the
+identity of an informant it does not call as a witness, does
+not support the State’s position. 
+Pp. 19—26.
+
+ (3) The
+State’s suppression of Farr’s informant status is
+“material” for Brady purposes. The
+materiality standard for Brady claims is met when
+“the favorable evidence could reasonably be taken to put
+the whole case in such a different light as to undermine
+confidence in the verdict.” Kyles, 514 U.S., at
+435. Farr was paid for a critical role in the scenario that
+led to Banks’s indictment. Farr’s declaration,
+presented to the federal habeas court, asserts that Farr, not
+Banks, initiated the proposal to obtain a gun to facilitate
+robberies. Had Farr not instigated, upon Deputy Huff’s
+request, the Dallas excursion to fetch Banks’s gun, the
+prosecution would have had slim, if any, evidence that Banks
+planned to continue committing violent acts. Farr’s
+admission of his instigating role, moreover, would have
+dampened the prosecution’s zeal in urging the jury to
+consider Banks’s acquisition of a gun to commit robbery or
+his “planned violence.” Because Banks had no
+criminal record, Farr’s testimony about Banks’s
+propensity to violence was crucial to the prosecution. Without
+that testimony, the State could not have underscored to the
+jury that Banks would use the gun fetched in Dallas to
+“take care” of trouble arising during robberies. The
+stress placed by the prosecution on this part of Farr’s
+testimony, uncorroborated by any other witness, belies the
+State’s suggestion that Farr’s testimony was
+adequately corroborated. The prosecution’s penalty-phase
+summation, moreover, left no doubt about the importance the
+State attached to Farr’s testimony. In contrast to
+Strickler, where the Court found “cause,” 527
+U.S., at 289, but no “prejudice,” id., at
+292—296, the existence of “prejudice” in this
+case is marked. Farr’s trial testimony was the
+centerpiece of the Banks prosecution’s penalty-phase case.
+ That testimony was cast in large doubt by the declaration
+Banks ultimately obtained from Farr and introduced in the
+federal habeas proceeding. Had jurors known of Farr’s
+continuing interest in obtaining Deputy Huff’s favor and
+his receipt of funds to set Banks up, they might well have
+distrusted Farr’s testimony, and, insofar as it was
+uncorroborated, disregarded it. The jury, moreover, did not
+benefit from customary, truth-promoting precautions that
+generally accompany informant testimony. Such testimony poses
+serious credibility questions. This Court, therefore, has long
+allowed defendants broad latitude to cross-examine informants
+and has counseled the use of careful instructions on submission
+of the credibility issue to the jury. See, e.g., On Lee
+v. United States, 343 U.S. 747, 757. 
+The State’s argument that Farr’s informant status was
+rendered cumulative by his impeachment at trial is contradicted
+by the record. Neither witness called to impeach Farr gave
+evidence directly relevant to Farr’s part in Banks’s
+prosecution. The impeaching witnesses, moreover, were
+themselves impeached, as the prosecution stressed on summation.
+ Further, the prosecution turned to its advantage remaining
+impeachment evidence by suggesting that Farr’s admission
+of drug use demonstrated his openness and honesty. 
+Pp. 26—31.
+
+ (c) The
+lower courts wrongly denied Banks a certificate of
+appealability with regard to his Brady claim resting on
+the prosecution’s suppression of the September 1980 Cook
+interrogation transcript. The Court of Appeals rejected
+Banks’s contention that Rule 15(b) required the claim to
+be treated as having been raised in the pleadings because the
+transcript substantiating the claim had been aired at an
+evidentiary hearing before the Magistrate Judge. The Fifth
+Circuit apparently relied on the debatable view that Rule 15(b)
+is inapplicable in habeas proceedings. This Court has twice
+assumed that Rule’s application in such proceedings. 
+Harris v. Nelson, 394 U.S. 286, 294,
+n. 5; Withrow v. Williams, 507 U.S. 680, 696,
+and n. 7. The Withrow District Court had granted
+habeas on a claim neither pleaded, considered at “an
+evidentiary hearing,” nor “even argu[ed]” by the
+parties. Id., at 695. This Court held that there had
+been no trial of the claim by implied consent; and manifestly,
+the respondent warden was prejudiced by the lack of opportunity
+to present evidence bearing on the claim’s resolution. 
+Id., at 696. Here, in contrast, the issue of the
+undisclosed Cook interrogation transcript was aired at a
+hearing before the Magistrate Judge, and the transcript was
+admitted into evidence without objection. The Fifth
+Circuit’s view that an evidentiary hearing should not be
+aligned with a trial for Rule 15(b) purposes is not well
+grounded. Nor does this Court agree with the Court of Appeals
+that applying Rule 15(b) in habeas proceedings would undermine
+the State’s exhaustion and procedural default defenses. 
+Ibid. Under pre-AEDPA law, no inconsistency arose
+between Rule 15(b) and those defenses. Doubtless, that is why
+this Court’s pre-AEDPA cases assumed Rule 15(b)’s
+application in habeas proceedings. See, e.g., ibid. 
+While AEDPA forbids a finding that exhaustion has been waived
+absent an express waiver by the State, 28 U.S.C. §
+2254(b)(3), pre-AEDPA law allowed waiver of both
+defenses–exhaustion and procedural default–based on
+the State’s litigation conduct, see, e.g., Gray v.
+Netherland, 518
+U.S. 152, 166. To obtain a certificate of appealability, a
+prisoner must demonstrate that reasonable jurists could
+disagree with the district court’s resolution of his
+constitutional claims or that the issues presented warrant
+encouragement to proceed further. Miller-El v.
+Cockrell, 537
+U.S. 322, 327. This case fits that description as to the
+application of Rule 15(b). Pp. 31—34.
+
+48 Fed. Appx. 104, reversed and remanded.
+
+ Ginsburg, J.,
+delivered the opinion of the Court, in which Rehnquist,
+C. J., and Stevens, O’Connor, Kennedy, Souter, and
+Breyer, JJ., joined, and in which Scalia and Thomas, JJ.,
+joined as to Part III. Thomas, J., filed an opinion concurring
+in part and dissenting in part, in which Scalia, J.,
+joined.

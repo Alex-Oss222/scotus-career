@@ -1,0 +1,279 @@
+RAYMOND B. YATES, M.D., P.C. PROFIT SHARINGPLAN V. HENDON
+
+LII
+
+Supreme Court
+
+RAYMOND B. YATES, M.D., P.C. PROFIT SHARINGPLAN V. HENDON (02-458) 
+287 F.3d 521, reversed and remanded.
+Syllabus
+ Opinion
+ [ Ginsburg ]Concurrence
+ [ Scalia ]Concurrence
+ [ Thomas ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a
+syllabus (headnote) will be released, as is being done in
+connection with this case, at the time the opinion is
+issued.
+The syllabus constitutes no part of the opinion of
+the Court but has been prepared by the Reporter of Decisions
+for the convenience of the reader.
+See United States
+v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+RAYMOND B. YATES, M. D., P. C. PROFIT
+SHARING PLAN et al. v. HENDON, TRUSTEE
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE SIXTH CIRCUIT
+
+No. 02—458. 
+Argued January 13, 2004–Decided March 2, 2004
+
+Enacted “to protect … the interests
+of participants in employee benefit plans and their
+beneficiaries,” 29 U.S.C. §
+1001(b), the Employee Retirement Income Security Act of
+1974 (ERISA) comprises four titles. Relevant here, Title I, 29
+U.S. C. §1001 et seq., mandates minimum
+participation, vesting, and funding schedules for covered
+pension plans, and establishes fiduciary conduct standards for
+plan administrators. Title II, codified in 26 U.S. C., amended
+various Internal Revenue Code (IRC) provisions pertaining to
+qualification of pension plans for special tax treatment, in
+order, inter alia, to conform to Title I’s
+standards. Title III, 29 U.S. C. §1201 et seq.,
+contains provisions designed to coordinate enforcement efforts
+of different federal departments. Title IV, 29 U.S.C. §
+1301 et seq., created the Pension Benefit Guaranty
+Corporation and an insurance program to protect employees
+against the loss of “nonforfeitable” benefits upon
+termination of pension plans lacking sufficient funds to pay
+benefits in full. This case concerns Title I’s definition
+and coverage provisions, though those provisions, indicating
+who may participate in an ERISA-sheltered plan, inform each of
+ERISA’s four titles. Title I defines “employee
+benefit plan” as “an employee welfare benefit plan or
+an employee pension benefit plan or … both,”
+§1002(3); “participant” to encompass “any
+employee … eligible to receive a benefit … from an
+employee benefit plan,” §1002(7);
+“employee” as “any individual employed by an
+employer,” §1002(6); and “employer” to
+include “any person acting … as an employer, or
+… in the interest of an employer,” §1002(5).
+
+ Yates was sole
+shareholder and president of a professional corporation that
+maintained a profit sharing plan (Plan). From the Plan’s
+inception, at least one person other than Yates or his wife was
+a Plan participant. The Plan qualified for favorable tax
+treatment under IRC §401. As required by the IRC, 26 U.S.C. §
+401(a)(13), and ERISA, 29 U.S. C. §1056(d), the Plan
+contained an anti-alienation provision. Entitled
+“Spendthrift Clause,” the provision stated, in
+relevant part: “Except for … loans to
+Participants as [expressly provided for in the Plan], no
+benefit or interest available hereunder will be subject to
+assignment or alienation.” In December 1989, Yates
+borrowed $20,000 from another of his corporation’s pension
+plans (which later merged into the Plan), but failed to make
+any of the required monthly payments. In November 1996,
+however, Yates paid off the loan in full with the proceeds of
+the sale of his house. Three weeks later, Yates’s
+creditors filed an involuntary petition against him under
+Chapter 7 of the Bankruptcy Code. Respondent Hendon, the
+Bankruptcy Trustee, filed a complaint against petitioners (the
+Plan and Yates, as Plan trustee), asking the Bankruptcy Court
+to avoid the loan repayment. Granting Hendon summary judgment,
+the Bankruptcy Court first determined that the repayment
+qualified as a preferential transfer under 11 U.S.C. §
+547(b). That finding was not challenged on appeal. The
+Bankruptcy Court then held that the Plan and Yates, as Plan
+trustee, could not rely on the Plan’s anti-alienation
+provision to prevent Hendon from recovering the loan repayment
+for the bankruptcy estate. That holding was dictated by Sixth
+Circuit precedent, under which a self-employed owner of a
+pension plan’s corporate sponsor could not
+“participate” as an “employee” under ERISA
+and therefore could not use ERISA’s provisions to enforce
+the restriction on transfer of his beneficial interest in the
+plan. The District Court and the Sixth Circuit affirmed on the
+same ground. The Sixth Circuit’s determination that Yates
+was not a “participant” in the Plan for ERISA
+purposes obviated the question whether, had Yates qualified as
+such a participant, his loan repayment would have been shielded
+from the Bankruptcy Trustee’s reach.
+
+Held: The working owner of a
+business (here, the sole shareholder and president of a
+professional corporation) may qualify as a
+“participant” in a pension plan covered by ERISA. If
+the plan covers one or more employees other than the business
+owner and his or her spouse, the working owner may participate
+on equal terms with other plan participants. Such a working
+owner, in common with other employees, qualifies for the
+protections ERISA affords plan participants and is governed by
+the rights and remedies ERISA specifies. 
+Pp. 8—20.
+
+ (a) Congress
+intended working owners to qualify as plan participants. 
+Because ERISA’s definitions of “employee” and,
+in turn, “participant” are uninformative, the Court
+looks to other ERISA provisions for instruction. See
+Nationwide Mut. Ins. Co. v. Darden, 503 U.S. 318, 323. 
+ERISA’s multiple textual indications that Congress
+intended working owners to qualify as plan participants
+provide, in combination, “specific guidance,”
+ibid., so there is no cause in this case to resort to
+common law. ERISA’s enactment in 1974 did not change the
+existing backdrop of IRC provisions permitting corporate
+shareholders, partners, and sole proprietors to participate in
+tax-qualified pension plans. Rather, Congress’ objective
+was to harmonize ERISA with these longstanding tax provisions. 
+Title I of ERISA and related IRC provisions expressly
+contemplate the participation of working owners in covered
+benefit plans. Most notably, Title I frees certain plans in
+which working owners likely participate from all of
+ERISA’s fiduciary responsibility requirements. See 29 U.S.C. §
+1101(a) and 26
+U.S.C. § 414(q)(1)(A) and 416(i)(1)(B)(i). Title I
+also contains more limited exemptions from ERISA’s
+fiduciary responsibility requirements for plans that ordinarily
+include working owners as participants. See 29 U.S.C. §
+1103(a) and (b)(3)(A) and 26 U.S.C. §
+401(c)(1) and (2)(A)(i), 1402(a) and (c). Further, Title I
+contains exemptions from ERISA’s prohibited transaction
+exemptions, which, like the fiduciary responsibility
+exemptions, indicate that working owners may participate in
+ERISA-qualified plans. See 29 U.S. C.
+§§1108(b)(1)(B) and (d)(1) and 26 U.S.C. §
+401(c)(3). Exemptions of this order would be unnecessary
+if working owners could not qualify as participants in
+ERISA-protected plans in the first place. Provisions of Title
+IV of ERISA are corroborative. For example, Title IV does not
+apply to plans “established and maintained
+exclusively for substantial owners,”
+§1321(b)(9) (emphasis added), a category that includes
+sole proprietors and shareholders and partners with a ten
+percent or greater ownership interest, §1322(b)(5)(A). 
+But Title IV does cover plans in which substantial owners
+participate along with other employees. See
+§1322(b)(5)(B). Particularly instructive, Title IV and
+the IRC, as amended by Title II, clarify a key point missed by
+several lower courts: Under ERISA, a working owner may
+wear two hats, i.e., he can be an employee entitled to
+participate in a plan and, at the same time, the employer who
+established the plan. See §1301(b)(1) and 26 U.S. C.
+§401(c)(4). Congress’ aim to promote and facilitate
+employee benefit plans is advanced by the Court’s reading
+of ERISA’s text. The working employer’s opportunity
+personally to participate and gain ERISA coverage serves as an
+incentive to the creation of plans that will benefit employer
+and nonowner employees alike. Treating the working owner as a
+participant in an ERISA-sheltered plan also avoids the anomaly
+that the same plan will be controlled by discrete regimes:
+federal-law governance for the nonowner employees; state-law
+governance for the working owner. Excepting working owners
+from ERISA’s coverage is hardly consistent with the
+statutory goal of “uniform national treatment of pension
+benefits,” Patterson v. Shumate, 504 U.S. 753, 765,
+and would generate administrative difficulties. A 1999
+Department of Labor advisory opinion (hereinafter Advisory
+Opinion 99—04A) accords with the Court’s
+comprehension of Title I’s definition and coverage
+provisions. Concluding that working owners may qualify as
+participants in ERISA-protected plans, the Department’s
+opinion reflects a “body of experience and informed
+judgment to which courts and litigants may properly resort for
+guidance.” Skidmore v. Swift & Co., 323 U.S. 134, 140. 
+Pp. 8—14.
+
+ (b) This
+Court rejects the lower courts’ position that a working
+owner may rank only as an “employer” and not also as
+an “employee” for purposes of ERISA-sheltered plan
+participation. The Sixth Circuit’s leading decision in
+point relied, in large part, on an incorrect reading of a
+portion of a Department of Labor regulation, 29 CFR §
+2510.3—3, which states: “[T]he term
+‘employee benefit plan’ [as used in Title I] shall
+not include any plan … under which no employees are
+participants”; “[f]or purposes of this
+section,” “an individual and his or her spouse
+shall not be deemed to be employees with respect to a …
+business” they own. (Emphasis added.) In common with
+other Courts of Appeals that have held working owners do not
+qualify as participants in ERISA-governed plans, the Sixth
+Circuit apparently understood the regulation to provide a
+generally applicable definition of “employee,”
+controlling for all Title I purposes. The Labor
+Department’s Advisory Opinion 99—04A, however,
+interprets the regulation to mean that the statutory term
+“employee benefit plan” does not include a plan whose
+only participants are the owner and his or her spouse,
+but does include a plan that covers as participants one or more
+common-law employees, in addition to the self-employed
+individuals. This agency view, overlooked by the Sixth
+Circuit, merits the Judiciary’s respectful consideration. 
+Cf. Clackamas Gastroenterology Assoc., P. C.,
+538 U.S., at ___. Moreover, the Department’s
+regulation itself reveals the definitional prescription’s
+limited scope. The prescription describes
+“employees” only “[f]or purposes of this
+section,” i.e., the section defining “employee
+benefit plans.” Accordingly, the regulation addresses
+only what plans qualify as “employee benefit plans”
+under ERISA’s Title I. Plans that cover only sole owners
+or partners and their spouses, the regulation instructs, fall
+outside Title I’s domain, while plans that cover working
+owners and their nonowner employees fall entirely within
+ERISA’s compass. The Sixth Circuit’s leading
+decision also mistakenly relied on ERISA’s
+“anti-inurement” provision, 29 U.S. C.
+§1103(c)(1), which states that plan assets shall not inure
+to the benefit of employers. Correctly read, that provision
+does not preclude Title I coverage of working owners as plan
+participants. It demands only that plan assets be held to
+supply benefits to plan participants. Its purpose is to apply
+the law of trusts to discourage abuses such as self-dealing,
+imprudent investment, and misappropriation of plan assets, by
+employers and others. Those concerns are not implicated by
+paying benefits to working owners who participate on an equal
+basis with nonowner employees in ERISA-protected plans. This
+Court expresses no opinion as to whether Yates himself, in his
+handling of loan repayments, engaged in conduct inconsistent
+with the anti-inurement provision, an issue not yet reached by
+the courts below. Pp. 14—20.
+
+ (c) Given
+the undisputed fact that Yates failed to honor his loan’s
+periodic repayment requirements, these questions should be
+addressed on remand: (1) Did the November 1996
+close-to-bankruptcy repayments, despite the prior defaults,
+become a portion of Yates’s interest in the Plan that is
+excluded from his bankruptcy estate and (2) if so, were the
+repayments beyond the reach of the Bankruptcy Trustee’s
+power to avoid and recover preferential transfers? P. 20.
+
+287 F.3d 521, reversed and remanded.
+
+ Ginsburg, J.,
+delivered the opinion of the Court, in which Rehnquist,
+C. J., and Stevens, O’Connor, Kennedy, Souter, and
+Breyer, JJ., joined. Scalia, J., and Thomas, J., each filed an
+opinion concurring in the judgment.

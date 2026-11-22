@@ -1,0 +1,42 @@
+# OT2003 chunk 4 — case 45 independent commitments
+
+**Stage:** Independent non-Chief modeling; frozen after the clean neutral validation receipt and before historical reconciliation or assembly.
+**Case:** Doe v. Chao, No. 02-1377.
+**Event and research cutoff:** February 24, 2004.
+**Permitted sources:** Frozen Section I packet, preparation and neutral supplement, case 45 primary statutory supplement, common entering-law index and case 45 slice. No target disposition, comparator or private Chief material was supplied or opened. General model knowledge is not claimed to have been erased.
+**Participation:** All eight Associates participate; proper review is accepted under the authorized premise. No Chief vote is modeled.
+
+## Disposition and proposition coalitions
+
+O'Connor, Scalia, Kennedy, Souter and Thomas affirm the Fourth Circuit's removal of Doe's $1,000 award. They join in full the rule that recovery of the minimum under 5 U.S.C. section 552a(g)(4)(A) requires proof of some actual damages caused by the intentional or willful violation. Stevens, Ginsburg and Breyer reverse and reinstate the minimum because the uncontested adverse effect and culpability establish statutory entitlement to that floor without an additional actual-damages showing.
+
+All eight keep the granted question separate from the definition of compensable actual damages and the evidentiary sufficiency of an emotional-loss claim. Those questions are outside the grant supplied here. No Justice's judgment depends on classifying all emotional injury as noncompensable. MacArthur's adverse-effect holding remains fully operative and does not determine this reserved monetary threshold.
+
+## Competing supported constructions
+
+**Actual-damages prerequisite.** Subsection (g)(1)(D) authorizes an action upon a violation adversely affecting an individual. Subsection (g)(4) separately establishes monetary liability for an intentional or willful violation and specifies an amount equal to actual damages sustained as a result of the failure, with a $1,000 floor for a person entitled to recovery. The natural referent of entitlement in the proviso is the actual-damages authorization it qualifies. A floor increases the amount for a claimant within the authorized recovery class; it does not erase the class's actual-loss condition. Costs and reasonable attorney fees under (g)(4)(B) are a separate component of the statutory formula and do not turn the minimum into automatic compensation for adverse effect alone.
+
+The strongest objection is that the preceding liability language already makes every intentionally injured plaintiff entitled to recovery, leaving the minimum to do the work of compensating difficult-to-quantify privacy injury. The response distinguishes standing to sue and adverse effect from the specified compensatory entitlement, as MacArthur expressly requires. Actual damages may be small and still yield the floor, so this reading does not make the minimum redundant. The original Act's direction that the Commission study whether the Government should be liable for general damages supports caution about treating the enacted floor as a substitute for proof of any actual loss. That study instruction is supporting context, not an independent damages prohibition or a definition of emotional injury. Lamie's enacted-eligibility analysis reinforces the separation between entitlement and amount without deciding the Privacy Act's words.
+
+**Independent statutory floor.** Subsection (g)(4)'s opening liability command attaches to the intentional or willful violation of subsection (g)(1)(C) or (D). Within that eligible class, actual damages ordinarily set the award, but the proviso guarantees no less than $1,000. Adverse effect and culpability remain real limits: the interpretation does not pay every technical violation. The floor addresses the difficulty of proving or valuing a concrete privacy injury and supplies an expressly enacted remedy, rather than an inferred constitutional action.
+
+The strongest objection is the proviso's placement after actual damages and Congress's study of general damages. The response is that the proviso is an alternative minimum within the very amount Congress specified, and the study of broader general-damages liability does not repeal the fixed floor already enacted. MacArthur's reservation leaves this construction available; its refusal to conflate adverse effect and actual damages does not say which condition activates the separately written minimum. This path preserves the statutory loss inquiry when a plaintiff seeks more than the minimum.
+
+## Justice-specific commitments and join limits
+
+| Justice | Disposition and sufficient ground | Justice-specific date-eligible support; actual barrier |
+|---|---|---|
+| Stevens | Reverse; full join to the independent-floor construction and reinstatement. | His MacArthur Part II and remedial joins recognize personal statutory harm while keeping the express remedy separate. His Lamie concurrence requires contextual attention to a genuine textual ambiguity. Here the enacted minimum and opening liability clause provide the authorization absent in Lamie's recipient list. He will not join a construction making the proviso unavailable until separately quantified loss is shown. |
+| O'Connor | Affirm; full join to the prerequisite construction. | Joined MacArthur's adverse-effect rule and all-Associate remedial separation; joined Lamie's enacted-entitlement rationale. Her recognition of personal nonpecuniary adverse effect does not convert it into the reserved monetary showing. |
+| Scalia | Affirm; full join to the prerequisite construction. | Reserved MacArthur's adverse-effect expansion but joined its independent-remedy rule; joined Lamie's text-and-structure ground. The proviso modifies the actual-damages authorization. The statutory study may confirm that reading; the construction does not depend on unenacted recommendations. |
+| Kennedy | Affirm; full join. | Joined MacArthur's distinct adverse-effect and monetary requirements and Lamie's operative eligibility rule. A substantial personal injury can support the action while the enacted damages category still limits recovery. |
+| Souter | Affirm; full join. | Joined MacArthur's separate statutory/remedial inquiries and both Lamie's lead and contextual concurrence. The complete damages formula and the contemporaneous study direction support the actual-loss prerequisite even after contextual inquiry. His Lamie qualification does not demand a more generous recovery when the contextual evidence supports the enacted limitation. |
+| Thomas | Affirm; full join. | Joined MacArthur's independent-remedy holding and authored Lamie's eligibility analysis. Entitlement under the operative payment provision precedes calculation of the minimum. |
+| Ginsburg | Reverse; full join to the independent-floor construction and reinstatement. | Joined MacArthur's personal adverse-effect and separate-relief holdings. Her Lamie lead join enforces the enacted authorization; here the opening liability clause and express minimum together supply it. The qualifying violation class is established without converting every privacy violation into automatic liability. |
+| Breyer | Reverse; full join to the independent-floor construction and reinstatement. | Authored MacArthur, retaining both actual personal injury and separately authorized monetary relief, and joined Lamie's contextual concurrence. The minimum's practical compensatory function and the statute's integrated formula make it an express alternative measure within the qualified liability class. |
+
+## Remedy and downstream scope
+
+For the five affirming Associates, the reviewed monetary denial stands because the granted question accepts the Fourth Circuit's inadequate actual-damages showing and asks whether proof is necessary at all. For the three reversing Associates, the district court's $1,000 award is restored on the uncontested intentional-or-willful violation and adverse effect. Neither path reopens prospective relief or other claimants' judgments. The separate-writing function is the opposing construction of the express floor, with its statutory grounds and record consequence; assignment and final opinion form remain for assembly.
+
+**Source-validation receipt:** [Fresh neutral validation](OT_2003CHUNK4_NEUTRAL_VALIDATION.md) reviewed before freeze; its case-specific limits are reflected above. No substantive change to the provisional conclusions was needed.

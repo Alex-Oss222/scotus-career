@@ -1,0 +1,132 @@
+[
+  {
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep540/usrep540544/usrep540544.pdf",
+    "file": "03-374.official.pdf",
+    "chars": 14689,
+    "pages": 7
+  },
+  {
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep540/usrep540551/usrep540551.pdf",
+    "file": "02-811.official.pdf",
+    "chars": 64621,
+    "pages": 30
+  },
+  {
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep540/usrep540581/usrep540581.pdf",
+    "file": "02-1080.official.pdf",
+    "chars": 72747,
+    "pages": 33
+  },
+  {
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep540/usrep540614/usrep540614.pdf",
+    "file": "02-1377.official.pdf",
+    "chars": 64995,
+    "pages": 30
+  },
+  {
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep540/usrep540644/usrep540644.pdf",
+    "file": "02-1348.official.pdf",
+    "chars": 51247,
+    "pages": 24
+  },
+  {
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep540/usrep540668/usrep540668.pdf",
+    "file": "02-8286.official.pdf",
+    "chars": 96958,
+    "pages": 44
+  },
+  {
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep540/usrep540712/usrep540712.pdf",
+    "file": "02-1315.official.pdf",
+    "chars": 53119,
+    "pages": 24
+  },
+  {
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep540/usrep540736/usrep540736.pdf",
+    "file": "02-1290.official.pdf",
+    "chars": 27765,
+    "pages": 13
+  },
+  {
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep540/usrep540749/usrep540749.pdf",
+    "file": "02-9065.official.pdf",
+    "chars": 14646,
+    "pages": 8
+  },
+  {
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep541/usrep541001/usrep541001.pdf",
+    "file": "02-458.official.pdf",
+    "chars": 56849,
+    "pages": 26
+  },
+  {
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep541/usrep541027/usrep541027.pdf",
+    "file": "02-964.official.pdf",
+    "chars": 17590,
+    "pages": 9
+  },
+  {
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep541/usrep541036/usrep541036.pdf",
+    "file": "02-9410.official.pdf",
+    "chars": 89553,
+    "pages": 41
+  },
+  {
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep541/usrep541077/usrep541077.pdf",
+    "file": "02-1541.official.pdf",
+    "chars": 39152,
+    "pages": 18
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/02-8286.ZX.html",
+    "file": "02-8286.ZX.txt",
+    "chars": 10929
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/02-1315.ZO.html",
+    "file": "02-1315.ZO.txt",
+    "chars": 23710
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/02-964.ZD.html",
+    "file": "02-964.ZD.txt",
+    "chars": 1315
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/02-964.ZO.html",
+    "file": "02-964.ZO.txt",
+    "chars": 11330
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/02-9410.ZC.html",
+    "file": "02-9410.ZC.txt",
+    "chars": 16606
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/02-9410.ZO.html",
+    "file": "02-9410.ZO.txt",
+    "chars": 66042
+  },
+  {
+    "url": "https://www.ca5.uscourts.gov/opinions/pub/00/00-10569.cr2.wpd.pdf",
+    "file": "mcfarland.official.pdf",
+    "chars": 179300,
+    "pages": 97
+  },
+  {
+    "url": "https://openjurist.org/332/f3d/134/leebaert-v-a-harrington",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://openjurist.org/324/f3d/880/freedom-from-religion-foundation-inc-v-mccallum",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://caselaw.findlaw.com/court/us-2nd-circuit/1158475.html",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://caselaw.findlaw.com/court/us-7th-circuit/1047437.html",
+    "error": "HTTP Error 403: Forbidden"
+  }
+]
