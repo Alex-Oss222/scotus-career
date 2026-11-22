@@ -12344,7 +12344,7 @@ The two necessary saving conditions also permit regulation of nonexempt self-ins
 
 **Current rule:** A state or local mandatory emissions criterion for new motor vehicles or engines covered by §209(a) can adopt or enforce a prohibited standard even when it commands purchasers rather than manufacturers or sellers. The substantive criterion and its enforcement mechanism are distinct. Existing commercial availability, absence of a newly invented product or absence of a new numerical limit does not itself exclude a covered regulatory standard. The court must establish coverage and apply the statute to each actual criterion, covered vehicle and legally available qualification.
 
-**Authority by component:** [Engine Manufacturers Association v. South Coast Air Quality Management District, April 28, 2004, sole controlling holding; eight direct joins, Souter dissenting](../terms/OT2003/records/engine_manufacturers_association_v_south_coast_air_quality_management_district_merits_2004-04-28.md#holdings).
+**Authority by component:** [Engine Manufacturers Association v. South Coast Air Quality Management District, April 28, 2004, sole controlling holding; eight direct joins, Souter concurring in the judgment only](../terms/OT2003/records/engine_manufacturers_association_v_south_coast_air_quality_management_district_merits_2004-04-28.md#holdings).
 
 **Present operation effective:** April 28, 2004.
 

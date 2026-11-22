@@ -14508,7 +14508,7 @@ For the other questions in this decision, see Criminal Procedure: Sentencing and
 
 **Proposition-level authority:** Souter's factual-development portion, joined by all nine Justices.
 
-**Independent alternative holding:** Even if ?2254(e)(2) applies to this pending capital application, it supplies no hearing bar because the supported concealment and reasonable efforts do not establish applicant-attributed failure to develop the facts. An incomplete state record and later successful discovery alone do not satisfy that trigger.
+**Independent alternative holding:** Even if §2254(e)(2) applies to this pending capital application, it supplies no hearing bar because the supported concealment and reasonable efforts do not establish applicant-attributed failure to develop the facts. An incomplete state record and later successful discovery alone do not satisfy that trigger.
 
 **Proposition-level authority for alternative holding:** Souter's factual-development portion, joined by all nine Justices.
 

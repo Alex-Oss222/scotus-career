@@ -11,7 +11,7 @@ Stone-Zsela expressly reverses and remands, joins the deliberate-elicitation hol
 
 The reconciled proof addendum expressly permits reverse-and-remand terminology without changing the eight Associates' substantive disposition. That verb follows Stone's approved position and expresses the error in the lower legal framework. The mandate retains initial exclusion, requires the causal inquiry and any properly preserved harmlessness inquiry, and supplies the conditional new-trial consequence. Ordinary direct-review application does not create a collateral reopening rule.
 
-The Scalia/Thomas joint judgment concurrence has a substantive function: valid later choice and the difference between a valid arrest and Brown's unlawful-custody setting justify withholding the new universal attenuation formulation, while the wrong lower framework independently requires remand. Scalia and Thomas remain placeholders. No categorical Elstad-based affirmance survives reconciliation. The causal standard's broader doctrinal resolution, compared with historical first-instance remand, is recorded in the mechanically incorporated audit.
+The Scalia/Thomas joint judgment concurrence has a substantive function: valid later choice and the difference between a valid arrest and Brown's unlawful-custody setting justify withholding the new universal attenuation formulation, while the wrong lower framework independently requires remand. No categorical Elstad-based affirmance survives reconciliation. The causal standard's broader doctrinal resolution, compared with historical first-instance remand, is recorded in the mechanically incorporated audit.
 
 ## Form, opinion table and assignment
 

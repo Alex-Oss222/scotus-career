@@ -6,7 +6,7 @@ The complete candidate was derived independently from the term-opening Standards
 
 The Section 4 gate was applied by recurring question, trigger and operative mechanics. Ordinary applications and reaffirmances receive no entry or development note. Existing entries were searched before additions; new headings do not depend on the source case's party, product or industry. New operative subclasses were integrated where an existing rule supplied their proper home.
 
-The opening register contains 1,059 entries. The candidate contains 1,113: 54 new reusable entries and targeted changes to 46 existing entries, including navigation clarifications. 1,013 unrelated entries retain their source text. 40 Records add no register instruction. Concrete Works creates no separate law-of-the-case entry; Davila is consolidated with the existing complete-preemption rule.
+The opening register contains 1,059 entries. The candidate contains 1,113: 54 new reusable entries and targeted changes to 49 existing entries, including navigation clarifications. 1,010 unrelated entries retain their source text. 40 Records add no register instruction. Concrete Works creates no separate law-of-the-case entry; Davila is consolidated with the existing complete-preemption rule.
 
 ## Supplied districting text
 
