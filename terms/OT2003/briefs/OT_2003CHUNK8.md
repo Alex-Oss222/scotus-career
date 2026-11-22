@@ -111,26 +111,26 @@
 * **Court and Judgment Under Review:** Fourth Circuit judgment affirming a single judge's dismissal of the Fourteenth Amendment partisan-gerrymandering claim.
 * **Relief Requested:** The opposing dispositions and their concrete consequences are stated in C and D below.
 * **Material Record:** Duckworth challenged Maryland's 2002 congressional map, alleging that division of Anne Arundel County among four unusually shaped districts intentionally impaired Republican participation. The district judge compared a prior challenge to the earlier map and dismissed without convening three judges. The court of appeals rejected aspects of that comparison but equated failure to state a claim with insubstantiality and affirmed. Article I and First Amendment theories were not pursued on appeal.
-* **Threshold, Preservation, and Vehicle Matters:** Only the Fourteenth Amendment claim remains preserved on appeal; Article I and independent First Amendment theories were abandoned. Section 2284's tribunal requirement precedes ordinary merits sufficiency unless the constitutional claim is wholly insubstantial or jurisdiction otherwise absent. Any effective Vieth holding must be assessed at its actual scope.
-* **Relevant Dates:** Lower-court judgment: June 19, 2003. Supplied simulation event: June 23, 2004, after the listed Vieth event.
-* **Companion or Related Matters:** Vieth concerns the substantive partisan-gerrymandering standard; this case additionally asks who may decide the claim under §2284.
+* **Threshold, Preservation, and Vehicle Matters:** Only the Fourteenth Amendment claim remains preserved on appeal; Article I and independent First Amendment theories were abandoned. Section 2284's tribunal requirement precedes ordinary merits sufficiency unless the constitutional claim is wholly insubstantial or jurisdiction otherwise absent. Vieth v. Jubelirer, decided April 28, 2004, governs the preserved claim at its actual scope.
+* **Relevant Dates:** Lower-court judgment: June 19, 2003. Supplied simulation event: June 23, 2004, after Vieth v. Jubelirer was decided on April 28, 2004.
+* **Companion or Related Matters:** Vieth supplies the substantive partisan-districting standard; this case additionally asks who may decide the claim under §2284.
 * **Participation Matter:** No case-specific nonparticipation identified.
 
 ## B. LAW ENTERING THE CASE
 
 * **Current Through:** June 30, 2003. Any controlling decision effective before the case's event date applies according to its actual holding; a pending matter supplies no rule.
-* **Earlier Same-Term Decisions:** No earlier same-term holding is relied on unless identified below.
-* **Unresolved Same-Term Dependencies:** Vieth v. Jubelirer is a material unresolved dependency because an actual earlier holding could affect substantiality. A proposed position and its historical comparator are not substitutes.
+* **Earlier Same-Term Decisions:** Vieth v. Jubelirer (April 28, 2004) supplies the partisan equal-protection rule; Martinez v. Bush (April 29, 2004) applies it.
+* **Unresolved Same-Term Dependencies:** None. Vieth v. Jubelirer was decided before this event and is applied at its actual holding.
 * **Institutional or Procedural Law:** The Court reviews the actual judgment and preserved questions. Historical lower-court reasoning is a record fact; its account of Supreme Court doctrine does not displace controlling law.
 
 ### Issue 1: Statutory tribunal and insubstantiality
 
-* **Controlling Law:** the special-tribunal rules distinguish a claim plainly foreclosed by controlling law from a live substantial question expected to fail. Shaw v. Reno does not create a freestanding racial-design claim in this Court, and district shape alone cannot establish the independent partisan injury. No adopted Vieth decision is available.
+* **Controlling Law:** the special-tribunal rules distinguish a claim plainly foreclosed by controlling law from a live substantial question expected to fail. Shaw v. Reno does not create a freestanding racial-design claim in this Court, and district shape alone cannot establish the independent partisan injury. Vieth v. Jubelirer holds the partisan equal-protection claim justiciable: the claimant must establish an identified political capacity, a material impairment of it, a substantial motivating purpose to disadvantage the affected voters because of their political affiliation, and boundary-specific causation, subject to the State's same-decision defense. Political design or irregular shape alone remains insufficient, and ordinary notice pleading requires no merits proof, expert model or replacement map.
 * **Current Reusable Doctrine:** Test jurisdiction and constitutional substantiality before allocating the merits. A merits prediction cannot substitute for the tribunal Congress required. Preserve the actual claim and existing pleading rules.
-* **Other Governing Law:** 28 U.S.C. §2284, particularly the limitation on a single judge's merits authority; Fourteenth Amendment; Goosby v. Osser; then-operative civil pleading rules and surviving Davis v. Bandemer principles, subject to any effective Vieth holding.
+* **Other Governing Law:** 28 U.S.C. §2284, particularly the limitation on a single judge's merits authority; Fourteenth Amendment; Goosby v. Osser; then-operative civil pleading rules; Davis v. Bandemer's justiciability holding as retained in Vieth v. Jubelirer.
 * **Material Other Authority:** The public authorities identified in E perform the historical or statutory work specified here; their account of displaced Supreme Court doctrine is not imported.
 * **Existing Rule's Reach:** Substantial constitutional challenges to congressional apportionment; jurisdictionally defective, wholly frivolous or clearly foreclosed claims remain outside compulsory three-judge merits adjudication.
-* **Open Point:** Whether ordinary failure to state a claim suffices for one-judge dismissal, and whether the operative partisan doctrine leaves this particular theory substantial.
+* **Open Point:** Whether ordinary failure to state a claim suffices for one-judge dismissal, and whether this particular theory is substantial under Vieth's rule.
 
 ## C. DECISION-MATERIAL LITIGATION POSITIONS
 
@@ -143,9 +143,9 @@
 
 ## D. LAWFUL PATHS AND UNCERTAINTY
 
-**Plausible Holding Scope and Consequences:** If the constitutional claim is substantial, vacatur and convening the required tribunal preserves merits review without finding discriminatory intent or effect. A genuinely frivolous or clearly foreclosed theory can be dismissed by one judge. Ordinary Rule 12(b)(6) weakness is not automatically that threshold. Any effective Vieth ruling must be applied first to identify which category this claim occupies.
+**Plausible Holding Scope and Consequences:** If the constitutional claim is substantial, vacatur and convening the required tribunal preserves merits review without finding discriminatory intent or effect. A genuinely frivolous or clearly foreclosed theory can be dismissed by one judge. Ordinary Rule 12(b)(6) weakness is not automatically that threshold. Vieth's justiciability holding and elements identify which category this claim occupies.
 
-* **Record and Legal Uncertainty:** An effective earlier Vieth judgment could determine whether this constitutional claim is wholly foreclosed. Ordinary merits weakness alone does not answer that jurisdictional question.
+* **Record and Legal Uncertainty:** Vieth forecloses treating partisan districting claims as categorically nonjusticiable; whether these allegations adequately plead its elements is a merits question unless the theory is wholly insubstantial. Ordinary merits weakness alone does not answer that jurisdictional question.
 
 ## E. SOURCES
 
@@ -160,25 +160,25 @@
 
 ## B. JUDGMENT AND REMEDY
 
-* **Stone's Controlled Judgment or Disposition:** Vacate and remand for the §2284 tribunal unless an effective controlling decision wholly forecloses the preserved constitutional claim. Ordinary failure to state a claim is not constitutional insubstantiality.
+* **Stone's Controlled Judgment or Disposition:** Vacate and remand for the §2284 tribunal. Vieth v. Jubelirer recognizes the preserved partisan equal-protection claim, so it is not wholly insubstantial. Ordinary failure to state a claim is not constitutional insubstantiality.
 * **Stone's Remedy and Remand Position:** Require the proper statutory tribunal to adjudicate the preserved substantial claim. Do not redraw districts, reinstate abandoned theories or presume a merits violation.
 * **Remedial Reach:** Duckworth's preserved challenge to the 2002 map. The judgment confers a lawful adjudicative forum and no policy-wide substantive relief.
-* **Practical Relief:** The district judge must request the three-judge court if no effective controlling decision wholly forecloses the constitutional claim. That court then resolves pleading, proof and remedy under operative law; the State continues lawful election administration unless a separately justified order requires change.
+* **Practical Relief:** The district judge must request the three-judge court. That court then permits conforming amendment and resolves pleading, proof and remedy under Vieth's rule; the State continues lawful election administration unless a separately justified order requires change.
 
 ## C. ISSUE POSITIONS
 
 ### Issue 1: Statutory tribunal and insubstantiality
 
-* **Threshold and Merits Reach:** The preserved appeal is the Fourteenth Amendment claim. Statutory tribunal assignment precedes an ordinary merits sufficiency decision unless the claim is wholly insubstantial or jurisdiction is absent. Only Vieth's effective holding, rather than its calendar position or a proposed disposition, can change that substantiality inquiry.
+* **Threshold and Merits Reach:** The preserved appeal is the Fourteenth Amendment claim. Statutory tribunal assignment precedes an ordinary merits sufficiency decision unless the claim is wholly insubstantial or jurisdiction is absent. Vieth's holding that the partisan equal-protection claim is justiciable, with its defined elements, confirms that the preserved claim is not wholly insubstantial.
 * **Question Stone Resolves:** Whether a single district judge may dismiss a constitutional congressional-apportionment claim for failure to state a claim without convening the three-judge court required by §2284, and whether alleged district shapes adequately support the preserved partisan claim.
 * **Stone's Legal Position:** Apply the entering rules and resolve the identified open application; no undisclosed change is proposed.
 * **Reach Calibration:** Intermediate: state the allocation rule for covered apportionment claims. Broader protection for frivolous cases would waste the statutory tribunal. Narrower correction confined to this map would leave the erroneous equivalence intact.
 * **Stone's Proposed Holding:** A single district judge may not bypass §2284 by equating ordinary failure to state a constitutional apportionment claim with jurisdictional insubstantiality. Unless the claim is wholly frivolous, clearly foreclosed or outside federal jurisdiction, the required three-judge court decides its merits. The claimant still bears the ordinary burden of establishing the substantive constitutional injury; the tribunal rule creates none.
 * **Reach Within the Question:** Substantial constitutional challenges to congressional apportionment; jurisdictionally defective, wholly frivolous or clearly foreclosed claims remain outside compulsory three-judge merits adjudication.
-* **Next-Case Guidance:** Apply any Vieth judgment effective before this case at its actual holding. Unless that law wholly forecloses the preserved Fourteenth Amendment claim, the required three-judge court decides its merits and any permissible amendment under ordinary procedure. The tribunal ruling does not revive abandoned Article I or independent First Amendment claims.
+* **Next-Case Guidance:** Vieth v. Jubelirer governs the preserved Fourteenth Amendment claim. Because Vieth recognizes that claim, the required three-judge court decides its merits and any permissible amendment under ordinary procedure, applying Vieth's elements, lawful comparison and same-decision defense. The tribunal ruling does not revive abandoned Article I or independent First Amendment claims.
 * **Transition:** Not applicable.
-* **Essential Reasoning and Record Application:** Goosby v. Osser distinguishes a wholly insubstantial constitutional claim from one that can fail on ordinary merits review. The district court treated an earlier map's evidentiary outcome as a pleading bar, although the map changed, and the appellate court used Rule 12(b)(6) as the substantiality threshold itself. That removes the statutory distinction. Bizarre boundaries alone establish no personal representation or association injury. The proper panel must apply any actually adopted Vieth rule and ordinary amendment procedure; the remand establishes neither liability nor a right to redraw the map.
-* **Precedent Treatment:** Apply Goosby v. Osser's substantiality distinction; preserve Shaw v. Reno's actual injury requirements. No new substantive partisan-gerrymandering test is proposed.
+* **Essential Reasoning and Record Application:** Goosby v. Osser distinguishes a wholly insubstantial constitutional claim from one that can fail on ordinary merits review. The district court treated an earlier map's evidentiary outcome as a pleading bar, although the map changed, and the appellate court used Rule 12(b)(6) as the substantiality threshold itself. That removes the statutory distinction. Under Vieth, irregular boundaries alone establish no material impairment of an identified political capacity, but an allegation that a county was divided among four districts to impair Republican participation asserts the claim Vieth recognizes rather than one plainly foreclosed. The proper panel must apply Vieth's rule and ordinary amendment procedure; the remand establishes neither liability nor a right to redraw the map.
+* **Precedent Treatment:** Apply Goosby v. Osser's substantiality distinction and Vieth v. Jubelirer's partisan equal-treatment rule; preserve Shaw v. Reno's actual injury requirements. No further substantive partisan-districting test is proposed.
 * **Boundary or Reserved Question:** The substantive merits belong to the statutorily required tribunal after the proper substantiality determination; claims abandoned on appeal remain outside this remand.
 
 # SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
