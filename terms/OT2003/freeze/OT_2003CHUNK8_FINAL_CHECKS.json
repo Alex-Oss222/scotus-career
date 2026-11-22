@@ -1,0 +1,407 @@
+{
+  "status": "pass",
+  "errors": [],
+  "preserved_preexisting_files": 119,
+  "new_records": [
+    {
+      "file": "intel-corp-v-advanced-micro-devices_merits_2004-06-21.md",
+      "date": "2004-06-21",
+      "case": "Intel Corp. v. Advanced Micro Devices, Inc.; No. 02-572; 542 U.S. 241.",
+      "result": "Affirmed, 7–1; statutory eligibility sustained and application returned for district-court discretion.",
+      "public_sha256": "40c102357dbe982aaf6ade168cad5b20d66dc1ae492ef9666dd242727935ba97"
+    },
+    {
+      "file": "duckworth-v-state-administration-board-of-election-laws_merits_2004-06-23.md",
+      "date": "2004-06-23",
+      "case": "Duckworth v. State Administration Board of Election Laws; judgment below, 332 F.3d 769.",
+      "result": "Vacated and remanded unanimously for the three-judge district court required by §2284.",
+      "public_sha256": "bca572e05db5afa61761d3255de329bb8f1dd77bddf92a04a26acae783d38d50"
+    },
+    {
+      "file": "beard-v-banks_merits_2004-06-24.md",
+      "date": "2004-06-24",
+      "case": "Beard v. Banks; No. 02-1603; 542 U.S. 406.",
+      "result": "Affirmed in part and vacated in part, 5–4; old-rule, constitutional-error and statutory-gateway conclusions affirmed; sentence relief returned solely for whole-record effect review.",
+      "public_sha256": "00805975ef505e443f9bea62334ad64c11becdebd3f1fe777f79def8bb261bf8"
+    },
+    {
+      "file": "blakely-v-washington_merits_2004-06-24.md",
+      "date": "2004-06-24",
+      "case": "Blakely v. Washington; No. 02-1632; 542 U.S. 296.",
+      "result": "Reversed, 6–3; exceptional 90-month sentence vacated and case remanded for lawful sentencing; plea and conviction preserved.",
+      "public_sha256": "e81705d0774f7e7122a9e0666d3608c1180c97b8d85526b17dbe7f989dfa9b40"
+    },
+    {
+      "file": "cheney-v-united-states-district-court_merits_2004-06-24.md",
+      "date": "2004-06-24",
+      "case": "Cheney v. United States District Court for the District of Columbia; No. 03-475; 542 U.S. 367.",
+      "result": "Vacated and remanded for appellate reconsideration, 5–4; two opposing Justices seek immediate issuance of the writ and two seek affirmance. The mandatory staged-discovery proposal lacks a majority.",
+      "public_sha256": "bb59f6cbe929f9114e55cb9fdc8b055d4d4a4d02fb1cbe2154c6912b3aea00c6"
+    },
+    {
+      "file": "schriro-v-summerlin_merits_2004-06-24.md",
+      "date": "2004-06-24",
+      "case": "Schriro v. Summerlin; No. 03-526; 542 U.S. 348.",
+      "result": "Vacated and remanded, 5–4; Ring is new and procedural but available under the confined watershed exception; actual error and relief remain for adjudication.",
+      "public_sha256": "e23f68aa5e562711b035a94bcdfc32328a1c05a56285ef2e45532da8b7861ea4"
+    },
+    {
+      "file": "tennard-v-dretke_merits_2004-06-24.md",
+      "date": "2004-06-24",
+      "case": "Tennard v. Dretke; No. 02-10038; 542 U.S. 274.",
+      "result": "Reversed and remanded, 7–2; an issue-specific certificate must issue for the mitigation claim, with final merits and relief reserved to the authorized appeal.",
+      "public_sha256": "e225fc8d93be2911bfb603d6bbce3fe3d9b2469ea3fb263bff9d13847a35df18"
+    },
+    {
+      "file": "hamdi_v_rumsfeld_merits_2004-06-28.md",
+      "date": "2004-06-28",
+      "case": "Hamdi v. Rumsfeld; No. 03-6696; 542 U.S. 507.",
+      "result": "Fourth Circuit judgment vacated and remanded for meaningful status adjudication, 6–3; two dissenters require release or the specified criminal-process or suspension alternative; one would affirm.",
+      "public_sha256": "f59226d28cccb4b9bfb3c4dd13103c5d23639de4459405aa90202a7673a81e70"
+    },
+    {
+      "file": "holland_v_jackson_merits_2004-06-28.md",
+      "date": "2004-06-28",
+      "case": "Holland v. Jackson; No. 03-1200; 542 U.S. 649.",
+      "result": "Sixth Circuit judgment granting habeas relief reversed and remanded, 9–0.",
+      "public_sha256": "ca2d0ebc94b99a5c15cf7281e58a12e861f4ae595b65bc2b222a3dd5294a8b45"
+    },
+    {
+      "file": "missouri_v_seibert_merits_2004-06-28.md",
+      "date": "2004-06-28",
+      "case": "Missouri v. Seibert; No. 02-1371; 542 U.S. 600.",
+      "result": "Missouri judgment suppressing the repeated confession and reversing the conviction affirmed, 6–3.",
+      "public_sha256": "ca478c6ad7264838ebb64e45e35a17568b8170b67e15db0447adcbfb2c5dce9d"
+    },
+    {
+      "file": "rasul_v_bush_merits_2004-06-28.md",
+      "date": "2004-06-28",
+      "case": "Rasul v. Bush; Al Odah v. United States; Nos. 03-334 and 03-343; 542 U.S. 466.",
+      "result": "Habeas dismissal reversed, 7–2; categorical civil dismissal reversed and remanded, 7–2 as to its entirety, with all nine supporting reversal and remand of the genuinely independent statutory branch.",
+      "public_sha256": "510f0466af69a3ba9138c33cd4ea8cacf5b64e8e2729fba2e6f468a0069e020f"
+    },
+    {
+      "file": "rumsfeld_v_padilla_merits_2004-06-28.md",
+      "date": "2004-06-28",
+      "case": "Rumsfeld v. Padilla; No. 03-1027; 542 U.S. 426.",
+      "result": "New York forum ruling reversed, merits adjudication vacated and case remanded for lawful transfer consideration or dismissal without prejudice, 5–4.",
+      "public_sha256": "7674f70ce86e87f99703a1f2122e4bb7e24c5fce3eccca3ecbb4a4e095cc26b2"
+    },
+    {
+      "file": "united_states_v_patane_merits_2004-06-28.md",
+      "date": "2004-06-28",
+      "case": "United States v. Patane; No. 02-1183; 542 U.S. 630.",
+      "result": "Warning-only suppression of the pistol reversed and remanded, 5–4; three would affirm suppression and Breyer would remand for good faith.",
+      "public_sha256": "705b59cb9f1b111fb87e42e84d2b9451b45a75a9307414b071f8dce66e04b638"
+    },
+    {
+      "file": "ashcroft_v_american_civil_liberties_union_merits_2004-06-29.md",
+      "date": "2004-06-29",
+      "case": "Ashcroft v. American Civil Liberties Union; No. 03-218; 542 U.S. 656.",
+      "result": "Affirmed and remanded, 6–3; preliminary enforcement injunction continues.",
+      "public_sha256": "745a0afac462d070e6d20347816d584e5cc05dce0cac6af5f18609f410dde40a"
+    },
+    {
+      "file": "sosa_v_alvarez_machain_merits_2004-06-29.md",
+      "date": "2004-06-29",
+      "case": "Sosa v. Alvarez-Machain, No. 03-339; United States v. Alvarez-Machain, No. 03-485; 542 U.S. 692.",
+      "result": "Reversed and remanded in both dockets, 9–0, on the separate ATS and FTCA grounds stated below.",
+      "public_sha256": "db411cad68d56e04bb2210917a2f04c61996ee3e30782b2bafb18fd559723064"
+    },
+    {
+      "file": "roeder_v_islamic_republic_of_iran_merits_2004-06-30.md",
+      "date": "2004-06-30",
+      "case": "Roeder v. Islamic Republic of Iran; No. 03-1147; judgment below, 333 F.3d 228 (D.C. Cir. 2003), No. 02-5145.",
+      "result": "Affirmed, 9–0; dismissal and judicial vacatur of the liability default remain effective.",
+      "public_sha256": "e2b703e6eb54d8f5938d96bab545e134786560dd7ade20caaa81bc413e47d707"
+    }
+  ],
+  "lead_counts_after_chunk": {
+    "Stone-Zsela": 14,
+    "Stevens": 13,
+    "O'Connor": 13,
+    "Scalia": 12,
+    "Kennedy": 13,
+    "Souter": 13,
+    "Thomas": 12,
+    "Ginsburg": 13,
+    "Breyer": 12
+  },
+  "total_records": 120,
+  "total_counted_leads": 115,
+  "assignment_snapshots": [
+    {
+      "file": "OT_2003CHUNK8_ASSIGNMENT_ASHCROFT.json",
+      "prior_record_count": 117,
+      "prior_author_credits": 112
+    },
+    {
+      "file": "OT_2003CHUNK8_ASSIGNMENT_B_111.json",
+      "prior_record_count": 115,
+      "prior_author_credits": 110
+    },
+    {
+      "file": "OT_2003CHUNK8_ASSIGNMENT_B_112.json",
+      "prior_record_count": 114,
+      "prior_author_credits": 109
+    },
+    {
+      "file": "OT_2003CHUNK8_ASSIGNMENT_B_113.json",
+      "prior_record_count": 111,
+      "prior_author_credits": 106
+    },
+    {
+      "file": "OT_2003CHUNK8_ASSIGNMENT_B_114.json",
+      "prior_record_count": 113,
+      "prior_author_credits": 108
+    },
+    {
+      "file": "OT_2003CHUNK8_ASSIGNMENT_B_115.json",
+      "prior_record_count": 116,
+      "prior_author_credits": 111
+    },
+    {
+      "file": "OT_2003CHUNK8_ASSIGNMENT_B_116.json",
+      "prior_record_count": 112,
+      "prior_author_credits": 107
+    },
+    {
+      "file": "OT_2003CHUNK8_ASSIGNMENT_beard-v-banks.json",
+      "prior_record_count": 106,
+      "prior_author_credits": 101
+    },
+    {
+      "file": "OT_2003CHUNK8_ASSIGNMENT_blakely-v-washington.json",
+      "prior_record_count": 107,
+      "prior_author_credits": 102
+    },
+    {
+      "file": "OT_2003CHUNK8_ASSIGNMENT_cheney-v-united-states-district-court.json",
+      "prior_record_count": 108,
+      "prior_author_credits": 103
+    },
+    {
+      "file": "OT_2003CHUNK8_ASSIGNMENT_duckworth-v-state-administration-board-of-election-laws.json",
+      "prior_record_count": 105,
+      "prior_author_credits": 100
+    },
+    {
+      "file": "OT_2003CHUNK8_ASSIGNMENT_intel-corp-v-advanced-micro-devices.json",
+      "prior_record_count": 104,
+      "prior_author_credits": 99
+    },
+    {
+      "file": "OT_2003CHUNK8_ASSIGNMENT_ROEDER.json",
+      "prior_record_count": 119,
+      "prior_author_credits": 114
+    },
+    {
+      "file": "OT_2003CHUNK8_ASSIGNMENT_schriro-v-summerlin.json",
+      "prior_record_count": 109,
+      "prior_author_credits": 104
+    },
+    {
+      "file": "OT_2003CHUNK8_ASSIGNMENT_SOSA.json",
+      "prior_record_count": 118,
+      "prior_author_credits": 113
+    },
+    {
+      "file": "OT_2003CHUNK8_ASSIGNMENT_tennard-v-dretke.json",
+      "prior_record_count": 110,
+      "prior_author_credits": 105
+    }
+  ],
+  "frozen_group_identity": [
+    {
+      "file": "terms/OT2003/freeze/OT_2003CHUNK8_A_COMMITMENTS.md",
+      "sha256": "11cbeb9592eadd6bbce664e2f7e4246c471138e3c1e702c3223a2720261f7bd7"
+    },
+    {
+      "file": "terms/OT2003/freeze/OT_2003CHUNK8_B_COMMITMENTS.md",
+      "sha256": "6a6cd5c85a2e4085ad10bad31cdeaf9f878f1447fd474743885eaaa023cbd39f"
+    },
+    {
+      "file": "terms/OT2003/freeze/OT_2003CHUNK8_C_COMMITMENTS.md",
+      "sha256": "341be8774dcdbfdcb1b487f939d8b1834123aadf89f891253ec72e01dfe18b4a"
+    },
+    {
+      "file": "terms/OT2003/freeze/OT_2003CHUNK8_A_RECONCILED.md",
+      "sha256": "8bb14b71564928497160c8216080f2b4a8d1bbe708a932d65eb4a4b891b222be"
+    },
+    {
+      "file": "terms/OT2003/freeze/OT_2003CHUNK8_B_RECONCILED.md",
+      "sha256": "5ef61d4bfea2047adb5cedef2dffcc9886caecbec145856e0dcbe35a476b4f1a"
+    },
+    {
+      "file": "terms/OT2003/freeze/OT_2003CHUNK8_C_RECONCILED.md",
+      "sha256": "840f42a1e1fd8f97c3beb9b8348f9ff0ce0aae6edc82b26a116cc0476f7bf60c"
+    }
+  ],
+  "explanations": [
+    {
+      "record": "ashcroft_v_american_civil_liberties_union_merits_2004-06-29.md",
+      "words": 298
+    },
+    {
+      "record": "ashcroft_v_american_civil_liberties_union_merits_2004-06-29.md",
+      "words": 274
+    },
+    {
+      "record": "beard-v-banks_merits_2004-06-24.md",
+      "words": 143
+    },
+    {
+      "record": "beard-v-banks_merits_2004-06-24.md",
+      "words": 165
+    },
+    {
+      "record": "beard-v-banks_merits_2004-06-24.md",
+      "words": 134
+    },
+    {
+      "record": "beard-v-banks_merits_2004-06-24.md",
+      "words": 113
+    },
+    {
+      "record": "blakely-v-washington_merits_2004-06-24.md",
+      "words": 131
+    },
+    {
+      "record": "blakely-v-washington_merits_2004-06-24.md",
+      "words": 129
+    },
+    {
+      "record": "cheney-v-united-states-district-court_merits_2004-06-24.md",
+      "words": 98
+    },
+    {
+      "record": "cheney-v-united-states-district-court_merits_2004-06-24.md",
+      "words": 158
+    },
+    {
+      "record": "cheney-v-united-states-district-court_merits_2004-06-24.md",
+      "words": 137
+    },
+    {
+      "record": "cheney-v-united-states-district-court_merits_2004-06-24.md",
+      "words": 104
+    },
+    {
+      "record": "duckworth-v-state-administration-board-of-election-laws_merits_2004-06-23.md",
+      "words": 115
+    },
+    {
+      "record": "duckworth-v-state-administration-board-of-election-laws_merits_2004-06-23.md",
+      "words": 97
+    },
+    {
+      "record": "hamdi_v_rumsfeld_merits_2004-06-28.md",
+      "words": 99
+    },
+    {
+      "record": "hamdi_v_rumsfeld_merits_2004-06-28.md",
+      "words": 116
+    },
+    {
+      "record": "hamdi_v_rumsfeld_merits_2004-06-28.md",
+      "words": 95
+    },
+    {
+      "record": "holland_v_jackson_merits_2004-06-28.md",
+      "words": 189
+    },
+    {
+      "record": "holland_v_jackson_merits_2004-06-28.md",
+      "words": 133
+    },
+    {
+      "record": "intel-corp-v-advanced-micro-devices_merits_2004-06-21.md",
+      "words": 117
+    },
+    {
+      "record": "intel-corp-v-advanced-micro-devices_merits_2004-06-21.md",
+      "words": 115
+    },
+    {
+      "record": "intel-corp-v-advanced-micro-devices_merits_2004-06-21.md",
+      "words": 106
+    },
+    {
+      "record": "missouri_v_seibert_merits_2004-06-28.md",
+      "words": 126
+    },
+    {
+      "record": "missouri_v_seibert_merits_2004-06-28.md",
+      "words": 85
+    },
+    {
+      "record": "rasul_v_bush_merits_2004-06-28.md",
+      "words": 141
+    },
+    {
+      "record": "rasul_v_bush_merits_2004-06-28.md",
+      "words": 119
+    },
+    {
+      "record": "roeder_v_islamic_republic_of_iran_merits_2004-06-30.md",
+      "words": 253
+    },
+    {
+      "record": "roeder_v_islamic_republic_of_iran_merits_2004-06-30.md",
+      "words": 134
+    },
+    {
+      "record": "roeder_v_islamic_republic_of_iran_merits_2004-06-30.md",
+      "words": 286
+    },
+    {
+      "record": "rumsfeld_v_padilla_merits_2004-06-28.md",
+      "words": 136
+    },
+    {
+      "record": "rumsfeld_v_padilla_merits_2004-06-28.md",
+      "words": 105
+    },
+    {
+      "record": "schriro-v-summerlin_merits_2004-06-24.md",
+      "words": 99
+    },
+    {
+      "record": "schriro-v-summerlin_merits_2004-06-24.md",
+      "words": 215
+    },
+    {
+      "record": "schriro-v-summerlin_merits_2004-06-24.md",
+      "words": 112
+    },
+    {
+      "record": "sosa_v_alvarez_machain_merits_2004-06-29.md",
+      "words": 285
+    },
+    {
+      "record": "sosa_v_alvarez_machain_merits_2004-06-29.md",
+      "words": 232
+    },
+    {
+      "record": "sosa_v_alvarez_machain_merits_2004-06-29.md",
+      "words": 213
+    },
+    {
+      "record": "tennard-v-dretke_merits_2004-06-24.md",
+      "words": 140
+    },
+    {
+      "record": "tennard-v-dretke_merits_2004-06-24.md",
+      "words": 151
+    },
+    {
+      "record": "united_states_v_patane_merits_2004-06-28.md",
+      "words": 156
+    }
+  ],
+  "relative_record_links_checked": 82,
+  "relative_anchors_checked": 0,
+  "scanned_current_artifacts": 175,
+  "render_input_identity": "exact copied Public Projections",
+  "repository_history": "Not accessed; operator verification and commitment remain pending."
+}

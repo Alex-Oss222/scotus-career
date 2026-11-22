@@ -1,0 +1,14 @@
+[
+  {
+    "file": "terms/OT2003/freeze/OT_2003CHUNK8_A_COMMITMENTS.md",
+    "sha256": "11cbeb9592eadd6bbce664e2f7e4246c471138e3c1e702c3223a2720261f7bd7"
+  },
+  {
+    "file": "terms/OT2003/freeze/OT_2003CHUNK8_B_COMMITMENTS.md",
+    "sha256": "6a6cd5c85a2e4085ad10bad31cdeaf9f878f1447fd474743885eaaa023cbd39f"
+  },
+  {
+    "file": "terms/OT2003/freeze/OT_2003CHUNK8_C_COMMITMENTS.md",
+    "sha256": "341be8774dcdbfdcb1b487f939d8b1834123aadf89f891253ec72e01dfe18b4a"
+  }
+]

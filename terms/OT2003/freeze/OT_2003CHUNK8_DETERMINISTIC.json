@@ -1,0 +1,8 @@
+{
+  "tool": "tools/check_term.py",
+  "exit_status": 0,
+  "output": "OK: OT2003; 0 warning(s)\n",
+  "commit_object_authentication": "Skipped under express no-git instruction; operator verification remains.",
+  "skipped_reference_calls": 0,
+  "unique_skipped_references": []
+}

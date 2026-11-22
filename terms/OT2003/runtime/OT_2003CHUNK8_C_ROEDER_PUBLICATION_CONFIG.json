@@ -1,0 +1,41 @@
+{
+  "sequence_authorized": true,
+  "fields": {
+    "LEAD": "Stone-Zsela",
+    "DELIVERY": "STONE-ZSELA, C. J., delivered the opinion of the Court, in which STEVENS, O'CONNOR, SCALIA, KENNEDY, SOUTER, THOMAS, GINSBURG and BREYER, JJ., joined.",
+    "SOSA_SCREEN": "The actual June 29 Sosa and Ashcroft public holdings were read in full before this decision. The review is preserved in `../runtime/OT_2003CHUNK8_C_ROEDER_JUNE29_MATERIALITY.md`. Sosa preserves the distinction between an action and sovereign consent and changes no Accords or FSIA-amendment premise; its specific detention and FTCA holdings do not remove this independent covered-claim bar. Ashcroft's speech and preliminary-relief holdings change no Roeder predicate. Together with the completed A, B and Rasul screens, this resolves the final entering-law prerequisite without any material commitment or approved-Core change."
+  },
+  "assignment": {
+    "eligible": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "author": "Stone-Zsela",
+    "reason": "The actual final statutory and pending-case reasoning has nine direct joins, including Stone-Zsela, with a lawful nine-Justice quorum. The approved conditional direction therefore requires him to deliver every part of this lead. Coverage includes the enacted nonabrogation holding, the independent intervention/default/payment predicates and the application of existing pending-case and independent-adjudication principles; no portion relies only on judgment agreement. The full Plaut rule is accurately stated as existing law, without attributing renewed endorsement of its earlier underlying rationale to its prior dissenters. All nine are otherwise eligible and all nine fall within the ordinary balance pool, but the actual conditional direction determines authorship rather than an invented superiority claim over the lower-count Scalia, Thomas or Breyer. The direction leaves no uncovered portion needing a separate Section 8 assignment. The signed lead counts once for Stone-Zsela. The actual preceding-topology snapshot is `../freeze/OT_2003CHUNK8_ASSIGNMENT_ROEDER.json`.",
+    "form": "One signed opinion after full merits briefing resolves the integrated immunity, independent-bar and pending-case questions. All nine directly join every present holding and its judgment; the account of Plaut accurately states existing law and applies its pending-case boundary without creating a new unanimous endorsement of its earlier finality rationale. A divided lead and a merely repetitive separate opinion are unnecessary. The case-specific conditional writing direction covers the complete actual reasoning supported by at least five Justices including Stone-Zsela; the exact final compatibility is stated in the Chief section.",
+    "conditional": true,
+    "covered": "the complete lead under the applicable conditional writing direction"
+  },
+  "separate_authorship": "No separate current writing is required: the common application of the existing pending-case rule leaves the prior Plaut disagreements intact and performs no renewed unanimous endorsement of that earlier rationale.",
+  "replacements": [
+    [
+      "The direction covers the complete lead if its final text remains as tested here; no portion requires a different source of authorship. The assignment is not entered before the sequence signal and recount.",
+      "The final text retains that tested compatibility, and the direction covers the complete lead; no portion requires a different source of authorship. The ordered assignment follows the completed sequence signal and fresh recount."
+    ],
+    [
+      "Draft substantive compatibility, nine-Justice arithmetic and Section 8 negative-statement review are complete.",
+      "Final substantive compatibility, nine-Justice arithmetic, effective-law materiality and Section 8 negative-statement review are complete."
+    ],
+    [
+      "Final entering-law screen, ordered assignment, durable arithmetic, projection identity, link checks, chunk validation and operator commitment remain pending.",
+      "The final entering-law screen, conditional coverage and ordered assignment from actual preceding durable opinion topologies are complete. The publication helper checks the four-label record, eleven-block order, completed substitutions, public naming, ordinary explanation ceilings and bounded public copy before creating the absent canonical file. C-group validation is retained at `../freeze/OT_2003CHUNK8_C_ASSEMBLY_VALIDATION.md`; final full-chunk validation, generated chunk Render Input identity and operator commitment remain pending."
+    ]
+  ]
+}

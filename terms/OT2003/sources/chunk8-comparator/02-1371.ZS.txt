@@ -1,0 +1,258 @@
+Source: https://www.law.cornell.edu/supct/html/02-1371.ZS.html
+
+
+
+  
+
+  
+
+	
+
+	
+
+MISSOURI V. SEIBERT
+
+ 
+
+		
+			LII
+
+			Supreme Court		 
+
+	
+
+MISSOURI V. SEIBERT (02-1371) 
+93 S. W. 3d 700, affirmed.
+Syllabus
+ Opinion
+ [ Souter ]Concurrence
+ [ Breyer ]Concurrence
+ [ Kennedy ]Dissent
+ [ O’Connor ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a
+syllabus (headnote) will be released, as is being done in
+connection with this case, at the time the opinion is
+issued.
+The syllabus constitutes no part of the opinion of
+the Court but has been prepared by the Reporter of Decisions
+for the convenience of the reader.
+See United States
+v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+MISSOURI v. SEIBERT
+
+CERTIORARI TO THE SUPREME COURT OF
+MISSOURI
+
+ 
+No. 02—1371. Argued December 9, 2003–Decided June 28,
+2004
+
+Respondent Seibert feared charges of neglect
+when her son, afflicted with cerebral palsy, died in his sleep.
+ She was present when two of her sons and their friends
+discussed burning her family’s mobile home to conceal the
+circumstances of her son’s death.	Donald, an unrelated
+mentally ill 18-year-old living with the family, was left to
+die in the fire, in order to avoid the appearance that
+Seibert’s son had been unattended.  Five days later, the
+police arrested Seibert, but did not read her her rights under
+Miranda v. Arizona, 384 U.S. 436.  At the
+police station, Officer Hanrahan questioned her for 30 to 40
+minutes, obtaining a confession that the plan was for Donald to
+die in the fire.  He then gave her a 20-minute break, returned
+to give her Miranda warnings, and obtained a signed
+waiver.  He resumed questioning, confronting Seibert with her
+prewarning statements and getting her to repeat the
+information.  Seibert moved to suppress both her prewarning and
+postwarning statements.  Hanrahan testified that he made a
+conscious decision to withhold Miranda warnings,
+question first, then give the warnings, and then repeat the
+question until he got the answer previously given.  The
+District Court suppressed the prewarning statement but admitted
+the postwarning one, and Seibert was convicted of second-degree
+murder.  The Missouri Court of Appeals affirmed, finding the
+case indistinguishable from Oregon v. Elstad, 470 U.S. 298, in
+which this Court held that a suspect’s unwarned
+inculpatory statement made during a brief exchange at his house
+did not make a later, fully warned inculpatory statement
+inadmissible.  In reversing, the State Supreme Court held that,
+because the interrogation was nearly continuous, the second
+statement, which was clearly the product of the invalid first
+statement, should be suppressed; and distinguished
+Elstad on the ground that the warnings had not
+intentionally been withheld there.
+
+Held: The judgment is
+affirmed.
+
+93 S. W. 3d 700, affirmed.
+
+    Justice Souter,
+joined by Justice Stevens, Justice Ginsburg, and Justice
+Breyer, concluded that, because the midstream recitation of
+warnings after interrogation and unwarned confession in this
+case could not comply with Miranda’s constitutional
+warning requirement, Seibert’s postwarning statements are
+inadmissible.  Pp. 4—15.
+
+      (a) Failure
+to give Miranda warnings and obtain a waiver of rights
+before custodial questioning generally requires exclusion of
+any statements obtained.  Conversely, giving the warnings and
+getting a waiver generally produces a virtual ticket of
+admissibility, with most litigation over voluntariness ending
+with valid waiver finding.  This common consequence would not
+be at all common unless Miranda warnings were
+customarily given under circumstances that reasonably suggest a
+real choice between talking and not talking. 
+Pp. 4—6.
+
+ 
+    (b) Dickerson v. United
+States, 530 U.S.
+428, reaffirmed Miranda, holding that
+Miranda’s constitutional character prevailed
+against a federal statute that sought to restore the old regime
+of giving no warnings and litigating most statements’
+voluntariness.	The technique of interrogating in successive,
+unwarned and warned phases raises a new challenge to
+Miranda.  Pp. 6—9.
+
+      (c) When a
+confession so obtained is offered and challenged, attention
+must be paid to the conflicting objects of Miranda and
+the question-first strategy.  Miranda addressed
+“interrogation practices … likely … to disable
+[an individual] from making a free and rational choice”
+about speaking, 384 U.S., at 464—465, and held that a
+suspect must be “adequately and effectively” advised
+of the choice the Constitution guarantees, id., at 467. 
+Question-first’s object, however, is to render Miranda
+warnings ineffective by waiting to give them until after
+the suspect has already confessed.  The threshold question in
+this situation is whether it would be reasonable to find that
+the warnings could function “effectively” as
+Miranda requires.  There is no doubt about the answer. 
+By any objective measure, it is likely that warnings withheld
+until after interrogation and confession will be ineffective in
+preparing a suspect for successive interrogation, close in time
+and similar in content.  The manifest purpose of question-first
+is to get a confession the suspect would not make if he
+understood his rights at the outset.  When the warnings are
+inserted in the midst of coordinated and continuing
+interrogation, they are likely to mislead and “deprive a
+defendant of knowledge essential to his ability to understand
+the nature of his rights and the consequences of abandoning
+them.”  Moran v. Burbine, 475 U.S. 412, 424. 
+And it would be unrealistic to treat two spates of integrated
+and proximately conducted questioning as independent
+interrogations subject to independent evaluation simply because
+Miranda warnings formally punctuate them in the middle. 
+Pp. 9—12.
+
+ 
+    (d) Elstad does not
+authorize admission of a confession repeated under the
+question-first strategy.  The contrast between Elstad
+and this case reveals relevant facts bearing on whether
+midstream Miranda warnings could be effective to
+accomplish their object: the completeness and detail of the
+questions and answers to the first round of questioning, the
+two statements’ overlapping content, the timing and
+setting of the first and second rounds, the continuity of
+police personnel, and the degree to which the
+interrogator’s questions treated the second round as
+continuous with the first.  In Elstad, the station house
+questioning could sensibly be seen as a distinct experience
+from a short conversation at home, and thus the Miranda
+warnings could have made sense as presenting a genuine choice
+whether to follow up on the earlier admission.	Here, however,
+the unwarned interrogation was conducted in the station house,
+and the questioning was systematic, exhaustive, and managed
+with psychological skill.  The warned phase proceeded after
+only a 15-to-20 minute pause, in the same place and with the
+same officer, who did not advise Seibert that her prior
+statement could not be used against her.  These circumstances
+challenge the comprehensibility and efficacy of the
+Miranda warnings to the point that a reasonable person
+in the suspect’s shoes could not have understood them to
+convey a message that she retained a choice about continuing to
+talk.  Pp. 12—15.
+
+      Justice Kennedy
+concluded that when a two-step interrogation technique is used,
+postwarning statements related to prewarning statements must be
+excluded unless curative measures are taken before the
+postwarning statement is made.	Not every violation of
+Miranda v. Arizona, 384 U.S. 436,
+requires suppression of the evidence obtained.	Admission may
+be proper when it would further important objectives without
+compromising Miranda’s central concerns.  See,
+e.g., Harris v. New York, 401 U.S. 222. 
+Oregon v. Elstad, 470 U.S. 298,
+reflects a balanced and pragmatic approach to enforcing the
+Miranda warning.  An officer may not realize that a
+suspect is in custody and warnings are required, and may not
+plan to question the suspect or may be waiting for a more
+appropriate time.  Suppressing postwarning statements under
+such circumstances would serve “neither the general goal
+of deterring improper police conduct nor the Fifth Amendment goal
+of assuring trustworthy evidence.”  Elstad, supra,
+at 308.  In contrast, the technique used in this case
+distorts Miranda’s meaning and furthers no
+legitimate countervailing interest.  The warning was withheld
+to obscure both the practical and legal significance of the
+admonition when finally given.	That the interrogating officer
+relied on respondent’s prewarning statement to obtain the
+postwarning one used at trial shows the temptations for abuse
+inherent in the two-step technique.  Reference to the
+prewarning statement was an implicit, and false, suggestion
+that the mere repetition of the earlier statement was not
+independently incriminating.  The Miranda rule would be
+frustrated were the police permitted to undermine its meaning
+and effect.  However, the plurality’s test–that
+whenever a two-stage interview occurs, the postwarning
+statement’s admissibility depends on whether the midstream
+warnings could have been effective enough to accomplish their
+object given the case’s specific facts–cuts too
+broadly.  The admissibility of postwarning statements should
+continue to be governed by Elstad’s principles
+unless the deliberate two-step strategy is employed.  Then, the
+postwarning statements must be excluded unless curative
+measures are taken before they were made.  Such measures should
+be designed to ensure that a reasonable person in the
+suspect’s situation would understand the import and effect
+of the Miranda warning and waiver.  For example,
+a substantial break in time and circumstances between the
+prewarning statement and the warning may suffice in most
+instances, as may an additional warning explaining the likely
+inadmissibility of the prewarning statement.  Because no
+curative steps were taken in this case, the postwarning
+statements are inadmissible and the conviction cannot stand. 
+Pp. 1—5.
+
+    Souter, J., announced
+the judgment of Court and delivered an opinion, in which
+Stevens, Ginsburg, and Breyer, JJ., joined.  Breyer, J., filed
+a concurring opinion.  Kennedy, J., filed an opinion concurring
+in the judgment.  O’Connor, J., filed a dissenting
+opinion, in which Rehnquist, C. J., and Scalia and Thomas,
+JJ., joined.
+
+ 
+

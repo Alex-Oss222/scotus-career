@@ -1,0 +1,33 @@
+{
+  "sequence_authorized": true,
+  "fields": {
+    "LEAD": "Stevens",
+    "ATS_OTHERS": "Stone-Zsela, O'Connor, Kennedy, Souter, Ginsburg and Breyer",
+    "DELIVERY": "STEVENS, J., delivered the opinion of the Court, in which STONE-ZSELA, C. J., and O'CONNOR, KENNEDY, SOUTER, GINSBURG and BREYER, JJ., joined, and in Parts I and III of which SCALIA and THOMAS, JJ., also joined. SCALIA, J., filed an opinion concurring in part and concurring in the judgment, in which THOMAS, J., joined. GINSBURG, J., filed a concurring opinion concerning the FTCA, in which BREYER, J., joined. BREYER, J., filed a concurring opinion concerning the ATS."
+  },
+  "assignment": {
+    "eligible": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "author": "Stevens",
+    "reason": "Fit selects Stevens from the full seven-member balance pool. His Abebe-Jira opinion establishes the exact separation of jurisdiction, received action, personal responsibility and distinct remedies that the Court must preserve while rejecting this additional norm. His own Smith position distinguished foreign sovereign territory from Antarctica, and the actual Mexican detention permits the bounded common FTCA conclusion without attributing to him a universal offshore rule. Ginsburg is a particularly strong alternative through Kadic and her affirmative conduct-location account, but has one more lead; her conduct concurrence faithfully preserves that ground under the common opinion. Breyer has the same lower count and supports the complete opinion, while Stevens's direct formulation of the controlling received-action source gives a concrete advantage for answering Scalia and Thomas's source objection. Stone-Zsela is fully eligible and his bounded rule and remedy remain intact, but Stevens performs the same separation work with demonstrated case-specific fit at a lower count. Necessary joins already support the bounded formulation; no invented circulation or authorship accommodation is claimed. The signed lead counts once for Stevens; the separate writings count zero. The actual preceding-topology snapshot is `../freeze/OT_2003CHUNK8_ASSIGNMENT_SOSA.json`. Ashcroft enters this assignment count only; as an uncoordinated same-day event it supplies no entering law for Sosa.",
+    "form": "One signed opinion resolves the consolidated dockets after plenary review. Parts I and III have nine direct joins at the identified jurisdiction/action and bounded foreign-detention scopes; Part II has seven direct joins. Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer support every part and the complete judgments. Scalia and Thomas's different sufficient ATS source ground does not qualify them to author Part II or the complete lead. One eligible author can carry every part, so no division is warranted. The three separate explanations perform distinct source, conduct-location and comity work without adding counted leads."
+  },
+  "separate_authorship": "Scalia states the source objection he authored in Abebe-Jira and Kadic/Doe, with Thomas's supported join. Ginsburg states the last-significant-act construction expressly preserved by reconciliation; Breyer joins that complete conduct ground and writes separately on his own comity qualification. Each writing performs distinct legal work; historical author names alone supply no assignment.",
+  "replacements": [
+    [
+      "Draft substantive compatibility, component arithmetic and negative-statement review are complete.",
+      "Final substantive compatibility, component arithmetic, effective-law materiality and Section 8 negative-statement review are complete."
+    ],
+    [
+      "Review of the remaining June 28 holdings, author selection, durable-file arithmetic, projection identity, link checks, chunk validation and operator commitment remain pending.",
+      "The remaining June 28 holdings have been screened without a material change, and the ordered assignment is complete from actual preceding durable opinion topologies. The publication helper checks the four-label record, eleven-block order, completed substitutions, public naming, ordinary explanation ceilings and bounded public copy before creating the absent canonical file. C-group validation is retained at `../freeze/OT_2003CHUNK8_C_ASSEMBLY_VALIDATION.md`; final full-chunk validation, generated chunk Render Input identity and operator commitment remain pending."
+    ]
+  ]
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "file": "terms/OT2003/freeze/OT_2003CHUNK8_A_RECONCILED.md",
+    "sha256": "8bb14b71564928497160c8216080f2b4a8d1bbe708a932d65eb4a4b891b222be"
+  },
+  {
+    "file": "terms/OT2003/freeze/OT_2003CHUNK8_B_RECONCILED.md",
+    "sha256": "5ef61d4bfea2047adb5cedef2dffcc9886caecbec145856e0dcbe35a476b4f1a"
+  },
+  {
+    "file": "terms/OT2003/freeze/OT_2003CHUNK8_C_RECONCILED.md",
+    "sha256": "840f42a1e1fd8f97c3beb9b8348f9ff0ce0aae6edc82b26a116cc0476f7bf60c"
+  }
+]

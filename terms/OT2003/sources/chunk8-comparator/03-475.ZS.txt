@@ -1,0 +1,352 @@
+Source: https://www.law.cornell.edu/supct/html/03-475.ZS.html
+
+
+
+  
+
+  
+
+	
+
+	
+
+CHENEY V. UNITED STATES DIST. COURT FOR D. C.
+
+ 
+
+		
+			LII
+
+			Supreme Court		 
+
+	
+
+CHENEY V. UNITED STATES DIST. COURT FOR D. C. (03-475) 
+334 F.3d 1096, vacated and remanded.
+Syllabus
+ Opinion
+ [ Kennedy ]Concurrence
+ [ Stevens ]Dissent
+ [ Ginsburg ]Other
+ [ Opinion of Thomas ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a
+syllabus (headnote) will be released, as is being done in
+connection with this case, at the time the opinion is
+issued.
+The syllabus constitutes no part of the opinion of
+the Court but has been prepared by the Reporter of Decisions
+for the convenience of the reader.
+See United States
+v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+CHENEY, VICE PRESIDENT OF THE UNITED STATES,
+et al. v. UNITED STATES DISTRICT 
+COURT FOR THE
+DISTRICT OF 
+COLUMBIA et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+ 
+No. 03—475. 
+Argued April 27, 2004–Decided June 24, 2004
+
+The President established the National Energy
+Policy Development Group (Group) to give him advice and make
+recommendations on energy policy, assigning a number of federal
+agency heads and assistants to serve as Group members and
+authorizing the Vice President, as Group chairman, to include
+other federal officers as appropriate.	After the Group issued
+a final report and, according to the Government, terminated all
+operations, respondents filed these separate actions, later
+consolidated in the District Court, alleging that the Group had
+not complied with the Federal Advisory Committee Act (FACA),
+which, inter alia, imposes a variety of open-meeting and
+disclosure requirements on entities meeting the definition of
+“advisory committee.”  As relevant here, such a
+committee is an entity or “subgroup … , which is
+… established or utilized by the President, …
+exclud[ing] … any committee … composed wholly of
+full-time, or permanent part-time, [federal] officers or
+employees.”  5 U.S.C. App. §2(B)(i).	The complaint
+alleged that, because nonfederal employees and private
+lobbyists regularly attended and fully participated in the
+Group’s nonpublic meetings as de facto Group
+members, the Group could not benefit from the §2(B)
+exemption and was therefore subject to FACA’s
+requirements.  The suit sought declaratory relief and an
+injunction requiring the defendants–including the Vice
+President and the Government officials serving on the
+Group–to produce all materials allegedly subject to
+FACA’s requirements.
+
+ 
+        Among its
+rulings, the District Court granted the defendants’ motion
+to dismiss as to some of them, but denied it as to others.  The
+Court held that FACA’s substantive requirements could be
+enforced against the Vice President and the other Government
+participants under the Mandamus Act, 28 U.S. C. §1361, and
+against the agency defendants under the Administrative
+Procedure Act, 5 U.S.C.
+§ 706.  It deferred ruling on whether the FACA
+disclosure duty was sufficiently clear and nondiscretionary for
+mandamus to issue.  It also deferred ruling on the
+Government’s contention that to disregard the §2(B)
+exemption and apply FACA to the Group would violate
+separation-of-powers principles and interfere with the
+President’s and Vice President’s constitutional
+prerogatives.  Instead, the court allowed respondents to
+conduct a “tightly-reined” discovery to ascertain the
+Group’s structure and membership, and thus to determine
+whether the de facto membership doctrine applied.  While
+acknowledging that discovery itself might raise serious
+constitutional questions, the court explained that the
+Government could assert executive privilege to protect
+sensitive materials from disclosure.  The court noted that if,
+after discovery, respondents had no evidentiary support for
+their allegations about de facto members in the Group,
+the Government could prevail on statutory grounds.  Even were
+it appropriate to address constitutional issues, the court
+explained, its discovery orders would provide the factual
+development necessary to determine the extent of the alleged
+intrusion into the Executive’s constitutional authority. 
+The court then ordered respondents to submit a discovery plan,
+approved that plan in due course, entered orders allowing
+discovery to proceed, and denied the Government’s motion
+for certification under 28 U.S. C. §1292(b) with respect
+to the discovery orders.
+
+ 
+        Petitioners
+sought a writ of mandamus in the Court of Appeals to vacate the
+discovery orders and for other relief, but the court dismissed
+the mandamus petition on the ground that alternative avenues of
+relief remained available.  Citing United States v.
+Nixon, 418 U.S.
+683, the court held that petitioners, in order to guard
+against intrusion into the President’s prerogatives, must
+first assert executive privilege with particularity in the
+District Court.  If the lower court sustained the privilege,
+the appeals court observed, petitioners would be able to obtain
+all the relief they sought; but if the District Court rejected
+the claim, mandamus might well be appropriate.	So long as the
+separation-of-powers conflict remained hypothetical, the court
+held, it had no authority to exercise the extraordinary remedy
+of mandamus.  Although acknowledging that the scope of
+respondents’ discovery requests was overly broad, the
+appeals court nonetheless agreed with the District Court that
+petitioners should bear the burden of invoking executive
+privilege and of objecting to the discovery orders with
+detailed precision.
+
+Held:
+
+    1. Respondents’
+; preliminary argument that the mandamus petition was
+jurisdictionally out of time is rejected.  Respondents assert
+that, because the Government’s basic argument was one of
+discovery immunity–i.e., it need not invoke
+executive privilege or make particular objections to the
+discovery requests–the mandamus petition should have been
+filed within 60 days after the District Court denied the motion
+to dismiss under Federal Rule of Appellate Procedure
+4(a)(1)(B).  On this theory, the last day for any filing in the
+appeals court was September 9, 2002, whereas the mandamus
+petition and notice of appeal were not filed until November 7. 
+However, Rule 4(a), by its plain terms, applies only to the
+filing of a notice of appeal.  It is inapplicable to the
+mandamus petition under the All Writs Act, 28 U. S C.
+§1651.  Respondents’ alternative argument that the
+mandamus petition was barred by the equitable doctrine of
+laches also fails.  Laches might be a bar where the petitioner
+slept on his rights and especially if the delay was
+prejudicial.  Chapman v. County of Douglas, 107 U.S. 348, 355. 
+Here, however, the flurry of motions the Government filed after
+the District Court denied the dismissal motion overcomes
+respondents’ argument.  Nor does the Court accept their
+argument that laches should apply because those Government
+motions amounted to little more than dilatory tactics.	Given
+the drastic nature of mandamus and this Court’s holdings
+that the writ may not issue while alternative avenues of relief
+remain available, the Government cannot be faulted for
+attempting to resolve the dispute through less drastic means. 
+Pp. 7—9. 
+
+      2. The Court
+of Appeals erred in concluding it lacked authority to issue
+mandamus because the Government could protect its rights by
+asserting executive privilege in the District Court. 
+Pp. 9—21.
+
+ 
+        (a) Mandam
+us is a “drastic and extraordinary” remedy
+“reserved for really extraordinary causes.”  Ex
+parte Fahey, 332
+U.S. 258, 259—260.  While the conditions for obtaining
+it may be demanding, they are not insuperable.	This Court has
+issued mandamus to, inter alia, restrain a lower court
+whose actions would threaten the separation of powers by
+embarrassing the Executive Branch.  Ex parte Peru, 318 U.S. 578, 588. 
+Were the Vice President not a party, the argument that the
+Court of Appeals should have entertained a mandamus action
+might present different considerations.  Here, however, the
+Vice President and his Group comembers are the subjects of the
+discovery orders.  The mandamus petition alleges that the
+orders threaten substantial intrusions on the process by which
+those closest to the President advise him.  These facts and
+allegations remove this case from the category of ordinary
+discovery orders where interlocutory appellate review is
+unavailable, through mandamus or otherwise.  A President’s
+communications and activities encompass a vastly wider range of
+sensitive material than would be true of any ordinary
+individual.  Nixon, 418 U.S., at 715.  While the
+President is not above the law, the Judiciary must afford
+Presidential confidentiality the greatest possible
+protection, ibid., recognizing the paramount necessity
+of protecting the Executive Branch from vexatious litigation
+that might distract it from the energetic performance of its
+constitutional duties.	These separation-of-powers
+considerations should inform a court of appeals’
+evaluation of a mandamus petition involving the President or
+the Vice President.  Accepted mandamus standards are broad
+enough to allow a court to prevent a lower court from
+interfering with a coequal branch’s ability to discharge
+its constitutional responsibilities.  See Ex parte Peru,
+supra, at 587.  Pp. 9—12.
+
+ 
+        (b) The
+Court of Appeals labored under the mistaken assumption that the
+assertion of executive privilege is a necessary precondition to
+the Government’s separation-of-powers objections.	In its
+view, the requirement that the Vice President and his Group
+colleagues bear the burden of invoking executive privilege with
+narrow specificity and objecting to the discovery requests with
+detailed precision was mandated by Nixon’s
+rejection of an “absolute, unqualified Presidential
+privilege of immunity from judicial process under all
+circumstances,” 418 U.S., at 706.	The appeals
+court’s analysis overlooks fundamental differences between
+this case and Nixon, which cannot bear the weight the
+court put on it.  Unlike this case, which concerns requests for
+information for use in a civil suit, Nixon involved the
+proper balance between the Executive’s interest in the
+confidentiality of its communications and the
+“constitutional need for production of relevant evidence
+in a criminal proceeding.”  Id., at 713.  The
+distinction between criminal and civil proceedings is not just
+a matter of formalism in this context.	The right to production
+of relevant evidence in civil proceedings does not have the
+same “constitutional dimensions” as it does in the
+criminal context.  Id., at 711.	Withholding necessary
+materials in an ongoing criminal case constitutes an
+impermissible impairment of another branch’s
+“essential functions.”  Id., at 711. 
+Withholding the information in this case does not hamper such
+“essential functions” in quite the same way.	The
+District Court ordered discovery here, not to remedy known
+statutory violations, but to ascertain whether FACA’s
+disclosure requirements apply to the Group at all.  This
+situation cannot, in fairness, be compared to Nixon,
+where a court’s ability to fulfill its constitutional
+responsibility to resolve cases and controversies within its
+jurisdiction hinged on the availability of certain
+indispensable information.  Another important factor here is
+the burden imposed by the discovery orders.  This is not a
+routine discovery dispute.  The discovery requests are directed
+to the Vice President and other senior Government officials who
+served on the Group to give advice and make recommendations to
+the President.	Special considerations control when the
+Executive’s interests in maintaining its autonomy and
+safeguarding its communications’ confidentiality are
+implicated.  See, e.g., Clinton v. Jones, 520 U.S. 681, 707. 
+Even when compared against Nixon’s criminal
+subpoenas involving the President, the civil discovery here
+militates against respondents’ position.  There are no
+checks in civil discovery analogous to the constraints imposed
+in the criminal justice system to filter out insubstantial
+legal claims.  Federal Rule of Civil Procedure 11 sanctions and
+private attorneys’ obligation of candor to the judicial
+tribunal have proved insufficient to discourage the filing of
+meritless claims against the Executive Branch.	Finally, the
+narrowly tailored subpoena orders in Nixon, which
+“precisely identified” and “specific[ally]
+… enumerated”  the relevant materials, 418 U.S., at
+688, and n. 5, stand in marked contrast to the overly
+broad discovery requests approved by the District Court.  Given
+that disparity, this Court’s precedents provide no support
+for the appeals court’s requirement that the Executive
+Branch bear the burden of invoking executive privilege with
+sufficient specificity and of making particularized objections.
+ Indeed, those precedents suggest just the opposite.  See,
+e.g., Clinton, supra, at 705.  Contrary to their
+conclusions, Nixon did not leave the lower courts the
+sole option of inviting the Executive Branch to invoke
+executive privilege.  Rather, they could have narrowed the
+scope of the discovery orders on their own.  In deciding
+whether to issue mandamus, the Court of Appeals must not only
+determine whether there are exceptional circumstances amounting
+to a judicial usurpation of power, Will v. United
+States, 389 U.S.
+90, 95, or “a clear abuse of discretion,”
+Bankers Life & Casualty Co. v. Holland, 346 U.S. 379, 383,
+but must also ask whether the District Court’s actions
+constituted an unwarranted impairment of another branch in the
+performance of its constitutional duties. 
+Pp. 12—20.
+
+ 
+        (c) Absent
+overriding concerns such as the need to avoid piecemeal
+litigation, see Schlagenhauf v. Holder, 379 U.S. 104, 111,
+the Court declines to direct the Court of Appeals to issue
+mandamus against the District Court.  This is not a case where,
+having considered the issues, the appeals court abused its
+discretion by failing to issue the writ.  Instead, it relied on
+its mistaken reading of Nixon and prematurely terminated
+its inquiry without even reaching the weighty
+separation-of-powers objections raised in the case or
+exercising its discretion to determine whether mandamus is
+appropriate under the circumstances.  Because issuance of the
+writ is vested in the discretion of the court to which to
+petition is made, this Court leaves it to the Court of Appeals
+to address the parties’ arguments and other matters
+bearing on whether mandamus should issue, bearing in mind the
+burdens imposed on the Executive Branch in any future
+proceedings.  Special considerations applicable to the
+President and the Vice President suggest that the lower courts
+should be sensitive to Government requests for interlocutory
+appeals to reexamine, e.g., whether the statute embodies
+the de facto membership doctrine. 
+Pp. 20—21.
+
+334 F.3d 1096, vacated and remanded.
+
+    Kennedy, J.,
+delivered the opinion of the Court, in which Rehnquist,
+C. J., and Stevens, O’Connor, and Breyer, JJ.,
+joined, and in which Scalia and Thomas, JJ., joined as to Parts
+I, II, III, and IV.  Stevens, J., filed a concurring opinion. 
+Thomas, J., filed an opinion concurring in part and dissenting
+in part, in which  Scalia, J., joined.	Ginsburg, J., filed a
+dissenting opinion, in which Souter, J., joined.
+
+ 
+

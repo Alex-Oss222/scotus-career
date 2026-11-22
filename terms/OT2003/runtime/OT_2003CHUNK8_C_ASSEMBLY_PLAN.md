@@ -1,0 +1,25 @@
+# OT2003 chunk 8 C assembly plan
+
+This is a provisional assembly artifact, not a Record or current law. No lead author has been assigned. Supported separate-writing authors and their complete grounds are now specified in the revised drafts. Earlier chunk assignments and the actual Rasul public-law screen must precede finalization in the authorized order.
+
+## Ashcroft
+
+One signed lead after plenary review. The common framework is Part I, joined by all nine; the preliminary application and continuing injunction are Part II, joined by Stone-Zsela, Stevens, Kennedy, Souter, Thomas and Ginsburg. Those six support affirmance and can carry the full lead. O'Connor, Scalia and Breyer would reverse only the filtering-based preliminary determination and remand for remaining preserved grounds. Breyer states their shared comparative objection in a dissent, with his necessary national-adult-community construction in a portion the other two do not join. Stevens states the geographic and criminal-chill concurrence; Ginsburg joins that common discussion, but not his independently sufficient community-variation ground or rejection of a national construction. No separate ground enters the controlling rationale. Lead-author selection remains open.
+
+The Chief's continuing injunction, effective-cure requirement, genuinely new evidence or legal-error standard for revisiting supported findings, prompt merits schedule, identification of disputed updated facts, complete statutory comparison and genuine-severance requirement are compatible with the five affirming associates' frozen preliminary and integrated-remand commitments. These instructions implement their existing ground; they do not change a burden or supply a new technological fact. No fallback is needed. The final explanation must answer the dissent's narrower category, access defenses and unactivated-household argument.
+
+## Sosa
+
+One signed lead for both dockets after plenary review. All nine support reversal of each component. Part I states the shared jurisdiction/action/waiver distinctions and preserves the actual existing actions; Part II rejects the new arbitrary-detention action through the reception and specificity inquiry, joined by Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer; Part III applies the bounded foreign-detention and domestic-planning rule, joined by all nine. These seven are eligible to carry the complete lead. Scalia authors the source objection, joined by Thomas, carrying forward the precise objection he previously stated in Abebe-Jira and Kadic/Doe. Ginsburg authors the affirmative last-significant-act account preserved by reconciliation, joined by Breyer, who separately states his own comity qualification. No Marks combination or injury-only general rule is permissible. Lead-author selection remains open.
+
+Finalization requires the actual June 28 Rasul public holding and a materiality review. Until then all doctrinal drafting is provisional. No fallback is needed on the supplied two components. The preservation clause for any genuinely live other theory is conditional and supplies no invented claim. Rejection of the remedy is not affirmative legal permission for capture; the full established actions retain their predicates.
+
+## Roeder
+
+One signed lead after full merits briefing. All nine directly support the independent Accords bar, the separate immunity/action/default/payment inquiries, intervention and judicial reconsideration on the existing posture, and the pending-case application of Robertson, Plaut and Miller. The full Plaut rule is stated accurately as existing binding law and then applied to this unresolved action. That treatment neither newly endorses the underlying finality rationale on behalf of its earlier dissenters nor creates a new broad reaffirmance. Their continuing disagreement remains in the internal continuity account. No separate writing is needed merely to repeat that earlier disagreement where the present common explanation does not reopen it.
+
+The Chief's conditional writing direction covers the portions he actually supports when at least five, including him, join that reasoning. The proposed common statutory and pending-case reasoning has nine direct joins; the direction would therefore cover the complete lead if the final text preserves that compatibility. Final assignment awaits the ordered recount and sequence signal. No fallback, changed associate commitment or invented circulation exchange is needed.
+
+## Validation boundaries
+
+The frozen reconciliation controls O'Connor's Ashcroft reversal. The independent model's earlier contrary row remains preserved only as provenance. Reconciled source-specific departures are carried into each internal audit. No new material source fact is adopted. Ashcroft's March 2 and Sosa's March 30 argument dates were separately verified against the official Reporter syllabi served by Cornell. Roeder receives no invented oral-argument date. All final checks and operator commitment remain pending.

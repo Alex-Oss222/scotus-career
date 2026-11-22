@@ -1,0 +1,120 @@
+Source: https://www.law.cornell.edu/supct/html/03-526.ZS.html
+
+
+
+  
+
+  
+
+	
+
+	
+
+SCHRIRO V. SUMMERLIN
+
+ 
+
+		
+			LII
+
+			Supreme Court		 
+
+	
+
+SCHRIRO V. SUMMERLIN (03-526) 
+341 F.3d 1082, reversed and remanded.
+Syllabus
+ Opinion
+ [ Scalia ]Dissent
+ [ Breyer ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a
+syllabus (headnote) will be released, as is being done in
+connection with this case, at the time the opinion is
+issued.
+The syllabus constitutes no part of the opinion of
+the Court but has been prepared by the Reporter of Decisions
+for the convenience of the reader.
+See United States
+v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+SCHRIRO, DIRECTOR, ARIZONA DEPARTMENT OF
+CORRECTIONS v. SUMMERLIN
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE NINTH CIRCUIT
+
+ 
+No. 03—526. 
+Argued April 19, 2004–Decided June 24, 2004
+
+Respondent was convicted of first-degree
+murder and sentenced to death under Arizona’s capital
+sentencing scheme then in effect, which authorized the trial
+judge, rather than the jury, to determine the presence of
+aggravating circumstances that make the defendant eligible for
+the death sentence.  The State Supreme Court affirmed on direct
+review.  While respondent’s subsequent federal habeas case
+was pending in the Ninth Circuit, this Court decided that
+Apprendi v. New Jersey, 530 U.S. 466, 490,
+required the existence of an aggravating factor to be proved to
+a jury rather than a judge under Arizona’s scheme. 
+Ring v. Arizona, 536 U.S. 584,
+603—609.  The Ninth Circuit invalidated respondent’s
+death sentence, rejecting the argument that Ring did not
+apply because respondent’s conviction and sentence had
+become final on direct review before Ring was
+decided.
+
+Held: Ring does not apply
+retroactively to cases already final on direct review. 
+Pp. 3—10.
+
+    (a) A “new
+rule” resulting from a decision of this Court applies to
+convictions that are already final only in limited
+circumstances.	New substantive rules generally apply
+retroactively, but new procedural rules generally do
+not–only “ ‘watershed
+rules of criminal procedure’ implicating the fundamental
+fairness and accuracy of the criminal proceeding” are
+given retroactive effect.  Saffle v. Parks, 494 U.S. 484, 495. 
+Such a rule must be one “without which the likelihood of
+an accurate conviction is seriously diminished.” 
+Teague v. Lane, 489 U.S. 288, 313. 
+Pp. 3—4.
+
+ 
+    (b) Ring’s holding is
+properly classified as procedural.  It did not alter the range
+of conduct or the class of persons subject to the death penalty
+in Arizona, but only the method of determining whether the
+defendant engaged in that conduct.  Pp. 4—6.
+
+ 
+    (c) Ring did not announce a
+watershed rule of criminal procedure.  This Court cannot
+confidently say that judicial factfinding seriously diminishes
+accuracy.  Pp. 7—10.
+
+341 F.3d 1082, reversed and remanded.
+
+    Scalia, J., delivered
+the opinion of the Court, in which Rehnquist, C. J., and
+O’Connor, Kennedy, and Thomas, JJ., joined.  Breyer, J.,
+filed a dissenting opinion, in which Stevens, Souter, and
+Ginsburg, JJ., joined.
+
+ 
+

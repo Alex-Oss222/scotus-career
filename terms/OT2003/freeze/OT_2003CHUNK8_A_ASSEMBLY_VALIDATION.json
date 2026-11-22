@@ -1,0 +1,316 @@
+{
+  "status": "A group local checks passed; full chunk checks and operator commitment pending",
+  "sequence_counts_after_A": {
+    "Stone-Zsela": 12,
+    "Stevens": 12,
+    "O'Connor": 12,
+    "Scalia": 11,
+    "Kennedy": 12,
+    "Souter": 12,
+    "Thomas": 11,
+    "Ginsburg": 12,
+    "Breyer": 12
+  },
+  "records": [
+    {
+      "record": "terms/OT2003/records/intel-corp-v-advanced-micro-devices_merits_2004-06-21.md",
+      "author": "Scalia",
+      "judgment_support": [
+        "Stone-Zsela",
+        "Stevens",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg"
+      ],
+      "other_dispositions": [
+        "Breyer"
+      ],
+      "nonparticipating": [
+        "O'Connor"
+      ],
+      "proposition_support": {
+        "I–III": [
+          "Stone-Zsela",
+          "Stevens",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ]
+      },
+      "explanation_words": [
+        117,
+        115,
+        106
+      ],
+      "prior_records_recounted": 104,
+      "public_sha256": "a88bce2d67b3572c80b621ebe7a1688f6c6b278fe4a09b64504e98423f86675d"
+    },
+    {
+      "record": "terms/OT2003/records/duckworth-v-state-administration-board-of-election-laws_merits_2004-06-23.md",
+      "author": "Thomas",
+      "judgment_support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "other_dispositions": [],
+      "nonparticipating": [],
+      "proposition_support": {
+        "I–II": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ]
+      },
+      "explanation_words": [
+        113,
+        97
+      ],
+      "prior_records_recounted": 105,
+      "public_sha256": "e3b5b256ba5073db16e097904c80f2aeedf8b7bdd26db159d3247a8ecd8d9fd1"
+    },
+    {
+      "record": "terms/OT2003/records/beard-v-banks_merits_2004-06-24.md",
+      "author": "Stone-Zsela",
+      "judgment_support": [
+        "Stone-Zsela",
+        "Stevens",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "other_dispositions": [
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas"
+      ],
+      "nonparticipating": [],
+      "proposition_support": {
+        "I–IV": [
+          "Stone-Zsela",
+          "Stevens",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ]
+      },
+      "explanation_words": [
+        143,
+        163,
+        134,
+        111
+      ],
+      "prior_records_recounted": 106,
+      "public_sha256": "971428ce38c31d5da2ab79a9093dd3115727e74f6a709ed413ac4cf5c6b99ccd"
+    },
+    {
+      "record": "terms/OT2003/records/blakely-v-washington_merits_2004-06-24.md",
+      "author": "Souter",
+      "judgment_support": [
+        "Stone-Zsela",
+        "Stevens",
+        "Scalia",
+        "Souter",
+        "Thomas",
+        "Ginsburg"
+      ],
+      "other_dispositions": [
+        "O'Connor",
+        "Kennedy",
+        "Breyer"
+      ],
+      "nonparticipating": [],
+      "proposition_support": {
+        "I–II": [
+          "Stone-Zsela",
+          "Stevens",
+          "Scalia",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ]
+      },
+      "explanation_words": [
+        131,
+        129
+      ],
+      "prior_records_recounted": 107,
+      "public_sha256": "80e4f171cebad58cae69ddb315be77d7ce90003c823e46fb8ac9d2675aef8dab"
+    },
+    {
+      "record": "terms/OT2003/records/cheney-v-united-states-district-court_merits_2004-06-24.md",
+      "author": "Stone-Zsela",
+      "judgment_support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Kennedy",
+        "Breyer"
+      ],
+      "other_dispositions": [
+        "Scalia",
+        "Thomas",
+        "Souter",
+        "Ginsburg"
+      ],
+      "nonparticipating": [],
+      "proposition_support": {
+        "I": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "II": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Thomas",
+          "Breyer"
+        ],
+        "III": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "IV": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Breyer"
+        ]
+      },
+      "explanation_words": [
+        98,
+        158,
+        138,
+        104
+      ],
+      "prior_records_recounted": 108,
+      "public_sha256": "939f9f163c622f87f45d74bbf821a7b100c73c8d95337faed8086bbbfad95f6a"
+    },
+    {
+      "record": "terms/OT2003/records/schriro-v-summerlin_merits_2004-06-24.md",
+      "author": "Breyer",
+      "judgment_support": [
+        "Stone-Zsela",
+        "Stevens",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "other_dispositions": [
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas"
+      ],
+      "nonparticipating": [],
+      "proposition_support": {
+        "I": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "II–III": [
+          "Stone-Zsela",
+          "Stevens",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ]
+      },
+      "explanation_words": [
+        99,
+        215,
+        112
+      ],
+      "prior_records_recounted": 109,
+      "public_sha256": "3f8d9dcab5cd9c2b7dab4fd2b2265e9a6ead82a634b8addb0be50d5c4de2167b"
+    },
+    {
+      "record": "terms/OT2003/records/tennard-v-dretke_merits_2004-06-24.md",
+      "author": "Kennedy",
+      "judgment_support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Kennedy",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "other_dispositions": [
+        "Scalia",
+        "Thomas"
+      ],
+      "nonparticipating": [],
+      "proposition_support": {
+        "I–II": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ]
+      },
+      "explanation_words": [
+        140,
+        151
+      ],
+      "prior_records_recounted": 110,
+      "public_sha256": "eeaf3b3d5d224a1b6d7ff9320a9cb646cab3f634c32e2c9f53af4114d28c6eb6"
+    }
+  ],
+  "checks": [
+    "four exact labels",
+    "natural key filenames",
+    "nine-seat participation partitions",
+    "majority arithmetic by component",
+    "exact eleven-block order",
+    "public Chief naming",
+    "no workflow metadata in public text",
+    "no prohibited destination or local URL",
+    "ordinary explanation ceiling",
+    "actual prior-table recount before each sequential assignment",
+    "public/runtime copy identity"
+  ],
+  "negative_review": "Completed for all five designated blocks. Removed identified unpresented neighboring-question and untried-elements disclaimers; retained actual requested-relief limits, surviving judgments, exclusions from grants and independently operative conditions. No may-to-must conversion in controlling Cheney law."
+}

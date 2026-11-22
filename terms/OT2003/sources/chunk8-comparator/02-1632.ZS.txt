@@ -1,0 +1,137 @@
+Source: https://www.law.cornell.edu/supct/html/02-1632.ZS.html
+
+
+
+  
+
+  
+
+	
+
+	
+
+BLAKELY V. WASHINGTON
+
+ 
+
+		
+			LII
+
+			Supreme Court		 
+
+	
+
+BLAKELY V. WASHINGTON (02-1632) 
+111 Wash. App. 851, 47 P.3d 149, reversed and remanded.
+Syllabus
+ Opinion
+ [ Scalia ]Dissent
+ [ O’Connor ]Dissent
+ [ Kennedy ]Dissent
+ [ Breyer ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a
+syllabus (headnote) will be released, as is being done in
+connection with this case, at the time the opinion is
+issued.
+The syllabus constitutes no part of the opinion of
+the Court but has been prepared by the Reporter of Decisions
+for the convenience of the reader.
+See United States
+v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+BLAKELY v. WASHINGTON
+
+CERTIORARI TO THE COURT OF APPEALS OF
+WASHINGTON
+
+ 
+No. 02—1632. Argued March 23, 2004–Decided June 24,
+2004
+
+Petitioner pleaded guilty to kidnaping his
+estranged wife.  The facts admitted in his plea, standing
+alone, supported a maximum sentence of 53 months, but the judge
+imposed a 90-month sentence after finding that petitioner had
+acted with deliberate cruelty, a statutorily enumerated ground
+for departing from the standard range.	The Washington Court of
+Appeals affirmed, rejecting petitioner’s argument that the
+sentencing procedure deprived him of his federal constitutional
+right to have a jury determine beyond a reasonable doubt all
+facts legally essential to his sentence.
+
+Held: Because the facts
+supporting petitioner’s exceptional sentence were neither
+admitted by petitioner nor found by a jury, the sentence
+violated his Sixth
+Amendment right to trial by jury.  Pp. 5—18.
+
+    (a) This case
+requires the Court to apply the rule of Apprendi v.
+New Jersey, 530
+U.S. 466, 490, that, “[o]ther than the fact of a prior
+conviction, any fact that increases the penalty for a crime
+beyond the prescribed statutory maximum must be submitted to a
+jury, and proved beyond a reasonable doubt.”  The relevant
+statutory maximum for Apprendi purposes is the maximum a
+judge may impose based solely on the facts reflected in the
+jury verdict or admitted by the defendant.  Here, the judge
+could not have imposed the 90-month sentence based solely on
+the facts admitted in the guilty plea, because Washington law
+requires an exceptional sentence to be based on factors other
+than those used in computing the standard-range sentence. 
+Petitioner’s sentence is not analogous to those upheld in
+McMillan v. Pennsylvania, 477 U.S. 79, and
+Williams v. New York, 337 U.S. 241, which
+were not greater than what state law authorized based on the
+verdict alone.	Regardless of whether the judge’s
+authority to impose the enhanced sentence depends on a
+judge’s finding a specified fact, one of several specified
+facts, or any aggravating fact, it remains the case that
+the jury’s verdict alone does not authorize the sentence. 
+Pp. 5—9.
+
+      (b) This
+Court’s commitment to Apprendi in this context
+reflects not just respect for longstanding precedent, but the
+need to give intelligible content to the fundamental
+constitutional right of jury trial.  Pp. 9—12.
+
+      (c) This
+case is not about the constitutionality of determinate
+sentencing, but only about how it can be implemented in a way
+that respects the Sixth Amendment. 
+The Framers’ paradigm for criminal justice is the
+common-law ideal of limited state power accomplished by strict
+division of authority between judge and jury.  That can be
+preserved without abandoning determinate sentencing and at no
+sacrifice of fairness to the defendant. 
+Pp. 12—17.
+
+111 Wash. App. 851, 47 P.3d 149, reversed and
+remanded.
+
+    Scalia, J., delivered
+the opinion of the Court, in which Stevens, Souter, Thomas, and
+Ginsburg, JJ., joined.	O’Connor, J., filed a dissenting
+opinion, in which Breyer, J., joined, and in which Rehnquist,
+C. J., and Kennedy, J., joined except as to Part
+IV—B.  Kennedy, J., filed a dissenting opinion, in which
+Breyer, J., joined.  Breyer, J., filed a dissenting opinion, in
+which O’Connor, J., joined.
+
+ 
+

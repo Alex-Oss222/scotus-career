@@ -1,0 +1,178 @@
+Source: https://www.law.cornell.edu/supct/html/02-1603.ZS.html
+
+
+
+  
+
+  
+
+	
+
+	
+
+BEARD V. BANKS
+
+ 
+
+		
+			LII
+
+			Supreme Court		 
+
+	
+
+BEARD V. BANKS (02-1603) 
+316 F.3d 228, reversed and remanded.
+Syllabus
+ Opinion
+ [ Thomas ]Dissent
+ [ Stevens ]Dissent
+ [ Souter ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a
+syllabus (headnote) will be released, as is being done in
+connection with this case, at the time the opinion is
+issued.
+The syllabus constitutes no part of the opinion of
+the Court but has been prepared by the Reporter of Decisions
+for the convenience of the reader.
+See United States
+v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+BEARD, SECRETARY, PENNSYLVANIA DEPARTMENT OF
+CORRECTIONS, et al. v. BANKS
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE THIRD CIRCUIT
+
+ 
+No. 02—1603. Argued February 24, 2004–Decided June 24,
+2004
+
+After respondent’s murder conviction and
+death sentence were upheld by the Pennsylvania Supreme Court,
+this Court decided Mills v. Maryland, 486 U.S. 367, and
+McKoy v. North Carolina, 494 U.S. 433, in
+which it held invalid capital sentencing schemes requiring
+juries to disregard mitigating factors not found unanimously. 
+After respondent’s state postconviction Mills claim
+was rejected by the State Supreme Court on the merits, he
+turned to the federal courts.  Ultimately, the Third Circuit
+applied the analytical framework set forth in Teague v.
+Lane, 489 U.S.
+288, under which federal habeas petitioners may not avail
+themselves of new rules of constitutional criminal procedure
+outside two narrow exceptions; concluded that Mills did
+not announce a new rule and therefore could be applied
+retroactively; and granted respondent relief.
+
+Held: Because Mills
+announced a new rule of constitutional criminal procedure that
+does not fall within either Teague exception, its rule
+cannot be applied retroactively.  Pp. 4—14.
+
+    (a) Teague
+analysis involves a three-step process requiring a court to
+determine when a defendant’s conviction became final;
+whether, given the legal landscape at the time the conviction
+became final, the rule sought to be applied is actually new;
+and, if so, whether it falls within either of two exceptions to
+nonretroactivity.  P. 4.
+
+ 
+    (b) Respondent’s conviction
+became final before Mills was decided.  The normal rule
+for determining a state conviction’s finality for
+retroactivity review–when the availability of direct
+appeal to the state courts has been exhausted and the time for
+filing a certiorari petition has elapsed or a timely petition
+has been finally denied–applies here.  That the
+Pennsylvania Supreme Court considered the merits of
+respondent’s Mills claim on collateral review does
+change his conviction’s finality to a date subsequent to
+Mills.  Pp. 4—6.
+
+ 
+    (c) Mills announced a new
+rule.  In reaching its conclusion in Mills and
+McKoy, this Court relied on a line of cases beginning
+with Lockett v. Ohio, 438 U.S. 586. 
+Lockett’s general rule that the sentencer must be
+allowed to consider any mitigating evidence could be thought to
+support the conclusion in Mills and McKoy that
+capital sentencing schemes cannot require juries to
+disregard mitigating factors not found unanimously, but
+it did not mandate the Mills rule.  Each of the cases
+relied on by Mills (and McKoy) considered only
+obstructions to the sentencer’s ability to consider
+mitigating evidence.  Mills’ innovation rests with
+its shift in focus to individual jurors.  Moreover, there is no
+need to guess whether reasonable jurists could have differed as
+to whether the Lockett line of cases compelled Mills.
+ Four dissenting Justices in Mills reasoned that
+because nothing prevented the jury from hearing the mitigating
+evidence, Lockett did not control; and three dissenting
+Justices in McKoy concluded that Lockett did not
+remotely support the new focus on individual jurors.  Because
+the Mills rule broke new ground, it applies to
+respondent on collateral review only if it falls under a
+Teague exception.  Pp. 6—10.
+
+      (d) The
+Mills rule does not fall within either exception.  There
+is no argument that the first exception applies here.  And this
+Court has repeatedly emphasized the limited scope of the second
+exception–“ ‘for
+watershed rules of criminal procedure implicating the
+fundamental fairness and accuracy of the criminal
+proceeding,’ ”
+O’Dell v. Netherland, 521 U.S. 151,
+157–which “ ‘is
+clearly meant to apply only to a small core of rules requiring
+observance of those procedures that … are implicit in the
+concept of ordered liberty,’ ” ibid.	This Court has yet to find a new
+rule that falls under this exception.  In providing guidance as
+to what might do so, the Court has repeatedly, and only,
+referred to the right-to-counsel rule of Gideon v.
+Wainwright, 372
+U.S. 335, which “altered [the Court’s]
+understanding of the bedrock procedural elements
+essential to the fairness of a proceeding,” Sawyer
+v. Smith, 497
+U.S. 227, 242.  The Court has not hesitated to hold less
+sweeping and fundamental rules outside the exception.  See,
+e.g., O’Dell v. Netherland, supra.
+ While Mills and McKoy were decided to avoid
+potentially arbitrary impositions of the death sentence, the
+Mills rule has “none of the primacy and centrality
+of the rule adopted in Gideon,” Saffle v.
+Parks, 494 U.S.
+484, 495.  It applies narrowly and works no fundamental
+shift in the Court’s “ ‘understanding of the bedrock procedural
+elements’ ”essential
+to fundamental fairness, O’Dell, supra, at
+167.  Pp. 10—13.  
+
+316 F.3d 228, reversed and remanded.
+
+    Thomas, J., delivered
+the opinion of the Court, in which Rehnquist, C. J., and
+O’Connor, Scalia, and Kennedy, JJ., joined.  Stevens, J.,
+filed a dissenting opinion, in which Souter, Ginsburg, and
+Breyer, JJ., joined.  Souter, J., filed a dissenting opinion,
+in which Ginsburg, J., joined.
+
+ 
+

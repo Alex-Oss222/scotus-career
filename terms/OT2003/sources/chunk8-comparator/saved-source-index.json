@@ -1,0 +1,170 @@
+{
+  "scope": "Historical comparison only; unavailable to independent modeling",
+  "retrieval": "Cornell separate-writing pages retrieved by script; inventory is not a full-reading certification",
+  "files": [
+    {
+      "file": "02-1371.ZC.txt",
+      "bytes": 2447
+    },
+    {
+      "file": "02-1371.ZC1.txt",
+      "bytes": 9499
+    },
+    {
+      "file": "02-1371.ZD.txt",
+      "bytes": 14284
+    },
+    {
+      "file": "02-1371.ZO.txt",
+      "bytes": 31667
+    },
+    {
+      "file": "02-1371.ZS.txt",
+      "bytes": 10836
+    },
+    {
+      "file": "02-1603.ZD.txt",
+      "bytes": 7246
+    },
+    {
+      "file": "02-1603.ZD1.txt",
+      "bytes": 5885
+    },
+    {
+      "file": "02-1603.ZO.txt",
+      "bytes": 26656
+    },
+    {
+      "file": "02-1603.ZS.txt",
+      "bytes": 6227
+    },
+    {
+      "file": "02-1632.ZD.txt",
+      "bytes": 26812
+    },
+    {
+      "file": "02-1632.ZD1.txt",
+      "bytes": 4782
+    },
+    {
+      "file": "02-1632.ZD2.txt",
+      "bytes": 40682
+    },
+    {
+      "file": "02-1632.ZO.txt",
+      "bytes": 36237
+    },
+    {
+      "file": "02-1632.ZS.txt",
+      "bytes": 4334
+    },
+    {
+      "file": "02-572.ZC.txt",
+      "bytes": 1645
+    },
+    {
+      "file": "02-572.ZD.txt",
+      "bytes": 12575
+    },
+    {
+      "file": "02-572.ZO.txt",
+      "bytes": 47903
+    },
+    {
+      "file": "02-572.ZS.txt",
+      "bytes": 14323
+    },
+    {
+      "file": "03-1027.ZC.txt",
+      "bytes": 9890
+    },
+    {
+      "file": "03-1027.ZD.txt",
+      "bytes": 24355
+    },
+    {
+      "file": "03-1027.ZO.txt",
+      "bytes": 48053
+    },
+    {
+      "file": "03-1027.ZS.txt",
+      "bytes": 9902
+    },
+    {
+      "file": "03-334.ZC.txt",
+      "bytes": 7346
+    },
+    {
+      "file": "03-334.ZD.txt",
+      "bytes": 41209
+    },
+    {
+      "file": "03-334.ZS.txt",
+      "bytes": 9097
+    },
+    {
+      "file": "03-339.ZC1.txt",
+      "bytes": 21333
+    },
+    {
+      "file": "03-339.ZC2.txt",
+      "bytes": 7001
+    },
+    {
+      "file": "03-339.ZO.txt",
+      "bytes": 93128
+    },
+    {
+      "file": "03-339.ZS.txt",
+      "bytes": 12603
+    },
+    {
+      "file": "03-475.ZC.txt",
+      "bytes": 4088
+    },
+    {
+      "file": "03-475.ZD.txt",
+      "bytes": 23973
+    },
+    {
+      "file": "03-475.ZO.txt",
+      "bytes": 42576
+    },
+    {
+      "file": "03-475.ZS.txt",
+      "bytes": 16007
+    },
+    {
+      "file": "03-475.ZX.txt",
+      "bytes": 5382
+    },
+    {
+      "file": "03-526.ZD.txt",
+      "bytes": 17219
+    },
+    {
+      "file": "03-526.ZO.txt",
+      "bytes": 20216
+    },
+    {
+      "file": "03-526.ZS.txt",
+      "bytes": 3352
+    },
+    {
+      "file": "03-6696.ZD.txt",
+      "bytes": 54222
+    },
+    {
+      "file": "03-6696.ZO.txt",
+      "bytes": 65522
+    },
+    {
+      "file": "03-6696.ZS.txt",
+      "bytes": 5200
+    },
+    {
+      "file": "03-6696.ZX.txt",
+      "bytes": 31197
+    }
+  ]
+}

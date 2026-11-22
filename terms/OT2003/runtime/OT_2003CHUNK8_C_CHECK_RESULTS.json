@@ -1,0 +1,61 @@
+{
+  "records": [
+    {
+      "case": "ASHCROFT",
+      "file": "ashcroft_v_american_civil_liberties_union_merits_2004-06-29.md",
+      "author": "Ginsburg",
+      "preceding_records": 117,
+      "preceding_lead_credits": 112,
+      "explanation_words": [
+        298,
+        274
+      ],
+      "public_copy_identity": true,
+      "frozen_annex_identity": true,
+      "relative_references_resolve": true
+    },
+    {
+      "case": "SOSA",
+      "file": "sosa_v_alvarez_machain_merits_2004-06-29.md",
+      "author": "Stevens",
+      "preceding_records": 118,
+      "preceding_lead_credits": 113,
+      "explanation_words": [
+        285,
+        231,
+        209
+      ],
+      "public_copy_identity": true,
+      "frozen_annex_identity": true,
+      "relative_references_resolve": true
+    },
+    {
+      "case": "ROEDER",
+      "file": "roeder_v_islamic_republic_of_iran_merits_2004-06-30.md",
+      "author": "Stone-Zsela",
+      "preceding_records": 119,
+      "preceding_lead_credits": 114,
+      "explanation_words": [
+        250,
+        132,
+        285
+      ],
+      "public_copy_identity": true,
+      "frozen_annex_identity": true,
+      "relative_references_resolve": true
+    }
+  ],
+  "final_counts": {
+    "Stone-Zsela": 14,
+    "Stevens": 13,
+    "O'Connor": 13,
+    "Scalia": 12,
+    "Kennedy": 13,
+    "Souter": 13,
+    "Thomas": 12,
+    "Ginsburg": 13,
+    "Breyer": 12
+  },
+  "durable_records": 120,
+  "lead_credits": 115
+}

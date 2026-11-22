@@ -1,0 +1,33 @@
+# OT2003 chunk 8 assembly instructions
+
+This is an internal operator handoff, not law or a source of votes. Read the governing Engine, the applicable AGENTS standards, the Render Contract, the assigned frozen neutral/reconciled handoffs, and only the assigned approved Section II entries. Reconciled commitments control non-Chief positions subject to the Engine's supported circulation procedure. Every Section II entry is approved; proposed-vote wording is not an approval gap.
+
+## Boundaries
+
+Run no git command. Write only under this term or the ignored scratch directory. Do not access the locked top-level private directory. Preserve every preexisting Record and brief. Do not create a published chunk output; Render is separate. Use relative repository links or public authority URLs in files. Name the Chief Justice Stone-Zsela throughout every Public Projection.
+
+The scheduled Court review is authorized. Do not stop for missing Supreme Court docket, grant, appeal, filing, or jurisdictional statement verification. Decide the actually presented threshold questions, including lower-court habeas forum, on the supplied record. Use actual effective law; uncoordinated same-day cases share a baseline. Check completed earlier-date Records for any materially changed premise before finalizing a later event.
+
+## Form, assignments and preservation
+
+New Records are written sequentially in this order: Intel; Duckworth; Beard; Blakely; Cheney; Schriro; Tennard; Hamdi; Holland; Missouri v. Seibert; Rasul; Rumsfeld v. Padilla; United States v. Patane; Ashcroft; Sosa; Roeder. The ordering controls assignment accounting, not same-day legal dependence.
+
+Decide signed or per curiam form, propositions, component coalitions and whether one author can carry all parts before consulting counts. Then recount every counted lead in all earlier durable term Records, including this Run. The scratch helper `tmp/ot2003_chunk8_assignment_support.py` performs only this arithmetic and copies actual public opinion topology; it uses no repository-history command. Its `assignment` function accepts legally determined eligibility, the chosen author, form and reasons, and returns the audit statement and an actual-table snapshot. Inspect the helper before using it. Every signed public lead attribution should use a clear delivery sentence so its actual author is machine-readable. Separate writings and per curiam opinions do not count.
+
+The Chief's pool consists of full-rationale eligible authors no more than one lead above the lowest eligible count. Actual substantive fit or a supported coalition accommodation selects within that pool. State the counts, last counted lead, eligibility, pool, assigner, author and case-specific reason. An Associate's assignment is governed by that Justice's supported priorities; it still counts afterward. Never change opinion form, propositions, or joins to alter the pool.
+
+Only Cheney and Roeder in this chunk have the special conditional writing direction: with a lawful quorum, when at least five Justices including Stone-Zsela actually join his reasoning supporting the judgment on an issue, he delivers the covered portions. Judgment-only votes do not trigger it. The direction controls those portions even if multiple authors are needed; apply ordinary Section 8 to uncovered portions. State actual coverage and condition in the audit, with ordinary public authorship only in the projection.
+
+## Record and public content
+
+Start each Record with the four exact labels required by AGENTS. Use a natural case/action/date filename. Preserve the approved core and every material exception, qualification, burden, condition, remedy and branch. Record each standing-fallback use by component; a fallback vote supplies no additional reason or author eligibility. No unapproved narrowing, contrary ground, automatic substantive join, or invented source fact is permitted.
+
+The audit annex must preserve each non-Chief Justice's frozen ground, final exact joins, historical reconciliation, concrete changed premise for any material departure, and assignment evidence. Use the required Historical departure and Consequence labels where applicable. A material post-reconciliation commitment change requires a separate Stone-free reconciliation audit before preservation. Do not invent draft history when direct compatibility establishes the result.
+
+Public holding explanations must state the complete operative rule and its authority, explain controlling precedents and record application, and answer the principal contrary ground where needed. Use the ordinary 350-word ceiling per controlling explanation unless a supplied designation actually applies. The conditional writing cases are not automatically special-consideration length designations. Distinguish controlling law from separate positions, mere application work, remand factfinding, and a genuinely unresolved legal question. A split judgment needs named component coalitions; fragmented rationale needs exact topology and any properly supported narrower-ground analysis.
+
+End with `## Public Projection` and these eleven level-two blocks exactly: Event; Participation; Public Action; Judgment & Remedy; Opinion Topology; Holdings; Precedent Treatment; Law After Decision; Separate Writings; Procedure After Action; Source Notes. Source Notes carry public legal citations and legally material record limits, not retrieval or operator details. Include supplied or verified argument dates; do not invent dates for added matters. Preserve complete published noncontrolling positions in the internal continuity account even if the selected public summaries are shorter.
+
+Apply the negative-statement rule to Judgment & Remedy, Holdings, Precedent Treatment, Law After Decision and Procedure After Action. Omit redundant declarations that the Court did not grant unrequested or disposition-inconsistent relief. Keep only genuinely reserved legal questions, denial of requested relief, surviving judgment or custody status, and independently operative limits meeting Section 8. Public silence may honor a limit without creating a separate-writing function. Record the actual review result in the per-group validation for integration into the chunk validation.
+
+Avoid lengthy verbatim source passages. For any necessary exact source text, mechanically copy from its saved source; otherwise write original, precise analysis. Every Record states its event-date research cutoff, source support and limits, internal stage provenance, actual validation status, durable path, and operator commitment status. Do not claim a check passed before it ran.

@@ -1,0 +1,299 @@
+Source: https://www.law.cornell.edu/supct/html/03-339.ZS.html
+
+
+
+  
+
+  
+
+	
+
+	
+
+SOSA V. ALVAREZ-MACHAIN
+
+ 
+
+		
+			LII
+
+			Supreme Court		 
+
+	
+
+SOSA V. ALVAREZ-MACHAIN (03-339) 
+331 F.3d 604, reversed.
+Syllabus
+ Opinion
+ [ Souter ]Concurrence
+ [ Scalia ]Concurrence
+ [ Opinion of Ginsburg ]Concurrence
+ [ Opinion of Breyer ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a
+syllabus (headnote) will be released, as is being done in
+connection with this case, at the time the opinion is
+issued.
+The syllabus constitutes no part of the opinion of
+the Court but has been prepared by the Reporter of Decisions
+for the convenience of the reader.
+See United States
+v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+SOSA v. ALVAREZ-MACHAIN et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE NINTH CIRCUIT
+
+ 
+No. 03—339. 
+Argued March 30, 2004–Decided June 29, 2004<*
+num="*">
+
+The Drug Enforcement Administration (DEA)
+approved using petitioner Sosa and other Mexican nationals to
+abduct respondent Alvarez-Machain (Alvarez), also a Mexican
+national, from Mexico to stand trial in the United States for a
+DEA agent’s torture and murder.  As relevant here, after
+his acquittal, Alvarez sued the United States for false arrest
+under the Federal Tort Claims Act (FTCA), which waives
+sovereign immunity in suits “for … personal injury
+… caused by the negligent or wrongful act or omission of
+any [Government] employee while acting within the scope of his
+office or employment,” 28 U.S.C. §
+1346(b)(1); and sued Sosa for violating the law of nations
+under the Alien Tort statute (ATS), a 1789 law giving district
+courts “original jurisdiction of any civil action by an
+alien for a tort only, committed in violation of the law of
+nations … ,” §1350.  The District Court
+dismissed the FTCA claim, but awarded Alvarez summary judgment
+and damages on the ATS claim.  The Ninth Circuit affirmed the
+ATS judgment, but reversed the FTCA claim’s dismissal.
+
+Held:
+
+    1. The
+FTCA’s exception to waiver of sovereign immunity for
+claims “arising in a foreign country,” 28 U.S.C. §
+2680(k), bars claims based on any injury suffered in a
+foreign country, regardless of where the tortious act or
+omission occurred.  Pp. 4—17.
+
+ 
+        (a) The
+exception on its face seems plainly applicable to the facts of
+this case.  Alvarez’s arrest was said to be
+“false,” and thus tortious, only because, and only to
+the extent that, it took place and endured in Mexico. 
+Nonetheless, the Ninth Circuit allowed the action to proceed
+under what is known as the “headquarters doctrine,”
+concluding that, because Alvarez’s abduction was the
+direct result of wrongful planning and direction by DEA agents
+in California, his claim did not “aris[e] in” a
+foreign country.  Because it will virtually always be possible
+to assert negligent activity occurring in the United States,
+such analysis must be viewed with skepticism.  Two
+considerations confirm this Court’s skepticism and lead it
+to reject the headquarters doctrine.  Pp. 4—7.
+
+ 
+        (b) The
+first consideration applies to cases like this one, where harm
+was arguably caused both by action in the foreign country and
+planning in the United States.	Proximate cause is necessary to
+connect the domestic breach of duty with the action in the
+foreign country, for the headquarters’ behavior must be
+sufficiently close to the ultimate injury, and sufficiently
+important in producing it, to make it reasonable to follow
+liability back to that behavior.  A proximate cause connection
+is not itself sufficient to bar the foreign country
+exception’s application, since a given proximate cause may
+not be the harm’s exclusive proximate cause.  Here, for
+example, assuming the DEA officials’ direction was a
+proximate cause of the abduction, so were the actions of Sosa
+and others in Mexico.  Thus, at most, recognition of additional
+domestic causation leaves an open question whether the
+exception applies to Alvarez’s claim. 
+Pp. 8—9.
+
+ 
+        (c) The
+second consideration is rooted in the fact that the harm
+occurred on foreign soil.  There is good reason to think that
+Congress understood a claim “arising in” a foreign
+country to be a claim for injury or harm occurring in that
+country.  This was the common usage of “arising
+under” in contemporary state borrowing statutes used to
+determine which State’s limitations statute applied in
+cases with transjurisdictional facts.  And such language was
+interpreted in tort cases in just the same way that the Court
+reads the FTCA today.  Moreover, there is specific reason to
+believe that using “arising in” to refer to place of
+harm was central to the foreign country exception’s
+object.  When the FTCA was passed, courts generally applied the
+law of the place where the injury occurred in tort cases, which
+would have been foreign law for a plaintiff injured in a
+foreign country.  However, application of foreign substantive
+law was what Congress intended to avoid by the foreign country
+exception.  Applying the headquarters doctrine would thus have
+thwarted the exception’s object by recasting foreign
+injury claims as claims not arising in a foreign country
+because of some domestic planning or negligence.  Nor has the
+headquarters doctrine outgrown its tension with the exception. 
+The traditional approach to choice of substantive tort law has
+lost favor, but many States still use that analysis.  And, in
+at least some cases the Ninth Circuit’s approach would
+treat as arising at headquarters, even the later methodologies
+of choice point to the application of foreign law.  There is
+also no merit to an argument that the headquarters doctrine
+should be permitted when a State’s choice of law approach
+would not apply the foreign law of the place of injury. 
+Congress did not write the exception to apply when foreign law
+would be applied.  Rather, the exception was written at a time
+when “arising in” meant where the harm occurred; and
+the odds are that Congress meant simply that when it used the
+phrase.  Pp. 9—17.
+
+      2. Alvarez
+is not entitled to recover damages from Sosa under the ATS. 
+Pp. 17—45.
+
+ 
+        (a) The
+limited, implicit sanction to entertain the handful of
+international law cum common law claims understood in
+1789 is not authority to recognize the ATS right of action
+Alvarez asserts here.  Contrary to Alvarez’s claim, the
+ATS is a jurisdictional statute creating no new causes of
+action.  This does not mean, as Sosa contends, that the ATS was
+stillborn because any claim for relief required a further
+statute expressly authorizing adoption of causes of action. 
+Rather, the reasonable inference from history and practice is
+that the ATS was intended to have practical effect the moment
+it became law, on the understanding that the common law would
+provide a cause of action for the modest number of
+international law violations thought to carry personal
+liability at the time: offenses against ambassadors, violation
+of safe conducts, and piracy.  Sosa’s objections to this
+view are unpersuasive.	Pp. 17—30.
+
+ 
+        (b) While
+it is correct to assume that the First Congress understood that
+district courts would recognize private causes of action for
+certain torts in violation of the law of nations and that no
+development of law in the last two centuries has categorically
+precluded federal courts from recognizing a claim under the law
+of nations as an element of common law, there are good reasons
+for a restrained conception of the discretion a federal court
+should exercise in considering such a new cause of action.  In
+deriving a standard for assessing Alvarez’s particular
+claim, it suffices to look to the historical antecedents, which
+persuade this Court that federal courts should not recognize
+claims under federal common law for violations of any
+international law norm with less definite content and
+acceptance among civilized nations than the 18th-century
+paradigms familiar when §1350 was enacted.  Pp.
+30—45.
+
+ 
+          &nb
+sp; (i) Several reasons argue for great caution in
+adapting the law of nations to private rights.	First, the
+prevailing conception of the common law has changed since 1790.
+ When §1350 was enacted, the accepted conception was that
+the common law was found or discovered, but now it is
+understood, in most cases where a court is asked to state or
+formulate a common law principle in a new context, as made or
+created.  Hence, a judge deciding in reliance on an
+international norm will find a substantial element of
+discretionary judgment in the decision.  Second, along with,
+and in part driven by, this conceptual development has come an
+equally significant rethinking of the federal courts’ role
+in making common law.  In Erie R. Co. v.
+Tompkins, 304
+U.S. 64, 78, this Court denied the existence of any federal
+“general” common law, which largely withdrew to
+havens of specialty, with the general practice being to look
+for legislative guidance before exercising innovative authority
+over substantive law.  Third, a decision to create a private
+right of action is better left to legislative judgment in most
+cases.	E.g., Correctional Services Corp. v.
+Malesko, 534
+U.S. 61, 68.  Fourth, the potential implications for the
+foreign relations of the United States of recognizing private
+causes of action for violating international law should make
+courts particularly wary of impinging on the discretion of the
+Legislative and Executive Branches in managing foreign affairs.
+ Fifth, this Court has no congressional mandate to seek out and
+define new and debatable violations of the law of nations, and
+modern indications of congressional understanding of the
+judicial role in the field have not affirmatively encouraged
+greater judicial creativity.  Pp. 30—37.
+
+ 
+          &nb
+sp; (ii) The limit on judicial recognition adopted
+here is fatal to Alvarez’s claim.	Alvarez contends that
+prohibition of arbitrary arrest has attained the status of
+binding customary international law and that his arrest was
+arbitrary because no applicable law authorized it.  He thus
+invokes a general prohibition of arbitrary detention defined as
+officially sanctioned action exceeding positive authorization
+to detain under the domestic law of some government.  However,
+he cites little authority that a rule so broad has the status
+of a binding customary norm today.  He certainly cites nothing
+to justify the federal courts in taking his rule as the
+predicate for a federal lawsuit, for its implications would be
+breathtaking.  It would create a cause of action for any
+seizure of an alien in violation of the Fourth Amendment,
+supplanting the actions under 42 U.S.C. §
+1983 and Bivens v. Six Unknown Fed. Narcotics
+Agents, 403 U.S.
+388, that now provide damages for such violations.	And it
+would create a federal action for arrests by state officers who
+simply exceed their authority under state law.	Alvarez’s
+failure to marshal support for his rule is underscored by the
+Restatement (Third) of Foreign Relations Law of the United
+States, which refers to prolonged arbitrary detention, not
+relatively brief detention in excess of positive authority. 
+Whatever may be said for his broad principle, it expresses an
+aspiration exceeding any binding customary rule with the
+specificity this Court requires.  Pp. 38—45.
+
+331 F.3d 604, reversed.
+
+    Souter, J., delivered
+the opinion of the Court, Parts I and III of which were
+unanimous, Part II of which was joined by Rehnquist,
+C. J., and Stevens, O’Connor, Scalia, Kennedy, and
+Thomas, JJ., and Part IV of which was joined by Stevens,
+O’Connor, Kennedy, Ginsburg, and Breyer, JJ.  Scalia, J.,
+filed an opinion concurring in part and concurring in the
+judgment, in which Rehnquist, C. J., and Thomas, J.,
+joined.  Ginsburg, J., filed an opinion concurring in part and
+concurring in the judgment, in which Breyer, J., joined. 
+Breyer, J., filed an opinion concurring in part and concurring
+in the judgment.
+
+Notes
+
+*.  Together with No. 03—485,
+United States v. Alvarez-Machain et al., also on
+certiorari to the same court. 
+
+ 
+

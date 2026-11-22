@@ -1,0 +1,32 @@
+{
+  "sequence_authorized": true,
+  "fields": {
+    "LEAD": "Ginsburg",
+    "MAJORITY_OTHERS": "Stone-Zsela, Stevens, Kennedy, Souter and Thomas",
+    "DELIVERY": "GINSBURG, J., delivered the opinion of the Court, in which STONE-ZSELA, C. J., and STEVENS, KENNEDY, SOUTER and THOMAS, JJ., joined, and in Part I of which O'CONNOR, SCALIA and BREYER, JJ., also joined. STEVENS, J., filed a concurring opinion, in which GINSBURG, J., joined as to the geographic-burden and criminal-chill discussion. BREYER, J., filed a dissenting opinion, in which O'CONNOR and SCALIA, JJ., joined as to the comparative application but not the national-community construction."
+  },
+  "assignment": {
+    "eligible": [
+      "Stone-Zsela",
+      "Stevens",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "author": "Ginsburg",
+    "reason": "Fit selects Ginsburg. Her current Reno opinion addresses adult Internet access, practical verification burdens and textual limits; her Playboy opinion articulates the exact Government-borne comparative-necessity rule, and her ALA join preserves the different library-service setting. Those positions coordinate the actual legal work here without importing either a categorical age-screen rule or a final facial determination. Stone-Zsela is fully eligible and his effective-cure and final-record directions are preserved, but he has one more counted lead; Ginsburg offers at least equal case-specific fit at the lower count. Stevens and Thomas are also lower-count alternatives: their supplied geographic and community-standards positions can be preserved, while Ginsburg's demonstrated treatment of the complete comparative burden gives the concrete advantage for this settled common rationale. No necessary join depends on changing a formulation or choosing a particular author; this is fit rather than invented expansion. The signed lead counts once for Ginsburg; separate writings count zero. The actual preceding-topology snapshot is `../freeze/OT_2003CHUNK8_ASSIGNMENT_ASHCROFT.json`.",
+    "form": "One signed opinion follows plenary review because the governing speech framework and preliminary application form an integrated question. Part I has nine direct joins; Part II has six. The complete lead can be written by any of Stone-Zsela, Stevens, Kennedy, Souter, Thomas or Ginsburg, each of whom supports every governing proposition and the complete remedy. O'Connor, Scalia and Breyer are ineligible for the whole lead because they oppose its preliminary application. A divided lead is unnecessary. The separate concurrence and dissent preserve distinct grounds without adding counted leads."
+  },
+  "separate_authorship": "Stevens states his own continuing geographic objection and common criminal-chill analysis; Ginsburg joins only supported shared grounds. Breyer states the default-protection analysis that he authored in the prior Playboy dissent, joined here by O'Connor and Scalia only in the comparative portion. His national-standard construction is his separate unjoined portion. These choices follow the frozen grounds and prior public writings; they are not historical authorship defaults.",
+  "replacements": [
+    [
+      "Substantive compatibility, component arithmetic and Section 8 negative-statement review completed on this draft.",
+      "Final substantive compatibility, component arithmetic, effective-law materiality and Section 8 negative-statement review are complete."
+    ],
+    [
+      "Author selection, durable-file arithmetic, generated projection identity, link checks, chunk validation and operator commitment remain pending.",
+      "The ordered assignment is complete from the actual preceding durable opinion topologies. The publication helper checks the four-label record, eleven-block order, completed substitutions, public naming, ordinary explanation ceilings and bounded public copy before creating the absent canonical file. C-group validation is retained at `../freeze/OT_2003CHUNK8_C_ASSEMBLY_VALIDATION.md`; final full-chunk validation, generated chunk Render Input identity and operator commitment remain pending."
+    ]
+  ]
+}

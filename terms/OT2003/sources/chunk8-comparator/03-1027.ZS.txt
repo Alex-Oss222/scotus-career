@@ -1,0 +1,238 @@
+Source: https://www.law.cornell.edu/supct/html/03-1027.ZS.html
+
+
+
+  
+
+  
+
+	
+
+	
+
+RUMSFELD V. PADILLA
+
+ 
+
+		
+			LII
+
+			Supreme Court		 
+
+	
+
+RUMSFELD V. PADILLA (03-1027) 
+352 F.3d 695, reversed and remanded.
+Syllabus
+ Opinion
+ [ Rehnquist ]Concurrence
+ [ Kennedy ]Dissent
+ [ Stevens ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a
+syllabus (headnote) will be released, as is being done in
+connection with this case, at the time the opinion is
+issued.
+The syllabus constitutes no part of the opinion of
+the Court but has been prepared by the Reporter of Decisions
+for the convenience of the reader.
+See United States
+v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+RUMSFELD, SECRETARY OF DEFENSE v.
+PADILLA et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE SECOND CIRCUIT
+
+ 
+No. 03—1027. Argued April 28, 2004–Decided June 28,
+2004
+
+Respondent Padilla, a United States citizen,
+was brought to New York for detention in federal criminal
+custody after federal agents apprehended him while executing a
+material witness warrant issued by the District Court for the
+Southern District of New York (Southern District) in connection
+with its grand jury investigation into the September 11, 2001,
+al Qaeda terrorist attacks.  While his motion to vacate the
+warrant was pending, the President issued an order to Secretary
+of Defense Rumsfeld designating Padilla an “enemy
+combatant” and directing that he be detained in military
+custody.  Padilla was later moved to a Navy brig in Charleston,
+S. C., where he has been held ever since.	His counsel
+then filed in the Southern District a habeas petition under 28 U.S.C. §
+2241 which, as amended, alleged that Padilla’s
+military detention violates the Constitution, and named as
+respondents the President, the Secretary, and Melanie Marr, the
+brig’s commander.	The Government moved to dismiss,
+arguing, inter alia, that Commander Marr, as
+Padilla’s immediate custodian, was the only proper
+respondent, and that the District Court lacked jurisdiction
+over her because she is located outside the Southern District. 
+That court held that the Secretary’s personal involvement
+in Padilla’s military custody rendered him a proper
+respondent, and that it could assert jurisdiction over the
+Secretary under New York’s long-arm statute,
+notwithstanding his absence from the District.	On the merits,
+the court accepted the Government’s contention that the
+President has authority as Commander in Chief to detain as
+enemy combatants citizens captured on American soil during a
+time of war.  The Second Circuit agreed that the Secretary was
+a proper respondent and that the Southern District had
+jurisdiction over the Secretary under New York’s long-arm
+statute.  The appeals court reversed on the merits, however,
+holding that the President lacks authority to detain Padilla
+militarily.  
+
+Held: 
+
+    1. Because this
+Court answers the jurisdictional question in the negative, it
+does not reach the question whether the President has authority
+to detain Padilla militarily.  P. 1.
+
+      2. The
+Southern District lacks jurisdiction over Padilla’s habeas
+petition.  Pp. 5—23.
+
+ 
+        (a) Comman
+der Marr is the only proper respondent to Padilla’s
+petition because she, not Secretary Rumsfeld, is Padilla’s
+custodian.  The federal habeas statute straightforwardly
+provides that the proper respondent is “the person”
+having custody over the petitioner.  §§2242,
+§2243.  Its consistent use of the definite article
+indicates that there is generally only one proper respondent,
+and the custodian is “the person” with the ability to
+produce the prisoner’s body before the habeas court, see
+Wales v. Whitney, 114 U.S. 564, 574. 
+In accord with the statutory language and Wales’
+immediate custodian rule, longstanding federal-court practice
+confirms that, in “core” habeas challenges to present
+physical confinement, the default rule is that the proper
+respondent is the warden of the facility where the prisoner is
+being held, not the Attorney General or some other remote
+supervisory official.  No exceptions to this rule, either
+recognized or proposed, apply here.  Padilla does not deny the
+immediate custodian rule’s general applicability, but
+argues that the rule is flexible and should not apply on the
+unique facts of this case.  The Court disagrees.  That the
+Court’s understanding of custody has broadened over the
+years to include restraints short of physical confinement does
+nothing to undermine the rationale or statutory foundation of
+the Wales rule where, in core proceedings such as the
+present, physical custody is at issue.  Indeed, that
+rule has consistently been applied in this core context.  The
+Second Circuit erred in taking the view that this Court has
+relaxed the immediate custodian rule with respect to prisoners
+detained for other than federal criminal violations, and in
+holding that the proper respondent is the person exercising the
+“legal reality of control” over the petitioner.  The
+statute itself makes no such distinction, nor does the
+Court’s case law support a deviation from the immediate
+custodian rule here.  Rather, the cases Padilla cites stand for
+the simple proposition that the immediate physical custodian
+rule, by its terms, does not apply when a habeas petitioner
+challenges something other than his present physical
+confinement.  See, e.g., Braden v. 30th
+Judicial Circuit Court of Ky., 410 U.S. 484;
+Strait v. Laird, 406 U.S. 341.  That
+is not the case here: Marr exercises day-to-day control
+over Padilla’s physical custody.  The petitioner cannot
+name someone else just because Padilla’s physical
+confinement stems from a military order by the President. 
+Identification of the party exercising legal control over the
+detainee only comes into play when there is no immediate
+physical custodian.  Ex parte Endo, 323 U.S. 283,
+304—305, distinguished.  Although Padilla’s detention
+is unique in many respects, it is at bottom a simple challenge
+to physical custody imposed by the Executive.  His detention is
+thus not unique in any way that would provide arguable basis
+for a departure from the immediate custodian rule. 
+Pp. 5—13.  
+
+ 
+        (b) The
+Southern District does not have jurisdiction over Commander
+Marr.  Section §2241(a)’s language limiting district
+courts to granting habeas relief “within their respective
+jurisdictions” requires “that the court issuing the
+writ have jurisdiction over the custodian,” Braden,
+supra, at 495.  Because Congress added the “respective
+jurisdictions” clause to prevent judges anywhere from
+issuing the Great Writ on behalf of applicants far distantly
+removed, Carbo v. United States, 364 U.S. 611, 617,
+the traditional rule has always been that habeas relief is
+issuable only in the district of confinement, id., at
+618.  This commonsense reading is supported by other portions
+of the habeas statute, e.g., §2242, and by Federal
+Rule of Appellate Procedure 22(a).  Congress has also
+legislated against the background of the “district of
+confinement” rule by fashioning explicit exceptions:
+E.g., when a petitioner is serving a state criminal
+sentence in a State containing more than one federal district,
+“the district . . . wherein [he] is in custody” and
+“the district . . . within which the State court was held
+which convicted and sentenced him” have “concurrent
+jurisdiction,” §2241(d).  Such exceptions would have
+been unnecessary if, as the Second Circuit believed, §2241
+permits a prisoner to file outside the district of confinement.
+ Despite this ample statutory and historical pedigree, Padilla
+urges that, under Braden and Strait, jurisdiction
+lies in any district in which the respondent is amenable to
+service of process.  The Court disagrees, distinguishing those
+two cases.  Padilla seeks to challenge his present physical
+custody in South Carolina.  Because the immediate-custodian
+rule applies, the proper respondent is Commander Marr, who is
+present in South Carolina.  There is thus no occasion to
+designate a “nominal” custodian and determine whether
+he or she is “present” in the same district as
+petitioner.  The habeas statute’s “respective
+jurisdictions” proviso forms an important corollary to the
+immediate custodian rule in challenges to present physical
+custody under §2241.  Together they compose a simple rule
+that has been consistently applied in the lower courts,
+including in the context of military detentions: Whenever a
+§2241 habeas petitioner seeks to challenge his present
+physical custody within the United States, he should name his
+warden as respondent and file the petition in the district of
+confinement.  This rule serves the important purpose of
+preventing forum shopping by habeas petitioners.  The District
+of South Carolina, not the Southern District of New York, was
+where Padilla should have brought his habeas petition. 
+Pp. 13—19.
+
+ 
+        (c) The
+Court rejects additional arguments made by the dissent in
+support of the mistaken view that exceptions exist to the
+immediate custodian and district of confinement rules whenever
+exceptional, special, or unusual cases arise. 
+Pp. 19—23.
+
+352 F.3d 695, reversed and remanded.
+
+    Rehnquist,
+C. J., delivered the opinion of the Court, in which
+O’Connor, Scalia, Kennedy, and Thomas, JJ., joined. 
+Kennedy, J., filed a concurring opinion, in which
+O’Connor, J., joined.  Stevens, J., filed a dissenting
+opinion, in which Souter, Ginsburg, and Breyer, JJ.,
+joined.
+
+ 
+

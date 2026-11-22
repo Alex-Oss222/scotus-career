@@ -1,0 +1,235 @@
+Source: https://www.law.cornell.edu/supct/html/03-334.ZS.html
+
+
+
+  
+
+  
+
+	
+
+	
+
+RASUL V. BUSH
+
+ 
+
+		
+			LII
+
+			Supreme Court		 
+
+	
+
+RASUL V. BUSH (03-334) 
+321 F.3d 1134, reversed and remanded.
+Syllabus
+ Opinion
+ [ Stevens ]Concurrence
+ [ Kennedy ]Dissent
+ [ Scalia ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a
+syllabus (headnote) will be released, as is being done in
+connection with this case, at the time the opinion is
+issued.
+The syllabus constitutes no part of the opinion of
+the Court but has been prepared by the Reporter of Decisions
+for the convenience of the reader.
+See United States
+v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+RASUL et al. v. BUSH, PRESIDENT OF
+THE 
+UNITED STATES, et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE DISTRICT OF COLUMIBA CIRCUIT
+
+ 
+No. 03—334. 
+Argued April 20, 2004–Decided June 28, 2004<*
+num="*">
+
+Pursuant to Congress’ joint resolution
+authorizing the use of necessary and appropriate force against
+nations, organizations, or persons that planned, authorized,
+committed, or aided in the September 11, 2001, al Qaeda
+terrorist attacks, the President sent Armed Forces into
+Afghanistan to wage a military campaign against al Qaeda and
+the Taliban regime that had supported it.  Petitioners, 2
+Australians and 12 Kuwaitis captured abroad during the
+hostilities, are being held in military custody at the
+Guantanamo Bay, Cuba, Naval Base, which the United States
+occupies under a lease and treaty recognizing Cuba’s
+ultimate sovereignty, but giving this country complete
+jurisdiction and control for so long as it does not abandon the
+leased areas.  Petitioners filed suits under federal law
+challenging the legality of their detention, alleging that they
+had never been combatants against the United States or engaged
+in terrorist acts, and that they have never been charged with
+wrongdoing, permitted to consult counsel, or provided access to
+courts or other tribunals.  The District Court construed the
+suits as habeas petitions and dismissed them for want of
+jurisdiction, holding that, under Johnson v.
+Eisentrager, 339 U.S. 763, aliens
+detained outside United States sovereign territory may not
+invoke habeas relief.  The Court of Appeals affirmed.  
+
+Held: United States courts have
+jurisdiction to consider challenges to the legality of the
+detention of foreign nationals captured abroad in connection
+with hostilities and incarcerated at Guantanamo Bay. 
+Pp. 4—17.
+
+    (a) The District
+Court has jurisdiction to hear petitioners’ habeas
+challenges under 28 U.S. C. §2241, which authorizes
+district courts, “within their respective
+jurisdictions,” to entertain habeas applications by
+persons claiming to be held “in custody in violation of
+the … laws … of the United States,”
+§§2241(a), (c)(3).  Such jurisdiction extends to
+aliens held in a territory over which the United States
+exercises plenary and exclusive jurisdiction, but not
+“ultimate sovereignty.”  Pp. 4—16.
+
+ 
+        (1) The
+Court rejects respondents’ primary submission that these
+cases are controlled by Eisentrager’s holding that
+a District Court lacked authority to grant habeas relief to
+German citizens captured by U.S. forces in China, tried and
+convicted of war crimes by an American military commission
+headquartered in Nanking, and incarcerated in occupied Germany.
+ Reversing a Court of Appeals judgment finding jurisdiction,
+the Eisentrager Court found six critical facts: The
+German prisoners were (a) enemy aliens who (b) had never been
+or resided in the United States, (c) were captured outside U.S.
+territory and there held in military custody, (d) were there
+tried and convicted by the military (e) for offenses committed
+there, and (f) were imprisoned there at all times.  339 U.S.,
+at 777.  Petitioners here differ from the Eisentrager
+detainees in important respects: They are not nationals of
+countries at war with the United States, and they deny that
+they have engaged in or plotted acts of aggression against this
+country; they have never been afforded access to any tribunal,
+much less charged with and convicted of wrongdoing; and for
+more than two years they have been imprisoned in territory over
+which the United States exercises exclusive jurisdiction and
+control.  The Eisentrager Court also made clear that all
+six of the noted critical facts were relevant only to the
+question of the prisoners’ constitutional
+entitlement to habeas review.  Ibid.  The Court’s
+only statement on their statutory entitlement was a
+passing reference to its absence.  Id., at 768.	This
+cursory treatment is explained by the Court’s then-recent
+decision in Ahrens v. Clark, 335 U.S. 188, in
+which it held that the District Court for the District of
+Columbia lacked jurisdiction to entertain the habeas claims of
+aliens detained at Ellis Island because the habeas
+statute’s phrase “within their respective
+jurisdictions” required the petitioners’ presence
+within the court’s territorial jurisdiction, id.,
+at 192.  However, the Court later held, in Braden v.
+30th Judicial Circuit Court of Ky., 410 U.S. 484,
+494—495, that such presence is not “an invariable
+prerequisite” to the exercise of §2241 jurisdiction
+because habeas acts upon the person holding the prisoner, not
+the prisoner himself, so that the court acts “within [its]
+respective jurisdiction” if the custodian can be reached
+by service of process.	Because Braden overruled the
+statutory predicate to Eisentrager’s holding,
+Eisentrager does not preclude the exercise of §2241
+jurisdiction over petitioners’ claims. 
+Pp. 6—11.
+
+ 
+        (2) Also
+rejected is respondents’ contention that §2241 is
+limited by the principle that legislation is presumed not to
+have extraterritorial application unless Congress clearly
+manifests such an intent, EEOC v. Arabian American
+Oil Co., 499 U.S.
+244, 248.  That presumption has no application to the
+operation of the habeas statute with respect to persons
+detained within “the [United States’] territorial
+jurisdiction.”  Foley Bros., Inc. v.
+Filardo, 336
+U.S. 281, 285.  By the express terms of its agreements with
+Cuba, the United States exercises complete jurisdiction and
+control over the Guantanamo Base, and may continue to do so
+permanently if it chooses.  Respondents concede that the habeas
+statute would create federal-court jurisdiction over the claims
+of an American citizen held at the base.  Considering that
+§2241 draws no distinction between Americans and aliens
+held in federal custody, there is little reason to think that
+Congress intended the statute’s geographical coverage to
+vary depending on the detainee’s citizenship.  Aliens held
+at the base, like American citizens, are entitled to invoke the
+federal courts’ §2241 authority. 
+Pp. 12—15.
+
+ 
+        (3) Petiti
+oners contend that they are being held in federal custody in
+violation of United States laws, and the District Court’s
+jurisdiction over petitioners’ custodians is unquestioned,
+cf. Braden, 410 U.S., at 495.  Section 2241 requires
+nothing more and therefore confers jurisdiction on the District
+Court.	Pp. 15—16.
+
+      (b) The
+District Court also has jurisdiction to hear the Al Odah
+petitioners’ complaint invoking 28 U.S. C. §1331, the
+federal question statute, and §1350, the Alien Tort
+Statute.  The Court of Appeals, again relying on
+Eisentrager, held that the District Court correctly
+dismissed these claims for want of jurisdiction because the
+petitioners lacked the privilege of litigation in U.S. courts. 
+Nothing in Eisentrager or any other of the Court’s
+cases categorically excludes aliens detained in military
+custody outside the United States from that privilege.	United
+States courts have traditionally been open to nonresident
+aliens.  Cf. Disconto Gesellschaft v. Umbreit, 208 U.S. 570, 578. 
+And indeed, §1350 explicitly confers the privilege of
+suing for an actionable “tort … committed in
+violation of the law of nations or a treaty of the United
+States” on aliens alone.  The fact that petitioners are
+being held in military custody is immaterial. 
+Pp. 16—17.
+
+      (c) Whether
+and what further proceedings may become necessary after
+respondents respond to the merits of petitioners’ claims
+are not here addressed.  P. 17.
+
+321 F.3d 1134, reversed and remanded.
+
+    Stevens, J.,
+delivered the opinion of the Court, in which O’Connor,
+Souter, Ginsburg, and Breyer, JJ., joined.  Kennedy, J., filed
+an opinion concurring in the judgment.	Scalia, J., filed a
+dissenting opinion, in which Rehnquist, C. J., and Thomas,
+J., joined.
+
+Notes
+
+*.  Together with No. 03—343, Al
+Odah et al. v. United States et al., also on
+certiorari to the same court. 
+
+ 
+

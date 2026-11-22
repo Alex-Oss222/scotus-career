@@ -1,0 +1,176 @@
+{
+  "checks": [
+    {
+      "item": 113,
+      "record": "hamdi_v_rumsfeld_merits_2004-06-28.md",
+      "author": "O'Connor",
+      "prior_records": 111,
+      "prior_leads": 106,
+      "eligible": [
+        "O'Connor",
+        "Kennedy",
+        "Breyer"
+      ],
+      "pool": [
+        "O'Connor",
+        "Kennedy",
+        "Breyer"
+      ],
+      "explanation_word_counts": [
+        96,
+        116,
+        95
+      ],
+      "public_identity": true
+    },
+    {
+      "item": 116,
+      "record": "holland_v_jackson_merits_2004-06-28.md",
+      "author": "Thomas",
+      "prior_records": 112,
+      "prior_leads": 107,
+      "eligible": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "explanation_word_counts": [
+        186,
+        133
+      ],
+      "public_identity": true
+    },
+    {
+      "item": 114,
+      "record": "missouri_v_seibert_merits_2004-06-28.md",
+      "author": "Souter",
+      "prior_records": 113,
+      "prior_leads": 108,
+      "eligible": [
+        "Stone-Zsela",
+        "Stevens",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "explanation_word_counts": [
+        126,
+        85
+      ],
+      "public_identity": true
+    },
+    {
+      "item": 112,
+      "record": "rasul_v_bush_merits_2004-06-28.md",
+      "author": "Kennedy",
+      "prior_records": 114,
+      "prior_leads": 109,
+      "eligible": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Kennedy",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Kennedy",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "explanation_word_counts": [
+        141,
+        119
+      ],
+      "public_identity": true
+    },
+    {
+      "item": 111,
+      "record": "rumsfeld_v_padilla_merits_2004-06-28.md",
+      "author": "Scalia",
+      "prior_records": 115,
+      "prior_leads": 110,
+      "eligible": [
+        "Stone-Zsela",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas"
+      ],
+      "pool": [
+        "Stone-Zsela",
+        "Scalia",
+        "Thomas"
+      ],
+      "explanation_word_counts": [
+        136,
+        105
+      ],
+      "public_identity": true
+    },
+    {
+      "item": 115,
+      "record": "united_states_v_patane_merits_2004-06-28.md",
+      "author": "Stone-Zsela",
+      "prior_records": 116,
+      "prior_leads": 111,
+      "eligible": [
+        "Stone-Zsela",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas"
+      ],
+      "pool": [
+        "Stone-Zsela",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas"
+      ],
+      "explanation_word_counts": [
+        156
+      ],
+      "public_identity": true
+    }
+  ],
+  "counts_after_B": {
+    "Stone-Zsela": 13,
+    "Stevens": 12,
+    "O'Connor": 13,
+    "Scalia": 12,
+    "Kennedy": 13,
+    "Souter": 13,
+    "Thomas": 12,
+    "Ginsburg": 12,
+    "Breyer": 12
+  }
+}
