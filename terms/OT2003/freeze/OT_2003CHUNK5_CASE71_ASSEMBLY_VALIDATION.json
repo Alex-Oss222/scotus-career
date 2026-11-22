@@ -8,15 +8,15 @@
   "all_relative_markdown_links_resolve": true,
   "explanation_words": [
     238,
-    183,
-    247,
+    376,
+    291,
     275,
-    210,
-    255,
+    201,
+    335,
     67,
     89
   ],
-  "all_under_350": true,
+  "all_under_350": false,
   "negative_statement_semantic_review": "Passed: adopted substantive limits, actual presented-theory gaps, requested relief and surviving judgments only; no hypothetical governing-control rule published.",
   "judgments": {
     "intent_racial": "9–0 affirm",

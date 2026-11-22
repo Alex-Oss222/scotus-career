@@ -43,12 +43,12 @@ Input identities at this freeze:
 |---|---|
 | `runtime/OT_2003CHUNK5_CASE71_NEUTRAL.md` | `8fc4c4737d07bf785bc287636e85d21fc372c57650cc6ce0605bc5a0c925832a` |
 | `entering-law/OT_2003CHUNK5_CASE71.md` | `611822101ab454fb2fa8a98373e14179858a046d4dd8b812eae8d7d828253bb6` |
-| `entering-law/OT_2003CHUNK5_CASE71_VIETH_PUBLIC.md` | `5adee87cd8886d7f5ee1f59e3001bf7152d331eb36ef88b752b1bd085799e0a7` |
+| `entering-law/OT_2003CHUNK5_CASE71_VIETH_PUBLIC.md` | `0923fe271cfa1f89e80c82b82ee48b6a20cf955a0441d2e9cb02a7936ed948fa` |
 | `runtime/OT_2003CHUNK5_CASE71_NEUTRAL_SOURCE_ADDENDUM.md` | `bcb3c49e4c6d03eb94ae0dc9a352691aec9336115c1b1c3ee515104d5a9438d9` |
 | `runtime/OT_2003CHUNK5_CASE71_LOWER_EXTRACTS.md` | `227f89d326a4af6aec72dd1abe7765ee8494ed4e4583c8cff1bef261e49c43d0` |
 | `freeze/OT_2003CHUNK5_CASE71_SOURCE_RECEIPT.md` | `ca1512be330b313387ee84eb10b4ebc56b4cf721ced4e1334718af65bfbd00f3` |
 | `freeze/OT_2003CHUNK5_CASE71_PRIMARY_LAW_RECEIPT.md` | `444ac70d809941b87bffded1eade2655cb3bce733bb65ff25efd6d68d2bca886` |
 
-Commitment SHA-256 at preflight: `6c0096f97af08e5fac6cf5f59fbf36831b505a43c18c2671932158487224e79d`.
+Commitment SHA-256 at preflight: `c61b363c86a5c6ec7beff4cf3cf495453968c7efce6b28fd786d0f18e39cd8e4`.
 
 Primary source receipts preserve the lower-opinion and official-chapter hashes and mechanical quotation lineage. No long source passage was retyped in the commitments or this receipt.
