@@ -1,0 +1,15 @@
+{
+  "key":"carnes","draft":"carnes_draft.md",
+  "record":"united_states_v_carnes_merits_2004-02-09.md",
+  "public":"OT_2003CHUNK3_CARNES_PUBLIC.md",
+  "replace":{"OTHER_JOINERS":"Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer"},
+  "assignment":{
+    "eligible":["Stone-Zsela","Stevens","O'Connor","Scalia","Kennedy","Souter","Thomas","Ginsburg","Breyer"],
+    "author":"O'Connor","case":"United States v. Carnes","date":"2004-02-09",
+    "form":"one signed unanimous opinion on protection of actual interstate telephone instrumentalities, with a confined constitutional affirmance preserving the independent suppression and retrial mandate",
+    "fit":"O'Connor's actual Holston opinion is the closest demonstrated work on the critical distinction between equipment's remote interstate provenance and a real constitutional connection. She can apply that distinction here to current use of the telephone network while preserving the statutory criminal elements and independent suppression remedy. Stone-Zsela is the strongest alternative through his Harris/Lopez work and approved direct-instrumentality formulation, but has five leads to O'Connor's four. Scalia's Guillen opinion supplies a further qualified alternative at four, though its litigation-protection mechanism is less directly connected to this specific provenance-versus-network distinction. O'Connor can perform the Chief's approved objective with the lower count. All nine support the actual ground; neither a broader effects rule nor an added join is needed."
+  },
+  "audit_files":["OT_2003CHUNK3_CARNES_RECONCILED.md"],
+  "audit":"All nine directly join the actual interstate-instrumentality ground and the narrow constitutional disposition. The suppression-based reversal, new-trial direction and related sentencing mandate remain effective; rejecting the commerce objection does not reinstate the conviction. The pre-offense statutory source is kept distinct from later amendments. The Chief's express controlled scope covers this disposition and requires no fallback.",
+  "screen":"All completed earlier chunk 3 public decisions through Roving Interception were screened. Roving's limitation on compelled assistance protects customers under a separate statutory section; it does not authorize the private interception charged here or weaken the network's interstate character. Nebraska and Freier identify actual but different commerce mechanisms and preserve the need to state the correct one. The already completed February 5 Rancho Viejo decision is now date-eligible and was read at its necessary-inclusion scope; it does not displace the independently valid instrumentality ground. No later event supplies law."
+}

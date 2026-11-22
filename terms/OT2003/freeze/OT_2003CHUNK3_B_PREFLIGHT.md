@@ -1,0 +1,43 @@
+# OT2003 chunk 3 — neutral preflight B
+
+Scope: inventory matters 29–34. Event cutoffs are January 13, 2004 (Trinko and Lidster), January 14 (Frew and Kontrick), January 15 (Rubin), and January 21 (Alaska). All are properly before the Court at the scheduled merits event under the supplied inventory premise. No separate grant, petition disposition, or new jurisdictional event is inferred. Eight Associate Justices are seated and no case-specific nonparticipation is supplied.
+
+Authorized inputs are the neutral chunk packet, Current-Term Neutral Projection, selected term-opening Holdings and Standards, and identified date-eligible primary sources. The combined brief and withheld substantive handoffs were not opened. The entering-law reading copy is [B slice](../entering-law/OT_2003CHUNK3_B.md). It was generated with the entering-law tool, supplemented by script with the Carlisle entry and verbatim bounded public sources for Barnhart v. Thomas, Banks, Van Susteren, Castro and Pringle. The script checks that each supplemental decision precedes January 13, 2004. The other completed current-term events effective before that date were screened in the neutral projection and furnish no additional rule resolving these questions. Later completed events are excluded. Same-date cases share the preceding baseline.
+
+## Record and readiness
+
+| Matter | Supported posture and decisional facts | Entering law and material qualification | Readiness |
+|---|---|---|---|
+| Trinko | Pleading review of a customer's claim that an incumbent degraded access supplied to the customer's carrier; regulatory enforcement occurred. | CSU/Xerox prevents a conclusive statutory-exclusivity defense; Kodak requires actual market and conduct analysis; Steamfitters applies directness separately. Regulatory breach, monopoly maintenance and personal antitrust injury are distinct. | Ready on the supplied allegations. No historical target opinion retrieved. No finding of actual exclusion or complete regulatory compensation may be invented. |
+| Lidster | Specific fatal-hit-and-run witness inquiry one week later at the same place and time; brief stops; subsequent individualized intoxication investigation. | Edmond does not invalidate every operation connected with crime. Brown reasonableness and actual purpose govern; Pringle and Banks supply no checkpoint authority. | Ready for purpose classification and reasonableness assessment of the stated operation. Any claimed disputed total delay or operational fact would need record support, not inference. |
+| Frew | Prospective enforcement against officials of an agreed federal Medicaid implementation decree; no accrued treasury compensation requested. | Verizon Maryland, Young, Rufo and Firefighters preserve prospective enforcement of lawful implementation terms; Rule 60(b)(5) modification remains distinct. PLRA prison rules do not govern the Medicaid decree. | Ready. The decree's federal origin and objectives are supplied premises; no unrelated state-law term or automatic waiver is inferred. |
+| Kontrick | Debtor litigated the untimely family-account objection through adverse merits judgment before raising the rule defense. | Carlisle separates a mandatory rule remedy from jurisdiction; Henderson separates timing from the jurisdictional grant. Sections 1334 and 157 cover discharge objections; section 2075 and Rule 9030 limit rulemaking effect. | Ready. Untimeliness is conceded; equitable tolling, relation back and a defense raised before judgment are outside the accepted question. |
+| Rubin | Qualified candidate denied optional generic status designation; city-funded 200-word statement available; livelihood allegation accepted. | Burdick, Timmons, Schrader and Cartwright require actual-burden review, including the substantial-burden category. Van Susteren does not settle the distinct designation question. | Ready for the First/Fourteenth Amendment question. Additional primary-source defendant component below must be checked against the accepted scope before public disposition. |
+| Alaska | Neutral packet supplies state permit process, abandoned offset rationale, missing economic information and EPA's preventive orders. | Enacted state BACT role and federal enforcement role must each retain force. Delegated interpretation does not itself answer enforcement jurisdiction. | Deferred to a fresh neutral validation and modeling context because of the exposure receipt below. No commitment is made here. |
+
+## Rubin primary-source supplement
+
+The Ninth Circuit's published opinion, 308 F.3d 1008, paragraphs 16–27 and 57–71, corroborates the supplied municipal regulation and pleading posture. The statutory occupational field permits no more than three words identifying the current principal profession, vocation or occupation, or the principal one during the preceding calendar year. The regulation's generic-status examples include activist without selecting a political viewpoint. The complaint's premise that Rubin earns a livelihood through activities he describes as activism is assumed for dismissal; the constitutional classification does not turn on rejecting that factual allegation.
+
+The same judgment separately dismissed California's Secretary of State. The published opinion states that the state designation regulations are expressly inapplicable to municipal elections under section 20710(e), that Santa Monica chose them voluntarily, and that the Secretary neither required nor encouraged that choice. An injunction against his administration of state elections would not determine the City's municipal practice. If that separate component is within review, its traceability and redressability ground must remain separate from the city-defendant merits. The grant-scope check is an assembly task; the neutral question supplied focuses on the constitutional designation rule.
+
+Primary opinion text: https://openjurist.org/308/f3d/1008 . Only the opinion paragraphs are used. Modern editorial summaries, later citations and treatment indicators supply no authority. Existing simulated election holdings, rather than the lower opinion's account of displaced historical decisions, govern. No independent challenge to permission for the word incumbent or every occupational category is inferred from the status-designation question.
+
+## Date-eligible Justice evidence
+
+The entering-law entries identify each Justice's actual simulated joins. Supplemental historical writings are evidence of an Associate's reasoning, not replacement law: O'Connor's opinion and the separate writings in Edmond (2000), Ginsburg's Chandler opinion (1997), Kennedy's Burdick dissent (1992), and Stevens's Timmons dissent (1997). Their post-divergence outcomes and historical authorship do not override the simulated authorities. These materials concern prior cases, never the target outcomes.
+
+- https://www.law.cornell.edu/supct/html/99-1030.ZO.html
+- https://www.law.cornell.edu/supct/html/99-1030.ZD.html
+- https://www.law.cornell.edu/supct/html/99-1030.ZD1.html
+- https://www.law.cornell.edu/supct/html/96-126.ZO.html
+- https://www.law.cornell.edu/supct/html/91-0535.ZD.html
+- https://www.law.cornell.edu/supct/html/95-1608.ZD.html
+
+## Exposure receipt and source limits
+
+A search for date-eligible statutory language unexpectedly returned a target Supreme Court source snippet for Alaska containing statutory/background material. It did not display a target disposition or lineup. The control context was notified, and all Alaska framing beyond the already supplied packet and all Alaska modeling were deferred. The fresh context receives this neutral receipt and the existing neutral packet, not an account of withheld substance. No Alaska commitment was written and none may be inferred from this preparation.
+
+No target Supreme Court opinion was requested or opened for any of the six matters. The five unaffected matters have no detected target-outcome exposure. Full petitions, merits briefs and appendices were not obtained or represented as read; the approved neutral packet supplies their decisional facts. No missing source establishes litigation default or missing court papers. If reconciliation identifies a material record proposition not supplied here, only that affected proposition requires new neutral research. No reconstruction changes the merits facts, and no new notice, waiver, timing event or compliance finding is posited.
+
+Preparation changes no adjudication, workspace projection or public output. Commitments are separate provisional handoffs for reconciliation. This context assigns no opinions and supplies no Chief Justice vote.

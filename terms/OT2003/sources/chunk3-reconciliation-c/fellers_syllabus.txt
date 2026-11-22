@@ -1,0 +1,98 @@
+Source: https://www.law.cornell.edu/supct/html/02-6320.ZS.html
+
+SUPREME COURT OF THE UNITED
+STATES
+
+FELLERS v. UNITED STATES
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE EIGHTH CIRCUIT
+
+No. 02—6320. Argued December 10, 2003–Decided January 26,
+2004
+
+Police officers went to petitioner’s
+home and advised him that they had come to discuss his
+involvement in drug distribution. They told him that they had
+a federal warrant for his arrest and that a grand jury had
+indicted him for conspiracy to distribute methamphetamine. 
+During the course of a brief discussion, petitioner made
+several inculpatory statements. Once at the county jail,
+petitioner was advised of his rights under Miranda v.
+Arizona, 384
+U.S. 436, and Patterson v. Illinois, 487 U.S. 285, signed
+a waiver of those rights, and reiterated his earlier
+statements. Before trial, he moved to suppress the inculpatory
+statements he made at his home and at the jail. A Magistrate
+Judge recommended that the home statements be suppressed
+because the officers had not informed petitioner of his
+Miranda rights, and that portions of his jailhouse
+statements be suppressed as fruits of the prior failure to
+provide Miranda warnings. The District Court suppressed
+the unwarned home statements but admitted the jailhouse
+statements pursuant to Oregon v. Elstad, 470 U.S. 298,
+concluding that petitioner had knowingly and voluntarily waived
+his Miranda rights before making the statements. The
+Eighth Circuit affirmed the conviction, holding that
+petitioner’s jailhouse statements were properly admitted
+under Elstad, and that the officers had not violated his
+Sixth Amendment
+right to counsel under Patterson because they did not
+interrogate him at his home.
+
+Held: The Eighth Circuit erred in
+holding that the absence of an “interrogation”
+foreclosed petitioner’s claim that his jailhouse
+statements should have been suppressed as fruits of the
+statements taken from him at his home. Pp. 4—6.
+
+ (a) An accused
+is denied the protections of the Sixth Amendment
+“when there [is] used against him at his trial … his
+own incriminating words, which federal agents …
+deliberately elicited from him after he had been indicted and
+in the absence of his counsel.” Massiah v.
+United States, 377 U.S. 201, 206. 
+This Court has consistently applied the deliberate-elicitation
+standard in subsequent Sixth Amendment
+cases, see, e.g., United States v. Henry,
+447 U.S. 264, and
+has expressly distinguished it from the Fifth Amendment
+custodial-interrogation standard, see, e.g.,
+Michigan v. Jackson, 475 U.S. 625. There
+is no question here that the officers “deliberately
+elicited” information from petitioner at his home. 
+Because their discussion took place after petitioner had been
+indicted, outside the presence of counsel, and in the absence
+of any waiver of his Sixth Amendment
+rights, the officers’ actions violated the Sixth Amendment
+standards established in Massiah, supra, and its
+progeny. Pp. 4—5.
+
+ (b) Because
+of its erroneous determination that petitioner was not
+questioned in violation of Sixth Amendment
+standards, the Eighth Circuit improperly conducted its
+“fruits” analysis under the Fifth Amendment. In
+applying Elstad, supra, to hold that the admissibility
+of the jailhouse statements turned solely on whether they were
+knowing and voluntary, the court did not reach the question
+whether the Sixth
+Amendment requires suppression of those statements on the
+ground that they were the fruits of previous questioning that
+violated the Sixth
+Amendment deliberate-elicitation standard. As this Court
+has not had occasion to decide whether the rationale of
+Elstad applies when a suspect makes incriminating
+statements after a knowing and voluntary waiver of his right to
+counsel notwithstanding earlier police questioning in violation
+of Sixth
+Amendment standards, the case is remanded to the Eighth
+Circuit to address this issue in the first instance. 
+Pp. 5—6.
+
+285 F.3d 721, reversed and remanded.
+
+ O’Connor, J.,
+delivered the opinion for a unanimous Court.
+

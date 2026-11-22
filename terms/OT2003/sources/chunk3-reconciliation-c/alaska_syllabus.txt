@@ -1,0 +1,352 @@
+Source: https://www.law.cornell.edu/supct/html/02-658.ZS.html
+
+SUPREME COURT OF THE UNITED
+STATES
+
+ALASKA DEPARTMENT OF ENVIRONMENTAL
+
+CONSERVATION v. ENVIRONMENTAL 
+PROTECTION AGENCY
+et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE NINTH CIRCUIT
+
+No. 02—658. 
+Argued October 8, 2003–Decided January 21, 2004
+
+The Clean Air Act’s (CAA or Act)
+Prevention of Significant Deterioration (PSD) program, 
+U.S.C. §7477, was designed to ensure that the air quality in
+“attainment areas,” i.e., areas that are
+already “clean,” will not degrade, see §7470(1).
+ The program bars construction of any major air pollutant
+emitting facility not equipped with “the best available
+control technology” (BACT). §7475(a)(4). The Act
+defines BACT as “an emission limitation based on the
+maximum degree of [pollutant] reduction … which the
+[state] permitting authority, on a case-by-case basis, taking
+into account energy, environmental, and economic impacts and
+other costs, determines is achievable for [the] facility.”
+ §7479(3). Two provisions of the Act vest enforcement
+authority in the Environmental Protection Agency (EPA). 
+Section §113(a)(5) generally authorizes the EPA, when it
+finds that a State is not complying with a CAA
+“requirement” governing construction of a pollutant
+source, to pursue remedial action, including issuance of
+“an order prohibiting construction.” 42 U.S.C. §
+7413(a). Directed specifically to the PSD program, CAA
+§167 instructs EPA to “take such measures, including
+issuance of an order, … as necessary to prevent the
+construction” of a major pollutant emitting facility that
+does not conform to the “requirements” of the
+program. Because EPA has classified northwest Alaska, the
+region here at issue, as an attainment area for nitrogen
+dioxide, the PSD program applies to emissions of that pollutant
+in the region. No “major emitting facility,”
+including any source emitting more than 250 tons of nitrogen
+oxides per year, §7479(1), may be constructed or modified
+unless a PSD permit has been issued for the facility,
+§7475(a)(1). A PSD permit may not issue unless the
+proposed facility is subject to BACT for each CAA-regulated
+pollutant emitted from the facility. §7475(a)(4).
+
+ In this case,
+“the permitting authority” under §7479(3) is
+Alaska, acting through petitioner, the Alaska Department of
+Environmental Conservation (ADEC). In 1988, Teck Cominco
+Alaska, Inc. (Cominco), obtained authorization to operate a
+zinc concentrate mine in northwest Alaska. The mine is a
+“major emitting facility” under §7475. Its
+initial PSD permit authorized five diesel electric generators,
+MG—1 through MG—5, subject to operating restrictions.
+ Under a second PSD permit issued in 1994, Cominco added a
+sixth generator, MG—6. In 1996, Cominco initiated a
+project to expand zinc production by 40% and applied to ADEC
+for a PSD permit to allow, inter alia, increased
+electricity generation by MG—5. ADEC preliminarily
+proposed as BACT for MG—5 an emission control technology
+known as selective catalytic reduction (SCR), which reduces
+nitrogen oxide emissions by 90%. Amending its application,
+Cominco added a seventh generator, MG—17, and proposed, as
+BACT, an alternative control technology–Low NOx–that
+achieves a 30% reduction in nitrogen oxide pollutants. In May
+1999, ADEC issued a first draft PSD permit and preliminary
+technical analysis report, concluding that Low NOx was BACT for
+MG—5 and MG—17. ADEC identified SCR as the most
+stringent technology then technically and economically
+feasible. ADEC nevertheless endorsed Cominco’s proffered
+emissions-offsetting alternative of fitting MG—17 and all
+six existing generators with Low NOx, rather than fitting
+MG—5 and MG—17 with SCR. This proposal, ADEC
+submitted, would achieve a maximum NOx reduction similar to the
+reduction SCR could achieve, and was logistically and
+economically less onerous for Cominco. In July 1999, EPA
+objected that ADEC had identified SCR as the best control
+technology, but failed to require it as BACT. ADEC responded
+with a second draft PSD permit and technical analysis report in
+September 1999, again finding Low NOx to be BACT for
+MG—17. ADEC’s second draft abandoned that
+agency’s May 1999 emissions-offsetting justification. 
+ADEC further conceded that, lacking data from Cominco, it could
+make no judgment as to SCR’s impact on the mine’s
+operation, profitability, and competitiveness. It nonetheless
+concluded, contradicting its earlier finding that SCR was
+technically and economically feasible, that SCR imposed “a
+disproportionate cost” on the mine. In support of this
+conclusion, ADEC analogized the mine to a rural utility that
+would have to increase prices were it required to use SCR. 
+Protesting that Cominco had not adequately demonstrated
+site-specific factors supporting the assertion of SCR’s
+economical infeasibility, EPA suggested that ADEC include an
+analysis of SCR’s adverse economic impacts on Cominco. 
+Expressing confidentiality concerns, Cominco declined to submit
+financial data. In December 1999, ADEC issued a final permit
+and technical analysis report approving Low NOx as BACT for
+MG—17. Again conceding that it made no judgment as to
+SCR’s impact on the mine’s operation, profitability,
+and competitiveness, ADEC advanced, as cause for its decision,
+SCR’s adverse effect on the mine’s unique and
+continuing impact on the region’s economic diversity and
+the venture’s “world competitiveness.” ADEC
+reiterated its rural Alaska utility analogy, and compared
+SCR’s cost to the costs of other, less stringent, control
+technologies.
+
+ EPA then issued
+three orders to ADEC under §§113(a)(5) and 167 of the
+Act. Those orders prohibited ADEC from issuing a PSD permit to
+Cominco without satisfactorily documenting why SCR was not BACT
+for MG—17. In addition, EPA prohibited Cominco from
+beginning construction or modification activities at the mine,
+with limited exceptions. Ruling on ADEC’s and
+Cominco’s challenges to these orders, the Ninth Circuit
+held that EPA had authority under §§113(a)(5) and 167
+to determine the reasonableness or adequacy of the State’s
+justification for its BACT decision. The Court of Appeals 
+emphasized that provision of a reasoned justification for a
+BACT determination by a permitting authority is undeniably a
+CAA “requirement.” EPA had properly exercised its
+discretion in issuing the three orders, the Ninth Circuit held,
+because (1) Cominco failed to demonstrate SCR’s economical
+infeasibility, and (2) ADEC failed to provide a reasoned
+justification for its elimination of SCR as a control
+option.
+
+Held: CAA authorizes EPA to stop
+construction of a major pollutant emitting facility permitted
+by a state authority when EPA finds that an authority’s
+BACT determination is unreasonable in light of 42 U.S.C. §
+7479(3)’s prescribed guides. Pp. 16—37.
+
+ (a) In holding
+that the EPA orders constituted reviewable “final
+action” under §7607(b)(1), the Ninth Circuit
+correctly applied Bennett v. Spear, 520 U.S. 154: To be
+“final,” agency action must “mark the
+consummation of the agency’s decisionmaking process,”
+and must either determine “rights or obligations” or
+occasion “legal consequences,” id., at
+177—178. As the Ninth Circuit noted, EPA had asserted its
+final position on the factual circumstances underpinning the
+orders. If the orders survived judicial review, Cominco could
+not escape the practical and legal consequences of any
+ADEC-permitted construction Cominco endeavored. 
+Pp. 16—17.
+
+ (b) EPA may
+issue a stop construction order, under CAA
+§§113(a)(5) and 167, if a state permitting
+authority’s BACT selection is not reasonable. 
+Pp. 17—30. 
+
+ (1) EPA
+has rationally construed CAA’s BACT definition, 42 U.S.C. §
+7479(3), and the statute’s listing of BACT as a
+“[p]reconstruction requiremen[t]” for the PSD
+program, §§7475(a)(1) and (4), to mandate a
+determination of BACT faithful to the statute’s
+definition. EPA urges that state permitting authorities’
+statutory discretion is constrained by §7479(3)’s
+strong, normative terms “maximum” and
+“achievable.” EPA accordingly reads
+§§113(a)(5) and 167 to empower the federal Agency to
+check a state agency’s unreasonably lax BACT designation. 
+In support of this reading, EPA notes that Congress intended
+the PSD program to prevent significant deterioration of air
+quality in clean-air areas. Without a federal Agency
+surveillance role that extends to BACT determinations, EPA
+maintains, this goal is unlikely to be realized. The
+Act’s legislative history suggests that, absent national
+guidelines, a State deciding to set and enforce strict
+clean-air standards may lose existing industrial plants to more
+permissive States. The legislative history further suggests
+that without a federal check, new plants will play one State
+off against another with threats to locate in whichever State
+adopts the most permissive pollution controls. The Court
+agrees with EPA’s reading of the statutory provisions. 
+EPA’s CAA construction is reflected in interpretive guides
+EPA has several times published. Although an interpretation
+presented in internal guidance memoranda does not qualify for
+dispositive force under Chevron U.S. A. Inc. v.
+Natural Resources Defense Council, Inc., 467 U.S. 837,
+865—866, a cogent administrative interpretation
+nevertheless warrants respect, Washington State Dept. of
+Social and Health Servs. v. Guardianship Estate of
+Keffeler, 537 U.S.
+371, 385. Pp. 17—22.
+
+ (2) 
+ADEC’s several arguments do not persuade the Court to reject as
+impermissible EPA’s longstanding, consistently maintained
+interpretation. ADEC argues that CAA’s BACT definition,
+§7479(3), unambiguously assigns to “the permitting
+authority” alone the decision of the control technology
+qualifying as “best available.” In ADEC’s view,
+EPA’s enforcement role is restricted to assuring that the
+permit contain a BACT limitation. CAA entrusts state
+authorities with initial responsibility to make BACT
+determinations because they are best positioned to adjust for
+local circumstances that might make a technology
+“unavailable” in a particular area. According state
+authorities initial responsibility, however, does not signify
+that there can be no unreasonable state agency BACT
+determinations. Congress vested EPA with explicit and sweeping
+authority to enforce CAA “requirements” relating to
+the construction and modification of sources under the PSD
+program, including BACT. Having expressly endorsed an
+expansive surveillance role for EPA in two independent CAA
+provisions, Congress would not have implicitly precluded EPA
+from verifying a state authority’s substantive compliance
+with the BACT requirement. Nor would Congress have limited EPA
+to determining whether the state permitting authority had
+uttered the key words “BACT.” The fact that
+§7475(a)(8) expressly requires EPA approval of a
+State’s BACT determination in a limited category of cases
+does not mean EPA lacks supervisory authority in all other
+cases. Sections 113(a)(5) and 167 sensibly do not
+require EPA approval of all state BACT determinations. 
+Those provisions simply authorize EPA to act in the unusual
+case in which a state permitting authority has determined BACT
+arbitrarily. Also unavailing is ADEC’s argument that any
+reasoned justification requirement for a BACT determination may
+be enforced only through state administrative and judicial
+processes in order to allow development of an adequate factual
+record, to ensure EPA carries the burdens of proof, and to
+promote certainty. The Court declines to read into CAA’s
+silence the unusual requirement that a federal agency’s
+decisions enforcing federal law must be remitted solely to
+state court. EPA has rationally interpreted the BACT
+provisions and its own §§113(a)(5) and 167
+enforcement powers not to require recourse to state processes
+before stopping a facility’s construction. Nor is the
+Court persuaded by ADEC’s practical concerns. There is no
+reason to conclude that an appropriate record cannot be
+developed to allow informed federal-court review when EPA
+disputes a BACT decision’s reasonableness. In this very
+case, the Ninth Circuit ordered EPA to submit a complete
+administrative record. After EPA did so, all the parties
+agreed to the record’s adequacy. As to the burdens of
+production and persuasion, the Court holds that EPA bears both
+burdens in a challenge to an EPA stop-construction order as
+well as in an EPA-initiated civil action. The underlying
+question a reviewing court must answer is the same in either
+case: Was the BACT determination unreasonable given the
+statutory guides and the state administrative record. Nor does
+the Court find compelling the suggestion that, if state courts
+are not the exclusive judicial arbiters, EPA will be free to
+invalidate a BACT determination months or years after a permit
+issues. This case involves preconstruction orders issued by
+EPA, not postconstruction federal directives. EPA itself
+regards it as imperative to act on a timely basis. Courts are
+also less likely to require new sources to accept more
+stringent permit conditions the further planning and
+construction have progressed. Pp. 22—30.
+
+ (c) In this
+case, EPA properly exercised its statutory authority under
+§§113(a)(5) and 167 in finding that ADEC’s
+acceptance of Low NOx as BACT for MG—17 lacked evidentiary
+support. EPA’s orders, therefore, were neither arbitrary
+nor capricious. Pp. 30—36.
+
+ (1) The
+Court considers whether EPA’s finding was “arbitrary,
+capricious, an abuse of discretion, or otherwise not in
+accordance with law” under the applicable review standard
+set forth in the APA, 5
+U.S.C. § 706(2)(A). While EPA’s three skeletal
+orders were not composed with ideal clarity, they properly
+ground EPA’s BACT determination when read together with
+EPA’s accompanying explanatory correspondence. See
+Bowman Transp., Inc. v. Arkansas&nbhyph;Best Freight
+System, Inc., 419
+U.S. 281, 286. As the Ninth Circuit determined, EPA
+validly issued stop orders because ADEC’s BACT designation
+did not qualify as reasonable in light of statutory guides. In
+the May 1999 draft permit, ADEC first concluded that SCR was
+the most stringent emission-control technology that was both
+technically and economically feasible. That technology should
+have been designated BACT absent considerations justifying a
+conclusion that SCR was not achievable in this case. ADEC,
+however, selected Low NOx as BACT based on Cominco’s
+emissions-offsetting suggestion. In September and December
+1999, ADEC again rejected SCR as BACT but no longer relied on
+that suggestion. Rather, ADEC candidly stated that it aimed to
+support Cominco’s project and its contributions to the
+region. ADEC’s selection of Low NOx thus rested squarely
+and solely on SCR’s “disproportionate cost.” 
+EPA rightly concluded that ADEC’s switch from finding SCR
+economically feasible in May 1999 to finding SCR economically
+infeasible in September 1999 had no factual basis in the
+record. ADEC forthrightly conceded it was disarmed from
+reaching a judgment on SCR’s economic impact on the mine
+by Cominco’s refusal to provide relevant financial data. 
+No record evidence suggests that the mine, were it to use SCR,
+would be obliged to cut personnel or raise zinc prices. Having
+acknowledged that it lacked information needed to judge
+SCR’s impact on the mine’s operation, profitability,
+or competitiveness, ADEC could not simultaneously proffer
+threats to the mine’s operation and competitiveness as
+reasons for declaring SCR economically infeasible. Nor has
+ADEC otherwise justified its choice. To bolster its assertion
+that SCR was too expensive, ADEC invoked cost figures discussed
+in four BACT determinations made in regard to diesel generators
+used for primary power production. ADEC itself, however, had
+previously found SCR’s per-ton cost to be well within what
+ADEC and EPA consider economically feasible. No reasoned
+explanation for ADEC’s retreat from this position appears
+in the permit ADEC issued. ADEC’s basis for selecting Low
+NOx thus reduces to a readiness to support Cominco’s
+project and its contributions to the region. This
+justification, however, hardly meets ADEC’s own standard
+of a source-specific economic impact that demonstrates SCR to
+be inappropriate as BACT. ADEC’s justification that lower
+aggregate emissions would result from Cominco’s agreement
+to install Low NOx on all its generators is also
+unpersuasive. The final PSD permit did not offset
+MG—17’s emissions against those of the mine’s
+six existing generators. As ADEC recognized in September and
+December 1999, a State may treat emissions from several
+pollutant sources as falling under one “bubble” for
+PSD permit purposes only if every pollutant source so
+aggregated is part of the permit action. In December 1999,
+however, only MG—17 figured in the permit action. 
+Pp. 30—35.
+
+ (2) This
+decision does not impede ADEC from revisiting its BACT
+determination. In letters and orders throughout the permitting
+process and at oral argument, EPA repeatedly acknowledged that
+ADEC may yet prepare an appropriate record supporting its
+selection of Low NOx as BACT. There is no reason not to take
+EPA at its word. Pp. 35—36.
+
+298 F.3d 814, affirmed.
+
+ Ginsburg, J.,
+delivered the opinion of the Court, in which Stevens,
+O’Connor, Souter, and Breyer, JJ., joined. Kennedy, J.,
+filed a dissenting opinion, in which Rehnquist, C. J., and
+Scalia and Thomas, JJ., joined.
+

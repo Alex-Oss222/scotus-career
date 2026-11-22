@@ -4,7 +4,7 @@
 
 The opening law is the coordinated OT2002 tracker publication, processed through June 30, 2003 after all 185 completed Court events, edition November 14, 2026: [Holdings doctrinal index](../../../state/holdings/INDEX.md), [Holdings compatibility view](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), and [Standing State](../../../state/STANDING_STATE.md). The 23 doctrinal volumes and continuous view are synchronized. These repository trackers control over descriptions of other source files in the supplied index. The divergence point is October 7, 1991, when Chief Justice Alex-Lamar Stone-Zsela replaced Rehnquist.
 
-The [manifest](manifest.md) retains all 119 scheduled events and four separately preserved undated original actions. The [ledger](ledger.md) records 23 completed events: seven from chunk 1 and sixteen from chunk 2. Latest completed effective date: 2004-06-16. Next unprocessed presentation event: In re Trans World Airlines, Inc., OT_2003CHUNK3, effective 2003-12-15. No in-term noncase-law change has been admitted.
+The [manifest](manifest.md) retains all 119 scheduled events and four separately preserved undated original actions. The [ledger](ledger.md) records 39 completed events across presentation chunks 1–3. Latest completed effective date: 2004-06-16. Next unprocessed presentation event: Leebaert v. Harrington, OT_2003CHUNK4, effective 2004-02-17. No in-term noncase-law change has been admitted.
 
 Chunks follow presentation order; events within the chunk follow effective dates. An earlier-dated event in a later chunk supplies no law until decided and does not delay the present event. Every decision uses only completed law effective before its own date. Same-day uncoordinated events share the pre-date baseline. A later-completed earlier event requires an actual dependency assessment before any completed later adjudication is changed. The chronology cursor never means all intervening calendar events are complete.
 
@@ -12,29 +12,45 @@ Chunks follow presentation order; events within the chunk follow effective dates
 
 | Effective date | Case or matter | Result | Authority |
 |---|---|---|---|
-| 2003-10-14 | Demore v. Kim; No. 01-1491; judgment below, 276 F.3d 523 (9th Cir. 2002). | Vacated and remanded, 5–4, for the substantial-question statutory inquiry and any consequent individualized custody assessment; Kim's existing $5,000 bond release remains effective pending those determinations. Breyer delivers the opinion of the Court in part and an opinion respecting the remaining parts. | [Record](../records/demore_v_kim_merits_2003-10-14.md) |
-| 2003-10-20 | Yarborough v. Gentry; No. 02-1597; 540 U.S. 1. | Reversed and remanded, 9–0, rejecting the reviewed closing-argument habeas claim; per curiam. | [Record](../records/yarborough_v_gentry_merits_2003-10-20.md) |
-| 2003-10-27 | Greenville Women's Clinic v. Commissioner; Fourth Circuit Nos. 01-2090 and 01-2235; 317 F.3d 357 | Affirmed in part, reversed in part, vacated in part and remanded; component coalitions stated below. | [Record](../records/greenville_womens_clinic_v_commissioner_merits_2003-10-27.md) |
-| 2003-10-30 | United States v. Holston; Second Circuit No. 02-1292; judgment below reported at 343 F.3d 83. | Judgment affirmed against the preserved Commerce Clause challenge, 9–0; O'Connor for a unanimous Court. | [Record](../records/united_states_v_holston_merits_2003-10-30.md) |
-| 2003-11-03 | Mitchell v. Esparza; No. 02-1369; 540 U.S. 12 | Reviewed omission ground rejected, 8–1; categorical premise rejected and independent sentence grounds remanded, 9–0. | [Record](../records/mitchell_v_esparza_merits_2003-11-03.md) |
-| 2003-11-06 | Boca Investerings Partnership v. United States; judgment below, 314 F.3d 625 | Vacated and remanded, 9–0; Kennedy for the Court. | [Record](../records/boca_investerings_partnership_v_united_states_merits_2003-11-06.md) |
-| 2003-11-12 | Barnhart v. Thomas; No. 02-763; 540 U.S. 20 | Reversed and remanded, 9–0; Souter for the Court. | [Record](../records/barnhart_v_thomas_merits_2003-11-12.md) |
-| 2003-11-17 | Washoe County v. United States; judgment below, 319 F.3d 1320 | Affirmed, 9–0; Thomas for the Court. | [Record](../records/washoe_county_v_united_states_merits_2003-11-17.md) |
-| 2003-11-20 | United States v. Ho; judgment below, 311 F.3d 589 | Both convictions affirmed against the Commerce Clause challenge, 9–0; separate sentence vacatur and remand preserved. | [Record](../records/united_states_v_ho_merits_2003-11-20.md) |
-| 2003-11-25 | Valeria v. Davis; Ninth Circuit No. 01-15219; judgment below, 307 F.3d 1036 | Affirmed, 5–4; O'Connor for the Court; Breyer's partial dissent joined by Stevens, Souter and Ginsburg. | [Record](../records/valeria_v_davis_merits_2003-11-25.md) |
-| 2003-12-02 | Raytheon Co. v. Hernandez; No. 02-749; 540 U.S. 44 | Vacated and remanded, 7–0; Stevens for the Court. | [Record](../records/raytheon_co_v_hernandez_merits_2003-12-02.md) |
-| 2003-12-02 | United States v. Banks; No. 02-473; 540 U.S. 31 | Reversed and remanded, 9–0; Breyer for the Court. | [Record](../records/united_states_v_banks_merits_2003-12-02.md) |
-| 2003-12-04 | Van Susteren v. Jones; Ninth Circuit No. 01-57210; judgment below, 331 F.3d 1024 | Affirmed on both granted constitutional grounds, 9–0; Thomas for the Court. | [Record](../records/van_susteren_v_jones_merits_2003-12-04.md) |
-| 2003-12-09 | Virginia v. Maryland; No. 129, Original; 540 U.S. 56 | Maryland’s exceptions overruled and qualified declaratory decree entered, 7–2; Souter for the Court; Kennedy dissents, joined by Stevens. | [Record](../records/virginia_v_maryland_merits_2003-12-09.md) |
-| 2003-12-10 | McConnell v. Federal Election Commission; 540 U.S. 93; Nos. 02-1674, 02-1675, 02-1676, 02-1702, 02-1727, 02-1733, 02-1734, 02-1740, 02-1747, 02-1753, 02-1755 and 02-1756. | Affirmed in part, reversed in part, and vacated in part; remanded for a provision-specific decree, including a five-Justice payroll fit remand. Stone-Zsela and O'Connor deliver distinct portions of one signed lead opinion. | [Record](../records/mcconnell_v_federal_election_commission_merits_2003-12-10.md) |
-| 2003-12-11 | United States v. Deaton; judgment below, 332 F.3d 698 | Affirmed on statutory coverage, constitutional authority, delineation and restoration, 9–0; Kennedy delivers the complete lead, with the Chief’s differentiated joins. | [Record](../records/united_states_v_deaton_merits_2003-12-11.md) |
-| 2003-12-15 | Castro v. United States; No. 02-6683; 540 U.S. 375 | Vacated and remanded, 9–0; Stevens delivers the lead, with seven complete warning-rule joins; Scalia, joined by Thomas, concurs in the merits judgment on the independent improper-conversion ground. | [Record](../records/castro_v_united_states_merits_2003-12-15.md) |
-| 2003-12-15 | Maryland v. Pringle; No. 02-809; 540 U.S. 366 | Reversed and remanded, 9–0; O’Connor delivers the unanimous opinion on individualized common-possession probability, the actual combined-facts application and the confined derivative remedy. | [Record](../records/maryland_v_pringle_merits_2003-12-15.md) |
-| 2004-02-05 | Rancho Viejo, LLC v. Norton; D.C. Circuit No. 01-5373; judgment below reported at 323 F.3d 1062. | Judgment sustaining the challenged application affirmed, 9–0, on the necessary-inclusion ground; Kennedy for the Court; Stevens concurs in part and in the judgment, joined by Souter. | [Record](../records/rancho_viejo_llc_v_norton_merits_2004-02-05.md) |
-| 2004-03-11 | Lomont v. O’Neill; judgment below reported at 285 F.3d 9 (D.C. Circuit). | Judgment affirmed, 9–0, recognizing the officers' own official-injury challenge and rejecting the commandeering claim against voluntary certification; Scalia for a unanimous Court. | [Record](../records/lomont_v_oneill_merits_2004-03-11.md) |
-| 2004-03-25 | Environmental Defense Center, Inc. v. United States Environmental Protection Agency; judgment below reported at 344 F.3d 832 (Ninth Circuit). | Municipal federalism and speech dispositions affirmed, each 9–0; independent administrative remands preserved; Souter for a unanimous Court. | [Record](../records/environmental_defense_center_v_epa_merits_2004-03-25.md) |
-| 2004-04-13 | ACLU of New Jersey v. County of Hudson; Appellate Division No. A-4100-01; 352 N.J. Super. 44, 799 A.2d 629. | Affirmed, 9–0; the appellate reversal of the disclosure order remains effective for the information covered by the valid federal custody rule. | [Record](../records/aclu_of_new_jersey_v_county_of_hudson_merits_2004-04-13.md) |
-| 2004-06-16 | West Virginia v. U.S. Department of Health & Human Services; judgment below, 289 F.3d 281 (4th Cir. 2002). | Affirmed, 9–0; facial invalidation denied, with the condition operative and concrete coercive funding consequences reviewable. | [Record](../records/west_virginia_v_us_department_of_health_and_human_services_merits_2004-06-16.md) |
+| 2003-10-14 | Demore v. Kim | Vacated and remanded, 5–4, for the substantial-question statutory inquiry and any consequent individualized custody assessment; Kim's existing $5,000 bond release remains effective pending those determinations. Breyer delivers the opinion of the Court in part and an opinion respecting the remaining parts. | [Record](../records/demore_v_kim_merits_2003-10-14.md) |
+| 2003-10-20 | Yarborough v. Gentry | Reversed and remanded, 9–0, rejecting the reviewed closing-argument habeas claim; per curiam. | [Record](../records/yarborough_v_gentry_merits_2003-10-20.md) |
+| 2003-10-27 | Greenville Women's Clinic v. Commissioner | Affirmed in part, reversed in part, vacated in part and remanded; component coalitions stated below. | [Record](../records/greenville_womens_clinic_v_commissioner_merits_2003-10-27.md) |
+| 2003-10-30 | United States v. Holston | Judgment affirmed against the preserved Commerce Clause challenge, 9–0; O'Connor for a unanimous Court. | [Record](../records/united_states_v_holston_merits_2003-10-30.md) |
+| 2003-11-03 | Mitchell v. Esparza | Reviewed omission ground rejected, 8–1; categorical premise rejected and independent sentence grounds remanded, 9–0. | [Record](../records/mitchell_v_esparza_merits_2003-11-03.md) |
+| 2003-11-06 | Boca Investerings Partnership v. United States | Vacated and remanded, 9–0; Kennedy for the Court. | [Record](../records/boca_investerings_partnership_v_united_states_merits_2003-11-06.md) |
+| 2003-11-12 | Barnhart v. Thomas | Reversed and remanded, 9–0; Souter for the Court. | [Record](../records/barnhart_v_thomas_merits_2003-11-12.md) |
+| 2003-11-17 | Washoe County v. United States | Affirmed, 9–0; Thomas for the Court. | [Record](../records/washoe_county_v_united_states_merits_2003-11-17.md) |
+| 2003-11-20 | United States v. Ho | Both convictions affirmed against the Commerce Clause challenge, 9–0; separate sentence vacatur and remand preserved. | [Record](../records/united_states_v_ho_merits_2003-11-20.md) |
+| 2003-11-25 | Valeria v. Davis | Affirmed, 5–4; O'Connor for the Court; Breyer's partial dissent joined by Stevens, Souter and Ginsburg. | [Record](../records/valeria_v_davis_merits_2003-11-25.md) |
+| 2003-12-02 | Raytheon Co. v. Hernandez | Vacated and remanded, 7–0; Stevens for the Court. | [Record](../records/raytheon_co_v_hernandez_merits_2003-12-02.md) |
+| 2003-12-02 | United States v. Banks | Reversed and remanded, 9–0; Breyer for the Court. | [Record](../records/united_states_v_banks_merits_2003-12-02.md) |
+| 2003-12-04 | Van Susteren v. Jones | Affirmed on both granted constitutional grounds, 9–0; Thomas for the Court. | [Record](../records/van_susteren_v_jones_merits_2003-12-04.md) |
+| 2003-12-09 | Virginia v. Maryland | Maryland’s exceptions overruled and qualified declaratory decree entered, 7–2; Souter for the Court; Kennedy dissents, joined by Stevens. | [Record](../records/virginia_v_maryland_merits_2003-12-09.md) |
+| 2003-12-10 | McConnell v. Federal Election Commission | Affirmed in part, reversed in part, and vacated in part; remanded for a provision-specific decree, including a five-Justice payroll fit remand. Stone-Zsela and O'Connor deliver distinct portions of one signed lead opinion. | [Record](../records/mcconnell_v_federal_election_commission_merits_2003-12-10.md) |
+| 2003-12-11 | United States v. Deaton | Affirmed on statutory coverage, constitutional authority, delineation and restoration, 9–0; Kennedy delivers the complete lead, with the Chief’s differentiated joins. | [Record](../records/united_states_v_deaton_merits_2003-12-11.md) |
+| 2003-12-15 | Castro v. United States | Vacated and remanded, 9–0; Stevens delivers the lead, with seven complete warning-rule joins; Scalia, joined by Thomas, concurs in the merits judgment on the independent improper-conversion ground. | [Record](../records/castro_v_united_states_merits_2003-12-15.md) |
+| 2003-12-15 | In re Trans World Airlines, Inc. | Affirmed as to the represented EEOC and travel-voucher successor claims; ancillary limited-stay appeal dismissed as moot, each 9–0; Thomas for the Court. | [Record](../records/in_re_trans_world_airlines_merits_2003-12-15.md) |
+| 2003-12-15 | Maryland v. Pringle | Reversed and remanded, 9–0; O’Connor delivers the unanimous opinion on individualized common-possession probability, the actual combined-facts application and the confined derivative remedy. | [Record](../records/maryland_v_pringle_merits_2003-12-15.md) |
+| 2003-12-18 | Concrete Works of Colorado v. City and County of Denver | Affirmed, 9–0, on the live racial and sex contracting claims, the preserved fit ruling and the distinct mootness dispositions; Ginsburg for the Court. | [Record](../records/concrete_works_of_colorado_v_denver_merits_2003-12-18.md) |
+| 2004-01-06 | Center for National Security Studies v. U.S. Department of Justice | FOIA disposition vacated and remanded, 7–2; rejection of independent First Amendment and common-law compilation-access claims affirmed, 9–0; Stevens for the Court. | [Record](../records/center_for_national_security_studies_v_doj_merits_2004-01-06.md) |
+| 2004-01-08 | Nebraska v. Environmental Protection Agency | Affirm denial of the petition on the facial constitutional claims and preserve the rule-specific nonpresentation disposition, 9–0. | [Record](../records/nebraska_v_environmental_protection_agency_merits_2004-01-08.md) |
+| 2004-01-13 | Illinois v. Lidster | Reversed and remanded; unanimous rejection of categorical invalidity, with the checkpoint's reasonableness and the resulting bounded remand established 6–3; Breyer for the Court. | [Record](../records/illinois_v_lidster_merits_2004-01-13.md) |
+| 2004-01-13 | SEC v. Edwards | Reverse and remand, 9–0, rejecting fixed return and contractual entitlement as categorical exclusions from the investment-contract definition. | [Record](../records/sec_v_edwards_merits_2004-01-13.md) |
+| 2004-01-13 | Verizon Communications Inc. v. Law Offices of Curtis V. Trinko, LLP | Reversed in part, vacated in part and remanded; damages dismissal 5–4; bounded conduct and prospective-relief remand 6–3. | [Record](../records/verizon_communications_v_trinko_merits_2004-01-13.md) |
+| 2004-01-14 | Frew v. Hawkins | Reverse the categorical immunity ruling and remand for decree enforcement and the remaining compliance and remedial work, 9–0. | [Record](../records/frew_v_hawkins_merits_2004-01-14.md) |
+| 2004-01-14 | Kontrick v. Ryan | Affirm the Seventh Circuit and leave the denial of discharge in force, 9–0. | [Record](../records/kontrick_v_ryan_merits_2004-01-14.md) |
+| 2004-01-15 | Rubin v. City of Santa Monica | Affirm dismissal on the granted municipal speech and equal-protection question, 9–0; the separate Secretary-of-State dismissal remains undisturbed outside that question. | [Record](../records/rubin_v_santa_monica_merits_2004-01-15.md) |
+| 2004-01-21 | Alaska Department of Environmental Conservation v. EPA | Affirmed, 6–3. | [Record](../records/alaska_department_of_environmental_conservation_v_epa_merits_2004-01-21.md) |
+| 2004-01-22 | Freier v. Westinghouse Electric Corp. | Affirmed in the reviewed constitutional respects, 9–0; the existing limitations vacatur and remand remain in force. | [Record](../records/freier_v_westinghouse_electric_corp_merits_2004-01-22.md) |
+| 2004-01-26 | Fellers v. United States | Reversed and remanded, 9–0; seven Justices adopt the causal-independence and preponderance rule. | [Record](../records/fellers_v_united_states_merits_2004-01-26.md) |
+| 2004-01-26 | Lamie v. United States Trustee | Affirmed, 9–0; eight Justices join the lead opinion, and Stevens separately adopts the recipient rule in a concurrence in the judgment. | [Record](../records/lamie_v_united_states_trustee_merits_2004-01-26.md) |
+| 2004-01-27 | In re Application of the United States for an Order Authorizing the Roving Interception of Oral Communications | Affirmed, 9–0; invalidation of the expired assistance orders is preserved. | [Record](../records/in_re_roving_interception_merits_2004-01-27.md) |
+| 2004-02-05 | Rancho Viejo, LLC v. Norton | Judgment sustaining the challenged application affirmed, 9–0, on the necessary-inclusion ground; Kennedy for the Court; Stevens concurs in part and in the judgment, joined by Souter. | [Record](../records/rancho_viejo_llc_v_norton_merits_2004-02-05.md) |
+| 2004-02-09 | United States v. Carnes | Affirmed in the reviewed constitutional respect, 9–0; independent suppression reversal and new-trial mandate preserved. | [Record](../records/united_states_v_carnes_merits_2004-02-09.md) |
+| 2004-03-11 | Lomont v. O’Neill | Judgment affirmed, 9–0, recognizing the officers' own official-injury challenge and rejecting the commandeering claim against voluntary certification; Scalia for a unanimous Court. | [Record](../records/lomont_v_oneill_merits_2004-03-11.md) |
+| 2004-03-25 | Environmental Defense Center, Inc. v. United States Environmental Protection Agency | Municipal federalism and speech dispositions affirmed, each 9–0; independent administrative remands preserved; Souter for a unanimous Court. | [Record](../records/environmental_defense_center_v_epa_merits_2004-03-25.md) |
+| 2004-04-13 | ACLU of New Jersey v. County of Hudson | Affirmed, 9–0; the appellate reversal of the disclosure order remains effective for the information covered by the valid federal custody rule. | [Record](../records/aclu_of_new_jersey_v_county_of_hudson_merits_2004-04-13.md) |
+| 2004-06-16 | West Virginia v. U.S. Department of Health & Human Services | Affirmed, 9–0; facial invalidation denied, with the condition operative and concrete coercive funding consequences reviewable. | [Record](../records/west_virginia_v_us_department_of_health_and_human_services_merits_2004-06-16.md) |
 
 No Admitted Source Record was created. Pre-opening source materials retain their existing factual status.
 
@@ -67,19 +83,19 @@ Effective October 14, 2003, section 1226(e) preserves independently proper habea
 
 These jurisdiction and statutory-threshold propositions are direct majority holdings. Kim's remand applies the detainee clear-and-convincing risk showing and preserves his current release through the threshold determination and any consequent bond decision under a five-vote judgment. The burden rationale has four joins and supplies no general majority proof rule. The independent constitutional hearing and continued-detention formulations remain without a majority at the necessary level of generality; a distinct duration claim also requires findings about the course of detention. Classification and individual-risk findings on remand are applications of the stated instructions, not unresolved statutory standards.
 
-[Complete holdings, authority, precedent treatment and public scope](../runtime/current-public-law/demore_v_kim_merits_2003-10-14.md).
+[Complete public law and procedure](../runtime/current-public-law/demore_v_kim_merits_2003-10-14.md).
 
 ### Yarborough v. Gentry — 2003-10-20
 
 The established statutory and Sixth Amendment rules remain in force. They permit rejection of this closing-argument claim because the state performance assessment was substantively reasonable on the complete summation. Courts must examine actual defense advocacy and its context when applying the rule to other closing arguments.
 
-[Complete holdings, authority, precedent treatment and public scope](../runtime/current-public-law/yarborough_v_gentry_merits_2003-10-20.md).
+[Complete public law and procedure](../runtime/current-public-law/yarborough_v_gentry_merits_2003-10-20.md).
 
 ### Greenville Women's Clinic v. Commissioner — 2003-10-27
 
 Objective medical cooperation and the ordinary contextual standards survive these challenges. Patient-requested religious help remains permissible; the legally enforceable clergy duty must be identified before the challenged operation is finally sustained. The independent undefined best-practices sanction branch cannot support sanctions until a sufficient operative standard exists. Additional governmental access to intimate clinic records receives the information-recipient-function inquiry, with legitimate sufficiently connected identified inspection preserved. Proved additional interference with protected choice also receives Casey's existing ordered protections. These are separate rules and remedies; professional qualification, religious power, ascertainable duties and information permissions do not answer one another.
 
-[Complete holdings, authority, precedent treatment and public scope](../runtime/current-public-law/greenville_womens_clinic_v_commissioner_merits_2003-10-27.md).
+[Complete public law and procedure](../runtime/current-public-law/greenville_womens_clinic_v_commissioner_merits_2003-10-27.md).
 
 ### United States v. Holston — 2003-10-30
 
@@ -87,67 +103,67 @@ Effective October 30, 2003, the supported necessary-inclusion doctrine sustains 
 
 This decision adds a controlling application to the existing rule. Lopez's connection requirement, Home Builders's identification rule and Griffin/Langley's separation of statutory nexus from constitutional authority retain their force. The equipment-only theory is insufficient; the supported production mechanism sustains the challenged application.
 
-[Complete holdings, authority, precedent treatment and public scope](../runtime/current-public-law/united_states_v_holston_merits_2003-10-30.md).
+[Complete public law and procedure](../runtime/current-public-law/united_states_v_holston_merits_2003-10-30.md).
 
 ### Mitchell v. Esparza — 2003-11-03
 
 The statutory gateway conclusively defeats this reviewed omission theory. Capital eligibility omissions are not categorically structural merely because they concern a death sentence. Dated constitutional law, the state adjudication record, nonretroactivity and the governing error-review method remain distinct. Independent sentence claims continue on their own grounds and may continue to support sentence relief.
 
-[Complete holdings, authority, precedent treatment and public scope](../runtime/current-public-law/mitchell_v_esparza_merits_2003-11-03.md).
+[Complete public law and procedure](../runtime/current-public-law/mitchell_v_esparza_merits_2003-11-03.md).
 
 ### Boca Investerings Partnership v. United States — 2003-11-06
 
 Genuine joint enterprise remains the governing recognition requirement. Tax motive, costly structuring and planned allocations are relevant evidence, while necessity for partnership form is not an independent condition. Trial facts retain ordinary appellate deference. Entity recognition and transaction validity must be resolved separately before the corresponding tax consequences are fixed.
 
-[Complete holdings, authority, precedent treatment and public scope](../runtime/current-public-law/boca_investerings_partnership_v_united_states_merits_2003-11-06.md).
+[Complete public law and procedure](../runtime/current-public-law/boca_investerings_partnership_v_united_states_merits_2003-11-06.md).
 
 ### Barnhart v. Thomas — 2003-11-12
 
 The valid adult-disability sequence may stop at retained capacity for qualifying past relevant work. The later national-economy inquiry does not become an additional step-four condition. The decision applies existing delegated-choice doctrine to this statutory screen while preserving supported capacity findings, valid regulatory qualifications and ordinary review.
 
-[Complete holdings, authority, precedent treatment and public scope](../runtime/current-public-law/barnhart_v_thomas_merits_2003-11-12.md).
+[Complete public law and procedure](../runtime/current-public-law/barnhart_v_thomas_merits_2003-11-12.md).
 
 ### Washoe County v. United States — 2003-11-17
 
 The claim is final enough for adjudication but fails on the owned entitlement and federal action actually established. State authorization of a new water use does not include a federal crossing right. A project dependent on an ungranted route does not create compensation merely from the route's refusal, while ordinary physical and contextual takings protections remain for established burdens on property.
 
-[Complete holdings, authority, precedent treatment and public scope](../runtime/current-public-law/washoe_county_v_united_states_merits_2003-11-17.md).
+[Complete public law and procedure](../runtime/current-public-law/washoe_county_v_united_states_merits_2003-11-17.md).
 
 ### United States v. Ho — 2003-11-20
 
 The Commerce Clause permits preventive asbestos-removal and fitted advance-notice duties for the commercial removal operation supported here, without an individual release or cross-border-injury requirement. Courts must identify the regulated conduct and its supported direct market relationship before aggregation. The decision adds this application to existing Commerce doctrine; the enacted-class limitation and the requirement of proof of the statutory offenses remain effective.
 
-[Complete holdings, authority, precedent treatment and public scope](../runtime/current-public-law/united_states_v_ho_merits_2003-11-20.md).
+[Complete public law and procedure](../runtime/current-public-law/united_states_v_ho_merits_2003-11-20.md).
 
 ### Valeria v. Davis — 2003-11-25
 
 Political-process protection requires proof of a racial decisionmaking mechanism and does not depend on a prior remedial decree or hostility alone. Neutral centralization of an instructional subject remains permissible even when its effects concentrate on minority families. Proposition 227 survives this facial equality claim on the supported absence of the required racial mechanism; independent federal educational and language-access duties retain their own force.
 
-[Complete holdings, authority, precedent treatment and public scope](../runtime/current-public-law/valeria_v_davis_merits_2003-11-25.md).
+[Complete public law and procedure](../runtime/current-public-law/valeria_v_davis_merits_2003-11-25.md).
 
 ### Raytheon Co. v. Hernandez — 2003-12-02
 
 A lawful neutral misconduct policy can satisfy production in an ADA treatment case while leaving genuine motive and pretext for ordinary proof. Rehabilitation does not make the policy automatically unlawful, and a neutral label does not make its application conclusively nondiscriminatory. The established statutory definition of disability and the distinct elements of treatment and impact claims retain their force.
 
-[Complete holdings, authority, precedent treatment and public scope](../runtime/current-public-law/raytheon_co_v_hernandez_merits_2003-12-02.md).
+[Complete public law and procedure](../runtime/current-public-law/raytheon_co_v_hernandez_merits_2003-12-02.md).
 
 ### United States v. Banks — 2003-12-02
 
 The combined circumstances of this announced warrant execution justify the elapsed interval and necessary door entry. Courts continue to assess waiting time and force contextually. Section 3109 now expressly permits the supported post-notice destruction exception, independently of actual or implied refusal, while retaining its ordinary notice-and-refusal rule and separate liberation provision.
 
-[Complete holdings, authority, precedent treatment and public scope](../runtime/current-public-law/united_states_v_banks_merits_2003-12-02.md).
+[Complete public law and procedure](../runtime/current-public-law/united_states_v_banks_merits_2003-12-02.md).
 
 ### Van Susteren v. Jones — 2003-12-04
 
 California may apply this one-year prospective primary-entry requirement in the system reviewed. A claimant’s immediate preference does not displace a justified selection condition, while actual burden, realistic access and fit continue to govern under Burdick. Comparison between candidacy routes accounts for their operative selection stages as well as their calendar differences.
 
-[Complete holdings, authority, precedent treatment and public scope](../runtime/current-public-law/van_susteren_v_jones_merits_2003-12-04.md).
+[Complete public law and procedure](../runtime/current-public-law/van_susteren_v_jones_merits_2003-12-04.md).
 
 ### Virginia v. Maryland — 2003-12-09
 
 The protected Potomac withdrawals and appurtenant improvements rest on the interstate settlement rather than Maryland’s unilateral permission. The declaration governs the covered class of Virginia activities, while navigation, proper Maryland use and applicable federal law continue to limit their exercise. Prior cooperation has not transferred the reserved authority. Concrete disputes about those continuing limits remain subject to ordinary federal interstate remedies.
 
-[Complete holdings, authority, precedent treatment and public scope](../runtime/current-public-law/virginia_v_maryland_merits_2003-12-09.md).
+[Complete public law and procedure](../runtime/current-public-law/virginia_v_maryland_merits_2003-12-09.md).
 
 ### McConnell v. Federal Election Commission — 2003-12-10
 
@@ -157,25 +173,115 @@ The primary electioneering category supports independently justified financial r
 
 Actual financial obligations, sponsor identification and the stated broadcaster request files have their separately justified scopes. The reporting period, aggregate and donor thresholds, account option, public-distribution implementation and supported-reprisal protection retain their own terms. Source and structural holdings sustain the identified federal-election mechanisms independently of speech fit, and the categorical Press, classification and clarity theories fail only at the scopes stated. The claimant-specific threshold dismissals leave their merits for a properly justiciable action. The payroll remand, decree-conforming work and concrete application review are implementation of the rules announced here.
 
-[Complete holdings, authority, precedent treatment and public scope](../runtime/current-public-law/mcconnell_v_federal_election_commission_merits_2003-12-10.md).
+[Complete public law and procedure](../runtime/current-public-law/mcconnell_v_federal_election_commission_merits_2003-12-10.md).
 
 ### United States v. Deaton — 2003-12-11
 
 The demonstrated tributary system and its adjacent wetlands fall within the valid water program, and supported protection of the navigable receiving channel sustains this discharge application. Statutory delegation, regulatory interpretation, factual hydrology and constitutional authority remain distinct inquiries. The complete wetland definition continues to govern use of the root-zone indicator. Restoration requires its own equitable and practical justification, supplied here by the actual findings supporting refilling.
 
-[Complete holdings, authority, precedent treatment and public scope](../runtime/current-public-law/united_states_v_deaton_merits_2003-12-11.md).
+[Complete public law and procedure](../runtime/current-public-law/united_states_v_deaton_merits_2003-12-11.md).
 
 ### Castro v. United States — 2003-12-15
 
 An unwarned judicial conversion of a differently labeled pro se filing does not count as the first section 2255 motion for later successive restrictions. Courts must provide all three protections before imposing that consequence. The rule applies to the classification before the Court and comparable conversion practice, while genuine successive motions, independent first-motion requirements and the earlier merits judgment retain their respective force.
 
-[Complete holdings, authority, precedent treatment and public scope](../runtime/current-public-law/castro_v_united_states_merits_2003-12-15.md).
+[Complete public law and procedure](../runtime/current-public-law/castro_v_united_states_merits_2003-12-15.md).
+
+### In re Trans World Airlines, Inc. — 2003-12-15
+
+Section 363(f)(5) reaches the identified transfer-dependent pre-sale successor interests when the proponent proves the property connection, a legally available compulsory monetary satisfaction, and the required claimant process. The rule applies across comparable enterprise sales at those predicates. Adequate protection on request, independent purchaser liability, claimant notice and the Code's estate-distribution rules retain their distinct force.
+
+[Complete public law and procedure](../runtime/current-public-law/in_re_trans_world_airlines_merits_2003-12-15.md).
 
 ### Maryland v. Pringle — 2003-12-15
 
 A supported common-possession inference can establish probable cause for more than one occupant without proof of exclusive ownership. Courts must identify the contemporaneous personal connection in the complete circumstances. The combination here justifies Pringle’s arrest and removes the resulting arrest-based ground for excluding his confession.
 
-[Complete holdings, authority, precedent treatment and public scope](../runtime/current-public-law/maryland_v_pringle_merits_2003-12-15.md).
+[Complete public law and procedure](../runtime/current-public-law/maryland_v_pringle_merits_2003-12-15.md).
+
+### Concrete Works of Colorado v. City and County of Denver — 2003-12-18
+
+The existing racial and sex contracting standards remain distinct and government-borne. Denver's developed evidence and preserved fit adjudication satisfy them for the live 1990 and 1998 claims. Combined evidence may demonstrate connected local exclusion; each classification still requires its own supported justification. Law of the case preserves an unchallenged fit determination subject to materially changed issues and the stated exceptions.
+
+[Complete public law and procedure](../runtime/current-public-law/concrete_works_of_colorado_v_denver_merits_2003-12-18.md).
+
+### Center for National Security Studies v. U.S. Department of Justice — 2004-01-06
+
+FOIA permits supported functional categories and protected predictive evidence while retaining agency persuasion, exemption-specific judicial review and reasonably segregable disclosure. The statutory inquiry turns on the actual records and asserted harms. The First Amendment and common law provide no independent route to this executive compilation on the claims presented; the qualified hearing-access rule and ordinary judicial-record channels retain their separate operation.
+
+[Complete public law and procedure](../runtime/current-public-law/center_for_national_security_studies_v_doj_merits_2004-01-06.md).
+
+### Nebraska v. Environmental Protection Agency — 2004-01-08
+
+Federal drinking-water safety standards may govern interstate utility sales and public suppliers' own operations on the grounds stated. The facial challenge cannot invalidate those applications. The denial of rule-specific review leaves EPA's arsenic standard and scheduled compliance requirements operative, while the distinction between operator compliance and compelled government of others remains controlling.
+
+[Complete public law and procedure](../runtime/current-public-law/nebraska_v_environmental_protection_agency_merits_2004-01-08.md).
+
+### Illinois v. Lidster — 2004-01-13
+
+Courts must distinguish a genuinely incident-linked witness inquiry from a program investigating the stopped motorists for ordinary crimes. The former still requires a concrete place-and-time connection and proportionate, constrained operation under Brown. This fatal-hit-and-run checkpoint satisfies that standard on its complete queue-inclusive record.
+
+[Complete public law and procedure](../runtime/current-public-law/illinois_v_lidster_merits_2004-01-13.md).
+
+### SEC v. Edwards — 2004-01-13
+
+Fixed and variable investment returns receive the same Howey inquiry. Courts evaluate the complete arrangement and its dependence on others' managerial efforts, while requiring proof of the remaining investment-contract elements and any asserted statutory violation. A contractual guarantee supplies no categorical exemption from that inquiry.
+
+[Complete public law and procedure](../runtime/current-public-law/sec_v_edwards_merits_2004-01-13.md).
+
+### Verizon Communications Inc. v. Law Offices of Curtis V. Trinko, LLP — 2004-01-13
+
+Regulated input conduct receives the ordinary monopoly-maintenance inquiry, with substantial attention to legitimate legal and operational explanations. Regulatory noncompliance neither proves that offense nor immunizes it. The present damages theory fails the separate directness requirement, while the prospective claim returns for the independent offense, personal-threat and equitable-remedy inquiry. Access parity requires support as a lawful antitrust remedy for established harm, rather than simply as a regulatory obligation.
+
+[Complete public law and procedure](../runtime/current-public-law/verizon_communications_v_trinko_merits_2004-01-13.md).
+
+### Frew v. Hawkins — 2004-01-14
+
+Federal implementation decrees meeting the stated jurisdictional, pleading-scope and federal-purpose conditions bind the responsible officials beyond a word-for-word repetition of the underlying statute. Courts review actual compliance findings, enforce the lawful prospective terms and determine corrective relief under the governing standards and the decree's federal purposes. Officials may obtain modification on Rufo's required showing, and unnecessary supervision ends when the obligations and legitimate purposes have been satisfied.
+
+[Complete public law and procedure](../runtime/current-public-law/frew_v_hawkins_merits_2004-01-14.md).
+
+### Kontrick v. Ryan — 2004-01-14
+
+The specified bankruptcy filing and enlargement rules remain mandatory procedural prescriptions, but their protection is lost when a debtor first invokes untimeliness after adjudication of the discharge objection's merits. Statutory subject-matter jurisdiction survives that filing defect, and a timely invoked objection continues to receive the rules' prescribed treatment.
+
+[Complete public law and procedure](../runtime/current-public-law/kontrick_v_ryan_merits_2004-01-14.md).
+
+### Rubin v. City of Santa Monica — 2004-01-15
+
+Election officials may apply the reviewed neutral status rule to the optional designation field while permitting qualifying office and occupational identification. The rule's identifying function, actual ordinary burden and consistent treatment across viewpoints supply its constitutional justification. An official's rejection of a qualifying profession because of its cause would fail the neutrality condition of this rule.
+
+[Complete public law and procedure](../runtime/current-public-law/rubin_v_santa_monica_merits_2004-01-15.md).
+
+### Alaska Department of Environmental Conservation v. EPA — 2004-01-21
+
+EPA may enforce the requirement that a state BACT determination have a reasoned statutory basis. The State retains its case-specific weighing within the statutory range, and federal intervention requires an identified, record-supported deficiency. This application sustains the actual modified orders and leaves the existing conditional permit operative under its own terms.
+
+[Complete public law and procedure](../runtime/current-public-law/alaska_department_of_environmental_conservation_v_epa_merits_2004-01-21.md).
+
+### Freier v. Westinghouse Electric Corp. — 2004-01-22
+
+Section 9658 validly supplies its enacted causal-discovery commencement floor for covered industrial toxic-exposure claims. Its functional relationship to commercial hazardous-waste regulation supplies federal power, and state courts must apply it under Article VI. Each claimant must establish the statutory predicates; tort liability and the remaining limitations rules retain their own requirements.
+
+[Complete public law and procedure](../runtime/current-public-law/freier_v_westinghouse_electric_corp_merits_2004-01-22.md).
+
+### Fellers v. United States — 2004-01-26
+
+Causally connected later statements following deliberate elicitation in violation of the attached right require proof of genuine independence, even after valid warnings and waiver. The Government bears preponderance on that admissibility question; any properly preserved constitutional harmlessness claim carries the separate beyond-a-reasonable-doubt burden. The legal rule governs pending direct-review cases, while lower courts determine the actual causal sequence and verdict consequence under those standards.
+
+[Complete public law and procedure](../runtime/current-public-law/fellers_v_united_states_merits_2004-01-26.md).
+
+### Lamie v. United States Trustee — 2004-01-26
+
+Under the amended section 330(a)(1), Chapter 7 debtor's counsel seeking payment from the estate must establish the required section 327 employment before a court evaluates compensation. Continued representation after conversion supplies no independent eligibility. The distinct individual Chapter 12 and Chapter 13 authorization remains effective under its own terms.
+
+[Complete public law and procedure](../runtime/current-public-law/lamie_v_united_states_trustee_merits_2004-01-26.md).
+
+### In re Application of the United States for an Order Authorizing the Roving Interception of Oral Communications — 2004-01-27
+
+Courts may compel covered providers to give necessary technical assistance under section 2518(4), subject to its substantive protection of customer services. Technical necessity and the lack of a more convenient technique cannot authorize material disabling of the primary assistance service. A later application must establish compliance on the actual operational record, including effects on service availability.
+
+[Complete public law and procedure](../runtime/current-public-law/in_re_roving_interception_merits_2004-01-27.md).
 
 ### Rancho Viejo, LLC v. Norton — 2004-02-05
 
@@ -183,7 +289,13 @@ Effective February 5, 2004, Home Builders's necessary-inclusion rule sustains th
 
 The commercial-project rationale cannot alone sustain this application; the necessary-inclusion ground sustains it, and the judgment below stands. This decision applies the existing doctrine without creating a new Commerce category.
 
-[Complete holdings, authority, precedent treatment and public scope](../runtime/current-public-law/rancho_viejo_llc_v_norton_merits_2004-02-05.md).
+[Complete public law and procedure](../runtime/current-public-law/rancho_viejo_llc_v_norton_merits_2004-02-05.md).
+
+### United States v. Carnes — 2004-02-09
+
+Federal protection of covered telephone communications extends to local calls actually carried through an interstate telephone system. The enacted interception and network predicates remain subject to the criminal burden. The direct-instrumentality ground defeats the local-endpoints objection while the independent suppression and retrial mandate governs further proceedings in Carnes's case.
+
+[Complete public law and procedure](../runtime/current-public-law/united_states_v_carnes_merits_2004-02-09.md).
 
 ### Lomont v. O’Neill — 2004-03-11
 
@@ -191,7 +303,7 @@ Effective March 11, 2004, officers presenting a concrete, traceable and redressa
 
 Federal certification arrangements of this kind remain voluntary when officers can refuse unconditionally without federal penalty, compelled investigation or substitute work. Courts examine legal consequences and actual enforcement, with the challenger required to identify an actual command or adverse federal consequence; constituent pressure alone does not supply one. This decision adds a controlling application of official-injury and genuine-choice principles. Printz's rule against compelled state executive administration, which does not turn on reimbursement, and Condon's direct state-activity rule retain their distinct scope.
 
-[Complete holdings, authority, precedent treatment and public scope](../runtime/current-public-law/lomont_v_oneill_merits_2004-03-11.md).
+[Complete public law and procedure](../runtime/current-public-law/lomont_v_oneill_merits_2004-03-11.md).
 
 ### Environmental Defense Center, Inc. v. United States Environmental Protection Agency — 2004-03-25
 
@@ -199,19 +311,19 @@ Effective March 25, 2004, municipal own-discharge regulation may employ the chal
 
 The decision also establishes a confined operational-information application: factual pollution-impact, reduction and disposal-hazard information may be required within the independent physical function, substantial purpose, direct practical fit, flexibility and justification-and-burden limits stated in Holding II. This governing permission extends beyond automatic classification as commercial product speech while retaining the compelled-belief and independent-criticism protections. The validity of a materially different final message, burden or permit condition is assessed under those existing limits on its own record.
 
-[Complete holdings, authority, precedent treatment and public scope](../runtime/current-public-law/environmental_defense_center_v_epa_merits_2004-03-25.md).
+[Complete public law and procedure](../runtime/current-public-law/environmental_defense_center_v_epa_merits_2004-03-25.md).
 
 ### ACLU of New Jersey v. County of Hudson — 2004-04-13
 
 The decision establishes the validity, against the presented delegation, interim APA and structural challenges, of federal control over public disclosure of information acquired through voluntarily accepted paid federal immigration custody. Contrary state disclosure requirements yield for that covered information. Each good-cause exception retains its own statutory predicate and published justification. The holding’s reach follows the custodial source and information category, while applicable federal disclosure channels and ordinary processing of separable unprotected material remain operative.
 
-[Complete holdings, authority, precedent treatment and public scope](../runtime/current-public-law/aclu_of_new_jersey_v_county_of_hudson_merits_2004-04-13.md).
+[Complete public law and procedure](../runtime/current-public-law/aclu_of_new_jersey_v_county_of_hudson_merits_2004-04-13.md).
 
 ### West Virginia v. U.S. Department of Health & Human Services — 2004-06-16
 
 Medicaid estate recovery remains an operative funding condition within its mandatory and optional categories, survivor protections, hardship waiver and estate limits. Section 1396c’s all-or-part mechanism survives this facial challenge, with its required procedure, findings, notification and endpoint intact. Enforcement remains subject to Kansas’s genuine-practical-choice rule: an actual credible threatened or imposed funding consequence can be challenged on its scope, notice and practical effects, including competent qualitative evidence. Statutory discretion supplies lawful possible applications and remains reviewable when exercised or credibly threatened.
 
-[Complete holdings, authority, precedent treatment and public scope](../runtime/current-public-law/west_virginia_v_us_department_of_health_and_human_services_merits_2004-06-16.md).
+[Complete public law and procedure](../runtime/current-public-law/west_virginia_v_us_department_of_health_and_human_services_merits_2004-06-16.md).
 
 ## Material Published Noncontrolling Positions
 
@@ -307,6 +419,54 @@ Home Builders's contrary enacted-class holding directly obstructs this ground, a
 
 [Published writings and exact joins](../runtime/current-public-law/west_virginia_v_us_department_of_health_and_human_services_merits_2004-06-16.md).
 
+### Center for National Security Studies v. U.S. Department of Justice — 2004-01-06
+
+**Stone-Zsela, concurring.** The Chief Justice joins the Court's statutory rules, independent-access holdings and remand. He would additionally require a prompt production-and-review schedule, a usable public explanation to the extent possible, and enforceable disclosure dates for material found nonexempt. Temporary protection should extend only as necessary to complete that review. His additional direction ensures that vacating the blanket withholding produces a timely, effective adjudication while preserving independently established protections.
+
+**Scalia, joined by Thomas, concurring in part and dissenting in part.** The dissent accepts the agency's statutory burden and rejects secrecy based on a security label alone. It finds that the declarations support this compilation as a functional investigative-map category: official confirmation can expose selections, contacts, gaps and sources even when individual roles differ or a person has been released. Robbins Tire permits that prediction. On this record the dissent would sustain 7(A) withholding, making alternative exemptions unnecessary to its result. It joins the rejection of both independent compilation-access claims.
+
+Noncontrolling at the scope stated in the [public opinion topology](../runtime/current-public-law/center_for_national_security_studies_v_doj_merits_2004-01-06.md#opinion-topology).
+
+### Illinois v. Lidster — 2004-01-13
+
+**Stevens, joined by Souter and Ginsburg, concurring in part and dissenting in part.** The three Justices agree that Edmond's categorical rule does not dispose of this witness inquiry and join the governing Brown framework. They give substantial weight to the involuntary nighttime delay and the uncertain likelihood of useful information from the motorists. Because Illinois relied on a categorical rule, they would return the case for its initial contextual application. Their proposed remand does not find this checkpoint unreasonable, require a new hearing or rest on a disputed longer wait; it preserves their view that this close balance should be applied below first.
+
+Noncontrolling at the scope stated in the [public opinion topology](../runtime/current-public-law/illinois_v_lidster_merits_2004-01-13.md#opinion-topology).
+
+### Verizon Communications Inc. v. Law Offices of Curtis V. Trinko, LLP — 2004-01-13
+
+**Scalia, dissenting in part, joined by O'Connor and Thomas.** The alleged customer diversion is the consequence of deficient compelled assistance, rather than an independently sufficient antitrust wrong. CSU preserves the requirement of such a wrong and the absence of a general duty to assist rivals; NYNEX separates regulatory misconduct from injury to the competitive process. Exclusionary purpose and a sharing command cannot supply the antitrust dealing obligation the complaint assumes. The dissent would dismiss the prospective claim for that conduct defect. It accepts Cargill's distinct equity standard and does not treat the damages ruling as a substitute for the missing offense analysis. All three join the Court's damages holding.
+
+**Ginsburg, dissenting in part, joined by Stone-Zsela, Kennedy and Breyer.** The alleged impairment of end-user orders may itself be the instrument by which Verizon discourages rival patronage. McCready therefore supplies a potentially closer causal model than the remote expense chain in Steamfitters. The Court should remand for assessment of Trinko's actual personal loss, intervening steps, overlap with carrier recovery and workable allocation under Associated General Contractors. The dissent would allow any amendment properly permitted by ordinary rules and dismiss an insufficient theory, while allowing a sufficiently direct independent claim to proceed. It does not find the damages predicates established. All four join the conduct and prospective-relief holdings.
+
+Noncontrolling at the scope stated in the [public opinion topology](../runtime/current-public-law/verizon_communications_v_trinko_merits_2004-01-13.md#opinion-topology).
+
+### Frew v. Hawkins — 2004-01-14
+
+**Stone-Zsela, concurring.** The Chief Justice joins the Court's prospective-enforcement rules, modification framework and complete reversal and remand. He would additionally require a concrete compliance schedule for established failures, evidence of performance and lawful enforcement if officials fail to comply. These directions would follow ordinary review of the actual compliance findings and remedial issues. Because the decree establishes a class-wide obligation, he would require officials proposing a narrower corrective measure to show that it fully cures the proved breach.
+
+The Chief Justice reasons that recognizing an enforceable decree must produce effective implementation of its lawful federal obligations. Verizon Maryland supplies the prospective-officer remedy, Firefighters recognizes lawful implementation beyond a bare statutory minimum and Rufo preserves the operative decree until lawful modification. Those principles support his proposed practical requirements for curing established failures. He would also require the court to decide any supported Rule 60(b)(5) request under Rufo, so enforcement protects the beneficiary class while supervision ends when the decree's obligations and legitimate purposes are satisfied. His position addresses the officials bound by this decree and its covered beneficiaries, with enforcement tailored to its federal purposes.
+
+Noncontrolling at the scope stated in the [public opinion topology](../runtime/current-public-law/frew_v_hawkins_merits_2004-01-14.md#opinion-topology).
+
+### Alaska Department of Environmental Conservation v. EPA — 2004-01-21
+
+**Kennedy, dissenting, joined by Scalia and Thomas.** The Act specifically assigns BACT's case-specific weighing to the state permitting authority. The dissent reads the federal prevention provisions to enforce required permits, required consideration and independently specified federal conditions, but not to create a federal merits-review channel over the completed discretionary balance. A reasonableness limit describes how review would operate without establishing that Congress authorized EPA to conduct it. Weak state reasons therefore cannot themselves create that power. The dissent would reverse the federal interference on the allocation ground, giving effect to the July permit's Alaska-success condition according to its terms; it does not need to choose a superior technology.
+
+Noncontrolling at the scope stated in the [public opinion topology](../runtime/current-public-law/alaska_department_of_environmental_conservation_v_epa_merits_2004-01-21.md#opinion-topology).
+
+### Fellers v. United States — 2004-01-26
+
+**Scalia, concurring in part and in the judgment, joined by Thomas.** The officers violated the attached right, and the lower court's reliance on the absence of Miranda interrogation and a Fifth-Amendment-only fruits analysis requires reversal and remand. Patterson nevertheless gives a later knowing and voluntary waiver substantial independent significance. Brown and Kaupp concern exploitation of unlawful custody, while Fellers was arrested on a warrant. The concurrence does not accept that every later voluntary, fully warned statement following this kind of Sixth Amendment violation must satisfy the Court's additional causal formula and proof component. It agrees that the lower framework cannot stand without adopting either an immediate affirmance under an extended Elstad rule or the Court's new attenuation rule.
+
+Noncontrolling at the scope stated in the [public opinion topology](../runtime/current-public-law/fellers_v_united_states_merits_2004-01-26.md#opinion-topology).
+
+### Lamie v. United States Trustee — 2004-01-26
+
+**Stevens, concurring in the judgment, joined by Souter and Breyer.** A plausible claim that a significant deletion resulted from a drafting error calls for examination of legislative history rather than treating the existing words alone as conclusive. The recipient-list reading excluding this unretained Chapter 7 attorney is the more natural construction, and the competing drafting-error arguments presented do not justify restoring the deleted category. The concurrence expressly adopts that operative rule and agrees with affirmance, while declining the view that text and structure alone complete the inquiry in this circumstance. Souter and Breyer accept this additional caution while joining the Court's opinion in full.
+
+Noncontrolling at the scope stated in the [public opinion topology](../runtime/current-public-law/lamie_v_united_states_trustee_merits_2004-01-26.md#opinion-topology).
+
 ## Current Procedure and Institution
 
 ### Court and seniority
@@ -370,6 +530,7 @@ For Kansas v. Nebraska, the [prior-term close dossier](../../OT2002/close/TERM_C
 
 The 38 added lower-court matters in Standing State are the corresponding inventory rows, not additional carryovers. Virginia v. Maryland, No. 129, Original, has a completed December 9, 2003 merits decree; retained jurisdiction and the decree’s operative limits are stated in its completed-event procedure below. All 119 scheduled matters are properly before the Court at their scheduled events. The manifest supplies the neutral entry-stage and participation fields for each row; Raytheon records Souter’s nonparticipation at decision and Breyer’s nonparticipation at consideration and decision. All other completed events establish their participation separately.
 
+
 ### Completed-event procedure
 
 **Demore v. Kim — 2003-10-14:** The mandate returns the case for the lower court to obtain proper agency consideration of the current removal and custody posture and every asserted mandatory category, including the original theft theory and the added burglary and two-crimes grounds. The decisionmaker applies Part II-B's not-insubstantial and not-solely-for-delay conditions to each independently sufficient ground. If those conditions are met, the consequent individual risk assessment applies Kim's clear-and-convincing showing of unlikely flight or danger and effective authority to grant lawful conditional release. If mandatory membership fails, ordinary section 1226(a) procedures govern; if the substantial-question condition fails while mandatory coverage remains, section 1226(c) applies subject to an independently established constitutional defect. Kim's existing $5,000 bond release remains effective pending the threshold determination and any consequent lawful bond decision. The lower court implements and enforces these instructions through the retained legal-authority channel; the agency performs the initial determinations assigned to it.
@@ -412,9 +573,41 @@ On issuance of the mandate the FEC must cease enforcing sections 213 and 318 aga
 
 **Castro v. United States — 2003-12-15:** The case returns for the district court to restore the 1997 motion to its docket without demanding authorization based on the unwarned 1994 conversion, identify any independently valid procedural or timeliness bar, and adjudicate the claims that properly survive. The prior Rule 33 merits denial remains effective.
 
+**In re Trans World Airlines, Inc. — 2003-12-15:** The ordinary mandate leaves the reviewed sale treatment and injunction in force and concludes the limited-stay appeal as moot. The bankruptcy court continues estate claim allowance, valuation and distributions and enforces the sale order within the statutory and process boundaries stated above.
+
 **Maryland v. Pringle — 2003-12-15:** The case returns to the Maryland courts for further proceedings consistent with the conclusion that Pringle’s arrest was lawful. The arrest-based derivative-exclusion ground must be removed, with any independently preserved issue addressed in its proper posture.
 
+**Concrete Works of Colorado v. City and County of Denver — 2003-12-18:** The district court must implement the direction to enter judgment for Denver and remove the inconsistent injunction and declarations, preserving the affirmed mootness dispositions. Denver may administer the sustained program within its enacted terms and continuing equal-protection obligations.
+
+**Center for National Security Studies v. U.S. Department of Justice — 2004-01-06:** The case returns for the actual category, residual-exemption, sealing-coverage and segregation determinations under the stated rules, followed by enforceable disclosure of nonexempt reasonably segregable material. The court may use justified protective procedures and temporary protection while resolving the claims. The independent First Amendment and common-law compilation-access claims are concluded.
+
+**Nebraska v. Environmental Protection Agency — 2004-01-08:** The petition for review remains denied. EPA may administer the arsenic rule, and covered providers remain subject to its existing 2006 compliance schedule.
+
+**Illinois v. Lidster — 2004-01-13:** The ordinary mandate returns the case to Illinois with the categorical suppression ruling reversed and the checkpoint's reasonableness settled. The state court continues the prosecution consistently with that determination.
+
+**SEC v. Edwards — 2004-01-13:** The case returns for application of the corrected investment-contract definition and adjudication of the remaining enforcement and preliminary-relief questions. The SEC bears the applicable burdens for securities classification, a violation and each remedy sought.
+
+**Verizon Communications Inc. v. Law Offices of Curtis V. Trinko, LLP — 2004-01-13:** The lower courts must dismiss the existing damages theory and assess the prospective claim under Parts I and III. That work includes the alleged market and exclusion mechanism, substantial justifications, a significant personal prospective threat, the actual protection supplied by regulatory measures, and the necessity and scope of any effective antitrust remedy. Ordinary pleading and amendment rules govern; a failure of a required predicate permits dismissal or denial at the appropriate stage. Other statutory and state-law claims retain their separate procedural status.
+
+**Frew v. Hawkins — 2004-01-14:** The lower courts must review the actual compliance findings and remedial issues under their ordinary standards, determine appropriate corrective measures for established noncompliance and enforce the decree's lawful prospective obligations. They must also decide any properly supported Rule 60(b)(5) request under the significant-change and tailoring requirements. The decree remains operative until lawfully altered or its satisfied obligations and legitimate purposes warrant termination.
+
+**Kontrick v. Ryan — 2004-01-14:** The denial of discharge stands, and the bankruptcy court may continue administering the estate with that judgment in force.
+
+**Rubin v. City of Santa Monica — 2004-01-15:** The municipal defense judgment stands, and officials may administer the sustained designation rule in future elections. Rubin retains the available candidate statement and ordinary campaign channels. The separate Secretary-of-State dismissal is undisturbed.
+
+**Alaska Department of Environmental Conservation v. EPA — 2004-01-21:** The mandate leaves the reviewed federal enforcement result in force as actually modified. The operator must comply with operative construction limits and the existing July permit. Any later state reconsideration must supply a reasoned BACT determination under all statutory factors, and EPA must assess that determination within the bounded enforcement authority stated above.
+
+**Freier v. Westinghouse Electric Corp. — 2004-01-22:** The district court must carry out the existing remand by applying the valid federal commencement rule to the disputed discovery-of-cause evidence and adjudicating surviving claims and preserved defenses. A covered claim cannot be dismissed using an earlier state commencement date displaced by section 9658.
+
+**Fellers v. United States — 2004-01-26:** The case returns to the lower courts to decide causal independence and, if necessary and properly preserved, harmlessness under Holding 2. The mandate requires exclusion when independence is not proved and relief from the conviction when the resulting constitutional error is not shown harmless. Any new trial proceeds with independently admissible evidence.
+
+**Lamie v. United States Trustee — 2004-01-26:** The bankruptcy court must leave the requested estate compensation denied under this application. The ordinary mandate implements the affirmed eligibility determination.
+
+**In re Application of the United States for an Order Authorizing the Roving Interception of Oral Communications — 2004-01-27:** The mandate preserves the appellate invalidation. A later Government request must independently satisfy section 2518(4)'s assistance and service-interference conditions on the technology and facts then presented.
+
 **Rancho Viejo, LLC v. Norton — 2004-02-05:** The D.C. Circuit's judgment sustaining the challenged application is affirmed, and the taking prohibition remains enforceable in that application subject to its actual elements and exceptions. Any section 10 permission and any independently pending statutory or permitting issue retain their ordinary procedural posture. Supreme Court merits review of the Commerce Clause challenge is complete.
+
+**United States v. Carnes — 2004-02-09:** The lower courts must retain the wiretap count against this commerce objection and implement the existing suppression-based reversal, new-trial direction and related mandate. Further proceedings remain governed by the independent rulings already effective below.
 
 **Lomont v. O’Neill — 2004-03-11:** The mandate issues in the ordinary course, leaving the challenged certification arrangement effective against the granted constitutional attack. Officers remain free to decline certification without federal sanction. The Supreme Court's review of the granted questions is concluded.
 
@@ -426,14 +619,14 @@ On issuance of the mandate the FEC must cease enforcing sections 213 and 318 aga
 
 ## Blockers and Revalidation Needs
 
-All sixteen scheduled chunk 2 matters are completed; no chunk 2 matter is stopped. Ordinary remand work and Virginia’s retained decree jurisdiction have their stated public scope. The four unscheduled original actions remain preserved.
+All 16 scheduled chunk 3 matters are completed; no chunk 3 matter is stopped. Ordinary remand work has the scope stated above. The four unscheduled original actions remain preserved.
 
-The chunk validation records the affected-law screen for already completed later chunk 1 decisions. Those adjudications remain unchanged. A future dependency must use the exact new holding rather than its result alone. Earlier-dated undecided matters in later presentation chunks supply no law and create no blocker.
+The chunk validation records the affected-law screen for already completed later decisions. Those adjudications remain unchanged. A future dependency must use the exact new holding rather than its result alone. Earlier-dated undecided matters in later presentation chunks supply no law and create no blocker.
 
 The source limitation retained from Planned Parenthood of the Rocky Mountains Services, Corp. v. Owens concerns the acknowledgment signer, declaration/report actors and report recipient; a later use depending on those identities needs the operative source and authorized clarification.
 
-Repository operations remain reserved to the user. The ledger preserves actual durable file order; repository history and commit-object verification remain deferred. For this chunk the user’s assignment direction counts all previously durable signed leads, independently of the event-date cutoff governing entering law.
+Repository operations remain reserved to the user. The ledger preserves actual durable file order; repository history and commit-object verification remain deferred. Each assignment counts the previously durable signed leads under the current task instruction, independently of the event-date cutoff governing entering law.
 
 ## Source and Research Cutoff
 
-Opening legal cutoff: June 30, 2003, from the synchronized OT2002 trackers, edition November 14, 2026. Every completed event applies its own decision-date cutoff. The [chunk 1 reading index](../entering-law/OT_2003CHUNK1.md) and [chunk 2 reading index](../entering-law/OT_2003CHUNK2.md), neutral packets and source supplements, frozen commitments and reconciliations, and Records identify source support and specific limits. Completed public handoffs reflect actual earlier law. Neither a maximum chronology cursor nor a later-dated durable Record supplies substantive law to an earlier event. Research retrieval dates are internal provenance only.
+Opening legal cutoff: June 30, 2003, from the synchronized OT2002 trackers, edition November 14, 2026. Every completed event applies its own decision-date cutoff. The [chunk 1 reading index](../entering-law/OT_2003CHUNK1.md), [chunk 2 reading index](../entering-law/OT_2003CHUNK2.md), [chunk 3 reading index](../entering-law/OT_2003CHUNK3.md), neutral packets and source supplements, frozen commitments and reconciliations, and Records identify source support and specific limits. Neither a maximum chronology cursor nor a later-dated durable Record supplies substantive law to an earlier event. Research retrieval dates are internal provenance only.

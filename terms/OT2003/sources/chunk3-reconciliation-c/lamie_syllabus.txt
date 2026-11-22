@@ -1,0 +1,160 @@
+Source: https://www.law.cornell.edu/supct/html/02-693.ZS.html
+
+SUPREME COURT OF THE UNITED
+STATES
+
+LAMIE v. UNITED STATES TRUSTEE
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE FOURTH CIRCUIT
+
+No. 02—693. 
+Argued November 10, 2003–Decided January 26, 2004
+
+Before 1994, §330(a) of the Bankruptcy
+Code authorized a court to “award to a trustee, to
+an examiner, to a professional person employed under
+section 327 … , or to the debtor’s attorney”
+“(1) reasonable compensation for … services
+rendered by such trustee, examiner, professional person, or
+attorney … .” (Emphasis added to highlight text
+later deleted.) In 1994 Congress amended the Code with a
+reform Act. The Act altered §330(a) by deleting “or
+to the debtor’s attorney” from what was §330(a)
+and is now §330(a)(1). This change created apparent
+legislative drafting error in the current section. The section
+is left with a missing “or” that infects its grammar.
+ And its inclusion of “attorney” in what was
+§330(a)(1) and is now §330(a)(1)(A) defeats the neat
+parallelism that otherwise marks the relationship between
+current §§330(a)(1) (“trustee, … examiner,
+[or] professional person”) and 330(a)(1)(A)
+(“trustee, examiner, professional person, or
+attorney”). In this case, petitioner filed an application
+with the Bankruptcy Court seeking attorney’s fees under
+§330(a)(1) for the time he spent working on a behalf of a
+debtor in a chapter 7 proceeding. The Government objected to
+the application. It argued that §330(a) makes no
+provision for the estate to compensate an attorney who is not
+employed by the estate trustee and approved by the court under
+§327. Petitioner admitted he was not employed by the
+trustee and approved by the court under §327, but
+nonetheless contended §330(a) authorized a fee award to
+him because he was a debtor’s attorney. In denying
+petitioner’s application, the Bankruptcy Court, District
+Court, and Fourth Circuit all held that in a chapter 7
+proceeding §330(a)(1) does not authorize payment of
+attorney’s fees unless the attorney has been appointed
+under §327.
+
+Held: Under the Code’s plain
+language, §330(a)(1) does not authorize compensation
+awards to debtors’ attorneys from estate funds, unless
+they are employed as authorized by §327. If the attorney
+is to be paid from estate funds under §330(a)(1) in a
+chapter 7 case, he must be employed by the trustee and approved
+by the court. Pp. 5—15.
+
+ (a) Petitioner
+argues that this Court must look to legislative history to
+determine Congress’ intent because the existing statutory
+text is ambiguous in light of its predecessor. He claims that
+subsection (A)’s “attorney” is facially
+irreconcilable with the section’s first part since the two
+parts’ lists were previously parallel. He claims also
+that only a drafting error can explain the missing conjunction
+“or” between “an examiner” and “a
+professional person” since the text was previously
+grammatically correct. The starting point in discerning
+congressional intent, however, is the existing statutory text,
+Hughes Aircraft Co. v. Jacobson, 525 U.S. 432, and not
+predecessor statutes. So this Court begins with the present
+statute. Pp. 5—6.
+
+ (b) That the
+present statute is awkward, and even ungrammatical, does not
+make it ambiguous on the point at issue. A debtor’s
+attorney not engaged under §327 does not fall within the
+eligible class of persons that the first part of
+§330(a)(1) authorizes to receive compensation: trustees,
+examiners, and §327 professional persons. Subsection (A)
+allows compensation for services rendered by four types of
+persons (the same three plus attorneys), but unless an
+applicant is in one of the classes named in the first part, the
+kind of service rendered is irrelevant. The missing
+“or” does not change this conclusion. Numerous
+federal statutes inadvertently lack a conjunction, but are read
+for their plain meaning. Here, the missing “or”
+neither alters the text’s substance nor obscures its
+meaning. Subsection (A)’s nonparalleled fourth category
+also does not cloud the statute’s meaning. 
+“Attorney” can be straightforwardly read to refer to
+those attorneys who qualify as §327 professional persons. 
+Likewise, neighboring §331, which permits both
+debtors’ attorneys and §327 professional persons to
+receive interim compensation, most straightforwardly refers to
+§327 debtors’ attorneys. This reading may make
+“attorney” in §330(a)(1)(A) surplusage, but
+surplusage does not always produce ambiguity. When there are
+two ways to read the text–either attorney is surplusage,
+which makes the text plain, or attorney is nonsurplusage, which
+makes the text ambiguous–applying a rule against
+surplusage is inappropriate. Pp. 6—9.
+
+ (c) The
+plain meaning that §330(a)(1) sets forth does not lead to
+absurd results. Petitioner’s arguments–that this
+Court’s interpretation will lead to a departure from the
+principle of prompt and effectual administration of bankruptcy
+law and attributes to Congress an intent to eliminate
+compensation essential to debtors’ receipt of legal
+services–overstate §330(a)(1)’s effect. 
+Compensation remains available through various permitted means.
+ Compensation for debtors’ attorneys in chapter 12 and 13
+bankruptcies, for example, is not much disturbed by §330
+as a whole. Moreover, compensation for debtors’ attorneys
+in chapter 7 proceedings is not altogether prohibited. 
+Sections 327 and 330, taken together, allow chapter 7 trustees
+to engage attorneys, including debtors’ counsel, and allow
+courts to award them fees. Section §327’s limitation
+on a debtor’s incurring debts for professional services
+without the trustee’s approval also advances the
+trustee’s responsibility for preserving the chapter 7
+estate. Add to this the apparent sound functioning of the
+bankruptcy system in the Fifth and Eleventh Circuits, which
+have both adopted the plain meaning approach, and
+petitioner’s arguments become unconvincing. And
+§330(a)(1) does not prevent a debtor from engaging in the
+common practice of paying counsel compensation in advance to
+ensure that a bankruptcy filing is in order. 
+Pp. 9—11.
+
+ (d) With a
+plain, nonabsurd meaning in view, this Court will not read
+“attorney” in §330(a)(1)(A) to refer to
+“debtors’ attorneys,” in effect enlarging the
+statute’s scope. See Iselin v. United
+States, 270 U.S.
+245, 251. This Court’s unwillingness to soften the
+import of Congress’ chosen words even if it believes the
+words lead to a harsh outcome is longstanding. P. 11.
+
+ (e) Though
+it is unnecessary to rely on the 1994 Act’s legislative
+history, it is instructive to note that the history creates
+more confusion than clarity about the congressional intent. 
+History and policy considerations lend support both to
+petitioner’s interpretation and to the holding reached
+here. This uncertainty illustrates the difficulty of relying
+on legislative history and the advantage of resting on the
+statutory text. Pp. 12—14.
+
+290 F.3d 739, affirmed.
+
+ Kennedy, J.,
+delivered the opinion of the Court, in which Rehnquist,
+C. J., and O’Connor, Souter, Thomas, Ginsburg, and
+Breyer, JJ., joined, and in which Scalia, J., joined except for
+Part III. Stevens, J., filed an opinion concurring in the
+judgment, in which Souter and Breyer, JJ., joined.
+

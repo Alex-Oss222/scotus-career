@@ -1,0 +1,17 @@
+# Alaska — neutral permit-status validation and affected commitment supplement
+
+This clean supplement follows the original Alaska commitments and receives only the mechanically extracted objective permit-status paragraph in `OT_2003CHUNK3_ALASKA_NEUTRAL_FACT_EXTRACT.md`. It receives no target disposition, judicial rationale, lineup, Stone material or comparator. The source is the objective record recitation at 540 U.S. 461, 478–479, identifying the Solicitor General's August 21, 2003 letter and ADEC Permit No. 9932-AC005, Revision 2, July 16, 2003. The original letter and permit were not independently recovered or represented as read.
+
+## Validated neutral correction
+
+ADEC issued a July 16, 2003 PSD permit for MG-17 with SCR as BACT. Its condition provides that SCR ceases to be BACT if and when the pending case is decided in favor of Alaska. This supported administrative act predates the January 21, 2004 event. It is compatible with either possible disposition and is not a historical Supreme Court action. Under Engine §14, the authenticated published recitation supports this precise permit-status fact without an invented later filing or assumed compliance event.
+
+The original commitment's suggestion that the operative condition awaits issuance of an as-yet nonexistent compliant permit is therefore superseded. The actual July permit already exists. The conditional technological obligation preserves a concrete consequence of the litigation; issuance of that permit does not by itself eliminate the controversy. No construction completion, installed SCR, EPA acknowledgment, release of any particular order, damages liability or additional administrative act is inferred. The preexisting March allowance and withdrawn December direction retain the source status stated in the replacement preflight.
+
+## Affected non-Stone commitments
+
+Stevens, O'Connor, Souter, Ginsburg and Breyer retain their complete statutory-authority and reasonable-exercise commitments and their affirmance of the reviewed judgment. Under that judgment the July permit's Alaska-success condition is not satisfied, so its SCR-as-BACT term remains operative according to the permit. The mandate preserves the reviewed federal enforcement result and the existing revised permit's actual terms. It does not require a new permit merely because the Court affirms, make the Court the technology selector, or independently find that the construction restraint has been administratively lifted.
+
+Scalia, Kennedy and Thomas retain reversal on the absence of the asserted federal substantive-review authority, and relief from the challenged federal interference. Their result is a decision in Alaska's favor on the asserted power; the July permit's express success condition must receive effect according to its terms. The Court does not need to invent a replacement permit, certify completed construction or decide what additional administrative implementation remains.
+
+The permit update changes current procedural and remedial description, not the state explanation on which EPA acted or any Justice's sufficient statutory ground. All eight continue to agree that the court's role is legal adjudication, not initial selection of BACT. This supplement and the original commitments together constitute the frozen clean handoff for reconciliation; the original handoff remains preserved rather than silently rewritten.

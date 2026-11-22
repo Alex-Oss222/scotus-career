@@ -1,0 +1,66 @@
+# OT2003 chunk 3 ? SEC v. Edwards ? reconciled non-Chief commitments
+
+**Status:** Reconciliation complete for January 13, 2004. The eight frozen commitments are retained; no Chief position, opinion assignment or raw prior Record enters this handoff.
+
+## Final eight conclusions
+
+Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer each reverse and remand on the same two categorical errors: investment profits can be fixed returns, and a contractual right to payment does not itself defeat reliance on others' efforts. Each joins the full bounded Howey rule, whole-arrangement application and ordinary remand described in the copied commitment text. No Associate treats all interest-bearing obligations, equipment leases or consumer purchases as securities, and none converts allegations or preliminary findings into final fraud liability.
+
+## Full-opinion reconciliation
+
+The historical syllabus confirms one unanimous Court opinion and no separate writing. The entire clean opinion page and its sole starred footnote were read. Its disposition and two definitional holdings match every frozen Associate commitment. Historical authorship supplies no assignment in this timeline.
+
+Howey's investment-income meaning and Forman's consumption/investment distinction remain intact. Reves's note analysis does not establish a variable-income requirement; its footnote 4 suggestion that Forman's examples exhaust profits is dictum and has no controlling effect on the investment-contract question. Rejecting that suggestion neither overrules the separate Reves test for notes nor changes the other securities categories. The starred Edwards footnote treats the complaint's allegations as true because dismissal was ordered; it supplies no ultimate fraud finding. That treatment is consistent with the frozen neutral record's preliminary enforcement posture and its express allegation/finding distinction, not a new material merits fact.
+
+Each Justice's adopted Zandford join supports correcting a categorical securities-law error while leaving the actual statutory elements and lawful relief for ordinary proceedings. Stevens, O'Connor and Kennedy's pre-divergence Reves participation supplies no contrary fixed-return rule; Scalia and Thomas's text-based grounds remain compatible with Howey and no artificial exception; Souter, Ginsburg and Breyer's functional treatment of the integrated arrangement remains bounded by the same elements. The historical unanimity confirms these supported commitments because the decisive legal and record premises remain intact. No Justice-specific departure requires a changed premise.
+
+## Source map and remedy limits
+
+- Frozen neutral matter 28, A preflight and entering-law A (especially adopted Zandford) supply the operative record, date gate, prior law and actual Associate joins.
+- Syllabus and complete Court opinion, including starred footnote: https://www.law.cornell.edu/supct/html/02-1196.ZS.html and https://www.law.cornell.edu/supct/html/02-1196.ZO.html . Historical publication: 540 U.S. 389; January 13, 2004. No other writing is listed or linked.
+- Surviving pre-divergence Howey, 328 U.S. 293; Forman, 421 U.S. 837; Reves, 494 U.S. 56, supply the legal propositions independently of the target comparator. A preflight identifies their clean primary-opinion pages.
+- Research cutoff: January 13, 2004. No automatic restoration of every prior provisional remedy, final fraud finding or conclusion on all Howey elements follows from reversal. The ordinary remand remains as modeled.
+
+No new material neutral proposition or unresolved reconciliation blocker remains. The following commitment text is copied mechanically and retained in full, subject to this completed comparator confirmation.
+
+## Preserved frozen commitment text
+
+# OT2003 chunk 3 — SEC v. Edwards — frozen non-Stone commitments
+
+**Event:** Merits review, January 13, 2004; No. 02-1196.
+**Inputs:** Approved neutral packet; task A preflight; `OT_2003CHUNK3_A.md`; surviving Howey, Forman and Reves. Research cutoff: January 13, 2004. No target opinion, comparator or private Stone position received. Eight Associates participate. These conclusions precede reconciliation and assembly and do not assign an opinion.
+
+## Proposed disposition and controlling scope
+
+Reverse the Eleventh Circuit's categorical exclusion and remand. An investment contract can promise a fixed return. Howey's expected profits encompass the investment income sought by a person who commits money to a common enterprise and relies on the entrepreneurial or managerial efforts of others; the return need not vary with the enterprise's earnings. A contractual entitlement to payment does not by itself eliminate that reliance: the economic arrangement and the activity on which performance depends must be examined as a whole. The statutory investment-contract inquiry does not turn on calling the acquired object a payphone or separating its nominal purchase from the marketed management-and-leaseback arrangement.
+
+Howey applied the investment-contract term to a combined property and service arrangement; Forman distinguished obtaining a consumptive benefit from seeking an investment return. Reves's treatment of the separately enumerated note category does not establish that only variable earnings can be profits under Howey. A guarantee defines the promisor's obligation; it does not establish that the promised return is independent of the managerial activity of the enterprise responsible for paying it.
+
+The decision removes the fixed-return and contractual-entitlement exclusions. It does not hold that every equipment lease, loan, contract bearing interest or ordinary consumer purchase is an investment contract. Money investment, common enterprise, the required expectation and dependence on others' efforts remain separate requirements; the other statutory categories and their exceptions retain their terms. The promised return and economic structure permit application of the securities laws, but the preliminary record does not conclusively prove fraud or any disputed enforcement element. No ultimate finding that payments came from later investors is made from the SEC's allegation.
+
+Remand requires application of the correct definition and ordinary proof and remedial requirements. Reversal does not itself restore all preliminary relief, determine final liability, award recovery or conclusively resolve every Howey element. The lower courts must decide the surviving matters within the actual scope of the enforcement action.
+
+## Alternative-path assessment
+
+**Include fixed income within expected investment profits:** A return to an investor for committing capital is investment income whether fixed or contingent. The strongest contrary argument is that Forman described capital appreciation or participation in earnings. That language identifies investment benefit in contrast with consumption; it did not adjudicate or exclude every other form of investment income. Howey's whole-arrangement approach and its rejection of a speculative-enterprise prerequisite supply the relevant rule.
+
+**Categorically exclude a contractual fixed return:** This path would treat an enforceable promise as severing dependence on the manager and would treat profits as necessarily variable. Its strongest support is formal certainty of the debt and the wording concerning profits in prior descriptions. The obligation's enforceability does not supply the money needed for performance, and Howey itself concerns contractual arrangements. The proposed exclusion confuses legal entitlement with the economic activity supplying investment income and has no basis in the enacted category or the surviving test.
+
+**Declare every remaining element established:** The offered payphone arrangement places operational responsibilities with the promoter and is marketed for income, so it may satisfy the complete test when the actual elements are shown. That does not enlarge the granted categorical question into a conclusive finding on all elements or fraud. Zandford's adopted separation of a corrected legal standard from final proof and relief supports remand at this posture. No Justice commits to treating an accusation or a preliminary finding as a final merits adjudication.
+
+## Justice-specific commitments
+
+| Justice | Proposed judgment and sufficient ground | Own date-eligible authority and join limits |
+|---|---|---|
+| Stevens | Reverse and remand; fixed return and contractual entitlement create no categorical exclusion from investment-contract coverage. | His adopted Zandford join insists on the actual securities elements and ordinary remand. His pre-divergence economic-reality position in Landreth Timber and his Reves participation support considering the arrangement's investment character rather than its payphone label. He joins Howey's test without converting every business sale into a security. |
+| O'Connor | Reverse and remand on the same two exclusions. | Her adopted Zandford join distinguishes a legal category error from conclusive liability; her pre-divergence Reves participation treats the statutory instrument categories distinctly. She joins the complete bounded rule and requires the remaining elements and any relief to receive their ordinary proof. |
+| Scalia | Reverse and remand. The enacted investment-contract category and Howey's existing construction contain no variable-rate exception and no rule that a contract defeats dependence on management. | His adopted Zandford authorship supplies adherence to the actual statutory elements and refusal of a fairness-based substitute. He will not join an inference that all leases or all promised interest are securities, nor an unsupported judicial finding of ultimate fraud. |
+| Kennedy | Reverse and remand on the definition. | His Reves and adopted Zandford joins distinguish actual investment character from labels and keep each statutory category's rules intact. A legally fixed promise and continuing economic reliance can coexist. He joins no broader conclusion about every common-enterprise formulation or ordinary debtor-creditor relationship. |
+| Souter | Reverse and remand; fixed expected income remains capable of satisfying Howey. | His adopted Zandford join supports an exact functional connection while preserving the proof of each element. Forman's consumptive distinction does not supply a new fixed-income exemption. He joins the rule in full, with fraud allegations and remaining factual questions left to proper proceedings. |
+| Thomas | Reverse and remand. Neither the statutory term nor Howey makes return variability an element; contractual entitlement does not answer the efforts-of-others inquiry. | His adopted Zandford join requires statutory analysis and a remedy confined to the legal error. He joins no reliance on broad remedial purpose that dispenses with common enterprise or any other required element. No final enforcement relief follows merely from rejecting the exclusions. |
+| Ginsburg | Reverse and remand; economic dependence and investment purpose are assessed in the complete offered arrangement. | Her adopted Zandford join preserves the governing elements while rejecting artificial separation of an integrated investment transaction. Howey and Forman provide the investment/consumption distinction. Her join does not treat promotional allegations as findings or infer a fraud violation from instrument classification alone. |
+| Breyer | Reverse and remand. A fixed return is still income sought from capital committed to the manager's undertaking, and the return's contractual form does not decide its economic source. | His adopted Zandford join supports evaluating actual statutory function while maintaining ordinary proof and remedy. He joins the complete bounded test, not a free-standing investor-protection cause or an exclusion of legitimate contracts based on perceived fairness. |
+
+## Common coalition and mandate
+
+All eight Associates support reversal and the same definition at the same level of generality. No fracture or separate writing is provisionally necessary. The mandate corrects the two categorical exclusions and remands for the remaining lawful enforcement proceedings and remedial determinations. No assignment, Stone commitment or historical authorship is inferred.

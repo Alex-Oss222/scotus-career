@@ -1,0 +1,19 @@
+{
+  "key":"alaska",
+  "draft":"alaska_draft.md",
+  "record":"alaska_department_of_environmental_conservation_v_epa_merits_2004-01-21.md",
+  "public":"OT_2003CHUNK3_ALASKA_PUBLIC.md",
+  "replace":{"OTHER_JOINERS":"Stone-Zsela, Stevens, O'Connor, Souter and Breyer","DISSENT_AUTHOR":"Kennedy","DISSENT_JOINERS":"Scalia and Thomas"},
+  "assignment":{
+    "eligible":["Stone-Zsela","Stevens","O'Connor","Souter","Ginsburg","Breyer"],
+    "author":"Ginsburg",
+    "case":"Alaska Department of Environmental Conservation v. EPA",
+    "date":"2004-01-21",
+    "form":"one signed opinion with two complete statutory holdings and a compact 6–3 judgment, plus a statutory-allocation dissent",
+    "fit":"Ginsburg's frozen ground most directly combines the actual enforcement authorization with EPA's obligation to identify the defect in Alaska's own reasoning, preserving economic discretion and distinguishing a deficient explanation from federal technology preference. O'Connor's bounded statutory-construction position and Souter's Walton treatment are the strongest alternatives for the same legal work; each has four counted leads and Ginsburg has three. Stone-Zsela is eligible at four, but his approved no-automatic-technology and statutory-boundary formulation is fully carried by Ginsburg's existing position and supplies no special authoring advantage over it. Ginsburg performs that precise work with the lower count. No expansion is necessary; the three dissenters' allocation objection remains a real disagreement rather than a join to be obtained by changing authors."
+  },
+  "audit_files":["OT_2003CHUNK3_ALASKA_RECONCILED.md","OT_2003CHUNK3_ALASKA_STATUS_SUPPLEMENT.md","OT_2003CHUNK3_ALASKA_INDEPENDENT_RECONCILED.md"],
+  "audit":"The physically separate independent replacement model and reconciliation confirm the same five Associate affirmance joins, three allocation dissents, actual July permit and modified orders. The Chief supplies the sixth direct majority join from his approved position. All six adopt both controlling holdings. Kennedy's dissent expresses the allocation ground shared by Scalia and Thomas, without adopting the majority's application; its authorship uses that common statutory ground rather than historical authorship. Every operative order and permit condition retains its actual administrative source.",
+  "separate_author_note":"Kennedy writes the common statutory-allocation dissent, joined by Scalia and Thomas; the writing adds no application join and counts zero.",
+  "screen":"Lidster, Edwards, Trinko, Frew, Kontrick and Rubin were additionally screened as earlier completed public law. Their distinct search, securities, antitrust, decree, bankruptcy and ballot rules do not change the Clean Air Act's allocation or this administrative record. In particular, Trinko's antitrust treatment of regulation supplies no EPA delegation, and Frew's enforcement of a judicial consent decree supplies no independent agency-review power."
+}

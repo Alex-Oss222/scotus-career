@@ -1,0 +1,15 @@
+{
+  "key":"fellers","draft":"fellers_draft.md",
+  "record":"fellers_v_united_states_merits_2004-01-26.md",
+  "public":"OT_2003CHUNK3_FELLERS_PUBLIC.md",
+  "replace":{"OTHER_JOINERS":"Stone-Zsela, Stevens, O'Connor, Kennedy, Souter and Ginsburg","CONCURRENCE_AUTHOR":"Scalia","CONCURRENCE_JOINERS":"Thomas"},
+  "assignment":{
+    "eligible":["Stone-Zsela","Stevens","O'Connor","Kennedy","Souter","Ginsburg","Breyer"],
+    "author":"Breyer","case":"Fellers v. United States","date":"2004-01-26",
+    "form":"one signed lead with a unanimous initial-violation holding and seven-member causal/proof holding, plus the Scalia-Thomas partial concurrence preserving the waiver-centered objection",
+    "fit":"Breyer's own Cobb and causal-inquiry commitments support a practical separation of the charged-offense violation, later waiver, actual exploitation and the resulting trial remedy. His frozen proof-standard position accepts preponderance on interview-sequence facts while distinguishing Wade's identification-reconstruction problem, which is precisely the new legal work. O'Connor, through her Elstad work and actual acceptance of this separate constitutional inquiry, is the strongest alternative at four leads. Stone-Zsela's approved causal formulation is also a complete fit at four, but Breyer can express that supported objective with three counted leads and no loss of qualification. The Scalia-Thomas objection cannot be removed by a writer's choice, so it remains a substantive partial concurrence rather than an invented expansion join."
+  },
+  "audit_files":["OT_2003CHUNK3_FELLERS_RECONCILED.md","OT_2003CHUNK3_FELLERS_PROOF_RECONCILED.md"],
+  "audit":"Nine votes support reversal and remand and the initial violation. Seven directly support causal independence, the government's preponderance burden and conditional exclusion/Chapman/new-trial instructions. Scalia and Thomas join the initial violation and judgment but withhold the later-statement rule; their published partial concurrence supplies the actual waiver-centered ground. The proof supplement was independently modeled and reconciled before assembly. The defendant's initial violation-and-causal-nexus showing is distinct from the government's specified quantum. The Chief's approved position supports all seven-member portions and the complete mandate without fallback.",
+  "screen":"All earlier completed public decisions in this chunk through Freier were screened. Lidster resolves checkpoint reasonableness and preserves separate later-investigation grounds; it does not replace Massiah's charged-offense rule. Trinko's civil antitrust causation and equity requirements supply no criminal suppression quantum. The other sale, regulatory, civil-access, decree, timing and ballot holdings change no premise here. Same-date Lamie supplies no entering law."
+}

@@ -1,0 +1,68 @@
+# OT2003 chunk 3 ? Nebraska v. EPA ? reconciled non-Chief commitments
+
+**Status:** Reconciliation complete for January 8, 2004. The eight original commitments are retained. Authorized frozen neutral, A preflight, entering-law A, commitments and comparator were consulted; no Chief position or raw prior Record was opened. No assignment is made.
+
+## Final eight conclusions
+
+Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer each affirm denial of the petition on all three presented components: valid interstate utility applications defeat the facial Commerce Clause attack; regulation of public suppliers' own operations does not commandeer government of others; and the actual nonpresentation and conceded waiver preserve the bar to rule-specific objections that EPA could meaningfully address. Each joins the bounded direct-commercial rule, the operator/sovereign-enforcement distinction, and the case-specific preservation rule. All eight retain their individual limits stated in the mechanically reproduced commitments below.
+
+## Comparator reconciliation
+
+The D.C. Circuit denied review on June 20, 2003, 331 F.3d 995, without deciding every wholly intrastate application. No Supreme Court merits decision supplies an historical Associate vote. The proposed affirmance accords with that circuit result while drawing its legal authority from the Court's effective law. Petition treatment cannot stand in for a merits alignment.
+
+The actual interstate water transactions furnish the identified constitutional connection demanded by Lopez and Home Builders without an aggregate-cost theory. This matters particularly to O'Connor, Scalia, Kennedy and Thomas: their demands for a supported constitutional mechanism remain operative and are met directly. Stevens, Souter, Ginsburg and Breyer may accept that sufficient connection without resolving every broader local-water theory. Unanimous adopted Condon, authored by Scalia, independently supplies all eight Associates' agreement that a State's own covered activity may be regulated despite employee work and expense, while New York and Printz still prohibit conscription of sovereign lawmaking or enforcement against third parties. The actual duties presented fall on the operator side of that line. None of the eight needs an assumption that general applicability is invariably indispensable, or a ruling on a States-only enactment.
+
+The supplied preservation facts distinguish a facial attack beyond EPA's power from objections to implementation EPA could address. The conclusion follows that actual nonpresentation and concession, not a newly discovered waiver or universal exhaustion doctrine. The effective Holston, Ho and Deaton decisions do not enlarge this commodity-sale ground; their distinct mechanisms remain distinct. No new record premise enters reconciliation.
+
+## Scope and sources
+
+- Frozen neutral matter 27 and A preflight: interstate supply, operator duties, actual nonpresentation, conceded waiver and the .01 mg/L rule's 2006 compliance schedule.
+- Entering-law A: Condon's unanimous holdings and state-activity limits; Lopez; Home Builders; New York; Printz. These supply current law and individual prior commitments.
+- Nebraska v. EPA, 331 F.3d 995, https://openjurist.org/331/f3d/995/nebraska-v-environmental-protection-agency , supplies the lower judgment and record passages already verified in A preflight.
+- Cutoff: January 8, 2004. No undeveloped particular local system, unpreserved scientific objection, existing violation, penalty or accelerated compliance duty is adjudicated.
+
+No historical Supreme Court merits departure or unresolved reconciliation blocker exists. The original eight commitments below are mechanically preserved as the detailed final grounds and join limits.
+
+## Preserved frozen commitment text
+
+# OT2003 chunk 3 — Nebraska v. EPA — frozen non-Stone commitments
+
+**Event:** Merits review, January 8, 2004.
+**Inputs:** Approved neutral packet; task A preflight; `OT_2003CHUNK3_A.md`; 331 F.3d 995. Research cutoff: January 8, 2004. No target comparator or private Stone position received. Eight Associates participate. These are provisional commitments, not a Court judgment or assignment.
+
+## Proposed component dispositions and rules
+
+Affirm denial of the petition for review. Reject the facial Commerce Clause attack on the Safe Drinking Water Act's regulation of noncommunicable contaminants because the covered water systems include established interstate utility supply and sales. Congress may prescribe safety standards for water supplied in interstate commercial transactions; the noncommunicability of the contamination does not remove the commodity or transaction from commerce. A challenge demanding categorical invalidation cannot disregard those valid applications. No general adjudication of a particular wholly local system is necessary or supported by the presented as-applied record.
+
+Reject the anti-commandeering challenge. The Act regulates public and private suppliers in their capacity as water-system operators. It does not require States to enact federal policy or direct their officers to enforce federal rules against unrelated persons. Actual work and expense of complying with a valid rule governing one's own operation do not alone constitute commandeering. Condon, New York and Printz retain their distinct boundaries; the government's authority to regulate an activity is separate from authority to conscript sovereign enforcement machinery.
+
+Preserve the treatment of the rule-specific objections as unpreserved. An agency's lack of power to invalidate the governing statute permits the facial legislative challenge without futile presentation. That does not excuse failing to present objections to the agency's own regulatory implementation when it could respond, interpret its mandate or develop pertinent evidence. The preserved constitutional question does not reopen the scientific selection of the arsenic limit. This is an application of the actual failure to present and conceded waiver; it creates no universal exhaustion rule for all constitutional objections.
+
+The .01 mg/L rule's 2006 compliance date remains what the applicable rule provides. Affirmance creates no finding of current violation, new duty, penalty or accelerated deadline.
+
+## Alternative-path test
+
+**Direct-commercial ground:** Interstate water supply and sales furnish a concrete connection before aggregation. The strongest contrary argument invokes local distribution and noncommunicable contaminants. Those features could matter to a properly developed different application but do not invalidate direct regulation of an interstate commodity. No chain through generalized healthcare costs is needed. The record source identifies the interstate systems, including the appellate judicial-notice basis; the Court need not invent a new market.
+
+**Broader class-wide or necessary-inclusion ground:** The utility market and prevention of regulatory evasion might support some wholly intrastate applications on an appropriate record. Holston, Ho and Deaton illustrate independently identified mechanisms, but none supplies a substitute water-market or hydrological finding here. The proposed judgment rests on the sufficient interstate-transaction ground; it does not add a statewide or nationwide holding about every private well or local system. The alternative cannot justify a broader rule without its own application and support.
+
+**Commandeering invalidation:** Petitioners' strongest position is that public employees must implement federal water policy at local expense. Condon and Baker distinguish compliance in one's own covered activity from compulsory government of others. No challenged duty here commands a state legislature or recruits state officers to regulate third parties; the asserted burden is therefore ordinary operator compliance. Expense alone cannot transform that duty into the command New York and Printz prohibit.
+
+**Excused rule objection:** Futility would matter if EPA could do nothing pertinent with the objection. Its inability to invalidate Congress's statute does not establish that premise for the rule. Implementation and supporting evidence remain agency functions. The decision preserves the statutory challenge while retaining the specific procedural bar on regulatory objections, rather than equating the two.
+
+## Justice-specific commitments
+
+| Justice | Disposition and sufficient ground | Date-eligible support and joins |
+|---|---|---|
+| Stevens | Affirm on all three components: valid interstate applications defeat facial invalidity; operator compliance is not commandeering; rule objections remain unpreserved. | His unanimous Condon join supplies both the commercial-article and state-own-activity distinctions. His broader commerce views do not require reaching an undeveloped local application. He joins the bounded direct-sales rule and actual preservation application. |
+| O'Connor | Affirm the three components. | Her Condon join and New York opinion distinguish regulating the State's own activity from compelling its legislative or regulatory choice. Her Lopez and Home Builders joins require an identified connection; actual interstate water transactions provide it directly. No refusal to recognize state autonomy is implied by the ordinary compliance holding. |
+| Scalia | Affirm the three components under direct commerce and the absence of a third-party regulatory command. | His adopted Condon authorship and Printz position make the relevant structural distinction exact. The direct-sales ground avoids the different necessary-inclusion questions on which his Home Builders position was narrower. He joins no general national police power and no decree ordering state legislation. |
+| Kennedy | Affirm the three components. | His Lopez, Home Builders and Condon joins preserve an enforceable commercial connection and distinguish state operation from sovereign compulsion. Interstate supply meets the first; public ownership does not defeat the second. His join requires the judgment's express scope to remain facial and the unpreserved regulatory challenge to remain distinct. |
+| Souter | Affirm the three components. | His Condon and Home Builders joins permit supported federal regulation of commercial activity while retaining the actual statutory class and record. The sufficient direct connection makes a broader local-water pronouncement unnecessary. He joins the concrete nonpresentation ruling, not an absolute bar to judicial constitutional questions. |
+| Thomas | Affirm the three components on the limited direct-interstate basis. | His Condon and Lopez joins sustain regulation of actual interstate commerce and distinguish the separate state-command issue. His narrower objections to some intrastate extensions do not make interstate utility sales immune from commodity regulation. He does not join an unneeded aggregate-effects holding for every local system. |
+| Ginsburg | Affirm the three components. | Her Condon and Home Builders joins support the direct market connection and compliance/commandeering distinction. The actual regulation of public and private operators resolves the structural claim without deciding whether general applicability is invariably required. She joins the preserved-statute/unpreserved-rule distinction. |
+| Breyer | Affirm the three components. | His Condon and Home Builders joins permit the supported interstate regulation, and the narrower direct-sales rule is sufficient even though his general commerce approach permits broader grounds in proper settings. He joins the rule-specific preservation holding because EPA could meaningfully address implementation, with no invented agency waiver or default. |
+
+## Common coalition and remedy
+
+All eight Associates support the same judgment and each operative proposition at the stated level. No author or separate writing is selected. The ordinary mandate preserves denial of the petition, leaves the rule's actual compliance schedule intact and does not determine an absent enforcement claim. The record of no matter-specific recusal supplies participation; no Stone vote or ground is assumed.

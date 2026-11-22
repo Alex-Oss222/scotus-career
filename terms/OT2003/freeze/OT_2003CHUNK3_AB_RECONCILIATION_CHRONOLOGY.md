@@ -1,0 +1,9 @@
+# OT2003 chunk 3 ? A/B reconciliation chronology supplement
+
+The reconciliation context read the completed public-only TWA handoff (effective December 15, 2003) and Concrete Works handoff (effective December 18, 2003), after those adjudications were reported complete. No raw Record, private Chief position or assignment ledger was opened. This receipt changes no frozen conclusion.
+
+TWA's transferred-property sale rule and represented-claim limits do not alter Concrete Works or the subsequent Nebraska, Edwards, Trinko, Lidster, Frew, Kontrick and Rubin questions. Kontrick shares the Bankruptcy Code setting, but statutory sale authority supplies neither the Rule 4004 jurisdictional classification nor forfeiture; its precise issue remains governed by the existing statutory jurisdiction and procedural rules. Frew's federal decree-enforcement source likewise remains distinct from bankruptcy nondebtor release authority.
+
+Concrete Works applies the existing racial and separate sex standards and ordinary law-of-the-case practice. None of the later A/B cases presents its procurement evidence, racial or sex remedial classification, or an unchallenged prior fit ruling. Rubin's election burden scale is not replaced by procurement scrutiny; Kontrick's mandatory claim-processing defense is not converted into law of the case. No later A/B commitment needs fresh neutral modeling because of these two completed holdings alone.
+
+Trinko and Lidster do require the separately reported, already prepared source-specific neutral supplements concerning requested prospective relief and total checkpoint delay. Those needs arise from newly verified record scope, not from these entering-law decisions. Their original commitment files remain preserved pending fresh affected modeling and reconciliation. No uncoordinated same-date event has been treated as precedent for another.

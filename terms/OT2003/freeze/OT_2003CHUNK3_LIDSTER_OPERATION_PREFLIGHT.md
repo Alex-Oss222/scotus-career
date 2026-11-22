@@ -1,0 +1,21 @@
+# Lidster — fresh operational-record validation
+
+**Event and cutoff:** Illinois v. Lidster, No. 02-1060, January 13, 2004. The original neutral packet and the objective `OT_2003CHUNK3_LIDSTER_OPERATION_NEUTRAL_EXTRACT.md` are the case inputs. The B slice, canonical Chandler and Edmond holdings, their prior public renders, Brown v. Texas and date-eligible Sitz writings supply law and Justice evidence. No prior Lidster commitment, comparator, reconciliation, Stone supplement or target Supreme Court result was received. The unrelated Trinko extract exposure described separately supplies no Lidster substance.
+
+## Supported operation
+
+The source extract makes a material distinction that the original short-contact description alone did not convey. Police cars partially blocked the eastbound lanes, flashing lights were visible, traffic slowed into lines of as many as fifteen cars per lane, total waiting time was described as a very few minutes at most, and the officer's question and flyer exchange lasted ten to fifteen seconds. The ten-to-fifteen-second duration therefore cannot describe the entire seizure. The source is a published judicial recitation of objective operation, not a separately recovered transcript or an operator's new timing measurement.
+
+These details support evaluation of the whole intrusion, including queuing, compulsory interruption and nighttime surprise. They supply neither discriminatory selection nor a disputed or substantially longer wait. The original supported purpose remains an inquiry about a specific fatal hit-and-run one week earlier at the same place and approximate time. It sought motorists as possible witnesses to another person's crime. The officer's subsequent observation that Lidster almost struck him and displayed intoxication signs supplies a separate individualized investigative sequence; it cannot retroactively justify the checkpoint.
+
+No added premise is needed about actual success rates, volunteered tips, the absence of other investigative methods, an advance public announcement or a written operations manual. The task is constitutional review on the accepted supported operation, not a new in-world production order. The supplied event remains properly before the Court; no grant or docket check is needed.
+
+## Governing distinctions
+
+Edmond rejects ordinary drug-detection roadblocks whose brevity and ancillary checks fail to supply antecedent authority. It expressly does not invalidate every program related to crime. Brown assesses concrete public concern, the degree to which the seizure advances it, intrusion and neutral limits on officer discretion. Chandler requires actual operational justification without a universal quantitative-success, catastrophe or exhaustion-of-alternatives requirement. Neither Pringle nor Banks supplies initial checkpoint authority. TWA's December 15, 2003 public holding was screened; its sale and successor-interest rules do not affect this seizure.
+
+Two lawful paths require assessment: distinguish the witness purpose and sustain this operation under the ordinary reasonableness factors; or distinguish the purpose but remand for a genuinely material operational fact left unresolved. A remand cannot rest on treating the now-supplied queue as nonexistent, on a fictitious timing dispute, or on a rule requiring every program to exhaust alternatives. A categorical application of Edmond would require extending its suspect-screening ground to a function it did not decide. The strongest challenge is that accepting an information label could authorize routine mass questioning. The rule must instead depend on the specific incident, the concrete place-and-time relationship to likely witnesses, the limited question and total intrusion, and actual limits on selection and questioning.
+
+## Readiness
+
+The full intrusion is now sufficiently specified for fresh modeling. No target outcome or lineup is used. The objective source recitation is accepted at its stated status under Engine §14; the separate source extraction supplies the original citation, and no claim is made to have recovered its underlying appendix. Each Associate's fresh commitment must use the queue-inclusive duration and distinguish purpose classification from the final reasonableness and remedy judgment.

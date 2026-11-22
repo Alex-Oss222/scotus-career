@@ -1,0 +1,243 @@
+# In re Trans World Airlines, 322 F.3d 283 — lower opinion
+
+Source: https://openjurist.org/322/f3d/283/trans-world-airlines-inc
+
+Verbatim legal text extracted from retrieved numbered lines; navigation removed. This is the lower opinion, not a Court adjudication.
+
+OPINION OF THE COURT
+
+FUENTES, Circuit Judge.
+
+¶1
+The issues in this bankruptcy appeal involve the doctrine of successor liability and arise out of the Bankruptcy Court's order approving the sale of the assets of Trans World Airlines ("TWA") to American Airlines ("American").
+The primary question is whether the District Court erred in affirming the Bankruptcy Court's order, which had the effect of extinguishing the liability of American, as successor to TWA, for (1) employment discrimination claims against TWA and (2) for the Travel Voucher Program awarded to TWA's flight attendants in settlement of a sex discrimination class action.
+Because section 363(f) of the Bankruptcy Code permits a sale of property "free and clear" of an "interest in such property[,]" and because the claims against TWA here were connected to or arise from the assets sold, we affirm the Bankruptcy Court's order approving the sale "free and clear" of successor liability.
+I. Facts and Procedural Background
+
+¶2
+
+We first review the factual background as it relates to the two types of claims under consideration here, the Travel Voucher Program and the Equal Employment Opportunity Commission ("EEOC") claims.
+
+A. The Travel Voucher Program
+
+¶3
+In regard to the Travel Voucher Program, two separate federal actions were filed. In 1976, the EEOC filed an action in the United States District Court for the Central District of California against TWA and against TWA's flight attendant collective bargaining representative. The collective bargaining representative subsequently aligned itself with the EEOC as a plaintiff.
+In 1977, Linda Knox-Schillinger filed a separate suit on her own behalf and on behalf of other female flight attendants, solely against TWA, in the United States District Court for the Southern District of New York. The principal contention of the two lawsuits was that TWA's former maternity leave of absence policy for flight attendants, including placing female flight attendants on leave immediately upon becoming pregnant, constituted sex discrimination in violation of Title VII of the Civil Rights Act of 1964, as amended, 【26†42 U.S.C.
+§ 2000e】, et seq. In 1978, the Knox-Schillinger case was certified as a class action and thereafter consolidated with the EEOC suit filed in the Central District of California.
+¶4
+Eventually, in 1995, both lawsuits were settled under a court-approved settlement agreement. The terms of the agreement required TWA to provide ten travel vouchers for each covered pregnancy to eligible class members who timely submitted a notarized proof of claim form to the EEOC (hereafter the "Travel Voucher Program"). The agreement provided that travel vouchers could be used by the class member or her family at any time during her life subject to certain age limitations for dependent children.
+Under the program, anyone traveling on one of these vouchers could be bumped by a paying passenger. Approximately 2,053 class members each received on average twenty five vouchers under the settlement agreement. Most flight attendants, as was their prerogative, elected to save the vouchers for long trips to be taken after retirement when they had more time to travel and would receive more favorable tax consequences for use of the vouchers.
+B. EEOC Claims
+
+¶5
+In addition to the claims arising out of the Travel Voucher Program, as of March 2, 2001, twenty-nine charges of discrimination had been filed against TWA with the EEOC or simultaneously filed with both the EEOC and a state or local Fair Employment Practices Agency.1 The charges alleged various violations of several federal employment discrimination statutes, including Title VII, the Americans with Disabilities Act, and the Age Discrimination in Employment Act.
+The appellants, the EEOC and the United States (collectively the "EEOC"), assert that they are unable to estimate the value, if any, of these claims, or the likelihood that the EEOC would commence litigation on the basis of any of these claims.
+C. American's Purchase of TWA's Assets
+
+¶6
+On January 10, 2002, TWA filed a Chapter 11 bankruptcy petition.2 Although it was the nation's eighth largest airline at the time, it had not earned a profit in over a decade.3 Months earlier, in the Spring of 2000, TWA determined that it could not continue to operate as an independent airline and that it needed to enter into a strategic transaction, such as a merger with, or sale of, TWA as a going concern to another airline. See In re Trans World Airlines, Inc., et al., No.
+01-00056, slip op. at 5, 2001 WL 1820326 (Bankr.D.Del. Apr.2, 2001) (hereafter "Order on Emergency Stay Motions"). Throughout 2000, TWA held intermittent discussions with American concerning the possibility of a strategic partnership. On January 3, 2001, American contacted TWA with a proposal to purchase substantially all of TWA's assets. On January 9, 2001, American agreed to a purchase plan subject to an auction and Bankruptcy Court approval.
+¶7
+
+Though TWA's assets were being sold under a court-approved bidding process, as of February 28, 2001, the deadline for the submission of bids, TWA had not received any alternate proposals other than American's that conformed with the bidding procedures. Accordingly, TWA's Board of Directors voted to accept American's proposal to purchase TWA's assets for $742 million.
+
+D. Bankruptcy Court and District Court Approval of Sale
+
+¶8
+The EEOC and the Knox-Schillinger class objected to the sale to American. After conducting an evidentiary hearing, the Bankruptcy Court approved the sale to American over the objections of the EEOC and the Knox-Schillinger plaintiffs. In approving the Sale Order, the Bankruptcy Court determined that there was no basis for successor liability on the part of American and that the flight attendants' claims could be treated as unsecured claims.
+In keeping with the Bankruptcy Court's conclusions, the Sale Order extinguished successor liability on the part of American for the Travel Voucher Program and any discrimination charges pending before the EEOC. Specifically, the Order provided that, in accordance with § 363(f) of the Bankruptcy Code:
+¶9
+
+the free and clear delivery of the Assets shall include, but not be limited to, all asserted or unasserted, known or unknown, employment related claims, payroll taxes, employee contracts, employee seniority accrued while employed with any of the Sellers and successorship liability accrued up to the date of closing of such sale.
+
+¶10
+Sale Order, ¶ 4, App. at 6. The Sale Order also enjoined all persons from seeking to enforce successor liability claims against American. The Court's order provided that:
+
+¶11
+
+Pursuant to sections 105(a) and 363 of the Bankruptcy Code, all Persons are enjoined from taking any action against Purchaser or Purchaser's Affiliates including, without limitation, TWA Airlines LLC, to recover any claim which such Person had solely against Sellers or Sellers' Affiliates.
+
+¶12
+Sale Order, ¶ 11, App. at 8.
+
+¶13
+Immediately after the Sale Order was entered, the EEOC filed a Notice of Appeal. On October 11, 2001, the District Court affirmed the Bankruptcy Court's decision, finding that TWA's assets were properly transferred free and clear of (1) the Travel Voucher Program and (2) the charges of employer misconduct filed with the EEOC.
+The District Court affirmed the Bankruptcy Court's holding that the claims against the debtor (TWA) were "interests in property" within the meaning of 11 U.S.C. § 363(f), and therefore, the debtor's assets could be transferred free and clear of those claims. The District Court determined that the Bankruptcy Court's findings of fact were not clearly erroneous and that the Bankruptcy Court's legal conclusions were supported by the factual record.
+The District Court further noted that:
+¶14
+there is record evidence supporting the bankruptcy court's conclusions that: (a) pursuant to a court-approved bidding procedure, debtors determined that American's offer was the highest and best offer for the purchase of substantially all of debtor's assets; (b) it was unlikely that debtors and American would have consummated the sale if appellants' claims were not extinguished; (c) if the sale did not go forward, it was highly likely that debtors would have been liquidated with resulting material harm to creditors, employees and the St.
+Louis, Missouri region, as well as rendering debtors unable to satisfy its [sic] obligations under the Travel Voucher Program; and (d) the travel vouchers may be reduced to a monetary satisfaction.
+¶15
+
+District Court's Order affirming the Bankruptcy Court's Sale Order, App. at 118 (citations omitted). On November 13, 2001, the Knox-Schillinger class filed a Notice of Appeal. On December 7, 2001, the EEOC also appealed the District Court's order. The appeals have been consolidated.
+
+II. Jurisdiction and Standard of Review
+
+¶16
+This Court has jurisdiction to review the District Court's order of October 11, 2001, affirming the Bankruptcy Court's Sale Order of March 12, 2001, pursuant to 28 U.S.C. §§ 158(d) and 1292(a)(1).
+
+¶17
+Our standard of review over the District Court's bankruptcy decision is the same as that exercised by the District Court. See In re Woskob, 305 F.3d 177, 181 (3d Cir.2002). Accordingly, we review the Bankruptcy Court's findings of fact for clear error and exercise plenary review over the Bankruptcy Court's legal determinations. See id.; see also In re Continental Airlines, 125 F.3d 120, 128 (3d Cir. 1997).
+
+III. Analysis
+
+¶18
+The parties' dispute in this case concerns the meaning of the phrase "interest in such property" (hereafter "interest in property") as that phrase is used in § 363(f) of the Bankruptcy Code. This section "permits sale of property free and clear of any interest in the property of an entity other than the estate." S.Rep. No. 95-989, at 56 (1978), U.S. Code Cong. & Admin. News at 5787, 5842.
+Appellants assert that the Travel Voucher Program and the pending EEOC charges are not interests in property within the meaning of this section and that, therefore, these claims were improperly extinguished by the Sale Order.
+They assert that interests in property are limited to "liens, mortgages, money judgments, writs of garnishment and attachment, and the like, and cannot encompass successor liability claims arising under federal antidiscrimination statutes and judicial decrees implementing those statutes." Federal Appellants' Br. at 19.
+Appellants also assert that their claims are outside the scope of § 363(f), and therefore cannot be extinguished, because they could not "be compelled, in a legal or equitable proceeding, to accept a money satisfaction of [their] interest[s]." 11 U.S.C. § 363(f)(5).
+The Airlines, on the other hand, argue that, while Congress did not expressly define "interest in property," the phrase should be broadly read to authorize a bankruptcy court to bar any interest that could potentially travel with the property being sold, even if the asserted interest is unsecured. They also assert that appellants' claims lie within the scope of § 363(f)(5), and therefore, can be extinguished because appellants can be compelled to accept a money satisfaction of their claims.
+We agree with the Airlines.4
+A. Interest in Property
+
+¶19
+
+The contentions of the parties require us to consider whether the claims in this case constitute an interest in property as understood within the meaning of § 363(f). Section 363(f) of the Bankruptcy Code provides, in pertinent part:
+
+¶20
+
+The trustee may sell property ... free and clear of any interest in such property of an entity other than the estate, only if —
+
+¶21
+(1) applicable nonbankruptcy law permits sale of such property free and clear of such interest;
+
+¶22
+
+(2) such entity consents;
+
+¶23
+
+(3) such interest is a lien and the price at which such property is to be sold is greater than the aggregate value of all liens on such property;
+
+¶24
+
+(4) such interest is in bona fide dispute; or
+
+¶25
+
+(5) such entity could be compelled, in a legal or equitable proceeding, to accept a money satisfaction of such interest.
+
+¶26
+11 U.S.C. § 363(f) (emphasis added). Some courts have narrowly interpreted interests in property to mean in rem interests in property, such as liens. See, e.g., In re White Motor Credit Corp., 75 B.R. 944, 948 (Bankr.N.D.Ohio 1987) ("General unsecured claimants including tort claimants, have no specific interest in a debtor's property. Therefore, section 363 is inapplicable for sales free and clear of such claims."); In re New England Fish Co., 【61†19 B.R.
+323, 326】 (Bankr.W.D.Wash.1982) (same). However, the trend seems to be toward a more expansive reading of "interests in property" which "encompasses other obligations that may flow from ownership of the property." 3 Collier on Bankruptcy ¶ 363.06[1].5
+¶27
+In Folger Adam Sec., Inc. v. DeMatteis/MacGregor, JV, 209 F.3d 252 (3d Cir.2000), we addressed the issue of whether certain affirmative defenses to a claim for breach of contract constituted an interest in property within the meaning of section 363(f). Specifically, we were asked to decide "whether the affirmative defenses of setoff, recoupment, and other contract defenses...
+constitute an `interest' under section 363(f) of the Bankruptcy Code such that a sale of the debtors' assets in a consolidated Bankruptcy Court auction free and clear, extinguished such affirmative defenses...." Id. at 253-54. We observed that there was no support in the case law for the proposition that a defense may be extinguished as a result of a free and clear sale. See id. at 261.
+Accordingly, we held that "a right of recoupment is a defense and not an interest and therefore is not extinguished by a § 363(f) sale." Id.
+¶28
+In arriving at this conclusion, we explored the significance of the Fourth Circuit's decision in In re Leckie Smokeless Coal Co., 99 F.3d 573 (4th Cir.1996).
+In Leckie, the Fourth Circuit held that, irrespective of whether the purchasers of the debtors' assets were successors in interest, under § 363(f), the Bankruptcy Court could properly extinguish all successor liability claims against the purchasers arising under the Coal Act by entering an order transferring the debtors' assets free and clear of those claims. See id. at 576.
+The Fourth Circuit held that the two employer-sponsored benefit plans that sought to collect Coal Act premium payments from the debtors' successors in interest were asserting interests in property that had already been sold through the section 363 sale. The Fourth Circuit explained that:
+¶29
+
+while the plain meaning of the phrase "interest in such property" suggests that not all general rights to payment are encompassed by the statute, Congress did not expressly indicate that, by employing such language, it intended to limit the scope of section 363(f) to in rem interests, strictly defined, and we decline to adopt such a restricted reading of the statute here.
+
+¶30
+Id. at 582. The Court explained that the employer-sponsored benefit plans had interests in the property of the debtors which had been transferred under section 363(f) in the sense that there was a relationship between their right to demand premium payments from the debtors and the use to which the debtors had put their assets. See id.
+Importantly, in the course of our review of Leckie, we noted that "the term `any interest' is intended to refer to obligations that are connected to, or arise from, the property being sold." Folger Adam, 209 F.3d at 259 (citing 3 Collier on Bankruptcy ¶ 363.06[1]).
+¶31
+Here the Airlines correctly assert that the Travel Voucher and EEOC claims at issue had the same relationship to TWA's assets in the § 363(f) sale, as the employee benefits did to the debtors' assets in Leckie. ie. In each case it was the assets of the debtor which gave rise to the claims. Had TWA not invested in airline assets, which required the employment of the EEOC claimants, those successor liability claims would not have arisen.
+Furthermore, TWA's investment in commercial aviation is inextricably linked to its employment of the Knox-Schillinger claimants as flight attendants, and its ability to distribute travel vouchers as part of the settlement agreement.
+While the interests of the EEOC and the Knox-Schillinger class in the assets of TWA's bankruptcy estate are not interests in property in the sense that they are not in rem interests, the reasoning of Leckie and Folger Adam suggests that they are interests in property within the meaning of section 363(f) in the sense that they arise from the property being sold.
+¶32
+
+Indeed, to equate interests in property with only in rem interests such as liens would be inconsistent with section 363(f)(3), which contemplates that a lien is but one type of interest. Section 363(f)(3) provides:
+
+¶33
+
+The trustee may sell property ... free and clear of any interest in such property of an entity other than the estate, only if —
+
+¶34
+(3) such interest is a lien and the price at which such property is to be sold is greater than the aggregate value of all liens on such property[.]
+
+¶35
+
+11 U.S.C. § 363(f)(3). In this regard, we find ourselves in agreement with Collier's observation that:
+
+¶36
+Section 363(f) permits the bankruptcy court to authorize a sale free of "any interest" that an entity has in property of the estate. Yet the Code does not define the concept of "interest," of which the property may be sold free. Certainly a lien is a type of "interest" of which the property may be sold free and clear.
+This becomes apparent in reviewing section 363(f)(3), which provides for particular treatment when "such interest is a lien." Obviously there must be situations in which the interest is something other than a lien; otherwise section 363(f)(3) would not need to deal explicitly with the case in which the interest is a lien.
+¶37
+3 Collier on Bankruptcy ¶ 363.06[1]. See also In re P.K.R. Convalescent Centers, Inc., 189 B.R. 90, 94 (Bankr.E.D.Va.1995) ("As the plain meaning of the statute demonstrates, § 363 covers more situations than just sales involving liens.") (citing In re Beker Indus. Corp., 63 B.R. 474, 478 (Bankr.S.D.N.Y.1986) and In re Manning, 37 B.R. 755, 759 (Bankr.D.Colo. 1984), aff'd in part, vacated in part, 831 F.2d 205 (10th Cir.1987)); In re WBQ Partnership, 【82†189 B.R.
+at 105】 ("Since `lien' is a defined term under the Bankruptcy Code, it stands to reason that Congress would have used the term `lien' instead of `interest,' had it intended to restrict the scope of § 363(f) to liens. Furthermore, § 363(f)(3) applies to situations in which `such interest is a lien,' which suggests that liens constitute a subcategory of `any interest.'").
+B. Money Satisfaction
+
+¶38
+In addition to asserting that their claims are not interests in property within the meaning of § 363(f), appellants also assert that their claims are outside the scope of § 363(f)(5) because neither the vouchers nor the EEOC claims are interests on account of which they could be compelled to accept money satisfaction.
+As noted above, under § 363(f), assuming the "interest in property" at issue falls within the meaning of the statute, a sale free and clear of such interest can occur if any one of five conditions has been satisfied. The Bankruptcy Court determined that, because the travel voucher and EEOC claims were both subject to monetary valuation, the fifth condition had been satisfied. We agree.
+Had TWA liquidated its assets under Chapter 7 of the Bankruptcy Code, the claims at issue would have been converted to dollar amounts and the claimants would have received the distribution provided to other general unsecured creditors on account of their claims. A travel voucher represents a seat on an airplane, a travel benefit that can be reduced to a specific monetary value. Indeed, TWA arrived at a valuation for tax purposes, as noted in the Annex to the settlement agreement.
+Likewise, the EEOC discrimination claims are reducible to, and can be satisfied by, monetary awards even if the relief sought is injunctive in nature. See In re Continental Airlines, 125 F.3d at 133-36 (seniority integration rights of employees of a bankrupt airline could be satisfied by monetary awards).
+C. Other Considerations
+
+¶39
+Even were we to conclude that the claims at issue are not interests in property, the priority scheme of the Bankruptcy Code supports the transfer of TWA's assets free and clear of the claims. The statutory scheme, 11 U.S.C. § 507(a) (2003), defines various classes of creditors entitled to satisfaction before general unsecured creditors may access the pool of available assets.
+In New England Fish, the Bankruptcy Court held that the civil rights claims before it were not interests in property but decided that the claimants were general unsecured creditors and that the debtor's assets could be transferred free and clear of such claims. See New England Fish, 19 B.R. at 326-29.
+¶40
+In New England Fish Co., the issue was whether the Bankruptcy Court could extinguish the right to payment of claimants asserting civil rights claims in the Bankruptcy Court. The civil rights claims at issue in New England Fish were based on allegations of racial discrimination in employment. In that case, two class actions had been brought against the debtor by its employees.
+One of the suits went to trial and the plaintiffs obtained a damages award for job discrimination, housing discrimination and attorneys fees. In the other suit, there had been no determination of liability at the time of the bankruptcy filing.6 The Bankruptcy Court recognized the claimants holding a judgment as being general unsecured creditors with liquidated claims and recognized the other class of claimants as being general unsecured creditors to the extent they could prove liability. See id.
+at 326. The prospective purchaser of the assets of the debtor and its trustee sought an adjudication that the assets of the debtor were transferred free and clear of the interests of the civil rights claimants. The prospective purchaser also sought a declaration that it did not qualify as a successor employer of the debtor, and, therefore, could not be held liable to the civil rights claimants. See id. at 325.
+¶41
+In the course of discussing the civil rights claims in New England Fish, the Bankruptcy Court applied the Supreme Court's admonition in Nathanson v. National Labor Relations Board, 344 U.S. 25, 73 S.Ct. 80, 97 L.Ed. 23 (1952), that "if one claimant of the bankrupt's estate is to be preferred over others, `the purpose should be clear from the statute.'" New England Fish, 19 B.R. at 326 (quoting Nathanson, 344 U.S. at 29, 73 S.Ct. 80).
+The Court reasoned that allowing the claimants to seek a recovery from the successor entity while creditors which were accorded higher priority by the Bankruptcy Code obtained their recovery from the limited assets of the bankruptcy estate would "subvert the specific priorities which define Congressional policy for bankruptcy distribution to creditors." New England Fish, 19 B.R. at 329.
+¶42
+Other courts have followed the rationale set forth in New England Fish. For instance, in Forde v. Kee-Lox Mfg. Co., Inc., 437 F.Supp. 631 (W.D.N.Y.1977), the District Court dismissed a suit brought under Title VII by an employee of a bankrupt debtor against the purchaser of its assets on a successor liability theory.
+The Court rejected the civil rights claimant's assertion that the Court could not reduce his demand for reinstatement to a fixed amount of money that could be satisfied out of the proceeds of the sale of the assets of the debtor's bankruptcy estate. See id. at 633. The Court explained:
+¶43
+
+There are two major difficulties with the plaintiff's position. First, the plaintiff would allow claimants such as himself to assert their claims against purchasers of the bankrupt's assets, while relegating lienholders to the proceeds of the sale. This elevates claims that have not been secured or reduced to judgment to a position superior to those that have. Yet the Bankruptcy Act is clearly designed to give liens on the bankrupt's property preference over unliquidated claims.
+
+¶44
+An additional difficulty with the plaintiff's position is that it would seriously impair the trustee's ability to liquidate the bankrupt's estate. If the trustee in a liquidation sale is not able to transfer title to the bankrupt's assets free of all claims, including civil rights claims, prospective purchasers may be unwilling to pay a fair price for the property, leaving less to distribute to the creditors.
+
+¶45
+
+Id. at 633-34.
+
+¶46
+Appellants here assert that Forde is no longer good law because it was decided under the Bankruptcy Act, which lacked a provision expressly authorizing asset sales free and clear of interests in property. We reject this argument based on the Supreme Court's teaching in Van Huffel v. Harkelrode, 284 U.S. 225, 52 S.Ct. 115, 【11†76 L.Ed.
+256】 (1931), that although the Bankruptcy Act did not expressly authorize bankruptcy courts to do so, the power to sell property of the bankruptcy estate free of encumbrances was "granted by implication." Id. at 227, 52 S.Ct. 115. We note that Forde continues to be cited as good law by courts construing the Bankruptcy Code. See, e.g., MacArthur Co. v. Johns-Manville Corp., 837 F.2d 89, 94 (2d Cir. 1988); In re Dow Corning Corp., 198 B.R. 214, 244 (Bankr.E.D.Mich. 1996).
+¶47
+We are sensitive to the concerns raised in Forde. We recognize that the claims of the EEOC and the Knox-Schillinger class of plaintiffs are based on congressional enactments addressing employment discrimination and are, therefore, not to be extinguished absent a compelling justification. At the same time, in the context of a bankruptcy, these claims are, by their nature, general unsecured claims and, as such, are accorded low priority.
+To allow the claimants to assert successor liability claims against American while limiting other creditors' recourse to the proceeds of the asset sale would be inconsistent with the Bankruptcy Code's priority scheme.
+¶48
+Moreover, the sale of TWA's assets to American at a time when TWA was in financial distress was likely facilitated by American obtaining title to the assets free and clear of these civil rights claims. Absent entry of the Bankruptcy Court's order providing for a sale of TWA's assets free and clear of the successor liability claims at issue, American may have offered a discounted bid.
+This is particularly likely given that the EEOC has been unable to estimate the number of claims it would pursue or the magnitude of the damages it would seek. The arguments advanced by appellants do not seem to account adequately for the fact that American was the only entity that came forward with an offer that complied with the court-approved bidding procedures for TWA's assets and provided jobs for TWA's employees.
+¶49
+The Bankruptcy Court found that, in the absence of a sale of TWA's assets to American, "the EEOC will be relegated to holding an unsecured claim in what will very likely be a piece-meal liquidation of TWA. In that context, such claims are likely to have little if any value." In re Trans World Airlines, Inc., et al., No. 01-00056, slip op. at 23, 2001 WL 1820326 (Bankr. D.Del. Mar.27, 2001).
+The same is true for claims asserted pursuant to the Travel Voucher Program, as they would be reduced to a dollar amount and would receive the same treatment as the unsecured claims of the EEOC.
+Given the strong likelihood of a liquidation absent the asset sale to American, a fact which appellants do not dispute, we agree with the Bankruptcy Court that a sale of the assets of TWA at the expense of preserving successor liability claims was necessary in order to preserve some 20,000 jobs, including those of Knox-Schillinger and the EEOC claimants still employed by TWA, and to provide funding for employee-related liabilities, including retirement benefits.
+IV. Conclusion
+
+¶50
+
+After carefully considering the arguments discussed above and all other arguments advanced by appellants, we join the District Court in affirming the Bankruptcy Court's authorization of the sale of TWA's assets to American free and clear of the claims of the EEOC and the Knox-Schillinger class.7
+
+Notes:
+
+*
+
+The Honorable Louis F. Oberdorfer, United States District Judge for the District of Columbia, sitting by designation
+
+1
+The EEOC asserts that, given that the law allows victims of discrimination 300 days from the date of the incident to file a claim with the EEOC, more charges of this type may have been filed after March 2, 2001
+
+2
+
+TWA had filed Chapter 11 petitions twice before, once in 1992 and again in 1995
+
+3
+The Bankruptcy Court found that TWA ended the year 2000 with $100 million in cash, which was $50 to $100 million less than the airline needed to survive its winter seasonSee In re Trans World Airlines, Inc., et al., No. 01-00056, slip op. at 10, 2001 WL 1820326 (Bankr.D.Del. Apr.2, 2001) (Order on Emergency Stay Motions). The Court also found that TWA's cash balance on January 10, 2001, was approximately $20 to $30 million and TWA needed $40 million to fund its operations the next day.
+See id.
+4
+On appeal the Airlines also assert that the imposition of successor liability on American is not warranted under applicable nonbankruptcy law. We have addressed the issue of successor liability in other contextsSee Rego v. ARC Water Treatment Co. of Pa., 181 F.3d 396, 401-02 (3d Cir.1999) (explaining the rationale underlying successor liability and setting forth factors to consider in determining whether successor liability should attach).
+Here we decline to speculate as to whether there is a basis for successor liability and, instead, assume for purposes of our analysis that but for the Sale Order, appellants could have asserted viable successor liability claims against American.
+5
+
+See, e.g., In re WBQ Partnership, 189 B.R. 97, 105 (Bankr.E.D.Va.1995) (Virginia's right to recover depreciation overpayment upon sale of debtor's assets was an "interest" within the meaning of section 363(f)); In re All American of Ashburn, Inc., 56 B.R. 186, 190 (Bankr.N.D.Ga. 1986) (sale pursuant to § 363(f) precluded mobile home owners from prosecuting product liability action against purchaser of debtor's assets).
+
+6
+This parallels the status of appellants' claims here. The Knox-Schillinger class is comprised of general unsecured creditors whose claims have been liquidated by the Travel Voucher Program. The EEOC is a general unsecured creditor whose claims have not been liquidated
+
+7
+Because we hold that the District Court properly affirmed the Bankruptcy Court's Sale Order, we need not discuss appellants' assertion that the District Court abused its discretion in refusing to issue a limited stay of the Bankruptcy Court's Sale Order. The appeal from the District Court's order refusing to issue the stay will be denied as moot
+

@@ -1,0 +1,15 @@
+{
+  "key":"roving_interception","draft":"roving_interception_draft.md",
+  "record":"in_re_roving_interception_merits_2004-01-27.md",
+  "public":"OT_2003CHUNK3_ROVING_INTERCEPTION_PUBLIC.md",
+  "replace":{"OTHER_JOINERS":"Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer"},
+  "assignment":{
+    "eligible":["Stone-Zsela","Stevens","O'Connor","Scalia","Kennedy","Souter","Thomas","Ginsburg","Breyer"],
+    "author":"Stone-Zsela","case":"In re Application of the United States for an Order Authorizing the Roving Interception of Oral Communications","date":"2004-01-27",
+    "form":"one signed unanimous opinion resolving recurrence reviewability, provider coverage and the independent minimum-interference condition on the actual technology",
+    "fit":"Stone-Zsela's authored Bach opinion already separated necessary technical execution from the antecedent authority and limits of a search. This decision requires that precise separation for provider coverage, technical feasibility and section 2518(4)'s independent customer-service condition. His approved formulation identifies actual service availability rather than an invented failed emergency, preserving a concrete and usable statutory limit. This supplies a demonstrated fit and a coordination reason for personal authorship across the two technical-assistance settings. Thomas, through Hartford Underwriters and its insistence on enacted entitlement and conditions, is the strongest alternative; he has five leads while the Chief has four. Scalia is also eligible at four but supplies no closer demonstrated account of this technology/authority distinction. All nine support the complete ground; no new duty or join is created by the selection."
+  },
+  "audit_files":["OT_2003CHUNK3_ROVING_INTERCEPTION_RECONCILED.md"],
+  "audit":"All nine directly join both recurrence conditions, covered-provider status, the independent statutory customer-service condition, actual availability application and affirmance. Provider burden, payment of provider costs, conversation minimization and customer-service interference remain distinct. The factual finding concerns disabled ordinary service availability and diverted emergency signaling; no attempted emergency or failed rescue is inferred. The Chief's approved rule and disposition are explicit; no fallback applies.",
+  "screen":"All earlier completed public decisions through Fellers and Lamie were screened. Fellers's distinct Sixth Amendment derivative-statement rule does not alter this statutory assistance authority. Lamie's recipient/authorization distinction is consistent with giving the separate enacted service condition effect, but supplies no new technological fact or section 2518 requirement. The other civil and constitutional decisions likewise introduce no different operative premise."
+}

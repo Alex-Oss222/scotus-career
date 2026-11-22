@@ -1,0 +1,205 @@
+{
+  "case": "Concrete Works of Colorado v. City and County of Denver",
+  "date": "2003-12-18",
+  "author": "Ginsburg",
+  "assigner": "Stone-Zsela",
+  "counts": {
+    "Stone-Zsela": 3,
+    "Stevens": 2,
+    "O'Connor": 4,
+    "Scalia": 2,
+    "Kennedy": 3,
+    "Souter": 3,
+    "Thomas": 3,
+    "Ginsburg": 2,
+    "Breyer": 2
+  },
+  "eligible": [
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "pool": [
+    "Stevens",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "counted_records": [
+    {
+      "file": "demore_v_kim_merits_2003-10-14.md",
+      "date": "2003-10-14",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "file": "yarborough_v_gentry_merits_2003-10-20.md",
+      "date": "2003-10-20",
+      "authors": []
+    },
+    {
+      "file": "greenville_womens_clinic_v_commissioner_merits_2003-10-27.md",
+      "date": "2003-10-27",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "file": "united_states_v_holston_merits_2003-10-30.md",
+      "date": "2003-10-30",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "file": "mitchell_v_esparza_merits_2003-11-03.md",
+      "date": "2003-11-03",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "file": "boca_investerings_partnership_v_united_states_merits_2003-11-06.md",
+      "date": "2003-11-06",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "file": "barnhart_v_thomas_merits_2003-11-12.md",
+      "date": "2003-11-12",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "file": "washoe_county_v_united_states_merits_2003-11-17.md",
+      "date": "2003-11-17",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "file": "united_states_v_ho_merits_2003-11-20.md",
+      "date": "2003-11-20",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "file": "valeria_v_davis_merits_2003-11-25.md",
+      "date": "2003-11-25",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "file": "raytheon_co_v_hernandez_merits_2003-12-02.md",
+      "date": "2003-12-02",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "file": "united_states_v_banks_merits_2003-12-02.md",
+      "date": "2003-12-02",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "file": "van_susteren_v_jones_merits_2003-12-04.md",
+      "date": "2003-12-04",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "file": "virginia_v_maryland_merits_2003-12-09.md",
+      "date": "2003-12-09",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "file": "mcconnell_v_federal_election_commission_merits_2003-12-10.md",
+      "date": "2003-12-10",
+      "authors": [
+        "Stone-Zsela",
+        "O'Connor"
+      ]
+    },
+    {
+      "file": "united_states_v_deaton_merits_2003-12-11.md",
+      "date": "2003-12-11",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "file": "castro_v_united_states_merits_2003-12-15.md",
+      "date": "2003-12-15",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "file": "in_re_trans_world_airlines_merits_2003-12-15.md",
+      "date": "2003-12-15",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "file": "maryland_v_pringle_merits_2003-12-15.md",
+      "date": "2003-12-15",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "file": "rancho_viejo_llc_v_norton_merits_2004-02-05.md",
+      "date": "2004-02-05",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "file": "lomont_v_oneill_merits_2004-03-11.md",
+      "date": "2004-03-11",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "file": "environmental_defense_center_v_epa_merits_2004-03-25.md",
+      "date": "2004-03-25",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "file": "aclu_of_new_jersey_v_county_of_hudson_merits_2004-04-13.md",
+      "date": "2004-04-13",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "file": "west_virginia_v_us_department_of_health_and_human_services_merits_2004-06-16.md",
+      "date": "2004-06-16",
+      "authors": [
+        "Ginsburg"
+      ]
+    }
+  ]
+}

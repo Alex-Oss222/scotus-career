@@ -1,0 +1,15 @@
+{
+  "key":"lamie","draft":"lamie_draft.md",
+  "record":"lamie_v_united_states_trustee_merits_2004-01-26.md",
+  "public":"OT_2003CHUNK3_LAMIE_PUBLIC.md",
+  "replace":{"OTHER_JOINERS":"Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer"},
+  "assignment":{
+    "eligible":["Stone-Zsela","O'Connor","Scalia","Kennedy","Souter","Thomas","Ginsburg","Breyer"],
+    "author":"Thomas","case":"Lamie v. United States Trustee","date":"2004-01-26",
+    "form":"one signed eight-member lead on recipient eligibility and its sufficient textual/structural explanation, with Stevens's published judgment concurrence joined by Souter and Breyer; nine direct supporters of the operative rule",
+    "fit":"Thomas's actual Hartford Underwriters authorship supplies the most directly demonstrated command of the Code's claimant-entitlement distinction before valuation or equitable usefulness. The required work here is the parallel separation of eligible recipients from the services description, while preserving the distinct Chapter 12/13 provision. Scalia is the strongest alternative for the same enacted-category ground, and Stone-Zsela's approved recipient/services distinction is a complete fit; all three have four leads. Thomas's directly analogous authored entitlement analysis gives him the case-specific advantage. The lead's sufficient explanation preserves Stevens's real methodological disagreement in a published concurrence, with Souter and Breyer joining both writings; no additional lead join is manufactured."
+  },
+  "audit_files":["OT_2003CHUNK3_LAMIE_RECONCILED.md","OT_2003CHUNK3_LAMIE_COMPATIBILITY_RECONCILED.md"],
+  "audit":"Eight Justices formally join the complete lead. Stevens expressly adopts the operative recipient rule in his concurrence in the judgment, giving that rule nine direct supporters without treating his textual-sufficiency qualification as a full lead join. Souter and Breyer join both writings. The concurrence states only the supported plausible-error inquiry and agreement with the recipient construction; no unverified legislative event is added. All nine affirm the same requested estate-fee denial. The Chief's full approved recipient rule and explanation are honored without fallback.",
+  "screen":"All earlier completed public decisions through Freier were screened. TWA's specific sale authority and Kontrick's bankruptcy-rule forfeiture do not change section 330's eligible recipient list or section 327 employment condition. The other civil, regulatory and constitutional holdings supply no different compensation premise. Same-date Fellers precedes this assignment for accounting but supplies no entering law."
+}
