@@ -1,0 +1,1586 @@
+545US1 Unit: $U65 [03-26-08 17:19:10] PAGES PGT: OPIN
+
+374  OCTOBER TERM, 2004
+
+     Syllabus
+
+ROMPILLA v. BEARD, SECRETARY, PENNSYLVANIA
+              DEPARTMENT OF CORRECTIONS
+
+certiorari to the united states court of appeals for
+                           the third circuit
+
+      No. 04–5462. Argued January 18, 2005—Decided June 20, 2005
+
+Petitioner Rompilla was convicted of murder and other crimes. During
+   the penalty phase, the jury found the aggravating factors that the mur­
+   der was committed during a felony, that it was committed by torture,
+   and that Rompilla had a signiﬁcant history of felony convictions indicat­
+   ing the use or threat of violence. In mitigation, ﬁve members of Rom­
+   pilla’s family beseeched the jury for mercy. He was sentenced to death,
+   and the Pennsylvania Supreme Court afﬁrmed. His new lawyers ﬁled
+   for state postconviction relief, claiming ineffective assistance by his trial
+   counsel in failing to present signiﬁcant mitigating evidence about Rom­
+   pilla’s childhood, mental capacity and health, and alcoholism. The state
+   courts found that trial counsel had sufﬁciently investigated the mitiga­
+   tion possibilities. Rompilla then raised inadequate representation in a
+   federal habeas petition. The District Court found that the State Su­
+   preme Court had unreasonably applied Strickland v. Washington, 466
+   U. S. 668, concluding that trial counsel had not investigated obvious
+   signs that Rompilla had a troubled childhood and suffered from mental
+   illness and alcoholism, unjustiﬁably relying instead on Rompilla’s own
+   description of an unexceptional background. In reversing, the Third
+   Circuit found nothing unreasonable in the state court’s application of
+   Strickland, given defense counsel’s efforts to uncover mitigation evi­
+   dence from Rompilla, certain family members, and three mental health
+   experts. The court distinguished Wiggins v. Smith, 539 U. S. 510—in
+   which counsel had failed to investigate adequately to the point of ignor­
+   ing the leads their limited enquiry yielded—noting that, although trial
+   counsel did not unearth useful information in Rompilla’s school, medical,
+   police, and prison records, their investigation had gone far enough to
+   give them reason to think that further efforts would not be a wise use
+   of their limited resources.
+
+Held: Even when a capital defendant and his family members have sug­
+   gested that no mitigating evidence is available, his lawyer is bound to
+   make reasonable efforts to obtain and review material that counsel
+   knows the prosecution will probably rely on as evidence of aggravation
+   at the trial’s sentencing phase. Pp. 380–393.
+545US1 Unit: $U65 [03-26-08 17:19:10] PAGES PGT: OPIN
+
+Cite as: 545 U. S. 374 (2005)                          375
+
+                                         Syllabus
+
+   (a) Rompilla’s entitlement to federal habeas relief turns on showing
+that the state court’s resolution of his ineffective-assistance claim under
+Strickland “resulted in a decision that was contrary to, or involved an
+unreasonable application of, clearly established Federal law, as deter­
+mined by” this Court, 28 U. S. C. § 2254(d)(1). The state court’s result
+must be not only incorrect but also objectively unreasonable. Wiggins,
+supra, at 520–521. In judging the defense’s investigation in preparing
+for a capital trial’s sentencing phase, hindsight is discounted by pegging
+adequacy to “counsel’s perspective at the time” investigative decisions
+were made and by giving deference to counsel’s judgments. Strick­
+land, supra, at 689, 691. Pp. 380–381.
+
+   (b) Here, the lawyers were deﬁcient in failing to examine the court
+ﬁle on Rompilla’s prior rape and assault conviction. They knew that
+the Commonwealth intended to seek the death penalty by proving that
+Rompilla had a signiﬁcant history of felony convictions indicating the
+use or threat of violence, that it would attempt to establish this history
+by proving the prior conviction, and that it would emphasize his violent
+character by introducing a transcript of the rape victim’s trial testimony.
+Although the prior conviction ﬁle was a public record, readily available
+at the courthouse where Rompilla was to be tried, counsel looked at no
+part of it until warned by the prosecution a second time, and even then
+did not examine the entire ﬁle. With every effort to view the facts as
+a defense lawyer would have at the time, it is difﬁcult to see how counsel
+could have failed to realize that not examining the ﬁle would seriously
+compromise their opportunity to respond to an aggravation case. Their
+duty to make all reasonable efforts to learn what they could about the
+offense the prosecution was going to use certainly included obtaining
+the Commonwealth’s own readily available ﬁle to learn what it knew
+about the crime, to discover any mitigating evidence it would downplay,
+and to anticipate the details it would emphasize. The obligation to ex­
+amine the ﬁle was particularly pressing here because the violent prior
+offense was similar to the crime charged and because Rompilla’s sen­
+tencing strategy stressed residual doubt. This obligation is not just
+common sense, but is also described in the American Bar Association
+Standards for Criminal Justice, which are “ ‘guides to determining what
+is reasonable,’ ” Wiggins, supra, at 524. The state court’s conclusion
+that defense counsel’s efforts to ﬁnd mitigating evidence by other means
+were enough to free them from further enquiry fails to answer the con­
+siderations set out here, to the point of being objectively unreasonable.
+No reasonable lawyer would forgo examination of the ﬁle thinking he
+could do as well by asking the defendant or family relations what they
+recalled. Nor would a reasonable lawyer compare possible searches for
+school reports, juvenile records, and evidence of drinking habits to the
+545US1 Unit: $U65 [03-26-08 17:19:10] PAGES PGT: OPIN
+
+376  ROMPILLA v. BEARD
+
+                                            Syllabus
+
+   opportunity to take a look at a ﬁle disclosing what the prosecutor knows
+   and plans to read from in his case. Pp. 381–390.
+
+      (c) Because the state courts found counsel’s representation adequate,
+   they never reached the prejudice element of a Strickland claim,
+   whether “there is a reasonable probability that, but for counsel’s unpro­
+   fessional errors, the result . . . would have been different,” 466 U. S., at
+   694. A de novo examination of this element shows that counsel’s lapse
+   was prejudicial. Had they looked at the prior conviction ﬁle, they
+   would have found a range of mitigation leads that no other source had
+   opened up. The imprisonment records contained in that ﬁle pictured
+   Rompilla’s childhood and mental health very differently from anything
+   they had seen or heard. The accumulated entries—e. g., that Rompilla
+   had a series of incarcerations, often related to alcohol; and test results
+   that would have pointed the defense’s mental health experts to schizo­
+   phrenia and other disorders—would have destroyed the benign concep­
+   tion of Rompilla’s upbringing and mental capacity counsel had formed
+   from talking to ﬁve family members and from the mental health experts’
+   reports. Further effort would presumably have unearthed much of the
+   material postconviction counsel found. Alerted to the school, medical,
+   and prison records that trial counsel never saw, postconviction counsel
+   found red ﬂags pointing up a need for further testing, which revealed
+   organic brain damage and childhood problems probably related to fetal
+   alcohol syndrome. These ﬁndings in turn would probably have
+   prompted a look at easily available school and juvenile records, which
+   showed additional problems, including evidence of a highly abusive
+   home life. The evidence adds up to a mitigation case bearing no rela­
+   tion to the few naked pleas for mercy actually put before the jury. The
+   undiscovered “mitigating evidence, taken as a whole, ‘might well have
+   inﬂuenced the jury’s appraisal’ of [Rompilla’s] culpability,” Wiggins,
+   supra, at 538, and the likelihood of a different result had the evidence
+   gone in is “sufﬁcient to undermine conﬁdence in the outcome” actually
+   reached at sentencing, Strickland, supra, at 694. Pp. 390–393.
+
+355 F. 3d 233, reversed.
+
+   Souter, J., delivered the opinion of the Court, in which Stevens,
+O’Connor, Ginsburg, and Breyer, JJ., joined. O’Connor, J., ﬁled a
+concurring opinion, post, p. 393. Kennedy, J., ﬁled a dissenting opinion,
+in which Rehnquist, C. J., and Scalia and Thomas, JJ., joined, post,
+p. 396.
+
+   Billy H. Nolas argued the cause for petitioner. With him
+on the briefs was Maureen Kearney Rowley.
+545US1 Unit: $U65 [03-26-08 17:19:10] PAGES PGT: OPIN
+
+Cite as: 545 U. S. 374 (2005)                          377
+
+                                    Opinion of the Court
+
+   Amy Zapp, Chief Deputy Attorney General of Pennsyl­
+vania, argued the cause for respondent. With her on the
+brief were Gerald J. Pappert, Attorney General, Richard
+A. Sheetz, Jr., Executive Deputy Attorney General, and
+James B. Martin.
+
+   Traci L. Lovitt argued the cause for the United States as
+amicus curiae urging afﬁrmance. With her on the brief
+were Acting Solicitor General Clement, Assistant Attorney
+General Wray, and Deputy Solicitor General Dreeben.*
+
+   Justice Souter delivered the opinion of the Court.
+
+   This case calls for speciﬁc application of the standard of
+reasonable competence required on the part of defense coun­
+sel by the Sixth Amendment. We hold that even when a
+capital defendant’s family members and the defendant him­
+self have suggested that no mitigating evidence is available,
+his lawyer is bound to make reasonable efforts to obtain and
+review material that counsel knows the prosecution will
+probably rely on as evidence of aggravation at the sentencing
+phase of trial.
+
+                                        I
+
+   On the morning of January 14, 1988, James Scanlon was
+discovered dead in a bar he ran in Allentown, Pennsylvania,
+his body having been stabbed repeatedly and set on ﬁre.
+Ronald Rompilla was indicted for the murder and related
+offenses, and the Commonwealth gave notice of intent to ask
+
+   *Briefs of amici curiae urging reversal were ﬁled for the American
+Bar Association by Robert J. Grey, Jr., Terri L. Mascherin, and Jared O.
+Freedman; and for the Friends of Ronald A. Rompilla by James Joseph
+Lynch, Jr.
+
+   Kent S. Scheidegger ﬁled a brief for the Criminal Justice Legal Founda­
+tion as amicus curiae urging afﬁrmance.
+
+   Audrey J. Anderson, Christopher M. Miller, and Pamela Harris ﬁled a
+brief for the National Association of Criminal Defense Lawyers as ami­
+cus curiae.
+545US1 Unit: $U65 [03-26-08 17:19:10] PAGES PGT: OPIN
+
+378  ROMPILLA v. BEARD
+
+                                    Opinion of the Court
+
+for the death penalty. Two public defenders were assigned
+to the case.
+
+   The jury at the guilt phase of trial found Rompilla guilty
+on all counts, and during the ensuing penalty phase, the
+prosecutor sought to prove three aggravating factors to jus­
+tify a death sentence: that the murder was committed in the
+course of another felony; that the murder was committed by
+torture; and that Rompilla had a signiﬁcant history of felony
+convictions indicating the use or threat of violence. See 42
+Pa. Cons. Stat. §§ 9711(d)(6), (8), (9) (2002). The Common­
+wealth presented evidence on all three aggravators, and
+the jury found all proven. Rompilla’s evidence in mitigation
+consisted of relatively brief testimony: ﬁve of his family
+members argued in effect for residual doubt, and beseeched
+the jury for mercy, saying that they believed Rompilla was
+innocent and a good man. Rompilla’s 14-year-old son testi­
+ﬁed that he loved his father and would visit him in prison.
+The jury acknowledged this evidence to the point of ﬁnding,
+as two factors in mitigation, that Rompilla’s son had testiﬁed
+on his behalf and that rehabilitation was possible. But the
+jurors assigned the greater weight to the aggravating fac­
+tors, and sentenced Rompilla to death. The Supreme Court
+of Pennsylvania afﬁrmed both conviction and sentence.
+Commonwealth v. Rompilla, 539 Pa. 499, 653 A. 2d 626
+(1995).
+
+   In December 1995, with new lawyers, Rompilla ﬁled claims
+under the Pennsylvania Post Conviction Relief Act, 42 Pa.
+Cons. Stat. § 9541 et seq. (2004), including ineffective assist­
+ance by trial counsel in failing to present signiﬁcant mitigat­
+ing evidence about Rompilla’s childhood, mental capacity and
+health, and alcoholism. The postconviction court found that
+trial counsel had done enough to investigate the possibilities
+of a mitigation case, and the Supreme Court of Pennsylvania
+afﬁrmed the denial of relief. Commonwealth v. Rompilla,
+554 Pa. 378, 721 A. 2d 786 (1998).
+545US1 Unit: $U65 [03-26-08 17:19:10] PAGES PGT: OPIN
+
+Cite as: 545 U. S. 374 (2005)                          379
+
+                                    Opinion of the Court
+
+   Rompilla then petitioned for a writ of habeas corpus under
+28 U. S. C. § 2254 in Federal District Court, raising claims
+that included inadequate representation. The District
+Court found that the State Supreme Court had unreasonably
+applied Strickland v. Washington, 466 U. S. 668 (1984), as to
+the penalty phase of the trial, and granted relief for ineffec­
+tive assistance of counsel. The court found that in pre­
+paring the mitigation case the defense lawyers had failed
+to investigate “pretty obvious signs” that Rompilla had a
+troubled childhood and suffered from mental illness and alco­
+holism, and instead had relied unjustiﬁably on Rompilla’s
+own description of an unexceptional background. Rompilla
+v. Horn, No. CIV.A.99–737 (ED Pa., July 11, 2000), App.
+1307–1308.
+
+   A divided Third Circuit panel reversed. Rompilla v.
+Horn, 355 F. 3d 233 (2004). The majority found nothing un­
+reasonable in the state court’s application of Strickland,
+given defense counsel’s efforts to uncover mitigation mate­
+rial, which included interviewing Rompilla and certain fam­
+ily members, as well as consultation with three mental
+health experts. Although the majority noted that the law­
+yers did not unearth the “useful information” to be found
+in Rompilla’s “school, medical, police, and prison records,” it
+thought the lawyers were justiﬁed in failing to hunt through
+these records when their other efforts gave no reason to be­
+lieve the search would yield anything helpful. 355 F. 3d,
+at 252. The panel thus distinguished Rompilla’s case from
+Wiggins v. Smith, 539 U. S. 510 (2003). Whereas Wiggins’s
+counsel failed to investigate adequately, to the point even of
+ignoring the leads their limited enquiry yielded, the Court
+of Appeals saw the Rompilla investigation as going far
+enough to leave counsel with reason for thinking further ef­
+forts would not be a wise use of the limited resources they
+had. But Judge Sloviter’s dissent stressed that trial coun­
+sel’s failure to obtain relevant records on Rompilla’s back­
+ground was owing to the lawyers’ unreasonable reliance on
+545US1 Unit: $U65 [03-26-08 17:19:10] PAGES PGT: OPIN
+
+380  ROMPILLA v. BEARD
+
+                                    Opinion of the Court
+
+family members and medical experts to tell them what rec­
+ords might be useful. The Third Circuit denied rehearing
+en banc by a vote of 6 to 5. Rompilla v. Horn, 359 F. 3d
+310 (2004).
+
+   We granted certiorari, 542 U. S. 966 (2004), and now
+reverse.1
+
+                                       II
+
+   Under 28 U. S. C. § 2254, Rompilla’s entitlement to federal
+habeas relief turns on showing that the state court’s reso­
+lution of his claim of ineffective assistance of counsel under
+Strickland v. Washington, supra, “resulted in a decision that
+was contrary to, or involved an unreasonable application of,
+clearly established Federal law, as determined by the Su­
+preme Court of the United States,” § 2254(d)(1). An “unrea­
+sonable application” occurs when a state court “ ‘identiﬁes
+the correct governing legal principle from this Court’s
+decisions but unreasonably applies that principle to the facts’
+of petitioner’s case.” Wiggins v. Smith, supra, at 520 (quot­
+ing Williams v. Taylor, 529 U. S. 362, 413 (2000) (opinion of
+O’Connor, J.)). That is, “the state court’s decision must
+have been [not only] incorrect or erroneous [but] objectively
+unreasonable.” Wiggins v. Smith, supra, at 520–521 (quot­
+ing Williams v. Taylor, supra, at 409 (internal quotation
+marks omitted)).
+
+   Ineffective assistance under Strickland is deﬁcient per­
+formance by counsel resulting in prejudice, 466 U. S., at 687,
+with performance being measured against an “objective
+standard of reasonableness,” id., at 688, “under prevailing
+professional norms,” ibid.; Wiggins v. Smith, supra, at 521.
+This case, like some others recently, looks to norms of ade­
+quate investigation in preparing for the sentencing phase of
+a capital trial, when defense counsel’s job is to counter the
+
+   1 Because we reverse on ineffective-assistance grounds, we have no occa­
+sion to consider Rompilla’s other claim, under Simmons v. South Carolina,
+512 U. S. 154 (1994). It is enough to say that any retrial of Rompilla’s
+sentence will be governed by the Simmons line of cases.
+545US1 Unit: $U65 [03-26-08 17:19:10] PAGES PGT: OPIN
+
+Cite as: 545 U. S. 374 (2005)                          381
+
+                                    Opinion of the Court
+
+State’s evidence of aggravated culpability with evidence in
+mitigation. In judging the defense’s investigation, as in
+applying Strickland generally, hindsight is discounted by
+pegging adequacy to “counsel’s perspective at the time” in­
+vestigative decisions are made, 466 U. S., at 689, and by giv­
+ing a “heavy measure of deference to counsel’s judgments,”
+id., at 691.
+
+                                        A
+
+   A standard of reasonableness applied as if one stood in
+counsel’s shoes spawns few hard-edged rules, and the merits
+of a number of counsel’s choices in this case are subject to
+fair debate. This is not a case in which defense counsel sim­
+ply ignored their obligation to ﬁnd mitigating evidence, and
+their workload as busy public defenders did not keep them
+from making a number of efforts, including interviews with
+Rompilla and some members of his family, and examinations
+of reports by three mental health experts who gave opinions
+at the guilt phase. None of the sources proved particu­
+larly helpful.
+
+   Rompilla’s own contributions to any mitigation case were
+minimal. Counsel found him uninterested in helping, as on
+their visit to his prison to go over a proposed mitigation
+strategy, when Rompilla told them he was “bored being here
+listening” and returned to his cell. App. 668. To questions
+about childhood and schooling, his answers indicated they
+had been normal, ibid., save for quitting school in the ninth
+grade, id., at 677. There were times when Rompilla was
+even actively obstructive by sending counsel off on false
+leads. Id., at 663–664.
+
+   The lawyers also spoke with ﬁve members of Rompilla’s
+family (his former wife, two brothers, a sister-in-law, and his
+son), id., at 494, and counsel testiﬁed that they developed
+a good relationship with the family in the course of their
+representation, id., at 669, 729. The state postconviction
+court found that counsel spoke to the relatives in a “detailed
+manner,” attempting to unearth mitigating information, id.,
+at 264, although the weight of this ﬁnding is qualiﬁed by the
+545US1 Unit: $U65 [03-26-08 17:19:10] PAGES PGT: OPIN
+
+382  ROMPILLA v. BEARD
+
+                                    Opinion of the Court
+
+lawyers’ concession that “the overwhelming response from
+the family was that they didn’t really feel as though they
+knew him all that well since he had spent the majority of his
+adult years and some of his childhood years in custody,” id.,
+at 495; see also id., at 669. Defense counsel also said that
+because the family was “coming from the position that [Rom­
+pilla] was innocent . . . they weren’t looking for reasons for
+why he might have done this.” Id., at 494.
+
+   The third and ﬁnal source tapped for mitigating material
+was the cadre of three mental health witnesses who were
+asked to look into Rompilla’s mental state as of the time of
+the offense and his competency to stand trial. Id., at 473–
+474, 476. But their reports revealed “nothing useful” to
+Rompilla’s case, id., at 1358, and the lawyers consequently
+did not go to any other historical source that might have cast
+light on Rompilla’s mental condition.
+
+   When new counsel entered the case to raise Rompilla’s
+postconviction claims, however, they identiﬁed a number of
+likely avenues the trial lawyers could fruitfully have fol­
+lowed in building a mitigation case. School records are one
+example, which trial counsel never examined in spite of the
+professed unfamiliarity of the several family members with
+Rompilla’s childhood, and despite counsel’s knowledge that
+Rompilla left school after the ninth grade. Id., at 677.
+Other examples are records of Rompilla’s juvenile and adult
+incarcerations, which counsel did not consult, although they
+were aware of their client’s criminal record. And while
+counsel knew from police reports provided in pretrial discov­
+ery that Rompilla had been drinking heavily at the time of
+his offense, Lodging to App. 111–120 (hereinafter Lodging),
+and although one of the mental health experts reported that
+Rompilla’s troubles with alcohol merited further investiga­
+tion, App. 723–724, counsel did not look for evidence of a
+history of dependence on alcohol that might have extenuat­
+ing signiﬁcance.
+
+   Before us, trial counsel and the Commonwealth respond to
+these unexplored possibilities by emphasizing this Court’s
+545US1 Unit: $U65 [03-26-08 17:19:10] PAGES PGT: OPIN
+
+Cite as: 545 U. S. 374 (2005)                          383
+
+                                    Opinion of the Court
+
+recognition that the duty to investigate does not force de­
+fense lawyers to scour the globe on the off chance something
+will turn up; reasonably diligent counsel may draw a line
+when they have good reason to think further investigation
+would be a waste. See Wiggins v. Smith, 539 U. S., at 525
+(further investigation excusable where counsel has evidence
+suggesting it would be fruitless); Strickland v. Washington,
+supra, at 699 (counsel could “reasonably surmise . . . that
+character and psychological evidence would be of little
+help”); Burger v. Kemp, 483 U. S. 776, 794 (1987) (limited
+investigation reasonable because all witnesses brought to
+counsel’s attention provided predominantly harmful informa­
+tion). The Commonwealth argues that the information trial
+counsel gathered from Rompilla and the other sources gave
+them sound reason to think it would have been pointless to
+spend time and money on the additional investigation es­
+poused by postconviction counsel, and we can say that there
+is room for debate about trial counsel’s obligation to follow
+at least some of those potential lines of enquiry. There is
+no need to say more, however, for a further point is clear
+and dispositive: the lawyers were deﬁcient in failing to exam­
+ine the court ﬁle on Rompilla’s prior conviction.
+
+                                        B
+
+   There is an obvious reason that the failure to examine
+Rompilla’s prior conviction ﬁle fell below the level of reason­
+able performance. Counsel knew that the Commonwealth
+intended to seek the death penalty by proving Rompilla had
+a signiﬁcant history of felony convictions indicating the use
+or threat of violence, an aggravator under state law. Coun­
+sel further knew that the Commonwealth would attempt to
+establish this history by proving Rompilla’s prior conviction
+for rape and assault, and would emphasize his violent charac­
+ter by introducing a transcript of the rape victim’s testimony
+given in that earlier trial. App. 665–666. There is no ques­
+tion that defense counsel were on notice, since they acknowl­
+edge that a “plea letter,” written by one of them four days
+545US1 Unit: $U65 [03-26-08 17:19:10] PAGES PGT: OPIN
+
+384           ROMPILLA v. BEARD
+
+                 Opinion of the Court
+
+prior to trial, mentioned the prosecutor’s plans. Ibid. It is
+also undisputed that the prior conviction ﬁle was a public
+document, readily available for the asking at the very court­
+house where Rompilla was to be tried.
+
+   It is clear, however, that defense counsel did not look at
+any part of that ﬁle, including the transcript, until warned
+by the prosecution a second time. In a colloquy the day be­
+fore the evidentiary sentencing phase began, the prosecutor
+again said he would present the transcript of the victim’s
+testimony to establish the prior conviction.
+
+        “[DEFENSE]: I would also like to review whatever
+
+        he’s going to read from.
+
+        “[PROSECUTOR]: Well, I told you that I was going
+
+        to do this a long time ago. You certainly had the oppor­
+
+        tunity to review the Transcript.
+
+        .     .                      .                 .  .
+
+           “[DEFENSE]: Well, I would like a copy of this.
+           “[PROSECUTOR]: I don’t think that’s my duty to
+        provide you with a copy. That’s a public record, and
+        you could have gotten that Transcript at any time prior
+        to this Trial. I made one copy for myself, and I’d like
+        to have it now.
+           “[DEFENSE]: Well, Judge, then I’m going to need to
+        get a copy of it. I’m going to need to get a copy of it.”
+        Id., at 32, 36.2
+
+2 A similar exchange took place at the same hearing about the indict­
+
+ment in the record of Rompilla’s prior conviction.
+
+“[DEFENSE]: Well, I think we need to look at the Indictment then.
+
+If he’s charged with committing the Burglary­
+
+     .     .                      .                 .        .
+
+   “[PROSECUTOR]: I had a copy, and I forgot to bring it up with me.
+   “[COURT]: All right.
+   “[DEFENSE]: Can we see it, Judge?
+   “[COURT]: Sure, he’s going to get it.
+   “[PROSECUTOR]: It’s a public record . . . you could have gone over
+[sic] lunch and looked at it just like I did.” App. 28.
+545US1 Unit: $U65 [03-26-08 17:19:10] PAGES PGT: OPIN
+
+Cite as: 545 U. S. 374 (2005)                          385
+
+                                    Opinion of the Court
+
+At the postconviction evidentiary hearing, Rompilla’s lawyer
+conﬁrmed that she had not seen the transcript before the
+hearing in which this exchange took place, id., at 506–507,
+and crucially, even after obtaining the transcript of the
+victim’s testimony on the eve of the sentencing hearing,
+counsel apparently examined none of the other material in
+the ﬁle.3
+
+   With every effort to view the facts as a defense lawyer
+would have done at the time, it is difﬁcult to see how counsel
+could have failed to realize that without examining the
+readily available ﬁle they were seriously compromising their
+opportunity to respond to a case for aggravation. The
+prosecution was going to use the dramatic facts of a similar
+prior offense, and Rompilla’s counsel had a duty to make all
+reasonable efforts to learn what they could about the offense.
+Reasonable efforts certainly included obtaining the Com­
+monwealth’s own readily available ﬁle on the prior conviction
+to learn what the Commonwealth knew about the crime, to
+discover any mitigating evidence the Commonwealth would
+downplay, and to anticipate the details of the aggravating
+
+   3 Defense counsel also stated at the postconviction hearing that she be­
+lieved at some point she had looked at some ﬁles regarding that prior
+conviction and that she was familiar with the particulars of the case. But
+she could not recall what the ﬁles were or how she obtained them. Id.,
+at 507–508. In addition, counsel apparently obtained Rompilla’s rap
+sheet, which showed that he had prior convictions, including the one for
+rape. Id., at 664. At oral argument, the United States, arguing as an
+amicus in support of Pennsylvania, maintained that counsel had fulﬁlled
+their obligations to investigate the prior conviction by obtaining the rap
+sheet. Tr. of Oral Arg. 44–45. But this cannot be so. The rap sheet
+would reveal only the charges and dispositions, being no reasonable substi­
+tute for the prior conviction ﬁle. The dissent nonetheless concludes on
+this evidence that counsel knew all they needed to know about the prior
+conviction. Post, at 401 (opinion of Kennedy, J.). Given counsel’s lim­
+ited investigation into the prior conviction, the dissent’s parsing of the
+record seems generous to a fault.
+545US1 Unit: $U65 [03-26-08 17:19:10] PAGES PGT: OPIN
+
+386  ROMPILLA v. BEARD
+
+                                    Opinion of the Court
+
+evidence the Commonwealth would emphasize.4 Without
+making reasonable efforts to review the ﬁle, defense counsel
+could have had no hope of knowing whether the prosecution
+was quoting selectively from the transcript, or whether there
+were circumstances extenuating the behavior described by
+the victim. The obligation to get the ﬁle was particularly
+pressing here owing to the similarity of the violent prior
+offense to the crime charged and Rompilla’s sentencing strat­
+egy stressing residual doubt. Without making efforts to
+learn the details and rebut the relevance of the earlier crime,
+a convincing argument for residual doubt was certainly be­
+yond any hope.5
+
+  4 The ease with which counsel could examine the entire ﬁle makes appli­
+cation of this standard correspondingly easy. Sufﬁce it to say that when
+the State has warehouses of records available in a particular case, review
+of counsel’s performance will call for greater subtlety.
+
+   5 This requirement answers the dissent’s and the United States’s conten­
+tion that defense counsel provided effective assistance with regard to the
+prior conviction ﬁle because it argued that it would be prejudicial to allow
+the introduction of the transcript. Post, at 402; Brief for United States
+as Amicus Curiae 29. Counsel’s obligation to rebut aggravating evidence
+extended beyond arguing it ought to be kept out. As noted above, supra
+this page, counsel had no way of knowing the context of the transcript and
+the details of the prior conviction without looking at the ﬁle as a whole.
+Counsel could not effectively rebut the aggravation case or build their own
+case in mitigation.
+
+   Nor is there any merit to the United States’s contention that further
+enquiry into the prior conviction ﬁle would have been fruitless because
+the sole reason the transcript was being introduced was to establish the
+aggravator that Rompilla had committed prior violent felonies. Brief for
+United States as Amicus Curiae 30. The Government maintains that
+because the transcript would incontrovertibly establish the fact that Rom­
+pilla had committed a violent felony, the defense could not have expected
+to rebut that aggravator through further investigation of the ﬁle. That
+analysis ignores the fact that the sentencing jury was required to weigh
+aggravating factors against mitigating factors. We may reasonably as­
+sume that the jury could give more relative weight to a prior violent fel­
+ony aggravator where defense counsel missed an opportunity to argue
+that circumstances of the prior conviction were less damning than the
+prosecution’s characterization of the conviction would suggest.
+545US1 Unit: $U65 [03-26-08 17:19:10] PAGES PGT: OPIN
+
+Cite as: 545 U. S. 374 (2005)                          387
+
+                                    Opinion of the Court
+
+   The notion that defense counsel must obtain information
+that the State has and will use against the defendant is not
+simply a matter of common sense. As the District Court
+points out, the American Bar Association Standards for
+Criminal Justice in circulation at the time of Rompilla’s trial
+describes the obligation in terms no one could misunderstand
+in the circumstances of a case like this one:
+
+      “It is the duty of the lawyer to conduct a prompt investi­
+      gation of the circumstances of the case and to explore
+      all avenues leading to facts relevant to the merits of the
+      case and the penalty in the event of conviction. The
+      investigation should always include efforts to secure in­
+      formation in the possession of the prosecution and law
+      enforcement authorities. The duty to investigate exists
+      regardless of the accused’s admissions or statements to
+      the lawyer of facts constituting guilt or the accused’s
+      stated desire to plead guilty.” 1 ABA Standards for
+      Criminal Justice 4–4.1 (2d ed. 1982 Supp.).6
+
+“[W]e long have referred [to these ABA Standards] as
+‘guides to determining what is reasonable.’ ” Wiggins v.
+Smith, 539 U. S., at 524 (quoting Strickland v. Washington,
+466 U. S., at 688), and the Commonwealth has come up with
+no reason to think the quoted standard impertinent here.7
+
+   6 The new version of the Standards now reads that any “investigation
+should include efforts to secure information in the possession of the prose­
+cution and law enforcement authorities” whereas the version in effect at
+the time of Rompilla’s trial provided that the “investigation” should al­
+ways include such efforts. ABA Standards for Criminal Justice, Prosecu­
+tion Function and Defense Function 4–4.1 (3d ed. 1993). We see no mate­
+rial difference between these two phrasings, and in any case cannot think
+of any situation in which defense counsel should not make some effort to
+learn the information in the possession of the prosecution and law enforce­
+ment authorities.
+
+   7 In 1989, shortly after Rompilla’s trial, the ABA promulgated a set of
+guidelines speciﬁcally devoted to setting forth the obligations of defense
+counsel in death penalty cases. ABA Guidelines for the Appointment and
+Performance of Counsel in Death Penalty Cases (1989) (hereinafter 1989
+545US1 Unit: $U65 [03-26-08 17:19:10] PAGES PGT: OPIN
+
+388  ROMPILLA v. BEARD
+
+                                    Opinion of the Court
+
+   At argument the most that Pennsylvania (and the United
+States as amicus) could say was that defense counsel’s ef­
+forts to ﬁnd mitigating evidence by other means excused
+them from looking at the prior conviction ﬁle. Tr. of Oral
+Arg. 37–39, 45–46. And that, of course, is the position taken
+by the state postconviction courts. Without speciﬁcally dis­
+cussing the prior case ﬁle, they too found that defense coun-
+
+ABA Guidelines or Guideline). Those Guidelines applied the clear re­
+quirements for investigation set forth in the earlier Standards to death
+penalty cases and imposed a similarly forceful directive: “Counsel should
+make efforts to secure information in the possession of the prosecution
+or law enforcement authorities, including police reports.” Guideline
+11.4.1.D.4. When the United States argues that Rompilla’s defense coun­
+sel complied with these Guidelines, it focuses its attentions on a different
+Guideline, 11.4.1.D.2. Brief for United States as Amicus Curiae 20–21.
+Guideline 11.4.1.D.2 concerns practices for working with the defendant and
+potential witnesses, and the United States contends that it imposes no
+requirement to obtain any one particular type of record or information.
+Ibid. But this argument ignores the subsequent Guideline quoted above,
+which is in fact reprinted in the appendix to the United States’s brief, that
+requires counsel to “ ‘make efforts to secure information in the possession
+of the prosecution or law enforcement authorities.’ ” App. to id., at 4a.
+
+   Later, and current, ABA Guidelines relating to death penalty defense
+are even more explicit:
+
+   “Counsel must . . . investigate prior convictions . . . that could be used
+as aggravating circumstances or otherwise come into evidence. If a prior
+conviction is legally ﬂawed, counsel should seek to have it set aside.
+Counsel may also ﬁnd extenuating circumstances that can be offered to
+lessen the weight of a conviction.” ABA Guidelines for the Appointment
+and Performance of Defense Counsel in Death Penalty Cases 10.7, com­
+ment. (rev. ed. 2003), reprinted in 31 Hofstra L. Rev. 913, 1027 (2003) (foot­
+notes omitted).
+
+   Our decision in Wiggins made precisely the same point in citing the
+earlier 1989 ABA Guidelines. 539 U. S., at 524 (“The ABA Guidelines
+provide that investigations into mitigating evidence ‘should comprise ef­
+forts to discover all reasonably available mitigating evidence and evi­
+dence to rebut any aggravating evidence that may be introduced by the
+prosecutor’ ” (quoting 1989 ABA Guideline 11.4.1.C; emphasis in origi­
+nal)). For reasons given in the text, no such further investigation was
+needed to point to the reasonable duty to look in the ﬁle in question here.
+545US1 Unit: $U65 [03-26-08 17:19:10] PAGES PGT: OPIN
+
+Cite as: 545 U. S. 374 (2005)                          389
+
+                                    Opinion of the Court
+
+sel’s efforts were enough to free them from any obligation
+to enquire further. Commonwealth v. Rompilla, No. 682/
+1988 (Pa. Ct. Common Pleas, Aug. 23, 1996), App. 263–264,
+272–273.
+
+   We think this conclusion of the state court fails to answer
+the considerations we have set out, to the point of being an
+objectively unreasonable conclusion. It ﬂouts prudence to
+deny that a defense lawyer should try to look at a ﬁle he
+knows the prosecution will cull for aggravating evidence, let
+alone when the ﬁle is sitting in the trial courthouse, open for
+the asking. No reasonable lawyer would forgo examination
+of the ﬁle thinking he could do as well by asking the defend­
+ant or family relations whether they recalled anything help­
+ful or damaging in the prior victim’s testimony. Nor would
+a reasonable lawyer compare possible searches for school re­
+ports, juvenile records, and evidence of drinking habits to
+the opportunity to take a look at a ﬁle disclosing what the
+prosecutor knows and even plans to read from in his case.
+Questioning a few more family members and searching for
+old records can promise less than looking for a needle in a
+haystack, when a lawyer truly has reason to doubt there is
+any needle there. E. g., Strickland, supra, at 699. But
+looking at a ﬁle the prosecution says it will use is a sure bet:
+whatever may be in that ﬁle is going to tell defense counsel
+something about what the prosecution can produce.
+
+   The dissent thinks this analysis creates a “rigid, per se”
+rule that requires defense counsel to do a complete review
+of the ﬁle on any prior conviction introduced, post, at 404
+(opinion of Kennedy, J.), but that is a mistake. Counsel fell
+short here because they failed to make reasonable efforts
+to review the prior conviction ﬁle, despite knowing that the
+prosecution intended to introduce Rompilla’s prior conviction
+not merely by entering a notice of conviction into evidence
+but by quoting damaging testimony of the rape victim in that
+case. The unreasonableness of attempting no more than
+they did was heightened by the easy availability of the ﬁle
+545US1 Unit: $U65 [03-26-08 17:19:10] PAGES PGT: OPIN
+
+390  ROMPILLA v. BEARD
+
+                                    Opinion of the Court
+
+at the trial courthouse, and the great risk that testimony
+about a similar violent crime would hamstring counsel’s cho­
+sen defense of residual doubt. It is owing to these circum­
+stances that the state courts were objectively unreasonable
+in concluding that counsel could reasonably decline to make
+any effort to review the ﬁle. Other situations, where a de­
+fense lawyer is not charged with knowledge that the prosecu­
+tor intends to use a prior conviction in this way, might well
+warrant a different assessment.
+
+                                        C
+
+   Since counsel’s failure to look at the ﬁle fell below the line
+of reasonable practice, there is a further question about prej­
+udice, that is, whether “there is a reasonable probability
+that, but for counsel’s unprofessional errors, the result of the
+proceeding would have been different.” 466 U. S., at 694.
+Because the state courts found the representation adequate,
+they never reached the issue of prejudice, App. 265, 272–273,
+and so we examine this element of the Strickland claim de
+novo, Wiggins v. Smith, 539 U. S., at 534, and agree with
+the dissent in the Court of Appeals. We think Rompilla has
+shown beyond any doubt that counsel’s lapse was prejudicial;
+Pennsylvania, indeed, does not even contest the claim of
+prejudice.
+
+   If the defense lawyers had looked in the ﬁle on Rompilla’s
+prior conviction, it is uncontested they would have found a
+range of mitigation leads that no other source had opened
+up. In the same ﬁle with the transcript of the prior trial
+were the records of Rompilla’s imprisonment on the earlier
+conviction, App. 508, 571, 631, which defense counsel testiﬁed
+she had never seen, id., at 508. The prison ﬁles pictured
+Rompilla’s childhood and mental health very differently from
+anything defense counsel had seen or heard. An evaluation
+by a corrections counselor states that Rompilla was “reared
+in the slum environment of Allentown, Pa. vicinity. He
+early came to [the] attention of juvenile authorities, quit
+545US1 Unit: $U65 [03-26-08 17:19:10] PAGES PGT: OPIN
+
+Cite as: 545 U. S. 374 (2005)                          391
+
+                                    Opinion of the Court
+
+school at 16, [and] started a series of incarcerations in and
+out Penna. often of assaultive nature and commonly related
+to over-indulgence in alcoholic beverages.” Lodging 40.
+The same ﬁle discloses test results that the defense’s mental
+health experts would have viewed as pointing to schizophre­
+nia and other disorders, and test scores showing a third
+grade level of cognition after nine years of schooling. Id.,
+at 32–35.8
+
+   The accumulated entries would have destroyed the benign
+conception of Rompilla’s upbringing and mental capacity de­
+fense counsel had formed from talking with Rompilla himself
+and some of his family members, and from the reports of
+the mental health experts. With this information, counsel
+would have become skeptical of the impression given by the
+ﬁve family members and would unquestionably have gone
+further to build a mitigation case. Further effort would
+presumably have unearthed much of the material postconvic­
+tion counsel found, including testimony from several mem­
+bers of Rompilla’s family, whom trial counsel did not inter­
+view. Judge Sloviter summarized this evidence:
+
+      “Rompilla’s parents were both severe alcoholics who
+      drank constantly. His mother drank during her preg­
+
+   8 The dissent would ignore the opportunity to ﬁnd this evidence on the
+ground that its discovery (and the consequent analysis of prejudice) “rests
+on serendipity,” post, at 405. But once counsel had an obligation to exam­
+ine the ﬁle, counsel had to make reasonable efforts to learn its contents;
+and once having done so, they could not reasonably have ignored mitiga­
+tion evidence or red ﬂags simply because they were unexpected. The
+dissent, however, assumes that counsel could reasonably decline even to
+read what was in the ﬁle, see post, at 406 (if counsel had reviewed the
+case ﬁle for mitigating evidence, “[t]here would have been no reason for
+counsel to read, or even to skim, this obscure document”). While that
+could well have been true if counsel had been faced with a large amount
+of possible evidence, see n. 4, supra, there is no indication that examining
+the case ﬁle in question here would have required signiﬁcant labor. In­
+deed, Pennsylvania has conspicuously failed to contest Rompilla’s claim
+that because the information was located in the prior conviction ﬁle, rea­
+sonable efforts would have led counsel to this information.
+545US1 Unit: $U65 [03-26-08 17:19:10] PAGES PGT: OPIN
+
+392  ROMPILLA v. BEARD
+
+                                    Opinion of the Court
+
+      nancy with Rompilla, and he and his brothers eventually
+      developed serious drinking problems. His father, who
+      had a vicious temper, frequently beat Rompilla’s mother,
+      leaving her bruised and black-eyed, and bragged about
+      his cheating on her. His parents fought violently, and
+      on at least one occasion his mother stabbed his father.
+      He was abused by his father who beat him when he was
+      young with his hands, ﬁsts, leather straps, belts and
+      sticks. All of the children lived in terror. There were
+      no expressions of parental love, affection or approval.
+      Instead, he was subjected to yelling and verbal abuse.
+      His father locked Rompilla and his brother Richard in a
+      small wire mesh dog pen that was ﬁlthy and excrement
+      ﬁlled. He had an isolated background, and was not al­
+      lowed to visit other children or to speak to anyone on
+      the phone. They had no indoor plumbing in the house,
+      he slept in the attic with no heat, and the children were
+      not given clothes and attended school in rags.” 355
+      F. 3d, at 279 (dissenting opinion) (citations omitted).
+
+   The jury never heard any of this and neither did the men­
+tal health experts who examined Rompilla before trial.
+While they found “nothing helpful to [Rompilla’s] case,”
+Rompilla, 554 Pa., at 385, 721 A. 2d, at 790, their postconvic­
+tion counterparts, alerted by information from school, medi­
+cal, and prison records that trial counsel never saw, found
+plenty of “ ‘red ﬂags’ ” pointing up a need to test further.
+355 F. 3d, at 279 (Sloviter, J., dissenting). When they tested,
+they found that Rompilla “suffers from organic brain dam­
+age, an extreme mental disturbance signiﬁcantly impairing
+several of his cognitive functions.” Ibid. They also said
+that “Rompilla’s problems relate back to his childhood, and
+were likely caused by fetal alcohol syndrome [and that] Rom­
+pilla’s capacity to appreciate the criminality of his conduct
+or to conform his conduct to the law was substantially im­
+paired at the time of the offense.” Id., at 280 (Sloviter, J.,
+dissenting).
+545US1 Unit: $U65 [03-26-08 17:19:10] PAGES PGT: OPIN
+
+Cite as: 545 U. S. 374 (2005)                          393
+
+                                 O’Connor, J., concurring
+
+   These ﬁndings in turn would probably have prompted a
+look at school and juvenile records, all of them easy to get,
+showing, for example, that when Rompilla was 16 his mother
+“was missing from home frequently for a period of one or
+several weeks at a time.” Lodging 44. The same report
+noted that his mother “has been reported . . . frequently
+under the inﬂuence of alcoholic beverages, with the result
+that the children have always been poorly kept and on the
+ﬁlthy side which was also the condition of the home at all
+times.” Ibid. School records showed Rompilla’s IQ was in
+the mentally retarded range. Id., at 11, 13, 15.
+
+   This evidence adds up to a mitigation case that bears no
+relation to the few naked pleas for mercy actually put before
+the jury, and although we suppose it is possible that a jury
+could have heard it all and still have decided on the death
+penalty, that is not the test. It goes without saying that the
+undiscovered “mitigating evidence, taken as a whole, ‘might
+well have inﬂuenced the jury’s appraisal’ of [Rompilla’s] cul­
+pability,” Wiggins v. Smith, 539 U. S., at 538 (quoting Wil­
+liams v. Taylor, 529 U. S., at 398), and the likelihood of a
+different result if the evidence had gone in is “sufﬁcient to
+undermine conﬁdence in the outcome” actually reached at
+sentencing, Strickland, 466 U. S., at 694.
+
+   The judgment of the Third Circuit is reversed, and Penn­
+sylvania must either retry the case on penalty or stipulate
+to a life sentence.
+
+                                                            It is so ordered.
+
+   Justice O’Connor, concurring.
+
+   I write separately to put to rest one concern. The dissent
+worries that the Court’s opinion “imposes on defense counsel
+a rigid requirement to review all documents in what it calls
+the ‘case ﬁle’ of any prior conviction that the prosecution
+might rely on at trial.” Post, at 396 (opinion of Ken­
+nedy, J.). But the Court’s opinion imposes no such rule.
+See ante, at 389–390. Rather, today’s decision simply ap­
+545US1 Unit: $U65 [03-26-08 17:19:10] PAGES PGT: OPIN
+
+394  ROMPILLA v. BEARD
+
+                                 O’Connor, J., concurring
+
+plies our longstanding case-by-case approach to determining
+whether an attorney’s performance was unconstitutionally
+deﬁcient under Strickland v. Washington, 466 U. S. 668
+(1984). Trial counsel’s performance in Rompilla’s case falls
+short under that standard, because the attorneys’ behavior
+was not “reasonable considering all the circumstances.” Id.,
+at 688. In particular, there were three circumstances which
+made the attorneys’ failure to examine Rompilla’s prior con­
+viction ﬁle unreasonable.
+
+   First, Rompilla’s attorneys knew that their client’s prior
+conviction would be at the very heart of the prosecution’s
+case. The prior conviction went not to a collateral matter,
+but rather to one of the aggravating circumstances making
+Rompilla eligible for the death penalty. The prosecutors in­
+tended not merely to mention the fact of prior conviction,
+but to read testimony about the details of the crime. That
+crime, besides being quite violent in its own right, was very
+similar to the murder for which Rompilla was on trial, and
+Rompilla had committed the murder at issue a mere three
+months after his release from prison on the earlier convic­
+tion. In other words, the prosecutor clearly planned to use
+details of the prior crime as powerful evidence that Rompilla
+was a dangerous man for whom the death penalty would be
+both appropriate punishment and a necessary means of inca­
+pacitation. Cf. App. 165–166 (prosecutor’s penalty-phase ar­
+gument). This was evidence the defense should have been
+prepared to meet: A reasonable defense lawyer would have
+attached a high importance to obtaining the record of the
+prior trial, in order to anticipate and ﬁnd ways of deﬂecting
+the prosecutor’s aggravation argument.
+
+   Second, the prosecutor’s planned use of the prior convic­
+tion threatened to eviscerate one of the defense’s primary
+mitigation arguments. Rompilla was convicted on the basis
+of strong circumstantial evidence. His lawyers structured
+the entire mitigation argument around the hope of convinc­
+ing the jury that residual doubt about Rompilla’s guilt made
+545US1 Unit: $U65 [03-26-08 17:19:10] PAGES PGT: OPIN
+
+Cite as: 545 U. S. 374 (2005)                          395
+
+                                 O’Connor, J., concurring
+
+it inappropriate to impose the death penalty. In announcing
+an intention to introduce testimony about Rompilla’s similar
+prior offense, the prosecutor put Rompilla’s attorneys on no­
+tice that the prospective defense on mitigation likely would
+be ineffective and counterproductive. The similarities be­
+tween the two crimes, combined with the timing and the
+already strong circumstantial evidence, raised a strong likeli­
+hood that the jury would reject Rompilla’s residual doubt
+argument. Rompilla’s attorneys’ reliance on this transpar­
+ently weak argument risked damaging their credibility.
+Such a scenario called for further investigation, to determine
+whether circumstances of the prior case gave any hope of
+saving the residual doubt argument, or whether the best
+strategy instead would be to jettison that argument so as to
+focus on other, more promising issues. Cf. Yarborough v.
+Gentry, 540 U. S. 1, 7 (2003) (per curiam); Bell v. Cone, 535
+U. S. 685, 700 (2002) (noting that sound tactical judgment
+may sometimes call for omitting certain defense evidence
+or arguments).
+
+   Third, the attorneys’ decision not to obtain Rompilla’s
+prior conviction ﬁle was not the result of an informed tactical
+decision about how the lawyers’ time would best be spent.
+Although Rompilla’s attorneys had ample warning that the
+details of Rompilla’s prior conviction would be critical to
+their case, their failure to obtain that ﬁle would not necessar­
+ily have been deﬁcient if it had resulted from the lawyers’
+careful exercise of judgment about how best to marshal their
+time and serve their client. But Rompilla’s attorneys did
+not ignore the prior case ﬁle in order to spend their time on
+other crucial leads. They did not determine that the ﬁle was
+so inaccessible or so large that examining it would necessar­
+ily divert them from other trial-preparation tasks they
+thought more promising. They did not learn at the 11th
+hour about the prosecution’s intent to use the prior convic­
+tion, when it was too late for them to change plans. Rather,
+their failure to obtain the crucial ﬁle “was the result of in­
+545US1 Unit: $U65 [03-26-08 17:19:10] PAGES PGT: OPIN
+
+396  ROMPILLA v. BEARD
+
+                                  Kennedy, J., dissenting
+
+attention, not reasoned strategic judgment.” Wiggins v.
+Smith, 539 U. S. 510, 534 (2003). As a result, their conduct
+fell below constitutionally required standards. See id., at
+533 (“ ‘[S]trategic choices made after less than complete in­
+vestigation are reasonable’ only to the extent that ‘reason­
+able professional judgments support the limitations on inves­
+tigation’ ” (quoting Strickland, 466 U. S., at 690–691)).
+
+   In the particular circumstances of this case, the attorneys’
+failure to obtain and review the case ﬁle from their cli­
+ent’s prior conviction did not meet standards of “reasonable
+professional judgmen[t].” Id., at 691. Because the Court’s
+opinion is consistent with the “ ‘case-by-case examination of
+the evidence’ ” called for under our cases, Williams v. Tay­
+lor, 529 U. S. 362, 391 (2000), I join the opinion.
+
+   Justice Kennedy, with whom The Chief Justice, Jus­
+tice Scalia, and Justice Thomas join, dissenting.
+
+   Today the Court brands two committed criminal defense
+attorneys as ineffective—“outside the wide range of profes­
+sionally competent assistance,” Strickland v. Washington,
+466 U. S. 668, 690 (1984)—because they did not look in an old
+case ﬁle and stumble upon something they had not set out to
+ﬁnd. By implication the Court also labels incompetent the
+work done by the three mental health professionals who ex­
+amined Ronald Rompilla. To reach this result, the majority
+imposes on defense counsel a rigid requirement to review all
+documents in what it calls the “case ﬁle” of any prior convic­
+tion that the prosecution might rely on at trial. The Court’s
+holding, a mistake under any standard of review, is all the
+more troubling because this case arises under the Antiter­
+rorism and Effective Death Penalty Act of 1996. In order
+to grant Rompilla habeas relief the Court must say, and in­
+deed does say, that the Pennsylvania Supreme Court was
+objectively unreasonable in failing to anticipate today’s new
+case ﬁle rule.
+545US1 Unit: $U65 [03-26-08 17:19:10] PAGES PGT: OPIN
+
+Cite as: 545 U. S. 374 (2005)                          397
+
+                                  Kennedy, J., dissenting
+
+   In my respectful submission it is this Court, not the state
+court, which is unreasonable. The majority’s holding has no
+place in our Sixth Amendment jurisprudence and, if followed,
+often will result in less effective counsel by diverting limited
+defense resources from other important tasks in order to sat­
+isfy the Court’s new per se rule. Finally, even if the Court
+could justify its distortion of Strickland, Rompilla still would
+not be entitled to relief. The Court is able to conclude oth­
+erwise only by ignoring the established principle that it is
+the defendant, not the State, who has the burden of dem­
+onstrating that he was prejudiced by any deﬁciency in his
+attorneys’ performance.
+
+   These are the reasons for my dissent.
+
+                                        I
+
+   Under any standard of review the investigation performed
+by Rompilla’s counsel in preparation for sentencing was not
+only adequate but also conscientious.
+
+   Rompilla’s attorneys recognized from the outset that
+building an effective mitigation case was crucial to helping
+their client avoid the death penalty. App. 516, 576. Rom­
+pilla stood accused of a brutal crime. In January 1988,
+James Scanlon was murdered while he was closing the Cozy
+Corner Cafe, a bar he owned in Allentown, Pennsylvania.
+Scanlon’s body was discovered later the next morning, lying
+in a pool of blood. Scanlon had been stabbed multiple times,
+including 16 wounds around the neck and head. Scanlon
+also had been beaten with a blunt object, and his face had
+been gashed, possibly with shards from broken liquor and
+beer bottles found at the scene of the crime. After Scanlon
+was stabbed to death his body had been set on ﬁre.
+
+   Substantial evidence linked Rompilla to the crime. See
+generally Commonwealth v. Rompilla, 539 Pa. 499, 505–506,
+653 A. 2d 626, 629–630 (1995). He was at the Cozy Corner
+Cafe near closing time on the night of the murder and was
+observed going to the bathroom approximately 10 times dur­
+545US1 Unit: $U65 [03-26-08 17:19:10] PAGES PGT: OPIN
+
+398  ROMPILLA v. BEARD
+
+                                  Kennedy, J., dissenting
+
+ing a 1-hour period. A window in that bathroom, the police
+later determined, was the probable point of entry used by
+Scanlon’s assailant. A pair of Rompilla’s sneakers seized by
+the police matched a bloody footprint found near the victim’s
+body, and blood on the sneakers matched the victim’s blood
+type. Rompilla’s ﬁngerprint was found on one of the two
+knives used to commit the murder. Sometime after leaving
+the bar on the night of the murder, Rompilla checked into a
+nearby motel under a false name. Although he told the po­
+lice he left the bar with only two dollars, Rompilla had paid
+cash for the room and ﬂashed a large amount of money
+to the desk clerks. The victim’s wallet was discovered in
+the bushes just outside of Rompilla’s motel room. When
+the police questioned Rompilla about the murder, his ver­
+sion of events was inconsistent with the testimony of other
+witnesses.
+
+   Rompilla was represented at trial by Fredrick Charles, the
+chief public defender for Lehigh County at the time, and
+Maria Dantos, an assistant public defender. Charles and
+Dantos were assisted by John Whispell, an investigator in
+the public defender’s ofﬁce. Rompilla’s defense team sought
+to develop mitigating evidence from various sources. First,
+they questioned Rompilla extensively about his upbringing
+and background. App. 668–669. To make these conversa­
+tions more productive they provided Rompilla with a list of
+the mitigating circumstances recognized by Pennsylvania
+law. Id., at 657. Cf. Strickland, supra, at 691 (“[W]hen
+a defendant has given counsel reason to believe that pursu­
+ing certain investigations would be fruitless or even harm­
+ful, counsel’s failure to pursue those investigations may not
+later be challenged as unreasonable”). Second, Charles and
+Dantos arranged for Rompilla to be examined by three expe­
+rienced mental health professionals, experts described by
+Charles as “the best forensic psychiatrist around here, [an­
+other] tremendous psychiatrist and a fabulous forensic psy­
+chologist.” App. 672. Finally, Rompilla’s attorneys ques­
+545US1 Unit: $U65 [03-26-08 17:19:10] PAGES PGT: OPIN
+
+Cite as: 545 U. S. 374 (2005)                          399
+
+                                  Kennedy, J., dissenting
+
+tioned his family extensively in search of any information
+that might help spare Rompilla the death penalty. Id., at
+493–494, 557–558, 669–670, 729–730. Dantos, in particular,
+developed a “very close” relationship with Rompilla’s family,
+which was a “constant source of information.” Id., at 557,
+729. Indeed, after trial Rompilla’s wife sent Dantos a letter
+expressing her gratitude. Id., at 733. The letter referred
+to Charles and Dantos as “superb human beings” who
+“fought and felt everything [Rompilla’s] family did.” Ibid.
+
+   The Court acknowledges the steps taken by Rompilla’s at­
+torneys in preparation for sentencing but ﬁnds fault nonethe­
+less. “[T]he lawyers were deﬁcient,” the Court says, “in
+failing to examine the court ﬁle on Rompilla’s prior convic­
+tion.” Ante, at 383.
+
+   The prior conviction the Court refers to is Rompilla’s 1974
+conviction for rape, burglary, and theft. See Common­
+wealth v. Rompilla, 250 Pa. Super. 139, 378 A. 2d 865 (1977).
+Before the sentencing phase of the capital case, the Common­
+wealth informed Rompilla’s attorneys that it intended to use
+these prior crimes to prove one of the statutory aggravating
+circumstances—namely, that Rompilla had a “signiﬁcant his­
+tory of felony convictions involving the use or threat of vio­
+lence to the person.” 42 Pa. Cons. Stat. § 9711(d)(9) (2002).
+Rompilla’s attorneys were on notice of the Commonwealth’s
+plans, and from this the Court concludes that effective assist­
+ance of counsel required a review of the prior conviction
+case ﬁle.
+
+   A per se rule requiring counsel in every case to review the
+records of prior convictions used by the State as aggravation
+evidence is a radical departure from Strickland and its prog­
+eny. We have warned in the past against the creation of
+“speciﬁc guidelines” or “checklist[s] for judicial evaluation of
+attorney performance.” 466 U. S., at 688. See also Wig­
+gins v. Smith, 539 U. S. 510, 521 (2003); Roe v. Flores-Ortega,
+528 U. S. 470, 477 (2000). “No particular set of detailed
+rules for counsel’s conduct can satisfactorily take account of
+545US1 Unit: $U65 [03-26-08 17:19:10] PAGES PGT: OPIN
+
+400  ROMPILLA v. BEARD
+
+                                  Kennedy, J., dissenting
+
+the variety of circumstances faced by defense counsel or the
+range of legitimate decisions regarding how best to repre­
+sent a criminal defendant. Any such set of rules would in­
+terfere with the constitutionally protected independence of
+counsel and restrict the wide latitude counsel must have in
+making tactical decisions. Indeed, the existence of detailed
+guidelines for representation could distract counsel from the
+overriding mission of vigorous advocacy of the defendant’s
+cause.” Strickland, 466 U. S., at 688–689 (citations omit­
+ted). For this reason, while we have referred to the ABA
+Standards for Criminal Justice as a useful point of reference,
+we have been careful to say these standards “are only
+guides” and do not establish the constitutional baseline
+for effective assistance of counsel. Ibid. The majority, by
+parsing the guidelines as if they were binding statutory text,
+ignores this admonition.
+
+   The majority’s analysis contains barely a mention of
+Strickland and makes little effort to square today’s holding
+with our traditional reluctance to impose rigid requirements
+on defense counsel. While the Court disclaims any intention
+to create a bright-line rule, ante, at 389–390; see also ante,
+at 393–394 (O’Connor, J., concurring), this affords little com­
+fort. The Court’s opinion makes clear it has imposed on
+counsel a broad obligation to review prior conviction case
+ﬁles where those priors are used in aggravation—and to re­
+view every document in those ﬁles if not every single page
+of every document, regardless of the prosecution’s proposed
+use for the prior conviction. Infra, at 403, 407–408. One
+Member of the majority tries to limit the Court’s new rule
+by arguing that counsel’s decision here was “not the result
+of an informed tactical decision,” ante, at 395 (O’Connor, J.,
+concurring), but the record gives no support for this notion.
+The Court also protests that the exceptional weight Rompil­
+la’s attorneys at sentencing placed on residual doubt re­
+quired them to review the prior conviction ﬁle, ante, at 389–
+390; ante, at 394–395 (O’Connor, J., concurring). In fact,
+545US1 Unit: $U65 [03-26-08 17:19:10] PAGES PGT: OPIN
+
+Cite as: 545 U. S. 374 (2005)                          401
+
+                                  Kennedy, J., dissenting
+
+residual doubt was not central to Rompilla’s mitigation case.
+Rompilla’s family members did testify at sentencing that
+they thought he was innocent, but Dantos tried to draw at­
+tention away from this point and instead use the family’s
+testimony to humanize Rompilla and ask for mercy. App.
+123–149.
+
+   The majority also disregards the sound strategic calcula­
+tion supporting the decisions made by Rompilla’s attorneys.
+Charles and Dantos were “aware of [Rompilla’s] priors” and
+“aware of the circumstances” surrounding these convictions.
+Id., at 507. At the postconviction hearing, Dantos also indi­
+cated that she had reviewed documents relating to the prior
+conviction. Ibid. Based on this information, as well as
+their numerous conversations with Rompilla and his family,
+Charles and Dantos reasonably could conclude that re­
+viewing the full prior conviction case ﬁle was not the best
+allocation of resources.
+
+   The majority concludes otherwise only by ignoring Strick­
+land’s command that “[j]udicial scrutiny of counsel’s per­
+formance must be highly deferential.” 466 U. S., at 689.
+According to the Court, the Constitution required nothing
+less than a full review of the prior conviction case ﬁle by
+Rompilla’s attorneys. Even with the beneﬁt of hindsight
+the Court struggles to explain how the ﬁle would have
+proved helpful, offering only the vague speculation that
+Rompilla’s attorneys might have discovered “circumstances
+extenuating the behavior described by the [rape] victim.”
+Ante, at 386. What the Court means by “circumstances” is
+a mystery. If the Court is referring to details on Rompilla’s
+mental ﬁtness or upbringing, surely Rompilla’s attorneys
+were more likely to discover such information through the
+sources they consulted: Rompilla, his family, and the three
+mental health experts that examined him.
+
+   Perhaps the circumstances to which the majority refers
+are the details of Rompilla’s 1974 crimes. Charles and
+Dantos, however, had enough information about the prior
+545US1 Unit: $U65 [03-26-08 17:19:10] PAGES PGT: OPIN
+
+402  ROMPILLA v. BEARD
+
+                                  Kennedy, J., dissenting
+
+convictions to determine that reviewing the case ﬁle was not
+the most effective use of their time. Rompilla had been con­
+victed of breaking into the residence of Josephine Macrenna,
+who lived in an apartment above the bar she owned. App.
+56–89. After Macrenna gave him the bar’s receipts for the
+night, Rompilla demanded that she disrobe. When she ini­
+tially resisted, Rompilla slashed her left breast with a knife.
+Rompilla then held Macrenna at knifepoint while he raped
+her for over an hour. Charles and Dantos were aware of
+these circumstances of the prior conviction and the brutality
+of the crime. Id., at 507. It did not take a review of the
+case ﬁle to know that quibbling with the Commonwealth’s
+version of events was a dubious trial strategy. At sentenc­
+ing Dantos fought vigorously to prevent the Commonwealth
+from introducing the details of the 1974 crimes, id., at 16–40,
+but once the transcript was admitted there was nothing that
+could be done. Rompilla was unlikely to endear himself to
+the jury by arguing that his prior conviction for burglary,
+theft, and rape really was not as bad as the Commonwealth
+was making it out to be. Recognizing this, Rompilla’s at­
+torneys instead devoted their limited time and resources to
+developing a mitigation case. That those efforts turned up
+little useful evidence does not make the ex ante strategic
+calculation of Rompilla’s attorneys constitutionally deﬁcient.
+
+   One of the primary reasons this Court has rejected a
+checklist approach to effective assistance of counsel is that
+each new requirement risks distracting attorneys from the
+real objective of providing vigorous advocacy as dictated by
+the facts and circumstances in the particular case. The
+Court’s rigid requirement that counsel always review the
+case ﬁles of convictions the prosecution seeks to use at trial
+will be just such a distraction. Capital defendants often
+have a history of crime. For example, as of 2003, 64 percent
+of inmates on death row had prior felony convictions. U. S.
+Dept. of Justice, Bureau of Justice Statistics, T. Bonczar &
+T. Snell, Capital Punishment, 2003, p. 8 (Nov. 2004), available
+545US1 Unit: $U65 [03-26-08 17:19:10] PAGES PGT: OPIN
+
+Cite as: 545 U. S. 374 (2005)                          403
+
+                                  Kennedy, J., dissenting
+
+at http://www.ojp.usdoj.gov/ bjs/pub/pdf/cp03.pdf (as visited
+June 16, 2005, and available in Clerk of Court’s case ﬁle). If
+the prosecution relies on these convictions as aggravators,
+the Court has now obligated defense attorneys to review the
+boxes of documents that come with them.
+
+   In imposing this new rule, the Court states that counsel
+in this case could review the “entire ﬁle” with “ease.” Ante,
+at 386, n. 4. There is simply no support in the record for
+this assumption. Case ﬁles often comprise numerous boxes.
+The ﬁle may contain, among other things, witness state­
+ments, forensic evidence, arrest reports, grand jury tran­
+scripts, testimony and exhibits relating to any pretrial sup­
+pression hearings, trial transcripts, trial exhibits, post-trial
+motions, and presentence reports. Full review of even a
+single prior conviction case ﬁle could be time consuming, and
+many of the documents in a ﬁle are duplicative or irrelevant.
+The Court, recognizing the ﬂaw in its analysis, suggests that
+cases involving “warehouses of records” “will call for greater
+subtlety.” Ibid. Yet for all we know, this is such a case.
+As to the time component, the Court tells us nothing as to
+the number of hours counsel had available to prepare for sen­
+tencing or why the decisions they made in allocating their
+time were so ﬂawed as to constitute deﬁcient performance
+under Strickland.
+
+   Today’s decision will not increase the resources committed
+to capital defense. (At the time of Rompilla’s trial, the Le­
+high County Public Defender’s Ofﬁce had two investigators
+for 2,000 cases. App. 662.) If defense attorneys dutifully
+comply with the Court’s new rule, they will have to divert
+resources from other tasks. The net effect of today’s hold­
+ing in many cases—instances where trial counsel reasonably
+can conclude that reviewing old case ﬁles is not an effective
+use of time—will be to diminish the quality of representa­
+tion. We have “consistently declined to impose mechanical
+rules on counsel—even when those rules might lead to better
+representation,” Roe v. Flores-Ortega, 528 U. S., at 481; I see
+545US1 Unit: $U65 [03-26-08 17:19:10] PAGES PGT: OPIN
+
+404  ROMPILLA v. BEARD
+
+                                  Kennedy, J., dissenting
+
+no occasion to depart from this approach in order to impose
+a requirement that might well lead to worse representation.
+
+   It is quite possible defense attorneys, recognizing the ab­
+surdity of a one-size-ﬁts-all approach to effective advocacy,
+will simply ignore the Court’s new requirement and continue
+to exercise their best judgment about how to allocate time
+and resources in preparation for trial. While this decision
+would be understandable—and might even be required by
+state ethical rules, cf. Pa. Rules of Professional Conduct,
+Preamble, and Rule 1.1 (2005)—it leaves open the possibility
+that a defendant will seek to overturn his conviction based
+on something in a prior conviction case ﬁle that went unre­
+viewed. This elevation of needle-in-a-haystack claims to the
+status of constitutional violations will beneﬁt undeserving
+defendants and saddle States with the considerable costs of
+retrial and/or resentencing.
+
+   Today’s decision is wrong under any standard, but the
+Court’s error is compounded by the fact that this case arises
+on federal habeas. The Pennsylvania Supreme Court adju­
+dicated Rompilla’s ineffective-assistance-of-counsel claim on
+the merits, and this means 28 U. S. C. § 2254(d)’s deferential
+standard of review applies. Rompilla must show that the
+Pennsylvania Supreme Court decision was not just “incor­
+rect or erroneous,” but “objectively unreasonable.” Lock­
+yer v. Andrade, 538 U. S. 63, 75 (2003) (citing Williams v.
+Taylor, 529 U. S. 362, 410, 412 (2000)). He cannot do so.
+
+   The Court pays lipservice to the Williams standard, but
+it proceeds to adopt a rigid, per se obligation that binds coun­
+sel in every case and ﬁnds little support in our precedents.
+Indeed, Strickland, the case the Court purports to apply, is
+directly to the contrary: “Most important, in adjudicating a
+claim of actual ineffectiveness of counsel, a court should keep
+in mind that the principles we have stated do not establish
+mechanical rules.” 466 U. S., at 696. The Pennsylvania Su­
+preme Court gave careful consideration to Rompilla’s Sixth
+Amendment claim and concluded that “counsel reasonably
+545US1 Unit: $U65 [03-26-08 17:19:10] PAGES PGT: OPIN
+
+Cite as: 545 U. S. 374 (2005)                          405
+
+                                  Kennedy, J., dissenting
+
+relied upon their discussions with [Rompilla] and upon their
+experts to determine the records needed to evaluate his
+mental health and other potential mitigating circumstances.”
+Commonwealth v. Rompilla, 554 Pa. 378, 385–386, 721 A. 2d
+786, 790 (1998). This decision was far from unreasonable.
+The Pennsylvania courts can hardly be faulted for failing to
+anticipate today’s abrupt departure from Strickland.
+
+   We have reminded federal courts often of the need to show
+the requisite level of deference to state-court judgments
+under 28 U. S. C. § 2254(d). Holland v. Jackson, 542 U. S.
+649 (2004) (per curiam); Middleton v. McNeil, 541 U. S. 433
+(2004) (per curiam); Yarborough v. Gentry, 540 U. S. 1 (2003)
+(per curiam); Mitchell v. Esparza, 540 U. S. 12 (2003) (per
+curiam); Early v. Packer, 537 U. S. 3 (2002) (per curiam);
+Woodford v. Visciotti, 537 U. S. 19 (2002) (per curiam). By
+ignoring our own admonition today, the Court adopts a do­
+as-we-say, not-as-we-do approach to federal habeas review.
+
+                                       II
+
+   Even accepting the Court’s misguided analysis of the ade­
+quacy of representation by Rompilla’s trial counsel, Rompilla
+is still not entitled to habeas relief. Strickland assigns the
+defendant the burden of demonstrating prejudice, 466 U. S.,
+at 692. Rompilla cannot satisfy this standard, and only
+through a remarkable leap can the Court conclude otherwise.
+
+   The Court’s theory of prejudice rests on serendipity.
+Nothing in the old case ﬁle diminishes the aggravating na­
+ture of the prior conviction. The only way Rompilla’s at­
+torneys could have minimized the aggravating force of the
+earlier rape conviction was through Dantos’ forceful, but
+ultimately unsuccessful, ﬁght to exclude the transcript at
+sentencing. The Court, recognizing this problem, instead
+ﬁnds prejudice through chance. If Rompilla’s attorneys had
+reviewed the case ﬁle of his prior rape and burglary convic­
+tion, the Court says, they would have stumbled across “a
+range of mitigation leads.” Ante, at 390.
+545US1 Unit: $U65 [03-26-08 17:19:10] PAGES PGT: OPIN
+
+406  ROMPILLA v. BEARD
+
+                                  Kennedy, J., dissenting
+
+   The range of leads to which the Court refers is in fact a
+handful of notations within a single 10-page document. The
+document, an “Initial Transfer Petition,” appears to have
+been prepared by the Pennsylvania Department of Correc­
+tions after Rompilla’s conviction to facilitate his initial as­
+signment to one of the Commonwealth’s maximum-security
+prisons. Lodging to App. 31–40.
+
+   Rompilla cannot demonstrate prejudice because nothing in
+the record indicates that Rompilla’s trial attorneys would
+have discovered the transfer petition, or the clues contained
+in it, if they had reviewed the old ﬁle. The majority faults
+Rompilla’s attorneys for failing to “learn what the Common­
+wealth knew about the crime,” “discover any mitigating evi­
+dence the Commonwealth would downplay,” and “anticipate
+the details of the aggravating evidence the Commonwealth
+would emphasize.” Ante, at 385–386. Yet if Rompilla’s at­
+torneys had reviewed the case ﬁle with these purposes in
+mind, they almost surely would have attributed no signiﬁ­
+cance to the transfer petition following only a cursory review.
+The petition, after all, was prepared by the Department of
+Corrections after Rompilla’s conviction for the purpose of
+determining Rompilla’s initial prison assignment. It con­
+tained no details regarding the circumstances of the convic­
+tion. Reviewing the prior conviction ﬁle for information to
+counter the Commonwealth, counsel would have looked ﬁrst
+at the transcript of the trial testimony, and perhaps then to
+probative exhibits or forensic evidence. There would have
+been no reason for counsel to read, or even to skim, this
+obscure document.
+
+   The Court claims that the transfer petition would have
+been discovered because it was in the “same ﬁle” with the
+transcript, ante, at 391, but this characterization is mislead­
+ing and the conclusion the Court draws from it is accordingly
+fallacious. The record indicates only that the transfer peti­
+tion was a part of the same case ﬁle, but Rompilla provides
+no indication of the size of the ﬁle, which for all we know
+545US1 Unit: $U65 [03-26-08 17:19:10] PAGES PGT: OPIN
+
+Cite as: 545 U. S. 374 (2005)                          407
+
+                                  Kennedy, J., dissenting
+
+originally comprised several boxes of documents. App. 508,
+571, 631. By the time of Rompilla’s state postconviction
+hearing, moreover, the transfer petition was not stored
+in any “ﬁle” at all—it had been transferred to microﬁlm.
+Id., at 461. The Court implies in a footnote that prejudice
+can be presumed because “Pennsylvania has conspicuously
+failed to contest Rompilla’s” inevitable-discovery argument.
+Ante, at 391, n. 8. The Commonwealth’s strategy is unsur­
+prising given that discussion of the prior conviction case ﬁle
+takes up only one paragraph of Rompilla’s argument, Brief
+for Petitioner 35–36, but it is also irrelevant. It is well es­
+tablished that Rompilla, not the Commonwealth, has the bur­
+den of establishing prejudice. Strickland, supra, at 694.
+
+   The majority thus ﬁnds itself in a bind. If counsel’s al­
+leged deﬁciency lies in the failure to review the ﬁle for the
+purposes the majority has identiﬁed, then there is no preju­
+dice: for there is no reasonable probability that review of the
+ﬁle for those purposes would have led counsel to accord the
+transfer petition enough attention to discover the leads
+the majority cites. Prejudice could only be demonstrated if
+the deﬁciency in counsel’s performance were to be described
+not as the failure to perform a purposive review of the ﬁle,
+but instead as the failure to accord intense scrutiny to every
+single page of every single document in that ﬁle, regardless
+of the purpose motivating the review. At times, the Court
+hints that its new obligation on counsel sweeps this broadly.
+See ante, at 386, n. 4 (“[t]he ease with which counsel could
+examine the entire ﬁle . . . ”); ante, at 386, n. 5 (“[C]ounsel
+had no way of knowing the context of the transcript and the
+details of the prior conviction without looking at the ﬁle as
+a whole”). Surely, however, the Court would not require
+defense counsel to look at every document, no matter how
+tangential, included in the prior conviction ﬁle on the off
+chance that some notation therein might provide a lead,
+which in turn might result in the discovery of useful informa­
+tion. The Constitution does not mandate that defense attor­
+545US1 Unit: $U65 [03-26-08 17:19:11] PAGES PGT: OPIN
+
+408  ROMPILLA v. BEARD
+
+                                  Kennedy, J., dissenting
+
+neys perform busy work. This rigid requirement would di­
+vert counsel’s limited time and energy away from more
+important tasks. In this way, it would ultimately disserve
+the rationale underlying the Court’s new rule, which is to
+ensure that defense counsel counter the State’s aggravation
+case effectively.
+
+   If the Court does intend to impose on counsel a constitu­
+tional obligation to review every page of every document
+included in the case ﬁle of a prior conviction, then today’s
+holding is even more misguided than I imagined.
+
+                                ***
+
+   Strickland anticipated the temptation “to second-guess
+counsel’s assistance after conviction or adverse sentence”
+and cautioned that “[a] fair assessment of attorney perform­
+ance requires that every effort be made to eliminate the dis­
+torting effects of hindsight, to reconstruct the circumstances
+of counsel’s challenged conduct, and to evaluate the conduct
+from counsel’s perspective at the time.” 466 U. S., at 689.
+Today, the Court succumbs to the very temptation that
+Strickland warned against. In the process, the majority
+imposes on defense attorneys a rigid requirement that ﬁnds
+no support in our cases or common sense.
+
+   I would afﬁrm the judgment of the Court of Appeals.
+

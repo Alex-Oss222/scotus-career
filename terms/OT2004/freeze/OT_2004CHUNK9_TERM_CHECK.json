@@ -1,0 +1,7 @@
+{
+  "tool": "tools/check_term.py",
+  "exit_status": 0,
+  "output": "OK: OT2004; 0 warning(s)\n",
+  "history_checks": "Not performed under express instruction. Any referenced-commit warnings mean unchecked, not missing.",
+  "skipped_references": []
+}

@@ -1,0 +1,27 @@
+# OT2004 chunk 9 ? Independent review B
+
+**Result: PASS.** This bounded Engine section 15 review covers the seven new June 13 Records: Bradshaw, Golden, Grable, Johnson, Merck, Miller-El and Wilkinson. No unresolved discrepancy remains within this review scope. No canonical adjudication or public text was edited by the reviewer.
+
+The review used the approved supplements and frozen reconciliations reproduced in the Records, checked the operative reconciled portions against their frozen originals, examined the final proposition-level joins and public projections, and recounted assignments from actual current-term opinion tables. It did not reopen historical research or import later law.
+
+## Substantive checks
+
+- Bradshaw preserves unanimous rejection of the two plea-invalidity grounds and independent adjudication of the death-sentence claim. Knowledge and materiality apply to knowing-falsity claims, rather than becoming exclusive predicates for every capital claim. The opposed Souter and Thomas concurrences remain noncontrolling. If a material constitutional sentencing violation is established, the conditional writ requires lawful resentencing within a reasonable specified period or removal of death; the valid conviction remains effective.
+- Golden gives the Chief complete joins on his approved probate, count-classification, amount and section 1738 grounds. His fallback supplies disposition agreement only on representative citizenship/capacity and the state-appellate-review component. The latter rationales have eight Associate joins; no Chief rationale or complete-opinion authorship eligibility is inferred. Each claim, defendant, remedy class, punitive-damages amount ground, and actual state-judgment inquiry is preserved.
+- Grable states and applies all four embedded-issue conditions. Its jurisdictional affirmance preserves the existing Darue judgment and keeps the ungranted notice merits separate. Thomas's full join remains compatible with his prospective reconsideration concurrence.
+- Johnson preserves the eight-to-one first-stage ruling, actual inference application, ultimate persuasion burden, and reliable-hearing or new-trial remedy. Thomas's procedural-latitude objection receives a substantive response and remains distinct from third-stage sufficiency disputes.
+- Merck preserves the contemporaneous, objective and use-specific regulatory relationship, including failed candidates and unsubmitted results. The veterinary-biotechnology exception is stated separately. The good-laboratory-practice treatment preserves the distinct study categories and allowance for explained noncompliance. The actual jury instruction, excluded later IND, preserved sufficiency challenge and dependent damages judgment support the confined remand; no blanket exemption is inferred.
+- Miller-El preserves separate section 2254(d)(2), section 2254(e)(1) and Batson conclusions on the lawful state record. The Fields and Warren comparisons, oral evidence, shuffles and state-presented office history match the frozen evidence map; federal-only questionnaires, cards and circular do not supply the public rationale. Thomas and Scalia retain their independent merits dissent. The definite retrial deadline, enforcement authority and protection against execution implement the approved conditional writ.
+- Wilkinson applies the actual Sandin substantive-constraint rule, separately applies Mathews, and preserves the policy's complete notice, rebuttal and review sequence. The defined continuing-injury inquiry, narrower-cure burden and independent section 3626 findings support the class remedy. The Chief's removal of unsupported additions is compatible with reversal of their appellate approval. The prior substantive-restrictions ruling survives at its stated scope.
+
+## Assignment and projection checks
+
+Fresh recounts match all nine counts in every assignment table. The sequential lead authors are O'Connor, Thomas, Stevens, Ginsburg, Scalia, Kennedy and Breyer. Each lies within the proper pool of fully eligible authors; the opinions' forms precede the counts. Golden's Chief fallback does not supply eligibility.
+
+Every public judgment tally and named coalition reconciles with the proposition-level joins. Each Record contains the eleven Public Projection blocks in order, and each internal controlling-holdings section matches its public Holdings section. Complete ordinary explanations remain below 350 words; the longest is 273 words. Rules, authority, reasons, precedent treatment, qualifications and remedies remain distinct and complete. The retained negative statements concern adopted limits, actual questions or grant boundaries, requested relief, or surviving judgments under section 8.
+
+## Verified provenance clarification
+
+The seven internal release accounts now distinguish the preserved reviewed June 6 source from the current presentation copy. Both stated hashes were independently verified. The preserved source is in this term's tmp/chunk9 directory. A direct comparison confirms exactly two later changes: removal of the redundant Spector liability disclaimer and the Kincade source-availability sentence. Neither changes law, judgment, a join, or relief. The frozen stage receipts remain preserved, and the clarified internal accounts truthfully identify the reviewed bytes.
+
+Chunk-wide deterministic validation, downstream workspace integration and final rendering remain separate tasks; this receipt certifies only the checks described above.

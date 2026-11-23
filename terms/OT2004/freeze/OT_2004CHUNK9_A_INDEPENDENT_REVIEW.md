@@ -1,0 +1,24 @@
+# OT2004 chunk 9 ? Independent review A
+
+Scope: the new Alaska, Spector and Kincade Records dated June 6, 2005, reviewed under Engine sections 8, 9 and 15 and the relevant Render Contract requirements. This review examined the Records, their mechanically embedded approved supplements and frozen reconciliations, and a fresh read-only recount from the current term's actual opinion tables. It did not alter an adjudication or independently reopen historical research.
+
+## Substantive result
+
+PASS for judgment, proposition-level authority, final joins, Chief compatibility, assignment, operative relief and public formulation. Both narrow form-only repairs identified in review were applied and independently verified. No adjudication changed.
+
+- Alaska: all nine support the Archipelago results and decree preparation; seven support Glacier Bay federal retention, with Scalia and Thomas dissenting on that component and its substantive decree consequence. The conditional island-assimilation analysis preserves the actual geographic test. Inclusion and statehood retention remain separate inquiries. The Chief's approved title disposition and precise decree direction are fully preserved. The statutory dissent receives a substantive answer and summary.
+- Spector: nonstructural reversal has seven votes; statutory construction and complete remand have six; the confined independent internal-affairs rule has five; sequencing has four. Thomas's structural dissent is preserved, and his limited agreement supplies no statutory treaty/safety join or complete-remand vote. Ginsburg and Breyer's statutory rationale is not aggregated into the independent exclusion. The Chief's policy-wide remedial allocation appears only in his concurrence, while his complete lead joins remain compatible with the ordinary claim-specific remand. The preserved design-regulations ground, distinct ADA defenses, actual-conflict requirement and two distinct safety inquiries are retained.
+- Kincade: the Chief and five reversing Associates support the actual Rise acquisition rule and effective corrective remand; Kennedy, Thomas and Breyer support their stated contrary identification exception. The obtained sample is treated as an actual fact. Refusal-dependent consequences, independent subsequent grounds, and material/profile correction remain distinct. The cure requires ordinary remedial adjudication and verification, subject to an independently established lawful basis; it does not silently become automatic destruction. No historical Supreme Court merits lineup is invented.
+
+## Assignment and mechanical checks
+
+The fresh recount exactly matches each Record's nine-Justice table. Kennedy has seven counted leads before Alaska and is within its eligible pool. Alaska and the intervening Raich increase Kennedy to nine before Spector; Souter has eight and remains in its eligible pool. Spector increases Souter to nine before Kincade; the Chief has seven, the eligible minimum, and properly receives the assignment. The stated forms precede the author choices and the eligibility lists require full governing-proposition agreement.
+
+All three Records contain the eleven Public Projection blocks in the required order. Each internal controlling-holdings section matches its public Holdings section. Each copied frozen reconciliation matches its original substance. Ordinary controlling explanations fall below the 350-word ceiling. Named public judgment coalitions and opinion joins reconcile at each material level of generality. Rules, controlling authority, explanations, precedent treatment and operative remedy are supplied without an invented Marks synthesis.
+
+## Verified formulation repairs
+
+1. Spector, statutory-duties controlling explanation, in both internal Holdings and Public Projection: the concluding clause that general coverage does not establish liability was removed. The preceding sentence already requires the respective claim predicates, and the remand already entails adjudication of liability. Engine section 8 expressly excludes redundant untried-elements disclaimers. The affirmative predicates sentence is preserved in both sections.
+2. Kincade, Public Projection Source Notes: the final sentence stating that the published record supplies no separate Supreme Court argument date was removed. Render Contract sections 1 and 2 exclude descriptions of what source materials lack. The Event properly gives the supplied decision date and admitted review posture; it need not invent or explain an absent argument date.
+
+No material legal omission or unsupported final join was found within this bounded review. Both deletions were verified, together with continuing internal/public Holdings identity. No unresolved discrepancy remains in these three Records within this review scope. Chunk-wide validation, downstream projections and final rendering are outside this receipt's scope.

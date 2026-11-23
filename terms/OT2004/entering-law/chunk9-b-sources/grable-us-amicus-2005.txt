@@ -1,0 +1,347 @@
+Source: https://www.justice.gov/osg/brief/grable-and-sons-v-darue-engg-amicus-merits
+
+Office of the Solicitor General |  Grable and Sons v. Darue Eng'g - Amicus (Merits) | United States Department of Justice
+Skip to main content
+An official website of the United States government
+Here's how you know
+Here's how you know
+Official websites use .gov
+A .gov website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A lock (
+Lock
+Locked padlock
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+DOJ Menu
+U.S. Department
+of Justice
+About
+The Attorney General
+Organizational Chart
+Budget & Performance
+History & Museum
+Privacy Program
+Our Work
+News
+Press Releases
+Speeches
+Videos
+Photo Galleries
+Blogs
+Podcasts
+Resources
+Guidance Documents
+Forms
+Publications
+Information for Victims in Large Cases
+Justice Manual
+Business and Contracts
+Grants
+Employment
+Why Justice ?
+Benefits
+DOJ Vacancies
+Legal Careers at DOJ
+Our Offices
+Find Help
+Contact Us
+Utilities
+Our Offices
+Find Help
+Contact Us
+Search
+Menu
+Close
+About
+About
+Solicitors General 1870 - Present
+The Solicitor General in Historical Context
+Briefs
+Employment Opportunities
+FOIA
+Contact
+Our Offices
+Find Help
+Contact Us
+Main Menu
+U.S. Department of Justice
+About
+title="About"
+About
+The Attorney General
+Organizational Chart
+Budget & Performance
+History & Museum
+Privacy Program
+Our Work
+News
+title="News"
+News
+Press Releases
+Speeches
+Videos
+Photo Galleries
+Blogs
+Podcasts
+Resources
+title="Guidance & Resources"
+Resources
+Guidance Documents
+Forms
+Publications
+Information for Victims in Large Cases
+Justice Manual
+Business and Contracts
+Grants
+Employment
+Employment
+Why Justice ?
+Benefits
+DOJ Vacancies
+Legal Careers at DOJ
+Our Offices
+Find Help
+Contact Us
+Search
+Breadcrumb
+Justice.gov
+Office of the Solicitor General
+Briefs
+Grable and Sons V. Darue Eng'g - Amicus (Merits)
+Brief
+Grable and Sons v. Darue Eng'g - Amicus (Merits)
+Share
+Facebook
+X
+LinkedIn
+Email
+Docket Number
+No. 04-603
+Supreme Court Term
+2004 Term
+Type
+Merits Stage Amicus Brief
+Court Level
+Supreme Court
+No. 04-603
+In the Supreme Court of the United States
+GRABLE & SONS METAL PRODUCTS, INC., PETITIONER
+v.
+DARUE ENGINEERING & MANUFACTURING
+ON WRIT OF CERTIORARI
+TO THE UNITED STATES COURT OF APPEALS
+FOR THE SIXTH CIRCUIT
+BRIEF FOR THE UNITED STATES
+AS AMICUS CURIAE SUPPORTING RESPONDENT
+PAUL D. CLEMENT
+Acting Solicitor General
+Counsel of Record
+EILEEN J. O'CONNOR
+Assistant Attorney General
+THOMAS G. HUNGAR
+Deputy Solicitor General
+IRVING L. GORNSTEIN
+Assistant to the Solicitor
+General
+GILBERT S. ROTHENBERG
+TERESA E. MCLAUGHLIN
+Attorneys
+Department of Justice
+Washington, D.C. 20530-0001
+(202) 514-2217
+QUESTION PRESENTED
+Whether a quiet title action brought by a taxpayer in state court against the purchaser of property at a federal tax sale arises under federal law and is therefore removable to federal court when the taxpayer's right to relief depends on its allegation that the purchaser's federal tax deed is invalid because the Secretary of the Treasury failed to serve the taxpayer with notice of the property's seizure in accordance with 26 U.S.C. 6335.
+In the Supreme Court of the United States
+No. 04-603
+GRABLE & SONS METAL PRODUCTS, INC., PETITIONER
+v.
+DARUE ENGINEERING & MANUFACTURING
+ON WRIT OF CERTIORARI
+TO THE UNITED STATES COURT OF APPEALS
+FOR THE SIXTH CIRCUIT
+BRIEF FOR THE UNITED STATES
+AS AMICUS CURIAE SUPPORTING RESPONDENT
+INTEREST OF THE UNITED STATES
+The question presented in this case is whether a quiet title action brought by a taxpayer in state court against the purchaser of property at a federal tax sale arises under federal law and is therefore removable to federal court when the taxpayer's right to relief depends on its allegation that the purchaser's federal tax deed is invalid because the Secretary of the Treasury failed to serve the taxpayer with notice of the property's seizure in accordance with 26 U.S.C. 6335.  The United States has a substantial interest in the resolution of that question.
+The Secretary of the Treasury, through the Internal Revenue Service (IRS), has the authority to administer the internal revenue laws.  Pursuant to that authority, the Secretary has the power and responsibility to seize and sell property to satisfy delinquent tax liabilities.  26 U.S.C. 6331.  As a result, the United States has a significant interest in the development of a uniform body of law governing the validity of federal tax sales and the resulting transfer of property to purchasers at such sales.  Permitting cases raising such issues to be litigated in federal court promotes the development of such a uniform body of law and furthers the government's interest in the "prompt and certain collection of delinquent taxes."  United States v. Rodgers, 461 U.S. 677, 709 (1983).  The United States' interest in this case is heightened because the United States itself is potentially subject to a quiet title action under 28 U.S.C. 2410, a contract action under 28 U.S.C. 1346, or a damages action under 26 U.S.C. 7433, if IRS officials fail to comply with the requirements of federal law that relate to the seizure and sale of property to satisfy delinquent tax liabilities.
+The United States also has an interest in this case because it was sued as a third party defendant in the district court.  In that capacity, the United States argued in the district court that the tax sale in this case validly transferred title to respondent.
+STATEMENT
+1.	If a person liable for taxes fails to pay them after demand, the United States acquires a lien on all property belonging to that person for the amount of taxes owed.  26 U.S.C. 6321.  If the person fails to pay the amount owed within ten days after notice and demand, the Secretary of the Treasury (Secretary) may recover the tax by levy upon all property belonging to that person.  26 U.S.C. 6331(a).  In any case in which the Secretary may levy, the Secretary may seize and sell the property that is subject to levy.  26 U.S.C. 6331(b).
+As soon as practical after seizure of the property, "notice in writing shall be given by the Secretary to the owner of the property" or "left at his usual place of abode or business" if he has one within the revenue district where the seizure is made.  26 U.S.C. 6335(a). If the owner cannot be readily located, or has no dwelling or place of business within the applicable revenue district, the notice may be mailed to his last known address.  26 U.S.C. 6335(a).  As soon as practical after seizure of the property, the Secretary is required to give the owner notice of the sale in the same manner.  26 U.S.C. 6335(b).  The Secretary is also required to give notice to the public of the sale of the property.  That notice must specify the property to be sold, and the time, place, manner, and conditions of the sale.  26 U.S.C. 6335(b).
+The owner of property sold at a tax sale may redeem the property within 180 days of the sale.  26 U.S.C. 6337(b)(1).  To redeem the property, the taxpayer must pay the purchase price plus interest at a rate of 20% per year.  26 U.S.C. 6337(b)(2).
+When property is sold under 26 U.S.C. 6335, the Secretary gives the purchaser a certificate of sale upon payment of the purchase price.  26 U.S.C. 6338(a).  If the property is sold and not redeemed after 180 days, the Secretary executes a federal tax deed to the purchaser.  26 U.S.C. 6338(b).  The deed is "prima facie evidence of the facts therein stated."  26 U.S.C. 6339(b)(1).  If the tax levy and sale proceedings "have been substantially in accordance with the provisions of law," the deed operates "as a conveyance of all the right, title, and interest the party delinquent had in and to the real property." 26 U.S.C. 6339(b)(2).
+2.	a.	Grable & Sons Metal Products, Inc. (petitioner) failed to pay its income taxes for six years.  Pet. App. 3. In 1994, the IRS seized property at 601-701 West Plains Road, in Eaton Rapids, Michigan to satisfy petitioner's tax debt.  Ibid.  The IRS served petitioner with notice of the seizure by certified mail.  Ibid.  Petitioner received actual notice of the seizure and sale of the property.  Id. at 3, 16.
+On December 13, 1994, the IRS sold the West Plains Road property at a tax sale to Darue Engineering & Manufacturing (respondent).  Pet. App. 3.  Petitioner did not attempt to redeem the property.  Ibid.  On November 13, 1995, the IRS executed a deed to respondent conveying petitioner's interest in the property. Ibid.
+Approximately six years later, petitioner filed a quiet title action against respondent in the Circuit Court for Eaton County, Michigan.  Pet. App. 3.  Petitioner alleged that he was the owner of the West Plains Road property and that there was a cloud on his title due to the federal tax deed to the property that respondent had acquired from the IRS in the federal tax sale.  Br. in Opp. App. 2, at 2A-4A.  Petitioner further alleged that respondent's deed "is invalid" because it "was given with improper notice pursuant to 26 U.S.C. 6331, et seq."  Id. at 4A.  Petitioner alleged that notice was not served as required because "it was not given to it or was not left at the usual place of abode or business that existed within the Internal Revenue District where the seizure was made."  Ibid.  Petitioner further alleged that "since the tax deed was given pursuant to improper notice as required by 26 USC 6335(a), said transfer and claim through the tax deed is null and void and void ab initio."  Ibid.  Petitioner sought as relief that respondent "be ordered to have no right, title or interest" in the West Plains Road property.  Ibid.
+b.	Pursuant to 28 U.S.C. 1441, respondent filed a notice of removal of the action to the United States District Court for the Western District of Michigan. Pet. App. 3.  Section 1441 authorizes removal of a civil action "of which the district courts of the United States have original jurisdiction."  28 U.S.C. 1441(a).  When district courts have original jurisdiction founded on a claim arising under federal law, the action is removable "without regard to the citizenship or residence of the parties."  28 U.S.C. 1441(b).  Respondent argued that petitioner's claim arises under federal law because petitioner's right to relief depends on its allegation that the failure to give notice as required by 26 U.S.C. 6335(a) invalidates respondent's deed.  Pet. App. 15.
+Petitioner moved to remand the case to state court for lack of federal subject matter jurisdiction.  Pet.  App. 3.  The district court denied the motion.  Id. at 12-13.  The court reasoned that a federal claim is apparent on the face of petitioner's complaint because petitioner's claim that respondent's deed is invalid rests "expressly and exclusively" on its assertion that the IRS failed to comply with the notice requirements of 26 U.S.C. 6335(a).  Br. in Opp. App. 1, at 13A.
+Respondent filed a third-party complaint against the United States, seeking to hold the United States liable for respondent's damages should respondent's deed be declared invalid.  Pet. App. 15.  The government moved to dismiss the third-party complaint based on sovereign immunity.  Ibid.
+The district court upheld the validity of respondent's deed.  Pet. App. 18-19.  The court reasoned that, under Section 6339(b)(2), substantial compliance with the notice requirements of Section 6335 is sufficient to transfer title in a tax sale and that there was substantial compliance in this case because petitioner received actual notice of the seizure of its property through certified mail.  Ibid.  The court also ruled that petitioner was not entitled to equitable relief because it had offered no explanation for its six-year delay in filing suit.  Id. at 19-20.  Having upheld the validity of respondent's deed, the court dismissed respondent's third-party complaint against the United States as moot.  Id. at 20.
+3.	The court of appeals affirmed.  Pet. App. 1-11.  The court held that the district court had jurisdiction because petitioner's suit arises under federal law.  The court reasoned that while petitioner's cause of action is derived from state law, petitioner's entitlement to relief depends on federal law.  The court explained that "the only way to resolve the underlying controversy is to evaluate whether § 6335(a), which mandates notice for IRS seizure of property for non-payment of taxes in person, requires strict, or merely substantial, compliance with its provisions to allow the IRS deed to convey title."  Id. at 6.  The court also concluded that there is a substantial federal interest in having a federal court resolve that issue.  Id. at 5.  The court emphasized that "[t]he IRS must have transparent procedures for seizing and selling property so that people will be willing to purchase property at tax sales, allowing the IRS to provide a predictable stream of tax revenue." Ibid.
+On the merits, the court of appeals affirmed the district court's grant of summary judgment in respondent's favor.  Pet. App. 7-11.  The court held that, under Section 6339(b), if the IRS substantially complies with the notice requirements of Section 6335(a), a tax sale is valid.  Id. at 7-8.  The court also held that there was substantial compliance in this case because petitioner received actual notice of the seizure and sale, had not alleged any prejudice, and had waited for six years before filing suit.  Id. at 10.  The court of appeals further held that, in light of petitioner's delay in filing suit, the district court had appropriately relied on equitable principles in denying petitioner relief.  Id. at 11.
+4.	Petitioner filed a petition for a writ of certiorari raising the question whether the district court had jurisdiction over its suit as well as the question whether strict compliance with Section 6335(a) is necessary to transfer valid title in a tax sale.  The Court granted a writ of certiorari limited to the first question.1
+SUMMARY OF ARGUMENT
+An action arises under federal law when the plaintiff's right to relief under a state law cause of action necessarily depends on the resolution of a substantial question of federal law.  Petitioner's right to relief under its state law cause of action necessarily depends on its allegation that respondent's deed is invalid because IRS officials failed to conduct a federal tax sale in accordance with the notice requirements in 26 U.S.C. 6335.  Petitioner's action therefore arises under federal law.
+In Hopkins v. Walker, 244 U.S. 486 (1917), the Court held that a quiet title action arose under federal law when the plaintiffs' right to relief depended on their allegation that the defendants' claims to title were invalid under federal law.  Four other decisions of this Court have similarly held that a suit arises under federal law when the plaintiff seeks to establish superior title under state law, and the plaintiff's right to relief depends on federal law.  That line of decisions confirms that petitioner's action arises under federal law.
+In order for a claim to arise under federal law, the meaning or effect of federal law must be disputed.  That condition is satisfied in this case.  The underlying facts are not disputed:  The parties agree that IRS officials did not personally serve petitioner with notice of seizure.  But the parties dispute the legal significance of those facts.  Petitioner claims that, under 21 U.S.C. 6335, those facts invalidate respondent's deed, while respondent disputes that claim.  That dispute about the effect of Section 6335 raises a substantial federal question and is sufficient to confer federal question jurisdiction.
+The Court's decision in Merrell Dow Pharmaceuticals Inc. v. Thompson, 478 U.S. 804 (1986), does not detract from the conclusion that petitioner's action arises under federal law.  In that case, the Court held that because Congress had failed to create a private cause of action to enforce federal misbranding requirements, a state negligence action incorporating a federal misbranding standard as evidence of negligence did not arise under federal law.  Congress's failure to create a federal quiet title action for resolution of private disputes over the validity of federal tax deeds, however, does not carry the same implication, for two reasons.
+First, Merrell Dow did not purport to disturb the Hopkins line of decisions.  Under those decisions, petitioner's action arises under federal law.
+Second, the failure to create a private cause of action had special significance in Merrell Dow because Congress did not require the federal misbranding requirement to be an ingredient of any cause of action, state or federal.  Rather, the State voluntarily decided to incorporate the federal misbranding standard as evidence of negligence under state law.  That voluntary absorption of a federal standard did not fundamentally change the state law character of the plaintiff's tort action, and there was therefore not a sufficiently substantial federal interest in the resolution of the plaintiff's negligence claim to confer federal court jurisdiction.
+In contrast, in resolving a state quiet title action challenging a federal tax deed, a state court is required by the Supremacy Clause to apply federal standards in deciding whether title is validly transferred.  Thus, a State does not have the same interest in having its courts resolve a dispute that depends on the meaning or effect of those federal requirements, and the federal interest in the resolution of such a dispute is substantial.  The federal interest is particularly weighty when, as here, the plaintiff's right to relief necessarily depends on an allegation that federal officials have violated federal law.  Such a suit arises under federal law, and nothing in Merrell Dow suggests otherwise.
+ARGUMENT
+PETITIONER'S ACTION ARISES UNDER FEDERAL LAW AND IS THEREFORE REMOVABLE BECAUSE PETITIONER'S RIGHT TO RELIEF DEPENDS ON ITS CLAIM THAT RESPONDENT'S DEED IS INVALID UNDER FEDERAL TAX LAW
+A suit filed in state court may be removed to federal court when it falls within the original jurisdiction of the federal courts.  28 U.S.C. 1441(a).  A suit falls within the original jurisdiction of the federal courts when it "arises under" federal law.  28 U.S.C. 1331.  Petitioner's suit arises under federal law and was therefore removable to federal court because petitioner's right to relief depends on its claim that respondent's deed is invalid under federal tax law.
+A.	A Suit Arises Under Federal Law When A Plaintiff's Right To Relief Depends On The Resolution Of A Substantial Federal Question
+1.	The vast majority of cases that arise under federal law are ones in which federal law supplies  the cause of action.  Merrell Dow Pharms. Inc. v. Thompson, 478 U.S. 804, 808 (1986).  A case can also arise under federal law, however, when a plaintiff's right to relief under a state law cause of action depends on the resolution of a question of federal law.  Id. at 808-809 & n.5.
+In Smith v. Kansas City Title & Trust Co., 255 U.S. 180 (1921), the Court squarely held that a federal cause of action is not required for an action to arise under federal law.  Relying on numerous prior decisions, the Court explained that "[t]he general rule is that where it appears from the bill or statement of the plaintiff that the right to relief depends upon the construction or application of the Constitution or laws of the United States, and that such federal claim is not merely colorable, and rests upon a reasonable foundation, the District Court has jurisdiction."  Id. at 199.  Applying that standard, the Court held that a state law shareholder suit to prevent a corporation from investing in federal bonds arose under federal law, because the plaintiff's right to relief depended on its claim that the bonds were issued under an unconstitutional federal statute.  Id. at 201-202.
+In City of Chicago v. International College of Surgeons, 522 U.S. 156 (1997), the Court reaffirmed that a suit can arise under federal law even when the cause of action is supplied by state law.  The Court stated that "[e]ven though state law creates [a party's] causes of action, its case might still 'arise under' the laws of the United States if a well-pleaded complaint established that its right to relief under state law requires resolution of a substantial question of federal law."  Id. at 164 (brackets in original) (citation omitted).  Applying that standard, the Court held that the plaintiff's federal constitutional challenges to a city's landmark ordinance arose under federal law and the case was therefore removable even though the plaintiff's cause of action was supplied exclusively by the State's administrative review law.  The Court rejected the plaintiff's reliance on the principle that, as a master of its complaint, a plaintiff can choose to have its suit heard in state court. Ibid.  The Court explained that "[b]y raising several claims that arise under federal law, [the plaintiff] subjected itself to the possibility that the [defendant] would remove the case to the federal courts."  Ibid.
+As the decisions in Smith and International College of Surgeons reflect, the Court has not adopted as the exclusive test of federal court jurisdiction the statement in American Well Works Co. v. Layne & Bowler Co., 241 U.S. 257, 260 (1916), that a "suit arises under the law that creates the cause of action."  Instead, as this Court has explained, it is "well settled" that the American Well Works formulation "is more useful for describing the vast majority of cases that come within the district courts' original jurisdiction than it is for describing which cases are beyond district court jurisdiction."  Franchise Tax Bd. v. Construction Laborers Vacation Trust, 463 U.S. 1, 9 (1983); accord Merrell Dow, 478 U.S. at 809 n.5.
+2.	While an action can arise under federal law even when the cause of action is supplied by state law, the "well-pleaded complaint" rule "severely limits" the number of such cases.  Franchise Tax Bd., 463 U.S. at 9-10.  Under the well-pleaded complaint rule, a court must determine whether a complaint arises under federal law based solely on "what necessarily appears in the plaintiff's statement of his own claim."  Taylor v. Anderson, 234 U.S. 74, 75 (1914).  Allegations that are made to refute an anticipated federal defense are disregarded.  Id. at 75-76.  Federal law must supply "an element, and an essential one, of the plaintiff's cause of action."  Franchise Tax Bd., 463 U.S. at 11 (quoting Gully v. First Nat'l Bank, 299 U.S. 109, 112 (1936)).
+B.	Petitioner's Claim Arises Under Federal Law Because Its Right To Relief Necessarily Depends On Federal Tax Law
+Applying those principles, petitioner's claim arises under federal law. While petitioner's claim is founded on a state law cause of action, petitioner's right to relief necessarily depends on a disputed question of federal law.
+1.	Petitioner's complaint does not identify the cause of action on which it relies.  But the language of petitioner's complaint suggests, and petitioner has confirmed, Pet. Br. 17, that petitioner is relying on Mich. Comp. Laws. Ann. § 600.2932 (West 2000) for its cause of action.  That state statute authorizes any person who claims title to property to bring a quiet title action against any person who claims any inconsistent interest in the property.  Id. § 600.2932(1).  If the plaintiff establishes title to the land, the defendant is ordered to release to the plaintiff all claims to that land. Id. § 600.2932(3).
+2.	While petitioner's cause of action is supplied by state law, its claim nonetheless arises under federal law because petitioner's right to relief under state law necessarily depends on federal tax law.  That conclusion follows from "what necessarily appears in the plaintiff's statement of [its] own claim."  Taylor, 234 U.S. at 75-76.
+Petitioner alleged in its complaint that respondent had obtained a deed to the property in question in a federal tax sale, but that the deed "is invalid" because it "was given with improper notice pursuant to 26 U.S.C. 6331, et seq."  Br. in Opp. App. 2, at 4A.  Petitioner specifically relied in its complaint on 26 U.S.C. 6335, which generally requires notice of a seizure of property to be given or left at the usual place of abode or business by the IRS.  Petitioner claimed that "since the tax deed was given pursuant to improper notice as required by 26 USC 6335(a), said transfer and claim through the tax deed is null and void and void ab initio."  Br. in Opp. App. 2, at 4A.  Petitioner's complaint thus makes clear that petitioner seeks relief based on its assertion that, as a matter of federal law, the IRS's failure to give notice in accordance with 26 U.S.C. 6335 invalidated respondent's deed.
+Furthermore, petitioner's allegation that respondent's deed is invalid under federal law is an "element, and an essential one, of the [petitioner's] cause of action" under Michigan Comp. Laws Ann. § 600.2932 (West 2000).  Gully, 299 U.S. at 112.  Michigan law expressly requires a plaintiff in an action under Michigan Comp. Laws Ann. § 600.2932 (West 2000) to allege "the facts establishing the superiority of the plaintiff's claim."  Mich. R. Civ. P. 3.411.  Petitioner fulfilled that pleading requirement by alleging that respondent's deed is invalid under 26 U.S.C. 6335.  Without that allegation, petitioner would not have stated a claim for relief under Michigan law, as petitioner concedes.  Pet. Br. 18 ("federal law" was a "required element").  Accordingly, the complaint's reliance on federal tax laws was not the mere refutation of an anticipated affirmative defense, but rather an essential element of petitioner's cause of action.  Under the well-pleaded complaint rule, therefore, petitioner's action arises under federal law.
+C.	This Court's Decisions Establish That A Suit Arises Under Federal Law When The Plaintiff Seeks To Establish A Superior Interest In Property, And The Resolution Of That Claim Depends On Federal Law
+1.	This is not the first time the Court has been called upon to decide whether an action arises under federal law when the plaintiff seeks to establish a superior claim to land, and the resolution of that claim depends on federal law.  The Court confronted that very question in Hopkins v. Walker, 244 U.S. 486 (1917).  There, the holders of a United States patent for a mining claim filed suit to remove a cloud on title caused by the defendants' claims to title based on certificates of location.  Plaintiffs alleged that, by virtue of the federal mining laws, their claim was valid and the defendants' claims were invalid.  The defendants argued that there was no federal court jurisdiction because the allegations concerning the invalidity of the defendants' claims under the federal mining laws were not a necessary element of the plaintiffs' cause of action and therefore had to be disregarded.  Id. at 490.  The Court rejected that argument, reasoning that "[i]n both form and substance the bill is one to remove a particular cloud from the plaintiffs' title, as much so as if the purpose were to have a tax deed, a lease or a mortgage adjudged invalid and cancelled."  Ibid.  Therefore, the Court explained, "[i]t hardly requires statement that in such cases the facts showing the plaintiffs' title and the existence and invalidity of the instrument or record sought to be eliminated as a cloud upon the title are essential parts of the plaintiff's cause of action."  Ibid.  The Court therefore held that the plaintiffs' claim arose under the federal mining laws, giving the federal district court jurisdiction over the claim.  Id. at 491.
+This case parallels Hopkins in every relevant respect.  Here, as in Hopkins, the action is one to remove a cloud on the plaintiff's title.  Br. in Opp. App. 2, at 3A-4A; Pet. Br. 8.  Here, as in Hopkins, establishing the invalidity of the defendant's title is an essential element of the plaintiff's cause of action.  And here, as in Hopkins, the plaintiff seeks to establish the invalidity of the defendant's title on the basis of federal law.  Thus, here, as in Hopkins, petitioner's action arises under federal law.
+2.	In addition to Hopkins, four other cases have applied the rule that a suit arises under federal law when the plaintiff seeks to establish a superior interest in property, and the plaintiff's right to relief depends on federal law.  Those cases confirm that petitioner's claim arises under federal law.
+Northern Pacific Railway v. Soderberg, 188 U.S. 526 (1903), is the earliest decision.  In that case, a railroad claiming title to land under a federal grant that excluded "mineral lands" sued to enjoin the defendant from taking granite from the land.  The railroad's right to relief depended on the question whether the land was mineral or non-mineral under federal law.  Because the railroad's right to relief depended on a resolution of that federal law issue, the Court held that the suit arose under the laws of the United States.  Id. at 528.
+In Wilson Cypress Co. v. Del Pozo y Marcos, 236 U.S. 635 (1915), the plaintiffs filed suit to quiet title to property that was claimed by the defendant on the basis of tax sales.  Plaintiff relied on federal laws and a federal treaty with Spain to defeat the defendant's claim to title under the tax sales.  Id. at 643-644.  Because there was "scarcely a contention of [the plaintiff's] which [did] not primarily or ultimately depend upon the laws of the United States," the Court held that the case arose under federal law.  Id. at 644.
+In Lancaster v. Kathleen Oil Co., 241 U.S. 551 (1916), the plaintiff and the defendant had conflicting mining leases from the same owner, and the plaintiff sought to enjoin the defendant from asserting any rights under its lease.  Because the plaintiff's right to relief depended on construction of a federal law relating to allotted Indian lands and on the effect of the Secretary of the Interior's approval of the defendant's lease, the Court held that the suit was one arising under federal law.  Id. at 552-556.
+Finally, in Smith v. McCullough, 270 U.S. 456 (1926), the plaintiffs and the defendant had conflicting mining leases from the same owner, and the resolution of their competing claims depended on a construction of the federal laws relating to the right of Quapaw Indians to alienate and lease their lands.  Even though plaintiff's complaint did not make clear that there was a genuine dispute about the meaning and effect of those federal laws, the Court allowed an amendment to the complaint to show that there was such a dispute, and held that the complaint, as so amended, arose under federal law.  Id. at 459-460.
+3.	In contrast to the Hopkins line of cases, the Court held in Taylor v. Anderson, supra, that an action seeking common law ejectment does not arise under federal law even when the validity of the defendant's claim of ownership depends on federal law.  234 U.S. at 74-76.  The Court explained that, in order to plead a claim for common law ejectment, the plaintiff need only allege that he has title and that the defendant is wrongfully in possession.  Id. at 74.  The plaintiff need not set forth facts establishing why his title is superior to that of the defendant.  Id. at 75.  The defendant may ultimately assert superior title based on federal law as a defense, and the resolution of the dispute between the parties may ultimately turn on the validity of that defense.  But under the well-pleaded complaint rule, that possibility is not sufficient to establish that the plaintiff's claim arises under federal law.  Id. at 75-76.
+The policies underlying the well-pleaded complaint rule justify the distinction between actions to remove a cloud on title, as in Hopkins and this case, and common law ejectment actions, as in Taylor.  The well-pleaded complaint rule serves as a "quick rule of thumb" for determining when there is a sufficient federal interest in a case to warrant federal court jurisdiction. Franchise Tax Bd., 463 U.S. at 11.  A federal issue that can arise only when it is raised as an affirmative defense may never require decision; the defendant may not assert the defense, and even if he does, the plaintiff may fail to establish the elements of his claim, obviating the need for a resolution of the federal issue.  See Gully, 299 U.S. at 117.  In such cases, "[t]he most one can say is that a question of federal law is lurking in the background," ibid., not that (as here) the federal question is "an element, and an essential one, of the plaintiff's cause of action," id. at 112.
+In addition to serving as a proxy for the existence of a sufficient federal interest to warrant federal court jurisdiction, application of the well-pleaded complaint rule also protects the States' legitimate interest in having their courts resolve controversies that are likely to depend on state law issues.  Franchise Tax Bd., 463 U.S. at 9-10; Holmes Group, Inc. v. Vornado Air Circulation Sys., Inc., 535 U.S. 826, 832 (2002).  The well-pleaded complaint rule may produce "awkward results" when it turns out that the only matter in dispute between the parties is the validity of a federal defense.  Franchise Tax Bd., 463 U.S. at 12.  But there is a value in clarity and ease of administration in applying jurisdictional rules, and efforts to create exceptions to the well-pleaded complaint rule would threaten to undermine that interest.  Holmes Group, 535 U.S. at 832.  The Court has therefore applied the well-pleaded complaint rule even in cases in which it has become clear that the validity of a federal defense is the only matter genuinely in dispute.  Franchise Tax Bd., 463 U.S. at 12.
+Thus, in deciding whether an allegation that the defendant's title is invalid under federal law is sufficient to show that the plaintiff's claim arises under federal law, the Court's cases have drawn a distinction between actions to remove a cloud on title and common law actions for ejectment.  In the former, that allegation is necessary to state a claim and therefore creates arising-under jurisdiction.  In the latter, the allegation merely lurks as an affirmative defense and therefore does not create arising-under jurisdiction.  Because this case involves an action to remove a cloud on title based on the alleged invalidity of the defendant's title under federal law, it arises under federal law.
+D.	Petitioner's Complaint Shows That There Is A Real Dispute Respecting The Construction Or Effect Of Federal Tax Law
+In arguing that its claim does not arise under federal law, petitioner relies on the principle that "[a] suit to enforce a right which takes its origin in the laws of the United States is not necessarily, or for that reason alone, one arising under those laws," but instead so arises only when "it really and substantially involves a dispute or controversy respecting the validity, construction or effect of such a law, upon the determination of which the result depends."  Shulthis v. McDougal, 225 U.S. 561, 569 (1912).  Under that principle, a plaintiff's reliance on a federal land grant as the origin of its title does not in itself show that a quiet title action arises under federal law, because the validity, construction, and effect of the land grant itself is unlikely to be contested, and the real dispute is likely to center on state law issues.  Moreover, if reliance on a federal land grant as the origin for title were sufficient to show that a claim arises under federal law, "every suit to establish title to land in the central and western States would so arise, as all titles in those States are traceable back to those laws."  Id. at 569-570.
+In this case, however, jurisdiction is not founded on an uncontested allegation that petitioner can trace its title back to a federal land grant.  Rather, jurisdiction is founded on petitioner's contested allegation that respondent's recently acquired federal tax deed is invalid because IRS officials failed to satisfy the requirements of federal law regarding notice of the seizure of property.  That allegation is sufficient to show that petitioner's claim "really and substantially involves a dispute or controversy respecting the  *  *  *  construction or effect of [federal] law, upon the determination of which the result depends."  Shulthis, 225 U.S. at 569.
+Petitioner contends (Pet. 14) that there is no such dispute because the parties agree that, as a factual matter, IRS officials did not give personal notice of the seizure or leave the notice at petitioner's place of business as required by Section 6335.  But while the parties do not dispute those underlying facts, they do dispute the legal significance of those facts.  Petitioner argues that, under Section 6335, those facts invalidate respondent's deed, while respondent disagrees with petitioner's legal position.
+According to petitioner (Br. 14), the dispute over the construction or effect of Section 6335 materialized only when respondent interjected the argument that under Section 6339(b)(2), substantial compliance with Section 6335's notice requirements was sufficient to transfer petitioner's title to respondent.  But petitioner alleged in its own complaint both that respondent's deed was invalid by virtue of the failure to give the notice required by Section 6335 and that respondent nonetheless asserted title to the land in question under a federal tax sale.  Br. in Opp. App. 2, at 4A.  Thus, based on petitioner's complaint alone, and before there was any express mention of Section 6339, it was apparent that this case "involve[d] a dispute or controversy respecting the  *  *  *  construction or effect of" Section 6335.  Shulthis, 225 U.S. at 569.  Respondent's express interjection of Section 6339 merely clarified the nature and scope of the disagreement about the effect of Section 6335, a disagreement that was already evident on the face of the complaint and that constitutes the controlling issue in the case.
+E.	Neither Merrell Dow Nor Beneficial National Bank Detracts From The Conclusion That Petitioner's Claim Arises Under Federal Law
+1.	In arguing that its claim does not arise under federal law, petitioner relies primarily on Merrell Dow. Petitioner's reliance on that case is misplaced.
+In Merrell Dow, the Court held that a state law negligence action that relied on a violation of a federal misbranding requirement as prima facie evidence of negligence did not arise under federal law.  The Court concluded that Congress had decided not to create a private right of action to enforce the federal misbranding requirement and that it would "undermine" congressional intent to permit a federal court to "exercise federal-question jurisdiction and provide remedies for violations of that federal statute solely because the violation of the federal statute is said to be a 'rebuttable presumption' or a 'proximate cause' under state law, rather than a federal action under federal law."  478 U.S. at 812.  The Court further concluded that "the congressional determination that there should be no federal remedy for the violation of this federal statute is tantamount to a congressional conclusion that the presence of a claimed violation of the statute as an element of a state cause of action is insufficiently 'substantial' to confer federal-question jurisdiction."  Id. at 814.
+Petitioner argues that, under Merrell Dow, Congress's decision not to provide a cause of action to enforce a federal statutory provision necessarily means that a claim that relies on that federal statutory provision cannot arise under federal law.  Pet. Br. 26-30. Because federal law does not give a federal taxpayer a cause of action to challenge the validity of a deed obtained in a tax sale, petitioner contends, petitioner's claim cannot arise under federal law.  Ibid.  Petitioner's contention is incorrect, for two reasons.
+First, if Merrell Dow were read in the manner suggested by petitioner, it would have overruled the Hopkins line of cases as well as the Court's decision in Smith.  The Merrell Dow Court, however, did not purport to disturb those decisions.  To the contrary, the Court expressly indicated that its decision was consistent with Smith.  Id. at 814 n.12.  Because petitioner's claim arises under federal law under the Hopkins line of decisions, it is unaffected by Merrell Dow.2
+Second, as the Court indicated in Merrell Dow, that decision is reconcilable with prior decisions upholding federal jurisdiction based on "the nature of the federal interest at stake."  478 U.S. at 814 n.12.  The nature of the federal interest in this case is identical to that in the Hopkins line of cases and differs markedly from that in Merrell Dow, making the latter decision inapposite here.
+In Merrell Dow, the State voluntarily incorporated federal law into its state law negligence standard. Nothing in federal law required that approach; the State could have decided that a violation of the federal misbranding provision would not constitute negligence under state law.  Under the Court's analysis, the State also could have decided to incorporate the federal misbranding standard in several different ways.  It could have treated a violation of the federal standard as negligence per se, presumptive negligence, or merely as some evidence of negligence.  As the Court explained in Merrell Dow, in those circumstances, the State's voluntary absorption of the federal standard does not "fundamentally change the state tort nature of the action,"  478 U.S. at 815 n.12; the ultimate source of the legal obligation is the State's sovereign authority to prescribe its own tort law standards, not any preemptive enactment by Congress.  Because the action still involves a State's choice about when a plaintiff should receive compensation from a defendant, and because the federal law issue may be inextricably intertwined with important state law issues on the extent to which the federal standard has been incorporated into state law, a State retains a substantial interest in having its own courts resolve the federal issue, and the federal interest in the resolution of that issue is not sufficiently substantial to confer federal court jurisdiction.
+Recognition of federal jurisdiction to resolve the claim at issue in Merrell Dow also would have created the possibility of federal court jurisdiction over any tort action in which a State treated any of the numerous federal health and safety standards as evidence of negligence.  The potential for original federal court jurisdiction, moreover, would have existed in every case in which a federal law negligence theory was only one of several theories of recovery, as it was in Merrell Dow. See 478 U.S. at 817 n.15.  Thus, had the Court accepted the invitation to hold that the negligence claim at issue in Merrell Dow arose under federal law, it would have effectively transformed federal courts into the primary administrators of large areas of state tort law, a consequence that Congress could not possibly have intended.
+The situation here is very different.  Congress has established by statute the procedures to be followed in federal tax sales, 26 U.S.C. 6331 et seq., and it has enacted a uniform substantial compliance standard for deciding the extent to which those requirements must be followed in order for title to be transferred.  26 U.S.C. 6339.  In resolving a quiet title action involving the validity of a federal tax deed, therefore, a state court does not have the option to forego reliance on  the federal procedural requirements or the federal substantial compliance standard, nor could it adopt  them only as rebuttable evidence of satisfaction of a  state law standard.  Under the Supremacy Clause, the requirements and the standard adopted by Congress bind "the Judges in every State  *  *  *, any Thing in the Constitution or Laws of any State to the Contrary notwithstanding."  U.S. Const. Art. VI, Cl. 2.  Because federal law applies by operation of the Supremacy Clause, rather than through the State's voluntary choice, a State does not have the same interest in having its courts resolve the issue, and the federal interest in the issue is substantial.
+This case involves a particularly important area for the exercise of federal court jurisdiction.  The government has a strong interest in the "prompt and certain collection of delinquent taxes." United States v. Rodgers, 461 U.S. 677, 709 (1983).  That interest is advanced through the development of a uniform body of law specifying the actions that the IRS must take to transfer title validly in a federal tax sale.  While allowing such disputes to be resolved in federal courts cannot guarantee perfect uniformity, it does promote the development of a uniform body of law in a way that is not possible when decisions are left to state court systems, subject only to review by this Court.  The United States' interest in the development of a uniform body of federal law is heightened in this context, because it is potentially subject to a quiet title action under 28 U.S.C. 2410, a contract action under 28 U.S.C. 1346, or a damages action under 26 U.S.C. 7433, if IRS officials fail to comply with the requirements of federal law that relate to the seizure and sale of property to satisfy delinquent federal tax liabilities.
+This case illustrates the significance of the federal interest at stake.  Petitioner has alleged that a federal tax sale conducted by the IRS in order to collect federal taxes should be invalidated because federal officials violated federal tax law.  The federal interest in the resolution of that question could not be clearer.  When a plaintiff's suit depends on an allegation that federal tax officials have violated federal tax law, that suit necessarily arises under federal law.
+The fundamental difference between the nature of the federal interest in Merrell Dow, and the nature of the federal interest here also explains why Congress's failure to create a cause of action was significant in Merrell Dow, but is not significant here.  Congress's failure to create a cause of action in Merrell Dow reflected Congress's intent not to require federal misbranding laws to be an ingredient in any private cause of action, state or federal, and state suits incorporating federal misbranding standards therefore did not implicate a substantial federal interest.  In contrast, because Congress has required federal tax sale requirements to be applied in state law quiet title actions, see 26 U.S.C. 6339(b)(2), Congress's failure to create a federal cause of action to enforce the federal requirements is not evidence of the absence of a substantial federal interest in how those requirements are applied. To the contrary, the very fact that Congress has mandated the application of federal requirements in state quiet title actions establishes a substantial federal interest in actions that depend on the meaning or effect of those requirements.  The federal interest is particularly strong when the dispositive question is whether federal officials have transferred title to land in accordance with federal law.  Accordingly, the federal interest in the resolution of petitioner's claim is sufficiently substantial to confer federal court jurisdiction, and nothing in Merrell Dow suggests otherwise.
+2.	Finally, petitioner errs in relying on Beneficial National Bank v. Anderson, 539 U.S. 1, 8 (2003).  Pet. Br. 32-33.  In that case, the Court held that, notwithstanding the plaintiff's failure to allege a federal claim in his complaint, a case may be removed to federal court when federal law necessarily supplies the exclusive cause of action, such that there is, in reality, no state-law cause of action to allege.  That "complete preemption" holding has no bearing on the distinct question presented here-whether a case may be removed to federal court when the plaintiff's cause of action is concededly derived from state law, but the plaintiff expressly and necessarily relies on federal law to establish its right to relief.
+Petitioner relies on the Court's statement in Beneficial National Bank that, "[a]s a general rule, absent diversity jurisdiction, a case will not be removable if the complaint does not affirmatively allege a federal claim." 539 U.S. at 6.  Petitioner's complaint, however, does "affirmatively allege[] a federal claim"-that respondent's deed is invalid under federal law.  In any event, the Court's statement, like the statement in American Well Works, see pp. 11-12, supra, purports only to describe what is true "as a general rule."  The Court presumably was not attempting to set forth a definitive description of the scope of federal court arising-under jurisdiction, and the case presented no occasion to address the question at issue here.  Regardless of its precise meaning, the statement cited by petitioner could not have been intended to overrule the Court's holdings in the Hopkins line of cases to the effect that a suit arises under federal law when, as here, the plaintiff's right to a determination that it has a superior interest in land necessarily depends on a disputed issue of federal law.
+CONCLUSION
+The judgment of the court of appeals should be affirmed.
+Respectfully submitted.
+PAUL D. CLEMENT
+Acting Solicitor General
+EILEEN J. O'CONNOR
+Assistant Attorney General
+THOMAS G. HUNGAR
+Deputy Solicitor General
+IRVING L. GORNSTEIN
+Assistant to the Solicitor
+General
+GILBERT S. ROTHENBERG
+TERESA E. MCLAUGHLIN
+Attorneys
+MARCH 2005
+1	Because the Court did not grant certiorari on the question whether strict compliance with Section 6335(a) is necessary to transfer valid title, we do not address that question in this brief.  The position of the United States is that the court of appeals correctly resolved that question, and that petitioner's contrary view of the law, if adopted by a court, would create substantial administrative difficulties for the IRS and the Department of Justice in the collection of tax revenues.
+2	Some appellate court decisions have nonetheless read Merrell Dow to hold that a federal cause of action is an indispensable requirement of arising-under jurisdiction.  See Pet. Br. 25-30 & n.2.  Other post Merrell Dow decisions, sometimes from the same circuit, have correctly recognized that a case can arise under federal law if the plaintiff's right to relief under a state law cause of action depends on federal law.  Almond v. Capital Props., Inc., 212 F.3d 20, 23-24 & n.3 (1st Cir. 2000); D'Alessio v. NYSE, 258 F.3d 93, 99-104 (2d Cir.), cert. denied, 534 U.S. 1066 (2001); West 14th St. Commercial Corp. v. 5 West 14th Owners Corp., 815 F.2d 188, 193-196 (2d Cir.), cert. denied, 484 U.S. 850 and 871 (1987); U.S. Express Lines Ltd. v. Higgins, 281 F.3d 383, 389-391 (3d Cir. 2002); Verizon Md., Inc. v. Global Naps, Inc., 377 F.3d 355, 366 (4th Cir. 2004); Battle v. Seibels Bruce Ins. Co., 288 F.3d 596, 606-608 (4th Cir. 2002); Ormet Corp. v. Ohio Power Co., 98 F.3d 799, 807 (4th Cir. 1996); 40235 Washington St. Corp. v. Lusardi, 329 F.3d 1076, 1079-1080 (9th Cir. 2003); King County v. Rasmussen, 299 F.3d 1077, 1081-1082 (9th Cir. 2002), cert. denied, 538 U.S. 1057 (2003); BellSouth Telecomm., Inc. v. MCImetro Access Transmission Servs., Inc., 317 F.3d 1270, 1278-1279 (11th Cir. 2003); Floyd v. District of Columbia, 129 F.3d 152, 155 (D.C. Cir. 1997).  Three of those decisions involved actions to determine interests in land based on federal law.  West 14th St. Commercial Corp., supra; 40235 Washington St. Corp., supra; King County, supra.
+APPENDIX
+1.	Title 26 of the United States Code provides in pertinent part:
+§ 6321.	Lien for taxes
+If any person liable to pay any tax neglects or refuses to pay the same after demand, the amount (including any interest, additional amount, addition to tax, or assessable penalty, together with any costs that may accrue in addition thereto) shall be a lien in favor of the United States upon all property and rights to property, whether real or personal, belonging to such person.
+*   *   *   *   *
+§ 6331.	Levy and distraint
+(a)	Authority of Secretary
+If any person liable to pay any tax neglects or refuses to pay the same within 10 days after notice and demand, it shall be lawful for the Secretary to collect such tax (and such further sum as shall be sufficient to cover the expenses of the levy) by levy upon all property and rights to property (except such property as is exempt under section 6334) belonging to such person or on which there is a lien provided in this chapter for the payment of such tax.  *  *  *
+(b)	Seizure and sale of property
+The term "levy" as used in this title includes the power of distraint and seizure by any means.  Except as otherwise provided in subsection (e), a levy shall extend only to property possessed and obligations existing at the time thereof.  In any case in which the Secretary may levy upon property or rights to property, he may seize and sell such property or rights to property (whether real or personal, tangible or intangible).
+*   *   *   *   *
+§ 6335.	Sale of seized property
+(a)	Notice of seizure
+As soon as practicable after seizure of property, notice in writing shall be given by the Secretary to the owner of the property (or, in the case of personal property, the possessor thereof), or shall be left at his usual place of abode or business if he has such within the internal revenue district where the seizure is made. If the owner cannot be readily located, or has no dwelling or place of business within such district, the notice may be mailed to his last known address.  Such notice shall specify the sum demanded and shall contain, in the case of personal property, an account of the property seized and, in the case of real property, a description with reasonable certainty of the property seized.
+(b)	Notice of sale
+The Secretary shall as soon as practicable after the seizure of the property give notice to the owner, in the manner prescribed in subsection (a), and shall cause a notification to be published in some newspaper published or generally circulated within the county wherein such seizure is made, or if there be no newspaper published or generally circulated in such county, shall post such notice at the post office nearest the place where the seizure is made, and in not less than two other public places.  Such notice shall specify the property to be sold, and the time, place, manner, and conditions of the sale thereof.  *  *  *
+*   *   *   *   *
+§ 6337.	Redemption of property
+*   *   *   *   *
+(b)	Redemption of real estate after sale
+(1)	Period
+The owners of any real property sold as provided in section 6335, their heirs, executors, or administrators, or any person having any interest therein, or a lien thereon, or any person in their behalf, shall be permitted to redeem the property sold, or any particular tract of such property, at any time within 180 days after the sale thereof.
+(2)	Price
+Such property or tract of property shall be permitted to be redeemed upon payment to the purchaser, or in case he cannot be found in the county in which the property to be redeemed is situated, then to the Secretary, for the use of the purchaser, his heirs, or assigns, the amount paid by such purchaser and interest thereon at the rate of 20 percent per annum.
+*   *   *   *   *
+§ 6338.	Certificate of sale; deed of real property
+(a)	Certificate of sale
+In the case of property sold as provided in section 6335, the Secretary shall give to the purchaser a certificate of sale upon payment in full of the purchase price.  In the case of real property, such certificate shall set forth the real property purchased, for whose taxes the same was sold, the name of the purchaser, and the price paid therefor.
+(b)	Deed to real property
+In the case of any real property sold as provided in section 6335 and not redeemed in the manner and within the time provided in section 6337, the Secretary shall execute (in accordance with the laws of the State in which such real property is situated pertaining to sales of real property under execution) to the purchaser of such real property at such sale, upon his surrender of the certificate of sale, a deed of the real property so purchased by him, reciting the facts set forth in the certificate.
+*   *   *   *   *
+§ 6339.	Legal effect of certificate of sale of personal property and deed of real property
+*   *   *   *   *
+(b)	Deed of real property
+In the case of the sale of real property pursuant to section 6335-
+(1)	Deed as evidence
+The deed of sale given pursuant to section 6338 shall be prima facie evidence of the facts therein stated; and
+(2)	Deed as conveyance of title
+If the proceedings of the Secretary as set forth have been substantially in accordance with the provisions of law, such deed shall be considered and operate as a conveyance of all the right, title, and interest the party delinquent had in and to the real property thus sold at the time the lien of the United States attached thereto.
+*   *   *   *   *
+2.	Title 28 of the United States Code provides in pertinent part:
+§ 1331.	Federal question
+The district courts shall have original jurisdiction of all civil actions arising under the Constitution, laws, or treaties of the United States.
+§ 1441.	Actions removable generally
+(a)	Except as otherwise expressly provided by Act of Congress, any civil action brought in a State court of which the district courts of the United States have original jurisdiction, may be removed by the defendant or the defendants, to the district court of the United States for the district and division embracing the place where such action is pending.  For purposes of removal under this chapter, the citizenship of defendants sued under fictitious names shall be disregarded.
+(b)	Any civil action of which the district courts have original jurisdiction founded on a claim or right arising under the Constitution, treaties or laws of the United States shall be removable without regard to the citizenship or residence of the parties.  Any other such action shall be removable only if none of the parties in interest properly joined and served as defendants is a citizen of the State in which such action is brought.
+3.	Section 600.2932 of the Michigan Complied Laws Annotated provides in pertinent part:
+§ 600.2932	Action to determine interests in land
+Sec. 2932.  (1) Interest of plaintiff.  Any person, whether he is in possession of the land in question or not, who claims any right in, title to, equitable title to, interest in, or right to possession of land, may bring an action in the circuit courts against any other person who claims or might claim any interest inconsistent with the interest claimed by the plaintiff, whether the defendant is in possession of the land or not.
+*   *   *   *   *
+(3)	Establishment of title, relief afforded.  If the plaintiff established his title to the lands, the defendant shall be ordered to release to the plaintiff all claims thereto.  In an appropriate case the court may issue a writ of possession or restitution to the sheriff or other proper officer of any county in this state in which the premises recovered are situated.
+*   *   *   *   *
+(5)	Actions equitable in nature. Actions under this section are equitable in nature.
+4.	Rule 3.411 of the Michigan Rules of Civil Procedure provides in pertinent part:
+RULE 3.411	CIVIL ACTION TO DETERMINE INTERESTS IN LAND
+(A)	This rule applies to actions to determine interests in land under MCL 600.2932; MSA 27A.2932. It does not apply to summary proceedings to recover possession of premises under MCL 600.5701-600.5759; MSA 27A.5701-27A.5759.
+(B)	Complaint.
+(1)	The complaint must describe the land in question with reasonable certainty by stating
+(a)	the section, township, and range of the premises;
+(b)	the number of the block and lot of the premises; or
+(c)		another description of the premises sufficiently clear so that the premises may be identified.
+(2)	The complaint must allege
+(a)	the interest the plaintiff claims in the premises;
+(b)	the interest the defendant claims in the premises; and
+(c)	the facts establishing the superiority of the plaintiff's claim.
+*   *   *   *   *
+Brief
+2004-0603.mer.ami.pdf
+[PDF, ]
+Updated October 21, 2014
+Office of the Solicitor General
+950 Pennsylvania Ave. NW
+Washington DC 20530-0001
+202-514-2203
+Signup for Email Updates
+Social Media
+About
+Budget & Performance
+Archives
+FOIA
+Accessibility
+Legal Policies & Disclaimers
+Privacy
+For Employees
+Office of the Inspector General
+No FEAR Act Data
+EEO Policy Statement
+Vulnerability Disclosure
+Multilingual
+Vote.gov
+Have a question about Government Services?
+Contact USA.gov
+Top

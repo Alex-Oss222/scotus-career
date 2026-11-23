@@ -1,0 +1,1576 @@
+1
+PRECEDENTIAL
+UNITED STATES 
+COURT OF APPEALS
+FOR THE THIRD CIRCUIT
+            
+No. 03-2184
+            
+ROBERT GOLDEN, Attorney-in-Fact
+for LEAH GOLDEN; 
+DONALD EARWOOD, Executor of the
+Estate of HELEN EARWOOD,
+Appellants
+v.
+DAVID S. GOLDEN; 
+DARLENE KOPOSKO
+                   
+          
+On Appeal from the 
+United States District Court
+for the Western District of Pennsylvania
+(Dist. Court No. 01-cv-00576)
+District Judge: 
+Honorable David S. Cercone
+         
+Argued: January 22, 2004
+Before: ALITO and CHERTOFF,
+Circuit Judges, and DEBEVOISE,*
+District Judge
+(Filed :September 3, 2004)
+JULIA MORROW (Argued) 
+JOEL W. TODD
+Dolchin, Slotkin & Todd 
+2005 Market Street 
+24th Floor 
+Philadelphia, PA 19103   
+Counsel for Appellants
+CHRISTOPHER M. TRETTA (Argued)
+Yost & Tretta 
+1500 John F. Kennedy Boulevard 
+Two Penn Center Plaza, Suite 610 
+Philadelphia, PA 19102 
+JAMES T. DAVIS 
+MELINDA K. DELLAROSE 
+Davis & Davis 
+107 East Main Street 
+Uniontown, PA 15401 
+                                  
+Counsel for Appellees
+         
+OPINION OF THE COURT
+         
+* 
+Honorable 
+Dickinson 
+R.
+Debevoise, Senior United States District
+Judge for the District of New Jersey,
+sitting by designation.
+2
+CHERTOFF, Circuit Judge.
+Robert Golden, attorney-in-fact for
+Leah Golden, and Donald Earwood,
+executor of the estate of Helen Earwood,
+appeal a final order of the United States
+District Court for the Western District of
+Pennsylvania dismissing their action for
+lack of jurisdiction.  Appellants’ action
+sought, through various means, to
+challenge the distribution of assets from
+the estate of Irene I. King.  In addition to
+asserting a number of familiar torts,
+including fraud and slander, the complaint
+asserted several grounds for relief that
+relate to probate law, including undue
+influence and breach of fiduciary duty as
+the executor of a will.  Appellants also
+sought punitive damages.   The District
+Court dismissed the action as falling
+within the probate exception to federal
+diversity jurisdiction.  This case, therefore,
+requires us to explore the contours of the
+probate exception.  We will affirm in part
+and reverse in part.
+Appellant Robert Golden is a
+citizen of the state of New York and holds
+general power of attorney for Leah
+Golden, also a citizen of the state of New
+York.  Appellant Donald Earwood is the
+personal representative of the estate of
+Helen Earwood, a citizen of the state of
+Georgia prior to her death.1  Appellees
+David S. Golden and Darlene Koposko are
+both adult citizens of the Commonwealth
+of Pennsylvania.
+On September 1, 1999, Irene I.
+King executed a Last Will and Testament
+(the “Will”) and an inter vivos trust (the
+“Trust”).  Pursuant to her testamentary
+scheme, all of her property was transferred
+to the Trust, under which she named
+herself the sole trustee.  In the event of her
+incapacity or death, Appellee David
+Golden was to become the sole trustee.
+As a redundancy, her Will also contained
+a “pour over” provision, transferring all of
+her property to the Trust upon her death.
+Under the terms of the original Trust, the
+Trust corpus was, upon her death, to be
+distributed in equal one-third shares
+among Leah Golden, Ms. King’s sister-in-
+law, Helen Earwood, Ms. King’s sister,
+and Appellee David Golden, Ms. King’s
+brother.2  The original Trust, Will, and
+other attendant paperwork were prepared
+by Nicholas J. Cook, Esq., and his office.
+As set forth in the complaint, Ms.
+King’s health deteriorated over the months
+that followed.  Concurrently, Appellee
+David Golden began exercising increasing
+control over both Ms. King’s finances
+and, allegedly, over Ms. King herself.  At
+some point during the fall of 1999,
+Appellee David Golden terminated Ms.
+King’s professional home care services in
+1In diversity actions involving
+estates, the courts look to the citizenship of
+the decedent to determine jurisdiction.  See
+28 U.S.C. § 1332(c)(2).
+2 The legacies were contingent upon
+the legatees surviving Ms. King.  In the
+event that they predeceased, the Trust
+named contingent beneficiaries.
+3
+favor of those provided by Appellee
+Darlene Koposko and Koposko’s mother
+and daughter.  During this time,
+Appellants allege, several of their attempts
+to visit Ms. King were either directly
+rebuffed by Appellee David Golden or
+met with so much hostility that they were
+soon terminated.  
+By June 14, 2000, Ms. King was
+bedridden, experiencing excruciating pain
+and unable to maintain bodily functions.
+She was being medicated for her pain and
+was prescribed hospice care.  That
+morning, however, she purportedly
+summoned Appellee Koposko to her side
+and dictated the preparation of a document
+altering 
+the 
+distributive 
+scheme
+enumerated in her Trust.  Ms. Koposko
+then purportedly prepared a handwritten
+instrument memorializing those changes
+(the “Addendum”), propped Ms. King up
+in bed, watched her sign the instrument
+and then, along with one of Ms.
+Koposko’s long-time friends, witnessed it.
+Appellee Koposko then allegedly placed
+the Addendum in a dresser drawer where
+it remained until June 27, 2000, when she
+delivered it to the offices of Nicholas
+Cook. 
+The Addendum reduced the amount
+of the legacy granted to Leah Golden from
+one-third of Ms. King’s estate to “the sum
+of [$5,000].”  J.A. at 48.  In a similar
+manner, the  Addendum reduced the
+amount of the legacy granted to Helen
+Earwood from one-third of Ms. King’s
+estate to “the sum of [$10,000].”  Id.  The
+remainder of the estate, according to the
+Addendum, was to pass to Appellee David
+Golden.
+On July 26, 2000, Ms. King died.
+On September 19, 2000, Ms. King’s Will
+was probated and letters testamentary
+thereafter issued.  At some point
+thereafter, Appellee David Golden,
+through Nicholas Cook, filed a
+Pennsylvania Inheritance Tax Return (the
+“tax return”) with the Fayette County
+Register of Wills listing the net value of
+Ms. King’s estate as $188,946.00.
+Distribution of the legacies has not
+occurred due to the pendency of the
+instant litigation.
+Appellants brought this action in
+the United States District Court for the
+Western District of Pennsylvania on
+March 28, 2001.  Appellants alleged
+jurisdiction based on diversity of
+citizenship and an amount in controversy
+in excess of $75,000.  In addition to
+seeking punitive damages, Appellants
+asserted six causes of action: (1) undue
+influence; (2) fraud; (3) forgery; (4)
+slander (asserted by Appellant Earwood
+only); (5) tortious interference with
+inheritance; and (6) breach of fiduciary
+duty as executor of a will (asserted against
+Appellee David Golden only).  Appellants
+essentially alleged that their shares under
+Ms. King’s Trust were reduced either as a
+result of Appellees’ outright forgery, or as
+a result of Appellees’ wrongful influence
+on, or slanderous statements to, Ms. King.
+On June 20, 2002, after discovery
+was complete, the parties filed cross
+4
+motions for summary judgment.3  On
+November 18, 2002, the District Court
+conducted a pretrial conference but, on
+March 23, 2003, sua sponte dismissed the
+action for lack of subject matter
+jurisdiction.  Appellants timely appealed.
+Appellees present two arguments
+against subject matter jurisdiction.  First,
+they claim that Appellants have failed to
+satisfy the amount in controversy
+requirement for diversity jurisdiction.  See
+28 U.S.C. § 1332(a).  Second, they urge
+that Appellants’ action falls under the
+probate exception to federal diversity
+jurisdiction.  See, e.g., Markham v. Allen,
+326 U.S. 490 (1946); Waterman v. Canal-
+Louisiana Bank & Trust Co., 215 U.S. 33,
+45 (1909); Moore v. Graybeal, 843 F.2d
+706, 709 (3d Cir. 1988).  We exercise
+plenary review over a district court’s
+dismissal for lack of subject matter
+jurisdiction.  See Bakhtriger v. Elwood,
+360 F.3d 414, 417 (3d Cir. 2004). 
+I.
+A.
+Appellees contend that the amount
+in controversy has not been adequately
+pled.  The amount in controversy is a
+statutory limit on the subject matter over
+which the federal courts have jurisdiction.
+See 28 U.S.C. § 1332(a).4  As with all
+issues of subject matter jurisdiction,
+defects in the pleading of the amount in
+controversy cannot be waived and, as a
+consequence, may be raised by any party
+at any time during litigation of the dispute.
+See Fed. R. Civ. P. 12(h)(3); see also, e.g.,
+Kontrick v. Ryan, __ U.S. __, 124 S.Ct.
+906, 915 (2004).  The federal courts
+themselves, of course, have a continuing
+obligation to investigate their jurisdiction
+over the matters before them.  See Exxon
+Mobil Corp. v. Saudi Basic Indus. Corp.,
+364 F.3d 102, 104 (3d Cir. 2004) (quoting
+Desi’s Pizza, Inc. v. City of Wilkes-Barre,
+321 F.3d 411, 420 (3d Cir. 2003));
+Meritcare Inc. v. St. Paul Mercury Ins.
+Co., 166 F.3d 214, 217 (3d Cir. 1999).
+Even if no party reaches the issue,
+therefore, the courts may take the initiative
+and probe the sufficiency with which the
+amount in controversy has been pled.  See
+Meritcare, 166 F.3d at 217.
+Where a federal cause of action is
+based on diversity jurisdiction, the
+complaint must allege an amount in
+controversy between the parties in excess
+of the statutory minimum.  See 28 U.S.C.
+§ 1332(a).  The amount need not be
+proven; rather, the amount is judged from
+the face of the complaint and is generally
+established by a good faith allegation.  See
+Horton v. Liberty Mut. Ins. Co., 367 U.S.
+348, 353 (1961) (measuring “good faith”
+by whether it appears “to a legal certainty
+the claim is really for less than the
+jurisdictional 
+amount”) 
+(internal
+quotations and citations omitted); St. Paul
+3 Appellants’ motion sought only
+partial summary judgment on their undue
+influence, fraud and forgery claims.
+4At 
+all 
+times 
+during 
+this
+controversy, the statutory minimum was
+$75,000.  28 U.S.C. § 1332(a).
+5
+Mercury Indem. Co. v. Red Cab Co., 303
+U.S. 283, 288 (1938); see also Jumara v.
+State Farm Ins. Co., 55 F.3d 873, 877 (3d
+Cir. 1995).  Each plaintiff must meet the
+a m o u n t 
+i n 
+c o n t r o v e r s y
+requirement—claims may not be
+aggregated among plaintiffs to meet the
+statutory minimum.  See Meritcare, 166
+F.3d at 218 (citing 14B Wright, Miller &
+Cooper, Federal Practice and Procedure 3d
+§ 3704 at 134 (1994)).  On the other hand,
+courts do not separately evaluate each of
+the causes of action asserted by any one
+plaintiff against any one defendant.5
+Snyder v. Harris, 394 U.S. 332, 335
+(1969); Suber, 104 F.3d at 588 (3d Cir.
+1997); see also 14B Wright, Miller &
+Cooper, Federal Practice and Procedure 3d
+§ 3704 at 134 (1994).  
+Claims for punitive damages may
+be 
+aggregated 
+with 
+claims 
+for
+compensatory damages unless the former
+are “‘patently frivolous and without
+foundation.’”  Packard, 994 F.2d at 1046
+(quoting Gray v. Occidental Life Ins. Co.,
+387 F.2d 935, 936 (3d Cir. 1968)).
+Punitive damage claims are per se
+“‘patently 
+frivolous and without
+foundation’” if they are unavailable as a
+matter of state substantive law.  See In re
+Corestates Trust Fee Litig., 39 F.3d 61, 64
+(3d Cir. 1994); Packard v. Provident Nat.
+Bank, 994 F.2d 1039, 1046 (3d Cir.
+1993).  Where guidance from state
+substantive law is absent, the federal
+5 The notable exception occurs
+where recovery on one of the plaintiff’s
+claims excludes recovery for one or more
+of the others.  See Suber v. Chrysler Corp.,
+104 F.3d 578, 588 (3d Cir. 1997). 
+In cases where a plaintiff has sued
+multiple defendants on the theory that they
+share liability, several circuit courts
+measure pleading of the amount in
+controversy 
+under 
+the 
+rubric 
+of
+“aggregation.”  See, e.g., Middle Tenn.
+News Co. v. Charnel of Cincinnati, Inc.,
+250 F.3d 1077, 1081 (7th Cir. 2001);
+Jewell v. Grain Dealers Mut. Ins. Co., 290
+F.2d 11, 13 (5th Cir. 1961).  Thus, a
+plaintiff is permitted to “aggregate” his or
+her claims against the multiple defendants
+to meet the statutory requirement.  We
+have never passed on the issue.  
+Althoug h 
+w e 
+think 
+the
+“aggregation” approach reaches the correct
+result, we do not see the question as one of
+aggregation.  Rather, an assertion of joint
+and several liability is an assertion that
+each defendant is liable for the entire
+amount, although the plaintiff only
+recovers the entire amount once.  Cf.
+Michie v. Great Lakes Steel Div., Nat
+Steel Corp., 495 F.2d 213, 218-19 (6th Cir.
+1974).  If that amount of liability is above
+the statutory threshold, jurisdiction has
+attached.  Any other rule would effectively
+multiply  the amount in controversy
+requirement by the number of defendants
+alleged to share liability.   
+Here, all but one of Appellants’
+causes of action assert that the Appellees
+are jointly liable.  In pleading the amount
+in controversy, therefore, the Appellants
+need not have distinguished among the
+Appellees.  
+6
+courts must attempt to predict the position
+that the state courts would take on the
+question.  Corestates, 39 F.3d at 64.  If
+appropriately made, therefore, a request
+for punitive damages will generally satisfy
+the amount in controversy requirement
+because it cannot be stated to a legal
+certainty that the value of the plaintiff’s
+claim is below the statutory minimum.  
+B.
+With 
+the 
+foregoing 
+general
+principles in mind, we turn to the specific
+allegations of the complaint.  
+Appellees 
+argue 
+that 
+the
+compensatory damages at stake fall below
+the $75,000 threshold.  They observe that
+the tax return filed with the Pennsylvania
+Orphans’ Court lists the estate’s net value
+at $188,946.00.  The original Trust
+provided that Appellants each receive a
+one-third share of the estate, or
+$62,982.00.  But the amended Trust
+provided for a distribution of $10,000 to
+Helen Earwood and $5,000 to Leah
+Golden.  Thus, Appellees argue, Appellant
+Earwood has alleged an amount in
+controversy of $52,982.00 and Appellant
+Golden $57,982.00, each less than the
+statutory minimum.  
+Appellants 
+respond 
+that 
+the
+statutory minimum has been met because
+the complaint alleged that, but for
+Appellees’ conduct, the value of the estate
+would have been valued in excess of
+$250,000.00.6  But if the filing of the tax
+return with the Orphans’ Court was a
+determination by that court of the actual
+value of the estate, then a determination by
+a federal court that the estate should have
+been valued higher than $188,946 would
+constitute an impermissible collateral
+impeachment of a state court judgment.
+See Rooker v. Fidelity Trust, Co., 263
+U.S. 413 (1923); District of Columbia
+Court of Appeals v. Feldman, 460 U.S.
+462 (1983); see also Exxon, 364 F.3d at
+104.  Although this Court asked counsel,
+through supplemental briefing, to clarify
+how the Orphans’ Court treated the tax
+filing, they were unable to do so.
+Nevertheless, the jurisdictional
+amount in controversy may be satisfied on
+another basis: the complaint seeks punitive
+damages.  If punitive damages are
+available under Pennsylvania state law for
+the causes of action asserted by the
+Appellants, and if the claims for punitive
+damages are not otherwise “patently
+frivolous and without foundation,” then
+the pleadings satisfy the necessary amount
+in controversy.  Packard, 994 F.2d at
+1046.
+Pennsylvania law permits the
+recovery of punitive damages for “torts
+that are committed willfully, maliciously,
+or so carelessly as to indicate wanton
+6 The complaint alleged, for
+example, that Appellee David Golden had
+either wasted estate assets prior to Ms.
+King’s death, or failed to report them on
+the tax return.
+7
+disregard of the rights of the party
+injured.”  Thompson v. Swank, 176 A.
+211 (Pa. 1934); see also SHV Coal, Inc. v.
+Continental Grain Co., 587 A.2d 702, 704
+(Pa. 1991).  The Pennsylvania Supreme
+Court has adopted section 908(2) of the
+Restatement (Second) of Torts, which
+states that “[p]unitive damages may be
+awarded for conduct that is outrageous,
+because of the defendant’s evil motive or
+his reckless indifference to others.”
+Restatement (Second) Torts § 908(2)
+(1979); see also Feld v. Merriam, 485
+A.2d 742, 747-48 (Pa. 1984).  The
+Pennsylvania Supreme Court has also
+discussed with approval Comment b of
+that section, which states that “[r]eckless
+indifference to the rights of others and
+conscious action in deliberate disregard of
+them . . . may provide the necessary state
+of mind to justify punitive damages.”
+Restatement (Second) Torts § 908 cmt. b;
+see also SHV, 587 A.2d at 704-05; Martin
+v. Johns-Manville Corp., 494 A.2d 1088,
+1096-98 (Pa. 1985), overruled on other
+grounds by Kirkbride v. Lisbon
+Contractors, Inc., 555 A.2d 800, 801 (Pa.
+1989). 
+The complaint asserts conduct on
+the part of Appellees that Appellants
+allege to be, at least, recklessly tortious.
+For example, the complaint asserts a cause
+of action for slander by Appellant
+Earwood against both Appellees.
+Pennsylvania permits the recovery of
+punitive damages for slander claims.  See
+Walder v. Lobel, 488 A.2d 622, 626 (Pa.
+Super. Ct. 1985) (defamation generally).
+The complaint also asserts a cause of
+action for tortious interference with
+inheritance by both Appellants against
+both Appellees.7  There is no direct
+pronouncement by the Pennsylvania courts
+that punitive damages are recoverable in
+actions for tortious interference with
+inheritance, but punitive damage awards
+have been upheld in actions for analogous
+torts.  See, e.g. Judge Tech. Servs., Inc. v.
+Clancy, 813 A.2d 879, 888-90 (Pa. Super.
+Ct. 2002) (tortious interference with
+contractual relations).  Given the
+Pennsylvania Supreme Court’s broad
+pronouncements with respect to the
+availability of punitive damages, and
+given the assertion of allegedly intentional
+or reckless conduct here, we may
+confidently predict that the Pennsylvania
+courts would not bar the recovery of
+punitive damages in this action.8
+Corestates, 39 F.3d at 64.  From the face
+7 We note that the Pennsylvania
+Courts 
+recognize 
+only 
+the 
+tort 
+of
+intentional interference with inheritance.
+See Cardenas v. Schober, 783 A.2d 317,
+324 n.2 (Pa. Super Ct. 2001).  We interpret
+the complaint to allege that tort.  Id. at
+325.
+Our focus on Appellants’ claims for
+slander and tortious interference with
+inheritance is deliberate.  As will become
+apparent, infra, they are the only two
+claims that survive this appeal. 
+8 Of course, whether punitive
+damages are appropriate in this case is a
+question for the finder of fact.  See G.J.D.
+v. Johnson, 713 A.2d 1127, 1131 (Pa.
+1998).
+8
+of the complaint, Appellants’ punitive
+damage claim is not “patently frivolous
+and without foundation.”  Packard, 994
+F.2d at 1046.  Thus, at this stage in the
+litigation, it does not “appear to a legal
+certainty” the Appellants’ claims fall
+below the statutory minimum.  Horton,
+367 U.S. at 353 (internal quotations and
+citations omitted).
+Appellants have adequately pled
+the amount in controversy.  We move to
+the more tangled question presented on
+appeal: whether the probate exception
+precludes the federal courts from
+exercising subject matter jurisdiction over
+Appellants’ substantive causes of action.
+II.
+The 
+lineage 
+of 
+the 
+probate
+exception to federal diversity jurisdiction
+can be readily traced.  As early as 1875,
+the Supreme Court observed that “a court
+of equity will not entertain jurisdiction of
+a bill to set aside a will or the probate
+thereof,” and dismissed the action before
+it on that basis.  In re Broderick’s Will, 88
+U.S. (21 Wal.) 503, 509 (1875).  Later
+opinions by the Court were more explicit
+as to the reason: the Judiciary Act of 1789
+and its successors granted the federal
+courts equitable powers coextensive with
+those held by the English Chancery Court
+in 1789.  See Judiciary Act of 1789, ch.
+20, § 11, 1 Stat. 78; Markham, 326 U.S. at
+494; Canal-Louisiana, 215 U.S. at 43.
+Because probate matters in late eighteenth
+century England were assigned to the
+ecclesiastical court and not to the
+Chancery Court, the federal courts are
+without the power to probate a will or
+administer an estate.9  Markham, 326 U.S.
+at 494; Canal-Louisiana, 215 U.S. at 43;
+see also Georges v. Glick, 856 F.2d 971,
+973 (7th Cir. 1988); Rice v. Rice Found.,
+610 F.2d 471, 475 (7th Cir. 1979).  
+ The probate exception extends
+both to matters of “pure” probate and to
+matters “ancillary” to probate.  See Farrell
+v. O’Brien, 199 U.S. 89, 110 (1905); see
+also Dragan v. Miller, 679 F.2d 712, 715
+(7th Cir. 1982), cert. denied, 459 U.S.
+1017 (1982); Rice, 610 F.2d at 475.  On
+the other hand, strictly in personam
+actions whose subject matter relates only
+incidentally to probate can be maintained
+in federal court because the exercise of
+jurisdiction under such circumstances
+would not “interfere with the probate
+proceedings or [require the court to]
+assume general jurisdiction of the probate
+or control of the property in the custody of
+the state court.”  Markham, 326 U.S. at
+494.  
+9 Although the Supreme Court’s
+reasoning 
+in 
+Markham 
+and 
+Canal-
+Louisiana was directed to the equitable
+power of the federal courts, the same result
+occurs where the complaint seeks legal
+relief.  The power of the federal courts to
+grant legal relief was limited by the
+Judiciary Act of 1789 to be coextensive
+with the English common-law courts.
+Like the Chancery Court, the common-law
+courts did not consider probate matters.
+Cf. Markham, 326 U.S. at 494; Rice v.
+Rice Found., 610 F.2d 471, 475 (7th Cir.
+1979).  
+9
+Where is the line of demarcation?
+Various descriptions of the probate
+exception over the years often seem to
+substitute one opaque verbal formulation
+for another.  See Markham, 326 U.S. at
+494; Princess Lida of Thurn and Taxis v.
+Thompson, 305 U.S. 456, 466-67 (1939);
+Canal-Louisiana, 215 U.S. at 46; Farrell,
+199 U.S. at 110; Dragan, 679 F.2d at 715;
+Lamberg v. Callahan, 455 F.2d 1216,
+1216 (2d Cir. 1972).  But however one
+articulates the precise contours of the
+probate exception, three principles
+discernable from caselaw are enough to
+guide our disposition of this appeal.  
+First, the federal courts lack the
+power to actually probate a will.  See
+Markham, 326 U.S. at 494; Moore, 843
+F.2d at 709; see also Georges, 856 F.2d at
+973.   Second, where a will has already
+been probated, permitting an action that
+seeks, expressly or in fact, to assail or
+contradict a judgment of the probate court
+generally constitutes an impermissible
+interference with the probate.10  See
+Moore, 843 F.2d at 710.  Likewise, the
+probate exception bars federal courts from
+adjudicating claims that challenge
+management of the estate.  Cf. Princess
+Lida, 305 U.S. at 459, 465-67 (treating a
+claim of trustee mismanagement as related
+for 
+jurisdictional 
+purposes 
+to
+administration of the corpus). Third,
+federal courts may nevertheless exercise
+jurisdiction over an otherwise barred
+probate-related cause of action if the
+action would be maintainable inter partes
+in the state courts of general jurisdiction.11
+ Sutton v. English, 246 U.S. 199, 205
+10 This view of the interference
+prong is fortified by other considerations.
+Federal courts, with the exception of the
+Supreme Court, cannot “sit[] in direct
+review of the decisions of a state tribunal.”
+Gulla v. North Strabane Twp., 146 F.3d
+168, 171 (3d. Cir. 1998) (citing Feldman,
+460 U.S. at 482; Rooker, 263 U.S. at 416).
+This rule, known as the Rooker-Feldman
+doctrine, prohibits federal courts from
+considering 
+any 
+claim 
+“inextricably
+intertwined” 
+with 
+a 
+state 
+court
+adjudication.  See Exxon, 364 F.3d at 104;
+Desi’s Pizza, 321 F.3d at 419.  A rule, like
+the one announced in Moore, prohibiting
+federal court review of claims seeking to
+annul or set aside an already-probated will
+is entirely consonant with the Rooker-
+Feldman doctrine, and comports with the
+federalism and comity concerns that the
+doctrine embodies.  See Moore, 843 F.2d
+at 710.
+11 This rule even applies where the
+will has already been probated and a
+judgment favorable to the plaintiff might
+annul or set aside the will (i.e., collaterally
+impeach the probate).  But this rule is
+strictly construed.  It is not enough that the
+cause of action be recognized; the state
+courts must also recognize and sanction
+the use of that cause of action to
+collaterally impeach a probate.  As we
+observed in Moore, it is in this way that
+state substantive law can “expan[d] the
+power of a federal courts to hear matters
+related to but independent of probate
+proceedings.”  843 F.2d at 709.
+10
+(1918); Farrell, 199 U.S. at 110-11; see
+also Moore, 843 F.2d at 709.  This
+supplemental rule means that a state can
+effectively contract the scope of the
+probate exception if it allows its courts of
+general jurisdiction to adjudicate
+challenges to probate.
+In sum, federal courts have the
+power to entertain in personam diversity
+actions, firmly grounded in recognized
+legal theories, if their resolution will not
+undercut the past probate of a will or
+result in the federal court “assum[ing]
+general jurisdiction of the probate or
+control of the property in the custody of
+the state court.”  Markham, 326 U.S. at
+494.  Where relief can be granted without
+challenging 
+the 
+probate 
+court’s
+determinations or management of the res,
+the exercise of federal jurisdiction could
+not “interfere with the probate.”  And, in
+any event, if the actions would be
+maintainable inter partes in the state
+courts of general jurisdiction, the state has
+presumably determined as a matter of law
+that such actions will not disrupt the
+activities of the state probate courts.
+ 
+A.
+The parties acknowledge, as they
+must, the foregoing threshold principles.
+From that point of departure, however,
+they proceed down different analytical
+paths.  
+Appellants contend that the probate
+exception is categorically inapplicable to
+this case.  They argue that the probate
+exception by its terms applies only to a
+will, and not to a trust—even if, as here,
+the trust operates as a will, distributing
+corpus upon the death of the settlor.  They
+point out that trusts, by definition, do not
+pass through probate.  That being so, they
+argue, actions involving trusts should per
+se not be subject to the probate exception.
+This mistakes the scope of the
+probate exception, which is not limited to
+the formal act of probating a will.  As
+described previously, the probate
+exception bars a federal court from
+entertaining both matters of “pure”
+probate and matters “ancillary” to probate.
+Farrell, 199 U.S. at 110; Moore, 843 F.2d
+at 709; see also Dragan, 679 F.2d at 715;
+Rice, 610 F.2d at 475.  Accordingly, the
+Seventh Circuit has rejected a per se rule
+identical to the one proposed by the
+Appellants here.  See Storm v. Storm, 328
+F.3d 941, 944-45 (7th Cir. 2003); see also
+Georges, 856 F.2d at 974 n. 2.  In
+Georges, the Seventh Circuit noted that
+analysis of the probate exception applies
+as well to trusts that act as “will
+substitutes”:
+The plaintiffs argue that the
+probate 
+exception 
+is
+inapplicable here because
+this action relates to the
+execution of an inter vivos
+trust, not to a will.  We
+reject such a per se rule.
+The inter vivos trust is
+clearly a will substitute.
+However, the fact that this
+case does involve a will
+substitute 
+does 
+not
+automatically render the
+p r o b a t e 
+e x c e p t i o n
+11
+applicable. 
+856 F.2d at 974 n.2. 
+The probate exception protects the
+state’s interest in managing all challenges
+addressing an estate res located in that
+state or with which the state has some
+meaningful connection.  That interest is no
+less compelling if the estate res is
+distributed by trust rather than by a will.
+We agree with the Court of Appeals for
+the Seventh Circuit in holding that causes
+of action involving trusts are treated under
+the probate exception in the same way as
+actions involving wills. 
+Appellees 
+take 
+the 
+opposite
+categorical position, and contend that the
+probate exception applies categorically to
+all claims here.  They argue that, because
+the 
+Pennsylvania legislature 
+has
+transferred to the Orphans’ Court the
+power to administer and oversee actions
+seeking to reform trusts, see 20 Pa. C.S.A.
+§ 711(3),12 the probate exception must per
+se apply to preempt this action.  Of course,
+we have already observed that the state
+can shrink the probate exception by
+assigning probate related claims to a state
+court of general jurisdiction.  But the
+reverse does not follow.  A state cannot
+expand the probate exception—and defeat
+otherwise proper federal jurisdiction over
+a matter—simply by vesting exclusive
+authority over otherwise in personam
+actions in the probate court.  See Canal-
+Louisiana, 215 U.S. at 43-44; Payne v.
+Hook, 74 U.S. (7 Wal.) 415, 429-30
+(1869); see also 17 Wright, Miller &
+Cooper, Federal Practice and Procedure 3d
+§ 4211, at 475 (1988).  That is to say, if a
+claim is otherwise outside the scope of the
+probate exception, a federal court is not
+divested of jurisdiction simply because the
+state places that sort of claim in state
+probate court.  See Marshall v. Lauriault,
+372 F.3d 175, 181 (3d Cir. 2004).
+Accordingly, 
+we 
+reject 
+the
+categorical argument of each party.
+Instead, we must examine the substance of
+each of the claims to determine whether it
+falls within the probate exception. 
+B.
+We first turn to the claims of undue
+influence, forgery and breach of fiducuary
+duty as an executor.
+Once a will has been probated, it
+generally constitutes an impermissible
+interference with the probate for a federal
+court to entertain a cause of action that
+seeks, in fact or in effect, to attack a
+determination of the probate court.  
+12 In relevant part, 20 Pa. C.S.A. §
+711 states:
+[J]urisdiction of the court of
+common pleas over the
+following shall be exercised
+through its orphans’ court
+division:
+(3) The administration and
+distribution of the real and
+personal property of inter
+vivos 
+trusts, 
+and 
+the
+reformation or setting aside
+of any such trusts . . . .
+12
+We take a fairly broad view of the
+types of actions that interfere with the
+probate proceedings.  Moore, 843 F.2d at
+710.  Under that broad view, we must
+conclude that Appellants’ claims for
+undue influence, forgery and breach of
+fiduciary duty as an executor would
+interfere with the already-completed
+probate proceedings and, therefore, are
+subject to the probate exception.   
+In Moore, this Court upheld the
+district court’s dismissal under the probate
+exception of an action seeking to establish
+rights in an estate that had already been
+probated.  843 F.2d at 710.  Moore, a
+legatee under an earlier, revoked will,
+sought a declaration that the will probated
+by the Delaware probate court was invalid
+as a result of either undue influence or
+lack of testamentary capacity.  See id. at
+707.  We held that Moore’s action was
+barred by the probate exception because it
+would interfere with the Delaware courts’
+past probate of the estate by partially
+reversing the bequests.  See id. at 710.  In
+other words, a judgment favorable to
+Moore would necessarily adjudicate a
+matter normally determined as a part of
+probate.  “[W]e are satisfied that
+jurisdiction cannot be sustained on the
+theory that this is an action by a legatee
+which does not interfere with the probate
+proceedings.”  Id.  We noted that the result
+did not change simply because Moore cast
+her action to recover damages rather than
+to reform the will.  
+Regardless of how Moore
+characterizes her claim, she
+is seeking in substance to
+invalidate the will . . . .  We
+are not impressed with the
+concept that granting her
+relief would not interfere
+w i t h 
+t h e 
+p r o b a t e
+proceedings if done by an
+award of damages rather
+than by an order to the
+e x e c u t o r 
+d i r e c t i n g
+distribution of the estate.
+Either way the substance is
+the same.
+Id. (internal citations omitted).  Under
+Moore, therefore, actions that seek in
+effect to reform a will or overturn a
+determination of will validity by the
+probate court constitute an impermissible
+interference with the probate.  
+Here, the practical effect of each of
+Appellants’ claims for undue influence
+and forgery would do exactly that: declare
+the Addendum and its distributive scheme
+invalid or unenforceable.  To be sure, the
+Register of Wills and the Orphans’ Court
+never directly passed on the Trust or its
+Addendum.  But the Register of Wills did
+probate Ms. King’s Will which, in turn,
+passed all of her property “under the terms
+of [her] trust agreement . . . and any
+amendments thereto.”  J.A. at 38.  As we
+see it, therefore, by probating Ms. King’s
+Will, the Register also implicitly
+determined the Trust, the Addendum and
+their combined distributive scheme to be
+valid and enforceable.13  Appellants’
+13 The Register of Wills is a judicial
+officer under Pennsylvania law, subject to
+13
+claims for undue influence and forgery
+would strike at that determination of
+validity, however.  For a will that is the
+result of undue influence or that is forged
+is necessarily invalid.  See 20 Pa. C.S.A. §
+2502; In re Fleming’s Estate, 109 A. 265,
+267-68 (Pa. 1919);14 In re Carothers
+Estate, 150 A. 585, 586 (Pa. 1930).  An
+implicit federal court judgment that the
+Addendum is invalid or unenforceable
+would be inconsistent with the Orphans’
+Court’s probate jurisdiction over Ms.
+King’s estate.  As the Seventh Circuit has
+observed, application of the probate
+exception depends not on how the federal
+claim is labeled, but on whether the action
+is “in effect one to declare [the] . . . will
+invalid because of undue influence.”
+Dragan, 679 F.2d at 717.
+Appellants’ claim for breach of
+fiduciary duty as the executor of a will is
+also at odds with the probate jurisdiction
+of the Orphans’ Court.  Based on the
+complaint, the primary theory of
+Appellants’ breach of fiduciary duty claim
+is that Appellee 
+David Golden
+misappropriated or wasted estate assets
+prior to probate.  See In re Lux’s Estate,
+389 A.2d 1053, 1055 (Pa. 1978).   The
+complaint also arguably raises the theory
+that Appellee David Golden breached his
+duty as the executor of Ms. King’s estate
+by operating under a conflict of interest.
+These claims strike at management of the
+estate, and the District Court is
+nonetheless without jurisdiction to
+adjudicate it.  In Pennsylvania, all claims
+that an estate’s executor engaged in self-
+dealing are handled in the probate court,
+either by removal of the offending
+executor, see 20 Pa. C.S.A. § 3182, or by
+assessing a penalty against that executor.
+See In re Estate of Harrison, 745 A.2d
+676, 679 (Pa. Super. Ct. 2000).  Claims
+for breach of fiduciary duty as executor of
+an estate are never adjudicated outside the
+probate context.  Appellants’ breach of
+fiduciary duty claim—indeed, under either
+theory—is, therefore, a classic example of
+a claim that is so “ancillary” to probate
+that it is not justiciable in federal court.
+See Farrell, 199 U.S. at 110.  That is
+because, as the Supreme Court observed in
+Princess Lida, claims of mismanagement
+of an estate relate “solely as to
+administration and restoration of corpus.”
+305 U.S. at 281; see also Mangieri v.
+Mangieri, 226 F.3d 1, 3 (1st Cir. 2000)
+(holding probate exception excludes claim
+that fiduciary should refund money to the
+estate).
+Moreover, 
+these 
+theories 
+of
+recovery do not come within any state law
+inter partes exemption from the probate
+appellate review by the Orphans’ Court.
+See Mangold v. Neuman, 91 A.2d 904,
+905-06 (Pa. 1952). 
+14 The Pennsylvania Statute of
+Wills, 20 Pa. C.S.A. § 2502, provides, in
+relevant part, that “[e]very will shall be in
+writing and shall be signed by the testator
+at the end thereof.”  In short, if the
+signature on a testamentary document is
+forged, that document must be invalid as it
+was 
+never validly executed.  
+See
+Fleming’s Estate, 109 A. at 267-68.
+14
+exception.  Pennsylvania law does not vest
+in the Pennsylvania courts of general
+jurisdiction any power to establish rights
+in an estate on the theories of undue
+influence, forgery or breach of fiduciary
+duty as an executor.  Indeed, at least with
+respect to undue influence, authority is
+directly to the contrary.  See Lucidore v.
+Novak, 570 A.2d 93, 94-95 (Pa. Super. Ct.
+1990).  In Lucidore, the plaintiffs
+attempted to sue, in the Court of Common
+Pleas, the executrix and the attorney of the
+estate of their deceased aunt.  Id. at 94.  At
+the time of the suit, the deceased’s will
+had already been probated by the Orphans’
+Court and Letters Testamentary had
+issued.  Id.  The complaint alleged that the
+defendants had exercised undue influence
+over the deceased, and sought an
+injunction against disposition of assets
+from the estate on the ground that “the
+will was obtained as a result of the undue
+influence.”  Id.  
+The Court of Common Pleas
+dismissed the case for lack of jurisdiction
+and the Pennsylvania Superior Court
+affirmed, saying that undue influence
+claims fell exclusively within the ambit of
+the probate court: 
+[T]here is no doubt that the
+appellants 
+incorrectly
+captioned the nature of their
+action as a complaint in
+equity in that this action
+must be an appeal from
+probate.  Further, there is no
+doubt 
+that 
+appellants
+brought the action in the
+incorrect division of the
+court of common pleas. . . .
+Case law confirms
+that an action contesting the
+validity of a will on grounds
+of lack of testamentary
+capacity, undue influence,
+a n d 
+c o n f i d e n t i a l
+relationship 
+must 
+be
+brought as an appeal from
+probate in the orphans’
+court division of the court
+of common pleas . . . .  [I]t
+is incorrect to file a
+complaint in the civil
+division seeking to set aside
+the will.
+Id. at 94-95.  
+We are persuaded, therefore, that
+the Pennsylvania courts do not recognize
+undue influence as a tort existing outside
+the probate context.  Further, no
+Pennsylvania case permits a suit, in the
+state courts of general jurisdiction to sue
+for forgery of a will or breach of fiduciary
+duty as executor of an estate.  These
+theories of recovery also contest the
+validity of the will, and must be addressed
+“as an appeal from probate.”  Id. at 95.
+C.
+Appellants’ claim for the tort of
+fraud presents a somewhat closer question.
+Fraud is a well-established tort in
+Pennsylvania.  See, e.g., Gibbs v. Ernst,
+647 A.2d 882, 889 (Pa. 1994).  And if the
+Appellants were pressing a theory of fraud
+that did not in any way challenge the
+Orphans’ Court’s probate of Ms. King’s
+15
+estate, the District Court might well have
+jurisdiction over those claims.  But as it
+stands, both of the fraud theories that the
+complaint might conceivably support
+entail a direct challenge to determinations
+of the Orphans’ Court.  
+From the complaint, the Appellants
+could argue two possible theories of fraud.
+First, that the Appellees forged the
+Addendum and Ms. King’s signature on it
+and thereby defrauded the Orphans’ Court
+and robbed the Appellants of their
+inheritance.  See, e.g., In re Fleming’s
+Estate, 109 A. at 267-68.  Second, that the
+Appellees fraudulently induced Ms. King
+into signing the Addendum by making her
+believe that it said something other than
+what it actually said, and thereby deprived
+the Appellants of their inheritance.  See,
+e.g., In re Estate of Glover, 669 A.2d
+1011, 1016-17 (Pa. Super. Ct. 1996).  
+Under 
+either 
+theory, 
+the
+Addendum—which the Orphans’ Court
+implicitly found to be valid and
+enforceable—is either invalid or
+unenforceable.  If Appellants’ first
+possible fraud theory is correct and the
+Addendum and Ms. King’s signature on it
+were forged, the documents are obviously
+invalid as a forgery.  See 20 Pa. C.S.A. §
+2502; In re Fleming’s Estate, 109 A. at
+267-68.  We have already explained why
+such a theory falls within the probate
+exception.  And if the Appellants’s second
+theory is correct, the Addendum is either
+invalid or unenforceable because Mrs.
+King was misled about what she was
+signing and, therefore, the document does
+not reflect Ms. King’s testamentary
+intent.15  See In re Glover’s Estate, 669
+A.2d at 1016-17.  In that case as well,
+Appellants’ theories are inimical to the
+determinations of the Orphans’ Court that
+the Will, the Trust, the Addendum and
+their combined distributive scheme are
+both valid and enforceable.    
+Since the Appellants’ fraud claims
+effectively seek to challenge the Orphans’
+Court’s probate of Ms. King’s estate, we
+must go on to ask: Would Pennsylvania
+allow a court of general jurisdiction to
+entertain such a fraud claim anyway?  To
+be sure, fraud may be a recognized tort in
+Pennsylvania.  But we are not aware that
+any court in Pennsylvania has permitted a
+plaintiff to seek to challenge the past
+probate of an estate through the vehicle of
+a fraud action.  As we have observed, it is
+not enough under the inter partes
+exemption from the probate exception for
+a state court to recognize a cause of
+action; rather, the state court must
+recognize the use of that action to impeach
+a probate.  Any other rule would reward
+creative pleading and would undermine
+both the fundamental assumptions of the
+“inter partes” exemption from the probate
+exception and the finality that the probate
+system requires.  See Moore, 843 F.2d at
+15 Pennsylvania law is not clear
+whether a will whose execution was the
+r e s u l t 
+o f 
+f r a u d 
+a n d
+misrepresentation—though 
+technically
+meeting all statutory requirements—is
+invalid or is simply unenforceable.  See In
+re Paul’s Estate, 180 A.2d 254, 261-62
+(Pa. 1955); Glover, 669 A.2d at 1016-17.
+16
+710; see also Storm, 328 F.3d at 945.
+Thus, Appellants’ fraud claims must be
+dismissed—as with their claims for undue
+influence, forgery and breach of fiduciary
+duty as executor of a will—because
+recovery on those claims would not be
+otherwise 
+maintainable 
+in 
+the
+Pennsylvania 
+courts 
+of 
+general
+jurisdiction, would be contrary to a
+determination of the probate court, and
+would impermissibly “interfere with the
+probate proceedings.”  Markham, 326
+U.S. at 494; Moore, 843 F.2d at 710. 
+D.
+As already noted, federal courts
+retain the power to entertain in personam
+diversity actions involving parties to a will
+if the resolution of the action will have no
+effect on the past probate of a will.  The
+first of Appellants’ causes of action that is
+saved by this principle is Appellant
+Earwood’s claim for slander.  
+A claim for slander is a strictly in
+personam action.  It is, in this case, also
+firmly based on a recognized legal
+theory—the Pennsylvania courts have long
+recognized the tort of slander.  See, e.g.,
+Klumph v. Dunn, 66  Pa. 141 (Pa. 1870);
+Chubb v. Gsell, 34 Pa. 114 (Pa. 1859); see
+also Corabi v. Curtis Pub. Co., 273 A.2d
+899, 908 (Pa. 1971).  Moreover, even
+assuming that slander is proven, relief can
+be granted without challenging the
+Orphans’ Court’s determinations of estate
+value and testamentary document validity,
+enforceability and distributive scheme.
+That is to say, a determination by the
+District Court that Earwood may have
+been slandered and damaged by the
+Appellees is in no way contrary to the
+Orphans’ Court’s determination that the
+Will, the Trust, the Addendum and their
+combined distributive scheme are valid
+and enforceable.  To be sure, the amount
+of Earwood’s damage as a result of the
+alleged slander might—though it need
+not—be measured by the difference
+between the legacy under the Addendum
+and the legacy under the Trust.  But a
+judgment that the Appellees slandered
+Earwood and caused her some amount of
+damage does nothing to impeach the
+Orphans’ Court’s determination that Ms.
+King intended to and succeeded in
+distributing her estate via the scheme laid
+out in the Trust and its Addendum.  The
+District Court has jurisdiction to consider
+Appellant Earwood’s claim for slander.  
+So, too, is there jurisdiction over
+Appellants’ 
+claims 
+for 
+tortious
+interference with inheritance.  Despite its
+entwinement with probate, a cause of
+action for tortious interference with
+inheritance is one brought in personam.  It
+is no different from any other tort—the
+plaintiff is asserting that some tortious
+action on the part of the defendant has
+caused him or her damage.  Further,
+though it may not be so in other states,16 a
+claim for tortious interference with
+inheritance is one based on a legal theory
+16 In Moore, for example, we
+concluded that the Delaware state courts
+would not permit a plaintiff to bring an
+action for tortious interference with
+inheritance.  843 F.2d at 710-11.
+17
+recognized by the Pennsylvania state
+courts.  See Mangold, 91 A.2d at 907;
+Cardenas, 783 A.2d at 325-26.  
+Further, relief can be granted
+without challenging the Orphans’ Court’s
+determinations of estate value and
+testamentary 
+document 
+validity,
+enforceability and distributive scheme.  In
+Pennsylvania, the elements of tortious
+interference with inheritance are:
+(1) The testator indicated an
+intent to change his will to
+provide a described benefit
+for plaintiff,
+(2) The defendant used
+fraud, misrepresentation or
+undue influence to prevent
+execution of the intended
+will,
+(3) The defendant was
+successful in preventing the
+execution of a new will; and
+(4) But for the Defendant’s
+[sic] conduct, the testator
+would have changed his
+will.
+Cardenas, 783 A.2d at 326.  In no event
+does an action for tortious interference
+with inheritance in Pennsylvania challenge
+the Orphans’ Court’s determination of
+value of the estate.  Cf. Mangold, 91 A.2d
+at 907.  Nor may a plaintiff use an action
+for tortious interference with inheritance
+to challenge the validity or enforceability
+of the testamentary documents (if any)
+admitted to probate, or the testamentary
+scheme established by those documents.
+Cf. id.
+True, any cause of action for
+tortious interference of inheritance
+brought in Pennsylvania implicitly
+contends that the testator’s intent was, at
+some point in time, something other than
+what the Orphans’ Court found it to be at
+the testator’s death.  Indeed, one of the
+elements of tortious interference with
+inheritance in Pennsylvania is that the
+testator intended to make a distribution to
+the plaintiff but was prevented from doing
+so by the defendant.  The tort claim,
+therefore, does posit that the distributive
+scheme that the Orphans’ Court found to
+be in place at the time of the testator’s
+death is different from the one the testator
+at some point intended.   
+But this is not the same as a
+challenge to the validity, enforceability or
+interpretation of a testamentary document
+passed on by the Orphans’ Court.  Id.  To
+the contrary.  The theory of the tort is that
+the will actually probated was valid and
+enforceable 
+because 
+it 
+reflected
+testamentary intent at the time it was
+made, but that the alleged tortfeasor
+wrongly induced the testator to maintain
+that will.  Whatever the outcome of an
+action for tortious interference with
+inheritance, the Orphans’ Court’s
+determinations of testamentary document
+validity, enforceability and interpretation
+will, as they must, remain unaffected.  Id.
+An example will help to clarify the
+point.  Take a hypothetical testator who
+adopts a valid testamentary distributive
+scheme that does not provide for person P.
+18
+At some point, Testator contemplates
+changing the testamentary distributive
+scheme to add a legacy for P, but person D
+somehow intentionally prevents the
+change.  Thus, at the time of Testator’s
+death, the only scheme providing for the
+distribution of Testator’s assets is the
+earlier—and valid—scheme leaving
+nothing to P.
+The original testamentary scheme
+was a true and correct expression of
+Testator’s then-intent.  Because Testator
+never revoked or superseded the earlier
+testamentary scheme, that scheme
+remained valid, and the Orphans’ Court
+was required to probate it.  Independent of
+the validity and enforceability of
+Testator’s earlier scheme, D harmed P,
+because, but for D’s actions, Testator
+would have amended the testamentary
+scheme and P would have received a
+legacy.   If P sues D for tortious
+interference, that suit does not impeach the
+validity or enforceability of the original
+will.  To the contrary, it relies on that
+validity to support the claim that D
+damaged P by preventing the testamentary
+scheme from being changed.  Cf. Georges,
+856 F.2d at 974 (finding jurisdiction over
+a claim for legal malpractice in
+preparation of a trust because the claim
+“does not seek to disturb the finality of the
+. . . probate proceedings”).
+Under Mangold and Cardenas, P
+may sue D in the Pennsylvania courts of
+general 
+jurisdiction 
+for 
+tortious
+interference with inheritance.  Mangold,
+91 A.2d at 907; Cardenas, 783 A.2d at
+325-26.  Put simply, in Pennsylvania, the
+elements of tortious interference with
+inheritance do not call into question the
+probate court’s determination of
+testamentary document validity or
+enforceability.17  The probate of a will,
+therefore, does not prevent a party from
+bringing an action for tortious interference
+with inheritance in the Pennsylvania
+courts of general jurisdiction. 
+To be sure, while an action for
+tortious interference with inheritance does
+not challenge the validity or enforceability
+of the distributive scheme affirmed by the
+probate court, recovery on that theory
+may, de facto, alter the distributive
+scheme.  It was this consideration that
+gave us pause in Moore.  843 F.2d at 710.
+There, we affirmed the dismissal of the
+plaintiff/appellant’s claim for tortious
+interference with inheritance because such
+an action would be “so inconsistent with
+the Delaware statutory plan for exclusive
+review of probate proceedings that
+allowing it would subvert the probate
+law.”  Id.  Central to our reasoning,
+17 Indeed, this is one of the key,
+outcome-determinative 
+distinctions
+between Appellants’ fraud claims and their
+tortious interference with inheritance
+claims.  Recovery on Appellants’ fraud
+claims would require the District Court to
+directly contradict the Orphans’ Court’s
+determination that the Will, the Trust, the
+Addendum and their combined distributive
+scheme 
+are 
+valid 
+and 
+enforceable.
+Appellants’ tortious interference with
+inheritance claims, by contrast, require no
+such contradiction. 
+19
+however, was the fact that the Delaware
+courts did not unambiguously permit
+tortious interference with inheritance
+claims in the courts of general jurisdiction.
+Id. at 710 & n.4.  That being so, it was not
+the province of the federal courts to
+entertain actions whose de facto effect
+would be to re-allocate estate assets post-
+probate.  
+But unlike in Moore, the state
+courts in this case do unambiguously
+recognize the viability, outside the probate
+context, of claims for tortious interference
+with inheritance.  State law, therefore,
+compels a different result in this case.
+Pennsylvania law permits actions for
+tortious interference with inheritance in
+the courts of general jurisdiction and a
+federal court must adjudicate such claims
+just as they would any other tort claim
+brought pursuant to our diversity
+jurisdiction.18
+The District Court has jurisdiction
+to consider Appellants’ claims for slander
+and tortious interference with inheritance.
+Of course, we take no position as to
+whether the Appellants have alleged
+sufficient facts to meet the elements of
+those torts as the Pennsylvania courts have
+defined them.  That inquiry is for the
+District Court.19
+18 State law also compels the
+difference between our result and the
+Seventh Circuit’s holding in Storm.  328
+F.3d at 945.  Storm was strongly guided by
+the fact that the plaintiff/appellant failed to
+meet a state law jurisdictional prerequisite
+for 
+his 
+tortious 
+interference 
+with
+inheritance claim.
+[Tortious] interference with
+inheritance is a recognized
+tort in Indiana; such an
+action may be brought in a
+court of general jurisdiction,
+provided a will contest is
+unavailable to supply an
+adequate remedy.
+Id. (emphasis added, citations omitted).
+Even though “Indiana law would require
+[his] tort claim be heard in the probate
+[court],” plaintiff/appellant Storm sued in
+federal court rather than wait for the will
+to be admitted to probate.  Id. at 945.
+Storm failed, therefore, to meet the state
+law jurisdictional prerequisite that “a will
+contest [be] unavailable to supply an
+adequate remedy.”  That being so, the
+Indiana courts of general jurisdiction—
+and, 
+by 
+extension, 
+the 
+federal
+courts—could not entertain Storm’s action
+for tortious interference with inheritance.
+Id. at 945-946.  The Seventh Circuit
+dismissed the claim, calling the action “in
+substance a will contest.”  Id. at 945.
+By contrast, the Pennsylvania courts
+contemplate 
+no 
+such 
+jurisdictional
+prerequisite to bringing a claim for tortious
+interference with inheritance.  The
+concerns that guided the result in Storm,
+therefore, are not present here.  
+19 For example, in resolving the
+still-undecided cross motions for summary
+judgment as they apply to Appellants’
+claims for tortious interference with
+inheritance, the District Court will have to
+determine whether the facts as alleged
+20
+III.
+For the foregoing reasons, the
+judgment of the District Court will be
+affirmed in part and reversed in part and
+the case will be remanded for further
+proceedings in accordance with this
+opinion.
+establish that Ms. King intended to change
+her will to benefit the Appellants and that
+she would have succeeded in doing so but
+for the Appellees’ actions.

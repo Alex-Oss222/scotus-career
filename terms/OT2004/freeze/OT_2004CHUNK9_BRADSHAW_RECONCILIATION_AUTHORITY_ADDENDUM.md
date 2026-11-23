@@ -1,0 +1,9 @@
+# Bradshaw v. Stumpf — additive reconciliation authority check
+
+This addendum is read with `OT_2004CHUNK9_BRADSHAW_RECONCILED.md`. It changes no frozen vote, common-opinion join, separate-writing alignment or remand. The June 6 additive public-law condition remains outstanding.
+
+The actual Herrera v. Collins holding, copied in entering-law B, is narrower than the historical Thomas concurrence's description of a general bar to newly discovered innocence claims. Five Justices adopted only the record-specific rejection of Herrera's delayed and materially inconsistent affidavits. No controlling opinion recognizes or rejects a freestanding constitutional innocence claim or fixes its general burden. Thomas and Scalia joined O'Connor's plurality; their skepticism about turning new evidence into an independent federal constitutional claim is their supported position, not a controlling categorical foreclosure. The Bradshaw separate summary must preserve that distinction. Its common remand does not depend on resolving freestanding innocence.
+
+The actual Horn v. Banks rule requires adjudication of a properly preserved and applicable Teague defense before granting relief; it neither revives a forfeited defense nor demands an inflexible sequence before every denial. Thomas's historical discussion of defenses not argued in Bradshaw supplies no adjudication of preservation or renewed availability. The common opinion directs consideration of the actual independent sentencing claim under its proper predicates, without entering a new default or Teague ruling.
+
+Both propositions were checked in the authorized `../entering-law/OT_2004CHUNK9_B.md` authority copy. These are legal-authority clarifications of the historical comparison, not added objective case facts or a changed neutral premise.

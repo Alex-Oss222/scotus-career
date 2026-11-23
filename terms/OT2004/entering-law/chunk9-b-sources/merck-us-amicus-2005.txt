@@ -1,0 +1,352 @@
+Source: https://www.justice.gov/osg/brief/merck-v-integra-lifesciences-amicus-merits
+
+Office of the Solicitor General |  Merck v. Integra Lifesciences - Amicus (Merits) | United States Department of Justice
+Skip to main content
+An official website of the United States government
+Here's how you know
+Here's how you know
+Official websites use .gov
+A .gov website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A lock (
+Lock
+Locked padlock
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+DOJ Menu
+U.S. Department
+of Justice
+About
+The Attorney General
+Organizational Chart
+Budget & Performance
+History & Museum
+Privacy Program
+Our Work
+News
+Press Releases
+Speeches
+Videos
+Photo Galleries
+Blogs
+Podcasts
+Resources
+Guidance Documents
+Forms
+Publications
+Information for Victims in Large Cases
+Justice Manual
+Business and Contracts
+Grants
+Employment
+Why Justice ?
+Benefits
+DOJ Vacancies
+Legal Careers at DOJ
+Our Offices
+Find Help
+Contact Us
+Utilities
+Our Offices
+Find Help
+Contact Us
+Search
+Menu
+Close
+About
+About
+Solicitors General 1870 - Present
+The Solicitor General in Historical Context
+Briefs
+Employment Opportunities
+FOIA
+Contact
+Our Offices
+Find Help
+Contact Us
+Main Menu
+U.S. Department of Justice
+About
+title="About"
+About
+The Attorney General
+Organizational Chart
+Budget & Performance
+History & Museum
+Privacy Program
+Our Work
+News
+title="News"
+News
+Press Releases
+Speeches
+Videos
+Photo Galleries
+Blogs
+Podcasts
+Resources
+title="Guidance & Resources"
+Resources
+Guidance Documents
+Forms
+Publications
+Information for Victims in Large Cases
+Justice Manual
+Business and Contracts
+Grants
+Employment
+Employment
+Why Justice ?
+Benefits
+DOJ Vacancies
+Legal Careers at DOJ
+Our Offices
+Find Help
+Contact Us
+Search
+Breadcrumb
+Justice.gov
+Office of the Solicitor General
+Briefs
+Merck V. Integra Lifesciences - Amicus (Merits)
+Brief
+Merck v. Integra Lifesciences - Amicus (Merits)
+Share
+Facebook
+X
+LinkedIn
+Email
+Docket Number
+No. 03-1237
+Supreme Court Term
+2004 Term
+Type
+Merits Stage Amicus Brief
+Court Level
+Supreme Court
+No. 03-1237
+In the Supreme Court of the United States
+MERCK KGAA, PETITIONER
+v.
+INTEGRA LIFESCIENCES I, LTD., ET AL.
+ON WRIT OF CERTIORARI
+TO THE UNITED STATES COURT OF APPEALS
+FOR THE FEDERAL CIRCUIT
+BRIEF FOR THE UNITED STATES
+AS AMICUS CURIAE SUPPORTING PETITIONER
+PAUL D. CLEMENT
+Acting Solicitor General
+Counsel of Record
+PETER D. KEISLER
+Assistant Attorney General
+THOMAS G. HUNGAR
+Deputy Solicitor General
+DARYL JOSEFFER
+Assistant to the Solicitor
+General
+DOUGLAS N. LETTER
+MARK S. DAVIES
+Attorneys
+Department of Justice
+Washington, D.C. 20530-0001
+(202) 514-2217
+ALEX M. AZAR II
+General Counsel
+GERALD F. MASOUDI
+Acting Associate General
+Counsel, Food & Drug
+Division
+BARBARA MCGAREY
+Deputy Associate General
+Counsel for Public Health
+RICHARD LAMBERT
+Counsel for Intellectual
+Property
+Department of Health &
+Human Services
+Washington, D.C. 20201
+JAMES A. TOUPIN
+General Counsel
+JOHN M. WHEALAN
+Deputy General Counsel for
+Intellectual Property Law
+RAYMOND T. CHEN
+HEATHER F. AUYANG
+Associate Solicitors
+Patent and Trademark Office
+Alexandria, Va 22313
+QUESTION PRESENTED
+Under 35 U.S.C. 271(e)(1), it is generally not an act of infringement to use a patented invention "solely for uses reasonably related to the development and submission of information under a Federal law" regulating the manufacture, use, or sale of drugs. The question presented is whether the court of appeals erred in limiting that exemption to clinical studies designed to provide information for Food and Drug Administration approval of a new drug.
+In the Supreme Court of the United States
+No. 03-1237
+MERCK KGAA, PETITIONER
+v.
+INTEGRA LIFESCIENCES I, LTD., ET AL.
+ON PETITION FOR A WRIT OF CERTIORARI
+TO THE UNITED STATES COURT OF APPEALS
+FOR THE FEDERAL CIRCUIT
+BRIEF FOR THE UNITED STATES
+AS AMICUS CURIAE
+INTEREST OF THE UNITED STATES
+This case concerns an exemption to the patent laws that permits the use of patented inventions in activities "reasonably related to the development and submission of information" under federal drug laws. 35 U.S.C. 271(e)(1). Because the Department of Health and Human Services administers those drug laws and receives information submitted pursuant to them, it is uniquely situated to address the scope of the exemption. More generally, the Food and Drug Administration (FDA) is responsible for ensuring the safety and effectiveness of new drugs, and the National Institutes of Health (NIH) plays a key role in promoting the discovery and development of new drugs. The United States also has a strong interest in a stable, predictable, and efficient patent system, which the Patent and Trademark Office helps to administer. At the invitation of the Court, the United States filed a brief as amicus curiae at the petition stage of this case.
+STATEMENT
+1. Under the Patent Act, "whoever without authority makes, uses, offers to sell, or sells any patented invention * * * during the term of the patent therefor, infringes the patent." 35 U.S.C. 271(a). As part of the Drug Price Competition and Patent Term Restoration Act of 1984 (the 1984 Act), Pub. L. No. 98-417, § 202, 98 Stat. 1585, Congress exempted certain conduct from that general rule:
+It shall not be an act of infringement to make, use, offer to sell, or sell * * * a patented invention * * * solely for uses reasonably related to the development and submission of information under a Federal law which regulates the manufacture, use, or sale of drugs.
+35 U.S.C. 271(e)(1) (the FDA exemption).
+The Federal Food, Drug, and Cosmetic Act (FFDCA), 21 U.S.C. 301 et seq., is one such law "regulat[ing] the manufacture, use, or sale of drugs." 35 U.S.C. 271(e)(1). Under the FFDCA, new drugs may not be introduced into interstate commerce until FDA has determined that they are safe and effective. See 21 U.S.C. 355(a) and (d). Drug manufacturers typically submit information to FDA at two stages of the drug development process. A manufacturer first submits an investigational new drug application (IND) seeking authorization to conduct clinical trials (i.e., trials on humans) in order to investigate the safety and effectiveness of the drug. See 21 U.S.C. 355(i) (2000 & Supp. 2001); 21 C.F.R. 312.20. In determining whether to permit clinical trials to proceed, FDA considers whether "the drug involved represents an unreasonable risk to the safety of the persons who are the subjects of the clinical investigation." 21 U.S.C. 355(i)(3)(B)(i). The IND must be supported by pre-clinical research regarding the safety and efficacy of the drug, including "pharmacological and toxicological studies of the drug involving laboratory animals or in vitro." 21 C.F.R. 312.23(a)(8); see 21 C.F.R. 312.23(a)(3) and (5).
+If clinical trials succeed, a manufacturer may submit a new drug application (NDA) seeking approval to market the drug. See 21 U.S.C. 355(b). FDA may approve a drug for marketing only if the applicant has shown that the drug is both safe and effective. 21 U.S.C. 355(b) and (d). To make that showing, an applicant must provide the results of clinical trials (21 C.F.R. 314.50(d)(5)), as well as a description of pre-clinical "animal and in vitro studies with [the] drug." 21 C.F.R. 314.50(d)(2).
+2. Respondent Integra LifeSciences I, Ltd., owns several patents related to the RGD peptide, which is a sequence of amino acids that promotes cell adhesion by interacting with (vß3 receptors on the surfaces of cells. Dr. David Cheresh, a scientist at The Scripps Research Institute (Scripps), which is partially funded by petitioner, determined that (vß3 receptors are involved in angiogenesis, the process of blood vessel proliferation by which tumors in the body obtain blood that allows them to grow. Cheresh attempted to block (vß3 receptors in hopes of preventing angiogenesis, and thereby halting the growth of cancerous tumors. Blocking the receptors might also treat other diseases such as rheumatoid arthritis. See Pet. App. 4a-5a.
+In 1993, Cheresh succeeded in inhibiting tumor growth in chicken embryos by using an antibody to block (vß3 receptors. See C.A. App. 7150-7157. After additional experiments showed that an RGD peptide called EMD 66203 could produce similar results, Cheresh conducted the first experiment at issue in this case-a chicken embryo experiment using an RGD peptide to block (vß3 receptors-in August 1994. See J.A. 269a-270a; Supp. J.A. 3.
+Because of Cheresh's success in preventing tumor growth, petitioner and Scripps entered into a new research agreement in 1995, the stated "[g]oal" of which was the "successful performance of necessary experiments to satisfy the biological bases and regulatory (FDA) requirements for the implementation of clinical trials." J.A. 90a. Under that agreement, EMD 66203 and other compounds would be "tested at Scripps" for "half-life, toxicity and efficacy" in inhibiting angiogenesis. J.A. 85a-87a. While Scripps performed that work, Merck would conduct "[t]oxicological, pharmacokinetic and biodistribution studies." J.A. 93a. The agreement contemplated that Merck would commence clinical trials within three years. See J.A. 86a, 93a.
+The ensuing experiments identified two derivatives of EMD 66203 that appeared to be even more promising: EMD 85189 and EMD 121974. Pet. App. 5a. Animal and other pre-clinical testing continued on all three RGD peptides:
+Scripps scientists conducted several in vivo and in vitro experiments "to evaluate the specificity, efficacy, and toxicity of EMD 66203, 85189 and 121974 for various diseases, to explain the mechanism by which these drug candidates work, and to determine which candidates were effective and safe enough to warrant testing in humans."
+Ibid.; see Supp. J.A. 3-5 (listing relevant experiments). Scripps also tested a number of other compounds. See J.A. 463a-464a, 479a-480a.
+In 1997, Scripps determined that EMD 121974 was the best candidate for drug development. Pet. App. 6a. In 1999, the National Cancer Institute (NCI), a component of NIH, filed an IND for EMD 121974. C.A. App. 29.
+3. In 1996, while Scripps' research was progressing, respondents brought suit against petitioner for patent infringement. Respondents claimed, inter alia, that Cheresh and Scripps infringed various patents relating to the RGD peptides, and that petitioner had willfully infringed the patents, in part by supplying EMD 66203 to Cheresh and Scripps.
+The district court entered a judgment of infringement against petitioner. Pet. App. 45a-46a. After ruling that all of the experiments conducted before August 1994 were protected by a common law "experimental use" exemption, the court instructed the jury to determine whether the other experiments were covered by the FDA exemption:
+To prevail on this defense, Merck must prove by a preponderance of the evidence that it would be objectively reasonable for a party in Merck's and Scripps' situation to believe that there was a decent prospect that the accused activities would contribute, relatively directly, to the generation of the kinds of information that are likely to be relevant in the processes by which the FDA would decide whether to approve the product in question.
+Id. at 39a. The jury returned a verdict that petitioner, Scripps, and Cheresh willfully infringed respondents' patents, and that the FDA exemption was not applicable. J.A. 58a-63a. The jury awarded $15 million in damages. Pet. App. 4a.
+Respondents asked the district court to treble the damages award based on the jury's finding of willfulness. The court rejected that request, in part because "much of the evidence at trial established that the accused experiments generated the types of information that are submitted to the FDA." Pet. App. 40a. The court denied, however, petitioner's motion for judgment as a matter of law. Id. at 48a-49a.
+4. A divided panel of the Federal Circuit affirmed the district court's liability ruling. Pet. App. 4a, 8a-14a. The majority noted that because the "focus of the entire exemption is the provision of information to the FDA," Section 271(e)(1) "simply does not globally embrace all experimental activity that at some point, however attenuated, may lead to an FDA approval process." Id. at 11a, 13a.
+Instead, the court of appeals held that "the district court correctly confined the § 271(e)(1) exemption to activity that 'would contribute (relatively directly)' to information the FDA considers in approving a drug." Pet. App. 13a (quoting Intermedics, Inc. v. Ventritex, Inc., 775 F. Supp. 1269, 1280 (N.D. Cal. 1991), aff'd, 991 F.2d 808 (Fed. Cir. 1993) (Table)). The panel reasoned that FDA "has no interest in the hunt for drugs that may or may not later undergo clinical testing for FDA approval," and "does not require information about drugs other than the compound featured in an Investigational New Drug application." Id. at 12a. The court thereby determined that although "clinical" research qualifies for the exemption, "the pre-clinical research conducted under the Scripps-Merck agreement" does not. Id. at 10a.
+The court of appeals relied on legislative history suggesting that "the express objective of the 1984 Act was to facilitate the immediate entry of safe, effective generic drugs." Pet. App. 12a; see id. at 9a. In the court's view, "the context of this safe harbor" demonstrates a focus on "facilitating expedited approval of" generic versions of patented drugs "already on the market." Id. at 13a.
+After affirming the judgment as to liability, the court of appeals reversed the jury's $15 million damages award as excessive. Pet. App. 17a-22a. The court remanded for the district court to award damages based on "the results of a hypothetical negotiation between the patentee and the infringer at a time before the infringing activity began." Id. at 18a.
+Judge Newman dissented from the liability determination. Pet. App. 24a-35a. In her view, all of Cheresh's experiments are exempt under either the FDA exemption or the common law experimental use exemption. Id. at 35a. Judge Newman noted that this Court has interpreted Section 271(e)(1) to have a "broader scope" than generic drugs. Id. at 32a (citing Eli Lilly & Co. v. Medtronic, Inc., 496 U.S. 661 (1990)). Although she agreed with the majority that the FDA exemption does not "reach back down the chain of experimentation to embrace development and identification of new drugs," Judge Newman concluded that all of the research at issue "was either exempt exploratory research, or was immunized by § 271(e)(1)." Id. at 33a. "It would be strange," she explained, "to create an intervening kind of limbo, between exploratory research subject to exemption, and the FDA statutory immunity, where the patent is infringed and the activity can be prohibited." Ibid.
+The Federal Circuit denied rehearing and rehearing en banc. Pet. App. 54a. At the same time, the panel issued an "errata" sheet stating that the "scope of the safe harbor is not limited to generic drug approval," but that nonetheless "the history of the 1984 Act" as described by the panel "informs the breadth of the statutory test." Id. at 36a. The panel also made related edits to its opinion, but did not change the portions of its opinion indicating that only clinical studies are covered by the FDA exemption. See id. at 36a-37a.1
+SUMMARY OF ARGUMENT
+The court of appeals erred by limiting the FDA exemption to clinical studies. Section 271(e)(1) protects all uses that are reasonably related to the development and submission of information under any federal drug law. Because FDA requires the submission of pre-clinical studies as part of an IND, such studies are protected by the plain language of the statute. A contrary interpretation could effectively limit the exemption to generic drugs, in contravention of the policies animating the 1984 Act.
+Properly construed, the exemption protects experiments that are undertaken in the course of an attempt to develop a particular drug and are reasonably related to the development of information that would be relevant to an IND or NDA. The exemption begins to apply once a researcher has progressed beyond basic research, developed a concept for a drug, and begun attempting to develop that drug. At that point, the development of the types of information that would be relevant to an IND is "reasonably related" to FDA processes because it is reasonably foreseeable that if the research succeeds, an IND will be submitted. Researchers need considerable latitude in determining which studies to conduct, both because they cannot know in advance whether a study will succeed, and because FDA has not specified either the precise experiments that must be undertaken or the requisite amount of information that must be submitted.
+In this case, many, if not all, of the challenged experiments appear to be protected. Scripps undertook those experiments after it had progressed beyond the basic research stage and during the time period in which it was attempting to develop a particular drug. Many, if not all, of the experiments relate to matters, such as efficacy, that FDA considers in determining whether to permit clinical trials to proceed.
+ARGUMENT
+THE FDA EXEMPTION PROTECTS ALL ACTIVITIES THAT ARE UNDERTAKEN IN THE COURSE OF ATTEMPTING TO DEVELOP A PARTICULAR DRUG AND ARE REASONABLY RELATED TO THE DEVELOPMENT OF THE TYPES OF INFORMATION THAT WOULD BE RELEVANT TO AN INVESTIGATIONAL NEW DRUG APPLICATION OR NEW DRUG APPLICATION
+A. The Exemption Is Not Limited To Clinical Research
+The court of appeals drew a sharp distinction between "general" and "clinical" research, and indicated that only the latter falls within the exemption. Pet. App. 12a, 14a. In discussing the experiments at issue, the court stressed that the studies were "pre-clinical" as opposed to "clinical," and thus were not exempt. See, e.g., id. at 12a ("the Scripps work sponsored by Merck was not 'solely for uses reasonably related' to clinical testing for FDA") (emphasis added); id. at 10a (identifying "the question arising in this case" as being "whether the pre-clinical research conducted under the Scripps-Merck agreement is exempt from liability") (emphasis added); id. at 12a ("the Scripps work sponsored by Merck was not clinical testing to supply information to the FDA") (emphasis added).
+The court of appeals erred in adopting that unduly narrow view of the FDA exemption. Under 35 U.S.C. 271(e)(1), the use of a patented invention "solely for uses reasonably related to the development and submission of information under a Federal law which regulates the manufacture, use, or sale of drugs" is exempt from liability for patent infringement. The plain language of the FDA exemption and of the drug laws and regulations, not to mention the policy behind the FDA exemption, establish that much of the pre-clinical research that is conducted before the submission of an IND to FDA falls within the scope of the exemption.
+1. The exemption applies to pre-clinical studies that are reasonably related to a potential IND or NDA
+Congress expressly contemplated that pre-clinical studies would be submitted to FDA. Under the FFDCA, a new drug intended for human use cannot be introduced into interstate commerce until the Secretary of Health and Human Services has determined that it is both safe and effective. 21 U.S.C. 355(a) and (d). In order to facilitate clinical testing of new drugs, Congress has exempted from the pre-market safety and effectiveness requirements "drugs intended solely for investigational use by experts qualified by scientific training and experience to investigate the safety and effectiveness of drugs." 21 U.S.C. 355(i)(1) (2000 & Supp. 2001). Congress authorized the Secretary to promulgate regulations "conditioning such exemption upon * * * the submission to the Secretary * * * of preclinical tests (including tests on animals) of such drug adequate to justify the proposed clinical testing." 21 U.S.C. 355(i)(1)(A) (emphasis added). Based on the results of those pre-clinical tests, FDA may prohibit clinical testing if it finds that "the drug involved represents an unreasonable risk to the safety of the persons who are the subjects of the clinical investigation." 21 U.S.C. 355(i)(3)(B)(i).
+Pursuant to the FFDCA, the Secretary promulgated regulations establishing the IND process. See 21 C.F.R. 312.1 et seq. Those regulations do not require the submission of any specific studies (see, e.g., 21 C.F.R. 312.23(a)(8)), but they expressly contemplate the submission of data from pre-clinical experiments. In particular, the regulations require a "summary of the pharmacological and toxicological effects of the drug in animals," "[a]dequate information about pharmacological and toxicological studies of the drug involving laboratory animals or in vitro," and explanation of the "rationale for the drug or the research study." 21 C.F.R. 312.23(a)(3)(iv)(a), (5)(ii) and (8). Without data from pre-clinical experiments, an applicant could not satisfy those requirements.
+At the IND stage, FDA also considers pre-clinical studies related to the effectiveness of a drug in determining whether clinical trials would pose an "unreasonable risk" to the safety of participants in the trials. See 21 U.S.C. 355(i)(3)(B)(i). FDA might allow clinical testing of a drug that posed significant safety concerns if the drug had a sufficiently positive potential to address a serious disease, although the agency would not accept similar risks for a drug that was less likely to succeed or that would treat a less serious medical condition. Thus, the Investigator's Brochure included in an IND (21 C.F.R. 312.23(a)(5)) must provide the reader with sufficient information to "make his/her own unbiased risk-benefit assessment of the appropriateness of the proposed clinical trial." Guidance for Industry, Good Clinical Practice: Consolidated Guidance 43 (Apr. 1996) (Consolidated Guidance) <http://www.fda.gov/cder/guidance/959fnl.pdf>. Participants in clinical trials must likewise receive "[a] description of any benefits * * * which may reasonably be expected from the research" (21 C.F.R. 50.25(a)(3)), and the independent Institutional Review Boards that oversee the conduct of clinical trials will block trials from proceeding unless "[r]isks to subjects are reasonable in relation to anticipated benefits." 21 C.F.R. 56.111(a)(2).
+While clinical trials are proceeding, the sponsor of the trials must submit annual reports to FDA detailing the progress of the investigations. 21 C.F.R. 312.33. Because researchers often continue to conduct "pre-clinical" studies on animals or in vitro even after clinical trials have begun,2 FDA requires that each annual report include "[a] list of the preclinical studies (including animal studies) completed or in progress during the past year and a summary of the major preclinical findings." 21 C.F.R. 312.33(b)(6).
+In addition to considering pre-clinical research at the IND stage and throughout the course of the clinical trials, FDA also considers such research in deciding whether to approve an NDA. Congress required that each NDA include "full reports of investigations which have been made to show whether or not such drug is safe for use and whether such drug is effective in use." 21 U.S.C. 355(b)(1). FDA's regulations implement that directive by requiring, inter alia, a description of "animal and in vitro studies with [the] drug," including "[s]tudies of the pharmacological actions of the drug in relation to its proposed therapeutic indication" and "[s]tudies of the toxicological effects of the drug." 21 C.F.R. 314.50(d)(2)(i) and (ii).
+In sum, the results of pre-clinical research are routinely submitted to FDA under the FFDCA. As FDA has explained, "[m]any drugs thought to be of potential value in treating human disease are introduced into development based on knowledge of in vitro receptor binding properties and identified pharmacodynamic effects in animals." FDA, Guidance for Industry Exposure-Response Relationships- Study Design, Data Analysis, and Regulatory Applications 3 (Apr. 2003) <http://www.fda.gov/cber/gdlns/exposure. htm>. Such pre-clinical research is protected by the plain language of Section 271(e)(1), which encompasses all uses reasonably related to the development and submission of information under any federal drug law.
+2. Limiting the exemption to clinical research would contravene the policies underlying the 1984 Act
+The policy concerns animating the FDA exemption also counsel against limiting the exemption to clinical research. Such a limitation would thwart Congress's intent to permit manufacturers to develop new products and obtain regulatory approvals for those products before the expiration of their competitors' patents.
+a. The patent laws are generally intended to strike "a balance between the need to encourage innovation and the avoidance of monopolies which stifle competition without any concomitant advance in the 'Progress of Science and useful Arts.'" Bonito Boats, Inc. v. Thunder Craft Boats, Inc., 489 U.S. 141, 146 (1989) (quoting U.S. Const. Art. I, § 8, Cl. 8). Patent holders are entitled to exclude others from using their inventions for a limited time, but "after the expiration of a federal patent, the subject matter of the patent passes to the free use of the public as a matter of federal law." Id. at 152.
+Before Congress enacted Section 271(e)(1), however, the expiration of a drug patent did not lead to the immediate passing of the invention to the free use of the public. Because the patent laws generally prohibit the mere use of a patented invention, drug manufacturers could not conduct tests on potential new products until after all relevant patents had expired. See Roche Prods., Inc. v. Bolar Pharm. Co., 733 F.2d 858, 861 (Fed. Cir. 1984). Yet until the manufacturer completed safety and efficacy testing and obtained FDA approval, the manufacturer could not market the drug. Thus, "the combined effect of the patent law and the premarket regulatory approval requirement was to create an effective extension of the patent term." Eli Lilly & Co. v. Medtronic, Inc., 496 U.S. 661, 670 (1990); see H.R. Rep. No. 857, 98th Cong., 2d Sess. Pt. 1, at 46 (1984). The length of that extension could be quite significant: FDA has estimated that, on average, it takes more than eight years "to study and test a new drug before the agency can approve it for the general public." From Test Tube to Patient at 15.3
+Congress sought to eliminate that effective extension of the patent term by "allow[ing] competitors, prior to the expiration of a patent, to engage in otherwise infringing activities necessary to obtain regulatory approval." Eli Lilly, 496 U.S. at 671; see H.R. Rep. No. 857, supra, Pt. 1, at 45 ("The purpose of [the exemption] is to establish that experimentation with a patented drug product, when the purpose is to prepare for commercial activity which will begin after a valid patent expires, is not a patent infringement."). The manufacturer may not, however, market the new product until after all relevant patents expire. Congress thus balanced the relevant considerations by eliminating the effective extension of the patent term while continuing to permit patent holders to exclude others from the marketplace for the full term of their patents. See id. at 45-46; id. Pt. 2, at 8-9, 29-30.
+The court of appeals' limitation of the FDA exemption to clinical studies would upset that balance. If a manufacturer could not conduct the pre-clinical studies necessary to obtain FDA approval to conduct clinical studies, "the exemption would never be reached because the underlying preliminary research and development work could not be undertaken." Bristol-Myers Squibb Co. v. Rhone-Poulenc Rorer, Inc., No. 95 Civ. 8833 (RPP), 2001 WL 1512597, at *6 (S.D.N.Y. Nov. 28, 2001). Such an evisceration of the exemption "would plainly frustrate Congress' intent." Ibid.
+b. The court of appeals rested its contrary view on a misunderstanding of congressional intent. Based on a review of the legislative history, the court determined (Pet. App. 12a, 13a) that Section 271(e)(1) should be read narrowly because "the express objective of the 1984 Act was to facilitate * * * generic drugs." Id. at 12a. Manufacturers of generic drugs are not ordinarily required to submit pre-clinical safety or effectiveness data. Instead, approval of a generic drug generally depends upon a showing that the generic is equivalent to the original. See 21 U.S.C. 355(j)(2). Based on its view that the statute focuses on generic drugs, the court therefore concluded that Congress did not intend to exempt "drug development activities far beyond those necessary for FDA approval" of a generic drug. Pet. App. 13a.
+The court of appeals' reasoning is inconsistent with this Court's determination in Eli Lilly that Section 271(e)(1) is not limited to generic drugs, but instead applies to the "entire statutory scheme of regulation," including "medical devices, food additives, color additives, new drugs, antibiotic drugs, and human biological products." 496 U.S. at 666, 674. This Court explained that although portions of the legislative history discuss generic drugs, "[i]t is not the law that a statute can have no effects which are not explicitly mentioned in its legislative history." Id. at 669 n.2 (quoting Pittston Coal Group v. Sebben, 488 U.S. 105, 115 (1988)); see Oncale v. Sundowner Offshore Serv., Inc., 523 U.S. 75, 79 (1998) (noting that statutory provisions "often go beyond the principal evil [that concerned Congress] to cover reasonably comparable evils, and it is ultimately the provisions of our laws rather than the principal concerns of our legislators by which we are governed.").
+Although the court of appeals issued an "errata" sheet indicating that "the scope of the safe harbor is not limited to generic drug approval," Pet. App. 36a, the revised opinion continues to suggest that the statutory exemption should be construed to focus primarily on generic drugs, and not to protect pre-clinical studies. See pp. 7, 8-9, supra. Thus, the court of appeals incorrectly narrowed the statutory exemption based in part on a mistaken view of congressional intent that has already been rejected by this Court.4
+B. The Exemption Applies to Activities That Are Undertaken In The Course Of Attempting To Develop A Particular Drug And Are Reasonably Related To The Development Of The Types Of Information That Would Be Relevant To An IND Or NDA
+Although the court of appeals erred in limiting the exemption to clinical studies, all three judges on the panel correctly recognized that Section 271(e)(1) does not reach all the way down the causal chain to "embrace all experimental activity that at some point, however attenuated, may lead to an FDA approval process." Pet. App. 13a; accord id. at 33a (Newman, J., dissenting). If Congress had desired to exempt all medical research, it could have easily done so. Instead, it tied the exemption to uses reasonably related to the development and submission of information to FDA.
+Properly construed, the exemption protects experiments that are: 1) undertaken in the course of an attempt to develop a particular drug, and 2) reasonably related to the development of the types of information that would be relevant to an IND or NDA. The first of those requirements identifies the point in the research process at which the exemption begins to apply; the second specifies the scope of research that is protected after that time.
+1. The exemption begins to apply when a researcher progresses beyond basic research and begins efforts to develop a particular drug
+The exemption begins to apply when a researcher has progressed beyond basic research and is engaged in focused efforts to develop a particular drug.
+a. Drug research begins with basic research "directed towards fundamental understanding of biology and disease processes." FDA, Innovation/Stagnation: Challenge and Opportunity on the Critical Path to New Medical Products 6 (Mar. 2004) (Innovation/Stagnation) <http://www.fda.gov/oc/ initiatives/criticalpath/whitepaper.pdf>. At the basic research stage, scientists "stud[y] how the body functions, both normally and abnormally, at its most basic levels." From Test Tube to Patient at 15. That research, "in turn, leads to a concept of how a drug might be used to prevent, cure, or treat a disease or medical condition." Ibid.
+Although non-commercial basic research may be protected by the common law experimental use exemption, basic research is not reasonably related to the submission of information to FDA because it is not directed toward the development of any particular drug. Instead, it lays the foundation for such work. Thus, any connection between basic research and the submission of an IND or NDA is too attenuated to satisfy the reasonable relationship requirement of Section 271(e)(1).
+Once a researcher has begun attempting to develop a particular drug, however, its efforts to develop that drug are reasonably related to the development and submission of information to FDA because it is reasonably foreseeable that, if those efforts succeed, an IND will be submitted on the basis of the research activities. In other words, research is not protected by the FDA exemption when a researcher is still searching for a concept for a drug, but once the researcher begins attempting to develop a substance with specific characteristics in order to achieve a specific objective, the research is protected.
+The facts of this case provide a good illustration. Cheresh conducted basic research for several years into cell receptors and angiogenesis. See Pet. App. 5a; C.A. App. 7124-7125. That research led him to conclude that (vß3 receptors are associated with newly-forming blood vessels, and that blocking such receptors on certain cells could, in theory, prevent the growth of blood vessels that nourish tumors. See Pet. App. 5a. Cheresh then ran experiments showing that an antibody could block (vß3 receptors, and that blocking those receptors would in fact prevent the growth of tumors in chicken embryos. See C.A. App. 7151-7157.
+Only after publishing the results of that work in April 1994 did Cheresh begin the first experiment at issue in this case, in August 1994. See C.A. App. 7154, 7157; Supp. J.A. 3. Thus, before the experiments at issue here began, Scripps had already moved beyond basic research, and had begun researching a particular drug-one that would block (vß3 receptors in order to prevent the growth of cancerous tumors, and potentially have other beneficial effects. As the court of appeals explained, the allegedly infringing experiments consisted of identifying candidates to use in that drug and "necessary experiments to satisfy the biological bases and regulatory (FDA) requirements for the implementation of clinical trials." Pet. App. 5a.
+b. The court of appeals suggested (Pet. App. 10a, 12a) that the exemption should not apply to work intended to "identif[y] the best drug candidate to subject to future clinical testing," but instead should apply only after a researcher settles on a single "compound featured in an Investigational New Drug Application." A researcher could not, however, settle on a particular compound unless it had already run tests on that compound that revealed it to be the best candidate for use in the drug. Thus, "screening" of compounds for use in a particular drug, including testing designed to compare the effects of the different compounds, is reasonably related to the development and submission of information to FDA because it allows the researcher to identify the appropriate compound or compounds to submit. The court of appeals' contrary view would eviscerate the exemption with respect to non-generic drugs, because a researcher would always have to conduct infringing tests before its work could qualify for the exemption. That counter-intuitive result finds no support in the text of Section 271(e)(1), and cannot be reconciled with this Court's rejection, in Eli Lilly, of the notion that the exemption is limited to generic drug research.
+Indeed, the number of compounds screened is often a matter of happenstance. As FDA has explained, "[s]ometimes, scientists are lucky and find the right compound quickly." From Test Tube to Patient at 16. Other times, "hundreds or even thousands [of compounds] must be tested." Ibid. As long as a scientist is working on developing a particular drug, however, the number of compounds screened has nothing to do with whether the screening was reasonably related to the development and submission of information to FDA. Instead, it reflects the luck (or intuition) of the scientist, or the difficulty of the task.
+c. Studies on compounds not selected for inclusion in the final version of a drug are protected by the FDA exemption not only because they are directly related to the determination of which compound or compounds to submit to FDA, but also because they are themselves sometimes included in INDs. If related compounds have similar charcteristics, experiments conducted on one such compound may be relevant to the safety or efficacy of others. FDA has therefore required that the Investigator's Brochure submitted as part of an IND include "[a] description of possible risks and side effects to be anticipated on the basis of prior experience with the drug under investigation or with related drugs." 21 C.F.R. 312.23(a)(5)(v) (emphasis added). Experiments on related substances can also help to explain the "rationale for the drug," which is another required element of an IND. 21 C.F.R. 312.23(a)(3)(iv)(a). The court of appeals therefore erred in asserting that "FDA does not require information about drugs other than the compound featured in an Investigational New Drug Application." Pet. App. 12a.
+The court also erred in assuming that INDs invariably focus on a single compound. FDA has developed a procedure, called a Screening IND, to permit a manufacturer to present multiple variants of a drug in a single IND, with a view toward researching "a number of closely related drugs to choose the preferred compound or formulation." FDA, Manual of Policies and Procedures, Center for Drug Evaluation & Research, INDs: Screening INDs 1 (2001) <http://www.fda.gov/cder/mapp/6030-4.pdf>. That procedure further underscores FDA's interest in reviewing the results of studies on compounds other than the one ultimately included in the final version of a drug.
+d. The statute expressly protects the development of such information. Section 271(e)(1) applies not only to the "submission" of information to FDA, but also to the "development" of information for submission to FDA. 35 U.S.C. 271(e)(1). Further, the statute protects all uses "reasonably" related to the development and submission of information, not only uses "directly" or "strictly" related to the compound ultimately chosen. Ibid. Congress thereby evinced an intent to protect more than the submission of information directly related to a particular compound. Indeed, the House Judiciary Committee rejected a "more limited" proposal that would have protected only uses "directly" related to the development and submission of information, and would have applied only during the last year of the terms of some patents. H.R. Rep. No. 857, supra, Pt. 2, at 60; see id. at 8-9. The court of appeals' narrow construction of the exemption is more consistent with that rejected proposal than with the statutory text actually enacted by Congress.5
+2. The exemption protects experiments that are reasonably related to the development of the types of information that would be relevant to an IND or NDA
+Once a researcher begins attempting to create a particular drug, the FDA exemption applies to all experiments that are reasonably related to the development of the types of information that would be relevant to an IND or NDA. In other words, "activities should only be found to exceed the scope of the § 271(e)(1) exemption when they have no objectively reasonable application toward obtaining FDA approval." Nexell Therapeutics, Inc. v. AmCell Corp., 199 F. Supp. 2d 197, 204-205 (D. Del. 2002).
+a. Most if not all of the work conducted during the relevant stages of drug development is protected by Section 271(e)(1). An IND must provide a wide variety of information, including information regarding: the rationale for the drug; the structure and mode of action of the drug; the absorption, distribution, metabolism, and excretion of the drug; the effectiveness of the drug under different conditions and for different populations; the toxicology and side effects of the drug; and the formulation and administration of the drug. See 21 C.F.R. 312.23(a). An NDA requires similar types of information, as well as the results of clinical trials. See 21 C.F.R. 314.50.
+FDA has not generally required that any particular experiments be undertaken in support of an IND. See From Test Tube to Patient at 17 ("FDA usually does not tell drug companies what specific laboratory or animal tests to run."). Nor has it specified the amount of data that should be generated. Instead, FDA's regulations provide that "[t]he amount of information on a particular drug that must be submitted in an IND * * * depends upon such factors as the novelty of the drug, the extent to which it has been studied previously, the known or suspected risks, and the developmental phase of the drug." 21 C.F.R. 312.22(b). Because "[t]he kind, duration, and scope of animal and other tests required varies" (21 C.F.R. 312.23(a)(8)), "[s]ponsors are expected to exercise considerable discretion * * * regarding the content of information submitted." 21 C.F.R. 312.22(d); see FDA, Guidance for Industry: Content and Format of Investigational New Drug Applications (INDs) for Phase 1 Studies of Drugs 2 (Nov. 1995) <http://www.fda. gov/cder/guidance/phase1.pdf> (noting that FDA's regulations "allow a great deal of flexibility in the amount and depth of various data to be submitted in an IND").
+Because "it will not always be clear to parties setting out to seek FDA approval for their new product exactly what kinds of information, and in what quantities, it will take to win that agency's approval," the courts have recognized that "considerable leeway" must be given to the applicant in determining which studies to undertake. Nexell, 199 F. Supp. 2d at 205 (quoting Intermedics, Inc. v. Ventritex, Inc., 775 F. Supp. 1269, 1280 (N.D. Cal. 1991), aff'd, 991 F.2d 808 (Fed. Cir. 1993) (Table)). In particular, the exemption cannot be limited to studies that, in retrospect, appear to have been strictly "necessary" to obtain FDA approval. Amgen, Inc. v. Hoechst Marion Roussel, Inc., 3 F. Supp. 2d 104, 110 (D. Mass. 1998). Otherwise, a researcher could lose the exemption "simply because it turn[ed] out, after the fact, that some of that party's otherwise infringing 'uses' either failed to generate information in which the FDA was interested or generated more information than turned out to be necessary to secure FDA approval." Intermedics, 775 F. Supp. at 1280. Especially in light of the in terrorem effect of potential treble damages awards, that approach would unacceptably chill new drug development by preventing researchers from ascertaining in advance whether their activities were protected by the exemption.6
+Thus, studies are protected if they are reasonably related to the development of the types of information that are relevant to an IND or NDA. See H.R. Rep. No. 857, supra, Pt. 1, at 45 ("The information which can be developed under this provision is the type which is required to obtain approval of the drug."). A more restrictive standard would not only make reliance on the exemption perilous, it could harm the public health by deterring additional research regarding the safety or efficacy of a potential new drug. Once research reaches the stage where otherwise infringing uses are permitted, it makes little sense to discourage thoroughness, and nothing in the statutory text compels that counter-intuitive result.7
+For similar reasons, the FDA exemption does not turn on whether the results of an experiment are actually used in a submission to FDA. A manufacturer cannot know in advance whether its research will be sufficiently successful to warrant submission of an IND, much less whether the results of any particular study will ultimately warrant inclusion in an IND. Thus, the legislative history recognizes that "[a] party which develops such information, but decides not to submit an application for approval, is protected as long as the development was done to determine whether or not an application for approval would be sought."8 H.R. Rep. No. 857, supra, Pt. 1, at 45; accord Bristol-Myers, 2001 WL 1512597, at *6; Amgen, 3 F. Supp. 2d at 110. Similarly, if an IND is submitted, the exemption is not limited to the studies included in the IND. A researcher should not be deprived of the exemption retroactively merely because some studies ultimately did not warrant inclusion in the IND. By the same token, however, the law should not be construed to create an artificial incentive to include irrelevant information in an IND, and a researcher should not be able to immunize itself from infringement by including such experiments in an IND.
+In addition to being prospective and broad, the legal standard is objective. See, e.g., Abtox, Inc. v. Exitron Corp., 122 F.3d 1019, 1030 (Fed. Cir. 1997). The statute does not look to a researcher's "intent" or "purpose." Instead, it applies to each "use" that is, in its entirety, "reasonably related" to the development and submission of information to FDA. 35 U.S.C. 271(e)(1). "'Reasonably related' is language that clearly has become associated with objective standards." Intermedics, 775 F. Supp. at 1279; see generally Stringer v. Black, 503 U.S. 222, 237 (1992). A subjective standard that produced less predictable results and prevented cases from being decided on summary judgment "would chill parties from engaging in the very pre-approval testing that Congress sought to encourage." Nexell, 199 F. Supp. 2d at 204.
+b. Under the proper legal standard, many if not all of the experiments at issue in this case appear to be protected by the FDA exemption. The court of appeals described the research as follows (Pet. App. 5a-6a):
+Scripps scientists conducted several in vivo and in vitro experiments "to evaluate the specificity, efficacy, and toxicity of EMD 66203, 85189 and 121974 for various diseases, to explain the mechanism by which these drug candidates work, and to determine which candidates were effective and safe enough to warrant testing in humans." In particular, these tests assessed the action of the cyclic RGD peptides, including the histopathology, toxicology, circulation, diffusion, and half-life of the peptides in the bloodstream. These tests also examined the proper mode of administering the peptides for optimum therapeutic effect.
+FDA's regulations require that INDs include information on all of the topics addressed by those tests as described by the court of appeals. An IND must include "adequate information about pharmacological and toxicological studies of the drug involving laboratory animals or in vitro," including the "pharmacological effects and mechanism(s) of action of the drug in animals, and information on the absorption, distribution, metabolism, and excretion of the drug, if known." 21 C.F.R. 312.23(a)(8)(i). Similarly, an IND must include an Investigator's Brochure that provides a summary of pharmacological, pharmacokinetic, and toxicological information gleaned from animal studies (21 C.F.R. 312.23(a)(5)(ii) and (iii)), including "studies that assess potential therapeutic activity (e.g., efficacy models, receptor binding, and specificity) as well as those that assess safety." Consolidated Guidance at 46; cf. 21 C.F.R. 312.23(a)(3)(iv)(f) and (a)(8)(ii) (requiring toxicological data). All of the types of studies described by the court of appeals, with the possible exception of studies regarding the proper mode of administering the peptides, appear to be directly relevant to those requirements. And the tests regarding administration of the peptides would be responsive to a separate requirement that the IND provide "a description of the dosing plan." 21 C.F.R. 312.23(a)(6)(i); see 21 C.F.R. 312.23(a)(iii)(e).
+The district court denied petitioner's motion for judgment as a matter of law based in large part on testimony by respondents' expert that FDA is concerned only with safety, not efficacy, and that Scripps' work "lacks an established relationship to human safety." Pet. App. 48a. As explained above, however, as important as safety is to FDA, it is not the agency's only concern. Moreover, safety cannot be assessed in the abstract without reference to efficacy. As a result, efficacy data must be submitted with an IND, because FDA would not ordinarily permit researchers to expose humans to a potentially harmful drug that was unlikely to work. See pp. 10, 25, supra; C.A. App. 7408, 11,024-11,028.9
+The district court also relied on expert testimony regarding the types of experiments conducted at Scripps and whether those experiments were "necessary in order to carry out any preclinical work required for Merck's RGD peptides." Pet. App. 49a. As explained above, however, the question is not whether any particular experiment was strictly "necessary;" rather, it is whether the experiments objectively relate to the development of the types of information that would be relevant to an IND. See pp. 22-24, supra. Under that standard, it appears that many if not all of the experiments are protected by the FDA exemption. In some of the experiments, for example, Scripps sought to determine whether the infringing peptides could inhibit angiogenesis and prevent tumor growth by blocking (vß3 receptors in chicken embryos, mice, or rabbits. See Supp. J.A. 3-5. Those types of studies appear to be relevant to the efficacy of the peptides. At least some of them also relate to the safety, mechanism of action, or pharmacology of the peptides, because they enabled Scripps to observe the action and effects of the peptides.
+Although not dispositive, it is telling that NCI filed an IND for EMD 121974, now called cilengitide, proposing to run clinical trials to assess the compound's safety and effectiveness against various forms of cancer. See Pet. App. 28a (Newman, J., dissenting); C.A. App. 29. At least some of the pre-clinical experiments conducted by Scripps were included in the IND because they relate to the effectiveness of the cancer-fighting properties of the drug.10 Some of the same pre-clinical experiments were also included in another cancer-related IND filed by a different company. J.A. 404a-405a. FDA permitted NCI to proceed with clinical trials, which are now underway. See NCI, Clinical Trial Results -Progress in Cancer Care (visited Feb. 10, 2005) <http:// clinicaltrials.nci.nih.gov/clinicaltrials>. Under the court of appeals' view, however, respondents could have blocked that promising cancer-fighting research in its incipiency.
+C. The Uncertain Status of Patents for Research Tools Under The Exemption Provides No Basis For Artificially Narrowing The Exemption As Applied To Other Patents
+The court of appeals adopted its narrow construction of the exemption in part because it feared that a broader construction would "vitiate" the exclusivity of patents for research tools. Pet. App. 13a-14a. The dividing line between research tools and other inventions is not always clear, in part because "the same material can have different uses, being a research tool in some contexts and a product in others." 64 Fed. Reg. 72,094 (1999). In general, research tools are devices, substances, or processes that are used to study other substances, in order to generate information about those other substances. See id. at 72,092 n.1; Pet. App. 34a-35a (Newman, J., dissenting). Because research tools are not part of the ultimate product, the sale of that product does not ordinarily infringe the patent on a true research tool. FTC, To Promote Innovation: The Proper Balance of Competition and Patent Law and Policy ch. 3, at 19 (2003) <www.ftc.gov/os/2003/10/innovationrpt.pdf>.11
+The court of appeals erred by artificially narrowing the statutory exemption in an effort to protect research tools. In the first place, it is unclear whether Section 271(e)(1) even applies to true research tools. By its terms, the exemption applies only to "a patented invention." 35 U.S.C. 271(e)(1). The term "invention" refers broadly to any "invention or discovery" "unless the context otherwise indicates." 35 U.S.C. 100(a) (emphasis added).
+The context of Section 271(e)(1) suggests that Congress may not have intended to include research tools within the scope of affected inventions. As explained above, Congress enacted the exemption to prevent the effective extension of patent terms due to FDA pre-marketing approval requirements. See pp. 13-14, supra. Because research tools are not typically subject to those requirements, and are not typically included in final products that are subject to FDA approval, that concern is generally inapplicable to research tools. Moreover, Congress intended that the exemption would "not have any adverse economic impact on a patent owner's exclusivity during the life of the patent," because it permits only "experimental activity." H.R. Rep. No. 857, supra, Pt. 1, at 46. Including research tools that are used only in experimentation within the scope of Section 271(e)(1) could adversely impact the only exclusive right that exists with respect to such tools-the right to use them in research. Because including research tools within the scope of affected inventions would not address the problem Congress sought to solve, and might cause a greater dimunition in patent value than Congress intended, Congress may well not have intended to include tool patents in the scope of affected inventions.12
+Even if Section 271(e)(1) does apply to research tools (a question the Court need not resolve), it is not readily apparent that the practical consequences of including the use of tool patents in Section 271(e)(1) would be as dire as the court of appeals predicted. Many research tools have valuable uses outside of the protected stages of drug development- including during the basic research stage. Some tools also have intrinsic value other than as drug research tools. And the difficulty of manufacturing many research tools may lead researchers to purchase the tools, along with implied licenses for their use, from the patent owners. See generally United States v. Univis Lens Co., 316 U.S. 241, 249-250 (1942).
+Although the impact of the court of appeals' holding on research tools is unclear, there is no question that the court's holding would restrict significantly the development of new drugs. As explained above, a researcher aware of a promising new cure involving a patented invention could not undertake the research necessary to develop the drug and obtain FDA approval. Unlike the uncertain effects on tools, that outcome would certainly strike at the heart of Congress's design by all but eviscerating the exemption as applied to new drugs other than generics. See pp. 13-14, supra.
+CONCLUSION
+The judgment of the court of appeals should be vacated and the case remanded for further proceedings consistent with this Court's decision.
+Respectfully submitted.
+PAUL D. CLEMENT
+Acting Solicitor General
+PETER D. KEISLER
+Assistant Attorney General
+THOMAS G. HUNGAR
+Deputy Solicitor General
+DARYL JOSEFFER
+Assistant to the Solicitor
+General
+DOUGLAS N. LETTER
+MARK S. DAVIES
+Attorneys
+ALEX M. AZAR II
+General Counsel
+GERALD F. MASOUDI
+Acting Associate General
+Counsel, Food & Drug
+Division
+BARBARA MCGAREY
+Deputy Associate General
+Counsel for Public Health
+RICHARD LAMBERT
+Counsel for Intellectual
+Property
+Department of Health &
+Human Services
+JAMES A. TOUPIN
+General Counsel
+JOHN M. WHEALAN
+Deputy General Counsel for
+Intellectual Property Law
+RAYMOND T. CHEN
+HEATHER F. AUYANG
+Associate Solicitors
+Patent and Trademark Office
+FEBRUARY 2005
+1 On remand, the district court found $1.5 million per year to be a reasonable royalty, prorated by month, and awarded damages of $6.375 million based on its determination that infringement began in August 1994 and ended in November 1998. Integra LifeSciences I, Ltd. v. Merck KGaA, No. 96 CV 1307-B(AJB), 2004 WL 2284001, at *11 (S.D. Cal. Sept. 7, 2004).
+2 Animal testing during the clinical phase can help, for example, to demonstrate whether long-term use of a drug results in disease or birth defects. See From Test Tube to Patient: Improving Health Through Human Drugs 17 (1999) (From Test Tube to Patient) <http://www.fda. gov/cder/about/whatwedo/testtube-full.pdf>.
+3 Although the courts have recognized a common law "experimental use" exemption to the patent laws, that exemption does not apply to commercial activities. See Madey v. Duke Univ., 307 F.3d 1351, 1362 (Fed. Cir. 2002), cert. denied, 539 U.S. 958 (2003); Gov't Br. at 8-9, Madey, supra. Thus, it does not eliminate this difficulty and is not at issue here. See Pet. App. 6a n.2.
+4 The court of appeals relied in part on a statement in a committee report that the exemption was intended to have only a de minimis effect on patent holders' rights. Pet. App. 9a, 12a-13a (citing H.R. Rep. No. 857, supra, Pt. 2, at 30). That statement is not inconsistent with the plain language of Section 271(e)(1). The exemption has a de minimis effect insofar as it authorizes only experimentation, and not marketing, during the term of a patent. But that does not mean that the exemption is limited to a de minimis amount of testing. Indeed, this Court recognized in Eli Lilly that "[e]ven if the competitive injury caused by the noninfringement provision is de minimis with respect to most drugs, surely it is substantial with respect to some of them." 496 U.S. at 678 n.7.
+5 The court of appeals noted (Pet. App. 11a) that "[t]he term 'solely' places a constraint on the inquiry into the limits of the exemption." That constraint, however, is not relevant to the interpretive question here. The statute authorizes making, using, selling, or offering to sell a patented invention "solely for uses reasonably related to the development and submission of information" to FDA. 35 U.S.C. 271(e)(1). Because "solely" modifies "uses," it makes clear that a researcher is not protected by the exemption insofar as he or she engages in uses that are not, in their entirety, reasonably related to the development and submission of information to FDA. "Solely" does not, however, modify "reasonably related." Thus, as long as the full extent of a particular use is reasonably related to the development and submission of information, that use is protected even if it also advances other objectives, such as product development or marketing. See Amgen, Inc. v. Hoechst Marion Roussel, Inc., 3 F. Supp. 2d 104, 107-108 (D. Mass. 1998). But the exemption is inapplicable to the extent that a portion of the particular use at issue does not satisfy the reasonable relationship test.
+6 Courts may award treble damages upon a finding of willful infringement. See 35 U.S.C. 284; Dowling v. United States, 473 U.S. 207, 227 n.19 (1985). In assessing willfulness, "the primary consideration is whether the infringer, acting in good faith and upon due inquiry, had sound reason to believe that it had the right to act in the manner that was found to be infringing." SRI Int'l, Inc. v. Advanced Tech. Labs., Inc., 127 F.3d 1462, 1464-1465 (Fed. Cir. 1997). In this case, the jury found that petitioner willfully infringed respondents' patents, but the district court exercised its discretion not to award treble damages. Pet. App. 38a-40a. Because even the threat of treble damages for infringement can have, and is intended to have, a substantial deterrent effect, an uncertain legal standard that facilitated threatened lawsuits for such damages would contravene Congress's intent to encourage drug development. Cf. Aro Mfg. Co. v. Convertible Top Replacement Co., 365 U.S. 336, 358-359 (1961) (Black, J., concurring).
+7 In Eli Lilly, this Court stated that Section 271(e)(1) "allows competitors * * * to engage in otherwise infringing activities necessary to obtain regulatory approval." 496 U.S. at 671. The Court made that observation in the context of describing the animating purposes of the 1984 Act, and it fairly captures the purposes of the Act. However, it is not a precise description of the scope of the exemption. As explained above, the exemption also permits some drug development activities that may not appear in hindsight to have been strictly "necessary" to obtain approval- an issue that was not before the Court in Eli Lilly.
+8 That is another reason why Section 271(e)(1) should be construed to exempt the screening and comparison of multiple compounds for use in a particular drug. See pp. 18-19, supra. At the time a compound is screened, it is reasonably foreseeable that an IND could be submitted for a drug including that compound if the test were to succeed. The possibility, or even likelihood, that testing on any particular compound will ultimately fail cannot change the exempt status of the experiment. Indeed, the "vast majority" of new drug research fails. Innovation/ Stagnation at ii; accord From Test Tube to Patient at 17. Far from depriving drug research of protection, that low likelihood of success only underscores the importance of the exemption to encouraging risky new drug development.
+9 For similar reasons, the district court erred in relying (Pet. App. 48a) on the fact that Scripps' laboratories did not meet FDA's Good Laboratory Practice (GLP) standards. Those standards apply to experiments conducted "to determine th[e] safety" of articles (21 C.F.R. 58.3(d)), not to animal studies regarding the "efficacy" of a drug. FDA, Good Laboratory Practice Regulations: Questions and Answers 4 (1981) <www.fda.gov/ cder/guidance/old004fn.pdf>. Even studies subject to the GLP requirements that do not comply with those requirements may be submitted in an IND with an explanation of the reasons for noncompliance. 21 C.F.R. 312.23(a)(8)(iii).
+10 The district court excluded NCI's IND from evidence. C.A. App. 29. We rely on it here to illustrate the importance of the types of research at issue in this case to the IND process.
+11 Scripps did not use the RGD peptides as research tools. Although respondents argued in the court of appeals that Scripps used the peptides as "'controls' to aid in screening other nonpeptide compounds for biologic activity" (Integra C.A. Br. 24), Scripps used the peptides in that manner only in the sense that it conducted experiments on the peptides at the same time that it conducted experiments on the other compounds, and then compared the results. See C.A. App. 6044-6047. Because petitioner researched the peptides as candidates for use in a potential new drug, that use cannot meaningfully be characterized as use of a "tool." As Judge Newman explained, the study of a substance itself is quite different from the use of that substance as a research tool. See Pet. App. 34a-35a (Newman, J., dissenting).
+12 Moreover, Congress intended Section 271(e)(1) "generally to be complementary" with 35 U.S.C. 156. Eli Lilly, 496 U.S. at 673. Section 156 extends the terms of patents on some products that are subject to FDA approval requirements in order to compensate for the patent holders' inability to benefit financially during the early years of the patent term before FDA approval of the product. Id. at 669-671. As this Court explained in Eli Lilly, Congress applied Sections 156 and 271(e)(1) to the same types of products. Id. at 673-674. Because research tool patents can not generally benefit from Section 156 insofar as such tools are not typically subject to FDA approval requirements, including such tools within the scope of Section 271(e)(1) would destroy the symmetry between those two provisions-another indication that Congress did not intend to include research tools within the scope of the inventions to which Section 271(e)(1) applies.
+Brief
+2003-1237.mer.ami.pdf
+[PDF, ]
+Updated October 21, 2014
+Office of the Solicitor General
+950 Pennsylvania Ave. NW
+Washington DC 20530-0001
+202-514-2203
+Signup for Email Updates
+Social Media
+About
+Budget & Performance
+Archives
+FOIA
+Accessibility
+Legal Policies & Disclaimers
+Privacy
+For Employees
+Office of the Inspector General
+No FEAR Act Data
+EEO Policy Statement
+Vulnerability Disclosure
+Multilingual
+Vote.gov
+Have a question about Government Services?
+Contact USA.gov
+Top

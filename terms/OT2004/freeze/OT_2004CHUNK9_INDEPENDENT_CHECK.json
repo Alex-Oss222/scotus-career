@@ -1,0 +1,368 @@
+{
+  "records": [
+    {
+      "file": "alaska-v-united-states_exceptions_2005-06-06.md",
+      "case": "Alaska v. United States; No. 128, Original.",
+      "date": "2005-06-06",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "file": "spector-v-norwegian-cruise-line-ltd_merits_2005-06-06.md",
+      "case": "Spector v. Norwegian Cruise Line Ltd.; No. 03-1388.",
+      "date": "2005-06-06",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "file": "united-states-v-kincade_merits_2005-06-06.md",
+      "case": "United States v. Kincade; review of 379 F.3d 813, Ninth Circuit en banc.",
+      "date": "2005-06-06",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "file": "bradshaw-v-stumpf_merits_2005-06-13.md",
+      "case": "Bradshaw v. Stumpf, No. 04-637; 545 U.S. 175.",
+      "date": "2005-06-13",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "file": "golden-v-golden_merits_2005-06-13.md",
+      "case": "Golden v. Golden; Third Circuit No. 03-2184; 382 F.3d 348. No separate Supreme Court docket is established.",
+      "date": "2005-06-13",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "file": "grable-and-sons-v-darue-engineering_merits_2005-06-13.md",
+      "case": "Grable & Sons Metal Products, Inc. v. Darue Engineering & Manufacturing, No. 04-603; 545 U.S. 308.",
+      "date": "2005-06-13",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "file": "johnson-v-california-batson_merits_2005-06-13.md",
+      "case": "Johnson v. California, No. 04-6964; 545 U.S. 162.",
+      "date": "2005-06-13",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "file": "merck-kgaa-v-integra-lifesciences_merits_2005-06-13.md",
+      "case": "Merck KGaA v. Integra Lifesciences I, Ltd., No. 03-1237; 545 U.S. 193.",
+      "date": "2005-06-13",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "file": "miller-el-v-dretke_merits_2005-06-13.md",
+      "case": "Miller-El v. Dretke, No. 03-9659; 545 U.S. 231.",
+      "date": "2005-06-13",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "file": "wilkinson-v-austin_merits_2005-06-13.md",
+      "case": "Wilkinson v. Austin, No. 04-495; 545 U.S. 209.",
+      "date": "2005-06-13",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "file": "american-trucking-associations-v-michigan-public-service-commission_merits_2005-06-20.md",
+      "case": "American Trucking Associations, Inc. v. Michigan Public Service Commission, No. 03-1230",
+      "date": "2005-06-20",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "file": "dodd-v-united-states_merits_2005-06-20.md",
+      "case": "Dodd v. United States, No. 04-5286",
+      "date": "2005-06-20",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "file": "graham-county-soil-water-conservation-district-v-united-states-ex-rel-wilson_merits_2005-06-20.md",
+      "case": "Graham County Soil & Water Conservation District v. United States ex rel. Wilson, No. 04-169",
+      "date": "2005-06-20",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "file": "rompilla-v-beard_merits_2005-06-20.md",
+      "case": "Rompilla v. Beard, No. 04-5462",
+      "date": "2005-06-20",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "file": "san-remo-hotel-v-city-and-county-of-san-francisco_merits_2005-06-20.md",
+      "case": "San Remo Hotel, L.P. v. City and County of San Francisco, No. 04-340",
+      "date": "2005-06-20",
+      "authors": [
+        "Stevens"
+      ]
+    }
+  ],
+  "deterministic_checks": [
+    {
+      "file": "alaska-v-united-states_exceptions_2005-06-06.md",
+      "counts": {
+        "Stone-Zsela": 7,
+        "Stevens": 8,
+        "O'Connor": 8,
+        "Scalia": 8,
+        "Kennedy": 7,
+        "Souter": 8,
+        "Thomas": 7,
+        "Ginsburg": 9,
+        "Breyer": 8
+      },
+      "last_counted": "Tucson Woman's Clinic v. Eden; review of 379 F.3d 531, amended August 23, 2004.",
+      "public_blocks": 11
+    },
+    {
+      "file": "spector-v-norwegian-cruise-line-ltd_merits_2005-06-06.md",
+      "counts": {
+        "Stone-Zsela": 7,
+        "Stevens": 8,
+        "O'Connor": 8,
+        "Scalia": 8,
+        "Kennedy": 9,
+        "Souter": 8,
+        "Thomas": 7,
+        "Ginsburg": 9,
+        "Breyer": 8
+      },
+      "last_counted": "Gonzales v. Raich, No. 03-1454.",
+      "public_blocks": 11
+    },
+    {
+      "file": "united-states-v-kincade_merits_2005-06-06.md",
+      "counts": {
+        "Stone-Zsela": 7,
+        "Stevens": 8,
+        "O'Connor": 8,
+        "Scalia": 8,
+        "Kennedy": 9,
+        "Souter": 9,
+        "Thomas": 7,
+        "Ginsburg": 9,
+        "Breyer": 8
+      },
+      "last_counted": "Spector v. Norwegian Cruise Line Ltd.; No. 03-1388.",
+      "public_blocks": 11
+    },
+    {
+      "file": "bradshaw-v-stumpf_merits_2005-06-13.md",
+      "counts": {
+        "Stone-Zsela": 8,
+        "Stevens": 8,
+        "O'Connor": 8,
+        "Scalia": 8,
+        "Kennedy": 9,
+        "Souter": 9,
+        "Thomas": 7,
+        "Ginsburg": 9,
+        "Breyer": 8
+      },
+      "last_counted": "United States v. Kincade; review of 379 F.3d 813, Ninth Circuit en banc.",
+      "public_blocks": 11
+    },
+    {
+      "file": "golden-v-golden_merits_2005-06-13.md",
+      "counts": {
+        "Stone-Zsela": 8,
+        "Stevens": 8,
+        "O'Connor": 9,
+        "Scalia": 8,
+        "Kennedy": 9,
+        "Souter": 9,
+        "Thomas": 7,
+        "Ginsburg": 9,
+        "Breyer": 8
+      },
+      "last_counted": "Bradshaw v. Stumpf, No. 04-637; 545 U.S. 175.",
+      "public_blocks": 11
+    },
+    {
+      "file": "grable-and-sons-v-darue-engineering_merits_2005-06-13.md",
+      "counts": {
+        "Stone-Zsela": 8,
+        "Stevens": 8,
+        "O'Connor": 9,
+        "Scalia": 8,
+        "Kennedy": 9,
+        "Souter": 9,
+        "Thomas": 8,
+        "Ginsburg": 9,
+        "Breyer": 8
+      },
+      "last_counted": "Golden v. Golden; Third Circuit No. 03-2184; 382 F.3d 348. No separate Supreme Court docket is established.",
+      "public_blocks": 11
+    },
+    {
+      "file": "johnson-v-california-batson_merits_2005-06-13.md",
+      "counts": {
+        "Stone-Zsela": 8,
+        "Stevens": 9,
+        "O'Connor": 9,
+        "Scalia": 8,
+        "Kennedy": 9,
+        "Souter": 9,
+        "Thomas": 8,
+        "Ginsburg": 9,
+        "Breyer": 8
+      },
+      "last_counted": "Grable & Sons Metal Products, Inc. v. Darue Engineering & Manufacturing, No. 04-603; 545 U.S. 308.",
+      "public_blocks": 11
+    },
+    {
+      "file": "merck-kgaa-v-integra-lifesciences_merits_2005-06-13.md",
+      "counts": {
+        "Stone-Zsela": 8,
+        "Stevens": 9,
+        "O'Connor": 9,
+        "Scalia": 8,
+        "Kennedy": 9,
+        "Souter": 9,
+        "Thomas": 8,
+        "Ginsburg": 10,
+        "Breyer": 8
+      },
+      "last_counted": "Johnson v. California, No. 04-6964; 545 U.S. 162.",
+      "public_blocks": 11
+    },
+    {
+      "file": "miller-el-v-dretke_merits_2005-06-13.md",
+      "counts": {
+        "Stone-Zsela": 8,
+        "Stevens": 9,
+        "O'Connor": 9,
+        "Scalia": 9,
+        "Kennedy": 9,
+        "Souter": 9,
+        "Thomas": 8,
+        "Ginsburg": 10,
+        "Breyer": 8
+      },
+      "last_counted": "Merck KGaA v. Integra Lifesciences I, Ltd., No. 03-1237; 545 U.S. 193.",
+      "public_blocks": 11
+    },
+    {
+      "file": "wilkinson-v-austin_merits_2005-06-13.md",
+      "counts": {
+        "Stone-Zsela": 8,
+        "Stevens": 9,
+        "O'Connor": 9,
+        "Scalia": 9,
+        "Kennedy": 10,
+        "Souter": 9,
+        "Thomas": 8,
+        "Ginsburg": 10,
+        "Breyer": 8
+      },
+      "last_counted": "Miller-El v. Dretke, No. 03-9659; 545 U.S. 231.",
+      "public_blocks": 11
+    },
+    {
+      "file": "american-trucking-associations-v-michigan-public-service-commission_merits_2005-06-20.md",
+      "counts": {
+        "Stone-Zsela": 8,
+        "Stevens": 9,
+        "O'Connor": 9,
+        "Scalia": 9,
+        "Kennedy": 10,
+        "Souter": 9,
+        "Thomas": 8,
+        "Ginsburg": 10,
+        "Breyer": 9
+      },
+      "last_counted": "Wilkinson v. Austin, No. 04-495; 545 U.S. 209.",
+      "public_blocks": 11
+    },
+    {
+      "file": "dodd-v-united-states_merits_2005-06-20.md",
+      "counts": {
+        "Stone-Zsela": 9,
+        "Stevens": 9,
+        "O'Connor": 9,
+        "Scalia": 9,
+        "Kennedy": 10,
+        "Souter": 9,
+        "Thomas": 8,
+        "Ginsburg": 10,
+        "Breyer": 9
+      },
+      "last_counted": "American Trucking Associations, Inc. v. Michigan Public Service Commission, No. 03-1230",
+      "public_blocks": 11
+    },
+    {
+      "file": "graham-county-soil-water-conservation-district-v-united-states-ex-rel-wilson_merits_2005-06-20.md",
+      "counts": {
+        "Stone-Zsela": 9,
+        "Stevens": 9,
+        "O'Connor": 9,
+        "Scalia": 9,
+        "Kennedy": 10,
+        "Souter": 9,
+        "Thomas": 9,
+        "Ginsburg": 10,
+        "Breyer": 9
+      },
+      "last_counted": "Dodd v. United States, No. 04-5286",
+      "public_blocks": 11
+    },
+    {
+      "file": "rompilla-v-beard_merits_2005-06-20.md",
+      "counts": {
+        "Stone-Zsela": 9,
+        "Stevens": 9,
+        "O'Connor": 9,
+        "Scalia": 9,
+        "Kennedy": 10,
+        "Souter": 10,
+        "Thomas": 9,
+        "Ginsburg": 10,
+        "Breyer": 9
+      },
+      "last_counted": "Graham County Soil & Water Conservation District v. United States ex rel. Wilson, No. 04-169",
+      "public_blocks": 11
+    },
+    {
+      "file": "san-remo-hotel-v-city-and-county-of-san-francisco_merits_2005-06-20.md",
+      "counts": {
+        "Stone-Zsela": 9,
+        "Stevens": 9,
+        "O'Connor": 10,
+        "Scalia": 9,
+        "Kennedy": 10,
+        "Souter": 10,
+        "Thomas": 9,
+        "Ginsburg": 10,
+        "Breyer": 9
+      },
+      "last_counted": "Rompilla v. Beard, No. 04-5462",
+      "public_blocks": 11
+    }
+  ],
+  "errors": [],
+  "scope": "These checks are deterministic; substantive joins, eligibility, remedies and negative statements require the separate legal review."
+}

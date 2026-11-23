@@ -1,0 +1,1931 @@
+545US1 Unit: $U56 [03-31-08 12:54:58] PAGES PGT: OPIN
+
+OCTOBER TERM, 2004                                     119
+
+Syllabus
+
+SPECTOR et al. v. NORWEGIAN CRUISE LINE LTD.
+
+certiorari to the united states court of appeals for
+                           the fifth circuit
+
+      No. 03–1388. Argued February 28, 2005—Decided June 6, 2005
+
+Respondent NCL is a cruise line operating foreign-ﬂag ships departing
+   from, and returning to, United States ports. The petitioners, disabled
+   individuals and their companions who purchased tickets for round-trip
+   NCL cruises from Houston, sued NCL under Title III of the Americans
+   with Disabilities Act of 1990 (ADA), 42 U. S. C. § 12181 et seq., which
+   prohibits discrimination based on disability in places of “public accom­
+   modation,” § 12182(a), and in “speciﬁed public transportation services,”
+   § 12184(a), and requires covered entities to make “reasonable modiﬁca­
+   tions in policies, practices, or procedures” to accommodate disabled per­
+   sons, §§ 12182(b)(2)(A)(ii), 12184(b)(2)(A), and to remove “architectural
+   barriers, and communication barriers that are structural in nature,”
+   where such removal is “readily achievable, ” §§ 12182(b)(2)(A)(iv),
+   12184(b)(2)(C). Though holding Title III generally applicable, the Dis­
+   trict Court found that the petitioners’ claims regarding physical barriers
+   to access could not go forward because the federal agencies charged
+   with promulgating ADA architectural and structural guidelines had not
+   done so for cruise ships. The court therefore dismissed the barrier­
+   removal claims, but denied NCL’s motion to dismiss the petitioners’
+   other claims. The Fifth Circuit held that Title III does not apply to
+   foreign-ﬂag cruise ships in U. S. waters because of a presumption, which
+   the court derived from, e. g., Benz v. Compania Naviera Hidalgo, S. A.,
+   353 U. S. 138, and McCulloch v. Sociedad Nacional de Marineros
+   de Honduras, 372 U. S. 10, that absent a clear indication of congressional
+   intent, general statutes do not apply to foreign-ﬂag ships. Emphasizing
+   that Title III does not contain a speciﬁc provision mandating its applica­
+   tion to such vessels, the court sustained the dismissal of the petitioners’
+   barrier-removal claims and reversed on their remaining claims.
+
+Held: The judgment is reversed, and the case is remanded.
+
+356 F. 3d 641, reversed and remanded.
+      Justice Kennedy delivered an opinion concluding that except inso­
+
+   far as Title III regulates a vessel’s internal affairs, the statute is ap­
+   plicable to foreign-ﬂag cruise ships in U. S. waters. Parts II–A–1 and
+   II–B–2 of that opinion held for the Court:
+
+      (a) Although Title III’s “public accommodation” and “speciﬁed public
+   transportation” deﬁnitions, §§ 12181(7)(A), (B), (I), (L), 12181(10), do not
+545US1 Unit: $U56 [03-31-08 12:54:58] PAGES PGT: OPIN
+
+120  SPECTOR v. NORWEGIAN CRUISE LINE LTD.
+
+                                         Syllabus
+
+expressly mention cruise ships, there is no doubt that the NCL ships
+in question fall within both deﬁnitions under conventional principles of
+interpretation. The Fifth Circuit nevertheless held Title III inapplica­
+ble because the statute has no clear statement or explicit text mandating
+coverage for foreign-ﬂag ships in U. S. waters. This Court’s cases, par­
+ticularly Benz and McCulloch, do hold, in some circumstances, that a
+general statute will not apply to certain aspects of the internal oper­
+ations of foreign vessels temporarily in U. S. waters, absent a clear
+statement. The broad clear statement rule adopted by the Court of
+Appeals, however, would apply to every facet of the business and
+operations of foreign-ﬂag ships. That formulation is inconsistent with
+the Court’s case law and with sound principles of statutory interpreta­
+tion. Pp. 128–130.
+
+   (b) Title III deﬁnes “readily achievable” barrier removal as that
+which is “easily accomplishable and able to be carried out without much
+difﬁculty or expense,” § 12181(9). The statute does not further deﬁne
+“difﬁculty,” but the section’s use of the disjunctive indicates that it ex­
+tends to considerations in addition to cost. Furthermore, Title III di­
+rects that the “readily achievable” determination take into account “the
+impact . . . upon the [facility’s] operation,” § 12181(9)(B). A Title III
+barrier-removal requirement that would bring a vessel into noncompli­
+ance with the International Convention for the Safety of Life at Sea or
+any other international legal obligation would create serious difﬁculties
+for the vessel and would have a substantial impact on its operation,
+and thus would not be “readily achievable.” Congress could not have
+intended this result. It is logical and proper to conclude, moreover,
+that whether a barrier modiﬁcation is “readily achievable” must take
+into consideration the modiﬁcation’s effect on shipboard safety. Title
+III’s nondiscrimination and accommodation requirements do not apply
+if disabled individuals would pose “a signiﬁcant risk to the health or
+safety of others that cannot be eliminated by a modiﬁcation of policies,
+practices, or procedures.” § 12182(b)(3). It would be incongruous to
+attribute to Congress an intent to require modiﬁcations threatening oth­
+ers’ safety simply because the threat comes not from the disabled person
+but from the accommodation itself. Pp. 135–136.
+
+   Justice Kennedy, joined by Justice Stevens and Justice Sou­
+ter, concluded in Parts II–A–2, II–B–1, II–B–3, and III–B:
+
+   (a) As a matter of international comity, a clear statement of congres­
+sional intent is necessary before a general statutory requirement can
+interfere with matters that concern a foreign-ﬂag vessel’s internal af­
+fairs and operations. See, e. g., Wildenhus’s Case, 120 U. S. 1, 12. In
+Benz and McCulloch, the Court held the National Labor Relations Act
+(NLRA) inapplicable to labor relations between a foreign vessel and its
+545US1 Unit: $U56 [03-31-08 12:54:58] PAGES PGT: OPIN
+
+Cite as: 545 U. S. 119 (2005)                          121
+
+                                         Syllabus
+
+foreign crew not because foreign ships are generally exempt from the
+NLRA, but because that particular application of the NLRA would in­
+terfere with matters that concern only the ship’s internal operations.
+These cases recognized a narrow rule, applicable only to statutory duties
+that implicate the foreign vessel’s internal order rather than the welfare
+of American citizens. E. g., McCulloch, supra, at 21. In contrast, the
+Court later held the NLRA fully applicable to labor relations between
+a foreign vessel and American longshoremen because this relationship,
+unlike the one between a vessel and its own crew, does not implicate a
+foreign ship’s internal order and discipline. Longshoremen v. Ariadne
+Shipping Co., 397 U. S. 195, 198–201. This narrow clear statement rule
+is supported by sound principles of statutory construction. It is reason­
+able to presume Congress intends no interference with matters that are
+primarily of concern only to the ship and the foreign state in which it is
+registered. It is also reasonable, however, to presume Congress does
+intend its statutes to apply to entities in U. S. territory that serve, em­
+ploy, or otherwise affect American citizens, or that affect the peace and
+tranquility of the United States, even if those entities happen to be
+foreign-ﬂag ships. Cruise ships ﬂying foreign ﬂags of convenience but
+departing from and returning to U. S. ports accommodate and transport
+over 7 million U. S. residents annually, including large numbers of
+disabled individuals. To hold there is no Title III protection for the
+disabled would be a harsh and unexpected interpretation of a statute
+designed to provide broad protection for them. Pp. 130–133.
+
+   (b) Plainly, most of the Title III violations alleged below—that NCL
+required disabled passengers to pay higher fares and special surcharges;
+maintained evacuation programs and equipment in locations not accessi­
+ble to them; required them, but not other passengers, to waive any po­
+tential medical liability and to travel with companions; reserved the
+right to remove them from ships if they endangered other passengers’
+comfort; and, more generally, failed to make reasonable modiﬁcations
+necessary to ensure their full enjoyment of the services offered—have
+nothing to do with a ship’s internal affairs. However, the petitioners’
+allegations concerning physical barriers to access on board—e. g., their
+assertion that most of NCL’s cabins, including the most attractive ones
+in the most desirable locations, are not accessible to disabled passen­
+gers—would appear to involve requirements that might be construed as
+relating to internal ship affairs. The clear statement rule would most
+likely come into play if Title III were read to require permanent and
+signiﬁcant structural modiﬁcations to foreign vessels. Pp. 133–135.
+
+   (c) Because Title III does not require structural modiﬁcations that
+conﬂict with international legal obligations or pose any real threat to
+the safety of the crew or other passengers, it may well follow that Title
+545US1 Unit: $U56 [03-31-08 12:54:58] PAGES PGT: OPIN
+
+122  SPECTOR v. NORWEGIAN CRUISE LINE LTD.
+
+                                         Syllabus
+
+III does not require any permanent and signiﬁcant structural modiﬁca­
+tions that interfere with cruise ships’ internal affairs. If so, recourse
+to the internal affairs clear statement rule would not be necessary.
+Cases may arise, however, where it is prudent for a court to invoke that
+rule without determining whether Title III actually imposes a particu­
+lar barrier-removal requirement entailing a permanent and signiﬁcant
+structural modiﬁcation interfering with a foreign ship’s internal affairs.
+Conversely, where it is not obvious that a particular physical modiﬁca­
+tion relates to a vessel’s basic architecture and construction, but it is
+clear the modiﬁcation would conﬂict with an international legal obliga­
+tion, the court may simply hold the modiﬁcation not readily achievable,
+without resort to the clear statement rule. P. 137.
+
+   (d) The holding that the clear statement rule operates only when a
+ship’s internal affairs are affected does not implicate the Court’s holding
+in Clark v. Martinez, 543 U. S. 371, 380, that statutory language given
+a limiting construction in one context must be interpreted consistently
+in other contexts, “even though other of the statute’s applications, stand­
+ing alone, would not support the same limitation.” Martinez applied
+a canon for choosing among plausible meanings of an ambiguous stat­
+ute, not a clear statement rule that implies a special substantive limit
+on the application of an otherwise unambiguous statutory mandate.
+Pp. 140–141.
+
+   Justice Kennedy, joined by Justice Stevens, Justice Souter,
+and Justice Thomas, concluded in Part III–A that if Title III imposed
+a requirement that interfered with a foreign-ﬂag cruise ship’s internal
+affairs, the clear statement rule would come into play, but that require­
+ment would still apply to domestic ships, and Title III requirements
+having nothing to do with internal affairs would continue to apply to
+domestic and foreign ships alike. This application-by-application ap­
+proach is consistent with how the clear statement rule has traditionally
+operated. If the rule restricts some NLRA applications to foreign
+ships (e. g., labor relations with foreign crews in Benz and McCulloch),
+but not others (e. g., labor relations with American longshoremen in Ari­
+adne Shipping), it follows that its case-by-case application is also re­
+quired under Title III. The clear statement rule, if it is invoked, would
+restrict some applications of Title III to foreign ships (e. g., certain
+structural barrier modiﬁcation requirements), but not others (e. g., the
+statute’s prohibition on discriminatory ticket pricing). The rule is an
+implied limitation on a statute’s otherwise unambiguous general terms.
+It operates much like other implied limitation rules, which avoid applica­
+tions of otherwise unambiguous statutes that would intrude on sensitive
+domains in a way that Congress is unlikely to have intended had it
+considered the matter. See, e. g., EEOC v. Arabian American Oil Co.,
+499 U. S. 244, 260. An all-or-nothing approach would convert the clear
+545US1 Unit: $U56 [03-31-08 12:54:58] PAGES PGT: OPIN
+
+Cite as: 545 U. S. 119 (2005)                          123
+
+                                         Syllabus
+
+statement rule from a principle of interpretive caution into a trap for
+an unwary Congress, requiring nulliﬁcation of the entire statute, or of
+some arbitrary set of applications larger than the domain the rule pro­
+tects. Pp. 137–139.
+
+   Justice Ginsburg, joined by Justice Breyer, agreed that Title III
+of the Americans with Disabilities Act of 1990 covers cruise ships and
+allows them to resist modiﬁcations that would conﬂict with international
+legal obligations, but would give no wider berth to the “internal affairs”
+clear statement rule in determining Title III’s application to respond­
+ent’s ships. That rule derives from, and is moored to, the broader guide
+that statutes “should not be interpreted to regulate foreign persons or
+conduct if that regulation would conﬂict with principles of international
+law.” Hartford Fire Ins. Co. v. California, 509 U. S. 764, 815. This
+noninterference principle is served here by the Court’s interpretation
+of 42 U. S. C. § 12182(b)(2)(A)(iv)’s “readily achievable” language to avoid
+conﬂict with international legal obligations. The plurality’s further
+suggestion that the “internal affairs” clear statement rule may block
+Title III-prompted structural modiﬁcations, even in the absence of con­
+ﬂict with international obligations, cuts the rule loose from its founda­
+tion. Because international relations are not at risk and the United
+States has a strong interest in protecting American passengers on for­
+eign and domestic cruise ships, there is no reason to demand a clearer
+congressional statement that Title III reaches the vessels in question.
+Pp. 142–145.
+
+   Justice Thomas concluded that Title III of the Americans with Disa­
+bilities Act of 1990, insofar as it could be read to require structural
+changes, lacks a sufﬁciently clear statement that it applies to the inter­
+nal affairs of foreign vessels. However, the clear statement rule does
+not render Title III entirely inapplicable to foreign vessels; instead,
+Title III applies to foreign ships only to the extent to which it does not
+bear on their internal affairs. Pp. 146–149.
+
+   Kennedy, J., announced the judgment of the Court and delivered the
+opinion of the Court with respect to Parts I, II–A–1, and II–B–2, in which
+Stevens, Souter, Ginsburg, and Breyer, JJ., joined, an opinion with
+respect to Parts II–A–2, II–B–1, II–B–3, and III–B, in which Stevens
+and Souter, JJ., joined, and an opinion with respect to Part III–A, in
+which Stevens, Souter, and Thomas, JJ., joined. Ginsburg, J., ﬁled an
+opinion concurring in part and concurring in the judgment, in which
+Breyer, J., joined, post, p. 142. Thomas, J., ﬁled an opinion concurring
+in part, dissenting in part, and concurring in the judgment in part, post,
+p. 146. Scalia, J., ﬁled a dissenting opinion, in which Rehnquist, C. J.,
+and O’Connor, J., joined, and in which Thomas, J., joined as to Part I–A,
+post, p. 149.
+545US1 Unit: $U56 [03-31-08 12:54:58] PAGES PGT: OPIN
+
+124  SPECTOR v. NORWEGIAN CRUISE LINE LTD.
+
+                                             Counsel
+
+   Thomas C. Goldstein argued the cause for petitioners.
+With him on the briefs were Amy Howe, Pamela S. Karlan,
+Samuel Bagenstos, David George, Brady Edwards, Anne
+Edwards, Sandra Thourot Krider, William H. Bruckner,
+and Elaine B. Roberts.
+
+   David B. Salmons argued the cause for the United States
+as amicus curiae in support of petitioners. With him on
+the brief were Acting Solicitor General Clement, Assistant
+Attorney General Acosta, Dennis J. Dimsey, Jeffrey A.
+Rosen, and Paul M. Geier.
+
+   David C. Frederick argued the cause for respondent.
+With him on the brief were Mark E. Warren, Thomas H.
+Wilson, Michael J. Muskat, and Michael F. Sturley.
+
+   Gregory G. Garre argued the cause for the Commonwealth
+of the Bahamas et al. as amici curiae in support of respond­
+ent. With him on the brief was Christopher T. Handman.*
+
+   *Briefs of amici curiae urging reversal were ﬁled for the State of Texas
+et al. by Greg Abbott, Attorney General of Texas, Barry R. McBee, First
+Assistant Attorney General, Edward D. Burbach, Deputy Attorney Gen­
+eral, R. Ted Cruz, Solicitor General, and William L. Davis, Assistant
+Solicitor General, and by the Attorneys General for their respective States
+as follows: Terry Goddard of Arizona, Bill Lockyer of California, Lisa
+Madigan of Illinois, Thomas F. Reilly of Massachusetts, Jeremiah W.
+(Jay) Nixon of Missouri, Mark L. Shurtleff of Utah, and Christine O.
+Gregoire of Washington; for Nine Associations Representing Persons with
+Disabilities by Andrew P. Tower, Ira A. Burnim, and Jennifer Mathis; for
+Paralyzed Veterans of America et al. by David C. Vladeck, Norman G.
+Cooper, and Robert N. Herman; and for Jonathan M. Gutoff by David
+M. Zlotnick.
+
+   Briefs of amici curiae urging afﬁrmance were ﬁled for the American
+Steamship Owners Mutual Protection and Indemnity Association, Inc.,
+et al. by David J. Bederman; for the Chamber of Commerce of the United
+States of America by Roy T. Englert, Jr., Max Huffman, and Robin
+S. Conrad; and for the International Council of Cruise Lines by Lawrence
+W. Kaye and William J. Tucker.
+
+   Samuel Conte ﬁled a brief for the Mediterranean Shipping Company
+Crociere, S. p. A., as amicus curiae.
+545US1 Unit: $U56 [03-31-08 12:54:58] PAGES PGT: OPIN
+
+Cite as: 545 U. S. 119 (2005)                          125
+
+                                    Opinion of the Court
+
+   Justice Kennedy announced the judgment of the Court
+and delivered the opinion of the Court with respect to
+Parts I, II–A–1, and II–B–2, an opinion with respect to Parts
+II–A–2, II–B–1, II–B–3, and III–B, in which Justice Ste­
+vens and Justice Souter join, and an opinion with respect
+to Part III–A, in which Justice Stevens, Justice Souter,
+and Justice Thomas join.
+
+   This case presents the question whether Title III of the
+Americans with Disabilities Act of 1990 (ADA), 104 Stat. 353,
+42 U. S. C. § 12181 et seq., applies to foreign-ﬂag cruise ships
+in United States waters. The Court of Appeals for the Fifth
+Circuit held Title III did not apply because of a presumption,
+which it sought to derive from this Court’s case law, that,
+absent a clear indication of congressional intent, general
+statutes do not apply to foreign-ﬂag ships. 356 F. 3d 641,
+644–646 (2004). The Court of Appeals for the Eleventh
+Circuit, on the other hand, has held that the ADA does apply
+to foreign-ﬂag cruise ships in United States waters. See
+Stevens v. Premier Cruises, Inc., 215 F. 3d 1237 (2000). We
+granted certiorari to resolve the conﬂict. 542 U. S. 965
+(2004).
+
+   Our cases hold that a clear statement of congressional in­
+tent is necessary before a general statutory requirement can
+interfere with matters that concern a foreign-ﬂag vessel’s
+internal affairs and operations, as contrasted with statutory
+requirements that concern the security and well-being of
+United States citizens or territory. While the clear state­
+ment rule could limit Title III’s application to foreign-ﬂag
+cruise ships in some instances, when it requires removal of
+physical barriers, it would appear the rule is inapplicable to
+many other duties Title III might impose. We therefore re­
+verse the decision of the Court of Appeals for the Fifth
+Circuit that the ADA is altogether inapplicable to foreign
+vessels, and we remand for further proceedings.
+545US1 Unit: $U56 [03-31-08 12:54:58] PAGES PGT: OPIN
+
+126  SPECTOR v. NORWEGIAN CRUISE LINE LTD.
+
+                                    Opinion of the Court
+
+                                        I
+
+   The respondent Norwegian Cruise Line Ltd. (NCL), a
+Bermuda corporation with a principal place of business in
+Miami, Florida, operates cruise ships that depart from, and
+return to, ports in the United States. The ships are essen­
+tially ﬂoating resorts. They provide passengers with state­
+rooms or cabins, food, and entertainment. The cruise ships
+stop at different ports of call where passengers may disem­
+bark. Most of the passengers on these cruises are United
+States residents; under the terms and conditions of the tick­
+ets, disputes between passengers and NCL are to be gov­
+erned by United States law; and NCL relies upon extensive
+advertising in the United States to promote its cruises and
+increase its revenues.
+
+   Despite the fact that the cruises are operated by a com­
+pany based in the United States, serve predominantly United
+States residents, and are in most other respects United
+States-centered ventures, almost all of NCL’s cruise ships
+are registered in other countries, ﬂying so-called ﬂags of con­
+venience. The two NCL cruise ships that are the subject of
+the present litigation, the Norwegian Sea and the Norwegian
+Star, are both registered in the Bahamas.
+
+   The petitioners are disabled individuals and their com­
+panions who purchased tickets in 1998 or 1999 for round-trip
+cruises on the Norwegian Sea or the Norwegian Star, with
+departures from Houston, Texas. Naming NCL as the de­
+fendant, the petitioners ﬁled a class action in the United
+States District Court for the Southern District of Texas on
+behalf of all persons similarly situated. They sought declar­
+atory and injunctive relief under Title III of the ADA, which
+prohibits discrimination on the basis of disability. The peti­
+tioners asserted that cruise ships are covered both by Title
+III’s prohibition on discrimination in places of “public accom­
+modation,” § 12182(a), and by its prohibition on discrimina­
+tion in “speciﬁed public transportation services,” § 12184(a).
+Both provisions require covered entities to make “reason­
+545US1 Unit: $U56 [03-31-08 12:54:58] PAGES PGT: OPIN
+
+Cite as: 545 U. S. 119 (2005)                          127
+
+                                    Opinion of the Court
+
+able modiﬁcations in policies, practices, or procedures” to
+accommodate disabled individuals, §§ 12182(b)(2)(A)(ii),
+12184(b)(2)(A), and require removal of “architectural bar­
+riers, and communication barriers that are structural in
+nature,” where such removal is “readily achievable,”
+§§ 12182(b)(2)(A)(iv), 12184(b)(2)(C).
+
+   The District Court held that, as a general matter, Title III
+applies to foreign-ﬂag cruise ships in United States territo­
+rial waters. Civ. Action No. H–00–2649 (SD Tex., Sept. 10,
+2002), App. to Pet. for Cert. 35a. The District Court found,
+however, that the petitioners’ claims regarding physical bar­
+riers to access could not go forward because the agencies
+charged with promulgating architectural and structural
+guidelines for ADA compliance (the Architectural and Trans­
+portation Barriers Compliance Board, the Department of
+Transportation, and the Department of Justice) had not done
+so for cruise ships. In these circumstances, the court held,
+it is unclear what structural modiﬁcations NCL would need
+to make. Id., at 36a–42a. The District Court granted
+NCL’s motion to dismiss the barrier-removal claims, but de­
+nied NCL’s motion with respect to all the other claims.
+Id., at 47a.
+
+   The Court of Appeals for the Fifth Circuit afﬁrmed in part
+and reversed in part. It reasoned that our cases, particu­
+larly Benz v. Compania Naviera Hidalgo, S. A., 353 U. S.
+138 (1957), and McCulloch v. Sociedad Nacional de Mari­
+neros de Honduras, 372 U. S. 10 (1963), stand for the proposi­
+tion that general statutes do not apply to foreign-ﬂag vessels
+in United States territory absent a clear indication of con­
+gressional intent. 356 F. 3d, at 644 (“[T]o apply domestic
+law to foreign vessels entering United States waters, there
+must be present the afﬁrmative intention of the Congress
+clearly expressed” (quoting Benz, supra, at 147; internal
+quotation marks omitted)); 356 F. 3d, at 646 (Benz and Mc-
+Culloch “prohibit United States courts from applying domes­
+tic statutes to foreign-ﬂagged ships without speciﬁc evidence
+545US1 Unit: $U56 [03-31-08 12:54:58] PAGES PGT: OPIN
+
+128  SPECTOR v. NORWEGIAN CRUISE LINE LTD.
+
+                                    Opinion of the Court
+
+of congressional intent”). As Title III does not contain a
+speciﬁc provision mandating its application to foreign-ﬂag
+vessels, the Court of Appeals sustained the District Court’s
+dismissal of the petitioners’ barrier-removal claims on this
+alternative ground and reversed the District Court on the
+remaining Title III claims. 356 F. 3d, at 650–651.
+
+   The action was ordered dismissed for failure to state a
+claim, Fed. Rule Civ. Proc. 12(b)(6), before extensive discov­
+ery. We cannot then discuss the speciﬁc allegations in much
+detail but must conﬁne our opinion to the relevant general
+principles. (On November 24, 2004, the responsible agencies
+ﬁnally did issue draft guidelines for large passenger vessels
+and a Notice of Proposed Rulemaking. See 69 Fed. Reg.
+69244, 69249. These developments are not dispositive of the
+legal question on which we granted certiorari, and we do not
+address how they might affect the ultimate resolution of the
+petitioners’ claims.)
+
+                                       II
+
+                                        A
+
+                                        1
+   Title III of the ADA prohibits discrimination against the
+disabled in the full and equal enjoyment of public accom­
+modations, 42 U. S. C. § 12182(a), and public transportation
+services, § 12184(a). The general prohibitions are supple­
+mented by various, more speciﬁc requirements. Entities
+that provide public accommodations or public transportation:
+(1) may not impose “eligibility criteria” that tend to screen
+out disabled individuals, §§ 12182(b)(2)(A)(i), 12184(b)(1);
+(2) must make “reasonable modiﬁcations in policies, prac­
+tices, or procedures, when such modiﬁcations are neces­
+sary” to provide disabled individuals full and equal enjoy­
+ment, §§ 12182(b)(2)(A)(ii), 12184(b)(2)(A); (3) must provide
+auxiliary aids and services to disabled individuals,
+§§ 12182(b)(2)(A)(iii), 12184(b)(2)(B); and (4) must remove ar­
+chitectural and structural barriers, or if barrier removal is
+545US1 Unit: $U56 [03-31-08 12:54:58] PAGES PGT: OPIN
+
+Cite as: 545 U. S. 119 (2005)                          129
+
+                                    Opinion of the Court
+
+not readily achievable, must ensure equal access for the dis­
+abled through alternative methods, §§ 12182(b)(2)(A)(iv)–(v),
+12184(b)(2)(C).
+
+   These speciﬁc requirements, in turn, are subject to impor­
+tant exceptions and limitations. Eligibility criteria that
+screen out disabled individuals are permitted when “neces­
+sary for the provision” of the services or facilities being of­
+fered, §§ 12182(b)(2)(A)(i), 12184(b)(1). Policies, practices,
+and procedures need not be modiﬁed, and auxiliary aids
+need not be provided, if doing so would “fundamentally
+alter ” the services or accommodations being offered.
+§§ 12182(b)(2)(A)(ii)–(iii). Auxiliary aids are also unneces­
+sary when they would “result in an undue burden,”
+§ 12182(b)(2)(A)(iii). As we have noted, moreover, the
+barrier-removal and alternative access requirements do not
+apply when these requirements are not “readily achievable,”
+§§ 12182(b)(2)(A)(iv)–(v). Additionally, Title III does not im­
+pose nondiscrimination or accommodation requirements if, as
+a result, disabled individuals would pose “a signiﬁcant risk
+to the health or safety of others that cannot be eliminated
+by a modiﬁcation of policies, practices, or procedures or by
+the provision of auxiliary aids or services,” § 12182(b)(3).
+
+   Although the statutory deﬁnitions of “public accommoda­
+tion” and “speciﬁed public transportation” do not expressly
+mention cruise ships, there can be no serious doubt that
+the NCL cruise ships in question fall within both deﬁni­
+tions under conventional principles of interpretation.
+§§ 12181(7)(A)–(B), (I), (L), 12181(10). The Court of Appeals
+for the Fifth Circuit, nevertheless, held that Title III does
+not apply to foreign-ﬂag cruise ships in United States waters
+because the statute has no clear statement or explicit text
+mandating coverage for these ships. This Court’s cases,
+particularly Benz and McCulloch, do hold, in some circum­
+stances, that a general statute will not apply to certain as­
+pects of the internal operations of foreign vessels temporar­
+ily in United States waters, absent a clear statement. The
+545US1 Unit: $U56 [03-31-08 12:54:58] PAGES PGT: OPIN
+
+130  SPECTOR v. NORWEGIAN CRUISE LINE LTD.
+
+                                  Opinion of Kennedy, J.
+
+broad clear statement rule adopted by the Court of Appeals,
+however, would apply to every facet of the business and op­
+erations of foreign-ﬂag ships. That formulation is inconsist­
+ent with the Court’s case law and with sound principles of
+statutory interpretation.
+
+                                        2
+
+   This Court has long held that general statutes are pre­
+sumed to apply to conduct that takes place aboard a foreign­
+ﬂag vessel in United States territory if the interests of the
+United States or its citizens, rather than interests internal
+to the ship, are at stake. See Cunard S. S. Co. v. Mellon,
+262 U. S. 100, 127 (1923) (holding that the general terms of
+the National Prohibition Act apply to foreign-ﬂag ships in
+United States waters because “[t]here is in the act no provi­
+sion making it [in]applicable” to such ships); Uravic v. F.
+Jarka Co., 282 U. S. 234, 240 (1931) (holding that “general
+words” should be “generally applied” and that therefore
+there is “no reason for limiting the liability for torts com­
+mitted [aboard foreign-ﬂag ships in United States territory]
+when they go beyond the scope of discipline and private mat­
+ters that do not interest the territorial power”). The gen­
+eral rule that United States statutes apply to foreign-ﬂag
+ships in United States territory is subject only to a narrow
+exception. Absent a clear statement of congressional in­
+tent, general statutes may not apply to foreign-ﬂag vessels
+insofar as they regulate matters that involve only the inter­
+nal order and discipline of the vessel, rather than the peace
+of the port. This qualiﬁcation derives from the understand­
+ing that, as a matter of international comity, “all matters of
+discipline and all things done on board which affec[t] only the
+vessel or those belonging to her, and [do] not involve the
+peace or dignity of the country, or the tranquility of the port,
+should be left by the local government to be dealt with by
+the authorities of the nation to which the vessel belonged.”
+Wildenhus’s Case, 120 U. S. 1, 12 (1887). This exception to
+the usual presumption, however, does not extend beyond
+545US1 Unit: $U56 [03-31-08 12:54:58] PAGES PGT: OPIN
+
+Cite as: 545 U. S. 119 (2005)                          131
+
+                                  Opinion of Kennedy, J.
+
+matters of internal order and discipline. “[I]f crimes are
+committed on board [a foreign-ﬂag vessel] of a character to
+disturb the peace and tranquility of the country to which the
+vessel has been brought, the offenders have never by comity
+or usage been entitled to any exemption from the operation
+of the local laws.” Ibid.
+
+   The two cases in recent times in which the presumption
+against applying general statutes to foreign vessels’ internal
+affairs has been invoked, Benz and McCulloch, concern labor
+relations. The Court held that the general terms of the Na­
+tional Labor Relations Act (NLRA), 49 Stat. 449, 29 U. S. C.
+§ 151 et seq., did not govern the respective rights and duties
+of a foreign ship and its crew because the NLRA standards
+would interfere with the foreign vessel’s internal affairs in
+those circumstances. These cases recognized a narrow rule,
+applicable only to statutory duties that implicate the internal
+order of the foreign vessel rather than the welfare of Ameri­
+can citizens. McCulloch, 372 U. S., at 21 (holding that “the
+law of the ﬂag state ordinarily governs the internal affairs
+of a ship” (emphasis added)); see also Benz, 353 U. S., at 146–
+147. The Court held the NLRA inapplicable to labor rela­
+tions between a foreign vessel and its foreign crew not be­
+cause foreign ships are generally exempt from the NLRA,
+but because the particular application of the NLRA would
+interfere with matters that concern only the internal opera­
+tions of the ship. In contrast, the Court held that the
+NLRA is fully applicable to labor relations between a foreign
+vessel and American longshoremen because this relationship,
+unlike the one between a vessel and its own crew, does not
+implicate a foreign ship’s internal order and discipline.
+Longshoremen v. Ariadne Shipping Co., 397 U. S. 195, 198–
+201 (1970).
+
+   This narrow clear statement rule is supported by sound
+principles of statutory construction. It is reasonable to pre­
+sume Congress intends no interference with matters that are
+primarily of concern only to the ship and the foreign state
+545US1 Unit: $U56 [03-31-08 12:54:58] PAGES PGT: OPIN
+
+132  SPECTOR v. NORWEGIAN CRUISE LINE LTD.
+
+                                  Opinion of Kennedy, J.
+
+in which it is registered. It is also reasonable, however, to
+presume Congress does intend its statutes to apply to enti­
+ties in United States territory that serve, employ, or other­
+wise affect American citizens, or that affect the peace and
+tranquility of the United States, even if those entities happen
+to be foreign-ﬂag ships.
+
+   Cruise ships ﬂying foreign ﬂags of convenience offer public
+accommodations and transportation services to over 7 mil­
+lion United States residents annually, departing from and
+returning to ports located in the United States. Large num­
+bers of disabled individuals, many of whom have mobility
+impairments that make other kinds of vacation travel difﬁ­
+cult, take advantage of these cruises or would like to do so.
+To hold there is no Title III protection for disabled persons
+who seek to use the amenities of foreign cruise ships would
+be a harsh and unexpected interpretation of a statute de­
+signed to provide broad protection for the disabled. § 12101.
+The clear statement rule adopted by the Court of Appeals
+for the Fifth Circuit, moreover, would imply that other gen­
+eral federal statutes—including, for example, Title II of the
+Civil Rights Act of 1964, 78 Stat. 243, 42 U. S. C. § 2000a
+et seq.—would not apply aboard foreign cruise ships in
+United States waters. A clear statement rule with this
+sweeping application is unlikely to reﬂect congressional
+intent.
+
+   The relevant category for which the Court demands a clear
+congressional statement, then, consists not of all applications
+of a statute to foreign-ﬂag vessels but only those applications
+that would interfere with the foreign vessel’s internal affairs.
+This proposition does not mean the clear statement rule is
+irrelevant to the ADA, however. If Title III by its terms
+does impose duties that interfere with a foreign-ﬂag cruise
+ship’s internal affairs, the lack of a clear congressional state­
+ment can mean that those speciﬁc applications of Title III
+are precluded. On remand, the Court of Appeals may need
+to consider which, if any, Title III requirements interfere
+545US1 Unit: $U56 [03-31-08 12:54:58] PAGES PGT: OPIN
+
+Cite as: 545 U. S. 119 (2005)                          133
+
+                                  Opinion of Kennedy, J.
+
+with the internal affairs of foreign-ﬂag vessels. As we will
+discuss further, however, Title III’s own limitations and
+qualiﬁcations may make this inquiry unnecessary.
+
+                                        B
+
+                                        1
+
+   The precise content of the category “internal affairs” (or,
+as it is variously denoted in the case law, “internal order”
+or “internal operations”) is difﬁcult to deﬁne with precision.
+There is, moreover, some ambiguity in our cases as to
+whether the relevant category of activities is restricted to
+matters that affect only the internal order of the ship when
+there is no effect on United States interests, or whether the
+clear statement rule further comes into play if the predomi­
+nant effect of a statutory requirement is on a foreign ship’s
+internal affairs but the requirement also promotes the wel­
+fare of United States residents or territory. We need not
+attempt to deﬁne the relevant protected category with preci­
+sion. It sufﬁces to observe that the guiding principles in
+determining whether the clear statement rule is triggered
+are the desire for international comity and the presumed lack
+of interest by the territorial sovereign in matters that bear
+no substantial relation to the peace and tranquility of the
+port.
+
+   It is plain that Title III might impose any number of duties
+on cruise ships that have nothing to do with a ship’s inter­
+nal affairs. The pleadings and briefs in this case illustrate,
+but do not exhaust, the ways a cruise ship might offend such
+a duty. The petitioners allege NCL charged disabled pas­
+sengers higher fares and required disabled passengers to
+pay special surcharges, Plaintiffs’ First Amended Original
+Complaint in No. H–00–2649 (SD Tex.), ¶ 32, App. 15 (here­
+inafter Complaint); Brief for Petitioners 17–20; main­
+tained evacuation programs and equipment in locations not
+accessible to disabled individuals, Complaint ¶ 19, App. 12;
+Brief for Petitioners 21; required disabled individuals, but
+545US1 Unit: $U56 [03-31-08 12:54:58] PAGES PGT: OPIN
+
+134  SPECTOR v. NORWEGIAN CRUISE LINE LTD.
+
+                                  Opinion of Kennedy, J.
+
+not other passengers, to waive any potential medical liability
+and to travel with a companion, id., at 8, 17–18; and reserved
+the right to remove from the ship any disabled individual
+whose presence endangers the “comfort” of other passen­
+gers, id., at 8, 20. The petitioners also allege more generally
+that NCL “failed to make reasonable modiﬁcations in poli­
+cies, practices, and procedures” necessary to ensure the peti­
+tioners’ full enjoyment of the services NCL offered. Com­
+plaint ¶ 30, App. 15. These are bare allegations, and their
+truth is not conceded. We express no opinion on the factual
+support for those claims. We can say, however, that none of
+these alleged Title III violations implicate any requirement
+that would interfere with the internal affairs and manage­
+ment of a vessel as our cases have employed that term.
+
+   At least one subset of the petitioners’ allegations, however,
+would appear to involve requirements that might be con­
+strued as relating to the internal affairs of foreign-ﬂag cruise
+ships. These allegations concern physical barriers to access
+on board. For example, according to the petitioners, most
+of the cabins on NCL’s cruise ships, including the most at­
+tractive cabins in the most desirable locations, are not acces­
+sible to disabled passengers. Brief for Petitioners 17–18;
+Complaint ¶ 16, App. 11. The petitioners also allege that
+the ships’ coamings—the raised edges around their doors—
+make many areas of the ships inaccessible to mobility­
+impaired passengers who use wheelchairs or scooters. Brief
+for Petitioners 24. Removal of these and other access bar­
+riers, the petitioners suggest, may be required by Title
+III’s structural barrier-removal requirement, §§ 12182(b)(2)
+(A)(iv), 12184(b)(2)(C).
+
+   Although these physical barriers affect the passengers as
+well as the ship and its crew, the statutory requirement could
+mandate a permanent and signiﬁcant alteration of a physical
+feature of the ship—that is, an element of basic ship design
+545US1 Unit: $U56 [03-31-08 12:54:58] PAGES PGT: OPIN
+
+Cite as: 545 U. S. 119 (2005)                          135
+
+                                    Opinion of the Court
+
+and construction. If so, these applications of the barrier­
+removal requirement likely would interfere with the internal
+affairs of foreign ships. A permanent and signiﬁcant modi­
+ﬁcation to a ship’s physical structure goes to fundamental
+issues of ship design and construction, and it might be impos­
+sible for a ship to comply with all the requirements different
+jurisdictions might impose. The clear statement rule would
+most likely come into play if Title III were read to require
+permanent and signiﬁcant structural modiﬁcations to foreign
+vessels. It is quite a different question, however, whether
+Title III would require this. The Title III requirements
+that might impose permanent and substantial changes to a
+ship’s architecture and design, are, like all of Title III’s re­
+quirements, subject to the statute’s own speciﬁc limitations
+and qualiﬁcations. These limitations may make resort to
+the clear statement rule unnecessary.
+
+                                        2
+
+   Title III requires barrier removal if it is “readily achiev­
+able,” § 12182(b)(2)(A)(iv). The statute deﬁnes that term as
+“easily accomplishable and able to be carried out without
+much difﬁculty or expense,” § 12181(9). Title III does not
+deﬁne “difﬁculty” in § 12181(9), but use of the disjunctive—
+“easily accomplishable and able to be carried out without
+much difﬁculty or expense”—indicates that it extends to con­
+siderations in addition to cost. Furthermore, Title III di­
+rects that the “readily achievable” determination take into
+account “the impact . . . upon the operation of the facility,”
+§ 12181(9)(B).
+
+   Surely a barrier-removal requirement under Title III that
+would bring a vessel into noncompliance with the Interna­
+tional Convention for the Safety of Life at Sea (SOLAS),
+Nov. 1, 1974, [1979–1980] 32 U. S. T. 47, T. I. A. S. No. 9700, or
+any other international legal obligation, would create serious
+difﬁculties for the vessel and would have a substantial im­
+545US1 Unit: $U56 [03-31-08 12:54:58] PAGES PGT: OPIN
+
+136  SPECTOR v. NORWEGIAN CRUISE LINE LTD.
+
+                                    Opinion of the Court
+
+pact on its operation, and thus would not be “readily achiev­
+able.” This understanding of the statute, urged by the
+United States, is eminently reasonable. Brief as Amicus
+Curiae 27–28; ADA Title III Technical Assistance Manual
+III–1.2000(D) (Supp. 1994), available at http://www.usdoj.
+gov/crt/ada/taman3up.html (as visited May 31, 2005, and
+available in Clerk of Court’s case ﬁle); 56 Fed. Reg. 45600
+(1991). If, moreover, Title III’s “readily achievable” exemp­
+tion were not to take conﬂicts with international law into
+account, it would lead to the anomalous result that American
+cruise ships are obligated to comply with Title III even if
+doing so brings them into noncompliance with SOLAS,
+whereas foreign ships—which unlike American ships have
+the beneﬁt of the internal affairs clear statement rule—
+would not be so obligated. Congress could not have in­
+tended this result.
+
+   It is logical and proper to conclude, moreover, that
+whether a barrier modiﬁcation is “readily achievable” under
+Title III must take into consideration the modiﬁcation’s ef­
+fect on shipboard safety. A separate provision of Title III
+mandates that the statute’s nondiscrimination and accommo­
+dation requirements do not apply if disabled individuals
+would pose “a signiﬁcant risk to the health or safety of others
+that cannot be eliminated by a modiﬁcation of policies, prac­
+tices, or procedures or by the provision of auxiliary aids or
+services,” § 12182(b)(3). This reference is to a safety threat
+posed by a disabled individual, whereas here the question
+would be whether the structural modiﬁcation itself may pose
+the safety threat. It would be incongruous, nevertheless, to
+attribute to Congress an intent to require modiﬁcations that
+threaten safety to others simply because the threat comes
+not from the disabled person but from the accommodation
+itself. The anomaly is avoided by concluding that a struc­
+tural modiﬁcation is not readily achievable within the mean­
+ing of § 12181(9) if it would pose a direct threat to the health
+or safety of others.
+545US1 Unit: $U56 [03-31-08 12:54:58] PAGES PGT: OPIN
+
+Cite as: 545 U. S. 119 (2005)                          137
+
+                                  Opinion of Kennedy, J.
+
+                                        3
+
+   Because Title III does not require structural modiﬁcations
+that would conﬂict with international legal obligations or
+pose any real threat to the safety of the crew or other pas­
+sengers, it may well follow—though we do not decide the
+question here—that Title III does not require any perma­
+nent and signiﬁcant structural modiﬁcations that interfere
+with the internal affairs of any cruise ship, foreign ﬂag or
+domestic. If that is indeed the case, recourse to the clear
+statement rule would not be necessary.
+
+   Cases may arise, however, where it is prudent for a court
+to turn ﬁrst to the internal affairs clear statement rule
+rather than deciding the precise scope and operation of the
+statute. Suppose, for example, it is a difﬁcult question
+whether a particular Title III barrier-removal requirement
+is readily achievable, but the requirement does entail a per­
+manent and signiﬁcant structural modiﬁcation, interfering
+with a foreign ship’s internal affairs. In that case a court
+sensibly could invoke the clear statement rule without deter­
+mining whether Title III actually imposes the requirement.
+On the other hand, there may be many cases where it is not
+obvious that a particular physical modiﬁcation relates to a
+vessel’s basic architecture and construction, but it is clear
+the modiﬁcation would conﬂict with SOLAS or some other
+international legal obligation. In those cases, a court may
+deem it appropriate to hold that the physical barrier modiﬁ­
+cation in question is not readily achievable, without resort
+to the clear statement rule.
+
+                                       III
+
+                                        A
+
+   In light of the preceding analysis, it is likely that under a
+proper interpretation of “readily achievable” Title III would
+impose no requirements that interfere with the internal af­
+fairs of foreign-ﬂag cruise ships. If Title III did impose a
+duty that required cruise ships to make permanent and sig­
+545US1 Unit: $U56 [03-31-08 12:54:58] PAGES PGT: OPIN
+
+138  SPECTOR v. NORWEGIAN CRUISE LINE LTD.
+
+                                  Opinion of Kennedy, J.
+
+niﬁcant structural modiﬁcations that did not conﬂict with in­
+ternational law or threaten safety, or if the statute otherwise
+interfered with a foreign ship’s internal affairs, the clear
+statement rule recognized in Benz and McCulloch would
+come into play at that point. The Title III requirement in
+question, however, would still apply to domestic cruise ships,
+and Title III requirements having nothing to do with inter­
+nal affairs would continue to apply to domestic and foreign
+ships alike.
+
+   This application-by-application use of the internal affairs
+clear statement rule is consistent with how the rule has tra­
+ditionally operated. In Benz and McCulloch, the Court con­
+cluded that the NLRA did not apply to labor relations be­
+tween a foreign-ﬂag ship and its foreign crew because of
+interference with the foreign ships’ internal affairs. In Ari­
+adne Shipping, however, the Court held that the NLRA does
+apply to labor relations between a foreign-ﬂag ship and
+American longshoremen. Ariadne Shipping acknowledged
+the clear statement rule invoked in Benz and McCulloch but
+held that the “considerations that informed the Court’s con­
+struction of the statute in [those cases] are clearly inapplica­
+ble” to the question whether the statute applies to foreign
+ships’ labor relations with American longshoremen. 397
+U. S., at 199. Ariadne Shipping held that the longshore­
+men’s “short-term, irregular and casual connection with the
+[foreign] vessels plainly belied any involvement on their part
+with the ships’ ‘internal discipline and order.’ ” Id., at 200.
+Therefore, application of the NLRA to foreign ships’ rela­
+tions with American longshoremen “would have threatened
+no interference in the internal affairs of foreign-ﬂag ships.”
+Ibid. If the clear statement rule restricts some applications
+of the NLRA to foreign ships (e. g., labor relations with the
+foreign crew), but not others (e. g., labor relations with
+American longshoremen), it follows that the case-by-case ap­
+plication is also required under Title III of the ADA. The
+rule, where it is even necessary to invoke it, would restrict
+545US1 Unit: $U56 [03-31-08 12:54:58] PAGES PGT: OPIN
+
+Cite as: 545 U. S. 119 (2005)                          139
+
+                                  Opinion of Kennedy, J.
+
+some applications of Title III to foreign ships (e. g., certain
+structural barrier-modiﬁcation requirements), but not others
+(e. g., the prohibition on discriminatory ticket pricing).
+
+   The internal affairs clear statement rule is an implied limi­
+tation on otherwise unambiguous general terms of the stat­
+ute. It operates much like the principle that general stat­
+utes are construed not to apply extraterritorially, EEOC v.
+Arabian American Oil Co., 499 U. S. 244, 260 (1991), or the
+rule that general statutes are presumed not to impose mone­
+tary liability on nonconsenting States, Atascadero State Hos­
+pital v. Scanlon, 473 U. S. 234 (1985). Implied limitation
+rules avoid applications of otherwise unambiguous statutes
+that would intrude on sensitive domains in a way that Con­
+gress is unlikely to have intended had it considered the mat­
+ter. In these instances, the absence of a clear congressional
+statement is, in effect, equivalent to a statutory qualiﬁcation
+saying, for example, “Notwithstanding any general language
+of this statute, this statute shall not apply extraterritori­
+ally”; or “ . . . this statute shall not abrogate the sovereign
+immunity of nonconsenting States”; or “ . . . this statute does
+not regulate the internal affairs of foreign-ﬂag vessels.”
+These clear statement rules ensure Congress does not, by
+broad or general language, legislate on a sensitive topic inad­
+vertently or without due deliberation. An all-or-nothing ap­
+proach, under which a statute is altogether inapplicable if
+but one of its speciﬁc applications trenches on the domain
+protected by a clear statement rule, would convert the clear
+statement rule from a principle of interpretive caution into
+a trap for an unwary Congress. If Congress passes broad
+legislation that has some applications that implicate a clear
+statement rule—say, some extraterritorial applications, or
+some applications that would regulate foreign ships’ internal
+affairs—an all-or-nothing approach would require that the
+entire statute, or some arbitrary set of applications larger
+than the domain protected by the clear statement rule,
+would be nulliﬁed. We decline to adopt that posture.
+545US1 Unit: $U56 [03-31-08 12:54:58] PAGES PGT: OPIN
+
+140  SPECTOR v. NORWEGIAN CRUISE LINE LTD.
+
+                                  Opinion of Kennedy, J.
+
+                                        B
+
+   Our holding that the clear statement rule operates only
+when a ship’s internal affairs are affected does not implicate
+our holding in Clark v. Martinez, 543 U. S. 371 (2005). Mar­
+tinez held that statutory language given a limiting construc­
+tion in one context must be interpreted consistently in other
+contexts, “even though other of the statute’s applications,
+standing alone, would not support the same limitation.” Id.,
+at 380. This was simply a rule of consistent interpretation
+of the statutory words, with no bearing on the implementa­
+tion of a clear statement rule addressed to particular statu­
+tory applications.
+
+   The statute in Martinez, 8 U. S. C. § 1231(a)(6), authorized
+detention of aliens pending their removal. In Zadvydas v.
+Davis, 533 U. S. 678, 696–699 (2001), the Court had inter­
+preted this statute to impose time limits on detention of
+aliens held for certain reasons stated in the statute. The
+Court held that an alternative interpretation, one allowing
+indeﬁnite detention of lawfully admitted aliens, would raise
+grave constitutional doubts. Having determined the mean­
+ing of § 1231(a)(6)’s text in Zadvydas, we were obliged in
+Martinez to follow the same interpretation even in a context
+where the constitutional concerns were not present. Marti­
+nez, 543 U. S., at 377–381. As already made clear, the ques­
+tion was one of textual interpretation, not the scope of some
+implied exception. The constitutional avoidance canon sim­
+ply informed the choice among plausible readings of
+§ 1231(a)(6)’s text: “The canon of constitutional avoidance,”
+Martinez explained, “comes into play only when, after the
+application of ordinary textual analysis, the statute is found
+to be susceptible of more than one construction; and the
+canon functions as a means of choosing between them.” Id.,
+at 385 (emphasis deleted).
+
+   Martinez gives full respect to the distinction between
+rules for resolving textual ambiguity and implied limitations
+on otherwise unambiguous text. Indeed, Martinez relies on
+545US1 Unit: $U56 [03-31-08 12:54:58] PAGES PGT: OPIN
+
+Cite as: 545 U. S. 119 (2005)                          141
+
+                                  Opinion of Kennedy, J.
+
+the distinction to reconcile its holding with two cases which
+did involve a clear statement rule, Raygor v. Regents of
+Univ. of Minn., 534 U. S. 533 (2002), and Jinks v. Richland
+County, 538 U. S. 456 (2003). Raygor had held that the toll­
+ing provision in the supplemental jurisdiction statute, 28
+U. S. C. § 1367(d), does not apply to nonconsenting States be­
+cause the statute lacks the required clear statement that
+States are within its coverage. Later, in Jinks, we held that
+the § 1367(d) tolling provision does apply to suits against
+counties. The counties were not protected by a clear state­
+ment rule analogous to the one applicable to States. See
+Martinez, 543 U. S., at 383, and n. 6; see also id., at 393–
+394 (Thomas, J., dissenting). “This progression of deci­
+sions,” we held in Martinez, “does not remotely establish
+that § 1367(d) has two different meanings, equivalent to
+the unlimited-detention/limited-detention meanings of
+§ 1231(a)(6) urged upon us here. They hold that the single
+and unchanging disposition of § 1367(d) . . . does not apply to
+claims against States that have not consented to be sued
+in federal court.” Id., at 383. The distinction between
+Zadvydas and Martinez, on the one hand, and Raygor and
+Jinks, on the other, is the distinction between a canon for
+choosing among plausible meanings of an ambiguous statute
+and a clear statement rule that implies a special substan­
+tive limit on the application of an otherwise unambiguous
+mandate.
+
+   The internal affairs clear statement rule is an implied limi­
+tation rule, not a principle for resolving textual ambiguity.
+Our cases, then, do not compel or permit the conclusion that
+if any one application of Title III might interfere with a
+foreign-ﬂag ship’s internal affairs, Title III is inapplicable to
+foreign ships in every other instance.
+
+                                ***
+
+   The Court of Appeals for the Fifth Circuit held that gen­
+eral statutes do not apply to foreign-ﬂag ships in United
+545US1 Unit: $U56 [03-31-08 12:54:58] PAGES PGT: OPIN
+
+142  SPECTOR v. NORWEGIAN CRUISE LINE LTD.
+
+                                 Opinion of Ginsburg, J.
+
+States waters. This Court’s cases, however, stand only for
+the proposition that general statutes are presumed not to
+impose requirements that would interfere with the internal
+affairs of foreign-ﬂag vessels. Except insofar as Title III
+regulates a vessel’s internal affairs—a category that is not
+always well deﬁned and that may require further judicial
+elaboration—the statute is applicable to foreign ships in
+United States waters to the same extent that it is applicable
+to American ships in those waters.
+
+   Title III’s own limitations and qualiﬁcations prevent the
+statute from imposing requirements that would conﬂict with
+international obligations or threaten shipboard safety.
+These limitations and qualiﬁcations, though framed in gen­
+eral terms, employ a conventional vocabulary for instructing
+courts in the interpretation and application of the statute.
+If, on remand, it becomes clear that even after these limita­
+tions are taken into account Title III nonetheless imposes
+certain requirements that would interfere with the internal
+affairs of foreign ships—perhaps, for example, by requiring
+permanent and substantial structural modiﬁcations—the
+clear statement rule would come into play. It is also open
+to the court on remand to consider application of the clear
+statement rule at the outset if, as a prudential matter, that
+appears to be the more appropriate course.
+
+   We reverse the judgment of the Court of Appeals and
+remand the case for further proceedings.
+
+                                                            It is so ordered.
+
+   Justice Ginsburg, with whom Justice Breyer joins,
+concurring in part and concurring in the judgment.
+
+   I agree with the Court’s holding that Title III of the
+Americans with Disabilities Act of 1990 covers cruise ships,
+ante, at 129, and allows them to resist modiﬁcations “that
+would conﬂict with international legal obligations,” ante, at
+137 (plurality opinion). I therefore join Parts I, II–A–1,
+545US1 Unit: $U56 [03-31-08 12:54:58] PAGES PGT: OPIN
+
+Cite as: 545 U. S. 119 (2005)                          143
+
+                                 Opinion of Ginsburg, J.
+
+and II–B–2 of the Court’s opinion. I would give no wider
+berth, however, to the “internal affairs” clear statement rule
+in determining Title III’s application to respondent’s cruise
+ships, the Norwegian Sea and Norwegian Star. But see
+ante, at 137. That rule, as I understand it, derives from,
+and is moored to, the broader guide that statutes “should not
+be interpreted to regulate foreign persons or conduct if that
+regulation would conﬂict with principles of international
+law.” Hartford Fire Ins. Co. v. California, 509 U. S. 764,
+815 (1993) (Scalia, J., dissenting); see also id., at 816 (de­
+scribing McCulloch v. Sociedad Nacional de Marineros
+de Honduras, 372 U. S. 10 (1963), as applying this principle);
+Murray v. Schooner Charming Betsy, 2 Cranch 64, 118
+(1804). Title III is properly read to avoid such conﬂict, but
+should not be hemmed in where there is no potential for
+international discord.1
+
+   The ﬁrst of the modern cases to address the application of
+a domestic statute to a foreign-ﬂag ship in U. S. waters, Benz
+v. Compania Naviera Hidalgo, S. A., 353 U. S. 138 (1957),
+did not resort to the tag, “internal affairs” rule, to explain
+the Court’s decision.2 Benz held that the Labor Manage­
+ment Relations Act did not reach relations between
+“a foreign employer and a foreign crew operating under an
+agreement made abroad under the laws of another nation.”
+Id., at 142. As we concluded in Benz, before reading our law
+to “run interference in such a delicate ﬁeld of international
+relations,” “where the possibilities of international discord
+are so evident and retaliative action so certain,” the Court
+should await Congress’ clearly expressed instruction. Id.,
+at 147.
+
+   1 Were a clear statement rule in order, I would agree with the plurality’s
+application-by-application approach.
+
+   2 Only in a footnote describing a National Labor Relations Board deci­
+sion did the Court make a synonymous reference to the “internal economy
+of a vessel of foreign registry and ownership.” Benz, 353 U. S., at 143,
+n. 5.
+545US1 Unit: $U56 [03-31-08 12:54:58] PAGES PGT: OPIN
+
+144  SPECTOR v. NORWEGIAN CRUISE LINE LTD.
+
+                                 Opinion of Ginsburg, J.
+
+   Six years later, in McCulloch v. Soci edad Nacional
+de Marineros de Honduras, 372 U. S. 10 (1963), the Court
+relied on Benz to hold that the National Labor Relations Act
+does not regulate the representation of alien seamen re­
+cruited in Honduras to serve aboard vessels under Honduran
+ﬂags. Applying our law “to the internal management and
+affairs” of the vessels in question, we observed, McCulloch,
+372 U. S., at 20, would produce a “head-on collision” with the
+regulatory regime installed under the Honduran labor code,
+id., at 21. “[S]uch highly charged international circum­
+stances,” we said, called for adherence to the venerable in­
+terpretive guide that “ ‘an act of Congress ought never to be
+construed to violate the law of nations if any other possible
+construction remains.’ ” Ibid. (quoting Schooner Charming
+Betsy, 2 Cranch, at 118). Cf. Longshoremen v. Ariadne
+Shipping Co., 397 U. S. 195, 200 (1970) (applying U. S. law to
+foreign ships’ labor relations with longshoreworkers em­
+ployed at U. S. ports is proper because doing so “would
+. . . threate[n] no interference in the internal affairs of
+foreign-ﬂag ships likely to lead to conﬂict with foreign or
+international law”).
+
+   The noninterference principle underlying the internal af­
+fairs clear statement rule is served in this case by the
+Court’s interpretation of Title III’s “readily achievable” pro­
+vision, 42 U. S. C. § 12182(b)(2)(A)(iv). See ante, at 135–136.
+Construing this language to allow ships to resist modiﬁca­
+tions “that would conﬂict with international legal obliga­
+tions,” ante, at 137, the plurality ensures that Title III will
+not provoke “international discord” of the kind Benz and Mc-
+Culloch sought to avoid. I agree with this interpretation,
+but would create no larger space for the internal affairs rule.
+
+   The plurality, however, suggests that the clear statement
+rule has a further ofﬁce: It may block structural modiﬁca­
+tions prompted by Title III that are “readily achievable”—
+because they do not conﬂict with international legal obliga­
+tions—but nonetheless “interfer[e] with a foreign ship’s
+545US1 Unit: $U56 [03-31-08 12:54:58] PAGES PGT: OPIN
+
+Cite as: 545 U. S. 119 (2005)                          145
+
+                                 Opinion of Ginsburg, J.
+
+internal affairs.” Ante, at 137. I disagree with this concep­
+tion of the rule. In positing an extended application of the
+internal affairs rule, the plurality cuts the rule loose from its
+foundation. As Benz and McCulloch demonstrate, the clear
+statement rule is an interpretive principle counseling against
+construction of a statute in a manner productive of interna­
+tional discord. When international relations are not at risk,
+and there is good reason to apply our own law, asserted in­
+ternal affairs of a ship should hold no greater sway than as­
+serted management prerogatives of a landlocked enterprise.3
+
+   As the plurality rightly notes, Title III is a broad remedial
+statute designed to protect persons with disabilities in a va­
+riety of activities and settings. See ante, at 132; § 12101(b).
+The United States has a strong interest in ensuring that
+U. S. resident cruise passengers enjoy Title III’s protections
+on both domestic and foreign ships. See § 12101; Brief for
+United States as Amicus Curiae 10.4 Once conﬂicts with
+international legal obligations are avoided, I see no reason
+to demand a clearer congressional statement that Title III
+reaches the vessels in question, ships that regularly sail to
+and from U. S. ports and derive most of their income from
+U. S. passengers. In sum, I agree that § 12182(b)(2)(A)(iv),
+properly read, does not require shipowners to make modiﬁ­
+cations that would conﬂict with international legal obliga­
+tions. But I would attribute to the internal affairs clear
+statement rule no further limitation on Title III’s gover­
+nance in this case.
+
+   3 One could hardly anticipate that, absent conﬂict with international
+legal obligations, the application of Title III sought in this case would
+generate a “storm of diplomatic protest.” Id., at 146 (noting “storm of
+diplomatic protest” against proposal to apply U. S. law to prohibit advance
+payments by a foreign vessel to foreign seamen in foreign ports).
+
+   4 As the Court notes, the ships at issue here “are operated by a company
+based in the United States, serve predominantly United States residents,
+and are in most other respects United States-centered ventures.” Ante,
+at 126. Merchant ships sailing between U. S. and foreign ports would
+present a different question.
+545US1 Unit: $U56 [03-31-08 12:54:58] PAGES PGT: OPIN
+
+146  SPECTOR v. NORWEGIAN CRUISE LINE LTD.
+
+                                   Opinion of Thomas, J.
+
+   Justice Thomas, concurring in part, dissenting in part,
+and concurring in the judgment in part.
+
+   When a law regulates the internal order of ships, Congress
+must clearly express its intent to apply the law to foreign­
+ﬂag ships. Ante, at 130–132 (plurality opinion); post, at 149–
+150 (Scalia, J., dissenting). I agree with Justice Scalia
+that this rule applies to any structural changes to a ship that
+Title III of the Americans with Disabilities Act of 1990
+(ADA) might require, for such changes to a ship’s physical
+structure pertain to its internal affairs. Post, at 151 (dis­
+senting opinion); see ante, at 134–135 (plurality opinion).
+I further agree with Justice Scalia that this clear state­
+ment rule applies once the possibility, rather than the cer­
+tainty, of international discord arises; and that the clear
+statement rule therefore does not require or permit the kind
+of express conﬂicts-of-law analysis that the plurality de­
+mands. Post, at 153–155 (dissenting opinion); ante, at 135–
+136 (majority opinion), 137 (plurality opinion). Moreover,
+I do not think that courts should (as the plurality permits)
+employ the rule selectively, applying it when “prudent” but
+declining to apply it when “appropriate.” Ante, at 137 (plu­
+rality opinion); see also post, at 158, n. 8 (Scalia, J., dissent­
+ing); Small v. United States, 544 U. S. 385, 405 (2005)
+(Thomas, J., dissenting) (“Whatever the utility of canons as
+guides to congressional intent, they are useless when modi­
+ﬁed in ways that Congress could never have imagined”).
+For those reasons, I join Part I–A of Justice Scalia’s dis­
+sent. While I conclude that the rule applies to certain as­
+pects of Title III, I agree with the plurality that it does not
+require an “all-or-nothing approach.” Ante, at 139. Conse­
+quently, those applications of Title III that do not pertain to
+internal affairs apply to foreign-ﬂag vessels. For that rea­
+son, I join Part III–A of the plurality opinion.
+
+   I reach this result, however, only because I continue to
+reject the “lowest common denominator” principle the Court
+articulated for the ﬁrst time in Clark v. Martinez, 543 U. S.
+545US1 Unit: $U56 [03-31-08 12:54:58] PAGES PGT: OPIN
+
+Cite as: 545 U. S. 119 (2005)                          147
+
+                                   Opinion of Thomas, J.
+
+371 (2005). See id., at 395–397 (Thomas, J., dissenting).
+The plurality, by contrast, accepts Clark. Moreover, it
+claims that applying Title III of the ADA to matters that
+are not within the realm of a ship’s internal order is consist­
+ent with Clark. The plurality’s efforts to distinguish Clark
+are implausible.
+
+   The plurality says that today’s case differs from Clark be­
+cause it invokes a clear statement rule to interpret unambig­
+uous text. According to the plurality, Clark concerned the
+application of a previously adopted limiting construction of
+ambiguous text, which this Court imposed to ameliorate un­
+related constitutional doubts. Ante, at 140–141. As an ini­
+tial matter, however, the statute at issue in Zadvydas v.
+Davis, 533 U. S. 678 (2001), and Clark was not ambiguous.
+Clark, supra, at 402–403 (Thomas, J., dissenting). Even as­
+suming for the sake of argument that it was ambiguous, the
+distinction the plurality draws has no basis in Clark. In
+Clark, this Court addressed the period of detention 8 U. S. C.
+§ 1231(a)(6) authorized for inadmissible aliens. This was a
+question left open by Zadvydas, supra, which had addressed
+the period of detention under the same statute but with re­
+spect to a different class of aliens—those who had been ad­
+mitted into the country. In Zadvydas, this Court had con­
+cluded that the possibility of indeﬁnite detention of admitted
+aliens raised signiﬁcant constitutional doubts and, in light of
+those doubts, it limited the Attorney General’s power to de­
+tain admitted aliens. 533 U. S., at 689–690, 699. Section
+1231(a)(6) does not distinguish between the two classes of
+aliens. Thus, this Court in Clark concluded it was com­
+pelled to apply that same construction, which was warranted
+only by the speciﬁc constitutional concerns arising for ad­
+mitted aliens, to the unadmitted aliens before it. 543 U. S.,
+at 378. Clark’s conclusion stemmed from the narrowing
+construction adopted in Zadvydas, not the type of rule or
+canon that gave rise to that construction. 543 U. S., at
+377–378.
+545US1 Unit: $U56 [03-31-08 12:54:58] PAGES PGT: OPIN
+
+148  SPECTOR v. NORWEGIAN CRUISE LINE LTD.
+
+                                   Opinion of Thomas, J.
+
+   The plurality’s reasoning cannot be squared with Clark’s
+“lowest common denominator” principle. Under Clark,
+“[t]he lowest common denominator, as it were, must govern.”
+Id., at 380. Just as in Zadvydas and Clark, this Court is
+called upon to interpret the same statutory text with respect
+to two different classes of cases—those that implicate the
+internal affairs of a vessel and those that do not. And just
+like the statute at issue in Zadvydas and Clark, Title III
+“applies without differentiation” to the internal and external
+affairs of foreign-ﬂag vessels, as well as the internal and ex­
+ternal affairs of domestic-ﬂag ships. 543 U. S., at 378.
+Thus, the limiting construction of Title III’s deﬁnitions ex­
+cluding foreign cruise ships from those deﬁnitions must gov­
+ern all applications of the statute, not just those applications
+that pertain to internal affairs. According to Clark, the
+Court may not narrow Title III on a case-by-case basis, de­
+pending on whether a particular application of Title III in­
+terferes with a ship’s internal order. In fact, it may not
+apply Title III to any ship or, for that matter, any entity at
+all, because Title III does not distinguish between any of
+the covered entities. This demonstrates why the principle
+Clark established is ﬂawed.
+
+   Today’s decision, then, cabins the Clark principle to apply
+only when the canon of constitutional avoidance is invoked
+to choose among ambiguous readings of a statute. But even
+here Clark will continue to make mischief. As I explained
+in Clark, the lowest common denominator principle requires
+courts to search out a single hypothetical constitutionally
+doubtful case to limit a statute’s terms in the wholly different
+case actually before the court, lest the court fail to adopt a
+reading of the statute that reﬂects the lowest common de­
+nominator. Id., at 400 (dissenting opinion). This requires
+a reverse-Salerno analysis that upends our facial challenge
+requirements. See Clark, supra, at 381–382; see also
+United States v. Salerno, 481 U. S. 739, 745 (1987) (for a facial
+challenge to succeed, there must be no circumstance in which
+545US1 Unit: $U56 [03-31-08 12:54:58] PAGES PGT: OPIN
+
+Cite as: 545 U. S. 119 (2005)                          149
+
+                                   Scalia, J., dissenting
+
+the statute is constitutional). For this and other reasons I
+have explained, the Clark analysis allows much havoc to be
+wrought from the canon of constitutional avoidance. See
+Clark, supra, at 395–401 (dissenting opinion).
+
+   In sum, I believe that Title III of the ADA, insofar as it
+requires structural changes, lacks a sufﬁciently clear state­
+ment that it applies to the internal affairs of foreign vessels.
+In my view the clear statement rule does not render Title
+III entirely inapplicable to foreign vessels; instead, Title III
+applies to foreign ships only to the extent to which it does
+not bear on their internal affairs. I therefore would remand
+for consideration of those Title III claims that do not pertain
+to the structure of the ship. Accordingly, I concur in Part
+III–A of the plurality opinion, join Part I–A of Justice
+Scalia’s dissent, and concur in the judgment in part.
+
+   Justice Scalia, with whom The Chief Justice and Jus­
+tice O’Connor join, and with whom Justice Thomas joins
+as to Part I–A, dissenting.
+
+   I respectfully dissent. The plurality correctly recognizes
+that Congress must clearly express its intent to apply its
+laws to foreign-ﬂag ships when those laws interfere with the
+ship’s internal order. Its attempt to place Title III of the
+Americans with Disabilities Act of 1990 (ADA) outside this
+rule through creative statutory interpretation and piecemeal
+application of its provisions is unsupported by our case law.
+Title III plainly affects the internal order of foreign-ﬂag
+cruise ships, subjecting them to the possibility of conﬂicting
+international obligations. I would hold that, since there is
+no clear statement of coverage, Title III does not apply to
+foreign-ﬂag cruise ships.
+
+                                        I
+
+                                        A
+
+   As the plurality explains, where a law would interfere
+with the regulation of a ship’s internal order, we require a
+clear statement that Congress intended such a result. See
+545US1 Unit: $U56 [03-31-08 12:54:58] PAGES PGT: OPIN
+
+150  SPECTOR v. NORWEGIAN CRUISE LINE LTD.
+
+                                   Scalia, J., dissenting
+
+ante, at 130. This rule is predicated on the “rule of inter­
+national law that the law of the ﬂag state ordinarily governs
+the internal affairs of a ship,” McCulloch v. Sociedad
+Nacional de Marineros de Honduras, 372 U. S. 10, 21 (1963),
+and is designed to avoid “the possibilit[y] of international
+discord,” Benz v. Compania Naviera Hidalgo, S. A., 353
+U. S. 138, 147 (1957); see also McCulloch, supra, at 19.
+
+   The clear-statement rule ﬁnds support not only in Benz
+and McCulloch, but in cases like Cunard S. S. Co. v. Mellon,
+262 U. S. 100, 128–129 (1923), where we held that the Na­
+tional Prohibition Act, 41 Stat. 305, forbade foreign-ﬂag ships
+from carrying or serving alcohol in United States territorial
+waters. Though we did not say so expressly in that case,
+prohibiting the carrying and serving of alcohol in United
+States waters cannot be said to affect the “internal order”
+of the ship, because it does not in any way affect the opera­
+tion or functioning of the craft.1 Similarly, in Lauritzen v.
+Larsen, 345 U. S. 571 (1953), and Hellenic Lines Ltd. v. Rho­
+ditis, 398 U. S. 306 (1970), we did not employ a clear­
+statement rule in determining whether foreign seamen in­
+jured aboard foreign-ﬂag ships could recover under the Jones
+Act, 41 Stat. 1007, 46 U. S. C. App. § 688. We distinguished
+these cases in McCulloch, explaining that a clear statement
+is not required “in different contexts, such as the Jones Act
+. . . where the pervasive regulation of the internal order of
+a ship may not be present.” 372 U. S., at 19, n. 9 (empha­
+sis added).2
+
+   1 The plurality also appears to have found that the National Prohibition
+Act contained a clear statement of intent to reach foreign-ﬂag vessels,
+because the Act had been amended to state that it applied to “all territory
+subject to [the] jurisdiction” of the United States. Cunard S. S. Co. v.
+Mellon, 262 U. S. 100, 127 (1923) (internal quotation marks omitted).
+
+   2 The plurality intimates that the clear-statement rule might be inappli­
+cable in situations where, as here, the foreign-ﬂag ships have a number of
+contacts with the United States. See ante, at 131–132. McCulloch, 372
+U. S., at 19, expressly rejected this approach, explaining that any attempt
+to weigh the ship’s contacts with the United States “would inevitably lead
+545US1 Unit: $U56 [03-31-08 12:54:58] PAGES PGT: OPIN
+
+Cite as: 545 U. S. 119 (2005)                          151
+
+                                   Scalia, J., dissenting
+
+   As the plurality concedes, ante, at 134, the structural mod­
+iﬁcations that Title III of the ADA requires under its
+barrier-removal provisions, see 42 U. S. C. §§ 12182(b)(2)
+(A)(iv), 12184(b)(2)(C), would plainly affect the ship’s “in­
+ternal order.” Rendering exterior cabins handicapped ac­
+cessible, changing the levels of coamings, and adding public
+restrooms—the types of modiﬁcations petitioners request—
+would require alteration of core physical aspects of the ship,
+some of which relate to safety. (Safety has, under interna­
+tional law, traditionally been the province of a ship’s ﬂag
+state.) This is quite different from prohibiting alcohol in
+United States waters or imposing tort liability for injuries
+sustained on foreign ships in port—the laws at issue in Cu­
+nard and the Jones Act cases. Those restrictions affected
+the ship only in limited circumstances, and in ways ancillary
+to its operation at sea. A ship’s design and construction, by
+contrast, are at least as integral to the ship’s operation and
+functioning as the bargaining relationship between ship­
+owner and crew at issue in Benz and McCulloch.
+
+   Moreover, the structural changes petitioners request
+would be permanent. Whereas a ship precluded from serv­
+ing or carrying alcohol in United States waters may cer­
+tainly carry and serve alcohol on its next trip from Italy to
+Greece, structural modiﬁcations made to comply with Ameri­
+can laws cannot readily be removed once the ship leaves our
+waters and ceases to carry American passengers. This is
+again much like the situation presented in Benz and McCul­
+loch, where the application of American labor laws would
+have continued to govern contracts between foreign ship­
+owners and their foreign crews well beyond their time in
+our waters.
+
+   The purpose of the “internal order” clear-statement re­
+quirement is to avoid casually subjecting oceangoing vessels
+to laws that pose obvious risks of conﬂict with the laws of the
+
+to embarrassment in foreign affairs and [would] be entirely infeasible in
+actual practice.”
+545US1 Unit: $U56 [03-31-08 12:54:58] PAGES PGT: OPIN
+
+152  SPECTOR v. NORWEGIAN CRUISE LINE LTD.
+
+                                   Scalia, J., dissenting
+
+ship’s ﬂag state, the laws of other nations, and international
+obligations to which the vessels are subject. That struc­
+tural modiﬁcations required under Title III qualify as mat­
+ters of “internal order” is conﬁrmed by the fact that they
+may already conﬂict with the International Convention for
+the Safety of Life at Sea (SOLAS), Nov. 1, 1974, [1979–1980]
+32 U. S. T. 47, T. I. A. S. No. 9700. That treaty, which estab­
+lishes the safety standards governing the design and main­
+tenance of oceangoing ships, has been ratiﬁed by 155 coun­
+tries. See International Maritime Organization, Summary
+of Status of Conventions, http://www.imo.org/Conventions/
+mainframe.asp?topic_id=247 (all Internet materials as visited
+June 2, 2005, and available in Clerk of Court’s case ﬁle). The
+ADA Accessibility Guidelines (ADAAG) Review Advisory
+Committee—the Government body Congress has charged
+with formulating the Title III barrier-removal guidelines—
+has promulgated rules requiring at least one accessible
+means of egress to be an elevator, whereas SOLAS, which
+requires at least two means of escape, does not allow eleva­
+tors to be one of them. See Passenger Vessel Access Advi­
+sory Committee, Final Report: Recommendations for Acces­
+sibility Guidelines for Passenger Vehicles, ch. 13, pt. I (Dec.
+2000), http://www.access-board.gov/news/pvaac-rept.htm
+(hereinafter PVAAC Report) (explaining potential conﬂicts
+between ADAAG regulations and SOLAS). The ADAAG
+rules set coaming heights for doors required to be accessible
+at one-half inch; SOLAS sets coaming heights for some exte­
+rior doors at three to six inches to ensure that those doors
+will be watertight. Ibid.
+
+   Similar inconsistencies may exist between Title III’s
+structural requirements and the disability laws of other
+countries. The United Kingdom, for example, is considering
+the promulgation of rules to govern handicapped accessibil­
+ity to passenger vehicles, including cruise ships. The rules
+being considered currently include exact speciﬁcations, down
+to the centimeter, for the height of handrails, beds, and elec­
+545US1 Unit: $U56 [03-31-08 12:54:58] PAGES PGT: OPIN
+
+Cite as: 545 U. S. 119 (2005)                          153
+
+                                   Scalia, J., dissenting
+
+trical switches, and the width of door openings. See Dis­
+abled Persons Transport Advisory Committee, The design of
+large passenger ships and passenger infrastructure: Guid­
+ance on meeting the needs of disabled people (Nov. 2000),
+http://www.dptac.gov.uk/pubs/guideship/pdf/dptacbroch.pdf.
+Though many of these regulations may be compatible with
+Title III, it is easy to imagine conﬂicts arising, given the
+detailed nature of ADAAG’s regulations. See PVAAC Re­
+port, chs. 1–11. As we have previously noted, even this
+“possibility of international discord” with regard to a sea­
+going vessel’s internal order, McCulloch, 372 U. S., at 21
+(emphasis added), gives rise to the presumption of noncover­
+age absent clear statement to the contrary.
+
+   The Court asserts that Title III would not produce con­
+ﬂicts with the requirements of SOLAS and would not
+compromise safety concerns. This argument comes at the
+expense of an expansive en passant interpretation of the
+exceptions to the barrier-removal requirements of Title
+III—which interpretation will likely have more signiﬁcant
+nationwide effects than the Court’s holding concerning Title
+III’s application to foreign-ﬂag vessels. Assuming, how­
+ever, that the argument is even correct,3 it is entirely beside
+the point. It has never been a condition for application of
+the foreign-ﬂag clear-statement rule that an actual conﬂict
+with foreign or international law be established—any more
+than that has been a condition for application of the clear­
+statement rule regarding extraterritorial effect of congres­
+
+   3 This is by no means clear. Title III deﬁnes “readily achievable” as
+“easily accomplishable and able to be carried out without much difﬁculty
+or expense.” 42 U. S. C. § 12181(9). It is, at best, ambiguous whether a
+barrier removal can be rendered not “easily accomplishable” or not “able
+to be carried out without much difﬁculty” by factors extrinsic to the re­
+moval itself. Conﬂict of an easily altered structure with foreign laws
+seems to me not much different from the tendency of an easily altered
+structure to deter customers. That is why, as suggested in text, the
+Court’s unexpected Title III holding may be the most signiﬁcant aspect of
+today’s foreign-ﬂag decision.
+545US1 Unit: $U56 [03-31-08 12:54:58] PAGES PGT: OPIN
+
+154  SPECTOR v. NORWEGIAN CRUISE LINE LTD.
+
+                                   Scalia, J., dissenting
+
+sional enactments. The reason to apply the rule here is that
+the structure of a ship pertains to the ship’s internal order,
+which is a matter presumably left to the ﬂag state unless
+Congress indicates otherwise. The basis for that presump­
+tion of congressional intent is principally (though perhaps
+not exclusively) that subjecting such matters to the com­
+mands of various jurisdictions raises the possibility (not nec­
+essarily the certainty) of conﬂict among jurisdictions and
+with international treaties. Even if the Court could, by an
+imaginative interpretation of Title III, demonstrate that
+in this particular instance there would be no conﬂict with
+the laws of other nations or with international treaties,4 it
+would remain true that a ship’s structure is preeminently
+part of its internal order; and it would remain true that sub­
+jecting ship structure to multiple national requirements
+invites conﬂict. That is what triggers application of the
+clear-statement rule.
+
+   Safety concerns—and speciﬁcally safety as related to ship
+structure—are traditionally the responsibility of the ﬂag
+state. Which is to say they are regarded as part of the
+ship’s internal order. And even if Title III makes ample
+provision for a safety exception to the barrier-removal re­
+quirements, what it considers necessary for safety is not nec­
+essarily what other nations or international treaties con­
+sider necessary.
+
+   The foregoing renders quite unnecessary the Court’s
+worry that Title III might require American cruise ships to
+adhere to Congress’s prescription in violation of SOLAS.
+See ante, at 135–136. If and when that possibility presents
+itself, the Court remains free to do what it does here: to
+interpret Title III so as to avoid any conﬂict. But the avail­
+
+   4 The Court, of course, has not even shown that Title III is consistent
+with the laws of the cruise ships’ ﬂag state; much less has it undertaken
+the Herculean task—which its theory of presumed coverage by domestic
+law would require—of showing Title III consistent with the laws of all the
+cruise ships’ ports of call.
+545US1 Unit: $U56 [03-31-08 12:54:58] PAGES PGT: OPIN
+
+Cite as: 545 U. S. 119 (2005)                          155
+
+                                   Scalia, J., dissenting
+
+ability of such an interpretation has no bearing upon
+whether the structural features of an oceangoing vessel are
+part of its internal order. (I must observe, however, that it
+seems much more plausible that Congress intended to re­
+quire American cruise ships to adhere to Title III regardless
+of SOLAS, than that—what the Court apparently believes—
+Congress intended Title III to be interpreted with an eye to
+SOLAS.) In any event, the application of Title III to ocean­
+going vessels under American ﬂag is not at issue here.
+I would therefore hold that, because Title III’s barrier­
+removal provisions clearly have the possibility of subjecting
+foreign-ﬂag ships to conﬂicting international obligations, no
+reading of Title III—no matter how creative—can alter the
+presumption that Title III does not apply to foreign-ﬂag
+ships without a clear statement from Congress.5
+
+                                        B
+
+   The plurality holds that, even “[i]f Title III did impose a
+duty that required [foreign-ﬂag] cruise ships to make perma­
+nent and signiﬁcant structural modiﬁcations[,] or . . . other­
+wise interfered with a foreign ship’s internal affairs, . . . Title
+III requirements having nothing to do with internal affairs
+would continue to apply to domestic and foreign ships alike.”
+Ante, at 137–138. I disagree. Whether or not Title III’s
+prescriptions regarding such matters implicate the “internal
+order” of the ship, they still relate to the ships’ maritime
+operations and are part of the same Title III.6 The require­
+ments of that enactment either apply to foreign-ﬂag ships or
+
+   5 Of course this clear-statement rule would not apply to the onshore
+operations of foreign cruise companies, which would be treated no differ­
+ently from the operations of other foreign companies on American soil.
+
+   6 This includes the pricing and ticketing policies, which are intimately
+related to the ships’ maritime operations (and perhaps to internal order)
+because they are designed to defray the added cost and provide the added
+protection that the cruise-ship companies deem necessary for safe trans­
+port of disabled passengers.
+545US1 Unit: $U56 [03-31-08 12:54:58] PAGES PGT: OPIN
+
+156  SPECTOR v. NORWEGIAN CRUISE LINE LTD.
+
+                                   Scalia, J., dissenting
+
+they do not. It is not within our power to design a statute
+some of whose provisions apply to foreign-ﬂag ships and
+other of whose provisions do not—any more than it is within
+our power to prescribe that the statute applies to foreign­
+ﬂag cruise ships 60% of whose passengers are United States
+citizens and does not apply to other foreign-ﬂag cruise ships.
+
+   The plurality’s assertion that those portions of Title III
+that do not implicate a ship’s internal order apply to foreign­
+ﬂag ships displays a confusion between a principle of inter­
+pretation based upon a true-to-fact presumption of congres­
+sional intent, and a court-made rule. The plurality seems to
+forget that it is a matter of determining whether Congress
+in fact intended that its enactment cover foreign-ﬂag ships.
+To believe that there was any such intent section-by-section
+and paragraph-by-paragraph is delusional. Either Congress
+enacted Title III only with domestic entities (and not
+foreign-ﬂag ships) in mind, or it intended Title III to apply
+across-the-board. It could not possibly be the real congres­
+sional intent that foreign-ﬂag cruise ships be considered
+“place[s] of public accommodation” or “speciﬁed public trans­
+portation” for purposes of certain provisions but not for oth­
+ers. That Congress had separate foreign-ﬂag intent with
+respect to each requirement—and would presumably adopt
+a clear statement provision-by-provision—is utterly implau­
+sible. And far from its being the case that this creates
+“a trap for an unwary Congress,” ante, at 139, it is the plu­
+rality’s disposition that, in piecemeal fashion, applies to
+foreign-ﬂag ships provisions never enacted with foreign-ﬂag
+vessels in mind.7 We recently addressed a similar question
+
+   7 The plurality’s discussion of Longshoremen v. Ariadne Shipping Co.,
+397 U. S. 195 (1970), is misleading. Although Ariadne clearly recognized
+the existence of an internal-order rule in our case law, see id., at 200,
+Ariadne did not hold, similarly to what the plurality holds here, that appli­
+cation of the foreign-ﬂag clear-statement rule prevented some provisions
+of the National Labor Relations Act (NLRA) from being applied to
+foreign-ﬂag ships but allowed others to be applied. Rather, it held that
+the clear-statement rule did not apply at all to activities that were not
+“within the ‘maritime operations of foreign-ﬂag ships.’ ” Ibid. The case
+545US1 Unit: $U56 [03-31-08 12:54:58] PAGES PGT: OPIN
+
+Cite as: 545 U. S. 119 (2005)                          157
+
+                                   Scalia, J., dissenting
+
+in Clark v. Martinez, 543 U. S. 371 (2005), where we ex­
+plained that a statutory provision must be interpreted con­
+sistently from case to case. “It is not at all unusual to give
+a statut[e] . . . a limiting construction called for by one of
+the statute’s applications, even though other of the statute’s
+applications, standing alone, would not support the same lim­
+itation.” Id., at 380. That principle should apply here.
+Since some applications of Title III plainly affect the internal
+order of foreign-ﬂag ships, the absence of a clear statement
+renders the statute inapplicable—even though some appli­
+cations of the statute, if severed from the rest, would not
+require clear statement.
+
+   This does not mean that a clear statement is required
+whenever a court applies Title III to any entity—only that
+a clear statement is required to apply any part of Title III
+to foreign-ﬂag ships. Raygor v. Regents of Univ. of Minn.,
+534 U. S. 533 (2002), and Jinks v. Richland County, 538 U. S.
+456 (2003), do not dictate otherwise. Raygor held that 28
+U. S. C. § 1367(d) does not include, in its tolling of the limita­
+tions period, claims against States, because it contains no
+clear statement that States are covered. Jinks held that
+§ 1367(d)’s tolling provision does apply to claims against polit­
+ical subdivisions of States, because no clear-statement re­
+quirement applies to those entities. In other words, a clear
+statement is required to apply § 1367(d) to States, just as a
+clear statement is required to apply Title III to foreign-ﬂag
+ships. A clear statement is not required to apply § 1367(d)
+to political subdivisions of States, just as a clear statement
+is not required to apply Title III to domestic ships or other
+domestic entities. The question in each of these cases is
+whether the statute at issue covers certain entities, not
+whether some provisions of a statute cover a given entity.
+
+is relevant only to questions the Court does not decide here—namely, ap­
+plication of Title III to onshore operations of the foreign-ﬂag ships. It is
+not relevant to the question whether all maritime activities are exempt
+from Title III for lack of a clear statement.
+545US1 Unit: $U56 [03-31-08 12:54:58] PAGES PGT: OPIN
+
+158  SPECTOR v. NORWEGIAN CRUISE LINE LTD.
+
+                                   Scalia, J., dissenting
+
+   The ﬁne tuning of legislation that the plurality requires
+would be better left to Congress. To attempt it through the
+process of case-by-case adjudication is a recipe for endless
+litigation and confusion. The plurality’s resolution of today’s
+case proves the point. It requires this Title III claimant
+(and every other one who brings a claim against a foreign
+shipowner) to show that each particular remedy he seeks
+does not implicate the internal order of the ship. That
+showing, where structural modiﬁcation is involved, would
+not only require the district court to determine what is
+“readily achievable,” ante, at 135–136 (majority opinion), and
+what would “pose ‘a signiﬁcant risk to the health or safety
+of others, ’ ” ante, at 136 (majority opinion) (quoting
+§ 12182(b)(3)), but would also require it to determine the obli­
+gations imposed by foreign law and international treaties.8
+All this to establish the preliminary point that Title III ap­
+plies and the claim can proceed to adjudication. If Congress
+desires to impose this time-consuming and intricate process,
+it is certainly able to do so—though I think it would likely
+prefer some more manageable solution.9 But for the plural­
+
+   8 The plurality attempts to simplify this inquiry by explaining that, if
+it is “a difﬁcult question whether a particular Title III barrier-removal
+requirement is readily achievable, but the requirement does entail a per­
+manent and signiﬁcant structural modiﬁcation, interfering with a foreign
+ship’s internal affairs[,] a court sensibly could invoke the clear statement
+rule without determining whether Title III actually imposes the require­
+ment.” Ante, at 137. It is impossible to reconcile this with the plural­
+ity’s rationale, which excludes the clear-statement rule when there is no
+actual conﬂict with foreign law. On the plurality’s own analysis, signiﬁ­
+cant structural modiﬁcations are least likely to pose an actual conﬂict with
+foreign law, since they are most likely to be regarded as (under the plural­
+ity’s new Title III jurisprudence) not “readily achievable” and hence not
+required. I am at a loss to understand what the plurality has in mind.
+
+   9 After this Court concluded, in EEOC v. Arabian American Oil Co.,
+499 U. S. 244, 260 (1991) (ARAMCO), that Title VII of the Civil Rights
+Act of 1964 does not protect American citizens working for American em­
+ployers in foreign countries, Congress amended Title VII. Unlike what
+would have been this Court’s only available resolution of the issue had it
+545US1 Unit: $U56 [03-31-08 12:54:58] PAGES PGT: OPIN
+
+Cite as: 545 U. S. 119 (2005)                          159
+
+                                   Scalia, J., dissenting
+
+ity to impose it as a novel consequence of the venerable
+clear-statement rule seems to me unreasonable. I would
+therefore decline to apply all of Title III to foreign-ﬂag ships
+without a clear statement from Congress.
+
+                                       II
+
+   As the Court appears to concede, neither the “public ac­
+commodation” provision nor the “speciﬁed public transporta­
+tion” provision of Title III clearly covers foreign-ﬂag cruise
+ships. The former prohibits discrimination “on the basis of
+disability in the full and equal enjoyment of the goods, serv­
+ices, facilities, privileges, advantages, or accommodations of
+any place of public accommodation by any person who owns,
+leases (or leases to), or operates a place of public accommo­
+dation.” 42 U. S. C. § 12182(a). Though Congress gave a
+seemingly exhaustive list of entities constituting “public ac­
+commodation[s]”—including inns, hotels, restaurants, the­
+aters, banks, zoos, and laundromats—it failed to mention
+ships, much less foreign-ﬂag ships. See § 12181(7). Partic­
+ularly where Congress has provided such detailed speciﬁca­
+tion, this is not a clear statement that foreign-ﬂag ships are
+covered. Petitioners also claim that, because cruise ships
+are essentially ﬂoating hotels that contain restaurants and
+other facilities explicitly named in § 12181(7), they should be
+covered. While this may support the argument that cruise
+ships are “public accommodations,” it does not support the
+position that Congress intended to reach foreign-ﬂag cruise
+ships.
+
+   The “speciﬁed public transportation” provision prohibits
+discrimination on the basis of disability “in the full and equal
+
+come to the opposite conclusion in ARAMCO—that Title VII applies to
+all American employers operating abroad—Congress was able to craft a
+more nuanced solution by exempting employers if compliance with Title
+VII would run afoul of the law in the country where the workplace was
+located. See 42 U. S. C. § 2000e–1(b); cf. § 12112(c)(1) (same disposition for
+Title I of the ADA).
+545US1 Unit: $U56 [03-31-08 12:54:58] PAGES PGT: OPIN
+
+160  SPECTOR v. NORWEGIAN CRUISE LINE LTD.
+
+                                   Scalia, J., dissenting
+
+enjoyment of speciﬁed public transportation services pro­
+vided by a private entity that is primarily engaged in the
+business of transporting people and whose operations affect
+commerce.” § 12184(a). The deﬁnition of “speciﬁed public
+transportation” includes “transportation by bus, rail, or any
+other conveyance (other than by aircraft) that provides
+the general public with general or special service (includ­
+ing charter service) on a regular and continuing basis.”
+§ 12181(10). “[A]ny other conveyance” clearly covers ships.
+But even if the statute speciﬁcally mentioned ships, that
+would not be a clear statement that foreign-ﬂag ships are
+included—any more than the reference to “employer” in the
+NLRA constituted a clear statement that foreign-ﬂag ship
+employers were covered, see McCulloch, 372 U. S., at 19–21.
+
+   Title III of the ADA stands in contrast to other statutes
+in which Congress has made clear its intent to extend its
+laws to foreign ships. For example, the Maritime Drug Law
+Enforcement Act, 94 Stat. 1159, 46 U. S. C. App. § 1901
+et seq., which permits the inspection and apprehension of
+vessels suspected of possessing controlled substances, ap­
+plies to “vessel[s] subject to the jurisdiction of the United
+States,” § 1903(a), which includes vessels “located within the
+customs waters of the United States,” § 1903(c)(1)(D), and
+“vessel[s] registered in a foreign nation where the ﬂag nation
+has consented or waived objection” to United States jurisdic­
+tion, § 1903(c)(1)(C). Section 5 of the Johnson Act, 64 Stat.
+1135, as amended, 106 Stat. 61, 15 U. S. C. § 1175(a), restricts
+the use of gambling devices “on a vessel . . . documented
+under the laws of a foreign country.” See also 14 U. S. C.
+§ 89(a) (Coast Guard may engage in searches on “waters over
+which the United States has jurisdiction” of “any vessel sub­
+ject to the jurisdiction, or to the operation of any law, of the
+United States”); 18 U. S. C. § 2274 (making it unlawful for
+“the owner, master or person in charge or command of
+any private vessel, foreign or domestic . . . within the ter­
+ritorial waters of the United States” willfully to cause or
+545US1 Unit: $U56 [03-31-08 12:54:58] PAGES PGT: OPIN
+
+Cite as: 545 U. S. 119 (2005)                          161
+
+                                   Scalia, J., dissenting
+
+permit the destruction or injury of their vessel in certain
+circumstances).
+
+   That the Department of Justice and the Department of
+Transportation—the executive agencies charged with enforc­
+ing the ADA—appear to have concluded that Congress in­
+tended Title III to apply to foreign-ﬂag cruise ships does not
+change my view. We “accept only those agency interpreta­
+tions that are reasonable in light of the principles of con­
+struction courts normally employ.” ARAMCO, 499 U. S.
+244, 260 (1991) (Scalia, J., concurring in part and concurring
+in judgment) (declining to adopt the Equal Employment Op­
+portunity Commission’s determination that Title VII applied
+to employers abroad); see also id., at 257–258 (opinion of the
+Court) (same). In light of our longstanding clear-statement
+rule, it is not reasonable to apply Title III here.
+
+   I would therefore afﬁrm the Fifth Circuit’s judgment that
+Title III of the ADA does not apply to foreign-ﬂag cruise
+ships in United States territorial waters.
+

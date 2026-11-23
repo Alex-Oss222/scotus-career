@@ -1,0 +1,106 @@
+[
+  {
+    "case": "alaska",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep545/usrep545075/usrep545075.pdf",
+    "pages": 47,
+    "characters": 105699,
+    "text_characters": 107101,
+    "case_header": "No. 128, Orig. Argued January 10, 2005\u2014Decided June 6, 2005"
+  },
+  {
+    "case": "spector",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep545/usrep545119/usrep545119.pdf",
+    "pages": 43,
+    "characters": 109671,
+    "text_characters": 100670,
+    "case_header": "No. 03\u20131388. Argued February 28, 2005\u2014Decided June 6, 2005"
+  },
+  {
+    "case": "johnson",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep545/usrep545162/usrep545162.pdf",
+    "pages": 13,
+    "characters": 32991,
+    "text_characters": 29957,
+    "case_header": "No. 04\u20136964. Argued April 18, 2005\u2014Decided June 13, 2005"
+  },
+  {
+    "case": "bradshaw",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep545/usrep545175/usrep545175.pdf",
+    "pages": 18,
+    "characters": 42298,
+    "text_characters": 39319,
+    "case_header": "No. 04\u2013637. Argued April 19, 2005\u2014Decided June 13, 2005"
+  },
+  {
+    "case": "merck",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep545/usrep545193/usrep545193.pdf",
+    "pages": 16,
+    "characters": 40457,
+    "text_characters": 37060,
+    "case_header": "No. 03\u20131237. Argued April 20, 2005\u2014Decided June 13, 2005"
+  },
+  {
+    "case": "wilkinson",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep545/usrep545209/usrep545209.pdf",
+    "pages": 22,
+    "characters": 55844,
+    "text_characters": 51115,
+    "case_header": "No. 04\u2013495. Argued March 30, 2005\u2014Decided June 13, 2005"
+  },
+  {
+    "case": "miller-el",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep545/usrep545231/usrep545231.pdf",
+    "pages": 77,
+    "characters": 191651,
+    "text_characters": 177366,
+    "case_header": "No. 03\u20139659. Argued December 6, 2004\u2014Decided June 13, 2005"
+  },
+  {
+    "case": "grable",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep545/usrep545308/usrep545308.pdf",
+    "pages": 15,
+    "characters": 36231,
+    "text_characters": 33694,
+    "case_header": "No. 04\u2013603. Argued April 18, 2005\u2014Decided June 13, 2005"
+  },
+  {
+    "case": "san-remo",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep545/usrep545323/usrep545323.pdf",
+    "pages": 30,
+    "characters": 78479,
+    "text_characters": 72573,
+    "case_header": "No. 04\u2013340. Argued March 28, 2005\u2014Decided June 20, 2005"
+  },
+  {
+    "case": "dodd",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep545/usrep545353/usrep545353.pdf",
+    "pages": 21,
+    "characters": 55597,
+    "text_characters": 49863,
+    "case_header": "No. 04\u20135286. Argued March 22, 2005\u2014Decided June 20, 2005"
+  },
+  {
+    "case": "rompilla",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep545/usrep545374/usrep545374.pdf",
+    "pages": 35,
+    "characters": 88872,
+    "text_characters": 80853,
+    "case_header": "No. 04\u20135462. Argued January 18, 2005\u2014Decided June 20, 2005"
+  },
+  {
+    "case": "graham-county",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep545/usrep545409/usrep545409.pdf",
+    "pages": 20,
+    "characters": 52702,
+    "text_characters": 47249,
+    "case_header": "No. 04\u2013169. Argued April 20, 2005\u2014Decided June 20, 2005"
+  },
+  {
+    "case": "american-trucking",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep545/usrep545429/usrep545429.pdf",
+    "pages": 11,
+    "characters": 28906,
+    "text_characters": 25931,
+    "case_header": "No. 03\u20131230. Argued April 26, 2005\u2014Decided June 20, 2005"
+  }
+]
