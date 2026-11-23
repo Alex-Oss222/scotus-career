@@ -1,0 +1,140 @@
+Source: https://www.law.cornell.edu/supct/html/03-674.ZS.html
+
+
+
+JAMA V. IMMIGRATION AND CUSTOMS ENFORCEMENT
+
+LII
+
+Supreme Court
+
+JAMA V. IMMIGRATION AND CUSTOMS ENFORCEMENT (03-674) 
+329 F.3d 630, affirmed.
+Syllabus
+ Opinion
+ [ Scalia ]Dissent
+ [ Souter ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be
+released, as is being done in connection with this case, at the
+time the opinion is issued.
+The syllabus constitutes no part
+of the opinion of the Court but has been prepared by the
+Reporter of Decisions for the convenience of the reader.
+See
+United States v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+JAMA v. IMMIGRATION AND CUSTOMS
+
+ENFORCEMENT
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE EIGHTH CIRCUIT
+ 
+No. 03—674.Argued October 12,
+2004–Decided January 12, 2005
+
+Title 8 U.S.C. §
+1231(b)(2) prescribes the procedure for selecting the
+country to which an alien ineligible to remain in the United
+States will be removed.  Petitioner had his refugee status in
+the United States terminated for a criminal conviction.  When
+he declined to designate a country to which he preferred to be
+removed, the Immigration Judge ordered him removed to Somalia,
+his country of birth, pursuant to §1231(b)(2)(E)(iv). 
+Petitioner filed a habeas petition to challenge the
+designation, claiming that Somalia had no functioning
+government and thus could not consent in advance to his
+removal, and that the Government was barred from removing him
+there absent such advance consent.  The District Court agreed,
+but the Eighth Circuit reversed, holding that
+§1231(b)(2)(E)(iv) does not require advance acceptance by
+the destination country.
+
+Held: Section 1231(b)(2)(E)(iv)
+permits an alien to be removed to a country without the advance
+consent of that country’s government. 
+Pp. 2—17.
+
+    (a) Section
+1231(b)(2) provides four consecutive removal commands: (1) An
+alien shall be removed to the country of his choice
+(subparagraphs (A) to (C)), unless a condition eliminating that
+command is satisfied; (2) otherwise he shall be removed to the
+country of which he is a citizen (subparagraph (D)), unless a
+condition eliminating that command is satisfied; (3) otherwise
+he shall be removed to a country with which he has a lesser
+connection (subparagraph (E), clauses (i) to (vi), including
+the country of his birth (clause iv)); or (4) if that is
+“impracticable, inadvisable or impossible,” he shall
+be removed to another country whose government will accept him
+(subparagraph (E), clause (vii)).  Here, the question is
+whether the Attorney General was precluded from removing
+petitioner to Somalia under subparagraph (E), clause (iv),
+because Somalia had not consented.  Pp. 2—6.
+
+      (b) In all
+of subparagraph (E), an acceptance requirement appears only in
+clause (vii), the fourth step of the process, which the
+Attorney General may invoke only after finding the third step
+“impracticable, inadvisable, or impossible.”	Clauses
+(i) through (vi) contain not a word about acceptance by the
+destination country.  Including the word “another” in
+clause (vii) does not import the acceptance requirement into
+clauses (i)—(vi).	Such a reading stretches the modifier
+too far, contrary to “the grammatical ‘rule of the
+last antecedent,’ ”
+Barnhart v. Thomas, 540 U.S. 20, 26. 
+Subparagraph (E)’s structure does not refute the inference
+derived from the last-antecedent rule.	Pp. 6—9.
+
+      (c) Nor is
+an acceptance requirement manifest in §1231(b)(2)’s
+structure.  First, the overlap between subparagraphs (D) and
+(E) is not so complete as to justify imposing an acceptance
+requirement at the third step in the name of preventing the
+Attorney General from “circumventing” the second
+step.  Second, the statute expressly countenances removal to a
+country notwithstanding its objections.  Subparagraph (C)
+provides that at the first step of the country-selection
+process, the Attorney General “may” refrain from
+removing an alien to the country of his choice if that country
+does not accept the alien; the Attorney General thus has
+discretion to override any lack of acceptance.	Finally, the
+existence of an acceptance requirement at the fourth step does
+not imply that such a requirement must exist at the third.  To
+infer an absolute rule of acceptance where Congress has not
+clearly set it forth would run counter to this Court’s
+customary policy of deference to the President in foreign
+affairs, and would not be necessary to ensure appropriate
+consideration to conditions in the country of removal, since
+aliens facing persecution or other mistreatment have a number
+of available remedies.	Pp. 10—13.
+
+      (d) Contrary
+to petitioner’s argument, the acceptance requirement is
+“neither settled judicial construction nor one which [the
+Court] would be justified in presuming Congress, by its
+silence, impliedly approved,” United States v.
+Powell, 379 U.S.
+48, 55, n. 13, in its most recent reenactment of
+§1231(b)(2).  Pp. 13—16.
+
+329 F.3d 630, affirmed.
+
+    Scalia, J., delivered
+the opinion of the Court, in which Rehnquist, C. J., and
+O’Connor, Kennedy, and Thomas, JJ., joined.  Souter, J.,
+filed a dissenting opinion, in which Stevens, Ginsburg, and
+Breyer, JJ., joined.

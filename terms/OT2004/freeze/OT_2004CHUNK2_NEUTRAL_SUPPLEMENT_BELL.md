@@ -1,0 +1,29 @@
+# Bell v. Cone — frozen neutral supplement for affected modeling
+
+This supplement is frozen before affected remodeling. It supplements, and does not overwrite, `OT_2004CHUNK2_NEUTRAL_C.md` and `OT_2004CHUNK2_PREFLIGHT_C.md`. Authorized new source: `../research/chunk2-comparison/BELL_NEUTRAL_SOURCE_FACTS.md`, the only file read in that comparison directory. Neither saved full historical Supreme Court opinion, comparison review, comparator nor Stone material was opened. The original group C commitments remain untouched. No Git operation occurred and no locked-directory access occurred. All Python invocations use -B.
+
+## Validated additions and precise limits
+
+1. The reported state appellate submissions invoked narrowing authorities and victim suffering: Cone cited Pritchett, and the State cited Pritchett and Melson. This strengthens the evidentiary basis for considering the actual state narrowing framework. It does not by itself establish express federal presentation, actual federal merits adjudication, the date of every submission or the legal adequacy of the jury instruction. In particular, the document references do not authorize inventing an earlier filing date.
+
+2. The Tennessee Supreme Court rejected the risk-to-two-or-more-other-persons aggravator and expressly found that particular error harmless beyond a reasonable doubt. Its explanation relied on the other aggravators' strength. That is a state legal determination on the distinct risk aggravator, not a federal finding and not an adjudication that a hypothetical or established heinousness defect was harmless. No transfer of the harmlessness conclusion between the factors is admitted. Whether the reasoning substantively satisfies the applicable constitutional standard remains a legal issue.
+
+3. The state postconviction court characterized the federal vagueness challenge as previously determined, while the federal district court characterized it as barred for omission on direct appeal. The former account includes a December 16, 1993 ruling, the reported 1995 appellate affirmance and the state supreme court's denial of permission. These accounts identify a real question concerning actual state treatment; neither one alone establishes the precise federal merits adjudication, its date, or a valid default bar. No assertion is made that mere inclusion among the 52 grounds established exhaustion or adjudication.
+
+4. Section 2254(b)(2) permits merits denial notwithstanding nonexhaustion. The exact term-opening Standard, “Exhaustion and merits denial under amended §2254,” already states the permission and its discretionary character. It became effective through the April 24, 1996 enactment and applies to this July 1, 1997 application under the 2002 Bell mandate's framework. Unresolved exhaustion therefore does not itself compel remand. The provision permits rather than requires denial, supplies no merits finding, and does not erase a distinct section 2254(d) or substantive condition. A merits path favorable to the petitioner on the disputed review premise may independently defeat a claim without deciding the disputed bar, if the actual supported merits analysis is sufficient.
+
+## Relationship to existing facts and law
+
+The original packet already reports actual state discussion of conscious suffering and the manner of killing without naming Dicks. The new submissions fact supports examining that discussion as an application of known narrowing authorities rather than treating the omitted case name as proof of ignorance. It does not convert familiarity alone into application or correction. The original assertion that an unexamined claim cannot be assumed to have been decided remains intact.
+
+The prior state opinion's rejection of a different aggravator must be analyzed separately from whether the heinousness factor was validly narrowed and whether a properly presented jury/weighing error requires actual correction. Sochor distinguishes its valid judicial narrowing application from its separate invalid-factor and jury questions. Richmond and Lambrix require an actual correction when their violation and review predicates are met; they do not require correction before any violation is established. Early and Visciotti reject both citation formalism and conclusory deference.
+
+The additional mechanical reading slice `../entering-law/OT_2004CHUNK2_BELL_REFRESH.md` copies the exhaustion/merits-denial, actual-merits review and invalid-aggravator Standards. The original C entering-law slice remains unchanged. The event cutoff remains January 24, 2005, with the relevant state merits adjudication's own federal-law cutoff identified separately; later cases are not automatically backdated to 1984. No Ring claim is added.
+
+## Supported decisional paths for fresh modeling
+
+- Final merits rejection of the reviewed lack-of-narrowing claim, if actual state narrowing is sufficiently demonstrated even without resolving nonexhaustion, with the mandate precisely limited to that ground and section 2254(b)(2)'s actual permission.
+- Bounded vacatur and remand if a necessary actual-narrowing or distinct jury/cure issue remains unresolved; a remand cannot rest merely on the existence of a default dispute when an independently sufficient merits-denial route is available.
+- Continued sentence relief only after the actual statutory gateway and constitutional defect are established and an actual cure is absent; a missing citation and the different risk-factor harmlessness ruling do not supply those predicates.
+
+No result, vote, opinion author or final coalition is frozen in this supplement. All eight Associates remain participating. Source limits are confined to the supplied published recitations; the original state briefs were not separately recovered. These facts support affected independent modeling without a new factual reconstruction or a claim of historical-Supreme-Court blindness that was not maintained.

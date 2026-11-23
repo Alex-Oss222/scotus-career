@@ -1,0 +1,134 @@
+Source: https://www.law.cornell.edu/supct/html/03-1293.ZS.html
+
+
+
+WHITFIELD V. UNITED STATES
+
+LII
+
+Supreme Court
+
+WHITFIELD V. UNITED STATES (03-1293) 
+349 F.3d 1320, affirmed. 
+Syllabus
+ Opinion
+ [ O’Connor ]
+
+HTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be
+released, as is being done in connection with this case, at the
+time the opinion is issued.
+The syllabus constitutes no part
+of the opinion of the Court but has been prepared by the
+Reporter of Decisions for the convenience of the reader.
+See
+United States v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+WHITFIELD v. UNITED STATES
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE ELEVENTH CIRCUIT
+ 
+No. 03—1293.Argued November 30,
+2004–Decided January 11, 2005*
+
+Petitioners were convicted of conspiracy to
+launder money in violation of 18 U.S.C. §
+1956(h) after the District Court denied their request to
+instruct the jury that the Government was required to prove
+beyond a reasonable doubt that at least one of the
+co-conspirators had committed an overt act in furtherance of
+the conspiracy.  The Court of Appeals affirmed the convictions,
+holding, in relevant part, that the jury instructions were
+proper because §1956(h) does not require proof of an overt
+act.
+
+Held: Conviction for conspiracy
+to commit money laundering, in violation of §1956(h), does
+not require proof of an overt act in furtherance of the
+conspiracy.  Pp. 3—10.
+
+    (a) Section
+1956(h) provides: “Any person who conspires to commit any
+offense defined in [§1956] or section 1957 shall be
+subject to the same penalties as those prescribed for the
+offense the commission of which was the object of the
+conspiracy.”  In United States v. Shabani,
+513 U.S. 10, this
+Court held that the nearly identical language of the drug
+conspiracy statute, 21
+U.S.C. § 846 does not require proof of an over act. 
+The Shabani Court found instructive the distinction
+between §846 and the general conspiracy statute, 18 U.S.C. § 371
+which supersedes the common law rule by expressly including an
+overt-act requirement.	Shabani distilled the governing
+rule for conspiracy statutes: Nash v. United
+States, 229 U.S.
+373, and Singer v. United States, 323 U.S. 338,
+“ ‘give Congress a
+formulary: by choosing a text modeled on §371, it
+gets an overt-act requirement; by choosing a text modeled on
+the Sherman Act, 15
+U.S.C. § 1 [which, like 21 U.S.C. § 846
+omits any express overt-act requirement], it dispenses with
+such a requirement.’ ” 
+513 U.S., at 14.  This rule dictates the outcome here as well: 
+Because §1956(h)’s text does not expressly make the
+commission of an overt act an element of the conspiracy
+offense, the Government need not prove an overt act to obtain a
+conviction.  Pp. 3—5.
+
+    (b) Petitioners’ argument
+that Shabani is inapplicable because §1956(h) does
+not establish a new conspiracy offense, but merely
+increases the penalty for conviction of a money
+laundering conspiracy under §371, is untenable for two
+reasons: Section §1956(h)’s text is sufficient to
+establish an offense and fails to provide any cross-reference
+to §371.  Had Congress intended to create the scheme
+petitioners envision, it would have done so in clearer terms. 
+Because §1956(h)’s text is plain and unambiguous, the
+Court need not consider petitioners’ argument that the
+provision’s legislative history supports their
+construction by virtue of its failure to indicate that Congress
+meant to create a new offense or to eliminate §371’s
+overt-act requirement for money laundering conspiracies.  In
+any event, mere silence in the legislative history cannot
+justify reading an overt-act requirement into §1956(h). 
+See, e.g., United States v. Wells, 519 U.S. 482,
+496—497.  Petitioners’ legislative history argument
+is particularly inapt here because Congress is presumed to have
+had knowledge of Nash and Singer when it enacted
+§1956(h).	Petitioners’ arguments as to
+§1956’s text and structure as a whole–(1) that
+had Congress intended §1956(h) to create a new conspiracy
+offense, it would have placed that offense with the three
+substantive money laundering offenses set forth in
+§1956(a); and (2) that by providing that “[a]
+prosecution for [a money laundering] conspiracy offense …
+may be brought in the district where venue would lie for the
+completed offense under [§1956(i)(1)], or in any other
+district where an act in furtherance of the … conspiracy
+took place,” §1956(i)(2), Congress confirmed that
+proof of an overt act was required under §1956(h)–are
+not persuasive.  Pp. 5—9.
+
+349 F.3d 1320, affirmed. 
+
+    O’Connor, J.,
+delivered the opinion for a unanimous Court.
+
+Notes
+
+*.  Together with No. 03—1294,
+Hall v. United States, also on certiorari to the
+same court. 

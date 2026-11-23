@@ -1,0 +1,132 @@
+Source: https://www.law.cornell.edu/supct/html/03-878.ZS.html
+
+
+
+CLARK V. MARTINEZ
+
+LII
+
+Supreme Court
+
+CLARK V. MARTINEZ (03-878) 
+ No. 03—878, affirmed; No. 03—7434, 337 F.3d 1289, reversed; and both cases remanded.
+Syllabus
+ Opinion
+ [ Scalia ]Concurrence
+ [ O’Connor ]Dissent
+ [ Thomas ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be
+released, as is being done in connection with this case, at the
+time the opinion is issued.
+The syllabus constitutes no part
+of the opinion of the Court but has been prepared by the
+Reporter of Decisions for the convenience of the reader.
+See
+United States v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+CLARK, FIELD OFFICE DIRECTOR, SEATTLE,
+
+IMMIGRATION AND CUSTOMS ENFORCEMENT, 
+et al. v.
+MARTINEZ
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE NINTH CIRCUIT
+ 
+No. 03—878.Argued October 13,
+2004–Decided January 12, 2005*
+
+If an alien is found inadmissible and ordered
+removed, the Secretary of Homeland Security (Secretary)
+ordinarily must remove the alien from the country within 90
+days.  8 U.S.C. §
+1231(a)(1)(A).  Here, Martinez, respondent in No.
+03—878, and Benitez, petitioner in No. 03—7434, Cuban
+nationals who are both inadmissible under §1182, were
+ordered removed, but were detained beyond the 90-day removal
+period.  Each filed a habeas corpus petition challenging his
+continued detention.  In Martinez’s case, the District
+Court found that removal was not reasonably foreseeable and
+ordered that Martinez be released under appropriate conditions.
+ The Ninth Circuit affirmed.  In Benitez’s case, the
+District Court also accepted that removal would not occur in
+the foreseeable future, but nonetheless denied the petition. 
+The Eleventh Circuit affirmed.	
+
+Held: 
+
+    1. Under
+§1231(a)(6), the Secretary may detain inadmissible aliens
+beyond the 90-day removal period, but only for so long as is
+reasonably necessary to achieve removal.  Section
+1231(a)(6)’s operative language, “may be detained
+beyond the removal period,” applies equally to all aliens
+that are its subject, whether or not those aliens have been
+admitted to the country.  In Zadvydas v. Davis,
+533 U.S. 678,
+this Court interpreted §1231(a)(6) to authorize the
+detention of aliens who have been admitted to the country only
+as long as “reasonably necessary” to effectuate their
+removal.  Id., at 689, 699.  This interpretation must
+apply to inadmissible aliens as well.  Even if the statutory
+purpose and constitutional concerns influencing the
+Zadvydas construction are not present for inadmissible
+aliens, that cannot justify giving the same statutory
+text a different meaning depending on the characteristics of
+the aliens involved.  Crowell v. Benson, 285 U.S. 22, Raygor
+v. Regents of Univ. of Minn., 534 U.S. 533, and
+Jinks v. Richland County, 538 U.S. 456,
+distinguished.	Moreover, contrary to the Government’s
+argument, nothing in Zadvydas indicates that
+§1231(a)(6) authorizes detention until it approaches
+constitutional limits.	Nor does §1182(d)(5) independently
+authorize continued detention of these aliens. Pp.
+5—14.
+
+      2.  In
+Zadvydas, the Court further held that the
+presumptive period during which an alien’s detention is
+reasonably necessary to effectuate removal is six months, and
+that he must be conditionally released after that time if he
+can demonstrate that there is “no significant likelihood
+of removal in the reasonably foreseeable future.”	533
+U.S., at 701.  The Government having suggested no reason
+that the time reasonably necessary for removal is longer for an
+inadmissible alien, this same 6-month presumptive detention
+period applies in these cases.  Because both Martinez
+and Benitez were detained well beyond six months after their
+removal orders became final, the Government has brought forward
+nothing to indicate that a substantial likelihood of removal
+subsists, and the District Court in each case has determined
+that removal to Cuba is not reasonably foreseeable, the habeas
+petitions should have been granted.  Pp. 14—15.
+
+ No. 03—878, affirmed; No. 03—7434,
+337 F.3d 1289, reversed; and both cases remanded.
+
+    Scalia, J., delivered
+the opinion of the Court, in which Stevens, O’Connor,
+Kennedy, Souter, Ginsburg, and Breyer, JJ., joined. 
+O’Connor, J., filed a concurring opinion.	Thomas, J.,
+filed a dissenting opinion, in which Rehnquist, C. J.,
+joined as to Part I—A.
+
+Notes
+
+*.  Together with No. 03—7434,
+Benitez v. Rozos, Field Office Director, Miami,
+Immigration and Customs Enforcement, on certiorari to the
+United States Court of Appeals for the Eleventh Circuit. 

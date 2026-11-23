@@ -1,0 +1,410 @@
+Source: https://www.law.cornell.edu/supct/html/04-104.ZS.html
+
+
+
+UNITED STATES V. BOOKER
+
+LII
+
+Supreme Court
+
+UNITED STATES V. BOOKER (04-104)
+
+			 No. 04—104, 375 F.3d 508, affirmed and remanded; and No. 04—105,
+			 vacated and remanded.
+
+		Syllabus
+
+		Opinion
+
+			 [ Stevens ]
+		Opinion
+
+			[ Breyer ]
+		Dissent
+
+			 [ Stevens ]
+		Dissent
+
+			 [ Scalia ]
+		Dissent
+
+			 [ Thomas ]
+		Dissent
+
+			 [ Breyer ]
+
+		HTML version
+
+			 PDF version
+		HTML version
+
+			 PDF version
+		HTML version
+
+				PDF version
+		HTML version
+
+			 PDF version
+		HTML version
+
+			 PDF version
+		HTML version
+
+			 PDF version
+		HTML version
+
+			 PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be
+released, as is being done in connection with this case, at the
+time the opinion is issued.
+The syllabus constitutes no part
+of the opinion of the Court but has been prepared by the
+Reporter of Decisions for the convenience of the reader.
+See
+United States v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+UNITED STATES v. BOOKER
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE SEVENTH CIRCUIT
+ 
+No. 04—104.Argued October 4,
+2004–Decided January 12, 2005*
+
+Under the Federal Sentencing Guidelines, the
+sentence authorized by the jury verdict in respondent
+Booker’s drug case was 210-to-262 months in prison.  At
+the sentencing hearing, the judge found additional facts by a
+preponderance of the evidence.	Because these findings mandated
+a sentence between 360 months and life, the judge gave Booker a
+30-year sentence instead of the 21-year, 10-month, sentence he
+could have imposed based on the facts proved to the jury beyond
+a reasonable doubt.  The Seventh Circuit held that this
+application of the Guidelines conflicted with the
+Apprendi v. New Jersey, 530 U.S. 466, 490,
+holding that “[o]ther than the fact of a prior conviction,
+any fact that increases the penalty for a crime beyond the
+prescribed statutory maximum must be submitted to a jury, and
+proved beyond a reasonable doubt.”  Relying on
+Blakely v. Washington, 542 U.S. ___, the court
+held that the sentence violated the Sixth Amendment and
+instructed the District Court either to sentence Booker within
+the sentencing range supported by the jury’s findings or
+to hold a separate sentencing hearing before a jury.  In
+respondent Fanfan’s case, the maximum sentence authorized
+by the jury verdict under the Guidelines was 78 months in
+prison.  At the sentencing hearing, the District Judge found by
+a preponderance of the evidence additional facts authorizing a
+sentence in the 188-to-235-month range, which would have
+required him to impose a 15- or 16-year sentence instead of the
+5 or 6 years authorized by the jury verdict alone.  Relying on
+Blakely’s majority opinion, statements in its
+dissenting opinions, and the Solicitor General’s brief in
+Blakely, the judge concluded that he could not follow
+the Guidelines and imposed a sentence based solely upon the
+guilty verdict in the case.  The Government filed a notice of
+appeal in the First Circuit and a petition for certiorari
+before judgment in this Court.
+
+Held: The judgment of the Court
+of Appeals in No. 04—104 is affirmed, and the case is
+remanded.  The judgment of the District Court in No.
+04—105 is vacated, and the case is remanded.  
+
+No. 04—104, 375 F.3d 508, affirmed and
+remanded; and No. 04—105, vacated and remanded.
+
+    Justice Stevens
+delivered the opinion of the Court in part, concluding that the
+Sixth Amendment
+as construed in Blakely applies to the Federal
+Sentencing Guidelines.	Pp. 5—20.
+
+      (a) In
+addressing Washington State’s determinate sentencing
+scheme, the Blakely Court found that Jones v.
+United States, 526 U.S. 227;
+Apprendi v. New Jersey, 530 U.S. 466; and
+Ring v. Arizona, 536 U.S. 584, made
+clear “that the ‘statutory maximum’ for
+Apprendi purposes is the maximum sentence a judge may
+impose solely on the basis of the facts reflected in the
+jury verdict or admitted by the defendant.” 542 U.S.,
+at ___.  As Blakely’s dissenting opinions
+recognized, there is no constitutionally significant
+distinction between the Guidelines and the Washington procedure
+at issue in that case.	This conclusion rests on the premise,
+common to both systems, that the relevant sentencing rules are
+mandatory and impose binding requirements on all sentencing
+judges.  Were the Guidelines merely advisory–recommending,
+but not requiring, the selection of particular sentences in
+response to differing sets of facts–their use would not
+implicate the Sixth
+Amendment.	However, that is not the case.	Title 18
+U.S.C. A. §3553(b) directs that a court
+“shall impose a sentence of the kind, and within
+the range” established by the Guidelines, subject to
+departures in specific, limited cases.	Because they are
+binding on all on judges, this Court has consistently held that
+the Guidelines have the force and effect of laws.  Further, the
+availability of a departure where the judge “finds …
+an aggravating or mitigating circumstance of a kind, or to a
+degree, not adequately taken into consideration by the
+Sentencing Commission in formulating the guidelines that should
+result in a sentence different from that described,”
+§3553(b)(1), does not avoid the constitutional issue. 
+Departures are unavailable in most cases because the Commission
+will have adequately taken all relevant factors into account,
+and no departure will be legally permissible.  In those
+instances, the judge is legally bound to impose a sentence
+within the Guidelines range.  Booker’s case illustrates
+this point.  The jury found him guilty of possessing at least
+50 grams of crack cocaine, based on evidence that he had 92.5
+grams.	Under those facts, the Guidelines required a possible
+210-to-262-month sentence.  To reach Booker’s actual
+sentence–which was almost 10 years longer–the judge
+found that he possessed an additional 566 grams of crack. 
+Although, the jury never heard any such evidence, the judge
+found it to be true by a preponderance of the evidence.  Thus,
+as in Blakely, “the jury’s verdict alone does
+not authorize the sentence.  The judge acquires that authority
+only upon finding some additional fact.”  542 U.S., at
+___.  Finally, because there were no factors the Sentencing
+Commission failed to adequately consider, the judge was
+required to impose a sentence within the higher Guidelines
+range.	Pp. 5—12.
+
+      (b) The
+Government’s arguments for its position that
+Blakely’s reasoning should not be applied to the
+Federal Sentencing Guidelines are unpersuasive.  The fact that
+the Guidelines are promulgated by the Sentencing Commission,
+rather than Congress, is constitutionally irrelevant.  The
+Court has not previously considered the question, but the same
+Sixth Amendment
+principles apply to the Sentencing Guidelines.	Further, the
+Court’s pre-Apprendi cases considering the
+Guidelines are inapplicable, as they did not consider the
+application of Apprendi to the Sentencing Guidelines. 
+Finally, separation of powers concerns are not present here,
+and were rejected in Mistretta.	In Mistretta the
+Court concluded that even though the Commission performed
+political rather than adjudicatory functions, Congress did not
+exceed constitutional limitations in creating the Commission. 
+488 U.S., at 393, 388.	That conclusion remains true regardless
+of whether the facts relevant to sentencing are labeled
+“sentencing factors” or “elements” of
+crimes.  Pp. 13—20.
+
+      Justice Breyer
+delivered the opinion of the Court in part, concluding that 18
+U.S.C. A. §3553(b)(1), which makes the Federal
+Sentencing Guidelines mandatory, is incompatible with
+today’s Sixth
+Amendment “jury trial” holding and therefore must
+be severed and excised from the Sentencing Reform Act of 1984
+(Act).	Section 3742(e), which depends upon the
+Guidelines’ mandatory nature, also must be severed and
+excised.  So modified, the Act makes the Guidelines effectively
+advisory, requiring a sentencing court to consider Guidelines
+ranges, see §3553(a)(4), but permitting it to tailor the
+sentence in light of other statutory concerns, see
+§3553(a).	Pp. 2—26.
+
+    (a) Answering the remedial
+question requires a determination of what “Congress would
+have intended” in light of the Court’s constitutional
+holding.  E.g., Denver Area Ed. Telecommunications
+Consortium, Inc. v. FCC, 518 U.S. 727, 767. 
+Here, the Court must decide which of two approaches is the more
+compatible with Congress’ intent as embodied in the Act:
+(1) retaining the Act (and the Guidelines) as written, with
+today’s Sixth
+Amendment requirement engrafted onto it; or (2) eliminating
+some of the Act’s provisions.  Evaluation of the
+constitutional requirement’s consequences in light of the
+Act’s language, history, and basic purposes demonstrates
+that the requirement is not compatible with the Act as written
+and that some severance (and excision) is necessary.  Congress
+would likely have preferred the total invalidation of the Act
+to an Act with the constitutional requirement engrafted onto
+it, but would likely have preferred the excision of the
+Act’s mandatory language to the invalidation of the entire
+Act.  Pp. 2—6. 
+
+      (b) Several
+considerations demonstrate that adding the Court’s
+constitutional requirement onto the Act as currently written
+would so transform the statutory scheme that Congress likely
+would not have intended the Act as so modified to stand. 
+First, references to “[t]he court” in
+§3553(a)(1)–which  requires “[t]he court”
+when sentencing to consider “the nature and circumstances
+of the offense and the history and characteristics of the
+defendant”–and references to “the judge” in
+the Act’s history must be read in context to mean
+“the judge without the jury,” not “the judge
+working together with the jury.”  That is made clear by
+§3661, which removes typical “jury trial”
+limitations on “the information” concerning the
+offender that the sentencing “court … may
+receive.”	Second, Congress’ basic statutory goal of
+diminishing sentencing disparity depends for its success upon
+judicial efforts to determine, and to base punishment upon, the
+real conduct underlying the crime of conviction.  In
+looking to real conduct, federal sentencing judges have long
+relied upon a probation officer’s presentence report,
+which is often unavailable until after the trial.  To
+engraft the Court’s constitutional requirement onto the
+Act would destroy the system by preventing a sentencing judge
+from relying upon a presentence report for relevant factual
+information uncovered after the trial.	Third, the Act, read to
+include today’s constitutional requirement, would create a
+system far more complex than Congress could have intended,
+thereby greatly complicating the tasks of the prosecution,
+defense, judge, and jury.  Fourth, plea bargaining would not
+significantly diminish the consequences of the Court’s
+constitutional holding for the operation of the Guidelines, but
+would make matters worse, leading to sentences that gave
+greater weight not to real conduct, but rather to
+counsel’s skill, the prosecutor’s policies, the
+caseload, and other factors that vary from place to place,
+defendant to defendant, and crime to crime.  Fifth, Congress
+would not have enacted sentencing statutes that make it more
+difficult to adjust sentences upward than to adjust them
+downward, yet that is what the engrafted system would
+create.  For all these reasons, the Act cannot remain valid in
+its entirety.  Severance and excision are necessary. 
+Pp. 6—15.
+
+      (c) The
+entire Act need not be invalidated, since most of it is
+perfectly valid.  In order not to “invalidat[e] more of
+the statute than is necessary,” Regan v. Time,
+Inc., 468 U.S.
+641, 652, the Court must retain those portions of the Act
+that are (1) constitutionally valid, ibid., (2) capable
+of “functioning independently,” Alaska Airlines,
+Inc. v. Brock, 480 U.S. 678, 684,
+and (3) consistent with Congress’ basic objectives in
+enacting the statute, Regan, supra, at 653.  Application
+of these criteria demonstrates that only §3553(b)(1),
+which requires sentencing courts to impose a sentence within
+the applicable Guidelines range (absent circumstances
+justifying a departure), and §3742(e), which provides for
+de novo review on appeal of departures, must be severed
+and excised.  With these two sections severed (and statutory
+cross-references to the two sections consequently invalidated),
+the rest of the Act satisfies the Court’s constitutional
+requirement and falls outside the scope of Apprendi v.
+New Jersey, 530
+U.S. 466.  The Act still requires judges to take account of
+the Guidelines together with other sentencing goals, see
+§3553(a)(4); to consider the Guidelines “sentencing
+range established for … the applicable category of offense
+committed by the applicable category of defendant,”
+pertinent Sentencing Commission policy statements, and the need
+to avoid unwarranted sentencing disparities and to restitute
+victims, §§3553(a)(1), (3)—(7); and to impose
+sentences that reflect the seriousness of the offense, promote
+respect for the law, provide just punishment, afford adequate
+deterrence, protect the public, and effectively provide the
+defendant with needed training and medical care,
+§3553(a)(2).  Moreover, despite §3553(b)(1)’s
+absence, the Act continues to provide for appeals from
+sentencing decisions (irrespective of whether the trial judge
+sentences within or outside the Guidelines range).  See
+§§3742(a) and (b).  Excision of §3742(e), which
+sets forth appellate review standards, does not pose a critical
+problem.  Appropriate review standards may be inferred from
+related statutory language, the statute’s structure, and
+the “sound administration of justice.”  Pierce
+v. Underwood, 487 U.S. 552,
+559—560.  Here, these factors and the past two decades of
+appellate practice in cases involving departures from the
+Guidelines imply a familiar and practical standard of review:
+review for “unreasonable[ness].”  See, e.g.,
+18 U.S.C. §
+3742(e)(3) (1994 ed.).  Finally, the Act without its
+mandatory provision and related language remains consistent
+with Congress’ intent to avoid “unwarranted
+sentencing disparities … [and] maintai[n] sufficient
+flexibility to permit individualized sentences when
+warranted,” 28
+U.S.C. § 991(b)(1)(B), in that the Sentencing
+Commission remains in place to perform its statutory duties,
+see §994, the district courts must consult the Guidelines
+and take them into account when sentencing, see 18 U.S.C. §
+3553(a)(4), and the courts of appeals review sentencing
+decisions for unreasonableness.  Thus, it is more consistent
+with Congress’ likely intent (1) to preserve the
+Act’s important pre-existing elements while severing and
+excising §§3553(b) and 3742(e) than (2) to maintain
+all of the Act’s provisions and engraft today’s
+constitutional requirement onto the statutory scheme.  Pp.
+15—22. 
+
+      (d)  Other
+possible remedies–including, e.g., the
+parties’ proposals that the Guidelines remain binding in
+cases other than those in which the Constitution prohibits
+judicial factfinding and that the Act’s provisions
+requiring such factfinding at sentencing be excised–are
+rejected.  Pp. 22—24.
+
+      (e) On
+remand in respondent Booker’s case, the District Court
+should impose a sentence in accordance with today’s
+opinions, and, if the sentence comes before the Seventh Circuit
+for review, that court should apply the review standards set
+forth in this Court’s remedial opinion.  In respondent
+Fanfan’s case, the Government (and Fanfan should he so
+choose) may seek resentencing under the system set forth in
+today’s opinions.	As these dispositions indicate,
+today’s Sixth
+Amendment holding and the Court’s remedial
+interpretation of the Sentencing Act must be applied to all
+cases on direct review.  See, e.g., Griffith v.
+Kentucky, 479
+U.S. 314, 328.  That does not mean that every sentence will
+give rise to a Sixth
+Amendment violation or that every appeal will lead to a new
+sentencing hearing.  That is 
+because reviewing courts are
+expected to apply ordinary prudential doctrines, determining,
+e.g., whether the issue was raised below and whether it
+fails the “plain-error” test.  It is also because, in
+cases not involving a Sixth Amendment
+violation, whether resentencing is warranted or whether it will
+instead be sufficient to review a 
+sentence for
+reasonableness may depend upon application of the
+harmless-error doctrine.  Pp. 24—25.
+
+    Stevens, J.,
+delivered the opinion of the Court in part, in which Scalia,
+Souter, Thomas, and Ginsburg, JJ., joined.  Breyer, J.,
+delivered the opinion of the Court in part, in which Rehnquist,
+C. J., and O’Connor, Kennedy, and Ginsburg, JJ.,
+joined.  Stevens, J., filed an opinion dissenting in part, in
+which Souter, J., joined, and in which Scalia, J., joined
+except for Part III and footnote 17.  Scalia, J., and Thomas,
+J., filed opinions dissenting in part.	Breyer, J., filed an
+opinion dissenting in part, in which Rehnquist, C. J., and
+O’Connor and Kennedy, JJ., joined.
+
+Notes
+
+*.  Together with No. 04—105,
+United States v. Fanfan, on certiorari
+before
+judgment to the United States Court of Appeals for the First
+Circuit. 
