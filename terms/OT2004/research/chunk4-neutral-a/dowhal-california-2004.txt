@@ -1,0 +1,827 @@
+Source: https://scocal.stanford.edu/opinion/dowhal-v-smithkline-beecham-33399/
+
+Filed 4/15/04
+IN THE SUPREME COURT OF CALIFORNIA
+PAUL DOWHAL,
+Plaintiff and Appellant,
+S109306
+v.
+) Ct.App.
+1/5
+A094460
+SMITHKLINE BEECHAM CONSUMER )
+HEALTHCARE et al.,
+San
+Francisco
+County
+Defendants and Respondents. )
+Super. Ct. No. 305893
+Plaintiff filed this action to challenge the failure of defendants to place
+health warnings mandated by California’s Proposition 65 on products containing
+nicotine sold over the counter as aids to stop smoking. The trial court granted
+summary judgment to defendants, ruling that in this setting the requirements of
+Proposition 65 were impliedly preempted by the federal Food, Drug, and Cosmetic
+Act (FDCA) (21 U.S.C. § 301 et seq.). The Court of Appeal reversed; we granted
+review.
+We conclude: (1) Notwithstanding language in the FDCA exempting
+Proposition 65 from the preemptive effect of the federal act, when the warning
+mandated by California law directly conflicts with the one that the federal Food
+and Drug Administration (FDA) requires, the federal requirement prevails; (2) this
+is a case of direct conflict; and (3) the FDA has authority to prohibit use of the
+Proposition 65 warning, even though that warning is literally truthful, if the FDA
+1
+concludes that it would have the effect of misleading consumers. We therefore
+reverse the judgment of the Court of Appeal.
+I. FACTUAL AND PROCEDURAL BACKGROUND
+On November 4, 1986, the voters of this state enacted Proposition 65 as an
+initiative measure. Proposition 65 added section 25249.6 to the Health and Safety
+Code: “No person in the course of doing business shall knowingly and
+intentionally expose any individual to a chemical known to the state to cause . . .
+reproductive toxicity without first giving clear and reasonable warning to such
+individual . . . .” This provision does not apply, however, to “[a]n exposure for
+which federal law governs warning in a manner that preempts state authority.”
+(Health & Saf. Code, § 25249.10.)
+The regulations adopted to implement Health and Safety Code section
+25249.6 state that the required warning “must clearly communicate that the
+chemical in question is known to the state to cause . . . birth defects or other
+reproductive harm.” (Cal. Code Regs., tit. 22, § 12601, subd. (a).) The
+regulations also describe optional “safe harbor” warnings that are deemed to be
+clear and reasonable. (Id., § 12601, subd. (b).) One of the “safe harbor” warnings
+reads: “WARNING: This product contains a chemical known to the State of
+California to cause birth defects or other reproductive harm.” (Id., § 12601, subd.
+(b)(4)(B).) The warning may be communicated through product labeling, point-
+of-sale signs, or public advertising. (Id., § 12601, subd. (b)(1)(A)-(C).)
+On April 1, 1990, the State of California listed nicotine as a chemical
+known to cause reproductive toxicity. (Cal. Code Regs., tit. 22, § 12000(c).) This
+listing was based on the then current determination by the FDA that because of the
+dangerous consequences of fetal nicotine exposure, nicotine delivery products
+2
+should be rated in “Category X” – not for use by pregnant women.1
+Consequently, to conform to Proposition 65, defendants’ products must carry a
+warning that “this product contains nicotine, a chemical known to the state of
+California to cause reproductive harm,” or words to that effect.
+The FDA, however, has never permitted defendants to use the Proposition
+65 warning. The FDA’s currently approved warning does not state that nicotine
+can cause reproductive harm. It requires the product label to state: “If you are
+pregnant or breast-feeding, only use this medicine on the advice of your health
+care provider. Smoking can seriously harm your child. Try to stop smoking
+without using any nicotine replacement medicine. This medicine is believed to be
+safer than smoking. However, the risks to your child from this medicine are not
+fully known.” The difference between the two warnings is the focus of this case.
+The FDCA prohibits a drug manufacturer from marketing a new drug
+unless the FDA has approved the drug as both safe and effective for its intended
+use. (21 U.S.C. § 355.) In addition to scientific and experimental data, a new
+drug application must include a proposed label. (21 U.S.C. § 355(b)(1)(F).) If the
+FDA determines that the labeling is false or misleading in any way, the drug is
+deemed “misbranded,” and the FDA will reject the application for approval of the
+drug. (21 U.S.C. § 352(a).) Once an application has been approved, any change
+in the labeling requires a supplement to the application and approval by the FDA,
+either before or after the change. (21 C.F.R. §§ 314.70, 314.71 (2003).)
+1
+In 1992 the FDA reclassified nicotine delivery products, placing them in
+categories C and D, which permits use by pregnant women with a doctor’s
+prescription.
+3
+The issue here is whether California’s Proposition 65 requirements are
+preempted by the FDA regulation, or preserved by the savings clause, section
+379r(d)(2), of the Food and Drug Administration Modernization Act of 1997
+(Modernization Act) (Pub. L. No. 105-115 (Nov. 21, 1997) 111 Stat. 2296).
+Section 379r(a) establishes the preemptive effective of federal regulation; it states
+in part: “[N]o State or political subdivision of a State may establish or continue in
+effect any requirement -- [¶] . . . . (2) that is different from or in addition to, or
+that is otherwise not identical with, a requirement under this chapter . . . .” The
+Modernization Act, however, contained a savings clause designed specifically to
+preserve Proposition 65. It provides: “This section shall not apply to a State
+requirement adopted by a State public initiative or referendum enacted prior to
+September 1, 1997.” (21 U.S.C. § 379r(d)(2).) Proposition 65 is the only state
+enactment that falls within the savings clause.
+Defendants here manufacture, market, and distribute products, such as gum
+and patches, that are designed to help people quit smoking through nicotine
+replacement therapy (NRT).2 Originally, the products were available only by
+prescription. In 1993, defendants sought FDA approval to sell them over the
+counter. Defendants’ application presented a complex labeling issue because the
+products contain nicotine, a substance that if taken by a pregnant woman could
+cause harm to the fetus. On the other hand, the purpose of the products is to help
+2
+Defendants are GlaxoSmithKline Consumer Healthcare, LP (formerly
+SmithKline Beecham Consumer Healthcare), which markets Nicorette and
+NicoDerm CQ; McNeil Consumer Products Company and Pharmacia & Upjohn,
+Inc., which have marketed Nicotrol; Aventis Pharmaceuticals Inc., which is
+involved in the packaging of NicoDerm CQ; Alza Corporation, which
+manufactures NicoDerm CQ, and Costco Wholesale Corporation, Lucky Stores,
+Inc., Rite Aid Corporation, Safeway, Inc., and Walgreen Co., which retail
+Nicorette, NicoDerm CQ, and/or Nicotrol.
+4
+individuals stop smoking, and smoking is even more dangerous to the fetus,
+because it may deliver more nicotine than the NRT products, and also exposes the
+smoker to carbon monoxide and other harmful chemicals. As the chairman of the
+FDA’s Nonprescription Drugs Advisory Committee stated: “This is one of the
+few instances where we have a product that has come before this committee that I
+would like lots of people to use, that I think we are underusing. . . . [¶] So we
+want to make sure that we are not introducing barriers that would prevent people
+from using them, and what is worse, somebody continuing to smoke or not calling
+their physician and talking with him. . . . [¶] I think, at least as I am interpreting
+the sense of the committee is that let’s be real careful on something we want
+people to use more of that we don’t introduce barriers that would reduce their
+willingness to use the product.” (FDA Nonprescription Drugs Advisory Meeting
+(Apr. 19, 1996), pp. 169-170.)
+Partly in an effort to balance these competing concerns, the products
+underwent an unusually long approval process. As of 1996, the labels for the
+original Nicorette, Nicoderm, and Nicotrol prescription products carried a required
+warning: “Nicotine in any form may cause harm to your unborn baby.” (This is
+the warning required for prescription drugs containing nicotine in 1996.) But
+when the FDA approved over-the-counter sales in 1996, the FDA advised
+defendants that their products could carry the following pregnancy warning:
+“Nicotine can increase your baby’s heart rate; . . . if you are pregnant or nursing a
+baby, seek the advice of a health professional before using this product.”3 Failure
+3
+The warnings for the various products differ in some minor respects. No
+party to this appeal contends the differences are relevant for purposes of this
+appeal.
+5
+to label the products “exactly as requested,” the FDA warned producers, “may
+render the product mislabeled.”
+In January 1997, defendant McNeil asked the FDA for permission to
+change the label for its product Nicotrol to add the Proposition 65 “safe harbor”
+warning: “This product contains nicotine, a chemical known to the State of
+California to cause birth defects or other reproductive harm.” The FDA denied the
+request, telling McNeil it “[m]ust use the labeling that was approved at the time of
+. . . approval.”
+The California Attorney General, however, determined in a letter issued
+July 10, 1998, that the “increased heart rate” warning did not comply with
+Proposition 65, because it failed to warn that nicotine can “harm” the fetus, and
+suggested that nicotine only posed a narrow risk of an increased fetal heart rate
+“when the true risks appear to be significantly broader and more serious.”
+In August 1999, after the enactment of the Modernization Act, plaintiff
+Paul Dowhal, acting on behalf of the public, filed the complaint here. Plaintiff
+alleged defendants violated Health and Safety Code section 25249.6 because they
+placed products containing nicotine into the “stream of commerce” without the
+pregnancy warning required by Proposition 65. Plaintiff also alleged that by
+failing to provide an adequate warning, defendants committed an unfair business
+practice in violation of Business and Professions Code section 17200 et seq. He
+asked for an injunction barring defendants from offering their products for sale in
+California without providing an adequate Proposition 65 warning.
+In November 1999, while this case was pending, the FDA granted
+permission to Novartis Consumer Health Care, Inc. (Novartis) to sell an NRT
+product called Habitrol. (Novartis is not a party to this case.) Although Habitrol
+is identical to some of defendants’ products in nicotine content, indication for use,
+and method of administration, the FDA approved Novartis’s warning to
+6
+consumers: “Nicotine, whether from smoking or medication, can harm your
+baby.”
+When defendant SmithKline learned about the Habitrol pregnancy warning,
+it asked the FDA whether it should change its warning. The FDA responded that
+it was “reviewing its position as it relates to the warnings of nicotine products
+concerning pregnancy and breast feeding.” In May 2000, defendants SmithKline
+and McNeil each wrote to the FDA, again pointing out that Habitrol carried a
+different pregnancy warning than their products and that they faced litigation over
+the adequacy of their warning. In June 2000, the FDA responded to SmithKline
+that while the FDA was reviewing its position on the pregnancy warning,
+SmithKline should continue to “use the current warning.”
+On July 11, 2000, counsel for SmithKline wrote to the FDA seeking
+confirmation about the pregnancy warning that was required. The FDA responded
+by letter 10 days later, stating that the products “must” carry the pregnancy
+warning that had been specified when they were approved.
+In March 2001, the FDA sent a letter to SmithKline stating that even
+though Habitrol carried a different warning, the instructions concerning
+defendants’ products remained unchanged: “The agency is currently reviewing its
+position regarding the pregnancy/nursing warning on [over-the-counter] nicotine
+replacement products. [¶] . . . As we have stated previously, until the agency’s
+review is complete, all sponsors of [over-the-counter] nicotine replacement
+products should continue to use the pregnancy/nursing warning that was approved
+by the agency as part of their [new drug approval]. Any additional or modified
+warning may render the product misbranded.” (Italics added.)
+While defendants were working with the FDA in an effort to clarify their
+obligation to warn, plaintiff moved for summary adjudication. Defendants filed a
+cross-motion for summary judgment, arguing that federal law preempted any
+7
+obligation to warn under Proposition 65. The trial court denied plaintiff’s motion,
+granted defendants’ motion, and entered judgment for defendants. Plaintiff
+appealed.
+While this appeal was pending, the FDA responded to a citizen’s petition
+that plaintiff had filed with the agency on August 2, 2000. In a letter to plaintiff
+mailed August 17, 2001 (hereafter sometimes referred to as the August 17 letter)4,
+the FDA reviewed the medical literature, and said it would “grant [plaintiff’s]
+request for a consistent pregnancy warning for all [over-the-counter] NRT drug
+products that clearly and reasonably communicates all of the known harm and
+conveys the relative reproductive harm of smoking, use of NRT drug products,
+and total abstinence from nicotine.” The FDA denied plaintiff’s request to require
+a warning on all NRT drug products similar to the “can harm your baby” warning
+on Habitrol. That warning, the FDA asserted, “overstates what is actually known
+about nicotine and its effect on the unborn child.” It also rejected a proposal to
+use a label similar to that required for prescription drugs on the ground that the
+warning to doctors was “not easily translated into consumer friendly language.”
+The FDA agreed that the “can increase your baby’s heart rate” warning was
+insufficient, because it might lead consumers to believe that this was the only
+possible effect of nicotine. It proposed, instead, that all nicotine replacement
+4
+On October 4, 2001, plaintiff and defendants filed a joint request asking the
+Court of Appeal to take judicial notice of the August 17 letter. The Court of
+Appeal exercised its discretion to grant judicial notice, so this letter is now part of
+the record on appeal. The August 17 letter is attached as an appendix to this
+opinion.
+Because plaintiff’s action seeks injunctive relief, an appellate court can take
+into account events occurring after the trial court judgment. (See Fisher v. City of
+Berkeley (1984) 37 Cal.3d 644, 654, fn. 3 [changes in the law]; Reserve Insurance
+Co. v. Pisciotta (1982) 30 Cal.3d 800, 813 [new facts not in dispute].)
+8
+products, including the products at issue and Habitrol, bear the uniform pregnancy
+warning quoted earlier in this opinion. (Ante, at p. 3.) This warning advised
+pregnant women to consult their health care provider, recommended that they try
+to stop smoking without using an NRT product, and told them that the medical
+risks to their child from the product were not fully known.
+The Court of Appeal majority here reversed the judgment of the trial court.
+It concluded that the savings clause in the Modernization Act precluded federal
+preemption of Proposition 65 warnings, even if there was a direct conflict between
+those warnings and FDA requirements. The concurring opinion found no conflict
+between Proposition 65 and the FDA requirements on three grounds: (1) a truthful
+Proposition 65 label would not conflict with the policy of the FDCA; (2) the
+informal letters from the FDA to defendants were insufficient to create a
+preemptive federal policy; and (3) Proposition 65 warnings need not be placed on
+the package, but could be posted elsewhere where consumers could see them.
+We granted defendants’ petition for review.
+II. DOES THE MODERNIZATION ACT PRECLUDE CONFLICT
+PREEMPTION?
+The supremacy clause of article VI of the United States Constitution grants
+Congress the power to preempt state law. State law that conflicts with a federal
+statute is “ ‘without effect.’ ” (Cipollone v. Liggett Group, Inc. (1992) 505 U.S.
+504, 516 (Cipollone), quoting Maryland v. Louisiana (1981) 451 U.S. 725, 746.)
+It is equally well established that “[c]onsideration of issues arising under the
+Supremacy Clause ‘start[s] with the assumption that the historic police powers of
+the States [are] not to be superseded by . . . Federal Act unless that [is] the clear
+and manifest purpose of Congress.’ ” (Cipollone, at p. 516.) Thus, “ ‘ “[t]he
+purpose of Congress is the ultimate touchstone” ’ of pre-emption analysis.” (Ibid.)
+9
+The United States Supreme Court has explained that federal preemption
+arises in three circumstances: “First, Congress can define explicitly the extent to
+which its enactments pre-empt state law. [Citation.] Pre-emption fundamentally
+is a question of congressional intent, [citation] and when Congress has made its
+intent known through explicit statutory language, the courts’ task is an easy one.
+[¶] Second, in the absence of explicit statutory language, state law is pre-empted
+where it regulates conduct in a field that Congress intended the Federal
+Government to occupy exclusively. Such an intent may be inferred from a
+‘scheme of federal regulation . . . so pervasive as to make reasonable the inference
+that Congress left no room for the States to supplement it,’ or where an Act of
+Congress ‘touch[es] a field in which the federal interest is so dominant that the
+federal system will be assumed to preclude enforcement of state laws on the same
+subject.’ [Citation.] Although this Court has not hesitated to draw an inference of
+field pre-emption where it is supported by the federal statutory and regulatory
+schemes, it has emphasized: ‘Where . . . the field which Congress is said to have
+pre-empted’ includes areas that have ‘been traditionally occupied by the States,’
+congressional intent to supersede state laws must be ‘ “clear and manifest.” ’
+[Citations.] [¶] Finally, state law is pre-empted to the extent that it actually
+conflicts with federal law. Thus, the Court has found pre-emption where it is
+impossible for a private party to comply with both state and federal requirements,
+[citation] or where state law ‘stands as an obstacle to the accomplishment and
+execution of the full purposes and objectives of Congress.’ ” (English v. General
+Electric Co. (1990) 496 U.S. 72, 78-79, fn. omitted; see Crosby v. National
+Foreign Trade Council (2000) 530 U.S. 363, 372-373; Olszewski v. Scripps
+Health (2003) 30 Cal.4th 798, 814.)
+The first and second forms of preemption are inapplicable here. The
+savings clause in the Modernization Act demonstrates both that Congress did not
+10
+expressly preempt California law, and that it did not occupy the field of labeling of
+over-the-counter drugs. Thus the issue here concerns the third form of
+preemption, referred to as “conflict preemption.”
+Congress has the power to preclude conflict preemption, allowing states to
+enforce laws even if those laws are in direct conflict with federal law or frustrate
+the purpose of federal law. (Geier v. American Honda Motor Co., Inc. (2000) 529
+U.S. 861, 872 [Geier].) The Court of Appeal here, relying on the language of the
+Modernization Act, concluded that Congress had so exercised its power.
+The Modernization Act, in 21 United States Code section 379r(a), prohibits
+states from enacting “any requirement . . . that is different from or in addition to,
+or that is not identical with, a requirement under this chapter.” Section 379r(d)(2)
+then provides that section 379r does not apply to certain state initiative measures;
+Proposition 65 comes within this exemption. From this language the Court of
+Appeal reasoned that California may establish requirements different from, and
+thus in conflict with, the FDA requirements.
+A Proposition 65 requirement, however, may be “different from, in addition
+to, or . . . not identical” (21 U.S.C. § 379r(a)) to an FDA requirement without
+actually conflicting with the federal requirement. Here, for example, if the FDA
+had simply required the warning that “[n]icotine can increase your baby’s heart
+rate,” but had not prohibited other warnings, a Proposition 65 warning that
+nicotine “is known . . . to cause birth defects or other reproductive harm” (Cal.
+Code Regs., tit. 22, § 12601, subd. (a)) would not conflict with the federal
+requirement. The product label could simply contain both warnings. Thus,
+contrary to the Court of Appeal’s view, recognizing conflict preemption would not
+nullify the savings clause of section 379r.
+The United States Supreme Court’s decision in Geier, supra, 529 U.S. 861,
+established a strong presumption that Congress does not ordinarily intend to bar
+11
+conflict preemption. The issue in that case was whether the 1984 version of the
+Federal Motor Vehicle Safety Standard promulgated by the Department of
+Transportation relating to airbags preempted a state common law tort action
+alleging that the defendant manufacturer should have equipped its car with
+airbags. The federal standard provided for a variety of passive restraints and a
+gradual phasing-in of airbags. It was based in part on the Transportation
+Department’s fear of a consumer backlash if it were to require airbags on all cars
+at that time.
+The controlling statute in Geier, supra, 529 U.S. 861, like the statute in the
+case here, prohibited states from establishing standards not identical to federal
+standards. (15 U.S.C. former § 1392(d).) It further provided, however, that
+“compliance with” a federal safety standard “does not exempt any person from
+any liability under common law.” (15 U.S.C. former § 1397(k).) The United
+States Supreme Court held that this savings clause removed tort actions from the
+scope of the express preemption clause, but did not foreclose conflict preemption.
+(Geier, supra, 529 U.S. at p. 869.)
+The high court went on to say: “Nothing in the language of the savings
+clause suggests an intent to save state-law actions that conflict with federal
+regulations. The words ‘compliance’ and ‘does not exempt’ [citation] sound as if
+they simply bar a special kind of defense, namely, a defense that compliance with
+a federal standard automatically exempts a defendant from state law whether the
+Federal Government meant that standard to be an absolute requirement or only a
+minimum one. [Citation.] It is difficult to understand why Congress would have
+insisted on a compliance with-federal-regulation precondition to the provision’s
+applicability had it wished the Act to ‘save’ all state-law tort actions, regardless of
+their potential threat to the objectives of federal safety standards promulgated
+under that Act.” (Geier, supra, 529 U.S. at pp. 869-870.)
+12
+Geier also gave “some weight” to the Department of Transportation’s
+conclusion that allowing tort suits against manufacturers who had complied with
+the department’s airbag rules would stand as an obstacle to the accomplishment of
+federal objectives. (Geier, supra, 529 U.S. at p. 883.) It explained its deference to
+the department’s conclusion: “Congress has delegated to DOT authority to
+implement the statute; the subject matter is technical; and the relevant history and
+background are complex and extensive. The agency is likely to have a thorough
+understanding of its own regulation and its objectives and is ‘uniquely qualified’
+to comprehend the likely impact of state requirements.” (Ibid.)
+Geier concluded that the savings clause in that case preserved state tort law
+only when the federal regulation was intended to provide a minimum standard, not
+when it was intended to establish an absolute standard. Plaintiff here seeks to
+confine Geier by pointing to differences between the savings clause at issue in
+Geier and the savings clause in the Modernization Act. He notes also the
+difference between preempting a common law tort action, as was involved in
+Geier, and preempting a state regulation. But later cases confirm that Geier is not
+a narrow holding limited to automobile safety standards; instead it established a
+general rule upholding conflict preemption even if the applicable federal law
+contains a savings clause. (See Sprietsma v. Mercury Marine (2002) 537 U.S. 51,
+63; Buckman Co. v. Plaintiffs’ Legal Comm. (2001) 531 U.S. 341, 352.) The
+United States Supreme Court has never interpreted a savings clause so broadly as
+to permit a state enactment to conflict with a federal regulation scheme.5
+5
+Oxygenated Fuels Ass’n., Inc. v. Davis (9th Cir. 2003) 331 F.3d 665, held
+that the Clean Air Act (42 U.S.C. § 7401 et seq.) did not preempt a conflicting
+California regulation (Cal. Code Regs., tit. 13, § 2262.6 (2003)) prohibiting use of
+the gasoline additive MTBE. That decision was not based on the savings clause in
+the federal statute (42 U.S.C. § 7545 (c)(4) (B)), which did not apply to the
+(footnote continued on next page)
+13
+The language of the Modernization Act’s savings clause does not express
+an intention to preclude all conflict preemption. The legislative history suggests
+an intent to preclude conflict preemption in pursuit of national uniform labeling.6
+In light of that language, history, and the principles established by Geier, supra,
+529 U.S. 861 and other United States Supreme Court decisions, we conclude that
+the savings clause of 21 United States Code section 397r(d)(2), does not entirely
+exclude conflict preemption.
+We do not, however, go as far as the United States Attorney General urges
+in his amicus curiae brief and hold that the savings clause, by nullifying the
+preemptive effect of 21 United States Code section 397(a), left the law of implied
+preemption, so far as Proposition 65 is concerned, as if neither were enacted.
+Such an interpretation would allow the FDA to pursue a goal of national
+uniformity in warnings, and to further that goal by preempting all Proposition 65
+warnings. Section 397r(a) and (d)(2), however, establish that a Proposition 65
+warning cannot be preempted solely because it is not identical with the federal
+requirement. If the FDA’s directive here prohibiting nonidentical labels is to be
+(footnote continued from previous page)
+California regulation, but on evidence that Congress did not intend to preempt
+such state regulation.
+6
+During the floor debate on the Modernization Act, Senator Barbara Boxer
+stated: “I want to thank Senators Gregg and Jeffords for working with me to
+ensure that California’s proposition 65 will not be preempted by the uniformity
+provisions of this bill . . . Proposition 65 has successfully reduced toxic
+contaminants in a number of consumer products sold in California and it has even
+led the FDA to adopt more stringent standards for some consumer products . . . .
+So I am very pleased that the FDA reform bill now being debated will exempt
+California’s proposition 65.” (Remarks of Sen. Boxer, 143 Cong. Rec. S9811,
+S9843 (Sept. 24, 1997). “Such statements . . . can provide evidence of Congress’
+intent.” (Brock v. Pierce County (1986) 476 U.S. 253, 263.)
+14
+sustained, it must be on a basis relevant to consumer health, and not because the
+Proposition 65 label would frustrate the FDA’s policy favoring national
+uniformity.
+III. IS THERE A DIRECT CONFLICT BETWEEN THE WARNING
+REQUIRED BY PROPOSITION 65 AND THE ORDERS OF THE
+FDA?
+The language required by the FDA’s August 17, 2001, letter is not
+necessarily inconsistent with a Proposition 65 warning to consumers that
+defendants’ products contain nicotine, a chemical known to cause reproductive
+harm. The apparent conflict arises from the FDA’s insistence that defendants
+must use the warning it has promulgated unless they have data to support a
+different warning. The FDA has rejected plaintiff’s claim that his data justify a
+different warning, and defendants do not claim to have any additional data. Thus,
+if a defendant were to add a warning to its label advising that nicotine can cause
+fetal harm, it would violate the FDA’s determination and would risk legal
+sanctions.
+Plaintiff contends, however, that the FDA action is not sufficiently definite
+and authoritative to create a conflict with state law. Before August 17, 2001, the
+FDA had regularly sent letters instructing defendants not to add any additional
+warnings to the FDA-approved warning, and cautioning them that adding such
+additional warnings might render the product misbranded. Some letters advised
+the recipient that the matter was still under consideration. But amicus curiae
+United States Attorney General, on behalf of the FDA, acknowledges: “Before its
+disposition of Dowhal’s citizen petition [by the August 17, 2001, letter], FDA had
+not issued definitive advice concerning whether use of Dowhal’s proposed
+warning labeling would render Defendants’ products misbranded under the
+15
+FDCA.” The FDA takes the position that its August 17 letter was the first
+definitive ruling on the subject.
+The FDA’s August 17 letter specifically rejected plaintiff’s proposed “can
+harm your baby” warning. (Aug. 17, 2001, letter, p. 8.) It did not expressly reject
+all possible Proposition 65 warnings. It announced, however, that the FDA had
+developed “a uniform warning that manufacturers . . . will be requested to
+implement.” (Id. at p. 5.) Rejecting all earlier warnings, including both the “fetal
+heart rate” warning used by defendants and the “can harm your baby” warning
+used on Habitrol, the FDA said that the label should instead tell the buyer to
+consult her health care provider for advice. Manufacturers were requested to
+submit a supplement changing their warning to conform to the warning in the
+August 17 letter. (Id. at pp. 7-8.)
+Plaintiff argues that the FDA’s August 17 letter did not establish a required
+federal warning, but merely “requested” defendants to submit supplements. But
+the term “requested” appears to be simply a matter of courtesy; it is apparent from
+the tenor of the letter that it imposes a duty on defendants. A company cannot use
+warnings the FDA considers misleading simply because it chooses not to comply
+with an FDA request to submit the forms required to change its warnings to the
+one adopted by the FDA.
+Plaintiff and his amici curiae point to language in the FDA’s August 17
+letter stating that “[a]ny other warnings proposed by the sponsor must be
+supported by data,” as showing that defendants are not required to use warnings
+identical to the FDA warning. But this is standard language that appears, or is
+implied, in all FDA labeling decisions. A company is always free to change its
+label, after notifying the FDA, if it has new data showing the former warning was
+inappropriate. (See 21 C.F.R. § 314.70 (2003).) The possibility that new data
+may justify a change in the warning does not invalidate the approval of the
+16
+existing warning; that warning continues to be binding until the new data emerge
+and a change is requested.
+Plaintiff and his amici curiae point out that the FDA’s August 17 letter has
+not been published in the Federal Register. There is no requirement, however, that
+it be so published to be effective. Congress was undoubtedly aware that one
+common means of FDA regulation is to publish rulings through letters to the
+parties requesting the rulings. When Congress granted preemptive effect to FDA
+regulation as to all state regulation except Proposition 65 regulation, it probably
+had in mind regulation through FDA advisory letters.
+In
+Geier, supra, 529 U.S. 861, the United States Supreme Court gave
+preemptive effect to a federal policy expressed in less formal manner than the
+FDA policy here. Rejecting a contention that formal notice-and-comment
+rulemaking should be required before an agency’s action has preemptive force, the
+high court found federal policy to be sufficiently definite as to create a conflict
+when that policy was set out only in comments of the Department of
+Transportation accompanying its revision of the airbag rules and in statements in
+the Solicitor General’s brief submitted on the agency’s behalf. (Id. at pp. 883-
+884.)
+Plaintiff here contends that although the FDA has rejected several proposed
+labels based on Proposition 65, defendants cannot prevail on their motion for
+summary judgment unless all possible Proposition 65 labels would conflict with
+the FDA’s determination. (See Dental Amalgam Mfrs. & Distributors v. Stratton
+(9th Cir. 1996) 92 F.3d 807, 810; Chemical Specialties Mfrs. Ass’n, Inc. v. Allenby
+(9th Cir. 1992) 958 F.2d 941, 943; People ex rel. Lungren v. Cotter & Co. (1997)
+53 Cal.App.4th 1373, 1393.) The FDA seeks to prohibit any warning not identical
+to its own, but the absence of identical language is not enough to justify
+preemption, since the savings clause specifically allows state regulations that are
+17
+“different from . . . [or] otherwise not identical” to FDA requirements. (21 U.S.C.
+§ 379r(a)(2).) In this case, however, any warning that conformed in substance to
+the FDA’s warning would not comply with Health and Safety Code section
+25249.6 because it would not provide clear and reasonable warning to the
+consumer that the product contained a chemical “known . . . to cause . . .
+reproductive toxicity.” Thus, the FDA determination has effectively barred all
+warnings on labels that comply with Proposition 65.
+Finally, plaintiff and his amici curiae point out that Proposition 65 warnings
+need not appear on labels; warnings can also be conveyed through point-of-sale
+notices or public advertising. (Cal. Code Regs., tit. 22, § 12601.) Because the
+FDA regulates only product labeling, they contend that a Proposition 65 warning
+conveyed through other means cannot be preempted.
+The FDA’s ruling, however, reflects the concern that Proposition 65
+warnings on product labels might lead pregnant women to believe that NRT
+products were as dangerous as smoking, or nearly so, and thus discourage the
+women from stopping smoking. Warnings through point-of-sale posters or public
+advertising could have the same effect of frustrating the purpose of the federal
+policy. Conflict preemption does not require a direct contradiction between state
+and federal law; the state law is preempted if state law “ ‘stands as an obstacle to
+the accomplishment and execution of the full purposes and objectives of
+Congress.’ ” (English v. General Electric Co., supra, 496 U.S. at p. 79.)
+We conclude that the FDA’s August 17, 2001, letter established a federal
+policy prohibiting defendants from giving consumers any warning other than the
+one approved by the FDA in that letter, and that the use of a Proposition 65
+warning would conflict with that policy.
+18
+IV. CAN THE FDA PROHIBIT DEFENDANTS FROM USING A
+TRUTHFUL WARNING?
+Plaintiff contends that his proposed warning advising pregnant women that
+defendants’ products contain nicotine which “can harm your baby” -- or words to
+that effect -- is truthful. He argues that the enforcement authority of the FDA is
+limited to prohibiting “adulterated or misbranded” products (21 U.S.C. § 331(a)),
+and that a truthful warning cannot render a product “misbranded.” He points out
+that not only California, but also the United States Surgeon General and the
+Environmental Protection Agency (EPA) list nicotine as a chemical harmful to the
+fetus. (See Reducing Tobacco Use, A Report of the Surgeon General (2000) at
+p. 118; 40 C.F.R. § 372.65 (2003) [EPA determination].) Defendants dispute the
+point, arguing that the evidence is insufficient to show that nicotine can harm the
+fetus.
+The FDA’s August 17, 2001, letter sets out its views on the effect of
+nicotine on the fetus. Because of the FDA’s scientific expertise and long
+administrative experience, these views are entitled to judicial deference. (Serono
+Laboratories, Inc. v. Shalala (D.C. Cir. 1998) 158 F.3d 1313, 1320; see Geier,
+supra, 529 U.S. at p. 883.) But a close reading of that letter shows that the FDA is
+aware that nicotine may endanger the fetus.
+The August 17 letter states: “Although some of the pharmacologic effects
+of NRT products on the mother and unborn child are known, the full range of
+compliance or risks to the unborn child are not fully known. . . . NRT drug
+products have not been tested in pregnant women . . . Extrapolating from the
+animal data on nicotine exposure and considering the smoking data in humans, the
+agency believes that chronic nicotine exposure may represent some risk in humans
+for embryo-fetal lethality, but likely presents little risk for teratogenic or adverse
+development effects. . . . While smoking has clearly been associated with fetal
+19
+harm, the contribution of nicotine has not been clearly delineated. There are
+numerous other constitutants of cigarette smoke that may be major contributing
+factors to the harm caused by smoking. There continue to be unanswered
+questions involving the clinical pharmacology and toxicology of NRT use during
+pregnancy in humans and additional research should be conducted to answer those
+questions.” (Aug. 17, 2001, letter, p. 4.)
+The FDA’s August 17 letter recognized that its approved warning to
+doctors for prescription products containing nicotine states: “It is presumed that
+[the product] can cause fetal harm when administered to pregnant women.” (Aug.
+17 letter at p. 3.) But the FDA explains: “This labeling was intended to provide
+doctors with information to help them make treatment recommendations to their
+patients. The complexity of the data regarding exposure to nicotine during
+pregnancy and the relative risks of smoking versus use of NRT products are not
+easily translated into consumer friendly language on an OTC package.” (Aug. 17
+letter at pp. 3-4.)
+The August 17 letter rejected the proposal that defendants’ products use the
+“can harm your baby” warning approved for Habitrol. It said that this warning
+“overstates what is known about nicotine and its effect on the unborn child. The
+words ‘can harm’ may suggest to consumers that harm will occur in most, if not
+all, pregnant women who use NRT products. . . . The ‘Harm your baby’ warning
+may lead some consumers simply to continue smoking after failed attempts at
+abstinence because they will be resigned to the belief that use of NRT drug
+products are just as harmful as smoking.” (Aug. 17 letter at p. 5.)
+Contrary to defendants’ contention, the FDA’s August 17, 2001, letter and
+its summary of the evidence do not show that the FDA considers the evidence
+insufficient to show that nicotine can harm the fetus. The letter notes both that the
+effect of nicotine on the fetus is not fully understood, and that it has not been
+20
+shown that defendants’ products are harmful. But it does not dispute that the
+nicotine in defendants’ products is a potential hazard to the fetus, even though the
+risks to the unborn child “are not fully known.” (Aug. 17 letter at p. 8, italics
+added.) The FDA’s objection to labels warning that nicotine “can” harm the baby
+is not that they are false, but that consumers may give too much weight to the
+warnings and decide to continue smoking instead of using an NRT product to stop
+smoking.
+But even though it is probably true that the nicotine in defendants’ products
+can cause reproductive harm, the FDA has authority to prohibit truthful statements
+on a product label if they are “misleading” (21 U.S.C. § 321(n), § 352(a); see
+United States v. Watkins (9th Cir. 2002) 278 F.3d 961, 967), or if they are not
+stated in “such manner and form, as are necessary for the protection of users.” (21
+U.S.C. § 352(f).) There are numerous examples involving product descriptions.
+For example, in United States v. Ninety-five Barrels of Vinegar (1924) 265 U.S.
+438, the label on the vinegar said it was made from apples. It was, but it was
+made from dehydrated apples and was different from vinegar made from fresh
+apples. The United States Supreme Court found the vinegar to be misbranded,
+observing that deception “may result from the use of statements not technically
+false or which may be literally true.” (Id. at p. 444.) In United States v. An
+Article of Food, Etc. (E.D.N.Y. 1974) 377 F.Supp. 746, the district court found the
+label of Manischewitz’s Diet-Thin matzos misleading because they contained the
+same number of calories as Manischewitz’s plain matzos. The opinion observed:
+“Even a technically accurate description of a food or drug’s content may violate
+21 U.S.C. § 343 if the description is misleading in other respects.” (Id. at p. 749.)
+In United States v. An Article of Food (8th Cir. 1973) 482 F.2d 581, the
+government did “not challenge the factual accuracy of the Nuclomin label; rather
+it claims the label is misleading to the public because some of the ingredients are
+21
+either not needed in human nutrition or are included in such insignificant amounts
+as to be valueless.” (Id. at p. 582.) The federal appellate court held that even
+though the Nuclomin label was technically accurate, it was misleading, and the
+product was subject to seizure. (Id. at p. 584.)
+A truthful warning can be misleading or fail to communicate the facts
+necessary for the protection of users. This court discussed that concern in Carlin
+v. Superior Court (1996) 13 Cal.4th 1104, a product liability action in which the
+plaintiff claimed that the FDA-approved warning for Halcion, a prescription drug,
+was inadequate because it failed to warn of certain dangers. Quoting Finn v. G.D.
+Searle & Co. (1984) 35 Cal.3d 691, 701, Justice Mosk’s majority opinion noted:
+“[E]xperience suggest[s] that if every report of a possible risk, no matter how
+speculative, conjectural, or tentative, imposed an affirmative duty to give some
+warning, a manufacturer would be required to inundate physicians
+indiscriminately with notice of any and every hint of danger, thereby inevitably
+diluting the force of any specific warning given.” (Carlin v. Superior Court,
+supra, at p. 1115; see Walsh & Klein, The Conflicting Objectives of Federal and
+State Tort Law Drug Regulation (1986) 41 Food Drug Cosm. L. J. 171, 182.) The
+concurring and dissenting opinion expanded on this problem. It noted that even if
+scientific evidence supports the existence of a risk, a warning is not necessarily
+appropriate: “The problems of overwarning are exacerbated if warnings must be
+given even as to very remote risks . . . .” (Carlin v. Superior Court, supra, 13
+Cal.4th at p. 1126 (conc. & dis. opn. of Kennard, J.).) “Against the benefits that
+may be gained by a warning must be balanced the dangers of overwarning and of
+less meaningful warnings crowding out necessary warnings, the problems of
+remote risks, and the seriousness of the possible harm to the consumer.” (Id. at
+p. 1133.)
+22
+The New Jersey Supreme Court in R.F. v. Abbott Laboratories (N.J. 2000)
+745 A.2d 1174, in holding that an FDA regulation preempted state law on the duty
+to warn, reasoned that the FDA could prohibit a truthful warning. The FDA label
+for donated blood specified a test to determine whether the blood was
+contaminated with HIV, and established a cutoff point requiring rejection of blood
+scoring above a certain value. The plaintiff suggested that the FDA label should
+also require retesting of marginal samples that fell within 10 percent of the cutoff
+point. The FDA rejected this suggestion, and plaintiff unfortunately was infected
+with donated blood that fell within this 10 percent range. The court rejected
+plaintiff’s challenge to the FDA regulation, relying on FDA findings that (1) there
+was no scientific evidence that borderline samples were more likely to be false-
+negative than samples falling well below the borderline, so retesting of borderline
+samples would not find many cases of contamination; and (2) blood banks would
+be likely to throw out donations falling in the borderline range instead of incurring
+the expense of retesting, a consequence that would imperil the nation’s blood
+supply. (See id. at p. 1180.)
+The New Jersey Supreme Court emphasized that deciding upon a warning
+may involve balancing of competing interests. (R.F. v. Abbott Laboratories,
+supra, 745 A.2d at p. 1180.) “The FDA’s active involvement at every step of the
+test’s development, approval, and use in the field, reflected the risk-utility analysis
+undertaken by the FDA to address significant public policy considerations. [¶]
+[T]he FDA’s mandate directing Abbot not to provide for retesting of samples near
+the cutoff . . . remained in force as part of a conscious ongoing risk-benefit
+analysis by the FDA in managing a public health crisis.” (Id. at p. 1192.)
+Plaintiff here disputes the proposition that the FDA can undertake a risk-
+utility analysis in formulating an appropriate label. He relies on the United States
+Supreme Court decisions in Food and Drug Admin. v. Brown & Williamson
+23
+Tobacco Corp. (2000) 529 U.S. 120 (Brown & Williamson) and Thompson v.
+Western States Medical Center (2002) 535 U.S. 357 (Western States Medical
+Center).
+Brown & Williamson concerned whether the FDA could classify tobacco as
+a drug and regulate it accordingly. The majority held that Congress had precluded
+FDA regulation. One basis for this conclusion was that if the FDA followed its
+own reasoning and analysis, it would have to conclude that tobacco was unsafe
+and ban its distribution – an action that would frustrate congressional acts
+regulating the growing and marketing of tobacco. (Brown & Williamson, supra,
+529 U.S. at p. 142.)
+In response to that argument, the FDA contended that even though tobacco
+was unsafe and had no therapeutic purpose, the FDA could balance other
+considerations, such as the risk of creating a black market for cigarettes, and
+impose something less than an outright ban. The high court disagreed: “Section
+352 (j) focuses on the dangers to the consumer from use of the product, not those
+stemming from the agency’s remedial measures. . . . [¶] The FDA, consistent
+with the FDCA, may clearly regulate many ‘dangerous’ products without banning
+them. Indeed, virtually every drug or device poses dangers under certain
+conditions. What the FDA may not do is conclude that a drug or device cannot be
+used safely for any therapeutic purpose and yet, at the same time, allow that
+product to remain on the market.” (Brown & Williamson, supra, 529 U. S. at
+pp. 141-142.)
+Thereafter,
+in
+Western States Medical Center, supra, 535 U.S. 357, the
+United States Supreme Court held that a provision of the Modernization Act
+prohibiting the advertising of compounded drugs violated the First Amendment to
+the federal Constitution. The FDA sought to justify the challenged provision on
+the ground that it was necessary to prevent unnecessary prescription of
+24
+compounded drugs. The court described this argument as “paternalistic” (id. at
+p. 375), and said the FDA’s “concern amounts to a fear that people would make
+bad decisions if given truthful information about compounded drugs.” (Id. at
+p. 374.) The high court went on to say: “We have previously rejected the notion
+that the Government has an interest in preventing the dissemination of truthful
+commercial information in order to prevent members of the public from making
+bad decisions with the information.” (Id. at p. 374, citing Virginia State Bd. of
+Pharmacy v. Virginia Citizens Consumer Counsel, Inc. (1976) 425 U.S. 748, 769
+[state statute barring advertising of prescription drug prices violates First
+Amendment].)
+Both cases cited by plaintiff raise issues distinct from those here. This case
+does not involve the marketing of an unsafe product as in Brown & Williamson,
+supra, 529 U.S. 120, and unlike Western States Medical Center, supra, 535 U.S.
+357, it presents no constitutional issues. There is no question but that the FDA has
+jurisdiction to regulate the labeling of defendants’ products, and that its rulings are
+valid and preemptive as to products sold in every state, subject only to the savings
+clause in 21 United States Code section 379r(d)(2).
+The United States Supreme Court described the reasoning underlying the
+FDA arguments in Brown & Williamson, supra, 529 U.S. 120, and Western States
+Medical Center, supra, 535 U.S. 357, as “paternalistic.” The same can be said of
+the FDA’s reasoning here. But we do not know of any statute or constitutional
+provision that precludes the FDA from taking this approach to regulation of
+nonprescription drugs. In formulating the label for a product to be marketed – as
+distinguished from a decision whether or not to permit the product to be marketed
+– the FDA must take into account the effect of proposed labels on the consumer.
+Whether a label is potentially misleading or incomprehensible is essentially a
+judgment of how the consumer will respond to the language of the label. As we
+25
+have noted, a truthful warning of an uncertain or remote danger may mislead the
+consumer into misjudging the dangers stemming from use of the product, and
+consequently making a medically unwise decision. The authority of the FDA, we
+conclude, extends to barring warnings that are misleading in this fashion.
+Although there is reason to believe that nicotine can cause reproductive
+harm, plaintiff has offered no qualitative assessment of this risk. The mere
+existence of the risk, however, is not necessarily enough to justify a warning; the
+risk of harm may be so remote that it is outweighed by the greater risk that a
+warning will scare consumers into foregoing use of a product that in most cases
+will be to their benefit. The FDA has so determined in this case, and we find no
+basis to question the FDA’s expert determination.
+The United States Attorney General, as amicus curiae for defendants, goes
+further and argues that every FDA labeling decision involves balancing all
+relevant considerations relating to the precise wording of the label, and that
+consequently any nonidentical state warning would constitute misbranding. That
+argument would nullify the savings clause in the Modernization Act, which plainly
+permits Proposition 65 warnings that differ from the FDA warnings. As
+defendants point out, this is an unusual case; in most cases FDA warnings and
+Proposition 65 warnings would serve the same purpose – informing the consumer
+of the risks involved in use of the product – and differences in wording would not
+call for federal preemption. Here, however, the FDA warning serves a nuanced
+goal – to inform pregnant women of the risks of NRT products, but in a way that
+will not lead some women, overly concerned about those risks, to continue
+smoking. This creates a conflict with the state’s more single-minded goal of
+informing the consumer of the risks. That policy conflict justifies federal
+preemption here.
+26
+DISPOSITION
+The judgment of the Court of Appeal is reversed.
+KENNARD,
+ACTING
+C.
+J.
+WE CONCUR:
+WERDEGAR, J.
+CHIN, J.
+BROWN, J.
+MORENO, J.
+SCOTLAND, J.*
+SEPULVEDA, J.**
+*
+Presiding Justice of the Court of Appeal, Third Appellate District, assigned
+by the Acting Chief Justice pursuant to article VI, section 6 of the California
+Constitution.
+**
+Associate Justice of the Court of Appeal, First Appellate District, Division
+Four, assigned by the Acting Chief Justice pursuant to article VI, section 6 of the
+California Constitution.
+27
+See last page for addresses and telephone numbers for counsel who argued in Supreme Court.
+Name of Opinion Dowhal v. Smithkline Beecham Healthcare
+_________________________________________________________________________________
+Unpublished Opinion
+Original Appeal
+Original Proceeding
+Review Granted XXX 100 Cal.App.4th 8
+Rehearing Granted
+__________________________________________________________________________________
+Opinion No. S109306
+Date Filed: April 15, 2004
+__________________________________________________________________________________
+Court: Superior
+County: San Francisco
+Judge: David A. Garcia
+__________________________________________________________________________________
+Attorneys for Appellant:
+Lexington Law Group, Eric S. Somers, Mark N. Todzo, Todd E. Robins and Howard J. Hirsch for Plaintiff
+and Appellant.
+Bill Lockyer, Attorney General, Manuel M. Medeiros, State Solicitor General, Richard M. Frank, Chief
+Assistant Attorney General, Theodora Berger, Assistant Attorney General, Craig C. Thompson, Edward G.
+Weil, Dennis Ragen and Susan S. Fiering, Deputy Attorneys General, for the People as Amicus Curiae on
+behalf of Plaintiff and Appellant.
+Environmental Law Foundation, James R. Wheaton, Iryna A. Kwasny; Public Citizen Litigation Group,
+Allison M. Zieve and Brian Wolfman for Public Citizen as Amicus Curiae on behalf of Plaintiff and
+Appellant.
+__________________________________________________________________________________
+Attorneys for Respondent:
+Morrison & Foerster, James P. Bennett, Michèle B. Corash, Maria Chedid and Brooks M. Beard for
+Defendants and Respondents GlaxoSmithKlineConsumer Healthcare, Alza Corp., Aventis Pharmaceuticals,
+Inc., Costco Wholesale Corp., Lucky Stores, Inc., Rite Aid Corp., Safeway Inc., and Walgreen Co.
+Livingston & Mattesich Law Group, Livingston & Mattesich Law Corporation, Gene Livingston and
+Matthew J. Goldman for Defendant and Respondent McNeil Consumer Products Company.
+Crosby, Heafey, Roach & May, Reed Smith Crosby Heafey, John E. Dittoe and Paul D. Fogel for
+Defendant and Respondent Pharmacia & Upjohn Company.
+28
+Page 2 - counsel continued - S109306
+Attorneys for Respondent:
+Covington & Burling, Steven J. Rosenbaum and Darren D. Cooke for the Consumer Healthcare Products
+Association, the Cosmetic Toiletry and Fragrance Association, the Grocery Manufacturers of America and
+the Pharmaceutical Research and Manufacturers of America as Amici Curiae on behalf of Defendants and
+Respondents.
+Catherine I. Hanson, Astrid Meghrigian and Hans P. Lee for California Medical Association as Amicus
+Curiae on behalf of Defendants and Respondents.
+Robert D. McCallum, Jr., and Peter D. Keisler, Assistant Attorneys General, David W. Shapiro and Kevin
+V. Ryan, United States Attorneys, Barbara L. Herwig, Douglas Letter, Peter R. Maier; Daniel E. Troy,
+Lynn Whipkey Mehler and Heidi P. Forster for United States of America as Amicus Curiae on behalf of
+Defendants and Respondents.
+29
+Counsel who argued in Supreme Court (not intended for publication with opinion):
+Mark N. Todzo
+Lexington Law Group
+1627 Irving Street
+San Francisco, CA 94122
+(415) 759-4111
+Susan S. Fiering
+Deputy Attorney General
+1515 Clay Street, Suite 2000
+Oakland, CA 94612-0550
+(510) 622-2142
+James P. Bennett
+Morrison & Foerster
+425 Market Street
+San Francisco, CA 94105
+(415) 268-7000
+Peter R. Maier
+U.S. Department of Justice
+Civil Division, Room 9012
+601 D Street N.W.
+Washington D.C. 20530-0001
+(202) 514-3585
+30

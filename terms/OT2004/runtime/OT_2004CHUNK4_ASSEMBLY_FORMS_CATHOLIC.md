@@ -1,0 +1,3 @@
+# Catholic Charities assembly form, before assignment
+
+One signed plenary threshold opinion resolves the developed section 1257 question after merits submission, with an actual four-route Cox analysis and an opposing practical-finality opinion. The substantial and distinct jurisdictional reasoning warrants a signed opinion rather than an unexplained or discretionary dismissal. One shared controlling opinion and Stevens's threshold dissent preserve the actual grounds. This form is fixed before the fresh count and author selection, independently of any desired assignment balance. The merits are unreachable under the controlling threshold disposition.

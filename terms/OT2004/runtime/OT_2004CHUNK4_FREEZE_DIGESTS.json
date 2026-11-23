@@ -1,0 +1,58 @@
+[
+  {
+    "file": "OT_2004CHUNK4_CATHOLIC_NEUTRAL_REFRESH.md",
+    "sha256": "700cc40deed177acf3576083f2e3c67ab6320d47471eb735ecbc453ca52e4a22"
+  },
+  {
+    "file": "OT_2004CHUNK4_COMMITMENTS.md",
+    "sha256": "7f04e097753aae94db6d58782c5289907cdc8102379489a16b70295dcffe1984"
+  },
+  {
+    "file": "OT_2004CHUNK4_COMMITMENTS_A.md",
+    "sha256": "9fa71bbf2c0d9975778b45a899df03fa0663600b37020711f4b23813f20624da"
+  },
+  {
+    "file": "OT_2004CHUNK4_COMMITMENTS_B.md",
+    "sha256": "7b64699992c02a73c2ab4759d6039700b79717360eb385ea540054d4b36ec139"
+  },
+  {
+    "file": "OT_2004CHUNK4_COMMITMENTS_CATHOLIC_REFRESH.md",
+    "sha256": "281784586914565626667b9bb2f149e8ce1074d28a692726c0981403a2d5c050"
+  },
+  {
+    "file": "OT_2004CHUNK4_COMPARATOR.md",
+    "sha256": "85b40e0c979a4c738dfd609de6200a328d02b7d5359e9b81f5d55f1c40c5beb8"
+  },
+  {
+    "file": "OT_2004CHUNK4_COMPARATOR_A.md",
+    "sha256": "31dabfec4e0067b5feaf6c8433cc304d788a5eafb0223deaf6903cb7341f6a53"
+  },
+  {
+    "file": "OT_2004CHUNK4_COMPARATOR_B.md",
+    "sha256": "bb78fa4461aa27d76951f3b37ffa0cc66f83a206a93688ada7033dd3e54b52ab"
+  },
+  {
+    "file": "OT_2004CHUNK4_COMPARATOR_SOURCE_REVIEW.md",
+    "sha256": "a8ba18e6960d356bee0fbdcbfd820243c477b5aea2cb77617b5d874be782ee32"
+  },
+  {
+    "file": "OT_2004CHUNK4_NEUTRAL.md",
+    "sha256": "aadb626f3b39a4d342277f5820530cd5cfdc786920c9276a14c47a7ed69f191c"
+  },
+  {
+    "file": "OT_2004CHUNK4_RECONCILED.md",
+    "sha256": "fefd6d53a458ae2e398d454e4cb5caadafd5af6b037df0a4dfaced4b9b296425"
+  },
+  {
+    "file": "OT_2004CHUNK4_RECONCILED_A.md",
+    "sha256": "2065b069ece2aa8aff3821d8460e9614b439e037c6e1e43137da0f4cc0ba1ab9"
+  },
+  {
+    "file": "OT_2004CHUNK4_RECONCILED_B.md",
+    "sha256": "e2abdb97b9e9dea082791132681019b87fc1da330c5c723437de6b250fbfaa77"
+  },
+  {
+    "file": "OT_2004CHUNK4_RECONCILED_CATHOLIC_REFRESH.md",
+    "sha256": "0c4e8249886bda66da488758d6a878ef205d82eea74ef0415e8ce714b10b8bf5"
+  }
+]

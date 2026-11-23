@@ -1,0 +1,99 @@
+No. 03-1395
+  
+In the Supreme Court of the United States
+  
+GEORGE J. TENET, INDIVIDUALLY,
+ JOHN E. MCLAUGHLIN, ACTING DIRECTOR OF
+ CENTRAL INTELLIGENCE AND ACTING DIRECTOR OF THE CENTRAL INTELLIGENCE AGENCY, AND UNITED STATES OF AMERICA, PETITIONERS
+
+v.
+  
+JOHN DOE AND JANE DOE
+  
+ON WRIT OF CERTIORARI
+ TO THE UNITED STATES COURT OF APPEALS
+ FOR THE NINTH CIRCUIT
+
+BRIEF FOR THE PETITIONERS
+  
+PAUL D. CLEMENT
+ Acting Solicitor General
+ Counsel of Record
+ PETER D. KEISLER
+ Assistant Attorney General
+ GREGORY G. KATSAS
+ Deputy Assistant Attorney
+ General
+ LISA S. BLATT
+ Assistant to the Solicitor
+ General
+ BARBARA L. HERWIG
+ H. THOMAS BYRON III
+ Attorneys
+ Department of Justice
+ Washington, D.C. 20530-0001
+ (202) 514-2217
+
+JOHN A. RIZZO
+ Acting General Counsel
+ JOHN L. MCPHERSON
+ Associate General Counsel
+ Central Intelligence Agency
+ Washington, D.C. 20505
+
+QUESTION PRESENTED
+  
+Whether Totten v. United States, 92 U.S. 105 (1876), bars a district court from considering respondents' due process and tort claims that the Central Intelligence Agency (CIA) has wrongfully refused to keep its alleged promise to provide them with life-time financial assistance in exchange for their alleged espionage services to the CIA.
+  
+In the Supreme Court of the United States
+  
+No. 03-1395
+  
+GEORGE J. TENET, INDIVIDUALLY,
+ JOHN E. MCLAUGHLIN, ACTING DIRECTOR OF
+ CENTRAL INTELLIGENCE AND ACTING DIRECTOR OF THE CENTRAL INTELLIGENCE AGENCY, AND UNITED STATES OF AMERICA, PETITIONERS
+
+v.
+  
+JOHN DOE AND JANE DOE
+  
+ON WRIT OF CERTIORARI
+ TO THE UNITED STATES COURT OF APPEALS
+ FOR THE NINTH CIRCUIT
+
+BRIEF FOR THE PETITIONERS
+  
+OPINIONS BELOW
+  
+The opinion of the court of appeals (Pet. App. 1a-64a) is reported at 329 F.3d 1135. The June 7, 2000, opinion of the district court (Pet. App. 95a-116a) is reported at 99 F. Supp. 2d 1284. The January 22, 2001, opinion of the district court (Pet. App. 85a-94a) is unreported.
+  
+STATEMENT
+  
+1. "In the world of espionage, there are two kinds of spies. They both risk exposure, arrest, and sometimes their lives in the clandestine search for information to forewarn the United States. They are called case officers and agents." Admiral Stansfield Turner, Secrecy and Democracy: The CIA in Transition 48 (1985). "The case officer is always a [Central Intelligence Agency (CIA)] person, usually an American, usually overseas. He is the contact between CIA Headquarters and the agents who do the actual spying. Agents generally are foreigners who are willing to spy for the United States." Ibid. "Some [agents] do so for money, some because they prefer our ideology to that of their own countries, some because they carry a grudge against their government, some for adventure, and some because of a personal friendship with the case officer who recruits them." Ibid. This case involves the latter category of spies.
+  
+It has long been established that such spies have no entitlement to sue to enforce their secret contracts. Totten v. United States, 92 U.S. 105 (1876). Indeed, it is understood that the government that procures their services may deny any relationship in the event the spying arrangement becomes exposed or suspected. See pp. 18-19, infra. Nevertheless, respondents, using the fictitious names John and Jane Doe, filed suit in the United States District Court for the Western District of Washington against the United States and the Director of Central Intelligence (DCI) in his individual and official capacity. The Second Amended Complaint alleges the following facts which, "for reasons of national security," the United States to date has neither confirmed nor denied. Pet. App. 2a. The CIA, through its case officers, recruited respondents, husband and wife, to "conduct espionage for the United States" in a foreign country that was "then considered to be an enemy of the United States." Id. at 121a, 122a. Respondents agreed to spy for the CIA in exchange for a promise by the CIA to "arrange for travel to the United States and ensure financial and personal security for life." Id. at 122a. Respondents thereafter "carr[ied] out their end of the bargain" by performing "highly dangerous and valuable [espionage] assignments" abroad, and they ultimately defected to the United States and became United States citizens. Id. at 123a, 124a. John Doe subsequently obtained professional employment using a false name and resume. Id. at 124a. "As John Doe's salary increased over time, the [CIA's] living stipend decreased and eventually was discontinued." Ibid. A number of years later, John Doe lost his job due to a corporate merger and since has been unable to find employment. Id. at 125a.
+  
+The complaint also alleges that, if the CIA is "not compelled to resume assistance," respondents "will soon have no other choice than to leave the United States" and live in a foreign country where there is a risk that they will be recognized and punished as a result of their espionage services for the CIA. Pet. App. 126a-128a. The complaint also alleges that respondents have unsuccessfully contacted the CIA for assistance. Id. at 129a-136a. The complaint seeks an injunction ordering the CIA to pay monthly "financial support" to respondents pending further administrative review by the CIA of their claims; a declaratory judgment specifying the kind of administrative review that would be required; and an order of mandamus that would compel the CIA to "provide for [respondents'] basic needs" and to adopt regulations for administrative review of their claims. Id. at 138a-142a.
+  
+2. The government moved to dismiss the complaint because respondents' claims were barred by Totten, supra, which held that a suit against the United States could not be maintained to enforce the terms of an alleged agreement to perform espionage services. The Court in Totten concluded that "public policy forbids the maintenance of any suit in a court of justice, the trial of which would inevitably lead to the disclosure of matters which the law itself regards as confidential, and respecting which it will not allow the confidence to be violated." 92 U.S. at 107.
+  
+The district court denied the government's motion in part, holding that Totten does not extend to plaintiffs' estoppel and constitutional claims. Pet. App. 104a-107a. The court granted the government's motion to dismiss respondents' equal protection claim, id. at 113a-114a, and the court also denied respondents' motion for a preliminary injunction. Id. at 115a.
+  
+The government then moved for summary judgment and renewed its motion to dismiss, attaching a declaration of William H. McNair, the Information Review Officer for the CIA's Directorate of Operations, which is the Agency's Clandestine Service that conducts foreign intelligence and counterintelligence activities. Pet. App. 143a-148a. In the affidavit, McNair explained that "any Agency response to the [complaint's] factual assertions * * *, whether to either confirm or deny the allegations contained therein, would be classified information and could not be filed in open court." Id. at 147a.
+  
+The district court denied summary judgment. Pet. App. 85a-94a. The district court then certified its orders for interlocutory appeal, and stayed further proceedings pending disposition of the government's appeal. Id. at 79a-84a. The court of appeals granted the government's appeal and denied respondents' cross-petition to appeal pursuant to 28 U.S.C. 1292(b). Pet. App. 77a-78a.
+  
+3. A divided panel of the court of appeals affirmed. Pet. App. 1a-64a.
+  
+a. The court held that Totten does not bar judicial review of respondents' claims at the outset because their claims, in the court's view, "do not arise out of an implied or express contract." Pet. App. 18a. The court believed that Totten is not a "blanket prohibition on suits arising out of acts of espionage," but "is instead simply a holding concerning contract law." Id. at 21a. Thus, the court found that Totten holds only that, as a matter of contract law, a plaintiff could not recover on a claim for a secret contract for espionage services because bringing the action amounted to a breach of the contract that would necessarily preclude recovery. The court found that, "[f]or two reasons, the contractual holding of Totten is not applicable here." Id. at 22a. First, the court reasoned that respondents seek "to compel fair process and application of substantive law to their claims within the Central Intelligence Agency's . . . internal administrative process." Ibid. The court stated that "a fair internal process could presumably proceed in accordance with the secrecy implicit in an agreement to engage in espionage." Ibid.
+  
+Second, the court found that, "[h]ere, [respondents] have so far proceeded in a manner that has not breached the agreement" by "fil[ing] suit under fictitious names and reveal[ing] only minimal, nonidentifying details in their complaint." Pet. App. 22a. The court further reasoned that, "[w]ith court and government cooperation, it may be possible to continue the suit in a manner that avoids public exposure of any secret information." Id. at 23a.
+  
+The court of appeals also concluded that Totten's holding that public policy forbids a suit that would inevitably reveal information the law regards as secret "has flowered into the state secrets doctrine" as articulated in United States v. Reynolds, 345 U.S. 1 (1953). Pet. App. 25a. The court then held that "Totten permits dismissal of cases in which it is asserted that the very subject matter is a state secret only after complying with the formalities and court investigation requirements that have developed since Totten within the framework of the state secrets doctrine." Id. at 27a; id. at 29a ("Totten is applicable to the case before us only as applied through the prism of current state secrets doctrine."). The court observed that the CIA "has not complied here with the formalities essential to invocation of the state secrets privilege," i.e., a formal claim of privilege by the DCI after personal review of the matter. Id. at 31a. The court held that CIA's non-compliance with those formalities "is reason enough to affirm the district court's refusal to dismiss this case." Ibid.
+  
+The court of appeals finally proceeded to "provide some guidance concerning the handling of [respondents'] claims should the state secrets privilege be invoked" by the CIA on remand. Pet. App. 31a. The court instructed the district court to "make every effort to ascertain whether the claims in question can be adjudicated while protecting the national security interests asserted." Id. at 33a. The court observed that "the district court might conclude that the Agency has not provided any basis for concluding that national security would be jeopardized by the revelation of the existence of a relationship with [respondents]." Id. at 36a.1
+  
+b. Judge Tallman dissented. Pet. App. 39a-64a. He explained that "Totten holds that claims brought by secret agents against the government are non-justiciable," and that, "[f]ar from modifying Totten, the Court's opinion in Reynolds reaffirms Totten's jurisdictional bar." Id. at 39a, 40a.
+  
+4. The court of appeals denied rehearing and rehearing en banc. Pet. App. 65a-66a. Judge Kleinfeld, joined by five other active judges, dissented from the denial of rehearing. Id. at 66a-76a. He explained that "[t]he panel's contention that the purposes of Totten can be served by the CIA asserting the state-secrets privilege, which would then permit in camera inspection of papers by the district court and so forth, leaves out the most important purpose of all: to keep the whole engagement utterly and entirely secret." Id. at 71a.
+  

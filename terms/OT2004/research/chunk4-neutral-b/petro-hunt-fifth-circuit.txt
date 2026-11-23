@@ -1,0 +1,957 @@
+         REVISED May 28, 2004   United States Court of Appeals
+UNITED STATES COURT OF APPEALS               Fifth Circuit
+
+        For the Fifth Circuit        FILED
+
+            No. 02-30760 c/w            March 31, 2004
+                   02-30786
+                                   Charles R. Fulbruge III
+                                               Clerk
+
+                         PETRO-HUNT, L.L.C., et.al,
+                                                                   Plaintiffs – Appellees,
+
+                                            VERSUS
+                   UNITED STATES OF AMERICA, et. al,
+
+                                                                     Defendants,
+                           UNITED STATES OF AMERICA,
+
+                                                                     Defendant – Appellant.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+                         PETRO-HUNT, L.L.C., et. al,
+                                                                     Plaintiffs-Appellants,
+
+                                            versus
+                   UNITED STATES OF AMERICA, et. al,
+
+                                                                      Defendants-Appellees.
+
+Appeals from the United States District Court
+       for the Western District of Louisiana
+
+-1-
+Before EMILIO M. GARZA, and DENNIS, Circuit Judges, and VANCE*,
+District Judge.
+DENNIS, Circuit Judge:
+
+         Petro-Hunt, L.L.C., Hunt Petroleum Corporation, and Kingfisher
+Resources, Inc., (collectively “Plaintiffs”) filed a declaratory
+judgment action seeking to quiet title to mineral rights in
+approximately 180,000 acres of federally owned land within the
+Kisatchie National Forest. Plaintiffs claim those rights as
+successors in interest to 96 mineral servitudes that were created
+before the United States purchased the land in the 1930s. The
+district court granted summary judgment in favor of Plaintiffs on
+the grounds of res judicata and denied Plaintiff’s request for
+attorneys’ fees. The United States timely appeals the district
+court’s grant of summary judgment and Plaintiffs cross-appeal on
+the issue of attorneys’ fees. Because we reverse district court’s
+summary judgment ruling and remand for further proceedings not
+inconsistent with this opinion, we need not reach the merits of
+Plaintiffs’ cross appeal regarding attorneys’ fees since plaintiffs
+are no longer prevailing parties.1
+I. BACKGROUND
+
+         In order to give the proper context to our discussion of the
+
+    * District Judge of the Eastern District of Louisiana, sitting
+by designation.
+
+    1 Prevailing party status is a prerequisite to recovering
+attorneys’ fees under 28 U.S.C. § 2412(b).
+
+                                                         -2-
+merits of this factually dense case, we begin with a brief
+discussion on Louisiana mineral law, the servitudes in question,
+and the applicability of certain Louisiana laws to property owned
+by the United States.
+
+         A. Mineral Servitudes Under Louisiana Law
+         Louisiana law governing mineral servitudes does not
+recognize a separate mineral estate in oil and gas.2 Mineral
+rights can be owned separate from the surface land only in the
+form of a mineral servitude.3 Hence, any attempt to sell or
+reserve the ownership of oil and gas results in the creation of a
+mineral servitude, and the holder of that servitude has the right
+to enter the property and extract the minerals.4 Louisiana law
+has long provided that a mineral servitude is extinguished by
+prescription resulting from ten years’ nonuse.5 The period of
+prescription on mineral servitudes begins to run on the date a
+
+    2 Frost-Johnson Lumber Co. v. Salling’s Heirs, 91 So. 207,
+243–245 (La. 1920).
+
+    3 Central Pines Land Co. v. United States, 274 F.3d 881, 884
+(5th Cir. 2001).
+
+    4 Central Pines, 274 F.3d at 884. See La. R.S. § 31:21 (“A
+mineral servitude is the right of enjoyment of land belonging to
+another for the purpose of exploring for and producing minerals and
+reducing them to possession and ownership.”); see also Luther L.
+McDougal, III, Louisiana Mineral Servitudes, 61 TUL. L. REV. 1097,
+1098–99 (1987).
+
+    5 Central Pines, 274 F.3d at 884. See La. R.S. § 31:27.
+                                                         -3-
+servitude is created,6 and is interrupted only by “good faith
+operations for the discovery and production of minerals.”7
+
+         Because the rule of prescription reflects a public policy
+favoring “the timely return of outstanding minerals to the owner
+of the land,”8 the rule may not be abrogated by contract.9 The
+Louisiana Supreme Court has declared that “it is against the
+public policy of this state to allow . . . servitudes to remain
+alive for a longer period than 10 years without use,” and that
+any contracts to the contrary are void as against public
+policy.10
+
+         B. Creation of Mineral Servitudes
+         In 1932, five Louisiana lumber companies – Good Pine Lumber,
+Trout Creek Lumber, Tall Timber Lumber, Bodcaw Lumber, and Grant
+Timber – entered an agreement to pool the mineral rights on their
+respective land holdings in central Louisiana.11 As part of the
+pooling agreement, the companies created a joint venture called
+
+    6 See La. R.S. § 31:28; see also Ober v. Williams, 35 So. 2d
+219, 224 (La. 1948).
+
+    7 La. R.S. § 31:29.
+    8 See Mire v. Hawkins, 186 So. 2d 591, 597 (La. 1966).
+    9 See Leiter Minerals, Inc. v. California Co., 132 So. 2d 845,
+853 (La. 1961). On the other hand, agreements to shorten the
+period of prescription do not conflict with public policy and are
+valid. Id.
+    10 Id.
+    11 United States v. Nebo Oil, 190 F.2d 1003, 1005 (5th Cir.
+1951).
+
+                                                         -4-
+the “Good Pine Oil Company” and separately conveyed to that
+company the rights to explore and develop their property for the
+production of oil, gas, and sulphur.12 Of these conveyances, six
+that Bodcaw Lumber and Grant Timber made to Good Pine Oil between
+November 12, 1932, and May 3, 1934, are relevant to this case.
+All of these six conveyances involved multiple parcels of land,
+many of which were non-contiguous, and thus resulted in multiple
+mineral servitudes.13
+
+         Each of the six deeds conveying mineral rights to Good Pine
+Oil contained a clause providing that the ten year period of
+liberative prescription applied. Five of the deeds expressly
+stipulated that “none of said [mineral] rights in any of said
+lands shall be prescribed unless there shall elapse a full period
+of ten (10) years in which there shall be no exercise of any of
+the foregoing rights or user of any of the lands aforesaid under
+and by virtue hereof.” The sixth contained strikingly similar
+language. Because the prescriptive period described in these
+instruments is equivalent to the liberative prescription period
+of ten years, the contract provision applying a prescriptive
+
+    12 Id.
+    13 See Cox v. Sanders, 421 So. 869, 873 (La. 1982)(stating that
+“a landowner cannot create a single servitude or mineral royalty
+right on two or more non-contiguous tracts; and if this is
+attempted by a single instrument, there are nevertheless as many
+servitudes or royalty interests as there are non-contiguous tracts
+of land” and quoting Whitehall Oil Co. v. Heard, 197 So. 2d 672,
+675 (La. Ct. App. 1967)).
+
+                                                         -5-
+period of ten years is enforceable.
+         C. Acquisition by the United States
+         In the late 1930s, the United States acquired approximately
+
+180,000 acres of land in three Louisiana parishes (Grant Parish,
+Natchitoches Parish, and Winn Parish) from Bodcaw Lumber and
+Grant Timber for inclusion in the Kisatchie National Forest. The
+United States acquired the lands under the Weeks Forestry Act14
+through nine acts of sale and two judgments in condemnation.15
+Each of these eleven conveyances came after the six transactions
+in which Bodcaw Lumber and Grant Timber conveyed mineral rights
+on the lands to Good Pine Oil. Consequently, at the time of
+acquisition, the approximately 180,000 acres of land that the
+United States acquired was burdened by 96 separate mineral
+servitudes in favor of Good Pine Oil.
+
+         The eleven instruments of transfer (nine deeds and two
+judgments) conveying the lands to the United States addressed the
+pre-existing mineral servitudes in different ways. All but one
+of the instruments contained language stating that the
+conveyances were “subject to” one or more of the mineral deeds
+granting rights to Good Pine Oil. Most of these transfer
+instruments contained an additional clause stating that the
+“mention” of the earlier mineral reservation was “made solely for
+
+    14 16 U.S.C. § 515.
+    15 The record shows that the United States acquired the lands
+between November 28, 1934, and January 28, 1937.
+
+                                                         -6-
+the purpose of limiting vendor’s warranty to the United States in
+present sale, and the recital of the said Mineral Sale shall in
+nowise extend or enlarge the same in point of time.”
+
+         Five of the instruments (four deeds and one judgment) also
+contained additional mineral reservations in the name of Bodcaw
+Lumber or Grant Timber, which were to become effective upon the
+prescription of the relevant servitudes held by Good Pine Oil.
+For example, the February 11, 1936 deed conveying 24,943.93 acres
+owned by Bodcaw Lumber “specially reserved” unto Bodcaw Lumber
+“all of the oil, gas and other minerals . . . subject to the
+sales to Good Pine Oil Company, Incorporated, for a period of ten
+years after the expiration of the rights of the said Good Pine
+Oil Company, Incorporated, under the laws of the State of
+Louisiana.” This deed further provided that this “specially
+reserved” right would be extended beyond ten years if the right
+were exercised in a particular fashion, and that if the original
+ten year period or any extended period terminated for nonuse, “a
+complete fee in the land [would] become vested in the United
+States.” The other four instruments also contained clauses
+granting reversionary mineral interests to Bodcaw Lumber or Grant
+Timber upon the prescription of the Good Pine servitudes.16 Each
+
+    16 Because the Good Pine servitudes were still in effect, the
+“reversionary” clauses were invalid. See Liberty Farms v. Miller,
+45 So. 2d 610, 614 (La. 1950) (“One may not reserve reversionary
+rights to minerals when he is not the owner of the minerals at the
+time the reservation is made. It is settled that, in such
+instances, the reservation is ineffective and the outstanding
+
+                                                         -7-
+of the instruments stated that at the termination of the
+
+reservations, the United States would hold the land in “complete
+
+fee.”
+
+         D. Act 315
+
+         In 1940, well after the mineral and land transactions
+
+described above were complete, the Louisiana Legislature passed
+
+Act 315 to eliminate the rule of prescription for mineral rights
+
+on lands held by the United States:
+
+         [W]hen land is acquired by conventional deed or
+         contract, condemnation or expropriation proceedings by
+         the United States of America . . . , and by the act of
+         acquisition, verdict or judgment, oil, gas, and/or
+         other minerals or royalties are reserved, or the land
+         so acquired is by the act of acquisition conveyed
+         subject to a prior sale or reservation of oil, gas
+         and/or other minerals or royalties, still in force and
+         effect, said rights so reserved or previously sold
+         shall be imprescriptible.17
+
+         The purpose of the Act was to facilitate the federal
+
+government’s purchase of large tracts of land for National
+
+Forests, National Parks, military installations, and like
+purposes.18 The United States was having difficulty acquiring
+
+such tracts in Louisiana because landowners who wished to retain
+
+mineral rights were reluctant to sell their land for fear of
+
+mineral interests revert to the person owning the land at the time
+prescription accrues.”).
+
+    17 See 1940 La. Acts 315; see also La. R.S. § 31:149.
+    18 See United States v. Little Lake Misere Land Co., 412 U.S.
+580, 599 & n.16 (1973) (citing Leiter Minerals, 133 So. 2d at 851).
+
+                                                         -8-
+losing mineral reservations through prescription.19 By making
+mineral servitudes on federal land “imprescriptible” – and thus
+“prevent[ing] the federal government from acquiring mineral
+rights by prescription” – Act 315 also served Louisiana’s
+interest in taxing and regulating minerals on federal land,
+powers that would be in doubt should ownership of the minerals be
+vested in the United States.20
+
+         E. Nebo Oil
+         In 1948, the United States filed a declaratory judgment
+action against the Nebo Oil Company to quiet title to the
+minerals on a particular servitude claimed by Nebo Oil as
+successor in interest to Good Pine Oil.21 The complaint referred
+to a specific parcel, approximately 800 acres in size, lying in
+portions of section 19 (Township 13 North, Range 6 West) and
+section 24 (Township 13, Range 7 West) in Natchitoches Parish.
+This parcel was one of several parcels acquired by the United
+States through a February 11, 1936 deed from Bodcaw Lumber, which
+totaled 24,943.93 acres. Nebo Oil claimed a mineral servitude on
+the 800-acre parcel as a result of a November 12, 1932 conveyance
+of mineral rights from Bodcaw to Good Pine Oil.
+
+    19 Leiter Minerals, 132 So. 2d at 851.
+    20 Id. at 851–52, 854; see also Little Lake Misere, 412 U.S. at
+599–600 (citing Leiter Minerals).
+    21 Sometime after December 1941, Nebo Oil Company acquired all of
+the mineral rights formerly held by Good Pine Oil. See Nebo Oil,
+190 F.2d at 1006.
+
+                                                         -9-
+         In its complaint, the United States averred: (1) that no
+
+drilling operations had been conducted on the 800-acre parcel
+
+during the ten year period beginning on November 12, 1932; (2)
+
+that the mineral servitude on the parcel had therefore prescribed
+
+for nonuse; and (3) that Nebo Oil intended to drill a well on the
+
+land and had advised the government that the company would resist
+
+interference. To prevent injury to its property, the United
+
+States sought declaratory relief and an order permanently
+
+enjoining Nebo Oil from entering the 800-acre parcel for mineral
+
+production.
+
+         In denying the United States relief, the District Court for
+
+the Western District of Louisiana held that the 800-acre
+
+servitude had been rendered “imprescriptible” by Act 315.22
+
+This court affirmed that judgment.23 First, this court found
+
+    22 See United States v. Nebo Oil, 90 F. Supp. 73 (W.D. La. 1950).
+
+    23 See Nebo Oil, 190 F.2d at 1003. The district court’s final
+decree in Nebo Oil included a broad finding that the prescriptive
+periods of the Louisiana Civil Code “do not apply to lands
+purchased by the United States under the Weeks Act, as amended, for
+national forest purposes . . . .” The court further found that
+“under the terms of the deed from Bodcaw Lumber . . . to Good Pine
+Oil . . . dated November 12, 1932, and the deed from Bodcaw Lumber
+. . . to the United States of America dated February 11, 1936, the
+oil, gas and sulphur in, on and under the lands conveyed to the
+United States under such deed . . . , which deed covered the lands
+herein involved, were vested in perpetuity in Good Pine Oil . . .
+, its successors and assigns, and, through it, in the defendant
+herein, as its successor in interest.” Despite the breadth of
+these findings, the district court returned to the property that
+was actually before it when it concluded its decree: “IT IS NOW
+ORDERED, ADJUDGED AND DECREED that the oil, gas, and sulphur in, on
+and under the lands described in the complaint are vested in
+perpetuity in Nebo Oil Company, Inc., its successors and assigns.”
+
+                                                        -10-
+that it was bound by Louisiana precedent holding that rules of
+prescription, including Act 315, “are retrospective in their
+operation.”24 Second, we held that Act 315’s elimination of the
+rule of prescription as to servitudes on federal land did not
+dispose of federal property in violation of Article IV, Section
+3, clause 2 of the United States Constitution or violate the
+Contract Clause of the Constitution or the Due Process Clause of
+the Fourteenth Amendment. The apparent reasoning was that the
+United States’s interest in reclaiming the mineral rights through
+prescription was not a vested right at the time Act 315 was
+passed because the Good Pine servitudes had been created less
+than ten years earlier.25
+
+         F. After Nebo Oil
+         Subsequent to our decision in Nebo Oil, there were two
+decisions concerning the retroactive applicability of Act 315 to
+mineral servitudes located on property owned by the United
+States. First, in United States v. Little Lake Misere Land
+Company, the government sued to quiet title in two adjacent
+parcels of land in Cameron Parish, Louisiana, which it had
+
+    24 See Nebo Oil, 190 F.2d at 1008 (citing Whitney Nat’l Bank of
+New Orleans v. Little Creek Oil Co., 33 So. 2d 693 (La. 1947)).
+
+    25 See id. at 1008–10; see also id. at 1008 (“It cannot be
+considered a vested right if it is nothing more than a mere
+expectation, or hope, based upon an anticipated continuance of the
+applicable general laws.”).
+
+                                                        -11-
+acquired under the Migratory Bird Conservation Act.26 The
+instruments of acquisition – a 1937 deed and a 1939 judgment in
+condemnation – reserved to Little Lake Misere oil, gas, sulphur,
+and other minerals for a period of ten years from the date of
+vesting of title in the United States.27 But those instruments
+further provided that if the initial ten year period ended and no
+production was occurring, or if operations subsequently ceased
+for more than sixty days, “the right to mine, produce and market
+said oil, gas, sulphur or other mineral shall terminate . . . and
+the complete fee title to said lands shall thereby become vested
+in the United States.”28 Nevertheless, following the enactment
+of Act 315, the servitude holder, Little Lake Misere, asserted
+that the reservations had become “imprescriptible.”
+
+         In a brief per curiam opinion, this court held in favor of
+the servitude holder, finding that the contractual terms of
+prescription did not apply to the servitudes in question in the
+light of Act 315.29 This holding was based on our prior decision
+in Nebo Oil regarding the constitutionality of the retroactive
+application of Act 315.30
+
+    26 412 U.S. at 582.
+    27 Id.
+    28 Id. at 583.
+    29 See United States v. Little Lake Misere Land Co., 453 F.2d 360
+(5th Cir. 1971).
+    30 Id. at 362.
+
+                                                        -12-
+         But the United States Supreme Court granted certiorari and
+reversed.31 In so doing, the Court did not expressly reject our
+interpretation of Louisiana law or the analysis of Act 315’s
+constitutionality in Nebo Oil. Instead, invoking the choice-of-
+law doctrine of Clearfield Trust Co. v. United States,32 the
+Supreme Court held that this court erred in presuming, as a
+threshold matter, that Louisiana state law applied.33
+Furthermore, because Little Lake Misere involved a determination
+of rights under a land acquisition agreement that was “explicitly
+authorized, though not precisely governed, by the Migratory Bird
+Conservation Act” and “to which the United States itself is a
+party,” the Supreme Court held that it was for the federal courts
+to “fashion” the governing rule of law in that case.34
+Determining that Act 315 would deprive the United States of
+“bargained-for-contractual interests” by abrogating the terms of
+the acquisition instruments relating to prescription, the Supreme
+Court held that the Act was “plainly hostile to the interests of
+the United States” and could not be “borrowed” as the rule of
+decision.35 Finally, the Supreme Court held that the appropriate
+
+    31 See United States v. Little Lake Misere Land Co., 318 U.S. 363
+(1943).
+
+    32 318 U.S. 580 (1943).
+    33 See Little Lake Misere, 412 U.S. at 591.
+    34 See id. at 594.
+    35 Id. at 596.
+
+                                                        -13-
+rule of decision was to be supplied by either federal common law
+or “residual” state law (i.e., state law without Act 315), both
+of which would give effect to the contract terms.36
+
+         The second decision pertinent here was Central Pines Land
+Company v. United States.37 In that case, we were called upon to
+revisit our Nebo Oil ruling in the light of the Supreme Court’s
+opinion in Little Lake Misere.38 The facts of Central Pines
+were quite similar to those of Nebo Oil. First, like Nebo Oil,
+Central Pines involved the acquisition of land by the United
+States in the 1930s for the Kisatchie National Forest.39 Second,
+also like Nebo Oil, the lands so acquired were subject to a
+preexisting mineral servitude.40 Finally, the successor in
+interest to the servitude owner also argued that Act 315 had
+rendered the servitude in Central Pines “imprescriptible.”41
+
+         Despite the factual similarities between Central Pines and
+Nebo Oil, and perhaps taking a cue from the Supreme Court’s
+Little Lake Misere decision, this court ruled that Act 315 did
+
+    36 Id. at 604.
+    37 274 F.3d 881.
+    38 274 F.3d at 881.
+    39 See id. at 885.
+    40 Id.
+    41 Id. at 886.
+
+                                                        -14-
+not apply to Central Pines.42 While we declined to expressly
+overrule Nebo Oil’s constitutional analysis, we also rejected the
+presumption in Nebo Oil that Louisiana law governed the terms of
+the transactions at issue.43 In particular, following the
+analysis of Little Lake Misere, this court held that the right
+asserted by the United States – i.e., the right to reclaim
+mineral interests through prescription – was a right acquired
+through a duly authorized federal land acquisition agreement and,
+therefore, that federal choice-of-law principles applied.44
+
+         Applying these principles, the Central Pines court
+determined that Act 315 could not be borrowed as the rule of
+decision because, as in Little Lake Misere, it was hostile to the
+government’s contractual interests in reclaiming minerals through
+the “legal rules in place at the time of contract.”45 While
+acknowledging that this interest was “arguably not as powerful as
+the federal right to enforce explicit contractual terms” (the
+right at stake in Little Lake Misere), we determined that this
+interest outweighed any state interest in applying Act 315.46
+Noting that the “main justification” for Act 315 was to
+
+    42 274 F.3d 886.
+    43 Id. at 889-90.
+    44 Id. at 888-90.
+    45 Id. at 891.
+    46 Id. at 891–92.
+
+                                                        -15-
+facilitate federal land acquisitions, this court observed that
+“[such] justification has no bearing on retroactive application
+of Act 315, because an acquisition cannot be facilitated by a law
+not yet in existence.”47 Finally, in recognition of the federal
+interest in the general rule of prescription, we also determined
+that the proper rule of decision was “residual” state law, i.e.,
+Louisiana law without Act 315.48
+
+         G. The Present Dispute
+         In the 1990s, the United States began granting mineral
+leases on certain Forest Service lands that had been burdened by
+Good Pine servitudes but were not involved in Nebo Oil. The
+government regarded these servitudes as prescribed for ten years’
+nonuse. In determining that the servitudes were subject to the
+rule of prescription, rather than Act 315, the United States
+relied on the Supreme Court’s ruling in Little Lake Misere.
+         In response to this leasing activity, the Plaintiffs, who
+are successors in interest to Nebo Oil Company, initiated this
+declaratory judgment action on February 18, 2000. Their
+complaint named the United States and various parties to whom the
+United States granted mineral leases or offers to lease on lands
+that are or were burdened by Good Pine servitudes as defendants.
+Plaintiffs sought a ruling declaring that they are the owners, in
+
+    47 Id. at 892 (citing Little Lake Misere, 412 U.S. at 599).
+    48 Id.
+
+                                                        -16-
+perpetuity, of those servitudes and that the mineral leases and
+
+offers to lease issued by the United States were therefore null
+
+and void. The United States argued in response to the
+
+Plaintiffs’ complaint that the 95 separate mineral servitudes
+
+through which the Plaintiffs claim mineral rights are subject to
+
+prescription for nonuse and that the relevant leases and offers
+
+to lease relate to lands on which the servitudes claimed by
+
+Plaintiffs have already prescribed.
+
+         Plaintiffs filed a motion for summary judgment49 in the
+
+district court. In their motion, Plaintiffs argued that they
+
+were entitled to judgment as a matter of law because Nebo Oil and
+
+the doctrine of res judicata or collateral estoppel50 would bar
+
+    49 Plaintiffs actually filed two motions for summary judgment.
+In their second summary judgment motion, Plaintiffs argued that
+even if the rule of prescription applied, five servitudes burdening
+nearly seventy percent of the 180,000 acres in dispute had not
+prescribed because they had exercised their rights through
+continuous drilling operations. The United States conceded that
+sufficient drilling operations had interrupted the running of
+prescription on some of the servitudes and introduced evidence
+regarding the particular histories of each of the 96 Good Pine
+servitudes. But the district court dismissed this second motion as
+moot due to its res judicata determination and expressly declined
+to consider the issue of whether sufficient drilling operations
+interrupted the prescriptive period as to any particular servitude.
+Because we reverse the district court’s grant of summary judgment
+and because the district court has not had an opportunity to pass
+on the question of what servitudes may have prescribed, we will not
+reach the merits of Plaintiffs’ second motion and remand this issue
+to the district court.
+
+    50 Although Plaintiffs did not specifically use the term
+“collateral estoppel” in their motion for summary judgment,
+Plaintiffs’ argument in favor on the motion was based on res
+judicata. “The rules of res judicata encompass two separate but
+linked preclusive doctrines: (1) true res judicata or claim
+
+                                                        -17-
+any defense raised by the United States as to the
+prescriptibility of the servitudes. The United States opposed
+the Plaintiffs’ motion for summary judgment.
+
+         H. The District Court’s Ruling
+         On December 18, 2001, the district court issued a memorandum
+ruling granting the Plaintiffs’ motion for summary judgment.
+Holding that res judicata barred the United States’s asserted
+defenses to Plaintiffs’ claim of ownership due to this court’s
+decision in Nebo Oil, the district court declared that Plaintiffs
+were “the exclusive owners in perpetuity of the approximately
+180,000 acres of mineral servitudes at issue in this case.” The
+district court based its ruling on this court’s decision in Nebo
+Oil. The court noted that the 800-acre servitude addressed in
+Nebo Oil burdened a parcel of land that the United States
+acquired in 1936 as part of a larger purchase of 24,943.93 acres
+and that all 24,943.93 acres were burdened by mineral servitudes
+that were owned in common with the 800-acre servitude. Because
+the Nebo Oil decision referred to the 24,943.93-acre transaction,
+the district court found that Nebo Oil “applied Act 315 of 1940
+
+preclusion and (2) collateral estoppel or issue preclusion.” See
+St. Paul Mercury Ins. Co. v. Williamson, 224 F.3d 425, 436 (5th
+Cir. 2002)(internal citation omitted). Because these two doctrines
+are separate, collateral estoppel will be analyzed separately in
+this opinion.
+
+                                                        -18-
+to the mineral reservation and sale of the 24,943.93 acre tract”
+and that “res judicata clearly applies” to disputes over the
+minerals on this tract.
+
+         As for the remainder of the approximately 180,000 acres of
+land – acquired by the United States in ten additional
+transactions that were not specifically addressed in Nebo Oil –
+the district court found that res judicata was also applicable
+due to the factual similarity in the transactions.
+Specifically, because of the similarities in the transactions
+through which the United States acquired the lands and in the
+earlier transactions creating mineral servitudes on the land, the
+district court stated: (1) that “the entire 180,000 acres was
+similarly situated to the 800 acres at issue in Nebo Oil”; (2)
+that the United States had a “full and fair opportunity” (in Nebo
+Oil) to “litigate the application and constitutionality of
+Louisiana Act 315 to this mineral property”; and (3) that “[t]he
+government should not be allowed to litigate now that which it
+could have litigated 50 years ago.”
+
+         Accordingly, the district court entered a final judgment on
+May 29, 2002. The United States timely appealed.
+II. ANALYSIS
+
+         The critical issue before this court focuses on whether the
+United States is precluded from challenging Plaintiffs’ assertion
+of ownership over all 96 of the mineral servitudes arising from
+
+                                                        -19-
+their status as successors in interest to Good Pine Oil. Because
+the district court granted summary judgment, we review that
+decision de novo.51
+A. Res Judicata–A Claim Precluded by Sameness?
+
+         “Claim preclusion, or res judicata, bars the litigation of
+claims that either have been litigated or should have been raised
+in an earlier suit.”52 The test for res judicata has four
+elements: (1) the parties are identical or in privity; (2) the
+judgment in the prior action was rendered by a court of competent
+jurisdiction; (3) the prior action was concluded by a final
+judgment on the merits; and (4) the same claim or cause of action
+was involved in both actions.53 In this case, there is no
+dispute over the competency of the Nebo Oil court, the finality
+of its judgment in that case, or the sameness of the parties.
+The only dispute is whether this case involves the same claim or
+cause of action as Nebo Oil.
+
+         To determine whether two suits involve the same claim or
+cause of action, this court has adopted the transactional test of
+
+    51 Central Pines, 274 F.3d at 886.
+    52 In re Southmark Corp., 163 F.3d 925, 934 (5th Cir. 1999). See
+Brown v. Felsen, 442 U.S. 127, 131 (1979) (“Res judicata prevents
+litigation of all grounds for, or defenses to, recovery that were
+previously available to the parties, regardless of whether they
+were asserted or determined in the prior proceeding.”).
+    53 Southmark, 163 F.3d at 934.
+
+                                                        -20-
+the Restatement (Second) of Judgments, § 24.54 Under that test,
+the preclusive effect of a prior judgment extends to all rights
+the original plaintiff had “with respect to all or any part of
+the transaction, or series of connected transactions, out of
+which the [original] action arose.”55
+
+         What factual grouping constitutes a ‘transaction’, and
+         what groupings constitute a ‘series’, are to be
+         determined pragmatically, giving weight to such
+         considerations as whether the facts are related in
+         time, space, origin, or motivation, whether they form a
+         convenient trial unit, and whether their treatment as a
+         unit conforms to the parties’ expectations or business
+         understanding or usage.56
+“[T]he critical issue is whether the two actions under
+consideration are based on the same nucleus of operative
+facts.”57
+         Contending that this action is not based on the same nucleus
+of operative facts as the action in Nebo Oil, the United States
+points out that it initiated the Nebo Oil litigation in response
+to learning that Nebo Oil intended to conduct drilling operations
+on a particular 800-acre parcel of federal land under a mineral
+servitude that, in the view of the United States, had
+
+    54 Id. (citing Southmark Properties v. Charles House Corp., 742
+F.2d 862, 870–71 (5th Cir. 1984)).
+
+    55 Restatement (Second) of Judgments § 24(1) (1982).
+    56 Id. § 24(2).
+    57 Southmark, 163 F.3d at 934 (internal quotation and citation
+omitted).
+
+                                                        -21-
+prescribed.58 The operative facts of that action included: (1)
+the United States’s purchase of the 800-acre parcel from Bodcaw
+Lumber on February 11, 1936; (2) the creation of the mineral
+servitude burdening that parcel in a November 11, 1932 conveyance
+from Bodcaw Lumber to Good Pine Oil; and, most importantly, (3)
+the history of use or nonuse of that servitude. In contrast, the
+United States argues that the rights asserted by the parties in
+this case depend on ten additional federal land acquisitions,
+five additional mineral conveyances to Good Pine Oil, and the
+drilling histories on 95 additional servitudes.
+
+         The district court found that it did not “need to delve into
+such matters as what constitutes contiguous tracts, the number of
+servitudes, and whether prescription of nonuse was interrupted by
+good faith operations for the discovery and production of
+minerals.” The district court reasoned that it was “faced with
+what may be viewed as a primarily legal question.” Because all
+of the Good Pine servitudes were similarly situated with respect
+to application of Act 315, the court did not expressly identify
+the operative facts of this case and Nebo Oil and determine that
+they were the same. Instead, the district court relied on the
+fact that Nebo Oil addressed a federal land acquisition and the
+
+    58 The United States acknowledges that it is precluded, as a
+matter of res judicata, from re-litigating title to the 800-acre
+mineral servitude at issue in Nebo Oil.
+
+                                                        -22-
+similarity among that acquisition and the other ten acquisitions
+
+at issue here.
+
+         But the district court’s reliance on the factual
+
+similarities among the various servitudes and land acquisitions
+
+was misplaced. As the United States correctly points out, these
+
+observations of factual similarity, although potentially relevant
+
+for purposes of collateral estoppel, are not relevant to res
+
+judicata. Collateral estoppel prevents parties from re-
+
+litigating the same issues conclusively determined between them
+
+in a previous action. Although similar in principle, true res
+
+judicata is concerned with a sameness of operative facts.
+
+Neither the Plaintiffs nor the district court have identified a
+
+principle of res judicata that requires an owner of separate
+
+properties to litigate title to all of those properties in
+
+response to a threat to his right of full use and enjoyment of
+
+only one of them.59 While an action to quiet title in one
+
+property may raise the same legal issues that would also be in
+
+question in an similar type of action involving a similarly
+
+    59 Like the district court, the Plaintiffs seize on the Supreme
+Court’s statement in Nevada v. United States, 463 U.S. 110, 129
+n.10 (1983), that “[t]he policies advanced by the doctrine of res
+judicata perhaps are at their zenith in cases concerning real
+property, land and water.” While this is certainly true, nothing
+in the Nevada opinion undermines the principle that the doctrine of
+res judicata does not bar a second action unless it is the “same
+cause of action” as the first one. See id. at 130 (“To determine
+the applicability of res judicata to the facts before us, we must
+decide first if the ‘cause of action’ which the Government now
+seeks to assert is the ‘same cause of action’ that was asserted
+[previously].”).
+
+                                                        -23-
+situated property, the operative facts of the two actions would
+be distinct.
+
+         In this case, each of the Good Pine servitudes was a
+distinct real right under Louisiana law.60 The Nebo Oil action
+involved one servitude burdening an 800-acre parcel of land and
+was filed in response to a threat to the United States’s asserted
+right of full use and enjoyment of that land. The United States
+took the position that the servitude was subject to prescription
+and had prescribed, and therefore it had to show ten years’
+nonuse of that particular servitude to succeed on its claim. The
+existence and use histories of the other Good Pine servitudes
+were not operative facts of either the government’s claim or Nebo
+Oil’s defense to that claim. Although the reasoning of Nebo Oil
+– that the Good Pine servitudes were imprescriptible due to Act
+315– made the use histories irrelevant as a matter of law, each
+servitude remained a distinct real right. If Nebo Oil remains
+good law, this court’s holding that Act 315 rendered the Good
+Pine servitudes imprescriptible is final and conclusive between
+the United States and the Plaintiffs as a matter of collateral
+estoppel. But res judicata is no bar to the United States’s
+defense in this action because its claim with respect to each
+servitude depends on a unique set of operative facts. Thus, if
+
+    60 See McDougal, supra note 4, at 1099.
+                                                        -24-
+the United States’s defense of this action is limited, it would
+
+be limited only under collateral estoppel.
+
+B. Collateral Estoppel–An Issue Precluded by Prior Litigation?
+
+         Collateral estoppel precludes a party from litigating an
+
+issue already raised in an earlier action between the same
+
+parties61 only if: (1) the issue at stake is identical to the one
+
+involved in the earlier action; (2) the issue was actually
+
+litigated in the prior action; and (3) the determination of the
+
+issue in the prior action was a necessary part of the judgment in
+
+that action.62 In this circuit, collateral estoppel applies to
+
+“pure questions of law” only when there has been no “change in
+
+controlling legal principles.”63 The United States contends that
+
+    61 “Mutuality” is a prerequisite only when the party to be
+estopped is the United States. See United States v. Mendoza, 464
+U.S. 154 (1984).
+
+    62 Stripling v. Jordan Prod. Co., LLC, 234 F.3d 863, 868 (5th
+Cir. 2000).
+
+    63 See, e.g., Hicks v. Quaker Oats Co., 662 F.2d 1158, 1167 (5th
+Cir. 1981)(discussing the effect of Montana v. United States, 440
+U.S. 147 (1979) on the exception to collateral estoppel explained
+in United States v. Sunnen, 333 U.S. 591 (1948), and concluding
+that post-Montana, Sunnen stands only for the proposition that
+“estoppel would not apply where there had been a change in
+controlling legal principles between the two decisions.”); EEOC v.
+Am. Airlines, Inc., 48 F.3d 164, 170 (5th Cir. 1995)(quoting
+Montana, 440 U.S. at 161, for the proposition that “a significant
+change in the legal climate may defeat collateral estoppel where
+modifications in controlling legal principles . . .could renders a
+previous determination inconsistent with the prevailing
+doctrine.”); RecoverEdge, L.P. v. Pentecost, 44 F.3d 1284, 1291
+(5th Cir. 1995)(stating “As one treatise points out, however,
+‘courts have readily perceived that for purposes of preclusion,
+‘issues are not identical if the second action involves application
+
+                                                        -25-
+collateral estoppel does not apply in the present case because it
+seeks to raise issues that are not identical to the issues
+litigated in Nebo Oil and, in any event, there has been a change
+in controlling legal principles. We agree.
+
+         In ruling that the United States is precluded from re-
+litigating the applicability of Act 315 to the Good Pine
+servitudes, the district court did not specify what particular
+issues were actually litigated in Nebo Oil. But, as the United
+States discusses in its brief, the question of Act 315’s
+applicability to this case can be divided into three distinct
+sets of legal issues. First, there are threshold choice-of-law
+issues, including whether the rights arising out of the federal
+land acquisitions are governed by state law (including Act 315)
+or by federal law, and, if federal law governs, whether and what
+provisions of state law should be “borrowed” to provide the rules
+of decision.64 Second, there are issues regarding the
+interpretation of Act 315 under state law, including the question
+
+of a different legal standard, even though the factual setting of
+both suits is the same.’” citing 18 Wright, Miller & Cooper,
+Federal Practice and Procedure § 4417, at 165 (footnote
+omitted)(quoting Peterson v. Clark Leasing Corp., 451 F.2d 1291,
+1292 (9th Cir. 1971); Brister v. A.W.I., Inc., 946 F.2d 350, 354
+n.1 (5th Cir. 1991)(explaining that “not only the facts, but also
+the legal standard used to assess them, must be identical” and
+citing Southern Pac. Transp. Co. v. Smith Material Corp., 616 F.2d
+111, 115 (5th Cir. 1980)).
+
+    64 See Little Lake Misere, 412 U.S. at 590–604; Central Pines,
+274 F.3d at 887–92.
+
+                                                        -26-
+whether Act 315 is to be applied retroactively. Finally, there
+are issues concerning whether applying Act 315 retroactively is
+constitutional. That these issues are distinct legal issues
+cannot be doubted after this court’s ruling in Central Pines.65
+
+         Nebo Oil only addressed the latter two sets of issues.66
+That is, in Nebo Oil, this court assumed the applicability of Act
+315, confined its analysis to an interpretation of the Act under
+state law, and determined that the Act did not violate the
+federal constitution.67 In the present case, the United States
+does not seek to revisit the issues actually addressed in Nebo
+Oil. Instead, it seeks to raise the threshold choice-of-law
+issue that Nebo Oil did not address because it was presumed. In
+particular, the United States contends that: (1) federal law
+governs the rights arising out of its acquisition of the lands at
+issue in this case;68 (2) Act 315 may not be borrowed as the rule
+of decision because it is hostile to the United States’s
+contractual interests;69 and (3) the rule at the time of the
+
+    65 See 274 F.3d at 889–90.
+    66 See id. (describing the scope of Nebo Oil).
+    67 See id.
+    68 See Little Lake Misere, 412 U.S. at 594; Central Pines, 274
+F.3d at 887–90.
+    69 See Central Pines, 274 F.3d at 890–92.
+
+                                                        -27-
+contract (i.e., the Louisiana rule of prescription) should
+govern.70
+
+         Because these questions of law are not “identical” to the
+issues raised in Nebo Oil and were not “actually litigated” in
+Nebo Oil, we find that the United States is not precluded, under
+collateral estoppel, from raising them in this case.71 Although
+the Plaintiffs cite scattered portions of both the district
+court’s opinion and the United States’s brief in Nebo Oil in an
+effort to show that the choice-of-law issue was determined in
+that action, we stand by our prior finding in Central Pines that
+it was not.72
+
+         Nevertheless, even if the choice-of-law issue had been
+raised in Nebo Oil, changes in the controlling legal principles
+prevent the United States from being precluded from litigating
+the issue in this case.73 After the decisions in Little Lake
+Misere and Central Pines, it is clear that federal law governs
+
+    70 See id. at 892.
+    71 RecoverEdge 44 F.3d at 1290.
+    72 See 274 F.3d at 889–90.
+    73 The Plaintiffs’ argument that the Supreme Court’s decision in
+United States v. Stauffer Chem. Co., 464 U.S. 165 (1984), compels
+a contrary conclusion is mistaken. In that case, there had been no
+change in controlling legal principles between the first and the
+second action. See id. at 170. The Court was concerned, instead,
+with the exception to the otherwise applicable rules of preclusion
+for “unmixed questions of law” arising in “successive actions
+involving unrelated subject matter.” See id. The United States
+does not rely on this exception in this case.
+
+                                                        -28-
+the choice-of-law decision presented by the facts of this case.
+Hence, we are prohibited from borrowing Act 315 as the federal
+rule of decision because it is hostile to the federal interests
+at stake.74
+III. CONCLUSION
+
+         Because neither res judicata nor collateral estoppel
+preclude the United States from challenging Plaintiffs’ assertion
+of ownership over the mineral servitudes in question, we reverse
+the district court’s grant of summary judgment. In addition, we
+find that the 95 servitudes that were not at issue in Nebo Oil
+are subject to the contractual provisions permitting prescription
+after ten years’ nonuse. Accordingly, we remand this case so
+that the district court can determine which servitudes have in
+fact prescribed.
+
+                                     REVERSED AND REMANDED.
+
+    74 See Central Pines, 274 F.3d at 888–90.
+                                                        -29-
+

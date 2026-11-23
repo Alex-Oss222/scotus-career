@@ -1,0 +1,199 @@
+No. 02-1472 and 03-853
+  
+In the Supreme Court of the United States
+  
+CHEROKEE NATION OF OKLAHOMA AND SHOSHONE-PAIUTE TRIBES OF THE DUCK VALLEY RESERVATION, PETITIONERS
+  
+v.
+  
+UNITED STATES OF AMERICA; TOMMY G. THOMPSON,
+ SECRETARY OF HEALTH AND HUMAN SERVICES
+
+TOMMY G. THOMPSON, SECRETARY OF HEALTH AND
+ HUMAN SERVICES, PETITIONER
+
+v.
+  
+CHEROKEE NATION OF OKLAHOMA
+  
+ON WRITS OF CERTIORARI
+ TO THE UNITED STATES COURTS OF APPEALS
+ FOR THE TENTH AND FEDERAL CIRCUITS
+
+BRIEF FOR THE FEDERAL PARTIES
+  
+ 
+  
+PAUL D. CLEMENT
+ Acting Solicitor General
+ Counsel of Record
+ PETER D. KEISLER
+ Assistant Attorney General
+ EDWIN S. KNEEDLER
+ Deputy Solicitor General
+ SRI SRINIVASAN
+ Assistant to the Solicitor
+ General
+ BARBARA C. BIDDLE
+ JEFFRICA JENKINS LEE
+ Attorneys
+ Department of Justice
+ Washington, D.C. 20530-0001
+ (202) 514-2217
+  
+ 
+  
+ALEX M. AZAR II
+ General Counsel
+ BARBARA J. HUDSON
+ Branch Chief
+ JOCELYN S. BEER
+ JULIA PIERCE
+ HILARY FRIERSON
+ Attorneys
+ Department of Health
+ and Human Services
+ Washington, D.C. 20201
+
+QUESTIONS PRESENTED
+  
+The Indian Self-Determination and Education Assistance Act (ISDA), 25 U.S.C. 450-450n, authorizes the Secretary of Health and Human Services (the Secretary) to enter into contracts with Indian Tribes for the administration of programs the Secretary otherwise would administer himself. The ISDA also provides that the Secretary shall pay "contract support costs" to cover certain direct and indirect expenses incurred by the Tribes in administering those contracts. The ISDA, however, makes payment "subject to the availability of appropriations," and declares that the Secretary "is not required to reduce funding for programs, projects or activities serving a tribe to make funds available" for contract support and other self-determination contract costs. 25 U.S.C. 450j-1(b). The questions presented are:
+  
+1. Whether the ISDA requires the Secretary to pay contract support costs associated with carrying out self-determination contracts with the Indian Health Service, where appropriations were insufficient to fully fund those costs without reprogramming funds needed for other mandatory health initiatives and for non-contractable, inherently federal functions such as having an Indian Health Service.
+  
+2. Whether Section 314 of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999, Pub. L. No. 105-277, 112 Stat. 2681-288, bars the Tribes from recovering their contract support costs.
+  
+In the Supreme Court of the United States
+  
+No. 02-1472
+  
+CHEROKEE NATION OF OKLAHOMA AND SHOSHONE-PAIUTE TRIBES OF THE DUCK VALLEY RESERVATION, PETITIONERS
+  
+v.
+  
+UNITED STATES OF AMERICA; TOMMY G. THOMPSON,
+ SECRETARY OF HEALTH AND HUMAN SERVICES
+
+No. 03-853
+  
+TOMMY G. THOMPSON, SECRETARY OF HEALTH AND
+ HUMAN SERVICES, PETITIONER
+
+v.
+  
+CHEROKEE NATION OF OKLAHOMA
+  
+ON WRITS OF CERTIORARI
+ TO THE UNITED STATES COURTS OF APPEALS
+ FOR THE TENTH AND FEDERAL CIRCUITS
+
+BRIEF FOR THE FEDERAL PARTIES
+  
+OPINIONS BELOW
+  
+The opinion of the court of appeals in No. 03-853 (Pet. App. 1a-35a) is reported at 334 F.3d 1075. The relevant opinions of the Interior Board of Contract Appeals (Board) (Pet. App. 43a-49a, 50a-73a) are not officially reported, but are available at 01-1 B.C.A. (CCH) ¶ 31,349, and 99-2 B.C.A. (CCH) ¶ 30,462.
+  
+The opinion of the court of appeals in No. 02-1472 (Pet. App. 1a-23a) is reported at 311 F.3d 1054. The opinion of the district court (Pet. App. 24a-50a) is reported at 190 F. Supp. 2d 1248. An earlier decision by the district court denying class certification is reported at 199 F.R.D. 357.
+  
+STATUTORY PROVISIONS INVOLVED
+  
+The relevant provisions of the Indian Self-Determination and Education Assistance Act, 25 U.S.C. 450 et seq., and the applicable appropriations acts are reproduced at Thompson Pet. App. 81a-115a.
+  
+STATEMENT
+  
+I. Statutory Background
+  
+Congress enacted the Indian Self-Determination and Education Assistance Act (ISDA), Pub. L. No. 93-638, 88 Stat. 2203, in 1975 to promote "effective and meaningful participation by the Indian people in the planning, conduct, and administration" of federal programs and services for Indians. 25 U.S.C. 450a(b). Until that time, federal programs and services for Indians were primarily administered directly by the federal government. See S. Rep. No. 274, 100th Cong., 1st Sess. 2-3 (1987). Under the ISDA, Indian Tribes may elect to enter into "self-determination contracts" with the Secretary of the Interior and the Secretary of Health and Human Services to assume operation of services for Indians otherwise administered directly by those Departments. 25 U.S.C. 450f. By 1998, about half of the Departments' com-bined appropriations for Indian programs was administered by Tribes pursuant to self-determination contracts. GAO, Indian Self-Determination Act: Shortfalls in Indian Contract Support Costs Need to Be Addressed (GAO Report) 5 (1999).
+  
+The Secretary of each Department has delegated authority to enter into self-determination contracts to the agency within the Department responsible for administration of Indian programs: the Bureau of Indian Affairs (BIA) in the Department of the Interior, and the Indian Health Service (IHS), an agency within the Public Health Service in the Department of Health and Human Services. The contracts at issue in this case are with the Secretary of Health and Human Services (the Secretary) through IHS. IHS is responsible for delivering primary health care services to federally recognized Tribes and their members. 25 U.S.C. 1661.
+  
+A. General Provisions Of The ISDA
+  
+1. The ISDA directs the Secretary, "upon the request of any Indian tribe by tribal resolution, to enter into a self- determination contract" to "plan, conduct, and administer programs or portions thereof." 25 U.S.C. 450f(a)(1). "Self-determination contracts with Indian tribes are not discretionary. The Act contains only limited reasons for declination to contract by [the] Secretary." S. Rep. No. 274, supra, at 3. In particular, the Secretary is required to approve a tribe's proposed self-determination contract within 90 days unless the Secretary issues a written finding "clearly demonstrat[ing]" that the proposal is deficient according to certain specified declination criteria. 25 U.S.C. 450f(a)(2). As a result, the Act "uniquely requires the Secretary * * * to continue providing direct services until such time as a tribe freely chooses to contract to operate those services." S. Rep. No. 274, supra, at 6.
+  
+The ISDA authorizes Tribes to assume not only the direct delivery of services but also "administrative functions * * * that support the delivery of services." 25 U.S.C. 450f(a)(1). Those "administrative functions * * * shall be contractable without regard to the organizational level within the Department that carries out those functions." Ibid.; see 25 U.S.C. 450j-1(a)(1). At the same time, the ISDA makes clear that certain agency responsibilities are "beyond the scope of programs, functions, services, or activities" that are contractable, "because [they] include[] activities" that must be conducted by the agency and "cannot lawfully be carried out by the contractor." 25 U.S.C. 450f(a)(2)(E); see 25 U.S.C. 450f(a)(1) (providing for assumption by contracting Tribe of "administrative functions * * * that are otherwise contractable") (emphasis added); 25 U.S.C. 450j-1(a)(1) (allowing for funding of "administrative functions that are otherwise contractable") (emphasis added).
+  
+2. The ISDA thus effectively entitles a tribe to step into the shoes of a federal agency in receiving federal funds and administering government services. The statute recognizes that the unique, government-to-government nature of self-determination contracts differs from standard government procurement contracts. See 25 U.S.C. 450b(j) ("no [self-determination] contract * * * shall be construed to be a procurement contract"); S. Rep. No. 274, supra, at 18 ("The term 'self-determination contract' means an intergovernmental contract that is not a procurement contract. This definition recognizes the unique nature of self-determination contracts between the Federal government and Indian tribal governments.").
+  
+Unlike a typical procurement contractor, a Tribe that elects to enter into a self-determination contract under the ISDA does not commit to supply a specific level of services in exchange for an agreed-upon payment. Instead, the tribe, like the federal agency before it, undertakes to deliver federal services within the limits of funds awarded to it and has no obligation to "continue performance that requires an expenditure of funds in excess of the amount of funds awarded." 25 U.S.C. 450l(c) (Model agreement § 1(b)(5)); see, e.g., J.A. 79. In recognition of the distinctive manner in which contracting Tribes assume the delivery of government services, the ISDA deems employees of contracting Tribes to be part of the Department of Health and Human Services for purposes of the Federal Tort Claims Act while carrying out the services. See 25 U.S.C. 450f(d).
+  
+3. In 1988, Congress added a "Tribal Self-Governance Demonstration Project" to the ISDA, enabling participating Tribes to step further into the shoes of a federal agency. Pub. L. No. 100-472, § 209, 102 Stat. 2296 (25 U.S.C. 450f note (1994)) (adding ISDA Tit. III). The project authorized a limited number of Tribes, each of which had performed multiple self-determination contracts for three fiscal years, to enter into an overarching self-governance "compact," under which the Tribe could redesign its contracted programs and reallocate funding among programs. Although the self-governance project initially applied only to BIA, Congress extended the project to IHS in 1992. Pub. L. No. 102-573, Tit. VIII, § 814, 106 Stat. 4590. Subsequently, Congress repealed the demonstration project and permanently codified self-governance provisions for BIA (in 1994) and IHS (in 2000) as Titles IV and V of the ISDA, respectively. Pub. L. No. 103-413, Tit. II, § 204, 108 Stat. 4271 (1994) (codified as amended at 25 U.S.C. 458aa to 458hh); Pub. L. No. 106-260, § 4, 114 Stat. 712 (2000) (codified at 25 U.S.C. 458aaa to 458aaa-18).
+  
+Funding under self-governance compacts is provided through annual funding agreements subject to the same funding provisions that apply to self-determination contracts. See 25 U.S.C. 458aaa-7(c) (permanent IHS self-governance provisions); 25 U.S.C. 458cc(l) (permanent BIA self-governance provisions); Pub. L. No. 100-472, § 209, 102 Stat. 2296 (adding ISDA § 303(a)(6) (self-governance demonstration project)). Accordingly, while this case involves self-governance compacts, the funding provisions for self-determination contracts control. See Thompson Pet. App. 7a; Cherokee Pet. App. 2a n.1.
+  
+B. Funding Of Self-Determination Contracts Under The ISDA
+  
+With respect to the amount of funds provided to a Tribe that elects to assume operation of a federal program, the ISDA, as originally enacted, provided for transferring the amount that the Secretary would have allocated to the program if he were still administering it directly. 25 U.S.C. 450j-1(a)(1) ("amount of funds provided * * * shall not be less than the appropriate Secretary would have otherwise provided for the operation of the programs"); see Pub. L. No. 93-638, § 106(h), 88 Stat. 2211. That base amount of funding is sometimes referred to as the "secretarial amount." See, e.g., Thompson Pet. App. 4a.
+  
+1. a. In 1988, Congress amended the ISDA and directed the Secretary to add to the secretarial amount an amount for "contract support costs" (CSCs). 25 U.S.C. 450j-1(a)(2). CSCs are costs that a Tribe incurs in operating a program but that the Secretary would not incur if he were directly administering the program. 25 U.S.C. 450j-1(a)(2). By definition, therefore, funding for CSCs is over and above what the Secretary would require to operate the same program directly. Such costs would include certain employment taxes and expenses to which the federal government is not subject, and costs that non-federal entities must incur when contracting with the federal government to ensure compliance and accountability.
+  
+CSCs can include both direct costs and indirect costs. 25 U.S.C. 450j-1(a)(3)(A). Direct CSCs may include, for example, initial startup expenses, unemployment taxes, and workers compensation payments. See J.A. 12-13. Indirect CSCs comprise an allocable share of general overhead expenses incurred by a Tribe across its various activities and programs (i.e., for facilities, equipment, and financial and personnel management), except insofar as such expenses are already accounted for in funds for ordinary administrative activities that are transferred to the Tribe as part of the secretarial amount. 25 U.S.C. 450j-1(a)(3)(A)(ii); see J.A. 13-14. Indirect CSCs make up the majority of CSCs, see GAO Report 6, and are generally calculated by applying an "indirect cost rate" to the amount of funds otherwise payable to the Tribe, see 25 U.S.C. 450b(f) and (g), 450j-1(c)(3); Thompson Pet. App. 7a-8a; see also OMB, Circular No. A-87, 46 Fed. Reg. 9548 (1981).
+  
+b. At the same time that it provided for funding of CSCs in the 1988 amendments, Congress also prescribed an overarching limitation on the Secretary's obligation to provide funds to a tribe under a self-determination contract. Pub. L. No. 100-472, § 205, 101 Stat. 2293 (codified as amended at 25 U.S.C. 450j-1(b)). That provision states:
+  
+Notwithstanding any other provision in this subchapter, the provision of funds under this subchapter is subject to the availability of appropriations and the Secretary is not required to reduce funding for programs, projects, or activities serving a tribe to make funds available to another tribe or tribal organization under this subchapter.
+  
+25 U.S.C. 450j-1(b); 25 U.S.C. 458aaa-18(b) (same) (enacted as part of IHS self-governance provisions in 2000). In addition, Congress, anticipating that appropriations may be insufficient for for full funding of CSCs for all Tribes, directed the Secretary to submit an annual report setting out, inter alia, "an accounting of any deficiency in funds needed to provide required contract support costs to all contractors for the fiscal year." 25 U.S.C. 450j-1(c)(2); see Pub. L. No. 100-472, § 205, 102 Stat. 2293.
+  
+2. Congress added a "model agreement" to the ISDA in 1994, the terms of which must be contained or incorporated in "[e]ach self-determination contract." 25 U.S.C. 450l(a); see Pub. L. No. 103-413, § 108, 108 Stat. 4261. The model agreement provision addressing funding amounts states that: "Subject to the availability of appropriations, the Secretary shall make available to the Contractor the total amount specified in the annual funding agreement." 25 U.S.C. 450l(c) (Model agreement § 1(b)(4)) (emphasis added).
+  
+II. The Indian Health Service's Appropriations And Funding
+  
+IHS provides health care services for over 1.6 million American Indians and Alaska Natives, who belong to more than 500 Indian Tribes. IHS services are delivered through approximately 150 local "service units" encompassing some 500 direct health care facilities, including 49 hospitals, 195 health centers, eight school health centers, and 289 health stations, satellite clinics and Alaska village clinics. J.A. 219 ¶ 20. As of 1998, approximately 45% of IHS's funding for programs was administered by Tribes through self-determination contracts. GAO Report 37.
+  
+A. IHS's Allocation Of Appropriations Generally
+  
+IHS allocates and spends its appropriated funds principally under the authority of the Snyder Act, 25 U.S.C. 13, and the Indian Health Care Improvement Act (IHCIA), 25 U.S.C. 1601 et seq.1 Congress appropriates funds for IHS health care programs through an annual lump-sum appropriation for "Indian Health Services." See, e.g., Department of the Interior and Related Agencies Appropriations Act, 1997, Pub. L. No. 104-208, Tit. II, 110 Stat. 3009-205, 3009-212.2 In the relevant fiscal years, IHS's lump-sum appropriation for Indian Health Services ranged from $1.65 billion (1994) to $1.81 billion (1997). J.A. 213 ¶ 3, 384 ¶ 4.
+  
+The agency allocates a small share of the lump-sum appropriation to its Headquarters Office, with the remaining funds allocated to twelve Area Offices responsible for administering programs within a defined geographic region. J.A. 385 ¶ 8, 386 ¶ 10. Each Area Office in turn apportions its share of funds among local service unit programs in its area, with some funds assigned to programs directly operated by the agency on behalf of non-contracting Tribes and other funds assigned to programs administered by Tribes through self-determination contracts. J.A. 215-216 ¶ 10; J.A. 385-386 ¶ 8. Programs ordinarily are funded on a recurring annual basis, with both contracted and non-contracted programs generally allocated the same amount of funding as in the previous fiscal year, plus a proportionate share of any overall increases in program funding. J.A. 215-216 ¶ 10; J.A. 385-386 ¶ 8; see 25 U.S.C. 450j-1(b)(2) (prohibiting reduction in contract funding in subsequent years except pursuant to, inter alia, reduction in appropriations for the program); 25 U.S.C. 1680a (requiring IHS to provide funds to contracting Tribes for "cost-of-living increases" and "other expenses relating to the provision of health services" on "the same basis as such funds are provided to programs and services operated directly").
+  
+The Headquarters Office and the Area Offices retain some funds to pay for administrative support for programs. J.A. 385-386 ¶¶ 8, 10. Those administrative funds fall into two categories. First, a portion of the funds, referred to as "residual" funds, pays for inherent federal functions that are not available for contracting because they must be carried out by the agency-i.e., those funds necessary for IHS to conduct its essential functions as a federal agency even if all IHS health service programs were administered by Tribes under self-determination contracts. J.A. 217 ¶ 14, 385-386 ¶¶ 8, 10; see 25 U.S.C. 458aaa(a)(4) ("The term 'inherent Federal functions' means those Federal functions which cannot legally be delegated to Indian tribes."). The remaining funds for administrative support are available for contracting by Tribes, with each Tribe assigned a "tribal share" of such funds. J.A. 218 ¶ 15, 385-386 ¶ 8; see 25 U.S.C. 458aaa(a)(8) ("'tribal share' means an Indian tribe's portion of all funds * * * that support secretarial programs" and "are not required * * * for performance of inherent Federal functions"). Whereas the tribal share of a contracting Tribe is distributed to the Tribe, the tribal share of a non-contracting Tribe is retained by the agency to fund administrative support for direct delivery of services to that Tribe's members by IHS. J.A. 218 ¶ 15.
+  
+The upshot of the IHS's allocation of funds is that, with the exception of residual funds retained by the agency to pay for inherent federal functions, the entire Indian Health Services appropriation is available for contracting by Tribes. In the relevant fiscal years, the agency allocated roughly 1.5% to 2.0% of the Indian Health Services appropriation to inherent federal functions, leaving all remaining sums available for contracting by Tribes. See J.A. 384 ¶ 4 (total appropriations); J.A. 525 (FY 1994 residual); J.A. 542 (FY 1995 residual); J.A. 562 (FY 1996 residual).
+  
+B. IHS's Funding For Contract Support Costs
+  
+1. In each of the relevant fiscal years, the Appropriations Committees in Congress identified a specific amount of the Indian Health Service appropriation that was expected to be allocated to CSCs. The committee reports allocate the lump-sum appropriation among 14 discrete categories, one of which is "Contract Support Costs." J.A. 214 ¶ 4, 384 ¶ 5.3 Those same categories are used throughout IHS's budget and appropriations process: the agency apportions its funding among those categories in its annual Justification of Appropriations; the President allocates IHS's budget among the same categories when submitting the annual federal budget to Congress; and the Appropriations Committees earmark amounts in their reports for each category. J.A. 384-385 ¶ 6. The committee reports for the relevant fiscal years earmarked between $136.7 million (FY 1994) and $160.7 million (FY 1997) for the category of "Contract Support Costs."4
+  
+In addition, Congress specified in each year's appropriations act that $7.5 million was to pay for CSCs associated with new or expanded contracts. In particular, the appropriation for Indian Health Services provided in each year that, "of the funds provided, $7,500,000 shall remain available until expended, for the Indian Self-Determination [ISD] Fund, which shall be available for the transitional costs of initial or expanded tribal [self-determination] contracts."5 The ISD Fund referred to in the appropriations acts was established by IHS in 1988 to pay for CSCs associated with new or expanded programs. See GAO Report 82.6
+  
+2. In each of the relevant fiscal years, IHS in turn funded CSCs in an amount equaling the full amount earmarked in the committee reports, with the $7.5 million appropriation for the ISD Fund allocated to pay CSCs for new or expanded programs and the remaining sums allocated to contracts for ongoing programs. J.A. 218-219 ¶ 17, 302 ¶ 24. While the agency distributed all of those funds to Tribes, the amounts were insufficient to permit full funding of CSCs. See generally GAO Report 82. In 1995 and 1996, for example, requests for CSCs for new or expanded contracts exceeded the $7.5 million ISD Fund appropriation by $21.9 million and $34.6 million, respectively. J.A. 393 ¶ 42. And in 1996 and 1997, the overall shortfall in CSC funding, including both new or expanded contracts and ongoing contracts, was approximately $43 million and $82 million, respectively. J.A. 53, 215 ¶ 8.
+  
+IHS allocated its CSC funds in those years in accordance with guidelines that had been established in 1992, in consultation with Tribes, in anticipation of funding shortfalls for CSCs. Indian Self-Determination Memorandum 92-2, Contract Support Cost Policy (Feb. 27, 1992) (J.A. 6-19); see J.A. 220-221 ¶¶ 23-24. Those guidelines, consistent with the general limitation on the Secretary's obligation to provide funding in 25 U.S.C. 450j-1(b), stated that funding "for contract support costs [was] subject to the availability of funds made available for this purpose." J.A. 7.
+  
+With respect to new or expanded contracts, the agency placed CSC requests in a queue based on the date of the request (the ISD queue), and awarded full-funding of those CSCs on a first-come, first-served basis each year until the $7.5 million appropriation for the ISD Fund was exhausted. J.A. 10-11, 220 ¶ 23. Unfunded requests remained on the queue in subsequent years. Once a tribe's request reached the top of the queue and was funded, the funds became part of the Tribe's recurring CSC funding base in subsequent years. J.A. 220 ¶ 23. With respect to ongoing contracts, tribes received the same amount of CSC funding as in the previous year plus a proportionate share of any general increase in overall CSC funding. J.A. 15. In 1996, after consultation with Tribes, IHS revised the guidelines but did not alter the basic distribution methodology. Indian Health Service Circular 96-04, Contract Support Costs (April 1, 1996) (J.A. 20-37).
+  
+3. In the appropriations act for fiscal year 1999, Congress enacted a provision barring IHS from spending any amounts on CSCs for fiscal years 1994 to 1998 above the sums that had been earmarked in appropriations laws or appropriations committee reports for those years. That provision directs:
+  
+Notwithstanding any other provision of law, the amounts appropriated to or earmarked in committee reports for the Bureau of Indian Affairs and the Indian Health Service * * * for payments to tribes and tribal organizations for contract support costs associated with self-determination or self-governance contracts * * * are the total amounts available for fiscal years 1994 through 1998 for such purposes * * * .
+  
+Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999, Pub. L. No. 105-227, § 314, 112 Stat. 2681-288 (Section 314).7 Since the appropriations act for fiscal year 1998, moreover, Congress has imposed an explicit, "not to exceed" cap funding by IHS for overall CSCs. See, e.g., Department of the Interior and Related Agencies Appropriations Act, 1998, Pub. L. No. 105-83, 111 Stat. 1583; see Thompson Pet. 5 n.3 (citing subsequent appropriations acts).8
+  
+III. The Current Controversy
+  
+A. Factual Background
+  
+The Cherokee Nation of Oklahoma and the Shoshone-Paiute Tribes of the Duck Valley Reservation (collectively, the Tribes) entered into self-governance compacts with IHS in 1993 and 1994, respectively. J.A. 72-103 (Shoshone-Paiute); J.A. 172-200 (Cherokee Nation). Those compacts and the associated annual funding agreements (AFAs) provide, consistent with 25 U.S.C. 450j-1(b) and the ISDA model agreement, that the provision of funds is subject to the availability of appropriations. See J.A. 78, 127, 145, 176, 239. The AFAs also specifically contemplate adjustments in funding based on "Congressional action in appropriation Acts or other laws affecting availability of funds." J.A. 121-122; see J.A. 190, 237, 239, 256-257, 269.
+  
+B. Proceedings Below
+  
+These consolidated cases concern the provision of CSC funds to the Cherokee Nation in fiscal years 1994 to 1997 and to the Shoshone-Paiute in fiscal years 1996 and 1997. In particular, Cherokee (No. 02-1472) involves claims by the Shoshone-Paiute for 1996 and 1997 and by the Cherokee Nation for 1997, and Thompson (No. 03-853) involves claims by the Cherokee Nation for 1994 to 1996. Both Tribes contracted in those years to undertake new or expanded programs for which they did not receive CSC funding because IHS used the $7.5 million ISD Fund appropriation to fund requests ahead of the Tribes' in the ISD queue. Also, the Cherokee Nation raises claims concerning CSC funding for ongoing contracts.9
+  
+1. Proceedings in Cherokee Nation, No. 02-1472
+  
+a. On March 5, 1999, the Tribes brought an action in the United States District Court for the Eastern District of Oklahoma, claiming an entitlement to full CSC funding under the ISDA and their contracts. See 25 U.S.C. 450m-1(a). The district court granted summary judgment in favor of the government. Pet. App. 24a-50a. The court held that IHS had insufficient appropriations available in the relevant fiscal years to permit full funding of CSCs, and that reprogramming funds to pay for CSCs would have resulted in a reduction of services to other tribes within the meaning of 25 U.S.C. 450j-1(b). Pet. App. 46a.
+  
+b. The Tenth Circuit affirmed. Pet. App. 1a-23a. The court rejected the Tribes' argument that they had a vested entitlement to full CSC funding immediately upon enactment of the annual lump-sum appropriation for Indian Health Services. Id. at 15a-16a. The court instead held that, under 25 U.S.C. 450j-1(b), the Secretary was not required to provide full funding because doing so "would have necessitated a reduction in funding for other tribal programs." Pet. App. 15a.
+  
+The court further explained that IHS could adhere to the level of CSC funding earmarked in the committee reports "as an exercise of the limited discretion inevitably vested in it" in allocating funds within its overall budget. Pet. App. 16a. With respect to the $7.5 million appropriation for the ISD Fund, the court agreed with the Ninth Circuit that Congress thereby "limit[ed] the amount available for new or expended CSCs." Id. at 20a (citing Shoshone-Bannock Tribes v. Thompson, 279 F.3d 660 (9th Cir. 2002)). Finally, the court explained that its conclusions were reinforced by Section 314 of the 1999 appropriations act (see p. 13, supra), which had established that "no more funds would be available to pay CSCs" for fiscal years 1994-1998 above the $7.5 million appropriation for CSCs for new or expanded programs and the total budget for CSCs earmarked in the Committee Reports. Pet. App. 21a.
+  
+2. Proceedings in Thompson, No. 03-853
+  
+a. On September 27, 1996, the Cherokee Nation submitted a claim to IHS under the Contract Disputes Act, 41 U.S.C. 601 et seq., alleging underpayment of CSCs in fiscal years 1994 to 1996. The contracting officer denied the claim, ruling that Congress had not provided IHS sufficient funds for CSCs and that "IHS is not required to meet [the Cherokee Nation's] total need for indirect costs where such action would reduce the funds otherwise available to other tribes." Pet. App. 76a-77a.
+  
+b. On appeal, the Interior Board of Contract Appeals (IBCA) granted summary judgment in favor of the Cherokee Nation. Pet. App. 50a-73a. The IBCA held that, although contract funding was subject to the availability of appropriations, the overall lump-sum appropriation for Indian Health Services was sufficient to fund CSCs for the Cherokee Nation. Id. at 67a-68a. The IBCA also ruled that Section 314 of the 1999 appropriations act did not "extinguish" the Cherokee Nation's entitlement to full funding of CSCs. Id. at 69a-71a. Finally, on reconsideration, the IBCA rejected the Secretary's reliance on Section 450j-1(b)'s condition that he was not required to reduce funding for programs serving a Tribe to make funds available to another Tribe. Id. at 43a-49a. In the IBCA's view, the Secretary was obligated to pay CSC's "first" from the lump-sum appropriation and he thus lacked authority to withhold CSC funding to pay for various health-service programs, many of which the IBCA believed to be "discretionary." Id. at 48a.
+  
+c. The Federal Circuit affirmed. Pet. App. 1a-35a. With respect to ongoing contracts, the court held that the Secretary had a duty to pay full CSCs and that there were "available funds" within the annual lump-sum appropriation. Id. at 20a-22a. With respect to new or expanded contracts, the court disagreed with the Ninth and Tenth Circuits and held that the $7.5 million appropriation specified for the ISD Fund was not a ceiling. Id. at 22a-26a. The court also rejected the Secretary's reliance on Section 314, interpreting that provision as "merely prohibiting the future obligation of unspent appropriated funds" left over for fiscal years 1994 through 1998, not to limit the amounts the Secretary could pay during those fiscal years. Id. at 29a.
+  
+Next, the court held that the Secretary's obligation to pay full CSCs was not relieved by Section 450j-1(b)'s prescription that funding for programs serving a Tribe need not be reduced to make funds available to another Tribe. Pet. App. 31a-34a. In the court's view, there were "substantial funds" that the Secretary could have used to pay additional CSCs to the Cherokee Nation without reducing funding for programs serving other Tribes. Id. at 31a. The court pointed in particular to the residual funds retained by IHS for inherent federal functions, i.e., funds necessary for IHS to exist as a federal agency at all. The court reasoned that those funds were not for programs serving another Tribe and so could be reprogrammed to pay CSCs. Id. at 32a-33a. In addition, the court believed that the Secretary should have used IHS's unobligated year-end balances of between $1.2 million and $6.8 million to pay the Cherokee Nation full CSCs. Pet. App. 33a.
+  

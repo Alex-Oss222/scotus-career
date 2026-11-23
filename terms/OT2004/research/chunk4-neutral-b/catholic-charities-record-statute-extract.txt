@@ -1,0 +1,367 @@
+Filed 3/1/04 
+
+IN THE SUPREME COURT OF CALIFORNIA 
+
+CATHOLIC CHARITIES OF  
+
+SACRAMENTO, INC., 
+
+ Petitioner, 
+
+S099822 
+
+ v. 
+
+) Ct.App. 
+
+3 
+
+C037025 
+
+THE SUPERIOR COURT OF  
+
+SACRAMENTO COUNTY, 
+
+Sacramento County 
+
+Super. Ct. No. 00AS03942 
+
+ Respondent; 
+
+DEPARTMENT OF MANAGED 
+
+HEALTH CARE et al., 
+
+Real Parties in Interest. 
+
+In this case, we address a church-affiliated employer’s constitutional 
+
+challenges to the Women’s Contraception Equity Act (WCEA),1 under which 
+
+certain health and disability insurance contracts must cover prescription 
+
+contraceptives.  The plaintiff employer, which opposes contraceptives on religious 
+
+grounds, claims the statute violates the establishment and free exercise clauses of 
+
+the United States and California Constitutions.  (U.S. Const., 1st Amend.; Cal. 
+
+Const., art. I, § 4.)  The lower courts rejected the employer’s claims.  We affirm. 
+
+1 
+
+The WCEA comprises two laws, Health and Safety Code section 1367.25 
+
+(Stats. 1999, ch. 532) and Insurance Code section 10123.196 (Stats. 1999, 
+ch. 538).   
+
+1
+
+I.  FACTS 
+
+The Legislature enacted the WCEA in 1999 to eliminate gender 
+
+discrimination in health care benefits and to improve access to prescription 
+
+contraceptives.  Evidence before the Legislature showed that women during their 
+
+reproductive years spent as much as 68 percent more than men in out-of-pocket 
+
+health care costs, due in large part to the cost of prescription contraceptives and 
+
+the various costs of unintended pregnancies, including health risks, premature 
+
+deliveries and increased neonatal care.  Evidence also showed that, while most 
+
+health maintenance organizations (HMO’s) covered prescription contraceptives, 
+
+not all preferred provider organization (PPO) and indemnity plans did.  As a 
+
+result, approximately 10 percent of commercially insured Californians did not 
+
+have coverage for prescription contraceptives.   
+
+The Legislature chose to address these problems by regulating the terms of 
+
+insurance contracts.  The WCEA does not require any employer to offer coverage 
+
+for prescription drugs.  Under the WCEA, however, certain health and disability 
+
+insurance plans that cover prescription drugs must cover prescription 
+
+contraceptives.  As an exception, the law permits a “religious employer” to request 
+
+a policy that includes drug coverage but excludes coverage for “contraceptive 
+
+methods that are contrary to the religious employer’s religious tenets.”2  Health 
+
+and Safety Code section 1367.25 governs group health care service plan 
+
+contracts;3 Insurance Code section 10123.196 governs individual and group 
+
+disability insurance policies.4   
+
+2  
+
+Health and Safety Code section 1367.25, subdivision (b); Insurance Code 
+
+section 10123.196, subdivision. (d). 
+3  
+
+Health and Safety Code section 1367.25 provides: 
+
+“(a) Every group health care service plan contract, except for a specialized 
+
+health care service plan contract, that is issued, amended, renewed, or delivered on 
+
+(footnote continued on next page) 
+
+2
+
+(footnote continued from previous page) 
+ 
+or after January 1, 2000, and every individual health care service plan contract that 
+is amended, renewed, or delivered on or after January 1, 2000, except for a 
+specialized health care service plan contract, shall provide coverage for the 
+following, under general terms and conditions applicable to all benefits: 
+
+“(1) A health care service plan contract that provides coverage for 
+
+outpatient prescription drug benefits shall include coverage for a variety of federal 
+Food and Drug Administration approved prescription contraceptive methods 
+designated by the plan.  In the event the patient’s participating provider, acting 
+within his or her scope of practice, determines that none of the methods designated 
+by the plan is medically appropriate for the patient’s medical or personal history, 
+the plan shall also provide coverage for another federal Food and Drug 
+Administration approved, medically appropriate prescription contraceptive method 
+prescribed by the patient’s provider. 
+
+“(2) Outpatient prescription benefits for an enrollee shall be the same for an 
+
+enrollee’s covered spouse and covered nonspouse dependents. 
+
+“(b) Notwithstanding any other provision of this section, a religious 
+
+employer may request a health care service plan contract without coverage for 
+federal Food and Drug Administration approved contraceptive methods that are 
+contrary to the religious employer’s religious tenets.  If so requested, a health care 
+service plan contract shall be provided without coverage for contraceptive 
+methods. 
+
+“(1) For purposes of this section, a ‘religious employer’ is an entity for 
+
+which each of the following is true: 
+
+“(A) The inculcation of religious values is the purpose of the entity. 
+
+“(B) The entity primarily employs persons who share the religious tenets of 
+
+the entity. 
+
+“(C) The entity serves primarily persons who share the religious tenets of 
+
+the entity. 
+
+“(D) The entity is a nonprofit organization as described in Section 
+
+6033(a)(2)(A)i or iii, of the Internal Revenue Code of 1986, as amended. 
+
+“(2) Every religious employer that invokes the exemption provided under 
+
+this section shall provide written notice to prospective enrollees prior to 
+enrollment with the plan, listing the contraceptive health care services the 
+employer refuses to cover for religious reasons. 
+
+“(c) Nothing in this section shall be construed to exclude coverage for 
+
+prescription contraceptive supplies ordered by a health care provider with 
+prescriptive authority for reasons other than contraceptive purposes, such as 
+decreasing the risk of ovarian cancer or eliminating symptoms of menopause, or 
+
+(footnote continued on next page) 
+
+3
+
+Plaintiff Catholic Charities of Sacramento, Inc. (hereafter Catholic 
+
+Charities) is a California nonprofit public benefit corporation.  (See Corp. Code, 
+
+§ 5110 et seq.)  Although independently incorporated, Catholic Charities describes 
+
+itself as “operated in connection with the Roman Catholic Bishop of Sacramento” 
+
+and as “an organ of the Roman Catholic Church.”  The nonprofit corporation 
+
+“offer[s] a multitude of social services and private welfare programs to the general 
+
+public, as part of the social justice ministry of the Roman Catholic Church.”  
+
+These services and programs include “providing immigrant resettlement programs, 
+
+elder care, counseling, food, clothing and affordable housing for the poor and 
+
+needy, housing and vocational training of the developmentally disabled and the 
+
+like.”   
+
+Catholic Charities offers health insurance, including prescription drug 
+
+coverage, to its 183 full-time employees through group health care plans 
+
+underwritten by Blue Shield of California and Kaiser Permanente.  Catholic 
+
+Charities does not, however, offer insurance for prescription contraceptives 
+
+because it considers itself obliged to follow the Roman Catholic Church’s 
+
+(footnote continued from previous page) 
+ 
+for prescription contraception that is necessary to preserve the life or health of an 
+enrollee. 
+
+“(d) Nothing in this section shall be construed to deny or restrict in any way 
+
+the [D]epartment[ of Managed Care’s] authority to ensure plan compliance with 
+this chapter when a plan provides coverage for prescription drugs. 
+
+“(e) Nothing in this section shall be construed to require an individual or 
+
+group health care services plan to cover experimental or investigational 
+treatments.” 
+
+4  
+
+Insurance Code section 10123.196 is essentially the same as Health and 
+
+Safety Code section 1367.26 (see fn. 3, ante), except that it regulates disability 
+insurance policies instead of health care service plan contracts.  For the sake of 
+convenience, subsequent references to the WCEA will include only the Health and 
+Safety Code. 
+
+4
+
+religious teachings, because the Church considers contraception a sin, and because 
+
+Catholic Charities believes it cannot offer insurance for prescription 
+
+contraceptives without improperly facilitating that sin.   
+
+As mentioned, the WCEA permits a “religious employer” to offer 
+
+prescription drug insurance without coverage for contraceptives that violate the 
+
+employer’s religious tenets.  (Health & Saf. Code, § 1367.25, subd. (b).)  The act 
+
+defines a “religious employer” as “an entity for which each of the following is 
+
+true:  [¶]  (A) The inculcation of religious values is the purpose of the entity.  [¶]  
+
+(B) The entity primarily employs persons who share the religious tenets of the 
+
+entity.  [¶]  (C) The entity serves primarily persons who share the religious tenets 
+
+of the entity.  [¶]  (D) The entity is a nonprofit organization as described in Section 
+
+6033(a)(2)(A)i or iii, of the Internal Revenue Code of 1986, as amended.”  (Ibid.)  
+
+The cited provisions of the Internal Revenue Code exempt, from the obligation to 
+
+file an annual return, “churches, their integrated auxiliaries, and conventions or 
+
+associations of churches” (26 U.S.C. § 6033(a)(2)(A)(i)) and “the exclusively 
+
+religious activities of any religious order” (id., § 6033(a)(2)(A)(i) and (iii)). 
+
+Catholic Charities does not qualify as a “religious employer” under the 
+
+WCEA because it does not meet any of the definition’s four criteria.  (See Health 
+
+& Saf. Code, § 1367.25, subd. (b)(1)(A)-(D).)  The organization candidly 
+
+acknowledges this in its complaint, offering the following explanation:  “The 
+
+corporate purpose of Catholic Charities is not the direct inculcation of religious 
+
+values.  Rather, [its] purpose . . . is to offer social services to the general public 
+
+that promote a just, compassionate society that supports the dignity of individuals 
+
+and families, to reduce the causes and results of poverty, and to build healthy 
+
+communities through social service programs such as counseling, mental health 
+
+and immigration services, low-income housing, and supportive social services to 
+
+the poor and vulnerable.  Further, Catholic Charities does not primarily employ 
+
+5
+
+persons who share its Roman Catholic religious beliefs, but, rather, employs a 
+
+diverse group of persons of many religious backgrounds, all of whom share [its] 
+
+Gospel-based commitment to promote a just, compassionate society that supports 
+
+the dignity of individuals and families.  Moreover, Catholic Charities serves 
+
+people of all faith backgrounds, a significant majority of [whom] do not share [its] 
+
+Roman Catholic faith.  Finally, . . . Catholic Charities, although an exempt 
+
+organization under 26 U.S.C. § 501(c)(3), is not a nonprofit organization pursuant 
+
+to [s]ection 6033(a)(2)(A)(i) or (iii) of the Internal Revenue Code of 1986.  
+
+Consequently, . . .  Catholic Charities is not entitled . . . to an exemption from the 
+
+mandate imposed by [the WCEA].”   
+
+As mentioned, the WCEA implicitly permits any employer to avoid 
+
+covering contraceptives by not offering coverage for prescription drugs.  But this 
+
+option, according to Catholic Charities, does not eliminate all conflict between the 
+
+law and its religious beliefs.  Catholic Charities feels obliged to offer prescription 
+
+drug insurance to its employees under what it describes as the “Roman Catholic 
+
+religious teaching” that “an employer has a moral obligation at all times to 
+
+consider the well-being of its employees and to offer just wages and benefits in 
+
+order to provide a dignified livelihood for the employee and his or her family.”   
+
+Perceiving no option consistent with both its beliefs and the law, Catholic 
+
+Charities filed this action seeking a declaratory judgment that the WCEA is 
+
+unconstitutional and an injunction barring the law’s enforcement.  Defendants are 
+
+the State of California, the Department of Managed Health Care and the 
+
+Department of Insurance.5  Catholic Charities’ challenges to the WCEA arise 
+
+5  
+
+The Department of Managed Health Care regulates health care service 
+
+plans.  (Health & Saf. Code, § 1341 et seq.)  The Department of Insurance and the 
+Insurance Commissioner regulate disability insurance policies.  (See id., § 1343, 
+subd. (e)(1), and Ins. Code, § 10290 et seq.) 
+
+6
+
+under the establishment and free exercise clauses of the United States and 
+
+California Constitutions.  (U.S. Const., 1st Amend.; Cal. Const., art. I, § 4.)  The 
+
+superior court, finding no reasonable likelihood that Catholic Charities would 
+
+prevail on the merits, denied its motion for a preliminary injunction.  Catholic 
+
+Charities sought review of this ruling by petition for writ of mandate, which the 
+
+Court of Appeal denied.  We granted review of the Court of Appeal’s decision. 
+
+II.  

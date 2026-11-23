@@ -4,11 +4,11 @@
 
 The opening authority is the synchronized [Holdings volumes](../../../state/holdings/INDEX.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), and [Standing State](../../../state/STANDING_STATE.md), edition November 22, 2026. All three identify OT2003 as the last completed term and carry this common cutoff: June 30, 2004, after all 119 completed OT2003 Court events and the admitted Rule 53 amendment effective December 1, 2003. The [continuous Holdings view](../../../state/HOLDINGS.md) matches all 23 canonical volumes. These repository trackers govern any inconsistent descriptive reference in the supplied index.
 
-Twenty-nine scheduled OT2004 Court events in chunks 1–3 are complete, through February 22, 2005. The January 24 and February 22 groups are complete. The last completed event in assignment order is Stewart v. Dutra Construction Co. The next scheduled group is February 23, 2005: Dowhal v. SmithKline Beecham Consumer Healthcare and Johnson v. California, No. 03-636, in chunk 4.
+Thirty-six scheduled OT2004 Court events in chunks 1–4 are complete, through March 2, 2005. The February 23, March 1 and March 2 groups are complete. The last completed event in assignment order is Tenet v. Doe. The next scheduled group is March 7, 2005 in chunk 5: Back, Ballard, Shepard and Wilkinson.
 
-Each uncoordinated same-date event used the law effective before that date. The January 24 additions supply law only to later dates; the February 22 decisions combine prospectively. Assignment counts separately include earlier-date Records and preceding same-date case names in alphabetical order; prior assignments remain as made.
+Each uncoordinated same-date event used the law effective before that date. The completed same-date groups combine prospectively; their events supply law only to later dates unless an express coordination order provides otherwise. Assignment counts separately include earlier-date Records and preceding same-date case names in alphabetical order; prior assignments remain as made.
 
-The manifest and ledger project twenty-nine completed scheduled Court events, seventy-six open scheduled events and one admitted noncase-law source, section 703 of the American Jobs Creation Act. The three unscheduled original carryovers remain pending; Kansas v. Colorado also remains open after its completed exceptions event. Opening validation remains at [OPENING_VALIDATION.md](../audit/OPENING_VALIDATION.md).
+The manifest and ledger project thirty-six completed scheduled Court events, sixty-nine open scheduled events and one admitted noncase-law source, section 703 of the American Jobs Creation Act. The three unscheduled original carryovers remain pending; Kansas v. Colorado also remains open after its completed exceptions event. Opening validation remains at [OPENING_VALIDATION.md](../audit/OPENING_VALIDATION.md).
 
 ## Current law
 
@@ -73,6 +73,166 @@ The opening trackers remain the baseline; the following completed Records add co
 - **2005-02-22 — [Smith v. Massachusetts; No. 03-8661](../records/smith-v-massachusetts_merits_2005-02-22.md#public-projection).** Completed substantive acquittals receive the same protection in a continuing jury trial as in other trial forms. Courts examine the actual ruling and procedural course; general interlocutory reconsideration authority cannot retrospectively reopen an accomplished insufficiency determination after the defense has proceeded. A genuinely tentative ruling remains subject to completion, while a completed acquittal forecloses renewed adjudication without a separate showing of tactical injury.
 
 - **2005-02-22 — [Stewart v. Dutra Construction Co.; No. 03-814](../records/stewart-v-dutra_merits_2005-02-22.md#public-projection).** Courts determine statutory vessel status from practical water-transport use or capability and the craft's actual service condition. Industrial purpose, lack of self-propulsion and temporary immobility do not exclude an operational craft that carries people or equipment over water. Permanently fixed or withdrawn structures with only theoretical transportation capacity remain outside the definition. Worker status, actionable defendant capacity and negligence retain their distinct requirements. A correction of one claim's vessel premise carries the remedy warranted for that claim; independently adjudicated grounds retain their procedural force.
+
+### 2005-02-23 — [Dowhal v. SmithKline Beecham Consumer Healthcare; California Supreme Court No. S109306; 32 Cal. 4th 910](../records/dowhal-v-smithkline-beecham_merits_2005-02-23.md#public-projection)
+
+Section 379r(d)(2) exempts a state requirement adopted by a public initiative or referendum enacted before September 1, 1997 from that section's express displacement of nonidentical requirements. A saved requirement nevertheless yields when the party asserting preemption establishes incompatibility with a valid, specifically applicable federal command or supported regulatory method under other operative federal law.
+
+**Authority:** Part I, joined by all nine Justices, controls this construction.
+
+Under §§321(n), 352(a) and 355, the FDA may reject drug labeling that is literally accurate but materially misleading in context, considering its representations and material omissions concerning consequences under prescribed or customary use. That authority requires an authorized labeling determination supported by its actual reasons; a bare preference for how consumers should behave is insufficient.
+
+**Authority:** Part I, joined by all nine Justices, controls this rule and the identification of the definitive federal action.
+
+The reproductive-harm warning demanded for the covered nicotine-replacement products conflicts with the operative FDA decision because it restores the misleading comparative-risk message that decision rejected. The claim and its dependent remedies therefore cannot be enforced while that decision governs; the party asserting displacement must establish the relevant action's coverage and conflict for a materially different warning or duty.
+
+**Authority:** Part II, joined by Stone-Zsela, O'Connor, Scalia, Kennedy and Breyer, supplies a five-Justice controlling application.
+
+**Affirmed, 5–4. Supporting:** Stone-Zsela, O'Connor, Scalia, Kennedy and Breyer. **Opposing:** Stevens, Souter, Thomas and Ginsburg.
+
+Judgment for defendants remains effective insofar as the requested enforcement and dependent monetary or injunctive relief require the warning that conflicts with the operative federal decision. Any genuinely different compatible duty that was pleaded and preserved retains its own adjudicative basis. The judgment concerns the identified message and covered products.
+
+- Geier v. American Honda Motor Co. is applied: saving language and actual conflict remain separate inquiries, and displacement requires the actual federal choice and incompatible state obligation.
+- Freightliner Corp. v. Myrick is applied: this case contains an operative federal determination, unlike an inference based on regulatory absence.
+- Medtronic, Inc. v. Lohr is applied: approval alone supplies no general immunity, and genuinely compatible duties retain their force.
+- FDA v. Brown & Williamson Tobacco Corp. supplies independent examination of statutory delegation; preemption does not enlarge the agency's authority.
+
+The case returns for implementation of the affirmed preemption judgment at its stated scope. The state court must identify the covered products and warning demand when giving effect to that judgment and adjudicate any independently preserved compatible duty on its own basis.
+
+### 2005-02-23 — [Johnson v. California; No. 03-636](../records/johnson-v-california_merits_2005-02-23.md#public-projection)
+
+An express racial prison-housing classification must satisfy the common substantial-justification standard: the State must establish an important lawful objective, a substantial evidence-supported relationship between the classification and that objective, justified coverage and actual burdens, and a supported response to concrete practicable alternatives that offer comparable effectiveness with materially less racial disadvantage. Custody makes credible security experience, urgency and genuinely incomplete information relevant within that inquiry, while a protective purpose, general racial assumptions or administrative convenience alone cannot satisfy it.
+
+**Authority:** Part I, joined by Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer, controls.
+
+A judgment sustaining the reception policy under materially more deferential review must be vacated for application of the common standard to the actual policy and record. Additional factfinding serves genuine material disputes about that application; the court must resolve issues the existing record already permits it to decide.
+
+**Authority:** Part II, joined by Stone-Zsela, O'Connor, Kennedy, Souter, Ginsburg and Breyer, supplies the six-Justice judgment.
+
+Individual damages depend on actionable conduct, causal responsibility and the qualified-immunity law governing when each defendant acted; prospective correction depends on continuing exposure and a responsible current official. Under 18 U.S.C. §3626(a)(1), a prison decree must be narrowly drawn, extend no further than necessary to correct the federal-right violation, use the least intrusive means necessary, and give substantial weight to adverse effects on public safety or operation of the criminal justice system; relief requiring or permitting an official to exceed state or local authority, or otherwise violate state or local law, is permissible only if federal law requires it to correct the violation, it is necessary, and no other relief will correct the violation.
+
+**Authority:** Part III, joined by Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer, controls these independent requirements.
+
+**Vacated and remanded, 6–3. Supporting:** Stone-Zsela, O'Connor, Kennedy, Souter, Ginsburg and Breyer. **Opposing:** Stevens, who would hold the categorical policy unconstitutional now and remand for remaining relief, and Scalia and Thomas, who would affirm under Turner.
+
+The lower court must evaluate the policy's coverage, duration, evidentiary support, burdens and concrete practicable alternatives under the government's burden. Further evidence is required only for genuinely unresolved material issues. Damages require separate determinations of individual conduct, causation and conduct-date immunity. Prospective relief requires current exposure, proper responsible officials and the statutory remedy findings. If the policy fails, relief must correct its operation for the persons it governs unless California establishes that a narrower remedy fully cures the violation, consistently with §3626.
+
+- Adarand Constructors, Inc. v. Peña is applied to express prison-housing classifications: its common substantial-justification burden governs actual racial treatment.
+- Brown v. City of Oneonta is applied: benign purpose does not remove deliberate racial selection from that burden.
+- Turner v. Safley is distinguished as the source of general prison-regulation review; its deference does not replace the governing racial-classification rule.
+- Overton v. Bazzetta retains force for the prison matters it decides and for the practical relevance of institutional evidence.
+- Harlow v. Fitzgerald and Anderson v. Creighton supply the individual conduct-date immunity inquiry.
+- Saucier v. Katz and Brosseau v. Haugen preserve separate adjudication of the constitutional merits and the existing personal defense, including obvious applications of existing law.
+
+The district court must set a prompt schedule for resolving the relevant evidence and any supported interim-relief request under the applicable statutory conditions. It must identify current responsible officials and continuing exposure, decide any personal damages defenses and causal responsibility separately, and require a compliant housing practice if the common policy fails. Any injunction must specify permitted security exceptions and compliance dates consistently with §3626, so that it corrects the established violation through a workable decree.
+
+### 2005-03-01 — [Cherokee Nation of Oklahoma v. Leavitt; Nos. 02-1472 and 03-853](../records/cherokee-nation-v-leavitt_merits_2005-03-01.md#public-projection)
+
+When an authorized self-determination agreement promises reasonable, allowable contract support costs and the relevant appropriation legally provides sufficient funds for that undertaking, the agency's allocation to competing demands does not discharge the promise. An enacted funding limit or an actual contractual condition controls, but a committee-report expectation or internal budget allocation does not create such a limit.
+
+Section 450j-1(b)'s separate provision that the Secretary is not required to reduce funding for programs, projects or activities serving one tribe to make funds available to another tribe or tribal organization permits the Secretary to decline that reduction. It neither prohibits every reduction nor defeats liability on these authorized contracts when other legally unrestricted funds suffice.
+
+The annual provision making $7.5 million remain available until expended for the Indian Self-Determination Fund's transitional costs of initial or expanded tribal contracts establishes a designated fund with continuing availability. It does not make that fund the exclusive source for the support-cost promises at issue or cap liability at the agency's initial or expanded-program allocation when other legally available appropriations are sufficient.
+
+Section 314 of Pub. L. 105-277 makes the amounts appropriated or earmarked in committee reports the total amounts available for the identified support costs in fiscal years 1994–1998. In these disputes, it limits use of remaining appropriations without retroactively extinguishing claims accrued under the earlier contractual undertakings; the agreements' congressional-adjustment clauses operate at that statutory scope.
+
+| Judgment component | Disposition and vote | Supporting Justices | Remedy |
+|---|---|---|---|
+| No. 02-1472: Cherokee FY1997 and Shoshone-Paiute FY1996–1997 claims | Reversed, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Return for contract adjudication under the resolved statutory constructions. |
+| No. 03-853: Cherokee FY1994–1996 claims | Affirmed, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | The Board determination sustained by the Federal Circuit remains effective; return for implementation and any genuinely remaining proceedings. |
+
+- Hercules, Inc. v. United States supplies the actual authorized undertaking requirement; the express support-cost promises satisfy that requirement rather than resting on general fairness.
+- United States v. Winstar Corp. supplies enforcement of the actual financial undertaking and its real conditions while preserving Congress's legislative authority; its rule applies to the promises and funding qualifications here.
+- Lincoln v. Vigil retains its rule for discretionary allocation of unrestricted lump sums. The additional statutory and contractual duties here distinguish that allocation question from liability for a binding promise.
+- Lynch v. United States and Perry v. United States retain their protection of genuine government obligations and support the construction of section 314 that avoids attributing repudiation of accrued contractual claims to an appropriation-account limit.
+
+The mandates return the two proceedings through their respective appellate courts. In No. 02-1472, the responsible tribunals adjudicate the contract claims under the Court's constructions, identifying and resolving any remaining annual amount, allowable-cost or loss issue, including any duplication of transferred program or administrative funding, through ordinary contract procedure. In No. 03-853, the sustained Board determination remains effective and proceeds to lawful implementation, with only genuinely remaining matters receiving further adjudication. Resulting awards use the statutory payment channel; agency underallocation cannot again substitute for a contractual defense.
+
+### 2005-03-01 — [Petro-Hunt, L.L.C. v. United States; No. 04-190; judgment below, 365 F.3d 385](../records/petro-hunt-v-united-states_merits_2005-03-01.md#public-projection)
+
+Federal common law governs the preclusive effect of the earlier federal-question judgment. A final title judgment binds the claim it adjudicated, including grounds that could have been advanced within that claim, but distinct servitudes with different acquisition and use histories do not become the same claim merely because they share owners, related conveyances or a legal premise; the party invoking preclusion must establish the required identity from the actual instruments and adjudication.
+
+Mutual issue preclusion requires the identical issue to have been actually litigated and necessarily determined. Nebo Oil's adjudication of state-law retroactivity and constitutional objections, while assuming Louisiana law supplied the rule of decision, does not preclude the distinct federal choice-of-law issue now asserted.
+
+**Affirmed and remanded, 9–0.**
+
+**Supporting:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+Nebo Oil's adjudication of its original servitude remains effective. The Fifth Circuit's determination that the other 95 servitudes are subject to Louisiana's ten-year nonuse prescription remains effective; the district court must determine actual prescription and resulting title for each servitude.
+
+- Nevada v. United States supplies the inquiry into the property right actually adjudicated and protects final title within that scope.
+- Semtek International Inc. v. Lockheed Martin Corp. supplies the distinction between a judgment's source and actual external effect; its diversity-specific state-law incorporation rule remains confined to that setting.
+- Plaut v. Spendthrift Farm, Inc. retains its protection of completed federal adjudications; applying preclusion to the decree's actual subject matter preserves that protection.
+- Commissioner v. Sunnen and Montana v. United States supply the issue-identity and actual-adjudication requirements applied here.
+- United States v. Stauffer Chemical Co. retains mutual issue preclusion where its predicates exist; the missing actual litigation distinguishes this case.
+
+The district court must identify each disputed servitude's instrument, acquisition history, qualifying good-faith operations and interruptions, apply the governing prescription rule, and determine title. It must consider the asserted continuing operations on five servitudes, the Government's concessions concerning operations on some servitudes, and the second summary-judgment motion previously dismissed as moot. Any properly supported specific preclusion claim must satisfy the claim-identity or actually-litigated-issue requirements stated here. The fee cross-appeal lacks its former prevailing-party predicate after the blanket preclusion judgment falls; any later fee issue follows the eventual proper judgment.
+
+### 2005-03-01 — [Roper v. Simmons; No. 03-633](../records/roper-v-simmons_merits_2005-03-01.md#public-projection)
+
+The Eighth and Fourteenth Amendments prohibit the death penalty for an offense committed before the offender's eighteenth birthday. Age at the offense controls; later adulthood, the crime's severity or planning, and an assessment of exceptional individual maturity do not create an exception.
+
+**Authority:** Kennedy's opinion, joined by Stone-Zsela, Stevens, Souter, Ginsburg and Breyer, controls every holding and its explanation.
+
+Stanford v. Kentucky is overruled insofar as it permits execution for offenses committed at sixteen or seventeen. Because the new rule removes a class from death eligibility, a death sentence within that class must be replaced through lawful noncapital sentencing procedures in nonfinal cases and final cases reached through an available review channel, preserving valid convictions and independent procedural requirements.
+
+**Authority:** The same six-Justice opinion controls both the express precedent change and the application to Simmons's state collateral judgment.
+
+**Affirmed, 6–3. Supporting:** Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg and Breyer. **Opposing:** O'Connor, Scalia and Thomas.
+
+Simmons's conviction and sentence of life imprisonment without eligibility for probation, parole or release except by gubernatorial action remain effective. Missouri must maintain that noncapital custody basis and remove authority to execute him for this offense. His established offense-date age supplies the categorical ground for relief.
+
+- Stanford v. Kentucky is overruled to the extent it permits death for offenses committed before eighteen; that permission no longer has force.
+- Atkins v. Virginia is extended in its categorical proportionality method, including domestic evidence, culpability, penal purposes and unreliable selection. Its separate disability definition and procedures retain their own scope.
+- Thompson v. Oklahoma remains consistent with the result; its under-sixteen protection is encompassed by the present under-eighteen rule.
+
+The affirmed Missouri judgment governs Simmons's custody and bars execution for this offense. His noncapital sentence remains subject to its stated gubernatorial-action qualification. Other qualifying death judgments receive the substantive age rule through their existing lawful review channels and the noncapital correction authorized by governing law.
+
+### 2005-03-02 — [Catholic Charities of Sacramento, Inc. v. Superior Court; California Supreme Court No. S099822; 32 Cal. 4th 527](../records/catholic-charities-v-superior-court_jurisdiction_2005-03-02.md#public-projection)
+
+A highest state court's comprehensive rejection of federal theories in reviewing denial of preliminary protection does not, by itself, establish a final judgment under §1257. Review requires a judgment concluding the relevant action or an established Cox exception, including practical completion with the further outcome preordained; the operative effect of the judgment governs rather than its interlocutory label.
+
+**Authority:** Thomas's opinion, joined by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer, controls both holdings and every stated exception analysis.
+
+Once the federal issue has been finally decided, the remaining Cox routes permit review when it necessarily survives and requires decision regardless of further proceedings; when effective later review cannot be obtained whatever their outcome; or when federal reversal would end the relevant litigation and delay seriously threatens federal policy. The invoking party must establish the actual predicates of a route, and useful later protection—not the abstract possibility of another appeal—governs the effective-review inquiry.
+
+**Authority:** The same eight-Justice opinion controls the distinct analyses of the second, third and fourth categories.
+
+**Dismissed for want of jurisdiction, 8–1. Supporting:** Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. **Opposing:** Stevens.
+
+The dismissal ends this attempted review and leaves the California preliminary-relief disposition in its existing posture. Because §1257 jurisdiction is unestablished, the Court does not reach the free-exercise, establishment, exemption or related constitutional merits.
+
+- Cox Broadcasting Corp. v. Cohn supplies four distinct practical-finality routes, each requiring its actual predicates.
+- Richards v. Jefferson County is distinguished on operative effect: its conclusive claim bar left implementation preordained, while the present provisional adjudication does not have that established effect.
+- Jefferson v. City of Tarrant supplies the distinction between a settled federal issue and a practically completed action. Its remaining liability, causation and claim proceedings supplied a distinct application of that rule.
+- Florida v. Thomas supplies separate evaluation of each Cox route and effective later review; its express alternative-ground remand illustrates a different basis for substantive proceedings to continue.
+- Johnson v. California, No. 03-6539, decided May 3, 2004, supplies the jurisdiction-invoking party's burden and rejects constitutional importance alone as an exception.
+- Pennsylvania v. Ritchie retains its practical qualification: a merely conceivable later appeal does not establish useful later protection.
+
+The parties remain in the state action under its existing preliminary-relief posture and may pursue the relief available there. Any renewed Supreme Court review must rest on its own judgment satisfying §1257 or an established practical-finality exception.
+
+### 2005-03-02 — [Tenet v. Doe; No. 03-1395](../records/tenet-v-doe_merits_2005-03-02.md#public-projection)
+
+A claim is barred when success on the pleaded right and requested relief necessarily requires judicial establishment of a secret espionage relationship with the Government and enforcement of the alleged undertaking arising from it. Estoppel or due-process labels do not remove that indispensable premise; a claim founded on an independent public legal duty or an applicable enacted enforcement channel must be assessed on its own source and requirements.
+
+Reynolds's state-secrets privilege governs withholding evidence in an otherwise maintainable action; it does not replace Totten's distinct bar on maintaining an agreement-dependent suit. The Director's formal personal invocation required for that evidentiary privilege is therefore not a prerequisite to dismissing these claims under Totten, including their requests for interim support, administrative review and regulations.
+
+Totten prevents the judicial inquiry necessary to maintain this category of action and may be applied at the threshold without first resolving the possible Tucker Act channel objection. This sequence rests on a prohibition against undertaking the inquiry, rather than a decision of ordinary contested liability on assumed jurisdiction.
+
+**Reversed and remanded for dismissal, 9–0.**
+
+**Supporting:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+The surviving estoppel and due-process claims founded on the alleged secret undertaking must be dismissed. The already dismissed equal-protection branch and denial of preliminary relief remain undisturbed.
+
+- Totten v. United States retains its categorical prohibition on ordinary judicial enforcement necessarily dependent on a secret espionage undertaking; it applies to the agreement-dependent support and process claims here.
+- United States v. Reynolds retains its evidentiary privilege and its formal-invocation requirements for that privilege. Its distinct function does not displace Totten's pleading-stage rule.
+- Webster v. Doe retains constitutional review in its independent statutory employment setting; that acknowledged relationship differs from the secret undertaking necessary to these claims.
+- Christopher v. Harbury supplies the requirement that an asserted injury and requested remedy connect to an actual underlying entitlement; it supplies no independent channel for the agreement-dependent claims.
+- Citizens for a Better Environment v. Steel Co. retains its prohibition on contested merits adjudication upon assumed Article III power and its distinction for legitimate nonmerits thresholds.
+- Ruhrgas AG v. Marathon Oil Co. supplies the absence of a universal hierarchy among threshold objections while preserving the jurisdiction-before-merits boundary.
+
+The district court must identify the surviving agreement-dependent counts, dismiss them, and terminate further merits discovery on those claims. The mandate requires dismissal in place of the requested judicially ordered interim support, review procedure or regulations. Any properly sought amendment must identify an actual independent legal source and satisfy ordinary procedural requirements.
 
 ## Court and standing procedure
 
@@ -164,6 +324,26 @@ These published positions are noncontrolling except for the precise joins identi
 
 - **2005-02-22 — [Smith v. Massachusetts; No. 03-8661](../records/smith-v-massachusetts_merits_2005-02-22.md#public-projection).** **Breyer, dissenting, joined by Kennedy, Ginsburg.** The dissent would affirm the firearm conviction because the trial judge's midtrial ruling remained subject to Massachusetts's general common-law reconsideration power. It accepts Martin Linen's substantive acquittal inquiry, Fong Foo's protection despite legal error, and Price's rejection of a signature or jury-announcement prerequisite. Its disagreement concerns whether this proceeding had reached a completed acquittal at all. Rule 25(a) required an immediate ruling, but the dissent reads the state court's account of Haskell as permitting reconsideration of that partial ruling while the trial remained pending. It would not demand an additional rule specifically naming insufficiency determinations or an express reservation by the trial judge. The same jury remained empaneled, correction preceded closing arguments and instructions, and the prosecutor relied on evidence already presented. The Appeals Court reported no asserted change in defense strategy, and Smith did not request reopening after correction. In the dissent's view those features show a continued original adjudication with an opportunity to defend. The unqualified allowance, docket implementation and ensuing defense proceedings are the strongest contrary evidence. The dissent nevertheless distinguishes a conclusive statement of the judge's present assessment from an irrevocable disposition under the governing procedure. It reads Smalis as addressing further proceedings after appeal from a final acquittal. It does not permit reconsideration of an acknowledged completed acquittal merely because the ruling was wrong or no prejudice was shown; it finds the antecedent finality absent here.
 
+- **2005-02-23 — [Dowhal v. SmithKline Beecham Consumer Healthcare; California Supreme Court No. S109306; 32 Cal. 4th 910](../records/dowhal-v-smithkline-beecham_merits_2005-02-23.md#public-projection).** Ginsburg, joined by Stevens, Souter and Thomas, agrees that the initiative saving provision permits independently demonstrated conflict and that a true statement can materially mislead in context. The dissent would vacate and remand because the agency's rejection of identified formulations does not establish incompatibility with the entire state obligation, which permits explanatory language and several communication methods. Myrick and Medtronic require an operative source and precise comparison, and the Geier disagreement concerns whether that comparison proves exclusivity. The definitive response establishes more than mere approval, but its force cannot be enlarged into the missing claim-wide showing. Their proposed remand would preserve the operative federal decision while testing genuinely compatible compliance, rather than order a rejected warning. The distinction is the scope of displacement on this record, not a general prohibition on regulation of misleading labeling.
+
+- **2005-02-23 — [Johnson v. California; No. 03-636](../records/johnson-v-california_merits_2005-02-23.md#public-projection).** Stevens agrees that the common standard governs and that personal immunity and prospective relief are distinct. He would hold the categorical policy invalid on this record because its racial proxy and repeated application to known transferees remain insufficiently justified even under Turner. Integrated activities and available individual information expose the inadequacy of the asserted blanket need. Adarand and Oneonta strengthen that conclusion. A changed review standard does not itself entitle the State to another merits opportunity. He distinguishes genuine emergency precautions and would remand only for personal defenses and appropriate relief, rather than enter an immediate damages award or an unsupported decree.
+
+Thomas, joined by Scalia, would affirm under Turner. Confined reception cells, limited monitoring, changing gang affiliations and incomplete information make this temporary classification an operational security judgment reasonably related to protecting inmates and staff. General racial-classification decisions outside confinement do not silently displace the specific prison line. The integrated activities and existing information about transferees make the application closer but do not negate the particular risk in cells. Their argument does not validate racial allocation for its own sake or permanent system-wide segregation. If the Court imposes the common standard, they would permit genuine factual application rather than invalidate the policy immediately, and would apply the ordinary independent remedy restrictions. That alternative position does not change their primary affirmance vote.
+
+- **2005-03-01 — [Cherokee Nation of Oklahoma v. Leavitt; Nos. 02-1472 and 03-853](../records/cherokee-nation-v-leavitt_merits_2005-03-01.md#public-projection).** 
+
+- **2005-03-01 — [Petro-Hunt, L.L.C. v. United States; No. 04-190; judgment below, 365 F.3d 385](../records/petro-hunt-v-united-states_merits_2005-03-01.md#public-projection).** 
+
+- **2005-03-01 — [Roper v. Simmons; No. 03-633](../records/roper-v-simmons_merits_2005-03-01.md#public-projection).** O'Connor accepts evolving standards and independent proportionality review, as she did in Atkins, but finds this extension insufficiently supported. The changes since Stanford are fewer and slower, continuing authorization remains substantial, and older adolescents vary in maturity. In her view, the evidence does not establish that individualized consideration cannot identify an offender sufficiently culpable for death. Atkins's distinct disability category and its reliable-status inquiry therefore do not decide this age question. She would preserve Stanford's eligibility rule, give youth its substantial mitigating force and return the case for lawful state proceedings. Her position does not reject independent proportionality judgment or treat legislatures as its exclusive source.
+
+Scalia, joined by Thomas, objects both to the Court's method and to its account of domestic evidence. Stanford leaves the disputed eligibility rule in force unless the Constitution supplies a sound basis for change. The twelve States rejecting all capital punishment cannot be counted as twelve age-specific enactments; limited movement and continuing permission among capital States do not establish the claimed rejection. Rare use may reflect careful selection rather than repudiation, and grave planned crimes challenge a universal account of insufficient culpability. They oppose using independent judicial penal judgment to create the category and regard the showing as inadequate even within the prevailing evolving-standards inquiry. Atkins remains binding for its actual disability class, and youth must still receive its lawful mitigating consideration. They would reverse the federal categorical ruling and remand for lawful state proceedings, rather than direct execution.
+
+- **2005-03-02 — [Catholic Charities of Sacramento, Inc. v. Superior Court; California Supreme Court No. S099822; 32 Cal. 4th 527](../records/catholic-charities-v-superior-court_jurisdiction_2005-03-02.md#public-projection).** Stevens would exercise jurisdiction under Cox's first category. Richards makes practical completion decisive even when the state order bears an interlocutory label. California rejected every presented constitutional theory on accepted organizational facts and conceded statutory ineligibility. No identified substantive issue remains whose resolution could alter the requested relief. In his view, denial of permanent relief is therefore preordained, and another adjudication would implement an already conclusive legal result.
+
+His Jefferson dissent explains why repetition serving no useful finality purpose should not postpone review. Ritchie's practical approach reinforces that concern, although the first Cox category supplies the ground here. He distinguishes his joins in Florida v. Thomas and Johnson because those cases identified substantive proceedings capable of changing or eliminating the federal dispute. The majority's distinction between provisional entitlement and permanent rights gives insufficient effect to the exhaustive resolution of the legal claims in this record. His dissent concerns jurisdiction and expresses no disposition of the constitutional merits.
+
+- **2005-03-02 — [Tenet v. Doe; No. 03-1395](../records/tenet-v-doe_merits_2005-03-02.md#public-projection).**
+
 ## Source and continuation limits
 
-Opening law remains synchronized through June 30, 2004. Each Record states its event-specific cutoff, verified source map and actual publication scope. Current law now includes all completed events through February 22, 2005, preserving the pre-date baseline for each same-date group. Conduct-date notice and Bell’s state-adjudication cutoff remain distinct as stated in the earlier Records. Section 703 remains the only admitted noncase-law source. No later filing, report, remedial completion or new original-action event is presumed. The chunk 3 source-control notes distinguish authenticated published recitations from unrecovered originals; no missing research source establishes litigant default. The generated Render Input copies each bounded Public Projection; public Render is a separate task.
+Opening law remains synchronized through June 30, 2004. Each Record states its event-specific cutoff, verified source map and actual publication scope. Current law now includes all completed events through March 2, 2005, preserving the pre-date baseline for each same-date group. Conduct-date notice and Bell’s state-adjudication cutoff remain distinct as stated in the earlier Records. Section 703 remains the only admitted noncase-law source. No later filing, report, remedial completion or new original-action event is presumed. The source-control notes distinguish authenticated published recitations and supported bounded premises from unrecovered originals; no missing research source establishes litigant default. Chunk 4 validation preserves the fresh-context source checks and corrected pre-adjudication finality intake. Only published positions from the completed Records enter this projection. The generated Render Input copies each bounded Public Projection; public Render is a separate task.

@@ -1,0 +1,1570 @@
+CONCURRING OPINION BY KENNARD, J. 
+
+In September 1999, the Legislature enacted the Women’s Contraception 
+
+Equity Act (WCEA).  Under this law, every group health care policy that 
+
+“provides coverage for outpatient prescription drug benefits” must, as of January 
+
+1, 2000, include coverage for contraceptives.  (Health & Saf. Code, § 1367.25.)1  
+
+Exempt from the WCEA are policies sold to entities that are religious employers.  
+
+To fall within the act’s definition of “religious employer,” each of these four 
+
+requirements must be satisfied:   
+
+“(A)  The inculcation of religious values is the purpose of the entity. 
+
+“(B)  The entity primarily employs persons who share the religious tenets 
+
+of the entity. 
+
+“(C)  The entity serves primarily persons who share the religious tenets of 
+
+the entity. 
+
+“(D)  The entity is a nonprofit organization as described in Section 
+
+6033(a)(2)(A)i or iii, of the Internal Revenue Code of 1986, as amended.”  
+
+(§ 1367.25, subd. (b)(1).) 
+
+Plaintiff Catholic Charities of Sacramento (Catholic Charities), which has 
+
+brought this lawsuit challenging the constitutionality of the religious employer 
+
+exemption, acknowledges that it does not satisfy any of the four requirements for 
+                                              
+1   
+
+Further undesignated statutory references are to the Health and Safety 
+
+Code.   
+
+1 
+
+that exemption.  Catholic Charities’ complaint alleges that it is a nonprofit public 
+
+benefit corporation “operated in connection with the Roman Catholic Bishop of 
+
+Sacramento” as “an organ of the Roman Catholic Church.”  The complaint further 
+
+alleges that Catholic Charities’ mission is to perform good works, such as 
+
+“providing immigrant resettlement programs, elder care, counseling, food, 
+
+clothing and affordable housing for the poor and needy, housing and vocational 
+
+training of the developmentally disabled and the like.”  According to the 
+
+complaint, Catholic Charities provided prescription drug coverage to its 183 
+
+employees before the WCEA’s effective date; for it to continue to do so now 
+
+would be promoting the use of contraceptives, a sinful practice under Catholic 
+
+Church doctrine.  For the purposes of deciding the legal issues in this case, the 
+
+majority accepts these allegations as true, as do I.   
+
+I agree with the majority that Catholic Charities is properly subject to the 
+
+WCEA.  In the course of its discussion, however, the majority rejects Catholic 
+
+Charities’ argument that the religious employer exemption discriminates against 
+
+“religious organizations . . . that engage in charitable work, as opposed to work 
+
+that is purely spiritual or evangelical.”  (Maj. opn., ante, at p. 24.)  I am not 
+
+persuaded that the first requirement of the religious employer exemption, limiting 
+
+the exemption to entities whose primary purpose is the “inculcation of religious 
+
+values” (§ 1367.25, subd. (b)(1)(A)), can be reconciled with the establishment 
+
+clauses of the federal and state Constitutions.  This is a close and difficult issue.  I 
+
+need not resolve it, however, because Catholic Charities does not meet the 
+
+exemption’s fourth requirement that it is a religious entity exempt from federal tax 
+
+filing, a requirement that both the majority and I agree is constitutional. 
+
+I  
+
+The United States Constitution’s First Amendment provides that “Congress 
+
+shall make no law respecting an establishment of religion.”  (U.S. Const., 1st 
+
+2 
+
+Amend.)  This provision applies to the states through the Fourteenth Amendment; 
+
+thus, state governments too are prohibited from making such laws.  Like its federal 
+
+counterpart, California’s Constitution provides that the Legislature “shall make no 
+
+law respecting an establishment of religion.”  (Cal. Const., art. I, § 4.)  Laws that 
+
+prefer one religion or religious organization over another (often called 
+
+“denominational preferences”) violate these provisions.  (See Epperson v. 
+
+Arkansas (1968) 393 U.S. 97, 106 [“State may not adopt programs or practices . . . 
+
+which ‘aid or oppose’ any religion.”]; Everson v. Board of Education (1947) 330 
+
+U.S. 1, 15 [no state can “pass laws which aid one religion” or that “prefer one 
+
+religion over another”].)   
+
+On this basis, the United States Supreme Court in Larson v. Valente (1982) 
+
+456 U.S. 228 invalidated a Minnesota law that treated religious organizations 
+
+differently.  The law in question generally required charitable organizations that 
+
+solicited contributions to register with the state and to disclose their income and its 
+
+sources, as well as costs of management, fundraising, and public education.  
+
+Exempt from this law were religious organizations that received more than 50 
+
+percent of their charitable contributions from their own members or affiliates, 
+
+rather than from the general public.  Not exempt were religious organizations such 
+
+as the Holy Spirit Associations for the Unification of World Christianity 
+
+(Unification Church) that received more than half of their charitable contributions 
+
+from “ ‘door-to-door and public-place proselytizing and solicitation of funds,’ ” a 
+
+practice emphasized by the tenets of that religion.  (Id. at p. 234.)  Unification 
+
+Church members sued, seeking exemption from the law.  The federal district court 
+
+granted the plaintiffs a preliminary injunction, which was affirmed on appeal.  The 
+
+United States Supreme Court, in turn, agreed that the law impermissibly 
+
+“impose[d] the registration and reporting requirements . . . on some religious 
+
+organizations but not on others”; it thus, did “not operate evenhandedly,” but 
+
+3 
+
+instead, “effect[ed] the selective legislative imposition of burdens and advantages 
+
+upon particular denominations.”  (Id. at pp. 253-254.)   
+
+Catholic Charities argues here that the WCEA’s religious employer 
+
+exemption similarly imposes its burdens and advantages on some religious 
+
+organizations but not others.  Catholic Charities points out that the exemption 
+
+favors those religious organizations whose purpose is “[t]he inculcation of 
+
+religious values” (§ 1367.25, subd. (b)(1)(A)), while disfavoring those entities, 
+
+such as Catholic Charities, whose purpose is to perform good works.  Comparing 
+
+the WCEA to the Minnesota law struck down by the high court in Larson v. 
+
+Valente, supra, 456 U.S. 228, 253, which “impose[d] the registrative and reporting 
+
+requirements on some religious organizations but not on others,” Catholic 
+
+Charities argues that similarly here the WCEA imposes the contraceptive 
+
+insurance coverage on some religious organizations but not on others.   
+
+To distinguish the WCEA’s religious employer exemption from the 
+
+religious organization charitable reporting exemption invalidated in Larson v. 
+
+Valente, supra, 456 U.S. 228, the majority states:  “The WCEA confers the special 
+
+benefit of exemption only on those religious organizations whose tenets are 
+
+opposed to prescription contraceptives and that meet the other requirements for 
+
+exemption. . . .  Those Catholic employers that do not qualify for exemption are 
+
+treated precisely the same as all other employers in the state, whether religious or 
+
+nonreligious.”  (Maj. opn., ante, at p. 25, italics added.)  But the Minnesota 
+
+charitable solicitation registration law struck down in Larson v. Valente treated 
+
+religious organizations not qualifying for its exemption “precisely the same as” 
+
+nonreligious charitable solicitors and other nonqualifying religious solicitors.  
+
+Thus, in treating religious entities that do not qualify for its exemption just like 
+
+nonreligious entities subject to its requirements, the WCEA seems substantially 
+
+similar to that unconstitutional Minnesota law.  
+
+4 
+
+Under the high court’s analysis in Larson v. Valente, supra, 456 U.S. 228, a 
+
+law that selectively discriminates among religious organizations might still not 
+
+violate the establishment clause if it is “closely fitted to the furtherance” of a 
+
+“compelling governmental interest.”  (Id. at p. 255.)  As the majority explains, and 
+
+I agree, the WCEA serves the compelling state interest of eliminating gender 
+
+discrimination.  (Maj. opn., ante, at p. 40.)  But in upholding the first requirement 
+
+of the religious employer exemption (limiting it to those religious entities whose 
+
+purpose is inculcating religious values), the majority does not explain how that 
+
+limitation is “closely fitted” to the elimination of gender discrimination.  I have 
+
+serious doubts that the First Amendment, as construed by the United States 
+
+Supreme Court, allows California to limit its religious employer exemption to 
+
+religious entities that have as their purpose the inculcation of religious values, 
+
+denying that exemption to religious entities, like Catholic Charities, that are 
+
+organized for the purpose of feeding the hungry, caring for the sick, and providing 
+
+shelter to the homeless.2   
+
+II 
+
+As I noted at the outset, dispositive here is Catholic Charities’ concession 
+
+that it does not meet the fourth requirement for the WCEA’s religious employer 
+
+exemption as a religious entity exempt from federal tax filing.  (See § 1367.25, 
+
+subd. (b)(1)(D).)  Because the concerns expressed above about the 
+                                              
+2   
+
+The majority construes Larson v. Valente, supra, 456 U.S. 228, as 
+
+prohibiting only those laws that discriminate among religious denominations and 
+thus as having no effect on Catholic Charities, an entity affiliated with the Roman 
+Catholic denomination.  (Maj. opn., ante, at p. 26, fn. 10.)  Even under this view, 
+the first requirement of the WCEA’s religious employer exemption is of 
+questionable constitutionality because it disfavors those denominations that have 
+as their primary purpose something other than the inculcation of religious values.  
+Thus any organization or entity established by a religious denomination whose 
+primary purpose was attending to the needy would on that basis be denied the 
+religious employer exemption.   
+
+5 
+
+constitutionality of the exemption’s first requirement—that “inculcation of 
+
+religious values” (§ 1367.25, subd. (b)(1)(A)) is the purpose of the entity—can 
+
+have no effect on the judgment, I agree with the majority that if Catholic Charities 
+
+is to afford its employees health coverage that would include outpatient 
+
+prescription drugs, it must do so through a policy that provides coverage for 
+
+prescription contraceptives.  
+
+       KENNARD, 
+
+J. 
+
+6 
+
+DISSENTING OPINION BY BROWN, J. 
+
+This case presents questions on which reasonable minds can differ—
+
+especially in light of the whimsical and somewhat erratic path of free exercise 
+
+jurisprudence after the Supreme Court’s decision in Employment Div., Ore. Dept. 
+
+of Human Res. v. Smith (1990) 494 U.S. 872 (Smith).  However, as a court pledged 
+
+to defend constitutional limits, operating in the post-Smith environment, we ought 
+
+to think very carefully about our role in defining the road ahead.  Instead of being 
+
+dismissive of the very serious claims presented here, we should treat them with the 
+
+highest respect. 
+
+ After 
+
+Smith, neutral, generally applicable laws do not have to survive 
+
+compelling state interest review.  Such laws require no justification no matter how 
+
+severely they burden the individual religious claimant and no matter how 
+
+inconsequential the government interest.  (See Smith v. Fair Employment & 
+
+Housing Com. (1996) 12 Cal.4th 1143, 1195 (conc. & dis. opn. of Kennard, J.) 
+
+(Smith v. FEHC).)  It is, however, far from self-evident, if or how, Smith applies to 
+
+laws that directly contravene the religious conduct of religious organizations.  The 
+
+Women’s Contraceptive Equity Act (WCEA) attempts to circumvent this 
+
+potentially substantial hurdle by creating a very narrow exemption for churches.  
+
+But that begs an even more fundamental question:  may the government determine 
+
+what parts of bona fide religious organizations are religious and what parts are 
+
+secular?  And, in particular, may the government make such distinctions in order 
+
+to infringe the religious freedom of that portion of the organization the 
+
+1
+
+government characterizes as secular?  Because, unlike the majority, I do not think 
+
+Smith provides obvious answers to these questions, I respectfully dissent. 
+
+I 
+
+The proponents of the WCEA make an argument with which no one can 
+
+disagree.  Women in the workplace are entitled to be treated fairly and equitably 
+
+and to be free from discrimination on the basis of gender.  Government has not 
+
+only the authority, but the obligation, to discourage invidious discrimination in the 
+
+workplace, and this includes discrimination in the distribution of benefits.  (See, 
+
+e.g., Erickson v. Bartell Drug Company (W.D.Wash. 2001) 141 F.Supp.2d 1266, 
+
+1271 [title VII, as amended by the Pregnancy Discrimination Act, prevented 
+
+exclusion of contraception from prescription drug coverage offered by employer]; 
+
+42 U.S.C. § 2000e(k) [prohibiting, under title VII, discrimination on the basis of 
+
+“pregnancy, childbirth, or related medical conditions”]; U.S. EEOC, Commission 
+
+Decision (Dec. 14, 2000) [coverage of contraception] <http://eeoc.gov/policy/ 
+
+docs/decision-contraception.html> [as of Mar. 1, 2004]; Conn. Gen. Stat.,  
+
+§ 38a-503e (2001) [mandating insurance coverage of prescription contraception]; 
+
+Mass. Gen. Laws, ch. 176B, § 4W(b) (2002) [same]; Vt. Stat. Ann., tit. 8, § 4099c 
+
+(2000) [same].) 
+
+Neither the propriety, nor the wisdom of, nor the government’s authority to 
+
+impose a prescription contraceptive mandate on California employers is at issue 
+
+here.  The question is a very narrow one.  May the government impose a mandate 
+
+on a religiously affiliated employer that requires the employer to pay for 
+
+contraceptives—in violation of an acknowledged religious tenet—or to redefine 
+
+what constitutes religious conduct?1  While antidiscrimination laws reflect a 
+
+1 
+
+The question has to be stated in the alternative because the California 
+
+enactment has some peculiarities.  Despite the state’s argument that it has a 
+compelling interest in ensuring that all working women who desire prescription 
+
+(footnote continued on next page) 
+
+2
+
+constitutional value, religious liberty occupies a commensurate level in the 
+
+constitutional hierarchy.  As often happens with First Amendment cases, this is “a 
+
+collision between two interests of the highest order:  the Government’s interest in 
+
+eradicating discrimination in employment and the constitutional right of a church 
+
+to manage its own affairs free from governmental interference.”  (Equal Emp. 
+
+Opp. Comm’n v. The Catholic Univ. of America (D.C. Cir. 1996) 83 F.3d 455, 460 
+
+(Catholic University).)  Thus, the desire to prevent discrimination cannot be the 
+
+beginning and the end of the discussion. 
+
+A. 
+
+Why Religious Liberty Is Important 
+
+A strong argument can be made that it was the primacy of religious liberty 
+
+in the early history of this country, with its acknowledgment of the separate 
+
+spheres of church and state, that gave rise to our notions of limited government 
+
+and equal protection—the constitutional precursors of our antidiscrimination laws.  
+
+(McConnell, Why Is Religious Liberty the “First Freedom”? (2000) 21 Cardozo 
+
+L.Rev. 1243, 1244 [“the division between temporal and spiritual authority gave 
+
+rise to the most fundamental features of liberal democratic order:  the idea of 
+
+limited government, the idea of individual conscience and hence of individual 
+
+rights, and the idea of civil society, as apart from government, bearing primary 
+
+responsibility for the formation and transmission of opinions and ideas”].) 
+
+Our ability to create a space for religious perspectives is both instrumental 
+
+and regenerative for democracy.  Religious institutions enhance individual 
+
+(footnote continued from previous page) 
+ 
+contraceptive coverage have that option available, the mandate is imposed only on 
+employers that provide prescription coverage.  Thus, Catholic Charities of 
+Sacramento, Inc. (Catholic Charities), can choose either to provide contraceptives 
+or not to provide prescription coverage to employees at all.  This option would 
+arguably make everyone worse off, but, in theory at least, equally so.   
+
+3
+
+autonomy “by challenging the sovereign power of the liberal state” (Noonan, The 
+
+End of Free Exercise? (1992) 42 De Paul L.R. 567, 579-580) and by articulating 
+
+alternative visions—“counter-cultural visions that challenge and push the larger 
+
+community in . . . directions unimagined by prevailing beliefs.”  (Brady, Religious 
+
+Organizations and Mandatory Collective Bargaining Under Federal and State 
+
+Labor Laws:  Freedom From and Freedom For (2004) 49 Vill. L.Rev. 77, 156.)  
+
+By protecting religious groups from gratuitous state interference, we convey broad 
+
+benefits on individuals and society.  By underestimating the transformative 
+
+potential of religious organizations, we impoverish our political discourse and 
+
+imperil the foundations of liberal democracy. 
+
+B. Does 
+
+Smith Apply to Religious Organizations? 
+
+Despite its surface simplicity, Smith is not an easy case to understand or 
+
+apply.  The majority correctly quotes the critical passages from Smith:  “ ‘[T]he 
+
+right of free exercise does not relieve an individual of the obligation to comply 
+
+with a “valid and neutral law of general applicability on the ground that the law 
+
+proscribes (or prescribes) conduct that his religion prescribes (or proscribes).” ’  
+
+(Smith, [supra, 494 U.S.] at p. 879, quoting United States v. Lee [(1982)] 455 U.S. 
+
+252, 263, fn. 3 (conc. opn. of Stevens, J.).)  To permit religious beliefs to excuse 
+
+acts contrary to law, the Smith court reasoned, ‘ “would be to make the professed 
+
+doctrines of religious belief superior to the law of the land, and in effect to permit 
+
+every citizen to become a law unto himself. ” ’  (Smith, at p. 879, quoting Reynolds 
+
+v. United States (1879) 98 U.S. 145, 167.)”  (Maj. opn., ante, at p. 17, italics 
+
+added.) 
+
+ Since 
+
+Smith focused exclusively on the individual’s free exercise of 
+
+religion, some courts have reasoned that religious institutions are exempted 
+
+entirely from the Smith analysis.  (Gellington v. Christian Methodist Episcopal 
+
+Church, Inc. (11th Cir. 2000) 203 F.3d 1299, 1303; see Kaplan, The Devil Is in the 
+
+4
+
+Details:  Neutral, Generally Applicable Laws and Exceptions from Smith (2000) 
+
+75 N.Y.U. L.Rev. 1045, 1070.) 
+
+1.  Individuals v. Institutions 
+
+This case involves a religious organization and not an individual.  Perhaps 
+
+more importantly, it does not deal with the denial of a benefit because of a 
+
+violation of existing law.  Rather, it attempts to assess the constitutional 
+
+implications of a law that requires a religious organization to provide a benefit 
+
+despite its theological objections.  These fundamental differences are simply 
+
+ignored in the majority’s analysis. 
+
+ Under 
+
+Smith, the right of free exercise does not relieve an individual of the 
+
+obligation to comply with a valid and neutral law of general applicability even if 
+
+the law requires conduct that contravenes a religious belief, but “[i]t does not 
+
+follow . . . that Smith stands for the proposition that a church may never be 
+
+relieved from such an obligation.”  (Catholic University, supra, 83 F.3d at p. 462.)   
+
+The majority may have made an abortive attempt to deal with this obvious 
+
+distinction by citing, and dismissing, the so-called ministerial exception.  It is true, 
+
+as the majority notes, that the ministerial exception is not directly at issue here. 
+
+(See, e.g., Alicea-Hernandez v. Catholic Bishop of Chicago (7th Cir. 2003) 320 
+
+F.3d 698 [ministerial exception to title VII]; E.E.O.C. v. Roman Catholic Diocese 
+
+of Raleigh (4th Cir. 2000) 213 F.3d 795 [same]; Combs v. Central Texas Ann. 
+
+Conf. of United Methodist Church (5th Cir. 1999) 173 F.3d 343 [same].)  
+
+Likewise, it is certainly debatable whether the legislative action challenged here 
+
+invades the narrow domain labeled church autonomy.  (See, e.g., Serbian Eastern 
+
+Orthodox Diocese v. Milivojevich (1976) 426 U.S. 696 [state court impermissibly 
+
+encroached on church autonomy]; Kedroff v. St. Nicholas Cathedral (1952) 344 
+
+U.S. 94 [state statute impermissibly encroached on church autonomy].)  And yet, 
+
+the logic of these cases suggests that the constitutionally protected space for 
+
+5
+
+religious organizations is actually broader than these obvious categories.  In short, 
+
+the ministerial exception and the church autonomy doctrine are ways of describing 
+
+spheres of constitutionally required protection, but these categories are not 
+
+exhaustive. 
+
+The court in Catholic University summarized the distinction it was making 
+
+this way:  “We conclude from our review of the Supreme Court’s First 
+
+Amendment jurisprudence that whereas the Free Exercise Clause guarantees a 
+
+church’s freedom to decide how it will govern itself, what it will teach, and to 
+
+whom it will entrust its ministerial responsibilities, it does not guarantee the right 
+
+of its members to practice what their church may preach if that practice is 
+
+forbidden by a neutral law of general application.”  (Catholic University, supra, 83 
+
+F.3d at p. 463.)  In fact, the Legislature apparently takes a similar view of the 
+
+breadth of Smith because it provided an exemption from the WCEA for churches.   
+
+2.  The Two Faces of Entanglement 
+
+Under venerable establishment clause precedent, however, the exemption 
+
+itself is problematic.  To put it bluntly, the government may generally separate the 
+
+religious from the secular to decide how it will dispense its benefits, but it cannot 
+
+parse a bona fide religious organization into “secular” and “religious” components 
+
+solely to impose burdens on the secular portion.  
+
+ As 
+
+noted, 
+
+ante, the constitutional basis for the distinction seems 
+
+indisputable.  The United States Supreme Court has recognized that government 
+
+action may burden the free exercise of religion in two different ways:  “by 
+
+interfering with a believer’s ability to observe the commands or practices of his 
+
+faith [citations], and by encroaching on the ability of a church to manage its 
+
+internal affairs.”  (Catholic University, supra, 83 F.3d at p. 460; see, e.g., Church 
+
+of the Lukumi Babalu Aye, Inc. v. City of Hialeah (1993) 508 U.S. 520, 531-533 
+
+(Lukumi); Kedroff v. St. Nicholas Cathedral, supra, 344 U.S. at p. 116 [free 
+
+6
+
+exercise clause protects power of religious organizations “to decide for 
+
+themselves, free from state interference, matters of church government as well as 
+
+those of faith and doctrine”].) 
+
+If Catholic Charities were a “religious employer” it would be exempt from 
+
+the WCEA’s requirement to include coverage for contraceptives in its group 
+
+healthcare policy.  Under the act, a religious employer must satisfy all of the 
+
+following criteria:  “(A)  The inculcation of religious values is the purpose of the 
+
+entity.  [¶]  (B)  The entity primarily employs persons who share the religious 
+
+tenets of the entity.   [¶]  (C)  The entity serves primarily persons who share the 
+
+religious tenets of the entity.   [¶]  (D)  The entity is a nonprofit organization as 
+
+described in Section 6033(a)(2)(A)i or iii, of the Internal Revenue Code of 1986, 
+
+as amended.”  (Health & Saf. Code, § 1367.25, subd. (b)(1).) 
+
+As the majority notes, “Catholic Charities does not qualify as a ‘religious 
+
+employer’ under the WCEA because it does not meet any of the definition’s four 
+
+criteria.”  (Maj. opn., ante, at p. 5, italics added.)  But Catholic Charities would be 
+
+a religious employer if the Legislature had not designed the exemption narrowly 
+
+enough to exclude it.2  The plaintiffs contend the Legislature has “deliberately 
+
+defined the Catholic Church in a manner entirely inconsistent with Catholic 
+
+religious teaching, to exclude critical, constitutive elements of the Catholic 
+
+Church—i.e., the Church’s healthcare, social service and educational ministries—
+
+from the definition of ‘religious employer’ included in the exemption provisions.” 
+
+2 
+
+Earlier versions of the WCEA contained a broader conscience clause—
+
+which Catholic Charities deemed acceptable—exempting bona fide religious 
+employers and allowing religiously affiliated hospitals, universities, and social 
+service agencies to opt out.  The current version of the act exempts churches, 
+synagogues, mosques, temples, missions, parochial schools, seminaries and 
+convents from the requirement to provide contraceptive coverage. 
+
+7
+
+The high court “ ‘has long recognized that the government may (and 
+
+sometimes must) accommodate religious practices and that it may do so without 
+
+violating the Establishment Clause.’ ”  (Corporation of the Presiding Bishop v. 
+
+Amos (1987) 483 U.S. 327, 334 (Amos).)  At the same time, acknowledging that 
+
+churches often regard the community services provided by affiliated nonprofits as 
+
+“a means of fulfilling religious duty and providing an example of the way of life a 
+
+church seeks to foster” (id. at p. 344 (conc. opn. of Brennan, J.)), the court 
+
+concluded the case-by-case determination of whether an affiliated nonprofit is 
+
+religious or secular is inappropriate under the free exercise clause.  (Id. at pp. 341-
+
+342 (conc. opn. of Brennan, J.) [“Religion includes important communal elements 
+
+for most believers.  They exercise their religion through religious organizations 
+
+and these organizations must be protected by the [Free Exercise] Clause. . . .  
+
+[R]eligious activity derives meaning in large measure from participation in a 
+
+larger religious community”].) 
+
+ Even 
+
+after 
+
+Smith, it seems quite clear the government may not discriminate 
+
+among religions (Larson v. Valente (1982) 456 U.S. 228, 253) or engender a risk 
+
+of politicizing religion (id. at pp. 253-254) or purport to exempt “religious” but not 
+
+“secular” activities (Cantwell v. Connecticut (1940) 310 U.S. 296, 301; Espinosa 
+
+v. Rusk (10th Cir. 1980) 643 F.2d 477, 480-481, affd. (1982) 456 U.S. 951).  In 
+
+National Labor Relations Board v. The Catholic Bishop of Chicago (1979) 440  
+
+U.S. 490 (Catholic Bishop), the National Labor Relations Board (NLRB) certified 
+
+unions as bargaining agents for lay teachers in church-affiliated schools.  The 
+
+NLRB asserted it was required to decline jurisdiction only when schools were  
+
+“ ‘completely religious’ ” and not just “ ‘religiously associated.’ ”  (Id. at p. 493.)  
+
+The Seventh Circuit Court of Appeals rejected the NLRB’s standard as a  
+
+“ ‘simplistic black or white, purported rule’ ” which offered no guide to discretion.  
+
+(Id. at p. 495.)  “ ‘The real difficulty is found in the chilling aspect that the 
+
+8
+
+requirement of bargaining will impose on the exercise of the bishops’ control of 
+
+the religious mission of the schools.’ ”  (Id. at p. 496.)  The Supreme Court, after 
+
+acknowledging that the NLRB’s attempt to distinguish between “ ‘completely 
+
+religious’ ” and “ ‘religiously associated’ ” was a recognition of its intrusion into 
+
+areas protected by the religion clauses, construed the National Labor Relations Act 
+
+so as to avoid deciding whether jurisdiction “was constitutionally permissible 
+
+under the Religion Clauses of the First Amendment.”  (Catholic Bishop, at p. 499.)  
+
+Nevertheless, the court expressed concern that NLRB jurisdiction would 
+
+inevitably involve “inquiry into the good faith of the position asserted by clergy-
+
+administrators and its relationship to the school’s religious mission,” and the “very 
+
+process of inquiry” would impinge on rights guaranteed by the religion clauses.  
+
+(Catholic Bishop, at p. 502.) 
+
+ In 
+
+Universidad Central de Bayamon v. NLRB (1st Cir. 1985) 793 F.2d 383, 
+
+387, the NLRB sought to avoid the problem by exempting “ ‘pervasively 
+
+sectarian’ ” schools.  The controlling opinion in Universidad Central de Bayamon 
+
+found board jurisdiction posed just as great a risk as the Supreme Court envisioned 
+
+in Catholic Bishop, supra, 440 U.S. 490.  “For the Board to exercise jurisdiction 
+
+over an educational institution where ‘the inculcation of religious values is at least 
+
+one purpose of the institution’ and ‘to promise that courts in the future will control 
+
+the Board’s efforts to examine religious matters, is to tread the path that Catholic 
+
+Bishop forecloses.’ ” (Univ. of Great Falls v. NLRB (D.C. Cir. 2002) 278 F.3d 
+
+1335, 1342 (Great Falls), quoting Universidad Central de Bayamon v. NLRB, at 
+
+p. 402.) 
+
+ In 
+
+Great Falls, the Court of Appeals for the District of Columbia rejected 
+
+the NLRB’s latest effort—the “substantial religious character” test—because the 
+
+multifaceted analysis created the same concerns as the approach rejected in 
+
+Catholic Bishop.  Moreover, the court invoked a long line of precedents which 
+
+9
+
+have made it clear that religious tests, inquiries into religious perspectives, or 
+
+generally trolling through a person’s or institution’s religious beliefs is “ ‘not only 
+
+unnecessary but also offensive.’ ”  (Great Falls, supra, 278 F.3d at pp. 1341-1342, 
+
+quoting Mitchell v. Helms (2000) 530 U.S. 793, 828; Amos, supra, 483 U.S. 327, 
+
+340, 345 (conc. opn. of Brennan, J.).) 
+
+The court in Great Falls thus suggested a broad exemption which would 
+
+avoid the pitfalls of having the government determine what is religious or how 
+
+much religion is sufficient.  The court would exempt any school which purports to 
+
+provide a religious environment; is organized as a nonprofit; and affiliated with, or 
+
+owned, or operated, or controlled directly or indirectly by a recognized religious 
+
+organization or entity whose membership is determined at least in part with 
+
+reference to religion.  (Great Falls, supra, 278 F.3d at p. 1343.)  The point of this 
+
+bright-line test was to avoid delving into religious doctrine or motive and to avoid 
+
+coercing a religiously affiliated educational institution to alter its religious mission 
+
+to meet regulatory demands.  (Id. at p. 1345.)  This approach responds to a 
+
+longstanding concern that the religious liberty protected by the Constitution ought 
+
+not to depend on a “determination by state authority as to what is a religious 
+
+cause.”  (Cantwell v. State of Connecticut, supra, 310 U.S. at p. 307.) 
+
+Of course, the cited cases are distinguishable.  The controversy here does 
+
+not involve solicitation, or potential chilling effects, religious schools, 
+
+administrative discretion, or ad hoc determinations.  In reality, this case is worse.  
+
+Here we are dealing with an intentional, purposeful intrusion into a religious 
+
+organization’s expression of its religious tenets and sense of mission.  The 
+
+government is not accidentally or incidentally interfering with religious practice; it 
+
+is doing so willfully by making a judgment about what is or is not religious.  This 
+
+is precisely the sort of behavior that has been condemned in every other context.  
+
+The conduct is hardly less offensive because it is codified.  Definition may be just 
+
+10
+
+as pernicious as ongoing monitoring if its purpose is to suppress or burden 
+
+religious conduct.  (Espinosa v. Rusk, supra, 634 F.2d at p. 481 [“The conception 
+
+of religion entertained by the City . . . was that it had to be purely spiritual or 
+
+evangelical.  Thus, the charitable activity of the church having to do with the 
+
+feeding of the hungry or the offer of clothing and shelter to the poor was deemed 
+
+subject to regulation.  This broad definition of secular is part of the problem”].) 
+
+3.  The Meaning of Neutrality 
+
+In theory, when religious liberties are at stake, the state is only neutral 
+
+when it does not choose sides.  (Laycock, Religious Liberty as Liberty (1996) 7  
+
+J. Contemp. Legal Issues 313 [“[T]he core point of religious liberty is that the 
+
+government does not take positions on religious questions—not in its daily 
+
+administration, not in its laws, and not in its Constitution either”].)  This would 
+
+mean that the state may not prefer or seek to impose a particular normative view 
+
+by squelching a competing religious perspective.  Genuine neutrality would “allow 
+
+many different and contending voices to be represented in public discourse.”  
+
+(McConnell, Why Is Religious Liberty the “First Freedom”?, supra, 21 Cardozo 
+
+L.Rev. at p. 1262.) 
+
+In the present controversy, one side posits that sex is an aspect of 
+
+autonomy, a vital human function in which men and women should be able to 
+
+engage, enjoying their sexuality “free from anxiety.”  (Hayden, Gender 
+
+Discrimination Within the Reproductive Health Care System:  Viagra v. Birth 
+
+Control (1999) 13 J.L. & Health 171, 181.)  This may in fact be the view of a 
+
+majority of American adults.  The Catholic Church’s view, in contrast, deems all 
+
+forms of nonmarital sex immoral, and views sex within marriage as a unitive, 
+
+procreative, and sacred reflection of a spiritual, emotional, and biological reality 
+
+that comes complete with reproductive anxiety.  (See George & Bradley, 
+
+Marriage and the Liberal Imagination (1995) 84 Geo. L.J. 301-320.)  This is a 
+
+11
+
+perspective many people would disparage as archaic.  Several of the legislators 
+
+debating the WCEA seemed to think so.3 
+
+The Catholic Church purports to be one of those different and contending 
+
+voices, a church which “has never envisioned a sharp divide between the Church 
+
+and the world, the spiritual and the temporal, or religion and politics.  For the 
+
+Church, the internal spiritual life of its members and institutions must always 
+
+move outward as a sign and instrument for the transformation of the larger 
+
+society.”  (Brady, Religious Organizations and Mandatory Collective Bargaining 
+
+Under Federal and State Labor Laws:  Freedom From and Freedom For, supra, 
+
+49 Vill. L.Rev. at p. 157.) 
+
+Petitioner complains the narrow exemption was designed to lend the state’s 
+
+“considerable weight to the dissenting side of a conflict within the church about 
+
+the legitimacy of contraceptive practice—under the banner of protecting the 
+
+‘rights’ of those who disagree . . . and to deny the church exemption based on the 
+
+allegedly unpopular nature of a church doctrine that diverges from contemporary 
+
+cultural mores.”  In petitioner’s words, the state’s “action has the effect of 
+
+declaring the Catholic hierarchy’s stand ‘heresy’ in the eyes of secular culture.” 
+
+Of course, practice always diverges from theory.  In contemporary 
+
+American society, the government does take sides on policy issues.  The First 
+
+Amendment precludes the government from taking sides if the dispute involves 
+                                              
+3 
+
+(See, e.g., Remarks of Sen. Speier, Sen. Floor Debate on Sen. Bill No. 41 
+
+(1999-2000 Reg. Sess.) Apr. 12, 1999, pp. 7-8 [floor statement of Senator Speier 
+asserting that since 75 percent of all California Catholic hospitals already provide 
+contraception coverage, the “issue has already been resolved . . . and its time has 
+come”]; Remarks of Sen. Speier, Sen. Floor Debate on Assem. Bill No. 39 (1999-
+2000 Reg. Sess.) Sept. 7, 1999, p. 7 [floor statement of Senator Speier arguing that 
+“59 percent of all Catholic women of childbearing age practice contraception 
+[and] 88 percent of Catholics believe . . . that someone who practices artificial 
+birth control can still be a good Catholic,” and commenting, “I agree with that.  I 
+think it’s time to do the right thing” (italics added)].) 
+
+12
+
+internal church governance, but that leaves an area of overlap where the 
+
+religiously dictated conduct of churches operating in the world comes into conflict 
+
+with public policy.  The question then is whether the coercive force of the law may 
+
+be brought to bear to compel a religious organization that holds an alternative 
+
+view, based on religious scruples, to support a hostile and competing vision of the 
+
+good. 
+
+a.  Religious bigotry 
+
+Smith could be read, as the majority apparently reads it, to suggest that 
+
+religion is not entitled to constitutional protection unless the government action 
+
+expressly and specifically targets religious expression.  Under this interpretation, 
+
+protection for religious liberty requires proof of religious bigotry, i.e., proof that 
+
+government officials acted out of anti-religious motives.  Thus, Smith—even as 
+
+modified by Lukumi—would prohibit infringements of religious liberties only if a 
+
+statute has the “object or purpose of . . . suppress[ing] religion or religious 
+
+conduct” or involves “[o]fficial action that targets religious conduct for distinctive 
+
+treatment.”  (Lukumi, supra, 508 U.S. at pp. 533-534.)  Since this statute imposes 
+
+a mandate on all employers that provide prescription coverage, it arguably does 
+
+not target religious conduct.  On one level, religious interests and secular interests 
+
+are treated with equal dignity, and since the mandate provides an escape hatch, 
+
+Catholic Charities’ attempt to claim specifically unequal treatment faces 
+
+formidable obstacles.  Consequently, the majority finds Catholic Charities has 
+
+failed to prove an anti-religious motive and the statute is neutral. 
+
+13
+
+b.  Objects and effect 
+
+There is, however, more than one way to look at neutrality.  As Lukumi 
+
+explains it, “[f]acial neutrality is not determinative. . . .  The [free exercise] clause 
+
+‘forbids subtle departures from neutrality’ [citation] and ‘covert suppression of 
+
+particular religious beliefs.’ ”  (Lukumi, supra, 508 U.S. at p. 543.)  “Apart from 
+
+the text, the effect of a law in its real operation is strong evidence of its object.”  
+
+(Id. at p. 535.)  “[I]f the object of the law is to infringe upon or restrict practices 
+
+because of their religious motivation, the law is not neutral [citation]; and it is 
+
+invalid unless it is justified by a compelling interest and is narrowly tailored to 
+
+advance that interest.”  (Id. at p. 533.)  “The Free Exercise Clause ‘protect[s] 
+
+religious observers against unequal treatment.’ ”  (Lukumi, at p. 543.)  But equality 
+
+in the context of religious liberty must be broadly defined.  In effect, the general 
+
+applicability requirement is needed to ensure neutrality across broad categories of 
+
+regulation.  Pursuant to Lukumi, if other activities which cause comparable harm 
+
+to the same governmental interests are not regulated, the law is not generally 
+
+applicable.  Thus, Lukumi makes it clear that strict scrutiny is required if a law is 
+
+not neutral—and it considers the question of neutrality broadly. 
+
+In this case, for instance, defendants argue that Catholic Charities’ ability to 
+
+opt out, i.e., to choose not to provide any prescription coverage, obviates any 
+
+concern about infringement.  Catholic Charities insists it should not be forced to 
+
+relinquish its vision of appropriate employee relations to preserve its right to 
+
+object to the use of contraceptives.  From the Church’s perspective, to demand that 
+
+contraception be funded, despite bona fide religious objections, is to take sides, to 
+
+abandon the commitment to public neutrality.  In this sense, the WCEA, with its 
+
+grudging religious exemption, may not be neutral.  The majority’s response that 
+
+the WCEA’s narrow exemption is an accommodation and not an imposition seems 
+
+entirely unresponsive. 
+
+14
+
+In the whole scheme of things, the risk associated with allowing 
+
+government to impose a stifling orthodoxy in pursuit of the good society may 
+
+greatly outweigh the small harm of tolerating heterodoxy in this circumstance.4 
+
+At oral argument, counsel indicated the Catholic Church, including Catholic 
+
+Charities, employs fewer than 60,000 of California’s millions of employees.5  
+
+4 
+
+This does not mean that the government may never limit what religious 
+
+organizations can do.  There are truly neutral laws which may be applied; there are 
+aggressive interventions which are necessary to prevent harm.  (See, e.g., Walker 
+v. Superior Court (1988) 47 Cal.3d 112, 139 [finding Christian Scientist who did 
+not seek medical treatment for her child liable for child’s death, notwithstanding 
+the “religious infringement of significant dimensions,” since state’s interest is 
+compelling and child endangerment statute is narrowly tailored]; Brady, Religious 
+Organizations and Mandatory Collective Bargaining Under Federal and State 
+Labor Laws:  Freedom From and Freedom For, supra, 49 Vill. L.Rev. at p. 161 
+[“In rare cases, limitations on the freedom of religious organizations may be 
+necessary.  For example, if a religious group experiments with practices that 
+endanger the lives of its employees or threaten them with serious bodily injury, 
+interference may be justified”]; Laycock, Towards a General Theory of the 
+Religion Clauses: The Case of Church Labor Relations and the Right to Church 
+Autonomy (1981) 81 Colum. L.Rev. 1373, 1406 [“Courts have intervened to 
+protect church members from serious bodily harm even when they voluntarily 
+submitted”].)  In contrast, what this case presents is essentially a clash of ideas.   
+5  
+
+These numbers are approximate.  At oral argument, Catholic Charities counsel 
+
+asserted that the Catholic Church employs fewer than 50,000 people, including those 
+in holy orders.  Proponents claim there are 52,000 employees in Catholic-affiliated 
+hospitals alone.  Using 60,000 as a point of reference, it appears all Catholic Church 
+employees in California represent less than .5 percent of the California workforce, and 
+female employees of the Catholic Church represent about the same percentage of the 
+number of working women of childbearing age in California.  According to recent 
+Bureau of Labor Statistics publications, the current number of California adults 
+employed in nonfarm jobs is approximately 14.4 million.  (Bur. of Lab. Statistics, 
+U.S. Dept. of Lab. News Release No. 04-81 (Jan. 27, 2004) Employees on nonfarm 
+payrolls by state and selected industry sector, table 5<http://www.bls.gov/ 
+news.release/pdf/laus.pdf> [as of Mar. 1, 2004].)  A little less than half are women.  
+Extrapolating from national statistics, around 5 million of that total will be women 
+between 16 and 45.  (Bur. of Lab. Statistics, U.S. Dept. of Lab. News Release No. 04-
+120 (Feb. 6, 2004) Selected employment indicators, table A-6 <http://www.bls.gov/ 
+
+(footnote continued on next page) 
+
+15
+
+Some of the Church’s employees belong to religious orders and are presumably 
+
+fully in agreement with the church’s position.  Some are men, some are women no 
+
+longer capable of childbearing, and some are spouses of people employed by other 
+
+companies who are covered by their spouses’ health plans.  Of the women of 
+
+childbearing age who remain, and to whom contraceptive coverage is a critical 
+
+concern, none are faced with a pervasive practice which would prevent them from 
+
+finding more congenial employment.6  The existence of WCEA’s mandate—to 
+
+which the vast majority of California employers apparently have no religious 
+
+objection—enhances their employment options.  In fact, the defection of talented 
+
+(footnote continued from previous page) 
+ 
+newsrelease/pdf/empsit.pdf> [as of Mar. 1, 2004].)  Even assuming these numbers 
+need to be adjusted upward or downward for accuracy, an exemption for Catholic 
+Charities would seem to have a negligible effect. 
+6  
+
+The majority cites language from United States v. Lee, supra, 455 U.S. 252, 
+
+for the proposition that allowing an employer to be exempt from a neutral law 
+“operates to impose the employer’s religious faith on employees.”  (Id. at p. 261.)  
+This is a curious statement.  In Lee, both the employer and the employee were 
+members of the Old Order Amish and all agreed they should be exempt from 
+Social Security and unemployment insurance taxes.  Even if that were not the 
+case, it is not clear how an employer is in a position to impose anything on its 
+employees to which they object.  (U.S. Const., 13th Amend. [prohibiting slavery 
+or involuntary servitude].)  Only the state, which holds the monopoly on coercive 
+force, can compel adults to remain where they do not choose to be and do what 
+they do not wish to do. 
+ In 
+
+Smith v. FEHC, supra, 12 Cal.4th 1143, this court considered whether a 
+
+state law prohibiting discrimination against unmarried cohabitating couples 
+burdened the free exercise of a landlady who objected to renting to the couple on 
+religious grounds.  A majority of the court concluded Smith’s rights were not 
+substantially burdened because she could simply abandon the rental business and 
+redeploy her capital.  If we reject the challenges of some religious claimants 
+because they have other options, what logic compels us to assume that employees 
+have no choice? 
+
+16
+
+female employees may cause Catholic Charities to reconsider its position.  Such a 
+
+result has no First Amendment implications. 
+
+A substantial amount of federal case law supports Catholic Charities’ claim 
+
+that the Legislature’s attempt to draw distinctions between the religious and 
+
+secular activities of a single religious entity is an impermissible government 
+
+entanglement in religion.  I am inclined to agree.  Such an action is 
+
+constitutionally invalid and that ends the discussion.  If, however, the existence of 
+
+the narrow exemption simply shows the statutory scheme is not neutral in 
+
+operation or effect, it is invalid only if it fails strict scrutiny. 
+
+C. Strict 
+
+Scrutiny 
+
+Strict scrutiny is not what it once was.  Described in the past as “strict in 
+
+theory and fatal in fact” (Gunther, Foreword:  In Search of Evolving Doctrine on a 
+
+Changing Court: A Model for Newer Equal Protection (1972) 86 Harv. L.Rev. 1, 
+
+8), it has mellowed in recent decades (see, e.g., Grutter v. Bollinger (2003) 539 
+
+U.S. 306 [123 S.Ct. 2325, 2338] [holding state law school’s race-based affirmative 
+
+action program survived strict scrutiny and noting that “[s]trict scrutiny is not 
+
+‘strict in theory, but fatal in fact’ ”]). 
+
+If recent precedent is any guide, a state’s interest is compelling if the state 
+
+says it is.  Thus, consistent with federal precedent compelling interest now seems 
+
+more or less coextensive with the state’s asserted exercise of police power.   
+
+1.  Compelling State Interest 
+
+Unquestionably, the desire to eradicate invidious discrimination is a 
+
+compelling state interest.  But is the desire to force conformity on a single 
+
+employer that objects to contraception on religious grounds also a compelling state 
+
+interest?  In the latter case, the state is not dealing with invidious discrimination; it 
+
+is trying to prevent a disparate impact.  Catholic Charities does not discriminate 
+
+because of an animus against women.  It opposes all forms of birth control, except 
+
+17
+
+abstinence, whether for men or women, whether prescription or over-the-counter, 
+
+whether surgical, oral, or mechanical. 
+
+2.  Narrow Tailoring 
+
+The WCEA defines as religious only those organizations for which the 
+
+inculcation of religious values is the sole purpose of the entity, that primarily 
+
+employ only adherents of their own faith tradition, that primarily serve only 
+
+people who share their religious tenets, and that qualify as nonprofit organizations 
+
+described in section 6033(a)(2)(A)i or iii of the Internal Revenue Code of 1986. 
+
+This is such a crabbed and constricted view of religion that it would define 
+
+the ministry of Jesus Christ as a secular activity.7  The stinginess of the exemption 
+
+makes the structure of the act all the more baffling.  The mandate applies only to 
+
+employers that provide prescription coverage.  Thus, Catholic Charities can avoid 
+
+the mandate by dropping the coverage.  The state wants to make sure that women 
+
+are not burdened more than others.  Where employers cooperate, the WCEA will 
+
+reduce the inequitable financial burden of healthcare for women.  If religiously 
+
+affiliated employers are serious about their objections, however, women who work 
+
+for those employers could actually be worse off. 
+
+The only reasons given for narrowing the exemption so drastically is the 
+
+alleged concern that the exception could “swallow up” the rule because the 
+
+numbers of employees who work for secular organizations affiliated with 
+
+7  
+
+Even churches that do not operate schools, hospitals, or social service 
+
+agencies would have trouble with the WCEA’s religious test.  Not all religions 
+proselytize.  Those that do necessarily reach out to people who do not share their 
+beliefs.  Christian denominations, for example, are commanded to seek and save 
+the lost.  “Go ye into all the world and teach the gospel to every creature.”  (Mark 
+15:15.)  Catholic Charities suggest that some Catholic congregations might be 
+“ineligible for the exemption depending . . . upon the demographics of a particular 
+diocese, the fortuitous nature of hiring patterns, and the particular application of 
+the theological criteria . . . .” 
+
+18
+
+religious entities could easily approach several hundred thousand; the exemption 
+
+might deprive thousands of employees of access to nondiscriminatory health and 
+
+disability insurance; and a desire exists to extend coverage to as many people as 
+
+possible.  There are a few problems with this litany.  First, the act, as its structure 
+
+demonstrates and as the majority candidly admits, has nothing to do with access or 
+
+extending coverage.  “[T]he principal purpose of the WCEA . . . is not to facilitate 
+
+access to contraceptives but to eliminate a form of gender discrimination in the 
+
+provision of health benefits.”  (Maj. opn., ante, at pp. 43-44.)  Moreover, the 
+
+record provides no support for the claim that the exemption potentially affects 
+
+several hundred thousand employees. 
+
+Furthermore, employers have the option of self-insuring.  The Employee 
+
+Retirement Income Security Act preempts state regulation of self-insured 
+
+companies and “prohibits states from mandating benefits or defining 
+
+discrimination in self-insured employee benefit plans more broadly than federal 
+
+law.”  (Law, Sex Discrimination and Insurance for Contraception (1998) 73 
+
+Wash. L.Rev. 363, 395; 29 U.S.C. § 1001 et seq.)  Such employers would not only 
+
+not be subject to mandatory prescription coverage, they would not be subject to 
+
+any of California’s more restrictive insurance regulations.  Arguably, the existence 
+
+of these secular exemptions supports a religiously-affiliated-employer exemption 
+
+even under Smith.  The state would also need to show its refusal to countenance a 
+
+religious exception, in a regulatory arena rife with exceptions, is not “official 
+
+action that targets religious conduct for distinctive treatment.”  (Lukumi, supra, 
+
+508 U.S. at pp. 533-534.) 
+
+II. 
+
+Thus, whether the WCEA would survive strict scrutiny—even under the 
+
+relaxed federal standard—seems a much closer question than the majority 
+
+acknowledges.  But there may be other good reasons to rely on independent state 
+
+19
+
+grounds.  Changes in the interpretation of the federal charter are not only 
+
+becoming more frequent, the balancing test, and the standards applied to them, are 
+
+shifting.  Instead of applying Smith, we might view it as effectively returning free 
+
+exercise questions to the states. 
+
+A. 
+
+A Document of Independent Force 
+
+“We may take it for granted that the meaning of California Constitution 
+
+article I, section 4, . . . is not dependent on the meaning of any provision of the 
+
+federal Constitution.  The state charter declares in so many words  that ‘[r]ights 
+
+guaranteed by this Constitution are not dependent on those guaranteed by the 
+
+United States Constitution.’  (Cal. Const., art. I, § 24.)”  (Smith v. FEHC, supra, 
+
+12 Cal.4th at p. 1177.)  “Respect for our Constitution as ‘a document of 
+
+independent force’ [citation] forbids us to abandon settled applications of its terms 
+
+every time changes are announced in the interpretation of the federal charter.”  
+
+(People v. Pettingill (1978) 21 Cal.3d 231, 248, quoting People v. Brisendine 
+
+(1975) 13 Cal.3d 528, 549-550.) 
+
+This is true even when the language is identical to the federal Constitution, 
+
+but is particularly true when the language differs.  (See, e.g., Golden Gateway 
+
+Center v. Golden Gateway Tenants Assn. (2001) 26 Cal.4th 1013, 1019 [“Unlike 
+
+the United States Constitution, which couches the right to free speech as a limit on 
+
+congressional power (see U.S. Const., 1st Amend.), the California Constitution 
+
+gives ‘[e]very person’ an affirmative right to free speech.  [Citation.]  
+
+Accordingly, we have held that our free speech clause is ‘more definitive and 
+
+inclusive than the First Amendment’ ” (fn. omitted)].) 
+
+Similarly, although we have said California’s establishment clause is 
+
+coextensive with the federal provision (East Bay Asian Local Development Corp. 
+
+v. State of California (2000) 24 Cal.4th 693, 718), California’s free exercise clause 
+
+guarantees “free exercise and enjoyment of religion without discrimination or 
+
+20
+
+preference” and specifies that “liberty of conscience does not excuse acts that are 
+
+licentious or inconsistent with the peace and safety of the state.”  (Cal. Const., art. 
+
+I, § 4.)  We do not have to decide that this language literally embodies the strict 
+
+scrutiny test.  The drafting history of California’s free exercise clause is not clear 
+
+enough to resolve the question definitively.  Although the proponents of the 
+
+licentious acts clause may simply have wanted to preserve the ability of the state 
+
+to regulate specific practices they considered immoral or dangerous (Browne, Rep. 
+
+of the Debates in Convention of Cal. on Formation of State Const. (1850) p. 39), 
+
+that does not mean they thought the language was otherwise synonymous with the 
+
+language of the federal Constitution. 
+
+B. 
+
+The Compelling State Interest Analysis 
+
+The majority carefully avoids deciding whether strict scrutiny would be 
+
+required under the California Constitution.  Other states with very similar 
+
+constitutional liberty of conscience clauses have found that infringement requires 
+
+strict scrutiny.  (See, e.g., Humphrey v. Lane (Ohio 2000) 728 N.E.2d 1039, 1043 
+
+[holding that under the Ohio Constitution, “the standard for reviewing a generally 
+
+applicable, religion-neutral state regulation that allegedly violates a person’s right 
+
+to free exercise of religion is whether the regulation serves a compelling state 
+
+interest and is the least restrictive means of furthering that interest” and finding the 
+
+regulation at bar not the least restrictive]; State v. Hershberger (Minn. 1990) 462 
+
+N.W.2d 393 [under the Minnesota Constitution, neutral motor vehicle statute, 
+
+which burdened Amish religious exercise, failed compelling state interest test 
+
+since state failed to show lack of reasonable alternative means]; First Covenant 
+
+Church v. City of Seattle (Wash. 1992) 840 P.2d 174, 187 [statute that burdened 
+
+free exercise failed state compelling interest test under Washington Constitution 
+
+since the state’s interest was not of sufficient magnitude to outweigh free exercise 
+
+of religion].) 
+
+21
+
+At the very least, the constitutional weight of the state’s interest must be 
+
+affected by the size and severity of the problem the state is attempting to solve.  
+
+To authorize the state to use a howitzer to smite a gnat should be no part of our 
+
+constitutional jurisprudence.  Where strict scrutiny applies, the state “may abridge 
+
+religious practices only upon a demonstration that some compelling state interest 
+
+outweighs the defendants’ interests in religious freedom.”  (People v. Woody 
+
+(1964) 61 Cal.2d 716, 718 (Woody).) 
+
+It may also be true that “[s]ection 4 has not played an independent role in 
+
+free exercise claims” (Grodin et al., The Cal. State Constitution:  A Reference 
+
+Guide (1993) p. 44), but does that mean it should remain dormant?  In Woody, the 
+
+court relied on the First Amendment rather than the California provision, but in 
+
+doing so, the court applied strict scrutiny and insisted on a searching inquiry.  
+
+Under California law—at least up to now—the compelling state interest test had 
+
+bite and required the court to “weigh[] the competing values represented . . . on the 
+
+symbolic scale of constitutionality.”  (Woody, supra, 61 Cal.2d at p. 727.)  
+
+Untested assertions of a possible deleterious effect on a statutory scheme were not 
+
+sufficient.  (Id. at p. 724.)  In Woody, the court concluded that uniform 
+
+enforcement of neutral criminal drug laws (similar to the laws at issue in Smith) 
+
+was not a compelling reason to intrude upon sincere religious practices.  In 
+
+explaining why the interest in drug enforcement—while undeniably important—
+
+was not compelling enough, the court said:  “In a mass society, which presses at 
+
+every point toward conformity, the protection of self-expression, however unique, 
+
+of the individual and the group becomes ever more important.  The varying 
+
+currents of the subcultures that flow into the mainstream of our national life give it 
+
+depth and beauty.”  (Woody, at p. 727.)  These concerns should be heightened 
+
+when the government seeks to redefine the core theology of religious 
+
+organizations. 
+
+22
+
+Under the standard enunciated in Woody, the state has actually failed to 
+
+meet its burden.  The whole debate ensues because the state found that 
+
+“approximately 10 percent of commercially insured Californians do not have 
+
+coverage for prescription contraceptives.”  (Maj. opn., ante, at p. 2.)  Presumably 
+
+that 10 percent includes both men and women.  Still, it means that 90 percent of 
+
+Californians who are commercially insured do have such coverage!  The insurance 
+
+gap itself is not large, and Catholic Church employers can constitute only a small 
+
+percentage of that small percentage. 
+
+Moreover, even if we assume the interests at issue here are both compelling 
+
+and of equal weight, the Legislature’s refusal to grant a broader exemption—one 
+
+which would not embroil the government in the unseemly task of deciding what is 
+
+“religious”—is inexplicable.  The state has produced no substantial evidence that 
+
+the exemption of Catholic Charities from this particular mandate would render the 
+
+whole scheme ineffective or would be so administratively burdensome as to 
+
+preclude enforcement.  As petitioner poses the question:  “[I]f closing the Catholic 
+
+gap [was] not the problem,” how can “ ‘granting an exemption to Catholic 
+
+employers’ . . . ‘defeat the purpose of the bill’ ”?  There has been no showing that 
+
+the interests served by the WCEA—which focuses on a modest 10 percent gap in 
+
+coverage—cannot be achieved by less restrictive means. 
+
+CONCLUSION 
+
+Equality is one of those words, like justice, like freedom, which no one is 
+
+against.  But the invocation of the word “equality” often reduces analysis to empty 
+
+platitudes.  It is important to remember that in America we seek equality because 
+
+it is a concomitant of freedom.  When it is possible to accommodate both, that is 
+
+what we should do. 
+
+BROWN, J. 
+
+23
+

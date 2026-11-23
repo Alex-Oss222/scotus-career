@@ -1,0 +1,98 @@
+https://www.law.cornell.edu/supct/html/03-1395.ZS.html
+
+TENET V. DOE
+TENET V. DOE (03-1395) 329 F.3d 1135, reversed.Syllabus Opinion [ Rehnquist ]Concurrence [ Stevens ]Concurrence [ Scalia ]
+HTML versionPDF versionHTML versionPDF versionHTML versionPDF versionHTML versionPDF version
+NOTE: Where it is feasible, a syllabus (headnote) will be
+released, as is being done in connection with this case, at the
+time the opinion is issued.The syllabus constitutes no part
+of the opinion of the Court but has been prepared by the
+Reporter of Decisions for the convenience of the reader.See
+United States v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+SUPREME COURT OF THE UNITED
+STATES
+TENET et al. v. DOE et
+ux.
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE NINTH CIRCUIT
+No. 03—1395.Argued January 11,
+2005–Decided March 2, 2005
+Respondent husband and wife filed suit
+against the United States and the Director of the Central
+Intelligence Agency (CIA), asserting estoppel and due process
+claims for the CIA’s alleged failure to provide them with
+financial assistance it had promised in return for their
+espionage services during the Cold War.  The District Court
+denied the Government’s motions to dismiss and for summary
+judgment, finding that respondents’ claims were not barred
+by the rule of Totten v. United States, 92 U.S. 105,
+prohibiting suits against the Government based on covert
+espionage agreements.  Affirming in relevant part, the Ninth
+Circuit reasoned that Totten posed no bar to reviewing
+some of respondents’ claims and thus the case could
+proceed to trial, subject to the Government’s asserting
+the evidentiary state secrets privilege and the District
+Court’s resolving that issue.
+Held: Respondents’ suit is
+barred by the Totten rule.  In Totten, this
+Court concluded with no difficulty that the President had
+the authority to bind the United States to contracts with
+secret agents, observed that the very essence of such a
+contract was that it was secret and had to remain so, and found
+that allowing a former spy to bring suit to enforce such a
+contract would be entirely incompatible with the
+contract’s nature.  The Ninth Circuit was quite wrong in
+holding that Totten does not require dismissal of
+respondents’ claims.  It reasoned that Totten
+developed merely a contract rule, prohibiting
+breach-of-contract claims seeking to enforce an espionage
+agreement’s terms but not barring due process or estoppel
+claims.  However, Totten was not so limited.  It
+precludes judicial review in cases such as respondents’
+where success depends on the existence of their secret
+espionage relationship with the Government.  Id., at
+107.  The Ninth Circuit also claimed that Totten had
+been recast simply as an early expression of the evidentiary
+“state secrets” privilege, rather than a categorical
+bar to respondents’ claims, relying mainly on United
+States v. Reynolds, 345 U.S. 1, in which
+widows of civilians killed in a military plane crash sought
+privileged military information in their wrongful death action
+against the Government.  While the Reynolds Court looked
+to Totten in invoking the “well established”
+state secrets privilege, it in no way signaled a retreat from
+Totten’s broader holding that lawsuits premised on
+alleged espionage agreements are altogether forbidden.	The
+Court later credited Totten’s more sweeping holding
+in Weinberger v. Catholic Action of Haw./Peace Ed.
+Project, 454 U.S.
+139, 146—147, thus confirming its continued validity.
+Reynolds therefore cannot plausibly be read to have
+replaced Totten’s categorical bar in the distinct
+class of cases that depend upon clandestine spy relationships.
+Nor does Webster v. Doe, 486 U.S. 592, which
+addressed constitutional claims made by acknowledged (though
+covert) CIA employees, support respondents’ claim.  Only
+in the case of an alleged former spy is Totten’s
+core concern implicated: preventing the existence of the
+plaintiff’s relationship with the Government from being
+revealed.  The state secrets privilege and the use of in
+camera judicial proceedings simply cannot provide the
+absolute protection the Court found necessary in enunciating
+the Totten rule.  The possibility that a suit may
+proceed and an espionage relationship may be revealed is
+unacceptable.  Forcing the Government to litigate these claims
+would also make it vulnerable to “graymail,”
+i.e., individual lawsuits brought to induce the CIA to
+settle a case out of fear that litigation would reveal
+classified information that might undermine covert operations.
+And requiring the Government to invoke the privilege on a
+case-by-case basis risks the perception that it is either
+confirming or denying relationships with individual plaintiffs.
+Pp. 5—10.
+329 F.3d 1135, reversed.
+Rehnquist,
+C. J., delivered the opinion for a unanimous Court.
+Stevens, J., filed a concurring opinion, in which Ginsburg, J.,
+joined.  Scalia, J., filed a concurring opinion.

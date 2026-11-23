@@ -1,0 +1,7 @@
+# Chunk 4 assembly forms, before assignment
+
+Dowhal: one signed plenary opinion. Part I construes the initiative saving provision and contextual misbranding authority; Part II applies the specific federal decision to the identified warning claim. The four Associates seeking further comparison join Part I and dissent from Part II and the judgment. One shared partial dissent explains that application disagreement. These real legal divisions, not counts, determine the form.
+
+Johnson, No. 03-636: one signed plenary opinion. Part I selects and states common substantial justification for express racial housing classifications; Part II vacates for application under that burden; Part III separates the damages defense and prospective-relief requirements. Stevens joins Parts I and III, but would resolve policy invalidity now and dissents from Part II's limited mandate. Scalia and Thomas dissent on the prison-specific governing rule and disposition. These real legal divisions precede author selection.
+
+Roper: one signed plenary opinion resolves the age category, precedent treatment and actual state judgment. Two dissents preserve the distinct proportionality/evidence ground and the different methodological ground. No separate concurrence is needed to repeat the Court's own interpretive rationale. The ordinary explanation ceiling applies. Assignment will occur only after the earlier same-date Cherokee Nation and Petro-Hunt Records are preserved.
