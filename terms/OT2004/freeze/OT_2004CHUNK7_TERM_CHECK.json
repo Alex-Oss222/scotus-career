@@ -1,0 +1,70 @@
+{
+  "operation": "original deterministic term checker with explicit history omission",
+  "non_history_exit_code": 0,
+  "inventory_rows_recognized": 105,
+  "inventory_regex_adapter": "second column accepts the supplied OT_yearCHUNKn labels",
+  "history_references_not_verified": [],
+  "helper_runs_in_process": [
+    {
+      "tool": "holdings_volumes.py",
+      "mode": "check",
+      "returncode": 0
+    },
+    {
+      "tool": "split_chunk.py",
+      "mode": "--check",
+      "returncode": 0
+    },
+    {
+      "tool": "split_chunk.py",
+      "mode": "--check",
+      "returncode": 0
+    },
+    {
+      "tool": "split_chunk.py",
+      "mode": "--check",
+      "returncode": 0
+    },
+    {
+      "tool": "split_chunk.py",
+      "mode": "--check",
+      "returncode": 0
+    },
+    {
+      "tool": "split_chunk.py",
+      "mode": "--check",
+      "returncode": 0
+    },
+    {
+      "tool": "split_chunk.py",
+      "mode": "--check",
+      "returncode": 0
+    },
+    {
+      "tool": "split_chunk.py",
+      "mode": "--check",
+      "returncode": 0
+    },
+    {
+      "tool": "split_chunk.py",
+      "mode": "--parse-only",
+      "returncode": 0
+    },
+    {
+      "tool": "split_chunk.py",
+      "mode": "--parse-only",
+      "returncode": 0
+    },
+    {
+      "tool": "split_chunk.py",
+      "mode": "--parse-only",
+      "returncode": 0
+    }
+  ],
+  "checker_stdout": "NON-HISTORY CHECKS PASSED: OT2004; 0 warning(s)\n",
+  "checker_stderr": "",
+  "history_commands_executed": 0,
+  "child_processes_launched": 0,
+  "history_status": "SKIPPED by instruction; not passed or verified",
+  "governing_tools_modified": false
+}

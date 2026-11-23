@@ -1,0 +1,121 @@
+[
+  {
+    "case": "pasquantino",
+    "writing": "ZS",
+    "url": "https://www.law.cornell.edu/supct/html/03-725.ZS.html",
+    "bytes": 14841,
+    "sha256": "5cc48acf84bf67c8c2b45f3fc65ae81d6c284750d11117e91856ed1c786837df"
+  },
+  {
+    "case": "pasquantino",
+    "writing": "ZO",
+    "url": "https://www.law.cornell.edu/supct/html/03-725.ZO.html",
+    "bytes": 53061,
+    "sha256": "fbc4babbadd17ffd5e1c9506992891ad93382aac155147f4f3f3c847eebc76b6"
+  },
+  {
+    "case": "pasquantino",
+    "writing": "ZD",
+    "url": "https://www.law.cornell.edu/supct/html/03-725.ZD.html",
+    "bytes": 32896,
+    "sha256": "27a1cc2e6e8b8613b0f839c7a77840598c0f7252a653fd07795030d61cbcfebd"
+  },
+  {
+    "case": "small",
+    "writing": "ZS",
+    "url": "https://www.law.cornell.edu/supct/html/03-750.ZS.html",
+    "bytes": 8804,
+    "sha256": "9e09d60583297176202582900ebd42d816e3faf8db787d8da2873309febea126"
+  },
+  {
+    "case": "small",
+    "writing": "ZO",
+    "url": "https://www.law.cornell.edu/supct/html/03-750.ZO.html",
+    "bytes": 22020,
+    "sha256": "7725d402b55b97b5585e72eba2491b85cb68aef9e6a5266b1b2e44a94e4955b4"
+  },
+  {
+    "case": "small",
+    "writing": "ZD",
+    "url": "https://www.law.cornell.edu/supct/html/03-750.ZD.html",
+    "bytes": 35092,
+    "sha256": "5b7ca7352364aa013eb6b362fb801fe31d924bb4a950d84ec2091c06746b15e3"
+  },
+  {
+    "case": "pace",
+    "writing": "ZS",
+    "url": "https://www.law.cornell.edu/supct/html/03-9627.ZS.html",
+    "bytes": 7726,
+    "sha256": "5750e14ed9eecdaf13d5dd95a74c51d3bba12ce65edec8ab8e41e81464feab6f"
+  },
+  {
+    "case": "pace",
+    "writing": "ZO",
+    "url": "https://www.law.cornell.edu/supct/html/03-9627.ZO.html",
+    "bytes": 29507,
+    "sha256": "d74c4861a8784e0d8ed409723c6a9fbe6d306ca280199b3b84cf7e22c0444191"
+  },
+  {
+    "case": "pace",
+    "writing": "ZD",
+    "url": "https://www.law.cornell.edu/supct/html/03-9627.ZD.html",
+    "bytes": 28413,
+    "sha256": "678e7251b4e3cb3d03834452f766445c0e4863fa511c223c52d39d37de6dc3c6"
+  },
+  {
+    "case": "bates",
+    "writing": "ZS",
+    "url": "https://www.law.cornell.edu/supct/html/03-388.ZS.html",
+    "bytes": 11406,
+    "sha256": "c9bed0c7fe8d8541871bf84685c64f5683aed6c920fc7b4ce0cb24d9845a9e42"
+  },
+  {
+    "case": "bates",
+    "writing": "ZO",
+    "url": "https://www.law.cornell.edu/supct/html/03-388.ZO.html",
+    "bytes": 54331,
+    "sha256": "b03231ac0369d4f4e0bb075a3aa4118d3a50d99662377fe8a40062b14b1d64f8"
+  },
+  {
+    "case": "bates",
+    "writing": "ZC",
+    "url": "https://www.law.cornell.edu/supct/html/03-388.ZC.html",
+    "bytes": 5863,
+    "sha256": "76eeeba73c39c5062aef31658563ac1db85355724dcaa0ebd756d6712218c6e4"
+  },
+  {
+    "case": "bates",
+    "writing": "ZX",
+    "url": "https://www.law.cornell.edu/supct/html/03-388.ZX.html",
+    "bytes": 12474,
+    "sha256": "ef425d323026d81e81d36a0ac22fbed2fe788cfb383a83ef0ac60fd3d7cdd516"
+  },
+  {
+    "case": "granholm",
+    "writing": "ZS",
+    "url": "https://www.law.cornell.edu/supct/html/03-1116.ZS.html",
+    "bytes": 16663,
+    "sha256": "50a58cdc723f3f69950f9531b0ce37004dd0a038c59ff4ffbdebd6707e04b3d3"
+  },
+  {
+    "case": "granholm",
+    "writing": "ZO",
+    "url": "https://www.law.cornell.edu/supct/html/03-1116.ZO.html",
+    "bytes": 67355,
+    "sha256": "16ad6e77684548e7c5e7604382ebc468af521af18108b972138a83cf282ac004"
+  },
+  {
+    "case": "granholm",
+    "writing": "ZD",
+    "url": "https://www.law.cornell.edu/supct/html/03-1116.ZD.html",
+    "bytes": 13024,
+    "sha256": "0976cd8893b1e490d7c67239a69b61262e3b4f2040ec3e233fead4d8c8929735"
+  },
+  {
+    "case": "granholm",
+    "writing": "ZD1",
+    "url": "https://www.law.cornell.edu/supct/html/03-1116.ZD1.html",
+    "bytes": 77500,
+    "sha256": "0b6a1cc6eb0c1233e96cf9e87098fd42258c51f8c2d5a817216287301ec9af93"
+  }
+]

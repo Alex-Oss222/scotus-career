@@ -1,0 +1,265 @@
+
+
+GRANHOLM V. HEALD
+
+LII
+
+Supreme Court
+
+GRANHOLM V. HEALD (03-1116) 
+Nos. 03—1116 and 03—1120, 342 F.3d 517, affirmed; No. 03—1274, 358 F.3d 223, reversed and remanded.
+Syllabus
+ Opinion
+ [ Kennedy ]Dissent
+ [ Stevens ]Dissent
+ [ Thomas ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be
+released, as is being done in connection with this case, at the
+time the opinion is issued.
+The syllabus constitutes no part
+of the opinion of the Court but has been prepared by the
+Reporter of Decisions for the convenience of the reader.
+See
+United States v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+GRANHOLM, GOVERNOR OF MICHIGAN, et al.
+v. HEALD et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE SIXTH CIRCUIT
+
+No. 03—1116.Argued December 7,
+2004–Decided May 16, 2005*
+
+Michigan and New York regulate the sale and
+importation of wine through three-tier systems requiring
+separate licenses for producers, wholesalers, and retailers. 
+These schemes allow in-state, but not out-of-state, wineries to
+make direct sales to consumers.  This differential treatment
+explicitly discriminates against interstate commerce by
+limiting the emerging and significant direct-sale business. 
+Influenced by an increasing number of small wineries and a
+decreasing number of wine wholesalers, direct sales have grown
+because small wineries may not produce enough wine or have
+sufficient consumer demand for their wine to make it economical
+for wholesalers to carry their products.  In Nos. 03—1116
+and 03—1120, Michigan residents, joined by an intervening
+out-of-state winery, sued Michigan officials, claiming that the
+State’s laws violate the Commerce Clause.	The State and
+an intervening in-state wholesalers association responded that
+the direct-shipment ban was a valid exercise of Michigan’s
+power under the Twenty-first Amendment.  The District Court
+sustained the scheme, but the Sixth Circuit reversed, rejecting
+the argument that the Twenty-first Amendment immunizes state
+liquor laws from Commerce Clause strictures and holding that
+there was no showing that the State could not meet its
+proffered policy objectives through nondiscriminatory means. 
+In No. 03—1274, out-of-state wineries and their New York
+customers filed suit against state officials, seeking, inter
+alia, a declaration that the State’s direct-shipment
+laws violate the Commerce Clause.  State liquor wholesalers and
+retailers’ representatives intervened in support of the
+State.	The District Court granted the plaintiffs summary
+judgment, but the Second Circuit reversed, holding that New
+York’s laws fell within the ambit of its powers under the
+Twenty-first Amendment.  Here, respondents in the Michigan
+cases and petitioners in the New York case are referred to as
+the wineries, while the opposing parties are referred to as the
+States.
+
+Held: Both States’ laws
+discriminate against interstate commerce in violation of the
+Commerce Clause, and that discrimination is neither authorized
+nor permitted by the Twenty-first Amendment. 
+Pp. 8—30.
+
+    (a) This Court
+has long held that, in all but the narrowest circumstances,
+state laws violate the Commerce Clause if they mandate
+“differential treatment of in-state and out-of-state
+economic interests that benefits the former and burdens the
+latter.”  Oregon Waste Systems, Inc. v.
+Department of Environmental Quality of Ore., 511 U.S. 93, 99.  Laws
+such as those at issue contradict the principles underlying
+this rule by depriving citizens of their right to have access
+to other States’ markets on equal terms.  The Michigan
+system’s discriminatory character is obvious.  It allows
+in-state wineries to ship directly to consumers, subject only
+to a licensing requirement, but out-of-state wineries, even if
+licensed, must go through a wholesaler and retailer.  The
+resulting price differential, plus the possible inability to
+secure a wholesaler for small shipments, can effectively bar
+small wineries from Michigan’s market.  New York’s
+scheme also grants in-state wineries access to state consumers
+on preferential terms.	It allows in-state wineries to ship
+directly to consumers, but requires an out-of-state winery to
+open a New York branch office and warehouse, which drives up
+its costs.  Out-of-state wineries are also ineligible for a
+“farm winery” license, which provides the most direct
+means of shipping to New York consumers. 
+Pp. 8—12.
+
+      (b) Section
+2 of the Twenty-first Amendment does not allow States to
+regulate direct shipment of wine on terms that discriminate in
+favor of in-state producers.  The States’ position is
+inconsistent with this Court’s precedents and the
+Amendment’s history.  Pp. 12—26.
+
+        (1) This
+Court invalidated many state liquor regulations before the Eighteenth
+Amendment’s ratification, finding either that the
+Commerce Clause prevented States from discriminating against
+imported liquor, Scott v. Donald, 165 U.S. 58, or that
+States could not pass facially neutral laws that placed an
+impermissible burden on interstate commerce, Bowman v.
+Chicago & Northwestern R. Co., 125 U.S. 465.  While
+States could ban domestic liquor production, Mugler v.
+Kansas, 123
+U.S. 623, such laws were ineffective because they could not
+regulate imported liquor in its original package, Leisy
+v. Hardin, 135
+U.S. 100.  To resolve this matter, Congress passed the
+Wilson Act, which empowered the States to regulate imported
+liquor on the same terms as domestic liquor.  After this Court
+narrowly construed the Act to permit regulation of the resale
+of imported liquor, not its direct shipment to consumers,
+Rhodes v. Iowa, 170 U.S. 412,
+Congress passed the Webb-Kenyon Act to close the
+direct-shipment loophole, see Clark Distilling Co. v.
+Western Maryland R. Co., 242 U.S. 311. 
+The States argue that the Webb-Kenyon Act went further,
+removing any barrier to discriminatory state liquor
+regulations, but that reading conflicts with Clark
+Distilling’s description of the Webb-Kenyon Act’s
+purpose, which was simply to extend the Wilson Act.  Nor
+does the statute’s text compel a different response.  At
+the very least, it expresses no clear congressional intent to
+depart from the principle disfavoring discrimination against
+out-of-state goods.  Last, and most importantly, the
+Webb-Kenyon Act did not purport to repeal the Wilson Act, which
+expressly precludes state discrimination.  The Wilson Act
+reaffirmed, and the Webb-Kenyon Act did not displace, the
+Court’s Commerce Clause cases striking down state laws
+that discriminated against out-of-state liquor.  States were
+required to regulate domestic and imported liquor on equal
+terms.	Pp. 12—21.
+
+        (2) A
+brief respite from these legal battles brought on by the Eighteenth
+Amendment’s ratification ended with the Twenty-first
+Amendment.  The States contend that §2 of the Twenty-first
+Amendment transfers to States the authority to discriminate
+against out-of-state goods, but the pre-Amendment history
+recited here provides strong support for the view that §2
+only restored to the States the powers they had under the
+Wilson and Webb-Kenyon Acts.  The Twenty-first Amendment’s
+aim was to allow States to maintain an effective and uniform
+system for controlling liquor by regulating its transportation,
+importation, and use.  It did not give States the authority to
+pass nonuniform laws in order to discriminate against
+out-of-state goods, a privilege they never enjoyed.  Cases
+decided soon after the Twenty-first Amendment’s
+ratification did not take account of the underlying history and
+were inconsistent with this view, e.g., State Bd. of
+Equalization of Cal. v. Young’s Market Co., 299 U.S. 59, but the
+Court’s reluctance to consider this history did not
+reflect a consensus that such evidence was irrelevant or that
+prior history was unsupportive of the principle that the
+Amendment did not authorize discrimination against out-of-state
+liquor.  More recent cases confirm that the Twenty-first
+Amendment does not supersede other provisions of the
+Constitution and, in particular, does not displace the rule
+that States may not give a discriminatory preference to their
+own producers.	Pp. 21—23.
+
+        (3) This
+Court has held, in the modern §2 cases, (1) that state
+laws violating other provisions of the Constitution are not
+saved by the Twenty-first Amendment, e.g., 44 Liquormart,
+Inc. v. Rhode Island, 517 U.S. 484, (2)
+that §2 does not abrogate Congress’ Commerce Clause
+powers with regard to liquor, e.g., Capital Cities
+Cable, Inc. v. Crisp, 467 U.S. 691, and (3)
+as most relevant here, that state regulation of alcohol is
+limited by the Commerce Clause’s nondiscrimination
+principle, e.g., Bacchus Imports, Ltd. v.
+Dias, 468 U.S.
+263, 276.  Bacchus, which dealt with a Hawaii excise
+tax exempting some in-state alcoholic beverages, provides a
+particularly telling example of this last proposition, and this
+Court declines the States’ suggestion to overrule or limit
+that case.  The decision to invalidate the instant
+direct-shipment laws also does not call into question their
+three-tier systems’ constitutionality, see North
+Dakota v. United States, 495 U.S. 423, 432. 
+State policies are protected under the Twenty-first Amendment
+when they treat liquor produced out of state the same as its
+domestic equivalent.  In contrast, the instant cases involve
+straightforward attempts to discriminate in favor of local
+producers.  Pp. 23—26.
+
+    (c) Concluding that the
+States’ direct-shipment laws are not authorized by the
+Twenty-first Amendment does not end the inquiry, for this Court
+must still consider whether either State’s regime
+“advances a legitimate local purpose that cannot be
+adequately served by reasonable nondiscriminatory
+alternatives,” New Energy Co. of Ind. v.
+Limbach, 486
+U.S. 269, 278.  The States provide little evidence for
+their claim that purchasing wine over the Internet by minors is
+a problem.  The 26 States now permitting direct shipments
+report no such problem, and the States can minimize any risk
+with less restrictive steps, such as requiring an adult
+signature on delivery.	The States’ tax evasion
+justification is also insufficient.  Increased direct shipment,
+whether in or out of state, brings the potential for tax
+evasion.  However, this argument is a diversion with regard to
+Michigan, which does not rely on in-state wholesalers to
+collect taxes on out-of-state wines.  New York’s tax
+collection objectives can be achieved without discriminating
+against interstate commerce, e.g., by requiring a permit
+as a condition of direct shipping, which is what it does for
+in-state wineries.  Both States also benefit from federal laws
+that supply incentives for wineries to comply with state
+regulations.  Other rationales–facilitating orderly market
+conditions, protecting public health and safety, and ensuring
+regulatory accountability–can also be achieved through the
+alternative of an evenhanded licensing requirement.  Pp.
+26—29.
+
+Nos. 03—1116 and 03—1120, 342 F.3d
+517, affirmed; No. 03—1274, 358 F.3d 223, reversed and
+remanded.
+
+    Kennedy, J.,
+delivered the opinion of the Court, in which Scalia, Souter,
+Ginsburg, and Breyer, JJ., joined.  Stevens, J., filed a
+dissenting opinion, in which O’Connor, J., joined. 
+Thomas, J., filed a dissenting opinion, in which Rehnquist,
+C. J., and Stevens and O’Connor, JJ., joined.
+
+Notes
+
+*.  Together with No. 03—1120,
+Michigan Beer & Wine Wholesalers Assn. v. Heald et
+al., also on certiorari to the same court, and No.
+03—1274, Swedenburg et al. v. Kelly, Chairman,
+New York Division of Alcoholic Beverage Control, State Liquor
+Authority, et al., on certiorari to the United States Court
+of Appeals for the Second Circuit. 
+

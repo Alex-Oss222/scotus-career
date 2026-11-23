@@ -1,0 +1,1141 @@
+1
+United States Court of Appeals
+Fifth Circuit 
+FILED
+June 28, 2004
+Charles R. Fulbruge III
+Clerk
+REVISED JULY 9, 2004
+IN THE UNITED STATES COURT OF APPEALS 
+FOR THE FIFTH CIRCUIT
+______________________
+No. 03-60529
+______________________ 
+NAZARETH GATES, etc., ET AL
+Plaintiffs
+versus
+THOMAS D. COOK, etc., ET AL
+Defendants
+________________________________________________________
+WILLIE RUSSELL, Etc., ET AL
+                                                       Plaintiffs
+WILLIE RUSSELL, on his own behalf and on behalf of those
+similarly situated; SHERWOOD BROWN, on his own behalf and on
+behalf of those similarly situated; KEVIN JORDAN, on his own
+behalf and on behalf of those similarly situated; JOHN NIXON, on
+his own behalf and on behalf of those similarly situated; PAUL
+WOODWARD, on his own behalf and on behalf of those similarly
+situated 
+Plaintiffs-Appellees
+versus
+ROBERT L. JOHNSON, COMMISSIONER, MISSISSIPPI DEPARTMENT OF
+CORRECTIONS, in his official capacity; CHRISTOPHER EPPS, Deputy
+Commissioner, Mississippi Department of Corrections, in his
+official capacity; EMMITT L. SPARKMAN, Superintendent,
+Mississippi State Penitentiary, in his official capacity; JESSIE
+STREETER, Warden, Area IV, Mississippi State Penitentiary, in his
+official capacity; LARRY D. HARRIS, Captain, Unit Administrator,
+Unit 32, Mississippi State Penitentiary, in his official capacity
+Defendants-Appellants 
+__________________________________________________ 
+Appeal from the United States District Court for
+the Northern District of Mississippi, Eastern Division
+___________________________________________________ 
+1  Russell filed a motion to dismiss the appeal, arguing
+that this court was without jurisdiction because the order from
+which MDOC appeals was inherently tentative.  We disagree.  In
+addition to having jurisdiction to review final decisions of
+district courts, 28 U.S.C. § 1291, this court has jurisdiction to
+review interlocutory decisions “granting, continuing, modifying,
+refusing or dissolving injunctions.”  28 U.S.C. § 1292(a)(1). 
+The order from which MDOC appeals is the “Final Judgment” issued
+on May 21, 2003.  That order imposes ten detailed injunctive
+requirements on MDOC.  As Russell points out, the order also
+requires MDOC to report its “progress in meeting the remedial
+actions” on July 7.  The requirement of a progress report does
+not change the fact that the May 21st order grants injunctions
+against Mississippi requiring immediate action.  In fact, this
+court granted MDOC a stay of this injunctive order to relieve
+MDOC from the burden of compliance pending appeal.  In short, the
+May 21st order qualifies as an order granting an injunction;
+thus, this court has jurisdiction pursuant to 28 U.S.C. §
+1292(a)(1), and Russell’s motion to dismiss for lack of
+2
+Before DEMOSS, DENNIS, and PRADO, Circuit Judges. 
+DENNIS, Circuit Judge:
+Willie Russell (“Russell”) brought suit in the Northern
+District of Mississippi against officials of the Mississippi
+Department of Corrections (“MDOC”) on behalf of himself and other
+prisoners confined to Death Row, or Unit 32-C, in the Mississippi
+State Penitentiary in Parchman, Mississippi.  Russell alleges that
+certain conditions of confinement on Death Row violate the Eighth
+Amendment’s prohibition against cruel and unusual punishment.  By
+consent of the parties, the case was tried to the magistrate judge,
+who found several Eighth Amendment violations and entered
+injunctions designed to alleviate those conditions.  MDOC
+appealed.1  We affirm in part and vacate in part.2
+jurisdiction is denied.
+2  As mentioned in Footnote 1, this court previously granted
+MDOC’s motion for a stay of the injunctive relief pending appeal. 
+On March 31, 2004, Russell filed a motion to lift that stay.  Due
+to the filing of this opinion, the stay pending appeal is vacated
+and Russell’s motion to lift the stay is denied as moot.
+3
+BACKGROUND
+Russell argues that the prisoners housed on Death Row are
+knowingly and deliberately subjected to profound isolation, lack of
+exercise, stench and filth, malfunctioning plumbing, high
+temperatures, uncontrolled mosquito and insect infestations, a lack
+of sufficient mental health care, and exposure to psychotic inmates
+in adjoining cells.  On May 21, 2003, the trial court issued a
+“Memorandum Opinion” containing its findings of fact and
+conclusions of law in which the court found that a number of the
+conditions alleged by Russell violated the Eighth Amendment’s
+prohibition against cruel and unusual punishment.  That same day,
+the court also issued a “Final Judgment” in which it mandated that
+MDOC comply with injunctive relief designed to alleviate those
+conditions.  MDOC timely appealed.  The trial court denied MDOC’s
+motion for a stay pending appeal.  MDOC then filed a motion for
+stay pending appeal with this court; we granted MDOC’s motion.
+ANALYSIS
+Should this case be dismissed because it was not brought in
+accordance with the Gates v. Collier class action framework?
+4
+MDOC first argues that this case should have been brought
+under the framework for enforcing injunctive relief on the
+Mississippi prison system provided by Gates v. Collier, 501 F.2d
+1291 (5th Cir 1974).  MDOC bases this argument on this court’s
+decision in Gillespie v. Crawford, 858 F.2d 1101 (5 th Cir 1998).
+The plaintiff in Gillespie attempted to bring suit in federal
+district court challenging prison conditions in Texas state prison.
+At that time, a separate district court still retained jurisdiction
+over Ruiz v. Estelle, 503 F. Supp. 1265 (S.D. Tex. 1980), a class
+action that successfully challenged unconstitutional Texas prison
+conditions, to monitor the prison system until the injunctions
+issued in Ruiz had been met. See Gillespie, 858 F.2d at 1102.  The
+Gillespie court stated:
+Separate individual suits may not be maintained for
+equitable relief from allegedly unconstitutional
+Texas prison conditions. To allow individual suits
+would interfere with the orderly administration of
+the class action and risk inconsistent
+adjudications. Individual members of the class and
+other prisoners may assert any equitable or
+declaratory claims they have, but they must do so
+by urging further action through the class
+representative and attorney, including contempt
+proceedings, or by intervention in the class
+action.
+Id. at 1103.
+Gates involved alleged constitutional deficiencies in the
+Mississippi prison system, and in 1998, after twenty-five years of
+oversight, the District Court for the Northern District of
+5
+Mississippi finally dismissed the action from its inactive docket
+as to state-owned, state-operated, and private-company-contracted
+facilities (not as to county facilities), complimenting the state
+on its compliance with prior orders.  No. GC-71-6.  The court
+stated:
+This dismissal shall be without prejudice for the
+plaintiffs, through counsel, to petition the Court
+to reopen the case or a portion thereof in order to
+enforce, amend, or seek additional injunctive
+relief. … This dismissal shall not apply to any
+order of the court with respect to the payment of
+attorneys fees and costs/expenses to plaintiffs’
+counsel, who shall, post-dismissal, continue to
+monitor compliance in state-owned, state-operated,
+and private-company-contracted facilities….  [T]he
+court finds and concludes that the rule of
+[Gillespie] will continue to apply in this case
+with respect to prisoners in state-owned, state-
+operated, and private-company-contracted
+facilities, and the court will continue to forward
+such prisoner petitions to plaintiffs’ class
+counsel.
+No. GC-71-6.  Thus, in writing this dismissal order for Gates, the
+court apparently assumed that Gates was the sole vehicle for future
+prisoner complaints.  Although Russell argues that the court only
+intended Gates as an option for seeking future equitable relief,
+the court’s invoking the rule of Gillespie indicates that it was
+meant to be the sole vehicle.
+But it does not appear that the reasoning of Gillespie is
+applicable here.  The Gillespie court justified its rule as
+follows:
+6
+Permitting multiple courts to entertain equitable
+claims and issue decrees that might affect the
+Texas prison system would require other courts to
+become familiar with the Ruiz decree, the current
+problems of the Texas prison system, and the
+possible disruptive effect of the exercise of
+equitable powers over matters covered by the Ruiz
+decree. Moreover, if separate suits for equitable
+relief are filed in other districts than that in
+which Ruiz is pending, even with respect to
+problems not encompassed by the relief granted in
+Ruiz, the court's orders may hobble the effect of
+the Ruiz court's continuing decree over the Texas
+prison system and its power both to enforce and to
+modify that decree.
+Id. at 1103.  As this passage illustrates, the Gillespie court was
+concerned with avoiding the inefficiency of a situation in which
+multiple courts would be forced to familiarize themselves with the
+problems of the Texas prison system.  Similarly, the court was
+concerned with the increased confusion and decreased effectiveness
+that would likely arise if multiple district courts were
+simultaneously exercising equitable powers over the state prison
+system.
+In the present case, the district court judge who was the
+author of the Gates dismissal order assigned this case to this
+magistrate judge in light of this magistrate’s previous experience
+with Gates.  Thus, we are not here faced with either the problem of
+a new district court being forced to get up to speed on the
+factually-intensive problems of the state prison system or with the
+problem of multiple district courts simultaneously exercising
+7
+equitable powers over the prison system.  Additionally, the
+magistrate judge purported to consolidate this case with Gates
+after certifying the death row inmates as a subclass of Gates.
+MDOC argues that this is not sufficient, citing cases stating that
+“consolidation does not merge [multiple] suits into a single
+cause.”  See, e.g.,Johnson v. Manhattan R. Co., 289 U.S. 479
+(1933).  Nevertheless, because of the consolidation and because the
+same judge has jurisdiction over the present action and Gates, the
+problems addressed by the Gillespie court are not present here.  
+MDOC points out that the Gates class counsel and class
+representative are not being utilized.  But MDOC does not
+articulate what difference that makes, and we find it to be of no
+import.  In fact, this court has already recognized that it may be
+proper for different counsel to represent a Gates subclass.  See
+Gates v. Cook, 234 F.3d 221, 227-30 (5th Cir 2000) (reversing the
+district court’s denial of a motion for substitution of counsel by
+a Gates subclass comprised of HIV-positive prisoners in the
+Mississippi prison system).  Because this case was dealt with by
+the same court and judge who dealt with Gates and was consolidated
+with Gates, the concerns behind Gillespie are not present here and
+there is thus not any reason to dismiss this case.
+Should this case have been dismissed because of the class members’
+alleged failure to exhaust administrative remedies?
+8
+MDOC argues that the judgment should be vacated and the case
+dismissed because the trial court did not require all of the
+inmates who are members of the present class to exhaust their
+administrative remedies.  The plaintiffs respond that the named
+plaintiff, Russell, did exhaust his administrative remedies, and
+that no more is required.  MDOC disputes the plaintiffs’ contention
+that Russell exhausted his administrative remedies.
+The Prison Litigation Reform Act (“PLRA”) mandates that “[n]o
+action shall be brought with respect to prison conditions ... by a
+prisoner ... until such administrative remedies as are available
+are exhausted.”  42 U.S.C.A. § 1997e(a).  The Supreme Court has
+held that “the PLRA’s exhaustion requirement applies to all inmate
+suits about prison life, whether they involve general circumstances
+or particular episodes.”  Porter v. Nussle, 534 U.S. 516, 532
+(2002).  The Court made clear that exhaustion is now mandatory.
+Id. at 524.  This court has held that the available administrative
+remedy must be pursued to its conclusion.  Wright v. Hollingsworth,
+260 F.3d 357 (5th Cir 2001).  Thus, if the plaintiffs did not
+exhaust administrative remedies, this suit should be dismissed.
+The trial court found that Russell was the only class member
+who had completed the MDOC Administrative Remedy Program (“ARP”).
+If true, this is enough to satisfy the requirement for the class.
+See, e.g., Oatis v. Crown Zellerbach Corp., 398 F.2d 496, 498-99
+(5th Cir. 1968) (exhaustion of remedies requirement satisfied for
+3 The ARP rules indicate that the letter should state that it
+is a request for an administrative remedy and should present as
+many facts as possible.
+9
+class action if named plaintiff representing class exhausted
+remedies); 7A CHARLES ALAN WRIGHT, ARTHUR R. MILLER & MARY KAY KANE, FEDERAL
+PRACTICE AND PROCEDURE: CIVIL 2d § 1776 (2d ed. 1986) (“[W]hen
+prospective relief is the primary remedy being sought, a
+representative who has exhausted his administrative remedies may
+bring a class suit on behalf of those who have not done so.”).
+Thus, if Russell completed the ARP, exhausting administrative
+remedies, this case was ripe for adjudication.  Again, the trial
+court found that Russell had completed the ARP and that the record
+adequately reflected Russell’s and his counsel’s steps taken
+through the administrative remedy process.  MDOC disagrees.
+MDOC maintains that the ARP is a three-step process: 1) the
+inmate writes a letter3 to the Superintendent/Deputy Commissioner
+in care of the Legal Claims Adjudicator that is referred to a
+respondent by the Legal Claims Adjudicator; 2) if dissatisfied, the
+inmate may request relief from the Superintendent/Deputy
+Commissioner; 3) if dissatisfied, the inmate may appeal to the
+Commissioner in care of the ARP Administrator.  The Commissioner
+will notify the inmate of his final decision within forty days of
+receiving the appeal.  If a request is rejected for technical
+reasons or matters of form, the inmate is given five days from the
+date of rejection to file a corrected grievance.  The ARP also
+4 Although no part of the ARP rules provide for a
+certificate of completion,  MDOC asserts that the inmate receives
+a certificate of completion upon finishing the ARP.  Under the
+prior version of section 1997e, before its amendment in 1996, the
+administrative remedy was required to be certified.  42 U.S.C. §
+1997e(a)(2)(1994)(amended 1996).  The 1994 district court order
+certifying the ARP under the prior version of the statute
+required inmates to complete the procedure and to attach a
+certificate to that effect to their complaint.
+10
+provides that “[n]o more than ninety (90) days from initiation to
+completion of the process shall elapse, unless an extension has
+been granted” and that “expiration of response time limits without
+receipt of a written response shall entitle the offender to move on
+to the next step in the process.”4
+The ARP rules also provide that an inmate may make a request
+for emergency review by sending an emergency request to the Legal
+Adjudicator “to determine to what level the grievance must be
+forwarded if substantive actions must occur.  The request shall be
+handled as expeditiously as possible, and shall be reviewed at the
+Commissioner’s level by the Commissioner or his designee.”  The
+emergency review procedures further provide that, if the grievance
+is ruled not to be an emergency, it “may be resubmitted as a
+regular grievance” and that “[a]buse of the emergency review
+process ... shall be treated as a frivolous or malicious request.”
+The emergency review procedure thus expedites the review process in
+certain situations so that the request can be dealt with
+5 MDOC argues that the emergency request procedure only
+provides a mechanism for temporary relief and does not excuse an
+inmate from pursuing relief through the three-step ARP process.
+Thus, MDOC maintains that Russell did not exhaust administrative
+remedies because, in addition to utilizing the emergency relief
+process, he did not complete the three-step process culminating
+in a certificate of completion.  
+But MDOC’s contention is simply not supported by the
+language of the policy outlining the ARP process.  The portion of
+that policy detailing the procedure for emergency relief requests
+does not indicate that the inmate must simultaneously proceed
+through the three-step process.  In fact, it refers to the
+regular grievance process only as an alternative when an
+emergency request has been deemed to be a non-emergency.  MDOC
+never rejected the emergency request nor advised Russell to
+resubmit it as a regular grievance.  The policy does not indicate
+that the emergency request procedure is simply designed to
+provide stop-gap measures while the request proceeds through the
+normal administrative procedures.  The most natural reading of
+the policy leads to the conclusion that the emergency request
+procedure simply expedites the administrative process by allowing
+the request to be reviewed at the Commissioner’s level without
+having to proceed through the entire three-step process in
+limited circumstances.
+11
+expediently at the Commissioner’s level.5  The ARP does not provide
+a definitive end for the emergency review procedure, but, as the
+emergency review procedure facilitates quicker review at the
+Commissioner’s level, it follows that the requirement that the
+Commissioner provide a written answer within forty days of
+receiving the complaint likewise applies to the emergency review
+procedure.
+Russell maintains that he exhausted his administrative
+remedies by utilizing the emergency review process.  On January 31,
+2002, Russell’s counsel delivered to MDOC Commissioner Johnson a
+document titled “Emergency Request by Inmate Willie C. Russell for
+6 Although the form was submitted directly to Commissioner
+Johnson instead of being sent through the Legal Adjudicator, MDOC
+never rejected the request for technical reasons or for matters
+of form.  To the contrary, as discussed below, MDOC addressed the
+substance of Russell’s request, albeit with some delay.  As MDOC
+ignored this technical defect but instead addressed Russell’s
+request at the administrative level and denied it for matters of
+substance, it cannot now claim that Russell failed to exhaust
+based on this technical defect.  Cf. Wendell v. Asher, 162 F.3d
+887, 890 (5th Cir. 1998) (stating that the exhaustion requirement
+imposed by the PLRA is subject to the defenses of waiver and
+estoppel).
+12
+an Administrative Remedy Concerning Conditions on Death Row,”
+complaining of the conditions at issue here and requesting a
+meeting to discuss these problems in an effort to avoid
+litigation.6  On March 8, before a March 12 meeting with
+Commissioner Johnson, Russell’s counsel sent the Commissioner a
+memorandum, outlining the complained of conditions on Death Row in
+greater detail.
+On April 1, Russell’s counsel sent a third letter to
+Commissioner Johnson referencing the original emergency request for
+an administrative remedy.  This letter noted that Commissioner
+Johnson had agreed to remedy such conditions, if they existed, at
+the March 12 meeting.  It further asked MDOC to respond by May 1 so
+as to inform Russell whether it would be able to make the necessary
+repairs by June 1.  On April 15, Johnson sent a letter to Russell’s
+counsel asserting that Russell’s concerns regarding ventilation
+(heat) had been addressed by simply drilling some holes in the
+metal sheet on his cell door and that the concerns regarding
+13
+sanitation and pest control were unwarranted.  On June 14,
+Russell’s counsel sent Johnson a final letter reiterating Russell’s
+complaints and disputing Johnson’s April 15th denial of the accuracy
+of the inmates’ claims; Commissioner Johnson never responded.
+Throughout these negotiations, MDOC never rejected the emergency
+request on technical grounds or for matters of form nor advised
+Russell to resubmit it as a regular grievance.  On the contrary,
+MDOC addressed Russell’s core concerns by simply disagreeing with
+Russell’s characterization of the conditions on Death Row.
+We agree with the trial court that Russell concluded the ARP
+and thus exhausted administrative remedies.  Initially, MDOC failed
+to comply with ARP procedures by failing to deal with Russell’s
+complaint within the time limits provided by the ARP.  Over ninety
+days expired between the time that Russell initiated the process
+and the time he finally filed suit, and Commissioner Johnson did
+not provide a written response to Russell’s complaint within the
+forty day period.  Available administrative remedies are exhausted
+in compliance with the PLRA when the time limits for the prison’s
+response set forth in the prison grievance procedures have expired.
+Underwood v. Wilson, 151 F.3d 292, 295 (5th Cir. 1998).  Similarly,
+per the terms of the ARP, Commissioner Johnson’s failure to provide
+a written response to Russell’s complaint within the forty day
+period entitled Russell to “move on to the next step in the
+process.”  As review at the Commissioner’s level constitutes the
+14
+final step in the process, Russell was then entitled to file suit.
+Finally, even if MDOC was allowed to unduly delay the
+administrative process in violation of the terms of the ARP by
+failing to provide an answer from Commissioner Johnson within the
+forty day period, the April 15th letter denied that relief was
+warranted, effecting a rejection of the claim.  That letter thus
+terminated the administrative process, as evidenced by Commissioner
+Johnson’s refusal to respond to any further communications
+regarding these complaints.  We agree with trial court’s conclusion
+that Russell completed the ARP by utilizing the procedure for
+emergency review.  Thus, Russell, and by extension the plaintiffs,
+properly exhausted administrative remedies.
+Should the injunctions be vacated on the grounds that they are not
+justified by conditions constituting cruel and unusual punishment
+in violation of the Eighth Amendment?
+The Eighth Amendment Standard
+MDOC argues that none of the provisions of the injunctive
+decree were warranted by conditions constituting Eighth Amendment
+violations.  The Eighth Amendment dictates that cruel and unusual
+punishment shall not be inflicted, U.S. CONST. amend. VIII, and it
+is applicable to the States by reason of the Due Process Clause of
+the Fourteenth Amendment.  Robinson v. California, 370 U.S. 660,
+675 (1962).  The treatment a prisoner receives in prison and the
+15
+conditions under which he is confined are subject to scrutiny under
+the Eighth Amendment.  Helling v. McKinney, 509 U.S. 25, 31 (1993).
+The Constitution does not mandate comfortable prisons, but
+neither does it permit inhumane ones.  Farmer v. Brennan, 511 U.S.
+825, 832 (1994).  Prison officials must provide humane conditions
+of confinement; they must ensure that inmates receive adequate
+food, clothing, shelter, and medical care, and must take reasonable
+measure to ensure the safety of the inmates.  Id.  This circuit has
+worded the test as requiring extreme deprivation of any "minimal
+civilized measure of life's necessities.”  Davis v. Scott, 157 F.3d
+1003, 1006 (5th Cir 1998).  Further, mental health needs are no
+less serious than physical needs.  Partridge v. Two Unknown Police
+Officers of City of Houston, Texas, 791 F.2d 1182, 1187 (5th Cir.
+1986).  The Supreme Court has made clear that the standards against
+which a court measures prison conditions are "the evolving
+standards of decency that mark the progress of a maturing society"
+and not the standards in effect during the time of the drafting of
+the Eighth Amendment.  Estelle v. Gamble, 429 U.S. 97, 102, 50 L.
+Ed. 2d 251, 97 S. Ct. 285 (1976) (internal quotation omitted).
+A prison official has violated the Eighth Amendment when he 1)
+shows a subjective deliberate indifference to 2) conditions posing
+a substantial risk of serious harm to the inmate.  Farmer, 511 U.S.
+at 833-34.  Whether a prison official had the requisite knowledge
+of a substantial risk is a question of fact subject to
+16
+demonstration in the usual ways, including inference from
+circumstantial evidence, and a factfinder may conclude that a
+prison official knew of a substantial risk from the very fact that
+the risk was obvious.  Id. at 842.
+Conditions of confinement may establish an Eighth Amendment
+violation "in combination" when each would not do so alone, but
+only when they have a mutually enforcing effect that produces the
+deprivation of a single, identifiable human need such as food,
+warmth, or exercise -- for example, a low cell temperature at night
+combined with a failure to issue blankets.  Wilson v. Seiter, 501
+U.S. 294, 304 (1991).  The Supreme Court has noted that "the length
+of confinement cannot be ignored.... A filthy, overcrowded cell ...
+might be tolerable for a few days and intolerably cruel for weeks
+or months.”  Hutto v. Finney, 437 U.S. 678, 686-87 (1978).  It is
+also important to note that the inmate need not show that death or
+serious illness has occurred.  Helling, 509 U.S. at 32 (“It would
+be odd to deny an injunction to inmates who plainly proved an
+unsafe, life-threatening condition in their prison on the ground
+that nothing yet had happened to them.”).
+Standard of Review
+MDOC argues that many of the trial court’s findings of fact
+were clearly erroneous.  In reviewing the factual findings, this
+court employs a “clearly erroneous” standard.  Alberti v.
+Klevenhagen, 790 F.2d 1220, 1224 (5th Cir 1986).  A finding is
+17
+clearly erroneous when, although there is evidence to support it,
+the reviewing court on the entire evidence is left with the
+definite and firm conviction that a mistake has been committed.
+Id.  Whether the official showed a deliberate indifference to the
+condition is a factual finding that is reviewed under a “clearly
+erroneous” standard.  Brice v. Virginia Beach Correctional Ctr., 58
+F.3d 101, 105 (4th Cir. 1995).  Once the facts are established, the
+issue of whether the facts constitute a constitutional violation is
+a question of law to be reviewed de novo.  Alberti, 790 F.2d at
+1224.  If a constitutional violation is found, we employ an abuse
+of discretion standard in reviewing the equitable remedy itself.
+Swann v. Charlotte - Mecklenburg Bd. of Educ., 402 U.S. 1, 15-16
+(1971).
+The Trial Court’s Factual Findings
+The trial court made the following findings of fact, inter
+alia, as to the conditions on Parchman’s Death Row.
+Sanitation
+Inmates have been subjected to cells that were extremely
+filthy with chipped, peeling paint, dried fecal matter and food
+encrusted on the walls, ceilings, and bars, as well as water from
+flooded toilets and rain leaks.  Inmates are routinely moved from
+cell to cell and are forced to clean their new cells that may have
+been left in horrendous sanitation by the prior occupants,
+18
+especially if the occupant were mentally ill.  Adequate cleaning
+supplies and equipment are not routinely made available for inmates
+to clean their cells.  These filthy conditions contribute to the
+infestation of pests and play a role in the mental well-being of
+inmates.  Russell v. Johnson, 2003 U.S. Dist. LEXIS 8576 at *4-5
+(N.D. Miss.).
+Heating and Cooling
+The summer temperatures in the Mississippi Delta average in
+the nineties with high humidity, and Death Row is primarily not an
+air-conditioned facility.  There are industrial type fans in the
+hallways to help with air circulation, and most inmates have
+smaller fans.  Relief from the heat can be obtained by keeping the
+windows open in the cell using fans.  But keeping the windows open
+increases the mosquito population in the cells since there are
+holes in the cell window screens and the screen gauge is not
+sufficient to keep mosquitoes out.  The ambient temperature in the
+cells is within reasonable limits except during the summer months.
+The ventilation is inadequate to afford prisoners a minimal level
+of comfort during the summer months.  The probability of heat-
+related illness is extreme on Death Row, and is dramatically more
+so for mentally ill inmates who often do not take appropriate
+behavioral steps to deal with the heat.  Also, the medications
+often given to deal with various medical problems interfere with
+the body’s ability to maintain a normal temperature.  The inmates
+19
+are not afforded extra showers, ice water, or fans if they don’t
+have fans when the heat index is 90 or above.  The heat problem
+extends to all of Death Row and possibly throughout Parchman.  Id.
+at *5-7.
+Pest Control
+The heat problem also exacerbates the problem of pest control.
+Mosquitoes in Mississippi, and the Delta in particular, are a
+problem that cannot be eliminated.  But the problem must be
+addressed and the impact lessened, especially with the incidence of
+West Nile virus, a mosquito-born disease increasing in Mississippi.
+Inadequate screening on the cell windows causes the inmates to
+choose between suffering from the heat or increasing the mosquitoes
+in their cells.  The problems of heat and mosquitoes must be
+addressed to provide the inmates with conditions that would meet
+minimal constitutional standards.  The problem of roaches and other
+vermin will be met by adhering to the ACA standards and by meeting
+the sanitation goals the court will set.  Id. at *7.
+“Ping-Pong” Toilets and Plumbing
+Fecal and other matter flushed by a toilet in one cell will
+bubble up in the adjoining cell unless the toilets are flushed
+simultaneously.  This has been a problem since the unit opened.
+Parchman officials have identified the problem as one of
+calibration, especially if the water is shut off.  The toilets must
+be recalibrated to work properly.  Recalibration has helped, but
+7  A foot-candle is “[a] unit of measure of the intensity of
+light falling on a surface, equal to one lumens per square foot
+and originally defined with reference to a standardized candle
+burning at one foot from a given surface.”  THE AMERICAN HERITAGE
+COLLEGE DICTIONARY 530 (3rd ed. 1993).
+20
+not eliminated, the problem of ping-pong toilets.  No one in
+civilized society should be forced to live under conditions that
+force exposure to another person’s bodily wastes.  The showers,
+water temperature, and quality of water are adequate.  Id. at *7-8.
+Lighting
+The lighting in the cells is grossly inadequate.  While  20
+foot-candles7 is the appropriate level of lighting for the cells,
+the maximum foot-candles measured by Russell’s expert was seven or
+eight, with the typical cell being in the 2-4 foot-candle range.
+Id. at *9-10.
+Preventive Maintenance Program
+The preventive maintenance program instituted by MDOC appears
+to be adequate, although it should be in writing.  Id. at *10.
+Laundry
+The inmates’ laundry is returned foul-smelling, necessitating
+the inmates to wash their clothes in their cells.  The inmates are
+entitled to laundry that is clean and not foul-smelling.  Id.
+Mental Health Issues
+21
+At least six severely psychotic prisoners are housed on Death
+Row, and many more are diagnosed with quantifiable mental health
+problems.  The extremely psychotic prisoners scream at night, throw
+feces, and generally make life miserable for the other inmates and
+guards.  As stated by Dr. Kupers, a psychiatry professor and expert
+for Russell, “it boils down to warehousing people with severe
+mental illness ... some are medicated, but there is essentially no
+other mental health services.”  The mental health care afforded the
+inmates on Death Row is grossly inadequate.  The isolation of Death
+Row, along with the inmates’ pending sentences of death and the
+conditions on Death Row are enough to weaken even the strongest
+individual.  What mental health services are provided generally
+take place at the inmate’s cell within hearing of other inmates and
+guards.  This results in the failure of inmates to tell the mental
+health specialists anything of substance.  Moreover, comprehensive
+mental health evaluations are consistently inadequate.  Inmates are
+also prescribed psychotropic drugs with only sporadic monitoring.
+This can result in life-threatening situations due to the toxicity
+of these drugs.  Appropriate treatment of mentally ill inmates will
+in turn help address the issues of excessive noise and sanitation
+problems caused by severely psychotic inmates.  Id. at *11-12.
+Exercise
+Proper exercise is advantageous for mental health and well-
+being.  The exercise facilities provided are adequate.  While, in
+22
+general, the use of “flip-flops” is understandable as a security
+measure, such shoes do not allow effective exercise.  The inmates
+should be given access to sneakers prior to entering the exercise
+pen and should be given access to water and shade while exercising.
+Id. at 12.
+The Trial Court’s Conclusions of Law
+The court concluded that the conditions identified in the
+court’s findings of fact constituted Eighth Amendment violations
+because they posed a substantial risk of harm to the inmates’
+health and, based on the obvious nature of these risks, the prison
+officials showed a deliberate indifference to such harm.
+Injunctive Relief Entered by the Trial Court
+The court directed the following remedial actions.
+1. If defendants wish to continue the practice of
+moving inmates from cell to cell in Unit 32-C, they
+will insure that the cell to which an inmate is
+moved is clean prior to the move.  While an inmate
+should be required to keep his own cell clean, he
+should not be required to clean the cell of another
+inmate in order to inhabit it.
+2. Adequate cleaning supplies and equipment shall
+be provided inmates in order that they may clean
+their cells at least weekly.
+3. A general preventive maintenance schedule and
+program shall be reduced to writing within 60 days
+of this order.
+23
+4. Defendants shall take the necessary
+measurements in the unit in order to determine the
+heat index on the individual tiers.  These
+measurements shall be taken daily at 10:00 a.m.,
+1:00 p.m., 4:00 p.m., and 7:00 p.m. during the
+months of May through September and at 1:00 p.m. in
+all other months.  If the heat index reaches 90
+degrees or above, the defendants will insure that
+each cell is equipped with a fan, that ice water is
+available to each inmate, and that each inmate may
+take one shower during each day when the heat index
+is 90 degrees or above.  As an alternative, the
+defendants may provide fans, ice water, and daily
+showers during the months of May through September.
+This remedy shall apply to all of Unit 32.
+5.  The defendants shall continue their efforts at
+mosquito eradication and pest control.  The
+defendants shall also insure that all cell windows
+are repaired and screened with 18 gauge window
+screen or better.  This remedy shall apply to all
+of Unit 32.
+6.  The defendants shall insure that the problem of
+“ping-pong” toilets in Unit 32 as a whole is
+addressed.  The defendants shall provide to the
+court within 60 days the details of a plan to
+eradicate this problem.  The court is not convinced
+that recalibration is sufficient, but will await
+the defendants’ report on their plan.
+7.  The defendants shall also upgrade the lighting
+in Unit 32 as a whole to provide lighting in each
+cell equal to 20 foot-candles.
+8.  The defendants shall insure that the proper
+chemical agents are used at the laundry so that
+inmates’ laundry is returned clean and without a
+foul smell.
+9.  The defendants shall insure that the new vendor
+for medical services complies with the ACA and the
+National Commission on Correctional Healthcare
+medical and mental health standards.  Each inmate
+on Death Row shall be given a comprehensive mental
+8 MDOC makes a cursory argument that the injunctions must be
+reversed because the trial court failed to make particularized
+findings required by the PLRA, 18 U.S.C. § 3626(a).  There are
+multiple problems with this argument.  The first is that MDOC
+never presented this argument to the trial court.  This court
+does not generally review issues raised for the first time on
+appeal.  See, e.g., Yohey v. Collins, 985 F.2d 222, 225 (5th Cir.
+1993).  Additionally, MDOC cites Castillo v. Cameron County, 238
+F.3d 339, 351 (5th Cir. 2001), for the proposition that a court
+must make particularized findings, on a provision-by-provision
+basis, that each injunction is narrowly drawn, goes no further
+than necessary to correct the violation, and is the least
+intrusive means of correcting the violation.  But MDOC’s reliance
+on Castillo is misplaced.  Castillo requires such findings to be
+made when the district court holds that prior injunctive relief
+should not be terminated, relying on section 3262(b)(3).  Id. at
+351-54.  Section 3262(b)(3) on its face requires such written
+findings.  Conversely, section 3262(a)(1), which applies to
+prospective relief and is thus applicable here, does not.
+24
+health examination in private.  These comprehensive
+examinations shall be conducted on a yearly basis.
+Those inmates diagnosed with psychosis and severe
+mental health illnesses shall be housed separately
+and apart from all other inmates.  The medication
+levels of all inmates receiving psycotropic
+medications shall be monitored and assessed in
+accordance with appropriate medical standards.  All
+inmates receiving mental health counseling or
+evaluation shall meet with the mental health
+professionals in a private setting.
+10.  The inmates on Unit 32-C shall continue to
+receive the opportunity to exercise as currently
+available.  However, the inmates shall be given the
+opportunity to wear sneakers while exercising if
+they prefer rather than “flip-flops.”  A shaded
+area for exercise shall be provided with access to
+water.
+Russell v. Johnson, 2003 U.S. Dist. LEXIS 8573 at *1-4 (N.D.
+Miss.).8
+25
+Is the injunctive relief entered by the trial court justified by
+conditions in violation of the Eighth Amendment’s prohibition
+against cruel and unusual punishment?
+MDOC asserts that, as to several of the injunctions
+(Injunctions #2, #5, #6, #7, and #9), it is already meeting,
+intending to meet, or attempting to meet the standards enunciated
+by the trial court.  Thus, MDOC argues, the injunctions are not
+required.  But MDOC’s assertions that it intends to meet these
+standards do not suffice to moot the issue.  It is well settled
+that a defendant's voluntary cessation of a challenged practice
+does not deprive a federal court of its power to determine the
+legality of the practice.  Friends of the Earth, Inc. v. Laidlaw
+Envtl. Servs. (TOC), Inc., 528 U.S. 167, 190 (2000) (citations
+omitted).  If it did, the courts would be compelled to leave “the
+defendant . . . free to return to his old ways.” Id.  In accordance
+with this principle, the standard for determining whether a case
+has been mooted by the defendant's voluntary conduct is stringent:
+"A case might become moot if subsequent events made it absolutely
+clear that the allegedly wrongful behavior could not reasonably be
+expected to recur."  Id.  The "heavy burden of persuading" the
+court that the challenged conduct cannot reasonably be expected to
+start up again lies with the party asserting mootness.  Id.  The
+trial court’s citation to Friends of the Earth accompanied by its
+assertion that Russell’s claims were not moot indicates that the
+26
+trial court was not persuaded.  The fact that many of these
+conditions have persisted for years despite MDOC’s purported
+efforts leads us to likewise conclude that MDOC has not met the
+heavy burden of showing that its voluntary conduct has mooted any
+of the issues presented here.
+ Similarly, MDOC also argues, as to several of the
+injunctions, that Parchman’s accreditation by the American
+Correctional Association (“ACA”) is proof that the conditions in
+question don’t violate the Eighth Amendment.  But it is absurd to
+suggest that the federal courts should subvert their judgment as to
+alleged Eighth Amendment violations to the ACA whenever it has
+relevant standards.  Additionally, the ACA’s limited inspections
+are not be binding as factual findings on the magistrate or on this
+court.  While compliance with ACA standards may be a relevant
+consideration, it is not per se evidence of constitutionality.  See
+Ruiz v. Johnson , 37 F. Supp. 2d 855 924-25 (S.D. Tex. 1999)
+(recognizing the limitations of ACA accreditation and noting
+situations where it has not equated to constitutionality), rev’d on
+other grounds, 178 F.3d 385.
+MDOC finally argues that none of the injunctions are based on
+Eighth Amendment violations and, thus, that all of the injunctions
+must be reversed.  Using the relevant Eighth Amendment standard, we
+will examine each of the injunctions in turn.
+Injunctions #1 and #2
+27
+MDOC argues that the first injunction, which prohibits MDOC
+from requiring inmates to clean the cells into which they are
+transferred, cannot stand because there was no proof of any medical
+injury or illness resulting from this practice.  MDOC similarly
+maintains that the second injunction, which requires that adequate
+cleaning supplies be provided to the inmates at least weekly, is
+unsupported by any evidence of medical illness arising from this
+situation or a showing of deliberate indifference by MDOC
+officials.  MDOC also contends that cleaning supplies are regularly
+issued to inmates and that the cells were clean as of the date of
+trial.
+This court has previously held that filthy cell conditions may
+constitute an Eighth Amendment violation.  See Harper v. Showers,
+174 F.3d 716, 720 (5th Cir 1999).  Other circuits have made similar
+holdings; the Eighth Circuit has held that a prisoner being placed
+in a cell covered with filth and human waste for a two-year period
+without proper cleaning supplies constitutes cruel and unusual
+punishment.  Howard v. Adkison, 887 F.2d 134, 137 (8th Cir. 1989)
+(recognizing that “inmates are entitled to reasonably adequate
+sanitation, personal hygiene, and laundry privileges, particularly
+over a lengthy course of time”); see also McBride v. Deer, 240 F.3d
+1287, 1292 (10 th Cir. 2001) (holding that three days in a feces-
+covered cell states a claim upon which relief could be granted).
+28
+Russell points to testimony adduced at the trial court
+indicating that the cells were “extremely filthy” with crusted
+fecal matter, urine, dried ejaculate, peeling and chipping paint,
+and old food particles on the walls.  Living in such conditions
+would present a substantial risk of serious harm to the inmates,
+and we cannot say that trial court’s decision to credit this
+testimony was clearly erroneous.  Also, in light of substantial
+testimony indicating that such conditions were not atypical and
+were easily observed, we cannot say that the trial court’s
+conclusion that MDOC officials showed a deliberate indifference to
+this risk is clearly erroneous.  Further, the testimony was
+conflicting as to the frequency and quality of the provision of
+cleaning supplies, and we cannot say that the trial court’s
+conclusion to credit testimony supporting the inadequacy of
+cleaning supplies was clearly erroneous.  As living in such filthy
+conditions would present the inmates with a risk of serious harm to
+which MDOC officials have displayed a deliberate indifference,
+Injunctions #1 and #2 were justified by an Eighth Amendment
+violation.  They are, therefore, affirmed.
+Injunction #3
+MDOC challenges the third injunction, which directs MDOC to
+reduce a general preventive maintenance schedule and program to
+writing.  MDOC argues that there is no evidence supporting the
+elements required for a finding of cruel and unusual punishment
+29
+that would support this injunction.  Russell responds that “[t]he
+risks of squalid conditions and the constantly recurring break-down
+of the water, plumbing, and other operating systems were obvious,”
+and Russell’s environmental health and safety expert testified that
+the same problems would continue to recur if MDOC did not put a
+written plan in place.  
+While federal courts can certainly enter injunctions to
+prevent Eighth Amendment violations, they are not to micromanage
+state prisons.  Bell v. Wolfish, 411 U.S. 520, 562 (1979).  The
+trial court entered injunctions to directly remedy each of the
+complained-of conditions that rise to the level of an Eighth
+Amendment violation.  Russell has cited no case that supports the
+proposition that the trial court can further affect the internal
+operations of MDOC by requiring it to produce a writing preventive
+maintenance program to which it will adhere.  The additional
+requirement of a written preventive maintenance program, while
+desirable, is not independently supported by additional conditions
+that constitute an Eighth Amendment violation, and it cannot stand.
+Thus, we vacate that injunction.
+Injunction #4
+The fourth injunction directs MDOC to provide fans, ice water,
+and daily showers when the heat index is 90 degrees or above, or
+alternatively to make such provisions during the months of May
+through September.  The injunction also purports to apply to all of
+9 Dr. Vassallo is a faculty member of the Department of
+Surgery and Division of Emergency Medicine at New York University
+School of Medicine and is a medical toxicologist at the New York
+Regional Poison Control Center.  She has lectured extensively on
+thermoregulation and hyperthermia (heat illness) and has authored
+the “Thermoregulatory Principles” chapter of Goldfrank’s
+Toxicologic Emergencies, a textbook on medical toxicology.
+30
+Unit 32, as opposed to only Unit 32-C.  Initially, it is important
+to note that the class represented by Russell consists entirely of
+Parchman’s Death Row prisoners, who are housed in Unit 32-C.  Thus,
+to the extent that the injunction purports to apply to parts of
+Unit 32 beyond Unit 32-C, it exceeds the scope of the litigation
+and is therefore invalid.  See Thomas v. County of Los Angeles, 978
+F.2d 504, 509-10 (9 th Cir. 1992) (reversing an injunction as
+overbroad when it purported to apply to the entire Los Angeles
+County Sheriff’s Department although the plaintiff’s complaint and
+evidence only applied to one specific station).
+MDOC contends that no Unit 32-C inmate has ever suffered any
+serious heat-related illness.  But, as noted above, Russell does
+not need to show that death or serious illness has yet occurred to
+obtain relief.  He must show that the conditions pose a substantial
+risk of harm to which MDOC officials have shown a deliberate
+indifference.  Russell presented the court with expert testimony
+from Dr. Vassallo9 that it was “very likely” that, under current
+conditions on Death Row, an inmate will die of heat stroke or some
+other heat-related illness.  In fact, Dr. Vassallo’s testimony
+indicated that Death Row prisoners had made many complaints of
+31
+symptoms commonly recognized to be related to heat-related illness
+and that those conditions had simply gone undiagnosed.
+MDOC further cites language from Woods v. Edwards, 51 F.3d 577
+(5th Cir. 1995), in which Woods, a prisoner at the Louisiana State
+Penitentiary at Angola, claimed, inter alia, that the conditions in
+extended lockdown were unconstitutional.  Extended lockdown
+isolates inmates as punishment for disciplinary violations.  One of
+Woods’ claims was that the cell used in his extended lockdown was
+inadequately cooled and that the high temperature aggravated his
+sinus condition.  Id. at 581.  This court noted that Woods “failed
+to present medical evidence of any significance.”  Id.  This court
+went on to state: “[w]hile the temperature in extended lockdown may
+be uncomfortable, that alone cannot support a finding that the
+plaintiff was subjected to cruel and unusual punishment in
+violation of the Eighth Amendment. ”  Id.  The Woods court found
+that Woods had not presented medical evidence sufficient to state
+an Eighth Amendment violation; Woods does not stand for the
+proposition that extreme heat can never constitute cruel and
+unusual punishment.  Finally, MDOC points out that the Seventh
+Circuit has held that one shower a week is sufficient.  Davenport
+v. DeRobertis, 844 F.2d 1310, 1316-17 (7 th Cir. 1988).  But
+Davenport is inapt, as it dealt only with cleanliness while the
+testimony upon which this injunction rests indicated that cold
+showers would help alleviate the risk of heat-related illness. 
+10 In a footnote in its brief, MDOC asserts that the extra
+showers ordered by the trial court would cause a major prison
+security problem.  Russell replies that no such evidence was
+presented at trial and, thus, that the trial court should be
+given the first opportunity to rule on this issue.  In their
+reply brief, MDOC admits that such evidence was only presented to
+the court as part of MDOC’s July 2003 progress report.  But only
+the May 21, 2003, final order of the trial court is currently
+under review, not any subsequent monitoring of the trial court’s
+injunctive relief.  This issue is thus not before us.
+32
+Based on the evidence presented, we cannot say that the trial
+court’s finding that the probability of heat-related illness is
+extreme at Unit 32-C was clearly erroneous.  Thus, this condition
+presents a substantial risk of serious harm to the inmates.  Again,
+based on the open and obvious nature of these conditions and the
+evidence that inmates had complained of symptoms of heat-related
+illness, the trial court’s finding regarding MDOC’s deliberate
+indifference is not clearly erroneous.  Thus, Injunction #4 was
+justified by an Eighth Amendment violation, and it is affirmed
+insofar as it applies to Unit 32-C.10
+Injunction #5
+The fifth injunction requires MDOC to continue its efforts at
+pest control and, more specifically, to ensure that all cell
+windows are repaired and screened with 18 gauge window screen or
+better.  Injunction #5 purports to apply to all of Unit 32.
+Initially, like Injunction #4, to the extent that Injunction #5
+purports to apply to parts of Unit 32 beyond Unit 32-C, it is
+invalid.
+33
+MDOC first argues that there is no basis for a federal court
+to order MDOC to continue to do what it is already doing.  But, as
+discussed above, the pest infestation problems persist, and MDOC
+has not met the burden of convincing the trial court or this court
+that its efforts at pest control have mooted this issue.    MDOC
+also argues that the evidence shows that there were no holes in the
+screens at the time of trial.  But the trial court was presented
+with testimony that there were cells with holes in the screens,
+and, in any event, the insufficient gauge on the screens would
+allow the infestation problem to continue even in absence of holes
+in the screens.  
+MDOC argues generally that Russell did not show either a
+substantial risk of harm to the inmates or deliberate indifference
+on the part of MDOC officials.  But the trial court was presented
+with testimony that insects swarm in the inmates’ food and beds and
+that the inmates often must choose between opening the window for
+relief from the heat or closing the window for protection from
+mosquitoes, as the gauge on the screens is too large to keep out
+the mosquitoes.  It is important to recognize that this injunction
+is supported by the trial court’s findings on heat, as the court
+noted that the mosquito infestation accompanied by the insufficient
+screen gauge exacerbated the heat problems by deterring the inmates
+from opening their windows to increase circulation.  In addition to
+the risk of heat-related illness, the pest infestation problems
+34
+were linked to chronic sleep deprivation, which exacerbates the
+symptoms of mental illness.  As Injunction #5, like Injunction #4,
+is supported by the constitutional violation stemming from the
+excessive heat, it is affirmed as to Unit 32-C.
+Injunction #6
+The sixth injunction requires MDOC to remedy the problem of
+“ping-pong” toilets.  Like Injunctions #4 and #5, this injunction
+is invalid to the extent it purports to apply to parts of Unit 32
+outside of Unit 32-C.
+MDOC argues that there is no evidence of any serious medical
+problem stemming from the ping-pong toilets and, further, that in
+absence of objective evidence of such a problem there can be no
+finding of deliberate indifference on the part of MDOC officials.
+MDOC cites Tokar v. Armontrout, 97 F.3d 1078 (8th Cir. 1996), for
+the proposition that exposure to raw sewage is not cruel and
+unusual punishment where there has been no demonstration of an
+adverse medical reaction.  But MDOC seriously misconstrues Tokar.
+Tokar complained generally that the prison toilets were “filthy”
+without specifying how long the toilets remained filthy and while
+acknowledging that he had not asked for cleaning supplies because
+cleaning the toilets was the job of other inmates.  Id. at 1081.
+The facts of Tokar are quite different from the facts presented
+here, in which inmates have regularly been exposed to each others’
+feces for over a decade.  In fact, the Eighth Circuit’s
+35
+recognitions that exposure to waste may constitute cruel and
+unusual punishment and that the length of time a prisoner must
+endure unsanitary conditions is undoubtedly a factor in the
+constitutional calculus, id. at 1082 n.4, both weigh in Russell’s
+favor.  While evidence of a past medical injury would clearly
+strengthen Russell’s case, Russell does not have to prove a past
+medical injury.  He must prove a substantial risk of serious harm
+and MDOC officials’ deliberate indifference to that harm.
+Russell points to expert testimony stating that the situation
+presented when the feces of one inmate bubbles up in the
+neighboring cell, exacerbated when the toilets overflow, does
+constitute a serious health hazard. Russell also presented evidence
+to the trial court that the Mississippi State Department of Health
+warned MDOC every year for the past eleven years that the
+malfunctioning toilets in Unit 32-C are a critical public health
+problem requiring immediate attention.  Additionally, Russell
+points to several circuit court cases indicating that “courts have
+been especially cautious about condoning conditions involving
+exposure to human waste.”  Fruit v. Norris, 905 F.2d 1147, 1151 (8th
+Cir. 1990); see also, e.g., Despain v. Uphoff, 264 F.3d 965, 974
+(10th Cir. 2001)(exposure to human waste “evokes both the health
+concerns emphasized in Farmer and the more general standards of
+dignity embodied in the Eighth Amendment”).
+36
+MDOC also asserts that there was substantial testimony
+regarding its attempts to correct the toilet problem, presumably
+arguing that this further rebuts a finding of deliberate
+indifference.  As evidence of deliberate indifference, Russell
+points to the fact that the problems persist despite MDOC officials
+having been warned that the problem was urgent for more than a
+decade.  Frequent exposure to the waste of other persons can
+certainly present health hazards that constitute a serious risk of
+substantial harm.  Given the evidence presented to the trial court,
+we cannot say that the court’s factual findings regarding the ping-
+pong toilets or the MDOC officials’ deliberate indifference were
+clearly erroneous.  Thus, this injunction, as applied to Unit 32-C,
+is affirmed.
+Injunction #7
+This injunction requires MDOC to upgrade the lighting in each
+cell to the level of twenty foot-candles.  This injunction also
+purports to apply to Unit 32 as a whole and is invalid insofar as
+it purports to apply beyond Unit 32-C.  MDOC argues that the
+injunction is wholly invalid because MDOC officials were in the
+process of upgrading cell lighting.  As with the sanitation issues,
+the pest control issues, and the ping-pong toilets, MDOC’s
+assertions that it is working on the problem are inadequate to moot
+the issue.  MDOC also argues that there was no evidence of a
+substantial risk of serious harm stemming from the admittedly
+37
+inadequate lighting or of MDOC officials’ deliberate indifference
+to such harm.  But the trial court judge apparently credited expert
+testimony asserting that the lighting in the cells was grossly
+inadequate for the purposes of sanitation, personal hygiene, and
+reading, that this condition also contributes to further mental
+health deterioration, and that twenty foot-candles was the
+appropriate minimum level at which these activities could take
+place.  Thus, this injunction is supported by the conditions
+supporting Injunctions #1, #2, and #9, discussed below, and it is
+affirmed.
+Injunction #8
+The eighth injunction requires MDOC to return the inmates’
+laundry clean and without a foul smell.  MDOC argues that the
+prison laundry condition is not sufficiently serious to implicate
+the Eighth Amendment, citing Green v. Ferrell, 801 F.2d 765, 771
+(5th Cir. 1986), and similarly that there was no proof of any
+serious medical harm to any inmate stemming from this condition.
+The Green court reiterated that “jails must provide ‘reasonably
+adequate’ sanitation” but overturned the district court’s
+injunction requiring the jail to provide laundry services because
+the prisoners were provided with laundry detergent that they could
+use to wash their own clothes in the sink located in their cells.
+Id.
+38
+Russell points to testimonial evidence that, unlike the
+situation in Green, the Death Row inmates are not provided with
+detergent and in fact can be disciplined for doing their own
+laundry.  First, the trial court found that the inmates do in fact
+wash their own clothes, as conceded by one of MDOC’s witnesses, who
+testified that the inmates wash their own clothes because it is
+part of “prison culture.”  This finding was supported by
+substantial evidence and is incongruous with the proposition that
+inmates are disciplined for washing their own clothes.  Given that
+the inmates do wash their own clothes, the only distinction between
+this case and Green is that the prisoners in Green were provided
+with laundry detergent while the Death Row inmates in this case
+wash their clothes with the bar soap.  The difference between
+laundry detergent and bar soap is not sufficient to distinguish
+this case from Green and thus does not implicate the Eighth
+Amendment.  Injunction #8 is therefore vacated.
+Injunction #9
+The ninth injunction outlines a number of requirements
+designed to alleviate some of the problems stemming from the
+allegedly inadequate mental health care afforded the inmates on
+Death Row.  This injunction requires MDOC to comply with ACA and
+National Commission on Correctional Healthcare (“NCCH”) standards
+regarding mental health, to give each inmate private, comprehensive
+mental health examinations on a yearly basis, to monitor and assess
+39
+the medication levels of inmates receiving psychotropic
+medications, and to house the inmates with psychosis and severe
+mental illnesses separately from the other inmates.
+MDOC argues that it was already in compliance with ACA
+standards and, somewhat contradictorily, that MDOC has already
+begun the process of selecting a new medical vendor that would
+comply with ACA and NCCH standards.  Once again, MDOC’s assertion
+that it was already on the path towards compliance is insufficient
+to moot the issue.  Further, the injunction does not require only
+ACA compliance.  In any event, MDOC’s assertion that it is already
+in compliance with ACA and NCCH standards is incongruous with the
+trial court’s findings, including the statement that “the mental
+health care afforded the inmates on Death Row is grossly
+inadequate.”  These findings were based on substantial testimony
+adduced at trial and apparently credited by the trial court.  For
+example, Russell produced evidence that the isolation and idleness
+of Death Row combined with the squalor, poor hygiene, temperature,
+and noise of extremely psychotic prisoners create an environment
+“toxic” to the prisoners’ mental health.  There was also evidence
+that the severely psychotic prisoners smear garbage and excrement
+in their cells, scream all night, and flood the tiers.  This
+contributes to the problems of uncleanliness and sleep deprivation,
+and by extension mental health problems, for the other inmates.
+There was also testimony that prisoners seldom see medical staff
+40
+and that monitoring of medication was sporadic, with prisoners
+potentially being prescribed the wrong medication or no medication
+for long periods of time, potentially leading to extremely
+dangerous physical side effects or psychotic breakdowns.
+MDOC also points out that two inmates have refused psychiatric
+medication so as to remain incompetent for execution.  But this
+does not refute the trial court’s findings that the mental health
+care afforded to inmates on Death Row is grossly inadequate. MDOC
+is only obligated to make adequate mental health care available for
+all Death Row inmates.  The fact that some inmates may refuse to
+take advantage of such treatment so as to avoid execution is
+irrelevant to whether MDOC is meeting its obligation of complying
+with constitutional standards.
+MDOC further argues that there was no demonstration of
+deliberate indifference to any serious mental or medical problem
+stemming from insufficient mental health care.  In analyzing this
+argument, it is important to remember that mental health needs are
+no less serious than physical needs.  Partridge v. Two Unknown
+Police Officers of City of Houston, Texas, 791 F.2d 1182, 1187 (5th
+Cir. 1986).  This court has previously held that an inmate stated
+a nonfrivolous claim in complaining that he was placed in cells
+next to psychiatric patients who scream, beat on metal toilets,
+short out the power, flood the cells, throw feces, and light fires,
+resulting in his loss of sleep for days at a time .  Harper v.
+41
+Showers, 174 F.3d 716, 720 (5 th Cir. 1999).  The trial court’s
+findings indicate that the inmates are subjected to substantial
+risk of serious harm based on the mental health conditions on Death
+Row, and, based on the evidence presented to the trial court, we
+cannot conclude that the court’s credibility determinations and
+factual findings are clearly erroneous.  We agree that the
+conditions of inadequate mental health care, as found by the trial
+court, do present a risk of serious harm to the inmates mental and
+physical health.  Again, the obvious and pervasive nature of these
+conditions supports the trial court’s conclusion that MDOC
+officials displayed a deliberate indifference to these conditions.
+Thus, this injunction was justified by an Eighth Amendment
+violation and is affirmed.
+Injunction #10
+The tenth injunction requires MDOC to allow the inmates to
+wear sneakers instead of flip-flops while exercising and to provide
+the inmates with a shaded area for exercise and access to water.
+MDOC argues that this is impermissible micromanagement of state
+prison operations and that no evidence was presented establishing
+a constitutional violation.  The evidence shows that inmates are
+allowed an hour of exercise four or five days a week.  The evidence
+also shows that shoes and boots were replaced with flip flops
+because the inmates used the boots and shoes to kick other inmates
+and to throw at MDOC staff, and because the flip flops make escape
+42
+more difficult.  In fact, the trial court stated that it understood
+“the use of ‘flip-flops’ as general footwear as a security
+measure.”  
+Russell argues that the flip-flops make it difficult or
+impossible to exercise vigorously.  But there is no support for the
+proposition that exercising in flip-flops constitutes cruel and
+unusual punishment.  Nor is there any support for the proposition
+that an hour of outdoor exercise without water or shade constitutes
+cruel and unusual punishment.  While exercise is certainly
+beneficial to physical and mental health, we find that the
+provisions for exercise made by MDOC are appropriate and that the
+tenth injunction is not justified by conditions in violation of the
+Eighth Amendment.  Thus, the tenth injunction is vacated.
+CONCLUSION
+Injunctions #3, 8, and 10 are vacated in their entirety.
+Injunctions #4, 5, 6, and 7 are vacated to the extent they purport
+to apply to portions of Unit 32 beyond Unit 32-C.  The remainder of
+the injunctive relief is AFFIRMED.

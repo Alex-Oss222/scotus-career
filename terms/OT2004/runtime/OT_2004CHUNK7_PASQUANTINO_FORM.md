@@ -1,0 +1,3 @@
+# Pasquantino — opinion form before assignment
+
+One signed opinion states the actual-property, domestic-offense and revenue-rule holdings. The Chief Justice, Stevens, O'Connor, Kennedy and Thomas support the complete controlling rationale. Scalia, Souter, Ginsburg and Breyer support one common dissent confined to their foreign-revenue statutory ground. No separate extraterritorial ground is imported. The Court declines the additional sentencing issue; that review-scope disposition preserves independently available proper review and does not adjudicate error. No additional separate writing is necessary. These propositions and joins precede the fresh assignment count.

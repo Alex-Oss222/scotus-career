@@ -1,0 +1,118 @@
+
+
+PACE V. DIGUGLIELMO
+
+LII
+
+Supreme Court
+
+PACE V. DIGUGLIELMO (03-9627) 
+71 Fed. Appx. 127, affirmed.
+Syllabus
+ Opinion
+ [ Rehnquist ]Dissent
+ [ Stevens ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be
+released, as is being done in connection with this case, at the
+time the opinion is issued.
+The syllabus constitutes no part
+of the opinion of the Court but has been prepared by the
+Reporter of Decisions for the convenience of the reader.
+See
+United States v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+PACE v. DiGUGLIELMO, SUPERINTENDENT,
+STATE CORRECTIONAL INSTITUTION AT GRATERFORD, et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE THIRD CIRCUIT
+
+No. 03—9627.Argued February 28,
+2005–Decided April 27, 2005
+
+After the Pennsylvania Superior Court found
+petitioner’s state postconviction petition untimely under
+the Pennsylvania Post Conviction Relief Act (PCRA) and the
+State Supreme Court denied review, petitioner sought federal
+habeas.  The District Court refused to dismiss the petition
+under the Antiterrorism and Effective Death Penalty Act of
+1996’s (AEDPA) statute of limitations, finding that
+petitioner was entitled to both statutory and equitable tolling
+while his PCRA petition was pending even though that petition
+was untimely under state law.  Reversing, the Third Circuit
+held, with regard to statutory tolling, that an untimely PCRA
+petition is not “a properly filed application for State
+post-conviction or other collateral review” that tolls
+AEDPA’s limitations period under 28 U.S.C. §
+2244(d)(2), and that there were no extraordinary
+circumstances justifying equitable tolling. 
+
+Held: Because petitioner filed
+his federal habeas petition beyond the deadline and is not
+entitled to statutory or equitable tolling for any of that time
+period, his federal petition is barred by AEDPA’s statute
+of limitations.  Pp. 4—10.
+
+    (a) Petitioner
+is not entitled to statutory tolling.  When this Court held in
+Artuz v. Bennett, 531 U.S. 4, 8, 11, that
+time limits on postconviction petitions are “condition[s]
+to filing,” such that an untimely petition would not be
+deemed “properly filed,” it reserved the question
+“whether the existence of certain exceptions to a timely
+filing requirement can prevent a late application from being
+considered improperly filed,” id., at 8, n. 2.
+ There are no grounds for treating the two differently.  Under
+the common understanding of “properly filed” that
+guided the Artuz Court, a petition filed after a time
+limit, which does not fit within any exceptions to that limit,
+is no more “properly filed” than a petition filed
+after a time limit permitting no exception.  This commonsense
+reading is confirmed by the purpose of AEDPA’s statute of
+limitations and is supported by Carey v. Saffold,
+536 U.S. 214. 
+Petitioner’s counterarguments–that “condition[s]
+to filing” are merely those conditions necessary to get a
+clerk to accept the petition, not conditions requiring judicial
+consideration; that a condition that must be applied on a
+claim-by-claim basis cannot be a “condition to
+filing”; and that this Court’s interpretation is
+unfair to petitioners who try in good faith to exhaust their
+state remedies–are rejected.  Artuz does not
+require a different result.  There is an obvious distinction
+between time limits, which go to the very initiation of a
+petition and a court’ s ability to consider that petition,
+and the type of rule-of-decision procedural bars at issue in
+Artuz, which go to the ability to obtain relief. 
+Pp. 4—9.
+
+      (b) Because
+petitioner waited for years after his claims became available
+to file his PCRA petition and five more months once his PCRA
+proceedings became final before seeking relief in federal
+court, he has not established that he pursued his claims
+diligently.  Thus, assuming equitable tolling applies here, he
+is not entitled to equitable tolling.  See, e.g., Irwin
+v. Department of Veterans Affairs, 498 U.S. 89, 96. 
+Pp. 9—11.
+
+71 Fed. Appx. 127, affirmed.
+
+    Rehnquist,
+C. J., delivered the opinion of the Court, in which
+O’Connor, Scalia, Kennedy, and Thomas, JJ., joined. 
+Stevens, J., filed a dissenting opinion, in which Souter,
+Ginsburg, and Breyer, JJ., joined.
+

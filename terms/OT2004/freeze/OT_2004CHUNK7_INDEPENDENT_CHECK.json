@@ -1,0 +1,262 @@
+{
+  "protected_files_checked": 130,
+  "protected_files_changed": [],
+  "record_count": 8,
+  "explanation_word_counts": {
+    "american-civil-liberties-union-of-nevada-v-heller_merits_2005-05-16.md": [
+      107,
+      237,
+      133
+    ],
+    "bates-v-dow-agrosciences-llc_merits_2005-04-27.md": [
+      139,
+      195,
+      119,
+      178,
+      153
+    ],
+    "doe-v-porter_merits_2005-04-26.md": [
+      49,
+      153,
+      66,
+      49
+    ],
+    "gates-v-cook_merits_2005-04-27.md": [
+      91,
+      82,
+      105,
+      159
+    ],
+    "granholm-v-heald_merits_2005-05-16.md": [
+      209,
+      182,
+      155,
+      185
+    ],
+    "pace-v-diguglielmo_merits_2005-04-27.md": [
+      302,
+      306
+    ],
+    "pasquantino-v-united-states_merits_2005-04-26.md": [
+      106,
+      113
+    ],
+    "small-v-united-states_merits_2005-04-26.md": [
+      225
+    ]
+  },
+  "frozen_annex_checks": [
+    {
+      "matter": "doe",
+      "frozen_annex_copied_exactly": true
+    },
+    {
+      "matter": "pasquantino",
+      "frozen_annex_copied_exactly": true
+    },
+    {
+      "matter": "small",
+      "frozen_annex_copied_exactly": true
+    },
+    {
+      "matter": "bates",
+      "frozen_annex_copied_exactly": true
+    },
+    {
+      "matter": "gates",
+      "frozen_annex_copied_exactly": true
+    },
+    {
+      "matter": "pace",
+      "frozen_annex_copied_exactly": true
+    },
+    {
+      "matter": "heller",
+      "frozen_annex_copied_exactly": true
+    },
+    {
+      "matter": "granholm",
+      "frozen_annex_copied_exactly": true
+    }
+  ],
+  "runtime_freeze_checks": [
+    {
+      "handoff": "NEUTRAL",
+      "runtime_equals_freeze": true
+    },
+    {
+      "handoff": "COMPARATOR",
+      "runtime_equals_freeze": true
+    },
+    {
+      "handoff": "COMMITMENTS",
+      "runtime_equals_freeze": true
+    },
+    {
+      "handoff": "RECONCILED",
+      "runtime_equals_freeze": true
+    }
+  ],
+  "public_projection_sha256": {
+    "american-civil-liberties-union-of-nevada-v-heller_merits_2005-05-16.md": "fcc9fbf7b9f148a07f4f7648034089ff0c36ecef8a33d96126067f958b466ded",
+    "bates-v-dow-agrosciences-llc_merits_2005-04-27.md": "2a3039f251f0628bb623ecce1ccaa683b717a6f9fea122d677408cd21429274b",
+    "doe-v-porter_merits_2005-04-26.md": "d37ae6bf90ed5293ef7c24389622b8cb11ad8499bcfedc54c612353282bc1c47",
+    "gates-v-cook_merits_2005-04-27.md": "b13a82aadeca37e1ae9c4aec25d444d3f1f90e70d4b6401e681a183d9ac863e5",
+    "granholm-v-heald_merits_2005-05-16.md": "69c7e63e24fe542d9993eb693bb9d338db1806c2927d4d9ea6257a8910709996",
+    "pace-v-diguglielmo_merits_2005-04-27.md": "8028771f56cca2e736f37e0f15e8299504963478890b803a064554b10d2089d6",
+    "pasquantino-v-united-states_merits_2005-04-26.md": "2afb6e35756a7a212e46ea25168d7755d5322d9ca2db12519ff41ab087c09788",
+    "small-v-united-states_merits_2005-04-26.md": "b65bef21c1ac993f0bd6d5a5e9a20d1ac3ff2f45ec413f852fc66a5a1a487ec8"
+  },
+  "public_chief_name_errors": [],
+  "public_workflow_keyword_hits": [],
+  "local_links_checked": 522,
+  "local_link_errors": [],
+  "task_text_files_scanned": 176,
+  "forbidden_identifier_files": [],
+  "sequential_assignment_checks": [
+    {
+      "matter": "doe",
+      "leads_before": 53,
+      "counts": {
+        "Stone-Zsela": 5,
+        "Stevens": 6,
+        "O'Connor": 6,
+        "Scalia": 6,
+        "Kennedy": 6,
+        "Souter": 6,
+        "Thomas": 6,
+        "Ginsburg": 6,
+        "Breyer": 6
+      },
+      "last_counted_record": "monsanto-co-v-mcfarling_merits_2005-04-19.md"
+    },
+    {
+      "matter": "pasquantino",
+      "leads_before": 54,
+      "counts": {
+        "Stone-Zsela": 5,
+        "Stevens": 6,
+        "O'Connor": 6,
+        "Scalia": 6,
+        "Kennedy": 6,
+        "Souter": 6,
+        "Thomas": 6,
+        "Ginsburg": 6,
+        "Breyer": 7
+      },
+      "last_counted_record": "doe-v-porter_merits_2005-04-26.md"
+    },
+    {
+      "matter": "small",
+      "leads_before": 55,
+      "counts": {
+        "Stone-Zsela": 6,
+        "Stevens": 6,
+        "O'Connor": 6,
+        "Scalia": 6,
+        "Kennedy": 6,
+        "Souter": 6,
+        "Thomas": 6,
+        "Ginsburg": 6,
+        "Breyer": 7
+      },
+      "last_counted_record": "pasquantino-v-united-states_merits_2005-04-26.md"
+    },
+    {
+      "matter": "bates",
+      "leads_before": 56,
+      "counts": {
+        "Stone-Zsela": 6,
+        "Stevens": 6,
+        "O'Connor": 7,
+        "Scalia": 6,
+        "Kennedy": 6,
+        "Souter": 6,
+        "Thomas": 6,
+        "Ginsburg": 6,
+        "Breyer": 7
+      },
+      "last_counted_record": "small-v-united-states_merits_2005-04-26.md"
+    },
+    {
+      "matter": "gates",
+      "leads_before": 57,
+      "counts": {
+        "Stone-Zsela": 6,
+        "Stevens": 7,
+        "O'Connor": 7,
+        "Scalia": 6,
+        "Kennedy": 6,
+        "Souter": 6,
+        "Thomas": 6,
+        "Ginsburg": 6,
+        "Breyer": 7
+      },
+      "last_counted_record": "bates-v-dow-agrosciences-llc_merits_2005-04-27.md"
+    },
+    {
+      "matter": "pace",
+      "leads_before": 58,
+      "counts": {
+        "Stone-Zsela": 6,
+        "Stevens": 7,
+        "O'Connor": 7,
+        "Scalia": 6,
+        "Kennedy": 6,
+        "Souter": 7,
+        "Thomas": 6,
+        "Ginsburg": 6,
+        "Breyer": 7
+      },
+      "last_counted_record": "gates-v-cook_merits_2005-04-27.md"
+    },
+    {
+      "matter": "heller",
+      "leads_before": 59,
+      "counts": {
+        "Stone-Zsela": 6,
+        "Stevens": 7,
+        "O'Connor": 7,
+        "Scalia": 7,
+        "Kennedy": 6,
+        "Souter": 7,
+        "Thomas": 6,
+        "Ginsburg": 6,
+        "Breyer": 7
+      },
+      "last_counted_record": "pace-v-diguglielmo_merits_2005-04-27.md"
+    },
+    {
+      "matter": "granholm",
+      "leads_before": 60,
+      "counts": {
+        "Stone-Zsela": 6,
+        "Stevens": 7,
+        "O'Connor": 7,
+        "Scalia": 7,
+        "Kennedy": 7,
+        "Souter": 7,
+        "Thomas": 6,
+        "Ginsburg": 6,
+        "Breyer": 7
+      },
+      "last_counted_record": "american-civil-liberties-union-of-nevada-v-heller_merits_2005-05-16.md"
+    }
+  ],
+  "final_counted_leads": 61,
+  "final_counts": {
+    "Stone-Zsela": 6,
+    "Stevens": 7,
+    "O'Connor": 7,
+    "Scalia": 7,
+    "Kennedy": 7,
+    "Souter": 7,
+    "Thomas": 6,
+    "Ginsburg": 7,
+    "Breyer": 7
+  },
+  "manifest_inventory_rows": 105,
+  "manifest_completed": 64,
+  "manifest_open": 41,
+  "errors": []
+}

@@ -1,0 +1,200 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 1190,
+    "params": {
+      "query": "collection:us-supreme-court AND ((text:&quot;03-725&quot; OR text:&quot;03-725&quot; OR text__reviews:&quot;03-725&quot;) OR (text:Pasquantino OR text:Pasquantino OR text__reviews:Pasquantino))",
+      "qin": "collection:us-supreme-court AND (&quot;03-725&quot; OR &quot;Pasquantino&quot;)",
+      "fields": "_default_",
+      "wt": "json",
+      "rows": 20,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 3,
+    "start": 0,
+    "docs": [
+      {
+        "avg_rating": 0,
+        "btih": "ca84c38f5b45d346367c33104a51a79af69c857a",
+        "collection": [
+          "USGovernmentDocuments",
+          "us-supreme-court",
+          "government-documents",
+          "microfiche"
+        ],
+        "contributor": "Internet Archive",
+        "creator": "Supreme Court of the United States",
+        "date": "2005-01-01T00:00:00Z",
+        "description": "Case name: Pasquantino v. United States Opinion filed: 2005-04-26 Docket No.: 03-725 Citations: \u2022 161 L. Ed. 2d 619 \u2022 125 S. Ct. 1766 \u2022 544 U.S. 349 \u2022 2005 U.S. LEXIS 3701 Case holding summaries: \u2022 explaining that absence of such a case prevented Court from \"say[ing] with any reasonable certainty whether Congress in 1952 would have considered this prosecution within the revenue rule\" \u2022 rejecting nonderogation argument when factual differences between common law cases and application of statute were \"significant\" \u2022 \"`scheme or artifice to defraud'\" \u2022 \"National [foreign] policy judgments . . . could be undermined if federal courts were to give general effect to wire fraud prosecutions for . . . violating the revenue laws of any country.\" \u2022 \"[U]pholding defendants' section 1343 conviction would amount . . . to penal enforcement of Canadian customs and tax laws.\" \u2022 \"scheme or artifice to defraud\"; \"money or property\" \u2022 holding that \u00a7 1341 does not reach schemes to make false statements on a state license application, in part based on reluctance to \"approve a sweeping expansion of federal criminal jurisdiction in the absence of a clear statement by Congress\" \u2022 stating the revenue rule as an exception to the rule that a State enforces foreign judgments, citing, inter alia, pre-1952 cases \u2022 declining to interpret the term \"`stolen'\" in a federal criminal statute according to the common law because the term had \"no accepted common-law meaning\" \u2022 requiring the statute to \"`speak directly' to the question addressed by the common law\" \u2022 holding that a scheme to defraud a foreign nation of tax revenue does not violate the wire fraud statute \u2022 holding that the Government of Canada cannot bring a civil RICO suit to recover for a scheme to defraud it of taxes \u2022 same with respect to other foreign governments \u2022 \"The significant fact is the intent and purpose\" \u2022 stating that the right to collect previously uncollected excise taxes is \u201c\u201eproperty\u201f in [a Government\u201fs] hands\u201d, and that \u201c[t]his right is an entitlement to collect money . . . , the possession of which is \u201esomething of value\u201f to the Government. . . .\u201d \u2022 holding that a scheme to defraud a foreign nation of tax revenue violates the wire fraud statute \u2022 refusing to construe 18 U. S. C. \u00a7 1341, the mail fraud statute, to reach corruption in local government, stating: \"[W]e read \u00a7 1341 as limited in scope to the protection of property rights. If Congress desires to go further, it must speak more clearly than it has.\" \u2022 declining to address \"matter . . . not raised or decided below, or presented in the petition for certiorari\" \u2022 stating that this presumption is applicable \"where a common-law principle is well established\" \u2022 referring to presumption that \"legislators take account of the legitimate sovereign interests of other nations when they write American laws\" \u2022 affirming federal convictions despite the imposition of sentence enhancements, see Brief for Petitioners therein, O. T. 2004, No. 03-1293, etc., p. 7, n. 6 \u2022 \"When interpreting a statute, we must give words their ordinary or natural meaning\" (internal quotation marks omitted) \u2022 \u201cTo give these same words a differ- ent meaning for each category would be to invent a statute rather than interpret one.\u201d \u2022 \"[T]he wire fraud statute punishes fraudulent use of domestic wires.\" \u2022 \u201cThe right to be paid money has long been thought to be a species of property.\u201d \u2022 \"the wire fraud statute punishes frauds executed `in interstate or foreign commerce'\" (emphasis added) \u2022 holding that the wire fraud statute, 18 U.S.C. \u00a7 1343, applied to a scheme to smuggle liquor into Canada without paying excise taxes because the statute refers to \"communication in interstate or foreign commerce\" \u2022 suggesting that Cleveland\u2019s construction of the \u00a7 1341 (mail fraud) applies equally to \u00a7 1343 (wire fraud) \u2022 \"The mere fact that two federal criminal statutes criminalize similar conduct says little about the scope of either\" \u2022 holding that evidence of \u201c[p]etitioners\u2019 smuggling operation\u201d satisfied two elements of the federal wire fraud statute \u2022 \u201cThe right to be paid money has long been thought to be a species of property.\u201d \u2022 \u201cThe purpose of awarding restitution in this action is not to collect a foreign tax, but to mete out appropriate criminal punishment for that conduct.\u201d \u2022 \u201cThe 18 purpose of awarding restitution . . . is . . . to mete out appropriate criminal punishment for . . . conduct.\u201d \u2022 recognizing a \"right to be paid money\" as property under mail and wire fraud statutes \u2022 \u201cThe mere fact that two federal criminal statutes criminalize similar conduct says little about the scope of either.\u201d \u2022 holding that \"[v]aluable entitlement[]\" to be paid taxes is property \u2022 holding that evidence of \u201c[p]etitioners\u2019 smuggling operation\u201d satisfied two elements of the federal wire fraud statute \u2022 \u201cThe right to be paid money has long been thought to be a species of property.\u201d \u2022 distinguishing Cleveland and upholding wire fraud conviction for scheme to defraud Canadian government of tax revenue \u2022 describing purpose of awarding restitution under MVRA in the case as \"to mete out appropriate criminal punishment for that conduct\" \u2022 holding that evidence of \u201c[p]etitioners\u2019 smuggling operation\u201d satisfied two elements of the federal wire fraud statute \u2022 \u201cThe right to be paid money has long been thought to be a species of property.\u201d \u2022 use of federal wire fraud statute to block interstate communications, in the United States, designed to defraud Canada of tax revenues is not an impermissible extraterritorial application \u2022 \"[t]he wire fraud statute 9 punishes the scheme, not its success\" (internal quotation marks omitted) \u2022 \"we have construed identical language in the wire 17 and mail fraud statutes in pari materia[, s]ee Neder v. United States, 527 U.S. 1, 20 (1999) 18 ('\"scheme or artifice to defraud\"')\" \u2022 noting that whether restitution is mandatory or discretionary does not change government's interest in enforcing orders of restitution \u2022 defining \"statutory maximum\" as \"the maximum sentence a judge may impose solely on the basis of the facts reflected in the jury verdict or admitted by the defendant \" \u2022 \u201cCanada\u2019s right to uncollected excise taxes on the liquor petitioners imported into Canada is \u2018property\u2019 in its hands.\u201d \u2022 observing that \"when con- fronted with two rational readings of a criminal statute, one harsher than the other, we are to choose the harsher only when Congress has spoken in clear and definite language\" \u2022 \u201cThe wire fraud statute punishes the scheme, not its success.\u201d (citations and quotation marks omitted)",
+        "downloads": 602,
+        "external-identifier": "urn:courtlistener:142889/pasquantino-v-united-states",
+        "format": [
+          "AVIF Thumbnails ZIP",
+          "Archive BitTorrent",
+          "DjVuTXT",
+          "Djvu XML",
+          "Item Image",
+          "Item Tile",
+          "Metadata",
+          "Micro Cards Data JSON",
+          "Micro Cards JP2 ZIP",
+          "OCR Page Index",
+          "OCR Search Text",
+          "Page Numbers JSON",
+          "Scandata",
+          "Single Page Processed JP2 ZIP",
+          "Text PDF",
+          "chOCR",
+          "hOCR"
+        ],
+        "identifier": "micro_IA40385014_0721",
+        "imagecount": 258,
+        "indexflag": [
+          "index",
+          "nonoindex",
+          "scanned_by_ia"
+        ],
+        "item_size": 1133579475,
+        "language": "eng",
+        "mediatype": "texts",
+        "month": 15,
+        "num_reviews": 1,
+        "oai_updatedate": [
+          "2024-03-14T15:18:59Z",
+          "2024-03-14T15:08:19Z",
+          "2026-04-28T08:45:57Z",
+          "2026-04-28T08:45:43Z"
+        ],
+        "publicdate": "2024-03-14T15:08:19Z",
+        "reviewdate": "2026-04-28T08:45:43Z",
+        "source": "Microfiche",
+        "subject": "Decision",
+        "title": "Pasquantino v. United States, 544 U.S. 349 (2005) (No. 03-725)",
+        "week": 6,
+        "year": 2005
+      },
+      {
+        "avg_rating": 0,
+        "btih": "d6d67eceb8d778f6d599c77a8475316d83f723a8",
+        "collection": [
+          "microfiche",
+          "us-supreme-court",
+          "USGovernmentDocuments"
+        ],
+        "contributor": "Internet Archive",
+        "creator": "Supreme Court of the United States",
+        "date": "2005-01-01T00:00:00Z",
+        "description": "Case name: European Community v. Rjr Nabisco, Inc. Opinion filed: 2005-05-02 Docket No.: 03-1427 Citations: \u2022 544 U.S. 1012",
+        "downloads": 190,
+        "external-identifier": "urn:courtlistener:144350/european-community-v-rjr-nabisco-inc",
+        "format": [
+          "AVIF Thumbnails ZIP",
+          "Archive BitTorrent",
+          "DjVuTXT",
+          "Djvu XML",
+          "Item Image",
+          "Item Tile",
+          "Metadata",
+          "Micro Cards Data JSON",
+          "Micro Cards JP2 ZIP",
+          "OCR Page Index",
+          "OCR Search Text",
+          "Page Numbers JSON",
+          "Scandata",
+          "Single Page Processed JP2 ZIP",
+          "Text PDF",
+          "chOCR",
+          "hOCR"
+        ],
+        "identifier": "micro_IA40385017_1555",
+        "imagecount": 202,
+        "indexflag": [
+          "index",
+          "nonoindex",
+          "scanned_by_ia"
+        ],
+        "item_size": 1058738536,
+        "language": "eng",
+        "mediatype": "texts",
+        "month": 19,
+        "num_reviews": 1,
+        "oai_updatedate": [
+          "2025-01-14T03:06:11Z",
+          "2025-01-10T17:20:12Z",
+          "2026-04-28T08:55:06Z",
+          "2026-04-28T08:54:53Z"
+        ],
+        "publicdate": "2025-01-10T17:20:12Z",
+        "reviewdate": "2026-04-28T08:54:53Z",
+        "source": "Microfiche",
+        "subject": "Cert. Denied",
+        "title": "European Community v. Rjr Nabisco, Inc., 544 U.S. 1012 (2005) (No. 03-1427)",
+        "week": 2,
+        "year": 2005
+      },
+      {
+        "avg_rating": 0,
+        "btih": "80fa59049d552008b8bc8c37e4f22a1e4a061c1e",
+        "collection": [
+          "USGovernmentDocuments",
+          "government-documents",
+          "microfiche",
+          "us-supreme-court"
+        ],
+        "contributor": "Internet Archive",
+        "creator": "Supreme Court of the United States",
+        "date": "2005-01-01T00:00:00Z",
+        "description": "Case name: Pasquantino v. United States Opinion filed: 2005-04-26 Docket No.: 03-725 Citations: \u2022 161 L. Ed. 2d 619 \u2022 125 S. Ct. 1766 \u2022 544 U.S. 349 \u2022 2005 U.S. LEXIS 3701 Case holding summaries: \u2022 explaining that absence of such a case prevented Court from \"say[ing] with any reasonable certainty whether Congress in 1952 would have considered this prosecution within the revenue rule\" \u2022 rejecting nonderogation argument when factual differences between common law cases and application of statute were \"significant\" \u2022 \"`scheme or artifice to defraud'\" \u2022 \"National [foreign] policy judgments . . . could be undermined if federal courts were to give general effect to wire fraud prosecutions for . . . violating the revenue laws of any country.\" \u2022 \"[U]pholding defendants' section 1343 conviction would amount . . . to penal enforcement of Canadian customs and tax laws.\" \u2022 \"scheme or artifice to defraud\"; \"money or property\" \u2022 holding that \u00a7 1341 does not reach schemes to make false statements on a state license application, in part based on reluctance to \"approve a sweeping expansion of federal criminal jurisdiction in the absence of a clear statement by Congress\" \u2022 stating the revenue rule as an exception to the rule that a State enforces foreign judgments, citing, inter alia, pre-1952 cases \u2022 declining to interpret the term \"`stolen'\" in a federal criminal statute according to the common law because the term had \"no accepted common-law meaning\" \u2022 requiring the statute to \"`speak directly' to the question addressed by the common law\" \u2022 holding that a scheme to defraud a foreign nation of tax revenue does not violate the wire fraud statute \u2022 holding that the Government of Canada cannot bring a civil RICO suit to recover for a scheme to defraud it of taxes \u2022 same with respect to other foreign governments \u2022 \"The significant fact is the intent and purpose\" \u2022 stating that the right to collect previously uncollected excise taxes is \u201c\u201eproperty\u201f in [a Government\u201fs] hands\u201d, and that \u201c[t]his right is an entitlement to collect money . . . , the possession of which is \u201esomething of value\u201f to the Government. . . .\u201d \u2022 holding that a scheme to defraud a foreign nation of tax revenue violates the wire fraud statute \u2022 refusing to construe 18 U. S. C. \u00a7 1341, the mail fraud statute, to reach corruption in local government, stating: \"[W]e read \u00a7 1341 as limited in scope to the protection of property rights. If Congress desires to go further, it must speak more clearly than it has.\" \u2022 declining to address \"matter . . . not raised or decided below, or presented in the petition for certiorari\" \u2022 stating that this presumption is applicable \"where a common-law principle is well established\" \u2022 referring to presumption that \"legislators take account of the legitimate sovereign interests of other nations when they write American laws\" \u2022 affirming federal convictions despite the imposition of sentence enhancements, see Brief for Petitioners therein, O. T. 2004, No. 03-1293, etc., p. 7, n. 6 \u2022 \"When interpreting a statute, we must give words their ordinary or natural meaning\" (internal quotation marks omitted) \u2022 \u201cTo give these same words a differ- ent meaning for each category would be to invent a statute rather than interpret one.\u201d \u2022 \"[T]he wire fraud statute punishes fraudulent use of domestic wires.\" \u2022 \u201cThe right to be paid money has long been thought to be a species of property.\u201d \u2022 \"the wire fraud statute punishes frauds executed `in interstate or foreign commerce'\" (emphasis added) \u2022 holding that the wire fraud statute, 18 U.S.C. \u00a7 1343, applied to a scheme to smuggle liquor into Canada without paying excise taxes because the statute refers to \"communication in interstate or foreign commerce\" \u2022 suggesting that Cleveland\u2019s construction of the \u00a7 1341 (mail fraud) applies equally to \u00a7 1343 (wire fraud) \u2022 \"The mere fact that two federal criminal statutes criminalize similar conduct says little about the scope of either\" \u2022 holding that evidence of \u201c[p]etitioners\u2019 smuggling operation\u201d satisfied two elements of the federal wire fraud statute \u2022 \u201cThe right to be paid money has long been thought to be a species of property.\u201d \u2022 \u201cThe purpose of awarding restitution in this action is not to collect a foreign tax, but to mete out appropriate criminal punishment for that conduct.\u201d \u2022 \u201cThe 18 purpose of awarding restitution . . . is . . . to mete out appropriate criminal punishment for . . . conduct.\u201d \u2022 recognizing a \"right to be paid money\" as property under mail and wire fraud statutes \u2022 \u201cThe mere fact that two federal criminal statutes criminalize similar conduct says little about the scope of either.\u201d \u2022 holding that \"[v]aluable entitlement[]\" to be paid taxes is property \u2022 holding that evidence of \u201c[p]etitioners\u2019 smuggling operation\u201d satisfied two elements of the federal wire fraud statute \u2022 \u201cThe right to be paid money has long been thought to be a species of property.\u201d \u2022 distinguishing Cleveland and upholding wire fraud conviction for scheme to defraud Canadian government of tax revenue \u2022 describing purpose of awarding restitution under MVRA in the case as \"to mete out appropriate criminal punishment for that conduct\" \u2022 holding that evidence of \u201c[p]etitioners\u2019 smuggling operation\u201d satisfied two elements of the federal wire fraud statute \u2022 \u201cThe right to be paid money has long been thought to be a species of property.\u201d \u2022 use of federal wire fraud statute to block interstate communications, in the United States, designed to defraud Canada of tax revenues is not an impermissible extraterritorial application \u2022 \"[t]he wire fraud statute 9 punishes the scheme, not its success\" (internal quotation marks omitted) \u2022 \"we have construed identical language in the wire 17 and mail fraud statutes in pari materia[, s]ee Neder v. United States, 527 U.S. 1, 20 (1999) 18 ('\"scheme or artifice to defraud\"')\" \u2022 noting that whether restitution is mandatory or discretionary does not change government's interest in enforcing orders of restitution \u2022 defining \"statutory maximum\" as \"the maximum sentence a judge may impose solely on the basis of the facts reflected in the jury verdict or admitted by the defendant \" \u2022 \u201cCanada\u2019s right to uncollected excise taxes on the liquor petitioners imported into Canada is \u2018property\u2019 in its hands.\u201d \u2022 observing that \"when con- fronted with two rational readings of a criminal statute, one harsher than the other, we are to choose the harsher only when Congress has spoken in clear and definite language\" \u2022 \u201cThe wire fraud statute punishes the scheme, not its success.\u201d (citations and quotation marks omitted)",
+        "downloads": 81,
+        "external-identifier": "urn:courtlistener:142889/pasquantino-v-united-states",
+        "foldoutcount": 0,
+        "format": [
+          "AVIF Thumbnails ZIP",
+          "Archive BitTorrent",
+          "DjVuTXT",
+          "Djvu XML",
+          "Item Image",
+          "Item Tile",
+          "Metadata",
+          "Micro Cards Data JSON",
+          "Micro Cards JP2 ZIP",
+          "OCR Page Index",
+          "OCR Search Text",
+          "Page Numbers JSON",
+          "Scandata",
+          "Single Page Processed JP2 ZIP",
+          "Text PDF",
+          "chOCR",
+          "hOCR"
+        ],
+        "identifier": "micro_IA40385016_0144",
+        "imagecount": 38,
+        "indexflag": [
+          "index",
+          "nonoindex",
+          "scanned_by_ia"
+        ],
+        "item_size": 95164352,
+        "language": "eng",
+        "mediatype": "texts",
+        "month": 2,
+        "num_reviews": 1,
+        "oai_updatedate": [
+          "2024-03-19T02:17:28Z",
+          "2024-03-19T01:29:10Z",
+          "2026-04-28T08:48:07Z",
+          "2026-04-28T08:47:58Z"
+        ],
+        "publicdate": "2024-03-19T01:29:10Z",
+        "reviewdate": "2026-04-28T08:47:58Z",
+        "source": "Microfiche",
+        "subject": "Decision",
+        "title": "Pasquantino v. United States, 544 U.S. 349 (2005) (No. 03-725)",
+        "week": 0,
+        "year": 2005
+      }
+    ]
+  }
+}

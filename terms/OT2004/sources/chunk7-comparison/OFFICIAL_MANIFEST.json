@@ -1,0 +1,27 @@
+[
+  {
+    "case": "pasquantino",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep544/usrep544349/usrep544349.pdf",
+    "pages": 36
+  },
+  {
+    "case": "small",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep544/usrep544385/usrep544385.pdf",
+    "pages": 23
+  },
+  {
+    "case": "pace",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep544/usrep544408/usrep544408.pdf",
+    "pages": 23
+  },
+  {
+    "case": "bates",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep544/usrep544431/usrep544431.pdf",
+    "pages": 29
+  },
+  {
+    "case": "granholm",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep544/usrep544460/usrep544460.pdf",
+    "pages": 68
+  }
+]

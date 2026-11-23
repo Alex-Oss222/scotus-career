@@ -1,0 +1,471 @@
+
+
+
+
+
+
+
+
+Act of Nov. 17, 1995, Special Session 1, P.L. 1118, No. 32 Cl. 42 - JUDICIAL CODE (42 PA.C.S.) - AMEND
+
+
+
+
+
+
+
+
+
+                    JUDICIAL CODE (42 PA.C.S.) - AMEND
+        Act of Nov. 17, 1995, Special Session 1, P.L. 1118, No. 32    Cl. 42
+                      Special Session No. 1 of 1995
+                               No. 1995-32
+
+     SB 81
+
+                                  AN ACT
+
+     Amending Title 42 (Judiciary and Judicial Procedure) of the
+        Pennsylvania Consolidated Statutes, further providing for
+        postconviction relief; and providing for unitary review in
+        death penalty cases.
+
+        The General Assembly of the Commonwealth of Pennsylvania
+     hereby enacts as follows:
+
+        Section 1.  Sections 9542, 9543, 9544, 9545 and 9546 of Title
+     42 of the Pennsylvania Consolidated Statutes are amended to
+     read:
+      § 9542.  Scope of subchapter.
+        This subchapter provides for an action by which persons
+     convicted of crimes they did not commit [or] and persons serving
+     [unlawful] illegal sentences may obtain collateral relief [and
+     for an action by which persons can raise claims which are
+     properly a basis for Federal habeas corpus relief]. The action
+     established in this subchapter shall be the sole means of
+     obtaining collateral relief and encompasses all other common law
+     and statutory remedies for the same purpose that exist when this
+     subchapter takes effect, including habeas corpus and coram
+     nobis. This subchapter is not intended to limit the availability
+     of remedies in the trial court or on direct appeal from the
+     judgment of sentence, nor is this subchapter intended to provide
+     a means for raising issues waived in prior proceedings. Except
+     as specifically provided otherwise, all provisions of this
+     subchapter shall apply to capital and noncapital cases.
+      § 9543.  Eligibility for relief.
+        (a)  General rule.--To be eligible for relief under this
+     subchapter, [a person] the petitioner must plead and prove by a
+     preponderance of the evidence all of the following:
+            (1)  That the [person] petitioner has been convicted of a
+        crime under the laws of this Commonwealth and is:
+                (i)  currently serving a sentence of imprisonment,
+            probation or parole for the crime;
+                (ii)  awaiting execution of a sentence of death for
+            the crime; or
+                (iii)  serving a sentence which must expire before
+            the person may commence serving the disputed sentence.
+            (2)  That the conviction or sentence resulted from one or
+        more of the following:
+                (i)  A violation of the Constitution [of Pennsylvania
+            or laws] of this Commonwealth or the Constitution or laws
+            of the United States which, in the circumstances of the
+            particular case, so undermined the truth-determining
+            process that no reliable adjudication of guilt or
+            innocence could have taken place.
+                (ii)  Ineffective assistance of counsel which, in the
+            circumstances of the particular case, so undermined the
+            truth-determining process that no reliable adjudication
+            of guilt or innocence could have taken place.
+                (iii)  A plea of guilty unlawfully induced where the
+            circumstances make it likely that the inducement caused
+            [an individual] the petitioner to plead guilty and the
+            petitioner is innocent.
+                (iv)  The improper obstruction by [Commonwealth]
+            government officials of the petitioner's right of appeal
+            where a meritorious appealable issue existed and was
+            properly preserved in the trial court.
+                [(v)  A violation of the provisions of the
+            Constitution, law or treaties of the United States which
+            would require the granting of Federal habeas corpus
+            relief to a State prisoner.]
+                (vi)  The unavailability at the time of trial of
+            exculpatory evidence that has subsequently become
+            available and [that] would have [affected] changed the
+            outcome of the trial if it had been introduced.
+                (vii)  The imposition of a sentence greater than the
+            lawful maximum.
+                (viii)  A proceeding in a tribunal without
+            jurisdiction.
+            (3)  That the allegation of error has not been
+        [previously litigated and one of the following applies:
+                (i)  The allegation of error has not been waived.
+                (ii)  If the allegation of error has been waived, the
+            alleged error has resulted in the conviction or
+            affirmance of sentence of an innocent individual.
+                (iii)  If the allegation of error has been waived,
+            the waiver of the allegation of error during pretrial,
+            trial, post-trial or direct appeal proceedings does not
+            constitute a State procedural default barring Federal
+            habeas corpus relief.] previously litigated or waived.
+            (4)  That the failure to litigate the issue prior to or
+        during trial, during unitary review or on direct appeal could
+        not have been the result of any rational, strategic or
+        tactical decision by counsel.
+        (b)  Exception.--Even if the petitioner [meets] has met the
+     requirements of subsection (a), the petition shall be dismissed
+     if it appears at any time that, because of delay in filing the
+     petition, the Commonwealth has been prejudiced either in its
+     ability to respond to the petition or in its ability to re-try
+     the petitioner. A petition may be dismissed due to delay in the
+     filing by the petitioner only after a hearing upon a motion to
+     dismiss. This subsection does not apply if the petitioner shows
+     that the petition is based on grounds of which the petitioner
+     could not have [had knowledge] discovered by the exercise of
+     reasonable diligence before the delay became prejudicial to the
+     Commonwealth.
+      § 9544.  Previous litigation and waiver.
+        (a)  Previous litigation.--For [the purpose] purposes of this
+     subchapter, an issue has been previously litigated if:
+            [(1)  it has been raised in the trial court, the trial
+        court has ruled on the merits of the issue and the petitioner
+        did not appeal;]
+            (2)  the highest appellate court in which the petitioner
+        could have had review as a matter of right has ruled on the
+        merits of the issue; or
+            (3)  it has been raised and decided in a proceeding
+        collaterally attacking the conviction or sentence.
+        (b)  Issues waived.--For [the] purposes of this subchapter,
+     an issue is waived if the petitioner could have raised it but
+     failed to [raise it and if it could have been raised] do so
+     before [the] trial, at [the] trial, during unitary review, on
+     appeal[,] or in a [habeas corpus] prior state postconviction
+     proceeding [or other proceeding actually conducted or in a prior
+     proceeding actually initiated under this subchapter].
+      § 9545.  Jurisdiction and proceedings.
+        (a)  Original jurisdiction.--Original jurisdiction over a
+     proceeding under this subchapter shall be in the court [in which
+     the conviction was obtained.] of common pleas. No court shall
+     have authority to entertain a request for any form of relief in
+     anticipation of the filing of a petition under this subchapter.
+        [(b)  Rules governing proceedings.--The Supreme Court may, by
+     general rule, prescribe procedures to implement the action
+     established under this subchapter but shall not expand, contract
+     or modify the grounds for relief set forth in this subchapter.]
+        (b)  Time for filing petition.--
+            (1)  Any petition under this subchapter, including a
+        second or subsequent petition, shall be filed within one year
+        of the date the judgment becomes final, unless the petition
+        alleges and the petitioner proves that:
+                (i)  the failure to raise the claim previously was
+            the result of interference by government officials with
+            the presentation of the claim in violation of the
+            Constitution or laws of this Commonwealth or the
+            Constitution or laws of the United States;
+                (ii)  the facts upon which the claim is predicated
+            were unknown to the petitioner and could not have been
+            ascertained by the exercise of due diligence; or
+                (iii)  the right asserted is a constitutional right
+            that was recognized by the Supreme Court of the United
+            States or the Supreme Court of Pennsylvania after the
+            time period provided in this section and has been held by
+            that court to apply retroactively.
+            (2)  Any petition invoking an exception provided in
+        paragraph (1) shall be filed within 60 days of the date the
+        claim could have been presented.
+            (3)  For purposes of this subchapter, a judgment becomes
+        final at the conclusion of direct review, including
+        discretionary review in the Supreme Court of the United
+        States and the Supreme Court of Pennsylvania, or at the
+        expiration of time for seeking the review.
+            (4)  For purposes of this subchapter, "government
+        officials" shall not include defense counsel, whether
+        appointed or retained.
+        (c)  Stay of execution.--
+            (1)  No court shall have the authority to issue a stay of
+        execution in any case except as allowed under this
+        subchapter.
+            (2)  Except for first petitions filed under this
+        subchapter by defendants whose sentences have been affirmed
+        on direct appeal by the Supreme Court of Pennsylvania between
+        January 1, 1994, and January 1, 1996, no stay may be issued
+        unless a petition for postconviction relief which meets all
+        the requirements of this subchapter has been filed and is
+        pending and the petitioner makes a strong showing of
+        likelihood of success on the merits.
+            (3)  If a stay of execution is granted, all limitations
+        periods set forth under sections 9574 (relating to answer to
+        petition), 9575 (relating to disposition without evidentiary
+        hearing) and 9576 (relating to evidentiary hearing) shall
+        apply to the litigation of the petition.
+        (d)  Evidentiary hearing.--
+            (1)  Where a petitioner requests an evidentiary hearing,
+        the petition shall include a signed certification as to each
+        intended witness stating the witness's name, address, date of
+        birth and substance of testimony and shall include any
+        documents material to that witness's testimony. Failure to
+        substantially comply with the requirements of this paragraph
+        shall render the proposed witness's testimony inadmissible.
+            (2)  No discovery, at any stage of proceedings under this
+        subchapter, shall be permitted except upon leave of court
+        with a showing of exceptional circumstances.
+            (3)  When a claim for relief is based on an allegation of
+        ineffective assistance of counsel as a ground for relief, any
+        privilege concerning counsel's representation as to that
+        issue shall be automatically terminated.
+      § 9546.  Relief and order.
+        (a)  General rule.--If the court [finds] rules in favor of
+     the petitioner, it shall order appropriate relief and issue
+     supplementary orders as to rearraignment, retrial, custody,
+     bail, discharge, correction of sentence or other matters that
+     are necessary and proper.
+        [(b)  Grounds to be stated.--The order finally disposing of
+     the petition shall state grounds on which the case was
+     determined.
+        (c)  Status of order.--The order constitutes a final judgment
+     for purposes of review.]
+        (d)  Review of order in death penalty cases.--[A final court]
+     An order under this subchapter granting the petitioner final
+     relief in a case in which the death penalty has been imposed
+     shall be directly appealable [only] by the Commonwealth to the
+     Supreme Court pursuant to its rules. An order under this
+     subchapter denying a petitioner final relief in a case in which
+     the death penalty has been imposed shall be reviewable only by
+     petition for allowance of appeal to the Supreme Court.
+        Section 2.  Chapter 95 of Title 42 is amended by adding a
+     subchapter to read:
+                               SUBCHAPTER D
+                  UNITARY REVIEW IN DEATH PENALTY CASES
+     Sec.
+     9570.  Short title of subchapter.
+     9571.  Scope of subchapter.
+     9572.  Representation of counsel.
+     9573.  Time for petition; contents of petition.
+     9574.  Answer to petition.
+     9575.  Disposition without evidentiary hearing.
+     9576.  Evidentiary hearing.
+     9577.  Disposition and appeal.
+     9578.  Subsequent petitions.
+     9579.  Certification.
+      § 9570.  Short title of subchapter.
+        This subchapter shall be known and may be cited as the
+     Capital Unitary Review Act.
+      § 9571.  Scope of subchapter.
+        (a)  Capital unitary review.--This subchapter establishes the
+     sole means of challenging proceedings that resulted in a
+     sentence of death. The unitary review proceeding provided by
+     this subchapter shall replace postappeal collateral review of
+     death penalty cases with preappeal collateral review.
+        (b)  Appointment of collateral counsel.--Under the action
+     provided in this subchapter, a person sentenced to death shall
+     be immediately entitled to new counsel for purposes of
+     collateral review. The collateral proceeding shall occur in the
+     trial court after the imposition of sentence and before appeal.
+     The petitioner may raise any claim that could not have been
+     raised previously, including claims of ineffective assistance of
+     counsel.
+        (c)  Capital appeal.--Direct appeal shall occur after the
+     trial court has concluded collateral review. Claims raised on
+     direct appeal shall be limited to those claims that were
+     preserved at trial and that may be resolved on the basis of the
+     record created up to and including sentencing. Collateral appeal
+     shall occur simultaneously with direct appeal. Claims raised on
+     collateral appeal shall be limited to claims that were preserved
+     in the collateral proceeding in the trial court and to any other
+     claim that could not have been raised previously, including
+     claims of ineffective assistance of counsel on direct appeal.
+        (d)  Limitation on subsequent petitions.--No further review
+     shall be available except as provided in this subchapter.
+        (e)  Capital case in which death penalty not imposed.--This
+     subchapter does not apply to capital cases in which the death
+     penalty was not imposed.
+      § 9572.  Representation of counsel.
+        (a)  Collateral counsel.--Immediately after the formal
+     imposition of sentence on all charges or within 30 days of the
+     verdict of the death penalty, whichever occurs later, the court
+     shall appoint new counsel for the purposes of collateral review,
+     unless:
+            (1)  the petitioner has elected to proceed pro se and the
+        court finds, after a colloquy on the record, that the
+        petitioner's election is knowing, intelligent and voluntary;
+        or
+            (2)  the petitioner retains counsel for the unitary
+        review proceeding.
+        (b)  Prior attorney.--No petitioner may be represented on
+     collateral review, either in the trial court or on appeal, by an
+     attorney, whether retained or appointed, who has represented the
+     petitioner at any other stage of the proceedings, including
+     direct appeal, unless the court finds, after a colloquy on the
+     record, that the petitioner has knowingly, intelligently and
+     voluntarily waived his right to challenge the effectiveness of
+     that attorney's representation.
+        (c)  Standards for appointment of counsel.--The Supreme Court
+     shall adopt standards for the appointment of counsel in capital
+     cases. These standards shall apply for the appointment of trial
+     counsel, collateral review counsel and appellate counsel. When
+     adopting the standards, the Supreme Court shall consider, where
+     practicable, the following criteria:
+            (1)  Counsel is admitted to practice in Pennsylvania.
+            (2)  Counsel is an experienced and active trial
+        practitioner with at least five years' litigation experience
+        in the field of criminal law.
+            (3)  Counsel has prior experience as counsel in a
+        specified number of trials or other relevant proceedings.
+            (4)  Counsel is familiar with the practice and procedure
+        of the appropriate courts, including Federal courts of the
+        jurisdiction.
+            (5)  Counsel has demonstrated the necessary proficiency
+        and commitment which exemplify the quality of representation
+        appropriate to capital cases.
+            (6)  Local practice for the appointment of counsel in
+        capital cases.
+     Absent standards established under this subsection, the court
+     may appoint such counsel as it deems qualified, in accordance
+     with any local rules or practices. The existence or
+     applicability of or failure to comply with such standards shall
+     not provide a basis for relief.
+      § 9573.  Time for petition; contents of petition.
+        (a)  Filing date.--Any petition under this subchapter shall
+     be filed within 120 days of the date the trial transcript is
+     filed with the court. The court may, for good cause shown, grant
+     extensions of time totaling no more than 90 days.
+        (b)  Subsequent or untimely claims.--Any claim raised after
+     the time specified in subsection (a) shall be dismissed unless
+     it satisfies section 9578 (relating to subsequent petitions).
+        (c)  Evidentiary hearing.--Where the petitioner requests an
+     evidentiary hearing, the petition shall include a signed
+     certification as to each intended witness stating the witness's
+     name, address, date of birth and substance of testimony and
+     shall include any documents material to that witness's
+     testimony. Failure to substantially comply with the requirements
+     of this subsection shall render the proposed witness's testimony
+     inadmissible.
+        (d)  Discovery.--Discovery shall be permitted, and no
+     reasonable discovery request of the petitioner shall be denied
+     except upon demonstration of exceptional circumstances
+     justifying denial of the discovery requests.
+        (e)  Claim for relief.--When a claim for relief is based on
+     an allegation of ineffective assistance of counsel as a ground
+     for relief, any privilege concerning counsel's representation as
+     to that issue shall be automatically terminated.
+      § 9574.  Answer to petition.
+        The Commonwealth may file a written answer to the petition
+     within 120 days of the filing and service of the petition. For
+     good cause shown, the court may grant an extension of time of up
+     to 90 days. Failure to file an answer shall not constitute an
+     admission of any facts alleged in the petition.
+      § 9575.  Disposition without evidentiary hearing.
+        (a)  Evidentiary hearing.--No more than 20 days after the
+     Commonwealth answers the petition or, if no answer is filed, 20
+     days after the deadline for answering, the court shall determine
+     whether or not an evidentiary hearing is warranted. An
+     evidentiary hearing shall not be warranted unless controverted,
+     previously unresolved factual issues material to petitioner's
+     conviction or sentence exist.
+        (b)  Written order.--Failure of the court to issue a written
+     order within the period prescribed under subsection (a) shall
+     constitute a determination that an evidentiary hearing is
+     warranted on any controverted, previously unresolved factual
+     issues material to petitioner's conviction or sentence.
+        (c)  Disposing of petition.--If the determination is made
+     that no evidentiary hearing is warranted, the court shall, no
+     later than 90 days from the date of that determination, dispose
+     of the petition, after oral argument if requested, and any
+     postsentence motions filed under the Pennsylvania Rules of
+     Criminal Procedure.
+      § 9576.  Evidentiary hearing.
+        (a)  Order.--If the court determines that an evidentiary
+     hearing is warranted, the court shall enter an order no more
+     than 20 days after the Commonwealth answers the petition or, if
+     no answer is filed, 20 days after the deadline for answering,
+     setting a date for the hearing.
+        (b)  Date.--The hearing shall be scheduled to occur not less
+     than ten days and not more than 45 days from the date of the
+     order setting the hearing. The court may, for good cause shown,
+     grant leave to continue the hearing.
+        (c)  Disposing of petition.--Not later than 90 days after the
+     evidentiary hearing, the court shall dispose of the petition and
+     any postsentence motions filed under the Pennsylvania Rules of
+     Criminal Procedure.
+      § 9577.  Disposition and appeal.
+        (a)  Capital unitary review.--Review by the Supreme Court
+     under section 9711(h) (relating to review of death sentence)
+     shall comprise direct appeal and collateral appeal. The common
+     pleas court order disposing of the petition under this
+     subchapter shall constitute the final judgment for purposes of
+     this review.
+        (b)  Briefs for petitioner.--Unless the petitioner has waived
+     the right to new counsel on collateral review, separate briefs
+     shall be filed for direct appeal and collateral appeal. The time
+     for filing the collateral appeal brief shall begin to run from
+     service of the petitioner's brief on direct appeal.
+        (c)  Brief for the Commonwealth.--The Commonwealth shall file
+     a brief in response to the petitioner's direct and collateral
+     appeal briefs. The time for filing the Commonwealth's brief
+     shall begin to run from service of the petitioner's brief on
+     collateral appeal.
+      § 9578.  Subsequent petitions.
+        (a)  Further review.--No further review shall be available
+     unless a petition is filed under Subchapter B (relating to post
+     conviction relief) alleging that:
+            (1)  the failure to raise the claim previously was the
+        result of interference by government officials with the
+        presentation of the claim in violation of the Constitution of
+        the United States or laws of the United States or the
+        Constitution of Pennsylvania or laws of this Commonwealth;
+            (2)  the facts upon which the claim is predicated were
+        unknown to the petitioner and could not have been ascertained
+        in the exercise of due diligence; or
+            (3)  the right asserted is a constitutional right that
+        was recognized by the Supreme Court of the United States or
+        the Supreme Court of Pennsylvania after the time period
+        provided in this section and has been held by that court to
+        apply retroactively.
+        (b)  Exception petition.--Any petition invoking an exception
+     provided in subsection (a) shall be filed within 60 days of the
+     date the claim could have been presented.
+      § 9579.  Certification.
+        (a)  General rule.--By presenting to the court, whether by
+     signing, filing, submitting or later advocating, a pleading,
+     written motion or other papers regarding a petition for
+     collateral relief, an attorney or unrepresented party is
+     certifying that, to the best of the person's knowledge,
+     information and belief, formed after an inquiry reasonable under
+     the circumstances, the following:
+            (1)  it is not being presented for any improper purpose,
+        such as to harass or to cause unnecessary delay or needless
+        increase in the cost of litigation;
+            (2)  the claims and other legal contentions in it are
+        warranted by existing law or by a nonfrivolous argument for
+        extension, modification or reversal of existing law or the
+        establishment of new law; and
+            (3)  the allegations and other factual contentions have
+        evidentiary support or, if specifically so identified, are
+        likely to have evidentiary support after a reasonable
+        opportunity for further investigation.
+        (b)  Sanctions.--If, after notice and a reasonable
+     opportunity to respond, the court determines that this section
+     has been violated, the court may impose an appropriate sanction
+     on the attorneys, law firms or parties that have violated this
+     section.
+        Section 3.  This act shall apply as follows:
+            (1)  The amendment of 42 Pa.C.S. §§ 9542, 9543, 9544,
+        9545 and 9546 shall apply to petitions filed after the
+        effective date of this act; however, a petitioner whose
+        judgment has become final on or before the effective date of
+        this act shall be deemed to have filed a timely petition
+        under 42 Pa.C.S. Ch. 95 Subch. B if the petitioner's first
+        petition is filed within one year of the effective date of
+        this act.
+            (2)  The addition of 42 Pa.C.S. Ch. 95 Subch. D shall
+        apply in all cases in which the death penalty is imposed on
+        or after January 1, 1996.
+        Section 4.  This act shall take effect in 60 days.
+
+     APPROVED--The 17th day of November, A. D. 1995.
+
+     THOMAS J. RIDGE
+
+
+
+
+

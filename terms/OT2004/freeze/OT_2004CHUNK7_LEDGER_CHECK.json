@@ -1,0 +1,23 @@
+{
+  "operation": "append canonical Records while preserving existing ledger rows",
+  "existing_rows_preserved": 57,
+  "new_rows_appended": 8,
+  "new_row_order": "effective date, then case caption alphabetically, then filename",
+  "prior_ledger_sha256": "cbb03f47f70d7cdb05616a2b6b899c95a39e3bcec06cb512886061b7d1dbef9d",
+  "result_ledger_sha256": "7353be80755480ff2e5dc6073a6496d791f0af60747c29b6660d4ed6ee2ad62d",
+  "appended_records": [
+    "doe-v-porter_merits_2005-04-26.md",
+    "pasquantino-v-united-states_merits_2005-04-26.md",
+    "small-v-united-states_merits_2005-04-26.md",
+    "bates-v-dow-agrosciences-llc_merits_2005-04-27.md",
+    "gates-v-cook_merits_2005-04-27.md",
+    "pace-v-diguglielmo_merits_2005-04-27.md",
+    "american-civil-liberties-union-of-nevada-v-heller_merits_2005-05-16.md",
+    "granholm-v-heald_merits_2005-05-16.md"
+  ],
+  "existing_order_and_history_cells": "preserved byte-for-byte",
+  "history_commands_executed": 0,
+  "child_processes_launched": 0,
+  "history_status": "SKIPPED by instruction; not passed or verified",
+  "governing_tools_modified": false
+}

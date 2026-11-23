@@ -1,0 +1,54 @@
+# October Term 2004, chunk 7 — Run validation
+
+**Status:** Eight scheduled merits events completed; no stopped matter and no unresolved substantive blocker. Effective dates: April 26, April 27 and May 16, 2005. The eight Canonical Decision Records, four coordinated workspace projections and generated eleven-block Render Input are ready for operator verification and repository commitment. Public Render remains a separate task.
+
+## Completed matters and assignment sequence
+
+| Effective date | Matter | Disposition and vote | Signed lead | Counted leads before assignment |
+|---|---|---|---|---:|
+| 2005-04-26 | Doe v. Porter | Affirmed, 9–0; all nine join standing and instruction holdings; eight Associates control protective-order and fee reasoning, with the Chief joining those judgments only | Breyer | 53 |
+| 2005-04-26 | Pasquantino v. United States | Convictions affirmed on statutory/revenue-rule question, 5–4; additional sentencing question not taken up in this review | Stone-Zsela | 54 |
+| 2005-04-26 | Small v. United States | Reversed and remanded, 6–3; foreign conviction excluded from the firearm predicate | O'Connor | 55 |
+| 2005-04-27 | Bates v. Dow Agrosciences LLC | Vacated and remanded, 9–0; categorical voluntary-warranty instruction, 7–2 | Stevens | 56 |
+| 2005-04-27 | Gates v. Cook | Affirmed in part, vacated in part and remanded, 9–0; supported protection retained and unrestricted professional-code incorporation removed | Souter | 57 |
+| 2005-04-27 | Pace v. DiGuglielmo | Affirmed, 5–4; statutory exclusion denied and asserted equity fails on diligence | Scalia | 58 |
+| 2005-05-16 | American Civil Liberties Union of Nevada v. Heller | Vacated and remanded, 6–3; all nine join standing and actual statutory scope, six control the disclosure standard and genuinely open remand | Kennedy | 59 |
+| 2005-05-16 | Granholm v. Heald and consolidated cases | Michigan judgments affirmed; New York Commerce Clause disposition reversed and remanded; 6–3 in each docket | Ginsburg | 60 |
+
+Opinion forms and full-opinion eligibility were fixed before the relevant fresh recount. Each count reads actual preceding current-term Record opinion tables, including earlier events in this Run and alphabetical same-date ordering. The Clark and Jama Records use their actual legacy Opinion Topology prose because no opinion table exists. Prior count statements were not the counting source. Every selected lead lies within the eligible minimum-plus-one pool, and each Record identifies the strongest alternative and the case-specific fit. No expansion exception was used.
+
+After this chunk, 61 signed leads are counted: Stone-Zsela 6; Stevens 7; O'Connor 7; Scalia 7; Kennedy 7; Souter 7; Thomas 6; Ginsburg 7; Breyer 7. Per curiam opinions, the jurisdictional action and the source admission retain their disclosed exclusions. The [independent check](OT_2004CHUNK7_INDEPENDENT_CHECK.json) reproduces all eight sequential counts from the final opinion tables.
+
+## Context boundaries and chronological law
+
+The approved brief was split mechanically with the governing splitter. All eight approval fields were validated; descriptive proposed-vote wording did not create an approval gap. The term inventory's scheduled posture was accepted under the standing direction. Neither missing original papers nor a need to verify a docket, grant, filing or jurisdictional statement stopped or conditioned a vote.
+
+Separate scoped contexts performed neutral preflight, independent modeling and historical reconciliation. The independent contexts received the neutral packets and date-eligible law without the comparator or private Chief Justice positions. Reconciliation received the frozen commitments and comparator without the current Chief supplement. Assembly received those frozen reconciliations and the approved supplement only after the relevant handoffs were durable.
+
+The initial Small preflight encountered ancillary later-treatment metadata while researching the lower opinion. It stopped the affected work. A fresh context validated sanitized case-body material, followed by clean independent modeling; the incident and restored boundaries remain documented in [Small's fresh preflight](OT_2004CHUNK7_SMALL_FRESH_PREFLIGHT.md). Additional process-section and unrelated objective-fact exposures documented by model B did not reveal withheld current Chief or historical-outcome material. Reconciliation's view of other comparator entries occurred only within its authorized later stage. No single-conversation blindness claim is made for the assembly operator.
+
+The April 26 group used law effective before that date. The three completed public decisions were then mechanically copied for the April 27 screen, which produced separate independent and reconciliation receipts. The six earlier-date decisions were copied for May 16 and screened independently again. The [May 16 model receipt](OT_2004CHUNK7_MAY16_LAW_REFRESH.md) and [reconciliation receipt](OT_2004CHUNK7_MAY16_RECONCILIATION_REFRESH.md) close both May 16 chronology conditions without changing a substantive commitment. Same-date events supply no entering law to one another. Alphabetical ordering has a separate role in assignment counts.
+
+The initial reading copies remain preserved as the actual material screened. Subsequent public completeness edits express the preexisting criminal and civil proof burdens, preserve the warranty exception in remand wording, identify the full consolidated precedent, correct a statutory title citation and remove unnecessary negative statements. The April 26 supplement and May 16 receipts identify these changes; none changes a ground or vote. Heller's final Part I joins give effect to all eight Associates' expressly frozen threshold commitments rather than treating disagreement over the remedy as refusal of a separable common part. Full-lead eligibility, the 6–3 judgment and its assignment remain unchanged.
+
+The normal [commitments handoff](OT_2004CHUNK7_COMMITMENTS.md) and [reconciled handoff](OT_2004CHUNK7_RECONCILED.md) were concatenated mechanically from immutable scoped files and completed receipts. Original conditions are preserved in the source text and discharged by the listed addenda. All four normal runtime/freeze pairs match byte-for-byte. Every copied reconciliation annex and approved supplement matches its source apart from the stated heading-depth and relative-link adaptations.
+
+## Substantive and presentation checks
+
+The [fresh substantive review](OT_2004CHUNK7_SUBSTANTIVE_QA.md) examines approved positions, issue-specific support, final joins, controlling propositions, exceptions, remedies, precedent treatment and source status. It records the targeted corrections made during assembly. No earlier completed adjudication was altered.
+
+**Section 15 negative-statement check: PASS.** Judgment & Remedy, Holdings, Precedent Treatment, Law After Decision and Procedure After Action were reviewed under section 8. Unnecessary nonfinding/nonaward catalogues were removed. Retained negative language performs an actual legal function: resolving a contrary argument, defining a controlling rule, identifying a genuinely unreached question, preserving an independent judgment or limiting a remedy. The explicit statutory qualifications remain in their own terms. In particular, the permissive alternative heat regimen in Gates remains permissive; the Bates warranty instruction remains distinct from federal-equivalence comparison; and Heller's candidate exceptions, independent-person exception and alternative federal-compliance rule remain separate.
+
+Every Public Projection uses Stone-Zsela as the Chief's name and contains the eleven blocks in the required order. The Holdings explain each controlling rule, its authority, application and principal contrary argument within the ordinary ceiling. Separate writings identify substantive grounds and the actual parts joined or opposed. The generated Render Input copies the final Public Projections exactly. No output render was written or changed.
+
+Pasquantino's two historical sentencing-review departures are supported individually: Angle had already established the relevant binding-Guidelines protections before the 2003 appellate judgment, displacing the historical novelty premise invoked by Ginsburg and Breyer. Their statutory merits votes remain unchanged. Gates's unanimous operative accommodation was expressly available in the frozen alternatives; actual partial vacatur and continuing specific protection answer the recorded remedial objections. Heller's Scalia join rests on his previously frozen genuine-open-remand alternative. Bates reconciliation corrected unsupported provisional positions using the same-fact historical writing; it did not rewrite the independent freeze.
+
+## Deterministic results and protected scope
+
+- The governing term checker, run through the term-local in-process adapter, passes with zero warnings. The adapter accepts the supplied inventory column form and preserves the existing manifest header. Governing tools were not edited. The [checker receipt](OT_2004CHUNK7_TERM_CHECK.json) records its actual result and every in-process helper.
+- Holdings-volume synchronization passes. Runtime split checks for completed chunks pass; future brief parsing passes. The opening trackers remain unchanged.
+- The independent checks pass: eight Records; exact Public Projection/Render Input identity; complete approved-supplement and frozen-annex copies; all normal runtime/freeze pairs equal; aggregate source hashes intact; every explanation within its ceiling; 522 local links and anchors resolved; all sequential lead counts correct; no forbidden identifier or machine-link finding in the task's text artifacts.
+- All 130 protected baseline files retain their original hashes, including infrastructure, state, governing tools, the inventory, every brief, and earlier Records, Render Inputs and outputs. The protected directory was neither read, listed, searched nor modified. Writes were restricted to this term and repository scratch space.
+- The ledger preserves its existing 57 rows byte-for-byte and appends eight Records. The manifest retains all 105 inventory rows and their supplied data, with eight completion-status changes: 64 scheduled events completed, 41 open, zero stopped and zero carried. The three unscheduled originals and retained Kansas v. Colorado proceedings preserve their existing conditions. The next scheduled group is May 23, 2005, chunk 8.
+
+**Repository history:** No repository command or history-backed subprocess was executed. History existence, first-commit identity, commitment order and repository commitment are explicitly unverified, not reported as passed. Durable stage files and Records are ready for the operator to verify and commit. This limitation leaves no unresolved adjudicative matter.

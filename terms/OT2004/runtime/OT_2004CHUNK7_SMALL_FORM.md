@@ -1,0 +1,3 @@
+# Small v. United States — form before assignment
+
+One signed plenary opinion resolves the statutory conviction category and the resulting reversal and remand. The governing rule reads section 922(g)(1) within section 921(a)(20)'s domestic structure; it does not adopt a general rule about every statutory use of the word any. The Chief Justice and Stevens, O'Connor, Souter, Ginsburg and Breyer support the entire rationale and remedy. Scalia, Kennedy and Thomas support an inclusive category and would affirm on the statutory issue. One common dissent can state their supported ground. These forms, propositions and joins are fixed before the assignment recount; no author has been selected.

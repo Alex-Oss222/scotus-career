@@ -1,0 +1,181 @@
+
+
+BATES V. DOW AGROSCIENCES LLC
+
+LII
+
+Supreme Court
+
+BATES V. DOW AGROSCIENCES LLC (03-388) 
+332 F.3d 323, vacated and remanded.
+Syllabus
+ Opinion
+ [ Stevens ]Concurrence
+ [ Breyer ]Other
+ [ Opinion of Thomas ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be
+released, as is being done in connection with this case, at the
+time the opinion is issued.
+The syllabus constitutes no part
+of the opinion of the Court but has been prepared by the
+Reporter of Decisions for the convenience of the reader.
+See
+United States v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+BATES et al. v. DOW AGROSCIENCES
+LLC
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE FIFTH CIRCUIT
+
+No. 03—388.Argued January 10,
+2005–Decided April 27, 2005
+
+Petitioner Texas peanut farmers allege that
+their crops were severely damaged by the application of
+respondent’s (Dow) “Strongarm” pesticide, which
+the Environmental Protection Agency (EPA) registered pursuant
+to its authority under the Federal Insecticide, Fungicide, and
+Rodenticide Act (FIFRA).  Petitioners gave Dow notice of their
+intent to sue, claiming that Strongarm’s label recommended
+its use in all peanut-growing areas when Dow knew or should
+have known that it would stunt the growth of peanuts in their
+soil, which had pH levels of at least 7.0.  In response, Dow
+sought a declaratory judgment in the Federal District Court,
+asserting that FIFRA pre-empted petitioners’ claims. 
+Petitioners counterclaimed, raising several state-law claims
+sounding in strict liability, negligence, fraud, and breach of
+express warranty.  The District Court rejected one claim on
+state-law grounds and found the others barred by FIFRA’s
+pre-emption provision, 7 U.S.C. §
+136v(b).  Affirming, the Fifth Circuit held that
+§136v(b) expressly pre-empted the state-law claims because
+a judgment against Dow would induce it to alter its product
+label.
+
+Held: 
+
+    1. Under FIFRA,
+which was comprehensively amended in 1972, a manufacturer must
+obtain permission to market a pesticide by submitting a
+proposed label and supporting data to EPA, which will register
+the pesticide if it is efficacious, it will not cause
+unreasonable adverse effects on humans and the environment, and
+its label complies with the statute’s misbranding
+prohibition.  A pesticide is “misbranded” if its
+label, for example, contains a statement that is “false or
+misleading,” §136(q)(1)(A), or lacks adequate
+instructions or warnings, §§136(q)(1)(F), (G).  A
+State may regulate the sale and use of federally registered
+pesticides to the extent that regulation does not permit any
+sales or uses prohibited by FIFRA, §136v(a), but
+“[s]uch State shall not impose or continue in effect any
+requirements for labeling or packaging in addition to or
+different from those required under [FIFRA],”
+§136v(b).	Though tort litigation against pesticide
+manufacturers was a common feature of the legal landscape in
+1972, after this Court held in Cipollone v. Liggett
+Group, Inc., 505
+U.S. 504, that the term “requirement” in the
+Public Health Cigarette Smoking Act of 1969 included common-law
+duties, and therefore pre-empted certain tort claims against
+cigarette companies, courts began holding that §136v(b)
+pre-empted claims such as petitioners’. 
+Pp. 4—9.
+
+    2. FIFRA’s pre-emption
+provision applies only to state-law “requirements for
+labeling or packaging.”  §136v(b).  While the Fifth
+Circuit was correct that “requirements” embraces both
+positive enactments and common-law duties, it erred in
+supposing that petitioners’ defective design, defective
+manufacture, negligent testing, and breach of express warranty
+claims were premised on requirements for labeling or
+packaging.	None of the common-law rules upon which these
+claims are based requires that manufacturers label or package
+their products in any particular way.  The Fifth Circuit
+reached a contrary conclusion by reasoning that a finding of
+liability on these claims would induce Dow to alter its label. 
+This was error because the prohibitions of §136v(b) apply
+only to “requirements.”  A requirement is a rule of
+law that must be obeyed; an event, such as a jury verdict, that
+merely motives an optional decision is not a requirement.  The
+proper inquiry calls for an examination of the elements of the
+common-law duty at issue, not for speculation as to whether a
+jury verdict will prompt the manufacturer to change its label. 
+Pp. 9—13.
+
+    3. Petitioners’ fraud and
+negligent-failure-to-warn claims, by contrast, are based on
+common-law rules that qualify as “requirements for
+labeling or packaging,” since these rules set a standard
+for a product’s labeling that Dow is alleged to have
+violated.  While these common-law rules are subject to
+§136v(b), it does not automatically follow that they are
+pre-empted.  Unlike the pre-emption clause in Cipollone,
+§136v(b) prohibits only state-law labeling requirements
+that are “in addition to or different from”
+FIFRA’s labeling requirements.  Thus, §136v(b)
+pre-empts any statutory or common-law rule that would impose a
+labeling requirement that diverges from those set out in FIFRA
+and its implementing regulations.  It does not pre-empt a
+state-law requirement that is equivalent to, and fully
+consistent with, FIFRA’s labeling standards.  This
+“parallel requirements” reading of §136v(b)
+finds strong support in Medtronic, Inc. v. Lohr,
+518 U.S. 470. 
+Thus, although FIFRA does not provide a federal remedy to those
+injured as a result of a manufacturer’s violation of
+FIFRA’s labeling requirements, nothing in §136v(b)
+precludes States from providing such a remedy.	Dow’s
+contrary reading of §136v(b) fails to make sense of the
+phrase “in addition to or different from.”  Even if
+Dow offered a plausible alternative reading of §136v(b),
+this Court would have a duty to accept the reading disfavoring
+pre-emption.  See New York State Conference of Blue Cross &
+Blue Shield Plans v. Travelers Ins. Co., 514 U.S. 645, 655. 
+The long history of tort litigation against manufacturers of
+poisonous substances adds force to the presumption against
+pre-emption, for Congress surely would have expressed its
+intention more clearly if it had meant to deprive injured
+parties of a long available form of compensation.  Moreover,
+this history emphasizes the importance of providing an
+incentive to manufacturers to use the utmost care in
+distributing inherently dangerous items.  Finally, the policy
+objections raised against this Court’s reading of
+§136v(b) are unpersuasive.  Pp. 13—20.
+
+      4. Under the
+“parallel requirements” reading of §136v(b), a
+state-law labeling requirement must be equivalent to its
+federal counterpart to avoid pre-emption.  State law need not,
+however, explicitly incorporate FIFRA’s standards as an
+element of a cause of action.  Because this Court has not
+received sufficient briefing on whether the Texas law governing
+petitioners’ fraud and failure-to-warn claims is
+equivalent to FIFRA’s misbranding standards and any
+relevant regulations, it is up to the Fifth Circuit to resolve
+the issue in the first instance.  Pp. 20—21.
+
+332 F.3d 323, vacated and remanded.
+
+    Stevens, J.,
+delivered the opinion of the Court, in which Rehnquist,
+C. J., and O’Connor, Kennedy, Souter, Ginsburg, and
+Breyer, JJ., joined.  Breyer, J., filed a concurring opinion. 
+Thomas, J., filed an opinion concurring in the judgment in part
+and dissenting in part, in which Scalia, J., joined.
+

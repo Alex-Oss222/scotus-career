@@ -1,0 +1,5 @@
+# Doe v. Porter — form before assignment
+
+One signed plenary opinion resolves the live merits review. Part I states the families' concrete-injury basis for standing. Part II applies the existing prohibition of governmental devotional instruction and sustains the program injunction. Part III resolves the tailored public-pseudonymity order. Part IV resolves the specific fee objection under abuse-of-discretion review. A single eligible author can carry all parts; no reason exists to divide the lead among authors.
+
+All nine support affirmance. All eight Associates join every part. The Chief Justice's approved position joins Parts I and II, including the injunction; he supports the protective-order and fee dispositions without an approved independent explanation adopting the specific Rules 10(a)/26(c) formulation or fee-calculation rationale. His agreement with Parts III and IV is judgment-only. That creates no separate-writing function. The original doctrinal difference over Agostini is not reopened; all nine support the actual governmental-instruction prohibition. These legal forms and propositions are fixed before the assignment recount.
