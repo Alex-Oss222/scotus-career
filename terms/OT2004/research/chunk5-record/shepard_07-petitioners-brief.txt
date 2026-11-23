@@ -1,0 +1,2002 @@
+Source: https://archive.org/download/micro_IA40385016_0015/micro_IA40385016_0015%2007.%20Petitioners%20Brief_djvu.txt
+
+Supreme Court, U.S. 
+
+
+FILED 
+(1) SEP - 1 2004 
+OFFICE OF THE CLERK 
+No. 03-9168 
+IN THE 
+
+
+Supreme Court of the Gnited States 
+
+
+REGINALD SHEPARD, 
+Petitioner, 
+Vv. 
+
+
+UNITED STATES OF AMERICA, 
+Respondent. 
+
+
+On Writ of Certiorari 
+to the United States Court of Appeals 
+for the First Circuit 
+
+
+BRIEF FOR THE PETITIONER 
+
+
+JEFFREY T. GREEN LINDA J. THOMPSON* 
+
+KEVIN M. HENRY JOHN M. THOMPSON 
+
+SIDLEY AUSTIN BROwNn & =THOMPSON & THOMPSON, P.C. 
+WOOD LLP 1331 Main Street 
+
+1501 K Street, N.W. Springfield, MA 01103 
+
+Washington, D.C. 20005 (413) 739-2100 
+
+(202) 736-8000 
+
+
+Counsel for Petitioner 
+
+
+August 27, 2004 * Counsel of Record 
+
+
+WILSON-EPES PRINTING CO., INC. — (202) 789-0096 -— WASHINGTON, D. C. 20001 
+
+
+QUESTIONS PRESENTED 
+
+
+The Armed Career Criminal Act [18 U.S.C. § 924(e)] 
+imposes a mandatory minimum sentence of 15 years 
+imprisonment for a person convicted of being a felon in 
+possession of a firearm [18 U.S.C. § 922(g)] where that 
+person has previously been convicted of three violent felonies 
+or serious drug offenses or both. Taylor v. United States, 495 
+U.S. 575 (1990) held that Congress intended a sentencing 
+court to employ a categorical approach to determine whether 
+a defendant’s prior convictions qualify as predicates for this 
+sentence enhancement, looking only to the fact of conviction 
+and the elements of the statute of conviction, or to the 
+charging document and the jury instructions to determine 
+whether all of the elements of generic burglary (an 
+enumerated violent felony) were necessarily adjudicated in 
+the state court. The questions presented are: 
+
+
+1. Whether, where the defendant has pleaded guilty to a 
+non-generic charge of burglary brought under a non-generic 
+statitte, there is no contemporaneous record of the guilty plea 
+proceedings and the judgment of conviction reflects a general 
+finding of guilty, the sentencing court is still bound by 
+Taylor’s categorical method of application or may instead be 
+required to conduct an inquiry — including an evidentiary 
+hearing — into the facts underlying the conviction, to 
+determine whether, in the guilty plea proceeding, both the 
+defendant and the government believed the generic burglary 
+was at issue? 
+
+
+2. If so, whether the sentencing court may be required to 
+consider a version of these underlying facts found in any 
+document in the court file such as an investigative police 
+report or a complaint application and, if the facts alleged in 
+the document are not challenged by the defendant, regard 
+them as sufficiently reliable evidence that the defendant was 
+convicted of a crime including all of the elements of generic 
+burglary to support an Armed Career Criminal Act 
+enhancement? 
+
+
+(i) 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+a i 
+RR Fe EE OI occcsscccccsicinsccoscccnccessesonensoeoees Vv 
+ree MUIR OP coraccndnsiisiinesossscnenececvosesoneccesoccsescesecee 1 
+STATEMENT OF JURISDICTION ...............ccccssecseeesees 
+CONSTITUTIONAL AND STATUTORY PROVIS- 
+EET a Ne l 
+STATEMENT OF THE CASE..0...ssssssssssssssssssssssssssssesees 4 
+A. Statutory Background ................cccesseeseeeseeeeeeeee 6 
+ITI os cs ictnccesticnsppnnennaconstonesenccosoes 7 
+SII Gicsciscnchiscececnninanscinenibsseudnancensesanses 8 
+SUMMARY OF ARGUMENT .............ccccccsseesseesseeseeeeee 16 
+ERE SERRA LN EF EDT OE 17 
+
+
+I. TAYLOR APPLIES TO THIS CASE AND THE 
+CATEGORICAL APPROACH MANDATED IN ~ 
+
+
+-~THAT OPINION REQUIRES REVERSAL........... 17 
+A. The First Cireuit Misreads Taylor ................0.00+ 20 
+B. The First Circuit Has Adopted a Factual 
+
+Inquiry Prohibited By Taylor .............cccccceseeeeeees 22 
+
+
+C. The First Circuit Shifts The Burden To The 
+Defendant To Show That The Enhancement 
+
+
+Be ED DUNNE incsiscnssnscosstectsnsenescesticosvecsonsneucece 24 
+D. The First Circuit’s Rule Creates The Problems 
+That Taylor Seeks To AvOid ..........:.cscsccesseeseeeees 26 
+(iii) 
+
+
+iV 
+TABLE OF CONTENTS -— continued 
+
+
+Page 
+Il. THE DOCTRINE OF CONSTITUTIONAL 
+AVOIDANCE REQUIRES THAT THE ACCA 
+BE INTERPRETED TO PROHIBIT JUDICIAL 
+PACT PRREIIOID cccccccsesseccesscesissernesesnostwsisessbeanatnine 29 
+A. Constitutional Avoidance: # the Sentencing 
+COUIII. 3 cncccnnsescensscenenconsenssesonsnnniasnenesenesmetiomnatetti 30 
+
+
+B. The First Circuit’s Interpretation of the ACCA 
+
+
+Ill. THE RULE OF LENITY REQUIRES THAT 
+TAYLOR’S MODIFICATION FOR NONGEN- 
+ERIC STATUTES OF CONVICTION BE LIM- 
+ITED TO JURY TRIAL CONVICTIONSG............... 35 
+
+
+CN CLILTIIIUIIN ..xccccessecccesesresesresccsssnsssoscossessnssesaneososonnscseen 38 
+
+
+Vv 
+
+TABLE OF AUTHORITIES 
+CASES Page 
+Albernaz v. United States, 450 U.S. 333 (1981)...... 35 
+Apprendi v. New Jersey, 530 U.S. 466 (2000) ...... passim 
+Bailey v. United States, 516 U.S. 137 (1995).......... 26 
+
+
+Blukely v. Washington, 124 S. Ct. 2531 (2004) .... passim 
+Commonwealth v. Duquette, 438 N.E.2d 334 
+
+
+Ss CSUN victnoceninssisticntnnsevtiiinnssinipteaesieilaasinale 25 
+Commonwealth v. Quinones, 608 N.E.2d 724 
+
+SII HID cavessinnnsintinieteverciapinniinnsenistinatibiciinimnsin 14 
+Emile v. INS, 244 F.3d 183 (1st Cir. 2001)............. 28 
+Henderson v. Morgan, 426 U.S. 637 (1976)........... 23 
+Jones v. United States, 526 U.S. 227 (1999)......... passim 
+Ring v. Arizona, 536 U.S. 584 (2002) .........:cccecceeeee 30 
+Shepard v. United States, 534 U.S. 829 (2001) 
+
+RD Bete cececpctnteinniinciiigiaiisinsiitnnisaniipliiinies 14 
+Smith v. O’Grady, 312 U.S. 329 (1941).......cccccceees 23 
+Taylor v. United States, 495 U.S. 575 (1990) ....... passim 
+United States v. Bass, 404 U.S. 336 (1971) ............ 35 
+United States v. Bousley, 523 U.S. 614 (1998)..... 25, 26 
+United States v. Broce, 488 U.S. 563 (1989) .......... 25 
+United States v. Cooper, 2004 U.S. App. LEXIS 
+
+B4GES (IGT Cie. FED O) acccccsstecrcisoscsvenistocssoncentnotie 32 
+United States v. Delgado, 288 F.3d 49 (ist Cir. 
+
+SAEED sinccscecctssocsesvsibintinlesiiplbiadaatiindinmeliaitinadss 27, 28 
+United States v. DiPina, 178 F.3d 68 (lst Cir. 
+
+PPO scoccitiinciisncidiiaiitiacsecaguiiadiiitpanaliataisiiaaliddissastiaia 24 
+United States v. Dueno, 171 F.3d 3 (ist Cir. 
+
+FOOD ccecsesnceviatincwesnicntataivoiaieticiiigtoninagiaaiiadiaaie 9,10 
+United States v. Gaudin, 515 U.S. 506 (1995)......... 33 
+United States v. Harris, 964 F.2d 1234 (ist Cir. 
+
+PEP I vsenscicnncisnpisiensltossniicasinceiieaabiicbunaidiuimiianaiaadetinaini 13 
+United States v. Martinez-Cortez, 988 F.2d 1408 
+
+GRRE Ce BID ccccssincsccnisiereccninsescietvitiiabtiaiioiicidiiia 9 
+
+
+United States v. Roberts, 39 F.3d 10 (lst Cir. 
+
+
+vi 
+TABLE OF AUTHORITIES -— continued 
+
+
+Page 
+United States v. Sanders, 2004 U.S. App. LEXIS 
+
+SSIES Gee CAR. Fi OR cescstccscncsccessntctsnnimmnnnesesiness 32 
+United States v. Shepard, 125 F. Supp. 2d 562 (D. 
+
+PRBS, Bape pacccecccecesevccseseeteeseseetentetoussentenvsoneenses passim 
+United States v. Shepard, 231 F.3d 56 (lst Cir. 
+
+IED cccsccrssecejnesecmmecsenccneseescsasamanapiniianiiianniitis passim 
+United States v. Shepard, 181 F. Supp. 2d 14 (D. 
+
+DRIED, BED cccsscsccaseosssensencecernsesnmsestmationmmteovabens passim 
+United States v. Shepard, 348 F.3d 308 (ist Cir. 
+
+ED cxtaciccestocencnscssonessanssesraininesensamenateuanniiin passim 
+United States v. Sherbondy, 865 F.2d 996 (9th 
+
+GE Bei ececcccnsnscesccnesenianenianiantnssnebteisninnnnitons 20, 27, 37 
+United States v. Thomas, 355 F.3d 1191 (9th Cir. 
+
+Be ccsccsnpnssnvecevinenninnncniiisisonitiipinninesbuabinnionstnth 25 
+United States v. Vidaure, 861 F.2d 1337 (Sth Cir. 
+
+FI cseccecssicnansienpananinnipeenseninseapahientiibiiuinininiomtets 20, 33 
+
+STATUTES 
+GD, BH, GORE, GE, YM cccccnsecssevesscccsnensrsenseinensepeadinnss 2 
+WB, CMIIR, GTI, WE acccccccesnscsscsesasticsscosnseseenecosenen 2 
+Be Ui BR cresteseccscresencccicinsananranspaniceevonsnt 2, 6, 33 
+OE GR, © Tae cenesnsecsccccntscssnstvinecenissuninnieanmmees 2, 4,6 
+LEE dll >. | REE Seen eT 30 
+BD TERRA. © BR cnccccccecesnessorinssescenecnninisnanions 2, 5, 11 
+Mass.Gen.Laws ch. 266, § 16 ............cccceceseeeeeeeenees 9 
+Mass.Gen.Laws ch. 266, § 18 .0......:cscccessseessereeeeees 10 
+SENTENCING GUIDELINES 
+
+CBBC. 6 TIE. HED a ccccsessecscssecescccsesssesecesccesescsses 8 
+bb bf pee cesmntamenniaitn 8 
+CRITI. B GIG D ccceccsccssenscosoccssoremetntinstenennsatecniigs 10 
+CEE. BIA ccrenscicsztiainsiiciemaninsivtnanmerpieee 9 
+U.S.S.G. § 4B1.4 Application Note ...........:.00200000 6 
+
+
+OPINIONS BELOW 
+
+
+The first opinion of the United States Court of Appeals for 
+the First Circuit is published at 231 F.3d 56 (1st Cir. 2000) 
+and is reproduced in the Joint Appendix at 67. The first 
+district court opinion is reported at 125 F. Supp. 2d 562 (D. 
+Mass. 2000) and is reproduced in the Joint Appendix at 46. 
+The second opinion of the United States Court of Appeals for 
+the First Circuit is published at 348 F.3d 308 (1st Cir. 2003) 
+and is reproduced in the Joint Appendix at 172. The second 
+district court opinion is reported at 181 F. Supp. 2d 14 (D. 
+Mass. 2002) and is reproduced in the Joint Appendix at 146. 
+
+
+STATEMENT OF JURISDICTION 
+
+
+The judgement of the First Circuit Court of Appeals was 
+entered on November 3, 2003. Petitioner’s request for 
+rehearing and suggestion for rehearing en banc was denied on 
+November 24, 2003. This Court has jurisdiction pursuant to 
+28 U.S.C. § 1254(1). 
+
+
+CONSTITUTIONAL AND STATUTORY 
+PROVISIONS INVOLVED 
+
+
+The Fifth Amendment to the United States Constitution 
+provides in relevant part: 
+No person shall . . . be deprived of life, liberty, or 
+property, without due process of law. 
+The Sixth Amendment to the United States Constitution 
+provides in relevant part: 
+In all criminal prosecutions, the accused shall enjoy the 
+right to a speedy and public trial, by an impartial jury of 
+the state and district wherein the crime shall have been 
+committed, which district shall have been previously 
+
+
+3 
+ascertained by law, and to be informed of the nature and (1) the nature and circumstances of the offense and 
+
+
+cause of the sccusstion. the history and characteristics of the defendant 
+Section 922 of Title 18 of the United States Code provides , ; 
+in relevant part: (2) the need for the sentence imposed: 
+
+
+(g) it shall be unlawful for any person — 
+
+
+(1) who has been convicted in any court of, a crime 
+punishable by imprisonment for a term exceeding 
+one year... 
+
+
+to ship or transport an interstate or foreign commerce, or 
+possess in or effecting commerce, any firearm or 
+ammunition; or to receive any firearm or ammunition 
+which has been shipped or transported in interstate or 
+foreign commerce. 
+
+
+(A) to reflect the seriousness of the offense, to 
+promote respect for the law, and to provide just 
+punishment for the offense; 
+
+
+(B) to afford adequate deterrence to criminal 
+conduct; 
+
+
+(C) to protect the public from further crimes of 
+the defendant; and 
+
+
+(D) to provide the defendant with needed edu- 
+cational or vocational training, medical care, or 
+other correctional treatment in the most effective 
+
+
+Section 924 of Title 18 of the United States Code provides meaner 
+; :; er; 
+in relevant part: 
+
+
+ki ' 
+
+(e)(1) in the case of a person who violates Section ©) os ase oF SenAERONS STEEN, 
+
+922(g) of this title and has previous convictions by any (4) the kinds of sentence and the sentencing range 
+
+court referred to in Section 922(g)(1) of this title for a established for: 
+
+violent felony vee such person shall be fined under this (A) the applicable category of offense committed 
+
+title and imprisoned not less than 15 years, and, by the applicable category of defendant as set forth 
+
+notwithstanding any other provision of law, the court in the guidelines: 
+
+shall not suspend the sentence of, or grant a probationary ey 
+
+sentence to, such person with respect to the conviction (i) issued by the Senteneing Commission 
+pursuant to section 994(a)(1) of title 28, United 
+
+
+under Section 922(g). : 
+; States Code, subject to any amendments made 
+Section 3553 of Title 18 of the United States Code provides to such guidelines by act of Congress 
+in relevant part: (regardless of whether such amendments have 
+
+
+yet to be incorporated by the Sentencing 
+Commission into amendments issued under 
+Section 994(p) of title 28); and 
+
+
+(a) Factors to be considered in imposing a sentence. 
+The court shall impose a sentence sufficient, but not 
+greater than necessary, to comply with the purposes set 
+forth in paragraph (2) of this subsection. The Court, in (ii) that, ex - ; a 
+determining the particular sentence to be imposed, shall 3742(g), are ty ll ee oc 
+consider: is sentenced; or 
+
+
+4 
+
+
+(B) in the case of a violation of probation or 
+supervised release, the applicable guidelines or 
+policy statements issued by the Sentencing 
+Commission pursuant to section 994(a)(3) of title 
+28, United States Code, taking into account any 
+amendments made to such guidelines or policy 
+statements by act of Congress (regardless of 
+whether such amendments have yet to be 
+incorporated by the Sentencing Commission into 
+amendments issued under section 994(p) of title 
+28); 
+
+
+(5) any pertinent policy statement: 
+
+
+(A) issued by the Sentencing Commission 
+pursuant to section 994(a)(2) of title 28, United 
+States Code, subject to any amendments made to 
+such policy statement by act of Congress 
+(regardless of whether such amendments have yet 
+to be incorporated by the Sentencing Commission 
+into amendments issued under section 994(p) of 
+title 28); and 
+
+
+(B) that, except as provided in section 3742(g), is 
+in effect on the date the defendant is sentenced. 
+
+
+(6) the need to avoid unwarranted sentence disparities 
+among defendants with similar records who have been 
+found guilty of similar conduct; and 
+
+
+(7) the need to provide restitution to any victims of 
+the offense. 
+
+
+STATEMENT OF THE CASE 
+
+
+The issue in this case is whether federal sentencing courts 
+may conduct wide-ranging inquiries into facts underlying a 
+prior conviction in order to determine whether that conviction 
+qualifies as a predicate offense under the Armed Career 
+Criminal Act (18 U.S.C. § 924(e)). The Court previously 
+
+
+5 
+
+
+resolved this precise issue in Taylor v. United States, 495 
+USS. 575 (1990). Pursuant to Taylor, which itself involved a 
+guilty plea, federal courts considering ACCA enhancements 
+based upon prior state convictions may look only the statute 
+of conviction in order to determine whether those prior 
+offenses qualify as “violent felonies.” In cases where the 
+previous conviction followed a jury trial, Taylor specifies that 
+the sentencing court may look to the charge and the jury 
+instructions to determine whether the adjudicated elements 
+qualify that conviction as a violent felony and therefore an 
+ACCA predicate offense. 
+
+
+The District Court here, relying upon Taylor, twice refused 
+to impose the ACCA enhancement. That enhancement would 
+have extended petitioner’s sentence from a maximum of ten 
+years for his federal felon-in-possession charge, to a 
+mandatory minimum of fifteen years with a maximum of life 
+in prison. The First Circuit twice reversed the District Court, 
+ultimately ordering the District Court to impose the ACCA 
+enhancement. The First Circuit’s opinions take impermissible 
+liberties with Taylor’s holding, raise grave constitutional 
+questions in the wake of Jones v. United States 526 U.S. 227 
+(1999). Apprendi v. New Jersey, 530 U.S. 466 (2000) and 
+Blakely v. Washington, 124 S. Ct. 2531 (2004), and make 
+manifest the same inefficiencies and inequities that Taylor 
+
+
+sought to avoid. 
+
+
+The District Court imposed and reaffirmed its sentence 
+after careful consideration of the factors set forth in 18 U.S.C. 
+§ 3553(a), including the nature and circumstances of the 
+offense and the history and characteristics of the petitioner. 
+On that basis, the District Court departed upwards to reflect 
+the seriousness of the petitioner’s prior criminal history. For 
+petitioner, who has completed service of 46 months in prison, 
+a proved successful under the factors 
+speci in 18 U.S.C. § 3553(a)(2), including protection of 
+do phi, Gcuntaes, iad onmues Cae eee 
+The First Circuit’s rulings would unjustifiably and broadly 
+
+
+6 
+
+
+expand the imposition of extensive mandatory minimum 
+terms in cases like those of petitioner, who would be 
+reincarcerated for a period of no less than 10 additional years. 
+Because this expansion is wholly unjustified, reversal is 
+
+
+warranted. 
+A. Statutory Background 
+
+
+Under 18 U.S.C. § 922(g)(1), it is unlawful for a person 
+who has previously been convicted of a felony to possess a 
+firearm. The maximum sentence of imprisonment for a 
+violation of § 922(g)(1) is ten years. Jd. § 924(a)(2). A 
+defendant, convicted for a violation of § 922(g)(1) may, 
+however, be subject to the sentence enhancement provision of 
+the Armed Career Criminal Act (“ACCA”). 18 U.S.C. 
+§ 924(e). Under the ACCA, a person convicted of being a 
+felon in possession of a firearm is subject to a mandatory 
+minimum prison sentence of fifteen years if he has “three 
+previous convictions by any court... for a violent felony or 
+serious drug offense.” Jd. Section 924(e) specifies no 
+maximum sentence. Under the ACCA, the term “violent 
+felony” means any crime punishable by a term of 
+imprisonment exceeding one year and, inter alia, “is 
+burglary.” Jd. § 924(e)(2)(B)(ii). 
+
+[A] person has been convicted of burglary for purposes 
+of a § 924(e) enhancement if he is convicted of any 
+crime, regardless of its exact definition or label, having 
+the basic elements of [1] unlawful or unprivileged entry 
+into, or remaining in, [2] a building or structure, [3] with 
+intent to commit a crime. 
+
+
+Taylor, 495 U.S. at 599'. These are the elements of the 
+offense of “generic” burglary. /d. 
+
+
+' See also United States Sentencing Guidelines § 4B1.4, Application 
+Note 
+
+
+7 
+B. Factual Background 
+
+
+At the behest of a cooperating witness, petitioner Reginald 
+Shepard sold a firearm and ammunition to an undercover 
+ATF agent in October 1995. Petitioner was indicted in 
+September 1998 for a violation of § 922(g)(1). Petitioner 
+who was detained pending trial, pleaded guilty to the one 
+count indictment on March 3, 1999. On January 20, 2003, the 
+district court rejected the government’s request to apply the 
+ACCA, and sentenced petitioner to 46 months in prison 
+followed by three years of supervised release. 
+
+
+The District Court based its discretionary sentence on 
+extensive findings about petitioner’s personal background and 
+criminal history. The court noted that, while petitioner had an 
+extensive criminal history which included several convictions 
+for breaking and entering, beginning when he was eighteen 
+years old, his crimes where those of a desperate addict. See 
+United States v. Shepard, 125 F. Supp. 2d 562, 564-65 (D. 
+Mass. 2000) (“Shepard I’); J.A. 49-50, 65. The crimes were 
+Opportunistic and unplanned, had little chance of success and 
+resulted in immediate apprehension. See id., J.A. 51. None 
+of his prior offenses involved the use of a gun. See id. at 572; 
+J.A. 64. They mostly involved “shoplifting, trespassing, 
+motor vehicle infractions, receiving stolen property, breaking 
+and entering.” Id., J.A. 51 & n.5. The root of petitioner’s 
+criminal conduct was petitioner’s drug use which began at 
+age sixteen when he moved out of his home and withdrew 
+from school after years of witnessing his alcoholic father 
+physically abuse his mother. See id., J.A. 49-50. After his 
+father was thrown out of the house, when Shepard was ten 
+years old, his mother became involved with another man who 
+continued the abuse including petitioner and his sister. See 
+id., J.A. 49. At sentencing, petitioner represented to the court 
+that he had voluntarily stopped using drugs in 1996 and was 
+supported in this claim by a strong showing of family and 
+friends who appeared on his behalf. See id., J.A. 50, 56. 
+
+
+8 
+
+
+Petitioner discharged his sentence on January 25, 2002. 
+While imprisoned, petitioner satisfactorily completed a 500- 
+hour drug abuse recovery program. He is currently under 
+supervised release until January 2005. Following his release 
+from prison, petitioner married Regina Chaves Shepard. On 
+April 2, 2003, their daughter Aliana Shepard was born. Mrs. 
+Shepard’s six year old daughter lives with the Shepards in 
+Boston. Both petitioner and Mrs. Shepard are employed. 
+Petitioner, now 42 years of age, works at Consolidated 
+Delivery & Logistics in Boston and serves in two capacities. 
+From 4:00 p.m. until midnight he is a warehouse supervisor 
+and from midnight to 3:00 a.m. he is a delivery driver. 
+During the mornings, while Mrs. Shepard is at work, 
+petitioner cares for their daughter. Add. C, Regina Shepard 
+Aff., Appellee Reginald Shepard’s Mot. for Stay of Issuance 
+of Mandate Pending Filing of Pet. for Cert., 02-1216 (1st Cir. 
+filed Dec. 1, 2003). 
+
+
+C. Opinions Below 
+
+
+1. Petitioner’s presentence report (“PSR”) recommended 
+an offense level of 14 (prohibited person, U.S.S.G. 
+§ 2K2.1(a)(6)(A)) and a criminal history category of VI, 
+based on 39 criminal history points. 125 F. Supp. 2d at 564, 
+J.A. 49. The Probation Department refused to impose a 
+sentence enhancement under the ACCA, despite prosecution 
+objection and review of the police incident reports and 
+complaint applications. /d. at 566; J.A. 52. After deducting 
+two points from the offense level for acceptance of 
+responsibility (id; USS.G. § 3El.I[a]), the PSR 
+recommended a guideline range of 30 to 37 months. At 
+sentencing, the parties agreed that, absent enhancement 
+pursuant to the provisions of § 924(e), 30 to 37 months was 
+the applicable guideline range. J.A. 18. 
+
+
+The PSR recounted petitioner’s criminal history, including 
+a factual description of his prior convictions for breaking and 
+entering drawn from certified copies of incident reports and 
+
+
+9 
+
+
+applications for complaint taken from state court files.’ 
+S.J.A. 195-213. Relying upon the facts set forth in the PSR 
+and supplemented by certified copies of police reports and 
+complaie’ applications, the prosecution objected to the fact 
+that the PSR did not calculate petitioner’s sentence in 
+accordance with the ACCA and U.S.S.G. § 4B1.4. S.J.A. 
+237-43. Petitioner argued that the inclusion of factual 
+allegations drawn from incident reports and complaint 
+applications was inappropriate, unreliable and could not be 
+considered in light of Taylor, 495 U.S. at 600; United States 
+v. Martinez-Cortez, 988 F.2d 1408, 1413 (5th Cir. 1993); and 
+United States v. Dueno, 171 F.3d 3, 7 (1st Cir. 1999). S.J.A. 
+243. 
+
+
+At the sentencing hearing, the prosecution asserted that at 
+least three, and as many as five, of petitioner’s prior 
+convictions for breaking and entering constituted generic 
+burglaries and thus qualified as violent felonies under the 
+ACCA. J.A. 21-26, 28-30. Each of these prior convictions 
+were the result of guilty pleas to breaking and entering 
+statutes whose terms were broader than statutory definitions 
+of the offenses were broader than generic burglary 
+(“nongeneric burglary”).’ The ambiguity of petitioner’s prior 
+
+
+? “Certification” indicated only that the document was an accurate 
+copy. Such certification in no way established the actual nature of the 
+crimes to which petitioner pled. United States v. Shepard, 181 F. Supp. 2d 
+14, 22 (D. Mass. 2002) (“Shepard IIT’), J.A. 159. 
+
+
+* Each of the convictions at issue was for violation of one of two 
+statutes, which provide in relevant part: 
+Mass.Gen.Laws ch. 266, § 16 — Breaking and entering at night 
+Whoever, in the night time, breaks and enters a building, ship, 
+vessel or vehicle, with intent to commit a felony, or who attempts to 
+or does break, burn blow up or otherwise injures or destroys a safe, 
+vault or other depository of money, bonds or other valuables in any 
+building, vehicle or place, with intent to commit a larceny or felony, 
+whether he succeeds or fails in the perpetration of such larceny or 
+felony, shall be punished by imprisonment in the state prison for not 
+
+
+10 
+
+
+pleas was exacerbated by the fact that all but one of the 
+subsequent applications for complaint were in the boilerplate 
+language of the nongeneric statutes. Thus, it is impossible to 
+ascertain from the state court record whether petitioner was 
+ever charged with, much less pleaded guilty to generic 
+burglary. At no point, during the prior state court proceedings 
+or the federal sentencing did petitioner “concede the facts on 
+which the government now relies.” 125 F. Supp. 2d at 566, 
+J.A. 53. Instead, petitioner “expressly contested any 
+characterizations of these convictions that went beyond the 
+words of the complaints.” /d., J.A. 53. Nonetheless, the 
+prosecution urged the District Court to resolve these 
+ambiguities by relying upon the incident reports and 
+complaint applications from the case files to conclude that 
+petitioner in fact broke into buildings and that his prior 
+convictions were therefore for generic burglary. J.A. 21-26, 
+28-30. 
+
+
+Citing Taylor and United States v. Dueno, 171 F.3d 3 (Ast 
+Cir. 1999), the District Court indicated that it could not 
+lawfully resolve these ambiguities in the manner suggested by 
+the prosecution. J.A. 27-28. However, the District Court did 
+not immediately impose sentence and instead afforded the 
+prosecutor an opportunity to move for an upward departure 
+based upon petitioner’s criminal history. J.A. 30. The 
+prosecution accepted the court’s invitation and moved for an 
+upward departure pursuant to U.S.S.G. § 4A1.3 (permitting 
+
+
+more than twenty years or in a jail or house of correction for not more 
+than two and one-half years. 
+
+Mass.Gen.Laws ch. 266, § 18 — Dwelling house; entry at night; 
+breaking and entering in day time; weapons; punishment. 
+
+Whoever, in the night time, enters a dwelling house without 
+breaking, or breaks and enters in the day time a building, ship or 
+vessel, with intent to commit a felony, no person lawfully therein 
+being put in fear, shall be punished by imprisonment in the state 
+prison for not more than ten years or by a fine of not more than five 
+hundred dollars and imprisonment in jail for not more than two 
+years. ... 
+
+
+11 
+
+
+upward departures whenever the criminal history category 
+understates the seriousness of the defendant’s criminal 
+record). See, Shepard I, 125 F. Supp. 2d at 563, J.A. 47-48. 
+
+
+When the sentencing hearing reconvened on July 14, 1999, 
+the District Court addressed the prosecution’s motion for an 
+upward departure. The prosecution asked for departure from 
+offense level 14 to level 24 and a resulting sentence of 120 
+months. J.A. 33-34. The District Court held that the 
+requested departure did not comply with 18 U.S.C. § 3553(a) 
+which provides: “The Court shall impose a sentence sufficient 
+but not greater than necessary to comply with the purposes set 
+forth in paragraph two (2) of this subsection.” The District 
+Court based its upward departure upon its extensive review of 
+petitioner’s criminal history and personal characteristics. The 
+court noted that, while petitioner had an extensive criminal 
+history, the circumstances relating to petitioner’s difficult 
+upbringing, the nature of his crimes, and his efforts to defeat 
+his drug addictions were compelling reasons not to depart 
+upward the full ten levels requested by the government. See 
+Shepard I, 125 F. Supp. 2d at 571-72, J.A. 64-66. 
+
+
+Accordingly, the District Court departed upward two levels, 
+settling on a guideline range 37 to 46 months. /d. at 572, J.A. 
+65-66. The District Court did not impose an ACCA enhanced 
+sentence, concluding that the facts presented in the incident 
+reports and complaint applications — “the location of the 
+breaking and entering -— were not necessary to his 
+
+
+* Section 3553(a)(2) provides that the court shall consider: 
+“(2) The need for the sentence imposed — 
+
+(A) to reflect the seriousness of the offense, to promote respect 
+for the law, and to provide just punishment for the offense; 
+
+(B) to afford adequate deterrence to criminal conduct; 
+a of the defendant; 
+
+(D) to provide the defendant with needed educational or 
+vocational training, medical care, or other correctional treatment in 
+the most effective manner. . . .” 
+
+
+~ 
+
+
+12 
+
+
+[petitioner’s] state plea.” /d. at 569-70, J.A. 59-60. Because 
+the facts underlying the guilty pleas were “neither litigated 
+nor conceded” by petitioner, the District Court held that 
+reliance on those alleged facts “violates the policies 
+articulated by the Supreme Court in Taylor, and subsequent 
+First Circuit precedent.” Jd. at 570, J.A. 60-61. 
+
+
+The District Court imposed a sentence designed to afford 
+petitioner an opportunity to address his addiction. “While 
+Shepard’s record suggests recidivism, it also suggests an out 
+of control drug addict. ... Whatever sentence I impose must 
+include serious attention to Shepard’s addiction.” Jd. at 572, 
+J.A. 65. Because the Probation Department reported that the 
+Bureau of Prisons would require a sentence of at least 46 
+months in order for petitioner eligible for its “intense drug 
+treatment program,” id., J.A. 65, the District Court sentenced 
+petitioner to 46 months in prison, with three years of 
+supervised release to follow. In addition, the court directed 
+that petitioner participate in a 500 hour Comprehensive Drug 
+Treatment Program offered by the Bureau of Prisons.” See id. 
+at 564, 572; J.A. 49, 66. 
+
+
+2. The prosecution appealed the District Court’s decision 
+not to impose the ACCA fifteen-year mandatory minimum 
+enhancement, “arguing that the district court erred by refusing 
+to consider the police reports and complaint applications...” 
+United States v. Shepard, 231 F.3d 56, 62 (ist Cir. 2000) 
+(“Shepard IT’), J.A. 74. Because petitioner’s prior 
+convictions were the result of guilty pleas to nongeneric state 
+breaking and entering statutes, the First Circuit determined 
+that it was necessary to examine “case specific documents” in 
+order to resolve uncertainty regarding whether the convictions 
+were for “violent felonies.” Jd. at 65, J.A.80. Although the 
+First Circuit acknowledged the ambiguity of the statutes of 
+
+
+* Petitioner complied, completing the BOP’s comprehensive drug 
+treatment program and writing to the judge periodically to report on his 
+progress. Resentencing Proceedings Tr. at 2-4 (D. Mass. Dec. 13, 2001). 
+
+
+13 
+conviction, it disagreed with the District Court’s adherence to 
+Taylor’s holding. Instead, the First Circuit declared that 
+Taylor failed to “address the extent to which a sentencing 
+court can go beyond the fact of conviction, for the purpose of 
+determining an ACCA enhancement, when a defendant has 
+pled guilty to a charge based on a statute that includes both 
+
+
+violent and non-violent offenses within the meaning of the 
+ACCA.” Td. at 63, J.A. 77. 
+
+
+Turning to its own precedent, the First Circuit relied upon 
+United States v. Harris, 964 F.2d 1234, 1236 (1st Cir. 1992) 
+and concluded that the sentencing judge should have 
+evaluated the reliability of the incident reports and complaint 
+applications as a basis for determining “whether the defendant 
+and the government both believed that Shepard was entering 
+guilty pleas to the generically violent crime of breaking and 
+entering a building.” Shepard II, 231 F.3d at 67-68, J.A. 86. 
+The First Circuit also held that such a fact-finding inquiry was 
+not foreclosed by petitioner’s “Zaylor-based categorical 
+objection to the use of the complaint applications and police 
+reports” because his objection did not “challenge the accuracy 
+of the statements in those documents describing entries into 
+buildings.” Jd. at 68, J.A. 87. The First Circuit vacated the 
+sentence and remanded with the instructions that the District 
+Court consider whether there was sufficient evidence, 
+including the police reports and complaint applications, to 
+conclude that the petitioner and the government both believed 
+that it was generic burglary that the petitioner had pleaded 
+
+
+* In Harris, the First Circuit ruled that: 
+
+“...it would be appropriate for the sentencing court to look to the 
+conduct in respect to which the defendant was charged and pled 
+guilty, not because the court may properly be interested (in this 
+context) in the violent or non-violent nature of that particular conduct, 
+but because that conduct may indicate that the defendant and the 
+government both believed that the generically violent crime 
+(“building”) rather than the generically ....- violent crime (“vehicle”) 
+was at issue.” 
+
+~ 964 F.2d at 1236. 
+
+
+14 
+
+
+guilty to. Jd. at 70, J.A. 91. The First Circuit also specified 
+that the preponderance of evidence standard was to be applied 
+and that the prosecutor bore the burden of proof. Jd. at 68, 
+
+
+J.A. 87.’ 
+
+
+3. On remand, the district court held two hearings. At the 
+first hearing, petitioner filed an affidavit regarding the guilty 
+pleas at issue. He stated, inter alia, that the incident reports 
+and complaint applications played no part in any of his guilty 
+pleas; that he had never been asked to admit the truth of the 
+facts alleged therein and had never done so. J.A. 100-04; see, 
+United States v. Shepard, 181 F. Supp. 2d 14, 19 (D. Mass. 
+2002) (“Shepard IIT’), J.A. 154. Petitioner’s affidavit thus 
+addressed the critical question on remand, which was whether 
+the police reports and complaint applications had played any 
+role in his prior plea proceedings and, on that basis whether 
+he believed at the time that he was entering pleas to generic 
+burglary offenses. Shepard II, 231 F.3d at 69, J.A. 88-89. 
+The District Court afforded the prosecut'on additional time to 
+respond to petitioner’s affidavit and scheduled a second 
+
+
+hearing.* 
+
+At the second hearing, the parties agreed that the central 
+question on remand was: “What did Mr. Shepard plead to on 
+those prior occasions?” Shepard III, 181 F. Supp. 2d at 17, 
+J.A. 155. In response to petitioner’s affidavit, the prosecution 
+offered no evidence as to what occurred during petitioner’s 
+plea hearings and relied solely upon the certified copies of the 
+
+
+’ Petitioner filed a timely petition for rehearing and suggestion for 
+rehearing en banc, which was denied over the dissent (without opinion) of 
+Judges Selya and Lynch. This Court denied an interlocutory petition for a 
+writ of certiorari after calling for a response to the petition. Shepard v. 
+United States, 534 U.S. 829 (2001) (No. 00-8998). 
+
+
+® Citing Commonwealth v. Quinones, 608 N.E.2d 724 (Mass. 1993), the 
+District Court observed that reconstruction of a guilty plea record, based 
+on the state court’s standard practice, is permissible and often persuasive 
+evidence under Massachusetts practice. Shepard III, 181 F. Supp. 2d at 20 
+n.11,J.A. 155. 
+
+
+15 
+
+
+police reports and complaint applications. Jd. at 23, J.A.160. 
+The District Court held that the incident reports were not 
+probative of the nature of petitioner’s pleas unless they “had 
+some tangible relationship to the plea colloquy.” Id. at 22, 
+
+
+J A. 159. The prosecution conceded that it lacked any such 
+evidence. 
+
+
+Accordingly, the District Court concluded that the incident 
+reports and complaint applications themselves were not 
+sufficient evidence that petitioner had adopted the facts 
+alleged in the reports. Petitioner’s affidavit was the sole 
+evidence of what had actually transpired at the plea 
+proceedings. The District Court therefore could not conclude 
+that the elements of generic burglary had been adjudicated 
+Id. at 25-26, J.A.165. The court reimposed its prior sentence 
+on remand, including the upward departure based upon 
+petitioner’s criminal history. Jd. at 18, J.A. 150. The 
+government appealed. 3 
+
+
+4. The First Circuit concluded that the District Court’s 
+decision not to apply the sentence enhancement was “clearly 
+erroneous” and again remanded the case, this time with 
+explicit instructions to re-sentence petitioner to the mandatory 
+minimum fifteen year sentence prescribed by the ACCA. 
+United States v. Shepard, 348 F.3d 308, 314-15 (1st Cir 
+2003) (“Shepard IV”); J.A. 183. 
+
+
+The First Circuit dismissed the district court’s reliance upon 
+petitioner’s affidavit stating that he had never admitted to the 
+facts alleged in the police reports and its conclusion that “the 
+police reports did not provide reliable evidence on the central 
+question, ‘what did the defendant plead to in the state court?’” 
+Id: at 311, J.A. 176. Instead, the First Circuit, adopted a 
+rationale based upon a Massachusetts Superior Court standing 
+order, cite, despite the fact that the relevance and operation of 
+that standing order had not been briefed by either party or 
+discussed at oral argument. The First Circuit observed that 
+the standing order provides that criminal defendants are to be 
+given copies of the police reports and complaint applications 
+
+
+16 
+
+
+at arraignment. Thus, according to the First Circuit, there is a 
+presumption that defendants are aware of the factual 
+allegations contained therein. The court further held that 
+unless the allegations contained in these reports are 
+challenged by a defendant, there is a “compelling inference” 
+that an otherwise guilty plea to a nongeneric statute 
+constitutes an admission to the fact alleged in the police 
+reports. Because petitioner’s affidavit did not challenge the 
+accuracy of the facts alleged in the police report, the First 
+Circuit concluded that the reports were “unimpeached” and 
+thus “carried the day.” /d. at 314, J.A. 183. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+In Taylor v. United States, 495 U.S. 575 (1990), the Court 
+addressed the application of the ACCA to prior convictions 
+obtained under non-generic burglary statutes which may or 
+may not qualify as “violent felonies” under the ACCA. The 
+Court unambiguously held that the ACCA does not permit 
+sentencing courts to engage in a factual inquiry into the 
+underlying convictions, but rather must apply a “categorical” 
+approach looking only to the fact of conviction and the 
+elements of the statute of conviction. If the elements 
+adjudicated were those of generic burglary, the conviction 
+qualifies as a “violent felony” under the ACCA. If it cannot 
+be determined from the statute of conviction that these 
+elements were necessarily adjudicated, the conviction does 
+not qualify. The First Circuit, in this case, has ignored the 
+Court’s straightforward holding in Taylor and has instead 
+required an impermissible factual inquiry into the conduct 
+underlying the petitioner’s prior guilty pleas to nongeneric 
+burglary statutes to conclude that his conduct actually 
+amounted to generic burglary. This factual inquiry is 
+inconsistent with Taylor. For this reason the First Circuit’s 
+ruling cannot stand. 
+
+
+In addition to its erroneous interpretation of Taylor, the 
+approach adopted by the First Circuit raises grave and 
+
+
+17 
+
+
+doubtful constitutional questions under the Fifth and Sixth 
+Amendments. The First Circuit’s approach involves judicial 
+fact finding, under a preponderance of evidence standard, that 
+leads to ACCA-based, mandatory minimum sentences that are 
+significantly above the statutory maximum under 18 U.S.C. 
+§ 922(g)(1). The fact-finding mandated by the First Circuit 
+goes far beyond inquiry into the mere fact of prior conviction 
+and expressly requires an examination of record evidence and 
+plea proceedings in order to make a sui generis assessment, 
+long after the fact, of whether the prior convictions were 
+“violent” versions of the felonies defendant had pled guilty to. 
+This sort of judicial fact-finding violates a defendants Sixth 
+Amendment right to a jury trial. The court’s approach also 
+violates the Due Process Clause of the Fifth Amendment 
+because it permits a sentencing court to find these facts by a 
+preponderance of the evidence and impermissibly shifts the 
+burden to the defendant to prove that the ACCA 
+enhancements do not apply. 
+
+
+The First Circuit has interpreted the Massachusetts 
+breaking and entering statutes and petitioner’s guilty pleas 
+thereto as “generic” burglaries. In doing so, the Court of 
+
+
+' Appeals has incorrectly characterized those statutes and guilty 
+
+
+pleas as ambiguous as to whether they constitute generic 
+burglary. The Court’s resolution of the purported ambiguity 
+interprets petitioners’ guilty pleas as pleas to a violent felony 
+rather than a nonviolent felony. The First Circuit’s own 
+construct thereby violates the rule of lenity and for this 
+additional reason must be reversed. 
+
+
+ARGUMENT 
+
+
+I. TAYLOR APPLIES TO THIS CASE AND THE 
+CATEGORICAL APPROACH MANDATED IN 
+THAT OPINION REQUIRES REVERSAL. 
+
+The First Circuit’s opinions in this case reflect significant 
+
+and untenable departures from this Court’s ruling in Taylor, a 
+
+
+18 
+
+
+ruling that squarely applies here. As in Taylor, this case 
+requires construction of § 924(e), which specifies the 
+predicate offenses for ACCA enhancement, including 
+“burglary.” 495 U.S. at 590-96. As in Tayior, the prior 
+convictions at issue here stem from state breaking and 
+entering statutes that specify elements broader than generic 
+burglary because those statues include enclosures other than 
+buildings, such as vehicles and vending machines. /d. at 602; 
+J.A. 52. As in Taylor, it is not possible to discern, from these 
+broader state statutes, whether petitioner’s guilty plea was to a 
+generic burglary, or to a form of breaking and entering that 
+did not involve a building. Jd. at 602; J.A. 52. 
+
+
+On the basis of its plain reading of § 924(e) and the 
+constitutional implications of a more expansive reading, 
+Taylor calls for constitutionally required restraint on the part 
+of sentencing courts in applying the ACCA in circumstances 
+where the underlying convictions are based on non-generic 
+“burglary” statutes. At bottom, Taylor precludes sentencing 
+courts from making sui generis factual assessments of the 
+defendant’s underlying conduct in order to draw inferences 
+about the qualifying status of those convictions for three 
+important reasons. First, the facts upon which the First 
+Circuit relies in characterizing petitioner’s prior convictions 
+as “violent felonies” were neither adjudicated nor necessary 
+to the prior guilty pleas. Second, such exercises by 
+sentencing courts run afoul the doctrine of constitutional 
+avoidance. Third, such exercises risk “mini-retrials” of 
+earlier convictions that are a waste of judicial resources, 
+unfair to defendants and unlikely to produce consistent 
+applications of the ACCA. 
+
+
+The uniform, categorical approach set forth in Taylor is 
+required by the plain text of § 924(c)2)(B). That statute 
+defines “violent felony” and specifies that a “violent 
+felony ... is “burglary.” Jd. at 599. The absence of any 
+qualification of this language led the Court to conclude that 
+Congress intended uniform, federal definition of burglary that 
+
+
+19 
+
+
+does not turn on the vagaries of state definitions or labels (as 
+in Massachusetts, for example, where the label is “breaking 
+and entering”). Jd. at 596-97. Drawing from the legislative 
+history and a review of state criminal codes, the Court 
+established a “generic, contemporary meaning of burglary 
+that contains at least the following elements: (1) an unlawful 
+or unprivileged entry into or remaining in, (2) a building or 
+other structure, (3) with intent to commit a crime.” Jd. at 598 
+(citations omitted). These are the three elements of generic 
+burglary which establish the benchmark for categorical 
+analysis of prior convictions. 
+
+
+Taylor required that courts applying the ACCA look to this 
+definition and only this definition in determining whether a 
+prior conviction was for a generic burglary. /d. at 599. 
+Accordingly, the court’s prescribed method is a “categorical 
+approach.” The preferred method of making this categorical 
+determination is to compare the elements of the statute of 
+conviction to these generic elements on an “in” or “out” basis. 
+But where the statutory elements are not generic, the 
+conviction may still qualify where all the elements of generic 
+burglary have been adjudicated. Taylor specifies that a in 
+most cases sentencing court may look only to the statutory 
+definition of the prior offense to make it categorical. Jd. at 
+602. 
+
+
+Taylor therefore is definitive in holding that a prior 
+conviction under a non-generic burglary statute qualifies as a 
+violent felony only where the statute of conviction is 
+unambiguously generic, or the sentencing court determines 
+“that the jury necessarily had to find an entry of a building to 
+convict.” Jd. at 602. Taylor plainly sets forth a standard that 
+requires the sentencing court to conclude that the state court 
+necessarily adjudicated all the elements of a generic burglary. 
+
+
+When elements of the statute of conviction “substantially 
+
+
+correspond” to the elements of generic burglary, the 
+sentencing court can infer that the defendant was 
+“necessarily” found guilty of all the elements of generic 
+
+
+20 
+
+
+burglary. Jd. at 600. Where the statute of conviction is non- 
+generic, however, that inference obviously cannot be drawn. 
+But if a jury has convicted the defendant, the inference that 
+the defendant was necessarily found guilty of all of the 
+elements of generic burglary can be drawn if it is supported 
+by both a generic charging document and jury instructions 
+which require the jury to find only generic burglary. /d. at 
+602. 
+
+
+Adjudication of the required elements for earlier, qualifying 
+convictions cannot be the province of a sentencing court 
+under Taylor. Instead, the role of the sentencing court is only 
+to determine whether that adjudication took place and 
+whether the defendant was convicted of those elements, 
+whether by plea or by jury determination. The inquiry 
+continues to be solely a question of law. United States v. 
+Vidaure, 861 F.2d 1337, 1340 (Sth Cir. 1988), cited with 
+approval in Taylor, 495 U.S. at 601. 
+
+
+A. The First Circuit Misreads Taylor. 
+
+
+The First Circuit’s reasoning flows entirely from an 
+erroneous premise; namely, that Taylor provides a blanket 
+exception to its categorical requirements in cases involving 
+guilty pleas obtained under non-generic statutes. In gvilty 
+plea cases, the First Circuit requires a sentencing court to find 
+facts, on a preponderance of the evidence standard, to 
+determine whether the defendant actually committed generic 
+burglary. Pursuant to such findings, defendants would be 
+exposed, as in this case, to significantly enhanced sentences 
+far beyond the maximum peralty for the present charge. 
+
+
+* In United States v. Sherbondy, 865 F.2d 996 (9th Cir. 1998), cited 
+approvingly in Taylor, 495 U.S. at 600, the Ninth Circuit considered and 
+rejected an “intermediate” approach under which the sentencing court 
+would consider only court records because that method suffered from 
+most of the shortcomings of the fact finding method. Sherbondy, 865 F.2d 
+at 1008 n.16 
+
+
+21 
+
+
+The First Circuit thus mistook Taylor’s holding and called 
+for sentencing courts to determine not whether the qualifying 
+elements were in fact adjudicated, but whether there are facts 
+somewhere present in the record that would permit the 
+sentencing court to reconfigure the prior non-generic 
+conviction into generic burglary based on the defendant’s 
+conduct. It did not matter to the First Circuit that this court 
+explicitly rejected fact-finding in Taylor for good and 
+sufficient reasons clearly explained. It did not matter to the 
+First Circuit that those facts were not themselves adjudicated 
+in the state court. It did not matter to the First Circuit that 
+sentencing courts would use such unadjudicated facts, long 
+after the proceedings, retry the defendant on a charge never 
+made against him in state court. And it did not matter to the 
+First Circuit that none of constitutional procedural protections 
+guaranteed to defendants, such as the right to have such 
+findings made by a jury beyond a reasonable doubt, were 
+attached to these after-the-fact determinations of such great 
+consequence. Instead, it mattered only the documents used as 
+a basis for such fact-finding were not patently unreliable.'° 
+The First Circuit’s objective apparently was to insure that the 
+ACCA be applied as broadly as possible to non-generic 
+convictions. Shepard IV, 348 F.3d at 311-12, 314, J.A. 176- 
+77, 181. Plainly, the exercise required by the First Circuit 
+amounts to an adjudication of facts anew, not a determination 
+of whether those facts were adjudicated below. Taylor 
+permits only the latter and expressly disapproves of the 
+former. 
+
+
+'° The First Circuit’s final opinion in this case, for example, holds that 
+it was clearly erroneous for the District Court not to find the police reports 
+(and the subsequent applications for complaint which relied wholly upon 
+on the police reports) sufficiently reliable to find that Mr. Shepard had 
+pleaded guilty to generic burglaries. Shepard IV, 348 F.3d at 314, J.A. 
+182. 
+
+
+22 
+
+
+B. The First Circuit Has Adopted a Factual Inquiry 
+Prohibited By Taylor. 
+
+
+Notwithstanding this Court’s mandate that sentencing 
+courts not engage in a factual inquiry with respect to 
+determining which prior convictions qualify under the ACCA, 
+. the First Circuit requires just that. Indeed, the court embraces 
+this inquiry, stating that “courts routinely resolve factual 
+disputes during sentencing hearings [and] [w]e see no reason 
+why disputes about the meaning of a defendant’s guilty plea 
+should be immune from that process, so long as the inquiry is 
+consistent with the principles of Taylor.” Shepard II, 231 
+F.3d at 69, J.A. 89-90. As justification for this subjective test, 
+the First Circuit draws a distinction between a factual inquiry 
+into the underlying conduct and a factual inquiry into what 
+the defendant and the government believed at the time of the 
+plea hearing. See id. at 69-70, J.A. 81. The latter, according 
+to the court of appeals avoids the factual inquiry prohibited by 
+Taylor. The First Circuit’s distinction is without merit 
+because, at bottom, the court’s inquiry is focused on the 
+defendant’s conduct that resulted in the guilty plea and not on 
+the elements that were necessarily adjudicated. 
+
+
+Taylor did not disapprove of fact finding for some purposes 
+and allow it for others. The Court specifically rejected 
+enhancement “on the ground that he actually committed a 
+generic crime.” Taylor, 495 U.S. at 600-02 (“looking only to 
+the fact of the conviction and not to the particular facts 
+underlying those convictions.”). In the face of this 
+prohibition, the First Circuit asked: “But how can one tell 
+whether generic burglary was the crime of conviction if one 
+does not look at what actually happened at the scene of the 
+crime?” Shepard IV, 348 F.3d at 312, J.A. 178. The First 
+Circuit simply circumvented Taylor with an argument that 
+runs: if the defendant actually committed generic burglary, 
+
+
+23 
+
+
+then he was probably charged with generic burglary.'' If he 
+was charged with generic burglary, he probably admitted 
+generic burglary in his guilty plea; therefore, his guilty plea 
+was really a generic burglary conviction. It is plain that this 
+is an enhancement bottomed on a finding of fact that the 
+defendant actually committed generic burglary.’ 
+
+
+This device creates a severe due process problem. Judges 
+have found facts from a police report to determine that 
+petitioner is guilty of generic burglaries he was never charged 
+with, on the ground that, although he was convicted of a 
+different crime, generic burglary is actually what was on his 
+and the prosecutor’s minds when he pled guilty. But a 
+fundamental element of due process is actual notice of the 
+true nature of the charge. Smith v. O’Grady, 312 U.S. 329, 
+334 (1941); Henderson v. Morgan, 426 U.S. 637, 645 (1976) 
+What the First Circuit has constructed is a truly unwitting 
+guilty plea. 
+
+The First Circuit inquiry says nothing about the elements of 
+conviction and so does not contribute anything to a 
+categorical analysis. The Shepard IV inquiry converts the 
+sentencing judge’s task from that of ascertaining what 
+elements were adjudicated in the prior proceeding to 
+adjudicating those elements herself, de novo, years after the 
+
+
+fact, on dubious evidence, employing a preponderance of the 
+evidence standard. Cf. Blakely, 124 S. Ct. at 2536-37. The 
+
+
+'' The First Circuit papers over the fact that petitioner was not formally 
+charged generically by positing a “compelling inference” that the non- 
+generic complaint “embodied” the facts in the police report and that the 
+plea was to the “embodied” complaint. Shepard IV, 348 F.3d at 314, J.A. 
+182. 
+
+
+'? “There is surely an air of make-believe about this case. No one, and 
+this includes Shepard and the district court, has seriously disputed that 
+Shepard in fact broke into half a dozen or more buildings . . . . [H]e is just 
+the kind of burglar whom Congress had in mind adopting the tough fifteen 
+year minimum sentence for armed career criminals.” Shepard IV, 348 
+F.3d at 311, J.A. 176. 
+
+
+24 
+
+
+district court recognized that this post hoc fact-finding was 
+inimical to Taylor’s categorical analysis and refused to 
+engage in it. Shepard I, 125 F. Supp. 2d at 569-70, J.A. 59- 
+62; Shepard III, 181 F. Supp. 2d at 24, J.A. 162-63. 
+
+
+C. The First Circuit Shifts The Burden To The 
+Defendant To Show That The Enhancement Does 
+
+
+Not Apply. 
+
+
+While the court acknowledges that it is the government’s 
+burden to prove that a prior conviction qualifies under the 
+ACCA, it places the burden on the defendant by starting with 
+the presumption that a defendant is aware of the allegations 
+made against him and that a plea of guilty is an admission of 
+each fact alleged. It then requires that a defendant 
+demonstrate that there was no mutual understanding between 
+himself and the government that he was admitting to the 
+elements of generic burglary at the time the plea was entered. 
+The First Circuit found Shepard guilty of generic burglary 
+based solely on the unlitigated allegations in old police 
+reports. 
+
+The First Circuit’s finding that a Massachusetts district 
+court complaint “embodies” the facts in a police report 
+submitted with a complaint application apparently rests on the 
+court’s understanding of the complaint and discovery 
+procedures followed in the state district courts. This 
+understanding was not derived from evidence in the record 
+but from general information developed by .the court 
+independently of the litigation process. Cf United States v. 
+DiPina, 178 F.3d 68, 73-78 (ist Cir. 1999); United States v. 
+Roberts, 39 F.3d 10, 13 (ist Cir. 1994) (Each holding that 
+findings of the process followed in state court and its effect 
+are issues of fact to be determined on the basis of record 
+facts). 
+
+Finally, the First Circuit’s “compelling inference” that 
+petitioner pleaded guilty to the facts “embodied” but not 
+expressed in the non-generic complaints finds no footing in 
+
+
+25 
+
+
+the law. The Massachusetts courts have been disinclined to 
+discover a factual basis for guilty pleas for which there is no 
+record colloquy. Commonwealth v. Duquette, 438 N.E.2d 
+334, 339 (Mass. 1982). In fact, even if the “embodiment” 
+fiction was fact, a guilty plea constitutes an admission only t 
+the elements set out in the charging document, and does no 
+constitute an implicit admission to extraneous facts recited 
+there. United States v. Thomas, 355 F.3d 1191, 1996 (9th Cir. 
+2004); see also, United States v. Broce, 488 U.S. 563, 569 
+(1989) (a defendant who pleads guilty admits “all of the 
+factual and legal elements necessary to sustain a binding, final 
+judgment of guilt and a lawful sentence”). 
+
+
+The unavoidable fact remains that the burglary of a 
+building issue which is indispensable to the ACCA 
+enhancement issue was evidently irrelevant in the state court. 
+Petitioner could have been charged with generic burglary but 
+was not. The state court record indicates indifference to the 
+“building” element in state court, a fact which the federal 
+prosecutor recognized in asking the District Court: “I mean, 
+what if the lower court’s determination was how do you plead 
+to 266, 16, and there is no further determination because the 
+state court’s not looking at the same things we’re looking at?” 
+To the District Court, this was a serious concern. J.A. 29. In 
+the end, the prosecutor failed to produce any evidence of 
+actual admissions in the plea colloquy. J.A. 133 (“I have no 
+indication of what the plea colloquy determined or what 
+documents were cited at the plea colloquy.”). 
+
+The First Circuit’s imagined meeting of the minds in 
+petitioner’s state plea proceedings is contradicted by actual 
+experience in the federal courts. Justice Scalia pointed out in 
+his dissent in United States v. Bousley, 523 U.S. 614 (1998) 
+(dissenting) that the factual implications of guilty plea 
+admissions will depend upon the legal issues being addressed. 
+A defendant’s plea to “knowingly and _ intentionally 
+us[ing] . . . firearms during and in relation to drug trafficking” 
+meant mere possession of a firearm in the vicinity of the drug 
+
+
+26 
+
+
+offense before this Court’s ruling in Bailey v. United States, 
+516 U.S. 137, 144 (1995), but connoted active employment of 
+the firearm after that decision.” A guilty plea to the former 
+does not imply an admission of the latter: “the factual basis 
+[of a plea] will not include a fact which, by hypothesis, the 
+court and the parties think irrelevant.” Bousley, 523 U.S. at 
+631 n.* (Scalia, J., dissenting). 
+
+
+The heart of the First Circuit’s ruling is that petitioner 
+should be sentenced as an armed career criminal because he 
+actually committed at least three generic burglaries. Here, as 
+the prosecutor conceded, the issue of whether petitioner had 
+burglarized a building as opposed to some other enclosure 
+was not “necessarily adjudicated” in his prior plea 
+proceedings. Taylor, 495 U.S. at 602. Yet the First Circuit 
+ignored the implications of this concession for the 
+prosecutions ability to meet its burden and instead looked to 
+petitioner to rebut the “compelling inference” that the incident 
+reports were reliable evidence of admissions to generic 
+burglary. Looking past the First Circuit’s debunked 
+“compelling inference” construct, it is clear that the heart of 
+its holding is that petitioner should be sentenced as an armed 
+career criminal because the federal court believes that he 
+actually committed at least three generic burglaries. This is 
+exactly the rationale rejected in Taylor. The First Circuit’s 
+transparent circumvention of Taylor’s holding should be 
+rebuffed. 
+
+
+D. The First Circuit’s Rule Creates The Problems 
+That Taylor Seeks To Avoid. 
+
+
+Taylor clearly identified the problems it sought to avoid in 
+rejecting a fact finding method of qualifying prior convictions 
+as ACCA predicates. Allowing the government to “seek 
+enhancement on the ground that [the defendant] actually 
+committed generic burglary” would have required the Court 
+to devise an efficient, fair and uniform method of making that 
+determination. 495 U.S. at 600. The Court concluded that, 
+where a jury trial produced the conviction, reference © the 
+
+
+27 
+
+
+charging document and jury instructions would provide the 
+information needed to identify the elements of conviction and 
+carry out the categorical analysis. But it made no parallel 
+provision for guilty pleas because it rejected fact finding, and 
+the records of guilty plea convictions do not reliably identify 
+the elements of conviction. Standards for determining what 
+evidence could be considered would have to be established. 
+A fact finding method would suffer from the myriad problems 
+associated with old, stale evidence. Sherbondy, 865 F.2d at 
+1008 & n.16. Questions concerning the scope of permissible 
+defenses would have to be resolved. In guilty plea cases, the 
+problem of abbreviated and incomplete factual records would 
+present persistent problems. And the question of whether the 
+defendant was entitled to a jury trial to determine whether he 
+had actually committed generic burglary would have to be 
+addressed. Taylor, 495 U.S. at 601. 
+
+
+Harris and its progeny, culminating in Shepard IV, provide 
+conclusive proof that the Court’s assessment of the 
+shortcomings of the fact finding method was prophetic. After 
+twelve years of incessant litigation, including six years of 
+litigation in this case, all of these problems have presented 
+themselves and none has been acceptably resolved. 
+
+
+For example, the First Circuit has held subsequent to its 
+rulings in Shepard that it is fair and consistent with Taylor to 
+rely on the untested hearsay statements in an old police report 
+of initial investigation to find that a defendant committed a 
+crime he was never charged with. In United States v. 
+Delgado, 288 F.3d 49 (ist Cir. 2002) the court approved, as 
+being within the district court’s fact finding discretion, an 
+ACCA enhancement finding that the defendant was guilty of 
+generic burglary on the basis of a police report where the 
+defendant had been charged with armed house invasion even 
+though he pleaded guilty only to an unspecified and lesser 
+
+
+28 
+
+
+offense.'? Id. at 53-54 & n.6. The Circuit’s interpretations of 
+Taylor have been so confusing as to prompt it to refer to “the 
+murky world of Taylor v. United States.” Emile v. INS, 244 
+F.3d 183, 185 (1st Cir. 2001). 
+
+
+The standard of admissible evidence appears to be anything 
+in the state court file which purports to describe the 
+defendant’s underlying conduct, unless the defendant 
+challenges it factually. That standard unfairly burdens 
+defendants and utterly fails to even acknowledge the 
+constitutional concerns that the Taylor court recognized as 
+inherent in such fact-finding forays. 
+
+
+Shepard II directed the district court to try to reconstruct 
+the plea proceedings to determine whether petitioner admitted 
+generic burglary then and there. But Shepard IV rejudicated 
+that approach and substituted a procedural construct which, 
+when defendants respond with claims of a right to trial, will 
+squarely present the question of whether the Sixth 
+
+
+'° Reluctantly concurring, Judge Selya said: 
+In virtually all circumstances, newly-constituted panels within a 
+circuit are bound by the holdings of prior panels (citations omitted). 
+Given the force of this rule and its applicability here, I acknowledge 
+that United States v. Shepard, 231 F.3d 56, 66 (1st Cir. 2000), dictates 
+the outcome of this appeal. I write separately, however, because I 
+believe that Shepard, and cases like it, take impermissible liberties 
+with the narrow exception envisioned in Taylor v. United States, 495 
+U.S. 575, 602, 110 S.Ct. 2143 (1990), 109 L. Ed. 2d 607, and, thus, 
+undermine the integrity of the categorical approach favored by the 
+Supreme Court for cases in which predicate offenses are used to 
+enhance defendant’s sentences. Were we writing on a pristine page, I 
+would hold particularized inquiry of the type and kind approved in the 
+majority opinion inquiry (which ranges well past the charging papers, 
+jury instructions, and other formal accouterments of the predicate 
+offense to a copy of a police report compiled by an investigating 
+officer) to be beyond the limits contemplated by the Taylor Court. 
+The page, however, is not pristine, and so I reluctantly concur in the 
+judgment of the panel. 
+Delgado, 288 F.3d at 57. 
+
+
+29 
+
+
+Amendment requires a jury trial and the beyond a reasonable 
+doubt standard of proof. 
+
+
+II. THE DOCTRINE OF CONSTITUTIONAL AVOID- 
+ANCE REQUIRES THAT THE ACCA BE 
+INTERPRETED TO PROHIBIT JUDICIAL FACT 
+FINDING. 
+
+
+“[W]here a statute is susceptible of two constructions, by 
+one of which grave and doubtful constitutional questions arise 
+and by the other of which such questions are avoided, our 
+duty is to adopt the latter.” Jones, 526 U.S. at 239 (citations 
+omitted). This Court’s opinion in Taylor rests in part on this 
+very doctrine of constitutional avoidance. Although the 
+Taylor Court did not identify the doctrine by name, the Court 
+articulated among the reasons for its holding the implications 
+for a defendant’s right to a jury trial if § 924(e)(2)(B)(ii) was 
+interpreted to permit a “factual approach.” 495 U.S. at 601. 
+Thus, the Court held that the only plausible interpretation of § 
+924(e)(2)(B) is that it requires the sentencing court “to look 
+only to the fact of conviction and to the statutory definition of 
+the prior offense.” Jd. at 602. In applying the doctrine of 
+constitutional avoidance to interpret the ACCA as prohibiting 
+findings of fact that operate to enhance a_ sentence 
+significantly, the Taylor Court presaged the Court’s later 
+opinions in Jones, 526 U.S. at 239, Apprendi v. New Jersey, 
+530 U.S. 466 (2000) and Blakely v. Washington, 124 S. Ct. 
+2531 (2004). 
+
+
+In Jones, for example, the Court construed a federal 
+criminal statute to avoid Fifth and Sixth Amendment 
+constitutional issues stemming from judge-made findings of 
+fact that enhanced penalties beyond the statutory maximum. 
+While both Jones and Apprendi note that “the fact of prior 
+conviction” is excepted from prohibited factual findings, the 
+justification for that exception is inapplicable here. The fact 
+of a prior conviction is exempted from Fifth and Sixth 
+Amendment procedural safeguards because they were in - 
+place during the course of those convictions. Here, however, 
+
+
+30 
+
+
+the factual inquiry goes beyond the fact of conviction to 
+establish the underlying conduct and the events occurring at 
+plea proceedings. Under the First Circuit’s test, prior 
+convictions may be reconfigured as a violent crime and 
+therefore ACCA-qualifying felonies solely on the basis of the 
+sentencing court’s factual inquiry into what the defendant did 
+and therefore “really” pled to. As noted in Jaylor, such 
+inquiry raises grave and doubtful constitutional questions, 
+questions that have now been resolved by Jones, Apprendi, 
+and Blakely in a way that supports petitioner’s construction of 
+Taylor. 
+
+
+A. Constitutional Avoidance in the Sentencing 
+Context. 
+
+
+The precise constitutional problem to be avoided here is 
+strikingly similar to the problem which influenced the Court’s 
+interpretation of the “carjacking statute” (18 U.S.C. § 2119) 
+in Jones v. United States, 526 U.S. 227 (1999). That statute 
+was interpreted as defining three different crimes rather than a 
+single crime with two aggravating factors to be determined by 
+the sentencing judge on a preponderance of the evidence. /d. 
+at 251-52. There is no question here that § 924(e) elevates 
+the penalty parameters as severely or even more severely than 
+those at issue in Jones. Like Jones, the issue here is whether 
+the sentencing court may consider facts not adjudicated in the 
+prior proceeding in order to impose sentence for the 
+“aggravated” version of the crime. The constitutional 
+principle discerned in Jones was “under . . . the jury trial 
+guarantees of the Sixth Amendment, any fact (other than prior 
+conviction) that increases the maximum penalty for a crime 
+must be charged in an indictment, submitted to a jury, and 
+proven beyond a reasonable doubt.” /d. at 243 n.6. In 1999, 
+this principle had only been suggested by prior cases, but is 
+now clearly established. Apprendi, 530 U.S. at 490; Ring v. 
+Arizona, 536 U.S. 584, 603-09 (2002); Blakely, 124 S. Ct. at 
+2537. Thus the Court’s level of constitutional concern here 
+should rise above the level of doubt to near certainty. 
+
+
+31 
+
+
+In Apprendi v. New Jersey, 530 U.S. 466 (2000) the Court 
+held that “Other than the fact of a prior conviction, any fact 
+that increases the penalty for a crime beyond the prescribed 
+statutory maximum must be submitted to a jury, and proved 
+beyond a reasonable doubt.” Jd. at 490. 
+
+
+In both Apprendi and Ring, this Court concluded that the 
+defendant’s Sixth Amendment rights had been violated 
+because the sentencing judge had “imposed a sentence greater 
+that the maximum he could have imposed under state law 
+without the challenged factual finding.” Blakely, 124 S. Ct. at 
+2537. Similarly, in Blakely, the defendant’s sentence was 
+increased beyond the statutory maximum on the basis of 
+findings of fact (that he had acted with “deliberate cruelty”) 
+by the sentencing judge that “were neither admitted by 
+petitioner (in his guilty plea) nor found by a jury.” /d. The 
+Court held that Blakely’s right to jury trial was violated 
+because the judge acquired the authority to impose an 
+enhanced sentence “only upon finding some additional fact.” 
+Id. at 2538. 
+
+
+As Apprendi specifies, the fact of a prior conviction is an 
+exception to this rule. This is because the certainty that the 
+defendant received due process in the proceedings leading to 
+the conviction ameliorates the concern that taking judicial 
+notice of the fact of conviction violates a defendant’s right to 
+due process in a recidivist sentencing forum. 530 U.S. at 487- 
+88. “The rationale for exempting the fact of prior conviction 
+from jury trial guarantees is that, a prior conviction must itself 
+have been established through procedures satisfying the fair 
+notice, reasonable doubt, and jury trial guarantees.” Jones, 
+526 U.S. at 249. 
+
+
+However, the confidence that the Jones Court had in the 
+integrity of prior convictions is misplaced in situations where, 
+as here, a subsequent court must engage in fact-finding to 
+resolve an ambiguity about the nature of the prior 
+
+
+32 
+
+
+conviction.'* Here, the application of § 924(e) turns on a post 
+hoc adjudication which was not conducted in accordance with 
+these guarantees. Burglary of a building was not charged in 
+the complaints to satisfy fair notice requirements. JA 52; 
+J.A.IIl. 5, 8, 15, 21. It was not established beyond a 
+reasonable doubt nor admitted in the guilty pleas, either as a 
+fact or as an element. J.A. 24, 26, 28-30. 
+
+
+A plain reading of the opinion in 7aylor interdicts these 
+constitutional concerns. Limiting Taylor’s reach to the fact of 
+cor.viction as determined by categorical approach cabins 
+§ 924(e) within the confines of the Apprendi-Blakely 
+exception. United States v. Cooper, 2004 U.S. App. LEXIS 
+14685, at **29 n.3 (10th Cir. 2004); United States v. Sanders, 
+2004 U.S. App. LEXIS 15368, at *5 n.3 (8th Cir. 2004). 
+Taylor’s categorical approach addresses and answers only 
+questions of law (e.g., whether the elements of the prior 
+conviction encompass the elements of generic burglary) and 
+so does not infringe on the right to have the jury assess all the 
+facts which alter the congressionally proscribed range of 
+penalties to which a criminal defendant is exposed. Jones, 
+526 U.S. at 253 (Scalia, J., concurring). 
+
+
+B. The First Circuit’s Interpretation of the ACCA 
+Raises Grave and Doubtful Constitutional 
+Questions. 
+
+
+The approach adopted by the First Circuit permits and, as in 
+this case would require the sentencing court to find facts 
+beyond those adjudicated in the prior guilty plea in order to 
+_ determine whether that plea was for generic burglary. These 
+facts are not limited to the fact of conviction. The opinion in 
+Shepard IV requires the sentencing court to receive and 
+evaluate extrinsic evidence to assess the deferdant’s 
+
+
+'* As noted in Justice Thomas’ separate concurrence in Apprendi, even 
+fact-finding limited to prior conviction may itself raise the same grave and 
+doubtful constitutional questions as fact-finding in relation to other 
+enhancements. Apprendi, 530 U.S. at 519-21. 
+
+
+33 
+
+
+underlying criminal conduct. 348 F.3d at 314; J.A. 181-82. 
+If that evidence indicates, for example, that the facts indicate 
+that a defendant may actually have committed a generic 
+burglary then the defendant must adduce persuasive evidence 
+to the contrary. In the absence of such evidence and “{i]n the 
+absence of other evidence of peculiar circumstances,” id., the 
+court must infer that he pleaded guilty to generic burglary. 
+Shepard IV, 348 F.3d at 314, J.A. 182. The guilty plea to a 
+violation of 18 U.S.C. § 922(g)(1) authorizes a maximum of 
+ten years imprisonment; a finding that the defendant qualifies 
+as an armed career criminal requires a minimum sentence of 
+fifteen years; there is no statutory maximum except that 
+prescribed by the Sentencing Guidelines. 
+
+
+Avoiding this kind of “mini-trial” was one of the reasons 
+for Taylor’s explicit rejection of a fact finding approach and 
+the Court’s embrace of a categorical approach that turns on 
+legal questions alone. Indeed, the Taylor Court approved the 
+Fifth Circuit’s holding in Vidaure, 861 F.2d at 1340, that the 
+ACCA determination of whether a crime was a “violent 
+felony” involved only an issue of law because it did not 
+involve judicial assessment of extrinsic evidence. Jd. The 
+Court’s later decision in United States v. Gaudin, 515 U.S. 
+506 (1995) reinforces the need to maintain this boundary. In 
+Gaudin, the Court reiterated that deciding issues of fact as 
+well as mixed issues of law and fact is a function 
+constitutionally allocated to the jury. /d. at 513-15. Taylor’s 
+categorical approach is therefore entirely divorced from 
+questions that properly fall within the province of the jury. 
+
+
+Petitioner did not contest the fact of his prior convictions. 
+Following First Circuit precedent, the District Court received 
+extrinsic evidence (the police reports and complaint 
+applications) and made findings of fact attempting to 
+reconstruct the state court guilty plea proceedings.’ Shepard 
+
+
+'S Under the First Circuit’s own test, the District Court’s finding that 
+the incident reports and other evidence were not a part of the plea 
+
+
+34 
+
+
+Ill, 181 F. Supp. 2d at 23-24, J.A. 158-62. However, 
+considering extrinsic evidence, the First Circuit made 
+extensive findings of fact of its own regarding the underlying 
+conduct and the plea proceedings, as well as findings 
+concerning Massachusetts state court procedures. It relied 
+heavily upon its own assessment that petitioner had both 
+actually committed generic burglary and admitted the facts of 
+generic burglary in his guilty pleas to conclude that petitioner 
+had been convicted of at least three prior generic burglaries. 
+Shepard IV, 348 F.3d at 311, 313-14, J.A. 182. Indisputably, 
+the court went far beyond the fact of conviction in obedience 
+to its interpretation of Taylor and the ACCA. 
+
+
+Grave and doubtful questions arise not just from the fact- 
+finding objectives of the First Circuit’s inquiry, but also from 
+the First Circuit’s application of a preponderance standard. In 
+both Shepard II and IV, the First Circuit approached its own 
+test in a manner befitting civil, rather than criminal 
+proceedings. For example, in Shepard II, the Court posited 
+that it would be petitioner’s obligation to raise “plausible 
+objections” to the incident reports and if the prosecution did 
+not make sufficient response, “the [sentencing] court may 
+decide that it cannot conclude by a preponderance of the 
+evidence that ([petitioner’s] pleas of guilty constituted 
+admissions to unlawful entries into buildings.” Shepard II, 
+231 F.3d at 69, J.A. 89. In Shepard IV, the First Circuit 
+faulted petitioner for failing “to explain any circumstance 
+surrounding the pleas that might defeat the natural inference 
+that the pleas were to the crimes specified in the case files.” 
+Shepard IV, 348 F.3d at 314, J.A. 181-82. 
+
+
+The First Circuit’s resort to the preponderance standard, 
+and, further, to burden-shifting devices under that standard 
+
+
+proceedings cannot have been erroneous, much less clearly so. The 
+prosecution presented no evidence to connect those documents to the plea 
+proceedings. The First Circuit was only able to make that connection 
+itself through an inappropriated and erroneous presumption regardiug 
+Massachusetts state court procedure. 
+
+
+-— <— — — 
+
+
+— ~ 
+
+
+35 
+
+
+regarding Massachusetts state court procedure, are squarely in 
+conflict with Jones, Apprendi and Blakely. In each of those 
+cases, the Court has not only prohibited judicial fact-finding 
+in usurpation of the jury’s role, but has also upheld the 
+defendant’s due process right to a determination that beyond 
+sentence enhancing facts existed beyond a reasonable doubt. 
+Under a beyond the reasonable doubt standard, petitioner 
+bears no burden and the prosecution bears a heavy one. The 
+First Circuit’s repeated criticism of petitioner for failing to 
+present persuasive evidence that his pleas were not to generic 
+crimes (see Shepard IV, 348 F.3d at 314, J.A. 181-82) is the 
+antithesis of a proper due process analysis. 
+
+
+To avoid the “grave and doubtful” Fifth and Sixth 
+Amendment issues squarely presented by the First Circuit’s 
+tests, this Court must reaffirm its holding in Tayler. Taylor’s 
+categorical approach allows the sentencing court to do no 
+more than compare the statutory elements of conviction or the 
+adjudicated elements of conviction to the elements of generic 
+burglary and conclude whether or not they “substantially 
+correspond.” It permits no fact finding nor consideration of 
+extraneous evidence. With these restrictions, Taylor’s 
+categorical approach involves only question of laws and : 
+avoids the grave and doubtful constitutional questions that the 
+Court also avoided in Jones and the cases that followed it. 
+
+
+Il, THE RULE OF LENITY REQUIRES THAT 
+TAYLOR’S MODIFICATION FOR NONGENERIC 
+STATUTES OF CONVICTION BE LIMITED TO 
+JURY TRIAL CONVICTIONS. . 
+
+
+Ambiguity concerning the scope of criminal statutes should 
+be resolved in favor of lenity. See United States v. Bass, 404 
+U.S. 336, 347 (1971). Moreover, it is equally well settled that 
+this rule applies not only to “the substantive ambit of criminal 
+prohibitions, but also to the penalties they impose.” Albernaz 
+v. United States, 450 U.S. 333, 343 (1981). Petitioner’s 
+position is that there is no ambiguity with respect to the scope 
+and nature of the Massachusetts state statutes that underlie his 
+
+
+36 
+
+
+prior convictions: those statutes are non-generic. 
+Consequently, there is no uncertainty regarding the nature of 
+his plea of guilty to violations of those statutes: he did not 
+plead guilty to violent felonies as defined under the ACCA 
+and construed by 7Jaylor. The First Circuit, however, in 
+Shepard II and IV and their antecedents, devised a method to 
+determine whether convictions under statutes that included 
+more than just generic elements were nonetheless convictions 
+for generic burglaries and thus, violent crimes pursuant to the 
+ACCA. 
+
+
+The First Circuit’s rulings run afoul of the rule of lenity 
+from the outset. Justice Scalia’s separate concurrence in 
+Taylor noted that a review of legislative history to determine 
+whether that history displays a more extensive punitive intent 
+than indicated by the statute would only be undone by 
+application of the rule of lenity. 495 U.S. at 603 (Scalia, J. 
+concurring). Similarly, the First Circuit’s command that 
+sentencing courts review the record in order to determine 
+whether a prior plea to a non-generic statute in fact could be 
+interpreted as a violent felony was an unnecessary and 
+inappropriate exercise. If the Massachusetts breaking and 
+entering statutes and the resultant pleas thereto are somehow 
+ambiguous as to whether they constitute generic crimes. 
+Then the rule of lenity nonetheless require that they be 
+interpreted as non-generic crimes and no further inquiry 
+would be required. 
+
+Instead, the First Circuit’s misreading of Taylor 
+dramatically expands the scope of application of the ACCA 
+enhancements. Shepard IV, 348 F.3d at 311, J.A. 177 (noting 
+that Taylor’s categorical method “narrowed the Act 
+dramatically”). As the First Circuit demonstrated in its 
+rulings here, a step past the statute of conviction in assessing 
+the nature of a prior plea is a step onto a slippery-slope of 
+extensive fact-finding. Police reports, applications for 
+complaints, plea proceedings, colloquies and even the 
+intricacies of state court procedures all become fair game 
+
+
+37 
+
+
+examination and inference by the sentencing court. «he First 
+Circuit’s exercise of stringing inference upon inference 
+against the backdrop of a silent record is an anathema to the 
+rule of lenity. Nor is the exercise even necessary in order to 
+hold a defendant properly accountable for his criminal 
+history. Taylor, 495 U.S. at 601 n.9, 602 n.10 (suggesting 
+that, while the categorical method will not necessarily reach 
+all generic burglary convictions, other sentencing 
+enhancement provisions allow consideration of the 
+defendant’s conduct). Taylor’s categorical approach, by 
+contrast, also is more likely to promote consistent, uniform 
+application of the ACCA and eliminate reliance on subjective 
+factors in making ACCA determinations. Sherbondy, 865 
+F.2d at 1009 n.17. In this case, the First Circuit has forced a 
+claim of ambiguity. But to the extent that the underlying 
+statutes are purportedly ambiguous with respect to the nature 
+of the crimes they describe and therefore the resulting guilty 
+pleas might be said to be ambiguous as well, the rule of lenity 
+should be applied, and the Court should find that such 
+convictions do not qualify as predicates for ACCA 
+enhancement. 
+
+
+38 
+
+
+. CONCLUSION 
+
+
+For all of the foregoing reasons, the judgment of the United 
+States Court of Appeals for the First Circuit should be 
+reversed, and the judgment of the United States District Court 
+for the District of Massachusetts should be affirmed. 
+
+
+Respectfully submitted, 
+
+JEFFREY T. GREEN LINDA J. THOMPSON* 
+KEVIN M. HENRY JOHN M. THOMPSON 
+SIDLEY AUSTIN BROWN & =THOMPSON & THOMPSON, P.C. 
+
+WOOD LLP 1331 Main Street | 
+
+1501 K Street, N.W. Springfield, MA 01103 
+Washington, D.C. 20005 (413) 739-2100 
+(202) 736-8000 
+
+Counsel for Petitioner 
+
+August 27, 2004 * Counsel of Record 
+
+
+av 
+
+

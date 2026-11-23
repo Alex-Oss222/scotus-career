@@ -1,0 +1,130 @@
+Source: https://www.law.cornell.edu/supct/html/03-1423.ZS.html
+
+MUEHLER V. MENA
+
+LII
+
+Supreme Court
+
+MUEHLER V. MENA (03-1423) 
+332 F.3d 1255, vacated and remanded.
+Syllabus
+ Opinion
+ [ Rehnquist ]Concurrence
+ [ Kennedy ]Concurrence
+ [ Stevens ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be
+released, as is being done in connection with this case, at the
+time the opinion is issued.
+The syllabus constitutes no part
+of the opinion of the Court but has been prepared by the
+Reporter of Decisions for the convenience of the reader.
+See
+United States v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+MUEHLER et al. v. MENA
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE NINTH CIRCUIT
+
+No. 03—1423.Argued December 8,
+2004–Decided March 22, 2005
+
+Respondent Mena and others were detained in
+handcuffs during a search of the premises they occupied. 
+Petitioners were lead members of a police detachment executing
+a search warrant of these premises for, inter alia,
+deadly weapons and evidence of gang membership. Mena sued the
+officers under 42
+U.S.C. § 1983 and the District Court found in her
+favor. The Ninth Circuit affirmed, holding that the use of
+handcuffs to detain Mena during the search violated the Fourth Amendment
+and that the officers’ questioning of Mena about her
+immigration status during the detention constituted an
+independent Fourth
+Amendment violation.
+
+Held: 
+
+ 1. Mena’s
+detention in handcuffs for the length of the search did not
+violate the Fourth
+Amendment. That detention is consistent with
+Michigan v. Summers, 452 U.S. 692, 705, in
+which the Court held that officers executing a search warrant
+for contraband have the authority “to detain the occupants
+of the premises while a proper search is conducted.” The
+Court there noted that minimizing the risk of harm to officers
+is a substantial justification for detaining an occupant during
+a search, id., at 702—703, and ruled that an
+officer’s authority to detain incident to a search is
+categorical and does not depend on the “quantum of proof
+justifying detention or the extent of the intrusion to be
+imposed by the seizure,” id., at 705, n. 19. 
+Because a warrant existed to search the premises and Mena was
+an occupant of the premises at the time of the search, her
+detention for the duration of the search was reasonable under
+Summers. Inherent in Summers’ authorization
+to detain is the authority to use reasonable force to
+effectuate the detention. See Graham v. Connor,
+490 U.S. 386, 396.
+ The use of force in the form of handcuffs to detain Mena was
+reasonable because the governmental interest in minimizing the
+risk of harm to both officers and occupants, at its maximum
+when a warrant authorizes a search for weapons and a wanted
+gang member resides on the premises, outweighs the marginal
+intrusion. See id., at 396—397. Moreover, the
+need to detain multiple occupants made the use of handcuffs all
+the more reasonable. Cf. Maryland v. Wilson, 519 U.S. 408, 414. 
+Although the duration of a detention can affect the balance of
+interests, the 2- to 3-hour detention in handcuffs in this case
+does not outweigh the government’s continuing safety
+interests. Pp. 4—7.
+
+ 2. The
+officers’ questioning of Mena about her immigration status
+during her detention did not violate her Fourth Amendment
+rights. The Ninth Circuit’s holding to the contrary
+appears premised on the assumption that the officers were
+required to have independent reasonable suspicion in order to
+so question Mena. However, this Court has “held
+repeatedly that mere police questioning does not constitute a
+seizure.” Florida v. Bostick, 501 U.S. 429, 434. 
+Because Mena’s initial detention was lawful and the Ninth
+Circuit did not hold that the detention was prolonged by the
+questioning, there was no additional seizure within the meaning
+of the Fourth
+Amendment, and, therefore, no additional Fourth Amendment
+justification for inquiring about Mena’s immigration
+status was required. Cf. Illinois v. Caballes,
+543 U.S. ___ , ___ (slip op., at 2—4). Pp. 7—8.
+
+ 3. Because
+the Ninth Circuit did not address Mena’s alternative
+argument that her detention extended beyond the time the police
+completed the tasks incident to the search, this Court declines
+to address it. See, e.g., Pierce County v.
+Guillen, 537
+U.S. 129, 148, n. 10. Pp. 8—9.
+
+332 F.3d 1255, vacated and remanded.
+
+ Rehnquist,
+C. J., delivered the opinion of the Court, in which
+O’Connor, Scalia, Kennedy, and Thomas, JJ., joined. 
+Kennedy, J., filed a concurring opinion. Stevens, J., filed an
+opinion concurring in the judgment, in which Souter, Ginsburg,
+and Breyer, JJ., joined.

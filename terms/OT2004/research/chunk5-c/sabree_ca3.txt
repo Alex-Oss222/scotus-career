@@ -1,0 +1,1485 @@
+1
+PRECEDENTIAL
+UNITED STATES COURT OF
+APPEALS
+FOR THE THIRD CIRCUIT
+                    
+No. 03-1226
+                    
+HASSAN SABREE, By his Mother and
+Next-Friend, Hana Sabree;
+CATHERINE MEADE, By her Father
+and Next-Friend, Robert A.
+Meade; JOSEPH FRAZIER, By his
+Mother and Next-Friend,
+Patricia Frazier, for Themsleves and All
+Others Similarly
+Situated
+v.
+* ESTELLE B. RICHMAN, In Her
+Official Capacity as Secretary of
+the Department of Public Welfare of the
+Commonwealth of
+Pennsylvania
+               Hassan Sabree, Catherine
+Meade, and Joseph Frazier,
+                                        Appellants
+       *{Substitution Pursuant to Clerk's
+Order dated 3/28/03
+          and F.R.A.P. Rule 43(c)}
+                     
+APPEAL FROM THE UNITED
+STATES DISTRICT COURT
+FOR THE EASTERN DISTRICT OF
+PENNSYLVANIA
+D.C. Civil No. 02-cv-03426
+District Judge:  The Honorable Herbert J.
+Hutton
+                     
+Argued:  September 11, 2003
+                      
+Before: ALITO, BARRY, and AMBRO,
+Circuit Judges
+(Opinion Filed: May 11, 2004)
+                         
+Stephen F. Gold, Esq. (Argued) 
+125 South 9th Street
+Suite 700 
+Philadelphia, PA  19107
+-AND-
+Ilene W. Shane, Esq.
+Disabilities Law Project
+1315 Walnut Street
+Suite 400
+Philadelphia, PA  19107
+Attorneys for Appellants
+Doris M. Leisch, Esq. (Argued)
+Commonwealth of Pennsylvania
+Department of Public Welfare
+1400 Spring Garden Street
+State Office Building
+Philadelphia, PA  19130
+-AND-
+John A. Kane, Esq.
+Commonwealth of Pennsylvania
+Office of Legal Counsel
+
+2
+Department of Public Welfare
+P.O. Box 2675
+Health & Welfare Building
+Seventh & Forster Streets
+Harrisburg, PA   17120
+Attorneys for Appellees
+Sarah Somers, Esq.
+National Health Law Program
+211 North Columbia Street
+Chapel Hill, NC  27514
+Attorney for Amicus-Appellants
+                   
+OPINION OF THE COURT
+                     
+BARRY, Circuit Judge
+I.  INTRODUCTION
+When Congress offers money to
+the states, it often imposes conditions on
+acceptance.  States welcome federal
+funding to help underwrite many of the
+core services they provide to their
+citizens.  Education, healthcare, and
+public safety, to name a few, while
+typically state concerns, are usually
+funded in part by federal dollars that
+come with strings attached.  This case
+raises the question–not new, but of first
+impression in this Court following
+Gonzaga University v. Doe, 536 U.S. 273
+(2002)–of what happens when a state
+allegedly fails to live up to the conditions
+imposed on it by Congress.
+Plaintiffs are a class of mentally
+retarded adults in need of medical
+services from an intermediate care
+facility for persons with mental
+retardation (“ICF/MR services”). 
+Although they qualify for state assistance
+to obtain these services under the
+Medicaid Act, that assistance has not
+been forthcoming.  In an effort to force
+Pennsylvania to provide the needed
+services, plaintiffs, pursuant to 42 U.S.C.
+§ 1983, sued the Secretary of the
+Pennsylvania Department of Public
+Welfare.  Pennsylvania argues that it
+would provide assistance if it could but
+that it cannot, and that, in any event, the
+sole remedy for its non-compliance with
+the Medicaid Act is the suspension or
+revocation of funding from Congress. 
+We disagree.1
+    1There appears to be a disagreement
+among our sister courts of appeals as to
+whether, pursuant to Medicaid, a state
+must merely provide financial assistance
+to obtain covered services, or provide the
+services themselves.  See Bruggeman v.
+Blagojevich, 324 F.3d 906, 910 (7th Cir.
+2003) (“[T]he statutory reference to
+‘assistance’ appears to have reference to
+financial assistance rather than to actual
+medical services, though the distinction
+was missed in Bryson v. Shumway, 308
+F.3d 79, 81, 88-89 (1st Cir. 2002) and
+Doe v. Chiles, 136 F.3d 709, 714, 717
+(11th Cir. 1998).”).  The only issue
+before us, however, is whether plaintiffs
+may sue Pennsylvania under 42 U.S.C. §
+1983 to obtain the “assistance” for which
+
+3
+The District Court, relying heavily
+on Gonzaga University, concluded that
+Congress had not unambiguously
+conferred the rights that plaintiffs sought
+to vindicate under § 1983, and dismissed
+the suit.2  Sabree v. Houston, 245 F.
+Supp. 2d 653, 659 (E.D. Pa. 2003).  At
+first blush, language in Gonzaga
+University would appear to support that
+conclusion.  In Gonzaga University, the
+Court foreclosed the ability of a student
+to enforce, by means of § 1983,
+provisions of the Family Educational
+Rights and Privacy Act of 1974
+(“FERPA”).3  Gonzaga Univ., 536 U.S.
+at 283.  The Chief Justice, writing for the
+Court, stated emphatically: “We now
+reject the notion that our cases permit
+anything short of an unambiguously
+conferred right to support a cause of
+action brought under § 1983.”  Id.
+(emphasis added). 
+The Court, no doubt, has set a
+high bar for plaintiffs.  Nonetheless, after
+having considered the relevant provisions
+of the Medicaid Act against the backdrop
+of Gonzaga University, we are convinced
+that Congress unambiguously conferred
+the rights which plaintiffs here seek to
+enforce.  Accordingly, we will reverse
+the order of the District Court. 
+II.  DISCUSSION
+Title XIX of the Social Security
+Act, codified at 42 U.S.C. §§ 1396-
+1396v and popularly known as the
+“Medicaid Act,” established a
+“cooperative federal-state program under
+which the federal government furnishes
+funding to states for the purpose of
+providing medical assistance to eligible
+low-income persons.”  Pa. Pharm. Ass’n
+v. Houstoun, 283 F.3d 531, 533 (3d Cir.
+they qualify.  To resolve this issue we
+need not, and do not, address the remedy
+that might be available to plaintiffs, but
+leave that to the District Court in the first
+instance.
+    2Section 1983 imposes liability on
+anyone who, under color of state law,
+deprives a person “of any rights,
+privileges, or immunities secured by the
+Constitution and laws.”  42 U.S.C. §
+1983.  Rights conferred by federal statute
+are enforceable under § 1983.  Maine v.
+Thiboutot, 448 U.S. 1, 4-8 (1980).  
+    3The relevant FERPA language
+mandated:
+No funds shall be made
+available under any
+applicable program to any
+educational agency or
+institution which has a
+policy or practice of
+permitting the release of
+education records (or
+personally identifiable
+information contained
+therein . . . ) of students
+without the written consent
+of their parents to any
+individual, agency, or
+organization.
+20 U.S.C. § 1232g(b)(1).  
+
+4
+2002).  States are not required to
+participate in the program, but states that
+do accept federal funding must comply
+with the Medicaid Act and with
+regulations promulgated by the Secretary
+of Health and Human Services (“HHS”). 
+Participating states must devise and
+implement a state medical assistance plan
+that is approved by the Secretary of
+HHS.  42 U.S.C. § 1396; 42 C.F.R. §
+430.10.  A state that fails to comply with
+its medical assistance plan runs the risk
+of having its funding revoked by the
+Secretary.  42 U.S.C. § 1396c.  
+There is no dispute that plaintiffs
+qualify for ICF/MR services under
+Pennsylvania’s medical assistance plan. 
+Nor is it disputed that plaintiffs have
+languished on waiting lists for years,
+unable to obtain these services.  The only
+dispute, and the one now before us, is
+whether plaintiffs may sue Pennsylvania
+under § 1983 to enforce the provisions of
+Title XIX that require (1) a state to
+provide medical assistance covering
+ICF/MR services, and (2) to do so with
+“reasonable promptness.”  42 U.S.C. §§
+1396a(a)(8),4  1396a(a)(10),5 and
+1396d(a)(15).6
+That plaintiffs merit sympathy
+does not escape our notice, but neither
+does it govern our reasoning.  Rather,
+Gonzaga University provides the
+    4Section 1396a(a)(8) provides in
+relevant part:
+A State plan for medical
+assistance must . . . 
+provide that all individuals
+wishing to make
+application for medical
+assistance under the plan
+shall have opportunity to
+do so, and that such
+assistance shall be
+furnished with reasonable
+promptness to all eligible
+individuals . . . .
+42 U.S.C. § 1396a(a)(8) (emphasis
+added).
+    5Section 1396a(a)(10) provides in
+relevant part:  “A State plan for medical
+assistance must . . . provide . . .for
+making medical assistance available, . . .
+to . . . all [eligible] individuals . . . .”  42
+U.S.C. § 1396a(a)(10) (emphasis added).
+    6Section 1396d(a)(15) provides in
+relevant part:
+For purposes of this title
+[42 U.S.C. §§ 1396 et seq.]
+. . . [t]he term “medical
+assistance” means payment
+of part or all of the cost of
+the following care and
+services . . . for individuals
+. . . who are [eligible:] . . .
+services in an intermediate
+care facility for the
+mentally retarded . . . .
+42 U.S.C. § 1396d(a)(15).
+
+5
+dispassionate lens through which this
+matter must be viewed.  A three-step
+analysis is required.  First, we must
+examine Gonzaga University to
+determine the essential characteristics of
+an “unambiguously conferred right.” 
+Second, we must assess whether the
+statutory language of Title XIX imparts
+an “unambiguously conferred right.” 
+Third, we must determine–if an
+individual right has been unambiguously
+conferred–whether Congress has
+precluded individual enforcement of that
+right.  This analysis, which, as will
+become clear, is assuredly not for the
+timid, compels the conclusion that the
+provisions invoked by plaintiffs–42
+U.S.C. §§ 1396a(a)(8),  1396a(a)(10),
+and 1396d(a)(15)–unambiguously confer
+rights vindicable under § 1983.
+A.
+Gonzaga University v. Doe and
+Unambiguously Conferred
+Rights – Step One
+As the Court explained more than
+twenty years ago, “[i]n legislation
+enacted pursuant to the spending power,
+the typical remedy for state
+noncompliance with federally imposed
+conditions is not a private cause of action
+for noncompliance but rather action by
+the Federal Government to terminate
+funds to the State.”  Pennhurst State Sch.
+& Hosp. v. Halderman, 451 U.S. 1, 28
+(1981).  Nonetheless, as the Court
+observed in Gonzaga University, in some
+instances Congress has unambiguously
+conferred rights that may be vindicated
+by individual suits brought under §
+1983.7
+In Gonzaga University, the
+plaintiff sought to enforce conditions
+imposed on the State of Washington by
+    7We take as a given that when seeking
+redress under § 1983 for violation of a
+statutory right, a plaintiff need not
+establish that Congress intended to
+confer a remedy in addition to that right. 
+See, e.g., Gonzaga Univ., 536 U.S. at 284
+(“Plaintiffs suing under § 1983 do not
+have the burden of showing an intent to
+create a private remedy because § 1983
+generally supplies a remedy for the
+vindication of rights secured by federal
+statutes.  Once a plaintiff demonstrates
+that a statute confers an individual right,
+the right is presumptively enforceable by
+§ 1983.”).  
+That § 1983 provides a remedy for
+statutorily conferred rights “makes
+obvious sense.”  Id. at 285.  While the
+creation of statutorily specific remedies
+would make our task easier, Congress
+has chosen to provide § 1983 as an all
+purpose remedy.  Obviously, we cannot
+require a clear statement rule mandating
+the specification of a right to sue within
+the statutory text; to do so would
+effectively repeal § 1983.  Instead, we
+must, as the Court demonstrates in
+Gonzaga University, examine the
+statutory text to determine whether
+Congress has unambiguously conferred
+an individual right.
+
+6
+FERPA.8  “Congress enacted FERPA
+under its spending power to condition the
+receipt of federal funds on certain
+requirements relating to the access and
+disclosure of student educational
+records.”  Gonzaga Univ., 536 U.S. at
+278.  Ultimately, the Court rejected the
+viability of plaintiff’s claim because it
+concluded that in FERPA Congress had
+not “intended to create a federal right.” 
+Id. at 283 (emphasis in original); see also
+id. at 291 (Breyer, J., concurring) (“The
+ultimate question, in respect to whether
+private individuals may bring a lawsuit to
+enforce a federal statute, through 42
+U.S.C. §  1983 or otherwise, is a
+question of congressional intent.”)
+(emphasis added).
+Accordingly, we must determine
+whether Congress intended to confer the
+rights claimed by plaintiffs.  Gonzaga
+University instructs that congressional
+intent is manifest only when statutory
+language unambiguously confers such
+rights.  Id. at 283.  To determine what
+statutory language is necessary to confer
+rights unambiguously, we turn first to the
+cases in which the Court addressed
+statutory actions brought under § 1983. 
+We then consider what the Court means
+in Gonzaga University when it requires
+“rights-creating language.”  Id. at 287.
+1.
+Statutory Rights and 42
+U.S.C. § 1983
+Since Pennhurst, only twice has
+the Court recognized a congressional
+intent to confer statutory rights
+vindicable via § 1983: Wright v. Roanoke
+Redevelopment & Housing Authority,
+479 U.S. 418 (1987), addressing the
+Public Housing Act; and Wilder v.
+Virginia Hospital Ass’n, 496 U.S. 498
+(1990), addressing Title XIX of the
+Social Security Act.  The Court has
+foreclosed § 1983 suits in two equally
+significant cases (in addition to Gonzaga
+University): Suter v. Artist M., 503 U.S.
+347 (1992), addressing the Adoption
+Assistance and Child Welfare Act of
+1980; and Blessing v. Freestone, 520
+U.S. 329 (1997), addressing Title IV-D
+of the Social Security Act.  
+While in Gonzaga University the
+Court “reject[ed] the notion that [its] . . .
+cases permit anything short of an
+unambiguously conferred right to support
+a cause of action brought under § 1983,”
+it carefully avoided disturbing, much less
+overruling, Wright and Wilder.  Gonzaga
+Univ., 536 U.S. at 283.  Indeed, as the
+ensuing analysis will demonstrate, the
+Court relied on those cases in crafting
+Gonzaga University.  Accordingly, we
+will assess the rights claimed by
+plaintiffs in light of Wright, Wilder,
+Suter, and Blessing, as construed by
+Gonzaga University.
+(a) Wright v. Roanoke
+Redevelopment & Housing Authority
+In Wright, the Court permitted a §
+1983 suit by tenants to recover past
+    8For the relevant FERPA language, see
+note 3, supra.
+
+7
+overcharges under a rent-ceiling
+provision of the Public Housing Act.9  As
+explained in Gonzaga University, three
+factors motivated the Wright Court to
+conclude “that the provision
+unambiguously conferred ‘a mandatory
+[benefit] focusing on the individual
+family and its income.’” Gonzaga Univ.,
+536 U.S. at 280 (quoting Wright, 479
+U.S. at 430).  First, “[t]he key to [the
+Court’s] inquiry was that Congress spoke
+in terms that ‘could not be clearer.’”  Id. 
+Second, Congress “conferred
+entitlements ‘sufficiently specific and
+definite to qualify as enforceable rights
+under Pennhurst.’”  Id. (quoting Wright,
+479 U.S. at 432).  Third, “the federal
+agency charged with administering the
+Public Housing Act ‘had never provided
+a procedure by which tenants could
+complain to it about the alleged failures
+[of state welfare agencies] to abide by
+[the Act’s rent-ceiling provision].’” Id.
+(quoting Wright, 479 U.S. at 426). 
+(b)  Wilder v. Virginia Hospital
+Ass’n
+In Wilder, the Court permitted a §
+1983 action brought by health care
+providers to enforce a reimbursement
+provision of Title XIX of the Social
+Security Act, the same Title at issue
+    9The Public Housing Act provided in
+relevant part:
+Dwelling units assisted
+under this chapter shall be
+rented only to families who
+are lower income families
+at the time of their initial
+occupancy of such units. 
+Reviews of family income
+shall be made at least
+annually.  A family shall
+pay as rent for a dwelling
+unit assisted under this
+chapter (other than a family
+assisted under section
+1437f(o) of this title) the
+highest of the following
+amounts, rounded to the
+nearest dollar:
+(1) 30 per centum of the
+family’s monthly adjusted
+income;
+(2) 10 per centum of the
+family’s monthly income;
+or
+(3) if the family is
+receiving payments for
+welfare assistance from a
+public agency and a part of
+such payments, adjusted in
+accordance with the
+family’s actual housing
+costs, is specifically
+designated by such agency
+to meet the family's
+housing costs, the portion
+of such payments which is
+so designated. 
+42 U. S. C. §  1437a (1982 ed. and Supp.
+III) (emphasis added).
+
+8
+here.10  According to Gonzaga
+University, the Wilder Court was
+persuaded because the relevant Medicaid
+provisions: (1) “explicitly conferred
+specific monetary entitlements upon the
+plaintiffs”; (2) “required States to pay an
+‘objective’ monetary entitlement to
+individual health care providers, with no
+sufficient administrative means of
+enforcing the requirement against States
+that failed to comply”; and (3) because
+“Congress left no doubt of its intent for
+private enforcement.”  Gonzaga Univ.,
+536 U.S. at 280-81 (quoting Wilder, 496
+U.S. at 522-23).
+(c)  Suter v. Artist M.
+In Suter, the Court foreclosed an
+action under § 1983 brought by a class of
+parents and children who sought to
+enforce provisions of the Adoption
+Assistance and Child Welfare Act, which
+required that states have a “plan” to
+make “reasonable efforts” to keep
+children out of foster homes.11 
+    10Title XIX of the Social Security Act
+provided in relevant part:
+A State plan for medical
+assistance must . . . provide
+. . . for payment . . . of
+hospital services, nursing
+facility services,  and
+services in an intermediate
+care facility for the
+mentally retarded provided
+under the plan through the
+use of rates (determined in
+accordance with methods
+and standards developed by
+the State . . .) which the
+State funds, and makes
+assurances satisfactory to
+the Secretary, are
+reasonable and adequate to
+meet the costs which must
+be incurred by efficiently
+and economically operated
+facilities in order to
+provide care and services
+in conformity with
+applicable State and
+Federal laws, regulations,
+and quality and safety
+standards and to assure that
+individuals eligible for
+medical assistance have
+reasonable access . . . to
+inpatient hospital services
+of adequate quality.
+42 U.S.C. §  1396a(a)(13)(A) (1982 ed.,
+Supp. V) (emphasis added).
+    11In Suter, the Court considered
+provisions of the Adoption Assistance
+and Child Welfare Act, which provided
+in relevant part:
+ 
+In order for a State to be
+eligible for payments under
+this part, it shall have a
+plan approved by the
+Secretary which . . .
+provides that the plan shall
+
+9
+According to Gonzaga University, the
+Suter Court recognized that because the
+Adoption Act “conferred no specific,
+individually enforceable rights, there was
+no basis for private enforcement, even by
+a class of the statute’s principal
+beneficiaries.”  Gonzaga Univ., 536 U.S.
+at 281 (citing Suter, 503 U.S. at 357). 
+Writing for the Court in Suter, the Chief
+Justice explained: 
+Careful examination of the
+language . . . does not
+unambiguously confer an
+enforceable right upon the
+Act’s beneficiaries. The
+term “reasonable efforts”
+in this context is at least as
+plausibly read to impose
+only a rather generalized
+duty on the State, to be
+enforced not by private
+individuals, but by the
+Secretary in the manner [of
+reducing or eliminating
+payments].
+Suter, 503 U.S. 363 (quoted approvingly
+by Gonzaga Univ., 536 U.S. at 281).
+(d) Blessing v. Freestone
+In Blessing, the Court rejected the
+claim under § 1983 of five mothers
+whose children were eligible to receive
+child support services from the State of
+Arizona pursuant to Title IV-D of the
+Social Security Act.12  Title IV-D of the
+Social Security Act enumerated various
+entitlements.13  Without claiming any
+be in effect in all political
+subdivisions of the State,
+and, if administered by
+them, be mandatory upon
+them; . . .[and] provides
+that, in each case,
+reasonable efforts will be
+made (A) prior to the
+placement of a child in
+foster care, to prevent or
+eliminate the need for
+removal of the child from
+his home, and (B) to make
+it possible for the child to
+return to his home . . . .
+42 U. S. C. §  671(a)(3), (15) (1988 ed.
+and Supp. I) (emphasis added).
+    1242 U.S.C. §§ 651-69 (1996) (as
+amended by the Personal Responsibility
+and Work Opportunity Reconciliation
+Act of 1996, Pub. L. 104-193, 110 Stat.
+2105 (“PRWOR Act”)).
+    13See, for example, the following
+provision:
+A State plan for child and
+spousal support must . . .
+provide that the State will .
+. . provide services relating
+to the establishment of
+paternity . . . with respect
+to . . . each child [who is
+eligible] . . . and . . .
+enforce any support
+
+10
+10
+specific rights under Title IV-D, the
+plaintiffs asserted that “they had an
+enforceable individual right to have the
+State’s program achieve ‘substantial
+compliance’ with the requirements of
+Title IV-D,” as required of the State in
+Title IV-A.14  Blessing, 520 U.S. at 333.
+In Gonzaga University, the Court
+explained the logic of the unanimous
+Blessing holding: 
+Because the provision
+focused on “the aggregate
+services provided by the
+State,” rather than “the
+needs of any particular
+person,” it conferred no
+individual rights and thus
+could not be enforced by §
+1983. We emphasized: “To
+seek redress through §
+1983, . . . a plaintiff must
+assert the violation of a
+federal right, not merely a
+violation of federal law.”
+Gonzaga Univ., 536 U.S. at 281 (quoting
+Blessing, 520 U.S. at 340 (emphasis in
+original)).  That Blessing garnered
+unanimous support is not surprising: it is
+an easy case.  The plaintiffs never
+asserted any individual rights but,
+instead, attempted to enforce Congress’s
+right to demand “substantial compliance”
+with the terms of a conditional grant of
+money.  To have allowed the action to
+proceed would have transformed § 1983
+from a vehicle to vindicate personal
+rights into a qui tam mechanism.
+To evaluate whether Congress had
+conferred enforceable individual rights in
+a statute, the Blessing Court drew on
+Wright, Wilder, and Suter, and
+formulated a three-prong test: a statute
+must (1) be intended by Congress to
+benefit the plaintiff, (2) not be “vague
+and amorphous,” and (3) impose an
+unambiguous “binding obligation on the
+States.”  Blessing, 520 U.S. at 340-41. 
+While in Gonzaga University the Court
+obligation established with
+respect to [eligible
+children] . . . . 
+42 U.S.C. § 654(4)(A)-(B) (1996) (as
+amended by the PRWOR Act) (emphasis
+added).
+    14Title IV-A of the Social Security Act
+provided in relevant part:
+ 
+If a State program . . . is
+found . . . not to have
+complied substantially with
+the requirements of [the
+program], and the Secretary
+determines that the program
+is not complying substantially
+with such requirements at the
+time the finding is made, the
+Secretary shall reduce the
+grant payable to the State . . .
+. 
+42 U.S.C. § 609(a)(8) (1996) (as
+amended by the PRWOR Act)
+(emphasis added). 
+
+11
+11
+did not abandon this test, it did dispel
+[the] confusion [that] has
+led some courts to interpret
+Blessing as allowing
+plaintiffs to enforce a
+statute under § 1983 so
+long as the plaintiff falls
+within the general zone of
+interest that the statute is
+intended to protect;
+something less than what is
+required for a statute to
+create rights enforceable
+directly from the statute
+itself under an implied
+private right of action.
+Gonzaga Univ., 536 U.S. at 283.  The
+Court clarified and “emphasize[d] that it
+is only violations of rights, not laws,
+which give rise to § 1983 actions.”  Id. at
+283 (citing Blessing, 520 U.S. at 340
+(emphasis in original)).  
+Significantly, in Blessing the
+Court did not decide that Title IV-D does
+not, in fact, confer individual rights. 
+Rather, the Court concluded that
+plaintiffs had failed to assert any specific
+rights, instead relying on the general
+requirement that Arizona “substantially
+comply” with its Child Welfare Plan. 
+Blessing, 520 U.S. at 345-46 (“We do not
+foreclose the possibility that some
+provisions of Title IV-D give rise to
+individual rights. . . . [But,] it is not at all
+apparent that respondents sought any
+relief more specific than a declaration
+that their ‘rights’ were being violated and
+an injunction forcing Arizona’s child
+support agency to ‘substantially comply’
+with all of the provisions of Title IV-
+D.”).  Consequently, the Court remanded
+the case for a determination of whether
+specific provisions of Title IV-D gave
+rise to individual rights.  Id. at 346. 
+2.
+Rights-Creating
+Language
+To confer rights, Congress must
+use “rights-creating language.”  Gonzaga
+Univ., 536 U.S. at 287.  Such language
+must clearly impart an “individual
+entitlement,” and have an “unmistakable
+focus on the benefitted class.”  Id.
+(quoting Blessing, 520 U.S. at 343, and
+Cannon v. University of Chicago, 441
+U.S. 677, 690-93 (1979)).  Cf. Alexander
+v. Sandoval, 532 U.S. 275, 289 (2001)
+(“Statutes that focus on the person
+regulated rather than the individuals
+protected create ‘no implication of an
+intent to confer rights on a particular
+class of persons’”) (quoting California v.
+Sierra Club, 451 U.S. 287, 294 (1981)).
+The Chief Justice invoked the
+implied private right of action cases to
+demonstrate the type of “rights-creating
+terms” that unambiguously confer rights.
+“[T]he question whether
+Congress . . . intended to
+create a private right of
+action [is] definitively
+answered in the negative”
+where “a statute by its
+
+12
+12
+terms grants no private
+rights to any identifiable
+class.” Touche Ross & Co.
+v. Redington, 442 U.S. 560,
+576 (1979)).  For a statute
+to create such private
+rights, its text must be
+“phrased in terms of the
+persons benefitted.” 
+Cannon v. University of
+Chicago, 441 U.S. 677,
+692, n.13 (1979).  We have
+recognized, for example,
+that Title VI of the Civil
+Rights Act of 1964[15] and
+Title IX of the Education
+Amendments of 1972[16]
+create individual rights
+because those statutes are
+phrased “with an
+unmistakable focus on the
+benefitted class.” Id., at
+691 (emphasis added). 
+Gonzaga Univ., 536 U.S. at 283-84.  
+As with implied private rights of
+action, statutory claims under § 1983
+must be premised on an unambiguous
+articulation and conferral of rights by
+Congress.17  “[W]here the text and
+structure of a statute provide no
+indication that Congress intends to create
+new individual rights, there is no basis
+for a private suit, whether under §  1983
+or under an implied right of action.”  Id.
+at 286.  With this in mind, the Court
+evaluated FERPA.  First, and most
+importantly, the Court contrasted the
+“individually focused” “rights-creating”
+language of Title VI and IX (“no person
+shall be subjected to discrimination”)18
+with FERPA’s general provisions
+addressing the Secretary of Education
+(“no funds shall be made available” to
+    15Title VI provides: “No person in the
+United States shall . . . be subjected to
+discrimination under any program or
+activity receiving Federal financial
+assistance” on the basis of race, color, or
+national origin.  42 U.S.C. §  2000d
+(emphasis added). 
+    16Title IX provides: “No person in the
+United States shall, on the basis of sex . .
+. be subjected to discrimination under
+any education program or activity
+receiving Federal financial assistance.” 
+20 U.S.C. §  1681(a) (emphasis added).
+    17The distinction between implied
+private rights of action and § 1983
+private rights of action rests not in the
+articulation of rights, but in the
+availability of a remedy.  Gonzaga Univ.,
+536 U.S. at 285 (“[T]he initial inquiry [in
+a private right of action under  §
+1983]–determining whether a statute
+confers any right at all–is no different
+from the initial inquiry in an implied
+right of action case, the express purpose
+of which is to determine whether or not a
+statute ‘confers rights on a particular
+class of persons.’”) (quoting California
+v. Sierra Club, 451 U.S. at 294).
+    18See n.15 & n.16, supra.
+
+13
+13
+any “educational agency or institution”
+which has a prohibited “policy or
+practice.”).19  Gonzaga Univ., 536 U.S. at
+287.  The Court noted that “FERPA’s
+nondisclosure provisions . . . speak only
+in terms of institutional policy and
+practice, not individual instances of
+disclosure.”  Id. at 288.  The contrast
+between the language of Titles VI and IX
+and that of FERPA is stark.  The
+specific, mandatory, individually focused
+language of Titles VI and IX confers
+individual rights, while the aggregate,
+programmatic focus of FERPA’s
+language merely creates law applicable
+to the states.  The distinction is
+dispositive: rights are enforceable under
+§ 1983; laws are not.  Gonzaga Univ.,
+536 U.S. at 283 (citing Blessing, 520
+U.S. at 340).
+Despite the clarity of the statutory
+language, the Court went on to bolster its
+analysis by considering the structural
+elements of FERPA, which emphasize
+the programmatic and aggregate focus of
+the statute.  Although references to the
+individual appear throughout the text of
+FERPA, “[i]n each provision the
+reference . . . is in the context of
+describing the type of ‘policy or practice’
+that triggers a funding prohibition.”  Id. 
+Indeed, the fact that Congress “expressly
+authorized the Secretary of Education to
+‘deal with violations’ . . . and to
+‘establish or designate [a] review board’”
+buttressed the Court’s assessment that
+FERPA did not confer enforceable
+rights.  Id. at 289 (citing 20 U.S.C. §§
+1232g(f)-(g)).20  Finally, the Court
+highlighted statutory language
+reminiscent of that in Blessing that
+counseled against a finding of individual
+rights.  See id. (“Recipient institutions
+can further avoid termination of funding
+so long as they ‘comply substantially’ . . .
+.  This, too, is not unlike Blessing, which
+found that Title IV-D failed to support a
+§ 1983 suit in part because it only
+required ‘substantial compliance’ with
+federal regulations.”) (citing Blessing,
+520 U.S. 329 at 335, 343).
+B.
+Title XIX – Step Two
+Having traced the Court’s
+treatment of statutory rights under §
+1983, we now turn to the “text and
+structure” of Title XIX.  Gonzaga Univ.,
+536 U.S. at 286.
+1.
+Statutory Text
+“We begin with the familiar canon
+    1920 U.S.C. § 1232g(b)(1). 
+    20Understandably, the Court did not
+reach the issue of whether the remedial
+scheme in FERPA was sufficient to
+preclude a § 1983 suit.  Gonzaga Univ.,
+536 U.S. at 590 n.8 (“We need not
+determine whether FERPA’s procedures
+are ‘sufficiently comprehensive’ to offer
+an independent basis for precluding
+private enforcement due to our finding
+that FERPA creates no private right to
+enforce.”) (citation omitted).
+
+14
+14
+of statutory construction that the starting
+point for interpreting a statute is the
+language of the statute itself.”  Consumer
+Product Safety Comm’n v. GTE Sylvania,
+Inc., 447 U.S. 102, 108 (1980). 
+Plaintiffs seek to enforce the right
+to acquire ICF/MR services, by virtue of
+42 U.S.C. §§ 1396a(a)(10)21 and
+1396d(a)(15).22  The language of the
+statute requires that a state “must provide
+. . . medical assistance . . . to . . . all
+[eligible] individuals,” and includes
+intermediate care facilities in the
+definition of “medical assistance.”  42
+U.S.C. §§ 1396a(a)(10) & 1396d(a)(15). 
+Plaintiffs also seek to enforce the right to
+acquire ICF/MR services with
+“reasonable promptness,” as required by
+42 U.S.C. § 1396a(a)(8).23  The language
+of the statute declares that a state “must
+provide . . . assistance . . . with
+reasonable promptness to all eligible
+individuals.”  42 U.S.C. § 1396a(a)(8).  
+In each of these provisions, the
+statutory language is clear and
+unambiguous.  Indeed, we can hardly
+imagine anyone disputing that a state
+must provide the assistance necessary to
+obtain ICF/MR services, and that it must
+do so with “reasonable promptness,” and
+the government does not do so.  Our
+inquiry, however, does not end there. 
+Indisputably, these provisions create law,
+binding on those states choosing to
+accept Medicaid funding.  Whether the
+same provisions confer rights,
+enforceable by individuals, is another
+question, and is the question we are
+called upon to answer.  
+To determine whether these
+provisions provide plaintiffs with
+unambiguously conferred rights, we
+begin with what has come to be called
+the “Blessing Test.”  Blessing, 520 U.S.
+at 340-41.  As discussed above, the plain
+language of the statute clearly conveys
+that a state “must provide” plaintiffs with
+“medical assistance,” including ICF/MR
+services, with “reasonable promptness.”   
+42 U.S.C. §§ 1396a(a)(10),
+1396d(a)(15), 1396a(a)(8).  Without
+difficulty, we conclude that these
+provisions satisfy the Blessing Test
+because: (1) plaintiffs were the intended
+beneficiaries of §§ 1396a(a)(10),
+1396d(a)(15), and 1396a(a)(8); (2) the
+rights sought to be enforced by them are
+specific and enumerated, not “vague and
+amorphous”; and (3) the obligation
+imposed on the states is unambiguous
+and binding.  Id.  
+But, again, our inquiry does not
+end there because, as is explained in
+Gonzaga University, the Blessing Test
+may only indicate that plaintiffs “fall[]
+within the general zone of interest that
+the statute is intended to protect;
+    21For the relevant text of Section
+1396a(a)(10), see note 5, supra.
+    22For the relevant text of Section
+1396d(a)(15), see note 6, supra.
+    23For the relevant text of Section
+1396a(a)(8), see note 4, supra.  
+
+15
+15
+something less than what is required for
+a statute to create rights enforceable
+directly from the statute itself . . . .” 
+Gonzaga Univ., 536 U.S. at 283.  To
+ensure that Congress unambiguously
+conferred the rights asserted, we must
+determine whether Congress used
+“rights-creating terms.”  Id. at 284.
+The Court identified the text of
+Titles VI24 and IX25 as exemplars of
+rights-creating language.  Gonzaga
+Univ., 536 U.S. at 287.  Viewing Titles
+VI and IX, we find it difficult, if not
+impossible, as a linguistic matter, to
+distinguish the import of the relevant
+Title XIX language–“A State plan must
+provide”–from the “No person shall”
+language of Titles VI and IX.  Just as in
+Titles VI and IX, the relevant terms used
+in Title XIX are “mandatory rather than
+precatory.”  Blessing, 520 U.S. at 341. 
+Further, the “individual focus” of
+Sections 1396a(a)(10), 1396d(a)(15), and
+1396a(a)(8) is unmistakable.  Gonzaga
+Univ., 536 U.S. at 287.   The relevant
+Title XIX provisions enumerate the
+entitlements available to “all eligible
+individuals.”  See, e.g., 42 U.S.C. §
+1396a(a)(8).  The provisions do not focus
+on “the [entity] . . . regulated rather than
+the individuals protected.”  Alexander v.
+Sandoval, 532 U.S. at 289.   Neither do
+the statutory references to the individual
+appear “in the context of describing the
+type of ‘policy or practice’ that triggers a
+funding prohibition.”  Gonzaga Univ.,
+536 U.S. at 288.  
+In requiring states which accept
+Medicaid funding to provide ICF/MR
+services with reasonable promptness,
+Congress conferred specific entitlements
+on individuals “in terms that ‘could not
+be clearer.’”  Gonzaga Univ., 536 U.S. at
+280 (quoting Wright, 479 U.S. at 430). 
+There is no ambiguity.  Where, as here,
+the plain meaning of the text is evident,
+we need not look further to determine
+congressional intent.  See, e.g., Darby v.
+Cisneros, 509 U.S. 137, 147 (1993)
+(“Recourse to the legislative history . . .
+is unnecessary in light of the plain
+meaning of the statutory text.”).26 
+    24For the relevant text of Title VI, see
+note 15, supra.
+    25For the relevant text of Title IX, see
+note 16, supra.
+    26We note, however, that plaintiffs
+have cited legislative history that may be
+construed to support our reading of the
+statute.  See App. Br. at 20-21 (citing
+various congressional legislative
+materials for the proposition that Title
+XIX authorizes individual suits under §
+1983).  See, e.g., H.R. Rep. No. 104-651,
+at 213-14, 731-32, 2019-20 (1996); H.R.
+Rep. No. 104-350, at 211, 270, 288, 1069
+(1995); and H.R. Rep. No. 97-158, vol.
+II, at 301 (1981).  Because we find the
+statute unambiguous, however, we do not
+base our decision on legislative
+materials, or otherwise pass judgment on
+their relevance to our inquiry.
+
+16
+16
+2.
+Statutory Structure
+“As a general rule of statutory
+construction, where the terms of a statute
+are unambiguous, judicial inquiry is
+complete.” Adams Fruit Co. v. Barrett,
+494 U.S. 638, 642 (1990).  “General”
+rules, however, are susceptible to
+exceptions, and we have before us one of
+those instances in which our inquiry does
+not end with the plain language of the
+statute.  We recognize, of course, that
+“[s]tatutory construction ‘is a holistic
+endeavor,’ and, at a minimum, must
+account for a statute’s full text, language
+as well as punctuation, structure, and
+subject matter.”  United States Nat’l
+Bank v. Independent Ins. Agents of Am.,
+508 U.S. 439, 455 (1993) (quoting
+United Savings Ass’n of Texas v. Timbers
+of Inwood Forest Associates, Ltd., 484
+U.S. 365, 371 (1988)).  In Gonzaga
+University, the Court instructs that not
+only should the text of the statute be
+examined, but also its structure. 
+Gonzaga Univ., 536 U.S. at 286.  This
+instruction makes good sense: we cannot
+presume to confer individual rights–that
+is a task for Congress.  As the Court
+aptly put it, we “may play the sorcerer’s
+apprentice but not the sorcerer himself.” 
+Alexander v. Sandoval, 532 U.S. at 291. 
+Our judicial function is limited to
+recognizing those rights which Congress
+“unambiguously confers,” and in doing
+so we would be remiss if we did not
+consider the whole of Congress’s voice
+on the matter–the statute in its entirety.
+Turning our sights beyond the
+narrow provisions invoked by plaintiffs
+gives us some pause.  Indeed, the District
+Court, basing its decision largely on the
+structural elements of Title XIX, reached
+the opposite conclusion from that we
+reach.  The District Court in large part
+grounded its analysis on 42 U.S.C. §§
+1396 and 1396c, and concluded that
+those provisions do not contain the
+rights-creating language required by
+Gonzaga University.  Sabree, 245 F.
+Supp. 2d at 659.  Undoubtedly, the Court
+was correct in that regard.  
+The opening section of Title
+XIX–Section 1396–is the appropriations
+and general introductory statement of the
+Medicaid Act.27  As that Section
+    27Section 1396 provides:
+For the purpose of enabling
+each State, as far as
+practicable under the
+conditions in such State, to
+furnish (1) medical
+assistance on behalf of
+families with dependent
+children and of aged, blind,
+or disabled individuals,
+whose income and
+resources are insufficient to
+meet the costs of necessary
+medical services, and (2)
+rehabilitation and other
+services to help such
+families and individuals
+attain or retain capability
+(continued...)
+
+17
+17
+explains, Title XIX was enacted “[f]or
+the purpose of enabling each State . . . to
+furnish . . . medical assistance.”  42
+U.S.C. § 1396.  This language says
+nothing of individual entitlements or
+rights, but reminds us that we are dealing
+with an agreement between Congress and
+a particular state, and recalls the axiom
+of Pennhurst: “In legislation enacted
+pursuant to the spending power, the
+typical remedy for state noncompliance
+with federally imposed conditions is not
+a private cause of action for
+noncompliance but rather action by the
+Federal Government to terminate funds
+to the State.”  Pennhurst State Sch. &
+Hosp., 451 U.S. at 28.  
+Turning next, as did the District
+Court, to Section 1396(c) does not help
+in the search for rights-creating
+language.  Sabree, 245 F. Supp. 2d at
+660.  Section 1396c empowers the
+Secretary of HHS to suspend payments to
+a state if it fails to “comply substantially”
+with the requirements of Title XIX.28 
+    27(...continued)
+for independence or self-
+care, there is hereby
+authorized to be
+appropriated for each fiscal
+year a sum sufficient to
+carry out the purposes of
+this title. The sums made
+available under this section
+shall be used for making
+payments to States which
+have submitted, and had
+approved by the Secretary,
+State plans for medical
+assistance. 
+42 U.S.C. § 1396.
+    28Section 1396c provides:
+If the Secretary, after
+reasonable notice and
+opportunity for hearing to
+the State agency
+administering or
+supervising the
+administration of the State
+plan approved under this
+title, finds (1) that the plan
+has been so changed that it
+no longer complies with
+the provisions of section
+1902; or (2) that in the
+administration of the plan
+there is a failure to comply
+substantially with any such
+provision; the Secretary
+shall notify such State
+agency that further
+payments will not be made
+to the State (or, in his
+discretion, that payments
+will be limited to
+categories under or parts of
+the State plan not affected
+by such failure), until the
+Secretary is satisfied that
+there will no longer be any
+such failure to comply.
+Until he is so satisfied he
+(continued...)
+
+18
+18
+This language not only confirms that
+Title XIX by its terms creates a
+relationship between Congress and a
+particular state, but it recalls, as well, the
+“comply substantially” language in
+Blessing and Gonzaga University. 
+Blessing, 520 U.S. at 343; Gonzaga
+Univ., 536 U.S. at 289.  Of course, in
+Blessing and Gonzaga University, such
+language counseled against the
+recognition of an unambiguously
+conferred right.
+But while the District Court
+correctly recognized that Sections 1396
+and 1396c do not contain the “sort of
+explicit, rights-creating language found
+in Title VI,” it did not consider the
+existence of rights-creating language in
+other relevant provisions of Title XIX. 
+Sabree, 245 F. Supp. 2d at 659.  The
+language used by Congress in 42 U.S.C.
+§§ 1396a(a)(10), 1396d(a)(15), and
+1396a(a)(8), however, explicitly creates
+rights.  Admittedly, plumbing for
+congressional intent by balancing the
+specific language of a few discrete
+provisions of Title XIX against the larger
+structural elements of the statute is a
+difficult task.  Nonetheless, it is evident,
+at least to us, that the statutory language,
+despite countervailing structural
+elements of the statute, unambiguously
+confers rights which plaintiffs can
+enforce.
+We conclude that Section 1396,
+the appropriations and general
+introductory statement, cannot neutralize
+the rights-creating language of Sections
+1396a(a)(10), 1396d(a)(15), and
+1396a(a)(8).  Our confidence in this
+conclusion rests securely on the fact that
+the Court has refrained from overruling
+Wright and Wilder, which upheld the
+exercise of individual rights under
+statutes that contain similar (or, in the
+case of Wilder, identical) provisions to
+42 U.S.C. § 1396. 
+Section 1396 was in effect at the
+time of Wilder, in which the Court
+allowed claims to proceed under Title
+XIX, and a similar provision was in
+effect when the Court allowed claims to
+proceed in Wright.  42 U.S.C. §§ 1396 &
+1437.  But Gonzaga University did not
+overrule Wilder; rather,  it explained that
+“Congress left no doubt of its intent for
+private enforcement.”  Gonzaga Univ.,
+536 U.S. at 280-81 (quoting Wilder, 496
+U.S. at 522-23).  Neither did the Court
+overrule Wright; rather, it identified it as
+an instance in which Congress
+“unambiguously conferred ‘a mandatory
+[benefit] focusing on the individual
+family and its income.’” Gonzaga Univ.,
+536 U.S. at 280 (quoting Wright, 479
+U.S. at 430).
+    28(...continued)
+shall make no further
+payments to such State (or
+shall limit payments to
+categories under or parts of
+the State plan not affected
+by such failure). 
+42 U.S.C. § 1396c (emphasis added).
+
+19
+19
+We do not diminish the
+significance of the “comply
+substantially” language in Section 1396c. 
+Rather, we recognize that the plaintiffs in
+Blessing sued under a provision requiring
+“substantial compliance” by a state.  The
+Court held that the plaintiffs had no such
+right in the aggregate, but specifically
+reserved decision on whether they might
+have individual rights under other
+provisions of the statute, and remanded
+for a determination of that issue. 
+Blessing, 520 U.S. at 345-46.  This
+distinction makes good sense: that
+Congress provides a remedy for itself for
+non-compliance does not necessarily
+preclude a coherent and coexisting intent
+to create an enforceable right in
+individual beneficiaries.  Significantly,
+and unlike the plaintiffs in Blessing and
+Gonzaga, plaintiffs here have advanced
+specific claims, rooted in discrete, rights-
+creating provisions of Title XIX.
+C.
+Congressional Preclusion – Step
+Three
+Even where a right has been
+unambiguously conferred, a state may
+rebut the presumption of the availability
+of § 1983 by demonstrating that
+Congress, either expressly or by
+providing a comprehensive remedial
+scheme, intended to preclude individual
+suits.  See, e.g., Blessing, 520 U.S. at 346
+(“Because petitioner does not claim that
+any provision of Title IV-D expressly
+curtails § 1983 actions, she must make
+the difficult showing that allowing §
+1983 actions to go forward in these
+circumstances ‘would be inconsistent
+with Congress’ carefully tailored
+scheme.’”) (quoting Golden State Transit
+Corp. v. Los Angeles, 493 U.S. 103, 107
+(1989)).  
+We note, however, that “[t]he
+burden to demonstrate that Congress has
+expressly withdrawn the remedy is on the
+defendant,” and that a court should “not
+lightly conclude that Congress intended
+to preclude reliance on § 1983 as a
+remedy” for deprivation of an
+unambiguously conferred right.  Golden
+State Transit Corp., 493 U.S. at 107
+(citations omitted).  Indeed, only twice
+has the Court found a remedial scheme
+sufficiently comprehensive to supplant §
+1983.  See Middlesex County Sewerage
+Auth. v. Nat’l Sea Clammers Ass’n, 453
+U.S. 1, 13, 14, 20 (1981) (“Sea
+Clammers”) (acknowledging the
+“unusually elaborate enforcement
+provisions” empowering the E.P.A.,
+coupled with several provisions allowing
+specific instances of private enforcement
+of the Federal Water Pollution Control
+Act, and concluding that Congress
+intended to preclude individual actions
+not explicitly allowed); Smith v.
+Robinson, 468 U.S. 992, 1009-11 (1984)
+(concluding that because the Education
+of the Handicapped Act permitted
+aggrieved individuals to invoke carefully
+tailored local administrative procedures
+followed by federal judicial review,
+Congress could not have intended
+individuals to bypass the enumerated
+procedure and advance directly to court
+via § 1983).
+
+20
+20
+Title XIX contains no provision
+explicitly precluding individual actions. 
+As a result, there is a substantial burden
+on a state seeking to establish that
+Congress has provided a comprehensive
+remedial scheme with which individual
+actions cannot be reconciled.  Title XIX
+does allow for a state administrative
+hearing.29  This is, however, the only
+remedial component of Title XIX, and
+clearly falls short of the comprehensive
+enforcement schemes seen in Sea
+Clammers and Smith.  “[A] plaintiff’s
+ability to invoke § 1983 cannot be
+defeated simply by ‘the availability of
+administrative mechanisms to protect the
+plaintiff’s interests.’” Blessing, 520 U.S.
+at 347 (quoting Golden State Transit
+Corp., 493 U.S. at 106).  See also Wilder,
+496 U.S. at 523 (“The availability of
+state administrative procedures ordinarily
+does not foreclose resort to § 1983.”). 
+III.  CONCLUSION
+Plaintiffs have advanced specific
+claims rooted in statutory text that
+identify them as the intended recipients
+of medical assistance from the
+Commonwealth of Pennsylvania.  That
+Congress may choose to sanction
+Pennsylvania for failure to comply with
+its own medical assistance plan does not
+necessarily preclude other repercussions,
+such as individual actions against the
+Commonwealth.  Congress clearly and
+unambiguously conferred the rights of
+which plaintiffs have allegedly been
+deprived by Pennsylvania, and has not
+precluded individual enforcement of
+those rights.  Accordingly, the order of
+the District Court will be reversed, and
+this case will be remanded for further
+proceedings in accordance with this
+Opinion.  
+    29Section 1396a(a)(3) provides in
+relevant part: “A State plan for medical
+assistance must . . . provide for granting
+an opportunity for a fair hearing before
+the State agency to any individual whose
+claim for medical assistance under the
+plan is denied or is not acted upon with
+reasonable promptness . . . .”  42 U.S.C.
+§ 1396a(a)(3).
+
+21
+21
+Sabree v. Richman
+No. 03-1226
+ALITO, Circuit Judge, concurring:
+While the analysis and decision of
+the District Court may reflect the
+direction that future Supreme Court cases
+in this area will take, currently binding
+precedent supports the decision of the
+Court.  I therefore concur in the Court’s
+decision.

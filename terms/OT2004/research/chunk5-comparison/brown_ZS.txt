@@ -1,0 +1,168 @@
+Source: https://www.law.cornell.edu/supct/html/03-1039.ZS.html
+
+BROWN V. PAYTON
+
+LII
+
+Supreme Court
+
+BROWN V. PAYTON (03-1039) 
+346 F.3d 1204, reversed.
+Syllabus
+ Opinion
+ [ Kennedy ]Concurrence
+ [ Scalia ]Concurrence
+ [ Breyer ]Dissent
+ [ Souter ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be
+released, as is being done in connection with this case, at the
+time the opinion is issued.
+The syllabus constitutes no part
+of the opinion of the Court but has been prepared by the
+Reporter of Decisions for the convenience of the reader.
+See
+United States v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+BROWN, WARDEN v. PAYTON
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE NINTH CIRCUIT
+
+No. 03—1039.Argued November 10,
+2004–Decided March 22, 2005
+
+In the penalty phase of respondent
+Payton’s trial following his conviction on capital murder
+and related charges, his counsel presented witnesses who
+testified that, during the one year and nine months Payton had
+been incarcerated since his arrest, he had made a sincere
+commitment to God, participated in prison Bible study and a
+prison ministry, and had a calming effect on other prisoners. 
+The trial judge gave jury instructions that followed verbatim
+the text of a California statute, setting forth 11 different
+factors, labeled (a) through (k), to guide the jury in
+determining whether to impose a death sentence or life
+imprisonment. The last such instruction, the so-called factor
+(k) instruction, directed jurors to consider “[a]ny other
+circumstance which extenuates the gravity of the crime even
+though it is not a legal excuse for the crime.” In his
+closing, the prosecutor offered jurors his incorrect opinion
+that factor (k) did not allow them to consider anything that
+happened after the crime. Although he also told them several
+times that, in his view, they had not heard any evidence of
+mitigation, he discussed Payton’s evidence in considerable
+detail and argued that the circumstances and facts of the case,
+coupled with Payton’s prior violent acts, outweighed the
+mitigating effect of Payton’s religious conversion. When
+the defense objected to the argument, the court admonished the
+jury that the prosecutor’s comments were merely argument,
+but it did not explicitly instruct that the prosecutor’s
+interpretation was incorrect. Finding the special circumstance
+of murder in the course of rape, the jury recommended that
+Payton be sentenced to death, and the judge complied. The
+California Supreme Court affirmed. Applying Boyde v.
+California, 494
+U.S. 370, which had considered the constitutionality of the
+identical factor (k) instruction, the state court held that,
+considering the context of the proceedings, there was no
+reasonable likelihood that the jury believed it was required to
+disregard Payton’s mitigating evidence. The Federal
+District Court disagreed and granted Payton habeas relief,
+ruling also that the Antiterrorism and Effective Death Penalty
+Act of 1996 (AEDPA) did not apply. The en banc Ninth Circuit
+affirmed and, like the District Court, held that AEDPA did not
+apply. On remand from this Court in light of Woodford
+v. Garceau, 538
+U.S. 202, the Ninth Circuit purported to decide the case
+under the deferential standard AEDPA mandates. It again
+affirmed, concluding that the California Supreme Court had
+unreasonably applied Boyde in holding the factor (k)
+instruction was not unconstitutionally ambiguous in
+Payton’s case. The error, the court determined, was that
+the factor (k) instruction did not make it clear to the jury
+that it could consider the evidence concerning Payton’s
+postcrime religious conversion and the prosecutor was allowed
+to urge this erroneous interpretation.
+
+Held: The Ninth Circuit’s
+decision was contrary to the limits on federal habeas review
+imposed by AEDPA. Pp. 7—13.
+
+ (a) AEDPA
+provides that, when a habeas petitioner’s claim has been
+adjudicated on the merits in state court, a federal court may
+not grant relief unless the state court’s adjudication
+“resulted in a decision that was contrary to, or involved
+an unreasonable application of, clearly established Federal
+law, as determined by the Supreme Court of the United
+States.” 28
+U.S.C. § 2254(d)(1). A state-court decision is
+contrary to this Court’s clearly established precedents if
+it applies a rule that contradicts the governing law set forth
+in this Court’s cases, or if it confronts a set of facts
+that is materially indistinguishable from a decision of this
+Court but reaches a different result. E.g., Williams v.
+Taylor, 529
+U.S. 362, 405. A state-court decision involves an
+unreasonable application of this Court’s clearly
+established precedents if the state court applies such
+precedents to the facts in an objectively unreasonable manner. 
+E.g., ibid. These conditions have not been established.
+ P. 7.
+
+ (b) In light
+of Boyde, the California Supreme Court cannot be said to
+have acted unreasonably in declining to distinguish between
+precrime and postcrime mitigating evidence. The California
+Supreme Court read Boyde as establishing that factor
+(k)’s text was broad enough to accommodate Payton’s
+postcrime mitigating evidence, but the Ninth Circuit held that
+Boyde’s reasoning did not control in this case
+because Boyde concerned precrime, not postcrime,
+mitigation evidence. However, Boyde held that factor
+(k) directed consideration of any circumstance that might
+excuse the crime, see 494 U.S., at 382, and it is not
+unreasonable to believe that a postcrime character
+transformation could do so. Pp. 7—8.
+
+ (c) Even
+were the Court to assume that the California Supreme Court was
+incorrect in concluding that the prosecutor’s argument and
+remarks did not mislead the jury into believing it could not
+consider Payton’s mitigation evidence, the state
+court’s conclusion was not unreasonable, and is therefore
+just the type of decision that AEDPA shields on habeas review. 
+The state court’s conclusion was an application of
+Boyde to similar but not identical facts. Considering
+the whole context of the proceedings, it was not unreasonable
+for the state court to determine that the jury most likely
+believed that the mitigation evidence, while within the factor
+(k) instruction’s reach, was simply too insubstantial to
+overcome the arguments for imposing the death penalty; nor was
+it unreasonable for the state court to rely upon Boyde
+to support its analysis. Pp. 9—13.
+
+346 F.3d 1204, reversed.
+
+ Kennedy, J.,
+delivered the opinion of the Court, in which O’Connor,
+Scalia, Thomas, and Breyer, JJ., joined. Scalia, J., filed a
+concurring opinion, in which Thomas, J., joined. Breyer, J.,
+filed a concurring opinion. Souter, J., filed a dissenting
+opinion, in which Stevens and Ginsburg, JJ., joined. 
+Rehnquist, C. J., took no part in the decision of the
+case.

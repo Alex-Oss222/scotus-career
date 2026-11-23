@@ -1,0 +1,215 @@
+Script-copied substantive United States amicus brief; present-case prefatory procedure excluded. Historical descriptions of prior post-1991 law are not simulated law.
+
+STATEMENT
+  
+Petitioner Roderick Jackson, a teacher, filed suit against respondent Birmingham Board of Education alleging that respondent retaliated against him because he had complained about sex discrimination in respondent's high school athletic program. Petitioner alleged that such retaliation violates Title IX of the Education Amendments of 1972, 20 U.S.C. 1681 et seq. The district court dismissed petitioner's complaint for failure to state a claim, holding that Title IX does not prohibit retaliation. The court of appeals agreed that Title IX does not prohibit retaliation and affirmed the district court's judgment of dismissal.
+  
+1. Title IX provides that "[n]o person in the United States shall, on the basis of sex, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any education program or activity receiving Federal financial assistance." 20 U.S.C. 1681(a). Title IX is modeled on Title VI of the Civil Rights Act of 1964, 42 U.S.C. 2000d et seq., which prohibits discrimination on the basis of race in federally assisted programs. See Cannon v. University of Chicago, 441 U.S. 677, 694-695 (1979).
+  
+Title IX authorizes federal agencies that provide federal financial assistance "to effectuate" Title IX "by issuing rules, regulations, or orders of general applicability," and to enforce such regulations administratively. 20 U.S.C. 1682. Pursuant to that directive, the Department of Education adopted a regulation addressing retaliation that was originally issued to enforce Title VI. See 34 C.F.R. 106.71 (incorporating 34 C.F.R. 100.7(e)). The regulation is entitled "[i]ntimidatory or retaliatory acts prohibited" and provides that:
+  
+No recipient or other person shall intimidate, threaten, coerce, or discriminate against any individual for the purpose of interfering with any right or privilege secured by section 601 of the Act or this part, or because he has made a complaint, testified, assisted, or participated in any manner in an investigation, proceeding or hearing under this part.
+  
+34 C.F.R. 100.7(e).
+  
+2. In 1993, respondent hired petitioner as a physical education teacher and coach for the girls' basketball team. Pet. App. 3a. Petitioner was transferred to Ensley High School where his duties included coaching the girls' basketball team. Ibid. During his coaching tenure, petitioner came to believe that respondent was not providing the girls' basketball team with equal funding or equal access to sports facilities and equipment. Ibid. After petitioner complained to his supervisors about the treatment of the girls' basketball team, he began to receive negative evaluations. Ibid. In May 2001, respondent relieved petitioner of his coaching duties. Ibid. Respondent still employs petitioner as a teacher, but petitioner no longer receives the supplemental pay he received for coaching. Id. at 3a, 29a & n.1.
+  
+Petitioner filed suit against respondent in federal district court, alleging that respondent retaliated against him, in violation of Title IX. Pet. App. 29a. The district court dismissed petitioner's complaint, holding that Title IX does not create a private cause of action for retaliation. Id. at 27a.
+  
+The court of appeals affirmed. Pet. App. 1a-26a. The court stated that it would be governed in its interpretation of Title IX by this Court's decision Alexander v. Sandoval, 532 U.S. 275 (2001). Applying its understanding of Sandoval, the court first held that, while the text of 20 U.S.C. 1681 protects individuals in federally assisted programs from discrimination on the basis of sex, it does not create a private right of action for retaliation. Pet. App. 19a-20a. The court reasoned that "[n]othing in the text indicates any congressional concern with retaliation that might be visited on those who complain of Title IX violations," and "[i]ndeed, the statute makes no mention of retaliation at all." Id. at 20a.
+  
+The court next held that 20 U.S.C. 1682 does not create a private cause of action for retaliation. Pet. App. 20a-21a. The court reasoned that Section 1682 is "devoid of 'rights-creating' language of any kind- whether against gender discrimination, retaliation, or any other kind of harm," and instead "directs and authorizes federal agencies to regulate recipients of federal funding." Id. at 21a.
+  
+The court of appeals acknowledged that a Department of Education regulation expressly protects individuals from retaliation, but it held that the regulation does not create a private cause of action for retaliation. Pet. App. 22a. Relying on Sandoval, 532 U.S. at 291, the court reasoned that an agency may not afford a private right of action through regulation when Congress has not done so in the statute itself. Pet. App. 22a.
+  
+Finally, the court held that even if Title IX prohibits retaliation, petitioner would not be within the class of persons protected by that prohibition. Pet. App. 23a-24a. In the court's view, the statute only protects "direct victims" of sex discrimination, and not persons who protest the discriminatory treatment of others. Ibid.
+  
+SUMMARY OF ARGUMENT
+  
+I. When a recipient of federal funds subjects a person to intentional "discrimination" "on the basis of sex," 20 U.S.C. 1681, the victim of discrimination may file a private action against the recipient under Title IX. A Title IX recipient that purposefully retaliates against a complainant because the complaint is about intentional sex discrimination, as opposed to some other matter, subjects the complainant to intentional "discrimination" "on the basis of sex." The victim of that retaliation may therefore seek judicial relief from the recipient.
+  
+The legal background against which Title IX was enacted confirms that Title IX contains protection against intentionally discriminatory retaliation. Just three years before Title IX was enacted, the Court held in Sullivan v. Little Hunting Park, Inc., 396 U.S. 229 (1969), that the general prohibition against discrimination in the sale or rental of property in 42 U.S.C. 1982 bars retaliation against a person who complains about discrimination.
+  
+Interpreting Title IX to incorporate protection against discriminatory retaliation also furthers Congress's purposes in enacting Title IX-to avoid the use of federal resources to support discriminatory practices, and to provide individuals effective protection against those practices. Those objectives would be difficult, if not impossible, to achieve, if persons who complain about sex discrimination lacked adequate protection against retaliation.
+  
+In addition, before Title IX was enacted, substantial evidence was presented to Congress that persons who had complained about sex discrimination at educational institutions had suffered retaliation. There is no reason that Congress would have wanted to leave those opposing sex discrimination unprotected from such conduct.
+  
+A regulation issued by the Department of Education, the agency with primary responsibility for enforcing Title IX, reflects the agency's authoritative conclusion that retaliation against a person because that person has filed a sex discrimination complaint violates Title IX. A regulation issued by the Department of Justice, which has the authority to coordinate enforcement of Title IX, reflects the same interpretation. Those two regulations are entitled to deference and reinforce the conclusion that Title IX bars intentionally discriminatory retaliation.
+  
+This Court's decision in Alexander v. Sandoval, 532 U.S. 275 (2001), relied on by the court of appeals, does not lead to a contrary conclusion. Sandoval held that Title VI prohibits only intentional discrimination and that agency regulations that go beyond that prohibition may not be privately enforced. Petitioner's claim is consistent with those holdings because he claims that respondent engaged in intentional discrimination under Title IX, not merely conduct having a discriminatory effect, and petitioner bases his claim on Title IX's prohibition against intentional discrimination, not on agency regulations that extend beyond that prohibition.
+  
+Nor does the existence of Title VII's distinct prohibition against retaliation support the court of appeals' conclusion that Title IX does not protect against reta-liation. Title VII (42 U.S.C. 2000e et seq.) contains a series of prohibitions against particular forms of discrimination, while Title IX contains a single general prohibition against discrimination. Title IX is therefore not analogous to Title VII, but to 42 U.S.C. 1982, which had been authoritatively construed to prohibit retaliation before Title IX was enacted.
+  
+II. Persons subjected to retaliation because they have complained about discrimination initially directed to others are fully protected by Title IX. Neither the text of Title IX nor the applicable agency regulations draw any distinction between discriminatory retaliation against persons based on whether the initial discrimination that is the subject of the complaint was directed at the complainant or others. Rather, the relevant standard is satisfied when the recipient retaliates against any person because that person has complained about sex discrimination.
+  
+Sullivan demonstrates that Title IX's retaliation protection extends to persons who complain about discrimination directed to others. In that case, the Court held that a white property owner could sue for retaliation even though his underlying complaint was that a black person had been subjected to unlawful discrimination.
+  
+Interpreting Title IX to cover retaliation against persons who oppose discrimination directed to others is also indispensable to the achievement of Title IX's purpose of ending intentional discrimination on the basis of sex in federally-assisted educational programs. Teachers and coaches are often the only effective advocates for their students.
+  
+Thus, persons who complain about sex discrimination are protected against retaliation by Title IX, and that protection extends to persons who complain about discrimination directed to others. The court of appeals' judgment affirming the dismissal of petitioner's complaint should therefore be reversed.
+  
+ARGUMENT
+  
+I. TITLE IX PROHIBITS RETALIATION AGAINST A PERSON BECAUSE THAT PERSON HAS COMPLAINED ABOUT SEX DISCRIMINATION, AND THAT PROHIBITION MAY BE ENFORCED IN A PRIVATE ACTION
+  
+Title IX provides that "[n]o person in the United States shall, on the basis of sex, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any education program or activity receiving Federal financial assistance." 20 U.S.C. 1681(a). Title IX does not expressly authorize a private suit to enforce its prohibition. In Cannon v. University of Chicago, 441 U.S. 677, 690-693 (1979), however, the Court held that Title IX's rights-creating language reflects a congressional intent to authorize private enforcement. In Franklin v. Gwinnett County Public Schools, 503 U.S. 60 (1992), the Court held that Title IX authorizes private parties to seek damages for intentional violations of Title IX. Subsequent decisions have reaffirmed that Title IX authorizes private suits for intentional sex discrimination. Davis v. Monroe County Bd. of Educ., 526 U.S. 629, 642 (1999); Gebser v. Lago Vista Indep. Sch. Dist., 524 U.S. 274, 290-291 (1998).
+  
+Under Title IX, retaliation against a person because that person has filed a sex discrimination complaint is a form of intentional sex discrimination. Accordingly, the victim of such retaliation may file a private action under Title IX seeking redress for that retaliation. The text, background, and purposes of Title IX demonstrate that it encompasses protection against retaliation, and the court of appeals' contrary view is based on a misreading of this Court's decision in Alexander v. Sandoval, 532 U.S. 275 (2001), and an inappropriate comparison between Title IX and Title VII.
+  
+A. Retaliation Against A Person Because That Person Has Complained About Intentional Sex Discrimination Violates Title IX's General Ban Against Discrimination On The Basis Of Sex
+  
+Title IX broadly prohibits a recipient from subjecting any person to "discrimination" "on the basis of sex," regardless of the particular form that the discrimination takes. 20 U.S.C. 1681. That broad prohibition is subject to series of narrow exceptions that are not applicable here. 20 U.S.C. 1681. When a recipient purposefully retaliates against an individual because that individual has complained about intentional sex discrimination, as opposed to some other matter, the recipient can readily be viewed as having subjected that person to "discrimination" "on the basis of sex." Because such discriminatory retaliation falls within Title IX's general terms, Title IX's failure to refer specifically to retaliation is not controlling.
+  
+Title IX's coverage of sexual harassment provides a useful analogy. Title IX does not specifically refer to sexual harassment. But as this Court has held, recipients that are deliberately indifferent to a teacher's sexual harassment of a student "violate Title IX's plain terms." Davis, 526 U.S. at 643; see Gebser, 524 U.S. at 290. Similarly, recipients subject a student to "discrimination" "on the basis of sex" in violation of Title IX when they are deliberately indifferent to a student's sexual harassment of another student. Davis, 526 U.S. at 646-647. Just as Title IX's general prohibition covers sexual harassment despite the absence of any specific reference to that form of discrimination, it likewise covers intentionally discriminatory retaliation.
+  
+Under Title IX's statutory standard, not every act of retaliation against a person who has complained about sex discrimination violates Title IX. Title IX only prohibits actions taken "on the basis of sex." That limitation means that "sex" must have "actually played a role in th[e] [decision-making] process and had a determinative influence on the outcome." Hazen Paper Co. v. Biggins, 507 U.S. 604, 610 (1993). Accordingly, a recipient that retaliates against all complainers as a class, without taking into account the subject matter of the complaint, would not violate the statute. Such a person would act solely on the basis of the person's status as a complainer, not on the basis of sex. But when the recipient purposefully retaliates against a complainant because the complaint is about intentional sex discrimination, Title IX's "on the basis of sex" requirement is satisfied.1
+  
+B. The Background Against Which Title IX Was Enacted Confirms That Title IX Was Intended To Cover Retaliation
+  
+The legal background against which Title IX was enacted confirms that Title IX covers retaliation. Just three years before Title IX was enacted, this Court decided Sullivan v. Little Hunting Park, Inc., 396 U.S. 229 (1969). Sullivan, a white man, rented one of his houses to a black man and assigned him a membership share that permitted him to use a private park. The corporation that owned the park refused to approve the assignment because the lessee was black. When Sullivan protested that action, the corporation expelled him and took his membership shares. Sullivan sued the corporation under 42 U.S.C. 1982, which provides that "[a]ll citizens of the United States shall have the same right * * * as is enjoyed by white citizens * * * to inherit, purchase, lease, sell, hold, and convey real and personal property," and thus prohibits "racial discrimination * * * in the sale and rental of property." Jones v. Alfred H. Mayer Co., 392 U.S. 409, 437 (1968).
+  
+Of critical importance here, the Sullivan Court held that Sullivan could maintain an action under Section 1982 not only for having been denied the right to complete his transaction with a black person, but also for his "expulsion for the advocacy of [the black person's] cause." 396 U.S. at 237. The Court reasoned that "[i]f that sanction, backed by a state court judgment, can be imposed, then Sullivan is punished for trying to vindicate the rights of minorities protected by § 1982. Such a sanction would give impetus to the perpetuation of racial restrictions on property." Ibid.
+  
+Thus, just three years before Title IX was enacted, this Court construed a general prohibition on racial discrimination in the sale or rental of property to cover retaliation against persons who complain about such discrimination. A Congress familiar with Sullivan would have understood that, by enacting a general prohibition against sex discrimination in federally-funded educational programs, it would simultaneously forbid recipients from retaliating against persons who complain about that form of discrimination. In light of Sullivan, Congress would have seen no need to enact a prohibition that specifically referred to retaliation. Be-cause Congress is presumed to be aware of this Court's decisions, see Cannon, 441 U.S. at 696-698, the Court's holding in Sullivan that Section 1982's prohibition against intentional discrimination encompasses protection against retaliation is powerful evidence that Title IX's prohibition against intentional discrimination encompasses comparable protection. See id. at 698 n.22 (identifying Sullivan as one of the three "recently issued implied-cause-of action decisions of this Court involving civil rights statutes with language similar to that in Title IX" against which Congress enacted Title IX); see also Franklin, 503 U.S. at 72 (identifying Sullivan as one of the three cases decided in the decade before the passage of Title IX that not only recognized an implied cause of action but also approved a damages remedy).2
+  
+C. Interpreting Title IX To Incorporate Protection Against Retaliation Is Important To The Achievement Of Title IX's Purposes
+  
+Interpreting IX to encompass protection against retaliation also promotes the achievement of Title IX's purposes. In enacting Title IX, Congress sought to accomplish two related, but distinct objectives. "First, Congress wanted to avoid the use of federal resources to support discriminatory practices; second, it wanted to provide individual citizens effective protection against those practices." Cannon, 441 U.S. at 704. Those objectives would be difficult, if not impossible, to achieve if persons who complain about sex discrimination did not have effective protection against retaliation.
+  
+Absent effective protection against retaliation, persons are likely to be reluctant to bring discrimination to light. And absent a sufficient deterrent against retaliation, entities that are practicing discrimination in their educational programs are likely to be emboldened to continue that discrimination. Thus, as this Court has explained, when there is no effective retaliation protection, it gives "impetus" to the "perpetuation" of the underlying discrimination. Sullivan, 396 U.S. at 237.
+  
+Effective protection against retaliation is particularly important because of Title IX's enforcement structure. Before an enforcement action may be brought against a recipient by either a federal agency or a private individual, an official of the recipient with authority to correct the discrimination must receive "actual notice" of the discrimination. Gebser, 524 U.S. at 288. A federal agency may terminate federal financial assistance only when it "has advised the appropriate person or persons of the failure to comply with the requirement and has determined that compliance cannot be secured by voluntary means." 20 U.S.C. 1682. And a party may seek redress in a private action only upon a showing that an appropriate official of the recipient has received actual knowledge of discrimination and responded with deliberate indifference. Gebser, 524 U.S. at 289-290.
+  
+That enforcement structure necessarily depends on federal enforcement agencies and recipients receiving actual knowledge of the underlying discrimination. Persons who complain about discrimination are among the most important sources for such knowledge. It would seriously undermine the effectiveness of Title IX's enforcement structure if persons who contemplate bringing allegations of discrimination to the attention of the enforcement agency or the recipient did not have effective protection against retaliation. The statutory scheme can work as intended only if persons feel secure in reporting discrimination when they believe it exists, and that sense of security is unlikely in the absence of adequate protection against retaliation.
+  
+D. Retaliation Protection Responds To A Genuine Problem That Predated Enactment Of Title IX, And There Is No Reason That Congress Would Have Wanted To Leave That Problem Unchecked
+  
+Interpreting Title IX to include protection against retaliation also makes sense because the absence of protection against retaliation was a serious part of the problem at educational institutions where discrimination was practiced before Title IX was enacted. Congress heard substantial evidence that teachers had been released, demoted, censured, and blackballed for complaining about sex discrimination at educational institutions and that teachers and students were therefore reluctant to complain about discriminatory treatment.
+  
+For example, one witness testified that it was "very dangerous for women students or women faculty to openly complain of sex discrimination on their campus. * * * At a recent meeting of professional women I counted at least four women whose contracts were not renewed after it became known that they were active in fighting sex discrimination at their respective institutions." Discrimination Against Women: Hearings Before the Special Subcomm. on Educ. of the House Comm. on Educ. and Labor, 91st Cong., 2d Sess. Pt. 1 302 (1970) (Discrimination Hearings) (testimony of Bernice Sandler). Another witness stated that "few women have dared to file complaints of sex discrimination" because "[w]e know of a number of such cases" in which "women who have filed complaints have suffered reprisals in the form of having their jobs abolished" or "have been reassigned to some degrading position far below their capabilities in anticipation they might resign." Id. at 463 (statement of Daisy Fields). Another witness testified that "women who have criticized their faculties for sexual discrimination have been 'censured for conduct unbecoming,' a rare procedure in academe normally reserved for actions such as outright plagiarism." Id. at 242 (testimony of Dr. Ann Harris). And another witness testified that when a woman raised a complaint about a dormitory that was closed at a faculty meeting "blackballing letters written by faculty members were subsequently placed in her employment file at the law school without her knowledge." Id. at 588 (statement of Women's Rights Committee of New York University School of Law). The same witness stated that many women would speak privately about the discrimination they experienced, "but were reluctant to testify publicly for fear of reprisals." Id. at 247.
+  
+Documents placed before Congress contained similar evidence. One such document reported that "[a] few [women] fight back-and pay the penalty for bucking the male dominated system." Discrimination Hearings, Pt. 2, at 1051 (supplemental statement of Dr. Ann Harris). Another reported that "on some campuses it is still dangerous to fight sex discrimination. I know of numerous women whose jobs were terminated, whose contracts were not renewed, and some who were openly and directly fired for fighting such discrimination." 118 Cong. Rec. 5812 (1972).
+  
+Thus, there was significant evidence presented to Congress that the absence of protection against retaliation had contributed to the perpetuation of discrimination at educational institutions. There is no reason that Congress would have responded to that evidence by deliberately failing to address that aspect of the problem. Rather, the more reasonable inference is that a Congress legislating just three years after the Court decided Sullivan operated on the assumption that its broad prohibition on discrimination would cover the kind of retaliation discussed in the congressional record. A recipient of federal assistance certainly can have no legitimate interest in retaliating against persons who complain about unlawful discrimination. Accordingly, Title IX's bar on discrimination is best understood to encompass protection against retaliation.
+  
+E. Responsible Federal Agencies Have Reasonably Interpreted Title IX To Prohibit Retaliation, And Their Interpretation Is Entitled To Deference
+  
+The Department of Education has adopted a regulation that expressly prohibits "[i]ntimidatory" and "retaliatory acts." 34 C.F.R. 106.71 (incorporating by reference 34 C.F.R. 100.7(e)). That regulation provides that:
+  
+No recipient or other person shall intimidate, threaten, coerce, or discriminate against any individual for the purpose of interfering with any right or privilege secured by section 601 of the Act or this part, or because he has made a complaint, testified, assisted, or participated in any manner in an investigation, proceeding or hearing under this part.
+  
+Ibid. That regulation reflects the Department of Education's position that discriminatory "retaliation is prohibited by Title IX." 62 Fed. Reg. 12,044 (1997). Because the Department of Education has primary responsibility for enforcing Title IX, its interpretation is entitled to deference under Chevron U.S.A. Inc. v. Natural Resources Defense Council, Inc., 467 U.S. 837, 843-844 (1984).
+  
+The Department of Justice is responsible for coordinating the enforcement of Title IX by federal agencies, see Exec. Order No. 12,250, 3 C.F.R. 298 (1981), and it has adopted the same retaliation regulation as the Department of Education, see 65 Fed. Reg. 52,858-52,895 (2000) (adopting Title IX rules for 21 federal agencies including the Department of Justice). The Department of Justice has also stated in a Title IX manual directed to federal agencies that retaliation is one of the "general types of prohibited discrimination." U.S. Dep't of Justice, Title IX Legal Manual 57 (Jan. 11, 2001) <www.usdoj.gov/crt/cor/coord/ixlegal.pdf>. Because the Department of Justice has responsibility for coordinating the enforcement of Title IX by federal agencies, its view is likewise entitled to deference. Consolidated Rail Corp. v. Darrone, 465 U.S. 624, 634 (1984).
+  
+Moreover, eight years before Title IX was enacted, the Department of Health, Education, and Welfare (HEW) issued a regulation pursuant to Title VI of the Civil Rights Act of 1964, 42 U.S.C. 2000d et seq., that authoritatively construed Title VI's prohibition against discrimination on the basis of race in federally assisted programs to encompass protection against discriminatory retaliation. 29 Fed. Reg. 16,298, 16,301 (1964); 45 C.F.R. 80.7(e). HEW's regulation is significant because "[t]he drafters of Title IX explicitly assumed that it would be interpreted and applied as Title VI had been during the preceding eight years." Cannon, 441 U.S. at 696.
+  
+There is no need in this case, however, to rely on agency regulations or principles of deference to resolve the question presented. The text, background, and purposes of Title IX all point to the conclusion that Title IX's prohibition against discrimination on the basis of sex incorporates protection against retaliation. The relevant agency regulations simply reinforce that conclusion.
+  
+F. The Court Of Appeals Erred In Relying On Sandoval And On The Existence Of Title VII's Distinct Prohibition Against Retaliation
+  
+1. The court of appeals based its conclusion that Title IX does not encompass protection against retaliation primarily on this Court's decision in Alexander v. Sandoval, 532 U.S. 275 (2001). Pet. App. 8a. The court's reliance on Sandoval was misplaced.
+  
+In Sandoval, the Court held that Title VI regulations that prohibit discriminatory effects cannot be privately enforced because Title VI itself prohibits only intentional discrimination, and agency regulations that go beyond Title VI's prohibition may not be privately enforced. 532 U.S. at 285-286. Because Title IX was patterned on Title VI, Sandoval's analysis applies to Title IX as well. Thus, under Sandoval, Title IX's prohibition in Section 1681 prohibits only intentional sex discrimination, and agency regulations issued under Section 1682 may not be privately enforced to the extent that they prohibit conduct that Section 1681 does not. Neither of those aspects of Sandoval, how-ever, affects the validity of petitioner's claim.
+  
+Petitioner's complaint embraces a claim that the retaliation that he suffered constitutes intentional discrimination on the basis of sex under Title IX, not discrimination that merely has the effect of discriminating on that basis. Compl. 2, para. 6; id. at 3, para. 8. Moreover, petitioner based his claim directly on the prohibition in Section 1681, not on agency regulations issued under Section 1682 that impose obligations that extend beyond Section 1681's prohibition. Id. at 3, para. 1; Pet. 11. Petitioner's claim is therefore fully consistent with Sandoval.
+  
+2. Petitioner relied on the Department of Education retaliation regulation to support his argument that Section 1681 encompasses protection against retaliation. Pet. App. 22a-23a. That reliance on the retaliation regulation, however, is entirely consistent with Sandoval.
+  
+In Sandoval, the Court made clear that prohibitions reflected in regulations that validly "construe the statute itself" may be privately enforced because a "Congress that intends the statute to be enforced through a private cause of action intends the authoritative interpretation of the statute to be so enforced as well." 532 U.S. at 284. As already discussed, the federal retaliation regulations issued by the Department of Education and the Department of Justice reflect a valid interpretation of the terms of Title IX itself. Thus, under Sandoval, that interpretation of the statute may be enforced through the private cause of action conferred by Title IX.
+  
+In any event, as already discussed, petitioner's claim does not ultimately depend on the retaliation regulations. Rather, even without the regulations, the text, background, and purposes of Title IX demonstrate that Title IX bars intentional sex-based retaliation. Nothing in Sandoval casts any doubt on that conclusion.3
+  
+3. The court of appeals also relied on the existence in Title VII of a separate prohibition against retaliation. See 42 U.S.C. 2000e-3(a). Pet. App. 20a n.12. The existence of that distinct prohibition, however, does not carry the implication that Title IX fails to address retaliation.
+  
+First, the core prohibitions in Title VII bar discrimination against an individual "because of such individual's [or his] race, color, religion, sex, or national origin." E.g., 42 U.S.C. 2000e-2(a)(1), (2), (b) and (c). Retaliating against a person because of his role in filing a Title VII complaint might not be viewed as being based on "such individual's" race, color, sex, religion, or national origin, especially in cases analogous to this one in which the victim of the retaliation is not the victim of the underlying discrimination. Congress might therefore have deemed it advisable to make its intent to reach such retaliation clear through a distinct prohibition. On the other hand, Title IX bars discrimination "on the basis of sex," not because of "such individual's" sex, and that formulation is much more readily understood to encompass retaliation because an individual has complained about sex discrimination.
+  
+Moreover, in Title VII, the prohibition against retaliation is one in a series of prohibitions against discrimination in employment that specify in great detail the kind of discrimination prohibited. See, e.g., 42 U.S.C. 2000e-2(a)(1) (hire, discharge, and terms and conditions of employment), 2000e-2(a)(2) (limit, segregate, or classify so as to affect employment opportunities), 2000e-2(b) (refer for employment), 2000e-2(c)(1) (membership in a labor organization), 2000e-2(d) (training and apprenticeship programs), 2000e-3(a) (retaliation), 2000e-3(b) (advertising). Title IX's prohibition against discrimination, by contrast, is contained in a single general prohibition. The appropriate comparison for Title IX is therefore not Title VII, but 42 U.S.C. 1982 and Title VI, both of which contain a single general prohibi-tion against discrimination, and both of which had been authoritatively construed to encompass protection against retaliation before Title IX was enacted.
+  
+In sum, all of the relevant indicators of congressional intent show that Title IX encompasses protection against retaliation. The court of appeals erred in holding otherwise.
+  
+II. TITLE IX PROTECTS PERSONS WHO COMPLAIN ABOUT DISCRIMINATION THAT IS DIRECTED AT OTHERS
+  
+The court of appeals alternatively held that, even assuming that Title IX prohibits retaliation, it does not protect persons who complain about sex discrimination directed to others. Pet. App. 23a-24a. Under the court's rule, teachers and coaches who complain about underlying discrimination directed to students cannot assert a retaliation claim under Title IX. That holding cannot be reconciled with the text, background, and purposes of Title IX.
+  
+A. The Text Of Title IX And Its Implementing Regulations Protect Persons Who Complain About Discrimination Directed To Others
+  
+1. The text of Title IX does not require that the victim of discriminatory retaliation must also be the victim of the discrimination that is the subject matter of the original complaint. It simply requires a showing that the recipient has engaged in retaliation against the complainant "on the basis of sex," and that requirement can be satisfied regardless of whether the complainant is also a victim of the underlying discrimination that was the subject matter of the original complaint. In particular, as discussed above, where the recipient engages in purposeful retaliation because an individual has complained about intentional sex discrimination, Title IX's "on the basis of sex" requirement is satisfied. In that circumstance, the person filing the complaint is himself a victim of discrimination on the basis of sex in the form of discriminatory retaliation without regard to whether he was also the victim of the underlying discrimination.
+  
+2. Consistent with Title IX's text, the Department of Education's retaliation regulation rejects any distinction between classes of retaliation victims. A recipient violates the regulation when it retaliates against "any" complainant "for the purpose of interfering with any right or privilege secured by section 601 of the Act or this part, or because he has made a complaint [of unlawful sex discrimination]." 34 C.F.R. 106.71 (incorporating 34 C.F.R. 100.7(e)). The Department of Justice regulation is identical. See 65 Fed. Reg. 52,858-52,895 (2000).
+  
+B. Sullivan Makes Clear That Retaliation Claims Extend To Those Who Oppose Discrimination Against Others, And Recognizing Such A Claim Is Indispensable To The Achievement Of Congress's Goals
+  
+1. Sullivan also provides convincing support for the conclusion that Title IX's protection against retaliation extends to persons who complain about discrimination directed to others. The white victim in Sullivan complained about race discrimination directed at his black lessee, and the Court squarely held that he could maintain a private cause of action for discriminatory retaliation. The Court specifically explained that a white person may sue under Section 1982 when he can show that he was "punished for trying to vindicate the rights of minorities." 396 U.S. at 237. Because Title IX was enacted against the background of Sullivan, Title IX, like Section 1982, should likewise be construed to extend retaliation protection to persons who complain about discrimination directed to others.
+  
+2. Extending protection to persons where the complaint concerns discrimination directed to others is also necessary to the achievement of Congress's goal of eliminating federal support for sex discrimination and providing protection to individuals against sex discrimination. This Court concluded in Sullivan that a white owner is sometimes the only effective advocate for blacks who seek to purchase property. 396 U.S. at 237. Similarly, teachers and coaches are often the only effective advocates for their students. Teachers and coaches are more likely to have access to the information that is necessary to determine whether an institution is engaged in discrimination; they are more likely to have an enduring interest in equal treatment at the educational institution; and, most important, they are more likely to have the courage and maturity necessary to make charges of discrimination and withstand the criticism that may follow. Thus, the court of appeals not only erred in holding that Title IX never prohibits retaliation; it also erred in holding that protection against retaliation does not extend to teachers and coaches who complain about discrimination directed to their students.
+  
+CONCLUSION
+  
+The judgment of the court of appeals should be reversed.
+  
+Respectfully submitted.
+  
+PAUL D. CLEMENT
+ Acting Solicitor General
+
+  
+R. ALEXANDER ACOSTA
+ Assistant Attorney General
+
+  
+IRVING L. GORNSTEIN
+ Assistant to the Solicitor
+ General
+  
+DENNIS J. DIMSEY
+ LINDA F. THOME
+ Attorneys
+
+  
+BRIAN W. JONES
+ General Counsel
+ Department of Education
+
+  
+AUGUST 2004
+  
+1 A general nondiscrimination provision does not invariably encompass a prohibition against discriminatory retaliation. Other relevant indicators of statutory intent could show that retaliation is categorically excluded from a broad nondiscrimination provision. In the case of Title IX, however, the other indicia of legislative intent all point to the conclusion that its prohibition against discrimination on the basis of sex encompasses discriminatory retaliation.
+  
+2 The decision in Sullivan takes on added relevance in light of the fact that the private right of action in Title IX is implied, rather than express. "Since the Court in Cannon concluded that this statute supported no express right of action, it is hardly surprising that Congress" did not address the scope of a retaliation remedy with the same specificity it did in statutes containing express causes of action. Franklin, 503 U.S. at 71; see also pp. 20-21, infra (contrasting retaliation language in Title VII). As the Court suggested in Franklin, "the state of the law" when Congress passed Title IX is of particular relevance in interpreting Title IX's implied right of action.
+  
+3 Even if Section 1681 did not bar retaliation, federal agencies would still have rulemaking authority to bar that practice. See United States v. O'Hagan, 521 U.S. 642, 672 (1997) (agency with rulemaking authority may enact substantive regulations that are "reasonably designed" to prevent violations of the core prohibition); Mourning v. Family Publ'ns Serv., Inc., 411 U.S. 356, 369 (1973) (agency with rulemaking authority may enact substantive regulations that are "reasonably related to the purposes of the enabling legislation"). This case, however, does not present that issue. Furthermore, agency enforcement of such a regulation alone could not fully achieve Congress's objectives. Private enforcement is necessary to achieve a sufficient level of deterrence against retaliation and to make the victims of discrimination whole. See Cannon, 441 U.S. at 704-708 & n.42; Franklin, 503 U.S. at 76. 
+
+
+      
+
+            
+    
+
+    
+    
+
+
+                  
+          
+
+        
+Brief
+
+                  
+
+                          
+
+              2002-1672.mer.ami.pdf
+            
+
+  [PDF, 
+
+]
+
+          
+
+              
+
+    
+    

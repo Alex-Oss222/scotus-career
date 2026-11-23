@@ -1,0 +1,11 @@
+# Jackson — form and propositions fixed before assignment
+
+Event: Jackson v. Birmingham Board of Education, March 29, 2005. This receipt precedes any assignment recount or authorship selection for this event.
+
+Form: one signed lead opinion after plenary review, with one common six-Justice coalition throughout: Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer. They reverse the Eleventh Circuit's categorical dismissal and return the individual Title IX retaliation claim for ordinary proceedings. Scalia, Kennedy and Thomas dissent from that disposition and every disputed coverage, reporter-entitlement and notice proposition. Their common statutory grounds warrant one dissent; the frozen positions require no additional separate writing.
+
+The Court's governing propositions are: (I) a recipient's materially adverse intentional retaliation because a person reports or opposes sex discrimination in its educational program is discrimination on the basis of sex under section 1681, including retaliation against a personally injured advocate for others; (II) the established statutory action reaches that wrong, and the statute, Sullivan background and longstanding interpretation provide adequate funding notice, with Franklin relief after proof; and (III) Jackson's allegations suffice against this categorical dismissal, with coverage, recipient responsibility, retaliatory causation, defenses and causal injury to be determined under the adopted rule on remand. Compensation and prospective employment relief follow their lawful proof requirements.
+
+The opinion must preserve actual Franklin, Gebser, Davis and Title VI enforcement law. It must not translate reporting's importance into automatic recipient attribution. Kennedy's final reconciled statutory own-sex/beneficiary objection remains part of the dissent, distinct from Jackson's personal injury; the earlier affirmative concession is superseded. The record supplies no basis to adopt a general whistleblower action, a new causal burden system or a regulation-only damages duty.
+
+The Chief's approved core is fully compatible with each proposition and the remand. No standing fallback is used. No Associate commitment changes in assembly. This form and scope are fixed on legal grounds and will not be changed to affect assignment counts.

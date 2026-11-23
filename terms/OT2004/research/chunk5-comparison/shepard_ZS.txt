@@ -1,0 +1,175 @@
+Source: https://www.law.cornell.edu/supct/html/03-9168.ZS.html
+
+SHEPARD V. UNITED STATES
+
+LII
+
+Supreme Court
+
+SHEPARD V. UNITED STATES (03-9168) 
+348 F.3d 308, reversed and remanded.
+Syllabus
+ Opinion
+ [ Souter ]Concurrence
+ [ Opinion of Thomas ]Dissent
+ [ O’Connor ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be
+released, as is being done in connection with this case, at the
+time the opinion is issued.
+The syllabus constitutes no part
+of the opinion of the Court but has been prepared by the
+Reporter of Decisions for the convenience of the reader.
+See
+United States v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+SHEPARD v. UNITED STATES
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE FIRST CIRCUIT
+
+No. 03—9168.Argued November 8,
+2004–Decided March 7, 2005
+
+After petitioner Shepard pleaded guilty to
+being a felon in possession of a firearm in violation of 18 U.S.C. §
+922(g)(1), the Government sought to increase his sentence
+from a 37-month maximum to the 15-year minimum that
+§924(e), popularly known as the Armed Career Criminal Act
+(ACCA), mandates for such felons who have three prior
+convictions for violent felonies or drug offenses. 
+Shepard’s predicate felonies were Massachusetts burglary
+convictions entered upon guilty pleas. This Court has held
+that only “generic burglary”–meaning, among
+other things, that it was committed in a building or enclosed
+space–is a violent crime under the ACCA, Taylor v.
+United States, 495 U.S. 575, 599,
+and that a court sentencing under the ACCA can look to
+statutory elements, charging documents, and jury instructions
+to determine whether an earlier conviction after a jury trial
+was for generic burglary in States (like Massachusetts) with
+broader burglary definitions, id., at 602. Refusing to
+consider the 15-year minimum, the District Court found that a
+Taylor investigation did not show that Shepard had three
+generic burglary convictions and rejected the Government’s
+argument that the court should examine police reports and
+complaint applications in determining whether Shepard’s
+guilty pleas admitted and supported generic burglary
+convictions. The First Circuit vacated, ruling that such
+reports and applications should be considered. On remand, the
+District Court again declined to impose the enhanced sentence. 
+The First Circuit vacated.
+
+Held: The judgment is reversed,
+and the case is remanded. 
+
+348 F.3d 308, reversed and remanded.
+
+ Justice Souter
+delivered the opinion of the Court, except as to Part III,
+concluding that enquiry under the ACCA to determine whether a
+guilty plea to burglary under a nongeneric statute necessarily
+admitted elements of the generic offense is limited to the
+terms of the charging document, to the terms of a plea
+agreement or transcript of colloquy between judge and defendant
+in which the defendant confirmed the factual basis for the
+plea, or to some comparable judicial record of this
+information. Guilty pleas may establish ACCA predicate
+offenses, and Taylor’s reasoning controls the
+identification of generic convictions following pleas, as well
+as convictions on verdicts, in States with nongeneric offenses.
+ The ACCA nowhere provides that convictions in tried and
+pleaded cases should be regarded differently, and nothing in
+Taylor’s rationale limits it to prior jury
+convictions. This Court, then, must find the right analogs for
+applying Taylor to pleaded cases. The Taylor
+Court drew a pragmatic conclusion about the best way to
+identify generic convictions in jury cases. In cases tried
+without a jury, the closest analogs to jury instructions would
+be a bench-trial judge’s formal ruling of law and finding
+of fact; in pleaded cases, they would be the statement of
+factual basis for the charge shown by a transcript of plea
+colloquy or by written plea agreement presented to the court,
+or by a record of comparable findings of fact adopted by the
+defendant upon entering the plea. A later court could
+generally tell from such material whether the prior plea had
+“necessarily” rested on the fact identifying the
+burglary as generic. Taylor, supra, at 602. The
+Government’s arguments for a wider evidentiary cast that
+includes documents submitted to lower courts even prior to
+charges amount to a call to ease away from Taylor’s
+conclusion that respect for congressional intent and avoidance
+of collateral trials require confining generic conviction
+evidence to the convicting court’s records approaching the
+certainty of the record of conviction in a generic crime State.
+ That was the heart of the Taylor decision, and there is
+no justification for upsetting that precedent where the Court
+is dealing with statutory interpretation and where Congress has
+not, in the nearly 15 years since Taylor, taken any
+action to modify the statute. Pp. 5—9, 12.
+
+ Justice Souter,
+joined by Justice Stevens, Justice Scalia, and Justice
+Ginsburg, concluded in Part III that the rule in the
+Jones v. United States, 526 U.S. 227, 243,
+n. 6, and Apprendi v. New Jersey, 530 U.S. 466, 490,
+line of cases–that any fact other than a prior conviction
+sufficient to raise the limit of the possible federal sentence
+must be found by a jury, absent a waiver by the
+defendant–is also relevant to ACCA sentencing. In a
+nongeneric State, the fact necessary to show a generic crime is
+not established by the record of conviction as it would be in a
+generic State when a judicial finding of a disputed prior
+conviction is made on the authority of Almendarez-Torres
+v. United States, 523 U.S. 224. 
+Instead, the sentencing judge considering the ACCA enhancement
+would (on the Government’s view) make a disputed finding
+of fact about what the defendant and state judge must have
+understood as the prior plea’s factual basis, and the
+dispute raises the concern underlying Jones and
+Apprendi: the Sixth and Fourteenth
+Amendments guarantee a jury’s standing between a
+defendant and the power of the State, and they guarantee a
+jury‘s finding of any disputed fact essential to increase
+a potential sentence’s ceiling. The disputed fact here is
+too far removed from the conclusive significance of a prior
+judicial record, and too much like the findings subject to
+Jones and Apprendi, to say that
+Almendarez-Torres clearly authorizes a judge to resolve
+the dispute. The rule of reading statutes to avoid serious
+risks of unconstitutionality therefore counsels the Court to
+limit the scope of judicial factfinding on the disputed generic
+character of a prior plea. Pp. 10—12.
+
+ Justice Thomas
+agreed that the Court should not broaden the scope of the
+evidence judges may consider under Taylor v. United
+States, 495 U.S.
+575, because it would give rise to constitutional error,
+not constitutional doubt. Both Almendarez-Torres v.
+United States, 523 U.S. 224, and
+Taylor, which permit judicial factfinding that concerns
+prior convictions, have been eroded by this Court’s
+subsequent Sixth
+Amendment jurisprudence. Pp. 1—3.
+
+ Souter, J., delivered
+an opinion, which was for the Court except as to Part III. 
+Stevens, Scalia, and Ginsburg, JJ., joined that opinion in
+full, and Thomas, J., joined except as to Part III. Thomas,
+J., filed an opinion concurring in part and concurring in the
+judgment. O’Connor, J., filed a dissenting opinion, in
+which Kennedy and Breyer, JJ., joined. Rehnquist, C. J.,
+took no part in the decision of the case.

@@ -1,0 +1,301 @@
+Office of the Solicitor General |  Rancho v. Abrams - Amicus Curiae (Merits) | United States Department of Justice
+Skip to main content
+An official website of the United States government
+Here's how you know
+Here's how you know
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+DOJ Menu
+U.S. Department
+                            of Justice
+About
+The Attorney General
+Organizational Chart
+Budget & Performance
+History & Museum
+Privacy Program
+Our Work
+News
+Press Releases
+Speeches
+Videos
+Photo Galleries
+Blogs
+Podcasts
+Resources
+Guidance Documents
+Forms
+Publications
+Information for Victims in Large Cases
+Justice Manual
+Business and Contracts
+Grants
+Employment
+Why Justice ?
+Benefits
+DOJ Vacancies
+Legal Careers at DOJ
+Our Offices
+Find Help
+Contact Us
+Utilities
+Our Offices
+Find Help
+Contact Us
+Search
+Menu
+Close
+About
+About
+Solicitors General 1870 - Present
+The Solicitor General in Historical Context
+Briefs
+Employment Opportunities
+FOIA
+Contact
+Our Offices
+Find Help
+Contact Us
+Main Menu
+U.S. Department of Justice
+About
+title="About"
+About
+The Attorney General
+Organizational Chart
+Budget & Performance
+History & Museum
+Privacy Program
+Our Work
+News
+title="News"
+News
+Press Releases
+Speeches
+Videos
+Photo Galleries
+Blogs
+Podcasts
+Resources
+title="Guidance & Resources"
+Resources
+Guidance Documents
+Forms
+Publications
+Information for Victims in Large Cases
+Justice Manual
+Business and Contracts
+Grants
+Employment
+Employment
+Why Justice ?
+Benefits
+DOJ Vacancies
+Legal Careers at DOJ
+Our Offices
+Find Help
+Contact Us
+Search
+Breadcrumb
+Justice.gov
+Office of the Solicitor General
+Briefs
+Rancho V. Abrams - Amicus Curiae (Merits)
+Brief
+Rancho v. Abrams - Amicus Curiae (Merits)
+Share
+Facebook
+X
+LinkedIn
+Email
+Docket Number
+No. 03-1601
+Supreme Court Term
+2004 Term
+Type
+Merits Stage Amicus Brief
+Court Level
+Supreme Court
+No. 03-1601
+In the Supreme Court of the United States
+CITY OF RANCHO PALOS VERDES, CALIFORNIA, ET AL., PETITIONERS
+v.
+MARK J. ABRAMS
+ON WRIT OF CERTIORARI
+TO THE UNITED STATES COURT OF APPEALS
+FOR THE NINTH CIRCUIT
+BRIEF FOR THE UNITED STATES
+AS AMICUS CURIAE SUPPORTING PETITIONERS
+PAUL D. CLEMENT Acting Solicitor General
+Counsel of Record
+PETER D. KEISLER
+Assistant Attorney General
+THOMAS G. HUNGAR
+Deputy Solicitor General
+JAMES A. FELDMAN
+Assistant to the Solicitor 	General
+THOMAS M. BONDY
+I. GLENN COHEN
+Attorneys
+Department of Justice
+Washington, D.C. 20530-0001
+(202) 514-2217
+QUESTION PRESENTED
+Section 332(c)(7)(B)(v) of the Communications Act of 1934, 47 U.S.C. 332(c)(7)(B)(v), authorizes "[a]ny person adversely affected" by a state or local decision regarding the placement and construction of wireless service facilities to bring an action challenging the decision in federal court on the ground that it does not comply with the federal standards set forth in Section 332(c)(7)(B) of the Act.  The question presented is:
+Whether a plaintiff may also bring an action in federal court under 42 U.S.C. 1983 challenging such a state or local decision on the same ground.
+In the Supreme Court of the United States
+No. 03-1601
+CITY OF RANCHO PALOS VERDES, CALIFORNIA, ET AL., PETITIONERS
+v.
+MARK J. ABRAMS
+ON WRIT OF CERTIORARI
+TO THE UNITED STATES COURT OF APPEALS
+FOR THE NINTH CIRCUIT
+BRIEF FOR THE UNITED STATES
+AS AMICUS CURIAE SUPPORTING PETITIONERS
+INTEREST OF THE UNITED STATES
+This case presents the question whether a plaintiff may pursue an action for damages and attorney's fees under 42 U.S.C. 1983 and 1988 to challenge the conformity of a local governmental decision to a federal statute, where the plaintiff can enforce the same federal rights under an express right of action created by the federal statute at issue.  The United States is involved in a wide array of federal-state cooperative programs and regulatory regimes in which authority, program implementation, and fiscal responsibility are allocated in various ways among federal, state, and local governmental entities.  As a consequence, the United States has a substantial interest in the standards by which courts decide whether the statutory provisions establishing such programs and regulatory regimes are enforceable under 42 U.S.C. 1983.  The United States has participated as amicus curiae in a number of this Court's cases presenting such questions in recent years. See, e.g., Gonzaga Univ. v. Doe, 536 U.S. 273 (2002); Blessing v. Freestone, 520 U.S. 329 (1997); Suter v. Artist M., 503 U.S. 347 (1992); Wilder v. Virginia Hosp. Ass'n, 496 U.S. 498 (1990).
+STATEMENT
+1.	Legal Framework
+Providers of personal wireless services (such as cellular telephone service) require a network of facilities in order to supply their services to the public.  For example, wireless service providers often erect antennas on top of communications towers.
+Although local zoning boards do not regulate wireless communications directly, their antenna siting decisions historically have threatened to impede the development of wireless communications.  See H.R. Rep. No. 204, 104th Cong., 1st Sess. 95 (1995).  When Congress considered telecommunications reform, it found that zoning had impaired the development of the wireless telecommunications industry.  Congress concluded that "[s]tate and local requirements, siting[,] and zoning decisions" had "created an inconsistent, and, at times, conflicting patchwork of requirements" that were "inhibit[ing] the deployment" of wireless communications services.  Id. at 94.
+Congress enacted the Telecommunications Act of 1996 (TCA) to "promote competition and reduce regulation in order to secure lower prices and higher quality services for American telecommunications consumers and encourage the rapid deployment of new telecommunications technologies."  TCA, Pub. L. No. 104-104, Preamble, 110 Stat. 56.  While recognizing that the States retain primary authority for land use regulation, the TCA amended Section 332(c) of the Communications Act to impose specific restrictions on state and local regulation of personal wireless service facilities. See 47 U.S.C. 332(c)(7); see also Nextel Partners Inc. v. Kingston Township, 286 F.3d 687, 691 (3d Cir. 2002).
+Section 332(c)(7) provides that, "[e]xcept as provided" in its own subparagraphs, "nothing in [the Communications Act] shall limit or affect the authority of a State or local government  *  *  *  over decisions regarding the placement, construction, and modification of personal wireless facilities."  47 U.S.C. 332(c)(7)(A). In a subparagraph entitled "Limitations," the Act then details the restrictions on the exercise of such state or local authority.  The substantive constraints imposed by that provision are that state and local regulation may not "unreasonably discriminate among providers of functionally equivalent services" or "prohibit or have the effect of prohibiting the provision of personal wireless services."  47 U.S.C. 332(c)(7)(B)(i).  In the only provision expressly granting the Federal Communications Commission (FCC) a role, the Act also precludes state or local regulation of "personal wireless service facilities on the basis of the environmental effects of radio frequency emissions to the extent that such facilities comply with the [Federal Communications] Commission's regulations concerning such emissions."  47 U.S.C. 332(c)(7)(iv).1  Section 322(c)(7)(B) also imposes procedural restrictions on state and local decisionmaking, specifying that decisions denying a placement or construction permit must be "in writing and supported by substantial evidence contained in a written record," 47 U.S.C. 332(c)(7)(B)(iii), and that zoning authorities must act on a request for a permit within a reasonable period of time, 47 U.S.C. 332(c)(7)(B)(ii).
+Finally, the Act contains an explicit provision authorizing an action in court to enforce its limitations:
+Any person adversely affected by any final action or failure to act by a State or local government or any instrumentality thereof that is inconsistent with this subparagraph may, within 30 days after such action or failure to act, commence an action in any court of competent jurisdiction.  The court shall hear and decide such action on an expedited basis.
+47 U.S.C. 332(c)(7)(B)(v).
+2.	Factual And Procedural Background
+a.	Respondent, Mark J. Abrams, is an FCC-licensed amateur radio operator who also provided personal wireless services from his home.  Pet. App. 2a.  In 1990, petitioner, the City of Rancho Palos Verdes, California, granted respondent a permit to construct a 40-foot antenna on his property for amateur use.  Id. at 2a, 22a. In April 1990, a permit was issued, perhaps mistakenly, allowing respondent to extend his antenna to its current height of 52.5 feet.  Id. at 22a.  Notwithstanding that his permit allowed only amateur use, respondent used the antenna for both commercial and amateur use.  Id. at 2a.  In 1999, after the City learned of respondent's unauthorized commercial use, it obtained an injunction preventing him from using his antenna for commercial purposes until he obtained a conditional use permit.  Ibid.
+Respondent applied for the conditional use permit, but the City's Planning Department adopted a resolution denying the permit application.  Pet. App. 23a; see id. at 54a-63a.  Respondent appealed the decision to the City Council, which adopted a resolution upholding the Planning Commission's decision.  Id. at 34a-53a.  The City Council's resolution stated as its reasons that respondent's antenna had been used for commercial and not solely amateur purposes as authorized by his permit, id. at 39a-40a; the antenna exceeded 40 feet in height, id. at 39a; the antenna would "perpetuate existing adverse visual impacts in support of a use that disproportionately benefits the commercial interests of the applicant to the detriment of the immediately surrounding neighborhood," id. at 41a; and approving the permit would set a precedent for similar projects with adverse visual impacts, ibid.
+The City Council also addressed the relevant provisions of the Communications Act.  The Council stated that there was no discrimination among service providers because the permit denial rested on the adverse visual and aesthetic impacts of the antenna and respondent's refusal to mitigate those effects.  Pet. App. 47a-48a.  The Council also concluded that the denial did not prohibit the provision of wireless services because there was an alternative site in the city where respondent could increase his transmission coverage, id. at 48a-49a, and he could achieve better coverage through the use of multiple, smaller antennas, ibid.
+b.	Respondent brought suit in the United States District Court for the Central District of California and invoked both the cause of action specifically provided by Section 332(c)(7)(B)(v) of the Communications Act and 42 U.S.C. 1983.  Respondent filed his action within the strict time deadline provided by Section  332(c)(7)(B)(v).  He claimed that the City Council's determination violated Section 332(c)(7) of the Communications Act in three ways: (1) it unreasonably discriminated against providers of functionally equivalent personal wireless services (47 U.S.C. 332 (c)(7)(B)(i)(I)), (2) it had the effect of prohibiting the provision of personal wireless services (47 U.S.C. 332(c)(7)(B)(i)(II)), and (3) it was not supported by substantial evidence contained in the written record (47 U.S.C. 332(c)(7)(B)(iii)).  Pet. App. 17a.  Respondent sought both an injunction requiring the City to issue a permit allowing commercial use of the tower, and damages and attorney's fees under 42 U.S.C. 1983 and 1988.  Pet. App. 17a-18a.
+The district court found that the City's decision was not supported by substantial evidence contained in the written record.  Pet. App. 25a-26a.  The court rejected, however, respondent's claim that the decision had the effect of prohibiting the provision of personal wireless services, id. at 32a, and, in light of its disposition, found it unnecessary to determine whether the decision unreasonably discriminated against providers of functionally equivalent personal wireless services, id. at 30a.  As relief, the district court entered an order vacating the City Council's denial of respondent's permit, remanded the matter to the City Council, and ordered the City Council to grant the permit subject to reasonable conditions.  Id. at 13a-15a.  The district court denied the request for damages and attorney's fees under 42 U.S.C. 1983 and 1988, concluding that those remedies were unavailable.  Pet. App. 14a-15a.
+c.	Respondent sought appellate review of the district court's determination that remedies under Section 1983 and 1988 were not available for the City's violation of the "substantial evidence" requirement of Section 332(c)(7)(B)(iii).  Pet. App. 3a.  The Ninth Circuit reversed and remanded, id. at 12a, disagreeing with the Third and Seventh Circuits.  See PrimeCo Pers. Communications, Ltd. Partnership v. City of Mequon, 352 F.3d 1147, 1152-1153 (7th Cir. 2003); Nextel Partners, supra.
+The court of appeals noted at the outset that, in order to establish the availability of Section 1983 to remedy violation of a federal statute, the plaintiff bears the burden of establishing that Congress, in enacting the relevant statute, intended to create a federal right.  Pet. App. 3a-4a; see Gonzaga Univ. v. Doe, 536 U.S. 273, 283 (2002); Blessing v. Freestone, 520 U.S. 329, 340 (1997).  The court observed, however, that "[t]he parties do not dispute the fact that the TCA clearly grants enforceable 'rights.'"  Pet. App. 4a.  The court therefore concluded that "the only question in this case is whether the City can rebut the presumption that Congress intended § 1983 remedies to be available for TCA violations."  Ibid.
+The court of appeals recognized this Court's conclusion that "[o]nce a plaintiff demonstrates that a statute confers an individual right, the right is presumptively enforceable by § 1983," Gonzaga Univ., 536 U.S. at 284, but that the presumption could be overcome by showing, inter alia, that Congress "creat[ed] a comprehensive enforcement scheme that is incompatible with individual enforcement under § 1983."  Id. at 285 n.4 (quoting Blessing, 520 U.S. at 341).  See Pet. App. 3a-5a.  Here, the court of appeals was of the view that Section 332(c)(7) did not establish such a scheme.
+Recognizing that Section 332(c)(7) established a "private right of action" for "expedited judicial review" subject to "a short statute of limitations (30 days)," the court of appeals found that the Section 332(c)(7) remedial scheme was insufficient to "close the door on  § 1983 liability," because it did "not provide for any type of relief."  Pet. App. 5a-7a.  The court of appeals rejected the argument that Section 332(c)(7) was "remedial," concluding instead that "[s]hortening the limitations period to thirty days imposes a burden on an aggrieved plaintiff, not a benefit."  Id. at 8a. Acknowledging that Section 332(c)(7) does provide expedited judicial review, the court stated that "an expedited decision does nothing to remedy a TCA violation in itself.  Significantly, a court can fully comply with all of the TCA's provisions before it determines liability. Thus, the TCA contains procedural, rather than remedial, provisions."  Id. at 8a-9a.
+The court also rejected the argument that Congress's intent to preclude recourse to Section 1983 could be gleaned from the incompatibility of Section 332(c)(7)'s 30-day limitations period and requirement of expedited review with Section 1983's longer limitations period and lack of an expedited review requirement.  In the court's view, "Congress can limit the time in which a plaintiff can file for relief, and require an expeditious review in any court of competent jurisdiction, without inadvertently limiting the plaintiff's remedies at the same time," and the Section 332(c)(7) restrictions are accordingly "compatible with § 1983's remedial provisions." Pet. App. 9a.
+Finally, the court of appeals also relied on the TCA's general savings clause, Pub. L. No. 104-104, Tit. VI,  § 601(b)(1), 110 Stat. 143 (47 U.S.C. 152 note), as preserving a Section 1983 action.  Pet. App. 10a-12a.  The court distinguished the rejection of a similar savings clause argument in Middlesex County Sewerage Authority v. National Sea Clammers Ass'n, 453 U.S. 1, 20 n.31 (1981), by noting that the "TCA's general savings clause forbids the impairment of any federal 'law'-not the impairment of any 'right.'  Thus, the TCA's general savings clause sweeps more broadly than those the Supreme Court evaluated in Sea Clammers and includes § 1983 within its ambit."  Pet. App. 12a.
+SUMMARY OF ARGUMENT
+Determining whether an alleged violation of a federal statute gives rise to a Section 1983 action generally involves a two-part inquiry.  The court must first ask whether the plaintiff has shown that the statutory provision in question gives rise to a federal right.  Where the existence of a federal right is established, Section 1983 is unvailable upon a showing that Congress either expressly shut the door to private enforcement or impliedly created a comprehensive remedial scheme that is incompatible with enforcement under Section 1983. Especially in the context of a statute that creates an express, but limited, cause of action, the ultimate inquiry must focus on whether Congress intended that express cause of action to be exclusive.  That is clearly the case with respect to Section 332(c)(7)(B)(v) of the Communications Act.
+Section 332(c)(7)'s scheme is comprehensive in that it permits aggrieved persons to bring suit and obtain meaningful judicial relief for violations of the statutory requirements at issue in a way that is specifically targeted to the relevant context.  A statutory scheme need not be complex in order to be sufficiently comprehensive to reflect an intent to foreclose resort to Section 1983.  If a statute expressly creates a cause of action that provides for meaningful relief, it is "comprehensive" in the relevant sense.
+Section 332(c)(7) is remedial in that it provides, at the very least, for expedited judicial review and the availability of injunctive relief.  The court of appeals mistakenly believed that the scheme provided for no relief at all, but settled law establishes that the absence of an express enumeration of permissible forms of relief in Section 332(c)(7)(B)(v) has the effect of conferring on courts the authority to grant appropriate relief, which surely includes at least injunctive relief.  And a remedial scheme need not be as generous as Section 1983 in order to displace it. Indeed, efforts to tailor a remedial scheme to the specific context by limiting the time of filing or the types of remedies available evinces an intent to provide a set of remedies distinct from Section 1983.
+The scheme established by Section 332(c)(7) is incompatible with enforcement under Section 1983.  Section 1983 provides for damages and attorney's fees (via Section 1988), whereas Congress precluded the award of such attorney's fees, in accordance with the traditional American Rule, by failing to provide for them in Section 332(c)(7)(B)(v).  Moreover, while Section 1983 actions are governed by their own limitations rules, Section 332(c)(7)(B)(v) prominently features an abbreviated 30-day statute of limitations period, paired with a requirement of expedited review.  Although the court of appeals suggested that the 30-day limitations period under Section 332(c)(7)(B)(v) might be applicable in a Section 1983 suit brought to enforce Section 332(c)(7), there is no legal basis for allowing a claim-specific statute of limitations to trump Section 1983's limitations period.  The more straightforward way to reconcile the two statutes is to read Section 332 (c)(7)(B)'s express cause of action, not just its limitations period, as exclusive.
+Finally, the Telecommunications Act's general savings clause does not suggest a different result.  In Sea Clammers, this Court rejected a similar savings clause argument, and the modest differences in wording between the savings clauses in Sea Clammers and the savings clause here do not warrant a different result.  In any event, precluding a Section 1983 remedy here would not "modify, impair, or supersede" Section 1983 under the terms of the TCA's savings clause.  TCA  § 601(b)(1), 110 Stat. 143 (47 U.S.C. 152 note).  To the contrary, it would leave Section 1983 actions available in precisely the same circumstances as before Section 332(c)(7)(B)(v) was enacted.
+ARGUMENT
+I.	SECTION 332(c)(7) PROVIDES AN EXPLICIT REMEDIAL SCHEME THAT IS INCOMPATIBLE WITH A RIGHT OF ACTION UNDER 42 U.S.C. 1983
+Section 1983 creates a private cause of action against any person who, under color of state law, deprives another "of any rights, privileges, or immunities secured by the Constitution and laws" of the United States.  See App., infra, 2a-3a.  This Court held in Maine v. Thiboutot, 448 U.S. 1 (1980), that Section 1983 "means what it says" and authorizes suits by private individuals against state actors to enforce rights created by federal statutes as well as those created by the Constitution.  Id. at 4.  This Court has reaffirmed that holding on numerous occasions.  See, e.g., Gonzaga Univ., 536 U.S. at 279; Blessing, 520 U.S. at 340; Suter v. Artist M., 503 U.S. 347, 355 (1992); Wilder v. Virginia Hosp. Ass'n, 496 U.S. 498, 508 (1990); Wright v. City of Roanoke Redevelopment & Hous. Auth., 479 U.S. 418, 423 (1987).
+Not all federal statutes create rights, however, and this Court has established a two-step method of analysis for determining the availability of a Section 1983 action for the violation of a federal statute.  E.g., Gonzaga Univ., 536 U.S. at 284-285 & n.4; Blessing, 520 U.S. at 340-341; Golden State Transit Corp. v. City of Los Angeles, 493 U.S. 103, 106 (1989).
+First, the plaintiff has the burden of establishing that Congress, in enacting the statute, "intended to create a federal right."  Gonzaga Univ., 536 U.S. at 283.  Gonzaga University makes clear that "if Congress wishes to create new rights enforceable under § 1983, it must do so in clear and unambiguous terms."  Id. at 290. Ordinarily, the statute at issue must contain "'rights- creating' language," id. at 287 (quoting Alexander v. Sandoval, 532 U.S. 275, 288 (2001), and Cannon v. University of Chicago, 441 U.S. 677, 690 n.13 (1979)), and must confer an "individual entitlement" rather than reflecting an "aggregate" focus, Gonzaga, 536 U.S. at 287-288 (quoting Blessing, 520 U.S. at 343).  Earlier cases suggested as well that the plaintiff must establish that "Congress must have intended that the provision in question benefit the plaintiff," "that the right assertedly protected by the statute is not so 'vague and amorphous' that its enforcement would strain judicial competence," and that "the provision giving rise to the asserted right must be couched in mandatory, rather than precatory, terms."  Id. at 282 (quoting Blessing, 520 U.S. at 340-341).
+"Once a plaintiff demonstrates that a statute confers an individual right, the right is presumptively enforceable by § 1983."  Gonzaga Univ., 536 U.S. at 284.  That presumption may be overcome by establishing that Congress "specifically foreclosed a remedy under  § 1983."  Smith v. Robinson, 468 U.S. 992, 1005 n.9 (1984).  Such a showing may be made by demonstrating "that Congress shut the door to private enforcement either expressly, through 'specific evidence from the statute itself,' Wright v. Roanoke Redevelopment and Housing Authority, 479 U.S. 418, 423 (1987), or 'impliedly, by creating a comprehensive enforcement scheme that is incompatible with individual enforcement under § 1983,' Blessing v. Freestone, 520 U.S. 329, 341 (1997)."  Gonzaga Univ., 536 U.S. at 284-285 n.4; see Wilder, 496 U.S. at 521 (Section 1983 action impliedly "foreclosed only when the statute itself creates a remedial scheme that is 'sufficiently comprehensive  .  .  . to demonstrate congressional intent to preclude the remedy of suits under § 1983'") (quoting Sea Clammers, 453 U.S. at 20).
+Thus, a statutory scheme that is "comprehensive," "remedial," and "incompatible with individual enforcement under § 1983" will be found to have impliedly displaced an action under Section 1983.  E.g., Gonzaga Univ., 536 U.S. at 285 n.4; Blessing, 520 U.S. at 341; Sea Clammers, 453 U.S. at 20.  Moreover, when Congress creates an express cause of action that is limited in important ways that reflect the specific statutory context, the ultimate question remains whether Congress intended the express statutory cause of action to supplant the Section 1983 remedy.  Properly understood against the backdrop of this Court's Section 1983 jurisprudence and Congress's decision to provide an express, but limited, cause of action, Section 332(c)(7) of the Communications Act impliedly forecloses a Sectoin 1983 cause of action.
+A.	Section 332(c)(7) Is A "Comprehensive" Scheme Within The Meaning Of This Court's Precedent Because It Allows Private Parties To Obtain Judicial Review Of Alleged Violations Of The Statutory Requirements
+1.	In two cases, this Court has found a federal statutory scheme to be sufficiently comprehensive so as to displace Section 1983.  The first of those cases, Sea Clammers, involved the Federal Water Pollution Control Act, 33 U.S.C. 1251 et seq., and the Marine Protection, Research, and Sanctuaries Act of 1972, 33 U.S.C. 1401 et seq., which this Court described as having "unusually elaborate enforcement provisions."  453 U.S. at 13.  The statutes at issue in Sea Clammers provided for administrative enforcement by the Administrator of the Environmental Protection Agency or a State that administers its own permit program; judicial review at the behest of "any interested person" of a number of EPA actions, including the issuance of permits; and citizen suits by private persons for injunctions against pollution by violators.  Id. at 13-14, 17.  This Court concluded that "the existence of these express remedies demonstrates  *  *  *  that Congress intended to  *  *  *  supplant any remedy that otherwise would be available under § 1983."  Id. at 21.
+The second case, Smith v. Robinson, 468 U.S. 992 (1984), involved proceedings to secure a free and appropriate public education under the Education of the Handicapped Act, 20 U.S.C. 1400 et seq. (1982).  The Act provided, inter alia, for notice to a handicapped child's parent any time a state agency proposed or refused to initiate a change in status, 20 U.S.C. 1415(b)(1)(C) (1982), an opportunity for the parents to inspect their child's records, 20 U.S.C. 1415(b)(1)(A) (1982), and the right to an "impartial due process hearing" with enumerated rights, 20 U.S.C. 1415(b)(2) and (d) (1982). Additionally, the Act allowed a child's parent or guardian to appeal the decision by the hearing officer to the state education agency, and ultimately to a federal district court if unsatisfied with the results.  20 U.S.C. 1415(c) and (e) (1982).  Noting the Act's "elaborate procedural mechanism to protect the rights of handicapped children," 468 U.S. at 1010-1011, this Court found that the availability of a Section 1983 action "would  *  *  *  render superfluous most of the detailed procedural protections outlined in the statute," id. at 1011, which "would be inconsistent with Congress' carefully tailored scheme," id. at 1012.
+2.	While the relevant provisions of the Communications Act are less complex than the enforcement schemes in Sea Clammers and Robinson, they are nonetheless "sufficiently comprehensive" to preclude a statute-specific Section 1983 action.  When Congress expressly creates a cause of action and limits that cause of action in ways that are sensitive to the particular statutory context, there is every reason to think that Congress means the new cause of action to supplant the Section 1983 remedy and to provide a "comprehensive" and complete remedial scheme.  Sea Clammers, 453 U.S. at 20.
+Section 332(c)(7)(B)(v) provides in relevant part:
+Any person adversely affected by any final action or failure to act by a State or local government or any instrumentality thereof that is inconsistent with [these provisions] may, within 30 days after such action or failure to act, commence an action in any court of competent jurisdiction.  The court shall hear and decide such action on an expedited basis.
+See App., infra, 2a.  Section 332(c)(7)(B)(v) undoubtedly creates a cause of action-i.e., a right in a particular class of persons ("[a]ny person adversely affected") "to judicially enforce the statutory rights or obligations."  Davis v. Passman, 442 U.S. 228, 239 (1979).  That cause of action has two important express incidents that reflect the unique context in which such actions arise: a 30-day limitations period for commencing an action, and a requirement for expeditious resolution of the plaintiff's claim by the court.  In addition, Section 332(c)(7)(B)(v) necessarily provides for injunctive relief as a remedy.  See Franklin v. Gwinnett County Pub. Schs., 503 U.S. 60, 69 (1992) ("if a right of action exists to enforce a federal right and Congress is silent on the question of remedies, a federal court may order  *  *  *  appropriate relief"); see also Deckert v. Independence Shares Corp., 311 U.S. 282, 288 (1940) (equitable relief is appropriate, despite lack of express statutory reference to such relief).2
+Congress's creation of a judicial cause of action such as Section 332(c)(7)(B)(v) to enforce a federal right, with its express and necessarily implied incidents under federal law, is "sufficiently comprehensive" to indicate a congressional intent to preclude a Section 1983 action to enforce the same right.  Although such a cause of action may not be complex, it is "comprehensive" in the relevant sense because it provides all that is necessary to enable persons benefitted by the statute to obtain judicial relief for violations of the federal protections at issue.  See Nextel Partners, 286 F.3d at 694 (comprehensiveness turns here on "the availability of private judicial remedies under the statute giving rise to the claim").  The availability of private judicial remedies was the element that the statutes in Sea Clammers and Robinson had in common, and it is a sufficient condition for a Congressional enactment to be deemed "comprehensive" for purposes of supplanting an action under Section 1983.3
+3.	That conclusion is supported by three cases in which the Court found a Section 1983 remedy available: Wright v. City of Roanoke Redevelopment & Housing Authority, 479 U.S. 418 (1987), Wilder v. Virginia Hospital Ass'n, 496 U.S. 498 (1990), and Blessing v. Freestone, 520 U.S. 329 (1997).
+In Wright, low-income housing tenants sought to sue a public housing authority for the imposition of a utility consumption surcharge that they claimed deprived them of their statutory right to pay only the prescribed maximum portion of their income as rent.  479 U.S. at 420-422.  The statutory program as interpreted by the Fourth Circuit was more complicated than the one in this case, providing that "[u]nder the statute the Secretary performs extensive audits to verify the authorities' compliance with the conditions of the ACC, and HUD is authorized, as contract promisee, to enforce compliance by the most drastic possible means:  termination of the federal subsidies under the contract."  Wright v. City of Roanoke Redevelopment & Hous. Auth., 771 F.2d 833, 836 (4th Cir. 1985) (quoting Phelps v. Housing Auth., 742 F.2d 816, 821 (4th Cir. 1984)).  This Court found, however, that, although the scheme was complex, it was not sufficiently "comprehensive" because of its lack of a judicial review provision:  "In both Sea Clammers and Smith v. Robinson, the statutes at issue themselves provided for private judicial remedies, thereby evidencing congressional intent to supplant the § 1983 remedy. There is nothing of that kind found in the   *  *  *  Housing Act." 479 U.S. at 427 (emphasis added).
+In Wilder, an association of public and private hospitals sought to bring suit under Section 1983 challenging the method by which States reimbursed health care providers under a provision of the Medicaid Act,  42 U.S.C. 1396, that required reimbursement according to rates that a "State finds, and makes assurances satisfactory to the Secretary, are reasonable and adequate to meet the costs which must be incurred by efficiently and economically operated facilities," 42 U.S.C. 1396a(a)(13)(A) (Supp. V 1988).  Wilder, 496 U.S. at 501-502. In finding that the Act did not create a comprehensive remedial scheme sufficient to displace Section 1983, this Court again contrasted the scheme at issue with the ones set out in Sea Clammers and Smith v. Robinson, emphasizing that "[t]he Medicaid Act contains no comparable provision for private judicial or administrative enforcement."  Id. at 521 (emphasis added).
+Similarly, in Blessing, where mothers whose children were eligible for state child support services under Title IV-D of the Social Security Act filed a Section 1983 suit against the Director of the Arizona Department of Economic Security, this Court again found that the lack of a private remedy made the remedial scheme insufficiently comprehensive to bar relief under Section 1983:
+The enforcement scheme that Congress created in Title IV-D is far more limited than those in Sea Clammers and Smith.  Unlike the federal programs at issue in those cases, Title IV-D contains no private remedy-either judicial or administrative- through which aggrieved persons can seek redress.  The only way that Title IV-D assures that States live up to their child support plans is through the Secretary's oversight.
+520 U.S. at 348 (citation omitted).  Cf. Livadas v. Bradshaw, 512 U.S. 107, 133-134 (1994) (Congress did not mean "to foreclose relief under § 1983" where statute contains "complete absence of provision for relief  from governmental interference").  Here, Section 332(c)(7)(B)(v) does provide a private judicial remedy to ensure that States and local governments live up to their obligations.  Accordingly, it is sufficiently comprehensive to preclude a Section 1983 action based on violation by a state or local government of the obligations imposed by Section 332(c)(7).
+B.	The Court Of Appeals' Conclusion That Section 332 (c)(7)(B)(v) Is Not "Remedial" Is Mistaken
+1.	The main thrust of the court of appeals' reasoning was that Section 332(c)(7) is insufficiently "remedial" because it "does not provide for any type of relief."  Pet. App. 7a.  That reading of the statute is mistaken.
+Initially, the court of appeals erred in concluding (Pet. App. 7a) that Section 332(c)(7)(B)(v) "contains no remedies at all."  In common with many other federal causes of action (including Section 1983 itself), Section 332(c)(7)(B)(v) does not specify the relief permitted.  It is settled law, however, that Congress's failure to specify particular remedies in providing for a cause of action does not, at a minimum, preclude the availability of injunctive relief.  See pp. 16-17, supra.  Indeed, if no remedy were available to redress a violation of Section 332(c)(7), federal courts would lack Article III jurisdiction to hear an action under that provision, see Steel Co. v. Citizens for a Better Env't, 523 U.S. 83, 103, 105-106 (1998), and Congress's attempt to create a cause of action would simply be a nullity.  The court of appeals' belief that Section 332(c)(7)(B)(v) "contains no remedies at all" is mistaken.
+2.	The court of appeals also appeared to rest its holding on the court's perception that Section 332(c)(7)(B)(v) is not "remedial" because the statutory 30-day limitations period "imposes a burden on an aggrieved plaintiff, not a benefit," and "[t]he only benefit to an aggrieved plaintiff is expedited judicial review."  Pet. App. 8a.  The appropriate inquiry in a case like this is whether Congress expressly or impliedly intended to supplant a Section 1983 remedy, not whether Congress intended to grant a "benefit" to plaintiffs.  But even if the inquiry were focused on whether Section 332(c)(7)(B)(v) grants a "benefit," the court of appeals would be mistaken.  Section 332(c)(7)(B)(v) creates a most notable "benefit"-an express cause of action for an aggrieved person to obtain judicial relief from a flawed state or local decision concerning the siting or construction of personal wireless service facilities.
+Insofar as the court of appeals reasoned that a Section 1983 cause of action should be available because Section 332(c)(7)(B) confers no "benefit" on a plaintiff in comparison with Section 1983, that inquiry would be fundamentally mistaken.  Having determined that the plaintiff possesses a federal right-an issue that was not litigated by the parties in this case, see Pet. App. 4a-a court applying the Gonzaga inquiry must next determine whether Congress "shut the door to private enforcement either expressly  *  *  *  or impliedly." 536 U.S. at 284 n.4 (internal quotation marks omitted). Where Congress has expressly created an alternative judicial remedy that contains restrictions not found in Section 1983, that provides a strong indication that Congress intended those restrictions-and not the more generous standards applicable to a Section 1983 action-to apply.  See Sea Clammers, 453 U.S. at 20 ("[W]hen a state official is alleged to have violated a federal statute which provides its own comprehensive enforcement scheme, the requirements of that enforcement procedure may not be bypassed by bringing  suit directly under § 1983.") (internal quotation marks omitted).  Thus, the fact that an express cause of action in this sense confers no "benefit" on a plaintiff relative to Section 1983 strongly supports the conclusion that Congress intended to preclude a plaintiff from bringing a Section 1983 action in its place.  Indeed, the court of appeals' reasoning to the contrary would lead to the conclusion that the only cause of action sufficient to displace Section 1983 would be one that (at a minimum) reproduced Section 1983.  Cf., e.g., Playboy Enters., Inc. v. Public Serv. Comm'n, 906 F.2d 25, 33 (1st Cir.) ("For certain, a statute's express remedies need not be as comprehensive or efficient as § 1983 in order to evince an intent to preclude use of § 1983."), cert. denied, 498 U.S. 959 (1990).
+C.	A Right Of Action Under Section 1983 Would Be Incompatible With Section 332(c)(7)
+This Court has indicated that Congress's intention to displace Section 1983 may also be evidenced by incompatibilities between Section 1983 and the particular statute for which Section 1983 is said to provide a remedy.  See Gonzaga Univ., 536 U.S. at 284 n.4; Blessing, 520 U.S. at 342.  Here, at least two such incompatibilities are present.
+First, application of Section 1983 would allow the award of attorney's fees to a party who prevailed on a claim that the underlying strictures of Section 332(c) had been violated.  See 42 U.S.C. 1988.  As this Court has explained, however, "it is the general rule in this country that unless Congress provides otherwise, parties are to bear their own attorney's fees."  Fogerty v. Fantasy, Inc., 510 U.S. 517, 533 (1994); see Alyeska Pipeline Serv. Co. v. Wilderness Soc'y, 421 U.S. 240, 247-262 (1975).  Congress, which is surely aware of that rule, did not provide for awards of attorney's fees in Section 332(c)(7)(B)(v), and a prevailing plaintiff in a suit brought directly under that provision would thus have no entitlement to a fee award.  For that reason, permitting a Section 1983 action would be incompatible with Section 332(c)(7).  See PrimeCo Pers., 352 F.3d at 1152; Nextel Partners, 286 F.3d at 695.
+Second, Section 332(c)(7)(B)(v) provides that a suit must be commenced within 30 days of the action or failure complained of, and requires the court hearing the suit to adjudicate it "on an expedited basis."  The evident purpose of those requirements is to speedily resolve siting disputes and effectuate "the rapid deployment of new telecommunications technologies" in furtherance of the public interest.  TCA Preamble, 110 Stat. 56.  By contrast, Section 1983 is subject to its own limitations rules-either the four-year period provided for in 28 U.S.C. 1658, see Jones v. R.R. Donnelley  & Sons Co., 124 S. Ct. 1836 (2004), or the appropriate state limitations period under Wilson v. Garcia, 471 U.S. 261, 267 (1985); see 42 U.S.C. 1988(a).4  For that reason as well, permitting an action under Section 1983 would be incompatible with Section 332(c)(7)(B)(v).  Cf. Great Am. Fed. Sav. & Loan Ass'n v. Novotny, 442 U.S. 366, 376 (1979) (Title VII violations could not be asserted under 42 U.S.C. 1985 because, among other reasons, "[t]he short and precise time limitations of Title VII would be grossly altered").
+The court of appeals suggested that any incompatibility between the limitations periods in Sections 332(c)(7) and 1983 could be minimized by engrafting onto a Section 1983 action the short filing period and expedition requirement of Section 332(c)(7)(B)(v).  See Pet. App. 7a.  The court's novel attempt to hypothesize a hybrid cause of action serves only to underscore the implausibility of its ruling.  No evidence exists that Congress, in enacting the 1996 legislation at issue here, sought to alter the limitations period applicable to Section 1983 actions.  Indeed, the court of appeals' suggestion would appear to run afoul of the general savings clause in the Telecommunications Act, which provides that the Act "shall not be construed to modify, impair, or supersede Federal, State, or local law."  47 U.S.C. 152 note.  See pp. 25-27, infra.  Construing Section 332(c)(7)(B)(v) to alter the limitations period ordinarily applicable in Section 1983 actions would indeed "modify" the Section 1983 action, in violation of the savings clause.5
+II.	THE TELECOMMUNICATIONS ACT'S GENERAL SAVINGS CLAUSE DOES NOT SUPPORT THE AVAILABILITY OF AN ACTION UNDER SECTION 1983
+The Telecommunications Act contains a general savings clause, which provides:
+No implied effect.  -This Act and the amendments made by this Act shall not be construed to modify, impair, or supersede Federal, state, or local law unless expressly so provided in such Act or amendments.
+TCA § 601(c)(1), 110 Stat. 143 (47 U.S.C. 152 note).  The court of appeals believed that this clause demonstrated an intent not to displace Section 1983, reasoning that the "plain language" of the clause required such a result because Section 1983 is a federal law.  Pet. App. 10a, 12a.  As the court of appeals noted, however, this Court concluded that two similar savings clauses in Sea Clammers were not indicative of a congressional intent to make a Section 1983 action available.  See Sea Clammers, 453 U.S. at 7 n.10 (citing 33 U.S.C. 1365(e)); id. at 7 n.11 (citing 33 U.S.C. 1415(g)(5)); id. at 20 n.31 (rejecting argument that savings clauses made Section 1983 action available).  The court of appeals sought to distinguish Sea Clammers on the ground that "[t]he TCA's general savings clause forbids the impairment of any federal 'law'-not the impairment of any 'right.' Thus, the TCA's general savings clause sweeps more broadly than those the Supreme Court evaluated in Sea Clammers and includes § 1983 within its ambit."  Pet. App. 12a.
+The court of appeals' attempt to distinguish Sea Clammers is mistaken.  First, the savings clauses in Sea Clammers provided that the environmental statutes in that case do not "restrict any right which any person  *  *  *  may have under any statute  *  *  *  to seek enforcement  *  *  *  or to seek any other relief." 453 U.S. at 7-8 nn.10-11 (quoting 33 U.S.C. 1365(e) and 33 U.S.C. 1415(g)(5)).  This Court held that construing the environmental statutes in Sea Clammers to preclude a Section 1983 action did not "restrict any right *  *  *  under any statute  *  *  *  to seek enforcement  *  *  *  or  *  *  *  relief" and was therefore permissible under the savings clauses in Sea Clammers.  See 453 U.S. at 20 n.31.  Section 1983 is surely both a "right  *  *  *  to seek enforcement  *  *  *  or relief" (under the savings clauses in Sea Clammers) and a "law" (under the savings clause in this case).  If the preclusion of Section 1983 relief in Sea Clammers did not restrict any right to seek relief, then precluding Section 1983 relief here does not "modify, impair, or supersede" any federal law for purposes of the TCA general savings clause.
+Second, a determination that Section 1983 is not available to enforce Section 332(c)(7) would not modify, impair, or supersede Section 1983, which would continue to operate precisely as it did before Section 332(c)(7) was enacted.  The only question in this case is whether Section 1983 should be expanded to include  a new type of action-a claim that a state or local government has violated Section 332(c)(7)-which, before the enactment of that provision, had never previously been available.  A conclusion that Section 1983 should not be expanded to this new territory does not modify, impair, or supersede Section 1983, and it accordingly does not violate the TCA's general savings clause.  See Nextel Partners, 286 U.S. at 696 ("We do not hold that enactment of the TCA had any effect on  § 1983; we simply hold that the TCA itself did not create a right that can be asserted under § 1983 in lieu of the TCA's own remedial scheme.").6
+CONCLUSION
+The judgment of the court of appeals should be reversed.
+Respectfully submitted.
+PAUL D. CLEMENT
+Acting Solicitor General
+PETER D. KEISLER
+Assistant Attorney General
+THOMAS G. HUNGAR
+Deputy Solicitor General
+JAMES A. FELDMAN
+Assistant to the Solicitor 	General
+THOMAS M. BONDY
+I. GLENN COHEN
+Attorneys
+NOVEMBER 2004
+1	The FCC has broad jurisdiction to implement all of the provisions of the Communications Act in the public interest.  See 47 U.S.C. 151, 154(i), 201(b), 303(r).  That jurisdiction may include authority to interpret the various provisions of Section 332(c)(7), such as the prohibitions against state or local government actions that "unreasonably discriminate among providers of functionally equivalent services" or "prohibit or have the effect of prohibiting the provision of personal wireless services," 47 U.S.C. 332(c)(7)(B)(i); see also 47 U.S.C. 332(c)(7)(B)(iv).  The Commission, however, has not promulgated regulations addressing any of the provisions of Section 332(c)(7) at issue in this case.
+2 	Courts have awarded injunctive relief in actions under Section 332(c)(7)(B)(v).  See PrimeCo Pers., 352 F.3d at 1152-1153; Nextel Partners, 286 F.3d at 695 n.6; New Par v. City of Saginaw, 301 F.3d 390, 399-400 (6th Cir. 2002); National Tower, LLC v. Planville Zoning Bd. of Appeals, 297 F.3d 14, 21-22 (1st Cir. 2002); Preferred Sites, LLC v. Troup County, 296 F.3d 1210, 1222 (11th Cir. 2002); Cellular Tel. Co. v. Town of Oyster Bay, 166 F.3d 490, 497 (2d Cir. 1999).  The Section 332(c)(7)(B)(v) right of action closely resembles a suit for judicial review of an administrative action, complete with its requirement of "final action" and the "substantial evidence" standard of Section 332(c)(7)(B)(iii).  This case, however, does not present the question whether and under what circumstances other forms of relief are available as well.  Cf. PrimeCo Pers., 352 F.3d at 1153 (damages presumptively available under Section 332(c)(7)(B)(v)); Omnipoint Communications, Inc. v. City of White Plains, 175 F. Supp. 2d 697, 707-708 (S.D.N.Y. 2001) (noting that no court has awarded damages under Section 322(c)(7)(B)(v), but concluding that damages are available in a Section 1983 action to enforce Section 332(c)(7)).
+3	Although express statutory causes of action that (as in this case) allow private parties to bring suit and obtain meaningful judicial review will almost always be sufficient to be considered "comprehensive" within the meaning of this Court's Section 1983 decisions, such provisions authorizing judicial review will not always be necessary in order to supplant the Section 1983 remedy.  Depending on the particular context, remedial schemes that do not afford meaningful judicial review may nevertheless be sufficiently "comprehensive" to satisfy this Court's analysis, e.g., by providing appropriate administrative avenues for relief.  See, e.g., U.S. Br. at 24-30, Gonzaga Univ. v. Doe, supra (No. 01-679).
+4	Although the Third Circuit, Nextel, 286 F.3d at 695, and petitioners (Pet. 24) seem to assume that Section 1983 by itself would effectively impose a four-year statute of limitations, there appears to be some uncertainty on that point.  As the Court explained in Wilson v. Garcia, 471 U.S. 261 (1985), Sections 1983 and 1988 require that an action brought under Section 1983 employ the applicable statute of limitations from the jurisdiction in which the action is filed.  Id. at 272, 280.  In California, that would apparently mean using a one-year statute of limitations.  See Azer v. Connell, 306 F.3d 930, 936 (9th Cir. 2002) (citing Cal. Civ. Proc. Code  § 340(3) (West Supp. 2004)).
+Under 28 U.S.C. 1658(a), however, "[e]xcept as otherwise provided by law, a civil action arising under an Act of Congress enacted after [December 1, 1990] may not be commenced later than 4 years after the cause of action accrues."  In Jones v. R.R. Donnelley & Sons Co., 124 S. Ct. 1836 (2004), this Court held that the four-year statute of limitations under Section 1658 applies if the plaintiff's claim was made possible by a post-1990 enactment.  Id. at 1845.  That case involved an action brought under portions of 42 U.S.C. 1981 that had been amended by the Civil Rights Act of 1991, Pub. L. No. 102-166, 105 Stat. 1071.  Jones, 124 S. Ct. at 1839.  Here, while Section 332(c)(7)(B) was enacted post-1990, Section 1983 was not, and none of its provisions relevant to this action has been amended since 1990.  Under Jones, therefore, the selection  of the appropriate statute of limitations to govern a Section  1983 claim seeking to enforce Section 332(c)(7)(B) would turn on whether such a cause of action is properly viewed as "arising under" Section 1983 or, instead, Section 332(c)(7)(B).  There is no need to resolve that question in this case, however, because either a one-year or a four-year limitations period would be inconsistent with the 30-day time frame set forth in the Communications Act.
+5	A Section 1983 remedy may also be inconsistent with the express cause of action created in Section 332(c)(7)(B)(v) because the latter (which confers a right to sue on persons adversely affected by a governmental entity''s "final action or failure to act") appears to contemplate exhaustion of state or local administrative remedies, whereas "the existence of a state administrative remedy does not ordinarily foreclose resort to § 1983."  Wright, 479 U.S. at 427-428 (citing Patsy v. Board of Regents, 457 U.S. 496, 516 (1982)).  If Section 332(c)(7)(B)(v) permits only injunctive relief, a further incompatibility with Section 1983 would exist.
+6	In Verizon Communications, Inc. v. Law Offices of Curtis Trinko, 124 S. Ct. 872 (2004), the Court addressed a neighboring TCA savings clause that provides that "nothing in this Act  *  *  *  shall be construed to modify, impair, or supersede the applicability of any of the antitrust laws."  TCA § 601(b)(1), 110 Stat. 143 (47 U.S.C. 152 note).  The Court held that the clause "preserves claims that satisfy existing antitrust standards," but that it "does not create new claims that go beyond existing antitrust standards."  124 S. Ct. at 878.  That holding is consistent with the appropriate reading of the general savings clause in this case, which preserves preexisting Section 1983 claims without creating new ones.
+APPENDIX
+1.	Section 332(c)(7)(A) and (B) of Title 47 of the United States Code provides:
+Preservation of local zoning authority
+(A)	General authority
+Except as provided in this paragraph, nothing in this chapter shall limit or affect the authority of a State or local government or instrumentality thereof over decisions regarding the placement, construction, and modification of personal wireless service facilities.
+(B)	Limitations
+(i)	The regulation of the placement, construction, and modification of personal wireless service facilities by any State or local government or instrumentality thereof-
+(I)	shall not unreasonably discriminate among providers of functionally equivalent services; and
+(II)	shall not prohibit or have the effect of prohibiting the provision of personal wireless services.
+(ii)	A State or local government or instrumentality thereof shall act on any request for authorization to place, construct, or modify personal wireless service facilities within a reasonable period of time after the request is duly filed with such government or instrumentality, taking into account the nature and scope of such request.
+(iii)	Any decision by a State or local government or instrumentality thereof to deny a request to place, construct, or modify personal wireless service facilities shall be in writing and supported by substantial evidence contained in a written record.
+(iv)	No State or local government or instrumentality thereof may regulate the placement, construction, and modification of personal wireless service facilities on the basis of the environmental effects of radio frequency emissions to the extent that such facilities comply with the Commission's regulations concerning such emissions.
+(v)	Any person adversely affected by any final action or failure to act by a State or local government or any instrumentality thereof that is inconsistent with this subparagraph may, within 30 days after such action or failure to act, commence an action in any court of competent jurisdiction.  The court shall hear and decide such action on an expedited basis. Any person adversely affected by an act or failure to act by a State or local government or any instrumentality thereof that is inconsistent with clause (iv) may petition the Commission for relief.
+2.	Section 1983 of Title 42 of the United States Code provides:
+Civil action for deprivation of rights
+Every person who, under color of any statute, ordinance, regulation, custom, or usage, of any State or Territory or the District of Columbia, subjects, or causes to be subjected, any citizen of the United States or other person within the jurisdiction thereof to the deprivation of any rights, privileges, or immunities secured by the Constitution and laws, shall be liable to the party injured in an action at law, suit in equity, or other proper proceeding for redress, except that in any action brought against a judicial officer for an act or omission taken in such officer's judicial capacity, injunctive relief shall not be granted unless a declaratory decree was violated or declaratory relief was unavailable.  For the purposes of this section, any Act of Congress applicable exclusively to the District of Columbia shall be considered to be a statute of the District of Columbia.
+3.	Section 1988(b) of Title 42 of the United States Code provides (brackets in original):
+Attorney's fees
+In any action or proceeding to enforce a provision of sections 1981, 1981a, 1982, 1983, 1985, and 1986 of this title, title IX of Public Law 92-318 [20 U.S.C. 1681 et seq.], the Religious Freedom Restoration Act of 1993 [42 U.S.C. 2000bb et seq.], the Religious Land Use and Institutionalized Persons Act of 2000 [42 U.S.C. § 2000cc et seq.], title VI of the Civil Rights Act of 1964 [42 U.S.C. § 2000d et seq.], or section 13981 of this title, the court, in its discretion, may allow the prevailing party, other than the United States, a reasonable attorney's fee as part of the costs, except that in any action brought against a judicial officer for an act or omission taken in such officer's judicial capacity such officer shall not be held liable for any costs, including attorney's fees, unless such action was clearly in excess of such officer's jurisdiction.
+Brief
+2003-1601.mer.ami.pdf
+[PDF,
+]
+Updated October 21, 2014
+Office of the Solicitor General
+950 Pennsylvania Ave. NW
+Washington DC 20530-0001
+202-514-2203
+Signup for Email Updates
+Social Media
+About
+Budget & Performance
+Archives
+FOIA
+Accessibility
+Legal Policies & Disclaimers
+Privacy
+For Employees
+Office of the Inspector General
+No FEAR Act Data
+EEO Policy Statement
+Vulnerability Disclosure
+Multilingual
+Vote.gov
+Have a question about Government Services?
+Contact USA.gov
+Top

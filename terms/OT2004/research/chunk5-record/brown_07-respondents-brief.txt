@@ -1,0 +1,2338 @@
+Source: https://archive.org/download/micro_IA40385014_0735/micro_IA40385014_0735%2007.%20Respondents%20Brief_djvu.txt
+
+rs 
+
+
+In The 
+diikuaias Court of the Gnited ¢ 
+
+
+7 
+
+
+JILL L. BROWN, Acting Warden, 
+Petitioner, 
+Vv. 
+
+
+WILLIAM CHARLES PAYTON, 
+Respondent. 
+
+
+4 
+
+
+On Writ Of Certiorari To The United States 
+Court Of Appeals For The Ninth Circuit 
+
+
++ 
+
+
+BRIEF FOR RESPONDENT 
+—* 
+
+
+ROSALIE L. RAKOFF- - Maria E. STRATTON 
+A Professional Corporation Federal Public Defender 
+1950 Sawtelle Blvd. DEAN R. Grts* 
+Suite 310 Deputy Federal Public 
+Los Angeles, California 90025 Defender 
+MARK R. DROZDOWSKI 
+Deputy Federal Public 
+Defender 
+Kim Savo 
+
+
+yada 
+
+
+_ $21 East 2nd Street 
+Los Angeles, California 90012 
+: (213) 894-7867 
+Facsimile: (213) 894-0081 
+
+
+Counsel for Respondent 
+*Counsel of Record 
+
+
+QUESTION PRESENTED 
+
+
+Did the California Supreme Court render a decision which 
+was contrary to or an unreasonable application of estab- 
+lished federal law as determined by the Supreme Court of 
+the United States in deciding that in the trial of Respon- 
+dent’s case, there was no reasonable likelihood that the 
+jury believed that it was precluded from considering the 
+post-crime mitigating evidence that Respondent presented 
+at his penalty trial? 
+
+
+ii 
+TABLE OF CONTENTS 
+
+Page 
+QUESTION PRESENTED. .................cccccsssssssereeeeereseees i 
+STATEMENT OF THE CASE ....00.0.........ccceceeeseseeeeeeeeeee 1 
+I. Payton’s Tt concocscssosecetiesisiaminnienemamaaieniae 1 
+
+A. The Evidence in Aggravation and Mitiga- 
+GEIS cccccccnccecsencensennsneiatentnendeimimimanmmaaiae 1 
+B. The Jury Instruction at Issue..................... 3 
+
+C. Denial of Payton’s Requests to Modify the 
+BOP IIEIND cccqrcscecccccnsensensensnentenimammneaeianins 5 
+D. The Prosecutor’s Closing Argument........... 7 
+E. The Defense Closing Argument.................. 12 
+F. The Penalty Instructions and Verdict........ 13 
+
+II. Revisions to the Factor (k) Instruction Shortly 
+REET Pag IETS Te oceccccsacssenitistaammsnsimmiaaaiie 14 
+
+Ill. The California Supreme Court Opinion Deny- 
+hanes FRR CIID cvcsncecssesesninsesncemesanminaianaiiiaan 15 
+IV. Payton’s Federal Habeas Action...........c.ccss00000+- 17 
+SUMMARY OF ARGUMENT........................00000 sonia 18 
+REIUEIIITE c0ccescscsccesessesesinsnsenseossamseimiaiaaaane 22 
+
+
+I. The California Supreme Court Wrongly De- 
+
+
+> ae Pe Oa ee Ca encccteccessciccnccscnnsndmensasainamians 22 
+
+
+A. Payton’s Eighth Amendment Right to 
+Have His Jury Consider and Give Effect to 
+His Mitigating Evidence in Determining 
+
+
+FURIE .cnceccssesseenesnectiataninteniasaanla 22 
+B. The Context of the Proceedings at Payton’s 
+TUR. nccorcecessesnsnsenssesvenentniaianmaaaaa 23 
+
+
+ill 
+
+
+TABLE OF CONTENTS - Continued 
+Page 
+2. The Prosecutor’s Incorrect Argument... 24 
+
+
+3. The Trial Court’s Failure to Resolve 
+‘the Conflict in Interpretation of the In- 
+
+
+ce 25 
+
+4. Other Instructions Compounded the 
+aiid aiietesieeeecetmtemnanmennannneneenenaneenes 28 
+
+C. The Reasonable Likelihood Payton’s Miti- 
+gation Was Not Considered ........................ 28 
+
+
+Il. The California Supreme Court's Decision 
+Involved an Unreasonable Application of 
+Clearly Established Federal Law....................... 29 
+
+
+A. “Unreasonable Application” Standards...... 31 
+
+
+B. The State Court’s Reliance on Boyde as 
+Dispositive of Payton’s Challenge is an 
+Unreasonable Application of Boyde, Skip- 
+
+
+per, Penry, Eddings and Lockett................. 32 
+
+1. The Nature of the Mitigating Evidence.. 33 
+
+2. Counsel's Conflicting Arguments.......... 35 
+TEE 42 
+
+Ill. The Error Was Not Harmless............................ 44 
+EEE 46 
+
+
+iv 
+
+
+TABLE OF AUTHORITIES 
+
+Page 
+FEDERAL CASES 
+Atkins v. Virginia, 536 U.S. 304 (2002)... cccccccccceeceee 22 
+Boyde v. California, 494 U.S. 370 (1990)... 0.0.0... passim 
+Brecht v. Abrahamson, 507 U.S. 619 (1993).................0. 44 
+Carter v. Kentucky, 450 U.S. 288 (1981) ..................cc 27 
+Coleman v. Calderon, 210 F.3d 1047 (9th Cir. 2000).... 44, 45 
+Griffin v. United States, 502 U.S. 46 (1991).................0. 38 
+Eddings v. Oklahoma, 455 U.S. 104 (1982)..................6 19 
+Hitchcock v. Dugger, 481 U.S. 393 (1987) ................... 22, 29 
+Holland v. Jackson, 124 S. Ct. 2736 (2004) «000... 31 
+Jones v. Dugger, 867 F.2d 1277 (11th Cir. 1989)............... 45 
+Kelly v. South Carolina, 534 U.S. 246 (2002) .................. 27 
+Lockett v. Ohio, 438 U.S. 586 (1978)............... 14, 19, 20, 30 
+Lockyer v. Andrade, 538 U.S. 63 (2003) ................cccccceeeees 29 
+McDowell v. Calderon, 130 F.3d 833 (9th Cir. 1997) 
+
+Oh BED cccccrssrsssensscnecentinnantnnsieintnnnsineimniepanineneninemet 6 
+Miller-El v. Cockrell, 537 U.S. 322 (2003) ..................0000 31 
+Mills v. Maryland, 486 U.S. 367 (1988).......................0006 45 
+O’Neal v. McAninch, 513 U.S. 432 (1995)..........cceees 44 
+Payne v. Tennessee, 501 U.S. 808 (1991)... ccccceceeeees 23 
+Penry v. Lynaugh, 492 U.S. 302 (1989)..................00 passim 
+Skipper v. South Carolina, 476 U.S. 1 (1986)........... passim 
+Sparf v. United States, 156 U.S. 51 (1895) .................... 26 
+Strickland v. Washington, 466 U.S. 668 (1984)................ 31 
+
+
+v 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+Taylor v. Kentucky, 436 U.S. 478 (1978) .............0000.... 37, 41 
+Tuilaepa v. California, 512 U.S. 967 (1994)... 1 
+Wiggins v. Corcoran, 164 F. Supp. 2d 538 (D. Md. 
+
+SEITE ccensrantatsnenentemnnemeunsumemnmpennsinnaiiiepinapmninenigmaresenansiiiami 43 
+Wiggins v. Corcoran, 288 F.3d 629 (4th Cir. 2002)............ 43 
+Wiggins v. Smith, 539 U.S. 510 (2003).......31, 32, 34, 39, 43 
+Williams v. Taylor, 163 F.3d 860 (4th Cir. 1998)............... 43 
+Williams v. Taylor, 529 U.S. 362 (2000) ...................... 36, 43 
+Woodford v. Garceau, 538 U.S. 202 (2003)..................0--+ 17 
+STATE CASES 
+People v. Allen, 42 Cal. 3d 1222, 729 P2d 115, 
+
+ee Sn Ph ehiseiecirnniatibicinaeicea aceite 41 
+People v. Brown, 40 Cal. 3d 512, 726 P2d 516, 
+
+i 20 
+People v. Coleman, 48 Cal. 3d 112, 768 P.2d 32, 
+
+Ne eee CU icrictasiterecccitinisiinciinidiusteansinrinariitiiaiamasiind 41 
+People v. Davenport, 41 Cal. 3d 247, 710 P.2d 861, 
+
+221 Cal. Rptr. 794 (1986)..................:cccccseseeeeeees 15, 20, 41 
+People v. Easley, 34 Cal. 3d 858, 671 P2d 813, 
+
+196 Cal. Rptr. 309 (1983)......................000000 14, 19, 20, 21 
+People v. Frierson, 25 Cal. 3d 132, 599 P. 2d 587, 
+
+ee ne Ee EE indrenccrsnnnintinnenenntaintnnsmntminsiiin 19 
+People v. Hernandez, 47 Cal. 3d 315, 763 P-2d 1289, 
+
+NO 41 
+
+
+People v. McLain, 46 Cal. 3d 97, 757 P2d 569, 
+8 eee 14 
+
+
+vi 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+
+People v. Wright, 52 Cal. 3d 367, 802 P.2d 221, 276 
+
+Or I 41 
+Wiggins v. State, 724 A.2d 1 (Md. 1999)...00000......ccccceecee. 43 
+Williams v. Warden, 487 S.E.2d 194 (Va. 1997)................ 43 
+FEDERAL STATUTES 
+Antiterrorism and Effective Death Penalty Act 
+
+Ne I eicinteeicnneerciniaheinentieateciceiaieninthaelaaiiiidetdadiachiaditssid 17 
+
+I i i aa 29, 43 
+STATE STATUTES 
+California Penal Code 
+
+Ser TITTTEiecrrnibertinderienainiatintindeaetaparenbaectien cinta tiaeatsianaataa aces 18 
+MISCELLANEOUS 
+ee ea eeiicanieniensercisicinunieiianeninasitshinianianhsauinabenanmssiiniaiil passim 
+
+
+1 
+
+
+STATEMENT OF THE CASE 
+I. Payton’s Trial 
+
+
+In 1981, a California jury convicted Respondent 
+William Payton (“Payton”) of first degree murder and rape 
+and two counts of attempted murder. P.A. 140.’ The jury 
+found true the special circumstance allegation that the 
+murder was committed while engaged in the commission 
+or attempted commission of rape, and this finding made 
+Payton eligible for the death penalty. Jd.; Tuilaepa v. 
+California, 512 U.S. 967, 975 (1994) (describing Califor- 
+nia’s death penalty scheme). The defense presented no 
+evidence at the guilt trial. PA. 143. 
+
+
+A. The Evidence in Aggravation and Mitigation 
+
+
+At the penalty trial, both sides waived opening state- 
+ments. J.A. 3, 4, 15.° The State presented evidence in 
+aggravation that seven years before the murder, Payton 
+had stabbed a woman. J.A. 5-10. Pursuant to stipulation, 
+the State presented evidence that four years before the 
+murder Payton had been convicted of possessing mari- 
+juana and having unlawful consensual intercourse with a 
+minor. J.A. 4-5. The State also presented the testimory of 
+an inmate who claimed that while Payton was in jail 
+awaiting his murder trial, Payton admitted to him that he 
+“had a severe problem with sex and women” and that he 
+would “[s]tab them and rape them.” J.A. 12. 
+
+
+' “PA” refers to the appendix submitted with the State's Petition 
+for Writ of Certiorari. 
+* “J_A.” refers to the Joint Appendix filed by the parties. 
+
+
+2 
+
+
+The defense mitigation case consisted entirely of 
+evidence that in the year and nine months since his arrest 
+for murder, Payton had experienced a religious conversion 
+and engaged in good works in jail, and would lead a useful 
+life if sentenced to life in prison. J.A. 15-73; P.A. 15, 144, 
+159, 175-76. 
+
+
+Payton presented eight witnesses. J.A. 15-54. A 
+minister testified that Payton’s commitment to the Lord 
+was sincere; the minister observed great remorse and 
+regret in Payton for the things that he had done. J.A. 15, 
+18. A Christian fellowship missions director testified that 
+because of his religious conversion, Payton had changed 
+from self-centered to selfless, that he had established Bible 
+study classes in jail, and that other inmates came to him 
+for counseling. J.A. 19, 22, 23, 26. Four fellow inmates 
+testified that Payton’s religious conversion was sincere, 
+that he had a positive and calming influence on other 
+inmates, and that he had even persuaded one inmate not 
+to commit suicide. J.A. 33, 34, 37-44. A deputy sheriff 
+testified that Payton led Bible study sessions in jail, that 
+he appeared to have a leadership role with other inmates, 
+and that his influence on other inmates had been positive. 
+J.A. 45-48. Payton’s mother testified that since his arrest 
+Payton had become “totally immersed in the Lord” and 
+was a changed man. J.A. 52, 53. 
+
+
+The defense presented no evidence of Payton’s conduct 
+or condition at the time of the murder or any time before. 
+That is, the defense did not present any “pre-crime” 
+mitigating evidence, only “post-crime” mitigating evidence 
+of his religious conversion and positive adjustment to 
+incarceration since his arrest. 
+
+
+3 
+
+
+B. The Jury Instruction at Issue 
+
+
+The jury received an instruction designed to guide its 
+consideration of the aggravating and mitigating evidence. 
+J.A. 94-95; PA. 7-9, 52-54, 94-95. The instruction was 
+taken verbatim from a then-existing form instruction, 
+California Jury Instructions, Criminal (““CALJIC”) 8.84.1 
+(4th ed. 1979). J.A. 57-59; P.A. 7-9, 52-54, 94-95. The 
+instruction incorporated the 11-factor test from Califor- 
+nia’s death penalty statute (California Penal Code §190.3) 
+that requires the jury to weigh and balance specific aggra- 
+vating and mitigating circumstances in deciding whether 
+to impose the death penalty. J.A. 94-96, PA. 3, 187-90. The 
+instruction stated: 
+
+
+_ In determining the penalty to be imposed on 
+the defendant, you shall consider all of the evi- 
+dence which has been received during any part of 
+the trial in this case, except as you may be here- 
+after instructed. You shall consider, take into ac- 
+count and be guided by the following factors, if 
+applicable: 
+
+
+(a) The circumstances of the crime of which 
+the defendant was convicted in the present pro- 
+ceeding and the existence of any special circum- 
+stances found to be true. 
+
+
+(b) The presence or absence of criminal ac- 
+tivity by the defendant which involved the use or 
+attempted use of force or violence or the ex- 
+pressed or implied threat to use force or violence. 
+
+
+(c) Presence or absence of any prior felony 
+conviction. 
+
+
+4 
+
+
+(d) Whether or not the offense was commit- 
+ted while the defendant was under the influence 
+of extreme mental or emotional disturbance. 
+
+
+(e) Whether or not the victim was a par- 
+ticipant in the defendant’s homicidal conduct or 
+consented to the homicidal act. 
+
+
+(f) Whether or not the offense was commit- 
+ted under circumstances which defendant rea- 
+sonably believed to be a moral justification or 
+extenuation for his conduct. 
+
+
+(g) Whether or not the defendant acted un- 
+der extreme duress or under the substantial 
+domination of another person. 
+
+
+(h) Whether or not at the time of the of- 
+fense the capacity of the defendant to appreciate 
+the criminality of his conduct or to conform his 
+conduct to the requirements of the law was im- 
+paired as a result of mental disease or defects or 
+the effects of intoxication. 
+
+
+(i) The age of the defendant at the time of 
+the crime. 
+
+
+(j) Whether or not the defendant was an 
+accomplice to the offense and his participation in 
+the commission of the offense was relatively mi- 
+nor. 
+
+
+(k) Any other circumstance which extenu- 
+ates the gravity of the crime even though not a 
+legal excuse forthe crime. 
+
+
+J.A. 94-95; see also P.A. 7-9, 52-54, 94-95. 
+
+
+5 
+
+
+C. Denial of Payton’s Requests to Modify the 
+Instruction 
+
+
+Before the court instructed the jury, and before the 
+penalty phase closing arguments, defense counsel asked at 
+an in-chambers conference that the foregoing instruction 
+be modified in two ways. J.A. 55; P.A. 7, 9. First, the 
+defense requested that factor (k) be modified to read: “Any 
+other circumstance which extenuates the gravity of the 
+crime even though it is not a legal excuse for the crime, 
+including evidence of the defendant’s character, back- 
+ground, history, mental condition and physical condition.” 
+J.A. 55. Defense counsel noted that the additional lan- 
+guage appeared in the death penalty statute. Jd.; P.A. 187 
+(“In the proceedings on the question of penalty, evidence 
+may be presented by both the people and the defendant as 
+to any matter relevant to aggravation, mitigation, and 
+sentence including, but not limited to ... the defendant’s 
+character, background, history, mental condition and 
+physical condition.”). Counsel argued that without the 
+modification, a juror could read factor (k) “as saying, well, 
+gee, there are a lot of interesting things about Mr. Payton, 
+but they don’t have anything to do with the crime. They 
+have something to do with his potential for rehabilitation 
+or his character or his background, but they don’t have 
+anything to do with the crime itself... .” J.A. 55. 
+
+
+The prosecutor objected to Payton’s request. J.A. 55. 
+The prosecutor argued: “I don’t think that’s at all what 
+they mean by ‘k.’ I don’t think his background or character 
+has anything to do with ‘k’ because if it did, they’d say it.” 
+J.A. 57. He continued: “I read ‘k’ as being a circumstance 
+attending a crime. That’s the way I read it. Not a factor 
+and background, the defendant’s history; or else the 
+Legislature would have said that.” J.A. 58. The prosecutor 
+
+
+6 
+
+
+stated that he thought defense counsel could argue to the 
+jury that it could consider Payton’s mitigating evidence 
+under factor (k), “but it’s not what ‘k’ says either in the 
+statute or CALJIC.” J.A. 56-57. 
+
+
+The court stated: “I think the way I read the cases — 
+and there isn’t much case law — and the way I read ‘k,’ I 
+think, as I said, it’s wide open”; (k) is a “catch-all ... 
+intended . . . for all these factors . . . that don’t fall into the 
+other areas.” J.A. 60; see also id. (the court further ex- 
+plains: “I think ‘k’ is the all encompassing one” and under 
+(k) “almost anything can come in on behalf of the defen- 
+dant”). 
+
+
+Although the court agreed with Payton that the jury 
+could consider his mitigating evidence under factor (k), it 
+denied his request to modify and clarify the instruction. 
+J.A. 59-60. The court stated that although it “could see 
+{the defense] position for the edification and clarification 
+of the jury,” it was reluctant to “change a CALJIC instruc- 
+tion wherein it’s verbatim from the 190.3 [death penalty] 
+statute. ...” J.A. 58-59." 
+
+
+The court adopted the prosecutor’s proposal to allow 
+the parties to argue to the jury whether it could consider 
+
+
+* CALJIC instructions are created by a committee of the Los 
+Angeles County Superior Court and “are only recommendations and do 
+not carry the force of law.” McDowell v. Calderon, 130 F.3d 833, 840 (9th 
+Cir. 1997) (en banc), overruled on other grounds, Weeks v. Angelone, 528 
+U.S. 225 (2000). CALJIC itself “emphasizes that ‘[a] trial judge in 
+considering instructions to the jury shall give no less consideration to 
+those submitted by the attorneys for the respective parties than to 
+those contained in the latest edition of ... [CALJIC].’” Jd. “All trial 
+judges, prosecutors, and defense attorneys in California understand 
+both the value of CALJIC recommendations, and their limitations.” Jd. 
+at 840-41. 
+
+
+7 
+
+
+Payton’s mitigating evidence under factor (k). J.A. 59. 
+Defense counsel objected: “The only problem I have with 
+that is that ‘k,’ at least taken at face value, refers to 
+extenuating the gravity of the crime, even though it’s not a 
+legal excuse for the crime. It doesn’t sound to me like ‘k’ 
+incorporates the other factors, even though I’m sure that 
+was the intent of the Legislature.” J.A. 59. The prosecutor 
+replied: “I think he’s stuck with trying to argue it.” Jd. The 
+court affirmed that it agreed with defense counsel that 
+Payton’s mitigating evidence could be considered under 
+factor (k), but it stuck by its ruling. J.A. 59-60. 
+
+
+Defense counsel made “one last observation”: “My only 
+problem is I think we all agree that that’s the law l[i.e., 
+that the jury had to consider Payton’s mitigating evidence 
+under factor (k)], but the jury’s not going to know.” The 
+court responded: “I agree with you.... But I’m going to 
+deny it....” J.A. 60-61. 
+
+
+Payton’s second request to modify CALJIC 8.84.1 
+sought to add a factor (1) to inform jurors that “they may 
+take into consideration the defendant’s potential for 
+rehabilitation.” J.A. 57. The district attorney objected to 
+the request, and the court denied it. Jd. 
+
+
+D. The Prosecutor’s Closing Argument 
+
+
+In closing argument, the prosecutor repeatedly argued 
+to the jury that it legally could not consider any of the 
+mitigating evidence presented by Payton. The prosecutor 
+recited factors (a) through (k) of CALJIC 8.84.1 and then 
+informed the jury “which ones seem to be applicable and 
+which ones do not.” J.A. 64-66. He argued that factors (a) 
+through (c) were applicable and were aggravating factors, 
+and that (d) through (h) and (j) were inapplicable. With 
+
+
+8 9 
+
+
+religious aspect of this as far as being a mitigat- 
+ing factor does not apply because it took place af- 
+ter the crime. Is that your position, Mr. Jacobs? 
+
+
+regard to factor (i) (defendant’s age, 26 at the time of the 
+crime), he stated that “[s]ome of you might consider that 
+not to be a factor. Some of you might consider that young, 
+to be somewhat mitigating.” J.A. 67, 68. Mr. Jacobs [the prosecutor]: Yeah, it doesn’t 
+
+
+read into “k”.... If he wants to argue it does, 
+that’s his problem. But it doesn’t. 
+
+
+I want to stop and talk to you about “k” for just a 1288 
+second because — and go over the wording. 41. 06-09. 
+
+
+Turning to factor (k), the prosecutor stated: 
+
+
+The court did not declare a mistrial, stating: “I think 
+you can argue it either way.” J.A. 69. Defense counsel then 
+does that mean? That to me means some fact — renewed his request to modify the instruction to add 
+okay? — some factor at the time of the offense that language from the death penalty statute. Jd. The court 
+somehow operates to reduce the gravity for what ruled: 
+
+
+the defendant did. 
+Well, I’d decline to do that at this time. I think 
+
+
+“K” says any other circumstance which ex- 
+tenuate or lessens the gravity of the crime. What 
+
+
+It doesn’t refer to anything after the fact or 
+later. That’s particularly important here because 
+the only defense evidence you have heard has been 
+about this new born Christianity. 
+
+
+you gentleman are entitled to argue that under 
+“k,” that you can make that argument either way. 
+So again, I’m just going to indicate to the jury 
+that that - what you gentleman say is not evi- 
+
+
+J.A. 68 (emphasis added). dence, and I'll admonish them in any respect. 
+
+
+Defense counsel interrupted the prosecutor’s argu- Id. The court then admonished the jury: 
+
+
+ment, and asked to approach the bench. Outside the 
+presence of the jury, the following colloquy occurred: 
+
+
+I want to emphasize to you that the comments by 
+both the prosecution and the defense are not evi- 
+
+
+Mr. Merwin [defense counsel]: I don’t know if 
+the Court heard that part of the argument, but I 
+think that’s completely contrary to what we all 
+agreed in chambers on the record “k” was de- 
+signed to apply to. And I think this justifies a 
+mistrial and [I] move for a mistrial right now on 
+prosecutorial misconduct. 
+
+
+* * * 
+
+
+The Court: Well, as I understand the com- 
+ments of the prosecutor is that they feel that the 
+
+
+dence. You’ve heard the evidence and, as I’ve 
+said, this is argument. And it’s to be placed in its 
+proper perspective. So with that in mind, you 
+may continue, Mr. Jacobs. 
+
+
+J.A. 69, 70. 
+
+
+Immediately after the court’s admonition, the prosecu- 
+tor launched back into his argument that the jury could 
+not consider Payton’s mitigating evidence: 
+
+
+Referring back to “k” which I was talking 
+about, any other circumstance which extenuates 
+
+
+10 
+
+
+or lessens the gravity of the crime, the only de- 
+fense evidence you've heard had to do with de- 
+fendant’s new Christianity and that he helped 
+the module deputies in the jail while he was in 
+custody. 
+
+
+The problem with that is that evidence is well 
+after the fact of the crime and cannot seem to me 
+in any way to logically lessen the gravity of the of- 
+fense that the defendant has committed. 
+
+
+Mr. Merwin will tell you that somehow that 
+becoming a newborn Christian, if in fact he 
+really believed that took place, makes it a less 
+severe crime, but there is no way that can hap- 
+pen when — under any other circumstance which 
+extenuates or lessens the gravity of the crime, 
+refers — seems to refer to a fact in operation at 
+the time of the offense. 
+
+
+What I am getting at, you have not heard 
+during the past few days any legal evidence miti- 
+gation [sic]. What you’ve heard is just some jail- 
+house evidence to win your sympathy, and that’s 
+all. 
+
+
+You have not heard any evidence of mitiga- 
+tion in this trial. 
+
+
+J.A. 70 (emphasis added). 
+
+
+Although the prosecutor repeatedly argued that the 
+jury could not legally consider Payton’s evidence suggest- 
+ing that he would lead a constructive life if he was sen- 
+tenced to life in prison, he argued that Payton would rape 
+and kill again if he was not sentenced to death. 
+
+
+Here also is a defendant who in his words to 
+Alex Garcia [a prosecution guilt phase witness] 
+has a “urge to kill” and why should we give a 
+
+
+J.A. 
+
+
+11 
+
+
+defendant to [sic] feed that urge agair Even 
+when he -— if in prison, what if Mr. Payton gets 
+that urge to kill, if he sees the back of a prison 
+guard again. 
+
+
+Here’s a defendant who views all women as 
+his potential victims, who wants to rape and stab 
+them. Why should we give this defendant an- 
+other chance of finding another victim. 
+
+
+72-73. 
+
+
+The prosecutor returned to his argument that the jury 
+
+
+could not consider Payton’s mitigating evidence: 
+
+
+J.A. 
+
+
+To vote for life without possibility of parole 
+in this case is to say that somewhere there are 
+mitigating factors that outweigh the aggravating 
+and outrageous factors of what the defendant 
+did, and you’ve heard no évidence of any mitigat- 
+ing factors. 
+
+
+73 (emphasis added). 
+He continued: 
+
+
+I want to make a few comments about relig- 
+ion, the only evidence put on by the defendant. I 
+don’t really want to spend too much time on it 
+because I don’t think it’s really applicable and I 
+don't think it comes under any of the eleven fac- 
+tors, and I certainly don’t mean to demean a re- 
+ligion by any way, in what I say. 
+
+
+J.A. 73 (emphasis added). 
+
+
+Toward the end of his argument, the prosecutor 
+
+
+stated: 
+
+
+How do the factors line up? The circum- 
+stances and facts of the case, the defendant’s 
+
+
+12 
+
+
+other acts showing violence, Mrs. Pensinger and 
+Mrs. Stone, her — Blane [sic] Pensinger, the de- 
+fendant’s two prior convictions line up against 
+really nothing except defendant’s newborn Chris- 
+tianity and the fact that he’s 28 years old. This is 
+not close. 
+
+
+You haven't heard anything to mitigate what 
+he’s done. If you wanted to distribute a thousand 
+
+
+13 
+
+
+I submit the facts of this case, and this 
+would not always be true, that that is the most 
+critical of the factors, not only is it not irrelevant, 
+it’s the most critical of the factors. .. . 
+
+
+J.A. 88-89. 
+
+
+As to the substance of the evidence, defense counsel 
+argued: 
+
+
+points over the factors, 900 would have to go to 
+what he did to Mrs. Montgomery, and I really 
+doubt if Mr. Merwin would dispute that break- 
+down of the facts. 
+
+
+J.A. 76. 
+
+
+E. The Defense Closing Argument 
+
+
+In his closing argument, defense counsel discussed 
+factors (a) through (j), and “agree{d] that many of the 
+factors ... are just plain not applicable.” J.A. 77. He did 
+not argue that any of the mitigating evidence presented by 
+the defense applied under any of factors (a) through (j). 
+
+
+Defense counsel stated that he disagreed “rather 
+strenuously” with the prosecutor on the applicability of 
+factor (k), J.A. 88, and he tried to convince the jury that it 
+could consider Payton’s mitigating evidence uncer (k). 
+Counsel argued: 
+
+
+This section “k” may be awkwardly worded, 
+but it does not preclude or exclude the kind of 
+evidence that was presented. It’s a catch-all 
+phase [sic]. It was designed to include, not ex- 
+clude, that kind of evidence. 
+
+
+* * * 
+
+
+[T]he evidence to me demonstrated that he 
+has found a new productive, forward looking 
+purpose for his life, and he plans to devote his 
+life to that, namely, his prison ministry. 
+
+
+* * * 
+
+
+I think there are a lot of good reasons to 
+keep Bill Payton alive, an awful lot of good rea- 
+sons. And that’s exactly what I think “k” is talk- 
+ing about. 
+
+
+J.A. 92. 
+
+
+F. The Penalty Instructions and Verdict 
+
+
+The jury received the form CALJIC 8.84.1 instruction 
+without the modifications requested by Payton. J.A. 55-61, 
+94-95. The jury was also instructed that: 
+
+
+After having heard all of the evidence and 
+after having heard and considered the argument 
+of counsel, you shall consider, take into account 
+and be guided by the applicable factors of aggra- 
+vating and mitigating circumstances upon which 
+you have been instructed. 
+
+
+If you conclude that the aggravating circum- 
+stances outweigh the mitigating circumstances, 
+you shall impose a sentence of death. 
+
+
+14 
+
+
+However, if you determine that the mitigat- 
+ing circumstances outweigh the aggravating cir- 
+cumstances, you shall impose a sentence of 
+confinement in the state prison for life without 
+the possibility of parole. 
+
+
+J.A. 96 (emphasis added). The jury returned a death 
+verdict. P.A. 2, 140. 
+
+
+II. Revisions to the Factor (k) Instruction Shortly 
+After Payton’s Trial 
+
+
+In 1983, two years after Payton’s trial, the California 
+Supreme Court ruled that 
+
+
+[ijn order to avoid potential misunderstanding in 
+the future, trial courts — in instructing on the 
+factor embodied in section 190.3, subdivision (k) 
+— should inform the jury that it may consider as 
+a mitigating factor “any other circumstance 
+which extenuates the gravity of the crime even 
+though it is not a legal excuse for the crime” and 
+any other “aspect of the defendant’s character or 
+record ... that the defendant proffers as a basis 
+for a sentence less than death.” 
+
+
+People v. Easley, 34 Cal. 3d 858, 878 n.10, 671 P.2d 813, 
+196 Cal. Rptr. 309 (1983) (quoting Lockett v. Ohio, 438 
+U.S. 586, 604 (1978)); P.A. 160, 178. The court was con- 
+cerned that “CALJIC 8.84.1 — while listing a variety of 
+aggravating and mitigating factors — does not explicitly 
+inform the jury that it may consider any mitigating factor 
+proffered by the defendant.” Easley, 34 Cal. 3d at 878 
+(emphasis in original); People v. McLain, 46 Cal. 3d 97, 
+113-14, 757 P.2d 569, 249 Cal. Rptr. 630 (1988) (“the 
+language of former factor (k) — with its exclusive focus on 
+‘the crime’ and not ‘the criminal’ —- might mislead jurors 
+
+
+15 
+
+
+about the scope of their responsibility under the Constitu- 
+tion and about the evidence they might consider in exercis- 
+ing their responsibility”). The form CALJIC 8.84.1 
+instruction was changed to reflect the court’s ruling. 
+People v. Davenport, 41 Cal. 3d 247, 284 n.14, 710 P.2d 
+861, 221 Cal. Rptr. 794 (1986). 
+
+
+Ill. The California Supreme Court Opinion Deny- 
+ing Payton’s Claim 
+
+
+The California Supreme Court denied the claim at 
+issue here by a five-to-two votein 1992. PA. 139-86; see 
+especially id. at 159-65. Relying on Boyde v. California, 
+
+
+494 U.S. 370 (1990), the majority held that it was—not__ 
+
+
+reasonably likely that Payton’s jury was misled to believe 
+that it was not permitted to consider Payton’s mitigating 
+evidence. P.A. 159, 162. 
+
+
+The state court explained that in Boyde, “the United 
+States Supreme Court .. . held that the language of factor 
+(k) satisfies the federal Eighth Amendment.” P.A. 160. It 
+noted that Boyde had “reasoned that factor (k) does not, as 
+the petitioner in that case argued, ‘limit the jury’s consid- 
+eration to “any other circumstance of the crime which 
+extenuates the gravity of the crime.”’ [Citation omitted.] 
+Instead, the factor directs the jury ‘to consider any other 
+circumstance that might excuse the crime, which certainly 
+includes a defendant’s background and character.” P.A. 
+160-61. The court stated that “Boyde does not prevent a 
+defendant from asserting a claim to the effect that prosecu- 
+torial argument, or other factors, led the jury to misinter- 
+pret factor (k).... However, in evaluating such claims we 
+do not treat comments by attorneys as if they had the same 
+force as the trial court’s instructions on the law.” P.A. 161. 
+
+
+16 
+
+
+“Boyde also teaches that comments by attorneys ‘must be 
+judged in the context in which they are made.’” Jd. 
+
+
+The court explained that several considerations led it 
+to reject Payton’s claim. P.A. 162. The court observed that 
+although “[iJt is true that the prosecutor during closing 
+argument suggested a narrow and incorrect interpretation 
+of factor (k),” “[aJny impact this argument may have had 
+
+. was immediately blunted by defense counsel’s objec- 
+tion, which led the court to remind the jury that lawyers’ 
+comments were ‘not évidence’ but ‘argument,’ ‘to be placed 
+in their proper perspective.’” P.A. 162. 
+
+
+The court emphasized that “[lJater in his closing 
+argument, the prosecutor implicitly conceded the rele- 
+vance of defendant’s mitigating evidence by devoting 
+substantial attention to it.” P.A. 162. The court noted that 
+“(t]he prosecutor also suggested, properly, how the jury 
+might weigh defendant’s evidence against the evidence in 
+aggravation.” PA. 162-63. The court concluded that 
+“lo]bviously, this exercise by the prosecutor had a point 
+only if it was contemplated that the jury would consider 
+defendant’s evidence.” P.A. 163 (original emphasis). 
+
+
+Further, according to the court, “(flor the jury to have 
+accepted a narrow view of factor (k) in this case would 
+have meant disregarding ail of defendant’s mitigating 
+evidence, since the testimony of his eight penalty phase 
+witnesses was all directed to his religious conversion and 
+consequent behavior in prison.” P.A. 163. The court 
+thought “it unlikely, however, as did the high court in 
+Boyde, ‘that reasonable jurors would believe the court's 
+instructions transformed all of defendant’s “favorable 
+testimony into a virtual charade.”’” Id. The court found 
+“(t]he high court’s observation . . . especially apt when the 
+
+
+17 
+
+
+trial court, as here, has also instructed the jury to consider 
+‘all of the evidence which has been received during any 
+part of the trial’ in determining the penalty.” Jd. 
+
+
+Finally, the court emphasized that “[dJefense counsel, 
+in his own closing argument, strongly reinforced the 
+correct view that defendant’s religious conversion was 
+proper mitigating evidence.” P.A. 164. 
+
+
+IV. Payton’s Federal Habeas Action 
+
+
+Payton asserted his instruction claim in a federal 
+petition for writ of habeas corpus filed on May 6, 1996. The 
+district court granted penalty relief on the ground that 
+Payton’s penalty trial was rendered fundamentally unfair 
+by the prosecutor’s misconduct in incorrectly arguing to 
+the jury that it could not consider Payton’s mitigating 
+evidence. P.A. 138. A panel of the Ninth Circuit Court of 
+Appeals reversed the district court. PA. 98-107. An en 
+banc panel then granted penalty relief on Payton’s instruc- 
+tion claim. PA. 46-86. This Court granted the State’s 
+petition for a writ of certiorari, vacated the en banc deci- 
+sion, and remanded the case for further consideration in 
+light of Woodford v. Garceau, 538 U.S. 202 (2003), P.A. 45, 
+a case that made Payton’s habeas action subject to the 
+provisions of the Antiterrorism and Effective Death 
+Penalty Act, 28 U.S.C. §§2241 et seg. (“AEDPA”). Applying 
+AEDPA, an en banc panel of the Ninth Circuit held that 
+the California Supreme Court unreasonably applied 
+clearly established federal law to the facts of Payton’s case 
+in denying Payton’s instruction claim. P.A. 1-44. 
+
+
+¢ 
+
+
+18 
+
+
+SUMMARY OF ARGUMENT 
+
+
+Today, there is no question that the Eighth Amend- 
+ment requires a sentencing jury to consider any evidence a 
+capital defendant proffers as a basis for a sentence less 
+than death. But in 1981, when William Payton’s penalty 
+trial was held, the law was much less clear. It was that 
+lack of clarity that caused the problem that occurred in 
+this case. Through a jury instruction that was ambiguous, 
+conflicting interpretations of that instruction argued by 
+the prosecutor and the defense counsel, and the failure of 
+the trial court to resolve the conflict and clearly instruct 
+the jury on the law, Payton’s jury likely did not understand 
+its obligation to consider the evidence the defense had 
+presented when making its decision as to whether Payton 
+should live or die. 
+
+
+California enacted a new death penalty statutory 
+scheme in 1977. With minor changes, this scheme was 
+approved by voter initiative in 1978. California Penal 
+Code, §190.3. The statutory scheme provides that a sen- 
+tence of death is to be imposed if the aggravating circum- 
+stances outweigh the mitigating circumstances and a 
+sentence of life in prison without the possibility of parole is 
+to be imposed if the mitigating circumstances outweigh 
+the aggravating circumstances. The scheme also includes 
+factors the jury is to consider in weighing the aggravating 
+circumstances against the mitigating circumstances. All 
+but one of the factors relate to the circumstances of the 
+capital offense, the defendant’s capacity or condition at the 
+
+
+time of the offense, or the defendant’s prior criminal - 
+
+
+history. The final factor listed in the statute is (k): “Any 
+other circumstance which extenuates the gravity of the 
+crime even though not a legal excuse for the crime.” This 
+statutory list of factors was, for many years, including at 
+
+
+19 
+
+
+the time of Payton’s trial, the instruction given to guide 
+the jury in its penalty determination. 
+
+
+In 1978, this Court decided Lockett v. Ohio, 438 U.S. 
+586, holding that the Eighth Amendment requires a 
+capital jury to consider mitigating evidence presented by 
+the defendant. The evidence that Lockett’s jury had been 
+precluded from considering had included evidence of her 
+minor role in the offense, her lack of a criminal record, her 
+age and her history of mental health problems. This Court 
+did not decide another case about the right of a capital 
+defendant to have his mitigating evidence considered until 
+1982 in Eddings v. Oklahoma, 455 U.S. 104, the year after 
+Payton’s trial. 
+
+
+In 1979, the California Supreme Court upheld factor 
+(k) against a claim that the provision was over-broad 
+because it allowed the jury unbridled discretion with 
+respect to the penalty decision. People v. Frierson, 25 
+Cal. 3d 132, 178, 599 P.2d 587, 158 Cal. Rptr. 281. The 
+Frierson court noted that a capital defendant had similar 
+latitude in the presentation of mitigating evidence, id., but 
+the factor (k) instruction given to penalty juries continued 
+to simply quote verbatim the language of the statute. 
+
+
+It was not until 1983, in People v. Easley, 34 Cal. 3d 
+858, 878, 671 P.2d 813, 196 Cal. Rptr. 309 (1983), that the 
+California Supreme Court recognized that there was “some 
+force” to the argument that the wording of the factor (k) 
+instruction was “potentially misleading.” Citing Lockett, the 
+Easley court instructed trial courts to add to the instruction 
+a specific advisement to the jury to consider “any other 
+aspect of [the] defendant’s character or record ... that 
+the defendant proffers as a basis for a sentence less than 
+death.” 34 Cal. 3d at 878 n.10. The standard penalty 
+
+
+20 
+
+
+1astruction, CALJIC 8.84.1, was changed after Easley to 
+incorporate the holding in that case. People v. Davenport, 
+41 Cal. 3d 247, 284 n.14, 710 P.2d 861, 221 Cal. Rptr. 794 
+(1986); People v. Brown, 40 Cal. 3d 512, 541, 726 P.2d 516, 
+230 Cal. Rptr. 834 (1986). 
+
+
+In 1981, Payton’s jury was instructed pursuant to the 
+language of factor (k) prior to the Easley adornment. 
+Lockett had already been decided and may have ade- 
+quately conveyed to attorneys and judges the requirement 
+that the jury consider Lockett-type evidence, that is, 
+mitigating evidence that existed at the time of, and related 
+to, the offense. But Payton’s proffered mitigating evidence 
+was exclusively post-offense evidence, consisting of his 
+post-arrest religious conversion and his ensuing good 
+works in jail. It was not until 1986, in Skipper v. South 
+Carolina, 476 U.S. 1, that this Court held that the Lockett 
+principle applied to mitigating evidence subsequent to the 
+offense, evidence that would include good conduct in jail. 
+The pre-Easley language of factor (k) was sufficiently 
+ambiguous that the prosecutor and the defense attorney in 
+this case had conflicting interpretations: the prosecutor 
+believed post-offense evidence was not relevant to the 
+jury’s consideration while defense counsel pleaded for an 
+instruction that clearly told the jury of the requirement to 
+consider the mitigating evidence that had been presented. 
+
+
+The trial court refused to give any instruction other 
+than the standard, pre-Easley instruction. More signifi- 
+cant, the trial court allowed the attorneys to argue their 
+respective interpretations to the jury and gave no guid- 
+ance to the jury as to how to resolve the conflict in inter- 
+pretations. In short, the trial court allowed the jurors to 
+determine for themselves whether the evidence was 
+relevant to the penalty determination. 
+
+
+| 
+
+
+21 
+
+
+In Boyde v. California, 494 U.S. 370 (1990), this Court 
+held that the pre-Easley factor (k) instruction was not 
+likely to have misled the jury into not considering Boyde’s 
+proffered mitigating evidence. Boyde’s proffered mitigation 
+was evidence of his impoverished childhood and disadvan- 
+taged background; and the Boyde court saw “no reason to 
+believe that reasonable jurors would resist the view, ‘long 
+held by society’... that defendants who commit criminal 
+acts that are attributable to a disadvantaged background, 
+or to emotional and mental problems, may be less culpable 
+than defendants who have no such excuse.” Id. at 382 
+(emphasis in original). The Boyde court also pointed out 
+that there was no “objectionable prosecutorial argument”; 
+the prosecutor “never suggested that the background and 
+character evidence could not be considered.” Jd. at 385. 
+And Boyde set forth factors to consider in determining 
+whether a penalty jury was misled about consideration of 
+the mitigating evidence, factors which include the nature 
+of the evidence proffered, arguments of counsel and other 
+jnstructions given by the court. 
+
+
+The California Supreme Court, relying on Boyde, 
+rejected Payton’s contention that his jury had been misled 
+about consideration of his proffered mitigating evidence. 
+In doing so, however, the California court simply followed 
+the holding in Boyde without consideration of the differ- 
+ences between the two cases and without consideration of 
+the very factors that this Court held in Boyde are to be 
+considered. The state court not only was wrong in conclud- 
+ing that Payton’s jury understood the requirement to 
+consider the mitigating evidence, its application of the 
+settled law at the time of its decision, law that included 
+Skipper as well as Boyde, was unreasonable. 
+
+
+22 
+
+
+ARGUMENT 
+
+
+I. THE CALIFORNIA SUPREME COURT WRONGLY 
+DECIDED PAYTON’S CLAIM 
+
+
+As shown below, the California Supreme Court 
+- wrongly decided Payton’s jury instruction claim. As shown 
+in section II, infra, the court’s decision was an unreason- 
+able application of clearly established federal law that 
+entitles Payton to relief under AEDPA. 
+
+
+A. Payton’s Eighth Amendment Right to Have 
+His Jury Consider and Give Effect to His 
+Mitigating Evidence in Determining Penalty 
+
+
+At the time of the California Supreme Court’s deci- 
+sion, it was settled law that in capital cases, the sentencer 
+could not refuse to consider or be precluded from consider- 
+ing any relevant mitigating evidence offered by the defen- 
+dant. Hitchcock v. Dugger, 481 U.S. 393, 394 (1987); Penry 
+v. Lynaugh, 492 U.S. 302, 307, 320, 328 (1989) (reversing 
+death sentence because jury was not instructed that. it 
+could consider and give effect to defendant's mitigating 
+evidence), overruled on other grounds, Atkins v. Virginia, 
+536 U.S. 304 (2002); Lockett v. Ohio, 438 U.S. 586, 604 
+(1978) (plurality states three years before Payton’s trial 
+“that the Eighth and Fourteenth Amendments require 
+that the sentencer, in all but the rarest kind of capital 
+case, not be precluded from considering, as a mitigating 
+factor, any aspect of a defendant’s character or record and 
+any of the circumstances of the offense that the defendant 
+proffers as a basis for a sentence less than death”) (origi- 
+nal emphasis) (footnotes omitted). 
+
+
+It was also settled that “relevant mitigating evidence” 
+included evidence of a defendant’s good behavior in jail 
+after his arrest on the capital charge, and evidence of his 
+
+
+23 
+
+
+likely future productive life in prison. Skipper v. South 
+Carolina, 476 U.S. 1, 4, 7, 8 (1986); Payne v. Tennessee, 
+501 U.S. 808, 822 (1991) (“virtually no limits are placed on 
+the relevant mitigating evidence a capital defendant may 
+introduce concerning his own circumstances”). 
+
+
+B. The Gontext of the Proceedings at Payton’s 
+Trial 
+When a capital defendant contends that an ambiguous 
+instruction misled the jury to believe it could not consider 
+his mitigating evidence, the court must examine the 
+“context of the proceedings” to resolve the claim, including 
+the nature of the evidence presented, the arguments of 
+counsel to the jury, and the other instructions given. 
+Boyde, 494 U.S. at 383-86. The question is whether, 
+viewing the entire context, “there is a reasonable likeli- 
+hood that the jury has applied the challenged instruction 
+in a way that prevents the consideration of constitution- 
+ally relevant evidence.” Jd. at 379. “Although a defendant 
+need not establish that the jury was more likely than not 
+to have been impermissibly inhibited by the instruction, a 
+capital sentencing proceeding is not inconsistent with the 
+Eighth Amendment if there is only a possibility of such an 
+inhibition.” Jd. 
+
+
+1. The Type of Evidence Presented 
+
+
+The most common type of mitigating evidence pre- 
+sented by a capital defendant is evidence regarding back- 
+ground, usually an impoverished childhood, often an 
+abusive upbringing, frequently pre-existing mental health 
+conditions. As this Court recognized in Boyde, there is “no 
+reason to believe that reasonable jurors would resist the 
+
+
+24 
+
+
+view, ‘long held by society’. . . that defendants who commit 
+criminal acts that are attributable to a disadvantaged 
+background, or to emotional and mental problems, may be 
+less culpable than defendants who have no such excuse.” 
+494 U.S. at 382 (original emphasis). Thus, an instruction 
+advising the jury to consider any “evidence which extenu- 
+ates the gravity of the crime,” the language of factor (k) as 
+
+
+given to Payton’s (and Boyde’s) jurors, conveys to the jury 
+
+
+the relevancy of background evidence. 
+
+
+But Payton’s mitigation case consisted entirely of 
+evidence of his behavior after the capital crime, and he 
+argued that his evidence made him worth saving despite 
+the gravity of the crime. Payton’s evidence does not fit 
+within the language of factor (k) because it does not 
+extenuate the gravity of the crime or make him less 
+culpable than defendants who do not share the traits and 
+history he presented to his jury. As this Court explained in 
+Skipper, evidence that a capital defendant has been a well- 
+behaved and well-adjusted prisoner, and the favorable 
+inferences therefrom regarding his character and probable 
+future conduct, although mitigating, “would not relate 
+specifically to [the defendant’s] culpability for the crime he 
+committed.” 476 U.S. at 4. If the Skipper Court viewed 
+‘such evidence in this fashion, it is reasonably likely that 
+Payton’s jury had the same view, and agreed with the 
+prosecutor that it could not consider Payton’s evidence 
+because it was not a “circumstance which extenuates the 
+gravity of the crime.” - 
+
+
+2. The Prosecutor’s Incorrect Argument 
+
+
+The prosecutor repeatedly argued to the jury that 
+legally it could not consider any of Payton’s mitigating 
+evidence. Thus, the prosecutor argued: 
+
+
+25 
+
+
+“K” says any other circumstance which ex- 
+tenuate or lessens the gravity of the crime. What 
+does that mean? That to me means some fact — 
+okay? — some factor at the time of the offense that 
+
+
+somehow operates to reduce the gravity for what 
+the defendant did. 
+
+
+It doesn't refer to anything after the fact or 
+later. That's particularly important here because 
+the only defense evidence you have heard has been 
+about this new born Christianity. 
+
+
+J.A. 68 (emphasis added); J.A. 70-76 (similar statements by 
+the prosecutor). The State admits that the prosecutor’s 
+argument was incorrect. Brief for Petitioner (“Pet. Br.”) at 6.* 
+
+
+3. The Trial Court’s Failure to Resolve the 
+Conflict in Interpretation of the In- 
+struction 
+
+
+The trial court’s inadequate instructions and re- 
+sponses to the prosecutor’s incorrect argument resulted in 
+the jury having to decide the legal question of whether it 
+could even consider Payton’s mitigating evidence. 
+
+
+Before closing arguments, the court rejected Payton’s 
+requests to modify the instructions to inform the jury that 
+it could consider evidence of Payton’s rehabilitation, 
+character, background, history, mental condition and 
+
+
+physical condition. J.A. 55-56. 
+
+
+* At the oral argument before this Court in Boyde, the California 
+Attorney General conceded that at Payton’s trial, “the prosecutor in his 
+closing summation ‘misled the jurors’ by arguing that the jury could not 
+consider evidence, presented at the penalty phase of this capital case, 
+that defendant had experienced a religious awakening.” P.A. 174-75, 
+179-80. 
+
+
+26 
+
+
+During the prosecutor’s closing argument, defense 
+counsel objected to the inaccurate interpretation of law 
+proffered by the prosecutor. Although the trial court had 
+previously stated, again outside the presence of the jury, 
+that it agreed with Payton that his evidence applied under 
+factor (k), it overruled Payton’s objection, denied his 
+motion for a mistrial, and adopted the prosecutor’s sugges- 
+tion that counsel could argue to the jury their opposing 
+interpretations of the legal scope of factor (k). The court 
+then admonished the jury that the comments of counsel 
+are not evidence but argument, and “it’s to be placed in its 
+proper perspective.” However, the court never provided 
+that perspective, but instead left the jury to decide for 
+itself which of the competing views of the law was correct 
+and whether it was allowed to consider Payton’s evidence. 
+Further, immediately after the admonition the prosecutor 
+launched right back into his argument that the jury could 
+not consider Payton’s mitigating evidence, and he repeated 
+that argument in the rest of his closing. That could only 
+suggest to the jury that the defense objection had failed 
+and the prosecutor’s argument was sanctioned by the 
+court. 
+
+
+Over a century ago, this Court explained that “in the 
+courts of the United States it is the duty of juries in 
+criminal cases to take the law from the court, and apply 
+that law to the facts as they find them to be from the 
+evidence. Upon the court rests the responsibility of declar- 
+ing the law.... ” Sparf v. United States, 156 U.S. 51, 102 
+(1895). These fundamental roles were subverted here. 
+Because the trial court abdicated its duties to instruct the 
+jury on the law and supervise the arguments of counsel 
+accordingly, the jury was left to decide not only whether 
+Payton should live or die (a monumental task in any 
+
+
+: 
+4 
+
+
+27 
+
+
+capital penalty trial), but also the preliminary legal 
+question whether it could consider Payton’s mitigating 
+evidence at all. Only if every juror answered the prelimi- 
+nary question in the affirmative, i.e., that he or she was 
+permitted to consider Payton’s evidence as a matter of law, 
+could Payton’s Eighth Amendment right to have the jury 
+
+
+give effect to his mitigating evidence possibly be vindi- 
+
+
+cated. There is no assurance how the jurors answered that 
+preliminary question. 
+
+
+It is hard to imagine a court having confidence in any 
+criminal judgment resulting from a proceeding in which 
+the jury was required to play the role of judge and deter- 
+mine which of the parties’ competing views of relevance 
+was correct as a matter of law. Kelly v. South Carolina, 
+534 U.S. 246, 256 (2002) (“A trial judge’s duty is to give 
+
+
+-instructions sufficient to explain the law, an obligation 
+
+
+that exists independently of any question from the jurors 
+or any other indication of perplexity on their part.”); 
+Carter v. Kentucky, 450 U.S. 288, 302 (1981) (“Jurors are 
+not experts in legal principles; to function effectively, and 
+justly, they must be accurately instructed in the law.”) A 
+death judgment resulting from such a perverted process is 
+too unreliable to stand. Penry, 492 U.S. at 328 (“in the 
+absence of instructions informing the jury that it could 
+consider and give effect to the mitigating evidence ... by 
+declining to impose the death p»nalty, we conclude that 
+the jury was not provided with a vehicle for expressing its 
+‘reasoned moral response’ to that evidence in rendering its 
+decision”). 
+
+
+28 
+
+
+4. Other Instructions Compounded the 
+Harm 
+
+
+The jury received an instruction to consider “all of the 
+evidence which has been received during any part of the 
+trial in this case, except as you may be hereafter in- 
+structed.” J.A. 94. This instruction was immediately 
+followed by the list of 11 penalty factors, including factor 
+(k). Id. 
+
+
+The jury was further instructed that “[a]fter having 
+heard all of the evidence and after having heard and 
+considered the argument of counsel, you shall consider .. . 
+the applicable factors of aggravating and mitigating 
+circumstances upon which you have been instructed.” J.A. 
+96. Thus, the jury was instructed to consider the prosecu- 
+tor’s erroneous argument that Payton’s entire penalty 
+presentation did not qualify as mitigating evidence. The 
+instructions compounded the harm of the prosecutor’s 
+repeated, incorrect arguments and made it more likely 
+that the jury disregarded Payton’s evidence. j 
+
+
+C. The Reasonable Likelihood Payton’s Miti- 
+gation Was Not Considered 
+
+
+When examined in the context of the actual proceed- 
+ings in Payton’s case, as required by Boyde, it is beyond 
+doubt that there is a reasonable likelihood that the jury 
+did not understand the requirement to consider the 
+mitigating evidence. The instructions did not clearly 
+advise the jurors of that requirement, the prosecutor and 
+defense counsel argued conflicting interpretations of the 
+instructions regarding consideration of mitigation, and the 
+trial court did nothing to resolve that conflict for the jury. 
+Given that the type of mitigation that was presented was 
+
+
+29 
+
+
+exclusively post-crime evidence and, as Skipper recog- 
+nizes, such evidence does not reduce culpability for the 
+offense but rather offers the jury a non-offense reason to 
+spare the defendant’s life, the conclusion becomes inescap- 
+able that there can be no reasonable assurance that 
+Payton’s jury understood the requirement to consider his 
+mitigating evidence. 
+
+
+Il. THE CALIFORNIA SUPREME COURT'S DECI- 
+SION INVOLVED AN UNREASONABLE AP- 
+PLICATION OF CLEARLY ESTABLISHED 
+FEDERAL LAW 
+
+
+Under AEDPA, a habeas petition challenging a state 
+court judgment “shall not be granted with respect to any 
+claim that was adjudicated on the merits in State court 
+proceedings unless the adjudication of the claim ... (1) 
+resulted in a decision that was contrary to, or involved an 
+unreasonable application of, clearly established Federal 
+law, as determined by the Supreme Court of the United 
+States.... ” 28 U.S.C. §2254(d)\(1). “Clearly established 
+federal law” means “the governing legal principle or 
+principles set forth by the Supreme Court at the time the 
+state court renders its decision.” Lockyer uv. Andrade, 538 
+U.S. 63, 71-72 (2003). 
+
+
+Clearly established federal law at the time of the state 
+court decision here held that in capital cases, the sen- 
+tencer may not refuse to consider, or be precluded from 
+considering or giving effect to, any relevant mitigating 
+evidence offered by the defendant, including evidence of a 
+defendant's good behavior in jail after his arrest on the 
+capital charge and of his likely future productive life in 
+prison. Penry, 492 U.S. at 321-22, 328; Hitchcock, 481 U.S. 
+at 394; Skipper, 476 U.S. at 4, 7, 8. Clearly established 
+
+
+30 
+
+
+federal law also required that when a capital defendant 
+asserts that an ambiguous instruction misled the jury to 
+believe it could not consider his mitigating evidence, the 
+court must examine the “context of the proceedings,” 
+including the nature of the evidence presented, the argu- 
+ments of counsel to the jury, and the other instructions 
+given, to resolve the claim. Boyde, 494 U.S. at 383-86. 
+
+
+_ The state court relied on the outcome in Boyde in 
+denying Payton’s claim. The court’s decision was not only 
+wrong, as shown above, but an unreasonable application of 
+clearly established federal law under AEDPA. The court’s 
+conclusion that Boyde required, or even supported, its 
+holding is unreasonable because Boyde did not address the 
+instruction at issue here in the context of post-crime 
+evidence. Indeed, Boyde explicitly distinguished the type 
+of evidence at issue there — pre-crime evidence of defen- 
+dant’s life history - from evidence that “pertain|[s] to 
+prison behavior after the crime for which [the defendant] 
+was sentenced to death, as was the case in Skipper,” 494 
+U.S. at 382 n.5, and here. Boyde also did not address other 
+salient facts present here: repeated arguments by a 
+prosecutor that the jury could not consider any of the 
+defendant’s mitigating evidence, and a trial court’s failure 
+not only to correct such arguments, but to force the jury to 
+sy whether it could consider the evidence as a matter 
+of law. . 
+
+
+Boyde is an instrumental case, designed to effectuate 
+and protect “(t]he Eighth Amendment require[ment] that 
+the jury be able to consider and give effect to all relevant 
+mitigating evidence offered by” the defendant. 494 U.S. at 
+377-78, 383. By applying Boyde as it did, the state court 
+frustrated Boyde’s larger purpose, and the clear mandate 
+of Skipper, Penry, Eddings and Lockett. As the Ninth 
+Circuit properly held, and Payton shows below, the state 
+
+
+at met EWE et 
+
+
+31 
+
+
+court decision unreasonably applied clearly established 
+Supreme Court precedent to the facts of this case. P.A. 25. 
+
+
+A. “Unreasonable Application” Standards 
+
+
+When evaluating whether a state court’s application of 
+clearly established federal law is reasonable, AEDPA 
+demands a context-specific examination of the record that 
+was before the state court. Holland v. Jackson, 124 S. Ct. 
+2736, 2337-38 (2004) (per curiam) (“we have made clear 
+that whether a state court’s decision was unreasonable 
+must be assessed in light of the record the court had before 
+it”); Miller-El v. Cockrell, 537 U.S. 322, 348 (2003) (rea- 
+sonableness of state court’s factual finding assessed “in 
+light of the record before the court”). 
+
+
+This Court’s examination of the record in Wiggins v. 
+Smith, 539 U.S. 510 (2003), is instructive. After concluding 
+thet the Maryland Court of Appeals had correctly identi- 
+fied Strickland v. Washington, 466 U.S. 668 (1984), as the 
+controlling Supreme Court precedent, the Court turned to 
+the factual record that was before the state court and 
+conducted its own analysis of the merits. 539 U.S. at 523. 
+The Court concluded that it was unreasonable for the 
+Maryland Court of Appeals to have “assumed that because 
+counsel had some information with respect to petitioner’s 
+background ... they were in a position to make a tactical 
+choice not to present a mitigation defense.” Jd. at 527 
+(original emphasis) (citations omitted). In reaching this 
+conclusion, the Court emphasized that the Court of Ap- 
+peals “did not conduct an assessment” of the decision by 
+counsel to stop investigation as evidenced in the record, 
+but merely assu.zed that the investigation was adequate. 
+
+
+32 
+
+
+Id. Additionally, the Court of Appeals was objectively 
+unreasonable because its decision relied on an erroneous 
+factual finding. Jd. at 529. 
+
+
+As discussed further below, similar to the Maryland 
+Court of Appeals in Wiggins, the California Supreme Court 
+here made assumptions about the effect of the prosecutor’s 
+erroneous legal argument without conducting an appro- 
+priate assessment of the actua! record before it. The 
+court's failure to consider the significance of the type of 
+evidence presented by Payton, and its difference from that 
+presented in Boyde, was objectively unreasonable. The 
+court's failure to identify that the trial court permitted the 
+parties to argue the law is a factual omission tantamount 
+to error and objectively unreasonable. The court’s failures 
+to assess the impact of both the prosecutor’s repeated 
+misstatements of law and the court’s rulings forcing the 
+jury to decide whether it could consider Payton’s evidence 
+as a matter of law were also objectively unreasonable. The 
+court's decision is particularly unreasonable because of its 
+failure to consider the totality of the pertinent facts in the 
+record. 
+
+
+B. The State Court’s Reliance on Boyde as 
+Dispositive of Payton’s Challenge is an Un- 
+
+
+reasonable Application of Boyde, Skipper, 
+Penry, Eddings and Lockett 
+
+
+The California Supreme Court’s rote application of 
+Boyde to resolve Payton’s challenge was objectively unrea- 
+sonable because it failed to consider significant differences 
+between the two cases. 
+
+
+33 
+
+
+1. The Nature of the Mitigating Evidence 
+
+
+The state court opinion accurately describes Payton’s 
+mitigating evidence but does not recognize the difference 
+between the nature of Payton’s mitigation and the nature 
+of Boyde’s mitigation. P.A. 159-65.° 
+
+
+Boyde presented pre-crime evidence of his impover- 
+ished childhood and disadvantaged background. In reject- 
+ing Boyde’s claim that the instruction did not advise the 
+jury to consider such non-crime related evidence, this 
+Court saw “no reason to believe that reasonable jurors 
+would resist the view, ‘long held by society’. . . that defen- 
+dants who commit criminal acts that are attributable to a 
+disadvantaged background, or to emotional and mental 
+problems, may be less culpable than defendants who have 
+no such excuse.” 494 U.S. at 382 (original emphasis). 
+
+
+The nature of the evidence presented by Payton is 
+critically different from that presented by Boyde. Payton’s 
+evidence of his post-arrest religious conversion and good 
+behavior in jail did not even exist at the time of the crime 
+and, as the Ninth Circuit noted, cannot “extenuate the 
+gravity of the crime” under a natural reading of factor (k). 
+P.A. 16-17. Payton’s evidence, unlike Boyde’s, did not 
+explain why or how he had become the person he was at 
+the time of the capital crime. Payton “relied on evidence of 
+his behavior after commission of the crime, arguing in 
+essence that despite the gravity of the crime he committed, 
+he was nevertheless ‘worth saving.’” P.A. 181 (original 
+
+
+* As Justice Kennard noted in her dissent in the state court 
+opinion (which was joined by Justice Mosk), one of the important 
+factors cited by Boyde in support of its holding was the type of mitigat- 
+ing evidence presented by the defendant. P.A. 181; Boyde, 494 U.S. at 
+383-85. 
+
+
+34 
+
+
+emphasis). Payton’s evidence does “not relate specifically 
+to [his] culpability for the crime he committed.” Skipper, 
+476 USS. at 4. 
+
+
+The state court’s reliance on Boyde coupled with its 
+failure to consider the difference in the nature of the 
+evidence presented here, and the resulting effect on the 
+jury, is particularly unreasonable given that Boyde explic- 
+itly distinguished Boyde’s character and background 
+evidence from evidence that “pertain|s] to prison behavior 
+after the crime for which [the defendant] was sentenced to 
+death, as was the case in Skipper.” 494 U.S. at 382 n.5. 
+The state court ignored the distinction noted by this Court 
+and instead uncritically and unreasonably applied Boyde’s 
+holding to a fundamentally different factual scenario. 
+Wiggins, 539 U.S. at 520 (“a federal court may grant relief 
+when a state court has misapplied a ‘governing legal 
+principle’ to ‘a set of facts different from those of the case 
+in which the principle was announced’ ”). 
+
+
+Ignoring the historical context of this case, the State 
+asserts that “[t]he consideration of post-crime character 
+evidence in determining the appropriate sentence is well 
+rooted in contemporary standards regarding the infliction of 
+punishment,” and that the Ninth Circuit “improperly 
+assumed” that “society would naturally consider pre-crime 
+evidence of character and background but not post-crime 
+character evidence such as Payton’s rehabilitation.” Pet. Br. 
+at 18, 27. However, Skipper — the first Supreme Court case 
+to hold that the Eighth Amendment requires juries to 
+consider a capital defendant’s post-arrest good behavior in 
+jail as mitigating evidence — was not decided until over four 
+years after Payton’s trial. And the Skipper Court was not 
+unanimous in holding that post-crime evidence was even 
+relevant to penalty, let alone “well rooted in contemporary 
+
+
+Owe 
+
+
+35 
+
+
+standards.” 476 U.S. 1, 4.° Skipper explained that evidence 
+that a capital defendant has been a well-behaved and well- 
+adjusted prisoner, and the favorable inferences therefrom 
+regarding his character and probable future conduct, does 
+“not relate specifically to [the defendant’s] culpability for 
+the crime he committed.” 476 U.S. at 4. If the Skipper 
+Court viewed such evidence in this fashion, it is unreason- 
+able to conclude that Payton’s jury had ary other view, 
+especially in light of the prosecutor’s argument that it 
+could not consider Payton’s evidence because it was not a 
+“circumstance which extenuates the gravity of the crime.” 
+
+
+2. Counsel’s Conflicting Arguments 
+
+
+In reaching its holding, Boyde emphasized its agree- 
+ment “with the Supreme Court of California, which was 
+without dissent on this point, that ‘[a]lthough the prosecu- 
+tor argued that in his view the evidence did not suffi- 
+ciently mitigate Boyde’s conduct, he never suggested that 
+the background and character evidence could not be 
+considered.” 494 U.S. at 385. The state court unreasona- 
+bly applied federal law by failing to properly analyze the 
+effect of the repeated arguments of Payton’s prosecutor 
+that the jury could not consider Payton’s mitigating 
+evidence. 
+
+
+The state court recognized that the prosecutor’s 
+argument was incorrect, PA. 159-60, but concluded that 
+any impact the argument may have had was “immediately 
+
+
+* Although the Court was unanimous in holding that the evidence 
+in Skipper was admissible, three justices expressly took issue with post- 
+crime evidence’s relevancy in determining penalty, finding it admissible 
+in Skipper only to rebut the prosecutor’s evidence and argument. 
+Skipper, 476 U.S. at 9-15 (Powell, J., concurring). 
+
+
+36 
+
+
+blunted by defense counsel’s objection” and the court’s 
+admonition that statements of counsel are not evidence 
+but argument and are to be placed in their proper perspec- 
+tive. PA. 162. The first and only time the defense objected 
+to the prosecutor’s argument was after the prosecutor’s 
+first misstatement of law, and then only outside the 
+presence of the jury. J.A. 68-70. The court overruled the 
+objection (also outside the presence of the jury) and never 
+corrected or condemned the prosecutor’s incorrect argu- 
+ment before the jury. Instead, the court told counsel that 
+they could argue their competing views of the law to the 
+jury, and thereby authorized the prosecutor to continue his 
+misstatements. Immediately after the admonition, the 
+prosecutor launched right back into his argument that the 
+jury could not consider Payton’s evidence, and he repeated 
+that argument throughout the rest of his closing. J.A. 70. 
+The state court improperly evaluated the impact of the 
+prosecutor’s closing argument on the jury on the basis of 
+only one of his comments, and failed to consider the 
+cumulative impact of all of his misstatements of law. P.A. 
+17; see Williams v. Taylor, 529 U.S. 362, 416 (2000) (state 
+court’s “obvious failure to consider the totality of the 
+omitted mitigating evidence” involved an unreasonable 
+application of precedent in ineffective assistance of counsel 
+case). 
+
+
+In support of its conclusion that the impact of the 
+prosecutor’s argument was “blunted” by Payton’s sole 
+objection, the state court also quoted Boyde for the point 
+that comments of counsel “‘are likely viewed as the state- 
+ments of advocates,’ especially when ‘billed in advance to 
+the jury as matters of argument, not evidence.’” P.A. 162. 
+Boyde explained: 
+
+
+: 
+j 
+
+
+37 
+
+
+‘[Ajrguments of counsel generally carry less 
+weight with a jury than do instructions from the 
+court. The former are usually billed in advance to 
+the jury as matters of argument, not evidence, 
+see Tr. 3933, and are likely viewed as the state- 
+ments of advocates; the latter, we have often rec- 
+ognized, are viewed as definitive and binding 
+statements of law.... Arguments of counsel 
+which misstate the law are subject to objection 
+and to correction by the court. ... And the argu- 
+ments of counsel, like the instructions of the 
+court, must be judged in the context in which 
+they are made. 
+
+
+494 U.S. at 384 (citations omitted). 
+
+
+The state court failed to apply the full teaching of 
+Boyde to the facts of this case. Although “arguments of 
+counsel generally carry less weight with a jury than do 
+instructions from the court,” they carry more weight 
+where, as here, the court does not give the jury “definitive 
+and binding statements of law” or correct misleading 
+arguments, but instead allows counsel to present their 
+conflicting legal views to the jury for it to resolve. Taylor v. 
+Kentucky, 436 U.S. 478, 488-89 (“arguments of counsel 
+cannot substitute for instructions by the court”). 
+
+
+Justice Kennard correctly analyzed the situation in 
+her dissent: 
+
+
+Despite defense counsel’s objection, [the prosecu- 
+tor’s] argument was not corrected by the trial 
+court, which ruled that the prosecutor and de- 
+fense counsel could present to the jury their op- 
+posing interpretations of the scope of factor (k). 
+
+
+The trial court’s ruling was wrong. The 
+proper scope of factor (k) is a question of Jaw, not 
+
+
+38 
+
+
+of fact. It is the trial court’s duty to explain the 
+law to the jury, not to place upon the jury the im- 
+possible burden of deciding which of two incon- 
+sistent views of the law is correct. 
+
+
+P.A. 182 (original emphasis); see also P.A. 21-23. 
+
+
+The prosecutor’s argument here is analogous to telling 
+the jury in a robbery case that the use of force or fear is 
+not an element of the crime and that the jury can find the 
+defendant guilty without considering that element. It 
+would not protect the defendant’s Sixth Amendment right 
+to a jury finding on all elements to simply allow defense 
+counsel to argue force or fear was required. Rather, when 
+defense counsel would object, the court would correct the 
+misstatement and admonish the jury to follow the instruc- 
+tions given by the court. What would be corrected as a 
+matter of course in a run-of-the-mill criminal trial went 
+uncorrected — indeed, was court-sanctioned — at Payton’s 
+death penalty trial. 
+
+
+Fhe state court’s opinion does not assess the impact of 
+this critical aspect of the context of Payton’s proceeding. It 
+is improper to allow the jury to decide matters of law, and 
+to decide them based on conflicting arguments of counsel. 
+The court’s admonition that comments of counsel are 
+argument, not evidence, did nothing to help the jury 
+decide whether the prosecutor was correct or defense 
+counsel was. Griffin v. United States, 502 U.S. 46, 59 
+(1991) (“Jurors are not generally equipped to determine 
+whether a particular theory of conviction submitted to 
+them is contrary to law.... When .. . jurors have been left 
+the option of relying upon a legally inadequate theory, 
+there is no reason to think that their own intelligence and 
+expertise will save them from that error.”). The prosecu- 
+tor’s misleading argument was never “blunted,” and the 
+
+
+Se 
+
+
+39 
+
+
+state court’s conclusion to the contrary is an unreasonable 
+application of Boyde. P.A. 20; see Wiggins, 539 U.S. at 527- 
+28 (finding state court objectively unreasonable in ineffec- 
+tive assistance of counsel case where court .assumed 
+counsel's investigation was adequate but did not conduct 
+an assessment of whether the decision to cease all investi- 
+gation demonstrated reasonable professional judgment 
+based on the record before the court). 
+
+
+The state court also emphasized that “[l]ater in his 
+closing argument, the prosecutor implicitly conceded the 
+relevance of defendant’s mitigating evidence by devoting 
+substantial attention to it.” P.A. 162. The prosecutor made 
+no such concession. At one point he did discuss how to 
+weigh Payton’s evidence, but only after he stated, again, 
+that the evidence did not qualify for consideration under 
+
+
+‘factor (k). At most, the prosecutor can be viewed as argu- 
+
+
+ing a fallback position, contending that if the jury rejected 
+his primary and repeated contention that it could not 
+consider Payton’s evidence, it should then — and only then 
+— weigh the evidence and find it of little value. However, 
+the prosecutor never acknowledged to the jury that it 
+legally could consider Payton’s evidence. 
+
+
+According to the state court, “[flor the jury to have 
+accepted a narrow view of factor (k) in this case would 
+have meant disregarding all of defendant’s mitigating 
+evidence, since the testimony of his eight penalty phase 
+witnesses was all directed to his religious conversion and 
+consequent behavior in prison.” PA. 163. The court 
+thought it unlikely, “as did the high court in Boyde, ‘that 
+reasonable jurors would believe the court’s instructions 
+transformed all of |defendant’s] “favorable testimony into a 
+virtual charade.”’” PA. 163 (quoting Boyde, 494 U.S. at 
+383). 
+
+
+40 
+
+
+However powerful the charade metaphor may be in 
+Boyde, it lacks force here. The fact that the jurors sat 
+through Payton’s penalty presentation does not mean that 
+they must have considered his evidence in reaching their 
+sentencing decision. Payton’s jury was presented with 
+competing legal opinions of whether it could consider 
+Payton’s evidence, and was left by the court to decide for 
+itself whether it could consider the evidence. Thus, in 
+contrast to Boyde, Payton’s jury had to answer a prelimi- 
+nary legal question before it weighed the aggravating and 
+mitigating evidence to decide whether Payton should live 
+or die: did defendant’s penalty evidence even qualify as 
+mitigating evidence that it must consider under the 
+ambiguously worded factor (k)? Only if each and every 
+juror answered that question “yes” were Payton’s Eighth 
+Amendment rights vindicated. There is no assurance how 
+the jurors answered that predicate legal question, a 
+question they should never have been allowed to consider. 
+
+
+Again echoing Boyde, the state court highlighted that 
+“|djefense counsel, in his own closing argument, strongly 
+reinforced the correct view that defendant’s religious 
+conversion was proper mitigating evidence.” PA. 164. 
+Conflicting arguments without dispositive instructions 
+hardly ensure that the jury either knew or followed the 
+correct law. In Boyde, defense counsel’s argument regard- 
+ing consideration of the mitigating evidence was not in 
+conflict with the prosecutor’s argument. Given the conflict 
+in arguments in this case, and the lack of conflict in 
+arguments in Boyde, it was unreasonable of the California 
+Supreme Court to hold that Boyde resolved the challenge 
+in Payton’s case. 
+
+
+Mereover, Payton’s counsel was left to argue that 
+factor (k) included his mitigating evidence despite being 
+
+
+41 
+
+
+“awkwardly worded.” In light of the prosecutor’s repeated 
+and explicit arguments to the contrary, the court’s failure 
+to correct the prosecutor’s misstatements or clarify the 
+scope of factor (k), and the fact that the text of factor (k) 
+more closely supported the prosecutor's view than 
+Payton’s, a reasonable jury would not have been per- 
+suaded by defense counsel's argument. See Taylor, 436 
+U.S. at 488-89 (“arguments of counsel cannot substitute 
+for instructions by the court”). 
+
+
+" The California Supreme Court has often noted the absence of 
+misleading prosecutorial argument in denying claims that former factor 
+(k) led the jury to disregard mitigating evidence. See, e.g., People v. 
+Wright, 52 Cal. 3d 367, 441, 802 P.2d 221, 276 Cal. Rptr. 731 (1991) 
+(“‘the jury was presented with “sympathy” evidence in the penalty 
+phase ... and the prosecutor said nothing te suggest the jury should 
+not consider such evidence’”); People v. Coleman, 48 Cal. 3d 112, 156, 
+768 P.2d 32, 255 Cal. Rptr. 813 (1989) (“Here, the prosecutor made clear 
+at the outset that ‘the jury must consider not only the crime committed, 
+the circumstances of the crime, but the character and background of the 
+defendant. ... [T/hough the prosecutor argued vigorously against the 
+weight of that evidence as mitigation, he at no time intimated ‘hat the 
+evidence should not be considered.”); People v. Hernandez, 47 Cal. 3d 
+315, 366, 763 P.2d 1289, 253 Cal. Rptr. 199 (1989) (“while the prosecu- 
+tor contested whether |defendant’s mitigating] evidence merited the 
+lesser penalty of life without possibility of parole, he never contested 
+the jury's right or duty to consider it”); People v. Allen, 42 Cal. 3d 1222, 
+1276, 729 P2d 115, 232 Cal. Rptr. 849 (1987) (“[slignificantly, the 
+prosecutor said nothing to suggest the jury should not consider such 
+[mitigating] evidence”). Conversely, in granting claims that former 
+factor (k) misled the jury, the state court has emphasized the presence 
+of incorrect prosecutorial argument. See, e.g., People v. Davenport, 41 
+Cal. 3d 247, 282, 284, 710 P.2d 861, 221 Cal. Rptr. 794 (1986) (“The 
+district attorney argued that evidence of appellant's background could 
+be considered as a circumstance mitigating penalty only if it bore some 
+relationship to the crime of which he was convicted.”). 2 
+
+
+42 
+
+
+3. The Instructions 
+
+
+The state court emphasized that, as in Boyde, the jury 
+was instructed to consider “all of the evidence which has 
+been received during any part of the trial” in determining 
+penalty, and therefore it was unlikely the jury disregarded 
+Payton’s evidence. P.A. 163-64. However, the court omitted 
+the very next words of the instruction, which stated that 
+- the jury could consider such evidence “except as you may 
+be hereafter instructed.” J.A. 94. This instruction was 
+immediately followed by the list of the 11 penalty factors, 
+including factor (k). Jd. The jury was further instructed 
+that, “lalfter having heard all of the evidence and after 
+having heard and considered the argument of counsel, you 
+shall consider . . . the applicable factors of aggravating and 
+mitigating circumstances upon which you have been 
+instructed.” J.A. 96. In the context of this case, these 
+instructions make it more likely Payton’s jury was misled, 
+not less. 
+
+
+The question here was not one of argument versus 
+evidence, but one of argument versus law. That is, 
+whereas in a typical trial arguments of counsel try to 
+persuade the jurors how they should view or weigh the 
+evidence under proper legal instructions, here the argu- 
+ments of counsel tried to persuade the jury which of the 
+parties’ views of the law to apply. Payton’s jury was never 
+told clearly what the law was, but rather was left to make 
+that conclusion on its own based on nothing more than 
+argument from counsel. Telling Payton’s jury to consider 
+“all of the evidence” was irrelevant to resolving the key 
+question before it — deciding whether the prosecutor or 
+defense counsel was correct in stating the law. The jury 
+had to resolve that legal question before it could decide 
+what “all of the evidence” even was. If the jury concluded 
+
+
+43 
+
+
+that the prosecutor was correct, then “all of the evidence” 
+included none of Payton’s mitigating evidence. Thus, 
+whereas in Boyde other instructions made it less likely the 
+jury was misled, here the instructions focused the jury’s 
+attention on, and compounded the harm of, the prosecu- 
+tor’s repeated, incorrect arguments, and made it more 
+likely that the jury disregarded Payton’s evidence. This 
+application of Boyde was objectively unreasonable.’ 
+
+
+* Citing the Ninth Circuit dissent, the State asserts that the state 
+court decision cannot be objectively unreasonable because seven federal 
+judges and five state justices rejected Payton’s claim, while “only” six 
+federal judges accepted it. Pet. Br. at 15 & n.7, 41. This Court rejected 
+such a rote “counting” theory of AEDPA in Williams v. Taylor, 529 U.S. 
+at 409-10. Williams rejected a Fourth Circuit rule that a state decision 
+could be deemed “unreasonable” only if the state court “applied federal 
+law ‘in a manner that reasonable jurists would all agree is unreason- 
+able.” Jd. at 409. The Court also criticized a Fifth Circuit opinion 
+which held that a “state court’s application of federal law was not 
+unreasonable because the Fifth Circuit panel split 2-1 on the underly- 
+ing mixed constitutional question.” Jd. at 409-10. 
+
+
+Williams held that a state court’s denial of a capital habeas 
+petitioner's ineffective assistance of counsel claim was an unreasonable 
+application of federal law even though all seven of the state justices and 
+three of the four federal judges who previously considered the claim had 
+rejected it. 529 U.S. at 370-74, 390-400; Williams v. Warden, 487 S.E.2d 
+194 (Va. 1997); Williams v. Taylor, 163 F.3d 860, 862 (4th Cir. 1998). 
+Similarly, in Wiggins, the Court granted an ineffective assistance claim 
+under §2254(d)’s “unreasonable application” prong where 10 of the 11 
+judges who had previously considered the claim denied it. 539 U.S. 510, 
+Wiggins v. State, 724 A.2d 1 (Md. 1999); Wiggins v. Corcoran, 164 
+F. Supp. 2d 538 (D. Md. 2001); Wiggins v. Corcoran, 288 F.3d 629 (4th 
+Cir. 2002). 
+
+
+44 
+
+
+Ill. THE ERROR WAS NOT HARMLESS 
+
+
+The Ninth Circuit correctly held that the constitu- 
+tional error “was not harmless because it had a ‘substan- 
+tial and injurious effect or influence’ on the jury’s verdict, 
+Brecht v. Abrahamson, 507 U.S. 619, 623 (1993), and [the 
+court was] left with ‘grave doubt’ as to the harmlessness of 
+the error, O’Neal v. McAninch, 513 U.S. 432, 435 (1995).” 
+P.A. 25. The State does not challenge this holding. 
+
+
+As shown above, although “[t]here is no question that 
+this was a brutal crime,” there is a reasonable likelihood 
+that the jury concluded that it could not consider the only 
+mitigating evidence offered by Payton. P.A. 28, 29. If the 
+jury believed it could not consider Payton’s mitigating 
+evidence, and it gave any weight to the prosecution’s 
+evidence in aggravation (which included the circumstances 
+of the capital crime), it was required to vote for death. J.A. 
+96 (Yury was instructed that “[iJf you conclude that the 
+aggravating circumstances outweigh the mitigating 
+circumstances, you shall impose a sentence of death”). An 
+error that results in the jury not considering a capital 
+defendant’s entire case in mitigation cannot be harmless. 
+Skipper, 476 U.S. at 8 (“it appears reasonably likely that 
+the exclusion of evidence bearing upon petitioner’s behav- 
+ior in jail (and hence, upon his likely future behavior in 
+prison) may have affected the jury’s decision to impose the 
+death sentence. Thus, under any standard, thé exclusion 
+of the evidence was sufficiently prejudicial to constitute 
+reversible error.”); Coleman v. Calderon, 210 F.3d 1047, 
+1051 (9th Cir. 2000) (erroneous penalty phase instruction 
+not harmless where “[t)he instruction was not only uncon- 
+stitutionally misleading, it undermined the very core of 
+[the capital defendant’s] plea for life”). 
+
+
+45 
+
+
+The harm was magnified by the prosecutor's argu- 
+ment to the jury that Payton would rape and kill again if 
+he was not sentenced to death, but that the jury could not 
+legally consider Payton’s evidence suggesting that he 
+would lead a constructive life if he was sentenced to life in 
+prison. Skipper, 476 U.S. at 8 (exclusion of evidence that 
+capital defendant was a good prisoner was not harmless 
+where “(t]he prosecutor himself, in closing argument, 
+made much of the dangers [defendant] would pose if 
+sentenced to prison, and went so far as to assert that 
+[defendant] could be expected to rape other inmates”), 
+Coleman, 210 F.3d at 1051 (“[t]he prosecutor’s closing 
+argument exacerbated the impact of the misleading 
+instruction by emphasizing the threat [the capital defen- 
+dant] posed to the general public”); Jones v. Dugger, 867 
+F.2d 1277, 1280 (11th Cir. 1989) (exclusion of testimony of 
+capital defendant’s sister that defendant was “‘a very nice 
+person’” and “model prisoner” not harmless). 
+
+
+Further, “[i]Jn reviewing death sentences, [this] Court 
+has demanded even greater certainty that the jury’s 
+conclusions rested on proper grounds.” Mills v. Maryland, 
+486 U.S. 367, 376 (1988). That certainty is lacking here, 
+and Payton is entitled to a penalty retrial to avoid the 
+“‘risk that the death penalty will be imposed in spite of 
+factors which may call for a less severe penalty.’” Penry, 
+492 U.S. at 328. “‘When the choice is between life and 
+death, that risk is unacceptable and incompatible with the 
+commands of the Eighth and Fourteenth Amendments.’” 
+Id. 
+
+
+46 
+
+
+CONCLUSION 
+
+
+For all of the above reasons, this Court should affirm 
+the judgment of the Ninth Circuit. 
+
+
+Dated: September 27, 2004 
+
+
+Respectfully submitted, 
+
+
+ROSALIE L. RAKOFF 
+A Professional Corporation 
+
+
+MARIA E. STRATTON 
+
+Federal Public Defender 
+
+DEAN R. GITS 
+
+MARK R. DROZDOWSKI 
+
+KIM SAVO 
+
+Deputy Federal Public Defenders 
+
+
+Counsel for Respondent 
+William Charles Payton 
+
+

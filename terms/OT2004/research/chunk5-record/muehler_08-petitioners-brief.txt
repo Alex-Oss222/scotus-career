@@ -1,0 +1,2188 @@
+Source: https://archive.org/download/micro_IA40385014_0753/micro_IA40385014_0753%2008.%20Petitioners%20Brief_djvu.txt
+
+IN THE 
+
+
+Supreme Court of the Gnited States 
+
+
+DARIN L. MUEHLER AND ROBERT BRILL, 
+Petitioners, 
+Vv. 
+
+
+IRIS MENA, 
+Respondent. 
+
+
+On Writ of Certiorari 
+to the United States Court oi Appeals 
+for the Ninth Circuit 
+
+
+BRIEF OF PETITIONERS 
+
+
+KAREN K. PEABODY CARTER G. PHILLIPS* 
+
+DAVID L. NYE JOSEPH R. GUERRA 
+
+NYE, PEABODY & STIRLING, LLP MATTHEW J. WARREN 
+
+33 West Mission Street SIDLEY AUSTIN BROWN & 
+
+Suite 201 WOOD LLP 
+
+Santa Barbara, CA 93101 1501 K Street, NW 
+
+(805) 963-2345 Washington, DC 20005 
+(202) 736-8000 
+
+DAVID H. HIRSCH 
+
+Ciry ATTORNEY 
+
+2929 Tapo Canyon Road 
+
+City of Simi Valley, CA 93063 
+
+(805) 583-6714 
+
+
+Counsel for Petitioners 
+
+
+August 30, 2004 * Counsel of Record 
+
+
+Sa ada a eR A eT eT Ra CET 
+WILSON-EPES PRINTING Co., INC. — (202) 789-0096 — WASHINGTON, D.C. 20001 
+
+
+QUESTIONS PRESENTED 
+
+
+1. Whether, in light of this Court’s repeated holdings that 
+mere police questioning does not constitute a seizure, the 
+Ninth Circuit erred in ruling that law enforcement officers 
+who have lawfully detained an individual pursuant to a valid 
+search warrant engage in an additional, unconstitutional 
+“seizure” if they ask that person questions about criminal 
+activity without probable cause to believe that the person is or 
+has engaged in such activity. 
+
+
+2. Whether, in light of this Court’s ruling in Michigan v. 
+Summers, 452 U.S. 692 (1981), that a valid search warrant 
+carries with it the implicit authority to detain occupants while 
+the search is conducted, the Ninth Circuit erred in ruling that 
+a two to three hour detention of the occupant of a suspected 
+gang safe-house while officers searched for concealed 
+weapons and other evidence of a gang-related drive-by 
+shooting was unconstitutional because the occupant was 
+initially detained at gun-point and handcuffed for the duration 
+of the search. 
+
+
+(i) : 
+
+
+TABLE OF CONTENTS 
+PARTIES TO THE PROCEEDING Page 
+Petitioners state that all parties to the proceeding in the QUESTIONS PRESENTED.........................cccceeeeeeeeseeeees i 
+court whose judgment is sought to be review are, in addition - = A RTIES TO THE PROCEEDING sevsssccccccscseccsccseeeeee r 
+to those listed in the caption above: 
+Jose E. Mena, as plaintiff below; TABLt OF AUTHORITIES ...........cccccccceccceeceeseeeeeesetees Vv 
+City of Simi Valley OPINIONS BELOW. .....ccccccsesssecssesseessecssecssecssessseeseceseven 1 
+Randy G. Adams 
+Marvin Hodges PE III oecsecececencecesccovesevsdesccccvercessescsccvsosesesesesees | 
+Roy Jones 
+Vincent Allegra CONSTITUTIONAL AND STATUTORY PROVI- 
+Alan McCord EL AR Ae a ] 
+Richard Thomas 
+Ronald Chambers : STATEMENT OF THE CASE..,...................ccccseseeeececeees 2 
+William Lappin 
+Arnold Baynard SUMMARY OF THE ARGUMENT ....................c.eee eee 13 
+Jeffrey Dominick 
+Jack Greenburg ER a re 15 
+Richard Lamb I. PETITIONERS DID NOT VIOLATE THE 
+Frank Ahlvers FOURTH AMENDMENT BY QUESTIONING 
+John Adamezyk RESPONDENT ABOUT HER IDENTITY AND 
+Tim Brown, as defendants below. NN ee 15 
+A. The Fourth Amendment Permits Officers To 
+Question Lawfully Seized Detainees, Whether 
+Or Not The Officers Have Reasonable 
+TITIES ae RL a 16 
+
+
+B. Petitioners Had Reasonable Suspicion That 
+Respondent Was An Illegal Immigrant.............. 23 
+
+
+Il. RESPONDENT’S DETENTION DURING THE 
+EXECUTION OF THE SEARCH WARRANT 
+DID NOT VIOLATE THE FOURTH 
+RIT vetictcntnsinsciserersineccnanistonmnentiinssaustentn 28 
+
+
+iV 
+TABLE OF CONTENTS—continued 
+
+
+A. Using Reasonable Restraints To Control A 
+Group Of Detainees During The Execution Of 
+A Search Warrant Does Not Violate The 
+POE RI ccceccticttascnnseiniiiiininiisbinnatapiannbiiin 
+
+
+B. The “Unusual Case” Exception To Summers 
+Does Not Apply To The Reasonable Use Of 
+I cc cctnncticitessnnecsnstnnnstamctideaetniaicbdenimainanen 
+
+
+CE AFI vecesccccesessenerenenereesonmnnsinnenimoinusannatinesiindendenioe 
+
+
+Page 
+
+
+Vv 
+TABLE OF AUTHORITIES 
+CASES Page 
+Alexander v. County of L.A., 64 F.3d 1315 (9th 
+Ee: GUI scccncvecsintilensessenciemianietigatseilieiatianaiediliainiadsitidiipeas 37 
+Atwater v. City of Lago Vista, 532 U.S. 318 
+Spree inches hiceciaidtinriianenenseneaabieeitsiiibeasiiabeimnieiinnidSdaiaadiads 21 
+Barron v. Sullivan, No. 93 C: 6644, 1997 WL 
+158321 (N.D. Ill. Mar. 31, 1997)... ee eeeeeeees 38 
+Bernstein v. United States, 990 F. Supp. 428 
+Ee: ETT PD icnienesieniiisitanictintinidaiinapencastitiniatmedsitinihin 38 
+California v. Hodari D., 499 U.S. 621 (1991)........ 17 
+Cole v. United States, 874 F. Supp. 1011 (D. Neb. 
+FITTED inseccnitnnsacnesecsiianenceguiitinahianesiinidenbadindalaiensabinsantnan 38 
+Cooper Indus., Inc. v. Leatherman Tool Group, 
+BB g Fe Ts GO GO icccscestincnccesiatsnaniiinnsias 16, 29 
+Crosby v. Hare, 932 F. Supp. 490 (W.D.N.Y. 
+FIT iciescnnciianeinppsiiintamanneietenssiamnesuiabeaniiminbianeeats 38 
+Daniel v. Taylor, 808 F.2d 1401 (11th Cir. 
+TUTTE ascvnsscihiendeiinndeciisiinnitesnniiieiavenaimeniinenibuieiinienioes 38 
+Dunaway v. New York, 442 U.S. 200 (1979).......... 21 
+Florida v. Bostick, 501 U.S. 429 (1991)......... 13, 17, 18, 
+19, 20 
+Florida v. Royer, 460 U.S. 491 (1983) ..........ceeeeees 17 
+Franklin v. Foxworth, 31 F.3d 873 (9th Cir. 
+Faroe asivsiscicichatersitnnnseinsccidiatimmnatiebieiieniduiaadsiiiuin 11, 34, 39, 40 
+Garavaglia v. Budde, 43 F.3d 1472 (6th Cir. 
+1994), available at 1994 WL 706769.............000+ 38 
+Gates v. Los Angeles Superior Court, 238 Cal. 
+Rptr. 592 (Cal. Ct. App. 1987) ...........scccccsrssssseees 25 
+
+
+Gonzalez v. City of Peoria, 722 F.2d 468 (9th Cir. 
+1983), overruled on other grounds by Hodgers- 
+Durgin v. de la Vina, 199 F.3d 1037 (9th Cir. 
+Pana icxceiciscsninncsniecasicsiinneieaindsaintiiasabitniaiaiiumiiiiaided 25 
+
+
+vi 
+TABLE OF AUTHORITIES—continued 
+
+
+Page 
+Harris v. United States, 331 U.S. 145 (1947), 
+overruled in part on other grounds by Chimel 
+
+v. California, 395 U.S. 752 (1969) ....ccccccceeeseees 34 
+Heitschmidt v. City of Houston, 161 F.3d 834 (Sth 
+
+Ent, Set icinsciearasniesisasdaneteiapinpannaduniiicanieiiosinainmatibens 34 
+Hiibel v. Sixth Judicial Dist. Ct. of Nev., 124 S. 
+
+Ge, ee Ce tcrricitccicnsssienconscnipsonniinnvesapisinnes 20, 22, 23 
+INS v. Delgado, 466 U.S. 210 (1984) .......ceeeeeeees passim 
+Katz v. United States, 389 U.S. 347 (1967) ............ 17 
+Kolstad v. American Dental Ass'n, 527 U.S. 526 
+
+ERIE ciocsideitniamedaianieendinenninaubeniditieaibiniiauamnnaiiaies 26, 37 
+Kyllo v. United States, 533 U.S. 27 (2001)............. 17 
+Marbury v. Madison, 5 U.S. (1 Cranch) 137 
+
+STII achssiscintashpaiiidereienndndaceenainniiiabipudisisidiimmanianibuiies 30 
+Mathis v. United States, 391 U.S. 1 (1968)............. 22 
+McNeil v. Wisconsin, 501 U.S. 171 (1991)............. 22 
+Meredith v. Erath, 342 F.3d 1057 (9th Cir. 2003).. 38 
+Michigan v. Summers, 452 U.S. 692 (1981)......... passim 
+Ornelas v. United States, 517 U.S. 690 (1996)..... 16, 29 
+People v. Ornelas, 937 P.2d 867 (Colo. Ct. App. 
+
+PUTT ciicsisnsistsneeiscduliciininialdacidapiiinmsiieaiiuaaniaaiasaminniaiahiea 38 
+People v. Zuccarini, 431 N.W.2d 446 (Mich. Ct. 
+
+Ba, CIID seincictiscenntecsbintrenninnsnincsinetisinieciiiiuatin 38 
+Procunier v. Navarette, 434 U.S. 555 (1978)....... 26, 37 
+
+
+Schneckloth v. Bustamonte, 412 U.S. 218 (1973)... 22 
+Sims ex rel. Sims v. Forehand, 112 F. Supp. 2d 
+
+
+Se A Cs ee icntcininieicnneininminnsninsednenscicns 38 
+State v. Banks, 720 P.2d 1380 (Utah 1986)............. 38 
+State v. Schultz, 491 N.E.2d 735 (Ohio Ct. App. 
+
+ST cinissccnsnscieaitsthinaciiainieidininmesatadntiaedinenineaniinsitinuids 38 
+Terry v. Ohio, 392 U.S. 1 (1968).............. 21, 27, 31, 35 
+Texas v. Cobb, 532 U.S. 162 (2001) ......... ee ceeeeeeeee 22 
+United States v. Arvizu, 534 U.S. 266 (2002) ......... 24 
+
+
+United States v. Barahona, 990 F.2d 412 (8th Cir. 
+
+
+Vii 
+TABLE OF AUTHORITIES—continued 
+
+
+Page 
+United States v. Baron, 94 F.3d 1312 (9th Cir. 
+ENE a ee NC ET RN TT ee 27 
+United States v. Bautista, 684 F.2d 1286 (9th Cir. 
+EEE OER. MOEN RRS ANTE OE Pe 37 
+United States v. Botero-Ospina, 71 F.3d 783 
+SONA MT ithiesnssciiseinecenindiiliceistaiailiadaiatcait aia 27 
+United States v. Brignoni-Ponce, 422 U.S. 873 
+Sorell itinichaiecetiasdciineseempsmeneaneiiitinibaaaitniestiien 12, 23, 24, 26 
+United States v. Childs, 277 F.3d 947 (7th Cir.), 
+cert. denied, 537 U.S. 826 (2002)..........:ccccceeeee 22, 27 
+United States v. Crittendon, 883 F.2d 326 (4th 
+Se Bere iccciecesieicdaeneniseinepbieisesiitiitamuinndtiacdataasiaiiblaaa dais 37 
+United States v. Esieke, 940 F.2d 29 (2d Cir. 
+eT ON TREE Ten Fn 37 
+United States v. Fountain, 2 F.3d 656 (6th Cir. 
+ere asviesibepsisceiibeeiageiiniiiinmailaaiaataiiitiiainatadsiailad iain 37 
+United States v. Hemphill, 767 F.2d 922 (6th Cir. 
+1985), available at 1985 WL 13433... 37 
+United States v. Jacobs, 173 F.3d 426 (4th Cir. 
+1999), available at 1999 WL 96121 ........cc.cceceee 27 
+United States v. Jacobsen, 466 U.S. 109 
+SEaeTaT a senssieusichriectsosnepsseiiemnaasiitendaiietiiimetitatisialiiiiiaais 13, 17,18 
+United States v. Jones, 44 F.3d 860 (10th Cir. 
+SPT iihiciieniessdutsinbuaciaiinsenddiisitiaiaiitainsitaditiaibnainiiliiatcats 21 
+United States v. Martinez-Fuerte, 428 U.S. 543 
+Sree ncsledidiuiaciduatinnsceevssmenianioniiasiieiaiaiiadiaieiiiiniinilibiaatasistin 17 
+United States v. Mendenhall, 446 U.S. 544 
+Pp iciiatctinsnncinconinsandiaiatiendiiindidibbibeiialeitasiettnase 17 
+United States v. Merkley, 988 F.2d 1062 (10th 
+See, Soe ecsienttsianseniidtiniasaicinnagtlilidiiageiimthlll aliases 37 
+United States v. Murillo, 255 F.3d 1169 (9th Cir. 
+Foe niscitiimnnsnissiiintesiiitidaniacetiiateseiaaibdbiiiiiedalida atin, 21 
+United States v. Pruitt, 174 F.3d 1215 (11th Cir. 
+apaTaa iicsciipaiiessciaiinesicatidenpsiiieiidianisiensnliaenileindliainansiaalnaids 21 
+
+
+Vili 
+TABLE OF AUTHORITIES—continued 
+United States v. Ramos, 42 F.3d 1160 (8th Cir. 
+
+
+United States v. Saffeels, 982 F.2d 1199 (8th Cir. 
+1992), vacated on other grounds, 510 U.S. 801 
+Pea TE wisrsinitiepincapisiiinniinnaiibiddaainseiiitblanphidiniitilinaapitaiais 
+
+United States v. Shabazz, 993 F.2d 431 (Sth Cir. 
+
+
+PE nccewricsnesaiieciaeecsinicmmansiiibincgnidiaeiiaitainiasaadiabiiiniues 
+United States v. Thompson, 91 F.3d 145 (6th Cir. 
+1996), available at 1996 WL 428418.................. 
+Williams v. Kaufman County, 352 F.3d 994 (Sth 
+Real. Gute nceneninptinionensnennecinnngeiavniannsaeninnin 
+Wilson v. Layne, 526 U.S. 603 (1999) ...... eee 
+Wilson v. State, 547 So. 2d 215 (Fla. Dist. Ct. 
+FE TD ctentavseiniiinetipaniniiaiiuainiennetianiiaieein 
+
+
+CONSTITUTION AND STATUTES 
+
+
+ere i MINE, TU ccccicsinssicisnissteintuniricincaeiicatiaiiaiaiaasiiai 
+By ec, St PII ctinsnitinsiicittasiinlcnanetccnitenammisesialieiesabaaniiins 
+Ee Seaeeaan: Ut IIE cciccthsiciceseabinctcsiiteinnesieteiiatnbinchpieuaiiaiaians, 
+SP Ee BG EP accentnnccnstresenvecesenscionennees 
+
+
+ADVISORY OPINIONS 
+
+
+66 Op. Att’y Gen. Cal. 497 (1983)... eeeeeeeeees 
+Assistance by State and Local Police in 
+Apprehending Illegal Aliens, 20 Op. Off. Legal 
+Counsel (Feb. 5, 1996), available at http:// 
+
+
+www.usdoj.olc/immstopo 1 a.htm ............:ceeeees 25, 26 
+
+
+ix 
+TABLE OF AUTHORITIES—continued 
+
+
+OTHER AUTHORITY Page 
+
+
+Attorney General Prepared Remarks on the 
+National Security Entry-Exit Registration 
+System (June 6, 2002), availcble at http://www. 
+
+
+usdoj.gov/ag/speeches/2002/060502agprepared 
+TID iistesnisnilasnaicliibateinintineitissictgitdtdiactidnainias 25 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the court of appeals affirming the district 
+court’s denial of petitioners’ motion for summary judgment 
+on qualified immunity grounds is reported at 226 F.3d 1031 
+(9th Cir. 2000) and is reproduced in the appendix to the 
+petition for certiorari (Pet. App.) at 5Sa-72a. The judgment of 
+the district court is unpublished and is reproduced at Pet. App. 
+48a-54a. The order of the trial court denying petitioners’ Fed. 
+R. Civ. P. 59(e) motion to alter or amend judgment is 
+unpublished and is reproduced at Pet. App. 35a-47a. The 
+opinion of the court of appeals affirming the trial court’s 
+judgment against petitioners is published at 332 F.3d 1255 
+(9th Cir. 2003) and is reproduced at Pet. App. la-22a. The 
+order of the court of appeals denying rehearing en banc is 
+published at 354 F.3d 1015 (9th Cir. — and is reproduced 
+at Pet. App. 23a-34a. 
+
+
+JURISDICTION 
+
+
+The judgment of the court of appeals was entered on June 
+23, 2003. An order denying petitioners’ petition for rehearing 
+and suggestion for rehearing en banc was entered on January 
+14, 2004. This Court has jurisdiction under 28 U.S.C. 
+
+
+§ 1254(1). 
+
+
+CONSTITUTIONAL AND STATUTORY 
+PROVISIONS INVOLVED 
+
+
+1. The Fourth Amendment to the United States 
+Constitution provides: 
+
+
+The right of the people to be secure in their persons, 
+houses, papers, and effects, against unreasonable 
+searches and seizures, shall not be violated, and no 
+Warrants shall issue, but upon probable cause, supported 
+by Oath or affirmation, and particularly describing the 
+
+
+2 
+
+
+place to be searched, and the persons or things to be 
+seized. 
+
+
+2. Section 1983 of Title 42 to the United States Code 
+provides that: 
+
+
+Every person who, under color of any statute, ordinance, 
+regulation, custom, or usage, of any State or Territory or 
+the District of Columbia, subjects, or causes to be 
+subjected, any citizen of the United States or other 
+person within the jurisdiction thereof to the deprivation 
+of any rights, privileges, or immunities secured by the 
+Constitution and laws, shall be liable to the party injured 
+in an action at law, suit in equity, or other proper 
+proceeding for redress, except that in any action brought 
+against a judicial officer for an act or omission taken in 
+such officer’s judicial capacity, injunctive relief shall not 
+be granted unless a declaratory decree was violated or 
+declaratory relief was unavailable. For the purposes of 
+this section, any Act of Congress applicable exclusively 
+to the District of Columbia shall be considered to be a 
+statute of the District of Columbia. 
+
+
+STATEMENT OF THE CASE 
+
+
+The Ninth Circuit’s decision in this case was a radical 
+departure from this Court’s Fourth Amendment rulings 
+because the holdings below both restrict law enforcement 
+officers’ long-recognized ability to ask questions of citizens 
+and undermine those same officers’ power to control 
+dangerous and fluid evidence-gathering efforts. First, the 
+Ninth Circuit’s decision that a question asked of a lawfully 
+detained individual constitued an additional, unconstitutional 
+seizure is at odds with this Court’s consistent recognition that 
+mere questions are not seizures under the Fourth Amendment. 
+Second, the court of appeals’ conclusion that petitioners 
+violated the Fourth Amendment by handcuffing a group of 
+occupants during a search of a suspected gang safe house for 
+
+
+3 
+
+
+weapons is incompatible with the logic of Michigan v. 
+Summers, 452 U.S. 692 (1981), and with this Court’s repeated 
+recognition that officers as a matter of law may take 
+reasonable measures to ensure safety during police-citizen 
+encounters. The court of appeals compounded these two 
+errors by concluding that its novel holdings were somehow 
+“clearly established law” and that petitioners were therefore 
+not entitled to qualified immunity. The Ninth Circuit reached 
+this conclusion without pointing to a single case clearly 
+establishing that petitioners’ cenduct was unconstitutional and 
+without acknowledging the numerous decisions holding that 
+actions similar to those taken by petitioners were reasonable. 
+The judgment of the Ninth Circuit should be reversed. 
+
+
+1. On January 13, 1998, Delfino Vasquez, Ricardo Bravo, 
+and Raymond Romero, all members of a gang known as the 
+West Side Locos, attacked members of a rival gang in a drive- 
+by shooting at 355 Bonita Drive in Simi Valley, California. 
+See JA 215, 217. Bravo drove with Vasquez and Romero to 
+355 Bonita Drive, intending to confront members of the 
+Varrio Simi Valley gang who lived there. See id at 216. 
+Bravo stopped the car outside the residence, and Vasquez and 
+Romero opened fire on a group of individuals who were 
+standing in front of the house. See id. at 216-17 Vasquez 
+fired multiple shots from a .22 caliber handgun; Romero 
+attempted to fire a chrome .25 caliber semi-automatic 
+handgun, but his gun misfired. See id. at 216-18. The three 
+men then fled the scene at high speed. See id. at 216. During 
+their flight they disposed of the handguns; Vasquez threw his 
+.22 caliber gun out the window, and Romero asked Bravo to 
+stop the car while Romero hid his .25 caliber gun at the home 
+of another West Side Loco. See id. at 217-18. 
+
+
+Darin Muehler and Robert Brill, the petitioners in this case, 
+were dispatched to investigate the 355 Bonita Drive shooting. 
+See JA 43, 215. At the time both were officers with the Simi 
+Valley Police Department (“SVPD”) and were assigned to a 
+special gang unit. See id. at 43, 211-12. The victims at 355 
+
+
+4 
+
+
+Bonita Drive identified the shooters and gave a description of 
+their vehicle, a light green Toyota Tercel. See id. at 215. 
+Later that day SVPD officers apprehended Bravo, Vasquez 
+and Romero at a nearby gas station in a car matching that 
+description. See id. Although the men had already disposed 
+of their weapons, the officers discovered a bullet in Bravo's 
+pocket and found three more .25 caliber bullets on the 
+floorboard where Romero was sitting. See id. at 217. Both 
+Vasquez and Bravo confessed to their roles in the shooting, 
+and they told the officers where to find the .22 caliber gun 
+that had been thrown out of the car’s window. See id. at 216. 
+That handgun was later recovered. See id. at 217. Romero 
+invoked his Miranda rights in response to questioning, and he 
+was later released from custody. See id. 
+
+
+Vasquez and Bravo told SVPD officers that Romero 
+possessed a chrome .25 caliber, semi-automatic handgun and 
+that he had attempted to fire that handgun at the Varrio Simi 
+Valley members on January 13. See JA 217-18. Vasquez 
+and Bravo also told the officers that Romero had hidden the 
+handgun at the residence of another West Side Locos member 
+immediately afier the shooting. See id. at 218. In addition, 
+Officer Muehler learned from Gabriel Reyes, a member of 
+Varrio Simi Valley, that Romero had threatened Reyes with a 
+chrome handgun a few hours before the shooting at 355 
+Bonita Drive. See id. The officers’ discovery that Romero 
+had twice used a .25 caliber handgun to threaten or assault 
+Varrio Simi Valley members was particularly significant, 
+because a .25 caliber handgun had been used in the unsolved 
+November 28, 1997, shooting of a Varrio Simi Valley 
+member. See id. at 217. Officer Muehler believed that 
+Romero likely had recovered the .25 caliber handgun that he 
+had secreted after the drive-by shooting. See id. at 43, 218. 
+
+
+Officers Muehler and Brill learned from Romero’s family 
+that Romero was living at 1363 Patricia Avcnue in a “poor 
+house”—a single-family home that housed a number of 
+individuals who rented space in rooms in the house, in the 
+
+
+5 
+
+
+furnished garage, and in motorhomes and vans parked in the 
+backyard. JA 43-44, 145, 219-20. The officers confirmed 
+this information by placing a phone call to 1363 Patricia 
+Avenue; the call was answered by an individual who 
+identified himself as “Raymond.” See id at 157, 220-21. 
+Additionally, petitioners learned’ that Genaro Gonzalez, 
+another member of the West Side Locos, was either living or 
+had lived at 1363 Patricia Avenue. See id. at 78, 157-58, 219. 
+Based on this information and their experience with gangs, 
+the officers concluded that 1363 Patricia Avenue may have 
+been a safe house for members of the West Side Locos. See 
+id. at 158. 
+
+
+Officer Muehler secured a search warrant for 1363 Patricia 
+Avenue on January 29, 1998, which authorized a search for, 
+among other things, “[d]jeadly weapons” and “evidence of 
+street gang membership or affiliation with any street gang.” 
+JA 44, 210-11. The warrant authorized a search both of the 
+house and of the vehicles on or adjacent to the property. See 
+id. at 210. Petitioners were the investigating officers 
+responsible for overseeing the search. See id. at 59-60, 147. 
+In planning for the search, petitioners determined that the 
+search would be a “high risk entry.” /d. at 61 (testimony of 
+Officer Brill); id. at 78-80 (testimony of Officer Muehler); see 
+also id. at 51. In part this was because of the strong evidence 
+that armed gang members could be present at 1363 Patricia 
+Avenue. See id. at 50-51, 61, 173-74. The officers were not 
+only wary of Raymond Romero; but also they were concerned 
+that they might encounter Genaro Gonzalez and “other gang 
+associates” at the residence. /d. at 51 (testimony of Officer 
+Brill); see also id. at 61. Petitioners were also aware that 
+1363 Patricia Avenue had been the site of several violent 
+incidents, including a domestic assault and a stabbing, and 
+they knew that officers responding to the domestic assault had 
+encountered resistance from several occupants. See id. at 55- 
+59, 78-79, 91, 179-80. In light of these concerns, the officers 
+decided to use a Special Weapons and Tactics (SWAT) team 
+
+
+6 
+
+
+to clear the residence and secure any occupants before the 
+search. See id. at 50-51, 54, 61, 79-80, 173-74. During the 
+week and a half prior to the search, petitioners met daily with 
+other officers to plan the execution of the warrant in order to 
+ensure the safety of both officers and occupants. See id. at 
+54, 145-46. 
+
+
+Petitioners and other SVPD officers executed the warrant at 
+1363 Patricia Avenue at approximately 7:00 AM on the 
+morning of February 3, 1998. JA 62-63. The SWAT officers 
+were armed and were wearing the outfits that they normally 
+wore when executing search warrants, which included black 
+vests marked with a badge and the word “police.” See id. at 
+48. Respondent Iris Mena was asleep in her bed when a 
+SWAT team officer broke down her padlocked door, pointed 
+his weapon at her, and handcuffed her. See id. at 46-48, 95. 
+The SWAT team discovered three other individuals in the 
+trailers and motorhomes on the property and handcuffed each 
+of them. See id at 115, 136. Respondent and the other 
+detainees were brought to a centrally located garage and 
+remained there in handcuffs for the duration of the search. 
+See id at 90, 136, 153, 162. The garage was furnished with 
+several beds. where respondent sat with the other occupants. 
+See id. at 134. Respondent was wearing sweatpants and a 
+long-sleeved shirt but not shoes when she was brought into 
+the garage. See id. at 133-34. The officers soon brought her 
+a jacket and shoes. See id. at 115, 134. She was permitted to 
+move around the garage, and in fact she moved from one bed 
+to another while the search progressed. See id at 108, 136. 
+Although respondent later testified that being handcuffed was 
+uncomfortable, see id. at 105, she did not complain that the 
+handcuffs were too tight and never asked that her handcuffs 
+be loosened. See id. at 139. 
+
+
+Uncertain of the four occupants’ connection to the West 
+Side Locos and concerned that the occupants might interfere 
+with the search, the officers did not remove the handcuffs 
+after bringing the occupants to the garage. JA 72, 80-81. 
+
+
+J 
+
+
+Both petitioners testified that they restrained the occupants in 
+handcuffs to foreclose the possibility that an occupant might 
+resist or interfere with the search. See id. at 80-81, 83-84, 
+162. Officer Brill testified that, although respondent 
+
+
+appeared to be compliant, in my experience many times 
+when people are in handcuffs they are compliant. 
+However, we didn’t know what her full motivation was 
+or her involvement at the scene. Although I did not have 
+any indication to believe that she was a gang member 
+herself, I didn’t know what kind of a supportive role she 
+may play to the gang or whether or not she was involved 
+in any way o[r] associating with the gang members. 
+
+
+My feeling was that if I had unhandcuffed her at that 
+point, the possibility would have arisen that she would 
+have at some point in[terferJed with our process. As an 
+example, had she been friends with Mr. Romero and saw 
+us recover something that could be somewhat damaging 
+to him in the way of evidence, she may try to run or 
+interfere or get in the way of our search. What that 
+would necessitate is for us to now forcefully restrain 
+her .. . [; t}hat process might injure her. 
+
+
+Id. at 80-81. 
+
+
+Officer Muehler similarly testified that the handcuffing 
+was: 
+
+
+for our safety as well as the individuals that we 
+encounter .. . . [I]n my experience, they are much less 
+likely to be involved and cause us to be involved in 
+them. They are kept in a central location. They are, 
+even though they’re handcuffed, any discomforts they 
+might have are addressed. ... The reason we don’t 
+unhandcuff a large group of people, because then it 
+requires us to . . . have numerous officers. We had two 
+officers in that room [at 1363 Patricia Avenue] watching 
+four people. If we had unhandcuffed those people, | 
+
+
+8 
+
+
+would have had between six and eight officers. It’s 
+unsafe and it prevents problems. 
+
+
+Id. at 162. 
+
+
+Petitioners also testified that their decision to use handcuffs 
+might have been different if other circumstances had 
+minimized the potential threat that the occupants posed. JA 
+88-89, 195. For example, petitioner Muehler testified that he 
+would have removed respondent’s handcuffs “[h]ad she been 
+the only occupant in that residence, had she been gravely 
+disabled, had she been obviously pregnant, had she been 
+elderly,” or had she had other “health concerns.” Jd. at 195; 
+see also id. at 88-89 (testimony of Officer Brill). The 
+officers’ testimony about the reasons they restrained the 
+occupants of 1363 Patricia Avenue was uncontradicted at 
+trial. 
+
+
+Knowing that the West Side Locos gang was 
+“predominately made up of illegal immigrants,” SVPD 
+officers notified the Immigration and Naturalization Service 
+(INS) before the search was initiated. JA 159-60. While 
+respondent and the other occupants were detained, the SVPD 
+officer guarding them asked for their names, date of birth, 
+place of birth, and asked whether they were legal aliens. See 
+id. at 106. Later an INS officer arrived at the garage and 
+asked the occupants for their immigration documentation.’ 
+See id at 106-07. The officers learned that one of the 
+detainees was an illegal alien, and they took him into custody. 
+See id. at 115-16. Like the others, respondent, who has a 
+Salvadorian accent, was asked by an SVPD officer whether 
+
+
+' Respondent originally testified that an SVPD officer asked her for her 
+name, date and place of birth, and immigration status and that the INS 
+officer asked her for her immigration “papers.” JA 106-07. On cross- 
+examination, respondent claimed not to recall whether SVPD officers or 
+the INS officer were questioning the occupants. See id. at 137. No other 
+witness testified as to who asked the questions, in part because respondent 
+never claimed at trial that the questioning violated the Constitution. 
+
+
+9 
+
+
+she was a legal alien. See id. at 106; see also id. at 98, 138. 
+After she answered the SVPD officer, an INS officer asked 
+for her immigration papers; she directed the officers to a 
+purse in her room, in which they discovered her immigration 
+documentation verifying that she was a permanent resident. 
+See id. at 106-07. 
+
+
+The officers searched the whole interior of the house and 
+the vans and motorhomes parked outside. JA 67. The search 
+lasied approximately two hours,” and the officers discovered 
+and seized a .22 caliber handgun with .22 caliber ammunition, 
+a box of .25 caliber bullets, baseball bats with gang writing 
+and other gang paraphernalia, and a quantity of marijuana. 
+See id. at 82, 247-49. The officers found these items 
+throughout the house—the .25 caliber bullets, blowgun, and 
+one baseball bat were found in Romero’s room; the .22 
+caliber handgun and ammunition were found in another 
+resident’s room; and one of the gang-inscribed baseball bats 
+was found in a living room common to all residents. See id. 
+at 82, 141, 247-49. After the search was complete, 
+respondent and the other occupants were released. Pet. App. 
+3a, 59a; JA 156. Other than the initial handcuffing, 
+respondent had no physical contact with the officers. See JA 
+137. 
+
+
+Respondent filed an action against petitioners under 42 
+U.S.C. § 1983, alleging that they violated her rights under the 
+
+
+* The officers who performed the search testified that the search lasted 
+no longer than two hours. JA 74, 82-83 (testimony of Officer Brill that 
+the search lasted “at most two hours”); id. at 156, 163 (testimony of 
+Officer Muehler estimating that search lasted “[o]ne hour 45 minutes”). 
+Respondent originally concurred with this assessment, estimating that she 
+was held in the garage for “two hours” after the police videotaped the 
+premises. See id. at 116. (Police videotaped the premises immediately 
+after securing the occupants in the garage. See id. at 184, 187). After 
+being recalled, respondent estimated that she was held for “two to three 
+hours”—an assessment that still did not contradict petitioners’ 
+recollection. /d. at 191-92. 
+
+
+10 
+
+
+Fourth and Fourteenth Amendments by, infer alia, “arresting 
+and detaining plaintiff IRIS Mena for an unreasonable time 
+and in an unreasonable manner and without probable cause or 
+reasonable suspicion.” JA 19. Respondent’s initial com- 
+plaint, which she filed along with her father, Jose Mena, the 
+owner of the house on 1363 Patricia Avenue, alleged multiple 
+constitutional violations by the City of Simi Valley and 
+eighteen police officers. See id. at 16-25. In addition to 
+alleging that the officers unreasonably detained respondent, 
+the complaint alleged that the search warrant and the 
+execution of the search were overbroad, that the officers 
+failed to comply with the “knock and announce” requirement, 
+and that the officers needlessly destroyed property during the 
+search. See id. Petitioners and their co-defendants argued 
+that they had qualified immunity for any alleged wrongs, and 
+filed a motion for summary judgment on that ground. Pet 
+App. 59a-60a. The district court denied that motion and the 
+Ninth Circuit affirmed that denial except for respondent’s 
+claim that the search warrant was overbroad, on which the 
+Ninth Circuit agreed defendants were entitled to summary 
+judgment. /d. at 59a-60a, 70a. At trial, a jury rejected all of 
+plaintiffs’ remaining claims save one: it found petitioners 
+liable for violating respondent’s Fourth Amendment right 
+against unreasonable seizures. /d. at 50a-Sla; JA 251-60. 
+The jury ordered Officers Muehler and Brill to each pay 
+respondent compensatory damages of $ 10,000 and punitive 
+damages of $ 20,000. Pet. App. 53a. Petitioners filed a 
+motion to alter or amend judgment under Fed. R. Civ P. 
+59(e), which the trial court denied. /d. at 35a-36a. 
+
+
+2. The Ninth Circuit affirmed the judgment, holding that 
+the officers had violated Mena’s clearly established 
+constitutional rights in two ways. First, without even 
+mentioning this Court’s decision in Summers, the lower court 
+concluded that the officers’ detention of Mena violated the 
+Fourth Amendment because it was objectively unreasonable 
+to detain her at gun-point and to keep her in handcuffs during 
+
+
+11 
+
+
+the course of the search.’ Pet. App. 8a-10a. The Ninth 
+Circuit opined that the officers shouid have released Mena 
+because she was not “the subject of th[e] investigation” and 
+because in its judgment she “posed no immediate threat to the 
+safety of the officers or others.” Jd at 8a-9a (internal 
+quotation marks omitted). The court concluded that the 
+police were not justified in using any “heightened security 
+measures” on Mena, but instead “should have released her 
+from the handcuffs when it became clear that she posed no 
+immediate threat and did not resist arrest.” Jd. at 9a. (footnote 
+omitted). 
+
+
+The court further held that the officers were not entitled to 
+qualified immunity. Pet. App. 15a. It cited two cases that it 
+believed “clearly established” the constitutional impropriety 
+of handcuffing an occupant of searched premises during a 
+Summers detention: Graham v. Connor, 490 U.S. 386, 395 
+(1989), in which this Court reaffirmed that excessive force 
+claims should be considered under a general standard of 
+reasonableness; and Franklin v. Foxworth, 31 F.3d 873, 876 
+(9th Cir. 1994), in which the Ninth Circuit held that 
+handcuffing a severely disabled detainee who was naked from 
+the waist down was so “degrading” and “unusual” that it 
+violated the Fourth Amendment. The Ninth Circuit panel did 
+not mention any of the several decisions from other federal 
+courts recognizing that officers may restrain Summers 
+detainees without violating the Constitution. 
+
+
+Second, the panel held that the officers had violated Mena’s 
+clearly established constitutional rights “by inquiring 
+unnecessarily into her citizenship status” and held that “these 
+facts alone” constituted a Fourth Amendment violation. Pet. 
+App. 10a. The panel reached this novel conclusion 
+
+
+* These two facts were the sole basis for the Ninth Circuit's holding that 
+petitioners used excessive force. The Ninth Circuit did not suggest (and 
+the evidence could not support) any allegation that the handcuffs were 
+overly tight or that the officers used unreasonable force in any other way. 
+
+
+12 
+
+
+notwithstanding that Mena had never claimed at trial or on 
+appeal that the officers’ questioning alone was a seizure. See 
+id. at 27a & n.3, 34a n.2. Nevertheless, the panel held that, 
+because the officers did not have a “particularized reasonable 
+suspicion” that Mena was not a citizen, they were forbidden 
+to ask her any questions about her immigration status. /d. at 
+10a (emphasis omitted). Furthermore, the panel concluded 
+that the officers were not entitled to qualified immunity 
+because the impermissibility of asking questions was clearly 
+established law. In support of this conclusion, the panel cited 
+only to United States v. Brignoni-Ponce, 422 U.S. 873, 884 
+(1975), which required officers to have reasonable suspicion 
+before stopping individuals to investigate their immigration 
+status. See Pet. App. 14a. The panel did not explain how a 
+decision requiring reasonable suspicion for a stop clearly 
+established that officers needed reasonable suspicion to 
+question an individual who had already been lawfully 
+detained. 
+
+
+3. Over the votes of seven dissenting judges, petitioners’ 
+suggestion for rehearing en banc was denied. Pet. App. 24a, 
+25a, 33a. The dissenting judges pointed out that the panel’s 
+conclusion that an officer’s questions about citizenship 
+created a Fourth Amendment violation was a proposition that 
+directly conflicted with a decision of the Seventh Circuit and 
+that “[nJo reasonable police officer would have imagined .. . 
+was the law.” /d. at 26a (Kleinfeld, J., dissenting), id. at 33a 
+(Gould, J., dissenting). Furthermore, the dissenters argued 
+that the panel’s conclusion that the manner in which Mena 
+was detained violated the Fourth Amendment eviscerated 
+Summers’ ruling that “‘a warrant to search for contraband 
+founded on probable cause implicitly carries with it the 
+limited authority to detain the occupants of the premises 
+while a proper search is conducted.” Pet. App. 30a 
+(Kleinfeld, J., dissenting) (quoting Summers, 452 U.S. at 
+705); see also id at 33a (Gould, J., dissenting). The 
+dissenters concluded that, 
+
+
+13 
+
+
+[flor their own safety and the safety of other occupants, 
+reasonable police officers cannot be held to know that it 
+violates the Constitution to detain for two or three hours 
+a woman fully dressed except for bare feet during a 
+lawful search of a house with many padlocked doors, 
+known to house a member of a gang involved in a drive- 
+by shooting. . 
+
+
+Id. at 3la (Kleinfeld, J., dissenting); see also id. at 33a 
+(Gould, J. dissenting) (“We should instead be more alert to 
+the officers’ legitimate concerns for safety.”). 
+
+
+SUMMARY OF THE ARGUMENT 
+
+
+The Ninth Circuit erred by finding that petitioners violated 
+respondent’s Fourth Amendment rights simply by questioning 
+her about her immigration status and by restraining her and 
+three housemates during the execution of a lawful search 
+warrant for gang-related items and weaponry. 
+
+
+I. Mere questions are not seizures, as this Court has 
+repeatedly recognized. Seizures occur only when there is 
+“meaningful interference . . . with an individual’s freedom of 
+movement.” United States v. Jacobsen, 466 U.S. 109, 113 
+n.5 (1984). When an individual has already been lawfully 
+seized, questioning, without more, does not “meaningfully 
+interfere” with her freedom. Indeed, this Court has 
+recognized in analogous settings that officers may question 
+individuals who, as a practical matter, arc not free to avoid 
+the questions simply by leaving. See, e.g., Florida v. Bostick, 
+501 U.S. 429, 436 (1991); INS v. Delgado, 466 U.S. 210, 218 
+(1984). Such questioning is permissible as long as it is not so 
+coercive or intimidating that a reasonable person would 
+believe that her freedom was contingent on a response. 
+Because the officers’ questioning of respondent involved no 
+such coercion or intimidation, the questions did not result in 
+any “seizure” within the meaning of the Fourth Amendment. 
+
+
+14 
+
+
+Even if petitioners needed reasonable suspicion to ask 
+respondent about her immigration status, they had such a 
+suspicion here. They knew that two members of a gang that 
+consists primarily of illegal immigrants resided or had resided 
+in the house where respondent was found sleeping; that the 
+house itself might be a safe house for that gang; and that 
+respondent spoke with a foreign accent. These facts gave 
+petitioners sufficient reason to suspect that respondent might 
+be associated with the gang and that, like many of its 
+members, she too might be in the country illegally. As 
+California peace officers, moreover, petitioners were fully 
+authorized to investigate possible violations of federal 
+immigration law. At a bare minimum, petitioners are entitled 
+to qualified immunity with respect to their questioning of 
+petitioner, inasmuch as no law “clearly established” that they 
+could not inquire about her immigration status in the 
+circumstances they confronted. To the contrary, this Court’s 
+decisions established that their questioning was not a 
+“seizure” at all, and thus that a separate showing of 
+reasonable suspicion was not a predicate to such conduct. 
+
+
+II. Petitioners likewise did not violate respondent’s Fourth 
+Amendment rights by handcuffing her along with three other 
+able-bodied occupants of 1363 Patricia Avenue during a 
+lawful, two-hour search of those premises for weapons used 
+in gang-related violence. This Court’s decision in Michigan 
+v. Summers allows officers to detain occupants of searched 
+premises when a search warrant for contraband is executed. 
+Summers clearly contemplates that officers have the ability to 
+use reasonable force to restrain such detainees, for the 
+decision would be meaningless if officers could not restrain 
+detainees who wished to leave the premises. 
+
+
+Moreover, two underlying purposes of Summers 
+detentions—to ensure safety and to prevent the destruction of 
+evidence—would be completely undermined if officers facing 
+the situation that petitioners confronted were not permitted to 
+use restraints. Petitioners discovered multiple occupants in a 
+
+
+15 
+
+
+suspected gang safe house in which they were searching for 
+(and finding) weapons. Such a search poses an acute risk of 
+danger, and it is entirely reasonable for the officers involved 
+to eliminate or at least reduce that danger by detaining 
+persons at gun-point in order to assert unquestioned authority 
+at the outset of the search, and thereafter using handcuffs to 
+restrain detainees while the search progresses. The 
+uncontradicted testimony at the trial below, as well as the 
+realities of police work, confirm the propriety and 
+reasonableness of such measures in the circumstances that 
+petitioners faced. The use of such measures in these 
+circumstances is certainly not sufficient to bring this case 
+within the “unusual case” exception to Summers. 452 U.S. at 
+705 n.21. The unusual case exception only applies to 
+particularly abusive and egregious conduct, not to 
+precautionary detention measures used in a manifestly 
+dangerous situation. At a minimum, petitioners are entitled to 
+qualified immunity with respect to their detention of 
+respondent, because no law clearly established that their 
+initial use of drawn guns and their subsequent use of 
+handcuffs were impermissible under Summers. 
+
+
+ARGUMENT 
+
+
+I. PETITIONERS DID NOT VIOLATE’ THE 
+FOURTH AMENDMENT BY QUESTIONING 
+RESPONDENT ABOUT HER IDENTITY AND 
+IMMIGRATION STATUS. 
+
+
+Petitioners did not violate the Fourth Amendment by asking 
+respondent about her identity or her citizenship. Mere 
+questioning is not a “seizure” within i= meaning of the 
+Fourth Amendment. Nor does it become a seizure, requiring 
+an independent showing of reasonable suspicion, simply 
+because the person being questioned has already been 
+lawfully detained. A contrary ruling would invalidate routine 
+investigative techniques long understood to be permissible. 
+In all events, even if reasonable suspicion were required in 
+
+
+16 
+
+
+the circumstances of this case, that standard was more than 
+satisfied here, given the information known to petitioners 
+when they encountered respondent at 1363 Patricia Avenue. 
+
+
+A. The Fourth Amendment Permits Officers To 
+Question Lawfully Seized Detainees, Whether Or 
+Not The Officers Have Reasonable Suspicion. 
+
+
+The Ninth Circuit affirmed the verdict in this case on the 
+theory, not argued in the district court, that mere questioning 
+of a lawfully detained person violates the Fourth 
+Amendment.’ That conclusion is manifestly mistaken. 
+
+
+Whether the questions asked of respondent violated the 
+Fourth Amendment is a constitutional question that this Court 
+should review de novo.. See Ornelas vy. United States, 517 
+U.S. 690, 699 (1996). In the first place, this theory of liability 
+was never presented at trial, and therefore the jury never 
+made any findings on it. Respondent did not argue at trial or 
+on appeal that the questioning contributed to a constitutional 
+violation, let alone that the questioning alone violated the 
+Fourth Amendment. Indeed, the questioning was not even 
+mentioned in her closing argument or in the jury instructions. 
+Even if the jury had found that petitioners’ questions violated 
+the Constitution, that legal conclusion is a question of law 
+that should be determined de novo. See id. (holding that 
+determinations of probable cause and reasonable suspicion 
+should be reviewed de novo); cf. Cooper Indus., Inc. v. 
+
+
+* Although the panel suggested that the search of respondent’s purse 
+was a factor underlying its alternative basis for finding a Fourth 
+Amendment violation, Pet. App. 14a, that additional fact has no weight in 
+the constitutional calculus. Respondent’s purse was plainly encompassed 
+by the search warrant itself, which authorized a search for, inter alia, 
+“address books . . . items of identification, utility and telephone receipts, 
+prescription bottles, financial instruments/records, mail correspondence, 
+keys, [and] photographs.” JA 210-11. Moreover, the record indicates that 
+respondent consented to the search by directing the officers to her purse. 
+See id. at 106-07. Accordingly, the panel’s alternative basis rests on mere 
+questioning of a lawfully detained person. 
+
+
+17 
+
+
+Leatherman Tool Group, Inc., 532 U.S. 424, 436 (2001) 
+(holding that determinations of whether punitive damages 
+awards are unconstitutionally “excessive” should be reviewed 
+de novo). 
+
+
+This Court has made clear that a “seizure” of a person 
+requires “meaningful interference . . . with an individual’s 
+freedom of movement.” Jacobsen, 466 U.S. at 113 n.5; see 
+also California v. Hodari D., 499 U.S. 621, 624 (1991). For 
+this reason, “mere police questioning does not constitute a 
+seizure.”” Bostick, 501 U.S. at 434; Delgado, 466 U.S. at 
+216; Florida v. Royer, 460 U.S. 491, 497 (1983) (plurality 
+opinion); United States v. Mendenhall, 446 U.S. 544, 553-54 
+(1980) (plurality opinion). Law enforcement officers may ask 
+questions of individuals they approach on the street, on a bus, 
+or at their work, “even when . . . [they] have no basis for 
+suspecting a particular individual.” Bostick, 501 U.S. at 434- 
+35; see also Delgado, 466 U.S. at 218. 
+
+
+Police questioning only becomes a seizure when it is 
+“coercive.” Bostick, 501 U.S. at 435-36; see also United 
+States v. Martinez-Fuerte, 428 U.S. 543, 554 (1976) (holding 
+that the purpose of the Fourth Amendment is “to prevent 
+arbitrary and oppressive interference by enforcement officials 
+with the privacy and personal secvrity of individuals”). In 
+other words, the police conduct must be “so intimidating as to 
+
+
+* Still less could a question be a “search” under the Fourth Amendment. 
+To “‘search’” is to “‘look over or through for the purpose of finding 
+something,” “‘to explore,” or “‘to examine by inspection.’” Kyillo v. 
+United States, 533 U.S. 27, 32 n.1 (2001) (quoting N. Webster, An 
+American Dictionary of the English Language 66 (1828) (reprint 6th ed. 
+1989)). “Searching” requires an invasion or infringement on an 
+expectation of privacy—something that a mere question cannot do. 
+Jacobsen, 466 U.S. at 113 (holding that “[a] ‘search’ occurs when an 
+expectation of privacy that society is prepared to consider reasonable is 
+infringed”). No individual in society can reasonably expect not to be 
+asked questions. See Kyllo, 533 U.S. at 34; Katz v. United States, 389 
+U.S. 347, 361 (1967) (Harlan, J., concurring). 
+
+
+18 
+
+
+demonstrate that a reasonable person would have believed he 
+was not free to leave if he had not responded.” Delgado, 466 
+U.S. at 216 (emphasis added). In the absence of such 
+coercion, police questioning does not involve a seizure that 
+must be justified by reasonable suspicion. 
+
+
+Contrary to the assumption of the Ninth Circuit, Pet. App. 
+14a, the fact that a person who is being questioned is unable, 
+for reasons independent of the questioning itself, to leave or 
+move about freely does not alter the constitutional 
+permissibility of police questioning. Indeed, this Court has 
+recognized that the police may question an individual whose 
+ability to leave is limited by their travel plans, Bostick, 501 
+U.S. at 436, or by their employment obligations. Delgado, 
+466 U.S. at 218. As long as a reasonable person would not 
+believe that his or her ability to leave depended on answering 
+police inquires, police are free to question individuals whose 
+freedom is, as a practical matter, already constrained. 
+
+
+The same result should apply to an individual whose 
+freedom of movement has already been “meaningfullly] 
+interfere[d]” with because she has been lawfully arrested, 
+stopped, or detained. Jacobsen, 466 U.S. at 113 n.5. Mere 
+questioning, without more, does not further interfere with her 
+freedom of movement. The outcome might be different if the 
+questioning extends the length of the detention, or if officers 
+communicate that the seizure will not end until their questions 
+are answered. Absent such factors, which were not present 
+here, however, questions do not become independent 
+“seizures” simply because they are asked of an individual 
+who is already lawfully detained. 
+
+
+Delgado is particularly instructive in this regard. In that 
+case, INS agents systematically questioned workers at three 
+factories about their citizenship status during a surprise 
+investigation. 466 U.S. at 213. If a worker admitted to being 
+an alien, the agents then asked to see the worker’s 
+immigration papers. /d. at 212-13. The agents wore badges 
+and were armed, and armed agents were stationed near the 
+
+
+19 
+
+
+building’s exit. Jd at 212. The Ninth Circuit held that the 
+agents could not ask workers about their citizenship without 
+reasonable suspicion that the questioned individual was an 
+illegal alien. /d. at 214. This Court reversed, holding that the 
+officers did not need reasonable suspicion to question the 
+workers. /d. at 216. The Court recognized that “interrogation 
+relating to one’s identity or a request for identification by the 
+police does not, by itself, constitute a Fourth Amendment 
+seizure.” See id. Although it was true that workers did not 
+feel free to leave their place of employment, they were not 
+seized because their ability to leave was restricted by factors 
+unrelated to the questioning—namely, their obligations to 
+their employer. See id. at 218. The INS officers’ non- 
+coercive questioning amounted to nothing more than 
+“consensual encounters” and was not a Fourth Amendment 
+seizure, even though the questions were put to individuals 
+who were not free to leave and the agents knew that fact. /d. 
+at 221. 
+
+
+Similarly, in Bostick, officers questioned an individual in 
+“the cramped confines of a bus” just before the bus was 
+scheduled to depart. 501 U.S. at 435. As a practical matter, 
+Bostick was not free to leave because leaving the bus would 
+have risked being left behind and possibly losing his luggage 
+when the bus departed. Jd He argued that, in light of this 
+practical inability to leave, police questioning without 
+reasonable suspicion violated the Fourth Amendment. /d. 
+This Court explained, however, that the relevant inquiry was 
+not whether Bostick was “‘free to leave,” but rather 
+“whether . . . the police conduct at issue was coercive.” /d. at 
+435-36. Police were not forbidden from approaching Bostick 
+to ask him questions or ask to see his identification “so long 
+as the[y did] . . . not convey a message that compliance with 
+their requests is required.” Jd. at 437. Although Bostick was 
+not free to walk away, he was free to ignore the officers or to 
+decline their requests. 
+
+
+20 
+
+
+The situation of a lawfully seized Summers detainee like 
+respondent does not differ in a constitutionally meaningful 
+way from that of the workers in Delgado and the bus 
+passenger in Bostick. The latter were in “practical custody,” 
+whereas respondent was in formal custody. In all three cases, 
+however, persons faced official questioning that they were not 
+free to avoid. In all three, the critical inquiry is not the fact of 
+custody, practical or legal, but whether the questioning itself 
+was coercive. 
+
+
+In this case, as in Delgado and Bostick, the questions 
+themselves were not coercive. Questions about respondent’s 
+identity and immigration status did not extend or alter the 
+nature of her detention in any way.° Cf. Hiibel v. Sixth 
+Judicial Dist. Ct. of Nev., 124 S. Ct. 2451, 2459 (2004) 
+(noting that state statute requiring individuals to identify 
+themselves during investigative stops was constitutional in 
+part because it “does not alter the nature of the stop itself: it 
+does not change its duration, . . . or its location”). Nor were 
+the questions asked in a way that “convey[ed] a message that 
+compliance with the [officers’] requests is required.” Bostick, 
+501 U.S. at 435. Respondent was no less free to refuse to 
+answer petitioners’ questions than a bus passenger confronted 
+by police who “tower[ed] over” him “in the cramped confines 
+of a bus,” id., or factory workers confronted by armed agents 
+flashing badges du:ing a surprise inspection while other 
+armed agents guarded every exit. Delgado, 466 U.S. at 212. 
+Because petitioners’ questioning was not coercive, it did not 
+violate the Fourth Amendment. 
+
+
+A contrary ruling would create an illogical contradiction in 
+Fourth Amendment jurisprudence. “There is nothing in the 
+Constitution which prevents a policeman from addressing 
+
+
+* Since Mena testified that she was questioned either by the officer 
+guarding the detainees or the INS agent, none of the searching officers 
+participated in the questioning. JA 116, 192. Therefore the questions did 
+not extend the time it took to complete the search. 
+
+
+21 
+
+
+questions to anyone on the streets.” Terry v. Ohio, 392 U.S. 
+1, 34 (1968) (White, J., concurring). And, as Bostick and 
+Delgado make clear, an officer’s ability to do so does not 
+depend on whether the person questioned is free to walk 
+away. There is no logical reason, therefore, why the propriety 
+of questions asked without reasonable suspicion should 
+depend on wheiher the questioned person’s inability to escape 
+the questioner is the result of independent factors or a lawful 
+exercise of detention authority. Indeed, it is incongruous to 
+conclude that otherwise permissible questions become 
+unconstitutional solely because they are asked during an 
+otherwise lawful detention. 
+
+
+Nor would such a rule make up in clarity what it lacks in 
+logic. To the contrary, under the approach that the court 
+below and other circuits have adopted, the permissibility of 
+questioning detainees turns on whether the questions are 
+sufficiently “related” to the purposes of the detention. See 
+United States v. Murillo, 255 F.3d 1169, 1175 (9th Cir. 
+2001); United States v. Pruitt, 174 F.3d 1215, 1221 (11th Cir. 
+1999); United States v. Jones, 44 F.3d 860, 872 (10th Cir. 
+1995); United States v. Barahona, 990 F.2d 412, 416 (8th Cir. 
+1993). The boundary between questions that are permissibly 
+“related” to the basis for a detention and those that are 
+unconstitutionally “unrelated” will often be unclear. Indeed, 
+in this very case, the officers were authorized to search for 
+“evidence of street gang membership”; they knew that 
+members of the gang who might reside at the premises were 
+primarily illegal immigrants; they found respondent at those 
+premises; and they were unsure of her connection to the gang. 
+In these circumstances, it is far from obvious that 
+respondent’s immigration status was “unrelated” to her 
+detention. See infra at 23-26. In all events, the Ninth 
+Circuit’s “relationship” test is not a “readily administrable 
+rule{]” for officers forced to apply the Fourth Amendment 
+“on the spur (and in the heat) of the moment.” Afwater v. 
+City of Lago Vista, 532 U.S. 318, 347 (2001); cf. Dunaway v. 
+
+
+22 
+
+
+New York, 442 U.S. 200, 220-21 (1979) (White, J., 
+concurring) (“[I]f courts and law enforcement officials are to 
+have workable rules . . . [Fourth Amendment] balancing must 
+in large part be done on a categorical basis—not in an ad hoc, 
+case-by-case fashion by individual police officers”). 
+
+
+Moreover, to hold that officers lose their authority to 
+question when addressing a lawfully seized individual would 
+upset settled and important law enforcement practices. The 
+rule that officers are free to ask questions of individuals is one 
+of the most important rules for effective law enforcement; 
+“[a]sking questions is an _ essential part of police 
+investigations.” Hiibel, 24 S. Ct. at 2458; see Schneckloth v. 
+Bustamonte, 412 U.S. 218, 225 (1973) (noting that police 
+questioning is a necessary “tool for the effective enforcement 
+of criminal laws”); cf. Texas v. Cobb, 532 U.S. 162, 171-72 
+(2001) (“[T]he Constitution does not negate society’s interest 
+in the ability of police to talk to witnesses and suspects.”). 
+Officers routinely question seized individuals in police 
+stations, jail cells and on the street about topics that are 
+unrelated to the seizure, and this Court has never suggested 
+that such questioning could violate the Fourth Amendment. 
+See, e.g.. McNeil v. Wisconsin, 501 U.S. 171, 173-74 (1991) 
+(questioning on unrelated offense); Mathis v. United States, 
+391 U.S. 1, 3 (1968) (same); see also United States v. Childs, 
+277 F.3d 947, 950 (7th Cir.) (en banc) (“[A]n officer may 
+interrogate a person in prison on one offense about the 
+possibility that the inmate committed another. This is normal 
+and, as far as we can tell, of unquestioned propriety as far as 
+the fourth amendment is concerned.”), cert. denied, 537 U.S. 
+829 (2002). Although a prisoner is certainly not free to go 
+and although his freedom has been restrained by law 
+enforcement, officers questioning a prisoner do not violate the 
+Fourth Amendment because it is clear that the prisoner’s 
+release does not depend on cooperation with the questioning. 
+
+
+Indeed, the questions that petitioners asked respondent are 
+particularly proper because they related to her identity. While 
+
+
+23 
+
+
+petitioners were free to ask any questions of respondent, this 
+Court has recognized that questions relating to identity are 
+particv'arly important to law enforcement. See Hiibel, 124 
+S. Ct. at 2458. And ascertaining the identity of illegal aliens 
+serves an important government interest. See Brignoni- 
+Ponce, 422 U.S. at 878 (recognizing “that the public interest 
+demands effective measures to prevent the illegal entry of 
+aliens”). In addition, questions relating to identity are 
+particularly non-intrusive and reasonable. See Hiibel, 124 
+S. Ct. at 2458 (“In the ordinary course a police officer is free 
+to ask a person for identification without implicating the 
+Fourth Amendment.”); cf. Delgado, 466 U.S. at 216. 
+
+
+In short, this Court’s decisions applying the Fourth 
+Amendment, as well as the necessities of effective law 
+enforcement, require a recognition that officers may question 
+lawfully detained individuals provided that questioning does 
+not extend the length of the detention or indicate that the 
+detainee’s freedom is contingent on answers to those 
+questions. This Court should reaffirm its recognition in 
+Bostick that questioning is permissible unless it is coercive, 
+and therefore it should reverse the Ninth Circuit’s holding 
+that the questioning in this case violated respondent’s Fourth 
+Amendment rights. 
+
+
+B. Petitioners Had Reasonable Suspicion That 
+Respondent Was An Illegal Immigrant. 
+
+
+Even if petitioners needed reasonable suspicion to ask 
+respondent about her citizenship, they had more than enough 
+information to form such a suspicion here. Officers may 
+detain an individual and question her about her citizenship or 
+immigration status if they reasonably suspect that she is an 
+alien illegally in the country. See Brignoni-Ponce, 422 U.S. 
+at 881-82. The facts known to petitioners were more than 
+sufficient to give rise to such a suspicion about respondent. 
+
+
+Petitioners knew from experience that the West Side Locos 
+were “predominately made up of illegal immigrants.” JA 
+
+
+24 
+
+
+159-60. The officers also knew that Raymond Romero and at 
+least one other member of the West Side Locos resided or had 
+resided at 1363 Patricia Avenue, and the officers reasonably 
+surmised, based on their prior experiences with and 
+knowledge about gangs, that 1363 Patricia Avenue may have 
+been a safe house for the West Side Locos. See id. at 158. 
+The officers thus reasonably suspected that the residents of 
+1363 Patricia Avenue were associates of the West Side Locos 
+and might themselves be illegal immigrants. 
+
+
+When petitioners encountered respondent, she was asleep in 
+a room at this house. This suggested that she was herself a 
+resident of this potential safe house, and thus might herself be 
+associated with the gang. In addition, English was not 
+respondent's first language, and she spoke with a noticeable 
+Salvadorian accent. See Brignoni-Ponce, 422 U.S. at 886-87 
+(recognizing that apparent Latino ancestry is a factor that can 
+support reasonable suspicion in combination with other 
+factors); see also United States v. Arvizu, 534 U.S. 266, 274 
+(2002). Collectively, these facts are sufficient to justify a 
+reasonable suspicion that respondent was an illegal alien. 
+
+
+Petitioners’ inquiry therefore was not, as the Ninth Circuit 
+suggested, “based on nothing more than [respondent’s] name 
+or ethnic appearance.” Pet. App. 13a. On the contrary, 
+petitioners had a particularized suspicion that respondent was 
+an illegal alien based on a number of factors, the most 
+significant of which was her residence in a house where at 
+least two members of a gang of predominantly illegal aliens 
+lived or had lived. Petitioner Muehler’s uncontradicted trial 
+testimony was that he had contacted INS before executing the 
+search warrant because he knew that the members of the West 
+Side Locos were predominantly illegal aliens. JA 159-60. It 
+was respondent’s suspected association with this gang that 
+prompted the inquiry into her immigration status, not merely 
+her “name or ethnic appearance.” 
+
+
+Petitioners had the legal authority to investigate their 
+reasonable suspicion. The Ninth Circuit’s claim to the 
+
+
+25 
+
+
+contrary—that petitioners had “doubtful” authority to 
+investigate immigration law violations, Pet. App. 13a n.15— | 
+is without merit. As California peace officers, petitioners 
+were empowered to arrest for any “public offense” committed 
+in their presence, including violations of federal criminal law. 
+Cal. Penal Code § 836(a)(1); see Gates v. Los Angeles 
+Superior Court, 238 Cal. Rptr. 592, 598 (Cal. Ct. App. 1987); 
+66 Op. Cal. Att’y Gen. 497, 500 (1983) (“[UJnless federal law 
+specifically provides otherwise, state law enforcement 
+officials have the authority to assist the enforcement of 
+federal laws within their state and arrest persons for crimes 
+against the United States.”). At the time petitioners 
+cuestioned respondent, both the Ninth Circuit and the 
+Department of Justice’s Office of Legal Counsel had opined 
+that local police officers were empowered to detain or arrest 
+aliens who had violated the criminal provisions of the 
+Immigration and Naturalization Act. See Gonzalez v. City of 
+Peoria, 722 F.2d 468, 476 (9th Cir. 1983), overruled’ on other 
+grounds by Hodgers-Durger v. de la Vina, 1§9 F.3d 1037 
+(9th Cir. 1999); Assistance by State and Local Police in 
+Apprehending Illegal Aliens, 20 Op. Off. Legal Counsel (Feb. 
+5, 1996), available at http://www.usdoj.gov/olc/immstopo la. 
+htm. 
+
+
+Petitioners therefore had the authority to investigate crimes 
+arising under 8 U.S.C. § 1304(e), which requires all aliens, 
+including permanent residents, to carry their immigration 
+documentation with them at all times. See 20 Op. Off. Legal 
+Counsel, available at http://www.usdoj.gov/olc/immstopo 1a. 
+htm (recognizing that § 1304(e) was among the immigration 
+statutes that could be enforced by local police officers). A 
+
+
+” Indeed, in 2002, the Office of Legal Counsel concluded that state and 
+local officers also have a degree of authority to arrest individuals for civil 
+immigration violations. See Attorney General Prepared Remarks on the 
+National Security Entry-Exit Registration System (June 6, 2002), 
+available at http://www.usdoj.gov/ag/speeches/2002/060502agprepared 
+remarks.htm. 
+
+
+26 
+
+
+violation of § 1304(e) is punishable as a misdemeanor. /d. 
+Since the officers had the ability to arrest respondent for a 
+violation of § 1304(e), they surely had the authority to 
+ascertain whether she was complying with the statute by 
+asking her for her name and immigration status. Petitioners 
+therefore had full authority to investigate their reasonable 
+suspicion that respondent was violating immigration laws and 
+did not violate the Fourth Amendment by questioning 
+respondent. 
+
+
+In all events, even if petitioners’ questioning of respondent 
+somehow violated the Constitution, they are entitled to 
+qualified immunity because it was not clearly established that 
+such conduct was unconstitutional.* In holding otherwise, the 
+Ninth Circuit stated that “any reasonable officer” would have 
+known that questioning respondent without reasonable 
+suspicion was unlawful in light of Brignoni-Ponce. Pet. App. 
+15a. But Brignoni-Ponce articulated the standard for making 
+stops to investigate suspected immigration violations, 422 
+U.S. at 884; it says nothing about the legality of questioning 
+those already lawfully detained. If anything, this Court’s 
+decisions in Bostick, Royer, Delgado, and Mendenhall had all 
+affirmed that officers do not need reasonable suspicion to 
+engage in non-coercive questioning. A reasonable officer 
+
+
+* The issue of qualified immunity is “fairly subsumed” within the first 
+question presented, which asks whether petitioners’ conduct was 
+unconstitutional “in light of this Court's repeated holdings that mere 
+police questioning does not constitute a seizure.” Pet. (i). Qualified 
+immunity is “intimately bound up with the . . . discussion” of the merits 
+issue, Kolstad v. American Dental Ass'n, 527 U.S. 526, 540 (1999), 
+inasmuch as analysis of this Court’s precedents will determine not only 
+the propriety of petitioners’ questioning, but also whether they should 
+have known that it was improper (if the Court concludes that it was). See 
+also Procunier v. Navarette, 434 U.S. 555, 559 n.6 (1978) (issue of 
+qualified immunity fairly subsumed in question whether negligent failure 
+to mail prisoner's letters state a claim under § 1983). In addition, the issue 
+was decided below, see Kolstad, 527 U.S. at 540, and raised in the petition 
+itself. See Pet. 13 n.3. 
+
+
+27 
+
+
+acting in light of those decisions would not have known that 
+questions that are permissible when asked of an individual on 
+the street or cornered in a bus become unconstitutional when 
+asked of a person who was detained during the execution of a 
+search warrant. 
+
+
+Indeed, in 1993, the Fifth Circuit concluded from Bostick 
+and Royer that mere questioning of a detainee could never 
+amount to a seizure, United States v. Shabazz. 993 F.2d 431, 
+436 (Sth Cir. 1993), and other circuits followed its lead. See 
+Childs, 277 F.3d at 949-50; United States v. Jacobs, 173 F.3d 
+426 (4th Cir. 1999) (per curiam) (table), available at 1999 
+WL 96121, at *2. Although other circuits, including the 
+Ninth, had held that questioning of persons detained in certain 
+circumstances could violate the Fourth Amendment, those 
+courts addressed the analytically distinct situation of traffic 
+stops. See, e.g., United States v. Baron, 94 F.3d 1312, 1319 
+(9th Cir. 1996); United States v. Botero-Ospina, 7\ F.3d 783, 
+788 (10th Cir. 1995); United States v. Ramos, 42 F.3d 1160, 
+1162-63 (8th Cir. 1994). Traffic stops are investigative stops 
+governed by TJerry’s requirement that the stop be “reasonably 
+related in scope to the circumstances which justified the 
+interference in the first place.” Terry, 392 U.S. at 20. The 
+Ninth Circuit and other courts based their holding that traffic 
+stop questions needed to be “related” to the purpose of the 
+stop on Terry’s scope requirement. See Baron, 94 F.3d at 
+1319; Botero-Ospina, 71 F.3d at 788. These holdings 
+therefore do not implicate Summers detentions, for the scope 
+of a Summers detention is limited only by the time it takes to 
+complete the search. Summers, 452 U.S. at 705. 
+
+
+Acting in 1998, petitioners could not have predicted that the 
+Ninth Circuit would extend its holdings in traffic stop cases 
+to the distinct area of Summers detentions, and could not have 
+known that the Fifth Circuit’s application of this Court’s 
+decisions would be rejected. “If judges thus disagree on a 
+constitutional question, it is unfair to subject police to money 
+damages for picking the losing side of the controversy.” 
+
+
+28 
+
+
+Wilson v. Layne, 526 U.S. 603, 618 (1999). Because 
+petitioners could not have imagined that their questions were 
+unconstitutional, they are entitled to qualified immunity for 
+questioning respondent. See Pet. App. 26a (Kleinfeld, J., 
+dissenting) (“No reasonable police officer would have 
+imagined that this was the law, and no police officer ought to 
+be prevented from asking about citizenship under these 
+circumstances.”). 
+
+
+In sum, the judgment of the court of appeals, holding that 
+petitioners’ questioning provided a basis for a constitutional 
+tort action, should be reversed for three independent reasons. 
+The questioning did not constitute a “seizure” within the 
+meaning of the Fourth Amendment. In any event, the 
+questioning was based at least on reasonable suspicion. 
+Finally, the law was not so clear that petitioners could be 
+stripped of their qualified immunity. 
+
+
+Il. RESPONDENT’S DETENTION DURING THE 
+EXECUTION OF THE SEARCH WARRANT DID 
+NOT VIOLATE THE FOURTH AMENDMENT. 
+
+
+A. Using Reasonable Restraints To Control A 
+Group Of Detainees During The Execution Of A 
+Search Warrant Does Not Violate The Fourth 
+Amendment. 
+
+
+The Ninth Circuit also erred by concluding that the officers 
+violated the Constitution by initially detaining respondent at 
+gun-point and thereafter restraining her and three other 
+occupants in handcuffs while the house was searched. The 
+Ninth Circuit’s holding failed to appreciate the gravity of the 
+danger faced by officers executing search warrants in fluid 
+situations, and to recognize that Summers itself authorizes the 
+reasonable use of force to restrain detainees. In this case, 
+where officers who were searching for (and finding) weapons 
+needed to control four separate occupants, the use of restraints 
+to “exercise unquestioned command” of the premises was 
+reasonable. Summers, 452 U.S. at 703; Graham, 490 U.S. at 
+
+
+29 
+
+
+396 (holding that claims that officers used excessive force 
+during the course of a seizure should be analyzed under the 
+“reasonableness” standard of the Fourth Amendment). 
+
+
+The reasonableness of petitioners’ conduct is a 
+constitutional question that this Court should review de novo. 
+See Ornelas, 517 U.S. at 699; cf. Leatherman, 532 U.S. at 
+436. In Ornelas this Court recognized that the determination 
+of whether a given set of factual circumstances constituted 
+reasonable suspicion or probable cause was a mixed question 
+of law and fact that should be reviewed de novo. Ornelas, 
+517 U.S. at 699. De novo review was required for these 
+ultimate Fourth Amendment determinations because of the 
+need to maintain “a unitary system of law,” “to maintain 
+control of, and to clarify, the legal principles” involved, and 
+“to provid[e] law enforcement officers with a defined set of 
+rules which, in most instances, makes it possible to reach a 
+correct determination beforehand as to whether an invasion of 
+privacy is justified in the interest of law enforcement.” /d. at 
+697-98 (internal quotation marks and citations omitted). 
+These same concerns support de novo review for other 
+determinations of Fourth Amendment reasonableness, such as 
+the reasonableness of restraints used during a Summers 
+detention. De novo review of the reasonableness of restraints 
+used during Summers detentions is necessary to have a 
+consistent body of law that gives clear guides to officers 
+operating in dangerous and fluid situations. De novo review is 
+particularly apt when, as here, the determination that 
+petitioners’ conduct was unreasonable was made by a jury. 
+To allow the vagaries of a jury’s determination of 
+“reasonableness” to define the scope of the Fourth 
+Amendment could create unacceptable inconsistencies. To be 
+sure, the facts must be found in the light most favorable to 
+respondent because of the jury verdict, but the ultimate 
+decision of reasonableness remains one for the Court. 
+Otherwise, to defer to a jury’s interpretation of the Fourth 
+Amendment would cede the judiciary’s “province and 
+
+
+30 
+
+
+duty . . . to say what the law is.” Marbury v. Madison, 5 U.S. 
+(1 Cranch) 137, 177 (1803). Therefore, this Court should 
+review the reasonableness of petitioners’ restraint of the four 
+occupants during the search de novo. 
+
+
+In Summers, this Court held that officers executing a search 
+warrant for contraband have the authority “to detain the 
+occupants of the premises while a proper search is 
+conducted.” 452 U.S. at 705. The Court concluded that such 
+detentions were appropriate for two reasons. First, the 
+“objective justification for the detention” created by the 
+search warrant itself. See id. at 703. The warrant is an 
+objective justification for detaining occupants because it 
+shows that a neutral magistrate has found probable cause of 
+criminal activity sufficient to justify a search of the premises. 
+Id. Once a magistrate has verified that there is probable cause 
+to believe that a home was being used to conceal evidence of 
+criminal activity, “[t]he connection of an occupant to that 
+home gives the police officer an easily identifiable and certain 
+basis for determining that suspicion of criminal activity 
+justifies a detention of that occupant.” /d. at 703-04. 
+
+
+Second, powerful law enforcement interests justify the 
+detention of occupants while a search warrant for contraband 
+is executed. First, there is the “legitimate law enforcement 
+interest in preventing flight in the event that incriminating 
+evidence is found.” /d. at 702. “[S]ometimes of greater 
+importance” is “the interest in minimizing the risk of harm to 
+the officers.” /d To control these risks, officers must 
+
+
+“routinely exercise unquestioned command of the situation.” 
+Id. at 703. 
+
+
+This Court in Summers recognized that police officers’ 
+ability to detain occupants when executing search warrants 
+for contraband must be “routine[]” and does not depend on a 
+particular showing of danger. /d. Even though the facts in 
+Summers suggested “no special danger to the police,” the 
+Court recognized that “the execution of a warrant to search 
+for narcotics is the kind of transaction that may give rise to 
+
+
+31 
+
+
+sudden violence or frantic efforts to conceal or destroy 
+evidence.” /d. at 702. The inherent danger of executing 
+search warrants justified a bright-line legal standard that 
+allows officers to detain occupants and take complete 
+command of searched premises. 
+
+
+The ability to detain occupants and assert unquestioned 
+authority necessarily includes the ability to use force and 
+threats of force. This Court has applied this logic in the 
+related context of arrests and investigatory stops, recognizing 
+that “the right to make an arrest or investigatory stop 
+necessarily carries with it the right to use some degree of 
+physical coercion or threat thereof to effect it.” Graham, 490 
+U.S. at 396. As the Court has recognized in this context, 
+police officers need not “take unnecessary risks in the 
+performance of their duties.” Terry, 392 U.S. at 23. In the 
+inherently dangerous and fluid enterprise of executing search 
+warrants, this means that officers need not wait for signs of 
+resistance, flight or violence before employing force or 
+threats of force. Officers cannot be expected to combat these 
+serious dangers by keeping one eye on the occupants they are 
+guarding and the other on the areas they are searching. The 
+safety of both officers and occupants requires allowing 
+officers to use reasonable restraints when necessary in order 
+to assert and maintain “unquestioned command of the 
+situation.” Summers, 452 U.S. at 703. 
+
+
+The search in this case is a telling example of a situation 
+where officers would face a substantial risk of danger unless 
+they could use reasonable restraints to “exercise unquestioned 
+command” of the premises. Petitioners executed a search for 
+weapons at a house that they reasonably suspected to be a 
+gang safehouse. Although they did not find their prime 
+suspect, Raymond Romero, on the premises, they did find 
+four able-bodied occupants whose residence in the same 
+house as Romero raised the possibility that they might be 
+associated with or sympathetic to Romero. For all the police 
+knew when executing the search warrant, one or more of the 
+
+
+32 
+
+
+occupants could have been a member of the West Side Locos. 
+Given the gang’s propensity toward violent conduct, the 
+officers unquestionably viewed the search as a high-risk 
+undertaking. Moreover, the number of occupants created the 
+possibility that the police could lose control of the situation 
+had one or more of the occupants chosen to resist or interfere. 
+In that event, of course, both the police and the other 
+occupants would be placed squarely in jeopardy. Finally, the 
+actual discovery of weapons in several locations throughout 
+the house, including common areas, gave the officers further 
+reason to be wary of the individuals as the search progressed. 
+
+
+Petitioners were well aware that a seemingly calm situation 
+could quickly turn violent. As petitioner Brill testified, the 
+mere fact that persons who are handcuffed are compliant does 
+not mean they will remain so if they are unhandcuffed. JA 
+74. Given the number of detainees and petitioners’. justified 
+wariness as to what the detainees might do if released, 
+petitioners were justified in us‘ng handcuffs to control the 
+situation. 
+
+
+Although Summers provides the more specific guidance as 
+to how best to resolve this case, the same result would follow 
+from applying the broader ruling in Graham. The Court in 
+Graham established that the reasonableness of any particular 
+use of force must be judged by “a careful balancing” between 
+the intrusion on an individual’s Fourth Amendment interests 
+and the necessity for that intrusion. 490 U.S. at 396. Here, 
+the intrusion on respondent’s interests was negligible. 
+Because she could be lawfully detained for the duration of the 
+search, the only additional intrusion is the fact that she was 
+kept in handcuffs during that lawful detention. That minimal 
+intrusion must be balanced against the well-recognized 
+“interest in minimizing the risk of harm to the officers.” 
+Summers, 452 U.S. at 702. Petitioners faced a particularly 
+dangerous situation—detaining four occupants of a suspected 
+gang safe house while executing a search warrant for 
+weapons. Summers recognized how important it was for 
+
+
+33 
+
+
+officers in this situation to “exercise unquestioned command 
+of the situation.” Jd at 703. When “judged from the 
+perspective of a reasonable officer on the scene,” petitioners’ 
+conduct was eminently reasonable and did not violate the 
+Fourth Amendment. Graham, 490 U.S. at 396. 
+
+
+B. The “Unusual Case” Exception To Summers Does 
+Not Apply To The Reasonable Use Of Restraints. 
+
+
+In Summers, this Court recognized that particularly 
+egregious police conduct would not be insulated from liability 
+simply because it occurred during the detention of occupants. 
+The Court noted that, “[a]lthough special circumstances, or 
+possibly a prolonged detention, might lead to a different 
+conclusion in an unusual case, . . . this routine detention of 
+residents of a house while it was being searched for 
+contraband pursuant to a valid warrant is not such a case.” 
+452 U.S. at 705 n.21. The “unusual case” exception has no 
+application to the reasonable use of restraints, particularly in a 
+fluid and potentially very dangerous situation with multiple 
+detainees like the one petitioners confronted. 
+
+
+The Summers Court gave no clear definition of what 
+“special circumstances” would render a search unreasonable, 
+except to suggest that such circumstances would only arise 
+“in an unusual case.” Jd; see also id. at 712 n.5 (Stewart, J., 
+dissenting) (noting that the majority opinion “provides no 
+criteria for identifying ‘special circumstances’ or for 
+determining when a detention is ‘prolonged’”). The Court 
+did, however, spell out circumstances that would not be 
+“special.” First, the detention of an occupant who is not a 
+suspect is not a special circumstance; Summers generally 
+authorized detentions of occupants and did not require police 
+to suspect occupants of any crime. /d. at 705. Thus, the 
+Ninth Circuit’s distinction in this case between suspects and 
+non-suspects, Pet. App. 8a & n.5, draws no support from 
+Summers. Second, the detention of an occupant during a 
+search of several hours is not a special circumstance. By 
+authorizing detentions “while a proper search is conducted,” 
+
+
+34 
+
+
+452 U.S. at 705, the Court recognized that detention was 
+permissible for as long as it took officers to conduct and 
+complete © search—‘“a potentially very long period of 
+time.” Jd. at 711 (Stewart, J., dissenting). The Court was 
+aware that “a detention ‘while a proper search is being 
+conducted’ can mean a detention of several hours.” /d.; see 
+also Harris v. United States, 331 U.S. 145, 149 (1947) 
+(noting that a “careful and thorough search” of a one- 
+bedroom apartment lasted “approximately five hours”), 
+overruled in part on other grounds by Chimel v. California, 
+395 U.S. 752 (1969). Third, the reasonable restraint of 
+occupants is not a special circumstance. As discussed above, 
+authorizing officers to detain occupants during a search 
+necessarily authorizes the officers to prevent occupants from 
+leaving and to use reasonable measures to restrain the 
+occupants if necessary. The right to detain occupants 
+logically implies the power “to use some degree of physical 
+coercion or threat thereof to effect” the detention. Graham, 
+490 U.S. at 396. Summers would be meaningless if the only 
+tool officers had to compel detainees to remain on the 
+premises was their power of persuasion. 
+
+
+Because Summers clearly authorized the detention of non- 
+suspect occupants for extended periods and the use of 
+reasonable restraints to effectuate the detention, the “unusual 
+case” in which detention is unreasonable must be limited to 
+particularly abusive police conduct. Although this Court has 
+never defined the scope of the “unusual case” exception, the 
+circuit courts have generally limited its application to cases 
+with especially egregious circumstances, such as_ the 
+unnecessary strip-searching of detainees, see Williams v. 
+Kaufman County, 352 F.3d 994, 1011 (Sth Cir. 2003); the 
+extended handcuffing of a disabled and partially nude man, 
+see Franklin, 31 F.3d at 876-77; or excessively tight 
+handcuffing for an extended period of time, see Heitschmidt 
+v. City of Houston, 161 F.3d 834, 836 (Sth Cir. 1998). 
+
+
+35 
+
+
+Far from being an “unusual case,” petitioners’ conduct in 
+this case was eminently reasonable and justified under the 
+circumstances. Petitioners executed a search warrant in a 
+location with high potential for violence—the suspected 
+residence of both a suspect in two gang-related shootings and 
+another gang member. Petitioners discovered four occupants 
+on the property; although Ray Romero was not among them, 
+the officers’ suspicion that the location was a gang safe house 
+and the occupants’ residence on the property gave the officers 
+substantial grounds to be wary of each individual. And, when 
+presented with a group of four such occupants, the officers 
+were even more justified in taking the precaution of 
+restraining the group in handcuffs. Having four detainees on 
+the scene dramatically increased the risk that the officers 
+would not be able to control the situation should one or more 
+unrestrained occupants choose te resist the detention, interfere 
+with the search, or seek to assist any occupants the officers 
+chose to restrain. Even though the occupants may not have 
+resisted at first, particularly in light of the surprise entry and 
+show of reasonable, but overwhelming force, the experienced 
+officers were well aware that the situation could change in an — 
+instant. Cf. Terry, 392 U.S. at 13 (“[H]ostile confrontations 
+are not all of a piece. Some of them begin in a friendly 
+enough manner, only to take a different turn upon the 
+injection of some unexpected element into the 
+conversation.”). Like the search for narcotics in Summers, 
+petitioners’ search for gang-related weapons was “the kind of 
+transaction that may give rise to sudden violence or frantic 
+efforts to conceal or destroy evidence.” Summers, 452 U.S. at 
+702. The officers’ “split-second judgment[]” that handcuffs 
+would be necessary in a “tense, uncertain, and rapidly 
+evolving” situation was more than reasonable, Graham, 490 
+U.S. at 397; indeed, it would have been unreasonable to fail to 
+use some form of restraint in such a dangerous situation. 
+
+
+The Ninth Circuit’s conclusion that the officers should have 
+released respondent because it was “clear” that she did not 
+
+
+36 
+
+
+pose an immediate threat is precisely the sort of second- 
+guessing made “in the peace of a judge’s chambers” that this 
+Court has rejected. Pet. App. 8a-9a; Graham, 490 U.S. at 
+396. The reasonableness of restraining the group of detainees 
+during the search “must be judged from the perspective of a 
+reasonable officer on the scene, rather than with the 20/20 
+vision of hindsight.” 490 U.S. at 396. Reasonable officers on 
+the scene were faced with four occupants, all of whom were 
+living in a suspected gang safe house where at least two West 
+Side Locos had resided. The potential danger of the situation 
+was not dispelled by the occupants’ failure to engage in active 
+resistance after they were handcuffed. Reasonable officers 
+well know that an individual who is cooperative at one 
+moment may turn violent in an instant, a fact this Court 
+recognized in Summers. 452 U.S. at 702. Moreover, despite 
+the occupants’ seeming passivity, the discovery of weapons 
+throughout the house could only heighten the officers’ 
+concerns about all of the occupants. The officers’ reasonable 
+concern for their safety hardly could be dispelled while they 
+were discovering a handgun, bullets, gang-inscribed baseball 
+bats, and a blowgun during their search. In light of this well- 
+supported justification for using handcuffs to restrain the 
+occupants, the officers’ reasonable conduct hardly constitutes 
+an “unusual case.” 
+
+
+In all events, even if this Court concludes that handcuffing 
+the group of occupants that petitioners encountered was 
+unconstitutional, petitioners are entitled to qualified 
+immunity, because the law at the time they acted suggested 
+that such conduct was permissible.” Summers itself 
+
+
+* The question of whether clearly established law warned petitioners 
+that handcuffing the occupants violated the Constitution is “fairly 
+subsumed” within the second question presented, which asks whether 
+petitioners’ conduct was unconstitutional “in light of this Court’s ruling in 
+Michigan v. Summers, 452 U.S. 692 (1981), that a valid search warrant 
+carries with it the implicit authority to detain occupants while the search is 
+conducted.” Pet. (i). Qualified immunity is “intimately bound up with 
+
+
+37 
+
+
+contemplates that officers will use force to effectuate 
+detentions and assert “unquestioned command.” Prior to 
+1998, moreover, the Ninth Circuit and a number of other 
+courts had recognized that handcuffs could be used in 
+investigatory stops made under dangerous circumstances.'” 
+Courts had also recognized that safety concerns could justify 
+using handcuffs to restrain Summers detainees. The Sixth 
+Circuit had found that handcuffing detainees and forcing them 
+to lie on the floor was “reasonable and proportional to law 
+enforcement’s legitimate interests in preventing flight . . . and 
+in minimizing the risk of harm to officers.” United States v. 
+Fountain, 2 F.3d 656, 663 (6th Cir. 1993). It later approved 
+the handcuffing of a group of Summers detainees where “(t]he 
+search was for drugs, which may be associated with guns, 
+there were five persons at the property when police arrived 
+and there was reason to believe that the persons on the 
+property might flee if not restrained.” United States v. 
+Thompson, 91 F.3d 145 (6th Cir. 1996) (table), available at 
+1996 WL 428418, at **4. And a district court had recognized 
+that a 90-minute handcuffing of a Summers detainee was 
+
+
+the... discussion” of the merits issue. Kolstad, 527 U.S. at 540; see 
+Procunier, 434 U.S. at 559 n.6. In addition, whether there was clearly 
+established law on this issue was decided below, see Pet App. 15a, was 
+briefed by both parties below, and was raised in both the petition and 
+respondents’ opposition to the position. See Pet. 18-19; Opp. 14-16. 
+
+
+'° See, e.g., Alexander v. County of L.A., 64 F.3d 1315, 1320 (9th Cir. 
+1995) (officers had qualified immunity for detaining plaintiffs in 
+handcuffs for an hour while waiting for a witness identification); United 
+States v. Smith, 3 F.3d 1088, 1094 (7th Cir. 1993); United States v. 
+Saffeels, 982 F.2d 1199, 1206 (8th Cir. 1992), vacated on other grounds, 
+510 U.S. 801 (1993); United States v. Esieke, 940 F.2d 29, 36 (2d Cir. 
+1991); United States v. Crittendon, 883 F.2d 326, 329 (4th Cir. 1989); 
+United States v. Merkley, 988 F.2d 1062, 1064 (10th Cir. 1993); United 
+States v. Hemphill, 767 F.2d 922 (6th Cir. 1985) (per curiam) (table), 
+available at 1999 WL 96121; United States v. Taylor, 716 F.2d 701, 709 
+(9th Cir. 1983); United States v. Bautista, 684 F.2d 1286, 1289-90 (9th 
+Cir. 1982). 
+
+
+38 
+
+
+“more than reasonable.” Crosby v. Hare, 932 F. Supp. 490, 
+493 (W.D.N.Y. 1996)."' 
+
+
+Indeed, the Ninth Circuit itself recognized that, at the time 
+of the search “it was not clearly established in . . . [any] 
+circuit that simply handcuffing a person and detaining her in 
+handcuffs during a search for evidence would violate her 
+Fourth Amendment rights.” Meredith v. Erath, 342 F.3d 
+1057, 1063 (9th Cir. 2003).' Nor did petitioners have fair 
+warning that detaining someone in handcuffs for the several 
+hours it takes to conduct a search was unreasonable. In fact, 
+when petitioners acted, courts had upheld detentions during 
+searches longer than respondent’s “2 to 3 hour” estimate. 
+See, e.g., Bernstein v. United States, 990 F- Supp. 428, 432- 
+433 (D.S.C. 1997) (four-hour detention); Barron v. Sullivan, 
+No. 93 C 6644, 1997 WL 158321, at *5 (N.D. Ill. Mar. 31, 
+1997) (three-hour detention); Cole v. United States, 874 F. 
+Supp. 1011, 1037 (D. Neb. 1995) (three and a half hour 
+detention); see also Garavaglia v. Budde, 43 F.3d 1472 (6th 
+Cir. 1994) (per curiam) (table), available at 1994 WL 706769 
+(qualified immunity for six-hour and three-hour detentions); 
+Sims ex rel. Sims v. Forehand, 112 F. Supp. 2d 1260, 1269-70 
+(M.D. Ala. 2000) (qualified immunity because Summers left 
+“unsettled” when a detention is “prolonged”); Daniel v. 
+Taylor, 808 F.2d 1401, 1405 (11th Cir. 1986) (per curiam) 
+(qualified immunity for nearly three search because “the law 
+
+
+'' A number of state courts had also ruled that Summers detainees may 
+be handcuffed. See People v. Ornelas, 937 P.2d 867, 870-71 (Colo. Ct. 
+App. 1996); Wilson v. State, 547 So. 2d 215, 216-17 (Fla. Dist. Ct. App. 
+1989); People v. Zuccarini, 431 N.W.2d 446 (Mich. Ct. App. 1988); State 
+v. Banks, 720 P.2d 1380, 1383 (Utah 1986); State v. Schultz, 491 N.E.2d 
+735, 739-40 (Ohio Ct. App. 1985). 
+
+
+' In Meredith, the court recognized that no law gave fair warning that 
+using handcuffs to restrain a detainee during a search for evidence was 
+unconstitutional, but denied qualified immunity for plaintiffs’ claim that, 
+for part of the detention, the officer kept her in painfully tight handcuffs 
+and refused to loosen them. 342 F.3d at 1063. 
+
+
+39 
+
+
+is ambiguous as to when detention in conjunction with a 
+lawful, premises search becomes impermissible”). 
+
+
+The Ninth Circuit cited only two cases to support its 
+conclusion that petitioners violated “clearly established” law: 
+Graham v. Connor and Franklin v. Foxworth. Graham 
+simply reaffirmed that excessive force claims should be 
+judged by whether the use of force was reasonable under the 
+circumstances, not by substantive due process standards. See 
+490 U.S. at 393-96. Graham did not apply this test to the 
+facts before the Court, and thus gave no indication that 
+handcuffing Summers detainees was unconstitutional. 
+
+
+Franklin vy. Foxworth involved grossly “wanton[] and 
+callous[]” conduct, 31 F.3d at 878, far removed from the 
+petitioners’ conduct here. The officers in that case were 
+aware that the occupant, Mr. Curry, had advanced multiple 
+sclerosis and was unable to walk or to sit up without 
+assistance, yet they pulled him from bed and handcuffed him, 
+nude from the waist down, in the living room. /d. at 874-75. 
+They did not provide him with any covering for at least an 
+hour, and did not return him to his room for over two hours. 
+See id. The Ninth Circuit found that the officers “wantonly 
+and callously subjected an obviously ill and incapacitated 
+person to entirely unnecessary and unjustifiable degradation 
+and suffering.” Jd. at 878. Particularly crucial to the court’s 
+determination was the officers’ failure to give Curry some 
+clothing or covering for his nakedness. /d. at 877 (“[WJe can 
+conceive of no reason why Curry- was not given clothing or 
+covering before he was carried from his bed to the living 
+room, so that his genitals would not be exposed to the view of 
+23 armed strangers.”). A majority of the court also found it 
+important that he was not returned to his bed after his room 
+was searched. See id. 
+
+
+Franklin gave no clear warning that the handcuffing of a 
+group of able-bodied and fully clothed individuals would be 
+unconstitutional. Indeed, because of the court’s particular 
+focus on the officers’ failure to cover Curry’s exposed 
+
+
+40 
+
+
+genitals, Franklin did not even establish that the decision to 
+handcuff a severely disabled man was unreasonable. Because 
+the Franklin court held that both the failure to cover Curry 
+and the failure to return him to his room together contributed 
+to the “wholly unreasonable manner” of the detention, id. at 
+878, a reasonable officer could not be certain that the decision 
+not to return Curry to his bed alone was enough to violate the 
+Constitution. More importantly, the Franklin court did not 
+opine on the reasonableness of handcuffing Curry. Indeed, 
+the court did not mention the officers’ decision to keep two 
+other able-bodied occupants in handcuffs for the duration of 
+the search. A reasonable officer would have no way of 
+predicting that the handcuffing of able-bodied Summers 
+detainees that passed without commenti in Franklin would 
+iater be deemed unconstitutional. Because there was no law 
+clearly establishing that handcuffing a group of Summers 
+_detainees during a search for weapons was unconstitutional, 
+petitioners are entitled to qualified immunity. 
+
+
+41 
+
+
+CONCLUSION 
+
+
+The judgment of the court of appeals should be reversed. 
+Respectfully submitted, 
+
+
+KAREN K. PEABODY CARTER G. PHILLIPS* 
+
+DAVID L. NYE JOSEPH R. GUERRA 
+
+NYE, PEABODY & STIRLING, LLP MATTHEW J. WARREN 
+
+33 West Mission Street SIDLEY AUSTIN BROWN & 
+
+Suite 201 WOOD LLP 
+
+Santa Barbara, CA 93101 1501 K Street, NW | 
+
+(805) 963-2345 Washington, DC 20005 
+(202) 736-8000 
+
+DAVID H. HIRSCH 
+
+City ATTORNEY 
+
+2929 Tapo Canyon Road 
+
+City of Simi Valley,CA 93063 _ 
+
+(805) 583-6714 
+
+
+Counsel for Petitioners 
+
+
+August 30, 2004 * Counsel of Record 
+
+

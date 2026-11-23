@@ -1,0 +1,139 @@
+Source: https://www.law.cornell.edu/supct/html/03-287.ZS.html
+
+WILKINSON V. DOTSON
+
+LII
+
+Supreme Court
+
+WILKINSON V. DOTSON (03-287) 
+329 F.3d 463, affirmed and remanded. 
+Syllabus
+ Opinion
+ [ Breyer ]Concurrence
+ [ Scalia ]Dissent
+ [ Kennedy ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be
+released, as is being done in connection with this case, at the
+time the opinion is issued.
+The syllabus constitutes no part
+of the opinion of the Court but has been prepared by the
+Reporter of Decisions for the convenience of the reader.
+See
+United States v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+WILKINSON, DIRECTOR, OHIO DEPARTMENT OF
+REHABILITATION AND CORRECTION, et al. v. DOTSON et
+al.
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE SIXTH CIRCUIT
+
+No. 03—287.Argued December 6,
+2004–Decided March 7, 2005
+
+Respondents Dotson and Johnson are Ohio state
+prisoners. After parole officials determined that Dotson was
+not eligible for parole and that Johnson was not suitable for
+parole, they brought separate actions for declaratory and
+injunctive relief under 42 U.S.C. §
+1983 claiming that Ohio’s parole procedures violate
+the Federal Constitution. In each case, the Federal District
+Court concluded that a §1983 action does not lie and that
+the prisoner would have to seek relief through a habeas corpus
+suit. The Sixth Circuit ultimately consolidated the cases and
+reversed, finding that the actions could proceed under
+§1983.
+
+Held: State prisoners may bring a
+§1983 action for declaratory and injunctive relief
+challenging the constitutionality of state parole procedures;
+they need not seek relief exclusively under the federal habeas
+corpus statutes. Pp. 3—10.
+
+ (a) Ohio argues
+unsuccessfully that respondents’ claims may only be
+brought in federal habeas (or similar state) proceedings
+because a state prisoner cannot use a §1983 action to
+challenge “the fact or duration of his confinement,”
+e.g., Preiser v. Rodriguez, 411 U.S. 475, 489,
+and respondents’ lawsuits, in effect, collaterally attack
+their confinements’ duration. That argument jumps from a
+true premise (that in all likelihood the prisoners hope their
+suits will help bring about earlier release) to a faulty
+conclusion (that habeas is their sole avenue for relief). This
+Court’s case law makes clear that the connection between
+the constitutionality of the prisoners’ parole proceedings
+and release from confinement is too tenuous here to achieve
+Ohio’s legal door-closing objective. From Preiser
+to Edwards v. Balisok, 520 U.S. 641,
+this Court has developed an exception from
+§1983’s otherwise broad scope for actions that lie
+“within the core of habeas corpus,” Preiser,
+supra, at 487, i.e., where a state prisoner requests
+present or future release. Section 1983 remains available for
+procedural challenges where success would not
+necessarily spell immediate or speedier release for the
+prisoner, e.g., Wolff v. McDonnell, 418 U.S. 539, but the
+prisoner cannot use §1983 to obtain relief where success
+would necessarily demonstrate the invalidity of
+confinement or its duration, e.g., Heck v.
+Humphrey, 512
+U.S. 477. Here, respondents’ claims are cognizable
+under §1983, i.e., they do not fall within the
+implicit habeas exception. They seek relief that will render
+invalid the state procedures used to deny parole eligibility
+(Dotson) and parole suitability (Johnson). See
+Wolff, supra, at 554—555. Neither prisoner
+seeks an injunction ordering his immediate or speedier release
+into the community. See, e.g., Preiser, supra, at 500. 
+And as in Wolff, a favorable judgment will not
+“necessarily imply the invalidity of [their] conviction[s]
+or sentence[s].” Heck, supra, at
+487. Success for Dotson does not mean immediate release
+or a shorter stay in prison; it means at most new eligibility
+review, which may speed consideration of a new parole
+application. Success for Johnson means at most a new parole
+hearing at which parole authorities may, in their discretion,
+decline to shorten his prison term. Because neither
+prisoner’s claim would necessarily spell speedier release,
+neither lies at “the core of habeas corpus.” 
+Preiser, supra, at 489. Finally, the prisoners’
+claims for future relief (which, if successful, will not
+necessarily imply the invalidity of confinement or shorten its
+duration) are yet more distant from that core. See
+Balisok, supra, at 648. Pp. 3—8.
+
+ (b) Ohio’s additional
+arguments–(1) that respondents’ §1983 actions
+cannot lie because a favorable judgment would “necessarily
+imply the invalidity of [their] sentence[s],”
+Heck, supra, at 487 (emphasis added), which
+sentences include particular state parole procedures; and (2)
+that a decision for them would violate principles of
+federal/state comity by opening the door to federal court
+without prior exhaustion of state-court remedies–are not
+persuasive. Pp. 8—10.
+
+329 F.3d 463, affirmed and
+remanded. 
+
+ Breyer, J., delivered
+the opinion of the Court, in which Rehnquist, C. J., and
+Stevens, O’Connor, Scalia, Souter, Thomas, and Ginsburg,
+JJ., joined. Scalia, J., filed a concurring opinion, in which
+Thomas, J., joined. Kennedy, J., filed a dissenting
+opinion.

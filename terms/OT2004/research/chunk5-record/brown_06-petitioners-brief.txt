@@ -1,0 +1,2313 @@
+Source: https://archive.org/download/micro_IA40385014_0735/micro_IA40385014_0735%2006.%20Petitioners%20Brief_djvu.txt
+
+Supreme Court, U.S 
+Y FILED 
+AUS 6 - 2004 
+
+
+OFFICE OF THE CLERK 
+
+
+No. 03-1039 
+
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+
+
+JILL L. BROWN, Acting Warden, Petitioner, 
+’ v. 
+
+
+WILLIAM CHARLES PAYTON, Respondent. 
+
+
+ON WRIT OF CERTIORARI TO THE 
+UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT 
+
+
+BRIEF FOR PETITIONER 
+
+
+BILL LOCKYER 
+Attorney General of the State of California 
+MANUEL M. MEDEIROS 
+State Solicitor General 
+ROBERT R. ANDERSON 
+Chief Assistant Attorney General 
+GARY W. SCHONS 
+Senior Assistant Attorney General 
+STEVEN T. OETTING 
+Supervising Deputy Attorney General 
+MELISSA A. MANDEL 
+ty Attorney General 
+A. NATALIA CORTINA 
+Deputy Attorney General 
+Counsel of Record 
+110 West "A" Street, Suite 1100 
+San Diego, CA 92101 
+P.O. Box 85266 
+San Diego, CA 92186-5266 
+Telephone: (619) 645-2220 
+Fax: (619) 645-2191 
+
+
+Counsel for Petitioner 
+
+
+CAPITAL CASE 
+
+
+QUESTION PRESENTED 
+
+
+In Boyde v. California, 494 U.S. 370 (1990), this Court 
+upheld the constitutionality of California’s “catch-all” 
+mitigation instruction in capital cases, which directs a jury to 
+consider “any other circumstance which extenuates the gravity 
+of the crime even though it is not a legal excuse for the crime.” 
+The evidence at issue in Boyde was pre-crime evidence in 
+mitigation. Relying on Boyde, the California Supreme Court 
+held that California’s “catch-all” mitigation instruction in this 
+capital case is constitutional as applied to post-crime evidence 
+in mitigation. In a six-to-five decision, the en banc Ninth 
+Circuit held that the California Supreme Court decision was 
+objectively unreasonable “because Boyde does not control this 
+
+
+case.” The question presented is: 
+
+Did the Ninth Circuit violate 28 U.S.C. § 2254(d) when it 
+found the California Supreme Court objectively unreasonable 
+in holding that California’s “catch-all” mitigation instruction in 
+capital cases is constitutional as applied to post-crime evidence 
+in mitigation? 
+
+
+TABLE OF CONTENTS 
+
+
+OPINIONS BELOW 
+STATEMENT OF JURISDICTION 
+
+
+RELEVANT CONSTITUTIONAL PROVISIONS 
+AND STATUTES 
+
+
+STATEMENT OF THE CASE 
+
+
+Payton’s Rape And Murder And Two Attempted 
+Murders 
+
+
+The Consideration And Imposition Of The Death 
+Penalty 
+
+
+The California Capital Sentencing Scheme 
+Payton’s Penalty Trial And Verdict 
+This Court’s Decision In Boyde v. California 
+Direct Appeal To The California Supreme Court 
+De Novo Federal Habeas Corpus Review 
+Federal Habeas Corpus Review Under AEDPA 
+
+
+SUMMARY OF ARGUMENT 
+
+
+Page 
+
+
+14 
+
+
+16 
+
+
+TABLE OF CONTENTS (continued) 
+
+
+ARGUMENT 
+
+
+THE EN BANC NINTH CIRCUIT FAILED TO 
+ADHERE TO THE LIMITS CONGRESS 
+IMPOSED, THROUGH AEDPA, ON FEDERAL 
+HABEAS CORPUS REVIEW AND ITS 
+DECISION SHOULD BE REVERSED 
+
+
+A. The California Supreme Court Reasonably 
+Identified And Relied Upon Boyde As The 
+Controlling Supreme Court Precedent For 
+Assessing Claims That Factor (k) Failed To 
+Instruct Jurors To Consider A Defendant’s 
+Background And Character Evidence 
+
+
+B. The California Supreme Court Was Not 
+"Objectively Unreasonable" In Holding That, 
+Under Boyde, Factor (k) "Standing Alone" 
+Satisfied The Eighth Amendment 
+
+
+1. Boyde’s Analysis Of Factor (k) "Standing 
+Alone" 
+
+
+2. The California Supreme Court’s Reasonable 
+Application Of Boyde 
+
+
+3. The Ninth Circuit Violated AEDPA In 
+Rejecting The California Supreme Court’s 
+Holding 
+
+
+Page 
+
+
+19 
+
+
+19 
+
+
+21 
+
+
+23 
+
+
+23 
+
+
+24 
+
+
+25 
+
+
+iv Vv 
+
+
+TABLE OF CONTENTS (continued) | TABLE OF AUTHORITIES 
+Page 
+P 
+wal Cases 
+C. The California Supreme Court Was Not 
+"Objectively Unreasonable" In Holding That, Babbit v. Calderon 
+Under Boyde, Factor (k) "In The Context Of The 151 F.3d 1170 (9th Cir. 1998) - ~31 
+Proceedings" Satisfied The Eighth | 
+Amendment 31 Beard v. Banks 
+124 S. Ct. 2504 (2004) 21 
+1. Boyde’s Analysis Of Factor (k) In The | 
+"Context Of The Proceedings” 32 Bell v. Cone > 
+535 U.S. 685 (2002) , 17, 20 
+2. The California Supreme Court’s Reasonable ' 
+Application Of Boyde 33 Belmontes v. Woodford . 
+| 359 F.3d 1079 (9th Cir. 2004) 
+3. The Ninth Circuit’s Readiness To Attribute reh'g denied 
+Error Violates AEDPA 37 359 F.3d 1079 (9th Cir. 2004) 28, 29 
+CONCLUSION 42 . Bonin v. Vasquez 
+794 F. Supp. 957 (1992) 
+aff'd 
+59 F.3d 815 (9th Cir. 1995) 36 
+Boyde v. California 
+494 U.S. 370 (1990) ~ 5, 8-11, 13-19, 21-41 
+Buchanan v. Angelone 
+522 U.S. 269 (1998) 36 
+Early v. Packer 
+537 U.S. 3 (2002) 38 
+
+
+Eddings v. Oklahoma 
+455 U.S. 104 (1982) 10, 21, 22 
+
+
+EEE SET _ 
+
+
+TABLE OF AUTHORITIES (continued) 
+
+
+Page 
+Goughnour v. Belmontes 
+Case No. 03-1503 29 
+Graham v. Collins 
+506 U.S. 461 (1993) 26 
+Hitchcock v. Dugger 
+481 U.S. 393 (1987) 26 
+Jurek v. Texas 
+428 U.S. 262 (1976) 27 
+Lockett v. Ohio 
+438 U.S. 586 (1978) 10, 21, 22 
+Lockyer v. Andrade 
+538 U.S. 63 (2003) “20, 25 
+Middleton v. McNeil 
+124 S. Ct. 1830 (2004) 38, 39 
+Payton v. California 
+510 U.S. 1040 (1994) 11 
+Payton v. Woodford 
+258 F.3d 905 (9th Cir. 2001) 1,29 
+
+
+Payton v. Woodford 
+299 F.3d 815 (9th Cir. 2002) 
+
+
+Payton v. Woodford 
+346 F.3d 1204 (9th Cir. 2003) 
+
+
+1,18 
+
+
+vii 
+
+
+TABLE OF AUTHORITIES (continued) 
+
+
+Page 
+Penry v. Johnson 
+532 U.S. 782 (2001) 20 
+Penry v. Lynaugh 
+
+
+492 U.S. 302 (1989) 10, 17, 21, 22 
+People v. Brown 
+
+45 Cal. 3d 1247 
+
+756 P.2d 204 
+
+248 Cal. Rptr. 817 (1998) 25 
+
+
+People v. Gonzalez 
+
+51 Cal. 3d 1179 
+
+800 P.2d 1159 
+
+275 Cal. Rptr. 729 (1991) 25, 26, 36 
+
+
+People v. Hernandez 
+
+47 Cal. 3d 315 
+
+763 P.2d 1289 
+
+253 Cal. Rptr. 199 (1988) 
+
+cert. denied 
+
+491 U.S. 910 (1989) 25 
+
+
+People v. Jones ’ 
+
+53 Cal. 3d 1115 
+
+811 P.2d 757 
+
+282 Cal. Rptr. 465 (1991) 25 
+
+
+People v. Mayfield 
+
+5 Cal. 4th 142 
+
+852 P.2d 331 
+
+19 Cal. Rptr. 836 (1993) 25 
+
+
+Vili 
+
+
+TABLE OF AUTHORITIES (continued) 
+
+
+Page 
+People v. Payton 
+3 Cal. 4th 1050 
+839 P.2d 1035 
+13 Cal. Rptr. 2d 526 (1992) l 
+Price v. Vincent 
+538 U.S. 634 (2003) 20, 36, 41 
+
+
+Skipper v. South Carolina 
+476 U.S. 1 (1986) 10, 17, 22, 26, 28, 30 
+Tuilaepa v. California 
+
+512 U.S. 967 (1994) 3,5 
+
+
+Ward v. Whitley 
+21 F.3d 1355 (Sth Cir.1994) 36 
+
+
+Weeks v. Angelone 
+528 U.S. 225 (2000) 39 
+
+
+Williams v. Taylor 
+529 U.S. 362 (2000) 20 
+
+
+Woodford v. Garceau 
+538 U.S. 202 (2003) 14 
+
+
+Woodford v. Payton ; 
+538 U.S. 975 (2003) l 
+
+
+Woodford v. Visciotti, 
+
+
+537 U.S. 19 (2002) 16, 20, 38, 39 
+
+
+i DOD TG 
+
+
+= 
+
+
+ix 
+
+
+TABLE OF AUTHORITIES (continued) 
+
+
+Yarborough v. Alvarado 
+124 S. Ct. 2140 (2004) 
+
+
+Constitutional Provisions 
+United States Constitution 
+Eighth Amendment 
+
+
+Statutes 
+
+
+28 U.S.C. 
+§ 1254(1) 
+§ 2254(d) 
+§ 2254(d)(1) 
+
+
+California Penal Code 
+§ 190.3 
+§ 190.3(b) 
+§ 190.3(c) 
+- § 190.3(i) 
+§ 190.3(k) 
+
+
+Other Authorities 
+
+
+Antiterrorism and Effective 
+
+
+Death Penalty Act of 1996 
+
+
+Page 
+
+
+24, 39 
+
+
+2, 8, 10, 14, 17, 21-23, 26, 32 
+
+
+2, 3, 5, 11, 28, 30 
+
+40 
+
+40 
+
+40 
+
+5-7, 9-13, 17-19, 21-25, 27, 
+28, 30-32, 34, 36-39 
+
+
+2, 11, 14-17, 19-21, 23, 
+25, 26, 31, 39, 41 
+
+
+California Jury Instructions, Criminal (4th ed. 1979) 
+
+
+No. 8.84.1 
+
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+
+
+No. 03-1039 
+
+
+JILL L. BROWN, Acting Warden, Petitioner, 
+v. 
+
+
+WILLIAM CHARLES PAYTON, Respondent. 
+
+
+Jill L. Brown, Acting Warden, California State Prison at 
+San Quentin (hereinafter State) respectfully submits Petitioner’s 
+Brief on the Merits. 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the Ninth Circuit (en banc) following 
+remand by this Court is reported at Payton v. Woodford, 346 
+F.3d 1204 (9th Cir. 2003). Pet. App. (“P.A.”) at 1-44. This 
+Court’s prior order granting certiorari and remanding to the 
+Ninth Circuit is reported at Woodford v. Payton, 538 U.S. 975 
+(2003). P.A. at 45. The opinion of the Ninth Circuit (en banc) 
+preceding remand by this Court is reported at Payton v. 
+Woodford, 299 F.3d 815 (9th Cir. 2002). P.A. at 46-86. The 
+opinion of the Ninth Circuit (panel) is reported at Payton v. 
+Woodford, 258 F.3d 905 (9th Cir. 2001). P.A. at 87-129. The 
+order of the district court is unreported. P.A. at 130-38. 
+
+The opinion of the Supreme Court of California is reported 
+at People v. Payton, 3 Cal. 4th 1050, 839 P.2d 1035, 13 Cal. 
+Rptr. 2d 526 (1992). P.A. at 139-86. 
+
+
+STATEMENT OF JURISDICTION 
+
+
+An en banc panel of the Ninth Circuit entered judgment 
+granting habeas corpus relief as to the death penalty on October 
+20, 2003. The State filed a Petition for Writ of Certiorari on 
+January 15, 2004, and the Court granted the Petition on May 24, 
+2004. The jurisdiction of this Court rests on 28 U.S.C. 
+§ 1254(1). 
+
+
+RELEVANT CONSTITUTIONAL PROVISIONS AND 
+STATUTES 
+
+
+The Eighth Amendment of the United States Constitution, 
+which provides: “Excessive bail shall not be required, nor 
+excessive fines imposed, nor cruel and unusual punishments 
+inflicted.” 
+
+The Antiterrorism and Effective Death Penalty Act of 1996 
+(“AEDPA”), 28 U.S.C. § 2254(d)(1), which provides: 
+
+(d) An application for a writ of habeas corpus on behalf 
+of a person in custody pursuant to the judgment of a State 
+court shall not be granted with respect to any claim that 
+was adjudicated on the merits in State court proceedings 
+unless the adjudication of the claim — 
+
+(1) resulted in a decision that was contrary to, or 
+involved an unreasonable application of, clearly 
+established Federal law, as determined by the 
+Supreme Court of the United States... . 
+
+California Penal Code section 190.3, which provides in 
+pertinent part: 
+
+In determining the penalty, the trier of fact shall take 
+
+into account any of the following factors if relevant: 
+
+
+(k) Any other circumstance which extenuates the 
+gravity of the crime even though it is not a legal excuse for 
+the crime. 
+
+P.A. at 188-89. 
+
+
+STATEMENT OF THE CASE 
+Payton’s Rape And Murder And Two Attempted Murders 
+
+
+In the early hours of May 26, 1980, Respondent William 
+Charles Payton went to the home of Patricia Pensinger in 
+Garden Grove, California, where he had once been a boarder. 
+After receiving permission from Patricia to sleep on her couch, 
+Payton entered the room of one of Patricia’s borders, Pamela 
+Montgomery, and raped and stabbed her to death. P.A. at 
+141-42. 
+
+After cleaning himself off in the bathroom, Payton entered 
+Patricia’s bedroom while she and her ten year old son, Blaine, 
+slept. Payton inflicted forty stabs wounds to Patricia’s face, 
+neck, back and chest. He inflicted twenty-three stabs wounds 
+to Blaine’s face, neck and back. Both survived. P.A. at 141-42. 
+A state court jury found Payton guilty of first-degree murder, 
+rape and two counts of attempted murder. The jury further 
+found true the special circumstance of murder in the 
+commission or attempted commission of rape and the personal 
+knife use enhancement. P.A. at 140. 
+
+
+The Consideration And Imposition Of The Death Penalty 
+The California Capital Sentencing Scheme 
+
+
+In California, a defendant is eligible for the death penalty 
+when the trier of fact finds him guilty of first-degree murder and 
+finds one of the special circumstances true. Tuilaepa v. 
+California, 512 U.S. 967, 975 (1994). Following that 
+determination, a defendant’s case proceeds to a penalty phase 
+where the trier of fact determines whether to impose death or 
+life imprisonment without the possibility of parole. Cal. Penal 
+Code § 190.3; P.A. at 187-90. At the time of Payton’s penalty 
+trial, the standard jury instructions, also given to Payton’s jury, 
+identified eleven factors to be considered by the trier of fact in 
+
+
+deciding the appropriate penalty. Specifically, the instruction 
+provided: 
+
+In determining the penalty to be imposed on the 
+defendant, you shall consider all of the evidence which has 
+been received during any part of the trial in this case, 
+except as you may be hereafter instructed. You shall 
+consider, take into account and be guided by the following 
+
+
+(i) The age of the defendant at the time of the crime. 
+(j) Whether or not the defendant was an accomplice to 
+the offense and his participation in the commission of 
+the offense was relatively minor. 
+
+(k) Any other circumstance which extenuates the gravity 
+of the crime even though it is not a legal excuse for the 
+crime. 
+
+
+factors, if applicable: 
+
+(a) The circumstances of the crime of which the 
+defendant was convicted in the present proceeding and 
+the existence of any special circumstances found to be 
+true. 
+
+(b) The presence or absence of criminal activity by the 
+defendant which involved the use or attempted use of 
+force or violence or the expressed or implied threat to 
+use force or violence. 
+
+(c) The presence or absence of any prior felony 
+conviction. 
+
+(d) Whether or not the offense was committed while the 
+defendant was under the influence of extreme mental or 
+emotional disturbance. 
+
+(e) Whether or not the victim was a participant in the 
+defendant’s homicidal conduct or consented to the 
+homicidal act. 
+
+(f) Whether or not the offense was committed under 
+circumstances which the defendant reasonably believed 
+to be a moral justification or extenuation for his 
+conduct. 
+
+(g) Whether or not the defendant acted under extreme 
+duress or under the substantial domination of another 
+person. 
+
+(h) Whether or not at the time of the offense the capacity 
+of the defendant to appreciate the criminality of his 
+conduct or to conform his conduct to the requirements 
+of law was impaired as a result of mental disease or 
+defect or the effects of intoxication. 
+
+
+Cal. Jury Instructions, Criminal, No. 8.84.1 (4th ed. 1979) 
+(“CALJIC”); J.A. at 94-95. 
+
+The factors were taken verbatim from California Penal 
+Code section 190.3 and many of the listed factors could serve as 
+either aggravating or mitigating circumstances, depending on 
+what the trier of fact found. See Tuilaepa, 512 U.S at 978-79. 
+The eleventh factor, (k), is known as the “catch-all” mitigation 
+instruction.” Boyde v. California, 494 U.S. at 373-74. 
+
+
+Payton’s Penalty Trial And Verdict 
+
+
+At the penalty phase, the prosecutor introduced evidence 
+of a prior incident in which Payton stabbed a former girlfriend 
+in the chest and arms after waking her, as well as Payton’s jail 
+house conversations in which he said he had “a severe problem 
+with sex and women” and “that all women on the street that he 
+had seen was [sic] a potential victim, regardless of age or 
+looks.” J.A. at 5-19, 12. In mitigation, Payton’s defense 
+presented solely post-crime character evidence consisting of 
+eight witnesses who testified that he had made a sincere 
+commitment to God while in prison, was remorseful, had a 
+calming effect on other prisoners, and could help others while 
+in prison through Bible study classes and a prison ministry. J.A. 
+at 15-26, 27, 33-34, 36-54. 
+
+
+1. CALJIC No. 8.84.1 has been amended at various 
+times and the factor (k) instruction is no longer phrased as it 
+was when Payton was sentenced. 
+
+
+During closing argument, both the prosecutor and Payton’s 
+defense counsel discussed the “catch-all” mitigation evidence 
+instruction, factor (k). The prosecutor initially argued 
+incorrectly that the instruction “doesn’t refer to anything after 
+the fact or later.” Defense counsel objected and moved for 
+mistrial. J.A. at 68. The trial judge denied the mistrial motion 
+but admonished the jury, “again, I want to emphasize to you that 
+the comments by both the prosecution and the defense are not 
+evidence. You’ve heard the evidence and, as I said, this is 
+argument. And it’s to be placed in its proper perspective.” J.A. 
+at 69-70. The prosecutor at first repeated his erroneous 
+interpretation of factor (k), without objection, before discussing, 
+at length, the weight of the evidence in aggravation and 
+Payton’s post-crime evidence in mitigation. J.A. at 70-76. The 
+prosecutor concluded: 
+
+Is this the type of defendant for whom we should listen to 
+pleas for mercy? 
+
+[Defense counsel] will tell you this is a defendant who 
+can te rehabilitated because he’s a good Christian and he 
+helps the module deputy. 
+
+In 1973, he stabbed Mrs. Stone [Payton’s former 
+girlfriend]. In 1976, he was convicted of two felony 
+convictions. In 1981, he rapes and murders a girl and tries 
+to kill two other people. You think he is going to be 
+rehabilitated? 
+
+The law in its simplicity is that . . . if the aggravating 
+factors outweigh the mitigating, the sentence the jury 
+should vote for should be the death penalty. 
+
+How do the factors line up? The circumstances and 
+facts of the case, the defendant’s other acts showing 
+violence, Mrs. Pensinger and Mrs. Stone, . . . Blane [sic] 
+Pensinger, the defendant’s two prior convictions line up 
+against really nothing except defendant’s newborn 
+Christianity and the fact that he’s 28 years old. 
+
+J.A. at 75-76. 
+
+
+i 
+
+
+i eee 
+
+
+——— 
+
+
+Defense counsel argued to the jury that the factor (k) 
+instruction was a catch-all instruction designed to include the 
+kind of evidence that Payton presented. He explained: 
+
+The whole purpose for the second phase or trial is to 
+decide the proper punishment to be imposed. Everything 
+that was presented by the defense relates directly to that. 
+
+This section “k” may be awkwardly worded, but it does 
+not preclude or exclude the kind of evidence that was 
+presented. It’s a catch-all phase [sic]. It was designed to 
+include, not exclude, that kind of evidence. 
+
+Any juror that wanted -- that was in the position of 
+trying to determine the fairest possible sentences, select 
+them between death or life without the possibility of 
+parole, would not only want that kind of evidence but 
+would need it to make an intelligent decision. 
+
+I submit the facts of this case, and this would not always 
+be true, that that is the most critical of the factors, not only 
+is it not irrelevant, it’s the most critical of all the factors. 
+
+J.A. at 88-89. After reviewing Payton’s achievements while in 
+prison, J.A. at 89-92, defense counsel concluded, “I think there 
+are a lot of good reasons to keep Bill Payton alive, an awful lot 
+of good reasons. And that’s exactly what I think “k” is talking 
+about.” J.A. at 92. 
+
+The trial court instructed the jury pursuant to the standard 
+jury instructions, including the direction to consider all of the 
+evidence and the catch-all instruction. J.A. at 92-95. The trial 
+court then concluded: 
+
+It is now your duty to determine which of the two 
+penalties, death or confinement in the state prison without 
+the possibility of parole, shall be imposed on the 
+defendant. 
+
+After having heard all of the evidence and after having 
+heard and considered the argument of counsel, you shall 
+consider, take into account and be guided by the applicable 
+factors of aggravating and mitigating circumstances upon 
+which you have been instructed. 
+
+J.A. at 95-96. 
+
+
+The jury returned a verdict of death. The trial court denied 
+Payton’s motion to modify the verdict and sentenced Payton to 
+death for the murder of Pamela Montgomery and to twenty-one 
+years and eight months in state prison for the rape of Pamela 
+Montgomery and the attempted murders of Patricia and Blaine 
+Pensinger. P.A. at 140. 
+
+
+This Court’s Decision In Boyde v. California 
+
+
+While Payton’s direct appeal was pending, this Court 
+issued its opinion in Boyde. The Court held that the “catch-all” 
+mitigation instruction directing the jury to consider "[a]ny other 
+circumstance which extenuates the gravity of the crime even 
+though it is not a legal excuse for the crime," the same one used 
+in Payton’s case, satisfied the Eighth Amendment requirement 
+that the sentencer be permitted to consider and give effect to all 
+relevant mitigating evidence in determining whether to impose 
+a death sentence. Boyde, 494 U.S. at 377-82.” In reaching that 
+conclusion, the Court rejected Boyde’s argument that the 
+"catch-all" mitigation instruction limited the jury’s 
+consideration to "any other circumstance of the crime which 
+extenuates the gravity of the crime." Boyde, 494 U.S. at 382 
+(emphasis in original, internal quotation marks omitted). 
+Rather, the Court concluded that the “jury was directed to 
+consider any other circumstance that might excuse the crime, 
+which certainly includes a defendant’s background and 
+character.” /d. (emphasis in original). 
+
+The Court in Boyde further held that “[e}ven were the 
+language of the [catch-all] instruction less clear than we think, 
+the context of the proceedings would have led reasonable jurors 
+to believe that evidence of petitioner’s background and 
+
+
+2. The trial court in Boyde also provided the jury with 
+a definition of “extenuates," namely "to lessen the seriousness 
+of the crime as by giving an excuse." Boyde, 494 U.S. at 381. 
+The definition, however, was not the basis for the decision. 
+
+
+character could be considered in mitigation.” Boyde, 494 U.S. 
+at 383. Examining the other instructions given to the jury, the 
+Court concluded: “When factor (k) is viewed together with 
+those instructions; it seems even more improbable that jurors 
+would arrive at an interpretation that precludes consideration of 
+all non-crime-related evidence [in mitigation].” Jd. at 383 
+(emphasis added). 
+
+Additionally, because the entirety of Boyde’s evidence at 
+the penalty phase related to his background and character and 
+was introduced without objection, the Court found it “unlikely 
+that reasonable jurors would believe the court’s instructions 
+transformed all of this ‘favorable testimony into a virtual 
+charade.’” Boyde, 494 U.S. at 383-84 (citation omitted). 
+Finally, in response to Boyde’s claim the prosecutor’s argument 
+reinforced an improper interpretation of factor (k), thie Court 
+observed that arguments by prosecutors regarding the relevance 
+of mitigating evidence “carry less weight with a jury than do 
+instructions from the court,” and that they are not, therefore, “to 
+be judged as having the same force as an instruction from the 
+court.” Boyde, 494 U.S. at 384-85. 
+
+
+Direct Appeal To The California Supreme Court 
+
+
+On automatic appeal to the California Supreme Court, 
+Payton argued that his penalty-phase jury was unconstitutionally 
+precluded from considering his mitigation evidence in 
+determining whether he should receive a sentence of life or 
+death. He maintained that the trial court’s instructions were 
+inadequate to counter the prosecutor’s misstatement of law 
+advising the jury that it could only consider circumstances 
+related to the crime. In a five-to-two decision, the California 
+Supreme Court rejected his claims and affirmed Payton’s 
+convictions and sentence of death. ; 
+
+The California Supreme Court recognized that “[t]he 
+Eighth Amendment, of course, requires that the sentencer be 
+
+
+10 
+
+
+permitted to consider [background and character] evidence.” 
+P.A. at 160 (citing Eddings v. Oklahoma, 455 U.S. 104, 110-12 
+(1982), Lockett v. Ohio, 438 U.S. 586, 602-09 (1978) and 
+Skipper v. South Carolina, 476 U.S. 1, 4-9 (1986) (regarding 
+good behavior in prison)). The California Supreme Court held 
+there was no Eighth Amendment violation because there was no 
+reasonable likelihood that Payton’s jury understood the court’s 
+instructions as precluding consideration of his evidence in 
+mitigation. P.A. at 140, 162, 164. 
+
+In so holding, the California Supreme Court focused on 
+this Court’s decision in Boyde, which expressly cited and 
+incorporated the Eighth Amendment principles in Eddings, 
+Lockett and Skipper (as well as Penry v. Lynaugh, 492 U.S. 302 
+(1989)), and applied them to factor (k). The California Supreme 
+Court noted that Payton’s jury was instructed with the same 
+“catch-all” mitigation instruction that this Court found 
+constitutional in Boyde, and that this Court’s decision in Boyde 
+rejected many of the precise arguments made by Payton. 
+P.A. at 160-62. Thus, citing Boyde, the California Supreme 
+Court held that, although the trial court “did not embellish the 
+language of factor (k), that fact standing alone does not support 
+a claim of error.” P.A. at 164. 
+
+Additionally, recognizing that “the high court’s holding in 
+Boyde does not prevent a defendant from asserting a claim to 
+the effect that prosecutorial argument, or other factors, led the 
+jury to misinterpret factor (k),” the California Supreme Court 
+evaluated whether there was a reasonable likelihood the jury 
+misunderstood factor (k) “in the context of the proceedings.” 
+P.A. at 161. The California Supreme Court found the prosecutor 
+had incorrectly argued the meaning of factor (k). However, 
+applying Boyde, the court noted that arguments of counsel do 
+not carry the same force as the trial court’s instructions on the 
+law. Further, the court found that “[a]ny impact this argument 
+may have had . . . was immediately blunted by defense counsel’s 
+objection” and the trial court’s admonition. P.A. at 162. The 
+court also found the prosecutor properly suggested how the jury 
+
+
+11 
+
+
+might weigh Payton’s mitigating evidence against the evidence 
+in aggravation and thereby implicitly recognized that the jury 
+could and would consider the defense evidence. Thereafter, 
+defense counsel’s closing argument reinforced the correct 
+interpretation of factor (k). P.A. at 164. Lastly, the California 
+Supreme Court, like the Court in Boyde, found it unlikely that 
+reasonable jurors would believe the court’s instructions 
+precluded them from considering the only evidence offered in 
+mitigation. P.A. at 163. Accordingly, the California Supreme 
+Court held that neither the instruction nor the context of the 
+proceedings was reasonably likely to mislead Payton’s jury into 
+believing it could not consider Payton’s post-crime character 
+evidence in mitigation in determining his sentence. P.A. at 
+161-64. This Court subsequently denied Payton’s petition for 
+certiorari. Payton v. California, 510 U.S. 1040 (1994). 
+
+
+De Novo Federal Habeas Corpus Review i 
+
+
+On May 6, 1996, Payton filed his first petition for a writ of 
+habeas corpus in the United States District Court for the Central 
+District of California. Although his petition was filed after the 
+effective date of AEDPA, the district court (and later the Ninth 
+Circuit panel and the initial en banc panel of the Ninth Circuit) 
+reviewed Payton’s claims de novo. 
+
+The district court granted the petition as to the penalty 
+phase on the grounds of prosecutorial misconduct. The district 
+court held that the prosecutor’s incorrect factor (k) argument so 
+infected the penalty trial as to deny Payton a fair trial. P.A. at 
+131, 138. On appeal to the Ninth Circuit, a divided panel 
+reversed the grant of habeas relief, holding that the prosecutor’s 
+incorrect argument did not so infect the penalty trial as to 
+preclude consideration of Payton’s mitigation evidence. P.A. at 
+98-107. The Ninth Circuit granted Payton’s petition for 
+rehearing en banc. 
+
+In a six-to-five opinion, an en banc panel of the Ninth 
+Circuit affirmed the district court’s grant of habeas relief as to 
+
+
+12 
+
+
+the penalty phase. P.A. at 71. Applying de novo review, the 
+majority found: . 
+
+Boyde did not address the question whether, on its face, 
+the unadorned factor (k) instruction is unconstitutionally 
+ambiguous as applied to post-crime evidence. The fact 
+that all of Payton’s mitigating evidence was post-crime 
+distinguishes this case from the pre-crime evidence at issue 
+in Boyde which more readily fits within factor (k). 
+
+P.A. at 60 (Paez, J., joined by Schroeder, C.J., Pregerson, J., 
+Tashima, J., W. Fletcher, J., and Berzon, J.) (internal quotation, 
+footnote and citation omitted). 
+
+According to the majority opinion: 
+
+Most naturally read, the phrase “extenuates the gravity of 
+
+the crime” refers to evidence relating to or ameliorating the 
+
+crime itself. On its face, factor (k) does not encompass the 
+
+kind of post-crime evidence of good works, leadership and 
+
+religious beliefs that Payton presented at the penalty phase 
+
+of his trial. 
+P.A. at 59. The majority ruled that, “[uJnlike the pre-crime 
+evidence in Boyde, post-crime mitigation evidence is simply not 
+covered by any natural reading of the words of the unadorned 
+factor (k) instruction. Mitigation evidence occurring after the 
+crime cannot possibly ‘extenuate the gravity of the crime.’” 
+P.A. at 60-61. Therefore, the majority concluded, “[bJecause 
+the unadorned factor (k) instruction does not encompass post- 
+crime evidence, it violates Skipper’s requirement that the jury 
+be permitted to consider post-crime good behavior as mitigating 
+evidence in deciding whether to impose the death penalty.” 
+P.A. at 61. Accordingly, the majority held, “[s]tanding alone, 
+the factor (k) instruction is unconstitutional as applied to post- 
+crime evidence.” P.A. at 61. 
+
+The majority further held that, because there was “an 
+absence of instruction” directing the jury to consider Payton’s 
+post-crime evidence in mitigation, the prosecutor’s incorrect 
+argument concerning factor (k) constituted the instructions to 
+the jury. As such, there was a reasonable likelihood the jury 
+understood the instructions as precluding consideration of 
+
+
+13 
+
+
+Payton’s mitigation evidence. P.A. at 62-66. The majority then 
+imposed an affirmative duty on the state trial court to instruct 
+Payton’s jury “that it must take his post-crime [mitigation] 
+evidence into account in determining whether to impose a 
+sentence of life or death.” P.A. at 71. 
+
+The dissent, also applying the higher de novo standard of 
+review, concluded that Boyde’s holding — that the “catch-all” 
+mitigation instruction was constitutionally adequate — applied 
+equally to Payton’s case. P.A. at 72 (Tallman, J., joined by 
+Kozinski, J., Trott, J., Fernandez, J., and T.G. Nelson, J.). Like 
+the California Supreme Court majority, the dissent noted 
+Boyde’s conclusion that factor (k) permitted consideration of 
+“any other circumstance,” not just circumstances related to the 
+crime. P.A. at 76-77. Further, the dissent reasoned, “as both 
+the Supreme Court in Boyde and our court’s opinion here 
+recognize, factor (k) allows jurors to consider a defendant’s 
+character. And that is basically what defense counsel tried to 
+show during the penalty phase — that Payton had undergone a 
+character transformation after being jailed.” P.A. at 78. The 
+dissent concluded: “there is no logical reason to believe that 
+post-crime character strengths are any less capable of 
+extenuating the gravity of the crime than pre-crime character 
+strengths or are any more excluded from a reading of 
+factor (k).” P.A. at 78. 
+
+The dissent also found that “the context of the 
+proceedings” further bolstered its conclusion that there was no 
+reasonable likelihood the jury understood the instructions to 
+preclude consideration of Payton’s mitigation evidence. Like 
+the California Supreme Court, the dissent relied upon Boyde’s 
+principles that arguments of counsel carry less weight, a jury is 
+not likely to disregard the only evidence presented, and that 
+other instructions told the jury to consider all of the evidence. 
+P.A. at 78-83. 
+
+
+14 
+
+
+Federal Habeas Corpus Review Under AEDPA 
+
+
+Pursuant to Woodford v. Garceau, 538 U.S. 202 (2003), 
+the Court granted the State’s petition for a writ of certiorari and 
+remanded this case to the Ninth Circuit to reconsider its 
+decision under the principles of AEDPA. P.A. at 45. 
+
+By the identical six-to-five vote, the same en banc panel of 
+the Ninth Circuit again affirmed the district court’s grant of 
+habeas relief as to the penalty phase on the ground that 
+California’s “catch-all” mitigation instruction was 
+unconstitutional as applied to post-crime evidence in mitigation 
+and that it was reasonably likely that Payton’s jury understood 
+the court’s instructions as precluding consideration of Payton’s 
+post-crime character evidence in mitigation. 
+
+Writing for the majority, Judge Paez acknowledged the 
+California Supreme Court’s correct recitation of clearly 
+established law, namely, that the Eighth Amen¢ment requires 
+the sentencer in a capital case to consider and give effect to all 
+relevant mitigation evidence offered by the defendant. P.A. at 
+14-15. However, the majority found that the California Supreme 
+Court unreasonably applied this precedent because, in analyzing 
+Payton’s claim, the California Supreme Court “focused entirely 
+on the United States Supreme Court’s decision in Boyde,” 
+which “does not control this case.” P.A. at 15. “[I]n focusing 
+almost exclusively on Boyde,” explained the majority, “the court 
+did not give proper effect to . . . Skipper and Penry that are 
+controlling here.” P.A. at 15. The majority then reiterated its 
+reasoning that Boyde’s decision to uphold the constitutionality 
+of the “catch-all” mitigation instruction turned on the pre-crime 
+nature of Boyde’s character and background evidence because 
+such evidence related to the crime by providing an “excuse” for 
+the crime. P.A. at 15. In contrast, found the majority, Payton’s 
+post-crime character evidence “camnot possibly ‘extenuate the 
+gravity of the crime.”” P.A. at 17. 
+
+The majority also found that the California Supreme Court 
+was objectively unreasonable in finding the “context of the 
+
+
+15 
+
+
+proceedings” did not mislead the jury concerning its ability to 
+consider Payton’s mitigation evidence. The majority found 
+wholly inapplicable Boyde’s principles that arguments of 
+counsel carry less weight, that a jury is not likely to disregard 
+the only evidence presented, and that the other instructions told 
+the jury to consider all of the evidence. P.A. at 16-17. The 
+majority concluded that because the prosecutor in Payton’s trial 
+misstated the law and Payton’s mitigation evidence was post- 
+crime, the California Supreme Court was objectively 
+unreasonable in applying Boyde’s principles to Payton’s case. 
+P.A. at 20-25. Consequently, the majority opinion again held: 
+“Payton is entitled to a penalty trial before a jury that is properly 
+instructed that it must take his post-crime evidence [in 
+mitigation] into account in determining whether to impose a 
+sentence of life or death.” P.A. at 30. 
+
+The dissent began by observing that “[t]oday, six judges of 
+this court announce that the !egal conclusion reached by 
+seven|*’] of their colleagues (plus five justices of the California 
+Supreme Court) is not only wrong, but objectively unreasonable 
+in light of clearly established federal law.” P.A. at 31 (emphasis 
+in original). To the contrary, contended the dissent, the 
+“California Supreme Court’s application of Boyde was not only 
+reasonable but correct.” P.A. at 33. The dissent reiterated its 
+position that Boyde’s holding concerning the constitutionality 
+of the “catch-all” instruction applied equally to Payton’s post- 
+crime evidence in mitigation. P.A. at 33-36. Moreover, the 
+dissent emphasized the limits on federal habeas corpus review 
+imposed by AEDPA: 
+
+Perhaps I am wrong and the majority is correct that 
+
+Boyde is distinguishable from this case because it 
+
+
+3. The seven judges of the Ninth Circuit who reviewed 
+Payton’s claim of constitutional error de novo consist of the five 
+dissenting judges in the initial en banc opinion (Judges Tallman, 
+Kozinski, Trott, Fernandez, and T.G. Nelson) and the two 
+judges of the three-judge panel (Judges Rymer and Gould). 
+
+
+16 
+
+
+concerned precrime mitigation evidence. But even so, I 
+am at a loss to understand how the California Supreme 
+Court unreasonably applied any United States Supreme 
+Court precedent. The pre-crime/post-crime mitigating 
+evidence dichotomy offered by the majority is the 
+majority’s own untenable invention—not that of the United 
+States Supreme Court. AEDPA commands that we show 
+more respect for our counterparts in the California 
+judiciary. We do not have the right to ignore AEDPA, 
+however much our personal sense of justice urges us to 
+overturn Payton’s sentence. We are not Congress. We are 
+not the United States Supreme Court. 
+P.A. at 41. The dissent similarly found that the California 
+Supreme Court’s thorough analysis of the context of the 
+proceedings “faithfully followed the dictates of Boyde, the most 
+analogous Supreme Court case.” P.A. at 37. In the end, argued 
+the dissent, “[t]he California Supreme Court is just as qualified 
+as we are to distinguish and apply United States Supreme Court 
+precedent. The majority’s ‘readiness to attribute error is 
+inconsistent with the presumption that state courts know and 
+follow the law.”” P.A. at 41 (quoting Woodford v. Visciotti, 537 
+U.S. 19, 24 (2002) (per curiam)). 
+
+
+SUMMARY OF ARGUMENT 
+
+
+Last term, the Court remanded this case to the Ninth 
+Circuit with instructions to reevaluate its initial en banc decision 
+under the highly deferential standard for evaluating state court 
+rulings mandated by AEDPA. With no more than a few 
+superficial changes and a passing citation to AEDPA, the Ninth 
+Circuit issued a virtually identical opinion, again affirming the 
+grant of habeas relief. By the same six-to-five vote, the Ninth 
+Circuit held “objectively unreasonable” the legal conclusion of 
+twelve judges — five justices of the California Supreme Court 
+and seven judges of the Ninth Circuit — that, pursuant to Boyde, 
+California’s “catch-all” mitigation instruction is constitutional 
+
+
+17 
+
+
+as applied to post-crime evidence in mitigation and that there 
+was no feasonable likelihood Payton’s jury understood the 
+court’s instructions as precluding his evidence in mitigation. 
+
+Both the Ninth Circuit’s methodology and its result violate 
+AEDPA’s mandate to “ensure that state-court convictions are 
+given effect to the extent possible under law.” Bell v. Cone, 535 
+U.S. 685, 693 (2002). First, the Ninth Circuit faulted the 
+California Supreme Court for relying upon Boyde to decide 
+whether the “catch-all” mitigation instruction impermissibly 
+excluded consideration of Payton’s post-crime character 
+evidence, as opposed to Penry and Skipper. P.A. at 15. 
+However, Boyde, not Penry or Skipper, addressed the 
+constitutionality of California’s “catch-all” mitigation 
+instruction. Moreover, the generalized principle articulated in 
+Penry and Skipper, that the Eighth Amendment requires the 
+sentencer to consider any evidence in mitigation offered by the 
+defendant in determining whether to impose life or death, 
+including future prospects, was also embodied in Boyde and 
+expressly recognized by the California Supreme Court. Thus, 
+the California Supreme Court was more than reasonable in 
+relying upon Boyde to decide Payton’s claim that his jury was 
+unconstitutionally precluded from considering his mitigation 
+evidence. 
+
+Second, the Ninth Circuit criticized the California Supreme 
+Court for finding that Boyde’s holding that factor (k) “standing 
+alone” satisfied the Eighth Amendment applied equally to 
+Payton’s case. P.A. at 15-17. The issue squarely presented and 
+decided in Boyde was whether factor (k) allowed for 
+consideration of non-crime related evidence in mitigation or 
+limited the } jury to other evidence related to the crime. Boyde, 
+494 U.S. at 377-78. The Court in Boyde held that factor (k) 
+allowed for consideration of non-crime related mitigation 
+evidence that extenuated the gravity of the crime, “which 
+certainly includes a defendant’s background and character.” Jd. 
+at 382. The California Supreme Court was, therefore, 
+reasonable in concluding that factor (k) allowed for 
+
+
+18 
+
+
+consideration of Payton’s non-crime related evidence in 
+mitigation, particularly as it related to his character — even if 
+that evidence consisted of post-crime acts. 
+
+Instead of focusing on the reasonableness of the California 
+Supreme Court’s decision, the Ninth Circuit advanced 
+inconsequential factual differences between Boyde and Payton 
+in order to i.nd Boyde’s factor (k) holding inapplicable. The 
+Ninth Circuit found that Boyde’s holding that factor (k) allowed 
+for consideration of a defendant’s non-crime related evidence in 
+mitigation was limited to cases, like Boyde, that involved pre- 
+crime evidence in mitigation such as troubled childhood or 
+emotional or mental problems. Bypassing the plain meaning of 
+the Court’s holding in Boyde, the Ninth Circuit turned to the 
+Court’s explanation for why Boyde’s particular evidence was 
+“certainly” included in the directive to consider “any other 
+circumstance that extenuates the gravity of the crime even 
+though it is not a legal excuse.” Thus, the Ninth Circuit 
+concluded that Boyde’s evidence fell within factor (k) because 
+it provided an excuse for the commission of the crime. P.A. 
+at 16-17 n.9. 
+
+In so holding, the Ninth Circuit adopted the very argument 
+this Court rejected in Boyde: that factor (k) only permitted 
+consideration of circumstances related to the crime as opposed 
+to “any other circumstance” that might justify a sentence less 
+than death. The Ninth Circuit also improperly assumed that, in 
+deciding the appropriate punishment to be imposed upon a 
+capital defendant, society would naturally consider pre-crime 
+evidence of character and background but not post-crime 
+character evidence such as Payton’s rehabilitation. P.A. at 
+15-16: Both concepts, however, are inherent in any sentencing 
+determination and both fall within factor (k). Nevertheless, even 
+assuming the Ninth Circuit were correct, it was at least 
+reasonable for the California Supreme Court to find otherwise 
+given its straightforward application of Boyde and the fact that, 
+until the Ninth Circuit’s decision in Payton, no other cases 
+interpreted Boyde in such a fashion. 
+
+
+N 
+
+
+19 
+
+
+Finally, the Ninth Circuit found fault with the California 
+Supreme Court’s application of Boyde in its analysis of factor 
+(k) “in the context of the proceedings.” Again, instead of 
+focusing on the reasonableness of the California Supreme 
+Court’s decision, the Ninth Circuit focused on factual 
+differences immaterial to the analysis and refused to apply any 
+of Boyde’s principles to Payton. Thus, because a portion of the 
+prosecutor’s argument in Payton misstated the meaning of 
+factor (k), the Ninth Circuit found wholly inapplicable Boyde’s 
+principles that arguments generally do not carry the same force 
+as instructions, that correct arguments by the defense may be 
+considered or that a jury is not likely to disregard the only 
+evidence presented. P.A. at 17, 20,n.13 & n.14. Additionally, 
+the Ninth Circuit wholly disregarded the Court’s finding in 
+Boyde that the other instructions made it even more improbable 
+a jury would misconstrue factor (k). P.A. at 22-23. However, 
+Boyde and the principles articulated therein governed precisely 
+the claim and situation in Payton ard the California Supreme 
+Court reasonably applied Boyde in affirming the judgment. 
+Because the Ninth Circuit did not give deference under AEDPA 
+to the California Supreme Court’s reasonable decision but 
+instead improperly substituted its own judgment, its decision 
+should be reversed. 
+
+
+ARGUMENT 
+
+
+THE EN BANC NINTH CIRCUIT FAILED TO 
+ADHERE TO THE LIMITS CONGRESS 
+IMPOSED, THROUGH AEDPA, ON FEDERAL 
+* HABEAS CORPUS REVIEW AND ITS 
+DECISION SHOULD BE REVERSED 
+
+
+Under the requirements of AEDPA, a federal court “shall 
+not” grant a writ of habeas corpus to a state prisoner with 
+respect to any claim adjudicated on the merits in state court 
+unless the state court’s decision was “contrary to, or involved an 
+
+
+20 
+
+
+unreasonable application of, clearly established Federal law, as 
+determined by the Supreme Court of the United States.” 
+28 U.S.C. § 2254(d); Price v. Vincent, 538 U.S. 634, 639 
+(2003). The Ninth Circuit’s decision granting habeas relief to 
+Payton turned on its conclusion that the California Supreme 
+Court unreasonably applied clearly established Supreme Court 
+precedent. 
+
+A state court decision constitutes an “unreasonable 
+application” of this Court’s precedent if the state court identifies 
+the correct governing legal rule from this Court’s jurisprudence 
+but unreasonably applies it to the facts of a particular case. 
+Penry v. Johnson, 532 U.S. 782, 792 (2001). It is now well 
+settled that an unreasonable application of federal law is 
+different from an incorrect application of federal law. 
+Lockyer v. Andrade, 538 U.S. 63, 75 (2003). Therefore, a 
+federal court may not issue a writ of habeas corpus simply 
+because it concludes in its independent judgment that the state 
+court decision applied clearly established federal law 
+erroneously or incorrectly; for a grant of habeas corpus relief the 
+state court decision must also be objectively unreasonable. /d. 
+at 75. : 
+
+This “highly deferential standard for evaluating state court 
+rulings” demands that federal courts give state court decisions 
+“the benefit of the doubt.” Visciotti, 537 U.S. at 24; Williams 
+v. Taylor, 529 U.S. 362, 404-13 (2000). In that regard, AEDPA 
+profoundly modified the role of federal habeas courts to, inter 
+alia, “ensure that state-court convictions are given effect to the 
+extent possible under law.” Bell v. Cone, 535 U.S. at 693. 
+
+Although the Ninth Circuit en banc majority cited this 
+precedent and labeled the California Supreme Court’s decision 
+“objectively unreasonable,” its analysis demonstrates it did not 
+adhere to the requirements of AEDPA but instead, again, 
+substituted its own judgment. As noted by the dissent, even if 
+the California Supreme Court were incorrect it was surely not 
+“objectively unreasonable.” P.A. at 41. Indeed, a review of the 
+Ninth Circuit’s reasoning shows that, not only was the 
+
+
+21 
+
+
+California Supreme Court reasonable, it was correct. The 
+California Supreme Court properly identified Boyde as the 
+controlling authority and reasonably applied Boyde in finding 
+factor (k), on its face and in the context of the proceedings, 
+satisfied the requirements under the Eighth Amendment that a 
+sentencer be permitted to consider and give effect to a 
+defendant’s mitigating evidence. Only by utterly disregarding 
+the limits imposed by AEDPA could the Ninth Circuit have 
+affirmed the grant of habeas relief. 
+
+
+A. The California Supreme Court Reasonably 
+Identified And Relied Upon Boyde As The 
+Controlling Supreme Court Precedent For 
+Assessing Claims That Factor (k) Failed To 
+Instruct Jurors To Consider A Defendant’s 
+Background And Character Evider .e 
+
+
+The first basis for the Ninth Circuit’s decision that the 
+California Supreme Court was “objectively unreasonable” was 
+the California Supreme Court’s focus on Boyde when analyzing 
+Payton’s claim that his jury was unconstitutionally precluded 
+from considering his post-crime evidence in mitigation. 
+According to the Ninth Circuit, “in focusing almost exclusively 
+on Boyde, the court did not give proper effect to clearly 
+established Supreme Court cases such as Skipper and Penry that 
+are controlling here.” P.A. at 15. That criticism is groundless. 
+The California Supreme Court cannot be faulted for focusing on 
+the one decision of this Court that has analyzed whether the 
+specific mitigation instruction at issue in this case, factor (k), 
+comports with the Eighth Amendment. 
+
+As this Court recently observed in Beard v. Banks, 124 
+S. Ct. 2504, 2511, 2512 (2004), the “line of cases beginning 
+with Lockett . . . and Eddings” establish the general rule “that 
+the sentencer must be allowed to consider any mitigating 
+evidence.” In Boyde, this Court cited Lockett, Eddings, and 
+Penry for that proposition, 494 U.S. at 377-78, and then turned 
+
+
+22 
+
+
+to the question before it: whether California’s capital 
+sentencing system comported with the rule those cases 
+established. California argued that the catch-all mitigation 
+instruction, factor (k), ensured that it did. This Court agreed. 
+The reasoning and holding of Boyde was, therefore, simply an 
+application of Skipper and Penry (as well as Lockett and 
+Eddings). There is no tension or inconsistency between Boyde, 
+on the one hand, and Skipper and Penry, on the other. 
+
+Moreover, as the Ninth Circuit conceded, the California 
+Supreme Court itself “acknowledged the teachings of Eddings, 
+Lockett, and Skipper that the Eighth Amendment requires the 
+sentencer in a capital case to consider evidence of character and 
+background, including ‘good behavior in prison.’” P.A. at 
+14-15. Accordingly, any suggestion by the Ninth Circuit that the 
+California Supreme Court ignored the general principles of 
+Skipper and Penry is unsupportable. 
+
+The only other basis upon which the Ninth Circuit 
+criticized the California Supreme Court for focusing on Boyde 
+was the existence of factual differences between this case and 
+Boyde. The Ninth Circuit is certainly correct that the character 
+evidence presented in Boyde involved pre-crime events, whereas 
+the character evidence presented by Payton involved post-crime 
+events. That factual difference, however, does not make Boyde 
+any less relevant. To repeat the obvious, Boyde is the one 
+decision of this Court that has addressed the claim that factor 
+(k) failed to allow the jury to consider and give effect to all 
+relevant mitigating evidence. It is plainly the most instructive 
+decision of this Court with respect to that very same claim as 
+applied to a different type of character evidence presented in 
+mitigation. The California Supreme Court was reasonable, to 
+say the least, in focusing on Boyde. 
+
+
+23 
+
+
+B. The California Supreme Court Was Not 
+"Objectively Unreasonable" In Holding That, 
+Under Boyde, Factor (k) "Standing Alone" 
+Satisfied The Eighth Amendment 
+
+
+The second component of the California Supreme Court’s 
+decision that the Ninth Circuit found “objectively 
+unreasonable” was the court’s conclusion that, under Boyde, 
+factor (k) standing alone instructed the jury to consider Payton’s 
+character evidence in mitigation. The California Supreme 
+Court’s holding was an eminently reasonable application of 
+Boyde. AEDPA requires that it be respected. 
+
+
+~ 1. Boyde’s Analysis Of Factor (k) "Standing Alone" 
+
+
+The central issue in Boyde, as in Payton’s case, was 
+whether the “catch-all” mitigation instruction limited the jury to 
+consideration of mitigation evidence directly related to the 
+crime in violation of the Eighth Amendment’s requirement that 
+a jury “consider and give effect to all relevant mitigation 
+evidence” offered by the defendant. Boyde, 494 U.S. at 377-78. 
+Boyde argued “[t}hat the ‘catch-all’ factor (k) [instruction] did 
+not allow the jury to consider and give effect to non- 
+crime-related mitigation evidence, because its language . . . 
+limited the jury to other evidence that was related to the crime.” 
+Boyde, 494 U.S. at 378 (emphasis in original and added). This 
+Court rejected Boyde’s contention. | 
+
+Considering the instruction "standing alone,” this Court 
+held there was no reasonable likelihood "that the jury applied 
+the instruction in a way that prevents consideration of 
+constitutionally relevant evidence." /d. at 380-81. The Court 
+explained: "The instruction did not, as petitioner seems to 
+suggest, limit the jury’s consideration to ‘any other 
+circumstances of the crime which extenuates the gravity of the 
+crime.’ The jury was directed to consider any other 
+circumstance that might excuse the crime, which certainly 
+
+
+24 
+
+
+includes background and character." Boyde, 494 U.S. at 382. 
+(emphasis in original). Thus, this Court held that California’s 
+"catch-all" mitigation instruction was constitutional, on its face, 
+because it permitted - indeed, it "directed" - consideration of 
+"any other circumstance" in mitigation when determining 
+whether to impose the death penalty. /d. at 380-82. 
+
+
+2. The California Supreme Court’s Reasonable 
+Application Of Boyde 
+
+
+Quoting Boyde’ s language emphasizing that the “catch-all” 
+instruction constitutionally permitted consideration of “any 
+other circumstance,” not just mitigation circumstances related 
+to the crime, the California Supreme Court rejected Payton’s 
+claim that the instruction itself precluded consideration of his 
+non-crime related mitigation evidence. P.A. at 160-65. The 
+court held: “While the [trial] court did not embellish the 
+language of factor (k), that fact standing alone does not support 
+a claim of error.” P.A. at 164 (citing Boyde, 494 U.S. at 381). 
+Given the specificity of Boyde’s holding that factor (k) permits 
+consideration of non-crime related mitigation evidence, 
+particularly character evidence, the California Supreme Court 
+had no reason to rule otherwise. See Yarborough v. Alvarado, 
+124 S. Ct. 2140, 2149 (2004) (“[T]he range of reasonable 
+judgment can depend in part on the nature of the relevant rule. 
+If a legal rule is specific, the range may be narrow.”). 
+
+It was at least reasonable for the California Supreme Court 
+to apply the same interpretation of the instruction as this Court 
+did in Boyde to essentially the same argument that Boyde made. 
+Indeed, there are numerous capital cases in California, pre- and 
+post-Boyde, in which the defendant’s evidence in mitigation 
+included post-crime character evidence and the court imstructed 
+with the same factor (k) instruction used in Payton without a 
+claim or finding that the instruction applied to pre-crime 
+
+
+25 
+
+
+mitigation evidence but not to post-crime mitigation evidence.” 
+The California Supreme Court’s decision was precisely the sort 
+of eminently reasonable application of this Court’s precedents 
+to which AEDPA demands deference. 
+
+
+3. The Ninth Circuit Violated AEDPA In Rejecting 
+The California Supreme Court’s Holding 
+
+
+Despite lip service to AEDPA, the Ninth Circuit majority 
+did not analyze the California Supreme Court’s decision with a 
+deferential eye. Rather, the majority, as it did in Andrade, 538 
+U.S. at 75, conducted de novo review, found error, and labeled 
+it “objectively unreasonable.” At the threshold, this can be seen 
+by the similarity in the two opinions issued by the en banc Ninth 
+Circuit — the first premised on de novo review, the second 
+purportedly under the AEDPA deference standard. More 
+fundamentally, the Ninth Circuit’s analysis of Boyde (and its 
+analysis of the California Supreme Court’s analysis of Boyde) 
+reveals a fundamental unwillingness to grant deference to state 
+court rulings. The California Supreme Court found that the 
+reasoning and holding of Boyde instruct that factor (k) directs 
+jurors to consider all character evidence in mitigation, including 
+
+
+4. See, e.g., People v. Brown, 45 Cal. 3d 1247, 1252-57, 
+756 P.2d 204, 248 Cal. Rptr. 817 (1998) (defendant remorseful 
+and no threat in custody because only threat to women); People 
+v. Mayfield, 5 Cal. 4th 142, 167-68, 183-84, 852 P.2d 331, 19 
+Cal. Rptr. 836 (1993) (remorse and good prisoner); People v. 
+Gonzalez, 51 Cal. 3d 1179, 1204, 1224-25, 1231-32, 800 P.2d 
+1159, 275 Cal. Rptr. 729 (1991) (remorse); People v. Jones, 
+53 Cal. 3d 1115, 1128, 1146, 811 P.2d 757, 282 Cal. Rptr. 465 
+(1991) (good prisoner); People v. Hernandez, 47 Cal. 3d 315, 
+355, 363, 365-67, 763 P.2d 1289, 253 Cal. Rptr. 199 (1988) 
+(difficulty of life in prison, remorse and possibility of positive 
+contribution in prison), cert. denied, 491 U.S. 910 (1989). 
+
+
+26 
+
+
+post-crime character evidence. The Ninth Circuit violated 
+AEDPA by not deferring to that reasonable conclusion. 
+
+The Ninth Circuit put forth three reasons for its conclusion 
+that, because the mitigating evidence in this case involved post- 
+crime conduct, Boyde “does not control this case.” P.A. at 15. 
+First, the court stated that 
+
+[whereas there may be no reason to doubt, in light of 
+society’s “long held” views, that a jury would consider a 
+defendant’s pre-crime background in sentencing him, there 
+is reason to doubt that a jury would similarly consider 
+post-crime evidence of a defendant’s religious conversion 
+and good behavior in prison. 
+P.A. at 15-16. That purported distinction between pre-crime 
+and post-crime mitigating evidence cannot withstand scrutiny. 
+
+An equally “long held” view is the significance of 
+rehabilitation and remorse in determining an appropriate 
+sentence. See, e.g., People v. Gonzalez, 51 Cal. 3d at 1232 
+(“[{ T]he defendant’s overt indifference or callousness toward his 
+misdeed bears significantly on the moral decision whether a 
+greater punishment, rather than a lesser, should be imposed.”’). 
+It is precisely this view that underlies this Court’s repeated 
+holdings that the Eighth Amendment requires juries in capital 
+cases to consider post-crime evidence in mitigation, such as 
+remorse or good behavior in prison. See, e.g., Skipper,476 U.S. 
+at 7 ("{A] defendant’s disposition to make a well-behaved and 
+peaceful adjustment to life in prison is itself an aspect of his 
+character that is by its nature relevant to the sentencing 
+determination."); Graham v. Collins, 506 U.S. 461, 472 (1993) 
+("{T]}he Texas statute satisfied the commands of the Eighth 
+Amendment: It permitted petitioner to place before the jury 
+whatever mitigating evidence he could show, including his age, 
+while focusing the jury’s attention upon what that evidence 
+revealed about the defendant’s capacity for deliberation and 
+prospects for rehabilitation."); Hitchcock v. Dugger, 481 U.S. 
+393, 398-99 (1987) (death penalty reversed for failure to allow 
+for consideration of non-statutory mitigation including 
+
+
+27 
+
+
+rehabilitation); Jurek v. Texas, 428 U.S. 262, 274-76 (1976) 
+(consideration of a defendant’s future conduct is an inquiry 
+common throughout the criminal justice system). The 
+consideration of post-crime character evidence in determining 
+the appropriate sentence is well rooted in contemporary 
+standards regarding the infliction of punishment. 
+
+Neither precedent nor principle supports the sharp 
+distinction drawn by the Ninth Circuit between societal views 
+regarding the importance of "‘a disadvantaged background, or 
+... emotional and mental problems,”’" P.A. at 15, on the one 
+hand, and remorse and good behavior in prison, on the other. 
+To the contrary, human nature suggests that it is more difficult 
+to condemn a person who has come to terms with his crime, 
+repented, and rehabilitated, than to condemn an unrepentant 
+sociopath who had a troubled childhood. At the very least, the 
+California Supreme Court was not unreasonable in declining to 
+distinguish Boyde based on purported differences in society’s 
+"long held" views about the importance of pre- and post-crime 
+character evidence. 
+
+The second ground upon which the Ninth Circuit ruled that 
+Boyde "does not control this case" was the court’s "reading of 
+the words of the unadorned factor (k)." P.A. at 16. In its initial 
+opinion, the en banc Ninth Circuit held that, "[mJost naturally 
+read, the phrase ‘extenuates the gravity of the crime’ refers to 
+evidence relating to or ameliorating the crime itself." P.A. at 59. 
+Apparently recognizing that this holding directly contradicted 
+Boyde, the second en banc opinion of Ninth Circuit excluded 
+that senteace. But the thrust of the second en banc opinion was 
+the same. Thus, the Ninth Circuit majority insisted: "Any 
+natural reading of the words of the unadorned factor (k) does 
+not support the inclusion of post-crime evidence because 
+mitigation evidemce occurring after a crime cannot possibly 
+‘extenuate the gravity of the crime.’" P.A. at 16-17. This is so, 
+according to the Ninth Circuit, because the words of factor (k) 
+apply only to evidence related to "the commission of the crime." 
+P.A. at 16 n.9 (favorably quoting Justice Kennard’s dissent in 
+
+
+28 
+
+
+the California Supreme Court, P.A. at 181). A similar "natural 
+reading" argument was made in Boyde, of course, and this Court 
+rejected it. 
+
+As noted, Boyde argued that the phrase “any other 
+circumstance which extenuates the gravity of the crime" 
+instructed the jury to consider only “any other circumstance of 
+the crime." Boyde, 494 U.S. at 382 (emphasis in original). This 
+Court disagreed, concluding that any evidence that might 
+convince a jury that a defendant "may be less culpable" - that 
+might "counsel imposition of a sentence less than death" - is 
+encompassed by the instruction. /d. (internal citations and 
+quotation marks omitted). 
+
+Moreover, Boyde specifically held that the factor (k) 
+instruction, on its face, instructed jurors to consider character 
+evidence, which is precisely what Payton presented. Boyde, 494 
+U.S. at 382-83 & n.5. In Skipper, this Court recognized that "a 
+defendant’s disposition to make a well-behaved and peaceful 
+adjustment to life in prison is itself an aspect of character." 
+Skipper, 476 U.S. at 7. The California Supreme Court was, 
+therefore, reasonable in concluding that the "words of" 
+factor (k), as construed in Boyde, instructed Payton’s jury to 
+consider and give effect to his post-crime character evidence in 
+mitigation. 
+
+Indeed, to the extent any court in this case applied Boyde 
+unreasonably, it was the en banc Ninth Circuit. The Ninth 
+Circuit's view that factor (k) applies only to evidence related to 
+"the commission of the crime" conflicts with Boyde’s reading of 
+factor (k) as encompassing any evidence that might convince a 
+jury that a defendant "may be less culpable" and that might 
+
+"counsel imposition of a sentence less than death."” As noted 
+
+
+5. The Ninth Circuit has applied this same 
+misunderstanding of the language of factor (k) and Boyde to 
+grant habeas relief in another death penalty case. Belmonites v. 
+Woodford, 350 F.3d 861 (2003), reh'g denied, 359 F.3d 1079, 
+1087 (9th Cir. 2004). A petition for writ of certiorari is currently 
+
+
+29 
+
+
+by the dissent from the initial en banc decision, 
+[o]nce one acknowledges, as the Supreme Court did in 
+Boyde, that factor (k)’s text allows for consideration of 
+evidence beyond the crime itself, there is no logical reason 
+to believe that post-crime character strengths are any less 
+capable of extenuating the gravity of the crime than pre- 
+crime character strengths or are any more excluded from a 
+reading of factor (k). 
+
+P.A. at 78. 
+
+The key words here are "the gravity of the crime." 
+"*(G]ravity of the crime’ focuses not only on the culpability of 
+the criminal, but includes the effect on society in general. To the 
+extent that a criminal taunts or gloats after his crime, the gravity 
+of the crime is enhanced. To the extent that the criminal shows 
+remorse, repents or rehabilitates himself, the gravity of the 
+crime is diminished." Belmontes v. Woodford, 359 F.3d 1079, 
+1087 (9th Cir. 2004) (Bea, J. dissenting, joined by Tallman, J.) 
+Thus, if the defendant presents evidence of a troubled childhood 
+as in Boyde or redemption as in Payton, such evidence may 
+lessen the "gravity of the crime" because it suggests a basis for 
+a sentence less than death. 
+
+This conclusion is reinforced by the nature of the task 
+before the jury. The sole function of the jury at the penalty 
+phase is to determine whether a defendant should receive life in 
+prison or the death penalty. J.A. at 94-96. As noted by the 
+dissent in thz initial en banc, "It is difficult to argue that a 
+murder is less severe because of either pre-crime or post-crime 
+circumstances pertaining to the murderer. The victim is dead in 
+either case." P.A. at 77 n.2. However, pursuant to California 
+Penal Code section 190.3, 
+
+the defense is allowed to present whatever constitutionally 
+relevant evidence it wants to persuade the jury to spare the 
+defendant’s life, and the jury may choose to spare the 
+defendant’s life based on any evidence it concludes 
+"extenuates the gravity of the crime" even though it is "not 
+
+
+pending sub nom. Goughnour v. Belmontes, Case No. 03-1503. 
+
+
+30 
+
+
+a legal excuse for the crime" and even though it does not _ 
+literally make the crime any less "severe." 
+P.A. at 77 n.2. 
+
+Lastly, drawing from footnote 5 of this Court’s decision in 
+Boyde, the Ninth Circuit found the Court’s listing of 
+distinguishing facts between Boyde’s evidence and the post- 
+crime evidence of a model prisoner presented in Skipper 
+indicated that the Court did not intend to include post-crime 
+character evidence within the ambit of "background and 
+character" evidence that it found subject to consideration under 
+factor (k). P.A. at 16. However, the question of what does and 
+does not constitute "background and character" evidence was 
+not the issue before or decided by the Court in Boyde; the issue 
+was whether factor (k) allowed for consideration of non-crime 
+related evidence in mitigation or was limited to circumstances 
+related to the crime. The Court did not find factor (k) limited to 
+- circumstances related to the crime as argued by Boyde, or 
+limited to background and character that related to the crime as 
+found by the Ninth Circuit. The Court found factor (k) allowed 
+for consideration of "any other circumstance that might excuse 
+the crime, which certainly includes a defendant’s background 
+and character." Boyde, 494 U.S. at 382 (emphasis in original). 
+Neither the phrase - "any other circumstance" nor "character" 
+- excludes Payton’s post-crime character evidence in mitigation. 
+
+Moreover, footnote 5 only further confirms that factor (k) 
+is not limited to background and character evidence that is 
+related to the crime but includes character evidence that would 
+justify a sentence less than death. Footnote 5 responded to 
+Boyde’s additional evidence referred to at oral argument to the 
+effect that he had won a dance prize while previously 
+incarcerated. The Court found: "As with other evidence of good 
+character, therefore, the jury had the opportunity to conclude 
+through factor (k) that petitioner’s dancing ability extenuated 
+the gravity of the crime because it showed that Boyde’s criminal 
+conduct was an aberration from otherwise good character." 
+Boyde, 494 U.S. at 382 n. 5. Good character evidence provides 
+
+
+31 
+
+
+a basis for concluding a defendant’s life is worth saving; it does 
+not relate to a defendant’s culpability for the crime. Hence, the 
+only way good character is subject to consideration under 
+factor (k), is if the phrase "extenuates the gravity of crime" 
+refers to the appropriate penalty to be imposed considering all 
+of the circumstances presented by the defendant, not just the 
+circumstances related to the crime as argued by the Ninth 
+Circuit 
+
+Finally, even if the six judges of the Ninth Circuit correctly 
+construed the words of factor (k) as drawing a line between pre- 
+crime and post-crime mitigating character evidence, that is not 
+the only reasonable interpretation of those words and of Boyde. 
+Indeed, the Ninth Circuit itself had previously stated that this 
+"Court has held that this instruction is neither erroneous nor 
+ambiguous on its face." Babbit v. Calderon, 151 F.3d 1170, 
+1178 (9th Cir. 1998). By insisting that the California Supreme 
+Court was objectively unreasonable in failing to apply its novel 
+limitation of Boyde, the Ninth Circuit majority utterly 
+disregarded AEDPA. Because the California Supreme Court’s 
+application of Boyde’s factor (k) holding is reasonable, habeas 
+relief on this basis should be denied. 
+
+
+C. The California Supreme Court Was Not 
+"Objectively Unreasonable" In Holding That, 
+Under Boyde, Factor (k) "In The Context Of The 
+Proceedings" Satisfied The Eighth Amendment 
+
+
+The third component of the California Supreme Court’s 
+decision that the Ninth Circuit found “objectively unreasonable” 
+was the court’s holding that factor (k), in the context of the 
+proceedings, satisfied the Eighth Amendment. A key premise 
+underlying the Ninth Circuit’s context-of-the-proceedings 
+holding was its prior conclusion that factor (k), on its face, did 
+not instruct the jury to consider Payton’s evidence of post-crime 
+character evidence. P.A. at 21. Because it ruled that Payton’s 
+“jury was confronted with an ambiguous factor (k) instruction 
+
+
+32 " 
+
+
+and with post-crime mitigating evidence that, unlike the pre- 
+crime character and background evidence in Boyde, did not 
+clearly fit within the plain wording of the instruction,” the Ninth 
+Circuit placed extra weight on the prosecutor’s argument. P.A. 
+at 21. As shown in section B, supra, this premise was incorrect; 
+Payton’s jury, like Boyde’s jury, was confronted with an 
+instruction that directed it to consider the mitigating evidence 
+that had been presented to it. The California Supreme Court 
+reasonably concluded that, and then faithfully applied Boyde’s 
+principles for assessing whether there was a reasonable 
+likelihood the jury misunderstood the trial court’s instructions 
+in the context of the proceedings so as to preclude consideration 
+of constitutionally relevant mitigation evidence. 
+
+
+1. Boye’s Analysis Of Factor (k) In The "Context 
+Of The Proceedings" 
+
+
+The Court in Boyde addressed whether, “in the context of 
+the proceedings,” there was a reasonable likelihood the jury 
+misunderstood factor (k) as precluding consideration of Boyde’s 
+non-crime related mitigation evidence. This Court held that 
+even were the language of the “catch-all” instruction “less clear 
+than we think,” under the “reasonable likelihood” test, there was 
+no reasonable likelihood that the jury would have believed it 
+could not consider Boyde’s mitigation evidence. Boyde, 494 
+U.S. at 383. 
+
+The Court examined other instructions, also given to 
+Payton’s jury, J.A. at 92-96, which directed the jury to consider 
+mitigation evidence not associated with the crime itself, such as 
+lack of prior criminal activity or felonies, the age of the 
+defendant, and the instruction that the jury “shall consider all of 
+- the evidence which has been received during any part of the trial 
+of this case.” Boyde, 494 U.S. at 383 (emphasis in original). 
+This Court concluded: “When factor (k) is viewed together with 
+those instructions, it seems even more improbable that jurors 
+would arrive at an interpretation that precludes consideration of 
+
+
+33 
+
+
+all non-crime-related evidence in mitigation.” Boyde, 494 U.S. 
+at 383 (emphasis added). Further, because the entirety of 
+Boyde’s evidence at the penalty phase related to his background 
+and character, and was introduced without objection, the Court 
+found it “unlikely that reasonable jurors would believe the 
+court’s instructions transformed all of this ‘favorable testimony 
+into a virtual charade.’” /d: at 383-84 (citation omitted). 
+
+Lastly, the Court examined the argument of counsel, 
+observing they generally carry "less weight" with a jury than do 
+instructions from the court. "The former are usually billed in 
+advance to the jury as matters of argument, not evidence, . . . 
+and are likely viewed as the statements of advocates; the latter, 
+we have often recognized, are viewed as definitive and binding 
+statements of the law." Boyde, 494 U.S. at 384. The Court found 
+nothing objectionable about the prosecutor’s argument that the 
+mitigation evidence did not "‘suggest that [petitioner’s] crime 
+is less serious or that the gravity of the crime is any less,’" and 
+that "‘nothing I have heard lessens the seriousness of this 
+crime’." /d. at 385. Defense counsel also properly stressed a 
+broad reading of the "catch-all" mitigation instruction. 
+Id. at 386. Accordingly, the Court held that there was no 
+reasonable likelihood that Boyde’s jury interpreted California’s 
+"catch-all" mitigation instruction to preclude consideration of 
+Boyde’s non-crime related mitigation evidence. /d. 
+
+
+2. The California Supreme Court’s Reasonable 
+Application Of Boyde 
+
+
+The California Supreme Court faithfully — and reasonably 
+- applied Boyde’s “context of the proceedings” analysis. The 
+court reviewed each of the considerations addressed by this 
+Court and concluded that here, too, there was no reasonable 
+likelihood the jury in Payton’s case believed the law required 
+them to disregard his mitigation evidence. “Several 
+considerations” led the court to this conclusion. P.A. at 162. 
+
+
+34 
+
+
+First, the California Supreme Court noted Boyde’s holding 
+that the other instructions given in Boyde’s case, which were 
+also given in Payton’s, made it “even more improbable that the 
+jurors would ariive at an interpretation [of factor (k)] that 
+precludes consideration of all non-crime related evidence.” 
+P.A. at 161. 
+
+Second, recognizing that Payton, like Boyde, also asserted 
+
+-~a claim that the prosecutor’s argument misled the jury 
+concerning the meaning of factor (k), the California Supreme 
+Court identified and applied Boyde’s principle that arguments 
+of counsel are not treated as having the same force as the trial 
+court’s instruction. P.A. at 161. The court explained: 
+
+Rather than creating a rule to the effect that incorrect 
+remarks by attorneys about the permissible scope of 
+mitigating evidence are presumed to have misled the jury, 
+Boyde teaches that there is constitutional error only if it is 
+reasonably likely that such remarks led the jurors to 
+understand the trial court’s instructions as precluding 
+consideration of relevant mitigating evidence offered by 
+the defendant. (Boyde, supra, 494 U.S. at pp. 378-381, 
+386 .. .) Boyde also teaches that comments by attorneys 
+“must be judged in the context in which they are made.” 
+(/d., at p. 385. . .) 
+
+P.A. at 161. 
+
+Thereafter, the California Supreme Court carefully 
+evaluated the prosecutor’s argument in the context of the 
+proceeding in which it was made. The California Supreme 
+Court recognized that the prosecutor suggested a narrow and 
+incorrect interpretation of factor (k). But the court found that 
+error blunted by “defense counsel’s objection, which led the 
+court to remind the jury that lawyer’s comments were ‘not 
+evidence’ but ‘argument’ and ‘to be placed in [their] proper 
+perspective.” P.A. at 162. In so finding, the California Supreme 
+Court cited to Boyde and that portion of the decision in which 
+this Court recognized “that such comments ‘are likely viewed 
+as the statements of advocates,’ especially when ‘billed in 
+
+
+35 
+
+
+advance to the jury as matters of argument, not evidence.’” 
+P.A. at 162 (quoting Boyde, 494 U.S. at 384.) 
+
+The California Supreme Court also noted the other 
+argument by the prosecutor and found that he implicitly 
+conceded the relevance of Payton’s mitigating evidence “by 
+devoting substantial attention to it.” P.A. 162. The court 
+observed: “The prosecutor also suggested, properly, how the 
+jury might weigh defendant’s evidence [in mitigation] against 
+the evidence in aggravation.” P.A. at 162-63. The California 
+Supreme Court reasonably concluded: “Obviously, this exercise 
+by the prosecutor had a point only if it was contemplated the 
+jury would consider defendant’s evidence.” P.A. at 163 
+(emphasis in original, citations omitted). 
+
+Additionally, the California Supreme Court considered the 
+argument of defense counsel, noting: “Defense counsel, in his 
+own closing argument, strongly reinforced the correct view that 
+defendant’s religious conversion was proper mitigating 
+evidence.” P.A. at 164. Thus, the state court found that defense 
+counsel’s argument further blunted the incorrect argument of the 
+prosecutor. P.A. at 164. 
+
+Lastly, as did the Court in Boyde, the California Supreme 
+Court considered the nature and extent of the mitigation 
+evidence presented. The California Supreme Court found: 
+
+For the jury to have accepted a narrow view of factor (k) in 
+this case would have meant disregarding all of defendant’s 
+mitigating evidence, since the testimony of his eight 
+penalty phase witnesses was all directed to his religious 
+conversion and consequent behavior in prison. Indeed, it 
+would have meant disregarding virtually the entire penalty 
+phase, since the testimony of the prosecution’s two 
+witnesses occupies only eleven pages of the transcript. We 
+think it unlikely, however, as did the high court in Boyde, 
+“that reasonable jurors would believe the court’s 
+instructions transformed all of [defendant’s] ‘favorable 
+testimony into a virtual charade.’ “ (Boyde, supra, 494 
+U.S. at p. 383 [108 L.Ed.2d at p. 331].) The high court’s 
+
+
+36 
+
+
+observation is especially apt when the trial court, as here, 
+has also instructed the jury to consider “all of the evidence 
+which has been received during any part of the trial” in 
+determining the penalty. (Ibid.) 
+P.A. at 163. Accordingly, the California Supreme Court held: 
+“On this record, it is not reasonably likely that the jury 
+understood the court’s instructions as precluding consideration 
+of defendant’s mitigating evidence.” P.A. at 164. 
+
+The California Supreme Court’s application of Boyde is 
+similar to that employed by this Court in Buchanan v. Angelone, 
+522 U.S. 269 (1998). Like the California Supreme Court, this 
+Court in Buchanan found, under Boyde, that it was “not likely 
+that the jury would disregard [two days of testimony of 
+mitigation evidence] in making its decision, particularly given 
+the instruction to consider ‘all the evidence."” Buchanan, 522 
+U.S. at 278; see also People v. Gonzalez, 51 Cal.3d at 1204, 
+1224-26 (applying Boyde, the California Supreme Court held 
+factor (k) allowed for consideration of defendant’s non-crime 
+related mitigation evidence); Ward v. Whitley, 21 F.3d 1355, 
+1365-66 (Sth Cir. 1994) (applying Boyde, the Fifth Circuit found 
+the prosecutor’s incorrect argument did not undo the court’s 
+correct instructions); Bonin v. Vasquez, 794 F. Supp. 957, 979- 
+80 (1992), aff'd, 59 F.3d 815 (9th Cir. 1995) (applying Boyde, 
+the district court found the prosecutor’s incorrect argument did 
+not undo the court’s correct instructions). The similar 
+interpretations of the principles of Boyde confirms the 
+California Supreme Court’s reasonable application of Boyde. 
+See Price v. Vincent, 538 U.S. at 643 & n.2 (reasonableness of 
+state court’s holding was confirmed by similar holdings by other 
+courts). 
+
+
+3. The Ninth Circuit’s Readiness To Attribute Error 
+Violates AEDPA 
+
+
+The approach the Ninth Circuit majority took in analyzing 
+the principles of Boyde set forth in its “context of the 
+
+
+37 
+
+
+proceedings” analysis further evidences the Ninth Circuit’s 
+readiness to attribute error in violation of AEDPA. Instead of 
+accepting the principles of Boyde at face value, or finding the 
+California Supreme Court reasonable in doing so, the majority 
+went to extraordinary lengths to corral Boyde’s principles to its 
+particular facts. It then found the California Supreme Court 
+objectively unreasonable in not doing the same, notwithstanding 
+that the Ninth Circuit’s bare majority opinion in this case is the 
+first one to have so limited the language in Boyde. 
+
+The Ninth Circuit majority began its analysis of factor (k) 
+
+"in the context of the proceedings" with the incorrect premise 
+that factor (k) did not naturally allow for consideration of 
+Payton’s mitigation evidence. The Ninth Circuit then assessed 
+whether there was anything in the context of the proceedings to 
+counter the allegedly inadequate factor (k), as opposed to 
+whether there was anything to mislead the jury concerning the 
+constitutionally adequate factor (k). As demonstrated above, 
+both the Ninth Circuit’s approach and its conclusion that factor 
+(k) applies only to evidence related to the "commission of the 
+crime" contravene Boyde. 
+
+Additionally, in finding that the California Supreme Court 
+unreasonably applied Boyde’s principle that arguments of 
+counsel generally carry "less weight" than instructions from the 
+court, the Ninth Circuit ruled that this principle applies only 
+when there is no objectionable argument by the prosecutor. 
+P.A. at 17 ("Key to the Court’s reasoning was the fact that there 
+was ‘no objectionable prosecutorial argument.’"). The principle 
+set forth by this Court in Boyde, however, did not turn on the 
+correctness of the prosecutor’s argument. Boyde expressly 
+stated: "This is not to say that prosecutorial misrepresentations 
+may never have a decisive effect on the jury, but only that they 
+are not to be judged as having the same force as an instruction 
+from the court." Boyde, 494 U.S. at 384-85. Both the principle 
+that arguments have less force than the trial court’s instructions 
+
+
+and the recognition that there are exceptions were recognized by 
+the California Supreme Court. P.A. at 161-62. The California 
+
+
+38 
+
+
+Supreme Court simply determined that the prosecutor's 
+incorrect argument did not undo the court’s proper instructions 
+given the context of the entire proceedings. 
+
+In that regard, the Ninth Circuit majority also improperly 
+assailed the California Supreme Court for evaluating "the 
+impact of the prosecutor’s comments on the jury on the basis of 
+only one of his comments." P.A. at 17 n.11 (italics in original). 
+Once again the Ninth Circuit has incorrectly accused a state 
+court of "ignoring" or "failing to consider" something that the 
+state court in fact considered. Visciotti, 537 U.S. at 24-25; see 
+also Middleton v. McNeil, 124 S. Ct. 1830, 1832 (2004) 
+("Contrary to the Ninth Circuit’s description, the state court did 
+not ‘ignor[e]’ the faulty instruction. It merely held that the 
+instruction was not reasonably likely to have misled the jury 
+given the multiple other instances . . . where the charge correctly 
+stated... ."). 
+
+The California Supreme Court demonstrated a thorough 
+knowledge of the entire record and specifically addressed the 
+critical aspect of the prosecutor’s argument, that the prosecutor 
+misstated the meaning of factor (k), in its decision. The 
+contention that more was required strains credulity. See Early 
+v. Packer, 537 U.S. 3, 8-9 (2002) ("The contention that the 
+California court ‘failed to consider’ facts and circumstances that 
+it had taken the trouble to recite strains credulity. The Ninth 
+Circuit may be of the view that the Court of Appeal did not give 
+
+
+certain facts and circumstances adequate weight (and hence > 
+
+
+adequate discussion); but to say that it did not consider them is 
+an exaggeration."). In that regard, the Ninth Circuit's 
+presumption that the California Supreme Court did not consider 
+the entirety of the prosecutor’s argument because it quoted 
+portions different that what the Ninth Circuit determined should 
+be quoted is precisely the type of analysis foreclosed by 
+AEDPA. Visciotti, 537 U.S. at 24 (AEDPA demands that 
+state-court decisions be given the benefit of the doubt.) 
+Accordingly, the Ninth Circuit was “nowhere close to the 
+mark," Alvarado, 124 S. Ct. at 2150, in finding the California 
+
+
+39 
+
+
+Supreme Court unreasonable in applying Boyde to its analysis 
+of the prosecutor’s argument. 
+
+The Ninth Circuit majority also found that the California 
+Supreme Court unreasonably applied Boyde by finding that 
+defense counsel’s correct argument "blunted" the impact of the 
+prosecutor’s incorrect argument. The majority stated that, 
+"[a]ccording to Boyde, only instructions by the court have the 
+force to ‘blunt’ attorneys’ comments." P.A. at 20 n.13. Boyde 
+held nothing of the kind; indeed, the proposition is directly 
+contrary to Boyde’s directive to consider the context-of the 
+proceedings and the Court’s express consideration of the correct 
+argument of defense counsel. Boyde, 494 U.S. at 386 ("Defense 
+counsel also stressed a broad reading of factor (k) in his 
+argument to the jury:"). The context of the proceedings logically - 
+includes arguments of counsel. Weeks v. Angelone, 528 U.S. 
+225, 236 (2000). In fact, the Court in a recent per curiam 
+opinion, Middleton v. McNeil, 124 S.Ct. at 1830, rejected a 
+similar attempt by the Ninth Circuit to disregard the impact of 
+correct argument by counsel in assessing a claim of instructional 
+error. In Middleton, an AEDPA case, the Ninth Circuit found 
+the California Court of Appeal unreasonable in relying upon the 
+correct argument of a prosecutor in assessing a claim of 
+instructional error. In reversing the Ninth Circuit’s decision, the 
+Court held: "Nothing in Boyde precludes a state court from 
+assuming that counsel’s argument clarified an ambiguous jury 
+charge." /d. at 1833. The Ninth Circuit majority therefore erred 
+in finding the California Supreme Court unreasonable in also 
+considering the correct argument of defense counsel. 
+
+In a similar fashion the Ninth Circuit reinterpreted the 
+other jury instructions which this Court in Boyde held, and the 
+California Supreme Court agreed, made it even more 
+improbable a jury would misunderstand California’s "catch-all" 
+mitigation instruction to preclude consideration of non-crime 
+related evidence in mitigation. Thus, contrary to Boyde, the 
+Ninth Circuit found that the trial court’s additional instructions, 
+which were also given in Boyde’s trial, compounded the 
+
+
+40 
+
+
+problem of the "catch-all" mitigation instruction. P.A. at 20-24. 
+The Ninth Circuit disregarded the other instructions directing 
+the jury to consider non-crime related evidence such as factors 
+(b) [existence of prior violent criminal history], (c) [existence 
+of prior felonies], (i) [age], and the repeated instructions to 
+“consider all of the evidence," as well as the trial court’s 
+repeated admonishments to the jury throughout the penalty 
+phase that it heard the evidence and was responsible for 
+evaluating it. J.A. at 81-82, 85-86. The Ninth Circuit instead 
+focused on the phrase at the end of the instructions directing the 
+jury to also be guided by the arguments of counsel. P.A. at 
+20-24. The Ninth Circuit majority reasoned that this phrase 
+effectively melded the court’s instructions with the 
+objectionable portion of the prosecutor’s argument. P.A. 
+at 21-23. 
+
+But that analysis again fails to give appropriate deference 
+to the California Supreme Court, which carefully examined the 
+instructions and found the same effect as this Court in Boyde. 
+Moreover, it is not logical or reasonable to conclude that jurors 
+would parse the instructions and the arguments of counsel in a 
+manner to exclude the only mitigating evidence presented by 
+Payton. Unlike other capital defendants, Payton did not offer 
+any evidence of a disadvantaged childhood, abusive father or 
+abusive mother, brain damage, drug abuse or the like. The only 
+evidence offered by Payton was his post-crime character 
+transformation. . 
+
+In that regard, in finding a reasonable likelihood the jury 
+misunderstood the court’s instructions, the Ninth Circuit also 
+improperly failed to consider the principle in Boyde that a jury 
+would not readily interpret California’s "catch-all" mitigation 
+instruction to disregard the only evidence presented in 
+mitigation, particularly when there is no objection to the 
+introduction of the evidence. Boyde, 494 U.S. at 383-84. As in 
+Boyde, all of Payton’s penalty phase evidence was non-crime 
+related character evidence in mitigation. Thus, as in Boyde, it 
+is unlikely that reasonable jurors would believe the court’s 
+
+
+41 
+
+
+instruction transformed all of this favorable testimony into a 
+"virtual charade." Boyde, 494 U.S. at 383-84. 
+
+As this Court noted in Boyde, the "reasonable likelihood" 
+test does not turn on whether a single hypothetical "reasonable" 
+juror could or might have interpreted an instruction in a way 
+that prevents consideration of constitutionally relevant evidence. 
+Rather, it turns on whether there was a reasonable likelihood 
+the jury as a whole could have or might have done so. Boyde, 
+494 U.S. at 380. The Court reasoned that: 
+
+Jurors do not sit in solitary isolation booths parsing 
+instructions for subtle shades of meaning in the same way 
+that lawyers might. Differences among them in 
+interpretation of instructions may be thrashed out in the 
+deliberative process, with commonsense understanding of 
+the instructions in the light of all that has taken place at 
+trial likely to prevail over technical hairsplitting. 
+Id. at 380-81. Contrary to Boyde, the Ninth Circuit’s analysis 
+improperly bespeaks a solitary isolation booth in which the 
+instructions were parsed and the most unlikely meaning given 
+to exclude the only evidence presented. 
+
+Indeed, even applying de novo review, seven judges of the 
+Ninth Circuit agreed with the five justices of the California 
+Supreme Court and likewise found that there was no reasonable 
+likelihood that Payton’s jury understood the instructions so as 
+to preclude consideration of his post-crime evidence in 
+mitigation. P.A. at 31-41. Thus, even though the Ninth Circuit 
+majority did not agree with the California Supreme Court’s 
+decision that there was no constitutional error, "it was at least 
+reasonable" for the California Supreme Court "to conclude 
+otherwise." Price v. Vincent, 538 U.S. at 643. Consequently, 
+under AEDPA habeas telief is precluded. 
+
+
+42 
+
+
+CONCLUSION 
+The judgment of the Ninth Circuit should be reversed. 
+
+
+Dated: August 5, 2004 
+Respectfully submitted, 
+
+
+BILL LOCKYER 
+Attorney General of the State of California 
+
+
+MANUEL M. MEDEIROS 
+State Solicitor General 
+
+
+ROBERT R. ANDERSON 
+Chief Assistant Attorney General 
+
+
+GARY W. SCHONS 
+Senior Assistant Attorney General 
+
+
+STEVEN T. OETTING 
+Supervising Deputy Attorney General 
+
+
+MELISSA A. MANDEL 
+Deputy Attorney General 
+
+
+A. NATALIA CORTINA 
+Deputy Attorney General 
+Counsel of Record 
+
+
+Counsel for Petitioner 
+
+
+ANC:nes 
+$D2000XF0003 
+
+

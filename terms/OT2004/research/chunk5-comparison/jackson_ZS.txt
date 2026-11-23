@@ -1,0 +1,208 @@
+Source: https://www.law.cornell.edu/supct/html/02-1672.ZS.html
+
+JACKSON V. BIRMINGHAM BD. OF ED.
+
+LII
+
+Supreme Court
+
+JACKSON V. BIRMINGHAM BD. OF ED. (02-1672) 
+309 F.3d 1333, reversed and remanded.
+Syllabus
+ Opinion
+ [ O’Connor ]Dissent
+ [ Thomas ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be
+released, as is being done in connection with this case, at the
+time the opinion is issued.
+The syllabus constitutes no part
+of the opinion of the Court but has been prepared by the
+Reporter of Decisions for the convenience of the reader.
+See
+United States v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+JACKSON v. BIRMINGHAM BOARD OF
+EDUCATION
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE ELEVENTH CIRCUIT
+
+No. 02—1672.Argued November 30,
+2004–Decided March 29, 2005
+
+After petitioner, the girls’ basketball
+coach at a public high school, discovered that his team was not
+receiving equal funding and equal access to athletic equipment
+and facilities, he complained unsuccessfully to his
+supervisors. He then received negative work evaluations and
+ultimately was removed as the girls’ coach. He brought
+this suit alleging that respondent school board (Board) had
+retaliated against him because he had complained about sex
+discrimination in the high school’s athletic program, and
+that such retaliation violated Title IX of the Education
+Amendments of 1972, 20 U.S.C. §
+1681(a), which provides that “[n]o person …
+shall, on the basis of sex, be … subjected to
+discrimination under any education program … receiving
+Federal financial assistance.” The District Court
+dismissed the complaint on the ground that Title IX’s
+private cause of action does not include claims of retaliation,
+and the Eleventh Circuit agreed and affirmed. The appeals
+court also concluded that, under Alexander v.
+Sandoval, 532
+U.S. 275, the Department of Education’s Title IX
+regulation expressly prohibiting retaliation does not create a
+private cause of action, and that, even if Title IX prohibits
+retaliation, petitioner is not within the class of persons the
+statute protects. 
+
+Held: Title IX’s private
+right of action encompasses claims of retaliation against an
+individual because he has complained about sex discrimination. 
+Pp. 3—15.
+
+ (a) When a
+funding recipient retaliates against a person because he
+complains of sex discrimination, this constitutes intentional
+“discrimination” “on the basis of sex,” in
+violation of Title IX. This Court has held that Title IX
+implies a private right of action to enforce its prohibition on
+intentional sex discrimination, Cannon v. University
+of Chicago, 441
+U.S. 677, 690—693, and that that right includes
+actions for monetary damages by private persons,
+Franklin v. Gwinnett County Public Schools, 503 U.S. 60, and
+encompasses intentional sex discrimination in the form of a
+recipient’s deliberate indifference to sexual harassment
+of a student by a teacher, Gebser v. Lago Vista
+Independent School District, 524 U.S. 274,
+290—291, or by another student, Davis v. Monroe
+County Bd. of Ed., 526 U.S. 629, 642. 
+In all of these cases, the Court relied on Title IX’s
+broad language prohibiting a funding recipient from
+intentionally subjecting any person to
+“discrimination” “on the basis of sex.” 
+Retaliation is, by definition, an intentional act. It is a
+form of “discrimination” because the complainant is
+subjected to differential treatment. Moreover, it is
+discrimination “on the basis of sex” because it is an
+intentional response to the nature of the complaint: an
+allegation of sex discrimination. The Eleventh Circuit’s
+conclusion that Title IX does not prohibit retaliation because
+it is silent on the subject ignores the import of this
+Court’s repeated holdings construing
+“discrimination” under Title IX broadly to include
+conduct, such as sexual harassment, which the statute does not
+expressly mention. The fact that Title VII of the Civil Rights
+Act of 1964 expressly prohibits retaliation is of limited use
+with respect to Title IX. Title VII is a vastly different
+statute, which details the conduct that constitutes prohibited
+discrimination. Because Congress did not list any
+specific discriminatory practices in Title IX, its failure to
+mention one such practice says nothing about whether it
+intended that practice to be covered. Moreover, Congress’
+enactment of Title IX just three years after Sullivan v.
+Little Hunting Park, Inc., 396 U.S. 229–in
+which this Court interpreted 42 U.S.C. §
+1982’s general prohibition of racial discrimination to
+include retaliation against a white man for advocating the
+rights of blacks–provides a realistic basis for presuming
+that Congress expected Title IX to be interpreted in conformity
+with Sullivan. Pp. 3—7.
+
+ (b) The
+Board cannot rely on this Court’s holding in Sandoval,
+supra, at 285, that, because Title VI of the Civil Rights
+Act of 1964 itself prohibits only intentional discrimination,
+private parties could not obtain redress for disparate-impact
+discrimination based on the Justice Department’s Title VI
+regulations forbidding federal funding recipients from adopting
+policies with such an impact. Citing the Education
+Department’s Title IX retaliation regulation, the Board
+contends that Jackson, like the Sandoval petitioners,
+seeks an impermissible extension of the statute when he argues
+that Title IX’s private right of action encompasses
+retaliation. This argument, however, entirely misses the
+point. The Court does not here rely on the Education
+Department regulation at all, because Title IX’s text
+itself contains the necessary prohibition: Retaliation
+against a person who speaks out against sex discrimination is
+intentional “discrimination” “on the basis of
+sex” within the statute’s meaning. 
+Pp. 7—9.
+
+ (c) Nor is
+the Court convinced by the Board’s argument that, even if
+Title IX’s private right of action encompasses
+discrimination, Jackson is not entitled to invoke it because he
+is an “indirect victi[m]” of sex discrimination. The
+statute is broadly worded; it does not require that the victim
+of the retaliation also be the victim of the discrimination
+that is the subject of the original complaint. Where the
+retaliation occurs because the complainant speaks out about sex
+discrimination, the statute’s “on the basis of
+sex” requirement is satisfied. The complainant is himself
+a victim of discriminatory retaliation, regardless of whether
+he was the subject of the original complaint. Cf. Sullivan,
+supra, at 237. Congress enacted Title IX not only to
+prevent the use of federal dollars to support discriminatory
+practices, but also “to provide individual citizens
+effective protection against those practices.” Cannon,
+supra, at 704. This objective would be difficult to
+achieve if persons complaining about sex discrimination did not
+have effective protection against retaliation. 
+Pp. 9—12.
+
+ (d) Nor can
+the Board rely on the principle that, because Title IX was
+enacted as an exercise of Congress’ Spending Clause
+powers, a private damages action is available only if the
+federal funding recipient had adequate notice that it could be
+held liable for the conduct at issue, see, e.g., Pennhurst
+State School and Hospital v. Halderman, 451 U.S. 1, 17. 
+Pennhurst does not preclude such an action where, as
+here, the funding recipient engages in intentional acts that
+clearly violate Title IX. See, e.g., Davis, supra, at
+642. Moreover, the Board should have been put on notice that
+it could be held liable for retaliation by the fact that this
+Court’s cases since Cannon have consistently
+interpreted Title IX’s private cause of action broadly to
+encompass diverse forms of intentional sex discrimination; by
+Title IX itself, which expressly prohibits intentional conduct
+that violates clear statutory terms, Davis, 526 U.S., at
+642; by the regulations implementing Title IX, which clearly
+prohibit retaliation and have been on the books for nearly 30
+years; and by the holdings of all of the Courts of Appeals that
+had considered the question at the time of the conduct at issue
+that Title IX covers retaliation. The Board could not have
+realistically supposed that, given this context, it remained
+free to retaliate against those who reported sex
+discrimination. Cf. id., at 644. 
+Pp. 12—14.
+
+ (e) To
+prevail on the merits, Jackson will have to prove that the
+Board retaliated against him because he complained of
+sex discrimination. At the present stage, the issue is not
+whether he will ultimately prevail, but whether he is entitled
+to offer evidence to support his claims. P. 15.
+
+309 F.3d 1333, reversed and remanded.
+
+ O’Connor, J.,
+delivered the opinion of the Court, in which Stevens, Souter,
+Ginsburg, and Breyer, JJ., joined. Thomas, J., filed a
+dissenting opinion, in which Rehnquist, C. J., and Scalia
+and Kennedy, JJ., joined.

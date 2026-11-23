@@ -1,0 +1,5461 @@
+Source: https://archive.org/download/micro_IA40385014_0735/micro_IA40385014_0735%2005.%20Joint%20Appendix_djvu.txt
+
+y a 
+“. 
+
+
+6 | AUG 6 - 2004 | - 
+
+
+No. 03-1039 |_OF 
+
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+
+
+JILL L. BROWN, Acting Warden, Petitioner, 
+
+
+V. 
+
+
+WILLIAM CHARLES PAYTON, Respondent. 
+
+
+ON PETITION FOR WRIT OF CERTIORARI TO THE 
+UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT 
+
+
+JOINT APPENDIX 
+
+
+MARIA E. STRATTON 
+Federal Public Defender 
+DEAN R. GITS 
+Deputy Federal Public Defender 
+Counsel of Record 
+321 East Second Street 
+Los Angeles, CA 90012 
+Telephone: (213) 894-7867 
+Facsimile: (213) 894-0081 
+
+
+ROSALIE L. RAKOFF 
+
+A Professional Corporation 
+1950 Sawtelle Blvd., Suite 310 
+Los Angeles, CA 90025 
+Telephone: (323) 
+Facsimile: (323) 965-8677 
+
+
+ounsel for Respondent 
+
+
+Petition for Certiorari filed January 15, 2004 
+
+
+BILL LOCKYER 
+Attorney General of the State of California 
+MANUEL M. MEDEIROS 
+State Solicitor General 
+ROBERT R. ANDERSON 
+Chief Assistant Attorney General 
+GARY W. SCHONS 
+Senior Assistant Attorney General 
+STEVEN T. OETTING 
+Supervising Deputy Attorney General 
+MELISSA A. MANDEL 
+Deputy Attorney General 
+A. NATALIA CORTINA 
+Deputy Attorney General 
+Counsel of Record 
+110 West "A" Street, Suite 1100 
+San Diego, CA 92101 
+P.O. Box 85266 
+San Diego; CA 92186-5266 
+Telephone: (619) 645-2220 
+Facsimile: (619) 645-2191 
+Counsel for Petitioner 
+
+
+Certiorari Granted May 24, 2004 
+
+
+CAPITAL CASE 
+
+
+INDEX 
+Page 
+: Chronological List of Relevant Docket Entries ...... JAI 
+Excerpts from Reporter’s Transcript on Appeal: 
+
+Pre-Penalty Discussion Regarding Instructions ..... JA3 
+Prosecution Evidence .................e0eeeee: JA4 
+DeGemee Evidence 2... ccc ccc cc cece eens JAI5 
+
+Discussion Regarding Cal. Penal Code 
+§ 190.3(k) Instruction .................2004. JAS4 
+Prosecution Closing Argument ................. JA62 
+Defense Closing Argument .................... JA77 
+Court’s Instructions ............. Neddtpeven was JA92 
+
+
+The following opinions, decisions, judgments, and orders 
+have been omitted in printing this Joint Appendix because they 
+
+
+appear on the following pages in the appendix to the Petition for 
+Certiorari: 
+
+
+Opinion of the United States Court of Appeals for the 
+
+
+Ninth Circuit, filed October 20, 2003 (Pet. App. A) .... 1 
+Order of the United States Supreme Court, 
+
+filed April 21, 2003 (Pet. App. B) ................. 45 
+Opinion of the United States Court of Appeals for the 
+
+Ninth Circuit, filed August 1, 2002 (Pet. App. C) ..... 46 
+Opinion of the United States Court of Appeals for the 
+
+Ninth Circuit, filed August 2, 2001 (Pet. App. D) ..... 87 
+
+
+Final Order of the United States District Court 
+for the Central District of California, filed 
+
+
+December 17, 1999 (Pet. App. E) ................ 130 
+
+Opinion of the California Supreme Court, filed 
+November 23, 1992 (Pet. App. F) .............. 139 
+California Penal Code section 190.3 (Pet. App.G) .... 187 
+
+
+BEST AVAILABLE COPY 
+~ =~ ~~ re er —— ~—- —-, 
+
+
+JAI 
+
+
+CHRONOLOGICAL LIST OF 
+RELEVANT DOCKET ENTRIES 
+
+
+May 3, 1996—William Charles Payton’s Petition for Writ 
+of Habeas Corpus filed in U.S. District Court for the Central 
+District of California. 
+
+December 17, 1999—Final Order by Judge Manuel L. Real 
+denying in part and granting in part habeas corpus relief. 
+
+February 16, 2000—Judge Real granted an application for 
+certificate of appealability and notice of cross-appeal. 
+
+May 10, 2001—Appeal and cross-appeal argued and 
+submitted to Judges Pamela A. Rymer, Michael D. Hawkins and 
+Ronald M. Gould, Circuit Judges. 
+
+August 2, 2001—Opinion filed by the Ninth Circuit 
+(panel) reversing in part and affirming in part. 
+
+September 5, 2001—Combined Petition for Rehearing and 
+Suggestion for Rehearing En Banc filed by William Charles 
+Payton. 
+
+December 19, 2001—Order granting rehearing en banc. 
+
+March 20, 2002—Rehearing argued and submitted en banc 
+to Mary M. Schroeder, Harry Pregerson, Alex Kozinski, 
+Stephen S. Trott, Ferdinand F. Fernandez, Thomas G. Nelson, 
+A.W. Tashima, William A. Fletcher, Richard A. Paez, Marsha 
+S. Berzon, Richard C. Tallman, Circuit Judges. 
+
+August 1, 2002—Opinion filed by the Ninth Circuit (en 
+banc) reversing in part and affirming in part. 
+
+August 19, 2002—Petition for rehearing before en banc 
+court with a suggestion for rehearing by the full court filed by 
+Jeanne Woodford. 
+
+September 30, 2002—Order denying petition for rehearing. 
+
+December 12, 2002—Petition for Writ of Certiorari filed 
+by Payton. 
+
+December 27, 2002—Petition for Writ of Certiorari filed 
+by Woodford. 
+
+April 21, 2003—Payton’s Petition for Writ of Certiorari 
+denied by the United States Supreme Court. 
+
+
+JA2 
+
+
+April 21, 2003—Woodford’s Petition for Writ of Certiorari 
+granted by the United States Supreme Court with an order 
+remanding to the Ninth Circuit for further consideration in light 
+of Woodford v. Garceau, 538 U.S. 202 (2003) 
+
+June 3, 2003—Supplemental briefing filed by Payton and 
+Woodford regarding the application of AEDPA. 
+
+October 20, 2003—Opinion filed by the Ninth Circuit (en 
+banc) reversing in part and affirming in part. 
+
+October 30, 2003—Order granting motion to stay the 
+mandate pending petition for writ of certiorari. 
+
+
+JA3 
+
+
+EXCERPTS FROM REPORTER’S TRANSCRIPT ON APPEAL 
+In the Supreme Court of the State of California 
+Case No. 22151 
+The People of the State of California 
+v. 
+
+William Charles Payton 
+
+
+[November 23, 1981, by Mr. Merwin} 
+
+
+[1902] 
+
+
++4 
+
+
+Secondly, I think some of those categories are 
+[1903] 
+
+
+really designed, even if not specifically set out for the purpose 
+of, allowing the defendant, if he wishes, to present background. 
+
+Now, if we went into something and I portrayed him as a 
+choirboy, then I think that would be completely legitimate 
+rebuttal, but I don’t think that’s open under a fair reading of the 
+statute. 
+
+The Court: 1 would have to think, as | said -- I think I 
+would have a tendency to think that more could come in, 
+depending what the defendant opens up. I think I would have a 
+tendency to agree somewhat with that. 
+
+I can’t find any guidelines, but I would have a tendency, as 
+I said, to feel that that area is somewhat limited. As I said, I 
+think it’s -- the more the defendant goes into it, as I said, and 
+opens it up, | think it would be a tendency to be more of a lesser 
+rebuttal. 
+
+As far as proceeding, I’ll propose that the People put on 
+their case and the defendant can put on their case. If the People 
+want to put on rebuttal, the defendant can put on additional 
+rebuttal also. That is what I am planning. 
+
+Anybody want to make opening statements or - 
+
+
+JA4 
+
+
+Mr. Jacobs: At this time I’m inclined not to make an 
+opening statement. 
+
+The Court: _1 will give you a chance to, and as far as 
+closing, I will put on the record, get into -- I intend 
+
+
+[1904] 
+
+
+to have the People open and the defendant close, just give you 
+each one shot. 
+
+Mr. Jacobs:  That’s fine. 
+
+Mr. Merwin: That is fine. 
+
+Mr. Jacobs: That's what I expected. 
+
+The Court: We could go one, boom, boom, and back to 
+you again, I mean back to let Jim have two. 
+
+Mr. Jacobs: Somewhere it says discretionary, in some 
+cases it says preferred order is to give the defendant the last 
+shot. 
+
+The Court: —_1 am not going to go three and put you in the 
+middle. I think it’s better to go one and one. I don’t see any need 
+for it. That is what I am tentatively going to do. 
+
+Okay, gentlemen. 
+Mr. Merwin: Okay. See you tomorrow. 
+(Evening adjournment.) 
+
+
+*** 
+
+
+[November 24, 1981] 
+[1927] 
+
+
+The Court: Yes, sir, you may. 
+
+Mr. Jacobs: Okay. I think the defense and the State at this 
+time are willing to stipulate with regard to Mr. Payton’s prior 
+record that on April 14th, 1976, in the state of Idaho, the 
+defendant was convicted of a felony, that being illegal 
+possession of a controlled substance, over three ounces of 
+marijuana. 
+
+And the People are willing to stipulate to that. 
+
+
+JAS 
+
+
+Mr. Merwin: We’ll stipulate to that. 
+
+The Court: _—_Alll right. 
+
+Mr. Jacobs: Okay. Second stipulation would be that then 
+on October 8th, 1976, the defendant, Mr. Payton, was convicted 
+of a felony in the state of Oregon, that being rape in the third 
+degree or unlawful consensual sexual intercourse with a minor 
+under the age of 18. 
+
+The People are willing to stipulate to those facts. 
+
+Mr. Merwin: We'd stipulate to that. 
+
+TheCourt: Allright. Stipulation be received, gentlemen. 
+And you may call your first witness. 
+
+Mr. Jacobs: People call Mrs. Patty Stone. 
+
+The Clerk: Raise your right hand, please. 
+
+Patricia A. Stone, 
+called as a witness in behalf of the People, having been first 
+duly sworn, was examined and testified as follows: 
+
+The Clerk: State your full name for the record, please. 
+
+
+[1928] 
+
+
+The Witness: Patricia A. Stone. 
+
+The Clerk: | And would you spell your last name? 
+The Witness: S-T-O-N-E. 
+
+The Clerk: Be seated in the witness stand. 
+
+
+DIRECT EXAMINATION 
+
+
+Q By Mr. Jacobs: Mrs. Stone, is your maiden name Balun, 
+that being B-A-L-U-N? 
+
+A Balun. 
+
+Q Balun. In 1973, was that your name? 
+
+A Yes, it was. 
+
+Q Okay. Miss Stone, do you know the defendant in this case, 
+Mr. Payton? 
+
+A Yes, I do. 
+
+
+JA6 
+
+
+Q And were you acquainted with him back in September of 
+1973? 
+
+A Yes, I was. 
+
+Q Okay. Directing your attention to the date of the evening, 
+Saturday evening, September 1 Sth, 1973, did you meet with him 
+somewhere in Orange County? 
+
+A Yes, I met him at a party. ; 
+
+Q Okay. And after you met him at a party, did you go 
+somewhere with him? 
+
+A Yes, a friend and I took him with us. His car wouldn’t 
+Start. 
+
+Q And where did you go? 
+
+A We went to a liquor store first, and then we 
+
+
+[1929] 
+
+
+went to my apartment. 
+
+Q Okay. Sometime later -- was your apartment in the city of 
+Anaheim? 
+
+A Yes, it was. 
+
+Q Okay. Sometime later that evening, did you have occasion 
+to be alone with Mr. Payton? 
+
+A Yes, my -- my friend didn't come up to the apartment. She 
+left. 
+
+Q Okay. And sometime later after that, did you and Mr. 
+Payton go to bed together? 
+
+A Yes, we did. 
+
+Q Did you have sexual relations with him? 
+
+A Uh-huh. Yes. 
+
+Q Okay. After that, did you fall asleep? 
+
+A Yes, I did. 
+
+Q Okay. Did you awake -- did you awake sometime after 
+that? 
+
+A Yes. I woke up and had a knife at my neck. 
+
+Q Okay. And did you see who was holding the knife? 
+
+A Yes, I did. 
+
+
+JA7 
+
+
+Q Who was that? . 
+
+A Mr. Payton. 
+
+Q And what happened after you awoke and saw the knife? 
+
+A I wasn’t quite awake yet, and I -- | don’t know, I just kind 
+of said, you know, “knock it off,” and -- 
+
+
+[1930] 
+
+
+and then the next thing I knew I was being stabbed. 
+Q Okay. Do you know what kind of a knife you were being 
+stabbed with? 
+A It was a -- it was one of my kitchen knives. 
+Q Where were you stabbed? 
+A I was stabbed in my upper right arm and my right chest. 
+Q In your chest. The stab wound to your chest, do you know, 
+was it just a light stab wound or was it a deep stab wound? 
+‘A No. It was a deep wound. 
+Q And how many times total, do you know, you were 
+stabbed? 
+A I’d probably say three or four in my arm and probably a 
+couple times in my chest and -- 
+Q Did it leave -- did the stab wounds leave scars? 
+A Yes. 
+Q Do you still have them today? 
+A Uh-huh. 
+Q At some point did he eventually stop stabbing you? 
+A Yes. I finally got him off of me and I went in to the front 
+room and called the police. 
+Q Were you bleeding? 
+A Yes, I was. 
+Q Did Mr. Payton stay in the apartment? 
+
+
+[1931] 
+
+
+A Yes, he did. 
+Q Did you essentially end up laying down on the floor? 
+
+
+JA8 
+
+
+A Uh-huh, until the police came. 
+
+Q When the police arrived did they give you first aid? 
+
+A Yeah. 
+
+Q The paramedics arrived shortly afterwards? 
+
+A Uh-huh. 
+
+Q Was -- Mr. Payton stayed in the apartment? 
+
+A Yes, he did. 
+
+Q Was he arrested? 
+
+A Uh-huh. 
+
+Q And were you taken to the hospital? 
+
+A Yes, I was. 
+
+Q And how many days did you stay in the hospital? 
+
+A I was -- about two and a half. 
+
+Q At any time that evening prior to your waking up and 
+seeing the knife at your neck, had you had any type of argument 
+with Mr. Payton of any type? 
+
+A No, I didn’t. 
+
+
+Mr. Jacobs: Okay. Thank you. I have no further questions. 
+
+
+The Court: You may inquire, Mr. Merwin. 
+
+
+CROSS EXAMINATION 
+
+
+Q By Mr. Merwin: Mrs. Stone, I gather this came 
+
+
+[1932] 
+
+
+out of the blue as far as you were concerned? 
+
+A Yes. 
+
+Q Had you and Mr. Payton dated before that evening? 
+
+A Yeah, about a year and a half before we had gone out. 
+
+Q Had you lived together for awhile? 
+
+A Yes, we did. 
+
+Q So this wasn’t the first time you had intercourse? 
+
+A No. 
+
+Q What was the general theme of the conversation that 
+evening before you went to bed? 
+
+
+JA9 
+
+
+A We were talking about just old times, the group of people 
+we used to run with, and that was all. 
+
+Q So it was light or pleasant? 
+
+A Uh-huh. 
+
+Q Did Mr. Payton assist in the first aid? 
+
+A Yeah. He put a towel around my arm. 
+
+Q After he was arrested did you go to visit him at the jail? 
+
+A Yes. 
+
+Mr. Merwin: Thank you. I have nothing further -- one last 
+question. 
+
+Q By Mr. Merwin: Had you taken any drugs that evening? 
+
+A No, I hadn't. 
+
+Q To your knowledge had Mr. Payton? 
+
+
+[1933] 
+
+
+A I wasn’t -- I don’t know. I didn’t see him do any. 
+Mr. Merwin: Thank you. I have nothing further. 
+The Court: Mr. Jacobs. 
+
+
+REDIRECT EXAMINATION 
+
+
+Q By Mr. Jacobs: Prior to going to sleep with Mr. Payton, 
+did he seem cognizant, in other words, aware of what he was 
+doing? 
+
+A Yes, he did. 
+
+Q He didn’t have any problems conversing? 
+
+A No. 
+
+Q He seemed intelligible; is that correct? 
+
+A Uh-huh. 
+
+Mr. Jacobs: _I have nothing further. 
+
+The Court: = Mr. Merwin. 
+
+
+RECROSS EXAMINATION 
+
+
+Q By Mr. Merwin: Did he make any statement to you 
+
+
+JA10 
+
+
+indicating what he thought was happening at the time of the 
+stabbing? 
+
+A Like why? 
+
+Q Yes. 
+
+A No. 
+
+Mr. Merwin: Nothing further. 
+
+Mr. Jacobs: Nothing further. 
+
+
+The Court: Thank you, ma’am. You’re excused. Call your 
+next witness. 
+
+
+[1934] 
+
+
+Mr. Jacobs: _ People call Danny Escalera. 
+Daniel Larry Escalera, 
+called as a witness in behalf of the People, having been first 
+duly sworn, was examined and testified as follows: 
+
+The Clerk: —_ State your full name, please. 
+
+The Witness: Daniel Larry Escalera. 
+
+The Clerk: — Spell the last name. 
+
+The Witness: E-S-C-A-L-E-R-A. 
+
+The Clerk: _ Be seated in the witness stand, please. 
+
+Mr. Merwin: Your Honor, before any testimony is taken 
+from the witness, may we have a brief conversation at the bench 
+with the reporter? 
+
+The Court: —_ Certainly. 
+
+(The following proceedings had at the bench between 
+Court and counsel out of the hearing of the jury:) 
+| Mr. Merwin: I'd like to renew my objection to the 
+introduction of any evidence from this witness regarding what 
+amounts to his stated intent to commit future crimes regarding 
+potential future victims, regarding any women regardless of age 
+or appearance. 
+
+I think what we’re doing is allowing through the back 
+door evidence that cannot be properly brought in through the 
+front door, namely, as character evidence or as evidence of 
+intent to commit future crimes. 
+
+
+ete rn oe arin 
+
+
+: 
+; 
+| 
+| 
+
+
+JAI1 
+
+
+The Court: Mr. Jacobs. 
+Mr. Jacobs: Well, the way I phrase the question is 
+
+
+[1935] 
+
+
+his problem, everything I’m talking about is his problem as far 
+as at the time when he committed the offense and that the way 
+he views people and that’s not -- if his attitude at the time of the 
+offense is the type of testimony I’m eliciting, which is what I’m 
+doing, then it’s not -- for one thing, I think character evidence, 
+this is his state of mind that I am trying to get into that shows 
+the reason why the crime took place and that’s the way I phrase 
+the question. 
+
+Mr. Merwin: Excuse me. The reason I think that it’s 
+particularly offensive is that there is no other way to interpret it 
+other than he is or he has the same attitude and he’s projecting 
+forward and everyone in this room and every woman on the 
+street is a potential victim, and I think that’s evidence of an 
+intent to commit future crimes. 
+
+The Court: I think on your cross examination you 
+indicated he still had that intent and so forth. I'll overrule the 
+objection. 
+
+(The following proceedings had in open court in the 
+presence of the jury:) 
+
+
+DIRECT EXAMINATION 
+
+
+Q By Mr. Jacobs: Mr. Escalera, you know the defendant in 
+this case, Mr. Payton? 
+A Yes, I do. 
+~Q Okay. And did you have occasion to be in custody over at 
+
+
+the Orange County jail during the early part of 
+[1936] 
+
+
+this year, 1981? 
+
+
+JA12 
+
+
+A Yes, I was. 
+
+
+Q And were you -- while you were in custody, were you in 
+the same module with the defendant, Mr. Payton? 
+
+
+‘ 
+
+
+A Yes, I was. 
+
+
+Q While you were in custody -- by the -- did you have any : 
+conversations with him about the case he was in custody on? 
+A Yes. 
+
+
+.Q Okay. During what month was that? : 
+A March. 
+
+
+Q Did you have a number of conversations? 
+A Yes, I did. 
+
+
+Q Okay. In those conversations, did he ever tell you the 
+name of the woman’s house where the alleged crimes had taken 
+
+
+place? 
+
+A Yes, he did. 
+
+Q What was her -- what name did he give you? 
+
+A Patty. 
+
+Q Okay. And did he relate to you the facts of the crimes or 
+what he did inside the house? 
+
+A Yes, he did. 
+
+Q Okay. And as part of those conversations with him, did he 
+= * you a reason for committing the acts that he told you 
+about? 
+
+
+A He had a severe problem with sex and women. 
+
+
+[1937] 
+
+
+Q Okay. And did he tell you what that problem was? 
+
+A Stab them and rape them. 
+
+Q Pardon? 
+
+A Stab them and rape them. 
+
+Q Okay. When he told you that, did he tell you whether this 
+applied to some women, all women, or what did he say? 
+
+A He said that all women on the street that he seen was [sic] 
+a potential victim, regardless of age or looks. 
+
+
+JA13 
+
+
+Q Okay. Mr. Escalera, you’ve been previously convicted of 
+felonies, is that correct? 
+
+
+A Yes, I have. 
+
+Q 1969, you were convicted of a felony, possession of 
+forged checks, is that correct? . | 
+
+A Yes. 
+
+
+Q And 1976, you were convicted of attempted robbery, is 
+
+that correct? 
+
+A Yes. 
+
+Q And let me see. You also have a pending robbery which 
+you’ ve pled guilty to, is that correct? 
+
+A Yes, I have. 
+
+Q Okay. That pending robbery, is that still pending as far as 
+sentencing? 
+
+A I’ve pled guilty, and sentencing is pending. 
+
+Q Okay. Have -- as far as any promises to your sentence, 
+what is your understanding about what your sentence 
+
+
+[1938] 
+
+
+could be? 
+A Okay. No -- no actual promise has been made to me. I pled 
+
+
+to one to seven years. I’m hoping that it’s brought to the 
+sentencing judge what I’m about to do. 
+Q Okay. Nobody on the form -- as far as you’re concerned, 
+you could get one to seven, is that correct? 
+-A Yes, sir. 
+Mr. Jacobs: Thank you. I have no further questions. 
+The Court: Mr. Merwin, you may inquire. 
+Mr. Merwin: Thank you. 
+
+
+CROSS EXAMINATION 
+
+
+Q By Mr. Merwin: Mr. Escalera, have you been convicted of 
+any other felonies other than the ones you've mentioned? 
+A 211 twice and -- 
+
+
+JA14 
+
+
+Mr. Jacobs: _(Indicating.) This is the -- 
+
+The Witness: -- forgery. 
+
+Q By Mr. Merwin: That’s robbery, 211? 
+
+A Yes. 
+
+Q Is this current one that you pled guilty to, did that involve 
+use of a knife? 
+
+A Yes, it did. 
+
+Q By you? 
+
+A Yes. 
+
+Q Held to the neck of a victim? 
+
+A Yes. 
+
+
+Q And you understand that the range of your sentence 
+
+
+[1939] 
+
+
+is somewhere between one and seven years? 
+A That’s correct. 
+
+
+Q And you expect what you’re doing here to inure or result 
+in some sort of advantage to you even though there’s no specific 
+promise that that will happen? 
+
+A That’s correct. 
+
+Q You've discussed this case and what you’re doing with 
+this case with your lawyer in your case? 
+
+A Yes. 
+
+Q And he’s informed you he’ll bring this testimony to the 
+attention of the court that sentences you? 
+
+A Yes, he will. 
+
+Q And you’re hoping for the one year? 
+
+A That’s what I’m hoping for. 
+
+Mr. Merwin: Thank you. Nothing further. 
+
+Mr. Jacobs: Nothing further. 
+
+The Court: Thank you, sir. You’re excused. You may call 
+your next witness. 
+
+Mr. Jacobs: _ People rest. 
+
+The Court: You’ re resting at this time then? 
+
+Mr. Jacobs: Yes, your Honor. 
+
+
+JAS 
+
+
+The Court: Ladies and gentlemen, the reason I’m smiling, 
+| hate to tell you we’re going to take a break right now, but the 
+People have rested their particular case at this time. 
+
+I do want to indicate to you in this particular 
+
+
+***#** 
+
+
+[1944] 
+
+
+Santa Ana, California - Wednesday, November 25, 1981 
+Morning Session 
+
+
+(The following proceedings had in open court in the 
+presence of the jury:) 
+The Court: Usual stipulation, gentlemen? 
+Mr. Jacobs: Yes. 
+Mr. Merwin: Yes, your Honor. 
+The Court: Mr. Merwin, do you desire to make an 
+opening statement? 
+Mr. Merwin: No, your Honor. 
+The Court: All right. You may call your first witness. 
+Mr. Merwin: Pastor John Kirk. 
+John 0. Kirk, 
+called as a witness in behalf of the defendant, having been first 
+duly sworn, was examined and testified as follows: . 
+The Clerk: State your full name for the record, sir. 
+The Witness:_ John 0. Kirk. 
+The Clerk: Spell the last name. 
+The Witness: K- I- R- K. 
+The Clerk: Be seated in the witness stand, please. 
+
+
+DIRECT EXAMINATION 
+
+
+Q By Mr. Merwin: What is your profession, sir? 
+A I’ma pastor or minister. 
+Q And what church? 
+
+
+JA16 
+
+
+A Trinity Community, Four Square Church in Buena Park, 
+California. 
+
+
+[1945] 
+
+
+Q How long have you been in the ministry? 
+
+A Since 1935. 
+
+Q So that’s 46 years? 
+
+A Something like that. 
+
+Q How long have you been at this church that you just 
+mentioned in Buena Park? 
+
+A Over 20 years. 
+
+Q You recognize Bill Payton? 
+
+A Yes, I do. 
+
+Q When did you first meet Mr. Payton? 
+
+A Bill became one of the high school young people of our 
+church about ten years ago, ten, 11 years ago. 
+
+Q This is the Trinity Community Church in Buena Park? 
+
+A Right. 
+
+Q Did he come with parents or did he come alone? 
+
+A Came -- came alone. 
+
+Q How long was he involved in your church group? 
+
+A Id say couple years. 
+
+Q Did you -- 
+
+A Possibly one or two years. 
+
+Q Did you form any impressions during that period of his 
+life, 16 to 18 roughly -- 
+
+A Yes. 
+
+
+Q This period you’re talking about? Regarding any of his 
+abilities? 
+
+
+[1946] 
+
+
+A Yes, I -- I -- I felt and appraised Bill as a very bright, 
+articulate young man with charisma and with outstanding 
+potential. 
+
+
+JAI7 
+
+
+Q Did you feel that he was committed to serving the Lord at 
+that point in his life? . 
+
+A No. I never did. I felt that he was uncommitted. 
+
+Q After this two-year period that you've discussed, did you 
+then follow Bill’s progress? 
+
+A No, Bill drifted out of the picture. 
+
+Q Do you know when he left the church what happened to 
+him of your own knowledge? 
+
+A No, I do not. 
+
+Q When was the next time you contacted Bill Payton? 
+
+A Inthe Orange County jail. a 
+
+Q How did you learn that he was in the Orange County jail? 
+
+A A fellow pastor. He had written a fellow pastor, and the 
+pastor knowing that we had had contact with him in his early 
+years contacted me. This pastor telephoned me, and I went to 
+see Bill. 
+
+Q How many different times --? Well, roughly when was 
+that first contact at the Orange County jail? 
+
+A I would say shortly after he was incarcerated, brought back 
+from Florida, maybe a month? Something of that type after he 
+was in jail in 1980. ae 
+
+Q How many times have you seen him at the jail 
+
+
+[1947] 
+
+
+since that occasion? 
+A I would estimate six, eight times. — . 
+(Continued on page 1948; nothing omitted.) 
+
+
+[1948] 
+
+
+Q How long did these interviews last, or these 
+conversations? 
+
+A Maybe an average of 45 minutes face to face, either in a 
+conference room or at the bench there where we had personal 
+face to face conversation. 
+
+
+JA18 
+
+
+Q During these conversations did you discuss religion? 
+
+A Oh, yes. 
+
+Q Have you an opinion now whether or not Bill is 
+committed to serving the Lord? 
+
+A Could I first say something? I felt deeply disappointed in 
+Bill when he was in our church, I felt that -- 
+
+Q Why is that? 
+
+A I felt that Bill had not really lived up to the potential that 
+he could have lived up to with the commitment to the Lord. 
+
+Of course, when I came to the county jail and we began to 
+talk about religion, I sensed a great remorse and regret in Bill 
+for the life that he had -- the things that he had done. 
+
+Q Did you form an opinion based on your interviews with 
+Bill at the jail as to whether or not there’s some change in his 
+life regarding religion? 
+
+- A Yes, I did. I think one of the first things I said to Bill, well, 
+Bill, let’s not have a snow job. We can’t give God a snow job. 
+You can’t give yourself a snow 
+
+
+11949] 
+
+
+job. Let’s not give me a snow job. 
+
+I have felt that Bill had made a commitment of his life to 
+the Lord Jesus according to the New Testament and Bible 
+principles. 
+
+Q Since you brought up the subject of snow job, initially, | 
+infer that’s always a question in your mind whether someone is 
+being sincere or insincere with you when he or she talks about 
+a commitment to religion? 
+
+A I think that’s certainly true. After all, we have to prove our 
+walk. 
+
+Q Did you form an opinion whether or not Bill was sincere 
+about what he was telling you about his change in life regarding 
+religion? 
+
+A I sincerely believe that Bill has made a commitment and 
+that he is sincere in his statement and commitment to the Lord. 
+
+
+JA19 
+
+
+That is my own personal opinion. We can never be a hundred 
+percent sure of anything of another person. 
+aes ee cee ae dente 5 tenia’ 
+percent certain about ourselves. ee 
+Mr. Merwin: Thank you. I have nothing further. 
+Mr. Jacobs: No questions. 
+The Court: Thank you, sir. You are excused. 
+You may call your next witness. 
+Mr. Merwin: Barbara Seglie. 
+Barbara Seglie, 
+called as a witness in behalf of the defendant, having been 
+
+
+[1950] 
+
+
+first duly sworn, was examined and testified as follows: 
+
+The Clerk: State your full name for the record, please. 
+
+The Witness: Barbara Seglie. 
+
+The Clerk: | Would you please spell your first and last 
+name? 
+
+The Witness: B-A-R-B-A-R-A S-E-G-L-I-E. 
+
+The Clerk: | Thank you. Be seated in the witness stand, 
+please. 
+
+
+DIRECT EXAMINATION 
+
+
+Q By Mr. Merwin: Barbara, you’ ve attended the trial in this 
+matter? ~ 
+
+A Yes. . 
+
+Q When did you first meet Bill Payton? 
+
+A In May of 1981. 
+
+Q At that time were you involved in a local church here in 
+Santa Ana? ae 
+
+A Yes. 1am ona voluntary staff as Missions Director for the 
+Eagles Nest Christian Fellowship. . 
+
+(Continued on page 1951; nothing omitted.) 
+
+
+JA20 
+
+
+[1951] 
+
+
+Q Where is that located? 
+
+_ A In Santa Ana on Edinger. 
+
+Q How many members or constituents are there? 
+
+A There are 3,000 or more. 
+
+Q How long has that church been in existence, to your 
+knowledge? 
+
+A The last three years. , 
+
+Q What are your responsibilities as Missions Director and 
+counselor at that church? 
+
+A Well, I’m responsible for administrating about seven 
+outreaches there at the church which consists of the prison 
+ministry, the orphanage, the missionary outreach, convalescent 
+homes, witnessing and things of this type as far -- and also 
+storage of food and clothing which we distribute to the poor. 
+
+Q How did you first come in contact with Mr. Payton? 
+
+A Mr. Payton had called me because he received a 
+publication from the church, I think from another inmate’s wife, 
+who attended our church. And so he called the church in the 
+hopes of getting some counseling and some Christian fellowship 
+and instruction as to the Bible. 
+
+Q When did this first contact with the church from Mr. 
+Payton occur? 
+
+A In May. 
+
+Q In May of this last year? 
+
+A Of ‘81, yes. 
+
+
+[1952] 
+
+
+Q Did you go to see him at the jail? 
+A Yes, I did. 
+Q How many times have you seen Mr. Payton at the jail? 
+
+
+A I would say about 15 times. I don’t have an exact number 
+on it. 
+
+
+Q Now, where do you talk to him at the jail? 
+
+
+JA21 
+
+
+A I go to the attorney bonds section where you can either 
+have a closed-in booth and talk privately or it’s over a -- a 
+counter-type situation. 
+
+Q When you go, do you go by yourself or do you go with 
+someone else? 
+
+A Ihave gone by myself and I like to bring a male counselor 
+with me so that he would have some kind of contact with a man 
+of his age who is serving the Lord on the outside so he would 
+have an example. 
+
+Q How long do these interviews or conversations with Mr. 
+Payton normally last? 
+
+A Well, we generally have a freedom. So they could go 
+anywhere from two to five hours, and they have generally gone 
+that long. 
+
+Q What topics are discussed during these conversations? 
+
+A Well, generally Mr. Payton has a number of questions 
+pertaining to scripture, Bible studies and things of this type that 
+would enable him to serve the Lord in a greater 
+
+
+[1953] 
+
+
+capacity as far as prayer and worship and counseling and 
+instructing others within the prison. 
+
+Q During these conversations or interviews, does he become 
+involved or is he sitting there listening to you talk? 
+
+A It’s a two-way conversation. 
+
+Q Is there any question-and-answer aspect of these 
+conversations? 
+
+A Oh, yes, generally. It’s a -- a normal conversation, instruct 
+-- in answer to his questions, and we ask questions as well. 
+
+Q What types of questions does Mr. Payton present? 
+
+A Well, he has questions as to the Holy Spirit anc learning 
+about the spirit of God, how to pray, how to worship God, what 
+-- what would be necessary to take a life, like such as his own, 
+and consecrate it to God’s work and what kind of manner of 
+person he would have to be to serve the Lord. 
+
+
+JA22 
+
+
+Q You familiar with a correspondence Bible college, Rhema 
+Bible College in Oklahoma? 
+
+A Yes, it’s one of the most reknowned [sic] Bible colleges 
+in the United States. And Mr. Payton was accepted by that 
+university in correspondence course, and which I believe he has 
+just started. 
+
+
+Q Now, you said that’s reknowned [sic]. Is that well 
+regarded -- 
+
+
+[1954] 
+
+
+Or -- 
+
+A Yes, yes. It’s a very well regarded university in the United 
+States. In Tulsa, Oklahoma. 
+
+Q What makes you believe he’s been accepted? 
+
+A Well, I’ve -- I’ve received the letter and his lessons which 
+have been given to him. So I saw the letter from Kenneth Hagen 
+accepting him and stating that if he did not have the funds to 
+pay for the -- the course, that it was okay. If any funds would 
+come in, they would accept it, but there would be no charge 
+otherwise. 
+
+Q Has Mr. Payton told you anything about a change in his 
+life relative to religion or faith? 
+
+A Oh, definitely. I'd say tnat that’s been the primary 
+motivating force within his life now that he’s been incarcerated. 
+And that’s -- definitely has changed his life. 
+
+Q In what way? 
+
+A Well, as opposed to being a self-centered person, he has 
+now become a selfless person in that he seeks to serve God. 
+He’s consecrated his life to God in that he’s not only accepted 
+a statement of the faith but he is taking that faith and applying 
+it in action by witnessing and establishing Bible studies and 
+quite an extensive outreach as far as Bible tracks and literature 
+for the other inmates. 
+
+
+Q Let me back up a moment. 
+A Uh-huh. 
+
+
+JA23 
+
+
+Q Now, we’re all, I’m sure, aware that he could 
+[1955] 
+
+
+be telling you that there’s been a change in his life. 
+
+A Uh-huh. 
+
+Q Regarding his faith. And it could be false. I mean, that’s 
+possible. 
+
+A Uh-huh. 
+
+Q Do you think he’s sincere? 
+
+A Yes. 
+
+Q Why do you think he’s sincere? 
+
+A The quality of his questions are in depth. His knowledge 
+of the scriptures is extensive. ' 
+
+(Continued on page 1956; nothing omitted.) 
+
+
+[1956] 
+
+
+He has a good knowledge over ihe last year to not only 
+memorize the Scriptures but apply them in certain problem 
+situations, and that’s taking his faith and applying it. 
+
+Q You mentioned that he’s setting up Bible classes? - 
+A Uh-huh, within the -- within the different tiers at the jail 
+re. 
+7 He has Bible studies, I don’t know what nights, | think 
+perhaps Monday night he said recently -- he just had a very 
+successful Bible study on Monday night and he has sometimes 
+15 other inmates there. 
+
+I have on several occasions met with him and a couple of 
+the other inmates that he has led to Christ in the hopes of 
+instructing all them together. 
+
+So I’ve always seen him with other inmates in regard to 
+his Christian walk at this point. . 
+
+Q Where does this joint conversation or interview occur? 
+A In the attorney bonds section of the jail. 
+
+
+JA24 
+
+
+Q So you would be present with Mr. Payton and other 
+inmates? 
+A Other inmates and usually another counselor. 
+
+
+Q So you’ve had a chance to observe his interaction with 
+these others? 
+
+
+A Yes. 
+Q What sort of conversation or what sort of statements 
+
+
+[1957] 
+
+
+was Bill making during these joint interviews? 
+
+A Well, he might assist the -- one of the other inmates if they 
+were having a particular question to -- if the next gentleman had 
+a question on -- in his studies, maybe he wasn’t quite as literate 
+as Mr. Payton, so he would kind of enhance him so that I would 
+understand what problem he was having with the -- with his 
+walk, with his studies. 
+
+Q You said one of the things he’s doing is witnessing. What 
+do you mean by that? 
+
+A Witnessing is declaring your faith and your faith in Jesus 
+Christ and how that faith has changed your life from an old life, 
+an old dead spiritual life to a new one in the hope of what we 
+attain to, which is to spend eternity with God. 
+
+Q What makes you believe he’s witnessing in that sense? 
+
+A I have quite a few letters which he witnesses to other 
+people in other jails. He’s corresponding to them and plus the 
+fact that I have names of other inmates that he has led to the 
+Lord and I’ve also been with him with these other inmates. 
+
+Q So you have letters from Mr. Payton to other inmates? 
+
+A No. From the responses. 
+
+Q And where are these other inmates located? 
+
+A In various jails, prisons around the area. 
+
+
+JA25 
+
+
+[1958] 
+
+
+Q Since your first contact with Mr. Payton here in the 
+Orange County jail, have you seen any changes in him? 
+
+A Yes, I definitely have. 
+
+Q What changes? 
+
+A | find that he’s definitely matured and mellowed, if that 
+would be a common word. He’s been -- become more serious 
+and more self-disciplined. 
+
+Q How do you mean self-disciplined? 
+
+A Well, in his course of studies, he not only studies the Bible 
+but I believe he completed some calculus courses. He’s set up 
+a program of exercise. He has written extensively and has 
+completed, just about completed an autobiography which has an 
+excellent chance of being published in an international -- 
+published from an international Christian publishing house. 
+
+Q What makes you think that? 
+
+A Becatise I’ve been in contact with that publishing 
+company and they may, in fact, want to come down to the jail 
+and interview him before he is sent wherever he is sent. 
+
+Q Is there any other ways in which you've seen changes in 
+Mr. Payton? 
+
+A Inthe -- not only in the questions initially when | first met 
+him where it would be -- he was interested in his own personal 
+interest, and how he could become a better Christian, but now 
+his questions not only incorporate his own, but in others. He 
+wants to make sure the other inmates 
+
+
+[1959] 
+
+
+have their questions answered as well. 
+
+He’s set about goals, you know, he’s kind of taken his 
+mind off the problem situation of the trial and applied it to what 
+he can be as a Christian and developing a ministry within the 
+prison system that would totally rehabilitate prisoners, not as it 
+has been in the past by the state rehabilitation systems. 
+
+
+JA26 
+
+
+Q When he tells you that is his goal he’s set for himself, do 
+you think he’s sincere? 
+
+A Yes. 
+
+Q How would you describe his relationship with the other 
+inmates insofar as you are aware of? 
+
+A It seems to me that he gets along fairly amiably with a 
+good portion of them. He seems to be a leader in the sense that 
+from what I understand, the number of gentlemen come up to 
+him and situations where they are having problems with sins or 
+maybe their wives have left them in the course of while they are 
+staying in prison, and they generally come to Bill for 
+counseling. And that puts him in a leadership or a teaching 
+position, and I would say that would mean a good portion of the 
+inmates respect him and trust him and have a confidence in him. 
+
+Q Now, we’ ve talked about some face-to-face conversations 
+ooh had with him. Have you had any correspondence with 
+
+im? 
+A Uh-huh. Yes, I have. 
+
+
+[1960] 
+
+
+Q Does he write to you? 
+
+A Yes, he does. He writes letters. 
+
+Q Do you have any of the letters he’s written that reflect his 
+style of writing or his ability of writing? 
+
+A Yes. I have a couple of excerpts from his autobiography 
+and | also have his personal journal which he entrusted to me 
+because I guess there was some kind of situation in the jail 
+where his writings were being discarded by some of the guards 
+= he wanted to make sure they were preserved and in a safe 
+place. 
+
+Q Do you have some samples of this writing with you? 
+
+A Yes, I do. 
+
+Mr. Merwin: If the Court has no objection, I’d like to have 
+these read, and I am offering them for the style they reflect. 
+
+The Court: _—‘ They will be received. 
+
+
+JA27 
+
+
+The Witness: Should I read some? 
+
+Q By Mr. Merwin: Yes. 
+
+A This is written in his own hand. I take it they’re not 
+allowed to use pen, so it’s all written in pencil and I don’t 
+believe he knew that I would -- somebody would have these, but 
+I do have them now. 
+
+This is a little section of when he arrived in his platoon in 
+Vietnam, when he first arrived. 
+(Continued on page 1961; nothing omitted.) 
+
+
+[1961] 
+
+
+“As my platoon stood helplessly lost beside a C-140 
+transporter, I couldn’t help thinking how ridiculous, lamely, 
+even naively we must have looked. We all definitely were new 
+meat to Vietnam, and everyone who looked upon us knew it. 
+There’s something about having every item on your person 
+being new that makes you ill. New fatigues, packs, weapons, 
+even new shorts. For the present time, we were cherries and 
+would remain so until the struggles of monsoons had seasoned 
+us and the smell of battle had matured our thinking. Ugly but so 
+very accurate. 
+
+“Scanning the ocean, it was impossible not to notice the 
+constant pressure of tension, the possibility of anything possible 
+happening. To look into the eyes of one who had spent much 
+time in this rain soaked, humid land of 30 years of war was a 
+scare -- was a story in itself. 
+
+“If you were 20, your chances of appearing 30 --30 years 
+old upon departure were about the norm. They all looked tired. 
+They all looked ready to go home. So they were. For this was 
+the reception center. Cam Ranh Bay, Vietnam. Those leaving 
+and those who arrived came here.” 
+
+Here’s another section. I believe this took place when he 
+had fled to Florida. And he -- he -- this is just something -- this 
+is all written, of course, after the fact. 
+
+
+JA28 
+
+
+“As I sat pushing my feet deep into the sun warmed sand, 
+I allowed my eyes to wander and extend their sight to as far 
+across the water as possible. So this is it. The 
+
+
+[1962] 
+
+
+Atlantic Ocean. While the gleaming reflections caused my 
+eyelids to lower as much as possible, I didn’t want to stop my 
+stare. 
+
+“There was a moment’s peace for the first time in weeks, 
+wondering how God must have felt upon his creating this 
+beautiful body of water. I -- my thoughts came to a halt at the 
+view of a large school of whale -- seals barking their way 
+through the ocean current, how my sole instantly yearned to be 
+with them. Bounding our way south, twisting and weaving with 
+precise precision. Life for them was nothing but fun while fish 
+hunting.” 
+
+And that’s -- those are two excerpts from his 
+autobiography. 
+
+Q If the jury returns a verdict of life without possibility of 
+parole, do you think there’s any valuable contribution Bill 
+Payton can make within a prison system? 
+
+A Most definitely. 
+
+Q What? 
+
+A Most prison ministries or -- or therapy situations only take 
+place between the therapist and the patient or the minister and -- 
+and the prisoner. And once that situation 
+is ended, one-on-one situation, the minister would leave. 
+
+But if -- if he were allowed to develop this ministry, it 
+would be valuable -- invaluable as far as he is in the system. He 
+would be in the environment. And he would be a 24-hour-a-day 
+availability to counsel with men. 
+
+
+[1963] 
+
+
+And plus, men learn by examples. And if he could be an 
+
+
+JA29 
+
+
+example to others, the strength of faith and dedication of his 
+talent in the development of God given abilities, to win people 
+to Christ, to change their lives, I think it would be invaluable. It 
+would be something that had -- wouldn’t -- has never been done 
+in the -- in the penal system as far as rehabilitation, total 
+rehabilitation of a criminal. 
+
+Q Do you intend to continue to assist Mr. Payton in his 
+ministry in the prison? 
+
+A Yes, I do. 
+
+Mr. Merwin: Thank you. I have nothing further. 
+
+The Court: Any questions? 
+
+Mr. Jacobs: Justa few. 
+
+
+CROSS EXAMINATION 
+
+
+Q By Mr. Jacobs: When was the last time you met with Mr. 
+Payton and discussed religion prior to today? 
+
+A It was Monday night, I think. 
+
+Q Yesterday? 
+
+A Wait a minute. Not yesterday. Sunday night, yeah. 
+
+Q Sunday night? 
+
+A Yeah. 
+
+Q When was the last time you met with the defendant and 
+other inmates to discuss religion? 
+
+A I think it was in July. 
+
+Q Okay. So since July, you haven't met with the 
+
+
+[1964] 
+
+
+defendant and any other inmates in these, like, group sessions, 
+is that correct? 
+
+A I don’t think so, no. 
+
+Q Okay. Now, you talked to Mr. Payton then Monday, and 
+that was after the verdict had come in on this case, is that 
+correct? 
+
+A Uh-huh. 
+
+
+JA30 
+
+
+Q Atthat time, did Mr. Payton express to you whether or not 
+he could -- he had planned on continuing these religious plans 
+of his? 
+
+A_ Definitely. 
+
+Q What did he say? Did he say he was going to keep doing 
+it? 
+
+A Asa matter of fact, he didn’t dwell on the verdict. He -- 
+we focused in on the future of the work to make sure before he 
+left everything would be taken care of. 
+
+_Q Did he talk to you about testifying? 
+
+A He didn’t know whether he was testifying or not. 
+
+Q No, whether you would testify. 
+
+A It was always a possibility, but I didn’t know really until -- 
+until Sunday night that | would be testifying. 
+
+Q Mr. Payton ever talk to you about testifying? 
+
+A He asked me if he thought -- if 1 was sure | would want to 
+testify. 
+
+Q When was the subject first broached between the two of 
+you? 
+
+
+[1965] 
+
+
+A That -- 
+
+Q If you can -- 
+
+A Ican’t really recall that. 
+
+Q Can you say whether it was months ago or yesterday or -- 
+do you know what I mean? 
+
+A I think it was more recently. 
+
+Q Within a month or so, would that sound right? 
+
+A Asa possibility of testifying, yes. 
+
+Q Now, you -- I think you testified that your opinion at this 
+present time, you think that the defendant is basically a self -- a 
+selfless religious person, is that what you think? 
+
+A I don’t like to use the term religion because that puts one 
+in the norm. It’s a -- a statement of faith and living of faith, and 
+I would say yes. 
+
+
+JA31 
+
+
+Q Let’s just say selfless then. Okay? 
+
+A Yes. 
+
+Q Do you think he’s self -- do you think if he was on the 
+streets today, he’d be selfless? 
+
+A Uh-huh. 
+
+Q You think so? 
+
+A Yes. : 
+
+Q Ordo you think he’s selfless because he’s facing the death 
+penalty? 
+
+A No, I think in the situation of a death penalty, many men 
+revert to their own self-pity. 
+
+
+[1966] 
+
+
+Q You think he ever would have contacted you if he wasn't 
+facing the death penalty? 
+
+Mr. Merwin: Objection, speculation. 
+
+The Court: Sustained. 
+
+Mr. Jacobs: _ I have nothing further. 
+
+The Court: Anything further? 
+
+Mr. Jacobs: No. 
+
+Mr. Merwin: No, your Honor. 
+
+The Court: | May she be excused? 
+
+Mr. Merwin: Yes. 
+
+The Court: Thank you. You are excused. 
+
+The Witness: Thank you. 
+
+Mr. Merwin: The other witnesses I had planned to call today 
+are not available today. 
+
+The Court: Do you expect them to be ready Monday? 
+
+Mr. Merwin: I expect them to be. 
+
+The Court: Ladies and gentlemen, | indicated, as | 
+outlined, that the case will probably conclude Monday and the 
+balance of the witnesses, unless we run into a problem, | don’t 
+anticipate we will, so again you've had a short day and | will 
+thank and excuse you until Monday at 9:00 o'clock, and I 
+anticipate we will conclude the case on Monday unless for some 
+
+
+JA32 
+
+
+reason we have a problem and which we don’t perceive at this 
+time. 
+
+So I do want to admonish you it’s your duty not to 
+converse among yourselves or with anyone else the subject 
+
+
+[1969] 
+
+
+Santa Ana, California - Monday, November 30, 1981 
+Morning Session 
+(The following proceedings had in open court in the 
+
+presence of the jury:) 
+
+The Court: | Good morning, ladies and gentlemen. Usual 
+stipulation, gentlemen? 
+
+Mr. Jacobs: Yes. 
+
+Mr. Merwin: Yes, your Honor. 
+
+The Court: You may proceed, Mr. Merwin. 
+
+Mr. Merwin: We will call Phillip Arellano, and the next 
+witness -- 
+
+Phillip Robert Arellano, 
+
+called as a witness in behalf of the defendant, having been first 
+duly sworn, was examined and testified as follows: 
+
+The Clerk: | Would you state and spell your full name, 
+please. 
+
+The Witness: Phillip Robert Arellano, A-R-E-L-L-A-N-O. 
+
+The Clerk: | Would you spell Phillip? 
+
+The Witness: P- H- I- L- L- I- P. 
+
+The Clerk: Thank you. Be seated in the witness stand, 
+please. . 
+
+(Continued on page 1970; nothing omitted.) 
+
+
+JA33 
+
+
+[1970] 
+DIRECT EXAMINATION 
+
+
+Q By Mr. Merwin: Mr. Arellano, do you recognize Bill 
+Payton? 
+
+A Yes, I do. 
+
+Q Where did you meet Bill? 
+
+A In the Orange County jail. 
+
+Q When was that? 
+
+A Last April. 
+
+Q April of 1980? 
+
+A 1981. 
+
+Q 1981. How long -- were you housed with Mr. Payton? 
+
+A I was downstairs, and he was upstairs. 
+
+Q How many times did you see him in the Orange County 
+jail? 
+
+A Almost every day. 
+
+Q Did you discuss religion with him? 
+
+A Yes, we did. 
+
+Q Did he indicate to you that he considered himself born 
+again? 
+
+A Yes, he did. 
+
+Q Or committed to a faith? 
+
+A Yes. 
+
+Q Did this discussion occur frequently or infrequently? 
+
+A We talked about it all the time. 
+
+Q In your opinion, was he sincere? 
+
+
+(1971] 
+
+
+A Yes. 
+
+Q Did you discuss Bible matters? 
+
+A Uh-huh, yes. 
+
+Q Did he have any influence on you while you were in the 
+Orange County jail? 
+
+A He brought me closer to God. 
+
+
+JA34 
+
+
+Q And how did that occur? 
+
+A By having Bible studies with me and praying. 
+
+Q Did you see his interaction with other inmates? 
+
+A Yes. 
+
+Q How would you describe that? 
+
+A I think he had a very good influence on others in there. 
+
+Q Did he seem to have a calming influence on other 
+inmates? 
+
+A Yes. 
+
+Q During these discussions, did you and Bill discuss his 
+feelings toward religion? 
+
+A Yes. 
+
+Q Your feelings toward religion? 
+
+A Yes. 
+
+Q And you felt that he brought you closer -- 
+
+A Uh-huh. 
+
+Q -- to God? 
+
+A Yes. 
+
+Mr. Merwin: I have nothing further. Thank you. 
+
+
+[1972] 
+
+
+The Court: You may inquire. 
+Mr. Jacobs: Could we approach the bench for a second? 
+The Court: Surely. 
+Mr. Jacobs: _| don’t think we need the reporter. 
+The Court: Need the reporter, gentlemen? 
+Mr. Jacobs: _I don’t think so. 
+(Continued on page 1973; nothing omitted.) 
+
+
+[1973] 
+
+
+(Discussion between Court and counsel at the bench out 
+of the hearing of the jury and reporter.) 
+
+(The following proceedings had in open court in the 
+presence of the jury:) 
+
+
+JA35 
+
+
+The Court: Miss reporter, will you please come to the 
+
+bench. 
+(The following proceedings had at the bench between 
+Court and counsel out of the hearing of the jury:) 
+The Court: | Okay. Mr. Jacobs. 
+Mr. Jacobs: Two things I want to get the Court’s ruling. 
+First of all, | wanted to ask this witness what charge he 
+was in on and if he was convicted of it, and I believe there’s an 
+objection to those questions, 
+
+The Court: | Well, you can ask if he’s been convicted of a 
+felony. Otherwise, I think we get into misdemeanor areas or 
+some other area. 
+
+Mr. Merwin: The nature of the felony | think is 
+inadmissible, too. 
+
+Mr. Jacobs: Do you know what it is? 
+
+Mr. Merwin: Yes, I do. It’s 288(a). 
+
+The Court: Well, you can inquire whether he’s been 
+convicted of a felony and limit it to that and not go into the 
+nature of it. 
+
+Mr. Jacobs: The other things I wanted to ask about, I have 
+information, although I did not intend to call witnesses, that the 
+defendant, besides his religious teaching, 
+
+
+= *s**** 
+
+
+[1978] 
+
+
+mislead the jury where we have a question, negative answer, but 
+the question is pregnant with a positive answer or the 
+implication of a positive answer. 
+Mr. Jacobs: It may be that I’m going to have very 
+probative rebuttal evidence on that. I can’t be sure, your Honor. 
+The Court: _I’ll overrule the objections, gentlemen. I'll 
+note the objections. 
+All right. We’ ll bring the jury back in. 
+(The following proceedings had in open court in the 
+presence of the jury:) 
+
+
+JA36 
+
+
+The Court: You may inquire. 
+Phillip Robert Arellano, 
+called as a witness in behalf of the defendant, having been 
+previously duly sworn, was further examined and testified as 
+follows: 
+
+
+OSS E INAT 
+
+
+Q ByMr. Jacobs: Mr. Arellano, you were in custody, I take 
+it, in the same module with the defendant from April though 
+August of 1981, is that correct? 
+
+A Yes, that’s night. 
+
+Q And you testified you saw him engaged in various 
+religious activities while you were there with him, is that 
+correct? 
+
+A Yes. 
+
+Q In addition to these religious activities, did 
+
+
+[1979] 
+
+
+you also have a -- see him -- have occasion to see him gambling 
+in the day room with other prisoners? 
+
+A Iseen him. 
+
+Q You saw him do that, didn’t you? 
+
+A (Witness nods head in the affirmative.) 
+
+Q Did he do that -- he did that rather frequently, didn’t he? 
+
+A I wouldn’t know, because I didn’t come out of my cell a 
+lot of times. 
+
+Q But you did see him gambling, right? 
+
+A Yes. 
+
+Q Okay. Now, did you ever have occasion to hear or see the 
+defendant extract money from other inmates to make telephone 
+calls? 
+
+A No. 
+
+Q You never saw anything like that? 
+
+A No. 
+
+
+JA37 
+
+
+Q You're sure about that? 
+
+A Yes. 
+
+Mr. Jacobs: _I have nothing further. 
+
+The Court: = Mr. Merwin? 
+
+Mr. Merwin: No further questions. 
+
+The Court: Witness be excused? 
+
+Mr. Merwin: Yes. 
+
+The Court: Thank you, sir. You’re excused. Thank you. 
+Mr. Merwin: Call Dennis Howie. 
+
+
+[1980] 
+
+
+Dennis Ray Howie, 
+called as a witness in behalf of the defendant, having been first 
+duly sworn, was examined and testified as follows: 
+
+The Witness: I can’t swear on anything because it tells you 
+in the Bible not to swear on anything, but I will declare. I will 
+declare that what I say is the truth. 
+
+The Clerk: — Under the pain and penalty of perjury? 
+
+The Witness: Sure. 
+
+The Clerk: — State your full name for the record, sir. 
+
+The Witness: Dennis Ray Howie. 
+
+The Clerk: Would you spell your last name? 
+
+The Witness: H-O-W-I-E. 
+
+The Clerk: Thank you. Be seated in the witness stand, 
+please. 
+
+
+DIRECT EXAMINATION 
+
+
+Q By Mr. Merwin: Mr. Howie, do you know Bill Payton? 
+A Yes, sir, I do. 
+
+Q When did you meet him? 
+
+A Approximately four months ago. 
+
+Q Where? 
+
+A In the Orange County jail. 
+
+
+JA38 
+
+
+Q How many times have you had conversation with Mr. 
+Payton since then? 
+
+A Approximately 10 or 12 times, somewhere around there. 
+
+Q Any of those conversations relate to religious 
+
+
+[1981] 
+
+
+topics? 
+
+A Almost all of them do. 
+
+Q Has he in any of those conversations indicated he is born 
+again? 
+
+A Yes, he has. I know he has. 
+
+Q Do you take him to be sincere? 
+
+A Yes, I do. 
+
+Mr. Merwin: I don’t have anything further. Thank you. 
+
+Mr. Jacobs: _I have no questions. 
+
+The Court: Thank you, sir. You are excused. 
+
+Mr. Merwin: Keith Dandley. 
+
+Keith Douglas Dandley, 
+
+called as a witness in behalf of the defendant, having been first 
+duly sworn, was examined and testified as follows: 
+
+The Clerk: State your full name for the record. 
+
+The Witness: Keith Deuglas Dandley. 
+
+The Clerk: | Would you spell your first and last name. 
+
+The Witness: Keith, K-E-I-T-H. D-A-N-D-L-E-Y. 
+
+
+DIRECT EXAMINATION 
+
+
+Q By Mr. Merwin: Mr. Dandley, do you know Bill Payton? 
+A Yes. 
+
+Q When did you first meet Mr. Payton? 
+
+A July Ist, 1981. 
+
+Q Where? 
+
+A Orange County jail, mod-A. 
+
+
+JA39 
+
+
+[1982] 
+
+
+Q Did you live in the same mod for awhile? 
+A Yes. 
+
+
+Q For how long? 
+
+A About two months. 
+
+Q Then did you live in different mods for awhile? 
+
+A Yes. 
+
+Q How long? 
+
+A For about two more months. Now Bill’s back down in my 
+mod again. 
+
+Q Okay. How many contacts would you say you’ ve had with 
+Bill Payton since July Ist, 1981? 
+
+A Every day that we were living together and then when he 
+moved I didn’t, of course, have any contact with him except for 
+right when we were coming to court, and then every day for the 
+last month. 
+
+Q Would you say you’ ve had hundreds of contacts with him?- 
+
+A Yes. 
+
+Q Is religion frequently discussed between you and Bill? 
+
+A All the time. 
+
+Q Does Bill indicate to you that he’s been born again? 
+
+A Yes. 
+
+Q You think he’s sincere? 
+
+A Yes. 
+
+
+[1983] 
+
+
+Q Why? , 
+
+A You can tell. He lives the word of the Bible. He doesn’t 
+use any foul language. He doesn’t do anything to harm anybody. 
+He likes people. He’s always trying to help people out. He 
+helped me. 
+
+Q How did he help you? 
+
+A He saved my life. 
+
+(Continued on page 1984; nothing omitted.) 
+
+
+JA40 
+
+
+[1984] 
+
+
+Q How? 
+
+A I was going to commit suicide when I| got to Orange 
+County jail. 
+
+Q How did he help -- 
+
+A And-- 
+
+Q -- with that problem? 
+
+A Bill showed me the way to the Lord Jesus Christ. And 
+fortunately for myself, | have -- 1 didn’t have to commit suicide. 
+
+Q And you attribute that change in your own thinking on 
+suicide to Bill Payton? 
+
+A Yes. I didn’t have anything left to live for until I found the 
+Lord, and Bill showed me the Lord. 
+
+Q Have you seen Bill’s interaction with other inmates? 
+
+A Yes. 
+
+Q How would you describe that? 
+
+A Excellent. 
+
+Q Does Bill have a calming effect on the mod that he’s in? 
+
+A Yes. When he moved from our mod up to D-mod, the 
+whole mod fell apart. 
+
+Q What do you mean by that? 
+
+A Well, about the first week he was gone, four or five fights 
+broke -- broke out. People were on everybody's nerves. But 
+while he was there, we didn’t have as much as 
+
+
+[1985] 
+
+
+one incident of any of those things going on. 
+
+Q After he returned to the same mod you were in, what was 
+the -- his impact or his apparent impact on that? 
+
+A Everything is calm again. It’s the Lord working through 
+Bill. Wherever Bill is, the Lord -- the Lord is. And it has a 
+calming effect on everybody. 
+
+Q You think Bill would be a positive influence on other 
+inmates if he served a sentence of life in prison? 
+
+
+JA41 
+
+
+A I think Bill would be positive influence wherever he was 
+at. 
+
+
+Mr. Merwin: Thank you. I don’t have anything further. 
+
+
+CROSS EXAMINATION 
+
+
+Q By Mr. Jacobs: You say the defendant in your word lives 
+the word of the Bible? 
+
+A Yes. 
+
+Q That’s -- he gambles, though, doesn’t he? 
+
+A No, he doesn’t. 
+
+Q You never seen him gamble in the day room with other 
+prisoners? 
+
+A No, I haven't 
+
+Q And-yeu've seen him every day? 
+
+A Yes. 
+
+Q How about -- has he -- you ever see him extract money 
+from other prisoners for telephone calls? 
+
+A No. Never. 
+
+Q Never saw that once? 
+
+
+[1986] 
+
+
+A No. 
+
+Q You're sure about that? 
+
+A Positive. I got many phone calls from Bill Payton, and I 
+never had to pay a dime. 
+
+Q You didn’t have to pay for that? 
+
+A Sure didn’t. 
+
+Mr. Jacobs: I have nothing further. 
+
+
+REDIRECT EXAMINATION 
+
+
+Q By Mr. Merwin: Is Bill generous with things that he has? 
+A IfIdon’t have any cigarettes or candy, whatever Bill’s got, 
+I’ve got. That’s the way it’s been ever since I’ve known him. 
+
+
+JA42 
+
+
+Mr. Merwin: Thank you. I have nothing further. 
+
+Mr. Jacobs: Nothing further. 
+
+The Court: You’re excused, sir. Thank you. 
+
+Mr. Merwin: Could we havea brief conference at the bench 
+with the reporter? 
+
+The Court: Surely. Miss Reporter. 
+
+Mr. Merwin: Mr. Payton would like to be present. Maybe 
+we can do this in chambers. 
+
+The Court: — All right. 
+
+(The following proceedings had in chambers, court, both 
+counsel and the defendant present: ) 
+
+The Court: | We're in chambers out of the presence of the 
+jury. Mr. Merwin? 
+
+
+“s**t * © 
+
+
+[1998] 
+
+
+(The following proceedings had in open court in the 
+
+presence of the jury:) 
+
+Mr. Merwin: I think we've gotten as far as Mr. Palko’s 
+name is my recollection. 
+
+The Court: You may proceed. 
+
+Bruno Martin Palko, 
+
+called as a witness in behalf of the defendant, having been 
+previously duly sworn, was examined and testified as follows: 
+
+
+DIRECT EXAMINATION 
+
+
+Q By Mr. Merwin: Mr. Palko, do you know Bill Payton 
+A Yes, I do. 
+
+Q Where did you meet him? 
+
+A Orange County jail. 
+
+Q When? 
+
+A I believe the last part of °79 or the first part of "80. 
+Q Were you in the same living area? 
+
+
+JA43 
+
+
+A Yes, I was. 
+
+Q What area was that? 
+
+A Mod-A. 
+
+Q How long did you live in the same mod with Bill? 
+A Approximately a year. 
+
+Q Did you contact him every day? 
+
+A Yes, I did. 
+
+Q Did you talk to him frequently? 
+
+A Yes, I did. 
+
+
+[1999] 
+
+
+Q Did you talk to him frequently? 
+A Yes, I did. 
+Q Any of those discussions center around religion? 
+A Yes. | 
+On his religious views? 
+Yes. 
+On yours? 
+Yes. 
+Did he indicate that he had been born again? 
+Yes. 
+Did you take him to be sincere? 
+Yes, I did. 
+Why? 
+When | first met Bill Payton before he was a Christian, he 
+was -- his voice seemed to be more loud, you know, and then 
+after he accepted the Lord, he was very gentle spoken, easy 
+going type person. 
+Q Did you see his interaction with other inmates during the 
+year that you and he were together? 
+A Yes, | have. 
+Q How would you describe that impact on other inmates? 
+A He was helpful as far as I'm concerned. He was helpful to 
+me and he always, if there was any kind of disturbance in the 
+tank, we would try to -- Bill and myself would try to work out 
+
+
+ee ee ee ee 
+
+
+JA44 
+
+
+where the police didn’t have to come down and shake down our 
+houses and so on. 
+
+
+[2000] 
+
+
+Q Did he have a calming influence on the other inmates? 
+
+A Yes. 
+
+Q Where are you located now? 
+
+A [I'm in Chino Prison. 
+
+Q That's state prison as opposed to the jail? 
+
+A Yes. 
+
+Q Were you convicted of a felony and that’s what sent you 
+to state prison? 
+
+A Yes, sir. 
+
+Q Do you feel Bill Payton would have a positive influence 
+on other inmates in prison? 
+
+A Yes, I do. 
+
+Mr. Merwin: Nothing further. 
+
+Mr. Jacobs No questions. 
+
+The Court: Thank you. The witness may be excused. 
+Thank you. 
+
+Mr. Merwin: Brian Miller. ; 
+
+The Court: Before you call the witness, excuse the jury for 
+about two minutes at this time. 
+
+(The following proceedings had in open court out of the 
+presence of the jury:) 
+
+The Court: We're on the record. I do want, so there's no 
+confusion and so forth as far as Mr. Jacobs, you're concerned, 
+in view of testimony that’s being elicited, I have no -- as I said, 
+I think it’s proper, as | said, as 
+
+
+*s*** 
+
+
+[2006] 
+
+
+(The following proceedings had in open court in the 
+presence of the jury:) 
+
+
+JA45 
+
+
+The Court: —_ Usual stipulation, gentlemen? 
+
+Mr. Jacobs: For me. Mr. Merwin is outside. 
+
+The Court: Do you want to proceed without him? 
+
+The Defendant: No. 
+
+The Court: —_ Usual stipulation, Mr. Merwin? 
+
+Mr. Merwin: Yes, your Honor. 
+
+The Court: _—_All right. You may proceed. 
+
+Mr. Merwin: Next witness is Deputy Engen. 
+
+Vincent Woodrow Engen, 
+
+called as a witness in behalf of the defendant, having been first 
+duly sworn, was examined and testified as follows: 
+
+The Clerk: State your full name for the record. 
+
+The Witness: Vincent Woodrow Engen. 
+
+The Clerk: Spell your last name. 
+
+The Witness: E-N-G-E-N. , 
+
+
+DIRECT EXAMINATION 
+
+
+Q By Mr. Merwin: What is your occupation? 
+
+A I'ma deputy sheriff. 
+
+Q For the county of Orange? 
+
+A Orange County, yes, sir. 
+
+Q How long have you been employed by the county of 
+Orange as a deputy sheriff? 
+
+A Approximately one year and ten months. 
+
+(Continued on page 2007; nothing omitted.) 
+
+
+[2007] 
+
+
+>. And during that period, have you been assigned to the 
+jail? 
+
+A Yes, sir. 
+
+Q That's the Orange County men’s jail? 
+
+A Yes, sir. 
+
+Q You recognize Bill Payton? 
+
+A Yes, sir, I do. 
+
+
+JA46 
+
+
+Q When did you first meet Bill Payton? 
+
+A About nine, ten months ago. 
+
+Q And how did you come to meet Bill Payton? 
+
+A I was working as a module deputy for the mod that he’s 
+housed in. 
+
+Q Now, what is a mod? Maybe you can define that for us? 
+
+A A mod is an area inside the jail in which the inmates are 
+housed. They’ re individual tanks, and they are set up according 
+to an inmate’s crimes and his physical stature. 
+
+Q And your position relative to Bill’s mod was what? 
+
+A Module deputy. I run the mod. 
+
+Q How many hours a day are you present there running a 
+mod? 
+
+A Eight hours a day. 
+
+Q How many days a week? 
+
+A Five days a week. 
+
+Q During that 40-hour span on an average week, 
+
+
+[2008] 
+
+
+how many times did you come into contact with Bill Payton? 
+
+A Quite often. I -- it would be impossible to say. But more 
+often then [sic] any other inmate. 
+
+Q Have you ever observed any Bible study sessions that Bill 
+Payton was involved in? 
+
+A Yes, I have. 
+
+Q And where did those occur? 
+
+A Inside the vestibule, which -- that’s an adjacent cell that 
+leads out into the hallway. 
+
+Q Did you participate in any of those yourself? 
+
+A No, | didn’t. 
+
+Q Did you observe Mr. Payton participate in any of those? 
+
+A Yes, I did. 
+
+Q Did you observe other inmates participating in them? 
+
+A Yes, I did. 
+
+
+JA47 
+
+
+Q How many other inmates would you say were also 
+involved in some of these sessions? 
+
+A A low of four to a high of maybe 12. 
+
+Q Did Mr. Payton seem to be leading the Bible study 
+session? 
+
+A The majority of the time, yes. 
+
+Q How long did these sessions last? 
+
+A Between one to three hours. 
+
+Q And how many would you say total there were that 
+
+
+[2009] 
+
+
+involved Bible study or Bible discussion? 
+
+A I don’t understand what you’ re -- 
+
+Q How many of these different -- or how many different 
+sessions have you observed? 
+
+A I would say probably 15. 
+
+Q How many -- I’m sorry, I forgot whether I asked you this. 
+How many other inmates would be involved on an average? 
+
+A Between four to twelve. 
+
+Q Four to twelve? 
+
+A Yeah. 
+
+Q Have you ever personalliy discussed Bill’s religious views 
+with him? 
+
+A No, I haven't. 
+
+Q Do you have an opportunity to observe his interaction with 
+the other inmates apart from these Bible study classes? 
+
+A Yes,I do. 
+
+(Continued on page 2010; nothing omitted.) 
+
+
+[2010] 
+
+
+Q How do you describe that interaction? 
+
+A He gets along very well with the other inmates. 
+
+Q Does he seem to have a leadership role with the other 
+inmates? 
+
+
+JA48 
+
+
+A Definitely. 
+
+Q Would you say his influence with the other inmates 
+you’ve observed has been positive? 
+
+A Yes, sir, | would. 
+
+Mr. Merwin: Thank you. I have nothing further. 
+
+The Court: You may inquire. 
+
+
+CROSS EXAMINATION 
+
+
+Q By Mr. Jacobs: Yes. How often did you observe these 
+religious meetings, you say every month, once a month or what? 
+
+A Approximately two a month. 
+
+Q Twoamonth. And you never participated; is that correct? 
+
+A No, sir. 
+
+Q Inthe module, there’s upstairs and downstairs? 
+
+A Yes, sir, there are. 
+
+Q You sit at like a desk; is that correct? 
+
+A Yes, sir, I do. 
+
+Q Leading in the hallway down the module? 
+
+A Yes, sir. 
+
+Q You can’t see all of the day room activity that goes on in 
+the day room; is that correct? 
+
+
+[2011] 
+
+
+A No, sir. I can see about one-third of it. 
+
+Q Did you ever -- while you were in the module, deputy in 
+charge of the defendant’s tank, was it ever brought to your 
+attention that Mr. Payton was extracting commissary from other 
+prisoners for phone calls? 
+
+A Yes, sir. One time. 
+
+Q And was that by another inmate? 
+
+A Yes, sir. 
+
+Q Now, how is it possible procedurally, how could Mr. 
+Payton get a phone call for another inmate? Is there a procedure 
+that he could follow? 
+
+
+JA49 
+
+
+A Well, he was out on the broom, which means he was out 
+cleaning when the other prisoners were in lockdown. He’s 
+cleaning up trash and he’s the only one that has access to them. 
+
+Q Would he have to convince you to give somebody else a 
+phone call for them to get a phone call? 
+
+A Yes, in most cases. 
+
+Q While you were the module deputy, were there some 
+occasions when Mr. Payton asked you to give phone calls to 
+other prisoners? 
+
+A Yes, there were. 
+
+Q Did you go ahead and let the other prisoners have phone 
+calls at his request? 
+
+A Usually I did. 
+
+Mr. Jacobs: Thank you. I have nothing further. 
+
+
+[2012] 
+
+
+REDIRECT EXAMINATION 
+
+
+Q By Mr. Merwin: Were you glad to have Mr. Payton in 
+your module? 
+
+
+A Yes, I was. 
+
+Q Why? 
+
+A Because of his ability to calm the other inmates. 
+
+Q Did Mr. Payton ever come to you and inform you there 
+was a problem developing in that module? 
+
+A Yes, he did. 
+
+Q Did you take some corrective measure? 
+
+A Yes. I was able to head off several problems. 
+
+Q Asa result of Mr. Payton’s statements to you? 
+
+A Yes, sir. 
+
+Mr. Merwin: I have nothing further. 
+
+
+RECROSS EXAMINATION 
+
+
+Q By Mr. Jacobs: ' guess what you’re saying, Mr. Payton 
+
+
+JASO 
+
+
+would inform you of what other inmates were up to that might 
+lead to problems for you; is that correct? 
+
+A Yes. 
+
+Q So in other words he would tell you things that other 
+people were doing and you appreciated knowing that; is that 
+correct’ 
+
+A Yes, sir. 
+
+Q And in essence it would get him favors from you like 
+being on the broom for doing that; right? 
+
+A Yes, sir. 
+
+
+[2013] 
+
+
+Q Okay. And were you aware while Mr. Payton was in 
+custody that he engaged in two mutual combat situations in the 
+jail. 
+
+Mr. Merwin: Objection, assumes facts not in evidence. 
+
+The Court: Overruled. 
+
+Mr. Merwin: The way he stated the question, | think in 
+effect asserts that it happened. 
+
+The Court: —_ I will sustain the objection. You can rephrase 
+it. 
+
+Q By Mr. Jacobs: Okay. Were you aware of Mr. Payton ever 
+engaging in mutual combat with other prisoners while you were 
+on duty in the module? 
+
+A No, not while I was on duty. 
+
+Q From where you’re located, if a fight breaks out, you see 
+it all the time? 
+
+A Not all the time. 
+
+Q Why is that; because of your position? 
+
+A Yes, sir. 
+
+Q Are fights always brought to your attention in the module 
+immediately, or do you sometimes find out later if never? 
+
+A Sometimes never, sometimes hours or even days later. 
+
+Mr. Jacobs: Thank you. Nothing further. 
+
+
+JASI 
+
+
+Q By Mr. Merwin: Did you ever see Mr. Payton assist 
+
+
+[2014] 
+
+
+in breaking up a fight? 
+
+A No, I didn’t. 
+
+Q Or prevent one from developing? 
+
+A No, I never personally saw that. 
+
+Mr. Merwin: Excuse me for just a moment. 
+
+Q By Mr. Merwin: Deputy Engen, you testified that an 
+inmate told you that Mr. Payton had asked for or required some 
+kind of extracting some money was the question, in other 
+words, to get a phone call? 
+
+A Yes. 
+
+Q Isthat something that you know of your own knowledge 
+or is that something you were told by an inmate? _ 
+
+A Something I was told by an inmate. 
+
+Q And you have one such report? 
+
+A Yes, sir. 
+
+Mr. Merwin: Thank you. I have nothing further. 
+
+Mr. Jacobs: Nothing further. 
+
+The Court: All right. Thank you, gentlemen. 
+
+Mr. Jacobs: Could I approach the bench for a second? 
+
+The Court: Surely. 
+
+
+(Continued on page 2015; nothing omitted.) 
+[2015] 
+
+
+(Whereupon there was a discussion at the bench among 
+Court and counsel out of the hearing of the jury and reporter.) 
+The Court: Anything additional, gentlemen? 
+Mr. Jacobs: No. 
+Mr. Merwin: No, your Honor. Thank you. 
+The Court: Thank you, sir. You’re excused. 
+
+
+JAS2 
+
+
+You may call your next witness. 
+Mr. Merwin: Mrs. Virginia Payton. 
+The Clerk: Raise your right hand, please. 
+Virginia Payton, 
+
+called as a witness in behalf of the defendant, having been first 
+duly sworn, was examined and testified as follows: 
+
+The Clerk: State your full name for the record, please. 
+
+The Witness. Virginia Payton. 
+
+The Clerk: | Would you spell your last name? 
+
+The Witness: P-A-Y-T-O-N. 
+
+The Clerk: Be seated in the witness stand, please. 
+
+
+DIRECT EXAMINATION 
+
+
+Q By Mr. Merwin: Mrs. Payton, you’re Bill Payton’s 
+mother? 
+
+A Yes. 
+
+Q And where do you live? 
+
+A In Leisure World. Laguna Hills. 
+
+Q With whom? 
+
+A My husband. 
+
+
+[2016] 
+
+
+Q He’s seated -- 
+
+A Mason Payton. 
+
+Q While Bill has been in the Orange County men’s jail, have 
+you been able to visit him there? 
+
+A Yes. 
+
+Q How often? 
+
+A At least every other week. 
+
+Q And how long are each of those visits? 
+
+A We’re only allowed half an hour. 
+
+Q And where do those visits occur? Do you know the area 
+of the jail where they occur? 
+
+A First floor. 
+
+
+JAS3 
+
+
+Q You talk on the phone? 
+
+A Yes. 
+
+Q Through a glass window? 
+
+A Yes. 
+
+Q On any of these occasions, have you and Bill discussed 
+religion? 
+
+A Always. Every occasion. 
+
+Q And who brings up the subject? 
+
+A Bill. 
+
+Q Have you on any of these occasions prayed together? 
+
+A Yes. 
+
+Q Do you ever bring him any materials to read? 
+
+A Yes. He got -- 
+
+Q What kind -- 
+
+
+[2017] 
+
+
+A -- permission -- 
+
+Q What kind of materials? 
+
+A Religion materials. 
+
+Q And who suggests the nature of them? Do you select them 
+and bring them or did Bill ask for them and you bring the 
+material? 
+
+A That’s all he’s ever had. That’s all he’s ever wanted, just 
+religious materials. 
+
+Q Have you seen any change in Bill from before he was in 
+the jail to now? 
+
+A Oh, yes. 
+
+Q How would you describe the change? 
+
+A Well, he’s totally immersed in the Lord. He -- he’s an 
+instrument of the Lord as far as he’s concerned. He’s a -- he 
+doesn’t think of anything else. And he’s -- I don’t know what 
+else you’d say. He’s -- he’s always been a fairly calm 
+temperament, but he’s very even. 
+
+Q Has he told you that he feels he’s born again? 
+
+A Yes. 
+
+
+JAS4 
+
+
+Q Or committed? 
+
+A Yes, at the beginning, uh-huh. 
+
+Q Do you take him to be sincere when he says it? 
+A Oh, I know it. 
+
+Mr. Merwin: I have nothing further. Thank you. 
+Mr. Jacobs: 1 don’t have any questions. 
+
+The Court: | Thank you, ma’am. You’re excused. 
+
+
+[2018] 
+
+
+You may call your next witness. 
+Mr. Merwin: I don’t have any other witnesses until this 
+afternoon, your Honor. 
+The Court: Could I see you gentlemen at the bench 
+without the reporter for just a minute? 
+(Whereupon there was a discussion at the bench among 
+Court and counsel out of the hearing of the jury and reporter.) 
+The Court: | Okay, ladies and gentlemen. What we're going 
+to do is take an early break. oe 
+Mr. Merwin: Excuse me, your Honor. Before you dismiss 
+the jury, could I have a brief moment here? 
+The Court: Sure. 
+(Discussion between Mr. Merwin and the defendant out of 
+the hearing of the jury and reporter.) 
+Mr. Merwin: Thank you, your Honor. 
+(Continued on page 2019; nothing omitted.) 
+
+
+*** + * 
+
+
+[December 1, 1981] 
+{2096} 
+
+
+The Court will indicate, all those have been requested by 
+the plaintiff and will be given. 
+
+Are there any objections or any problems with regard to 
+those three instructions? 
+
+
+JASS5 
+
+
+Mr. Merwin: I would like to have 8.84.1 modified by taking 
+paragraph k in CALJIC and rewriting it so it reads as follows: 
+“Any other circumstance which extenuates the gravity of the 
+crime, even though it’s not a legal excuse for the crime, 
+including --” and this is language out of 190.3 of the Penal 
+Code, “-- evidence of the defendant’s character, background, 
+history, mental condition and physical condition.” 
+
+The problem I have with it, the way it reads now, is it 
+appears to me that -- 
+
+Mr. Jacobs: Could I see what you read from? 
+
+Mr. Merwin: Yes, section 190.3. 
+
+A juror could read that as saying, well, gee, there are a lot 
+of interesting things about Mr. Payton, but they don’t have 
+anything to do with the crime. They have something to do with 
+his potential for rehabilitation or his character or his 
+background, but they don’t have anything to do with the crime 
+itself and I know that the legislation, 190.3 was designed with 
+the view toward including evidence of background character, 
+whatever it was offered by the defense to extenuate the gravity 
+of the situation more than the gravity of the crime. 
+
+
+[2097] 
+
+
+Mr. Jacobs: I think with the defendant’s character, 
+background, history, mental condition and physical condition, 
+they’re talking about his -- the other areas, “g,” whether he was 
+under extreme duress, whether or not he had -- “d,” whether he 
+had a mental -- extreme mental or emotional disturbance and | 
+think “k,” unlike the way Mr. Merwin wants to change it, any 
+other circumstance which extenuates the gravity of the crime, 
+even though it’s not a legal excuse for the crime, they’re 
+probably talking about circumstances attending the crime. 
+They’ re not talking about character, background, history, mental 
+condition and physical condition, and I think his character, 
+background, history, mental condition, physical -- mental 
+
+
+JAS6 
+
+
+condition, physical condition are supposed to come in under 
+other areas, not under “k.” 
+
+Mr. Merwin: Seems to me the other areas that touch on -- 
+
+Mr. Jacobs: 1 think Mr. Merwin can argue that we had 
+presented this under “k,” but it’s not what “ k” says either in the 
+statute or CALJIC. 
+
+The Court: _Let’s look at our most recent -- when was 
+190.3 passed, or the last time? What are we looking at? 
+
+Mr. Jacobs: _It says added November 7, °78. 
+
+The Court: | November, ’78. Okay. And we're talking 
+about 8.84.1. 
+
+Mr. Jacobs: ~You want the Code section he’s reading from? 
+
+
+[2098] 
+
+
+The Court: No. I’m looking, as I said -- okay. We have -- 
+I’m looking at CALJIC ’81 supplement and to see, as I said, if 
+they’ve added anything at all which would expand or change in 
+any way and put any language requested by Mr. Merwin in this 
+particular case, and I’m looking at 1980, see if we have 
+anything, any modifications in this. 
+
+Mr. Jacobs: | think what they’re -- 
+
+The Court: We have 8.84, penalty trial, indicating that if 
+the defendant were a minor, which doesn’t have anything to do 
+with what we’re doing. When was -- I’m looking at the fourth 
+edition. 
+
+Mr. Jacobs: This is the °81 supplement and -- 
+
+The Court: __ I’m looking at the -- 
+
+Mr. Jacobs: 78 statute, though. 
+
+
+The Court: Well, the thing I’m puzzled with, as I say, : 
+
+
+looking at 190.3 which is passed, what, in -- 
+
+Mr. Jacobs: °78. 
+
+The Court: -- ’78, and they have had, as I said, the 
+supplements each year and we’ ve had no change through ’81 in 
+the supplement. Mr. Merwin, that’s the thing. As I said, I’m 
+somewhat concerned with the fact they don’t spell it out when 
+
+
+JAS7 
+
+
+they give us the ten factors If, in fact, we should include more 
+of the language of 190.3. 
+
+Mr. Jacobs: _I don’t think there’s any ambiguity because 
+those -- his history, his character, mental condition and physical 
+condition would come in to play under other categories, 
+
+
+[2099] 
+
+
+specifically “d,” “g,” and “h.” 
+
+The Court: “D” picks up part of it. 
+
+Mr. Jacobs: Then“g” and “h,” but I don’t think that’s at all 
+what they mean by “k.” I don’t think his background or 
+character has anything to do with “k” because if it did, they'd 
+say it. They'd say a circumstance. 
+
+The Court: _—_ Let me see the code section. 
+
+Mr. Jacobs: It’s the same as CALJIC. ” 
+
+Mr. Merwin: While you’re reading and considering that, | 
+also want to request there be an “I” added which says they may 
+take into consideration the defendant’s potential for 
+renabilitation. 
+
+The Court: Well, with regard to “1,” of course -- 
+
+(Continued on page 2100; nothing omitted.) 
+
+
+[2100] 
+
+
+_ Mr. Jacobs: You want your argument to become the law? 
+Is that what you’re trying to do? 
+
+The Court: Well, as I said, that will be denied. I don’t 
+have any problem with denying “1.” 
+
+Mr. Jacobs: Can my argument become the law, too? 
+
+The Court: —_I don’t think, as I said, with regard to the 
+situation where we have the factors set forth that the Court’s 
+going to start adding categories. I’ll deny that request for “I.” 
+
+I’m back to reading the 190.3, of course, where they go 
+ahead and completely define 190.3 in toto, and then I assume 
+190.3 -- and I haven’t checked it out -- 
+
+
+JAS8 
+
+
+Mr. Jacobs: _ It’s verbatim. 
+
+The Court: Verbatim. 
+
+I assume CALJIC 8.84.1 -- 
+
+Mr. Jacobs: That's it. 
+
+The Court: _-- is acomplete lifting, the factors “a” through 
+“ k.” And with regard to your request to add the language: 
+defendant's character, background, history, mental condition 
+and physical condition, I assume, as I said, that the legislatures 
+[sic] assume that they had picked that up on “a” through “k.” I 
+assume that’s the People’s argument. 
+
+Mr. Jacobs: _ I think to add what Mr. Merwin wants to add 
+would be directly contrary to what they have in “k.” That’s to 
+add -- that’s, in essence, to create another “1,” to adjust 
+pointblank [sic] character, background, history. 
+
+
+[2101] 
+
+
+That’s not what they meant. They meant what they have in “d,” 
+“g” and the other ones. It has to be something about his 
+background or history that relates to something they felt was 
+important. 
+
+And | think -- I read “k” as being a circumstance attending 
+a crime. That’s the way I read it. Not a factor and background, 
+the defendant’s history; or else the Legislature would have said 
+that. 
+
+The Court: Well, I assume, as | said -- and believe me, 
+this is my interpretation -- but I assume, as | said, from “k,” the 
+“any other circumstance which extenuates the gravity of the 
+crime even though not a legal excuse for the crime,” that they 
+are incorporating from paragraph |, as | said, that the 
+- defendant’s character, background, history, mental condition 
+and physical condition may, as I said, be applicable through “k.” 
+
+I didn’t draft it. I’m reluctant, as I said, to, this particular 
+case, change a CALJIC instruction wherein it’s verbatim from 
+the 190.3 statute, Mr. Merwin. 
+
+
+JAS9 
+
+
+I certainly see what your argument is directed towards. 
+And I certainly would assume that you are -- you argue those 
+~, ee es 
+
+I see your position for the edification and clarification of 
+the jury. But I’m going to refuse, as I said, to modify the 
+instruction. I think, as I said, that 
+
+
+[2102] 
+
+
+it’s clear what was intended. 
+
+I assume you gentlemen, as I said, in your argument can 
+certainly relate -- relate back to those factors and certainly can 
+argue the defendant’s character, background, history, mental 
+condition, physical condition; certainly fall into category “k” 
+and certainly make a clear argument to the jury. 
+
+Mr. Merwin: The only problem I have with that is that “k,” 
+at least taken at face value, refers to extenuating the gravity of 
+the crime, even though it’s not a legal excuse for the crime. It 
+doesn’t sound to me like “k” incorporates the other factors, even 
+though I’m sure that was the intent of the Legislature. 
+
+Mr. Jacobs: _1 don’t think it was. 
+
+Mr. Merwin: That that be something that the defense can 
+cffer. 
+
+The Court: Well, -- he’s -- I think he’s stuck if that -- 
+we're arguing that that’s applicable 
+
+Mr. Jacobs: _| think. I don’t think it is. But I think he’s 
+stuck with trying to argue it. I don’t think we should take his 
+argument and make it the law. 
+
+Mr. Merwin: Is the Court going to preclude me from 
+arguing rehabilitation or -- 
+
+The Court: No. 
+
+Mr. Jacobs: Argue anything you want. 
+
+
+JA60 
+
+
+[2103] 
+
+
+Mr. Merwin: As applying or being subsumed within “k.” 
+
+The Court: 1 assume that any other circumstance is -- 
+which extenuates the gravity of the crime is a -- and I may be 
+wrong -- but I assume that’s the catch-all, and it was intended, 
+as I said, for all these factors, as I said, that don’t fall into the 
+other areas. And I realize there is a carry-over that some of these 
+could be argued in a different category. 
+
+But I think the way I read the cases -- and there isn’t much 
+case law -- and the way I read “k,” I think, as I said, it’s wide 
+open. I found no -- you know, within reason, as I said, it seems 
+to me, as I said, that those areas are certainly open for argument. 
+
+I certainly am not going to preclude it, your arguing that. 
+I think, as I said, that the reason “k” doesn’t include character, 
+background, history, mental condition and physical condition is 
+that they aren’t limiting necessarily to that “k” as sort of a no- 
+holds barred within proper restrictions. The way I read the 
+cases, it’s almost anything can come in on behalf of the 
+defendant, be argued. And I think, as I said, that’s probably one 
+of the reasons I haven’t specifically tried to limit “k” with the 
+language that you want because you’re also expanding, want to 
+request “1,” and I think that’s the reason, as I said, that they 
+haven’t put in -- or been more delineating in “k” is because you 
+-- the factors that you’re arguing in “I” I think can 
+
+
+[2104] 
+
+
+be included in “k.” 
+
+And if we use the language that you want in “k,” then we 
+have to in fact -- we’ re going to be that definitive adding “1.” So 
+I think “k” is the all encompassing one that includes both what 
+you want added in your argument for “1,” which is basically why 
+I’m not giving it, so. . . 
+
+Mr. Merwin: One last observation. 
+The Court: Sure. 
+
+
+JA61 
+
+
+Mr. Merwin: My only problem is I think we all agree that 
+that’s the law, but the jury’s not going to know. 
+
+The Court: —_| agree with you. Probably as I said from your 
+standpoint, I’m not quarreling with -- if I were in your position 
+-- that you would like to add those -- particular language: 
+character, background, history, mental condition, so forth in “k” 
+and add an “I.” And I think, as I said, it would be certainly -- I 
+would be making the same request. 
+
+But I’m going to deny it, and for the reasons stated. _ 
+(Continued on page 2105; nothing omitted.) 
+
+
+[2105] 
+
+
+Anything else, gentlemen? 
+
+Mr. Merwin: This doesn’t relate to a jury instruction. 
+
+The Court: Anything else? I think we’re set on the 
+instructions, so I’m sure -- would you make sure I have mine 
+and the concluding instruction, I think, as I said, as modified is 
+proper and you gentlemen reviewed that, so -- 
+
+Mr. Merwin: I do think that we ought to specifically give 
+the instruction on corpus because the only evidence in the 
+record that relates to extracting money for phone calls is a 
+hearsay statement which was not even proven to be true and that 
+-- in that regard there’s another way to solve that problem. 
+Maybe what we could do is this. When that came in, it took me 
+by surprise for two reasons. One is, I thought there was an 
+understanding, an existing court order that before that question 
+was asked of any witness, that we'd have a 402 hearing. That’s 
+the way we handled every previous witness when that issue was 
+going to be asked. 
+
+So it was asked and the answer was in before I really had 
+a chance to object, even though it was obvious hearsay and I 
+didn’t want to make a delayed objection for fear it would bring 
+knowledge to it. 
+
+Now, we have a note from Sharon Gruber dated today, 
+“the prosecution mentioned extracting money for phone calls. 
+
+
+JA62 
+
+
+Please ask him to explain what that means.” 
+It’s obvious that did not escape the attention of the jury, 
+just because I didn’t object to it and bring 
+
+
+ee 
+
+
+[2113] 
+
+
+(The following proceedings had in open court in the 
+presence of the jury: ) 
+The Court: | Good morning, ladies and gentlemen. Usual 
+stipulation? 
+Mr. Jacobs: Yes. 
+Mr. Merwin: Yes, your Honor. 
+The Court: I think you gentlemen had one stipulation 
+
+
+before you argued? 
+Mr. Jacobs: We are willing to stipulate to the defendant's 
+age. 
+
+
+Mr. Merwin: Yes. We have stipulated he’s 28 years old. 
+The Court: Stipulation will be accepted. 
+
+With that in mind, the People may make their opening 
+statement. I do want to indicate, as I did at the prior -- at the 
+guilt phase of this proceeding, that the argument of counsel is 
+not evidence and you gentlemen and ladies should rely on your 
+own recollection of the evidence, and if it isn’t as you recall, 
+strictly inadvertance [sic] on the part of both of these gentlemen, 
+so with that in mind, rely on your own recollection. This is not 
+evidence but argument. You may proceed, Mr. Jacobs. 
+
+(Continued on page 2114; nothing omitted.) 
+
+
+[2114] 
+
+
+Mr. Jacobs: Thank you. At this time, ladies and gentlemen, 
+I'd like to thank all of you for your close attention throughout 
+the trial. 
+
+At this point, before the end of the second stage, the last 
+stage of the trial, it’s again my opportunity, my last opportunity 
+
+
+JA63 
+
+
+to address you on the evidence in what's referred to as closing 
+argument. : 
+
+In this, what I have to say to you again, I’m going to 
+basically break up what I have to say into two parts. I’m going 
+to talk to you a little bit about the law, which is going to be very 
+brief. 
+
+And then I’m going to talk to you about the facts and 
+about the death penalty. 
+
+Unlike the argument at the guilt phase, there is no moving 
+party or no party with a burden. I am not going to have a second 
+chance or second opportunity to address you. 
+
+Each side in this proceeding will be giving just one 
+argument. So I’m going to argue first, and then Mr. Merwin will 
+have a chance to make his statements to you. 
+
+And then you’re going to be instructed or t+> law, and 
+then the case is going to be submitted to you. 
+
+As I said, first thing I want to do -- and it’s going to take 
+just a few minutes -- is | want to run through the CALJIC or the 
+jury instructions you're going to get, and then I’m going to talk 
+about the facts of the case and 
+
+
+[2115] 
+
+
+the penalties involved. 
+
+I’m going to try not to repeat anything | said to you about 
+the facts of the case in the guilt phase. However, I am going to 
+refer with a different viewpoint perhaps and get back and talk to 
+the facts and circumstances of the crime because as you’ re 
+going to see, that is a very important factor for you to consider ~ 
+in this stage of the trial. 
+
+To begin with, in essence, and I’m summarizing and 
+skipping, you’re going to be instructed by the Court at the 
+conclusion of argument that it is the law of this state that the 
+penalty for a defendant found guilty of murder of the first 
+degree shall be death or confinement in the state prison for life 
+without possibility of parole in any case in which the special 
+
+
+JA64 
+
+
+clseumstanets charged in the case have been specially found to 
+be true. nes 
+And that’s why we’re here. That’s why we're in the 
+second stage. ; 
+(Continued on page 2116; nothing omitted.) 
+
+
+[2116] 
+
+
+You then are going to be instructed as follows, and this 
+has to do with the eleven factors that you’ ve heard about from 
+the beginning back when we had jury selection, and you're 
+going to be instructed in essence as follows. I m going to go 
+through them very quickly and then I’m going to talk them 
+again and apply them to the facts, so you don't need to take 
+notes and the Court’s going to give them to you and you will 
+have them in the jury room. 
+
+In determining which penalty is to be imposed upon the 
+defendant, you should consider all the evidence which has been 
+received during any part of the trial of this case. You should 
+take into account and be guided by the following factors: 
+
+“A” the circumstances of the crime of which the 
+‘defendant was convicted in the present proceeding and the 
+existence of any special circumstances found to be true. In other 
+words, all the evidence you heard in the guilt phase. . 
+
+“B,” the presence or absence of criminal activity by the 
+defendant which involved the use or attempted use of force or 
+violence or expressed or implied force to use violence. 
+
+“C,” the presence or absence of any prior felony 
+
+viction. 
+= “D? whether or not the offense was committed while the 
+defendant was under the influence of extreme mental or 
+emotional disturbance. 
+
+
+JA65 
+
+
+[2117] 
+
+
+“E,” whether or not the victim was a participant in the 
+defendant’s homicidal conduct or consented to the homicidal 
+act. 
+
+“F,” whether or not the offenses committed [sic] under 
+circumstances which the defendant reasonably believed to be 
+moral justification or extenuation for his conduct. 
+
+“G,” whether or not the defendant acted under extreme 
+duress or under the substantial domination of another person. 
+
+“H,” whether or not at the time of the offense the capacity 
+of the defendant to appreciate the criminality of his conduct or 
+to conform his conduct to the requirements of law was impaired 
+as a result of mental disease or defect or effects of intoxication. 
+
+_ “I,” the age of the defendant at the time of the crime. 
+
+“J,” whether or-not ine defendant was an accomplice to 
+the offense and his participation in the commission of the 
+offense was relatively minor. 
+
+“K,” any other circumstance which extenuates the gravity 
+of the crime, even though it’s not a legal excuse for the crime. 
+
+As you can all see from my very quick reading, I’m going 
+to go over them, some of these are applicable and some of them 
+are not, depending on your findings. 
+
+I’m going to get back to those and discuss with 
+
+
+[2118] 
+
+
+you the evidence in some detail, but before I do that then you’ll 
+be read the final and concluding instruction on what you do with 
+these factors. 
+
+It would be your duty to determine which of the two 
+penalties, death or confinement in the state prison for life 
+without possibility of parole shall be imposed upon this 
+defendant. 
+
+After having heard all the evidence and after having heard 
+and considered the arguments of counsel, you shall consider, 
+
+
+JA66 
+
+
+take into account and be guided by the applicable factors of 
+aggravating and mitigated circumstaaces upon which you have 
+been instructed. 
+
+In other words, the factors I have just read to you. 
+
+If you should conclude that the aggravating circumstances 
+outweigh the mitigating circumstances, you shall impose a 
+sentence of death. However, if you determine that the mitigating 
+circumstances outweigh the aggravating circumstances, you 
+shall impose a sentence of confinement in the state prison for 
+life without the possibility of parole. 
+
+So, as I’ve just told you and as we talked about in voir 
+dire, it’s a weighing process as far as determining the penalty 
+that you should impose, the jury is expected or supposed to go 
+through a weighing process of the factors I have just described. 
+
+Now, in argument I considered putting those eleven 
+
+
+[2119] ; 
+
+
+factors on the board and showing which ones were applicable 
+and then perhaps to aid you in weighing and, say, take a 
+thousand points and distribute them over the factors. 
+
+In view of the subject, what we’ re talking about, the death 
+penalty, the type of the case, I decided that wasn’t really 
+appropriate or necessary and I think your too intelligent for me 
+to have to do that. 
+
+(Continued on page 2120; nothing omitted.) 
+
+
+[2120] 
+
+
+Basically, the facts of the casé and what this defendant has 
+been convicted of doing is the primary thing I’m going to talk 
+to you about. And what the appropriate penalty for what he did 
+should be. 
+
+Before I do that, I want to go back and go through those 
+factors very briefly and comment to you -- at least tell you 
+which ones seem to be applicable and which ones do not. 
+
+
+JA67 
+
+
+) Okay. “A.” The circumstances of the crime, the special 
+circumstances, what the defendant did to Mrs. Montgomery, 
+that is certainly applicable and an aggravating factor that should 
+be entitled to preat weight. 
+
+; “B,” the presence of other criminal conduct showing force 
+or violence. Well, we have the facts involving the stabbing of 
+the two Pensingers, and we have the evidence you heard having 
+to do with Mrs. Stone. That also is an applicable factor that 
+should be entitled to weight. 
+
+“C,” prior felony convictions. We have two felony 
+convictions in 1976, so that is applicable. And it’s an 
+aggravating factor. He had possession of controlled substance 
+and statutory rape, both in i976. 
+
+“D,” whether the defendant was under extreme mental or 
+emotional distress. Haven’t heard any evidence on it. I’d submit 
+it’s not applicable. 
+
+“E,” whether the victim participated in defendant’s 
+homicidal conduct. That’s clearly not the case. That’s 
+
+
+[2121] 
+
+
+not applicable either. 
+
+“F,” did the defendant have reasonable belief or moral 
+justification in what he did? That’s clearly not applicable. 
+
+“G,” was defendant acting under extreme duress or 
+domination of another? Haven’t heard any evidence as to that. 
+That’s not applicable. 
+
+“H,” was the defendant impaired by a mental disease 
+preventing him from conforming his conduct to the 
+requirements of the law? We have heard no evidence of 
+defendant’s mental disease. That also would not be applicable. 
+
+“I,” defendant’s age. Twenty-eight? I guess that’s 
+applicable. Some of you might consider that not to be a factor. 
+
+
+Some of you might consider that young, to be somewhat 
+mitigating. 
+
+
+JA68 
+
+
+“J” was defendant merely an accomplice? That’s not 
+applicable. He was not an accomplice. He was the perpetrator. 
+
+And “k.” In any other circumstance which extenuates or 
+lessens the gravity of the crime. I want to stop and talk to you 
+about “k” for just a second because -- and go over the wording. 
+
+“K” says any other circumstance which extenuates or 
+lessens the gravity of the crime. What does that mean? That to 
+me means some fact -- okay? -- some factor at the 
+
+
+[2122] 
+
+
+time of the offense that somehow operates to reduce the gravity 
+for what the defendant did. 
+
+It doesn’t refer to anything after the fact or later. That’s 
+particularly important here because the only defense evidence 
+you have heard has been about this new born Christianity. 
+
+Mr. Merwin: Excuse me, your Honor. 
+
+Mr. Jacobs: And how the defendant -- 
+
+Mr. Merwin: I’m sorry to interrupt. Could we approach the 
+bench? , 
+
+The Court: Surely. 
+
+Mr. Merwin: With the reporter. 
+
+(The following proceedings had among court and counsel 
+at the bench out of the hearing of the jury:) 
+
+Mr. Merwin: I don’t know if the Court heard that part of the 
+argument, but I think that’s completely contrary to what we all 
+agreed in chambers on the record “k” was designed to apply to. 
+
+And I think this justifies a mistrial and move for a mistrial 
+right now on prosecutorial misconduct. 
+
+Mr. Jacobs: He’s wrong. . 
+
+Mr. Merwin: Maybe the Court ought to have that portion 
+reread. 
+
+The Court: Well, as I understand the comments of the 
+prosecutor is that they feel that the religious aspect of this as far 
+as being a mitigating factor does not apply because 
+
+
+JA69 
+
+
+[2123] 
+
+
+it took place after the crime. Is that your position, Mr. Jacobs? 
+
+Mr. Jacobs: Yeah, it doesn’t read into “k.” 
+
+There’s no way it says it has to extenuate the gravity of the 
+crime. If he wants to argue it does, that’s his problem. But it 
+doesn’t. 
+
+Mr. Merwin: I thought we’d agreed that that was the only 
+reason for not giving the -- 
+
+The Court: _I think the -- well, the Court indicated, as I 
+said, that -- | assumed in “k” that you were going to argue this 
+was -- you know, goes to his background, rehabilitation and so 
+forth. I think, as I said, it’s a fair comment on either side, as I 
+said. What his position is is [sic] that -- the argument of the 
+People is that --. Well, I think you can argue it either way, 
+gentlemen. As I said, I’m just going to indicate to the jurors, as 
+I said, that again, the general comment, this is not evidence. 
+
+Mr. Jacobs: _I don’t want you to indicate anything because 
+it’s permissible argument. I think he’s misinterpreting the law, 
+and I just want to argue my case. 
+
+The Court: Well, -- 
+
+Mr. Merwin: Then I'd like to renew the request to modify 
+the instruction to add the language from 190.3. 
+
+The Court: — Well, I’d decline to do that at this time. I think 
+you gentlemen are entitled to argue that under “k,” that you can 
+make that argument either way. So again, I’m just going to 
+indicate to the jury that that — what you 
+
+
+[2124] 
+
+
+gentlemen say is not evidence, and I’!] not admonish them in 
+any respect. 
+(The following proceedings had in open court in the 
+presence of the jury:) 
+The Court: _ Indicate to you, ladies and gentlemen, again I 
+want to emphasize to you that the comments by both the 
+
+
+JA70 
+
+
+prosecution and the defense are not evidence. You’ ve heard the 
+evidence and, as I said, this is argument. And it’s to be placed 
+in its proper perspective. 
+So with that in mind, you may continue, Mr. Jacobs 
+Mr. Jacobs: Thank you. 
+(Continued on page 2125; nothing omitted.) 
+
+
+[2125] 
+
+
+Referring back to “k” which I was talking about, any other 
+circumstance which extenuates or lessens the gravity of the 
+crime, the only defense evidence you’ ve heard had to do with 
+defendant’s new Christianity and that he helped the module 
+deputies in the jail while he was in custody. 
+
+The problem with that is that evidence is well after the 
+fact of the crime and cannot seem to me in any way to logically 
+lessen the gravity of the offense that the defendant has 
+committed. 
+
+Mr. Merwin will tell you that somehow that becoming a 
+newborn Christian, if in fact he really believed that took place, 
+makes it a less severe crime, but there is no way that can happen 
+when -- under any other circumstance which extenuates or 
+lessens the gravity of the crime, refers -- seems to refer to a fact 
+in operation at the time of the offense. 
+
+What I am getting at, you have not heard during the past 
+few days any legal evidence mitigation. What you’ ve heard is 
+just some jailhouse evidence to win your sympathy, and that’s 
+all. 
+
+You have not heard any evidence of mitigation in this 
+trial. 
+
+I want to talk to you about the facts of the case and the 
+death penalty. I have gone over with you the factors and I’m not 
+going to spend too much time on the factors except for the first 
+one. 
+
+
+JA7I 
+
+
+[2126] 
+
+
+The defendant in this case deserves the death penalty not 
+for his felony priors, not for stabbing Mrs. Stone, not even for 
+stabbing Mrs. Pensinger 40 times and her son 23 times. Those 
+acts may operate to seal the defendant’s fate and to tell us what 
+kind of person he is. But what he deserves the death penalty for 
+is what he did to Mrs. Montgomery. 
+
+If that was all the evidence we had, if all the evidence 
+before you were the crimes and the act to Mrs. Montgomery, 
+that in itself should warrant the death penalty. 
+
+Im going to talk about the death of Mrs. Montgomery and 
+the evidence you heard regarding what exactly the defendant did 
+to her. I’m going to talk to it a little bit differently, little bit 
+more graphically than I did in the guilt phase because there was 
+a different issue there. 
+
+The issue there was whether it was first degree murder and 
+special circumstances, and I’m going to talk to you a little more 
+graphically now, even though it’s not pleasant, that what the 
+defendant did to that woman, because it should be said. 
+
+The photographs of Mrs. Montgomery at the scene 
+depicting something that must be very difficult for all of us to 
+view, depicts the face of death on the victim, of a very violent 
+killing. I’m sure, especially for those of you who have never 
+seen it before, that’s something very hard to look at, and those 
+photographs seem particularly 
+
+
+[2127] 
+
+
+pathetic and horrible when viewing a young, pretty woman who 
+was cut down when -- before she ever really had a chance to live 
+and there was no reason for her to die. 
+
+Dr. Yatar, the autopsy surgeon, put it well in describing 
+her death when he said her wounds would be fatal in ten 
+minutes, shock and unconsciousness would take place in about 
+five minutes and by then she could no longer resist and then 
+
+
+JA72 
+
+
+quote from him, he said, “the victim would very slowly bleed to 
+
+So from the evidence, and this is difficult to talk about, 
+but I think it’s very clear what was happening to Mrs. 
+Montgomery as she lay dying in her own blood during that ten- 
+minute period. 
+
+Well, it seems in all likelihood the defendant was still 
+stabbing her. She probably still resisted as long as she could, 
+from the nail marks on the defendant’s back, from the knife 
+wounds on her hands and legs. 
+
+The worst part, though, from the bloodstains on her thighs 
+and hips makes it very obvious that the defendant's body was 
+still pressed up against her and he was still engaged in sexual 
+intercourse with her even as she lay dying. 
+
+If that’s not bad enough, and some of you may recall the 
+evidence from the guilt phase, some of you may have asked 
+yourselves where did the large amount of blood on the 
+defendant’s mouth and face come from, which his wife saw 
+when he came home that morning. 
+
+
+[2128] 
+
+
+You may recall other evidence shows that there was saliva 
+on the victim’s left breast. All significant large amounts of 
+blood, as you can see on the photographs of Mrs. -- on Mrs. 
+Montgomery’s body are from the waist down. 
+
+So, ladies and gentlemen, here we have a defendant who 
+feeds on the blood of his victim while she is lying dying and this 
+is the type of case and the type of defendant that the death 
+penalty was designed for. 
+
+Here also is a defendant who in his words to Alex Garcia 
+has a “urge to kill” and why should we give a defendant to [sic] 
+feed that urge again. Even when he -- if in prison, what if Mr. 
+Payton gets that urge to kill, if he sees the back of a prison 
+guard again. 
+
+
+JA73 
+
+
+. Here’s a defendant who views all women as his potential 
+victims, who wants to rape and stab them. Why should we give 
+this defendant another chance of finding another victim. 
+
+The people through the Legislature have enacted the death 
+
+penalty statute and you, as representatives of society get to 
+decide if this defendant and this type of crime deserves the 
+utmost penalty. 
+- I suppose somewhere there must be a line between what 
+is just a crime or just a murder, if you'll excuse the expression 
+“just,” and what is an atrocity, and this case is an atrocity and I 
+don’t think the defense will even refute that. 
+
+
+[2129] 
+
+
+For what the defendant did to Mrs. Montgomery, he 
+deserves the death penalty, and there is nothing that I could 
+think of that could conceivably mitigate this type of murder. 
+
+To vote for life without possibility of parole in this case is 
+to say that somewhere there are mitigating factors that outweigh 
+the aggravating and outrageous factors of what the defendant 
+did, and you’ve heard no evidence of any mitigating factors. 
+
+Is this a mitigated murder? Do the facts and the 
+defendant’s participation in what he did that mitigated. 
+
+. If you return a verdict of life without possibility of parole, 
+
+that is what you would be saying, that this is a mitigated killing. 
+I want to make a few comments about religion, the only 
+evidence put on by the defendant. I don’t really want to spend 
+too much time on it because I don’t think it’s really applicable 
+and | don’t think it comes under any of the eleven factors, and 
+ST Se SND CN OE ny een aD 
+
+Say.” 
+
+
+(Continued on page 2130; nothing omitted.) 
+
+
+JA74 
+
+
+[2130] 
+
+
+I don’t think that religion was meant to be a use -- to be 
+used as a shield to hide behind for what you’ve done or to 
+whitewash what you’ve done, and I'd like to point out -- I’m 
+sure all of you are aware -- everybody seems to get religion in 
+jail when facing the death penalty. 
+
+State prison is full of people who get religion when they 
+are in jail. Just like the defendant’s witnesses. 
+
+The other evidence that the defense has is they call Miss 
+Seglie, and she reads us excerpts from the defendant’s 
+autobiography offered to show the style. Okay? So this is 
+supposed to show the defendant’s intelligence, his sensitivity, 
+how smart he is. And you’re supposed to be impressed and 
+moved because he can write these moving paragraphs. 
+
+And what does he write about? Okay? Here he rapes a 
+girl, kills her, tries to kill two other people, he runs off to 
+Florida and he sits with his feet in the sand and the eyes in (sic) 
+the ocean, writing about his -- his feelings, and he’s going to 
+write his memoirs and his autobiography. And life is very tough 
+for a fugitive rapist/murderer. While Miss Seglie was reading 
+these nice excerpts, you know what I was thinking about? I was 
+thinking about Miss [sic] Montgomery. Okay? 
+
+How about Mrs. Montgomery? She’s never going to be 
+able to put her feet in the sand. She’s never going to be able to 
+look out at the ocean. She’s never going to be able to be with 
+her husband again. And why not? Because 
+
+
+[2131] 
+
+
+the defendant slaughtered her, like an animal. That’s why not. 
+So after he finishes what he does to her and runs off to 
+Florida and he gets caught, then he becomes a newborn 
+Christian, after he’s in custody. 
+And there’s a good reason why he becomes a Christian 
+after he gets in custody. And that is, he has no remorse for what 
+
+
+JA75 
+
+
+he did to Mrs. Montgomery. The only remorse he has is for his 
+own situation. That’s why he doesn’t get religion until after he’s 
+caught. New found religion can’t whitewash or change the past. 
+
+I just have a few more concluding remarks. Mr. Merwin 
+is a very fine trial attorney. And he will urge you in essence 
+setting aside or ignoring the facts to spare his client the ultimate 
+penalty and not to execute him because now he’s a good 
+Christian, maybe, and he helps the module deputy and he is a 
+leader of inmates in jail. 
+
+And I suppose that there must be something moving about 
+a man asking for mercy, regardless of what the man he 
+represents has done. 
+
+Before we listen to the pleas of mercy from this defendant, 
+maybe we should think about the victim. Did the defendant 
+show her mercy? The poor woman was raped probably at least 
+twice and stabbed 12 times. 
+
+You don’t think she begged for mercy? What mercy did 
+the defendant show her? If she didn’t ask for mercy 
+
+
+[2132] 
+
+
+verbally, you don’t think she cried out for mercy with her eyes 
+or her body? 
+
+And what was the defendant’s reaction to her pleas for 
+mercy? And what does he do after he finishes with that victim? 
+
+He picks up the knife and only bending the blade prevents 
+him from killing two more people the same morning. 
+
+I ask you to ask yourselves: Is this the type of defendant 
+from whom we should listen to pleas for mercy? 
+
+Mr. Merwin will tell you this is a defendant who can be 
+rehabilitated because he’s a good Christian and he helps the 
+module deputy. 
+
+In 1973, he stabbed Mrs. Stone. In 1976, he was convicted 
+of two felony convictions. In 1981, he rapes and murders a girl 
+and tries to kill two other people. You think he’s going to be 
+rehabilitated? 
+
+
+- 
+
+
+JA76 
+
+
+The law in its simplicity is that the aggravating -- if the 
+aggravating factors outweigh the mitigating, the sentence the 
+jury should vote for should be the death penalty. 
+
+How do the factors line up? The circumstances and facts 
+of the case, the defendant’s other acts showing violence, Mrs. 
+Pensinger and Mrs. Stone, her -- Blane [sic] Pensinger, the 
+defendant’s two prior convictions line up against really nothing 
+except defendant’s newborn Christianity and the fact that he’s 
+28 years old. This is not close. 
+
+You haven’t heard anything to mitigate what he’s 
+
+
+[2133] 
+
+
+done. If you wanted to distribute a thousand points over the 
+factors, 900 would have to go to what he did to Mrs. 
+Montgomery, and I really doubt if Mr. Merwin would dispute 
+that breakdown of the facts. 
+
+I don’t suppose it’s very easy for anyone to vote for the 
+death penalty in any case. What Mr. Payton did in the small 
+house in Garden Grove, May 26, 1980, under the law of the 
+state of California, he has forfeited whatever right he has to live. 
+To anyone who believes that the death penalty has any place at 
+all in our society, that is the only just and fair result. 
+
+To vote for the death penalty in this case’s decision, all of 
+you should be able to live with today, tomorrow, next week and 
+20 years from now. 
+
+Jury selection, | asked each of you in the form of a 
+hypothetical question: If the aggravating factors outweigh the 
+mitigating, could you vote for the death penalty? All of you said 
+you could. 
+
+Just as in the hypothetical, I ask you, the actual time to 
+make that decision now is here. 
+
+I ask each of you at this time in upholding the law that 
+each of you have sworn to enforce to return a verdict sentencing 
+Mr. Payton to the death penalty. 
+
+Thank you. 
+
+
+JA77 
+
+
+(Continued on page 2134; nothing omitted.) 
+[2134] 
+
+
+The Court: = Mr. Merwin. 
+
+Mr. Merwin: Could we have about five minutes, your 
+Honor? 
+
+The Court: Sure. 
+
+Mr. Merwin: Thank you. 
+
+The Court: Ladies and gentlemen, we will take a five- 
+minute break, please. 
+
+(Morning recess.) 
+
+(The following proceedings had in open court in the 
+presence of the jury:) 
+
+The Court: —_ Usual stipulation, gentlemen? 
+
+Mr. Merwin: Yes, your Honor. 
+
+The Court: You may proceed. 
+
+Mr. Merwin: Ladies and gentlemen, | was going to begin by 
+reading some excerpts out of the CALJIC or the instructions 
+that we all operate by, but I don’t think that is necessary. They 
+have been read to you once and I’!I repeat the various factors 
+and the language of the law as we come to this individually. 
+
+Before I get to the remarks I prepared, I’d like to make a 
+few comments about the argument we have just heard. 
+
+First, there are portions of it with which I agree. I agree 
+that many of the factors, and you’ ll see, as I go through them, 
+are just plain not applicable. 
+
+The law says take into account, be guided by and consider 
+the following factors if applicable. I agree with 
+
+
+12135] 
+
+
+that observation. 
+
+I think some of the other observations in terms of what the 
+evidence shows are exaggerations or perhaps deliberate efforts 
+to inflame you to reach a verdict that is not based on the 
+evidence, and that, of course, offends me. 
+
+
+JA78 
+
+
+I think the comment about blood on the face leading 
+inevitably to the fact that he is basically a vampire is just a 
+fabrication. How do we know? 
+
+We know there’s blood on his hands. We know that he has 
+hands. We know that his hands touched blood. We know that 
+hands go to the face. We also know the bat!:rcom right across 
+the room was used, so why are we led :nescapably to the 
+conclusion the prosecutor wants you to adopt that he was a 
+vampire. I think that is ridiculous. 
+
+(Continued on page 2136; nothing omitted.) 
+
+
+[2136] 
+
+
+There’s another comment that I think offended me even 
+worse, and I think possibly offends a lot of us, and that was the 
+lighthearted, almost forthy [sic] way in which Mr. Payton’s 
+religion is being treated. Almost as if that’s a copout. 
+
+And I don’t see how anybody in this room having heard 
+the evidence that they heard could say that in Mr. Payton’s case 
+that’s the case. It is just not the case. No witnesses were offered 
+to show that that wasn’t a sincere belief. 
+
+We put on eight or nine or ten, all of whom agreed; the 
+evidence indicates it is; the best evidence of his sincerity is what 
+he’s done since he reached the jail. Not his expressed views or 
+the testimony of the other inmates. He’s done a lot of things -- 
+and I’1l cover that in a minute -- which demonstrate by deed that 
+he’s sincere. 
+
+One last thing I didn’t agree with, and that is the final or 
+the applicability of the final criterion, "k." I want to talk about 
+that in a minute when I get to that. 
+
+I think if you take a look at this chart that I’ve prepared, 
+it will suggest an approach, and that’s what I really want it for, 
+that I suggest you use in analyzing the evidence and in trying to 
+apply the law of these eleven factors to the evidence that’s been 
+presented. 
+
+
+JA79 
+
+
+Let me go through with this first in general, suggest the 
+approach, and then show you where the prosecutor 
+
+
+[2137] 
+
+
+and I agree and disagree and how I think you ought to resolve 
+these issues. _ 
+
+First I listed the factors, and I did not spell them out. 
+That’s why I want to read them to you as we go through them. 
+I just gave you sort of a paraphrase or a thumbnail version of 
+what each factor entailed. 
+
+And then the next column was "applicable" which is a 
+question mark. You first have to look at the factor that’s being 
+discussed and decide in your own mind whether that factor is 
+applicable to the facts of our case. 
+
+On most of these, you'll see as I go through it the 
+prosecutor and I agree. 
+
+If you decide that a factor is not applicable, then just 
+forget the rest. It has no bearing on the case. It just was designed 
+or intended to apply to some other kind of factual situation. 
+
+If you decide that it is applicable, then you have to ask 
+yourself whether that factor is mitigating or whether it’s 
+aggravating. And if so, what weight is that factor entitled to? 
+
+I want to go through the ones that are applicable with you 
+on this in a minute. 
+
+The first criterion or the first factor that you’ re required to 
+consider -- and I'll read it to you, but I disagree to the 
+circumstances -- is described as the circumstances of the crime 
+of which the defendant was convicted 
+
+
+[2138] 
+
+
+in the present proceeding and the existence of any special 
+circumstance or circumstances found to be true. 
+
+The question is not whether it’s applicable. It’s obviously 
+applicable. In every case of special circumstances you’re not 
+
+
+JA80 
+
+
+only entitled to but you’re in essence required to consider the 
+facts of the case. They are obviously relevant. 
+
+The question is: Is it aggravating, is it mitigating, and 
+what weight should be given to it. 
+
+Now, you may find it hard to believe that I could put a 
+question under aggravating or mitigating. The problem, here . 
+we’re not using a layman’s definition. The facts are not only 
+aggravating in that sense. That they upset us, they are nauseating 
+in part. That’s not the definition. That’s not the purpose. It’s not 
+why you ask that question, and it’s not how you answer it. 
+
+(Continued on page 2139; nothing omitted.) 
+
+
+[2139] 
+
+
+The question means whether it’s aggravating, whether or 
+not the facts of this case set it apart from another first degree 
+murder during the commission of a rape, to distinguish this in 
+terms of the penalty that ought to be imposed. So we’re not 
+doing it in a vacuum. 
+
+Now, you have a different perspective than probably 
+everyone else in this room. Each one of you does individually 
+because you know from your own past and your own exposure 
+to the press and other cases, some facts about some other cases. 
+
+You don’t know and probably you’re not in a very good 
+position to determine whether this is more aggravated than one 
+that might be tried down the hall or downstairs or somewhere 
+else. The question is not whether the facts are aggravating in a 
+personal sense, but how aggravating is this. Is it really set apart 
+from any other first degree murder committed during the 
+commission of rape or attempt to commit rape. 
+
+I think if you think back on all the cases we’ re all familiar 
+with -- 
+
+
+Mr. Jacobs: _I think I have to object, your Honor. That’s not — 
+
+
+the law. 
+Mr. Merwin: That is the law. 
+Mr. Jacobs: It’s not. 
+
+
+JA81 
+
+
+The Court: Again, I will admonish the jury this is an 
+argument by counsel. You heard the evidence. You will 
+
+
+[2140] 
+
+
+be instructed on the law. I think that will take care of it, ladies 
+and gentlemen, so with that admonition, you may continue. 
+
+Mr. Merwin: Let’s think about that and see if that objection 
+makes any sense. 
+
+It doesn’t make any sense it’s just aggravated compared to 
+petty theft or aggravated compared to a rape which is not 
+involved in a murder, or is this aggravated compared to a 
+murder that is not committed during the commission of a rape? 
+
+The only question that makes any sense and the reason 
+that question is there, is it aggravated compared to another first 
+degree murder committed during the commission of a rape or 
+attempt to commit rape. That’s the context and how you judge 
+the facts and whether you find them in that setting to be 
+aggravated, I’m not trying to tell you. Maybe you will. I know 
+they are offensive. We’ve all sat and listened to it and I think if 
+you remember Mr. Payton asked for a recess during the 
+testimony of the autopsy surgeon. 
+
+Mr. Jacobs: Your Honor, that’s not in evidence. 
+
+Mr. Merwin: It’s offensive to us all. 
+
+Mr. Jacobs: _I’ll object. That is not in evidence. That’s 
+improper argument. 
+
+The Court: Again, ladies and gentlemen, I will admonish 
+you, as I said, at this particular time is the reason I admonish 
+you, ladies and gentlemen. As I said, statements of counsel 
+
+
+[2141] 
+
+
+are not in any way evidence and you ladies and gentlemen will 
+recall the evidence, I’m sure, better than the attorneys or the 
+Court. You’ve heard it all and, as I said -- so again, you rely on 
+
+
+JA82 
+
+
+your own recollection as to what the evidence is and discard the 
+comments of counsel. It is not evidence. 
+
+And with that admonition, as I say, you may proceed Mr. 
+Merwin. 
+
+Mr. Merwin: Thank you. 
+
+Second factor is defined as follows, the presence or 
+absence of criminal activity by the defendant which involved the 
+use or attempted use of force or violence or the express or 
+implied threat to use force or violence. 
+
+There is evidence of that in this case. That’s why I said 
+that’s applicable and that’s something you have to weigh and 
+you have to decide whether or not that other evidence taken in 
+the big picture is an aggravating or mitigating circumstance. 
+
+For example, let’s talk about the stabbing of Patty Stone 
+in the middle of the night. 
+
+On the one hand it’s obviously aggravating. It’s a violent 
+assault on someone else under circumstances somewhat similar 
+to the instant case, or the case we’re dealing with. But on the 
+other hand, I think it illustrates the point that I was trying to 
+make at the end of the penalty phase, and that is that this had to 
+be a mindless, thoughtless, although equally senseless crime. 
+
+
+[2142] 
+
+
+The prosecution’s response, if you recall, is no, he was 
+there to rape and then he wanted to kill the victim. That 
+obviously doesn’t apply if you analyze or try to analyze or 
+compare the two cases. 
+
+Think about Stone. There was no attempt to commit rape. 
+That wasn’t for the purpose of rape. It wasn’t for any sexual 
+purpose, that was explained. It wasn’t for any purpose. 
+
+Exactly our position on the underlying case is the position 
+I think that is amply demonstrated by the Stone killing -- the 
+Stone stabbing, I’m sorry, and that is it was senseless, 
+obviously. It was followed or preceded by some kind of a break. 
+We don’t have evidence to establish what kind or what kind of 
+
+
+JA83 
+
+
+psychiatric problem generated that stabbing, but it’s the only 
+reasonable explanation of the evidence. ; 
+
+So whether or not you consider the Stone case or the 
+Stone incident an aggravating or mitigating circumstance I think 
+is arguable. I think it does put the current case in a different 
+light or it puts it in an aggravating light or mitigating light I 
+leave it to your judgment, but it’s not at all obvious, although 
+Mr. -- or the prosecutor would certainly like you to believe that. 
+It’s not obvious to me. 
+
+Third one is presence or absence of felony convictions. I 
+put it’s applicable because we have evidence 
+
+
+[2143] 
+
+
+of two prior felony convictions, but whether or not that is 
+mitigating or aggravating, I submit, is not at all obvious. 
+
+The reason for that is neither one is a violent crime. One 
+of them is consensual, unlawful sex with someone under the age 
+of 18. That is not a violent crime. That is not even something 
+directly related to the type of case we’re talking about. 
+
+The other felony conviction is for possession for more 
+than three ounces of marijuana; hardly an aggravating 
+circumstance in either case. Maybe applicable, but I don’t think 
+it is aggravating, or if it is aggravating, if that’s your judgment, 
+it’s entitled to about zero or nil weight in the kind of decision 
+you are making now. 
+
+The next category is the one where I agree with Mr. 
+Jacobs, is whether or not the offense was committed while the 
+defendant was under the influence of extreme mental or 
+emotional disturbance. 
+
+I think we could perhaps speculate that was the situation 
+because the acts were irrational. I agree that factor is 
+inapplicable. Therefore, having reached that, you don’t need to 
+weigh it. You don’t need to decide whether a nonexisting fact 
+or factor is applicable -- pardon me, entitled to much weight at 
+all. It’s just not involved in the case. 
+
+
+JA84 
+
+
+The next criterion, which is "e," is whether or not the 
+offense was committed under circumstances which 
+
+
+[2144] 
+
+
+the defendant reasonably believed to be a moral justification or 
+extenuation for his conduct. 
+
+I agree with the prosecutor on that, that was not 
+applicable. 
+
+The next one is -- I’ve gotten one out of order here -- "e," 
+whether or not the victim was a participant in the defendant’s 
+homicidal conduct or consented to the homicidal act. That is 
+obviously not applicable. That was designed for the situation 
+where you are playing Russian roulette or where someone is 
+perhaps very sick, critically ill and asks to be killed, and that’s 
+the kind of case that it was designed for. It’s just not applicable 
+to ours. And we agree, on that. 
+
+The next is whether or not the defendant acted under 
+extreme duress or under substantial domination of another 
+person. This is more the situation where a husband forces a wife 
+that he’s been beating for years into killing a child or something 
+of that nature. 
+
+(Continued on page 2145; nothing omitted.) 
+
+
+[2145] 
+
+
+Just don’t apply to the facts of our case. So you don’t need 
+to worry whether it’s aggravating or mitigating or what weight 
+is it entitled to. , 
+
+The next is whether or not at the time of the offense the 
+capacity of the defendant to appreciate the criminality of his 
+conduct or to conform his conduct to the requirements of law 
+was impaired as a result of mental disease or defects or the 
+effects of intoxication. 
+
+Now, the psychiatric testimony -- psychiatric testimony 
+was not presented. So there’s no direct evidence on that. There’s 
+
+
+JA85 
+
+
+considerable circumstantial evidence on that. And I don’t see 
+how anybody can reach the conclusion that this stabbing death 
+was a result of anything other than (snapping fingers) some kind 
+of a psychiatric disorder that manifested itself under pressure at 
+I don’t think you need a psychiatrist to come in and tell 
+
+you that and explain his credentials and tell you about 
+psychiatry to draw the obvious inference, and that’s that due to 
+some psychiatric problem or some defect, Mr. Payton - 
+
+Mr. Jacobs: Well, excuse me. I have to object to this 
+because there’s no evidence whatsoever. 
+
+Mr. Merwin: There is evidence of it. 
+
+Mr. Jacobs: Of psychiatric testimony. Speaking 
+hypothetically; it’s the same thing. 
+
+Mr. Merwin: I don’t think you have to present direct 
+
+
+[2146] 
+
+
+psychiatric testimony to argue the relevance of the facts. 
+
+The Court: — Ladies and gentlemen, again, as I said, this is 
+a situation where I’m going to have you rely on your own 
+recollection of the evidence. You heard all of the testimony in 
+both the guilt and at the penalty phase. 
+
+And as I said, it’s mv position and argument that it is just 
+argument. And for us to try and recall between the attorneys and 
+the Court what was said and what was not said would probably 
+end up that all three of us would be in error. So you have 12 of 
+you who will be in the jury room, and you'll recall the evidence. 
+You can evaluate it. 
+
+If there’s any question in your mind, as I said, you have a 
+right to come in and request that any testimony be read back if 
+you aren’t clear on what the testimony was. 
+
+So again, with that admonition, I want to again advise you 
+and admonish you, as | said, that this is argument and these 
+gentlemen would not intentionally misstate the evidence. 
+
+
+JA86 
+
+
+But oftentimes, as I said, they may be in error. And I’m 
+not going to evaluate who may or may not be in error here. They 
+may both be right. 
+
+But us | said, rely on your own recollection. And if you 
+have any question, as I said, you can come back and we’ll read 
+any testimony back you feel you may need. 
+
+So again, with that admonition, you may continue, Mr. 
+Merwin. 
+
+
+[2147] 
+
+
+Mr. Merwin: Thank you. I think one way to approach this 
+particular issue is to ask yourself whether or not the acts 
+involved in the Pensinger home and the acts involved with Mrs. 
+Stone are the acts of a rational person or a sane person. 
+
+Do you need a psychiatrist to take the stand and tell you 
+they are not? 
+
+Certainly, the Stone case, | think illustrates even better 
+than the current one the irrationality of the acts: asleep in bed, 
+having had sex, she’s awakened, she’s threatened with a knife, 
+she says, "come on, cut it out," or, "get out of here," something 
+like that; and for no reason at all, no reason at all is stabbed. 
+
+Then something happens. Police are called. Mr. Payton 
+renders first aid. Hardly the act of someone who is not under 
+some kind of mental disorder resulting from some kind of 
+diminished capacity. 
+
+Seems to me it’s hard to rationalize the facts to any other 
+conclusion. 
+
+. Referring now to "g," the specific factor set out in the law 
+is whether or not the defendant acted under the extreme duress 
+or under substantial domination of another 
+
+We talked about that. That’s obviously not applicable. 
+
+"I," the age of the defendant at the time of the crime. That 
+is applicable. We know from the evidence that 
+
+
+JA87 
+
+
+[2148] 
+
+
+he was 26. We know from that stipulation if you -- if you go 
+backwards, he was 26. 
+
+Mr. Jacobs: _I think we said 28. 
+
+The Court: | Obviously a good time for me to indicate, as 
+I said, as I said, I believe the stipulation was 28. This is, as I 
+said, again admonish you not to rely on these gentlemen’s 
+argument. So with that comment, I think 28 was the stipulation. 
+
+Mr. Merwin: The stipulation was he is 28. The factor calls 
+for the age of the defendant at the time of the crime. 
+
+The Court: You're correct. See, now we’re both wrong. 
+You may continue. 
+
+Mr. Merwin: So if you go backwards in time, that puts him 
+at 26 or 27. We don’t have the exact date of birth because that 
+wasn’t included in the stipulation. But we’re talking about 
+someone who, by virtue of age, is immature. We’re not talking 
+about someone who is in his 40’s or 50’s who has demonstrated 
+by a long list of convictions or a long list of other incidents that 
+he’s mature or that he has established himself as someone not 
+deserving of our continued concern. 
+
+We’ re talking about a 26-year-old immature man. | think 
+the age here is important, not just for that point, but also 
+because that leaves him the rest of his productive life in prison, 
+potentially, ahead of him. Potentially, 
+
+
+[2149] 
+
+
+if that’s the verdict of this jury, that’s a lot of years of 
+potentially productive existence. 
+
+So I think age is a factor, and I think it’s an important 
+factor. 
+
+When we were talking about these factors in individual 
+jury selection, we commented at some length about how you go 
+about analyzing them. You don’t count them up. You weigh 
+them against each other. You can give age any weight you think 
+
+
+JA88 
+
+
+it’s entitled to. You could give it zero weight or you could say 
+that that’s the most important factor on that board. That’s up to 
+each of you individually to decide. 
+
+Next one, "j," is whether or not the defendant was an 
+accomplice to the offense and his participation in the 
+commission of the offense was relatively minor. 
+
+Here again, Mr. Jacobs and I agreed on this. It’s just not 
+applicable. That’s designed for a case where there’s more than 
+one defendant. 
+
+Finally, here’s one we disagree on rather strenuously. And 
+that’s the last one, which is "k," which is any other circumstance 
+which extenuates the gravity of the crime even though it’s not 
+a legal excuse for the crime. 
+
+Mr. Jacobs tells you that’s not applicable. If that’s not 
+applicable and that therefore all the evidence we presented is 
+
+
+not applicable, why didn’t we hear any objections to its 
+relevance? 
+
+
+[2150] 
+
+
+Mr. Jacobs: Well, that’s not a proper thing to say either 
+because we'd be outside the presence of the jury. 
+(Continued on page 2151; nothing omitted.) 
+
+
+[2151] 
+
+
+The Court: Yes. As I said, I’m not going to repeat the 
+admonition, but, as I said, you may continue, Mr Merwin. 
+Mr. Merwin: The whole purpose for the second phase or 
+trial is to decide the proper punishment to be imposed. 
+Everything that was presented by the defense relates directly to 
+that. 
+This section "k" may be awkwardly worded, but it does 
+not preclude or exclude the kind of evidence that was presented. 
+
+
+It’s a catch-all phase [sic]. It was designed to include, not 
+exclude, that kind of evidence. 
+
+
+JA89 
+
+
+Any jury that wanted -- that was in the position of trying 
+to determine the fairest possible sentences, select them between 
+death or life without possibility of parole, would not only want 
+that kind of evidence but would need it to make an intelligent 
+decision. 
+
+I submit the facts of this case, and this would not always 
+be true, that that is the most critical of the factors, not only is it 
+not irrelevant, it’s the most critical of all the factors and I want 
+to go through some of the reasons for that with you. 
+
+I think the evidence that was presented showed a number 
+of extenuating or mitigating circumstances that fall into the 
+general category of extenuating circumstances that cannot rise 
+to the level of an excuse or defense to the crime and that is what 
+we were presenting. 
+
+For omni the evidence showed that Mr. Payton’s 
+
+
+[2152] 
+
+
+bright. He authored, has authored an autobiography. He’s taken 
+a course in calculus. He’s been accepted to a Bible -- 
+correspondence Bible college. It also shows he has tremendous 
+leadership potential that not only was recognized by his pastor 
+who knew him but when he was 16, 17 and 18, but has 
+demonstrated by his conduct in the jail. He has apparently on his 
+own set up some of these programs that resulted in Bible studies 
+and even has assisted other inmates in resolving their own 
+problems regarding their own faith. 
+
+He is talented and I submit there’s a section of the 
+literature that was presented, and whether or not you choose to 
+interpret the frolicking seals as an indication of callousness or 
+as an indication of talent, there’s no way to indicate the way it 
+was written and the only basis on which it was authored and 
+
+I think the writing of his experiences in Cam Ranh Bay is 
+also an equal illustration of his talent and his general ability. 
+
+
+JA90 
+
+
+I think most important, though, the evidence to me 
+demonstrated that he has found a new productive, forward 
+looking purpose for his life, and he plans to devote his life to 
+that, namely, the prison ministry. 
+
+The way this was treated by Mr. Jacobs was so flippant I 
+couldn’t believe it. 
+
+Let’s think about it. The first reaction it might be all right, 
+whenever the door is slammed shut, you get 
+
+
+[2153] 
+
+
+religion. That may be true with some people, so judge for - 
+
+
+yourself the sincerity of Mr. Payton. Judge for yourself the 
+sincerity of the witnesses who took the stand and said no, I 
+know he’s sincere. 
+
+You heard his mother. I think it was hard to believe she 
+was insincere when she told you she knew he was sincere. You 
+heard about all the hours he spent with other inmates trying to 
+help them resolve their own problems dealing with their faiths. 
+
+That doesn’t sound like insincerity on my part, or it 
+doesn’t sound like that to me. 
+
+You could ask Keith Dandley who was one of the 
+witnesses whether he thinks he was sincere. He testified under 
+oath he saved his life. He talked him out of suicide by 
+redirecting his life, by affecting his faith. Now, that’s someone 
+who knows better. To him it’s not a joke. It’s not something that 
+should be taken lightly or flippantly. 
+
+I don’t think you got that impression from Barbara Seglie 
+either. She testified as a missions director for a local church 
+who spends hours and hours and hours dealing with Mr. Payton 
+and who plans to continue working with him in the event the 
+sentence here is life without parole. 
+
+I don’t think she considers her time that valueless or what 
+she is doing that valueless. 
+
+Apart from sincerity, which I think is obvious and was 
+never even refuted, not one witness said he felt 
+
+
+JA91 
+
+
+[2154] 
+
+
+or she felt he was insincere. The next question seems to me is 
+could Mr. Payton have a productive prison ministry or could he 
+do something valuable for other inmates or for others in prison. 
+
+I think the obvious answer there is that he could. He’s 
+demonstrated that he could. He’s not just talking about it. We’re 
+not just putting on people to say well, gee, I have found religion, 
+therefore, give me a break. 
+
+What he’s doing with his deeds is demonstrating that he 
+can play a productive role in a lifetime prison setting. 
+
+One example, again, is Keith Dandley. How many lives 
+could he save in the course of the next 40 or 50 years while he’s 
+in prison. He’s already saved the one anc I’m not talking about 
+spiritual saving. That’s another, aspect to be considered. 
+
+But just in terms of talking Keith Dandley out of 
+committing suicide, I think he’s done a tremendous service and 
+demonstrated his value to all of us. 
+
+We know that he’s helped in terms of keeping the lid on 
+or keeping violence down in the jail. Deputy Engen, I think I 
+may be mispronouncing his name, was clear on that. He said he 
+was glad to have him in his mod and the reason was he not only 
+was able to help calm down other inmates which, of course, is 
+becoming increasingly difficult for the system to cope with, but 
+he would bring to the deputy 
+
+
+[2155] 
+
+
+sheriff’ s attention problems before they actually developed so 
+they could be resolved and resolved without violence. That 
+obviously has an advantage to all of us and that’s a role he could 
+and has demonstrated he would play if the sentence was life 
+without possibility of parole. 
+
+I think when you decide what value ought to be placed on 
+what Mr. Payton could do within a prison setting for the rest of 
+his life, you have to think of first his value to other inmates by 
+
+
+JA92 
+
+
+helping keep the lid on or calm his fellow inmates. He prevents 
+violence. By writing, he might brighten someone’s life. 
+(Continued on page 2156; nothing omitted.) 
+
+
+[2156] 
+
+
+_ By communicating his faith and his feelings to others, he 
+may help someone else spiritually. And those people may get 
+out of prison some day, and those people may influence others. 
+
+I think there are a lot of good reasons to keep Bill Payton 
+alive, an awful lot of good reasons. And that’s exactly what I 
+think " k" is talking about. 
+
+Are there good reasons for you folks to vote to keep Bill 
+Payton alive, and I submit there are. 
+
+One last observation. And that’s that I trust that none of 
+you (sic) when you go into that room will demonstrate your own 
+personal respect for human life by deliberately destroying it. 
+
+Thank you. 
+
+The Court: Ladies and gentlemen, with regard to the 
+instructions the Court’s about to give you, want to indicate to 
+you that you’ ve previously been instructed, and the instructions 
+I previously gave will be given to you again in the jury room to 
+use if applicable in the penalty phase of this trial. 
+
+However, I want to indicate to you that the fact that « few 
+of the instructions may be given twice you’re to draw no 
+inference that they are intended to be given more weight than 
+any other instruction. 
+
+So with that general statement, every person who testifies 
+under oath or affirmation as a witness, you are 
+
+
+[2157] 
+
+
+the sole judges of the believability of a witness and the weight 
+to be given the testimony of each witness. 
+
+
+JA93 
+
+
+In determining the believability of a witness you may 
+consider anything that has a tendency in reason to prove or 
+disprove the truthfulness of the testimony of the witness, 
+including but not limited to any of the following: 
+
+The extent of the opportunity or ability of the witness to 
+see or hear or otherwise become aware of any matter about 
+which the witness has testified; 
+
+The ability of a witness to remember or to communicate 
+any matter about which the witness has testified; 
+
+The character and quality of that testimony; 
+
+The demeanor and manner of the witness while testifying; 
+
+The existence or non-existence of a bias, interest, or other 
+motive; 
+
+Evidence of the existence or non-existence of any fact 
+testified to by the witness; 
+
+The attitude of the witness towards the action in which 
+testimony has been given by the witness or toward the giving of 
+testimony; 
+
+A statement previously made by the witness that is 
+consistent or inconsistent with the testimony of the witness; 
+
+The witness’s prior conviction of a felony. 
+
+Testimony which you believe given by one witness 
+
+
+[2158] 
+
+
+is sufficient to prove for the proof of any facts. However, before 
+finding any fact required to be established by the prosecution to 
+be proved solely by the testimony of a single witness, you 
+should carefully review all of the testimony upon which the 
+proof of such fact depends. 
+
+It is a constitutional right of a defendant in a criminal trial 
+that he may not be compelled to testify. You must not draw any 
+inference from the fact that he has not testified. Further, you 
+must neither discuss this matter or permit it to enter into your 
+deliberations in any way. 
+
+
+JA94 
+
+
+As pertaining to the evidence of other crimes not charged 
+at this trial, but introduced at the penalty stage, the following is 
+applicable: 
+
+In deciding whether or not to testify, the defendant may 
+choose to rely on the state of the evidence and upon the failure, 
+if any, of the People to prove beyond a reasonable doubt every 
+essential element of the charge against him, and no lack of 
+testimony on defendant’s part will supply a failure of proof by 
+the People so as to support a finding against him on any such 
+essential element. 
+
+As to evidence of other crimes committed by the 
+defendant not charged in this case, such offenses before they can 
+be considered must be proven to you beyond a reasonable doubt, 
+as has previously been defined to you. 
+
+In determining the penalty to be imposed on the 
+defendant, you shall consider all of the evidence which has 
+
+
+[2159] 
+
+
+been received during any part of the trial in this case, except as 
+you may be hereafter instructed. You shall consider, take into 
+account and be guided by the following factors, if applicable: 
+
+(a), The circumstances of the crime of which the 
+defendant was convicted in the present proceeding and the 
+existence of any special circumstances found to be true. 
+
+(b), The presence or absence of criminal activity by the 
+defendant which involved the use or attempted use of force or 
+violence or the expressed or implied threat to use force or 
+violence. 
+
+Presence or absence of any prior felony conviction. 
+
+Whether or not the offense was committed while the 
+defendant was under the influence of extreme mental or 
+emotional disturbance. 
+
+Whether or not the victim was a participant in the 
+defendant’s homicidal conduct or consented to the homicidal 
+act. 
+
+
+JA9S5 
+
+
+Whether or not the offense was committed under 
+circumstances which defendant reasonably believed to be a 
+moral justification or extenuation for his conduct. 
+
+(g), Whether or not the defendant acted under extreme 
+duress or under the substantial domination of another person. 
+
+(h), Whether or not at the time of the offense the capacity 
+of the defendant to appreciate the criminality 
+
+
+[2160] 
+
+
+of his conduct or to conform his conduct to the requirements of 
+the law was impaired as a result of mental disease or defects or 
+the effects of intoxication. 
+
+(i), The age of the defendant at the time of the crime. 
+
+(j), Whether or not the defendant was an accomplice to the 
+offense and his participation in the commission of the offense 
+was relatively minor. 
+
+(k), Any other circumstance which extenuates the gravity 
+of the crime even though not a legal excuse for the crime. 
+
+The defendant in this case has been found guilty of murder 
+of the first degree. The charge that the murder was committed 
+under a special circumstance has been found to be true. It is the 
+law of this state that the penalty for a defendant found guilty of 
+murder in the first degree shall be death or confinement in the 
+state prison for life without possibility of parole in any case in 
+which the special circumstances charged in this case has been 
+found to be true. | 
+
+Under the law of this state, you must now determine 
+which of said penalties shall be imposed on the defendant. 
+
+It is now your duty to determine which of the two 
+penalties, death or confinement in the state prison without 
+possibility of parole, shall be imposed on the defendant. 
+
+
+JA96 
+
+
+[2161] 
+
+
+After having heard all of the evidence and after having 
+heard and considered the argument of counsel, you shall 
+consider, take into account and be guided by the applicable 
+factors of aggravating and mitigating circumstances upon which 
+you have been instructed. 
+
+(Continued on page 2162; nothing omitted.) 
+
+
+[2162] 
+
+
+If you conclude that the aggravating circumstances 
+outweigh the mitigating circumstances, you shall impose a 
+sentence of death. 
+
+However, if you determine that the mitigating 
+circumstances outweigh the aggravating circumstances, you 
+shall impose a sentence of confinement in the state prison for 
+life without the possibility of parole. 
+
+You shall now retire and select one of your numbers to act 
+as foreman who will preside over your deliberations. 
+
+In other words, to make a determination to the penalty, all 
+12 jurors must agree. 
+
+Any verdict that you reach must be dated and signed by 
+your foreman on a form that will be provided and then shall 
+return it to this courtroom. 
+
+The clerk will now swear the bailiff to take charge of the 
+jurors with the exception of the two alternates. 
+
+(Clerk swears the bailiff.) 
+The Clerk: | Would you state your name for the record. 
+The Bailiff: Kevin Laughlin, L-A-U-G-H-L-I-N. 
+The Court: _—_ All right, Mr. Bailiff. 
+
+(Jurors exited the courtroom.) 
+(The following proceedings had in open court:) 
+The Court: The clerk will swear the bailiff to take charge 
+of the alternates. 
+(Clerk swears the bailiff.) 
+
+

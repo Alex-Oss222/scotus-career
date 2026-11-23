@@ -1,0 +1,2373 @@
+Source: https://archive.org/download/micro_IA40385016_0015/micro_IA40385016_0015%2008.%20Brief%20for%20the%20United%20States_djvu.txt
+
+—— = SE NTE = lai. iii, Mis ———EE 
+
+
+No. 03-9168 
+
+
+In the Supreme Court of the Gnited States 
+
+
+REGINALD SHEPARD, PETITIONER 
+Vv. 
+
+
+UNITED STATES OF AMERICA 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FIRST CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES 
+
+
+PAUL D. CLEMENT 
+Acting Solicitor General 
+Counsel of Record 
+
+
+CHRISTOPHER A. WRAY 
+Assistant Attorney General 
+
+
+MICHAEL R. DREEBEN 
+Deputy Solicitor Gereral 
+
+
+JOHN P. ELWOOD 
+Assistant to the Solicitor 
+General 
+
+
+. THOMAS M. GANNON 
+Attorney 
+
+
+Department of Justice 
+Washington, D.C. 20530-0001 
+(202) 514-2217 
+
+
+QUESTION PRESENTED 
+
+
+Whether, when a state offense embraces conduct that 
+constitutes generic burglary under Taylor v. United 
+States, 495 U.S. 575 (1990), as well as conduct that does 
+not, certified copies of complaint applications and incor- 
+porated police reports that are contained in state court 
+files may be used to determine that the defendant’s 
+guilty pleas were to generic “burglar[ies]” and thus 
+“violent felon[ies]” within the meaning of the Armed 
+Career Criminal Act of 1984, 18 U.S.C. 924(e). 
+
+
+(1) 
+
+
+IV 
+TABLE OF CONTENTS 
+
+
+TABLE OF CONTENTS—Continued: Page 
+Page 4. The court of appeals’ test does not 
+Opinions a 1 reverse the burden of proof for 
+pe | 1 demonstrating the applicability of 
+Statutory provisions INVO]VE ............ssssseseneeeneenenssnenesnennenenenns 2 ACCA enhancements ~ 33 
+EE cnet 2 B. The doctrine of constitutional doubt does 
+Summary Of argument ...............c...secscsssscecsssssnsensenensensensnsssseneasees 15 not require adoption of petitioner’s 
+Argument: construction 35 
+The Armed Career Criminal Act permits C. The rule of lenity does not compel adoption 
+district courts to consider reliable record of petitioner’s construction 41 
+evidence such as complaint applications and D. The continuing validity of Almendarez- 
+police reports in determining whether a Torres is not before this Court 43 
+defendant pleaded guilty to a burglary of a Conclusion 46 
+building and thus was convicted of a “violent 
+Eee 18 TABLE OF AUTHORITIES 
+A. Taylor permits courts to consider com- Cases: 
+plaint applications and incorporated police Adickes v. S.H. Kress & Co., 398 U.S. 144 (1970) ............ 44 
+reports to determine whether a guilty Albernaz v. United States, 450 U.S. 333 (1981) ..scsases 42 
+plea constituted an admission to burglary Almendarez-Torres v. United States, 523 U.S. 224 
+ofa building ccccccsccccececcsocsccecscsocesceses 20 (1998) 17, 36, 37, 41, 43, 44, 45 
+1. Taylor does not prohibit sentencing Apprendi v. New Jersey, 530 U.S. 466 (2000) ............... 17, 36, 
+courts from considering guilty pleas 37, 44, 45 
+under nongeneric burglary statutes as Blakely v. Washington, 124 S. Ct. 2531 (2004) ...........0000 37 
+ACCA predicates 21 Bowen v. Massachusetts, 487 U.S. 879 (1988) ..........es00 27 
+2. Examining the complaint application Bradshaw v. United States, 537 U.S. 1049 (2002) ............ 46 
+and incorporated police report to deter- Brockett v. Spokane Arcades, Inc., 472 U.S. 491 
+mine whether the guilty plea is an (1985) ee ere ee eee 27 
+admission to unlawSel entry ofc building Bulgin v. United States, 535 U.S. 1095 (2002) ............0000 46 
+; ; : Commonwealth v. Brown, 748 N.E.2d 972 (Mass. 
+is consistent with Taylor menecensaiemsanenien 22 App. Ct. 2001) 
+ata pp 26 
+3. Considering court documents to deter- Commonwealth v. DelVerde, 496 N.E.2d 1357 
+mine if guilty pleas constitute admissions (Mass. 1986) 16, 25 
+to unlawful entry of buildings does not Commonwealth v. Durling, 551 N.E.2d 1193 (Mass. 
+create the problems Taylor senght to 1990) 39 
+GIUGRD cusnnssensenceennsnisnanibaiiamindimaintditeaimaaiiiaaens 30 | Commonwealth v. Gabin, No. 12069, 2001 WL 1566172 
+| (Mass. Super. Ct. Dec. 7, 2001) ......c.cccccccsescscscsscscsesesssecsesers 29 
+(IIT) 
+
+
+Cases—Continued: 
+Commonwealth v. Grant, 689 N.E.2d 1336 (Mass. 
+
+
+Commonwealth v. Jones, 799 N.E.2d 601 (Mass. 
+
+Dag. C0. BBD occcecqyecccssressonsssrcosssscscennseensesessennsessssssssescsonsanens 
+Commonwealth v. Lopez, 690 N.E.2d 809 (Mass. 
+
+BOTY cceccccsnsccesarsssscnsnssenenscsminnmsosacenvestensmescensecsemntemnsctasenesmnensnese 
+
+
+ITED sccinsctanttnnnnatenensecniniiitnnsinnaiiadeiiaaninniaahiatiinnamniaiens 
+Delta Airlines, Inc. v. August, 450 U.S. 346 
+
+GED cccnnnesentesscinsnnsepinitaiunsiieisiatinantinapiniictadiaiaieaiaaiinniinnnepinints 
+Dretke v. Haley, 1248S. Ct. 1847 (2004) ..........ccccscessesceeseees 
+Ford v. United States, 535 U.S. 1098 (2002) ........ccccseeeees 
+Garcia-Saldivar v. United States, 1248. Ct. 2067 
+
+
+Graham v. West Virginia, 224 U.S. 616 (1912) «0.0... 
+Gray v. United States, 536 U.S. 963 (2002) ......ccceseseseeees 
+Hagen v. United States, 537 U.S. 828 (2002) ......ecesesseeees 
+Harris v. United States, 536 U.S. 545 (2002) occ 
+Hitt v. Kansas, 537 U.S. 1104 (2008) .............sccscscsssseseeeeees 
+Jones v. United States, 1248S. Ct. 1145 (2004) oe. 
+Jones v. United States, 526 U.S. 227 (1999) .......c cee 
+Kamen v. Kemper Fin. Servs., Inc., 500 U.S. 90 
+
+SIDED scsinigniesicnncninstannsesneistienaniigunmeibiiinisiéiibennaenecen 
+Lapsley v. United States, 1248S. Ct. 1409 (2004) .....0........ 
+Lozano-Oritz v. United States, 535 U.S. 1113 
+
+
+Luzardo v. United States, 536 U.S. 962 (2002) ...........c.000 
+Meza-Gonzalez v. United States, 1248S. Ct. 2017 
+
+Nichols v. United States, 511 U.S. 738 (1994) 
+North Carolina v. Alford, 400 U.S. 25 (1970) 20.0... 
+Old Chief v. United States, 519 U.S. 172 (1997) 
+Parke v. Raley, 506 U.S. 20 (1992) 
+
+
+OOOOH EEE EEO EEE EEE EEE ee 
+
+
+VI 
+Cases—Continued: Page 
+Pennsylvania Dep't of Corrs. v. Yeskey, 524 U.S. 206 
+
+(1998) 44 
+Pineda-Cortes v. United States, 124 S. Ct. 2813 
+
+— es 45 
+Porter v. Superintendant, 417 N.E.2d 1199 (Mass. 
+
+1981) 24 
+Reyes v. United States, 535 U.S. 932 (2002) 46 
+Rust v. Sullivan, 500 U.S. 173 (1991) 37 
+Sanchez-Medina v. United States, 1248S. Ct. 1655 
+
+(2004) 45 
+Shepard v. United States, 534 U.S. 829 (2001) .........c000 3 
+Spencer v. Texas, 385 U.S. 554 (1967) : 45 
+Stone v. Powell, 428 U.S. 465 (1976) 43 
+Taylor v. United States, 495 U.S. 575 (1990) .........00+. passim 
+TRW Inc. v. Andrews, 534 U.S. 19 (2001) . 26 
+United States v. Adams, 91 F.3d 114 (11th Cir.), 
+
+cert. denied, 519 U.S. 1047 (1996) 22 
+United States v. Bean, 537 U.S. 71 (2002) ..............ccceee 25-26 
+United States v. Broce, 488 U.S. 563 (1989) 24 
+United States v. Campbell, 270 F.3d 702 (8th Cir. 
+
+2001), cert. denied, 535 U.S. 946 (2002) 40 _ 
+United States v. Coleman, 158 F.3d 199 (4th Cir. 
+
+1998) 29 
+United States v. Cook, 26 F.3d 507 (4th Cir.), 
+
+cert. denied, 513 U.S. 953 (1994) 22 
+United States v. Cooper, 375 F.3d 1041 (10th Cir. 
+
+2004) 40, 41 
+United States v. Delgado, 288 F.3d 49 (1st Cir.), 
+
+cert. denied, 537 U.S. 1062 (2002) 32 
+United States v. Demint, 74 F.3d 876 (8th Cir.), 
+
+cert. denied, 519 U.S. 951 (1996) 30 
+United States v. DiPina, 178 F.3d 68 (1st Cir. 
+
+1999) 27 
+
+
+Vil 
+
+
+Cases—Continued: Page 
+
+United States v. Dueno, 171 F.3d 3 (Ast Cir. 
+
+STII cocina een dhliteinciaaainaitasaentaialentiaati 33 
+United States v. Gatewood, 230 F.3d 186 (6th Cir. 
+
+2000), cert. denied, 534 U.S. 1107 (2002) oo... ceeeceeeeeees 40 
+United States v. Harris, 964 F.2d 1234 (1st Cir. 
+
+© RRA Rea OR ac OR Dw aD 12, 22, 23, 32, 39 
+United States v. Hernandez, 218 F.3d 272 
+
+TED itcninescirsniiiniiettaihuenaihieliaaiiamsiatiunuiiindiemaianiey 22, 29 
+United States v. Hill, 131 F.3d 1056 (D.C. Cir. 
+
+ELSA mente es rae he Cee a 22, 29 
+United States v. Howze, 343 F.3d 919 (7th Cir. 
+
+TTT ccsciccecesteestieeiiiiiceiidatiaiaciustaiamaitiaamasidhiacsinaiahidinhiaeieneaeipntineinaniinen 30 
+United States v. Hudspeth, 42 F.3d 1015 (7th Cir. 
+
+1994), cert. denied, 515 U.S. 1105 (1995) occ eeceeeeees 30 
+United States v. Kempis-Bonola, 287 F.3d 669 
+
+(8th Cir.), cert. denied, 537 U.S. 914 (2002)... eeeeeeeee 39-40 
+United States v. Martinez-Garcia, 268 F.3d 460 
+
+(7th Cir. 2001), cert. denied, 534 U.S. 1149 (2002) ........... 40 
+United States v. Morris, 293 F.3d 1010 (7th Cir.), 
+
+cert. denied, 537 U.S. 9B7 (2002) .......c.ccecscossssssresscseeseseresees 40 
+l’nited States v. Palmer, 68 F.3d 54 (2d Cir. 
+
+IID soheshistephiaiein ieee ik iy 22, 29, 30 
+United States v. Payton, 918 F.2d 54 (8th Cir. 
+
+STEED sccscicensieciecniceineiitcaabeiaeaininimenhtaili iat int tami istaiciditaes 30 
+United States v. Richardson, 230 F.3d 1297 (11th 
+
+Cir. 2000), cert. denied, 532 U.S. 983 (2001) ................. 29-30 
+United States v. Roberts, 39 F.3d 10 (1st Cir. 
+
+SET shies ehieceiiieieicie Ae il il ene - 27 
+United States v. Sanders, 377 F.3d 845 (8th Cir 
+
+TTY ‘stainicinlsesiiaciechcnaallacteiaieddididaem tl iraiiatad teathiie ait 40, 41 
+United States v. Santiago, 268 F.3d 151 (2d Cir. 
+
+2001), cert. denied, 535 U.S. 1070 (2002) ............ 18, 39, 40, 41 
+L’nited States v. Stone, 306 F.3d 241 (Sth Cir. 
+
+SET etiinieeidtiieatiitaiainiase nian’ sesquabenseenesnensmnnueniemenieneeinnenen 40 
+
+
+Yee v. Escondido, 503 U.S. 519 (1992) 200.0... cc ceccceeseeeeee . 43 
+
+
+Vill 
+Constitution, statutes, regulations and rules: Page 
+U.S. Const. Amend. V (Due Process Clause) 45 
+
+
+Armed Career Criminal Act of 1984, Pub. L. No. 98-473, 
+Tit. II, §§ 1801-1803, 98 Stat. 2185 (codified at 
+18 U.S.C. App. 1202 (1982 & Supp. I] 1984)) «0... 3 
+18 U.S.C. App. 1202(¢)(9) 4 
+Armed Career Criminal Act, as amended, Pub. L. No. 
+99-570, §§ 1401-1402, 100 Stat. 3207-39 
+
+
+to 3207-40, 18 U.S.C. 924(e)..... 3, 4, 42, 44 
+
+18 U.S.C. 924(e)(1) 11 
+
+18 U.S.C. 924(e)(2)(B) 5 
+
+8 U.S.C. 1326 40 
+
+8 U.S.C. 1326(b)(2) 40 
+
+18 U.S.C. 922(g) 3 
+
+18 U.S.C. 922(g)(1) 2,6 
+
+18 U.S.C. 924(a)(2) 3 
+Mass. Gen. Laws ch. 266 (2002): 
+
+§ 16 7, 15, 24 
+
+§ 18 ~ 7,15, 24 
+United States Sentencing Guidelines § 4B1.4 comment. 
+
+(n.1) 42 
+Sup. Ct. R. 14.1(a) 18, 43 
+Mass. Dist./Mun. Ct. R. Crim. P. 27 
+Mass. R. Crim. P. 12(¢)(5)(A) 25 
+Mass. Spec. R. of Dist. Ct. 211(A)(4) 29 
+
+Miscellaneous: 
+
+
+Eric Blumenson et al., Massachusetts Criminal Practice 
+(1998): 
+
+
+Vol. 1 7,8 
+Vol. 2 16, 26 
+132 Cong. Rec. 7697 (1986) 4 
+H.R. Rep. No. 1073, 98th Cong., 2d Sess. (1984) ............0++ 3,4 
+Mass. Super. Ct. Standing Order 2-86 8, 27 
+S. Rep. No. 190, 98th Cong., Ist Sess. (1983) 4 
+
+
+In the Supreme Court of the Gnited States 
+
+
+No. 03-9168 
+REGINALD SHEPARD, PETITIONER 
+v. 
+
+
+UNITED STATES OF AMERICA 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FIRST CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the court of appeals (J.A. 172-184) is 
+reported at 348 F.3d 308. The opinion of the district 
+court (J.A. 146-171) is reported at 181 F. Supp. 2d 14. 
+A prior opinion of the court of appeals (J.A. 67-91) is 
+reported at 231 F.3d 56. A prior opinion of the district 
+court (J.A. 46-66) is reported at 125 F. Supp. 2d 562. 
+
+
+JURISDICTION 
+
+
+The judgment of the court of appeals was entered on 
+November 3, 2003. A petition for rehearing was denied 
+on November 24, 2003 (Pet. App. B3). The petition for 
+a writ of certiorari was filed on February 23, 2004, and 
+was granted on June 21, 2004. The jurisdiction of this 
+Court rests on 28 U.S.C. 12540)- 
+
+
+(1) 
+
+
+2 
+
+
+STATUTORY PROVISIONS INVOLVED 
+
+
+Title 18, United States Code, Section 924, provides in 
+pertinent part: 
+
+
+(e)(1) In the case of a person who violates section 
+922(¢) of this title and has three previous 
+convictions by any court referred to in section 
+922(g)(1) of this title for a violent felony or a serious 
+drug offense, or both, committed on occasions dif- 
+ferent from one another, such person shall be fined 
+not more than $25,000 and imprisoned not less than 
+fifteen years * * *. 
+
+
+(2) As used in this section— 
+
+
+* * * * * 
+
+
+(B) the term “violent felony” means any crime 
+punishable by imprisonment for a term exceeding 
+one year * * * that— 
+
+
+(i) has as an element the use, attempted use, or 
+threatened use of physical force against the person 
+of another; or 
+
+
+(ii) is burglary, arson, or extortion, involves use 
+of explosives, or otherwise involves conduct that 
+presents a serious potential risk of physical injury 
+to another. 
+
+
+STATEMENT 
+
+
+Following his plea of guilty in the United States 
+District. Court for the District of Massachusetts, peti- 
+tioner was convicted of being a felon in possession of a 
+firearm, in violation of 18 U.S.C. 922(g)(1). The district 
+court sentenced him to a term of 46 months of imprison- 
+ment, to be followed by three years of supervised 
+
+
+3 
+
+
+release. J.A. 38, 41. On the government’s appeal, the 
+court of appeals vacated petitioner’s sentence and re- 
+manded for resentencing. J.A. 67-91. This Court 
+denied review. See Shepard v. United States, 534 U.S. 
+829 (2001). On remand, the district court imposed the 
+same sentence. J.A. 138-139. On the government’s 
+second appeal, the court of appeals again vacated 
+petitioner’s sentence and remanded with directions to 
+enhance petitioner’s sentence under the Armed Career 
+Criminal Act of 1984, 18 U.S.C. 924(e). J.A. 172-184. 
+
+1. a. This case involves application of the Armed 
+Career Criminal Act of 1984 (ACCA), as amended, 18 
+U.S.C. 924(e), to enhance a sentence imposed for pos- 
+session of a firearm by a felon in violation of 18 U.S.C. 
+922(¢). A violation of Section 922(g) is ordinarily 
+punishable by imprisonment for “not more than 10 
+years.” 18 U.S.C. 924(a)(2). ACCA established an 
+enhanced mandatory-minimum 15-year penalty for 
+persons convicted of illegally possessing a firearm who 
+. have three previous convictions for robbery or 
+burglary. Pub. L. No. 98-473, Tit. II, §§ 1801-1803, 98 
+Stat. 2185 (codified at 18 U.S.C. App. 1202 (1982 & 
+Supp. IT 1984)). 
+
+Congress enacted ACCA to supplement enforcement 
+efforts against “career” criminals, in recognition of the 
+fact that “a ‘large percentage’ of crimes of theft and 
+violence ‘are committed by a very small percentage of 
+repeat offenders, and that robbery and burglary are 
+the crimes most frequently committed by these career 
+criminals.” Taylor v. United States, 495 U.S. 575, 581 
+(1990) (quoting H.R. Rep. No. 1073, 98th Cong., 2d Sess. 
+1, 3 (1984)). “Congress singled out burglary (as opposed 
+to other freo-iently committed property crimes such as 
+larceny and auto theft) for inclusion as a predicate 
+offense * * * because of its inherent potential for 
+
+
+4 
+
+
+harm to persons. The fact that an offender enters a 
+building to commit a crime often creates the possibility 
+of a violent confrontation between the offender and an 
+occupant, caretaker, or some other person who comes to 
+investigate.” Jd. at 588; accord id. at 581 (burglary is 
+“one of the ‘most damaging crimes to society”) 
+(quoting H.R. Rep. No. 1073, supra, at 3 (remarks of 
+Sen. Specter)). In the 1984 enactment, Congress speci- 
+fically defined the terms “burglary” and “robbery” to 
+avoid “the possibility that culpable offenders might 
+escape punishment on a technicality.” Jd. at 582 (quoti- 
+ng S. Rep. No. 190, 98th Cong., Ist Sess. 20 (1983)). The 
+statute defined “[bJurglary” as a “felony consisting of 
+entering or remaining surreptitiously within a building 
+that is property of another with intent to engage in 
+conduct constituting a Federal or State offense.” 18 
+U.S.C. App. 1202(c)(S) (1982 & Supp. IT 1984). 
+
+In 1986, Congress expanded the category of predi- 
+cate crimes subject to enhancement under ACCA to 
+provide “a greater sweep and more effective use of this 
+important statute.” Taylor, 495 U.S. at 583 (quoting 
+132 Cong. Rec. 7697 (1986)). In the amendment, Con- 
+gress provided enhanced penalties for firearm offenders 
+with three previous convictions of a “serious drug 
+offense” or a “violent felony.” Pub. L. No. 99-570, 
+§§ 1401-1402, 100 Stat. 3207-39 to 3207-40 (18 U.S.C. 
+924(e)). The definition of “violent felony” added by the 
+1986 amendment, which is still in force, defines the 
+term “violent felony” to include any felony that 
+
+
+(i) has as an element the use, attempted use, or 
+threatened use of physical force against the person 
+of another; or 
+
+
+(ii) is burglary, arson, or extortion, involves use 
+of explosives, or otherwise involves conduct that 
+
+
+5 
+
+
+presents a serious potential risk of physical injury to 
+another. 
+
+
+18 U.S.C. 924(e)(2)(B). Unlike the 1984 statute, the 
+amended statute did not define the term “burglary.” 
+The definition in the 1984 statute was omitted from the 
+1986 amendment, apparently inadvertently. Taylor, 
+495 U.S. at 589-590. 
+
+b. In response to confusion stemming from the dele- 
+tion of the statutory definition, this Court in Taylor v. 
+United States was “called upon to determine the mean- 
+ing of the word ‘burglary’ as it is used in [ACCA],” 495 
+U.S. at 577. After reviewing the history and text of the 
+statute at length, the Court held that the term connotes 
+“the generic sense in which the term is now used in the 
+criminal codes of most states.” Jd. at 598. The Court 
+thus concluded that “any crime, regardless of its exact 
+definition or label,” is a “burglary” (and thus a “violent 
+felony” under ACCA) if it “ha[s] the basic elements of 
+unlawful or unprivileged entry into, or remaining in, a 
+building or structure, with intent to commit a crime.” 
+Id. at 599. 
+
+The Court then briefly discussed how to apply its 
+conclusion to state statutes. 495 U.S. at 599-602. 
+Looking to the text of ACCA and its legislative history, 
+the Court adopted a “categorical” approach to deter- 
+mining whether a prior offense was a generic burglary. 
+Under that approach, the Court said, sentencing courts 
+“generally” should “look only to the fact of conviction 
+and the statutory definition of the prior offense.” Jd. at 
+602. Thus, if a state statute precisely corresponds with 
+the “generic” definition of burglary or is narrower, 
+a conviction under it necessarily qualifies as “burglary” 
+for purposes of ACCA. Id. at 599. The Court recog- 
+nized, however, that some state statutes define bur- 
+
+
+6 
+
+
+glary more broadly, to cover both conduct that 
+constitutes generic burglary and conduct that does 
+not. bid. Thus, the Court explained, a single burglary 
+statute might proscribe both breaking into a building, 
+which would constitute “generic” burglary, and 
+breaking into a vehicle, which would not. I/d. at 602. 
+Under such circumstances, the Court stated, the 
+categorical approach would “permit the sentencing 
+court to go beyond the mere fact of conviction” and thus 
+consider as a predicate offense a eonviction for non- 
+generic burglary if, “[flor example,” ibid., “the charging 
+paper and jury instructions actually required the jury 
+to find all the elements of generic burglary in order to 
+convict the defendant.” Ibid. 
+
+2. On October 17, 1995, petitioner sold a Glock model 
+17 9mm pistol and ammunition to an undercover agent. 
+Petitioner suggested that the agent should remove the 
+serial number from the pistol because it was going to be 
+reported as stolen. See 02-1216 Gov’t C.A. Br. 3. 
+
+3. On March 3, 1999, petitioner pleaded guilty to be- 
+ing a felon in possession of a firearm, in violation of 18 
+U.S.C. 922(g)(1). J.A. 68. The principal issue at sen- 
+tencing was whether petitioner was subject to a 15-year 
+minimum term of imprisonment under ACCA. The 
+district court noted that, “[slince 1980, when he was 18 
+years old, [petitioner] has been on an 18-year crime 
+spree,” J.A. 51. Petitioner’s criminal history, which 
+includes several convictions for assault and battery and 
+breaking and entering, see J.A. 195-216, is so extensive 
+that his “criminal history score [under the Guidelines] is 
+39, three times the number triggering Category VI,” 
+J.A. 64, the highest available offender category. Re- 
+lying on four of petitioner’s convictions for breaking 
+and entering, the government sought to establish that 
+petitioner was an armed career criminal because he had 
+
+
+a 
+7 . 
+
+
+been convicted of generic burglary on at least three 
+occasions.’ 
+
+All of the convictions on which the government relied 
+involved guilty pleas by petitioner to felony violations 
+of one of two sections of Chapter 266 of the General 
+Laws of the Commonwealth of Massachusetts (2002): 
+Section 16, which prohibits breaking and entering a 
+“building, ship, vessel or vehicle” in the nighttime with 
+the intent to commit a felony, or Section 18, which 
+prohibits breaking and entering a “building, ship or 
+motor vehicle or vessel” in the daytime with intent to 
+commit a felony. See Pet. Br. 9-10 n.3. The charging 
+documents (criminal complaints) for each of the four 
+convictions specified that petitioner “did break and 
+enter” and possessed the “intent to commit a felony 
+therein.” 3 J.A. 5, 15, 21; see also J.A. 204. But the 
+complaints did not explicitly state that the offense 
+involved a building; instead, they tracked the language 
+of the statutes to say that petitioner had broken and 
+entered a “building, ship, vessel or vehicle.” 3 J.A. 5; 
+see also 3 J.A. 15, 21; J.A. 173, 204. The government 
+argued that two of the three elements of generic 
+burglary—unprivileged entry and intent to commit a 
+
+
+1 The government initially argued that the district court should 
+also consider a fifth breaking and entering conviction, arising out 
+of petitioner’s April 1989 break-in at the Crispus Attucks Chil- 
+dren’s Center building. Because the government could not obtain 
+the complaint application and police report for that conviction and 
+had only the PSR’s description of the incident, that conviction was 
+not the focus of the government’s arguments and will not be ad- 
+dressed further. See J.A. 175 n.2. 
+
+
+* For cases in Massachusetts district court, “the ‘complaint’ 
+* * * is the final step in the charging process, roughly equivalent 
+to a federal information.” J.A. 174 (citing 1 Eric Blumenson et al., 
+Massachusetts Criminal Practice §§ 4.1-4.2, at 51-59 (1998)). 
+
+
+crime—were established by petitioner’s guilty plea to 
+the charging document. J.A. 20-24. 
+
+The government further contended that the 
+remaining element of generic burglary (that the convic- 
+tion involved a building or structure) was demonstrated 
+by examining the complaint applications and incor- 
+porated police reports for the four convictions. Under 
+Massachusetts Criminal Procedure, as the court of 
+appeals observed, the complaint is issued by a magis- 
+trate “based on a complaint application normally filed 
+by a police officer and likely to incorporate or be 
+accompanied by a police report. The application is cus- 
+tomarily sworn and is automatically given to defen- 
+dants at their arraignments.” J.A. 174 (citation 
+omitted) (citing, inter alia, Mass. Super. Ct. Standing 
+Order 2-86; 1 Eric Blumenson et al., Massachusetts 
+Criminal Practice §§ 4.2, 16.5(C) at 52, 416 (1998)). The 
+complaints, complaint applications and police reports 
+for the four offenses indicated the following: 
+
+
+May 1989. The criminal complaint listed the “place 
+of offense” as “30 Harlem St.” and charged peti- 
+tioner with “break[ing] and enter[ing] in the night 
+time the building, ship, vessel or vehicle, the prop- 
+erty of Jerri Cothran.” 3 J.A. 5. The complaint 
+application identified the victim as “Jerri Cothran 30 
+Harlem St.,” and described the property “stolen [or] 
+destroyed” as “Cellar Door.” The complaint applica- 
+tion’s “other remarks” section stated “B[oston] 
+P{olice] D[epartment] C[riminal] C[omplaint]# 91- 
+394-783.” 3 J.A.6. The incorporated Boston Police 
+incident report, denominated “complaint no. 91-394- 
+783,” gave the following recitation of events: “Re- 
+sponded to R.C. [radio call] to 30 Harlem St. for 
+B&E in progress. On arrival observed cellar door in 
+
+
+-9 
+
+
+rear had been broken down. Spoke to victim who 
+stated that approx 3 a.m. she heard noises down- 
+stairs. She then observed [petitioner] in her pan- 
+try.” 3J.A. 7; see also J.A. 152 n.7. 
+
+
+March 1991. The criminal complaint charged peti- 
+tioner with breaking and entering in the nighttime, 
+“the building, ship, vessel or vehicle, the property of 
+Fretters.” J.A. 204. The police report stated that 
+two managers at Fretter’s (an appliance store) saw 
+petitioner, who had been fired a month earlier, enter 
+the rear stockroom door “holding a master key.” 3 
+J.A. 11. Petitioner fled. A quick inventory re- 
+vealed that four VCRs and three televisions were 
+missing from the stock room. 3 J.A. 11-13; see also 
+J.A. 152 n.7. 
+
+
+July 1991. The criminal complaint charged 
+petitioner with breaking and entering “the building, 
+ship or vessel of Monica Collins,” and listed 
+the “place of offense” as “258 Norwell St.” 3 J.A. 15. 
+The complaint application identified the victim as 
+“Monica Collins 258 Norwell St.” and listed the 
+“{gloods stolen” as “V.C.R.” and “phone/ans. ma- 
+chine.” The “other remarks” section said “see 
+c[riminal}] clomplaint] # 11597345.” The incor- 
+porated Boston Police incident report, denominated 
+“complaint no. 11597345,” stated the officers had 
+responded to a radio call for a suspicious person 
+“wearing red shorts and blue shirt in the hallway of 
+258 Norwell St.” When police arrived, they saw 
+petitioner dressed in red shorts and a blue shirt 
+“walking away from above address * * * carrying 
+a pink pillowcase” containing a VCR and a tele- 
+phone answering machine. 3 J.A. 19. When police 
+
+
+10 
+
+
+went to Ms. Collins’ apartment, they found that a 
+panel on her “front door had been broken in ex- 
+posing inside door lock. Officers entered Apt. and 
+observed, in livingroom, areas where V.C.R. and 
+phone [answering machine] were taken from. 
+Officers also observed in bedroom one pink pillow- 
+case missing from pillow.” Messages retrieved from 
+the answering machine were for Monica Collins. 
+3 J.A. 17, 19; see also J.A. 152 n.7. 
+
+
+February 1994. The criminal complaint listed the 
+“place of offense” as “145 Gallivan Blvd.” and 
+charged petitioner with breaking and entering “the 
+building, ship or motor vehicle or vessel of Russell 
+McGaugh,” and with maliciously destroying “the 
+personal property, dwelling house, or building of 
+Russell McGaugh.” 3 J.A. 21. The complaint appli- 
+cation listed the property “stolen [or] destroyed” as 
+“(rjear door,” and the “other remarks” section 
+stated “[rjef to c[riminal] c[omplaint] # 41087022.” 
+3 J.A. 22. A police report, denominated “complaint 
+no. 41087022” stated that a neighbor saw petitioner 
+go “to # 145 Gallivan and * * * observed [him] 
+attempting to gain entry by turning several door- 
+knobs.” When police arrived they found petitioner 
+at “the rear of the property * * * with both arms 
+through the glass” of the “[rjear [b]asement door.” 
+3 J.A. 23-24. 
+
+
+Although petitioner did not contest the validity of the 
+convictions, he argued that it was inconsistent with 
+Taylor's “categorical approach,” J.A. 243, to look to 
+police reports and complaint applications to determine 
+whether a conviction involved a building and thus was a 
+“generic burglary” covered by ACCA. 
+
+
+11 
+
+
+The district court acknowledged that ‘petitioner had 
+“hurtl[ed] from place to place, breaking into the first 
+place he sees, breaking into—what was it, a child-care 
+center at one point?,” J.A. 34, but nevertheless 
+concluded that the government had not established 
+“three previous convictions” (18 U.S.C. 924(e)(1)) for 
+generic burglary under ACCA. J-:A. 46-66. The 
+district court concluded that Taylor could be applied to 
+cases involving guilty pleas, but held that complaint 
+applications and police reports could not be considered 
+under Taylor to determine the nature of the peti- 
+tioner’s prior convictions because they “contain[ed] 
+allegations that were never adjudicated before a judge 
+or jury, [and] never admitted by [petitioner].” J.A. 59. 
+Instead, the court held that the prosecution must show 
+“plea colloquies or plea agreements * * * to suggest 
+that [petitioner] adopted one version of the facts rather 
+than another.” J.A. 60. Although the district court did 
+not apply the ACCA enhancement, in recognition of the 
+fact that petitioner’s record “is about as bad as they 
+come,” J.A. 30, the court imposed a modest nine-month 
+upward departure from the Guidelines sentence and 
+sentenced petitioner to 46 months of imprisonment. 
+
+4. The government appealed, and the court of ap- 
+peals vacated petitioner’s sentence and remanded. J.A. 
+67-91. The court of appeals held that there is no “abso- 
+lute bar” to the consideration of complaint applications 
+and police reports when the sentencing court is trying 
+to determine whether a defendant’s “pleas of guilty 
+constituted admissions to unlawful entries of buildings.” 
+J.A. 89. The court concluded that requiring proof 
+through “a plea agreement or a plea transcript” would 
+“make the use of prior convictions based on guilty pleas 
+for purposes of the ACCA * * * enhancement hinge 
+on the happenstance of state court record-keeping 
+
+
+12 
+
+
+practices.” J.A. 85. To determine whether petitioner’s 
+“pleas of guilty constituted admissions to unlawful 
+entries of buildings,” J.A. 89, the court of appeals stated 
+that courts should examine whether “the defendant and 
+the government both believe[d] at the time [petitioner] 
+entered his pleas ‘that the generically violent crime 
+
+. . rather than the gener[icjally non-violent crime 
+. . . Was at issue.’” J.A. 88 (quoting United States v. 
+Harris, 964 F.2d 1234, 1236 (1st Cir. 1992) (Breyer, 
+C.J.)). The resolution of that inquiry, the court con- 
+cluded, can be made on the basis of “sufficiently reliable 
+evidence of the government and [petitioner’s] shared 
+belief that [petitioner] was pleading guilty to the 
+unlawful entry of a building.” J.A. 91. 
+
+5. On remand, the government introduced court 
+records relating to two additional breaking and en- 
+tering convictions that were listed in petitioner’s PSR, 
+both of which were obtained through guilty pleas. See 
+J.A. 175, 195-196, 204. Those records indicated the 
+following: 
+
+
+February 1981. The criminal complaint charged 
+
+that petitioner “did break and enter the gymnasium 
+
+located in the Jamaica Plain High School * * * 
+
+with the intent to steal and did steal therein athletic 
+
+clothes.” 3J.A.2. The complaint application recited 
+
+the same information, but also described additional 
+items petitioner had stolen. 3 J.A. 3. 
+
+
+October 1990. The criminal complaint charged peti- 
+tioner with breaking and entering “the building, 
+ship, vessel or motor vehicle of Craig Milanesi,” and 
+listed the “place of offense” as “446 Shawmut Ave.” 
+3 J.A. 8. The complaint application stated that peti- 
+tioner was “observed at the rear of 446 Shawmut on 
+the 2nd floor fire [e]scape[.] Window was fully open 
+
+
+13 
+
+
+apparently pried open by kitchen knife found on 
+[petitioner].” 3J.A. 9. 
+
+
+Petitioner submitted an affidavit (see J.A. 100-104) 
+stating that the judges presiding at the four guilty 
+pleas at issue at petitioner’s original sentencing in this 
+case had not read the police reports to him, and that 
+petitioner did not admit the truth of the information 
+contained in those incident reports as part of his plea 
+proceedings. J.A. 100-102. He also stated that he had 
+not made an admission in any court to the truth of “the 
+facts set forth in the[] paragraphs” of the PSR relating 
+to five of the six breaking and entering convictions 
+identified by the government as ACCA predicate 
+offenses. J.A. 102-104. Petitioner did not, however, 
+say that he did not admit in state court to breaking and 
+entering buildings in connection with those offenses, 
+nor does his affidavit address the conviction stemming 
+from the October 1990 break-in. 
+
+The district court reimposed its original sentence of 
+46 months of imprisonment. See J.A. 146-171. The 
+district court held that the complaint applications and 
+police reports the government had submitted were not 
+reliable evidence of what offenses petitioner had 
+pleaded guilty to in state court. J.A. 150. The court 
+explained that the government had not refuted peti- 
+tioner’s claim, made in his affidavit, that the police 
+reports underlying his convictions were not read to him 
+in the plea proceedings and that he did not admit to the 
+facts contained in the reports at his plea hearings. J.A. 
+171. Thus, the court was unable to “conclude by a fair 
+preponderance of the evidence” that petitioner had 
+pleaded guilty to entering buildings unlawfully. Jbid. 
+
+6. The government again appealed, and the court of 
+appeals again vacated petitioner’s sentence and re- 
+
+
+14 
+
+
+manded for resentencing. J.A. 172-184. The court held 
+that the district court had “clearly err[ed]” by “find[ing] 
+that [petitioner] did not ,-lead guilty to at least three 
+burglaries of buildings.” J.A. 182. The court 
+acknowledged that it is “barely possible” that on 
+occasion, “someone in [petitioner’s] position might have 
+pled guilty, not to the charge that underlay the 
+complaint (namely, burglary of a building), but to the 
+burgling of some other venue such as a boat arguably 
+not within the definition of generic burglary.” Ibid. 
+But the court considered it “nearly impossible” that 
+“anything like it happened for most of [petitioner’s] 
+predicate pleas,” or that the documents “were mistaken 
+as to venue for four or more of the six crimes.” Jbid. 
+The court of appeals concluded that, under the 
+circumstances of this case, “[a]bsent * * * evidence of 
+peculiar circumstances, there is a compelling inference 
+that the [guilty] plea was to the complaint and that the 
+complaint embodied the events described in the 
+[complaint] application or police report in the file.” 
+Ibid. The court noted that petitioner “ha[d] been given 
+a full opportunity * * * to explain any circumstance 
+surrounding the pleas that might defeat the natural 
+inference that the pleas were to the crimes described” 
+in the complaint applications and police reports, J.A. 
+181-182, but he had not done so, and instead merely said 
+he had not “specifically admitted in open court” to the 
+factual statement in the police reports “and that the 
+underlying police reports were not read to him at the 
+plea hearings.” J.A. 182. The court therefore vacated 
+petitioner’s sentence and remanded the case with 
+
+
+directions to impose the ACCA enhancement. J.A. 183- 
+184. 
+
+
+15 
+
+
+SUMMARY OF ARGUMENT 
+
+
+When a defendant has pleaded guilty under a state 
+statute that covers both generic and nongeneric bur- 
+glary, the Armed Career Criminal Act permits district 
+courts to consider complaint applications and incorpo- 
+rated police reports to determine whether the defen- 
+dant has pleaded guilty to the burglary of a building 
+(and thus to a violent felony). In Taylor v. United 
+States, 495 U.S. 575 (1990), this Court said that a sen- 
+tencing court may examine a charging document and 
+jury instructions to determine whether the “jury was 
+actually required to find all the elements of generic 
+burglary,” id. at 602, and every court of appeals with 
+criminal jurisdiction has correctly concluded that a 
+similar inquiry may be conducted to determine the 
+nature of a defendant’s guilty pleas. Examining com- 
+plaint applications and incorporated police reports to 
+determine whether the defendant pleaded guilty to the 
+burglary of a building is consistent with Taylor’s pur- 
+poses and general approach. The underlying purpose of 
+the inquiry is the same as in Taylor: to determine the 
+nature of the offense of which the defendant was 
+convicted, rather than to determine what he actually 
+did. And the inquiry that the sentencing court must 
+undertake is comparable in scope to that endorsed by 
+Taylor, involving only a limited examination of docu- 
+ments in the state case file. 
+
+In this case, two of the three elements of generic 
+burglary (“unlawful or unprivileged entry” with “intent 
+‘to commit a crime”) were necessarily satisfied by 
+petitioner’s guilty pleas, because those are elements of 
+the crimes of which petitioner was convicted, see Mass. 
+Gen. Laws ch. 266, §§ 16, 18 (2002), and because the 
+charging documents to which petitioner pleaded guilty 
+
+
+16 
+
+
+explicitly included those elements. Thus, this case 
+involves only a narrow inquiry into whether the state- 
+court records show that petitioner admitted the third 
+element of generic burglary (that petitioner entered or 
+remained in “a building or structure,” rather than a 
+ship or vehicle). That petitioner’s conviction for his 
+February 1981 break-in was for the burglary of a 
+building is established by the charging document to 
+which petitioner pleaded guilty, which itself specified 
+that the incident involved breaking into a high-school 
+gymnasium. 3J.A.2. Examining the complaint appli- 
+cations and police reports for petitioner’s other con- 
+victions demonstrates that petitioner’s other guilty 
+pleas likewise constituted admissions to breaking and 
+entering buildings. 
+
+In light of the presumption of regularity that attends 
+guilty plea proceedings, see Parke v. Raley, 506 U.S. 
+20, 29-30 (1992), federal courts can presume compliance 
+with the requirement that “a court may not convict un- 
+less there are sufficient facts on the record to establish 
+each element of the offense.” Commonwealth v. Del- 
+Verde, 496 N.E.2d 1357, 1363 (Mass. 1986). Here, that 
+factual basis can plausibly have rested only on peti- 
+tioner’s entry of a building. In Massachusetts courts, 
+the factual basis for a guilty plea is usually satisfied by 
+reciting police reports, see 2 Eric Blumenson et al., 
+Massachusetts Criminal Practice § 37.7B at 288 (1998). 
+And there is nothing in the record to indicate that 
+petitioner had pleaded guilty based on entering a ship 
+or vehicle on any of the occasions at issue. 
+
+Examining complaint applications and incorporated 
+police reports to determine the offense to which a 
+defendant pleaded guilty is fully consistent with 
+Taylor. The process at issue here does not require ex- 
+tensive factfinding. Rather, like the procedure specifi- 
+
+
+17 
+
+
+cally endorsed in Taylor, it requires only a narrow 
+examination of state-court documents to determine 
+whether the state court’s guilt determination required 
+a finding that the burglary involved a building. Nor 
+does this method of proving the nature of prior bur- 
+glary convictions pose inherent problems involving the 
+reliability of evidence, because the inquiry is very 
+narrow (whether there is any indication the offense 
+could have involved breaking and entry of anything 
+other than a building) and because the government 
+retains the burden of persuasion at all times. The court 
+of appeals did not shift the burden to petitioner in this 
+case. It noted the commonsense inference that, given 
+the overwhelming indications that petitioner’s pleas 
+were for entering a building, in the absence of evidence 
+to the contrary, there was no realistic possibility that 
+petitioner had pleaded guilty to burglary of anything 
+else for four or more of his six prior burglary convic- 
+tions. | 
+
+The examination of state-court documents to identify 
+the nature of a plea raises no serious constitutional 
+doubts under this Court’s precedents. Almendarez- 
+Torres v. United States, 523 U.S. 224 (1998), held that a 
+defendant’s prior conviction may constitutionally be 
+treated as a sentencing factor to be found by the sen- 
+tencing court by a preponderance of the evidence, and 
+Apprendi v. New Jersey, 530 U.S. 466 (2000), specifi- 
+cally declined to overrule that decision. Determining 
+the nature of a conviction is not “factfinding” for Ap- 
+prendi purposes, but rather a legal inquiry into what 
+the record indicates about the nature of convictions. 
+Even if that inquiry involves ancillary judicial 
+determinations about whether a conviction is a 
+qualifying pred -ate under a recidivist statute, every 
+court of appeals that has considered the question has 
+
+
+18 
+
+
+correctly concluded that such questions are “sufficiently 
+interwoven” with the fact of a prior conviction that 
+“Apprendi does not require different factfinders and 
+different burdens of proof” for them. United States v. 
+Santiago, 268 F.3d 151, 157 (2d Cir. 2001), cert. denied, 
+535 U.S. 1070 (2002). Nor does the rule of lenity apply 
+here because petitioner can identify no provision of 
+ACCA that he contends is ambiguous, and Taylor has 
+already construed ACCA to permit sentencing courts 
+to consider charging instruments in order to determine 
+whether a conviction under a nongeneric burglary 
+statute was a conviction for generic burglary. 
+
+Finally, this Court should reject the invitation of 
+amicus the National Association of Criminal Defense 
+Lawyers (NACDL) to overrule Almendarez-Torres. 
+That issue is neither “set out in the petition” nor “fairly 
+included therein,” Sup. Ct. R. 14.1(a), and petitioner 
+raised no such claim either before the courts below or in 
+his merits brief in this Court. In any event, the Court 
+
+
+in Apprendi was correct in declining to disturb 
+Almendarez-Torres. 
+
+
+ARGUMENT 
+
+
+THE ARMED CAREER CRIMINAL ACT PERMITS 
+DISTRICT COURTS TO CONSIDER RELIABLE RE- 
+CORD EVIDENCE SUCH AS COMPLAINT APPLICA- 
+TIONS AND POLICE REPORTS IN DETERMINING 
+WHETHER A DEFENDANT PLEADED GUILTY TO A 
+BURGLARY OF A BUILDING AND THUS WAS CON- 
+VICTED OF A “VIOLENT FELONY” 
+
+
+In Taylor v. United States, 495 U.S. 575 (1990), this 
+Court held that when a defendant had been convicted 
+under a state statute that encompassed both generic 
+and nongeneric burglary, a federal sentencing court 
+determining whether the conviction was for a “violent 
+
+
+19 
+
+
+felony” under ACCA could look to “the charging paper 
+and jury instructions” to see whether the jury was 
+“required * * * to find all the elements of generic 
+burglary in order to convict the defendant.” Jd. at 602. 
+Although Taylor makes clear that federal district 
+courts may look to state-court records to determine the 
+nature of a jury conviction, petitioner contends that 
+permitting district courts to look to complaint appli- 
+cations and incorporated police reports to determine 
+whether a defendant has pleaded guilty to generic 
+burglary violates Taylor’s categorical approach, imper- 
+missibly allowing “mini-retrials,” Pet. Br. 18, and 
+“wide-ranging inquiries into facts underlying a prior 
+conviction,” id. at 4, based on “stale evidence,” id. at 27. 
+At times, petitioner appears to suggest even that a 
+conviction under a nongeneric burglary statute can be 
+an ACCA predicate offense only if the offense is adjudi- 
+cated by a jury. See id. at 5, 19, 20, 26; but see id. at 20. 
+
+Those contentions lack merit. Taylor and ACCA 
+permit district courts to “consider other evidence” to 
+determine the basis for a conviction. Taylor, 495 U.S. 
+at 600. State court records may permit a federal dis- 
+trict court to readily determine that a defendant’s 
+guilty pleas under statutes that cover both generic and 
+nongeneric burglary “constituted admissions to unlaw- 
+ful entries into buildings.” J.A. 89. And the documents 
+that may be consulted for that purpose include certified 
+copies of complaint applications and incorporated police 
+reports that are part of the state court records. That 
+approach is consistent with the sort of inquiry sen- 
+tencing courts normally undertake in enhancing sen- 
+tences for prior convictions, and that practice raises no 
+serious constitutional doubt under this Court’s pre- 
+cedents. 
+
+
+20 
+
+
+A. Taylor Permits Courts To Consider Complaint Appli- 
+cations And Incorporated Police Reports To Determine 
+Whether A Guilty Plea Constituted An Admission To 
+Burglary Of A Building 
+
+
+In Taylor, this Court briefly addressed how ACCA’s 
+categorical approach to classifying predicate offenses 
+would be applied to convictions under different types of 
+statutes. See 495 U.S. at 599-602. The Court specifi- 
+cally discussed the “example” of a conviction under a 
+state burglary law that encompassed both “entry of an 
+automobile” (i.e., nongeneric burglary) “as well as 
+[entry of] a building” (7.e., generic burglary). Jd. at 602. 
+Under such circumstances, the Court held, a sentencing 
+court validly could “consider other evidence” con- 
+cerning the defendant’s prior convictions. /d. at 600. 
+The Court was careful to indicate that the relevant 
+inquiry was not whether “the defendant actually com- 
+mitted a generic burglary,” id. at 601, but only whether 
+“the defendant had been convicted of” generic bur- 
+glary. Jd. at 600. The Court indicated that basing an 
+enhancement on the sentencing court’s own determina- 
+tion of the defendant’s conduct would be inconsistent 
+with ACCA’s focus on the fact of conviction, id. at 600- 
+601, would require “an elaborate factfinding process” 
+that ACCA’s legislative history had not discussed, id. 
+at 601, and would result in “practical difficulties” of 
+proof and “potential unfairness” in circumstances 
+where, for example, a defendant pleaded guilty to a 
+lesser offense but was later subject to an ACCA 
+enhancement imposed “as if the defendant had pleaded 
+guilty to burglary.” Jd. at 601-602. The Court con- 
+cluded that an inquiry into the nature of the conviction, 
+as opposed to the nature of the conduct, would not pre- 
+sent those problems. Accordingly, the Court concluded 
+that the “categorical approach” for classifying predicate 
+
+
+21 
+
+
+convictions under ACCA “permit[s] the sentencing 
+court to go beyond the mere fact of conviction” where, 
+“(flor example,” “the charging paper and jury 
+instructions actually required the jury to find all the 
+elements of generic burglary in order to convict the 
+defendant.” Jd. at 602. As petitioner himself notes 
+(Pet. Br. 21), Taylor prohibits only “an adjudication of 
+facts anew, not a determination of whether those facts 
+were adjudicated below.” 
+
+
+1. Taylor Does Not Prohibit Sentencing Courts From . 
+
+
+Considering Guilty Pleas Under Nongeneric Burglary 
+Statutes As ACCA Predicates 
+
+
+To the extent that petitioner contends that Taylor 
+does not permit courts to consider guilty pleas under 
+state burglary statutes that encompass both generic 
+and nongeneric burglary as ACCA predicate offenses, 
+he is mistaken. While Taylor itself speaks only of cir- 
+cumstances in which a state-court “jury was actually 
+required to find all the elements of generic burglary” 
+for a predicate offense, 495 U.S. at 602, that passage 
+does not automatically disqualify from enhancement 
+every guilty plea under a nongeneric burglary statute. 
+The principal focus of the Taylor opinion (and, indeed, 
+the only subject the government briefed, see 88-7194 
+U.S. Br. at 11-37) was whether “the word ‘burglary’ as 
+it is used in [ACCA],” 495 U.S. at 577, meant common- 
+law burglary or modern generic burglary. The Court 
+addressed the application of its definition only briefly at 
+the end of its opinion. Jd. at 599-602. As then-Chief 
+Judge Breyer observed, Taylor is best read as setting 
+forth “an example * * * of one way in which a trial 
+court, faced with a past conviction for violating a single 
+statute that covers more than one crime, might decide 
+which of those crimes the prior conviction involved.” 
+
+
+22 
+
+
+United States v. Harris, 964 F.2d 1234, 1236 (1st Cir. 
+1992). Particularly since the vast majority of convic- 
+tions under nongeneric burglary statutes result from 
+guilty pleas rather than jury trials, “(i]t seems unlikely 
+that the Members of Congress, immersed in the inten- 
+sely practical concerns of controlling violent crime, 
+would have decided” (Taylor, 495 U.S. at 593-594) to 
+exclude all plea-based convictions as predicate offenses. 
+Thus, Taylor “d[oes] not mean that one who pleads 
+guilty to what would otherwise constitute a ‘violent 
+felony’ is somehow, for future sentence-enhancement 
+purposes, home free.” Harris, 964 F.2d at 1236. As the 
+court of appeals noted below, “[alJll twelve circuits that 
+have addressed the issue have agreed that Taylor 
+
+
+analysis applies after a guilty plea.” J.A. 178 n.4 
+(collecting authorities).’ 
+
+
+2. Examining The Complaint Application And Incor- 
+porated Police Report To Determine Whether The 
+Guilty Plea Is An Admission To Unlawful Entry Of A 
+Building Is Consistent With Taylor 
+
+
+Examining the complaint application and incor- 
+porated police report to determine whether the defen- 
+dant pleaded guilty to the burglary of a building 
+accords with Taylor’s purposes and general approach. 
+The underlying purpose of the inquiry is the same as in 
+
+
+3 See, e.g., United States v. Adams, 91 F.3d 114, 116 (11th Cir.) 
+(collecting decisions from First, Fifth, Sixth, Seventh, Eighth, 
+Ninth and Tenth Circuits), cert. denied, 519 U.S. 1047 (1996); 
+United States v. Hernandez, 218 F.3d 272, 278 (3d Cir. 2000); 
+United States v. Cook, 26 F.3d 507, 509 & n.5 (4th Cir.), cert. 
+denied, 513 U.S. 953 (1994); United States v. Hill, 131 F.3d 1056, 
+1063-1064 (D.C. Cir. 1997) (applying Taylor analysis to guilty pleas 
+under Sentencing Guidelines’ career offender provision, which 
+
+
+employed parallel language); United States v. Palmer, 68 F.3d 52, 
+59 (2d Cir. 1995) (same). 7 
+
+
+23 
+
+
+examining the charging paper and jury instructions 
+(which the Court endorsed in Taylor): to determine the 
+nature of the offense of which petitioner was convicted, 
+rather than to determine what he actually did. Con- 
+trary to petitioner’s repeated claims, e.g., Pet. Br. 21, 
+22, 23, the complaint application and police reports are 
+not reviewed “to determine whether the defendant 
+actually committed generic burglary.” Jd. at 20. The 
+court looks to the state-court records “not because the 
+court may properly be interested * * * in the violent 
+or non-violent nature of that particular conduct,” but 
+because that information “may indicate that * * * the 
+generically violent crime (‘building’), rather than the 
+generically non-violent crime (‘vehicle’) was at issue” in 
+the plea. Harris, 964 F.2d at 1236. In addition, the 
+inquiry that the sentencing court undertakes is no 
+broader than that endorsed by Taylor. In both in- 
+stances, the sentencing court examines documents in 
+the case file (there, the charging papers and jury 
+instructions, see 495 U.S. at 602, here, the complaint 
+application and incorporated police report). And in 
+both instances, the court is engaging in logically parallel 
+inquiries: in Taylor, whether the finder of fact could 
+have adjudicated guilt only if it “had to find an entry of 
+a building to convict,” ibid., and, here, in the context of 
+guilty pleas, whether the defendant’s “pleas of guilty 
+constituted admissions to unlawful entries into build- 
+ings,” J.A. 89. This approach is also consistent with the 
+language of ACCA itself, with its emphasis on the fact 
+of conviction rather than the underlying conduct, 
+Taylor, 495 U.S. at 600, and its emphasis on “the ele- 
+ments of the statute of conviction.” Jd. at 600-601. 
+Petitioner’s case illustrates how complaint applica- 
+tions and incorporated police reports can support the 
+conclusion that a defendant pleaded guilty to each of 
+
+
+24 : 
+
+
+the elements of generic burglary. Two of the three 
+elements of generic burglary—that petitioner made an 
+“unlawful or unprivileged entry” with “intent to commit 
+a crime,” Taylor, 495 U.S. at 599—necessarily were 
+satisfied by petitioner’s guilty pleas. Those elements 
+are necessary for any conviction under the relevant 
+statutes, see Mass. Gen. Laws ch. 266, §§ 16, 18 (2002), 
+and the charging instruments to which petitioner 
+pleaded guilty explicitly charged those elements.. See 3 
+J.A. 2, 5, 8, 15, 21. By entering a guilty plea, petitioner 
+made an “admission that he committed the crime 
+charged against him.” United States v. Broce, 488 U.S. 
+563, 570 (1989) (quoting North Carolina v. Alford, 400 
+U.S. 25, 32 (1970)); accord Commonwealth v. Rabb, 725 
+N.E.2d 1036, 1044 (Mass. 2000) (holding that although 
+tape recording of proceedings was no longer available, 
+“the fact that the * * * judge accepted the defen- 
+dant’s pleas makes it certain that the defendant ad- 
+mitted under oath facts that proved” the offense); 
+Porter v. Superintendant, 417 N.E.2d 1199, 1203 (Mass. 
+1981) (“By pleading guilty to a crime * * * , [the 
+defendant] can be presumed to have admitted sufficient 
+facts to establish * * * that crime.”). 
+
+The third element of generic burglary is that the 
+defendant entered or remained in “a building or struc- 
+ture.” Taylor, 495 U.S. at 599. For one of petitioner’s 
+prior offenses, that fact is established by examining 
+only the charging instrument to which petitioner 
+pleaded guilty. The complaint for petitioner’s February 
+1981 offense, to which petitioner pleaded guilty, 
+charges only that petitioner “did break and enter the 
+gymnasium located in the Jamaica Plain High School.” 
+3 J.A.2. Thus, the only remaining question, to decide 
+whether petitioner had two other qualifying predicate 
+offenses, is whether his other guilty pleas to breaking 
+
+
+25 
+
+
+and entering were for entry of a building, as opposed to 
+a ship, vessel, or vehicle. The complaint applications 
+and incorporated police reports, considered in light of 
+the role of a Massachusetts judge at a guilty plea, shed 
+crucial light on that issue. 
+
+In taking a guilty plea, “a court may not convict un- 
+less there are sufficient facts on the record to establish 
+each element of the offense.” Commonwealth v. Del- 
+Verde, 496 N.E.2d 1357, 1363 (Mass. 1986) (emphasis 
+added); accord Commonwealth v. Jones, 799 N.E.2d 
+601, 602 n.2 (Mass. App. Ct. 2003) (the judge “must 
+* * * ensure that a factual basis exists for each 
+element of the offenses charged”) (citing DelVerde). 
+See generally Mass. R. Crim. P. 12(c)(5)(A) (“A judge 
+shall not accept a plea of guilty unless he is satisfied 
+that there is a factual basis for the charge.”). The 
+records of petitioner’s guilty pleas indicate that 
+petitioner “[{a]dmit[ted] sufflicient] facts” to support the 
+plea. See 3 J.A. 10, 14, 20; see also 3 J.A. 4 (notes 
+finding of “Guilty” with the notation “SF” for “sufficient 
+facts”). In light of the presumption of regularity that 
+attends guilty plea proceedings, see Parke v. Raley, 506 
+U.S. 20, 29-30 (1992), federal courts can presume com- 
+pliance with the factual basis requirement of peti- 
+tioner’s pleas. And that factual basis can only have 
+plausibly rested on petitioner’s entry of a building.’ 
+
+
+* For the first time in any court, petitioner contends (Pet. Br. 
+23; see also id. at 32) that permitting a federal sentencing court to 
+inquire into the nature of a prior conviction “creates a severe due 
+process problem.” Although it is unclear precisely what argument 
+petitioner is making, it appears that he contends that he did not 
+have actual notice at the time of the state plea that he was pleading 
+guilty to burglary of a building. Petitioner also contends (id. at 23) 
+that “he was never charged with” burglary of a building. Those 
+arguments are not properly before the Court, see United States v. 
+
+
+26 
+
+
+Several factors give rise to the strong inference 
+that, absent evidence to the contrary, petitioner’s guilty © 
+pleas constituted admissions to breaking and entering a 
+building. In Massachusetts state courts, “demonstrat- 
+[ing] a factual basis for the plea * * * [uJsually * * * 
+is accomplished by the recitation of either the grand 
+jury minutes or police reports, but defendant’s admis- 
+sions during the plea * * * can also support the 
+factual basis.” 2 Eric Blumenson et al., Massachusetts 
+
+
+-Criminal Practice § 37.7B at 288 (1998). In addition, as 
+
+
+the defendant, petitioner presumptively was aware of 
+the allegations contained in complaint applications and 
+police reports.’ See J.A. 174 (“Courts in Massachusetts 
+
+
+Bean, 537 U.S. 71, 74 n.2 (2002); TRW Inc. v. Andrews, 534 U.S. 19, 
+34 (2001), and in any event are without merit. Petitioner had 
+ample notice of the nature of the charge against him in light of the 
+fact that he was arrested for burglary of a building, the Common- 
+wealth sought to obtain a complaint based on that offense, and 
+burglary of a building was undeniably encompassed in each of the 
+criminal complaints to which he pleaded guilty. See generally 
+Commonwealth v. Brown, 748 N.E.2d 972, 982 (Mass. App. Ct. 
+2001) (rejecting due process notice claim in part because 
+“information contained in * * * the police report enabled the 
+defendant to understand the charge against him and to prepare his 
+defense”) (emphasis added). . 
+
+5 Petitioner contends that it was improper for the First Circuit 
+to rely on its “understanding of the complaint and discovery pro- 
+cedures followed” under Massachusetts law in reaching its co:.- 
+clusion, claiming that courts can draw inferences from the require- 
+ments of state law only if their understanding of the law is 
+“derived from evidence in the record.” Pet. Br. 24; see also id. at 
+33-34 n.15, 36. Petitioner took the opposite position in the court of 
+appeals, where he cited Massachusetts law to support his claim 
+that the complaint application and police report were not part of 
+the complaint and thus could not serve to clarify it. 02-1216 Pet. 
+C.A. Br. 38. In any event, that claim is mistaken. Courts of 
+appeals are presumed to be knowledgeable about the law of the 
+
+
+27 
+
+
+can presume that defendants know the information 
+contained in police reports.”); see Mass. Super. Ct. 
+Standing Order 2-86 (requiring prosecutor to provide 
+“copies of all police reports” to defendant at arraign- 
+ment); see also Mass. Dist./Mun. Ct. R. Crim. P. 3 
+(effective 1996) (“At or before arraignment, the court 
+shall ensure * * * that a copy of the police [report] 
+* * * is provided to the defense.”). There is nothing in 
+the record to indicate that petitioner entered a ship or 
+vehicle; indeed, the “vehicle” section on each of the 
+police reports is either blank or affirmatively indicates 
+
+
+states over which they have jurisdiction. Because of that, this 
+Court has a “settled and firm policy of deferring to regional courts 
+of appeals in matters that involve the construction of state law,” 
+Bowen v. Massachusetts, 487 U.S. 879, 908 (1988), because those 
+courts “are better schooled in and more able to interpret the laws 
+of their respective States.” Brockett v. Spokane Arcades, Inc., 472 
+U.S. 491, 500 (1985). The cases petitioner cites (Pet. Br. 24) are not 
+to the contrary. United States v. DiPina, 178 F.3d 68 (Ist Cir. 
+1999), involved an unspecified juvenile proceeding in family court 
+and records did not indicate whether it was a guilty plea or a plea 
+of nolo contendere; the court of appeals specifically noted that the 
+fact that the case involved a juvenile made admissions during the 
+proceeding especially unreliable. Jd. at 73-74 & n.8. Under those 
+peculiar circumstances, the court remanded for a determination of 
+what process was followed. /d. at 77. United States v. Roberts, 39 
+F.3d 10 (Ist Cir. 1994), involved a charge of driving under the 
+influence which had been “continued by the state court without a 
+finding \of guilt].” Jd. at 10 (emphasis added). The court re- 
+manded for further clarification of the procedures that were 
+followed, stating that under the two-stage state court procedures 
+then in effect (but since abolished), the lack of finality at the first 
+stage might make the defendant’s admission “unreliable as an 
+admission of guilt.” Jd. at 12. The court noted that a comparable 
+admission at the second stage would have been a binding admission 
+
+
+of guilt. /bid. None of those procedural complications is present 
+here. 
+
+
+28 
+
+
+that the section is not applicable (“N/A”). See 3 J.A. 7, 
+11, 19, 23. Accordingly, there would have been no basis 
+in the record for the state court to find sufficient facts 
+to support a guilty plea to entering a ship or vehicle. 
+Finally, the forms noting petitioner’s guilty pleas for 
+three of his convictions identify the “place of offense” 
+with the same street address set forth in the complaint 
+application and police reports, clearly tying the offense 
+of conviction to the events described in those docu- 
+ments.’ As the court of appeals correctly concluded, 
+those facts give rise to “a compelling inference that the 
+plea was to the complaint and that the complaint em- 
+bodied the events described in the [complaint] applica- 
+tion” and the incorporated police report. J.A. 182. 
+Thus, a review of the court documents indicates that 
+the state court was “required to find all the elements of 
+generic burglary.” Taylor, 495 U.S. at 602. 
+
+As the court of appeals concluded, an absolute bar on 
+considering complaint applications and incorporated 
+
+
+6 See 3 J.A. 14 (July 1991 break-in at “258 Norwell St.”); 3 J.A. 
+20 (February 1994 break-in at “145 Gallivan Blvd.”); see also 3 J.A. 
+4 (May 1989 break-in at “30 Harlem St.”). 
+
+
+7 Petitioner errs in stating (Pet. Br. 26) that “the prosecutor 
+conceded [that] the issue of whether petitioner had burglarized a 
+building as opposed to some other enclosure was not ‘necessarily 
+adjudicated’ in his prior plea proceedings.” That assertion ap- 
+parently refers to the government attorney’s statement (quoted at 
+id. at 25) that “I have no indication of what the plea colloquy deter- 
+mined or what documents were cited at the plea colloquy.” J.A. 
+133. That statement was made in response to the district court’s 
+question about whether the police reports were specifically refer- 
+enced “during the plea colloquy.” Jbid. The prosecutor clearly 
+argued that the district court “can, in fact, make a determination 
+as to what elements of the statute the defendant entered [his] plea 
+
+
+to by looking at” the complaint applications and police reports. 
+J.A. 114; seé also J.A. 110, 112. 
+
+
+29 
+
+
+police reports “would make the use of prior convictions 
+based on guilty pleas * * * hinge on the happenstance 
+of state court record-keeping practices. The enhance- 
+ment would only apply when a plea agreement or a plea 
+transcript had been preserved that showed a defendant 
+pled guilty to a violent felony.” J.A. 85. Limiting the 
+permitted inquiry to plea colloquies and written plea 
+agreements, as the district court did, would frequently 
+make it impossible for the government to pursue en- 
+hancements against even the worst offenders, as this 
+case demonstrates. See J.A. 176 (petitioner is “just the 
+kind of burglar whom Congress had in mind in adopting 
+[ACCA]”); J.A. £9 (“{petitioner]’s record is about as bad 
+as they come”). Such a rule would have a particularly 
+grave effect in Massachusetts, where recordings of plea 
+colloquies are routinely destroyed after only a brief re- 
+tention period.” See generally Mass. Special R. of Dist. 
+Ct. 211(A)(4) (requiring retention of recordings of 
+guilty pleas for two and a half years).” 
+
+
+* See, e.g., Commonwealth v. Lopez, 690 N.E.2d 809, 811 & n.3 
+(Mass. 1998); Commonwealth v. Grant, 689 N.E.2d 1336, 1338 
+(Mass. 1998); see also Raab, 725 N.E.2d at 1044; Commonwealth v. 
+Gabin, No. 12069, 2001 WL 1566172, at *3 (Mass. Super. Ct. Dec. 7, 
+2001). 
+
+
+* Numerous courts of appeals have agreed that in considering 
+ACCA or other recidivist enhancements, it is appropriate to con- 
+sult court records to determine the nature of offenses to which the 
+defendant pleaded guilty. See United States v. Hernandez, 218 
+
+
+—¥84-272, 279 (3d Cir. 2000) (allowing consideration of “easily pro- 
+
+
+duced court documents”); United States v. Coleman, 158 F.3d 199, 
+202-203 (4th Cir. 1998) (en banc) (allowing consideration of the 
+“statement of charges” filed by the complaining witness); United 
+States v. Hill, 131 F.3d 1056, 1063 (D.C. Cir. 1997) (allowing con- 
+sideration of “various court documents”); Unwed States v. Palmer, 
+68 F.3d 52, 59 (2d Cir. 1995) (allowing consideration of “easily pro- 
+duced and evaluated court documents”); see also United States v. 
+
+
+30 
+
+
+3. Considering Court Documents To Determine If Guilty 
+Pleas Constitute Admissions To Unlawful Entry Of 
+Buildings Does Not Create The Problems Taylor 
+Sought To Avoid 
+
+
+Petitioner contends (Pet. Br. 26-27) that Taylor’s 
+categorical approach to classifying predicate offenses 
+prohibits district courts from examining complaint 
+applications and incorporated police reports to deter- 
+mine the offense to which a defendant pleaded guilty, 
+and that such an examination creates the “problems 
+[Taylor] sought to avoid,” id. at 26. That is incorrect. 
+The sort of factfinding procedure that Taylor found 
+problematic was a de novo determination of whether 
+
+
+Richardson, 230 F.3d 1297, 1300 (11th Cir. 2000) (per curiam) 
+(permitting district court to examine police reports to determine 
+whether ACCA predicate crimes were “committed on ‘occasions 
+different from one another’”), cert. denied, 532 U.S. 983 (2001); 
+United States v. Hudspeth, 42 F.3d 1015, 1018 n.3 (7th Cir. 1994) 
+
+
+. (en banc) (same), cert. denied, 515 U.S. 1105 (1995). But see, e.g., 
+
+
+United States v. Payton, 918 F.2d 54, 56 (8th Cir. 1990) (holding 
+that district court erred by looking “beyond the statute, the 
+charging paper and the jury instruction”). The cases cited by 
+amicus (NACDL Br. 24-25), actually support the government’s 
+position. Palmer relied heavily on amendments to the Sentencing 
+Guidelines that are not implicated here to determine that the 
+district court could not rely on the PSR in determining career 
+offender status under the Guidelines, 68 F.3d at 57, and explicitly 
+stated that courts could rely on court documents for the same 
+inquiry. United States v. Demint, 74 F.3d 876 (8th Cir.), cert. 
+denied, 519 U.S. 951 (1996), looked to state law to clarify whether a 
+charging document alleging “burglary of a camp” involved a 
+“structure” under state law. Jd. at 877 In United States v. Howze, 
+343 F.3d 919, 923 (7th Cir. 2003), the co +t of appeals looked to 
+unspecified “charging papers” to determine that although the 
+statute of conviction encompassed nonviolent conduct, the 
+
+
+defendant was convicted of a form of the offense that presented a 
+risk of violence. 
+
+
+31 
+
+
+“the defendant actually committed a generic burglary.” 
+495 U.S. at 601. That sort of inquiry would involve a re- 
+view of the actual testimony at trial (or live witnesses 
+presenting the same testimony), which wevild pose both 
+“practical difficulties” and create “potentia! unfairness” 
+to defendants who had pleaded guilty to reduced 
+charges only to find themselves again defending against 
+burglary allegations. Jd. at 601-602. The court of ap- 
+peals took pains to emphasize that the inquiry at issue 
+here was designed to avoid “enmeshl{ing] the district 
+court in the kind of factually disputed ‘archeological dig’ 
+about the defendant’s conduct that Taylor guards 
+against, with all the attendant practical difficulties of 
+holding mini-trials on a defendant’s prior convictions.” 
+J.A. 88. The process at issue here, like that specifically 
+endorsed in Taylor, requires only a narrow examination 
+of state-court documents to determine whether the 
+state court’s guilt determination required a finding that 
+the burglary involved a building. And looking to court 
+documents to determine the nature of a prior conviction 
+is consistent with the language of ACCA, because (like 
+the inquiry in Taylor), it focuses on the elements 
+supporting conviction and the fact of conviction rather 
+than on “the facts underlying the prior convictions.” 
+495 U.S. at 600. 
+
+If the court documents indicate that a plea was to 
+generic burglary, ordinarily the only other evidence the 
+district court might receive would be any “counter- 
+vailing evidence [offered by the defendant] to defeat 
+the inference” that the defendant pleaded guilty to 
+generic burglary. J.A. 182. Typically, as here, the 
+defendant would submit an affidavit. That method of 
+inquiry suffers no more from the “problems associated 
+with old, stale evidence,” Pet. Br. 27, than does Taylor, 
+which itself contemplates making a determination about 
+
+
+32 
+
+
+the nature of the offense from looking to documents 
+from the case file of the same vintage, 7.e., “the charging 
+paper and jury instructions.” 495 U.S. at 602. Con- 
+trary to petitioner’s repeated claims (Pet. Br. 21, 27, see 
+also NACDL Br. 27-28), this method of proving the 
+nature of prior burglary convictions does not pose 
+inherent problems involving the reliability of evidence, 
+both because of the narrow scope of the inquiry, and 
+because the burden of persuasion at all times rests on 
+the government. 
+
+The complaint application and incorporated police 
+report are relevant primarily not as an assertion of the 
+truth of all the facts set forth within them, but because 
+they embody the charges the state was pursuing 
+against the defendant. As the Harris court put it, they 
+indicate that “the government * * * believed that the 
+generically violent crime (‘building’) * * * was at 
+issue,” 964 F.2d at 1236. In addition, to be relevant to 
+the determination of whether the crime involved a 
+guilty plea to entering a building, the documents need 
+be reliable only on the issue of whether the incident 
+could have involved breaking and entry of anything 
+other than a building. Cf. United States v. Delgado, 288 
+F.3d 49, 56 (1st Cir.) (“the police report ‘may not be 
+entirely reliable in all of its aspects,’ but ‘is entirely re- 
+liable’ as to ‘where the crime was committed’”) (quoting 
+district court opinion), cert. denied, 537 U.S. 1062 
+(2002); cf. generally Commonwealth v. Durling, 551 
+N.E.2d 1193, 1200-1201 (Mass. 1990) (noting that state 
+law makes it a crime to file a false police report and 
+noting “the inherent reliability” of police reports). If 
+complaint applications and police reports are ambiguous 
+about whether a vehicle or ship could possibly have 
+been the site of the break-in, they are insufficient to 
+support an enhancement. Nothing in the court of 
+
+
+33 
+
+
+appeals’ opinions suggests that an ambiguous complaint 
+application and police report (that, for example, is 
+unclear about whether a burglary involved a house or 
+rather might have involved a car or boat in the drive- 
+way) would be sufficient to support a finding that the 
+conviction was for generic burglary. 
+
+
+4. The Court Of Appeals’ Test Does Not Reverse The Bur- 
+den Of Proof For Demonstrating The Applicability Of 
+ACCA Enhancements 
+
+
+Petitioner contends (Pet. Br. 24-26; see also NACDL 
+Br. 27-28) that the test adopted by the court of appeals 
+impermissibly reverses the ordinary burden of proof 
+and shifts the burden to the defendant to show that the 
+enhancement does not apply. To the contrary, the court 
+of appeals explicitly stated that the government “bears 
+the burden of proving” (J.A. 89 (quoting United States 
+v. Dueno, 171 F.3d 3, 7 (ist Cir. 1999))) by a preponder- 
+ance of the evidence that a defendant’s “pleas of guilty 
+constituted admissions to unlawful entries into build- 
+ings.” Ibid. The court did not indicate that a presump- 
+tion would arise that the defendant pleaded guilty to 
+generic burglary from the mere fact that he was 
+arrested for that offense, or the fact that police sought a 
+complaint for that offense. 
+
+During the first appeal, the court of appeals set forth 
+an illustrative set of questions the district court could 
+consider in making the determination of whether a 
+complaint application and police report would give rise 
+to such an inference. See J.A. 86. During the second 
+appeal, the court of appeals recognized it was “possible” 
+(though “barely” so (J.A. 182)) that for any one of 
+petitioner’s predicate offenses, petitioner “might have 
+pled guilty, not to the charge that underlay the com- 
+plaint (namely, burglary of a building), but to the 
+
+
+34 
+
+
+burgling of some other venue such as a boat argv ably 
+not within the definition of generic burglary.” J.A. 182. 
+Those statements do not indicate, as petitioner claims 
+(Pet. 24), that the court of appeals approved an auto- 
+matic presumption in every case that a guilty plea 
+necessarily embodies the facts of the police report of a 
+defendant’s arrest, which a defendant must rebut to 
+avoid imposition of the enhancement. The court indi- 
+cated that a “compelling inference” (J.A. 182) arose in 
+this case only because of the overwhelming evidence 
+that the government had produced indicating that peti- 
+tioner had pleaded guilty in five cases in which the 
+complaint application and incorporated police report 
+clearly indicated that the offense involved burglary of a 
+building (with no reference whatever to ships or 
+vehicles), coupled with a sixth guilty plea to a complaint 
+charging only generic burglary. While the court 
+recognized that petitioner “[clonceivably” might have 
+pleaded guilty to a different offense on one occasion, the 
+court concluded it was “nearly impossible” that “for 
+four or more of the six crimes,” petitioner would have 
+pleaded guilty to a different type of burglary than that 
+for which he had been arrested. J.A. 182. That com- 
+monsense observation did not amount to any misappli- 
+cation of the burden of persuasion. To the contrary, it 
+was only in the face of the evidence adduced by the 
+government that the court concluded that petitioner’s 
+predicate convictions had satisfied the requirements of 
+ACCA, in the absence of any “countervailing evidence 
+to defeat the inference” that he had pleaded guilty to 
+generic burglary. [bid. 
+
+The court of appeals did not place exorbitant de- 
+mands on petitioner. For example, petitioner could 
+have filed an affidavit in which he swore that on the 
+occasions in question, he had pleaded guilty to the 
+
+
+35 
+
+
+burglary of a ship or vehicle nowhere mentioned in the 
+complaint application or police report. See J.A. 117 
+(prosecutor states that it would have been sufficient for 
+petitioner to state that “[a]t the time of my plea I told 
+them it was not a building, it was a car,” or even “I con- 
+tested it in some way”). If the district court reasonably 
+credited that affidavit, ACCA would not have applied. 
+Petitioner, however, simply said that he had not at the 
+time of the pleas “admit[ted] the truth of the informa- 
+tion contained in the [police] report[s].” J.A. 100 
+(emphasis added); see also J.A. 182. Because there was 
+“no * * * evidence” (J.A. 182) to rebut the inference 
+that petitioner had pleaded guilty to generic burglary, 
+the court of appeals correctly concluded that peti- 
+
+
+tioner’s convictions satisfied the requirements of 
+ACCA.” 
+
+
+B. The Doctrine Of Constitutional Doubt Does Not Re- 
+quire Adoption Of Petitioner’s Construction 
+
+
+Relying on Jones v. United States, 526 U.S. 227 
+(1999), petitioner argues (Pet. Br. 29-35), for the first 
+
+
+time in any court, that the doctrine of “constitutional 
+dcubt” requires this Court to construe ACCA not to 
+
+
+10 Indeed, the court of appeals gave an unduly generous inter- 
+pretation to petitioner’s affidavit, saying that in it, petitioner said 
+that “he had not specifically admitted in open court to breaking 
+into houses and that the underlying police reports were not read to 
+him at the plea hearings.” J.A. 182. In fact, petitioner stated only 
+that the judges presiding at his plea proceedings had not read the 
+police report to him, “did not ask him whether or not the infor- 
+mation contained in the [police] report was true,” and that he “did 
+not admit the truth of the information contained in the [police] 
+report as part of my plea.” J.A. 100. But stating that he did not 
+confirm the accuracy of the entire police report in open court is a 
+far cry from saying that he did not admit to breaking and entering 
+a building. 
+
+
+oN 
+
+
+36 
+
+
+permit inquiry into the nature of a conviction obtained 
+by guilty plea. Petitioner contends that judicial 
+determinations about the nature of a defendant’s prior 
+offenses raises “grave and doubtful” (Pet. Br. 35) 
+constitutional questions in light of this Court’s decision 
+in Apprendi v. New Jersey, 530 U.S. 466 (2000), in 
+which the Court_held that “({o]ther than the fact of a 
+prior conviction, any fact that increases the penalty for 
+a crime beyond the prescribed statutory maximum 
+must be submitted to a jury, and proved beyond a 
+reasonable doubt.” Jd. at 490. Petitioner contends that 
+the doctrine of constitutional doubt requires the court 
+to construe ACCA in his favor to avoid addressing the 
+question whether Congress may constitutionally draft a 
+criminal statute that predicates an enhanced penalty on 
+a judicial determination of the nature of a defendant’s 
+prior convictions. Petitioner has not, however, raised a 
+claim in this Court that judicial determination of the 
+nature of his prior convictions would actually be uncon- 
+stitutional. Nor did he raise such a claim before the 
+court of appeals or in his certiorari petition. Therefore, 
+any such claim “is not properly before” this Court. 
+Delta Airlines, Inc. v. August, 450 U.S. 346, 362 (1981). 
+The doctrine of constitutional doubt does not assist 
+petitioner. That doctrine applies only if a statute is 
+“genuinely susceptible to two constructions after * * * 
+its complexities are unraveled” using other interpretive 
+tools, and one resolution of the ambiguity would raise a 
+serious constitutional question. Almendarez-Torres v. 
+United States, 523 U.S. 224, 238 (1998). There is no 
+grave doubt under current law (or the law at the time 
+ACCA was enacted) about the constitutionality of 
+having a judge determine the nature of a prior convic- 
+tion. In Almendarez-Torres, this Court held that a 
+defendant’s prior conviction may constitutionally be 
+
+
+37 
+
+
+treated as a sentencing factor to be found by the sen- 
+tencing court by a preponderance of the evidence, 
+rather than an element of the offense to be found by the 
+jury beyond a reasonable doubt, even when the court’s 
+finding serves to increase the defendant’s sentence 
+beyond the otherwise-applicable statutory maximum. 
+See 523 U.S. at 239-247; see also id. at 243-244 (noting 
+long tradition of judges using prior convictions as sen- 
+tencing factors). Indeed, Almendarez-Torres cited 
+ACCA as an example illustrating that “prior com- 
+mission of a serious crime * * * is as typical a sen- 
+tencing factor as one might imagine.” /d. at 230. | 
+
+Although the Court in Apprendi found it to be 
+“arguable that Almendarez-Torres was incorrectly 
+decided,” 530 U.S. at 489, it specifically declined to 
+overrule that decision. Jd. at 487-490; see id. at 490. 
+Just last Term, this Court noted that “(w]e have not 
+extended [Jn re] Winship’s protections to proof of prior 
+convictions used to support recidivist enhancements.” 
+Dretke v. Haley, 124 8. Ct. 1847, 1853 (2004) (citing, 
+inter alia, Almendarez-Torres); see also Blakely v. 
+Washington, 124 S. Ct. 2531, 2536 (2004) (restating 
+Apprendi rule that exempts “the fact of a prior 
+conviction”). In the face of those decisions, it is not sur- 
+prising that petitioner does not even cite Almendarez- 
+Torres, much less challenge its continuing validity. In 
+any event, this Court does not employ the canon of 
+constitutional avoidance to revisit one of its binding 
+precedents. See Harris v. United States, 536 U.S. 545, 
+555-556 (2002). The canon instead provides a tool for 
+statutory construction that “rests upon our respect for 
+Congress, which we assume legislates in the light of 
+constitutional limitations.’” Jd. at 556 (quoting Rust v. 
+Sullivan, 500 U.S. 173, 191 (1991)). The canon has no 
+role to play when this Court’s decisions and the law at 
+
+
+38 
+
+
+the time Congress acted demonstrate the absence of 
+constitutional doubts. bid. The constitutional avoid- 
+ance canon accordingly provides no reason to construe 
+ACCA to prohibit district courts from examining state 
+court records to determine the nature of a prior con- 
+viction. 
+
+Petitioner suggests (Pet. Br. 32) that the approach 
+taken by the court of appeals “would require the sen- 
+tencing court to find facts beyond those adjudicated in 
+the prior guilty plea in order to determine whether that 
+plea was for a generic burglary.” Here, he contends, 
+the court of appeals made “findings of fact * * * 
+regarding the underlying conduct and the plea 
+proceedings, as well as findings concerning Massachu- 
+setts state court procedures.” Pet. Br. 34. Having a 
+district court find such facts, petitioner claims, would 
+implicate Apprendi. Id. at 34-35. That claim is without 
+merit. 
+
+As explained above, see pp. 22-23, supra, deter- 
+mining the nature of a prior conviction involves only an 
+assessment of what the state court itself already has 
+been “required to find,” Taylor, 495 U.S. at 602, in 
+order to find the defendant guilty of the crime charged. 
+As with the inquiry specifically condoned by Taylor 
+into the charging document and jury instructions, it is a 
+largely legal assessment of the effect of documents 
+in the court file, and of whether, given those documents, 
+the factfinder was “required to find” the defendant 
+committed burglary of a structure to convict. Examina- 
+tion of the meaning of the court files is not “factfinding” 
+for Apprendi purposes, but rather a legal inquiry into 
+what the record indicates about the nature of convic- 
+tions. Thus, because an inquiry into the nature of a 
+guilty plea is the “same determination” involved in 
+
+
+39 
+
+
+Taylor, Harris, 964 F.2d at 1236, petitioner’s consti- 
+tutional doubt argument fails." 
+
+Even if petitioner were correct that determining the 
+crime to which a defendant has pleaded guilty requires 
+ancillary judicial determinations about the nature of 
+prior convictions, it would not raise “(grave and doubt- 
+ful questions” (Pet. Br. 34) about the validity of the 
+practice under current law. Tcy'»r itself authorized 
+courts to undertake a comparal'« inquiry to classify 
+prior convictions, which even petitioner concedes is not 
+properly considered Apprendi “factfinding.” See Pet. 
+Br. 33. Every court of appeals that has considered the 
+question has held that “Apprendi * * * leavies] to the 
+judge, consistent with due process, the task of finding 
+not only the mere fact of previous convictions but other 
+related issues as well” relating to prior convictions. 
+United States v. Santiago, 268 F.3d 151, 156 (2d Cir. 
+2001), cert. denied, 535 U.S. 1070 (2002). Thus, courts 
+have unanimously concluded that Apprendi and 
+Almendarez-Torres permit not only a narrow inquiry 
+into “the fact that a prior conviction exists, but also a 
+determination of whether a conviction is one of the enu- 
+merated types qualifying for the sentence enhance- 
+ment” even if it requires “the finding of facts beyond 
+the mere fact of conviction.” United States v. Kempis- 
+Bonola, 287 F.3d 699, 703 (8th Cir.) (determination 
+whether a prior conviction is “aggravated” felony under 
+
+
+! Petitioner errs in suggesting (Pet. Br. 29) that the Taylor 
+opinion itself expressed constitutional doubt about having the 
+sentencing court determine the nature of the prior conviction. In 
+passing, Taylor raised a question about the distinct issue of the 
+
+
+sentencing court “concludling], from its own review of the record, 
+
+
+that the defendant actually committed a generic burglary.” 495 
+U.S. at 601. As explained above, see pp. 22-23, supra, that issue is 
+not presented here. 
+
+
+ae 
+
+
+40 
+
+
+- 
+
+
+8 U.S.C. 1326) (internal quotation omitted), cert. 
+denied, 537 U.S. 914 (2002). The courts of appeals like- 
+wise uniformly have held that Apprendi permits 
+judicial determination of whether offenses qualify as 
+predicate offenses under ACCA” and the federal three- 
+strikes statute,” and whether offenses are “aggra- 
+vated” felonies under 8 U.S.C. 1326(b)(2).* And every 
+court of appeals that has considered the question has 
+concluded that judges may validly determine whether 
+ACCA predicate offenses were “committed on occa- 
+sions different from one another,” although the inquiry 
+requires consideration of “the nature of the crimes, 
+the identities of the victims, * * * the locations, and 
+* * * whether the crime involved distinct criminal 
+aggressions.” United States v. Morris, 293 F.3d 1010, 
+1013 (7th Cir.), cert. denied, 537 U.S. 987 (2002); accord 
+United States v. Stone, 306 F.3d 241, 243-244 (5th Cir. 
+2002); Santiago, 268 F.3d at 155. The cases cited by 
+petitioner (Pet. Br. 32) are not to the contrary.” 
+
+
+2 United States v. Campbell, 270 F.3d 702, 708 (8th Cir. 2001) 
+(rejecting claim that Apprendi applies to determination of predi- 
+cate offenses under ACCA because application requires “a ‘com- 
+plex series of factual findings’ to determine whether or not prior 
+offenses constitute violent felonies or serious drug offenses”), cert. 
+denied, 535 U.S. 946 (2002). 
+
+3 United States v. Gatewood, 230 F.3d 186, 191-192 (6th Cir. 
+2000), cert. denied, 534 U.S. 1107 (2002). 
+
+
+4 See, e.g., Kempis-Bonola, 287 F.3d at 703; United States v. 
+Martinez-Garcia, 268 F.3d 460, 463-465 (7th Cir. 2001), cert. 
+denied, 534 U.S. 1149 (2002). 
+
+' Petitioner cites (Pet. Br. 32) both United States v. Cooper, 375 
+F.3d 1041 (10th Cir. 2004), and United States v. Sanders, 377 F.3d 
+845 (8th Cir. 2004), for the proposition that “[l]imiting Taylor’s 
+reach to the fact of conviction as determined by categorical ap- 
+proach cabins § 924(e) within the confines of the Apprendi-Blakely 
+exception.” Both cases merely restate the proposition that the 
+
+
+41 
+
+
+The courts of appeals have correctly concluded 
+that inquiry into the fact of a prior conviction under 
+Apprendi and Almendarez-Torres extends to ancillary 
+determinations about whether a conviction is a quali- 
+fying predicate under the statute. As this Court has 
+noted, recidivism has long been considered a distinct 
+issue because “recidivism ‘does not relate to the com- 
+mission of the offense, but goes to the punishment 
+only.” Almendarez-Torres, 523 U.S. at 244 (quoting 
+Graham v. West Virginia, 224 U.S. 616, 629 (1912)); see 
+also Nichols v. United States, 511 U.S. 738, 747-748 
+(1994). For the same reasons that this Court has 
+properly held that recidivism is a sentencing factor that 
+may be determined by a sentencing judge, see pp. 44- 
+45, infra, any ancillary determinations about whether a 
+prior conviction is properly classified as an ACCA 
+predicate are “sufficiently interwoven” with the fact of 
+a prior conviction that “Apprendi does not require 
+different fact-finders and different burdens of proof for 
+
+
+Section 924(e)’s various requirements.” Santiago, 268 
+F.3d at 157. 
+
+
+C. The Rule Of Lenity Does Not Compel Adoption Of Peti- 
+tioner’s Construction 
+
+
+Petitioner contends (Pet. Br. 35-37) that the rule of 
+lenity requires holding that ACCA applies only to 
+convictions under generic burglary statutes and con- 
+victions for predicate offenses obtained after jury trials. 
+
+
+indictment and jury-trial requirements of Apprendi do not apply to 
+“the fact of a prior conviction,” Cooper, 375 F.3d at 1052 n.3; 
+Sanders, 377 F.3d at 847 n.3, but neither indicates that “the fact of 
+a prior conviction” should be read narrowly. Indeed, Cooper 
+rejected the argument that Apprendi required jury factfinding 
+about whether the defendant was actually the person named in 
+prior convictions. 375 F.3d at 1053. 
+
+
+42 
+
+
+Although petitioner’s argument is unclear, it appears 
+that petitioner does not contend that ACCA itself is 
+ambiguous; rather, he contends that to the extent that 
+“the Massachusetts [state] breaking and entering 
+statutes * * * are ambiguous.as to whether they con- 
+stitute generic crimes,” under the rule of lenity, “they 
+[should] be interpreted as non-generic crimes and no 
+further inquiry would be required.” Pet. Br. 36. That 
+argument lacks merit. 
+
+The rule of lenity has no application here because this 
+case does not involve the construction of ambiguous 
+statutes. See Albernaz v. United States, 450 U.S. 333, 
+343 (1981) (“the rule of lenity simply has no application” 
+where court is “not confronted with any statutory ambi- 
+guity”). There is no need to construe the Massachu- 
+setts state statutes in this case (even if federal courts 
+could do so authoritatively): the prohibitions and penal- 
+ties of the Massachusetts breaking and entering stat- 
+utes are clear and well established. Petitioner points to 
+no provision of ACCA that he contends is ambiguous so 
+as to permit the rule to be invoked here, and ACCA’s 
+language does not itself prescribe procedures for the 
+imposition of the enhancement. Sentencing Guidelines 
+§ 4B1.4, comment. (n.1) (“the procedural steps relative 
+to the imposition of an ‘enhanced sentence under 18 
+U.S.C. § 924(e) are not set forth by statute”). More- 
+over, this Court in Taylor has already construed ACCA 
+to permit sentencing courts to consider charging 
+instruments in order to determine whether a conviction 
+by jury under a statute that covered both generic and 
+nongeneric burglary was a conviction for generic 
+burglary, and petitioner identifies no textual basis for 
+drawing a different conclusion here. The Taylor Court 
+did not suggest that it was unclear whether the lan- 
+guage of ACCA would permit such a procedure. 495 
+
+
+43 
+
+
+U.S. at 602. The Court’s failure to consider the rule in 
+_ that context is a strong indication it believed the rule 
+was not implicated, because the Court twice specifically 
+addressed whether the rule of lenity played any role in 
+determining the meaning of the word “burglary” in the 
+statute. Jd. at 596, 598. 
+
+
+D. The Continuing Validity Of Almendarez-Torres Is Not 
+Before This Court 
+
+
+Amicus the National Association of Criminal Defense 
+Lawyers contends (Br. 6-22) that Almendarez-Torres, 
+supra, was wrongly decided. NACDL further contends 
+that the decision has been undercut by Apprendi, 
+supra, and its progeny, and that this Court should 
+overrule the decision. For several reasons, this Court 
+should decline that invitation. First, under this Court’s 
+Rule 14.1(a), only a question that is “set out in the 
+petition” or “fairly included therein” will be considered 
+by the Court. The petition presents only questions 
+’ concerning the kinds of materials a sentencing court 
+may consult to determine whether a prior burglary con- 
+viction was for a generic burglary, see Pet. i-ii, and 
+specifically indicated that “[nJo constitutional provision 
+is involved” in this case. Pet. 1. Nor is the question 
+“fairly included.” Amicus does not contend otherwise, 
+indicating that the validity of Almendarez-Torres is an 
+additional issue to be decided “as well as the Taylor 
+issue on which certiorari was granted.” NACDL Br. 2. 
+See generally Yee v. Escondido, 503 U.S. 519, 535 (1992) 
+(Court “disregard[s] [this rule] ‘only in the most excep- 
+tional cases,’ where reasons of urgency or of economy 
+suggest the need to address the unpresented question 
+in the case under consideration”) (quoting Stone v. 
+Powell, 428 U.S. 465, 481, n.15 (1976)). Second, peti- 
+tioner presented no comparable claim in the courts 
+
+
+44 
+
+
+below. See 02-1216 Pet. C.A. Br. 1-46; 99-2167 Pet. C.A. 
+Br. 1-19. See generally Pennsylvania Dep’t of Corrs. v. 
+Yeskey, 524 U.S. 206, 212-213 (1998) (“Where issues are 
+neither raised before nor considered by the Court of 
+Appeals, this Court will not ordinarily consider them.”) 
+(quoting Adickes v. S.H. Kress & Co., 398 U.S. 144, 147 
+n.2 (1970)). Finally, this Court “do[es] not ordinarily 
+address issues raised only by amici.” Kamen v. 
+Kemper Fin. Servs., Inc., 500 U.S. 90, 97 n.4 (1991). 
+There is nu reason for the Court simultaneously to 
+
+
+_ depart from all of those sound practices in this case. 
+
+
+In any event, the Court in Apprendi was correct in 
+declining to disturb Almendarez-Torres. As the Court 
+stressed in Almendarez-Torres, that case involves 
+recidivism, which is “as typical a sentencing factor as 
+one might imagine.” 523 U.S. at 230 (citing, among 
+other statutes, 18 U.S.C. 924(e)). Principles of notice 
+and fundamental fairness do not require that prior 
+convictions be alleged in the indictment or found by a 
+jury in order for the defendant to be sentenced to a 
+longer term as a recidivist. A defendant cannot claim 
+surprise concerning the fact of a prior conviction, be- 
+cause he previously underwent the criminal process 
+that led to the judgment. 
+
+In addition, as the Court observed in Apprendi, 
+“there is a vast difference between accepting the 
+validity of a prior judgment of conviction entered in a 
+proceeding in which the defendant had the right to a 
+jury trial and the right to require the prosecutor 
+to prove guilt beyond a reasonable doubt”—which 
+Almendarez-Torres permits—and allowing a judge 
+rather than a jury to find in the first instance facts that 
+“relate to the commission of the offense itself.” 530 
+US. at 496 (internal quotation marks omitted). Indeed, 
+“unlike virtually any other consideration used to en- 
+
+
+45 
+
+
+large the possible penalty for an offense, * * * a prior 
+conviction must itself have been established through 
+procedures satisfying the fair notice, reasonable doubt, 
+and jury trial guarantees.” Jones, 526 U.S. at 249; 
+accord Apprendi, 530 U.S. at 488 (noting “certainty” 
+in Almendarez-Torres that “procedural safeguards 
+attached to any ‘fact’ of prior conviction”). Extension of 
+Apprendi to the fact of prior convictions also would 
+disserve future defendants’ interests by bringing their 
+prior criminal misconduct to the attention of jurors. 
+“As this Court has long recognized, the introduction of 
+evidence of a defendant’s prior crimes risks significant 
+prejudice.” Almendarez-Torres, 523 U.S. at 235; Old 
+Chief v. United States, 519 U.S. 172, 185 (1997) (“there 
+can be no question that evidence of the name or nature 
+of the prior offense generally carries a risk of unfair 
+prejudice to the defendant”); Spencer v. Texas, 385 U.S. 
+554, 560 (1967) (evidence of prior crimes “is generally 
+recognized to have potentiality for prejudice”); cf. also 
+id. at 563-564 (Due Process Clause does not require 
+bifurcated proceeding when jury resolves recidivist 
+sentencing issues). 
+
+Finally, this Court has repeatedly denied review in 
+cases that (unlike this case) fairly presented the ques- 
+tion whether Almendarez-Torres should be overruled 
+in light of Apprendi, most recently just two weeks 
+before the writ of certiorari was granted in this case." 
+
+
+© See, e.g., Pineda-Cortes v. United States, 124 S. Ct. 2813 
+(2004) (No. 03-9287); Garza-Garza v. United States, 124 S. Ct. 2096 
+(2004) (No. 03-8730); Garcia-Saldivar v. United States, 124 S. Ct. 
+2067 (2004) (No. 03-8536); Meza-Gonzalez v. United States, 124 
+S. Ct. 2017 (2004) (No. 03-8468); Sanchez-Medina v. United States, 
+124 S. Ct. 1655 (2004) (No. 03-7510); Lapsley v. United States, 124 
+S. Ct. 1409 (2004) (No. 03-7331); Jones v. United States, 124 S. Ct. 
+1145 (2004) (No. 03-6784); Hitt v. Kansas, 537 U.S. 1104 (2003) (No. 
+
+
+46 
+
+
+Under the circumstances, it would be extraordinary for 
+this Court to address a question of such potential 
+significance—which could affect tens of thousands of 
+sentences—in a case in which the question was not 
+raised in the petition for a writ of certiorari (or even in 
+petitioner’s merits brief), and when the question has 
+not been the subject of full briefing by the parties. 
+
+
+CONCLUSION 
+
+
+The judgment of the court of appeals should be 
+affirmed. 
+
+
+Respectfully submitted. 
+
+
+PAUL D. CLEMENT 
+Acting Solicitor General 
+
+
+CHRISTOPHER A. WRAY 
+Assistant Attorney General 
+
+
+MICHAEL R. DREEBEN 
+Deputy Solicitor General 
+
+
+JOHN P. ELWOOD 
+Assistant to the Sol'citor 
+General 
+
+
+THOMAS M. GANNON 
+Attorney 
+
+
+OCTOBER 2004 
+
+
+01-10864); Bradshaw v. United States, 537 U.S. 1049 (2002) (No. 02- 
+5015); Hagen v. United States, 537 U.S. 828 (2002) (No. 01-9064); 
+Gray v. United States, 536 U.S. 963 (2002) (No. 01-8724); Luzardo 
+v. United States, 536 U.S. 962 (2002) (No. 01-6491); Lozano-Ortiz v. 
+United States, 535 U.S. 1113 (2002) (No. 01-8092); Ford v. United 
+States, 535 U.S. 1098 (2002) (No. 01-7399); Bulgin v. United States, 
+535 U.S. 1095 (2002) (No. 01-742); Reyes v. United States, 535 U.S. 
+932 (2002) (No. 01-6151). 
+
+

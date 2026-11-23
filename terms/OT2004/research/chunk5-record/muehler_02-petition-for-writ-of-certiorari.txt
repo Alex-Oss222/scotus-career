@@ -1,0 +1,4582 @@
+Source: https://archive.org/download/micro_IA40385014_0753/micro_IA40385014_0753%2002.%20Petition%20for%20Writ%20of%20Certiorari_djvu.txt
+
+> Suprame Cour. | 
+
+
+‘Bee FILES 
+ee 
+
+
+031423 APR 13 2004 
+No. 03-_ 
+
+
+bila Om tees 
+
+
+IN THE 
+
+
+Supreme Court of the Gnited States 
+
+
+DARIN L. MUEHLER AND ROBERT BRILL. 
+Petitioners, 
+V. 
+IRIS MENA, 
+Respondent. 
+
+
+On Petition for a Writ of Certiorari 
+to the United States Court of Appeals 
+for the Ninth Circuit 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+
+
+KAREN K. PEABODY CARTER G. PHILLIPS* 
+DAVID L. NYE JOSEPH R. GUERRA 
+
+NYE, PEABODY & STIRLING, LLP MATTHEW J. WARREN 
+
+33 West Mission street SIDLEY AUSTIN BROWN & 
+Suite 201 WOOD LLP 
+
+Santa Barbara, CA 93101 1501 K Street, NW 
+
+(805) 963-2345 Washington, DC 20005 
+
+
+(202) 736-8000 
+DAVID H. HIRSCH 
+CiTy ATTORNEY 
+2929 Tapo Canyon Road 
+City of Simi Valley, CA 93063 
+(805) 583-6714 
+
+
+Counsel for Petitioners 
+
+
+April 13, 2004 * Counsel of Record 
+
+
+PR ERE STAC IS 
+WILSON-EPES PRINTING CO., INC. — (202) 789-0096 -— WASHINGTON, D. C. 20001 
+
+
+- 
+
+
+QUESTIONS PRESENTED 
+
+
+1. Whether, in light of this Court’s repeated holdings that 
+mere police questioning does not constitute a seizure, the 
+Ninth Circuit erred in ruling that law enforcement officers 
+who have lawfully detained an individual pursuant to a valid 
+search warrant engage in an additional, unconstitutional 
+“seizure” if they ask that person questions about criminal 
+activity without probable cause to believe that the person is or 
+has engaged in such activity. 
+
+
+2. Whether, in light of this Court’s ruling in Michigan v. 
+Summers, 452 U.S. 692 (1981), that a valid search warrant 
+carries with it the implicit authority to detain occupants while 
+the search is conducted, the Ninth Circuit erred in ruling that 
+a two to three hour detention of the occupant of a suspected 
+gang safe-house while officers searched for concealed 
+weapons and other evidence of a gang-related drive-by 
+shooting was unconstitutional because the occupant was 
+initially detained at gun-point and handcuffed for the duration 
+of the search. 
+
+
+(i) 
+
+
+il 
+STATEMENT REQUIRED BY RULE 14.1 
+
+
+Pursuant to Supreme Court Rule 14.1 petitioners state that 
+all parties to the proceeding in the court whose judgment is 
+sought to be review are, in addition to those listed in the 
+caption above: 
+
+Jose E. Mena, as plaintiff below: 
+City of Simi Valley 
+
+Randy G. Adams 
+
+Marvin Hodges 
+
+Roy Jones 
+
+Vincent Allegra 
+
+Alan McCord 
+
+Richard Thomas 
+
+Ronald Chambers 
+
+William Lappin 
+
+Arnold Baynard 
+
+Jeffrey Dominick 
+
+Jack Greenburg - 
+
+Richard Lamb 
+
+Frank Ahlvers 
+
+John Adamezyk 
+
+Tim Brown, as defendants below. 
+
+
+TABLE OF CONTENTS 
+
+Page 
+GPR BRIO UD OF RRIEIY B EEID oc ncccccccsccccncscccccccsesescossecnscees i 
+STATEMENT REQUIRED BY RULE 14.1 «200.000.0000... ii 
+SEE GUE BR OURIIEE OED occcccrccccecccccscvovcccsscscssccesocseees iv 
+Te I 
+cca cc essesenisonmnenconien I 
+
+CONSTITUTIONAL AND STATUTORY PROVI- 
+Teen sc sencnncnnnnonanacs l 
+MOM OUMUNUEPOE GPU BOUES C ABB. nnn.cssccccccccccccsccssccssscceseess 2 
+REASONS FOR GRANTING THE PETITION............. 9 
+ELE 20 
+
+
+(ili) 
+
+
+iV 
+
+
+TABLE OF AUTHORITIES 
+
+
+CASES Page 
+Crosby v. Hare, 932 F. Supp. 490 (W.D.N.Y. 
+
+Te cssssncessinisimescniesaieutiiaiaeinilasanpiabdeadid 17 
+Florida v. Bostick, 501 U.S. 429 (1991) 2.0... 9.10 
+Florida v. Royer, 460 U.S. 491 (1983)... 9.10 
+Franklin vy. Foxworth, 31. F.3d 873 (9th Cir. 
+
+SFT citcrtcsesninaiscielaceieaiibeiaeieinibdainiinaiaiaiemapeinnieinbnniiins 7,17 
+Graham v. Connor, 490 U.S. 386 (1989)................ 7 
+Heitschmidt v. City of Houston, 161 F.3d 834 (Sth 
+
+i Drees iniceeislaisssnstittsidiitesiaianigeiedinithibapuaniacomiitndien 17 
+Hope v. Pelzer, 536 U.S. 730 (2002) ......ccccceeeseeeeees 19 
+INS v. Delgado, 466 U.S. 210 (1984) ......cccccceeeeeeee: 9,10 
+Jacobs v. City of Chicago, 215 F.3d 758 (7th Cir. 
+
+Se iisinstssieciseouenadiniiinasiiiiiinietiitiaiditaleaihiataiganiatibailaieanaii 17 
+Levito v. Lapina, 258 F.3d 156 (3d Cir. 2001)... 17,19 
+Martinez-Camargo v. INS, 282 F.3d 487 (7th Cir. 
+
+) FI csieccssiescieebsiadseinsasbtiniudiehsdisiiaiinasidiiedintianadindiinmumnaasid 11,14 
+Meredith v. Erath, 342 F.3d 1057 (9th Cir. 
+
+Tit ITIE ccvintsicitnecanmasciestiitiisinsdihanitiniansdanbisadinmmsauamaiaaiinalia 18 
+
+Michigan v. Summers, 452 U.S. 692 (1981) ........... 8. 14, 
+15, 16 
+Mitchell vy. Unified Gov't, No. CIV.A.00-2116- 
+
+CM, 2000 WL 1920036 (D. Kan. 2000).............. 17 
+Pecsi v. Doyle, 940 F.2d 661 (6th Cir. 1991), 
+
+available at 1991 WL 137597 ........:cccccseseeeeeeeeees 17 
+Pikel vy. Garrett, 55 Fed. Appx. 29 (3d Cir. 
+
++ TEI ciiccntenisuninanaiiaanipuicitesinisiinliiiainaiegesiamaebiaiite 16, 17 
+Saucier v. Katz, 533 U.S. 194 (2001)..................00 19 
+United States v. Barahona, 990 F.2d 412 (8th Cir. 
+
+UTIs sccsensiesiinrssniceaivenneteiiaadansiscisdeiaiiisiiddihianmmaeisaaaatas 1] 
+United States v. Brignoni-Ponce, 422 U.S. 873 
+
+ETE nscsccxtoneensesstessiteitiieibennsigniisetialaantadisaiinaniandsmiaasmunniile 8, 14 
+
+
+United States v. Chacon, 330 F.3d 323 (Sth Cir. 
+
+
+Vv 
+
+
+TABLE OF AUTHORITIES -— continued 
+
+
+Page 
+United States v. Childs, 277 F.3d 947 (7th Cir.), 
+cert. denied, 537 U.S. 829 (2002).......0ccccccceeeee 11,12 
+United States v. Crain, 33 F.3d 480 (Sth Cir. 
+STU dsiecsintatibanaliaahbitil lia ah 11,12 
+United States v. Fountain, 2 F.3d 656 (6th Cir. 
+ER eee eS aE PER ET Ne ED eM 16,17 
+United States v. Holt, 264 F.3d 1215 (10th Cir. 
+iain lea i 10 
+United States v. Jacobs, 173 F.3d 426 (4th Cir. 
+1999), available at 1999 WL 96121 ..........0....... 11,12 
+United States v. Jones, 44 F.3d 860 (10th Cir. 
+SO iaccincticiniieitiiak alah acl ade 11 
+United States v. Machuca-Barrera, 261 F.3d 425 
+I aa a 11,12 
+United States v. Mendenhall, 446 U.S. 544 
+TU icibaihddaiiciaiiiha ia ats 9,10 
+United States v. Murillo, 255 F.3d 1169 (9th Cir. 
+2001), cert. denied, 535 U.S. 948 (2002) ............ 1] 
+United States v. Pruitt, 174 F.3d 1215 (11th Cir. 
+ERENT ery nae NT een Re er ea 10,11 
+United States v. Ramos, 42 F.3d 1160 (8th Cir. 
+Sei ateciieicehiiteei little ta a 10 
+United States v. Shabazz, 993 F.2d 431 (Sth Cir. 
+TO IRR N Te OO TOT nae R TI: 11,12 
+Williams v. Kaufman County, 352 F.3d 994 (5th 
+I Sicha. 17,19 
+CONSTITUTION AND STATUTE 
+BE ITS RON On CE 2 
+a ns UII hiichacntintatieiarenidntledaithledea tate ita 2 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+
+
+Petitioners Darin L. Muehler and Robert Brill respectfully 
+petition for a writ of certiorari to review the judgment of the 
+United States Court of Appeals for the Ninth Circuit in this 
+case. 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the court of appeals affirming the district 
+court’s denial of petitioners’ motion for summary judgment 
+on qualified immunity grounds (Mena /) was reported at 226 
+F.3d 1031 (9th Cir. 2000) and is reproduced in the appendix 
+(Pet. App.) at 5Sa-72a. The judgment of the district court was 
+unpublished and is reproduced at Pet. App. 48a-54a._ The 
+order of the trial court denying petitioners’ Fed. R. Civ. P. 
+59(e) motion to alter or amend judgment was unpublished and 
+is reproduced at Pet. App. 35a-47a. The opinion of the court 
+of appeals affirming the trial court’s judgment against 
+petitioners (Mena //) was published at 332 F.3d 1255 (9th Cir. 
+2003) and is reproduced at Pet. App. la-22a. The order of the 
+court of appeals denying rehearing en banc was published at 
+354 F.3d 1015 (9th Cir. 2004) and is reproduced at Pet. App. 
+23a-34a. 
+
+
+~ JURISDICTION 
+The judgment of the court of appeals was entered on June 
+23, 2003. An order denying petitioners’ petition for rehearing 
+and suggestion for rehearing en banc was entered on January 
+14, 2004. This Court has jurisdiction under 28 U.S.C. § 1254. 
+CONSTITUTIONAL AND STATUTORY PROVISIONS 
+
+
+The Fourth Amendment to the United States Constitution 
+provides that 
+
+
+2 
+
+
+The right of the people to be secure in their persons, 
+houses, papers, and effects, against unreasonable 
+searches and seizures, shall not be violated, and no 
+Warrants shall issue, but upon probable cause, supported 
+by Oath or affirmation, and particularly describing the 
+place to be searched, and the persons or things to be 
+seized. 
+
+
+Section 1983 of Title 42 to the United States Code provides 
+that 
+
+
+Every person who, under color of any statute, ordinance, 
+regulation, custom, or usage, of any State or Territory or 
+the District of Columbia, subjects, or causes to be 
+subjected, any citizen of the United States or other 
+person within the jurisdiction thereof to the deprivation 
+of any rights, privileges, or immunities secured by the 
+Constitution and laws, shall be liable to the party injured 
+in an action at law, suit in equity, or other proper 
+proceeding for redress, except that in any action brought 
+against a judicial officer for an act or omission taken in 
+such officer’s judicial capacity, injunctive relief shall not 
+be granted unless a declaratory decree was violated or 
+declaratory relief was unavailable. For the purposes of 
+this section, any Act of Congress applicable exclusively 
+to the District of Columbia shall be considered to be a 
+statute of the District of Columbia. 
+
+
+STATEMENT OF THE CASE 
+
+
+This case presents two recurring :onstitutional questions of 
+great significance to law enforcement officers throughout the 
+nation. The first is whether officers who have lawfully 
+detained an_ individual engage in an _ additional, 
+unconstitutional “seizure” if they ask that person questions 
+about criminal activity without probable cause to believe that 
+the person is or has engaged in such activity. The second is 
+whether the detention of individuals for two to three hours 
+
+
+3 
+
+
+while a valid search warrant for weapons is fully executed is 
+rendered constitutionally impermissible if the individuals 
+were initially detained at gun-point and handcuffed for the 
+duration of the search. The Ninth Circuit answered both 
+questions in the affirmative, holding not only that police 
+officers executing a search warrant violated the Fourth 
+Amendment by detaining occupants of the premises in 
+handcuffs and by questioning them about their immigration 
+status, but also that the Fourth Amendment violations were so 
+“clearly established” as to negate the officers’ qualified 
+immunity defense. These plainly erroneous rulings warrant 
+plenary review by this Court. 
+
+
+1. During January and February of 1998, petitioners Darin 
+Muehler and Robert Brill were officers with the Simi Valley 
+Police Department (“SVPD”) assigned to a special gang unit. 
+See Appellant’s Excerpts of Record (Appellant’s Excerpts of 
+R.) at 256, 258. On January 13, 1998, petitioners were 
+assigned to investigate a gang-related drive-by shooting. /d. 
+at 258. Three assailants in a light green Toyota Tercel fired 
+multiple shots at individuals standing in front of 355 Bonita 
+Drive in Simi Valley. /d Soon after the shooting, police 
+stopped a light green Toyota Tercel with three occupants: 
+Delfino Vasquez, Ricardo Bravo, and Raymond Romero. /d. 
+at 259. Both Vasquez and Bravo confessed to the shooting, 
+while Romero invoked his Miranda rights in response to 
+questioning. /d. at 259-60. During their investigation, 
+petitioners discovered that the shooting arose out of a rivalry 
+between two Simi Valley gangs: the West Side Locos, of 
+which Vasquez, Bravo, and Romero were members, and the 
+Varrio Simi Valley, several of whose members lived at 355 
+Bonita Drive. /d. at 259-61. Police recovered a .22 caliber 
+handgun that was fired in the January 13 shooting; however, 
+several .25 caliber bullets were found in the car, and one .25 
+caliber bullet was found in Romero’s pocket. /d. at 259-60. 
+
+
+Vasquez and Bravo told SVPD officers that Romero 
+possessed a chrome .25 caliber semi-automatic handgun and 
+
+
+4 
+
+
+that he had attempted to fire that handgun at the Varrio Simi 
+Valley members on January 13. Appellant’s Excerpts of R. 
+260. Vasquez and Bravo also stated that Romero had hidden 
+the handgun at the residence of another West Side Locos 
+member immediately after the shooting. /d Vasquez and 
+Bravo's story was corroborated by Gabric! Reyes, a member 
+of Varrio Simi Valley who had seen Romero with a chrome 
+handgun. /d. at 261. This information was particularly 
+significant, because a .25 caliber handgun had been used in 
+the unsolved November 28, 1997 shooting of a Varrio Simi 
+Valley member. See id. at 260. 
+
+
+Based upon this information, petitioners believed that 
+Romero, who had been released, likely had recovered the .25 
+caliber handgun. See Appellant’s Excerpts of R. 260-61. 
+Petitioners also learned from Romero’s family that Romero 
+was living at 1363 Patricia Avenue in a “poor house” — a 
+single-family home that housed a large number of unrelated 
+individuals who rented space in rooms in the house, in the 
+furnished garage, and in motorhomes and vans parked in the 
+backyard. Pet. App. 56a-57a. Additionally, petitioners 
+learned that at least one other member of the West Side Locos 
+was either living or had lived in the same house. /d. at 56a- 
+57a. Based on their experience, the officers concluded that 
+1363 Patricia Avenue may have been a safe house for the 
+West Side Locos. See Appellant’s Excerpts of R. 177. 
+
+
+Petitioners secured a search warrant for 1363 Patricia 
+Avenue on January 29, 1998, which authorized them to 
+search for, among other things, “*[dJeadly weapons’” and 
+“evidence of street gang membership or affiliation with any 
+street gang.” Pet. App. 57a (alteration in original). The 
+warrant authorized a search both of the house and of the 
+vehicles on or adjacent to the property. Appellant's Excerpts 
+of R. 253. The search warrant was executed at 1363 Patricia 
+Avenue at approximately 7:00 AM on the morning of 
+February 3, 1998. Pet. App. 2a. Petitioners were the 
+investigating officers responsible for overseeing the search. 
+
+
+5 
+
+
+Id. Because of the strong evidence that armed gang members 
+may have been present at 1363 Patricia Avenue and because 
+officers had encountered resistance during previous visits to 
+the home, the officers decided to use a Special Weapons and 
+Tactics (SWAT) team to clear the residence and secure any 
+occupants before the search. See Appellant’s Excerpts of R. 
+67-69, 77, 80. The SWAT team discovered four individuals 
+on the premises; each was handcuffed and brought to a 
+furnished garage for the duration of the search. Pet. App. 
+25a, 59a, 67a. 
+
+
+Respondent Iris Mena was asleep in her bed when a SWAT 
+team officer broke down her padlocked door, pointed his 
+weapon at her. handcuffed her and walked her into the garage. 
+Pet. App. 3a, 25a. The garage had been furnished with 
+several beds, where respondent sat with the other three 
+occupants. /d. at 29a. Respondent was wearing sweatpants 
+and a long-sleeved shirt when she was brought into the 
+garage, but the officers brought her a jacket and shoes. /d. at 
+25a She was permitted to move around the garage, and in 
+fact she moved from one bed to another while the search 
+progressed. See Appellant’s Excerpts of R. 160. Because the 
+officers were uncertain of her connection to the West Side 
+Locos and because they were concerned that she might 
+interfere with the search, the officers did not remove her 
+handcuffs. See id. at 93-94, 182. She never asked for her 
+handcuffs to be loosened. /d. at 163. 
+
+
+Knowing that many of the West Side Locos’ members were 
+illegal immigrants, SVPD officers notified the Immigration 
+and Naturalization Service (INS) before the search was 
+initiated. Pet. App. 27a, 33a. While respondent and the other 
+occupants were detained, an INS officer arrived at the garage 
+and the occupants were asked about their immigration status. 
+Id. at 7a, 25a, 59a. The officers learned that one of the 
+detainees was an illegal alien, and they took him into custody. 
+See Appellant’s Excerpts of R. 132. Like the others, 
+respondent, who has a Salvadorean accent, was asked whether 
+
+
+6 
+
+
+she was a legal alien. Pet. App. 7a, 25a. -After she answered 
+she was further asked for her immigration papers; she 
+directed the officers to a purse in her room, in which they 
+discovered her papers. /d. at 25a-26a. 
+
+
+lhe search lasted approximately two to three hours, Pet. 
+App. 3a, 59a,' and the officers discovered and seized a .22 
+caliber handgun with ammunition, baseball bats with gang 
+writing and other gang paraphernalia, and a quantity of 
+marijuana. Appellant's Excerpts of R. 95-96. After the 
+search was complete, respondent and the other occupants 
+were released. Pet. App. 3a, 59a. Other than the initial 
+handcuffing, respondent had no physical contact with the 
+officers. Appellant’s Excerpts of R. 161. 
+
+
+Respondent filed an action against petitioners under 42 
+U.S.C. § 1983, alleging that they violated her rights under the 
+Fourth and Fourteenth Amendments by, inter alia, “arresting 
+and detaining plaintiff Iris Mena for an unreasonable time and 
+in an unreasonable manner and without probable cause or 
+reasonable suspicion.” Appellant’s Excerpts of R. 3. 
+Petitioners and their co-defendants argued that they had 
+qualified immunity for any alleged wrongs, and filed a motion 
+for summary judgment on that ground. Pet App. 59a-60a. 
+The district court denied that motion and the Ninth Circuit 
+affirmed that denial. /d. at 59a-60a, 70a. At trial, a jury 
+found petitioners liable for violating respondent’s Fourth 
+Amendment right against unreasonable seizures. /d. at 50a- 
+
+
+j 
+
+
+' The officers who performed the search testified that the search lasted 
+no longer than two hours. Pet. App. 59a n.3; Appellant's Excerpts of R. 
+85, 96, 183. 
+
+
+: Respondent's initial complaint alleged multiple constitutional 
+violations by the City of Simi Valley and eighteen police officers, and was 
+filed along with co-plaintiff Jose Mena, respondent's father and the owner 
+of the house on 1363 Patricia Avenue. Appellant’s Excerpts of R. 1-8. As 
+9 result of the trial court’s dismissal of some of the plaintiffs’ claims and 
+the jury’s rejection of others, the only issues remaining are respondent's 
+claims against the petitioners. 
+
+
+sem ee 
+
+
+Ne eo 
+
+
+Joti 
+
+
+7 
+
+
+Sla. Petitioners filed a motion to alter or amend judgment 
+under Fed. R. Civ P. 59(e), which the trial court denied. /d. at 
+3Sa-36a. 
+
+
+2. The Ninth Circuit upheld the trial court’s judgment on 
+two independent grounds. First, the court concluded that the 
+officers’ detention of Mena violated the Fourth Amendment 
+because it was objectively unreasonable to detain Mena at 
+gun-point and to keep her in handcuffs during the course of 
+the search. Pet. App. 8a-10a. The Ninth Circuit opined that, 
+because Mena was not a “suspect,” “the police should not 
+have subjected her to any of the heightened security measures 
+police officers employ while detaining persons suspected of 
+being violent criminals.” /d. at 9a. The court held that, 
+because Mena was not a suspect, the police should not have 
+detained her at gun-point or “us[ed] handcuffs for an 
+extended period,” and instead “should have released her from 
+the handcuffs when it became clear that she posed no 
+immediate threat and did not resist arrest.” /d (footnote 
+omitted). The court further held that the officers were not 
+entitled to qualified immunity because Graham v. Connor, 
+490 U.S. 386, 395 (1989), and Franklin v. Foxworth, 31 F.3d 
+873, 876 (9th Cir. 1994), clearly established the right to be 
+free “from the type of search Mena allege[d].” Pet. App. 1 Sa. 
+
+
+Second, the panel held that the officers had violated Mena’s 
+clearly established constitutional rights “by inquiring 
+unnecessarily into her citizenship status.” Pet. App. 10a. The 
+panel reached this conclusion despite the fact that this basis 
+for liability was neither briefed by the parties nor presented to 
+the jury. See id at 27a & n.3, 34a n.2. Nevertheless, the 
+panel held that, because the officers did not have a reasonable 
+particularized suspicion that Mena was not a citizen, they 
+were forbidden to ask her any questions about it. /d. at 10a 
+The panel found that the officers’ questions were an 
+unreasonable seizure under the Fourth Amendment; it did not 
+consider the Fifth or Sixth Amendments in reaching its 
+conclusion. See id. at 14a. The panel concluded that the 
+
+
+8 
+
+
+officers were not entitled to qualified immunity in light of 
+United States v. Brignoni-Ponce’s requirement that officers 
+have reasonable suspicion in order to stop individuals to 
+investigate their immigration status. See 422 U.S. 873, 884 
+(1975); Pet. App. 14a. 
+
+
+3. Over the votes of seven dissenting judges, petitioners’ 
+suggestion for rehearing en banc was denied. Pet. App. 24a, 
+25a, 33a. The dissenting judges pointed out that the panel’s 
+conclusion that an officer's questions about citizenship 
+created a Fourth Amendment violation was a proposition that 
+directly conflicted with a decision of the Seventh Circuit and 
+that “[n]o reasonable police officer would have imagined . . . 
+was the law.” /d. at 26a (Kleinfeld, J., dissenting), id. at 33a 
+(Gould, J., dissenting). Furthermore, the dissenters argued 
+that the panel’s conclusion that the manner in which Mena 
+was detained violated the Fourth Amendment eviscerated the 
+rule, announced in Michigan v. Summers, 452 U.S. 692 
+(1981), that “*a warrant to search for contraband founded on 
+probable cause implicitly carries with it the limited authority 
+to detain the occupants of the premises while a proper search 
+is conducted.”” Pet. App. 30a (Kleinfeld, J., dissenting); see 
+also id. at 33a (Gould, J., dissenting). The dissenters 
+concluded that, 
+
+
+[flor their own safety and the safety of other occupants, 
+reasonable police officers cannot be held to know that it 
+violates the Constitution to detain for two or three hours 
+a woman fully dressed except for bare feet during a 
+lawful search of a house with many padlocked doors, 
+known to house a member of a gang involved in a drive- 
+by shooting. 
+
+
+Id. at 31a (Kleinfeld, J., dissenting); see also id. at 33a 
+(Gould, J. dissenting). 
+
+
+— 
+
+
+' 
+% 
+
+
+9 
+REASONS FOR GRANTING THE PETITION 
+
+
+This case presents two fundamental constitutional questions 
+that have divided the courts of appeals, are squarely posed by 
+the decision below and are therefore now ripe for resolution 
+by this Court. The first is whether the mere questioning of an 
+individual who has been lawfully seized can constitute an 
+additional, unreasonable seizure. The Ninth Circuit's 
+conclusion that an officer’s question to a constitutionally 
+seized individual can constitute a second “seizure” requiring 
+reasonable suspicion parallels the holdings of the Eighth, 
+Tenth, and Eleventh Circuits. These decisions are in 
+fundamental conflict with the conclusions of the Fourth, Fifth, 
+and Seventh Circuits that mere questioning by the police of a 
+lawfully detained individual cannot constitute a new 
+“seizure.” 
+
+
+1. This Court has reaffirmed repeatedly that “mere police 
+questioning does not constitute a seizure.” Florida v. Bostick, 
+501 U.S. 429, 434 (1991); INS v. Delgado, 466 U.S. 210, 216 
+(1984); Florida v. Royer, 460 U.S. 491, 497 (1983) (plurality 
+opinion); United States v. Mendenhall, 446 U.S. 544, 553-54 
+(1980) (plurality opinion). In particular, this Court has 
+recognized that “interrogation relating to one’s identity or a 
+request for identification by the police does not, by itself, 
+constitute a Fourth Amendment seizure.” Delgado, 466 U.S. 
+at 216. Law enforcement officers may ask questions of 
+individuals they approach in the street, on a bus, or at their 
+work, “even when .. . [they] have no basis for suspecting a 
+particular individual.” Bostick, 501 U.S. at 434-35; Delgado, 
+466 U.S. at 218. Such questioning does not implicate the 
+Fourth Amendment “[uJnless the circumstances of the 
+encounter are so intimidating as to demonstrate that a 
+reasonable person would have believed he was not free to 
+leave if he had not responded.” Delgado, 466 U.S. at 216. 
+
+
+Mendenhall, Royer, Delgado, and Bostick all dealt with 
+police questions of individuals who were not detained or 
+
+
+10 
+
+
+otherwise “seized” when the officers initiated questioning. 
+Bostick, 501 U.S. at 431-32: Delgado, 466 U.S. at 218: Royer, 
+460 U.S. at 493-95; Mendenhall, 446 U.S. at 548. This Court 
+has yet to consider whether the Fourth Amendment can be 
+violated by police questioning of individuals who have 
+already been seized, whether such seizure was pursuant to an 
+arrest, an investigative stop or, as in this case, a detention 
+during the execution of a search warrant. The courts of 
+appeal have split on this question. Some circuits have held 
+that police questioning of a lawfully seized individual does 
+not constitute a new seizure any more than police questioning 
+of a citizen on the street. Other circuits have held, as the 
+Ninth Circuit did in this case, that the Fourth Amendment 
+prohibits officers from asking questions of lawfully seized 
+individuals that they are free to ask of an individual on the 
+street. 
+
+
+The Ninth Circuit’s conclusion that petitioners needed 
+reasonable suspicion before they could inquire about a 
+lawfully detained individual’s citizenship echoes the 
+conclusions of three other circuits. The Eighth Circuit, the 
+Tenth Circuit, and the Eleventh Circuit have all held that 
+questions asked of a lawfully detained individual can 
+constitute an additional, and unreasonable seizure under the 
+Fourth Amendment unless the questions are based on 
+reasonable suspicion. See United States v. Holt, 264 F.3d 
+1215, 1229 (10th Cir. 2001) (en banc) (per curiam) (holding 
+that police questioning of a motorist during a traffic stop “on 
+matters unrelated to the purpose of the initial stop” could be 
+“so intrusive as to violate the Fourth Amendment”); United 
+States v. Pruitt, 174 F.3d 1215, 1221 (11th Cir. 1999) 
+(holding that officer violated Fourth Amendment by asking 
+“unrelated questions” of individual stopped for speeding); 
+United States v. Ramos, 42 F.3d 1160, 1163 (8th Cir. 1994) 
+(holding that officer making traffic stop is limited to asking 
+“questions reasonably related to the stop”). These courts have 
+drawn a distinction between questions that are “related” to the 
+
+
+| 
+| 
+| 
+
+
+purpose of the lawful detention and questions that are 
+“unrelated,” and have held that officers need reasonable 
+suspicion to expand the scope of questioning to “unrelated” 
+eveas. See United States v. Murillo, 255 F.3d 1169, 1175 (9th 
+Cir. 2001), cert. denied, 535 U.S. 948 (2002); Pruitt, 174 F.3d 
+at 1221; United States v. Jones, 44 F.3d 860, 872 (10th Cir. 
+1995); United States v. Barahona, 990 F.2d 412, 416 (8th Cir. 
+1993) (“For a detention to be reasonable, an officer's 
+questions must relate to the purpose of the stop. However, if 
+the responses of the detainee and the circumstances give rise 
+to suspicions unrelated to the traffic offense, an officer may 
+broaden his inquiry and satisfy those suspicions.”’) (citations 
+omitted). 
+
+
+The Fourth, Fifth and Seventh Circuits, on the other hand, 
+have rejected the claim that questions asked of a lawfully 
+detained individual can constitute a Fourth Amendment 
+violation. See United States v. Chacon, 330 F.3d 323, 328-29 
+(5th Cir. 2003); Martinez-Camargo v. INS, 282 F.3d 487, 493 
+(7th Cir. 2002); United States v. Childs, 277 F.3d 947, 949-50 
+(7th Cir.) (en banc), cert. denied, 537 U.S. 829 (2002); United 
+States v. Machuca-Barrera, 261 F.3d 425, 432 & n.21 (Sth 
+Cir. 2001); United States v. Jacobs, 173 F.3d 426 (4th Cir. 
+1999) (table) (per curiam), available at 1999 WL 96121, at 
+*2; United States v. Crain, 33 F.3d 480, 485 (Sth Cir. 1994); 
+United States v. Shabazz, 993 F.2d 431, 436-37 (Sth Cir. 
+1993). 
+
+
+The Seventh Circuit analyzed the issue of police 
+questioning of lawfully detained individuals in detail in its en 
+bane decision in Childs. In that case, an officer stopped a 
+driver for failing to wear a seat belt and asked him whether he 
+was carrying any marijuana, even though the officer had no 
+particularized reasonable suspicion of drug possession. The 
+Childs court found that the question about drugs did not 
+constitute a separate seizure, reasoning that “because 
+questions are neither searches nor seizures, police need not 
+demonstrate justification for each inquiry.” 277 F.3d at 949. 
+
+
+12 
+
+
+- 
+
+
+The court found support for its conclusion in this Court's 
+explicit treatment of police questioning of persons not in 
+formal custody and implicit acceptance, for Fourth 
+Amendment purposes, of police questioning of prisoners. See 
+id. at 950-51 (citing Bostick, 501 U.S. at 434, and Texas v. 
+Cobb, 532 U.S. 162 (2001)). From these decisions the Childs 
+court drew the logical conclusier that “[t]o say that questions 
+asked of free persons and questiors asked of prisoners are not 
+‘seizures’ but that questions asked of suspects under arrest 
+are seizures would have neither the text of the Constitution 
+behind it nor any logical basis under it.” /d. at 951. 
+
+
+The Fourth and Fifth Circuits have similarly “reject[ed] any 
+notion that a police officer's questioning, even on a subject 
+unrelated to the purpose of a lawful stop, is itself a Fourth 
+Amendment violation,” on the ground that “[mlere 
+questioning ... is neither a search nor a seizure.” Shabazz, 
+993 F.2d at 436; see Chacon, 330 F.3d at 328-29 (holding that 
+unrelated questions about drugs asked during immigration 
+inspection were not a seizure); Machuca-Barrera, 261 F.3d at 
+432 n.21 (“[D]etention, not questioning, implicates the Fourth 
+Amendment”); Jacobs, 1999 WL 96121, at *2 (“[Mlere 
+questioning by the police, even on a subject unrelated to the 
+purpose of the stop, is not itself a Fourth Amendment 
+violation.”); Crain, 33 F.3d at 485 (holding that unrelated 
+questioning during traffic stop was not a seizure). 
+
+
+The stark conflict between the decisions of the Fourth, 
+Fifth, and Seventh Circuits and those of the Eighth, Ninth, 
+Tenth, and Eleventh Circuits on whether the questioning of a 
+lawfully detained individual can violate the Fourth 
+Amendment is an issue of national importance to law 
+enforcement that is ripe for resolution by this Court. This 
+issue arises often and in a variety of contexts: from traffic 
+stops, see Childs, 277 F.3d at 949-51, to immigration 
+inspections, see Chacon, 330 F.3d at 328-29, to detentions 
+during the execution of search warrants. See Pet. App. 10a- 
+14a. The uncertainty in the Fourth Amendment's application 
+
+
+13 
+
+
+to these various contexts has a negative effect on officers 
+performance of their duties to investigate crime. 
+
+
+The Ninth Circuit’s determination that officers can be held 
+liable in damages for asking a question of a lawfully detained 
+individual has a particularly chilling effect. The boundary 
+between questions that are permissibly “related” to the basis 
+for a valid detention and those that are unconstitutionally 
+“unrelated” will often be unclear. Indeed, in this very case. 
+the officers were authorized to search for “‘evidence of street 
+gang membership”; they knew that members of the gang 
+who might reside at the premises were primarily illegal 
+immigrants; they found respondent at those premises; and 
+they were unsure of her connection to the gang. Pet. App. 
+57a, 27a, 33a; Appellants’ Excerpts of R. 93-94. In these 
+circumstances, it is far from obvious that respondent's 
+immigration status was completely unrelated to her detention. 
+In all events, officers forced to make difficult judgment calls 
+in the field should not face liability if a jury disagrees months 
+or years later with such on-the-spot decisions.’ Moreover, the 
+“relationship” test that the Eighth, Ninth, Tenth, and Eleventh 
+Circuits Circuits employ will inevitably spawn much 
+protracted litigation. For these reasons this Court should 
+resolve this uncertainty by granting the petition for certiorari. 
+
+
+2. The Ninth Circuit’s particular holding in the present 
+case that questions regarding immigration status may not be 
+posed to a lawfully detained individual without reasonable 
+suspicion directly conflicts with the Seventh Circuit's 
+decision in Martinez-Camargo. The Ninth Circuit held that 
+“the officers unduly invaded Mena’s privacy by inquiring 
+unnecessarily into her citizenship status. . . . [when] there was 
+
+
+* Indeed, given the on-the-spot nature of the inquiry, and the fact that 
+several other circuits have concluded that such inquiries do not implicate 
+the Fourth Amendment at all, the Ninth Circuit's determination that the 
+officers should have known their questioning was unconstitutional, and 
+thus are not entitled to qualified immunity, is plainly erroneous. 
+
+
+14 
+
+
+no reason evident in the record to be suspicious of her 
+citizenship status.” Pet. App. 10a. The Ninth Circuit 
+supported this conclusion with a dramatically expansive 
+reading of this Court’s decision in Brignoni-Ponce, 422 U.S. 
+at 878-84. In Brignoni-Ponce, this Court held that Border 
+Patrol officers must have reasonable suspicion _ that 
+individuals may be illegal aliens in order to stop individuals 
+for questioning. See id. at 884. The Ninth Circuit, however, 
+cited Brignoni-Ponce for the proposition that an officer must 
+have reasonable suspicion that an individual is not a citizen in 
+order “to interrogate that individual regarding his 
+citizenship,” and applied this proposition to find a Fourth 
+Amendment violation predicated on questions alone. Pet. 
+App. 10a (emphasis added). 
+
+
+In Martinez-Camargo, the Seventh Circuit rejected a claim 
+that an officer’s questions regarding alienage, which were 
+asked during a valid Terry stop, violated the Fourth 
+Amendment. See 282 F.3d at 493. The Seventh Circuit 
+found that the officers’ questions were “neither searches nor 
+seizures,” and concluded that the questions asked during the 
+stop “did not constitute a seizure independent and distinct 
+from the original investigatory stop.” /d. The direct conflict 
+between the Ninth Circuit and Seventh Circuit as to the 
+permissibility of officers’ asking detained individuals about 
+their immigration status compellingly supports a grant of 
+certiorari in this case. 
+
+
+3. The alternative ground for the Ninth Circuit's decision 
+presents a similarly significant constitutional issue. The court 
+below gave a particularly expansive interpretation of the 
+“unusual case” exception of Michigan v. Summers — an 
+interpretation that conflicts both with the intent of Summers 
+and with the decisions of other federal courts of appeal. 
+
+
+In Michigan v. Summers, this Court held that the Fourth 
+Amendment permits officers executing a search warrant to 
+detain occupants of a residence during the course of the 
+search. See 452 U.S. at 704-05. The Court held that the 
+
+
+el bP. ae) le tein te Pee ame eb wn 
+
+
+piditine tuathiceli a 
+
+
+2, 
+
+
+15 
+
+
+detention of an occupant during a search could be justified by 
+several law enforcement interests, including “preventing 
+flight in the event that incriminating evidence is found,” 
+“minimizing the risk of harm to the officers,” and facilitating 
+“the orderly completion of the search.” /d. at 702-03. The 
+Court recognized that “[t]he risk of harm to both the police 
+and the occupants is minimized if the officers routinely 
+exercise unquestioned command of the situation.” /d. The 
+court also noted that the very existence of a search warrant 
+“provides an objective justification for the detention,” for the 
+search warrant shows that a neutral magistrate has found 
+“probable cause to believe that someone in the home is 
+committing a crime.” /d. at 703. In light of this probable 
+cause determination, police have “an easily identifiable and 
+certain basis” for concluding that detention of a home’s 
+occupant is necessary — “[t]he connection of... [the] 
+occupant to that home.” /d. at 703-04. 
+
+
+Summers thus held that “a warrant to search for contraband 
+founded on probable cause implicitly carries with it the 
+limited authority to detain the occupants of the premises while 
+a proper search is conducted.” /d. at 705 (emphasis added; 
+internal footnotes omitted). The Court noted that, “[a]lthough 
+special circumstances, or possibly a prolonged detention, 
+might lead to a different conclusion in an unusual case.” it 
+held that a “routine detention of residents of a house while it 
+[is] being searched for contraband pursuant to a valid warrant 
+is not such a case.” /d. at 705 n.21. The “unusual case” 
+posited by Summers therefore requires something more than a 
+mere “routine detention.” Indeed, with the exception of the 
+Ninth Circuit’s decision in this case, every other court of 
+appeals to consider the question has found “unusual cases” 
+only in truly egregious circumstances that were far removed 
+from the circumstances in this case. The Ninth Circuit has 
+therefore staked out a position that is irreconcilable with the 
+language of Summers and the decisions of other courts of 
+appeals. 
+
+
+16 
+
+
+The Ninth Circuit’s decision that respondent’s detention 
+was unreasonable rests upon a broad reading of the “unusual 
+case” exception. In almost every aspect, petitioners 
+conducted a routine search with a routine detention of the 
+occupants. They were investigating “a gang-related drive-by 
+shooting — clearly a serious crime,” Pet. App. 8a — in a 
+residence they reasonably thought was a gang safe house. 
+While zespondent was “not the subject of this investigation,” 
+id., the officers had no idea who she was or what her 
+relationship to the gang might be when they encountered her 
+padlocked door. Breaking that door down and pointing a 
+weapon at respondent when the officers first encountered her 
+was hardly unusual or egregious conduct under the 
+circumstances. To the contrary, it was plainly designed to 
+“prevent[] flight,” “minimiz[e] the risk of harm to the 
+officers,” and to convey the necessary “unquestioned 
+command of the situation.” Summers, 452 U.S. at 702-03. 
+
+
+Nor was it unusual to detain respondent in handcuffs in a 
+furnished room for two to three hours while the police 
+recovered a variety of weapons, drugs and gang paraphernalia 
+from the premises. The search itself required this amount of 
+time because the officers needed to search both the house and 
+the several vans and motorhomes on the property. See Pet. 
+App. 57a Moreover, the officers were searching for 
+weaponry that they reasonably thought had been used by 
+members of a violent street gang in a drive-by shooting — 
+facts that would lead the officers to conduct the search more 
+cautiously and thus more slowly. See id. During the time the 
+search was conducted, Mena was free to move about the 
+furnished room, she was given a jacket and shoes, and she did 
+not complain that the handcuffs were too tight. 
+
+
+Other courts of appeal have squarely contradicted the Ninth 
+Circuit’s conclusion that a detention of this nature constitutes 
+an “unusual case.” See Pikel v. Garrett, 55 Fed. Appx. 29, 32 
+(3d Cir. 2002); United States v. Fountain, 2 F.3d 656, 661-63 
+(6th Cir. 1993). In Pikel, the Third Circuit held that law 
+
+
+A weer 
+
+
+MBAR POD tre negli broek 
+
+
+17 
+
+
+enforcement officers who handcuffed employees during a 
+three and one half hour search of a business were entitled to 
+qualified immunity. 55 Fed. Appx. at 32. In Fountain, the 
+Sixth Circuit held that handcuffing and forcing occupants to 
+lie face down was not an “unusual case” under Summers in 
+light of legitimate law enforcement interests in preventing 
+flight and minimizing risk of harm. 2 F.3d at 663.' 
+
+
+Other courts of appeal have only found the “unusual case” 
+in extreme circumstances that involve something more than 
+detaining someone initially at gun-point then handcuffing 
+them for two to three hours. See Williams v. Kaufman 
+County, 352 F.3d 994, 1011 (Sth Cir. 2003) (holding that 
+three-hour detention during which plaintiffs were strip- 
+searched was unreasonable); Levito v. Lapina, 258 F.3d 156, 
+172-73 (3d Cir. 2001) (holding that eight-hour detention of 
+plaintiff during search was unreasonable). Jacobs v. City of 
+Chicago, 215 F.3d 758, 772 (7th Cir. 2000) (holding that 
+detention violated Fourth Amendment where search was 
+illegal and officers should have discovered mistake before 
+detaining plaintiff for three hours); Heitschmidt v. City of 
+Houston, 161 F.3d 834, 836 (Sth Cir. 1998) (holding that 
+detention of plaintiff in painfully tight handcuffs for over four 
+hours violated Fourth Amendment); Pecsi v. Doyle, 940 F.2d 
+661 (6th Cir. 1991) (table) (per curiam), available at 1991 
+WL 137597 (holding that detention violated Fourth 
+Amendment where officers held plaintiff for five to six hours 
+total and at gunpoint for two to three hours); see also 
+Franklin, 31 F.3d at 876-77 (holding that officers’ detention 
+of man who had advanced multiple sclerosis and who was 
+
+
+* See also Mitchell v. Unified Gov't, No. Civ. A. 00-2116-CM, 2000 
+WL 1920036, at *9 (D. Kan. Dec. 21, 2000) (finding that officers had 
+qualified immunity for two and one half hour handcuffed detention): 
+Crosby v. Hare, 932 F. Supp. 490, 492 (W.D.N.Y. 1996) (holding that 
+officers acted reasonably when they detained subjects for two hours 
+during search, during 90 minutes of which subjects were in handcuffs). 
+
+
+18 
+
+
+partially nude in handcuffs for over two hours violated Fourth 
+Amendment). 
+
+
+Indeed, the utter irreconcilability of the Ninth Circuit's 
+decision in the present case with the decisions of other 
+circuits was confirmed by the Ninth Circuit itself in Meredith 
+v. Erath, 342 F.3d 1057, 1063 (9th Cir. 2003). In Meredith 
+the Ninth Circuit confronted another claim of an unreasonable 
+detention in handcuffs during execution of a search warrant. 
+See id. at 1063. While the Ninth Circuit concluded that the 
+officer's use of handcuffs without justifiable circumstances 
+violated the Fourth Amendment, the court nevertheless held 
+that the officers had qualified immunity. See id. It reasoned 
+that “{a]t the time of the search, July 10, 1998, it was not 
+clearly established in this (or any other) circuit that simply 
+handcuffing a person and detaining her in handcuffs during a 
+search for evidence would violate her Fourth Amendment 
+rights.” Jd. (emphasis added). This recognition that no other 
+circuit had concluded that handcuffing could render a 
+detention incident to a valid search unreasonable confirms 
+that the Ninth Circuit’s decision in this case conflicts with the 
+decisions of other courts.” 
+
+
+That conflict is highlighted by the fact that the court found 
+that petitioners were not entitled to qualified immunity, and 
+thus that it was “clearly established” that detaining an 
+occupant at gun-point and handcuffing her for the two to three 
+hours required to search the premises satisfied Summers’ 
+“unusual case” exception. “The relevant, dispositive inquiry 
+in determining whether a right is clearly established is 
+whether it would be clear to a reasonable officer that his 
+conduct was unlawful in the situation he confronted.” 
+
+
+* Obviously, in the ordinary case, it is not the province of this Court to 
+resolve intra-circuit conflicts, but here seven judges of the en banc court 
+would have set aside the judgment. Thus, apart from the circuit conflict, 
+the issue presented here will be decided differently by different panels of 
+the Ninth Circuit. That kind of arbitrary outcome merely reinforces the 
+need for review by this Court. 
+
+
+a _ 
+
+
+19 
+
+
+Saucier v. Katz, 533 U.S. 194, 202 (2001). The Ninth 
+Circuit's conclusion that the unlawfulness of handcuffing 
+during a Summers detention was “apparent” only highlights 
+the deep conflict between its interpretation of the “unusual 
+case” exception and that of other circuits. See Hope v. 
+Pelzer, 536 U.S. 730, 739 (2002). Indeed, even when courts 
+from other circuits have found “unusual cases,” it is only in 
+the most egregious of cases that the courts have found that the 
+officers were not entitled to qualified immunity for their 
+actions. See Williams, 352 F.3d at 1011 (holding that 
+although three-hour detention during which plaintiffs were 
+Strip-searched was unreasonable, officer was entitled to 
+qualified immunity); Levito, 258 F.3d at 172-73 (holding that 
+although eight-hour detention of plaintiff during search was 
+unreasonable, agents were entitled to qualified immunity 
+
+
+because it was not clear that Summers barred such a 
+detention). 
+
+
+In sum, the Ninth Circuit has placed substantial obstacles in 
+the way of reasonable law enforcement efforts. Mere 
+questioning regarding a lawfully detained individual’s 
+immigration status is now a Fourth Amendment violation, and 
+effective detention during the entire duration of a lawful and 
+reasonable search is a clear violation of the Constitution. 
+These holdings are plainly harmful to efforts to keep the 
+peace and place officers in harm’s way. This is intolerable 
+and the Court should intervene now to decide these 
+fundamental issues. 
+
+
+20 
+
+
+CONCLUSION 
+
+
+For the foregoing reasons, the petition for a writ of 
+certiorari should be granted. 
+
+
+Respectfully submitted, 
+
+
+KAREN K. PEABODY CARTER G. PHILLIPS* 
+DAVID L. NYE JOSEPH R. GUERRA 
+
+NYE, PEABODY & STIRLING, LLP MATTHEW J. WARREN 
+
+33 West Mission street SIDLEY AUSTIN BROWN & 
+Suite 201 WOOD LLP 
+
+Santa Barbara, CA 93101 1501 K Street, NW 
+
+(805) 963-2345 Washington, DC 20005 
+
+
+(202) 736-8000 
+DAVID H. HIRSCH 
+City ATTORNEY 
+2929 Tapo Canyon Road 
+City of Simi Valley, CA 93063 
+(805) 583-6714 
+
+
+Counsel for Petitioners 
+April 13, 2004 * Counsel of Record 
+
+
+At eee ee ces Pewee 
+
+
+APPENDICES 
+
+
+¥ 
+- 
+~ 
+y: 
+a 
+& 
+> 
+
+
+la 
+APPENDIX A 
+
+
+UNITED STATES COURT OF APPEALS 
+NINTH CIRCUIT 
+
+
+No. 01-56673 
+
+
+IRIS MENA, 
+Plaintiff-Appellee, 
+and 
+
+
+JOSE E. MENA, 
+Plaintiff, 
+Vv. 
+
+
+CITY OF SIMI VALLEY; RANDY G. ADAMS; MARVIN HODGES; 
+Roy JONES; VINCENT ALLEGRA; ALAN MCCorD; RICHARD 
+THOMAS; RONALD CHAMBERS; WILLIAM LAPPIN; ARNOLD 
+BAYNARD; JEFFREY DOMINICK; JACK GREENBURG; 
+RICHARD LAMB; FRANK AHLVERS; JOHN ADAMCZYK; 
+TIM BROWN, 
+
+Defendants, 
+and 
+
+
+DARIN L. MUEHLER; ROBERT BRILL, 
+Defendants-Appellants. 
+
+
+Argued and Submitted Feb. 4, 2003 
+Filed June 23, 2003 
+
+
+Appeal from the United States District Court for the 
+Central District of California; A. Howard Matz, District 
+Judge, Presiding. D.C. No. CV-98-08512-AHM. 
+
+
+Before PREGERSON and REINHARDT, Circuit Judges, 
+and ARCHER,’ Senior Circuit Judge. 
+
+
+' The Honorable Glenn L. Archer, Jr., Senior Circuit Judge for the 
+United States Court of Appeals for the Federal Circuit, sitting by 
+designation. 
+
+
+2a 
+OPINION 
+
+
+PREGERSON, Circuit Judge. 
+
+
+Iris Mena brought this action in the district court under 42 
+U.S.C. § 1983, alleging that Robert Brill and Darin L. 
+Muehler, both City of Simi Valley police officers, used 
+excessive force and restrained her for an unreasonable period 
+of time during a search of her home. The officers appeal the 
+district court’s judgment entered on a jury verdict. They 
+argue that the district court erred in ruling that they are not 
+entitled to qualified immunity. Additionally, the officers 
+contend that they are entitled to a new trial on the unlawful 
+detention claim because the district court abused its discretion 
+(1) in denying the officers’ proposed instruction on unlawful 
+detention; (2) through its conduct during voir dire; and (3) 
+through its cross-examination of defense witnesses during 
+trial. The officers also argue that the award of punitive dam- 
+ages to Mena should be vacated as unsupported by substantial 
+evidence. We have jurisdiction to hear this appeal under 28 
+U.S.C. § 1291, and we affirm. 
+
+
+Facts and Procedural Background 
+
+
+Just before 7:00 a.m. on February 3, 1998, several officers 
+from the Simi Valley Police Department (SVPD) SWAT 
+team executed a valid search warrant at 1363 Patricia 
+Avenue. Brill and Muehler were directly responsible for 
+supervising the search. The police officers searched the 
+residence as part of their investigation of a gang-related 
+drive-by shooting. The officers believed that Raymond 
+Romero, the officers’ primary suspect, was residing in the 
+house, a single-family dwelling housing many unrelated 
+residents. Iris Mena was a resident in the house, which was 
+owned by her father, Jose Mena. The police officers forcibly 
+entered the residence and observed that some of the rooms 
+were locked, many with padlocks on the outsides of the 
+doors. The officers proceeded to force entry into these locked 
+
+
+2 aA ee la A er Sill RS A A ARRAN ee BE MAKE RS PDR RE OE ID rtd SAE tO 
+
+
+3a 
+
+
+rooms, including the bedroom in which Mena was sleeping. 
+The officers, wearing SWAT team paraphernalia, found 
+Mena in bed, and, pointing a submachine gun at her head, 
+turned her over onto her stomach and handcuffed her. After 
+searching her person and her room, the officers led Meru— 
+barefoot and still wearing her pajamas—outside through the 
+rain to a cold garage. Although she was absolutely com- 
+pliant, the officers detained Mena in handcuffs for ap- 
+proximately two to three hours. While the police officers 
+held Mena in the garage, the officers did not explain to her 
+the reason she was being detained. During her detention, an 
+immigration officer who had joined the police on the search 
+asked Mena questions concerning her citizenship status. 
+Upon learning from Mena that her citizenship documentation 
+was in her purse, a police officer searched her purse without 
+her consent. The police officers did not release Mena from 
+the handcuffs until after they completed the search of the 
+premises, at which time they finally informed her why she 
+had been detained. 
+
+
+On October 19, 1998, Mena brought an action under 42 
+U.S.C. § 1983, alleging that the police officers violated her 
+civil rights in connection with the February 3, 1998, search of 
+her home. Specifically, she contended that (1) the search 
+warrant and search were overbroad; (2) the officers detained 
+Mena unlawfully; (3) the officers detained her in an 
+unreasonable manner; and (4) the officers failed to comply 
+with the “knock and announce” rule before entering the 
+house. The defendants moved for summary judgment on the 
+ground that Mena’s constitutional rights were not violated, or, 
+alternatively, that the officers were entitled to qualified 
+immunity. On August 10, 1999, the district court issued an 
+order denying summary judgment, holding that because “a 
+reasonable trier of fact could conclude that the warrant and/or 
+its execution was ‘overbroad’” and “a reasonable trier of fact 
+could conclude that Iris Mena’s detention was unreasonable,” 
+defendants were not entitled to qualified immunity as a matter 
+
+
+4a 
+
+
+of law. The officers appealed, and we affirmed, except as to 
+the claim that the warrant was overbroad on its face. See 
+Mena v. City of Simi Valley, 226 F.3d 1031 (9th Cir.2000) 
+(Mena ). On that claim, we reversed and remanded for the 
+entry of summary judgment in favor of the appellants. /d. at 
+1037-38. 
+
+
+On June 12, 2001, trial began on Mena’s Fourth Amend- 
+ment claims. On June 21, 2001, the trial concluded and the 
+jury returned a verdict finding that Muehler and Brill violated 
+Mena’s Fourth Amendment right to be free from unrea- 
+sonable seizure by detaining her with unreasonably excessive 
+force and for a longer period than was reasonable. The jury 
+found Muehler and Brill each liable to Mena in the amount of 
+$10,000 in compensatory damages and $20,000 in punitive 
+damages. On July 11, 2001, the district court entered judg- 
+ment against Muehler and Brill. 
+
+
+ing trial, the Supreme Court decided Saucier v. Kaiz, 
+ace 194, 121 S.Ct 2151, 150 L.Ed.2d 272 (2001), in 
+which the Court clarified the proper approach to evaluating 
+claims of qualified immunity. On July 25, 2001, the 
+defendants filed a motion to alter or amend the judgment 
+under Fed.R.Civ.P. 59(e) based on a purported intervening 
+change in qualified immunity law; for a new trial under 
+Fed.R.Civ.P. 59(a) on the ground that the district court's jury 
+instruction on unlawful detention was legally erroneous, and 
+for judgment as a matter of law under Fed.R.Civ.P. 50(b) 
+based on an asserted lack of evidence to substantiate the 
+jury’s punitive damages award. The district court denied that 
+
+
+motion, and the officers now appeal. 
+
+
+CO EO Uh. Re en OR AO I ce 
+
+
+ee eee TY 
+
+
+5a 
+
+
+Discussion 
+I. Qualified Immunity 
+
+
+Muehler and Brill argue that they should be shielded from 
+liability to Mena under the doctrine of qualified immunity.’ 
+“Qualified immunity is an entitlement not to stand trial or 
+face the other burdens of litigation.” Saucier, 533 U.S. at 
+200, 121 S.Ct. 2151; Mitchell v. Forsyth, 472 U.S. 511, 526, 
+105 S.Ct. 2806, 86 L.Ed.2d 411 (1985). The central interest 
+that underlies the doctrine of qualified immunity is that 
+“officials can act without fear of harassing litigation only if 
+they reasonably can anticipate when their conduct may give 
+rise to liability for damages and only if unjustified lawsuits 
+are quickly terminated.” Davis v. Scherer, 468 U.S. 183, 195, 
+104 S.Ct. 3012, 82 L.Ed.2d 139 (1984). Although this court 
+has already affirmed the district court’s pre-trial determi- 
+nation that the officers were not entitled to qualified 
+immunity with respect to the claim of unlawful detention, 
+inter alia, Mena I, 226 F.3d at 1039-41, the officers argue 
+that Saucier effected an intervening change in the law suf- 
+ficient to amend our earlier decision and dismiss the exces- 
+sive force claims based on qualified immunity. 
+
+
+Under Saucier, the first step in determining whether an 
+official is entitled to qualified immunity is to consider 
+whether the facts alleged, viewed in the light most favorable 
+to the party asserting the injury, show that the official’s 
+conduct violated a constitutional right. Saucier, 533 U.S. at 
+200-01, 121 S.Ct. 2151; accord Robinson v. Solano County, 
+278 F.3d 1007, 1012 (9th Cir.2002) (en banc). Assuming a 
+constitutional violation could be established on a favorable 
+view of the plaintiff's submissions, “the next, sequential step 
+
+
+* We review de novo a district court’s decision regarding qualified im- 
+munity. Elder v. Holloway, 510 U.S. 510, 516, 114 S.Ct. 1019, 127 
+L.Ed.2d 344 (1994): Robinson v. Prunty, 249 F.3d 862, 865-66 (9th 
+Cir.2001). 
+
+
+6a 
+
+
+is to ask whether the right was clearly established.” Saucier, 
+533 US. at 201, 121 S.Ct. 2151. “The relevant, dispositive 
+inquiry in determining whether a right is clearly established is 
+whether it would be clear to a reasonable officer that his 
+conduct was unlawful in the situation he confronted.” /d. at 
+202, 121 S.Ct. 2151. But “{t]his is not to say that an official 
+
+
+action is protected by qualified immunity unless the very - 
+
+
+action in question has previously been held unlawful.” 
+Anderson v. Creighton, 483 U.S. 635, 640, 107 S.Ct. 3034, 97 
+L.Ed.2d 523 (1987). “[O]fficials can still be on notice that 
+their conduct violates established law even in novel factual 
+circumstances.” Hope v. Pelzer, 536 U.S. 730, 741, 122 S.Ct. 
+2508, 153 L.Ed.2d 666 (2002). Because law as to what is 
+considered reasonable develops over time, courts must 
+determine whether the law was clearly established at the time 
+of the alleged constitutional violation. Robinson, 278 F.3d at 
+1013 (noting that “the law at that time must be our guide”). 
+
+
+A. Whether Mena Asserts a Violation of a Constitutional 
+Right 
+
+
+To evaluate the officers’ claim that they are entitled to 
+qualified immunity, we first accept the facts as Mena alleges 
+them and determine whether those facts point to a con- 
+stitutional violation. According to Mena, at least eighteen 
+members of the Simi Valley Police Department (SVPD) 
+SWAT team forcibly gained entry into her home just after 
+dawn on February 3, 1998. Awakened abruptly by a loud 
+noise, Mena opened her eyes to find “a person dressed in 
+black pointing a gun with a light on top” at her face. Mena, 
+especially startled in her sleepy haze, assumed that the 
+individual wearing dark clothes and a balaclava’ and pointing 
+an MP-5 submachine gun at her head had come in “to rob and 
+
+
+> A sophisticated type of ski mask, a balaclava conceals the features 
+of the face during a SWAT raid. The SWAT officers also wore helmets 
+
+
+and goggles. 
+
+
+Oe eee ee — 
+
+
+A NR? Ra Oe on ee ele ee ~ 
+
+
+a ass eth tetra coonte te nathdy inset 
+
+
+Ta 
+
+
+kill” her. Mena emphasizes that throughout this initial en- 
+counter no person identified himself as a police officer. Not 
+until an officer pushed Mena onto her bed, face down, and 
+placed handcuffs on her was she able to infer that these were 
+police officers, because she assumed that police officers are 
+“the only persons that put handcuffs on people.” The officers 
+searched Mena and her room, yanked her up from her bed by 
+her shirt, and led her out of her room in her pajamas. 
+Although it was raining outside and Mena was barefoot, the 
+officers directed her outside and into a cold garage, where she 
+was detained for two to three hours. 
+
+
+/ During her detention, an officer questioned Mena about her 
+citizenship status. Following that, an INS agent who accom- 
+panied the SVPD on the search asked her more specific 
+questions about her immigration status. Although Mena was 
+a legal resident of this country at the time, the INS agent 
+asked her where her immigration documentation was, and 
+upon learning that the papers were in her purse, a police 
+officer proceeded to search it without her consent. The police 
+officer then turned the papers over to the INS agent, who 
+subsequently inspected them. 
+
+
+On these facts, there is no doubt that Mena has alleged a 
+violation of her constitutional rights under the Fourth 
+Amendment. The Fourth Amendment protects citizens from 
+unreasonable government seizures. U.S. Const. amends. IV 
+XIV; Camara v. Municipal Ct., 387 U.S. 523, 528, 87 S.Ct 
+1727, 18 L.Ed.2d 930 (1967). To succeed on a claim of 
+unreasonable search or seizure under the Fourth Amendment, 
+a plaintiff must show (1) the existence of a search or seizure 
+and (2) that the search or seizure was unreasonable or 
+conducted in an unreasonable manner. U.S. Const. amend 
+IV. There is no dispute that Mena’s detention was a seizure. 
+We therefore must consider—based on the evidence most 
+favorable to Mena—whether her detention was reasonable. 
+
+
+8a 
+
+
+To evaluate claims of unreasonable seizures and detentions 
+in the course of an arrest, investigatory stop, and other 
+seizures of an individual, we apply the “objective reason- 
+ableness” standard the Supreme Court adopted in Graham v. 
+Connor, 490 U.S. 386, 395, 109 S.Ct. 1865, 104 L.Ed.2d 443 
+(1989). In addition to weighing factors “including the 
+severity of the crime, whether the suspect poses an immediate 
+threat to the safety of the officers or others, and whether [the 
+suspect] is actively resisting arrest or attempting to evade 
+arrest by flight,” id. at 396, 109 S.Ct. 1865, a court must 
+consider whether a detention during a search “is unnec- 
+essarily painful, degrading, or prolonged, or if it involves an 
+undue invasion of privacy.” Franklin v. Foxworth, 31 F.3d 
+873, 876 (9th Cir.1994).* In evaluating whether an officer’s 
+conduct is reasonable, we pay “careful attention to the facts 
+and circumstances of each particular case,” Graham, 490 U.S. 
+at 398, 109 S.Ct. 1865, and analyze the facts and cir- 
+cumstances of the search or seizure “in their totality,” 
+Franklin, 31 F.3d at 876. 
+
+
+In this case, the officers were investigating a gang-related 
+drive-by shooting—clearly a serious crime. They were 
+authorized under a warrant to search the Mena home and 
+seize property in relation to their investigation of Raymond 
+Romero, the officers’ primary suspect. Mena, however, was 
+not the subject of this investigation.” Moreover, it was clear 
+
+
+* Although the standard under which individuals may assert qualified 
+immunity also bears a reasonableness component, the Supreme Court 
+in Saucier directs us to consider excessive force claims and assertions 
+of qualified immunity separately. Saucier, 533 U.S. at 204-06, 121 
+S.Ct. 2151. 
+
+> In Franklin, we distinguished between (1) persons who are arrested, 
+who “are ordinarily suspected of having committed serious, often violent, 
+offenses,” and (2) persons who are incidentally detained during a search 
+of a residence, who “may simply be visiting a home or business for an 
+innocuous if not benevolent purpose.” 31 F.3d at 876. Although Mena 
+was a resident of the house and not a visitor, she plainly falls into the 
+latter category. 
+
+
+Fk ae eNO a lt le ne RO RM en ee ee ee ee ee nee Pee ae | 
+
+
+0 dpa me 
+
+
+Ot Ne BARS I Nn a OE Mt rr we Se be er Ai w 
+
+
+reed 
+
+
+9a 
+
+
+that Mena posed no “immediate threat to the safety of the 
+officers or others.” See Graham, 490 U.S. at 398, 109 S.Ct. 
+1865. Nor did she actively resist arrest or attempt to flee. 
+See id. Mena had been asleep in her pajamas when the police 
+entered her room. She was unarmed, docile, and cooperative 
+In every respect. 
+
+
+Yet, although searches of Mena’s person and room pro- 
+duced no evidence of gang membership or contraband and 
+eighteen well-armed SWAT team officers secured the house 
+in a matter of minutes, the officers handcuffed Mena and kept 
+her in handcuffs for two to three hours. By any standard of 
+reasonableness, in light of the fact that Mena was not a 
+suspect in the crime, the officers should have released her 
+from the handcuffs when it became clear that she posed no 
+immediate threat® and did not resist arrest—much less resist 
+arrest “actively.”’ Moreover, because Mena was not a 
+suspect, the police should not have subjected her to any of the 
+heightened security measures police officers employ while 
+detaining persons suspected of being violent criminals—such 
+as physical roughness, threatening deadly force, and using 
+handcuffs for an extended period. Although we recognize 
+that police officers are expected “to make split-second 
+judgments” in “difficult and tense”® situations, it strains 
+reason to justify the necessity—in these factual circum- 
+stances—of pointing a machine gun at Mena’s face, roughly 
+
+
+‘ Indeed, both a SWAT commander and one of the defense’s expert 
+witnesses testified that non-suspect detainees who pose no threat to police 
+officers or others should be released from handcuffs. 
+
+
+” See Graham, 490 U.S. at 396, 109 S.Ct. 1865 (directing courts to 
+consider, inter alia, whether a suspect “actively resist[s] arrest”); see also 
+Franklin, 3\ F.3d at 877 (finding that continuing to hold a detainee in 
+handcuffs after a residence has been secured when there were sufficient 
+officers present to maintain security was unreasonable). 
+
+
+* See Graham, 490-U.S. at 396-97, 109 S.Ct. 1865. 
+* See Liston v. County of Riverside, 120 F.3d 965, 977 (9th Cir.1997). 
+
+
+10a 
+
+
+jerking her off of her bed, marching her barefoot through the 
+rain into a cold garage, and keeping her in handcuffs for 
+several hours. We thus have no trouble in concluding that her 
+detention was objectively unreasonable and “unnecessarily 
+.. . degrading [and] prolonged.” Franklin, 31 F.3d at 876." 
+Thus, Mena has asserted a viclation of a constitutional right. 
+
+
+Furthermore, we note with particular emphasis that the 
+officers unduly invaded Mena’s privacy by inquiring unnec- 
+essarily into her citizenship status. The officers did so 
+presumably because of Mena’s apparent Hispanic/Latino 
+ethnicity, because there was no reason evident in the record 
+to be suspicious of her citizenship status. On these facts 
+alone, we observe that Mena has alleged a violation of a 
+constitutional right. 
+
+
+We recognize that Congress has conferred INS agents 
+limited authority to interrogate those who are or are believed 
+to be undocumented immigrants.'' But this power may not 
+exceed the restraints on governmental intrusion the Fourth 
+Amendment guarantees. See United States v. Brignoni-Ponce, 
+422 U.S. 873, 878-84, 95 S.Ct. 2574, 45 L.Ed.2d 607 (1975); 
+Zepeda v. INS, 753 F.2d 719, 726-27 (9th Cir.1983). Thus, 
+an INS agent must have a particularized reasonable suspicion 
+that an individual is not a citizen to interrogate that individual 
+regarding his citizenship. Brignoni-Ponce, 422 U.S. at 884, 
+95 S.Ct. 2574 (holding that the Fourth Amendment “forbids 
+
+
+‘° The officers attempt to distinguish Franklin from the facts of this 
+case by emphasizing that Curry (the plaintiff in Franklin) was sickly and 
+Mena was not. But we clearly stated in Franklin that an individual’s frail 
+health raised “additional concerns” in the overall reasonableness analysis. 
+See Franklin, 31 F.3d at 876 (listing “additional” concerns—such as 
+detentions of the elderly, children, or individuals “suffering from a serious 
+illness or disability’—beyond whether a search “is unnecessarily painful, 
+degrading, or prolonged, or if it involves an undue invasion of privacy”). 
+
+
+' 8 U.S.C. § 1357(a)(1). 
+
+
+ll lt ape Men 
+
+
+ee eee re 
+
+
+ee ee ee ee ee ee es 
+
+
+lla 
+
+
+stopping or detaining persons for questioning about their 
+
+
+citizenship on less than a reasonable suspicion that they may 
+be aliens”). 
+
+
+In Brignoni-Ponce, the Supreme Court affirmed a judg- 
+ment of this court, and held that the U.S. Border Patrol policy 
+of allowing its agents to stop vehicles in the border area 
+without any reason to suspect illegal activity was unrea- 
+sonable under the Fourth Amendment. /d. In that case, two 
+Border Patrol officers stopped Brignoni Ponce’s vehicle and 
+questioned him and his two passengers. The Supreme Court 
+noted that “the officers relied on a single factor to justify 
+stopping [Brignoni-Ponce’s] car: the apparent Mexican 
+ancestry of the occupants.” /d. at 885-86, 95 S.Ct. 2574. The 
+Court held that Hispanic/Latino appearance alone “would 
+justify neither a reasonable belief that they were aliens, nor a 
+reasonable belief that the car concealed other aliens who were 
+illegally in the country.” Thus, while the Court observed that 
+“[t]he likelihood that any given person of Mexican ancestry is 
+an alien is high enough to make Mexican appearance a 
+relevant factor,” it held that Mexican appearance alone cannot 
+justify stopping drivers who appear to be of Mexican descent 
+to inquire about their citizenship status. /d. at 887-88, 95 
+S.Ct. 2574. 
+
+
+In United States v. Montero-Camargo,'* we observed that 
+“in suggesting that ethnic appearance could be relevant” to an 
+immigration agent’s decision whether to detain and question 
+an individual regarding citizenship status, “the [Brignoni- 
+Ponce] Court relied heavily on now-outdated demographic 
+information.” 208 F.3d at 1132-35. Because demographics 
+had shifted dramatically in the twenty-five years between the 
+Brignoni-Ponce decision and our decision in Montero- 
+Camargo, we noted—citing revised data from the U.S. 
+
+
+'2 208 F.3d 1122 (9th Cir.2000) (en banc), cert. denied sub nom., 
+Sanchez-Guillen v. United States, 531 U.S. 889, 121 S.Ct. 211, 148 
+L.Ed.2d 148 (2000). 
+
+
+12a 
+
+
+Census Bureau—that the “statistical premises” on which the 
+Supreme Court based its dictum suggesting that ethnic 
+appearance may be a relevant factor “are no longer appli- 
+cable. The Hispanic population of this nation, and of 
+the Southwest and Far West in particular, has grown 
+enormously—at least five-fold in the four states referred to in 
+the Supreme Court’s decision.”'*? /d. at 1133. To reconcile 
+the shift in the ethnic makeup of the nation’s population 
+with the Fourth Amendment’s requirement of individualized 
+reasonable suspicion, we concluded that “[rJeasonable suspi- 
+cion requires particularized suspicion, and in an area in which 
+a large number of people share a specific characteristic, that 
+characteristic casts too wide a net to play any part in a 
+particularized reasonable suspicion determination.” /d. at 
+1134-35 (footnotes omitted and emphasis in original). '* 
+Thus, we held that immigration officials may not use 
+Hispanic/Latino appearance as a factor in determining 
+whether a particularized reasonable suspicion exists to justify 
+stopping and questioning an _ individual regarding his 
+citizenship. 
+
+
+'} The Brignoni-Ponce Court cited information from the 1970 Census 
+and INS alien registration statistics for the States of California, New 
+Mexico, Texas, and Arizona. See Brignoni Ponce, 422 U.S. at 886 n. 12, 
+95 S.Ct. 2574. 
+
+'4 See also Montero-Camargo, 208 F.3d. at 1134 n. 21 & n. 22 (noting 
+that the holding in that case did not “preclude the use of racial or ethnic 
+appearance as one factor relevant to reasonable suspicion or probable 
+cause when a particular suspect has been identified as having a specific 
+racial or ethnic appearance [but such an individual] may not be stopped 
+and questioned because of appearance, unless there are other individ- 
+ualized or particularized factors which, together with the racial or ethnic 
+appearance identified, rise to the level of reasonable suspicion or prob- 
+
+
+able cause”’). 
+
+
+l3a 
+
+
+In this case, both the police officer'® and the INS agent 
+questioned Mena about her immigration status, presumably 
+based on nothing more than her name or ethnic appearance. 
+
+
+xi Aside from the conspicuous lack of a particularized reasonable 
+suspicion, it is doubtful that the police officer had any authority to 
+question Mena regarding her citizenship. Agents of the INS have limited 
+authority to question and detain an individual suspected of being an illegal 
+alien, so long as they have a particularized reasonable suspicion that the 
+individual is in fact an illegal alien. 8 U.S.C. § 1357(a). But the basis for a 
+local police officer to assert such authority is questionable. 
+
+
+Under 8 U.S.C. § 1357(g), the INS may enter into an agreement with a 
+local law enforcement agency under which local law enforcement officers 
+are = limited wae to investigate, apprehend, or detain undoc- 
+umented immigrants. Such agreements are subject to man uirements. 
+See 8 U.S.C. § 1357(g)(1-10). It is not clear from the saudades the 
+Simi Valley Police Department has entered into such an arrangement. If 
+they have not, the officer who questioned Mena regarding her citizenship 
+improperly assumed such authority. Because the record does not account 
+for the lack or existence of an agreement under 8 U.S.C. § 1357(g) and in 
+any event, as we will explain, the officer violated Mena’s Fourth 
+Amendment rights by questioning her citizenship status, we do not ex- 
+press a judgment as to whether the officer was properly vested with the 
+authority to question and detain individuals properly suspected of being 
+undocumented immigrants. 
+
+
+Another law affords local law enforcement officials limited authority 
+to detain and question individuals regarding their immigration status. 
+Subject to the Fourth Amendment, under 8 U.S.C. § 1252c(a), a state or 
+local law enforcement official may arrest and detain an individual if (1) he 
+is illegally present in the United States; (2) he has previously been 
+convicted of a felony in the United States and since left the country or was 
+deported; (3) the state or local law enforcement official obtains “appro- 
+priate confirmation” from the INS of the immigration status of the 
+individual; and (4) the state or local law enforcement official only detains 
+the individual for as long as is reasonably required for the INS to assume 
+federal custody of the individual for the purposes of deportation or 
+removal. See 8 U.S.C. § 1252c(a); United States v. Vasquez-Alvarez, 176 
+F.3d 1294, 1296 (10th Cir.1999). But the police officer who questioned 
+Mena and searched her purse without her consent had no notion about her 
+citizenship status confirmed by the INS, nor did he have any knowledge 
+whether Mena had previously been convicted of a felony and deported. In 
+ee — ae no sane record, nor had she been deported. Accord- 
+ingly, the police officer could not hav the limi i 
+aioe talon. e asserted the limited authority 
+
+
+l4a 
+
+
+Although the officers did not confront Mena in the context of 
+a traffic stop, as the officers did in Brignoni-Ponce, the facts 
+of this case sit within the ambit of the Supreme Court’s 
+decision in that case. The officers simply did not have the 
+particularized reasonable suspicion the Fourth Amendment 
+requires to justify (1) questioning Mena regarding her 
+citizenship status or (2) searching her purse for immigration 
+documentation without her consent. Therefore, just on these 
+facts alone, we note that Mena alleges a Fourth Amendment 
+violation. In light of the circumstances surrounding her 
+detention generally, the officers’ questions and the search of 
+her purse certainly constituted an “undue invasion of 
+privacy.” See Franklin, 31 F.3d at 876. 
+
+
+Evaluating the facts most favorable to Mena “in their 
+totality,”'° we conclude that the manner in which she was 
+seized and detained was objectively unreasonable. Thus, 
+Mena’s allegations point to a violation of her rights under the 
+Fourth Amendment. Because Mena successfully alleges the 
+violation of a constitutional right, we now proceed to the next 
+step in the qualified immunity inquiry. 
+
+
+B. Whether Mena’s Right to be Free From the Type of 
+Seizure She Alleges Was Clearly Established 
+
+
+The Supreme Court in Saucier directed that if a con- 
+stitutional violation could be proved by accepting the facts 
+stated by the party asserting the injury, “the next, sequential 
+step is to ask whether the right was clearly established. 
+Saucier, 533 U.S. at 201, 121 S.Ct. 2151. Therefore, we must 
+determine whether the right to be free from the type of 
+seizure and detention Mena alleges was clearly established. 
+
+
+'© Franklin, 31 F.3d at 876. 
+
+
+'’ Whether federal rights asserted by a plaintiff were clearly established 
+at the time of the alleged violation is a question of law reviewed de novo. 
+See Mabe v. San Bernardino County, Dep't of Soc. Servs., 237 F.3d 1101, 
+1107 (9th Cir.2001). 
+
+
+15a 
+
+
+In doing so, a court must look to “whether it would be clear to 
+a reasonable officer that his conduct was unlawful in the 
+situation he confronted.” /d. at 202, 121 S.Ct. 2151. 
+
+
+For reasons stated above, we hold that the right to be 
+free from the type of search Mena alleges was clearly 
+established at the time of the search. The analysis used to 
+determine whether a plaintiff alleges a violation of a con- 
+stitutional right is instructive in determining whether that 
+right was clearly established.'® We again emphasize that “to 
+find that the law was clearly established . . . we need not find 
+a prior case with identical, or even ‘materially similar,’ facts. 
+Our task is to determine whether the preexisting law pro- 
+vided the defendants with ‘fair warning’ that their conduct 
+was unlawful.” Flores v. Morgan Hill Unified Sch. Dist., 324 
+F.3d 1130, 1136-37 (9th Cir.2003) (quoting Hope, 536 U.S. 
+at 741, 122 S.Ct. 2508) (citations omitted). Both Graham and 
+Franklin had been decided by February 3, 1998, so the 
+officers were on notice of their holdings. Although we 
+had not yet decided Montero-Camargo, Brignoni-Ponce’s 
+requirement of particularized reasonable suspicion for 
+purposes of inquiry into citizenship status had long been the 
+law. The law with respect to unreasonable seizures and 
+detentions was thus sufficiently developed that any rea- 
+sonable officer in 1998 would have known that the conduct 
+Mena suffered was unlawful. 
+
+
+Il. Judicial Interference 
+A. The Officers’ Jury Instruction Argument 
+
+
+The officers argue that they are entitled to a new trial on 
+the claim of unlawful detention because the district court 
+
+
+* See Saucier, 533 U.S. at 201-02, 121 S.Ct. 2151 (“In the course of 
+determining whether a constitutional right was violated on the premises 
+alleged, a court might find it necessary to set forth principles [that] will 
+become the basis for a holding that a right is clearly established.”); accord 
+Robinson, 278 F.3d at 1012-13 (quoting same from Saucier). 
+
+
+16a 
+
+
+abused its discretion by rejecting the officers’ proposed jury 
+instruction on that claim. The officers contend that the 
+instructions the district court formulated failed to recite the 
+relevant law and were prejudicial to the officers. In par- 
+ticular, the officers contend that the instructions were flawed 
+in the following ways: (1) the instructions did not establish 
+that the law allows police limited authority to detain 
+occupants of the premises while the police conduct a proper 
+search; (2) the instructions did not indicate that officers may 
+legally take certain actions to minimize the risk of harm 
+associated with a lawful search; (3) the instructions did not 
+emphasize that detention of residents during a lawful search 
+should generally be considered reasonable under the Fourth 
+Amendment, and that only in “special circumstances” should 
+detention be considered unreasonable; (4) the instructions 
+unfairly emphasized factors in the reasonableness analysis 
+that favored the plaintiff-appellee; and (5) the district court 
+improperly put a “time limit” on how long an officer may 
+lawfully detain an occupant of the premises being searched. 
+
+
+A court must formulate jury instructions so that they fairly 
+and sufficiently address the issues a case presents, accurately 
+state the law, and are not misleading. Duran v. City of 
+Maywood, 221 F.3d 1127, 1130 (9th Cir.2000). When a party 
+alleges error in the formulation of the instructions, we 
+consider the instructions as a whole and apply an abuse-of- 
+discretion standard to determine whether they are misleading 
+or inadequate. Guebara v. Allstate Ins. Co., 237 F.3d 987, 
+992 (9th Cir.2001). Moreover, an error in instructing the jury 
+in a civil case does not require reversal if it is harmless. See 
+Swinton v. Potomac Corp., 270 F.3d 794, 805 (9th Cir. 
+2001), cert. denied, 535 U.S. 1018, 122 S.Ct. 1609, 152 
+
+
+L.Ed.2d 623 (2002). 
+
+
+Without even considering the deferential standard we apply 
+to a district court’s formulation of jury instructions, we 
+
+
+17a 
+
+
+conclude that the appellants’ arguments plainly lack merit. 
+With respect to unlawful detention, the district court in- 
+structed as follows: 
+
+
+Generally, a police officer carrying out a search 
+authorized by a warrant may detain occupants of the 
+residence during the search, so long as the detention is 
+reasonable. In determining the reasonableness of a 
+detention conducted in connection with a search you 
+may look to all the circumstances, including the severity 
+of the suspected crime, whether the person being 
+detained is the subject of the investigation, whether such 
+Person poses an immediate threat to the security of the 
+police or others or to the ability of the police to conduct 
+the search, and whether such person is actively resisting 
+arrest or attempting to flee. A detention may be unrea- 
+sonable if it [is] unnecessarily painful, degrading 
+
+prolonged or if it involves an undue invasion of privacy. 
+A police officer is required to release an individual 
+detained in [connection] with a lawful search as soon as 
+the officers’ right to conduct the search ends or the 
+search itself is concluded, whichever is sooner. 
+
+
+The very first sentence of the relevant instructions negates 
+the appellants’ first contention; the instructions plainly do 
+inform the jury that “a police officer carrying out a search 
+authorized by a warrant may detain occupants of the 
+residence during the search, so long as the detention is 
+reasonable.” The second purported flaw the appellants cite is 
+the failure to instruct the jury that police officers may take 
+actions to minimize the risk of harm during a lawful search 
+However, the district court in instructing the jury clearly 
+pointed out that the reasonableness of a detention is directly 
+related to the threat that the suspect poses to “the security of 
+the police . . . or to the ability of the police to conduct the 
+search.” The third purported flaw appellants proffer is that 
+the district court’s instructions did not indicate “that deten- 
+
+
+18a 
+
+
+tions of residents during the execution of a valid search 
+warrant should generally be considered reasonable under the 
+Fourth Amendment.” The first sentence of the relevant 
+instructions correctly characterizes the law: “Generally, a 
+police officer carrying out a search authorized by a warrant 
+may detain occupants of the residence during the search, so 
+long as the detention is reasonable.” Moreover, the district 
+court did not unfairly emphasize factors in the reasonableness 
+analysis that favored the plaintiff-appellee—the officers’ fifth 
+argument. The district court correctly invoked factors in the 
+reasonableness analysis as articulated in Graham, 490 U.S. at 
+396, 109 S.Ct. 1865, and Franklin, 31 F.3d at 876. As the 
+district court properly stated, those factors include: 
+
+
+the severity of the suspected crime, whether the person 
+being detained is the subject of the investigation, 
+whether such person poses an immediate threat to the 
+security of the police or others . . . and whether such 
+person is actively resisting arrest... . A detention may 
+be unreasonable if it is unnecessarily painful, degrading, 
+prolonged, or if it involves an undue invasion of privacy. 
+
+
+The officers contend, finally, that the district court improperly 
+placed a “time limit” on how long an officer may lawfully 
+detain an occupant of the premises being searched. But the 
+district court correctly noted that a search carries with it only 
+the “limited authority to detain occupants of the premises 
+while a proper search is conducted.” Michigan v. Summers, 
+452 U.S. 692, 705, 101 S.Ct. 2587, 69 L.Ed.2d 340 (1981) 
+(emphasis added). As the disirict court noted in its order 
+denying reconsideration, “(t]he instruction merely makes 
+clear that that authority does not persist once the search ends 
+or becomes improper.” Thus, we reject the officers’ final 
+argument regarding the district court’s jury instructions on the 
+claim of unlawful detention. 
+
+
+19a 
+
+
+The district court’s instructions fairly and adequately 
+addressed the pertinent issues this case presented and they 
+were not misleading. Because the district court did not abuse 
+its discretion in formulating these jury instructions, we reject 
+the officers’ argument and affirm the district court’s judgment 
+with respect to its jury instructions on unlawful detention. 
+
+
+B. Voir dire and Cross-examination 
+
+
+The officers further contend that the district court abused 
+its discretion in conducting the voir dire and cross-examining 
+defense witnesses. This contention is unfounded. The district 
+court has broad discretion over how it conducts voir dire and 
+how it supervises trials. Paine v. City of Lompoc, 160 F.3d 
+562, 564-65 (9th Cir.1998). We review both the manner in 
+which a district court conducts voir dire and supervises a trial 
+
+
+for an abuse of discretion. See Price v. K 
+1237 (9th Cir.2000). pogenngeanetyicn 
+
+
+_The officers argue that the district court conducted voir 
+dire in a way that appeared partial to the plaintiff-appellees 
+although they do not substantiate this claim. With no 
+supporting evidence in the record, the officers contend that 
+the court’s questions were fraught with bias. We disagree. 
+At voir dire, the district court has an obligation to “test the 
+jury for bias or partiality.” Monroe, 248 F.3d at 856 (9th 
+Cir.2001). In this case, the district court did nothing more 
+than ask questions of potential jurors concerning their ability 
+to render a fair judgment. In fact, the court appeared 
+particularly concemed with assembling a jury with no beliefs 
+favoring or prejudicial to law enforcement officers: 
+
+
+“Do any of you have any feelings about law enforcement 
+officers that would influence you either in favor of them 
+or against them? ... Would any of you have any 
+difficulty after you listen to the evidence, all of the 
+evidence that both sides introduce, in trying to figure out 
+
+
+20a 
+
+
+what you would think is reasonable conduct if [the 
+judge] gave you some general instructions about how to 
+define the term reasonable[?]” 
+
+
+Thus, we reject the claim that the district court abused its 
+discretion at voir dire as baseless. 
+
+
+The officers also argue that the district court's cross- 
+examination of defense witnesses appeared partial and 
+influenced the jury. It is entirely proper for judges “to 
+participate in the examination of witnesses for the purpose of 
+clarifying the evidence, confining counsel to evidentiary 
+rulings, controlling the orderly presentation of te evidence, 
+and preventing undue repetition of testimony. Price, 200 
+F.3d at 1253 (quoting United States v. Mostella, 802 F.2d 
+358, 361 (9th Cir.1986)). We have held that: 
+
+
+[a] trial judge’s participation oversteps the bounds os 
+propriety and deprives the parties of a fair trial only 
+when ‘the record discloses actual bias .. . or leaves the 
+reviewing court with an abiding impression that the 
+judge’s remarks and questioning of witnesses projected 
+to the jury an appearance of advocacy or partiality. 
+
+
+United States v. Parker, 241 F.3d 1114, 1119 (9th Cir.2001) 
+(quoting Mostella, 802 F.2d at 361). The officers cite no 
+specific example of conduct by which the district court may 
+have abused its discretion. Indeed, upon a review of the trial 
+record, the district court’s participation in the examination of 
+witnesses was at all times appropriate, and frequently resulted 
+in clarifying the evidence for both parties. By way of 
+example, the district court asked: 
+
+
+[U]nder what circumstances, if any, would a oe 
+conclude it was reasonable to remove the handcuffs? 
+
+
+Is it your practice, when you’re conducting investi- 
+
+
+gations about reputed gang members, to question people 
+only if you know something about them or know the 
+
+
+person to be questioned? 
+
+
+2la 
+
+
+And if [the police officers’] conduct in the field reflects 
+judgment that is poor, it’s your responsibility to dis- 
+cipline them, correct? 
+
+
+Moreover, the district court instructed the jury not to interpret 
+the court’s actions throughout the trial as indicating the 
+court’s opinion in the matter, and stressed that the verdict was 
+solely for the jury to consider. See Parker, 241 F.3d at 1119 
+(finding no error when nothing in the record indicated actual 
+bias and the court instructed the jury not to infer anything 
+based on development of facts by the judge). Because it 
+was well within the district court’s discretion to exam- 
+ine witnesses to clarify the evidence at trial, we deny 
+
+
+appellants’ request for a new trial based on improper judi- 
+cial interference. 
+
+
+III. Punitive Damages 
+
+
+The appellants finally appeal the award of punitive dam- 
+ages to plaintiff-appellee, contending that the award should 
+be vacated as unsupported by the evidence. While we review 
+an award of punitive damages for an abuse of discretion, we 
+review a challenge to the sufficiency of evidence to support 
+the award for substantial evidence. Fair Hous. of Marin v. 
+Combs, 285 F.3d 899, 906-07 (9th Cir.2002). A challenge to 
+a jury award of punitive damages must be rejected if there is 
+substantial evidence to support the award. Lambert vy. 
+Ackerley, 180 F.3d 997, 1012 (9th Cir.1999) (en banc). 
+Substantial evidence is “such relevant evidence as reasonable 
+minds might accept as adequate to support a conclusion even 
+if it is possible to draw two inconsistent conclusions from 
+
+
+the evidence.” Combs, 285 F.3d at 907 (quotations and 
+citations omitted). 
+
+
+A jury may assess punitive damages in an action under 42 
+U.S.C. § 1983 “when the defendant’s conduct is shown to be 
+motivated by evil motive or intent, or when it involves 
+reckless or callous indifference to the federally protected 
+
+
+22a 
+
+
+rights of others.” Smith v. Wade, 461 U.S. 30, 56, 103 S.Ct. 
+1625, 75 L.Ed.2d 632 (1983). There is evidence in the record 
+indicating that the officers had disdain for the house and its 
+residents. Additionally, record evidence suggests that the 
+officers recklessly disregarded Mena’s constitutional rights 
+under the Fourth Amendment. Therefore, because substantial 
+evidence exists to support the jury award of punitive damages 
+in this case, we reject the officers’ argument regarding the 
+punitive damages award." 
+
+
+Conclusion 
+
+
+The officers are not entitled to qualified immunity; the 
+district court did not abuse its discretion with respect to its 
+jury instructions, voir dire, and its cross-examination of 
+witnesses; and substantial evidence in the record supports the 
+award of punitive damages. Therefore, we AFFIRM the 
+judgment of the district court. 
+
+
+AFFIRMED. 
+
+
+'° The officers’ assertion that there was no evidence presented at trial 
+that either officer had any direct contact with Mena, even if proved, does 
+not insulate them from liability. Supervisory liability may be found in 
+civil rights actions even if the supervisors in question are not directly 
+involved in the acts leading to the constitutional deprivation. Redman v. 
+County of San Diego, 942 F.2d 1435, 1446 (9th Cir.1991) (en banc). 
+Because there is no dispute that the officers were directly responsible for 
+supervising the search, a jury could properly hold them liable. 
+
+
+23a 
+APPENDIX B 
+
+
+UNITED STATES COURT OF APPEALS 
+NINTH CIRCUIT 
+
+
+[Filed January 14, 2004] 
+
+
+No. 01-56673 
+D.C. No. CV-98-08512-AHM 
+
+
+IRIS MENA, 
+
+
+Plaintiff-Appellee, 
+and 
+
+
+JOSE E. MENA, 
+
+
+Plaintiff, 
+Vv. 
+
+CITY OF SIMI VALLEY; RANDY G. ADAMS; MARVIN HODGES: 
+ROY JONES; VINCENT ALLEGRA; ALAN McCorp; RICHARD 
+THOMAS; RONALD CHAMBERS; WILLIAM LAPPIN; ARNOLD 
+nto al JEFFREY DOMINICK; JACK GREENBURG: 
+
+ICHARD LAMB; FRANK AHLVERS: J ' 
+: ; JOHN ADAM : 
+TIM BROWN, ~— 
+
+
+Defendants, 
+and 
+
+
+DARIN L. MUEHLER; ROBERT BRILL, 
+Defendants-Appellants. 
+
+
+ORDER DENYING PETITION FOR REHE 
+ARING 
+AND SUGGESTION FOR REHEARING EN BANC 
+
+
+Before: PREGERSON, REINHARDT, and ARCHER, Jr.,' 
+Circuit Judges. —_ 
+
+
+1 
+The Honorable Glenn L. Archer, Jr., Senior Circuit Judge for the 
+
+
+United States Court of Appeals for th ircuit, sitti 
+cain ppe r the Federal Circuit, sitting by 
+
+
+24a 
+
+
+Order; 
+Dissent by Judge Kleinfeld; 
+Dissent by Judge Gould 
+
+
+ORDER 
+
+
+The panel has voted to deny the petition for rehearing and 
+the suggestion for rehearing en banc. 
+
+The full court was advised of the suggestion for rehearing 
+en banc. A judge requested a vote on whether to rehear the 
+matter en banc. The matter failed to receive a majority of the 
+votes of the non recused active judges in favor of en banc 
+
+
+consideration. Fed. R. App. P. 35. 
+The petition for rehearing and the suggestion for rehearing 
+en banc are denied. 
+
+
+25a 
+
+
+KLEINFELD, Circuit Judge, with whom Circuit Judges 
+KOZINSKI, O’SCANNLAIN, TALLMAN, BYBEE, and 
+CALLAHAN join, dissenting from denial of rehearing 
+en banc: 
+
+
+I respectfully dissent from the order denying rehearing 
+en banc. 
+
+
+This is a qualified immunity case, arising out of the deten- 
+tion of a person in a home <.at was searched pursuant to a 
+search warrant. The panel held that the police violated 
+clearly established law, as any reasonable officer would have 
+known, when they (1) detained a woman for two or three 
+hours in a garage apartment while a search warrant in a 
+shooting case was being executed in her house; and (2) asked 
+her during the detention whether she was a U.S. citizen. The 
+panel’s first holding is contrary to Supreme Court authority. 
+The second conflicts with a Seventh Circuit decision. Both 
+holdings unreasonably interfere with sensible law enforce- 
+ment and are unsupported by precedent. A reasonable police 
+officer would not have known that either holding was the law, 
+so the defendants were entitled to qualified immunity. 
+
+
+Iris Mena lived at her father’s home. It was a single-family 
+dwelling turned into a multi-family dwelling by taking in 
+tenants who put individual locks on their doors. The Simi 
+Valley police, with the help of the SWAT team, entered 
+Mena’s home to execute a search warrant. They were inves- 
+tigating a gang-related drive-by shooting. As part of that 
+search, Mena was pulled from her bed by an officer, hand- 
+cuffed, and led to her garage, where she was detained for the 
+duration of the search. She was dressed in a long-sleeved 
+shirt and sweat pants, but was barefoot for a while until an 
+officer brought her shoes and a jacket. During Mena’s 
+detention, a local police officer and an INS agent, whom the 
+Simi Valley police department had brought along because of 
+the gang’s significant illegal-alien membership, asked Mena 
+about her citizenship and immigration status, including 
+
+
+26a 
+
+
+whether she had her documentation. When she responded 
+that her papers were in her purse, the police officer took them 
+
+
+out of the purse. 
+
+
+I. Asking about citizenship. 
+
+
+The panel creates the extraordinary new proposition of law 
+that it is unconstitutional to ask a person detained for other 
+reasons about her citizenship, without reasonable suspicion. 
+After analyzing the reasonableness of her detention, the panel 
+wrote that the inquiry into citizenship by itself violated a 
+constitutional right, by unduly invading her privacy: 
+
+
+Furthermore, we note with particular emphasis that the 
+officers unduly invaded Mena’s privacy by inquiring 
+unnecessarily into her citizenship status. The officers did 
+so presumably because of Mena’s apparent Hispanic/ 
+Latino ethnicity, because there was no reason evident in 
+the record to be suspicious of her citizenship status. On 
+these facts alone, we observe that Mena has alleged a 
+violation oj a constitutional right.’ 
+
+
+No reasonable police officer would have imagined that this 
+was the law, and no police officer ought to be prevented from 
+asking about citizenship under these circumstances. 
+
+
+One is routinely and properly required to declare one’s citi- 
+zenship when driving back into Alaska from the Yukon 
+Territory, getting off a plane from London at JFK, filling out 
+the I-9 form that every employee is required to sign, and even 
+applying for a fishing license. Yet in the panel’s view, asking 
+Mena the same question “unduly invaded Mena’s privacy” in 
+violation of the United States Constitution.’ Far from know- 
+ing that this was clearly established law, the violation of 
+which would result in a loss of qualified immunity, a reason- 
+
+
+' Mena v. Muehler, 332 F.3d 1255, 1264 (9th Cir.2003) (emphasis 
+added). 
+
+
+Id. 
+
+
+27a 
+
+
+able police officer could not have imagined it. The panel 
+raised and resolved this issue sua sponte; it was not briefed.’ 
+The officer asking the question was apparently interested in 
+finding out whether Mena was illegally present in the United 
+States, as many of the gang members were. Surely one 
+constitutionally permissible goal of law enforcement is 
+
+
+apprehension of persons whose presence in the United States 
+is itself a crime.‘ 
+
+
+The panel suggests that an INS agent needs “particularized 
+reasonable suspicion that an individual is not a citizen” 
+before an INS agent can ask about citizenship and that, even 
+then, a local police officer cannot ask unless the police 
+department has entered into an agreement with the INS under 
+8 U.S.C. § 1357.° The whole notion, though, that there is 
+something intimate and private about one’s citizenship that is 
+protected by the Fourth Amendment is wrong (the panel did 
+not make a Fifth Amendment self-incrimination or custodial- 
+interrogation argument). 
+
+
+The only other circuit to consider this question went the 
+other way. In Martinez-Camargo v. INS,’ the local police 
+detained a man for working on his car in a vacant lot, and an 
+INS agent asked him about his citizenship. The man revealed 
+that he was an illegal alien. The Seventh Circuit held that 
+there could be no Fourth Amendment violation because 
+“[q]uestions . . . are neither searches nor seizures.”’ That 
+
+
+obviously correct proposition should have been adopted by 
+the panel here. 
+
+
+3 : . 
+Mena argued in her brief that the questioning was “intrusive” but 
+never suggested that it rose to the level of a constitutional violation. 
+
+
+* See, e.g., 8 U.S.C. § 1326. 
+
+* Mena, 332 F.3d at 1264. 
+
+* Martinez-Camargo v. INS, 282 F.3d 487 (7th Cir.2002). 
+"Id. at 493. 
+
+
+28a 
+
+
+The panel relies instead on two traffic-stop cases, the 
+Supreme Court decision in United States v. Brignoni- -Ponce,* 
+and our en banc decision in United States v. Montero- 
+Camargo.’ Neither case is on point. The gravamen of the 
+interference with individual liberty in both was the stop, not 
+the questioning. Both involved traffic stops of persons with 
+Hispanic appearances near the Mexican border. The public 
+interest in policing the border, in Brignoni-Ponce, was 
+weighed against “the interference with individual liberty that 
+results when an officer stops an automobile and questions its 
+occupants,” '° and the “interference with lawful traffic” of 
+automobiles on the highway.'' Likewise Montero-Camargo 
+resolved whether ethnicity and other factors sufficed to estab- 
+lish “reasonable Suspicion for the stop” of a car proceeding 
+down the highway." 
+
+
+By contrast, asking Mena about her citizenship did not 
+require a stop. She was already stopped for an entirely inde- 
+pendent reason. Her detention arose not at all from her 
+ethnicity or the citizenship inquiry, but rather from her 
+presence at a residence being searched pursuant toa search 
+warrant. Because the questions about her citizenship did not 
+require a stop (the detention already being accomplished) 
+these two cases deciding the constitutionality of stops have no 
+bearing on whether questioning Mena was constitutional. 
+
+
+Even if asking Mena about her citizenship was an uncon- 
+stitutional invasion of her right to privacy, the officers would 
+nevertheless be entitled to qualified immunity. To defeat 
+
+
+® United States v. Brignoni-Ponce, 422 U.S. 873, 95 S.Ct. 2574, 45 
+L.Ed.2d 607 (1975). 
+
+
+* United States v. Montero-Camargo, 208 F.3d 1122 (9th Cir.2000) (en 
+banc). 
+
+'° Brignoni-Ponce, 422 U.S. at 879, 95 S.Ct. 2574 (emphasis added). 
+
+'' Id. at 883, 95 S.Ct. 2574. 
+
+
+'2 Montero-Camargo, 208 F.3d at 1139. 
+
+
+29a 
+
+
+qualified immunity, the panel would then have needed to 
+establish that a reasonable officer would have known about 
+this novel proposition of law.'* I am unable to imagine the 
+reasonable police officer that the panel envisions. 
+
+
+II. The detention. 
+
+
+The panel also holds that any reasonable officer would 
+have known that it violated the Constitution to treat Mena as 
+the officers in this case did. The problem with this holding is 
+that, instead of following the Supreme Court’s decision in 
+Michigan v. Summers,'* the panel expands the room Summers 
+left for an exception so far as to eviscerate the rule. The 
+panel based its holding of unconstitutionality, so obvious as 
+to deprive the officers of qualified immunity on the manner of 
+detention, on the fact that the officers “pushed Mena onto her 
+bed, face down, and placed handcuffs on her,” then “vanked 
+her up from her bed by her shirt, and led her out of her room 
+in her pajamas.” '° (According to Mena’s own description of 
+her clothes in her response to the petition for rehearing, she 
+was actually wearing “green sweat pants, a black long sleeved 
+shirt, and had no shoes on her feet.”) And, “although it was 
+raining outside and Mena was barefoot, the officers directed 
+her outside and into a cold garage where she was detained for 
+two to three hours.” '° (According to the petition for 
+rehearing, the garage had been converted into a bedroom with 
+beds and dressers.) Though the panel apparently concedes 
+that handcuffing her at the outset was permissible, it takes the 
+position that she should have been released from the 
+handcuffs sooner than she was because “it was clear” that 
+
+
+'’ Saucier v. Katz, 533 U.S. 194, 201-05, 121 S.Ct. 2151, 150 L.Ed.2d 
+272 (2001). 
+
+
+- Michigan v. Summers, 452 U.S. 692, 101 S.Ct. 2587, 69 L.Ed.2d 340 
+(1981). 
+
+
+'S Mena, 332 F.3d at 1262. 
+16 Id 
+
+
+30a 
+
+
+she, not being the drive-by shooting suspect, posed no threat 
+to the officers."” 
+
+
+_ Michigan v. Summers holds that “a warrant to search for 
+contraband founded on probable cause implicitly carries with 
+it the limited authority to detain the occupants of the premises 
+while a proper search is conducted.” 'S In Summers, as here, 
+the police were executing a search warrant for a house, and, 
+as here, there was no warrant or probable cause to search the 
+individual at issue. Also, as here, the individual was detained 
+while the house was searched. For several reasons, including 
+that “{t}he risk of harm to both the police and the occupants is 
+minimized if the officers routinely exercise unquestioned 
+command of the situation,” '? and that “a neutral magistrate 
+rather than an officer in the field has made the critical 
+determination,” 2° the detention was held to be a “reasonable” 
+seizure of the person under the Fourth Amendment. Summers 
+so held even though, as the dissent noted, the record con- 
+tained “no evidence whatsoever that the police feared any 
+threat to their safety or that of others from the conduct of the 
+respondent” 21 and, under the holding as the dissent read it, 
+the police could make a person “a prisoner in his own home 
+for a potentially very long period of time.” 7” 
+
+
+The panel in our Mena decision justifies not applying the 
+holding in the Supreme Court decision in Summers on the 
+basis of a footnote in Summers: 
+
+
+Although special circumstances, or possibly a prolonged 
+detention, might lead to a different conclusion in an 
+
+
+7 Id. at 1263. 
+
+'8 Summers, 452 U.S. at 705, 101 S.Ct. 2587. 
+
+'9 Id. at 702-03, 101 S.Ct. 2587. 
+
+20 Id. at 703, 101 S.Ct. 2587. 
+
+2! Id. at 708 n. 1, 101 S.Ct. 2587 (Stewart, J., dissenting). 
+
+
+22 1d at 711, 101 S.Ct. 2587. 
+
+
+3la 
+
+
+unusual case, we are persuaded that this routine deten- 
+tion of residents of a house while it was being searched 
+
+
+for contraband pursuant to a valid warrant is not such a 
+case.” . 
+
+
+We applied the Summers footnote in Franklin y. Fox- 
+wrth. But that really was an “unusual case.” In Franklin 
+the detainee was an elderly man dressed only in a T-shirt 
+whose multiple sclerosis made him unable to walk, sit up or 
+control his bowels.”> The police handcuffed him, carried hin 
+from his bed, and displayed him for an hour on a living room 
+couch with his genitals exposed to the police, his female 
+caretaker, and her son’s girlfriend.” We took note of how 
+degrading as well as unnecessary the manner of detention 
+was. That is what distinguishes Franklin from Mena. The 
+only thing bare about Mena was her feet. 
+
+
+Franklin properly gives content to the Summers footnote 
+because it really is an “unusual case” in which the manner of 
+detention would clearly, to any reasonable police officer go 
+beyond the scope of any lawful justification. The detention in 
+Franklin involved entirely gratuitous humiliation and degra- 
+dation. Mena, though, is not “unusual.” The detention was 
+not unusually long, was not degrading, and lacked any 
+especially “unusual” circumstances. For their own safety and 
+the safety of other occupants, reasonable police officers 
+cannot be held to know that it violates the Constitution to 
+detain for two or three hours a woman fully dressed except 
+for bare feet during a lawful search of a house with many 
+padlocked doors, known to house a member of a gang 
+involved in a drive-by shooting. The Mena panel says that “it 
+
+
+** Id. at 705 n. 21, 101 S.Ct. 2587. 
+
+** Franklin v. Foxworth, 31 F.3d 873 (9th Cir.1994). 
+>* Id. at 874. 
+
+© Id. at 875. 
+
+”” Id. at 878. 
+
+
+32a 
+
+
+was clear” that she could be no threat,”* but nothing in the 
+opinion explains why a young woman could be no threat were 
+she not effectively controlled. If the footnote in Summers can 
+be extended to this case, the holding of Summers is deprived 
+of any force. More important, under Mena, It 1s mye to see 
+how police officers could ever conduct a safe and effective 
+search of a home pursuant to a valid search warrant. 
+
+
+The officers here deserve qualified immunity because a 
+person who is constitutionally detained does not have a 
+constitutional right not to be asked whether she is a citizen. 
+And they deserve qualified immunity because when a 
+are executing a search warrant, they may constitutionally 
+detain the occupants of the premises while the search is being 
+conducted. And they deserve qualified immunity because a 
+reasonable police officer would not have anticipated a 
+the Ninth Circuit would rule to the contrary on both o 
+
+
+these issues. 
+
+
+28 Mena, 332 F.3d at 1263. 
+
+
+33a 
+
+
+GOULD, Circuit Judge, with whom Circuit Judges 
+KOZINSKI and TALLMAN join, dissenting from denial of 
+rehearing en banc: 
+
+
+I would have reheard this case en banc. 
+
+
+First, | disagree with the panel’s suggestion that the Consti- 
+tution is offended by police officers asking Ms. Mena a 
+question about her citizenship. I would follow Martinez- 
+Camargo v. INS, 282 F.3d 487 (7th Cir.2002), holding that 
+a question is not a seizure. /d. at 493. Further, even if 
+the Fourth Amendment can be invoked by a query, here ¢he 
+officers had a reasonable basis upon which to inquire, for 
+Ms. Mena was found in a den of thieves, with a gang known 
+by the law to be comprised largely of illegal immigrants. In 
+law, as in life, a person to a degree may be judged by the 
+company they keep, see, e.g., Maryland v. Pringle, — U.S. 
+—, 124 S.Ct. 795, — L.Ed.2d — (2003), and nothing in the 
+Fourth Amendment contravenes this common observation 
+of humankind. 
+
+
+Second, the issue of excessive force may be close because 
+of the duration of time that the officers left handcuffs on Ms. 
+Mena. But on this issue we cannot say that a reasonable 
+officer should not have done so. We should instead be more 
+alert to the officers’ legitimate concerns for safety. Given the 
+arms anticipated at the locale of the search, and the need to 
+avoid deadly surprise, we should not say that the Constitution 
+precludes ensuring that any person found in_ potential 
+proximity to weapons is restrained from finding and using a 
+gun on the police. Law enforcement must confront certain 
+unavoidable dangers, but the Constitution does not require 
+that they face avoidable ones. ' 
+
+
+' The majority’s preoccupation with whether Ms. Mena was in pajamas 
+when restrained is besides the point. She was not paraded naked or in 
+humiliating pose. The officers were entitled to restrain her for their 
+safety, whether she was wearing a formal gown or jeans, whether she was 
+
+
+34a 
+
+
+Third, because in this context there was no violation of the 
+Constitution in regard to the questions posed to Ms. Mena on 
+her citizenship, or in regard to the degree of force used to 
+detain and restrain her, under Saucier v. Katz, 533 U.S. 194, 
+201, 121 S.Ct. 2151, 150 L.Ed.2d 272 (2001), that is the end 
+of the analysis, and we need not go further to assess qualified 
+immunity. But were I to assume a violation of the Fourth 
+Amendment rights that Ms. Mena asserts on either of the 
+above grounds, then I would agree with my colleague Judge 
+Kleinfeld that qualified immunity would be required because 
+no “clearly established” right has been violated. 
+
+
+For these reasons I respectfully dissent. 
+
+
+wearing pajamas or sweat pants, and without regard to the majority’s 
+purported interest in her attire, which seems here to be a mere rhetorical 
+device, wholly unrelated to the substance of the case. 
+
+
+> Ms. Mena did not assert that the inquiry on her citizenship status 
+violated her rights. She challenged excessive force in restraint and 
+challenged a search of her purse for papers. The idea that the question 
+about her citizenship posed to Ms. Mena offended her constitutional 
+rights, by analogy to our precedent prohibiting racial profiling as a basis 
+for a car stop, see United States v. Montero-Camargo, 208 F.3d 1122 (9th 
+Cir.2002) (en banc); see also United States v. Brignoni-Ponce, 422 U.S. 
+873, 95 S.Ct. 2574, 45 L.Ed.2d 607 (1975), is extemporaneous, unbriefed, 
+and unwise. 
+
+
+a 
+
+
+35a 
+APPENDIX C 
+
+
+UNITED STATES DISTRICT COURT 
+CENTRAL DISTRICT OF CALIFORNIA 
+
+
+[Filed Sep. 6, 2001] 
+
+
+CASE NO. CV 98-8512 AHM (AIJx) 
+
+
+IRIS MENA, 
+Plaintiff, 
+Vv. 
+CITY OF SIMI VALLEY, et al., 
+Defendants. 
+
+
+ORDER DENYING DEFENDANTS’ MOTION TO ALTER 
+OR AMEND JUDGMENT OR FOR NEW TRIAL OR FOR 
+JUDGMENT AS A MATTER OF LAW 
+
+
+INTRODUCTION 
+
+
+On June 21, 2001, at the completion of the trial in this case, 
+the jury returned a verdict finding that defendants Darin 
+Muehler and Robert Brill violated plaintiff Iris Mena’s Fourth 
+Amendment right to be free from unreasonable seizure by 
+detaining her with force greater than that which was 
+reasonable under the circumstances and by detaining her for a 
+longer period than was reasonable. The jury found defendant 
+Muehler liable to plaintiff in the amount of $10,000 in 
+compensatory damages and $20,000 in punitive dam- 
+ages and defendant Brill liable in the amount of $10,000 in 
+compensatory damages and $20,000 in punitive damages. 
+The Court entered judgment on July 11, 2001. 
+
+
+On July 25, 2001, defendants filed a motion 1) to alter or 
+amend judgment under F.R.Civ.P. 59(e) based on a purported 
+intervening change in qualified immunity law; 2) for a new 
+
+
+36a 
+
+
+trial under F.R.Civ.P. 59(a) on the ground that the Court’s 
+unlawful detention jury instruction was legally erroneous; and 
+3) for judgment as a matter of law under F.R.Civ.P. 50(b) 
+based on an asserted failure of evidence substantiating the 
+jury’s punitive damages award. For the reasons set forth 
+below, the Court DENIES defendants’ motion. 
+
+
+A. Qualified Immunity 
+
+
+Defendants assert as the basis for their Rule 59(e) motion 
+that “they should have been granted qualified immunity on 
+[the unlawful seizure] claim at the summary judgment stage 
+and that the Supreme Court’s opinion in Saucier v. Katz, 121 
+S.Ct. 2151 (2001), which was decided during trial, consti- 
+tutes an intervening change in the controlling law . . .” 
+Motion, p.2. 
+
+
+The Ninth Circuit has already reviewed and approved this 
+Court’s denial of qualified immunity on the unlawful seizure 
+claim at the summary judgment stage of this case. See Mena 
+v. City of Simi Valley, 226 F.3d 1031 (9th Cir. 2000). The 
+Ninth Circuit specifically addressed and rejected defendants’ 
+contention, made again here, that “they are entitled to 
+qualified immunity as a matter of law because ‘a reasonable 
+officer at the scene could have believed that keeping the four 
+detained residents handcuffed and detained together for the 
+duration of the search was reasonably necessary to avoid 
+danger to the officers and residents, reduce the risk of flight, 
+and avoid interference with the search.”” /d. at 1039. 
+
+
+Defendants base their challenge to this Court’s and the 
+Ninth Circuit’s rulings regarding qualified immunity on a 
+purported change in the law effected by Saucier v. Katz, 121 
+S.Ct. 2151 (2001). In that case, addressing excessive force 
+claims, the Supreme Court held that the qualified immunity 
+
+
+inquiry requires the “sequential” resolution by the Court of - 
+
+
+two questions: (1) “taken in the light most favorable to the 
+party asserting the injury, do the facts alleged show the 
+
+
+37a 
+officer’s conduct violated a constitutional right?”; and (2) 
+
+
+"whether d right is clearly established,” or, in other words 
+whether it would be clear to a reasonable officer that his 
+conduct was unlawful in the situation he confronted.” /d. at 
+2156. In so holding, the Court rejected the Ninth Circuit’s 
+position below that “qualified immunity is so intertwined 
+with the question whether the officer used excessive force in 
+making the arrest that qualified immunity and constitutional 
+violation issues should be treated as one question, to be 
+ee by the trier of fact.” Jd. at 2154. The Ninth Cir- 
+Cult’s position conflicted wi 
+ua eecnen ith Anderson v. Creighton, 483, 
+
+
+Defendants’ showing that Saucier effected an intervening 
+change in the law requiring dismissal based upon qualified 
+immunity is questionable. The Ninth Circuit in Mena an- 
+nounced a qualified immunity standard which, like the 
+standard it applied in Saucier, called for a two-part inquiry: 
+
+
+In deciding whether Defendants are entitled as a matter 
+of law to qualified immunity, we must accept the facts in 
+the light most favorable to the Plaintiffs and then 
+determine whether, in light of clearly established prin- 
+ciples governing the conduct in question, the officers 
+objectively could have believed that their conduct was 
+lawful. See Brewster v. Bd. of Educ. of Lynwood Unified 
+School Dist., 149 F.3d 971 (9th Cir.1998); Act Up!/ 
+Portland v. Bagley, 988 F.2d 868, 871 (9th Cir.1993). 
+“This standard requires a two-part analy :s: 1) Was the 
+law governing the official’s conduct cleari:; established? 
+
+
+2) Under that law, could a reasonable officer have 
+believed the conduct was lawful?” /d. 
+
+
+Mena, 226 F.3d at 1036. Defendants do not point specifically 
+to what portion of this standard purportedly deviates from 
+
+
+the Supreme Court’s statement of the proper qualified im- 
+munity inquiry. 
+
+
+38a 
+
+
+However, this Court acknowledges that the Ninth Circuit in 
+Mena did not expressly explain why defendants were not 
+entitled to qualified immunity, as distinct from the question 
+of whether a triable issue existed on the unlawful detention 
+issue. Though speculative, defendants could argue that 1) the 
+Mena decision conflated the reasonableness inquiry at the 
+heart of plaintiffs unlawful detention claim and the 
+reasonableness inquiry essential to defendants’ qualified 
+immunity defense and 2) Saucier subsequently disapproved 
+
+
+such an approach. 
+
+
+In any event, even under the standard articulated in 
+Saucier, defendants are not entitled to qualified immunity. 
+And that is because the first question to consider under 
+Saucier is whether, “taken in the light most favorable to the 
+party asserting the injury, do the facts alleged’ show the 
+officer’s conduct violated a constitutional right?” The answer 
+is “yes.” Plaintiff alleged and presented evidence that she 
+was only 18 at the time of her detention, was not suspected of 
+any crime, posed no threat to the officers, and did not resist 
+“arrest or attempt to flee but nevertheless defendants roused 
+her from sleep at gunpoint, pushed her onto her bed and 
+
+
+' Because this case has already been tried, defendants assert, without 
+authority, that “(rJather than viewing the facts alleged in the complaint, 
+the inquiry may be made in light of the evidence and facts established at 
+trial” Motion, p.11. If the Court does so, at the very least the Court would 
+be influenced by the following factual findings of the jury: 1) defendants 
+“violated plaintiff Iris Mena’s right under the Fourth Amendment to the 
+United States Constitution to be free from unreasonable seizure by 
+detaining her with force greater than that which was reasonable under 
+the circumstances” and 2) “violated plaintiff Iris Mena’s right under the 
+Fourth Amendment to the United States Constitution to be free from 
+unreasonable seizure by detaining her for a period longer than rea- 
+sonable.” Special Verdict Questions 5 and 6 (emphasis added). Even if the 
+Court were not bound to respect such findings if there was an adequate 
+basis to support them, on its own the Court finds that the facts at trial 
+
+
+show a constitutional violation. 
+
+
+39a 
+
+
+handcuffed her, refused to inform her why she was bein 
+detained, called in the INS to question her about ~ 
+citizenship status, and kept her handcuffed in her garage for 
+two or three hours, even for a time after the search was 
+terminated. Muller Decl. {| 4, 7. These facts show that the 
+defendants conduct violated plaintiff's fourth amendment 
+right to be free from an unlawful seizure. Defendants do not 
+sol mpotoery henge at the hearing counsel for de- 
+$ stated that t ituti 
+violation. See Motion, my Any y citinewsuens 
+
+
+Defendants assert that it is under the second prong of the 
+Saucier immunity inquiry that they enjoy the right to overturn 
+the verdict. The Supreme Court’s second step (“if a 
+[constitutional] violation could be made out on a favorable 
+view of the parties’ submissions, the [second] step is whether 
+the right was clearly established.” Saucier, 121 S.Ct. at 2156) 
+is the same as the Ninth Circuit’s first step (to find whether 
+the law governing the officer’s conduct was clearly 
+established). Defendants emphasize that Saucier stated that 
+the contours of the right must be sufficiently clear that a 
+reasonable official would understand that what he was doin 
+violates that right.” /d. at 2156. They argue that Mena’s right 
+was not clearly established. The Court disagrees. 
+
+
+As the Niath Circuit explained in Franklin v. Foxw 
+
+F.3d 873 (9th Cir. 1994), “[a] detention conducted in a 
+tion with a search may be unreasonable if it is unnecessarily 
+painful, degrading, or prolonged, or if it involves an undue 
+invasion of privacy.” /d. (reversing district court’s grant of 
+judgment for defendant officers in § 1983 action, and holdin 
+
+that police officers executing search warrant acted a 
+sonably by removing homeowner from sickbed without 
+providing him a covering and forcing him to remain sitting 
+handcuffed in living room rather than returning him to his 
+bed after they completed the search of his room). The 
+propriety of the search is evaluated under a totality of the 
+
+
+40a 
+
+
+circumstances test, including, but not limited to, “the severity 
+of the crime at issue, whether the suspect poses an immediate 
+threat to the safety of the officers or others, and whether he is 
+actively resisting arrest or attempting to evade arrest by 
+flight.” Jd. at 875-77 (quoting Graham v. Connor, 490 US. 
+386, 396, 109 S.Ct. 1865, 104 L.Ed.2d 443 (1989)). See also 
+Heitschmidt v. City of Houston, 161 F.3d 834, 837-39 (Sth 
+Cir. 1998) (reversing district court’s dismissal of plaintiff's 
+claim that his detention incident to a search of his home for 
+evidence concerning his roommate’s alleged prostitution ring 
+exceeded Fourth Amendment reasonableness because 
+defendants handcuffed plaintiff for four hours, refused him 
+bathroom breaks, lured him from his home to the street, had 
+no information that he was connected to the prostitution ring, 
+and because the search was for evidence, not contraband). 
+
+
+Continuing to hold a detainee in handcuffs or failing to 
+return her to her room after a residence has been secured and 
+when there are sufficient officers present has been held to 
+justify a finding that the seizure was unreasonable. Franklin, 
+31 F.3d at 877 (“There is also no justification for the officers’ 
+failure to return Curry to his bed after the search of his room 
+had been completed. . . . Certainly it must have been apparent 
+that returning him to his sickbed would involve no risk at all 
+once the officers had searched his room and made certain that 
+there were no weapons or contraband present. However, even 
+had Curry represented some residual threat if left wholly 
+unattended, there was no reason why he could not simply 
+have been taken back to bed and guarded by one or two of the 
+twenty-three armed officers involved in the operation.”); 
+Heitschmidt, 161 F.3d at 839 (“Heitschmidt’s pleadings 
+allege that there were between ten and twelve police officers 
+in the home during the search. Heitschmidt could have been 
+effectively restrained, and the police interest in facilitat- 
+
+ing the search could have been vindicated, with a far less 
+
+
+intrusive detention.”). 
+
+
+4la 
+
+
+Under the principles announced and applied in Franklin 
+and Heitschmidt, the facts here demonstrate that it was 
+sufficiently clear to a hypothetical reasonable police officer 
+that Iris Mena’s Fourth Amendment right was violated by the 
+detention as defendants effected it.’ Although it is true that 
+both Franklin and Heitschmidt are factually distinguishable 
+“fal Tight may be clearly established even if there is no 
+previous precedent directly on point.” Leveto v. Lapina, 258 
+F.3d 156 (3d Cir. 2001) (citing cases) (affirming finding of 
+
+
+no qualified immunity for federal officers in unlawful de- 
+tention case). 
+
+
+Defendants rely on Torres v. United States, 200 F.3d 179 
+(3d Cir. 1999) to argue that in fact it was not clear that the 
+detention of Iris Mena violated her constitutional rights. In 
+that case, the Third Circuit did grant immunity to officers for 
+their detention of plaintiff, in handcuffs, for several hours on 
+his living room couch during the search of his home 
+However, unlike here, the plaintiff in Torres, apparently an 
+adult male, directed agents to “two firearms in his bedroom.” 
+while Iris Mena, an 18 year old female, neither had, nor was 
+aware of, nor directed defendants’ attention to any 
+contraband, let alone weapons. Indeed, the agents in Torres 
+“retrieved firearms, a Glock 9mm semiautomatic and a Ruger 
+357 magnum, which might be associated with a violent drug 
+operation.” (The agents had reason to believe Torres’ house 
+was “a key location in a large scale drug ring” and so also had 
+reason to fear destruction of evidence). The officers in Torres 
+
+
+> Defendants also argue that even if Saucier did not change the law 
+defendants are entitled to qualified immunity “in light of the jury’s 
+determination that the search was lawful.” Motion, p.16. Although it is 
+true that officers have the “limited authority to detain occupants of the 
+premises while a proper search is conducted,” Summers, 452 U.S. at 705 
+it is also true that the manner of a detention, as well as its duration can 
+render it unreasonable, even if most of the detention occurred while a 
+proper search was in progress. Summers, 452 U.S. at n.21: Franklin. 31 
+F.2d at 876. Defendants’ argument therefore fails. ) ) 
+
+
+42a 
+
+
+also found ammunition for a third type of firearm that they 
+did not locate during the search “but which they feared might 
+be present.” Torres is easily distinguishable on these bases 
+and does not diminish the clarity of Iris Mena’s constitu- 
+
+
+tional rights. 
+
+
+B. Unlawful Detention Instruction 
+
+
+Defendants also seek a new trial on the unlawful detention 
+claim under F.R.Civ.P. 59(a) “on the ground that the jury 
+instruction pertaining to plaintiffs claim of unlawful 
+detention failed to include the relevant law and was 
+inadequate and prejudicial to these moving defendants and, as 
+such, constituted an error of law requiring a new trial on this 
+claim.” Motion, p.18. 
+
+
+The Court gave the following instruction on unlawful 
+detention: 
+
+
+Generally, a police officer carrying out a search author- 
+ized by a warrant may detain occupants of the residence 
+during the search, so long as the detention is reasonable. 
+
+
+In determining the reasonableness of a detention con- 
+ducted in connection with a search, you may look to 
+all the circumstances, including the severity of the 
+suspected crime, whether t':e person being detained is 
+the subject of the investigation, whether such person 
+poses an immediate threat to the security of the police or 
+others or to the ability of the police to conduct the 
+search, and whether such person is actively resisting 
+arrest or attempting to flee. A detention may be 
+unreasonable if it is unnecessarily painful, degrading, 
+prolonged or if it involves an undue invasion of privacy. 
+A police officer is required to release an individual 
+detained in connection with a lawful search as soon as 
+the officer’s right to conduct the search ends or the 
+search itself is concluded, whichever is sooner. 
+
+
+43a 
+
+
+Defendants proffer six purported flaws in the instruction. 
+First, they assert that the instruction does not “inform the jury 
+that police officers may, in fact, /egally detain occupants 
+during a search.” Motion, p.19 (emphasis in original). But the 
+instruction’s first sentence states that “[g]enerally, a police 
+officer carrying out a search authorized by a warrant may 
+detain occupants of the residence during the search . . .” 
+(emphasis added). The mere absence of the word “legally” or 
+“lawfully,” from the clear statement that officers may conduct 
+such detentions does not render this instruction invalid or 
+incorrect under the law. 
+
+
+Second, defendants assert that it was error to not 
+specifically instruct the jury that “the authority to detain 
+residents during the execution of a valid search also permits 
+officers to take actions to minimize the risk of harm 
+engendered by the search.” Motion, p.20. Defendants cor- 
+rectly cite Michigan v. Summers, 452 U.S. 692 (1981), for the 
+dictum statement that a search warrant “may give rise to 
+sudden violence or frantic efforts to conceal or destroy 
+evidence.” However, the Court’s instruction did make clear 
+that the reasonableness of a detention is directly related to the 
+risk of harm associated with the search and the detainee: 
+
+
+In determining the reasonableness of a detention con- 
+ducted in connection with a search, you may look to all 
+the circumstances, including . . . whether such person 
+poses an immediate threat to the security of the police or 
+others or to the ability of the police to conduct the 
+search, and whether such person is actively resisting 
+arrest or attempting to flee. 
+
+
+The instruction did not improperly ignore the importance of 
+the risk of harm to the reasonableness analysis. 
+
+
+Third, defendants argue that the instruction did not make 
+clear that “generally” detentions pursuant to searches are 
+permissible, but “instead instructed the jury that a detention is 
+
+
+44a 
+
+
+only reasonable based upon” certain circumstances. Motion, 
+p.21. However, the instruction specifically provides that 
+police officers “generally” may conduct detentions pursuant 
+to valid searches and goes on to instruct that the lawfulness of 
+such detentions is subject to reasonableness. This is the law. 
+See Franklin, 31 F.3d at 876 (“the test of ‘reasonableness 
+applies to the manner in which the police conduct any 
+seizure, including limited detentions of the type imposed 
+on the occupants of the Curry-Franklin residence by the 
+
+
+Portland Police’). 
+
+
+Defendants assert next that the Court’s instruction unfairly 
+emphasized factors in the reasonableness analysis that 
+favored plaintiff's case against them. The instruction enum- 
+
+
+erated the following factors: 
+
+
+you may look to all the circumstances, including the 
+severity of the suspected crime, whether the person 
+being detained is the subject of the investigation, 
+whether such person poses an immediate threat to the 
+security of the police or others or to the ability of the 
+police to conduct the search, and whether such person Is 
+actively resisting arrest or attempting to flee. A detention 
+may be unreasonable if it is unnecessarily painful, 
+degrading, prolonged or if it involves an undue invasion 
+of privacy— 
+
+
+Though they may not favor defendants, these factors are 
+those specifically enumerated in Franklin, 31 F.3d at 876 
+(stating that “the severity of the crime, whether the person 
+being detained poses an immediate threat, whether he is 
+actively resisting or attempting to flee—may be helpful in the 
+conduct of our inquiry, but so may other factors not ordinarily 
+relevant in deciding how much force is appropriate when 
+making an arrest . . . Persons being arrested are ordinarily 
+suspected of having committed serious, often violent, 
+offenses. Persons being detained while a search of a house is 
+being conducted may simply be visiting a home or business 
+
+
+45a 
+
+
+for an innocuous if not benevolent purpose. A detention 
+conducted in connection with a search may be unreasonable if 
+it is unne-essarily painful, degrading, or prolonged, or if it 
+involves an undue invasion of privacy”). Accordingly, 
+defendants’ argument fails. 
+
+
+Fifth, defendants assert that the instruction that “[a] police 
+officer is required to release an individual detained in 
+connection with a lawful search as soon as the officer’s right 
+to conduct the search ends or the search itself is concluded, 
+whichever is sooner” is not supported by case law and was 
+unnecessary. However, there is no dispute that a search 
+carries with it only the “limited authority to detain occupants 
+of the premises while a proper search is conducted,” Sum- 
+mers, 452 U.S. at 705 (emphasis added). The instruction 
+merely makes clear that that authority does not persist 
+once the search either ends or becomes improper. Clarifying 
+
+
+this point of law to the jury was neither improper nor 
+unnecessary. 
+
+
+Finally, defendants assert that the Court failed to instruct 
+the jury on qualified immunity for the detention. However, 
+defendants elsewhere correctly argue that under the law as it 
+exists now, qualified immunity must be determined by the 
+Court, not the jury. Defendants cannot have it both ways and 
+accordingly, the Court rejects this argument. 
+
+
+In sum, none of defendants’ attacks on the Court’s in- 
+struction have merit. 
+
+
+46a 
+
+
+C. Punitive Damages 
+
+
+Defendants assert that under F.R.Civ P. 50(b),’ there was 
+“insufficient evidence to support a punitive damages award.” 
+Motion, p.23. The reason they provide is that the moving 
+defendants supervised the search and detentions, but did not 
+personally have direct contact with Iris Mena. Defendants 
+provide no authority for insulating them from liability for 
+punitive damages on this basis. 
+
+
+The jury was properly instructed that punitive damages 
+could be awarded if a defendant’s conduct was malicious, 
+defined to be “conduct . . . accompanied by ill will or spite.” 
+At least one of these defendants (Officer Brill) volunteered 
+contemptuous, sneering comments about the condition of 
+Mena’s home and bedroom to the effect that it was in a state 
+of disarray. Muehler also displayed near-disdain for the 
+occupants of the house. That a jury might find that their 
+conduct was motivated by apparent hostility would be neither 
+surprising nor improper. 
+
+
+Moreover, although Iris Mena was not physically injured 
+during the detention and although she was eventually 
+released, this does not mean that defendants did not 
+recklessly disregard her rights in detaining her in the manner 
+they did. The evidence shown by plaintiff at trial regarding 
+the duration and manner of her detention, described supra, is 
+sufficient to support the jury s punitive damages award. 
+
+
+Motion DENIED. 
+
+
+* Plaintiff points out that defendants did not formally move for judg- 
+ment as a matter of law on the issue of punitive damages at the close of all 
+evidence. But they did object to the Court’s proposed punitive damages 
+jury instruction on the grounds that plaintiffs had presented insufficient 
+evidence at trial to support a jury verdict. Under Ninth Circuit law, this 
+objection is “a sufficient approximation” of a directed verdict motion. See 
+McClaran v. Plastic Industries, 97 F.3d 347, 360 (9th Cir. 1996). 
+
+
+47a 
+IT IS SO ORDERED. 
+
+
+DATE: September 6, 2001 
+
+
+/s/ A. Howard Matz 
+A. HOWARD MATz 
+United States District Judge 
+
+
+48a 
+APPENDIX D 
+
+
+UNITED STATES DISTRICT COURT 
+CENTRAL DISTRICT OF CALIFORNIA 
+
+
+[Filed Jul. 10, 2001] 
+
+
+Case No. CV 98-8512 AHM (AIJx) 
+
+
+IRIS MENA AND JOSE E. MENA, 
+Plaintiffs, 
+
+
+V. 
+
+
+CITY OF SIMI VALLEY, et al., 
+Defendants. 
+
+
+JUDGMENT 
+
+
+This action came on regularly for trial on June 12, 2001, 
+in Courtroom 14, of the above-entitled court, the 
+Honorable A. Howard Matz, Judge presiding. The plaintiffs 
+appeared by attorney James S. Muller and the defendants City 
+of Simi Valley, Darin L. Muehler, Robert Brill, Vincent 
+Allegra, William Lappin appeared by David L. Nye and 
+Karen K. Peabody of CARRINGTON & NYE. 
+
+
+A jury of seven persons was impaneled and sworn. 
+Witnesses were sworn and testified. After hearing the 
+evidence and arguments of counsel, the jury was instructed 
+by the Court and the cause was submitted to the jury with a 
+special verdict. The jury deliberated and thereafter returned to 
+the court with its special verdict, which said special verdict 
+was filed with the clerk and entered on the minutes and was 
+in words as follows: 
+
+
+“We the jury in the above entitled action, based upon the 
+evidence presented and on the instructions given to us by the 
+Court, now reach our verdict on the issues submitted to us. 
+
+
+49a 
+Question NO. 1: 
+
+
+(a) Do you find that defendant William Lappin violated the 
+rights of plaintiffs under the Fourth Amendment to the United 
+States Constitution to be free from unreasonable search by 
+failing to properly knock and announce the presence of the 
+officers at 1363 Patricia Avenue and by unnecessarily 
+destroying property during the initial entry? 
+
+
+X 
+Yes No 
+Please proceed to the next question. 
+Question NO. 2: 
+
+
+(a) Do you find that defendant Vincent Allegra violated 
+plaintiff Jose Mena’s right under the Fourth Amendment to 
+the United States Constitution to be free from unreasonable 
+search by unnecessarily using excessive force on the door 
+into the bedroom known as the “converted porch area” at the 
+home Jose Mena owned at 1364 Patricia Avenue? 
+
+
+X 
+Yes No 
+Please proceed to the next question. 
+Question NO. 3: 
+
+
+(a) Do you find that defendant Darin Muehler violated the 
+Fourth Amendment rights of Jose Mena or Iris Mena to be 
+free from unreasonable search by permitting or causing the 
+search of 1363 Patricia Avenue to be conducted at portions of 
+the premises other than the bedroom of Raymond Romero 
+and common areas, once Romero’s bedroom had been 
+identified? 
+
+
+X 
+Yes No 
+
+
+(b) If and only if answered “tyes” to part (a), then answer 
+this question: What do you find to be the total amount if 
+
+
+50a 
+damages, if any, sustained by plaintiff Iris Mena as a result of 
+the conduct of Darin Muehler concerning the continuation of 
+the search? 
+
+
+Amount: $ 
+
+(If you find that Iris Mena suffered no actual damage, you 
+must award him [sic] nominal damages in the amount not to 
+exceed $1.00 (one dollar), but only if you answered “Yes” to 
+part (a). 
+
+
+Amount: $_ 
+
+
+(c) If and only if you answered “Yes” to part (a), then 
+answer this question: What do you find to be the total amount 
+of damages, if any sustained by plaintiff Jose Mena as a result 
+of the conduct of Darin Muehler concerning the continuation 
+of the search? (If you find that Jose Mena suffered no actual 
+damage, you must award him nominal damages in the amount 
+not to exceed $1.00 (one dollar), but only if you answered 
+“Yes” to part (a)). 
+
+Please respond to the next question. 
+
+
+Question NO. 4: 
+
+(a) Do you find the defendant Robert Brill violated the 
+Fourth Amendment rights of Jose Mena or Iris Mena to be 
+free from unreasonable search by permitting or causing the 
+search of 1363 Patricia Avenue to be conducted at portions of 
+the premises other than the bedroom of Raymond Romero 
+and common areas, once Romero’s bedroom had been 
+
+
+identified? 
+
+
+X 
+
+
+Yes No 
+Please proceed to the next question. 
+
+
+Question NO. 5: Do you find that either of the defendant 
+officers named below violated plaintiff Iris Mena’s right 
+under the Fourth Amendment to the United States 
+Constitution to be free from unreasonable seizure by 
+
+
+Sla 
+
+
+detaining her with force greater than that which was 
+reasonable under the circumstances? 
+
+
+Yes No 
+Darin Muehler X 
+Robert Brill X 
+
+
+Please proceed to the next question. 
+
+
+Question NO. 6: Do you find that either of the defendant 
+officers named below violated plaintiff Iris Mena’s right 
+under the Fourth Amendment to the United States 
+Constitution to be free from unreasonable seizure by 
+detaining her for a longer period than reasonable? 
+
+
+Yes No 
+Darin Muehler xX 
+Robert Brill xX 
+
+
+Please proceed to the next question; 
+
+
+Question NO. 7: Concerning Darin Mueher, if you answered 
+“Yes” to either question 5 or question 6, then answer this 
+question: What do you find to be the total amount of 
+damages, if any, sustained by plaintiff Iris Mena as a result of 
+the conduct of Darin Muehler concerning her detention? (If 
+you find that Iris Mena suffered no actual damage, you must 
+award her nominal damage in the amount not to exceed $1.00 
+(one dollar), but only if you answered “Yes” to either 
+question 5 or question 6.) 
+
+
+Amount: $10.000. 
+Please proceed to the next question. 
+
+
+Question NO. 8: Concerning Robert Brill, if you answered 
+“Yes” to either question 5, or question 6, then answer this 
+question: What do you find to be the total amount of 
+damages, if any, sustained by plaintiff Iris Mena as a result of 
+
+
+52a 
+
+
+the conduct of Robert Brill concerning her detention? (If you 
+find that Iris Mena suffered no actual damage, you must 
+award her nominal damage in the amount not to exceed $1 .00 
+(one dollar), but only if you answered “Yes” to either 
+
+
+question 5 or question 6.) 
+Amount: $10,000 
+
+
+Please proceed to the next question. 
+
+
+Question NO. 13: 
+
+
+(a) Concerning Darin Muehler, if and only if you answered 
+“Yes” to either or both questions 5 and 6, answer this 
+question: Was the conduct of Darin Muehler concerning the 
+detention of Iris Mena malicious, oppressive or in reckless 
+disregard of Iris Mena’s rights? 
+
+
+Yes X No 
+
+
+(b) If your answer to the preceding question was “Yes,” then 
+what do you find to be the amount of punitive damages, if 
+any, that should be awarded to Iris Mena against Darin 
+Muehler concerning her detention? 
+
+
+Amount $ $20,000. 
+Question NO. 14: 
+
+
+(a) Concerning Robert Brill, if and only if you answered 
+“Yes” to either or both questions 5 and 6, answer this 
+question: Was the conduct of Robert Brill concerning the 
+detention of Iris Mena malicious, oppressive or in reckless 
+disregard of Iris Mena’s rights? 
+
+
+Yes X No 
+
+
+(b) If your answer to the preceding question was “Yes” then 
+what do you find to be the amount of punitive damages, if 
+any, that should be awarded to Iris Mena against Robert Brill 
+
+
+concerning her detention? 
+Amount $20,000 
+
+
+53a 
+
+
+It appearing by reason to this special verdict, that plaintiff 
+Iris Mena is entitled to judgment against defendant Darin 
+Muehler in the amount of $10,000.00 in general damages and 
+the amount of $20,000.00 in punitive damages. 
+
+
+It appearing by reason to this special verdict, that plaintiff 
+Iris Mena is entitled to judgment against defendani Robert 
+Brill in the amount of $10,000.00 in general damages and in 
+the amount of $20,000.00 in punitive damages. 
+
+
+NOW, THEREFORE, IT IS ORDERED, ADJUDGED 
+AND DECREED THAT: 
+
+
+Plaintiff Iris Mena have judgment against defendant Darin 
+Muehler in the amount of $10,000.00 in general damages and 
+in the amount of $20,000.00 in punitive damages. 
+
+
+AND, that plaintiff Iris Mena have judgment against 
+defendant Robert Brill in the amount of $10,000.00 in general 
+
+
+damages and in the amount of $20,000.00 in punitive 
+damages. 
+
+
+AND, that plaintiff Iris Mena recover costs and 
+disbursements taxed in the sum of $ from defendants 
+Darin Muehler and Robert Brill. 
+
+
+AND, that plaintiff Iris Mena recover attorney’s fees in an 
+amount to be determined by the court, from defendants Darin 
+Muehler and Robert Brill. Plaintiff shall propose the amounts 
+to defendants’ lawyer. If no agreement, make a motion. 
+
+
+DATED: July 9, 2001 
+
+
+/s/ A. Howard Matz 
+A. HOWARD MATZ 
+UNITED STATES DISTRICT JUDGE 
+
+
+54a 
+Submitted by: 
+
+
+LAW OFFICES OF JAMES S. MULLER 
+
+
+By /s/ James S. Muller 
+JAMES S. MULLER 
+Attorney for Plaintiffs 
+
+
+Approved as to form and content 
+CARRINGTON & NYE 
+
+
+By /s/ David L. Nye 
+DAVID L. NYE 
+Attorney for Defendants 
+
+
+5Sa 
+APPENDIX E 
+
+
+UNITED STATES COURT OF APPEALS 
+NINTH CIRCUIT 
+
+
+No. 99-56720 
+
+
+IRIS MENA; Jose E. Mena 
+
+
+Plaintiffs-Appellees, 
+v. 
+
+
+CITY OF SIMI VALLEY, 
+Defendant, 
+and 
+
+
+RANDY G. ADAMS; DARIN L. MUEHLER; ROBERT BRILL; 
+MARVIN HODGES; ROY JONES; VINCENT ALLEGRA; ALAN 
+McCorD; RICHARD THOMAS; RONALD CHAMBERS; 
+WILLIAM LAPPIN; ARNOLD BAYNARD; JEFFREY DOMINICK; 
+JACK GREENBURG; RICHARD LAMB; FRANK AHLVERS; 
+JOHN ADAMCZYK; TIM BROWN, 
+
+Defendants-Appellants. 
+
+
+Argued and Submitted Aug. 11, 2000 
+Filed Sept. 22, 2000 
+
+
+Appeal from the United States District Court for the 
+Central District of California; A. Howard Matz, District 
+Judge, Presiding. D.C. No. CV-98-08512-AHM. 
+
+
+Before: NOONAN, TROTT, and BERZON, Circuit 
+Judges. 
+
+
+TROTT, Circuit Judge: 
+
+
+City of Simi Valley Police Chief Randy G. Adams and 
+several police officers (collectively “Defendants”) appeal the 
+district court’s denial of their motion for summary judgment 
+
+
+56a 
+
+
+based on qualified immunity. Defendants argue that the 
+district court erred by failing to determine whether, under the 
+clearly established law, the officers reasonably could have 
+believed their conduct in obtaining and executing a search 
+warrant for the residence of Jose and Iris Mena (collectively 
+“Plaintiffs”) and in detaining Iris Mena was lawful. We have 
+jurisdiction pursuant to 28 U.S.C. § 1291 and, we AFFIRM in 
+part, REVERSE in part, and REMAND to the district court. 
+
+
+I 
+BACKGROUND 
+
+
+On January 13, 1998, Officers Darin L. Muehler 
+(“Muehler”) and Robert Brill (“Brill”) of the Simi Valley 
+Police Department (“SVPD”) responded to and began 
+investigating a gang-related drive-by shooting in Simi Valley. 
+During their investigation, Officers Muehler and Brill learned 
+that their primary suspect, Raymond Romero, _was in 
+possession of a .25 caliber handgun used in the shooting. 
+
+
+In addition, Raymond’s brother, Anthony, told Officers 
+Muehler and Brill that Raymond Romero lived on Patricia 
+Avenue in a “poor house,” which Anthony explained was “a 
+residence with a large number of subjects residing in a 
+residence designed for one family.” Anthony told the officers 
+also that Raymond Romero’s friend (and fellow gang 
+member), Genaro Gonzales (“Gonzales”), had lived at the 
+house on Patricia Avenue, but that he believed Gonzales had 
+moved to Mexico. Anthony explained that his brother kept 
+some of his personal property at their mother’s house because 
+“Raymond believes these items would be stolen at the 
+Patricia Avenue location.” Finally, Anthony gave the officers 
+his brother’s phone number, which was 522-9437. 
+
+
+Subsequently, Officer Muehler had a police dispatcher call 
+Raymond Romero’s phone number and pretend there was a 
+problem with the “911” system on Patricia Avenue. The 
+dispatcher asked the man who answered the phone to verify 
+
+
+57a 
+
+
+the address from which he was answering. In response, the 
+man stated that the address was 1363 Patricia Avenue. The 
+dispatcher then asked the man to hang up the phone and dial 
+“911,” which he did. The incoming phone number was 
+522-9437, which was listed to Genaro Gonzales. When 
+the dispatcher asked the man if he was Gonzales, he said 
+“No. A friend,” and then he said that his name was 
+Raymond. Based on this telephone call and the information 
+learned from Anthony Romero, the officers concluded that 
+Raymond Romero resided at 1363 Patricia Avenue, Simi 
+Valley, California. 
+
+
+The house located at 1363 Patricia Avenue, which Anthony 
+Romero described as a “poor house,” was owned by Plaintiff 
+Jose Mena. Although Jose Mena lived at the Patricia 
+Avenue residence only part-time, his daughter, Iris, was a 
+full-time resident. In addition, several other unrelated board- 
+ers lived in the Menas’ home, renting rooms in the house, 
+space in the garage, and motorhouses and vans parked in 
+the backyard. Notably, Officers Muehler and Brill both had 
+been to the Mena residence on police business on at least two 
+prior occasions. 
+
+
+On January 29, 1998, Officer Muehler executed an 
+affidavit in support of a warrant to search the Mena house for, 
+inter alia, “[djeadly weapons, specifically firearms including 
+ammunition, casings, holsters and cleaning equipment, knives 
+and accessories such as sheaves; [and] evidence of street gang 
+membership or affiliation with any street gang... .” In 
+describing the Mena house, Muehler stated in the affidavit 
+that Anthony Romero had explained that it was a “poor 
+house,” meaning “a residence with a large number of subjects 
+residing in a residence designed for one family.” However, - 
+Officer Muehler’s affidavit did not explain that he had been 
+to the Mena residence before, or that he had observed that all 
+of the doors adjacent to the living room were shut and that 
+some of them had padlocks on them. 
+
+
+58a 
+
+
+Based on Officer Muehler’s affidavit, a magistrate judge 
+issued a search warrant for Mena’s residence. In particular, 
+the warrant authorized the search of: 
+
+
+1363 Patricia Avenue, City of Simi Valley, County of 
+Ventura, State of California, which is further described 
+as a single story, single family dwelling, . . . with an 
+attached garage. .. . To include all rooms, attics, 
+basements, closets, storage areas, attached garages, and 
+other parts therein; and the surrounding grounds and any 
+storage sheds, detached garages, or out buildings of any 
+kind located thereon, any safes or locked boxes therein. 
+Any vehicles that are registered to or belonging to 
+occupants of the residence and that are on or adjacent to 
+
+
+the property. 
+Additionally, the warrant authorized the search of the 
+person of Raymond Joseph Romero. 
+
+
+At approximately 7:00 a.m. on February 3, 1998, several 
+officers from the SVPD, including Muehler and Brill, along 
+with a SWAT team, executed the search warrant on Mena’s 
+residence. Defendants claim that, before entering the house, 
+they complied with the knock and announce requirement. 
+Specifically, Defendants declare that they (1) “pounded” on 
+the front door, (2) yelled in both English and Spanish that 
+they were from the SVPD, had a warrant, and intended to 
+enter, (3) waited for approximately thirty seconds, and 
+(4) entered the house after receiving no response. Iris Mena 
+says, on the other hand, that the officers failed to comply with 
+the knock and announce requirement. She bases this claim on 
+her assertion that, although she was sleeping in the bedroom 
+
+
+' The magistrate also issued a search warrant for the home of Raymond 
+Romero’s mother and brother. That warrant is not at issue in this case. 
+
+
+? Jose Mena was not present during the warrant service and execution 
+and, therefore, lacks standing to challenge the officers’ compliance with 
+the knock and announce requirement. See United States v. Valencia- 
+Roldan, 893 F.2d 1080, 1081 n. 1 (9th Cir.1990). 
+
+
+59a 
+
+
+closest to the front door, she was not awakened by the alleged 
+knock and announce. In any event, the officers used a 
+battering ram to force entry into the Mena home. 
+
+
+After entering the house, the officers observed that some of 
+the rooms were locked, many with padlocks on the outside of 
+the doors. Nevertheless, the officers proceeded to force entry 
+into these locked rooms, including the bedroom in which Iris 
+Mena was sleeping. The officers found Iris Mena in bed, 
+forcibly turned her over, handcuffed her, and detained her in 
+the bedroom until the residence was cleared and secured by 
+the entry team. Once the house was secure, the members of 
+the SWAT team left the premises, and the remaining officers 
+searched the residence. 
+
+
+At that point, Iris Mena and the other residents at 1363 
+Patricia Avenue were taken to the garage where they were 
+detained, in handcuffs, for approximately two to three hours.? 
+During this time, the police refused to inform Iris Mena and 
+the others why they were being detained. Moreover, the 
+police contacted the Immigration and Naturalization Service 
+(“INS”), and INS officers arrived at the scene during the 
+search and interrogated the detained residents, including Iris 
+Mena. Finally, when the officers completed their search, they 
+took Iris Mena back into her home, removed her handcuffs, 
+and told her of the purpose of the warrant and search. 
+
+
+On October 19, 1998, Plaintiffs filed suit under 42 U.S.C. 
+§ 1983, alleging that Defendants violated their civil rights in 
+connection with the February 3, 1998 search of their home. 
+In July 1999, Defendants moved for summary judgment on 
+
+
+* There is a dispute about the length of the detention. While Iris Mena 
+declares that she was detained for approximately two to three hours, 
+Defendants assert that the detention lasted only about an hour and a half. 
+For purposes of summary judgment, however, we construe the facts in the 
+light most favorable to the non-moving party. Crystal v. United States, 
+172 F.3d 1141, 1147 n. 9 (9th Cir.1999). Thus, we assume that Iris 
+Mena’s detention lasted between two to three hours. 
+
+
+60a 
+
+
+the ground that Plaintiffs’ constitutional rights were not 
+violated, or, alternatively, that Defendants were entitled to 
+qualified immunity. After reviewing the papers and consider- 
+ing oral argument, on August 10, 1999, the district court 
+issued an order denying the summary judgment motion, 
+holding that because (1) “a reasonable trier of fact could 
+conclude that the warrant and/or its execution was ‘over- 
+broad,”” and (2) “a reasonable trier of fact could conclude 
+that Iris Mena’s detention was unreasonable,” Defendants 
+were not entitled as a matter of law to qualified immunity. 
+
+
+Defendants now appeal. 
+II 
+QUALIFIED IMMUNITY STANDARD 
+
+
+We review de novo a district court’s decision denying 
+summary judgment on the ground of qualified immunity. 
+Moran v. Washington, 147 F.3d 839, 844 (9th Cir.1998). In 
+deciding whether Defendants are entitled as a matter of law to 
+qualified immunity, we must accept the facts in the light most 
+favorable to the Plaintiffs and then determine whether, in 
+light of clearly established principles governing the conduct 
+in question, the officers objectively could have believed that 
+their conduct was lawful. See Brewster v. Bd. of Educ. of 
+Lynwood Unified School Dist., 149 F.3d 971 (9th Cir.1998); 
+Act Up!/Portland v. Bagley, 988 F.2d 868, 871 (9th Cir. 
+1993). “This standard requires a two-part analysis: 1) Was the 
+law governing the official’s conduct clearly established? 2) 
+Under that law, could a reasonable officer have believed the 
+
+
+conduct was lawful?” /d. 
+
+
+Hl 
+ANALYSIS 
+
+
+In their complaint, Plaintiffs allege that Defendants 
+violated their civil rights by (1) obtaining an overbroad search 
+warrant, (2) executing an overbroad search, (3) unlawfully 
+
+
+6la 
+
+
+detaining Iris Mena during the search, (4) conducting the 
+search in an unreasonable manner, and (5) failing to comply 
+with the “knock and announce” requirement. Defendants 
+maintain, however, that they are entitled to qualified 
+immunity because the officers reasonably could have 
+believed that their conduct was lawful under the clearly 
+established law. 
+
+
+A. Overbreadth of the Search Warrant 
+
+
+“The Warrant Clause of the Fourth Amendment categori- 
+cally prohibits the issuance of any warrant except one 
+‘particularly describing the place to be searched and the 
+persons or things to be seized.’” Maryland v. Garrison, 480 
+U.S. 79, 84, 107 S.Ct. 1013, 94 L.Ed.2d 72 (1987) (quoting 
+U.S. Const. amend. IV). The Supreme Court has held that 
+this requirement is satisfied “if the description is such that the 
+officer with a search warrant can with reasonable effort 
+ascertain and identify the place intended.” Steele v. United 
+States No. 1, 267 U.S. 498, 503, 45 S.Ct. 414, 69 L.Ed. 757 
+(1925). Here, there is no doubt that the warrant described the 
+“place to be searched”—1363 Patricia Avenue—with 
+sufficient particularity. Rather, the question is whether the 
+warrant was overbroad because it authorized the search of the 
+entire premises at 1363 Patricia Avenue, even though the 
+house was a multi-unit dwelling and probable cause related 
+only to Romero’s residential unit and, possibly, common 
+areas of the house. 
+
+
+In deciding whether the warrant was overbroad, we begin 
+with the Supreme Court’s decision in Maryland v. Garrison. 
+In Garrison, the police mistakenly believed that the third 
+floor of a building contained only one residential unit at the 
+time they applied for, obtained, and initially executed a 
+warrant to search suspect McWebb’s apartment for narcotics. 
+Thus, when the officers entered the first unit on that floor, 
+which they believed to be McWebb’s apartment, they ob- 
+served and confiscated contraband. The officers later discov- 
+
+
+62a 
+
+
+ered, however, that the unit they were in actually was rented 
+by Garrison, not McWebb. As soon as the officers realized 
+they were in Garrison’s unit, they terminated the search. 
+Nevertheless, Garrison was charged with a crime based on the 
+contraband found in his apartment. Garrison, 480 U.S. at 80, 
+
+
+107 S.Ct. 1013. 
+
+
+Garrison moved to suppress the evidence, arguing, inter 
+alia, that the warrant was overbroad. The Supreme Court 
+held that the evidence need not be suppressed on this ground 
+because “the warrant, insofar as it authorized a search that 
+turned out to be ambiguous in scope, was valid when it 
+issued.” Jd. at 86, 107 S.Ct. 1013. The Court explained 
+
+
+however, that 
+
+
+Plainly, if the officers had known, or even if they should 
+have known, that there were two separate dwelling units 
+on the third floor of 2036 Park Avenue, they would 
+have been obligated to exclude respondent’s apartment 
+from the scope of the requested warrant. But we must 
+judge the constitutionality of their conduct in light of 
+the information available to them at the time they 
+acted.... The validity of the warrant must be assessed 
+on the basis of the information that the officers dis- 
+closed, or had a duty to discover and to disclose, to the 
+issuing Magistrate. 
+
+
+Id. at 85, 107 S.Ct. 1013. 
+
+
+Relying on Garrison, Plaintiffs in this case claim that the 
+warrant was overbroad because, unlike the officers in 
+Garrison, Officers Muehler and Brill knew or should have 
+known that there were separate dwelling units within the 
+Menas’ house. Plaintiffs base this argument on the following 
+facts: (1) Muehler and Brill had been to the house on at least 
+two prior occasions; (2) during one of his prior visits, Officer 
+Muehler observed that all of the doors adjacent to the living 
+room were shut and that some of them were padlocked; and 
+(3) Anthony Romero told the officers that his brother lived in 
+
+
+63a 
+
+
+a “residence with a large number of subjects residing in a 
+residence designed for one family.” 
+
+
+Although we accept these declarations as true, we reject 
+Plaintiffs’ assertion that the warrant was overbroad. There is 
+absolutely no evidence in the record sufficient to create a 
+genuine issue of material fact that either Officer Muehler, 
+Officer Brill, or any other officer of the SVPD knew or 
+should have known prior to the application for the warrant 
+that the Mena residence was a multi-unit dwelling. While it 
+is true that Muehler and Brill both had been to the Mena 
+residence on prior occasions, they were in the house for only 
+a short time. Furthermore, although Muehler testified in his 
+deposition that he observed that all of the doors adjacent to 
+the living room were shut and that some of them were 
+padlocked, he also testified that he did “not know[ ] where 
+those doors led.” No evidence refutes this statement. Officer 
+Muehler’s description in the affidavit prepared for the warrant 
+of the residence is both accurate and materially consistent 
+with the extrinsic facts as he knew them at the time. The. fact 
+that Anthony Romero told the officers that his brother lived in 
+a “residence with a large number of subjects residing in a 
+residence designed for one family” does not suggest that the 
+officers knew or should have known that the house was a 
+multi-unit dwelling. The facts in this case are plainly distin- 
+guishable from the facts in Liston v. County of Riverside, 120 
+F.3d 965, 975 (9th Cir.1997), wherein we denied qualified 
+immunity to officers because the plaintiffs there made a 
+sufficient showing of “deliberate or reckless dishonesty” on 
+the part of the affiant for a disputed search warrant. 
+
+
+Under the circumstances, Defendants reasonably could 
+have believed at the time the warrant was issued that there 
+was probable cause to search the entire premises. Cf United 
+States v. Williams, 917 F.2d 1088, 1091-92 (8th Cir.1990) 
+(holding that officers were entitled to qualified immunity 
+because they did not know the residence for which they 
+
+
+64a 
+
+
+obtained a warrant actually contained multiple units). Ac- 
+cordingly, we hold as a matter of law that Defendants are 
+entitled to qualified immunity with regard to the claim that 
+the search warrant for 1363 Patricia Avenue was overbroad. 
+In this respect, we remand with instructions to enter a 
+summary judgment in favor of all Defendants. 
+
+
+B. Overbreadth of the Search 
+
+
+Plaintiffs’ next argument is that the manner in which 
+the search warrant was executed violated their constitu- 
+tional rights because, even after realizing that there were 
+multiple units within the Mena house, the police searched the 
+entire premises, including the individual residential units. 
+Defendants counter that the execution of the search was valid 
+because probable cause existed to search the entire premises, 
+not just Romero’s room and the common areas. We disagree 
+with Defendants. 
+
+
+Police officers’ authority to search premises that are 
+described in a warrant is not unlimited. “If, during the search, 
+the officers become aware that the warrant describes multiple 
+residences, the officers must confine their search to the 
+residence of the suspect.” United States v. Kyles, 40 F.3d 
+519, 524 (2d Cir.1994) (citing Garrison, 480 U.S. at 86-87, 
+107 S.Ct. 1013). To determine whether the officers should 
+have realized they were searching the wrong residence, the 
+Garrison court set forth the following standard: “(T]he 
+validity of the search of respondent’s apartment pursuant to a 
+warrant authorizing the search of the entire third floor 
+depends on whether the officers’ failure to realize the 
+overbreadth of the warrant was objectively understandable 
+and reasonable.” Garrison, 480 U.S. at 88, 107 S.Ct. 1013 
+(emphasis added). 
+
+
+Here, shortly after beginning the search, the evidence and 
+the reasonable inferences it supports are sufficient to suggest 
+that the officers should have realized that the Menas’ house 
+
+
+65a 
+
+
+was a multi-unit residential dwelling and, thus, that the 
+warrant was actually overbroad. When the officers first 
+entered the house, they observed that many of the rooms were 
+padlocked from the outside. Furthermore, upon forcing entry 
+into the locked rooms, the officers saw that the rooms were 
+set up as studio apartment type units, with their own 
+refrigerators, cooking supplies, food, televisions, and stereos. 
+Considering that Officers Muehler and Brill knew that a large 
+number of persons lived in the house, and that Muehler had 
+observed the padlocked doors on a prior occasion, we agree 
+with the district court that a jury could conclude from these 
+facts that the officers’ search beyond Romero’s room and 
+common areas was unreasonable. 
+
+
+Defendants argue nevertheless that they are entitled to 
+qualified immunity because their conduct in executing the 
+warrant and in searching the entire premises was objectively 
+reasonable. Generally, if a structure is divided into more than 
+one occupancy unit, probable cause must exist for each unit 
+to be searched. United States v. Whitney, 633 F.2d 902, 907 
+(9th Cir.1980). This rule, however, is not absolute. For ex- 
+ample, we have held that 
+
+
+a warrant is valid when it authorizes the search of a 
+street address with several dwellings if the defendants 
+are in control of the whole premises, if the dwellings are 
+occupied in common, or if the entire property is suspect. 
+
+
+United States v. Alexander, 761 F.2d 1294, 1301 (9th 
+Cir.1985); see also United States v. Frazin, 780 F.2d 1461, 
+1467 (9th Cir.1986). 
+
+
+Defendants maintain that there was evidence that the entire 
+premises were suspect because Romero had access to all parts 
+of Mena’s residence. Specifically, they argue that the follow- 
+ing facts support this conclusion: (1) Romero previously had 
+secreted a gun at the residence of a fellow gang member; 
+(2) Gonzales, a gang member, had also lived at 1363 Patricia 
+Avenue, although it was believed he had moved to Mexico; 
+
+
+66a 
+
+
+(3) street gang members often hide weapons and evidence 
+in their homes and the homes of fellow gang members; 
+(4) Romero had access to areas of the premises occupied by 
+other residents, as evidenced by the fact that he answered 
+Gonzales’s phone; and (5) other residents had access to 
+Romero’s possessions, as evidenced by the fact that he was 
+worried that some of his belongings might be stolen. In short, 
+Defendants appear to be arguing that, because Romero and 
+Gonzales were gang associates, and they both lived in this 
+house, the police had probable cause to search the entire 
+premises at 1363 Patricia Avenue. 
+
+
+We reject Defendants’ argument because, at most, the 
+aforementioned facts provided the officers with probable 
+cause to search Romero’s room, Gonzales’s room (if he still 
+lived there), and common areas. On the other hand, there is 
+virtually no evidence in the record to show that Romero had 
+access to or was in control of the locked rooms inhabited by 
+the other residents, such as Iris Mena. 
+
+
+As the district court correctly stated, “the law is well 
+established that the officers ‘were required to discontinue the 
+search of [Plaintiffs’ property not reasonably in Romero’s 
+control] as soon as they discovered that there were [other] 
+separate units [on the property] and therefore were put on 
+notice of the risk that they might be in a [portion of the 
+property] erroneously included within the terms of the 
+warrant.”” (quoting Garrison, 480 U.S. at 87, 107 S.Ct. 
+1013). Because a reasonable jury considering all the facts 
+could determine that it was unreasonable for the officers to 
+continue the search, we affirm the district court’s denial of 
+qualified immunity on this claim. 
+
+
+C. Unlawful Detention 
+
+
+Third, Plaintiffs contend that Iris Mena’s detention was 
+unlawful on the basis of its duration and the manner in which 
+
+
+67a 
+
+
+it was carried out.* Defendants once again assert that they are 
+entitled to qualified immunity as a matter of law because “a 
+reasonable officer at the scene could have believed that 
+keeping the four detained residents handcuffed and detained 
+together for the duration of the search was reasonably 
+necessary to avoid danger to the officers and residents, reduce 
+the risk of flight, and avoid interference with the search.” 
+Because we conclude that the evidence raises triable issues 
+regarding the reasonableness of the detention, we affirm the 
+district court. 
+
+
+The Supreme Court has held that 
+
+
+If the evidence that a citizen’s residence is harboring 
+contraband is sufficient to persuade a judicial officer that 
+an invasion of the citizen’s privacy is justified, it is 
+constitutionally reasonable to require that citizen to 
+remain while officers of the law execute a valid warrant 
+to search his home. Thus, for Fourth Amendment 
+purposes, we hold that a warrant to search for 
+contraband founded on probable cause implicitly carries 
+with it the limited authority to detain the occupants of 
+the premises while a proper search is conducted. 
+
+
+Michigan v. Summers, 452 U.S. 692, 704-05, 101 S.Ct. 2587, 
+69 L.Ed.2d 340 (1981) (footnotes omitted). However, the 
+Court included a caveat: “[S]pecial circumstances, or possibly 
+a prolonged detention, might lead to a different conclusion in 
+an unusual case... .” /d. at 705 n. 21, 101 S.Ct. 2587. Thus, 
+“while detentions of occupants during the period of a search 
+will under most circumstances prove to have been reasonable, 
+a detention may be unreasonable in a particular instance 
+either because the detention itself is improper or because 
+it is carried out in an unreasonable manner.” Franklin vy. 
+
+
+* Plaintiffs also contend that Iris Mena’s detention was so extensive 
+that it constituted an arrest, and that such an arrest was not supported by 
+probable cause. This discrete issue is not before us on appeal. 
+
+
+68a 
+
+
+Foxworth, 31 F.3d 873, 876 (9th Cir.1994); see also Liston v. 
+County of Riverside, 120 F.3d at 977-79. 
+
+
+In Franklin v. Foxworth, this court denied law enforcement 
+officers qualified immunity on an unlawful detention claim. 
+Foxworth, 31 F.3d at 876-78. We held that 
+
+
+A detention conducted in connection with a search 
+may be unreasonable if it is unnecessarily painful, 
+degrading, or prolonged, or if it involved an undue 
+invasion of privacy. Detentions, particularly length, 
+detentions, of the elderly, or of children, or of individu- 
+als suffering from serious illness or disability raise 
+additional concerns. Of course, the presence of any of 
+these factors in an individual case does not establish that 
+the detention is unreasonable per se. Rather, these 
+factors, along with the Graham elements (5! and any 
+other circumstances relevant to an individual case, must 
+be assessed in their totality. 
+
+
+Id. at 876. Applying this standard, the Foxworth court 
+concluded that the police “executed the warrant in an 
+unreasonable manner, first by removing a gravely ill and 
+semi-naked man from his sickbed without providing any 
+clothing or covering, and then by forcing him to remain 
+sitting handcuffed in his living room for two hours rather than 
+returning him to his bed within a reasonable time after the 
+search of his room was completed.” /d. at 876-77. In reach- 
+ing this conclusion, the court reasoned that 
+
+
+None of the officers had any reason to believe, on the 
+basis of the information they had prior to the search or 
+their observations once in the house, that Curry had 
+committed a crime, or that he was armed. In fact, the 
+
+
+> The “Graham elements” are those elements enumerated in Graham v. 
+Connor, 490 U.S. 386, 109 S.Ct. 1865, 104 L.Ed.2d 443 (1989), including 
+the severity of the crime, whether the person being detained poses an 
+immediate threat, and whether the suspect is actively resisting arrest or 
+attempting to flee. /d. at 396, 109 S.Ct. 1865. 
+
+
+69a 
+
+
+officers were not even aware that Curry lived in the 
+house prior to executing the warrant. It should also 
+have been clear to them that Curry was not a gang 
+member. 
+
+
+Id. at 877. 
+
+
+Three years after Foxworth, we decided Liston v. County of 
+Riverside. In Liston, law enforcement officers executed a 
+search warrant for 8293 Saddlecreek Drive, Glen Avon, 
+California. Liston, 120 F.3d at 968. The intended target of 
+the search was James “Rocky” Hill. /d. At the time the 
+warrant was executed, however, Hill no longer resided at the 
+Saddlecreek residence. /d. As a result, the officers mistak- 
+enly detained and searched the home of Jim Liston and his 
+family. /d. 
+
+
+The Listons sued the officers under 42 U.S.C. § 1983 
+arguing, inter alia, that their detention was unreasonable and, 
+thus, in violation of the Fourth Amendment. In evaluating 
+this claim, we discussed Summers and Foxworth and 
+recognized that we must apply a “totality of the circum- 
+stances” test. We held that the officers were not entitled to 
+qualified immunity because 
+
+
+under the Listons’ versions of the facts, the officers 
+continued to detain them long after a reasonable officer 
+would have known that the wrong people were in 
+custody and that the house was no longer owned or 
+occupied by Hill—and, thus, long after there was any 
+reasonable cause for continuing to invade the Listons’ 
+privacy. 
+
+
+Id. at 979. 
+
+
+We conclude that, like Foxworth and Liston, the case at bar 
+may be an example of the “unusual case” contemplated by the 
+Supreme Court in Summers. In the course of executing a 
+warrant—the intended target of which was Raymond 
+Romero—Defendants forcibly removed Iris Mena from her 
+
+
+70a 
+
+
+bed, handcuffed her, brought her into the garage in her 
+sleeping clothes, and forced her to remain there for two to 
+three hours. Because we have now concluded that this search 
+warrant was not invalid, the Summers rule would permit these 
+officers as a matter of law to detain Ms. Mena while “a 
+proper search is concluded.” Summers, 452 U.S. at 705, 101 
+S.Ct. 2587. And, if the jury here should conclude that the 
+officers did have probable cause to search the entire 
+premises—even after discovering that the Mena’s house was 
+a multi-unit residential dwelling as defined in Garrison—then 
+the lawful authority to detain Ms. Mean would continue—and 
+a reasonable officer could so conclude on these facts. 
+However, if the jury should conclude that the officers did not 
+have probable cause to search areas other than (1) Romero’s 
+room, (2) Gonzales’ room, and (3) common areas, then Ms. 
+Mena’s detention rests on a different footing and may be 
+justified only in connection with whatever search the jury 
+concludes to have been “proper.” 
+
+
+Defendants have produced no evidence that Ms. Mena had 
+committed a crime, posed any sort of threat to the officers, or 
+was in any way resisting arrest or attempting to flee. See 
+Graham, 490 U.S. at 396, 109 S.Ct. 1865. In fact, the video- 
+tape footage reveals that Ms. Mena, who was only 18 years 
+old at the time, appeared to be sitting quietly and cooperating 
+with the officers. Nevertheless, the police refused to inform 
+Ms. Mena why she was being detained, called out the INS to 
+question her about her citizenship status, and kept her 
+handcuffed throughout the entire two to three hour detention. 
+
+
+Because a jury could conclude on the totality of these facts 
+and circumstances that Iris Mena’s detention past the point of 
+a proper search violated the Fourth Amendment, we affirm 
+the district court with respect to her unreasonable detention 
+claim. It, too, shall be decided by a trier of fact. 
+
+
+7la 
+D. Conduct During the Search 
+
+
+Next, Plaintiffs assert that the officers violated 42 U.S.C. 
+§ 1983 by conducting the search itself in an unreasonable 
+manner, in particular by callously and needlessly ransacking 
+their home and destroying property. We have held that “offi- 
+cers executing a search warrant occasionally ‘must damage 
+property in order to perform their duty.”” Liston, 120 F.3d at 
+979 (quoting Dalia v. United States, 441 U.S. 238, 258, 99 
+S.Ct. 1682, 60 L.Ed.2d 177 (1979)). Therefore, the destruc- 
+tion of property during a search does not necessarily 
+violate the Fourth Amendment. United States v. Becker, 929 
+F.2d 442, 446 (9th Cir.1991). Rather, “only unnecessarily 
+destructive behavior, beyond that necessary to execute a 
+warrant effectively, violates the Fourth Amendment.” Liston, 
+120 F.3d at 979; see also Becker, 929 F.2d at 446. 
+
+
+Here, Iris Mena testified in her deposition that, during the 
+search, the officers unnecessarily broke down two doors that 
+were unlocked. (“And the door that was in the garage, it was 
+already open, and they broke it anyways. And another room 
+that is right in front of Ray’s room, it was open, too, at that 
+time, and they broke it, too.”). In addition, Ms. Mena testi- 
+fied that she saw Officer Allegra kicking a door on the patio 
+that was already open and saying “I like to destroy these kind 
+of materials, it’s cool.” In light of this testimony, Defendants 
+appear to have damaged Plaintiffs’ property in a way that was 
+“not reasonably necessary to execute [the] search warrant.” 
+Becker, 929 F.2d at 446. Because a reasonable officer would 
+have known that such conduct if proved was unlawful, we 
+affirm the district court. 
+
+
+E. Knock and Announce 
+
+
+Lastly, Plaintiffs claim that Defendants violated the Fourth 
+Amendment by failing to “knock and announce” before 
+forcing entry into their home. Specifically, Plaintiffs argue 
+that, because Iris Mena, who was sleeping in the bedroom 
+
+
+72a 
+
+
+- nearest the front door, was not awakened by the alleged 
+“knock and announce,” the police either did not “knock and 
+announce” at all, or they did not “knock and announce” 
+loudly enough to constitute adequate notice. Defendants 
+respond that, in ract, they did comply with the “knock and 
+announce” requirement and, therefore, are entitled to quali- 
+fied immunity. 
+
+
+The district court denied Defendants’ summary judgment 
+motion on this issue because, in light of Iris Mena’s and the 
+officers’ contradictory testimony, there is an issue of fact as 
+to whether the police announced themselves before forcing 
+entry into the Mena home. We agree that there is, on sum- 
+mary judgment, a triable issue of fact on this question, and 
+affirm the district court. 
+
+
+IV F 
+CONCLUSION 
+
+
+For the foregoing reasons, we affirm the district court, 
+except as to the claim that the warrant itself was on its face 
+overbroad. On this claim, we reverse the district court and 
+remand for the entry of summary judgment in favor of the 
+Appellants. AFFIRMED in part, REVERSED in part, and 
+REMANDED for further proceedings consistent with the 
+views expressed herein. 
+
+
+The parties shall bear their own costs of this appeal. 
+
+

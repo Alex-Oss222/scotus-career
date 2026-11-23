@@ -1,0 +1,1006 @@
+300 F.Supp.2d 291 (2004)
+BLACK POLITICAL TASK FORCE et al., Plaintiffs,
+v.
+William Francis GALVIN, in His Official Capacity as Secretary of the Commonwealth of
+Massachusetts, et al., Defendants.
+No. CIV.A. 02-11190.
+February 24, 2004.
+United States District Court, D. Massachusetts.
+*292 *293 Richard W. Banka, Foley Hoag LLP, Boston, MA, for Black Political Task Force, Brenda Lopes,
+Carmen Pola, Carolyn Ray, Dorothea Jones, Enid Bailey, Flora J. Howard, Horace Small, Jaime Rodriguez,
+James E. Cofield, Jr., Lloyd King, Nancy Cook, Roscoe Morris, Willie M. Hurd, Plaintiffs.
+292
+293
+Mary L. Cataudella, Robinson & Cole, Boston, MA, for William Francis Galvin, Defendant.
+Before SELYA,[*] Circuit Judge, WOODLOCK and PONSOR, District Judges.
+*294 MEMORANDUM AND ORDER
+294
+SELYA, Circuit JUDGE, sitting by designation.
+In the spring of 2001, the Massachusetts legislature (the Legislature) redrew the dimensions of its House and
+00
+97
+00
+97
+Senate districts. The end product of that endeavor  the 2001 Redistricting Act  forms the backdrop for this
+litigation. The plaintiffs, African-American and Hispanic voters, complain that the redistricting scheme, as it
+pertains to House districts in the Boston area, infringes upon rights guaranteed to them by the United States
+Constitution and denies them equal opportunity "to participate in the political process and to elect representatives
+of their choice" in violation of section 2 of the Voting Rights Act (VRA), 42 U.S.C. § 1973(b). After careful
+consideration of the parties' plenitudinous submissions, we conclude that the Redistricting Act deprives African-
+American voters of the rights guaranteed to them by section 2 of the VRA. This conclusion renders it
+unnecessary to decide whether the Redistricting Act also (i) impinges upon the plaintiffs' constitutional rights, or
+(ii) deprives Hispanic voters of the rights guaranteed to them by section 2.[1]
+We start with certain background information and then turn to the merits. At that juncture, we apply the test set
+forth in Thornburg v. Gingles, 478 U.S. 30, 106 S.Ct. 2752, 92 L.Ed.2d 25 (1986), make a series of factual
+findings, and explain why the plaintiffs prevail on their claim that the Redistricting Act infringes upon rights
+protected by section 2 of the VRA. We conclude by discussing the development of an appropriate remedy.
+I. BACKGROUND
+We rehearse, in broad brush, the evolution of the Redistricting Act. Thereafter, we recount the procedural history
+of the litigation.
+A. The Evolution of the Redistricting Act.
+In the wake of the most recent decennial census, the Legislature established a joint special committee on
+redistricting and reapportionment (the Joint Committee) to review existing legislative districts, formulate revisions
+reflecting the increase in the Commonwealth's population from 6,016,425 to 6,349,097 residents, and redraw the
+district lines.[2] This is standard operating procedure, designed to ensure compliance with the one-person, one-
+
+vote requirement of the United States Constitution. See Georgia v. Ashcroft, ___ U.S. ___, ___ n. 2, 123 S.Ct.
+2498, 2516 n. 2, 156 L.Ed.2d 428 (2003) ("When the decennial census numbers are released, States must
+redistrict to account for any changes or shifts in population."); Gray v. Sanders, 372 U.S. 368, 379, 83 S.Ct. 801,
+9 L.Ed.2d 821 (1963) (locating the source of the one-person, one-vote requirement in the Equal Protection
+Clause of the Fourteenth Amendment); see generally Black Political Task Force v. Connolly, 679 F.Supp. 109,
+123-30 (D.Mass.1988) (three-judge court) (outlining relevant public policies vis-à-vis one-person, one-vote
+requirement *295 in connection with 1987 reapportionment of Massachusetts House of Representatives). Insofar
+as state legislative seats were concerned, the Joint Committee functioned as an integrated body in name only:
+the House delegation delineated the 160 new House districts and the Senate delegation independently
+delineated the forty new Senate districts. This case focuses exclusively on the redistricting activities of the House
+delegation (the Committee).
+295
+The Speaker of the House, Thomas M. Finneran, named Representative Thomas M. Petrolati to chair the
+Committee. With the one-person, one-vote requirement in mind, Petrolati and his fellow Committee members
+determined that the ideal population for each House district was 39,682, plus or minus 5%, that is, somewhere
+between 37,698 and 41,666 persons. Aided by a specialized computer software program known as Maptitude,
+they then embarked on the task of shifting the district lines to achieve this numerical goal. The Committee (and
+the House as a whole) apparently was content to leave the heavy lifting to Finneran, Petrolati, their aides, and the
+Committee staff. Finneran and Petrolati kept the process on a short leash.[3] As it evolved, Petrolati met one by
+one with the other 159 members of the House to discuss their concerns. The Committee then held five public
+hearings at divers locations throughout the Commonwealth. Apart from these public hearings, the Committee did
+not meet as a body. Moreover, Petrolati neither solicited nor accepted views from community leaders.
+On October 18, 2001, the Committee filed House Bill No. 4700 (the Committee Plan), which proposed 160
+reshaped House districts. The accompanying report described the Committee's redistricting goals, which included
+complying with the one-person, one-vote requirement, ensuring contiguity and compactness, acknowledging
+communities of interest, and attempting to create "minority influence districts." With regard to this last goal, the
+report explained:
+A number of [the newly proposed] districts in Boston and Springfield contain a sizable majority
+comprising people of color. One proposed district of Boston presently has no incumbent and is
+over two-thirds minority. This increased the chances of there being an additional minority House
+member from the City of Boston.
+The Committee simultaneously wrote to House members, over Petrolati's signature, lauding the "new minority-
+majority district in the Roxbury section of Boston,"[4] touting the fact that it was incumbent-free, and representing
+that minorities composed 68% of its population.
+Just four days later, the House debated the Committee Plan. Various amendments were proposed and some
+were incorporated into the final redistricting scheme (the Enacted Plan). Only one of these amendments is
+00
+97
+relevant here  the so-called Fitzgerald Amendment.
+*296 This amendment had its genesis in Representative Kevin Fitzgerald's vacillation over whether to retire from
+the House. When the Committee drafted its plan, it assumed that Fitzgerald had no interest in running for
+reelection. Consequently, it proceeded to move the residence of Representative Elizabeth Malia from her
+previous district (the 11th Suffolk) to Fitzgerald's home turf (the 15th Suffolk). It then made the 15th Suffolk a
+00
+97
+majority white district and retained the majority minority character of the 11th Suffolk district  the very majority
+minority district heralded in the Committee's report and letter of transmittal.
+296
+During the course of the floor debate, Fitzgerald (who is white) let it be known that, contrary to the Committee's
+assumption, he planned to run for reelection. To facilitate his candidacy, he offered an amendment that had three
+notable effects on the Committee Plan: it returned Malia's residence to the 11th Suffolk district, changed the
+contours of that district so that it would be majority white, and kept the 15th Suffolk as a majority white district in
+which Fitzgerald would be the lone incumbent. The House adopted this amendment, thereby eliminating the
+majority minority district that had been a selling point of the original Committee Plan.[5] Like the other floor
+
+amendments, the Fitzgerald Amendment was reviewed only for compliance with the one-person, one-vote
+requirement before being enacted.
+The Senate adopted the Enacted Plan without substantive debate (we imply no criticism; the House, with equal
+alacrity, embraced the Senate's handiwork). On November 8, 2001, the governor signed the Redistricting Act,
+Chapter 125 of the Acts of 2001, into law.
+B. The Travel of the Case.
+On June 13, 2002, African-American and Hispanic voters filed a complaint in this court challenging the
+Redistricting Act as it applies to House districts in the Boston area.[6] The complaint alleged that the Enacted
+Plan transgressed the Fourteenth and Fifteenth Amendments as well as section 2 of the VRA. The chief judge of
+the First Circuit convened this three-judge panel to hear and determine these claims. See 28 U.S.C. § 2284(a).
+Pretrial discovery proved to be an intensive and demanding process, during which defense witnesses routinely
+invoked the protections of legislative privilege when asked about the inner workings of the redistricting process.
+Despite this impediment, the plaintiffs mustered a sufficient case to warrant a trial. At trial, the plaintiffs attempted
+to show that the Redistricting Act set the boundaries of the House districts in and around Boston in a way that
+impermissibly diluted the voting strength of African-Americans and Hispanics, notwithstanding the growing
+population of these two minority groups; that the Committee failed to provide a reasonable explanation for the
+lines that were *297 drawn; that the Committee deviated from conventional redistricting procedures by, among
+other things, allowing staffers from Speaker Finneran's office to play key roles in the process and refusing to
+consult with minority community leaders; and that the Committee simultaneously packed minority voters into a
+tiny number of districts and splintered the minority vote in other (more variegated) districts in an effort to protect
+white incumbents.
+297
+With respect to this last point, testimony for the plaintiffs focused largely on what they described as the intentional
+packing of the 6th Suffolk House district and the stripping of African-American voters from the 11th, 12th, and
+15th Suffolk districts. The plaintiffs emphasized that, despite the increase in Boston's minority population from
+1990 to 2000 and the concomitant decrease in the white population, the Redistricting Act reduced the number of
+majority minority districts while increasing the number of majority white districts. They proffered two alternate
+redistricting schemes as potential remedies for this alleged imbalance.
+Under Massachusetts law, William F. Galvin, the secretary of state, is charged with the administration and
+oversight of state elections. See Mass. Gen. Laws chs. 50-57. The plaintiffs filed their suit against several
+defendants, including Galvin in his official capacity. After the other defendants were dropped as a result of case
+management determinations, Galvin became the sole defendant. Meanwhile, Petrolati intervened and functioned
+as the legislative defendants' designated representative. As a practical matter, the plaintiffs' grievances are with
+the House leadership. Having that in mind, we henceforth will refer to Galvin and Petrolati as "the defendants."
+Throughout the trial, the defendants maintained that the Enacted Plan provides African-American and Hispanic
+voters with equal opportunities to participate in the political process and to elect representatives of their choice.
+The defendants also disclaimed any intent or purpose to deny the plaintiffs equal voting opportunities on account
+of their race, and provided evidence indicating that incumbency protection was the driving force behind the
+drawing of the district lines. Finally, the defendants urged us to refrain from engaging in an unnecessary
+"tinkering exercise" because the Enacted Plan furnishes African-American and Hispanic voters with electoral
+opportunities that are no worse than "roughly proportional" to their percentage of the relevant population.
+Both sides presented extensive expert testimony in support of their respective positions. Following prolific briefing
+and final arguments, we took the matter under advisement. This memorandum comprises our findings of fact and
+conclusions of law.
+
+II. ANALYSIS
+Section 2 of the Voting Rights Act provides in pertinent part:
+(a) No voting qualification or prerequisite to voting or standard, practice, or procedure shall be
+imposed or applied by any State or political subdivision in a manner which results in a denial or
+abridgement of the right of any citizen of the United States to vote on account of race or color ...
+(b) A violation of subsection (a) of this section is established if, based on the totality of
+circumstances, it is shown that the political processes leading to nomination or election in the
+State or political subdivision are not equally open to participation by members of a class of citizens
+protected by subsection (a) of this section in that its members have less opportunity than other
+members of the electorate to participate in the political *298 process and to elect representatives
+of their choice.
+298
+42 U.S.C. § 1973 (emphasis supplied). To prevail under this statute, plaintiffs need not establish that the
+Legislature acted with a discriminatory purpose; it suffices to prove that the contested standard, practice, or
+procedure has a discriminatory effect. Bush v. Vera, 517 U.S. 952, 976, 116 S.Ct. 1941, 135 L.Ed.2d 248 (1996); 
+Gingles, 478 U.S. at 35-36, 106 S.Ct. 2752. We caution, however, that section 2 does not turn electoral politics
+into an elaborate series of quotas. Despite its focus on results, the statute does not create a right to have
+members of a protected class actually elected in numbers equal to their proportion of the population. Johnson v.
+De Grandy, 512 U.S. 997, 1014 n. 11, 114 S.Ct. 2647, 129 L.Ed.2d 775 (1994). It merely guarantees minorities a
+level playing field, that is, an opportunity for victory at the polls equal to the opportunity enjoyed by others. 
+Vecinos De Barrio Uno v. City of Holyoke, 72 F.3d 973, 979 (1st Cir.1995).
+Although relieved of the burden of proving intentional discrimination, plaintiffs who bring section 2 challenges still
+face formidable hurdles. In Gingles, the Supreme Court limned three threshold conditions that must be fulfilled in
+order to mount a successful vote dilution claim. First, the plaintiffs must demonstrate that they are part of a
+minority group that is "sufficiently large and geographically compact to constitute a majority in a single-member
+district." 478 U.S. at 50, 106 S.Ct. 2752. Second, they must show that the group is "politically cohesive." Id. at 51,
+00
+97
+106 S.Ct. 2752. Third, they must prove "that the white majority votes sufficiently as a bloc to enable it  in the
+00
+97
+absence of special circumstances, such as the minority candidate running unopposed  usually to defeat the
+minority's preferred candidate." Id. (citation omitted).
+Plaintiffs who satisfactorily complete this three-step pavane are not home free. Gingles demands a further sifting
+of relevant facts. This wide-ranging inquiry must dig into the totality of the circumstances, starting with the litany
+of factors delineated in the Senate report that accompanied passage of the 1982 amendments to section 2. Id. at
+43-46, 106 S.Ct. 2752. The list includes (i) the extent of any history of official discrimination at the polls in the
+relevant jurisdiction; (ii) the frequency with which members of the minority group have been elected to public
+office in that jurisdiction; (iii) the presence of voting practices or procedures that stand as obstacles to minority
+participation; (iv) the extent to which members of the minority group must endure the effects of discrimination in
+such fields as education, employment, and health care; (v) the level of responsiveness exhibited by elected
+officials vis-à-vis the particular needs of the minority group; and (vi) the magnitude of racially polarized voting
+within the relevant jurisdiction. See S.Rep. No. 97-417, at 28-29 (1982), reprinted in 1982 U.S.C.C.A.N. 177,
+206-07.
+Comprehensive as this compendium may appear, it is not exclusive; other factors may be equally instructive in
+00
+97
+particular cases. One such factor is proportionality  the relationship between the number of majority minority
+voting districts and the minority group's share of the relevant population. De Grandy, 512 U.S. at 1000, 1014 n.
+11, 114 S.Ct. 2647
+00
+97
+. Another is related to causation  the extent to which influences apart from racial bias may
+have caused the white bloc voting identified by the third prong of the Gingles formulation. See Vecinos, 72 F.3d at
+983 & n. 4 (noting that other possible influences may include "organizational disarray, lack of funds, want of
+campaign experience, the unattractiveness of particular candidates, or the universal popularity of an opponent").
+299
+
+*299 When all is said and done, the critical issue in a vote dilution case is whether the challenged districting
+scheme deprives minority voters of an equal opportunity to participate in the electoral process and to elect
+candidates of their choice. Id. at 980. In the pages that follow, we conduct our assessment of the plaintiffs' case,
+using the Gingles framework.
+A. Numerosity.
+The overarching purpose of the first Gingles precondition is to ensure that, in the absence of the challenged
+practice, procedure, or structure, the minority group would have the potential to elect a representative of its
+choice in the relevant political subdivision. See Growe v. Emison, 507 U.S. 25, 40, 113 S.Ct. 1075, 122 L.Ed.2d
+388 (1993) (extending the Gingles rubric to single-member districts); see also Gingles, 478 U.S. at 50 n. 17, 106
+S.Ct. 2752 (observing that without this showing, the plaintiffs cannot claim to have been injured by the challenged
+practice, procedure, or structure). In a vote dilution case, this showing requires the plaintiffs to demonstrate that
+an effective and feasible remedy exists. Typically, this demonstration is accomplished by proffering an alternative
+plan that contains more than the existing number of reasonably compact districts with minority populations large
+enough to elect minority-preferred candidates. See, e.g., De Grandy, 512 U.S. at 1008, 114 S.Ct. 2647. An
+inquiring court normally will use the plaintiffs' alternative plan as a benchmark against which to take the measure
+of the challenged scheme. See Holder v. Hall, 512 U.S. 874, 880, 114 S.Ct. 2581, 129 L.Ed.2d 687 (1994).
+At first blush, this aspect of the Gingles test seems fairly straightforward. Appearances can be deceiving,
+however, and courts have struggled with a host of complexities implicated by its formulation. Although we need
+not catalogue all of these complexities, a few of them are of particular pertinence here, and, thus, deserve further
+elaboration.
+We note, first, that the Supreme Court has explicitly declined to resolve whether plaintiffs may satisfy the first
+prong of Gingles with evidence that the minority group, although not comprising an absolute majority of the
+population within a given district, nevertheless wields enough influence that it usually will be able to elect
+candidates of its choice with the help of crossover votes. See, e.g., De Grandy, 512 U.S. at 1008-09, 114 S.Ct.
+2647 (leaving this question open); Voinovich v. Quilter, 507 U.S. 146, 154, 113 S.Ct. 1149, 122 L.Ed.2d 500
+(1993) (same); Growe, 507 U.S. at 41 n. 5, 113 S.Ct. 1075 (same). Because this issue is not outcome-
+determinative in this case, we assume, arguendo, the correctness of the bright-line rule followed by most courts:
+a minority population is sufficiently large to constitute a "majority" for the purposes of the first Gingles
+precondition only if it comprises more than 50% of the relevant population in the affected district. See, e.g., 
+Valdespino v. Alamo Heights Indep. Sch. Dist., 168 F.3d 848, 852-53 (5th Cir.1999); Cousin v. Sundquist, 145
+F.3d 818, 828-29 (6th Cir.1998); McNeil v. Springfield Park Dist., 851 F.2d 937, 943-45 (7th Cir.1988); Parker v.
+Ohio, 263 F.Supp.2d 1100, 1104-05 (S.D.Ohio) (three-judge court), aff'd mem., ___ U.S. ___, 124 S.Ct. 574, 157
+L.Ed.2d 426 (2003).
+This does not mean that the existence of such "influence" or "crossover" districts is entirely inconsequential to the
+case; they are relevant in assessing the totality of the circumstances, see Vecinos, 72 F.3d at 979 n. 2, 990-91,
+and we shall return to them in that setting. However, we reject the defendants' effort to use influence or crossover
+districts as a means of undercutting the plaintiffs' showing on the first Gingles precondition (by, for example, *300
+pointing to districts with African-American populations just under the 50% line to boost the number of "effective"
+majority minority districts created by the Enacted Plan). These concerns are adequately accounted for not only in
+addressing the totality of the circumstances but also in the analysis required by the third Gingles precondition.
+After all, if African-American voters are in fact able to convert influence or crossover districts into "effective"
+majority minority districts, this circumstance should result in the plaintiffs' failure to prove that majority white bloc
+voting regularly operates to defeat the preferred candidate of African-American voters.
+300
+A second unresolved issue is whether, in determining the size of the minority group in a particular district, a court
+should concern itself with the percentage of the minority population that is simply of voting age (VAP) or the
+percentage of the minority population that is composed of citizens who are of voting age (CVAP). To date, the
+Supreme Court has refrained from choosing between these indices. See De Grandy, 512 U.S. at 1021 n. 18,
+1023, 114 S.Ct. 2647 (forgoing a decision between VAP and CVAP in assessing proportionality, but using VAP
+
+figures); cf. Growe, 507 U.S. at 38 n. 4, 113 S.Ct. 1075 (declining to choose between total population and VAP).
+Although the First Circuit has not spoken directly to the point, other courts of appeals lately have tended to
+support the use of CVAP data, at least when that data is readily available and its use is not contraindicated by
+other circumstances. See, e.g., Perez v. Pasadena Indep. Sch. Dist., 165 F.3d 368, 372 (5th Cir.1999); Negrón v.
+City of Miami Beach, 113 F.3d 1563, 1568-69 (11th Cir.1997); see also Barnett v. City of Chicago, 141 F.3d 699,
+704-05 (7th Cir.1998) (stating, in dictum, that CVAP is the proper yardstick for measuring proportionality in a
+section 2 vote dilution case).
+The cardinal purpose of the first Gingles precondition is to determine whether minority voters have the potential
+to elect preferred candidates. See Gingles, 478 U.S. at 50 n. 17, 106 S.Ct. 2752 (referring to the potential of
+minority voters to elect representatives). Because non-citizens cannot vote (or even register to vote), the use of
+CVAP data, when and where available, seems more concinnous than the use of VAP data. Here, however, we
+need not make a definitive choice. For one thing, no one has pointed to any material differences in the available
+VAP and CVAP figures for African-Americans in Boston and, according to the defendants' expert, non-Hispanic
+whites and non-Hispanic blacks register to vote at similar rates (56% and 57% of the voting age population,
+respectively). For another thing, VAP figures may be unreliable when analyzing Hispanic populations, where
+there are greater numbers of recent immigrants, see Negrón, 113 F.3d at 1568, but there is no serious reason to
+believe that they are less reliable when analyzing African-American populations.[7] Then, too, the Legislature
+used only VAP data in drawing the Enacted Plan, and the parties have provided only VAP data for certain
+analyses (e.g., the second and third Gingles preconditions). For these reasons, we employ VAP data in our
+ensuing analyses. We note, however, that we would reach the same result vis-à-vis the first Gingles precondition
+utilizing either set of data (VAP or CVAP).
+*301 A third unresolved issue concerns the appropriate method of characterizing voters as members of a
+particular race. Unlike previous censuses, the 2000 census permitted interviewees to identify themselves as
+members of more than one race. This means that there are now two different methods for assigning persons to
+00
+97
+00
+97
+racial groups. Under the first method  referred to as the "alone" method  a person who has identified himself or
+herself only as "black" will be counted as black, but a person who has checked both the box for "black" and the
+00
+97
+box for, say, "Asian" will be counted only as multiracial. Under the second method  referred to as the "combined"
+00
+97
+or "combo" method  a person who has identified himself or herself as a member of more than one race will be
+counted in every such category (in our earlier example, the responder will be counted as both black and Asian).
+The plaintiffs urge us to use the alone method because it avoids an overcount (by placing an individual voter in
+two or more racial categories, the combo method results in totals exceeding 100% of actual responders) while
+the defendants urge us to use the combo method because it is more comprehensive in its representation of voter
+identities (it places in any given racial category everyone who considers himself or herself a member of that
+race). This is a recent development in election law and the jurisprudence is embryonic. The Supreme Court
+appears to have employed combo (or combo-like) data in Georgia v. Ashcroft, 123 S.Ct. at 2507 n. 1, but it did so
+with regard to a section 5 preclearance claim, not a section 2 vote dilution claim, and we regard the question as
+open. Indeed, there may well be no single rule; context and the availability of data may determine which method
+best reflects the realities of a specific situation.
+301
+In all events, the circumstances of this case render it unnecessary to choose one method over the other. As the
+defense acknowledged, through its expert witness and in its trial brief, there are no great differences in this case
+between the two data sets, at least insofar as the second and third Gingles preconditions are concerned.[8]
+Accordingly, we will provide both sets of data with respect to the first Gingles precondition in order to demonstrate
+that the choice is not outcome-determinative. As for the remaining Gingles preconditions and the totality of the
+circumstances, we will use an admixture of alone and combo data, determined primarily by the form in which the
+parties have furnished relevant data to us.
+We turn now to the proof on the first Gingles precondition. At trial, the plaintiffs established that the African-
+00
+97
+00
+97
+American population in Suffolk County  which encompasses all of the city of Boston and a few environs  is
+sufficiently large and compact to allow for the creation of more majority black districts than currently exist. Using
+the alone method, the Enacted Plan provides for one majority black district in Suffolk County (the 6th) whereas
+00
+97
+00
+97
+Plan No.2  which we deem to be the more useful of the plaintiffs' two submissions  provides for two majority
+
+black districts (the 6th and the 12th). Using the combo method, the Enacted Plan provides for three majority black
+districts in Suffolk County (the 5th, 6th, and 12th) whereas Plan No. 2 provides for the same three majority black
+districts plus a fourth (the 11th).
+*302 We enumerate the specifics needed to support these conclusions in Appendix A (attached hereto and
+incorporated by reference herein). We note, moreover, that the plaintiffs would be equally successful in proving
+the first Gingles precondition if we were to use CVAP data instead of VAP data. See Appendix B (attached hereto
+and incorporated by reference herein). To cinch matters, the districts illumined in Plan No. 2 are compact, meet
+applicable standards of contiguity, and comply fully with the one-person, one-vote requirement.
+302
+The defendants' counter-arguments are unpersuasive. First, they insist that the proper benchmark for the first 
+Gingles precondition is the plan initially offered by the plaintiffs (the so-called Harmon Plan), not Plan No. 2. In
+this respect, the defendants lament that they first became aware of Plan No. 2 after the close of discovery. They
+add that they received critical documents relating to this new plan only two weeks before trial began.
+Their argument is unconvincing. In the first place, the defendants have shown no unfair surprise; Plan No. 2 is
+simply a new iteration of data long in the defendants' possession. Perhaps more importantly, in requiring plaintiffs
+"to demonstrate that [the minority group] is sufficiently large and geographically compact to constitute a majority
+in a single-member district," Gingles, 478 U.S. at 50, 106 S.Ct. 2752, the Court focused on the potential of
+minority voters to elect representatives of their choice in some hypothetical district, see Vecinos, 72 F.3d at 979.
+While plaintiffs must offer an alternative plan, they may do so, with leave of the court, at any time up to the end of
+trial. Cf. Barnett, 141 F.3d at 702 ("The plaintiff is not required to propose an alternative map that is `final' in the
+`final offer' arbitration sense, where the parties cannot modify their offers once they have denominated them final
+...."). Had the defendants so desired, they too could have processed the census data and discovered, early in the
+redistricting effort, the possibility of creating an additional majority black district.
+The defendants' second counter-argument attacks Plan No. 2 frontally. This plan, the defendants aver, fails to
+show that African-American voting opportunities would be "significantly diminished" if the Enacted Plan were to
+remain in effect. Since two of the majority black districts configured by Plan No. 2 fall just over the 50% mark (at
+least when one uses VAP data and the combo method) and one of the Enacted Plan's districts falls slightly under
+that mark (42.59%, using the same data and method), they asseverate that Plan No. 2 does precious little to
+enhance African-American voting opportunities in Suffolk County.
+We reject this reasoning. Even were we prepared to indulge the defendants' ipse dixit that 42.59% is "only
+somewhat under the line," the defendants' argument overlooks that neither the Supreme Court nor the First
+Circuit has held that the first Gingles precondition is concerned with districts that fall under the 50% majority
+minority cutoff point. Moreover, the Gingles line of cases only requires plaintiffs to show the feasibility of one
+additional majority minority district. See Vecinos, 72 F.3d at 985-86. The plaintiffs have cleared that hurdle here.
+We find, therefore, that the plaintiffs have carried the devoir of persuasion with regard to the first prong of 
+Gingles.
+B. Cohesiveness and Bloc Voting.
+The second and third Gingles preconditions demand slightly different analyses of substantially similar data. For
+that reason, we think it convenient to discuss them together. We remain aware, however, that each of the two
+inquiries serves a distinct purpose.
+*303 The second Gingles precondition focuses on cohesiveness. It measures the potential of minority voters to
+elect representatives of their choice were they presented with an ideally configured district. The premise is that
+unless a minority group is politically cohesive, it will not have the voting strength necessary to achieve electoral
+success, notwithstanding favorable numbers. See Growe, 507 U.S. at 40-41, 113 S.Ct. 1075; Gingles, 478 U.S.
+at 51, 106 S.Ct. 2752.
+303
+The third Gingles precondition focuses on majoritarian bloc voting. It delves into the cause of minority voters' lack
+of success in existing districts. The premise is that if a majority group votes sufficiently as a bloc to enable it to
+
+impose its will and defeat minority-preferred candidates most of the time, the challenged practice, procedure, or
+structure is likely to be a cause of the minority group's impotence at the polls. See Growe, 507 U.S. at 40-41, 113
+S.Ct. 1075; Gingles, 478 U.S. at 51, 106 S.Ct. 2752.
+To satisfy the second and third preconditions, plaintiffs typically offer statistical evidence detailing the voting
+patterns of racial groups in past elections. True to this profile, the plaintiffs' expert, Dr. Richard Engstrom,
+presented the results of his analysis of four Boston City Council elections, one city-wide district attorney election,
+and two Democratic primaries for House seats. The defendants countered with the testimony of Dr. Harold
+Stanley, who undertook to analyze the results of several House races (involving a mix of primary and general
+election match-ups) and one city-wide district attorney contest. We found both experts knowledgeable and both
+used accepted analytic tools, such as regression and homogeneous precinct analyses. See Gingles, 478 U.S. at
+52-53, 106 S.Ct. 2752 (endorsing both of these analytic approaches). Dr. Engstrom also employed a third
+00
+97
+methodology, known as ecological inference  but we have chosen to focus our attention on the two more
+conventional types of analysis.
+Under the best of circumstances, combing through columns of statistical data is a daunting task for those of us
+untrained in the finer points of an admittedly arcane science. Maintaining a focus on the inquiries posed by the
+second and third Gingles preconditions makes the task more manageable.
+Refined to bare essence, the second precondition (political cohesion) asks whether the electoral data exhibits
+clear voting preferences on the part of the minority group (here, African-Americans). Id. at 56, 106 S.Ct. 2752 ("A
+showing that a significant number of minority group members usually vote for the same candidates is one way of
+proving the political cohesiveness necessary to a vote dilution claim ...."). The third precondition (white bloc
+voting) requires a four-step inquiry: a court must (i) identify the candidates most preferred by the minority group;
+(ii) observe whether the white majority votes as a bloc for other candidates; (iii) determine whether the white bloc
+vote is of a magnitude that usually suffices to defeat minority-preferred candidates; and (iv) assess whether any
+of the electoral results should be discounted because of special circumstances. Id. at 56-57, 106 S.Ct. 2752; cf. 
+Jenkins v. Manning, 116 F.3d 685, 691 (3d Cir.1997) (outlining a similar inquiry but dividing it into three, rather
+than four, parts).
+Although the bulk of the analysis necessarily functions at the level of individual elections, courts must be careful
+not to become preoccupied with the trees and thereby lose sight of the forest. The ultimate answer to the
+question of whether racially polarized voting exists to a significant degree will crystallize only after the court steps
+back to view the landscape as a *304 whole. Although the number of elections that must be studied will vary from
+case to case, the Supreme Court has cautioned that a pattern of polarized voting extending over a period of time
+is customarily more probative than the results of any single election. Gingles, 478 U.S. at 57 & n. 25, 106 S.Ct.
+2752; accord Vecinos, 72 F.3d at 984 (explaining the need to examine voting practices over time because "[i]n
+this enlightened day and age, bigots rarely advertise an intention to engage in race-conscious politics"). Above
+all, an inquiring court should resist the temptation to confine itself to raw numbers in a particular election, instead
+endeavoring to make a practical, commonsense appraisal of all the evidence. Vecinos, 72 F.3d at 989. With
+these precepts in mind, we begin our evaluation of the data.
+304
+1. The Multi-Race Endogenous Elections. After having conducted an exhaustive review of the case law and the
+circumstances of this litigation, we conclude that the most probative elections for our purposes are likely to be
+multi-race endogenous elections. By multi-race, we mean those elections in which at least one white candidate
+vied for office against at least one African-American candidate. By endogenous, we mean House elections in the
+seventeen affected Suffolk County districts.
+Our decision to accord more weight to multi-race elections is supported not only by common sense but also by
+the case law. See Rural West Tenn. African American-Affairs Council v. Sundquist, 209 F.3d 835, 840-41 (6th
+Cir.2000) (approving a decision to accord greater weight to results of black-versus-white elections); Jenkins, 116
+F.3d at 692, 694-95 (affirming a decision to discount same-race elections); Westwego Citizens for Better Gov't v.
+City of Westwego, 872 F.2d 1201, 1208 n. 7 (5th Cir.1989) ("[T]he evidence most probative of racially polarized
+voting must be drawn from elections including both black and white candidates."); see generally Vecinos, 72 F.3d
+at 988 n. 8 ("[E]lections in which minority candidates run are often especially probative on the issue of racial bloc
+voting."). We understand that black voters sometimes may consider a white candidate their representative of
+
+choice and vice-versa. If no candidate of the voter's race is in the field, however, that support may well represent
+something less than a true preference. Cf. Gingles, 478 U.S. at 68, 106 S.Ct. 2752 (plurality op.) (stating, as a
+fact, "that race of voter and race of candidate is often correlated"). Indeed, the choice presented to minority
+voters in an election contested only by two white candidates is somewhat akin to offering ice cream to the public
+in any flavor, as long as it is pistachio.
+The VRA focuses on the opportunity of minority voters to elect representatives of their choice, and we believe
+that this opportunity is best and most easily measured in elections that offer black voters the chance to support a
+viable black candidate against a viable white candidate.[9]See Sanchez v. Colorado, 97 F.3d 1303, 1317 n. 24
+(10th Cir.1996). At the same time, we recognize the obvious: in most instances, the best indicator of how voting
+operates in a particular type of election is how voting historically has operated in that type of election. See Rural
+West Tenn., 209 F.3d at 841; Johnson v. Hamrick, 196 F.3d 1216, 1222 (11th Cir.1999); see also Vecinos, 72
+F.3d at 990 (suggesting that, in *305 general, endogenous elections are more probative than exogenous
+elections). Consequently, we focus initially on multi-race endogenous elections.
+305
+We commence our canvass of this electoral subset with the 1994 Democratic primary election in what was then
+the 5th Suffolk House district. The evidence shows that black voters preferred the black candidate (Golar-Richie)
+while white voters preferred the white candidate (Roman). Golar-Richie prevailed. On these facts, it appears that
+racially polarized voting existed, but that white bloc voting lacked the muscle to defeat the black-preferred
+candidate.
+In a typical district, these results would supply evidence tending to establish the second Gingles precondition and
+to defeat the third. But the 5th Suffolk, as it existed in 1994, was not a typical district. Rather, it was a majority
+black district in which African-Americans comprised 50.87% of the VAP (based on 1990 census figures). This
+constitutes a special circumstance that robs the election of any probative force with respect to the third Gingles
+precondition. After all, it should come as no surprise that a black-preferred candidate was successful in a majority
+black district with racially polarized voting, which is why Gingles's third prong directs the court's attention to those
+districts in which there is a white majority. See Gingles, 478 U.S. at 51, 106 S.Ct. 2752; see also Growe, 507 U.S.
+at 40, 113 S.Ct. 1075 (explaining that a showing of white bloc voting is "needed to establish that the challenged
+districting thwarts a distinctive minority vote by submerging it in a larger white voting population"); cf. De Grandy,
+512 U.S. at 1003-04, 114 S.Ct. 2647 (indicating that standard bloc-voting analysis must give way "in a district
+where a given minority makes up a voting majority").
+In sum, we believe that the results of this election support the plaintiffs' allegation that African-Americans in
+Boston are politically cohesive without in any way contradicting their allegation that white bloc voting usually
+serves to defeat black-preferred candidates in majority white districts. See Old Person v. Cooney, 230 F.3d 1113,
+1122 (9th Cir.2000) (concluding that a district court erred in drawing "no distinction between jurisdictions in which
+Indian voters constitute a majority of the voting age population, and those jurisdictions in which white voters were
+in the majority" while analyzing the third Gingles precondition).
+We turn next to the 1996 Democratic primary election in the same district. This election was largely a reprise of
+the 1994 primary. African-American voters preferred Golar-Richie, white voters preferred Roman, and Golar-
+Richie won. For the reasons explicated above, we conclude that these results constitute evidence of political
+cohesiveness among African-American voters, but do not speak to the existence vel non of legally significant
+white bloc voting.
+The 2002 general election for the House seat in the 5th Suffolk district pitted a black candidate (St.Fleur) against
+a white candidate (Chaparro). In this election, both black and white voters favored St. Fleur (who ran on the
+Democratic ticket) over Chaparro (who ran as an independent).
+Here, too, we are satisfied that special circumstances explain the success of the black-preferred candidate (and,
+therefore, that the results of this election have scant probative value). The reasoning that led us to discount the
+prior two elections does not apply to this contest. The election occurred in 2002 and the Enacted Plan had
+revised the district lines. As such, the district had 49.73% black VAP on the alone method and a 55.93% black
+VAP on the combo method. Although these estimates *306 leave us uncertain whether the district fairly can be
+00
+97
+characterized as a majority black district, the political climate in Boston  an area in which the vast majority of
+306
+
+00
+97
+citizens vote Democrat  makes general election results unreliable barometers of the second and third Gingles
+preconditions. Based on election statistics compiled by the Elections Division of the Office of the Massachusetts
+Secretary of State, we take judicial notice, Fed.R.Evid. 201, of the fact that no Republican, independent, or third-
+party candidate has been elected to the House from a representative district wholly or partly within Boston since
+1992. Prior to the election of Representative Althea Garrison in that year, none had been elected since 1970.
+Because political allegiance can be a tie that binds every bit as much as race, a determination that black and
+white voters in Boston preferred the Democratic candidate at a general election is hardly news. In our estimation,
+that fact says less about race than about partisan politics.
+The relationship between race and party politics is a complicated matter and the removal of partisanship from the
+equation helps to isolate race for purposes of a vote dilution inquiry. See Sanchez, 97 F.3d at 1317 n. 25 (noting
+that analysis of Democratic primary elections helps counter the argument that, in a heavily Republican district,
+"Hispanics don't lose elections, Democrats do"). For this reason, we deem the results of this election
+unilluminating.
+This brings us to the 1998 House primary in the 9th Suffolk district. In this race, two white candidates (Branson
+and Walsh) ran against an African-American candidate (Rushing). Rushing proved to be the preferred candidate
+of both black and white voters. The rub, however, is that by the time of the 1998 primary, Rushing was an eight-
+term incumbent who had served in the House for sixteen years. Incumbency is a special circumstance that must
+be weighed, sometimes heavily, in assaying the probative value of election results. See Gingles, 478 U.S. at 60,
+106 S.Ct. 2752; Old Person v. Brown, 312 F.3d 1036, 1048 n. 13 (9th Cir.2002), cert. denied, ___ U.S. ___, 124
+S.Ct. 566, 157 L.Ed.2d 429 (2003). Consequently, we decline the defendants' invitation to treat this election as
+disproving the plaintiffs' allegation that legally significant white bloc voting exists in Boston.
+The 2000 general election in the same House district is no more helpful. Both black and white voters preferred
+the black incumbent, Rushing, who won over his white opponent (Ashcroft) in a landslide. We discount this result
+both because of Rushing's long-time incumbency and because he had the Democratic nomination (Ashcroft ran
+as a Libertarian).
+In 2002, there were three candidates in the Democratic primary in the 11th Suffolk House district. Two were white
+(Malia and McLaughlin) and one was black (Payne-Thompson). The statistical evidence satisfies us that Malia,
+who won the election, was the preferred candidate of white voters. The record is tenebrous, however, as to which
+candidate African-American voters preferred because the best available regression analysis produced a negative
+roll-on. A roll-on is the percentage of a particular group's voters estimated to have cast a ballot in the contest. A
+negative roll-on shows that voters in the studied subgroup chose, in large numbers, not to vote for any candidate
+in the election in question. Thus, a negative roll-on is a powerful indicator that no candidate in the race was that
+subgroup's candidate of choice. Given the negative roll-on for African-Americans here, we conclude that this
+factor renders unreliable the estimates of how black votes were cast.
+*307 In 1990, two white candidates (Finneran and Bennett) ran against a black candidate (Johnson) in the
+Democratic primary for the House seat in the 12th Suffolk district. Both white and black voters preferred Finneran
+00
+97 a legendary political powerhouse who became Speaker of the House of Representatives a few years later.
+Although the election results tend to argue against racial polarization, they constitute rather weak proof in the
+circumstances of this case.
+307
+The final election in this grouping is the 2002 general election in the 15th Suffolk House district. This three-way
+00
+97
+race involved an Hispanic candidate (Sanchez  who had the Democratic endorsement), a black candidate
+(Chidi, who ran as an independent), and a white candidate (Clifford, who also ran as an independent). Although
+white voters preferred Sanchez, we cannot draw any reliable conclusions from these results because regression
+analysis produced a negative roll-on estimate for the African-American vote.
+This concludes our survey of the results of the multi-race endogenous elections. For our purposes, the 1994 and
+1996 primary elections in the former 5th Suffolk House district tend to prove that African-Americans vote as a
+politically cohesive group. Apart from that, the results are largely uninformative. Accordingly, we find it necessary
+to turn to multi-race exogenous elections as the next best available source of evidence to help us discern
+whether a pattern of racially polarized voting exists in Boston.
+
+2. Multi-Race Exogenous Elections. In the absence of a sufficient number of useful multi-race endogenous
+elections, the next most fertile field is composed of multi-race exogenous elections. By this, we mean those
+elections in which at least one black candidate competed against at least one white candidate for an elected
+office (other than a House seat) in the general geographic area involved in the plaintiffs' vote dilution challenge.
+Courts, as a matter of discretion, have the authority to consider exogenous elections when faced with a paucity of
+meaningful endogenous elections. See, e.g., NAACP v. Fordice, 252 F.3d 361, 370-71 (5th Cir.2001); Askew v.
+City of Rome, 127 F.3d 1355, 1381 n. 13 (11th Cir.1997) (per curiam); Cano v. Davis, 211 F.Supp.2d 1208, 1235
+(C.D.Cal.2002) (three-judge court) (per curiam). They must, however, furnish explanations for why particular
+exogenous elections reveal reliable information about relevant voting patterns. Vecinos, 72 F.3d at 990.
+The affected area here is Suffolk County (and, in particular, Boston). The plaintiffs urge us to consider several
+exogenous elections as evidence of African-American political cohesion and white bloc voting. Specifically, they
+point to four at-large Boston City Council elections and one race for Suffolk County district attorney.
+The defendants argue strenuously against consideration of these exogenous elections. They contend that the
+different circumstances surrounding the elections render the retrieved data of dubious value in a vote dilution
+case designed to test the composition of the House of Representatives.
+This argument has a patina of plausibility. The dynamics of the proffered exogenous elections are somewhat
+different than those of House elections. For instance, Boston City Council elections are non-partisan, certain
+candidates run city-wide for four at-large seats instead of district by district, and each voter may cast up to four
+votes for those seats.[10] The Suffolk County *308 district attorney election also differs from a prototypical House
+election. Although that election is partisan and involves only a single vote for a single office, the political
+subdivision is slightly different; whereas the plaintiffs' vote dilution claim concentrates on those House districts
+that lie at least partly within the city of Boston, the district attorney election involves votes from all over Suffolk
+County (a region that includes Boston, Chelsea, Revere, and Winthrop, and, more to the point, includes two
+Suffolk County House districts that are not within the scope of the plaintiffs' challenge). The district attorney
+election is also different in that it does not include votes from Milton (although Milton is in Norfolk County, the
+Committee tacked several precincts from that community onto Speaker Finneran's 12th Suffolk district). And,
+finally, all of the exogenous elections that the plaintiffs urge us to consider may differ from House elections in
+terms of more amorphous factors (e.g., the importance that voters assign to the office or the campaign strategy
+that a candidate is likely to employ).
+308
+In the end, however, we think that the similarities between the proffered exogenous elections and the elections at
+issue in this case are sufficiently compelling to outweigh the differences. Both sets of elections are for offices with
+comparable levels of importance within the community. They concern much the same constituencies, and we
+believe that there is a considerable measure of truth in Dr. Engstrom's observation that racially polarized voting
+rarely stops at electoral borders. Thus, we are confident that an in-depth consideration of the multi-race
+exogenous elections may allow us to glean meaningful insights into the voting patterns and preferences of
+Boston-area residents. We turn, then, to those elections. As we do so, we note that although the defendants have
+scoffed at the probative value of these elections, they have not seriously questioned the accuracy or integrity of
+the plaintiffs' regression analysis.
+We begin with the 1995 councilmanic election. There, a black candidate (Jones) and seven white candidates
+competed for four at-large seats. Jones received over 81% of the black vote,[11] and the correlation coefficients
+indicate political cohesion among African-American voters. However, Jones received only 20% of the non-
+minority vote[12]
+00
+97
+ and he failed to win a seat. In our judgment, the results of this election  Jones ranked first
+00
+97
+among black voters but last among white voters  evince both a pattern of cohesive black voting and a pattern of
+majoritarian bloc voting sufficiently strong to defeat the black-preferred candidate.
+The results of the 1997 councilmanic election reinforce these findings. There, a lone black candidate (Jones)
+faced seven white candidates in a race for four available seats. Jones received 88.5% of the black vote and was
+the most prolific vote-getter in that segment of the community. Not surprisingly, the correlation coefficients once
+again indicate political cohesion among African-American voters. Jones nonetheless failed to finish in the top four
+
+(and, hence, lost the election), receiving only 27.8% of the non-minority vote (ranking *309 as the sixth most
+popular candidate among non-minority voters). We find that this election provides additional evidence of both
+cohesive African-American voting and majoritarian bloc voting powerful enough to defeat a black-preferred
+candidate.
+309
+The results of the 2002 election for Suffolk County district attorney militate in the plaintiffs' favor. In this contest, a
+black candidate (Jenkins) ran against a white candidate (Conley).[13] Jenkins received 99.6% of all African-
+American votes and the correlation coefficients indicate a very high degree of political cohesion among African-
+American voters. Jenkins nonetheless failed to win election because he received only 22.1% of the non-African-
+American vote.[14] The results of this election exhibit both African-American cohesiveness and white bloc voting
+sufficiently staunch to defeat the black-preferred candidate. We give diminished weight to the indication of legally
+significant white bloc voting, however, as Conley ran as an incumbent (he had been appointed to fill a vacancy)
+and carried the Democratic party's endorsement. As we already have explained, see supra Part II(B)(1), the
+Democratic imprimatur has been a salient factor in general elections held within Suffolk County. Incumbency, too,
+usually helps to propel a candidacy.
+We also have examined the results of two multi-race exogenous elections touted by the defendants: the 2003
+councilmanic election and the 1994 election for Suffolk County district attorney. The first of these witnessed two
+black candidates, an Hispanic candidate, and five white candidates vying for four at-large city council seats. The
+Hispanic candidate (Arroyo) was elected with 76.1% of the black vote and 38.4% of the non-minority vote,
+ranking him first among black voters and fifth among non-minority voters. The correlation coefficients for this
+election indicate the presence of political cohesion among black voters. The white vote, however, was sufficiently
+scattered that it did not operate to defeat the black-preferred candidate. Therefore, the election hints at the
+absence of legally significant white bloc voting (and, to that extent, cuts in the defendants' favor).
+The 1994 Suffolk County district attorney election matched a white candidate (Malone) against a black candidate
+(Martin) for the single seat. Martin ran on the Republican ticket, but he ran as an incumbent (originally having
+been appointed to the position by a Republican governor). Despite the fact that Malone had the Democratic
+endorsement, Martin was the preferred candidate of both black and white voters. He won the election handily.
+This election was plainly dominated by an attractive, well-known incumbent whose appeal cut across racial lines.
+Consequently, we find the results of this election uninstructive for purposes of either the second or third Gingles
+precondition.
+Taken in the ensemble, the results of these multi-race exogenous elections provide compelling evidence that, in
+the Boston area, African-Americans vote cohesively, yet the white majority votes sufficiently as a bloc to enable it,
+most of the time, to defeat black-preferred candidates.
+*310 3. Single-Race Endogenous Elections. Although we have concluded that, in general, the results of single-
+race endogenous elections are less probative than other available data, we believe that those results ought to be
+mined in hopes that they may yield nuggets of useful information about voting patterns in the Boston area. Cf. 
+Vecinos, 72 F.3d at 988 n. 8 (suggesting that "evidence exhumed from `white only' elections may still be relevant
+in assessing the totality of the circumstances in a vote dilution case" prosecuted by Hispanics).
+310
+00
+97
+Of the nineteen elections in this category  which include not only white-versus-white and black-versus-black
+00
+97
+elections but also two elections that pitted white candidates against Hispanic candidates  only fourteen
+produced statistically valid estimates. Ten of these were general elections (and, thus, of little utility to us, for
+reasons previously explicated). Three of the remaining four (the 1998 and 1999 Democratic primaries in the 5th
+Suffolk House district and the 2000 Democratic primary in the 6th Suffolk House district) took place in majority
+black districts and, thus, cannot tell us very much about the third Gingles precondition.
+This winnowing process leaves only the 1994 Democratic primary in the 15th Suffolk House district. That election
+pitted two white candidates against one another. African-American voters preferred Brookins (who lost) and white
+voters preferred Fitzgerald (who prevailed). These tallies indicate the presence of both African-American political
+cohesion and legally significant white bloc voting.
+
+4. Single-Race Exogenous Elections. Finally, we have examined the results of one single-race exogenous
+election: the 2001 election for Boston City Council. In that contest, an Hispanic candidate (Arroyo) faced six white
+candidates for four at-large city council seats. Although Arroyo received 52.7% of the black vote and 65.6% of the
+Hispanic vote, he received only 19% of the non-minority vote. This placed him first among African-American and
+Hispanic voters, but only sixth among other voters. Arroyo lost the election.
+The regression results indicate the presence of both cohesive African-American voting and white bloc voting
+staunch enough to defeat a black-preferred candidate. Despite these indications, however, we accord relatively
+little weight to this evidence because the contest was both single-race and exogenous.
+5. Recapitulation. The evidence rehearsed above, when evaluated in connection with the other evidence in this
+case, leads us to find that the plaintiffs have clearly and convincingly satisfied the second Gingles precondition.
+The evidence establishes beyond peradventure that African-American voters in the Boston area are politically
+cohesive. The same evidence, taken as a whole, also suffices to show that white voters, who constitute a
+majority in most districts, vote sufficiently as a bloc to enable them, as a general rule, to defeat the black-
+preferred candidates. We find, therefore, that the plaintiffs also have satisfied the third Gingles precondition.
+C. Totality of the Circumstances.
+Although satisfaction of the Gingles preconditions takes the plaintiffs a giant step closer to success on the merits,
+it does not take them to the finish line. We still must canvass the facts needed to bring the totality of the
+circumstances into proper perspective. See Gingles, 478 U.S. at 79, 106 S.Ct. 2752 (instructing trial courts "to
+consider the totality of the circumstances and to determine, based upon a searching practical evaluation of the
+past and present reality whether the political process is equally open to minority voters") (citation and internal
+quotation marks omitted). It *311 will, however, be the rare case in which plaintiffs meet the Gingles preconditions
+and yet fail on their section 2 claim due to the totality of the circumstances. Vecinos, 72 F.3d at 983; Jenkins v.
+Red Clay Consol. Sch. Dist. Bd. of Educ., 4 F.3d 1103, 1135 (3d Cir.1993).
+311
+As would be expected, the relevant circumstances are those bearing upon whether African-American voters in
+the affected districts have the same opportunities as other voters to participate in the political process and elect
+representatives of their choice. Our canvass includes the factors identified in the Senate report, see supra, to the
+extent they are relevant here (a few are not). It also includes several environmental factors peculiar to this case.
+One of the most revealing questions a court can ask in assessing the totality of the circumstances is whether the
+affected districts exhibit proportionality, that is, whether the number of majority minority districts is in proportion to
+the minority group's share of the relevant population. This is to be distinguished from proportional representation,
+which speaks to the number of minorities elected to office. Whereas proportionality (or the lack thereof) is
+consistent with the calculus that section 2 demands, "nothing in [section 2] establishes a right to have members
+of a protected class elected in numbers equal to their proportion in the population." 42 U.S.C. § 1973(b).
+While a finding of proportionality does not create a safe harbor, it often may be an important indicium that minority
+voters have an equal opportunity, regardless of racial polarization, to participate in the political process and elect
+representatives of their choice. See De Grandy, 512 U.S. at 1017-20, 114 S.Ct. 2647. A finding of
+disproportionality may well point in the opposite direction. Id. at 1020 n. 17, 114 S.Ct. 2647.
+The defendants insist that the Enacted Plan results in no worse than rough proportionality for African-American
+voters. They begin with the uncontroversial fact that the black population makes up somewhere between 20.36%
+and 22.07% of the relevant population, depending on whether one uses (i) VAP or CVAP figures, and (ii) the
+alone or combo method of racial identification. They then claim that Dr. Engstrom admitted that African-American
+voters have an opportunity to elect representatives of their choice in four of the seventeen House districts that lie
+either wholly or partially within Boston's city limits (the 5th, 6th, 7th, and 12th Suffolk districts). In an effort to
+00
+97
+inflate this figure, the defendants argue that minorities  African-Americans or Hispanics or some combination
+00
+97
+thereof  have ample opportunity to elect their preferred candidates in five additional loci (the 9th, 11th, 13th,
+
+00
+97
+14th, and 15th Suffolk districts). This means, the defendants say, that nine of the seventeen districts  or 52.94%
+00
+97 are functionally equivalent to majority minority districts.
+Despite the defendants' creative mathematics, we find this construct too clever by half. First and foremost, it rests
+on a questionable definition of proportionality. In determining which districts should be counted as "black districts"
+for the purposes of proportionality analysis, the defendants include both those districts in which African-
+Americans comprise over 50% of the relevant population and those districts in which black voters have a credible
+opportunity to elect representatives of their choice even though they do not make up the majority of the relevant
+population. They claim to find support for this mixing of black majority districts and black "opportunity districts" in 
+De Grandy's acknowledgment that "there are communities in which minority citizens are able to form coalitions
+with voters from other racial *312 and ethnic groups, having no need to be a majority within a single district in
+order to elect candidates of their choice." Id. at 1020, 114 S.Ct. 2647.
+312
+The defendants are reading De Grandy through rose-colored glasses. The De Grandy Court provided an explicit
+definition of proportionality: "`Proportionality' as the term is used here links the number of majority-minority voting
+districts to minority members' share of the relevant population." Id. at 1014 n. 11, 114 S.Ct. 2647. The Court's
+subsequent application of this definition eliminates any conceivable ambiguity in the term "majority-minority." In
+conducting its proportionality analysis, the Court counted only those districts with "a clear majority of black
+voters," and did not count a district in which black voters, although not a majority, had been "able to elect
+representatives of their choice with the aid of cross-over votes." Id. at 1023, 114 S.Ct. 2647. Consequently, De
+Grandy provides inadequate support for including "opportunity districts" in a proportionality calculation.
+Second, the defendants take Dr. Engstrom's testimony out of context. To be sure, Dr. Engstrom identified four of
+00
+97
+the districts created by the Enacted Plan as "opportunity districts"  but he did not suggest that these either could
+or should comprise part of the gold standard for a proportionality analysis. In a contrary vein, he explained that a
+given district can simultaneously be an "opportunity district" for more than one racial group, and he maintained
+that, applying the defendants' standard evenhandedly, the Enacted Plan created a vastly disproportionate
+number of white "opportunity districts" (at least fifteen of the seventeen challenged districts could be so
+categorized). We believe that this is a valid criticism of the defendants' approach. In our judgment, their creative
+mathematics do not add up.
+Let us be perfectly clear. We think that the incidence of influence or crossover districts bears on the totality of the
+circumstances, and we have considered them in that context. We deem it encouraging that African-American
+voters in Boston have enjoyed a modicum of success in electing candidates of their choice outside of majority
+black districts. This is some indication that Boston has made inroads in "dismantl[ing] the barriers that wall off
+racial groups and [in] replac[ing] those barriers with voting coalitions." Vecinos, 72 F.3d at 991. At the same time,
+however, we find it telling that the Enacted Plan provides for only one majority black district (three, if the combo
+method of racial identification is used). One district would be 5.9% of the relevant universe; three would be 17.6%
+of the relevant universe. Either way, the Enacted Plan fails to provide African-American voters with a proportional
+number of majority black districts.
+The other side of the coin is that the Enacted Plan provides white voters with a number of majority white districts
+that exceeds proportionality. The Enacted Plan created twelve majority white districts, which is 70.6% of the
+relevant universe. According to 2000 census figures, whites hover around 55% of the VAP (the exact figure
+depends upon whether the alone or combo method of racial identification is used). On that basis, white voters
+00
+97
+should have between nine and ten majority white districts  not twelve.
+Moving past proportionality, the plaintiffs make much of the procedures used by the Committee in drafting the
+new district lines. They claim that those procedures stifled minority input. The evidence shows that, unlike their
+counterparts in the Senate, the House members of the Committee consistently refused either to confer with
+community representatives or *313 to listen to minority group concerns about the redistricting process. Petrolati
+himself chose to meet only with House incumbents and staff in regard to redistricting matters, and he advised
+other Committee members to follow suit. Whatever the shortcomings of this approach, we do not count it in the
+plaintiffs' favor. For one thing, the Committee did hold five public hearings. For another thing, its policy of not
+listening to community representatives in private, focused meetings appears to have been applied without regard
+to race.
+313
+
+We have also reviewed a number of other factors. The legislative history of the VRA suggests that courts should
+consider, in the course of a section 2 inquiry, "the extent to which members of the minority group have been
+elected to public office in the jurisdiction." S.Rep. No. 97-417, at 29 (1982), reprinted in 1982 U.S.C.C.A.N. at
+207. In Suffolk County, African-Americans have been elected regularly to various offices (including the House of
+Representatives) over the past twenty-five years. At the same time, however, a considerable number of African-
+American officeholders have come from heavily black districts, and the number of successful black candidates is
+disproportionately low when compared with African-Americans' share of Boston's population at the relevant times.
+Since this evidence cuts both ways, we deem it neutral for present purposes.
+Consistent with the Senate report, we have tried to gauge "whether there is a significant lack of responsiveness
+on the part of elected officials to the particularized needs of the members of the minority group." Id. The plaintiffs
+provided some testimony that African-American voters find Massachusetts legislators unaware of their concerns
+and unresponsive to their needs, but the defendants countered with evidence of instances in which legislators
+sought out minority groups and instituted programs designed to address the groups' requests. The evidence, as a
+whole, suggests that Massachusetts legislators are generally responsive to the particularized needs of minorities.
+We have not limited our assessment of the totality of the circumstances to those factors recounted above. We
+have also inquired into causation where appropriate and examined such things as voter registration and turnout
+figures, the history of official discrimination at the polls in Boston, the playing of the race card in political
+campaigns, and the extent to which the effects of past discrimination in education and employment bear on the
+equities. These factors do not add substantially to our understanding of the totality of the circumstances.
+We have left for last a final factor, to which we attach great importance. After having heard the testimony and
+reviewed the evidence, we find that incumbency protection played a significant role in the Committee's
+redistricting decisions. Incumbency protection is as old as electoral politics and, in its traditional form, is often
+thought to be a legitimate consideration in redistricting. See, e.g., Easley v. Cromartie, 532 U.S. 234, 247-48, 121
+S.Ct. 1452, 149 L.Ed.2d 430 (2001); Vera, 517 U.S. at 965, 116 S.Ct. 1941. The issue becomes more complex,
+however, when race is used as a tool to achieve incumbency protection. See Vera, 517 U.S. at 968, 116 S.Ct.
+1941 ("[T]o the extent that race is used as a proxy for political characteristics, a racial stereotype requiring strict
+scrutiny is in operation."); Clark v. Putnam County, 293 F.3d 1261, 1271-72 (11th Cir.2002) ("Incumbency
+protection achieved by using race as a proxy is evidence of racial gerrymandering."); Ketchum v. Byrne, 740 F.2d
+1398, 1408 (7th Cir.1984) ("We think there is little point for present purposes in distinguishing discrimination
+based on an ultimate *314 objective of keeping certain incumbent whites in office from discrimination borne of
+pure racial animus."). Here, the Committee made African-American incumbents less vulnerable by adding black
+voters to their districts and made white incumbents less vulnerable by keeping their districts as "white" as
+possible. Its actions evinced a willingness to move district lines simply to safeguard incumbents' seats, without
+regard to other objectives. This course of conduct sacrificed racial fairness to the voters on the altar of
+incumbency protection. See generally Garza v. County of Los Angeles, 918 F.2d 763, 778-79 (9th Cir.1990)
+(Kozinski, J., concurring and dissenting in part) (noting that "[p]rotecting incumbency and safeguarding the voting
+rights of minorities are purposes often at war with each other"). That sacrifice lends considerable luster to the
+plaintiffs' case.
+314
+This phenomenon is best illustrated by looking at how the Committee went about the task of fashioning the 6th,
+11th, and 12th Suffolk districts. The Enacted Plan stripped three majority black precincts from the 11th and three
+more from the 12th. Rather than move these six precincts into districts where their presence might increase
+00
+97
+African-American opportunities, the House chose instead to place them in the 6th Suffolk  a district that already
+was two-thirds black under the 1993 Plan. The one-person, one-vote requirement plainly did not dictate these
+changes as the 11th and 12th Suffolk districts needed more people (not fewer) to accommodate the 2000 census
+whereas the 6th Suffolk did not. As a result of this superpacking of the 6th Suffolk, the black VAP in the 12th
+Suffolk (Speaker Finneran's district) was significantly reduced and the 11th Suffolk was converted from a majority
+minority district to a majority white district. We agree with Dr. Engstrom that this manipulation of district lines
+comprises a textbook case of packing, which resulted in concentrating large numbers of minority voters within a
+relatively small number of districts.
+
+To make a bad situation worse, the House leadership knew what it was doing. Speaker Finneran admitted that
+the 6th Suffolk was a "safe" majority black district before the six new precincts were transferred to it. For his part,
+Chairman Petrolati testified that he was aware of the exceedingly high concentration of African-American voters
+in the 6th Suffolk district prior to the release of the Committee Plan, but that he could not recall having
+investigated any alternative ways in which to draw the lines so as to "unpack" the district. When asked why the
+Committee had configured the 6th Suffolk as it did, neither Finneran nor Petrolati could give an exonerative
+reason.
+We understand that legislatures have wide discretion to decide how best to ensure equal voting opportunities. 
+Georgia v. Ashcroft, 123 S.Ct. at 2511. We also understand that packing is a loose concept that has no talismanic
+legal significance. Cf. Voinovich, 507 U.S. at 155, 113 S.Ct. 1149 ("Section 2 contains no per se prohibitions
+against particular types of districts ...."). But the VRA prohibits the creation of minority-concentrated districts if the
+effect of so high a degree of concentration is to deny members of a protected class an equal opportunity to
+participate in the political process and elect candidates of their choice. See Gingles, 478 U.S. at 46 n. 11, 106
+S.Ct. 2752 (recognizing that "[d]ilution of racial minority group voting strength may be caused by ... the
+concentration of blacks into districts where they constitute an excessive majority"). In this instance, we believe
+that the extreme and unexplained packing of the 6th Suffolk district speaks eloquently to the totality of the
+circumstances. So too the unnecessary (and never convincingly explained) *315 stripping of minority voters out
+of the 11th and 12th Suffolk districts. Cf. Ketchum, 740 F.2d at 1407 (finding "strong evidence of intentional
+discrimination" in a city council's decision to move African-American persons out of particular wards "in much
+greater numbers than their proportion of the population and in greater numbers than required to accomplish the
+necessary reduction").
+315
+In the same vein, we find the circumstances surrounding the Fitzgerald Amendment revealing. Those
+circumstances show that the House was comfortable with manipulating district lines to benefit two white
+incumbents without pausing to investigate the consequences of its actions for minority voting opportunities. Once
+again, race was used as a tool to ensure the protection of incumbents. This sad fact speaks to the totality of the
+circumstances.[15]
+We also deem it significant that, despite a growing African-American population, the Enacted Plan represents a
+step back from the previous redistricting scheme (enacted in 1993). Credible evidence of record shows that the
+1993 plan provided eleven majority white districts and four majority black districts in the Boston area.
+From 1990 to 2000, the black VAP grew as a percentage of the city-wide VAP by 0.3% and the white VAP shrank
+by 7.55% as a percentage of the city-wide VAP. We find that, despite these shifts in population, the Enacted Plan
+increased the number of majority white districts to twelve and diminished the number of majority black districts to
+00
+97
+00
+97
+one. Even were we to use the defendants' numerics  which we consider less accurate  the 1993 scheme
+provided eleven majority white districts and four majority black districts whereas the Enacted Plan increased the
+number of majority white districts to twelve but decreased the number of majority black districts to three. However
+they are arrayed, these figures are disturbing, especially given the professed desire of the Committee to preserve
+or enhance minority voting opportunities. In the face of a burgeoning minority population, this sort of retrogression
+counts in the plaintiffs' favor. Cf. id. at 1407 (finding such retrogression to be "strong evidence of intentional
+discrimination").
+In the end, we conclude that the calculated manipulation of the 6th, 11th, and 12th Suffolk districts, the
+reengineering associated with the Fitzgerald Amendment, and the regressive nature of the Enacted Plan
+collectively exhibit a willingness on the part of the House to use race as a proxy in achieving incumbency
+protection. This evidence weighs heavily in the plaintiffs' favor in a consideration of the totality of the
+circumstances.
+D. Synthesis.
+In 1995, the court of appeals described the Voting Rights Act as "a Serbonian bog in which plaintiffs and
+defendants, pundits and policymakers, judges and justices find themselves bemired." Vecinos, 72 F.3d at 977. A
+
+decade later, this characterization still rings true. Voting rights cases are among the most difficult a court must
+decide. Not only do they implicate the complex relationship between race and politics, but they also plunge courts
+into the uncomfortable worlds of statistical analysis and legislative policymaking.
+Our duty, however, is clear, and a careful review of the credible evidence in this *316 case leads inexorably to the
+conclusion that the Redistricting Act, insofar as it delineates the seventeen Boston-area House districts at issue,
+dilutes the voting power of African-American voters and, thus, offends section 2 of the VRA. The plaintiffs have
+carried the devoir of persuasion anent each of the three preconditions laid down by the Supreme Court, and an
+analysis of the totality of the circumstances confirms the presumption of impermissible vote dilution. In this
+regard, we attach particular significance to the evidence concerning proportionality, retrogression, and the
+House's willingness to turn a blind eye to the racial implications of its single-minded effort to protect incumbents
+at virtually any social cost.[16]
+316
+The short of it is that the plaintiffs have sustained their burden of demonstrating that the Enacted Plan leaves
+African-American citizens in the Boston area with "less opportunity than other members of the electorate to
+participate in the political process and to elect representatives of their choice." 42 U.S.C. § 1973(b).
+Consequently, the Enacted Plan cannot stand.
+E. Remedy.
+This brings us to the question of remedy. We are mindful that 2004 is an election year and that time is of the
+essence. We are mindful too that plaintiffs' Plan No. 2, on its face, appears to be a viable surrogate for the portion
+of the Enacted Plan that we have found unlawful. It is tempting to impose Plan No. 2 on the Commonwealth, or in
+the alternative, to forge a plan of our own conception.
+On balance, however, we think that there is a better way. In an ideal world, redistricting is a legislative
+prerogative, and we are hesitant to impose a remedy without first affording the Legislature an opportunity to act. 
+Cf. Vecinos, 72 F.3d at 992 (recognizing that "it is a fundamental tenet of voting rights law that, time permitting, a
+federal court should defer in the first instance to an affected state's or city's choice among legally permissible
+remedies"). Moreover, we are cognizant that the movement of a single precinct may create a ripple effect felt
+several districts away. For these reasons, we will cede to the defendants the first chance to assemble a curative
+plan. The defendants must, of course, act with all deliberate speed. We believe that, given the extensive work
+already done and the availability of the Maptitude software, six weeks should be a sufficient period of time for the
+defendants to prepare a proposed redistricting plan, forward it to the plaintiffs for comment, and then submit it to
+us for approval. If the defendants fail to act within these temporal parameters, this court then must fashion an
+appropriate remedy.
+In proceeding from this point, we remind the defendants that any new redistricting scheme must not rob Peter to
+pay Paul: a revised plan must afford all cognizable minority groups, not just African-Americans, an equal
+opportunity to participate in the political process and elect representatives of their choice. To this end, the
+Legislature should also take pains to avoid undermining cross-racial coalitions in the name of minority-district
+maximization. See Shaw v. Reno, 509 U.S. 630, 657, 113 S.Ct. 2816, 125 L.Ed.2d 511 (1993) (observing that
+"[r]acial gerrymandering, even for remedial purposes, may balkanize us into competing racial factions"). We shall,
+of course, retain jurisdiction over this case pending the enactment of a lawful plan reconfiguring the seventeen
+affected districts.
+*317 III. CONCLUSION
+317
+We need go no further. For the reasons elucidated above, we strike down the Enacted Plan insofar as it pertains
+to the seventeen House districts at issue here; enjoin the defendants from holding House elections for any of
+those seats under the Enacted Plan; and order the defendants to prepare and submit for our consideration, within
+six weeks from the date hereof, a new redistricting plan consistent with the requirements of section 2 of the VRA.
+We shall retain jurisdiction over the case pending the submission, approval, and enactment of a lawful
+redistricting plan.
+
+So Ordered.
+APPENDIX A
+The First Gingles Precondition:
+Majority Black Districts Using VAP
+Alone Method:
+Under the Enacted Plan, the 6th Suffolk is 78.42% BVAP (black voting age population). Under Plan No. 2, the 6th
+Suffolk is 52.29% BVAP and the 12th Suffolk is 56.86% BVAP.
+Combined Method:
+Under the Enacted Plan, the 5th Suffolk is 55.93% BVAP, the 6th Suffolk is 82.42% BVAP, and the 12th Suffolk is
+52.01% BVAP. Under Plan No. 2, the 5th Suffolk is 50.40% BVAP, the 6th Suffolk is 55.00% BVAP, the 11th
+Suffolk is 51.25% BVAP, and the 12th Suffolk is 60.50% BVAP.
+APPENDIX B
+The First Gingles Precondition:
+Majority Black Districts Using CVAP
+Alone Method:
+Under the Enacted Plan, the 5th Suffolk is 54.9% BCVAP (black citizen voting age population) and the 6th Suffolk
+is 81.1% BCVAP. Although neither party provided the court with complete CVAP data for Plan No. 2, we are
+satisfied with the plaintiffs' explanation (based on their modest alterations to the Harmon Plan) for why the 6th
+Suffolk, 11th Suffolk, and 12th Suffolk districts would have BCVAP figures exceeding 50% under Plan No. 2. The
+defendants did not seriously question this representation at trial.
+Combined Method:
+Under the Enacted Plan, the 5th Suffolk is 60.9% BCVAP and the 6th Suffolk is 84.8% BCVAP. Again, we are
+satisfied with the plaintiffs' explanation for why the 5th Suffolk, 6th Suffolk, 11th Suffolk, and 12th Suffolk districts
+would have BCVAP figures exceeding 50% under Plan No. 2.
+[*] Of the United States Court of Appeals for the First Circuit, sitting by designation.
+[1] In their filings with the court, the plaintiffs pursued a theory of aggregation, namely, that African-American and
+Hispanic voters function in Boston as a combined cross-racial coalition with shared interests. At trial, however,
+the testimony concentrated on the voting patterns of African-Americans. Given our decision that the district lines
+must be redrawn because of the way in which the Redistricting Act treats black voters, see text infra, we need not
+probe the complex question of whether the plaintiffs' evidence revealed a cohesive coalition among African-
+American and Hispanic voters.
+
+[2] The Joint Committee was also responsible for redrawing the lines of Massachusetts's ten congressional
+districts. That aspect of the Joint Committee's work is not before us and we make no further mention of it.
+[3] Although Speaker Finneran denied any involvement in the redistricting process, the circumstantial evidence
+strongly suggests the opposite conclusion. For one thing, he handpicked the members of the Committee and
+placed Petrolati at the helm. For another thing, he ensured that the Committee hired his boyhood friend and long-
+00
+97
+00
+97
+time political collaborator, Lawrence DiCara, as its principal functionary. Last  but far from least  Finneran's in-
+house counsel, John Stefanini, had the Maptitude software installed on his computer in the Speaker's office suite
+and was one of only four legislative staffers who received training in how to use the software.
+[4] This description contained a bit of poetic license. The district in question had been a majority minority district
+prior to the start of the 2001 redistricting effort.
+[5] Irony is no stranger to the law. After upsetting the applecart, Fitzgerald performed another about-face and
+decided not to seek reelection. Instead, he accepted a coveted appointment as the Legislature's sergeant-at-
+arms.
+[6] This case concerns seventeen of the nineteen House districts in Suffolk County: the excluded districts are the
+16th and 19th Suffolk districts, both of which lie wholly outside Boston. In a separate case, Meza v. Galvin, Civil
+Action No. 02-10428 (D.Mass.), a different group of Hispanic voters filed a challenge to the Redistricting Act as it
+pertains to the 2d Suffolk House district, which is centered in the neighboring community of Chelsea (but which
+also includes the Charlestown section of Boston). The two cases were consolidated for trial. The Meza case will
+be the subject of a separate opinion.
+[7] While well over 50% of African-Americans register to vote, see text supra, only 20% of the total Hispanic VAP
+in Boston is estimated to be registered. The difference in these numbers is quite likely attributable to the relatively
+greater non-citizenship rates of Hispanics as compared to African-Americans.
+[8]
+00
+97
+ For example, the defendants' principal expert stated at trial that "essentially the estimates  [the plaintiffs'
+00
+97
+expert's] and mine  came out in terms of they're in the same ball park" despite the fact that the plaintiffs' expert
+used the alone method and he (the defendants' expert) used the combo method. He concluded that, as applied in
+this case, the two methods yield "no great distinctive differences."
+[9] We have, of course, reviewed all the elections analyzed by the experts. While we find same-race elections,
+overall, less probative, we do glean some insights from them. See infra Part II(B)(3)-(4). Furthermore, the black-
+versus-black races are probative of black candidate success (and, thus, relevant in a consideration of the totality
+of the circumstances). See Jenkins, 116 F.3d at 694.
+[10] Some councilmanic candidates represent specific districts. None of the experts who testified in this case
+submitted any figures for councilmanic district elections, so we concentrate exclusively on the at-large election
+results.
+[11] Although Dr. Engstrom provided both bivariate and multivariate regression estimates for each candidate, we
+will use only the latter. This decision allows us to use the best available approximation of the white vote. In any
+event, the differences between the estimates are insignificant.
+[12] The term "non-minority" is a bit of a misnomer because this category excludes only African-Americans and
+Hispanics, and, thus, includes not only whites but also small minority groups (such as Native Americans and
+Asian-Americans). It is, however, a reasonably accurate approximation of the white vote.
+[13] There was a third candidate in the race (Sinnott), but he attracted little support. For all practical purposes, the
+contest amounted to a head-to-head battle between Jenkins and Conley.
+[14] We use the term "non-African-American vote" here because this is the data that was presented to us (in the
+form of a bivariate regression estimate). Notwithstanding the relative breadth of this category, we find the
+conclusion both reliable and probative of pervasive white support for Jenkins's opponents.
+
+[15] In an effort to parry this thrust, the defendants point out that, in the 2002 elections, an Hispanic candidate
+(Jeffrey Sanchez) won the 15th Suffolk seat. While that is so, the analysis performed by the defendants' expert
+failed to produce a valid regression estimate for the African-American vote in this election. Thus, we cannot say
+00
+97
+00
+97
+ as the defendants would have it  that Sanchez was the black voters' candidate of choice.
+[16] Although we find these factors especially telling, we emphasize that, as noted above, a host of other
+circumstances also have influenced our decision.
+Save trees - read court opinions online on Google Scholar.

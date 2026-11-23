@@ -1,0 +1,268 @@
+Source: https://www.law.cornell.edu/supct/html/03-184.ZS.html
+
+BALLARD V. COMMISSIONER
+
+LII
+
+Supreme Court
+
+BALLARD V. COMMISSIONER (03-184) 
+No. 03—184, 321 F.3d 1037; No. 03—1034, 337 F.3d 883, reversed and remanded.
+Syllabus
+ Opinion
+ [ Ginsburg ]Concurrence
+ [ Kennedy ]Dissent
+ [ Rehnquist ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be
+released, as is being done in connection with this case, at the
+time the opinion is issued.
+The syllabus constitutes no part
+of the opinion of the Court but has been prepared by the
+Reporter of Decisions for the convenience of the reader.
+See
+United States v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+BALLARD et ux. v. COMMISSIONER OF
+INTERNAL REVENUE
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE ELEVENTH CIRCUIT
+
+No. 03—184.Argued December 7,
+2004–Decided March 7, 2005*
+
+The Tax Court’s Chief Judge appoints
+auxiliary officers, called special trial judges, to hear
+certain cases, 26
+U.S.C. § 7443A(a), (b), but ultimate decision, when
+tax deficiencies exceed $50,000, is reserved for the court
+itself, §7443A(b)(5), (c). Tax Court Rule 183(b) governs
+the two-tiered proceedings in which a special trial judge hears
+the case, but the court renders the final decision. Rule
+183(b) directs that, after trial and submission of briefs, the
+special trial judge “shall submit a report, including
+findings of fact and opinion, to the Chief Judge, [who] will
+assign the case to a Judge … of the Court.” In
+acting on the report, the assigned Tax Court judge must give
+“[d]ue regard … to the circumstance that the
+[s]pecial [t]rial [j]udge had the opportunity to evaluate the
+credibility of the witnesses,” must “presum[e] to be
+correct” factfindings contained in the report, and
+“may adopt the [s]pecial [t]rial [j]udge’s report or
+may modify it or may reject it in whole or in part.” Rule
+183(c). Until 1983, such special trial judge reports were made
+public and included in the record on appeal. Pursuant to a
+rule revision that year, those reports are now withheld from
+the public and excluded from the appellate record, and Tax
+Court judges do not disclose whether the final decision
+“modi[fies]” or “reject[s]” the special
+trial judge’s initial report. Instead, the final decision
+invariably begins with a stock statement that the Tax Court
+judge “agrees with and adopts the opinion of the [s]pecial
+[t]rial [j]udge.” Whether and how the final decision
+deviates from the special trial judge’s original report is
+never revealed.
+
+ Petitioners
+Claude Ballard, Burton Kanter, and another taxpayer received
+notices of deficiency from respondent Commissioner of Internal
+Revenue (Commissioner) charging them with failure to report
+certain payments on their individual tax returns and with tax
+fraud. They filed petitions for redetermination in the Tax
+Court, where the Chief Judge assigned the consolidated case to
+Special Trial Judge Couvillion. After trial, Judge Couvillion
+submitted a Rule 183(b) report to the Chief Judge, who issued
+an order assigning the case to Tax Court Judge Dawson “for
+review [of that report], and if approved, for adoption.” 
+Ultimately, Judge Dawson issued the Tax Court’s decision,
+finding that the taxpayers had acted with intent to deceive the
+Commissioner, and holding them liable for underpaid taxes and
+substantial fraud penalties. That decision, consisting wholly
+of a document labeled “Opinion of the Special Trial
+Judge,” declared: “The Court agrees with and adopts
+the opinion of the Special Trial Judge, which is set forth
+below.” 
+
+ Based on
+conversations between Kanter’s attorney and two Tax Court
+judges, the taxpayers came to believe that the decision was
+not in fact a reproduction of Judge Couvillion’s
+Rule 183(b) report. According to a declaration submitted by
+Kanter’s attorney, Judge Couvillion had concluded that the
+taxpayers did not owe taxes with respect to some of the
+payments at issue and that the fraud penalty was not
+applicable. The taxpayers therefore filed motions seeking
+access to Judge Couvillion’s initial report as submitted
+to the Chief Judge or, in the alternative, permission to place
+that report under seal in the appellate record. Denying the
+requested relief, the Tax Court stated: “Judge Dawson
+… and Special Trial Judge Couvillion agre[e] that …
+Judge Dawson adopted the findings of fact and opinion of …
+Judge Couvillion, … presumed [those] findings of fact
+… were correct, and … gave due regard” to Judge
+Couvillion’s credibility findings. The order added that
+“any preliminary drafts” of the special trial
+judge’s report were “not subject to production
+because they relate to [the court’s] internal deliberative
+processes.” On appeal, both the Eleventh Circuit in
+Ballard’s case and the Seventh Circuit in Kanter’s
+case rejected the taxpayers’ objection to the absence of
+the special trial judge’s Rule 183(b) report from the
+appellate record. Proceeding to the merits, both Courts of
+Appeals affirmed the Tax Court’s final decision in
+principal part. 
+
+Held: The Tax Court may not
+exclude from the record on appeal Rule 183(b) reports submitted
+by special trial judges. No statute authorizes, and Rule
+183’s current text does not warrant, the concealment at
+issue. Pp. 10—23.
+
+ (a) Rule
+183(c)’s promulgation history confirms the clear
+understanding, from the start, that deference is due the trial
+judge’s factfindings under the “[d]ue regard”
+and “presumed to be correct” formulations. Under
+Rule 183’s precursor, the Tax Court’s review of the
+special trial judge’s report was a transparent process. 
+The report was served on the parties, who were authorized to
+file objections to it, and the regular Tax Court judge reviewed
+the report independently, on the basis of the record and the
+parties’ objections. Parties were therefore equipped to
+argue to an appellate court that the Tax Court failed to give
+the special trial judge’s findings the required measure of
+respect. On adoption of the 1983 amendments, however, the Tax
+Court stopped acknowledging instances in which it rejected or
+modified special trial judge findings. Instead, it appears
+that the Tax Court inaugurated a novel practice whereby the
+special trial judge’s report is treated essentially as an
+in-house draft to be worked over collaboratively by the regular
+Tax Court judge and the special trial judge. The regular Tax
+Court judge then issues a decision purporting to “agre[e]
+with and adop[t] the opinion of the Special Trial
+Judge.”
+
+ Nowhere in the
+Tax Court’s current Rules is this joint enterprise
+described or authorized. Notably, the Rules provide for only
+one special trial judge “opinion”: Rule 183(b)
+instructs that the special trial judge’s report, submitted
+to the Chief Judge before a regular Tax Court judge is
+assigned to the case, shall consist of findings of fact and
+opinion. It is the Rule 183(b) report, not some subsequently
+composed collaborative report, that Rule 183(c), tellingly
+captioned “Action on the Report,” instructs the Tax
+Court judge to review and adopt, modify, or reject. It is
+difficult to comprehend how a Tax Court judge would give
+“[d]ue regard” to, and “presum[e] to be
+correct,” an opinion he himself collaborated in
+producing.
+
+ The Tax Court,
+like all other decisionmaking tribunals, is obliged to follow
+its own Rules. See, e.g., Service v. Dulles, 354 U.S. 363, 388. 
+Although the Tax Court is not without leeway in interpreting
+its Rules, it is unreasonable to read into Rule 183 an
+unprovided-for collaborative process, and to interpret the
+formulations “due regard” and “presumed to be
+correct,” to convey something other than what those same
+words meant prior to the 1983 rule changes. Pp.
+10—17.
+
+ (b) The Tax
+Court’s practice of not disclosing the special trial
+judge’s original report, and of obscuring the Tax Court
+judge’s mode of reviewing that report, impedes fully
+informed appellate review of the Tax Court’s decision. In
+directing the regular judge to give “due regard” to
+the special trial judge’s credibility determinations and
+to “presum[e] … correct” the special trial
+judge’s factfindings, Rule 183(c) recognizes a
+well-founded, commonly accepted understanding: The officer who
+hears witnesses and sifts through evidence in the first
+instance will have a comprehensive view of the case that cannot
+be conveyed full strength by a paper record. Fraud cases, in
+particular, may involve critical credibility assessments,
+rendering the appraisals of the judge who presided at trial
+vital to the ultimate determination. In the present cases, for
+example, the Tax Court’s decision repeatedly draws
+outcome-influencing conclusions regarding the credibility of
+Ballard, Kanter, and other witnesses. Absent access to the
+special trial judge’s Rule 183(b) report in this and
+similar cases, the appellate court will be at a loss to
+determine (1) whether the credibility and other findings made
+in that report were accorded “[d]ue regard” and were
+“presumed … correct” by the Tax Court judge, or
+(2) whether they were displaced without adherence to those
+standards.
+
+ The Tax
+Court’s practice is extraordinary, for it is routine in
+federal judicial and administrative decisionmaking both to
+disclose a hearing officer’s initial report, see,
+e.g., 28 U.S.C.
+§ 636(b)(1)(C), and to make that report part of the
+record available to an appellate forum, see, e.g., 5 U.S.C. §
+557(c). The Commissioner asserts a statutory analogy,
+however, 26 U.S.C.
+§ 7460(b), which instructs that when the full Tax
+Court reviews the decision of a single Tax Court judge, the
+initial one-judge decision “shall not be part of the
+record.” This Court rejects the Commissioner’s
+endeavor to equate proceedings that differ markedly. Full Tax
+Court review is designed for resolution of legal issues. 
+Review of that order is de novo. In contrast, findings
+of fact are key to special trial judge reports. Those
+findings, under the Tax Court’s Rules, are not subject to
+de novo review. Instead, they are measured against
+“due regard” and “presumed correct”
+standards. Furthermore, all regular Tax Court members are
+equal in rank, each has an equal voice in the Tax Court’s
+business, and the regular judge who issued the original
+decision is free to file a dissenting opinion recapitulating
+that judge’s initial opinion. The special trial judge,
+who serves at the pleasure of the Tax Court, lacks the regular
+judges’ independence and the prerogative to publish
+dissenting views.
+
+ Given this
+Court’s holding that the Tax Court’s practice is not
+described and authorized by that court’s Rules, this Court
+need not reach, and expresses no opinion on, the
+taxpayers’ further arguments based on due process and
+other statutory provisions. Should the Tax Court some day
+amend its Rules to adopt the idiosyncratic procedure here
+rejected, the changed character of the Tax Court judge’s
+review of special trial judge reports would be subject to
+appellate review for consistency with the relevant federal
+statutes and due process. Pp. 17—23.
+
+No. 03—184, 321 F.3d 1037; No.
+03—1034, 337 F.3d 883, reversed and remanded.
+
+ Ginsburg, J.,
+delivered the opinion of the Court, in which Stevens,
+O’Connor, Scalia, Kennedy, Souter, and Breyer, JJ.,
+joined. Kennedy, J., filed a concurring opinion, in which
+Scalia, J., joined. Rehnquist, C. J., filed a dissenting
+opinion, in which Thomas, J., joined.
+
+Notes
+
+*. Together with No. 03—1034,
+Estate of Kanter, Deceased, et al. v. Commissioner of
+Internal Revenue, on certiorari to the United States Court
+of Appeals for the Seventh Circuit.

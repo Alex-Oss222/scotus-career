@@ -1,0 +1,9 @@
+# Sherrill: form and propositions before assignment
+
+The final reconciled equity ground has seven Associates. The Chief's approved position and Stevens support tax affirmance. The independent judgment statuses are preserved within the actual question boundary. The five other amendment defenses, Rule 56(f) denial and preliminary acquisition-injunction denial have eight Associate rationale joins; the Chief's approved standing fallback supplies agreement in those dispositions without adding their grounds.
+
+One signed plenary lead carries Part I's nonrevival rule, its affirmative and defensive application, and the limited Lead-tax/laches disposition; Part II carries the independently sustained procedural dispositions and precise preservation of judgments outside review. The form follows the genuine separation between the tax merits and those independent rulings. A single author can carry both parts because all seven Part I supporters also support Part II fully. No count or author consideration produced this structure.
+
+O'Connor assigns Part I as the most senior participating Associate in that coalition. The Chief assigns Part II from its judgment coalition; his fallback does not make him eligible to author reasoning it does not supply. The resulting common lead must respect the Chief-assigned component's balance rule and the single-author requirement. There is no need to divide authorship.
+
+Stevens concurs in Part II and dissents from the tax disposition. His dissent's substantive tax and equity grounds are joined by Stone-Zsela. His separate objection to the Court's late equity formulation has no Chief join: the approved Chief position expressly reaches the equitable objection on its merits. The majority expressly incorporates Souter's present-sovereign-status distinction, so it requires no additional concurrence merely to repeat that adopted ground. These writing choices precede every assignment count.

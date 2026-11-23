@@ -1,0 +1,2515 @@
+Source: https://archive.org/download/micro_IA40385014_0725/micro_IA40385014_0725%2010.%20Petitioners%20Brief_djvu.txt
+
+@® AUG 12 2604 
+
+
+No. 03-855 
+
+
+IN THE 
+
+
+Supreme Court of the United States 
+
+
+CITY OF SHERRILL, NEW YORK, 
+Petitioner, 
+
+
+V. 
+
+
+ONEIDA INDIAN NATION OF NEW YORK, 
+RAY HALBRITTER, KELLER GEORGE, 
+CHUCK FOUGNIER, MARILYN JOHN, CLINT HILL, 
+DALE ROOD, DICK LYNCH, KEN PHILLIPS, 
+BEULAH GREEN, BRIAN PATTERSON, 
+and [VA ROGERS, 
+Respondents. 
+
+
+On Wait or CERTIORARI TO THE 
+Unitep STATES Court OF APPEALS FOR THE SECOND CIRCUIT 
+
+
+BRIEF FOR PETITIONER 
+
+
+IRA S. SACKS 
+Counsel of Record 
+
+EsTHER S. TRAKINSKI 
+
+Gursky & Partners, LLP 
+1350 Broadway 
+New York, New York 10018 
+(212) 904-1234 
+
+
+Attorneys for Petitioner 
+
+
++ ; ‘ 
+‘ees 
+‘ 
+
+
+a“ 
+‘ ‘ 
+
+
+l. Whether alleged reservation land is Indian country 
+pursuant to 18 U.S.C. § 1151 and this Court’s decision in 
+Alaska v. Native Village of Venetie Tribal Gov't, 522 U.S. 
+520 (1998) (“Venetie”) where the land was neither set aside 
+by the federal government nor superintended by the federal 
+government? 
+
+
+2. Whether alleged reservation land was set aside by the 
+federal government for purposes of Indian country analysis 
+under 18 U.S.C. § 1151 and Venetie where the 1788 Treaty 
+of Fort Schuyler terminated all aboriginal title and the alleged 
+reservation was established by the State of New York in the 
+
+
+1788 Treaty of Fort Schuyler, and not by any federal treaty, 
+action or enactment? 
+
+
+3. Whether the 1838 Treaty of Buffalo Creek, which 
+required the Oneidas to permanently abandon their lands in 
+New York, resulted in the disestablishment of the Oneida’s 
+alleged New York reservation? 
+
+
+4 Whether alleged reservation land may (i) remain 
+Indian country or (ii) remain subject to the protections of the 
+Indian Trade and Intercourse Act, 25 U.S.C. § 177, if the 
+tribe claiming reservation status and Indian Trade and 
+Intercourse Act protection ceases to exist? 
+
+
+_— 
+
+
+PARTIES TO THE PROCEEDINGS 
+
+
+The parties to the proceedings in the United States 
+Court of Appeals for the Second Circuit were petitioner City 
+of sherrill, New York and respondents Oneida Indian Nation 
+of New York, Ray Halbritter, Keller George, Chuck 
+Fougnier, Marilyn John, Clint Hill, Dale Rood, Dick Lynch, 
+Ken Phillips, Beulah Green, Brian Patterson and Iva Rodgers. 
+Respondent Ruth Burr was a party in the district court and 
+Second Circuit, but a suggestion of death of Ruth Burr was 
+filed in the Second Circuit on May 10, 2002. Madison 
+County, Oneida County and the State of New York appeared 
+as amici curiae in the district court, Second Circuit and in 
+connection with the petition to this Court. 
+
+
+TABLE OF CONTENTS 
+
+
+QUESTIONS PRESENTED FOR REVIEW or 
+PARTIES TO THE PROCEEDINGS hindsenetenatunseensansenenassnete il 
+ce ili 
+ae vi 
+ee l 
+EE l 
+CE l 
+TREATY, CONSTITUTIONAL AND STATUTORY 
+EEE l 
+ae 2 
+Ee 2 
+The Relevant History of the Oneida Indians...................... 2 
+1. The Treaties of Fort Schuyler and Canandaigua........ 2 
+2. Indian Removal and the Treaty of Buffalo Creek...... 4 
+3. The Lapse In Oneida Tribal Existence....................... 8 
+EEE 9 
+Prior Oneida Litigation In This Court.................ccccc00000 11 
+SUMMARY OF ARGUMENT ..............:.c.scscscsssssssscseceseseees 13 
+CEE ee 17 
+
+
+I. UNDER THIS COURT’S DECISION IN VENETIE Ill. INDIAN COUNTRY STATUS CEASES WHEN A 
+
+
+AND THE 1788 TREATY OF FORT SCHUYLER, THE TRIBE NO LONGER EXISTS 
+PROPERTIES ARE NOT INDIAN COUNTRY............ ieee rc tne 
+CONCLUSION ......sscocssssssssesssnssesesesee 46 
+A. The Properties Were Set Aside By i TT 
+‘WOU, .1..c.scscescecesnesecsececsenecesssesssossesussescessecsscsossoosecsoces 20 
+
+
+1. The 1788 Treaty of Fort Schuyler Terminated 
+Aboriginal Title and Set Aside A State Reservation ... 
+ensunenigpeinennnnansennineiunsentmnmasnttentansiubamientehiabinsiiantl 20 
+
+
+2. The 1794 Treat of Canandaigua Merely 
+Acknowledged The Existing State Reservation, And 
+Did Not Create A Federal Reservation.................... 22 
+
+
+B. The Properties Were Never Under Federal 
+
+
+C. The Sherrill Propertics Are Freely Alienable And Are 
+Not Indian Country Absent Federal Regulatory 
+
+
+REED cee 26 
+
+
+Il. THE 1838 TREATY OF BUFFALO CREEK 
+DISESTABLISHED ANY ONEIDA RESERVATION 
+
+
+A. The Treaty of Buffalo Creek and New York Indians 
+Make Plain That No Oneida Reservation In New 
+
+
+iV 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page 
+Supreme Court Cases 
+
+
+Alaska v. Native Village of Venetie Tribal Gov't, 522 U.S. 
+$20 (1998) ..2..cccccceesceccersssesesccsvscsssecssevesessonessssosessnees passim 
+
+
+Alden v. Maine, 527 U.S. 706 (1999) ......-cccseeceeereereeeneenees 28 
+American Fur Co. v. United States, 27 U.S. 358 (1829) ..... 28 
+
+
+Bates v. Clark, 95 U.S. 204 (1877) ....-.c-c-ccsseesersenseereeseennnnnes 27 
+
+
+Blatchford v. Native Village of Noatak, 501 U.S. 775 (1991). 
+28 
+
+
+Cass County, Minn. v. Leech Lake Band of Chippewa 
+Indians, 524 U.S. 103 (1998).....c.ocssssssesnne 15, 16, 30, 41 
+
+
+Cherokee Nation v. Georgia, 30 U.S. 1 (1831) «0... 22 
+
+
+County of Oneida, New York v. Oneida Indian Nation of New 
+York, 470 U.S. 226 (1985p reece. -eceeeeeceeeeenennennees 12, 13, 33 
+
+
+DeCoteau v. District County Court for the Tenth Judicial 
+District, 420 U.S. 425 (1975)......--secscceeeesereessessseneneenenes 36 
+
+
+Federal Power Comm'n v. Tuscarora Indian Nation, 362 
+U.S. 99 (1960)......0.ceccecscseccsvssseresserserensssnnsscsossnsrsnssosensens 20 
+
+
+Hagen v. Utah, 510 U.S. 399 (1994) ....soosscsesesssssnssnssss 36, 38 
+Mattz v. Arnett, 412 U.S. 481 (1973) .....-0-ccocsosesssssssesecssseeee 36 
+
+
+Minnesota v. Mille Lacs Band of Chippewa Indians, 526 U.S. 
+172 (1999).......ccececscsrscsoserssscnsnserensessnsnsnsnsnsscsssssnsoosarscsnnees 35 
+
+
+Northern Sec. Co. v. United States, 193 U.S. 197 (1904)... 28 
+Oklahoma Tax Comm'n v. Citizen Band Potawatomi Indian 
+
+
+BO ae Ce, Fa CD ersccrtecsccctccncnscnntcarrticamen 17-18, 20 
+Oneida Indian Nation of New York State v. County of 
+
+Oneida, New York, 414 U.S. 661 (1974) .o.ccccccccccecceseeoeens 12 
+Railroad Co. v. Maryland, 88 U.S. 456 (1874) .....cccccccecs000. 28 
+
+
+Rosebud Sioux Tribe v. Kneip, 430 U.S. 584 (1977) 
+Seminole Tribe of Florida v. Florida, 517 U.S. 44 (1996) .. 28 
+Solem v. Bartlett, 465 U.S. 463 (1984) .o.......cccccccccecececeseeeens 36 
+South Dakota v. Yankton Sioux Tribe, 522 U.S. 329 (1998) .. 
+
+
+ennnnndnesneneasenntonsvaransnepmsastiibitiadtintatsitetdaamssstamatiiaaitatas 8, 16, 33 
+United States v. Pelican, 232 U.S. 442 (1914) ......ccccccccecoee. 19 
+
+
+United States v. suet tins Co., 314 U.S. 339 (1941) 
+canancomanasudiiancncetiuhiiiesandimecnpatinetenstaiibatiitiatsstssieeemeseaes 33, 38, 39 
+
+
+Wabash, St. Lowis & Pac. Ry. v. Illinois, 118 U.S. 557 (1886) 
+
+
+Cases 
+
+
+Blunk v. Arizona Dep't of Transp., 177 F.3d 879 (9th Cir. 
+PGDD) a iscsessceccecsecevssesesesesesscsososscssscsscssssossesosssssssossosooees 17, 29 
+
+
+Buzzard v. Oklahoma Tax Comm'n, 992 F.2d 1073 (10th 
+Cir.), cert. denied, 510 U.S. 994 (1993) ......sseseseeeseseeeers 29 
+
+
+Cayuga Indian Nation v. Cuomo, 730 F. Supp. 485 
+(N.D.N.Y. 1990) .....c:scoscsosososorosesorsssrsrsecsesssesesesesssossssssees 34 
+
+
+TTD sscoxsinetabencesneinantaiteapieeninbisiaensbanlaipenuidi 40, 41, 42 
+
+
+air So Ree ee ae ee 
+
+
+HRI Inc. v. E.P.A., 198 F.3d 1224 (10th Cir. 2000)... 25 
+
+
+In re Appeal of New York Indians, 41 Ct. Cl. 462 aye 
+
+
+Indian Country, U.S.A., Inc. v. Oklahoma Tax Comm'n, 829 
+F.2d 967 (10th Cir. 1987) ssseeeeeeeeessnsnnnsnnnnnnnnnnnnnnassnnennssse 17 
+
+
+Malabed v. North Slope Borough, 42 F. Supp.2d 927 (D. 
+
+
+Mashpee Tribe v. New Seabury Corp., 592 F.2d 575 (ist a 
+4 
+1979) ..2cccrocecccrseccesesssssssessscscssossesososcssssossosecsssssnssososossesseess 
+
+
+Mashpee Tribe v. Secretary of the Interior, 820 F.2d 480 (1st 
+Cir. 19B7).......ccccccsocscsosersrsersosssssosessersrssnsssssssnsssssosoossosooeess 40 
+
+
+Mashpee Tribe v. Town of Mashpee, 447 F. Supp. 940 (D. 
+Mass. 1978), aff'd, 592 F.2d 575 (ist Cir. 1979)........ 40-41 
+
+
+| 
+
+
+Menominee Indian Tribe v. Thompson, 161 F.3d 449 7th Cir. 
+1998), cert. denied, 526 U.S. 1066 (1999)........ccccccceeseeee 39 
+
+
+Mohegan Tribe v. State of Connecticut, 638 F.2d 612 (2d Cir. 
+1980), cert. denied, 452 U.S. 968 (1981)........cccccccceeee 18-19 
+
+
+New York Indians v. United States, 40 Ct. Cl. 448 (1905), 
+
+
+Oneida Indian Nation of New York v. State of New York, 860 
+
+
+F.2d 1145 (2d Cir. 1988), cert. denied, 493 U.S. 871 
+SIRT ech ea tLe a, 21 
+
+
+Oneida Indian Nation v. City of Sherrill, 145 F. Supp.2d 226 
+SURI Un a4 AUIITED cd dasnaiiennicetstieiiicaeensinasintusiaeainsiitanteiadie passim 
+
+
+Oneida Indian Nation v. City of Sherrill, 337 F.3d 139 (2d 
+Sa AUNT iietesiescdnecictnsnsesineeesniinapinlpabibinncintniaiitadainiaies passim 
+
+
+Oneida Indian Nation v. County of Oneida, 434 F. Supp. 527 
+(N.D.N.Y. 1977), aff'd, 719 F.2d 525 (2d Cir. 1983), aff'd 
+in part, rev'd in part, 470 U.S. 226 (1985)......ccccccccceseseee 34 
+
+
+Seneca Nation of Indians v. New York, 206 F. Supp.2d 448 
+FEN al o MI vertcnntenenieninmnniiileadennsnnamnstintiaiesttieid 23, 24 
+
+
+Shore v. Shell Petroleum Corp., 60 F.2d 1 (10th Cir. 1932) 
+
+
+Sokaogon Chippewa Community v. Exxon Corp., 2 F.3d 219 
+(7th Cir. 1993), cert. denied, 510 U.S. 1196 (1994)........ 39 
+
+
+United States v. Elm, 25 F. Cas. 1006 (N.D.N.Y. 1877). ........ 
+scnecseessssonsessssoseosssssonsssnssasosnsssesnsessesssacensscsssesessenssensteesies 8, 43 
+
+
+United States v. Roberts, 185 F.3d 1125 (10th Cir. 1999), 
+cert. denied, 529 U.S. 1108 (2000)............ccseseseseeeesesereees 25 
+
+
+Constitutional Provisions 
+
+
+eC Fe FF ccccsccesstanecninsesectenmmennenian 2, 28 
+
+Treaties 
+
+1784 Treaty of Fort Stanwix, October 22, 1784, 7 Stat. 15..... 
+sesiititaneicetaaeianittemidareapanatentatecinienaeiisassieininitinemianiiviuiialiias 23 
+
+1788 Treaty of Fort Schuyler, September 22, 1788...... passim 
+
+
+1794 Treaty of Canandaigua, November 11, 1794, 7 Stat. 44 
+
+
+sacciicaianiieniieeiatteaseeticnasiadiaieniniaiiaeiilaneasniiiiniaaninieiil passim 
+Statutes 
+
+LEE Todt 5 |) eee passim 
+, LUE | df ) . OEE Caen e ENN ee 2, 25, 37 
+ry RAE TdT eee woevesesevscsseseeese 2, 15, 16, 30 
+BB ULB. © CEBGI GD ececccccccscesccecvscescssosserscessccsscenssensensecsecssene l 
+Indian Removal Act, 4 Stat. 411 ..............:::ssscessseeeeeeeeeeees 5, 36 
+Indian Trade and Intercourse Act, 25 U.S.C. § 177...... passim 
+Regulations 
+
+BS CBB. © 991.20 ccccccccceccsscscoevescsssccssosesescosssessessnsosssssoososees 30 
+BE CHB, 6 CGB GB cceccccsencrersccensscnscscccsscsctsesvsimmsninenemnans 
+BB CHB. © 090..B6 cccccescccccsccssovescccsessesessevsssessnsssscssssossnssonsese 31 
+
+
+Treatises 
+
+
+Felix S. Cohen, Handbook of Federal Indian Law (1942 ed.) 
+RRS Mca SLE LITE BSE 7 ON Re de es eR DIE EA SR 9, 45 
+
+
+Felix S. Cohen, Handbook of Federal Indian Law (1982 ed.) 
+salad aia ita al 5, 20, 37, 42 
+
+
+Fred K. Nielsen, American and British Claims Arbitration 
+(Washington: Government Printing Office 1926)........... 22 
+
+
+The Oneida Indian Experience: Two Perspectives (J. Campisi 
+MR 5 
+
+
+Other Authorities 
+
+
+189] Annual Report of the Commissioner of Indian Affairs to 
+Tne Tecra y OF OO DDG ..cccccceccescscecsecsncsscnsncenesees 9,44 
+
+
+1892 Census Map of New York................:cccsesscssseesseeeeees 9,44 
+
+
+1893 Annual Report of the Commissioner of Indian Affairs to 
+8 ET 9, 44 
+
+
+1900 Annual Report of the Department of the Interior....9, 44 
+1901 Annual Report of the Department of the Interior.... 9, 45 
+1906 Annual Report of the Department of the Interior.... 9, 45 
+Fees SE. DRA, GO Tae CRED ccsenccccnersensosesecenanectnstasese 25, 37 
+is Sees ePID sesichircrreceniansensncintsconntuanitunedigtitnedl 9, 45 
+Speech of Senator Lumpkin of Georgia, Appendix to the 
+
+
+Congressional Globe, 26th Cong., Ist Sess., 285 (March 
+Say SnD TTI stuersaveinedetenensncetiaitniinincpieendiemiacnatdianabiesiaiiniiieetititinionii 6 
+
+
+xi 
+
+
+BRIEF FOR PETITIONER 
+
+
+The City of Sherrill (“Sherrill” or “Petitioner”) 
+respectfully requests that the judgment of the Second Circuit, 
+affirming judgments of summary judgment for the Oneida 
+Indian Nation in the district court, be reversed. 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the United States Court of Appeals for 
+the Second Circuit is reported at 337 F.3d 139. PA 1-60.! 
+The order denying the Petition for Rehearing or Rehearing en 
+banc is unreported. PA 134-35. The memorandum decision 
+and order of the district court is published at 145 F. Supp.2d 
+226. PA 61-133. 
+
+
+RISDICTION 
+
+
+The judgment of the Court of Appeals was issued on 
+July 21, 2003. The Petition for Rehearing or Rehearing en 
+banc was denied on September 15,2003. A Petition fora 
+Writ of Certiorari was filed on December 11, 2003, and this 
+Court granted a writ of certiorari on June 28, 2004. The 
+jurisdiction of this Court is invoked pursuant to 28 U.S.C. § 
+1254(1) 
+
+
+TREA NST N TA Yy 
+PROVISIONS 
+
+
+The following treaty, constitutional and statutory 
+provisions are involved in the case: The 1788 Treaty of Fort 
+Schuyler, September 22, 1788; the 1794 Treaty of 
+Canandaigua, November 11, 1794, 7 Stat. 44; the 1838 
+Treaty of Buffalo Creek, January 15, 1838, 7 Stat. 550; the 
+
+
+! Citations to “PA __” are to the Appendix to the Petition for a Writ of 
+Certiorari filed in this matter. 
+
+
+Tenth Amendment to the United States Constitution; 18 
+U.S.C. § 1151; 25 U.S.C § 177; 25 U.S.C. § 233; and 25 
+U.S.C. § 465. Their text (other than the Tenth Amendment) 
+appears in the appendices to the Petition for a Writ of 
+Certiorari at pages PA 136 through PA 184.? 
+
+
+STATEMENT OF THE CASE 
+
+
+The Parties 
+
+
+Petitioner City of Sherrill is a municipal corporation 
+organized under the laws of the State of New York. It is 
+New York’s smallest city, occupying one and one-half square 
+miles, with a population of approximately 3,000. Its total 
+annual budget is approximately $2.4 million. CA 201-37, 
+722-57, 798-801. + 
+
+
+Respondent Oneida Indian Nation of New York 
+(“Oneida Indian Nation”) is presently a federally recognized 
+Indian tribe governed by a Nation Representative and a 
+Tribal Council. Respondent Ray Halbritter is the Nation 
+Representative, chief executive officer of the Oneida Nation 
+enterprises, and one of the members of the Council. The 
+other Respondents are members of the Council. 
+
+
+The Relevant History of the Oneida Indians 
+1. The Treaties of Fort Schuyler and Canandaigua 
+
+
+Prior to and during the Revolutionary War, the 
+
+
+2 The Tenth Amendment provides that “The powers not delegated to the 
+United States by the Constitution, nor prohibited by it to the States, are 
+reserved to the States respectively, or to the people.” 
+
+
+3 Citations to “CA ___” are to the joint appendix in the Second Circuit 
+Court of Appeals. Citations to “JA __” are to the Joint Appendix in this 
+Court. 
+
+
+colonists respected the Oneidas’ right to possession of their 
+aboriginal lands, which totaled approximately six million 
+acres in central New York. Oneida Indian Nation vy. City of 
+Sherrill, 1 45 F . Supp.2d 2 26, 233-34 (N.D.N.Y. 2001). In 
+1788, in the Treaty of Fort Schuyler with the State of New 
+York, the Oneidas sold all of their land to the State of New 
+York. PA 136. The initial paragraph of the 1788 Treaty of 
+Fort Schuyler states, in its entirety, “First, The Oneidas do 
+cede and grant all their lands to the people of the State of 
+New York forever.” Then, in the second paragraph of the 
+Treaty, the State of New York expressly created a 300,000- 
+acre reservation for use by the Oneidas. /d. at 136-38 That 
+
+
+treaty and sale terminated aboriginal title to the land. 
+
+
+Two years later, in 1790, Congress passed the first 
+Indian Trade and Intercourse Act, currently found at 25 
+U.S.C. § 177, which required the federal government to 
+approve all sales or transfers of land from any Indian nation 
+or Indian tribe. Oneida Indian Nation v. City of Sherrill, 145 
+F. Supp.2d at 234. As they had prior to the passage of the 
+Indian Trade and Intercourse Act, the Oneidas continued to 
+
+
+sell large portions of the land that New York State had set 
+aside for their use. 
+
+
+In November 1794, the United States entered into the 
+1794 Treaty of Canandaigua, 7 Stat. 44, with the Six Nations 
+of the Iroquois — the Mohawk, Oneida, Onondaga, Cayuga, 
+Seneca, and Tuscarora tribes. PA 141-46. With respect to 
+the Oneidas, article 2 of the 1794 Treaty of Canandaigua 
+
+
+acknowledges the reservation established by the State of 
+New York: 
+
+
+The United States acknowledge the lands 
+reserved to the Oneida, Onondaga, and Cayuga 
+
+
+Nations i i Vv 
+
+
+of New York, and called their reservations, to be 
+their property; and the United States will never 
+
+
+claim the same, nor disturb them, or either of 
+the Six Nations, nor their Indian friends, 
+residing thereon, and united with them in the 
+free use and enjoyment thereof; but the said 
+reservations shall remain theirs, until they 
+choose to sell the same to the people of the 
+United States, who have the night to purchase. 
+(PA 141; emphasis added). 
+
+
+On the other hand, as to the Senecas, the specific 
+metes and bounds of the reservation set aside by the federal 
+government are described in detail, and no pnor State 
+reservation is mentioned. (PA 142). 
+
+
+In 1795, the Oneidas sold a substantial portior, of 
+what remained of their 300,000-acre reservation created by 
+the State of New York. Oneida Indian Nation, 145 F. 
+Supp.2d at 234. Since 1795, title to most of these 300,000 
+acres has passed through voluntary, free-market transactions. 
+Id. The transactions that conveyed the properties in Sherrill 
+at issue in this case (the “Properties”) occurred in 1805, when 
+the Properties were conveyed by a group of Oneida Indians 
+to Cormelius Dockstader, an Oneida Indian. In 1807, 
+Dockstader conveyed them to Peter Smith, a non-Indian. /d. 
+at 243; CA 407-15. 
+
+
+2. Indian Removal and the Treaty of Buffalo Creek 
+
+
+Beginning in the early nineteenth century, the federal 
+government’s policy toward the Indians changed from 
+respect for the Indians’ possession of their ancestral lands to 
+removal of the eastern Indians to lands in the western United 
+States. Between 1820 and 1822, and in keeping with the 
+federal government’s new policy, some N ew Y ork Indians, 
+including some Oneidas, relocated to land the federal 
+government purchased for them in the state of Wisconsin. 
+Oneida Indian Nation, 145 F. Supp.2d at 234-35. Other 
+
+
+Oneidas relocated to Ontario, Canada. /d. at 235. Thus, the 
+Oneidas split into three groups: Oneidas in New York, 
+Oneidas in Wisconsin and Oneidas in Canada (also known as 
+the Thames Oneidas). Jd. The Oneida Indian Nation of New 
+York claims to be a successor to those Oneidas who 
+remained in New York. 
+
+
+The federal government codified its removal policy in 
+the Indian Removal Act, 4 Stat. 411 passed by Congress in 
+1830, which authorized the federal government to give land 
+west of the Mississippi River to Indians in exchange for their 
+eastern land. /d. “The core purpose of the federal removal 
+policy was to makfe] a vast area available for white 
+settlement while reducing the conflict of sovereign authority 
+caused by the presence cf independent Indian governments 
+within state boundaries.” Felix S. Cohen, Handbook of 
+Federal Indian Law, 79 (1982 ed.). 
+
+
+One result of the federal policy of removal was the 
+1838 Treaty of Buffalo Creek, 7 Stat. 550, an obligatory 
+removal treaty in which the New York Indians, including 
+those Oneidas who had not yet removed from New York, 
+agreed to abandon |...ds east of the Mississippi and remove 
+to Kansas. PA 147-78. In Article 2 of the treaty, the United 
+States designated a | ,824,000-acre reservation in what is now 
+the S tate o f K ansas “as a permanent home for all the New 
+Wisconsin, or elsewhere in the United States...” PA 149- 
+50. In Article 13, all Oneidas living in New York agreed to 
+remuve to their new home in Kansas. PA 155.4 
+
+
+4 At the time of the 1838 Treaty of Buffalo Creek, there were 620 
+Oneidas in New York and 600 in Wisconsin. Most of the remaining 
+Oneidas left New York in the next few years. The Oneida Indian 
+Experience: Two Perspectives, 61 (J. Campisi and L. Hauptman eds. 
+1988). 
+
+
+The Treaty of Buffalo Creek is explicit about its 
+background and purpose. Its preamble recounted over 20 
+years of federal efforts to remove the New York Indians, 
+including the Oneidas, from New Yo:k. Preamble, 7 Stat. at 
+550-51. PA 147-48. The express purpose of the treaty was 
+to carry out the “policy of the Government in removing the 
+Indians from the east to the west of the Mississippi, within 
+the Indian territory.” Preamble, 7 Stat. at 551. PA 148. 
+Thus, the Treaty of Buffalo Creek was intended “to release 
+the Eastern lands from Indian tenure and to remove the 
+Indians into a country not then settled by whites,” New York 
+Indians v. United States, 40 Ct. Cl. 448, 450 (1905). The 
+Treaty of Buffalo C reek was thus intended to end the very 
+types of jurisdictional conflicts at issue here. 
+
+
+The legislative history of the treaty also indicates that 
+it implemented then-existing federal removal policy: 
+
+
+A territory west of the Mississippi has been 
+procured, and sacredly set apart by this 
+Government, amply sufficient for the location of 
+all the remnant tribes of Indians which may be 
+found remaining in all the States and Territories 
+of this Union. It is the settled policy and wish 
+of this Government thus to locate these Indians. 
+
+
+Speech of Senator Lumpkin of Georgia, Appendix to the 
+Congressional Globe, 26th Cong., Ist Sess., 285, 286 (March 
+19, 1840). 
+
+
+The T reaty of Buffalo Creek expressly provided for 
+the removal of the Oneidas from New York: the Oneidas and 
+the other New York Indians ceded to the United States lands 
+previously granted them in Wisconsin (except for a tract that 
+became the present Oneida reservation in Wisconsin) and 
+received a new 1,824,000-acre reservation in modern-day 
+
+
+————————————""  ~ i — ——™ 
+
+
+Kansas “as a permanent home for all the New York Indians, 
+now residing in the State of New York, or in Wisconsin, or 
+elsewhere in the United States, who have no permanent 
+homes... Arts. 1, 2, 7 Stat. at 551-552. PA 148-50. The 
+new reservation was to be the “future home” for, among 
+crners, the 620 “Oncidas . . - (then) residing in the State of 
+
+ew York.” Art. 2, Sch. A, 7 Stat. at 551-552, 556. PA 149- 
+50, 160-61.5 
+
+
+| The Treaty of Buffalo Creek provided that the 
+Oneidas could henceforth “establish their own form of 
+government, appoint their own officers, and administer their 
+own laws” on the Kansas lands designated as “their new 
+homes.” Art. 4, 7 Stat. at 552. PA 150-51. The treaty’s 
+terms restricted the Oneida’s exercise of these powers of 
+tribal sovereignty and jurisdiction to “said country,” i.e., the 
+part of the mew reservation specifically delineated for 
+occupation by the Oneidas. Arts. 4, 5, 7 Stat. at 552. PA 
+150-51. Finally, the treaty provided for the disposition of the 
+Oneidas’ remaining lands in New York. The Oneidas 
+‘hereby agree(d] to remove to their new homes in the Indian 
+territory, as soon as they can make satisfactory arrangements 
+
+
+5 The court below incorrectly held that the Oneidas in New York were 
+not intended to share in the Kansas lands because they “had a permanent 
+residence in New York State.” Oneida Indian Nation v. City of Sherrill; 
+337 F.3d 139, 162 n.17 (2d Cir. 2003). The Treaty of Buffalo Creek set 
+apart an amount of land in K ansas more than sufficient to provide 320 
+acres to each of the New York Indians enumerated in the census set forth 
+in Schedule A to the treaty, including the 620 New York Oneidas. See 
+Sch. A, 7 Stat. at 556; New York Indians v. United States, 40 Ct. Cl. 448 
+458 (1905). The treaty specifically provided that the Kansas lands were 
+“untended as a future home” for the Oneidas residing in the State of New 
+York. 7 Stat. at 551-52. Moreover, as discussed below, the fact that the 
+Kansas lands were intended to be the new home of, among others, the 
+Senet nn to tw Vuk om Gown ty Go Ge Ges Gat 
+descendants shared in the recovery in Indians v. United 
+
+170 U.S. 1 (1898). _— “ _ 
+
+
+with the Governor of the State of New York for the purchase 
+of their lands at Oneida.” Art. 13, 7 Stat. at 554. PA 155. 
+
+
+Although most of the Oneidas remaining in New 
+York did not move to Kansas to live on the reservation 
+designated for t heir benefit in the T reaty o f Buffalo C reek, 
+they and other New York Indian tribes sued the United States 
+for the value of the Kansas lands after the federal government 
+sold the Kansas lands to homesteaders. New York Indians v. 
+United S.ates, 170 US. 1 (1898). Their lawsuit was 
+successful, and the Oneidas living in New York, Wisconsin 
+and Canada shared in the nearly $2 million recovery. Jd; 
+United States v. New York Indians, 173 U.S. 464 (1899); New 
+York Indians v. United States, 40 Ct. Cl. 448, 457-61 (1905); 
+In re Appeal of New York Indians, 41 Ct. Cl. 462, 468-72 
+(1906). Thus, the Oneidas sought and received the benefit of 
+the Kansas reservation established in exchange for their New 
+York lands in the 1838 Treaty of Buffalo Creek. 
+
+
+3. The Lapse In Oneida Tribal Ex; 
+
+
+There is substantial evidence that, following the 1838 
+Treaty of Buffalo Creek, the Oneidas ceased to exist as a 
+tribe in New York for nearly a century. For example, in 
+1877, a district court noted that “[The Oneida] tnbal 
+government has ceased as to those who remained in [New 
+York] state . . . [The designated chief's] sole authority 
+consists in representing them in the receipt of an annuity... 
+They do not constitute a community by themselves, but their 
+dwellings are interspersed with the habitations of the whites. 
+In religion, in customs, in language, in everything but the 
+color o f their skins, they are identified w ith the rest of the 
+population.” United States v. Elm, 25 F. Cas. 1006, 1008 
+(N.D.N.Y. 1877). 
+
+
+Similarly in 1891, the federal government explained 
+that “The Oneida Indians have no reservation.... [The few 
+
+
+Oneidas that remain] are capable and thrifty farmers, and 
+travelers passing through the county are unable to distinguish 
+in point of cultivation the Indian farms from those of the 
+whites. The Oneida have no tribal relations, and are without 
+chiefs or other officers.” /89/ Annual Report of the 
+Commissioner of Indian Affairs to the Secretary of the 
+Interior. (CA 1228-31.) That same observation was oft 
+repeated over the following decades. See 1893 Annual 
+Report of the Commissioner of Indian Affairs to the Secretary 
+of the Interior, 1900 Annual Report of the Department of the 
+Interior, 1901 Annual Report of the Department of the 
+
+
+Interior, 1906 Annual Report of the Department of the 
+Interior. That point is also made in the 1892 Census Map of 
+
+
+New York, which depicts no Oneida reservation. CA 900- 
+95, 1221-56. 
+
+
+That situation persisted into the mid-twentieth 
+century. For example, the record below established that in 
+1925, an Assistant Commissioner of Indian Affairs indicated 
+in a letter that, as a tribe, the Oneidas are no longer known in 
+the S tate o f New Y ork. F urther, in the 1 942 Handbook of 
+Federal Indian Law, Cohen explains that the Oneidas are 
+known no more in the State of New York. Felix S. Cohen, 
+Handbook of Federal Indian Law, 416-17 (1942 ed.). CA 
+1180-83. Moreover, into the 1950’s, in a Committee Report 
+from the S enate C ommittee on Interior and Insular A ffairs, 
+the Committee acknowledged that the “Oneida and Cayuga 
+Indians have no reservations.” S. Rep. No. 1836, at 5 (1950). 
+
+
+The Action Below 
+
+
+In 1997 and 1998, the Oneida Indian Nation used the 
+proceeds from its Turning Stone casino in Verona, New York 
+to purchase several businesses and properties in Madison and 
+Oneida Counties, New York in open-market transactions 
+with private parties. Included in these purchases were the 
+Properties in Sherrill upon which the Oneida Indian Nation 
+
+
+operates a gas station (with an attached convenience store) 
+and a textile manufacturing and distribution facility. 
+
+
+Contending that the Properties were located within its 
+historical reservation, the Oneida Indian Nation refused to 
+pay property taxes assessed by Sherrill on the land and 
+structures, or te collect sales tax on sales of merchandise sold 
+at their businesses. Sherrill sent the Oneida Indian Nation 
+notices of tax delinquency for the Properties and thereafter 
+conducted a tax sale, purchased the Properties and initiated 
+eviction pr. ceedings in New York State Supreme Court (the 
+“Eviction Case”). 
+
+
+The Oneida Indian Nation then sued Sherrill in the 
+United States District Court for the Northern District of New 
+York, seeking a declaratory judgment that the Properties 
+were situated on land that was part of its historic reservation, 
+which they claim was established by the 1794 Treaty of 
+Canandaigua and, therefore, exempt from state and local 
+taxation (the “Lead Case”). The Oneida Indian Nation also 
+removed the Eviction Case to federal court, and contended 
+that Sherrill’s claims were barred by sovereign immunity. In 
+response, Sherrill commenced an action against the 
+individual members of the Oneida Tribal Council (the 
+“Members Case”). The Eviction, Lead and Members Cases 
+were subsequently consolidated and adjudicated in district 
+court. 
+
+
+In a June 4, 2001 memorandum-decision and order, 
+the district court: (1) denied Sherrill’s motion in the Lead 
+Case for summary judgment or, alternatively, a preliminary 
+injunction enjoining the Oneida Indian Nation from 
+purchasing additional properties in Sherrill; (2) granted the 
+Oneida Indian Nation’s cross motion for summary judgment 
+in the Lead Case and granted Oneida Indian Nation’s motion 
+for summary judgment in the Eviction Case; (3) granted 
+summary judgment dismissing Sherrill’s counterclaims 
+
+
+10 
+
+
+against the Oneida Indian Nation in the Lead Case; (4) 
+granted defendants’ motion to dismiss the Members Case; 
+and (5) denied Sherrill’s motion for leave to amend its 
+answer in the Lead Case. Oneida Indian Nation, 145 F. 
+Supp.2d at 266-67.° 
+
+
+The City of Sherrill appealed and, to the extent 
+pertinent here, the Second Circuit affirmed (in a 2-1 
+decision), with Senior Circuit Judge Van Graafeiland 
+dissenting. Oneida Indian Nation v. City of Sherrill, 337 
+F.3d 139 (2d Cir. 2003). The Court of Appeals found that the 
+Properties were Indian country because the reservation had 
+been established, not by New York State in the 1788 Treaty 
+of Fort Schuyler, but rather by the federal government in the 
+1794 Treaty of Canandaigua, 7 Stat. 44. The Second Circuit 
+rejected any notion that the 1838 Treaty of Buffalo Creek, 7 
+Stat 550, required the New York Oneidas to abandon their 
+lands in New York State and move to Kansas. Finally, the 
+Second Circuit held that tribal continuity is not required for a 
+tribe to maintain reservation status and Indian Trade and 
+Intercourse Act protection — that is, a reservation and Indian 
+Trade and Intercourse Act protection continues even if a tribe 
+ceases to exist. 337 F.3d at 155-68. The City of Sherrill 
+petitioned for rehearing or rehearing en banc; that petition 
+was denied on September 15, 2003. 
+
+
+Prior Oneida Litigation In This Court 
+
+
+This case is one of many lawsuits the Oneida Indian 
+Nation has filed in an attempt to undo the 1788 Treaty of Fort 
+Schuyler, 1838 Treaty of Buffalo Creek and the land 
+transactions its ancestors entered into with New York State 
+
+
+beginning over two hundred years ago. Indeed, these 
+disputes have twice before been to this Court: 
+
+
+6 That same day, the district court also entered three separate final 
+judgments disposing of all parties’ claims. 
+
+
+11 
+
+
+Oneida Indian Nation of New York State v. County of 
+Oneida, New York, 414 U.S. 661 (1974) (“Oneida I”) — In 
+1970, the Oneida Indian Nation of New York and the 
+Wisconsin and Thames Oneidas brought suit against Oneida 
+and Madison Counties (the “Counties”) in the Northern 
+District of New York to recover the fair rental value of 
+certain land possessed by the Counties for the period January 
+1, 1968 through December 31, 1969. Jd. at 664-65. The 
+Oneidas claimed that the land at issue was part of the 
+approximately 125,000 acres sold by the Oneidas to New 
+York State in 1795, allegedly in violation of the Indian Trade 
+and Intercourse Act. Jd. This Court held that the Oneidas’ 
+complaint stated a controversy arising under the Constitution, 
+laws, or treaties of the United States, and therefore that the 
+district court erred in dismissing it for lack of federal 
+question jurisdiction. /d. at 666. 
+
+
+County of Oneida, New York v. Oneida Indian Nation 
+of New York, 470 U.S. 226 (1985) (“Oneida IT”) — This Court 
+in Oneida I remanded the case to the district court for trial. 
+On remand, after a trial in which the Counties presented no 
+evidence, the district court held, inter alia, that the Counties 
+were liable for wrongful possession of the lands conveyed to 
+New York State in 1795 because that conveyance violated 
+the Indian Trade and Intercourse Act. Jd. at 232-33. The 
+Court awarded damages for the fair rental value of the land 
+for the two-year period specified in the complaint. /d. at 230. 
+The district court’s decision was appealed. This Court held 
+that the Oneidas could maintain an action for violation of 
+their possessory rights based on federal common law. This 
+Court also held that the Oneidas had a cause of action under 
+federal common law (id. at 236) and that the action was not 
+barred by the defenses of statute of limitations, abatement, 
+ratification or nonjusticiability. Jd. at 240-50. This Court 
+declined to rule on whether laches barred the Oneidas’ claim. 
+
+
+Id. at 244-45. 
+
+
+12 
+
+
+. This Court in Oneida I] was not presented wi 
+did not address the effect of the 1788 tn of Fort iene 
+or the 1838 Treaty of Buffalo Creek. Indeed, the Treaty of 
+Fort Schuyler is not cited at all and the only place the 1838 
+Treaty of Buffalo Creek is mentioned in Oneida IJ is in the 
+dissenting opinion, where Justice Stevens observed that 
+
+[t]here is . . . a serious question whether the Oneida did not 
+abandon their claim to the aboriginal lands in New York 
+when they accepted the Treaty of Buffalo Creek which 
+ceded most of the Tribe’s lands in Wisconsin to the United 
+
+
+States in exchange for a new reservation i Kansas].” 
+U.S. at 269 n.24, tite ll 
+
+
+SUMMARY OF ARGUMENT 
+
+
+L. The Second Circuit’s decision that the Properti 
+are Indian country is in direct conflict with this oe 
+decision in Alaska v. Native Village of Venetie Tribal Gov't 
+522 U.S. 520, 527 (1998) and the 1788 Treaty of Fort 
+Schuyler. In Venetie, this Court held that for property to be 
+Indian country and exempt from taxation it (1) must have 
+been set aside by the federal government for use of Indians as 
+such; and (2) must be under the superintendence of the 
+federal government. The Properties here were neither: they 
+were set aside by the State of New York and superintended 
+by the State of New York and local governments. 
+
+
+of New York then set sai ennann tely 3 , 
+
+Yor! y 300,000 acres fi 
+the Oneidas’ future use. In 1794, the federal government, in 
+the Treaty of Canandaigua, 7 Stat. 44, acknowledged the 
+reservation set aside in the Treaty of Fort Schuyler, but did 
+not create a reservation for the Oneidas. 
+
+
+13 
+
+
+The governing treaties and this Court’s controlling 
+case law compel the conclusion that the Properties are not 
+Indian country under 18 U.S.C. § 1151. Although § 1151 has 
+three prongs — reservations, dependent Indian communities 
+and allotments — this Court made clear in Venetie, 522 U.S. at 
+527, that the essential nature of Indian country is the same 
+under all three prongs of the statute: the land (1) must be set 
+aside b y the federal government for use of Indians as such 
+and (2) must be under the superintendence of the federal 
+
+
+government. 
+
+
+The land at issue was neither set aside nor 
+superintended by the federal government. Rather, the land 
+was set aside for the use of the Oneidas by the State of New 
+York in the 1 788 Treaty of F ort Schuyler. M oreover, as in 
+Venetie, the Oneidas own the Properties in Sherrill in fee 
+simple and are free to use them for any purpose, including 
+any non-Indian purpose. 
+
+
+Nor are the Properties federally superintended. For 
+two centuries, State and local governments have provided all 
+services with respect to the land at issue. The level of federal 
+superintendence over Indian land required for Indian country 
+status is that the federal government “actively controls the 
+lands in question, effectively acting as a guardian for the 
+Indians.” Venetie, 522 U.S. at 533. In other words, the land 
+must be “under the jurisdiction and control of Congress for 
+all g overnmental p urposes, relating to the guardianship and 
+protection of the Indians.” Jd. 
+
+
+Tested by that standard, the Properties are not 
+federally superintended. The federal government never 
+actively controlled the Properties. The federal government 
+never exercised jurisdiction over the Properties, as guardian 
+and protector of Oneida Indian Nation. The Oneida Indian 
+Nation purchased the Properties in fee simple and has since 
+opened businesses on the acquired land. Services for the 
+
+
+14 
+
+
+Properties are provided by Sherrill and not by the federal 
+government. As a result, the land at issue is not Indian 
+
+
+country pursuant to 18 U.S.C. § 1151, and may be tax 
+the City of Sherrill. ” oe 
+
+
+Moreover, the Properties are freely alienable, even if 
+they once were part of the Oneida reservation. That is so for 
+because the Properties are not subject to the protections of 
+the Indian Trade and Intercourse Act, 25 U.S.C. §177. In 
+such circumstances, reservation status is only available by 
+petitioning under § 465 of the Indian Reorganization Act, 25 
+U.S.C. § 465. C ass County, Minn. v. Leech Lake Band of 
+Chippewa Indians, 524 U.S. 103, 115 (1998). 
+
+
+Thus, the Properties are not Indian country. 
+
+
+2. The 1838 Treaty of Buffalo Creek, 7 Stat. 550, 
+required the Oneidas to abandon all lands in the State of New 
+York and remove to Kansas, thus terminating any remaining 
+Oneida reservation in New York. 
+
+
+In Article 1 of the Treaty, the Oneidas and other tribes 
+accepted a tract of land in Kansas “as a permanent home for 
+all the New York Indians, now residing in the State of New 
+York ...” The Oneidas also agreed that the Kansas land was 
+to be their “future home” and “agree[d] to remove to their 
+new homes . . . as soon as they can make satisfactory 
+arrangements with the Governor of the State of New York for 
+the purchase of their lands at Oneida.” /d., Arts. 2, 13. As 
+this Court has recognized, the agreement by the Oneidas and 
+others to abandon all eastern lands was “probably . . . the 
+main inducement” for the United States setting aside the 
+western lands. New York Indians, 170 U.S. at 15. Thus, 
+Congress intended, and the Oneidas agreed, to remove 
+= from New York and Wisconsin and move to 
+
+
+15 
+
+
+Any doubt that the 1838 Treaty of Buffalo Creek 
+disestablished the Oneidas’ New York reservation was put to 
+rest by this Court when Indian tribes including the Oneidas 
+successfully sued the federal government for the value of the 
+Kansas lands that were sci apart for them in the treaty, but 
+later sold by the federal government after the tribes refused to 
+
+
+remove to them. 
+
+
+This Court held in New York Indians v. United States, 
+170 U.S. 1, 19 (1898), that the Treaty was an effective grant 
+of lands and descendants of the Oneidas from New York 
+shared in the nearly $2 million recovery. New York Indians 
+v. United States, 170 U.S. 1 (1898); United States v. New 
+York Indians, 173 U.S. 464 (1899); New York Indians v. 
+United States, 40 Ct. Cl. 448, 457-61 (1905); Jn re Appeal of 
+New York Indians, 41 Ct. Cl. 462, 468-72 (1906). The 
+Oneidas from New York shared in that recovery because they 
+held title to the Kansas lands granted to them by the 1838 
+Treaty of Buffalo Creek. That grant was not a gift. Rather, it 
+was made in consideration of the Oneidas’ agreement to 
+move from and disestablish their New York and other eastern 
+
+
+homes. 
+
+
+Thus, the 1838 Treaty of Buffalo Creek terminated 
+any Oneida reservation in New York. 
+
+
+3. There was substantial evidence below that the 
+Oneidas ceased to exist as a tribe in New York for decades in 
+the late nineteenth and early twentieth centuries. If tribal 
+status ceased, Indian country status and the protections of the 
+Indian Trade and Intercourse Act, 25 U.S.C. § 177, ceased, 
+and the only way that the New York Oneidas could recover 
+reservation status was by petitioning under § 465 of the 
+Indian Reorganization Act, 25 U.S.C. § 465. Cass County, 
+Minn. v. Leech Lake Band of Chippewa Indians, 524 U.S. 
+103, 115 (1998). Thus, at the very least, summary judgment 
+for the Oneida Indian Nation was improper. 
+
+
+16 
+
+
+ARGUMENT 
+
+
+I. UNDER THIS COURT’S DECISION IN 
+VENETIE AND THE 1788 TREATY OF FORT 
+SCHUYLER, THE PROPERTIES ARE NOT 
+INDIAN COUNTRY 
+
+
+The Second Circuit’s decision below must be 
+reversed because it ignores the 1788 Treaty of Fort Schuyler 
+and this Court’s holding in Alaska v. Native Village of 
+Venetie Tribal Gov't, 522 U.S. 520, 527 (1998), that for 
+property to be Indian country and exempt from taxation it (1) 
+must have been set aside by the federal government for use of 
+Indians as such; and (2) must be under the superintendence of 
+the federal government. The Properties here were neither: 
+they were set aside by the State of New York and 
+superintended by the State of New York and local 
+governments; and the 1788 Treaty of Fort Schuyler 
+terminated all aboriginal title. 
+
+
+The controlling legal issue here is whether the 
+Properties are Indian country pursuant to 18 U.S.C. § 1151. 
+The “Indian country classification is the benchmark for 
+approaching the allocation of federal, tribal, and state 
+authority with respect to Indians and Indian lands.” Blunk v. 
+Arizona Dep't of Transp., 177 F.3d 879, 882 (9th Cir. 1999) 
+(quoting Jndian Country, U.S.A., Inc. v. Oklahoma Tax 
+Comm'n, 829 F.2d 967, 973 (10th Cir. 1987)); see Venetie, 
+522 U.S. at 527 (“Although [18 U.S.C. § 1151’s definition of 
+Indian country] by its terms relates only to federal criminal 
+jurisdiction, we have recognized that it also generally applies 
+to questions of civil jurisdiction”). 
+
+
+This Court has explained that “the test for 
+determining whether land is Indian country does not turn 
+upon whether that land is denominated ‘trust land’ or 
+‘reservation.”” Oklahoma Tax Comm'n y. Citizen Band 
+
+
+17 
+
+
+Potawatomi Indian Tribe, 498 U.S. 505, 511 (1991). 
+Reservation status for Indian c ountry purposes is a term of 
+art. 
+
+
+Indian country is defined as: 
+(a) all land within the limits of any Indian 
+
+
+reservation under the jurisdiction of the United 
+States Government . . . (b) all dependent Indian 
+communities within the borders of the United 
+States whether within the original or 
+subsequently acquired territory thereof, and 
+whether within or without the limits of a state, 
+and (c) all Indian allotments, the Indian titles to 
+which have not been extinguished, including 
+rights-of-way running through the same. 
+
+
+18 U.S.C. § 1151 (emphasis added). 
+
+
+In Venetie, this Court explained that, in enacting § 
+1151 in 1948, Congress codified the two requirements that 
+the Court had previously held necessary for a finding of 
+Indian country (federal set aside and _ federal 
+superintendence). Venetie, 522 U.S. at 527. Although § 1151 
+
+
+has three prongs’? — reservations, dependent Indian 
+
+
+7 The Oneida Indian Nation makes no claim that its Sherrill Properties 
+constitute a dependent Indian community or an allotment. Oneida Indian 
+Nation, 145 F. Supp.2d at 244. Thus, only the “reservations” prong of § 
+1151 is at issue in this case. 
+
+
+Moreover, the Oneida Indian Nation concedes that, if the Properties are 
+not Indian country, then the Properties are not exempt from taxation. 
+Thus, although - as we demonstrate below — the Properties are not subject 
+to the Indian Trade and Intercourse Act, 25 U.S.C. § 177, Indian Trade 
+and Intercourse Act coverage is not dispositive on the question of Indian 
+country. Indeed, the Second Circuit has held that the Indian Trade and 
+Intercourse Act has broader reach than Indian country. Mohegan Tribe v. 
+
+
+18 
+
+
+communities and allotments — this Court made clear in 
+Venetie, 522 U.S. at 527, that the essential nature of Indian 
+
+
+Vv 
+In the words of the this Court, 
+
+
+[In our prior cases] . . . we relied upon a finding 
+of both a federal set-aside and federal 
+superintendence in concluding that the Indian 
+lands in question constituted Indian country and 
+that it was permissible for the Federal 
+Government to exercise jurisdiction over them. 
+Section 1151 does not purport to alter this 
+definition of Indian country, but merely lists the 
+three different categories of Indian country 
+mentioned in our prior cases: Indian 
+reservations, dependent Indian communities, 
+and allotments. 
+
+
+Id. at 530 (citations omitted). 
+
+
+Contrary to the decision b elow, the fact that | and is 
+labeled “reservation” land or is subject to the restrictions of 
+the Indian Trade and Intercourse Act is not the test. 
+panne the om gla or gl means in other contexts, 
+reservation status for Indian coun 
+eal soared el spencer tS 
+observed as long ago as 1914 in United States v. Pelican, 232 
+U.S. 442, 449 (1914)(emphasis added), in describing the 
+Colville reservation at issue prior to the creation of 
+allotments, “the original reservation was Indian country 
+
+
+State of Connecticut, 638 F.2d 612, 624 (2d Cir. 1980 
+on sane, ( Ww ), cert. denied, 452 
+
+
+19 
+
+
+simply because it had been validly set apart for the use of the 
+Indians as such, under the superintendence of the 
+
+
+government.” 
+
+
+This Court made the same point in Potawatomi, 498 
+U.S. at 511 (“the test for determining whether land is Indian 
+country does not turn upon whether that land is denominated 
+‘trust land’ or ‘reservation.’ Rather, we ask whether the area 
+has been ‘validly set apart for the use of the Indians as such, 
+under the superintendence of the Government’”) (citations 
+omitted) and other courts — unlike the Second Circuit below — 
+have followed that lead. Malabed v. North Slope Borough, 
+42 F. Supp.2d 927, 933 (D. Alaska 1999)(citing Felix S. 
+Cohen, Handbook of Federal Indian Law, 37 (1982 ed.) (“A 
+reservation is, in effect, simply a more formal or officially 
+recognized variant of a dependent Indian community. . . . 
+[T}hat is, all reservations are lands set aside for the use of 
+Indians under federal superintendence”); see also Federal 
+Power Comm'n v. Tuscarora Indian Nation, 362 U.S. 99, 
+115 (1960)(lands owned by the Tuscarora Indian Nation are 
+not within a reservation, as defined in the Federal Power Act, 
+because they are “owned in fee simple” and “no ‘interest’ in 
+them ‘is owned by the United States”). 
+
+Neither federal set aside nor superintendence is 
+present here. As a result, this Court should reverse the 
+decision below and direct the entry of judgment for 
+Petitioner. 
+
+A. The Properties Were Set Aside By The State of 
+
+New York 
+
+
+1. The 1788 Treaty of Fort Schuyler 
+Terminated Aboriginal Title and Set 
+Aside A State Reservation 
+The Second Circuit ignored the express language of 
+
+
+the 1788 Treaty of Fort Schuyler in concluding that the 
+Properties were set aside by the federal government for use 
+of the Oneidas. The initial paragraph of the 1788 Treaty of 
+Fort Schuyler states, in its entirety, “The Oneidas do cede 
+and grant all their lands to the people of the State of New 
+York forever.”8 Of this grant, New York reserved a 300,000- 
+acre tract for the Oneidas’ “specified uses.” PA 136-38. 
+Thus, it cannot be questioned that the State of New York, and 
+not the federal government, set aside for use by the Oneidas 
+the land upon which the Properties are situated. As a result, 
+the Treaty of Fort Schuyler unambiguously extinguished the 
+Oneidas’ aboriginal title in the first article, and created a 
+State in the second. 
+
+
+: Early authorities confirm that the Oneidas ceded all 
+their land to New York, receiving in return a limited grant of 
+property from New York. In 1823, the Supreme Court of 
+Judicature of New York (Chancellor James Kent), described 
+the treaty as follows: 
+
+
+[I)n Sep., 1788, we have the remarkable fact of 
+the Oneidas ceding the whole of their vast 
+territory to the people of this State, and 
+accepting a retrocession of a part, upon 
+restricted terms, and with permission only to 
+lease certain parts for a term not exceeding 
+twenty-one years. 
+
+
+Goodell v. Jackson, 20 Johns. 693, 729 (N.Y. Sup. Ct. 1823) 
+(emphasis supplied). Similarly, in 1831, Chief Justice 
+Marshall noted that “some tribes” made pre-Constitution 
+treaties with New York State “by which they ceded all their 
+
+
+8 Occurring prior to the effective date of the United States Constitution, 
+
+this sale was entirely lawful. Oneida Indian Nation of New York v. State 
+
+> hp York, 860 F.2d 1145, 1148 (2d Cir. 1988), cert. denied, 493 U.S. 
+(1989). 
+
+
+21 
+
+
+lands to that state, taking back a limited grant to themselves, 
+in which they admit their dependence.” Cherokee Nation v. 
+Georgia, 30 U.S. 1, 17 (1831) (emphasis added).9 
+
+
+Finally, identical language in a 1789 treaty between 
+New York and the Cayuga Indians was construed consistent 
+with Cherokee Nation and Goodell by a panel of arbiters that 
+included Roscoe Pound, Dean of Harvard Law School. In 
+reviewing a claim on behalf of the Cayuga Indians in Canada 
+against the United States for annuities, the panel found that 
+the Cayugas’ title had been extinguished and the lands ceded 
+to New York: “We think the treaty meant to set up an Indian 
+reservation, not to reserve the land from the operation of the 
+cession.” Fred K. Nielsen, American and British Claims 
+Arbitration, 326-27 (citing Cherokee Nation) (Government 
+Printing Office 1926). 
+
+
+Thus, the 1788 Treaty of Fort Schuyler terminated 
+aboriginal title to all Oneida land in New York and set aside 
+a State reservation for the Oneidas. 
+
+
+2. The 1794 Treat of Canandaigua Merely 
+Acknowledged The Existing State Reservation, 
+
+
+. 
+~ 
+a 
+
+
+Sots ¥ tiv 
+
+
+The Second Circuit ignored the 1788 Treaty of Fort 
+Schuyler and found that the Oneida reservation was set aside 
+_by the 1794 Treaty of Canandaigua. 337 F.3d at 155-56. 
+
+
+That is incorrect. Rather, the 1794 Treaty of Canandaigua 
+merely — and expressly — “acknowledged” the land reserved 
+by New York State for the Oneidas. 
+
+
+Thus, in the 1794 Treaty of Canandaigua, Article 2 
+
+
+9 Although Chief Justice Marshall does not specifically identify the 
+Oneidas, he accurately described the 1788 Treaty of Fort Schuyler, as 
+well as sumular treaties with the Onondaga and Cayuga tnbes. 
+
+
+22 
+
+
+provides, in pertinent part, that 
+
+The United States acknowledges the lands 
+reserved to the Oneida, Onondaga and Cayuga 
+Nations, in their respective treaties with the state 
+of New York, and called their reservations, to be 
+their property; and the United States will never 
+claim the same, nor disturb them or either of the 
+Six Nations, nor their Indian friends residing 
+thereon and united with them, in the free use 
+and enjoyment thereof. . . 
+
+
+That is to be contrasted with Article 3 of the treaty, which 
+expressly establishes a reservation for the Senecas. PA 141- 
+42. 
+
+
+Accordingly, the 1794 Treaty of Canandaigua was 
+nothing more than an acknowledgment by the federal 
+government of the Oneida reservation previously created by 
+New York State in the 1788 Treaty of Fort Schuyler. It did 
+not create a federal reservation. 
+
+
+That is confirmed not only by the express language of 
+the Treaty of Canandaigua, but also by the historical context 
+in which the treaty was negotiated. The purpose of the 1794 
+Treaty of Canandaigua was the resolution of a dispute with 
+the Senecas; and the Senecas were the principal intended 
+beneficiary of the Treaty of Canandaigua, not the other tribes 
+of the Six Nations, including the Oneidas. Seneca Nation of 
+Indians v. New York, 206 F. Supp.2d 448, 487 (W.D.NLY. 
+2002). In 1782, New York ceded to the United States its 
+claim to western lands (present-day Ohio), in exchange for a 
+boundary fixed by the federal government. /d. at 473. 
+Thereafter, in the 1784 Treaty of Fort Stanwix, October 22, 
+1784, 7 Stat. 15, the Six Nations released their claims to 
+these western lands, in which, among the Six Nations, only 
+the Senecas had an interest. Jd. at 478-80. The 1784 Treaty 
+
+
+of Fort Stanwix caused discontent among the Senecas, who 
+felt they had been required to relinquish too much land and 
+were affected by inadvertent geographical errors in setting 
+boundaries. Jd. at 480-86. By 1794, this discontent caused 
+the Senecas (and possibly o ther Iroquois tribes) to consider 
+joining the active warfare b etween the w estern Indians and 
+the United States. /d. at 486. To avoid that escalation of 
+hostilities, the United States renewed treaty negotiations at 
+Canandaigua. /d. at 486-87. 
+
+
+Thus, the purposes of the 1794 Treaty of Canandaigua 
+were (1) to reconfirm peace between the United States and 
+the S ix N ations, p articularly t he S enecas, (2) to correct the 
+inadvertent geographical error in boundaries, and (3) to 
+relinquish any rights the United States acquired through that 
+inadvertent error. Jd. at 487. There was no federal purpose 
+to take property from the State of New York or establish a 
+federal reservation for the Oneidas. 
+
+
+At bottom, the 1 794 T reaty o f C anandaigua did not 
+set aside an Oneida reservation. Rather, that land was set 
+aside by the State of New York in the 1788 Treaty of Fort 
+Schuyler. As a result, the land on which the Properties are 
+situated was not set aside by the federal government for use 
+by the Oneidas. Therefore, under Venetie, the Properties are 
+not Indian country. 
+
+
+B. The Properties Were Never Under Federal 
+Superintendence 
+
+
+The Properties are not now and never were under 
+federal superintender -e, which is an independent reason why 
+they are not Indian country. Venetie, 522 U.S. at 533. The 
+Second Circuit essentially rejected that aspect of Venetie, and 
+held that there was no requirement of proof that “reservation” 
+land is federally superintended to be Indian country. That 
+error cannot stand. 
+
+
+The level of federal superintendence over Indian land 
+required for Indian country status is that the federal 
+government “actively controls the lands in question, 
+effectively acting as a guardian for the Indians.” /d. In other 
+words, the land must be “under the jurisdiction and control of 
+Congress for all governmental purposes, relating to the 
+guardianship and protection of the Indians.” /d. 
+
+
+Tested by that standard, the Properties are not 
+federally superintended. The federal government never 
+actively controlled the Properties. The federal government 
+never exercised jurisdiction over the Properties, as guardian 
+and protector of Oneida Indian Nation.!° The Oneida Indian 
+Nation purchased the Properties in fee simple and has since 
+opened businesses on the acquired land. Services for the 
+Properties are provided by Sherrill and not by the federal 
+government. Moreover, the Properties are not part of the 32 
+acres of land in Madison County recognized by the Bureau of 
+Indian Affairs as under the jurisdiction of the federal 
+government. In such circumstances, the federal government 
+does not superintend the Properties. United States v. Roberts, 
+185 F.3d 1125, 1130-31 (10th Cir. 1999), cert. denied, 529 
+U.S. 1108 (2000) (land was under federal superintendence 
+only because the United States retained title to the property; 
+the state considered the property to be beyond its taxing 
+jurisdiction; the BIA Area Director approved the land 
+acquisition; the government oversaw the property; and the 
+BIA treated the property as trust land); HRI, Inc. v. E.P.A., 
+198 F.3d 1224, 1253 (10th Cir. 2000)(land was under federal 
+
+
+10 Indeed, the legislative history to 25 U.S.C. § 233, which conferred 
+jurisdiction on the State of New York for civil actions between Indians 
+(or to which Indians are parties) indicates that the federal Indian Bureau 
+believed, at the time this act was passed, that the Indians of New York 
+“are in no further need of governmental supervision or control.” H.R. 
+REP. NO. 81-2720, at 2 (1949). 
+
+
+25 
+
+
+superintendence because the BIA treated the land in the same 
+manner as lands within the tribe’s formal reservation). 
+
+
+The Second Circuit’s conclusion that the Properties 
+are Indian ceuntry simply because they are within the 
+historical Oneida Indian reservation is incorrect. The court 
+reached that conclusien ly finding that the federal set aside 
+and superintendence requirements are inapplicable where the 
+land in question is a formal reservation. 337 F.3d at 155 
+(“While questions may arise as to whether nonreservation 
+property owned by Indians is in Indian country, there are no 
+such questions with regard to reservation land, which by its 
+nature was set aside by Congress for Indian use under federal 
+supervision.”). | That holding incorrectly (i) presumes the 
+existence of federal set aside; (ii) ignores Venetie;, (ii) 
+eviscerates the requirements of proof of federal set aside and 
+superintendence for all three prongs of 18 U.S.C. § 1151; and 
+(iv) is based upon the incorrect finding that the federal 
+government established the reservation for the Oneidas in 
+New York State through the 1794 Treaty of Canandaigua. 
+That is a distortion of this Court’s precedents and governing 
+treaties. 
+
+
+c. The Sherrill Properties Are Freely Alienable And 
+Are Not Indian Country Absent Federal 
+Regulatory Approval 
+
+
+There is yet another independent reason why the 
+Properties are not Indian country: the Properties were freely 
+alienable prior to their purchase by the Oneidas, and remain 
+so today. As such, they cannot be vested with Indian country 
+status absent regulatory approval by the federal government. 
+That result flows from Supreme Court precedent and the 
+Indian regulatory scheme. 
+
+
+26 
+
+
+1. The i F Alienable 
+
+
+The Properties are freely alienable, even if they once 
+were part of the Oneida reservaticn. The owners of land in 
+the historical Oneida reservation have held fee simple title for 
+most of the last 200 years. The Oneida Indian Nation 
+obtained the Properties in Sherrill in private transactions 
+from non-Indian landowners. The Oneida Indian Nation 
+owns the Properties in Sherrill in fee simple and is free to use 
+them for any purpose, including-any non-Indian purpose, also 
+free from any federal government restrictions. That is so 
+because the Properties are not subject to the protections of 
+the Indian Trade and Intercourse Act, 25 U.S.C. § 177. 
+
+
+The 1794 Treaty of Canandaigua expressly permitted 
+the Oneidas and other tribes to sell, and the expressly granted 
+the people of the United States to purchase, the lands 
+
+
+referenced in the Treaty: “[S]aid reservations shall remain 
+theirs, until they choose to sell the same to the people of the 
+United States, who have the right to purchase.” (PA 141; 
+emphasis added). Thus, as a result of both the 1788 Treaty of 
+Fort Schuyler and the 1794 Treaty of Canandaigua, the sale 
+of the Properties to non-Oneidas was not a violation of the 
+Indian Trade and Intercourse Act, 25 U.S.C. § 177. 
+
+
+Moreover, the Second Circuit erred by concluding 
+that the Indian Trade and Intercourse Act applied to the 
+Properties because of the Oneidas’ “unextinguished” 
+aboriginal title. 337 F.3d at 146-47, 157-58. As explained 
+above, aboriginal title in Properties terminated — was 
+extinguished - in 1788 as a result of the Treaty of Fort 
+Schuyler. Subsequent sales by the Oneidas of portions of 
+their State-created reservation — in which aboriginal title no 
+longer existed — were not prohibited by the Indian Trade and 
+Intercourse Act. See Bates v. Clark, 95 U.S. 204, 208 (1877) 
+(“The simple criterion is that as to all the lands thus described 
+
+
+27 
+
+
+it was Indian country whenever the Indian title had not been 
+extinguished, and it continued to be Indian country so long as 
+the Indians had title to it, and no longer”); American Fur Co. 
+v. United States, 27 U.S. 358, 369 (1829) (the provisions of 
+the Indian Trade and Intercourse Act of 1802 are expressly 
+confined to lands lying within the defined boundary of Indian 
+
+
+country). 
+
+
+The Court of Appeals found that New York State did 
+not hold any interest in the reservation established under the 
+1788 Treaty of Fort Schuyler because, “[aJny mghts [in 
+Indian land] possessed by the State prior to ratification of the 
+Constitution were ceded by the State to the federal 
+government by the State’s ratification of the Constitution.” 
+337 F.3d at 146. That finding violates the concept of State 
+sovereignty preserved by the Tenth Amendment to the 
+Constitution o f the U nited S tates to the extent it applies to 
+lands as to which aboriginal title had been extinguished prior 
+to the effectiveness of the federal Constitution. 
+
+
+In Alden v. Maine, 527 U.S. 706 (1999), this Court 
+explained that “{aJlthough the Constitution establishes a 
+National Government with broad, often plenary authority 
+over matters within its recognized competence, the founding 
+document ‘specifically recognizes the States as sovereign 
+entities.”” Jd. at 713 (quoting Seminole Tribe of Florida v. 
+Florida, 517 U.S. 44, 71, n.15 (1996)); accord Blatchford v. 
+Native Village of Noatak, 501 U.S. 775, 779 (1991). An 
+important component of State sovereignty is that “a State has 
+plenary p owers ‘ over its own territory. . .”” N orthern Sec. 
+Co. v. United States, 193 U.S. 197, 347 (1904) (citing 
+Railroad Co. v. Maryland, 88 U.S. 456, 473 (1874)); accord 
+Wabash, St. Louis & Pac. Ry. v. Illinois, 118 U.S. 557, 591 
+(1886). 
+
+
+In 1788, New York State was the sovereign vested 
+with the right of preemption. In the 1788 Treaty of Fort 
+
+
+28 
+
+
+Schuyler, New York State exercised that right to extinguish 
+aboriginal title and the Oneidas ceded all property rights to 
+the land at issue to the State of New York. These rights were 
+preserved — and not divested — by the federal C onstitution. 
+The Constitution did not deprive the State of New York of 
+jurisdiction over its own territory. 
+
+
+As a result, the Properties owned by the Oneida 
+Indian Nation are freely alienable. 
+
+
+2. Indian Country Status Can Only Be 
+Reclaimed By Federal Regulatory Action 
+
+
+As demonstrated above, the Oneida Indian Nation 
+owns the Properties in fee simple and is free to use them for 
+any purpose, including any non-Indian purpose, also free 
+from any federal government restrictions. T hat land is not 
+Indian country. Blunk v. Arizona Dep’t of Transp., 177 F.3d 
+879, 883-84 (9th Cir. 1999)(“The [Navajo land in question] is 
+not [Indian country] because the land was purchased in fee 
+by the Navajo Nation rather than set aside by the Federal 
+Government”); Buzzard v. Oklahoma Tax Comm'n, 992 F.2d 
+1073, 1076 (10th Cir.), cert. denied, 510 U.S. 994 (1993) 
+(United Keetoowah Band of Cherokee Indians’ (“UKB”) 
+businesses were not located on land set aside by the federal 
+government for purposes of 18 U.S.C. § 1151(b) because title 
+was held by UKB in fee simple and “[n]o action ha[d] been 
+taken b y the federal government indicating t hat it set aside 
+the land for use by the UKB”). 
+
+
+The only way that such land can become Indian 
+
+
+country, and therefore exempt from taxation, is for the 
+Oneida Indian Nation to petition the Secretary of the Interior 
+
+
+29 
+
+
+to restore the land to federal trust protection under the Indian 
+Reorganization Act. 25 U.S.C. § 465. This mandatory 
+procedure flows directly from this Court’s decision in Cass 
+County. 
+
+
+This Court held in Cass County that purchase of 
+freely alienable | and b y an Indian tribe does not make that 
+land Indian country or exempt from state or | ocal taxation. 
+Rather, the “repurchase of [freely alienable] land by an 
+Indian T ribe does not c ause the l and to resume tax-exempt 
+
+
+status . . . unless and until [it is] restored to federal trust 
+protection under § 465.” 524 U.S. at 115 (emphasis added). 
+
+
+The decision below ignores the procedural safeguards 
+put in place by the federal government to prevent and 
+minimize the hardships to individuals, cities, counties and 
+states. Under the Indian Reorganization Act, in order for 
+land to be taken into trust by the government, and thus be 
+exempt from taxation, the tribe must file a petition with the 
+Secretary of the Interior (the “Secretary”). 25 U.S.C. § 465. 
+
+
+When filing a petition under § 465, the applicant must 
+provide for the Secretary’s consideration, inter alia, “[a] 
+description of the effect on the State and its political 
+subdivisions of removing the land from tax rolls,” and “[a] 
+description of any jurisdictional and land use infrastructure 
+issues that might arise.” 25 C.F.R. § 151.12. Local city, 
+county and state governments are afforded an opportunity to 
+respond to such petitions. Before accepting the land in trust, 
+the fe’sral government is required to weigh the impact of the 
+acquisition on the “State and its political subdivisions 
+resulting from the removal of the land from the tax rolls,” as 
+well as the impact of other “jurisdictional problems and 
+potential conflicts of land use which may arise.” 25 C.F.R. § 
+151.10. Moreover, an application may be approved only if 
+necessary to “[flacilitate tribal self-determination, economic 
+development, Indian housing, land consolidation or natural 
+
+
+resource protection; and [the Sec determi 
+
+acquisition provides canteens Seu > ie tae an 
+outweigh any demonstrable harm to the local community.” 
+25 C.F.R. § 151.14. Even if conferring trust status results in 
+benefits to the tribe that outweigh harm to local governments 
+the Secretary may disapprove an application if it would result 
+in “[s]ignificant harm to the local community.” Jd. These 
+procedures allow Oneida Indian Nation to seek to recreate or 
+reclaim a tribal homeland, while balancing hardships to 
+municipalities and residents in central New York. 
+
+
+For all of the foregoing reaso 
+Indien country. going ns, the Properties are not 
+
+
+Il. THE 1838 TREATY OF BUFFALO CRE 
+EK 
+DISESTABLISHED ANY ONEIDA 
+RESERVATION IN NEW YORK 
+
+
+. The 1838 Treaty of Buffalo Creek. 7 Stat 
+required the Oneidas to abandon any hooray the Page 
+New York. The Treaty of Buffalo Creek, subsequent case 
+law, the removal policy of the United States government at 
+the time the treaty was signed and other circumstances all 
+demonstrate that the Oneidas’ New York reservation was 
+disestablished as a matter of law. 
+
+
+A. The Treaty of Buffalo Creek and New York 
+Indians Make Plain That No Oneida Reservation 
+In New York Existed After The Treaty 
+
+
+In Article 1 of the T of Buffalo 
+Oneidas and other tribes weiner yA tract of it een 
+as a permanent home for all the New York Indians, now 
+residing in the State of New York . . .” The Oneidas also 
+agreed that the Kansas land was to be their “future home” 
+and “agree[d] to remove to their new homes . . . as soon as 
+they can make satisfactory arrangements with the Governor 
+
+
+31 . 
+
+
+of the State of New York for the purchase of their lands at 
+Oneida.” /d., Arts. 2, 13. PA 149-50, 155. Congress 
+intended, and the Oneidas agreed, to remove from New York 
+and Wisconsin and move to Kansas permanently. 
+
+
+Equally clear is the fact that the Kansas lands were in 
+exchange for the Oneidas’ remove! from the eastern lands, 
+including lands in New York. Nowhere in the jurisprudence 
+or commentary is it even suggested that the 1838 Treaty of 
+Buffalo Creek was intended to create a Kansas reservation 
+for the Oneidas in addition to a 300,000-acre parcel — or any 
+parcel — in New York. Such a result would turn then-existing 
+federal Indian policy on its head. 
+
+
+Any doubt that the 1838 Treaty of Buffalo Creek 
+disestablished any Oneida reservation in New York was put 
+to rest by this Court when, in the late nineteenth century, 
+Indian tribes including the Oneidas from New York 
+successfully sued the federal government for the value of the 
+Kansas lands that were set apart for them in the treaty, but 
+later sold by the federal government after the tribes refused to 
+remove to them. New York Indians v. United States, 170 U.S. 
+1 (1898). Holding that the Indians were entitled to the value 
+of the Kansas land, this Court stated: 
+
+
+While it might be reasonably contended that 
+[the Indians’] failure to remove should result in 
+a cancellation of the [Treaty of Buffalo Creek], 
+and a restoration to them of their rights in the 
+Wisconsin lands, that construction is precluded 
+by the language of the first article, which 
+contains a present and irrevocable grant of the 
+Wisconsin lands, and puts it beyond their power 
+to revoke the bargain. 
+
+
+Id. at 19. 
+
+
+32 
+
+
+- Significantly, although the language of this Court’s 
+decision was limited to the Wisconsin reservation, the 
+judgment was not so limited. The Oneidas from New York, 
+Wisconsin and Canada all shared in a nearly $2 million 
+recovery flowing from the sale of the Kansas lands. See id.: 
+United States v. New York Indians, 173 U.S. 464 (1899); New 
+York Indians v. United States, 40 Ct. Cl. 448, 457-61 (1905); 
+In re Appeal of New York Indians, 41 Ct. Cl. 462, 468-72 
+(1906) (collectively, the “New York Indians cases”). The 
+Oneidas from New York shared in that recovery because they 
+held title to the Kansas lands granted to them by the 1838 
+Treaty of Buffalo Creek. That grant was not a gift. Rather, it 
+was made in consideration of the Oneidas’ agreement to 
+move from their New York and other eastern homes. The 
+Oneidas sought and received the benefit of the 1838 Treaty 
+of Buffalo Creek, albeit not the benefit they initially 
+bargained for. The Court of Appeals, however, permitted the 
+Oneidas to have their cake and eat it too: to undo the bargain, 
+while retaining the benefit, ie., the proceeds of the civil 
+judgment. 
+
+
+In Oneida II, four Justices of this Court, citing New 
+York Indians and United States v. Santa Fe Pacific R. Co., 
+314 U.S. 339, 357-58 (1941), observed — with respect to an 
+issue not resolved by the Court — that whether the Oneidas 
+abandoned their claim to lands in New York when they 
+signed the Treaty of Buffalo Creek was a “serious question.” 
+Oneida II, 470 U.S. at 269 n.24 (1985) (Stevens, J. 
+dissenting). I t is now time to resolve that serious question 
+and ‘old that the Treaty of Buffalo Creek terminated any 
+Oneida reservation in New York.!! 
+
+
+il Although two district court decisions have held that the Treaty of 
+Buffalo Creek did not retroactively ratify prior land purchases by the 
+
+
+_ State and extinguish causes of action for violation of the Indian Trade and 
+
+
+Intercourse Act, 25 U.S.C. § 177, these cases did not address the issue of 
+
+
+33 
+
+
+B. The Second Circuit Distorted The 1838 Treaty of 
+Buffalo Creek in Numerous Respects 
+
+
+The Second Circuit distorted the 1838 Treaty of 
+Buffalo Creek in numerous respects: 
+
+
+1. The Second Circuit’s misinterpretation of the 
+Treaty of Buffalo Creek is grounded in its mistaken belief 
+that the “central bargain” of the treaty was the Indians’ 
+exchange of their Wisconsin lands for new lands west of the 
+Mississippi. Sherrill, 337 F .3d at 160, 1 64 (the W isconsin 
+land exchange was the “rationale for the award” to the New 
+York Oneidas and others in New York Indians). That ignores 
+the language of the Treaty and the New York Indians cases. 
+The language of the Treaty required all Oneidas living east of 
+the Mississippi River to remove to Kansas. Treaty, Arts. 1, 
+2, 13. PA 148-50, 155. Moreover, this Court has explained 
+that the agreement by the Oneidas and others to abandon all 
+eastern lands, rather than the exchange of Wisconsin and 
+Kansas lands, was “probably . . . the main inducement” for 
+the United States setting aside the western lands. New York 
+Indians, 170 U.S. at 15. Further, the judgment was not 
+limited to lands in Wisconsin; the New York, Wisconsin and 
+Canadian Oneidas all shared in a nearly $2 million recovery. 
+Id. at 19; United States v. New York Indians, 173 U.S. at 468- 
+69; New York Indians v. U.S., 40 Ct. Cl. at 457-61; In re 
+Appeal of New York Indians, 41 Ct. Cl. at 468-72. 
+
+
+2. The Second Circuit also incorrectly viewed Article 
+13 of the Treaty of Buffalo Creek — the Oneidas’ agreement 
+to remove “as soon as” they made satisfactory arrangements 
+
+
+See Cayuga Indian Nationv. Cuomo, 730 F. Supp. 485, 492-93 
+(N.D.N.Y. 1990); Oneida Indian Nation v. County of Oneida, 434 F. 
+Supp. 527, 539 (N._D.N.Y. 1977), aff'd, 719 F.2d 525 (2d Cir. 1983), aff'd 
+in part, rev'd in part, 470 U.S. 226 (1985). 
+
+
+34 
+
+
+with the governor of the State of New York to sell their 
+remaining lands to the State — as a mere “agreement to 
+agree,” conditioned on subsequent land sales to New York 
+State. Sherrill, 337 F.3d at 161.12 On the contrary, this 
+Court in New York Indians held that, by virtue of agreeing to 
+remove, the Oneidas obtained an interest in the new lands for 
+which t he U nited S tates b ecame obliged to pay years | ater, 
+after it sold the land to non-Indian settlers. See 170 U.S. at 
+26, 36. The fact that Oneidas from New York shared in this 
+award, see New York Indians v. United States, 40 Ct. Cl. 448, 
+467, 471-72 (1905), established that their removal agreement 
+in Buffalo Creek was not simply an “agreement to agree.” 
+Indeed, in Article 13, the Oneidas agreed to remove “as soon 
+as” they disposed of their lands, not “only if’ they were able 
+to sell them. PA 155. This Court has recently recognized 
+that an agreement to remove “as soon as” an expected 
+imminent event occurs is a present agreement to remove. See 
+Minnesota v. Mille Lacs Band of Chippewa Indians, 526 U.S. 
+172, 189-90 n.4 (1999). 
+
+
+3. The Second Circuit’s heavy reliance on a 
+purported statement to the Oneidas by the United States 
+treaty commissioner that the treaty did not require them to 
+remove, Sherrill, 337 F.3d at 161-62, is at odds with New 
+York Indians. In New York Indians, this Court concluded that 
+a treaty proviso adopted by the Senate requiring the 
+explanation of its Buffalo Creek amendments to the New 
+York tribes and each tribe’s assent thereto and permitting the 
+President t o deduct from t he new reservation 3 20 acres for 
+each Indian who did not remove never became effective 
+
+
+12 Indeed, elsewhere in its opinion, the Second Circuit recognized that 
+the Oneidas had not merely agreed to agree to remove. 337 F.3d at 165 
+n.22 (acknowledging that New York Indians held that the Oncidas 
+obtained nonforfeitable rights to the Kansas lands “merely by their 
+agreement to remove”). 
+
+
+35 
+
+
+because there was no evidence that the President ever 
+approved the proviso. 170 U.S. at 22-23. The alleged 
+statement cited by the Second Circuit is not annexed to the 
+Treaty as reproduced in Statutes at Large and there is no 
+evidence that it was ever approved by the Senate or the 
+President. See 7 Stat. at 562-63 (no qualification of the 
+Oneidas’ agreement to remove); Supp. Art., 7 Stat. at 561, 
+564 (explicitly providing that the United States would not 
+compel the St. Regis Indians to remove). 
+
+
+4. The Second Circuit improperly required the 
+
+
+presence of specific cession language to make a finding of 
+reservation disestablishment. 337 F.3d at 158-61. (“[tJhere 
+
+
+is no specific c ession | anguage, and no fixed sum payment 
+for opened land in New York”). A reservation may be 
+diminished despite the absence of specific cession language. 
+See Hagen v. Utah, 510 U.S. 399, 403-04 (1994) (finding 
+disestablishment where reservation land was “restored to the 
+public domain” by statute, although the tribe refused to enter 
+atreaty for cession ofits land); see also Solem v. Bartlett, 
+465 U.S. 463, 471 (1984) (“explicit language of cession and 
+unconditional compensation are not prerequisites for a 
+finding of diminishment”); Rosebud Sioux Tribe v. Kneip, 
+430 U.S. 584, 588 n.4 (1977). On the contrary, what is 
+required for reservation disestablishment is merely that the 
+“congressional determination to terminate . . . be expressed 
+on the face of the Act or be clear from the surrounding 
+circumstances and legislative history.”” DeCoteau v. District 
+County Court for the Tenth Judicial District, 420 U.S. 425, 
+444 (1975) (quoting Mattz v. Arnett, 412 U.S. 481, 505 
+(1973)). The express terms of the Treaty of Buffalo Creek, 
+as well as the legislative history and surrounding 
+circumstances, make clear that Congress intended to 
+disestablish any Oneida reservation in New York. 
+
+
+First, Article 2 of the Treaty (PA 1 49-50) explicitly 
+refers to the Indian Removal Act of 1830, 4 Stat. 411, the 
+
+
+purpose of which was to “[mJake a vast area available for 
+white settlement while reducing the conflict of sovereign 
+authority caused by the presence of independent Indian 
+governments within state boundaries.” Felix S. Cohen, 
+Handbook of Federal Indian Law, 79 (1982 ed.). The Indian 
+Removal Act’s goal of avoiding conflicts of state and tribal 
+sovereignty could be accomplished only if any Oneida 
+sovereignty over the area from which they were obligated to 
+remove was terminated. 
+
+
+Second, the legislative history of other congressional 
+acts supports the view that Congress intended to disestablish 
+the Oneidas’ New York reservation. For example, the 
+legislative history of 25 U.S.C. § 233, which conferred 
+jurisdiction on the State of New York for civil actions 
+between Indians (or to which Indians are parties) states that 
+the “Oneida . . . Indians have no reservation” in New York 
+State and “are in no further need of governmental supervision 
+or control.” H.R. REP. No. 81-2720, at 2 (1949). Thus, 
+consistent with the 1838 Treaty of Buffalo Creek and the 
+decisions in the New York Indians cases, Congress (over one 
+hundred years after the 1838 Treaty of Buffalo Creek was 
+ratified) continued to express the view that the Oneidas’ New 
+York reservation was no more. 
+
+
+Third, as explained above, in New York Indians, this 
+Court held that title to the Kansas lands passed to the Oneidas 
+at the time the Treaty of Buffalo Creek was made. New York 
+Indians, 170 U.S. at 34. Surely, Congress did not intend to 
+pass title to land in Kansas to the Oneidas, while at the same 
+time allowing a 300,000-acre reservation in New York to 
+continue to exist. 
+
+
+Fourth, the circumstances the Properties 
+mandate a finding that the 1838 Treaty of Buffalo Creek 
+bative” evid of diminis! (or di blis! ) is 
+
+
+37 
+
+
+statutory language, this Court also considers “the subsequent 
+treatment of the area in question and the pattern of settlement 
+there.” South Dakota v. Yankton Sioux Tribe, 522 U.S. 329, 
+330 (1998) (citing Hagen v. Utah, 510 U.S. 399 (1994)). The 
+City of Sherrill is predominantly populated by non-Indians. 
+In fact, the record below established that only .3% (three- 
+tenths of one percent) of Sherrill’s population is American 
+Indian, Eskimo, or Aleut. Furthermore, New York State, 
+and later the City of Sherrill, have exercised jurisdiction over 
+this land from the time of the Properties’ transfer from the 
+Oneidas to non-Indians. 
+
+
+Finally, the Second Circuit’s observation that the 
+influx of non-Indian settlers into the area is the “least 
+compelling” consideration in the allotment context (337 F.3d 
+at 164) has no force in the context of a removal treaty such as 
+Treaty of Buffalo Creek. Unlike allotment cases — where 
+Indians were expected to remain on their allotted lands in the 
+vicinity of lands that were opened to settlement by others - 
+the premise of the Treaty of Buffalo Creek was that the 
+Oneidas were to leave New York entirely and move to a 
+
+
+reservation in Kansas. !3 
+
+
+5. The Second Circuit’s holding that the Treaty of 
+Buffalo Creek did not terminate any Oneida reservation in 
+New York also conflicts with this Court’s holding in United 
+States v. Santa Fe Pacific R. Co., 314 U.S. 339 (1941). In 
+Santa Fe, the Walapai Indians requested that a new 
+reservation be created for them because of the encroachment 
+of settlers orto their lands. The President created the new 
+
+
+13 finding that the Oneida reservation was terminated is not precluded 
+by the fact that a 32-acre parcel in the area is recognized as Oneida land 
+today. If the Oneidas reconstituted as a tribe in New York, the federal 
+government could recognize at that time a federal reservation for those 
+New York Oneidas. 
+
+
+38 
+
+
+reservation by executive order and the Walapais acc 
+although only a few actually moved con tee ae 
+Court held that the creation o f the new reservation and the 
+tribe’s acceptance of it amounted to a relinquishment of tribal 
+claims to lands outside the new reservation. Santa Fe, 314 
+U.S. at 357-58.14 
+
+
+This Court’s decision in New York Indians establi 
+
+that the Oneidas accepted a new western reservation a 
+Treaty of Buffalo Creek. Although only a few Oneidas 
+actually removed, the Oneidas received the benefit of their 
+bargain: they were paid for the new reservation in New York 
+Indians. Santa Fe establishes t hat the benefit came w ith a 
+corresponding burden: the Oneidas’ relinquished any alleged 
+tribal jurisdiction over lands in New York. 
+
+
+Therefore, it is beyond legitimate dispute that the 
+1838 Treaty of Buffalo Creek disestablished any Oneida 
+reservation in New York. 
+
+
+” The decision below also conflicts with the holdings of the Seventh 
+Circuit in Menominee Indian Tribe v. Thompson, 161 F.3d 449, 458-59 
+(7th Cir. 1998), cert. denied, 526 U.S. 1066 (1999) (hunting and fishing 
+Pot nives in lands Gast the wibe coded to the Unieed States in an 
+treaty were terminated by an 1848 treaty in which the tribe agreed to 
+cede to the United States its remaining Wisconsin lands and remove to 
+Minnesota, although the hunting and fishing rights were not mentioned in 
+the 1848 treaty and the tribe never left Wisconsin); Sokaogon Chippewa 
+Community v. Exxon Corp., 2 F.3d 219, 223-24 (7th Cir. 1993), cert. 
+denied, 510 U.S. 1196 (1994)(hunting and other occupancy rights 
+retained by the tribe in land ceded to the United States in an 1842 treaty 
+were extinguished in an 1854 treaty ceding their lands to the United 
+States in exchange for a promise of reservations and annual payments). 
+
+
+39 
+
+
+Ill. INDIAN COUNTRY STATUS CEASES WHEN A 
+TRIBE NO LONGER EXISTS 
+
+
+A final reason why the judgment below must be 
+reversed is that Indian country status ceases when a tribe no 
+longer exists. Indian country includes reservations, 
+dependent communities and allotments of Indian tribes. 18 
+U.S.C. § 1151. Once an Indian tribe no longer exists, Indian 
+country status for the tribe’s land ceases. To restore Indian 
+country status if the tribe or a successor thereafter comes 
+back into existence, an application must be made under the 
+Indian Reorganization Act. The Second Circuit’s holding to 
+the contrary improperly expands the scope of Indian country. 
+
+
+The Indian Trade and Intercourse Act, 25 U.S.C. § 
+177, protects Indian country.!5 The Court of Appeals held 
+that there is “no requirement in the law that a federally 
+recognized tribe demonstrate its continuous existence in 
+order to assert a claim to its reservation land.” 337 F.3d at 
+165. That is illogical, circular and incorrect. Rather, the 
+Oneida Indian N ation has no rights under the Indian T rade 
+and Intercourse Act, 25 U.S.C. § 177, and no claim to 
+historical reservation status for the Properties, unless the 
+Oneida Indian Nation has been in continuous tribal existence 
+since the Properties became subject to the Act. Golden Hill 
+Paugussett Tribe v. Weicker, 39 F.3d 51, 56 (2d Cir. 1994) 
+(“Paugussett”); Mashpee Tribe v. Secretary of the Interior, 
+820 F.2d 480 (ist Cir. 1987) (tribe may recover only if it 
+shows that it was in continuous tribal existence and did not 
+abandon tribal status from the time the land was alienated 
+until the time of suit); Mashpee Tribe v. Town of Mashpee, 
+447 F. Supp. 940, 950 & n.7 (D. Mass. 1978), aff'd, 592 F.2d 
+
+
+15 That is so whether the scope of the Indian Trade and Intercourse Act 
+is limited to Indian country or is broader than Indian country 
+
+
+40 
+
+
+575 (1st Cir. 1979). 
+
+
+The fact that Oneida Indian Nation is presently 
+federally recognized tribe is irrelevant to whether the S it 
+currentiy owns is Indian country. “{T)ribal status for 
+purposes of obtaining federal benefits is not necessarily the 
+same as tribal status under the Indian Trade and Intercourse 
+Act.” Paugussett, 39 F.3d at 57. Thus, “[(rjegardless of 
+whether the BIA were to acknowledge [an Indian group] as a 
+tribe for purposes of federal benefits, [the Indian group] must 
+still turn to the district court for an ultimate judicial 
+
+
+determination of its claim under the Indi 
+Intercourse Act.” /d. at 58. dials 
+
+
+The Second Circuit’s logical fallacy is as follows: If 
+there was a lapse in the Oneida Indian Nation’s tribal status 
+Indian Trade and Intercourse Act coverage and Indian 
+country status both terminate at the moment in time when 
+that lapse begins. No other result is possible: How can land 
+be Indian country if the tribe that previously owned or used it 
+has ceased to exist? How can land be owned by an Indian 
+tribe if the tribe has ceased to exist? 
+
+
+. Once Indian country status ends, or once the 
+protection of the Indian Trade and Intercourse Act ceases, the 
+land As then freely alienable, subject to state and local 
+taxation, purchase by the tribe does not create an exemption 
+to taxation unless the lands are restored to trust protection 
+under § 465 of the Indian Reorganization Act. Cass County, 
+
+
+Minn. v. Leech Lake Band of Chi Indi 
+ses Cisne of Chippewa Indians, 524 U.S. . 
+
+
+7 As Judge Van Graafeiland observed in dissent below, 
+authoritative sources” have explained the Significance of 
+tribal discontinuity on aboriginal rights. 
+
+
+* “Since original Indian title is dependent upon 
+
+
+41 
+
+
+proof of actual, continuous, and exclusive 
+possession, proof of voluntary abandonment of 
+an area by a tribe constitutes a defense to the 
+aboriginal claim.” Felix S. Cohen, Federal 
+Indian Law, Ch. 9, Sec. A2a (1982 ed.). 
+
+
+¢ “The right of Indians to their occupancy is as 
+sacred as that of the United States to the fee, but 
+it is only a right of occupancy . . . The 
+possession, when abandoned by the Indians, 
+attaches itself to the fee without further grant.” 
+United States v. Cook, 86 U.S. 591, 593 (1873). 
+
+
+¢ “We think it entirely clear that this treaty did 
+not convey a fee simple title to the Indians; that 
+under it no tribe could claim more than a right to 
+
+
+° “By the treaty the Osages ceded and 
+relinquished to the United States all of that 
+reservation, and in consideration therefor the 
+United States reserved, set apart, what later was 
+known as the Kansas Reservation in which the 
+Indians were given only the night of occupancy 
+so long as they might choose to remain; and as 
+already said they later chose to go elsewhere 
+which is a surrender and abandonment of the 
+only right given to them by the treaty.” Shore v. 
+—— Corp., 60 F.2d 1, 3 (10th Cir. 
+
+
+337 F.3d at 171-72. 
+
+
+The record below contained substantial evidence that 
+
+
+continued occupancy; and that when this was 
+the New York Oneidas ceased to exist for a substantial period 
+
+
+abandoned all legal right or interest which both 
+
+
+tribe and its members had in the territory came of time: 
+
+
+to an end.” Williams v. City of Chicago, 242 
+U.S. 434, 437-38 (1917). 
+
+
+* “To establish a prima facie case based on a 
+violation of the [Nonintercourse] Act, a plaintiff 
+must show that ... the trust relationship between 
+the United States and the tribe has not been 
+terminated or abandoned.” Golden Hill 
+Paugussett Tribe of Indians v. Weicker, 39 F.3d 
+51, 56 (2d Cir.1994)(emphasis added). 
+
+
+* “Certainly individual Indians or portions of 
+tribes may choose to give up tribal status.... If 
+all or nearly all members of a tribe chose to 
+abandon the tribe, then, it follows, the tribe 
+would disappear.” Mashpee Tribe v. New 
+Seabury Corp., 592 F.2d 575, 587 (Ist Cir. 
+1979). 
+
+
+42 
+
+
+* 1877: “[The Oneida] tribal government has 
+ceased as to those who remained in [New York] 
+State . . . [The designaied chief’s] sole authority 
+consists in representing them in the receipt of an 
+annuity.... They do not constitute a community 
+by themselves, but their dwellings are 
+interspersed with the habitations of the whites. 
+In religion, in customs, in language, in 
+everything but the color of their skins, they are 
+identified with the rest of the population.” 
+United States v. Elm, 25 F. Cas. 1006, 1008 
+(N.D.N.Y. 1877). 
+
+
+* 1891: “The Oneida Indians have no 
+reservation... [The few Oneidas that remain] are 
+capable and thrifty farmers, and travelers 
+passing through the county are unable to 
+
+
+43 
+
+
+distinguish in point of cultivation the Indian 
+farms from those of the whites. The Oneida 
+have no tribal relations, and are without chiefs 
+or other officers.” 1/89] Annual Report of the 
+Commissioner of Indian Affairs to the Secretary 
+of the Interior. CA 1228-31. 
+
+
+* The 1892 Census Map of New York depicts no 
+Oneida reservation. CA 990-95,1221. 
+
+
+¢ 1893: “The Oneidas have no reservation. 
+Most of that tribe removed to Wisconsin in 
+1846. The few who remained retained 350 
+acres of land in Oneida and Madison counties, 
+near the village of Oneida. This land was 
+divided in severalty among them and they were 
+made citizens.” 1/893 Annual Report of the 
+Commissioner of Indian Affairs to the Secretary 
+of the Interior. CA 1228-31. 
+
+
+* 1900: “The Cayuga and Oneida have no 
+reservations. A few families of the latter reside 
+among the whites in Oneida and Madison 
+counties in the vicinity of the Oneida 
+Reservation which was sold and broken up in 
+1846, when most of the Oneida removed to 
+Wisconsin. What lands they have they own in 
+fee simple, and the Oneida here are voters in the 
+white elections. A considerable number of the 
+Oneida live on the Onondaga Reservation.” 
+1900 Annual Reports of the Department of the 
+Interior. CA 1232-39. 
+
+
+* 1901: “The Oneida have no reservation. 
+Most of the tribe removed to Wisconsin in 1846. 
+A few families are still living in Oneida and 
+Madison counties, near the old Oneida 
+
+
+Reservation and near the village of that name. 
+They are citizens of New York and are entitled 
+to vote at white elections... At one time they 
+owned several hundred acres of land, which 
+they held in severalty, but they have sold most 
+of it, and now have only a few small and 
+scattered pieces.” 190] Annual Reports of the 
+Department of the Interior. CA 1232-39. 
+
+
+* 1906: “The New York Oneida have no 
+reservation: in fact can hardly be said to 
+maintain a tribal existence. About 100 of them 
+have “squatted” on the Onondaga Reserve: so 
+many of these have intermarried with the 
+Onondaga as to preclude any probability of their 
+removal.... About 120 of them are carried on the 
+agency rolls as “Oneidas at Oneida” which is 
+somewhat misleading, as in reality this roll is 
+made up of scattered families residing in 
+Oneida, Madison, Livingston, Genesee, 
+Herkimer, and other counties of the State.” 
+1906 Annual Report of the Department of the 
+Interior. CA 1240-41. 
+
+
+The non-existence of the New York Oneidas as a tribe 
+persisted into the mid-twentieth century. For example, the 
+record below also showed that in 1925, an Assistant 
+Commission of Indian Affairs indicated in a letter that, as a 
+tribe, the Oneidas are no longer known in the State of New 
+York. (CA 1250.) Further, in the 1942 Handbook of Federal 
+Indian Law, Cohen explains that the Oneidas are known no 
+more in the State of New York. Felix S. Cohen, Handbook of 
+Federal Indian Law, 416-17 (1942 ed.). (CA 1180-83.) 
+Moreover, into the 1950’s, in a Committee Report from the 
+Senate Committee on Interior and Insular Affairs, the 
+Committee acknowledged that the “Oneida and Cayuga 
+Indians have no reservations.” S. Rep. No. 1836, at 5 (1950). 
+
+
+os 45 
+
+
+Accordingly, the Second Circuit misinterpreted the 
+scope of the Indian Trade and Intercourse Act, and wrongly 
+affirmed the grant of summary judgment for the Oneida 
+Indian Nation. At the very least, that error should be 
+corrected and the judgment reversed and the case remanded 
+for discovery and trial. 
+
+
+N ION 
+For all of the foregoing reasons, the judgment of the 
+court of appeals should be reversed. 
+August 11, 2004 Respectfully submitted, 
+Ira S. Sacks 
+~ Counsel of Record 
+
+
+Esther S. Trakinski 
+
+Gursky & Partners, LLP 
+Attorneys for Petitioner 
+1350 Broadway 
+
+New York, New York 10018 
+(212) 904-1234 
+
+
