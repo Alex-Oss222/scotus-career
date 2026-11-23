@@ -1,0 +1,32 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 252,
+    "params": {
+      "query": "collection:us-supreme-court AND (title:Lofton OR identifier:04-478)",
+      "qin": "collection:us-supreme-court AND (title:Lofton OR identifier:04-478)",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 100,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 3,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA40386003_1421",
+        "title": "Lofton v. Secretary, Florida Department of Children and Families, 543 U.S. 1081 (2005) (No. 04-478)"
+      },
+      {
+        "identifier": "micro_IA40386019_1816",
+        "title": "Lofton-Taylor v. Verizon Wireless (No. 08-257)"
+      },
+      {
+        "identifier": "per_scotus_1883_17_0",
+        "title": "George A. Cunningham, Appellant, vs. The Macon and Brunswick Railroad Company, Edward A. Flewellen, W. A. Lofton, and George S. Jones, Styling Themselves Directors of the Macon and Brunswick Railroad; J. W. Renfroe, Treasurer of the State of Georgia;"
+      }
+    ]
+  }
+}

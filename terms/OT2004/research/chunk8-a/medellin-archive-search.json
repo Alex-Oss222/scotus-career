@@ -1,0 +1,40 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 467,
+    "params": {
+      "query": "collection:us-supreme-court AND (title:Medellin OR identifier:04-5928)",
+      "qin": "collection:us-supreme-court AND (title:Medellin OR identifier:04-5928)",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 100,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 5,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA40385016_0112",
+        "title": "Medellin v. Dretke, 544 U.S. 660 (2005) (No. 04-5928)"
+      },
+      {
+        "identifier": "micro_IA40385006_2031",
+        "title": "Medellin v. United States, 446 U.S. 966 (1980) (No. 79-1684)"
+      },
+      {
+        "identifier": "micro_IA40385016_0518",
+        "title": "Medellin v. Texas, 552 U.S. 491 (2008) (No. 06-984)"
+      },
+      {
+        "identifier": "micro_IA40385016_0453",
+        "title": "Medellin v. Texas, 552 U.S. 491 (2008) (No. 06-984)"
+      },
+      {
+        "identifier": "micro_IA40385016_0126",
+        "title": "Medellin v. Dretke, 544 U.S. 660 (2005) (No. 04-5928)"
+      }
+    ]
+  }
+}

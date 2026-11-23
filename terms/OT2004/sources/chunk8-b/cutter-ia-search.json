@@ -1,0 +1,68 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 311,
+    "params": {
+      "query": "collection:us-supreme-court AND ((text:&quot;03-9877&quot; OR text:&quot;03-9877&quot; OR text__reviews:&quot;03-9877&quot;) OR (text:Cutter OR text:Cutter OR text__reviews:Cutter))",
+      "qin": "collection:us-supreme-court AND (&quot;03-9877&quot; OR &quot;Cutter&quot;)",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 20,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 12,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA40385011_1436",
+        "title": "Perati v. Cutter, 466 U.S. 933 (1984) (No. 83-1371)"
+      },
+      {
+        "identifier": "micro_IA40385015_0868",
+        "title": "White v. Woodall, 572 U.S. 415 (2014) (No. 12-794)"
+      },
+      {
+        "identifier": "micro_IA40385602_1662",
+        "title": "Chicago Cutter-Karcher, Inc. v. Maley, 385 U.S. 847 (1966) (No. 208)"
+      },
+      {
+        "identifier": "micro_IA40385017_1589",
+        "title": "Hoevenaar v. Lazaroff, 545 U.S. 1101 (2005) (No. 04-534)"
+      },
+      {
+        "identifier": "micro_IA40386018_1271",
+        "title": "Quick Point, Inc. v. Pacific Handy Cutter, Inc., 526 U.S. 1066 (1999) (No. 98-1269)"
+      },
+      {
+        "identifier": "micro_IA40385016_0178",
+        "title": "Cutter v. Wilkinson, 544 U.S. 709 (2005) (No. 03-9877)"
+      },
+      {
+        "identifier": "per_scotus_1888_125",
+        "title": "James O. Cleaveland, Cornelius B. Cummings and Washington Libby, Plaintiffs in Error, vs. George S. Richardson, Charles S. Smith, George K. Guild, Ralph L. Cutter, and Harrison Gardner. 1888: Vol 125"
+      },
+      {
+        "identifier": "micro_IA40385607_1750",
+        "title": "Pacific Handy Cutter, Inc. v. City of South El Monte, 416 U.S. 970 (1974) (No. 73-1358)"
+      },
+      {
+        "identifier": "micro_IA40386017_1231",
+        "title": "Cutter v. Northwest Administration, Inc. (No. 09-573)"
+      },
+      {
+        "identifier": "micro_IA40385016_0020",
+        "title": "Cutter v. Wilkinson, 544 U.S. 709 (2005) (No. 03-9877)"
+      },
+      {
+        "identifier": "micro_IA40385020_3376",
+        "title": "Cutter v. United States, 499 U.S. 947 (1991) (No. 90-1081)"
+      },
+      {
+        "identifier": "micro_IA40386408_0200",
+        "title": "Black v. Cutter Laboratories, 351 U.S. 292 (1956) (No. 92)"
+      }
+    ]
+  }
+}

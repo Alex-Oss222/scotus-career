@@ -1,0 +1,5 @@
+# Lofton — opinion form fixed before assignment
+
+One signed integrated opinion applies the existing intermediate-scrutiny rule (Part I), decides the categorical exclusion on the developed record (Part II), and supplies effective statewide eligibility relief with ordinary child-specific procedures and alternative family-liberty nonreach (Part III). Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer join all three parts and the complete implementation remedy confirmed in the additive frozen receipt. O'Connor and Kennedy apply binding law without retroactively joining its original adoption.
+
+Scalia and Thomas share one dissent proposing rejection of the intermediate tier and separately rejecting the preserved existing-family claim at the new-status boundary. No separate concurrence or divided lead performs additional legal work. The seven complete supporters are eligible for the integrated lead. Form, propositions, remedy and eligibility are fixed on their legal grounds before the fresh count and author selection.

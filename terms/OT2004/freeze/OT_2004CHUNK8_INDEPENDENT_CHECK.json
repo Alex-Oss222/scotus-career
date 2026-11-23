@@ -1,0 +1,2432 @@
+{
+  "status": "needs_textual_review",
+  "checks": [
+    {
+      "check": "Required baseline exists: protected-before.json",
+      "passed": true
+    },
+    {
+      "check": "Required baseline exists: earlier-artifacts-before.json",
+      "passed": true
+    },
+    {
+      "check": "Required baseline exists: frozen-inputs-before.json",
+      "passed": true
+    },
+    {
+      "check": "All protected and immutable-input bytes retained",
+      "passed": true,
+      "files": 496,
+      "missing": [],
+      "changed": []
+    },
+    {
+      "check": "Inventory carries eleven chunk 8 events",
+      "passed": true,
+      "actual": 11
+    },
+    {
+      "check": "Eleven new canonical Records",
+      "passed": true,
+      "actual": 11
+    },
+    {
+      "check": "Four exact opening labels: arthur-andersen-llp-v-united-states_merits_2005-05-31.md",
+      "passed": true
+    },
+    {
+      "check": "Natural key and event date: arthur-andersen-llp-v-united-states_merits_2005-05-31.md",
+      "passed": true
+    },
+    {
+      "check": "Unique event identity: arthur-andersen-llp-v-united-states_merits_2005-05-31.md",
+      "passed": true
+    },
+    {
+      "check": "Record matches one inventory event: arthur-andersen-llp-v-united-states_merits_2005-05-31.md",
+      "passed": true,
+      "matches": [
+        6
+      ]
+    },
+    {
+      "check": "One bounded Public Projection: arthur-andersen-llp-v-united-states_merits_2005-05-31.md",
+      "passed": true
+    },
+    {
+      "check": "Exact eleven public blocks in order: arthur-andersen-llp-v-united-states_merits_2005-05-31.md",
+      "passed": true,
+      "headings": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ]
+    },
+    {
+      "check": "Required public blocks populated: arthur-andersen-llp-v-united-states_merits_2005-05-31.md",
+      "passed": true
+    },
+    {
+      "check": "Full Chief public surname: arthur-andersen-llp-v-united-states_merits_2005-05-31.md",
+      "passed": true
+    },
+    {
+      "check": "No public workflow metadata: arthur-andersen-llp-v-united-states_merits_2005-05-31.md",
+      "passed": true
+    },
+    {
+      "check": "Participation roster is mechanically identifiable: arthur-andersen-llp-v-united-states_merits_2005-05-31.md",
+      "passed": true
+    },
+    {
+      "check": "Opinion author/joins within participation: arthur-andersen-llp-v-united-states_merits_2005-05-31.md / Opinion of the Court",
+      "passed": true,
+      "authors": [
+        "Scalia"
+      ],
+      "joins": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela",
+        "Thomas"
+      ]
+    },
+    {
+      "check": "Four exact opening labels: clingman-v-beaver_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Natural key and event date: clingman-v-beaver_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Unique event identity: clingman-v-beaver_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Record matches one inventory event: clingman-v-beaver_merits_2005-05-23.md",
+      "passed": true,
+      "matches": [
+        2
+      ]
+    },
+    {
+      "check": "One bounded Public Projection: clingman-v-beaver_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Exact eleven public blocks in order: clingman-v-beaver_merits_2005-05-23.md",
+      "passed": true,
+      "headings": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ]
+    },
+    {
+      "check": "Required public blocks populated: clingman-v-beaver_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Full Chief public surname: clingman-v-beaver_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "No public workflow metadata: clingman-v-beaver_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Participation roster is mechanically identifiable: clingman-v-beaver_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Judgment arithmetic: clingman-v-beaver_merits_2005-05-23.md / Judgment",
+      "passed": true,
+      "count": [
+        5,
+        4
+      ],
+      "supporting": [
+        "Ginsburg",
+        "Kennedy",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela"
+      ],
+      "opposing": [
+        "Breyer",
+        "O'Connor",
+        "Scalia",
+        "Thomas"
+      ]
+    },
+    {
+      "check": "Opinion author/joins within participation: clingman-v-beaver_merits_2005-05-23.md / Opinion of the Court",
+      "passed": true,
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "joins": [
+        "Ginsburg",
+        "Kennedy",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "check": "Whole lead joins support judgment: clingman-v-beaver_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Opinion author/joins within participation: clingman-v-beaver_merits_2005-05-23.md / Opinion concurring in part and dissenting in part",
+      "passed": true,
+      "authors": [
+        "O'Connor"
+      ],
+      "joins": [
+        "Breyer",
+        "O'Connor",
+        "Scalia",
+        "Thomas"
+      ]
+    },
+    {
+      "check": "Four exact opening labels: cutter-v-wilkinson_merits_2005-05-31.md",
+      "passed": true
+    },
+    {
+      "check": "Natural key and event date: cutter-v-wilkinson_merits_2005-05-31.md",
+      "passed": true
+    },
+    {
+      "check": "Unique event identity: cutter-v-wilkinson_merits_2005-05-31.md",
+      "passed": true
+    },
+    {
+      "check": "Record matches one inventory event: cutter-v-wilkinson_merits_2005-05-31.md",
+      "passed": true,
+      "matches": [
+        7
+      ]
+    },
+    {
+      "check": "One bounded Public Projection: cutter-v-wilkinson_merits_2005-05-31.md",
+      "passed": true
+    },
+    {
+      "check": "Exact eleven public blocks in order: cutter-v-wilkinson_merits_2005-05-31.md",
+      "passed": true,
+      "headings": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ]
+    },
+    {
+      "check": "Required public blocks populated: cutter-v-wilkinson_merits_2005-05-31.md",
+      "passed": true
+    },
+    {
+      "check": "Full Chief public surname: cutter-v-wilkinson_merits_2005-05-31.md",
+      "passed": true
+    },
+    {
+      "check": "No public workflow metadata: cutter-v-wilkinson_merits_2005-05-31.md",
+      "passed": true
+    },
+    {
+      "check": "Participation roster is mechanically identifiable: cutter-v-wilkinson_merits_2005-05-31.md",
+      "passed": true
+    },
+    {
+      "check": "Opinion author/joins within participation: cutter-v-wilkinson_merits_2005-05-31.md / Opinion of the Court",
+      "passed": true,
+      "authors": [
+        "Souter"
+      ],
+      "joins": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela",
+        "Thomas"
+      ]
+    },
+    {
+      "check": "Opinion author/joins within participation: cutter-v-wilkinson_merits_2005-05-31.md / Concurrence",
+      "passed": true,
+      "authors": [
+        "Thomas"
+      ],
+      "joins": [
+        "Thomas"
+      ]
+    },
+    {
+      "check": "Four exact opening labels: deck-v-missouri_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Natural key and event date: deck-v-missouri_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Unique event identity: deck-v-missouri_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Record matches one inventory event: deck-v-missouri_merits_2005-05-23.md",
+      "passed": true,
+      "matches": [
+        3
+      ]
+    },
+    {
+      "check": "One bounded Public Projection: deck-v-missouri_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Exact eleven public blocks in order: deck-v-missouri_merits_2005-05-23.md",
+      "passed": true,
+      "headings": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ]
+    },
+    {
+      "check": "Required public blocks populated: deck-v-missouri_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Full Chief public surname: deck-v-missouri_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "No public workflow metadata: deck-v-missouri_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Participation roster is mechanically identifiable: deck-v-missouri_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Judgment arithmetic: deck-v-missouri_merits_2005-05-23.md / Judgment",
+      "passed": true,
+      "count": [
+        7,
+        2
+      ],
+      "supporting": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela"
+      ],
+      "opposing": [
+        "Scalia",
+        "Thomas"
+      ]
+    },
+    {
+      "check": "Opinion author/joins within participation: deck-v-missouri_merits_2005-05-23.md / Opinion of the Court",
+      "passed": true,
+      "authors": [
+        "O'Connor"
+      ],
+      "joins": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "check": "Whole lead joins support judgment: deck-v-missouri_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Opinion author/joins within participation: deck-v-missouri_merits_2005-05-23.md / Dissent",
+      "passed": true,
+      "authors": [
+        "Thomas"
+      ],
+      "joins": [
+        "Scalia",
+        "Thomas"
+      ]
+    },
+    {
+      "check": "Whole dissent joins oppose judgment: deck-v-missouri_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Four exact opening labels: gonzales-v-raich_merits_2005-06-06.md",
+      "passed": true
+    },
+    {
+      "check": "Natural key and event date: gonzales-v-raich_merits_2005-06-06.md",
+      "passed": true
+    },
+    {
+      "check": "Unique event identity: gonzales-v-raich_merits_2005-06-06.md",
+      "passed": true
+    },
+    {
+      "check": "Record matches one inventory event: gonzales-v-raich_merits_2005-06-06.md",
+      "passed": true,
+      "matches": [
+        10
+      ]
+    },
+    {
+      "check": "One bounded Public Projection: gonzales-v-raich_merits_2005-06-06.md",
+      "passed": true
+    },
+    {
+      "check": "Exact eleven public blocks in order: gonzales-v-raich_merits_2005-06-06.md",
+      "passed": true,
+      "headings": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ]
+    },
+    {
+      "check": "Required public blocks populated: gonzales-v-raich_merits_2005-06-06.md",
+      "passed": true
+    },
+    {
+      "check": "Full Chief public surname: gonzales-v-raich_merits_2005-06-06.md",
+      "passed": true
+    },
+    {
+      "check": "No public workflow metadata: gonzales-v-raich_merits_2005-06-06.md",
+      "passed": true
+    },
+    {
+      "check": "Participation roster is mechanically identifiable: gonzales-v-raich_merits_2005-06-06.md",
+      "passed": true
+    },
+    {
+      "check": "Opinion author/joins within participation: gonzales-v-raich_merits_2005-06-06.md / Opinion of the Court",
+      "passed": true,
+      "authors": [
+        "Kennedy"
+      ],
+      "joins": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela",
+        "Thomas"
+      ]
+    },
+    {
+      "check": "Four exact opening labels: johanns-v-livestock-marketing-association_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Natural key and event date: johanns-v-livestock-marketing-association_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Unique event identity: johanns-v-livestock-marketing-association_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Record matches one inventory event: johanns-v-livestock-marketing-association_merits_2005-05-23.md",
+      "passed": true,
+      "matches": [
+        1
+      ]
+    },
+    {
+      "check": "One bounded Public Projection: johanns-v-livestock-marketing-association_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Exact eleven public blocks in order: johanns-v-livestock-marketing-association_merits_2005-05-23.md",
+      "passed": true,
+      "headings": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ]
+    },
+    {
+      "check": "Required public blocks populated: johanns-v-livestock-marketing-association_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Full Chief public surname: johanns-v-livestock-marketing-association_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "No public workflow metadata: johanns-v-livestock-marketing-association_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Participation roster is mechanically identifiable: johanns-v-livestock-marketing-association_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Judgment arithmetic: johanns-v-livestock-marketing-association_merits_2005-05-23.md / No. 03-1164: reviewed constitutional judgment and dependent permanent collection injunction",
+      "passed": true,
+      "count": [
+        6,
+        3
+      ],
+      "supporting": [
+        "Breyer",
+        "Ginsburg",
+        "O'Connor",
+        "Scalia",
+        "Stone-Zsela",
+        "Thomas"
+      ],
+      "opposing": [
+        "Kennedy",
+        "Souter",
+        "Stevens"
+      ]
+    },
+    {
+      "check": "Judgment arithmetic: johanns-v-livestock-marketing-association_merits_2005-05-23.md / No. 03-1165: same reviewed judgment",
+      "passed": true,
+      "count": [
+        6,
+        3
+      ],
+      "supporting": [
+        "Breyer",
+        "Ginsburg",
+        "O'Connor",
+        "Scalia",
+        "Stone-Zsela",
+        "Thomas"
+      ],
+      "opposing": [
+        "Kennedy",
+        "Souter",
+        "Stevens"
+      ]
+    },
+    {
+      "check": "Judgment arithmetic: johanns-v-livestock-marketing-association_merits_2005-05-23.md / Both dockets: governmental-message ruling and operative remand instructions",
+      "passed": true,
+      "count": [
+        5,
+        4
+      ],
+      "supporting": [
+        "Breyer",
+        "O'Connor",
+        "Scalia",
+        "Stone-Zsela",
+        "Thomas"
+      ],
+      "opposing": [
+        "Ginsburg",
+        "Kennedy",
+        "Souter",
+        "Stevens"
+      ]
+    },
+    {
+      "check": "Opinion author/joins within participation: johanns-v-livestock-marketing-association_merits_2005-05-23.md / Opinion of the Court",
+      "passed": true,
+      "authors": [
+        "Thomas"
+      ],
+      "joins": [
+        "Breyer",
+        "O'Connor",
+        "Scalia",
+        "Stone-Zsela",
+        "Thomas"
+      ]
+    },
+    {
+      "check": "Opinion author/joins within participation: johanns-v-livestock-marketing-association_merits_2005-05-23.md / Concurrence",
+      "passed": true,
+      "authors": [
+        "Thomas"
+      ],
+      "joins": [
+        "Thomas"
+      ]
+    },
+    {
+      "check": "Opinion author/joins within participation: johanns-v-livestock-marketing-association_merits_2005-05-23.md / Opinion concurring in the formal vacatur and remand",
+      "passed": true,
+      "authors": [
+        "Ginsburg"
+      ],
+      "joins": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "check": "Opinion author/joins within participation: johanns-v-livestock-marketing-association_merits_2005-05-23.md / Opinion concurring in part and dissenting in part",
+      "passed": true,
+      "authors": [
+        "Souter"
+      ],
+      "joins": [
+        "Kennedy",
+        "Souter",
+        "Stevens"
+      ]
+    },
+    {
+      "check": "Four exact opening labels: lingle-v-chevron-usa-inc_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Natural key and event date: lingle-v-chevron-usa-inc_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Unique event identity: lingle-v-chevron-usa-inc_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Record matches one inventory event: lingle-v-chevron-usa-inc_merits_2005-05-23.md",
+      "passed": true,
+      "matches": [
+        0
+      ]
+    },
+    {
+      "check": "One bounded Public Projection: lingle-v-chevron-usa-inc_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Exact eleven public blocks in order: lingle-v-chevron-usa-inc_merits_2005-05-23.md",
+      "passed": true,
+      "headings": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ]
+    },
+    {
+      "check": "Required public blocks populated: lingle-v-chevron-usa-inc_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Full Chief public surname: lingle-v-chevron-usa-inc_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "No public workflow metadata: lingle-v-chevron-usa-inc_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Participation roster is mechanically identifiable: lingle-v-chevron-usa-inc_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Opinion author/joins within participation: lingle-v-chevron-usa-inc_merits_2005-05-23.md / Opinion of the Court",
+      "passed": true,
+      "authors": [
+        "Stevens"
+      ],
+      "joins": [
+        "Stevens"
+      ]
+    },
+    {
+      "check": "Four exact opening labels: lofton-v-secretary-of-the-department-of-children-and-family-services_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Natural key and event date: lofton-v-secretary-of-the-department-of-children-and-family-services_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Unique event identity: lofton-v-secretary-of-the-department-of-children-and-family-services_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Record matches one inventory event: lofton-v-secretary-of-the-department-of-children-and-family-services_merits_2005-05-23.md",
+      "passed": true,
+      "matches": [
+        5
+      ]
+    },
+    {
+      "check": "One bounded Public Projection: lofton-v-secretary-of-the-department-of-children-and-family-services_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Exact eleven public blocks in order: lofton-v-secretary-of-the-department-of-children-and-family-services_merits_2005-05-23.md",
+      "passed": true,
+      "headings": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ]
+    },
+    {
+      "check": "Required public blocks populated: lofton-v-secretary-of-the-department-of-children-and-family-services_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Full Chief public surname: lofton-v-secretary-of-the-department-of-children-and-family-services_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "No public workflow metadata: lofton-v-secretary-of-the-department-of-children-and-family-services_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Participation roster is mechanically identifiable: lofton-v-secretary-of-the-department-of-children-and-family-services_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Judgment arithmetic: lofton-v-secretary-of-the-department-of-children-and-family-services_merits_2005-05-23.md / Judgment",
+      "passed": true,
+      "count": [
+        7,
+        2
+      ],
+      "supporting": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela"
+      ],
+      "opposing": [
+        "Scalia",
+        "Thomas"
+      ]
+    },
+    {
+      "check": "Opinion author/joins within participation: lofton-v-secretary-of-the-department-of-children-and-family-services_merits_2005-05-23.md / Opinion of the Court",
+      "passed": true,
+      "authors": [
+        "Ginsburg"
+      ],
+      "joins": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "check": "Whole lead joins support judgment: lofton-v-secretary-of-the-department-of-children-and-family-services_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Opinion author/joins within participation: lofton-v-secretary-of-the-department-of-children-and-family-services_merits_2005-05-23.md / Dissent",
+      "passed": true,
+      "authors": [
+        "Scalia"
+      ],
+      "joins": [
+        "Scalia",
+        "Thomas"
+      ]
+    },
+    {
+      "check": "Whole dissent joins oppose judgment: lofton-v-secretary-of-the-department-of-children-and-family-services_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Four exact opening labels: medellin-v-dretke_dismissal_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Natural key and event date: medellin-v-dretke_dismissal_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Unique event identity: medellin-v-dretke_dismissal_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Record matches one inventory event: medellin-v-dretke_dismissal_2005-05-23.md",
+      "passed": true,
+      "matches": [
+        4
+      ]
+    },
+    {
+      "check": "One bounded Public Projection: medellin-v-dretke_dismissal_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Exact eleven public blocks in order: medellin-v-dretke_dismissal_2005-05-23.md",
+      "passed": true,
+      "headings": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ]
+    },
+    {
+      "check": "Required public blocks populated: medellin-v-dretke_dismissal_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Full Chief public surname: medellin-v-dretke_dismissal_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "No public workflow metadata: medellin-v-dretke_dismissal_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Participation roster is mechanically identifiable: medellin-v-dretke_dismissal_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Four exact opening labels: tory-v-cochran_merits_2005-05-31.md",
+      "passed": true
+    },
+    {
+      "check": "Natural key and event date: tory-v-cochran_merits_2005-05-31.md",
+      "passed": true
+    },
+    {
+      "check": "Unique event identity: tory-v-cochran_merits_2005-05-31.md",
+      "passed": true
+    },
+    {
+      "check": "Record matches one inventory event: tory-v-cochran_merits_2005-05-31.md",
+      "passed": true,
+      "matches": [
+        8
+      ]
+    },
+    {
+      "check": "One bounded Public Projection: tory-v-cochran_merits_2005-05-31.md",
+      "passed": true
+    },
+    {
+      "check": "Exact eleven public blocks in order: tory-v-cochran_merits_2005-05-31.md",
+      "passed": true,
+      "headings": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ]
+    },
+    {
+      "check": "Required public blocks populated: tory-v-cochran_merits_2005-05-31.md",
+      "passed": true
+    },
+    {
+      "check": "Full Chief public surname: tory-v-cochran_merits_2005-05-31.md",
+      "passed": true
+    },
+    {
+      "check": "No public workflow metadata: tory-v-cochran_merits_2005-05-31.md",
+      "passed": true
+    },
+    {
+      "check": "Participation roster is mechanically identifiable: tory-v-cochran_merits_2005-05-31.md",
+      "passed": true
+    },
+    {
+      "check": "Judgment arithmetic: tory-v-cochran_merits_2005-05-31.md / Judgment",
+      "passed": true,
+      "count": [
+        7,
+        2
+      ],
+      "supporting": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela"
+      ],
+      "opposing": [
+        "Scalia",
+        "Thomas"
+      ]
+    },
+    {
+      "check": "Opinion author/joins within participation: tory-v-cochran_merits_2005-05-31.md / Opinion of the Court",
+      "passed": true,
+      "authors": [
+        "Breyer"
+      ],
+      "joins": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "check": "Whole lead joins support judgment: tory-v-cochran_merits_2005-05-31.md",
+      "passed": true
+    },
+    {
+      "check": "Opinion author/joins within participation: tory-v-cochran_merits_2005-05-31.md / Concurrence",
+      "passed": true,
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "joins": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "check": "Opinion author/joins within participation: tory-v-cochran_merits_2005-05-31.md / Dissent",
+      "passed": true,
+      "authors": [
+        "Thomas"
+      ],
+      "joins": [
+        "Scalia",
+        "Thomas"
+      ]
+    },
+    {
+      "check": "Whole dissent joins oppose judgment: tory-v-cochran_merits_2005-05-31.md",
+      "passed": true
+    },
+    {
+      "check": "Four exact opening labels: tucson-womans-clinic-v-eden_merits_2005-05-31.md",
+      "passed": true
+    },
+    {
+      "check": "Natural key and event date: tucson-womans-clinic-v-eden_merits_2005-05-31.md",
+      "passed": true
+    },
+    {
+      "check": "Unique event identity: tucson-womans-clinic-v-eden_merits_2005-05-31.md",
+      "passed": true
+    },
+    {
+      "check": "Record matches one inventory event: tucson-womans-clinic-v-eden_merits_2005-05-31.md",
+      "passed": true,
+      "matches": [
+        9
+      ]
+    },
+    {
+      "check": "One bounded Public Projection: tucson-womans-clinic-v-eden_merits_2005-05-31.md",
+      "passed": true
+    },
+    {
+      "check": "Exact eleven public blocks in order: tucson-womans-clinic-v-eden_merits_2005-05-31.md",
+      "passed": true,
+      "headings": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ]
+    },
+    {
+      "check": "Required public blocks populated: tucson-womans-clinic-v-eden_merits_2005-05-31.md",
+      "passed": true
+    },
+    {
+      "check": "Full Chief public surname: tucson-womans-clinic-v-eden_merits_2005-05-31.md",
+      "passed": true
+    },
+    {
+      "check": "No public workflow metadata: tucson-womans-clinic-v-eden_merits_2005-05-31.md",
+      "passed": true
+    },
+    {
+      "check": "Participation roster is mechanically identifiable: tucson-womans-clinic-v-eden_merits_2005-05-31.md",
+      "passed": true
+    },
+    {
+      "check": "Judgment arithmetic: tucson-womans-clinic-v-eden_merits_2005-05-31.md / Reopening of the cumulative access claim",
+      "passed": true,
+      "count": [
+        7,
+        2
+      ],
+      "supporting": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela"
+      ],
+      "opposing": [
+        "Scalia",
+        "Thomas"
+      ]
+    },
+    {
+      "check": "Judgment arithmetic: tucson-womans-clinic-v-eden_merits_2005-05-31.md / Complete six-step access instruction and additional mandate",
+      "passed": true,
+      "count": [
+        6,
+        3
+      ],
+      "supporting": [
+        "Breyer",
+        "Ginsburg",
+        "O'Connor",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela"
+      ],
+      "opposing": [
+        "Kennedy",
+        "Scalia",
+        "Thomas"
+      ]
+    },
+    {
+      "check": "Judgment arithmetic: tucson-womans-clinic-v-eden_merits_2005-05-31.md / Ordinary professional and volume classifications",
+      "passed": true,
+      "count": [
+        9,
+        0
+      ],
+      "supporting": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela",
+        "Thomas"
+      ],
+      "opposing": []
+    },
+    {
+      "check": "Judgment arithmetic: tucson-womans-clinic-v-eden_merits_2005-05-31.md / Independent patient sex-equality claim",
+      "passed": true,
+      "count": [
+        9,
+        0
+      ],
+      "supporting": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela",
+        "Thomas"
+      ],
+      "opposing": []
+    },
+    {
+      "check": "Judgment arithmetic: tucson-womans-clinic-v-eden_merits_2005-05-31.md / Immediate compulsory clinic entry",
+      "passed": true,
+      "count": [
+        9,
+        0
+      ],
+      "supporting": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela",
+        "Thomas"
+      ],
+      "opposing": []
+    },
+    {
+      "check": "Judgment arithmetic: tucson-womans-clinic-v-eden_merits_2005-05-31.md / Broad department record access and copying",
+      "passed": true,
+      "count": [
+        7,
+        2
+      ],
+      "supporting": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela"
+      ],
+      "opposing": [
+        "Scalia",
+        "Thomas"
+      ]
+    },
+    {
+      "check": "Judgment arithmetic: tucson-womans-clinic-v-eden_merits_2005-05-31.md / Identified ultrasound transfer and retention by APEX",
+      "passed": true,
+      "count": [
+        7,
+        2
+      ],
+      "supporting": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela"
+      ],
+      "opposing": [
+        "Scalia",
+        "Thomas"
+      ]
+    },
+    {
+      "check": "Judgment arithmetic: tucson-womans-clinic-v-eden_merits_2005-05-31.md / Bounded professional-board serious-incident reports",
+      "passed": true,
+      "count": [
+        9,
+        0
+      ],
+      "supporting": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela",
+        "Thomas"
+      ],
+      "opposing": []
+    },
+    {
+      "check": "Judgment arithmetic: tucson-womans-clinic-v-eden_merits_2005-05-31.md / Undefined independent dignity sanctions",
+      "passed": true,
+      "count": [
+        9,
+        0
+      ],
+      "supporting": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela",
+        "Thomas"
+      ],
+      "opposing": []
+    },
+    {
+      "check": "Judgment arithmetic: tucson-womans-clinic-v-eden_merits_2005-05-31.md / Facial arbitrary-private-delegation claim",
+      "passed": true,
+      "count": [
+        9,
+        0
+      ],
+      "supporting": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela",
+        "Thomas"
+      ],
+      "opposing": []
+    },
+    {
+      "check": "Judgment arithmetic: tucson-womans-clinic-v-eden_merits_2005-05-31.md / Severability and prompt clarification of the operative restraint",
+      "passed": true,
+      "count": [
+        9,
+        0
+      ],
+      "supporting": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela",
+        "Thomas"
+      ],
+      "opposing": []
+    },
+    {
+      "check": "Opinion author/joins within participation: tucson-womans-clinic-v-eden_merits_2005-05-31.md / Opinion of the Court",
+      "passed": true,
+      "authors": [
+        "Ginsburg"
+      ],
+      "joins": [
+        "Breyer",
+        "Ginsburg",
+        "O'Connor",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "check": "Opinion author/joins within participation: tucson-womans-clinic-v-eden_merits_2005-05-31.md / Partial join in the Court's opinion",
+      "passed": true,
+      "authors": [
+        "Kennedy"
+      ],
+      "joins": [
+        "Kennedy"
+      ]
+    },
+    {
+      "check": "Opinion author/joins within participation: tucson-womans-clinic-v-eden_merits_2005-05-31.md / Partial joins in the Court's opinion",
+      "passed": true,
+      "authors": [
+        "Scalia",
+        "Thomas"
+      ],
+      "joins": [
+        "Scalia",
+        "Thomas"
+      ]
+    },
+    {
+      "check": "Opinion author/joins within participation: tucson-womans-clinic-v-eden_merits_2005-05-31.md / Concurrence in part",
+      "passed": true,
+      "authors": [
+        "Kennedy"
+      ],
+      "joins": [
+        "Kennedy"
+      ]
+    },
+    {
+      "check": "Opinion author/joins within participation: tucson-womans-clinic-v-eden_merits_2005-05-31.md / Opinion concurring in part and dissenting in part",
+      "passed": true,
+      "authors": [
+        "Scalia"
+      ],
+      "joins": [
+        "Scalia",
+        "Thomas"
+      ]
+    },
+    {
+      "check": "One Record per chunk 8 inventory event",
+      "passed": true,
+      "matching_counts": {
+        "6": 1,
+        "2": 1,
+        "7": 1,
+        "3": 1,
+        "10": 1,
+        "1": 1,
+        "0": 1,
+        "5": 1,
+        "4": 1,
+        "8": 1,
+        "9": 1
+      }
+    },
+    {
+      "check": "Assignment count statement matches fresh actual-source recount: arthur-andersen-llp-v-united-states_merits_2005-05-31.md",
+      "passed": true,
+      "expected": {
+        "Stone-Zsela": 7,
+        "Stevens": 8,
+        "O'Connor": 8,
+        "Scalia": 7,
+        "Kennedy": 7,
+        "Souter": 7,
+        "Thomas": 7,
+        "Ginsburg": 8,
+        "Breyer": 7
+      },
+      "observed": [
+        {
+          "Stone-Zsela": 7,
+          "Stevens": 8,
+          "O'Connor": 8,
+          "Scalia": 7,
+          "Kennedy": 7,
+          "Souter": 7,
+          "Thomas": 7,
+          "Ginsburg": 8,
+          "Breyer": 7
+        }
+      ],
+      "last_counted": "Lofton v. Secretary of the Department of Children & Family Services"
+    },
+    {
+      "check": "Assignment pool follows stated eligibility and source count: arthur-andersen-llp-v-united-states_merits_2005-05-31.md",
+      "passed": true,
+      "eligible": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela",
+        "Thomas"
+      ],
+      "expected_pool": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela",
+        "Thomas"
+      ],
+      "stated_pool": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela",
+        "Thomas"
+      ]
+    },
+    {
+      "check": "Actual lead author in stated assignment pool: arthur-andersen-llp-v-united-states_merits_2005-05-31.md",
+      "passed": true
+    },
+    {
+      "check": "Selected author matches actual opinion table: arthur-andersen-llp-v-united-states_merits_2005-05-31.md",
+      "passed": true
+    },
+    {
+      "check": "Assignment count statement matches fresh actual-source recount: clingman-v-beaver_merits_2005-05-23.md",
+      "passed": true,
+      "expected": {
+        "Stone-Zsela": 6,
+        "Stevens": 7,
+        "O'Connor": 7,
+        "Scalia": 7,
+        "Kennedy": 7,
+        "Souter": 7,
+        "Thomas": 6,
+        "Ginsburg": 7,
+        "Breyer": 7
+      },
+      "observed": [
+        {
+          "Stone-Zsela": 6,
+          "Stevens": 7,
+          "O'Connor": 7,
+          "Scalia": 7,
+          "Kennedy": 7,
+          "Souter": 7,
+          "Thomas": 6,
+          "Ginsburg": 7,
+          "Breyer": 7
+        }
+      ],
+      "last_counted": "Granholm v. Heald and consolidated cases"
+    },
+    {
+      "check": "Assignment pool follows stated eligibility and source count: clingman-v-beaver_merits_2005-05-23.md",
+      "passed": true,
+      "eligible": [
+        "Ginsburg",
+        "Kennedy",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela"
+      ],
+      "expected_pool": [
+        "Ginsburg",
+        "Kennedy",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela"
+      ],
+      "stated_pool": [
+        "Ginsburg",
+        "Kennedy",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "check": "Actual lead author in stated assignment pool: clingman-v-beaver_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Selected author matches actual opinion table: clingman-v-beaver_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Assignment count statement matches fresh actual-source recount: cutter-v-wilkinson_merits_2005-05-31.md",
+      "passed": true,
+      "expected": {
+        "Stone-Zsela": 7,
+        "Stevens": 8,
+        "O'Connor": 8,
+        "Scalia": 8,
+        "Kennedy": 7,
+        "Souter": 7,
+        "Thomas": 7,
+        "Ginsburg": 8,
+        "Breyer": 7
+      },
+      "observed": [
+        {
+          "Stone-Zsela": 7,
+          "Stevens": 8,
+          "O'Connor": 8,
+          "Scalia": 8,
+          "Kennedy": 7,
+          "Souter": 7,
+          "Thomas": 7,
+          "Ginsburg": 8,
+          "Breyer": 7
+        }
+      ],
+      "last_counted": "Arthur Andersen LLP v. United States"
+    },
+    {
+      "check": "Assignment pool follows stated eligibility and source count: cutter-v-wilkinson_merits_2005-05-31.md",
+      "passed": true,
+      "eligible": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela",
+        "Thomas"
+      ],
+      "expected_pool": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela",
+        "Thomas"
+      ],
+      "stated_pool": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela",
+        "Thomas"
+      ]
+    },
+    {
+      "check": "Actual lead author in stated assignment pool: cutter-v-wilkinson_merits_2005-05-31.md",
+      "passed": true
+    },
+    {
+      "check": "Selected author matches actual opinion table: cutter-v-wilkinson_merits_2005-05-31.md",
+      "passed": true
+    },
+    {
+      "check": "Assignment count statement matches fresh actual-source recount: deck-v-missouri_merits_2005-05-23.md",
+      "passed": true,
+      "expected": {
+        "Stone-Zsela": 7,
+        "Stevens": 7,
+        "O'Connor": 7,
+        "Scalia": 7,
+        "Kennedy": 7,
+        "Souter": 7,
+        "Thomas": 6,
+        "Ginsburg": 7,
+        "Breyer": 7
+      },
+      "observed": [
+        {
+          "Stone-Zsela": 7,
+          "Stevens": 7,
+          "O'Connor": 7,
+          "Scalia": 7,
+          "Kennedy": 7,
+          "Souter": 7,
+          "Thomas": 6,
+          "Ginsburg": 7,
+          "Breyer": 7
+        }
+      ],
+      "last_counted": "Clingman v. Beaver"
+    },
+    {
+      "check": "Assignment pool follows stated eligibility and source count: deck-v-missouri_merits_2005-05-23.md",
+      "passed": true,
+      "eligible": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela"
+      ],
+      "expected_pool": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela"
+      ],
+      "stated_pool": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "check": "Actual lead author in stated assignment pool: deck-v-missouri_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Selected author matches actual opinion table: deck-v-missouri_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Assignment count statement matches fresh actual-source recount: gonzales-v-raich_merits_2005-06-06.md",
+      "passed": true,
+      "expected": {
+        "Stone-Zsela": 7,
+        "Stevens": 8,
+        "O'Connor": 8,
+        "Scalia": 8,
+        "Kennedy": 7,
+        "Souter": 8,
+        "Thomas": 7,
+        "Ginsburg": 9,
+        "Breyer": 8
+      },
+      "observed": [
+        {
+          "Stone-Zsela": 7,
+          "Stevens": 8,
+          "O'Connor": 8,
+          "Scalia": 8,
+          "Kennedy": 7,
+          "Souter": 8,
+          "Thomas": 7,
+          "Ginsburg": 9,
+          "Breyer": 8
+        }
+      ],
+      "last_counted": "Tucson Woman's Clinic v. Eden"
+    },
+    {
+      "check": "Assignment pool follows stated eligibility and source count: gonzales-v-raich_merits_2005-06-06.md",
+      "passed": true,
+      "eligible": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela",
+        "Thomas"
+      ],
+      "expected_pool": [
+        "Breyer",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela",
+        "Thomas"
+      ],
+      "stated_pool": [
+        "Breyer",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela",
+        "Thomas"
+      ]
+    },
+    {
+      "check": "Actual lead author in stated assignment pool: gonzales-v-raich_merits_2005-06-06.md",
+      "passed": true
+    },
+    {
+      "check": "Selected author matches actual opinion table: gonzales-v-raich_merits_2005-06-06.md",
+      "passed": true
+    },
+    {
+      "check": "Assignment count statement matches fresh actual-source recount: johanns-v-livestock-marketing-association_merits_2005-05-23.md",
+      "passed": true,
+      "expected": {
+        "Stone-Zsela": 7,
+        "Stevens": 7,
+        "O'Connor": 8,
+        "Scalia": 7,
+        "Kennedy": 7,
+        "Souter": 7,
+        "Thomas": 6,
+        "Ginsburg": 7,
+        "Breyer": 7
+      },
+      "observed": [
+        {
+          "Stone-Zsela": 7,
+          "Stevens": 7,
+          "O'Connor": 8,
+          "Scalia": 7,
+          "Kennedy": 7,
+          "Souter": 7,
+          "Thomas": 6,
+          "Ginsburg": 7,
+          "Breyer": 7
+        }
+      ],
+      "last_counted": "Deck v. Missouri"
+    },
+    {
+      "check": "Assignment pool follows stated eligibility and source count: johanns-v-livestock-marketing-association_merits_2005-05-23.md",
+      "passed": true,
+      "eligible": [
+        "Breyer",
+        "O'Connor",
+        "Scalia",
+        "Stone-Zsela",
+        "Thomas"
+      ],
+      "expected_pool": [
+        "Breyer",
+        "Scalia",
+        "Stone-Zsela",
+        "Thomas"
+      ],
+      "stated_pool": [
+        "Breyer",
+        "Scalia",
+        "Stone-Zsela",
+        "Thomas"
+      ]
+    },
+    {
+      "check": "Actual lead author in stated assignment pool: johanns-v-livestock-marketing-association_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Selected author matches actual opinion table: johanns-v-livestock-marketing-association_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Assignment count statement matches fresh actual-source recount: lingle-v-chevron-usa-inc_merits_2005-05-23.md",
+      "passed": true,
+      "expected": {
+        "Stone-Zsela": 7,
+        "Stevens": 7,
+        "O'Connor": 8,
+        "Scalia": 7,
+        "Kennedy": 7,
+        "Souter": 7,
+        "Thomas": 7,
+        "Ginsburg": 7,
+        "Breyer": 7
+      },
+      "observed": [
+        {
+          "Stone-Zsela": 7,
+          "Stevens": 7,
+          "O'Connor": 8,
+          "Scalia": 7,
+          "Kennedy": 7,
+          "Souter": 7,
+          "Thomas": 7,
+          "Ginsburg": 7,
+          "Breyer": 7
+        }
+      ],
+      "last_counted": "Johanns v. Livestock Marketing Association"
+    },
+    {
+      "check": "Assignment pool follows stated eligibility and source count: lingle-v-chevron-usa-inc_merits_2005-05-23.md",
+      "passed": true,
+      "eligible": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela",
+        "Thomas"
+      ],
+      "expected_pool": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela",
+        "Thomas"
+      ],
+      "stated_pool": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela",
+        "Thomas"
+      ]
+    },
+    {
+      "check": "Actual lead author in stated assignment pool: lingle-v-chevron-usa-inc_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Selected author matches actual opinion table: lingle-v-chevron-usa-inc_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Assignment count statement matches fresh actual-source recount: lofton-v-secretary-of-the-department-of-children-and-family-services_merits_2005-05-23.md",
+      "passed": true,
+      "expected": {
+        "Stone-Zsela": 7,
+        "Stevens": 8,
+        "O'Connor": 8,
+        "Scalia": 7,
+        "Kennedy": 7,
+        "Souter": 7,
+        "Thomas": 7,
+        "Ginsburg": 7,
+        "Breyer": 7
+      },
+      "observed": [
+        {
+          "Stone-Zsela": 7,
+          "Stevens": 8,
+          "O'Connor": 8,
+          "Scalia": 7,
+          "Kennedy": 7,
+          "Souter": 7,
+          "Thomas": 7,
+          "Ginsburg": 7,
+          "Breyer": 7
+        }
+      ],
+      "last_counted": "Lingle v. Chevron U.S.A. Inc"
+    },
+    {
+      "check": "Assignment pool follows stated eligibility and source count: lofton-v-secretary-of-the-department-of-children-and-family-services_merits_2005-05-23.md",
+      "passed": true,
+      "eligible": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela"
+      ],
+      "expected_pool": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela"
+      ],
+      "stated_pool": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "check": "Actual lead author in stated assignment pool: lofton-v-secretary-of-the-department-of-children-and-family-services_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Selected author matches actual opinion table: lofton-v-secretary-of-the-department-of-children-and-family-services_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Assignment count statement matches fresh actual-source recount: tory-v-cochran_merits_2005-05-31.md",
+      "passed": true,
+      "expected": {
+        "Stone-Zsela": 7,
+        "Stevens": 8,
+        "O'Connor": 8,
+        "Scalia": 8,
+        "Kennedy": 7,
+        "Souter": 8,
+        "Thomas": 7,
+        "Ginsburg": 8,
+        "Breyer": 7
+      },
+      "observed": [
+        {
+          "Stone-Zsela": 7,
+          "Stevens": 8,
+          "O'Connor": 8,
+          "Scalia": 8,
+          "Kennedy": 7,
+          "Souter": 8,
+          "Thomas": 7,
+          "Ginsburg": 8,
+          "Breyer": 7
+        }
+      ],
+      "last_counted": "Cutter v. Wilkinson"
+    },
+    {
+      "check": "Assignment pool follows stated eligibility and source count: tory-v-cochran_merits_2005-05-31.md",
+      "passed": true,
+      "eligible": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela"
+      ],
+      "expected_pool": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela"
+      ],
+      "stated_pool": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "check": "Actual lead author in stated assignment pool: tory-v-cochran_merits_2005-05-31.md",
+      "passed": true
+    },
+    {
+      "check": "Selected author matches actual opinion table: tory-v-cochran_merits_2005-05-31.md",
+      "passed": true
+    },
+    {
+      "check": "Assignment count statement matches fresh actual-source recount: tucson-womans-clinic-v-eden_merits_2005-05-31.md",
+      "passed": true,
+      "expected": {
+        "Stone-Zsela": 7,
+        "Stevens": 8,
+        "O'Connor": 8,
+        "Scalia": 8,
+        "Kennedy": 7,
+        "Souter": 8,
+        "Thomas": 7,
+        "Ginsburg": 8,
+        "Breyer": 8
+      },
+      "observed": [
+        {
+          "Stone-Zsela": 7,
+          "Stevens": 8,
+          "O'Connor": 8,
+          "Scalia": 8,
+          "Kennedy": 7,
+          "Souter": 8,
+          "Thomas": 7,
+          "Ginsburg": 8,
+          "Breyer": 8
+        }
+      ],
+      "last_counted": "Tory v. Cochran"
+    },
+    {
+      "check": "Assignment pool follows stated eligibility and source count: tucson-womans-clinic-v-eden_merits_2005-05-31.md",
+      "passed": true,
+      "eligible": [
+        "Breyer",
+        "Ginsburg",
+        "O'Connor",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela"
+      ],
+      "expected_pool": [
+        "Breyer",
+        "Ginsburg",
+        "O'Connor",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela"
+      ],
+      "stated_pool": [
+        "Breyer",
+        "Ginsburg",
+        "O'Connor",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "check": "Actual lead author in stated assignment pool: tucson-womans-clinic-v-eden_merits_2005-05-31.md",
+      "passed": true
+    },
+    {
+      "check": "Selected author matches actual opinion table: tucson-womans-clinic-v-eden_merits_2005-05-31.md",
+      "passed": true
+    },
+    {
+      "check": "Generated chunk 8 Render Input exists",
+      "passed": true
+    },
+    {
+      "check": "Generated Render Input exact event coverage",
+      "passed": true
+    },
+    {
+      "check": "Generated handoff equals bounded Public Projection: clingman-v-beaver_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Generated handoff equals bounded Public Projection: deck-v-missouri_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Generated handoff equals bounded Public Projection: johanns-v-livestock-marketing-association_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Generated handoff equals bounded Public Projection: lingle-v-chevron-usa-inc_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Generated handoff equals bounded Public Projection: lofton-v-secretary-of-the-department-of-children-and-family-services_merits_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Generated handoff equals bounded Public Projection: medellin-v-dretke_dismissal_2005-05-23.md",
+      "passed": true
+    },
+    {
+      "check": "Generated handoff equals bounded Public Projection: arthur-andersen-llp-v-united-states_merits_2005-05-31.md",
+      "passed": true
+    },
+    {
+      "check": "Generated handoff equals bounded Public Projection: cutter-v-wilkinson_merits_2005-05-31.md",
+      "passed": true
+    },
+    {
+      "check": "Generated handoff equals bounded Public Projection: tory-v-cochran_merits_2005-05-31.md",
+      "passed": true
+    },
+    {
+      "check": "Generated handoff equals bounded Public Projection: tucson-womans-clinic-v-eden_merits_2005-05-31.md",
+      "passed": true
+    },
+    {
+      "check": "Generated handoff equals bounded Public Projection: gonzales-v-raich_merits_2005-06-06.md",
+      "passed": true
+    },
+    {
+      "check": "Generated handoff effective-date/case-name order",
+      "passed": true
+    },
+    {
+      "check": "Generated handoff completed-event count",
+      "passed": true
+    },
+    {
+      "check": "Changed/new text restrictions",
+      "passed": true,
+      "scanned": 246,
+      "violations": []
+    },
+    {
+      "check": "New Record and current projection relative links/anchors",
+      "passed": true,
+      "checked": 613,
+      "violations": []
+    },
+    {
+      "check": "Frozen/runtime counterpart identity: OT_2004CHUNK8_COMPARATOR.md",
+      "passed": true
+    },
+    {
+      "check": "Frozen/runtime counterpart identity: OT_2004CHUNK8_NEUTRAL.md",
+      "passed": true
+    }
+  ],
+  "errors": [],
+  "textual_review": [
+    {
+      "review": "Judgment count/coalitions need textual review: arthur-andersen-llp-v-united-states_merits_2005-05-31.md"
+    },
+    {
+      "review": "Component-specific opinion/judgment join scope: clingman-v-beaver_merits_2005-05-23.md",
+      "writing": "Opinion concurring in part and dissenting in part",
+      "authors": [
+        "O'Connor"
+      ],
+      "named_joins": [
+        "Breyer",
+        "O'Connor",
+        "Scalia",
+        "Thomas"
+      ]
+    },
+    {
+      "review": "Judgment count/coalitions need textual review: cutter-v-wilkinson_merits_2005-05-31.md"
+    },
+    {
+      "review": "Judgment count/coalitions need textual review: gonzales-v-raich_merits_2005-06-06.md"
+    },
+    {
+      "review": "Component-specific opinion/judgment join scope: johanns-v-livestock-marketing-association_merits_2005-05-23.md",
+      "writing": "Opinion concurring in part and dissenting in part",
+      "authors": [
+        "Souter"
+      ],
+      "named_joins": [
+        "Kennedy",
+        "Souter",
+        "Stevens"
+      ]
+    },
+    {
+      "review": "Judgment count/coalitions need textual review: lingle-v-chevron-usa-inc_merits_2005-05-23.md"
+    },
+    {
+      "review": "Judgment count/coalitions need textual review: medellin-v-dretke_dismissal_2005-05-23.md"
+    },
+    {
+      "review": "Opinion topology requires prose interpretation: medellin-v-dretke_dismissal_2005-05-23.md"
+    },
+    {
+      "review": "Component-specific opinion/judgment join scope: tucson-womans-clinic-v-eden_merits_2005-05-31.md",
+      "writing": "Partial join in the Court's opinion",
+      "authors": [
+        "Kennedy"
+      ],
+      "named_joins": [
+        "Kennedy"
+      ]
+    },
+    {
+      "review": "Component-specific opinion/judgment join scope: tucson-womans-clinic-v-eden_merits_2005-05-31.md",
+      "writing": "Partial joins in the Court's opinion",
+      "authors": [
+        "Scalia",
+        "Thomas"
+      ],
+      "named_joins": [
+        "Scalia",
+        "Thomas"
+      ]
+    },
+    {
+      "review": "Component-specific opinion/judgment join scope: tucson-womans-clinic-v-eden_merits_2005-05-31.md",
+      "writing": "Concurrence in part",
+      "authors": [
+        "Kennedy"
+      ],
+      "named_joins": [
+        "Kennedy"
+      ]
+    },
+    {
+      "review": "Component-specific opinion/judgment join scope: tucson-womans-clinic-v-eden_merits_2005-05-31.md",
+      "writing": "Opinion concurring in part and dissenting in part",
+      "authors": [
+        "Scalia"
+      ],
+      "named_joins": [
+        "Scalia",
+        "Thomas"
+      ]
+    }
+  ],
+  "assignment_counts_before_each_event": {
+    "arthur-andersen-llp-v-united-states_merits_2005-05-31.md": {
+      "before_date": "2005-05-31",
+      "before_case": "Arthur Andersen LLP v. United States",
+      "counts": {
+        "Stone-Zsela": 7,
+        "Stevens": 8,
+        "O'Connor": 8,
+        "Scalia": 7,
+        "Kennedy": 7,
+        "Souter": 7,
+        "Thomas": 7,
+        "Ginsburg": 8,
+        "Breyer": 7
+      },
+      "lead_count": 66,
+      "last_counted_event": "Lofton v. Secretary of the Department of Children & Family Services",
+      "method": "Each signed lead counts once for every Justice delivering any part; shared and split lead authors each count once, duplicate part rows and separate writings do not. Actual current opinion tables supply authors, with two disclosed legacy topology-only exceptions. No earlier tally supplies a count.",
+      "limit": "Durable Records only; repository-history commitment was not inspected."
+    },
+    "clingman-v-beaver_merits_2005-05-23.md": {
+      "before_date": "2005-05-23",
+      "before_case": "Clingman v. Beaver",
+      "counts": {
+        "Stone-Zsela": 6,
+        "Stevens": 7,
+        "O'Connor": 7,
+        "Scalia": 7,
+        "Kennedy": 7,
+        "Souter": 7,
+        "Thomas": 6,
+        "Ginsburg": 7,
+        "Breyer": 7
+      },
+      "lead_count": 61,
+      "last_counted_event": "Granholm v. Heald and consolidated cases",
+      "method": "Each signed lead counts once for every Justice delivering any part; shared and split lead authors each count once, duplicate part rows and separate writings do not. Actual current opinion tables supply authors, with two disclosed legacy topology-only exceptions. No earlier tally supplies a count.",
+      "limit": "Durable Records only; repository-history commitment was not inspected."
+    },
+    "cutter-v-wilkinson_merits_2005-05-31.md": {
+      "before_date": "2005-05-31",
+      "before_case": "Cutter v. Wilkinson",
+      "counts": {
+        "Stone-Zsela": 7,
+        "Stevens": 8,
+        "O'Connor": 8,
+        "Scalia": 8,
+        "Kennedy": 7,
+        "Souter": 7,
+        "Thomas": 7,
+        "Ginsburg": 8,
+        "Breyer": 7
+      },
+      "lead_count": 67,
+      "last_counted_event": "Arthur Andersen LLP v. United States",
+      "method": "Each signed lead counts once for every Justice delivering any part; shared and split lead authors each count once, duplicate part rows and separate writings do not. Actual current opinion tables supply authors, with two disclosed legacy topology-only exceptions. No earlier tally supplies a count.",
+      "limit": "Durable Records only; repository-history commitment was not inspected."
+    },
+    "deck-v-missouri_merits_2005-05-23.md": {
+      "before_date": "2005-05-23",
+      "before_case": "Deck v. Missouri",
+      "counts": {
+        "Stone-Zsela": 7,
+        "Stevens": 7,
+        "O'Connor": 7,
+        "Scalia": 7,
+        "Kennedy": 7,
+        "Souter": 7,
+        "Thomas": 6,
+        "Ginsburg": 7,
+        "Breyer": 7
+      },
+      "lead_count": 62,
+      "last_counted_event": "Clingman v. Beaver",
+      "method": "Each signed lead counts once for every Justice delivering any part; shared and split lead authors each count once, duplicate part rows and separate writings do not. Actual current opinion tables supply authors, with two disclosed legacy topology-only exceptions. No earlier tally supplies a count.",
+      "limit": "Durable Records only; repository-history commitment was not inspected."
+    },
+    "gonzales-v-raich_merits_2005-06-06.md": {
+      "before_date": "2005-06-06",
+      "before_case": "Gonzales v. Raich",
+      "counts": {
+        "Stone-Zsela": 7,
+        "Stevens": 8,
+        "O'Connor": 8,
+        "Scalia": 8,
+        "Kennedy": 7,
+        "Souter": 8,
+        "Thomas": 7,
+        "Ginsburg": 9,
+        "Breyer": 8
+      },
+      "lead_count": 70,
+      "last_counted_event": "Tucson Woman's Clinic v. Eden",
+      "method": "Each signed lead counts once for every Justice delivering any part; shared and split lead authors each count once, duplicate part rows and separate writings do not. Actual current opinion tables supply authors, with two disclosed legacy topology-only exceptions. No earlier tally supplies a count.",
+      "limit": "Durable Records only; repository-history commitment was not inspected."
+    },
+    "johanns-v-livestock-marketing-association_merits_2005-05-23.md": {
+      "before_date": "2005-05-23",
+      "before_case": "Johanns v. Livestock Marketing Association",
+      "counts": {
+        "Stone-Zsela": 7,
+        "Stevens": 7,
+        "O'Connor": 8,
+        "Scalia": 7,
+        "Kennedy": 7,
+        "Souter": 7,
+        "Thomas": 6,
+        "Ginsburg": 7,
+        "Breyer": 7
+      },
+      "lead_count": 63,
+      "last_counted_event": "Deck v. Missouri",
+      "method": "Each signed lead counts once for every Justice delivering any part; shared and split lead authors each count once, duplicate part rows and separate writings do not. Actual current opinion tables supply authors, with two disclosed legacy topology-only exceptions. No earlier tally supplies a count.",
+      "limit": "Durable Records only; repository-history commitment was not inspected."
+    },
+    "lingle-v-chevron-usa-inc_merits_2005-05-23.md": {
+      "before_date": "2005-05-23",
+      "before_case": "Lingle v. Chevron U.S.A. Inc",
+      "counts": {
+        "Stone-Zsela": 7,
+        "Stevens": 7,
+        "O'Connor": 8,
+        "Scalia": 7,
+        "Kennedy": 7,
+        "Souter": 7,
+        "Thomas": 7,
+        "Ginsburg": 7,
+        "Breyer": 7
+      },
+      "lead_count": 64,
+      "last_counted_event": "Johanns v. Livestock Marketing Association",
+      "method": "Each signed lead counts once for every Justice delivering any part; shared and split lead authors each count once, duplicate part rows and separate writings do not. Actual current opinion tables supply authors, with two disclosed legacy topology-only exceptions. No earlier tally supplies a count.",
+      "limit": "Durable Records only; repository-history commitment was not inspected."
+    },
+    "lofton-v-secretary-of-the-department-of-children-and-family-services_merits_2005-05-23.md": {
+      "before_date": "2005-05-23",
+      "before_case": "Lofton v. Secretary of the Department of Children & Family Services",
+      "counts": {
+        "Stone-Zsela": 7,
+        "Stevens": 8,
+        "O'Connor": 8,
+        "Scalia": 7,
+        "Kennedy": 7,
+        "Souter": 7,
+        "Thomas": 7,
+        "Ginsburg": 7,
+        "Breyer": 7
+      },
+      "lead_count": 65,
+      "last_counted_event": "Lingle v. Chevron U.S.A. Inc",
+      "method": "Each signed lead counts once for every Justice delivering any part; shared and split lead authors each count once, duplicate part rows and separate writings do not. Actual current opinion tables supply authors, with two disclosed legacy topology-only exceptions. No earlier tally supplies a count.",
+      "limit": "Durable Records only; repository-history commitment was not inspected."
+    },
+    "medellin-v-dretke_dismissal_2005-05-23.md": {
+      "before_date": "2005-05-23",
+      "before_case": "Medellín v. Dretke",
+      "counts": {
+        "Stone-Zsela": 7,
+        "Stevens": 8,
+        "O'Connor": 8,
+        "Scalia": 7,
+        "Kennedy": 7,
+        "Souter": 7,
+        "Thomas": 7,
+        "Ginsburg": 8,
+        "Breyer": 7
+      },
+      "lead_count": 66,
+      "last_counted_event": "Lofton v. Secretary of the Department of Children & Family Services",
+      "method": "Each signed lead counts once for every Justice delivering any part; shared and split lead authors each count once, duplicate part rows and separate writings do not. Actual current opinion tables supply authors, with two disclosed legacy topology-only exceptions. No earlier tally supplies a count.",
+      "limit": "Durable Records only; repository-history commitment was not inspected."
+    },
+    "tory-v-cochran_merits_2005-05-31.md": {
+      "before_date": "2005-05-31",
+      "before_case": "Tory v. Cochran",
+      "counts": {
+        "Stone-Zsela": 7,
+        "Stevens": 8,
+        "O'Connor": 8,
+        "Scalia": 8,
+        "Kennedy": 7,
+        "Souter": 8,
+        "Thomas": 7,
+        "Ginsburg": 8,
+        "Breyer": 7
+      },
+      "lead_count": 68,
+      "last_counted_event": "Cutter v. Wilkinson",
+      "method": "Each signed lead counts once for every Justice delivering any part; shared and split lead authors each count once, duplicate part rows and separate writings do not. Actual current opinion tables supply authors, with two disclosed legacy topology-only exceptions. No earlier tally supplies a count.",
+      "limit": "Durable Records only; repository-history commitment was not inspected."
+    },
+    "tucson-womans-clinic-v-eden_merits_2005-05-31.md": {
+      "before_date": "2005-05-31",
+      "before_case": "Tucson Woman's Clinic v. Eden",
+      "counts": {
+        "Stone-Zsela": 7,
+        "Stevens": 8,
+        "O'Connor": 8,
+        "Scalia": 8,
+        "Kennedy": 7,
+        "Souter": 8,
+        "Thomas": 7,
+        "Ginsburg": 8,
+        "Breyer": 8
+      },
+      "lead_count": 69,
+      "last_counted_event": "Tory v. Cochran",
+      "method": "Each signed lead counts once for every Justice delivering any part; shared and split lead authors each count once, duplicate part rows and separate writings do not. Actual current opinion tables supply authors, with two disclosed legacy topology-only exceptions. No earlier tally supplies a count.",
+      "limit": "Durable Records only; repository-history commitment was not inspected."
+    }
+  },
+  "source_count_exceptions": [
+    "Clark and Jama: exact published delivered-opinion statements because author-column tables are absent.",
+    "Catholic Charities: express procedural-action count exclusion."
+  ],
+  "limits": "No history command or process launch ran. History existence, commitment and ordering were not verified. Script checks stated arithmetic and source consistency; it does not decide legal meaning, eligibility grounds, historical departures, opinion compatibility or whether named joins support a particular proposition."
+}

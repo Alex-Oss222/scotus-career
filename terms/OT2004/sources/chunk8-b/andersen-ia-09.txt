@@ -1,0 +1,3583 @@
+pr — Court 
+— f Ff ‘ 
+No. 04-368 C OF THE CLE! 
+
+
+In the Supreme Court of the United States 
+
+
+ARTHUR ANDERSEN LLP, PETITIONER 
+*. 
+
+
+UNITED STATES OF AMERICA 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FIFTH CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES 
+
+
+PAUL D. CLEMENT 
+Acting Solicitor General 
+Counsel of Record 
+JOHN C. KEENEY 
+Acting Assistant Attorney 
+General 
+
+
+MICHAEL R. DREEBEN 
+Deputy Solicitor General 
+
+
+KANNON K. SHANMUGAM 
+Assistant to the Solicitor 
+General 
+
+
+ELIZABETH D. COLLERY 
+
+SANGITA K. RAO 
+
+ANDREW WEISSMANN 
+
+MATTHEW W. FRIEDRICH 
+Attorneys 
+Department of Justice 
+Washington, D.C. 20530-0001 
+(202) 014-2217 
+
+
+QUESTION PRESENTED 
+
+
+Whether petitioner is entitled to relief from its conviction 
+for corruptly persuading its employees with the intent to 
+cause them to withhold documents from, or alter documents 
+for, an official proceeding, in violation of 18 U.S.C. 
+1512(b)(2)(A) and (B), on the theory that: 
+
+
+(a) the jury was incorrectly instructed that the term “cor- 
+ruptly” means “having an improper purpose” “to subvert, 
+undermine, or impede the fact-finding ability of an official 
+proceeding”; and 
+
+
+(b) the jury was not instructed that Section 1512(b) re- 
+quires proof that petitioner believed that some particular 
+“official proceeding” was likely to occur in the near future, 
+and was incorrectly instructed that an “official proceeding” 
+includes an informal investigation by the Securities and Ex- 
+change Commission. 
+
+
+(I) 
+
+
+TABLE OF CONTENTS 
+
+
+Statement 
+Summary of argument 
+Argument: 
+Petitioner was properly convicted of corruptly 
+persuading its employees with the intent to cause 
+them to withhold documents from, or alter docu- 
+ments for, an official proceeding, in violation of 
+18 U.S.C. 1512(b)(2)(A) and (B) 
+I. The district court correctly instructed the jury 
+on the definition of the term “corruptly” ..............« 
+A. The lower courts correctly defined the 
+term “corruptly” as “having an improper 
+purpose” “to subvert, undermine, or 
+impede the fact-finding ability of an 
+official proceeding” 
+1. The term “corruptly” is similarly de- 
+fined in other obstruction-of-justice 
+statutes 
+2. Petitioner’s criticisms of the lower courts’ 
+definition are unfounded 
+B. Petitioner’s novel definition of the term 
+“corruptly” should be rejected 
+1. The term “corruptly” does not require 
+“proof of improper means of persuasion” 
+or “inducement to unlawful acts“ 
+2. The term “corruptly” does not require 
+“consciousness of wrongdoing” 
+C.- Neither the rule of lenity, the doctrine of 
+constitutional doubt, nor principles of “fair 
+warning” justify petitioner’s construetion 
+
+
+(III) 
+
+
+14 
+
+
+16 
+
+
+17 
+
+
+17 
+
+
+IV 
+
+
+Table of Contents—Continued: 
+Il. The district court correctly instructed the 
+jury on the definition of the phrase “official 
+proceeding” 
+
+
+A. Petitioner’s proposed “nexus” requirement 
+should be rejected 
+
+
+B. Petitioner's challenge to the district court’s 
+“official proceeding” instruction should be 
+
+
+rejected 
+Conclusion 
+Appendix 
+TABLE OF AUTHORITIES 
+Cases: 
+
+
+Bryan v. United States, 524 U.S. 184 (19809 
+
+
+California Motor Transp. Co. v. Trucking Un- 
+limited, 404 U.S. 508 (1972) 
+
+
+Cheek v. United States, 498 U.S. 192 (1991) 
+Craig v. Harney, 331 U.S. 367 (1947) 
+
+
+Johnson v. United States, 520 U.S. 461 (1997) ................. 
+
+
+Lewy v. Remington Arms Co., 836 F.2d 1104 
+(8th Cir. 1988) 
+
+
+Lockhart v. Nelson, 488 U.S. 33 (1988) 
+
+
+Miller v. French, 530 U.S. 327 (2000) 
+
+
+Morrissette v. United States, 342 U.S. 246 (1952) 
+
+
+NAACP vy. Claiborne Hardware Co., 458 U.S. 886 
+(1982) 
+
+
+Neder v. United States, 527 U.S. 1 (1999) 
+
+
+Pettibone v. United States, 148 U.S. 197 (1898) ........... 
+Ratzlaf v. United States, 510 U.S. 135 (1994). 
+
+
+Rice v. United States, 356 F 2d 709 (8th Cir. 
+1966) 
+
+
+Salinas v. United States, 522 U.S. 52 (1997 
+Standard Oil Co. v. United States, 221 US. 1(1911) ..... 
+
+
+47 
+
+
+la 
+
+
+2 et i — — — 
+
+
+C C ti 1: Page 
+
+
+Stichting Ter Behartiging Van De Belangen Van 
+Oudaandeelhouders In Het Kapitaal Van Saybolt 
+International B. V. v. Schreiber, 327 F.3d 173 
+
+
+(2d Cir. 2003) 25 
+United States v. A&P Trucking Co., 358 U.S. 121 
+
+(1958) 10 
+United States v. Abrams, 427 F 2d 86 (2d Cir.), 
+
+cert. denied, 400 U.S. 832 (1970) 21 
+United States v. Aguilar, 515 U.S. 598 (1995) . 19, 25, 28, 
+
+32, 37, 39, 44 
+United States v. Applewhaite, 195 F.3d 679 
+
+(3d Cir. 1999) : 40 
+United States v. Batten, 226 F. Supp. 492 
+
+(D.D.C. 1964), cert. denied, 380 U.S. 912 (1965) ............... 49 
+United States v. Bonito, 57 F.3d 167 (2d Cir. 
+
+1995), cert. denied, 516 U.S. 1049 (1996) 26 
+United States v. Brady, 168 F 3d 574 (Ist Cir. 1999) ...... 31 
+United States v. Brooks, 111 F.3d 365 (4th Cir. 
+
+1997) 18 
+United States v. Browning, Inc., 572 F.2d 720 
+
+(10th Cir.), cert. denied, 439 U.S. 822 (1978) . 48, 49 
+United States v. Davis, 183 F.3d 231 (3d Cir.), 
+
+amended on reh’g, 197 F.3d 662 (3d Cir. 1999) . 29, 44 
+United States v. Fleming, 215 F.3d 930 (9th Cir. 
+
+2000) 18 
+United States v. Fruchtman, 421 F.2d 1019 
+
+(6th Cir.), cert. denied, 400 U.S. 849 (1970) . 48, 49 
+United States v. Gabriel, 125 F 3d 89 (2d Cir. 
+
+1997) 44 
+United States v. Gravely, 840 F.2d 1156 (4th Cir. 
+
+198%) 40 
+United States v. Harriss, 347 US. 612 (1954) 39 
+
+
+United States v. Hernandez, 730 F. 2d 895 
+
+(2d Cir. 1984) 20 
+United States v. Howard, 569 F 2d 1331 (5th Cir.), 
+
+cert. denied, 439 U.S. 834 (1978) 19 
+
+
+VI 
+
+
+Cases—Continued: 
+United States v. Jackson, 607 F 2d 1219 (th Cir. 
+1979), cert. denied, 444 U.S. 1080 (1980) 
+United States v. Jeter, 775 F.2d 670 (6th Cir. 
+1985), cert. denied, 475 U.S. 1142 (1986) 
+United States v. Kelley, 36 F 3d 1118 (D.C. Cir. 
+1994) 
+United States v. Kellington, 217 F.3d 1084 
+(9th Cir. 2000) 
+United States v. Kloess, 251 F.3d 941 (11th Cir. 
+2001) 
+United States v. Laurins, 857 F 2d 529 (9th Cir. 
+1988), cert. denied, 492 U.S. 906 (1989) 
+United States v. Leo, 941 F.2d 181 (3d Cir. 1991) ............ 
+United States v. Machi, 811 F.2d 991 (7th Cir. 
+1987) * 
+United States v. Mitchell, 877 F 2d 294 (4th Cir. 
+1989) 
+United States v. North, 910 F.2d 843 (D.C. Cir.), 
+modified on reh’g, 920 F.2d 940 (D.C. Cir. 1990), 
+cert. denied, 500 U.S. 941 (1991) 
+United States v. Ogle, 613 F.2d 238 (10th Cir. 1979), 
+cert. denied, 449 U.S. 825 (1980) 
+
+
+United States v. Olano, 507 US. 725 (1993) 
+
+
+United States v. Poindexter, 951 F 2d 369 (D.C. Cir. 
+
+
+18 
+
+
+49 
+
+
+18 
+
+
+19, 31 
+
+
+19, 28 
+
+
+18, 31 
+43 
+
+
+1991), cert. denied, 506 U.S. 1021 (1992) ............. 19, 21, 27, 28 
+
+
+United States v. Rasheed, 663 F. 2d 843 (9th Cir. 
+1981), cert. denied, 454 U.S. 1157 (1982) 
+
+
+United States v. Reeves, 752 F 2d 995 (5th Cir.), 
+cert. denied, 474 U.S. 834 (1985) 
+
+
+United States v. Rooney, 37 F 3d 847 (2d Cir. 
+1994) 
+
+
+United States v. Ruggiero, 934 F.2d 440 (2d Cir. 
+1991) 
+
+
+United States v. Schwartz, 283 F 3d 76 (2d Cir. 
+
+
+2002) 
+
+
+18 
+
+
+25 
+
+
+40 
+
+
+18 
+
+
+VII 
+Cases —Continued: 
+United States v. Senffner, 280 F. 3d 775 (7th Cir.), 
+
+cert. denied, 536 U.S. 934 (2002) 49, 50 
+United States v. Shabani, 513 U.S. 10 (1994) 38 
+United States v. Shotts, 145 F.3d 1289 (11th Cir. 
+
+1998), cert. denied, 525 U.S. 1177 (1999) 20, 40 
+United States v. Strand, 574 F.2d 993 (9th Cir. 
+
+1978) 25 
+United States v. Tackett, 113 F.3d 603 (6th Cir. 
+
+1997), cert. denied, 522 U.S. 1089 (1998) 20 
+United States v. Thompson, 76 F.3d 442 (2d Cir. 
+
+1996) 39, 40 
+United States v. Wells, 519 U.S. 482 (1997) 38 
+United States v. Williams: 
+
+504 US. 36 (1992) 43, 47 
+
+990 F. 2d 507 (9th Cir.), cert. denied, 510 U.S. 926 
+
+(1998) 43 
+Virginia v. Hicks, 539 U.S. 113 (2003) 38 
+
+
+Wilder v. United States, 143 F. 433 (4th Cir. 1906), 
+
+
+cert. denied, 204 U.S. 674 (1907) 40 
+Constitution, statutes, regulations and rules: 
+US. Const.: 
+Amend. I 38, 39 
+Amend. V 28 
+Act of Mar. 2, 1831, ch. 99, § 2, 4 Stat. 487 17 
+
+
+Anti-Drug Abuse Act of 1988, Pub. L. No. 100-690, 
+102 Stat. 4181: 
+
+
+§ 702% a), 102 Stat. 4397 20 
+
+§ 702% c), 102 Stat. 4398 20 
+Corporate and Criminal Fraud Accountability Act 
+
+of 2002, Pub. L. No. 107-204, 116 Stat. 800 23 
+Victim and Witness Protecton Act of 1982, Pub. L. 
+
+No. 97-291, § 4(a), 96 Stat. 1248 19 
+
+15 U.S.C. T8u(a) 48, 152 
+
+15 U.S.C. 78u(b) — 48, 16a 
+
+
+15 U.S.C. T&dd-2 25 
+
+
+Statutes, regulations and rules—Continued: Page 
+18 U.S.C. 2(b) 31 
+18 U.S.C. 201 25 
+18 U.S.C. 201(b)(3) 31 
+18 U.S.C. 666(a) 25 
+18 U.S.C. 873 31 
+18 U.S.C. 1032 25 
+18 U.S.C. 1503 passim, la 
+18 U.S.C. 1505 passim, 2a 
+18 U.S.C. 1512 (2000 & Supp. II 2002) passim, 3a, 6a 
+18 U.S.C. 1512(b) (2000 & Supp. II 2002) . passim, 3a, 8a 
+18 U.S.C. 1512(b)(2) 38, 41, 3a 
+18 U.S.C. 1512(b)(2)(A) 1, 10, 14, 16, 24, 46, 50, 4a 
+18 U.S.C. 1512(b)(2)(B) 1, 10, 14, 16, 24, 50, 4a 
+18 U.S.C, 1512(c) (2000) 33, 34, 4a 
+18 U.S.C, 1512 ) (Supp. II 2002) 21, 23, 33, 34, 8a 
+18 U.S.C. 1512(d) (Supp. II 2002) 33, 9a 
+18 U.S.C. 1512(e)(1) (2000) 13, 22, 32, 42, 44, 46, 5a 
+18 U.S.C. 1512(f)(1) (2000) 46, 5a 
+18 U.S.C. 1512(f(1) (Supp. II 2002) 22, 10a 
+18 U.S.C. 1512(g)(1) (Supp. II 2002) 46, 10a 
+18 U.S.C. 1515(a)(1) 47, 48, lla 
+18 U.S.C. 15150) 33, lla 
+18 U.S.C. 1515.8) 33, 13a 
+18 U.S.C. 1515(b) 21, 33, 13a 
+18 U.S.C. 15151) 29, 33, 41, 13a 
+18 U.S.C, 1517 25 
+18 U.S.C. 1519 (Supp. II 2002) 23, 13a 
+18 U.S.C, 1520 (Supp. II 2002) 23, 13a 
+18 U.S.C. 1622 31 
+26 U.S.C. 7212(a) 25, 17a 
+17 CF. R.: 
+
+Section 201.100(b)(1) 48 
+Section 201.101(a) 48 
+Section 201.102(e)(1 ii) 3 
+Section 201.102(e)(1 iv) 3 
+
+
+VIII 
+
+
+Section 202.50) 48, 17a 
+
+
+— ů — — 
+
+
+IX 
+Rules Continued: Page 
+Fed. R. Crim. P. 52(b) 43 
+Fed. R. Evid. 606(b) 40 
+Miscellaneous: 
+128 Cong. Rec. (1982): 
+p. 26,350 34 
+p. 26,810 34 
+134 Cong. Rec. 32,701 (1988) 20, 35 
+141 Cong. Rec. 14,956 (1995) 21 
+142 Cong. Rec. 25,468 (1996) 21 
+
+
+2 Edward J. Devitt & Charles B. Blackmar, 
+Federal Jury Practice & Instructions (3d ed. 
+1977) 
+
+27 Fed. Reg. (1962): 
+p. 4609 
+p. 4610 
+
+H.R. Rep. No. 681, 101st Cong., 2d Sess. Pt. 1 (1990) 
+
+Ninth Circuit Manual of Model Jury Instructions 
+(Criminal) (2003) 19 
+
+2A Kevin F. O’Malley et al., Federal Jury 
+Practice and Instructions: Criminal (5th ed. 
+
+2000) 18 
+
+Michael R. Overly & Chanley T. Howell, 
+
+Document Retention in the Electronic Workplace 
+(2001) 27 
+
+18 Oxford English Dictionary (2d ed. 1989) 30 
+
+S. Rep. No. 532, 97th Cong., 2d Sess. (1982) ............. 23, 32, 34 
+
+S. Rep. No. 146, 107th Cong., 2d Sess. (2002) . 23, 24 
+
+2 Leonard B. Sand et al., Modern Federal Jury 
+Instructions: Criminal (2004) 18 
+
+Bruce G. Vanyo & Terry T. Johnson, The Pretrial 
+Phase: A Practical Guide for the Non-Litigator 
+
+
+584 PLI/Corp. 247 (1987) 27 
+W. Russell Welsh & Andrew C. Marquardt, 
+Spoliation of Evidence, 23 WTR Brief 9 (1994) 27 
+
+
+a 
+a 
+
+
+STATEMENT 
+
+
+This case arises from the response of petitioner, then one 
+of the world’s “Big Five” auditing firms, to anticipated and 
+actual government investigations into the accounting prac- 
+tices of its client, Enron Corporation. In order to limit 
+scrutiny by the Securities and Exchange Commission (SEC) 
+of petitioner’s conduct in connection with Enron’s improper 
+accounting practices, petitioner instructed its employees to 
+undertake an unprecedented campaign of document de- 
+struction. Following a jury trial in the United States Dis- 
+trict Court for the Southern District of Texas, petitioner was 
+convicted on one count of corruptly persuading persons with 
+the intent to cause them to withhold documents from, or 
+alter documents for, an official proceeding, in violation of 18 
+U.S.C. 1512(b)(2)(A) and (B). The court of appeals affirmed. 
+Pet. App. la-34a. 
+
+1. Enron was one of the nation’s largest companies and 
+one of petitioner’s largest clients. Petitioner’s “Enron en- 
+gagement team” consisted of more than 100 accountants, and 
+petitioner billed Enron approximately $58 million in the year 
+2000. Enron employed highly aggressive accounting prac- 
+tices, and petitioner treated Enron as a “high-risk” client. 
+Petitioner nevertheless had an unusually close relationship 
+with Enron. David Duncan, the Andersen partner who led 
+the Enron engagement team, was known as a strong “client 
+advocate,” and petitioner bent over backward to accommo- 
+date Enron. get. App. 3a; Tr. 796-804, 819-823, 940-942, 
+1173, 1687, 1739-1742, 1847-1848, 3270, 5357, 5529-5532, 5536- 
+5547; GX 304A. 
+
+On August 14, 2001, Enron chief executive officer Jeffrey 
+Skilling unexpectedly resigned, leading to widespread 
+speculation about financial problems at Enron and further 
+
+
+In 2002, Congress amended 18 U.S.C. 1512(b) in respects not rele- 
+vant to this litigation. All references to Section 1512(b) in this brief are to 
+the 2000 version. 
+
+
+(1) 
+
+
+2 
+
+
+depressing the already declining value of Enron’s stock. 
+Within days of Skilling’s resignation, Sherron Watkins, a 
+senior Enron accountant who had previously worked for pe- 
+titioner, warned Kenneth Lay, Enron’s newly reappointed 
+CEO, that Enron could “implode in a wave of accounting 
+scandals.” Watkins simultaneously conveyed her warnings 
+to petitioner, and they were discussed by Duncan, in-house 
+counsel, and senior management. On August 28, an article in 
+the Wall Street Journal suggested improprieties at Enron, 
+and the SEC opened an informal investigation. Pet. App. 4a; 
+Tr. 655-664, 1807-1817, 2804; GXs 821A, 828B. 
+
+In September 2001, high-level Andersen personnel 
+learned of serious accounting problems at Enron and began 
+to anticipate an SEC investigation and civil litigation. Spe- 
+cifically, they discovered that the Enron engagement team 
+had approved the use of an improper accounting technique 
+for four “Raptors,” special-purpose entities that Enron had 
+used to engage in “off-balance-sheet” activities. To conceal 
+the fact that some of the Raptors had suffered severe losses, 
+the Enron engagement team had allowed Enron to aggre- 
+gate the four Raptors for accounting purposes. Petitioner’s 
+own accounting experts had deemed that technique a “black- 
+and-white” violation of GAAP. While examining that issue, 
+moreover, high-level Andersen personnel learned that En- 
+ron and petitioner had made a separate $1.2 billion account- 
+ing error in Enron’s favor, which would require, at a mini- 
+mum, that Enron reduce its outstanding shareholder equity 
+by that amount in an upcoming SEC filing. Pet. App. 3a-4a, 
+6a; Tr. 942-952, 970-971, 1773-1781, 1833-1840, 5413-5414, 
+5572, 5578. 
+
+Petitioner had particular reason to be concerned about the 
+prospect of an SEC investigation. In June 2001, petitioner 
+had agreed to pay a record $7 million fine to settle an SEC 
+action arising from its audit work for Waste Management, 
+Inc. As part of that settlement, the SEC censured peti- 
+tioner, and petitioner was enjoined from committing any fu- 
+
+
+3 
+
+
+ture violations of the securities laws. As a result, petitioner 
+was effectively on probation with the SEC. See 17 C.F.R. 
+201.102(e)(1 (ii) and (iv) (allowing SEC to disbar accountants 
+for “repeated instances of unreasonable conduct”). In July, 
+the SEC had filed an amended complaint against, among 
+others, the lead Andersen partner on an audit for Sunbeam 
+Corporation, contending that Sunbeam’s financial state- 
+ments were materially false or misleading. In connection 
+with that complaint (as it had in the Waste Management 
+investigation), the SEC had issued a formal subpoena to pe- 
+titioner for records relating to the audit. In light of the 
+Waste Management and Sunbeam investigations, petitioner 
+was anxious to avoid any further sanction or censure. J.A. 
+93; Pet. App. 4a, l1la-12a; Tr. 448-484, 1764-1765; GXs 621A, 
+626A, 1026A, 3036, NT Undated. 
+
+In late September 2001, petitioner began to prepare for 
+Enron-related legal action, including SEC document re- 
+quests. By that time, Duncan had already concluded that the 
+SEC might issue such requests. Petitioner assembled an 
+Enron crisis-response group, composed of high-level part- 
+ners and in-house counsel. By September 28, the group was 
+convening almost daily. On October 8, petitioner retained 
+the law firm of Davis Polk & Wardwell to represent it in any 
+Enron-related litigation. J.A. 161-162; Pet. App. 4a; Tr. 
+4182-4183, 4519-4522. 
+
+Nancy Temple was an Andersen in-house lawyer with re- 
+sponsibility for Enron-related matters. On October 9, Tem- 
+ple discussed Enron with other in-house counsel. In her 
+notes from the meeting, Temple acknowledged that “some 
+SEC investigation” was “highly probable”; that, even if peti- 
+tioner’s accounting experts were able to develop an alterna- 
+tive methodology for the Raptors, there was a “reasonable 
+possibility [that the Raptors issue] will force a restatement” 
+of Enron’s previously filed financial statements; and that, 
+absent an alternative methodology, there would be a “re- 
+statement and probability of charge of violating [the injunc- 
+
+
+4 
+
+
+tion] in Waste Management.” On October 12, Temple en- 
+tered the Enron matter in the computer system that peti- 
+tioner used to track its open legal matters. In doing so, she 
+designated the matter as a “government/regulatory investi- 
+gation.” J. A. 93, 125-132; Pet. App. 5a. 
+
+Concerned about the record that the SEC and other liti- 
+gants would uncover, petitioner decided to purge material 
+from its files under the guise of enforcing its document re- 
+tention policy. That policy required petitioner to maintain a 
+single central engagement file of its working papers, which 
+contained “only that information which [was] relevant to 
+supporting [petitioner’s] work.“ J. A. 45 (emphasis added). 
+All other paper and electronic documents (including drafts, 
+handwritten notes, and e-mails) were to be destroyed when 
+they were “no longer useful to the engagement.” J.A. 45, 47, 
+58. The policy, however, provided that, “in cases of threat- 
+ened litigation, no related information will be destroyed.” 
+J.A. 44. The policy further specified that “related informa- 
+tion should not be destroyed” (J.A. 65) whenever, in the 
+
+
+2 Petitioner believed that an SEC request for its documents would be 
+“likely” even if the SEC did not ultimately conclude that Enron would 
+have to restate its earnings (or income). Temple knew, from studying the 
+Waste Management and Sunbeam matters, that the SEC might request 
+documents from petitioner before a restatement was filed. And although 
+Andersen partner John Riley claimed to have believed that the SEC 
+would subpoena petitioner's records only if Enron restated its earnings, 
+and not its assets (or balance sheet), that claim was substantially 
+impeached by his testimony during the Sunbeam matter, in which he 
+acknowledged knowing from the first sign of adverse publicity that 
+petitioner was going to have a problem with an SEC investigation. Riley 
+also acknowledged that he was unaware of critical facts bearing on the 
+likelihood of an SEC proceeding relating to Enron. Finally, there is no 
+evidence that Temple, Duncan, or the SEC shared Riley’s view. In fact, 
+an SEC official testified that any restatement by a large public company 
+would result in a formal SEC investigation “almost without fail,” and 
+another SEC official testified that the SEC intended to seek information 
+from petitioner even before any restatement occurred. Tr. 424, 448-459, 
+783-784, 5888, 6008-6009, 6093-6096, 6120, 6198; GX NT Undated, at A- 
+004609. 
+
+
+5 
+
+
+words of a separate policy incorporated by reference, “pro- 
+fessional practice litigation against [petitioner] or any of its 
+personnel has been commenced, has been threatened or is 
+judged likely to occur, or when governmental or professional 
+investigations that may have involved [petitioner] or any of 
+its personnel have been commenced or are judged likely.” 
+J. A. 29-30. Many Andersen employees were unaware of the 
+details of the document policy. Actual compliance with the 
+policy was spotty, and the Enron engagement team was no- 
+toriously lax in that respect. Tr. 1201, 1625-1626, 1883, 1895, 
+2790-2793, 3331-3338, 4830, 4867-4873, 5294-5295. 
+Notwithstanding the facts that (1) petitioner had retained 
+outside counsel; (2) Temple had concluded that “some SEC 
+investigation” was “highly probable”; (3) Temple had desig- 
+nated the Enron matter as a “government/regulatory inves- 
+tigation”; and (4) petitioner’s work for Enron was ongoing, 
+Temple and others embarked on a campaign to encourage 
+Andersen employees to destroy Enron-related documents, 
+under the guise of complying with the document policy. On 
+October 10, Michael Odom, practice director for petitioner’s 
+Houston office, urged an audience of Andersen personnel 
+(including members of the Enron engagement team) to com- 
+ply with the policy. Odom explained that, “if [a document is] 
+destroyed in the course of the normal policy and litigation is 
+filed the next day, that’s great. [W]e’ve followed our 
+own policy, and whatever there was that might have been of 
+interest to somebody is gone and irretrievable.” Odom later 
+admitted that his remarks were prompted by a conference 
+call with the Enron crisis-response group. Shortly before 
+
+
+3 In an official memo explaining the document policy, circulated to all 
+Andersen personnel, petitioner stated that, “if there is a current 
+expectation that access [to the working papers] will be sought [by 
+an external source],” and “if working papers are still in the process of 
+being assembled,” then “all extraneous materials should be preserved.” 
+GX 1023M. At all relevant times, the Enron working papers had not yet 
+been assembled. Tr. 1881-1882, 3335. 
+
+
+6 
+
+
+the meeting, Odom himself deleted an unusual volume of 
+electronic documents. For her part, Temple e-mailed Odom 
+on October 12—after she had learned that the Enron en- 
+gagement team had not been following the document policy, 
+and just minutes after designating the Enron matter as a 
+government / regulatory investigation.” In the e-mail, which 
+Odom forwarded to Duncan, Temple suggested that Odom 
+“remind[] the engagement team of our documentation and 
+retention policy,” and added that compliance “will be help- 
+ful.” J.A. 94, 156-157; Pet. App. 5a; Tr. 1881-1883, 3335, 4175- 
+4176, 6252; GXs 1010A-1010D. 
+
+In the days that followed, Enron’s predicament worsened. 
+On October 16, Enron issued a press release announcing that 
+it was taking a $1.01 billion charge to its current earnings.“ 
+In a conference call with analysts later that day, Lay an- 
+nounced that Enron was also reducing its outstanding 
+shareholder equity by approximately $1.2 billion. Those an- 
+nouncements triggered another wave of negative publicity. 
+On October 17, the SEC notified Enron by letter of its inves- 
+tigation and requested certain information and documents. 
+The SEC separately told Enron that its investigation was a 
+“high-priority matter” and “very serious.” On October 19, 
+Enron forwarded a copy of the SEC’s letter to petitioner. 
+J.A. 103-119; Pet. App. 5a-6a; Tr. 680, 1841-1846, 1850-1852; 
+GXs 1016A-1016B, 1019C-1019D. 
+
+In the wake of the SEC letter, Temple and others redou- 
+bled their efforts to purge Enron-related material from peti- 
+tioner’s files. On October 19, Temple sent an e-mail attach- 
+ing the policy to a member of petitioner’s internal team of 
+
+
+4 In the press release, Enron characterized the charge to earnings as 
+“non-recurring,” even though petitioner had informed Enron that it 
+believed that the term was misleading. When Enron refused to alter the 
+press release, Temple requested that an internal Andersen memo 
+regarding the press release be revised to delete any reference to 
+petitioner’s belief that the press release was “misleading.” J.A. 95-102, 
+149-150; Pet. App. 5a-Ga; Tr. 967-968, 1795-1807, 5591-5592. 
+
+
+7 
+
+
+accounting experts, thereby causing team members to delete 
+hundreds of Enron-related e-mails. On the morning of Sat- 
+urday, October 20, the Enron crisis-response group con- 
+vened by telephone to discuss the SEC letter. During that 
+conference call, Temple twice instructed the members of the 
+group to “[mJake sure to follow the [document] policy.” Pet. 
+App. 6a; Tr. 978-985, 1622-1644, 1853-1862; GXs 1019A, 
+3004A. 
+
+On October 23, in a conference call with analysts, Enron 
+CEO Lay declined to answer certain questions because of 
+“potential lawsuits, as well as the SEC inquiry.” By that 
+date, Duncan had concluded that the $1.2 billion error would 
+require a restatement. After the October 23 conference call, 
+Duncan met with other partners on the Enron engagement 
+team and explained that they should ensure that team mem- 
+bers were in compliance with the document policy. Duncan 
+took that step in light of At he continued escalating events 
+surrounding Enron,” including “the filing of lawsuits and the 
+SEC inquiry.” Duncan then called an “URGENT” and 
+“mandatory” meeting for all members of the Enron engage- 
+ment team, in which he distributed copies of the document 
+policy and ordered compliance with it. As Duncan later 
+acknowledged, “certainly the threat of potential civil litiga- 
+tion or SEC questions were /sic) n our mind.” 
+Partners then fanned out and held smaller meetings with 
+their supervisees, discussing the SEC investigation and 
+confirming the need for compliance with the policy. Mem- 
+bers of the Enron engagement team were instructed to make 
+document destruction a priority, despite the mounting pres- 
+sure they faced in dealing with Enron’s underlying account- 
+ing problems. One Andersen partner told a manager that it 
+was important to clean up the files because “we may be sub- 
+poenaed,” and an Andersen employee said in an e-mail to 
+other employees that the order to destroy documents “came 
+from the partner group and is considered VERY important.” 
+Similar instructions went out to other Andersen offices that 
+
+
+8 
+
+
+dealt with Enron matters, though at least one supervisor in 
+another office refused to comply. That supervisor later ex- 
+plained his reaction as follows: II you think there is going 
+to be some requirement to produce these documents, then 
+don't destroy anything. For God's sake, just don’t do that. 
+J.A. 150-159, 168-169; Tr. 1849-1850, 1874-1881, 1886-1894, 
+1902-1905, 3241-3242, 4088-4089, 4791-4800, 4952, 4965, 5009, 
+5115, 5158-5168, 5210; GXs 1023F, 1023R, 1024E-1024F. 
+
+Following management’s instructions, the Enron engage- 
+ment team destroyed documents at an unprecedented clip. 
+In fact, because the onsite shredder was operating at full ca- 
+pacity, additional documents had to be shipped to another 
+office for shredding.. A chart showing the quantity of 
+shipped documents dramatically illustrates the massive 
+spike in document destruction that coincided with notifica- 
+tion of the SEC inquiry. J.A. 133. In addition to destroying 
+paper documents, the Enron engagement team deleted tens 
+of thousands of e-mails and other electronic documents—at 
+least three times as many as normal. J.A. 133; Tr. 1897, 3239, 
+3896, 3951-3955, 3990, 4171-4175, 5035-5036, 5766-5767. 
+
+During the period from October 19 to November 9, it be- 
+came increasingly clear that the SEC would issue a subpoena 
+to petitioner. In considering the possibility of calling in peti- 
+tioner’s in-house forensic accountants to assist the Enron 
+engagement team, Temple noted that doing so was “not un- 
+usual” and Iwill help with SEC and jury.” On October 26, 
+petitioner’s second-ranking partner, in a covering e-mail to a 
+New York Times article on the SEC investigation, stated: 
+The problems are just beginning and we will be in the 
+cross hairs. The marketplace is going to keep the pressure 
+on this and is going to force the SEC to be tough.” On Octo- 
+ber 30, the SEC opened a formal investigation and sent a 
+follow-up letter to Enron, signed by two top SEC officials, 
+expressing “serious concerns about recent revelations re- 
+garding limited partnership transactions at Enron” and re- 
+questing certain public disclosures. Petitioner became 
+
+
+9 
+
+
+aware of the formal investigation by the following day. 
+Meanwhile, petitioner discovered two more major account- 
+ing problems—one invoiving suspected fraud by Enron re- 
+lating to another special-purpose entity named “Chewco,” 
+and the other involving a large accounting error by peti- 
+tioner itself. Numerous civil lawsuits were filed against En- 
+ron, and petitioner received a subpoena for Enron-related 
+documents in connection with one of those suits. J.A. 121- 
+124; Pet. C.A. Reply Br. 28 n.10; GXs 928B, 1026A; Tr. 505- 
+507, 1179-1183, 1372, 1931-1938, 1944-1956, 3654, 4591, 4605- 
+4608, 4683-4684, 5157-5158, 5602-5609. 
+
+Notwithstanding all of those developments, petitioner 
+continued to shred Enron-related documents. And it did so 
+even though both Duncan and Temple were warned of the 
+dangers of destroying those documents. On October 26, An- 
+dersen partner John Riley heard the sound of a shredder and 
+confronted Duncan, warning him that “this wouldn’t be the 
+best time in the world for you guys to be shredding a bunch 
+of stuff.” Duncan agreed that the “worst-case scenario” in a 
+“situation like this” would be “people * * * destroying a lot 
+of documents,” but took no action. On October 31, Andersen 
+partner David Stulb saw Duncan looking at a document that 
+used the phrase “smoking gun” in reference to Watkins's ini- 
+tial warnings about Enron’s accounting scandals. After 
+reading the “smoking gun” reference aloud and stating, 
+wie don’t need this,“ Duncan started to destroy the docu- 
+ment. Stulb warned Duncan of the need to retain “all of this 
+information” because of the “strong likelihood” that the 
+SEC, among others, would be interested. Stulb later in- 
+formed Temple that Duncan needed guidance on document 
+retention. Temple promised to take care of the matter, but 
+did nothing. I A. 170-171, 175-177; Tr. 5900-5901. 
+
+On November 8 (the deadline for responding to the SEC’s 
+October 30 letter), Enron announced that it would issue a 
+comprehensive restatement of its earnings and assets. That 
+same day, the SEC served petitioner and Enron with sub- 
+
+
+10 
+
+
+poenas. On November 9, Duncan’s secretary sent an e-mail 
+to the Enron engagement team entitled “No More Shred- 
+ding,” which stated: “Per Dave—No more shredding. 
+* * * We have been officially served for our documents.” 
+On December 2, Enron filed for bankruptcy. In January 
+2002, petitioner announced that it would fire Duncan and 
+suspend other partners on the Enron engagement team. 
+Pet. App. 6a-7a; Tr. 4590, 5691, 5720-5725, 5928-5932; GXs 
+1108A, 1108C, 1109A. 
+
+2. On March 7, 2002, petitioner was indicted in the 
+United States District Court for the Southern District of 
+Texas on one count of corruptly persuading persons with the 
+intent to cause them to withhold documents from, or alter 
+documents for, an official proceeding, in violation of 18 
+U.S.C. 1512 b , HA) and (B). J. A. 134-140. Duncan sub- 
+sequently pleaded guilty to one count of the same offense. 
+Tr. 1666. 
+
+At the close of trial, the government requested a jury in- 
+struction defining the statutory term “corruptly” as “having 
+an improper purpose,” and further specifying that, Iiln or- 
+der to establish that [petitioner] acted corruptly, it is not 
+necessary for the government to prove that [petitioner] 
+knew its conduct violated the criminal law.” R. 284. The 
+government also sought to define an “official proceeding” as 
+“a proceeding before a federal court, judge, or agency,” and 
+to specify that Jaln official proceeding includes all of the 
+steps and stages in the agency’s performance by an agency 
+of its governmental functions * both formal and infor- 
+mal.” R. 279-280. 
+
+
+® Petitioner does not dispute, and well-established law provides, that a 
+partnership may be held criminally liable for the acts of an agent or 
+employee acting within the scope of his agency or employment, provided 
+that the agent or employee was acting at least in part with the intent to 
+benefit the partnership. See, ¢.g., United States v. A&P Trucking Co., 358 
+US. 121, 126-127 (1958). 
+
+
+11 
+
+
+Petitioner requested an instruction stating that Ia] per- 
+son persuades another person ‘corruptly’ only if he or she (1) 
+uses an improper method, such as bribery or other unlawful 
+means, to induce that person to act; or (2) persuades the 
+other person to do something that they would not have had a 
+lawful right to do had they been acting on their own.” R. 
+146. Petitioner also requested an instruction stating that 
+Aan otherwise innocent act of persuasion is not ‘corrupt’ if it 
+is undertaken with a genuine belief that the persuasion is not 
+improper or unlawful, even if its purpose is to make informa- 
+tion unavailable to an official proceeding.” R. 145. In addi- 
+tion, petitioner asked the court to specify that “the ‘official 
+proceeding’ must be one that is ongoing or has been sched- 
+uled to be commenced in the future,” R. 148, and that “an 
+informal inquiry conducted by SEC staff * * * is not an 
+‘official proceeding,’” R. 147. 
+
+The district court rejected petitioner’s proposed instruc- 
+tions. Pet. App. 36a-45a. The court noted that the term 
+“corruptly” was also used in the general obstruction-of-jus- 
+tice statute, 18 U.S.C. 1503, and had been defined in that 
+statute to mean “with an improper purpose.” Pet. App. 37a. 
+The court concluded that “the same meaning must be applied 
+to ‘corruptly’ in § 1512.” Id. at 38a. The court observed that 
+case law from other circuits supported the “improper pur- 
+pose interpretation of § 1512.” bid. The court also con- 
+cluded that “specific knowledge of the law is not required 
+under § 151 Ab)“ Id. at 42a. Finally, the court reasoned that 
+“a ‘proceeding’ is not restricted to formal adjudicative proc- 
+ess,” id. at 43a, and rejected petitioner’s contention that an 
+“official proceeding” must be ongoing or scheduled at the 
+time of the document destruction, id. at 44a. 
+
+The court subsequently instructed the jury that It Ihe 
+word ‘corruptly’ means having an improper purpose.” J.A. 
+212. Borrowing from (and slightly modifying) the Fifth Cir- 
+cuit’s model jury instructions for Section 1503, the court then 
+elaborated on that definition, stating that “[aJn improper 
+
+
+12 
+
+
+purpose for this case is an intent to subvert, undermine, or 
+impede the fact-finding ability of an official proceeding.” 
+Ibid. The court also informed the jury that “it is not neces- 
+sary for the Government to prove that [petitioner] knew that 
+its conduct violated the criminal law.” J.A. 213. The court 
+defined an “official proceeding” as “a proceeding before a 
+federal court, judge, or agency” and specified that “[a] pro- 
+ceeding * * * includes all of the steps and stages in the 
+agency's performance of its governmental functions * * * 
+both formal and informal.” J.A. 211. The court added that 
+“it is not necessary for the Government to prove that an offi- 
+cial proceeding was pending or even about to be initiated at 
+the time the obstructive conduct occurred.” J.A. 213. The 
+jury found petitioner guilty. 
+
+3. The court of appeals affirmed. Pet. App. la-34a. 
+
+a. The court of appeals held that the jury instructions 
+correctly defined the statutory term “corruptly.” Pet. App. 
+17a-25a, 28a-29a. The court of appeals noted that courts in- 
+terpreting the term “corruptly” in other obstruction-of-jus- 
+tice statutes had defined it to require an improper purpose, 
+and that a majority of circuits interpreting the term 
+“corruptly” in Section 1512(b) had defined it in similar terms. 
+Id. at 19a. The court of appeals also reasoned that the 
+district court correctly rejected petitioner’s proposed in- 
+structions on the definition of “corruptly.” Id. at 23a-25a, 
+28a-29a. In upholding the rejection of petitioner’s proposed 
+instruction that “the only way corrupt persuasion may be 
+found is by an improper method or a violation of an inde- 
+pendent legal duty,” the court of appeals noted that no other 
+court had endorsed that approach. /d. at 23a. The court of 
+appeals added that “[petitioner] * * * gives no explanation 
+why ‘improper purpose’ should require unlawful conduct” or 
+“improper means.” Id. at 24a. Instead, the court observed, 
+“the means used would seem to be relevant only to the 
+extent that they shed light on whether the purpose was im- 
+proper.” Ibid. The court reasoned that it he statute would 
+
+
+13 
+
+
+have little independent reach * * * if it could be violated 
+only through bribery or suborning perjury because such 
+conduct is to a large extent criminalized in other provisions 
+of the criminal code.” Jbid. The court likewise rejected 
+petitioner’s contention that the jury should have been in- 
+structed that “corruptly” requires knowledge of wrongdoing, 
+noting that it he general rule is that ignorance of the 
+law is no defense.” Id. at 29a. The court reasoned that, 
+when Congress wishes to avoid the general rule, it usually 
+does so by requiring that a defendant act willfully or with 
+specific intent to violate the law.” bid. 
+
+b. The court of appeals also held that the jury instruc- 
+tions correctly defined the phrase “official proceeding.” Pet. 
+App. 25a-28a. Like the district court, the court of appeals 
+rejected petitioner’s contention that an “official proceeding” 
+must be ongoing or scheduled at the time the document 
+destruction occurred. Id. at 26a. The court reasoned that 
+such a reading “defie([d]” the statutory provision that speci- 
+fies that an official proceeding need not be pending or about 
+to be instituted at the time of the offense. Ibid. (citing 18 
+U.S.C. 1512(e)(1) (2000)). The court also rejected petitioner’s 
+related contention that a defendant must hal ve] in mind a 
+particular proceeding that it sought to obstruct” at the time 
+the document destruction occurred. Id. at 26a-27a. The 
+court again observed that this requirement “ignores the 
+statutory language, which does not require a defendant to 
+know that the proceeding is pending or about to be 
+initiated.” Id. at 27a. To the extent that the failure to im- 
+pose such a requirement could criminalize the conduct of 
+innocent defendants, the court reasoned that It hat case is 
+not before us,” but added that it he answer * may lie 
+with the sound application of the elements of corrupt pur- 
+pose and intent.” Ibid. 
+
+
+14 
+SUMMARY OF ARGUMENT 
+
+
+Petitioner was validly convicted of corruptly persuading 
+its employees with the intent to cause them to withhold 
+documents from, or alter documents for, an official pro- 
+ceeding, in violation of 18 U.S.C. 1512(b)(2)(A) and (B). Peti- 
+tioner portrays its document-destruction campaign, in the 
+face of a looming SEC investigation, as wholly legitimate 
+conduct (Br. 20-24)—as if American corporations routinely 
+find it proper to instruct their employees to lay waste to vast 
+troves of documents when a government investigation is 
+viewed as highly probable. Nothing could be farther from 
+the truth. Petitioner war not charged with having a docu- 
+ment destruction policy as such. As the court of appeals 
+recognized, “(t}here is nothing improper about following a 
+document retention policy when there is no threat of an 
+official investigation.” Pet. App. 25a. But when, after realiz- 
+ing that a government investigation is bearing down on it, a 
+company seizes on a dormant or widely ignored document 
+policy and uses it as a pretext to destroy evidence of its own 
+or its client’s potential misconduct, it is altogether another 
+matter. No responsible entity would engage in such conduct; 
+petitioner’s own document policy prohibited it. Petitioner’s 
+elaborate claims notwithstanding, its conduct represents a 
+serious departure from well-established principles in the 
+criminal law, and its conviction under Section 1512(b) should 
+be affirmed. 
+
+I. The lower courts correctly defined the term “cor- 
+ruptly” in Section 1512(b) as “having an improper purpose” 
+“to subvert, undermine, or impede the fact-finding ability of 
+an official proceeding.” The lower courts’ definition is con- 
+sistent with the purpose-based definition long given to the 
+identical term in the general obstruction-of-justice statute, 
+18 U.S.C. 1503, on which Section 1512 was based; in other 
+obstruction-of-justice statutes; and in other federal criminal 
+statutes more generally. That definition does not render the 
+
+
+15 
+
+
+term “corruptly” superfluous. Nor does it criminalize con- 
+duct that is not inherently wrongful, because it has long been 
+understood that it is improper to destroy documents when 
+litigation is anticipated for the purpose of frustrating the 
+truthseeking process. 
+
+Petitioner’s novel alternative definitions of the term 
+“corruptly”—which would require either “proof of improper 
+means of persuasion or inducement to unlawful acts,” or 
+“proof of consciousness of wrongdoing”—should be rejected. 
+The former definition cannot be reconciled with the text of 
+the statute; would give the term “corruptly” a different 
+meaning in Section 1512(b) than in other obstruction-of- 
+justice statutes; and would criminalize little, if any, conduct 
+that is not already criminalized by other provisions. The 
+latter definition contravenes the established principle that 
+ignorance of the law is no defense, and no exception to that 
+principle is warranted here. 
+
+Neither the rule of lenity, the doctrine of constitutional 
+doubt, nor constitutional principles of fair warning justify 
+petitioner’s alternative definitions of “corruptly.” The rule 
+of lenity and the doctrine of constitutional doubt are both 
+inapplicable here, because the term “corruptly” is not am- 
+biguous. Petitioner identifies no serious constitutional 
+concerns arising from the lower courts’ construction of the 
+statute, and petitioner had fair warning that its conduct was 
+unlawful. 
+
+II. The district court correctly instructed the jury on the 
+definition of the phrase “official proceeding.” Petitioner first 
+contends that the district court should have instructed the 
+jury that the government was required to prove that 
+petitioner believed that an official proceeding was likely to 
+occur in the near future. Petitioner did not request such an 
+instruction, and the failure to give it was not plainly errone- 
+ous. Although petitioner did request an instruction that the 
+government was required to show that petitioner intended 
+to obstruct some particular proceeding, the statute cannot 
+
+
+16 
+
+
+be interpreted to require such a showing when no 
+proceeding had yet been instituted, and petitioner was not 
+prejudiced by the failure to provide any such instruction 
+because the evidence left no doubt that the SEC’s Enron 
+investigation was the “proceeding” at issue. 
+
+Finally, petitioner contends that the district court errone- 
+ously instructed the jury that an informal SEC proceeding 
+could constitute an “official proceeding.” Petitioner waived 
+that claim by failing to preserve it in the court of appeals. 
+Even assuming that petitioner properly preserved that 
+argument, petitioner’s contention lacks merit. The statute 
+authorizing the SEC to conduct investigations treats all 
+investigations as proceedings, and courts have consistently 
+considered agency investigations, even preliminary ones, to 
+be “proceedings” for purposes of a companion statute, 18 
+U.S.C. 1505. And because an intent to obstruct an informal 
+investigation necessarily implies an ultimate intent to 
+obstruct a formal investigation, any instructional error by 
+the district court was harmless. 
+
+
+ARGUMENT 
+
+
+PETITIONER WAS PROPERLY CONVICTED OF COR- 
+RUPTLY PERSUADING ITS EMPLOYEES WITH THE 
+INTENT TO CAUSE THEM TO WITHHOLD DOCU- 
+MENTS FROM, OR ALTER DOCUMENTS FOR, AN 
+OFFICIAL PROCEEDING, IN VIOLATION OF 18 
+U.S.C. 1512(b)(2)(A) AND (B) 
+
+
+I. THE DISTRICT COURT CORRECTLY INSTRUCTED 
+THE JURY ON THE DEFINITION OF THE TERM 
+“CORRUPTLY” 
+
+
+In 1988, Congress amended Section 1512(b) to impose 
+criminal sanctions on any person who “corruptly persuades” 
+another person not to testify in, or to withhold evidence from 
+or alter evidence for, a pending or future official proceeding. 
+The jury was instructed that the term “corruptly” requires a 
+defendant to act with “an improper purpose,” is, “an intent 
+
+
+17 
+
+
+to subvert, undermine, or impede the fact-finding ability of 
+an official proceeding.” That definition is consistent with the 
+purpose-based definition that federal criminal law has long 
+assigned to the term “corruptly.” Petitioner instead seeks 
+(Br. 20-42) to impose on the term “corruptly” a novel re- 
+quirement of proof either that the defendant “corrupt” the 
+person persuaded (either by using an improper means or by 
+inducing unlawful acts), or, alternatively, that the defendant 
+believed its conduct was “wrongful.” The courts below 
+correctly rejected that unprecedented requirement and 
+instead adhered to the traditional, purpose-based definition 
+of the term. 
+
+
+A. The Lower Courts Correctly Defined The Term 
+“Corruptly” As “Having An Improper Purpose” “To 
+Subvert, Undermine, Or Impede The Fact-Finding 
+Ability Of An Official Proceeding” 
+
+J. The term “corruptly” is similarly defined in 
+other obstruction-of-justice statutes 
+
+
+The lower courts’ definition of the term “corruptly” in 
+Section 1512(b) was drawn from, and is wholly consistent 
+with, the settled definition of that term in other obstruction- 
+of-justice statutes. 
+
+a. In 1831, Congress enacted the general obstruction-of- 
+justice statute that is now codified at 18 U.S.C. 1503. See 
+Act of Mar. 2, 1831, ch. 99, § 2, 4 Stat. 487. The so-called 
+
+
+omnibus“ clause of that statute, which has remained largely 
+
+
+unchanged, imposes criminal sanctions on any person who 
+“corruptly * * * influences, obstructs, or impedes, or 
+endeavors to influence, obstruct, or impede, the due admini- 
+stration of justice.” Lower courts construing that clause 
+have consistently held that the term “corruptly” supplies a 
+state-of-mind requirement. Although they have not used 
+identical formulations in articulating that requirement, they 
+have uniformly held that the term “corruptly” requires a 
+defendant to act with an improper purpose: namely, an 
+
+
+18 
+
+
+intent to obstruct justice. See, e.g., United States v. Machi, 
+811 F.2d 991, 996 (7th Cir. 1987) (upholding instruction that 
+“corruptly means to act with the purpose of obstructing 
+justice”); United States v. Jeter, 775 F.2d 670, 679 (6th Cir. 
+1985) (holding that, in order to violate the statute, “one must 
+impede the due administration of justice with the general 
+intent of knowledge as well as the specific intent of purpose 
+to obstruct”), cert. denied, 475 U.S. 1142 (1986); United 
+States v. Rasheed, 663 F.2d 843, 852 (9th Cir. 1981) (holding 
+that “the word ‘corruptly’ as used in the statute means that 
+the act must be done with the purpose of obstructing 
+justice”), cert. denied, 454 U.S. 1157 (1982); United States v. 
+Ogle, 613 F.2d 233, 238-239 (10th Cir. 1979) (approving 
+instruction defining “corruptly” as “an endeavor to influence 
+a juror in the performance of his or her duty, or to influence, 
+obstruct or impede the due administration of justice”), cert. 
+denied, 449 U.S. 825 (1980).° Drawing on those cases, model 
+jury instructions for Section 1503 define the term “cor- 
+ruptly” similarly. See, e.g., 2A Kevin F. O'Malley et al., 
+Federal Jury Practice and Instructions: Criminal § 48.04, at 
+456 (5th ed. 2000) (defining “corruptly” as “voluntarily and 
+deliberately and for the purpose of improperly influencing, 
+or obstructing, or interfering with the administration of 
+justice”); 2 Leonard B. Sand et al., Modern Federal Jury 
+Instructions: Criminal 4 46.01, at 46-6 (2004) (defining “cor- 
+ruptly” as “simply having the improper motive or purpose of 
+obstructing justice“). 
+
+
+6 Some courts have held, in prosecutions under Section 1503, that an 
+intent to obstruct justice can be inferred if the natural and probable 
+consequence of a defendant’s actions will be to obstruct a judicial pro- 
+ceeding. See, e.g., United States v. Schwarz, 283 F.3d 76, 109 (2d Cir. 
+2002); United States v. Fleming, 215 F.3d 930, 938 (9th Cir. 2000); United 
+States v. Brooks, 111 F.3d 365, 372 (4th Cir. 1997). 
+
+7 Petitioner suggests (Br. 22) that “courts have not ‘uniformly’ 
+instructed juries in § 1503 cases that ‘corrupt’ means an ‘improper purpose 
+to impede fact finding“ The authorities it cites in support, however, 
+stand only for the (unsurprising) proposition that courts have used slightly 
+
+
+19 
+
+
+b. The history of Section 1512 demonstrates that the 
+term “corruptly” in that section should be defined, as in 
+Section 1503, to require an intent to obstruct justice. In 
+addition to its “omnibus” clause, Section 1503 previously 
+contained a separate witness-tampering clause, imposing 
+criminal penalties on any person who “corruptly [or 
+coercively] endeavors to influence, intimidate, or impede any 
+witness” in a federal judicial proceeding. In 1982, Congress 
+deleted that clause and recodified it in new Section 1512, but 
+without the current “corruptly persuades” element. See 
+Victim and Witness Protection Act of 1982 (VWPA), Pub. L. 
+No. 97-291, § 4(a), 96 Stat. 1248. Thus, as originally enacted 
+in 1982, Section 1512 covered only coercive (or deceptive) 
+conduct. It did not prohibit non-coercive, non-deceptive wit- 
+ness tampering—conduct that was previously covered under 
+Section 1503’s witness-tampering clause. See, e. g., United 
+States v. Jackson, 607 F.2d 1219, 1223 (8th Cir. 1979), cert. 
+denied, 444 U.S. 1080 (1980); United States v. Howard, 569 
+F.2d 1331, 1334 (5th Cir.), cert. denied, 489 U.S. 834 
+
+
+different formulations in elaborating on the “improper purpose” that is 
+required. Petitioner relies on the jury instruction given by the district 
+court in United States v. Aguilar, 515 U.S. 593 (1995), and quoted by 
+Justice Scalia in his separate opinion. See id. at 616-617 (opinion con- 
+curring in part and dissenting in part). The Court, however, did not pass 
+on the validity of that instruction, which used a formulation of the defini- 
+tion of “corruptly” (apparently taken from a since-superseded model jury 
+instruction, see Ninth Circuit Manual of Model Jury Instructions (Crimi- 
+nal) § 8.108 (2003)) that is consistent—unlike petitioner’s approach—with 
+the purpose-based approach used in this case, see pp. 24-26, infra. Peti- 
+tioner also relies on the D.C. Circuit’s statement that “[cJourts construing 
+§ 1503 have adopted a wide variety of interpretations.” United States v. 
+Poindexter, 951 F.2d 369, 385 (1991), cert. denied, 506 U.S. 1021 (1992). 
+The case cited by the D.C. Circuit for that proposition, however, cites only 
+a single (Section 1505) case that also used a purpose-based definition of 
+“corruptly.” See United States v. North, 910 F.2d 843, 941 n.14 (D.C. Cir.) 
+(Silberman, J., concurring in part and dissenting in part) (citing United 
+States v. Mitchell, 877 F.2d 294 (4th Cir. 1989)), modified on reh’g, 920 
+F. 2d 940 (D.C. Cir. 1990), cert. denied, 500 U.S. 941 (1991). 
+
+
+20 
+
+
+(1978). Congress’s omission gave rise to a circuit split: 
+although most courts to address the issue held that non- 
+coercive, non-deceptive witness tampering could continue to 
+be prosecuted under the “omnibus” clause of Section 1503, 
+see United States v. Tackett, 113 F.3d 603, 607 (6th Cir. 1997) 
+(listing cases), cert. denied, 522 U.S. 1089 (1998), the Second 
+Circuit concluded that Congress intended Section 1512 to 
+serve as the exclusive means for prosecuting witness 
+tampering of any kind, see United States v. Hernandez, 730 
+F.2d 895, 898-899 (2d Cir. 1984). 
+
+In response, Congress amended Section 1512 in 1988 to 
+add “corruptly persuades” to the list of prohibited conduct. 
+See Anti-Drug Abuse Act of 1988, Pub. L. No. 100-690, 
+§ 7029(a) and (e), 102 Stat. 4397, 4398. Where, as here, Con- 
+gress uses a term that is also found in a closely related 
+statute, and where the term had long been given a consistent 
+meaning in that statute, Congress is presumed to have 
+-ntended to give the term the same meaning in the new 
+statute, absent affirmative indication to the contrary. See, 
+e.g., Salinas v. United States, 522 U.S. 52, 63 (1997); Morris- 
+sette v. United States, 342 U.S. 246, 263 (1952); Standard Oil 
+Co. v. United States, 221 U.S. 1, 59 (1911). The legislative 
+history confirms the applicability of that presumption: a 
+section-by-section analysis of the legislation clarifies that 
+Congress added the “corruptly persuades” language to Sec- 
+tion 1512 “merely to include in section 1512 the same protec- 
+tion of witnesses from non-coercive influence that was (and 
+is) found in section 1503.“ 134 Cong. Rec. 32,701 (1988) 
+(statement of Sen. Biden). Because the term “corruntly” in 
+Section 1503 had long been defined to require an intent to 
+obstruct justice, “[iJt is reasonable to attribute to the ‘cor- 
+ruptly persuade’ language in Section 1512(b), the same well- 
+established meaning.” United States v. Shotts, 145 F.3d 
+1289, 1301 (11th Cir. 1998), cert. denied, 525 U.S. 1177 (1999). 
+
+c. The term “corruptly” appears in several other pro- 
+visions in the obstruction-of-justice chapter of Title 18 of the 
+
+
+21 
+
+
+United States Code. See 18 U.S.C. 1505; 18 U.S.C. 1512(c) 
+(Supp. II 2002); 18 U.S.C. 1517. Most notably, Section 1505, 
+enacted in 1940, imposes criminal sanctions on any person 
+who “corruptly * * * influences, obstructs, or impedes or 
+endeavors to influence, obstruct or impede” (1) “the due and _ 
+proper administration of law” in administrative proceedings, 
+or (2) “the due and proper exercise of the power of inquiry” 
+in congressional proceedings. At the time Congress enacted 
+(and modified) Section 1512, courts had construed “cor- 
+ruptly” in Section 1505 to have the same meaning as “cor- 
+ruptly” in the statute on which it was modeled, Section 1503. 
+See, e.g., United States v. Laurins, 857 F.2d 529, 536-537 (9th 
+Cir. 1988) (“The specific intent required for obstruction of 
+justice under sections 1503 and 1505 is that the defendant 
+must have acted ‘corruptly,’ i.e., that the act must be done 
+with the purpose of obstructing justice.”), cert. denied, 492 
+U.S. 906 (1989); United States v. Abrams, 427 F.2d 86, 90 (2d 
+Cir.) (upholding instruction that “corruptly” means “with 
+improper motive, a bad and evil purpose”), cert. denied, 400 
+U.S. 832 (1970). When the D.C. Circuit later held that the 
+term “corruptly” rendered Section 1505 unconstitutionally 
+vague on an as-applied basis, United States v. Poindexter, 
+951 F.2d 369, 379, 385 (1991), cert. denied, 506 U.S. 1021 
+(1992), Congress amended the statute to define “corruptly” 
+as “acting with an improper purpose, personally or by 
+influencing another,” 18 U.S.C. 1515(b).* Just as Congress is 
+presumed to have intended to give the term “corruptly” the 
+same meaning in Section 1512(b) as it had in Section 1508, so 
+
+
+8 It is insignificant that Congress defined “corruptly” only for 
+purposes of Section 1505, and not for purposes of other provisions (such as 
+Section 1503 or Section 1512(b)) that use the same term. See 141 Cong. 
+Rec. 14,956 (1995) (statement of Sen. Levin) (noting that “(i he definition 
+applies only to section 1505 because the Poindexter decision interprets 
+only that section”). Congress enacted the definitional provision in Section 
+1515(b) for the limited purpose of overruling Poindezter’s “nonsensical” 
+interpretation. See 142 Cong. Rec. 25,468 (1996) (statement of Sen. 
+
+
+Bryan). 
+
+
+22 
+
+
+too is Congress presumed to have intended to give the term 
+the same meaning as it had in Section 1505. 
+
+2. Petitioner’s criticisms of the lower courts’ definition 
+
+are unfounded 
+
+Petitioner offers four primary criticisms of the lower 
+courts’ definition of “corruptly.” Those criticisms lack merit. 
+
+a. Petitioner contends (Br. 30) that it would be “posi- 
+tively nonsensical” to construe the term “corruptly” in 
+Section 1512(b) to make it illegal in some circumstances to 
+persuade another person to destroy documents when it 
+would not be illegal for that person to destroy the documents 
+himself. To the extent that there was any inconsistency in 
+the statutory treatment of obstructive conduct, however, it 
+was deliberately created by Congress. Sections 1503 and 
+1505, which prohibit obstructive actions such as the 
+destruction of documents, have long been construed to 
+require (1) an ongoing proceeding at the time of the obstruc- 
+tive action, and (2) knowledge of that ongoing proceeding by 
+the obstructing party. See Pettibone v. United States, 148 
+U.S. 197, 207 (1893). But when Congress initially enacted 
+Section 1512, it made clear that an individual could be 
+criminally liable for coercing or deceiving another individual 
+into destroying documents (and, later, for corruptly persuad- 
+ing another individual to destroy documents) even if no 
+official proceeding was pending or about to be instituted. 
+See 18 U.S.C. 1512(e)(1) (now codified at 18 U.S.C. 1512(f)(1) 
+(Supp. II 2002)). Contrary to petitioner’s suggestion (Br. 
+31), therefore, Congress expressly chose not to apply the 
+“Pettibone rule” to cases involving witness tampering, even 
+though it applies under Sections 1503 and 1505 to an indivi- 
+dual’s own conduct.” 
+
+
+% The legislative history confirms that this provision was included to 
+“obviate| | the requirement that there be an official proceeding in progress 
+or pending” and thereby “increase| | the scope of this section by expanding 
+
+
+23 
+
+
+To the extent that any gap in statutory coverage existed, 
+Congress has since eliminated it. As part of the Corporate 
+and Criminal Fraud Accountability Act of 2002 (Sarbanes- 
+Oxley Act), Pub. L. No. 107-204, 116 Stat. 800, Congress 
+enacted new Section 1512(c), which prohibits individuals 
+from “corruptly” engaging in obstructive actions (such as the 
+destruction of documents) even if no official proceeding is 
+pending or about to be instituted. See 18 U.S.C. 1512(c) 
+(Supp. II 2002). Congress also enacted other provisions per- 
+taining specifically to document retention and destruction. 
+See 18 U.S.C. 1519 (Supp. II 2002) (prohibiting individuals 
+from knowingly destroying or altering documents “with the 
+intent to impede, obstruct, or influence” any official pro- 
+ceeding or “in relation to or contemplation of” any such pro- 
+ceeding); 18 U.S.C. 1520 (Supp. II 2002) (imposing criminal 
+sanctions on accountants for failing to maintain “all audit or 
+review workpapers“ for five years and requiring the SEC to 
+promulgate further requirements for the “retention of 
+relevant records”). 
+
+Petitioner asserts (Br. 30) that it would be erroneous to 
+take those provisions into account because doing so would 
+“commit{] the classic error of relying on subsequent leg- 
+islative history to interpret the product of an earlier 
+Congress.” But the government’s interpretation does not do 
+so. Rather, it is petitioner that relies on the legislative his- 
+tory of the Sarbanes-Oxley Act in contending that Congress 
+“recognized” that Section 1512(b) did not cover its conduct. 
+See Pet. Br. 19 & n.22 (citing S. Rep. No. 146, 107th Cong., 
+2d Sess. 7 (2002)). The cited legislative history, however, 
+does not indicate that members of a later Congress believed 
+that petitioner’s conduct was not covered by Section 1512(b): 
+at most, it suggests that they believed only that, to the 
+extent that there was any anomaly in the respective scope of 
+
+
+the galaxy of witnesses and victims the protections of its language is /sic/ 
+meant to embrace.” S. Rep. No. 532, 97th Cong., 2d Sess. 19 (1982). 
+
+
+24 
+
+
+Sections 1505 and 1512, it was Section 1505 that was too 
+narrow, not Section 1512 that was too broad. See S. Rep. 
+No. 146, supra, at 7 (noting that it was unclear whether 
+criminal liability would attach “in a [similar] case with a 
+single person doing the shredding”). A later Congress’s 
+concerns about the underinclusiveness of the criminal law as 
+to single-actor obstructive conduct do not shed any light on 
+the reach of the earlier-enacted “corruptly persuades” 
+prohibition. 
+
+b. Petitioner next claims (Br. 27-28) that the lower 
+courts’ definition of “corruptly” renders that term super- 
+fluous in view of the statutory requirement that a defendant 
+have acted with the “intent” to cause another person to 
+“withhold” documents from, or “alter” documents “to impair 
+[their] availability for use in,” an official proceeding. See 18 
+U.S.C. 1512(b)(2)(A) and (B). Petitioner errs in suggesting 
+(Br. 28) that At here is simply no space” between the intent 
+to “deprive” an agency of documents and the intent to 
+“subvert, undermine, or impede” the agency’s fact-finding. 
+An individual could act intentionally to have documents 
+withheld from an official proceeding out of any number of 
+motives besides a desire to obstruct the proceeding: for 
+example, a person could persuade another person to delete e- 
+mails to prevent them from being disclosed simply because 
+they contained embarrassing material. As the Fifth Circuit 
+noted, the former intent “implies a degree of personal culp- 
+ability beyond a mere intent to make documents unavail- 
+able.” Pet. App. 22a. 
+
+c. Nor is the lower courts’ definition of the term 
+“corruptly” irreconcilable with definitions of that term in 
+other statutory contexts, as petitioner contends (Br. 22-23, 
+25-26). Each of the precise formulations of the definition of 
+“corruptly” on which petitioner relies adopts a purpose- 
+based approach that focuses on the defendant’s improper 
+motive. Petitioner first notes (Br. 26 & nn.28-29) that some 
+courts— mainly in the bribery context—have defined “cor- 
+
+
+25 
+
+
+ruptly” as “with the intent to give some advantage incon- 
+sistent with official duty and the rights of others.” Stichting 
+Ter Behartiging Van De Belangen Van Oudaandeelhouders 
+In Het Kapitaal Van Saybolt International B.V. v. Schrei- 
+ber, 327 F.3d 173, 181-183 (2d Cir. 2003) (construing “cor- 
+ruptly” in 15 U.S.C. 78dd-2); United States v. Rooney, 37 
+F.3d 847, 852-853 (2d Cir. 1994) (construing “corruptly” in 18 
+U.S.C. 666(a)); United States v. Reeves, 752 F.2d 995, 1000 
+(5th Cir.) (construing “corruptly” in 26 U.S.C. 7212(a)), cert. 
+denied, 474 U.S. 834 (1985); see also United States v. 
+Aguilar, 515 U.S. 593, 616 (1995) (Scalia, J., concurring in 
+part and dissenting in part) (quoting definition of “cor- 
+ruptly”). Unlike petitioner’s proposed definition, however, 
+that formulation turns entirely on the defendant’s intent. 
+And that formulation is readily reconcilable with the lower 
+courts’ definition, because an individual who acts with an 
+intent to obstruct an official proceeding necessarily seeks 
+some advantage inconsistent with official duty and the rights 
+of others. See, e.g., Reeves, 752 F.2d at 1002. 
+
+Petitioner also notes (Br. 26 n.28) that some courts have 
+defined “corruptly” as “with the bad purpose of accom- 
+plishing either an unlawful end or result, or a lawful end or 
+result by some unlawful method or means.” E. g., United 
+States v. Strand, 574 F.2d 993, 996 (9th Cir. 1978). That 
+formulation is primarily used in cases arising under federal 
+bribery statutes, such as 18 U.S.C. 201.“ Once again, that 
+formulation critically differs from petitioner’s definition, be- 
+
+
+10 That formulation also appears, without elaboration, in the legislative 
+history of two statutes, 18 U.S.C. 1082 and 18 U.S.C. 1517, enacted after 
+Congress added the “corruptly persuades” prohibition to Section 1512(b). 
+See H.R. Rep. No. 681, 101st Cong., 2d Sess. Pt. 1, at 173 n.3, 174 u.5 
+(1990). That legislative history quotes from a model jury instruction 
+defining “corruptly” for purposes of the bribery statute, which adds that 
+“a person acts ‘corruptly’ whenever he makes a willful attempt to 
+persuade or influence the official action of a public official, by an offer of 
+money or anything of value.” 2 Edward J. Devitt & Charles B. Blackmar, 
+Federal Jury Practice and Instructions § 34.08, at 110 (gd ed. 1977). 
+
+
+26 
+
+
+cause petitioner did not argue in the district court, and does 
+not argue in this Court, that “corruptly” should be defined to 
+require proof of an intent to use improper means or 
+accomplish an unlawful act, but instead only that it should be 
+defined to require proof of an improper means or an unlawful 
+act simpliciter. See, e.g., Br. 28 (contending that “inter- 
+preting ‘corruptly’ as just another ‘purpose’ requirement 
+makes little sense”). In any event, that formulation is also 
+consistent with the purpose-based approach given here. The 
+term “unlawful” in that formulation does not mean “other- 
+wise illegal”: clearly, a defendant need not violate some other 
+law, or intend for some other law to be violated, in order to 
+bribe a government official. Instead, “unlawful” simply 
+means “in violation of official duty.” United States v. Bonito, 
+57 F.3d 167, 171 (2d Cir. 1995), cert. denied, 516 U.S. 1049 
+(1996). As so construed, that formulation is substantially 
+similar to the definition used below, and to the other 
+formulation on which petitioner relies. 
+
+d. Petitioner contends (Br. 21-22, 23-24) that the lower 
+courts’ definition of “corruptly” would criminalize “a wide 
+variety of common conduct” that is not inherently wrongful. 
+As an initial matter, petitioner cannot seriously contend that 
+its own conduct—namely, the destruction of thousands of 
+documents at a time when it believed that an SEC in- 
+vestigation was either likely or ongoing—falls into that 
+category. Indeed, petitioner itself conceded before Congress 
+that David Duncan’s conduct was “simply unacceptable,” 
+noting that there was “every appearance of destroying these 
+materials in anticipation of a government request for 
+documents.” GX 2002K. 
+
+Petitioner thus more broadly suggests (Br. 21-22) that the 
+lower courts’ definition of “corruptly” would criminalize 
+some behavior that is sanctioned by so-called document “re- 
+tention” policies adopted by many corporate entities, includ- 
+ing petitioner. Even before the enactment of the recent 
+Sarbanes-Oxley Act, however, many of those policies, includ- 
+
+
+27 
+
+
+ing petitioner’s, contained provisions expressly prohibiting 
+the destruction of documents when litigation or investi- 
+gations were deemed to be likely. See, e.g., J. A. 29-30, 44, 65. 
+Moreover, to the extent that document policies did not them- 
+selves contain express restrictions, it was the prevailing 
+view at the time of petitioner’s conduct that document 
+destruction was improper, even if otherwise permitted by a 
+document policy, under such circumstances." 
+
+In a similar vein, petitioner suggests (Br. 23-24) that, even 
+if conduct undertaken with an intent to impede judicial 
+proceedings is inherently wrongful, conduct undertaken with 
+an intent to impede congressional or agency proceedings is 
+not. By its terms, however, Section 1512(b) draws no dis- 
+tinction between judicial proceedings and congressional or 
+agency proceedings, but instead prohibits obstructive con- 
+duct directed toward all types of “official proceedings.” The 
+D.C. Circuit opinions on which petitioner relies involved not 
+Section 1512(b) but Section 1505, which more broadly prohib- 
+its any endeavor to impede, obstruct, or so much as “influ- 
+ence” a congressional or agency proceeding (and is not con- 
+strained by any other intent requirement). See United 
+States v. Poindexter, 951 F.2d 369 (D.C. Cir. 1991), cert. 
+
+
+II See, e.g., W. Russell Welsh & Andrew C. Marquardt, Spoliation of 
+Evidence, 23 WTR Brief 9, 36-37 (1994) (“[A] corporation cannot blindly 
+destroy documents and expect to be shielded by a seemingly innocuous 
+document retention policy.”); Bruce G. Vanyo & Terry T. Johnson, The 
+Pretrial Phase: A Practical Guide for the Non-Litigator, 584 PLI/Corp 
+247, 286 (1987) (“Obviously, a document retention policy cannot serve as a 
+vehicle for destroying documents that a party anticipates would be 
+relevant in prospective litigation.”); cf. Lewy v. Remington Arms Co., 836 
+F.2d 1104, 1112 (8th Cir. 1988) (noting that company’s destruction of 
+documents pursuant to document policy could still give rise to adverse 
+inference if party “knew or should have known that [the documents] would 
+become material at some point in the future”); Michael R. Overly & 
+Chanley T. Howell, Document Retention in the Electronic Workplace 48 
+(2001) (citing Lewy for proposition that Ja] record retention and 
+destruction policy alone will not necessarily shield a corporation from 
+sanctions”). 
+
+
+28 
+
+
+denied, 506 U.S. 1021 (1992); United States v. North, 910 
+F.2d 843 (D.C. Cir.), modified on reh’g, 920 F.2d 940 (D.C. 
+Cir. 1990), cert. denied, 500 U.S. 941 (1991). And to the ex- 
+tent that those opinions drew a distinction concerning the 
+comparative wrongfulness of obstruction of judicial proceed- 
+ings and of congressional or agency proceedings, Congress 
+effectively overrode that judgment by amending the 
+obstruction-of-justice statutes to clarify that Section 1505 
+has the same scope as Section 1503. See pp. 20-22, supra. 
+Finally, petitioner lists a number of hypothetical cases 
+(Br. 24) in which, it contends, the lower courts’ definition of 
+“corruptly” would criminalize seemingly innocent conduct. 
+All of those hypotheticals, however, are distinguishable. In 
+some of those hypotheticals (e.g., when a person advises a 
+family member to assert his Fifth Amendment privilege), 
+the would-be defendant does not act with the requisite 
+“intent to subvert, undermine, or impede the fact-finding 
+ability of an official proceeding” at all, but instead acts with a 
+different intent (e.g., an intent to protect another person 
+from self-incrimination). In other hypotheticals (e.g., when a 
+person instructs another person in good faith to assert a 
+legal privilege in response to a subpoena), liability would not 
+attach under Section 1512(b) even if the defendant acted 
+with the requisite intent, because he did not “withhold” any 
+information to which the requesting party was legally 
+entitled. In still other hypotheticals (e.g., when a person 
+advises another person not to provide documents in response 
+to a voluntary request), even if the defendant could be said 
+to be “withholding” information at all, he may be able to 
+argue that the government cannot prove that his action had 
+the “natural and probable effect” of obstructing an official 
+proceeding, since any withheld information could subse- 
+quently be sought by subpoena. See Aguilar, 515 U.S. 
+at 599-600 (applying “nexus” requirement under Section 
+1503); see generally p. 44 n.24, infra (discussing whether the 
+Aguilar “nexus” requirement applies under Section 1512(b)). 
+
+
+29 
+
+
+Finally, in the remainder of petitioner’s hypotheticals (e. g., 
+when a lawyer advises his client in good faith not to volun- 
+teer information), the defendant could assert immunity from 
+liability under Section 1515(c), which expressly provides that 
+At his chapter does not prohibit or punish the providing of 
+lawful, bona fide, legal representation services in connection 
+with or anticipation of an official proceeding.” 18 U.S.C. 
+1515(c) (emphasis added). Because the lower courts’ defini- 
+tion of “corruptly” does not criminalize conduct that is not 
+inherently wrongful, and because that definition is consistent 
+with the text and history of Section 1512(b), petitioner's 
+challenges to that definition lack merit. 
+
+B. Petitioner’s Novel Definition Of The Term “Corruptly” 
+
+Should Be Rejected 
+
+Instead of the lower courts’ definition, petitioner proposes 
+(Br. 25-37) that the term “corruptly” in Section 1512(b) be 
+defined to require “proof of improper means of persuasion or 
+inducement to unlawful acts” or, in the alternative, 
+“consciousness of wrongdoing.” No court has ever adopted 
+either of those definitions of “corruptly” in construing any 
+federal statute, and each of those definitions is deeply 
+flawed. 
+
+
+1. The term “corruptly” does not require “proof of 
+improper means of persuasion” or “inducement to 
+
+
+unlawful acts” 
+
+
+2 Petitioner contends (Br. 27) that Section 1515(c) “is a guide to 
+interpretation, not an affirmative defense.” As amicus National Associa- 
+tion of Criminal Defense Lawyers correctly notes (Br. 20-21), however, 
+lower courts have consistently concluded that Section 1515(c) provides an 
+affirmative defense. See United States v. Kloess, 251 F.3d 941, 948 (11th 
+Cir. 2001); United States v. Kellington, 217 F.3d 1084, 1098 (9th Cir. 2000); 
+United States v. Davis, 183 F.3d 231, 248 (3d Cir.), amended on reh’g, 197 
+F.3d 662 (3d Cir. 1999). To the extent that petitioner’s conviction rested 
+on the conduct of an in-house lawyer, see pp. 1-10, supra, petitioner is not 
+entitled to obtain any relief on that basis (contrary to petitioner’s sugges- 
+tion, see Br. 50 n.44), because it failed to seek a jury instruction con- 
+cerning, or otherwise invoke, Section 1515(c) during the trial. 
+
+
+30 
+
+
+a. Petitioner first contends (Br. 25-34) that a person acts 
+“corruptly” for purposes of Section 1512(b) if he uses an 
+improper means or induces another person to commit an 
+unlawful act. That requirement cannot be reconciled with 
+the text of the statute. Petitioner asserts (Br. 25) that such 
+a requirement is consistent with a “transitive reading” of the 
+adverb “corruptly.” Adverbs, however, do not have “transi- 
+tive” meanings: that term, in its grammatical sense, refers 
+not to adverbs, but to verbs. See, e.g., 18 Oxford English 
+Dictionary 407 (2d ed. 1989) (defining “transitive” as olf 
+verbs and their construction: le pressing an action which 
+passes over to an object; taking a direct object to complete 
+the sense”). If Congress had intended to convey the mean- 
+ing that petitioner suggests, it likely would have imposed 
+criminal sanctions on a person who “corrupts another person 
+by means of persuasion”—not on a person who merely “cor- 
+ruptly persuades another person.” Petitioner all but invites 
+the Court to rewrite the statute in that manner. See, e.g., 
+Br. 25 (suggesting that “corruptly persuades” means “cor- 
+rupting” a witness); Br. 25 n.27 (relying on dictionary defini- 
+tions of the verb “corrupt”); Br. 34 (stating that “Congress 
+simply intended to protect witnesses from attempts to 
+‘corrupt’ them as well as from attempts to coerce or intimi- 
+date them“). 
+
+Petitioner’s “improper means or unlawful act” definition 
+suffers from two other major flaws. First, as petitioner ap- 
+pears to concede (Br. 21), its definition would require the 
+term “corruptly” to be given one meaning in Section 1512(b) 
+and another in Sections 1503 and 1505. Because there is 
+typically no separate “act” that is induced by the defendant 
+in cases arising under Sections 1503 and 1505, the “unlawful 
+
+
+16 In a similar vein, petitioner contends (Br. 18) that “corruptly 
+persuades’ appears in § 1512 in a list of unlawful means.” That is 
+incorrect. “Corruptly persuades” is one in a list of criminalized actions, 
+and the action that is criminalized is “corruptly persuading,” not 
+“corrupting by means of persuasion.” 
+
+
+eg DORAL ULL LE POOIDE 
+
+
+31 
+
+
+act” component o. petitioner’s definition would ordinarily be 
+inapplicable. And courts have rejected the argument that 
+Sections 1503 and 1505 reach only a defendant’s use of an 
+“improper means.” See, e.g., United States v. Brady, 168 
+F.3d 574, 578-579 (Ist Cir. 1999) (Section 1503); United 
+States v. Mitchell, 877 F.2d 294, 299 (4th Cir. 1989) (Section 
+1505); Ogle, 613 F.3d at 239 (Section 1503). Petitioner’s 
+definition would therefore contravene the well-established 
+canon of construction that identical words in closely related 
+statutes are intended to have the same meaning, especially 
+where one statute is enacted against the backdrop of the 
+others. See pp. 19-20, swpra. 
+
+Second, under petitioner’s definition, the “corruptly per- 
+suades” prong of Section 1512(b) would criminalize little, if 
+any, conduct that is not already criminalized by other pro- 
+visions. Petitioner appears to equate an “improper” means 
+of persuasion with an unlawful means of persuasion. See, 
+e.g., Br. 25, 26, 28. To the extent that the means used is 
+unlawful, however, the “improper means” component would 
+by definition reach only conduct that could be prosecuted on 
+other grounds. The only examples petitioner provides, brib- 
+ing or blackmailing a witness and urging perjury, all fall into 
+that category. See 18 U.S.C. 201(b)(3) (bribery of wit- 
+nesses); 18 U.S.C. 873 (blackmail); 18 U.S.C. 1622 (suborna- 
+tion of perjury). And the same could be said with regard to 
+the “unlawful act” component of petitioner’s definition, be- 
+cause the federal aiding-and-abetting statute already im- 
+poses criminal sanctions on anyone who “willfully causes an 
+act to be done which if directly performed by him or another 
+would be an offense against the United States.” 18 U.S.C. 
+2(b). 
+
+
+To the extent that the “unlawful act” component of petitioner’s 
+definition limits the scope of the “corruptly persuades” prohibition in Sec- 
+tion 1512(b) mainly to cases in which the persuaded individual’s conduct is 
+itself unlawful under Section 1503 or Section 1505, that component is also 
+in tension with Congress’s explicit provision that an individual could be 
+
+
+32 
+
+b. Petitioner offers several defenses of its “improper 
+means or unlawful act” definition, all of which are unavailing. 
+
+Petitioner suggests (Br. 27) that an “improper means or 
+unlawful act” requirement is mandated by the canon of ejus- 
+dem generis (or, more appropriately, the canon of noscitur a 
+sociis). Because every other action criminalized by Section 
+1512(b) (“uses intimidation,” “threatens,” and “engages in 
+misleading conduct”) involves wrongful conduct, the argu- 
+ment goes, “corruptly persuades” must be construed to in- 
+volve wrongful conduct as well. At the outset, it is question- 
+able whether all of those other actions are themselves inher- 
+ently wrongful. See S. Rep. No. 532, 97th Cong., 2d Sess. 15 
+(1982) (noting that “innocent acts” can sometimes constitute 
+intimidation). Even if they are, however, it does not follow 
+that the term “corruptly” incorporates an “improper means 
+or unlawful act” requirement. Persuading another person 
+not to testify, or to withhold or alter ducuments, with “an 
+intent to subvert, undermine, or impede the fact-finding 
+ability of an official proceeding,” is itself “wrongful” conduct. 
+See pp. 26-29, supra; ef. Aguilar, 515 U.S. at 617 (Scalia, J., 
+concurring in part and dissenting in part) (noting that “[ajcts 
+specifically intended to ‘influence, obstruct, or impede, the 
+due administration of justice’ are obviously wrongful, just as 
+they are necessarily ‘corrupt’”). And to the extent that the 
+“improper means” component of petitioner’s definition 
+reaches only conduct that is otherwise prohibited, peti- 
+tioner’s construction would affirmatively violate the canon of 
+noscitur a sociis, because none of the other actions crimi- 
+nalized by the current version of Section 1512(b)—intimidat- 
+ing, threatening, or misleading another individual—is 
+necessarily unlawful. 
+
+
+criminally liable under Section 1512 even if no official proceeding is 
+pending (as is required for criminat liability to attach under Section 1503 
+or Section 1505). See 18 U.S.C. 1512(e)(1) (2000); see generally pp. 22-24, 
+supra (discussing old Section 1512(e)(1)). 
+
+
+33 
+
+
+Petitioner similarly errs in arguing (Br. 28-29) that its 
+definition of “corruptly” is supported by Section 1515(a)(6), 
+which provides that “the term ‘corruptly persuades’ does not 
+include conduct which would be misleading conduct but for a 
+lack of state of mind.” Although petitioner contends (Br. 29) 
+that Section 1515(a)(6) “must provide a defense for some 
+defendants whose persuasion would otherwise be corrupt,” 
+petitioner in the same breath concedes (Br. 28) that, under 
+its definition of “corruptly,” Section 1515(a)(6) would merely 
+“clarifly]” that certain conduct already excluded from the 
+scope of Section 1515(b) would remain excluded. Specifi- 
+cally, Section 1515(a)(6) would never be triggered because 
+the defendant would never “lack” the state of mind required 
+under the definition of “misleading conduct” in Section 
+1515(a)(3). Although Section 1515(a)(6) would have only 
+limited application under the lower courts’ definition of “cor- 
+ruptly,” petitioner’s definition would read Section 1515(a)(6) 
+out of the statute altogether.” 
+
+Petitioner’s reliance (Br. 29) on 18 U.S.C. 1512(c) (2000) 
+(now codified at 18 U.S.C. 1512(d) (Supp. II 2002)) is equally 
+misplaced. That provision imposes criminal penalties on any 
+person who “intentionally harasses another person and 
+thereby hinders, delays, prevents, or dissuades any person” 
+from, inter alia, testifying in an official proceeding. Peti- 
+tioner contends (Br. 29) that it would be “surprising” if 
+Congress imposed lesser penalties on a defendant for 
+dissuading another person from testifying by means of 
+intentional harassment under old Section 1512(c) (viz., up to 
+one year of imprisonment) than for “politely persuading” 
+another person not to testify under Section 1512(b) (up to 
+
+
+15 In addition, under petitioner’s definition, Section 1515(c) would have 
+little, if any, independent effect—as petitioner implicitly concedes (Br. 27). 
+When a defendant uses an unlawful means, Section 1515(c) would never 
+apply, since it provides a defense only in cases involving the provision of 
+“lawful, bona fide, legal representation services.” 18 U.S.C. 1515(c) 
+(emphasis added). 
+
+
+34 
+
+
+ten years). Section 1512(b), however, differs critically from 
+old Section 1512(c) because it requires not merely that the 
+defendant act intentionally in the sense of volitionally and 
+knowingly, but also that the defendant (1) act with the 
+specific intent of causing or inducing another person to 
+withhold testimony or withhold or alter documents, and (2) 
+act “corruptly,” i.e., with the intent of subverting, under- 
+mining, or impeding the fact-finding ability of an official 
+proceeding. The presence of that greater degree of mens rea 
+amply justifies the imposition of greater sanctions. 
+
+Citing the legislative history, petitioner asserts (Br. 32- 
+33) that the purpose of the original Section 1512 was to 
+protect witnesses. See, e.g., S. Rep. No. 532, supra, at 15. 
+That assertion is true, but it is incomplete: as the language of 
+the statute makes clear, the purpose of Section 1512 was not 
+only to protect witnesses from being coerced or deceived 
+into not testifying, but also to prevent persons from being 
+coerced or deceived into withholding or altering documents 
+or other evidence. In both cases, Congress’s overriding 
+concern was to “protect the integrity of the process.” Id. at 
+19; ef. 128 Cong. Rec. 26,350 (1982) (statement of Rep. 
+Rodino) (stating, in section-by-section analysis, that purpose 
+of Section 1512 was not only to “protect[] witnesses,” but 
+also to “protect[] the integrity of Federal * * pro- 
+ceedings“).“ And the legislative history of the “corruptly 
+persuades” prohibition in Section 1512(b) specifically indi- 
+cates that Congress intended to reach beyond cases in which 
+the defendant used an improper means or induced an 
+
+
+16 Petitioner notes (Br. 33) that the original version of what would 
+become Section 1512 contained a broad obstruction-of-justice provision, 
+which was deleted before the bill was passed. That deletion, however, was 
+justified not merely on the ground that the provision was “beyond the 
+legitimate scope of this witness protection measure,” as petitioner 
+contends, but also on the ground that the provision was “probably 
+duplicative of lolbstruetion of justice statutes already in the books.” 128 
+Cong. Rec. 26,810 (1982) (statement of Sen. Heinz). 
+
+
+35 
+
+
+unlawful act. See 134 Cong. Rec. 32,701 (1988) (statement of 
+Sen. Biden) (defining the concept of e lorrupt persuasion’ of 
+a witness” to include, without limitation, “a non-coercive at- 
+tempt to induce a witness to become unavailable to tes- 
+tify“).“ Neither the legislative history of the original Sec- 
+tion 1512, nor the legislative history of the “corruptly per- 
+suades” prong of Section 1512(b), thus supports petitioner’s 
+“transitive” definition of “corruptly.” 
+2. The term “corruptly” does not require “con- 
+sciousness of wrongdoing” 
+
+In the alternative, petitioner contends (Br. 34-37) that, if 
+the term “corruptly” is given an “intransitive” meaning, the 
+mens rea it describes should require “consciousness of 
+wrongdoing.” Petitioner offers no valid justification, how- 
+ever, for preferring its novel “consciousness of wrongdoing” 
+requirement over the lower courts’ more conventional intent 
+requirement. 
+
+As an initial matter, petitioner errs by suggesting in its 
+merits brief (Br. 34-35), for the first time in this litigation, 
+that the term “knowingly” modifies the phrase “corruptly 
+persuades.”"* Whether or not modified by “knowingly,” 
+however, the term “corruptly” cannot be read to require 
+“consciousness of wrongdoing.” To the extent that peti- 
+tioner argues that “corruptly” requires knowledge of unlaw- 
+fulness, petitioner cannot overcome the “venerable principle 
+
+
+7 Petitioner argues (Br. 34 n.34) that Senator Biden’s comments on the 
+VWPA referred only to Section 1503 cases in which the “corrupt per- 
+suasion” involved “independently wrongful efforts to influence witnesses.” 
+Senator Biden made clear, however, that he was offering only 
+“(e)xamples” of “corrupt persuasion,” not an exhaustive catalog of covered 
+conduct. See 134 Cong. Rec. 32,701 (1988). 
+
+18 It seems questionable whether Congress would employ such an 
+inelegant formulation as “knowingly * * * corruptly persuades,” and it is 
+uncertain what petitioner believes the term “knowingly” would add, since 
+that term is ordinarily used to require only knowledge of the pertinent 
+facts, see, e.g., Bryan v. United States, 524 U.S. 184, 192-193 (1998), and 
+the term “corruptly” already implies such a requirement. 
+
+
+36 
+
+
+that ignorance of the law generally is no defense to a 
+criminal charge.” Ratzlaf v. United States, 510 U.S. 135, 149 
+(1994). Petitioner does not cite a single case in which a court 
+has interpreted the word “corruptly”—whether in Section 
+1512(b), another obstruction-of-justice statute, or any other 
+federal criminal statute—to require proof that the defendant 
+knew his conduct was unlawful. 
+
+In support of its definition, petitioner primarily relies (Br. 
+35-36 & n.35) on this Court’s decision in Ratzlaf, supra. In 
+that case, this Court construed the term “willfully” to 
+require proof of specific knowledge of unlawfulness, on the 
+ground that the act of currency structuring, absent such 
+proof, was not “inevitably nefarious” or “invariably moti- 
+vated by a desire to keep the Government in the dark.” 510 
+U.S. at 145. Here, by contrast, under the lower courts’ defi- 
+nition of “corruptly,” the covered act of corruptly persuading 
+another person to withhold testimony or withhold or alter 
+documents is “inevitably nefarious,” see pp. 26-29, supra, 
+and the term “corruptly” itself connotes not only a desire to 
+keep the government in the dark, but, more specifically, an 
+intent to obstruct an official proceeding. Moreover, this case 
+critically differs from Ratzlaf in at least three additional 
+respects. First, this case involves the distinct statutory 
+term “corruptly,” not the term “willfully,” which itself has 
+been construed to require proof of specific knowledge of 
+unlawfulness only in cases involving tax offenses, see, e.g., 
+Cheek v. United States, 498 U.S. 192, 199-200 (1991), or other 
+highly technical regulatory offenses, see, e.g., Ratzlaf, 510 
+U.S. at 138-140; ef. Bryan v. United States, 524 U.S. 184, 191- 
+192 (1998) (interpreting “willfully” to require general 
+knowledge of unlawfulness). Second, it is not necessary in 
+this case to require proof of knowledge of unlawfulness in 
+order to avoid rendering the term “corruptly” superfluous, 
+see Ratzlaf, 510 U.S. at 140-141, because the lower courts’ 
+definition of “corruptly” to require an intent to obstruct 
+justice achieves the same result, see p. 24, supra. Third, it is 
+
+
+37 
+
+
+not necessary to require proof of knowledge of unlawfulness 
+in order to ensure that the term “corruptly” has a consistent 
+meaning across several related statutory provisions, see 
+Ratzlaf, 510 U.S. at 142-143; in fact, such a requirement 
+would perversely assign a different meaning to the term 
+“corruptly” in Section 1512(b) than it carries in related 
+statutes such as Sections 1503 and 1505. 
+
+Finally, to the extent that petitioner argues that its 
+“consciousness of wrongdoing” requirement can be satisfied 
+by anything other than knowledge of unlawfulness, peti- 
+tioner cites no authority construing any statutory language 
+to impose such an amorphous mens rea requirement—much 
+less construing the term “corruptly” in that fashion. Indeed, 
+while petitioner relies on Ratzlaf, it disavows (Br. 37) the 
+specific knowledge-of-illegality formulation in that case. 
+But, it is far from clear how petitioner’s broader “conscious- 
+ness of wrongdoing” requirement would differ from the 
+intent requirement actually imposed by the district court, 
+since the jury’s determination that petitioner acted with an 
+“improper purpose” to “subvert, undermine, or impede the 
+fact-finding ability of an official proceeding” would seemingly 
+compel the conclusion that petitioner acted with at least 
+some consciousness of wrongdoing. Cf. Aguilar, 515 U.S. at 
+617 (Scalia, J., concurring in part and dissenting in part) 
+(noting that, “in the context of obstructing jury proceedings, 
+any claim of ignorance of wrongdoing is incredible”). And 
+the district court’s instructions did not preclude petitioner 
+from arguing to the jury that it did not believe that its 
+conduct was wrongful (as opposed to unlawful). See J.A. 
+213. Therefore, whatever petitioner’s alternative “con- 
+sciousness of wrongdoing” definition may mean, apart from 
+knowledge of unlawfulness, that definition should be 
+rejected. : 
+
+
+38 
+
+
+C. Neither The Rule Of Lenity, The Doctrine Of Consti- 
+tutional Doubt, Nor Principles Of “Fair Warning” 
+Justify Petitioner's Construction 
+
+
+1. Petitioner contends (Br. 37-38) that its definition is 
+supported by the rule of lenity. That rule, however, “applies 
+only if, after seizing everything from which aid can be 
+derived, * * * [this Court] can make no more than a guess 
+as to what Congress intended.” United States v. Wells, 519 
+U.S. 482, 499 (1997) (citations and internal quotation marks 
+omitted). As discussed above, see pp. 17-22, supra, the text 
+and history of Section 1512(b)(2), together with the definition 
+of the term “corruptly” in other statutory contexts, make 
+clear that Congress intended the term “corruptly” to mean 
+“with an improper purpose”: that is, “an intent to subvert, 
+undermine, or impede the fact-finding ability of an official 
+proceeding.” This case is therefore not one in which, “after 
+consulting traditional canons of statutory construction, [the 
+Court is] left with an ambiguous statute.” United States v. 
+Shabani, 513 U.S. 10, 17 (1994). And the rule of lenity cannot 
+justify the adoption of a construction, such as petitioner’s, of 
+which the statutory text is not susceptible. See, e.g., 
+Salinas, 522 U.S. at 66. 
+
+2. Petitioner also invokes (Br. 40-42) the doctrine of 
+constitutional doubt, contending for the first time in this 
+litigation that, under the lower courts’ definition of “cor- 
+ruptly,” the “corruptly persuades” prohibition in Section 
+1512(b) would present serious First Amendment over- 
+breadth concerns. The doctrine of constitutional doubt, 
+however, like the rule of lenity, is inapplicable here because 
+the statute is not ambiguous. See, e.g., Miller v. French, 530 
+U.S. 327, 341 (2000). And petitioner could not validly invoke 
+the doctrine of constitutional doubt here in any event, be- 
+cause the lower courts’ construction of the statute presents 
+no significant issue of overbreadth. For the statute to be 
+overbroad, it would have to be shown that Ithe statute’s] 
+
+
+39 
+
+
+application to protected speech [is] ‘substantial,’ not only in 
+an absolute sense, but also relative to the seope of the law’s 
+plainly legitimate applications.” Virginia v. Hicks, 539 U.S. 
+113, 119-120 (2003). Petitioner cannot identify any specific 
+examples of constitutionally protected speech that would be 
+criminalized under the lower courts’ construction, because 
+there is no protected First Amendment right to persuade 
+another person to withhold testimony or withhold or alter 
+documents with an intent to obstruct justice.“ Accordingly, 
+the only court of appeals to have addressed a First Amend- 
+ment challenge to Section 1512(b) has summarily rejected it, 
+see United States v. Thompson, 76 F.3d 442, 452 (2d Cir. 
+1996), and this Court has rejected a constitutional-doubt 
+challenge to a similar statute, see Aguilar, 515 U.S. at 605- 
+606. Because petitioner fails to identify a grave concern with 
+First Amendment overbreadth, the constitutional-doubt doc- 
+trine is inapposite here. 
+
+3. In addition to invoking the rule of lenity, petitioner 
+appears to make a distinct claim (Br. 38-39) that it was 
+denied due process because it failed to receive “fair warning” 
+that its conduct was unlawful.” Petitioner cannot show, 
+however, that Section 1512(b) „failled] to give a person of 
+ordinary intelligence fair notice that his contemplated con- 
+duct is forbidden by the statute.” United States v. Harriss, 
+347 U.S. 612, 617 (1954). At the time of petitioner’s conduct, 
+
+
+19 The cases on which petitioner relies (Br. 40-41 & n.40) are readily 
+distinguishable because they involve (1) the act of petitioning the 
+government, including the courts, see, e.g., California Motor Transp. Co. 
+v. Trucking Unlimited, 404 U.S. 508, 510 (1972); (2) conduct, such as a 
+boycott or labor protest, that unquestionably has an expressive com- 
+ponent, see, e.g., NAACP v. Claiborne Hardware Co., 458 U.S. 886, 911- 
+912 (1982); or (3) speech that criticizes judicial proceedings, see, e.g., Craig 
+v. Harney, 331 U.S. 367, 374-375 (1947). 
+
+
+0 Petitioner's “fair warning” claim in this Court seemingly is not 
+
+
+premised on the doctrine of constitutional doubt, because petitioner does 
+not argue that future defendants would lack “fair warning” if the district 
+court’s definition were adopted. See, e.g., Br. 39. 
+
+
+40 
+
+
+the term “corruptly” had long been defined, in the context of 
+other obstruction-of-justice statutes, to require an intent to 
+obstruct justice, see pp. 17-22, supra, and lower courts had 
+held that a defendant acted “corruptly” under those statutes 
+by destroying or withholding documents in order to interfere 
+with a grand jury investigation, even if those documents 
+were not yet under subpoena, see United States v. Ruggiero, 
+934 F.2d 440, 446 (2d Cir. 1991); United States v. Gravely, 
+840 F.2d 1156, 1160 (4th Cir. 1988); ef. Wilder v. United 
+States, 143 F. 433, 442 (4th Cir. 1906), cert. denied, 204 U.S. 
+674 (1907) (holding that defendant cannot hide witnesses 
+who are not yet under subpoena). And petitioner had ample 
+notice that the term “corruptly” had the same definition in 
+Section 1512(b) as in those other statutes, and thus that it 
+was a criminal offense to persuade others to withhold or 
+alter evidence in order to obstruct an impending federal 
+investigation. See, e.g., United States v. Applewhaite, 195 
+F.3d 679, 688 (3d Cir. 1999); Shotts, 145 F.3d at 1300-1301; 
+Thompson, 76 F. gd at 452.”" 
+
+All of petitioner’s arguments for a narrowing construction 
+of the term “corruptly” are predicated on the assumption 
+that petitioner, and others similarly situated, lacked ade- 
+quate warning that shredding documents in anticipation of a 
+government investigation, with the intent of undermining 
+
+
+21 Citing news reports on post-verdict interviews with jurors, 
+petitioner contends (Br. 38-39 n.36) that it lacked fair warning because it 
+was in fact “prosecuted for requesting edits to a draft memo”: that is, for 
+Nancy Temple’s conduct in editing a draft internal memo to eliminate the 
+
+(accurate) suggestion that petitioner viewed Enron’s October 16 press 
+release as “misleading.” See p. 6 n.4, supra. Because those news reports 
+are not in the record, see R. 1449-1452 (striking exhibits purporting to 
+describe jurors’ post-verdict statements under Federal Rule of Evidence 
+606(b)), petitioner’s reference to them is inappropriate. Apart from those 
+news reports, there is no reason to believe that the jury relied exclusively, 
+or even primarily, on Temple’s conduct. As petitioner itself asserted in 
+post-trial briefing, “the government never suggested, either in the 
+indictment or in its argument to the jury, that Ms. Temple’s e-mail itself 
+constituted an act of illegal obstruction.” R. 1440. 
+
+
+41 
+
+
+that investigation’s fact-finding mission, violated the crimi- 
+nal laws. But petitioner’s prosecution under Section 1512 
+was based on a longstanding definition of “corruptly” that 
+provides ample notice of the conduct prohibited. A party 
+does not operate in good faith when it acts with the intent to 
+persuade others to deprive a government investigation of 
+evidence by shredding hoards of documents. A document 
+retention policy that is honored mostly in the breach, and 
+seized upon in the shadow of a government investigation for 
+the purpose of frustrating an agency’s fact-finding proceed- 
+ings, cannot provide cover for that conduct. Although not 
+every action that has the effect of temporarily or even per- 
+manently causing the loss of evidence violates Section 
+1512(b)(2), petitioner’s frantic efforts to destroy evidence of 
+its participation in matters that it knew were the likely 
+target of a government investigation crossed well over the 
+line. Petitioner had ample warning that its conduct was 
+criminal, and the lower courts’ definition of the term “cor- 
+ruptly” was consistent with established law.” 
+
+
+~ If this Court were to conclude that the lower courts’ definition of the 
+term “corruptly” was erroneous, petitioner would be entitled only to a 
+new trial, not an acquittal. Petitioner is not entitled to test the sufficiency | 
+of the evidence in the present record against any new legal standard that 
+might be adopted. See, e. ., Lockhart v. Nelson, 488 U.S. 33, 42 (1988). In 
+any event, there was sufficient evidence in the record to support a guilty 
+verdict under either of petitioner’s alternative definitions: petitioner did 
+persuade its employees to commit unlawful acts (viz., destroying 
+documents during a pending proceeding, in violation of 18 U.S.C. 1505), 
+and petitioner was conscious of its wrongdoing. Petitioner’s sole basis for 
+contending (Br. 50 n.44) that an acquittal is appropriate is that a jury could 
+not find that Nancy Temple had a “corrupt” purpose. That argument, 
+however, rests on an erroneous interpretation of 18 U.S.C. 1515(c), see p. 
+33 n.15, supra, and petitioner does not attempt to account for the conduct 
+of any of its other employees. 
+
+
+42 
+
+
+II. THE DISTRICT COURT CORRECTLY INSTRUCT- 
+ED THE JURY ON THE DEFINITION OF THE 
+PHRASE “OFFICIAL PROCEEDING” 
+
+
+Petitioner claims (Br. 42-47, 48-50) that, even assuming 
+that the district court correctly defined “corruptly” as “with 
+an intent to subvert, undermine, or impede the fact-finding 
+ability of an official proceeding,” the district court (1) should 
+have instructed the jury that the government was required 
+to prove that the defendant believed that some particular 
+official proceeding was likely to occur in the near future, and 
+(2) should not have instructed the jury that an informal 
+agency investigation could constitute an “official proceed- 
+ing.” To the extent that those claims are preserved, they 
+lack merit. 
+
+A. Petitioner’s Proposed “Nexus” Requirement 
+Should Be Rejected 
+
+Petitioner first argues (Br. 42-44) that, in order to es- 
+tablish liability under the “corruptly persuades” prohibition 
+in Section 1512(b), the government should have been 
+required to show that “the defendant believed that some 
+particular proceeding was likely to occur in the near future.” 
+That requirement, in turn, consists of two components: (1) 
+that the defendant believed that an official proceeding was 
+“likely to occur,” and (2) that the defendant intended to 
+obstruct “some particular proceeding.” Each of those 
+components should be rejected. 
+
+1. In the district court, petitioner did not request an 
+instruction that the government was required to show that 
+petitioner believed that an official proceeding was likely to 
+occur in the near future.” And in the court of appeals, 
+
+
+* Petitioner did request an instruction defining an “official proceeding” 
+as “one that is ongoing or has been scheduled to be commenced in the 
+future.” R. 148. That instruction, however, was correctly rejected by the 
+lower courts on the ground that it defiel d] the language of 18 U.S.C. 
+1512(e1) (2000), which specifies that an official proceeding “need not be 
+pending or about to be instituted at the time of the offense.” Pet. App. 
+
+
+43 
+
+
+petitioner did not claim that the district court should have 
+given such an instruction. Because petitioner’s claim was 
+neither pressed nor passed upon below, it is not properly 
+presented here. See, e.g., United States v. Williams, 504 
+US. 36, 41 (1992). 
+
+Even assuming, however, that petitioner’s claim has been 
+preserved for review, petitioner cannot demonstrate that 
+the failure to give its unrequested instruction was plainly 
+erroneous. To obtain relief under Federal Rule of Criminal 
+Procedure 52(b), petitioner must demonstrate that there has 
+been error that is plain and that affects substantial rights. 
+See, e.g., Johnson v. United States, 520 U.S. 461, 466-467 
+(1997); United States v. Olano, 507 U.S. 725, 731 (1993). 
+Even if those conditions are met, a court may exercise its 
+discretion to notice the error only if the error “seriously 
+affeetls] the fairness, integrity, or public reputation of 
+judicial proceedings.” Johnson, 520 U.S. at 467. 
+
+Petitioner fails to meet this standard. First, petitioner 
+cannot demonstrate that the failure to give its instruction is 
+“clearly” or “obviously” erroneous under existing law. See 
+Olano, 507 U.S. at 734. Petitioner cites no authority for such 
+an instruction, and there is no basis in existing law for 
+engrafting a requirement that the defendant believed that 
+an official proceeding was likely to occur onto either (1) the 
+requirement that defendant acted “corruptly,” that is, with 
+“an intent to subvert, undermine, or impede the fact-finding 
+ability of an official proceeding,” or (2) the requirement that 
+the defendant acted with the specified statutory intent to 
+
+
+26a. In passing, petitioner asserts (Br. 44 n.42) that “a defendant who 
+clearly explains why an instruction is incorrect need not guess precisely 
+what instruction an appellate court will ultimately adopt.” Petitioner, 
+however, fails to identify any pertinent instruction that it “clearly ex- 
+plain ed]“ was incorrect, but that was in fact given. And merely “[o}ffer- 
+ing an alternative instruction alone is not enough” to preserve harmiess 
+error review; “the district court must be fully aware of the objecting 
+party’s position.” United States v. Williams, 990 F. 2d 507 (9th Cir.), cert. 
+denied, 510 U.S. 926 (1993). 
+
+
+44 
+
+
+cause another person to withhold documents from, or alter 
+documents for, an official proceeding. Adoption of such a re- 
+quirement would also be unwarranted. A defendant can 
+possess both of the requisite intents—an intent to obstruct 
+justice and an intent to cause another person to withhold 
+documents from an official proceeding—even if he believes 
+that there is only a possibility that his underlying miscon- 
+duct will be uncovered (and thus that an official proceeding 
+will be commenced). And the statute expressly contem- 
+plates that an official proceeding “need not be pending or 
+about to be instituted at the time of the offense” for liability 
+to attach. See 18 U.S.C. 1512(e)(1) (2000). The fact that 
+Congress decided not to impose an objective requirement 
+that an official proceeding must be “pending or about to be 
+instituted” at the time of the offense strongly indicates that 
+Congress did not intend to impose a subjective requirement 
+that the defendant must have believed that an official 
+proceeding was “likely to occur in the near future” at the 
+time of the offense.” 
+
+
+*4 Petitioner heavily relies (Br. 43-44) on this Court’s decision in 
+Aguilar, supra. The “nexus” requirement imposed by this Court in 
+Aguilar, however, is quite different from the mislabeled “nexus” 
+requirement proposed by petitioner. In Aguilar, the Court held that, to 
+convict a defendant under the “omnibus” clause of Section 1503, the 
+government must show that the defendant’s action would have the natural 
+and probable effect of obstructing a judicial proceeding. See 515 U.S. at 
+599-600. Aguilar’s nexus requirement, however, did not provide that the 
+defendant must believe that a judicial proceeding was likely; in the 
+context of Section 1503, it was long settled that the defendant must know 
+that a judicial proceeding was ongoing. See Pettibone v. United States, 
+148 U.S. 197, 207 (1893). As for the Aguilar nexus requirement itself: 
+petitioner did not seek an instruction, and does not contend here, that the 
+government was required to prove that its actions had the “natural and 
+probable effect” of obstructing an official proceeding. One court of appeals 
+has rejected such a “nexus” requirement in a Section 1512(b) prosecution. 
+See United States v. Gabriel, 125 F.3d 89, 102-105 (2d Cir. 1997); but 
+cf. Davis, 183 F 3d at 248 (imposing “nexus” requirement without elabora- 
+tion). In any event, any failure to impose a separate “nexus” requirement 
+in this case could not have prejudiced petitioner, because the wholesale 
+
+
+45 
+
+
+Second, petitioner cannot demonstrate that any error 
+affected its substantial rights. Nothing in the district court’s 
+instructions foreclosed petitioner from arguing to the jury 
+(1) that it believed that an official proceeding was not likely, 
+and (2) that such a belief tended to show that it lacked an 
+intent to obstruct justice or an intent to cause another 
+person to withhold documents from an official proceeding. If 
+justified by the facts, such an argument might be influential 
+with a jury: a jury might conclude that a defendant who 
+believes that an official proceeding is improbable would be 
+less likely to have the improper intent to obstruct it. But the 
+evidence here clearly demonstrated that petitioner believed 
+that an official proceeding was likely to occur in the near 
+future (or indeed had already begun, see pp. 47-50, infra) 
+when its employees were instructed to destroy Enron- 
+related documents. As early as October 9, Nancy Temple 
+believed that an SEC investigation was “highly probable,” 
+and petitioner was informed of the SEC’s informal investi- 
+gation on October IN before many of the most damning acts 
+of “corrupt persuasion” took place. J.A. 93; Pet. App. 6a; Tr. 
+1850. 
+
+2. Although petitioner did preserve its claim that the 
+government should be required to show that the defendant 
+
+
+destruction of thousands of documents plainly had the “natural and 
+probable effect” of interfering with any investigation that petitioner had 
+the intention of obstructing. 
+
+Other critical pieces of evidence demonstrating that petitioner 
+believed that an official proceeding was likely to occur in the near future 
+were (1) the certainty that, at a minimum, Enron would have to restate its 
+assets to correct the $1.2 billion accounting error; (2) the strong possibility 
+that Enron would have to restate its earnings because of its treatment of 
+the Raptors; (3) Enron’s announcement of a $1.01 billion charge to its 
+current earnings; (4) Sherron Watkins’s warnings that Enron could 
+“implode in a wave of accounting scandals”; (5) petitioner’s awareness that 
+it had sanctioned Enron’s use of highly aggressive accounting practices; 
+(6) the rapidly declining value of Enron’s stock; and (7) petitioner’s 
+probationary status with the SEC. See generally pp. 1-10, supra (dis- 
+cussing these and other pieces of evidence). 
+
+
+46 
+
+
+intended to obstruct “some particular proceeding,” that 
+claim lacks merit. By its terms, Section 1512(b)(2)(A) and 
+(B) requires a defendant to have, inter alia, the intent to 
+cause another person to withhold documents from, or alter 
+documents for, “an official proceeding” (emphasis added), 
+not some particular proceeding. In light of the fact that a 
+defendant can be liable even if no proceeding is pending or 
+about to be instituted at the time of the offense, see 18 
+U.S.C. 1512(e)(1) (2000), that lack of specificity is hardly 
+surprising. By definition, when an official proceeding is not 
+yet pending, it will be impossible for a defendant to know 
+any specifics about that (as-yet hypothetical) proceeding; all 
+a defendant can know is that there is a possibility (or, as 
+here, a probability) that a specific matter will give rise to a 
+proceeding in the future. Indeed, even when a proceeding is 
+pending, the government is expressly not required to prove 
+that the defendant was aware that the proceeding is a 
+federal one. See 18 U.S.C. 1512(f)(1) (2000) (now codified at 
+18 U.S.C. 1512(g\1) (Supp. II 2002)). 
+
+Even if an instruction that the government was required 
+to show that the defendant intended to obstruct “some 
+particular proceeding” was warranted, petitioner suffered no 
+prejudice from the failure to give it. As the court of appeals 
+noted, it was “clear at every step” “[tJhat the SEC was the 
+feared opponent and initiator of a proceeding and not some 
+other shadowy opponent.” Pet. App. 28a. Indeed, petitioner 
+acknowledged in the district court that “the evidence in this 
+case suggests that the only proceeding that could have been 
+affected is one involving the SEC.” Tr. 6295. Because the 
+government did show that petitioner intended to obstruct 
+some particular proceeding—namely, an investigation by the 
+SEC of petitioner’s Enron-related work—any instructional 
+
+
+47 
+
+
+error in this regard was harmless. See Neder v. United 
+States, 527 U.S. 1, 7-15 (1999).™ 
+B. Petitioner's Challenge To The District Court's 
+
+
+“Official Proceeding” Instruction Should Be 
+Rejected 
+
+
+Finally, petitioner argues (Br. 44-47) that the district 
+court erred by instructing the jury that an informal SEC 
+investigation (i. e., an investigation that has not been ordered 
+by members of the Commission) could constitute an “official 
+proceeding.” That argument, too, lacks merit. 
+
+1. As an initial matter, petitioner failed to preserve that 
+issue in the court of appeals. In its lengthy opening brief in 
+that court, petitioner did not list the issue in its statement of 
+issues presented for review, and mentioned the issue only in 
+a single footnote. See Pet. C.A. Br. 70 n.24. The government 
+therefore contended that the issue had been waived. See 
+Gov’t C. A. Br. 92 n.34. The court of appeals evidently 
+agreed, because it declined to address the issue in its opin- 
+ion. See Pet. App. 2a. Because the issue was not pressed or 
+passed upon below, it should not be considered here. See 
+Williams, 504 U.S. at 41. 
+
+2. In any event, petitioner’s claim fails on the merits. 
+Section 1515(a)(1) defines an “official proceeding” for 
+purposes of Section 1512 as, inter alia, “a proceeding before 
+a Federal Government agency which is authorized by law.” 
+Petitioner cites no authority holding that an informal SEC 
+
+
+26 Although petitioner suggests (Br. 49) that the jury may have found 
+it guilty it based solely on its adoption of a document policy, the record 
+belies that claim. The indictment charged petitioner only with a scheme to 
+destroy Enron-related documents, and the government’s trial evidence 
+proved that scheme. The evidence established that petitioner used its 
+spottily invoked document policy as a pretext for purging its files in 
+anticipation of an SEC investigation—in violation of the policy itself. And 
+in closing argument, the government expressly informed the jury that 
+“there’s nothing criminal about having a document policy.” Tr. 6419. As 
+the court of appeals concluded, therefore, It here was no risk of con- 
+viction for innocent maintenance of a records program.” Pet. App. 28a. 
+
+
+48 
+
+
+investigation does not qualify as an “official proceeding” 
+under that definition. In expressly authorizing the SEC to 
+conduct investigations, Congress treated ali investigations 
+as “proceedings.” See, e.g., 15 U.S.C. 78u(a) (authorizing in- 
+vestigations); 15 U.S.C. 78u(b) (authorizing compulsory pro- 
+cess If lor the purpose of any such investigation, or any 
+other proceeding under this chapter”) (emphasis added). The 
+SEC’s own regulations, in turn, contemplate both formal and 
+informal investigations. See, e.g., 17 C.F.R. 202.5(a). Under 
+the plain language of Section 1515(a)(1), therefore, an infor- 
+mal SEC investigation qualifies as an “official proceeding.”” 
+
+Defining “proceeding” to include an informal SEC investi- 
+gation for purposes of Section 1512 is consistent with the 
+way in which courts have defined the parallel term “pro- 
+ceeding” for purposes of Section 1505. Lower courts have 
+long considered agency investigations, even preliminary 
+ones, to be “proceedings” under that statute. See United 
+States v. Leo, 941 F.2d 181, 199 (3d Cir. 1991); United States 
+v. Browning, Inc., 572 F.2d 720, 723-724 (10th Cir.), cert. 
+denied, 439 U.S. 822 (1978); United States v. Fruchtman, 421 
+F.2d 1019, 1021 (6th Cir.), cert. denied, 400 U.S. 849 (1970); 
+Rice v. United States, 356 F.2d 709, 712-713 (8th Cir. 1966). 
+Just as it is reasonable to give the term “corruptly” the same 
+well-established meaning in Section 1512(b) that it had in 
+earlier-enacted Section 1503, so too is it reasonable to give 
+the term “proceeding” the same meaning in Section 1512 as 
+in Section 1505. See pp. 20-22, supra. 
+
+Petitioner contends (Br. 46) that “the line between a 
+simple staff investigation and a true proceeding ‘before’ a 
+
+
+2 Petitioner's suggestion (Br. 46) that the SEC’s own regulations 
+define “proceedings” to exclude informal investigations is incorrect. The 
+regulations on which petitioner relies are applicable only “[fjor purposes of 
+the SEC's] Rules of Practice,” 17 C. F. R. 201.101(a), which generally 
+govern only adjudicatory proceedings and affirmatively provide that they 
+“do not apply” to investigations, except where specifically indicated, 17 
+C. F. R. 201.100(b)(1). 
+
+
+49 
+
+
+federal agency turns on the power to subpoena documents 
+and compel testimony.” But where an agency has subpoena 
+power, as the SEC does, even the early stages of an inves- 
+tigation form part of an “official proceeding.” Courts con- 
+sidering the meaning of the term “proceeding” in Section 
+1505 have not limited it to those aspects of an agency’s 
+investigation that are conducted under the authority to issue 
+subpoenas and administer oaths. See, e.g., United States v. 
+Senffner, 280 F.3d 755, 761 (7th Cir.) (noting that “the 
+authority to issue subpoenas and administer oaths” is suffi- 
+cient to give rise to a “proceeding,” but adding that “that 
+does not mean that every aspect of the investigation must 
+proceed under that authority”), cert. denied, 536 U.S. 934 
+(2002); Browning, Inc., 572 F.2d at 724 (concluding that 
+“[w]je do not see that the use of this machinery [i.e., the 
+regulatory authority to administer oaths) would have made 
+the proceeding more like a ‘proceeding’ simply by virtue of 
+the issuing of a subpoena formally or the giving notice of a 
+preliminary investigation”). There is nothing talismanic 
+about the point at which an agency’s staff is formally author- 
+ized to exercise the agency’s ever-present subpoena power, 
+and none of the cases on which petitioner relies draws such a 
+distinction. See Senffner, 280 F.3d at 761; United States v. 
+Kelley, 36 F.3d 1118, 1127 (D.C. Cir. 1994); United States v. 
+Batten, 226 F. Supp. 492, 494 (D. D.C. 1964), cert. denied, 380 
+U.S. 912 (1965). Under petitioner’s interpretation, the cov- 
+erage of Section 1512 would turn on an inquiry into an 
+agency’s own regulations concerning the use of its subpoena 
+power. There is no reason to believe that Congress intended 
+to require such an agency-by-agency inquiry, and peti- 
+tioner’s interpretation would create perverse incentives for 
+
+
+2 Frutchman, supra, involved an investigation conducted by a single 
+attorney from the Federal Trade Commission. See 421 F.2d at 1021. 
+Regulations then in effect stated that only the Commission itself had the 
+power to issue subpoenas. See 27 Fed. Reg. 4609, 4610 (1962). 
+
+
+50 
+
+
+an agency to dispense with controls on the use of its sub- 
+poena power.” 
+
+3. Finally, even if an informal SEC investigation does not 
+constitute an “official proceeding” for purposes of Section 
+1512, any instructional error by the district court on that 
+issue was harmless. The jury found that petitioner acted 
+with “an intent to subvert, undermine, or impede the fact- 
+finding ability of an official proceeding,” and petitioner does 
+not contest the sufficiency of the evidence supporting that 
+finding. See Pet. 4. Petitioner cannot seriously argue that it 
+acted with the intent to obstruct an informal SEC investiga- 
+tion that it knew was likely or underway, but without the 
+ultimate intent to obstruct any formal SEC investigation 
+that might follow from that informal investigation. By per- 
+suading its employees to destroy thousands of documents 
+concerning a major accounting scandal in anticipation of an 
+SEC investigation, petitioner violated Section 1512(b)(2)(A) 
+and (B). Its conviction should therefore be upheld. 
+
+
+CONCLUSION 
+The judgment of the court of appeals should be affirmed. 
+Respectfully submitted. 
+
+
+” Contrary to petitioner’s contention (Br. 45-46), the district eourt's 
+definition of the phrase “official proceeding” does not blur the statutory 
+with the communication of information to law-enforcement officers. 
+Unlike agencies such as the SEC, law-enforcement officers ordinarily do 
+not have the power to subpoena witnesses and do not make prosecutorial 
+as “official proceedings.” 
+
+
+— 2 OS — —. 
+
+
+MARCH 2005 
+
+
+51 
+
+
+PAUL D. CLEMENT 
+JOHN C. KEENEY 
+Acting Assistant Attorney 
+General 
+
+
+MICHAEL R. DREEBEN 
+Deputy Solicitor General 
+
+
+KANNON K. SHANMUGAM 
+Assistant to the Solicitor 
+General 
+
+
+ELIZABETH D. COLLERY 
+SANGITA K. RAO 
+ANDREW WEISSMANN 
+MATTHEW W. FRIEDRICH 
+
+
+Attorneys 
+
+
+a 
+
+
+— —ͤ—ä—— — 
+
+
+APPENDIX 
+
+
+1. Title 18 of the United States Code provides in 
+pertinent part: 
+
+
+§ 1503. Influencing or injuring officer or juror 
+generally 
+
+
+(a) | Whoever corruptly, or by threats or force, or by 
+any threatening letter or communication, endeavors to 
+influence, intimidate, or impede any grand or petit juror, or 
+officer in or of any court of the United States, or officer who 
+may be serving at any examination or other proceeding 
+before any United States magistrate judge or other commit- 
+ting magistrate, in the discharge of his duty, or injures any 
+such grand or petit juror in his person or property on 
+account of any verdict or indictment assented to by him, or 
+on account of his being or having been such juror, or injures 
+any such officer, magistrate judge, or other committing 
+magistrate in his person or property on account of the 
+performance of his official duties, or corruptly or by threats 
+or force, or by any threatening letter or communication, 
+influences, obstructs, or impedes, or endeavors to influence, 
+obstruct, or impede, the due administration of justice, shall 
+be punished as provided in subsection (b). If the offense 
+under this section occurs in connection with a trial of a 
+criminal case, and the act in violation of this section involves 
+the threat of physical force or physical force, the maximum 
+term of imprisonment which may be imposed for the offense 
+shall be the higher of that otherwise provided by law or the 
+maximum term that could have been imposed for any offense 
+
+
+charged in such case. 
+(b) The punishment for an offense under this section 
+is— 
+
+
+(la) 
+
+
+2a 
+
+
+(J) in the case of a killing, the punishment provided 
+in sections 1111 and 1112; 
+
+
+(2) in the case of an attempted killing, or a case in 
+which the offense was committed against a petit juror and 
+in which a class A or B felony was charged, imprisonment 
+for not more than 20 years, a fine under this title, or both; 
+and 
+
+
+(3) in any other case, imprisonment for not more 
+than 10 years, a fine under this title, or both. 
+
+
+§ 1505. Obstruction of proceedings before depart- 
+ments, agencies, and committees 
+
+
+Whoever, with intent to avoid, evade, prevent, or obstruct 
+compliance, in whole or in part, with any civil investigative 
+demand duly and properly made under the Antitrust Civil 
+Process Act, willfully withholds, misrepresents, removes 
+from any place, conceals, covers up, destroys, mutilates, 
+alters, or by other means falsifies any documentary material, 
+answers to written interrogatories, or oral testimony, which 
+is the subject of such demand; or attempts to do so or solicits 
+another to do so; or 
+
+
+Whoever corruptly, or by threats or force, or by any 
+threatening letter or communication influences, obstructs, or 
+impedes or endeavors to influence, obstruct, or impede the 
+due and proper administration of the law under which any 
+pending proceeding is being had before any department or 
+agency of the United States, or the due and proper exercise 
+of the power of inquiry under which any inquiry or 
+investigation is being had by either House, or any committee 
+of either House or any joint committee of the Congress— 
+
+
+Shall be fined under this title or imprisoned not more than 
+five years, or both. 
+
+
+3a 
+
+
+§ 1512 [2000]. Tampering with a witness, victim, or 
+an informant 
+
+
+(a)(1) Whoever kills or attempts to kill another person, 
+with intent to— 
+
+
+(A) prevent the attendance or testimony of any 
+person in an official proceeding; 
+
+
+(B) prevent the production of a record, document, 
+or other object, in an official proceeding; or 
+
+
+(C) prevent the communication by any person to a 
+law enforcement officer or judge of the United States of 
+information relating to the commission or possible com- 
+mission of a Federal offense or a violation of conditions of 
+
+
+probation, parole, or release pending judicial proceedings; 
+shall be punished as provided in paragraph (2). 
+(2) The punishment for an offense under this subsection 
+is 
+
+(A) in the case of murder (as defined in section 
+1111), the death penalty or imprisonment for life, and in 
+the case of any other killing, the punishment provided in 
+section 1112; and 
+
+
+(B) in the case of an attempt, imprisonment for not 
+more than twenty years. 
+
+(b) Whoever knowingly uses intimidation or physical 
+force, threatens, or corruptly persuades another person, or 
+attempts to do so, or engages in misleading conduct toward 
+another person, with intent to— 
+
+(1) influence, delay, or prevent the testimony of any 
+person in an official proceeding; 
+
+
+(2) cause or induce any person to— 
+
+
+4a 
+
+
+(A) withhold testimony, or withhold a record, 
+document, or other object, from an official proceeding; 
+
+
+(B) alter, destroy, mutilate, or conceal an object 
+with intent to impair the object’s integrity or 
+availability for use in an official proceeding; 
+
+
+(C) evade legal process summoning that person 
+to appear as a witness, or to produce a record, docu- 
+ment, or other object, in an official proceeding; or 
+
+
+(D) be absent from an official proceeding to 
+which such person has been summoned by legal pro- 
+cess; or 
+
+
+(3) hinder, delay, or prevent the communication to a 
+law enforcement officer or judge of the United States of 
+information relating to the commission or possible com- 
+mission of a Federal offense or a violation of conditions of 
+probation, parole, or release pending judicial proceedings; 
+
+
+shall be fined under this title or imprisoned not more than 
+ten years, or both. 
+
+
+(c) Whoever intentionally harasses another person and 
+thereby hinders, delays, prevents, or dissuades any person 
+from— 
+
+
+(1) attending or testifying in an official proceeding; 
+
+
+(2) reporting to a law enforcement officer or judge 
+of the United States the commission or possible com- 
+mission of a Federal offense or a violation of conditions of 
+probation, parole, or release pending judicial proceedings; 
+
+(3) arresting or seeking the arrest of another person 
+in connection with a Federal offense; or 
+
+
+(4) causing a criminal prosecution, or a parole or 
+probation revocation proceeding, to be sought or in- 
+stituted, or assisting in such prosecution or proceeding; 
+
+
+5a 
+
+
+or attempts to do so, shall be fined under this title or im- 
+prisoned not more than one year, or both. 
+
+
+(d) Ina prosecution for an offense under this section, it 
+is an affirmative defense, as to which the defendant has the 
+burden of proof by a preponderance of the evidence, that the 
+conduct consisted solely of lawful conduct and that the 
+defendant’s sole intention was to encourage, induce, or cause 
+the other person to testify truthfully. 
+
+
+(e) For the purposes of this section— 
+
+
+(1) an official proceeding need not be pending or 
+about to be instituted at the time of the offense; and 
+
+
+(2) the testimony, or the record, document, or other 
+object need not be admissible in evidence or free of a 
+claim of privilege. 
+
+(f) In a prosecution for an offense under this section, no 
+state of mind need be proved with respect to the cir- 
+cumstance— 
+
+
+(1) that the official proceeding before a judge, court, 
+magistrate, grand jury, or government agency is before a 
+judge or court of the United States, a United States 
+
+
+magistrate, a bankruptcy judge, a Federal grand jury, or 
+a Federal Government agency; or 
+
+(2) that the judge is a judge of the United States or 
+that the law enforcement officer is an officer or employee 
+of the Federal Government or a person authorized to act 
+for or on behalf of the Federal Government or serving the 
+Federal Government as an adviser or consultant. 
+
+
+(g) There is extraterritorial Federal jurisdiction over an 
+offense under this section. 
+
+
+(h) A prosecution under this section or section 1503 may 
+be brought in the district in which the official proceeding 
+
+
+6a 
+
+
+(whether or not pending or about to be instituted) was 
+intended to be affected or in the district in which the conduct 
+constituting the alleged offense occurred. 
+
+
+(i) Ifthe offense under this section occurs in connection 
+with a trial of a criminal case, the maximum term of im- 
+prisonment which may be imposed for the offense shall be 
+the higher of that otherwise provided by law or the maxi- 
+mum term that could have been imposed for any offense 
+charged in such case. 
+
+
+§ 1512 [2000 & Supp II 2002]. Tampering with a 
+witness, victim, or an informant 
+
+
+(ace!) Whoever kills or attempts to kill another person, 
+with intent to 
+
+
+(A) prevent the attendance or testimony of any 
+person in an official proceeding: 
+
+
+(B) prevent the production of a record, 
+document, or other object, in an official proceeding; or 
+
+
+(C) prevent the communication by any person 
+to a law enforcement officer or judge of the United 
+States of information relating to the commission or 
+possible commission of a Federal offense or a violation 
+of conditions of probation, parole, or release pending 
+judicial proceedings; 
+
+shall be punished as provided in paragraph (3). 
+
+
+(2) Whoever uses physical force or the threat of 
+physical force against any person, or attempts to do so, with 
+intent to— 
+
+
+(A) influence, delay, or prevent the testimony of any 
+person in an official proceeding; 
+(B) cause or induce any person to— 
+
+
+7a 
+
+
+(i) withhold testimony, or withhold a record, 
+document, or other object, from an official proceeding; 
+
+
+(ii) alter, destroy, mutilate, or conceal an object 
+with intent to impair the integrity or availability of the 
+object for use in an official proceeding; 
+
+
+(iii) evade legal process summoning that person to 
+appear as a witness, or to produce a record, document, 
+or other object, in an official proceeding; or 
+
+(iv) be absent from an official proceeding to which 
+that person has been summoned by legal process; or 
+
+
+(C) hinder, delay, or prevent the communication to a 
+law enforcement officer or judge of the United States of 
+information relating to the commission or possible 
+commission of a Federal offense or a violation of condi- 
+tions of probation, supervised release, parole, or release 
+
+
+pending judicial proceedings; 
+shall be punished as provided in paragraph (3). 
+(3) The punishment for an offense under this subsection 
+is— 
+(A) in the case of murder (as defined in section 1111), 
+the death penalty or imprisonment for life, and in the case 
+
+
+of any other killing, the punishment provided in section 
+1112; 
+
+
+(B) inthe case of— 
+(i) an attempt to murder; or 
+
+
+(ii) the use or attempted use of physical force 
+against any person; 
+imprisonment for not more than 20 years; and 
+
+
+8a 
+
+
+(C) in the case of the threat of use of physical force 
+against any person, imprisonment for not more than 10 
+years. 
+
+
+(b) Whoever knowingly uses intimidation, threatens, or 
+corruptly persuades another person, or attempts to do so, or 
+engages in misleading conduct toward another person, with 
+intent to— 
+
+
+(1) influence, delay, or prevent the testimony of any 
+person in an official proceeding; 
+
+
+(2) cause or induce any person to— 
+
+
+(A) withhold testimony, or withhold a record, 
+document, or other object, from an official proceeding; 
+
+
+(B) alter, destroy, mutilate, or conceal an object 
+with intent to impair the object’s integrity or availabil- 
+ity for use in an official proceeding; 
+
+(C) evade legal process summoning that person to 
+
+
+appear as a witness, or to produce a record, document, 
+or other object, in an official proceeding; or 
+
+
+D) be absent from an official proceeding to which 
+such person has been summoned by legal process; or 
+
+
+(3) hinder, delay, or prevent the communication to a 
+law enforcement officer or judge of the United States of 
+information relating to the commission or possible com- 
+mission of a Federal offense or a violation of conditions of 
+probation’ supervised release,, parole, or release pending 
+judicial proceedings; 
+
+shall be fined under this title or imprisoned not more than 
+ten years, or both. 
+
+
+(c) Whoever corruptly— 
+
+
+! So in original. 
+
+
+9a 
+
+
+(1) alters, destroys, mutilates, or conceals a record, 
+document, or other object, or attempts to do so, with the 
+intent to impair the object’s integrity or availability for 
+use in an official proceeding; or 
+
+(2) otherwise obstructs, influences, or impedes any 
+official proceeding, or attempts to do so, 
+
+
+shall be fined under this title or imprisoned not more than 20 
+years, or both. 
+
+
+(d) Whoever intentionally harasses another person and 
+thereby hinders, delays, prevents, or dissuades any person 
+from— 
+
+
+(1) attending or testifying in an official proceeding; 
+
+(2) reporting to a law enforcement officer or judge of 
+the United States the commission or possible commission 
+of a Federal offense or a violation of conditions of pro- 
+bation’ supervised release,, parole, or release pending 
+judicial proceedings; 
+
+(3) arresting or seeking the arrest of another person 
+in connection with a Federal offense; or 
+
+
+(4) causing a criminal prosecution, or a parole or pro- 
+bation revocation proceeding, to be sought or instituted, 
+or assisting in such prosecution or proceeding; 
+
+
+or attempts to do so, shall be fined under this title or im- 
+prisoned not more than one year, or both. 
+
+
+(e) In a prosecution for an offense under this section, it 
+is an affirmative defense, as to which the defendant has the 
+burden of proof by a preponderance of the evidence, that the 
+conduct consisted solely of lawful conduct and that the 
+defendant’s sole intention was to encourage, induce, or cause 
+the other person to testify truthfully. 
+
+
+So in original. 
+
+
+10a 
+
+
+(f) For the purposes of this section 
+
+
+(1) an official proceeding need not be pending or 
+about to be instituted at the time of the offense; and 
+
+
+(2) the testimony, or the record, document, or other 
+object need not be admissible in evidence or free of a 
+claim of privilege. 
+
+
+(g) Ina prosecution for an offense under this section, no 
+state of mind need be proved with respect to the 
+circumstance— 
+
+
+(1) that the official proceeding before a judge, court, 
+magistrate judge, grand jury, or government agency is 
+before a judge or court of the United States, a United 
+States magistrate judge, a bankruptcy judge, a Federal 
+grand jury, or a Federal Government agency; or 
+
+
+(2) that the judge is a judge of the United States or 
+that the law enforcement officer is an officer or employee 
+of the Federal Government or a person authorized to act 
+for or on behalf of the Federal Government or serving the 
+Federal Government as an adviser or consultant. 
+
+
+(h) There is extraterritorial Federal jurisdiction over an 
+offense under this section. 
+
+
+(i) A prosecution under this section or section 1503 may 
+be brought in the district in which the official proceeding 
+(whether or not pending or about to be instituted) was 
+intended to be affected or in the district in which the conduct 
+constituting the alleged offense occurred. 
+
+
+(j) If the offense under this section occurs in connection 
+with a trial of a criminal case, the maximum term of 
+imprisonment which may be imposed for the offense shall be 
+the higher of that otherwise provided by law or the 
+maximum term that could have been imposed for any offense 
+
+
+charged in such case. 
+
+
+lla 
+
+
+(k) Whoever conspires to commit any offense under this 
+section shall be subject to the same penalties as those 
+prescribed for the offense the commission of which was the 
+
+
+object of the conspiracy. 
+
+
+§ 1515. Definitions for certain provisions; gene al 
+provision 
+(a) As used in sections 1512 and 1513 of this title and in 
+this section— 
+(1) the term “official proceeding” means 
+(A) a proceeding before a judge or court of the 
+United States, a United States magistrate judge, a 
+bankruptcy judge, a judge of the United States Tax 
+Court, a special trial judge of the Tax Court, a judge of 
+the United States Court of Federal Claims, or a 
+Federal grand jury; 
+(B) a proceeding before the Congress; 
+(C) a proceeding before a Federal Government 
+agency which is authorized by law; or 
+(D) a proceeding involving the business of 
+insurance whose activities affect interstate commerce 
+before any insurance regulatory official or agency or 
+any agent or examiner appointed by such official or 
+agency to examine the affairs of any person engaged in 
+the business of insurance whose activities affect inter- 
+state commerce; 
+(2) the term “physical force” means physical action 
+against another, and includes confinement; 
+(3) the term “misleading conduct” means— 
+(A) knowingly making a false statement; 
+
+
+12a 
+
+
+(B) intentionally omitting information from a 
+statement and thereby causing a portion of such 
+statement to be misleading, or intentionally concealing 
+a material fact, and thereby creating a false impression 
+by such statement; 
+
+(C) with intent to mislead, knowingly submitting 
+or inviting reliance on a writing or recording that is 
+false, forged, altered, or otherwise lacking in 
+authenticity; : 
+
+D) with intent to mislead, knowingly submitting 
+or inviting reliance on a sample, specimen, map, photo- 
+graph, boundary mark, or other object that is mis- 
+leading in a material respect; or 
+
+(E) knowingly using a trick, scheme, or device 
+with intent to mislead; 
+
+(4) the term “law enforcement officer” means an 
+officer or employee of the Federal Government, or a 
+person authorized to act for or on behalf of the Federal 
+
+
+Government or serving the Federal Government as an 
+adviser or consultant 
+
+
+(A) authorized under law to engage in or 
+supervise the prevention, detection, investigation, or 
+prosecution of an offense; or 
+
+
+(B) serving as a probation or pretrial services 
+officer under this title; 
+(5) the term “bodily injury” means— 
+(A) a cut, abrasion, bruise, burn, or disfigurement; 
+(B) physical pain; 
+(C) illness; 
+
+
+(D) impairment of the function of a bodily 
+member, organ, or mental faculty; or 
+
+
+13a 
+
+
+(E) any other injury to the body, no matter how 
+temporary; and 
+
+
+(6) the term “corruptly persuades” does not include 
+conduct which would be misleading conduct but for a lack 
+of a state of mind. 
+
+
+(b) As used in section 1505, the term “corruptly” means 
+acting with an improper purpose, personally or by influenc- 
+ing another, including making a false or misleading state- 
+ment, or withholding, concealing, altering, or destroying a 
+document or other information. 
+
+
+(e) This chapter does not prohibit or punish the pro- 
+viding of lawful, bona fide, legal representation services in 
+connection with or anticipation of an official proceeding. 
+
+
+§ 1519 [Supp. II 2002]. Destruction, alteration, or 
+falsification of records in Federal investigations 
+and bankruptcy 
+
+Whoever knowingly alters, destroys, mutilates, conceals, 
+covers up, falsifies, or makes a false entry in any record, 
+document, or tangible object with the intent to impede, 
+obstruct, or influence the investigation or proper admini- 
+stration of any matter within the jurisdiction of any 
+department or agency of the United States or any case filed 
+under title 11, or in relation to or contemplation of any such 
+matter or case, shall be fined under this title, imprisoned not 
+more than 20 years, or both. 
+
+
+§ 1520 [Supp. II 2002]. Destruction of corporate audit 
+records 
+
+
+(ak!) Any accountant who conducts an audit of an issuer 
+of securities to which section 10A(a) of the Securities 
+Exchange Act of 1934 (15 U.S.C. 78j-1(a)) applies, shall 
+maintain all audit or review workpapers for a period of 5 
+
+
+l4a 
+
+
+years from the end of the fiscal period in which the audit or 
+review was concluded. 
+
+
+(2) The Securities and Exchange Commission shall 
+promulgate, within 180 days, after adequate notice and an 
+opportunity for comment, such rules and regulations, as are 
+reasonably necessary, relating to the retention of relevant 
+records such as workpapers, documents that form the basis 
+of an audit or review, memoranda, correspondence, com- 
+munications, other documents, and records (including elec- 
+tronic records) which are created, sent, or received in 
+connection with an audit or review and contain conclusions, 
+opinions, analyses, or financial data relating to such an audit 
+or review, which is conducted by any accountant who 
+conducts an audit of an issuer of securities to which section 
+10A(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78 - 
+l(a)) applies. The Commission may, from time to time, 
+amend or supplement the rules and regulations that it is 
+required to promulgate under this section, after adequate 
+notice and an opportunity for comment, in order to ensure 
+that such rules and regulations adequately comport with the 
+purposes of this section. 
+
+(b) Whoever knowingly and willfully violates subsection 
+(a1), or any rule or regulation promulgated by the 
+Securities and Exchange Commission under subsection 
+(a2), shall be fined under this title, imprisoned not more 
+than 10 years, or both. 
+
+
+(e) Nothing in this section shall be deemed to diminish 
+or relieve any person of any other duty or obligation imposed 
+by Federal or State law or regulation to maintain, or refrain 
+from destroying, any document. 
+
+
+15a 
+
+
+2. Title 15 of the United States Code provides in 
+pertinent part: 
+
+§ 78u [2000 & Supp. II 2002). Investigations and 
+actions 
+
+
+(a) Authority and discretion of Commission to 
+investigate violations 
+
+
+(1) The Commission may, in its discretion, make such 
+investigations as it deems necessary to determine whether 
+any person has violated, is violating, or is about to violate 
+any provision of this chapter, the rules or regulations 
+thereunder, the rules of a national securities exchange or 
+registered securities association of which such person is a 
+member or a person associated with a member, the rules of a 
+registered clearing agency in which such person is a 
+participant, the rules of the Public Company Accounting 
+Oversight Board, of which such person is a registered public 
+accounting firm or a person associated with such a firm, or 
+the rules of the Municipal Securities Rulemaking Board, and 
+may require or permit any person to file with it a statement 
+in writing, under oath or otherwise as the Commission shall 
+determine, as to all the facts and circumstances concerning 
+the matter to be investigated. The Commission is authorized 
+in its discretion, to publish information concerning any such 
+violations, and to investigate any facts, conditions, practices, 
+or matters which it may deem necessary or proper to aid in 
+the enforcement of such provisions, in the prescribing of 
+rules and regulations under this chapter, or in securing 
+information to serve as a basis for recommending further 
+legislation concerning the matters to which this chapter 
+relates. 
+
+(2) On request from a foreign securities authority, the 
+Commission may provide assistance in accordance with this 
+paragraph if the requesting authority states that the 
+
+
+l6a 
+
+
+requesting authority is conducting an investigation which it 
+deems necessary to determine whether any person has 
+violated, is violating, or is about to violate any laws or rules 
+relating to securities matters that the requesting authority 
+administers or enforces. The Commission may, in its dis- 
+cretion, conduct such investigation as the Commission deems 
+necessary to collect information and evidence pertinent to 
+the request for assistance. Such assistance may be provided 
+without regard to whether the facts stated in the request 
+would also constitute a violation of the laws of the United 
+States. In deciding whether to provide such assistance, the 
+Commission shall consider whether (A) the requesting 
+authority has agreed to provide reciprocal assistance in 
+securities matters to the Commission; and (B) compliance 
+with the request would prejudice the public interest of the 
+United States. 
+
+
+(b) Attendance of witnesses; production of records 
+
+
+For the purpose of any such investigation, or any other 
+proceeding under this chapter, any member of the Com- 
+mission or any officer designated by it is empowered to 
+administer oaths and affirmations, subpoena witnesses, com- 
+pel their attendance, take evidence, and require the pro- 
+duction of any books, papers, correspondence, memoranda, 
+or other records which the Commission deems relevant or 
+material to the inquiry. Such attendance of witnesses and 
+the production of any such records may be required from any 
+place in the United States or any State at any designated 
+place of hearing. 
+
+
+E * *+ * „* 
+
+
+17a 
+
+
+‘ 
+
+
+3. Title 17 of the Code of Federal Regulations provides 
+in pertinent part: 
+§ 202.6 Enforcement activities. 
+
+
+(a) Where, from complaints received from members of 
+the public, communications from Federal or State agencies, 
+examination of filings made with the Commission, or 
+otherwise, it appears that there may be violation of the acts 
+administered by the Commission or the rules or regulations 
+thereunder, a preliminary investigation is generally made. 
+In such preliminary investigation no process is issued or 
+testimony compelled. The Commission may, in its discretion, 
+make such formal investigations and authorize the use of 
+process as it deems necessary to determine whether any 
+person has violated, is violating, or is about to violate any 
+provision of the federal securities laws or the rules of a self- 
+regulatory organization of which the person is a member or 
+participant. Unless otherwise ordered by the Commission, 
+the investigation or examination is non-public and the 
+reports thereon are for staff and Commission use only. 
+
+

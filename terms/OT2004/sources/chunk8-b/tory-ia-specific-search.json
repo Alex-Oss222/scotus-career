@@ -1,0 +1,28 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 931,
+    "params": {
+      "query": "collection:us-supreme-court AND title:&quot;Tory v. Cochran&quot;",
+      "qin": "collection:us-supreme-court AND title:(&quot;Tory v. Cochran&quot;)",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 100,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 2,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA40385016_0166",
+        "title": "Tory v. Cochran, 544 U.S. 734 (2005) (No. 03-1488)"
+      },
+      {
+        "identifier": "micro_IA40385014_0755",
+        "title": "Tory v. Cochran, 544 U.S. 734 (2005) (No. 03-1488)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "command": "python -B tmp/chunk8/check-term-no-history.py OT2004",
+  "exit_code": 0,
+  "output": "INVENTORY FORMAT: all 105 numbered current-index rows recognized; coverage checks remain active.\r\nVALIDATION LIMIT: history-object existence checks are skipped; actual read-only child checks run in process with all process launches blocked.\r\nOK: OT2004; 0 warning(s)\r\nVALIDATION LIMIT: 0 distinct history references were not verified. Any checker OK applies only to the remaining deterministic checks.\r\n",
+  "limitation": "Repository history existence, ordering and commitment were not checked."
+}

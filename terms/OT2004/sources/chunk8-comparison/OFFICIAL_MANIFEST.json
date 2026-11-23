@@ -1,0 +1,56 @@
+[
+  {
+    "case": "lingle",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep544/usrep544528/usrep544528.pdf",
+    "pages": 22,
+    "characters": 46813
+  },
+  {
+    "case": "johanns",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep544/usrep544550/usrep544550.pdf",
+    "pages": 31,
+    "characters": 69316
+  },
+  {
+    "case": "clingman",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep544/usrep544581/usrep544581.pdf",
+    "pages": 41,
+    "characters": 88507
+  },
+  {
+    "case": "deck",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep544/usrep544622/usrep544622.pdf",
+    "pages": 38,
+    "characters": 82178
+  },
+  {
+    "case": "medellin",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep544/usrep544660/usrep544660.pdf",
+    "pages": 36,
+    "characters": 75035
+  },
+  {
+    "case": "andersen",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep544/usrep544696/usrep544696.pdf",
+    "pages": 13,
+    "characters": 28418
+  },
+  {
+    "case": "cutter",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep544/usrep544709/usrep544709.pdf",
+    "pages": 25,
+    "characters": 55308
+  },
+  {
+    "case": "tory",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep544/usrep544734/usrep544734.pdf",
+    "pages": 7,
+    "characters": 14659
+  },
+  {
+    "case": "raich",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep545/usrep545001/usrep545001.pdf",
+    "pages": 74,
+    "characters": 160594
+  }
+]

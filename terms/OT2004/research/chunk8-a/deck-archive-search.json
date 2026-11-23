@@ -1,0 +1,44 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 499,
+    "params": {
+      "query": "collection:us-supreme-court AND (title:Deck OR identifier:04-5293)",
+      "qin": "collection:us-supreme-court AND (title:Deck OR identifier:04-5293)",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 100,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 6,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA40385009_0741",
+        "title": "Span-Deck, Inc. v. Fabcon, Inc., 459 U.S. 981 (1982) (No. 82-0399)"
+      },
+      {
+        "identifier": "micro_IA40385018_0854",
+        "title": "On-Deck, Inc. v. Rostad, 474 U.S. 1006 (1985) (No. 85-594)"
+      },
+      {
+        "identifier": "micro_IA40385016_0109",
+        "title": "Deck v. Missouri, 544 U.S. 622 (2005) (No. 04-5293)"
+      },
+      {
+        "identifier": "micro_IA40385602_0967",
+        "title": "Deck v. United States, 379 U.S. 967 (1965) (No. 621)"
+      },
+      {
+        "identifier": "micro_IA40386017_2246",
+        "title": "Media Technologies Licensing, LLC v. Upper Deck Co., 562 U.S. 894 (2010) (No. 10-126)"
+      },
+      {
+        "identifier": "micro_IA40385016_0197",
+        "title": "Deck v. Missouri, 544 U.S. 622 (2005) (No. 04-5293)"
+      }
+    ]
+  }
+}

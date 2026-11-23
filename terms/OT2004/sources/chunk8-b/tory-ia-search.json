@@ -1,0 +1,100 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 580,
+    "params": {
+      "query": "collection:us-supreme-court AND ((text:&quot;03-1488&quot; OR text:&quot;03-1488&quot; OR text__reviews:&quot;03-1488&quot;) OR (text:Tory OR text:Tory OR text__reviews:Tory))",
+      "qin": "collection:us-supreme-court AND (&quot;03-1488&quot; OR &quot;Tory&quot;)",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 20,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 58,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA40386411_0126",
+        "title": "Singer v. United States, 380 U.S. 24 (1965) (No. 42)"
+      },
+      {
+        "identifier": "micro_IA40385016_0378",
+        "title": "Snyder v. Louisiana, 552 U.S. 472 (2008) (No. 06-10119)"
+      },
+      {
+        "identifier": "micro_IA40385012_0705",
+        "title": "International Union, United Automobile, Aerospace & Agricultural Implement v. Johnson Controls, Inc., 499 U.S. 187 (1991) (No. 89-1215)"
+      },
+      {
+        "identifier": "micro_IA40385005_1509",
+        "title": "Personnel Administrator of Mass. v. Feeney, 442 U.S. 256 (1979) (No. 78-233)"
+      },
+      {
+        "identifier": "micro_IA40385013_0772",
+        "title": "Arkansas v. Farm Credit Servs. of Central Ark., 520 U.S. 821 (1997) (No. 95-1918)"
+      },
+      {
+        "identifier": "micro_IA40385016_0166",
+        "title": "Tory v. Cochran, 544 U.S. 734 (2005) (No. 03-1488)"
+      },
+      {
+        "identifier": "micro_IA40386404_0172",
+        "title": "Commissioner v. Disston, 325 U.S. 442 (1945) (No. 589)"
+      },
+      {
+        "identifier": "micro_IA40385015_0651",
+        "title": "United States v. Jicarilla Apache Nation, 564 U.S. 162 (2011) (No. 10-382)"
+      },
+      {
+        "identifier": "micro_IA40385003_0176",
+        "title": "Weinberger v. Salfi, 422 U.S. 749 (1975) (No. 74-214)"
+      },
+      {
+        "identifier": "micro_IA40385015_0043",
+        "title": "14 Penn Plaza LLC, et al v. Steven Pyett, et al, 556 U.S. 247 (2009) (No. 07-581)"
+      },
+      {
+        "identifier": "micro_IA40385013_0191",
+        "title": "New York v. United States, 505 U.S. 144 (1992) (No. 91-543)"
+      },
+      {
+        "identifier": "micro_IA40385014_0651",
+        "title": "Cherokee Nation of Okla. v. Leavitt, 543 U.S. 631 (2005) (No. 02-1472)"
+      },
+      {
+        "identifier": "micro_IA40385016_0460",
+        "title": "Boumediene v. Bush, 553 U.S. 723 (2008) (No. 06-1195)"
+      },
+      {
+        "identifier": "micro_IA40386407_0155",
+        "title": "Isbrandtsen Co. v. Johnson, 343 U.S. 779 (1952) (No. 493)"
+      },
+      {
+        "identifier": "micro_IA40385015_0116",
+        "title": "14 Penn Plaza LLC et al v. Pyett et al, 556 U.S. 247 (2009) (No. 07-581)"
+      },
+      {
+        "identifier": "micro_IA40385014_0338",
+        "title": "Apprendi v. New Jersey, 530 U.S. 466 (2000) (No. 99-478)"
+      },
+      {
+        "identifier": "micro_IA40385015_0099",
+        "title": "Jimenez v. Quarterman, 555 U.S. 113 (2009) (No. 07-6984)"
+      },
+      {
+        "identifier": "micro_IA40385016_0491",
+        "title": "Snyder v. Louisiana, 552 U.S. 472 (2008) (No. 06-10119)"
+      },
+      {
+        "identifier": "micro_IA40386411_0117",
+        "title": "Stanford v. Texas, 379 U.S. 476 (1965) (No. 40)"
+      },
+      {
+        "identifier": "micro_IA40385007_1884",
+        "title": "Zipes v. Trans World Airlines, Inc., 455 U.S. 385 (1982) (No. 78-1545)"
+      }
+    ]
+  }
+}

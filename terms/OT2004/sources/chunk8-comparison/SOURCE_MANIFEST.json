@@ -1,0 +1,187 @@
+[
+  {
+    "case": "lingle",
+    "url": "https://www.law.cornell.edu/supct/html/04-163.ZC.html",
+    "file": "terms/OT2004/sources/chunk8-comparison/lingle_ZC.txt",
+    "characters": 1282
+  },
+  {
+    "case": "lingle",
+    "url": "https://www.law.cornell.edu/supct/html/04-163.ZO.html",
+    "file": "terms/OT2004/sources/chunk8-comparison/lingle_ZO.txt",
+    "characters": 35990
+  },
+  {
+    "case": "lingle",
+    "url": "https://www.law.cornell.edu/supct/html/04-163.ZS.html",
+    "file": "terms/OT2004/sources/chunk8-comparison/lingle_ZS.txt",
+    "characters": 7414
+  },
+  {
+    "case": "johanns",
+    "url": "https://www.law.cornell.edu/supct/html/03-1164.ZC.html",
+    "file": "terms/OT2004/sources/chunk8-comparison/johanns_ZC.txt",
+    "characters": 4153
+  },
+  {
+    "case": "johanns",
+    "url": "https://www.law.cornell.edu/supct/html/03-1164.ZC1.html",
+    "file": "terms/OT2004/sources/chunk8-comparison/johanns_ZC1.txt",
+    "characters": 1838
+  },
+  {
+    "case": "johanns",
+    "url": "https://www.law.cornell.edu/supct/html/03-1164.ZC2.html",
+    "file": "terms/OT2004/sources/chunk8-comparison/johanns_ZC2.txt",
+    "characters": 1843
+  },
+  {
+    "case": "johanns",
+    "url": "https://www.law.cornell.edu/supct/html/03-1164.ZD.html",
+    "file": "terms/OT2004/sources/chunk8-comparison/johanns_ZD.txt",
+    "characters": 1088
+  },
+  {
+    "case": "johanns",
+    "url": "https://www.law.cornell.edu/supct/html/03-1164.ZD1.html",
+    "file": "terms/OT2004/sources/chunk8-comparison/johanns_ZD1.txt",
+    "characters": 23871
+  },
+  {
+    "case": "johanns",
+    "url": "https://www.law.cornell.edu/supct/html/03-1164.ZO.html",
+    "file": "terms/OT2004/sources/chunk8-comparison/johanns_ZO.txt",
+    "characters": 30515
+  },
+  {
+    "case": "johanns",
+    "url": "https://www.law.cornell.edu/supct/html/03-1164.ZS.html",
+    "file": "terms/OT2004/sources/chunk8-comparison/johanns_ZS.txt",
+    "characters": 5663
+  },
+  {
+    "case": "clingman",
+    "url": "https://www.law.cornell.edu/supct/html/04-37.ZC.html",
+    "file": "terms/OT2004/sources/chunk8-comparison/clingman_ZC.txt",
+    "characters": 20879
+  },
+  {
+    "case": "clingman",
+    "url": "https://www.law.cornell.edu/supct/html/04-37.ZD.html",
+    "file": "terms/OT2004/sources/chunk8-comparison/clingman_ZD.txt",
+    "characters": 28043
+  },
+  {
+    "case": "clingman",
+    "url": "https://www.law.cornell.edu/supct/html/04-37.ZO.html",
+    "file": "terms/OT2004/sources/chunk8-comparison/clingman_ZO.txt",
+    "characters": 30343
+  },
+  {
+    "case": "clingman",
+    "url": "https://www.law.cornell.edu/supct/html/04-37.ZS.html",
+    "file": "terms/OT2004/sources/chunk8-comparison/clingman_ZS.txt",
+    "characters": 9364
+  },
+  {
+    "case": "deck",
+    "url": "https://www.law.cornell.edu/supct/html/04-5293.ZD.html",
+    "file": "terms/OT2004/sources/chunk8-comparison/deck_ZD.txt",
+    "characters": 51820
+  },
+  {
+    "case": "deck",
+    "url": "https://www.law.cornell.edu/supct/html/04-5293.ZO.html",
+    "file": "terms/OT2004/sources/chunk8-comparison/deck_ZO.txt",
+    "characters": 23334
+  },
+  {
+    "case": "deck",
+    "url": "https://www.law.cornell.edu/supct/html/04-5293.ZS.html",
+    "file": "terms/OT2004/sources/chunk8-comparison/deck_ZS.txt",
+    "characters": 5633
+  },
+  {
+    "case": "medellin",
+    "url": "https://www.law.cornell.edu/supct/html/04-5928.ZS.html",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "case": "andersen",
+    "url": "https://www.law.cornell.edu/supct/html/04-368.ZO.html",
+    "file": "terms/OT2004/sources/chunk8-comparison/andersen_ZO.txt",
+    "characters": 22628
+  },
+  {
+    "case": "andersen",
+    "url": "https://www.law.cornell.edu/supct/html/04-368.ZS.html",
+    "file": "terms/OT2004/sources/chunk8-comparison/andersen_ZS.txt",
+    "characters": 5710
+  },
+  {
+    "case": "cutter",
+    "url": "https://www.law.cornell.edu/supct/html/03-9877.ZC.html",
+    "file": "terms/OT2004/sources/chunk8-comparison/cutter_ZC.txt",
+    "characters": 14657
+  },
+  {
+    "case": "cutter",
+    "url": "https://www.law.cornell.edu/supct/html/03-9877.ZO.html",
+    "file": "terms/OT2004/sources/chunk8-comparison/cutter_ZO.txt",
+    "characters": 32200
+  },
+  {
+    "case": "cutter",
+    "url": "https://www.law.cornell.edu/supct/html/03-9877.ZS.html",
+    "file": "terms/OT2004/sources/chunk8-comparison/cutter_ZS.txt",
+    "characters": 6648
+  },
+  {
+    "case": "tory",
+    "url": "https://www.law.cornell.edu/supct/html/03-1488.ZD.html",
+    "file": "terms/OT2004/sources/chunk8-comparison/tory_ZD.txt",
+    "characters": 4025
+  },
+  {
+    "case": "tory",
+    "url": "https://www.law.cornell.edu/supct/html/03-1488.ZO.html",
+    "file": "terms/OT2004/sources/chunk8-comparison/tory_ZO.txt",
+    "characters": 7916
+  },
+  {
+    "case": "tory",
+    "url": "https://www.law.cornell.edu/supct/html/03-1488.ZS.html",
+    "file": "terms/OT2004/sources/chunk8-comparison/tory_ZS.txt",
+    "characters": 3357
+  },
+  {
+    "case": "raich",
+    "url": "https://www.law.cornell.edu/supct/html/03-1454.ZC.html",
+    "file": "terms/OT2004/sources/chunk8-comparison/raich_ZC.txt",
+    "characters": 18852
+  },
+  {
+    "case": "raich",
+    "url": "https://www.law.cornell.edu/supct/html/03-1454.ZD.html",
+    "file": "terms/OT2004/sources/chunk8-comparison/raich_ZD.txt",
+    "characters": 32327
+  },
+  {
+    "case": "raich",
+    "url": "https://www.law.cornell.edu/supct/html/03-1454.ZD1.html",
+    "file": "terms/OT2004/sources/chunk8-comparison/raich_ZD1.txt",
+    "characters": 35104
+  },
+  {
+    "case": "raich",
+    "url": "https://www.law.cornell.edu/supct/html/03-1454.ZO.html",
+    "file": "terms/OT2004/sources/chunk8-comparison/raich_ZO.txt",
+    "characters": 63987
+  },
+  {
+    "case": "raich",
+    "url": "https://www.law.cornell.edu/supct/html/03-1454.ZS.html",
+    "file": "terms/OT2004/sources/chunk8-comparison/raich_ZS.txt",
+    "characters": 8281
+  }
+]

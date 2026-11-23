@@ -1,0 +1,2043 @@
+581
+OCTOBER TERM, 2004
+Syllabus
+CLINGMAN, SECRETARY, OKLAHOMA STATE
+ELECTION BOARD, et al. v. BEAVER et al.
+certiorari to the united states court of appeals for
+the tenth circuit
+No. 04–37.
+Argued January 19, 2005—Decided May 23, 2005
+Under Oklahoma’s semiclosed primary law, a political party may invite
+only its own registered members and voters registered as Independents
+to vote in its primary.
+When the Libertarian Party of Oklahoma (LPO)
+notiﬁed the State Election Board it wanted to open its upcoming pri-
+mary to all registered voters regardless of party afﬁliation, the board
+agreed as to Independents, but not as to other parties’ members.
+The
+LPO and several Oklahomans registered as Republicans and Democrats
+then sued for equitable relief, alleging that Oklahoma’s statute unconsti-
+tutionally burdens their First Amendment right to freedom of political
+association.
+The District Court upheld the statute on the grounds that
+it did not severely burden respondents’ associational rights and that
+any burden imposed was justiﬁed by Oklahoma’s asserted interests in
+preserving parties as viable and identiﬁable interest groups and in en-
+suring that primary results accurately reﬂect party members’ voting.
+Reversing, the Tenth Circuit concluded that the statute imposed a se-
+vere burden on respondents’ associational rights and was not narrowly
+tailored to serve a compelling state interest.
+Held: The judgment is reversed, and the case is remanded.
+363 F. 3d 1048, reversed and remanded.
+Justice Thomas delivered the opinion of the Court except as to
+Part II–A, concluding that Oklahoma’s semiclosed primary system does
+not violate the right to freedom of association.
+Any burden it imposes
+is minor and justiﬁed by legitimate state interests.
+Pp. 586–587,
+591–598.
+(a) The First Amendment protects citizens’ right “to band together in
+promoting among the electorate candidates who espouse their political
+views.”
+California Democratic Party v. Jones, 530 U. S. 567, 574.
+Regulations imposing severe burdens on associational rights must be
+narrowly tailored to serve a compelling state interest, but when they
+impose lesser burdens, “a State’s important regulatory interests will
+usually be enough to justify reasonable, nondiscriminatory restrictions.”
+Timmons v. Twin Cities Area New Party, 520 U. S. 351, 358.
+In Tash-
+jian v. Republican Party of Conn., 479 U. S. 208, 224, n. 13, the Court
+
+
+582
+CLINGMAN v. BEAVER
+Syllabus
+left open the question whether a State may prevent a political party
+from inviting registered voters of other parties to vote in its primary.
+Pp. 586–587.
+(b) Oklahoma’s system does not severely burden associational rights.
+The Court disagrees with respondents’ argument that the burden Okla-
+homa imposes is no less severe than the burden at issue in Tashjian,
+and thus the Court must apply strict scrutiny as it did in Tashjian.
+Tashjian applied strict scrutiny without carefully examining the burden
+on associational rights.
+Not every electoral law burdening associational
+rights is subject to strict scrutiny, which is appropriate only if the bur-
+den is severe, e. g., Jones, supra, at 582.
+Requiring voters to register
+with a party before participating in its primary minimally burdens vot-
+ers’ associational rights.
+Moreover, Tashjian is distinguishable.
+Okla-
+homa’s semiclosed primary imposes an even less substantial burden than
+did the Connecticut closed primary at issue in Tashjian.
+Unlike that
+law, Oklahoma’s system does not require Independent voters to afﬁliate
+publicly with a party to vote in its primary, 479 U. S., at 216, n. 7.
+Al-
+though, like the earlier law, Oklahoma’s statute does not allow parties
+to “broaden opportunities for joining . . . by their own act,” but requires
+“intervening action by potential voters,” ibid., this burden is not severe,
+since many electoral regulations require that voters take some action
+to participate in the primary process.
+Such minor barriers between
+voter and party do not compel strict scrutiny.
+See Bullock v. Carter,
+405 U. S. 134, 143.
+To deem ordinary and widespread burdens like
+these severe would subject virtually every electoral regulation to strict
+scrutiny, hamper the ability of States to run efﬁcient and equitable elec-
+tions, and compel federal courts to rewrite state electoral codes.
+The
+Constitution does not require that result.
+Pp. 591–593.
+(c) Oklahoma’s primary advances a number of regulatory interests
+this Court recognizes as important: It “preserv[es] [political] parties as
+viable and identiﬁable interest groups,” Nader v. Schaffer, 417 F. Supp.
+837, 845 (Conn.), aff’d, 429 U. S. 989; enhances parties’ electioneering
+and party-building efforts, 417 F. Supp., at 848; and guards against party
+raiding and “sore loser” candidacies by spurned primary contenders,
+Storer v. Brown, 415 U. S. 724, 735.
+Pp. 593–597.
+(d) The Court declines to consider respondents’ expansion of their
+challenge to include several of Oklahoma’s ballot access and voter regis-
+tration laws.
+Those claims were neither raised nor decided below, see,
+e. g., Cooper Industries, Inc. v. Aviall Services, Inc., 543 U. S. 157, 168–
+169, and respondents have pointed to no unusual circumstances warrant-
+ing their consideration now, see Taylor v. Freeland & Kronz, 503 U. S.
+638, 645–646.
+Pp. 597–598.
+
+
+583
+Cite as: 544 U. S. 581 (2005)
+Syllabus
+Justice Thomas, joined by The Chief Justice, Justice Scalia,
+and Justice Kennedy, concluded in Part II–A that a voter unwilling
+to disafﬁliate from another party in order to vote in the LPO’s primary
+forms little “association” with the LPO—nor the LPO with him.
+See
+Tashjian, supra, at 235.
+But even if Oklahoma’s system burdens an
+associational right, the burden is less severe than others this Court has
+upheld as constitutional.
+The reasons underpinning Timmons, supra,
+show that Oklahoma’s system burdens the LPO only minimally.
+As in
+Timmons, Oklahoma’s law does not regulate the LPO’s internal proc-
+esses, its authority to exclude unwanted members, or its capacity to
+communicate with the public.
+And just as in Timmons, in which a Min-
+nesota law conditioned a party’s ability to nominate the candidate of its
+choice on the candidate’s willingness to disafﬁliate from another party,
+Oklahoma conditions a party’s ability to welcome a voter into its pri-
+mary on the voter’s willingness to dissociate from his current party of
+choice.
+If a party may be prevented from associating with its desired
+standard bearer because he refuses to disafﬁliate from another party, it
+may also be prevented from associating with a voter who refuses to do
+the same.
+Oklahoma’s system imposes an even slighter burden on vot-
+ers than on the LPO.
+Disafﬁliation is not difﬁcult: Other parties’ regis-
+tered members who wish to vote in the LPO primary simply need to
+ﬁle a form changing their registration.
+Voters are not “locked in” to
+an unwanted party afﬁliation, see Kusper v. Pontikes, 414 U. S. 51, 60–
+61, because with only nominal effort they are free to vote in the LPO
+primary.
+Pp. 587–591.
+Justice O’Connor, joined by Justice Breyer except as to Part III,
+agreed with most of the Court’s reasoning, but wrote separately to em-
+phasize two points.
+First, the Libertarian Party of Oklahoma (LPO)
+and voters registered with another party have constitutionally cogniza-
+ble interests in associating with one another through the LPO’s primary,
+and these interests should not be minimized to dispose of this case.
+Second, while the Court is correct that only Oklahoma’s semiclosed pri-
+mary law is properly under review, that standing alone it imposes only
+a modest, nondiscriminatory burden on respondents’ associational
+rights, and that this burden is justiﬁed by the State’s legitimate regula-
+tory interests, there are some grounds for concern that other Oklahoma
+laws governing party recognition and changes in party afﬁliation may
+unreasonably restrict voters’ ability to participate in the LPO’s primary.
+A realistic assessment of regulatory burdens on associational rights
+would, in an appropriate case, require examination of the cumulative
+effects of the State’s overall primary scheme; and any ﬁnding of a more
+severe burden would trigger more probing review of the State’s justiﬁ-
+cations.
+Pp. 598–608.
+
+
+584
+CLINGMAN v. BEAVER
+Opinion of the Court
+Thomas, J., delivered an opinion, which was for the Court except as to
+Part II–A.
+Rehnquist, C. J., and Scalia and Kennedy, JJ., joined that
+opinion in full, and O’Connor and Breyer, JJ., joined except as to Part
+II–A.
+O’Connor, J., ﬁled an opinion concurring in part and concurring in
+the judgment, in which Breyer, J., joined except as to Part III, post,
+p. 598.
+Stevens, J., ﬁled a dissenting opinion, in which Ginsburg, J.,
+joined, and in which Souter, J., joined as to Parts I, II, and III, post,
+p. 608.
+Wellon B. Poe, Jr., Assistant Attorney General of Okla-
+homa, argued the cause for petitioners.
+With him on the
+briefs was W. A. Drew Edmondson, Attorney General.
+James C. Linger argued the cause and ﬁled a brief for
+respondents.*
+Justice Thomas delivered the opinion of the Court, ex-
+cept as to Part II–A.
+Oklahoma has a semiclosed primary system, in which a
+political party may invite only its own party members and
+voters registered as Independents to vote in the party’s pri-
+mary.
+The Court of Appeals held that this system violates
+the right to freedom of association of the Libertarian Party
+of Oklahoma (LPO) and several Oklahomans who are regis-
+tered members of the Republican and Democratic Parties.
+We hold that it does not.
+I
+Oklahoma’s election laws provide that only registered
+members of a political party may vote in the party’s primary,
+*A brief of amici curiae urging reversal was ﬁled for the State of South
+Dakota et al. by Lawrence E. Long, Attorney General of South Dakota,
+Craig M. Eichstadt, Deputy Attorney General, and Gene C. Schaerr, and
+by the Attorneys General for their respective States as follows: J. Joseph
+Curran, Jr., of Maryland, Thomas F. Reilly of Massachusetts, Kelly A.
+Ayotte of New Hampshire, Patricia A. Madrid of New Mexico, Roy
+Cooper of North Carolina, Mark Shurtleff of Utah, and Darrell V. Mc-
+Graw, Jr., of West Virginia.
+A brief of amicus curiae urging afﬁrmance was ﬁled for the Coalition
+for Free and Open Elections by Richard Shepard.
+
+
+585
+Cite as: 544 U. S. 581 (2005)
+Opinion of the Court
+see Okla. Stat. Ann., Tit. 26, §1–104(A) (West 1997), unless
+the party opens its primary to registered Independents as
+well, see §1–104(B)(1).
+In May 2000, the LPO notiﬁed the
+secretary of the Oklahoma State Election Board that it
+wanted to open its upcoming primary to all registered Okla-
+homa voters, without regard to their party afﬁliation.
+See
+§1–104(B)(4) (requiring notice when a party opens its pri-
+mary to Independents).
+Pursuant to §1–104, the secretary
+agreed as to Independent voters, but not as to voters regis-
+tered with other political parties.
+The LPO and several Re-
+publican and Democratic voters then sued for declaratory
+and injunctive relief in the United States District Court for
+the Western District of Oklahoma, alleging that Oklahoma’s
+semiclosed primary law unconstitutionally burdens their
+First Amendment right to freedom of political association.
+App. 20.
+After a hearing, the District Court declined to enjoin
+Oklahoma’s semiclosed primary law for the 2000 primaries.
+After a 2-day bench trial following the primary election, the
+District Court found that Oklahoma’s semiclosed primary
+system did not severely burden respondents’ associational
+rights.
+Further, it found that any burden imposed by the
+system was justiﬁed by Oklahoma’s asserted interest in “pre-
+serving the political parties as viable and identiﬁable interest
+groups, [and] insuring that the results of a primary election
+. . . accurately reﬂect the voting of the party members.”
+Memorandum Opinion, Case No. CIV–00–1071–F (WD Okla.,
+Jan. 24, 2003), App. to Pet. for Cert. 55–56 (hereinafter Mem-
+orandum Opinion) (internal quotation marks omitted).
+The
+District Court therefore upheld the semiclosed primary stat-
+ute as constitutional.
+Id., at 72–73.
+On appeal, the Court of Appeals for the Tenth Circuit re-
+versed the judgment of the District Court.
+The Court of
+Appeals concluded that the State’s semiclosed primary stat-
+ute imposed a severe burden on respondents’ associational
+rights, and thus was constitutional only if the statute was
+
+
+586
+CLINGMAN v. BEAVER
+Opinion of the Court
+narrowly tailored to serve a compelling state interest.
+363
+F. 3d 1048, 1057–1058 (2004).
+Finding none of Oklahoma’s
+interests compelling, the Court of Appeals enjoined Okla-
+homa from using its semiclosed primary law.
+Id., at 1060–
+1061.
+Because the Court of Appeals’ decision not only pro-
+hibits Oklahoma from using its primary system but also casts
+doubt on the semiclosed primary laws of 23 other States,1 we
+granted certiorari.
+542 U. S. 965 (2004).
+II
+The Constitution grants States “broad power to prescribe
+the ‘Times, Places and Manner of holding Elections for Sena-
+tors and Representatives,’ Art. I, §4, cl. 1, which power is
+matched by state control over the election process for state
+ofﬁces.”
+Tashjian v. Republican Party of Conn., 479 U. S.
+208, 217 (1986); Timmons v. Twin Cities Area New Party,
+520 U. S. 351, 358 (1997) (quoting Tashjian).
+We have held
+that the First Amendment, among other things, protects the
+right of citizens “to band together in promoting among the
+electorate candidates who espouse their political views.”
+California Democratic Party v. Jones, 530 U. S. 567, 574
+(2000).
+Regulations that impose severe burdens on associa-
+tional rights must be narrowly tailored to serve a compelling
+state interest.
+Timmons, 520 U. S., at 358.
+However,
+1 Ariz. Rev. Stat. Ann. §16–241(A) (West 1996); Cal. Elec. Code Ann.
+§13102 (West 2003); Colo. Rev. Stat. §1–3–101(1) (Lexis 2004); Conn. Gen.
+Stat. §9–431(a) (2005); Del. Code Ann., Tit. 15, §3110 (Lexis 1999); Fla.
+Stat. §101.021 (2003); Iowa Code §§43.38, 43.42 (2003); Kan. Stat. Ann.
+§25–4502 (2000); Ky. Rev. Stat. Ann. §116.055 (Lexis 2004); La. Stat. Ann.
+§18:1280.25 (West Supp. 2005); Mass. Gen. Laws Ann., ch. 53, §37 (West
+Supp. 2005); Neb. Rev. Stat. §32–312 (2004); Nev. Rev. Stat. §293.287
+(2003); N. H. Rev. Stat. Ann. §659:14 (West 1996); N. J. Stat. Ann. §19:23–
+45.1 (West Supp. 2004); N. M. Stat. Ann. §1–12–7 (1995); N. Y. Elec. Law
+Ann. §1–104.9 (West 2004); N. C. Gen. Stat. §163–59 (Lexis 2003); Pa. Stat.
+Ann., Tit. 25, §292 (Purdon 1994); R. I. Gen. Laws §§17–9.1–24, 17–15–24
+(Lexis 2003); S. D. Codiﬁed Laws §12–6–26 (West 2004); W. Va. Code §3–
+1–35 (Lexis 2002); Wyo. Stat. §22–5–212 (Lexis 1977–2003).
+
+
+587
+Cite as: 544 U. S. 581 (2005)
+Opinion of Thomas, J.
+when regulations impose lesser burdens, “a State’s impor-
+tant regulatory interests will usually be enough to justify
+reasonable, nondiscriminatory restrictions.”
+Ibid. (internal
+quotation marks omitted).
+In Tashjian, this Court struck down, as inconsistent with
+the First Amendment, a closed primary system that pre-
+vented a political party from inviting Independent voters to
+vote in the party’s primary.
+479 U. S., at 225.
+This case
+presents a question that Tashjian left open: whether a State
+may prevent a political party from inviting registered voters
+of other parties to vote in its primary.
+Id., at 224, n. 13.
+As Tashjian acknowledged, opening a party’s primary “to
+all voters, including members of other parties, . . . raise[s]
+a different combination of considerations.”
+Ibid.
+We are
+persuaded that any burden Oklahoma’s semiclosed primary
+imposes is minor and justiﬁed by legitimate state interests.
+A
+At the outset, we note that Oklahoma’s semiclosed primary
+system is unlike other laws this Court has held to infringe
+associational rights.
+Oklahoma has not sought through its
+electoral system to discover the names of the LPO’s mem-
+bers, see NAACP v. Alabama ex rel. Patterson, 357 U. S.
+449, 451 (1958); to interfere with the LPO by restricting ac-
+tivities central to its purpose, see NAACP v. Claiborne
+Hardware Co., 458 U. S. 886, 895 (1982); NAACP v. Button,
+371 U. S. 415, 423–426 (1963); to disqualify the LPO from
+public beneﬁts or privileges, see Keyishian v. Board of Re-
+gents of Univ. of State of N. Y., 385 U. S. 589, 595–596 (1967);
+or to compel the LPO’s association with unwanted members
+or voters, see Jones, supra, at 577.
+The LPO is free to can-
+vass the electorate, enroll or exclude potential members,
+nominate the candidate of its choice, and engage in the same
+electoral activities as every other political party in Okla-
+homa.
+Oklahoma merely prohibits the LPO from leaving
+the selection of its candidates to people who are members of
+
+
+588
+CLINGMAN v. BEAVER
+Opinion of Thomas, J.
+another political party.
+Nothing in §1–104 prevents mem-
+bers of other parties from switching their registration to the
+LPO or to Independent status.2
+The question is whether
+the Constitution requires that voters who are registered in
+other parties be allowed to vote in the LPO’s primary.
+In other words, the Republican and Democratic voters who
+have brought this action do not want to associate with the
+LPO, at least not in any formal sense.
+They wish to remain
+registered with the Republican, Democratic, or Reform par-
+ties, and yet to assist in selecting the Libertarian Party’s
+candidates for the general election.
+Their interest is in cast-
+ing a vote for a Libertarian candidate in a particular primary
+election,3 rather than in banding together with fellow citizens
+committed to the LPO’s political goals and ideas.
+See Jones,
+supra, at 573–574, n. 5 (“As for the associational ‘interest’ in
+selecting the candidate of a group to which one does not be-
+long, that falls far short of a constitutional right, if indeed it
+2 Respondents argue, for the ﬁrst time before this Court, that Oklahoma
+election statutes other than §1–104 make it difﬁcult for voters to disafﬁli-
+ate from their parties of ﬁrst choice and register as Libertarians or Inde-
+pendents (either of which would allow them to vote in the LPO primary).
+Brief for Respondents 13–19.
+For reasons we explain fully in Part III,
+we decline to consider this aspect of respondents’ challenge.
+See infra,
+at 597–598.
+3 Respondents who are members of the Republican and Democratic Par-
+ties alleged before the District Court that they wished to have the right
+to participate in the 2000 LPO primary.
+See Amended Complaint 4, Rec-
+ord Doc. 23; Complaint 3, id., Doc. 1.
+The only evidence respondents sub-
+mitted on this point was a pair of afﬁdavits from respondents Mary Bur-
+nett (a registered Republican) and Floyd Turner (a registered Democrat),
+asserting that each might have wished to vote in the 2000 LPO primary.
+See Plaintiffs’ Motion for Preliminary Injunction, id., Doc. 9 (attached af-
+ﬁdavits).
+Based on Turner’s afﬁdavit, the parties stipulated that there
+were “a number of voters” “registered in political parties other than the
+[LPO] who wish[ed] to vote” in the 2000 LPO primary.
+See Supplemental
+Joint Stipulations of Fact ¶32, id., Doc. 17.
+Respondents have never
+claimed that they are prevented from associating with the LPO in any
+way, except that they are unable to vote in the LPO’s primary and run-
+off elections.
+
+
+589
+Cite as: 544 U. S. 581 (2005)
+Opinion of Thomas, J.
+can even fairly be characterized as an interest”).
+And the
+LPO is happy to have their votes, if not their membership
+on the party rolls.
+However, a voter who is unwilling to disafﬁliate from an-
+other party to vote in the LPO’s primary forms little “associ-
+ation” with the LPO—nor the LPO with him.
+See Tash-
+jian, supra, at 235 (Scalia, J., dissenting).
+That same voter
+might wish to participate in numerous party primaries, or
+cast ballots for several candidates, in any given race.
+The
+issue is not “dual associations,” post, at 601 (O’Connor, J.,
+concurring in part and concurring in judgment), but seem-
+ingly boundless ones.
+“If the concept of freedom of asso-
+ciation is extended” to a voter’s every desire at the ballot
+box, “it ceases to be of any analytic use.”
+Tashjian, supra,
+at 235 (Scalia, J., dissenting); cf. Democratic Party of
+United States v. Wisconsin ex rel. La Follette, 450 U. S. 107,
+130 (1981) (Powell, J., dissenting) (“[Not] every conﬂict be-
+tween state law and party rules concerning participation in
+the nomination process creates a burden on associational
+rights”).
+But even if Oklahoma’s semiclosed primary system bur-
+dens an associational right, the burden is less severe than
+others this Court has upheld as constitutional.
+For in-
+stance, in Timmons, we considered a Minnesota election law
+prohibiting multiparty, or “fusion,” candidacies in which a
+candidate appears on the ballot as the nominee of more than
+one party.
+520 U. S., at 353–354.
+Minnesota’s law pre-
+vented the New Party, a minor party under state law, from
+putting forward the same candidate as a major party.
+The
+New Party challenged the law as unconstitutionally burden-
+ing its associational rights.
+Id., at 354–355.
+This Court
+concluded that the burdens imposed by Minnesota’s law—
+“though not trivial—[were] not severe.”
+Id., at 363.
+The burdens were not severe because the New Party and
+its members remained free to govern themselves internally
+and to communicate with the public as they wished.
+Ibid.
+
+
+590
+CLINGMAN v. BEAVER
+Opinion of Thomas, J.
+Minnesota had neither regulated the New Party’s internal
+decisionmaking process, nor compelled it to associate with
+voters of any political persuasion, see Jones, 530 U. S., at 577.
+The New Party and its members simply could not nominate
+as their candidate any of “those few individuals who both
+have already agreed to be another party’s candidate and also,
+if forced to choose, themselves prefer that other party.”
+Timmons, supra, at 363.
+The same reasons underpinning our decision in Timmons
+show that Oklahoma’s semiclosed primary system burdens
+the LPO only minimally.
+As in Timmons, Oklahoma’s law
+does not regulate the LPO’s internal processes, its authority
+to exclude unwanted members, or its capacity to communi-
+cate with the public.
+And just as in Timmons, in which
+Minnesota conditioned the party’s ability to nominate the
+candidate of its choice on the candidate’s willingness to disaf-
+ﬁliate from another political party, Oklahoma conditions the
+party’s ability to welcome a voter into its primary on the
+voter’s willingness to dissociate from his current party of
+choice.
+If anything, it is “[t]he moment of choosing the par-
+ty’s nominee” that matters far more, Jones, 530 U. S., at 575,
+for that is “ ‘the crucial juncture at which the appeal to com-
+mon principles may be translated into concerted action, and
+hence to political power in the community,’ ” ibid. (quoting
+Tashjian, 479 U. S., at 216).
+If a party may be prevented
+from associating with the candidate of its choice—its desired
+“ ‘standard bearer,’ ” Timmons, supra, at 359; Jones, supra,
+at 575—because that candidate refuses to disafﬁliate from
+another political party, a party may also be prevented from
+associating with a voter who refuses to do the same.
+Oklahoma’s semiclosed primary system imposes an even
+slighter burden on voters than on the LPO.
+Disafﬁliation is
+not difﬁcult: In general, “anyone can ‘join’ a political party
+merely by asking for the appropriate ballot at the appro-
+priate time or (at most) by registering within a state-deﬁned
+reasonable period of time before an election.”
+Jones, supra,
+
+
+591
+Cite as: 544 U. S. 581 (2005)
+Opinion of the Court
+at 596 (Stevens, J., dissenting).
+In Oklahoma, registered
+members of the Republican, Democratic, and Reform Parties
+who wish to vote in the LPO primary simply need to ﬁle a
+form with the county election board secretary to change
+their registration.
+See Okla. Stat. Ann., Tit. 26, §4–119
+(West Supp. 2005).
+Voters are not “locked in” to an un-
+wanted party afﬁliation, see Kusper v. Pontikes, 414 U. S. 51,
+60–61 (1973), because with only nominal effort they are free
+to vote in the LPO primary.
+For this reason, too, the regis-
+tration requirement does not unduly hinder the LPO from
+associating with members of other parties.
+To attract mem-
+bers of other parties, the LPO need only persuade voters to
+make the minimal effort necessary to switch parties.
+B
+Respondents argue that this case is no different from
+Tashjian.
+According to respondents, the burden imposed
+by Oklahoma’s semiclosed primary system is no less severe
+than the burden at issue in Tashjian, and hence we must
+apply strict scrutiny as we did in Tashjian.
+We disagree.
+At issue in Tashjian was a Connecticut election statute that
+required voters to register with a political party before par-
+ticipating in its primary.
+479 U. S., at 210–211.
+The State’s
+Republican Party, having adopted a rule that allowed Inde-
+pendent voters to participate in its primary, contended that
+Connecticut’s closed primary infringed its right to associate
+with Independent voters.
+Ibid.
+Applying strict scrutiny,
+this Court found that the interests Connecticut advanced to
+justify its ban were not compelling, and thus that the State
+could not constitutionally prevent the Republican Party from
+inviting into its primary willing Independent voters.
+Id.,
+at 217–225.
+Respondents’ reliance on Tashjian is unavailing.
+As an
+initial matter, Tashjian applied strict scrutiny with little dis-
+cussion of the magnitude of the burdens imposed by Con-
+necticut’s closed primary on parties’ and voters’ associational
+
+
+592
+CLINGMAN v. BEAVER
+Opinion of the Court
+rights.
+Post, at 605 (O’Connor, J., concurring in part and
+concurring in judgment).
+But not every electoral law that
+burdens associational rights is subject to strict scrutiny.
+See, e. g., Nader v. Schaffer, 417 F. Supp. 837, 849 (Conn.)
+(“There must be more than a minimal infringement on the
+rights to vote and of association . . . before strict judicial
+review is warranted”), aff’d, 429 U. S. 989 (1976).
+Instead,
+as our cases since Tashjian have clariﬁed, strict scrutiny is
+appropriate only if the burden is severe.
+Jones, supra, at
+582; Timmons, 520 U. S., at 358.
+In Tashjian itself, Inde-
+pendent voters could join the Connecticut Republican Party
+as late as the day before the primary.
+479 U. S., at 219.
+As
+explained above, supra, at 590–591, requiring voters to reg-
+ister with a party prior to participating in the party’s pri-
+mary minimally burdens voters’ associational rights.
+Nevertheless, Tashjian is distinguishable.
+Oklahoma’s
+semiclosed primary imposes an even less substantial burden
+than did the Connecticut closed primary at issue in Tashjian.
+In Tashjian, this Court identiﬁed two ways in which Con-
+necticut’s closed primary limited citizens’ freedom of political
+association.
+The ﬁrst and most important was that it re-
+quired Independent voters to afﬁliate publicly with a party
+to vote in its primary.
+479 U. S., at 216, n. 7.
+That is not
+true in this case.
+At issue here are voters who have already
+afﬁliated publicly with one of Oklahoma’s political parties.
+These voters need not register as Libertarians to vote in the
+LPO’s primary; they need only declare themselves Independ-
+ents, which would leave them free to participate in any party
+primary that is open to registered Independents.
+See Okla.
+Stat. Ann., Tit. 26, §1–104(B)(1) (West 1997).
+The second and less important burden imposed by Con-
+necticut’s closed primary system was that political parties
+could not “broaden opportunities for joining . . . by their own
+act, without any intervening action by potential voters.”
+Tashjian, 479 U. S., at 216, n. 7.
+Voters also had to act by
+registering themselves in a particular party.
+Ibid.
+That is
+
+
+593
+Cite as: 544 U. S. 581 (2005)
+Opinion of the Court
+equally true of Oklahoma’s semiclosed primary system: Vot-
+ers must register as Libertarians or Independents to partici-
+pate in the LPO’s primary.
+However, Tashjian did not char-
+acterize this burden alone as severe, and with good reason.
+Many electoral regulations, including voter registration gen-
+erally, require that voters take some action to participate in
+the primary process.
+See, e. g., Rosario v. Rockefeller, 410
+U. S. 752, 760–762 (1973) (upholding requirement that voters
+change party registration 11 months in advance of the pri-
+mary election).
+Election laws invariably “affec[t]—at least
+to some degree—the individual’s right to vote and his right
+to associate with others for political ends.”
+Anderson v.
+Celebrezze, 460 U. S. 780, 788 (1983).
+These minor barriers between voter and party do not com-
+pel strict scrutiny.
+See Bullock v. Carter, 405 U. S. 134, 143
+(1972).
+To deem ordinary and widespread burdens like
+these severe would subject virtually every electoral regula-
+tion to strict scrutiny, hamper the ability of States to run
+efﬁcient and equitable elections, and compel federal courts
+to rewrite state electoral codes.
+The Constitution does not
+require that result, for it is beyond question “that States
+may, and inevitably must, enact reasonable regulations of
+parties, elections, and ballots to reduce election- and
+campaign-related disorder.”
+Timmons, supra, at 358;
+Storer v. Brown, 415 U. S. 724, 730 (1974).
+Oklahoma’s
+semiclosed primary system does not severely burden the as-
+sociational rights of the State’s citizenry.
+C
+When a state electoral provision places no heavy burden
+on associational rights, “a State’s important regulatory inter-
+ests will usually be enough to justify reasonable, nondiscrim-
+inatory restrictions.”
+Timmons, supra, at 358 (internal
+quotation marks omitted); Anderson, supra, at 788.
+Here,
+Oklahoma’s semiclosed primary advances a number of regu-
+latory interests that this Court recognizes as important: It
+
+
+594
+CLINGMAN v. BEAVER
+Opinion of the Court
+“preserv[es] [political] parties as viable and identiﬁable inter-
+est groups,” Nader, 417 F. Supp., at 845; enhances parties’
+electioneering and party-building efforts, id., at 848; and
+guards against party raiding and “sore loser” candidacies by
+spurned primary contenders, Storer, supra, at 735.
+First, as Oklahoma asserts, its semiclosed primary “pre-
+serv[es] the political parties as viable and identiﬁable inter-
+est groups, insuring that the results of a primary election,
+in a broad sense, accurately reﬂec[t] the voting of the party
+members.”
+Amended and Supplemental Trial Brief of De-
+fendants 10, Record Doc. 63 (quoting without attribution
+Nader, supra, at 845).
+The LPO wishes to open its primary
+to registered Republicans and Democrats, who may well vote
+in numbers that dwarf the roughly 300 registered LPO vot-
+ers in Oklahoma.
+See Memorandum Opinion 31–32 (at least
+95% of voters in LPO’s 1996 primary were independents, not
+Libertarians).
+If the LPO is permitted to open its primary
+to all registered voters regardless of party afﬁliation, the
+candidate who emerges from the LPO primary may be “un-
+concerned with, if not . . . hostile to,” the political preferences
+of the majority of the LPO’s members.
+Nader, supra, at
+846.
+It does not matter that the LPO is willing to risk the
+surrender of its identity in exchange for electoral success.
+Oklahoma’s interest is independent and concerns the integ-
+rity of its primary system.
+The State wants to “avoid pri-
+mary election outcomes which would tend to confuse or mis-
+lead the general voting population to the extent [it] relies on
+party labels as representative of certain ideologies.”
+Brief
+for Petitioners 12 (quoting without attribution Nader, supra,
+at 845); Eu v. San Francisco County Democratic Central
+Comm., 489 U. S. 214, 228 (1989).
+Moreover, this Court has found that “ ‘[i]n facilitating the
+effective operation of [a] democratic government, a state
+might reasonably classify voters or candidates according to
+political afﬁliations.’ ”
+Nader, supra, at 845–846 (quoting
+Ray v. Blair, 343 U. S. 214, 226, n. 14 (1952)).
+But for that
+
+
+595
+Cite as: 544 U. S. 581 (2005)
+Opinion of the Court
+classiﬁcation to mean much, Oklahoma must be allowed to
+limit voters’ ability to roam among parties’ primaries.
+The
+purpose of party registration is to provide “a minimal dem-
+onstration by the voter that he has some ‘commitment’ to the
+party in whose primary he wishes to participate.”
+Nader,
+supra, at 847.
+That commitment is lessened if party mem-
+bers may retain their registration in one party while voting
+in another party’s primary.
+Opening the LPO’s primary to
+all voters not only would render the LPO’s imprimatur an
+unreliable index of its candidate’s actual political philosophy,
+but it also “would make registered party afﬁliations signiﬁ-
+cantly less meaningful in the Oklahoma primary election sys-
+tem.”
+Memorandum Opinion 59.
+Oklahoma reasonably has
+concluded that opening the LPO’s primary to all voters re-
+gardless of party afﬁliation would undermine the crucial role
+of political parties in the primary process.
+Cf. Jones, 530
+U. S., at 574.
+Second, Oklahoma’s semiclosed primary system, by retain-
+ing the importance of party afﬁliation, aids in parties’ elec-
+tioneering and party-building efforts.
+“It is common expe-
+rience that direct solicitation of party members—by mail,
+telephone, or face-to-face contact, and by the candidates
+themselves or by their active supporters—is part of any pri-
+mary election campaign.”
+Nader, supra, at 848.
+Yet par-
+ties’ voter turnout efforts depend in large part on accurate
+voter registration rolls.
+See, e. g., Council of Alternative
+Political Parties v. State Div. of Elections, 344 N. J. Super.
+225, 231–232, 781 A. 2d 1041, 1045 (2001) (“It is undisputed
+that the voter registration lists, with voter afﬁliation infor-
+mation, . . . provide essential information to the [party state
+committees] for other campaign and party-building activities,
+including canvassing and fundraising”).
+When voters are no longer required to disafﬁliate before
+participating in other parties’ primaries, voter registration
+rolls cease to be an accurate reﬂection of voters’ political
+preferences.
+And without registration rolls that accurately
+
+
+596
+CLINGMAN v. BEAVER
+Opinion of the Court
+reﬂect likely or potential primary voters, parties risk ex-
+pending precious resources to turn out party members who
+may have decided to cast their votes elsewhere.
+See Brief
+for State of South Dakota et al. as Amici Curiae 20–21.
+If
+encouraging citizens to vote is an important state interest,
+see Jones, supra, at 587 (Kennedy, J., concurring), then
+Oklahoma is entitled to protect parties’ ability to plan their
+primaries for a stable group of voters.
+Tr. of Oral Arg. 26.
+Third, Oklahoma has an interest in preventing party raid-
+ing, or “the organized switching of blocs of voters from one
+party to another in order to manipulate the outcome of the
+other party’s primary election.”
+Anderson, 460 U. S., at
+788–789, n. 9; Jones, supra, at 572.
+For example, if the out-
+come of the Democratic Party primary were not in doubt,
+Democrats might vote in the LPO primary for the candidate
+most likely to siphon off votes from the Republican candidate
+in the general election.
+Or a Democratic primary contender
+who senses defeat might launch a “sore loser” candidacy by
+defecting to the LPO primary, taking with him loyal Demo-
+cratic voters, and thus undermining the Democratic Party in
+the general election.4
+Storer, 415 U. S., at 735.
+Oklahoma
+has an interest in “temper[ing] the destabilizing effects” of
+precisely this sort of “party splintering and excessive fac-
+4 To be most effective, a spurned candidate would have to defect in ad-
+vance of the primary election.
+Before a candidate may ﬁle for nomination
+by a political party to any state or county ofﬁce in Oklahoma, generally
+the candidate must have been a registered member of the party for six
+months prior to ﬁling.
+See Okla. Stat. Ann., Tit. 26, §5–105(A) (West
+1997).
+However, the registration period is only 15 days for candidates
+from parties, like the LPO, whose lack of electoral support means that
+they must regularly petition to be recognized as political parties.
+Ibid.;
+see also §§1–108, 1–109 (West Supp. 2005) (Oklahoma’s ballot access re-
+quirements).
+But even though candidates may defect up to two weeks
+before the primary, registered Republican and Democratic voters may not
+change their party afﬁliation after June 1, roughly eight weeks before the
+primary.
+See §4–119; see also §1–102 (setting primary on last Tuesday
+of July).
+
+
+597
+Cite as: 544 U. S. 581 (2005)
+Opinion of the Court
+tionalism.”
+Timmons, 520 U. S., at 367; cf. Davis v. Ban-
+demer, 478 U. S. 109, 144–145 (1986) (O’Connor, J., concur-
+ring in judgment).
+Oklahoma’s semiclosed primary system
+serves that interest by discouraging voters from temporarily
+defecting from another party to vote in the LPO primary.
+While the State’s interest will not justify “unreasonably ex-
+clusionary restrictions,” Timmons, 520 U. S., at 367, we have
+“repeatedly upheld reasonable, politically neutral regula-
+tions” like Oklahoma’s semiclosed primary law, id., at 369
+(internal quotation marks omitted).
+III
+Beyond their challenge to Oklahoma’s semiclosed primary
+law, §1–104, respondents have expanded their challenge be-
+fore this Court to include other Oklahoma election laws.
+Respondents contend that several of the State’s ballot access
+and voter registration laws, taken together, severely burden
+their associational rights by effectively preventing them
+from changing their party afﬁliations in advance of a primary
+election.
+Brief for Respondents 15–18 (discussing the joint
+operation of Okla. Stat. Ann., Tit. 26, §§1–108, 1–109, 1–110,
+4–112, and 4–119 (West Supp. 2005)).
+Though the LPO has unsuccessfully challenged one of
+these provisions before, see Rainbow Coalition of Okla. v.
+Oklahoma State Election Bd., 844 F. 2d 740 (CA10 1988)
+(rejecting First Amendment challenge by LPO and other po-
+litical parties to Oklahoma’s ballot access provision, §1–108
+(West 1981 and Supp. 1987)), respondents raise this argu-
+ment for the ﬁrst time in their brief on the merits to this
+Court.
+Before the District Court and the Court of Appeals,
+the only associational burden of which respondents com-
+plained was that imposed by §1–104 (West 1997), i. e., the
+need to disafﬁliate from one party in order to vote in another
+party’s primary.
+See, e. g., Appellants’ Opening Brief in
+No. 03–6058 (CA10), pp. 5, 8–10, 30 (challenging only §1–104
+as applied to respondents); Plaintiffs’ Amended Trial Brief
+
+
+598
+CLINGMAN v. BEAVER
+Opinion of O’Connor, J.
+9–25, Record Doc. 65 (same); Amended Complaint 6–9, id.,
+Doc. 23 (same).
+As a result, there is virtually no evidence
+in the record on how other electoral regulations operate in
+tandem with §1–104, whether these other laws actually bur-
+den respondents’ associational rights, and whether these
+laws advance important or even compelling state interests.
+We ordinarily do not consider claims neither raised nor de-
+cided below, Cooper Industries, Inc. v. Aviall Services, Inc.,
+543 U. S. 157, 168–169 (2004) (citing Adarand Constructors,
+Inc. v. Mineta, 534 U. S. 103, 109 (2001) (per curiam)), and
+respondents have pointed to no unusual circumstances that
+would warrant considering other portions of Oklahoma’s
+electoral code this late in the day, see Taylor v. Freeland &
+Kronz, 503 U. S. 638, 645–646 (1992).
+We therefore decline
+to consider this aspect of their challenge.
+*
+*
+*
+Oklahoma remains free to allow the LPO to invite regis-
+tered voters of other parties to vote in its primary.
+But the
+Constitution leaves that choice to the democratic process, not
+to the courts.
+The judgment of the Court of Appeals is re-
+versed, and the case is remanded for further proceedings.
+It is so ordered.
+Justice O’Connor, with whom Justice Breyer joins ex-
+cept as to Part III, concurring in part and concurring in
+the judgment.
+I join the Court’s opinion except for Part II–A.
+Although
+I agree with most of the Court’s reasoning, I write sepa-
+rately to emphasize two points.
+First, I think respondents’
+claim implicates important associational interests, and I see
+no reason to minimize those interests to dispose of this case.
+Second, I agree with the Court that only Oklahoma’s semi-
+closed primary law is properly before us, that standing alone
+it imposes only a modest, nondiscriminatory burden on re-
+spondents’ associational rights, and that this burden is justi-
+
+
+599
+Cite as: 544 U. S. 581 (2005)
+Opinion of O’Connor, J.
+ﬁed by the State’s legitimate regulatory interests.
+I note,
+however, that there are some grounds for concern that other
+state laws may unreasonably restrict voters’ ability to
+change party registration so as to participate in the Lib-
+ertarian Party of Oklahoma’s (LPO) primary.
+A realistic
+assessment of regulatory burdens on associational rights
+would, in an appropriate case, require examination of the
+cumulative effects of the State’s overall scheme governing
+primary elections; and any ﬁnding of a more severe burden
+would trigger more probing review of the justiﬁcations of-
+fered by the State.
+I
+Nearly every State in the Nation now mandates that polit-
+ical parties select their candidates for national or statewide
+ofﬁce by means of primary elections.
+See Galderisi & Ezra,
+Congressional Primaries in Historical and Theoretical Con-
+text, in Congressional Primaries and the Politics of Repre-
+sentation 11, 17, and n. 34 (P. Galderisi, M. Ezra, & M. Lyons
+eds. 2001).
+Primaries constitute both a “ ‘crucial juncture’ ”
+in the electoral process, California Democratic Party v.
+Jones, 530 U. S. 567, 575 (2000) (quoting Tashjian v. Republi-
+can Party of Conn., 479 U. S. 208, 216 (1986)), and a vital
+forum for expressive association among voters and political
+parties, see Kusper v. Pontikes, 414 U. S. 51, 58 (1973) (“[A]
+basic function of a political party is to select the candidates
+for public ofﬁce to be offered to the voters at general elec-
+tions[, and a] prime objective of most voters in associating
+themselves with a particular party must surely be to gain a
+voice in that selection process”).
+It is here that the parties
+invite voters to join in selecting their standard bearers.
+The outcome is pivotal, of course, for it dictates the range of
+choices available at—and often the presumptive winner of—
+the general election.
+“No right is more precious in a free country than that of
+having a voice in the election of those who make the laws
+under which, as good citizens, we must live,” Wesberry v.
+
+
+600
+CLINGMAN v. BEAVER
+Opinion of O’Connor, J.
+Sanders, 376 U. S. 1, 17 (1964), and “[t]he right to associate
+with the political party of one’s choice is an integral part of
+this basic constitutional freedom,” Kusper, supra, at 57.
+The Court has repeatedly reafﬁrmed that the First and Four-
+teenth Amendments protect the rights of voters and parties
+to associate through primary elections.
+See, e. g., Califor-
+nia Democratic Party, supra, at 574–575; Tashjian, supra,
+at 214; Kusper, supra, at 56–57.
+Indeed, constitutional pro-
+tection of associational rights is especially important in this
+context because the aggregation of votes is, in some sense,
+the essence of the electoral process.
+To have a meaningful
+voice in this process, the individual voter must join together
+with like-minded others at the polls.
+And the choice of who
+will participate in selecting a party’s candidate obviously
+plays a critical role in determining both the party’s message
+and its prospects of success in the electoral contest.
+See
+California Democratic Party, supra, at 575; see also Demo-
+cratic Party of United States v. Wisconsin ex rel. La Fol-
+lette, 450 U. S. 107, 122 (1981) (“[T]he freedom to associate
+for the ‘common advancement of political beliefs’ necessarily
+presupposes the freedom to identify the people who consti-
+tute the association” (quoting Kusper, supra, at 56)).
+The plurality questions whether the LPO and voters regis-
+tered with another party have any constitutionally cogniza-
+ble interest in associating with one another through the
+LPO’s primary.
+See ante, at 588–589.
+Its doubts on this
+point appear to stem from two implicit premises: ﬁrst, that
+a voter forms a cognizable association with a political party
+only by registering with that party; and second, that a voter
+can only form a cognizable association with one party at a
+time.
+Neither of these premises is sound, in my view.
+As
+to the ﬁrst, registration with a political party surely may
+signify an important personal commitment, which may be
+accompanied by faithful voting and even activism beyond the
+polls.
+But for many voters, registration serves principally
+as a mandatory (and perhaps even ministerial) prerequisite
+
+
+601
+Cite as: 544 U. S. 581 (2005)
+Opinion of O’Connor, J.
+to participation in the party’s primaries.
+The act of casting
+a ballot in a given primary may, for both the voter and the
+party, constitute a form of association that is at least as im-
+portant as the act of registering.
+See La Follette, supra, at
+130, n. 2 (Powell, J., dissenting) (“[T]he act of voting in the
+Democratic primary fairly can be described as an act of afﬁl-
+iation with the Democratic Party”).
+The fact that voting is
+episodic does not, in my judgment, undermine its associa-
+tional signiﬁcance; it simply reﬂects the special character of
+the electoral process, which allows citizens to join together
+at regular intervals to shape government through the choice
+of public ofﬁcials.
+As to the question of dual associations, I fail to see why
+registration with one party should negate a voter’s First
+Amendment interest in associating with a second party.
+We
+surely would not say, for instance, that a registered Republi-
+can or Democrat has no protected interest in associating with
+the Libertarian Party by attending meetings or making po-
+litical contributions.
+The validity of voters’ and parties’ in-
+terests in dual associations seems particularly clear where
+minor parties are concerned.
+For example, a voter may
+have a longstanding afﬁliation with a major party that she
+wishes to maintain, but she may nevertheless have a sub-
+stantial interest in associating with a minor party during
+particular election cycles or in elections for particular ofﬁces.
+The voter’s refusal to disafﬁliate from the major party may
+reﬂect her abiding commitment to that party (which is not
+necessarily inconsistent with her desire to associate with a
+second party), the objective costs of disafﬁliation, see, e. g.,
+infra, at 606–607, or both.
+The minor party, for its part,
+may have a signiﬁcant interest in augmenting its voice in the
+political process by associating with sympathetic members of
+the major parties.
+None of this is to suggest that the State does not have a
+superseding interest in restricting certain forms of associa-
+tion.
+We have never questioned, for example, the States’
+
+
+602
+CLINGMAN v. BEAVER
+Opinion of O’Connor, J.
+authority to restrict voters’ public registration to a single
+party or to limit each voter to participating in a single par-
+ty’s primary.
+But the fact that a State’s regulatory author-
+ity may ultimately trump voters’ or parties’ associational in-
+terests in a particular context is no reason to dismiss the
+validity of those interests.
+As a more general matter,
+I question whether judicial inquiry into the genuineness, in-
+tensity, or duration of a given voter’s association with a
+given party is a fruitful way to approach constitutional chal-
+lenges to regulations like the one at issue here.
+Primary
+voting is an episodic and sometimes isolated act of associa-
+tion, but it is a vitally important one and should be entitled
+to some level of constitutional protection.
+Accordingly,
+where a party invites a voter to participate in its primary
+and the voter seeks to do so, we should begin with the prem-
+ise that there are signiﬁcant associational interests at stake.
+From this starting point, we can then ask to what extent and
+in what manner the State may justiﬁably restrict those
+interests.
+II
+As to the remainder of the constitutional analysis, I am
+substantially in accord with the Court’s reasoning.
+Our con-
+stitutional system assigns the States broad authority to reg-
+ulate the electoral process, and we have recognized that, “as
+a practical matter, there must be a substantial regulation of
+elections if they are to be fair and honest and if some sort
+of order, rather than chaos, is to accompany the democratic
+processes,” Storer v. Brown, 415 U. S. 724, 730 (1974).
+We
+have sought to balance the associational interests of parties
+and voters against the States’ regulatory interests through
+the ﬂexible standard of review reafﬁrmed by the Court
+today.
+See ante, at 586–587.
+Under that standard, “the
+rigorousness of our inquiry into the propriety of a state elec-
+tion law depends upon the extent to which a challenged regu-
+lation burdens First and Fourteenth Amendment rights.”
+Burdick v. Takushi, 504 U. S. 428, 434 (1992).
+Regulations
+
+
+603
+Cite as: 544 U. S. 581 (2005)
+Opinion of O’Connor, J.
+imposing severe burdens on associational rights must be nar-
+rowly tailored to advance a compelling government interest.
+Timmons v. Twin Cities Area New Party, 520 U. S. 351, 358
+(1997).
+Regulations imposing lesser burdens are subject to
+less intensive scrutiny, and reasonable, nondiscriminatory re-
+strictions ordinarily will be sustained if they serve impor-
+tant regulatory interests.
+Ibid.
+This regime reﬂects the limited but important role of
+courts in reviewing electoral regulation.
+Although the
+State has a legitimate—and indeed critical—role to play in
+regulating elections, it must be recognized that it is not a
+wholly independent or neutral arbiter.
+Rather, the State is
+itself controlled by the political party or parties in power,
+which presumably have an incentive to shape the rules of
+the electoral game to their own beneﬁt.
+Recognition of that
+basic reality need not render suspect most electoral regula-
+tions.
+Where the State imposes only reasonable and genu-
+inely neutral restrictions on associational rights, there is no
+threat to the integrity of the electoral process and no appar-
+ent reason for judicial intervention.
+As such restrictions
+become more severe, however, and particularly where they
+have discriminatory effects, there is increasing cause for
+concern that those in power may be using electoral rules
+to erect barriers to electoral competition.
+In such cases,
+applying heightened scrutiny helps to ensure that such
+limitations are truly justiﬁed and that the State’s asserted
+interests are not merely a pretext for exclusionary or anti-
+competitive restrictions.
+Throughout the proceedings in the lower courts, respond-
+ents framed their suit as a facial challenge to Oklahoma’s
+semiclosed primary law.
+The sum of their argument was
+that, by requiring voters to register either as Libertarians
+or Independents in order to participate in the LPO’s primary,
+state law imposes a severe and unjustiﬁed burden on the
+LPO’s and Oklahoma voters’ associational rights.
+For the
+reasons explained by the Court, ante, at 597–598, that is the
+
+
+604
+CLINGMAN v. BEAVER
+Opinion of O’Connor, J.
+only claim properly before us.
+Assuming (as I believe we
+must under the circumstances) that Oklahoma provides rea-
+sonable avenues for voters to reregister as Independents or
+Libertarians, I agree with the Court that the semiclosed pri-
+mary law imposes only a modest and politically neutral bur-
+den on associational rights.
+The burden is not altogether
+trivial: A voter with a signiﬁcant commitment to a major
+party (for example) must forfeit registration with that party
+in order to participate in the LPO primary in any given elec-
+tion cycle, and the LPO cannot deﬁne the bounds of the asso-
+ciation as broadly as it would like.
+See post, at 610, and n. 1
+(Stevens, J., dissenting); see also supra, at 601 (discussing
+the interest in dual associations).
+But neither is it severe
+or discriminatory.
+Oklahoma’s semiclosed primary law simply requires that
+voters wishing to participate in the LPO’s primary do what
+they would have to do in order to participate in any other
+party’s primary.
+By providing a reasonably ﬁxed party-
+related electoral base from the close of registration until the
+date of the vote, this requirement facilitates campaign plan-
+ning.
+And assuming the availability of reasonable reregis-
+tration procedures, a party’s inability to persuade a voter to
+disafﬁliate from a rival party would suggest not the presence
+of anticompetitive regulatory restrictions, but rather the
+party’s failure to win the voter’s allegiance.
+The semiclosed
+primary law, standing alone, does not impose a signiﬁcant
+obstacle to participation in the LPO’s primary, nor does it
+indicate partisan self dealing or a lockup of the political proc-
+ess that would warrant heightened judicial scrutiny.
+For essentially the reasons explained by the Court, see
+ante, at 593–597, I agree that Oklahoma has a legitimate in-
+terest in requiring voters to disafﬁliate from one party be-
+fore participating in another party’s primary.
+On the record
+before us, I also agree that the State’s regulatory interests
+are adequate to justify the limited burden the semiclosed
+primary law imposes on respondents’ freedom of association.
+
+
+605
+Cite as: 544 U. S. 581 (2005)
+Opinion of O’Connor, J.
+And ﬁnally, I agree that this case is distinguishable from
+Tashjian.
+See ante, at 591–593.
+I joined the dissent in
+that case, and I think the Court’s application of strict scru-
+tiny there is difﬁcult to square with the ﬂexible standard of
+review articulated in our more recent cases, see supra, at
+602–603.
+But Tashjian is entitled to respect under princi-
+ples of stare decisis, and it can be fairly distinguished on the
+grounds that the closed primary law in that case imposed a
+greater burden on associational interests than does Oklaho-
+ma’s semiclosed primary law, see ante, at 592, while the
+State’s regulatory interests in Tashjian were weaker than
+they are here, compare ante, at 593–597, with Tashjian, 479
+U. S., at 217–225.
+III
+In brieﬁng and oral argument before this Court, respond-
+ents raise for the ﬁrst time the claim that Oklahoma’s
+semiclosed primary law severely burdens their associational
+rights not through the law’s own operation, but rather be-
+cause other state laws make it quite difﬁcult for voters to
+reregister as Independents or Libertarians so as to partici-
+pate in the LPO primary.
+See Brief for Respondents 12–24.
+Respondents characterize Oklahoma’s regulatory scheme as
+follows.
+Partisan primaries in Oklahoma are held on the last Tues-
+day in July of each even-numbered year.
+Okla. Stat. Ann.,
+Tit. 26, §1–102 (West Supp. 2005).
+To ﬁeld a party candidate
+in an election, the LPO must obtain “recognized” party sta-
+tus.
+See ibid.; see also §§1–107, 5–104 (West 1997 and Supp.
+2005).
+This requires it to submit, no later than May 1 of any
+even-numbered year (i. e., any election year), a petition with
+the signatures of registered voters equal to at least ﬁve per-
+cent of the total votes cast in the most recent gubernatorial
+or Presidential election.
+§1–108 (West Supp. 2005).
+The
+State Election Board then has 30 days to determine whether
+the petition is sufﬁcient.
+§1–108(3).
+The LPO has attained
+recognized party status in this fashion in every Presidential
+
+
+606
+CLINGMAN v. BEAVER
+Opinion of O’Connor, J.
+election year since 1980.
+However, unless the party’s candi-
+date receives at least 10 percent of the total votes cast for
+Governor or President in the general election (which no
+minor party has been able to do in any State in recent his-
+tory), it loses recognized party status.
+§1–109.
+To regain
+party status, the group must go through the petition process
+again.
+Ibid.
+When a party loses its recognized status, as the LPO has
+after every general election in which it has participated, the
+afﬁliation of any voter registered with the party is changed
+to Independent.
+§1–110.
+As the District Court noted, “it
+is highly likely that the ranks of independents, and, indeed,
+of registered Republicans and Democrats, contain numerous
+voters who sympathize with the LPO but who simply do not
+wish to go through the motions of re-registering every time
+they are purged from the rolls.”
+Memorandum Opinion,
+Case No. CIV–00–1071–F (WD Okla., Jan. 24, 2003), App. to
+Pet. for Cert. A–48.
+And the Republican and Democratic
+Parties in Oklahoma, as it turns out, do not permit voters
+registered as Independents to participate in their primaries.
+Most importantly, according to respondents, the deadline
+for changing party afﬁliation makes it quite difﬁcult for the
+LPO to invite voters to reregister in order to participate
+in its primary.
+Assuming the LPO submits its petition for
+recognized party status on the May 1 deadline, the State
+has until May 31 to determine whether party status will be
+conferred.
+See Okla. Stat. Ann., Tit. 26, §1–108 (West Supp.
+2005).
+But in order to participate in the LPO primary, a
+voter registered with another party must change her party
+afﬁliation to Independent or Libertarian no later than June
+1.
+See §4–119.
+Moreover, no candidate for ofﬁce is permit-
+ted ofﬁcially to declare her candidacy with the State Election
+Board until the period between the ﬁrst Monday in June and
+the next succeeding Wednesday.
+§5–110.
+If this characterization of state law is accurate, a regis-
+tered Democrat or Republican sympathetic to the LPO or to
+
+
+607
+Cite as: 544 U. S. 581 (2005)
+Opinion of O’Connor, J.
+an LPO candidate in a given election year would seem to
+face a genuine dilemma.
+On the one hand, she may stick
+with her major party registration and forfeit the opportunity
+to participate in the LPO primary.
+Alternatively, she may
+reregister as a Libertarian or Independent, thus forfeiting
+her opportunity to participate in the major party primary,
+though no candidate will have ofﬁcially declared yet and the
+voter may not yet know whether the LPO will even be per-
+mitted to conduct a primary.
+Moreover, she must make this
+choice roughly eight weeks before the primaries, at a time
+when most voters have not yet even tuned in to the election,
+much less decided upon a candidate.
+See California Demo-
+cratic Party, 530 U. S., at 586 (Kennedy, J., concurring).
+That might pose a special difﬁculty for voters attracted to
+minor party candidates, for whom support may not coalesce
+until comparatively late in the election cycle.
+See Anderson
+v. Celebrezze, 460 U. S. 780, 791–792 (1983) (discussing emer-
+gence of independent candidacies late in the election cycle).
+Throughout the proceedings in the lower courts, which in-
+cluded a full bench trial before the District Court, respond-
+ents made no attempt to challenge these other electoral
+requirements or to argue that they were relevant to respond-
+ents’ challenge to the semiclosed primary law.
+The lower
+courts, accordingly, gave little or no consideration to how
+these various regulations interrelate or operate in practice,
+nor did the State seek to justify them.
+Given this posture,
+I agree with the Court that it would be neither proper nor
+prudent for us to rule on the reformulated claim that re-
+spondents now urge.
+See ante, at 597–598.
+Nevertheless, respondents’ allegations are troubling, and,
+if they had been properly raised, the Court would want to
+examine the cumulative burdens imposed by the overall
+scheme of electoral regulations upon the rights of voters and
+parties to associate through primary elections.
+A panoply
+of regulations, each apparently defensible when considered
+alone, may nevertheless have the combined effect of severely
+
+
+608
+CLINGMAN v. BEAVER
+Stevens, J., dissenting
+restricting participation and competition.
+Even if each part
+of a regulatory regime might be upheld if challenged sepa-
+rately, one or another of these parts might have to fall if the
+overall scheme unreasonably curtails associational freedoms.
+Oklahoma’s requirement that a voter register as an Inde-
+pendent or a Libertarian in order to participate in the LPO’s
+primary is not itself unduly onerous; but that is true only
+to the extent that the State provides reasonable avenues
+through which a voter can change her registration status.
+The State’s regulations governing changes in party afﬁliation
+are not properly before us now.
+But if it were shown, in an
+appropriate case, that such regulations imposed a weighty or
+discriminatory restriction on voters’ ability to participate in
+the LPO’s or some other party’s primary, then more probing
+scrutiny of the State’s justiﬁcations would be required.
+Justice Stevens, with whom Justice Ginsburg joins,
+and with whom Justice Souter joins as to Parts I, II, and
+III, dissenting.
+The Court’s decision today diminishes the value of two im-
+portant rights protected by the First Amendment: the indi-
+vidual citizen’s right to vote for the candidate of her choice
+and a political party’s right to deﬁne its own mission.
+No
+one would contend that a citizen’s membership in either the
+Republican or the Democratic Party could disqualify her
+from attending political functions sponsored by another
+party, or from voting for a third party’s candidate in a gen-
+eral election.
+If a third party invites her to participate in
+its primary election, her right to support the candidate of
+her choice merits constitutional protection, whether she
+elects to make a speech, to donate funds, or to cast a ballot.
+The importance of vindicating that individual right far out-
+weighs any public interest in punishing registered Repub-
+licans or Democrats for acts of disloyalty.
+The balance
+becomes even more lopsided when the individual right is
+
+
+609
+Cite as: 544 U. S. 581 (2005)
+Stevens, J., dissenting
+reinforced by the right of the Libertarian Party of Oklahoma
+(LPO) to associate with willing voters.
+In concluding that the State’s interests override those im-
+portant values, the Court focuses on interests that are not
+legitimate.
+States do not have a valid interest in manipulat-
+ing the outcome of elections, in protecting the major parties
+from competition, or in stunting the growth of new parties.
+While States do have a valid interest in conducting orderly
+elections and in encouraging the maximum participation of
+voters, neither of these interests overrides (or, indeed, even
+conﬂicts with) the valid interests of both the LPO and the
+voters who wish to participate in its primary.
+In the ﬁnal analysis, this case is simple.
+Occasionally, a
+political party’s interest in deﬁning its platform and its pro-
+cedures for selecting and supporting its candidates conﬂicts
+with the voters’ interest in participating in the selection of
+their elected representatives.
+If those values do conﬂict, we
+may be faced with difﬁcult choices.
+But when, as in this
+case, those values reinforce one another a decision should be
+easy.
+Oklahoma has enacted a statute that impairs both; it
+denies a party the right to invite willing voters to participate
+in its primary elections.
+I would therefore afﬁrm the Court
+of Appeals’ judgment.
+I
+In rejecting the individual respondents’ claims, the major-
+ity focuses on their associational interests.
+While the vot-
+ers in this case certainly have an interest in associating with
+the LPO, they are primarily interested in voting for a par-
+ticular candidate, who happens to be in the LPO.
+Indeed,
+I think we have lost sight of the principal purpose of a
+primary: to nominate a candidate for ofﬁce.
+Cf. Burdick v.
+Takushi, 504 U. S. 428, 445 (1992) (Kennedy, J., dissenting)
+(“[T]he purpose of casting, counting, and recording votes is
+to elect public ofﬁcials, not to serve as a general forum for
+political expression”).
+
+
+610
+CLINGMAN v. BEAVER
+Stevens, J., dissenting
+Because our recent cases have focused on the associational
+interest of voters, rather than the right to vote itself, it is
+important to identify three basic precepts.
+First, it is clear
+that the right to vote includes the right to vote in a primary
+election.
+See United States v. Classic, 313 U. S. 299, 318
+(1941); Terry v. Adams, 345 U. S. 461 (1953).
+When the
+State makes the primary an “integral part of the procedure
+of choice,” every eligible citizen’s right to vote should receive
+the same protection as in the general election.
+Classic, 313
+U. S., at 318; see also, e. g., Gray v. Sanders, 372 U. S. 368
+(1963) (invalidating primary system that diluted individual’s
+vote in a primary).
+Second, the right to vote, whether
+in the primary or the general election, is the right to vote
+“for the candidate of one’s choice.”
+Reynolds v. Sims, 377
+U. S. 533, 555 (1964).
+Finally, in assessing burdens on that
+right—burdens that are not limited to absolute denial of the
+right—we should focus on the realities of the situation, not
+on empty formalism.
+See Classic, 313 U. S., at 313 (identi-
+fying “the practical operation of the primary law”); Terry,
+345 U. S., at 469–470 (noting that the Jaybird primary is “the
+only effective part” of the election process and examining
+“[t]he effect of the whole procedure” in determining whether
+the scheme violated the Fifteenth Amendment).
+Here, the impact of the Oklahoma statute on the voters’
+right to vote for the candidate of their choosing is not a mere
+“burden”; it is a prohibition.1
+By virtue of the fact that
+their preferred candidate is a member of a different party,
+respondents are absolutely precluded from voting for him or
+her in the primary election.
+It is not an answer that the
+1 It is not enough that registered members of other parties may sim-
+ply change their registration.
+See ante, at 590–591 (plurality opinion).
+Changing one’s political party is not simply a matter of ﬁling a form with
+the State; for many individuals it can be a signiﬁcant decision.
+A view
+that party membership is merely a label demeans for many the personal
+signiﬁcance of party identiﬁcation and illustrates what little weight the
+majority actually gives to the associational interests in this case.
+
+
+611
+Cite as: 544 U. S. 581 (2005)
+Stevens, J., dissenting
+voters could participate in another primary (i. e., the primary
+for the party with which they are registered) since the indi-
+vidual for whom they wish to vote is not a candidate in that
+primary.
+If the so-called “white primary” cases make any-
+thing clear, it is that the denial of the right to vote cannot
+be cured by the ability to participate in a subsequent or dif-
+ferent election.
+Just as the “only election that has counted”
+in Terry, 345 U. S., at 469, was the Jaybird primary, since it
+was there that the public ofﬁcial was selected in any mean-
+ingful sense, the only primary that counts here is the one in
+which the candidate respondents want to vote for is actually
+running.
+See Burdick, 504 U. S., at 442 (Kennedy, J., dis-
+senting) (“Because [petitioner] could not write in the name
+of a candidate he preferred, he had no way to cast a meaning-
+ful vote”).
+This is not to say that voters have an absolute right to
+participate in whatever primary they desire.
+For instance,
+the parties themselves have a strong associational interest
+in determining which individuals may vote in their pri-
+maries, and that interest will normally outweigh the interest
+of the uninvited voter.2
+But in the ordinary case the State
+simply has no interest in classifying voters by their political
+party and in limiting the elections in which voters may par-
+ticipate as a result of that classiﬁcation.
+Just as we held in
+Reynolds that all voters of a State stand in the same relation
+to the State regardless of where they live, and that the State
+must thus not make their vote count more or less depending
+2 The voters’ interest may still prevail if, as was the case in Terry v.
+Adams, 345 U. S. 461 (1953), and Smith v. Allwright, 321 U. S. 649 (1944),
+the party primary is the de facto election.
+In part because of this Court’s
+refusal to intervene in political gerrymandering cases, Davis v. Bandemer,
+478 U. S. 109 (1986), an increasing number of districts are becoming “safe
+districts” in which one party effectively controls the outcome of the elec-
+tion.
+See, e. g., Courtney, Redistricting: What the United States Can
+Learn from Canada, 3 Election L. J. 488 (2004) (concluding that 400 of the
+435 Members of the House of Representatives were elected in safe dis-
+tricts in the 2002 election, 81 of whom ran unopposed).
+
+
+612
+CLINGMAN v. BEAVER
+Stevens, J., dissenting
+upon that factor, 377 U. S., at 565, so too do citizens stand in
+the same relation to the State regardless of the political party
+to which they belong.
+The State may thus not deny them
+participation in a primary of a party that seeks their partici-
+pation absent a state interest of overriding importance.
+II
+In addition to burdening the individual respondent’s right
+to vote, the Oklahoma scheme places a heavy burden on the
+LPO’s associational rights.
+While Oklahoma permits inde-
+pendent voters to participate in the LPO’s primary elections,
+it refuses to allow registered Republicans or Democrats to
+do so.
+That refusal has a direct impact on the LPO’s selec-
+tion of candidates for public ofﬁce, the importance of which
+cannot be overstated.
+A primary election plays a critical
+role in enabling a party to disseminate its message to the
+public.
+California Democratic Party v. Jones, 530 U. S.
+567, 575 (2000).
+It is through its candidates that a party is
+able to give voice to its political views, to engage other candi-
+dates on important issues of the day, and to affect change in
+the government of our society.
+Our cases “vigorously afﬁrm
+the special place the First Amendment reserves for, and the
+special protection it accords, the process by which a political
+party ‘select[s] a standard bearer who best represents the
+party’s ideologies and preferences.’ ”
+Ibid. (quoting Eu v.
+San Francisco County Democratic Central Comm., 489 U. S.
+214, 224 (1989)).
+The Oklahoma statute prohibits the LPO from associating
+with all of the voters it believes will best enable it to select
+a viable candidate.
+The ability to select those individuals
+with whom to associate is, of course, at the core of the First
+Amendment and goes to the heart of the associational inter-
+est itself.
+“Freedom of association means not only that an
+individual voter has the right to associate with the political
+party of her choice, but also that a political party has a right
+to identify the people who constitute the association . . . .”
+
+
+613
+Cite as: 544 U. S. 581 (2005)
+Stevens, J., dissenting
+Ibid. (internal quotation marks and citations omitted).
+See
+also Democratic Party of United States v. Wisconsin ex rel.
+La Follette, 450 U. S. 107, 122 (1981).
+While Libertarians
+can undoubtedly associate with Democrats and Republicans
+in other ways and at other times, the Oklahoma statute “lim-
+its the Party’s associational opportunities at the crucial junc-
+ture at which the appeal to common principles may be trans-
+lated into concerted action, and hence to political power in
+the community.”
+Tashjian v. Republican Party of Conn.,
+479 U. S. 208, 216 (1986).
+In concluding that the Oklahoma statute is constitutional,
+the majority argues that associational interests between the
+LPO and registered members of other parties are either non-
+existent or not heavily burdened by the Oklahoma scheme.
+The plurality relies on a single footnote in Jones to show that
+there are no associational interests between the LPO and
+registered Republicans and Democrats.
+See ante, at 588–
+589 (citing 530 U. S., at 573–574, n. 5).
+In Jones, of course,
+the political parties did not want voters of other parties par-
+ticipating in their primaries; the putative associational inter-
+est in this case, in which the LPO is actively courting voters
+of other parties, simply did not exist.
+More importantly, our
+decision in Tashjian rejected these arguments.
+In Tashjian we held that the State could not prohibit Re-
+publicans from inviting voters who were not registered with
+a political party to participate in the Republican primary.
+We recognized that “[t]he Party’s attempt to broaden the
+base of public participation in and support for its activities
+is conduct undeniably central to the exercise of the right of
+association.”
+479 U. S., at 214.
+Importantly, we rejected
+the notion that the associational interest was somehow di-
+minished because the voters the party sought to include
+were not formally registered as Republicans.
+Id., at 215
+(“[C]onsidered from the standpoint of the Party itself, the
+act of formal enrollment or public afﬁliation with the Party
+is merely one element in the continuum of participation in
+
+
+614
+CLINGMAN v. BEAVER
+Stevens, J., dissenting
+Party affairs, and need not be in any sense the most impor-
+tant”).
+We reasoned that a State could not prohibit inde-
+pendents from contributing ﬁnancial support to a Republican
+candidate or from participating in the party’s events; it
+would be anomalous if it were able to prohibit participation
+by independents in the “ ‘basic function’ ” of the party.
+Id.,
+at 216.
+Because of the importance of those interests, we
+carefully examined the interests asserted by the State, and
+ﬁnding them lacking, struck down the prohibition on inde-
+pendents’ participation in the Republican primary.
+Virtually identical interests are at stake in this case.
+It
+is the LPO’s belief that attracting a more diverse group of
+voters in its primary would enable it to select a more main-
+stream candidate who would be more viable in the general
+election.
+Like the Republicans in Tashjian, the LPO is cog-
+nizant of the fact that in order to enjoy success at the voting
+booth it must have support from voters who identify them-
+selves as independents, Republicans, or Democrats.
+The LPO’s desire to include Democrats and Republicans is
+undoubtedly informed by the fact that, given the stringent
+requirements of Oklahoma law, the LPO ceases to become a
+formally recognized party after each election cycle, and its
+members automatically revert to being independents.3
+Be-
+cause the LPO routinely loses its status as a recognized
+party, many voters who might otherwise register as Lib-
+ertarians instead register as Democrats or Republicans.4
+Thus, the LPO’s interest in inviting registered Republicans
+3 See Okla. Stat. Ann., Tit. 26, §1–109 (West Supp. 2005) (requiring that
+a party’s nominee for Governor, President, or Vice President receive 10%
+of the vote in a general election for the party to maintain its status).
+4 See App. to Pet. for Cert. A–48 (District Court recognizing that “it is
+highly likely that the ranks of independents and, indeed, of registered
+Republicans and Democrats, contain numerous voters who sympathize
+with the LPO but who simply do not wish to go through the motions of
+re-registering every time they are purged from the rolls”).
+
+
+615
+Cite as: 544 U. S. 581 (2005)
+Stevens, J., dissenting
+and Democrats to participate in the selection of its standard
+bearer has even greater force than did the Republican Par-
+ty’s desire to invite independents to associate with it in
+Tashjian.
+III
+As justiﬁcation for the State’s abridgment of the constitu-
+tionally protected interests asserted by the LPO and the vot-
+ers, the majority relies on countervailing state interests that
+are either irrelevant or insigniﬁcant.
+Neither separately
+nor in the aggregate do these interests support the Court’s
+decision.
+First, the Court makes the remarkable suggestion that by
+opening up its primary to Democrats and Republicans, the
+LPO will be saddled with so many nonlibertarian voters that
+the ultimate candidate will not be, in any sense, “libertar-
+ian.”
+See ante, at 594.5
+But the LPO is seeking the cross-
+over voting of Republicans and Democrats.
+Rightly or
+wrongly, the LPO feels that the best way to produce a viable
+candidate is to invite voters from other parties to participate
+in its primary.
+That may dilute what the Court believes to
+be the core of the Libertarian philosophy, but it is no busi-
+ness of the State to tell a political party what its message
+should be, how it should select its candidates, or how it
+should form coalitions to ensure electoral success.
+See
+Jones, 530 U. S., at 581–582 (rejecting state interests in pro-
+ducing candidates that are more centrist than the nominee
+the party would have selected absent the blanket primary).6
+5 Of course, as the majority recognizes, ante, at 594, since the number
+of independent voters overwhelms the number of registered-LPO voters,
+that is already the case.
+6 See also Democratic Party of United States v. Wisconsin ex rel. La
+Follette, 450 U. S. 107, 123–124 (1981) (State may not substitute its own
+judgment for that of the party); Jones, 530 U. S., at 587 (Kennedy, J.,
+concurring) (“A political party might be better served by allowing blanket
+primaries as a means of nominating candidates with broader appeal.
+Under the First Amendment’s guarantee of speech through free associa-
+
+
+616
+CLINGMAN v. BEAVER
+Stevens, J., dissenting
+Second, the majority expresses concern that crossover vot-
+ing may create voter confusion.
+This paternalistic concern
+is belied by the District Court’s ﬁnding that no signiﬁcant
+voter confusion would occur.
+App. to Pet. for Cert. A–43
+(noting that “very simple rules for voting eligibility can be
+posted at polling places when the primary and runoff elec-
+tions are conducted”).
+Third, the majority suggests that crossover voting will im-
+pair the State’s interest in properly classifying candidates
+and voters.
+As an empirical matter, a crossover voter may
+have a lesser commitment to the party with which he is
+registered if he votes in another party’s primary.
+Never-
+theless, the State does not have a valid interest in deﬁning
+what it means to be a Republican or a Democrat, or in at-
+tempting to ensure the political orthodoxy of party members
+simply for the convenience of those parties.
+Cf. West Vir-
+ginia Bd. of Ed. v. Barnette, 319 U. S. 624, 642 (1943) (“If
+there is any ﬁxed star in our constitutional constellation, it
+is that no ofﬁcial, high or petty, can prescribe what shall be
+orthodox in politics, nationalism, religion, or other matters
+of opinion . . . ”).
+Even if participation in the LPO’s primary
+causes a voter to be a less committed “Democrat” or “Repub-
+lican” (a proposition I reject 7), the dilution of that commit-
+ment does not justify abridgment of the fundamental rights
+at issue in this case.
+While party identity is important in
+tion, however, this is an issue for the party to resolve, not for the State”
+(emphasis added)).
+Such coalition building, and reaching out to other
+groups to ensure a candidate gets elected, is a vital part of the political
+process.
+Cf. Colorado Republican Federal Campaign Comm. v. Federal
+Election Comm’n, 518 U. S. 604, 622–623 (1996) (citing W. Keefe, Parties,
+Politics, and Public Policy in America 59–74 (5th ed. 1988)).
+7 Allowing a potential crossover voter to vote in the LPO primary would
+not change the level of commitment he has toward his party of registra-
+tion; it would simply give him an outlet to express the views he already
+holds.
+
+
+617
+Cite as: 544 U. S. 581 (2005)
+Stevens, J., dissenting
+our political system, it should not be immunized from the
+risk of change.8
+Fourth, the majority argues that opening up the LPO pri-
+mary to members of the Republican and Democratic Parties
+might interfere with electioneering and party-building ef-
+forts.
+It is clear, of course, that the majority here is con-
+cerned only with the Democratic and Republican Parties,
+since party building is precisely what the LPO is attempt-
+ing to accomplish.
+Nevertheless, that concern is misplaced.
+Even if, as the majority claims, the Republican and Demo-
+cratic voter rolls, mailing lists, and phone banks are not as
+accurate as they would otherwise be,9 the administrative in-
+convenience of the major parties does not outweigh the right
+to vote or the associational interests of those voters and the
+LPO.
+At its core, this argument is based on a fear that the
+LPO might be successful in convincing Democratic or Re-
+publican voters to participate more fully in the LPO.
+Far
+from being a compelling interest, it is an impermissible one.
+Timmons v. Twin Cities Area New Party, 520 U. S. 351, 367
+8 If, of course, States were able to protect the incumbent parties in the
+name of protecting the stability of the two-party system in general, we
+might still have the Federalists, the Anti-federalists, or the Whigs.
+See
+generally J. Aldrich, Why Parties? The Origin and Transformation of Po-
+litical Parties in America (1995).
+In any event, we would not have the
+evolution of thought or policies that are occasioned through the change of
+political parties.
+While no such change has occurred in recent memory,
+that is no reason to ossify the status quo.
+9 The majority’s argument is that voters who would otherwise vote in
+the Republican or Democratic primaries would vote in the LPO primary,
+and that the Democratic and Republican lists would not be an accurate
+indicator of who is likely to vote in those primaries, and of which voters
+to spend party resources on.
+First, I ﬁnd it doubtful that those voters
+who vote in the LPO primary would have voted in the Democratic or
+Republican primary; rather, they probably would not have been sufﬁ-
+ciently motivated to vote at all.
+Further, this would actually give Repub-
+licans and Democrats additional information as to which of their voters
+have Libertarian leanings.
+
+
+618
+CLINGMAN v. BEAVER
+Stevens, J., dissenting
+(1997) (State may not “completely insulate the two-party
+system from minor parties’ or independent candidates’ com-
+petition and inﬂuence”).
+Finally, the majority warns against the possibility of raid-
+ing, ante, at 596, by which voters of another party mali-
+ciously vote in a primary in order to change the outcome of
+the primary, either to nominate a particularly weak candi-
+date, a “sore-loser” candidate, or a candidate who would si-
+phon votes from another party.
+The District Court, whose
+factual ﬁndings are entitled to substantial deference, found
+as a factual and legal matter that the State’s argument con-
+cerning raiding was “unpersuasive.”
+App. to Pet. for Cert.
+A–61.
+Even if raiding were a possibility, however, the state inter-
+ests are remote.
+The possibility of harm to the LPO itself
+is insufﬁcient to overcome the LPO’s associational rights.
+See Eu, 489 U. S., at 227–228 (“[E]ven if a ban on endorse-
+ments saves a political party from pursuing self-destructive
+acts, that would not justify a State substituting its judgment
+for that of the party”).
+If the LPO is willing to take the
+risk that its party may be “hijacked” by individuals who hold
+views opposite to their own, the State has little interest in
+second-guessing the LPO’s decision.
+With respect to the possibility that Democratic or Republi-
+can voters might raid the LPO to the detriment of their own
+or another party, neither the State nor the majority has iden-
+tiﬁed any evidence that voters are sufﬁciently organized to
+achieve such a targeted result.10
+Such speculation is not, in
+10 To change the outcome of an election in a way that would beneﬁt their
+own party, voters would have to be relatively certain that their preferred
+candidate in their own primary would win that primary and to vote in the
+LPO primary for a previously agreed-on candidate who is opposed to their
+own ideological preferences.
+Given that voters typically do not focus on
+an election until several days or weeks before an election, this prospect is
+unlikely.
+See California Democratic Party v. Jones, 530 U. S. 567, 586
+(2000) (Kennedy, J., concurring).
+Further, one would have expected to
+see some evidence of this in States where it is relatively easy to switch
+parties close to a primary.
+
+
+619
+Cite as: 544 U. S. 581 (2005)
+Stevens, J., dissenting
+my view, sufﬁcient to override the real and acknowledged
+interest of the LPO and the voters who wish to participate
+in its primary.
+See Timmons, 520 U. S., at 375 (Stevens,
+J., dissenting) (citing Eu, 489 U. S., at 226; Anderson v. Cele-
+brezze, 460 U. S. 780, 789 (1983); and Norman v. Reed, 502
+U. S. 279, 288–289 (1992)).11
+In the end, the balance of interests clearly favors the LPO
+and those voters who wish to participate in its primary.
+The
+associational interests asserted—the right to select a stand-
+ard bearer that the party thinks has the best chance of suc-
+cess, the ability to associate at the crucial juncture of select-
+ing a candidate, and the desire to reach out to voters of other
+parties—are substantial and undoubtedly burdened by Okla-
+homa’s statutory scheme.
+Any doubt about that fact is
+clearly answered by Tashjian.
+On the other side, the inter-
+ests asserted by the State are either entirely speculative or
+simply protectionist measures that beneﬁt the parties in
+power.
+No matter what the standard, they simply do not
+outweigh the interests of the LPO and its voters.
+IV
+The Libertarian Party of Oklahoma is not the only loser
+in this litigation.
+Other minor parties and voters who have
+primary allegiance to one party but sometimes switch their
+support to rival candidates are also harmed by this decision.
+In my judgment, however, the real losers include all partici-
+pants in the political market.
+Decisions that give undue def-
+11 The ﬂimsy character of the state interests in this case conﬁrms my
+view that today’s decision rests primarily on a desire to protect the two-
+party system.
+In Jones, the Court concluded that the associational inter-
+ests of the parties trumped state interests that were much more compel-
+ling than those asserted in this case.
+Here, by contrast, where the
+associational interests are being asserted by a minor party rather than by
+one of the dominant parties, the Court has reversed course and rejected
+those associational interests as insubstantial compared to the interests
+asserted by the State.
+
+
+620
+CLINGMAN v. BEAVER
+Stevens, J., dissenting
+erence to the interest in preserving the two-party system,12
+like decisions that encourage partisan gerrymandering,13 en-
+hance the likelihood that so-called “safe districts” will play
+an increasingly predominant role in the electoral process.
+Primary elections are already replacing general elections as
+the most common method of actually determining the compo-
+sition of our legislative bodies.
+The trend can only increase
+the bitter partisanship that has already poisoned some of
+those bodies that once provided inspiring examples of courte-
+ous adversary debate and deliberation.
+The decision in this case, like the misguided decisions in
+Timmons, 520 U. S. 351, and Jones, 530 U. S. 567, attaches
+overriding importance to the interest in preserving the two-
+party system.
+In my view, there is over a century of experi-
+ence demonstrating that the two major parties are fully ca-
+pable of maintaining their own positions of dominance in the
+political marketplace without any special assistance from the
+state governments that they dominate or from this Court.
+Whenever they receive special advantages, the offsetting
+harm to independent voters may be far more signiﬁcant than
+the majority recognizes.
+In Anderson, 460 U. S. 780, we considered the impact of
+early ﬁling dates on small political parties and independent
+candidates.
+Commenting on election laws that disadvan-
+tage independents, we noted:
+“By limiting the opportunities of independent-minded
+voters to associate in the electoral arena to enhance
+their political effectiveness as a group, such restrictions
+threaten to reduce diversity and competition in the mar-
+ketplace of ideas.
+Historically political ﬁgures outside
+12 Examples are cases permitting lengthy registration periods, Rosario
+v. Rockefeller, 410 U. S. 752 (1973), and cases approving bans on fusion
+candidates, Timmons v. Twin Cities Area New Party, 520 U. S. 351 (1997),
+and write-in candidates, Burdick v. Takushi, 504 U. S. 428 (1992).
+13 See, e. g., Vieth v. Jubelirer, 541 U. S. 267 (2004); Davis v. Bandemer,
+478 U. S. 109 (1986).
+
+
+621
+Cite as: 544 U. S. 581 (2005)
+Stevens, J., dissenting
+the two major parties have been fertile sources of new
+ideas and new programs; many of their challenges to the
+status quo have in time made their way into the political
+mainstream.
+In short, the primary values protected by
+the First Amendment—‘a profound national commit-
+ment to the principle that debate on public issues should
+be uninhibited, robust, and wide-open,’—are served
+when election campaigns are not monopolized by the ex-
+isting political parties.”
+Id., at 794 (citations omitted).
+Because the Court’s holding today has little to support it
+other than a naked interest in protecting the two major par-
+ties, I respectfully dissent.

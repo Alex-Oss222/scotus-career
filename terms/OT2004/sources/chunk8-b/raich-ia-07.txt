@@ -1,0 +1,2321 @@
+AUG 17 2004 
+
+
+No. 03-1454 
+
+
+Jn the Supreme Court of the Guited States 
+
+
+JOHN D. ASHCROFT, ATTORNEY GENERAL, ETAL.. 
+PETITIONERS 
+
+
+v. 
+
+
+ANGEL MCCLARY RAICH, ET AL. 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+
+
+BRIEF FOR THE PETITIONERS 
+
+
+PAUL D. CLEMENT 
+Acting Solicitor General 
+Counsel of Record 
+PETER D. KEISLER 
+Assistant Attorney General 
+EDWIN S. KNEEDLER 
+Deputy Solicitor General 
+LISAS. BLATT 
+Assistant to the Solicitor 
+General 
+MARK B. STERN 
+ALISA B. KLEIN 
+MARK T. QUINLIVAN 
+Attorneys 
+Department of Justice 
+Washington, D.C. 20530-0001 
+(202) 514-2217 
+
+
+QUESTION PRESENTED 
+
+
+Whether the Controlled Substances Act, 21 U.S.C. 
+801 et seg., exceeds Congress’s power under the Com- 
+merce Clause as applied to the intrastate possession 
+and manufacture of marijuana for purported personal 
+“medicinal” use or to the distribution of marijuana 
+without charge for such use. 
+
+
+(1) 
+
+
+II 
+
+
+PARTIES TO THE PROCEEDING 
+
+
+Petitioners are John D. Ashcroft, Attorney General 
+of the United States, and Karen P. Tandy, Administra- 
+tor of the Drug Enforcement Administration. 
+
+
+Respondents are Angel McClary Raich, Diane 
+Monson, John Doe Number One, and John Doe Number 
+Two. 
+
+
+4 
+
+
+TABLE OF CONTENTS 
+
+
+Opinions below 
+
+
+Jurisdiction 
+
+
+Constitutional provisions involved 
+
+
+Statement 
+
+
+Summary of argument 
+Argument: 
+The Controlled Substances Act constitutionally 
+applies to all manufacture, distribution, and 
+
+
+possession of marijuana 
+
+
+A. Congress may constitutionally regulate activity 
+that occurs in or that in the aggregate substan- 
+tially affects a regulated iiverstate commercial 
+market 
+
+
+B. The CSA comprehensively regulates the market 
+
+
+in controlled substances 
+C. The CSA constitutionally includes wholly intra- 
+
+state manufacture, free distribution, and pos- 
+
+session of marijuana 
+
+
+1. Congress reasonably found that intrastate 
+drug manufacture, distribution, and possession 
+substantially affect interstate drug commerce 
+and that federal regulation of that intrastate 
+activity is essential to achieve Congress’s 
+regulation of drug commerce 
+
+
+2. Federally unregulated local manufacture, 
+distribution, and possession of controlled sub- 
+stances would substantially undercut Con- 
+gress’s closed system of distribution of 
+
+
+those dangerous drugs 
+
+
+D. The Ninth Circuit’s reliance on respondents’ 
+purported medical use of marijuana is seriously 
+flawed 
+
+
+(IIT) 
+
+
+onw nw = 
+
+
+13 
+
+
+14 
+
+
+17 
+
+
+Conclusion 
+
+
+IV 
+
+
+Table of Contents—Continued: Page 
+
+
+1. Respondents are engaged in economic 
+
+SUTBIED cnccccmennenmenn 36 
+2. The purported medical purposes of respon- 
+
+dents’ activities do not remove the conduct 
+
+from Congress’s commerce power 
+
+
+£S 
+
+
+TABLE OF AUTHORITIES 
+
+
+Cases: 
+
+
+Alliance for Cannabis Therapeutics v. DEA, 
+
+15 F.3d 1131 (D.C. Cir. 1994) 42 
+Brzonkala v. Virginia Polytechnic Inst. & State 
+
+Univ., 169 F.3d 820 (4th Cir. 1999), aff’d swb nom. 
+
+
+United States v. Morrison, 529 U.S. 598 (2000) .......... 21, 22 
+Currin v. Wallace, 306 U.S. 1 (1939) 29 
+Fullilove v. Klutznick, 448 U.S. 448 (1980) 29 
+Hodel v. Indiana, 452 U.S. 314 (1981) 10, 16 
+Jinks v. Richland County, 538 U.S. 456 (2003) ..... 16-17, 35 
+M’Culloch v. Maryland, 17 U.S. (4 Wheat.) 316 
+
+(1819) 17 
+Maryland v. Wirtz, 392 U.S. 183 (1968) .......0000- 15, 16,36 
+Minor v. United States, 396 U.S. 87 (1969) 21 
+NLRB v. Jones & Laughlin Steel Corp., 301 U.S. 1 
+
+(1937) 14 
+Navegar, Inc. v. United States, 192 F.3d 1050 
+
+(D.C. Cir. 1999), cert. denied, 531 U.S. 816 (2000) ........ 27,32 
+Osborne v. Ohio, 495 U.S. 103 (1990) 24 
+People v. Mower, 49 P.3d 1067 (Cal. 2002) 31 
+Perez v. United States, 402 U.S. 146 (1971) ................. 15, 21 
+Preseault v. ICC, 494 US. 1 (1990) 17 
+Proyect v. United States, 101 F.3d 11 (2d Cir. 
+
+1996) 36 
+
+
+Vv 
+Cases—Continued: Page 
+Sabri v. United States, 124 S. Ct. 1941 (2004) ......... 17, 29, 35 
+The Daniel Ball, 77 U.S. (10 Wall.) 557 (1870) ................... 14 
+United States v. Adams, 343 F.3d 1024 (9th Cir. 
+
+2003), cert. denied, 124 S. Ct. 2871 (2004) 24 
+United Staies v. Bass, 404 U.S. 336 (1971) 28 
+United States v. Cardozo, 129 F.3d 6 (1st Cir. 1997) ...... 27 
+United States v. Darby, 312 U.S. 100 (1941) ....... 14, 21, 29, 35 
+United States v. Davis, 288 F.3d 359 (8th Cir.), 
+
+cert. denied, 537 U.S. 882 (2002) 36 
+United States v. Franklyn, 157 F.3d 90 (2d Cir. 1998), 
+
+cert. denied, 525 U.S. 1112 (1999) 24 
+United States v. Kallestad, 236 F.3d 225 (5th Cir. 
+
+2000) 7 32 
+United States v. Leshuk, 65 F.3d 1105 (4th Cir. 
+
+1995) . 37 
+United States v. Lopez: 
+
+514 U.S. 549 (1995) passim 
+
+2 F.3d 1342 (5th Cir. 1993), aff’d, 514 U.S. 549 (1995) .... 22 
+United States v. McCoy, 323 F.3d 1114 (9th Cir. 
+
+2003) 28 
+United States v. Moore, 423 U.S. 122 (1975) 2,18 
+United States v. Morrison, 529 U.S. 598 (2000) ........... 14, 16, 
+
+21, 22, 23, 24 
+United States v. Oakland Cannabis Buyers’ Coop., 
+
+532 U.S. 483 (2001) 3, 25, 43 
+United States v. Rutherford, 442 U.S. 544 (1979) ............ 26 
+United States v. Rybar, 103 F.3d 273 (3d Cir. 
+
+1996), cert. denied, 522 U.S. 807 (1997) 27 
+United States v. Stewart, 348 F.3d 1132 (9th Cir. 
+
+2003) 28 
+United States v. Wrightwood Dairy Co., 315 U.S. 110 
+
+(1942) 14, 21 
+Wickard v. Filburn, 317 U.S. 111 (1942) 8, 10, 
+
+
+14, 15, 16, 28, 38, 39 
+
+
+Constitution, statutes and regulations: Page 
+U.S. Const.-Art. I, § 8: 
+
+CL. 3 (Commerce Clause) passim 
+
+Cl. 18 (Necessary and Proper Clause) .................. 2,9, 14 
+
+
+VI 
+
+
+Comprehensive Drug Abuse Prevention and 
+Control Act of 1970, Pub. L. No. 91-513, § 202, 
+
+
+84 Stat. 1249 3 
+Controlled Substances Act, 21 U.S.C. 801 et 8€q. sesso 2 
+21 U.S.C. 801 22, 34, 39 
+21 U.S.C. 801(1) 4 
+21 U.S.C. 801(2) 4 
+21 U.S.C. 801(3) 5, 11, 18, 23, 31 
+21 U.S.C. 801(3\(A) 23, 28 
+21 U.S.C. 801(3\(B) 23 
+21 U.S.C. 801(3C) 23, 28 
+21 U.S.C. 801(4) 5, 11, 23, 24 
+21 U.S.C. 801(5) , 5, 11, 29 
+21 U.S.C. 8016) 5, 11, 23 
+21 U.S.C. 802(16) 3 
+21 U.S.C. 302(21) 40 
+21 USC. 811 41 
+21 U.S.C. 812(b) 34, 40 
+21 U.S.C. 812(b(1(A)(C) : 3, 41 
+21 U.S.C. 812(b\1\B) 30 
+21 U.S.C. 812(b\2)(A) 33 
+21 U.S.C. 812(b\2\B) 33 
+21 U.S.C. 812(b\2XC) 33 
+21 U.S.C. 812(b\3)(A) 33 
+21 U.S.C. 812(b\3\B) 33 
+21 U.S.C. 812(6\(3XC) 33 
+21 U.S.C. 812(b\(4)(A) 33 
+21 U.S.C. 812(b\4\B) 33 
+21 U.S.C. 812(b\4XC) 33 
+21 U.S.C. 812(b\5)\(A) 33 
+21 U.S.C. 812(b\5\B) 33 
+21 U.S.C. 812(b\5\(C) 33 
+
+
+Vil 
+
+
+Statutes and regulations—Continued: 
+
+
+21 U.S.C. 812(c) 
+21 U.S.C. 821-829 
+
+
+21 U.S.C. 822-827 
+
+
+21US.C. 823 
+
+
+21US.C. 823(f) 
+
+
+21US.C. 829 
+
+
+21 U.S.C. 841-863 
+
+
+21 U.S.C. 841(a)(1) 
+21 U.S.C. 844(a) 
+
+
+21 U.S.C. 881(g) 
+
+
+21 U.S.C. 882(a) 
+
+
+Drug Abuse Control Amendments of 1965, Pub. L. 
+No. 89-74, 79 Stat. 226 
+
+
+§ 2, 79 Stat. 227 
+
+
+Gun-F ree School Zones Act of 1990, 18 U.S.C. 
+922(q) 
+
+
+16 U.S.C. 668(a) 
+
+
+18 U.S.C. 175(a) 
+
+
+18 U.S.C. 831(a) 
+18 U.S.C. 842(n)\(1) 
+
+
+18 U.S.C. 922(0)(1) 
+
+
+18 U.S.C. 922(v)(1) 
+
+
+18 U.S.C. 922(x)(1) 
+
+
+18 U.S.C. 2252(a)(4(B) 
+
+
+18 U.S.C. 2342(a) 
+
+
+Compassionate Use Act of 1996, Cal. Health & Safety 
+Code (West Supp. 2004): 
+§ 11362.5 
+
+
+§ 11362.5(b)(1)(A) 
+
+
+§ 11362.5(d) 
+
+
+21 C.F.R. Pts. 1301-1306 
+
+
+8 8 
+
+
+BSRSRRRSRRS 
+
+
+ans 
+
+
+Vill 
+
+
+Miscellaneous: Page 
+
+
+Drug Availability Steering Committee, Drug 
+Availability in the United States (Dec. 2002) <http:// 
+www.whitehousedrugpolicy.gov/publications/pdf/ 
+drugavailability.pdf> 19, 25, 30 
+DEA, Drug Trafficking in the United States 
+(Sept. 2001) <http://www.usdoj.gov/dea/concern/ 
+
+
+drug_trafficking.html> 18, 19, 30 
+57 Fed. Reg. 10,499 (1992) 42 
+64 Fed. Reg. (1999): 
+
+p. 35,928 27 
+
+p. 35,929 27 
+66 Fed. Reg. (2001): 
+
+p. 20,038 42 
+
+p. 20,041 3 
+
+p. 20,051 42 
+
+p. 20,052 42 
+H.R. Rep. No. 1444, 91st Cong., 2d Sess. Pt. 1 
+
+(1970) 2, 3, 17, 23, 34, 39-40 
+Illicit Drug Prices July 2003-December 2003, 
+
+Narcotics Digest Weekly, Dec. 16, 2003 20 
+National Drug Intelligence Center, National : 
+
+Drug Threat Assessment 2004 (Apr. 2003) <http:// 
+
+www.usdoj.gov/ndic/pubs8/873 1/marijuana.htm> ........... 19, 
+
+20, 25, 30 
+
+Office of Nat'l Drug Control Policy, Exec. Office of the 
+President, Marijuana Fact Sheet (Feb. 2004) ..............-+. 10, 
+19, 30, 32 
+S. Rep. No. 613, 91st Cong., Ist Sess. (1969) .............. 17,18, 
+19, 29, 40 
+
+
+In the Supreme Court of the Anited States 
+
+
+No. 03-1454 
+
+
+JOHN D. ASHCROFT, ATTORNEY GENERAL, ET AL., 
+PETITIONERS 
+
+
+v. 
+
+
+ANGEL MCCLARY RAICH, ET AL. 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+
+
+BRIEF FOR THE PETITIONERS 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the court of appeals (Pet. App. 1a-43a) 
+is reported at 352 F.3d 1222. The order of the district 
+court denying respondents’ motion for a preliminary 
+injunction (Pet. App. 44a-69a) is reported at 248 F. 
+Supp. 2d 918. 
+
+
+JURISDICTION 
+
+
+The judgment of the court of appeals was entered on 
+December 16, 2003. A petition for rehearing was de- 
+nied on February 25, 2004 (Pet. App. 70a-7la). The 
+petition for a writ of certiorari was filed on April 20, 
+2004, and was granted on June 28, 2004. The juris- 
+diction of this Court rests on 28 U.S.C. 1254(1). 
+
+
+(1) 
+
+
+2 
+
+
+CONSTITUTIONAL PROVISIONS INVOLVED 
+
+
+The Commerce Clause of the United States Consti- 
+tution, Article I, Section 8, Clause 3, provides: 
+
+
+The Congress shall have Pewer * * * To regulate 
+Commerce with foreign Nations, and among the 
+several States, and with the indian Tribes. 
+
+
+The Necessary and Proper Clause of the United 
+States Constitution, Article I, Section 8, Clause 18, 
+provides: 
+
+
+The Congress shall have Power * * * To make all 
+Laws which shall be necessary and proper for 
+carrying into Execution the foregoing Powers, and 
+all other Powers vested by this Constitution in the 
+Government of the United States, or in any 
+Department or Officer thereof. 
+
+
+STATEMENT 
+
+
+1. a. The Controlled Substances Act (CSA or Act), 21 
+U.S.C. 801 et seqg., establishes a comprehensive federal 
+scheme to regulate the market in controlled substances. 
+The CSA makes it unlawful to “manufacture, distribute, 
+or dispense, or possess with intent to manufacture, dis- 
+tribute, or dispense” any controlled substance, “[e]x- 
+cept as authorized by [21 U.S.C. 801-904].” 21 U.S.C. 
+841(a)(1). The CSA similarly makes it a crime to 
+possess any controlled substance except as authorized 
+by the Act. 21 U.S.C. 844(a). The CSA thus establishes 
+“a ‘closed’ system of drug distribution” for all controlled 
+substances. H.R. Rep. No. 1444, 91st Cong., 2d Sess. 
+Pt. 1, at 6 (1970). To effectuate that closed system, the 
+CSA “authorizes transactions within ‘the legitimate 
+distribution chain’ and makes all others illegal.” United 
+States v. Moore, 423 U.S. 122, 141 (1975) (quoting H.R. 
+
+
+3 
+
+
+Rep. No. 1444, supra, Pt. 1, at 3). Persons who violate 
+the CSA are subject to criminal and civil penalties, and 
+ongoing or anticipated violations may be enjoined. 21 
+U.S.C. 841-863, 882(a). 
+
+The restrictions that the CSA places on the manufac- 
+ture, distribution, and possession of a controlled sub- 
+stance depend upon the schedule in which the drug has 
+been placed. 21 U.S.C. 821-829. Since Congress en- 
+acted the CSA in 1970, marijuana and tetrahydro- 
+cannabinols have been classified as schedule I con- 
+trolled substances. See Comprehensive Drug Abuse 
+Prevention and Control Act of 1970, Pub. L. No. 91-513, 
+§ 202, 84 Stat. 1249 (schedule I(c)(10) and (17)); 21 
+U.S.C. 812(c¢) (schedule I(¢)(10) and (17)).’ 
+
+A drug is listed in schedule I, the most restrictive 
+schedule, if it has “has a high potential for abuse,” “no 
+currently accepted medical use in treatment in the 
+United States,” and “a lack of accepted safety for use 
+* %* * under medical supervision.” 21 U.S.C. 
+812(b)(1)(A)-(C). Under the CSA, it is unlawful to 
+manufacture, distribute, dispense, or possess a schedule 
+I drug, except as part of a strictly controlled research 
+project that has been registered with the Drug En- 
+forcement Administration (DEA) and approved by the 
+Food and Drug Administration (FDA). 21 U.S.C. 
+841(a)(1), 823, 844(a); United States v. Oakland Canna- 
+bis Buyers’ Coop., 532 U.S. 483, 489-490, 492 (2001). By 
+contrast, drugs listed in schedules II through V may be 
+
+
+! Marijuana is defined under the CSA to include all parts of the 
+cannabis plant and anything made therefrom, except for the ma- 
+ture stalks, fiber produced from the stalks, sterilized seeds, and oil 
+from the seeds. 21 U.S.C. 802(16). Marijuana has been found to 
+contain at least 483 separate chemicals, among which delta’- 
+tetrahydrocannabinol (delta’-THC) is the primary psychoactive 
+component. 66 Fed. Reg. 20,041 (2001). 
+
+
+4 
+
+
+dispensed and prescribed for medical use. Manufactur- 
+ers, physicians, pharmacists and others who may law- 
+fully produce, prescribe, or distribute drugs listed in 
+schedules II through V must, however, comply with 
+stringent statutory and regulatory provisions that 
+control the manufacture and distribution of such drugs. 
+21 U.S.C. 821-829; 21 C.F.R. Pts. 1301-1306; see pp. 32- 
+33, 39-41, infra. 
+
+b. The CSA contains congressional findings and 
+declarations regarding the effects of drug distribution 
+and use on the public health and welfare and the effects 
+of intrastate drug activity on interstate commerce. 
+After stating that “[mJany of the drugs included within 
+[the CSA] have a useful and legitimate medical purpose 
+and are necessary to maintain the health and welfare of 
+the American people,” 21 U.S.C. 801(1), Congress found 
+that “[t]he illegal importation, manufacture, distribu- 
+tion, and possession and improper use of controlled 
+substances have a substantial and detrimental effect on 
+the health and general welfare of the American people.” 
+21 U.S.C. 801(2). Congress then found: 
+
+
+A major portion of the traffic in controlled sub- 
+stances flows through interstate and foreign com- 
+merce. Incidents of the traffic which are not an 
+integral part of the interstate or foreign flow, such 
+as manufacture, local distribution, and possession, 
+nonetheless have a substantial and direct effect 
+upon interstate commerce because— 
+
+
+(A) after manufacture, many controlled sub- 
+stances are transported in interstate commerce, 
+
+
+(B) controlled substances distributed locally 
+usually have been transported in interstate com- 
+merce immediately before their distribution, and 
+
+
+5 
+
+
+(C) controlled substances possessed com- 
+monly flow through interstate commerce imme- 
+diately prior to such possession. 
+
+
+21 U.S.C. 801(8). Congress further found that “[lJocal 
+distribution and possession of controlled substances 
+contribute to swelling the interstate traffic in such 
+substances,” 21 U.S.C. 801(4); that “{cJontrolled sub- 
+stances manufactured and distributed intrastate cannot 
+be differentiated from controlled substances manufac- 
+tured and distributed interstate” and “[t]hus, it is not 
+feasible to distinguish” between such substances “in 
+terms of controls,” 21 U.S.C. 801(5); and that “[fJederal 
+control of the intrastate incidents of the traffic in 
+controlled substances is essential to the effective 
+control of the interstate incidents of such traffic,” 21 
+U.S.C. 801(6). 
+
+2. On October 9, 2002, respondents filed suit in the 
+United States District Court for the Northern District 
+of California against John Ashcroft, the Attorney 
+General of the United States, and Asa Hutchinson, then 
+Administrator of the DEA, seeking injunctive and de- 
+claratory relief barring those officials from enforcing 
+the CSA with respect to their conduct. The complaint 
+alleges that respondents Angel McClary Raich and 
+Diane Monson are California citizens who use mari- 
+juana for medical purposes based on the recommenda- 
+tions of their physicians. Such use is exempted from 
+the coverage of California’s criminal drvz laws. Pet. 
+App. la-2a, 45a; see California Compassionate Use Act 
+of 1996, Cal. Health & Safety Code § 11362.5(b)(1)(A) 
+and (d) (West Supp. 2004) (exempting from the State’s 
+criminal laws the possession or cultivation of marijuana 
+for “personal medical purposes” by a patient or her 
+primary caregiver, “upon the written or oral 
+
+
+6 
+
+
+recommendation or approval of a physician” that 
+marijuana would assist in the treatment of “any * * * 
+illness for which marijuana provides relief”). 
+
+Raich, a resident of Oakland, California, alleges that 
+she suffers from numerous severe and debilitating 
+medical conditions for which marijuana alone provides 
+relief, and that her physicians recommend that she 
+“medicate” with marijuana every two hours. Pet. App. 
+5a; J.A. 24, 27. Raich alleges that she is unable to culti- 
+vate her own marijuana and that she obtains marijuana 
+free of charge from two “caregivers,” respondents John 
+Doe Number One and John Doe Number Two, who are 
+also residents of Oakland, California, and who sued 
+anonymously to protect Raich’s marijuana supply. Pet. 
+App. 5a, 14a n.3; J.A. 25-26. Although the Does culti- 
+vate the marijuana, Raich processes some of the mari- 
+juana into cannabis oils, balm, and foods. Pet. App. 5a. 
+
+Diane Monson, a resident of Butte County, Califor- 
+nia, alleges that she suffers from severe chronic back 
+pain and constant, painful muscle spasms, and that she 
+has been using marijuana to treat her symptoms for 
+more than five years. Pet. App. 5a; J.A. 24-25. In 
+August 2002, federal agents, pursuant to a search 
+warrant, entered Monson’s residence and seized six 
+marijuana plants. J.A. 24; see 21 U.S.C. 881(g). 
+
+Respondents’ suit sought a preliminary injunction to 
+bar the government from enforcing the Controlled Sub- 
+stances Act against them to the extent that it prevents 
+Raich and Monson from possessing, cultivating, and 
+processing marijuana for their purported medical use, 
+and to the extent that it prevents the John Doe respon- 
+dents from cultivating marijuana and distributing it to 
+Raich for her purported medical use. J.A. 27-39. Re- 
+spondents urged that the CSA, as applied to their con- 
+duct, is unconstitutional and conflicts with what they 
+
+
+7 
+
+
+characterized as a “doctrine of medical necessity.” Pet. 
+App. 6a. 
+
+On March 4, 2003, the district court denied the mo- 
+tion for a preliminary injunction, concluding that “the 
+weight of precedent precludes a finding of likelihood of 
+success on the merits.” Pet. App. 45a. 
+
+3. A divided panel of the court of appeals reversed 
+and remanded. Pet. App. la-48a. 
+
+a. The court of appeals concluded that respondents 
+“have demonstrated a strong likelihood of success on 
+their claim that, as applied to them, the CSA is an un- 
+constitutional exercise of Congress’ Commerce Clause 
+authority.” Pet. App. 9a. The court expressed the view 
+that its previous decisions that had uniformly rejected 
+Commerce Clause challenges to the CSA were not 
+controlling, because none of those decisions “involved 
+the use, possession, or cultivation of marijuana for 
+medical purposes.” Jd. at 10a. 
+
+In the court’s view, the “intrastate, noncommercial 
+cultivation, possession and use of marijuana for per- 
+sonal medical purposes on the advice of a physician” 
+“constitutes a separate and distinct class of activities” 
+that is beyond Congress’s power to regulate under the 
+Commerce Clause. Pet. App. lla (emphasis omitted). 
+The court found that class to be “different in kind from 
+drug trafficking,” stating that “this limited use is 
+clearly distinct from the broader illicit drug market— 
+as well as any broader commercial market for medicinal 
+marijuana—insofar as the medicinal marijuana at issue 
+in this case is not intended for, nor does it enter, the 
+stream of commerce.” [bid. 
+
+The court of appeals also reasoned that “(t]he cultiva- 
+tion, possession, and use of marijuana for medicinal 
+purposes and not for exchange or distribution is not 
+properly characterized as commercial or economic 
+
+
+8 
+
+
+activity.” Pet. App. 14a. On that basis, the court found 
+“not applicable” the “aggregation principle” of Wickard 
+v. Filburn, 317 U.S. 111 (1942), which, in determining 
+the constitutionality of an Act of Congress under the 
+Commerce Clause, allows for consideration of the cumu- 
+lative impact on interstate commerce of individual in- 
+stances of regulated conduct (in Wickard, the produc- 
+tion of wheat). Pet. App. 15a. The court also rejected 
+the importance of Congress’s findings in the CSA 
+regarding the effects of intrastate drug activity on 
+interstate commerce, stating that “[t]he findings are 
+not specific to marijuana, much less intrastate medicinal 
+use of marijuana that is not bought or sold and the use 
+of which is based on the recommendation of a physi- 
+cian,” and that in any event such findings should be 
+taken “with a grain of salt.” Jd. at 19a-20a. I"inally, the 
+court concluded that the balance of hardships of the 
+parties and public interest factors “tip sharply” in favor 
+of the entry of a preliminary injunction barring en- 
+forcement of the CSA. Id. at 24a. 
+
+b. Judge Beam dissented. Pet. App. 26a-43a. In his 
+view, “[iJt is simply impossible to distinguish the 
+relevant conduct surrounding the cultivation and use of 
+the marijuana crop at issue in this case from the cultiva- 
+tion and use of the wheat crop that affected interstate 
+commerce in Wickard v. Fibburn, [supra].” Id. at 26a. 
+The dissent explained that the court of appeals’ ap- 
+proach ignored “the fungible, economic nature of the 
+substance at issue—marijuana plants—for which there 
+is a well-established and variable interstate market, 
+albeit an illegal one under federal law.” Jd. at 34a; 
+accord id. at 34a-35a (Respondents “are growing and/or 
+using a fungible crop which could be sold in the market- 
+place, and which is also being used for medicinal 
+
+
+9 
+
+
+purposes in place of other drugs which would have to be 
+purchased in the marketplace.”). 
+
+Judge Beam also concluded that Congress’s power to 
+regulate respondents’ activities is essential to Con- 
+gress’s ability to regulate “the larger commercial activ- 
+ity” covered by the CSA. Pet. App. 36a. He thus rea- 
+soned that, “[iJf Congress cannot reach individual nar- 
+cotics growers, possessors, and users, its overall statu- 
+tory scheme will be totally undermined.” Jd. at 38a. 
+Finally, Judge Beam criticized the court’s decision to 
+carve out from Congress’s general regulatory scheme 
+individual instances of activity based on their ostensibly 
+de minimis relation to commerce. /d. at 35a-37a. 
+
+ce. On February 25, 2004, the court of appeals denied 
+the government’s petition for rehearing and rehearing 
+en banc. Pet. App. 70a-71a. 
+
+4. On May 14, 2004, the district court on remand en- 
+tered a preliminary injunction enjoining the Attorney 
+General and the Administrator of DEA “from arresting 
+or prosecuting Plaintiffs Angel McClary Raich and 
+Diane Monson, seizing their medical cannabis, forfeiting 
+their property, or seeking civil or administrative sanc- 
+tions against them with respect to the intrastate, non- 
+commercial cultivation, possession, use, and obtaining 
+without charge of cannabis for personal medical pur- 
+poses on the advice of a physician and in accordance 
+with state law, and which is not used for distribution, 
+sale, or exchange.” Preliminary Injunction Order 1-2 
+(2004), appeal docketed, No. 04-16296 (9th Cir. June 28, 
+2004). 
+
+
+SUMMARY OF ARGUMENT 
+
+
+A. Congress has the power under the Commerce 
+Clause, Art. I, § 8, Cl. 3, and the Necessary and Proper 
+Clause, Art. I, § 8, Cl. 18, to regulate local activity that 
+
+
+10 
+
+
+substantially affects interstate commerce. In Wickard 
+v. Filburn, 317 U.S. 111 (1942), the Court held that 
+Congress could regulate the production of wheat for 
+consumption rather than sale because that activity 
+affected the regulated interstate market of wheat. 
+Wickard establishes that Congress may regulate local 
+activity that is “an esse~*al part of a larger regulation 
+of economic activity, im v. hich the regulatory scheme 
+could be undercut unless the intrastate activity were 
+regulated.” United States v. Lopez, 514 U.S. 549, 561 
+(1995). Congress’s determination that local activity 
+with respect to a product substantially affects inter- 
+state commerce or could interfere with Congress’s ob- 
+jective in regulating the interstate market of that 
+product is entitled to substantial deference. E.g., Hodel 
+v. Indiana, 452 U.S. 314, 323-324 (1981). 
+
+B. The CSA constitutionally regulates the commer- 
+cial market in marijuana, which is international and 
+interstate in scope. Marijuana is regularly imported 
+into the United States illegally, and domestic traffick- 
+ing in the drug occurs on a massive scale. Indeed, mari- 
+juana traffickers collected an estimated $10.5 billion 
+from American users in 2000 alone. Office of Nat’] Drug 
+Control Policy, Exec. Office of the President, Mari- 
+jguana Fact Sheet 5 (Feb. 2004) (Marijuana Fact Sheet). 
+Because marijuana trafficking is quintessentially com- 
+mercial activity that occurs in interstate and foreign 
+commerce and substantially affects interstate com- 
+merce, Congress has the power under the Commerce 
+Clause to regulate all commercial marijuana activity, 
+including commercial possession, manufacture, and dis- 
+tribution that occurs wholly intrastate. Lopez, 514 US. 
+at 560 (“Where economic activity substantially affects 
+interstate commerce, legislation regulating that activity 
+will be sustained.”). 
+
+
+11 
+
+
+C. The CSA also constitutionally applies to the intra- 
+state manufacture and possession of controlled sub- 
+stances, including marijuana, for personal use, and to 
+the distribution of those substances without charge. 
+Congress has concluded that regulation of all intrastate 
+drug activity “is essential to the effective control” of 
+interstate drug trafficking. 21 U.S.C. 801(6) (emphasis 
+added). Congress also has found that controlled sub- 
+stances are readily bought and sold in interstate com- 
+merce, 21 U.S.C. 801(3); that local drug possession and 
+distribution swell the interstate drug market, 21 U.S.C. 
+801(4); and that controlled substances manufactured 
+and distributed intrastate cannot be differentiated from 
+controlled substances in the interstate market, 21 
+U.S.C. 801(5). 
+
+Congress accordingly concluded that regulation of 
+intrastate drug activity was a reasonably necessary 
+means to accomplish its comprehensive regulation of 
+the interstate market in controlled substances. Federal 
+regulation of simple drug possession limits the demand 
+for and marketing of the drug. Federal regulation of 
+drug activity that involves personal use or free distri- 
+bution also permits Congress to control illicit traffick- 
+ing, as law enforceinent officials often cannot readily 
+ascertain whether an unlabeled drug resulted from a 
+sale or will be sold. And excepting drug activity for 
+personal use or free distribution from the sweep of the 
+CSA would discourage the consumption of lawful 
+controlled substances and would undermine Congress’s 
+intent to regulate the drug market comprehensively to 
+protect public health and safety. For these reasons, 
+Congress constitutionally has regulated respondents’ 
+activities as “an essential part of a larger regulation of 
+economic activity, in which the regulatory scheme could 
+
+
+12 
+
+
+be undercut unless the intrastate activity were 
+regulated.” Lopez, 514 U.S. at 561. 
+
+D. In holding that the CSA is unconstitutional in its 
+application to respondents’ possession and distribution 
+of marijuana, the Ninth Circuit improperly character- 
+ized those activities as non-economic and distinct from 
+the more general interstate market of marijuana regu- 
+lated under the CSA. Respondents’ conduct is eco- 
+nomic activity that is subject to congressional control 
+because it occurs in, and substantially affects, the mari- 
+juana market generally. Home-grown marijuana dis- 
+places drugs sold in both the open drug market and the 
+black drug market regulated by the CSA. Respon- 
+dents’ possession and distribution of marijuana also 
+significantly interfere with Congress’s objectives in 
+comprehensively regulating the interstate drug market. 
+
+The court of appeals also erred in relying on the 
+asserted “medical” nature of respondents’ activities. 
+Congress has the power to regulate the interstate mar- 
+ket in marijuana as well as activity that substantially 
+affects that market, regardless of the purported use of 
+the drug. Indeed, much of the CSA is addressed to the 
+regulation of substances that (unlike marijuana) have 
+been found by the Secretary of Health and Human 
+Services and the Attorney General to have an accepted 
+medical use. Moreover, the court of appeals relied on 
+policy judgments about the utility and safety of mari- 
+juana use that Congress has categorically rejected in 
+the CSA. 
+
+
+13 
+
+
+ARGUMENT 
+
+
+THE CONTROLLED SUBSTANCES ACT CONSTI- 
+TUTIONALLY APPLIES TO ALL MANUFACTURE, 
+DISTRIBUTION, AND POSSESSION OF MARIJUANA 
+
+
+It is clear that Congress has the authority under the 
+Commerce Clause to regulate the manufacture, distri- 
+bution, and possession of marijuana, including when 
+such acts are done in furtherance of purported personal 
+medical use. Congress unquestionably has the power 
+under the Commerce Clause to enact a comprehensive 
+drug statute to regulate and control both interstate and 
+intrastate trafficking in controlled substances, a class of 
+activities that includes commercial manufacture, distri- 
+bution, and resulting possession of controlled sub- 
+stances.- Congress does not lose its authority if the 
+distribution and possession are not only intrastate, but 
+also allegedly involve marijuana that is home-grown or 
+distributed for free for personal use. Nor does Con- 
+gress’s authority turn on whether the personal use is 
+“medicinal,” rather than recreational. Intrastate activi- 
+ties involving marijuana for personal use substantially 
+affect the drug market regulated under the CSA, and 
+exempting such activities would significantly undercut 
+the effectiveness of the comprehensive regulatory re- 
+gime Congress established to control drug trafficking 
+and abuse. Nor is the purported use of a drug relevant 
+for purposes of determining Congress’s power under 
+the Commerce Clause. Indeed, respondents’ purported 
+medicinal use of marijuana, a schedule I drug, directly 
+interferes with Congress’ comprehensive regulation of 
+the drug and squarely conflicts with Congress’s deter- 
+mination that the drug has no accepted medicinal use. 
+
+
+14 
+
+
+A. Congress May Constitutionally Regulate Activity 
+That Occurs In Or That In The Aggregate Sub- 
+stantially Affects A Regulated Interstate Com- 
+mercial Market 
+
+
+1. Congress has the power “[t]o regulate Commerce 
+with foreign Nations, and among the several States,” 
+Art. I, § 8, Cl. 3, and Congress has corresponding 
+authority under the Necessary and Proper Clause, Art. 
+I, § 8, Cl. 18, to pass legislation that constitutes a rea- 
+sonable means to effectuate the regulation of interstate 
+commerce. “Congress’ commerce authority includes the 
+power to regulate those activities having a substantial 
+relation to interstate commerce, . . . ie., those 
+activities that substantially affect interstate com- 
+merce.” United States v. Morrison, 529 U.S. 598, 609 
+(2000) (quoting United States v. Lopez, 514 U.S. 549, 
+558 (1995)). Thus, it has long been established that 
+“(t]he power of Congress over interstate commerce is 
+
+
+~—~—not- confined to the regulation of commerce among the 
+
+
+states. It extends to those activities intrastate which so 
+affect interstate commerce or the exercise of the power 
+of Congress over it as to make regulation of them 
+appropriate means to the attainment of a legitimate 
+end, the exercise of the granted power of Congress to 
+regulate interstate commerce.” United States v. Darby, 
+312 U.S. 100, 118 (1941); accord Wickard, 317 U.S. at 
+124 (quoting United States v. Wrightwood Dairy Co., 
+315 U.S. 110, 119 (1942)); see NLRB v. Jones & Laugh- 
+lin Steel Corp., 301 U.S. 1, 36-37 (1987) (“[T]he power to 
+regulate commerce is the power to enact ‘all appro- 
+priate legislation’ for ‘its protection and advance- 
+ment.’”) (citing The Daniel Ball, 77 U.S. (10 Wall.) 557, 
+564 (1870)). 
+
+This Court’s precedents also confirm that “where a 
+general regulatory statute bears a substantial relation 
+
+
+15 
+
+
+to commerce, the de minimis character of individual in- 
+stances arising under that statute is of no conse- 
+quence.” Lopez, 514 U.S. at 558 (quoting Maryland v. 
+Wirtz, 392 U.S. 183, 197 n.27 (1968)); accord Perez v. 
+United States, 402 U.S. 146, 154 (1971) (“Where the 
+class of activities is regulated and that class is within 
+the reach of federal power, the courts have no power ‘to 
+excise, as trivial, individual instances’ of the class.”) 
+(quoting Wirtz, 392 U.S. at 193). 
+
+That principle is illustrated by Wickard v. Filburn, 
+supra, in which the Court upheld the federal regulation 
+of wheat, which was grown and consumed on a family 
+farm, as part of a comprehensive program to control the 
+volume and price of wheat moving in interstate and 
+foreign commerce. The Court reached that result even 
+though the wheat was not “sold or intended to be sold,” 
+317 U.S. at 119; the production of wheat “may not be 
+regarded as commerce,” id. at 125, and the regulated 
+individual’s own activity “may be trivial by itself,” id. at 
+127. The Court explained that local activity may, 
+“whatever its nature, be regulated by Congress if it 
+exerts a substantial effect on interstate commerce.” Id. 
+at 125. In Wickard itself, the Court held that 
+Congress’s regulation of the purely local activity of 
+growing wheat even for consumption on the 
+farm was reasonably necessary to achieve Congress’s 
+broader regulation of the supply, demand, and prices in 
+the interstate wheat market, which is indisputably 
+subject to its power under the Commerce Clause. /d. at 
+127-129. 
+
+Wickard thus establishes that Congress may regu- 
+late intrastate activity which itself may not be overtly 
+commercial in nature—in the sense that it does not 
+directly involve an exchange for valuable considera- 
+tion—if regulation of the activity is reasonably neces- 
+
+
+16 
+
+
+sary to achieve the effective regulation of a market that 
+is interstate in nature. This Court explained in Lopez, 
+supra, that the production of wheat that Congress 
+chose to regulate in Wickard was subject to federal 
+regulation even though the specific wheat at issue was 
+produced for personal use and the regulated activity 
+“may not be regarded as commerce.” Lopez, 514 U.S. at 
+556 (quoting Wickard, 317 U.S. at 125). In distin- 
+guishing the statute in Wickard from the Gun-Free 
+School Zones Act of 1990, 18 U.S.C. 922(q), at issue in 
+Lopez, the Court explained that “Wickard * * * 
+involved economic activity in a way that the possession 
+of a gun in a school zone does not.” Lopez, 514 U.S. at 
+560. The Court further explained that, unlike the stat- 
+ute in Wickard, Section 922(q) was not “an essential 
+part of a larger regulation of economic activity, in which 
+the regulatory scheme could be undercut unless the 
+intrastate activity were regulated.” Lopez, 514 U.S. at 
+561; see also Morrison, 529 U.S. at 610. 
+
+2. In determining whether a federal statute may be 
+sustained as a proper exercise of Congress’s power to 
+regulate interstate commerce, courts apply a “rational 
+basis” standard that reflects broad deference to legis- 
+lative judgments regarding whether the intrastate 
+activity at issue substantially affects interstate com- 
+merce and whether regulation of the activity is rea- 
+sonably necessary to achieve Congress’s purposes. See 
+Lopez, 514 U.S. at 557; Wirtz, 392 U.S. at 198. “A court 
+may invalidate legislation enacted under the Commerce 
+Clause only if it is clear that there is no rational basis 
+for a congressional finding that the regulated activity 
+affects interstate commerce, or that there is no 
+reasonable connection between the regulatory means 
+selected and the asserted ends.” Hodel v. Indiana, 452 
+U.S. at 323-324; see e.g., Jinks v. Richland County, 538 
+
+
+17 
+
+
+U.S. 456, 461-464 (2003); Preseault v. ICC, 494 U.S. 1, 
+17 (1990); M’Culloch v. Maryland, 17 U.S. (4 Wheat.) 
+316, 419 (1819); accord Sabri v. United States, 124 S. Ct. 
+1941, 1946 (2004) (Spending Clause). 
+B. The CSA Comprehensively Regulates The Market 
+In Controlled Substances 
+
+
+1. Congress passed the CSA “to deal in a compre- 
+hensive fashion with the growing menace of drug abuse 
+in the United States * * * through providing more 
+effective means for law enforcement aspects of drug 
+abuse prevention and control.” H.R. Rep. No. 1444, 
+supra, Pt. 1, at 1; accord S. Rep. No. 613, 91st Cong., 1st 
+Sess. 3 (1969) (“[T]he overali purpose of the bill is to 
+improve the administration and regulation of the manu- 
+facture, imporiation and exportation of the controlled 
+dangerous substances covered under its provisions, so 
+that the widespread diversion presently occurring can 
+be halted.”). In furtherance of its central purposes, the 
+CSA comprehensively bans all manufacture, distribu- 
+tion, and possession of any scheduled drug unless 
+explicitly authorized by the Act. 21 U.S.C. 841(a)(1), 
+844(a). That is why marijuana, like all other listed 
+drugs, is a “controlled” substance under the CSA. The 
+Act thus establishes “a ‘closed’ system of drug distri- 
+bution” for all controlled substances by “provid[ing] for 
+control * * * of problems related to drug abuse 
+through registration of manufacturers, wholesalers, 
+retailers, and all others in the legitimate distribution 
+chain, and [by] mak[ing] transactions outside the legiti- 
+mate distribution chain illegal.” H.R. Rep. No. 1444, 
+supra, Pt. 1, at 3,6. Congress thereby sought to “sig- 
+nificantly reduce the widespread diversion of these 
+drugs out of legitimate channels into the illicit market, 
+while at the same time providing the legitimate drug 
+
+
+18 
+
+
+industry with a unified approach to narcotic and dan- 
+gerous drug control.” Jd. at 6; see Moore, 423 U.S. at 
+135, 141. 
+
+2. The CSA obviously includes within its compre- 
+hensive scope quintessentially commercial activity—the 
+manufacture and distribution of drugs for consid- 
+eration, and the possession of drugs in connection with 
+or as a result of such transactions—that in large part 
+takes place in interstate and foreign commerce and that 
+categorically affects interstate commerce. Congress in 
+the CSA found that “[a] major portion of the traffic in 
+controlled substances flows through interstate and 
+foreign commerce.” 21 U.S.C. 801(3). Congress was 
+also aware that the national drug abuse problem sought 
+to be addressed by the CSA stemmed from “the illicit 
+traffic in drugs which is both international and inter- 
+state in scope.” S. Rep. No. 613, supra, at 3. Congress 
+accordingly determined that “Federal * * * regu- 
+lation and control [of controlled substances] is required 
+to help manage the drug abuse problem and the 
+criminal traffic in drugs on the international, national, 
+and State levels.” Jd. at 4. 
+
+Those judgments were well founded and remain 
+accurate today. “The illegal drug market in the United 
+States is one of the most profitable in the world.” 
+DEA, Drug Trafficking in the United States 1 (Sept. 
+2001) (Drug Trafficking) <http://www.usdoj.gov/dea/ 
+concern/drug_trafficking.html>. A diverse and sophis- 
+ticated group of international and domestic traffickers 
+engage in the illicit commercial manufacture, distribu- 
+tion, and possession of drugs in this country. For in- 
+stance, “[c]riminal groups operating from South Amer- 
+ica smuggle cocaine and heroin into the United States”; 
+“criminal groups operating from neighboring Mexico 
+smuggle cocaine, heroin, methamphetamine, ampheta- 
+
+
+19 
+
+
+mine, and marijuana into the United States”; and 
+“Israeli and Russian drug trafficking syndicates and 
+Western Europe-based drug traffickers are the princi- 
+pal traffickers of MDMA [ecstasy] worldwide.” Jbid.; 
+accord S. Rep. No. 613, swpra, at 3-4 (“There is an un- 
+known quantity of the nonmedical and nonprescription 
+drugs (heroin, cocaine, marihuana) being continuously 
+smuggled into this country.”). In addition to the 
+criminal groups based abroad, “domestic organizations 
+cultivate, produce, manufacture, or distribute illegal 
+drugs such as marijuana, methamphetamine, phen- 
+cylidine (PCP), and lysergic acid diethyamide(LSD).” 
+Drug Trafficking 1. 
+
+The interstate market for marijuana that Congress 
+regulates under the CSA is well-established and sub- 
+stantial. At the time Congress passed the CSA, mari- 
+juana was “the most popular drug of abuse,” and 
+marijuana offenses had accounted for “the bulk of drug 
+arrests throughout the Nation.” S. Rep. No. 613, supra, 
+at 2,3. Even today, despite the federal prohibitions on 
+marijuana, “(t]he indoor and outdoor cultivation in most 
+regions of the country, as well as the presence of mari- 
+juana smuggled into the United States from foreign 
+sources, contributes to the pervasiveness of the drug.” 
+Drug Availability Steering Committee, Drug Availabil- 
+ity in the United States 103 (Dec. 2002) (Drug 
+Availability) <http://www.whitehousedrugpolicy.gov/ 
+publications/pdf/drugavailability.pdf>. Indeed, “U.S. 
+marijuana users spent approximately $10.5 billion on 
+marijuana in 2000.” Marijwana Fact Sheet 5. The illicit 
+marijuana market is also well-defined according to 
+geographic areas and the particular type of marijuana 
+being sold. National Drug Intelligence Center, Na- 
+tional Drug Threat Assessment 2004, at 3 (Apr. 2004) 
+(National Drug Threat Assessment) (“Marijuana 
+
+
+20 
+
+
+prices, an indication of marijuana’s steady availability, 
+have been stable for years, although prices range 
+considerably from market to market depending on the 
+type and potency available, quantity purchased, pur- 
+chase frequency, buyer-seller relationship, and proxim- 
+ity to source.”) <http://www.usdoj.gov/ndic/pubs8/8731/ 
+marijuana.htm>; Illicit Drug Prices July 2003-Decem- 
+ber 2003, Narcotics Digest Weekly, Dec. 16, 2003, at 1 & 
+Table 4, at 19-25 (listing, for all 50 States and District 
+of Columbia, wholesale, midlevel, and retail prices for 
+“BC Bud” (z.e., high-potency Canadian), commercial 
+grade, domestic, hydroponic, locally produced, im- 
+ported, Mexico-produced, and sinsemilla marijuana). 
+And marijuana is readily and commonly transported 
+across state lines. E.g., National Drug Threat Assess- 
+ment 13-14 (“Throughout the United States a wide 
+range of organizations, groups, gangs, and independent 
+dealers transport—and distribute—marijuana.”). Con- 
+gress’s commerce power accordingly extends to the 
+comprehensive regulation of all commercial marijuana 
+activity throughout the Nation. 
+
+
+C. The CSA Constitutionally Includes Wholly 
+Intrastate Manufacture, Free Distribution, And 
+Possession Of Marijuana 
+
+
+Respondents’ intrastate drug distribution and use 
+are subject to congressional regulation because Con- 
+gress rationally determined that such activities as a 
+class substantially affect the marijuana market as a 
+whole. Regulation of such activities also is a necessary 
+and proper means to effectuate Congress’s compre- 
+hensive regulation of the interstate market for mari- 
+juana. Indeed, the CSA is a compelling instance in 
+which Congress’s power “extends to those activities 
+intrastate which so affect interstate commerce or the 
+
+
+21 
+
+
+exercise of the power of Congress over it as to make 
+regulation of them appropriate means to the attainment 
+of a legitimate end.” Darby, 312 U.S. at 118. 
+
+Congress manifestly has the authority under the 
+Commerce Clause to regulate the commercial manufac- 
+ture, distribution, and possession of any controlled sub- 
+stance, even if such activity takes place entirely intra- 
+state. Lopez, 514 U.S. at 559 (“[W]e have upheld a wide 
+variety of congressional Acts regulating intrastate eco- 
+nomic activity where we have concluded that the activ- 
+ity substantially affected interstate commerce.”); see 
+e.g., United States v. Wrightwood Dairy Co., 315 U.S. 
+110, 118-121 (1942); Darby, 312 U.S. at 118-119. This 
+Court’s decisions thus firmly establish that Congress 
+may ban a commercial activity, whether it occurs in in- 
+terstate or intrastate commerce, when the commercial 
+activity, in the aggregate, affects interstate commerce. 
+See, e.g., Perez, supra (loan sharking); Minor v. United 
+States, 396 U.S. 87, 98 (1969) (observing that “a flat ban 
+on certain sales [of narcotics] is sustainable under the 
+powers granted Congress in Art. I, § 8.”). 
+
+Likewise, the fact that respondents’ conduct is not 
+only intrastate, but also purportedly limited to distri- 
+bution and possession for personal use, does not elimi- 
+nate Congress’s authority. The constitutionality of the 
+CSA as applied to drug distribution and possession for 
+personal use follows from the Court’s unanimous deci- 
+sion in Wickard, and from the Court’s reaffirmation of 
+Wickard in Lopez. See Brzonkala v. Virginia Poly- 
+technic Inst. & State niv., 169 F.3d 820, 836 n.7 (4th 
+Cir. 1999) (en banc), aff’d sub nom. United States v. 
+Morrison, 529 U.S. 598 (2000). The growing and pro- 
+cessing of marijuana and its resulting possession for 
+personal use “involve[] economic activity”—the produc- 
+tion of a fungible commodity for which there is an 
+
+
+22 
+
+
+established market—in the same way as the growing of 
+wheat for consumption does, and “in a way that pos- 
+session of a gun in school zone does not.” Lopez, 514 
+U.S. at 560. Judge Luttig made that very point in 
+distinguishing the regulation of marijuana for personal 
+use under the CSA from the provision of the Violence 
+Against Women Act struck down in Morrison, supra, 
+observing that, “[ljike the production of home-grown 
+wheat, the manufacture of marijuana for personal use is 
+an economic activity in a general sense.” Brzonkala, 
+169 F.3d at 836 n.7. As Judge Luttig further explained, 
+in both situations, the activity is regulated “pursuant to 
+a comprehensive statutory scheme” regulating the 
+trade of a product “which is assuredly both commercial 
+and interstate.” Jbid. “Thus, like the regulation of 
+home-grown wheat, the prohibition of home-grown 
+marijuana is ‘an essential part of a larger regulation of 
+economic activity, in which the regulatory scheme could 
+be undercut unless the intrastate activity were regu- 
+lated.’” Ibid. (quoting Lopez, 514 U.S. at 561); accord 
+United States v. Lopez, 2 F.3d 1342, 1567 n.51 (5th Cir. 
+1993) (“The [CSA’s] possession proscription [is] a 
+necessary means to regulate the interstate commercial 
+trafficking in narcotics.”), aff'd, 514 U.S. 549 (1995). As 
+explained below, those conclusions are amply supported 
+by Congress’s findings when it enacted the CSA and 
+the nature of the problem that the CSA addresses. 
+
+
+1. Congress reasonably found that intrastate drug 
+manufacture, distribution, and possession sub- 
+stantially affect interstate drug commerce and 
+that federal regulation of that intrastate activity 
+is essential to achieve Congress’s regulation of 
+drug commerce 
+
+
+a. Section 801 of the CSA sets forth “the principal 
+reasons” why Congress deemed it “necessary to make 
+
+
+23 
+
+
+the controls of [the CSA] applicable to all controlled 
+substances regardless of whether they or their 
+components have ever been outside the State in which 
+they are found.” H.R. Rep. No. 1444, supra, Pt. 1, at 29. 
+Congress concluded that, although the manufacture, 
+local distribution, and possession of controlled sub- 
+stances “are not an integral part of the interstate or 
+foreign flow” of drugs, those activities are nonetheless 
+“incidents” of the interstate and foreign drug traffic 
+that “have a substantial and direct effect upon inter- 
+state commerce.” 21 U.S.C. 801(8). Significantly, Con- 
+gress did not rely on the aggregate effects of illicit local 
+drug activity on the national economy. See Morrison, 
+529 U.S. at 615-619. Rather, Congress viewed intra- 
+state drug activity as significantly affecting the inter- 
+state market for the drugs that are regulated under the 
+statute. Specifically, Congress found that “[lJocal dis- 
+tribution and possession of controlled substances contri- 
+bute to swelling the interstate traffic in such sub- 
+stances” (21 U.S.C. 801(4)); that “after manufacture, 
+many controlled substances are transported in inter- 
+state commerce” (21 U.S.C. 801(3)(A)); that “controlled 
+substances distributed locally usually have been trans- 
+ported in interstate commerce immediately before their 
+distribution,” (21 U.S.C. 801(8)(B)); and that “controlled 
+substances possessed commonly flow through inter- 
+state commerce immediately prior to such possession,” 
+21 U.S.C. 801(3)(C); accord H.R. Rep. No. 1444, supra, 
+Pt. 1, at 29. For those reasons, Congress concluded that 
+“[flederal control of the intrastate incidents of the 
+traffic in controlled substances is essential to the 
+effective control of the interstate incidents of such 
+traffic.” 21 U.S.C. 801(6) (emphasis added). 
+
+Those findings fully support Congress’s conclusions 
+that the local manufacture, distribution, and possession 
+
+
+24 
+
+
+of drugs, including marijuana, are significantly linked to 
+the commerce in drugs regulated under the statute and 
+that comprehensive regulation of that local activity is 
+essential to effectuate control of the interstate drug 
+market.” Local manufacture, distribution, and use of 
+controlled substances—and their possession for those 
+purposes—directly increase the supply of those sub- 
+stances, which in turn increases demand for these sub- 
+stances, which leads to further increases in supply and 
+the marketing to users, thus “swelling” the traffic in the 
+drug. 21 U.S.C. 801(4). “Laws criminalizing the posses- 
+sion of a good decrease the demand for that good. This 
+decreased demand results in a decrease of supply as 
+production becomes less profitable and therefore less 
+attractive.” United States v. Adams, 343 F.3d 1024, 
+1033 (9th Cir. 2003), cert. denied, 124 S. Ct. 2871 (2004). 
+A criminal ban on possession also serves as “a market- 
+ing impediment to those inclined to violate the prohibi- 
+tion on sale.” United States v. Franklyn, 157 F.3d 90, 
+96 (2d Cir. 1998), cert. denied, 525 U.S. 1112 (1999); ef. 
+Osborne v. Ohio, 495 U.S. 103, 109-110 (1990) (“It is 
+
+
+2 The Ninth Circuit concluded that the Court’s decision in 
+“Morrison counsels courts to take congressional findings with a 
+grain of salt.” Pet. App. 20a. That is not correct. Morrison held 
+that Congress lacked the power under the Commerce Clause to 
+regulate gender-motivated violence despite Congress’s findings 
+that such violence had significant effects on the national economy 
+and interstate commerce. 529 U.S. at 615-619. The Court did not, 
+however, cast doubt on its earlier decisions holding that Congress’s 
+findings are entitled to deference. Rather, the Court assumed the 
+rationality of Congress’s findings, but concluded, as matter of 
+constitutional principle, that Congress’s justification was too broad 
+because it would permit Congress to regulate all non-economic 
+crimes in areas of traditional state regulation, thereby blurring the 
+“distinction between what is truly national and what is truly local.” 
+Id. at 617-618. 
+
+
+25 
+
+
+* * * surely reasonable for the State to conclude that 
+it will decrease the production of child pornography if it 
+penalizes those who possess and view the preduct, 
+thereby decreasing demand.”). 
+
+If Congress lacked the power to regulate either +: 
+intrastate production, distribution, and possession c. 
+marijuana generally, or the production, distribution, 
+and possession of marijuana for personal use, the mar- 
+ket effects on the demand and supply of marijuana 
+would likely be enormous. “[(BJoth law enforcement and 
+public health agencies consistently identify marijuana 
+as the most commonly used illicit drug in the country.” 
+National Drug Threat Assessment 1. “The demand for 
+marijuana far exceeds that for any other illicit drug and 
+the size of the American user population equates to 
+steady profits for traffickers.” Drug Availability 103. 
+The risk that both the supply and demand could dra- 
+matically increase were home-grown marijuana beyond 
+the reach of federal law is obvious. Users of home- 
+grown marijuana and those who distribute it for free 
+(such as the John Doe respondents) may ultimately 
+purchase marijuana in the black market, if, for example, 
+their production efforts fail or fall short. Indeed, re- 
+spondents, like many other claimed medical marijuana 
+users, view marijuana consumption as a medical neces- 
+sity. Br. in Opp. 26-29; Pet. App. 84a-85a; J.A. 32-33 
+(Complaint); Oakland Cannabis, supra. 
+
+The “home-grown” manufacturing, free distribution, 
+and possession of controlled substances, whether for 
+recreational or purported medicinal purposes, also pose 
+an appreciable risk of diversion to others for further 
+drug use or distribution, a result that further swells the 
+illicit market. Local users may ultimately sell or divert 
+the drug to others (for instance, should their production 
+yield exceed their purported needs or should additional 
+
+
+26 
+
+
+funds be required to finance their drug production or 
+other activities). The risk of diversion is particularly 
+acute under the regime contemplated by the Ninth 
+Circuit, in which persons, such as the John Doe respon- 
+dents, may manufacture and distribute marijuana to 
+others without charge. Such persons would have an 
+available supply of home-grown marijuana to sell to 
+meet their own financial needs, and they are likely to 
+have no ready means to ensure that the recipients of 
+the marijuana to whom they distribute it for free will 
+not in turn put the drug into the stream of cemmerce. 
+See Pet. App. 34a (Beam, J., dissenting) (Respondents 
+“are growing and/ or using a fungible crop which could 
+be sold in the marketplace.”). 
+
+Finally, the fact that the purported personal use is 
+for medical, rather than recreational, use does nothing 
+to strengthen respondents’ Commerce Clause chal- 
+lenge. In the first place, the entirety of the CSA in- 
+volves the regulation of drugs, most of which, 7.e., those 
+in schedules II through V, have some accepted medical 
+use. See pp. 39-41, infra. In addition, local illicit drug 
+use for purported medicinal purposes significantly af- 
+fects the drug commerce subject to Congress’s regu- 
+lation by inducing the “medicinal” user to refrain from 
+consuming lawful drugs, Pet. App. 34a-35a, 36a (Beam, 
+J., dissenting), or by decreasing the incentives for 
+research and development into new legitimate drugs. 
+Cf. United States v. Rutherford, 442 U.S. 544, 556 
+(1979) (“{I]f an individual suffering from a potentially 
+fatal disease rejects conventional therapy in favor of a 
+drug with no demonstrable curative properties, the 
+consequences can be irreversible.”). For instance, one 
+method of delivery of cannabinoids currently available 
+is Marinol®, which contains a synthetic form of tet- 
+rahdyrocannabinol (THC) in pill form. Marinol® has 
+
+
+27 
+
+
+been approved by the FDA for the treatment of nausea 
+and vomiting associated with cancer chemotherapy and 
+for the treatment of anorexia associated with weight 
+loss in AIDS patients. 64 Fed. Reg. 35,928 (1999). On 
+July 2, 1999, DEA transferred Marinol® from schedule 
+II to schedule III under the CSA, thereby lessening the 
+regulatory restrictions on its use. Jd. at 35,929. Indeed, 
+respondents Raich and Monson were users of many 
+lawful prescription drugs that are controlled under the 
+CSA, including Marinol®, before they turned to mari- 
+juana. J.A. 49-50, 53, 56. Although particular indivi- 
+duals such as respondents may find that lawful drugs 
+such as Marinol® are ineffective or cause serious side- 
+effects, Congress rationlly and constitutionally con- 
+cluded that the public should use only those drugs that 
+the FDA has approved as safe and effective for some 
+medical use—and, if listed under the CSA because of 
+their potential for abuse and dependency, subject to the 
+CSA’s stringent controls that guard against abuse and 
+diversion. 
+
+For the foregoing reasons, Congress’s unquestion- 
+able power to eradicate drug trafficking and distribu- 
+tion also includes the power to ban all production, 
+possession, and use that feeds the illicit drug market. 
+Indeed, courts have generally upheld laws that ban the 
+intrastate possession or manufacture of a commodity as 
+a reasonably necessary means of regulating commerce 
+in the commodity. See, e.g., United States v. Rybar, 103 
+F.3d 273, 283 (3d Cir. 1996) (federal statute validly 
+“targets the possession of machine guns as a demand- 
+side measure to lessen the stimulus that prospective 
+acquisition would have on the commerce in machine 
+guns”), cert. denied, 522 U.S. 807 (1997); Navegar, Inc. 
+v. United States, 192 F.3d 1050, 1058 (D.C. Cir. 1999) 
+(statutory ban on possession of assault weapons “is a 
+
+
+28 
+
+
+measure intended to reduce the demand”), cert. denied, 
+531 U.S. 816 (2000); United States v. Cardoza, 129 F.3d 
+6, 12 (1st Cir. 1997) (“[G]iven Congress’ express pur- 
+pose [to stop commerce in handguns by juveniles], its 
+decision to punish both the supply (sale or transfer) and 
+demand (possession) sides of the market is a means 
+reasonably calculated to achieve its end. * * * * The 
+two prohibitions go hand in hand with one another. 
+Invalidation of one half of the equation would likely 
+have deleterious effects on the efficacy of the legisla- 
+tion.”).° 
+
+b. This Court’s cases also recognize that effective 
+national approaches may require the regulation of 
+purely local activity to prevent the circumvention of 
+federal rules and to facilitate a comprehensive system 
+of regulation. See, e.g., Wickard, supra. In the CSA, 
+Congress rationally addressed all activity involving 
+controlled substances in light of the substantial difficul- 
+
+
+8 Congress has passed many laws banning the intrastate pos- 
+session of a product in order to eliminate an entire market for the 
+commodity. E.g., 16 U.S.C. 668(a) (bald and golden eagles); 18 
+U.S.C. 175(a) (biological weapons), 18 U.S.C. 831(a) (nuclear 
+material), 18 U.S.C. 842(n)(1) (certain plastic explosives); 18 U.S.C. 
+922(0)(1) (machinegun); 18 U.S.C. 922(v)(1) (semiautomatic assault 
+weapons); 18 U.S.C. 922(x)(1) (handguns by juveniles); 18 U.S.C. 
+2342(a) (contraband cigarettes); 18 U.S.C. 2252(a)(4)(B) (child 
+pornography produced with materials shipped in interstate com- 
+merce); cf. United States v. Bass, 404 U.S. 336, 339 n.4 (1971) 
+(declining to reach the question “whether, upon appropriate find- 
+ings, Congress can constitutionally ban the ‘mere possession’ of 
+firearms”). Shortly before its decision in this case, the Ninth 
+Circuit issued two other decisions holding that Congress lacked 
+power under the Commerce Clause to regulate possession of such 
+products. United States v. Stewari, 348 F.3d 1132, 1134-1140 
+(2003) (homemade machinegun); United States v. McCoy, 323 F.3d 
+1114, 1117-1130 (2003) (home-produced child pornography). 
+
+
+29 
+
+
+ties that would be encountered by law enforcement 
+officials if proof were required as to the origin of a drug 
+or the commercial intentions of the person in whose 
+possession the drug was discovered. As Congress 
+found, many drugs produced are thereafter sold (21 
+U.S.C. 801(3)(A)), and many drugs possessed are the 
+result of a previous sale (21 U.S.C. 801(8)(C)). Con- 
+gress also found, however, that, given the fungible 
+nature of drugs, “[cJontrolled substances manufactured 
+and distributed intrastate cannot be differentiated from 
+controlled substances manufactured and distributed 
+interstate,” and thus that “it is not feasible to distin- 
+guish” between such substances “in terms of controls.” 
+21 U.S.C. 801(5); accord S. Rep. No. 613, supra, at 4.‘ 
+That finding comports with common sense, and fully 
+justifies the regulation of intrastate as well as inter- 
+state activities. See, e.g., Darby, 312 U.S. at 117-118; 
+Currin v. Wallace, 306 U.S. 1, 11 (1939); compare Sabri, 
+124 S. Ct. at 1946. It often would be impossible to 
+ascertain in any given case whether an illicit, unlabeled 
+drug, such as marijuana, has either been purchased or 
+
+
+* Likewise, shortly before the passage of the CSA, Congress 
+passed the Drug Abuse Control Amendments of 1965, which 
+amended the Food, Drug and Cosmetic Act, to establish controls 
+for depressant and stimulant drugs. Pub. L. No. 89-74, 79 Stat. 
+226. Congress therein found that “in order to make regulation and 
+protection of interstate commerce in such drugs effective, regula- 
+tion of intrastate commerce is also necessary because, among other 
+things, such drugs, when held for illicit sale, often do not bear 
+labeling showing their place of origin and because in the form in 
+which they are so held or in which they are consumed a deter- 
+mination of their place of origin is often extremely difficult or im- 
+possible.” § 2,79 Stat. 227. In enacting the CSA, Congress reason- 
+ably drew upon its earlier experience in attempting to control the 
+interstate drug market. See Fullilove v. Klutznick, 448 U.S. 448, 
+503 (1980) (Powell, J., concurring). 
+
+
+30 
+
+
+is intended to be offered for sale. That is true not only 
+of the processed marijuana smoked by respondents 
+Raich and Monson, but also of the other home-made 
+marijuana products such as “cannabis oils, balm, and 
+foods” that Raich processes and consumes. Pet. App. 
+5a. There accordingly would be difficult, if not impossi- 
+ble, questions of proof if the government were required 
+to demonstrate that a given quantity of marijuana that 
+a person possessed, manufactured, or distributed to 
+others without charge had previously entered, or would 
+enter, into the stream of monetary commerce. Indeed, 
+much of the marijuana obtained by users “for free” 
+from friends or acquaintances was, at some earlier 
+point, presumably purchased in a commercial transac- 
+tion. Cf. Marijuana Fact Sheet 4 (“About 79% of 
+marijuana users who bought the drug and 81.8% who 
+obtained the drug for free got it from a friend.”). But 
+proof of that prior commercial chain of custody would 
+be exceedingly difficult. Those dif‘iculties of proof 
+would be compounded by the fact that commercial pro- 
+duction, distribution, and related possession of mari- 
+juana take place in an illicit market. The illicit nature 
+of the market requires that the activity be undertaken 
+in a clandestine manner to evade detection by law 
+enforcement officers, see, e.g., Drug Trafficking 10, 
+National Drug Threat Assessment 8-12, and is wholly 
+inconsistent with the kind of regulation and labeling 
+that would be required to prove (or disprove) that 
+certain drugs flowed in interstate or foreign commerce 
+or were not for medicinal use. 
+
+Moreover, because the FDA has never approved 
+marijuana as safe and effective for any medicinal use, 
+and Congress has determined in the CSA that mari- 
+juana has no acceptable medical uses, 21 U.S.C. 
+812(b)\(1)(B), there are no federal standards by which to 
+
+
+31 
+
+
+judge how much marijuana appropriately could be 
+possessed, home-grown, or distributed for personal 
+“medicinal” use. Not surprisingly, marijuana users con- 
+sume the drug “at varying rates ‘and in unlike quanti- 
+ties,” and the drug itself has widely “varying potency.” 
+Drug Availability 138. Thus, it would often be difficult 
+to prove whether relatively small quantities of mari- 
+juana were being held, produced, or distributed for 
+commercial, recreational or medicinal use. E.g., People 
+v. Mower, 49 P.3d 1067, 1072, 1084 (Cal. 2002) (holding 
+that a jury question existed whether possession of 31 
+marijuana plants was for personal medicinal use under 
+Cal. Hea’th & Safety Code § 11362.5, where defense 
+presented evidence that plants would yield harvest of 
+five pounds and prosecution presented evidence that 
+plants would yield between 31 and 62 pounds). 
+
+The Ninth Circuit dismissed these law enforcement 
+concerns, observing that “the marijuana in the instant 
+case never entered into and was never intended for 
+interstate or foreign commerce.” Pet. App. 21a n.7. 
+The court, however, failed to explain how, under the 
+court’s dezision, federal law enforcement officials would 
+enforce the CSA as to persons consuming, possessing, 
+growing, or distributing marijuana where specific proof 
+of a commercial transaction or purpose is lacking. In 
+those situations, the CSA could not be enforced even 
+though Congress specifically found that controlled sub- 
+stances typically have or will enter the stream of com- 
+merce. 21 U.S.C. 801(3). Thus, Congress would lack 
+the power to provide for the effective enforcement of 
+the CSA with respect to a large category of individuals 
+who are engaging in commercial activity clearly subject 
+to congressional regulation. Given that there are an 
+estimated 25.8 million current users of marijuana in the 
+United States—even though the manufacture, distribu- 
+
+
+32 
+
+
+tion, and possession of marijuana are categorically 
+illegal under federal law, Marijuana Fact Sheet 1—the 
+law enforcement problems created by exempting non- 
+commercial and intrastate marijuana activities from the 
+CSA’s reach could well be staggering. 
+
+A ban on all possession is accordingly essential to 
+permit “law enforcement to effectively regulate the 
+manufacture and transfers where the product comes to 
+rest, in the possession of the receiver.” Navegar, Inc., 
+192 F.3d at 1059. As the Fifth Circuit has observed in 
+rejecting a challenge to the statutory prohibition of 
+possession of child pornography, a market “is pushed by 
+supply and demand, whether manifested in swaps or 
+purchase and sale,” and “where the product is fungible, 
+such that it is difficult if not impossible to trace, 
+Congress can prohibit local possession in an effort to 
+regulate product supply and demand and thereby halt 
+interstate trade.” United States v. Kallestad, 236 F.3d 
+225, 231 (2000). 
+
+2. Federally unregulated local manufacture, distri-- 
+bution, and possession of controlled substances 
+would substantially undercut Congress’s closed 
+system of distribution of those dangerous drugs 
+
+The intrastate manufacture, possession, and free 
+distribution of controlled substances would significantly 
+interfere with Congress’s objectives under the CSA to 
+establish a national, comprehensive, uniform—and 
+closed—statutory scheme to control the market in 
+controlled substances in order to prevent the abuse and 
+diversion of those substances. As discussed above (at 
+23-32), the unregulated intrastate manufacturing, pos- 
+session, and distribution of a drug would contribute to 
+the illicit trafficking in and marketing of the drug, 
+would increase the likelihood that the drug would be 
+
+
+33 
+
+
+diverted and sold for illegitimate uses, and would 
+prevent effective enforcement of the interstate ban on 
+drug trafficking. The CSA’s closed system of distri- 
+bution was designed to address those serious problems, 
+while at the same time providing a means for the pro- 
+duction and distribution under the strict controls in the 
+CSA itself of those controlled substances that (unlike 
+marijuana) have been found to have accepted and 
+legitimate medical uses. 
+
+The adverse effect of the court of appeals’ decision on 
+the administration and enforcement of the CSA is 
+readily illustrated as applied to the manufacture, dis- 
+tribution, and possession of drugs listed in schedules II 
+through V (such as methadone, codeine and other 
+opioids), which may be dispensed and prescribed for 
+medical use. 21 U.S.C. 812(b)(2)(B), (3)(B), (4)(B) and 
+(5)(B). Although such drugs have an accepted medical 
+use in treatment, they nonetheless are subject to abuse 
+and resulting dependence, with attendant adverse con- 
+sequences to public health and safety. 21 U.S.C. 
+812(b)(2)(A) and (C), (3)(A) and (C), (4)(A) and (C), and 
+(5)(A) and (C). The CSA accordingly requires manu- 
+facturers, physicians, pharmacies, and other legitimate 
+handlers of such drugs to comply with stringent statu- 
+tory and regulatory provisions that mandate registra- 
+tion with the DEA, require compliance with specific 
+production quotas, establish security controls to guard 
+against the theft or diversion of drugs, impose record- 
+keeping and reporting obligations, and permit the drug 
+to »e distributed and dispensed only pursuant to speci- 
+fic order-form and prescription requirements. 21 
+U.S.C. 821-829; 21 C.F.R. Pts. 1301-1306. 
+
+Were Congress to lack the power under the Com- 
+merce Clause to apply the CSA to the intrastate manu- 
+facture, free distribution, and possession of controlled 
+
+
+34 
+
+
+substances on schedules II through V, persons operat- 
+ing intrastate could function essentially as unregulated 
+and unsupervised drug manufacturers and pharmacies 
+without being subject to any of the federal controls 
+Congress put in place under the CSA. That state of 
+affairs would manifestly undermine the CSA’s purposes 
+to establish a comprehensive and unified approach to 
+“dangerous drug control” and to guard against the risks 
+of drug abuse and the diversion of controlled substances 
+from “legitimate channels into the illicit market.” H.R. 
+Rep. No. 1444, supra, Pt. 1, at 6. Such a regime would 
+also cause the precise threats to public health and 
+safety that Congress sought to avert in passing the 
+CSA. See 21 U.S.C. 801 (finding that “[tJhe illegal 
+* * * manufacture, distribution, and possession and 
+improper use of controlled substances have a substan- 
+tial and detrimental effect on the health and general 
+welfare of the American people.”). 
+
+The threat to the comprehensive nature of the CSA 
+from an intrastate, personal use, or free distribution 
+exception would be greater still for a schedule I drug, 
+like marijuana, which Congress has found has no 
+accepted medical use and may not be manufactured, 
+distributed, or possessed under any circumstances, ex- 
+cept as part of a strictly controlled research project. 21 
+U.S.C. 812(b), 823(f). Congress’s efforts to control any 
+trafficking in marijuana would be significantly under- 
+mined were Congress to lack the power to prevent the 
+manufacture, free distribution, and related possession 
+of marijuana from swelling the market, and thereby to 
+make effective the exercise of its undeniable power to 
+eradicate marijuana trafficking. Congress’s purpose to 
+prevent the social harms stemming from drug abuse 
+similarly would be defeated were Congress to lack the 
+power to prevent such activities. As Judge Beam con- 
+
+
+35 
+
+
+cluded, “[{iJf Congress cannot reach individual [mari- 
+juana] growers, possessors, and users, its overall statu- 
+tory scheme will be totally undermined.” Pet. App. 38a. 
+This is clearly a situation in which the intrastate activi- 
+ties at issue not only “affect interstate commerce,” but 
+also “the exercise of Congress’s power over it.” Darby, 
+312 U.S. at 118. The regulation of such activities is, 
+therefore, a necessary and proper means of ensuring 
+the full accomplishment of the purposes of the CSA and 
+the integrity of its closed system of distribution. See, 
+e.g., Sabri, 124 S. Ct. at 1946-1947; Jinks, 538 U.S. at 
+461-464. 
+
+
+D. The Ninth Circuit’s Reliance On Respondents’ 
+
+
+Purported Medical Use Of Marijuana Is Seriously 
+Flawed 
+
+
+The court of appeals apparently accepted the pro- 
+position that the CSA constitutionally applies to a 
+broad class of activities that includes the commercial 
+manufacture, distribution, and possession of controlled 
+substances, including marijuana, whether these activi- 
+ties occur interstate or intrastate. Pet. App. 10a-1la. 
+The court held, however, that the CSA could not con- 
+stitutionally be applied to what it characterized as a 
+“separate and distinct class of activities: the intrastate, 
+noncommercial cultivation and possession of cannabis 
+for personal medical purposes as recommended by a 
+patient’s physician pursuant to valid California state 
+law,” id. at 1la, because the court of appeals did not 
+perceive that class to involve economic activity or to 
+have a substantial effect on interstate commerce, id. at 
+1la-12a, 16a-17a. 
+
+The court’s reasoning rested on two equally mistaken 
+premises. First, the court improperly excised a sub- 
+class of activities that cannot be divorced from the 
+
+
+36 
+
+
+general class of activities regulated by the CSA. 
+Second, the court erroneously concluded that factors it 
+believed to be unique to the assertedly medical use of 
+marijuana as approved by a physician render Congress 
+powerless to regulate the manufacture, free distri- 
+bution, and possession of marijuana under the CSA 
+when such activities occur for purported medical pur- 
+
+
+poses. 
+1. Respondents are engaged in economic activity 
+
+
+The court’s reliance on the non-commercial nature of 
+respondents’ conduct ignores the fact that the sort of 
+drug activities in which respondents engage were 
+reasonably determined by Congress to be part of the 
+overall class of activities covered by the CSA—the 
+manufacture, distribution, and possession of controlled 
+substances—that unquestionably “involve[s] economic 
+activity” and substantially affects commerce. Lopez, 
+514 U.S. at 560. Because the CSA is a “general regula- 
+tory statute” that “bears a substantial relation to com- 
+merce, the de minimis character of individual instances 
+arising under that statute is of no consequence.” Id. at 
+558 (quoting Wirtz, 392 U.S. at 197 n.27) (last emphasis 
+added). As the Second Circuit has explained in 
+upholding the CSA as applied to the manufacture of 
+marijuana without the intent to distribute it, “(t]he 
+nexus to interstate commerce * * * is determined by 
+the class of activities regulated by the statute as a 
+whole, not by the simple act for which an individual 
+defendant is convicted.” Proyect v. United States, 101 
+F.3d 11, 13 (2d Cir. 1996); see United States v. Davis, 
+288 F.3d 359, 362 (8th Cir.) (sustaining application of 
+CSA restriction on possession to a:defendant’s home 
+manufacture of methamphetamine because the conduct 
+constituted part of the “economic endeavor” compre- 
+
+
+37 
+
+
+hensively regulated by the statute), cert. denied, 537 
+U.S. 822 (2002); accord United States v. Leshuk, 65 F.3d 
+1105, 1112 (4th Cir. 1995). The Ninth Circuit accord- 
+gly erred in seizing on whether respondents’ activi- 
+ules, in isolation, were non-commercial or had interstate 
+effects, without ever considering whether Congress 
+reasonably included respondents’ activities as part of 
+the overall class of drug activities regulated by the 
+CSA in order to establish a comprehensive scheme of 
+regulation of the market in controlled substances. 
+Moreover, as noted above (see pp. 21-22, swpra) re- 
+spondents’ manufacturing, distribution, and possession 
+activities themselves “involved economic activity” 
+(Lopez, 514 U.S. at 560) to at least the same extent as 
+Roscoe Filburn’s home-grown production of wheat in 
+Wickard. In both cases, the regulated individuals are 
+producing a fungible commodity for which there is an 
+established market and are doing so for their own use 
+when they would otherwise be participants in a regu- 
+lated market. Indeed, the Doe respondents are pro- 
+ducing and distributing the commodity for others, but 
+claim to distribute it free of charge. In Wickard, 
+Filburn would have purchased his wheat in the oper 
+market to meet his needs. Likewise, in this case, 
+persons such as respondents would presumably either 
+purchase FDA-approved (and if listed, CSA-controlled) 
+prescription drugs in the open market or purchase 
+marijuana in the black market. Indeed, respondent 
+Monson testified in this case that as a result of the 
+DEA’s seizure of her “medicinal [marijuana] plants,” “I 
+must now find a way to get my medicine from another 
+source.” J.A. 59 (emphasis added). Similarly, respon- 
+dent Raich testified that she has previously obtained 
+her marijuana from the Oakland Cannabis Buyers’ 
+Cooperative, a commercial distributor of marijuana, and 
+
+
+38 
+
+
+she also testified that after federal agents shut down 
+that cooperative, “I was forced to obtain my medication 
+on the street.” J.A. 87 (emphasis added). More broadly, 
+the prevailing conditions in the commercial market for 
+wheat or marijuana influence the extent to which 
+individuals self-produce or buy on the open market, and 
+the activities of these individuals in turn affect the 
+market. See Lopez, 514 U.S. at 560-561 (quoting 
+Wickard, 317 U.S. at 128). 
+
+To be sure, in Wickard, the home-grown production 
+competed with wheat in a lawful market that Congress 
+sought to protect and stabilize, whereas marijuana is an 
+illicit substance (except in the context of strictly 
+controlled research projects) and therefore is distri- 
+buted in an wnlawful market. But there is nothing in 
+the Court’s Commerce Clause jurisprudence that sug- 
+gests that Congress’s power is weaker when a regu- 
+lated product is particularly harmful and therefore 
+illicit. The salient point is that for both the wheat in 
+Wickard and the marijuana here, the commodity at 
+issue is subject to a comprehensive scheme of regula- 
+tion clearly within Congress’s commerce power, and the 
+activities of those who produce, possess, or distribute 
+the commodity for personal use have economic impacts 
+on the market in such a way as to interfere with Con- 
+gress’s attempt to regulate it. 
+
+The Ninth Circuit was accordingly wrong in deeming 
+respondents’ “limited [marijuana] use [as] clearly 
+distinct” from the broader illicit commercial drug mar- 
+ket because “the medicinal marijuana at issue in this 
+case is not intended for, nor does it enter, the stream of 
+commerce.” Pet. App. lla. This Court in Wickard, and 
+again in Lopez, rejected that very distinction. Wickard 
+thus held that Congress could regulate home-grown 
+manufacture of wheat that was not “sold or intended to 
+
+
+39 
+
+
+be sold,” Wickard, 317 U.S. at 119, and that “may not be 
+regarded as commerce.” Lopez, 514 U.S. at 556 
+(quoting Wickard, 317 U.S. at 125). Indeed, the logic of 
+the Ninth Circuit’s distinction would prevent Congress 
+from regulating the production and possession—and 
+even the free distribution—of any controlled substance 
+for any personal (including recreational) use, since in 
+that situation, too, the drug “is not intended for, nor 
+does it enter, the stream of commerce” (Pet. App. 11a), 
+at least as the Ninth Circuit conceived of that stream. 
+Thus, it is simply irrelevant that respondents’ activities 
+are not commercial in the sense of involving a transac- 
+tion for consideration, since they do involve economic 
+activity in a class that substantially affects both the 
+market for controlled substances and the effectiveness 
+and integrity of Congress’s comprehensive program to 
+regulate that market. 
+
+
+2. The purported medical purposes of respondents’ 
+activities do not remove the conduct from Con- 
+gress’s commerce power 
+
+The court of appeals also critically erred in relying on 
+the fact that respondents’ activities are for purported 
+medical purposes and that Congress’s findings in 21 
+U.S.C. 801 do not specifically address marijuana or the 
+use of marijuana for those purposes. Pet. App. 11a, 19a. 
+Congress’s findings are directed at all controlled sub- 
+stances, which of course include marijuana. 21 U.S.C. 
+801, 812(c) (schedule I(c)(10) and (17)). Congress clearly 
+had marijuana in mind in making those findings given 
+Congress’s prominent placement of marijuana in 
+schedule I to be “subject to the most stringent controls” 
+and Congress’s awareness that marijuana was one of 
+“the most widely abused drug{[s]” in the country. H.R. 
+
+
+40 
+
+
+Rep. No. 1444, supra, Pt. 1, at 7, 13; accord S. Rep. No. 
+613, supra, at 2-4. 
+
+For purposes of defining Congress’s power under the 
+Commerce Clause in enacting the CSA, moreover, 
+there is no basis for distinguishing marijuana produc- 
+tion, distribution, or use for purported medicinal pur- 
+poses, as opposed to recreational (or any other) pur- 
+pose. To the contrary, as part of its comprehensive 
+regulation of controlled substances, the CSA specifi- 
+cally speaks to the use of controlled substances for 
+medical purposes and the role of physicians in approv- 
+ing their use. For example, whether a substance has an 
+accepted medical use in treatment in the United States 
+is one of the criteria for placement of a controlled sub- 
+stance in schedules I through V, 21 U.S.C. 812(b), and 
+controlled substances generally may be manufactured, 
+distributed, and possessed under the CSA, if at all, only 
+for medical purposes. E.g., 21 U.S.C. 802(21). And 
+where there is an accepted medical use for a controlled 
+substance, the manufacture and distribution of the drug 
+may occur only within the closed regulatory scheme of 
+the Act itself, because of the potential for abuse of and 
+dependence on the drug. 
+
+The regulatory scheme imposes registration, label- 
+ing, packaging, production, and record-keeping require- 
+ments to maintain the safety and integrity of the pro- 
+gram, 21 U.S.C. 822-827, and mandates a prescription 
+for dispensing a drug if such a prescription is required 
+by the Federal Food, Drug, and Cosmetic Act. 21 
+U.S.C. 829. Such regulation of the manufacturing and 
+dispensing of drugs by pharmacies and others for medi- 
+cal use falls squarely within the scope of Congress’s 
+powers under the Commerce Clause. The Act also 
+speaks to the role of physicians in dispensing controlled 
+substances. It requires that they be registered under 
+
+
+4] 
+
+
+the CSA to do so, and requires a physician’s prescrip- 
+tion for dispensing the drug, unless it is directly 
+dispensed by the physician personally. 21 U.S.C. 829. 
+
+In short, neither the purported medical use of mari- 
+juana nor the role of a physician in approving it 
+provides the slightest basis for excluding it from the 
+comprehensive coverage of the CSA, any more than 
+those factors would support excluding any other con- 
+trolled substance from the Act. The class of conduct 
+covered by the CSA unquestionably is subject to 
+regulation by Congress under the Commerce Clause 
+because it has a substantial effect on interstate com- 
+merce, and Congress plainly had a rational basis for 
+including the manufacture, free distribution, and pos- 
+session of marijuana for purported medical purposes 
+within that class. 
+
+The court was of the view that “concern regarding 
+users’ health and safety is significantly different in the 
+medicinal marijuana context, where the use is pursuant 
+to a physician’s recommendation,” Pet. App. lla, and 
+that “the limited medicinal use of marijuana as recom- 
+mended by a physician arguably does not raise the 
+same policy concerns regarding the spread of drug 
+abuse.” Jbid. Congress has rejected those very propo- 
+sitions. The CSA specifies that marijuana, as a sched- 
+ule I drug, has “no currently accepted medical use in 
+treatment in the United States,” a “high potential for 
+abuse,” and “a lack of accepted safety for use” even “un- 
+der medical supervisidn.” 21 U.S.C. 812(b)(1)(A)-(C).° 
+
+
+5 The CSA contains provisions under which a controlled sub- 
+stance that has been placed in schedule I (or any other schedule) 
+may be transferred to another schedule or entirely removed from 
+the schedules. 21 U.S.C. 811. In 2001, DEA denied a petition to 
+reschedule marijuana, based on an evaluation of the medical and 
+scientific evidence demonstrating that marijuana continues to 
+
+
+42 
+
+
+Moreover, even for those controlled drugs that 
+(unlike marijuana) have been determined to have an 
+accepted medical use in treatment and therefore are 
+listed in schedules II through V, the CSA imposes com- 
+prehensive restrictions on the manufacture, distribu- 
+tion, and possession of the drugs—including restrictions 
+on physicians and pharmacies—in order to maintain the 
+closed system of distribution and to protect the public 
+health and safety. The court of appeals’ decision, by 
+contrast, would place marijuana—a schedule I sub- 
+stance—wholly outside those regulatory safeguards. 
+Thus, the court of appeals’ conclusion that the posses- 
+sion, manufacture, and free distribution of marijuana 
+for purported personal “medicinal” use justify exclud- 
+ing those activities altogether from the reach of the 
+CSA is flatly inconsistent with the fundamental pre- 
+mises and purposes of the CSA. Indeed, far from 
+suggesting that the purported medical use of a drug is a 
+basis for excluding it from the scope of regulation under 
+the CSA as a matter of constitutional law, the medical 
+setting for the use of a drug that is subject to abuse 
+provides further justification for its regulation. 
+
+
+meet the criteria for placement in schedule I. 66 Fed. Reg. at 
+20,038. The DEA relied in significant part on the medical and 
+scientific analysis by the Department of Health and Human Ser- 
+vices (HHS), as well as HHS’s conclusions that “[tJhere are no 
+FDA-approved marijuana products” and “there have been no 
+studies that have scientifically assessed the efficacy of marijuana 
+for any medical condition.” Jd. at 20,051, 20,052. The DEA pre- 
+viously had rejected a petition to reschedule marijuana in 1992 (57 
+Fed. Reg. 10,499), and that denial was affirmed by the D.C. Circuit. 
+Alliance for Cannabis Therapeutics v. DEA, 15 F.3d 1131, 1137 
+(1994) (“(TJhe Administrator’s findings are supported by substan- 
+tial evidence,” including “the testimony of numerous experts that 
+marijuana’s medicinal value has never been proven in sound 
+scientific studies.”). 
+
+
+43 
+
+
+The court of appeals’ reliance on the purported medi- 
+cal purposes of respondent’s drug activities also is 
+inconsistent with this Court’s decision in Oakland 
+Cannabis. In holding that the CSA forecloses a medical 
+necessity defense to an enforcement action under the 
+CSA, which the Ninth Circuit had embraced, the Court 
+explained that the CSA 
+
+
+reflects a determination that marijuana has no 
+medical benefits worthy of an exception (outside the 
+confines of a Government-approved research pro- 
+ject). Whereas some other drugs can be dispensed 
+and prescribed for medical use, see 21 U.S.C. § 829, 
+the same is not true for marijuana. Indeed, for pur- 
+poses of the Controlled Substances Act, marijuana 
+has “no currently accepted medical use” at all. 
+
+
+532 U.S. at 491. The Court emphasized that, “[lJest 
+there be any confusion, we clarify that nothing in our 
+analysis, or the statute, suggests that a distinction 
+should be drawn between the prohibitions on manu- 
+facturing and distributing and the other prohibitions in 
+the Controlled Substances Act.” Jd. at 494 n.7. In 
+short, the Ninth Circuit purports to give a Commerce 
+Clause basis for effectively re-instating the medical 
+necessity defense that the court of appeals previously 
+adopted in Oakland Cannabis based on the same 
+improper rejection of the congressional judgments em- 
+bodied in the CSA. Because Congress’s policy judg- 
+ments respecting marijuana are reflected in a compre- 
+hensive drug statute that regulates the market in 
+controlled substances, the CSA is constitutional as 
+applied to respondents’ drug manufacture, distribution, 
+and possession. 
+
+
+44 
+
+
+CONCLUSION 
+
+
+The judgment of the court of appeals should be 
+reversed. 
+
+
+Respectfully submitted. 
+
+
+PAUL D. CLEMENT 
+Acting Solicitor General 
+PETER D. KEISLER 
+Assistant Attorney General 
+EDWIN S. KNEEDLER 
+Deputy Solicitor General 
+LISA S. BLATT 
+Assistant to the Solicitor 
+General 
+MARK B. STERN 
+ALISA B. KLEIN 
+MARK T. QUINLIVAN 
+Attorneys 
+
+
+AUGUST 2004 
+
+

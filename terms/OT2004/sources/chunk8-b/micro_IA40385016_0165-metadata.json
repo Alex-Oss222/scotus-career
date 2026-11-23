@@ -1,0 +1,1064 @@
+{
+  "alternate_locations": {
+    "servers": [
+      {
+        "server": "dn721900.ca.archive.org",
+        "dir": "/0/items/micro_IA40385016_0165"
+      },
+      {
+        "server": "dn760106.eu.archive.org",
+        "dir": "/0/items/micro_IA40385016_0165"
+      }
+    ],
+    "workable": [
+      {
+        "server": "dn721900.ca.archive.org",
+        "dir": "/0/items/micro_IA40385016_0165"
+      },
+      {
+        "server": "dn760106.eu.archive.org",
+        "dir": "/0/items/micro_IA40385016_0165"
+      }
+    ]
+  },
+  "created": 1795461291,
+  "d1": "ia600600.us.archive.org",
+  "d2": "ia800600.us.archive.org",
+  "dir": "/27/items/micro_IA40385016_0165",
+  "files": [
+    {
+      "name": "__ia_thumb.jpg",
+      "source": "original",
+      "mtime": "1710899236",
+      "size": "11073",
+      "md5": "24fbf12f8c33acedd47a36e983e3de1c",
+      "crc32": "d2a8eecd",
+      "sha1": "76abcf825981988d449391812bde3c08d63a7e2a",
+      "format": "Item Tile"
+    },
+    {
+      "name": "micro_IA40385016_0165 1. Slip Opinion.pdf",
+      "source": "derivative",
+      "pdf_module_version": "0.0.23",
+      "format": "Text PDF",
+      "original": "micro_IA40385016_0165 1. Slip Opinion_page_numbers.json",
+      "mtime": "1710949831",
+      "size": "13672117",
+      "md5": "8fcbd5a7c32a6fbc568f1f5fea28a6af",
+      "crc32": "e3edbc95",
+      "sha1": "e4b1cf74699ac8880a6baf3138296c390bedcd3f"
+    },
+    {
+      "name": "micro_IA40385016_0165 1. Slip Opinion_chocr.html.gz",
+      "source": "derivative",
+      "ocr": "tesseract 5.3.0-6-g76ae",
+      "ocr_parameters": "lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+      "ocr_module_version": "0.0.21",
+      "ocr_detected_script": "Fraktur",
+      "ocr_detected_script_conf": "0.7118",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "format": "chOCR",
+      "original": "micro_IA40385016_0165 1. Slip Opinion_jp2.zip",
+      "mtime": "1710948440",
+      "size": "2231298",
+      "md5": "61e0c03e406a93570e152005b3f8106e",
+      "crc32": "2492ee8f",
+      "sha1": "a4f93d6d188668d7d10f35f5c6030ab69bed4c1d"
+    },
+    {
+      "name": "micro_IA40385016_0165 1. Slip Opinion_djvu.txt",
+      "source": "derivative",
+      "format": "DjVuTXT",
+      "original": "micro_IA40385016_0165 1. Slip Opinion_djvu.xml",
+      "mtime": "1710950273",
+      "size": "165013",
+      "md5": "09d2124d34bd6e406a4a604b59eda945",
+      "crc32": "3466c3a4",
+      "sha1": "0993bf08751af8bd28307271829cf5cf6a1c9934"
+    },
+    {
+      "name": "micro_IA40385016_0165 1. Slip Opinion_djvu.xml",
+      "source": "derivative",
+      "format": "Djvu XML",
+      "original": "micro_IA40385016_0165 1. Slip Opinion_hocr.html",
+      "mtime": "1710949209",
+      "size": "2016871",
+      "md5": "52262cd80081f23270117a277a0d9f7b",
+      "crc32": "948195ab",
+      "sha1": "26b5a1722e1f01b8c34cc51590037bc7d9be7f84"
+    },
+    {
+      "name": "micro_IA40385016_0165 1. Slip Opinion_hocr.html",
+      "source": "derivative",
+      "hocr_char_to_word_module_version": "1.3.0",
+      "hocr_char_to_word_hocr_version": "1.1.56",
+      "ocr_parameters": "lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+      "ocr_module_version": "0.0.21",
+      "ocr_detected_script": "Fraktur",
+      "ocr_detected_script_conf": "0.7118",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "format": "hOCR",
+      "original": "micro_IA40385016_0165 1. Slip Opinion_chocr.html.gz",
+      "mtime": "1710949120",
+      "size": "3693762",
+      "md5": "94bc99dff8ea876d541380140c96f234",
+      "crc32": "b427499a",
+      "sha1": "80d83aa464b9acbcc2e0c0a3dff2d75b4b4f67fc"
+    },
+    {
+      "name": "micro_IA40385016_0165 1. Slip Opinion_hocr_pageindex.json.gz",
+      "source": "derivative",
+      "hocr_pageindex_module_version": "1.1.0",
+      "hocr_pageindex_hocr_version": "1.1.56",
+      "format": "OCR Page Index",
+      "original": "micro_IA40385016_0165 1. Slip Opinion_hocr.html",
+      "mtime": "1710949258",
+      "size": "952",
+      "md5": "0715dfac87603b1b2515aa64b0d33bb6",
+      "crc32": "788c94f5",
+      "sha1": "9bb6abc33c8d1af4b5d1931a0d25fa832e2ffad3"
+    },
+    {
+      "name": "micro_IA40385016_0165 1. Slip Opinion_hocr_searchtext.txt.gz",
+      "source": "derivative",
+      "hocr_fts_text_module_version": "1.2.0",
+      "hocr_fts_text_hocr_version": "1.1.56",
+      "word_conf_0_10": "108",
+      "word_conf_11_20": "71",
+      "word_conf_21_30": "90",
+      "word_conf_31_40": "102",
+      "word_conf_41_50": "88",
+      "word_conf_51_60": "102",
+      "word_conf_61_70": "103",
+      "word_conf_71_80": "159",
+      "word_conf_81_90": "738",
+      "word_conf_91_100": "23491",
+      "format": "OCR Search Text",
+      "original": "micro_IA40385016_0165 1. Slip Opinion_hocr.html",
+      "mtime": "1710949286",
+      "size": "52171",
+      "md5": "ceb291fdf800e932c389be8d74943958",
+      "crc32": "35365c13",
+      "sha1": "1d6320dd6c29b855e22fc041ccf622b5fc65eba6"
+    },
+    {
+      "name": "micro_IA40385016_0165 1. Slip Opinion_jp2.zip",
+      "source": "derivative",
+      "title": "1. Slip Opinion",
+      "microfiche_deriver_module_version": "1.1.1",
+      "format": "Single Page Processed JP2 ZIP",
+      "original": "micro_IA40385016_0165_micro_scan.json",
+      "mtime": "1710947860",
+      "size": "33485143",
+      "md5": "e42feb82f63647a8613327f863a4b06d",
+      "crc32": "deb6eace",
+      "sha1": "3d3d19a39b1bcd0f077bf335daf6041204201b25",
+      "filecount": "80"
+    },
+    {
+      "name": "micro_IA40385016_0165 1. Slip Opinion_page_numbers.json",
+      "source": "derivative",
+      "hocr_pagenumber_module_version": "1.0.5",
+      "hocr_pagenumber_hocr_version": "1.1.54",
+      "hocr_pagenumber_confidence": "55",
+      "format": "Page Numbers JSON",
+      "original": "micro_IA40385016_0165 1. Slip Opinion_hocr.html",
+      "mtime": "1710949319",
+      "size": "13393",
+      "md5": "c0f2d8154a4ef184dc7da3316b585c1a",
+      "crc32": "70014fe4",
+      "sha1": "e74ad70a7223bd62df89bf87e642687d92fd4b3c"
+    },
+    {
+      "name": "micro_IA40385016_0165 1. Slip Opinion_scandata.xml",
+      "source": "derivative",
+      "format": "Scandata",
+      "original": "micro_IA40385016_0165_micro_scan.json",
+      "mtime": "1710949319",
+      "size": "28195",
+      "md5": "0bcaf35c2362f88a10cda5d26df8b884",
+      "crc32": "c6951e5b",
+      "sha1": "c65b9d916ce6853d62385bc6032c4e3e5ee956cb"
+    },
+    {
+      "name": "micro_IA40385016_0165.pdf",
+      "source": "derivative",
+      "pdf_module_version": "0.0.23",
+      "format": "Text PDF",
+      "original": "micro_IA40385016_0165_page_numbers.json",
+      "mtime": "1710950222",
+      "size": "13671957",
+      "md5": "3bb6b006bfcae1f4c5c85c8d17df5589",
+      "crc32": "064aa4a9",
+      "sha1": "e9936a9c7112ef66155f4c37a98fb404fe9b13ae"
+    },
+    {
+      "name": "micro_IA40385016_0165_archive.torrent",
+      "source": "metadata",
+      "btih": "6fdb7bef6f090dfee4a9dddf415e61a46fda3c82",
+      "mtime": "1765933503",
+      "size": "13960",
+      "md5": "7be0738544e55fea2357e12e27056074",
+      "crc32": "9b500519",
+      "sha1": "de218cc9c4f671874dfbc50418d2b80172f5c706",
+      "format": "Archive BitTorrent"
+    },
+    {
+      "name": "micro_IA40385016_0165_chocr.html.gz",
+      "source": "derivative",
+      "ocr": "tesseract 5.3.0-6-g76ae",
+      "ocr_parameters": "lang-eng;lang-Fraktur;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+      "ocr_module_version": "0.0.21",
+      "ocr_detected_script": "Fraktur",
+      "ocr_detected_script_conf": "0.9019",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "format": "chOCR",
+      "original": "micro_IA40385016_0165_jp2.zip",
+      "mtime": "1710949039",
+      "size": "2233910",
+      "md5": "28b4c12f670da40ccd9d8c833304eb30",
+      "crc32": "a9e1bb68",
+      "sha1": "cbe34e0d309b489f51f65bac032b0128797324a8"
+    },
+    {
+      "name": "micro_IA40385016_0165_djvu.txt",
+      "source": "derivative",
+      "format": "DjVuTXT",
+      "original": "micro_IA40385016_0165_djvu.xml",
+      "mtime": "1710950274",
+      "size": "164541",
+      "md5": "781eb6233e3a0b10b72dd1908e519365",
+      "crc32": "f84a1606",
+      "sha1": "b909d33d7c8e3f734152f3e50c0cac923e90a6a4"
+    },
+    {
+      "name": "micro_IA40385016_0165_djvu.xml",
+      "source": "derivative",
+      "format": "Djvu XML",
+      "original": "micro_IA40385016_0165_hocr.html",
+      "mtime": "1710949206",
+      "size": "2013060",
+      "md5": "c6817b91c1a8d95d357d3c76b4178f2c",
+      "crc32": "1b3996b4",
+      "sha1": "95ca1545e485324d44b31771d53131157d927559"
+    },
+    {
+      "name": "micro_IA40385016_0165_files.xml",
+      "source": "original",
+      "format": "Metadata",
+      "md5": "29de5e33ff560104b9c301e8a6e44424",
+      "summation": "md5"
+    },
+    {
+      "name": "micro_IA40385016_0165_hocr.html",
+      "source": "derivative",
+      "hocr_char_to_word_module_version": "1.3.0",
+      "hocr_char_to_word_hocr_version": "1.1.56",
+      "ocr_parameters": "lang-eng;lang-Fraktur;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+      "ocr_module_version": "0.0.21",
+      "ocr_detected_script": "Fraktur",
+      "ocr_detected_script_conf": "0.9019",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "format": "hOCR",
+      "original": "micro_IA40385016_0165_chocr.html.gz",
+      "mtime": "1710949180",
+      "size": "3804856",
+      "md5": "7b207534fe482d6ca26fe6ba3dc4e431",
+      "crc32": "df5e4fc7",
+      "sha1": "c37f0f5f67fe5306a1ff9212e75ddd2fb47043e1"
+    },
+    {
+      "name": "micro_IA40385016_0165_hocr_pageindex.json.gz",
+      "source": "derivative",
+      "hocr_pageindex_module_version": "1.1.0",
+      "hocr_pageindex_hocr_version": "1.1.56",
+      "format": "OCR Page Index",
+      "original": "micro_IA40385016_0165_hocr.html",
+      "mtime": "1710949353",
+      "size": "948",
+      "md5": "1ddb5105bda17b2962bb1fbeffe1378f",
+      "crc32": "a8a1ac9c",
+      "sha1": "19d2a7ff00063d1af6881230bb91f8730051e6bb"
+    },
+    {
+      "name": "micro_IA40385016_0165_hocr_searchtext.txt.gz",
+      "source": "derivative",
+      "hocr_fts_text_module_version": "1.2.0",
+      "hocr_fts_text_hocr_version": "1.1.56",
+      "word_conf_0_10": "45",
+      "word_conf_11_20": "33",
+      "word_conf_21_30": "41",
+      "word_conf_31_40": "63",
+      "word_conf_41_50": "63",
+      "word_conf_51_60": "84",
+      "word_conf_61_70": "112",
+      "word_conf_71_80": "207",
+      "word_conf_81_90": "837",
+      "word_conf_91_100": "23599",
+      "format": "OCR Search Text",
+      "original": "micro_IA40385016_0165_hocr.html",
+      "mtime": "1710949384",
+      "size": "52020",
+      "md5": "66df53a56a7534a773ed65bf018e20cd",
+      "crc32": "944068de",
+      "sha1": "12b87929e1a140f2bc8b51b2e6d4bc9c0aafc2ed"
+    },
+    {
+      "name": "micro_IA40385016_0165_itemimage.png",
+      "source": "original",
+      "mtime": "1710815181",
+      "size": "309837",
+      "md5": "09863985afdb81b9d19984443ec3baac",
+      "crc32": "2e3bad2f",
+      "sha1": "5ad29aa31f6603579440069c7f848892bce714da",
+      "format": "Item Image"
+    },
+    {
+      "name": "micro_IA40385016_0165_jp2.zip",
+      "source": "derivative",
+      "format": "Single Page Processed JP2 ZIP",
+      "original": "micro_IA40385016_0165_micro_scan.json",
+      "mtime": "1710947857",
+      "size": "34041834",
+      "md5": "f3d3981869e6543f0ad07f40eddaa00e",
+      "crc32": "87df8b83",
+      "sha1": "51d35dea9339730a517df964c3ace67e6e4b9cb8",
+      "filecount": "81"
+    },
+    {
+      "name": "micro_IA40385016_0165_meta.sqlite",
+      "source": "original",
+      "mtime": "1710947312",
+      "size": "20480",
+      "md5": "78519a7cf15d9534b76222fa2fa2665c",
+      "crc32": "99db0e7a",
+      "sha1": "20707744512f7b8abd805f566d42090e4ae46e85",
+      "format": "Metadata"
+    },
+    {
+      "name": "micro_IA40385016_0165_meta.xml",
+      "source": "original",
+      "mtime": "1777366086",
+      "size": "10026",
+      "md5": "f96fb51305c1cf5ceed300eb31d01dbf",
+      "crc32": "0facf96b",
+      "sha1": "f57ff85b9759210f7aa6e9fd18333b7895044552",
+      "format": "Metadata"
+    },
+    {
+      "name": "micro_IA40385016_0165_micro_jp2.zip",
+      "source": "original",
+      "mtime": "1710815169",
+      "size": "79531323",
+      "md5": "30ddfca148ffffe93625c8612609c8e5",
+      "crc32": "fc3bbaa7",
+      "sha1": "b891e660d249f259635f170a3f31a3aa5344eef7",
+      "format": "Micro Cards JP2 ZIP",
+      "filecount": "6",
+      "private": "true"
+    },
+    {
+      "name": "micro_IA40385016_0165_micro_scan.json",
+      "source": "original",
+      "format": "Micro Cards Data JSON",
+      "original": "micro_IA40385016_0165_micro_jp2.zip",
+      "mtime": "1710947292",
+      "size": "14568",
+      "md5": "8b589f3f45355c17609a91871c61e40d",
+      "crc32": "1fb44a8d",
+      "sha1": "c0939ac803d4cef2fc9a486e5896b9659a3da9c1",
+      "private": "true"
+    },
+    {
+      "name": "micro_IA40385016_0165_page_numbers.json",
+      "source": "derivative",
+      "hocr_pagenumber_module_version": "1.0.5",
+      "hocr_pagenumber_hocr_version": "1.1.54",
+      "hocr_pagenumber_confidence": "63",
+      "format": "Page Numbers JSON",
+      "original": "micro_IA40385016_0165_hocr.html",
+      "mtime": "1710949413",
+      "size": "13405",
+      "md5": "13a0dc7531f482285fbbd1d393ccc492",
+      "crc32": "9a5b5393",
+      "sha1": "1da246d951966defecf6841989943782006cb950"
+    },
+    {
+      "name": "micro_IA40385016_0165_reviews.xml",
+      "source": "original",
+      "mtime": "1777366096",
+      "size": "1206",
+      "md5": "b6f474e671c66cbea51c76d5471d63b9",
+      "crc32": "fd431702",
+      "sha1": "183aaffe22acda40b8a275b81ad8a138f702c8de",
+      "format": "Metadata"
+    },
+    {
+      "name": "micro_IA40385016_0165_scandata.xml",
+      "source": "derivative",
+      "format": "Scandata",
+      "original": "micro_IA40385016_0165_micro_scan.json",
+      "mtime": "1710949413",
+      "size": "28498",
+      "md5": "184833efd6d631619c4e6e0cf5293cba",
+      "crc32": "c571f44f",
+      "sha1": "6437921d4a1a49c26f31ed4e49dfdfb49189be2e"
+    },
+    {
+      "name": "micro_IA40385016_0165_thumb_avif.zip",
+      "source": "derivative",
+      "microfiche_deriver_module_version": "1.1.1",
+      "format": "AVIF Thumbnails ZIP",
+      "original": "micro_IA40385016_0165_micro_jp2.zip",
+      "mtime": "1710815982",
+      "size": "5892002",
+      "md5": "6b28e2f242950655fe5dbd9860c80032",
+      "crc32": "e8c2252d",
+      "sha1": "32c62eb408bc60993e2b6df5993f937e3e1a7be6",
+      "filecount": "2",
+      "private": "true"
+    }
+  ],
+  "files_count": 30,
+  "item_last_updated": 1777366097,
+  "item_size": 197188419,
+  "metadata": {
+    "identifier": "micro_IA40385016_0165",
+    "adaptive_ocr": "true",
+    "betterpdf": "true",
+    "bookreader-defaults": "mode/1up",
+    "boxid": "IA40385016",
+    "camera": "Vieworks VNP-604MX",
+    "contributor": "Internet Archive",
+    "envelopeid": "0165",
+    "language": "eng",
+    "mediatype": "texts",
+    "operator": "m.nick@archive.org",
+    "ppi": "400",
+    "scandate": "20240319004733",
+    "scanner": "microfiche-sf01",
+    "scanningcenter": "sanfrancisco",
+    "software_version": "ArchiveCD Version 3.0.0-53+gc15b6c72",
+    "source": "Microfiche",
+    "total-time": "107",
+    "uploader": "m.nick@archive.org",
+    "title": "Gonzales v. Raich, 545 U.S. 1 (2005) (No. 03-1454)",
+    "publicdate": "2024-03-19 01:52:03",
+    "addeddate": "2024-03-19 02:26:50",
+    "identifier-access": "http://archive.org/details/micro_IA40385016_0165",
+    "identifier-ark": "ark:/13960/s2vm59vmw24",
+    "micro_review": "done",
+    "cardcount": "1",
+    "derive_version": "1.1.1",
+    "review_time": "21",
+    "review_operator": "rich@archive.org",
+    "review_date": "20240320150758",
+    "creator": "Supreme Court of the United States",
+    "catalog_number": "03-1454 SO",
+    "imagecount": "79",
+    "page_number_confidence": "63",
+    "page_number_module_version": "1.0.5",
+    "foldoutcount": "0",
+    "ocr": "tesseract 5.3.0-6-g76ae",
+    "ocr_parameters": "-l eng+Fraktur",
+    "ocr_module_version": "0.0.21",
+    "ocr_detected_script": "Fraktur",
+    "ocr_detected_script_conf": "0.9019",
+    "ocr_detected_lang": "en",
+    "ocr_detected_lang_conf": "1.0000",
+    "pdf_module_version": "0.0.23",
+    "collection": [
+      "government-documents",
+      "USGovernmentDocuments",
+      "microfiche",
+      "us-supreme-court"
+    ],
+    "description": "Case name: Gonzales v. Raich<br /><br />Opinion filed: 2005-06-06<br /><br />Docket No.: 03-1454<br /><br />Citations:<br />\u2022 162 L. Ed. 2d 1<br />\u2022 125 S. Ct. 2195<br />\u2022 545 U.S. 1<br />\u2022 2005 U.S. LEXIS 4656<br /><br />Case holding summaries:<br />\u2022 explaining that marijuana is \u201ca 10 UNITED STATES V. KAPLAN fungible commodity for which there is an established, albeit illegal, interstate market\u201d<br />\u2022 upholding Controlled Substances Act under Commerce Clause without discussion of statute\u2019s jurisdictional element<br />\u2022 recognizing federal law \u201cdesignates marijuana as contraband for any purpose\u201d<br />\u2022 \"The congressional judgment that an exemption for such a sig- nificant segment of the total market would undermine the orderly enforcement of the entire regulatory scheme is entitled to a strong presumption of validity.\"<br />\u2022 recognizing that it is \u201cof no moment\u201d that Congress\u2019s valid regulation of interstate activity \u201censnares some purely intrastate activity\u201d<br />\u2022 explaining that the Necessary and Proper Clause \u201cempowers Congress to enact laws in effectuation of its enumerated powers that are not within its authority to enact in isolation\u201d (emphasis added<br />\u2022 \u201cOur case law firmly establishes Congress\u2019 power to regulate purely local activities that are part of an economic \u2018class of activities\u2019 that have a substantial effect on interstate commerce.\u201d<br />\u2022 recognizing federal law \u201cdesignates marijuana as contraband for any purpose\u201d<br />\u2022 holding that because \u201cCongress had a rational basis\u201d for concluding that a statute implemented Commerce Clause power, the statute fell within the scope of congressional \u201cauthority to make all laws which shall be necessary and proper\u201d (quotations omitted)<br />\u2022 upholding statute enacted pursuant to Commerce Clause because \u201cCongress had a rational basis\u201d for concluding that statute implemented congressional power under the Commerce Clause<br />\u2022 recognizing federal law \u201cdesignates marijuana as contraband for any purpose\u201d<br />\u2022 upholding Congress\u2019s decision to crimi- nalize the production and use of homegrown marijuana even if state law allowed for its growth and use<br />\u2022 Congress has the power to regulate \u201cchannels\u201d and \u201cinstrumentalities\u201d of interstate commerce even if such regulation \u201censnares some purely intrastate activity[.]\u201d<br />\u2022 holding that the federal government had constitutional authority to prohibit and prosecute under federal law the cultivation of marijuana, regardless of whether such activity violated state law<br />\u2022 upholding the ability of the federal government to punish medical marijuana use which is permitted under state law, by virtue of its authority under the Commerce Clause of the United States Constitution<br />\u2022 \u201c\u2018Economics\u2019 refers to \u2018the production, distribution, and consumption of commodities.\u2019\u201d<br />\u2022 distinguishing Morrison because the statute in Raich \u201cdirectly regulate[d] economic, commercial activity\u201d<br />\u2022 summarizing \u201cconsiderable efforts,\u201d ultimately unsuccessful, to reschedule marijuana<br />\u2022 recognizing federal law \u201cdesignates marijuana as contraband for any purpose\u201d<br />\u2022 Congress cannot use \"a relatively trivial impact on commerce as an excuse for broad general regulation of state or private activities\"<br />\u2022 \"[T]hus far in our Nation's history our cases have upheld Commerce Clause regulation of intrastate activity only where that activity is economic in nature\" (emphasis added)<br />\u2022 intrastate activities that have been within Congress' power to regulate have been \"of an apparent commercial character\"<br />\u2022 finding ban on intrastate sale of lighting oils not \"appropriate and plainly adapted means for carrying into execution\" Congress' taxing power<br />\u2022 \"`[W]hen it is necessary in order to prevent an evil to make the law embrace more than the precise thing to be prevented it may do so'\"<br />\u2022 discussing the \"market value\" of marijuana<br />\u2022 activities of a local grain exchange<br />\u2022 finding it \"clear, that Congress cannot punish felonies generally,\" except in areas over which it possesses plenary power<br />\u2022 addressing prescription drugs \"for which there is both a lawful and an unlawful market\"<br />\u2022 referring to the purchase of drugs on the \"retail market\"<br />\u2022 \"This record leaves us in no doubt\" about substantial effects<br />\u2022 \"The stimulation of commerce is a use of the regulatory function quite as definitely as prohibitions or restrictions thereon\"<br />\u2022 recognizing that Filburn's activity \"may not be regarded as commerce\"<br />\u2022 \"That power can neither be enlarged nor diminished by the exercise or non-exercise of state power\"<br />\u2022 recognizing federal law \u201cdesignates marijuana as contraband for any purpose\u201d<br />\u2022 the Necessary and Proper Clause is \"the last, best hope of those who defend ultra vires congressional action\"<br />\u2022 \"[t]he buying and selling of goods, especially on a large scale, as between cities or nations\"<br />\u2022 describing our preference for as-applied rather than facial challenges<br />\u2022 distinguishing the Gun-Free School Zones Act of 1990 from \"activities that arise out of or are connected with a commercial transaction\"<br />\u2022 \"depending on the level of generality, any activity can be looked upon as commercial\"<br />\u2022 holding that Congress may regulate the intrastate, noncommercial cultivation, possession, and use of marijuana as an essential part of a larger regulatory scheme<br />\u2022 \u201c[A] primary purpose of the CSA is to control the supply and demand of controlled substances in both lawful and unlawful drug markets.\u201d<br />\u2022 rejecting Commerce Clause challenge to criminalization of home-grown and home-consumed medical marijuana under Controlled Substances Act<br />\u2022 \u201c[Q]uintessentially economic activities [are] the production, distribution, and consumption of commodities for which there is an established, and lucrative, interstate market.\u201d<br />\u2022 explaining that, under the Supremacy Clause, \u201cmarijuana possession and cultivation in accordance with state law\u201d is not \u201cbeyond congressional reach\u201d (internal quotation marks omitted)<br />\u2022 \u201cProhibiting the intrastate possession or manufacture of an article of commerce is a rational (and commonly utilized) means of regulating commerce in that product.\u201d<br />\u2022 \"We have never required Congress to legislate with scientific exactitude. When Congress decides that the total incidence' of a practice poses a threat to a national market, it may regulate the entire class.\"<br />\u2022 holding that the regulation of marijuana under the Controlled Substances Act was squarely within Congress's commerce power<br />\u2022 recognizing federal law \u201cdesignates marijuana as contraband for any purpose\u201d<br />\u2022 reaffirming that federal drug trafficking laws are within Congress's power to regulate interstate commerce<br />\u2022 \"[W]hen a general regulatory statute bears a substantial relation to commerce, the de minimis character of individual instances arising under that statute is of no consequence\" (internal quotation marks omitted)",
+    "external-identifier": "urn:courtlistener:799995/gonzales-v-raich",
+    "date": "2005",
+    "access-restricted-item": "true",
+    "subject": "Decision"
+  },
+  "page_numbers": {
+    "identifier": "micro_IA40385016_0165",
+    "format-version": "2",
+    "archive-hocr-tools-version": "1.1.54",
+    "confidence": 63,
+    "pages": [
+      {
+        "leafNum": 2,
+        "confidence": null,
+        "pageNumber": "",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 3,
+        "confidence": null,
+        "pageNumber": "",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 4,
+        "confidence": null,
+        "pageNumber": "",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 5,
+        "confidence": null,
+        "pageNumber": "",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 6,
+        "confidence": 80,
+        "pageNumber": "2",
+        "pageProb": 70,
+        "wordConf": 96
+      },
+      {
+        "leafNum": 7,
+        "confidence": null,
+        "pageNumber": "3",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 8,
+        "confidence": 80,
+        "pageNumber": "4",
+        "pageProb": 70,
+        "wordConf": 96
+      },
+      {
+        "leafNum": 9,
+        "confidence": null,
+        "pageNumber": "5",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 10,
+        "confidence": 100,
+        "pageNumber": "6",
+        "pageProb": 93,
+        "wordConf": 96
+      },
+      {
+        "leafNum": 11,
+        "confidence": null,
+        "pageNumber": "7",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 12,
+        "confidence": null,
+        "pageNumber": "8",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 13,
+        "confidence": null,
+        "pageNumber": "9",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 14,
+        "confidence": 82,
+        "pageNumber": "10",
+        "pageProb": 72,
+        "wordConf": 95
+      },
+      {
+        "leafNum": 15,
+        "confidence": null,
+        "pageNumber": "11",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 16,
+        "confidence": 100,
+        "pageNumber": "12",
+        "pageProb": 91,
+        "wordConf": 96
+      },
+      {
+        "leafNum": 17,
+        "confidence": null,
+        "pageNumber": "13",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 18,
+        "confidence": 100,
+        "pageNumber": "14",
+        "pageProb": 91,
+        "wordConf": 96
+      },
+      {
+        "leafNum": 19,
+        "confidence": null,
+        "pageNumber": "15",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 20,
+        "confidence": 79,
+        "pageNumber": "16",
+        "pageProb": 69,
+        "wordConf": 94
+      },
+      {
+        "leafNum": 21,
+        "confidence": null,
+        "pageNumber": "17",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 22,
+        "confidence": 79,
+        "pageNumber": "18",
+        "pageProb": 69,
+        "wordConf": 94
+      },
+      {
+        "leafNum": 23,
+        "confidence": null,
+        "pageNumber": "19",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 24,
+        "confidence": 100,
+        "pageNumber": "20",
+        "pageProb": 91,
+        "wordConf": 96
+      },
+      {
+        "leafNum": 25,
+        "confidence": null,
+        "pageNumber": "21",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 26,
+        "confidence": 80,
+        "pageNumber": "22",
+        "pageProb": 70,
+        "wordConf": 96
+      },
+      {
+        "leafNum": 27,
+        "confidence": null,
+        "pageNumber": "23",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 28,
+        "confidence": 100,
+        "pageNumber": "24",
+        "pageProb": 91,
+        "wordConf": 96
+      },
+      {
+        "leafNum": 29,
+        "confidence": null,
+        "pageNumber": "25",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 30,
+        "confidence": 100,
+        "pageNumber": "26",
+        "pageProb": 91,
+        "wordConf": 96
+      },
+      {
+        "leafNum": 31,
+        "confidence": null,
+        "pageNumber": "27",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 32,
+        "confidence": 100,
+        "pageNumber": "28",
+        "pageProb": 91,
+        "wordConf": 96
+      },
+      {
+        "leafNum": 33,
+        "confidence": null,
+        "pageNumber": "29",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 34,
+        "confidence": 100,
+        "pageNumber": "30",
+        "pageProb": 91,
+        "wordConf": 96
+      },
+      {
+        "leafNum": 35,
+        "confidence": null,
+        "pageNumber": "",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 36,
+        "confidence": null,
+        "pageNumber": "",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 37,
+        "confidence": 86,
+        "pageNumber": "2",
+        "pageProb": 76,
+        "wordConf": 97
+      },
+      {
+        "leafNum": 38,
+        "confidence": null,
+        "pageNumber": "3",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 39,
+        "confidence": 85,
+        "pageNumber": "4",
+        "pageProb": 75,
+        "wordConf": 89
+      },
+      {
+        "leafNum": 40,
+        "confidence": null,
+        "pageNumber": "5",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 41,
+        "confidence": 85,
+        "pageNumber": "6",
+        "pageProb": 75,
+        "wordConf": 96
+      },
+      {
+        "leafNum": 42,
+        "confidence": null,
+        "pageNumber": "7",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 43,
+        "confidence": 86,
+        "pageNumber": "8",
+        "pageProb": 76,
+        "wordConf": 96
+      },
+      {
+        "leafNum": 44,
+        "confidence": null,
+        "pageNumber": "9",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 45,
+        "confidence": 73,
+        "pageNumber": "10",
+        "pageProb": 63,
+        "wordConf": 95
+      },
+      {
+        "leafNum": 46,
+        "confidence": null,
+        "pageNumber": "",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 47,
+        "confidence": 85,
+        "pageNumber": "2",
+        "pageProb": 75,
+        "wordConf": 96
+      },
+      {
+        "leafNum": 48,
+        "confidence": null,
+        "pageNumber": "3",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 49,
+        "confidence": 85,
+        "pageNumber": "4",
+        "pageProb": 75,
+        "wordConf": 89
+      },
+      {
+        "leafNum": 50,
+        "confidence": null,
+        "pageNumber": "5",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 51,
+        "confidence": 85,
+        "pageNumber": "6",
+        "pageProb": 75,
+        "wordConf": 96
+      },
+      {
+        "leafNum": 52,
+        "confidence": null,
+        "pageNumber": "7",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 53,
+        "confidence": 93,
+        "pageNumber": "8",
+        "pageProb": 83,
+        "wordConf": 95
+      },
+      {
+        "leafNum": 54,
+        "confidence": null,
+        "pageNumber": "9",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 55,
+        "confidence": 92,
+        "pageNumber": "10",
+        "pageProb": 82,
+        "wordConf": 94
+      },
+      {
+        "leafNum": 56,
+        "confidence": null,
+        "pageNumber": "11",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 57,
+        "confidence": 92,
+        "pageNumber": "12",
+        "pageProb": 82,
+        "wordConf": 96
+      },
+      {
+        "leafNum": 58,
+        "confidence": null,
+        "pageNumber": "13",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 59,
+        "confidence": 91,
+        "pageNumber": "14",
+        "pageProb": 81,
+        "wordConf": 93
+      },
+      {
+        "leafNum": 60,
+        "confidence": null,
+        "pageNumber": "15",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 61,
+        "confidence": 82,
+        "pageNumber": "16",
+        "pageProb": 72,
+        "wordConf": 94
+      },
+      {
+        "leafNum": 62,
+        "confidence": null,
+        "pageNumber": "",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 63,
+        "confidence": null,
+        "pageNumber": "",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 64,
+        "confidence": 83,
+        "pageNumber": "2",
+        "pageProb": 73,
+        "wordConf": 96
+      },
+      {
+        "leafNum": 65,
+        "confidence": null,
+        "pageNumber": "3",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 66,
+        "confidence": 83,
+        "pageNumber": "4",
+        "pageProb": 73,
+        "wordConf": 77
+      },
+      {
+        "leafNum": 67,
+        "confidence": null,
+        "pageNumber": "5",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 68,
+        "confidence": 84,
+        "pageNumber": "6",
+        "pageProb": 74,
+        "wordConf": 96
+      },
+      {
+        "leafNum": 69,
+        "confidence": null,
+        "pageNumber": "7",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 70,
+        "confidence": 100,
+        "pageNumber": "8",
+        "pageProb": 92,
+        "wordConf": 96
+      },
+      {
+        "leafNum": 71,
+        "confidence": null,
+        "pageNumber": "9",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 72,
+        "confidence": 81,
+        "pageNumber": "10",
+        "pageProb": 71,
+        "wordConf": 95
+      },
+      {
+        "leafNum": 73,
+        "confidence": null,
+        "pageNumber": "11",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 74,
+        "confidence": 100,
+        "pageNumber": "12",
+        "pageProb": 92,
+        "wordConf": 96
+      },
+      {
+        "leafNum": 75,
+        "confidence": null,
+        "pageNumber": "13",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 76,
+        "confidence": 79,
+        "pageNumber": "14",
+        "pageProb": 69,
+        "wordConf": 96
+      },
+      {
+        "leafNum": 77,
+        "confidence": null,
+        "pageNumber": "15",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 78,
+        "confidence": 100,
+        "pageNumber": "16",
+        "pageProb": 91,
+        "wordConf": 94
+      },
+      {
+        "leafNum": 79,
+        "confidence": null,
+        "pageNumber": "17",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 80,
+        "confidence": 92,
+        "pageNumber": "18",
+        "pageProb": 82,
+        "wordConf": 95
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "reviewtitle": "Disposition: Decision",
+      "reviewbody": "The Supreme Court issued a substantive disposition (opinion, per curiam, summary affirmance, GVR, or similar).\n\nMatched case in the Caselaw Access Project: Gonzales v. Raich, 545 U.S. 1 (decided 2005-06-06; No. 03-1454; opinion word count: 23163).\nSee: https://static.case.law/us/545/html/0001-01.html\n\nQuoted disposition text from the U.S. Reports (via case.law):\n  \u201cJustice Stevens | delivered the opinion of the Court. | California is one of at least nine States that authorize the use of marijuana for medici\u201d\n\nClassified automatically by matching this Internet Archive item to its corresponding U.S. Reports entry and parsing the opinion text. Source: https://static.case.law/\n\n(analysis aided by AI)",
+      "stars": "0",
+      "reviewer": "brewster",
+      "reviewdate": "2026-04-28 08:48:03",
+      "createdate": "2026-04-28 08:48:03",
+      "reviewer_itemname": "@brewster"
+    }
+  ],
+  "server": "ia800600.us.archive.org",
+  "uniq": 1037237124,
+  "workable_servers": [
+    "ia800600.us.archive.org",
+    "ia600600.us.archive.org"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 934,
+    "params": {
+      "query": "collection:us-supreme-court AND ((text:&quot;04-368&quot; OR text:&quot;04-368&quot; OR text__reviews:&quot;04-368&quot;) OR (text:&quot;Arthur Andersen&quot; OR text:&quot;Arthur Andersen&quot; OR text__reviews:&quot;Arthur Andersen&quot;))",
+      "qin": "collection:us-supreme-court AND (&quot;04-368&quot; OR &quot;Arthur Andersen&quot;)",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 20,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 15,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA40386015_0494",
+        "title": "Arthur Andersen LLP v. Berger, 537 U.S. 1088 (2002) (No. 02-498)"
+      },
+      {
+        "identifier": "micro_IA40385003_1217",
+        "title": "Bersch v. Arthur Andersen & Co., 423 U.S. 1018 (1975) (No. 75-596)"
+      },
+      {
+        "identifier": "micro_IA40386007_1642",
+        "title": "Roquet v. Arthur Andersen LLP, 546 U.S. 871 (2005) (No. 05-33)"
+      },
+      {
+        "identifier": "micro_IA40385015_0177",
+        "title": "Arthur Andersen LLP v. Carlisle, 556 U.S. 624 (2009) (No. 08-146)"
+      },
+      {
+        "identifier": "micro_IA40385010_2627",
+        "title": "Chemical Bank v. Arthur Andersen & Co., 469 U.S. 884 (1984) (No. 84-264)"
+      },
+      {
+        "identifier": "micro_IA40385016_0038",
+        "title": "Arthur Andersen LLP v. United States, 544 U.S. 696 (2005) (No. 04-368)"
+      },
+      {
+        "identifier": "micro_IA40385004_1062",
+        "title": "Arthur Andersen & Co. v. Ohio, 429 U.S. 1096 (1977) (No. 76-873)"
+      },
+      {
+        "identifier": "micro_IA40385005_1165",
+        "title": "Arthur Andersen & Co. v. Ohio, 439 U.S. 833 (1978) (No. 77-1782)"
+      },
+      {
+        "identifier": "micro_IA40385011_2423",
+        "title": "Arthur Andersen & Co. v. Manufacturers Hanover Trust Co., 479 U.S. 1066 (1987) (No. 86-875)"
+      },
+      {
+        "identifier": "micro_IA40385016_0189",
+        "title": "Arthur Andersen LLP v. United States, 544 U.S. 696 (2005) (No. 04-368)"
+      },
+      {
+        "identifier": "micro_IA40385006_2350",
+        "title": "Arthur Andersen & Co. v. Stewart, 449 U.S. 826 (1980) (No. 79-1765)"
+      },
+      {
+        "identifier": "micro_IA40385019_0218",
+        "title": "Arthur Andersen & Co. v. Rudolph, 480 U.S. 946 (1987) (No. 86-1274)"
+      },
+      {
+        "identifier": "micro_IA40385007_0330",
+        "title": "Arthur Andersen & Co. v. United States, 449 U.S. 1021 (1980) (No. 80-311)"
+      },
+      {
+        "identifier": "micro_IA40385608_0984",
+        "title": "Ohio v. Arthur Andersen & Co., 419 U.S. 1034 (1974) (No. 74-379)"
+      },
+      {
+        "identifier": "micro_IA40385004_0078",
+        "title": "Arthur Andersen & Co. v. Kramer, 429 U.S. 830 (1976) (No. 75-1791)"
+      }
+    ]
+  }
+}

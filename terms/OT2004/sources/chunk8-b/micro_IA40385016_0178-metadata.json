@@ -1,0 +1,700 @@
+{
+  "alternate_locations": {
+    "servers": [
+      {
+        "server": "dn720409.ca.archive.org",
+        "dir": "/0/items/micro_IA40385016_0178"
+      },
+      {
+        "server": "dn760005.eu.archive.org",
+        "dir": "/0/items/micro_IA40385016_0178"
+      }
+    ],
+    "workable": [
+      {
+        "server": "dn720409.ca.archive.org",
+        "dir": "/0/items/micro_IA40385016_0178"
+      },
+      {
+        "server": "dn760005.eu.archive.org",
+        "dir": "/0/items/micro_IA40385016_0178"
+      }
+    ]
+  },
+  "created": 1795461290,
+  "d1": "ia600708.us.archive.org",
+  "d2": "ia800708.us.archive.org",
+  "dir": "/20/items/micro_IA40385016_0178",
+  "files": [
+    {
+      "name": "__ia_thumb.jpg",
+      "source": "original",
+      "mtime": "1710949877",
+      "size": "10075",
+      "md5": "d1cdec16b4884aaae4bca65d40fb40de",
+      "crc32": "0aaa7a2b",
+      "sha1": "e6e44f376a4521692543538fedc823b88cab23c1",
+      "format": "Item Tile"
+    },
+    {
+      "name": "micro_IA40385016_0178 1. Slip Opinion.pdf",
+      "source": "derivative",
+      "pdf_module_version": "0.0.23",
+      "format": "Text PDF",
+      "original": "micro_IA40385016_0178 1. Slip Opinion_page_numbers.json",
+      "mtime": "1710949628",
+      "size": "4126089",
+      "md5": "8a484c1ad0c0528e081ece91b0a92995",
+      "crc32": "1a731bf8",
+      "sha1": "bb1c8769f6d1ffca0562bf150c6e1184b1e78142"
+    },
+    {
+      "name": "micro_IA40385016_0178 1. Slip Opinion_chocr.html.gz",
+      "source": "derivative",
+      "ocr": "tesseract 5.3.0-6-g76ae",
+      "ocr_parameters": "lang-eng;lang-Fraktur;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+      "ocr_module_version": "0.0.21",
+      "ocr_detected_script": "Fraktur",
+      "ocr_detected_script_conf": "0.7644",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "format": "chOCR",
+      "original": "micro_IA40385016_0178 1. Slip Opinion_jp2.zip",
+      "mtime": "1710948764",
+      "size": "744697",
+      "md5": "9839ffe86003b55bdec7ec5eb8c0d1c8",
+      "crc32": "379a5550",
+      "sha1": "8d2d51cb0011b2c526fcdb06659825b0d3d65192"
+    },
+    {
+      "name": "micro_IA40385016_0178 1. Slip Opinion_djvu.txt",
+      "source": "derivative",
+      "format": "DjVuTXT",
+      "original": "micro_IA40385016_0178 1. Slip Opinion_djvu.xml",
+      "mtime": "1710949850",
+      "size": "55260",
+      "md5": "e857b5b3fde94019b4fdf26518d10ea7",
+      "crc32": "cfa9ee3e",
+      "sha1": "27d682e45e7d67fc096fd3f721469ca8ba6056ba"
+    },
+    {
+      "name": "micro_IA40385016_0178 1. Slip Opinion_djvu.xml",
+      "source": "derivative",
+      "format": "Djvu XML",
+      "original": "micro_IA40385016_0178 1. Slip Opinion_hocr.html",
+      "mtime": "1710949221",
+      "size": "669728",
+      "md5": "12107893c1b31deb47acf9df4462b1ae",
+      "crc32": "2da28081",
+      "sha1": "9d402972976d9354179816ad8091dee7a74a5c47"
+    },
+    {
+      "name": "micro_IA40385016_0178 1. Slip Opinion_hocr.html",
+      "source": "derivative",
+      "hocr_char_to_word_module_version": "1.3.0",
+      "hocr_char_to_word_hocr_version": "1.1.56",
+      "ocr_parameters": "lang-eng;lang-Fraktur;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+      "ocr_module_version": "0.0.21",
+      "ocr_detected_script": "Fraktur",
+      "ocr_detected_script_conf": "0.7644",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "format": "hOCR",
+      "original": "micro_IA40385016_0178 1. Slip Opinion_chocr.html.gz",
+      "mtime": "1710949104",
+      "size": "1275398",
+      "md5": "e387f156f478ae36e52ba7135d059f28",
+      "crc32": "ce8809df",
+      "sha1": "78306fae3b0025c99bb929d2cb43a50819152830"
+    },
+    {
+      "name": "micro_IA40385016_0178 1. Slip Opinion_hocr_pageindex.json.gz",
+      "source": "derivative",
+      "hocr_pageindex_module_version": "1.1.0",
+      "hocr_pageindex_hocr_version": "1.1.56",
+      "format": "OCR Page Index",
+      "original": "micro_IA40385016_0178 1. Slip Opinion_hocr.html",
+      "mtime": "1710949248",
+      "size": "332",
+      "md5": "c788bffae3a3e344932c30ecf6190bf3",
+      "crc32": "64965db7",
+      "sha1": "d764c1447f44e81b283469ae7f425331da715ddd"
+    },
+    {
+      "name": "micro_IA40385016_0178 1. Slip Opinion_hocr_searchtext.txt.gz",
+      "source": "derivative",
+      "hocr_fts_text_module_version": "1.2.0",
+      "hocr_fts_text_hocr_version": "1.1.56",
+      "word_conf_0_10": "12",
+      "word_conf_11_20": "7",
+      "word_conf_21_30": "18",
+      "word_conf_31_40": "24",
+      "word_conf_41_50": "26",
+      "word_conf_51_60": "37",
+      "word_conf_61_70": "48",
+      "word_conf_71_80": "95",
+      "word_conf_81_90": "404",
+      "word_conf_91_100": "7629",
+      "format": "OCR Search Text",
+      "original": "micro_IA40385016_0178 1. Slip Opinion_hocr.html",
+      "mtime": "1710949272",
+      "size": "18497",
+      "md5": "51ac158d50874f22923e3ee4bdd4f1e4",
+      "crc32": "81019b14",
+      "sha1": "2d3167845b0a9a2d5c3a52e4b05e73f3ef355c84"
+    },
+    {
+      "name": "micro_IA40385016_0178 1. Slip Opinion_jp2.zip",
+      "source": "derivative",
+      "title": "1. Slip Opinion",
+      "microfiche_deriver_module_version": "1.1.1",
+      "format": "Single Page Processed JP2 ZIP",
+      "original": "micro_IA40385016_0178_micro_scan.json",
+      "mtime": "1710948492",
+      "size": "9895802",
+      "md5": "ab0c8b4e89fb8570a241dbafc8a295bf",
+      "crc32": "6a97d9a0",
+      "sha1": "6348153d2a1769fbe90bd6cb1a56a334612796a6",
+      "filecount": "28"
+    },
+    {
+      "name": "micro_IA40385016_0178 1. Slip Opinion_page_numbers.json",
+      "source": "derivative",
+      "hocr_pagenumber_module_version": "1.0.5",
+      "hocr_pagenumber_hocr_version": "1.1.54",
+      "hocr_pagenumber_confidence": "44",
+      "format": "Page Numbers JSON",
+      "original": "micro_IA40385016_0178 1. Slip Opinion_hocr.html",
+      "mtime": "1710949304",
+      "size": "4670",
+      "md5": "ef0a84a0ab7ce43e1af3a311aac29138",
+      "crc32": "042ac175",
+      "sha1": "e73e29627937b9de7ecf5c8bafc448e21b8144ab"
+    },
+    {
+      "name": "micro_IA40385016_0178 1. Slip Opinion_scandata.xml",
+      "source": "derivative",
+      "format": "Scandata",
+      "original": "micro_IA40385016_0178_micro_scan.json",
+      "mtime": "1710949304",
+      "size": "9940",
+      "md5": "37388db0942530a815963322654473a8",
+      "crc32": "3adb4c8f",
+      "sha1": "eb88e264ddc407e906cc5eb77de386d4f1c1419f"
+    },
+    {
+      "name": "micro_IA40385016_0178.pdf",
+      "source": "derivative",
+      "pdf_module_version": "0.0.23",
+      "format": "Text PDF",
+      "original": "micro_IA40385016_0178_page_numbers.json",
+      "mtime": "1710949808",
+      "size": "4126089",
+      "md5": "002f7cb09ba22835595e1aa756b0588b",
+      "crc32": "d5ebf4c8",
+      "sha1": "7d69843f8e99a2e374cb4db98c98e8ae558b1a32"
+    },
+    {
+      "name": "micro_IA40385016_0178_archive.torrent",
+      "source": "metadata",
+      "btih": "269b1b740b6766329f22438e8c4bcab720f40b6a",
+      "mtime": "1765933497",
+      "size": "8908",
+      "md5": "f2b934c40704a95a6b8cb2e26bd9c432",
+      "crc32": "f45beb8d",
+      "sha1": "298f05c5246ad74cd1ca89da3cfbe0a48d751111",
+      "format": "Archive BitTorrent"
+    },
+    {
+      "name": "micro_IA40385016_0178_chocr.html.gz",
+      "source": "derivative",
+      "ocr": "tesseract 5.3.0-6-g76ae",
+      "ocr_parameters": "lang-eng;lang-Fraktur;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+      "ocr_module_version": "0.0.21",
+      "ocr_detected_script": "Fraktur",
+      "ocr_detected_script_conf": "0.8375",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "format": "chOCR",
+      "original": "micro_IA40385016_0178_jp2.zip",
+      "mtime": "1710949039",
+      "size": "744143",
+      "md5": "553d72de82e8426e5b26bdd1c476d121",
+      "crc32": "e7fa85b7",
+      "sha1": "c654c9e79f80e3fc1a4c18c8c4ca7b7fbb29784e"
+    },
+    {
+      "name": "micro_IA40385016_0178_djvu.txt",
+      "source": "derivative",
+      "format": "DjVuTXT",
+      "original": "micro_IA40385016_0178_djvu.xml",
+      "mtime": "1710949851",
+      "size": "55260",
+      "md5": "e857b5b3fde94019b4fdf26518d10ea7",
+      "crc32": "cfa9ee3e",
+      "sha1": "27d682e45e7d67fc096fd3f721469ca8ba6056ba"
+    },
+    {
+      "name": "micro_IA40385016_0178_djvu.xml",
+      "source": "derivative",
+      "format": "Djvu XML",
+      "original": "micro_IA40385016_0178_hocr.html",
+      "mtime": "1710949219",
+      "size": "667838",
+      "md5": "4615d6bbd4ea9b529cc128da7463eab7",
+      "crc32": "e8bc66cb",
+      "sha1": "c4b45b4179d7b1220aa6f477fed403b14e697938"
+    },
+    {
+      "name": "micro_IA40385016_0178_files.xml",
+      "source": "original",
+      "format": "Metadata",
+      "md5": "7f69eebf4c3ec863c7f5185fc7c7fb7b",
+      "summation": "md5"
+    },
+    {
+      "name": "micro_IA40385016_0178_hocr.html",
+      "source": "derivative",
+      "hocr_char_to_word_module_version": "1.3.0",
+      "hocr_char_to_word_hocr_version": "1.1.56",
+      "ocr_parameters": "lang-eng;lang-Fraktur;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+      "ocr_module_version": "0.0.21",
+      "ocr_detected_script": "Fraktur",
+      "ocr_detected_script_conf": "0.8375",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "format": "hOCR",
+      "original": "micro_IA40385016_0178_chocr.html.gz",
+      "mtime": "1710949197",
+      "size": "1274674",
+      "md5": "5b22645aef012dc165719af32db86cbb",
+      "crc32": "fbfe793a",
+      "sha1": "4a9c9325a864c426f9c104d661f9608ef38333ed"
+    },
+    {
+      "name": "micro_IA40385016_0178_hocr_pageindex.json.gz",
+      "source": "derivative",
+      "hocr_pageindex_module_version": "1.1.0",
+      "hocr_pageindex_hocr_version": "1.1.56",
+      "format": "OCR Page Index",
+      "original": "micro_IA40385016_0178_hocr.html",
+      "mtime": "1710949351",
+      "size": "340",
+      "md5": "7d7e52c94150cadfb91970bbb53edbf9",
+      "crc32": "4a7cdb66",
+      "sha1": "4dacf12b2e905d7374214807fb6f3d9b7d51a68b"
+    },
+    {
+      "name": "micro_IA40385016_0178_hocr_searchtext.txt.gz",
+      "source": "derivative",
+      "hocr_fts_text_module_version": "1.2.0",
+      "hocr_fts_text_hocr_version": "1.1.56",
+      "word_conf_0_10": "12",
+      "word_conf_11_20": "7",
+      "word_conf_21_30": "18",
+      "word_conf_31_40": "24",
+      "word_conf_41_50": "26",
+      "word_conf_51_60": "37",
+      "word_conf_61_70": "48",
+      "word_conf_71_80": "95",
+      "word_conf_81_90": "404",
+      "word_conf_91_100": "7629",
+      "format": "OCR Search Text",
+      "original": "micro_IA40385016_0178_hocr.html",
+      "mtime": "1710949390",
+      "size": "18497",
+      "md5": "069388536a2246caaea8626b7de289d2",
+      "crc32": "ecfd9fdb",
+      "sha1": "be8114025f954dbfc974d1f2f6a51efc614cf5ea"
+    },
+    {
+      "name": "micro_IA40385016_0178_itemimage.png",
+      "source": "original",
+      "mtime": "1710816310",
+      "size": "150179",
+      "md5": "efe060a309d127f2e071d71611398902",
+      "crc32": "74a27501",
+      "sha1": "5dd229cffd271e4d674df18b2dd21a37a266173f",
+      "format": "Item Image"
+    },
+    {
+      "name": "micro_IA40385016_0178_jp2.zip",
+      "source": "derivative",
+      "format": "Single Page Processed JP2 ZIP",
+      "original": "micro_IA40385016_0178_micro_scan.json",
+      "mtime": "1710948489",
+      "size": "10450925",
+      "md5": "9b26c7d50c99672b5a71dd6105c878a8",
+      "crc32": "89b73c31",
+      "sha1": "07ee60f6ea181555325375346d8e5030b44f201c",
+      "filecount": "29"
+    },
+    {
+      "name": "micro_IA40385016_0178_meta.sqlite",
+      "source": "original",
+      "mtime": "1710948287",
+      "size": "20480",
+      "md5": "a2fc5f36ce43e8b989cef4f91ff6ffcc",
+      "crc32": "0411aa8c",
+      "sha1": "ea1a313bec4368e64e05f71240e9af3397e10681",
+      "format": "Metadata"
+    },
+    {
+      "name": "micro_IA40385016_0178_meta.xml",
+      "source": "original",
+      "mtime": "1777366097",
+      "size": "11017",
+      "md5": "bfa3eed355feb2d9071711d982657c1e",
+      "crc32": "fcc90f2e",
+      "sha1": "f441e852bc706fb5d07a09b405b19f453eabdb13",
+      "format": "Metadata"
+    },
+    {
+      "name": "micro_IA40385016_0178_micro_jp2.zip",
+      "source": "original",
+      "mtime": "1710816315",
+      "size": "28776001",
+      "md5": "6a473e6954cb52822bb295e5a21b3354",
+      "crc32": "8566fa1b",
+      "sha1": "1fb8adda591aa061e5cac29bc2c80d2e7e3751c6",
+      "format": "Micro Cards JP2 ZIP",
+      "filecount": "4",
+      "private": "true"
+    },
+    {
+      "name": "micro_IA40385016_0178_micro_scan.json",
+      "source": "original",
+      "format": "Micro Cards Data JSON",
+      "original": "micro_IA40385016_0178_micro_jp2.zip",
+      "mtime": "1710948250",
+      "size": "5705",
+      "md5": "b5e39b765c6969f8f1bfaa6fe959e4ff",
+      "crc32": "a8a8a8a0",
+      "sha1": "cf23e8d4fcece957c90acfbe476d5474cd1bf5a5",
+      "private": "true"
+    },
+    {
+      "name": "micro_IA40385016_0178_page_numbers.json",
+      "source": "derivative",
+      "hocr_pagenumber_module_version": "1.0.5",
+      "hocr_pagenumber_hocr_version": "1.1.54",
+      "hocr_pagenumber_confidence": "44",
+      "format": "Page Numbers JSON",
+      "original": "micro_IA40385016_0178_hocr.html",
+      "mtime": "1710949420",
+      "size": "4671",
+      "md5": "d2c5f8dc8cae7db41338a765f4d317eb",
+      "crc32": "384b63d0",
+      "sha1": "eb4481871d3a629a98603a8b3df3fd0f88de7077"
+    },
+    {
+      "name": "micro_IA40385016_0178_reviews.xml",
+      "source": "original",
+      "mtime": "1777366143",
+      "size": "1209",
+      "md5": "ff4b2fe207b4fc48f92df901935a53d3",
+      "crc32": "80421582",
+      "sha1": "1086c1cf9d639a01c56bc3d0cf77a4e8df274bf5",
+      "format": "Metadata"
+    },
+    {
+      "name": "micro_IA40385016_0178_scandata.xml",
+      "source": "derivative",
+      "format": "Scandata",
+      "original": "micro_IA40385016_0178_micro_scan.json",
+      "mtime": "1710949420",
+      "size": "10243",
+      "md5": "ab2becb297d8a6642feded3d73609b11",
+      "crc32": "30f86e25",
+      "sha1": "2a9b33719e80b366cd98579ec97e112dfd5e58b3"
+    },
+    {
+      "name": "micro_IA40385016_0178_thumb_avif.zip",
+      "source": "derivative",
+      "microfiche_deriver_module_version": "1.1.1",
+      "format": "AVIF Thumbnails ZIP",
+      "original": "micro_IA40385016_0178_micro_jp2.zip",
+      "mtime": "1710816700",
+      "size": "2309881",
+      "md5": "7ea947022b0d4d2146d881de133f7809",
+      "crc32": "da381ce7",
+      "sha1": "cfb26a875dd39736ea134fe221a94acbd4d86916",
+      "filecount": "2",
+      "private": "true"
+    }
+  ],
+  "files_count": 30,
+  "item_last_updated": 1777366147,
+  "item_size": 65446548,
+  "metadata": {
+    "identifier": "micro_IA40385016_0178",
+    "adaptive_ocr": "true",
+    "betterpdf": "true",
+    "bookreader-defaults": "mode/1up",
+    "boxid": "IA40385016",
+    "camera": "Vieworks VNP-604MX",
+    "contributor": "Internet Archive",
+    "envelopeid": "0178",
+    "language": "eng",
+    "mediatype": "texts",
+    "operator": "m.nick@archive.org",
+    "ppi": "400",
+    "scandate": "20240319010604",
+    "scanner": "microfiche-sf01",
+    "scanningcenter": "sanfrancisco",
+    "software_version": "ArchiveCD Version 3.0.0-53+gc15b6c72",
+    "source": "Microfiche",
+    "total-time": "48",
+    "uploader": "m.nick@archive.org",
+    "title": "Cutter v. Wilkinson, 544 U.S. 709 (2005) (No. 03-9877)",
+    "publicdate": "2024-03-19 02:08:30",
+    "addeddate": "2024-03-19 02:45:40",
+    "identifier-access": "http://archive.org/details/micro_IA40385016_0178",
+    "identifier-ark": "ark:/13960/s2kh2p1d3qz",
+    "micro_review": "done",
+    "cardcount": "1",
+    "derive_version": "1.1.1",
+    "review_time": "23",
+    "review_operator": "rich@archive.org",
+    "review_date": "20240320152408",
+    "creator": "Supreme Court of the United States",
+    "catalog_number": "03-9877 SO",
+    "imagecount": "27",
+    "page_number_confidence": "44",
+    "page_number_module_version": "1.0.5",
+    "foldoutcount": "0",
+    "ocr": "tesseract 5.3.0-6-g76ae",
+    "ocr_parameters": "-l eng+Fraktur",
+    "ocr_module_version": "0.0.21",
+    "ocr_detected_script": "Fraktur",
+    "ocr_detected_script_conf": "0.8375",
+    "ocr_detected_lang": "en",
+    "ocr_detected_lang_conf": "1.0000",
+    "pdf_module_version": "0.0.23",
+    "collection": [
+      "us-supreme-court",
+      "microfiche",
+      "government-documents",
+      "USGovernmentDocuments"
+    ],
+    "description": "Case name: Cutter v. Wilkinson<br /><br />Opinion filed: 2005-05-31<br /><br />Docket No.: 03-9877<br /><br />Citations:<br />\u2022 161 L. Ed. 2d 1020<br />\u2022 125 S. Ct. 2113<br />\u2022 544 U.S. 709<br />\u2022 2005 U.S. LEXIS 4346<br /><br />Case holding summaries:<br />\u2022 \u201c[A]pplying RLUIPA, courts must take adequate account of the burdens a requested accommodation may impose on nonbeneficiaries. . . . Our decisions indicate that an accommodation must be measured so that it does not override other significant interests.\u201d<br />\u2022 \u201cProperly applying RLUIPA, courts must take adequate account of the burdens a requested accommodation may impose on nonbeneficiaries\u201d<br />\u2022 noting \u201cno cause to believe\u201d the test could not be \u201capplied in an appro- priately balanced way\u201d<br />\u2022 noting that courts applying RLUIPA must give \"due deference to the experience and expertise of prison and jail administrators in establishing necessary regulations and procedures to maintain good order, security and discipline, consistent with consideration of costs and limited resources\"<br />\u2022 \u201c[A]pplying RLUIPA, courts must take adequate account of the burdens a requested accommodation may impose on nonbeneficiaries. . . . Our decisions indicate that an accommodation must be measured so that it does not override other significant interests.\u201d<br />\u2022 \u201cProperly applying RLUIPA, courts must take adequate account of the burdens a requested accommodation may impose on nonbeneficiaries\u201d<br />\u2022 construing Religious Land Use and Institutional- ized Persons Act of 2000, the Court cautioned that \u201cade- quate account\u201d must be taken of \u201cthe burdens a requested accommodation may impose on nonbeneficiaries\u201d of the Act<br />\u2022 \u201c[A]n accommodation must be measured so that it does not override other significant interests.\u201d<br />\u2022 applying the same pleading requirements under RLUIPA\u2019s parallel substantial-burden provision that applies to prisoners and other institutionalized persons<br />\u2022 noting that under RLUIPA the \u201ccompelling governmental interest standard\u201d applies to prison regulations that burden the free-exercise of religion<br />\u2022 upholding Religious Land Use and Institutionalized Persons Act of 2000, 42 U.S.C. \u00a7 2000cc-1(a)(1)-(2), which requires prison officials to accommodate inmate religious practices absent compelling interest otherwise<br />\u2022 \u201cWe do not read RLUIPA to elevate accommodation of religious observances over an institution\u2019s need to maintain order and safety. Our decisions indicate that an accommodation must be measured so that it does not override other significant interests.\u201d<br />\u2022 noting that in Boerne, the Court \"invalidated RFRA as applied to States and their subdivisions, holding that the Act exceeded Congress' remedial powers under the Fourteenth Amendment.\"<br />\u2022 noting that Congress \u201canticipated . . . that courts would apply [RLUIPA] with due deference to the experience and expertise of prison and jail administrators\u201d (internal quotation marks omitted)<br />\u2022 \"Because these defensive pleas were not addressed by the[court below], and mindful that we are a court of review, not first view, we do not consider them here.\"<br />\u2022 RLUIPA bars inquiry into whether a particular belief or practice is central to a prisoner\u2019s religion<br />\u2022 \u201cWe do not read RLUIPA to elevate accom- modation of religious observances over an institution\u2019s need to maintain order and safety.\u201d<br />\u2022 applied statute by giving \u201c\u2018due deference to the experience and expertise of prison and jail administrators in establishing necessary regulations and procedures to maintain good order, security and discipline, consistent with consideration of costs and limited resources\u2019\u201d<br />\u2022 \"[W]e are a court of review, not of first view\"<br />\u2022 \u201c[W]e are a court of review, not of first view\u201d<br />\u2022 noting that RLUIPA should not be read to confer a \u201cprivileged status\u201d or authorize \u201cdisadvantageous treatment\u201d for \u201cany particular religious sect\u201d<br />\u2022 \u201c[W]e are a court of review, not of first view.\u201d<br />\u2022 \"It bears repetition, however, that prison security is a compelling state interest, and that deference is due to institutional officials' expertise in this area.\"<br />\u2022 \u201cProperly applying RLUIPA, courts must take adequate account of the burdens a requested accommodation may impose on nonbeneficiaries.\u201d<br />\u2022 noting that Congress \u201canticipated . . . that courts would apply [RLUIPA] with due deference to the experience and expertise of prison and jail administrators\u201d (internal quotation marks omitted)<br />\u2022 \u201c[W ]e hold that \u00a7 3 of RLUIPA fits within the corridor between the Religion Clauses: On its face, the Act qualifies as a permissible legislative accommodation of religion that is not barred by the Establish- m ent Clause.\u201d<br />\u2022 \u201c[P]rison security is a compelling state interest, and . . . deference is due to institutional officials\u2019 expertise in this area.\u201d<br />\u2022 \u201cAlthough RLUIPA bars inquiry into whether a particular belief or practice is \u2018central\u2019 to a prisoner\u2019s religion, . . . the Act does not preclude inquiry into the sincerity of a prisoner\u2019s professed religiosity.\u201d<br />\u2022 overturning prohibition on possession of Islamic prayer oil but leaving inmate-plaintiff with responsibility for purchasing the oil<br />\u2022 prison's regulation prohibited Muslim prisoner from possessing ritual cleansing oil<br />\u2022 \u00a7 3 of RLUIPA does not violate the Establishment Clause<br />\u2022 inmate in protective custody allowed to attend a congregational religious service, possess a Bible and other religious materials, and receive chaplain visits<br />\u2022 institutional chaplains had free access to correctional area<br />\u2022 government need not \"be oblivious to impositions that legitimate exercises of state power may place on religious belief and practice\"<br />\u2022 \"There is no requirement that legislative protections for fundamental rights march in lockstep.\"<br />\u2022 \u00a7 3 of RLUIPA does not violate the Establishment Clause<br />\u2022 noting instances in which Jewish and Muslim prisoners were served pork, with no substitute available<br />\u2022 describing the Army chaplaincy program<br />\u2022 \"`[T]he \"truth\" of a belief is not open to question'; rather, the question is whether the objector's beliefs are `truly held.'\" (quoting United States v. Seeger, 380 U. S. 163, 185 (1965))<br />\u2022 prison's regulation restricted wearing of yarmulkes<br />\u2022 concluding, under RFRA, that excluding racist literature advocating violence was the least restrictive means of furthering the compelling state interest in preventing prison violence<br />\u2022 \"RLUIPA . . . protects institutionalized persons who are unable freely to attend to their religious needs and are therefore dependent on the government's permission and accommodation for exercise of their religion\"<br />\u2022 Federal Government may exempt secular nonprofit activities of religious organizations from Title VII's prohibition on religious discrimination in employment<br />\u2022 \"[A] society that believes in the negative protection accorded to religious belief can be expected to be solicitous of that value in its legislation. . . .\"<br />\u2022 \"These two Clauses . . . are frequently in tension.\"<br />\u2022 \"The Court has struggled to find a neutral course between the two Religion Clauses, both of which are cast in absolute terms, and either of which, if expanded to a logical extreme, would tend to clash with the other.\"<br />\u2022 \u201c[W]e are a court of review, not of first view.\u201d<br />\u2022 noting that lawmakers supporting RLUIPA \"anticipated that courts would apply the Act's standard with due deference to the experience and expertise of prison and jail administrators\"<br />\u2022 \u201c[P]rison security is a compelling state interest, and . . . deference is due to institutional officials\u2019 expertise in this area.\u201d<br />\u2022 observing that lawmakers supporting RLUIPA expected that courts would apply the statute with deference to the expertise of prison administrators who must act \u201cconsistent with consideration of costs and limited resources\u201d",
+    "external-identifier": "urn:courtlistener:142900/cutter-v-wilkinson",
+    "date": "2005",
+    "access-restricted-item": "true",
+    "subject": "Decision"
+  },
+  "page_numbers": {
+    "identifier": "micro_IA40385016_0178",
+    "format-version": "2",
+    "archive-hocr-tools-version": "1.1.54",
+    "confidence": 44,
+    "pages": [
+      {
+        "leafNum": 2,
+        "confidence": null,
+        "pageNumber": "",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 3,
+        "confidence": null,
+        "pageNumber": "",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 4,
+        "confidence": null,
+        "pageNumber": "",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 5,
+        "confidence": null,
+        "pageNumber": "",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 6,
+        "confidence": 81,
+        "pageNumber": "2",
+        "pageProb": 71,
+        "wordConf": 96
+      },
+      {
+        "leafNum": 7,
+        "confidence": null,
+        "pageNumber": "3",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 8,
+        "confidence": 92,
+        "pageNumber": "4",
+        "pageProb": 82,
+        "wordConf": 69
+      },
+      {
+        "leafNum": 9,
+        "confidence": null,
+        "pageNumber": "5",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 10,
+        "confidence": 67,
+        "pageNumber": "6",
+        "pageProb": 57,
+        "wordConf": 96
+      },
+      {
+        "leafNum": 11,
+        "confidence": null,
+        "pageNumber": "7",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 12,
+        "confidence": 78,
+        "pageNumber": "8",
+        "pageProb": 68,
+        "wordConf": 96
+      },
+      {
+        "leafNum": 13,
+        "confidence": null,
+        "pageNumber": "9",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 14,
+        "confidence": 74,
+        "pageNumber": "10",
+        "pageProb": 64,
+        "wordConf": 94
+      },
+      {
+        "leafNum": 15,
+        "confidence": null,
+        "pageNumber": "11",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 16,
+        "confidence": 82,
+        "pageNumber": "12",
+        "pageProb": 72,
+        "wordConf": 96
+      },
+      {
+        "leafNum": 17,
+        "confidence": null,
+        "pageNumber": "13",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 18,
+        "confidence": 77,
+        "pageNumber": "14",
+        "pageProb": 67,
+        "wordConf": 96
+      },
+      {
+        "leafNum": 19,
+        "confidence": null,
+        "pageNumber": "15",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 20,
+        "confidence": 79,
+        "pageNumber": "16",
+        "pageProb": 69,
+        "wordConf": 94
+      },
+      {
+        "leafNum": 21,
+        "confidence": null,
+        "pageNumber": "",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 22,
+        "confidence": 84,
+        "pageNumber": "2",
+        "pageProb": 74,
+        "wordConf": 97
+      },
+      {
+        "leafNum": 23,
+        "confidence": null,
+        "pageNumber": "3",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 24,
+        "confidence": 86,
+        "pageNumber": "4",
+        "pageProb": 76,
+        "wordConf": 78
+      },
+      {
+        "leafNum": 25,
+        "confidence": null,
+        "pageNumber": "5",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 26,
+        "confidence": 81,
+        "pageNumber": "6",
+        "pageProb": 71,
+        "wordConf": 96
+      },
+      {
+        "leafNum": 27,
+        "confidence": null,
+        "pageNumber": "7",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 28,
+        "confidence": 79,
+        "pageNumber": "8",
+        "pageProb": 69,
+        "wordConf": 96
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "reviewtitle": "Disposition: Decision",
+      "reviewbody": "The Supreme Court issued a substantive disposition (opinion, per curiam, summary affirmance, GVR, or similar).\n\nMatched case in the Caselaw Access Project: Cutter v. Wilkinson, 544 U.S. 709 (decided 2005-05-31; No. 03-9877; opinion word count: 7422).\nSee: https://static.case.law/us/544/html/0709-01.html\n\nQuoted disposition text from the U.S. Reports (via case.law):\n  \u201cJustice Ginsburg | delivered the opinion of the Court. | Section 3 of the Religious Land Use and Institutionalized Persons Act of 2000 (RLUIPA o\u201d\n\nClassified automatically by matching this Internet Archive item to its corresponding U.S. Reports entry and parsing the opinion text. Source: https://static.case.law/\n\n(analysis aided by AI)",
+      "stars": "0",
+      "reviewer": "brewster",
+      "reviewdate": "2026-04-28 08:48:05",
+      "createdate": "2026-04-28 08:48:05",
+      "reviewer_itemname": "@brewster"
+    }
+  ],
+  "server": "ia600708.us.archive.org",
+  "uniq": 839688010,
+  "workable_servers": [
+    "ia600708.us.archive.org",
+    "ia800708.us.archive.org"
+  ]
+}

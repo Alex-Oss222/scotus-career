@@ -1,0 +1,80 @@
+## Public Projection
+
+## Event
+
+Doe v. Porter; Sixth Circuit Nos. 02-5316 and 02-5823, 370 F.3d 558. Plenary merits decision, April 26, 2005 (2005-04-26), after full merits submission. The Court reviews the Sixth Circuit's affirmance of an injunction against the Bible Education Ministry program in public elementary schools, the affected families' standing, a protective order and the challenged attorney-fee award. The constitutional question is whether the school may make devotional teaching part of its instruction by assigning delivery to a private religious provider.
+
+## Participation
+
+Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate.
+
+## Public Action
+
+The judgment is affirmed.
+
+## Judgment & Remedy
+
+**Judgment: Affirmed, 9–0.** Supporting: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+The injunction against the devotional program as operated remains effective throughout the affected school system. The family-standing determination, public-pseudonymity order and challenged fee award are sustained. The Board must cease scheduling or authorizing the devotional classes as school instruction and inform the responsible principals. The district court retains authority to enforce the decree and require appropriate compliance reporting.
+
+## Opinion Topology
+
+BREYER, J., delivered the opinion of the Court. All other Justices join Parts I and II. Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg also join Parts III and IV; Chief Justice Stone-Zsela concurs in the judgments in those parts.
+
+| Writing | Author | Joined by | Relationship to judgment | Scope |
+|---|---|---|---|---|
+| Opinion of the Court | Breyer | All eight other Justices in Parts I–II; Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg in Parts III–IV | Affirmance | I: family standing; II: governmental devotional instruction and injunction; III: protective order; IV: fees |
+| Judgment-only agreement in Parts III–IV | Stone-Zsela | — | Affirms protective order and fee award | No separate opinion |
+
+## Holdings
+
+### 1. Actual classroom exposure supports the families' standing
+
+**Rule and authority.** Families whose children are exposed to the challenged devotional teaching in their public-school classes have concrete injury traceable to the program and redressable by an injunction stopping it. Part I has all nine Justices' support.
+
+**Controlling explanation.** The sealed sworn affidavits establish that the children attended the challenged classes. Their protected public identities do not replace evidence of injury; the affidavits supply that evidence and remain available for meaningful defense investigation. The requested cessation directly addresses the children's exposure. The families therefore support the common relief.
+
+### 2. A public school cannot outsource its own devotional instruction
+
+**Rule and authority.** A public school may not incorporate teaching religious doctrine as truth or prescribed religious observance into its own instructional program by assigning delivery to a private religious provider. Governmental adoption of the instructional function and its actual devotional content must be established under ordinary civil proof; summary judgment requires the absence of a genuine dispute of material fact. Part II is unanimous.
+
+**Controlling explanation.** Agostini supplies the inquiry into the actual governmental act and function. McCollum and Schempp establish the public-school instructional prohibition, while Lee and Santa Fe show why private delivery or an opportunity to abstain does not erase official sponsorship. Here the Board supplies regular classroom periods during the elementary-school day, and the actual lessons teach religious commands, divine creation, salvation and devotional conduct. Leaving their composition to college volunteers does not turn the school's instruction into private access. A secular character-education objective cannot justify devotional means, and some secular lessons do not cure the proved program.
+
+Religious affiliation, location and moral vocabulary alone are insufficient. Agostini protects genuinely secular instruction by religious persons, and Good News Club protects independent private access; neither describes this school-adopted devotional curriculum. The supported operation warrants cessation of the program throughout the schools where it operates. A particular redesigned curriculum is outside the record and receives no advance approval.
+
+### 3. The tailored protective order preserves meaningful defense access
+
+**Rule and authority.** Rules 10(a) and 26(c) permit a tailored public-pseudonymity order when substantial intimate privacy outweighs the public-identification interest and meaningful confidential defense access remains. Part III, joined by all eight Associate Justices, applies that rule and sustains this order.
+
+**Controlling explanation.** Roe II supplies the balance between public identification, substantial private injury and the defendant's ability to investigate. The very young children, religious privacy and supported threats justify protection here. Defense counsel's discovery remained unrestricted; the order limited disclosure to others. The Board's claim that anonymity prevented investigation therefore does not describe the order the court entered. The ruling sustains this exercise of discretion on those facts.
+
+### 4. The specific duplication objection does not establish abuse of discretion
+
+**Rule and authority.** An attorney-fee award survives a duplication challenge when the court applies the proper rule, makes supported reductions and the remaining objection does not establish a clearly erroneous calculation or an abuse of discretion. All eight Associates join Part IV.
+
+**Controlling explanation.** The district court deducted $9,500 for unnecessary travel and another five percent for duplication. The Board's remaining $4,600 objection acknowledged that some of the asserted duplication was likely already covered. That overlap supplies no basis to require the same deduction again or set aside the supported award.
+
+## Precedent Treatment
+
+- **Agostini v. Felton:** Applied as the governing governmental-act and function inquiry; its specific prohibition of governmental religious instruction controls this program.
+- **Illinois ex rel. McCollum v. Board of Education and School District of Abington Township v. Schempp:** Applied for the established boundary against devotional instruction as part of public education.
+- **Lee v. Weisman and Santa Fe Independent School District v. Doe:** Applied because official adoption remains governmental action despite private composition or delivery.
+- **Good News Club v. Milford Central School:** Distinguished because independent private access differs from the school's own instructional program.
+- **Roe II v. Aware Woman Center for Choice, Inc.:** Applied to public pseudonymity with substantial privacy grounds and meaningful confidential defense access.
+
+## Law After Decision
+
+The governmental-instruction prohibition governs the recurring outsourcing arrangement as well as this program: a public school remains responsible for the devotional function it makes part of its instruction. Genuine private access and objectively secular study of religion retain their distinct protection. The existing confidentiality rule and ordinary review of fee awards govern their separate procedural components.
+
+## Separate Writings
+
+
+
+## Procedure After Action
+
+The mandate leaves the program injunction, protective order and fee award in force. The district court supervises actual compliance and may address a concrete proposed change through ordinary proceedings. The Board must end the adjudicated devotional program while any such change is considered.
+
+## Source Notes
+
+Doe v. Porter, 370 F.3d 558 (6th Cir. 2004); U.S. Const. amend. I; Fed. R. Civ. P. 10(a), 26(c); 42 U.S.C. §1988. The standing evidence consists of sealed sworn affidavits; defense counsel retained access to discovery. The program's actual lesson plans and curricular operation establish the instructional relationship.

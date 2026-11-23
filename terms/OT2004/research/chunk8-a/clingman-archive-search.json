@@ -1,0 +1,132 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 830,
+    "params": {
+      "query": "collection:us-supreme-court AND (title:Clingman OR title:Beaver OR identifier:04-37)",
+      "qin": "collection:us-supreme-court AND (title:Clingman OR title:Beaver OR identifier:04-37)",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 100,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 28,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA40386418_1169",
+        "title": "Beaver Pipe Tools, Inc. v. Carey (No. 868)"
+      },
+      {
+        "identifier": "micro_IA40385005_1240",
+        "title": "Beaver v. Alaniz, 439 U.S. 837 (1978) (No. 77-1858)"
+      },
+      {
+        "identifier": "micro_IA40385602_1194",
+        "title": "Beaver v. United States, 383 U.S. 937 (1966) (No. 936)"
+      },
+      {
+        "identifier": "micro_IA40385603_0215",
+        "title": "Beaver v. United States, 383 U.S. 937 (1966) (No. 936)"
+      },
+      {
+        "identifier": "micro_IA40386009_0204",
+        "title": "California Oregon Power Co. v. Beaver Portland Cement Co., 295 U.S. 142 (1935) (No. 612)"
+      },
+      {
+        "identifier": "micro_IA40386006_0433",
+        "title": "Childers v. Beaver, 270 U.S. 555 (1926) (No. 202)"
+      },
+      {
+        "identifier": "micro_IA40385018_0407",
+        "title": "Presbytery of Beaver-Butler of the United Presbyterian Church in the United States v. Middlesex Presbyterian Church, 474 U.S. 887 (1985) (No. 85-10)"
+      },
+      {
+        "identifier": "micro_IA40385601_0721",
+        "title": "Beaver v. United States, 371 U.S. 951 (1963) (No. 577)"
+      },
+      {
+        "identifier": "per_scotus_1874_50",
+        "title": "Thomas Beaver, Plaintiff in Error, vs. S. Staats Taylor and Miles A. Gilbert 1874: Vol 50"
+      },
+      {
+        "identifier": "micro_IA40385016_0180",
+        "title": "Clingman v. Beaver, 544 U.S. 581 (2005) (No. 04-37)"
+      },
+      {
+        "identifier": "micro_IA40386005_0280",
+        "title": "South Utah Mines & Smelters v. Beaver County, 262 U.S. 325 (1923) (No. 321)"
+      },
+      {
+        "identifier": "micro_IA40386450_0099",
+        "title": "Reconstruction Finance Corporation v. Beaver County, 328 U.S. 204 (1946) (No. 40)"
+      },
+      {
+        "identifier": "micro_IA40386017_1378",
+        "title": "Beaver v. Dannemann, 559 U.S. 1045 (2010) (No. 09-725)"
+      },
+      {
+        "identifier": "per_scotus_1866_326",
+        "title": "Yellow Beaver et al., Representing the Wea Indians Residing in Kansas, Plaintiffs in Error, vs. The Board of Commissioners of the County of Miami, State of Kansas. 1866: Vol 326"
+      },
+      {
+        "identifier": "micro_IA40385601_0716",
+        "title": "Beaver v. United States, 371 U.S. 951 (1963) (No. 560)"
+      },
+      {
+        "identifier": "micro_IA40385601_0717",
+        "title": "Beaver v. United States, 371 U.S. 951 (1963) (No. 565)"
+      },
+      {
+        "identifier": "micro_IA40385601_0720",
+        "title": "Beaver v. United States, 371 U.S. 951 (1963) (No. 567)"
+      },
+      {
+        "identifier": "micro_IA40385608_0537",
+        "title": "Remsco Associates, Inc. v. Beaver Falls Municipal Authority, 419 U.S. 1070 (1974) (No. 74-500)"
+      },
+      {
+        "identifier": "per_scotus_1867_239",
+        "title": "Lewis Moore, Plaintiff in Error, vs. James Marsh, P. Beaver, Charles C. Shorkley, and Elisha Shorkley. 1867: Vol 239"
+      },
+      {
+        "identifier": "micro_IA40385601_0719",
+        "title": "Beaver v. United States, 371 U.S. 951 (1963) (No. 564)"
+      },
+      {
+        "identifier": "micro_IA40386010_1611",
+        "title": "Beaver County v. Armour, 535 U.S. 1079 (2002) (No. 01-1403)"
+      },
+      {
+        "identifier": "micro_IA40385005_1524",
+        "title": "Sessoms v. Redevelopment Authority of Beaver County, 439 U.S. 889 (1978) (No. 78-248)"
+      },
+      {
+        "identifier": "per_scotus_1861_95",
+        "title": "The County of Beaver, Plaintiff, vs. Maxwell Woodhull. 1861: Vol 95"
+      },
+      {
+        "identifier": "micro_IA40386416_2295",
+        "title": "Campbell v. Beaver Bayou Drainage District, 338 U.S. 829 (1949) (No. 281)"
+      },
+      {
+        "identifier": "micro_IA40385601_0718",
+        "title": "Beaver v. United States, 371 U.S. 951 (1963) (No. 561)"
+      },
+      {
+        "identifier": "micro_IA40385016_0024",
+        "title": "Clingman v. Beaver, 544 U.S. 581 (2005) (No. 04-37)"
+      },
+      {
+        "identifier": "micro_IA40385016_0668",
+        "title": "Cyan, Inc. v. Beaver Cnty. Emps. Ret. Fund, 138 S. Ct. 440 (2017) (No. 15-1439)"
+      },
+      {
+        "identifier": "micro_IA40385010_0761",
+        "title": "Beaver v. Griggs, 462 U.S. 1107 (1983) (No. 82-1660)"
+      }
+    ]
+  }
+}

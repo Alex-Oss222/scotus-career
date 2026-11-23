@@ -1,0 +1,248 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 373,
+    "params": {
+      "query": "collection:us-supreme-court AND (title:Lingle OR title:Chevron OR identifier:04-163)",
+      "qin": "collection:us-supreme-court AND (title:Lingle OR title:Chevron OR identifier:04-163)",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 100,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 57,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA40386016_0793",
+        "title": "Lingle v. Arakaki (No. 05-988)"
+      },
+      {
+        "identifier": "micro_IA40385012_0841",
+        "title": "Lingle v. Norge Div. of Magic Chef, Inc., 486 U.S. 399 (1988) (No. 87-259)"
+      },
+      {
+        "identifier": "micro_IA40386015_0224",
+        "title": "Consolidated Edison Co. v. Chevron U. S. A. Inc., 537 U.S. 949 (2002) (No. 02-207)"
+      },
+      {
+        "identifier": "micro_IA40385006_0156",
+        "title": "Chevron U. S. A., Inc. v. Andrus, 444 U.S. 879 (1979) (No. 78-1662)"
+      },
+      {
+        "identifier": "micro_IA40385006_1011",
+        "title": "Bemis v. Chevron Research Co., 444 U.S. 966 (1979) (No. 79-526)"
+      },
+      {
+        "identifier": "micro_IA40386004_1273",
+        "title": "Reed v. Chevron Pipe Line Co., 519 U.S. 929 (1996) (No. 96-215)"
+      },
+      {
+        "identifier": "micro_IA40385009_1790",
+        "title": "Stikes v. Chevron U. S. A., Inc., 500 U.S. 917 (1991) (No. 90-1431)"
+      },
+      {
+        "identifier": "micro_IA40386013_1633",
+        "title": "Seacor Marine, Inc. v. Chevron U. S. A. Inc., 522 U.S. 1047 (1998) (No. 97-702)"
+      },
+      {
+        "identifier": "micro_IA40385017_0502",
+        "title": "Chevron U. S. A. Inc. v. LOR, Inc., 480 U.S. 912 (1987) (No. 86-1198)"
+      },
+      {
+        "identifier": "micro_IA40386014_1713",
+        "title": "Cayetano v. Chevron U.S.A. Inc., 532 U.S. 942 (2001) (No. 00-1198)"
+      },
+      {
+        "identifier": "micro_IA40386012_0202",
+        "title": "Chevron U. S. A. Inc. v. Sea Savage, Inc., 513 U.S. 994 (1994) (No. 94-220)"
+      },
+      {
+        "identifier": "micro_IA40385002_0711",
+        "title": "Finn v. Chevron, U. S. A., Inc., 489 U.S. 1054 (1989) (No. 88-1132)"
+      },
+      {
+        "identifier": "micro_IA40385018_0508",
+        "title": "Chevron U. S. A. Inc. v. Belco Petroleum Corp., 474 U.S. 847 (1985) (No. 85-150)"
+      },
+      {
+        "identifier": "micro_IA40385003_0567",
+        "title": "Chevron International Oil Co. v. Fairmont Shipping Corp., 423 U.S. 838 (1975) (No. 74-1593)"
+      },
+      {
+        "identifier": "micro_IA40385606_1299",
+        "title": "Bible v. Chevron Oil Co., 409 U.S. 984 (1972) (No. 72-333)"
+      },
+      {
+        "identifier": "micro_IA40386006_1199",
+        "title": "United States ex rel. Fine v. Chevron U. S. A. Inc., 517 U.S. 1233 (1996) (No. 95-1445)"
+      },
+      {
+        "identifier": "micro_IA40386015_2107",
+        "title": "Hoohuli v. Lingle, 540 U.S. 1017 (2003) (No. 03-383)"
+      },
+      {
+        "identifier": "micro_IA40385607_1219",
+        "title": "Chevron Oil Co. v. Federal Power Commission, 414 U.S. 1146 (1974) (No. 73-91)"
+      },
+      {
+        "identifier": "micro_IA40386011_1336",
+        "title": "Chevron Transport Corp. v. Great Lakes Dredge & Dock Co., 506 U.S. 981 (1992) (No. 92-506)"
+      },
+      {
+        "identifier": "micro_IA40386006_1693",
+        "title": "MSW Investments v. Chevron U.S.A. Inc., 525 U.S. 823 (1998) (No. 97-2007)"
+      },
+      {
+        "identifier": "micro_IA40385019_1619",
+        "title": "Great Lakes Dredge & Dock Co. v. Chevron Transport Corp., 486 U.S. 1033 (1988) (No. 87-1695)"
+      },
+      {
+        "identifier": "micro_IA40385604_1005",
+        "title": "California Co., now Chevron Oil Co. v. Kuchenig, 396 U.S. 887 (1969) (No. 422)"
+      },
+      {
+        "identifier": "micro_IA40385606_0638",
+        "title": "Chevron Oil Co. v. Royal Insurance Co., 406 U.S. 921 (1972) (No. 71-1278)"
+      },
+      {
+        "identifier": "micro_IA40385608_1190",
+        "title": "Chevron International Oil Co. v. Fairmont Shipping Corp., 423 U.S. 838 (1975) (No. 74-1593)"
+      },
+      {
+        "identifier": "micro_IA40386002_1113",
+        "title": "Owen v. Chevron, U. S. A., Inc., 510 U.S. 1193 (1994) (No. 93-1168)"
+      },
+      {
+        "identifier": "micro_IA40385014_0454",
+        "title": "Chevron USA Inc. v. Echazabal, 536 U.S. 73 (2002) (No. 00-1406)"
+      },
+      {
+        "identifier": "micro_IA40385008_1142",
+        "title": "Voluntary Purchasing Groups, Inc. v. Chevron Chemical Co., 457 U.S. 1126 (1982) (No. 81-1387)"
+      },
+      {
+        "identifier": "micro_IA40385009_1900",
+        "title": "Chevron Corp. v. Arizona, 500 U.S. 959 (1991) (No. 90-1552)"
+      },
+      {
+        "identifier": "micro_IA40385011_1922",
+        "title": "Chevron U. S. A. Inc. v. JHJ Ltd. I, 481 U.S. 1029 (1987) (No. 86-1434)"
+      },
+      {
+        "identifier": "micro_IA40385016_0032",
+        "title": "Lingle v. Chevron USA Inc., 544 U.S. 528 (2005) (No. 04-163)"
+      },
+      {
+        "identifier": "micro_IA40385019_1331",
+        "title": "Browning v. Chevron U. S. A. Inc., 485 U.S. 963 (1988) (No. 87-1329)"
+      },
+      {
+        "identifier": "micro_IA40385007_1585",
+        "title": "Chevron Chemical Co. v. Gorsuch, 452 U.S. 961 (1981) (No. 80-1680)"
+      },
+      {
+        "identifier": "micro_IA40385010_0587",
+        "title": "Chevron Chemical Co. v. Gilmore, 464 U.S. 814 (1983) (No. 82-1486)"
+      },
+      {
+        "identifier": "micro_IA40386413_0361",
+        "title": "Chevron Oil Co. v. Huson, 404 U.S. 97 (1971) (No. 70-11)"
+      },
+      {
+        "identifier": "micro_IA40386002_1270",
+        "title": "Marte v. Chevron Corp. Long-Term Disability Plan, 511 U.S. 1032 (1994) (No. 93-1337)"
+      },
+      {
+        "identifier": "micro_IA40386015_2337",
+        "title": "Manning v. Chevron Chemical Co., 540 U.S. 1107 (2004) (No. 03-630)"
+      },
+      {
+        "identifier": "micro_IA40385009_1166",
+        "title": "Stansbury v. Chevron U.S.A. Inc., 459 U.S. 1089 (1982) (No. 82-824)"
+      },
+      {
+        "identifier": "micro_IA40385607_0611",
+        "title": "Chevron Chemical Co. v. Liberty Mutual Insurance, 414 U.S. 858 (1973) (No. 73-139)"
+      },
+      {
+        "identifier": "micro_IA40385010_0106",
+        "title": "Chevron USA Inc. v. Natural Resources Defense Council, Inc., 467 U.S. 837 (1984) (No. 82-1005)"
+      },
+      {
+        "identifier": "micro_IA40385012_0346",
+        "title": "Chevron U.S.A., Inc. v. William J. Sheffield, Governor of Alaska, 471 U.S. 1140 (1985) (No. 84-634)"
+      },
+      {
+        "identifier": "micro_IA40386004_1675",
+        "title": "Hurinenko v. Chevron U. S. A. Inc., 517 U.S. 1240 (1996) (No. 95-1581)"
+      },
+      {
+        "identifier": "micro_IA40386012_0039",
+        "title": "Chevron U. S. A. Inc. v. Sea Savage, Inc., 513 U.S. 994 (1994) (No. 94-33)"
+      },
+      {
+        "identifier": "micro_IA40385020_0807",
+        "title": "Chevron Corp. v. City of Long Beach, 493 U.S. 1076 (1990) (No. 89-988)"
+      },
+      {
+        "identifier": "micro_IA40386014_1940",
+        "title": "Chevron U. S. A. Production Co. v. Myers, 534 U.S. 823 (2001) (No. 00-1855)"
+      },
+      {
+        "identifier": "micro_IA40386012_1367",
+        "title": "Borst v. Chevron Corp., 514 U.S. 1066 (1995) (No. 94-1464)"
+      },
+      {
+        "identifier": "micro_IA40386015_1094",
+        "title": "Grant v. Chevron Phillips Chemical Co., 538 U.S. 945 (2003) (No. 02-1140)"
+      },
+      {
+        "identifier": "micro_IA40386020_0733",
+        "title": "Lingle v. Mitchell (No. 08-438)"
+      },
+      {
+        "identifier": "micro_IA40386016_2109",
+        "title": "Chevron U.S.A., Inc. v. Director, Office of Workers' Compensation Programs, Department of Labor (No. 06-1061)"
+      },
+      {
+        "identifier": "micro_IA40385016_0184",
+        "title": "Lingle v. Chevron USA Inc., 544 U.S. 528 (2005) (No. 04-163)"
+      },
+      {
+        "identifier": "micro_IA40385017_2314",
+        "title": "Chevron Chemical Co. v. Ferebee, 469 U.S. 1062 (1984) (No. 84-491)"
+      },
+      {
+        "identifier": "micro_IA40385011_1961",
+        "title": "Alexander v. Chevron U. S. A., 483 U.S. 1005 (1987) (No. 86-1480)"
+      },
+      {
+        "identifier": "micro_IA40385005_1868",
+        "title": "Schultze v. Chevron Oil Co., 439 U.S. 985 (1978) (No. 78-601)"
+      },
+      {
+        "identifier": "micro_IA40386015_1955",
+        "title": "Smith v. Chevron U. S. A. Inc., 540 U.S. 881 (2003) (No. 03-216)"
+      },
+      {
+        "identifier": "micro_IA40386015_1650",
+        "title": "Ashley Creek Phosphate Co. v. Chevron U. S. A. Inc., 540 U.S. 820 (2003) (No. 02-1758)"
+      },
+      {
+        "identifier": "micro_IA40385007_0601",
+        "title": "Chevron Shipping Co. v. Baptiste, 449 U.S. 1124 (1981) (No. 80-586)"
+      },
+      {
+        "identifier": "micro_IA40385009_2227",
+        "title": "Cedar Brook Service Station, Inc. v. Chevron U. S. A., Inc., 502 U.S. 819 (1991) (No. 90-1908)"
+      },
+      {
+        "identifier": "micro_IA40385010_3197",
+        "title": "Chevron Corp. v. Arizona, 469 U.S. 1132 (1985) (No. 84-0654)"
+      }
+    ]
+  }
+}

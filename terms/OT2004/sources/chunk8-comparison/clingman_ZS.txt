@@ -1,0 +1,218 @@
+CLINGMAN V. BEAVER
+
+LII
+
+Supreme Court		 
+
+CLINGMAN V. BEAVER (04-37) 
+363 F.3d 1048, reversed and remanded.  
+Syllabus
+ Opinion
+ [ Thomas ]Concurrence
+ [ Opinion of O’Connor ]Dissent
+ [ Stevens ]
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be
+released, as is being done in connection with this case, at the
+time the opinion is issued.
+The syllabus constitutes no part
+of the opinion of the Court but has been prepared by the
+Reporter of Decisions for the convenience of the reader.
+See
+United States v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+CLINGMAN, SECRETARY, OKLAHOMA STATE ELECTION
+BOARD, et al. v. BEAVER et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE TENTH CIRCUIT
+
+No. 04—37.Argued January 19,
+2005–Decided May 23, 2005 
+
+Under Oklahoma’s semiclosed primary law,
+a political party may invite only its own registered members
+and voters registered as Independents to vote in its primary. 
+When the Libertarian Party of Oklahoma (LPO) notified the State
+Election Board it wanted to open its upcoming primary to all
+registered voters regardless of party affiliation, the Board
+agreed as to Independents, but not as to other parties’
+members.  The LPO and several Oklahomans registered as
+Republicans and Democrats then sued for equitable relief,
+alleging that Oklahoma’s statute unconstitutionally
+burdens their First
+Amendment right to freedom of political association.  The
+District Court upheld the statute on the grounds that it did
+not severely burden respondents’ associational rights and
+that any burden imposed was justified by Oklahoma’s
+asserted interests in preserving parties as viable and
+identifiable interest groups and in ensuring that primary
+results accurately reflect party members’ voting. 
+Reversing, the Tenth Circuit concluded that the statute imposed
+a severe burden on respondents’ associational rights and
+was not narrowly tailored to serve a compelling state interest.
+
+Held: The judgment is reversed,
+and the case is remanded.
+
+363 F.3d 1048, reversed and remanded.  
+
+    Justice Thomas
+delivered the opinion of the Court except as to Part II—A,
+concluding that Oklahoma’s semiclosed primary system does
+not violate the right to freedom of association.  Any burden it
+imposes is minor and justified by legitimate state interests. 
+Pp. 3—4, 8—16.
+
+      (a) The First Amendment
+protects citizens’ right “to band together in
+promoting among the electorate candidates who espouse their
+political views.”	California Democratic Party v.
+Jones, 530 U.S.
+567, 574.  Regulations imposing severe burdens on
+associational rights must be narrowly tailored to serve a
+compelling state interest, but when they impose lesser burdens,
+“a State’s important regulatory interests will
+usually be enough to justify reasonable, nondiscriminatory
+restrictions.”  Timmons v. Twin Cities Area New
+Party, 520 U.S.
+351, 358.  In Tashjian v. Republican Party of
+Conn., 479 U.S.
+208, 224, n. 13, the Court left open the question
+whether a State may prevent a political party from inviting
+registered voters of other parties to vote in its primary. 
+Pp. 3—4.  
+
+    (b) Oklahoma’s system does
+not severely burden associational rights.  The Court disagrees
+with respondents’ argument that the burden Oklahoma
+imposes is no less severe than the burden at issue in
+Tashjian, and thus the Court must apply strict
+scrutiny as it did in Tashjian.	Tashjian applied
+strict scrutiny without carefully examining the burden on
+associational rights.  Not every electoral law burdening
+associational rights is subject to strict scrutiny, which is
+appropriate only if the burden is severe, e.g., Jones,
+supra, at 582.  Requiring voters to register with a party
+before participating in its primary minimally burdens
+voters’ associational rights.  Moreover, Tashjian
+is distinguishable.  Oklahoma’s semiclosed primary
+imposes an even less substantial burden than did the
+Connecticut closed primary at issue in Tashjian.  Unlike
+that law, Oklahoma’s system does not require Independent
+voters to affiliate publicly with a party to vote in its
+primary, 479 U.S., at 216, n. 7.  Although, like the
+earlier law, Oklahoma’s statute does not allow parties to
+“broaden opportunities for joining … by their own
+act,” but requires intervening action by potential
+voters,” ibid., this burden is not severe, since
+many electoral regulations require that voters take some action
+to participate in the primary process.	Such minor barriers
+between voter and party do not compel strict scrutiny.	See
+Bullock v. Carter, 405 U.S. 134, 143. 
+To deem ordinary and widespread burdens like these severe would
+subject virtually every electoral regulation to strict
+scrutiny, hamper the ability of States to run efficient and
+equitable elections, and compel federal courts to rewrite state
+electoral codes.  The Constitution does not require that
+result.  Pp. 8—10.  
+
+    (c) Oklahoma’s primary
+advances a number of regulatory interests this Court recognizes
+as important: It “preserv[es] [political] parties as
+viable and identifiable interest groups,” Nader v.
+Schaffer, 417 F. Supp. 837, 845 (D. Conn.),
+aff’d, 429 U.S.
+989; enhances parties’ electioneering and
+party-building efforts, 417 F. Supp., at 848; and guards
+against party raiding and “sore loser” candidacies by
+spurned primary contenders, Storer v. Brown, 415 U.S. 724, 735. 
+Pp. 10—14.
+
+      (d) The
+Court declines to consider respondents’ expansion of their
+challenge to include several of Oklahoma’s ballot access
+and voter registration laws.  Those claims were neither raised
+nor decided below, see, e.g., Cooper Industries,
+Inc. v. Aviall Services, Inc., 543 U.S. ___, ___,
+and respondents have pointed to no unusual circumstances
+warranting their consideration now, see Taylor v.
+Freeland & Kronz, 503 U.S. 638,
+645—646.  Pp. 14—16.
+
+      Justice Thomas,
+joined by The Chief Justice, Justice Scalia, and Justice
+Kennedy, concluded in Part II—A that a voter unwilling to
+disaffiliate from another party in order to vote in the
+LPO’s primary forms little “association” with
+the LPO–nor the LPO with him.  See Tashjian, supra,
+at 235.  But even if Oklahoma’s system burdens an
+associational right, the burden is less severe than others this
+Court has upheld as constitutional.  The reasons underpinning
+Timmons, supra, show that Oklahoma’s system burdens
+the LPO only minimally.  As in Timmons, Oklahoma’s
+law does not regulate the LPO’s internal processes, its
+authority to exclude unwanted members, or its capacity to
+communicate with the public.  And just as in Timmons, in
+which a Minnesota law conditioned a party’s ability to
+nominate the candidate of its choice on the candidate’s
+willingness to disaffiliate from another party, Oklahoma
+conditions a party’s ability to welcome a voter into its
+primary on the voter’s willingness to dissociate from his
+current party of choice.  If a party may be prevented from
+associating with its desired standard bearer because he
+refuses to disaffiliate from another party, it may also be
+prevented from associating with a voter who refuses to do the
+same.  Oklahoma’s system imposes an even slighter burden
+on voters than on the LPO.  Disaffiliation is not difficult:
+Other parties’ registered members who wish to vote in the
+LPO primary simply need to file a form changing their
+registration.  Voters are not “locked in” to an
+unwanted party affiliation, see Kusper v.
+Pontikes, 414
+U.S. 51, 60—61, because with only nominal effort they
+are free to vote in the LPO primary.  Pp. 4—8.
+
+      Justice
+O’Connor, joined by Justice Breyer except as to Part III,
+agreed with most of the Court’s reasoning, but wrote
+separately to emphasize two points.  First, the Libertarian
+Party of Oklahoma (LPO) and voters registered with another
+party have constitutionally cognizable interests in associating
+with one another through the LPO’s primary, and these
+interests should not be minimized to dispose of this case. 
+Second, while the Court is correct that only Oklahoma’s
+semiclosed primary law is properly under review, that standing
+alone it imposes only a modest, nondiscriminatory burden on
+respondents’ associational rights, and that this burden is
+justified by the State’s legitimate regulatory interests,
+there are some grounds for concern that other Oklahoma laws
+governing party recognition and changes in party affiliation
+may unreasonably restrict voters’ ability to participate
+in the LPO’s primary.  A realistic assessment of
+regulatory burdens on associational rights would, in an
+appropriate case, require examination of the cumulative effects
+of the State’s overall primary scheme; and any finding of
+a more severe burden would trigger more probing review of the
+State’s justifications.  Pp. 1—11.
+
+    Thomas, J., delivered
+an opinion, which was for the Court except as to Part
+II—A.  Rehnquist, C. J., and Scalia and Kennedy, JJ.,
+joined that opinion in full, and O’Connor and Breyer, JJ.,
+joined except as to Part II—A.  O’Connor, J., filed
+an opinion concurring in part and concurring in the judgment,
+in which Breyer, J., joined except as to Part III.  Stevens,
+J., filed a dissenting opinion, in which Ginsburg, J., joined,
+and in which Souter, J., joined as to Parts I, II, and III.

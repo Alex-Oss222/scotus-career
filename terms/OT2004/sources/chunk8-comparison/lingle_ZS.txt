@@ -1,0 +1,178 @@
+LINGLE V. CHEVRON U.S. A. INC.
+
+LII
+
+Supreme Court		 
+
+LINGLE V. CHEVRON U.S. A. INC. (04-163) 
+363 F.3d 846,  reversed and remanded.
+Syllabus
+ Opinion
+ [ O’Connor ]Concurrence
+ [ Kennedy ]
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be
+released, as is being done in connection with this case, at the
+time the opinion is issued.
+The syllabus constitutes no part
+of the opinion of the Court but has been prepared by the
+Reporter of Decisions for the convenience of the reader.
+See
+United States v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+LINGLE, GOVERNOR OF HAWAII, et al.
+v. CHEVRON U.S. A. INC.
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE NINTH CIRCUIT
+
+No. 04—163.Argued February 22,
+2005–Decided May 23, 2005 
+
+Concerned about the effects of market
+concentration on retail gasoline prices, the Hawaii Legislature
+passed Act 257, which limits the rent oil companies may charge
+dealers leasing company-owned service stations.  Respondent
+Chevron U.S. A. Inc., then one of the largest oil companies in
+Hawaii, brought this suit seeking a declaration that the rent
+cap effected an unconstitutional taking of its property and an
+injunction against application of the cap to its stations. 
+Applying Agins v. City of Tiburon, 447 U.S. 255,
+260–where this Court declared that government regulation
+of private property “effects a taking if [it] does not
+substantially advance legitimate state interests”–the
+District Court held that the rent cap effects an uncompensated
+taking in violation of the Fifth and Fourteenth
+Amendments because it does not substantially advance
+Hawaii’s asserted interest in controlling retail gas
+prices.  The Ninth Circuit affirmed.  
+
+Held: Agins’
+“substantially advance[s]” formula is not an
+appropriate test for determining whether a regulation effects a
+Fifth Amendment
+taking.  Pp. 6—19.
+
+    (a) The paradigmatic
+taking requiring just compensation is a direct government
+appropriation or physical invasion of private property.  See,
+e.g., United States v. Pewee Coal Co., 341 U.S. 114. 
+Beginning with Pennsylvania Coal Co. v. Mahon, 260 U.S. 393,
+however, the Court recognized that government regulation of
+private property may be so onerous that its effect is
+tantamount to a direct appropriation or ouster.  Regulatory
+actions generally will be deemed per se takings for Fifth Amendment
+purposes (1) where government requires an owner to suffer a
+permanent physical invasion of her property, see Loretto
+v. Teleprompter Manhattan CATV Corp., 458 U.S. 419, or (2)
+where regulations completely deprive an owner of
+“all economically beneficial us[e]” of her
+property, Lucas v. South Carolina Coastal
+Council, 505 U.S.
+1003, 1019.  Outside these two categories (and the special
+context of land-use exactions discussed below), regulatory
+takings challenges are governed by Penn Central
+Transportation Co. v. New York City, 438 U.S. 104, 124. 
+Penn Central identified several factors–including
+the regulation’s economic impact on the claimant, the
+extent to which it interferes with distinct investment-backed
+expectations, and the character of the government
+action–that are particularly significant in determining
+whether a regulation effects a taking.	Because the three
+inquiries reflected in Loretto, Lucas, and
+Penn Central all aim to identify regulatory actions that
+are functionally equivalent to a direct appropriation of or
+ouster from private property, each of them focuses upon the
+severity of the burden that government imposes upon
+property rights.  Pp. 6—10.
+
+      (b) The
+“substantially advances” formula is not a valid
+method of identifying compensable regulatory takings.  It
+prescribes an inquiry in the nature of a due process test,
+which has no proper place in the Court’s takings
+jurisprudence.	The formula unquestionably was derived from due
+process precedents, since Agins supported it with
+citations to Nectow v. Cambridge, 277 U.S. 183, 185,
+and Village of Euclid v. Ambler Realty Co., 272 U.S. 365, 395. 
+Although Agins’ reliance on those precedents is
+understandable when viewed in historical context, the language
+the Court selected was imprecise.  It suggests a means-ends
+test, asking, in essence, whether a regulation of private
+property is effective in achieving some legitimate
+public purpose.  Such an inquiry is not a valid method of
+discerning whether private property has been “taken”
+for Fifth
+Amendment purposes.  In stark contrast to the three
+regulatory takings tests discussed above, the
+“substantially advances” inquiry reveals nothing
+about the magnitude or character of the burden a
+particular regulation imposes upon private property rights or
+how any regulatory burden is distributed among property
+owners.  Thus, this test does not help to identify those
+regulations whose effects are functionally comparable to
+government appropriation or invasion of private property; it is
+tethered neither to the text of the Takings Clause nor to the
+basic justification for allowing regulatory actions to be
+challenged under the Clause.  Moreover, the Agins
+formula’s application as a takings test would present
+serious practical difficulties.  Reading it to demand
+heightened means-ends review of virtually all regulation of
+private property would require courts to scrutinize the
+efficacy of a vast array of state and federal
+regulations–a task for which they are not well suited.  It
+would also empower–and might often require–courts to
+substitute their predictive judgments for those of elected
+legislatures and expert agencies.  Pp. 10—15.
+
+      (c) The
+Court’s holding here does not require it to disturb any of
+its prior holdings.  Although it applied a “substantially
+advances” inquiry in Agins itself, see 447 U.S., at
+261—262, and arguably in Keystone Bituminous Coal
+Assn. v. DeBenedictis, 480 U.S. 470,
+485—492, it has never found a compensable taking based on
+such an inquiry.  Moreover, in most of the cases reciting the
+Agins formula, the Court has merely assumed its validity
+when referring to it in dicta.	See, e.g., Tahoe-Sierra
+Preservation Council, Inc. v. Tahoe Regional Planning
+Agency, 535 U.S.
+302, 334.  Although Nollan v. California Coastal
+Commission, 483
+U.S. 825, 834, and Dolan v. City of Tigard,
+512 U.S. 374, 385,
+drew upon Agins’ language, the rule those cases
+established is entirely distinct from the “substantially
+advances” test: They involved a special application of the
+“doctrine of unconstitutional conditions,” which
+provides that the government may not require a person to give
+up the constitutional right to receive just compensation when
+property is taken for a public use in exchange for a
+discretionary benefit that has little or no relationship to the
+property.  Ibid. Pp. 16—18.
+
+      (d) A plaintiff
+seeking to challenge a government regulation as an
+uncompensated taking of private property may proceed by
+alleging a “physical” taking, a Lucas-type
+total regulatory taking, a Penn Central taking, or a
+land-use exaction violating the Nollan and Dolan
+standards.  Because Chevron argued only a “substantially
+advances” theory, it was not entitled to summary judgment
+on its takings claim.  Pp. 18—19.
+
+363 F.3d 846,  reversed and remanded.
+
+    O’Connor, J.,
+delivered the opinion for a unanimous Court.  Kennedy, J.,
+filed a concurring opinion.

@@ -1,0 +1,272 @@
+
+  
+    Andrea L. BEAVER; Floyd Turner; Minelle L. Batson; Mary Y. Burnett; Michael L. Seymour; Terry L. Beaver; Robert T. Murphy; Sharon Lynn Atherton; Roger Bloxham; Steve Galpin; Richard P. Prawdzienski; Michael A. Clem; Whitney L. Boutin, Jr.; Christopher S. Powell; Charles A. Burris; and the Libertarian Party of Oklahoma a/k/a/ Libertarian Political Organization, Plaintiffs-Appellants, *1049v. Michael CLINGMAN, Secretary of the Oklahoma State Election Board; Glo Henley, Chairman of the Oklahoma State Election Board; Kenneth Monroe, Vice Chairman of the Oklahoma State Election Board; Thomas E. Prince, Member of the Oklahoma State Election Board; and the Oklahoma State Election Board, Defendants-Appellees.
+
+
+    No. 03-6058.
+
+
+    United States Court of Appeals, Tenth Circuit.
+
+
+    April 6, 2004.
+
+
+    
+      *1051James C. Linger, Tulsa, OK, for Plaintiffs-Appellants.
+
+
+    Wellon B. Poe, Assistant Attorney General, Oklahoma City, OK, for Defendants-Appellees.
+
+
+    Before KELLY, LUCERO, and O’BRIEN, Circuit Judges.
+
+
+  
+
+
+  
+    LUCERO, Circuit Judge.
+
+
+    This case presents issues at the intersection of two Supreme Court cases concerning the associational rights of political parties in the context of primary elections. Oklahoma’s election statutes currently provide for a semi-closed primary system, in which a party may invite only its own party members and registered voters designated as Independents to vote in its primary .. Along with registered voters of the Republican and Democratic parties, the Libertarian Party of Oklahoma (the “LPO”) filed a § 1983 action, alleging that the Oklahoma election statutes regulating primaries violate their rights to freedom of political association and free speech by preventing the LPO from inviting members of other parties to vote in its primary elections.
+
+
+    The district court found the Oklahoma statutes to be constitutional. Because we conclude that the election laws impermissi-bly violate the LPO’s associational rights, we exercise jurisdiction pursuant to 28 U.S.C. § 1291 and REVERSE.
+
+
+    I
+
+
+    Several types of primary systems exist in the United States.1 Oklahoma’s statute *1052regarding primaries provides that:
+
+
+    A. No registered voter shall be permitted to vote in any Primary Election or Runoff Primary Election of any political party except the political party of which his registration form shows him to be a member, except as otherwise provided by this section.
+    B.
+    1. A recognized political party may permit registered voters designated as Independents ... to vote in a Primary Election or Runoff Primary Election of the party.
+    Okla. Stat. tit. 26, § 1-104. By the statute’s terms, a political party in Oklahoma may allow Independents to vote in its primary and runoff elections, but a party may not invite voters registered with other parties to vote in its primary.
+
+
+    Having exercised its statutory option to allow Independents to vote in its primaries, the LPO would also like to invite all registered Oklahoma voters, regardless of their political affiliations, to participate. The LPO has decided that such an action would help it reach out to Libertarian-oriented voters of other political affiliations, thereby producing a more viable Libertarian candidate. The LPO initially asked the Secretary of the Oklahoma State Election Board for permission to invite all registered voters to participate in its primaries for the 2000 election cycle, and the Secretary denied the request. After announcing the same intention for the 2004 election cycle and being denied again, the LPO filed suit in federal district court. It claimed that the First Amendment’s guarantee of free association gave it the right to invite all registered voters, regardless of political affiliation, to vote in its primaries; it sought a permanent injunction to enjoin the Oklahoma State Election Board from enforcing the state election statutes. If granted such an injunction, the LPO suggested that Oklahoma would become a party-option open primary state, allowing each party the option of opening its primary to registered voters of other parties.
+
+
+    Finding that the LPO had standing to bring the suit, the district court proceeded to weigh the character and magnitude of the burden imposed on the LPO’s rights protected by the First and Fourteenth Amendments against the interests set forth as justifications by the state. It concluded that the burden of the statute on the LPO was not a severe one and accordingly analyzed whether any of Oklahoma’s proffered interests were sufficiently important to justify the burden. Though it found unavailing Oklahoma’s interests in avoiding voter confusion, administrative difficulties, “swamping,” and “raiding,”2 the district court concluded *1053that the state’s interest in “preserving the political parties as viable and identifiable interest groups, insuring that the results of a primary election ... accurately reflect the voting of the party members” (R. at 68-69) was sufficiently important for the state to prevail.
+
+
+    II
+
+
+    We -review the district court’s findings of fact for clear error.. Fed.R.Civ.P. 52(a). “A finding is ‘clearly erroneous’ when although there is evidence to support it, the reviewing court on the entire evidence is left with the definite and firm conviction that a mistake has been committed.” Anderson v. City of Bessemer City, 470 U.S. 564, 573, 105 S.Ct. 1504, 84 L.Ed.2d 518 (1985) (citation omitted). Our review of questions of law, on the other hand, is de novo. See Elder v. Holloway, 510 U.S. 510, 516, 114 S.Ct. 1019, 127 L.Ed.2d 344 (1994). “[T]he difference between a de novo review of a record and a review under the clearly erroneous standard is significant,” Ocelot Oil Corp. v. Sparrow Indus., 847 F.2d 1458, 1464 (10th Cir.1988); in de novo review, “no form of appellate deference is acceptable,” Salve Regina Coll. v. Russell, 499 U.S. 225, 238, 111 S.Ct. 1217, 113 L.Ed.2d 190 (1991).
+
+
+    A
+
+
+    Because Oklahoma statutes currently recognize the LPO as a political organization rather than a political party, we must first determine whether the LPO has standing to bring a suit to enjoin laws that restrict political parties. In Oklahoma, party status depends on statutory requirements; specifically, a group may attain party status during even-numbered years by getting a petition signed by five percent of the number of people who voted in the last general election. Okla. Stat. tit. 26, § 1-108. Having regularly completed these requirements in even-numbered years, the LPO has consistently and cyclically achieved party status. In order to maintain party status until the following election cycle, however, the party must achieve ten percent of the total votes cast for certain offices. Okla. Stat. tit. 26, § 1-109. If a party fails to achieve the required-ten percent, it loses its status as a party and becomes a “political organization” until it is able to regain party status through the mechanisms described in § 1-108. Because the LPO has never achieved the required ten percent, it consistently has lost its party status in years following elections. Therefore, over the last two decades, the LPO has managed to temporarily attain party status in the few months surrounding the elections but has not maintained it during the off years.
+
+
+    Our Article III standing jurisprudence requires that an actual controversy exist at all stages of litigation, and that the parties to the litigation all have a personal stake in its outcome. Because the LPO’s status was that of a political organization rather than a political party when it brought the instant suit, there exists some doubt as to the LPO’s standing to challenge a law that regulates political parties. As to the injury requirement, the LPO must demonstrate that the Oklahoma primary election statutes injure or threaten to injure the LPO. See Lujan v. Defenders of Wildlife, 504 U.S. 555, 560, 112 S.Ct. 2130, 119 L.Ed.2d 351 (1992). The district court found that “[t]he LPO is an active organization with political plans for the 2004 election cycle.” (R. at 23.) In addition, the LPO has been on the Oklahoma ballot in every presidential election from 1980 to 2000 and had primary elections in 1980, 1996, and 2000.
+
+
+    Moreover, we allow claims when plaintiffs contest “wrongs capable of repetition yet evading review.” See Rosario v. Rockefeller, 410 U.S. 752, 756 n. 5, 93 S.Ct. 1245, 36 L.Ed.2d 1 (1973); see also Southern Pac. Terminal Co. v. ICC, 219 U.S. *1054498, 514-515, 31 S.Ct. 279, 55 L.Ed. 310 (1911). One area in which the Supreme Court has applied this exception frequently is election law. In Moore v. Ogilvie, 394 U.S. 814, 816, 89 S.Ct. 1493, 23 L.Ed.2d 1 (1969), for example, .the Court' allowed plaintiffs to challenge a state law that required a certain number of signatures to place an independent candidate’s name on the ballot. There, the Court concluded that the case was not moot because plaintiffs -might be expected to seek similar access to the ballot in the future, and thus the wrong was capable of repetition yet evading review.
+
+
+    Similarly, in Norman v. Reed, 502 U.S. 279, 112 S.Ct. 698, 116 L.Ed.2d 711 (1992), the Court allowed a plaintiff to challenge a ballot-access law. Explaining why it allowed the challenge despite the fact that the elections had already taken- place, the Court stated that “[tjhere would be every reason to expect the same parties to generate a similar, future controversy subject to identical time constraints if we should fail to resolve the constitutional issues that arose in 1990.” Id.; see also First National Bank of Boston v. Bellotti, 435 U.S. 765, 774, 98 S.Ct. 1407, 55 L.Ed.2d 707 (1978) (allowing plaintiffs to challenge a law prohibiting corporations from spending money in elections because the issue would likely arise in future elections).
+
+
+    The injury of which the LPO complains is similarly capable of repetition yet evading review.1 Both of the necessary elements are present. With respect to the injury’s tendency to evade review; as explained above, it has bfeen impossible to this point for the LPO to maintain its party status for more than a period of a few months. Equally apparent is the likelihood that- the injury will be repeated. Although the LPO was not a political party at the time of its suit, it has a consistent record of demonstrating the ability to achieve party status. Moreover, the LPO intends to petition to regain full political party status for the 2004 election cycle, and thus it is likely that there will be a primary election with various LPO candidates competing for the right to stand for election. Indeed, “[tjhere would be every reason to expect the same parties to generate a similar, future controversy subject to identical time constraints if we should fail to resolve the constitutional issues.” Norman, 502 U.S. at 288, 112 S.Ct. 698. Accordingly, we conclude that the LPO has standing to bring the instant suit.
+
+
+    B
+
+
+    Turning to the merits of the appeal, the LPO’s claim requires us to consider the impact of the Oklahoma election laws upon its rights to free association and speech under the First and Fourteenth Amendments. To this end, we must balance the state’s authority to regulate elections with the freedom of political parties to choose those with whom they will associate. The Constitution grants the states the power to legislate the “Times, Places, and Manner of holding Elections for Senators and Representatives,” Art. I, § 4, cl. 1, and states have parallel control over state elections. However, this general power alone “does not justify, without more, the abridgment of fundamental rights, such as the right to vote, or, as here, the freedom of political association.” Tashjian v. Republican Party of Conn., 479 U.S. 208, 217, 107 S.Ct. 544, 93 L.Ed.2d 514 (1986) (citation omitted).
+
+
+    The nature of the constitutional rights at stake in the instant case is axiomatic; “[tjhe freedom of association protected by the First and Fourteenth Amendments includes partisan political organization.” Id. at 214, 107 S.Ct. 544; see Elrod v. Burns, 427 U.S. 347, 357, 96 S.Ct. 2673, 49 L.Ed.2d 547 (1976) (plurality opinion); Buckley v. Valeo, 424 U.S. 1, 15, 96 S.Ct. 612, 46 L.Ed.2d 659 (1976). In this *1055context, our conception of the freedom of association is not simply an acknowledgment that individuals should be free to join or not join a party. The associational rights of political parties are distinct; indeed, “[freedom of association means not only that an individual voter has the right to associate with the political party of her choice, but also that a political party has a right to identify the people who constitute the association.” Eu v. San Francisco County Democratic Cent. Comm., 489 U.S. 214, 229, 109 S.Ct. 1013, 103 L.Ed.2d 271 (1989) (citations omitted).
+
+
+    More recently, the Supreme Court reiterated:
+
+
+    In no area is the political association’s right to exclude more important than in the process of selecting its nominee. That process often determines the party’s positions on the most significant public policy issues of the day, and even when those positions are predetermined it is the nominee who becomes the party’s ambassador to the general electorate in winning it over to the party’s views.... [Thus we acknowledge] the special place the First Amendment reserves for, and the special protection it accords, the process by which a political party select[s] a standard bearer who best represents the party’s ideologies and preferences.
+    
+      California Democratic Party v. Jones, 530 U.S. 567, 575, 120 S.Ct. 2402, 147 L.Ed.2d 502 (2000) (citations omitted). Moreover, the Supreme Court has recognized that party “enrollment or public affiliation with the Party itself is merely one element in the continuum of participation in Party affairs, and need not be ... the most important.” Tashjian, 479 U.S. at 215, 107 S.Ct. 544. In accordance with this precedent, the LPO claims that the Oklahoma statutes burden its right to determine the bounds of its association in its quest for political success.
+
+
+    Having articulated the associational rights at stake, we must assess the degree of the burden imposed on those rights by the current Oklahoma election laws. To determine whether a state election law’s burden on associational rights is impermissible:
+
+
+    a court ... must first consider the character and magnitude of the asserted injury to the rights protected by the First and Fourteenth Amendments that the plaintiff seeks to vindicate. It then must identify and evaluate the precise interests put forward by the State as justifications for the burden imposed by its rule. In passing judgment, the Court must not only determine the legitimacy and strength of each of those interests, it also must consider the extent to which those interests make it necessary to burden the plaintiffs rights.
+    
+      Anderson v. Celebrezze, 460 U.S. 780, 789, 103 S.Ct. 1564, 75 L.Ed.2d 547 (1983). More recently, the Supreme Court clarified that if the burden is severe, the regulation must be narrowly tailored and advance a compelling state interest; on the other hand, if we determine the burden to be less severe, then important regulatory interests are generally enough to justify the regulation. Timmons v. Twin Cities Area New Party, 520 U.S. 351, 358-59, 117 S.Ct. 1364, 137 L.Ed.2d 589 (1997); Burdick v. Takushi, 504 U.S. 428, 434, 112 S.Ct. 2059, 119 L.Ed.2d 245 (1992).
+
+
+    We must therefore determine the magnitude of the burden that the Oklahoma statutes place on the LPO.3 Of *1056course, not every burden that state regulations impose, on associational rights in the election law context is a severe one. See, e.g., Burdick, 504 U.S. at 432-34, 112 S.Ct. 2059 (concluding that Hawaii’s ban on write-in voting was not entitled to strict scrutiny). The Court has applied intermediate scrutiny, for example, when the law’s restrictions were chiefly administrative. See, e.g., Rosario, 410 U.S. at 760-62, 93 S.Ct. 1245 (employing intermediate scrutiny in evaluating a New 'York law that required voters to enroll in a political party by a cutoff date).
+
+
+    However, when states have statutorily restricted parties from defining the bounds of their own association, the Court has tended to employ strict scrutiny. See, e.g., Jones, 530 U.S. 567, 582, 120 S.Ct. 2402, 147 L.Ed.2d 502 (2000); Eu, 489 U.S. 214, 225, 109 S.Ct. 1013, 103 L.Ed.2d 271 (1989) (requiring California’s election provisions prohibiting parties from endorsing candidates in primaries to be narrowly tailored to serve a compelling state interest); Tashjian, 479 U.S. at 225, 107 S.Ct. 544, 93 L.Ed.2d 514 (1986); Democratic Party of the United States v. Wisconsin ex rel. La Follette, 450 U.S. 107, 124, 101 S.Ct. 1010, 67 L.Ed.2d 82 (1981) (applying strict scrutiny when Wisconsin attempted to force the Democratic Party to accept'its system for selecting delegates to the national party convention); Cousins v. Wigoda, 419 U.S. 477, 489, 95 S.Ct. 541, 42 L.Ed.2d 595 (1975) (using strict scrutiny to analyze whether Illinois’ interest in determining the delegates at its primaries trumped parties’ associational rights); but see Timmons, 520 U.S. at 358-59, 117 S.Ct. 1364 (employing intermediate scrutiny when analyzing Minnesota’s prohibition of fusion candidacies).
+
+
+    Most instructive to our present analysis are Tashjian and Jones; the facts in the case before us place it squarely between those two cases. In Tashjian, the Court considered Connecticut’s election statutes, which provided for an entirely closed primary system. Tashjian, 479 U.S. at 211, 107 S.Ct. 544. In other words, only voters registered with a particular party could vote in that party’s primary; even independents could not vote in Connecticut’s primaries. Id. Like the LPO in the instant case, the Republican Party in Tashji-an asserted that Connecticut’s election statutes violated its First Amendment freedom of association rights by restricting it from inviting certain registered voters to assist it in selecting its standard-bearer. Id.
+    
+
+
+    The Supreme Court explained that in order to trump the Republican Party’s associational rights in this context, Connecticut’s regulation would need to be narrowly tailored to advance a compelling interest. Id. at 217, 107 S.Ct. 544. Deciding that none of Connecticut’s asserted interests met strict scrutiny, the Court held that a state could not restrict a party from inviting independent voters to participate in its primary election absent a compelling state interest.4
+      Id. at 229, 107 S.Ct. 544.
+
+
+    
+      *1057Almost two decades later in Jones, the Court analyzed California’s “blanket primary” system, in which parties were required to allow voters to choose the primaries in which they wanted to vote. Jones, 530 U.S. at 570, 120 S.Ct. 2402. As directed by Timmons, the Court analyzed the burden imposed by the California regulations and concluded that it was severe. Id. at 581-82, 120 S.Ct. 2402. Accordingly, it required California to demonstrate that its regulations were narrowly tailored to serve a compelling interest; concluding that none of the interests were sufficiently compelling, the Court held that California’s primary system impermissibly violated parties’ associational rights-more specifically, their ability to choose the group of people who selected their candidates. Id. at 586, 120 S.Ct. 2402.
+
+
+    This case falls between Tashjian and Jones. Whereas Tashjian concluded that states could not restrict parties from allowing independent voters to vote in their primaries, and Jones held that states could not compel parties to allow voters from other parties to vote in their primaries, the instant case asks whether it is permissible for states to forbid parties from allowing registered voters from other parties to participate in their primaries.5
+    
+
+
+    The similarities among Tashjian, Jones, and this case prove useful in our analysis, as they demonstrate that state regulations can impair associational rights either by compelling political association as in Jones, or by precluding political association as in Tashjian. More generally, in both cases the Supreme Court considered statutes that directly affected a political party’s freedom to set the boundaries of the group of voters it would invite to help it select its standard-bearer. To this end, the Court explained that a state generally may not “prevent the parties from taking internal steps affecting their own process for the selection of candidates.” Tashjian, 479 U.S. at 224, 107 S.Ct. 544.
+
+
+    When read together, the clear and unavoidable implication of Tashjian and Jones is that a state generally may not restrict the ability of a political party to define the group of citizens that will choose its standard-bearer.6 That conclusion dictates the terms of our present analysis, for among Tashjian, Jones, and the instant case runs a connecting thread. In each of the three cases, the regulation at issue restricted the options of parties seeking to define the scope of their associational rights. Faced with the prospect of such burdens in Tashjian and Jones, the Supreme Court employed strict scrutiny. Given the similarities among the cases, we are compelled to exercise similar vigilance here. Because we conclude that the bur*1058den in the instant case is a severe one, we proceed to analyze whether the regulations are narrowly tailored to serve a compelling state interest. Jones, 530 U.S. at 586, 120 S.Ct. 2402.
+
+
+    Oklahoma sets forth the following four state interests in support of its current primary election statutes: (1) protecting the LPO from “swamping” and “raiding”; (2) preventing voter confusion; (3) minimizing administrative difficulties; and (4) promoting and protecting “the integrity of the election process,” which includes “preserving the political parties as viable and identifiable interest groups, insuring that the results of a primary election ... accurately reflect the voting of the party members, and prevention of confusion or.misleading of the general electorate to the extent that the voting public often relies on party labels to make their choice.” (R. at 68-69.)
+
+
+    With respect to Oklahoma’s interest in protecting the LPO from “raiding” and “swamping,” the Supreme Court has concluded that it is not for the state to determine what is in the best interests of a political party, explaining that “even if the State were correct, a State, or a court, may not constitutionally substitute its own judgment for that of the Party.” La Follette, 450 U.S. at 122, 101 S.Ct. 1010. Even though it employed only intermediate scrutiny in analyzing Oklahoma’s interests, the district court in the instant case rejected the asserted interest of protecting the LPO. We agree that Oklahoma may not substitute its judgment for that of the LPO, and thus that its interest in protecting the LPO from itself is not sufficiently compelling to justify the burden on the LPO’s associational rights.
+
+
+    As to Oklahoma’s interests in avoiding voter confusion and administrative difficulties, whether such interests could ever be sufficiently compelling to justify a severe burden in any instance is a question that we need not decide. The district court found that on the record before it, the state had not offered sufficient facts to demonstrate even a substantial possibility of either confusion or administrative problems. With respect to voter confusion, it found that the LPO’s exhibits clearly showed that “simple rules for voting eligibility can be posted at polling places when the primary and runoff elections are conducted,” (R. at 75), thus eliminating the possibility of confusion. We owe deference to the district court on these findings of fact and conclude that the findings were not clearly erroneous. See Anderson, 470 U.S. at 573, 105 S.Ct. 1504.
+
+
+    .Regarding the specter of administrative problems raised by Oklahoma, the district court found that Oklahoma had introduced into the record “no basis for a finding that the implementation of a party-open primary system would create insuperable administrative burdens.” ,(R. at 76.) We are unable to locate any evidence in the record that administrative difficulties would ensue under the LPO’s proposed system; therefore, we conclude that the district court’s finding that Oklahoma failed to show that administrative problems would occur if it implemented the LPO’s proposed primary scheme was not clear error. See Anderson, 470 U.S. at 573, 105 S.Ct. 1504.
+
+
+    Thus, we turn finally to Oklahoma’s asserted interest in “protecting the integrity of the political process ..[by] preserving the political parties as viable and identifiable interest groups, [and] insuring that the results of a primary election ... accurately reflect the voting of the party members.” (R. at 68-69.) This interest might be separated into two distinct interests-preserving political stability as a general matter, and protecting the non-LPO parties from the “poaching” of their voters by the LPO.
+
+
+    
+      *1059As to Oklahoma’s general interest in political stability, the Supreme Court held in Timmons that though states may not “completely insulate the two-party system from minor parties’ or independent candidates’ competition and influence,” 520 U.S. at 367, 117 S.Ct. 1364, a state’s interest in the stability of its political system is strong. In the ballot access context, moreover, the Court described a state’s interest in political stability as “not only permissible, but compelling.” Storer v. Brown, 415 U.S. 724, 736, 94 S.Ct. 1274, 39 L.Ed.2d 714 (1974).
+
+
+    We grant that a state has a compelling interest in political stability as a general matter, but our task is to examine whether “in the circumstances of this case, [that interest is] compelling.” Jones, 530 U.S. at 584, 120 S.Ct. 2402. In Jones, for example, California asserted state interests in promoting fairness, affording voters greater choice, increasing voter participation, and protecting privacy. The Court recognized that theoretically, those interests might be compelling; however, it explained that the determination of whether they were compelling in any particular case was “not to be made in the abstract, by asking whether fairness, privacy, etc., are highly significant values; but rather by asking whether the aspect of fairness, privacy, etc., addressed by the law at issue is highly significant.” Id.
+    
+
+
+    In Eu, California asserted that its regulation forbidding parties from endorsing candidates was justified by its compelling state interest in political stability. Although conceding that a state’s interest in political stability was compelling as a general matter, the Court held that California had not demonstrated that the interest was compelling in the circumstances of that case. It explained that “[m]aintaining a stable political system is, unquestionably, a compelling state interest. California, however, never adequately explains how banning parties from endorsing or opposing primary candidates advances that interest.” Eu, 489 U.S. at 226, 109 S.Ct. 1013 (citation omitted).
+
+
+    Our determination of whether Oklahoma’s interest in political stability is sufficiently compelling in the instant case begins with the Supreme Court’s comparison of the statute in Storer, 415 U.S. at 736, 94 S.Ct. 1274, which considered a California statute forbidding a ballot position to an independent candidate who “had a registered affiliation with [a] political party at any time within one year prior to the immediately preceding primary election,” to Connecticut’s closed primary system in Tashjian, the latter of which is much more closely analogous to the Oklahoma regulations at issue. The Court articulated:
+
+
+    The statute in Storer was designed to protect the parties and the party system against the disorganizing effect of independent candidacies launched by unsuccessful putative party nominees. This protection [was] undertaken to prevent the disruption of the political parties from without, and not, as in this case, to prevent the parties from taking internal steps affecting their own process for the selection of candidates.... The Party’s determination of the boundaries of its own association, and of the structure which best allows it to pursue its political goals, is protected by the Constitution.
+    
+      Tashjian, 479 U.S. at 224, 107 S.Ct. 544 (citation omitted).
+
+
+    On its face, the Court’s language suggests that Oklahoma’s interest in protecting the integrity of the political process is insufficiently compelling. After all, the regulation at issue here “prevents] the parties from taking internal steps affecting their own process for the selection of candidates.” Id. However, Tashjian specifically disclaimed in footnote 13 that such a *1060conclusion necessarily followed from its holding, suggesting that a case like the one before us would “raise a different combination of considerations ... [by] threatening] other parties with [ ] disorganization effects.” Tashjian, 479 U.S. at 224 n. 13, 107 S.Ct. 544.
+
+
+    We are mindful that footnote 13 of Tash-jian counsels caution; in so proceeding, however, we ultimately conclude that Oklahoma’s interest on this record and in the circumstances of this case is not a compelling one. Finding the interest in protecting the integrity of the political process to be sufficiently important, the district court relied on evidence that close to twenty-four percent of Oklahoma’s primaries were decided by a margin of five percent or less in 2000. (R. at 63.) Those numbers in hand, it hypothesized that the LPO’s proposed party-option open primary might result in enough cross-over to change some election results and that the integrity of the political system would thereby be undermined. (Id.)
+    
+
+
+    We acknowledge that the district court’s hypothetical might come to fruition. To be sure, some election results might change if Oklahoma switches from a semi-closed primary system to a party-option open primary system. It may be the very possibility of such change that impels the litigation before us. What is less clear, and what Oklahoma fails to demonstrate, is why a few changed outcomes in tightly contested primaries would undermine the integrity of the political process, or how somewhat altered election results would diminish Oklahoma’s political stability.
+
+
+    Relevant to our analysis of whether Oklahoma’s interest in political stability is compelling under these circumstances is that the system urged by the LPO is already in place in two states. Specifically, Utah7 and Alaska8 currently employ a party-option open primary, and in neither state has there been a report of instability in the political process. We grant that a state has a compelling interest in general political stability, but the fact that neither Utah nor Alaska has collapsed under the weight of its allegedly destabilizing primary system calls into question whether Oklahoma’s interest in political stability is implicated under these circumstances.
+
+
+    In analyzing Oklahoma’s asserted interest in political stability and viability of the political parties, the district court also seemed concerned with protecting the non-LPO parties from “poaching” by the LPO. In worrying about the impact upon the associational rights of the other Oklahoma parties of allowing the LPO to open its primary to registered members of those parties, the district court explained that Oklahoma’s statutes were justifiable in part because they “bar a party from poaching another party’s primary election voters.” (R. at 82.)
+
+
+    It is true, as Oklahoma asserts, that at first blush this case appears to require us to consider both the associational rights of the LPO and those of the other parties in Oklahoma, each of which is virtually certain to be affected to some degree by a change in the statute. It would effect a strange result indeed to protect some associational rights at the direct expense of others, and if allowing the LPO to choose to invite members of the Republican and Democratic parties to vote in the LPO’s primary election burdened the corresponding associational rights of the Republican and Democratic parties, this would be a different case.
+
+
+    Such an argument, however, reflects a fundamental misunderstanding of the freedom of association, which at its core protects against state regulations *1061that: (1) preclude association, Roberts v. United States Jaycees, 468 U.S. 609, 622, 104 S.Ct. 3244, 82 L.Ed.2d 462 (1984); or (2) “foree[ ] inclusion of an unwanted person in a group,” Boy Scouts of America v. Dale, 530 U.S. 640, 648, 120 S.Ct. 2446, 147 L.Ed.2d 554 (2000). By finding protection against poaching of other parties’ voters to justify the regulations at issue, the district court effectively would add a new associational right that has to this point been absent from constitutional discussion-the ability of a group to harness and control the associational opportunities of its members.
+
+
+    Parties may assuredly guard their associational rights against forced inclusion of unwanted people, see, e.g., Jones; such an option is readily available under the LPO’s proposed alternatives, for parties may choose not to open their primary elections to members of other parties under a party-option open primary scheme. We cannot conclude, however, that the associational rights asserted by the LPO in this case are counterbalanced by any associational rights of parties seeking to restrict the associational opportunities of their registered members.
+
+
+    Moreover, any concern that the Republican and Democratic parties might have for losing voters to the LPO primary elections overlooks the countervailing consideration that allowing Oklahoma’s voters additional choices in primary voting promotes the associational rights of the individual voters within those parties. In this regard, to allow the LPO to invite registered voters of other parties to participate in their primaries not only advances the associational interests of the members of the LPO, but it also allows voters the benefit of choosing a primary.
+
+
+    Ill
+
+
+    Absent a clearer demonstration of political instability than the one present in the record before us, we conclude that Oklahoma’s current election statutes are not narrowly tailored to advance a compelling state interest. Because Oklahoma’s semi-closed primary scheme does not survive our strict scrutiny, we REVERSE the district court’s denial of the LPO’s request for a permanent injunction and REMAND for proceedings consistent with this opinion.
+
+
+    
+      1
+      . In a "closed primary," there is a separate primary ballot for each party, and no cross*1052over voting is allowed. In other words, a registered Republican can vote only in the Republican primary. A "semi-closed primary,” which resembles the closed primary, permits a party to invite independents to vote in the party's primary if it so chooses. In an "open primary” system, all voters, regardless of party affiliation, are able to choose the primary in which they vote. Finally, a "blanket primary” system allows each voter to choose in which primary he or she will vote for each separate office. A "party-option open primary,” which is at issue in this case, is a variation of the "open primary.” In a party-option open primary, a party may choose either to open its primary to registered independents or voters from other parties or to restrict its primary to only voters of its own party.
+
+
+    
+
+
+    
+      2
+      . Swamping is defined as the control of a minor party’s candidate selection by voters affiliated with other parties; it was described by the Supreme Court in California Democratic Party v. Jones, 530 U.S. 567, 578, 120 S.Ct. 2402, 147 L.Ed.2d 502 (2000). Raiding is similarly defined and gives non-members of a minor party the ability to overtake the minor party as a flag of convenience, thus affecting the ideology of the ticket representatives of the party. Id.
+      
+
+
+    
+
+
+    
+      3
+      . This task is somewhat complicated by the fact that prior to Burdick, the Court had not specifically articulated the need for a court to base its analysis on whether the burden imposed by an election statute on constitutional rights was a "severe” one. Thus, many cases do not use that terminology. In such prior *1056cases, however, the Court either generally was explicit in employing strict scrutiny or intermediate scrutiny to evaluate the burdens imposed by election statutes on associational rights. We thus rely on the type of scrutiny employed as a useful proxy for purposes of determining whether the Court viewed the particular burden as severe (if it applied strict scrutiny) or less substantial (if it used intermediate scrutiny). •
+
+
+    
+
+
+    
+      4
+      . Footnote 13 of Tashjian is relevant:
+
+
+      Our holding today does not establish that state regulation of primary voting qualifications may never withstand challenge by a political party or its membership. A party seeking, for example, to open its primary to all'voters, including members of other parties, would raise a different combination of considerations. Under such circumstances, the effect of one party's broadening of participation would threáten other parties with the disorganization effects which the statutes in Storer v. Brown, 415 U.S. 724, 94 *1057S.Ct. 1274, 39 L.Ed.2d 714 (1974), and Rosario v. Rockefeller, 410 U.S. 752, 93 S.Ct. 1245, 36 L.Ed.2d 1 (1973), were designed to prevent.
+      479 U.S. at 224 n. 13, 107 S.Ct. 544. This case poses such circumstances.
+
+
+    
+
+
+    
+      5
+      . One of our sister circuits had occasion to consider a question similar to the one before us. In Cool Moose Party v. Rhode Island, the First Circuit analyzed Rhode Island's election statute, which like Oklahoma's, provided for a semi-closed primary system. 183 F.3d 80, 82-83 (1st Cir.1999). The First Circuit held that Rhode Island's semi-closed primary system impermissibly violated the associational rights of the Cool Moose Party. That case is somewhat distinguishable from the instant case, because Rhode Island apparently asserted only an interest in protecting the Cool Moose Party from raiding and swamping. Concluding that those interests did not trump the party's associational rights, the First Circuit held that Rhode Island’s primary system was unconstitutional.
+
+
+    
+
+
+    
+      6
+      . Analyzed in the context of related cases such as Eu and La Follette, moreover, it is apparent that the Court closely scrutinizes almost all state regulations that disrupt the decision making processes of the parties.
+
+
+    
+
+
+    
+      7
+      . See Utah Code Ann. § 20A-9-403.
+
+
+    
+
+
+    
+      8
+      . See Alaska Stat. § 15-25-010.
+
+
+    
+
+
+  
+
+

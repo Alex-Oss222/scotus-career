@@ -1,0 +1,189 @@
+GONZALES V. RAICH
+
+LII
+
+Supreme Court		 
+
+GONZALES V. RAICH (03-1454) 
+352 F.3d 1222, vacated and remanded.
+Syllabus
+ Opinion
+ [ Stevens ]Concurrence
+ [ Scalia ]Dissent
+ [ O’Connor ]Dissent
+ [ Thomas ]
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be
+released, as is being done in connection with this case, at the
+time the opinion is issued.
+The syllabus constitutes no part
+of the opinion of the Court but has been prepared by the
+Reporter of Decisions for the convenience of the reader.
+See
+United States v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+GONZALES, ATTORNEY GENERAL, et al. v.
+RAICH et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE NINTH CIRCUIT
+
+No. 03—1454.Argued November 29,
+2004–Decided June 6, 2005 
+
+California’s Compassionate Use Act
+authorizes limited marijuana use for medicinal purposes. 
+Respondents Raich and Monson are California residents who both
+use doctor-recommended marijuana for serious medical
+conditions.  After federal Drug Enforcement Administration
+(DEA) agents seized and destroyed all six of Monson’s
+cannabis plants, respondents brought this action seeking
+injunctive and declaratory relief prohibiting the enforcement
+of the federal Controlled Substances Act (CSA) to the extent it
+prevents them from possessing, obtaining, or manufacturing
+cannabis for their personal medical use.  Respondents claim
+that enforcing the CSA against them would violate the Commerce
+Clause and other constitutional provisions.  The District Court
+denied respondents’ motion for a preliminary injunction,
+but the Ninth Circuit reversed, finding that they had
+demonstrated a strong likelihood of success on the claim that
+the CSA is an unconstitutional exercise of Congress’
+Commerce Clause authority as applied to the intrastate,
+noncommercial cultivation and possession of cannabis for
+personal medical purposes as recommended by a patient’s
+physician pursuant to valid California state law.  The court
+relied heavily on United States v. Lopez, 514 U.S. 549, and
+United States v. Morrison, 529 U.S. 598, to hold
+that this separate class of purely local activities was beyond
+the reach of federal power.  
+
+Held: Congress’ Commerce
+Clause authority includes the power to prohibit the local
+cultivation and use of marijuana in compliance with California
+law.  Pp. 6—31.
+
+    (a) For the
+purposes of consolidating various drug laws into a
+comprehensive statute, providing meaningful regulation over
+legitimate sources of drugs to prevent diversion into illegal
+channels, and strengthening law enforcement tools against
+international and interstate drug trafficking, Congress enacted
+the Comprehensive Drug Abuse Prevention and Control Act of
+1970, Title II of which is the CSA.  To effectuate the
+statutory goals, Congress devised a closed regulatory system
+making it unlawful to manufacture, distribute, dispense, or
+possess any controlled substance except as authorized by the
+CSA.  21 U.S.C. §
+841(a)(1), 844(a).	All controlled substances are
+classified into five schedules, §812, based on their
+accepted medical uses, their potential for abuse, and their
+psychological and physical effects on the body,
+§§811, 812.  Marijuana is classified as a
+Schedule I substance, §812(c),  based on its high
+potential for abuse, no accepted medical use, and no accepted
+safety for use in medically supervised treatment,
+§812(b)(1).  This classification renders the manufacture,
+distribution, or possession of marijuana a criminal offense. 
+§§841(a)(1), 844(a).	Pp. 6—11.
+
+    (b) Congress’ power to
+regulate purely local activities that are part of an economic
+“class of activities” that have a substantial effect
+on interstate commerce is firmly established.  See, e.g.,
+Perez v. United States, 402 U.S. 146, 151. 
+If Congress decides that the “ ‘total
+incidence’ ” of a practice poses a threat to a
+national market, it may regulate the entire class.  See,
+e.g., id., at 154—155.  Of particular relevance
+here is Wickard v. Filburn, 317 U.S. 111,
+127—128, where, in rejecting the appellee farmer’s
+contention that Congress’ admitted power to regulate the
+production of wheat for commerce did not authorize federal
+regulation of wheat production intended wholly for the
+appellee’s own consumption, the Court established that
+Congress can regulate purely intrastate activity that is not
+itself “commercial,” i.e., not produced for
+sale, if it concludes that failure to regulate that class of
+activity would undercut the regulation of the interstate market
+in that commodity.  The similarities between this case and
+Wickard are striking.  In both cases, the regulation is
+squarely within Congress’ commerce power because
+production of the commodity meant for home consumption, be it
+wheat or marijuana, has a substantial effect on supply and
+demand in the national market for that commodity.  In assessing
+the scope of Congress’ Commerce Clause authority, the
+Court need not determine whether respondents’ activities,
+taken in the aggregate, substantially affect interstate
+commerce in fact, but only whether a “rational basis”
+exists for so concluding.  E.g., Lopez, 514 U.S., at
+557.  Given the enforcement difficulties that attend
+distinguishing between marijuana cultivated locally and
+marijuana grown elsewhere, 21 U.S.C. §
+801(5), and concerns about diversion into illicit channels,
+the Court has no difficulty concluding that Congress had a
+rational basis for believing that failure to regulate the
+intrastate manufacture and possession of marijuana would leave
+a gaping hole in the CSA.  Pp. 12—20.
+
+    (c) Respondents’ heavy
+reliance on Lopez and Morrison overlooks the
+larger context of modern-era Commerce Clause jurisprudence
+preserved by those cases, while also reading those cases far
+too broadly.  The statutory challenges at issue there were
+markedly different from the challenge here.  Respondents ask
+the Court to excise individual applications of a concededly
+valid comprehensive statutory scheme.  In contrast, in both
+Lopez and Morrison, the parties asserted that a
+particular statute or provision fell outside Congress’
+commerce power in its entirety.  This distinction is pivotal
+for the Court has often reiterated that “[w]here the class
+of activities is regulated and that class is within the reach
+of federal power, the courts have no power ‘to excise, as
+trivial, individual instances’ of the class.” 
+Perez, 402 U.S., at 154.  Moreover, the Court emphasized
+that the laws at issue in Lopez and Morrison had
+nothing to do with “commerce” or any sort of economic
+enterprise.  See Lopez, 514 U.S., at 561; Morrison,
+529 U.S., at 610.  In contrast, the CSA regulates
+quintessentially economic activities: the production,
+distribution, and consumption of commodities for which there is
+an established, and lucrative, interstate market.  Prohibiting
+the intrastate possession or manufacture of an article of
+commerce is a rational means of regulating commerce in that
+product.  The Ninth Circuit cast doubt on the CSA’s
+constitutionality by isolating a distinct class of activities
+that it held to be beyond the reach of federal power: the
+intrastate, noncommercial cultivation, possession, and use of
+marijuana for personal medical purposes on the advice of a
+physician and in accordance with state law.  However, Congress
+clearly acted rationally in determining that this subdivided
+class of activities is an essential part of the larger
+regulatory scheme.  The case comes down to the claim that a
+locally cultivated product that is used domestically rather
+than sold on the open market is not subject to federal
+regulation.  Given the CSA’s findings and the undisputed
+magnitude of the commercial market for marijuana,
+Wickard and its progeny foreclose that claim.  Pp.
+20—30.
+
+352 F.3d 1222, vacated and remanded.
+
+    Stevens, J.,
+delivered the opinion of the Court, in which Kennedy, Souter,
+Ginsburg, and Breyer, JJ., joined.  Scalia, J., filed an
+opinion concurring in the judgment.  O’Connor, J., filed a dissenting opinion, in which
+Rehnquist, C. J., and Thomas, J.,
+joined as to all but Part III.	Thomas, J., filed a dissenting
+opinion.

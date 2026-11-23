@@ -1,0 +1,17 @@
+# OT2004 chunk 8 B — preparation source receipt
+
+This is an operator-facing provenance receipt, not substantive neutral modeling input.
+
+The preparer read the approved frozen neutral B packet, governing Engine rules, relevant opening Holdings and Standards, current neutral projection, prior public output sections and the mechanically extracted current-term GDF Realty and Doe v. Porter Public Projections. It did not open the full chunk brief, private Chief material, comparator, commitments, reconciliation files, raw Decision Records or audit annexes. It ran no repository-history command and wrote only within the current term.
+
+Two broad source-discovery responses unexpectedly exposed snippets from excluded same-matter historical Supreme Court material or later opinions describing it. Those snippets were not requested as sources, no same-matter Supreme Court opinion was opened, and none of their result, reasoning, lineup or language is used in PREFLIGHT_B. The preparation context consequently is not certified as historically blind. The required fresh validator and fresh modeling context receive only the sanitized packet and bounded permitted sources identified in PREFLIGHT_B, not this preparation conversation or the search output. The receipt intentionally does not reproduce the excluded substantive snippets.
+
+Internet Archive's own collection listing was queried by case name and docket. It located separately labeled original record and brief items for Andersen, Cutter, Tory and Raich. Andersen, Cutter and Raich merits-brief and selected appendix OCR files were retrieved. Retrieval is not represented as a full reading. A targeted Andersen charge passage was inspected and mechanically copied; its OCR gap is expressly identified and no public exact quotation is authorized from the unverified transition. No original filing is declared absent. The authorized supplied neutral facts eliminate any need to manufacture a filing or a procedural default.
+
+The official 2000 section 1512 and original RLUIPA statute text were saved and read at their operative provisions. Official 2004 CSA provisions were saved; the relevant enacted definitions, findings, prohibition, exception and state-law clauses were inspected. Source text was not retyped as an exact quotation. Narrow official statutory excerpts may be copied programmatically from these files; claims about modern legal effect are excluded.
+
+The amended Tucson lower opinion was read in targeted complete issue sections, including the amendment order and Part VI.C. Its record facts and statutory recitations corroborate the approved neutral packet; it is not treated as controlling Supreme Court law. The distinct full-file originals of that litigation were not represented as recovered or read. Remaining factual findings on cumulative burdens are the remand issue the record presents, not an external research blocker.
+
+The exact tool-built baseline remains a generation receipt. Compact selections retain the authoritative case identity and operative rule/authority/limit paragraphs. The separately tool-built Standards selection retains its exact present-operation and current-wording fields. Current-term public extracts supersede stale neutral-packet statements that GDF has not yet been decided or that Cutter has no earlier-term relevant law.
+
+Fresh validation must precede independent non-Chief modeling. No pending merits vote, assignment or opinion coalition is expressed or frozen by this preparation.

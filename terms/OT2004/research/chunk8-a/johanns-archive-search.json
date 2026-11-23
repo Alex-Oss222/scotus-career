@@ -1,0 +1,116 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 825,
+    "params": {
+      "query": "collection:us-supreme-court AND (title:Johanns OR title:Livestock OR identifier:03-1164 OR identifier:03-1165)",
+      "qin": "collection:us-supreme-court AND (title:Johanns OR title:Livestock OR identifier:03-1164 OR identifier:03-1165)",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 100,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 24,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA40386409_0028",
+        "title": "Denver Stock Yard v. Livestock Assn., 356 U.S. 282 (1958) (No. 106)"
+      },
+      {
+        "identifier": "micro_IA40386008_1127",
+        "title": "Swecker v. Johanns (No. 06-1711)"
+      },
+      {
+        "identifier": "micro_IA40385017_1548",
+        "title": "Johanns, Secretary of Agriculture v. Campaign for Family Farms, 544 U.S. 1058 (2005) (No. 03-1180)"
+      },
+      {
+        "identifier": "micro_IA40385017_1586",
+        "title": "Johanns, Secretary of Agriculture v. Cochran Et Ux, 544 U.S. 1058 (2005) (No. 04-446)"
+      },
+      {
+        "identifier": "micro_IA40385005_0357",
+        "title": "Livestock Marketers, Inc. v. United States, 435 U.S. 968 (1978) (No. 77-1019)"
+      },
+      {
+        "identifier": "micro_IA40385014_0741",
+        "title": "Nebraska Cattlemen, Inc. v. Livestock Marketing Assn., 543 U.S. 977 (2004) (No. 03-1165)"
+      },
+      {
+        "identifier": "micro_IA40385004_0589",
+        "title": "D. I. Z. Livestock Co. v. United States, 429 U.S. 1023 (1976) (No. 76-361)"
+      },
+      {
+        "identifier": "micro_IA40385018_0568",
+        "title": "Johanns v. United States, 474 U.S. 850 (1985) (No. 85-238)"
+      },
+      {
+        "identifier": "micro_IA40386414_0123",
+        "title": "Butz v. Glover Livestock Commission Co., 411 U.S. 182 (1973) (No. 71-1545)"
+      },
+      {
+        "identifier": "micro_IA40386416_0158",
+        "title": "Paradise Land & Livestock Co. v. Federal Land Bank of Berkeley, 326 U.S. 717 (1945) (No. 84)"
+      },
+      {
+        "identifier": "micro_IA40386007_0252",
+        "title": "United States v. Am. Livestock Co., 279 U.S. 435 (1929) (No. 513)"
+      },
+      {
+        "identifier": "micro_IA43086415_0427",
+        "title": "McLaughlin Land & Livestock Co. v. Bank of America National Trust & Savings Ass'n, 313 U.S. 571 (1941) (No. 866)"
+      },
+      {
+        "identifier": "micro_IA43086415_0853",
+        "title": "McLaughlin Land & Livestock Co. v. Bank of America National Trust & Savings Ass'n, 314 U.S. 700 (1942) (No. 777)"
+      },
+      {
+        "identifier": "micro_IA40386009_1305",
+        "title": "Benjamin v. Johanns (No. 07-179)"
+      },
+      {
+        "identifier": "micro_IA40386016_0717",
+        "title": "Pigford v. Johanns (No. 05-895)"
+      },
+      {
+        "identifier": "micro_IA40386020_0782",
+        "title": "Fin-Ag, Inc. v. Pipestone Livestock Auction Market, Inc. (No. 08-576)"
+      },
+      {
+        "identifier": "micro_IA40386007_0742",
+        "title": "Fullenkamp v. Johanns, 546 U.S. 812 (2005) (No. 04-1361)"
+      },
+      {
+        "identifier": "micro_IA34086415_1335",
+        "title": "Miller Land & Livestock Co. v. Bogart, 317 U.S. 690 (1942) (No. 524)"
+      },
+      {
+        "identifier": "micro_IA40386007_0871",
+        "title": "Horn Farms, Inc. v. Johanns (No. 04-1502)"
+      },
+      {
+        "identifier": "micro_IA40385016_0156",
+        "title": "Johanns v. Livestock Marketing Assn., 544 U.S. 550 (2005) (No. 03-1164)"
+      },
+      {
+        "identifier": "micro_IA40386008_1140",
+        "title": "Joyce Livestock Co. v. United States (No. 07-2)"
+      },
+      {
+        "identifier": "micro_IA40386417_0880",
+        "title": "Aleutian Livestock Co. v. United States, 342 U.S. 875 (1951) (No. 315)"
+      },
+      {
+        "identifier": "micro_IA40385014_0740",
+        "title": "Johanns v. Livestock Marketing Assn., 544 U.S. 550 (2005) (No. 03-1164)"
+      },
+      {
+        "identifier": "micro_IA40386016_0223",
+        "title": "Scott v. Johanns, 546 U.S. 1089 (2006) (No. 05-356)"
+      }
+    ]
+  }
+}
