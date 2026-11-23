@@ -1,0 +1,179 @@
+Source: https://www.law.cornell.edu/supct/html/03-409.ZS.html
+
+KP PERMANENT MAKE-UP, INC. V. LASTINGIMPRESSION I, INC.
+
+LII
+
+Supreme Court
+
+KP PERMANENT MAKE-UP, INC. V. LASTINGIMPRESSION I, INC. (03-409) 
+328 F.3d 1061, vacated and remanded.
+Syllabus
+ Opinion
+ [ Souter ]
+
+HTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be
+released, as is being done in connection with this case, at the
+time the opinion is issued.
+The syllabus constitutes no part
+of the opinion of the Court but has been prepared by the
+Reporter of Decisions for the convenience of the reader.
+See
+United States v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+KP PERMANENT MAKE-UP, INC. v. LASTING
+
+IMPRESSION I, INC., et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE NINTH CIRCUIT
+
+No. 03—409.Argued October 5,
+2004–Decided December 8, 2004
+
+Petitioner KP Permanent Make-Up, Inc., and
+respondents (collectively Lasting) all use the term “micro
+color” (as one word or two, singular or plural) in
+marketing permanent cosmetic makeup. The Court accepts
+KP’s claim that it has used the single-word version since
+1990 or 1991. In 1992, Lasting registered a trademark that
+included the words “Micro Colors” under 15 U.S.C. §
+1051 and, in 1999, the registration became incontestable,
+§1065. When Lasting demanded that KP stop using the word
+“microcolor,” KP sued for declaratory relief. 
+Lasting counterclaimed, alleging, inter alia, that KP
+had infringed Lasting’s trademark. KP responded by
+asserting the statutory affirmative defense of fair use,
+§1115(b)(4). Finding that Lasting conceded that KP used
+“microcolor” only to describe its goods and not as a
+mark, the District Court held that KP was acting fairly and in
+good faith because KP undisputedly had employed the term
+continuously from before Lasting adopted its mark. Without
+enquiring whether the practice was likely to cause consumer
+confusion, the court concluded that KP had made out its
+affirmative defense under §1115(b)(4) and entered summary
+judgment for KP on Lasting’s infringement claim. 
+Reversing, the Ninth Circuit ruled that the District Court
+erred in addressing the fair use defense without delving into
+the matter of possible consumer confusion about the origin of
+KP’s goods. The court did not pointedly address the
+burden of proof, but appears to have placed it on KP to show
+the absence of such confusion. 
+
+Held: A party raising the
+statutory affirmative defense of fair use to a claim of
+trademark infringement does not have a burden to negate any
+likelihood that the practice complained of will confuse
+consumers about the origin of the goods or services affected. 
+Pp. 4—12.
+
+ (a) Although
+§1115(b) makes an incontestable registration
+“conclusive evidence … of the registrant’s
+exclusive right to use the … mark,” it also subjects
+a plaintiff’s success to “proof of infringement as
+defined in section 1114.” Section §1114(1) in turn
+requires a showing that the defendant’s actual practice is
+“likely to cause confusion, or to cause mistake, or to
+deceive” consumers about the origin of the goods or
+services in question, see, e.g., Two Pesos, Inc.
+v. Taco Cabana, Inc., 505 U.S. 763, 780. 
+Thus, a plaintiff claiming infringement of an incontestable
+mark must show likelihood of consumer confusion as part of the
+prima facie case. This plaintiff’s burden must be kept in
+mind when reading §1115(b)(4), which provides the fair use
+defense to a party whose “use of the … term …
+charged to be an infringement is a use, otherwise than as a
+mark, … of a term … which is descriptive of and used
+fairly and in good faith only to describe the goods or
+services.” It is evident (1) that §1115(b) places a
+burden of proving likelihood of confusion (that is,
+infringement) on the party charging infringement even when
+relying on an incontestable registration, and (2) that Congress
+said nothing about likelihood of confusion in setting out the
+elements of the fair use defense in §1115(b)(4). It
+therefore takes a long stretch to claim that a fair use defense
+entails any burden to negate confusion. It is not plausible
+that Congress would have used §1114’s phrase
+“likely to cause confusion, or to cause mistake, or to
+deceive” to describe the requirement that a markholder
+show likelihood of consumer confusion, but would have relied on
+§1115(b)(4)’s phrase “used fairly” to give
+a defendant the burden to negate confusion. See, e.g.,
+Russello v. United States, 464 U.S. 16, 23. 
+Congress’s failure to say anything about a
+defendant’s burden on this point was almost certainly not
+an oversight, since the House Trademarks Subcommittee refused
+to forward a proposal expressly providing likelihood to deceive
+the public as an element of the fair use defense. Lasting
+argues unpersuasively that “used fairly” in
+§1115(b)(4) is an oblique incorporation of a
+likelihood-of-confusion test developed in the common law of
+unfair competition. While cases such as Baglin v.
+Cusenier Co., 221 U.S. 580, are
+consistent with taking account of the likelihood of consumer
+confusion as one consideration in deciding whether a use is
+fair, they cannot be read to make an assessment of confusion
+alone dispositive or provide that the defense has a burden to
+negate it entirely. Finally, a look at the typical course of
+litigation in an infringement action points up the incoherence
+of placing a burden to show nonconfusion on a defendant. If a
+plaintiff succeeds in making out a prima facie case, including
+the element of likelihood of confusion, the defendant may offer
+rebutting evidence to undercut the force of the
+plaintiff’s evidence on this element, or raise an
+affirmative defense to bar relief even if the prima facie case
+is sound, or do both. It would make no sense to give the
+defendant a defense of showing affirmatively that the plaintiff
+cannot succeed in proving some element (like confusion); all
+the defendant needs to do is to leave the factfinder
+unpersuaded that the plaintiff has carried its own burden on
+that point. Nor would it make sense to provide an affirmative
+defense of no confusion plus good faith, when merely rebutting
+the plaintiff’s case on confusion would entitle the
+defendant to judgment, good faith or not. 
+Pp. 4—9.
+
+ (b) Since
+the burden of proving likelihood of confusion rests with the
+plaintiff, and the fair use defendant has no free-standing need
+to show confusion unlikely, the Court recognizes (contrary to
+the Ninth Circuit’s view) that some possibility of
+consumer confusion is compatible with fair use. It would be
+improvident to go further here, for deciding anything more
+would take the Court beyond the Ninth Circuit’s
+consideration of the subject. Because the Court does not rule
+out the pertinence of the degree of consumer confusion under
+the fair use defense, it does not pass upon the
+Government’s position that §1115(b)(4)’s
+“used fairly” requirement demands only that the
+descriptive term describe the goods accurately. Accuracy has
+to be a consideration in assessing fair use, but the
+proceedings below have raised no occasion to evaluate other
+concerns that courts might pick as relevant–e.g.,
+commercial justification and the strength of the
+plaintiff’s mark–as to which the door is not closed. 
+Pp. 9—11.
+
+ (c) This
+Court reads the Ninth Circuit as erroneously requiring KP to
+shoulder a burden on the confusion issue. P. 11. 
+
+328 F.3d 1061, vacated and remanded.
+
+ Souter, J., delivered
+the opinion of the Court, in which Rehnquist, C. J., and
+Stevens, O’Connor, Kennedy, Thomas, and Ginsburg, JJ.,
+joined, in which Scalia, J., joined as to all but footnotes 4
+and 5, and in which Breyer, J., joined as to all but footnote
+6.

@@ -1,0 +1,184 @@
+Source: https://www.law.cornell.edu/supct/html/03-377.ZS.html
+
+KOONS BUICK PONTIAC GMC, INC. V. NIGH
+
+LII
+
+Supreme Court
+
+KOONS BUICK PONTIAC GMC, INC. V. NIGH (03-377) 
+319 F.3d 119, reversed and remanded.
+Syllabus
+ Opinion
+ [ Ginsburg ]Concurrence
+ [ Stevens ]Concurrence
+ [ Kennedy ]Concurrence
+ [ Thomas ]Dissent
+ [ Scalia ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be
+released, as is being done in connection with this case, at the
+time the opinion is issued.
+The syllabus constitutes no part
+of the opinion of the Court but has been prepared by the
+Reporter of Decisions for the convenience of the reader.
+See
+United States v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+KOONS BUICK PONTIAC GMC, INC. v.
+NIGH
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE FOURTH CIRCUIT
+
+No. 03—377.Argued October 5,
+2004–Decided November 30, 2004
+
+As enacted in 1968, the Truth in Lending
+Act’s (TILA) civil-liability provision, 15 U.S.C. §
+1640 authorized statutory damages for violations of TILA
+prescriptions governing consumer loans as
+follows: “(a) [A]ny creditor who fails in connection
+with any consumer credit transaction to disclose to any person
+any information required … is liable to that person in an
+amount … of … (1) twice the amount of the finance
+charge in connection with the transaction, except that
+liability under this paragraph shall not be less than $100 nor
+greater than $1,000.” In 1974, Congress added a new
+paragraph (1) to §1640(a) to allow for the recovery of
+actual damages and to provide separate statutory damages for
+class actions. Congress simultaneously amended the original
+statutory damages provision to limit it to individual actions,
+moved that provision from §1640(a)(1) to
+§1640(a)(2)(A), and retained the $100/$1,000 minimum and
+maximum recoveries. Congress accounted for the statute’s
+restructuring by changing the phrase “under this
+paragraph” to “under this subparagraph.” A 1976
+amendment redesignated §1640(a)(2)(A)’s statutory
+damages provision as §1640(a)(2)(A)(i), inserted a new
+clause (ii) setting statutory damages for individual actions
+relating to consumer leases, and retained the $100/$1,000
+brackets on recovery. Following the latter amendment, the
+lower federal courts consistently held that the $100/$1,000
+brackets remained applicable to all consumer financing
+transactions, whether lease or loan. Finally, in 1995,
+Congress added a new clause (iii) at the end of
+§1640(a)(2)(A), so that the statute now authorizes
+statutory damages equal to “(i) in the case of an
+individual action twice the amount of any finance charge in
+connection with the transaction, (ii) in the case of an
+individual action relating to a consumer lease … 25 per
+centum of the total amount of monthly payments under the lease,
+except that the liability under this subparagraph shall not be
+less than $100 nor greater than $1,000, or (iii) in the case of
+an individual action relating to a credit transaction not under
+an open end credit plan that is secured by real property or a
+dwelling, not less than $200 or greater than $2,000.”
+
+ Respondent Nigh
+attempted to purchase a used truck from petitioner Koons Buick
+Pontiac GMC. Unable to find a lender to complete the
+financing, Koons Buick twice revised the retail installment
+sales contract presented to Nigh. After signing the third
+contract, Nigh discovered that the second contract had
+contained an improperly documented charge for a car alarm that
+Nigh never requested, agreed to accept, or received. Nigh made
+no payments on the truck and returned it to Koons Buick. He
+then filed suit against Koons Buick alleging, among other
+things, a TILA violation and seeking uncapped recovery of twice
+the finance charge, $24,192.80, under clause (i) of
+§1640(a)(2)(A). The District Court held that damages were
+not capped at $1,000, and the jury awarded Nigh the full
+uncapped amount. In affirming, the Fourth Circuit held that
+the 1995 amendment not only raised the statutory damages
+recoverable for TILA violations involving real-property-secured
+closed-end loans, it also removed the $1,000 cap on recoveries
+involving loans secured by personal property. The Court of
+Appeals held that its previous view that the $1,000 cap applied
+to both clauses (i) and (ii) of §1640(a)(2)(A) was
+rendered defunct when Congress struck the “or”
+preceding clause (ii) and inserted clause (iii) after the
+“under this subparagraph” phrase. According to the
+court, the inclusion of the new $200/$2,000 brackets in clause
+(iii) shows that the clause (ii) $100/$1,000 brackets can no
+longer be interpreted to apply to all of subparagraph (A), but
+must now apply solely to clause (ii), so as not to render
+meaningless the new minimum and maximum recoveries articulated
+in clause (iii). The court therefore allowed Nigh to recover
+the full uncapped amount of $24,192.80.
+
+Held: The 1995 amendment left
+unaltered the $100/$1,000 limits prescribed from the start for
+TILA violations involving personal-property loans. Both the
+conventional meaning of “subparagraph” and standard
+interpretive guides point to the same conclusion: The
+$1,000 cap applies to recoveries under clause (i). Congress
+ordinarily adheres to a hierarchical scheme in subdividing
+statutory sections. Under that scheme, the word
+“subparagraph” is used to refer to a subdivision
+preceded by a capital letter and the word “clause” to
+a subdivision preceded by a lower case Roman numeral. Congress
+followed this scheme in drafting TILA. For example,
+§1640(a)(2)(B), which covers statutory damages in TILA
+class actions, states: “[T]he total recovery under this
+subparagraph … shall not be more than the lesser of
+$500,000 or 1 per centum of the net worth of the creditor
+… .” (Emphasis added.) Had Congress meant to
+repeal the longstanding $100/$1,000 limitation on
+§1640(a)(2)(A)(i), thereby confining the $100/$1,000
+limitation solely to clause (ii), Congress likely would have
+stated in clause (ii): “liability under this clause.”
+ The statutory history resolves any ambiguity whether the
+$100/$1,000 brackets apply to recoveries under clause (i). 
+Before 1995, clauses (i) and (ii) set statutory damages for the
+entire realm of TILA-regulated consumer credit transactions. 
+Closed-end mortgages were encompassed by clause (i). The
+addition of clause (iii) makes closed-end mortgages subject to
+a higher floor and ceiling, but clause (iii) contains no other
+measure of damages. Clause (i)’s specification of
+statutory damages of twice the finance charge continues to
+apply to loans secured by real property as it does to loans
+secured by personal property. Clause (iii) removes closed-end
+mortgages from clause (i)’s governance only to the extent
+that clause (iii) prescribes higher brackets. There is scant
+indication that Congress meant to alter the meaning of clause
+(i) when it added clause (iii). Cf. Church of Scientology
+of Cal. v. IRS, 484 U.S. 9, 17—18.
+ The history demonstrates that, by adding clause (iii),
+Congress sought to provide increased recovery when a
+TILA violation occurs in the context of a loan secured by real
+property. It would be passing strange to read the statute to
+cap recovery in connection with a closed-end,
+real-property-secured loan at an amount substantially
+lower than the recovery available when a violation occurs
+in the context of a personal-property-secured loan or an
+open-end, real-property-secured loan. The text does not
+dictate this result; the statutory history suggests otherwise;
+and there is scant indication Congress meant to change the
+well-established meaning of clause (i). 
+Pp. 8—13.
+
+319 F.3d 119, reversed and remanded.
+
+ Ginsburg, J.,
+delivered the opinion of the Court, in which Rehnquist,
+C. J., and Stevens, O’Connor, Kennedy, Souter, and
+Breyer, JJ., joined. Stevens, J., filed a concurring opinion,
+in which Breyer, J., joined. Kennedy, J., filed a concurring
+opinion, in which Rehnquist, C. J., joined. Thomas, J.,
+filed an opinion concurring in the judgment. Scalia, J., filed
+a dissenting opinion.

@@ -1,0 +1,196 @@
+Source: https://www.law.cornell.edu/supct/html/03-931.ZS.html
+
+FLORIDA V. NIXON
+
+LII
+
+Supreme Court
+
+FLORIDA V. NIXON (03-931) 
+857 So. 2d 172, reversed and remanded.
+Syllabus
+ Opinion
+ [ Ginsburg ]
+
+HTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be
+released, as is being done in connection with this case, at the
+time the opinion is issued.
+The syllabus constitutes no part
+of the opinion of the Court but has been prepared by the
+Reporter of Decisions for the convenience of the reader.
+See
+United States v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+FLORIDA v. NIXON
+
+CERTIORARI TO THE SUPREME COURT OF
+FLORIDA
+
+No. 03—931.Argued November 2,
+2004–Decided December 13, 2004
+
+Respondent Nixon was arrested for a brutal
+murder. Questioned by the police, Nixon described in graphic
+detail how he had kidnaped and killed his victim. After
+gathering overwhelming evidence of his guilt, the State
+indicted Nixon for first-degree murder and related crimes. 
+Assistant public defender Corin, assigned to represent Nixon,
+filed a plea of not guilty and deposed all of the State’s
+potential witnesses. Satisfied that Nixon’s guilt was not
+subject to reasonable dispute, Corin commenced plea
+negotiations, but the prosecutors refused to recommend a
+sentence other than death. Faced with the inevitability of
+going to trial on a capital charge, and a strong case for the
+prosecution, Corin concluded that his best course would be to
+concede Nixon’s guilt, thereby preserving credibility for
+penalty phase evidence of Nixon's mental instability, and for
+defense pleas to spare Nixon’s life. Corin several times
+attempted to explain this strategy to Nixon, but Nixon remained
+unresponsive, never verbally approving or protesting the
+proposed strategy. Overall, Nixon gave Corin very little, if
+any, assistance or direction in preparing the case.
+
+ When trial
+began, Nixon engaged in disruptive behavior and absented
+himself from most of the proceedings. In his opening
+statement, Corin acknowledged Nixon’s guilt and urged the
+jury to focus on the penalty phase. During the State’s
+case in chief, Corin objected to the introduction of crime
+scene photographs as unduly prejudicial, cross-examined
+witnesses for clarification, and contested several aspects of
+the jury instructions. In his closing argument, Corin again
+conceded Nixon’s guilt, declaring that he hoped to
+persuade the jury during the penalty phase that Nixon should
+not be sentenced to death. The jury found Nixon guilty on all
+counts. At the penalty phase, Corin argued to the jury that
+Nixon was not “an intact human being” and had
+committed the murder while afflicted with multiple mental
+disabilities. Corin called as witnesses relatives and friends
+who described Nixon’s childhood emotional troubles and his
+erratic behavior preceding the murder. Corin also presented
+expert testimony concerning Nixon’s antisocial
+personality, history of emotional instability and psychiatric
+care, low IQ, and possible brain damage. In his closing
+argument, Corin emphasized Nixon’s youth, the psychiatric
+evidence, and the jury’s discretion to consider any
+mitigating circumstances; urged that, if not sentenced to
+death, Nixon would never be released; maintained that the death
+penalty was not appropriate for a person with Nixon’s
+impairments; and asked the jury to spare Nixon’s life. 
+The jury recommended, and the trial court imposed, the death
+penalty. 
+
+ The Florida
+Supreme Court ultimately reversed, holding that a defense
+attorney’s concession that his client committed murder,
+made without the defendant’s express consent,
+automatically ranks as prejudicial ineffective assistance of
+counsel necessitating a new trial under the standard announced
+in United States v. Cronic, 466 U. S 648. 
+Corin’s concession, according to that court, was the
+functional equivalent of a guilty plea in that it allowed the
+prosecution’s guilt-phase case to proceed essentially
+without opposition. Under Boykin v. Alabama, 395 U.S. 238,
+242—243, consent to a guilty plea cannot be inferred from
+silence; similarly, the Florida court stated, a concession of
+guilt at trial requires a defendant’s affirmative,
+explicit acceptance, without which counsel’s performance
+is presumably inadequate. While acknowledging that Nixon was
+very disruptive and uncooperative at trial and that
+Corin’s strategy may have been in Nixon’s best
+interest, the court nevertheless declared that silent
+acquiescence is not enough: Counsel conceding a
+defendant’s guilt is inevitably ineffective if the
+defendant does not expressly approve counsel’s course.
+
+Held: Counsel’s failure to
+obtain the defendant’s express consent to a strategy of
+conceding guilt in a capital trial does not automatically
+render counsel’s performance deficient. 
+Pp. 10—16.
+
+ (a) The Florida
+Supreme Court erred in requiring Nixon’s affirmative,
+explicit acceptance of Corin’s strategy because it
+mistakenly deemed Corin’s statements to the jury the
+functional equivalent of a guilty plea. Despite Corin’s
+concession of Nixon’s guilt, Nixon retained the rights
+accorded a defendant in a criminal trial. Cf. id., at
+242—243, and n. 4. The State was obliged to present
+during the guilt phase competent, admissible evidence
+establishing the essential elements of the crimes with which
+Nixon was charged. That aggressive evidence would thus be
+separated from the penalty phase, enabling the defense to
+concentrate that portion of the trial on mitigating factors. 
+Further, the defense reserved the right to cross-examine
+witnesses for the prosecution and could endeavor, as Corin did,
+to exclude prejudicial evidence. Futhermore, in the event of
+errors in the trial or jury instructions, a concession of guilt
+would not hinder the defendant’s right to appeal. Corin
+was obliged to, and in fact several times did, explain his
+proposed trial strategy to Nixon. Nixon’s characteristic
+silence each time information was conveyed to him did not
+suffice to render unreasonable Corin’s decision to concede
+guilt and to home in, instead, on the life or death penalty
+issue. Pp. 10—12.
+
+ (b) Counsel’s effectiveness
+should not be evaluated under the Cronic standard, but
+under the standard prescribed in Strickland v.
+Washington, 466
+U.S. 668, 688: Did counsel’s representation
+“f[a]ll below an objective standard of
+reasonableness?” The Florida Supreme Court’s
+erroneous equation of Corin’s concession strategy to a
+guilty plea led it to apply the wrong standard. The court
+first presumed deficient performance, then applied the
+presumption of prejudice that Cronic reserved for
+situations in which counsel has entirely failed to function as
+the client’s advocate, 466 U.S., at 659. Corin’s
+concession of Nixon’s guilt does not rank as such a
+failure. Id., at 666. Although a concession of
+guilt in a run-of-the-mine trial might present a closer
+question, the gravity of the potential sentence in a capital
+trial and the proceeding’s two-phase structure vitally
+affect counsel’s strategic calculus. Attorneys
+representing capital defendants face daunting challenges in
+developing trial strategies: Prosecutors are more likely
+to seek the death penalty, and to refuse to accept a plea to a
+life sentence, when the evidence is overwhelming and the crime
+heinous. Counsel therefore may reasonably decide to focus on
+the trial’s penalty phase, at which time counsel’s
+mission is to persuade the trier that his client’s life
+should be spared. Defense counsel must strive at the guilt
+phase to avoid a counterproductive course. Mounting a
+“defendant did not commit the crime” defense risks
+destroying counsel’s penalty phase credibility and may
+incline the jury against leniency for the defendant. In a
+capital case, counsel must consider in conjunction both the
+guilt and penalty phases in determining how best to proceed. 
+When counsel informs the defendant of the strategy counsel
+believes to be in the defendant’s best interest and the
+defendant is unresponsive, counsel’s strategic choice is
+not impeded by any blanket rule demanding the defendant’s
+explicit consent. Instead, if counsel’s strategy, given
+the evidence bearing on the defendant’s guilt, satisfies
+the Strickland standard, that is the end of the matter;
+no tenable claim of ineffective assistance would remain. 
+Pp. 12—16.
+
+857 So. 2d 172, reversed and
+remanded.
+
+ Ginsburg, J.,
+delivered the opinion of the Court, in which all other Members
+joined, except Rehnquist, C. J., who took no part in the
+decision of the case.

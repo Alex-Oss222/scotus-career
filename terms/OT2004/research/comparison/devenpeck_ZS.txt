@@ -1,0 +1,98 @@
+Source: https://www.law.cornell.edu/supct/html/03-710.ZS.html
+
+DEVENPECK V. ALFORD
+
+LII
+
+Supreme Court
+
+DEVENPECK V. ALFORD (03-710) 
+333 F.3d 972, reversed and remanded.
+Syllabus
+ Opinion
+ [ Scalia ]
+
+HTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be
+released, as is being done in connection with this case, at the
+time the opinion is issued.
+The syllabus constitutes no part
+of the opinion of the Court but has been prepared by the
+Reporter of Decisions for the convenience of the reader.
+See
+United States v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+DEVENPECK et al. v. ALFORD
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE NINTH CIRCUIT
+
+No. 03—710.Argued November 8,
+2004–Decided December 13, 2004
+
+Believing that respondent was impersonating a
+police officer, petitioner Haner, a Washington State Patrol
+officer, pursued and pulled over respondent’s vehicle. 
+While questioning respondent at the scene, petitioner
+Devenpeck, Haner’s supervisor, discovered that respondent
+was taping their conversation and arrested him for violating
+the State’s Privacy Act. The state trial court
+subsequently dismissed the charge. Respondent then filed this
+suit in federal court, claiming, among other things, that his
+arrest violated the Fourth and Fourteenth
+Amendments. The District Court denied petitioners
+qualified immunity, and the case went to trial. The jury was
+instructed, inter alia, that respondent had to establish
+lack of probable cause to arrest, and that taping police at a
+traffic stop was not a crime in Washington. The jury found for
+petitioners. The Ninth Circuit reversed, based in part on its
+conclusion that petitioners could not have had probable cause
+to arrest. It rejected petitioners’ claim that there was
+probable cause to arrest for impersonating and for obstructing
+a law enforcement officer, because those offenses were not
+“closely related” to the offense invoked by Devenpeck
+at the time of arrest.
+
+Held: 
+
+ 1. A warrantless
+arrest by a law officer is reasonable under the Fourth Amendment
+if, given the facts known to the officer, there is probable
+cause to believe that a crime has been or is being committed. 
+The Ninth Circuit’s additional limitation–that the
+offense establishing probable cause must be “closely
+related” to, and based on the same conduct as, the offense
+the arresting officer identifies at the time of arrest–is
+inconsistent with this Court’s precedent, which holds that
+an arresting officer’s state of mind (except for facts
+that he knows) is irrelevant to probable cause, see
+Whren v. United States, 517 U.S. 806,
+812—815. The “closely related offense” rule is
+also condemned by its perverse consequences: it will not
+eliminate sham arrests but will cause officers to cease
+providing reasons for arrest, or to cite every class of offense
+for which probable cause could conceivably exist. 
+Pp. 5—9.
+
+ 2. This
+Court will not decide in the first instance whether petitioners
+lacked probable cause to arrest respondent for either
+obstructing or impersonating an officer because the Ninth
+Circuit, having found those offenses legally irrelevant, did
+not decide that question. Pp. 9—10.
+
+333 F.3d 972, reversed and remanded.
+
+ Scalia, J., delivered
+the opinion of the Court, in which all other Members joined,
+except Rehnquist, C. J., who took no part in the decision
+of the case.

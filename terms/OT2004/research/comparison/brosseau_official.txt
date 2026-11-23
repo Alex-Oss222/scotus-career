@@ -1,0 +1,727 @@
+Source: https://www.govinfo.gov/content/pkg/USREPORTS-543/pdf/USREPORTS-543-194.pdf
+
+194
+OCTOBER TERM, 2004
+Per Curiam
+BROSSEAU v. HAUGEN
+on petition for writ of certiorari to the united
+states court of appeals for the ninth circuit
+No. 03–1261.
+Decided December 13, 2004
+Respondent Haugen ﬁled suit pursuant to 42 U. S. C. §1983, alleging that
+petitioner Brosseau, a police ofﬁcer, violated his Fourth Amendment
+right to be free from excessive force when she shot him in the back as
+he ﬂed in his vehicle.
+The Federal District Court granted Brosseau
+summary judgment, ﬁnding her entitled to qualiﬁed immunity.
+In re-
+versing, the Ninth Circuit found that Brosseau had violated Haugen’s
+Fourth Amendment right and that, because that right was clearly estab-
+lished, Brosseau was not entitled to qualiﬁed immunity.
+Held: The Ninth Circuit wrongly decided the qualiﬁed immunity issue.
+Qualiﬁed immunity shields an ofﬁcer from suit when she makes a deci-
+sion that, even if constitutionally deﬁcient, reasonably misapprehends
+the law governing the circumstances she confronted.
+Saucier v. Katz,
+533 U. S. 194, 206.
+The focus is on whether the ofﬁcer had fair notice
+that her conduct was unlawful.
+If the law at the time of the conduct
+did not clearly establish that the conduct would violate the Constitution,
+the ofﬁcer should not be subject to liability.
+This inquiry is “under-
+taken in light of the speciﬁc context of the case, not as a broad general
+proposition.”
+Id., at 201.
+This case is far from the obvious one where
+the general tests set out in Graham v. Connor, 490 U. S. 386, and Ten-
+nessee v. Garner, 471 U. S. 1, can “clearly establish” the answer, even
+without a body of relevant case law.
+The handful of cases relevant to
+Brosseau’s situation show that this is an area in which the result de-
+pends very much on the facts of each case; suggest that Brosseau’s ac-
+tions fell in the “ ‘hazy border between excessive and acceptable force,’ ”
+Saucier v. Katz, 533 U. S., at 206; and by no means “ ‘ “clearly estab-
+lis[h]” ’ ” that her conduct violated the Fourth Amendment, id., at 202.
+Certiorari granted; 339 F. 3d 857, reversed and remanded.
+Per Curiam.
+Ofﬁcer Rochelle Brosseau, a member of the Puyallup,
+Washington, Police Department, shot Kenneth Haugen in the
+back as he attempted to ﬂee from law enforcement authori-
+ties in his vehicle.
+Haugen subsequently ﬁled this action in
+the United States District Court for the Western District of
+
+
+195
+Cite as: 543 U. S. 194 (2004)
+Per Curiam
+Washington pursuant to Rev. Stat. §1979, 42 U. S. C. §1983.
+He alleged that the shot ﬁred by Brosseau constituted exces-
+sive force and violated his federal constitutional rights.1
+The District Court granted summary judgment to Brosseau
+after ﬁnding she was entitled to qualiﬁed immunity.
+The
+Court of Appeals for the Ninth Circuit reversed.
+339 F. 3d
+857 (2003).
+Following the two-step process set out in Sau-
+cier v. Katz, 533 U. S. 194 (2001), the Court of Appeals found,
+ﬁrst, that Brosseau had violated Haugen’s Fourth Amend-
+ment right to be free from excessive force and, second, that
+the right violated was clearly established and thus Brosseau
+was not entitled to qualiﬁed immunity.
+Brosseau then peti-
+tioned for writ of certiorari, requesting that we review both
+of the Court of Appeals’ determinations.
+We grant the peti-
+tion on the second, qualiﬁed immunity question and reverse.
+The material facts, construed in a light most favorable to
+Haugen, are as follows.2
+On the day before the fracas, Glen
+Tamburello went to the police station and reported to Bros-
+seau that Haugen, a former crime partner of his, had stolen
+tools from his shop.
+Brosseau later learned that there was
+a felony no-bail warrant out for Haugen’s arrest on drug and
+other offenses.
+The next morning, Haugen was spray paint-
+ing his Jeep Cherokee in his mother’s driveway.
+Tambur-
+ello learned of Haugen’s whereabouts, and he and cohort
+Matt Atwood drove a pickup truck to Haugen’s mother’s
+house to pay Haugen a visit.
+A ﬁght ensued, which was
+witnessed by a neighbor who called 911.
+Brosseau heard a report that the men were ﬁghting in
+Haugen’s mother’s yard and responded.
+When she arrived,
+Tamburello and Atwood were attempting to get Haugen into
+1 Haugen also asserted pendent state-law claims and claims against the
+city and police department.
+These claims are not presently before us.
+2 Because this case arises in the posture of a motion for summary judg-
+ment, we are required to view all facts and draw all reasonable inferences
+in favor of the nonmoving party, Haugen.
+See Saucier v. Katz, 533 U. S.
+194, 201 (2001).
+
+
+196
+BROSSEAU v. HAUGEN
+Per Curiam
+Tamburello’s pickup.
+Brosseau’s arrival created a distrac-
+tion, which provided Haugen the opportunity to get away.
+Haugen ran through his mother’s yard and hid in the neigh-
+borhood.
+Brosseau requested assistance, and, shortly there-
+after, two ofﬁcers arrived with a K–9 to help track Haugen
+down.
+During the search, which lasted about 30 to 45 min-
+utes, ofﬁcers instructed Tamburello and Atwood to remain
+in Tamburello’s pickup.
+They instructed Deanna Nocera,
+Haugen’s girlfriend who was also present with her 3-year-old
+daughter, to remain in her small car with her daughter.
+Tamburello’s pickup was parked in the street in front of the
+driveway; Nocera’s small car was parked in the driveway in
+front of and facing the Jeep; and the Jeep was in the drive-
+way facing Nocera’s car and angled somewhat to the left.
+The Jeep was parked about 4 feet away from Nocera’s car
+and 20 to 30 feet away from Tamburello’s pickup.
+An ofﬁcer radioed from down the street that a neighbor
+had seen a man in her backyard.
+Brosseau ran in that direc-
+tion, and Haugen appeared.
+He ran past the front of his
+mother’s house and then turned and ran into the driveway.
+With Brosseau still in pursuit, he jumped into the driver’s
+side of the Jeep and closed and locked the door.
+Brosseau
+believed that he was running to the Jeep to retrieve a
+weapon.
+Brosseau arrived at the Jeep, pointed her gun at Haugen,
+and ordered him to get out of the vehicle.
+Haugen ignored
+her command and continued to look for the keys so he could
+get the Jeep started.
+Brosseau repeated her commands and
+hit the driver’s side window several times with her handgun,
+which failed to deter Haugen.
+On the third or fourth try,
+the window shattered.
+Brosseau unsuccessfully attempted
+to grab the keys and struck Haugen on the head with the
+barrel and butt of her gun.
+Haugen, still undeterred, suc-
+ceeded in starting the Jeep.
+As the Jeep started or shortly
+after it began to move, Brosseau jumped back and to the left.
+She ﬁred one shot through the rear driver’s side window
+
+
+197
+Cite as: 543 U. S. 194 (2004)
+Per Curiam
+at a forward angle, hitting Haugen in the back.
+She later
+explained that she shot Haugen because she was “ ‘fearful
+for the other ofﬁcers on foot who [she] believed were in the
+immediate area, [and] for the occupied vehicles in [Haugen’s]
+path and for any other citizens who might be in the area.’ ”
+339 F. 3d, at 865.
+Despite being hit, Haugen, in his words, “ ‘st[ood] on the
+gas’ ”; navigated the “ ‘small, tight space’ ” to avoid the other
+vehicles; swerved across the neighbor’s lawn; and continued
+down the street.
+Id., at 882.
+After about a half block,
+Haugen realized that he had been shot and brought the Jeep
+to a halt.
+He suffered a collapsed lung and was airlifted
+to a hospital.
+He survived the shooting and subsequently
+pleaded guilty to the felony of “eluding.”
+Wash. Rev. Code
+§46.61.024 (1994).
+By so pleading, he admitted that he
+drove his Jeep in a manner indicating “a wanton or wilful
+disregard for the lives . . . of others.”
+Ibid.
+He subse-
+quently brought this §1983 action against Brosseau.
+*
+*
+*
+When confronted with a claim of qualiﬁed immunity, a
+court must ask ﬁrst the following question: “Taken in the
+light most favorable to the party asserting the injury, do the
+facts alleged show the ofﬁcer’s conduct violated a constitu-
+tional right?”
+Saucier v. Katz, 533 U. S., at 201.
+As the
+Court of Appeals recognized, the constitutional question in
+this case is governed by the principles enunciated in Tennes-
+see v. Garner, 471 U. S. 1 (1985), and Graham v. Connor,
+490 U. S. 386 (1989).
+These cases establish that claims of
+excessive force are to be judged under the Fourth Amend-
+ment’s “ ‘objective reasonableness’ ” standard.
+Id., at 388.
+Speciﬁcally with regard to deadly force, we explained in Gar-
+ner that it is unreasonable for an ofﬁcer to “seize an un-
+armed, nondangerous suspect by shooting him dead.”
+471
+U. S., at 11.
+But “[w]here the ofﬁcer has probable cause to
+believe that the suspect poses a threat of serious physical
+
+
+198
+BROSSEAU v. HAUGEN
+Per Curiam
+harm, either to the ofﬁcer or to others, it is not constitution-
+ally unreasonable to prevent escape by using deadly force.”
+Ibid.
+We express no view as to the correctness of the Court of
+Appeals’ decision on the constitutional question itself.
+We
+believe that, however that question is decided, the Court of
+Appeals was wrong on the issue of qualiﬁed immunity.3
+Qualiﬁed immunity shields an ofﬁcer from suit when she
+makes a decision that, even if constitutionally deﬁcient, rea-
+sonably misapprehends the law governing the circumstances
+she confronted.
+Saucier v. Katz, 533 U. S., at 206 (qualiﬁed
+immunity operates “to protect ofﬁcers from the sometimes
+‘hazy border between excessive and acceptable force’ ”).
+Because the focus is on whether the ofﬁcer had fair notice
+that her conduct was unlawful, reasonableness is judged
+against the backdrop of the law at the time of the conduct.
+If the law at that time did not clearly establish that the ofﬁ-
+cer’s conduct would violate the Constitution, the ofﬁcer
+should not be subject to liability or, indeed, even the burdens
+of litigation.
+It is important to emphasize that this inquiry “must be
+undertaken in light of the speciﬁc context of the case, not as
+a broad general proposition.”
+Id., at 201.
+As we previ-
+ously said in this very context:
+“[T]here is no doubt that Graham v. Connor, supra,
+clearly establishes the general proposition that use of
+force is contrary to the Fourth Amendment if it is exces-
+sive under objective standards of reasonableness.
+Yet
+that is not enough.
+Rather, we emphasized in Ander-
+son [v. Creighton] ‘that the right the ofﬁcial is alleged
+to have violated must have been “clearly established” in
+3 We have no occasion in this case to reconsider our instruction in Sau-
+cier v. Katz, supra, that lower courts decide the constitutional question
+prior to deciding the qualiﬁed immunity question.
+We exercise our sum-
+mary reversal procedure here simply to correct a clear misapprehension
+of the qualiﬁed immunity standard.
+
+
+199
+Cite as: 543 U. S. 194 (2004)
+Per Curiam
+a more particularized, and hence more relevant, sense:
+The contours of the right must be sufﬁciently clear that
+a reasonable ofﬁcial would understand that what he is
+doing violates that right.’
+483 U. S. [635,] 640 [(1987)].
+The relevant, dispositive inquiry in determining
+whether a right is clearly established is whether it
+would be clear to a reasonable ofﬁcer that his conduct
+was unlawful in the situation he confronted.”
+Id., at
+201–202.
+The Court of Appeals acknowledged this statement of law,
+but then proceeded to ﬁnd fair warning in the general tests
+set out in Graham and Garner.
+339 F. 3d, at 873–874.
+In
+so doing, it was mistaken.
+Graham and Garner, following
+the lead of the Fourth Amendment’s text, are cast at a high
+level of generality.
+See Graham v. Connor, supra, at 396
+(“ ‘[T]he test of reasonableness under the Fourth Amend-
+ment is not capable of precise deﬁnition or mechanical appli-
+cation’ ”).
+Of course, in an obvious case, these standards can
+“clearly establish” the answer, even without a body of rele-
+vant case law.
+See Hope v. Pelzer, 536 U. S. 730, 738 (2002)
+(noting in a case where the Eighth Amendment violation was
+“obvious” that there need not be a materially similar case
+for the right to be clearly established).
+See also Pace v.
+Capobianco, 283 F. 3d 1275, 1283 (CA11 2002) (explaining in
+a Fourth Amendment case involving an ofﬁcer shooting a
+ﬂeeing suspect in a vehicle that, “when we look at decisions
+such as Garner and Graham, we see some tests to guide us
+in determining the law in many different kinds of circum-
+stances; but we do not see the kind of clear law (clear an-
+swers) that would apply” to the situation at hand).
+The
+present case is far from the obvious one where Graham and
+Garner alone offer a basis for decision.
+We therefore turn to ask whether, at the time of Bros-
+seau’s actions, it was “ ‘ “clearly established” ’ ” in this more
+“ ‘particularized’ ” sense that she was violating Haugen’s
+Fourth Amendment right.
+Saucier v. Katz, 533 U. S., at
+
+
+200
+BROSSEAU v. HAUGEN
+Per Curiam
+202.
+The parties point us to only a handful of cases relevant
+to the “situation [Brosseau] confronted”: whether to shoot a
+disturbed felon, set on avoiding capture through vehicular
+ﬂight, when persons in the immediate area are at risk from
+that ﬂight.4
+Ibid.
+Speciﬁcally, Brosseau points us to Cole
+v. Bone, 993 F. 2d 1328 (CA8 1993), and Smith v. Freland,
+954 F. 2d 343 (CA6 1992).
+In these cases, the courts found no Fourth Amendment
+violation when an ofﬁcer shot a ﬂeeing suspect who pre-
+sented a risk to others.
+Cole v. Bone, supra, at 1333 (hold-
+ing the ofﬁcer “had probable cause to believe that the truck
+posed an imminent threat of serious physical harm to inno-
+cent motorists as well as to the ofﬁcers themselves”); Smith
+v. Freland, 954 F. 2d, at 347 (noting “a car can be a deadly
+weapon” and holding the ofﬁcer’s decision to stop the car
+from possibly injuring others was reasonable).
+Smith is
+closer to this case.
+There, the ofﬁcer and suspect engaged
+in a car chase, which appeared to be at an end when the
+ofﬁcer cornered the suspect at the back of a dead-end resi-
+dential street.
+The suspect, however, freed his car and
+began speeding down the street.
+At this point, the ofﬁcer
+ﬁred a shot, which killed the suspect.
+The court held the
+ofﬁcer’s decision was reasonable and thus did not violate the
+Fourth Amendment.
+It noted that the suspect, like Haugen
+here, “had proven he would do almost anything to avoid cap-
+ture” and that he posed a major threat to, among others, the
+ofﬁcers at the end of the street.
+Ibid.
+4 The parties point us to a number of other cases in this vein that post-
+date the conduct in question, i. e., Brosseau’s February 21, 1999, shooting
+of Haugen.
+See Cowan ex rel. Estate of Cooper v. Breen, 352 F. 3d 756,
+763 (CA2 2003); Pace v. Capobianco, 283 F. 3d 1275, 1281–1282 (CA11
+2002); Scott v. Clay County, 205 F. 3d 867, 877 (CA6 2000); McCaslin v.
+Wilkins, 183 F. 3d 775, 778–779 (CA8 1999); Abraham v. Raso, 183 F. 3d
+279, 288–296 (CA3 1999).
+These decisions, of course, could not have given
+fair notice to Brosseau and are of no use in the clearly established inquiry.
+
+
+201
+Cite as: 543 U. S. 194 (2004)
+Breyer, J., concurring
+Haugen points us to Estate of Starks v. Enyart, 5 F. 3d
+230 (CA7 1993), where the court found summary judgment
+inappropriate on a Fourth Amendment claim involving a
+ﬂeeing suspect.
+There, the court concluded that the threat
+created by the ﬂeeing suspect’s failure to brake when an of-
+ﬁcer suddenly stepped in front of his just-started car was not
+a sufﬁciently grave threat to justify the use of deadly force.
+Id., at 234.
+These three cases taken together undoubtedly show that
+this area is one in which the result depends very much on
+the facts of each case.
+None of them squarely governs the
+case here; they do suggest that Brosseau’s actions fell in the
+“ ‘hazy border between excessive and acceptable force.’ ”
+Saucier v. Katz, supra, at 206.
+The cases by no means
+“clearly establish” that Brosseau’s conduct violated the
+Fourth Amendment.
+The judgment of the United States Court of Appeals for
+the Ninth Circuit is therefore reversed, and the case is re-
+manded for further proceedings consistent with this opinion.
+It is so ordered.
+Justice Breyer, with whom Justice Scalia and Jus-
+tice Ginsburg join, concurring.
+I join the Court’s opinion but write separately to express
+my concern about the matter to which the Court refers in
+footnote 3, namely, the way in which lower courts are re-
+quired to evaluate claims of qualiﬁed immunity under the
+Court’s decision in Saucier v. Katz, 533 U. S. 194, 201 (2001).
+As the Court notes, ante, at 198, n. 3, Saucier requires lower
+courts to decide (1) the constitutional question prior to decid-
+ing (2) the qualiﬁed immunity question.
+I am concerned
+that the current rule rigidly requires courts unnecessarily to
+decide difﬁcult constitutional questions when there is avail-
+able an easier basis for the decision (e. g., qualiﬁed immunity)
+that will satisfactorily resolve the case before the court.
+In-
+deed when courts’ dockets are crowded, a rigid “order of
+
+
+202
+BROSSEAU v. HAUGEN
+Stevens, J., dissenting
+battle” makes little administrative sense and can sometimes
+lead to a constitutional decision that is effectively insulated
+from review, see Bunting v. Mellen, 541 U. S. 1019, 1025
+(2004) (Scalia, J., dissenting from denial of certiorari).
+For
+these reasons, I think we should reconsider this issue.
+Justice Stevens, dissenting.
+In my judgment, the answer to the constitutional question
+presented by this case is clear: Under the Fourth Amend-
+ment, it was objectively unreasonable for Ofﬁcer Brosseau to
+use deadly force against Kenneth Haugen in an attempt to
+prevent his escape.
+What is not clear is whether Brosseau
+is nonetheless entitled to qualiﬁed immunity because it might
+not have been apparent to a reasonably well-trained ofﬁcer
+in Brosseau’s shoes that killing Haugen to prevent his escape
+was unconstitutional.
+In my opinion that question should
+be answered by a jury.
+I
+Law enforcement ofﬁcers should never be subject to dam-
+ages liability for failing to anticipate novel developments in
+constitutional law.
+Accordingly, whenever a suit against an
+ofﬁcer is based on the alleged violation of a constitutional
+right that has not been clearly established, the qualiﬁed im-
+munity defense is available.
+Harlow v. Fitzgerald, 457 U. S.
+800, 818 (1982).
+Prompt dismissal of such actions protects
+ofﬁcers from unnecessary litigation and accords with this
+Court’s wise “policy of avoiding the unnecessary adjudication
+of constitutional questions.”
+County of Sacramento v.
+Lewis, 523 U. S. 833, 859 (1998) (Stevens, J., concurring in
+judgment).
+When, however, the applicable constitutional
+rule is well settled, “we should address the constitutional
+question at the outset.”
+Ibid.; see also Siegert v. Gilley, 500
+U. S. 226 (1991).
+The constitutional limits on the use of
+deadly force have been clearly established for almost two
+decades.
+
+
+203
+Cite as: 543 U. S. 194 (2004)
+Stevens, J., dissenting
+In 1985, we held that the killing of an unarmed burglar to
+prevent his escape was an unconstitutional seizure.
+Tennes-
+see v. Garner, 471 U. S. 1.
+We considered, and rejected, the
+State’s contention that the Fourth Amendment’s prohibition
+against unreasonable seizures should be construed in light of
+the common-law rule, which allowed the use of whatever
+force was necessary to effectuate the arrest of a ﬂeeing felon.
+Id., at 12–13.
+We recognized that the common-law rule had
+been fashioned “when virtually all felonies were punishable
+by death” and long before guns were available to the police,
+and noted that modern police departments in a majority of
+large cities allowed the ﬁring of a weapon only when a felon
+presented a threat of death or serious bodily harm.
+Id., at
+13–19.
+We concluded that “changes in the legal and techno-
+logical context” had made the old rule obsolete.
+Id., at 15.
+Unlike most “excessive force” cases in which the degree of
+permissible force varies widely from case to case, the only
+issue in a “deadly force” case is whether the facts apparent
+to the ofﬁcer justify a decision to kill a suspect in order to
+prevent his escape.
+In Garner we stated the governing rule:
+“The use of deadly force to prevent the escape of all
+felony suspects, whatever the circumstances, is constitu-
+tionally unreasonable.
+It is not better that all felony
+suspects die than that they escape.
+Where the suspect
+poses no immediate threat to the ofﬁcer and no threat
+to others, the harm resulting from failing to apprehend
+him does not justify the use of deadly force to do so. . . .
+A police ofﬁcer may not seize an unarmed, nondangerous
+suspect by shooting him dead. . . .
+“Where the ofﬁcer has probable cause to believe that the
+suspect poses a threat of serious physical harm, either
+to the ofﬁcer or to others, it is not constitutionally unrea-
+sonable to prevent escape by using deadly force.
+Thus,
+if the suspect threatens the ofﬁcer with a weapon or
+
+
+204
+BROSSEAU v. HAUGEN
+Stevens, J., dissenting
+there is probable cause to believe that he has committed
+a crime involving the inﬂiction or threatened inﬂiction
+of serious physical harm, deadly force may be used if
+necessary to prevent escape, and if, where feasible, some
+warning has been given.”
+Id., at 11–12.
+The most common justiﬁcations for the use of deadly force
+are plainly inapplicable to this case.
+Respondent Haugen
+had not threatened anyone with a weapon, and petitioner
+Brosseau did not shoot in order to defend herself.1
+Haugen
+was not a person who had committed a violent crime; nor
+was there any reason to believe he would do so if permitted
+to escape.
+Indeed, there is nothing in the record to suggest
+he intended to harm anyone.2
+The “threat of serious physi-
+cal harm, either to the ofﬁcer or to others,” id., at 11, that
+provides the sole justiﬁcation for Brosseau’s use of deadly
+force was the risk that while ﬂeeing in his vehicle Haugen
+would accidentally collide with a pedestrian or another vehi-
+cle.
+Whether Brosseau’s shot enhanced or minimized that
+risk is debatable, but the risk of such an accident surely did
+1 Although Brosseau attested that she believed Haugen may have been
+attempting to retrieve a weapon from the ﬂoorboard of his vehicle some-
+time during the struggle, a fact which Haugen hotly contests, there is no
+evidence in the record to suggest that, at the time the shot was ﬁred,
+Brosseau believed, or any reasonable ofﬁcer would have thought, that
+Haugen had access to a weapon at that moment.
+2 At the time of the shooting, Brosseau had the following facts at her
+disposal.
+Haugen had a felony no-bail warrant for a nonviolent drug of-
+fense, was suspected in a nonviolent burglary, and had been ﬂeeing from
+law enforcement on foot for approximately 30 to 45 minutes without inci-
+dent.
+At the behest of Brosseau, the private individuals on the scene
+were inside their respective vehicles.
+Haugen’s girlfriend and her daugh-
+ter were in a small car approximately four feet in front and slightly to the
+right of Haugen’s Jeep; Glen Tamburello and Matt Atwood were inside a
+pickup truck on the street blocking the driveway, approximately 20 to 30
+feet from Haugen’s Jeep.
+The only two police ofﬁcers on foot at the scene
+were last seen in a neighbor’s backyard, two houses down and to the right
+of the driveway.
+
+
+205
+Cite as: 543 U. S. 194 (2004)
+Stevens, J., dissenting
+not justify an attempt to kill the fugitive.3
+Thus, I have no
+difﬁculty in endorsing the Court’s assumption that Bros-
+seau’s conduct violated the Constitution.
+II
+An ofﬁcer is entitled to qualiﬁed immunity, despite having
+engaged in constitutionally deﬁcient conduct, if, in doing so,
+she did not violate “clearly established statutory or consti-
+tutional rights of which a reasonable person would have
+known.”
+Harlow, 457 U. S., at 818.
+The requirement that
+the law be clearly established is designed to ensure that ofﬁ-
+cers have fair notice of what conduct is proscribed.
+See
+Hope v. Pelzer, 536 U. S. 730, 739 (2002).
+Accordingly, we
+have recognized that “general statements of the law are
+not inherently incapable of giving fair and clear warning,”
+United States v. Lanier, 520 U. S. 259, 271 (1997), and have
+ﬁrmly rejected the notion that “an ofﬁcial action is protected
+by qualiﬁed immunity unless the very action in question has
+previously been held unlawful,” Anderson v. Creighton, 483
+U. S. 635, 640 (1987).
+Thus, the Court’s search for relevant case law applying the
+Garner standard to materially similar facts is both unneces-
+sary and ill advised.
+See Hope, 536 U. S., at 741 (“Although
+earlier cases involving ‘fundamentally similar’ facts can pro-
+vide especially strong support for a conclusion that the law
+is clearly established, they are not necessary to such a ﬁnd-
+ing”); see also Lanier, 520 U. S., at 269.
+Indeed, the cases
+the majority relies on are inapposite and, in fact, only serve
+3 The evidence supporting Haugen’s allegation that Brosseau did “will-
+fully ﬁre her weapon with the intent to murder me,” 1 Record, Doc. No. 1,
+includes a statement by a defense expert that Brosseau had “clearly artic-
+ulated her intention to use deadly force,” id., Doc. No. 24.
+Moreover, the
+report of the Puyallup, Washington, Police Department Firearms Review
+Board stated that Brosseau “chose to use deadly force to stop Haugen.”
+2 id., Doc. No. 27, Exh. H.
+
+
+206
+BROSSEAU v. HAUGEN
+Stevens, J., dissenting
+to illuminate the patent unreasonableness of Brosseau’s
+actions.4
+Rather than uncertainty about the law, it is uncertainty
+about the likely consequences of Haugen’s ﬂight—or, more
+precisely, uncertainty about how a reasonable ofﬁcer making
+the split-second decision to use deadly force would have as-
+sessed the foreseeability of a serious accident—that prevents
+me from answering the question of qualiﬁed immunity that
+this case presents.
+This is a quintessentially “fact-speciﬁc”
+question, not a question that judges should try to answer “as
+a matter of law.”
+Cf. Anderson, 483 U. S., at 641.
+Al-
+though it is preferable to resolve the qualiﬁed immunity
+question at the earliest possible stage of litigation, this pref-
+erence does not give judges license to take inherently factual
+questions away from the jury.
+See Hunter v. Bryant, 502
+U. S. 224, 229 (1991) (per curiam) (Scalia, J., concurring in
+judgment); id., at 233 (Stevens, J., dissenting) (“ ‘Whether
+4 In Cole v. Bone, 993 F. 2d 1328 (CA8 1993), an 18-wheel tractor-trailer
+sped through a tollbooth and engaged the police in a high-speed pursuit in
+excess of 90 miles per hour on a high-trafﬁc interstate during the holiday
+season.
+During the course of the pursuit, the driver passed trafﬁc on both
+shoulders of the interstate, repeatedly attempted to ram several police
+cars, drove more than 100 passenger vehicles off the road, ran through
+several roadblocks, and continued driving after the ofﬁcer shot out the
+wheels of the fugitive’s truck.
+Id., at 1330–1331.
+Only then did the ofﬁ-
+cer ﬁnally resort to deadly force to disable the driver.
+Similarly, in Smith
+v. Freland, 954 F. 2d 343 (CA6 1992), the suspect led a police ofﬁcer on a
+high-speed chase, reaching speeds in excess of 90 miles per hour.
+When
+the ofﬁcer initially cornered the suspect in a ﬁeld, the driver repeatedly
+swerved directly toward the police car, forcing the ofﬁcer to move out of
+the way and allowing the suspect to continue the chase.
+Id., at 344.
+Only after additional ofﬁcers cornered the suspect for a second time, and
+after the suspect smashed directly into an unoccupied police car and began
+to ﬂee again, did the ofﬁcer ﬁnally shoot the driver.
+Ibid.
+In stark contrast, at the time Brosseau shot Haugen, the Jeep was im-
+mobile, or at best, had just started moving.
+Haugen had not driven at
+excess speeds; nor had he rammed, or attempted to ram, nearby police
+cars or passenger vehicles.
+In sum, there was no ongoing or prior high-
+speed car chase to inform the probable-cause analysis.
+
+
+207
+Cite as: 543 U. S. 194 (2004)
+Stevens, J., dissenting
+a reasonable ofﬁcer could have believed he had probable
+cause is a question for the trier of fact, and summary judg-
+ment or a directed verdict in a §1983 action based on [the]
+lack of probable cause is proper only if there is only one rea-
+sonable conclusion a jury could reach’ ” (quoting Bryant v.
+U. S. Treasury Dept., Secret Service, 903 F. 2d 717, 721 (CA9
+1990))).
+The bizarre scenario described in the record of this
+case convinces me that reasonable jurors could well disagree
+about the answer to the qualiﬁed immunity issue.
+My con-
+clusion is strongly reinforced by the differing opinions ex-
+pressed by the Circuit Judges who have reviewed the record.
+III
+The Court’s attempt to justify its decision to reverse the
+Court of Appeals without giving the parties an opportunity
+to provide full brieﬁng and oral argument is woefully un-
+persuasive.
+If Brosseau had deliberately shot Haugen in
+the head and killed him, the legal issues would have been
+the same as those resulting from the nonfatal wound.
+I
+seriously doubt that my colleagues would be so conﬁdent
+about the result as to decide the case without the beneﬁt of
+briefs or argument on such facts.5
+At a minimum, the Ninth
+Circuit’s decision was not clearly erroneous, and the extraor-
+dinary remedy of summary reversal is not warranted on
+these facts.
+See R. Stern, E. Gressman, & S. Shapiro, Su-
+preme Court Practice 281 (6th ed. 1986).
+In sum, the constitutional limits on an ofﬁcer’s use of
+deadly force have been well settled in this Court’s juris-
+prudence for nearly two decades, and, in this case, Ofﬁcer
+Brosseau acted outside of those clearly delineated bounds.
+5 The Court’s recitation of the facts that led up to the shooting obscures
+the undisputed point that no one contends Haugen was the kind of danger-
+ous person—perhaps a terrorist or an escaped convict on a crime spree—
+who would have been a danger to the community if he had been allowed
+to escape.
+The factual issues relate only to the danger that he posed
+while in the act of escaping.
+
+
+208
+BROSSEAU v. HAUGEN
+Stevens, J., dissenting
+Nonetheless, in my judgment, there is a genuine factual
+question as to whether a reasonably well-trained ofﬁcer
+standing in Brosseau’s shoes could have concluded otherwise,
+and that question plainly falls with the purview of the jury.
+For these reasons, I respectfully dissent.

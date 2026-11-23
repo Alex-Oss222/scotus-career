@@ -1,0 +1,410 @@
+Source: https://www.govinfo.gov/content/pkg/USREPORTS-543/pdf/USREPORTS-543-77.pdf
+
+77
+OCTOBER TERM, 2004
+Syllabus
+CITY OF SAN DIEGO et al. v. ROE
+on petition for writ of certiorari to the united
+states court of appeals for the ninth circuit
+No. 03–1669.
+Decided December 6, 2004
+Respondent Roe brought suit alleging, inter alia, that his First and Four-
+teenth Amendment rights to freedom of speech were violated when the
+city of San Diego (City) terminated his employment as a police ofﬁcer,
+for selling police paraphernalia and videotapes of himself engaging
+in sexually explicit acts.
+A Federal District Court granted the City’s
+motion to dismiss, and the Ninth Circuit reversed, holding that Roe’s
+conduct fell within the protected category of citizen commentary on
+matters of public concern.
+Held: The City was not barred from terminating Roe.
+While a govern-
+ment employer may impose restraints on employee speech, the employ-
+ees have the right to speak on matters of public concern, typically those
+concerning government policies of interest to the public at large, see
+Connick v. Myers, 461 U. S. 138; Pickering v. Board of Ed. of Township
+High School Dist. 205, Will Cty., 391 U. S. 563.
+And when they speak
+or write on their own time on a topic unrelated to their employment, the
+speech can have First Amendment protection, absent a governmental
+justiﬁcation “far stronger than mere speculation” for regulating it.
+United States v. Treasury Employees, 513 U. S. 454, 465, 475 (NTEU).
+Roe’s case falls outside the protection afforded by NTEU.
+Although
+his activities took place outside the workplace and purported to be about
+subjects not related to his employment, the City’s police department
+demonstrated that its legitimate and substantial interests were compro-
+mised by his speech, and Roe took deliberate steps to link his videos
+and other wares to his police work.
+Instead, the case is governed by
+Pickering, which established a balancing test to reconcile an employee’s
+right to engage in speech and the government employer’s right to pro-
+tect its legitimate concerns, and Connick, which set out a threshold test
+for determining when Pickering balancing is merited.
+Because Roe’s
+expression does not qualify as a matter of public concern as this Court’s
+cases have understood that term, he fails the threshold test and Picker-
+ing’s balancing test does not come into play.
+Certiorari granted; 356 F. 3d 1108, reversed.
+
+
+78
+SAN DIEGO v. ROE
+Per Curiam
+Per Curiam.
+The city of San Diego (City), a petitioner here, terminated
+a police ofﬁcer, respondent, for selling videotapes he made
+and for related activity.
+The tapes showed respondent en-
+gaging in sexually explicit acts.
+Respondent brought suit
+alleging, among other things, that the termination violated
+his First and Fourteenth Amendment rights to freedom of
+speech.
+The United States District Court for the Southern
+District of California granted the City’s motion to dismiss.
+The Court of Appeals for the Ninth Circuit reversed.
+The petition for a writ of certiorari is granted, and the
+judgment of the Court of Appeals is reversed.
+I
+Respondent John Roe, a San Diego police ofﬁcer, made a
+video showing himself stripping off a police uniform and
+masturbating.
+He sold the video on the adults-only section
+of eBay, the popular online auction site.
+His username was
+“Code3stud@aol.com,” a wordplay on a high priority police
+radio call.
+356 F. 3d 1108, 1110 (CA9 2004).
+The uniform
+apparently was not the speciﬁc uniform worn by the San
+Diego police, but it was clearly identiﬁable as a police uni-
+form.
+Roe also sold custom videos, as well as police equip-
+ment, including ofﬁcial uniforms of the San Diego Police
+Department (SDPD), and various other items such as men’s
+underwear.
+Roe’s eBay user proﬁle identiﬁed him as em-
+ployed in the ﬁeld of law enforcement.
+Roe’s supervisor, a police sergeant, discovered Roe’s activ-
+ities when, while on eBay, he came across an ofﬁcial SDPD
+police uniform for sale offered by an individual with the user-
+name “Code3stud@aol.com.”
+He searched for other items
+Code3stud offered and discovered listings for Roe’s videos
+depicting the objectionable material.
+Recognizing Roe’s
+picture, the sergeant printed images of certain of Roe’s offer-
+ings and shared them with others in Roe’s chain of command,
+including a police captain.
+The captain notiﬁed the SDPD’s
+
+
+79
+Cite as: 543 U. S. 77 (2004)
+Per Curiam
+internal affairs department, which began an investigation.
+In response to a request by an undercover ofﬁcer, Roe
+produced a custom video.
+It showed Roe, again in police
+uniform, issuing a trafﬁc citation but revoking it after undo-
+ing the uniform and masturbating.
+The investigation revealed that Roe’s conduct violated spe-
+ciﬁc SDPD policies, including conduct unbecoming of an
+ofﬁcer, outside employment, and immoral conduct.
+When
+confronted, Roe admitted to selling the videos and police
+paraphernalia.
+The SDPD ordered Roe to “cease display-
+ing, manufacturing, distributing or selling any sexually ex-
+plicit materials or engaging in any similar behaviors, via the
+internet, U. S. Mail, commercial vendors or distributors, or
+any other medium available to the public.”
+Id., at 1111 (in-
+ternal quotation marks omitted).
+Although Roe removed
+some of the items he had offered for sale, he did not change
+his seller’s proﬁle, which described the ﬁrst two videos he
+had produced and listed their prices as well as the prices for
+custom videos.
+After discovering Roe’s failure to follow its
+orders, the SDPD—citing Roe for the added violation of dis-
+obedience of lawful orders—began termination proceedings.
+The proceedings resulted in Roe’s dismissal from the police
+force.
+Roe brought suit in the District Court pursuant to Rev.
+Stat. §1979, 42 U. S. C. §1983, alleging that the employment
+termination violated his First Amendment right to free
+speech.
+In granting the City’s motion to dismiss, the Dis-
+trict Court decided that Roe had not demonstrated that sell-
+ing ofﬁcial police uniforms and producing, marketing, and
+selling sexually explicit videos for proﬁt qualiﬁed as expres-
+sion relating to a matter of “public concern” under this
+Court’s decision in Connick v. Myers, 461 U. S. 138 (1983).
+In reversing, the Court of Appeals held Roe’s conduct fell
+within the protected category of citizen commentary on mat-
+ters of public concern.
+Central to the Court of Appeals’ con-
+clusion was that Roe’s expression was not an internal work-
+
+
+80
+SAN DIEGO v. ROE
+Per Curiam
+place grievance, took place while he was off duty and away
+from his employer’s premises, and was unrelated to his em-
+ployment.
+356 F. 3d, at 1110, 1113–1114.
+II
+A government employee does not relinquish all First
+Amendment rights otherwise enjoyed by citizens just by
+reason of his or her employment.
+See, e. g., Keyishian v.
+Board of Regents of Univ. of State of N. Y., 385 U. S. 589,
+605–606 (1967).
+On the other hand, a governmental em-
+ployer may impose certain restraints on the speech of its
+employees, restraints that would be unconstitutional if ap-
+plied to the general public.
+The Court has recognized the
+right of employees to speak on matters of public concern,
+typically matters concerning government policies that are of
+interest to the public at large, a subject on which public em-
+ployees are uniquely qualiﬁed to comment.
+See Connick,
+supra; Pickering v. Board of Ed. of Township High School
+Dist. 205, Will Cty., 391 U. S. 563 (1968).
+Outside of this
+category, the Court has held that when government employ-
+ees speak or write on their own time on topics unrelated
+to their employment, the speech can have First Amendment
+protection, absent some governmental justiﬁcation “far
+stronger than mere speculation” in regulating it.
+United
+States v. Treasury Employees, 513 U. S. 454, 465, 475 (1995)
+(NTEU).
+We have little difﬁculty in concluding that the
+City was not barred from terminating Roe under either line
+of cases.
+A
+In concluding that Roe’s activities qualiﬁed as a matter of
+public concern, the Court of Appeals relied heavily on the
+Court’s decision in NTEU.
+356 F. 3d, at 1117.
+In NTEU it
+was established that the speech was unrelated to the employ-
+ment and had no effect on the mission and purpose of the
+employer.
+The question was whether the Federal Govern-
+ment could impose certain monetary limitations on outside
+
+
+81
+Cite as: 543 U. S. 77 (2004)
+Per Curiam
+earnings from speaking or writing on a class of federal em-
+ployees.
+The Court held that, within the particular clas-
+siﬁcation of employment, the Government had shown no
+justiﬁcation for the outside salary limitations.
+The First
+Amendment right of the employees sufﬁced to invalidate the
+restrictions on the outside earnings for such activities.
+The
+Court noted that throughout history public employees who
+undertook to write or to speak in their spare time had made
+substantial contributions to literature and art, 513 U. S., at
+465, and observed that none of the speech at issue “even
+arguably [had] any adverse impact” on the employer, ibid.
+The Court of Appeals’ reliance on NTEU was seriously
+misplaced.
+Although Roe’s activities took place outside the
+workplace and purported to be about subjects not related
+to his employment, the SDPD demonstrated legitimate and
+substantial interests of its own that were compromised by
+his speech.
+Far from conﬁning his activities to speech unre-
+lated to his employment, Roe took deliberate steps to link
+his videos and other wares to his police work, all in a way
+injurious to his employer.
+The use of the uniform, the law
+enforcement reference in the Web site, the listing of the
+speaker as “in the ﬁeld of law enforcement,” and the debased
+parody of an ofﬁcer performing indecent acts while in the
+course of ofﬁcial duties brought the mission of the employer
+and the professionalism of its ofﬁcers into serious disrepute.
+356 F. 3d, at 1111 (internal quotation marks omitted).
+The Court of Appeals noted the City conceded Roe’s activ-
+ities were “unrelated” to his employment.
+Id., at 1112, n. 4.
+In the context of the pleadings and arguments, the proper
+interpretation of the City’s statement is simply to underscore
+the obvious proposition that Roe’s speech was not a comment
+on the workings or functioning of the SDPD.
+It is quite a
+different question whether the speech was detrimental to
+the SDPD.
+On that score the City’s consistent position has
+been that the speech is contrary to its regulations and harm-
+ful to the proper functioning of the police force.
+The pres-
+
+
+82
+SAN DIEGO v. ROE
+Per Curiam
+ent case falls outside the protection afforded in NTEU.
+The
+authorities that instead control, and which are considered
+below, are this Court’s decisions in Pickering, supra, Con-
+nick, 461 U. S. 138, and the decisions which follow them.
+B
+To reconcile the employee’s right to engage in speech and
+the government employer’s right to protect its own legiti-
+mate interests in performing its mission, the Pickering
+Court adopted a balancing test.
+It requires a court evaluat-
+ing restraints on a public employee’s speech to balance “the
+interests of the [employee], as a citizen, in commenting upon
+matters of public concern and the interest of the State, as an
+employer, in promoting the efﬁciency of the public services
+it performs through its employees.”
+391 U. S., at 568; see
+also Connick, supra, at 142.
+Underlying the decision in Pickering is the recognition
+that public employees are often the members of the commu-
+nity who are likely to have informed opinions as to the opera-
+tions of their public employers, operations which are of sub-
+stantial concern to the public.
+Were they not able to speak
+on these matters, the community would be deprived of in-
+formed opinions on important public issues.
+See 391 U. S.,
+at 572.
+The interest at stake is as much the public’s interest
+in receiving informed opinion as it is the employee’s own
+right to disseminate it.
+Pickering did not hold that any and all statements by a
+public employee are entitled to balancing.
+To require Pick-
+ering balancing in every case where speech by a public em-
+ployee is at issue, no matter the content of the speech, could
+compromise the proper functioning of government ofﬁces.
+See Connick, supra, at 143.
+This concern prompted the
+Court in Connick to explain a threshold inquiry (implicit in
+Pickering itself) that in order to merit Pickering balancing,
+a public employee’s speech must touch on a matter of “pub-
+
+
+83
+Cite as: 543 U. S. 77 (2004)
+Per Curiam
+lic concern.”
+461 U. S., at 143 (internal quotation marks
+omitted).
+In Connick, an assistant district attorney, unhappy with
+her supervisor’s decision to transfer her to another division,
+circulated an intraofﬁce questionnaire.
+The document so-
+licited her co-workers’ views on, inter alia, ofﬁce transfer
+policy, ofﬁce morale, the need for grievance committees,
+the level of conﬁdence in supervisors, and whether employ-
+ees felt pressured to work in political campaigns.
+See id.,
+at 141.
+Finding that—with the exception of the ﬁnal question—
+the questionnaire touched not on matters of public concern
+but on internal workplace grievances, the Court held no
+Pickering balancing was required.
+461 U. S., at 141.
+To
+conclude otherwise would ignore the “common-sense realiza-
+tion that government ofﬁces could not function if every em-
+ployment decision became a constitutional matter.”
+Id., at
+143.
+Connick held that a public employee’s speech is enti-
+tled to Pickering balancing only when the employee speaks
+“as a citizen upon matters of public concern” rather than “as
+an employee upon matters only of personal interest.”
+461
+U. S., at 147.
+Although the boundaries of the public concern test are not
+well deﬁned, Connick provides some guidance.
+It directs
+courts to examine the “content, form, and context of a given
+statement, as revealed by the whole record” in assessing
+whether an employee’s speech addresses a matter of public
+concern.
+Id., at 146–147.
+In addition, it notes that the
+standard for determining whether expression is of public
+concern is the same standard used to determine whether a
+common-law action for invasion of privacy is present.
+Id.,
+at 143, n. 5.
+That standard is established by our decisions
+in Cox Broadcasting Corp. v. Cohn, 420 U. S. 469 (1975), and
+Time, Inc. v. Hill, 385 U. S. 374, 387–388 (1967).
+These
+cases make clear that public concern is something that is a
+
+
+84
+SAN DIEGO v. ROE
+Per Curiam
+subject of legitimate news interest; that is, a subject of gen-
+eral interest and of value and concern to the public at the
+time of publication.
+The Court has also recognized that cer-
+tain private remarks, such as negative comments about the
+President of the United States, touch on matters of public
+concern and should thus be subject to Pickering balancing.
+See Rankin v. McPherson, 483 U. S. 378 (1987).
+Applying these principles to the instant case, there is no
+difﬁculty in concluding that Roe’s expression does not qualify
+as a matter of public concern under any view of the public
+concern test.
+He fails the threshold test and Pickering bal-
+ancing does not come into play.
+Connick is controlling precedent, but to show why this is
+not a close case it is instructive to note that even under the
+view expressed by the dissent in Connick from four Mem-
+bers of the Court, the speech here would not come within
+the deﬁnition of a matter of public concern.
+The dissent in
+Connick would have held that the entirety of the question-
+naire circulated by the employee “discussed subjects that
+could reasonably be expected to be of interest to persons
+seeking to develop informed opinions about the manner in
+which . . . an elected ofﬁcial charged with managing a vital
+governmental agency, discharges his responsibilities.”
+461
+U. S., at 163 (opinion of Brennan, J.).
+No similar purpose
+could be attributed to the employee’s speech in the present
+case.
+Roe’s activities did nothing to inform the public about
+any aspect of the SDPD’s functioning or operation.
+Nor
+were Roe’s activities anything like the private remarks at
+issue in Rankin, where one co-worker commented to another
+co-worker on an item of political news.
+Roe’s expression
+was widely broadcast, linked to his ofﬁcial status as a police
+ofﬁcer, and designed to exploit his employer’s image.
+The speech in question was detrimental to the mission and
+functions of the employer.
+There is no basis for ﬁnding that
+it was of concern to the community as the Court’s cases have
+
+
+85
+Cite as: 543 U. S. 77 (2004)
+Per Curiam
+understood that term in the context of restrictions by gov-
+ernmental entities on the speech of their employees.
+The judgment of the Court of Appeals is
+Reversed.

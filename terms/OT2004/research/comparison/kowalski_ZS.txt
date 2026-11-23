@@ -1,0 +1,130 @@
+Source: https://www.law.cornell.edu/supct/html/03-407.ZS.html
+
+KOWALSKI V. TESMER
+
+LII
+
+Supreme Court
+
+KOWALSKI V. TESMER (03-407) 
+333 F.3d 683, reversed and remanded.
+Syllabus
+ Opinion
+ [ Rehnquist ]Concurrence
+ [ Thomas ]Dissent
+ [ Ginsburg ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be
+released, as is being done in connection with this case, at the
+time the opinion is issued.
+The syllabus constitutes no part
+of the opinion of the Court but has been prepared by the
+Reporter of Decisions for the convenience of the reader.
+See
+United States v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+KOWALSKI, JUDGE, 26th JUDICIAL CIRCUIT COURT
+OF MICHIGAN, et al. v.
+ TESMER et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE SIXTH CIRCUIT
+
+No. 03—407.Argued October 4,
+2004–Decided December 13, 2004
+
+After Michigan’s Constitution was
+amended to require that an appeal by an accused pleading guilty
+or nolo contendere be by leave of the court, several state
+judges denied appointed appellate counsel to indigents pleading
+guilty, and the Michigan Legislature subsequently codified this
+practice. The two attorney respondents joined three indigent
+criminal defendants in filing suit in Federal District Court,
+alleging that the practice denies indigents their federal due
+process and equal protection rights. The District Court held
+the practice and statute unconstitutional, but a Sixth Circuit
+panel reversed, holding that Younger v. Harris,
+401 U.S. 37,
+abstention barred the indigents’ suit, but that the
+attorneys had third-party standing to assert the
+indigents’ rights; and that the statute was
+constitutional. On rehearing, the en banc Sixth Circuit agreed
+on standing but found the statute unconstitutional.
+
+Held: The attorneys lack
+third-party standing to assert the rights of Michigan indigent
+defendants denied appellate counsel. The Court assumes that
+the attorneys have satisfied Article III’s standing
+requirement and thus addresses only whether they have standing
+to raise the rights of others. In deciding whether to grant
+third-party standing, this Court asks whether the party
+asserting the right has a “close” relationship with
+the person who possesses the right, and whether there is a
+“hindrance” to the possessor’s ability to
+protect his own interests. Powers v. Ohio, 499 U.S. 400, 411. 
+The attorneys here claim standing based on a future
+attorney-client relationship with as yet unascertained Michigan
+criminal defendants who will request, but be denied, appellate
+counsel under the statute. In two cases in which this Court
+found an attorney-client relationship sufficient to confer
+third-party standing–Caplin & Drysdale, Chartered
+v. United States, 491 U.S. 617, and
+Department of Labor v. Triplett, 494 U.S. 715–the
+attorneys invoked known clients’ rights, not those of the
+hypothetical clients asserted here. And Department
+of Labor v. Triplett–in which an attorney
+disciplined by his state bar for accepting a fee prohibited by
+the Black Lung Benefits Act of 1972 was held to have
+third-party standing to invoke claimants’ due process
+rights to challenge the fee restriction that resulted in his
+punishment–falls within the class of cases allowing
+“standing to litigate the rights of third parties when
+enforc[ing] the challenged restriction against the litigant
+would result indirectly in the violation of third parties’
+rights,” Warth v. Seldin, 422 U.S. 490, 510. 
+The attorneys here do not have a “close relationship”
+with their alleged “clients”; indeed, they have no
+relationship at all. Nor have they demonstrated any
+“hindrance” to the indigents’ advancing their
+own constitutional rights against the Michigan scheme. An
+indigent may seek leave to challenge the denial of appellate
+counsel in state court and then may seek a writ of certiorari
+in this Court; and both state and federal collateral review
+exist beyond that. The attorneys’ hypothesis that,
+without counsel, such avenues are effectively foreclosed was
+disproved in the Michigan courts and this Court, where pro
+se indigents have pursued them. On a more fundamental
+level, if an attorney is all that the indigents need to perfect
+their challenge in state court and beyond, one wonders why
+these attorneys did not attend state court and assist them. 
+The fair inference is that they did not want the state process
+to take its course, but wanted a federal court to short-circuit
+the State’s adjudication of the constitutional question. 
+Here, the indigents were appropriately dismissed under
+Younger because they had ample opportunities to raise
+their constitutional challenge in their ongoing state
+proceedings. An unwillingness to allow the Younger
+principle to be thus circumvented is an additional reason to
+deny the attorneys third-party standing. 
+Pp. 2—8.
+
+333 F.3d 683, reversed and remanded.
+
+ Rehnquist,
+C. J., delivered the opinion of the Court, in which
+O’Connor, Scalia, Kennedy, Thomas, and Breyer, JJ.,
+joined. Thomas, J., filed a concurring opinion. Ginsburg, J.,
+filed a dissenting opinion, in which Stevens and Souter, JJ.,
+joined.
