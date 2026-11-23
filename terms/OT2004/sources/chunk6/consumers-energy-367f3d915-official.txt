@@ -1,0 +1,631 @@
+PAGE 1
+Notice: This opinion is subject to formal revision before publication in the
+Federal Reporter or U.S.App.D.C. Reports. Users are requested to notify
+the Clerk of any formal errors in order that corrections may be made
+before the bound volumes go to press.  
+United States Court of Appeals
+FOR THE DISTRICT OF COLUMBIA CIRCUIT
+Argued March 8, 2004 Decided May 14, 2004
+No. 03-1162
+CONSUMERS ENERGY COMPANY,
+PETITIONER
+v.
+FEDERAL ENERGY REGULATORY COMMISSION,
+RESPONDENT
+ONTARIO ENERGY TRADING INTERNATIONAL CORPORATION AND
+INDEPENDENT ELECTRICITY MARKET OPERATOR,
+INTERVENORS
+On Petition for Review of Orders of the
+Federal Energy Regulatory Commission
+Raymond E. McQuillan  argued the cause for petitioner.
+On the briefs was Deborah A. Moss .  Jon R. Robinson
+entered an appearance.
+ Bills of costs must be filed within 14 days after entry of judgment.
+The court looks with disfavor upon motions to file bills of costs out
+of time.
+
+PAGE 2
+2
+Lona T. Perry , Attorney, Federal Energy Regulatory
+Commission, argued the cause for respondent.  With her on
+the brief were Cynthia A. Marlette , General Counsel, and
+Dennis Lane, Solicitor.
+Matthew W.S. Estes  was on the brief for intervenors.
+Howard E. Shapiro  and John J. Buchovecky  entered appear-
+ances.
+Before:  GINSBURG, Chief Judge, and RANDOLPH and
+ROBERTS, Circuit Judges.
+Opinion for the Court filed by Circuit Judge ROBERTS.
+ROBERTS, Circuit Judge:  It was a close thing, but Benedict
+Arnold’s bold plan to capture Canada for the Revolution fell
+short at the Battle of Quebec in early 1776.  As a result, the
+Federal Energy Regulatory Commission must now decide
+when affiliates of Canadian utilities — utilities not subject to
+FERC jurisdiction — may sell power at market-based rates
+in the United States.  In a purely domestic case, FERC
+requires an applicant for market-based rates to show that it
+and its affiliates do not have or have adequately mitigated
+market power in generation and transmission, and cannot
+erect other barriers to entry.  An applicant with a transmis-
+sion-owning affiliate must show that the affiliate has filed an
+open access, non-discriminatory tariff for transmission ser-
+vice.  See Progress Power Marketing, Inc. , 76 FERC ¶ 61,-
+155, at 61,919 (1996).
+FERC does not presume to tell foreign transmission-
+owning utilities what tariffs they must file.  If a marketing
+affiliate of such a utility wants to sell power at market-based
+rates in the United States, however, the utility must offer
+transmission service comparable to that required of a utility
+in the United States.  Just as a domestic transmission-owning
+utility must allow competitors of its marketing affiliate to use
+its transmission services on a non-discriminatory basis to
+compete with the marketing affiliate, so too a foreign trans-
+mission-owning utility must allow companies that would com-
+pete with its marketing affiliate to use its transmission ser-
+vices to reach the United States market and compete on a
+
+PAGE 3
+3
+level playing field with its marketing affiliate.  See Energy
+Alliance P’ship, 73 FERC ¶ 61,019, at 61,030–31 (1995).
+In this case, Ontario Energy Trading International Corpo-
+ration (Ontario Energy) sought authority to sell power in the
+United States at market-based rates pursuant to Section 205
+of the Federal Power Act, 16 U.S.C. § 824d.  Ontario Ener-
+gy’s application was opposed by Consumers Energy Company
+(Consumers), a public utility providing service in Michigan
+and potentially facing competition from Ontario Energy
+across the border.  Consumers argued that the Ontario Inde-
+pendent Electricity Market Operator (IMO) was an affiliate of
+Ontario Energy and did not offer open access, non-
+discriminatory transmission service comparable to that re-
+quired of power companies in the United States.  Specifically,
+Consumers complained that the IMO did not offer transmis-
+sion service from point A to point B at all, as a United States
+utility would, but instead required companies seeking such
+service to sell power into the system at point A and buy it
+back out at point B.  FERC nonetheless found the IMO
+service comparable to that required of companies in the
+United States, and granted Ontario Energy the requested
+authority to sell power at market-based rates.  See Ontario
+Energy Trading Int’l Corp. , 99 FERC ¶ 61,039 ( Initial Or-
+der), on reh’g , 100 FERC ¶ 61,345 (2002) ( September 2002
+Order), on reh’g , 103 FERC ¶ 61,044 (2003) ( April 2003
+Order).  Finding that substantial evidence supports the Com-
+mission’s decision and that the decision is otherwise reason-
+able, we deny Consumers’ petition for review.
+I. Background
+In its landmark Order No. 888, FERC required public
+utilities subject to its jurisdiction that own, control, or operate
+transmission facilities to guarantee non-discriminatory trans-
+mission service to all market participants.  See Promoting
+Wholesale Competition Through Open Access Non-
+Discriminatory Transmission Services by Public Utilities;
+Recovery of Stranded Costs by Public Utilities and Trans-
+mitting Utilities, FERC Stats. & Regs. ¶ 31,036, at 31,635–36
+
+PAGE 4
+4
+(1996) (Order No. 888).  To ensure non-discriminatory ser-
+vice, the Commission required public utilities (1) to functional-
+ly unbundle wholesale power services — separating genera-
+tion, transmission, and ancillary services, id. at 31,654, and (2)
+to file open access, non-discriminatory transmission tariffs, id.
+at 31,635.  See generally New York v. FERC , 535 U.S. 1, 11
+(2002).
+Foreign market participants may also obtain transmission
+service through a public utility’s open access tariff.  Id. at
+31,689.  Participants with foreign affiliates that own or con-
+trol transmission facilities, however, may obtain open access
+transmission only if those affiliates comply with tariff reci-
+procity requirements.  Promoting Wholesale Competition
+Through Open Access Non-Discriminatory Transmission
+Services by Public Utilities;  Recovery of Stranded Costs by
+Public Utilities and Transmitting Utilities , Order No. 888-A,
+FERC Stats. & Regs. ¶ 31,048, at 30,290 (1997) (Order No.
+888-A).  Those reciprocity requirements mandate that the
+foreign transmission-owning affiliate also provide open access,
+non-discriminatory transmission service in the same manner
+as a public utility in the United States.  Id.
+A. Restructuring the Ontario Energy Market
+In 1997, Ontario Hydro, a government-owned utility servic-
+ing the Province of Ontario, sought a stay of Order No. 888’s
+reciprocity requirement.  See Promoting Wholesale Competi-
+tion Through Open Access Non-discriminatory Transmis-
+sion Services by Public Utilities;  Recovery of Stranded Costs
+by Public Utilities and Transmitting Utilities , 79 FERC
+¶ 61,182 (1997).  The utility claimed that it would be irrepara-
+bly harmed by the requirement because it could not allow
+open access into Ontario without the approval of the Provin-
+cial Government of Ontario.  Id. at 61,866.  The Commission
+rejected the stay, Promoting Wholesale Competition Through
+Open Access Non-discriminatory Transmission Services by
+Public Utilities;  Recovery of Stranded Costs by Public Utili-
+ties and Transmitting Utilities , 79 FERC ¶ 61,367 (1997),
+and the Province of Ontario elected to restructure its electric-
+
+PAGE 5
+5
+ity market in order to secure access to that of the United
+States.
+At that time, the provincial energy market was dominated
+by Ontario Hydro, a vertically integrated utility.  Ontario
+Hydro generated most of the Province’s power, owned and
+operated the bulk electricity transmission system, owned and
+operated much of the distribution system, sold power at
+wholesale rates to municipal utilities in urban areas, regulated
+those municipalities’ retail rates, and sold electricity directly
+to retail customers in rural and suburban areas.  See Initial
+Order, 99 FERC at 61,145.
+To establish a competitive market, the Ontario Energy
+Competition Act of 1998 unbundled the functions of power
+generation, power transmission, and control of the bulk power
+system.  The Act separated those functions and transferred
+them to three new entities:  (1) Ontario Power Generation,
+Inc. (OPG) owns and operates power generation facilities;  (2)
+Hydro One, Inc. owns and operates the transmission system
+and portions of the distribution system;  and (3) the IMO
+operates the bulk power system and the wholesale electricity
+market.  Application of Ontario Energy Trading Int’l For
+Order Approving Market-Based Tariff, at 3–4 (Ontario Ener-
+gy Application).  The Provincial Government holds all the
+shares of both OPG and Hydro One, appointing the directors
+of both.  September 2002 Order, 100 FERC at 62,580.  Ontar-
+io Energy — an electric power marketing company that buys
+and sells electricity, but itself owns no power generation or
+transmission assets — is a wholly-owned subsidiary of OPG.
+The Provincial Government also appoints the directors of the
+IMO, a not-for-profit transmission and market operator.
+Those directors may be removed only for cause.  Id. at
+62,581.
+The IMO assumed operational control of Hydro One’s
+transmission assets, and became responsible for establishing
+and operating a provincial electricity market.  See Ontario
+Energy Application at 7–9.  The Act required the IMO to
+develop rules to open the market to competition on an open
+access, non-discriminatory basis.  Id. at 9.  The IMO com-
+
+PAGE 6
+6
+plied, promulgating rules that created a bid-based electricity
+market in which the cost of electricity is set by market
+participants bidding to buy or offering to sell electricity.  Id.
+Much like a stock exchange, the IMO administers the market,
+and is neither a buyer nor seller of electricity except when
+required under emergency conditions to maintain system
+reliability.  See IMO Market Rules, Chapter 1, § 5.3.
+The bid-based market administered by the IMO packages
+power and transmission together as a single product.  See
+Brief of Ontario Energy Trading Int’l Corp., Docket No.
+ER02-1021-000 (July 31, 2002), at 10–12 (Ontario Energy
+FERC Br.).  In the United States, most regional transmis-
+sion organizations (RTOs) and independent system operators
+(ISOs) treat power and transmission as two different prod-
+ucts.  Indeed, Order No. 888 requires RTOs and ISOs to
+allow market participants to reserve transmission capacity on
+their systems in advance of power purchases.  See Order No.
+888 at 31,938–39.  In the United States, a power marketer
+can purchase the right to transmit power from point A to
+point B at a set time for a set price, apart from the purchase
+of power itself.  Not so in Ontario.  Entities wishing to
+transmit electricity through and out of Ontario, from point A
+to point B, must sell power into the IMO market at point A to
+enter the transmission system, and then buy power from the
+market at point B to exit the system.  Because this distinc-
+tion is central to the comparability dispute before us, a more
+detailed examination of the IMO market is in order.
+B. The IMO Energy Market
+The IMO operates a real-time electricity market, establish-
+ing a uniform market-clearing price for all electricity bought
+or sold within Ontario.  That uniform price is calculated
+based upon three factors:  (1) the market price — matching
+bids and offers;  (2) the uniform uplift charge;  and (3) trans-
+mission service charges.  See Ontario Energy FERC Br. at
+10–12.  The uniform uplift charge allocates the costs of
+internal congestion management across the market.  See id.
+
+PAGE 7
+7
+at 11–12. 1  Transmission service charges recoup the costs of
+operating the transmission system, and are regulated.  Un-
+der this system, purchases and sales can be made at any
+location on the IMO system at the uniform market-clearing
+price without regard to internal transmission limitations.
+The IMO market uses the same system to facilitate imports
+into and exports out of Ontario.  The Ontario transmission
+system is connected to adjacent regions’ transmission systems
+through external interfaces called interties.  Market partici-
+pants import power into the Ontario transmission system by
+selling electricity into the IMO market at one of the interties,
+while those wishing to export power out of the Province do so
+by purchasing electricity at an intertie adjacent to the desired
+destination.  Id. at 12.  Congestion may occur at an intertie
+when the imports offered or exports sought exceed the trans-
+fer capability at that intertie.  Unlike the situation with
+respect to the internal congestion control system, the IMO
+controls congestion at the interties through a market-based
+approach.2  At each intertie, the IMO establishes an intertie
+zone price (IZP) set at the level at which supply meets
+1 Even though transmission service is packaged with the pur-
+chase of electricity, the market price takes into account only the
+demand for electricity, not the demand for transmission.  The
+market price, in effect, assumes that the transaction costs of
+transmission demand are zero so that purchased electricity can be
+transmitted immediately to meet real-time demand — a process
+termed the ‘‘unconstrained dispatch solution.’’  The IMO market
+actually uses a ‘‘constrained dispatch solution,’’ which allows some
+units to transmit immediately while delaying others until transmis-
+sion capacity is available.  That process generates costs to reim-
+burse the delayed units for any difference in price between the
+transaction price and the actual price at the later time of transmis-
+sion.  Those reimbursements are the cost of internal congestion
+management, recouped through the uniform uplift charge.
+2 The internal congestion approach of scheduling power dis-
+patches from generation facilities, see note 1 supra, is not viable
+because the IMO cannot require generation facilities outside Ontar-
+io to comply with dispatch schedules.  Ontario Energy FERC Br.
+at 12.
+
+PAGE 8
+8
+demand within the transfer capacity of that intertie.  See id.
+at 12–13.  Put another way, the IZP clears congestion by
+prioritizing competing transfers according to price so that the
+most desired transfer clears first.  See id. at 13.
+Say a market participant wishes to export power from New
+York into Ontario.  That participant must offer to sell the
+power into the IMO market.  If the market-clearing price in
+the IMO is $20, and the quantity of power offered at or below
+$20 is equal to or less than the transfer capacity at the New
+York-Ontario intertie, then there is no congestion and all
+parties offering to sell power into Ontario for $20 or less will
+receive the $20 market-clearing price.  See id.   In the same
+scenario, if the quantity of imports offered exceeds the trans-
+fer capacity at the intertie, then the IZP would fall below the
+market-clearing price to reduce supply into the market — the
+IZP falling until enough market participants cease making
+offers to sell power into Ontario from New York.
+Exporting power out of Ontario is accomplished in a similar
+fashion by purchasing power at the market-clearing price at
+an intertie adjacent to the desired destination.  If the mar-
+ket-clearing price is $20 and the demand for exports out of
+Ontario at or above that price is equal to or less than the
+transfer capacity of that intertie, then the transfer capacity
+can accommodate the demand.  See id. at 15.  If the demand
+exceeds the transfer capacity, the IZP rises above $20 to
+reduce the demand, increasing until enough purchasers cease
+bidding so that the transfer capacity can handle the remain-
+ing bids.
+A party wishing to wheel power through the Province must
+engage in a combined import/export transaction.  As ex-
+plained, the IMO system packages transmission service with
+the purchase of energy, so transmission service alone can be
+neither reserved nor obtained in a separate transaction, as it
+can in the United States.  Market participants wishing to
+transmit power, for example, from New York to Michigan
+through Ontario must simultaneously sell power into the IMO
+market at the New York-Ontario intertie and purchase power
+out of the market at the Ontario-Michigan intertie.  See id. at
+
+PAGE 9
+9
+16.  Using the example above, if there is no congestion at
+either intertie, then the wheeler would sell into the system at
+the $20 market-clearing price and buy out of the system at
+the $20 market-clearing price, resulting in an off-setting
+transaction;  the only cost would be an export fee.  See id.  If
+there is congestion at either intertie, the cost would be the
+export fee plus any difference between the IZP and the
+market-clearing price at either intertie.  Id.
+Market participants can hedge the risk of congestion costs
+at interties during wheeling transactions by purchasing some-
+thing called financial transmission rights (FTRs).  Id. at 17;
+see also April 2003 Order , 103 FERC at 61,174.  FTRs are
+purely financial instruments that entitle the holder to pay-
+ments equal to the difference between the Ontario market-
+clearing price and an IZP.  The IMO maintains a market in
+FTRs, periodically auctioning FTRs that span durations of
+either one month or one year.  Ontario Energy FERC Br. at
+17.  Each FTR corresponds to a particular intertie;  separate
+FTRs must be purchased for imports and exports at each
+intertie.  Id.  FTRs effectively guarantee the import or ex-
+port of power at the uniform system-wide market-clearing
+price, regardless of any IZP.
+C. Procedural History
+On February 14, 2002, Ontario Energy filed its application
+with the Commission under Section 205 of the Federal Power
+Act, 16 U.S.C. § 824d, seeking authority to sell energy,
+capacity, and ancillary services, and to resell transmission
+capacity, at market-based rates.  Initial Order , 99 FERC at
+61,145.  Consumers filed a conditional protest to Ontario
+Energy’s application, reserving the right to challenge the
+application if the IMO failed to grant a transmission reserva-
+tion allowing Consumers to wheel power through Ontario.
+Motion to Intervene and Conditional Protest of Consumers
+Energy Co. at 2–3.  Consumers then went to the IMO and
+asked for approval of a ‘‘firm 50 MW transmission reservation
+for May 2002’’ to facilitate its procurement of electricity from
+New York suppliers and transmission of that power through
+Ontario to Michigan.  Letter from Consumers to IMO (Mar.
+
+PAGE 10
+10
+6, 2002).  The IMO denied the request, explaining that the
+IMO system does not provide transmission reservations, but
+that instead Consumers could perform an import/export
+transaction to wheel power through the Province.  Consum-
+ers thereupon filed a supplemental protest to Ontario Ener-
+gy’s application, claiming that ‘‘Ontario Energy possess[es]
+transmission market power by virtue of its affiliation with TTT
+the IMO, which is not mitigated by the provision of open-
+access transmission service.’’  Supplemental Protest of Con-
+sumers Energy Co. at 7.
+In the Initial Order, the Commission concluded that Ontar-
+io Energy’s application presented ‘‘no transmission market
+power concerns,’’ finding that Ontario Energy does not own
+or operate transmission facilities and is not an affiliate of any
+transmission-owning public utilities.  99 FERC at 61,146–47.
+The Commission accordingly granted the application.  Id. at
+61,147.  Consumers sought rehearing, arguing that the IMO
+and Ontario Energy were affiliated entities and that the IMO
+did not offer open access transmission service on a non-
+discriminatory basis comparable to the standards established
+in Order No. 888.  September 2002 Order , 100 FERC at
+62,581 ¶ 12.  This time the Commission agreed with Consum-
+ers that Ontario Energy and the IMO were affiliated, but
+denied the request for rehearing, finding that the ‘‘IMO
+provides open access transmission service on a comparable,
+non-discriminatory basis’’ in accordance with the principles of
+Order No. 888.  Id. ¶ 13.
+Consumers again requested rehearing.  See April 2003
+Order, 103 FERC at 61,172.  Having prevailed on the affilia-
+tion issue, it argued that the IMO’s service was not compara-
+ble to transmission service in the United States because the
+IMO does not allow the reservation of transmission capacity.
+According to Consumers, this inability to reserve transmis-
+sion capacity prevents market participants from obtaining a
+fixed price for transmission service, creating price uncertainty
+for transactions through Ontario.  Id. at 61,173.  Pointing to
+the fact that Ontario Energy could obtain firm transmission
+service reservations at a fixed price from utilities in the
+United States, Consumers argued that the IMO’s bid-based
+
+PAGE 11
+11
+market failed to satisfy the basic reciprocity requirements of
+Order No. 888.  See id.
+The Commission again denied Consumers’ request for re-
+hearing.  The Commission noted that ‘‘Consumers concedes
+TTT there is no evidence in this case suggesting that the IMO
+operates its transmission system on a discriminatory basis,’’
+and that the IMO’s governing statute prohibits such discrimi-
+nation.  Id. at 61,174 ¶ 9.  Rejecting Consumers’ claims con-
+cerning lack of comparability, the Commission found that
+allegations of potential price increases caused by the IMO’s
+bid-based system failed to support ‘‘a finding that the design
+of the IMO’s transmission system, per se , unduly impedes
+Consumers, or any of Ontario Energy’s other competitors,
+from reaching United States loads.’’  Id. ¶ 10.  To the con-
+trary, evidence showed that at least 12 United States-based
+power marketers had traded successfully in and out of the
+IMO market.  Id.  The Commission concluded that even
+though the IMO market does not offer the type of point-to-
+point transmission service required under Order No. 888,
+market participants can ‘‘obtain firm point-to-point service
+through and out of Ontario at a price that is known in
+advance (albeit through a process that involves both the
+advance purchase of transmission rights and bidding to buy
+and sell energy in the Ontario energy market)’’ — ‘‘pro-
+vid[ing] open access transmission on a comparable, non-
+discriminatory basis for wheeling through and out of TTT
+Ontario.’’  Id. ¶ 13.
+Consumers petitioned this court to review the April 2002,
+September 2002, and April 2003 orders.
+II. Analysis
+1. This court reviews the award of market-based rate
+authority to determine whether the Commission’s decision
+was arbitrary, capricious, an abuse of discretion, or otherwise
+not in accordance with law.  Louisiana Energy & Power
+Auth. v. FERC , 141 F.3d 364, 366 (D.C. Cir. 1998).  The
+Commission’s factual findings are conclusive if supported by
+substantial evidence.  16 U.S.C. § 825 l(b).
+
+PAGE 12
+12
+The Federal Power Act requires that public utilities charge
+‘‘just and reasonable’’ rates for the transmission or sale of
+electric energy.  Id. § 824d(a).  In competitive markets,
+‘‘FERC may rely upon market-based prices in lieu of cost-of-
+service regulation to assure a ‘just and reasonable’ result.’’
+Elizabethtown Gas Co. v. FERC , 10 F.3d 866, 870 (D.C. Cir.
+1993).  ‘‘[T]he Commission approves applications to sell elec-
+tric energy at market-based rates only if the seller and its
+affiliates do not have, or adequately have mitigated, market
+power in the generation and transmission of such energy, and
+cannot erect other barriers to entry by potential competi-
+tors.’’  Louisiana Energy, 141 F.3d at 365 (footnote omitted);
+accord Order No. 888 at 31,656.
+‘‘To demonstrate the requisite absence or mitigation of
+transmission market power, the Commission normally re-
+quires a power marketer to show that a transmission-owning
+utility affiliate has on file with the Commission an open access
+transmission tariff for the provision of comparable services.’’
+TransAlta Enters. Corp. , 75 FERC ¶ 61,268, at 61,875 (1996);
+accord Order No. 888 at 31,656–57.  Order No. 888 mandated
+that public utilities file open access transmission tariffs that
+‘‘offer[ ] both network, load-based service and point-to-point,
+contract-based service,’’ and established a pro forma tariff to
+define the ‘‘non-price minimum terms and conditions of non-
+discriminatory transmission’’ necessary for compliance.  Or-
+der No. 888 at 31,636.  Under the pro forma tariff, utilities
+must offer firm point-to-point transmission service — trans-
+mission service ‘‘that is reserved and/or scheduled between
+specified [p]oints of [r]eceipt and [d]elivery.’’  Id. at 31,931.
+Such transmission service allows market participants to re-
+serve transmission capacity to wheel power across different
+transmission systems, ‘‘provid[ing] a means for wholesale
+power sellers and buyers to obtain transmission services
+necessary to compete in, or to reach, competitive markets.’’
+Id. at 31,673.
+As noted, the Commission does not require foreign utilities
+to implement Order No. 888 pro forma tariffs.  TransAlta, 75
+FERC at 61,875 (‘‘[W]e have no direct authority to require
+[u]tilities, over which we do not have jurisdiction, to file an
+
+PAGE 13
+13
+open access tariff.’’).  The Commission is instead ‘‘amenable
+to a variety of approaches’’ to show the absence or mitigation
+of transmission market power by foreign utility affiliates of
+power marketers, so long as the power marketer demon-
+strates that ‘‘its transmission-owning utility affiliate offers
+non-discriminatory access to its transmission system that can
+be used by competitors of the power marketer to reach
+United States markets.’’  Id. (citing Energy Alliance , 73
+FERC at 61,030–31).  The Commission considers this ques-
+tion on a case-by-case basis.  H.Q. Energy Servs. (U.S.) Inc. ,
+79 FERC ¶ 61,152, at 61,652 (1997).
+2. The obvious difference between United States and On-
+tario power markets — here, transmission and power can be
+marketed separately;  there, they must be bought and sold as
+a package — provided Consumers with a ready basis for
+arguing that the IMO ‘‘does not presently offer transmission
+service that is reciprocal or comparable or non-discriminatory
+relative to that provided in the United States.’’  Pet. Br. at
+18.  According to Consumers, the IMO system does not allow
+the reservation of firm point-to-point transmission at a defi-
+nite price, as required under Order No. 888.  The system
+instead subjects market participants who wheel power
+through Ontario to uncertainty in pricing based upon poten-
+tial congestion at interties.  That uncertainty allegedly harms
+Consumers in transactions involving wheeling energy from
+New York to Michigan through Ontario’s transmission sys-
+tem — when selling wholesale power in Michigan, any price
+advantage gained by Consumers from purchasing wholesale
+power in New York could be lost in transmission through
+Ontario due to congestion costs at the interties.  See id. at 23.
+The Commission found, however, that because the IMO
+allows market participants to hedge the risk of congestion
+costs at interties through the purchase of FTRs, which ‘‘pro-
+vide their holders with payments equal to the difference
+between the applicable intertie zone price and the system-
+wide price,’’ market participants seeking to wheel power
+across Ontario are able to obtain a fixed price for a through
+and out transaction such as the one at issue in Consumers’
+petition — selling power into Ontario at the New York-
+
+PAGE 14
+14
+Ontario intertie and purchasing it back at the Ontario-
+Michigan intertie.  See April 2003 Order , 103 FERC at
+61,174 ¶¶ 12, 13.  Utilizing FTRs, market participants may
+‘‘obtain firm point-to-point service through and out of Ontario
+at a price that is known in advance.’’  Id. ¶ 13.  Although the
+IMO does not provide point-to-point transmission service in
+the manner prescribed by Order No. 888, the Commission
+reasonably concluded that the IMO provides comparable
+transmission service.  And that service is non-discriminatory:
+any entity desiring to transmit power from point A to point B
+on the IMO system must engage in the same sell-in/buy-out
+sort of transaction.  Affidavit of Cliff W. Hamal at ¶ 18.
+Consumers argues that the Commission disregarded sub-
+stantial factual evidence showing that the IMO system fails to
+mitigate the generation market power of OPG, the parent of
+Ontario Energy.  ‘‘OPG’s generation market dominance in
+the IMO service area creates the potential for OPG to extract
+significant revenues by causing constraints and congestion-
+related price differentials at various export [interties].’’  Pet.
+Br. at 23–24.  Consumers argues that OPG could, for exam-
+ple, flood the Ontario-Michigan intertie with export electrici-
+ty, purposefully driving up the price to wheel power through
+Ontario to Michigan.  By thereby increasing the cost of
+transmission, OPG could undercut Consumers’ ability to reap
+the advantage of transporting cheaper New York power to
+Michigan through Ontario.  OPG thus could establish a barri-
+er to market participants wishing to enter the Michigan
+market — or any other market with an adjacent intertie to
+Ontario.
+The Commission concluded that Consumers’ claims of po-
+tential price manipulation are ‘‘speculative, at best,’’ April
+2003 Order , 103 FERC at 61,174 n.10, and we agree.  In its
+second application for rehearing, Consumers merely advanced
+bare allegations of potential price increases at the interties:
+‘‘Consumers allege[d] that the bid-based market operated by
+the IMO may require Consumers to incur higher (unspeci-
+fied) costs to reach the Michigan market, in certain (unspeci-
+fied) instances when TTT the IMO TTT [must] address a
+market constraint on its system,’’ id. ¶ 9.  Consumers provid-
+
+PAGE 15
+15
+ed no evidence tying OPG’s market share to increased trans-
+mission prices or any episodes of discriminatory conduct.  Id.
+at n.10.
+On the other hand, substantial record evidence undermines
+Consumers’ abstract contentions.  First, the Commission
+found that since May 1, 2002 — the commencement of the
+IMO-administered market in Ontario — 12 United States-
+based power marketers had traded successfully through and
+out of the Ontario transmission system at the Ontario-
+Michigan intertie.  Id. ¶ 10.  Next, even assuming that OPG
+could manipulate prices by causing congestion at a particular
+intertie and raising the IZP, a market participant could
+negate any price impact by purchasing FTRs.  Finally, the
+Commission found that OPG has no generating market power
+outside Ontario.  See Initial Order , 99 FERC at 61,146.
+OPG thus would be cutting off its nose to spite its face by
+congesting an intertie out of Ontario:  that would increase the
+price to export electricity, making it more difficult for OPG to
+compete in the United States, where it would be selling more
+expensive electricity without the benefit of market power.
+We accordingly conclude that the Commission was reasonable
+in finding ‘‘no evidence TTT that Consumers has [been] or will
+be impeded from reaching Michigan markets,’’ April 2003
+Order, 103 FERC at 61,174 ¶ 10.
+Finally, Consumers broadly argues that simply because the
+IMO service is different from that required under Order No.
+888, it should not have been accepted by FERC:  ‘‘Either the
+Commission believes its standards of market power mitiga-
+tion and open access transmission service are the right stan-
+dards, or it doesn’t[;]  it should not matter in that context that
+the affected entities at issue are Canadian.’’  Pet. Reply Br.
+at 10.  We think it reasonable for the Commission to acknowl-
+edge the reality of an international border in deciding wheth-
+er to insist on compliance with the minutiae of its regulatory
+requirements;  it was certainly open to FERC to decide that a
+flexible approach requiring comparability on a case-by-case
+basis rather than letter-for-letter compliance across-the-board
+better accommodates jurisdictional limits and promotion of
+competitive markets for United States loads.  See Energy
+Alliance, 73 FERC at 61,030 (FERC interest in imposing
+
+PAGE 16
+16
+comparability requirements on foreign affiliates is to promote
+competition to serve United States loads).
+3. Consumers also argues that the IMO does not provide
+comparable service because it fails the particular indepen-
+dence requirements set forth in the Commission’s Order No.
+2000, 65 Fed. Reg. 809 (Jan. 6, 2000).  Our jurisdiction is
+limited to objections that have been raised before the Com-
+mission in an application for rehearing.  See 16 U.S.C.
+§ 825 l(b) (‘‘No objection to the order of the Commission shall
+be considered by the court unless such objection shall have
+been urged before the Commission in the application for
+rehearing’’).  Consumers asserted an independence argument
+based on Order No. 2000 to challenge the Commission’s initial
+findings on affiliation, not comparability.  See Brief of Con-
+sumers Energy Co., Docket No. ER02-1021-001 (July 30,
+2002), at 5.  Consumers won on affiliation;  FERC would not
+even have proceeded to address comparability in the absence
+of such a ruling.  Consumers did not separately argue below
+that the IMO’s lack of independence affected its ability to
+afford comparable transmission service, and such an argu-
+ment is distinct from a contention that entities are affiliated
+so that the Commission must consider comparability.  The
+Commission, therefore, never had the opportunity to address
+the particular argument that Consumers now attempts to
+raise, and we accordingly lack jurisdiction to consider it.  See
+City of Orrville v. FERC , 147 F.3d 979, 990 (D.C. Cir. 1998).
+*  *  *
+The petition for review is denied.

@@ -1,0 +1,522 @@
+{
+  "status": "completed files fingerprinted; repository-history verification reserved to operator",
+  "date": "2026-11-23",
+  "files": [
+    {
+      "path": "briefs/OT_2004CHUNK6.md",
+      "sha256": "fa817215d2c38ac6050838c0f6ade5cecebb1d6b894360dc7939d6ff4345ad88"
+    },
+    {
+      "path": "case-list.md",
+      "sha256": "848c3444193190349bac242c962721cd1b2160bc1ecbe489bb0a51b53e17c50e"
+    },
+    {
+      "path": "entering-law/OT_2004CHUNK6_APRIL19.md",
+      "sha256": "545170776bc46c6b9156d15ae54cc2c489fbec87df3d250e77670604e0f201eb"
+    },
+    {
+      "path": "entering-law/OT_2004CHUNK6_APRIL4.md",
+      "sha256": "6e8bb9d1634c58ca1658632036d2239003667276e13ebe0b7ca6a65b45ad378c"
+    },
+    {
+      "path": "entering-law/OT_2004CHUNK6_BEFORE_2005-04-04.md",
+      "sha256": "4211a1bc1bbb766ec19e892f54360933d455bac5fda4d88f7f67561c36d41b16"
+    },
+    {
+      "path": "entering-law/OT_2004CHUNK6_BEFORE_2005-04-19.md",
+      "sha256": "52f2f1cffce4919aa351e2cd1821e55e2ce81b04805a02e911f79009c4ea14ab"
+    },
+    {
+      "path": "entering-law/OT_2004CHUNK6_MARCH30.md",
+      "sha256": "d05b1ed0a253db77bfc479e94fc602cff638086251edfd086938f2824c3b4c9a"
+    },
+    {
+      "path": "freeze/OT_2004CHUNK6_APPELLATE_SOURCE_NEUTRAL.md",
+      "sha256": "73472da93c10d58606b90f6e2dd82bdd8225cd0ed520380ebf1b90fe432052d1"
+    },
+    {
+      "path": "freeze/OT_2004CHUNK6_APRIL19_EFFECTIVE_LAW.md",
+      "sha256": "5b7e354c1dc570307e2f7924950fc51bb1cd12390ee5106aeaf32da10243ee1c"
+    },
+    {
+      "path": "freeze/OT_2004CHUNK6_APRIL_COMMITMENTS.md",
+      "sha256": "f8a313219505c555f96db6409ca8f0fb54545e3bbef6cf40d923f301ad7c57c4"
+    },
+    {
+      "path": "freeze/OT_2004CHUNK6_APRIL_EFFECTIVE_LAW_MARCH30.md",
+      "sha256": "cde12524e93efb032b0b8226159b14c2e4f45091c04999b361d36c0404b65830"
+    },
+    {
+      "path": "freeze/OT_2004CHUNK6_APRIL_NEUTRAL_SUPPLEMENT_RECEIPT.md",
+      "sha256": "e3c4ac136a260beea5a71daac0f87e4ee79ce937e32a29dc25a5bb395d4f3356"
+    },
+    {
+      "path": "freeze/OT_2004CHUNK6_APRIL_PRIOR_PUBLIC_POSITIONS.md",
+      "sha256": "49807a7bf70cf4ea07803702cdf92015138c31df3a90186538c25fc163e261d1"
+    },
+    {
+      "path": "freeze/OT_2004CHUNK6_APRIL_RECONCILED.md",
+      "sha256": "362b83f4ea51d4746152cb441355e3bc528110ffe2617a7574abf638f68e0e6f"
+    },
+    {
+      "path": "freeze/OT_2004CHUNK6_APRIL_RECONCILIATION_VALIDATION.md",
+      "sha256": "5e7152b55512c1b8f45195b66fc8977c4bdb718203304633aea314b9d5ca9102"
+    },
+    {
+      "path": "freeze/OT_2004CHUNK6_ASSEMBLY_VALIDATION.md",
+      "sha256": "2c28a8f8971dd6b1d1abab57d8d8cfd1e058660abe30b10fe5f6ca3c1d70654d"
+    },
+    {
+      "path": "freeze/OT_2004CHUNK6_COMMITMENTS.md",
+      "sha256": "80b9305dad88bdb40f5ec174a7bcaf55778099aa9e9cfddf2a8e43a15f22efd2"
+    },
+    {
+      "path": "freeze/OT_2004CHUNK6_CONSUMERS_RECONCILED.md",
+      "sha256": "924f0c9f629bf7b2fd9b4fb1e3bfc058c8a4523bf78ed9358284c1f219f88a27"
+    },
+    {
+      "path": "freeze/OT_2004CHUNK6_DETERMINISTIC_VALIDATION.json",
+      "sha256": "3e13bbdb9c13a99da1c6a54ac270eaa5e402b7d45846292da30e0d09a9ea747a"
+    },
+    {
+      "path": "freeze/OT_2004CHUNK6_DURA_RECONCILED.md",
+      "sha256": "9bba2784b54f3109ba750872037ee34250da7c41ca7dcaea96e829eb84697c2e"
+    },
+    {
+      "path": "freeze/OT_2004CHUNK6_EXXON_OBJECTIVE_SUPPLEMENT.md",
+      "sha256": "5530aae4797a4d52369ea2bfb4e7803a955aa46f3c8ba621ca01df5b3e2d2bbb"
+    },
+    {
+      "path": "freeze/OT_2004CHUNK6_EXXON_RECONCILED.md",
+      "sha256": "5b04be71a478b5887740495e49d29e4eac80d5694228e7ba7150cbd49623d1e7"
+    },
+    {
+      "path": "freeze/OT_2004CHUNK6_JOHNSON_OBJECTIVE_CHRONOLOGY.md",
+      "sha256": "2d813a548ba21d0516338c5a88a66492a1bd5a59e67108ebf7887bffc27b488f"
+    },
+    {
+      "path": "freeze/OT_2004CHUNK6_JOHNSON_RECONCILED.md",
+      "sha256": "97d234f916452043cd368bff64ae7a57b3a79bf701c027ec8991aea97ae476c5"
+    },
+    {
+      "path": "freeze/OT_2004CHUNK6_MARCH30_COMMITMENTS.md",
+      "sha256": "f444d7507b5cbc99ee156dab5ac3419f05f84da4f2d806b920fcd959a9c84791"
+    },
+    {
+      "path": "freeze/OT_2004CHUNK6_MARCH30_RECONCILED.md",
+      "sha256": "df8a5d947b62e6f4d43d811f384ad5c211dd4020f26c2a84fc51f8fb53b1d2ab"
+    },
+    {
+      "path": "freeze/OT_2004CHUNK6_MONSANTO_RECONCILED.md",
+      "sha256": "386d2afa8697c23b11a466c7dc462d20d826fc8de863dc6f8ce3f56b84f0789a"
+    },
+    {
+      "path": "freeze/OT_2004CHUNK6_NEUTRAL.md",
+      "sha256": "034ff8dcd71195fafe7c1f9152d79b4883c9eb07458796f4c63fb3dfffb53723"
+    },
+    {
+      "path": "freeze/OT_2004CHUNK6_NEUTRAL_PREFLIGHT.md",
+      "sha256": "7253f967c82e6eeef69f42f345c497d0b43a2d92da0c485b46fbbe7b7f62fb47"
+    },
+    {
+      "path": "freeze/OT_2004CHUNK6_NEUTRAL_PROJECTION.md",
+      "sha256": "10e71ffbb712bfa06fa6f6bd196ff2c1157ade5770c27755ac94e4afc043d31e"
+    },
+    {
+      "path": "freeze/OT_2004CHUNK6_NEUTRAL_SELECTION_RECEIPT.md",
+      "sha256": "caf7d7321df9b4dec38fefa866cbe663ff288b6479b9e5116431c43c258ac699"
+    },
+    {
+      "path": "freeze/OT_2004CHUNK6_RECONCILED.md",
+      "sha256": "3733baddacda4ef52f16d973ff5571ffc3401c70548ef82d73476df02ef8e4d0"
+    },
+    {
+      "path": "freeze/OT_2004CHUNK6_RHINES_RECONCILED.md",
+      "sha256": "6cfb4acff55fb21988ee907cb0a0fdfda0ebc661b2b20256cd46a70a3d5dcfa6"
+    },
+    {
+      "path": "freeze/OT_2004CHUNK6_ROUSEY_OBJECTIVE_SUPPLEMENT.md",
+      "sha256": "23762212ffe582d51f92358ae926794dcf38908e8923ae23b41b6db92a7cea16"
+    },
+    {
+      "path": "freeze/OT_2004CHUNK6_ROUSEY_RECONCILED.md",
+      "sha256": "f73d3ae9eaa68e8a370557b87a9418f37c1e3dd54a4e52caeb15632f0290d516"
+    },
+    {
+      "path": "freeze/OT_2004CHUNK6_SMITH_OBJECTIVE_SUPPLEMENT.md",
+      "sha256": "fd1799db24da80b89ded0ba2dc14c0fd959dac8ffde00f103b44fdb041f223f2"
+    },
+    {
+      "path": "freeze/OT_2004CHUNK6_SMITH_RECONCILED.md",
+      "sha256": "015c995350f975d00002249386e0dae6110cf02ceca203b5715e193d74e2f22a"
+    },
+    {
+      "path": "freeze/OT_2004CHUNK6_VALIDATION.md",
+      "sha256": "3292bea27b7c41c1e82894f5b1698c53ab053b08e70c3d09c2aa8a8fa27985ec"
+    },
+    {
+      "path": "freeze/OT_2004CHUNK6_WORLDCOM_RECONCILED.md",
+      "sha256": "432524eb662e799619ec812757e4f28363c69f4b02f841fbad8ee064fa4e8c82"
+    },
+    {
+      "path": "freeze/OT_2004CHUNK6_WORLDCOM_STATUTES_NEUTRAL.md",
+      "sha256": "0cbb0d775f0fa99462b6044867d7250b174dcbf00abe3fa4b15c8d2a137c4ad7"
+    },
+    {
+      "path": "records/california-public-employees-retirement-system-v-worldcom-inc_merits_2005-03-30.md",
+      "sha256": "2162aae1f6c153def544a66b90dc5a2799dc27aa8f11d7a2fd6e6e02a0bb08ac"
+    },
+    {
+      "path": "records/consumers-energy-v-ferc_merits_2005-04-04.md",
+      "sha256": "1fae8922887582c8f7169f70e5a94c5289ef0abcd5533741e525cb4efaf68c67"
+    },
+    {
+      "path": "records/dura-pharmaceuticals-v-broudo_merits_2005-04-19.md",
+      "sha256": "551859a578e526fe4a7a4d563eec0278910d260d52235fddbce755d1ce6bd14d"
+    },
+    {
+      "path": "records/exxon-mobil-corp-v-saudi-basic-industries-corp_merits_2005-03-30.md",
+      "sha256": "4c79a6ef9be65b23b284cd462a69e1ad6efe66e8cd842857188c37401491c68c"
+    },
+    {
+      "path": "records/johnson-v-united-states_merits_2005-04-04.md",
+      "sha256": "70a6001bfb62aad2dade6820e2acffe01ef0de7eed6a719e291204fba92c0c0f"
+    },
+    {
+      "path": "records/monsanto-co-v-mcfarling_merits_2005-04-19.md",
+      "sha256": "2e08d26e764bfbe5641d9817dbb3f6e1cd2ecbf0efe5ddbae3803697b4a0fab1"
+    },
+    {
+      "path": "records/rhines-v-weber_merits_2005-03-30.md",
+      "sha256": "b524b839a401e6d6dbf9c344245c9cf04f7446d97c363c4c04d10b03a381a065"
+    },
+    {
+      "path": "records/rousey-v-jacoway_merits_2005-04-04.md",
+      "sha256": "6d33382c6917ec917db5a62bc5f00d3fdd505cc5ad01696008e087184a846b66"
+    },
+    {
+      "path": "records/smith-v-city-of-jackson_merits_2005-03-30.md",
+      "sha256": "16803f37746ec3169779e9865c4141c96a40a089bdb2b1746241f1646c79d8fb"
+    },
+    {
+      "path": "render-inputs/OT_2004CHUNK6.md",
+      "sha256": "1ae2f2f1b940d5e0b61a81af0914f1fdcd58dff12684c87b46ae2f280f5de4b1"
+    },
+    {
+      "path": "runtime/OT_2004CHUNK6_APPELLATE_SOURCE_NEUTRAL.md",
+      "sha256": "73472da93c10d58606b90f6e2dd82bdd8225cd0ed520380ebf1b90fe432052d1"
+    },
+    {
+      "path": "runtime/OT_2004CHUNK6_APRIL_COMMITMENTS.md",
+      "sha256": "f8a313219505c555f96db6409ca8f0fb54545e3bbef6cf40d923f301ad7c57c4"
+    },
+    {
+      "path": "runtime/OT_2004CHUNK6_APRIL_RECONCILED.md",
+      "sha256": "362b83f4ea51d4746152cb441355e3bc528110ffe2617a7574abf638f68e0e6f"
+    },
+    {
+      "path": "runtime/OT_2004CHUNK6_ASSEMBLY_FORMS.md",
+      "sha256": "fdac5efac15f9086b607dd4c29674c93eacbbb38c0e2216eda89d34a7694bb84"
+    },
+    {
+      "path": "runtime/OT_2004CHUNK6_COMMITMENTS.md",
+      "sha256": "80b9305dad88bdb40f5ec174a7bcaf55778099aa9e9cfddf2a8e43a15f22efd2"
+    },
+    {
+      "path": "runtime/OT_2004CHUNK6_COMPARATOR.md",
+      "sha256": "771b6c14b3ca5d4740ed27deacc0194e26a652ae5ede472d20c31eb8b161ee8a"
+    },
+    {
+      "path": "runtime/OT_2004CHUNK6_CONTROL_INTAKE.json",
+      "sha256": "8e95b6cec37b631cee01b573b9a10266f9751e880d4dd7e94b59b9f075f8fe2f"
+    },
+    {
+      "path": "runtime/OT_2004CHUNK6_EXXON_OBJECTIVE_SUPPLEMENT.md",
+      "sha256": "5530aae4797a4d52369ea2bfb4e7803a955aa46f3c8ba621ca01df5b3e2d2bbb"
+    },
+    {
+      "path": "runtime/OT_2004CHUNK6_EXXON_RECONCILED.md",
+      "sha256": "5b04be71a478b5887740495e49d29e4eac80d5694228e7ba7150cbd49623d1e7"
+    },
+    {
+      "path": "runtime/OT_2004CHUNK6_MARCH30_COMMITMENTS.md",
+      "sha256": "f444d7507b5cbc99ee156dab5ac3419f05f84da4f2d806b920fcd959a9c84791"
+    },
+    {
+      "path": "runtime/OT_2004CHUNK6_MARCH30_RECONCILED.md",
+      "sha256": "df8a5d947b62e6f4d43d811f384ad5c211dd4020f26c2a84fc51f8fb53b1d2ab"
+    },
+    {
+      "path": "runtime/OT_2004CHUNK6_NEUTRAL.md",
+      "sha256": "034ff8dcd71195fafe7c1f9152d79b4883c9eb07458796f4c63fb3dfffb53723"
+    },
+    {
+      "path": "runtime/OT_2004CHUNK6_RECONCILED.md",
+      "sha256": "3733baddacda4ef52f16d973ff5571ffc3401c70548ef82d73476df02ef8e4d0"
+    },
+    {
+      "path": "runtime/OT_2004CHUNK6_RHINES_RECONCILED.md",
+      "sha256": "6cfb4acff55fb21988ee907cb0a0fdfda0ebc661b2b20256cd46a70a3d5dcfa6"
+    },
+    {
+      "path": "runtime/OT_2004CHUNK6_SMITH_RECONCILED.md",
+      "sha256": "015c995350f975d00002249386e0dae6110cf02ceca203b5715e193d74e2f22a"
+    },
+    {
+      "path": "runtime/OT_2004CHUNK6_STONE.md",
+      "sha256": "f23b5d7d7a4ab9dbf797e29467e2ee1f26017d4683515d409d33373ce5b66a09"
+    },
+    {
+      "path": "runtime/OT_2004CHUNK6_WORLDCOM_RECONCILED.md",
+      "sha256": "432524eb662e799619ec812757e4f28363c69f4b02f841fbad8ee064fa4e8c82"
+    },
+    {
+      "path": "runtime/OT_2004CHUNK6_WORLDCOM_STATUTES_NEUTRAL.md",
+      "sha256": "0cbb0d775f0fa99462b6044867d7250b174dcbf00abe3fa4b15c8d2a137c4ad7"
+    },
+    {
+      "path": "sources/chunk6/adea_2004.txt",
+      "sha256": "181491da421077e933ce1bc65105d90bc289522e6db47ac4eaec9a4b9b0bc8a9"
+    },
+    {
+      "path": "sources/chunk6/bankruptcy_522_2004.txt",
+      "sha256": "ba16552529c538d5091c480fe2372cacbdd5b9ca7031ed7232a30aa6d3986c0e"
+    },
+    {
+      "path": "sources/chunk6/consumers-energy-367f3d915-official.pdf",
+      "sha256": "7bb796ad482655b97d212f58f88d51972cdcf37ecfc92281466bbcf18af402d4"
+    },
+    {
+      "path": "sources/chunk6/consumers-energy-367f3d915-official.txt",
+      "sha256": "c7f942c2c4cb6eced28344621a95bec2aed8f375d988a6837927512f900f3906"
+    },
+    {
+      "path": "sources/chunk6/dura_syllabus.txt",
+      "sha256": "db39759d47ae34b76d6d7e13d70f1095553fdc8dee92ad9fde850fc2090b8319"
+    },
+    {
+      "path": "sources/chunk6/dura_usreports.pdf",
+      "sha256": "1652f2fe7d421dd2967afa009a5799a7071de7fec0e1c55325a205a60f5ec0dc"
+    },
+    {
+      "path": "sources/chunk6/dura_usreports.txt",
+      "sha256": "fe2c270560f6fc2ddf3d1a5090bad1c17f792e53d6b157dc6d66f6eed43d67cf"
+    },
+    {
+      "path": "sources/chunk6/dura_ZO.txt",
+      "sha256": "4161bd4648722e2062ded5edfdd9d160fc1890149895d06df2c93575d374fb01"
+    },
+    {
+      "path": "sources/chunk6/eeoc_1625_7_2004.pdf",
+      "sha256": "0cfbc9346973ca869960dac5de6b85c1bf2f91d55f999a84a5e4d3c3e5af60c3"
+    },
+    {
+      "path": "sources/chunk6/eeoc_1625_7_2004.txt",
+      "sha256": "98a94a1794b4bfa3a2b8ca95648c5d300aba9515ebfeede4044c6838d7bfe524"
+    },
+    {
+      "path": "sources/chunk6/eeoc_1625_7_2004_raw.txt",
+      "sha256": "251cc31fb0cada70a3c61c0a7228c3d2ace5eaf4ec69e01d072d4b75d4fd75ff"
+    },
+    {
+      "path": "sources/chunk6/exxon_syllabus.txt",
+      "sha256": "5c19d86e710197886c8d0ca74459b9ad9ac69a5862a633eaf449ff7cfc918819"
+    },
+    {
+      "path": "sources/chunk6/exxon_usreports.pdf",
+      "sha256": "489b55a5c878a7dc7fc70e417528722f05fc26620a6172075819f3f5b0184757"
+    },
+    {
+      "path": "sources/chunk6/exxon_usreports.txt",
+      "sha256": "e165f56aac33ffd4dd71523619efb59e56f085fc2f728b704d0ac5cb29e80f4d"
+    },
+    {
+      "path": "sources/chunk6/exxon_ZO.txt",
+      "sha256": "a230f37db363bea9460d287c02be23e2a3487956803dc261b244822211438a10"
+    },
+    {
+      "path": "sources/chunk6/JOHNSON_OBJECTIVE_CHRONOLOGY.md",
+      "sha256": "2d813a548ba21d0516338c5a88a66492a1bd5a59e67108ebf7887bffc27b488f"
+    },
+    {
+      "path": "sources/chunk6/johnson_syllabus.txt",
+      "sha256": "97619b609e9ff17dedf763b48c6a1335b593ed711eaa0c488b99652c2861e8f4"
+    },
+    {
+      "path": "sources/chunk6/johnson_usreports.pdf",
+      "sha256": "62261439f13de62d789abde07953f80b0b2c002c2081a81cd3034dbe6e0708e9"
+    },
+    {
+      "path": "sources/chunk6/johnson_usreports.txt",
+      "sha256": "c7f067ca493c3c507ec1eb77a563158293e5cc0a28e1684da357f040906e4147"
+    },
+    {
+      "path": "sources/chunk6/johnson_ZD.txt",
+      "sha256": "6c9d98d662a62f7b8509a50fb00b14c197322d71352e7a845e178949460534ee"
+    },
+    {
+      "path": "sources/chunk6/johnson_ZO.txt",
+      "sha256": "84f624e71ee4895e11872f50a6c2296c40020fabf639fc2d34deff46811c7831"
+    },
+    {
+      "path": "sources/chunk6/monsanto-363f3d1336-resource.html",
+      "sha256": "1874348b15caab79fe333de0f8250cfd6dfd65a6ccf90a67cf9e4851f72b50ee"
+    },
+    {
+      "path": "sources/chunk6/monsanto-363f3d1336-resource.txt",
+      "sha256": "be07f845133aa6739dff27086842da302f579424fc89b2c92ee544e3605ae4aa"
+    },
+    {
+      "path": "sources/chunk6/pl108_311.txt",
+      "sha256": "cd84362b909607fe7cfb801c1d65a56b53c678b5bde0194816318702acbb2ce8"
+    },
+    {
+      "path": "sources/chunk6/rhines_syllabus.txt",
+      "sha256": "7fe34b8fdf5b9a5eec989531d84ef8934fd61c286bba3237bfd4cbc1ae94c60b"
+    },
+    {
+      "path": "sources/chunk6/rhines_usreports.pdf",
+      "sha256": "6d7275a1227b92f13e21b8f2a12d076fca90a7ceaa12346761fca77bea82196e"
+    },
+    {
+      "path": "sources/chunk6/rhines_usreports.txt",
+      "sha256": "3697a97505529ee910fcd2f4dd4591c3e9b960bc3b774ea8fc8549f99b94ebef"
+    },
+    {
+      "path": "sources/chunk6/rhines_ZC.txt",
+      "sha256": "767a5933f0b3a791c67c8ef7fa3df0ef9ae6e19f0d2e96b8ca1f85f840901607"
+    },
+    {
+      "path": "sources/chunk6/rhines_ZC1.txt",
+      "sha256": "f37a08d3454c88d29b1c56946a65e09009fce7a3469a0637f66af6c1f642c3ad"
+    },
+    {
+      "path": "sources/chunk6/rhines_ZO.txt",
+      "sha256": "cb6e08d63f1c3479708fe38d4bf9d4dcd5739cf839dc4ea6435f327e535fd770"
+    },
+    {
+      "path": "sources/chunk6/ROUSEY_OBJECTIVE_SUPPLEMENT.md",
+      "sha256": "23762212ffe582d51f92358ae926794dcf38908e8923ae23b41b6db92a7cea16"
+    },
+    {
+      "path": "sources/chunk6/rousey_syllabus.txt",
+      "sha256": "9f6c66b3aa8cdf3adfc50d35a6a896a939e3e23e9c975895f15c7f0dafd431c4"
+    },
+    {
+      "path": "sources/chunk6/rousey_usreports.pdf",
+      "sha256": "d64714e748a83394daba2ae4b07116154c47d8f5710dd541d5277274ce0ba790"
+    },
+    {
+      "path": "sources/chunk6/rousey_usreports.txt",
+      "sha256": "cbec0de1f0cbe0be50da1a78c4778cea3e9ca1a6da34a95db2a5346d583fd9be"
+    },
+    {
+      "path": "sources/chunk6/rousey_ZO.txt",
+      "sha256": "b6df589abd45f8a4c64378cd0dd9ad375b9f5b4ad5b485a2d854072e3853b14c"
+    },
+    {
+      "path": "sources/chunk6/SMITH_OBJECTIVE_SUPPLEMENT.md",
+      "sha256": "fd1799db24da80b89ded0ba2dc14c0fd959dac8ffde00f103b44fdb041f223f2"
+    },
+    {
+      "path": "sources/chunk6/smith_syllabus.txt",
+      "sha256": "663bd82fbc10707e82bd1e48c7b2c039dee4e69dfa43cbb1cbcf609b4c1f4c76"
+    },
+    {
+      "path": "sources/chunk6/smith_usreports.pdf",
+      "sha256": "2617054d7ac27f2f5ed8512b709c7b314ce300e104b95cf566d9300cb5dfe5ab"
+    },
+    {
+      "path": "sources/chunk6/smith_usreports.txt",
+      "sha256": "a285d488a1a0a80afdef309e2ee13bd32d293db2ff32a4ee837e9672eb8018c3"
+    },
+    {
+      "path": "sources/chunk6/smith_ZC.txt",
+      "sha256": "98402e3a39d3b674db4df9406140488292960d588feb8205a71b1c519be4b904"
+    },
+    {
+      "path": "sources/chunk6/smith_ZC1.txt",
+      "sha256": "84965f033e5ad940f175df4db1abb79ac3b96a9b6e792490cc4b41de5ad651ad"
+    },
+    {
+      "path": "sources/chunk6/smith_ZO.txt",
+      "sha256": "e58e1c3c78ee86133b63b342b03eca4048ff810430d99e4fab6985d3f306d5d9"
+    },
+    {
+      "path": "sources/chunk6/SUPREME_COURT_SOURCE_RECEIPT.md",
+      "sha256": "af6ea28ddb14503d11fe8db741806200e7c28f9ae46bc6ccd83bff19f1fdc758"
+    },
+    {
+      "path": "sources/chunk6/tax_72_2000.txt",
+      "sha256": "8a9ed855206edf5038734a8336d4e25696dfb747ef03f405f70a5e4e4096bda5"
+    },
+    {
+      "path": "sources/chunk6/tax_72_2001.txt",
+      "sha256": "9b54e90394d19511770b27bf84d18ffea372ac50d208fd441f7c5832efde021e"
+    },
+    {
+      "path": "sources/chunk6/tax_72_t_2000.txt",
+      "sha256": "c6027e6740442ab711fd491d9225646ef3813a97fe60d4e4781e2b6cca8da08e"
+    },
+    {
+      "path": "sources/chunk6/tax_72_t_2001.txt",
+      "sha256": "52effe2f728f27731f9c0f60457dff11e72a01487c6733cc1ed6ed5ca67a1d6e"
+    },
+    {
+      "path": "sources/chunk6/usc2004-15-77p.txt",
+      "sha256": "52e81b703da1e9790bf1b92d74b2fcc2b499c9757b80f9743399818871ac07fa"
+    },
+    {
+      "path": "sources/chunk6/usc2004-15-77v.txt",
+      "sha256": "b7611fc2c7ba803a442c0df5da69f9a2439bcdfa8efb99a72feb1067a440a979"
+    },
+    {
+      "path": "sources/chunk6/usc2004-16-824d.pdf",
+      "sha256": "f4fbe0b5a2f1fff254d091d87b597fba9202f037916490ae0a4cde06bfd7fa6e"
+    },
+    {
+      "path": "sources/chunk6/usc2004-16-824d.txt",
+      "sha256": "6da7742d55afc03e9815fef987506f51e329e2915464204fd743bcc6726460ac"
+    },
+    {
+      "path": "sources/chunk6/usc2004-16-825l.pdf",
+      "sha256": "87346cfd47fd1a886682c51466f44f05888deee43a8eb72798f1b2100e0077fd"
+    },
+    {
+      "path": "sources/chunk6/usc2004-16-825l.txt",
+      "sha256": "05306fa5735c35150a1ac88b831f5e7e74e3913160ec6a66c8372857bba48e21"
+    },
+    {
+      "path": "sources/chunk6/usc2004-28-1334.txt",
+      "sha256": "f5e1ae1bede9005d1642cdc0d926f8e3de25c25f4a1004fb8ade6d90468077f8"
+    },
+    {
+      "path": "sources/chunk6/usc2004-28-1452.txt",
+      "sha256": "64ef4c6b5af8c66b6f413c92062dde471942702f39bc9dd379c173f579419eb9"
+    },
+    {
+      "path": "sources/chunk6/worldcom-368f3d86-resource.html",
+      "sha256": "4710beea2b4cbffb935bb1b9f931bbeb17dd574a691ce0182f96ded60cb56fe2"
+    },
+    {
+      "path": "sources/chunk6/worldcom-368f3d86-resource.txt",
+      "sha256": "30e4291960dd24f73c95526979c4b82766765c540d188a35f9df87ed8bea4740"
+    },
+    {
+      "path": "workspace/continuity.md",
+      "sha256": "a073b52e598cbe4c342ae8a1f42c130ddc997aa842a232d854cc178dc2b6b92f"
+    },
+    {
+      "path": "workspace/ledger.md",
+      "sha256": "cbb03f47f70d7cdb05616a2b6b899c95a39e3bcec06cb512886061b7d1dbef9d"
+    },
+    {
+      "path": "workspace/manifest.md",
+      "sha256": "9a4e4cd206cbbd08f03a763462235df7d23502d39c7bcb4bf23e1e50af438187"
+    },
+    {
+      "path": "workspace/neutral-projection.md",
+      "sha256": "33747f5b0af39d301885b8f4437b2b2e129d256852422a68379397822f2b0952"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+# Consumers Energy — reconciled Associate commitments
+
+This isolated reconciliation receives the frozen neutral packet, preflight, April supplement receipt, sanitized projection, April 4 entering law, lower-court source receipt and frozen April commitments. It has received no private Chief Justice position and assigns no author. Original commitments remain unchanged: `OT_2004CHUNK6_APRIL_COMMITMENTS.md`, SHA-256 `f8a313219505c555f96db6409ca8f0fb54545e3bbef6cf40d923f301ad7c57c4`. Research cutoff: April 4, 2005. All eight Associates participate. This handoff is complete for this case and will also form part of the combined April reconciliation.
+
+## Comparator and reconciliation
+
+The comparator is the D.C. Circuit judgment, 367 F.3d 915, not a Supreme Court merits decision. Its actual administrative grounds and preservation boundary are verified in `OT_2004CHUNK6_APPELLATE_SOURCE_NEUTRAL.md`, supported by the complete official appellate text. There is no historical Supreme Court vote, writing or authorship to import. Each frozen commitment survives the review against entering New York v. FERC, Lockyer, Allentown Mack, Mead and Timken law. The corrected affiliation finding is not itself a failure of the later comparability finding. The distinct Order No. 2000 independence theory must not be conflated with the preserved affiliation objection.
+
+## Reconciled rules and remedy
+
+**C1 — Functional comparability and review.** FERC may authorize the covered United States market-based sales of a foreign utility's affiliate when, on the actual administrative record, its reasoned assessment shows functionally comparable nondiscriminatory access and satisfaction of the Federal Power Act's just-and-reasonable requirements. The foreign transmission arrangement need not duplicate every domestic tariff mechanism. Section 825l(b) makes facts supported by substantial evidence conclusive; technical application receives review for arbitrary action or legal error, while statutory authority remains independently reviewable.
+
+The actual rehearing explanation supports this approval. Paired Ontario sales and purchases use a common market price absent congestion; separate import and export financial transmission rights offset the specified intertie price differences, leaving the separate export charge. Those rights hedge prices and do not reserve physical capacity. FERC considered equal transaction rules, successful use by at least twelve United States marketers, the absence of OPG generation power outside Ontario and the unsupported claim of discriminatory congestion manipulation. Consumers identified no actual discriminatory operation. Rejection of the requested domestic-form fifty-megawatt reservation therefore did not establish a disqualifying barrier on this record.
+
+The strongest objection distinguishes the physical security of a reservation from a financial hedge. The answer assesses the combined mechanism under the agency's actual comparability policy; it neither equates the two instruments nor treats every foreign market design as sufficient. New York v. FERC preserves lawful jurisdiction and the mandatory response to an established section 206 violation. Lockyer requires actual reasons, Allentown Mack requires evidence under the announced standard, and Timken distinguishes permission to choose a supported method from a command to use a particular method. None requires identical institutions here. Mead supplies no substitute for examining actual authority and no new general deference rule is necessary.
+
+**C2 — Rehearing prerequisite.** Section 825l(b) forecloses judicial consideration of an objection omitted from rehearing unless reasonable ground excuses the omission. Using independence to establish affiliation did not present the separate claim that lack of Order No. 2000 independence defeats comparability; no successful reasonable-ground showing is supplied. Decline to reach that distinct theory. The separate procedure for additional evidence requires materiality and reasonable grounds for not presenting the evidence to the agency; it does not automatically excuse an unraised legal objection.
+
+**C3 — Judgment.** Affirm the judgment denying review. The challenged United States market-based-rate authorization remains effective. Ordinary administration continues under the actual statutory duties; no foreign restructuring follows from the mandate. Section 825l(c)'s rule that review itself does not stay the order remains intact.
+
+## Exact Associate commitments
+
+| Justice | Judgment and propositions joined | Justice-specific support and limit |
+|---|---|---|
+| Stevens | Affirm; joins C1–C3 in full. | His New York, Lockyer and Timken joins permit the supported agency method; substantive rehearing and evidence answer the vacatur alternative. He does not endorse unreviewable discretion. |
+| O'Connor | Affirm; joins C1–C3 in full. | Her New York, Lockyer and Timken joins permit supported choice; her Allentown Mack join requires application of the actual evidentiary standard. Mere market participation would not replace comparability. |
+| Scalia | Affirm; joins C1–C3 in full. | His New York partial dissent concerned an ignored statutory duty, which this record does not establish. His Allentown Mack reasoning and Lockyer/Timken joins support the actual explanation. His different Mead approach requires no separate position in this confined disposition. |
+| Kennedy | Affirm; joins C1–C3 in full. | His New York partial dissent and Mead opinion require correct statutory analysis and actual agency reasons. Rehearing corrected affiliation and supplied the comparability reasons. No join treats an FTR as a capacity reservation. |
+| Souter | Affirm; joins C1–C3 in full. | His New York, Lockyer and Timken joins permit reasoned choice. His join retains the reasonable-ground exception and the distinction between preserved affiliation and unpreserved independence-as-comparability. |
+| Thomas | Affirm; joins C1–C3 in full. | His New York partial dissent and Allentown Mack join protect actual statutory duties and proof; Lockyer and Timken support this reasoned application. The rehearing exception remains express. |
+| Ginsburg | Affirm; joins C1–C3 in full. | Her Lockyer opinion and New York/Timken joins demand actual grounds and meaningful reconsideration. The concrete explanation supplies both; counsel's later rationale would not. |
+| Breyer | Affirm; joins C1–C3 in full. | His New York, Lockyer and Timken joins support workable implementation within enacted duties. Functional access and supported hedging satisfy that inquiry; an unexplained equivalence would not. |
+
+All eight support the same result, rule and preservation limit. No judgment-only vote or separate-writing function is established. No commitment changes, historical departure, new neutral premise or unresolved blocker results from reconciliation.

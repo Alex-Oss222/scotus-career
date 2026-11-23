@@ -1,0 +1,175 @@
+https://www.law.cornell.edu/supct/html/03-9685.ZS.html
+
+JOHNSON V. UNITED STATES
+LII
+Supreme Court
+JOHNSON V. UNITED STATES (03-9685)
+340 F.3d 1219, affirmed.
+Syllabus
+Opinion
+[ Souter ]Dissent
+[ Kennedy ]
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be
+released, as is being done in connection with this case, at the
+time the opinion is issued.
+The syllabus constitutes no part
+of the opinion of the Court but has been prepared by the
+Reporter of Decisions for the convenience of the reader.
+See
+United States v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+SUPREME COURT OF THE UNITED
+STATES
+JOHNSON v. UNITED STATES
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE ELEVENTH CIRCUIT
+No. 03—9685.Argued January 18,
+2005–Decided April 4, 2005
+Following petitioner Johnson’s 1994
+guilty plea on a federal drug charge, the District Court gave
+him an enhanced sentence as a career offender under the federal
+Sentencing Guidelines based on two prior Georgia drug
+convictions.  On appeal, Johnson argued for the first time that
+he should not have received an enhanced sentence because one of
+the predicate Georgia convictions was invalid, but the Eleventh
+Circuit affirmed his sentence and this Court denied certiorari.
+Two days later, the Antiterrorism and Effective Death Penalty
+Act of 1996 (AEDPA) went into effect, imposing, among other
+things, a 1-year statute of limitations on motions by prisoners
+seeking to modify their federal sentences.  The 1-year period
+runs from the latest of four alternative dates, the last of
+which is “the date on which the facts supporting the claim
+… could have been discovered through the exercise of due
+diligence,” 28
+U.S.C. § 2255 ¶6(4).  A fifth option supplied by
+the Courts of Appeals gave prisoners whose convictions became
+final before AEDPA a 1-year grace period running from that
+statute’s effective date.	On April 25, 1997, one year and
+three days after his pre-AEDPA federal conviction became final
+and just after the 1-year grace period expired, Johnson pro
+se filed a motion in the District Court for an extension of
+time to attack his federal sentence under §2255.  Finding
+the AEDPA period expired, the court denied the motion, but
+without prejudice to Johnson’s right to file a §2255
+motion claiming any alternative limitation period under the
+statute.  On February 6, 1998, Johnson filed a habeas petition
+in a Georgia state court, claiming the constitutional
+invalidity of his guilty pleas in seven cases, one of which was
+the basis for one of the convictions on which his federal
+sentence enhancement rested.  Some three months after the state
+court entered an order of vacatur reversing all seven
+convictions, Johnson filed pro se a §2255 motion to
+vacate his enhanced federal sentence in light of the
+state-court vacatur.  He claimed, in effect, that his motion
+was timely because the order vacating the state judgment
+constituted previously undiscoverable “facts supporting
+the claim” that triggered a renewed limitation period
+under §2255, ¶6(4).  Although Johnson asserted that
+lack of education excused him from acting more promptly, and
+that he had filed the state petition as soon as he could get
+help from an inmate law clerk, the District Court denied the
+motion as untimely.  The Eleventh Circuit affirmed, reasoning
+that the state-court vacatur order was not a “fact”
+discovered by Johnson under the fourth paragraph of the
+§2255 limitations rule, but was more properly classified
+as a legal proposition or a court action obtained at
+Johnson’s behest.
+Held: In a case in which a
+prisoner collaterally attacks his federal sentence on the
+ground that a state conviction used to enhance that sentence
+has since been vacated, §2255, ¶6(4)’s 1-year
+limitations period begins to run when the petitioner receives
+notice of the order vacating the prior conviction, provided
+that he has sought it with due diligence in state court after
+entry of judgment in the federal case in which the sentence was
+enhanced.  Pp. 6—15.
+(a) This Court
+agrees with Johnson that the state-court order vacating his
+prior conviction is a matter of “fact” supporting his
+§2255 claim, discovery of which triggers the refreshed
+1-year limitations period under the fourth paragraph.  By
+pegging that period to notice of the state order eliminating
+the predicate required for enhancement, which is almost always
+necessary and always sufficient for relief, Johnson’s
+argument improves on the Government’s proposal that the
+relevant “facts” are those on which Johnson based his
+challenge to the validity of his state convictions.  Moreover,
+Johnson’s argument is not vulnerable to the Eleventh
+Circuit’s point that an order vacating a conviction is
+legally expressive or operative language that may not be
+treated as a matter of fact within the statute’s meaning.
+This Court commonly speaks of the “fact of a prior
+conviction,” e.g., Apprendi v. New
+Jersey, 530 U.S.
+466, 490, and an order vacating a predicate conviction is
+spoken of as a fact just as sensibly as the order entering it.
+In either case, a claim of such a fact is subject to proof or
+disproof like any other factual issue.	Nevertheless,
+Johnson’s take on the statute does carry anomalies, one
+minor, one more serious.  It is strange to say that an order
+vacating a conviction has been “discovered,” the term
+used by paragraph four, and stranger still to speak about the
+date on which it could have been discovered with due diligence,
+when the fact happens to be the outcome of a proceeding in
+which the §2255 petitioner was the moving party.  The more
+serious problem is Johnson’s position that his §2255
+petition is timely under paragraph four as long as he brings it
+within a year of learning he succeeded in attacking the prior
+conviction, no matter how long he may have slumbered before
+starting the successful proceeding.  Neither anomaly is serious
+enough, however, to justify rejecting Johnson’s basic
+argument.  The Court’s job here is to find a sensible way
+to apply paragraph four when AEDPA’s drafters probably
+never thought about the present situation.  The answer to the
+question of how to implement the statutory mandate that a
+petitioner act with “due diligence” in discovering
+the crucial fact of a vacatur order that he himself seeks is
+that he take prompt action as soon as he is in a position to
+realize that he has an interest in challenging the prior
+conviction with its potential to enhance the later sentence.
+The particular time when the course of the later federal
+prosecution clearly shows that diligence is in order is the
+date of judgment.  After the entry of judgment, the §2255
+claim’s subject has come into being, the significance of
+inaction is clear, and very little litigation would be wasted,
+since most challenged federal convictions are in fact
+sustained.  Thus, from the date the District Court entered
+judgment in his federal case, Johnson was obliged to act
+diligently to obtain the state-court order vacating his
+predicate conviction.  Had he done so, the 1-year limitation
+period would have run from the date he received notice of that
+vacatur.  Pp. 6—14.
+(b) However,
+Johnson did not show due diligence in seeking the state-court
+order vacating his predicate conviction.  Although he knew the
+conviction subjected him to the enhancement, he failed to
+attack it by filing his state habeas petition until more than
+three years after entry of judgment in the federal case.
+Indeed, even if this Court moved the burden of diligence ahead
+to the date of finality of the federal conviction or to
+AEDPA’s effective date two days later, Johnson would still
+have delayed unreasonably, having waited over 21 months.
+Johnson has offered no explanation for this delay, beyond that
+he was acting pro se and lacked the sophistication to
+understand the procedures.  But the Court has never accepted
+pro se representation alone or procedural ignorance as
+an excuse for prolonged inattention when a statute’s clear
+policy calls for promptness.  On this record, Johnson fell far
+short of reasonable diligence in challenging the state
+conviction.  Since there is every reason to believe that prompt
+action would have produced a state vacatur order well over a
+year before he filed his §2255 petition, the fourth
+paragraph of the §2255 limitations period is unavailable,
+and Johnson does not suggest that his motion was timely under
+any other provision.  Pp. 14—15.
+340 F.3d 1219, affirmed.
+Souter, J., delivered
+the opinion of the Court, in which Rehnquist, C. J., and
+O’Connor, Thomas, and Breyer, JJ., joined.  Kennedy, J.,
+filed a dissenting opinion, in which Stevens, Scalia, and
+Ginsburg, JJ., joined.

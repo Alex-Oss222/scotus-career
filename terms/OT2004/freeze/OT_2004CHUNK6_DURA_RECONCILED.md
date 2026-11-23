@@ -1,0 +1,36 @@
+# Dura — reconciled Associate commitments
+
+This isolated reconciliation receives the frozen neutral packet, preflight, April supplement receipt, sanitized projection, April 19 entering law, prior public positions, frozen April commitments and historical comparator. It has received no private Chief Justice position and assigns no author. Original commitments remain unchanged: `OT_2004CHUNK6_APRIL_COMMITMENTS.md`, SHA-256 `f8a313219505c555f96db6409ca8f0fb54545e3bbef6cf40d923f301ad7c57c4`. Research cutoff: April 19, 2005. All eight Associates participate. This handoff is complete for this case and will also form part of the combined April reconciliation.
+
+## Comparator and reconciliation
+
+The complete historical writing in `../sources/chunk6/dura_ZO.txt` was read, with the separate Reports and lineup check retained in `SUPREME_COURT_SOURCE_RECEIPT.md`. All eight Associates historically joined reversal and remand, the insufficiency of purchase-price inflation alone and failure of the complaint under ordinary fair notice. The frozen commitments adopt those same components and need no change. The historical author's identity supplies no assignment.
+
+Entering Central Bank differs on the action's coverage of affirmative substantial assistance, but preserves underlying fraud, reliance, causation and recoverable loss. That changed actor-coverage premise does not justify a changed vote on loss in this primary-misstatement case. Historical descriptions implying abolition of private assistance liability must not enter the new opinion. Swierkiewicz supplies the existing unanimous distinction between modest pleading and evidentiary proof; no later pleading rule is available.
+
+## Reconciled propositions and remedy
+
+**D1 — Economic loss and causal connection.** A public-market purchaser does not establish the economic loss and loss causation needed for private section 10(b) damages merely by alleging or proving that the purchase price was artificially inflated by the challenged fraud. The plaintiff must establish an actual economic loss proximately caused by that fraud; the PSLRA's section 78u-4(b)(4) assigns the proof burden. A price inducement and the source of a compensable loss are distinct.
+
+At purchase the buyer receives a security bearing the prevailing market price; sale before the inflation dissipates can pass that inflation to another purchaser. A later price decline may reflect other economic, industry or issuer conditions. These possibilities do not foreclose an actual loss partly traceable to the earlier inflation, but defeat the claimed inference from inflation alone. Basic's reliance framework connects deception with the transaction, not every later loss with the deception. Central Bank preserves the actual loss and causation elements of the received action. The device representation and profitability statements concern separate causal histories; the earnings-related decline cannot simply be assigned to the device claim.
+
+**D2 — Even ordinary fair notice is missing.** Assuming for purposes of decision that ordinary Rule 8 supplies the full demand for pleading economic loss and loss causation, the complaint must give a short intelligible indication of the loss claimed and its causal connection to the challenged fraud. The reviewed device branch supplies only inflation and consequent damages, and therefore fails even that modest demand. The Court need not choose a separate heightened Rule 9 or PSLRA loss-causation requirement to reach that result. Swierkiewicz prevents transformation of trial proof into a pleading checklist; it does not cure the absence of a legally adequate causal-loss account.
+
+The principal contrary argument treats overpayment as an immediate diminution of wealth. It does not explain an actual causal loss in a security whose market value may still carry the inflation or may later change for unrelated reasons. The adopted response requires an account of loss and link, not a completed sale, a single formal corrective announcement or an econometric model. Those requirements are neither supplied by the statute nor necessary to reject this inflation-only theory.
+
+**D3 — Judgment and remand.** Reverse the Ninth Circuit's reinstatement of the reviewed device branch on its inflation-only rule and remand for ordinary proceedings. The existing complaint cannot proceed on that theory. Any proposed amendment receives the treatment the ordinary rules authorize: amendment is neither commanded nor forbidden, and a legally insufficient theory remains subject to dismissal. The separate profitability/scienter branch remains outside the granted loss-causation review. The remand supplies no new factual allegation linking the distinct announcements.
+
+## Exact Associate comparison
+
+| Justice | Frozen and reconciled commitment | Justice-specific confirmation and limits |
+|---|---|---|
+| Stevens | Reverse/remand; joins D1–D3 in full. | His Central Bank opinion retains actual causation and loss; his Swierkiewicz join preserves modest fair notice. The historical full join confirms these consistent positions. No completed-sale or single-disclosure condition. |
+| O'Connor | Reverse/remand; joins D1–D3 in full. | Her Swierkiewicz join separates allegations from trial evidence; Basic reliance cannot substitute for causal loss. The historical full join confirms. No unnecessary heightened pleading decision. |
+| Scalia | Reverse/remand; joins D1–D3 in full. | His Swierkiewicz opinion excludes invented pleading additions, while the enacted PSLRA loss burden remains real. The historical full join confirms. No reopening of Central Bank's settled actor coverage. |
+| Kennedy | Reverse/remand; joins D1–D3 in full. | His Swierkiewicz join and the statutory loss language separate fair notice from a legally insufficient theory. The historical full join confirms. No merging of device and profitability histories. |
+| Souter | Reverse/remand; joins D1–D3 in full. | His Central Bank and Swierkiewicz joins preserve a meaningful action with actual causal loss and modest pleading. The historical full join confirms. Multiple supported causal mechanisms remain possible. |
+| Thomas | Reverse/remand; joins D1–D3 in full. | His Swierkiewicz join keeps pleading in the Rules; section 78u-4(b)(4) distinguishes loss from transaction causation. The historical full join confirms. His views on implied-action coverage are not a new restriction here. |
+| Ginsburg | Reverse/remand; joins D1–D3 in full. | Her Central Bank and Swierkiewicz joins require both a real remedy and sufficient causal grounds. The historical full join confirms. Ordinary amendment remains subject to the actual procedural rules. |
+| Breyer | Reverse/remand; joins D1–D3 in full. | His Swierkiewicz join supports modest notice, and the asset-value/later-loss distinction gives effect to the enacted causal-loss burden. The historical full join confirms, without dictating authorship or compulsory economic proof. |
+
+All eight support the same disposition and complete propositions. No separate-writing function, changed commitment, material historical departure, new neutral premise or unresolved blocker results. The ordinary-rule premise must stay an assumption sufficient to decide this complaint, rather than become an exclusive new pleading standard for every securities case.

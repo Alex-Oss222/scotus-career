@@ -1,0 +1,5 @@
+# Exxon Mobil objective procedural supplement
+
+The published factual account identifies 28 U.S.C. §1330 as the jurisdictional provision invoked in the original federal complaint concerning the foreign state. The neutral packet's general reference to §1332 is background, not a statement that this complaint invoked diversity jurisdiction. SABIC's immunity defense is distinct from the appellate court's state-judgment jurisdictional rationale. The supplied question permits deciding that rationale while leaving actual immunity adjudication to the appropriate proceedings.
+
+Control source extraction: factual chronology in the complete published opinion, Cornell docket 03-1696, saved as `../sources/chunk6/exxon_ZO.txt`; independently checked against 544 U.S. 280, 289. This supplement reports only the invocation and procedural relationship. It imports no Supreme Court disposition, legal analysis, vote or authorship. Original pleadings were not independently recovered; published judicial recitation supports the procedural fact under Engine §14. No filing, grant or jurisdictional-statement verification condition is imposed.

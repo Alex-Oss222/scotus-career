@@ -1,0 +1,138 @@
+https://www.law.cornell.edu/supct/html/03-1407.ZS.html
+
+ROUSEY V. JACOWAY
+LII
+Supreme Court
+ROUSEY V. JACOWAY (03-1407)
+347 F.3d 689, reversed and remanded.
+Syllabus
+Opinion
+[ Thomas ]
+HTML version
+PDF versionHTML version
+PDF version
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be
+released, as is being done in connection with this case, at the
+time the opinion is issued.
+The syllabus constitutes no part
+of the opinion of the Court but has been prepared by the
+Reporter of Decisions for the convenience of the reader.
+See
+United States v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+SUPREME COURT OF THE UNITED
+STATES
+ROUSEY et ux. v. JACOWAY
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE EIGHTH CIRCUIT
+No. 03—1407.Argued December 1,
+2004–Decided April 4, 2005
+Several years after petitioners deposited
+distributions from their pension plans into Individual
+Retirement Accounts (IRAs), they filed a joint petition under
+Chapter 7 of the Bankruptcy Code.  They sought to shield
+portions of their IRAs from their creditors by claiming them as
+exempt from the bankruptcy estate under 11 U.S.C. §
+522(d)(10)(E), which provides, inter alia, that a
+debtor may withdraw from the estate his “right to receive
+… a payment under a stock bonus, pension, profitsharing,
+annuity, or similar plan or contract on account of …
+age.”  Respondent Jacoway, the Bankruptcy Trustee,
+objected to the Rouseys’ exemption and moved for turnover
+of the IRAs to her.  The Bankruptcy Court sustained her
+objection and granted her motion, and the Bankruptcy Appellate
+Panel (BAP) agreed.  The Eighth Circuit affirmed, concluding
+that, even if the Rouseys’ IRAs were “similar plans
+or contracts” to the plans specified in
+§522(d)(10)(E), their IRAs gave them no right to receive
+payment “on account of age,” but were instead savings
+accounts readily accessible at any time for any purpose.
+Held: The Rouseys can exempt IRA
+assets from the bankruptcy estate because the IRAs fulfill both
+of the §522(d)(10)(E) requirements at issue here–they
+confer a right to receive payment on account of age and they
+are similar plans or contracts to those enumerated in
+§522(d)(10)(E).  Pp. 4—14.
+(a) The Court
+reaffirms its suggestion in Patterson v. Shumate,
+504 U.S. 753,
+762—763, that IRAs like the Rouseys’ can be exempted
+from the bankruptcy estate pursuant to §522(d)(10)(E).
+Pp. 4—5.
+(b) The
+Rouseys’ IRAs provide a right to payment “on account
+of … age” within §522(d)(10)(E)’s meaning.
+The quoted phrase requires that the right to receive payment be
+“because of” age.  Bank of America Nat. Trust and
+Sav. Assn. v. 203 North LaSalle Street Partnership,
+526 U.S. 434,
+450—451.  This meaning comports with the common,
+dictionary understanding of “on account of,” and
+§522(d)(10)(E)’s context does not suggest another
+meaning.  The statutes governing IRAs persuade the Court that
+Jacoway is mistaken in arguing that there is no causal
+connection between that right and age or any other factor
+because the Rouseys’ IRAs provide a right to payment on
+demand.  Their right to receive payment of the entire balance
+is not in dispute.  Because their accounts qualify as IRAs
+under 26 U.S.C. §
+408(a), they have a nonforfeitable right to the balance
+held in those accounts, §408(a)(4).  That right is
+restricted by a 10 percent tax penalty on any withdrawal made
+before age 59, §72(t).  Contrary to
+Jacoway’s contention, this 10 percent penalty is
+substantial.  It applies proportionally to any amounts
+withdrawn and prevents access to the 10 percent that the
+Rouseys would forfeit should they withdraw early.  It therefore
+effectively prevents access to the entire balance in their IRAs
+and limits their right to “payment” of the balance.
+And because this condition is removed when the accountholder
+turns age 59, the Rouseys’ right to
+the balance of their IRAs is a right to payment “on
+account of” age.  Pp. 5—8.
+(c) The
+Rouseys’ IRAs are “similar plan[s] or
+contract[s]” to the “stock bonus, pension,
+profitsharing, [or] annuity … plan[s]” listed in
+§522(d)(10)(E).  To be “similar,” an IRA must be
+like, though not identical to, the listed plans or contracts,
+and consequently must share characteristics common to them.
+Because the Bankruptcy Code does not define the listed plans,
+the Court looks to their ordinary meaning.  E.g., United
+States v. LaBonte, 520 U.S. 751, 757.
+Dictionary definitions reveal that, although the listed plans
+are dissimilar to each other in some respects, their common
+feature is that they provide income that substitutes for wages
+earned as salary or hourly compensation.  That the income the
+Rouseys will derive from their IRAs is likewise income that
+substitutes for wages lost upon retirement is demonstrated by
+the facts that (1) regulations require distribution to begin no
+later than the calendar year after the year the accountholder
+turns 70; (2) taxation of IRA money is
+deferred until the year in which it is distributed; (3)
+withdrawals before age 59 are subject to
+the 10 percent penalty; and (4) failure to take the requisite
+minimum distributions results in a 50 percent tax penalty on
+funds improperly remaining in the account.  The Court rejects
+Jacoway’s argument that IRAs cannot be similar plans or
+contracts because the Rouseys have complete access to them.
+This argument is premised on her view that the 10 percent
+penalty is modest, a premise with which the Court does not
+agree.	The Court also rejects Jacoway’s contention that
+the availability of IRA withdrawals exempt from the early
+withdrawal penalty renders the Rouseys’ IRAs more like
+savings accounts.  Sections 522(d)(10)(E)(i) through
+(iii)–which preclude the debtor from using the
+§522(d)(10)(E) exemption if an insider established his
+plan or contract; the right to receive payment is on account of
+age or length of service; and the plan does not qualify under
+specified Internal Revenue Code sections, including the section
+governing IRAs–not only suggest generally that the
+Rouseys’ IRAs are exempt, but also support the
+Court’s conclusion that they are “similar plan[s] or
+contract[s]” under §522(d)(10)(E).
+Pp. 8—14.
+347 F.3d 689, reversed and remanded.
+Thomas, J., delivered
+the opinion for a unanimous Court.

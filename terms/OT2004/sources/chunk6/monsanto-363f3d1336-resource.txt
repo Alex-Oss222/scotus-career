@@ -1,0 +1,346 @@
+363 F.3d 1336
+363 F.3d 1336
+MONSANTO COMPANY, Plaintiff-Appellee,
+v.
+Homan McFARLING, Defendant-Appellant.
+No. 03-1177.
+No. 03-1228.
+United States Court of Appeals, Federal Circuit.
+DECIDED: April 9, 2004.
+Seth P. Waxman, Wilmer, Cutler & Pickering, of Washington, DC, argued for plaintiff-appellee. Also on the brief was Joseph C. Orlet, Husch & Eppenberger, LLC, of St. Louis, MO.
+Jim Waide, Waide & Associates, P.A., of Tupelo, MS, argued for defendant-appellant.
+Before LOURIE, Circuit Judge, PLAGER, Senior Circuit Judge, and CLEVENGER, Circuit Judge.
+CLEVENGER, Circuit Judge.
+1
+The United States District Court for the Eastern District of Missouri entered summary judgment against defendant Homan McFarling and in favor of the Monsanto Company ("Monsanto") under Federal Rule of Civil Procedure 54(b) on some, but not all, of the claims being litigated.
+See Monsanto Co. v. McFarling,
+No. 4:00CV84 CDP, 2002 WL 32069634 (E.D.Mo. Nov. 5, 2002) (granting final judgment under Rule 54(b)); (E.D.Mo. Nov. 15, 2002) (granting Monsanto's motions for summary judgment). The district court held that, when McFarling replanted some of Monsanto's patented ROUNDUP READY® soybeans that he had saved from his prior year's crop, McFarling breached the Technology Agreement that he had signed as a condition of his purchase of the patented seeds. The district court also held that McFarling had failed to demonstrate a genuine issue of material fact that prevented entry of summary judgment on any of his counterclaims or his defenses to Monsanto's breach-of-contract claim. Finally, the district court held that a liquidated damages provision in the Technology Agreement was valid and enforceable under Missouri law and entered a judgment in the amount of $780,000.00. McFarling appeals the district court's rulings on several of his counterclaims and defenses, as well as its ruling on the contractual damages provision. We affirm the district court on the counterclaims and defenses, but we vacate the district court's judgment as it relates to the damages provision and remand for a determination of Monsanto's actual damages.
+2
+* Monsanto manufactures ROUNDUP® herbicide. ROUNDUP® contains glyphosate, a chemical that indiscriminately kills vegetation by inhibiting the metabolic activity of a particular enzyme, 5-enolpyruvyl-shikimate-3 phosphate synthase ("EPSPS"). EPSPS is necessary for the conversion of sugars into amino acids — and thus for growth — in many plants and weeds.
+3
+Monsanto also markets ROUNDUP READY® genetic-modification technology. In soybean seeds, the ROUNDUP READY® technology operates by inserting the gene sequence for a variant of EPSPS that is not affected by the presence of glyphosate but that still performs the sugar-conversion function required for cell growth. Thus, ROUNDUP READY® soybean seeds produce both a "natural" version of EPSPS that is rendered ineffective in the presence of the glyphosate in ROUNDUP® herbicide, and a genetically modified version of EPSPS that permits the soybean seeds to grow nonetheless. ROUNDUP®, or other glyphosate-based herbicides, can thus be sprayed over the top of an entire field, killing the weeds without harming the ROUNDUP READY® soybeans.
+4
+The Monsanto Technology Agreement in dispute in this case lists six patents related to the various seeds that are licensed by the agreement, but Monsanto has asserted infringement in this case only under two patents that read on aspects of the use of the ROUNDUP READY® technology in soybeans. United States Patent No. 5,633,435 ("the '435 patent") relates to the gene encoding the modified EPSPS enzyme, and sweepingly claims,
+inter alia,
+the "isolated DNA molecule" encoding it, '435 patent, claim 1; "[a] glyphosate-tolerant plant cell comprising" that DNA molecule,
+id.,
+claim 24; "[a] glyphosate-tolerane [sic] plant comprising" that plant cell,
+id.,
+claim 28; "[a] seed of a glyphosate-tolerant plant,"
+id.,
+claim 79; a particular "transgenic soybean plant,"
+id.,
+claim 86; and "[a] method of producing genetically transformed plants which are tolerant toward glyphosate herbicide,"
+id.,
+claim 15. United States Patent No. 5,352,605 ("the '605 patent") relates to the use of a particular promoter in genetically modified plant cells. The '605 patent claims,
+inter alia,
+DNA sequences and plant cells containing the promoter. A promoter sequence is a DNA sequence located in proximity to the DNA sequence that encodes a protein and that, in part, tells the cellular machinery how much of the protein to make.
+5
+Monsanto licenses its proprietary ROUNDUP READY® technology through two interrelated licensing schemes. First, it licenses the patented gene to seed companies that manufacture the glyphosate-tolerant seeds that are sold to farmers. Under this license, seed companies gain the right to insert the genetic trait into the germplasm of their own seeds (which can differ from seed company to seed company), and Monsanto receives the right to a royalty or "technology fee" of $6.50 for every 50-pound bag of seed containing the ROUNDUP READY® technology sold by the seed company. Monsanto also owns several subsidiary seed companies that comprise approximately 20 percent of the market for ROUNDUP READY® soybeans.
+6
+Second, Monsanto requires that seed companies execute licenses, rather than conduct unconditional sales, with their farmer customers. The 1998 version of this "Monsanto Technology Agreement" (the "Technology Agreement") between Monsanto and the soybean farmers using ROUNDUP READY® soybeans places several conditions on the soybean farmers' use of the licensed soybeans. In exchange for the "[o]pportunity to purchase and plant seed containing" the ROUNDUP READY® technology, soybean farmers agree,
+inter alia:
+7
+To use the seed containing Monsanto gene technologies for planting a commercial crop only in a single season.
+8
+To not supply any of this seed to any other person or entity for planting, and to not save any crop produced from this seed for replanting, or supply saved seed to anyone for replanting.
+9
+To not use this seed or provide it to anyone for crop breeding, research, generation of herbicide registration data or seed production.
+10
+The Technology Agreement also contains a clause specifying damages in the event of breach by the farmer:
+11
+In the event that the Grower saves, supplies, sells or acquires seed for replant in violation of this Agreement and license restriction, in addition to other remedies available to the technology provider(s), the Grower agrees that damages will include a claim for liquidated damages, which will be based on 120 times the applicable Technology Fee.
+II
+12
+Homan McFarling operates a 5000-acre farm in Pontotoc County, Mississippi. In 1998, McFarling executed the Technology Agreement in connection with the license of 1000 bags of ROUNDUP READY® soybean seed. McFarling concedes that he saved 1500 bushels of seed from his 1998 crop, enough to plant approximately 1500 acres, and that he replanted them in 1999. He subsequently saved 3075 bags of soybeans from his 1999 crop, replanting them in 2000.
+13
+Soybeans destined for replanting are apparently cleaned after harvest. When McFarling sent his seeds saved from the 1998 season to a third party for cleaning, Monsanto had some samples taken, had the genetic makeup of the seeds tested at Mississippi State University, and thus learned that McFarling was saving ROUNDUP READY® seeds.
+III
+14
+In January 2000, Monsanto filed suit against McFarling, alleging,
+inter alia,
+infringement of the '435 and '605 patents and breach of the Technology Agreement, and seeking a preliminary injunction prohibiting McFarling from "planting, transferring or selling the infringing articles to a third party." In his answer, McFarling raised affirmative defenses (styled alternatively as counterclaims when possible) both to liability — including, inter alia, violations of the Plant Variety Protection Act ("PVPA"), 84 Stat. 1542, as amended, 7 U.S.C. § 2321 et seq., the federal antitrust laws, the patent misuse doctrine, and the patent exhaustion and first sale doctrines — and to damages as calculated under the 120 multiplier in the Technology Agreement. He did not, however, challenge the validity of Monsanto's patents. Because McFarling's only connection with Missouri was a forum selection clause in the Technology Agreement, McFarling also brought a motion to dismiss based on a lack of personal jurisdiction.
+15
+The district court held that the forum selection clause was valid and entered a preliminary injunction against McFarling. On appeal, we affirmed the district court on both issues.
+See Monsanto Co. v. McFarling,
+302 F.3d 1291, 1296, 1299-300 (Fed.Cir.2002) ("
+McFarling I
+"). Addressing Monsanto's likelihood of success on the merits, we held that the district court did not err in finding that McFarling had not demonstrated a reasonable likelihood of success on his affirmative defenses.
+Id.
+at 1297-99.
+16
+Back in the district court, Monsanto moved for summary judgment on the infringement claim under the '605 patent, the breach of the Technology Agreement claim, and all of McFarling's affirmative defenses. The district court granted summary judgment in favor of Monsanto on all of McFarling's defenses as well as on liability with respect to Monsanto's '605 patent infringement claim and the Technology Agreement claim. On damages, however, the district court denied Monsanto's summary judgment motion. It left the damages issue regarding infringement of the '605 patent for trial. Additionally, although it held the liquidated damages clause in the Technology Agreement to be valid and enforceable (provided the 120 multiplier was applied to the number of bags of seed purchased rather than the number replanted), it concluded that there was insufficient evidence of the number of bags purchased by McFarling in 1998 to enter judgment on damages on the breach-of-contract claim. After McFarling stipulated that he purchased 1000 bags of ROUNDUP READY® soybean seed in 1998, the district court entered final judgment pursuant to Federal Rule of Civil Procedure 54(b) on Monsanto's breach-of-contract claim only in the amount of $780,000.00 (120 × $6.50 × 1000), and against McFarling on his counterclaims.
+17
+In the district court, Monsanto had argued that the 120 multiplier in the liquidated damages clause should be interpreted to produce damages of 120 times the technology fee times the number of bags of seed replanted by McFarling. The district court rejected that formula, reasoning that it would constitute an unlawful penalty because it simply imposes a multiple of 120 times Monsanto's actual damages. To avoid that result and sustain the lawfulness of the liquidated damages clause, the district court fashioned a formula that multiplies 120 times the licensing fee times the number of bags of seed purchased.
+IV
+18
+McFarling appealed the district court's final judgment to us, and we have jurisdiction to hear his appeal pursuant to 28 U.S.C. § 1295(a)(1). McFarling argues that the district court's grant of summary judgment on the breach-of-contract claim was erroneous on the following issues: (1) his patent-misuse defense, (2) his antitrust counterclaim, (3) his defense under the PVPA, and (4) his defense that the 120 multiplier in the liquidated damages provision of the Technology Agreement is a penalty clause that is unenforceable under Missouri law. We address each in turn below.
+19
+We review a grant of summary judgment by the district court without deference.
+Combined Sys., Inc. v. Def. Tech. Corp. of Am.,
+350 F.3d 1207, 1209 (Fed. Cir.2003). "Summary judgment is appropriate if, drawing all factual inferences in favor of the non-movant, there is no genuine issue of material fact and the movant is entitled to judgment as a matter of law."
+Id.
+V
+20
+McFarling argues that Monsanto has committed patent misuse because Monsanto has impermissibly tied an unpatented product to a patented product. In McFarling's words, "[b]y prohibiting seed-saving, Monsanto has extended its patent on the gene technology to include an unpatented product — the germplasm — or God-made soybean seed which is not within the terms of the patent."
+21
+The policy of the patent misuse doctrine is "to prevent a patentee from using the patent to obtain market benefit beyond that which inures in the statutory patent right."
+Mallinckrodt, Inc. v. Medipart, Inc.,
+976 F.2d 700, 704 (Fed.Cir. 1992). Therefore, in evaluating a patent-misuse defense, "[t]he key inquiry is whether, by imposing conditions that derive their force from the patent, the patentee has impermissibly broadened the scope of the patent grant with anticompetitive effect."
+C.R. Bard, Inc. v. M3 Sys., Inc.,
+157 F.3d 1340, 1372 (Fed.Cir.1998);
+see also Va. Panel Corp. v. MAC Panel Co.,
+133 F.3d 860, 868 (Fed.Cir.1997);
+Mallinckrodt,
+976 F.2d at 708;
+Windsurfing Int'l, Inc. v. AMF, Inc.,
+782 F.2d 995, 1001 (Fed.Cir.1986). In the cases in which the restriction is reasonably within the patent grant, the patent misuse defense can never succeed.
+See Gen. Talking Pictures Corp. v. W. Elec. Co.,
+305 U.S. 124, 127, 59 S.Ct. 116, 83 L.Ed. 81 (1938);
+B. Braun Med., Inc. v. Abbott Labs.,
+124 F.3d 1419, 1426-27 (Fed.Cir.1997);
+Mallinckrodt,
+976 F.2d at 708. In cases in which a condition controlling the use of a patented invention extends beyond the patentee's statutory right to exclude, however, either a per se rule of patent misuse,
+see Va. Panel,
+133 F.3d at 869 (discussing specific practices constituting per se misuse), or a rule of reason analysis,
+see Mallinckrodt,
+976 F.2d at 708-09;
+Windsurfing Int'l,
+782 F.2d at 1001-02 ("To sustain a misuse defense involving a licensing arrangement not held to have been per se anticompetitive by the Supreme Court, a factual determination must reveal that the overall effect of the license tends to restrain competition unlawfully in an appropriately defined relevant market."), must be applied.
+22
+Tying can constitute patent misuse: A patent licensor who conditions the license on a patent licensee's purchase of an unpatented material for use in the invention may, under certain conditions, be impermissibly extending the scope of the subject matter encompassed by the patent grant.
+See Carbice Corp. of Am. v. Am. Patents Dev. Corp.,
+283 U.S. 27, 30-31, 51 S.Ct. 334, 75 L.Ed. 819 (1931);
+Senza-Gel Corp. v. Seiffhart,
+803 F.2d 661, 665 (Fed. Cir.1986).
+23
+We need not plumb the complexities of tying as misuse of a patent, however, to determine that the district court correctly granted summary judgment for Monsanto. McFarling does not raise a typical tying allegation, and the mere recitation of the word "tying" is not sufficient to state a patent misuse defense. McFarling does not argue that he cannot purchase soybean germplasm without the genetic trait that brings the soybean within the ambit of Monsanto's patent. In fact, a market for such unmodified soybeans exists.
+See McFarling I,
+302 F.3d at 1298. Neither does McFarling argue that he sought (or is capable of performing under) the type of license granted to the seed companies to purchase, make or use the patented gene sequence prior to its insertion into the seed.
+24
+McFarling's "tying" argument instead centers on his desire to replant the entire seed, including the genetic modifications, and on Monsanto's refusal to grant him permission to do so. McFarling proposes that Monsanto could "untie" the seed and the trait by permitting the farmer to save and replant ROUNDUP READY® seed each year, provided the farmer still pays directly to Monsanto the required technology fee, rather than requiring a farmer to purchase both the seed and the genetic technology together at the beginning of each growing season. By suggesting that he should be allowed to pay the technology fee in conjunction with replanting of the second-generation soybeans, the closest McFarling comes to alleging a tying argument is a suggestion that Monsanto has tied together the legal right to exclude granted by a patent and the entire, physical patented product (or combination of germplasm and trait). At its simplest, McFarling effectively argues in different words that he should be granted a compulsory license to use the patent rights in conjunction with the second-generation ROUNDUP READY® soybeans in his possession after harvest. We decline to hold that Monsanto's raw exercise of its right to exclude from the patented invention by itself is a "tying" arrangement that exceeds the scope of the patent grant.
+25
+What perhaps truly irks McFarling is that the license controls what McFarling can do with second-generation seeds — the seeds that McFarling "made" using the seeds that he acquired under a strict license. McFarling argues that the prohibition in the Technology Agreement on "sav[ing] any crop produced from this seed for replanting" constitutes patent misuse; he does not suggest that the prohibitions on "supply[ing] any of this seed to any other person or entity for planting" and on "supply[ing] saved seed to anyone for replanting" should render the patent unenforceable. Nonetheless, Monsanto tries rather unconvincingly to paint its restrictions in the Technology Agreement as permissible field-of-use restrictions on the first-generation seeds.
+Cf. B. Braun,
+124 F.3d at 1426 ("[F]ield of use restrictions... are generally upheld."). Monsanto argues that it "may license a grower to `use' its patented ROUNDUP READY® biotechnology to grow a commercial crop, but decline to license a grower to `make' patented seed for use or sale as a crop seed." Based on the record before us, McFarling plants and grows the first-generation seed in an identical fashion whether he intends to sell the second-generation seed as a commercial crop for consumption or whether he intends to replant it. Thus, the Technology Agreement does not impose a restriction on the use of the product purchased under license but rather imposes a restriction on the use of the goods made by the licensed product.
+26
+Our case law has not addressed in general terms the status of such restrictions placed on goods made by, yet not incorporating, the licensed good under the patent misuse doctrine. However, the Technology Agreement presents a unique set of facts in which licensing restrictions on the use of goods produced by the licensed product are not beyond the scope of the patent grant at issue: The licensed and patented product (the first-generation seeds) and the good made by the licensed product (the second-generation seeds) are nearly identical copies. Thus, given that we must presume that Monsanto's '435 patent reads on the first-generation seeds,
+1
+it also reads on the second-generation seeds.
+See
+'435 patent, col. 165, 1. 12 (claiming "[a] seed of a glyphosate-tolerant plant"). Because the '435 patent would read on all generations of soybeans produced, we hold that the restrictions in the Technology Agreement prohibiting the replanting of the second generation of ROUNDUP READY® soybeans do not extend Monsanto's rights under the patent statute.
+VI
+27
+McFarling next repackages his tying patent-misuse defense as a tying antitrust counterclaim. However, because we have found McFarling's allegations insufficient to present a genuine issue of material fact concerning whether Monsanto's licensing restrictions went beyond the boundaries of its patent grant, McFarling's antitrust counterclaim also fails.
+Cf. In re Indep. Serv. Orgs. Antitrust Litig.,
+203 F.3d 1322, 1327-28 (Fed.Cir.1999) (concluding that an antitrust claim "does nothing to limit the right of the patentee to refuse to sell or license in markets within the scope of the statutory patent grant");
+Va. Panel,
+133 F.3d at 873 ("[B]ecause we determine that the conduct underlying the allegations of misuse does not amount to patent misuse, the same conduct cannot support a judgment that [the patentee's/licensor's] conduct violated the Sherman Act."). In this instance, the anticompetitive effect of which McFarling complains is part and parcel of the patent system's role in creating incentives for potential inventors.
+28
+McFarling also argues that "the district court improperly assumed the role of the fact finder and decided that the patented technology (the patented `trait') and the seed are not two separate markets" without examining consumer demand for either. We agree with McFarling that, for antitrust purposes, whether there are two distinct products for tying purposes is a question of fact usually determined by examining consumer demand.
+See Jefferson Parish Hosp. Dist. No. 2 v. Hyde,
+466 U.S. 2, 19, 104 S.Ct. 1551, 80 L.Ed.2d 2 (1984) (analyzing the existence of separate markets based "on the character of the demand for the two items"). Furthermore, we agree that the district court failed to consider consumer demand. However, the district court's finding concerning the unified nature of the market for the trait and the seed is not relevant to our holding, so we expressly decline to reach or review it. McFarling is not alleging that he is unable to, or even that he desires to, purchase a "natural" soybean seed and the ROUNDUP READY® genetic trait as distinct items; he alleges only that Monsanto refuses to grant him a license to use the second-generation genetically modified seeds in his possession after harvest in his preferred manner.
+VII
+29
+McFarling asks that we reconsider our ruling in
+McFarling I
+that the Plant Variety Protection Act does not demonstrate a congressional intent to preempt and invalidate all prohibitions on seed saving contained in utility-patent licenses.
+See McFarling I,
+302 F.3d at 1299 ("[T]he right to save seed of plants registered under the PVPA does not impart the right to save seed of plants patented under the Patent Act."). We remain unpersuaded by McFarling's arguments.
+30
+In
+J.E.M. AG Supply, Inc. v. Pioneer Hi-Bred International, Inc.,
+534 U.S. 124, 122 S.Ct. 593, 151 L.Ed.2d 508 (2001), the Supreme Court held that plants were subject matter eligible for utility-patent protection under 35 U.S.C. § 101,
+J.E.M. AG Supply,
+534 U.S. at 130-32, 122 S.Ct. 593, and that hybrid seeds also eligible for protection under the PVPA were not an exception to that general rule,
+id.
+at 138-44, 122 S.Ct. 593. In considering whether Congress's enactment of the PVPA implicitly altered the scope of patentable subject matter under section 101, the Court recognized that "there are no exemptions for... saving seed under a utility patent,"
+id.
+at 142, 122 S.Ct. 593, as there is in the PVPA,
+see
+7 U.S.C. § 2543 (2000), yet it held nonetheless that the two statutory schemes could "mutually coexist,"
+J.E.M. AG Supply,
+534 U.S. at 143, 122 S.Ct. 593 (internal quotation marks omitted). In light of the Supreme Court's interpretation of Congress's intent, we conclude that Congress did not intend to prohibit owners of utility patents from enforcing seed-saving prohibitions in their licenses.
+VIII
+31
+Finally, McFarling argues that the district court erred in holding that the 120 multiplier on the technology fee in the Technology Agreement was a valid and enforceable liquidated damages clause under Missouri law. Upon independent review,
+see Robert Blond Meat Co. v. Eisenberg,
+273 S.W.2d 297, 299 (Mo.1954) (holding that the validity of a liquidated damages clause is a question of law and reviewing it without deference), we agree with McFarling that the liquidated damages clause in the Technology Agreement is invalid and unenforceable under Missouri law as it applies to McFarling's breach of replanting of saved seed.
+32
+* Missouri law distinguishes between liquidated damages clauses, which are valid and enforceable, and penalty clauses, which are neither.
+See Diffley v. Royal Papers, Inc.,
+948 S.W.2d 244, 246 (Mo.Ct. App.1997);
+Paragon Group, Inc. v. Ampleman,
+878 S.W.2d 878, 880-81 (Mo.Ct.App. 1994);
+Burst v. R.W. Beal & Co.,
+771 S.W.2d 87, 90 (Mo.Ct.App.1989);
+Grand Bissell Towers, Inc. v. Joan Gagnon Enters., Inc.,
+657 S.W.2d 378, 379 (Mo.Ct. App.1983).
+33
+"For a damage clause to be valid as fixing liquidated damages: (1) the amount fixed as damages must be a reasonable forecast for the harm caused by the breach; and (2) the harm must be of a kind difficult to accurately estimate."
+Diffley,
+948 S.W.2d at 246;
+see also Paragon
+Group,
+878 S.W.2d at 881 (citing the Restatement (First) of Contracts and the Restatement (Second) of Contracts as the sources of the Missouri rule);
+Grand Bissell Towers,
+657 S.W.2d at 379 (same). The two prongs of this conjunctive test are interrelated. "If the difficulty of proof of loss is great, considerable latitude is allowed in the approximation of anticipated or actual harm."
+Luna v. Smith,
+861 S.W.2d 775, 779 (Mo.Ct.App.1993) (quoting Restatement (Second) of Contracts § 356, cmt. b);
+see also Paragon Group,
+878 S.W.2d at 881 ("Where the difficulty of [measuring] loss is great, significant latitude is allowed in setting the amount of anticipated damages."). "The courts tend to construe such [contractual damages] stipulations, if doubtful, as punitive in nature."
+Wilt v. Waterfield,
+273 S.W.2d 290, 295 (Mo.1954).
+34
+To survive the first prong of the Missouri test, a contractual damages provision "must be fixed on the basis of compensation."
+Diffley,
+948 S.W.2d at 247. The reasonableness of the contractual damages provision is measured relative to an estimation, made at the time of contracting, of the compensation that would be required to negate the harm to the nonbreaching party in the event of breach.
+2
+See Diffley,
+948 S.W.2d at 246 (discussing "a reasonable forecast for the harm");
+Burst,
+771 S.W.2d at 90 ("[T]he damages fixed ... must not be unreasonably disproportionate to the amount of harm anticipated when the contract was made.");
+Grand Bissell Towers,
+657 S.W.2d at 379 ("These rules requiring some reasonable relation between the damages agreed upon and those expected to result from the breach are not rules about actual damages.");
+see also Info. Sys. & Networks Corp. v. Kansas City,
+147 F.3d 711, 714 (8th Cir.1998) (interpreting Missouri law to require that "[t]he validity of the liquidated damages clause must be viewed at the time the contract was executed"). In contrast, penalty clauses are impermissible because they are "designed primarily to compel performance" at the time of contracting.
+Wilt,
+273 S.W.2d at 295;
+see also Diffley,
+948 S.W.2d at 247; Restatement (Second) of Contracts § 356, cmt. a (1981) (noting that the "central objective behind the system of contract remedies is compensatory, not punitive," and that liquidated damages provisions may not "disregard the principle of compensation").
+35
+For a contractual damages provision to survive the second prong of the Missouri test, it must be anticipated that the loss will be difficult to measure at the time breach is discovered; difficulty in measuring the extent of damages at the time of contracting is not sufficient. In
+Luna,
+for example, a Missouri court of appeals looked to the "determination that the amount of damages
+actually sustained by defendants
+would have been difficult to prove" in order to determine that proof of loss was difficult and that the liquidated damages clause was valid. 861 S.W.2d at 780 (emphasis added). Likewise, in
+Paragon Group,
+a Missouri court of appeals relied on the principle that "
+actual damages
+for breach
+of real estate sales contracts are uncertain and difficult to prove" to determine that proof of loss was difficult to determine. 878 S.W.2d at 881 (emphasis added);
+see also Carmel v. Dieckmann,
+617 S.W.2d 459, 461 (Mo.Ct.App.1981) ("Liquidated damage provisions in real estate contracts are frequently utilized because the actual damages in an action for breach are `uncertain in amount and difficult to ascertain or prove.'" (quoting
+Stein v. Bruce,
+366 S.W.2d 732, 736-37 (Mo.App. 1963))). The harm that will flow from a breach is difficult to estimate at the time of contracting in nearly all contracts requiring ongoing performance, because the time of breach is not known at the time of contracting. Only by measuring the difficulty of proving loss at the time of the discovery of the breach is the second prong of the Missouri test interpreted as something other than a truism.
+36
+One long-standing litmus test that the Missouri courts use to determine whether a contractual provision determining damages is a reasonable estimate of the anticipated harm is what we term the "anti-one-size rule":
+37
+[A] court may consider whether the agreement contains various stipulations of various degrees of importance, the breaches of which would be easy to calculate in damages as to some and difficult as to others, in which event the sum specified would be construed as a penalty and not as liquidated damages "even though the parties in express terms have declared the contrary."
+38
+Wilt,
+273 S.W.2d at 295 (quoting
+Sylvester Watts Smyth Realty Co. v. Am. Sur. Co. of N.Y.,
+292 Mo. 423, 238 S.W. 494, 499 (1921));
+see also Plymouth Sec. Co. v. Johnson,
+335 S.W.2d 142, 152 (Mo.1960) ("Where a contract of sale contains several distinct covenants of various degrees of importance and the damages for breaches would be easy to calculate as to some of them and difficult as to others, the specification of a sum of money or definite property as damages for breach of the contract will be construed as a penalty designed to insure performance, even though the parties have expressly declared the provision to be one for liquidated damages.");
+Morse v. Rathburn,
+42 Mo. 594, 601 (1868) ("[W]hen the agreement contains several distinct covenants, on which there may be divers breaches, some of an uncertain nature and others certain, with one entire sum to be paid on breach of performance, then the contract will be treated as one for a penalty, and not for liquidated damages.");
+Jennings v. First Nat'l Bank of Kan. City,
+225 Mo.App. 232, 30 S.W.2d 1049, 1054 (1930).
+39
+This fixed rule of Missouri contract law is not unusual. Variations on this anti-one-size rule are applied in a number of jurisdictions.
+See, e.g., United States v. J.C. Martin Lumber Co.,
+246 F.2d 58, 62 (5th Cir.1957) (applying Mississippi law) (labeling a contractual damages clause as a penalty clause when it provides for double payment and "without discrimination, provides the same penalty for leaving marked trees uncut as for cutting unmarked tress, and, as to trees injured through carelessness, provides the same penalty without regard to the extent in each case of the injury"); 22 Am.Jur.2d Damages § 709 (2003) (citing cases).
+40
+The anti-one-size rule is an intuitive corollary of the two-prong Missouri test that applies when a single formula for liquidated damages applies to multiple provisions in the contract. The rule highlights that both prongs of the test must be satisfied for each contract provision or each type of breach to which the contractual damages provision pertains. It reminds us that the validity of a damages clause must be measured on a provision-by-provision basis; the fact that the harm flowing from the breach of one provision may be difficult to measure does not validate a contractual damages provision as it applies to the breach of another provision. Additionally, the anti-one-size rule provides a rule of thumb assay to determine if a contractual damages provision was fixed on the basis of compensation: If the same formula is used to calculate damages for breaches of two different provisions that would be expected to require two substantially different methods of compensation, then the contract on its face admits that the parties did not view the specified damages as compensatory. In some cases, this evidence intrinsic to the contract may provide a more reliable measure of the parties' intent than a hindsight comparison of the sum specified in the contract and the damage award required to compensate the nonbreaching party for the damages actually sustained.
+B
+41
+We conclude that the 120 multiplier in the Technology Agreement is not valid under Missouri law. It was not, at the time of contracting, a reasonable estimate of the harm that Monsanto would likely suffer in the event that McFarling breached the contractual prohibition on saving ROUNDUP READY® soybeans.
+42
+Monsanto's principal argument to the contrary is that ROUNDUP READY® soybeans can self-replicate at an exponential rate. One bag of soybean seed can yield 36 bags of soybean seed to save for the following season, although this figure may vary with different types of crops, seed varieties, geographic growing locations, planting rates, cultural practices, and growing conditions, among other factors. Based on this figure together with assumptions of infinite acreage on which to plant and no commercial sale of any soybeans, a farmer planting one bag of soybeans in year one would reap 36 bags to replant in year two, 1296 bags to replant in year three, and 46,656 bags to replant in year four. This simple narrative is forceful insofar it illustrates the potential magnitude of the harm that Monsanto could suffer from losing control of its proprietary technology. However, an illustration that breach of the Technology Agreement under particular conditions may be reasonably expected to lead to harm of a great magnitude is not sufficient to uphold the validity of the damages clause in its entirety. The damages clause is not valid as applied to the provision of the Technology Agreement that prohibits saving soybean seed and that was breached by McFarling. In other words, the 120 multiplier does not pass muster under Missouri's anti-one-size rule.
+43
+* The 120 multiplier in the Technology Agreement violates the anti-one-size rule because the identical Technology Agreement is used to govern a grower's rights with respect to several different crops that would be expected to replicate at different rates. If the anticipated harm flows from the self-replicating capacity of genetically modified seeds, then a reasonable estimate of compensation upon breach must logically be adjusted to incorporate the different rates of self-replication. The Technology Agreement makes no such adjustment.
+44
+The Technology Agreement signed by McFarling is used with Monsanto's proprietary strains of genetically modified cotton, soybeans, and corn: "This Monsanto Technology Agreement covers Roundup Ready® cotton, Bollgard® cotton, Bollgard® with Roundup Ready® cotton, Roundup Ready® soybeans, YieldGard® corn and Roundup Ready® corn." The report of Monsanto's damages expert and Monsanto's brief on appeal assume "a ratio of 36 to 1 for seed produced from seed planted" to calculate the harm from the self-replication of soybeans from one growing season to the next. This same report, however, quotes Monsanto's 1997 Technology Agreement applicable to cotton only as stating that "[t]he average ratio of cotton seed produced from cotton seed planted is 120 to 1." (Based on the information presented in this report, the 120 figure first appeared in this cotton-only license and was only subsequently used in the cotton-soybean-corn license.) Because the rates of self-replication of cotton and soybeans differ by over a factor of three,
+3
+it is difficult to understand how the same 120 multiplier as applied to the technology fee could be a reasonable forecast of harm in the event of a breach by both a cotton farmer and a soybean farmer.
+2
+45
+The 120 multiplier in the Technology Agreement also violates the anti-one-size rule because it specifies the same measure of damages in the event of breach of several different restrictive provisions of the contract that lead to different types of damage. The licensee can trigger the 120 multiplier in the Technology Agreement by violating any one of several distinct provisions: "In the event that the Grower
+saves, supplies, sells
+or
+acquires seed for replant
+in violation of this Agreement and license restriction ... the Grower agrees that damages will include a claim for liquidated damages ..." (emphases added). We conclude that the nature of the harm to Monsanto flowing from breach of the provision prohibiting seed saving is fundamentally different from the nature of the harm to Monsanto flowing from breach of the provision prohibiting seed supplying and seed selling.
+46
+In fact, Monsanto repeatedly acknowledged the importance of the distinction between seed saving by the farmer for replant on his own farm and seed transfer to third parties for replant. Monsanto argued in its brief that "[w]hether an infringer saves seed for himself only or transfers saved seed to other growers ... significantly impacts the multiplier effect and the harm to Monsanto." Additionally, the following exchange occurred at oral argument between the court and Monsanto's attorney:
+47
+Court: [T]he character or quality of the breach when [McFarling] breaches on his own farm is really different from Monsanto's perspective than the quality of the breach if he goes to the county fair and sells 5000 bags to 5000 different purchasers. Am I right?
+48
+Counsel: Absolutely. And that's why the 120 times multiple is so reasonable.
+49
+In a post-argument letter, Monsanto responded to the court's citation of
+Wilt,
+as well as to the suggestion made during oral argument "that the [contractual damages] provision might be reasonable as applied to a grower who breached by selling saved seed, but not to one who breached by planting saved seed." Monsanto argued that the contractual damages provision was reasonable because Monsanto "cannot know whether a grower bent upon breach will do so by transferring or replanting saved seed, or both." Monsanto did not argue that the harms caused by the two distinct breaches of transferring and saving seed were similar in nature.
+50
+Under the anti-one-size rule, a liquidated damages clause is invalid if even one breach covered by the clause fails to qualify for enforceability as liquidated damages. Since the breach of seed saving cannot warrant liquidated damages, for the reasons we state, we need not consider the consequences of the breach of acquiring seed for replant. Proof of loss is of course substantially more difficult when the breaching farmer supplies or sells the seed to another farmer in violation of the agreement. If a farmer transfers seed to a third-party for replant, Monsanto not only has no privity of contract with the purchasers, but it also faces difficulty tracing the seed, locating and deposing the individuals who purchased it, and thus determining the amount of harm caused by the breach. In this situation, the difficulty of proof of loss would be considerable. However, if a farmer saves seed for replant in a future growing season, the number of bags planted is more readily ascertainable from a single defendant who is in privity with Monsanto.
+51
+Monsanto's expectation of the compensable loss flowing from the breach should also be lower when the breaching farmer replants on his own farm. The testimony of Monsanto's own damages expert suggests that a distinction between replanting and transferring is in part due to different rates of seed-replication in each scenario. The acreage of an individual grower for replanting is finite, placing a brake on the replication rate, whereas the geographical area available to plant resold seed is practically unlimited. Monsanto's damages expert assumed that soybeans self-replicated at a linear rather than an exponential rate in his only example demonstrating the harm to Monsanto that could flow from a farmer breaching by replanting seed rather than by transferring seed. The damages expert presumed that the farmer would save the same amount of seed each year, likely just enough to plant the farm's acreage.
+52
+Additionally, the harm flowing from a farmer's decision to replant soybeans on his own farm can be arrested through injunctive relief such as the preliminary injunction Monsanto received in this case. Because of the difficulty of tracing seed once it has left the purchaser's farm, however, injunctive relief may never fully arrest the harm that would flow from the transfer of seed to a third party for replant. Thus, when the contractual damages clause is applied to calculate the damages arising from the replanting of seed on the purchaser's farm, the reasonableness of the 120 multiplier as a forecast of compensation must be measured vis-à-vis the harm that would occur between the date on which breach by replanting occurred and the date on which some form of injunctive relief could be obtained.
+4
+When the contractual damages clause is applied to calculate the damages arising from the transfer of seed to third parties, however, the 120 multiplier as a reasonable forecast of compensation may be measured by the possibility of long-term, unenjoined use of the seed by unidentified purchasers.
+53
+Because Monsanto could not have known at the time of contracting whether McFarling would breach the no-seed-transfer provisions or the no-seed-saving provision of the Technology Agreement, Monsanto argues that the harm is of a kind that is difficult to estimate, and that this difficulty of estimating harm should forgive the breadth of breaches of different magnitudes covered by the same damages formula.
+See Luna,
+861 S.W.2d at 779 ("If the difficulty of proof of loss is great, considerable latitude is allowed in the approximation of anticipated or actual harm."). This argument fails for two reasons.
+54
+First, as explained above, the contracting parties must expect at the time of contracting that the actual harm will be difficult to measure at the time of breach.
+See id.
+at 780;
+Paragon Group,
+878 S.W.2d at 881. In other words, actual harm must be difficult to calculate when one traditionally calculates harm in a contract cause of action; uncertainty only at the time of contracting is insufficient. Second, a violation of the anti-one-size rule cannot be explained away merely by stating that one is unsure, at the time of contracting, which provision of the contract will be breached. Monsanto asserted in its post-argument letter that the damages provision did not violate the anti-one-size rule because "[a]t the time of contracting, Monsanto cannot know whether a grower bent upon breach will do so by transferring or replanting saved seed, or both." Monsanto, however, misunderstands the rule. Were Monsanto's formulation of the anti-one-size rule correct, the rule could never be enforced because the parties can never know, at the time of contracting, whether one or another of the contractual provisions, the breach of which is covered by a damages clause, will in fact be breached.
+55
+In summary, we hold that the 120 multiplier in the Technology Agreement is an unenforceable penalty clause because it violates the anti-one-size rule: While we express no opinion on whether the clause would be a reasonable forecast of the compensation required to make Monsanto whole upon breach of the contractual provision prohibiting supplying or selling seed to third parties, we conclude that it is not a reasonable estimate of the harm that would be anticipated to flow from breach of the provision prohibiting replanting seed.
+3
+56
+As interpreted by the district court, the 120 multiplier in the Technology agreement also fixes an unreasonable forecast of compensation because it is measured by the number of bags purchased, a number which does not necessarily relate to the number of bags replanted, supplied or sold.
+57
+The damages specified in the Technology Agreement are measured by multiplying the number 120 by the "applicable technology fee." As an issue of contract interpretation, the district court held that the "applicable technology fee" is measured by multiplying the $6.50 per-bag technology fee by the number of bags
+purchased
+in connection with the execution of the technology agreement. However, the number of bags
+replanted or transferred
+is the more accurate departure point for measuring harm. The harm caused by McFarling to Monsanto in the next year's growing season would be ten times greater to Monsanto if McFarling saved or transferred ten times more seed with the intent that it be replanted. There is no necessary relation, however, between the number of bags purchased and the number of bags replanted or transferred. McFarling would cause Monsanto a specific amount of harm if he saved a thousand bags of seed and replanted it for only one year, but he would be obligated to pay a vastly different amount of damages under the district court's interpretation of the Technology Agreement if he had purchased a hundred or a thousand bags. It is therefore difficult to understand how any figure based on the number of bags purchased, rather than replanted or transferred, is a reasonable forecast of compensation.
+C
+58
+Monsanto also argues that the 120 multiplier was justified based on types of harm other than the harm from the self-replicating nature of the soybean seeds. We disagree.
+59
+Monsanto argues that the 120 multiplier is a reasonable forecast because it includes harm to Monsanto's ROUNDUP READY® brand. As Monsanto's expert testified, "[t]he loss of quality control may result in reduced yields, improper seed segregation and lower quality crops, causing a reduction in the value of Monsanto's brand" to purchasing farmers. We are skeptical of the magnitude of harm to Monsanto's ROUNDUP READY® brand that would flow from violations of the licensing agreement. Damage to a brand occurs when a consumer, here the farmer, receives a substandard product believing that the product is genuine. The farmer who saves and replants seeds, however, is well aware that he is not using the seeds in accordance with the terms required by Monsanto, and he is able to attribute any alleged reduction in quality of the second-or third-generation seeds to his own decision to replant rather than to Monsanto's initial product. Without denying that some minimal harm to the ROUNDUP READY® brand may result from a decision to save and replant seed, we do not believe that this harm contributes significantly to justifying a 120 multiplier as a reasonable forecast of the damages for breach of the Technology Agreement. Were McFarling to sell the saved seeds to other farmers and pass them off as first-generation seeds rather than as the second-generation seeds that they are, however, the potential for harm to the brand would increase.
+Cf. ante
+Section VIII.B.2 (discussing the differences between breaching by replanting and breaching by reselling).
+60
+Monsanto next argues that the 120 multiplier is necessary because if McFarling's breach in the form of saving and replanting seed were to pass undetected, then McFarling would gain a competitive advantage in the marketplace. "[O]therwise law abiding growers" would then be encouraged "also to use saved soybean seed containing Monsanto's patented ROUNDUP READY® biotechnology" in order to compete. This argument, however, is inimical to the compensatory nature of contract remedies: it sounds in deterrence, not compensation, and therefore suggests that the multiplier is in the nature of a penalty clause rather than a liquidated damages clause.
+61
+Finally, Monsanto argues that it loses the revenue from its technology fee each time a saved bag of ROUNDUP READY® soybeans is replanted. We agree that Monsanto suffers this harm, and we have no reason to suspect that the technology fee does not "reflect[] a reasonable return on Monsanto's significant research and development expenditures" as Monsanto argues. Yet, this argument standing by itself suggests that the technology fee alone, rather than 120 times the technology fee, is a reasonable forecast of harm.
+D
+62
+When a damages clause is a penalty clause, the clause is unenforceable under Missouri law and only actual damages are available.
+See Wilt,
+273 S.W.2d at 295 ("Where the sum named in a contract to be paid in a breach is held to be a penalty clause and not liquidated damages, the amount of recovery is only the actual damages sustained." (internal quotation marks omitted)). We therefore remand to the district court to compute actual damages based on the number of bags of seed saved and replanted.
+IX
+63
+In conclusion, we affirm the district court's entry of summary judgment against McFarling on Monsanto's breach-of-contract claim on liability only. McFarling does not contest the prima facie case made by Monsanto that he breached the Technology Agreement, and he has not presented a genuine issue of material fact concerning his defenses as argued in the court below. We also affirm the district court's dismissal of McFarling's antitrust counterclaim. However, we vacate the district court's damages award because we hold that under Missouri law the provision in the Technology Agreement applying a 120 multiplier to the technology fee is an unenforceable and invalid penalty clause. We therefore remand to the district court for determination of actual damages, and for any other proceedings not inconsistent with this opinion.
+COSTS
+64
+No costs.
+65
+AFFIRMED IN PART, VACATED IN PART AND REMANDED.
+Notes:
+1
+In a post-argument letter, McFarling notes that Monsanto included a count of infringement under the '435 patent in its complaint but that it did not move for summary judgment on this count. McFarling argues that because the validity of the '435 patent will be subject to attack if and when the claim of infringement under the '435 patent is addressed in the district court, it is improper for this court to presume the patent's validity at this juncture. We disagree. We can review only the claims considered final by the district court under Federal Rule of Civil Procedure 54(b). McFarling failed to raise or argue the alleged invalidity of the '435 patent as a defense to the breach of the Technology Agreement claim or as an element of its patent misuse defense, and at this stage of the proceedings we deem the argument to have been waived for purposes of deciding this appeal
+2
+Some Missouri cases suggest that a liquidated damages provision satisfies this first test if the damages are reasonably related to either the loss anticipated at the time of contracting or the loss that actually occurred upon breach
+See Paragon Group,
+878 S.W.2d at 881 (quoting Restatement (Second) of Contracts);
+Luna,
+861 S.W.2d at 779 (same). Because $780,000.00 is grossly disproportionate to the loss that Monsanto actually suffered in loss of technology fees due to McFarling's replanting of saved seeds, however, the contractual damages provision in the Technology Agreement can only survive if it was a reasonable forecast of damages at the time the contract was signed. Monsanto does not argue that the damages award in the district court should be upheld because it is reasonable in light of actual damages.
+3
+The record does not contain information concerning the self-replication rate of corn
+4
+If we were to reference future harm in our determination of whether the 120 multiplier is a reasonable forecast, McFarling's payment of the liquidated damages clause would amount to a license to practice the licensed technology in perpetuity. Monsanto would already have been compensated for all future use of the seed, and Missouri law does not permit double recovery via liquidated and actual damages for the same injury
+See Twin River Constr. Co. v. Public Water Dist. No. 6,
+653 S.W.2d 682, 694 (Mo.Ct.App.1983).
+Because it sought to reserve the possibility of permanent injunctive relief, Monsanto at oral argument stated that it did not believe that the 120 damages multiplier was intended to compensate it completely for all the harm that could ensue from a breach, extending from the time of the breach into the indefinite future. Instead, Monsanto reserved the right to seek a permanent injunction against McFarling, arguing that the 120 multiplier could be a reasonable forecast "of the amount of past harm ... that could have occurred as of the time that Monsanto obtained a contract judgment." That is, the 120 multiplier was "a reasonable estimate of the range of injury that would have already occurred by the time that Monsanto could (a) discover a violation, (b) bring a lawsuit, and (c) obtain a judgment" enabling an injunction, preliminary or permanent.
+CC∅
+| Transformed by
+Public.Resource.Org

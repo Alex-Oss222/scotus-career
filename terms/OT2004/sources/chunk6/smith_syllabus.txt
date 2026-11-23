@@ -1,0 +1,130 @@
+https://www.law.cornell.edu/supct/html/03-1160.ZS.html
+
+SMITH V. CITY OF JACKSON
+LII
+Supreme Court
+SMITH V. CITY OF JACKSON (03-1160)
+351 F.3d 183, affirmed.
+Syllabus
+Opinion
+[ Stevens ]Concurrence
+[ Opinion of Scalia ]Concurrence
+[ O’Connor ]
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be
+released, as is being done in connection with this case, at the
+time the opinion is issued.
+The syllabus constitutes no part
+of the opinion of the Court but has been prepared by the
+Reporter of Decisions for the convenience of the reader.
+See
+United States v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+SUPREME COURT OF THE UNITED
+STATES
+SMITH et al. v. CITY OF JACKSON,
+MISSISSIPPI, et al.
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE FIFTH CIRCUIT
+No. 03—1160.Argued November 3,
+2004–Decided March 30, 2005
+In revising its employee pay plan, respondent
+City granted raises to all police officers and police
+dispatchers in an attempt to bring their starting salaries up
+to the regional average.  Officers with less than five
+years’ service received proportionately greater raises
+than those with more seniority, and most officers over 40 had
+more than five years of service.  Petitioners, a group of older
+officers, filed suit under the Age Discrimination in Employment
+Act of 1967 (ADEA), claiming, inter alia, that they were
+adversely affected by the plan because of their age.  The
+District Court granted the City summary judgment.  Affirming,
+the Fifth Circuit ruled that disparate-impact claims are
+categorically unavailable under the ADEA, but it assumed that
+the facts alleged by petitioners would entitle them to relief
+under Griggs v. Duke Power Co., 401 U.S. 424, which
+announced a disparate-impact theory of recovery for cases
+brought under Title VII of the Civil Rights Act of 1964 (Title
+VII).
+Held: The judgment is affirmed.
+351 F.3d 183, affirmed.
+Justice Stevens
+delivered the opinion of the Court with respect to Parts I, II,
+and IV, concluding:
+1. The ADEA
+authorizes recovery in disparate-impact cases comparable to
+Griggs.	Except for the substitution of “age”
+for “race, color, religion, sex, or national origin,”
+the language of ADEA §4(a)(2) and Title VII
+§703(a)(2) is identical.  Unlike Title VII, however, ADEA
+§4(f)(1) significantly narrows its coverage by permitting
+any “otherwise prohibited” action “where the
+differentiation is based on reasonable factors other than
+age” (hereinafter RFOA provision).  Pp. 2—4.
+2. Petitioners have not set forth
+a valid disparate-impact claim.  Two textual differences
+between the ADEA and Title VII make clear that the
+disparate-impact theory’s scope is narrower under the ADEA
+than under Title VII.  One is the RFOA provision.  The other is
+the amendment to Title VII in the Civil Right Act of 1991,
+which modified this Court’s Wards Cove Packing Co.
+v. Atonio, 490
+U.S. 642, holding that narrowly construed the scope of
+liability on a disparate-impact theory.  Because the relevant
+1991 amendments expanded Title VII’s coverage but did not
+amend the ADEA or speak to age discrimination, Wards
+Cove’s pre-1991 interpretation of Title VII’s
+identical language remains applicable to the ADEA.
+Congress’ decision to limit the ADEA’s coverage by
+including the RFOA provision is consistent with the fact that
+age, unlike Title VII’s protected classifications, not
+uncommonly has relevance to an individual’s capacity to
+engage in certain types of employment.	Here, petitioners have
+done little more than point out that the pay plan is relatively
+less generous to older workers than to younger ones.  They have
+not, as required by Wards Cove, identified any specific
+test, requirement, or practice within the pay plan that has an
+adverse impact on older workers.  Further, the record makes
+clear that the City’s plan was based on reasonable factors
+other than age.  The City’s explanation for the
+differential between older and younger workers was its
+perceived need to make junior officers’ salaries
+competitive with comparable positions in the market.  Thus, the
+disparate impact was attributable to the City’s decision
+to give raises based on seniority and position.  Reliance on
+these factors is unquestionably reasonable given the
+City’s goal.  Pp. 11—14.
+Justice Stevens,
+joined by Justice Souter, Justice Ginsburg, and Justice Breyer,
+concluded in Part III that the ADEA’s text, the
+RFOA provision, and Equal Employment Opportunity Commission
+(EEOC) regulations all support the conclusion that a
+disparate-impact theory is cognizable under the ADEA.
+Pp. 4—11.
+Justice Scalia
+concluded that the reasoning in Part III of Justice
+Stevens’ opinion is a basis for deferring, pursuant to
+Chevron U.S. A. Inc. v. Natural Resources
+Defense Council, Inc., 467 U.S. 837, to the
+EEOC’s reasonable view that the ADEA authorizes
+disparate-impact claims.  Pp. 1—5.
+Justice
+O’Connor, joined by Justice Kennedy and Justice Thomas,
+concluded that the judgment should be affirmed on the ground
+that disparate impact claims are not cognizable under the ADEA.
+Pp. 1—22.
+Stevens, J.,
+announced the judgment of the Court and delivered the opinion
+of the Court with respect to Parts I, II, and IV, in which
+Scalia, Souter, Ginsburg, and Breyer, JJ., joined, and an
+opinion with respect to Part III, in which Souter, Ginsburg,
+and Breyer, JJ., joined.  Scalia, J., filed an opinion
+concurring in part and concurring in the judgment.
+O’Connor, J., filed an opinion concurring in the judgment,
+in which Kennedy and Thomas, JJ., joined.  Rehnquist,
+C. J., took no part in the decision of the case.

@@ -1,0 +1,63 @@
+{
+  "mode": "Isolated contexts for neutral preflight, independent modeling, historical reconciliation; control sees the approved supplement only for approval and later assembly.",
+  "brief_sha256": "fa817215d2c38ac6050838c0f6ade5cecebb1d6b894360dc7939d6ff4345ad88",
+  "supplement_sha256": "f23b5d7d7a4ab9dbf797e29467e2ee1f26017d4683515d409d33373ce5b66a09",
+  "positions": [
+    {
+      "case": "## 48. Smith v. City of Jackson",
+      "approval": "Approved for this revision under the user's express preapproval.",
+      "disposition": "Affirm summary judgment on the disparate-impact claim on the reasonable-factors ground, while rejecting the categorical exclusion of that statutory theory.",
+      "discretion": "Nonmaterial wording consistent with the stated disposition and substantive rules."
+    },
+    {
+      "case": "## 49. Rhines v. Weber",
+      "approval": "Approved for this revision under the user's express preapproval.",
+      "disposition": "Vacate the Eighth Circuit’s categorical restriction and remand for review of the actual stay under a bounded discretion standard.",
+      "discretion": "Nonmaterial wording consistent with the stated disposition and substantive rules."
+    },
+    {
+      "case": "## 50. Exxon Mobil Corp. v. Saudi Basic Industries Corp.",
+      "approval": "Approved for this revision under the user's express preapproval.",
+      "disposition": "Reverse the jurisdictional dismissal and remand.",
+      "discretion": "Nonmaterial wording consistent with the stated disposition and substantive rules."
+    },
+    {
+      "case": "## 51. California Public Employees’ Retirement System v. WorldCom, Inc.",
+      "approval": "Approved for this revision under the user's express preapproval.",
+      "disposition": "Reverse the judgment permitting removal notwithstanding §22(a) and remand for return of the covered individual Securities Act actions to state court.",
+      "discretion": "Nonmaterial wording consistent with the stated disposition and substantive rules."
+    },
+    {
+      "case": "## 52. Johnson v. United States",
+      "approval": "Approved for this revision under the user's express preapproval.",
+      "disposition": "Reverse the categorical no-new-fact ruling and remand for consideration of Johnson’s timely vacatur-based motion, subject to the actual notice date and independent merits requirements.",
+      "discretion": "Nonmaterial wording consistent with the stated disposition and substantive rules."
+    },
+    {
+      "case": "## 53. Rousey v. Jacoway",
+      "approval": "Approved for this revision under the user's express preapproval.",
+      "disposition": "Reverse and remand the categorical rejection of the exemption.",
+      "discretion": "Nonmaterial wording consistent with the stated disposition and substantive rules."
+    },
+    {
+      "case": "## 54. Consumers Energy Co. v. Federal Energy Regulatory Commission",
+      "approval": "Approved for this revision under the user's express preapproval.",
+      "disposition": "Affirm the denial of the petition for review.",
+      "discretion": "Nonmaterial wording consistent with the stated disposition and substantive rules."
+    },
+    {
+      "case": "## 55. Dura Pharmaceuticals, Inc. v. Broudo",
+      "approval": "Approved for this revision under the user's express preapproval.",
+      "disposition": "Reverse and remand the judgment sustaining the device claim on inflation alone.",
+      "discretion": "Nonmaterial wording consistent with the stated disposition and substantive rules."
+    },
+    {
+      "case": "## 56. Monsanto Co. v. McFarling",
+      "approval": "Approved for this revision under the user's express preapproval.",
+      "disposition": "Affirm rejection of the asserted categorical seed-saving and patent-scope misuse defenses; vacate dismissal of the antitrust counterclaim insofar as it rests on patent-scope immunity, and remand.",
+      "discretion": "Nonmaterial wording consistent with the stated disposition and substantive rules."
+    }
+  ],
+  "operator_constraints": "All nine scheduled matters are properly before the Court. Same-day uncoordinated events use the pre-date legal baseline. Assignment uses preceding dated durable Records and alphabetical same-day order. Repository-history commands are prohibited; operator verifies and commits afterward.",
+  "status": "Approval and intake complete. Revalidation against the completed entering-law review and frozen reconciled commitments remains for assembly."
+}

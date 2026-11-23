@@ -1,0 +1,134 @@
+https://www.law.cornell.edu/supct/html/03-9046.ZS.html
+
+RHINES V. WEBER
+LII
+Supreme Court
+RHINES V. WEBER (03-9046)
+346 F.3d 799, vacated and remanded.
+Syllabus
+Opinion
+[ O’Connor ]Concurrence
+[ Stevens ]Concurrence
+[ Souter ]
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be
+released, as is being done in connection with this case, at the
+time the opinion is issued.
+The syllabus constitutes no part
+of the opinion of the Court but has been prepared by the
+Reporter of Decisions for the convenience of the reader.
+See
+United States v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+SUPREME COURT OF THE UNITED
+STATES
+RHINES v. WEBER, WARDEN
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE EIGHTH CIRCUIT
+No. 03—9046.Argued January 12,
+2005–Decided March 30, 2005
+After petitioner Rhines’ state
+conviction for first-degree murder and burglary became final
+and his state habeas petition was denied, he filed a federal
+habeas petition.  Because the 1-year statute of limitations
+imposed by the Antiterrorism and Effective Death Penalty Act of
+1996 (AEDPA) was tolled while his state petition was pending,
+see 28 U.S.C. §
+2244(d)(2), he had more than 11 months before the
+limitations period expired.  However, by the time the District
+Court ruled that eight of his claims had not been exhausted in
+state court, the limitations period had run.  If the court had
+dismissed his “mixed” petition, Rhines would have
+been unable to refile after exhausting his claims, so the court
+decided to hold his federal petition in abeyance while he
+presented his unexhausted claims in state court, provided that
+he commenced the state proceedings within 60 days and returned
+to the District Court within 60 days of completing the
+exhaustion.  The Eighth Circuit, which had previously held that
+a district court has no authority to hold mixed petitions in
+abeyance absent truly exceptional circumstances, vacated the
+stay and remanded the case for the District Court to determine
+whether Rhines could proceed by deleting unexhausted
+claims.
+Held: A district court has
+discretion to stay a mixed petition to allow a petitioner to
+present his unexhausted claims to the state court in the first
+instance and then to return to federal court for review of his
+perfected petition.  Pp. 3—8.
+(a) Fourteen
+years before Congress enacted AEDPA, this Court held that
+federal district courts may not adjudicate mixed petitions but
+must give state courts the first opportunity to decide a
+petitioner’s claims; imposed a “total
+exhaustion” requirement; and directed federal courts to
+effectuate that requirement by dismissing mixed petitions
+without prejudice and allowing petitioners to return to state
+court.	Rose v. Lundy, 455 U.S. 509,
+518—519.  At the time, there was no statute of limitations
+on federal habeas petitions.  But that changed with AEDPA,
+which preserved Lundy’s total exhaustion
+requirement while imposing a 1-year limitations period, which
+is tolled during the pendency of a state, but not a federal,
+habeas petition.  As a result, petitioners such as Rhines run
+the risk of forever losing their opportunity for federal review
+of their unexhausted claims.  Even a petitioner who files early
+cannot control when a district court will resolve the
+exhaustion question.  The gravity and difficulty of this
+problem has led some district courts to adopt the
+“stay-and-abeyance” procedure at issue.
+Pp. 3—5.
+(b) AEDPA
+does not deprive district courts of the authority to issue
+stays that are a proper exercise of their discretion, but it
+does circumscribe that discretion.  Any solution to this
+problem therefore must be compatible with AEDPA’s
+purposes.  Staying a federal habeas petition frustrates
+AEDPA’s objective of encouraging finality of state court
+judgments by allowing a petitioner to delay the resolution of
+the federal proceedings, and it undermines AEDPA’s goal of
+streamlining federal habeas proceedings by decreasing a
+petitioner’s incentive to exhaust all his claims in state
+court before filing his federal petition.  Thus, stay and
+abeyance should be available only in limited circumstances.
+Because granting a stay effectively excuses a petitioner’s
+failure to present his claims first to the state courts, stay
+and abeyance is only appropriate when the district court
+determines there was good cause for the petitioner’s
+failure to exhaust his claims.	Even if good cause existed, the
+district court would abuse its discretion if it granted a stay
+when the unexhausted claims are plainly meritless.  Where stay
+and abeyance is appropriate, the district court’s
+discretion is still limited by AEDPA’s timeliness
+concerns.  If a district court does not place reasonable time
+limits on a petitioner’s trip to state court and back,
+petitioners, especially capital petitioners, could frustrate
+AEDPA’s finality goal by dragging out indefinitely their
+federal habeas review.	And if a petitioner engages in abusive
+litigation tactics or intentional delay, the district court
+should not grant a stay at all.  On the other hand, it likely
+would be an abuse of discretion for a district court to deny a
+stay and dismiss a mixed petition if the petitioner had good
+cause for his failure to exhaust, his unexhausted claims are
+potentially meritorious, and there is no indication that he
+engaged in intentionally dilatory litigation tactics.  Such a
+petitioner’s interest in obtaining federal review of his
+claims outweighs the competing interests in finality and speedy
+resolution of federal petitions.  For the same reason, if the
+court determines that stay and abeyance is inappropriate, it
+should allow the petitioner to delete the unexhausted claims
+and proceed with the exhausted ones if dismissing the entire
+petition would unreasonably impair the petitioner’s right
+to obtain federal relief.  Pp. 5—8.
+346 F.3d 799, vacated and remanded.
+O’Connor, J.,
+delivered the opinion of the Court, in which Rehnquist,
+C. J., and Stevens, Scalia, Kennedy, Thomas, Ginsburg, and
+Breyer, JJ., joined.  Stevens, J., filed a concurring opinion,
+in which Ginsburg and Breyer, JJ., joined.  Souter, J., filed
+an opinion concurring in part and concurring in the judgment,
+in which Ginsburg and Breyer, JJ., joined.

@@ -1,0 +1,2232 @@
+{
+  "status": "passed",
+  "checks": [
+    {
+      "check": "Completed Record exists: worldcom",
+      "passed": true
+    },
+    {
+      "check": "Exact eleven-block interface: worldcom",
+      "passed": true,
+      "headings": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ]
+    },
+    {
+      "check": "Every required substantive block populated: worldcom",
+      "passed": true,
+      "separate_writings_selected": false
+    },
+    {
+      "check": "Assembly JSON eleven-block interface: worldcom",
+      "passed": true
+    },
+    {
+      "check": "Record/JSON public substance identity: worldcom",
+      "passed": true,
+      "blocks": {
+        "Event": true,
+        "Participation": true,
+        "Public Action": true,
+        "Judgment & Remedy": true,
+        "Opinion Topology": true,
+        "Holdings": true,
+        "Precedent Treatment": true,
+        "Law After Decision": true,
+        "Separate Writings": true,
+        "Procedure After Action": true,
+        "Source Notes": true
+      }
+    },
+    {
+      "check": "Fixed opening labels: worldcom",
+      "passed": true
+    },
+    {
+      "check": "Record date/filename/JSON identity: worldcom",
+      "passed": true
+    },
+    {
+      "check": "Lead table/prose author agreement",
+      "passed": true,
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "narrative": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "check": "Record/JSON lead authorship: worldcom",
+      "passed": true,
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "check": "Nine named participating Justices: worldcom",
+      "passed": true
+    },
+    {
+      "check": "Compact judgment arithmetic: worldcom",
+      "passed": true
+    },
+    {
+      "check": "Completed Record exists: exxon",
+      "passed": true
+    },
+    {
+      "check": "Exact eleven-block interface: exxon",
+      "passed": true,
+      "headings": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ]
+    },
+    {
+      "check": "Every required substantive block populated: exxon",
+      "passed": true,
+      "separate_writings_selected": false
+    },
+    {
+      "check": "Assembly JSON eleven-block interface: exxon",
+      "passed": true
+    },
+    {
+      "check": "Record/JSON public substance identity: exxon",
+      "passed": true,
+      "blocks": {
+        "Event": true,
+        "Participation": true,
+        "Public Action": true,
+        "Judgment & Remedy": true,
+        "Opinion Topology": true,
+        "Holdings": true,
+        "Precedent Treatment": true,
+        "Law After Decision": true,
+        "Separate Writings": true,
+        "Procedure After Action": true,
+        "Source Notes": true
+      }
+    },
+    {
+      "check": "Fixed opening labels: exxon",
+      "passed": true
+    },
+    {
+      "check": "Record date/filename/JSON identity: exxon",
+      "passed": true
+    },
+    {
+      "check": "Lead table/prose author agreement",
+      "passed": true,
+      "authors": [
+        "Kennedy"
+      ],
+      "narrative": [
+        "Kennedy"
+      ]
+    },
+    {
+      "check": "Record/JSON lead authorship: exxon",
+      "passed": true,
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "check": "Nine named participating Justices: exxon",
+      "passed": true
+    },
+    {
+      "check": "Compact judgment arithmetic: exxon",
+      "passed": true
+    },
+    {
+      "check": "Completed Record exists: rhines",
+      "passed": true
+    },
+    {
+      "check": "Exact eleven-block interface: rhines",
+      "passed": true,
+      "headings": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ]
+    },
+    {
+      "check": "Every required substantive block populated: rhines",
+      "passed": true,
+      "separate_writings_selected": true
+    },
+    {
+      "check": "Assembly JSON eleven-block interface: rhines",
+      "passed": true
+    },
+    {
+      "check": "Record/JSON public substance identity: rhines",
+      "passed": true,
+      "blocks": {
+        "Event": true,
+        "Participation": true,
+        "Public Action": true,
+        "Judgment & Remedy": true,
+        "Opinion Topology": true,
+        "Holdings": true,
+        "Precedent Treatment": true,
+        "Law After Decision": true,
+        "Separate Writings": true,
+        "Procedure After Action": true,
+        "Source Notes": true
+      }
+    },
+    {
+      "check": "Fixed opening labels: rhines",
+      "passed": true
+    },
+    {
+      "check": "Record date/filename/JSON identity: rhines",
+      "passed": true
+    },
+    {
+      "check": "Lead table/prose author agreement",
+      "passed": true,
+      "authors": [
+        "O'Connor"
+      ],
+      "narrative": [
+        "O'Connor"
+      ]
+    },
+    {
+      "check": "Record/JSON lead authorship: rhines",
+      "passed": true,
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "check": "Nine named participating Justices: rhines",
+      "passed": true
+    },
+    {
+      "check": "Compact judgment arithmetic: rhines",
+      "passed": true
+    },
+    {
+      "check": "Completed Record exists: smith",
+      "passed": true
+    },
+    {
+      "check": "Exact eleven-block interface: smith",
+      "passed": true,
+      "headings": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ]
+    },
+    {
+      "check": "Every required substantive block populated: smith",
+      "passed": true,
+      "separate_writings_selected": true
+    },
+    {
+      "check": "Assembly JSON eleven-block interface: smith",
+      "passed": true
+    },
+    {
+      "check": "Record/JSON public substance identity: smith",
+      "passed": true,
+      "blocks": {
+        "Event": true,
+        "Participation": true,
+        "Public Action": true,
+        "Judgment & Remedy": true,
+        "Opinion Topology": true,
+        "Holdings": true,
+        "Precedent Treatment": true,
+        "Law After Decision": true,
+        "Separate Writings": true,
+        "Procedure After Action": true,
+        "Source Notes": true
+      }
+    },
+    {
+      "check": "Fixed opening labels: smith",
+      "passed": true
+    },
+    {
+      "check": "Record date/filename/JSON identity: smith",
+      "passed": true
+    },
+    {
+      "check": "Lead table/prose author agreement",
+      "passed": true,
+      "authors": [
+        "Stevens"
+      ],
+      "narrative": [
+        "Stevens"
+      ]
+    },
+    {
+      "check": "Record/JSON lead authorship: smith",
+      "passed": true,
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "check": "Nine named participating Justices: smith",
+      "passed": true
+    },
+    {
+      "check": "Compact judgment arithmetic: smith",
+      "passed": true
+    },
+    {
+      "check": "Completed Record exists: consumers",
+      "passed": true
+    },
+    {
+      "check": "Exact eleven-block interface: consumers",
+      "passed": true,
+      "headings": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ]
+    },
+    {
+      "check": "Every required substantive block populated: consumers",
+      "passed": true,
+      "separate_writings_selected": false
+    },
+    {
+      "check": "Assembly JSON eleven-block interface: consumers",
+      "passed": true
+    },
+    {
+      "check": "Record/JSON public substance identity: consumers",
+      "passed": true,
+      "blocks": {
+        "Event": true,
+        "Participation": true,
+        "Public Action": true,
+        "Judgment & Remedy": true,
+        "Opinion Topology": true,
+        "Holdings": true,
+        "Precedent Treatment": true,
+        "Law After Decision": true,
+        "Separate Writings": true,
+        "Procedure After Action": true,
+        "Source Notes": true
+      }
+    },
+    {
+      "check": "Fixed opening labels: consumers",
+      "passed": true
+    },
+    {
+      "check": "Record date/filename/JSON identity: consumers",
+      "passed": true
+    },
+    {
+      "check": "Lead table/prose author agreement",
+      "passed": true,
+      "authors": [
+        "Ginsburg"
+      ],
+      "narrative": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "check": "Record/JSON lead authorship: consumers",
+      "passed": true,
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "check": "Nine named participating Justices: consumers",
+      "passed": true
+    },
+    {
+      "check": "Compact judgment arithmetic: consumers",
+      "passed": true
+    },
+    {
+      "check": "Completed Record exists: johnson",
+      "passed": true
+    },
+    {
+      "check": "Exact eleven-block interface: johnson",
+      "passed": true,
+      "headings": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ]
+    },
+    {
+      "check": "Every required substantive block populated: johnson",
+      "passed": true,
+      "separate_writings_selected": true
+    },
+    {
+      "check": "Assembly JSON eleven-block interface: johnson",
+      "passed": true
+    },
+    {
+      "check": "Record/JSON public substance identity: johnson",
+      "passed": true,
+      "blocks": {
+        "Event": true,
+        "Participation": true,
+        "Public Action": true,
+        "Judgment & Remedy": true,
+        "Opinion Topology": true,
+        "Holdings": true,
+        "Precedent Treatment": true,
+        "Law After Decision": true,
+        "Separate Writings": true,
+        "Procedure After Action": true,
+        "Source Notes": true
+      }
+    },
+    {
+      "check": "Fixed opening labels: johnson",
+      "passed": true
+    },
+    {
+      "check": "Record date/filename/JSON identity: johnson",
+      "passed": true
+    },
+    {
+      "check": "Lead table/prose author agreement",
+      "passed": true,
+      "authors": [
+        "Scalia"
+      ],
+      "narrative": [
+        "Scalia"
+      ]
+    },
+    {
+      "check": "Record/JSON lead authorship: johnson",
+      "passed": true,
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "check": "Nine named participating Justices: johnson",
+      "passed": true
+    },
+    {
+      "check": "Compact judgment arithmetic: johnson",
+      "passed": true
+    },
+    {
+      "check": "Completed Record exists: rousey",
+      "passed": true
+    },
+    {
+      "check": "Exact eleven-block interface: rousey",
+      "passed": true,
+      "headings": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ]
+    },
+    {
+      "check": "Every required substantive block populated: rousey",
+      "passed": true,
+      "separate_writings_selected": false
+    },
+    {
+      "check": "Assembly JSON eleven-block interface: rousey",
+      "passed": true
+    },
+    {
+      "check": "Record/JSON public substance identity: rousey",
+      "passed": true,
+      "blocks": {
+        "Event": true,
+        "Participation": true,
+        "Public Action": true,
+        "Judgment & Remedy": true,
+        "Opinion Topology": true,
+        "Holdings": true,
+        "Precedent Treatment": true,
+        "Law After Decision": true,
+        "Separate Writings": true,
+        "Procedure After Action": true,
+        "Source Notes": true
+      }
+    },
+    {
+      "check": "Fixed opening labels: rousey",
+      "passed": true
+    },
+    {
+      "check": "Record date/filename/JSON identity: rousey",
+      "passed": true
+    },
+    {
+      "check": "Lead table/prose author agreement",
+      "passed": true,
+      "authors": [
+        "Thomas"
+      ],
+      "narrative": [
+        "Thomas"
+      ]
+    },
+    {
+      "check": "Record/JSON lead authorship: rousey",
+      "passed": true,
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "check": "Nine named participating Justices: rousey",
+      "passed": true
+    },
+    {
+      "check": "Compact judgment arithmetic: rousey",
+      "passed": true
+    },
+    {
+      "check": "Completed Record exists: dura",
+      "passed": true
+    },
+    {
+      "check": "Exact eleven-block interface: dura",
+      "passed": true,
+      "headings": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ]
+    },
+    {
+      "check": "Every required substantive block populated: dura",
+      "passed": true,
+      "separate_writings_selected": false
+    },
+    {
+      "check": "Assembly JSON eleven-block interface: dura",
+      "passed": true
+    },
+    {
+      "check": "Record/JSON public substance identity: dura",
+      "passed": true,
+      "blocks": {
+        "Event": true,
+        "Participation": true,
+        "Public Action": true,
+        "Judgment & Remedy": true,
+        "Opinion Topology": true,
+        "Holdings": true,
+        "Precedent Treatment": true,
+        "Law After Decision": true,
+        "Separate Writings": true,
+        "Procedure After Action": true,
+        "Source Notes": true
+      }
+    },
+    {
+      "check": "Fixed opening labels: dura",
+      "passed": true
+    },
+    {
+      "check": "Record date/filename/JSON identity: dura",
+      "passed": true
+    },
+    {
+      "check": "Lead table/prose author agreement",
+      "passed": true,
+      "authors": [
+        "Breyer"
+      ],
+      "narrative": [
+        "Breyer"
+      ]
+    },
+    {
+      "check": "Record/JSON lead authorship: dura",
+      "passed": true,
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "check": "Nine named participating Justices: dura",
+      "passed": true
+    },
+    {
+      "check": "Compact judgment arithmetic: dura",
+      "passed": true
+    },
+    {
+      "check": "Completed Record exists: monsanto",
+      "passed": true
+    },
+    {
+      "check": "Exact eleven-block interface: monsanto",
+      "passed": true,
+      "headings": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ]
+    },
+    {
+      "check": "Every required substantive block populated: monsanto",
+      "passed": true,
+      "separate_writings_selected": true
+    },
+    {
+      "check": "Assembly JSON eleven-block interface: monsanto",
+      "passed": true
+    },
+    {
+      "check": "Record/JSON public substance identity: monsanto",
+      "passed": true,
+      "blocks": {
+        "Event": true,
+        "Participation": true,
+        "Public Action": true,
+        "Judgment & Remedy": true,
+        "Opinion Topology": true,
+        "Holdings": true,
+        "Precedent Treatment": true,
+        "Law After Decision": true,
+        "Separate Writings": true,
+        "Procedure After Action": true,
+        "Source Notes": true
+      }
+    },
+    {
+      "check": "Fixed opening labels: monsanto",
+      "passed": true
+    },
+    {
+      "check": "Record date/filename/JSON identity: monsanto",
+      "passed": true
+    },
+    {
+      "check": "Lead table/prose author agreement",
+      "passed": true,
+      "authors": [
+        "Souter"
+      ],
+      "narrative": [
+        "Souter"
+      ]
+    },
+    {
+      "check": "Record/JSON lead authorship: monsanto",
+      "passed": true,
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "check": "Nine named participating Justices: monsanto",
+      "passed": true
+    },
+    {
+      "check": "Component judgment arithmetic: monsanto / Contract breach and categorical saved-seed/patent-scope misuse defenses",
+      "passed": true
+    },
+    {
+      "check": "Component judgment arithmetic: monsanto / Independent tying counterclaim",
+      "passed": true
+    },
+    {
+      "check": "Component judgment arithmetic: monsanto / Vacatur of the $780,000 liquidated sum and actual-damages remand",
+      "passed": true
+    },
+    {
+      "check": "Nine completed chunk 6 Records",
+      "passed": true
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: anderson-v-spear_merits_2004-11-30.md",
+      "passed": true
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: back-v-hastings-on-hudson_merits_2005-03-07.md",
+      "passed": true
+    },
+    {
+      "check": "Lead table/prose author agreement",
+      "passed": true,
+      "authors": [
+        "Stevens"
+      ],
+      "narrative": [
+        "Stevens"
+      ]
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: ballard-v-commissioner_merits_2005-03-07.md",
+      "passed": true
+    },
+    {
+      "check": "Lead table/prose author agreement",
+      "passed": true,
+      "authors": [
+        "Souter"
+      ],
+      "narrative": [
+        "Souter"
+      ]
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: black-political-task-force-v-galvin_merits_2005-03-22.md",
+      "passed": true
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: brosseau-v-haugen_merits_2004-12-13.md",
+      "passed": true
+    },
+    {
+      "check": "Lead table/prose author agreement",
+      "passed": true,
+      "authors": [
+        "Breyer"
+      ],
+      "narrative": [
+        "Breyer"
+      ]
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: brown-v-payton_merits_2005-03-22.md",
+      "passed": true
+    },
+    {
+      "check": "Lead table/prose author agreement",
+      "passed": true,
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "narrative": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: california-public-employees-retirement-system-v-worldcom-inc_merits_2005-03-30.md",
+      "passed": true
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: cherokee-nation-v-leavitt_merits_2005-03-01.md",
+      "passed": true
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: city-of-sherrill-v-oneida-indian-nation_merits_2005-03-29.md",
+      "passed": true
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: clark-v-martinez_merits_2005-01-12.md",
+      "passed": true
+    },
+    {
+      "check": "Lead table/prose author agreement",
+      "passed": true,
+      "authors": [
+        "Stevens"
+      ],
+      "narrative": [
+        "Stevens"
+      ]
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: commissioner-v-banks_merits_2005-01-24.md",
+      "passed": true
+    },
+    {
+      "check": "Lead table/prose author agreement",
+      "passed": true,
+      "authors": [
+        "Ginsburg"
+      ],
+      "narrative": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: consumers-energy-v-ferc_merits_2005-04-04.md",
+      "passed": true
+    },
+    {
+      "check": "Lead table/prose author agreement",
+      "passed": true,
+      "authors": [
+        "O'Connor"
+      ],
+      "narrative": [
+        "O'Connor"
+      ]
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: devenpeck-v-alford_merits_2004-12-13.md",
+      "passed": true
+    },
+    {
+      "check": "Lead table/prose author agreement",
+      "passed": true,
+      "authors": [
+        "Breyer"
+      ],
+      "narrative": [
+        "Breyer"
+      ]
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: dowhal-v-smithkline-beecham_merits_2005-02-23.md",
+      "passed": true
+    },
+    {
+      "check": "Lead table/prose author agreement",
+      "passed": true,
+      "authors": [
+        "Breyer"
+      ],
+      "narrative": [
+        "Breyer"
+      ]
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: dura-pharmaceuticals-v-broudo_merits_2005-04-19.md",
+      "passed": true
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: educational-credit-management-v-polleys_merits_2004-12-13.md",
+      "passed": true
+    },
+    {
+      "check": "Lead table/prose author agreement",
+      "passed": true,
+      "authors": [
+        "Kennedy"
+      ],
+      "narrative": [
+        "Kennedy"
+      ]
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: exxon-mobil-corp-v-saudi-basic-industries-corp_merits_2005-03-30.md",
+      "passed": true
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: florida-v-nixon_merits_2004-12-13.md",
+      "passed": true
+    },
+    {
+      "check": "Lead table/prose author agreement",
+      "passed": true,
+      "authors": [
+        "Breyer"
+      ],
+      "narrative": [
+        "Breyer"
+      ]
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: gdf-realty-v-norton_merits_2005-01-24.md",
+      "passed": true
+    },
+    {
+      "check": "Lead table/prose author agreement",
+      "passed": true,
+      "authors": [
+        "O'Connor"
+      ],
+      "narrative": [
+        "O'Connor"
+      ]
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: illinois-v-caballes_merits_2005-01-24.md",
+      "passed": true
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: jackson-v-birmingham-board-of-education_merits_2005-03-29.md",
+      "passed": true
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: jama-v-immigration-and-customs-enforcement_merits_2005-01-12.md",
+      "passed": true
+    },
+    {
+      "check": "Lead table/prose author agreement",
+      "passed": true,
+      "authors": [
+        "O'Connor"
+      ],
+      "narrative": [
+        "O'Connor"
+      ]
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: johnson-v-california_merits_2005-02-23.md",
+      "passed": true
+    },
+    {
+      "check": "Lead table/prose author agreement",
+      "passed": true,
+      "authors": [
+        "Scalia"
+      ],
+      "narrative": [
+        "Scalia"
+      ]
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: johnson-v-united-states_merits_2005-04-04.md",
+      "passed": true
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: kansas-v-colorado_exceptions_2004-12-07.md",
+      "passed": true
+    },
+    {
+      "check": "Lead table/prose author agreement",
+      "passed": true,
+      "authors": [
+        "Thomas"
+      ],
+      "narrative": [
+        "Thomas"
+      ]
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: karaha-bodas-v-pertamina_merits_2005-02-22.md",
+      "passed": true
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: koons-buick-v-nigh_merits_2004-11-30.md",
+      "passed": true
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: kowalski-v-tesmer_merits_2004-12-13.md",
+      "passed": true
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: kp-permanent-make-up-v-lasting-impression_merits_2004-12-08.md",
+      "passed": true
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: leocal-v-ashcroft_merits_2004-11-09.md",
+      "passed": true
+    },
+    {
+      "check": "Lead table/prose author agreement",
+      "passed": true,
+      "authors": [
+        "Souter"
+      ],
+      "narrative": [
+        "Souter"
+      ]
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: monsanto-co-v-mcfarling_merits_2005-04-19.md",
+      "passed": true
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: muehler-v-mena_merits_2005-03-22.md",
+      "passed": true
+    },
+    {
+      "check": "Lead table/prose author agreement",
+      "passed": true,
+      "authors": [
+        "Souter"
+      ],
+      "narrative": [
+        "Souter"
+      ]
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: nordyke-v-king_merits_2005-01-12.md",
+      "passed": true
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: petro-hunt-v-united-states_merits_2005-03-01.md",
+      "passed": true
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: rancho-palos-verdes-v-abrams_merits_2005-03-22.md",
+      "passed": true
+    },
+    {
+      "check": "Lead table/prose author agreement",
+      "passed": true,
+      "authors": [
+        "O'Connor"
+      ],
+      "narrative": [
+        "O'Connor"
+      ]
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: rhines-v-weber_merits_2005-03-30.md",
+      "passed": true
+    },
+    {
+      "check": "Lead table/prose author agreement",
+      "passed": true,
+      "authors": [
+        "Kennedy"
+      ],
+      "narrative": [
+        "Kennedy"
+      ]
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: roper-v-simmons_merits_2005-03-01.md",
+      "passed": true
+    },
+    {
+      "check": "Lead table/prose author agreement",
+      "passed": true,
+      "authors": [
+        "Thomas"
+      ],
+      "narrative": [
+        "Thomas"
+      ]
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: rousey-v-jacoway_merits_2005-04-04.md",
+      "passed": true
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: sabree-ex-rel-sabree-v-richman_merits_2005-03-29.md",
+      "passed": true
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: san-diego-v-roe_merits_2004-12-06.md",
+      "passed": true
+    },
+    {
+      "check": "Lead table/prose author agreement",
+      "passed": true,
+      "authors": [
+        "Thomas"
+      ],
+      "narrative": [
+        "Thomas"
+      ]
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: shepard-v-united-states_merits_2005-03-07.md",
+      "passed": true
+    },
+    {
+      "check": "Lead table/prose author agreement",
+      "passed": true,
+      "authors": [
+        "Stevens"
+      ],
+      "narrative": [
+        "Stevens"
+      ]
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: smith-v-city-of-jackson_merits_2005-03-30.md",
+      "passed": true
+    },
+    {
+      "check": "Lead table/prose author agreement",
+      "passed": true,
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "narrative": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: smith-v-massachusetts_merits_2005-02-22.md",
+      "passed": true
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: smith-v-texas_merits_2004-11-15.md",
+      "passed": true
+    },
+    {
+      "check": "Lead table/prose author agreement",
+      "passed": true,
+      "authors": [
+        "Scalia"
+      ],
+      "narrative": [
+        "Scalia"
+      ]
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: stewart-v-dutra_merits_2005-02-22.md",
+      "passed": true
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: tenet-v-doe_merits_2005-03-02.md",
+      "passed": true
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: theofel-v-farey-jones_merits_2004-12-06.md",
+      "passed": true
+    },
+    {
+      "check": "Lead table/prose author agreement",
+      "passed": true,
+      "authors": [
+        "Kennedy"
+      ],
+      "narrative": [
+        "Kennedy"
+      ]
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: timken-v-united-states_merits_2005-01-11.md",
+      "passed": true
+    },
+    {
+      "check": "Lead table/prose author agreement",
+      "passed": true,
+      "authors": [
+        "Thomas"
+      ],
+      "narrative": [
+        "Thomas"
+      ]
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: united-states-v-100348-us-currency_merits_2004-11-15.md",
+      "passed": true
+    },
+    {
+      "check": "Lead table/prose author agreement",
+      "passed": true,
+      "authors": [
+        "Stevens"
+      ],
+      "narrative": [
+        "Stevens"
+      ]
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: united-states-v-booker_merits_2005-01-12.md",
+      "passed": true
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: whitfield-v-united-states_merits_2005-01-11.md",
+      "passed": true
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: wilkinson-v-dotson_merits_2005-03-07.md",
+      "passed": true
+    },
+    {
+      "check": "Lead table/prose author agreement",
+      "passed": true,
+      "authors": [
+        "Ginsburg"
+      ],
+      "narrative": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "check": "Counted merits Record identifies signed lead: womens-medical-v-taft_merits_2005-01-24.md",
+      "passed": true
+    },
+    {
+      "check": "Source recount yields 53 signed plenary merits leads",
+      "passed": true,
+      "total": 53
+    },
+    {
+      "check": "Final source-derived assignment distribution",
+      "passed": true,
+      "counts": {
+        "Stone-Zsela": 5,
+        "Stevens": 6,
+        "O'Connor": 6,
+        "Scalia": 6,
+        "Kennedy": 6,
+        "Souter": 6,
+        "Thomas": 6,
+        "Ginsburg": 6,
+        "Breyer": 6
+      }
+    },
+    {
+      "check": "Pre-assignment recount matches actual earlier sources: california-public-employees-retirement-system-v-worldcom-inc_merits_2005-03-30.md",
+      "passed": true,
+      "independently_counted": {
+        "Stone-Zsela": 4,
+        "Stevens": 5,
+        "O'Connor": 5,
+        "Scalia": 5,
+        "Kennedy": 5,
+        "Souter": 5,
+        "Thomas": 5,
+        "Ginsburg": 5,
+        "Breyer": 5
+      }
+    },
+    {
+      "check": "Pre-assignment recount matches actual earlier sources: exxon-mobil-corp-v-saudi-basic-industries-corp_merits_2005-03-30.md",
+      "passed": true,
+      "independently_counted": {
+        "Stone-Zsela": 5,
+        "Stevens": 5,
+        "O'Connor": 5,
+        "Scalia": 5,
+        "Kennedy": 5,
+        "Souter": 5,
+        "Thomas": 5,
+        "Ginsburg": 5,
+        "Breyer": 5
+      }
+    },
+    {
+      "check": "Pre-assignment recount matches actual earlier sources: rhines-v-weber_merits_2005-03-30.md",
+      "passed": true,
+      "independently_counted": {
+        "Stone-Zsela": 5,
+        "Stevens": 5,
+        "O'Connor": 5,
+        "Scalia": 5,
+        "Kennedy": 6,
+        "Souter": 5,
+        "Thomas": 5,
+        "Ginsburg": 5,
+        "Breyer": 5
+      }
+    },
+    {
+      "check": "Pre-assignment recount matches actual earlier sources: smith-v-city-of-jackson_merits_2005-03-30.md",
+      "passed": true,
+      "independently_counted": {
+        "Stone-Zsela": 5,
+        "Stevens": 5,
+        "O'Connor": 6,
+        "Scalia": 5,
+        "Kennedy": 6,
+        "Souter": 5,
+        "Thomas": 5,
+        "Ginsburg": 5,
+        "Breyer": 5
+      }
+    },
+    {
+      "check": "Pre-assignment recount matches actual earlier sources: consumers-energy-v-ferc_merits_2005-04-04.md",
+      "passed": true,
+      "independently_counted": {
+        "Stone-Zsela": 5,
+        "Stevens": 6,
+        "O'Connor": 6,
+        "Scalia": 5,
+        "Kennedy": 6,
+        "Souter": 5,
+        "Thomas": 5,
+        "Ginsburg": 5,
+        "Breyer": 5
+      }
+    },
+    {
+      "check": "Pre-assignment recount matches actual earlier sources: johnson-v-united-states_merits_2005-04-04.md",
+      "passed": true,
+      "independently_counted": {
+        "Stone-Zsela": 5,
+        "Stevens": 6,
+        "O'Connor": 6,
+        "Scalia": 5,
+        "Kennedy": 6,
+        "Souter": 5,
+        "Thomas": 5,
+        "Ginsburg": 6,
+        "Breyer": 5
+      }
+    },
+    {
+      "check": "Pre-assignment recount matches actual earlier sources: rousey-v-jacoway_merits_2005-04-04.md",
+      "passed": true,
+      "independently_counted": {
+        "Stone-Zsela": 5,
+        "Stevens": 6,
+        "O'Connor": 6,
+        "Scalia": 6,
+        "Kennedy": 6,
+        "Souter": 5,
+        "Thomas": 5,
+        "Ginsburg": 6,
+        "Breyer": 5
+      }
+    },
+    {
+      "check": "Pre-assignment recount matches actual earlier sources: dura-pharmaceuticals-v-broudo_merits_2005-04-19.md",
+      "passed": true,
+      "independently_counted": {
+        "Stone-Zsela": 5,
+        "Stevens": 6,
+        "O'Connor": 6,
+        "Scalia": 6,
+        "Kennedy": 6,
+        "Souter": 5,
+        "Thomas": 6,
+        "Ginsburg": 6,
+        "Breyer": 5
+      }
+    },
+    {
+      "check": "Pre-assignment recount matches actual earlier sources: monsanto-co-v-mcfarling_merits_2005-04-19.md",
+      "passed": true,
+      "independently_counted": {
+        "Stone-Zsela": 5,
+        "Stevens": 6,
+        "O'Connor": 6,
+        "Scalia": 6,
+        "Kennedy": 6,
+        "Souter": 5,
+        "Thomas": 6,
+        "Ginsburg": 6,
+        "Breyer": 6
+      }
+    },
+    {
+      "check": "Freeze/runtime byte identity: OT_2004CHUNK6_APPELLATE_SOURCE_NEUTRAL.md",
+      "passed": true
+    },
+    {
+      "check": "Freeze/runtime byte identity: OT_2004CHUNK6_APRIL_COMMITMENTS.md",
+      "passed": true
+    },
+    {
+      "check": "Freeze/runtime byte identity: OT_2004CHUNK6_APRIL_RECONCILED.md",
+      "passed": true
+    },
+    {
+      "check": "Freeze/runtime byte identity: OT_2004CHUNK6_COMMITMENTS.md",
+      "passed": true
+    },
+    {
+      "check": "Freeze/runtime byte identity: OT_2004CHUNK6_EXXON_OBJECTIVE_SUPPLEMENT.md",
+      "passed": true
+    },
+    {
+      "check": "Freeze/runtime byte identity: OT_2004CHUNK6_EXXON_RECONCILED.md",
+      "passed": true
+    },
+    {
+      "check": "Freeze/runtime byte identity: OT_2004CHUNK6_MARCH30_COMMITMENTS.md",
+      "passed": true
+    },
+    {
+      "check": "Freeze/runtime byte identity: OT_2004CHUNK6_MARCH30_RECONCILED.md",
+      "passed": true
+    },
+    {
+      "check": "Freeze/runtime byte identity: OT_2004CHUNK6_NEUTRAL.md",
+      "passed": true
+    },
+    {
+      "check": "Freeze/runtime byte identity: OT_2004CHUNK6_RECONCILED.md",
+      "passed": true
+    },
+    {
+      "check": "Freeze/runtime byte identity: OT_2004CHUNK6_RHINES_RECONCILED.md",
+      "passed": true
+    },
+    {
+      "check": "Freeze/runtime byte identity: OT_2004CHUNK6_SMITH_RECONCILED.md",
+      "passed": true
+    },
+    {
+      "check": "Freeze/runtime byte identity: OT_2004CHUNK6_WORLDCOM_RECONCILED.md",
+      "passed": true
+    },
+    {
+      "check": "Freeze/runtime byte identity: OT_2004CHUNK6_WORLDCOM_STATUTES_NEUTRAL.md",
+      "passed": true
+    },
+    {
+      "check": "Aggregate source fingerprint: OT_2004CHUNK6_MARCH30_COMMITMENTS.md",
+      "passed": true
+    },
+    {
+      "check": "Aggregate source fingerprint: OT_2004CHUNK6_APRIL_COMMITMENTS.md",
+      "passed": true
+    },
+    {
+      "check": "Aggregate source fingerprint: OT_2004CHUNK6_MARCH30_RECONCILED.md",
+      "passed": true
+    },
+    {
+      "check": "Aggregate source fingerprint: OT_2004CHUNK6_APRIL_RECONCILED.md",
+      "passed": true
+    },
+    {
+      "check": "Generated Render Input exists",
+      "passed": true
+    },
+    {
+      "check": "Render Input has nine unique events",
+      "passed": true
+    },
+    {
+      "check": "Render Input event coverage",
+      "passed": true
+    },
+    {
+      "check": "Render Input/source projection identity: california-public-employees-retirement-system-v-worldcom-inc_merits_2005-03-30.md",
+      "passed": true
+    },
+    {
+      "check": "Render Input/source projection identity: exxon-mobil-corp-v-saudi-basic-industries-corp_merits_2005-03-30.md",
+      "passed": true
+    },
+    {
+      "check": "Render Input/source projection identity: rhines-v-weber_merits_2005-03-30.md",
+      "passed": true
+    },
+    {
+      "check": "Render Input/source projection identity: smith-v-city-of-jackson_merits_2005-03-30.md",
+      "passed": true
+    },
+    {
+      "check": "Render Input/source projection identity: consumers-energy-v-ferc_merits_2005-04-04.md",
+      "passed": true
+    },
+    {
+      "check": "Render Input/source projection identity: johnson-v-united-states_merits_2005-04-04.md",
+      "passed": true
+    },
+    {
+      "check": "Render Input/source projection identity: rousey-v-jacoway_merits_2005-04-04.md",
+      "passed": true
+    },
+    {
+      "check": "Render Input/source projection identity: dura-pharmaceuticals-v-broudo_merits_2005-04-19.md",
+      "passed": true
+    },
+    {
+      "check": "Render Input/source projection identity: monsanto-co-v-mcfarling_merits_2005-04-19.md",
+      "passed": true
+    },
+    {
+      "check": "Protected existing-file baseline",
+      "passed": true,
+      "checked": 656,
+      "permitted_changes": [
+        "workspace/continuity.md",
+        "workspace/ledger.md",
+        "workspace/manifest.md",
+        "workspace/neutral-projection.md"
+      ],
+      "unexpected": []
+    },
+    {
+      "check": "Changed/new text restrictions",
+      "passed": true,
+      "files_scanned": 265,
+      "violations": []
+    },
+    {
+      "check": "Chunk 6 Record relative links and anchors",
+      "passed": true,
+      "checked": 52,
+      "violations": []
+    }
+  ],
+  "errors": [],
+  "assignment_counts": {
+    "Stone-Zsela": 5,
+    "Stevens": 6,
+    "O'Connor": 6,
+    "Scalia": 6,
+    "Kennedy": 6,
+    "Souter": 6,
+    "Thomas": 6,
+    "Ginsburg": 6,
+    "Breyer": 6
+  },
+  "lead_total": 53,
+  "counted_events": [
+    {
+      "file": "leocal-v-ashcroft_merits_2004-11-09.md",
+      "date": "2004-11-09",
+      "case": "Leocal v. Ashcroft, No. 03-583.",
+      "authors": [
+        "O'Connor"
+      ],
+      "source": [
+        "O'CONNOR, J., delivered the opinion of the Court, in which STONE-ZSELA, C. J., and STEVENS, SCALIA, KENNEDY, SOUTER, THOMAS, GINSBURG and BREYER, JJ., joined."
+      ]
+    },
+    {
+      "file": "smith-v-texas_merits_2004-11-15.md",
+      "date": "2004-11-15",
+      "case": "Smith v. Texas, No. 04-5323.",
+      "authors": [
+        "Souter"
+      ],
+      "source": [
+        "SOUTER, J., delivered the opinion of the Court, in which STONE-ZSELA, C. J., and STEVENS, O'CONNOR, KENNEDY, GINSBURG and BREYER, JJ., joined. SCALIA, J., filed a dissenting opinion, in which THOMAS, J., joined."
+      ]
+    },
+    {
+      "file": "united-states-v-100348-us-currency_merits_2004-11-15.md",
+      "date": "2004-11-15",
+      "case": "United States v. $100,348.00 in U.S. Currency; 354 F.3d 1110, Ninth Circuit consolidated appeals.",
+      "authors": [
+        "Thomas"
+      ],
+      "source": [
+        "| Court opinion | Thomas | Stone-Zsela, Stevens, Souter, Ginsburg, Breyer | Affirmance in full | Entire opinion |",
+        "| Court opinion, Parts I–II | Thomas | O'Connor, Scalia, Kennedy additionally | Agreement on protected interest and governing law | Possessory claim; punitive coverage, claimant burden and review |"
+      ]
+    },
+    {
+      "file": "anderson-v-spear_merits_2004-11-30.md",
+      "date": "2004-11-30",
+      "case": "Anderson v. Spear; Sixth Circuit No. 02-5529, 356 F.3d 651.",
+      "authors": [
+        "Kennedy"
+      ],
+      "source": [
+        "KENNEDY, J., delivered the opinion of the Court, in which STEVENS, O'CONNOR, SOUTER, GINSBURG and BREYER, JJ., joined; STONE-ZSELA, C. J., joined except as to Part IV's express-advocacy-construction rationale; and SCALIA and THOMAS, JJ., joined except as to Part I. SCALIA, J., and THOMAS, J., each filed an opinion concurring in part and in the judgment."
+      ]
+    },
+    {
+      "file": "koons-buick-v-nigh_merits_2004-11-30.md",
+      "date": "2004-11-30",
+      "case": "Koons Buick Pontiac GMC, Inc. v. Nigh, No. 03-377.",
+      "authors": [
+        "Ginsburg"
+      ],
+      "source": [
+        "GINSBURG, J., delivered the opinion of the Court, in which STONE-ZSELA, C. J., and STEVENS, O'CONNOR, KENNEDY, SOUTER, THOMAS and BREYER, JJ., joined. SCALIA, J., filed a dissenting opinion."
+      ]
+    },
+    {
+      "file": "san-diego-v-roe_merits_2004-12-06.md",
+      "date": "2004-12-06",
+      "case": "San Diego v. Roe; No. 03-1669.",
+      "authors": [
+        "Stevens"
+      ],
+      "source": [
+        "STEVENS, J., delivered the opinion of the Court, in which O'CONNOR, SCALIA, KENNEDY, SOUTER, THOMAS, GINSBURG and BREYER, JJ., joined. STONE-ZSELA, C. J., filed a dissenting opinion."
+      ]
+    },
+    {
+      "file": "theofel-v-farey-jones_merits_2004-12-06.md",
+      "date": "2004-12-06",
+      "case": "Theofel v. Farey-Jones; Ninth Circuit Nos. 02-15742 and 03-15301; 359 F.3d 1066.",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "source": [
+        "STONE-ZSELA, C. J., delivered the opinion of the Court, in which STEVENS, O'CONNOR, SCALIA, KENNEDY, SOUTER, THOMAS, GINSBURG and BREYER, JJ., joined."
+      ]
+    },
+    {
+      "file": "kansas-v-colorado_exceptions_2004-12-07.md",
+      "date": "2004-12-07",
+      "case": "Kansas v. Colorado; No. 105, Original.",
+      "authors": [
+        "Breyer"
+      ],
+      "source": [
+        "BREYER, J., delivered the opinion of the Court, in which STONE-ZSELA, C. J., and STEVENS, O'CONNOR, SCALIA, KENNEDY, SOUTER, THOMAS and GINSBURG, JJ., joined."
+      ]
+    },
+    {
+      "file": "kp-permanent-make-up-v-lasting-impression_merits_2004-12-08.md",
+      "date": "2004-12-08",
+      "case": "KP Permanent Make-Up, Inc. v. Lasting Impression I, Inc.; No. 03-409.",
+      "authors": [
+        "Scalia"
+      ],
+      "source": [
+        "SCALIA, J., delivered the opinion of the Court, in which STONE-ZSELA, C. J., and STEVENS, O'CONNOR, KENNEDY, SOUTER, THOMAS, GINSBURG and BREYER, JJ., joined."
+      ]
+    },
+    {
+      "file": "brosseau-v-haugen_merits_2004-12-13.md",
+      "date": "2004-12-13",
+      "case": "Brosseau v. Haugen; No. 03-1261.",
+      "authors": [
+        "Kennedy"
+      ],
+      "source": [
+        "KENNEDY, J., delivered the opinion of the Court, in which O'CONNOR, SCALIA, SOUTER, THOMAS, GINSBURG and BREYER, JJ., joined. STEVENS, J., and STONE-ZSELA, C. J., each filed a dissenting opinion."
+      ]
+    },
+    {
+      "file": "devenpeck-v-alford_merits_2004-12-13.md",
+      "date": "2004-12-13",
+      "case": "Devenpeck v. Alford, No. 03-710.",
+      "authors": [
+        "O'Connor"
+      ],
+      "source": [
+        "| Opinion of the Court | O'Connor | Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer in full; Stone-Zsela in the substantive governing-rule and remand portions | Eight-Justice reversal and unanimous remand | Eight Associates join throughout; Stone-Zsela joins the complete legal rule, custody qualification and remand grounds, withholding the formal reversal label |"
+      ]
+    },
+    {
+      "file": "educational-credit-management-v-polleys_merits_2004-12-13.md",
+      "date": "2004-12-13",
+      "case": "Educational Credit Management Corp. v. Polleys; lower-court No. 02-8059, 356 F.3d 1302.",
+      "authors": [
+        "Souter"
+      ],
+      "source": [
+        "SOUTER, J., delivered the opinion of the Court, in which STONE-ZSELA, C. J., and STEVENS, O'CONNOR, SCALIA, KENNEDY, THOMAS, GINSBURG and BREYER, JJ., joined."
+      ]
+    },
+    {
+      "file": "florida-v-nixon_merits_2004-12-13.md",
+      "date": "2004-12-13",
+      "case": "Florida v. Nixon, No. 03-931.",
+      "authors": [
+        "Breyer"
+      ],
+      "source": [
+        "BREYER, J., delivered the opinion of the Court, in which STONE-ZSELA, C. J., and STEVENS, O'CONNOR, SCALIA, KENNEDY, SOUTER, THOMAS and GINSBURG, JJ., joined."
+      ]
+    },
+    {
+      "file": "kowalski-v-tesmer_merits_2004-12-13.md",
+      "date": "2004-12-13",
+      "case": "Kowalski v. Tesmer, No. 03-407.",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "source": [
+        "STONE-ZSELA, C. J., delivered the opinion of the Court, in which O'CONNOR, SCALIA, KENNEDY, THOMAS and BREYER, JJ., joined. GINSBURG, J., filed a dissenting opinion, in which STEVENS and SOUTER, JJ., joined."
+      ]
+    },
+    {
+      "file": "timken-v-united-states_merits_2005-01-11.md",
+      "date": "2005-01-11",
+      "case": "Timken Co. v. United States; Federal Circuit Nos. 03-1098 and 03-1238, 354 F.3d 1334.",
+      "authors": [
+        "Kennedy"
+      ],
+      "source": [
+        "| Opinion of the Court, Part I | Kennedy | Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer | Permits consideration of the domestic statutory challenge | Section 3512(c) threshold; Stone-Zsela agrees with this component's disposition without joining its rationale |",
+        "| Opinion of the Court, Part II and remedy | Kennedy | Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer | Affirms the zeroing ruling | Complete merits rule, actual-delegation analysis, international argument and remedy |"
+      ]
+    },
+    {
+      "file": "whitfield-v-united-states_merits_2005-01-11.md",
+      "date": "2005-01-11",
+      "case": "Whitfield v. United States and Hall v. United States; Nos. 03-1293 and 03-1294, consolidated.",
+      "authors": [
+        "Ginsburg"
+      ],
+      "source": [
+        "GINSBURG, J., delivered the opinion of the Court, in which STONE-ZSELA, C. J., and STEVENS, O'CONNOR, SCALIA, KENNEDY, SOUTER, THOMAS and BREYER, JJ., joined."
+      ]
+    },
+    {
+      "file": "clark-v-martinez_merits_2005-01-12.md",
+      "date": "2005-01-12",
+      "case": "Clark v. Martinez; No. 03-878; consolidated with Benitez v. Rozos, No. 03-7434.",
+      "authors": [
+        "Scalia"
+      ],
+      "source": [
+        "SCALIA, J., delivered the opinion of the Court, in which STONE-ZSELA, C. J., and STEVENS, O'CONNOR, KENNEDY, SOUTER, GINSBURG and BREYER, JJ., joined. THOMAS, J., filed a dissenting opinion."
+      ]
+    },
+    {
+      "file": "jama-v-immigration-and-customs-enforcement_merits_2005-01-12.md",
+      "date": "2005-01-12",
+      "case": "Jama v. Immigration and Customs Enforcement; No. 03-674.",
+      "authors": [
+        "Thomas"
+      ],
+      "source": [
+        "THOMAS, J., delivered the opinion of the Court, in which STONE-ZSELA, C. J., and O'CONNOR, SCALIA and KENNEDY, JJ., joined. SOUTER, J., filed a dissenting opinion, in which STEVENS, GINSBURG and BREYER, JJ., joined."
+      ]
+    },
+    {
+      "file": "nordyke-v-king_merits_2005-01-12.md",
+      "date": "2005-01-12",
+      "case": "Nordyke v. King; judgment below, 319 F.3d 1185; district-court No. CV-99-04389-MJJ.",
+      "authors": [
+        "Souter"
+      ],
+      "source": [
+        "| Opinion of the Court, Parts I and III | Souter | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | Unanimous mixed judgment | Existing individual-right application, conditional remedy and bounded remand; facial speech disposition and actual-expression distinctions |",
+        "| Opinion of the Court, Part II | Souter | Stone-Zsela, O'Connor, Kennedy, Ginsburg | Five direct framework joins supporting the unanimous remand | Complete Wright coverage and practical-burden framework |"
+      ]
+    },
+    {
+      "file": "united-states-v-booker_merits_2005-01-12.md",
+      "date": "2005-01-12",
+      "case": "United States v. Booker; No. 04-104; consolidated with United States v. Fanfan, No. 04-105.",
+      "authors": [
+        "Stevens"
+      ],
+      "source": [
+        "| Opinion of the Court, Part I | Stevens | Stone-Zsela, Scalia, Souter, Thomas, Ginsburg | Six-Justice constitutional holding | Complete existing authorization, charging and proof rule and its application to both dockets |",
+        "| Opinion of the Court, Part II, including the mandate | Stevens | Stone-Zsela, Scalia, Souter, Thomas | Five-Justice preservation remedy and complete docket directions | Lawful-application severability, retained binding statute, Booker resentencing and Fanfan affirmance |"
+      ]
+    },
+    {
+      "file": "commissioner-v-banks_merits_2005-01-24.md",
+      "date": "2005-01-24",
+      "case": "Commissioner of Internal Revenue v. Banks, No. 03-892; Commissioner of Internal Revenue v. Banaitis, No. 03-907.",
+      "authors": [
+        "Stevens"
+      ],
+      "source": [
+        "| Opinion of the Court | Stevens | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Reversal and remand in both dockets | Entire attribution rule, separate Oregon application and both tax-year remands |"
+      ]
+    },
+    {
+      "file": "gdf-realty-v-norton_merits_2005-01-24.md",
+      "date": "2005-01-24",
+      "case": "GDF Realty Investments, Ltd. v. Norton; Fifth Circuit No. 01-51099; 326 F.3d 622, rehearing denied, 362 F.3d 286.",
+      "authors": [
+        "Breyer"
+      ],
+      "source": [
+        "| Opinion of the Court | Breyer | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg | Affirmance | Complete necessary-inclusion rule, application and constitutional remedy |"
+      ]
+    },
+    {
+      "file": "illinois-v-caballes_merits_2005-01-24.md",
+      "date": "2005-01-24",
+      "case": "Illinois v. Caballes, No. 03-923.",
+      "authors": [
+        "O'Connor"
+      ],
+      "source": [
+        "| Opinion of the Court | O'Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Thomas and Breyer join in full | Complete limited nonsearch rule, application and vacatur-and-remand remedy |"
+      ]
+    },
+    {
+      "file": "womens-medical-v-taft_merits_2005-01-24.md",
+      "date": "2005-01-24",
+      "case": "Women’s Medical Professional Corp. v. Taft; Sixth Circuit No. 01-4124; 353 F.3d 436.",
+      "authors": [
+        "Ginsburg"
+      ],
+      "source": [
+        "| Court opinion, Part I: statutory scope | Ginsburg | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer in full; Stone-Zsela in the complete-elements and distinct-exclusions propositions only | Eight sustain the completed ordinary-D&E application; all nine accept the stated actual-conduct rule. Stone-Zsela withholds the conclusive coverage determination. |",
+        "| Court opinion, Part II and the necessary-care portions of Part IV | Ginsburg | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter and Breyer | Seven directly join the necessary-care rule, corrected construction/clinical inquiry and conditional health remedy. |",
+        "| Court opinion, Part III and the additional full-framework direction in Part IV | Ginsburg | Stone-Zsela, Stevens, O'Connor, Souter and Breyer | Six directly join the complete previability framework and its operative remand instruction. |"
+      ]
+    },
+    {
+      "file": "karaha-bodas-v-pertamina_merits_2005-02-22.md",
+      "date": "2005-02-22",
+      "case": "Karaha Bodas Co., L.L.C. v. Perusahaan Pertambangan Minyak Dan Gas Bumi Negara; review of 364 F.3d 274; no Supreme Court docket supplied.",
+      "authors": [
+        "Thomas"
+      ],
+      "source": [
+        "| Opinion of the Court | Thomas | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg, Breyer | Affirmance | Entire treaty rule, actual-clause construction and recognition disposition |"
+      ]
+    },
+    {
+      "file": "smith-v-massachusetts_merits_2005-02-22.md",
+      "date": "2005-02-22",
+      "case": "Smith v. Massachusetts; No. 03-8661.",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "source": [
+        "| Opinion of the Court | Stone-Zsela | Stevens, O'Connor, Scalia, Souter, Thomas | Reversal of the firearm judgment and fitted remand | Entire completion rule, application and remedy |"
+      ]
+    },
+    {
+      "file": "stewart-v-dutra_merits_2005-02-22.md",
+      "date": "2005-02-22",
+      "case": "Stewart v. Dutra Construction Co.; No. 03-814.",
+      "authors": [
+        "Scalia"
+      ],
+      "source": [
+        "| Opinion of the Court | Scalia | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg, Breyer | Jones Act reversal and remand; preservation of the independent section 905(b) judgment | Complete practical-capability rule, application and fitted mandate |"
+      ]
+    },
+    {
+      "file": "dowhal-v-smithkline-beecham_merits_2005-02-23.md",
+      "date": "2005-02-23",
+      "case": "Dowhal v. SmithKline Beecham Consumer Healthcare; California Supreme Court No. S109306; 32 Cal. 4th 910.",
+      "authors": [
+        "Breyer"
+      ],
+      "source": [
+        "| Opinion of the Court | Breyer | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Court's statutory grounds | Part I: saving provision, contextual misleadingness and actual federal predicate |",
+        "| Opinion of the Court | Breyer | Stone-Zsela, O'Connor, Scalia, Kennedy | Supports affirmance | Part II: present conflict and judgment |"
+      ]
+    },
+    {
+      "file": "johnson-v-california_merits_2005-02-23.md",
+      "date": "2005-02-23",
+      "case": "Johnson v. California; No. 03-636.",
+      "authors": [
+        "O'Connor"
+      ],
+      "source": [
+        "| Opinion of the Court | O'Connor | Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg, Breyer | Controlling legal rules | Parts I and III: common standard and independent remedies rules |",
+        "| Opinion of the Court | O'Connor | Stone-Zsela, Kennedy, Souter, Ginsburg, Breyer | Supports actual vacatur and open merits remand | Part II |"
+      ]
+    },
+    {
+      "file": "cherokee-nation-v-leavitt_merits_2005-03-01.md",
+      "date": "2005-03-01",
+      "case": "Cherokee Nation of Oklahoma v. Leavitt; Nos. 02-1472 and 03-853.",
+      "authors": [
+        "Souter"
+      ],
+      "source": [
+        "| Opinion of the Court | Souter | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | Supports both docket judgments | Entire opinion, including all four holdings and the docket-specific remedies |"
+      ]
+    },
+    {
+      "file": "petro-hunt-v-united-states_merits_2005-03-01.md",
+      "date": "2005-03-01",
+      "case": "Petro-Hunt, L.L.C. v. United States; No. 04-190; judgment below, 365 F.3d 385.",
+      "authors": [
+        "Scalia"
+      ],
+      "source": [
+        "| Opinion of the Court | Scalia | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg, Breyer | Supports affirmance and remand | Entire opinion, both preclusion holdings and the remand instructions |"
+      ]
+    },
+    {
+      "file": "roper-v-simmons_merits_2005-03-01.md",
+      "date": "2005-03-01",
+      "case": "Roper v. Simmons; No. 03-633.",
+      "authors": [
+        "Kennedy"
+      ],
+      "source": [
+        "| Opinion of the Court | Kennedy | Stone-Zsela, Stevens, Souter, Ginsburg, Breyer | Supports affirmance | Complete categorical rule, precedent treatment and remedy |"
+      ]
+    },
+    {
+      "file": "tenet-v-doe_merits_2005-03-02.md",
+      "date": "2005-03-02",
+      "case": "Tenet v. Doe; No. 03-1395.",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "source": [
+        "| Opinion of the Court | Stone-Zsela | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Supports reversal and dismissal | Entire opinion, all three holdings and the implementing mandate |"
+      ]
+    },
+    {
+      "file": "back-v-hastings-on-hudson_merits_2005-03-07.md",
+      "date": "2005-03-07",
+      "case": "Back v. Hastings on Hudson Union Free School District; judgment below, 365 F.3d 107.",
+      "authors": [
+        "Ginsburg"
+      ],
+      "source": [
+        "| Opinion of the Court | Ginsburg | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Breyer | Supports affirmance on both questions | Entire evidentiary rule, conduct-date immunity application and trial remand |"
+      ]
+    },
+    {
+      "file": "ballard-v-commissioner_merits_2005-03-07.md",
+      "date": "2005-03-07",
+      "case": "Ballard v. Commissioner; No. 03-184; consolidated with Estate of Kanter v. Commissioner, No. 03-1034.",
+      "authors": [
+        "Stevens"
+      ],
+      "source": [
+        "| Opinion of the Court | Stevens | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Ginsburg, Breyer | Supports reversal in both dockets | Entire report-identity, disclosure, weighted-review and remedial holding |"
+      ]
+    },
+    {
+      "file": "shepard-v-united-states_merits_2005-03-07.md",
+      "date": "2005-03-07",
+      "case": "Shepard v. United States; No. 03-9168.",
+      "authors": [
+        "Thomas"
+      ],
+      "source": [
+        "| Opinion of the Court, Part I | Thomas | Stone-Zsela, Stevens, Scalia, Souter, Ginsburg | Supports statutory reversal | Complete conviction-record restriction and application |",
+        "| Opinion of the Court, Part II | Thomas | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg, Breyer | Supports removal of the unconditional command and lawful resentencing | Application of governing Gatewood and Booker law and bounded remand; the three Part I dissenters retain their earlier constitutional objections |"
+      ]
+    },
+    {
+      "file": "wilkinson-v-dotson_merits_2005-03-07.md",
+      "date": "2005-03-07",
+      "case": "Wilkinson v. Dotson; No. 03-287; claims of William Dwight Dotson and William Johnson.",
+      "authors": [
+        "O'Connor"
+      ],
+      "source": [
+        "| Opinion of the Court | O'Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Supports affirmance for both plaintiffs | Entire actual-legal-effect rule, discretion-preserving application and ordinary remand |"
+      ]
+    },
+    {
+      "file": "black-political-task-force-v-galvin_merits_2005-03-22.md",
+      "date": "2005-03-22",
+      "case": "Black Political Task Force v. Galvin; lower-court No. 02-11190; 300 F. Supp. 2d 291.",
+      "authors": [
+        "Souter"
+      ],
+      "source": [
+        "| Opinion of the Court, Part I | Souter | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | Live appeal and final-judgment scope |",
+        "| Opinion of the Court, Part II | Souter | Stone-Zsela, Stevens, O'Connor, Kennedy, Ginsburg, Breyer | Coverage, causal findings, independent totality and correction of legal errors |",
+        "| Opinion of the Court, Part III | Souter | Stone-Zsela, Stevens, Ginsburg, Breyer | Independent actual injury, affirmance and fitted remedy |"
+      ]
+    },
+    {
+      "file": "brown-v-payton_merits_2005-03-22.md",
+      "date": "2005-03-22",
+      "case": "Brown v. Payton; No. 03-1039; 544 U.S. 133.",
+      "authors": [
+        "Breyer"
+      ],
+      "source": [
+        "| Opinion of the Court, Part I | Breyer | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Applicable review law and substantive cutoff |",
+        "| Opinion of the Court, Part II | Breyer | O'Connor, Scalia, Kennedy, Thomas | Statutory bar, reversal of relief and mandate |"
+      ]
+    },
+    {
+      "file": "muehler-v-mena_merits_2005-03-22.md",
+      "date": "2005-03-22",
+      "case": "Muehler v. Mena; No. 03-1423.",
+      "authors": [
+        "Ginsburg"
+      ],
+      "source": [
+        "| Opinion of the Court, Parts I and III | Ginsburg | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer: initial detention, questioning, post-search custody, question scope and remedy |",
+        "| Opinion of the Court, Part II | Ginsburg | Stone-Zsela, Stevens, Souter, Ginsburg, Breyer: continued-force review |"
+      ]
+    },
+    {
+      "file": "rancho-palos-verdes-v-abrams_merits_2005-03-22.md",
+      "date": "2005-03-22",
+      "case": "Rancho Palos Verdes v. Abrams; No. 03-1601.",
+      "authors": [
+        "Thomas"
+      ],
+      "source": [
+        "| Opinion of the Court | Thomas | All other Justices |"
+      ]
+    },
+    {
+      "file": "city-of-sherrill-v-oneida-indian-nation_merits_2005-03-29.md",
+      "date": "2005-03-29",
+      "case": "City of Sherrill v. Oneida Indian Nation of New York; No. 03-855; the Lead, Eviction and Members cases at their reviewed scope.",
+      "authors": [
+        "Kennedy"
+      ],
+      "source": [
+        "| Opinion of the Court, Part I | Kennedy | O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer: sovereign nonrevival, affirmative and defensive tax application, and the dependent Lead/laches disposition |",
+        "| Opinion of the Court, Part II | Kennedy | Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer: independent procedural grounds and precise surviving judgment scope |"
+      ]
+    },
+    {
+      "file": "jackson-v-birmingham-board-of-education_merits_2005-03-29.md",
+      "date": "2005-03-29",
+      "case": "Jackson v. Birmingham Board of Education; No. 02-1672; 544 U.S. 167.",
+      "authors": [
+        "Stevens"
+      ],
+      "source": [
+        "| Opinion of the Court, Parts I–III | Stevens | Stone-Zsela, O'Connor, Souter, Ginsburg, Breyer | Reversal; statutory coverage, injured-reporter entitlement, action and notice, bounded remand and relief |"
+      ]
+    },
+    {
+      "file": "sabree-ex-rel-sabree-v-richman_merits_2005-03-29.md",
+      "date": "2005-03-29",
+      "case": "Sabree ex rel. Sabree v. Richman; review of 367 F.3d 180 (3d Cir. 2004).",
+      "authors": [
+        "Scalia"
+      ],
+      "source": [
+        "| Opinion of the Court, Parts I–III | Scalia | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg, Breyer | Affirmance; assistance and timing rights, section 1983 channel, bounded prospective-enforcement remand |"
+      ]
+    },
+    {
+      "file": "california-public-employees-retirement-system-v-worldcom-inc_merits_2005-03-30.md",
+      "date": "2005-03-30",
+      "case": "California Public Employees’ Retirement System v. WorldCom, Inc.; judgment below, 368 F.3d 86; Second Circuit No. 04-0219. No Supreme Court docket is supplied.",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "source": [
+        "| Opinion of the Court | Stone-Zsela | Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Reversal and remand | All propositions |"
+      ]
+    },
+    {
+      "file": "exxon-mobil-corp-v-saudi-basic-industries-corp_merits_2005-03-30.md",
+      "date": "2005-03-30",
+      "case": "Exxon Mobil Corp. v. Saudi Basic Industries Corp., No. 03-1696; judgment below, 364 F.3d 102.",
+      "authors": [
+        "Kennedy"
+      ],
+      "source": [
+        "| Opinion of the Court | Kennedy | Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Reversal and remand | All propositions |"
+      ]
+    },
+    {
+      "file": "rhines-v-weber_merits_2005-03-30.md",
+      "date": "2005-03-30",
+      "case": "Rhines v. Weber, No. 03-9046; judgment below, 346 F.3d 799.",
+      "authors": [
+        "O'Connor"
+      ],
+      "source": [
+        "| Opinion of the Court | O'Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Thomas, Ginsburg, Breyer; Souter to the extent stated | Vacatur and remand | All propositions receive nine joins except the necessary initial good-cause condition, which receives eight |"
+      ]
+    },
+    {
+      "file": "smith-v-city-of-jackson_merits_2005-03-30.md",
+      "date": "2005-03-30",
+      "case": "Smith v. City of Jackson, No. 03-1160; judgment below, 351 F.3d 183.",
+      "authors": [
+        "Stevens"
+      ],
+      "source": [
+        "| Opinion of the Court | Stevens | Stone-Zsela, Souter, Ginsburg, Breyer in full; Scalia except as stated | Affirms on reasonable nonage factors | Six support operative recognition, particular-practice causation, reasonable-factors rule and application; five support independent judicial construction |"
+      ]
+    },
+    {
+      "file": "consumers-energy-v-ferc_merits_2005-04-04.md",
+      "date": "2005-04-04",
+      "case": "Consumers Energy Co. v. Federal Energy Regulatory Commission; judgment below, 367 F.3d 915; D.C. Circuit No. 03-1162. No Supreme Court docket supplied.",
+      "authors": [
+        "Ginsburg"
+      ],
+      "source": [
+        "| Opinion of the Court | Ginsburg | All other Associate Justices in full; Chief Justice Stone-Zsela as to Part I | Affirms denial of review | Part I: comparability and review, all nine; Part II: rehearing prerequisite, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer |"
+      ]
+    },
+    {
+      "file": "johnson-v-united-states_merits_2005-04-04.md",
+      "date": "2005-04-04",
+      "case": "Johnson v. United States, No. 03-9685; judgment below, 340 F.3d 1219.",
+      "authors": [
+        "Scalia"
+      ],
+      "source": [
+        "| Opinion of the Court | Scalia | Stone-Zsela, Stevens, Kennedy and Ginsburg in full; O’Connor, Souter, Thomas and Breyer as to Part I | Reversal and remand | All nine join vacatur as fact; five join the discovery-only rule, application and remedy |"
+      ]
+    },
+    {
+      "file": "rousey-v-jacoway_merits_2005-04-04.md",
+      "date": "2005-04-04",
+      "case": "Rousey v. Jacoway, No. 03-1407; judgment below, 347 F.3d 689.",
+      "authors": [
+        "Thomas"
+      ],
+      "source": [
+        "| Opinion of the Court | Thomas | All other participating Justices | Reversal and remand | Both statutory eligibility holdings, qualifications and remand |"
+      ]
+    },
+    {
+      "file": "dura-pharmaceuticals-v-broudo_merits_2005-04-19.md",
+      "date": "2005-04-19",
+      "case": "Dura Pharmaceuticals, Inc. v. Broudo, No. 03-932; judgment below, 339 F.3d 933.",
+      "authors": [
+        "Breyer"
+      ],
+      "source": [
+        "| Opinion of the Court | Breyer | All other participating Justices | Reversal and remand | Causal-loss rule, insufficiency even under ordinary notice pleading, and remand |"
+      ]
+    },
+    {
+      "file": "monsanto-co-v-mcfarling_merits_2005-04-19.md",
+      "date": "2005-04-19",
+      "case": "Monsanto Co. v. McFarling; judgment below, 363 F.3d 1336; Federal Circuit Nos. 03-1177 and 03-1228. No Supreme Court docket is supplied.",
+      "authors": [
+        "Souter"
+      ],
+      "source": [
+        "| Opinion of the Court | Souter | Stone-Zsela, Stevens, Kennedy, Ginsburg and Breyer in full; O’Connor, Scalia and Thomas as to Parts I, II and IV | Affirms in part, vacates in part and remands | Nine join patent/contract, general independent-tying rule and damages mandate; six join the antitrust application and remand |"
+      ]
+    }
+  ],
+  "excluded_events": [
+    {
+      "file": "american-jobs-creation-act-section-703_source_2004-10-22.md",
+      "reason": "Source admission, procedural disposition, or per curiam; not a signed plenary merits lead."
+    },
+    {
+      "file": "bell-v-cone_merits_2005-01-24.md",
+      "reason": "Source admission, procedural disposition, or per curiam; not a signed plenary merits lead."
+    },
+    {
+      "file": "catholic-charities-v-superior-court_jurisdiction_2005-03-02.md",
+      "reason": "Source admission, procedural disposition, or per curiam; not a signed plenary merits lead."
+    },
+    {
+      "file": "howell-v-mississippi_dig_2005-01-24.md",
+      "reason": "Source admission, procedural disposition, or per curiam; not a signed plenary merits lead."
+    }
+  ],
+  "freeze_runtime_pairs": [
+    {
+      "file": "OT_2004CHUNK6_APPELLATE_SOURCE_NEUTRAL.md",
+      "sha256": "73472da93c10d58606b90f6e2dd82bdd8225cd0ed520380ebf1b90fe432052d1",
+      "identical": true
+    },
+    {
+      "file": "OT_2004CHUNK6_APRIL_COMMITMENTS.md",
+      "sha256": "f8a313219505c555f96db6409ca8f0fb54545e3bbef6cf40d923f301ad7c57c4",
+      "identical": true
+    },
+    {
+      "file": "OT_2004CHUNK6_APRIL_RECONCILED.md",
+      "sha256": "362b83f4ea51d4746152cb441355e3bc528110ffe2617a7574abf638f68e0e6f",
+      "identical": true
+    },
+    {
+      "file": "OT_2004CHUNK6_COMMITMENTS.md",
+      "sha256": "80b9305dad88bdb40f5ec174a7bcaf55778099aa9e9cfddf2a8e43a15f22efd2",
+      "identical": true
+    },
+    {
+      "file": "OT_2004CHUNK6_EXXON_OBJECTIVE_SUPPLEMENT.md",
+      "sha256": "5530aae4797a4d52369ea2bfb4e7803a955aa46f3c8ba621ca01df5b3e2d2bbb",
+      "identical": true
+    },
+    {
+      "file": "OT_2004CHUNK6_EXXON_RECONCILED.md",
+      "sha256": "5b04be71a478b5887740495e49d29e4eac80d5694228e7ba7150cbd49623d1e7",
+      "identical": true
+    },
+    {
+      "file": "OT_2004CHUNK6_MARCH30_COMMITMENTS.md",
+      "sha256": "f444d7507b5cbc99ee156dab5ac3419f05f84da4f2d806b920fcd959a9c84791",
+      "identical": true
+    },
+    {
+      "file": "OT_2004CHUNK6_MARCH30_RECONCILED.md",
+      "sha256": "df8a5d947b62e6f4d43d811f384ad5c211dd4020f26c2a84fc51f8fb53b1d2ab",
+      "identical": true
+    },
+    {
+      "file": "OT_2004CHUNK6_NEUTRAL.md",
+      "sha256": "034ff8dcd71195fafe7c1f9152d79b4883c9eb07458796f4c63fb3dfffb53723",
+      "identical": true
+    },
+    {
+      "file": "OT_2004CHUNK6_RECONCILED.md",
+      "sha256": "3733baddacda4ef52f16d973ff5571ffc3401c70548ef82d73476df02ef8e4d0",
+      "identical": true
+    },
+    {
+      "file": "OT_2004CHUNK6_RHINES_RECONCILED.md",
+      "sha256": "6cfb4acff55fb21988ee907cb0a0fdfda0ebc661b2b20256cd46a70a3d5dcfa6",
+      "identical": true
+    },
+    {
+      "file": "OT_2004CHUNK6_SMITH_RECONCILED.md",
+      "sha256": "015c995350f975d00002249386e0dae6110cf02ceca203b5715e193d74e2f22a",
+      "identical": true
+    },
+    {
+      "file": "OT_2004CHUNK6_WORLDCOM_RECONCILED.md",
+      "sha256": "432524eb662e799619ec812757e4f28363c69f4b02f841fbad8ee064fa4e8c82",
+      "identical": true
+    },
+    {
+      "file": "OT_2004CHUNK6_WORLDCOM_STATUTES_NEUTRAL.md",
+      "sha256": "0cbb0d775f0fa99462b6044867d7250b174dcbf00abe3fa4b15c8d2a137c4ad7",
+      "identical": true
+    }
+  ],
+  "public_topology_arithmetic_review": "All nine public participation rosters and all judgment components reconcile. Rhines: nine judgment votes, eight initial-good-cause joins. Smith: nine judgment votes, six operative recognition joins, five independent-construction joins. Consumers: nine judgment votes and Part I joins, eight Part II joins. Johnson: nine Part I joins, five Part II/reversal joins and four dissenters. Monsanto: nine common-parts and contract/damages votes, six antitrust-application/remand joins and three opposing that component. This checks the stated relationships, not their independent substantive justification.",
+  "limits": "No repository-history command or child process was launched. History commitment, ordering and object existence were not verified. These deterministic checks do not decide legal compatibility, historical departure justification or substantive coalition validity."
+}

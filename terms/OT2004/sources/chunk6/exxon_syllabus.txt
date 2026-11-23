@@ -1,0 +1,182 @@
+https://www.law.cornell.edu/supct/html/03-1696.ZS.html
+
+EXXON MOBIL CORP. V. SAUDI BASIC INDUSTRIES CORP.
+LII
+Supreme Court
+EXXON MOBIL CORP. V. SAUDI BASIC INDUSTRIES CORP. (03-1696)
+364 F.3d 102, reversed and remanded.
+Syllabus
+Opinion
+[ Ginsburg ]
+HTML version
+PDF versionHTML version
+PDF version
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be
+released, as is being done in connection with this case, at the
+time the opinion is issued.
+The syllabus constitutes no part
+of the opinion of the Court but has been prepared by the
+Reporter of Decisions for the convenience of the reader.
+See
+United States v. Detroit Timber & Lumber Co., 200 U.S. 321,
+337.
+SUPREME COURT OF THE UNITED
+STATES
+EXXON MOBIL CORP. et al. v.
+SAUDI BASIC INDUSTRIES CORP.
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE THIRD CIRCUIT
+No. 03—1696.Argued February 23,
+2005–Decided March 30, 2005
+The Rooker-Feldman doctrine, at issue
+in this case, has been applied by this Court only twice, in
+Rooker v. Fidelity Trust Co., 263 U.S. 413, and in
+District of Columbia Court of Appeals v. Feldman,
+460 U.S. 462.  In
+Rooker, plaintiffs previously defeated in state court
+filed suit in a Federal District Court alleging that the
+adverse state-court judgment was unconstitutional and asking
+that it be declared “null and void.”	263 U.S., at
+414—415.  Noting preliminarily that the state court had
+acted within its jurisdiction, this Court explained that if the
+state-court decision was wrong, “that did not make the
+judgment void, but merely left it open to reversal or
+modification in an appropriate and timely appellate
+proceeding.”  Id., at 415.	Federal district
+courts, Rooker recognized, are empowered to exercise
+only original, not appellate, jurisdictions.  Id., at
+416.  Because Congress has empowered this Court alone to
+exercise appellate authority “to reverse or modify” a
+state-court judgment, ibid., the Court affirmed a decree
+dismissing the federal suit for lack of jurisdiction,
+id., at 415, 417.  In Feldman, two plaintiffs
+brought federal-court actions after the District of
+Columbia’s highest court denied their petitions to waive a
+court Rule requiring D. C. bar applicants to have
+graduated from an accredited law school.  Recalling
+Rooker, this Court observed that the District Court
+lacked authority to review a final judicial determination of
+the D. C. high court because such review “can be
+obtained only in this Court.”  460 U.S., at 476.
+Concluding that the D. C. court’s proceedings
+applying the accreditation Rule to the plaintiffs were
+“judicial in nature,” id., at 479—482,
+this Court ruled that the Federal District Court lacked
+subject-matter jurisdiction, id., at 482.  However,
+concluding also that, in promulgating the bar admission Rule,
+the D. C. court had acted legislatively, not judicially,
+id., at 485—486, this Court held that 28 U.S.C. §
+1257 did not bar the District Court from addressing the
+validity of the Rule itself, so long as the plaintiffs did not
+seek review of the Rule’s application in a particular
+case, 460 U.S., at 486.  Since Feldman, this Court has
+never applied Rooker-Feldman to dismiss an action for
+want of jurisdiction.  However, the lower federal courts have
+variously interpreted the Rooker-Feldman doctrine to
+extend far beyond the contours of the Rooker and
+Feldman cases, overriding Congress’ conferral of
+federal-court jurisdiction concurrent with jurisdiction
+exercised by state courts, and superseding the ordinary
+application of preclusion law under 28 U.S.C. §
+1738.
+In this case,
+two subsidiaries of petitioner Exxon Mobil Corporation formed
+joint ventures with respondent Saudi Basic Industries Corp.
+(SABIC) to produce polyethylene in Saudi Arabia.  When a
+dispute arose over royalties that SABIC had charged the joint
+ventures, SABIC preemptively sued the two subsidiaries in a
+Delaware state court, seeking a declaratory judgment that the
+royalties were proper.	ExxonMobil and the subsidiaries then
+countersued in the Federal District Court, alleging that SABIC
+overcharged them.  Before the state-court trial, which
+ultimately yielded a jury verdict of over $400 million for the
+ExxonMobil subsidiaries, the District Court denied SABIC’s
+motion to dismiss the federal suit.  On interlocutory appeal,
+over eight months after the state-court jury verdict, the Third
+Circuit, on its own motion, raised the question whether
+subject-matter jurisdiction over the federal suit failed under
+the Rooker-Feldman doctrine because ExxonMobil’s
+claims had already been litigated in state court.  The court
+did not question the District Court’s subject-matter
+jurisdiction at the suit’s outset, but held that federal
+jurisdiction terminated when the Delaware court entered
+judgment on the jury verdict.
+Held: The Rooker-Feldman
+doctrine is confined to cases of the kind from which it
+acquired its name: cases brought by state-court losers
+complaining of injuries caused by state-court judgments
+rendered before the federal district court proceedings
+commenced and inviting district court review and rejection of
+those judgments.  Rooker-Feldman does not otherwise
+override or supplant preclusion doctrine or augment the
+circumscribed doctrines allowing federal courts to stay or
+dismiss proceedings in deference to state-court actions.
+Pp. 10—13.
+(a) Rooker
+and Feldman exhibit the limited circumstances in
+which this Court’s appellate jurisdiction over state-court
+judgments, §1257, precludes a federal district court from
+exercising subject-matter jurisdiction in an action it would
+otherwise be empowered to adjudicate under a congressional
+grant of authority.  In both cases, the plaintiffs, alleging
+federal-question jurisdiction, called upon the District Court
+to overturn an injurious state-court judgment.	Because
+§1257, as long interpreted, vests authority to review a
+state-court judgment solely in this Court, e.g.,
+Feldman, 460 U.S., at 476, the District Courts lacked
+subject-matter jurisdiction, see, e.g., Verizon Md. Inc.
+v. Public Serv. Comm’n of Md., 535 U.S. 635, 644,
+n. 3.  When there is parallel state and federal
+litigation, Rooker-Feldman is not triggered simply by
+the entry of judgment in state court.  See, e.g., McClellan
+v. Carland, 217 U.S. 268, 282.
+Comity or abstention doctrines may, in various circumstances,
+permit or require the federal court to stay or dismiss the
+federal action in favor of the state-court litigation.	See,
+e.g., Colorado River Water Conservation Dist. v.
+United States, 424 U.S. 800.  But
+neither Rooker nor Feldman supports the notion
+that properly invoked concurrent jurisdiction vanishes if a
+state court reaches judgment on the same or a related question
+while the case remains sub judice in a federal court.
+Disposition of the federal action, once the state-court
+adjudication is complete, would be governed by preclusion law.
+Under 28 U.S.C.
+§ 1738 federal courts must “give the same
+preclusive effect to a state-court judgment as another court of
+that State would give.”  Parsons Steel, Inc. v.
+First Alabama Bank, 474 U.S. 518, 523.
+Preclusion is not a jurisdictional matter.  See Fed. Rule Civ.
+Proc. 8(c).  In parallel litigation, a federal court may
+be bound to recognize the claim- and issue-preclusive effects
+of a state-court judgment, but federal jurisdiction over an
+action does not terminate automatically on the entry of
+judgment in the state court.  Nor does §1257 stop a
+district court from exercising subject-matter jurisdiction
+simply because a party attempts to litigate in federal court a
+matter previously litigated in state court.  If a federal
+plaintiff presents an independent claim, even one that denies a
+state court’s legal conclusion in a case to which the
+plaintiff was a party, there is jurisdiction and state law
+determines whether the defendant prevails under preclusion
+principles.  Pp. 10—12.
+(b) The
+Rooker-Feldman doctrine does not preclude the federal
+court from proceeding in this case.  ExxonMobil has not
+repaired to federal court to undo the Delaware judgment in its
+favor, but appears to have filed its federal-court suit (only
+two weeks after SABIC filed in Delaware and well before any
+judgment in state court) to protect itself in the event it lost
+in state court on grounds (such as the state statute of
+limitations) that might not preclude relief in the federal
+venue.	Rooker-Feldman did not prevent the District
+Court from exercising jurisdiction when ExxonMobil filed the
+federal action, and it did not emerge to vanquish jurisdiction
+after ExxonMobil prevailed in the Delaware courts.  The Third
+Circuit misperceived the narrow ground occupied by
+Rooker-Feldman, and consequently erred in ordering the
+federal action dismissed.  Pp. 12—13.
+364 F.3d 102, reversed and remanded.
+Ginsburg, J.,
+delivered the opinion for a unanimous Court.
