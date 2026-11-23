@@ -1,0 +1,1397 @@
+--- PDF page 1 ---
+UNITED STATES COURT OF APPEALS
+FOR THE FIFTH CIRCUIT
+                  
+No.  01-51099
+                   
+GDF REALTY INVESTMENTS, LTD.; PARKE PROPERTIES I, L.P.; PARKE
+PROPERTIES II, L.P.,
+Plaintiffs-Appellants,
+versus
+GALE A. NORTON, Secretary, U.S. Department of the Interior;
+MARSHALL P. JONES, Director, U.S. Fish and Wildlife Service,
+Defendants-Appellees.
+_________________________________________________________________
+Appeal from the United States District Court
+for the Western District of Texas 
+_________________________________________________________________
+March 26, 2003
+Before DAVIS, BARKSDALE, and DENNIS, Circuit Judges.
+RHESA HAWKINS BARKSDALE, Circuit Judge:
+The Endangered Species Act of 1973, 16 U.S.C. § 1531, et seq.
+(ESA), contains a “take” provision, 16 U.S.C. § 1538(a)(1)(B).  For
+this challenge to Congress' Commerce Clause power, U.S. CONST. art.
+I, § 8, cl. 3, at issue is whether ESA's take provision is
+unconstitutional as applied to six species of subterranean
+invertebrates found only within two counties in Texas (Cave
+Species).  Central to this question is whether, to demonstrate the
+requisite substantial effect on interstate commerce, Cave Species
+
+--- PDF page 2 ---
+2
+“takes” may be aggregated with those of all other endangered
+species.  They can be; the judgment is AFFIRMED.
+I.
+In 1983, Dr. Fred Purcell and his brother purchased an
+interest in 216 acres in Travis County, Texas, near the City of
+Austin (the property).  The property (lying within approximately
+1,200 acres known as the Parke) consists of seven tracts in which
+the Purcells, as the limited partners in Parke Properties I, L.P.,
+and Parke Properties II, L.P., hold a 70 percent interest.  GDF
+Realty Investments, Ltd., holds the remaining interest in the
+property.  It is located at the intersection of two major highways
+in what is, commercially and residentially, a rapidly growing area.
+The property is part of the Jollyville Plateau and is
+characterized by karst topography, in which water percolating
+through limestone rock creates caves, sinkholes, and canyons.  The
+property contains a number of caves, including Tooth, Kretschmarr,
+Root, Gallifer, and Amber, as well as a collection of caves known
+as the Cave Cluster.
+Since acquiring the property, the Purcells and their partners
+(Purcells) have attempted to develop it commercially, including the
+installation of water and wastewater gravity lines, force mains,
+lift stations, and other utilities.  These improvements have been
+dedicated to the City of Austin; a right-of-way, to Travis County.
+
+--- PDF page 3 ---
+3
+In 1988, the United States Fish and Wildlife Service (FWS), an
+agency under the auspices of the Department of the Interior, issued
+a Rule listing five subterranean invertebrate species as endangered
+under § 4 of ESA, 16 U.S.C. § 1533(a)(1).  53 Fed. Reg. 36,029 (16
+Sept. 1988).  A sixth species was similarly listed in 1993.  58
+Fed. Reg. 43,818 (18 Aug. 1993).  These six species are found on
+the property; they are the Bee Creek Cave Harvestman, the Bone
+Creek Harvestman, the Tooth Cave Pseudoscorpion, the Tooth Cave
+Spider, the Tooth Cave Ground Beetle and the Kretschmarr Cave Mold
+Beetle.  The Rules were issued in order to protect the Cave Species
+from increasing dangers, primarily new development.  16 U.S.C. §
+1531 (a)(1); 53 Fed. Reg. 36,029.
+The Bee Creek Cave Harvestman, the Bone Creek Harvestman, and
+the Tooth Cave Pseudoscorpion are subterranean, eyeless arachnids
+(arthropods bearing four pairs of legs and no antennae); they range
+in size from 1.4 to 4 mm.  The Tooth Cave Spider, a subterranean
+arachnid with eyes, measures 1.6 mm in length.  The Tooth Cave
+Ground Beetle and the Kretschmarr Cave Mold Beetle are subterranean
+insects, the latter being eyeless; they vary in size from 3 to 8
+mm.
+The Cave Species were listed as endangered for a number of
+reasons.  First, as noted, they were primarily being threatened
+with “potential loss of habitat owing to ongoing development
+activities”. 53 Fed. Reg. 36,031.  Second, no state or federal laws
+
+--- PDF page 4 ---
+4
+were in place to protect them or their habitat.  Id. at 36,031-32.
+Finally: “[The Cave Species] require the maximum possible
+protection provided by [ESA] because their extremely small,
+vulnerable, and limited habitats are within an area that can be
+expected to experience continued pressures from economic and
+population growth”.  Id. at 36,032.
+Pursuant to § 9(a)(1) of ESA, 16 U.S.C. § 1538(a)(1)(B), it is
+unlawful to “take” a member of a species listed as endangered.  ESA
+defines “take” as to “harass, harm, pursue, hunt, shoot, wound,
+kill, trap, capture, or collect....”  16 U.S.C. § 1532(19).
+Pursuant to authority given it by § 4(d) of ESA, 16 U.S.C. §
+1533(d), FWS has defined “harm” to include significant
+modifications or degradations of a habitat which kill or injure
+protected wildlife “by significantly impairing essential behavioral
+patterns, including breeding, feeding or sheltering”.  50 C.F.R. §
+17.3.  
+The Cave Species are found only in underground portions of
+Travis and Williamson Counties, Texas.  There is no commercial
+market for the Cave Species.  At least 14 scientific articles
+concerning the Cave Species have been published in journals or
+other publications by 15 scientists.  Some of them have visited
+Texas in order to study the Cave Species.  For this research,
+members of the Cave Species have been transported to and from
+
+--- PDF page 5 ---
+5
+museums in New York, California, Pennsylvania, Illinois, and
+Kentucky. 
+In 1989, FWS notified the Purcells that their development
+plans might constitute a Cave Species take.  In 1990, in an effort
+to alleviate FWS’ concerns, the Purcells deeded approximately six
+acres of the property to Texas Systems of Natural Laboratories,
+Inc., a non-profit environmental organization.  The gifted acres
+included various caves and sinkholes in which the Cave Species were
+known to live.  The Purcells also constructed gates covering the
+most ecologically sensitive caves.  These acts conformed to
+recommendations made by an expert on the Cave Species.
+In 1991, the Purcells contracted to sell a portion of the
+property.  Because FWS refused to state, however, that future
+development would not constitute a take, the agreement fell
+through.  After clearing brush from the property in 1993, Dr.
+Purcell was advised by FWS that he was under federal criminal
+investigation for possible endangered species takes.
+Subsequent to these incidents, the Parke's owners (including
+plaintiffs) filed in federal court for a declaratory judgment that
+development of the Parke would not constitute an endangered species
+take.  Four Points Util. Joint Venture v. United States, No. 93-CV-
+655 (W.D. Tex. 1993).  The district court ordered FWS to conduct an
+environmental review of the Parke.  
+
+--- PDF page 6 ---
+6
+In a 1994 letter summarizing that review, FWS notified the
+Parke's owners that the proposed development would likely
+constitute a take of the Cave Species, as well as of two bird
+species (golden-cheeked warbler and black-capped vireo).  FWS'
+letter also noted that the Purcells’ property within the Parke
+“could be developed without causing a take if development, among
+other things, [was] scaled back from the canyons, and surface and
+subsurface drainage and nutrient exchange [was] provided for”.
+The district court dismissed the action in September 1994.  It
+ruled that FWS had to first determine whether a take had occurred;
+as FWS’ letter indicated, it had not made that determination.
+In 1997, the Purcells attempted to obtain ESA § 10(a)
+incidental take permits.  See 16 U.S.C. § 1539(a).  These permits
+allow takes of endangered species under certain circumstances, as
+listed in 16 U.S.C. § 1539 (a)(2)(B).  
+The Purcells first sought the permit from the Balcones
+Canyonlands Conservation Plan, a regional body from which
+landowners obtain § 10(a) permits to develop protected land by
+paying “mitigation fees”.  It refused the application, however,
+because the relevant land was entirely within a protected area.
+The Purcells next applied to FWS for the permit.  See 16
+U.S.C. 1539(a)(1).  Their applications stated they planned to
+develop a shopping center (including a Wal-Mart), a residential
+subdivision, and office buildings (commercial development).  FWS
+
+--- PDF page 7 ---
+7
+decided that the deeded preserves were inadequate to protect the
+Cave Species.  As a result, the Purcells were unable to contract
+for the purchase and development of the property.
+In July 1998, FWS advised the Purcells that the permits would
+be denied, but did not issue the denials.  This effectively
+prevented the Purcells from challenging FWS’ action.  
+Therefore, the Purcells filed suit in federal court, seeking
+a declaration that the permits had been denied de facto.  GDF
+Realty, Ltd. v. United States, No. 98-CV-772 (W.D. Tex. 1998).  FWS
+then issued a formal statement, denying the permits based on its
+conclusion that, inter alia, Cave Species takes would occur if
+development were allowed.  The district court ruled the permits had
+been denied.  It also admonished FWS for delaying the denials when
+it had never intended to grant the permits.
+In 1999, plaintiffs filed two actions in federal court.  In
+the instant Commerce Clause action, they claim that, pursuant to
+United States v. Lopez, 514 U.S. 549 (1995), amplified post-filing
+of this action by United States v. Morrison, 529 U.S. 598 (2000),
+the ESA take provision, as applied to the Cave Species, is
+unconstitutional.   (The second action, in the Court of Claims, No.
+99-CV-513 (Fed. Cl. 1999), claims an unconstitutional taking under
+the Fifth Amendment.  It has been stayed pending this action.)  In
+2000, Parke Properties I, L.P., and GDF Realty Investments, Ltd.,
+filed for bankruptcy under Chapter 11.   In re Parke Properties I,
+
+--- PDF page 8 ---
+8
+L.P., No. 00-12587FM (Bankr. W.D. Tex. 2000); In re GDF Realty
+Investments, Ltd., No. 00-12588FM (Bankr. W.D. Tex. 2000). 
+For this action, the parties agreed there are no factual
+disputes.  Therefore, they filed cross-motions for summary
+judgment.  In 2001, the district court granted summary judgment to
+defendants (FWS), holding the take provision constitutional under
+the Commerce Clause.  GDF Realty Investments, Ltd. v. Norton, 169
+F. Supp. 2d 648 (W.D. Tex. 2001).  The district court analyzed the
+application of the take provision in the light of plaintiffs’
+proposed property development.  Being “hard-pressed to find a more
+direct link to interstate commerce than a Wal-Mart [(as noted, one
+was to be located on the property)]”, id. at 662, the court held
+the take provision’s incorporation of the Cave Species, as applied
+to plaintiffs, was substantially related to interstate commerce,
+id. at 664.
+II.
+A summary judgment, reviewed de novo, e.g., Horton v. City of
+Houston, 179 F.3d 188, 191 (5th Cir.), cert. denied, 528 U.S. 1021
+(1999), is proper if “there is no genuine issue as to any material
+fact and ... the [movant] is entitled to a judgment as a matter of
+law”.  FED. R. CIV. P. 56(c).  E.g., Celotex Corp. v. Catrett, 477
+U.S. 317 (1986).  Because there are no material fact issues, the
+only question is the constitutionality vel non of the take
+provision as applied to the Cave Species and pursuant to the power
+
+--- PDF page 9 ---
+9
+granted Congress under the Commerce Clause.  U.S. CONST. art. I, §
+8, cl. 3.
+“In reviewing an act of Congress passed under its Commerce
+Clause authority, we apply the rational basis test as interpreted
+by the Lopez court.”  Groome Resources, Ltd. v. Parish of
+Jefferson, 234 F.3d 192, 203 (5th Cir. 2000).  In other words:
+“Due respect for the decisions of a coordinate branch of Government
+demands that we invalidate a congressional enactment only upon a
+plain showing that Congress has exceeded its constitutional
+bounds”.  Morrison, 529 U.S. at 607 (emphasis added).
+Recently, our court extensively discussed the history of the
+Commerce Clause and the earlier noted landmark Lopez and Morrison
+decisions relied upon by plaintiffs.  United States v. Ho, 311 F.3d
+589 (5th Cir. 2002).  We need only briefly revisit that discussion.
+Ho concerned using less expensive procedures for removal and
+disposal of asbestos than necessary to comply with, inter alia, 42
+U.S.C. §§ 7412(h) and 7414(a) of the Clean Air Act, 42 U.S.C. §
+7401 et seq., and implementing regulations, 40 C.F.R. § 61.145.  Ho
+claimed these statutes and regulations, as applied to him, violated
+the Commerce Clause.  Our court held the sections of the Clean Air
+Act were constitutional exercises of Congress’ power to regulate
+interstate commerce.  Ho, 311 F.3d at 603-04.  In doing so, our
+court described “first principles” of commerce clause
+jurisprudence.  Id. at 596-601.  No authority need be cited for the
+
+--- PDF page 10 ---
+10
+fundamental and well-known limitation on the power of our Federal
+Government: the Constitution grants it limited and enumerated
+powers; those powers not so granted the Federal Government are
+retained by the States. 
+This division of powers was thought necessary “to ensure
+protection of our fundamental liberties”.  Id. at 596 (quoting
+Lopez, 514 U.S. at 552 (internal citation omitted)).  Justice
+Kennedy summarized this point in his Lopez concurrence:
+Though on the surface the idea may seem
+counterintuitive, it was the insight of the
+Framers that freedom was enhanced by the
+creation of two governments, not one. “In the
+compound republic of America, the power
+surrendered by the people is first divided
+between two distinct governments, and then the
+portion allotted to each subdivided among
+distinct and separate departments. Hence a
+double security arises to the rights of the
+people. The different governments will control
+each other, at the same time that each will be
+controlled by itself.”
+514 U.S. at 576 (Kennedy, J., concurring) (quoting THE FEDERALIST NO.
+51, at 323 (James Madison)(C. Rossiter ed., 1961)).  In keeping
+with the subject at hand, the strength of this governmental system
+is aptly described by Kipling:  “For the strength of the pack is
+the wolf and the strength of the wolf is the pack”.  RUDYARD KIPLING,
+THE SECOND JUNGLE BOOK, The Law of the Jungle 189 (Penguin Books 1987)
+(1895).
+As noted, one of the Federal Government’s enumerated powers is
+“to regulate Commerce ... among the several States ...” (interstate
+
+--- PDF page 11 ---
+11
+commerce).  U.S. CONST. art. I, § 8, cl. 3.  Since NLRB v. Jones &
+Laughlin Steel Corp. , 301 U.S. 1 (1937), “Congress has had
+considerably greater latitude in regulating conduct and
+transactions under the Commerce Clause” than it had previously been
+afforded.  Morrison, 529 U.S. at 608.  On the other hand, our
+constitutional structure mandates a distinction between “what is
+truly national and what is truly local”.  Id. at 617-18; Lopez, 514
+U.S. at 567-68.
+The Court’s fairly recent decisions in Morrison and Lopez have
+defined the outer limits of Commerce Clause power.  Lopez described
+three categories of activity which Congress may regulate under it:
+“the use of the channels of interstate commerce”; “the
+instrumentalities of interstate commerce”; and “those activities
+having a substantial relation to interstate commerce, i.e., those
+activities that substantially affect interstate commerce”.  514
+U.S. at 558-559.  As the parties note, at issue is the third
+category — “those activities that substantially affect interstate
+commerce”.  
+The Cave Species exist only in Texas.  Therefore, at issue are
+ESA takes concerning intrastate, not interstate, activity.
+Pursuant to Lopez, Morrison identified four considerations for use
+in deciding whether intrastate activity substantially affects
+interstate commerce.  529 U.S. at 609.  
+
+--- PDF page 12 ---
+12
+The first consideration is the economic nature vel non of the
+intrastate activity.  Id. at 610-11.  Along this line, Morrison
+cited Lopez’s cautionary language:
+Admittedly, a determination whether an
+intrastate activity is commercial or
+noncommercial may in some cases result in
+legal uncertainty.  But, so long as
+Congress’ authority is limited to those
+powers enumerated in the Constitution,
+and so long as those enumerated powers
+are interpreted as having judicially
+enforceable outer limits, congressional
+legislation under the Commerce Clause
+will always engender “legal uncertainty”.
+Id. at 610 (quoting Lopez, 514 U.S. at 566).  
+The second consideration is the presence vel non of a
+jurisdictional element in the statute, which limits its application
+to instances affecting interstate commerce.  Id. at 611-12.  
+The third consideration is any Congressional findings in the
+statute or its legislative history concerning the effect the
+regulated activity has on interstate commerce.  Id. at 612.  
+The final consideration is the attenuation of the link between
+the intrastate activity and its effect vel non  on interstate
+commerce.  Id. 
+As described in Ho, there are two ways in which intrastate
+activity might substantially affect interstate commerce.  311 F.3d
+at 598-99.  FWS urges that Cave Species takes have this effect
+under each method.  
+
+--- PDF page 13 ---
+13
+First, the activity alone might have such an effect.  See,
+e.g., Jones v. Laughlin Steel Corp., 301 U.S. 1 (1937).  Second, in
+some circumstances, the activity's effects may be aggregated with
+those of other similar activities, the sum of which might be
+substantial in relation to interstate commerce.  Morrison, 529 U.S.
+at 613 (striking down civil remedy provision of Violence Against
+Women Act, 42 U.S.C. § 13981, while not adopting “a categorical
+rule against aggregating the effects of any noneconomic activity”).
+See also, e.g, Lopez, 514 U.S. at 559-61; Hodel v. Virginia Surface
+Mining & Reclamation Assn., Inc., 452 U.S. 264 (1981); Heart of
+Atlanta Motel, Inc. v. United States, 379 U.S. 241 (1964); Wickard
+v. Filburn, 317 U.S. 111 (1942). 
+Whether and how Congress may apply the
+aggregation principle are controversial
+questions.  The pitfalls are apparent.  For
+example, any imaginable activity of mankind
+can affect the alertness, energy, and mood of
+human beings, which in turn can affect their
+productivity in the workplace, which when
+aggregated together could reduce national
+economic productivity.  Such reasoning would
+eliminate any judicially enforceable limit on
+the Commerce Clause, thereby turning that
+clause into what it most certainly is not, a
+general police power.
+Ho, 311 F.3d at 599 (emphasis added).  
+In other words, and as the Supreme Court has made quite clear,
+the aggregation principle has limits.  For example, Lopez held
+that gun possession near schools could not be regulated under the
+Commerce Clause power.  The statute at issue proscribed knowing
+
+--- PDF page 14 ---
+14
+possession of “a firearm at a place that [an individual] knows ...
+is a school zone”.  18 U.S.C. § 922(q)(1)(A) (1988).  The Court
+held the statute had “nothing to do with ‘commerce’ or any sort of
+economic enterprise”.  514 U.S. at 561.  
+It bears reminding that at issue is the power to regulate
+interstate commerce.  In that sense, commerce is “[t]he exchange of
+goods and services” or “[t]rade and other business activities”.
+BLACK’S LAW DICTIONARY 263 (7th Ed. 1999).  Commerce is traffic, “but
+it is something more: it is intercourse”.  Lopez, 514 U.S. at 553
+(quoting Gibbons v. Ogden, 22 U.S. (9 Wheat.) 1, 189-90 (1824)).
+In Wickard, for example, the intrastate activity (wheat produced
+solely for producer's personal use) was held “commercial” because
+it affected market conditions.  317 U.S. at 128.  In this regard,
+Groome noted the “broad reading [to be given] commercial and
+economic activities under the Commerce Clause”.  234 F.3d at 208-
+09.
+As mentioned, Morrison noted, for aggregation purposes, the
+importance of the economic nature of the regulated activity:
+“While we need not adopt a categorical rule against aggregating the
+effects of noneconomic activity in order to decide these cases,
+thus far ... our cases have upheld Commerce Clause regulation of
+intrastate activity only where that activity is economic in
+nature”.  529 U.S. at 613 (emphasis added).  
+
+--- PDF page 15 ---
+15
+Lopez did, however, approve the standard provided in Maryland
+v. Wirtz, 392 U.S. 183 (1968) (holding constitutional the 1961 and
+1966 extensions of the Fair Labor Standards Act, 29 U.S.C. §§ 203,
+206, and 207).  Lopez stated: “[W]here a general regulatory scheme
+bears a substantial relation to commerce, the de minimis character
+of individual instances arising under that statute is of no
+consequence”.  514 U.S.  at 558 (emphasis in original; internal
+citation omitted). The de minimis instance, however, must be “an
+essential part of a larger regulation of economic activity, in
+which the regulatory scheme could be undercut unless the intrastate
+activity were regulated”.  Id. at 561 (emphasis added).  See also
+Hodel v. Indiana, 452 U.S. 314, 329 n.17 (1981); United States v.
+Ballinger, 312 F.3d 1264, 1270 (11th Cir. 2002); Freier v.
+Westinghouse Electric Corp., 303 F.3d 176, 201-03 (2nd Cir. 2002),
+petition for cert. filed (U.S. 6 Jan. 2003) (No. 02-1036); United
+States v. Cortes, 299 F.3d 1030, 1035 (9th Cir. 2002).
+Ho held such a regulatory scheme existed with regard to
+asbestos removal:
+First, the regulated intrastate activity,
+asbestos removal, is very much a commercial
+activity in today's economy. It is a booming
+industry, given the hazardous nature of
+asbestos and its seeming ubiquity in older
+buildings. There is nothing inherently
+criminal or disfavored about asbestos removal;
+in fact, it might be considered a public
+service, and many reputable and certified
+
+--- PDF page 16 ---
+16
+businesses exist solely to remove asbestos
+from contaminated buildings. 
+Both the state and federal governments license
+businesses and individuals in the field. Most,
+if not all, asbestos removal projects have a
+commercial purpose, because handling toxic
+carcinogens is not something many people enjoy
+for its own sake. Unless the owner of an
+asbestos-containing building needs to renovate
+the building or demolish it for use of the
+land on which it sits, he is very likely to
+let sleeping dogs lie and not incur the costs
+or dangers of asbestos removal.
+311 F.3d at 602.  Moreover, by using methods less expensive than
+those required to comply with the regulatory scheme, Ho was able to
+gain a commercial advantage over his competitors, thereby
+substantially affecting, or undercutting, the economic regulatory
+scheme.  Id. at 603.  In addition to the economic nature of the
+activity, Ho examined the other three Morrison considerations in
+holding aggregation proper.  311 F.3d at 602-04.
+In the light of Lopez and Morrison, the key question for
+purposes of aggregation is whether the nature of the regulated
+activity is economic.  As noted, Morrison and Lopez recognize this
+question is likely to generate “legal uncertainty”.  Morrison, 529
+U.S. at 610; Lopez, 514 U.S. at 566.  One way in which the
+regulated activity might be economic is when, as discussed earlier,
+the intrastate activity is part of an economic regulatory scheme
+which could be undercut but for the particular intrastate
+regulation.  Lopez, 514 U.S. at 561. 
+
+--- PDF page 17 ---
+17
+Post-Lopez, our court has faced these questions.  A pre-
+Morrison decision, United States v. Bird, 124 F.3d 667, amended by
+1997 U.S. App. LEXIS 33988 (5th Cir. 1997), cert. denied, 523 U.S.
+1006 (1998), affirmed a conviction under the Freedom of Access to
+Clinic Entrances Act, 18 U.S.C. § 248.  Bird held that
+noncommercial, intrastate activity (threats and intimidation
+directed at provider of abortion services) may be aggregated to
+find a substantial effect on interstate commerce.  Id. at 676-82.
+For that holding, the determining factor was that “there is a
+national commercial market in abortion-related services such that
+the regulated conduct—considered in light of the size and scope of
+the benchmark market—substantially affects interstate commerce”.
+Id. at 677.  See id. at 681-82.
+Noting Bird was decided pre-Morrison,  Ho seems to leave open
+the question whether aggregation can be extended to non-economic
+activity.  311 F.3d at 600, n.10.  Further, in United States v.
+Hickman, 179 F.3d 230 (5th Cir. 1999)(pre-Morrison), cert. denied,
+530 U.S. 1203 (2000), and United States v. McFarland, 311 F.3d 376
+(5th Cir. 2002)(post-Morrison), petition for cert. filed, (U.S. 7
+Jan. 2003) (No. 02-8338), our evenly divided en banc court
+addressed aggregating individual, intrastate robberies to find a
+substantial effect on interstate commerce under the Hobbs Act, 18
+U.S.C. § 1951 (criminalizing efforts to “obstruct[], delay[], or
+
+--- PDF page 18 ---
+18
+affect[] commerce or the movement of any article or commodity in
+commerce, by robbery or extortion ...”).
+The dissent in Hickman, adopted by half of our en banc court,
+stated:
+[I]ndividual acts cannot be aggregated if
+their effects on commerce are causally
+independent of one another. That is, if the
+effect on interstate commerce directly
+attributable to one instance of an activity
+does not depend in substantial part on how
+many other instances of the activity occur,
+there is an insufficient connection—in other
+words, an interactive effect—and the effect of
+different instances cannot be added. If, on
+the other hand, the occurrence of one instance
+of the activity makes it substantially more or
+less likely that other instances will occur,
+then there is an interactive effect and the
+effects of different instances can be added.
+179 F.3d at 233 (Higginbotham, J., dissenting).  
+This “interactive effect” requirement flows from the
+requirement in Lopez that failure to regulate the intrastate
+activity could “undercut” the entire scheme.  Along this line, Ho
+held that the instance of intrastate asbestos removal had an effect
+on the larger economic regulation of the asbestos industry.  311
+F.3d at 602. 
+In addressing the Hobbs Act issue faced in Hickman, one
+dissent in McFarland, again adopted by half of our en banc court,
+stated:
+Assuming, arguendo, that there is a class of
+[Lopez] category three cases [substantial
+effect] as to which there are no restraints
+whatever on aggregation, we conclude that such
+
+--- PDF page 19 ---
+19
+a class would exclude instances where “the
+regulated activity” is not properly described
+as “commercial” or “economic” in the same
+general sense as “commercial.” 
+311 F.3d at 396 (Garwood, J., dissenting) (emphasis in original).
+In the intervening light of Morrison, that dissent agreed with the
+Hickman dissent.  
+Where the Supreme Court has applied
+aggregation to uphold federal regulation of
+intrastate conduct against constitutional
+challenge under the Commerce Clause, there has
+always been a rational basis to find
+sufficient interrelationship or commonality of
+effect on interstate commerce among the
+discrete intrastate instances regulated and
+between them and a scheme of regulation
+(protection, enhancement or restriction) of
+some particular interstate market or activity
+such that the regulation of those intrastate
+activities can rationally be viewed as
+necessary to the effectiveness of or a
+meaningfully supporting part of the scheme of
+regulation of that particular interstate
+activity or market.
+Id. at 401 (emphasis added).
+Plaintiffs maintain that Cave Species takes have no
+relationship, let alone a substantial one, to interstate commerce.
+They concede, however, that all takes of endangered species, if
+aggregated, would have the requisite substantial effect; but, they
+maintain, aggregation is not proper because Cave Species takes are
+non-economic in nature and not an essential part of a regulatory
+scheme.
+ESA was enacted in 1973 in response to threats to fish,
+wildlife, and plants (wildlife).  16 U.S.C. § 1531(a)(1).  These
+
+--- PDF page 20 ---
+20
+threats arose principally from “pollution, destruction of habitat
+and the pressures of trade”.  H.R. Rep. No. 93-412, at 2 (1973)
+(emphasis added).  Congress noted that “the pace of disappearance
+of species is accelerating”.  Id. at 4.  This acceleration was
+troubling because, inter alia, “it is in the best interest of
+mankind to minimize the losses of genetic variations”.  Id. at 5.
+That interest, Congress said, was “simple: [the genetic variations]
+are potential resources”.  Id.
+They are keys to puzzles which we cannot
+solve, and may provide answers to questions
+which we have not yet learned to ask.
+To take a homely, but apt, example: one
+of the critical chemicals in the regulation of
+ovulation in humans was found in a common
+plant.  Once discovered and analyzed, humans
+could duplicate it synthetically, but had it
+never existed — or had it been driven out of
+existence before we knew its potentialities —
+we would never have tried to synthesize it in
+the first place.
+Who knows, or can say, what potential
+cures for cancer or other scourges, present or
+future, may lie locked up in the structures of
+plants which may yet be undiscovered, much
+less analyzed?  More to the point, who is
+prepared to risk ... those potential cures by
+eliminating those plants for all time?  Sheer
+self-interest impels us to be cautious. 
+Id. 
+Tennessee Valley Authority v. Hill, 437 U.S. 153 (1978) (TVA),
+the famous snail darter decision, reviewed ESA's legislative
+history in the process of upholding an injunction pursuant to the
+Secretary of the Interior’s determination that the operation of a
+
+--- PDF page 21 ---
+21
+federal dam would eradicate an endangered species.  At issue was 16
+U.S.C. § 1536, which requires federal agencies to consult with the
+Secretary regarding projects and to “utilize their authorities in
+furtherance of the purposes of [ESA]....”  The Court recognized
+Congress' “newly declared national policy of preserving endangered
+species”, id. at 176, and held:  “The plain intent of Congress in
+enacting [ESA] was to halt and reverse the trend toward species
+extinction, whatever the cost”, id. at 184 (emphasis added).
+Of course, notwithstanding this “plain intent”, ESA's take
+provision as applied in this case must have firm footing in the
+Commerce Clause.  In this regard, ESA’s take provision has no
+jurisdictional requirement that might otherwise limit its
+application to species bearing some relationship to interstate
+commerce.  Nor does the take provision list the species to be
+protected.  Instead, ESA incorporates listings, promulgated from
+time to time by FWS, that determine which species are covered by
+the take provision.  16 U.S.C. § 1533(c).
+A.
+Aggregation or no, the first of the four Morrison
+considerations concerns the economic nature vel non of the
+regulated activity.  On this key point, at issue is what
+constitutes the “regulated activity”.  Plaintiffs assert that, for
+evaluating substantial effect, we should look only to the expressly
+regulated activity — Cave Species takes.  FWS responds that, in
+
+--- PDF page 22 ---
+22
+addition, we should consider such regulation in the light of
+plaintiffs’ planned commercial development and, by extension, its
+effect on interstate commerce.  
+The district court agreed with FWS and looked primarily to
+plaintiffs’ planned development: 
+[T]he regulated activity in this case is
+plaintiffs’ alleged take of the Cave Species
+by their planned development of the Property.
+This development includes plans to build “a
+shopping center, a residential subdivision,
+and office buildings” on the Property.... This
+activity, standing alone, “would easily be
+classified as substantially affecting
+interstate commerce.”
+169 F. Supp. 2d at 658 (internal citations omitted).
+The district court characterized plaintiffs’ challenge as
+being “as-applied”.  Whether it is “as-applied” or “facial”, the
+district court correctly concluded it should evaluate plaintiffs’
+conduct in determining whether the take provision, as applied to
+the Cave Species, was unconstitutional.  See City of Chicago v.
+Morales, 527 U.S. 41, 78 n.1 (1999) (Scalia, J., dissenting) (aside
+from First Amendment “overbreadth” cases, “a facial attack, since
+it requires unconstitutionality in all circumstances, necessarily
+presumes that the litigant presently before the court would be able
+to sustain an as-applied challenge”); see also United States v.
+Salerno, 481 U.S. 739 (1987).  The above-quoted passage from the
+district court opinion reflects, however, that the court extended
+the scope of this relevant conduct beyond plaintiffs' Cave Species
+
+--- PDF page 23 ---
+23
+takes; it primarily considered plaintiffs’ commercial motivations
+that would underlie the takes.  As discussed below, and consistent
+with the Supreme Court’s interpretation of the Commerce Clause, we
+conclude that the scope of inquiry is primarily whether the
+expressly regulated activity substantially affects interstate
+commerce, i.e., whether takes, be they of the Cave Species or of
+all endangered species in the aggregate, have the substantial
+effect.
+In this regard, neither this court, nor the Supreme Court, has
+explicitly determined the scope of the substantial effects
+analysis.  Nonetheless, the Supreme Court has expressed concerns
+about this issue.  In Solid Waste Agency of Northern Cook County v.
+United States Army Corps of Eng'rs, 531 U.S. 159 (2001), under §
+404(a) of the Clean Water Act, 33 U.S.C. § 1344(a), the Corps of
+Engineers claimed jurisdiction over abandoned sand and gravel pits
+which had become seasonal ponds and, concomitantly, habitats for
+migratory birds.  As a result, the Corps  prevented construction of
+a landfill on a site.  The landfill developers contended that,
+through such regulation, the Corps overstepped its statutorily-
+prescribed jurisdictional bounds, and, alternatively, Congress
+exceeded its Commerce Clause power.  
+Resolving the case by interpreting the Clean Water Act,  the
+Court avoided the constitutional issue.  Nevertheless, it shed
+light on the scope-issue at hand:
+
+--- PDF page 24 ---
+24
+[The Government] ... note[s] that the
+protection of migratory birds is a national
+interest of very nearly the first magnitude,
+and that, as the Court of Appeals found,
+millions of people spend over a billion
+dollars annually on recreational pursuits
+relating to migratory birds.  These arguments
+raise significant constitutional questions.
+For example, we would have to evaluate the
+precise object or activity that, in the
+aggregate, substantially affects interstate
+commerce.  This is not clear, for although the
+Corps has claimed jurisdiction over
+petitioner’s land because it contains water
+areas used as habitat by migratory birds,
+respondents now, post litem motam, focus upon
+the fact that the regulated activity is
+petitioner’s municipal landfill, which is
+plainly of commercial nature.  But this is a
+far cry, indeed, from the “navigable waters”
+and “waters of the United States” to which the
+statute by its terms extends.
+Id. at 173 (emphasis added; internal citation and quotation
+omitted).
+Again, we must resolve the question of which activities are to
+be primarily considered in order to determine substantial effect
+vel non.  Each of the three Lopez categories recognizes Congress’
+power to regulate where the object of regulation relates to
+interstate commerce: channels, instrumentalities, or activities.
+Neither the plain language of the Commerce Clause, nor judicial
+decisions construing it, suggest that, concerning substantial
+effect vel non, Congress may regulate activity (here, Cave Species
+takes) solely because non-regulated conduct (here, commercial
+development) by the actor engaged in the regulated activity will
+have some connection to interstate commerce.
+
+--- PDF page 25 ---
+25
+In expanding its scope—inquiry to plaintiffs’ commercial
+motivations, the district court relied on Groome, which evaluated
+Congress’ Commerce Clause power to regulate under the Fair Housing
+Act, 42 U.S.C. § 3604(f)(3)(B).  Groome stated that, in Lopez and
+Morrison, “neither the ‘actors’ nor the ‘conduct’ of the regulation
+had a commercial character”.  234 F.3d at 204 (emphasis added).
+Groome  recognized that, in analyzing the effect on interstate
+commerce, courts look only to the expressly regulated activity.  In
+Groome, that was the sale and rental of housing.  The actor’s
+conduct was commercial in nature, but that characteristic was only
+relevant insofar as it fell within the regulated activity.  Id. at
+205-16.  
+Unlike Groome, the district court in this case looked
+primarily beyond the regulated conduct — Cave Species takes — in
+order to assess effect on interstate commerce.  It looked to
+plaintiffs’ planned commercial development of the property where
+the takes would occur.  True, the effect of regulation of ESA takes
+may be to prohibit such development in some circumstances.  But,
+Congress, through ESA, is not directly regulating commercial
+development.
+To accept the district court’s analysis would allow
+application of otherwise unconstitutional statutes to commercial
+actors, but not to non-commercial actors.  There would be no limit
+to Congress’ authority to regulate intrastate activities, so long
+
+--- PDF page 26 ---
+26
+as those subjected to the regulation were entities which had an
+otherwise substantial connection to interstate commerce.
+Along this line, looking primarily beyond the regulated
+activity in such a manner would “effectually obliterate” the
+limiting purpose of the Commerce Clause.  Jones & Laughlin Steel
+Corp., 301 U.S. at 37.  Concomitantly, the facial challenges in
+Lopez and Morrison would have failed.  For instance, regulation of
+gun possession near schools, at issue in Lopez, would arguably pass
+constitutional muster as applied to a possessor who was a
+significant gun salesman.  Therefore, § 922(q)(1)(A) could not have
+been facially unconstitutional.  See Salerno, 481 U.S. at 745.
+Similarly, the Violence Against Women Act, at issue in Morrison,
+would arguably have been a constitutional exercise of Congressional
+power if it were used to prosecute a person who committed violence
+against women and then sold a substantial number of videotapes of
+the encounter in interstate markets.  It too would have withstood
+a facial attack.  Such results, of course, run contrary to Lopez
+and Morrison.
+Ho ruled that “the regulated intrastate activity, asbestos
+removal, is very much a commercial activity in today’s economy....
+Both the state and federal governments license businesses and
+individuals in the field.  Most, if not all, asbestos projects have
+a commercial purpose....”  311 F.3d at 602.  Thus Ho primarily
+analyzed the expressly regulated activity.  Only after doing so did
+
+--- PDF page 27 ---
+27
+Ho note: “Moreover, [plaintiff’s] activities were driven by
+commercial considerations”.  Id.
+Two circuits have published opinions upholding ESA's
+constitutionality; they looked, at times, to the nature of the
+actor’s general conduct.  National Association of Home Builders v.
+Babbitt, 130 F.3d 1041 (D.C. Cir. 1997), cert. denied, 524 U.S. 937
+(1998) (NAHB) (pre-Morrison); Gibbs v. Babbitt, 214 F.3d 483 (4th
+Cir. 2000), cert. denied, Gibbs v. Norton, 531 U.S. 1145 (2001).
+(In addition, the Ninth Circuit, in upholding the constitutionality
+of the Eagle Protection Act, 16 U.S.C. 668, approvingly cited a
+district court decision, Palila v. Hawaii Dep’t of Land & Natural
+Resources, 471 F.Supp. 985 (D. Haw. 1979), aff’d, 639 F.2d 495 (9th
+Cir. 1981), concerning ESA’s effect on interstate commerce.  United
+States v. Bramble, 103 F.3d 1475, 1481 (9th Cir. 1997).)
+In NAHB and Gibbs, however, the actor's general conduct was
+not the sole basis for finding economic activity or a substantial
+effect on interstate commerce.  To this extent, NAHB and Gibbs are
+consistent with the analysis in Ho.
+NAHB, decided pre-Morrison, considered whether Congress had
+the power to regulate takes of the Delhi Sands Flower-Loving Fly,
+a species found only in California.  The takes were caused by a
+planned hospital renovation.  For a divided panel, two members held
+
+--- PDF page 28 ---
+28
+ESA constitutional, each on different grounds; one member opined it
+was unconstitutional.
+In the main opinion, Judge Wald upheld ESA on two bases:  as
+a valid regulation of the channels of interstate commerce; and
+because the takes substantially affected interstate commerce.  For
+the substantial effect analysis, she did not look beyond the
+expressly-regulated activity.  She did so, however, for the
+“channels of interstate commerce” analysis.  130 F.3d at 1048.
+There is, of course, good reason to look beyond the regulated
+activity to determine whether such channels are being used; whether
+an actor deals in these channels is directly relevant.
+In her NAHB concurrence, Judge Henderson concluded the takes
+affected biodiversity, which in turn substantially affected
+interstate commerce.  She briefly noted, however, that the
+regulation plainly affected interstate commerce because “[it]
+relates to both the proposed redesigned traffic intersection and
+the hospital it is intended to serve ....” NAHB, 130 F.3d at 1059
+(Henderson, J., concurring).
+Of course, the ESA regulation at issue in NAHB did not relate
+to traffic intersections; it related to fly takes.  Judge Henderson
+relied, in part, on the following language from Heart of Atlanta
+Motel to support her conclusion: “The facilities and
+instrumentalities used to carry on this commerce such as railroads,
+truck lines, ships, rivers, and even highways are also subject to
+
+--- PDF page 29 ---
+29
+congressional regulation, so far as is necessary to keep interstate
+traffic upon fair and equal terms.”  379 U.S. at 271 (emphasis
+added).  This statement provides an example of Congress’ power to
+regulate the use of the channels of interstate commerce, rather
+than those activities having a substantial effect on interstate
+commerce.
+While the take provision may have prevented the hospital
+renovations in NAHB or the commercial developments in the case at
+hand, ESA does not directly regulate these activities.  The NAHB
+dissent noted:
+An alternative reading of Judge Henderson’s
+second justification with its stress on the
+effect of the regulation upon the highway and
+hospital is that she concludes that Congress
+may regulate purely intrastate activities –
+e.g., the habitat modification of the fly –
+where the regulation will then affect items
+which are arguably in interstate commerce.
+Again, I do not see the stopping point.
+Congress is not empowered either by the words
+of the Commerce Clause or by its
+interpretation in Lopez to regulate any non-
+commercial activity where the regulation will
+substantially affect interstate commerce....
+Nowhere is it suggested that Congress can
+regulate activities not having a substantial
+effect on commerce because the regulation
+itself can be crafted in such a fashion as to
+have such an effect.
+Id. at 1067 (Sentelle, J., dissenting)(emphasis added).  As noted,
+however, Judge Henderson did not rely primarily on the commercial
+development, but instead analyzed the expressly regulated activity
+— the takes’ effect on biodiversity.
+
+--- PDF page 30 ---
+30
+Gibbs held Congress did not exceed its Commerce Clause power
+by regulating red wolf takes.  214 F.3d at 487.  The wolves had
+been reintroduced on federal land, but had roamed onto private land
+in North Carolina and Tennessee.  In holding the wolves had a
+substantial effect on interstate commerce, a divided panel noted
+that the take provision limited the ability to protect livestock
+and other agricultural products from the wolves:  “The regulation
+here targets takings that are economically motivated – farmers take
+wolves to protect valuable livestock and crops.”  Id. at 495
+(emphasis added).  As discussed infra, Gibbs held primarily,
+however, that the expressly regulated activity — red wolf takes,
+regardless of farmers’ motivations — was economic in nature.
+In the light of the successful facial challenges in Lopez and
+Morrison and the emphasis our court and sister circuits have placed
+on the economic nature vel non of the expressly regulated activity,
+the district court erred in looking primarily to plaintiffs'
+commercial motivations.
+B.
+As discussed earlier, there are two ways in which intrastate
+activity can substantially affect interstate commerce:  the
+activity can be of a nature and scope that it, alone, has such an
+effect;  and, in certain circumstances, the activity can be
+aggregated with similar activities, so that the sum of the
+activities has the requisite substantial effect.  As also
+
+--- PDF page 31 ---
+31
+discussed, FWS contends regulation of Cave Species takes is proper
+under either method.  For either, the goal remains the same:
+distinguishing between “what is truly national and what is truly
+local”.  Morrison, 529 U.S. at 617-18; Lopez, 514 U.S. at 567-68;
+Ho, 311 F.3d at 601.
+1.
+In urging Cave Species takes, alone, have a “direct
+relationship” with, and substantial effect on, interstate commerce,
+FWS claims two significant effects:  the “substantial” scientific
+interest generated by the Cave Species; and their possible future
+commercial benefits.
+a.
+Concerning the scientific interest effect, some scientists
+have studied the Cave Species.  In doing so, some of them have
+traveled to Texas.  In coordination with this research, some Cave
+Species have been transported to and from museums in five States.
+Finally, articles about the Cave Species have been published in
+scientific journals.  
+According to FWS, this demonstrates the Cave Species “play a
+role in interstate commerce”.  Obviously, even assuming this is
+true, this does not necessarily constitute the substantial effect
+mandated by Lopez and Morrison.  To the extent FWS contends that
+the loss of the Cave Species would affect the scientific travel or
+publication industries, it offers no evidence that it would
+
+--- PDF page 32 ---
+32
+substantially do so.  In fact, the minimal evidence presented by
+FWS indicates such an effect would be negligible.
+In upholding the red wolf take provision, Gibbs held the takes
+“implicate[d] a variety of commercial activities and [was] closely
+connected to several interstate markets”.  214 F.3d at 492.  Chief
+among them were red-wolf-related tourism, “scientific research”,
+and the “commercial trade” in pelts.  Id. at 493-95.  Gibbs held
+the “takings of red wolves in the aggregate have a sufficient
+impact on interstate commerce”.  Id. at 493. (As discussed, Gibbs
+also observed that the takes were motivated by commercial
+incentives.)  
+Obviously, the commercial impact of red wolves is
+significantly greater than that of the Cave Species.  See id. at
+493-94 (“According to a study ... the recovery of the red wolf and
+increased visitor activities could result in a significant regional
+economic impact. [The study’s author] estimates that northeastern
+North Carolina could see an increase of between $39.61 and $183.65
+million per year in tourism-related activities” (internal citation
+omitted).).
+In the case of the Cave Species, any connection between takes
+and impact on the scientific travel or publication industries is,
+as noted, negligible.  Under Morrison’s fourth consideration, any
+claim that the connection rises to a “substantial relationship” is
+far too attenuated to pass muster.
+
+--- PDF page 33 ---
+33
+b.
+Alternatively, FWS claims future commercial benefits derived
+from the Cave Species will be significant enough to substantially
+affect interstate commerce.  Research concerning certain endangered
+species has been used in the treatment of disease.  See, e.g.,
+Holly Doremus, Patching the Ark: Improving Legal Protection of
+Biological Diversity, 18 ECOLOGY L.Q. 265, 270-71 (1991) (study of
+endangered pupfish in relation to kidney disease); Keith Rizzardi,
+Toothless? The Endangered Manatee and the Florida Manatee Sanctuary
+Act, 24 FLA. ST. U. L. Rev. 377, 380 (1997) (study of endangered
+manatees in relation to hemophilia).  
+FWS posits here:
+The value of the cave species ... may be even
+more significant than those of the pupfish and
+the manatee, given the unique features of cave
+species.  Although little is yet understood
+about these particular species, scientists
+have long observed that cave species, because
+of their peculiar habitats, often exhibit
+incredibly low metabolic rates and possess
+extremely long life-spans ... compared to
+other invertebrates.  Such characteristics
+suggest that further study of these species
+could lead to important developments in our
+understanding of longevity....
+(Emphasis added; internal citations and quotations omitted).  In
+short, this claim is not supported by evidence concerning Cave
+Species.  It is conjecture.
+This contention, whatever its merits may ultimately be, runs
+afoul of the attenuation consideration.  The possibility of future
+
+--- PDF page 34 ---
+34
+substantial effects of the Cave Species on interstate commerce,
+through industries such as medicine, is simply too hypothetical and
+attenuated from the regulation in question to pass constitutional
+muster.  See Morrison, 529 U.S. at 612.     
+2.
+In the alternative, FWS contends that Cave Species takes may
+be aggregated with those of all other endangered species.  As
+noted, plaintiffs concede this aggregation would have the requisite
+substantial effect on interstate commerce.  See NAHB, 130 F.3d at
+1053-54 (“In the aggregate, however, we can be certain that the
+extinction of the species and the attendant decline in biodiversity
+will have a real and predictable effect on interstate commerce.”).
+At issue is what circumstances must be present in order to
+justify aggregation when, as in this case, intrastate activity has
+a de minimis effect on interstate commerce.  As noted, Lopez and
+Morrison instruct courts to consider, inter alia, the activity's
+economic or commercial nature.  And, as discussed supra, one key
+way by which intrastate activity may be considered “economic” or
+“commercial” is through its importance to an economic regulatory
+scheme. 
+As noted earlier, whether an activity is economic or
+commercial is to be given a broad reading in this context.  Groome,
+234 F.3d at 208-09.  Nevertheless, in a sense, Cave Species takes
+are neither economic nor commercial.  There is no market for them;
+
+--- PDF page 35 ---
+35
+any future market is conjecture.  If the speculative future
+medicinal benefits from the Cave Species makes their regulation
+commercial, then almost anything would be.  Moreover, unlike the
+red wolves (and their pelts) in Gibbs, there is no historic trade
+in the Cave Species, nor do tourists come to Texas to view them. 
+FWS posits that, because, in the aggregate with other
+endangered species, Cave Species takes will have a substantial
+effect on interstate commerce, these takes can be classified as
+commercial.  To accept such a justification would render
+meaningless any “economic nature” prerequisite to aggregation.  An
+activity cannot be aggregated based solely on the fact that, post-
+aggregation, the sum of the activities will have a substantial
+effect on commerce.  This would vitiate Lopez and Morrison’s
+seeming requirement that the intrastate instance of activity be
+commercial.  Noneconomic and noncommercial activity could be
+aggregated so long as, if aggregated, it would have a substantial
+effect.  Lopez and Morrison stand against such a proposition. 
+On the other hand, the regulation of the Cave Species is part
+of a larger regulation of activity.  The take provision as applied
+to the Cave Species is part of the take provision generally and ESA
+as a whole.  More is required, however.  As discussed earlier, non-
+commercial, intrastate activities must be “essential” to an
+economic regulatory scheme’s efficacy in order, under this
+rationale, for aggregation to be appropriate.  
+
+--- PDF page 36 ---
+36
+First, the larger regulation must be directed at activity that
+is economic in nature.  Lopez, 514 U.S. at 561.  See also Morrison,
+529 U.S. at 610.  ESA states that endangered species are of
+“esthetic, ecological, educational, historical, recreational, and
+scientific value....”  16 U.S.C. § 1531(a)(3).  Along this line,
+courts may also look to ESA’s legislative history.  Morrison, 529
+U.S. at 612.  In this light, ESA’s protection of endangered species
+is economic in nature.  As noted, ESA's drafters were concerned by
+the “incalcuable” value of the genetic heritage that might be lost
+absent regulation.  See H.R. Rep. No. 93-412, at 4.  With regard to
+a precursor to ESA, the Senate Report observed:     
+From a pragmatic point of view, the protection
+of an endangered species of wildlife with some
+commercial value may permit the regeneration
+of that species to a level where controlled
+exploitation of that species can be resumed.
+In such a case businessmen may profit from the
+trading and marketing of that species for an
+indefinite number of years, where otherwise it
+would have been completely eliminated from
+commercial channels in a very brief span of
+time. Potentially more important, however, is
+the fact that with each species we eliminate,
+we reduce the [genetic] pool ... available for
+use by man in future years. Since each living
+species and subspecies has developed in a
+unique way to adapt itself to the difficulty
+of living in the world's environment, as a
+species is lost, its distinctive gene
+material, which may subsequently prove
+invaluable to mankind in improving domestic
+animals or increasing resistance to disease or
+environmental contaminant, is also
+irretrievably lost.
+S. Rep. No. 91-526, at 1415 (1969) (emphasis added).
+
+--- PDF page 37 ---
+37
+Aside from the economic effects of species loss, it is obvious
+that the majority of takes would result from economic activity.
+See, e.g., 16 U.S.C. § 1531(a)(1) (“various species of fish,
+wildlife, and plants in the United States have been rendered
+extinct as a consequence of economic growth and development
+untempered by adequate concern and conservation”); 16 U.S.C. §
+1533(f) (recovery plans should give priority to species that are in
+“conflict with construction or other development projects or other
+forms of economic activity...”).  Indeed, Congress’ findings are
+reflected in the case at hand:  the Cave Species takes would occur
+as a result of plaintiffs’ planned commercial development.  
+Moreover, ESA is “truly national” in scope.  See Morrison, 529
+U.S. at 617-18; Lopez, 514 U.S. at 567-68.  This is the case,
+despite the concerns raised by amicus State of Texas.  It is true
+that land use and wildlife preservation are traditional areas of
+state concern.  Nevertheless, “this authority is shared with the
+Federal Government when [it] exercises one of its enumerated
+constitutional powers”.  Minnesota v. Mille Lacs Band of Chippewa
+Indians, 526 U.S. 172, 204 (1999).
+Second, in order to aggregate, the regulated intrastate
+activity must also be an “essential” part of the economic
+regulatory scheme.  Judge Wald’s opinion in NAHB held ESA’s take
+provision constitutional as applied to an intrastate species of
+insect.  Key to this conclusion, and challenged by the other two
+
+--- PDF page 38 ---
+38
+panel members, was the determination that individual takes of the
+species could be aggregated.  The opinion assumed aggregation,
+holding that, because “biodiversity has a ... substantial ...
+effect on ... interstate commerce, ‘the de minimis character of
+individual instances arising under [ESA] is of no consequence’”.
+130 F.3d at 1053, n. 14 (quoting Lopez, 514 U.S. at 558).  
+The opinion did not discuss, however, Lopez’ earlier
+requirement that de minimis instances of activity subsumed within
+a regulatory scheme must be essential to that scheme, so that it
+could be undercut without the particular regulation.  514 U.S. at
+561.  Along this line, the NAHB dissent noted: “There is no
+showing, but only the rankest of speculation, that a reduction or
+even complete destruction of the viability of the [species] will in
+fact affect land and objects that are involved in interstate
+commerce”.  130 F.3d at 1065 (Sentelle, J., dissenting) (internal
+citations and quotations omitted). 
+In TVA, however, the Court recognized that “Congress was
+concerned [not only] about the unknown uses that endangered species
+might have[, but also] about the unforeseeable place such creatures
+may have in the chain of life on this planet”.  437 U.S. at 178-79
+(emphasis in original).  Citing that portion of TVA, Gibbs
+reaffirmed Congress’ power to “manage the interdependence of
+endangered animals and plants in large ecosystems”.  214 F.3d at
+496.  See also NAHB, 130 F.3d at 1052 n.11; id. at 1058 (Henderson,
+
+--- PDF page 39 ---
+39
+J., concurring) (“The effect of a species’ continued existence on
+the health of other species within the ecosystem seems to be
+generally recognized among scientists.”).
+FWS contends:  “Allowing a particular take to escape
+regulation because, viewed alone, it does not substantially affect
+interstate commerce, would undercut the ESA scheme and lead to
+piece-meal extinctions”.  Along this line, it maintains that takes
+of any species threaten the “interdependent web” of all species.
+Congress described this “critical nature of the interrelationships
+of plants and animals between themselves and with their
+environment”.  H.R. Rep. No. 93-412, at 6.  In fact, according to
+Congress, the “essential purpose” of ESA is “to protect the
+ecosystems upon which we and other species depend”.  Id. at 10.
+ESA's take provision is economic in nature and supported by
+Congressional findings to that effect.  Although, as noted, there
+is no express jurisdictional element in ESA, our analysis of the
+interdependence of species compels the conclusion that regulated
+takes under ESA do affect interstate commerce.  In this sense,
+ESA's take provision is limited to instances which “have an
+explicit connection with or effect on interstate commerce”.
+Morrison, 529 U.S. at 611-12 (internal quotations omitted).  
+Finally, the link between species loss and a substantial
+commercial effect is not attenuated.  This holding will not allow
+Congress to regulate general land use or wildlife preservation.
+
+--- PDF page 40 ---
+* FWS also contends that the “take” provision enables the
+United States to meet its treaty obligations and was enacted
+because of a concern about Congress’ Commerce Clause power,
+pursuant to Article I, § 8, cl. 3, “[t]o regulate Commerce with
+foreign Nations”.  We need not reach this issue.
+40
+See id. at 612-13 (“We rejected these ... arguments because they
+would permit Congress to ‘regulate not only all violent crime, but
+all activities that might lead to violent crime....’” (quoting
+Lopez, 514 U.S. at 564)).
+ESA is an economic regulatory scheme; the regulation of
+intrastate takes of the Cave Species is an essential part of it.
+Therefore, Cave Species takes may be aggregated with all other ESA
+takes.  As noted, plaintiffs concede such aggregation substantially
+affects interstate commerce.  In sum, application of ESA's take
+provision to the Cave Species is a constitutional exercise of the
+Commerce Clause power.*
+III.
+For the foregoing reasons, the judgment is
+AFFIRMED. 
+
+--- PDF page 41 ---
+41
+DENNIS, Circuit Judge, concurring:
+I join in the Court’s opinion and write separately only to set
+forth additional analysis in support of the Court’s conclusion.
+The plaintiffs contend that Congress lacks the authority to
+regulate, under the ESA, activity that endangers or threatens
+intrastate, non-commercial species.  The Court correctly upholds
+the challenged ESA provision as applied to such species.
+One express purpose of the ESA is to provide a comprehensive
+program for the conservation of endangered and threatened species
+and the ecosystems upon which they depend.  The extinction or harm
+of endangered or threatened species has a substantial impact upon
+interstate commerce because in many cases those species or products
+derived from them are articles of commerce.  Further, their
+extinction or harm could have a significant deleterious effect upon
+interstate commerce between the states by adversely affecting the
+commercial intercourse of non-endangered species or their
+derivatives.  Finally, the conservation of the ecosystems upon
+which these commercial species depend may require the regulation of
+activities harmful to non-commercial species concentrated within a
+single state or region.  Consequently, Congress has the authority
+to make a rational determination to conserve such non-commercial,
+intrastate species as an essential or integral part of the
+comprehensive ESA program that regulates activities having a
+substantial impact on interstate commerce.  
+
+--- PDF page 42 ---
+1 312 U.S. 100 (1941).
+2 Id. at 118.  
+3 17 U.S. 316, 411-12 (1819) (quoting U.S. Const. art. I, § 8,
+cl. 18); see Robert L. Stern, The Commerce Clause and the National
+Economy, 1933-1946, 59 Harv. L. Rev. 883, 890 (1946).  
+4 McCulloch, 17 U.S. at 421.
+42
+At least as early as United States v. Darby, the Supreme Court
+recognized that Congress has the power to regulate intrastate
+activities that it rationally finds necessary to regulate in order
+to effectuate its regulation of interstate commerce. 1  In Darby,
+emphasis was placed on whether the regulation was an “appropriate
+means to the attainment of a legitimate end, the exercise of the
+granted power of Congress to regulate interstate commerce.”2  This
+approach harks back to McCulloch v. Maryland, which noted that the
+Constitution authorizes Congress to make “all laws which shall be
+necessary and proper for carrying into execution the foregoing
+powers.”3  Chief Justice Marshall found that the Necessary and
+Proper clause accords to Congress 
+that discretion, with respect to the means by which the
+powers it confers are to be carried into execution, which
+will enable that body to perform the high duties assigned
+to it, in the manner most beneficial to the people.  Let
+the end be legitimate, let it be within the scope of the
+constitution, and all means which are appropriate, which
+are plainly adapted to that end, which are not
+prohibited, but consist with the letter and spirit of the
+constitution, are constitutional.4
+Darby also pointed out that the Court had often sustained
+legislation enacted under powers other than the Commerce Clause,
+
+--- PDF page 43 ---
+5 Darby, 312 U.S. at 121 (citing Jacob Ruppert, Inc. v.
+Caffey, 251 U.S. 264 (1920); James Everard’s Breweries v. Day, 265
+U.S. 545, 560 (1924); Westfall v. United States, 274 U.S. 256, 259
+(1927)). 
+6 Stern, The Commerce Clause, 59 Harv. L. Rev. at 891 (citing
+Houston, E.& W. Tex. Ry. Co. v. United States, 234 U.S. 342 (1914)
+(Shreveport Rate Cases); Railroad Comm’n of Wis. v. Chicago
+Burlington & Quincy Ry. Co., 257 U.S. 563 (1922); Southern Ry. Co.
+v. United States, 222 U.S. 20 (1911); Baltimore & Ohio Ry. Co. v.
+ICC, 221 U.S. 612 (1911)).
+7 See, e.g., United States v. Lopez, 514 U.S. 549, 561 (1995)
+(finding that the regulation of gun possession near schools under
+the Gun-Free School Zones Act was “not an essential part of a
+larger regulation of economic activity, in which the regulatory
+scheme could be undercut unless the intrastate activity were
+regulated”); Hodel v. Indiana, 452 U.S. 314, 329 n.17 (1981) (“A
+43
+“when the means chosen, although not themselves within the granted
+power, were nevertheless deemed appropriate aids to the
+accomplishment of some purpose within an admitted power of the
+national government.”5  A similar approach had been used in cases
+applying the Commerce Clause to intrastate activities “when the
+intrastate transactions were so commingled with or related to
+interstate commerce as to demand that all be regulated if the
+interstate commerce were to be effectively controlled.”6  
+Indeed, the Supreme Court’s cases, from Darby to the present,
+confirm that Congress has the authority under the Constitution,
+through the intersection of the Commerce Clause and the Necessary
+and Proper Clause, to regulate an intrastate activity that it could
+not reach standing alone, if the regulation is essential or
+integral to the maintenance of a larger regulatory scheme properly
+governing interstate commerce.7  This rule has recently been
+
+--- PDF page 44 ---
+complex regulatory program . . . can survive a Commerce Clause
+challenge without showing that every single facet of the program is
+independently and directly related to a valid congressional goal.
+It is enough that the challenged provisions are an integral part of
+the regulatory program and that the regulatory scheme when
+considered as a whole satisfies [the substantial effect] test.”);
+Maryland v. Wirtz, 392 U.S. 183,  192-93 (1968) (refusing to
+“excise, as trivial, individual instances” of regulation because
+the effect of such excision would be to undermine the effectiveness
+of the regulatory program); United States v. Wrightwood Dairy Co.,
+315 U.S. 110, 121 (1942) (stating that Congress has the power to
+enact such regulations of intrastate activity as are “necessary and
+appropriate” to make the regulation of interstate commerce
+effective); Darby, 312 U.S. at 118 (“[Congress’s power] extends to
+those activities intrastate which so affect interstate commerce or
+the exercise of the power of Congress over it as to make regulation
+of them appropriate means to the attainment of a legitimate end,
+the exercise of the granted power of Congress to regulate
+interstate commerce.”); NLRB v. Jones & Laughlin Steel Corporation,
+301 U.S. 1, 36 (1937) (“The congressional authority to protect
+interstate commerce from burdens and obstructions is not limited to
+transactions which can be deemed to be an essential part of a
+'flow' of interstate or foreign commerce.”). 
+8 See Adrian Vermeule, Does Commerce Clause Review Have
+Perverse Effects? 46 Vill. L. Rev. 1325 (2001); Adrian Vermeule,
+Centralization and the Commerce Clause , 31 Envtl. L. Rep. 11334
+(2001).  
+9 See Groome Resources Ltd. v. Parish of Jefferson, 234 F.3d
+192, 205 (5th Cir. 2000) (“[A] close reading of Lopez . . .
+provides two recognized and historically rooted means of
+congressional regulation under the commerce power: (1) whether the
+activity is ‘any sort of economic enterprise, however broadly one
+might define those terms’; or (2) whether the activity exists as
+‘an essential part of a larger regulation of economic activity, in
+44
+designated by one scholar as the “comprehensive scheme” principle.8
+This Court and its judges have, in effect, recognized the principle
+by concluding that both commercial and noncommercial activity may
+be regulated by Congress if the regulation is an essential or
+integral part of a larger comprehensive scheme properly regulating
+activity substantially affecting interstate commerce.9
+
+--- PDF page 45 ---
+which the regulatory scheme could be undercut unless the intrastate
+activity were regulated.’” (quoting Lopez, 514 U.S. at 561));
+United States v. Bird, 124 F.3d 667, 675 (5th Cir. 1997) (“As a
+federal criminal statute regulating intrastate noncommercial
+conduct, [the challenged section of the Freedom of Access to Clinic
+Entrances Act] must be justified, if at all, as ‘an essential part
+of a larger regulation of economic activity, in which the
+regulatory scheme could be undercut unless the intrastate activity
+were regulated.’” (quoting Lopez, 514 U.S. at 561)); see also
+United States v. Hickman , 179 F.3d 230, 231 (5th Cir. 1999) (en
+banc) (Higginbotham, J., dissenting) (“Congress may protect,
+enhance, or restrict some particular interstate economic market,
+such as those in wheat, credit, minority travel, abortion service,
+illegal drugs, and the like, and Congress may regulate intrastate
+activity as part of a broader scheme.”); United States v. Kirk, 105
+F.3d 997, 1014 (5th Cir. 1997) (en banc) (Jones, J., dissenting)
+(stating that the most critical consideration in determining the
+constitutionality of a statute prohibiting certain possessions of
+machine guns is whether it “fulfills the mission of regulating
+interstate commerce as (1) a regulation of economic activity which,
+although itself local, has substantial effect on interstate
+commerce, or (2) a regulation of activity which is essential to
+maintaining a larger, interstate regime of economic activity.”).
+10 United States v. Morrison, 529 U.S. 598 (2000).  
+45
+The free-standing statutes at issue in Lopez and United States
+v. Morrison10 addressed intrastate offenses of the kind that have
+been traditionally dealt with by state legislation.  Neither
+statute was an integral or ancillary part of a comprehensive scheme
+reasonably designed to regulate activity having a substantial
+effect on interstate commerce.  In Lopez the Court held that the
+Gun-Free School Zones Act, which made it a federal offense to
+knowingly possess a firearm in a known or reasonably recognizable
+school zone, exceeded Congress’ commerce clause authority because
+the criminalized conduct was not an economic activity that
+substantially affected interstate commerce.  The Court expressly
+
+--- PDF page 46 ---
+11 Lopez, 514 U.S. at 561.  
+12 Morrison, 529 U.S. at 613.  
+46
+noted that the statue was not an essential part of a larger
+regulation of economic activity, in which the regulatory scheme
+would be undercut unless the intrastate activity were regulated.11
+Similarly, in Morrison the Court held that the Commerce Clause does
+not authorize Congress to enact a federal civil remedy for the
+victims of gender-motivated violence.  The Court stated that
+gender-motivated crimes of violence are not economic activity
+substantially affecting interstate commerce.12
+In this case, by contrast, the prohibition of the Cave Species
+takes is integral to achieving Congress’s rational purpose in
+enacting the ESA.  In particular, the ESA regulates interstate
+commerce by attempting to prevent the extinction of both commercial
+and non-commercial species.  Regulations under the ESA therefore
+significantly affect the nation’s economy and welfare.  Non-
+commercial species are in many instances vital to the survival of
+ecosystems upon which commercial species are dependent.  The
+interrelationship of commercial and non-commercial species is so
+complicated, intertwined, and not yet fully understood that
+Congress acted rationally in seeking to protect all endangered or
+threatened species from extinction or harm.  The ESA is a necessary
+and proper means not only to conserve the nation’s valuable
+biological resources, but also to promote interstate commerce
+
+--- PDF page 47 ---
+13 Charles Tiefer, After Morrison, Can Congress Preserve
+Environmental Laws from Commerce Clause Challenge? 30 Envt’l L.
+Rep. 10888 (2000).  
+47
+involving those resources.  While some states, including Texas,
+have taken steps to protect species against extinction, the threat
+of extinction of species and loss of their habitat is both a
+worldwide and a national problem that requires at least a
+comprehensive national solution.  Furthermore, as the Congress
+recognized, some of the presently covered non-commercial species
+will prove to be of “incalculable” future value to the nation and
+its economy because they are sources of genetic, scientific, and
+biomedical research and development that will likely facilitate the
+production of commercial goods, services, and techniques. 
+Thus, as the opinion states, the constitutionality of the
+FWS’s regulation of the Cave Species takes does not depend on
+aggregating the effects of all takes of endangered species in order
+to arrive at a sum effect on interstate commerce that is, post-
+aggregation, substantial.  Put another way, the constitutionality
+of any particular application of the ESA take provision does not
+depend on adding up “a large number of small but definite
+[economic] impacts from each insect or plant of an endangered
+species” to reach a substantial effect on interstate commerce. 13
+Rather, the FWS can prohibit the Cave Species takes because such
+regulation is essential to the efficacy of—that is, the regulation
+is necessary and proper to—the ESA’s comprehensive scheme to
+
+--- PDF page 48 ---
+48
+preserve the nation’s genetic heritage and the “incalculable” value
+inherent to that scarce natural resource, and because that
+regulatory scheme has a very substantial impact on interstate
+commerce.    

@@ -1,0 +1,19 @@
+[
+  {
+    "name": "ohio-2919.151-2000",
+    "url": "https://codes.ohio.gov/ohio-revised-code/section-2919.151/8-18-2000",
+    "status": "saved",
+    "sha256": "24b6c4553a441269461eab562303c718dce2043303b3e68ec817bb46bf439769"
+  },
+  {
+    "name": "ohio-hb351-enrolled",
+    "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_123/legislation/hb351/05_EN/pdf/",
+    "status": "saved PDF; local extraction malformed; full 12-page text read through source browser parser",
+    "pages": 12
+  },
+  {
+    "name": "ohio-hb351-final-analysis",
+    "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_123/legislation/hb351/supporting_documents/an_123_hb351en/pdf/",
+    "status": "HTTP 500 on download; not relied on beyond discovery"
+  }
+]

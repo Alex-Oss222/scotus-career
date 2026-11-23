@@ -1,0 +1,1210 @@
+--- PDF page 1 ---
+543US2
+Unit:
+$U22
+[03-16-07 06:53:32] PAGES PGT:
+OPIN
+481
+OCTOBER TERM, 2004
+Syllabus
+STEWART
+v.
+DUTRA CONSTRUCTION CO.
+certiorari to the united states court of appeals for
+the first circuit
+No. 03–814. Argued November 1, 2004—Decided February 22, 2005
+As part of a project to extend the Massachusetts Turnpike, respondent
+Dutra Construction Company dug a trench beneath Boston Harbor
+using its dredge, the
+Super Scoop,
+a ﬂoating platform with a bucket that
+removes silt from the ocean ﬂoor and dumps it onto adjacent scows.
+The
+Super Scoop
+has limited means of self-propulsion, but can navigate
+short distances by manipulating its anchors and cables. When dredg-
+ing the trench here, it typically moved once every couple of hours.
+Petitioner, a marine engineer hired by Dutra to maintain the
+Super
+Scoop
+’s mechanical systems, was seriously injured while repairing a
+scow’s engine when the
+Super Scoop
+and the scow collided. He sued
+Dutra under the Jones Act, alleging that he was a seaman injured by
+Dutra’s negligence, and under § 5(b) of the Longshore and Harbor Work-
+ers’ Compensation Act (LHWCA), 33 U. S. C. § 905(b), which authorizes
+covered employees to sue a “vessel” owner as a third party for an injury
+caused by the owner’s negligence. The District Court granted Dutra
+summary judgment on the Jones Act claim, and the First Circuit af-
+ﬁrmed. On remand, the District Court granted Dutra summary judg-
+ment on the LHWCA claim. In afﬁrming, the First Circuit noted that
+Dutra had conceded that the
+Super Scoop
+was a “vessel” under § 905(b),
+but found that Dutra’s alleged negligence had been committed in its
+capacity as an employer and not as the vessel’s owner.
+Held:
+A dredge is a “vessel” under the LHWCA. Pp. 487–497.
+(a) Congress enacted the Jones Act in 1920 to remove the bar to negli-
+gence suits by seamen. Although that Act does not deﬁne “seaman,”
+the maritime law backdrop at the time it was passed shows that “sea-
+man” is a term of art with an established meaning under general mari-
+time law. The LHWCA, enacted in 1927 to provide scheduled compen-
+sation to land-based maritime workers but not to “a master or member
+of a crew of any vessel,” 33 U. S. C. § 902(3)(G), works in tandem with
+the Jones Act: The Jones Act provides tort remedies to sea-based mari-
+time workers and the LHWCA provides workers’ compensation to
+land-based maritime employees. In
+McDermott Int’l, Inc.
+v.
+Wilander,
+498 U. S. 337, and
+Chandris, Inc.
+v.
+Latsis,
+515 U. S. 347, this Court
+addressed the relationship a worker must have to a vessel in order to
+be a “master or member” of its crew. Now the Court turns to the other
+
+--- PDF page 2 ---
+543US2
+Unit:
+$U22
+[03-16-07 06:53:32] PAGES PGT:
+OPIN
+482 STEWART
+v.
+DUTRA CONSTR. CO.
+Syllabus
+half of the LHWCA’s equation: determining whether a watercraft is a
+vessel. Pp. 487–488.
+(b) The LHWCA did not deﬁne “vessel” when enacted, but §§ 1 and
+3 of the Revised Statutes of 1873 speciﬁed that, in any Act passed after
+February 25, 1871, “ ‘vessel’ includes every description of water-craft or
+other artiﬁcial contrivance used, or capable of being used, as a means of
+transportation on water.” The LHWCA is such an Act. Section 3’s
+deﬁnition has remained virtually unchanged to the present and contin-
+ues to supply the default deﬁnition of “vessel” throughout the U. S.
+Code. Section 3 merely codiﬁed the meaning “vessel” had acquired in
+general maritime law. In fact, prior to the passage of the Jones Act
+and the LHWCA, this Court and lower courts had treated dredges as
+vessels. By the time those Acts became law in the 1920’s, it was settled
+that § 3 deﬁned “vessel” for their purposes, and that a structure’s status
+as a vessel under § 3 depended on whether the structure was an instru-
+ment of naval transportation. See
+Ellis
+v.
+United States,
+206 U. S. 246,
+259. Then as now, dredges served a waterborne transportation func-
+tion: In performing their work they carried machinery, equipment, and
+a crew over water. This Court has continued to treat § 3 as deﬁning
+“vessel” in the LHWCA and to construe § 3 consistently with general
+maritime law.
+Norton
+v.
+Warner Co.,
+321 U. S. 565. Pp. 488–492.
+(c)
+Cope
+v.
+V allette Dry
+Dock Co.,
+119 U. S. 625, and
+Evansville &
+Bowling Green Packet Co.
+v.
+Chero Cola Bottling Co.,
+271 U. S. 19, did
+not adopt a deﬁnition of vesselhood narrower than § 3. Rather, they
+made a sensible distinction between watercraft temporarily stationed in
+a particular location and those permanently anchored to shore or the
+ocean ﬂoor. A watercraft is not capable of being used for maritime
+transport in any meaningful sense if it has been permanently moored or
+otherwise rendered practically incapable of transportation or move-
+ment. By including special-purpose vessels like dredges, § 3 sweeps
+broadly, but other prerequisites to qualifying for seaman status under
+the Jones Act provide some limits. A worker seeking such status must
+prove that his duties contributed to the vessel’s function or mission and
+that his connection to the vessel was substantial in nature and duration.
+Chandris, supra,
+at 376. Pp. 493–495.
+(d) The First Circuit held that the
+Super Scoop
+is not a “vessel” be-
+cause its primary purpose is not navigation or commerce and because it
+was not in actual transit at the time of Stewart’s injury. Neither prong
+of that test is consistent with § 3’s text or general maritime law’s estab-
+lished meaning of “vessel.” Section 3 requires only that a watercraft
+be “used, or capable of being used, as a means of transportation on
+water,” not that it be used primarily for that purpose. The
+Super
+Scoop
+was not only “capable of being used” to transport equipment and
+
+--- PDF page 3 ---
+543US2
+Unit:
+$U22
+[03-16-07 06:53:32] PAGES PGT:
+OPIN
+483
+Cite as: 543 U. S. 481 (2005)
+Syllabus
+passengers over water—it was so used. Similarly, requiring a water-
+craft to be in motion to qualify as a vessel under § 3 is the sort of “snap-
+shot” test rejected in
+Chandris.
+That a vessel must be “in navigation,”
+Chandris, supra,
+at 373–374, means not that a structure’s locomotion at
+any given moment matters, but that structures may lose their character
+as vessels if withdrawn from the water for an extended period. The
+“in navigation” requirement is thus relevant to whether a craft is “used,
+or capable of being used,” for naval transportation. The inquiry
+whether a craft is “used, or capable of being used,” for maritime trans-
+portation may involve factual issues for a jury, but here no relevant
+facts were in dispute. Dutra conceded that the
+Super Scoop
+was only
+temporarily stationary while the scow was being repaired; it had not
+been taken out of service, permanently anchored, or otherwise rendered
+practically incapable of maritime transport. Finally, Dutra conceded
+that the
+Super Scoop
+is a “vessel” under § 905(b), which imposes
+LHWCA liability on vessel owners for negligence to longshoremen.
+However, the LHWCA does not meaningfully deﬁne the term “vessel”
+in either § 902(3)(G) or § 905(b), and 1 U. S. C. § 3 deﬁnes the term “ves-
+sel” throughout the LHWCA. Pp. 495–497.
+343 F. 3d 10, reversed and remanded.
+Thomas,
+J., delivered the opinion of the Court, in which all other Mem-
+bers joined, except
+Rehnquist,
+C. J., who took no part in the decision of
+the case.
+David B. Kaplan
+argued the cause for petitioner. With
+him on the briefs were
+Thomas M. Bond, David W . Robert-
+son,
+and
+Michael F . Sturley.
+Lisa S. Blatt
+argued the cause for the United States as
+amicus curiae
+urging reversal. With her on the brief were
+former
+Solicitor General Olson, Deputy Solicitor General
+Hungar, Howard M. Radzely, Allen H. Feldman,
+and
+Mark
+S. Flynn.
+Frederick E. Connelly, Jr.,
+argued the cause for respond-
+ent. With him on the brief were
+Harvey Weiner
+and
+John
+J . O’Connor.
+*
+*Briefs of
+amici curiae
+urging reversal were ﬁled for the Association
+of Trial Lawyers of America by
+John W . deGravelles
+and
+David S. Casey,
+Jr.;
+for Diamond Offshore D
+rilling,
+Inc., et al. by
+James Patrick
+
+--- PDF page 4 ---
+543US2
+Unit:
+$U22
+[03-16-07 06:53:32] PAGES PGT:
+OPIN
+484 STEWART
+v.
+DUTRA CONSTR. CO.
+Opinion of the Court
+Justice Thomas
+delivered the opinion of the Court.
+The question in this case is whether a dredge is a “vessel”
+under § 2(3)(G) of the Longshore and Harbor Workers’ Com-
+pensation Act (LHWCA), 44 Stat., pt. 2, p. 1425, as added
+by § 2(a) of Pub. L. 98–426, 33 U. S. C. § 902(3)(G). We hold
+that it is.
+I
+As part of Boston’s Central Artery/Tunnel Project, or “Big
+Dig,” the Commonwealth of Massachusetts undertook to ex-
+tend the Massachusetts Turnpike through a tunnel running
+beneath South Boston and Boston Harbor to Logan Airport.
+The Commonwealth employed respondent Dutra Construc-
+tion Company to assist in that undertaking. At the time,
+Dutra owned the world’s largest dredge, the
+Super Scoop,
+which was capable of digging the 50-foot-deep, 100-foot-wide,
+three-quarter-mile-long trench beneath Boston Harbor that
+is now the Ted Williams Tunnel.
+The
+Super Scoop
+is a massive ﬂoating platform from which
+a clamshell bucket is suspended beneath the water. The
+bucket removes silt from the ocean ﬂoor and dumps the sedi-
+ment onto one of two scows that ﬂoat alongside the dredge.
+The
+Super Scoop
+has certain characteristics common to sea-
+going vessels, such as a captain and crew, navigational lights,
+ballast tanks, and a crew dining area. But it lacks others.
+Most conspicuously, the
+Super Scoop
+has only limited means
+of self-propulsion. It is moved long distances by tugboat.
+(To work on the Big Dig, it was towed from its home base
+in California through the Panama Canal and up the eastern
+seaboard to Boston Harbor.) It navigates short distances
+by manipulating its anchors and cables. When dredging the
+Cooney;
+and for the United Brotherhood of Carpenters and Joiners of
+America by
+John R. Hillsman
+and
+John T . DeCarlo.
+Briefs of
+amici curiae
+urging afﬁrmance were ﬁled for the Signal Mu-
+tual Indemnity Association by
+John J . Walsh;
+and for T. W. LaQuay Dredg-
+ing, Inc., by
+Gus David Oppermann V .
+
+--- PDF page 5 ---
+543US2
+Unit:
+$U22
+[03-16-07 06:53:32] PAGES PGT:
+OPIN
+485
+Cite as: 543 U. S. 481 (2005)
+Opinion of the Court
+Boston Harbor trench, it typically moved in this way once
+every couple of hours, covering a distance of 30-to-50 feet
+each time.
+Dutra hired petitioner Willard Stewart, a marine engi-
+neer, to maintain the mechanical systems on the
+Super Scoop
+during its dredging of the harbor. At the time of Stewart’s
+accident, the
+Super Scoop
+lay idle because one of its scows,
+Scow No. 4,
+had suffered an engine malfunction and the other
+was at sea. Stewart was on board
+Scow No. 4,
+feeding wires
+through an open hatch located about 10 feet above the engine
+area. While Stewart was perched beside the hatch, the
+Super Scoop
+used its bucket to move the scow. In the proc-
+ess, the scow collided with the
+Super Scoop,
+causing a jolt
+that plunged Stewart headﬁrst through the hatch to the deck
+below. He was seriously injured.
+Stewart sued Dutra in the United States District Court
+for the District of Massachusetts under the Jones Act, 38
+Stat. 1185, as amended, 41 Stat. 1007 and 96 Stat. 1955, 46
+U. S. C. App. § 688(a), alleging that he was a seaman injured
+by Dutra’s negligence. He also ﬁled an alternative claim
+under § 5(b) of the LHWCA, 33 U. S. C. § 905(b), which au-
+thorizes covered employees to sue a “vessel” owner as a
+third party for an injury caused by the owner’s negligence.
+Dutra moved for summary judgment on the Jones Act
+claim, arguing that Stewart was not a seaman. The com-
+pany acknowledged that Stewart was “a member of the
+[
+Super Scoop
+’s] crew,” 230 F. 3d 461, 466 (CA1 2000); that he
+spent “[n]inety-nine percent of his time while on the job”
+aboard the
+Super Scoop,
+App. 20 (Defendant’s Memorandum
+in Support of Summary Judgment); and that his “duties con-
+tributed to the function” of the
+Super Scoop, id.,
+at 32.
+Dutra argued only that the
+Super Scoop
+was not a vessel for
+purposes of the Jones Act. Dutra pointed to the Court of
+Appeals’ en banc decision in
+DiGiovanni
+v.
+Traylor Broth-
+ers, Inc.,
+959 F. 2d 1119 (CA1 1992), which held that “if a
+
+--- PDF page 6 ---
+543US2
+Unit:
+$U22
+[03-16-07 06:53:32] PAGES PGT:
+OPIN
+486 STEWART
+v.
+DUTRA CONSTR. CO.
+Opinion of the Court
+barge . . . or other ﬂoat’s purpose or primary business is
+not
+navigation or commerce, then workers assigned thereto for
+its shore enterprise are to be considered seamen only when
+it is in actual navigation or transit” at the time of the plain-
+tiff’s injury.
+Id.,
+at 1123 (internal quotation marks omitted).
+The District Court granted summary judgment to Dutra,
+because the
+Super Scoop
+’s primary purpose was dredging
+rather than transportation and because it was stationary at
+the time of Stewart’s injury.
+On interlocutory appeal, the Court of Appeals afﬁrmed,
+concluding that it too was bound by
+DiGiovanni.
+230 F. 3d,
+at 467–468. The court reasoned that the
+Super Scoop
+’s pri-
+mary function was construction and that “[a]ny navigation
+or transportation that may be required is incidental to this
+primary function.”
+Id.,
+at 468. The court also concluded
+that the scow’s movement at the time of the accident did not
+help Stewart, because his status as a seaman depended on
+the movement of the
+Super Scoop
+(which was stationary)
+rather than the scow.
+Id.,
+at 469.
+On remand, the District Court granted summary judgment
+in favor of Dutra on Stewart’s alternative claim that Dutra
+was liable for negligence as an owner of a “vessel” under the
+LHWCA, 33 U. S. C. § 905(b). The Court of Appeals again
+afﬁrmed. It noted that Dutra had conceded that the
+Super
+Scoop
+was a “vessel” for purposes of § 905(b), explaining that
+“the LHWCA’s deﬁnition of ‘vessel’ is ‘signiﬁcantly more in-
+clusive than that used for evaluating seaman status under
+the Jones Act.’ ” 343 F. 3d 10, 13 (CA1 2003) (quoting
+More-
+head
+v.
+Atkinson-Kiewit, J/V ,
+97 F. 3d 603, 607 (CA1 1996)
+(en banc)). The Court of Appeals nonetheless agreed with
+the District Court’s conclusion that Dutra’s alleged negli-
+gence was committed in its capacity as an employer rather
+than as owner of the vessel under § 905(b).
+We granted certiorari to resolve confusion over how to de-
+termine whether a watercraft is a “vessel” for purposes of
+the LHWCA. 540 U. S. 1177 (2004).
+
+--- PDF page 7 ---
+543US2
+Unit:
+$U22
+[03-16-07 06:53:32] PAGES PGT:
+OPIN
+487
+Cite as: 543 U. S. 481 (2005)
+Opinion of the Court
+II
+Prior to the passage of the Jones Act, general maritime
+law usually entitled a seaman who fell sick or was injured
+both to maintenance and cure (or the right to be cared for
+and paid wages during the voyage, see,
+e. g., Harden
+v.
+Gordon,
+11 F. Cas. 480, 482–483 (No. 6,047) (CC Me. 1823)
+(Story, J.)), and to damages for any “injuries received . . . in
+consequence of the unseaworthiness of the ship,”
+The Osce-
+ola,
+189 U. S. 158, 175 (1903). Suits against shipowners for
+negligence, however, were barred. Courts presumed that
+the seaman, in signing articles of employment for the voyage,
+had assumed the risks of his occupation; thus a seaman was
+“not allowed to recover an indemnity for the negligence of
+the master, or any member of the crew.”
+Ibid.
+Congress enacted the Jones Act in 1920 to remove this
+bar to negligence suits by seamen. See
+Chandris, Inc.
+v.
+Latsis,
+515 U. S. 347, 354 (1995). Speciﬁcally, the Jones Act
+provides:
+“Any seaman who shall suffer personal injury in the
+course of his employment may, at his election, maintain
+an action for damages at law, with the right of trial by
+jury, and in such action all statutes of the United States
+modifying or extending the common-law right or rem-
+edy in cases of personal injury to railway employees
+shall apply.” 46 U. S. C. App. § 688(a).
+Although the statute is silent on who is a “seaman,” both the
+maritime law backdrop against which Congress enacted the
+Jones Act and Congress’ subsequent enactments provide
+some guidance.
+First, “seaman” is a term of art that had an established
+meaning under general maritime law. We have thus pre-
+sumed that when the Jones Act made available negligence
+remedies to “[a]ny seaman who shall suffer personal injury
+in the course of his employment,” Congress took the term
+“seaman” as the general maritime law found it.
+Chandris,
+
+--- PDF page 8 ---
+543US2
+Unit:
+$U22
+[03-16-07 06:53:32] PAGES PGT:
+OPIN
+488 STEWART
+v.
+DUTRA CONSTR. CO.
+Opinion of the Court
+supra,
+at 355 (citing
+Warner
+v.
+Goltra,
+293 U. S. 155, 159
+(1934)); G. Gilmore & C. Black, Law of Admiralty § 6–21,
+pp. 328–329 (2d ed. 1975).
+Second, Congress provided further guidance in 1927 when
+it enacted the LHWCA, which provides scheduled compensa-
+tion to land-based maritime workers but which also excepts
+from its coverage “a master or member of a crew of any
+vessel.” 33 U. S. C. § 902(3)(G). This exception is simply
+“a reﬁnement of the term ‘seaman’ in the Jones Act.”
+Mc-
+Dermott Int’l, Inc.
+v.
+Wilander,
+498 U. S. 337, 347 (1991).
+Thus, the Jones Act and the LHWCA are complementary
+regimes that work in tandem: The Jones Act provides tort
+remedies to
+sea
+-based maritime workers, while the LHWCA
+provides workers’ compensation to
+land
+-based maritime em-
+ployees.
+Ibid.; Swanson
+v.
+Marra Brothers, Inc.,
+328 U. S.
+1, 6–7 (1946).
+Still, discerning the contours of “seaman” status, even with
+the general maritime law and the LHWCA’s language as
+aids to interpretation, has not been easy. See
+Chandris,
+supra,
+at 356. We began clarifying the deﬁnition of “sea-
+man” in a pair of cases,
+McDermott Int’l, Inc.
+v.
+Wilander,
+supra,
+and
+Chandris, supra,
+that addressed the relationship
+a worker must have to a vessel in order to be a “master or
+member” of its crew. We now turn to the other half of the
+LHWCA’s equation: how to determine whether a watercraft
+is a “vessel.”
+A
+Just as Congress did not deﬁne the term “seaman” in the
+Jones Act,
+1
+it did not deﬁne the term “vessel” in the LHWCA
+1
+The Shipping Act, 1916, deﬁnes the term “vessel” for purposes of the
+Jones Act. See 46 U. S. C. App. § 801. However, the provision of the
+Jones Act at issue here, § 688(a), speaks not of “vessels,” but of “seamen.”
+In any event, because we have identiﬁed a Jones Act “seaman” with refer-
+ence to the LHWCA’s exclusion, see 33 U. S. C. § 902(3)(G) (“a master or
+member of a crew of any vessel”), it is the LHWCA’s use of the term
+“vessel” that matters. And, as we explain, the context surrounding Con-
+
+--- PDF page 9 ---
+543US2
+Unit:
+$U22
+[03-16-07 06:53:32] PAGES PGT:
+OPIN
+489
+Cite as: 543 U. S. 481 (2005)
+Opinion of the Court
+itself.
+2
+However, Congress provided a deﬁnition elsewhere.
+At the time of the LHWCA’s enactment, §§ 1 and 3 of the
+Revised Statutes of 1873 speciﬁed:
+“In determining the meaning of the revised statutes,
+or of any act or resolution of Congress passed subse-
+quent to February twenty-ﬁfth, eighteen hundred and
+seventy-one
+,...[ t ] h e
+word ‘vessel’ includes every de-
+scription of water-craft or other artiﬁcial contrivance
+used, or capable of being used, as a means of transporta-
+tion on water.”
+3
+18 Stat., pt. 1, p. 1.
+Sections 1 and 3 show that, because the LHWCA is an Act
+of Congress passed after February 25, 1871, the LHWCA’s
+use of the term “vessel” “includes every description of
+water-craft or other artiﬁcial contrivance used, or capable of
+being used, as a means of transportation on water.”
+Ibid.
+Section 3’s deﬁnition, repealed and recodiﬁed in 1947 as
+part of the Rules of Construction Act, 1 U. S. C. § 3, has
+gress’ enactment of the LHWCA suggests that Rev. Stat. § 3, now 1
+U. S. C. § 3, provides the controlling deﬁnition of the term “vessel” in the
+LHWCA.
+2
+As part of its 1972 Amendments to the LHWCA, Congress amended
+the Act with what appears at ﬁrst blush to be a deﬁnition of the term
+“vessel”: “Unless the context requires otherwise, the term ‘vessel’ means
+any vessel upon which or in connection with which any person entitled to
+beneﬁts under this chapter suffers injury or death arising out of or in the
+course of his employment, and said vessel’s owner, owner pro hac vice,
+agent, operator, charter or bare boat charterer, master, ofﬁcer, or crew
+member.” 33 U. S. C. § 902(21). However, Congress enacted this deﬁni-
+tion in conjunction with the third-party vessel owner provision of § 905(b).
+Rather than specifying the characteristics of a vessel, § 902(21) instead
+lists the parties liable for the negligent operation of a vessel. See
+McCar-
+thy
+v.
+The Bark Peking,
+716 F. 2d 130, 133 (CA2 1983) (§ 902(21) is “circu-
+lar” and “does not provide precise guidance as to what is included within
+the term ‘vessel’ ”).
+3
+Congress had used substantially the same deﬁnition before, ﬁrst in an
+1866 antismuggling statute, see § 1, 14 Stat. 178, and then in an 1870 stat-
+ute “provid[ing] for the Relief of sick and disabled Seamen,” ch.
+clxix,
+16
+Stat. 169 (italics deleted); see
+id.,
+§ 7, at 170.
+
+--- PDF page 10 ---
+543US2
+Unit:
+$U22
+[03-16-07 06:53:32] PAGES PGT:
+OPIN
+490 STEWART
+v.
+DUTRA CONSTR. CO.
+Opinion of the Court
+remained virtually unchanged from 1873 to the present.
+4
+Even now, § 3 continues to supply the default deﬁnition of
+“vessel” throughout the U. S. Code, “unless the context indi-
+cates otherwise.” 1 U. S. C. § 1. The context surrounding
+the LHWCA’s enactment indicates that § 3 deﬁnes the term
+“vessel” for purposes of the LHWCA.
+Section 3 merely codiﬁed the meaning that the term “ves-
+sel” had acquired in general maritime law. See 1 S. Friedell,
+Benedict on Admiralty § 165 (rev. 7th ed. 2004). In the dec-
+ades following its enactment, § 3 was regularly used to deﬁne
+the term “vessel” in maritime jurisprudence. Taking only
+the issue presented here—whether a dredge is a vessel—
+prior to passage of the Jones Act and the LHWCA, courts
+often used § 3’s deﬁnition to conclude that dredges were
+vessels.
+5
+From the very beginning, these courts understood the dif-
+ferences between dredges and more traditional seagoing ves-
+sels. Though smaller, the dredges at issue in the earliest
+cases were essentially the same as the
+Super Scoop
+here.
+For instance, the court could have been speaking equally of
+the
+Super Scoop
+as of
+The Alabama
+when it declared:
+“The dredge and scows have no means of propulsion of
+their own except that the dredge, by the use of anchors,
+windlass, and rope, is moved for short distances, as re-
+quired in carrying on the business of dredging. Both
+4
+During the 1947 codiﬁcation, the hyphen was removed from the word
+“watercraft.” § 3, 61 Stat. 633.
+5
+See,
+e. g., The Alabama,
+19 F. 544, 546 (SD Ala. 1884) (dredge was a
+vessel and subject to maritime liens);
+Huismann
+v.
+The Pioneer,
+30 F. 206,
+207 (EDNY 1886) (dredge was a vessel under § 3);
+Saylor
+v.
+T aylor,
+77 F.
+476, 477 (CA4 1896) (dredge was a vessel under § 3, and its workers were
+seamen);
+The International,
+89 F. 484, 484–485 (CA3 1898) (dredge was a
+vessel under § 3);
+Eastern S. S. Corp.
+v.
+Great Lakes Dredge & Dock Co.,
+256 F. 497, 500–501 (CA1 1919) (type of dredge called a “d
+rillboat” was a
+vessel under § 3);
+Los Angeles
+v.
+United Dredging Co.,
+14 F. 2d 364, 365–
+366 (CA9 1926) (dredge was a vessel under § 3 and its engineers were
+seamen).
+
+--- PDF page 11 ---
+543US2
+Unit:
+$U22
+[03-16-07 06:53:32] PAGES PGT:
+OPIN
+491
+Cite as: 543 U. S. 481 (2005)
+Opinion of the Court
+the dredge and the scows are moved from place to place
+where they may be employed by being towed, and some
+of the tows have been for long distances and upon the
+high seas. The dredge and scows are not made for or
+adapted to the carriage of freight or passengers, and the
+evidence does not show that, in point of fact, this dredge
+and scows had ever been so used and employed.”
+The
+Alabama,
+19 F. 544, 545 (SD Ala. 1884).
+See also
+Huismann
+v.
+The Pioneer,
+30 F. 206 (EDNY 1886).
+None of this prevented the court from recognizing that
+dredges are vessels because they are watercraft with “the
+capacity to be navigated in and upon the waters.”
+The Ala-
+bama, supra,
+at 546; see also
+The Pioneer, supra,
+at 207;
+The
+International,
+89 F. 484, 485 (CA3 1898).
+This Court also treated dredges as vessels prior to the
+passage of the Jones Act and the LHWCA. It did so in a
+pair of cases, ﬁrst implicitly in
+The “Virginia Ehrman” and
+the “Agnese,”
+97 U. S. 309 (1878), and then explicitly in
+Ellis
+v.
+United States,
+206 U. S. 246 (1907). In
+Ellis,
+this Court
+considered,
+inter alia,
+whether workers aboard various
+dredges and scows were covered by a federal labor law.
+Just as in the present case, one of the
+Ellis
+appellants argued
+that the dredges at issue were “vessels” within the meaning
+of Rev. Stat. § 3, now 1 U. S. C. § 3. 206 U. S., at 249. The
+United States responded that dredges were only vessels, if
+at all, when in actual navigation as they were “towed from
+port to port.”
+Id.,
+at 253. Citing § 3, Justice Holmes re-
+jected the Government’s argument, stating that “[t]he scows
+and ﬂoating dredges were vessels” that “were within the ad-
+miralty jurisdiction of the United States.”
+Id.,
+at 259.
+These early cases show that at the time Congress enacted
+the Jones Act and the LHWCA in the 1920’s, it was settled
+that § 3 deﬁned the term “vessel” for purposes of those stat-
+utes. It was also settled that a structure’s status as a vessel
+under § 3 depended on whether the structure was a means
+of maritime transportation. See R. Hughes, Handbook of
+
+--- PDF page 12 ---
+543US2
+Unit:
+$U22
+[03-16-07 06:53:32] PAGES PGT:
+OPIN
+492 STEWART
+v.
+DUTRA CONSTR. CO.
+Opinion of the Court
+Admiralty Law § 5, p. 14 (2d ed. 1920). For then, as now,
+dredges served a waterborne transportation function, since
+in performing their work they carried machinery, equipment,
+and crew over water. See,
+e. g., Butler
+v.
+Ellis,
+45 F. 2d 951,
+955 (CA4 1930) (ﬁnding the vessel status of dredges “sus-
+tained by the overwhelming weight of authority”);
+The Hur-
+ricane,
+2 F. 2d 70, 72 (ED Pa. 1924) (expressing “no doubt”
+that dredges are vessels), aff’d, 9 F. 2d 396 (CA3 1925).
+This Court’s cases have continued to treat § 3 as deﬁning
+the term “vessel” in the LHWCA, and they have continued
+to construe § 3’s deﬁnition in light of the term’s established
+meaning in general maritime law. For instance, in
+Norton
+v.
+Warner Co.,
+321 U. S. 565 (1944), the Court considered
+whether a worker on a harbor barge was “a master or mem-
+ber of a crew of any vessel” under the LHWCA, 33 U. S. C.
+§ 902(3)(G). In ﬁnding that the “barge [was] a vessel within
+the meaning of the Act,” the Court not only quoted § 3’s
+deﬁnition of the term “vessel,” but it also cited in support of
+its holding several earlier cases that had held dredges to be
+vessels based on the general maritime law. 321 U. S., at 571,
+and n. 4. This Court therefore conﬁrmed in
+Norton
+that § 3
+deﬁnes the term “vessel” in the LHWCA and that § 3 should
+be construed consistently with the general maritime law.
+Since
+Norton,
+this Court has often said that dredges and
+comparable watercraft qualify as vessels under the Jones Act
+and the LHWCA.
+6
+6
+See,
+e. g., Jerome B. Grubart, Inc.
+v.
+Great Lakes Dredge & Dock Co.,
+513 U. S. 527, 535, and n. 1 (1995) (indicating that a stationary crane barge
+was a “vessel” under the Extension of Admiralty Jurisdiction Act);
+South-
+west Marine, Inc.
+v.
+Gizoni,
+502 U. S. 81, 92 (1991) (holding that a jury
+could reasonably ﬁnd that ﬂoating platforms were “vessels in navigation”
+under the Jones Act);
+Jones & Laughlin Steel Corp.
+v.
+Pfeifer,
+462 U. S.
+523, 528–530 (1983) (treating coal barge as a “vessel” under the LHWCA,
+33 U. S. C. § 905(b)); cf.
+Senko
+v.
+LaCrosse Dredging Corp.,
+352 U. S. 370,
+372 (1957) (assuming that a dredge was a Jones Act vessel);
+id.,
+at 375,
+n. 1 (Harlan, J., dissenting) (same).
+
+--- PDF page 13 ---
+543US2
+Unit:
+$U22
+[03-16-07 06:53:32] PAGES PGT:
+OPIN
+493
+Cite as: 543 U. S. 481 (2005)
+Opinion of the Court
+B
+Despite this Court’s reliance on § 3 in cases like
+Ellis
+and
+Norton,
+Dutra argues that the Court has implicitly narrowed
+§ 3’s deﬁnition. Section 3 says that a “vessel” must be “used,
+or capable of being used, as a means of transportation on
+water.” 18 Stat., pt. 1, p. 1. In a pair of cases, the Court
+held that a drydock,
+Cope
+v.
+Vallette Dry Dock Co.,
+119 U. S.
+625, 630 (1887), and a wharfboat attached to the mainland,
+Evansville & Bowling Green Packet Co.
+v.
+C h e r oC o l aB o t -
+tling Co.,
+271 U. S. 19, 22 (1926), were not vessels under § 3,
+because they were not
+practically
+capable of being used to
+transport people, freight, or cargo from place to place. Ac-
+cording to Dutra,
+Cope
+and
+Evansville
+adopted a deﬁnition
+of “vessel” narrower than § 3’s text.
+Dutra misreads
+Cope
+and
+Evansville.
+In
+Cope,
+the plain-
+tiff sought a salvage award for having prevented a drydock
+from sinking after a steamship collided with it. 119 U. S.,
+at 625–626. At the time of the accident, the drydock, a
+ﬂoating dock used for repairing vessels, was “moored and
+lying at [the] usual place” it had occupied for the past
+20 years.
+Id.,
+at 626. In those circumstances, the dry-
+dock was a “ﬁxed structure” that had been “permanently
+moored,” rather than a vessel that had been temporarily
+anchored.
+Id.,
+at 627.
+Evansville
+involved a wharfboat
+secured by cables to the mainland. Local water, electric-
+ity, and telephone lines all ran from shore to the wharfboat,
+evincing a “permanent location.” 271 U. S., at 22. And
+the wharfboat, like the drydock in
+Cope,
+was neither “taken
+from place to place” nor “used to carry freight from one
+place to another.” 271 U. S., at 22. As in
+Cope,
+the Court
+concluded that the wharfboat “was not practically capable of
+being used as a means of transportation.” 271 U. S., at 22.
+Cope
+and
+Evansville
+did no more than construe § 3 in light
+of the distinction drawn by the general maritime law be-
+tween watercraft temporarily stationed in a particular loca-
+tion and those permanently afﬁxed to shore or resting on the
+
+--- PDF page 14 ---
+543US2
+Unit:
+$U22
+[03-16-07 06:53:32] PAGES PGT:
+OPIN
+494 STEWART
+v.
+DUTRA CONSTR. CO.
+Opinion of the Court
+ocean ﬂoor. See,
+e. g., The Alabama,
+19 F., at 546 (noting
+that vessels possess “mobility and [the] capacity to navi-
+gate,” as distinct from ﬁxed structures like wharves, dry-
+docks, and bridges). Simply put, a watercraft is not “capa-
+ble of being used” for maritime transport in any meaningful
+sense if it has been permanently moored or otherwise ren-
+dered practically incapable of transportation or movement.
+This distinction is sensible: A ship and its crew do not
+move in and out of Jones Act coverage depending on whether
+the ship is at anchor, docked for loading or unloading, or
+berthed for minor repairs, in the same way that ships taken
+permanently out of the water as a practical matter do not
+remain vessels merely because of the remote possibility that
+they may one day sail again. See
+Pavone
+v.
+Mississippi
+Riverboat Amusement Corp.,
+52 F. 3d 560, 570 (CA5 1995)
+(ﬂoating casino was no longer a vessel where it “was moored
+to the shore in a semi-permanent or indeﬁnite manner”);
+Kathriner
+v.
+Unisea, Inc.,
+975 F. 2d 657, 660 (CA9 1992)
+(ﬂoating processing plant was no longer a vessel where a
+“large opening [had been] cut into her hull,” rendering her
+incapable of moving over the water). Even if the general
+maritime law had not informed the meaning of § 3, its deﬁni-
+tion would not sweep within its reach an array of ﬁxed struc-
+tures not commonly thought of as capable of being used for
+water transport. See,
+e. g., Leocal
+v.
+Ashcroft, ante,
+at 9
+(“When interpreting a statute, we must give words their ‘or-
+dinary or natural’ meaning” (quoting
+Smith
+v.
+United States,
+508 U. S. 223, 228 (1993))).
+Applying § 3 brings within the purview of the Jones Act
+the sorts of watercraft considered vessels at the time Con-
+gress passed the Act. By including special-purpose vessels
+like dredges, § 3 sweeps broadly, but the other prerequisites
+to qualifying for seaman status under the Jones Act provide
+some limits, notwithstanding § 3’s breadth. A maritime
+worker seeking Jones Act seaman status must also prove
+that his duties contributed to the vessel’s function or mission,
+
+--- PDF page 15 ---
+543US2
+Unit:
+$U22
+[03-16-07 06:53:32] PAGES PGT:
+OPIN
+495
+Cite as: 543 U. S. 481 (2005)
+Opinion of the Court
+and that his connection to the vessel was substantial both in
+nature and duration.
+Chandris,
+515 U. S., at 376. Thus,
+even though the
+Super Scoop
+is a “vessel,” workers injured
+aboard the
+Super Scoop
+are eligible for seaman status only
+if they are “master[s] or member[s]” of its crew.
+C
+The Court of Appeals, relying on its previous en banc deci-
+sion in
+DiGiovanni
+v.
+Traylor Brothers, Inc.,
+959 F. 2d 1119
+(CA1 1992), held that the
+Super Scoop
+is not a “vessel” be-
+cause its primary purpose is not navigation or commerce and
+because it was not in actual transit at the time of Stewart’s
+injury. 230 F. 3d, at 468–469. Neither prong of the Court
+of Appeals’ test is consistent with the text of § 3 or the estab-
+lished meaning of the term “vessel” in general maritime law.
+Section 3 requires only that a watercraft be “used, or capa-
+ble of being used, as a means of transportation on water” to
+qualify as a vessel. It does not require that a watercraft be
+used
+primarily
+for that purpose. See
+The Alabama, supra,
+at 546;
+The International,
+89 F., at 485. As the Court of
+Appeals recognized, the
+Super Scoop
+’s “function was to move
+through Boston Harbor
+,...
+digging the ocean bottom as it
+moved.” 343 F. 3d, at 12. In other words, the
+Super Scoop
+was not only “capable of being used” to transport equipment
+and workers over water—it
+was
+used to transport those
+things. Indeed, it could not have dug the Ted W
+illiams Tun-
+nel had it been unable to traverse the Boston Harbor, carry-
+ing with it workers like Stewart.
+Also, a watercraft need not be in motion to qualify as a
+vessel under § 3. Looking to whether a watercraft is mo-
+tionless or moving is the sort of “snapshot” test that we re-
+jected in
+Chandris.
+Just as a worker does not “oscillate
+back and forth between Jones Act coverage and other reme-
+dies depending on the activity in which the worker was en-
+gaged while injured,”
+Chandris,
+515 U. S., at 363, neither
+does a watercraft pass in and out of Jones Act coverage
+
+--- PDF page 16 ---
+543US2
+Unit:
+$U22
+[03-16-07 06:53:32] PAGES PGT:
+OPIN
+496 STEWART
+v.
+DUTRA CONSTR. CO.
+Opinion of the Court
+depending on whether it was moving at the time of the
+accident.
+Granted, the Court has sometimes spoken of the require-
+ment that a vessel be “in navigation,”
+id.,
+at 373–374, but
+never to indicate that a structure’s locomotion at any given
+moment mattered. Rather, the point was that structures
+may lose their character as vessels if they have been with-
+drawn from the water for extended periods of time.
+Ibid.;
+Roper
+v.
+United States,
+368 U. S. 20, 21, 23 (1961);
+West
+v.
+United States,
+361 U. S. 118, 122 (1959). The Court did not
+mean that the “in navigation” requirement stood apart from
+§ 3, such that a “vessel” for purposes of § 3 might neverthe-
+less not be a “vessel in navigation” for purposes of the Jones
+Act or the LHWCA. See,
+e. g., United States
+v.
+Templ
+eton,
+378 F. 3d 845, 851 (CA8 2004) (“[T]he deﬁnition of ‘vessel in
+navigation’ under the Jones Act is not as expansive as the
+general deﬁnition of ‘vessel’ ”).
+Instead, the “in navigation” requirement is an element of
+the vessel status of a watercraft. It is relevant to whether
+the craft is “used, or capable of being used” for maritime
+transportation. A ship long lodged in a drydock or shipyard
+can again be put to sea, no less than one permanently moored
+to shore or the ocean ﬂoor can be cut loose and made to sail.
+The question remains in all cases whether the watercraft’s
+use “as a means of transportation on water” is a practical
+possibility or merely a theoretical one.
+Supra,
+at 493. In
+some cases that inquiry may involve factual issues for the
+jury,
+Chandris, supra,
+at 373, but here no relevant facts were
+in dispute. Dutra conceded that the
+Super Scoop
+was only
+temporarily stationary while Stewart and others were re-
+pairing the scow; the
+Super Scoop
+had not been taken out of
+service, permanently anchored, or otherwise rendered prac-
+tically incapable of maritime transport.
+Finally, although Dutra argues that the
+Super Scoop
+is not
+a “vessel” under § 902(3)(G), which is the LHWCA provision
+that excludes seamen from the Act’s coverage, Dutra con-
+
+--- PDF page 17 ---
+543US2
+Unit:
+$U22
+[03-16-07 06:53:32] PAGES PGT:
+OPIN
+497
+Cite as: 543 U. S. 481 (2005)
+Opinion of the Court
+ceded below that the
+Super Scoop is
+a “vessel” under
+§ 905(b), which is the LHWCA provision that imposes liabil-
+ity on vessel owners for negligence to longshoremen. The
+concession was necessary because the Court of Appeals had
+previously held that § 905(b)’s use of the term “vessel” is
+“ ‘signiﬁcantly more inclusive than that used for evaluating
+seaman status under the Jones Act.’ ” 343 F. 3d, at 13 (quot-
+ing
+Morehead
+v.
+Atkinson-Kiewit,
+97 F. 3d, at 607). The
+Court of Appeals’ approach is no longer tenable. The
+LHWCA does not meaningfully deﬁne the term “vessel” as
+it appears in either § 902(3)(G) or § 905(b), see n. 2,
+supra,
+and 1 U. S. C. § 3 deﬁnes the term “vessel” throughout the
+LHWCA.
+III
+At the time that Congress enacted the LHWCA and since,
+Rev. Stat. § 3, now 1 U. S. C. § 3, has deﬁned the term “ves-
+sel” in the LHWCA. Under § 3, a “vessel” is any watercraft
+practically capable of maritime transportation, regardless of
+its primary purpose or state of transit at a particular mo-
+ment. Because the
+Super Scoop
+was engaged in maritime
+transportation at the time of Stewart’s injury, it was a vessel
+within the meaning of 1 U. S. C. § 3. Despite the seeming
+incongruity of grouping dredges alongside more traditional
+seafaring vessels under the maritime statutes, Congress and
+the courts have long done precisely that:
+“[I]t seems a stretch of the imagination to class the deck
+hands of a mud dredge in the quiet waters of a Potomac
+creek with the bold and skillful mariners who breast
+the angry waves of the Atlantic; but such and so far-
+reaching are the principles which underlie the jurisdic-
+tion of the courts of admiralty that they adapt them-
+selves to all the new kinds of property and new sets of
+operatives and new conditions which are brought into
+existence in the progress of the world.”
+Saylor
+v.
+Tay-
+lor,
+77 F. 476, 479 (CA4 1896).
+
+--- PDF page 18 ---
+543US2
+Unit:
+$U22
+[03-16-07 06:53:32] PAGES PGT:
+OPIN
+498 STEWART
+v.
+DUTRA CONSTR. CO.
+Opinion of the Court
+The judgment of the Court of Appeals is reversed, and
+the case is remanded for further proceedings consistent with
+this opinion.
+It is so ordered.
+The Chief Justice
+took no part in the decision of this
+case.

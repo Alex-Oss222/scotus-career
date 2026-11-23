@@ -1,0 +1,2072 @@
+--- PDF page 1 ---
+*  District Judge of the Southern District of Texas, sitting by
+designation.
+United States Court of Appeals
+Fifth Circuit 
+FILED
+March 23, 2004
+Charles R. Fulbruge III
+Clerk
+IN THE UNITED STATES COURT OF APPEALS
+FOR THE FIFTH CIRCUIT
+____________________
+Nos. 02-20042 & 03-20602
+____________________
+Karaha Bodas Co., L.L.C.,
+Plaintiff-Appellee,
+V.
+Perusahaan Pertambangan Minyak Dan Gas Bumi Negara; Et Al,
+                                                      Defendants,
+Perusahaan Pertambangan Minyak Dan Gas Bumi Negara,
+Defendant-Appellant.
+Appeal from the United States District Court
+for the Southern District of Texas, Houston Division
+Before KING, Chief Circuit Judge, DAVIS, Circuit Judge, and
+ROSENTHAL,* District Judge.
+ROSENTHAL, District Judge:
+Thirty years ago, the United States Supreme Court recognized
+that “[a] contractual provision specifying in advance the forum in
+which disputes shall be litigated and the law to be applied
+is . . . an almost indispensable precondition to achievement of the
+orderliness and predictability essential to any international
+
+--- PDF page 2 ---
+1  Scherk v. Alberto-Culver Co., 417 U.S. 506, 516 (1974).
+2  United Nations Convention on the Recognition and Enforcement of
+Foreign Arbitral Awards, June 10, 1958, 21 U.S.T. 2517, 330 U.N.T.S. 38
+(entered into force with respect to the United States, Dec. 29, 1970),
+codified at 9 U.S.C. § 201 et seq.
+2
+business transaction. . . . Such a provision obviates the danger
+that a dispute under the agreement might be submitted to a forum
+hostile to the interests of one of the parties or unfamiliar with
+the problem area involved.”1  When, as here, parties to
+international commercial contracts agree to arbitrate future
+disputes in a neutral forum, orderliness and predictability also
+depend on the procedures for reviewing and enforcing arbitral
+awards that may result.  This appeal arises from an arbitral award
+(the “Award”) made in Geneva, Switzerland, involving contracts
+negotiated and allegedly breached in Indonesia.  The Award imposed
+liability and damages against Perusahaan Pertambangan Minyak Dan
+Gas Bumi Negara (“Pertamina”), which is owned by the government of
+Indonesia, in favor of Karaha Bodas Company, L.L.C. (“KBC”), a
+Cayman Islands company.  KBC filed this suit in the federal
+district court in Texas to enforce the Award under the United
+National Convention on the Recognition and Enforcement of Foreign
+Arbitral Awards (the “New York Convention”), and filed enforcement
+actions in Hong Kong and Canada as well.2  While those enforcement
+proceedings were pending, Pertamina appealed the Award in the Swiss
+courts, seeking annulment.  When that effort failed, and after the
+Texas district court granted summary judgment enforcing the Award,
+
+--- PDF page 3 ---
+3  A different panel of this court heard a separate appeal from the
+district court’s injunction against Pertamina’s prosecution of the
+action in Indonesia, but did not decide the effect of the Indonesian
+court’s annulment order on the enforcement proceeding.  Karaha Bodas
+Co., L.L.C. v. Perusahaan Pertambangan Minyak Dan Gas Bumi Negara, 335
+F.3d 357, 373-74 (5th Cir. 2003).  One of the issues before this panel
+is whether the Indonesian court’s order is a defense to the enforcement
+of the Award.
+4  Karaha Bodas Co., L.L.C. v. Perusahaan Pertambangan Minyak Dan
+Gas Bumi Negara, 2003 WL 21027134, at *4-6 (5th Cir. March 5, 2003).
+3
+Pertamina obtained an order from an Indonesian court annulling the
+Award.3
+Pertamina appealed to this court.  During the appeal,
+Pertamina filed in the district court a motion to set aside the
+judgment under Federal Rule of Civil Procedure 60(b)(2), based on
+newly-discovered evidence Pertamina contended should have been
+disclosed during the arbitration, and under Rule 60(b)(5), based on
+the Indonesian court’s decision annulling the arbitration Award.
+This court remanded to the district court for consideration of
+Pertamina’s Rule 60(b) motion.4  On remand, the district court
+denied Pertamina’s Rule 60(b) motion.  This appeal consolidates
+Pertamina’s challenges to the grant of summary judgment and to the
+denial of the Rule 60(b) motion.
+Pertamina urges this court to reverse the district court’s
+decision enforcing the Award on several grounds under the New York
+Convention.  We conclude that the record forecloses Pertamina’s
+arguments that procedural violations and other errors during the
+arbitration preclude enforcement.  We reject Pertamina’s argument
+
+--- PDF page 4 ---
+5  We note that the length of this opinion reflects the number of
+arguments Pertamina raises to evade its obligations under the Award more
+than the strength of those arguments.
+6  PLN, an electric utility owned by the government of Indonesia,
+was a party to the arbitration but was dismissed from the district court
+action.
+4
+that the Indonesian court’s order annulling the Award bars its
+enforcement under the New York Convention; this argument is
+inconsistent with the arbitration agreements Pertamina signed and
+with its earlier position that Switzerland, the neutral forum the
+parties selected, had exclusive jurisdiction over an annulment
+proceeding.  We reject Pertamina’s efforts to delay or avoid
+enforcement of the Award as evidencing a disregard for the
+international commercial arbitration procedures it agreed to
+follow.5  In short, we affirm the district court’s judgment
+enforcing the Award, for the reasons set out in detail below.
+I.  Background
+A. Procedural and Factual History
+KBC explores and develops geothermal energy sources and builds
+electric generating stations using geothermal sources.  Pertamina
+is an oil, gas, and geothermal energy company owned by the Republic
+of Indonesia.6  In November 1994, KBC signed two contracts to
+produce electricity from geothermal sources in Indonesia.  Under
+the Joint Operation Contract (“JOC”), KBC had the right to develop
+geothermal energy sources in the Karaha area of Indonesia;
+Pertamina was to manage the project and receive the electricity
+
+--- PDF page 5 ---
+7  Article 13.2(a) of the arbitration provision of the JOC
+provided:
+If the Dispute cannot be settled within thirty
+(30) working days by mutual discussions as
+contemplated by Article 13.1 hereof, the Dispute
+shall finally be settled by an arbitral tribunal
+(the “Tribunal”) under the UNCITRAL arbitration
+rules . . . .  Each Party will appoint an
+arbitrator within thirty (30) days after the date
+of a request to initiate arbitration, who will
+then jointly appoint a third arbitrator within
+thirty (30) days of the date of the appointment of
+the second arbitrator, to act as Chairman of the
+Tribunal.  Arbitrators not appointed within the
+time limits set forth in the preceding sentence
+shall be appointed by the Secretary General of the
+International Center for Settlement of Investment
+Disputes.  Both Parties undertake to implement the
+arbitration award.  The site of the arbitration
+shall be Geneva, Switzerland.  The language of the
+arbitration shall be English.  The Parties
+expressly agree to waive [certain Indonesian
+procedural laws]. . . .
+JOC, Art. 13.2(a),(d).  Section 8.2(a) of the ESC’s arbitration
+provision similarly read:
+If the Dispute cannot be settled within forty-five
+calendar (45) days by mutual discussions as
+contemplated by Section 8.1 hereof, the Dispute
+shall finally be settled by an arbitral tribunal
+(the “Tribunal”) under the UNCITRAL arbitration
+rules . . . .  PLN on one hand, and [KBC] and
+PERTAMINA on the other hand, will each appoint one
+arbitrator, in each case within thirty (30) days
+after the date of a request to initiate
+arbitration, who will then jointly appoint a third
+arbitrator within thirty (30) days of the date of
+5
+generated.  Under the Energy Sales Contract (“ESC”), PLN agreed to
+purchase from Pertamina the energy generated by KBC’s facilities.
+Both contracts contained almost identical broad arbitration
+clauses, requiring the parties to arbitrate any disputes in Geneva,
+Switzerland under the Arbitration Rules of the United Nations
+Commission on International Trade Law (“UNCITRAL”).7
+
+--- PDF page 6 ---
+the appointment of the second arbitrator, to act
+as Chairman of the Tribunal.  Arbitrators not
+appointed within the time limits set forth in the
+preceding sentence shall be appointed by the
+Secretary General of the International Center for
+Settlement of Investment Disputes, upon the
+request of any Party.  All Parties undertake to
+implement the arbitration award.  The site of the
+arbitration shall be Geneva, Switzerland.  The
+language of the arbitration shall be English.  The
+Parties expressly agree to waive the applicability
+of [certain Indonesian procedural laws]. . . .
+Both contracts contained the following additional arbitration
+language:
+The award rendered in any arbitration commenced
+hereunder shall be final and binding upon the
+Parties and judgment thereon may be entered in any
+court having jurisdiction for its enforcement.
+The Parties hereby renounce their right to appeal
+from the decision of the arbitral panel and agree
+that in accordance with Section 641 of the
+Indonesian Code of Civil Procedure [neither] Party
+shall appeal to any court from the decision of the
+arbitral panel and accordingly the Parties hereby
+waive the applicability of [certain Indonesian
+laws].  In addition, the Parties agree that
+[neither] Party shall have any right to commence
+or maintain any suit or legal proceeding
+concerning a [dispute hereunder until the] dispute
+has been determined in accordance with the
+arbitration procedure provided for herein and then
+only to enforce or facilitate the execution of the
+award rendered in such arbitration.
+JOC, Art. 13.2(d); ESC, § 8.2(d).
+6
+On September 20, 1997, the government of Indonesia
+temporarily suspended the project because of the country’s
+financial crisis.  The government of Indonesia indefinitely
+suspended the project on January 10, 1998.  On February 10, 1998,
+KBC notified Pertamina and PLN that the government’s indefinite
+suspension constituted an event of “force majeure” under the
+
+--- PDF page 7 ---
+7
+contracts.  KBC initiated arbitration proceedings on April 30,
+1998.  In its notice of arbitration, KBC appointed Professor Piero
+Bernardini, vice-chair of the International Chamber of Commerce’s
+(“ICC”) International Court of Arbitration and member of the London
+Court of International Arbitration, to serve as an arbitrator.
+Pertamina, however, did not designate an arbitrator in the
+contractually allotted thirty days.  The JOC and ESC both provided
+that if a party failed to appoint an arbitrator within thirty days,
+the Secretary-General of the International Center for Settlement of
+Investment Disputes (“ICSID”) was to make the appointment.  After
+notifying Pertamina, PLN, and the government of Indonesia, the
+ICSID appointed Dr. Ahmed El-Kosheri, another vice-chair of the
+ICC, as the second arbitrator.  As specified in the JOC and ESC,
+the two appointed arbitrators then selected the chairman of the
+arbitration panel, Yves Derains, the former Secretary-General of
+the ICC.
+Pertamina raised threshold challenges to the Tribunal’s
+consolidation of the claims KBC raised under the JOC and the ESC
+into one arbitration proceeding and to the selection of the panel.
+In October 1999, the Tribunal issued a Preliminary Award, rejecting
+Pertamina’s threshold challenges and ruling that the government of
+Indonesia was not a party to the contracts or to the arbitration
+proceeding.
+KBC filed its Revised Statement of Claim in November 1999.
+Pertamina received a number of extensions before it filed its reply
+
+--- PDF page 8 ---
+8
+to the Revised Statement of Claim in April 2000.  KBC filed a
+rebuttal to that reply in May 2000.  In response to KBC’s rebuttal,
+Pertamina sought additional discovery and a continuance of the
+proceedings, claiming that KBC had raised assertions and added
+elements to its case-in-chief not contained in the Revised
+Statement of Claim.
+From the outset, the parties vigorously disputed whether KBC
+could have obtained financing to build the project if the
+government of Indonesia had not issued the suspension decree.
+Pertamina contended that KBC could not have built the project – and
+therefore suffered no damages from the government decree suspending
+the work – because the precarious situation in Indonesia
+effectively made the necessary financing unavailable.  Pertamina
+asserted that KBC’s rebuttal introduced a new theory as to how
+project financing could have been obtained.  KBC changed from
+focusing on the availability of third-party financing and argued in
+the rebuttal that one of its direct investors, FPL Energy (“FPL”),
+would have provided project financing if no other source was
+available.  Shortly before the scheduled hearing, Pertamina sought
+discovery of documents relating to FPL’s asserted willingness to
+finance the project.  In May 2000, the Tribunal denied Pertamina’s
+request to obtain this discovery before the hearing and denied the
+request for a continuance.  The Tribunal stated that it would
+decide at the conclusion of the hearing “whether any adjustment to
+the proceeding” would be required because of the discovery
+
+--- PDF page 9 ---
+9
+requested.  The hearing on the merits proceeded as scheduled in
+June 2000.
+The Tribunal received a large record.  Both sides submitted
+extensive witness statements, expert reports, exhibits, and briefs.
+During the hearing, Pertamina and PLN cross-examined KBC’s
+witnesses, including two witnesses who testified about KBC’s
+ability to finance the project, Robert McGrath, Treasurer of FPL
+Group, Inc., and Leslie Gelber, former Vice-President of
+Development at FPL Energy.  Both witnesses submitted declarations
+stating that “FPL Energy was prepared in 1998 to provide bridge
+financing or direct capital to continue the Project through the
+phases of the Project that were scheduled to be completed during
+Indonesia’s period of instability.”  At the hearing, counsel for
+Pertamina specifically questioned McGrath about the availability of
+project financing from FPL.  During that questioning, a Tribunal
+member asked McGrath whether the investment in the project was
+protected by a form of political risk insurance.  McGrath
+responded, “I am not sure of that.  I know there were some
+discussions at the time, but I don’t recollect as to whether it was
+or wasn’t.”  Counsel for Pertamina asked no follow-up questions.
+At the end of the hearing, counsel for Pertamina declined to pursue
+the previously requested discovery and stated that the record had
+been “fully” made.
+In the Final Award, the Tribunal found that under the JOC and
+the ESC, Pertamina and PLN had accepted the risk of loss arising
+
+--- PDF page 10 ---
+10
+from a “Government Related Event.”  The Tribunal interpreted the
+contracts as “putting the consequences of a Governmental decision
+which prevents the performance of the contract at Pertamina’s . . .
+sole risk.”  The Tribunal awarded KBC $111.1 million, the amount
+KBC had expended on the project, and $150 million in lost profits.
+The Tribunal explained in detail why it rejected the lost profits
+amount KBC sought – $512.5 million – and how it arrived at the
+amount awarded.
+In February 2001, Pertamina appealed the Award to the Supreme
+Court of Switzerland.  While that appeal was pending, KBC initiated
+this suit in the federal district court to enforce the Award.
+B. The District Court Decisions
+Pertamina challenged enforcement of the Award in the federal
+district court on four grounds under Article V of the New York
+Convention:  (1) the procedure for selecting the arbitrators was
+not in accordance with the agreement of the parties; (2) the
+Tribunal improperly consolidated the claims into one arbitration;
+(3) Pertamina was “unable to present its case” to the Tribunal; and
+(4) enforcement of the damages Award would violate the public
+policy of the United States.  As to the first two grounds,
+Pertamina contended that the decision to consolidate the claims
+under the two contracts was procedurally improper and that KBC’s
+unilateral appointment of an arbitrator violated the ESC
+arbitration provision.  As to the third ground, Pertamina argued
+
+--- PDF page 11 ---
+11
+that the Tribunal improperly reversed its finding in the
+Preliminary Award that Pertamina did not breach the contracts by
+holding Pertamina liable for nonperformance in the Final Award;
+that the Tribunal’s denial of Pertamina’s request for discovery of
+FPL’s records prevented Pertamina from fully presenting its case;
+and that the Tribunal’s denial of a continuance after KBC filed its
+rebuttal to the reply to the Revised Statement of Claim prevented
+Pertamina from fully preparing to meet KBC’s contentions.  As to
+the fourth ground, Pertamina argued that the Award violated the
+international abuse of rights doctrine and punished Pertamina for
+obeying the Indonesian government’s decree.  Under Federal Rule of
+Civil Procedure 56(f), Pertamina requested a delay in the district
+court in responding to KBC’s summary judgment motion to seek
+discovery of the same FPL records it had unsuccessfully sought in
+the arbitration.
+Pertamina continued its appeal seeking annulment of the Award
+to the Supreme Court of Switzerland while the enforcement action
+was pending in the district court in Texas.  The Texas district
+court slowed the proceedings in deference to Pertamina’s request
+that the Swiss court first be allowed to decide whether to annul
+the Award.  In April 2001, the Swiss Supreme Court dismissed
+Pertamina’s claim because of untimely payment of costs.  Pertamina
+moved for reconsideration; the Swiss court denied that motion in
+August 2001.
+
+--- PDF page 12 ---
+12
+In December 2001, the district court enforced the Award,
+rejecting each of Pertamina’s grounds for refusal.  The district
+court carefully reviewed the record in examining Pertamina’s
+claimed inability to challenge in the arbitration proceeding KBC’s
+argument that it could have obtained project financing from its
+investor, FPL.  The district court denied Pertamina’s Rule 56(f)
+request for additional discovery on this issue.  Pertamina filed
+its notice of appeal from the district court’s summary judgment
+enforcing the Award in January 2002.
+Having failed in its effort to annul the Award in the Swiss
+courts, Pertamina filed suit in Indonesia seeking annulment.  In
+August 2002, an Indonesian court annulled the Award.  KBC continued
+with enforcement suits in Hong Kong and Canada.  In October 2002,
+while this appeal was pending, Pertamina discovered in the Canadian
+proceeding that FPL and one other KBC investor, Caithness, had held
+a political risk insurance policy covering the KBC project through
+Lloyd’s of London.  Pertamina also learned that Lloyd’s had paid
+$75 million under that insurance policy to FPL and Caithness for
+the losses resulting from the Indonesian government’s suspension of
+the project.
+In December 2002, Pertamina filed a motion in the district
+court to vacate the judgment on three grounds: (1) newly-discovered
+evidence of the political risk insurance policy, under Rule
+60(b)(2); (2) the Indonesian court’s annulment of the underlying
+arbitral Award, under Rule 60(b)(5); and (3) satisfaction of
+
+--- PDF page 13 ---
+13
+judgment to the extent of the $75 million insurance payment.
+Pertamina also filed a motion in this court to supplement the
+record and briefing.  In both motions, Pertamina argued that the
+existence of political risk insurance coverage in favor of FPL
+undermined KBC’s claims that the contracts allocated political
+risks to Pertamina and that FPL would have financed the project in
+order to avoid losing its earlier investment.  Additionally,
+Pertamina argued that the payment of the insurance proceeds
+undermined the Tribunal’s determination of damages.  Pertamina
+urged that KBC’s failure to disclose the insurance during the
+arbitration provided a basis for refusing to enforce the Award and
+made the district court’s summary judgment improper.
+This court denied Pertamina’s motion to supplement the
+appellate record under Federal Rule of Appellate Procedure 10(e)
+and remanded to the district court for consideration of Pertamina’s
+Rule 60(b) motion.  On remand, the district court denied the
+motion, finding that Pertamina failed to show that KBC had misled
+the tribunal or that KBC’s failure to produce the political risk
+insurance policy violated the  rules governing the arbitration.
+The district court also rejected Pertamina’s claim that
+Indonesia had primary jurisdiction to decide to annul the Award and
+declined to give effect to the Indonesian court’s annulment order
+as a defense to enforcement.  The district court imposed judicial
+estoppel to preclude Pertamina from asserting that Indonesian
+procedural law had governed the arbitration and that Indonesian
+
+--- PDF page 14 ---
+8  The day after the district court issued its final order denying
+Pertamina’s Rule 60(b) motion, KBC submitted a letter to the court
+“clarifying” that while FPL was not the insured under the political risk
+insurance policy, FPL owned one of the named insureds that benefitted
+under the policy.  The district court issued a supplemental order
+acknowledging KBC’s letter and noting that the fact that FPL was not a
+named insured under the insurance policy “was only one of many factors
+that the Court considered in denying Pertamina’s Rule 60(b) Motion.
+Thus, the fact that an entity owned by FPL, but not FPL itself,
+benefit[t]ed under the policy does not change any legal conclusion” in
+the court’s decision.  On the same day that the district court issued
+its supplemental order, and ten days after the court’s denial of
+Pertamina’s Rule 60(b) motion, KBC filed a Motion to Amend Findings of
+Fact under Federal Rule of Civil Procedure 52(b).  In a second
+supplemental order, the district court recognized KBC’s motion as a
+Motion to Amend or Alter Judgment under Federal Rule of Civil Procedure
+59(e) and granted the motion.  The court assumed, without deciding, that
+FPL benefitted from the risk insurance policy, but held that it did not
+affect the basis of the court’s decision.  Pertamina argues that the
+district court did not have jurisdiction to issue either of these two
+supplemental orders.  This court agrees that the issue addressed in the
+supplemental orders does not affect the outcome of this case.
+14
+courts had primary jurisdiction to review the Award.  Finally, the
+district court rejected Pertamina’s argument that the amount of the
+Award should be offset by the $75 million insurance payment.8
+This appeal followed.  Pertamina argues that the Tribunal
+improperly consolidated the claims into one arbitration proceeding;
+the selection of the arbitrators violated the JOC and ESC; the
+Tribunal denied Pertamina a fair opportunity to present its case
+because the Tribunal reversed part of its Preliminary Award without
+notice, denied Pertamina’s request to postpone the arbitration, and
+denied Pertamina’s discovery requests; the Award is contrary to
+public policy because it violated the international law abuse of
+rights doctrine and because the district court’s decision holds
+Pertamina liable for complying with Indonesian law; and the
+
+--- PDF page 15 ---
+9  First Options of Chicago, Inc. v. Kaplan, 514 U.S. 938, 947-948
+(1999); Hughes Training, Inc. v. Cook , 254 F.3d 588, 592 (5th Cir.
+2001).
+10  Eason v. Thaler, 73 F.3d 1322, 1324 (5th Cir. 1996).
+11  Karaha Bodas Co., 335 F.3d at 364; see Yusuf Ahmed Alghanim &
+Sons, W.L.L. v. Toys “R” Us, Inc., 126 F.3d 15, 23 (2d Cir. 1997).
+12  Karaha Bodas Co., 335 F.3d at 364.
+15
+Indonesian court’s annulment of the arbitral Award is a defense to
+enforcement under the New York Convention.  Each ground is
+addressed below.
+II.  Analysis
+A district court’s decision confirming an arbitration award is
+reviewed under the same standard as any other district court
+decision.9  This court reviews a district court’s grant of summary
+judgment de novo.10
+A. The New York Convention
+The New York Convention provides a carefully structured
+framework for the review and enforcement of international arbitral
+awards.  Only a court in a country with primary jurisdiction over
+an arbitral award may annul that award.11  Courts in other countries
+have secondary jurisdiction; a court in a country with secondary
+jurisdiction is limited to deciding whether the award may be
+enforced in that country.12  The Convention "mandates very different
+regimes for the review of arbitral awards (1) in the [countries] in
+which, or under the law of which, the award was made, and (2) in
+
+--- PDF page 16 ---
+13  Alghanim, 126 F.3d at 23 (quoted in Karaha Bodas Co., 335 F.3d
+at 364).
+14  Karaha Bodas Co., 335 F.3d at 364.
+15  Id.
+16  Article V, Section 201 of the New York Convention provides:
+1. Recognition and enforcement of the award may be
+refused, at the request of the party against whom
+it is invoked, only if that party furnishes to the
+competent authority where the recognition and
+enforcement is sought, proof that:
+(a) The parties to the agreement referred to in
+article II were, under the law applicable to them,
+under some incapacity, or the said agreement is
+not valid under the law to which the parties have
+subjected it or, failing any indication thereon,
+under the law of the country where the award was
+made; or
+(b) The party against whom the award is invoked
+was not given proper notice of the appointment of
+the arbitrator or of the arbitration proceedings
+or was otherwise unable to present his case; or
+(c) The award deals with a difference not
+contemplated by or not falling within the terms of
+16
+other [countries] where recognition and enforcement are sought."13
+Under the Convention, "the country in which, or under the
+[arbitration] law of which, [an] award was made" is said to have
+primary jurisdiction over the arbitration award.14  All other
+signatory states are secondary jurisdictions, in which parties can
+only contest whether that state should enforce the arbitral award.15
+It is clear that the district court had secondary jurisdiction and
+considered only whether to enforce the Award in the United States.
+Article V enumerates specific grounds on which a court with
+secondary jurisdiction may refuse enforcement.16  In contrast to the
+
+--- PDF page 17 ---
+the submission to arbitration, or it contains
+decisions on matters beyond the scope of the
+submission to arbitration, provided that, if the
+decisions on matters submitted to arbitration can
+be separated from those not so submitted, that
+part of the award which contains decisions on
+matters submitted to arbitration may be recognized
+and enforced; or
+(d) The composition of the arbitral authority or
+the arbitral procedure was not in accordance with
+the agreement of the parties, or, failing such
+agreement, was not in accordance with the law of
+the country where the arbitration took place; or
+(e) The award has not yet become binding on the
+parties, or has been set aside or suspended by a
+competent authority of the country in which, or
+under the law of which, that award was made.
+2. Recognition and enforcement of an arbitral
+award may also be refused if the competent
+authority in the country where recognition and
+enforcement is sought finds that:
+(a) The subject matter of the difference is not
+capable of settlement by arbitration under the law
+of that country; or
+(b) The recognition or enforcement of the award
+would be contrary to the public policy of that country.
+9 U.S.C. § 201, Art. V(1)-(2).  See generally Alghanim, 126 F.3d at 23;
+Susan Choi, Judicial Enforcement of Arbitration Awards Under the ICSID
+and New York Conventions, 28 N.Y.U. J. Int’l L. & Pol. 175 (1996).
+17
+limited authority of secondary-jurisdiction courts to review an
+arbitral award, courts of primary jurisdiction, usually the courts
+of the country of the arbitral situs, have much broader discretion
+to set aside an award.  While courts of a primary jurisdiction
+country may apply their own domestic law in evaluating a request
+to annul or set aside an arbitral award, courts in countries of
+
+--- PDF page 18 ---
+17  Alghanim, 126 F.3d at 23 (cited in Karaha Bodas Co., 335 F.3d
+at 368).
+18  9 U.S.C. § 207.
+19  Europcar Italia, S.p.A. v. Maiellano Tours, Inc., 156 F.3d 310,
+315 (2d Cir. 1998); Nat’l Wrecking Co. v. Int’l Bhd. of Teamsters, 990
+F.2d 957, 960 (7th Cir. 1993).
+20  Europcar Italia, 156 F.3d at 315.
+21  Imperial Ethiopian Gov’t v. Baruch-Foster Corp., 535 F.2d 334,
+336 (5th Cir. 1976); see Czarina, L.L.C. v. W.F. Poe Syndicate, 2004 WL
+205611, at *6 n.3 (11th Cir. Feb. 4, 2004).
+18
+secondary jurisdiction may refuse enforcement only on the grounds
+specified in Article V.17
+The New York Convention and the implementing legislation,
+Chapter 2 of the Federal Arbitration Act (“FAA”), provide that a
+secondary jurisdiction court must enforce an arbitration award
+unless it finds one of the grounds for refusal or deferral of
+recognition or enforcement specified in the Convention.18  The court
+may not refuse to enforce an arbitral award solely on the ground
+that the arbitrator may have made a mistake of law or fact.19
+“Absent extraordinary circumstances, a confirming court is not to
+reconsider an arbitrator’s findings.”20  The party defending against
+enforcement of the arbitral award bears the burden of proof. 21
+Defenses to enforcement under the New York Convention are construed
+narrowly, “to encourage the recognition and enforcement of
+
+--- PDF page 19 ---
+22  Imperial Ethiopian Gov’t, 535 F.2d at 335; Parsons & Whittemore
+Overseas Co., Inc. v. Societe Generale de L’Industrie du Papier , 508
+F.2d 969, 974, 976 (2d Cir. 1974).
+23  The Tribunal specifically cited Swiss procedural law in its
+Preliminary Award.  The Tribunal first cited Swiss law regarding the
+intentions of parties to a contract to help guide its determination
+whether the government of Indonesia was a party to the JOC and ESC.  The
+Tribunal cited the Swiss concept of “connexity” in concluding that KBC
+could consolidate its claims under the contracts into a single
+arbitration proceeding.  Finally, the Tribunal referred to Swiss common
+law suggesting that arbitrators are not agents in determining that the
+selection of Tribunal arbitrators was appropriate under the agreements.
+The Final Award stated that it was “[m]ade in Geneva.”
+24  See, e.g., Prelim. Award, § B(1) (“The Respondents support this
+conclusion by making reference to Swiss law as the JOC and the ESC
+provide for UNCITRAL Arbitration in Geneva between the parties which are
+neither Swiss nor Swiss resident.  As a result, and under both
+contracts, the arbitration proceedings are governed by Chapter 12 of the
+Swiss Private International Law Statutes.  Under Swiss law, [Respondent
+contends] the Arbitral Tribunal is lacking jurisdiction because KBC
+failed to comply with the contractual prerequisites to arbitration.”);
+id. at § C(1) (“The Respondents also state that, under the arbitration
+agreements and Swiss law, the arbitrators have no power to consolidate
+. . . .”); id. at § C(3) (citing a Swiss federal tribunal case in
+support of its decision that a consolidated arbitration was
+appropriate); id. at § D(1) (Respondents contend that “[s]uch solution
+is not acceptable under the applicable Swiss law”).
+The district court found that Pertamina “specifically, repeatedly
+19
+commercial arbitration agreements in international
+contracts . . . .”22
+B. The Choice-of-Law Issues
+In the JOC and ESC, the parties stipulated that “the site of
+the arbitration shall be Geneva.”  The Tribunal concluded that
+under the arbitration agreements, Swiss procedural law applied as
+the law of the arbitral forum.23  From 1998 to April 2002, Pertamina
+consistently and repeatedly took the position before the Tribunal,
+the Swiss courts, and the United States district court, that Swiss
+procedural law applied to the arbitration.24  In April 2002, after
+
+--- PDF page 20 ---
+and unequivocally” argued that Swiss arbitration law applied in the
+arbitration.  Pertamina opened its motion to stay the district court
+proceedings pending appeal to the Swiss judiciary by stating:  “The
+arbitration award . . . was conducted subject to the arbitration laws
+of Switzerland, and the Swiss court is empowered to vacate an award
+rendered in Switzerland. . . . KBC is asking this Court to act
+prematurely to confirm an award that might be overturned in the country
+whose law governed the arbitration.”  Pertamina added that “it is
+fundamental that the courts of the originating nation are in the best
+position to pass on issues under their own law. . . . Here, Pertamina’s
+appeal encompasses questions of Swiss law.”  Pertamina made similar
+arguments under Swiss procedural law in its responses to KBC’s motion
+for summary judgment.
+25  9 U.S.C. § 201, Art. V(1)(e).
+20
+the Swiss court had rejected Pertamina’s annulment proceeding and
+the district court had held the Award enforceable in the United
+States, Pertamina moved in the district court for a stay of the
+Award pending the outcome of the annulment proceeding Pertamina had
+filed in Indonesia.  For the first time, Pertamina raised in the
+district court the argument that Indonesian, not Swiss, procedural
+law had applied to the arbitration.  Pertamina took this position
+in the district court as part of its argument that Indonesia had
+primary jurisdiction over the Award and therefore had the authority
+to set it aside rather than merely decline to enforce it.
+Article V(1)(e) of the Convention provides that a court of
+secondary jurisdiction may refuse to enforce an arbitral award if
+it “has been set aside or suspended by a competent authority of the
+country in which, or under the law of which, that award was made.”25
+Courts have held that the language, “‘the competent authority of
+the country . . . under the law of which, that award was made’
+refers exclusively to procedural and not substantive law, and more
+
+--- PDF page 21 ---
+26  Int’l Standard Elec. Corp. v. Bridas Sociedad Anonima
+Petrolera, Indus. y Comercial , 745 F. Supp. 172, 178 (S.D.N.Y. 1990);
+see Alghanim, 126 F.3d at 21; M & C Corp. v. Erwin Behr GmbH & Co., KG,
+87 F.3d 844, 848 (6th Cir. 1996).
+27  Europcar Italia, 156 F.3d at 315; Nat’l Wrecking Co., 990 F.2d
+at 960; see James Ford Inc. v. Ford Dealer Computer Serv. Inc., 56 Fed.
+Appx. 324, 325 (9th Cir. 2003) (giving broad deference to an
+arbitrator’s choice-of-law decision).
+21
+precisely, to the regimen or scheme of arbitral procedural law
+under which the arbitration was conducted, and not the substantive
+law . . . applied in the case.”26  In this appeal, Pertamina and the
+Republic of Indonesia (the “Republic”), as amicus, argue that the
+Tribunal and the district court erred in finding that Swiss
+procedural law, rather than Indonesian procedural law, applied.
+Pertamina and the Republic argue that in the arbitration
+agreements, the parties chose Indonesian procedural, as well as
+substantive, law to govern the arbitration.  Pertamina and the
+Republic assert that, as a result:  (1) the arbitration must be
+examined for compliance with Indonesian procedural law; and (2) the
+Indonesian court had primary jurisdiction to annul the Award,
+providing a defense to enforcement in the United States.  KBC
+responds that the Tribunal properly interpreted the parties’
+contracts in deciding that Swiss procedural law applied and the
+district court properly applied the New York Convention in
+affirming that decision.  This court agrees with KBC.
+Under the New York Convention, the rulings of the Tribunal
+interpreting the parties’ contract are entitled to deference.27
+
+--- PDF page 22 ---
+28  Europcar Italia, 156 F.3d at 315; Nat’l Wrecking Co., 990 F.2d
+at 960.
+29  UNCITRAL Arbitration Rules, G.A. Res. 31/98, U.N. GAOR Comm’n
+Int’l Trade L., at Art. 33(1) (1976),
+http://www.uncitral.org/english/texts/arbitration/arb-rules.htm.
+30  Article 20 of the JOC and Section 12.1 of the ESC each
+provided:  “This Contract shall be governed by the laws and regulations
+of [the] Republic of Indonesia.”
+31  Pertamina and the Republic rely on the following contractual
+provisions for their position:
+The parties expressly agree to waive the
+applicability of (a) Article 650.2 of the
+Indonesian Code of Civil Procedure so that the
+appointment of the arbitrators shall not terminate
+as of the sixth (6th) Month after the date(s) of
+their appointments and (b) the second sentence of
+Article 620.1 of the Indonesian Code of Civil
+22
+Unless the Tribunal manifestly disregarded the parties’ agreement
+or the law, there is no basis to set aside the determination that
+Swiss procedural law applied.28  The parties’ arbitration agreements
+specified that the site of the arbitration was Geneva, Switzerland
+and that the arbitration would proceed under the UNCITRAL rules.
+Those rules specify that the “arbitral tribunal shall apply the law
+designated by the parties as applicable to the substance of the
+dispute.”29  It is undisputed that the parties specified that
+Indonesian substantive law would apply.30  It is also undisputed
+that the contracts specified the site of the arbitration as
+Switzerland.  The contracts did not otherwise expressly identify
+the procedural law that would apply to the arbitration.  The
+parties did refer to certain Indonesian Civil Procedure Rules in
+the contracts.31  Pertamina and the Republic argue that these
+
+--- PDF page 23 ---
+Procedure so that the arbitration need not be
+completed within the specific time.
+JOC at Art. 13.2(a); ESC at § 8.2(a).
+In accordance with Section 631 of the Indonesian
+Code of Civil Procedure, the Parties agree that
+the Tribunal need not be bound by strict rules of
+law where they consider the application thereof to
+particular matters to be inconsistent with the
+spirit of this Contract and the underlying intent
+of the Parties, and as to such matters their
+conclusion shall reflect their judgment of the
+correct interpretation of all relevant terms
+hereof and the correct and just enforcement of
+this Contract in accordance with such terms.
+JOC at Art. 13.2(b); ESC at § 8.2(b).
+The parties hereby renounce their right to appeal
+from the decision of the arbitral panel and agree
+that in accordance with Section 641 of the
+Indonesian Code of Civil Procedure neither Party
+shall appeal to any court . . . and accordingly
+the Parties hereby waive the applicability of
+Articles 15 and 108 of the Law No. 1 of 1950 and
+any other provision of Indonesian law and
+regulations that would otherwise give the right to
+appeal the decisions of the arbitral panel.
+JOC at Art. 13.2(d); ESC at § 8.2(d).
+32  Albert Jan van den Berg, “The Application of the New York
+Convention by the Courts,” ICCA Congress Series No. 9 25, 26 (Kluwer
+1999); Sir Michael J. Mustill & Stewart C. Boyd, The Law and Practice
+of Commercial Arbitration in England  64 (Butterworths 2d ed. 1989);
+Alain Hirsch, The Place of the Arbitration and the Lex Arbitri, 34 Arb.
+J. 43, 46 (1979); Alan Scott Rau, The New York Convention in American
+Courts, 7 Am. Rev. Int’l Arb. 213, 224 (1996).  In their reports filed
+23
+references evidence an intent that while Switzerland would be the
+place of the arbitration, Indonesian procedural law would apply as
+the lex arbitri.
+Under the New York Convention, an agreement specifying the
+place of the arbitration creates a presumption that the procedural
+law of that place applies to the arbitration.32  Authorities on
+
+--- PDF page 24 ---
+in the district court, recognized authorities on international
+arbitration retained by both Pertamina and KBC, including Albert Jan van
+den Berg, Sudargo Guatama, Alan Scott Rau, and Eric A. Schwartz, agreed
+that under the Convention, arbitration clauses designating the site of
+the arbitration presumptively designate that site as the source of the
+applicable procedural law.
+33  Mustill and Boyd, Commercial Arbitration at 64.
+34  Van den Berg, The Application of the New York Convention at 26.
+35  Id.
+36  Martin Hunter, Case and Comment:  International Arbitration ,
+[1988] Lloyd’s Mar. & Comm. L. Q. 23, 26.
+37  See, e.g., Gary B. Born, International Commercial Arbitration:
+Commentary and Materials 761 (2d ed. 2001).  Few reported cases involve
+arbitration clauses that separate the law of the forum state and the lex
+arbitri.  In two such English cases, Naviera Amazonica Peruana S.A. v.
+Compania Internacional de Seguros del Peru, [1988] 1 Lloyd’s L. Rep. 116
+(C.A. 1987), and Union of India v. McDonnell Douglas Corp., [1993] 2
+Lloyd’s Rep. 48 (Q.B. 1992), the courts applied the presumption that the
+procedural law of the place specified as the forum for the arbitration
+would govern.  Naviera Amazonica Peruana , [1988] 1 Lloyd’s L. Rep. at
+119; Union of India, [1993] 2 Lloyd’s Rep. at 50.  The Hong Kong court
+also relied upon this presumption in determining that Swiss procedural
+law governed the arbitration proceeding at issue in this case.  Hong
+Kong decision at 7-8.
+24
+international arbitration describe an agreement providing that one
+country will be the site of the arbitration but the proceedings
+will be held under the arbitration law of another country by terms
+such as “exceptional”; “almost unknown”;33 a “purely academic
+invention”;34 “almost never used in practice”;35 a possibility “more
+theoretical than real”; and a “once-in-a-blue-moon set of
+circumstances.”36  Commentators note that such an agreement would
+be complex, inconvenient, and inconsistent with the selection of a
+neutral forum as the arbitral forum.37
+
+--- PDF page 25 ---
+38  9 U.S.C. § 201, Art. V(1)(e).
+39  See Jacomijn J. van Hof, Commentary on the UNCITRAL Arbitral
+Rules:  The Application by the Iran-U.S. Claims Tribunal 109-10 (Kluwer
+1991); see also UNCITRAL Arbitration Rules at Art. 16(1).  Rules 16(2)
+and (3) expressly permit proceedings to be conducted at a location
+different from the designated “place” of the arbitration.  UNCITRAL
+Arbitration Rules at Art. 16 (2)-(3).  Rule 16(4) provides that “[t]he
+award shall be made at the place of arbitration.”  Id. at Art. 16(4).
+40  Van Hof, Commentary on the UNCITRAL Arbitral Rules at 109-110.
+25
+In the JOC and ESC, the parties expressly agreed that
+Switzerland would be the site for the arbitration.  This agreement
+presumptively selected Swiss procedural law to apply to the
+arbitration.  There is no express agreement in the JOC or ESC that
+Indonesia would be the country “under the law of which” the
+arbitration was to be conducted and the Award was to be made.38  The
+Tribunal recognized the parties’ selection of Switzerland by
+issuing the Award as “[m]ade in Geneva.”  In selecting Switzerland
+as the site of the arbitration, the parties were not choosing a
+physical place for the arbitration to occur, but rather the place
+where the award would be “made.”  Under Article 16(1) of the
+UNCITRAL rules, the “place” designated for an arbitration is the
+legal rather than physical location of the forum.39  The arbitration
+proceeding in this case physically occurred in Paris, but the Award
+was “made in” Geneva, the place of the arbitration in the legal
+sense and the presumptive source of the applicable procedural law.40
+The references in the contracts to certain Indonesian civil
+procedure rules do not rebut the strong presumption that Swiss
+
+--- PDF page 26 ---
+41  Robert N. Hornick, one of the authorities on international
+arbitration and Indonesian law who submitted an affidavit and report in
+the district court, provided an explanation for the references to the
+Indonesian laws in the arbitration clauses unrelated to any intent to
+designate Indonesia as the country under the law of which the Award
+would be made.  Hornick explained that each article of Indonesian law
+cited in the contracts imposes a requirement inconsistent with the
+contemplated arbitration.  (Hornick Decl. ¶¶ 28-32).  These articles
+could have been invoked to oppose later enforcement of the Award in
+Indonesia unless waived.  By waiving in advance provisions that could
+later be invoked to block enforcement of the Award in an Indonesian
+court, the parties facilitated future enforcement efforts in Indonesia.
+(Id.).
+26
+procedural law applied to the arbitration.41  These references fall
+far short of an express designation of Indonesian procedural law
+necessary to rebut the strong presumption that designating the
+place of the arbitration also designates the law under which the
+award is made.
+Pertamina and the Republic have belatedly asserted that the
+district court should have conducted a choice-of-law analysis to
+determine the law that would apply to the interpretation of the
+parties’ contracts, rather than analyze the contracts under the New
+York Convention.  Pertamina and the Republic assert that the result
+of such an analysis would have been to identify Indonesian law as
+the decisional law under which to interpret the contracts.  This
+argument is inconsistent with the position Pertamina – and its
+experts on interpreting international commercial arbitration
+agreements – took earlier in this case, that the district court
+should review the Tribunal’s interpretation of the contracts under
+the New York Convention.  A court conducts the multifactor choice-
+of-law analysis Pertamina now advocates in the absence of an
+
+--- PDF page 27 ---
+42  REST. (2D) CONFL. §§ 187, 188, & 218 (1971).
+43  Certain sections and comments of the  Restatement also support
+a determination that Swiss law applied to the arbitration agreement.
+See, e.g. id. at § 188 (incorporating R EST. (2D) CONFL. § 6, which
+requires consideration of the relevant policies of the forum); id. at
+§ 218 cmt. b (suggesting that the arbitration forum may have the most
+significant relationship to the arbitration and that a contractual
+provision requiring arbitration to occur in a certain forum may evidence
+an intention by the parties that the local law of this forum should
+govern).
+44  Karaha Bodas Co., 335 F.3d at 371; Hong Kong decision at 12.
+45  See, e.g., Prelim. Award, § B(1) (“The Respondents support this
+conclusion by making reference to Swiss law as the JOC and the ESC
+provide for UNCITRAL Arbitration in Geneva between the parties which are
+neither Swiss nor Swiss resident.  As a result, and under both
+contracts, the arbitration proceedings are governed by Chapter 12 of the
+Swiss Private International Law Statutes.  Under Swiss law, [Respondent
+contends] the Arbitral Tribunal is lacking jurisdiction because KBC
+failed to comply with the contractual prerequisites to arbitration.”);
+id. at § C(1) (“The Respondents also state that, under the arbitration
+agreements and Swiss law, the arbitrators have no power to consolidate
+. . . .”); id. at § C(3) (citing a Swiss federal tribunal case in
+support of its decision that a consolidated arbitration was
+appropriate); id. at § D(1) (Respondents contend that “[s]uch solution
+is not acceptable under the applicable Swiss law”).
+27
+effective choice of law by the parties to an arbitration
+agreement.42  In the JOC and ESC, the parties presumptively chose
+Swiss procedural law as the lex arbitri when they designated
+Switzerland as the site of the arbitration, and that presumption is
+unrebutted.43
+As the district court, another panel of this court, and the
+Hong Kong Court of First Instance have all recognized, Pertamina’s
+previous arguments that Swiss arbitral law applied strongly
+evidence the parties’ contractual intent.44  Pertamina represented
+to the Tribunal that Swiss procedural law applied. 45  As but one
+example, Pertamina cited Swiss procedural law in arguing that the
+
+--- PDF page 28 ---
+46  In the district court, Pertamina presented an affidavit and
+report from an expert on international commercial arbitration that
+weakly attempted to explain the appeal to the Swiss court as a mistake.
+The theory that Pertamina’s lawyers erred and applied to the wrong court
+for annulment – and then moved for reconsideration when that court
+dismissed the appeal – is utterly without support in the record.
+47  See Major League Baseball Players Ass’n v. Garvey, 532 U.S.
+504, 509 (2001) (citations omitted) (“[I]f an ‘arbitrator is even
+arguably construing or applying [a] contract and acting within the scope
+of his authority,’ the fact that ‘a court is convinced he committed
+serious error does not suffice to overturn his decision.’”).
+48  Europcar Italia, 156 F.3d at 315; Nat’l Wrecking Co., 990 F.2d
+at 960; see Garvey, 532 U.S. at 509 (“Courts are not authorized to
+review [an] arbitrator’s decision on the merits despite allegations that
+the decision rests on factual errors or misinterprets the parties’
+agreement.”).
+28
+Tribunal could not consolidate the claims under the JOC and ESC
+into one proceeding.  Pertamina at no point argued to the Tribunal
+that Indonesian procedural law applied.  Pertamina initially sought
+to set aside the Award in a Swiss court.46  Pertamina asked the
+Texas district court to stay its enforcement proceeding until
+Pertamina’s appeal in Switzerland was resolved.  In making this
+argument, Pertamina stated that “[t]he arbitration . . . was
+conducted according to the laws of Switzerland, and the Swiss court
+is empowered to vacate an award rendered in Switzerland . . . .
+KBC is asking this Court to act prematurely to confirm an award
+that might be overturned in the country whose law governed the
+arbitration.”47
+The Tribunal’s decision that Swiss arbitral law applied does
+not make the Award unenforceable.48  The combination of the parties’
+selection of Switzerland as the site of the arbitration; the
+
+--- PDF page 29 ---
+49  Hall v. GE Plastic Pac. PTE Ltd., 327 F.3d 391, 396 (5th Cir.
+2003); see In re Coastal Plains, Inc., 179 F.3d 197, 205 (5th Cir. 1999)
+(quoting Brandon v. Interfirst Corp., 858 F.2d 266, 268 (5th Cir. 1988))
+(describing judicial estoppel as “a common law doctrine by which a party
+who has assumed one position in his pleadings may be estopped from
+assuming an inconsistent position”); see also Ahrens v. Perot Sys.
+Corp., 205 F.3d 831, 833 (5th Cir. 2000); Ergo Sci., Inc. v. Martin, 73
+F.3d 595, 598-600 (5th Cir. 1996).
+50  United States v. McCaskey, 9 F.3d 368, 378 (5th Cir. 1993).
+29
+failure clearly or expressly to choose Indonesian arbitral law in
+their agreements, as required to select arbitral law other than
+that of the place of the arbitration; and the clear evidence
+provided by the parties’ own conduct that they intended Swiss law
+to apply to the arbitration, amply supports the district court’s
+determination that the Tribunal properly applied Swiss procedural
+law.
+The district court also found that under the doctrine of
+judicial estoppel, Pertamina’s prior conduct precluded it from
+arguing against the application of Swiss procedural law.  The
+doctrine prevents a party from asserting a position in a legal
+proceeding that is contrary to a position previously taken in the
+same or earlier proceedings.49  “The policies underlying the
+doctrine include preventing internal inconsistency, precluding
+litigants from ‘playing fast and loose’ with the courts, and
+prohibiting parties from deliberately changing positions according
+to the exigencies of the moment.”50  Fifth Circuit courts have
+identified two limitations on judicial estoppel:  (1) the position
+of the party to be estopped must be clearly inconsistent with its
+
+--- PDF page 30 ---
+51  Hall, 327 F.3d at 396; Ahrens, 205 F.3d at 833; Coastal Plains,
+179 F.3d at 206.
+52  Coastal Plains, 179 F.3d at 206.
+53  See note 24.
+54  See Coastal Plains, 179 F.3d at 206 (noting that the acceptance
+prong of judicial estoppel can be satisfied by a court’s acceptance of
+a party’s position “as a preliminary matter”).
+55  See Hall, 327 F.3d at 396; Ahrens, 205 F.3d at 833; Coastal
+Plains, 179 F.3d at 206.
+30
+prior position; and (2) the court must have accepted that prior
+position.51  Judicial acceptance requires that the court adopted the
+position previously urged by a party, whether as a preliminary
+matter or as part of a final disposition.52
+The district court did not abuse its discretion in imposing
+judicial estoppel to preclude Pertamina from arguing against the
+application of Swiss procedural law.  Pertamina repeatedly
+represented to the Tribunal and to the district court that Swiss
+procedural law controlled the arbitration.53  Both the Tribunal and
+the district court relied on these representations in their
+decisionmaking.  In the Award, the Tribunal accepted Pertamina’s
+argument that Swiss procedural law applied.  The district court
+adopted Pertamina’s position that Swiss law applied in delaying the
+enforcement proceedings pending the Swiss court’s resolution of the
+appeal.54  Pertamina’s argument that Indonesian procedural law
+governed the arbitration is clearly inconsistent with its prior
+position that Swiss procedural law controlled.55  Pertamina
+belatedly suggests that its positions are not inconsistent because
+
+--- PDF page 31 ---
+56  See Hall, 327 F.3d at 396; Coastal Plains, 179 F.3d at 206;
+Ahrens, 205 F.3d at 833.  The High Court of Hong Kong Court estopped
+Pertamina from asserting application of Indonesian procedural law for
+the same reasons.  Hong Kong decision  at 9-12.  The High Court also
+emphasized the dilatoriness of Pertamina’s argument:  “Pertamina’s
+position on the [applicable procedural law] only changed 30 months after
+the preliminary award was published, 15 months after the Final award
+(December 2000) and seven months after the Swiss Court dismissed the
+petition for revision (August 2001).”  Id. at 11.
+57  9 U.S.C. § 201, Art. V(1)(d).
+31
+the New York Convention permits multiple primary jurisdictions.  As
+addressed more fully below, this record makes it clear that only
+the Swiss courts had primary jurisdiction over this Award.
+Judicial estoppel provides an additional ground for concluding that
+Swiss procedural law applied to the arbitration proceeding.56
+C. The Procedural Challenges to the Arbitral Award
+1. Consolidation of the Claims under the JOC and ESC into
+One Arbitration Proceeding
+Under Article V(1)(d) of the New York Convention, a court may
+refuse to enforce an arbitration award if “[t]he composition of the
+arbitral authority or the arbitral procedure was not in accordance
+with the agreement of the parties, or, failing such agreement, was
+not in accordance with the law of the country where the arbitration
+took place.”57  Pertamina argues that because the JOC and ESC were
+separate contracts with separate arbitration clauses, and because
+neither contract expressly allowed the consolidation of claims, the
+Tribunal improperly consolidated the claims into one arbitration
+proceeding.  Pertamina also contends on appeal that because
+Indonesian rather than Swiss procedural law governed the
+
+--- PDF page 32 ---
+58  Article 15.3 of the ESC provided that “the terms of [the ESC]
+and the Joint Operation Contract constitute the entire agreement between
+the parties hereto.”  Article 1.2 of the JOC stated that “[e]ach such
+Energy Sales Contract shall be an integral part of this contract, and
+to the extent the provisions of the Energy Sales Contract obligate the
+parties hereto, shall be deemed incorporated into this contract for all
+purposes.”  Pertamina and KBC entered into the JOC and ESC on the same
+day.  The JOC and the ESC contained virtually identical arbitration
+provisions.
+32
+arbitration, the Tribunal’s reliance on Swiss procedural law to
+consolidate the claims was erroneous.
+The Tribunal carefully analyzed the parties’ contracts in
+concluding that a consolidated arbitration of KBC’s claims against
+Pertamina and PLN under the JOC and ESC was appropriate.  In
+factual findings set out in the Preliminary Award, the Tribunal set
+out the basis for concluding that the two contracts were integrated
+such that “the parties did not contemplate the performance of two
+independent contracts but the performance of a single project
+consisting of two closely related parties.” 58  The Tribunal
+continued:
+In such circumstances, the conclusion of this
+Arbitral Tribunal is that KBC’s single action
+should be admitted, provided it is
+appropriate.  The Arbitral Tribunal has not
+the slightest doubt in this respect.  Due to
+the integration of the two contracts and the
+fact that the Presidential Decrees, the
+consequences of which are at the origin of the
+dispute, affected both of them, the initiation
+of two separate arbitrations would be
+artificial and would generate the risk of
+contradictory decisions.  Moreover, it would
+increase the costs of all the parties
+involved, an element of special weight in the
+light of difficulties faced by the Indonesian
+economy, to which counsel for [Pertamina]
+
+--- PDF page 33 ---
+59  See, e.g., Conn. Gen. Life Ins. Co. v. SunLife Assur. Co. of
+Canada, 210 F.3d 771, 774 (7th Cir. 2000); Maxum Found., Inc. v. Salus
+Corp., 817 F.2d 1086, 1087-88 (4th Cir. 1987).  Pertamina cites cases
+decided under the FAA and the law of different American jurisdictions
+for the proposition that courts do not have the authority to order
+arbitrations without the parties’ approval.  See, e.g., Dean Witter
+Reynolds, Inc. v. Byrd, 470 U.S. 213, 221 (1985) (“The preeminent
+concern of Congress in passing the [FAA] was to enforce private
+agreements into which parties had entered, and that concern requires
+that we rigorously enforce agreements to arbitrate, even if the result
+is ‘piecemeal’ litigation . . . .”); Gov’t of the United Kingdom and N.
+Ireland v. Boeing Co., 998 F.2d 68, 74 (2d Cir. 1993); Protective Life
+Ins. Co. v. Lincoln Nat. Life Ins. Corp., 873 F.2d 281, 282 (11th Cir.
+1989).  These cases do not involve contracts so closely related as to
+manifest the parties’ agreement to be joined in arbitration proceedings
+involving parties and claims under those integrated contracts.
+33
+legitimately drew the Arbitral Tribunal’s
+attention.
+The record provides ample support for the Tribunal’s findings and
+conclusion that the two contracts were integrated such that the
+parties contemplated a single arbitration.
+The Tribunal cited the Swiss law concept of “connexity” in
+analyzing the legal relations among KBC and Pertamina under the JOC
+and KBC, Pertamina, and PLN under the ESC as one of the factors
+justifying the consolidation of claims under the two contracts into
+one arbitration proceeding.  The Tribunal concluded that the
+relationship of the JOC and ESC exceeded the standard of
+“connexity” under Swiss law.  “The use of the word ‘connexity’ to
+describe the relationship between the JOC and the ESC would be an
+understatement.  In reality, the two contracts are integrated.”
+Courts and arbitration tribunals have recognized that claims
+arising under integrated contracts may be consolidated into single
+arbitrations.59  The Tribunal cited one other factor that supported
+
+--- PDF page 34 ---
+60  UNCITRAL Arbitration Rules at Art. 15(1).
+61  See, e.g., China Minmetals Materials Imp. and Exp. Co., Ltd. v.
+Chi Mei Corp., 334 F.3d 274, 282-83 (3d Cir. 2003); Glencore Grain
+Rotterdam B.V. v. Shivnath Rai Harnarain Co., 284 F.3d 1114, 1120 (9th
+Cir. 2000); Alghanim, 126 F.3d at 20; Parsons & Whittemore Overseas, 508
+F.2d at 973; Compagnie des Bauxites de Guinee v. Hammermills, Inc., 1992
+WL 122712, at *5 (D.D.C. May 29, 1992); Am. Constr. Mach. & Equip. Corp.
+Ltd. v. Mechanised Constr. of Pakistan, Ltd., 659 F. Supp. 426, 428
+(S.D.N.Y. 1987).
+34
+consolidation:  “appropriateness.”  The parties agreed to the
+application of the UNCITRAL Rules, which permit a tribunal to
+conduct an arbitration “in such manner as it considers
+appropriate.”60  Pertamina does not dispute the application of the
+UNCITRAL Rules to the arbitration proceeding.
+Courts are reluctant to set aside arbitral awards under the
+New York Convention based on procedural violations, reflected in
+cases holding that the Convention embodies a proenforcement bias.61
+The Tribunal emphasized in its Preliminary Award that although the
+claims would be consolidated, “the position of each party has to be
+considered independently when discussing the substance of the case,
+on the basis of their respective legal and contractual situations.”
+The record reflects that the Tribunal kept this promise.  There is
+no prejudice arising from the consolidation that would justify a
+refusal to enforce the Award.
+2. The Composition of The Tribunal
+Under Article V(1)(d), a court may refuse enforcement of an
+arbitral award if the composition of the tribunal is not in
+
+--- PDF page 35 ---
+62  9 U.S.C. § 201, Art. V(1)(d).
+35
+accordance with the parties’ agreement.62  The JOC provided for the
+appointment of arbitrators, as follows:
+Each Party [KBC and Pertamina] will appoint an
+arbitrator within thirty (30) days after the
+date of a request to initiate arbitration, who
+will then jointly appoint a third arbitrator
+within thirty (30) days of the date of the
+appointment of the second arbitrator, to act
+as Chairman of the Tribunal.  Arbitrators not
+appointed within the time limits set forth in
+the preceding sentence shall be appointed by
+the Secretary General of the International
+Center for Settlement of Investment Disputes.
+The ESC procedure for arbitrators’ appointment was slightly
+different:
+PLN on one hand, and [KBC] and PERTAMINA, on
+the other hand, will each appoint one
+arbitrator, in each case within thirty (30)
+days after the date of a request to initiate
+arbitration, who will then jointly appoint a
+third arbitrator within thirty (30) days of
+the date of the appointment of the second
+arbitrator, to act as Chairman of the
+Tribunal.  Arbitrators not appointed within
+the time limits set forth in the preceding
+sentence shall be appointed by the Secretary
+General of the International Center for
+Settlement of Investment Disputes, upon the
+request of any Party.
+Each contract required the appointment of arbitrators within thirty
+days of the notice of arbitration and provided for appointment by
+the ICSID in the event that a party did not do so.
+In its notice of arbitration sent to Pertamina, KBC appointed
+Professor Piero Bernardini to serve as an arbitrator.  Pertamina
+did not designate an arbitrator within thirty days, nor did it
+
+--- PDF page 36 ---
+36
+object to KBC’s selection at that time.  By letter dated June 2,
+1998, KBC notified the ICSID of Pertamina’s inaction and requested
+the appointment of a second arbitrator under the default
+appointment provisions of the contracts.  Pertamina did not respond
+to this letter.  The ICSID questioned KBC about the consolidation
+of claims under the JOC and the ESC and KBC’s unilateral
+appointment of an arbitrator.  KBC responded by letter dated June
+22, 1998.  The ICSID confirmed receipt of KBC’s letters and in a
+June 29, 1998 letter to all parties, recapped the prior
+correspondence, noted Pertamina’s failure to respond, and expressed
+its intent to grant KBC’s request to appoint the second arbitrator.
+The ICSID Secretary-General identified Dr. Ahmed El-Kosheri as its
+candidate and asked for any objections by July 13, 1998.  The ICSID
+sent all the preceding correspondence to PLN by courier and to
+Pertamina by fax and courier.  Despite the Secretary-General’s
+invitation to do so, neither Pertamina nor PLN lodged objections or
+responses to the proposed appointment.  On July 13, 1998, having
+received no communications from Pertamina, the ICSID notified
+Pertamina and PLN of its intent to appoint Dr. El-Kosheri and made
+the appointment on July 15, 1998.  Under the JOC and ESC, Professor
+Bernardini and Dr. El-Kosheri then selected the chairman of the
+arbitration panel, Yves Derains.
+In its Preliminary Award, the Tribunal rejected Pertamina’s
+argument that KBC’s selection of an arbitrator violated the ESC’s
+requirement that KBC and Pertamina jointly make the nomination.
+
+--- PDF page 37 ---
+37
+The Tribunal found that the parties intended to limit that
+requirement to disputes in which PLN was opposed to KBC and
+Pertamina.  Because the ESC did not expressly address the method
+for appointing arbitrators when KBC and Pertamina opposed each
+other, the Tribunal found that UNCITRAL Arbitration Rules for
+appointment applied.  The Tribunal ruled that the appointment
+procedures used did not violate these rules or create an inequality
+of treatment.  The Tribunal emphasized Pertamina’s failure to
+nominate an arbitrator or object to those nominated.  The district
+court agreed with the Tribunal’s reasoning and added that Pertamina
+had failed to demonstrate any prejudice from the appointment
+proceedings.
+On appeal, Pertamina reasserts its argument that KBC’s
+unilateral selection of an arbitrator violated the ESC’s
+requirement that “PLN on the one hand and [KBC] and Pertamina, on
+the other hand, will each appoint one arbitrator.”  Pertamina
+contends that its interests would always be aligned with KBC under
+the ESC, which required PLN to purchase from Pertamina the
+electricity that KBC provided, and that this explains the
+contractual requirement that KBC and Pertamina agree on an
+arbitrator in a dispute arising under that contract.  In response,
+KBC argues that the Tribunal correctly found that a dispute between
+KBC and Pertamina was possible under the ESC, but in the event of
+such a dispute, the ESC did not provide a procedure for choosing an
+arbitrator.  KBC asserts that the Tribunal correctly found that the
+
+--- PDF page 38 ---
+38
+general UNCITRAL rules for selecting an arbitrator would apply,
+under which KBC, Pertamina, and PLN would each appoint an
+arbitrator.  In addition, KBC argues that the district court
+correctly found that Pertamina had failed to object to KBC’s
+selection of Professor Bernardini as an arbitrator and failed to
+nominate an arbitrator despite the ICSID’s requests.  Finally, KBC
+argues that Pertamina cannot show prejudice that would make the
+Award unenforceable.
+The ESC arbitration clause refers to “any dispute or
+difference of any kind whatsoever” arising among “the Parties.”
+Section 2 of the ESC defines “parties” to include PLN, Pertamina,
+and KBC.  By its terms, the arbitration clause covers a dispute
+between KBC and Pertamina arising under the ESC, as well as a
+dispute in which the interests of KBC and Pertamina are aligned.
+If the ESC required KBC and Pertamina jointly to select an
+arbitrator for disputes in which KBC and Pertamina were opposed, as
+Pertamina contends, Pertamina could effectively block arbitration
+under the ESC simply by refusing to agree with KBC to the selection
+of an arbitrator.  Such an interpretation would make the ESC
+arbitration clause illusory.  In addition, Pertamina had numerous
+opportunities early in the proceedings to object to KBC’s selection
+of Professor Bernardini as an arbitrator and to nominate its own
+arbitrator.  Pertamina did not challenge the composition of the
+arbitral panel until after the entire panel had been selected and
+seated.  Pertamina’s failure timely to object to Professor
+
+--- PDF page 39 ---
+63  Pertamina apparently argued to the Tribunal that it did not
+name an arbitrator because it was contesting the legitimacy of the
+arbitration and further contended that it did not receive certain
+correspondence from ICSID regarding KBC’s request that the ICSID appoint
+a second arbitrator.  Pertamina, however, did not make these arguments
+before the district court.
+64  9 U.S.C. § 201, Art. V(1)(b).
+39
+Bernardini’s selection and to nominate its own arbitrator was, as
+the district court noted, a strategic decision that Pertamina
+should not now be able to assert as a defense to enforcing the
+Award.63
+Pertamina has failed to meet its burden of showing that the
+Tribunal was improperly constituted.  The Tribunal reasonably
+interpreted the ESC’s arbitration provisions and reasonably applied
+the UNCITRAL arbitration rules.  Despite numerous opportunities,
+Pertamina failed to challenge the Tribunal’s composition until
+after the arbitrators were selected.  The procedural infirmities
+Pertamina alleges do not provide grounds for denying enforcement of
+the Award.
+D. The Due Process Challenges to the Arbitral Award
+Under Article V(1)(b), enforcement of a foreign arbitral award
+may be denied if the party challenging the award was “not given
+proper notice of the appointment of the arbitrator or of the
+arbitration proceedings or was otherwise unable to present [its]
+case.”64  Article V(1)(b) “essentially sanctions the application of
+the forum state’s standards of due process,” in this case, United
+
+--- PDF page 40 ---
+65  Iran Aircraft Indus. v. Avco Corp., 980 F.2d 141, 145 (2d Cir.
+1992) (quoting Parsons & Whittemore Overseas, 508 F.2d at 975).
+66  Slaney v. Int’l Amateur Athletic Fed’n, 244 F.3d 580, 592 (7th
+Cir. 2001); Generica, Ltd. v. Pharm. Basics, Inc., 125 F.3d 1123, 1130
+(7th Cir. 1997).
+67  Slaney, 244 F.3d at 592 (quoting Sunshine Mining Co. v. United
+Steelworkers, 823 F.2d 1289, 1295 (9th Cir. 1987)); Generica, 125 F.3d
+at 1130 (quoting same).
+68  Iran Aircraft Indus., 980 F.2d at 146 (citations omitted).
+69  Matter of Arbitration Between Trans Chem. Ltd. and China Nat.
+Mach. Imp. & Exp. Corp., 978 F. Supp. 266, 310 (S.D. Tex. 1997), aff’d,
+161 F.3d 314 (5th Cir. 1998).
+40
+States standards of due process.65  A fundamentally fair hearing
+requires that a party to a foreign arbitration be able to present
+its case.66  A fundamentally fair hearing is one that “meets ‘the
+minimal requirements of fairness’ – adequate notice, a hearing on
+the evidence, and an impartial decision by the arbitrator.”67  The
+parties must have an opportunity to be heard “at a meaningful time
+and in a meaningful manner.”68  “The right to due process does not
+include the complete set of procedural rights guaranteed by the
+Federal Rules of Civil Procedure.”69
+1. The Claim that the Final Award “Reversed” the Preliminary
+Award
+Pertamina first contends that the Tribunal reversed the
+Preliminary Award in the Final Award without notice, denying
+Pertamina the opportunity to be “meaningfully heard.”  Pertamina
+emphasizes the Tribunal’s ruling that “a governmental decision
+which prevents KBC [from] perform[ing] its obligations is not
+deemed to be a breach of contract by Pertamina or PLN but a Force
+
+--- PDF page 41 ---
+41
+Majeure event excusing KBC’s nonperformance.”
+The Tribunal stated in the Preliminary Award that the force
+majeure clause in the JOC and ESC made a “government-related event”
+an event of force majeure only with respect to KBC.  The Tribunal
+stated that Pertamina and PLN were so closely related to the
+Indonesian government that a decision by the Indonesian government
+was not a force majeure event as to them.  In its briefing before
+the Tribunal made its Final Award, KBC argued that under the
+contract language and given the close relationship between
+Pertamina and the Indonesian government, Pertamina bore the risk of
+loss from a force majeure event under the JOC and ESC.  Pertamina
+responded that in the Preliminary Award, the Tribunal had ruled
+that acts of force majeure by the Indonesian government are not
+breaches of the JOC and ESC and that to award KBC damages would be
+incompatible with that ruling.  In the Final Award, the Tribunal
+found that the Indonesian government’s actions were an event of
+force majeure that excused KBC’s failure to perform under the JOC
+and ESC.  The Tribunal stated that this finding did not contradict
+its ruling in the Preliminary Award that the Indonesian government
+was not a party to the JOC or ESC, because that ruling “was not
+meant to express any view as to the consequences to
+Pertamina . . . of a Governmental decision which prevents the
+performance of the Contracts.”
+The record shows that Pertamina knew it could be found liable
+for nonperformance after the Preliminary Award had issued.  After
+
+--- PDF page 42 ---
+70  See Europcar Italia, 156 F.3d at 315 (“Absent extraordinary
+circumstances, a confirming court is not to reconsider the arbitrator’s
+findings.”).
+42
+the Preliminary Award issued, KBC argued to the Tribunal that
+Pertamina bore the risk of nonperformance under the JOC and ESC in
+the event of force majeure.  KBC’s argument clearly assumed that
+the Preliminary Award allowed the Tribunal to find that the
+contracts placed the risk of, and liability for, such
+nonperformance on Pertamina.  In response to that argument,
+Pertamina had, and took, the opportunity fully to present its
+arguments against KBC’s theory of liability.
+The Final Award shows that the Tribunal considered and
+rejected Pertamina’s argument in making its liability decision.
+The Tribunal concluded that the JOC and ESC allocated the risk of
+government interference with the project solely to Pertamina and
+PLN.  In this enforcement proceeding, Pertamina is essentially
+repeating the arguments it made to the Tribunal.  The fact that
+those arguments were presented to and considered by the Tribunal is
+inconsistent with Pertamina’s claim that it had no notice of the
+need to make the argument to that Tribunal or the opportunity to do
+so.  Pertamina did not suffer the fundamental unfairness it claims,
+so as to support a refusal to enforce the Award.70
+2. The Tribunal’s Denial of a Continuance and Request for
+Additional Discovery
+To challenge KBC’s contention that FPL was willing to finance
+the project, Pertamina sought in the arbitration proceeding a
+
+--- PDF page 43 ---
+43
+continuance and discovery of the following documents from KBC, FPL,
+and Caithness regarding the financing of the KBC project:
+(1) All documents relating to efforts to
+obtain financing for the Karaha-Bodas
+project during the period September 1997
+through June 1998.
+(2) All documents showing any consideration
+of providing direct financing (whether
+through bridge financing, a loan
+guarantee, or direct equity investment)
+for the Karaha-Bodas project during the
+period September 1997 through June 1998.
+(3) All documents relating to FPL’s, its
+subsidiaries’, or its predecessors’
+consideration of whether to invest in the
+Karaha-Bodas project.
+(4) All documents relating to FPL’s, its
+subsidiaries’, or its predecessors’
+decision to invest in the Karaha-Bodas
+project, stated variously to have
+occurred in mid-1996 or mid-1997.
+(5) All documents sent by KBC to FPL, its
+subsidiaries, or its predecessors
+following the investment identified in
+¶ 4 and concerning geothermal exploration
+and development in the Karaha-Bodas
+concession area (whether such exploration
+occurred before or after the investment).
+(6) All documents relating to evaluation by
+each, any and all of KBC, FPL (or
+subsidiaries or predecessors), and
+Caithness whether to proceed with the
+Karaha-Bodas project during the period
+September 1997 through June 1998.
+The Tribunal denied Pertamina’s request.
+After Pertamina discovered that FPL and certain other
+investors in KBC owned a political risk insurance policy
+underwritten by Lloyd’s of London, which had paid $75 million after
+
+--- PDF page 44 ---
+71  Generica, 125 F.3d at 1130 (quoting Hoteles Condado Beach, La
+Concha and Convention Ctr. v. Union de Tronquistas Local 901, 763 F.2d
+34, 39 (1st Cir. 1985)); see Slaney, 244 F.3d at 592 (cautioning that
+“parties that have chosen to remedy their disputes through arbitration
+rather than litigation should not expect the same procedures they would
+find in the judicial arena”).
+72  Generica, 125 F.3d at 1130; Slaney, 244 F.3d at 592.
+73  Hoteles Condado Beach , 763 F.2d at 40 (internal citations
+omitted).
+44
+the project suspension, Pertamina sought reconsideration of the
+district court’s summary judgment enforcing the Award under Rule
+60(b).  The district court found that Pertamina’s inability to
+introduce evidence of the insurance policy at the arbitration did
+not prevent the presentation of its case to the Tribunal.  The
+district court also held that KBC’s failure to bring the insurance
+policy to the Tribunal’s attention did not make enforcing the Award
+a violation of public policy.  We agree.
+“An ‘arbitrator is not bound to hear all of the evidence
+tendered by the parties . . . .  [He] must give each of the parties
+to the dispute an adequate opportunity to present its evidence and
+arguments.’”71  It is appropriate to vacate an arbitral award if the
+exclusion of relevant evidence deprives a party of a fair hearing.72
+“Every failure of an arbitrator to receive relevant evidence does
+not constitute misconduct requiring vacatur of an arbitrator’s
+award.  A federal court may vacate an arbitrator’s award only if
+the arbitrator’s refusal to hear pertinent and material evidence
+prejudices the rights of the parties to the arbitration
+proceedings.”73
+
+--- PDF page 45 ---
+45
+Although the Tribunal denied Pertamina the specific discovery
+it sought on the issue of FPL financing, Pertamina was able to
+cross-examine the KBC witnesses who testified that FPL was willing
+to provide financing for the project, Leslie Gelber and Robert
+McGrath.  Before those witnesses testified, Pertamina had already
+presented substantial evidence in its response to KBC’s Statement
+of Claim as to why KBC would not have been able to secure financing
+for the project, emphasizing the depressed state of the Indonesian
+economy and its unattractiveness to investors.  Pertamina argued to
+the Tribunal that KBC had presented no documentary evidence of
+FPL’s willingness to finance the project and asserted that FPL
+would have required such a high rate of interest because of the
+risk involved as to make the KBC venture unprofitable.
+The Tribunal found that “the issue remained open in 1998 of
+the terms and conditions upon which financing could have been
+obtained for the Project development.”  The Tribunal noted that
+“the worsening of the economic and political situation in Indonesia
+at the time has to be taken into account as regards both the
+conditions at which financing could have been obtained and possible
+delays in arranging the same.”  The Tribunal, however, noted that
+the parties contemplated the possibility of a delay in arranging
+financing, because the ESC provided that the contract could be
+suspended for up to two years if KBC was unable to arrange
+financing for the project.  The Tribunal also noted KBC’s efforts
+to reinstate the project after the initial government suspension
+
+--- PDF page 46 ---
+74  125 F.3d 1123 (7th Cir. 1997).
+75  Id. at 1129-31.
+76  Id. at 1131.
+77  Id.
+78  Id.
+46
+order, finding that KBC was ready and willing to secure financing
+for the project.  The Tribunal found the testimony of KBC’s
+witnesses on financing credible, stating that it had “no
+reason . . . to cast doubts about KBC’s readiness, directly and/or
+through its shareholders, to make provision thereof.”  In
+determining the lost profits, the Tribunal considered all the risks
+of the project, including the potential difficulties in arranging
+financing that Pertamina cited, and “significantly reduc[ed]” the
+amount of lost profits claimed by KBC.
+In Generica, Ltd. v. Pharmaceutical Basics, Inc.,74 the party
+opposing enforcement of an international arbitration award argued
+that the tribunal curtailed cross-examination of a witness, in
+violation of the party’s due process right to present its case. 75
+The tribunal, recognizing that it had curtailed the cross-
+examination, placed diminished reliance on the witness’s
+testimony.76  The court found that by limiting the reliance on the
+witness’s testimony, the arbitrators eliminated the possibility of
+prejudice to the party claiming a due process violation.77  The
+court confirmed the award.78  As in Generica, the Tribunal appears
+to have given all the evidence as to damages, including the
+
+--- PDF page 47 ---
+79  120 F.3d 16 (2d Cir. 1997).
+80  Id. at 20.
+81  Id. at 21.
+82  Id. at 20.
+83  763 F.2d 34 (1st Cir. 1985).
+84  Id. at 40.
+47
+availability of financing, appropriate weight in determining
+liability and damages.
+In Tempo Shain Corp. v. Bertek, Inc.,79 the arbitral panel did
+not allow a potential witness to testify on the basis that the
+witness’s testimony was cumulative.80  The court vacated the
+arbitral award.81  The record showed that the witness would have
+testified to facts that only he could have known, making his
+testimony essential.82  Similarly, in Hoteles Condado Beach, La
+Concha and Convention Center v. Union de Tronquistas Local 901,83
+the court vacated an award because the arbitral panel refused to
+give any weight to the only evidence available to the losing
+party.84  In the present case, by contrast, the Tribunal’s language
+in the Final Award and the record show that the testimony about
+FPL’s willingness to provide financing was only one factor relevant
+to damages.  KBC raised the possibility of FPL’s direct financing
+only in response to Pertamina’s affirmative defense that KBC could
+not have financed the project.  Pertamina did not seek discovery on
+KBC’s efforts to finance the project in the arbitration proceeding
+until after KBC filed its rebuttal to the response to the Statement
+
+--- PDF page 48 ---
+85  Newark Stereotypers’ Union No. 18 v. Newark Morning Ledger Co.,
+397 F.2d 594, 599 (3d Cir. 1968).
+86  Pertamina acknowledges that it specifically examined Gelber and
+McGrath about the existence of documents regarding FPL’s willingness to
+finance the project.  Pertamina states that the Tribunal had to instruct
+McGrath to answer the question directly, demonstrating that McGrath was
+an “evasive” witness.  The Tribunal observed McGrath testify and was
+able to make the credibility judgment that he either lacked knowledge
+of such documents or was unwilling to discuss them.  Cf. United States
+v. Garza, 118 F.3d 278, 283 (5th Cir. 1997) (noting that a district
+court is in the best position to judge the credibility of witnesses and
+refusing to “second-guess” the lower court’s judgment on the issue).
+87  Cf. Hoteles Condado Beach, 763 F.2d at 40 (denial of party’s
+only evidence was ground for vacating award).
+48
+of Claim, despite the fact that Pertamina raised the issue as an
+affirmative defense.
+The record shows that the Tribunal’s refusal to grant a
+continuance and additional prehearing discovery did not “so affect
+the rights of [Pertamina] that it may be said that [it] was
+deprived of a fair hearing.” 85  Pertamina was able to present
+comprehensive evidence of investment conditions in Indonesia and
+expert opinions on the availability of financing, as well as cross-
+examine Gelber and McGrath on FPL’s asserted willingness and
+ability to provide financing.86
+Pertamina contends that the late revelation of the political
+risk insurance policy refutes KBC’s contention in the arbitration
+that FPL was willing to finance KBC to protect the $40 million it
+had previously invested in KBC.  The existence of the political
+insurance policy was not “central or decisive” to Pertamina’s
+case.87  In order to show damages, KBC had to show that if the
+project had not been suspended, KBC could have proceeded to perform
+
+--- PDF page 49 ---
+88  See, e.g., Talman Home Fed. Sav. & Loan Ass’n of Ill. v. Am.
+Bankers Ins., 924 F.2d 1347, 1351 (5th Cir. 1991) (quoting Republic
+Nat’l Bank of Dallas v. Nat’l Bankers Life Ins. Co., 427 S.W.2d 76, 79
+(Tex. App. – Dallas 1968, writ ref’d)) (“The cardinal rule of
+construction as applied to all contracts is to ascertain the intention
+of the parties as expressed in the language used in the instrument
+itself.  It is the intention and purpose of contracting parties, as
+disclosed within the four corners on the instrument which should
+control.”).
+49
+by obtaining financing.  The record amply supports KBC’s position
+that KBC and FPL had already invested substantial money before the
+Indonesian government issued its suspension order.  The existence
+of the political risk insurance policy is not inconsistent with the
+testimony of Gelber and McGrath that FPL intended to finance the
+project and would have done so but for the suspension decreed by
+the government of Indonesia.  The existence of political risk
+insurance for the project is not inconsistent with FPL’s
+willingness to invest had the project not been suspended, that is,
+if the risk insured against had not occurred.  The Tribunal’s
+damages analysis and the lost profits award depended on the
+assumption that the project continued, that is, that the suspension
+had not taken place.
+Pertamina’s argument that KBC’s political risk insurance
+policy undermines the Tribunal’s finding that the JOC and ESC
+placed the risk of a government-related event on Pertamina is also
+unavailing.  The Tribunal determined that the JOC and ESC placed
+the risk of nonperformance due to a government-related event on
+Pertamina based on a well-reasoned, detailed analysis of the
+contract terms.88  The existence of a political risk policy does not
+
+--- PDF page 50 ---
+89  This subrogation provision undermines Pertamina’s additional
+argument that, in the alternative, it is entitled to a $75 million
+offset from the political risk insurance payout.  Pertamina argues that
+enforcement of the judgment, in combination with the insurance proceeds,
+will permit KBC double recovery in violation of the single-satisfaction
+rule.  See Tompkins v. Cyr, 202 F.3d 770, 785 (5th Cir. 2000).  The
+subrogation provision of the political risk insurance policy, however,
+requires that to the extent the insured obtains any recovery from a
+judgment against Pertamina, the insured is obligated to repay the
+insurer.  In addition, payment by a collateral source does not typically
+diminish a judgment debt.  See Global Petrotech, Inc. v. Engelhard
+Corp., 58 F.3d 198, 202 (5th Cir. 1995).  There will be no double
+recovery, and Pertamina is not entitled to a credit.
+50
+undermine this result.  Moreover, the political risk policy
+contained a subrogation provision that required KBC to reimburse
+the insurer if KBC recovered its losses from another source.89  The
+existence of the political risk policy is not inconsistent with the
+contractual allocation of risk.
+The Tribunal asked McGrath whether FPL had purchased “OPIC
+insurance,” a form of political risk insurance.  McGrath responded
+that he did not know the answer to the question.  Pertamina’s
+counsel did not follow up on the Tribunal’s questioning.  At the
+conclusion of the hearing, the Tribunal chair asked the parties
+whether the discovery requests were “maintained, all of them, part
+of them, because we would like to know on what we have to decide.”
+The response from counsel for Pertamina was as follows:
+[T]he purpose of discovery is to prepare for
+the hearing, it is not to supplement the
+record after the hearing.  So I think the
+discovery requests are moot, and if discovery
+is now permitted, then you have to re-open the
+proceedings and so on.  So I treated,
+notwithstanding the fact that it was
+theoretically open, I treated this request as
+effectively being denied, and we went forward.
+
+--- PDF page 51 ---
+90  See, e.g., UNCITRAL Arbitration Rules at Art. 15(2), 29(2)
+(stating that a party may request at any stage of the proceeding a
+hearing for presentation of evidence and that a tribunal may reopen
+hearings at any time upon request of a party); Jay E. Grenig,
+Alternative Dispute Resolution with Forms , § 5.76 (2d ed. 1997)
+(including in a description of the customary order of arbitration
+proceedings the “submission of post-hearing briefs”).  See also Lincoln
+Nat’l Life Ins. Co. v. Payne, 286 F.Supp.2d 1023, 1026 (S.D. Ia. 2003);
+Techcapital Corp. v. Amoco Corp., 2001 WL 267010, at * 2 (S.D.N.Y. March
+19, 2001); Mays v. Lanier Worldwide, Inc., 115 F.Supp.2d 1330, 1342
+(M.D. Ala. 2000); I. Appel Corp. v. Katz, 1999 WL 287370, at * 3 n.2
+(S.D.N.Y. May 6, 1999); United Foods, Inc. v. W. Conference of Teamsters
+Pension Trust Fund, 816 F. Supp. 602, 607 (N.D. Ca. 1993).
+51
+Our request went to the purported financial
+ability, the purported financing that would
+have been made available and other things, and
+I think the record on that has been fully
+made.  I am prepared to rest on that record,
+and so I think the discovery requests should
+no longer be in the picture.
+The parties submitted extensive posttrial briefs.  In the Final
+Award, issued in December 2000, the Tribunal stated that all
+parties had “waived their respective requests for discovery” at the
+conclusion of the hearing.
+Pertamina asserts that it did not waive its requests for
+discovery because the Tribunal denied the request before the
+hearing, when the discovery could have been of use.  Pertamina
+ignores the fact that in international commercial arbitration, it
+is not uncommon to ask for additional discovery or information
+after a hearing, to request additional sessions of a hearing to
+submit more evidence, or to file posthearing submissions.90  Rather
+than renew its requests for discovery into FPL’s willingness to
+finance the project or to assert a request for discovery into FPL’s
+political risk insurance, Pertamina’s counsel expressly stated that
+
+--- PDF page 52 ---
+91  KBC sought $512.5 million in lost profits.  The Tribunal
+awarded KBC $150 million in lost profits.  The Tribunal also awarded KBC
+$111.1 million in lost expenditures.
+52
+the record had been “fully made” and that he was “prepared to rest
+on the record.”  The record supports the Tribunal’s conclusion that
+the discovery requests made before the hearing had been waived.
+Pertamina did not ask for discovery into political risk insurance
+until it filed its Rule 60(b) motion in the district court.
+The Tribunal’s denial of a continuance and additional
+discovery did not prevent Pertamina from presenting its case, so as
+to deprive it of a fair hearing.  Pertamina presented ample
+evidence in support of its position that KBC would be unable to
+find financing.  The Tribunal considered Pertamina’s evidence and
+gave it considerable weight, awarding KBC damages substantially
+lower than the amount it sought.91  Pertamina has failed to show the
+prejudice required to decline enforcement of the Award on this
+ground.
+3. The District Court’s Denial of Pertamina’s Rule 56(f)
+Discovery Request
+In the district court, after KBC moved for summary judgment on
+its application to enforce the Award, Pertamina moved for a
+continuance under Rule 56(f) and sought the same discovery on
+FPL’s willingness and ability to provide project financing that it
+had sought in the arbitration.  The district court denied the Rule
+56(f) motion.
+
+--- PDF page 53 ---
+92  Resolution Trust Corp. v. Sharif-Munir-Davidson Dev. Corp., 992
+F.2d 1398, 1401 (5th Cir. 1993).
+93  Int’l Shortstop v. Rally’s, Inc., 939 F.2d 1257, 1267 (5th Cir.
+1991).
+94  Krim v. BancTexas Group, Inc., 989 F.2d 1435, 1442 (5th Cir.
+1993).
+95  Lummus Global Amazonas S.A. v. Aguaytia Energy del Peru S.R.
+Ltda., 256 F.Supp.2d 594, 626 (S.D. Tex. 2002) (citations omitted).
+53
+The denial of a Rule 56(f) discovery request is reviewed for
+abuse of discretion.92  The district court may not simply rely on
+vague assertions that additional discovery will produce needed, but
+unspecified, facts.93  “If it appears that further discovery will
+not produce evidence creating a genuine issue of material fact, the
+district court may, in the exercise of its discretion, grant
+summary judgment.”94  As one court has explained:
+In judging discovery requests in this context
+[of an arbitration award confirmation
+proceeding], the court must weigh the asserted
+need for hitherto undisclosed information and
+assess the impact of granting such discovery
+on the arbitral process.  The inquiry is an
+entirely practical one, and is necessarily
+keyed to the specific issues raised by the
+party challenging the award and the degree to
+which those issues implicated factual
+questions that cannot be reliably resolved
+without some further disclosure.95
+The record shows that in the arbitration, Pertamina was able
+to present substantial evidence regarding the Indonesian economy,
+the problems in securing financing for projects in Indonesia, and
+the projected electrical generating capacity of the project.  The
+Tribunal took Pertamina’s arguments into account in awarding
+
+--- PDF page 54 ---
+96  See Krim, 989 F.2d at 1442.
+97  See Lummus Global Amazonas, 256 F.Supp.2d at 626; Resolution
+Trust Corp., 992 F.2d at 1401.  For the same reasons, the district court
+did not err by refusing to permit additional discovery or host an
+evidentiary hearing before ruling on Pertamina’s Rule 60(b) motion.  See
+Provident Life and Accident Ins. Co. v. Goel , 274 F.3d 984, 999 (5th
+Cir. 2001) (noting that the only issues on an appeal of a Rule 60(b)
+motion are the propriety of the denial of relief and whether the
+district court abused its discretion in denying relief).
+54
+significantly less in lost profits than KBC had sought. The
+Tribunal did not solely rely on FPL’s willingness to finance the
+project in determining that KBC was ready to “directly, and/or
+through its shareholders,” finance the project.  The Tribunal also
+looked to KBC’s efforts to convince the Indonesian government to
+restart the project in making this finding.  The record supports
+the district court’s denial of a continuance to permit further
+discovery on KBC’s ability to finance the project.
+The district court also noted Pertamina’s counsel’s statement
+at the conclusion of the arbitration hearing that “the record on
+[the financing issue] ha[d] been fully made.”  Pertamina has failed
+to show that the discovery it sought in the district court would
+have created disputed fact issues material to determining whether
+Pertamina received a fundamentally fair hearing before the
+Tribunal.96  Because the issue of financing could be reliably
+resolved without the requested discovery, the district court did
+not abuse its discretion in denying Pertamina’s Rule 56(f) motion.97
+
+--- PDF page 55 ---
+98  9 U.S.C. § 201, Art. V(2)(b).
+99  M & C Corp., 87 F.3d at 851 n.2 (quoting Fotochrome, Inc. v.
+Copal Co., Ltd., 517 F.2d 512, 516 (2d Cir. 1975)); see Parsons &
+Whittemore Overseas, 508 F.2d at 974; Slaney, 244 F.3d at 593.
+100  Parsons & Whittemore Overseas, 508 F.2d at 973.
+101  Coutinho Caro & Co. U.S.A., Inc. v. Marcus Trading, Inc., 2000
+WL 435566, at *12 (D. Conn. March 14, 2000).
+55
+E. The Public Policy Challenge to the Arbitral Award
+Pertamina asserts that the Award violated public policy
+because it violated the international law doctrine of abuse of
+rights.  Pertamina contends that the Award imposes punishment for
+obeying a government decree.  Pertamina also asserts that KBC’s
+failure to disclose the political risk insurance policy during the
+arbitration makes enforcement of the Award a violation of public
+policy.
+Under Article V(2)(b) of the New York Convention, a court may
+refuse to recognize or enforce an arbitral award if it “would be
+contrary to the public policy of that country.”98  The public policy
+defense is to be “construed narrowly to be applied only where
+enforcement would violate the forum state’s most basic notions of
+morality and justice.”99  “The general pro-enforcement bias
+informing the convention . . . points to a narrow reading of the
+public policy defense.”100  Erroneous legal reasoning or
+misapplication of law is generally not a violation of public policy
+within the meaning of the New York Convention.101
+
+--- PDF page 56 ---
+102  Joseph M. Perillo, Abuse of Rights: A Pervasive Legal Concept,
+27 Pac. L. J. 37, 47 (Fall 1995).
+103  The abuse of rights doctrine is not even fully established in
+Louisiana, the American jurisdiction that has invoked it.  See Lloyd v.
+Georgia Gulf Corp., 961 F.2d 1190, 1193 n.4 (5th Cir. 1992).
+104  See Perillo, 27 Pac. L. J. at 47.
+105  Slaney, 244 F.3d at 593.
+56
+An action violates the abuse of rights doctrine if one of the
+following three factors is present:  (1) the predominant motive for
+the action is to cause harm; (2) the action is totally unreasonable
+given the lack of any legitimate interest in the exercise of the
+right and its exercise harms another; and (3) the right is
+exercised for a purpose other than that for which it exists.102  The
+abuse of rights doctrine is not established in American law103 and
+KBC’s actions do not meet the factors required to trigger its
+application.  The evidence in the record is that KBC pursued the
+arbitration to recover its costs, expenses, and lost profits from
+the nonperformance of the JOC and ESC. 104  The record does not
+support Pertamina’s argument that enforcing the Award penalizes
+obedience to a governmental decree.  The Tribunal explained in the
+Final Award that the JOC and ESC shifted the risk of loss resulting
+from a government-ordered suspension onto Pertamina and PLN.
+Pertamina is challenging the substance of the Tribunal’s
+interpretation of the JOC and ESC.  An arbitration tribunal’s
+contract interpretation does not violate public policy unless it
+“violates the most basic notions of morality and justice.”105  The
+
+--- PDF page 57 ---
+106  Karppinen v. Karl Kiefer Mach. Co., 187 F.2d 32, 34 (2d Cir.
+1951).
+107  Bonar v. Dean Witter Reynolds, Inc., 835 F.2d 1378, 1383 (11th
+Cir. 1988).
+108  Id.
+109  See Biotronik Mess-Und Therapiegeraete GmbH & Co. v. Medford
+Med. Instrument Co., 415 F. Supp. 133, 137-38 (D.N.J. 1976).
+57
+Tribunal’s interpretation of the JOC and ESC does not approach this
+steep threshold.
+KBC’s failure to disclose the political risk insurance policy
+does not provide a basis for refusing to enforce the Award.
+Enforcement of an arbitration award may be refused if the
+prevailing party furnished perjured evidence to the tribunal or if
+the award was procured by fraud.106  Courts apply a three-prong test
+to determine whether an arbitration award is so affected by fraud:
+(1) the movant must establish the fraud by clear and convincing
+evidence; (2) the fraud must not have been discoverable upon the
+exercise of due diligence before or during the arbitration; and (3)
+the person challenging the award must show that the fraud
+materially related to an issue in the arbitration.107  It is not
+necessary to establish that the result of the arbitration would
+have been different if the fraud had not occurred. 108  Courts,
+however, have held that an arbitration award is not fraudulently
+obtained when the protesting party had an opportunity to rebut his
+opponent’s claims at the hearing.109
+
+--- PDF page 58 ---
+110  415 F. Supp. 133 (D.N.J. 1976).
+111  Id. at 137.
+112  Id. at 138.
+113  Id.
+114  292 F. Supp. 549 (S.D.N.Y. 1968).
+115  Id. at 553.
+116  Id.
+117  Id.
+58
+In Biotronik Mess-Und Therapiegeraete GmbH & Co. v. Medford
+Medical Instrument Co.,110 the party opposing enforcement of the
+award argued that the prevailing party knowingly withheld evidence
+of an agreement that undermined its case.111  The court stated that
+while the party opposing enforcement urged fraud, the real
+complaint was that the party prevailing in the arbitration should
+have presented evidence favorable to its opponent’s case.112  The
+court rejected this argument, stating that “a party cannot complain
+about the nonproduction of evidence when it failed to offer such
+evidence itself.”113  In Catz American Co. v. Pearl Grange Fruit
+Exchange Inc.,114 the party opposing enforcement did not ask the
+arbitrators to bring certain witnesses before the panel, although
+the prevailing party offered to make the witnesses available.115
+The panel never called for the witnesses’ testimony.116  The party
+opposing enforcement of the award argued that the prevailing party
+should nonetheless have produced the witnesses. 117  The court
+rejected this argument, stating that “[a]rbitrators must be given
+
+--- PDF page 59 ---
+118  Id.
+119  Id.
+120  Cf. Biotronik, 415 F. Supp. at 138; Catz American, 292 F. Supp.
+at 553; see Goel, 274 F.3d at 999 (noting that the only issues on an
+appeal of a Rule 60(b) motion are the propriety of the denial of relief
+and whether the district court abused its discretion in denying relief).
+59
+discretion to determine whether additional evidence is necessary or
+would simply prolong the proceedings.”118  Because the witnesses
+were not solely within the prevailing party’s control and there was
+other evidence in the record supporting the other party’s position,
+the court rejected the challenge to the award.119
+Pertamina argues that KBC’s failure to reveal its political
+risk insurance policy amounts to misconduct warranting a refusal to
+enforce the Award.  There is no evidence in the record that KBC
+deliberately misled the Tribunal.  When the question of political
+risk insurance arose and was not clearly resolved, Pertamina had
+the opportunity to ask additional questions, which it chose not to
+pursue.  The Tribunal gave Pertamina an opportunity to pursue
+discovery requests, which it declined.  KBC’s failure to produce
+evidence of political risk insurance, given Pertamina’s decisions
+not to pursue the subject, does not violate public policy.  The
+district court did not err in refusing to deny enforcement of the
+Award on the basis of a public policy violation or in refusing to
+grant a new trial on the basis of Rule 60(b).120
+F. The Effect of the Indonesian Court’s Annulment of the
+Arbitral Award
+
+--- PDF page 60 ---
+121  The language, “‘the competent authority of the country . . .
+under the law of which, that award was made’ refers exclusively to
+procedural and not substantive law, and more precisely, to the regimen
+or scheme of arbitral procedural law under which the arbitration was
+conducted, and not the substantive law . . . applied in the case.”
+Int’l Standard Elec. Corp., 745 F. Supp. at 178; see Alghanim, 126 F.3d
+at 21; M & C Corp., 87 F.3d at 848.
+60
+Pertamina filed an annulment action in the Central District
+Court of Jakarta, Indonesia in March 2002.  That court annulled the
+Award on August 27, 2002.  Pertamina now contends that the
+Indonesian court’s annulment is a defense to enforcement under the
+New York Convention.  KBC responds that Indonesia cannot be a
+proper forum for annulment because Switzerland is the country of
+primary jurisdiction.
+Pertamina argues that the New York Convention permits more
+than one country to have primary jurisdiction over an arbitration
+award.  Pertamina contends that the Convention’s language
+permitting annulment by a court in “the country in which, or under
+the law of which, that award was made” allows for two potential
+primary jurisdiction countries – the country who hosted the
+arbitration proceeding, and the country whose arbitral procedural
+law governed that proceeding.121  Using this reasoning, Pertamina
+suggests that both Switzerland (the host country) and Indonesia
+(the country of governing law) have primary jurisdiction over the
+arbitration in this case.
+Pertamina correctly observes that the Convention provides two
+tests for determining which country has primary jurisdiction over
+an arbitration award:  a country in which an award is made, and a
+
+--- PDF page 61 ---
+122  9 U.S.C. § 201, Art. V(1)(e).
+123  See, e.g., Int’l Standard Electric Corp., 745 F. Supp. at 177
+(quoting Albert Jan van den Berg, The New York Arbitration Convention
+of 1958 350 (Kluwer 1981)); Paul Sanders, The New York Convention on the
+Recognition and Enforcement of Foreign Arbitral Awards , 6 Netherlands
+Int’l L. Rev. 43, 56 (1956).
+124  Hamid G. Gharavi, The International Effectiveness of the
+Annulment of An Arbitral Award (2002).
+125  “The reality, however, seems to be that the Article V(1)(e)
+formula enables enforcement courts to refuse enforcement of an award
+annulled by the competent court of the country in which the award was
+made even if (i) the award was rendered pursuant to the laws of a third
+State and (ii) annulment proceedings were pending before the court of
+the country under the law of which the award was made.”  Id.
+61
+country under the law of which an award is made.122  The New York
+Convention suggests the potential for more than one country of
+primary jurisdiction.  Courts and scholars have noted as much. 123
+Pertamina cites one such scholar as support for its position:
+[A]mbiguity is derived from the fact that the
+formula does not indicate whether the party
+seeking the annulment of the award must choose
+between the court at the seat of the
+arbitration and the one located in the country
+under the law of which the award is made – if
+the two are distinct – or whether it may seek
+annulment jointly or alternatively before both
+courts. . . . Article V(1)(e) of the New York
+Convention could [ ] be construed as referring
+to the courts of only one country while giving
+the party seeking the annulment the
+possibility to choose between the two
+countries should the two be distinct.124
+Although an arbitration agreement may make more than one country
+eligible for primary jurisdiction under the New York Convention,
+the predominant view is that the Convention permits only one in any
+given case.125  “[M]any commentators and foreign courts have
+concluded that an action to set aside an award can be brought only
+
+--- PDF page 62 ---
+126  Alghanim, 126 F.3d at 22 (citing commentary that the country
+of origin of the award is the only country with primary jurisdiction).
+127  Supplemental Expert Report of Albert Jan van den Berg, p. 20.
+Others agree.  Professor Paul Sanders concludes that regardless of any
+ambiguity, Article V(1)(e) grants primary jurisdiction to the courts of
+only a single country:
+[T]he suspension must have been ordered by or the
+application for suspension must have been made to
+a “competent authority of the country in which, or
+under the law of which, that award was made.”
+Here only one competent authority is meant; either
+the Court of the country where the award was made,
+or the Court of the country under the law of which
+the award was made.  These last words were added
+on a Russian proposal to cover the case that an
+award has been made f.i. in Germany under French
+procedural law.  In that case the suspension . .
+. according to the Convention should have to be
+demanded in France and not in Germany.
+Sanders, New York Convention at 56.  In his expert report for KBC,
+Professor Allen Scott Rau emphasized that “there is only one national
+court system that has jurisdiction to consider an application for
+annulment of an award.”  Scholar Jan Paulsson submits “the fact is that
+setting aside awards under the New York Convention can take place only
+in the country in which the award was made.”  The Role of Swedish Courts
+in Transnational Commercial Arbitration, 21 Va. J. Int’l L. 211, 242
+(1981).
+62
+under the domestic law of the arbitral forum.”126  Pertamina’s
+expert on international arbitration filed a report in the district
+court, stating that “there can be only one country in which the
+courts have jurisdiction over an annulment.”127  In its motion to
+the district court to set aside judgment under Rule 60(b),
+Pertamina conceded that “[a] primary jurisdiction has exclusive
+authority to nullify an award on the basis of its own arbitration
+law.”  Such “exclusive” primary jurisdiction in the courts of a
+single country is consistent with the New York Convention’s
+purpose; facilitates the “orderliness and predictability” necessary
+
+--- PDF page 63 ---
+128  For example, “having a double test, i.e. that of the place of
+arbitration and that of the law governing the arbitration, can give rise
+to discrepancies.”  Andreas Bucher and Pierre-Yves Tschanz,
+International Arbitration in Switzerland 164 (1988).  As one source has
+explained:
+For instance, the Federal Republic of Germany does
+not define German awards as awards made in Germany
+but as awards governed by German law wherever they
+are made.  As a result, an award purporting to be
+made in Switzerland under German arbitration law
+is considered as a Swiss award in Switzerland and
+as a German award in Germany, with the result that
+such award could be challenged in both countries.
+In the reverse situation of an award made in
+Germany purportedly under Swiss arbitration law,
+such award is considered as Swiss in Germany and
+as German in Switzerland (since the place of
+arbitration is in Germany).  As a result, such an
+award cannot be challenged in either country, but
+can only be recognized (or denied recognition)
+under the New York Convention.
+Id.
+129  See Alghanim, 126 F.3d at 21; M & C Corp., 87 F.3d at 848.
+63
+to international commercial agreements; and implements the parties’
+choice of a neutral forum.128
+In this case, both of the New York Convention criteria for the
+country with primary jurisdiction point to Switzerland – and only
+to Switzerland.129  The Award was made in Switzerland and was made
+under Swiss procedural law.  The parties’ arbitration agreement
+designated Switzerland as the site for the arbitration.  This
+designation presumptively designated Swiss procedural law as the
+lex arbitri, in the absence of any express statement making another
+country’s procedural law applicable.
+Pertamina’s own conduct during and after the arbitration
+evidences its intent to have Swiss procedural law apply and to have
+
+--- PDF page 64 ---
+130  The district court found that Pertamina “specifically,
+repeatedly and unequivocally” argued that Swiss arbitration law applied
+in the arbitration.  See note 24.
+131  The Hong Kong court enforced the Award after the Indonesian
+court issued its annulment ruling, stating that “the fact that the court
+in Indonesia has now annulled the award under its own law is also a
+matter which has no effect on this court’s task.”  Hong Kong decision
+at 12.
+64
+Switzerland be the country of primary jurisdiction over the Award.
+During the arbitration, Pertamina asserted that Swiss procedural
+law applied.  When it lost the arbitration, Pertamina asked the
+Swiss court to set aside the Award, acknowledging that the Swiss
+courts had primary jurisdiction.  While that appeal was pending,
+Pertamina urged the district court in the enforcement proceeding
+that the Swiss court had exclusive primary jurisdiction – until the
+Swiss courts rejected Pertamina’s appeal.130
+Under the New York Convention, the parties’ arbitration
+agreement, and this record, Switzerland had primary jurisdiction
+over the Award.131  Because Indonesia did not have primary
+jurisdiction to set aside the Award, this court affirms the
+district court’s conclusion that the Indonesian court’s annulment
+ruling is not a defense to enforcement under the New York
+Convention.
+III.  Conclusion
+Pertamina’s challenges to the district court’s decision
+affirming the Award are without merit.  The summary judgment
+enforcing the Award is AFFIRMED.

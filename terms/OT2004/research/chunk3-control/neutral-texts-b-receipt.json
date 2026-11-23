@@ -1,0 +1,17 @@
+{
+  "sources": [
+    {
+      "file": "karaha-official.txt",
+      "sha256": "93829b040eb338f92b643f2765c1102b3a3fb6863aebc25964c5300560176089"
+    },
+    {
+      "file": "convention-official-canada.txt",
+      "sha256": "39f967d34b166b00c88f303db1d56166bb4f93fc6a319848e723af3a1f685671"
+    },
+    {
+      "file": "section207-cornell.txt",
+      "sha256": "bf653ea50c2ac5e0419e628aabda1b82cadec3d1cfb00fbab88666cb9d0f48f2"
+    }
+  ],
+  "limits": "UNCITRAL 37-page PDF download produced no usable substantive text and was not relied upon or certified as read. Official Canadian reproduction of all sixteen treaty articles read in full instead. Current Cornell section 207 and enactment credit read in full."
+}

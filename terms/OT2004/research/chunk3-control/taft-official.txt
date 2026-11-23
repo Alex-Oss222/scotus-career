@@ -1,0 +1,1968 @@
+--- PDF page 1 ---
+1
+RECOMMENDED FOR FULL-TEXT PUBLICATION
+Pursuant to Sixth Circuit Rule 206
+ELECTRONIC CITATION:  2003 FED App. 0446P (6th Cir.)
+File Name:  03a0446p.06
+UNITED STATES COURT OF APPEALS
+FOR THE SIXTH CIRCUIT
+_________________
+WOMEN ’S MEDIC AL
+PROFES SIONAL
+CORPORATI ON; MART IN
+HASKELL , MD,
+Plaintiffs-Appellees,
+v.
+BOB TAFT , Governor; BETTY
+D. MONTGO MERY , Attorney
+General; MATH IAS H. HECK,
+JR.,
+Defendants-Appellants.
+X
+-
+-
+-
+->,
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+N
+No. 01-4124
+Appeal from the United States District Court
+for the Southern District of Ohio at Dayton.
+No. 00-00368—Walter H. Rice, District Judge.
+Argued:  April 29, 2003
+Decided and Filed:  December 17, 2003  
+2 Women’s Med. Prof’l, et al. v. Taft, et al. No. 01-4124
+*The  Honorabl e Art hur J . Tarnow , Uni ted States D istrict Ju dge f or
+the Eastern Distri ct of Michigan, sit ting by designat ion.
+Before:  RYAN and BATCHELDER, Circuit Judges;
+TARNOW, District Judge.*
+_________________
+COUNSEL
+ARGUED:  Stephen P. Carney, OF FICE OF THE
+ATTORNEY GENERAL OF OHI O, Columbus, Ohio, for
+Appellants.  Alphonse A. Gerhardstein, LA UFMAN &
+GERHARDSTEIN, Cincinn ati, Ohio, for  Appellee s.
+ON BRIE F:  Stephen P. Carney, A nne Berr y Strait, Karl
+William Schedler,  O FFICE OF T HE ATTORNEY
+GENERAL OF OHIO, Columbus, Ohio, for A ppellants.
+Alphonse A. Gerhardstein, Jennifer L. Branch, LAUFMAN
+& GERHARDST EIN, Cincin nati, Ohio, David C. Greer,
+BIESER, GREER & LANDIS, Dayton, Ohio, for Appellees.
+Eric D. Mi ller, UNITED STATES DEPARTMENT OF
+JUSTICE, Washington, D.C., A. Stephen Hut, Jr., Kimberly
+A. Parker, WIL MER, CUTLER & PI CKERING,
+Washington, D.C., Jennifer Dalven, AM ERICAN CIVIL
+LIBERTIES UNION FOUNDATION, New York, New York,
+for Amici Curiae.
+RYAN, J., delivered the opinion of the co urt, in which
+BATCHELDER, J., jo ined.  TARNOW, D. J. (pp. 30-54),
+delivered a separate dissenting opinion.
+_________________
+OPINION
+_________________
+RYAN, Circuit Judge.  For the second time in six years, we
+must decide whether an Ohio statute that restricts partial birth
+abortions violates the Fourteenth Amendment of the United
+
+--- PDF page 2 ---
+No. 01-4124 Women’s Med. Prof’l, et al. v. Taft, et al. 3
+States Constitution.  In Women’s Med. Prof’l Corp. v.
+Voinovich, 130 F.3d 187 (6th Cir. 1997), we held, inter alia,
+that Ohio’s firs t attempt to restrict partial birth abortions
+violated the Four teenth Amendment because it imposed an
+“undue burden” on “a woman ’s right to choose to have an
+abortion.”  Id. at 200-03.  
+The plaintiffs claim that Ohio’s new partial birth abortion
+statute, Ohio Rev. Code Ann. § 2919.15.1 (Anderson 2002)
+(the Act), is likewise unconstitutional, because:  (1) it does
+not contain an adequate health exception; and (2) it imposes
+an “undue b urden” upon a woma n seeking to abort a  non -
+viable fetus, in t hat the description of the banned abortion
+method encompasses the conce dedly lawful dilation and
+evacuation (D & E) abortion procedure.  
+As set forth in detail below, we reject both claims, and hold
+that Ohio’s new statute does not violate the Constitution in
+any respect.  We shall t herefore reverse the district court’s
+judgment.  
+I.
+INTRODUCTION
+After our decision in Voinovich, Ohio’s General Assembly
+enacted the present statute, Ohio Rev. Code Ann. § 2919.15.1
+(the Act).  The Act restricts partial birth abor tions, but it
+differs significantly from the law struck down in Voinovich in
+that the Act sp ecifically e xcludes th e “dilation and
+evacuation” (D & E) method from its reach.  Ohio Rev. Code
+Ann. § 2919.15.1(F).  Th e Act als o contain s a “hea lth
+exception” which permits the partial birth abortion method
+before and afte r viabilit y, w hen nec essary to prote ct the
+mother’s health.  Ohio Rev. Code Ann. § 2919.15.1(B), (C).
+Shortly before the Act’s effective  date, the United States
+Supreme Court decided  Stenberg v. Carhart, 530 U.S. 914
+(2000), a case concerning the constitutionality of a Nebraska
+4 Women’s Med. Prof’l, et al. v. Taft, et al. No. 01-4124
+law that banned a ll part ial birth abortions before and after
+viability.  The Court held the law u nconstitutional on two
+grounds.  First, Nebraska’s ban lacked a “ health exception”
+that would permit doctors to perform the banned abortion
+method when necessary to protect the mother’s health.  Id. at
+937-38.  Second, Nebraska’s ban imposed an “undue burden”
+on the abortion right by restricting the commonly performed
+dilation and evacuation (D & E) method of abortion.  Id. at
+938-40.  
+Almost immediately after  Carhart was decided, the
+plaintiffs who prevailed in Voinovich brought a facial
+challenge to the constitutionality of the present statute.  They
+challenged the Act on several grounds , the principal claims
+being:  (1) the A ct’s hea lth excepti on is const itutionally
+inadequate, and (2) the Act imposes an “undue burden” on the
+abortion right by restricting the commonly performed dilation
+and evacuation (D & E) abortion method.  The district court
+agreed with the plaintiffs’ first claim and held that the Act’s
+health exception was constitutionally ina dequate.  In the
+district court’s view, Carhart requires states to  permit a
+partial birth abortion whenever a physician believes it to be
+“simply the safest” available procedure.  On the basis of this
+reading of Carhart, the district court invalidated the Act and
+entered a permanent injunction against its enforcement.  The
+district court declined to address the plaintiffs’ undue burden
+claim at the permanent injunction stage, but both parties urge
+us to reach that issue on appeal.  
+For t he reas ons set forth below, we hold that the Act
+conforms in all respects to the requirements of the Fourteenth
+Amendment in the abo rtion leg islation c ontext, as th ose
+requirements were announced in Planned Parenthood v.
+Casey, 505 U.S. 833  (1992) , and subs equently applied i n
+Stenberg v . Carhart , 530 U.S. 914 (2000).  We therefore
+REVERSE the district court’s judgment and VACATE the
+injunction preventing enforcement of the Act.  
+
+--- PDF page 3 ---
+No. 01-4124 Women’s Med. Prof’l, et al. v. Taft, et al. 5
+II.  FACTUAL BACKGROUND
+A.  Parties
+The plaintiffs are the W omen’s Medical Professional
+Corporation (WMPC), an Ohio corpora tion providing
+abortion service s in  Ohio , and Dr. Martin Haskell, the
+physician who ow ns and operates WMPC.  They per form
+procedures prohibited by the Act and fear civil and criminal
+liability as a result.  The defendants are various officers of the
+State of Ohio sued in their official capacities.  
+B.  Late Term Abortion Procedures
+A clear u nderstanding of  our reso lution of th e is sues
+presented requires an equally  clear understanding of two
+procedures used to put to death fetuses that have advanced to
+the later sta ges of t he secon d trime ster of the mother’s
+pregnancy.  The labe ls we use to descr ibe eac h of these
+procedures, whil e not perf ectly precise , have a  gener ally
+understood meaning, regularly relied upon by courts, litigants,
+medical experts, and legislatures operating in this field of law.
+And we reject the efforts by the parties and amici to fortify
+their arguments by the use of labels and descriptive language
+obviously employed for revulsive or obfuscating effect.  
+1.  Dilation and evacuation – D & E
+As performed late in the second trimester, the abortion
+procedure commonly referred to as dilation and evacuation,
+or “D & E,” begins with dilation of a woman’s ce rvix.
+Carhart, 530 U.S. at 925; Women’s Med. Prof’l Corp. v. Taft,
+162 F. Supp. 2d 929, 946 (S.D. Oh. 2 001).  Once sufficient
+dilation is achieved, the physician reaches into the woman’s
+uterus with an instrument, g rasps an extremity of the fe tus,
+and pulls.  Carhart, 530 U.S. at 925-26; Women’s Med., 162
+F. Supp. 2d at 946.  When the fetus lodges in the cervix, the
+traction between the grasping instrument and the  ce rvix
+causes dismemberment and eventual death, a lthough death
+6 Women’s Med. Prof’l, et al. v. Taft, et al. No. 01-4124
+may occur prior to dismemberment.  See Carhart, 530 U.S. at
+925-26; Women’s Med., 162 F. Supp. 2d at 946.  The process
+continues until the entire dead fetus has been removed, piece-
+by-piece, from the woman’s uterus.  
+ 2.  Dilation and extraction – D & X
+In the ab ortion procedure now widely  known as partial
+birth abortion and also commonly referred to as dilation and
+extraction, or “D & X,” and sometimes called “intact D & E”
+or “intact D & X,” see Carhart, 530 U.S. at 927-28; ACOG
+Statement of Policy (1997), the physician removes the dead
+fetus wh ole and “‘intact,’ i.e., in one pa ss, rathe r than in
+several passes.”  Carhart, 530 U.S. at 92 7.  Dr . Haskel l
+claims to have coined the c linical term “dilation and
+extraction” in 1992 in order to distinguish the intact abortion
+procedure from the more common “dismemberment-type D
+& E” abortion method.  
+The physician initiates the D & X or partial birth abortion
+procedure by  dilating a woman’s cervix, but to a greater
+degree than in the traditional D & E procedure.  Women’s
+Med., 162 F. Supp. 2d at 946.  Once t he physician achieves
+sufficient dilation, the manner in which the abortion proceeds
+depends upon the presentation of the fetus.  Although some
+doctors take the fetus as it presents, Dr. Haskell maneuvers
+the fetus to a feet-first position (breech presentation) before
+proceeding.  Carhart, at 927-28; Women’s Med., 162 F. Supp.
+2d a t 946.  I n a bree ch extrac tion, the p hysician pa rtially
+delivers the fetus through the mot her’s cervix up to a point
+that allows the physician to access the fetus’s head, which is
+inside the mother, while stabilizing the fetus’s body, which is
+outside the mother.  Then, in order to collapse the fetus’s
+skull (so that it will pass ea sily th rough the cervix), the
+physician “forces a pair of scissors into the base of the skull,
+enlarges the opening and eva cuates the contents with a
+suction catheter.”  Women’s Med., 162 F. Supp. 2d at 946.
+The abortion concludes with the removal, in a single pass, of
+the fetus’s intact, dead body.  Carhart, 530 U.S. at 927.  If the
+
+--- PDF page 4 ---
+No. 01-4124 Women’s Med. Prof’l, et al. v. Taft, et al. 7
+fetus presents head first (a cephalic presentation), the doctor
+first collapses the fetus’s exposed skull by “breac hing and
+compressing the [head ] with th e forceps’ jaws, inserting a
+finger . . . , or piercing the [ head] with a  sharp ins trument,
+such as a tenaculum or a l arge-bore needle .”  W. Mart in
+Haskell, MD, et al. , Surgical A bortion Aft er the Fir st
+Trimester, in A Clinician’s Guide to Medical and Surgical
+Abortion, 135 (Maureen Paul, MD, et al., eds. 1999).  The
+doctor then suctions out the fetus’s skull co ntents, if
+necessary, id., and completes the delivery of the fetus from
+the mother’s  body, whole an d intact,  in a sing le pass.
+Carhart, 530 U.S. at 927.  
+We now turn to an examination of the Ohio statute.  
+C.  Statutory Provisions – Ohio Rev. Code Ann.
+§ 2919.15.1
+The Act makes it a second-degree  felony to commit the
+crime of “partial birth feticide.”  Ohio Rev. Code Ann.
+§ 2919.15.1(D).  A person commits partial birth feticide by
+violating either Ohio Rev. Code Ann. § 2919.15.1(B), which
+applies after v iability, or Ohio Rev. Code Ann.
+§ 2919.15. 1(C), which ap plies bef ore viab ility.  Both
+provisions use identical language to identify the crime:  
+When the fetus that is the subject of the procedure is [or
+“is not”] viable,  n o person s hall knowingly perform a
+partial birth procedure on a pregna nt woman when the
+procedure is not necessary , i n reasonable medical
+judgment, to preserve the life or health of the mother as
+a result of the mother’s life or health being endangered
+by a serious risk of the substantial and irre versible
+impairment of a major bodily function.  
+Ohio Rev. Code Ann. § 2919.15.1(B), (C).  
+8 Women’s Med. Prof’l, et al. v. Taft, et al. No. 01-4124
+The Act defines “partial birth procedure” as “the medical
+procedure that includes al l of the fo llowing e lements in
+sequence”:  
+(a) Intentional di lation of the cervix of a pregnant
+woman, usually over a sequence of days;
+(b) In a breech presentation, intentional extraction of
+at least the lower torso to the nave l, but not the entire
+body, of an intact fetus from the body of the mother, or
+in a cephalic presentation, intentional extraction o f a t
+least the complete head, but not  the entire body, of  an
+intact fetus from the body of the mother;
+(c) Intentional partial e vacuation of the i ntracranial
+contents of th e fetu s, which procedure the person
+performing the procedure knows will cause the death of
+the fetus, intentional compression of the head of the
+fetus, wh ich p rocedure the person performing  the
+procedure knows will cause t he dea th of the fetus, or
+performance of another intentional act that the person
+performing the procedure knows will cause the death of
+the fetus;
+(d) Completion of the vaginal delivery of the fetus.  
+Ohio Rev. Code Ann. § 2919.15.1(A)(3).  
+In Carhart, 530 U.S. at 937-38, the Cou rt held the
+Nebraska statute unconstitutional, in p art, becau se it
+contained no exception at all to protect the mother’s health.
+In contrast, Ohio’s statute contains a detailed health exception
+that permits the partial birth procedure, both before and after
+viability, when “necessary, in reasonable medical judgment,
+to preserve the life or  health of the mother as a result of the
+mother’s life or health being endangered by a serious risk of
+the substantial and irreversible impairment of a major bodily
+function.”  Ohio Rev. Code Ann. § 2919.1 5.1(B), (C).  The
+Act defines “serious risk of the substantial and irrevers ible
+
+--- PDF page 5 ---
+No. 01-4124 Women’s Med. Prof’l, et al. v. Taft, et al. 9
+impairment of a majo r bodily  function ” to me an “an y
+medically diagnosed condition that so complica tes t he
+pregnancy of the woman as to directly or indirectly cause the
+substantial and irreversible impairmen t of a  major bod ily
+function.”  Ohio Rev. Code Ann. § 2919.15.1(A)(5).
+The Act also identifies three specific abortion procedures
+that remain legal:  “the suction curettag e procedure of
+abortion, the suction aspiration procedure of abortion, [and]
+the di lation and  evacuation proc edure of  abortion .”  Ohio
+Rev. Code Ann. § 2919.15.1(F).  According to Ohio Rev.
+Code Ann. § 2919.15.1(A)(1), the “‘[d]ilation and evacuation
+procedure of abortion’ does not include the dilation and
+extraction procedure of abortion.”  Thus, the Act, using the
+clinical term coined by Dr . Haskell, gives clear guidan ce
+about which abortion procedures may be performed without
+restriction.  The Act a lso declares that its prohibition “does
+not apply to any person who performs or attempts to perform
+a legal abortion if the act that causes the death of the fetus is
+performed prior to the fetus being partially born even though
+the death of the fetus occurs after it is partially born.”  Ohio
+Rev. Code Ann. § 2919.15.1(G).  “Partially born” is defined
+to mean “that the portion of the body  of an intact fetus
+described in division (A)(3)(b) of this section has been
+intentionally extracted from the body of the mother.”  Ohio
+Rev. Code Ann. § 2919.15.1(A)(4).  And, as the Act explains,
+“‘[f]rom the body of the mother’ means that the portion of the
+fetus’ body in question is bey ond the mother’ s vagin al
+introitus in a vaginal delivery .”  Ohi o Rev . Code Ann.
+§ 2919.15.1(A)(2).  
+Finally, the Act e xpresses th e legis lature’s purpose .  I n
+summary, the Ohio General As sembly intended “to prevent
+the unnecessary death of fetuses when they are substantially
+outside the body of the mother,” in pursuit of Ohio’s “interest
+in maintaining a strong public po licy a gainst infanticide,
+regardless of the life expectanc y or state of development of
+the child.”  H.B. 351, § 3(A), (B), 123rd Gen. Assem., Reg.
+10 Women’s Med. Prof’l, et al. v. Taft, et al. No. 01-4124
+Sess. (Ohio 2000).  The Act also attempts to “further[] the
+state interest in preventing unnecessary cruelty.” Id. at § 3(D).
+D.  District Court Proceedings
+On July 27, 2000, soon after the Supreme Court’s decision
+in Carhart, the plaintiffs  fil ed a com plaint seek ing a
+temporary restra ining orde r and pre liminary injunction  to
+prevent the defendants from enforcing the Act.  The plaintiffs
+challenged the Act on four grounds:  (1) the Act imposes an
+undue burden by swe eping in D & E abortions per formed
+during the second trimester; (2) the Act’s “health exception”
+is inadequate; (3) the Act lacks adequate scienter standards;
+and (4) the A ct unconstitutionally permits third-party civil
+suits against physicians who violate its terms.  The d istrict
+court issued two  le ngthy rulings, one  at the preliminary
+injunction stage, Women’s Med. Prof’l Corp. v. Taft, 114 F.
+Supp. 2d 664 (S.D. Oh. 2000), and another at the permanent
+injunction stage.  Women’s Med. Prof’l Corp. v. Taft, 162 F.
+Supp. 2d 929 (S.D. Oh. 2001).  
+In its preliminary injunction ruling, the court rejected the
+plaintiffs’ undue burden claim.  Women’s Med., 114 F. Supp.
+2d at 683.  Although the court declined to rule on the issue at
+the permanent injunction stage, Women’s Med., 162 F. Supp.
+2d at 937, both parties urge us to reach this issue on appeal.
+Also, in both rulings, the district court held that the Act’s pre-
+viability health exception was too narrow because it did not
+permit the partial birth procedure “‘to be performed in cases
+where the medical evidence shows that it is simply the safest
+method of abortion.’”  Women’s Med., 162 F. Supp. 2d at 940
+(emphasis added) (quoting Women’s Med., 114 F. Supp. 2d at
+688).  For the same reason, the court struck do wn the Act’s
+post-viability health exception as applied  to  women in
+medical need of a post-viability a bortion.  Women’s Med.,
+162 F. Supp. 2d at 961-62.  Ohio appeals these components
+of the district court’s judgment.  
+
+--- PDF page 6 ---
+No. 01-4124 Women’s Med. Prof’l, et al. v. Taft, et al. 11
+With respect to the plaintiffs’ “scienter” claim, the district
+court concluded that it would be u nconstitutional for an
+abortion law to  impo se str ict l iability regardi ng a
+determination of viabili ty or the app licability of the he alth
+exception.  Women’s Med., 114 F. Supp. 2d at 699; Women’s
+Med., 162 F. Supp. 2d at 936.  Nevertheless, the  cour t
+preserved the Ac t’s co nstitutionality by import ing a
+“recklessness” scienter requirement pursuan t to Ohio law.
+Women’s Med., 114 F. Su pp. 2d at 7 00, 703-04; Women’s
+Med., 162 F. Supp . 2d at 936.   Neither  party appeals this
+aspect of the judgment.  
+Finally, at the permanent injunction stage, the district court
+held that the plaintiffs lacked standing to challenge  the
+constitutionality of the Act’s third-party civil suit provision.
+Women’s Med., 162 F. Supp. 2d at 967.  The plaintiffs do not
+appeal this part of the decision.  
+III.  ANALYSIS
+Our standard of review is that stated in our earlier decision
+in Voinovich, 130 F.3d 187:  
+This court reviews questions of law de novo . . .  .
+While we normally re view questions of fact for cl ear
+error, see Fed. R. Ci v. P. 52, an  appella te court  is to
+conduct an independent review of the recor d when
+constitutional facts are at issue.  
+Id. at 192 (citing Jacobellis v. Ohio, 378 U.S. 184, 190 & n.6
+(1964)).  
+Our analysis begins, as it must, with the Supreme Court’s
+decisions in Casey, 505 U.S. 833, and Carhart, 530 U.S. 914.
+These two cases establish the governing standa rds for the
+“undue burden” and “health exception” issues we must decide
+today.  In Casey, 505 U.S. 833, the Supreme Court evaluated
+the constitutionality of a Pennsylvania statute that imposed a
+variety of r estrictions on abortion.  In an opinion authored
+12 Women’s Med. Prof’l, et al. v. Taft, et al. No. 01-4124
+jointly by Justices O’Connor, Kennedy, and Souter, the Court
+reaffirmed what it called the “essential holding” of Roe v.
+Wade, 410 U.S. 113 (1 973).  Casey, 505 U.S. at 845-46.
+While preserving for women the right to choose an abortion,
+the Court rejected the “rigid trimester” appr oach from Roe
+and replaced it with a constitutional line drawn at viability.
+Id. at 870-74 .  The Cour t h eld tha t a state m ay regula te
+abortion befo re viability as long  as it does not impose an
+“undue burden” on a woman ’s righ t to terminate her
+pregnancy.  Id. at 876.  A state may regulate and even prohibit
+abortion after viability “‘ except where it is neces sary, in
+appropriate medical judgment, for the preservation of the life
+or health of the mother.’”  Id. at 879 (quoting Roe, 410 U.S.
+at 164-65).  
+In Carhart, 530 U.S. 914, a majority of the Supreme Court
+applied Casey’s r equirements to a Nebraska statute that
+attempted to ban par tial birth abortions.  The Court struck
+down Nebras ka’s b an for two reasons:  (1) it lacked a
+maternal health exception, id. at 937-38; and (2) it defined the
+banned procedure so broadly and vaguely that it swept in the
+most common method for performing late term abortions, the
+dilation and evacuation (D & E) procedure, id. at 939-40.  In
+contrast, the statute before us contains a maternal he alth
+exception, defines the banned procedure narrowly, and
+explicitly excludes from its ban the dilation and evacuation
+(D & E) procedure.  We must de cide wheth er the Ac t is
+sufficiently protective and specific to s atisfy constitutional
+requirements.  
+It bears emphasis, as an initial matter, that while we must
+protect the abortion right against unwarranted state intrusion,
+we are  not empowered to ignore or undervalue  the
+governmental interests this statute embod ies.  An essential
+feature of  the joi ntly authored opinion in Casey is the
+reaffirmation of the “substantial state interest in potential life
+throughout pregn ancy.”  505 U.S . at  876.  As Casey
+recognizes, the Court’s prior decisions, beginning with Roe,
+410 U.S. 113, had enforced a rigid frame work that
+
+--- PDF page 7 ---
+No. 01-4124 Women’s Med. Prof’l, et al. v. Taft, et al. 13
+“sometimes contradicted the State’s permissible exercise of
+its powers.”  505 U.S. at 872.  Casey thus attempts to restore
+a balance of interests between women seeking abortions and
+states seeking to regulate abortion s b y r easserting the
+importance of the states’ interests and emphasizing that the
+abortion right is not infringed merely because a law makes it
+“more difficult or more expensive” to exercise.  Id. at 873-74.
+Along sim ilar lines, although Carhart invalidates
+Nebraska’s partial bi rth abortion ban, it does so only afte r
+acknowledging the legitimate relationship between the
+interest in protecting fetal life and the more subtle interests
+motivating the Nebraska legislature’s decision to ban partial
+birth abortion s:  that is , s howing concern for fetal life;
+preventing cruelty to partially born infants; and preserving the
+integrity of the medical profession.  530 U.S. at 930-31.
+Likewise, in this case, Ohio grounds its ban on three interests:
+preventing the u nnecessary death of fetuses when they  are
+substantially outside the mother’s body; maintaining a strong
+public policy against infanticide; and preventing unnecessary
+cruelty.  H.B. 351, § 3, 123rd Gen. Assem., Reg. Sess. (Ohio
+2000).  These interests bea r a striking resemblance to those
+implicitly accepted in Carhart, 530 U.S. at 930-31, and also
+reflect the long-recognized interests in protecting what Roe
+called “potential life,” Roe, 410 U.S. at 154, and showing
+“concern for the life of the unborn,” Casey, 505 U.S. at 869.
+Ohio’s expressio n of these  important  and leg itimate
+interests warrants a measure of defe rence, rather than the
+virtual assumption of unconstitutionality that has led federal
+courts, thus far, to invalidate the efforts of at least 20 states to
+exercise the limited sovereign authority to regulate abortions
+and abortion methods.  O rdinarily, it is only  in legi slation
+properly subject to strict scrutiny that a pre sumption of
+unconstitutionality applies.  Cf. Lac Vieux Desert B and of
+Lake Superior Chippewa Indi ans v. Michigan Gaming
+Control Bd., 276 F.3d 876, 879 (6th Cir.), cert. denied, 536
+U.S. 923 (2002 ); Richland Bookmark, Inc. v.  Nichols, 137
+F.3d 435, 439 (6th Cir. 1998).  Strict scrutiny, of course, no
+14 Women’s Med. Prof’l, et al. v. Taft, et al. No. 01-4124
+longer applies to abortion legislation.  Casey, 505 U.S. at 871-
+77.  Ind eed, even in the less deferential rea lm of strict
+scrutiny, the Supreme Court recently  has shown, in an
+altogether different context to be sure, considerable deference
+to states attempting to balance competing, hi gh-order
+interests.  Cf. Grutter v. Bollinger , 123 S. Ct. 23 25, 2339,
+2346 (2003).  T herefore, while  the Act c annot sta nd if it
+impermissibly infringes on the abortion right, we will not
+assume that it violates the Fourteenth Amendm ent merely
+because it reflects interests in preventing unnecessar y death
+and cruelty to partially born children, ma intaining a strong
+public policy against infanticide, and preserving the integrity
+of the me dical profession.  We tur n now to the  specific
+challenges raised by the plaintiffs.
+A.  Adequacy of Health Exception
+Unlike the Nebraska statute invalidated in Carhart, partly
+because it did not have a health exception , the O hio Act
+contains a detailed health exception that applies both before
+and after viability.  Sections 2919.15.1(B) and (C) permit the
+partial birth pro cedure when it is “ necessary, in reas onable
+medical judgment, to preserve the life or health of the mother
+as a result of the mother’s life or health being endangered by
+a serious risk of the substantial and irreversible impairment of
+a major bodily function.”  Oh io Rev. Code Ann.
+§ 2919.15.1(B), (C).  The Act defines “ser ious risk of the
+substantial and irre versible impairme nt o f a ma jor bodily
+function” to mean “any medically diagnosed condition that so
+complicates the pregnancy  of the woman as to directly or
+indirectly cause the substantial and irreversible impairment of
+a major bodily function.”  Ohio Rev. Code Ann.
+§ 2919.15.1(A)(5).  
+The plaintiffs contend that this exception is constitutionally
+inadequate because, they argue, a valid health exception must
+give physicians the discre tion to us e the  partial b irth
+procedure in any and every circumstance in which a particular
+physician deems the  procedu re pref erable to other r eadily
+
+--- PDF page 8 ---
+No. 01-4124 Women’s Med. Prof’l, et al. v. Taft, et al. 15
+available and more  widely  use d pro cedures, such as the
+dilation and evacuation (D & E) proce dure.  The plaintiffs
+insist that the Constitution bars Ohio from enacting a health
+exception that permits the partial birth procedure only when
+necessary to prevent “seriou s risk[s]” inv olving “medically
+diagnosed c ondition[s]” that complicate a woman’s
+pregnancy.  Ohio Rev. Code Ann. § 2919.15.1(A)(5).  In the
+plaintiffs’ view, to  sati sfy the Four teenth Amendment, a
+health exception must make the partial birth abortion method
+available whenever any  physician deems it “simply  safer”
+than using alternative methods.  Ohio respon ds that a valid
+health exception need only permit the partial birth procedure
+when necessa ry to preve nt signif icant, a s opposed  to
+negligible, health risks, and that its maternal health exception
+meets and ex ceeds this standard.  We agree, and the refore
+hold that Ohio’s maternal health exception is valid because it
+permits the partial birth procedure when necessary to prevent
+significant health risks.  The Fourteenth Amendment, as
+applied in Casey and Carhart, requires nothing more.  
+As w e have said, in Casey, 505 U.S. 8 33, the Sup reme
+Court evaluated the constitutionality of a Pennsylvania statute
+that imposed a variety of restrictions on abortion.  The Court
+preserved the right to choose an abortion but rej ected the
+“rigid trimester” approach from Roe and re placed it with a
+constitutional line drawn at viability.  Id. at 870-74.  Before
+viability, the Court held, a state may regulate abortion as long
+as it does not impose an “undue burden” on a woman’s right
+to terminate her pregnancy.  Id. at 876.  After viability, a state
+may regulate and even prohibit abortion “‘except where it is
+necessary, in appropriate medical judgment, for the
+preservation of the life or health of the mother.’”  Id. at 879
+(quoting Roe, 410 U.S. at 164-65).  
+According to Casey, an “undue burden” exists when “a
+state regulat ion h as the  purpo se or ef fect of  placi ng a
+substantial obstacle  in th e path of a woman seeking an
+abortion of a nonviab le fetus.”  505 U.S.  at 877 (e mphasis
+added).  The Court applied its “undue burden” standard to the
+16 Women’s Med. Prof’l, et al. v. Taft, et al. No. 01-4124
+Pennsylvania statute, beginning with the provision that
+exempted wom en from compliance with the various
+regulations in the event of a “medical emergency.”  Id. at 879-
+80.  Pennsylvania defined a “medical emergency” as:  
+that condition which, on the basis of the physician’s
+good faith clinical judgment, so complicates the medical
+condition of a pre gnant w oman as to  necessi tate th e
+immediate abortion of her pregnancy to avert her death
+or for which a delay will create serious risk of substantial
+and irreversible impairment of a major bodily function.
+Id. at 879 (internal quotation marks and citation omitted).  
+The plaintiffs in Casey challenged this definition as being
+too narrow, because “it foreclose s the possibility of an
+immediate abortion despite some significant health risks.”  Id.
+at 880.  Thus, the pertinent interpretive question in Casey was
+whether the definition of “medical emergency” encompassed
+certain specified “conditions [that] could lead to an illnes s
+with substantial and irreversible consequences.”  Id.  These
+“conditions” included physical, pregnancy-related conditions
+such as preeclampsia, inevitable abortion, and premature
+ruptured membrane.  Id.  The Court focused on the fact that,
+at the appellate level, the Third Circuit had construed the term
+“serious  risk” to mean “‘that compl iance w ith
+[Pennsylvania’s] abortion regulations would not in any way
+pose a significant threat to the life or health of a woman.’”  Id.
+(quoting Planned Parenthood v. Casey , 947 F.2d 682, 701
+(3d Cir. 1991)).  Based on this narrowi ng construction, the
+Court held that “the medical emergency definition imposes no
+undue burden on a woman’s abortion right.”  Casey, 505 U.S.
+at 880.  The Third Circuit also had expressed its view that the
+wording of Pennsylvania’s medical emergency exception was
+“carefully chosen to prevent negligible risks to life or health
+or s ignificant risks o f only transient health p roblems from
+serving as an excuse for noncomplian ce.”  Planned
+Parenthood v. Casey, 947 F.2d at 701 (3d Cir. 1991).
+
+--- PDF page 9 ---
+No. 01-4124 Women’s Med. Prof’l, et al. v. Taft, et al. 17
+In Carhart, 530 U.S. 914, th e Court applied Casey to
+Nebraska’s attempted ban of the partial birth abortion method.
+The majority opinion, by  Justice Breyer , held t he law
+unconstitutional for two reasons.  First, the law contained no
+maternal health exception at all.  Id. at 930-38.  Second, the
+law’s definition of “partial birth abortion” encompassed the
+widely used D & E metho d as w ell as D & X, thereby
+imposing an undue burden on a woman’s pre-viability  right
+to choose an abortion.  Id. at 938-46.  
+Carhart’s first holding, of primary significance here, is that
+a statute banning D & X “must contain a health  exception”
+because “a statute that altogether forbi ds D  & X cre ates a
+significant health risk.”   Id. at 938.  Ne braska s ought to
+persuade the Court t hat its omis sion of a m aternal health
+exception did not render the ban unconstitutional because a
+partial birth abortion is never necessary to protect a woman’s
+health.  Id. at 931-32.  Nebraska faced a difficult task on this
+point, as its burden was “to demonstrate that banning D & X
+without a health exception may not cr eate significant heath
+risks for women.”  Id. at 932.  Th e Cou rt concluded that
+Nebraska failed to  carry that burden.  Id. at 937-38 .  Thus,
+based on the “medically related evidentiary circumstances” in
+the case, id. at 937, the Court rejected Nebraska ’s abso lute
+claim tha t D & X i s never safer  than other abortion
+procedures.  
+The case before us involve s a diffe rent type of abs olute
+position, taken not by the s tate but by phy sicians who
+routinely perform the restricted procedure.  They urge us to
+endorse their view that D & X is always safer  than other
+methods used  during the late second trimester.  Stated
+differently, the plaintiffs believe that a health exception, to be
+constitutional, must give physicians c omplete fre edom to
+perform abortions using the D & X procedure whenever they
+wish to do so.  We disagree.  
+Taken together, Casey and Carhart stand for the
+proposition that states may restric t an abortion procedure
+18 Women’s Med. Prof’l, et al. v. Taft, et al. No. 01-4124
+except when the  procedu re is necessary to preve nt a
+significant health risk.  Casey specifically e ndorses a
+“medical emergency ” e xception that, based on the Third
+Circuit’s narrowing construction, excused compliance with
+the various r egulations in any  si tuation i nvolving a
+“‘significant threat to the life or health of a woman.’”  505
+U.S. at 880 (citation omitted).  Carhart, in requiring a health
+exception without identifying its specific c ontent, relies
+heavily on medical ev idence an d lowe r court  findi ngs
+indicating that D & X might be “significantly safer in certain
+circumstances,” 530 U.S. at 934 (emphasis omitted), that D &
+X “significantly  ob viates health risks in certain
+circumstances,” id. at 936, that a complete D & X ban would
+“create significant health risks,” id. at 932, and that “a statute
+that altogether  fo rbids D &  X crea tes a sig nificant health
+risk,” id. at 938.  In our view,  the  Court doe s not use th is
+terminology loosely; rather, this lang uage demonstrates the
+Court’s attentive ness to th e limited number of situations
+involving a  re al medical need for D & X.  We cannot
+conclude that the Court meant by this to require that a state’s
+health exception  recog nize marg inal or in significant risks
+generalized to the entire population of w omen seeking late
+second-trimester abortions.  
+Our holding finds further support  in th e familiar phrase,
+“necessary, in  appropriate medical judgment, for the
+preservation of the life or health of the mother,” recited first
+in Roe, 410 U.S. at 164-65, retained in Casey, 505 U.S. at
+879, and relied on in Carhart, 530 U.S . at 931.  Alt hough
+Carhart cautions that the term “necessary” does not “refer to
+an absolute necessity or to absolute proof,” 530 U.S. at 937,
+the word cannot be emptied entirely of its distinctive meaning
+by being equated with “desirable.”  As used in Roe, 410 U.S.
+at 164-65, and developed in Carhart, 530 U.S. at 93 7, it a t
+least denotes some m easure of  co mpulsion; a  “n ecessary”
+medical procedu re sure ly is  not t he same thing as an
+“optional” or “preferable” one.  In our view, the “significant
+risk” threshold captures this distinction without violating
+Carhart’s admonition against unrealistic standards of proof.
+
+--- PDF page 10 ---
+No. 01-4124 Women’s Med. Prof’l, et al. v. Taft, et al. 19
+Additionally, merely as a “straightforward application” of
+Casey, id. at 938, Carhart  must be understood in light of the
+doctrinal shift wrought by Casey.  In adopting the “undue
+burden” standard in Casey, the Court believed it had found
+“the appropriate means of reconciling the State’s interest with
+the woman’s constitutionally protected liberty.”  Casey, 505
+U.S. at 876.  Before Casey, the Court admitted, its decisions
+had “undervalue[d] the State’s interest in the potential life
+within the woman.”  Id. at 875 .  By  reje cting Roe’s rigid
+trimester framework in favor of the un due burden standard,
+the Court end eavored to protect women from unwarranted
+interference with the abortion right while allowing states to
+express, meaningfully , their “conce rn for the life of the
+unborn,” id. at 869, and even their “preference for normal
+childbirth,” id. at 872 (internal quotation marks and citations
+omitted).  Accordingly, a state’s regulation of abortion before
+viability may not have “ the purpose or effect of placing a
+substantial obstac le i n the path of a woman seeking an
+abortion.”  Id. at 877.  
+While the majority opinion in Carhart does not employ the
+undue burden st andard e xplicitly in connection with the
+health exception  issue, its a nalysis re flects Casey’s
+acknowledgment of the importance of reconciling prof ound
+state interests and personal rights.  For example, in Carhart,
+the Court expla ins that, “[b]y no means must a State grant
+physicians ‘unfettered discretion’ in their selection of abortion
+methods.”  530 U.S. at 938 (citation omitted).  The Court
+assures its dissenting  members that it would not prohibit a
+state “from proscribing an abortion procedur e whenever a
+particular physician deems the procedure preferable.”  Id.  In
+a broader sense, even by  focusing on the need  for a  health
+exception, the Court invites state regulation of abortion
+methods.  If it were otherwise, the Court would have held, in
+a straightforward fashion, that states may not interfere at all
+with medical discretion when abortions are involved.  
+The plaintiffs mistakenly believe that Carhart requires that
+states give physicians unfettered discretion in the choice of
+20 Women’s Med. Prof’l, et al. v. Taft, et al. No. 01-4124
+abortion methods.  For support, they rely heavily on a single
+dictum from Carhart:  “a State may promote but not endanger
+a woman’s health when it regulates the methods of abortion.”
+Id. at 931 (citing Thornburgh v. Am. Col l. of Obstetricians
+and Gynecologists, 476 U.S. 747, 768-69 (1986); Colautti v.
+Franklin, 439 U.S. 379, 400 (1979); Planned Parenthood of
+Central Mo. v. Danforth, 428 U.S. 52, 76-79 (1976); Doe v.
+Bolton, 410 U.S. 179, 197 (1973)).  To the extent one might
+read this phrase as authority for the plaintiffs’ absolute view,
+Carhart’s next paragraph proves that reading to be wrong:  
+The cited cases, reaffirmed in Casey, recognize that a
+State cannot subject women’s health to significant risks
+both in [the context of health threats created by
+pregnancy], and also where state regulations forc e
+women to use riskier methods of abortion.  Our cases
+have repeatedly invalidated statutes that in the process of
+regulating the methods of abortion, imposed significant
+health risks.  They make clear that a risk to a women’s
+[sic] health is the same whether it happens to arise from
+regulating a particular method of abo rtion, or from
+barring abortion  entirely .  Our hold ing does n ot go
+beyond those cases, as ratified in Casey.  
+Carhart, 530 U.S. at 931 (emphasis added and omitted).  Not
+only does this p assage clarify the prec eding dictum, it a lso
+firmly recasts the Court’s previous decisions in t he
+“significant health r isk” mold.   Theref ore, we  think th e
+plaintiffs greatly exaggerate the signific ance of the isolated
+phrase quoted above and ignore Carhart’s self-professed
+limitations.  Most importantly, Carhart cautions that it neither
+extends nor departs from Casey.  Id. at 931, 938.  Moreover,
+because Nebraska made an absolute, negative claim about the
+relative safety of D & X,  the Court n eeded only to satisf y
+itself that the evide nce indic ated tha t a mater nal heal th
+exception might be nece ssary in some circumstanc es.  For
+these reasons, Carhart’s narrow holding regarding the basic
+need for a health exception should not be mistaken for a broad
+decision that would clash with Casey’s express endorsement
+
+--- PDF page 11 ---
+No. 01-4124 Women’s Med. Prof’l, et al. v. Taft, et al. 21
+1The  Ohio statute we are  review ing here  restricts o nly one procedure,
+and  does not purport  to ban  all post- viabili ty abortions.   Hence, contrary
+to the dissent ’s reasoning,  dissent at  Section II.,  our holding in Voinovich
+regarding  the lack of a mental  health exception d oes n ot ap ply.  Ev en if
+it did, a  plaintiff wo uld ha ve to d emo nstrate  that she would suf fer severe
+and  ir rever sibl e ment al h arm f rom bei ng l imited t o a D & E procedu re
+when  she or her  physi cian mi ght pref er a D & X .  The dissent thus
+misunderstands the  issue and overlooks the f act that t here  is no ev idence
+in the rec ord  that such  menta l harm  is even p ossib le, let alon e likely.
+of a health exception triggered only by “‘significant threat[s]
+to the life o r health of a w oman.’”  Casey, 505 U.S. at 880
+(citation omitted).  
+Despite the plain tiffs’ stated fears, our decision does not
+conflict with our earlier holding in Voinovich, 130 F.3d 187.
+In Voinovich, we struc k down, am ong othe r provisio ns,
+Ohio’s post-viability ban of all abortions because the statute
+did not allow a post -viability abortion “where necessary to
+prevent a serious non-temporary threat to a pregnant woman’s
+mental healt h.”  Id. at 209.  To reach this result, we
+distinguished Casey on the ground that it involved regulations
+that merely delayed abortions, not a law that banned abortions
+outright.  Id. at 208.  The plaintiffs contend that the sam e
+distinction applies here, because the Act is a “ba n,” n ot
+simply a “regulation.”1  Apart from the patent superficiality
+of this arg ument, the  plaintiff s fail to a ppreciate tha t we
+limited our  hol ding in Voinovich to “ serious[,] non-
+temporary” and “ severe[,] irreversible” threats to mental
+health.  Id. at 209 (so me emphasis added).  And we  did so
+precisely because  “[t]he State ’s s ubstantial i nterest i n
+potential life must be reco nciled with the woman’s
+constitutional right to protect her own life and health.”  Id. at
+209-10.  Now, in co ntinuing respect for the c onstitutional
+validity of maintaining this difficult balance, we conclude that
+Casey and Carhart require a maternal heath exception that
+permits the banned proce dure wh en necessary to preve nt a
+significant health risk.  
+22 Women’s Med. Prof’l, et al. v. Taft, et al. No. 01-4124
+The question remains whether Ohio’s mate rnal hea lth
+exception achieves what Casey and Carhart require.  Before
+examining the Act’s provisions, we pause to r ecognize our
+duty to “reso rt[]” to “e very reasonable construction . . . in
+order to save a statute from unconstitutionality.”  Edward J.
+DeBartolo Corp. v. Florida Gulf Coast Bl dg. & Constr.
+Trades Council, 485 U.S. 568, 575 (1988) (internal quotation
+marks and citation omitted); see also Frisby v. Schultz, 487
+U.S. 474, 483 (1988); NLRB v. Jones & Laughlin Steel Corp.,
+301 U.S. 1, 30 (1937); Buchman v. Bd. of Educ., 652 N.E.2d
+952, 960 (Ohio  1995).  I n addition , sta tutes restricting
+abortion no longer warrant strict scrutiny, Casey, 505 U.S. at
+871-77,  and th e attendant presumption agains t
+constitutionality.  Moreover, we cannot ignore the difficulty
+of legislating against a backdrop of constitutional standards
+that invite state regulation with one hand while barring it with
+the other.  Co mpounding this  diff iculty in the abortion
+context are the uniqu e rul es gove rning f acial c hallenges,
+under which “even a few” unconstitutional applications may
+doom a state’s attempt to regulate the practice.  Voinovich,
+130 F.3d at 1 96; see also Casey, 505 U.S. at 894-95.  And
+finally, we suffer from  a seri ous institutional disability in a
+case in which vitally important issues turn on medical facts,
+yet the record consists mainly of the conflicting opinions of
+highly interested, even ideologically motivated, experts.  All
+these considerations compel us, if possible, to interpret Ohio’s
+maternal health  exception in a manne r that will  “avoid
+constitutional difficulties.”  Frisby, 487 U.S. at 483.  
+To repeat, the Act permits the partial birth procedure when
+“necessary, in reasonable medical judgment, to preserve the
+life or health of the mother as a result of the mother’s life or
+health being endangered by a serious risk of the substantial
+and irreversible impairment of a major bodily  function. ”
+Ohio Rev. Code Ann. § 2919.15.1(B), (C).  The Act defines
+“serious risk of the substantial and irreversible impairment of
+a major bodily function” to mean “any medically diagnosed
+condition that so complicates the pregnancy of the woman as
+to directly or indirectly cause the substantial and irreversible
+
+--- PDF page 12 ---
+No. 01-4124 Women’s Med. Prof’l, et al. v. Taft, et al. 23
+impairment of a major bodily func tion.”  Ohio Rev. Code
+Ann. § 2919.15.1(A)(5).  
+In our view, this exception allows physicians to perform the
+partial birth procedure whenever the procedure is necessary
+to protect the mother from significant health risks, including
+those which embody compa rative s afety concerns.  To be
+sure, Ohio’s health exception, like other “exceptions ,” does
+not always apply.  Its terms clearly exclude negligible risks,
+trivial complications, and circumstances having nothing to do
+with the health of the particular patient.  Thus, consistent with
+Carhart, 530 U.S. at 938, the exception does not apply when
+the choice of methods is dictated purely by the preference of
+an individual physician.  But when a woman’s actual medical
+condition makes the partial birth procedure necessary to
+prevent a significant health risk, the health exception applies.
+Likewise, the exception is triggered when other procedures,
+relative to the partial birth procedure, would expose a woman
+to significant risks.  Contrary to the dissent’s suggestion, the
+Act does not require a preexisting complication that threatens
+a pregnant woman’s health.  Rather, through i ts use of the
+prospective terms “enda ngered” and “risk,” the Act makes
+clear that the exception a pplies if a pregnant woman’s
+circumstances are suc h that her  phy sician, in  reasona ble
+medical judgment, believes that failure to use the partial birth
+procedure will lead to a complication causing substantial or
+irreversible impairment of a major bodily function.  
+This understanding of the Act’s maternal health exception
+flows naturally from its close r esemblance to the exce ption
+upheld in Casey, 50 5 U.S. at 88 0, and fr om Carhart’s
+admonition that phy sicians a re not entitled to “unfettered
+discretion in their selection of abortion method s,” Carhart,
+530 U.S. at 938 (internal quotation marks and c itation
+omitted).  At the same time, the Act’s health ex ception is
+tethered to the developing state of medical knowledge, giving
+it the flexibility needed to “tolerate responsible differences of
+medical opinion.”  Id. at 937.  Mor eover, because the Act,
+unlike the law struck down in Carhart, evinces an undeniable
+24 Women’s Med. Prof’l, et al. v. Taft, et al. No. 01-4124
+concern for maternal health, we will neither assume that Ohio
+intended to expose women t o sig nificant health risks nor
+strain to read the Act into unconstitutionality when it is our
+duty to do otherwise.  
+In notable contrast to the plaintiffs in Casey, 505 U.S. at
+880, the pla intiffs here do not even attempt to identify  any
+specific me dical circumstance that demonstrates the
+inadequacy of  Oh io’s maternal health exception.  Instead,
+along with amicus American College of Obstetricians and
+Gynecologists, they assert the much broader claim that states
+may not regulate among safe abortion techniques.  However,
+if taken to i ts next log ical step —not even  its l ogical
+“extreme”—this proposition would prevent states  fro m
+restricting a proce dure in w hich a fu lly in tact, near-viable
+infant is delivered alive and then killed, or allowed to expire,
+completely outside the mother.  Indeed, one of the plaintiffs’
+experts, Dr. Cassing Hammond, confirmed at trial that he
+would prefer, if possible, to “remove the fetus totally  intact
+every time and bring about its demise after it had been
+delivered.”  While the plaintiffs may disagree, we believe that
+the Constitution would not prevent a state from regulating
+such a practice when safe alternatives exist.  
+We therefor e hold that the Act’s health exception
+adequately pro tects maternal health.  Because states f ace
+greater constitutional obstacles when regulating abort ion
+before viability, we have  focused our analysis on the Ac t’s
+pre-viability effect.  As the Supreme Court has explained,
+“subsequent to viability, the State in promoting its interest in
+the potentiality of human life may, if it chooses, regulate, and
+even proscribe, abortion except where it is ne cessary, in
+appropriate medical judgment, for the preservation of the life
+or health of the mother.”  Roe, 410 U.S. at 164-65.  Given
+Ohio’s authority to prohibit abortion after viability, we need
+not consider separately  the identically worded h ealth
+exception for post-viability abortions.  Ohio Rev. Code Ann.
+§ 2919.15.1(B).  Our decision to uphold the Act’s mater nal
+
+--- PDF page 13 ---
+No. 01-4124 Women’s Med. Prof’l, et al. v. Taft, et al. 25
+health exception applies with equal force to both components
+of the statute.  
+B.  Definition of “Partial Birth Procedure”
+In its permanent injunction ruling, Women’s Med., 162 F.
+Supp. 2d at 937-38, the district court did not address the issue
+whether the Act imposes an undue burden on the pre-viability
+abortion right by defining the “partial birth procedure” so as
+to sweep  in the com monly used D &  E proce dure.  I n the
+preliminary injunction ruling, however, the district court
+considered the question and held, in Ohio’s favor, that the Act
+does not unduly burden the abortion right.  Women’s Med.,
+114 F. Supp. 2d at 683.  Both parties ask us to reach the issue.
+And so, beca use we op erate h ere with  the bene fit of ful l
+briefing by the parties, a fully developed factual record, and
+a district court ruling, albeit one mad e at the preliminary
+injunction stage, we see no reason to reserve decision.  
+We begin with the statute itself, and then examine the
+plaintiffs’ cla im that its te rms violat e the Fo urteenth
+Amendment.  The Act defines “partial birth procedure ” as
+“the medical procedure that includes all of the following
+elements in sequence”:  
+(a) Intentional dilation of the cervix of a pregnant
+woman, usually over a sequence of days;
+(b) In a breech presentation, intentional extraction of
+at least the lower tor so to t he navel, but not the entire
+body, of an intact fetus from the body of the mother, or
+in a cephalic pre sentation, intentional extraction of at
+least the complete head, but no t the entire body, of  an
+intact fetus from the body of the mother;
+(c) Intentional partial evacuation of the i ntracranial
+contents of the fetus, which procedure the person
+performing the procedure knows will cause the death of
+the fetus, intentional compression of the head of t he
+26 Women’s Med. Prof’l, et al. v. Taft, et al. No. 01-4124
+fetus, which pr ocedure the pers on perfo rming th e
+procedure knows will cause the death of the fetus, or
+performance of another intentional act that the person
+performing the procedure knows will cause the death of
+the fetus;
+(d) Completion of the vaginal delivery of the fetus.  
+Ohio Rev. Code Ann. § 2919.15.1(A)(3).  
+The plaintiff s contend , primari ly, that s ubsection (b)
+renders the description unconstitutional because it includes
+procedures involving “intentional extraction of at l east the
+lower torso to th e navel .”  Ohio Rev. Code Ann.
+§ 2919.15.1(A)(3)(b) (emphasis added).  Ac cording to the
+plaintiffs, many traditional D & E procedures involve intact
+extraction to the navel.  Ohio responds that the Act draws an
+unmistakable distinction between the partial birth procedure
+and the traditional D & E.  The question, then, is whether the
+Act’s description of the partial birth procedure encompasses
+the commonly used D & E procedure and therefore imposes
+an undue burden on a mother’s right to abort a non- viable
+fetus.  
+Carhart’s second holding is that Nebraska’s law i s
+unconstitutional because it coul d apply to the D & E
+procedure, in that its terms prohibit procedures involving the
+delivery of “ ‘a substantial portion’” of a living fetus.  530
+U.S. at 938 (quoting Neb. Rev. Stat. Ann. § 28-326(9) (Supp.
+1999)).  Because, Carhart holds, “a substantial portion” fails
+to distinguish “between D & E (where a foot or arm is drawn
+through the cervix) and D & X (where the body up to the head
+is drawn through the cervix),” Carhart , 530 U.S. at 938-39,
+the law “has the ‘effect of placing a substantial obstacle in the
+path of a woman seeking an abortion of a nonviable fetus,’”
+id. at 938  (quot ing Casey, 505 U.S.  at 877 ).  Thus, the
+vagueness o f the phrase “substantial portion” rendered
+Nebraska’s law susceptible to application against physicians
+performing D & E procedures as well as D & X procedures.
+
+--- PDF page 14 ---
+No. 01-4124 Women’s Med. Prof’l, et al. v. Taft, et al. 27
+The Court notes, however, that Nebraska m ight have fared
+better if its description of the proc edure had “track[ed] the
+medical differences between D & E and D & X,” “provide[d]
+an exception for the performance of D & E and other abortion
+procedures,” or focused o n the distinction between intact
+extraction and dismemberment.  Carhart, 530 U.S. at 939.
+As we shall discuss, infra, the O hio l egislature, with
+remarkable prescience (given that the Ac t was written and
+adopted prior to Carhart), has don e precisely  what the
+Carhart Court thought the Nebraska legislation fatally failed
+to do.  
+Along similar lines, in Voinovich, we invalidated Ohio’s
+previous attempt to ban partial birth abortions on the ground
+that the statute imposed an undue burden by defining D & X
+as “‘the termination of a hu man preg nancy by p urposely
+inserting a suction device into the skull of a fetus to remove
+the brain.’”  13 0 F.3d at 198-201 (quoting Ohio Rev. Code
+Ann. § 2919.15(A) (repealed 2000)).  Althoug h Ohio’s law
+was not vague in this respect, it clea rly failed to distinguish
+between D & E and D & X, since  D &  E procedures
+sometimes require suction removal of a fetus’s skull contents.
+Voinovich, 130 F.3d at 199.  We also pointed out that Ohio’s
+statute excluded the suction curettage and suction aspiration
+procedures, but not the D & E procedure.  Id. at 200.  
+As we have said, in the present statute, the Ohio General
+Assembly avoided the flaws identified in Carhart b y
+precisely describing the r estricted procedure and e xplicitly
+permitting D & E proc edures.  The Act p rovides:  “This
+section does not prohibit the suction curettage procedure of
+abortion, the suction aspiration procedure of abortion, or the
+dilation and evacuation procedure of abortion.”  Ohio Rev.
+Code Ann. § 2919.15.1(F) (emphasis added).  A s eparate
+provision clarifies that the phrase, “‘[d]ilation and evacuation
+procedure of abortion’ does not include the dilation and
+extraction procedure of abortion.”  Ohio Rev. C ode Ann.
+§ 2919.15.1(A)(1).  Thus, even though the Act was drafted
+without the benefit of Carhart’s subsequent observation that
+28 Women’s Med. Prof’l, et al. v. Taft, et al. No. 01-4124
+“it would hav e been a simple mat ter . .  . [f or Nebraska] to
+provide an exception for the performance of D & E and other
+abortion procedures,” 530 U.S. at 939, the O hio G eneral
+Assembly saw the n eed to se cure, by means of  an explicit
+exception, the conti nued ava ilability of tradit ional D &  E
+abortion procedures.  
+Although the plaintiffs criticize the Act’s failure to define
+“dilation and evacuation,” courts have explained repeatedly
+that the principal distinction between D & X and D &  E is
+intactness:  D & X maximizes intactness and D & E requires
+dismemberment prior to removal of the fetus.  See, e.g., id. at
+927, 939; Voinovich, 130 F.3d at 199; Hope Clinic v. Ryan,
+195 F.3d 857, 861 (7th Cir. 1999), vacated, 530 U.S. 1271
+(2000).  T he plaintiffs’ criticism is e ven more remarkable
+because at the preliminary injunction hearing in this case, Dr.
+Haskell confirmed that he actually “coined the term ‘dilation
+and extraction’ or ‘D&X’ to distingui sh it  from the
+dismemberment-type D&E.”  ( Emphasis added.)  F rom its
+inception, then, the label “dilation and extraction,” or “D &
+X,” has been intended to a llow p hysicians, mu ch less
+legislators, to distinguish between intact abortion procedures
+and those procedures that r equire dismemberment prior to
+removal of the fetus.  The Act invokes this well-established
+distinction by excluding D & E in s ection 2919.15.1(F) and
+separating D & X from D & E in section 2919.15 .1(A)(1).
+Accordingly, regardless of whether a  procedure involves
+“intentional extraction of at least the lower torso to the navel,”
+Ohio Rev. Code Ann. § 2919.15.1(A)(3)(b),  it is  not
+prohibited by the Act if it req uires dismemberment of the
+fetus prior to r emoval of the fetal parts “in several passes,”
+Carhart, 530 U.S. at 927.  Moreover, the Act does not
+prohibit all intact abortion procedures.  The sequential
+description contained in section 2919.15.1(3) ensures that the
+law, in the case of a breech presentation, applies only if the
+intentional act cau sing the fetus’s d eath occurs after intact
+extraction to the navel.  In the case of a cephalic presentation,
+there is no question that the Act does not restrict the D & E
+method.  
+
+--- PDF page 15 ---
+No. 01-4124 Women’s Med. Prof’l, et al. v. Taft, et al. 29
+In contrast to the situation in Carhart, 530 U.S. at 940-45,
+Ohio does not urge us to replace a vague, offending, statutory
+phrase like “substantial portion” with a conflicting phrase like
+“body up  to th e head. ”  The Ac t, as writ ten, car efully
+describes the restr icted pr ocedure and explic itly exclu des
+other proced ures; our interpretation gives meaning to the
+restriction and the exclusion.  We therefore have no difficulty
+fulfilling our twin obligations to “give effect, if possible, to
+every clause and word of a statute,” Moskal v. United States,
+498 U.S. 103, 109 -10 (1990) (internal quotation marks and
+citations omitted), and to construe statutes, when possible, so
+as to “avoid constitutional difficulties.”  Frisby, 487 U.S. at
+483.  
+Accordingly, because the Act do es not re strict the  most
+commonly used procedure for second trimester abortions and
+because the statut e provide s an exception for significant
+health risks, we  conclude that it does not impose an undue
+burden on a woman’s right to abort a non-viable fetus.  
+IV.  CONCLUSION
+For the  foregoing reasons, we  REVERSE the district
+court’s judgment and VACATE the permanent injunction
+preventing enforcement of the Act.  
+30 Women’s Med. Prof’l, et al. v. Taft, et al. No. 01-4124
+1The  part ies have a lso aske d the  Court  to det ermi ne whe ther  HB 351
+sweeps  wi thin i ts ban the “D&E” proc edure, thereby placing an undue
+burden  on women who  seek an abortion before the fet us attains viab ility.
+For  the rea sons sta ted b y the distric t court in  its  preli minar y i njun ction
+ruling,  I agree that HB 351 d oes not sweep the  D&E  pro ced ure within  its
+reach.  See Women’s Med.  Prof’ l Corp.  v. Ta ft, 114 F.  Supp. 2d 664, 683-
+85 (S.D. Ohio 2 000).
+2I will use the terms “ intact p rocedur e” and “ intact method”
+interch ange ably,  each s ignifying wha t i s ent ailed b y the  terms “ D&X”
+method,  “int act  D& E” method, as w ell as the  “part ial birt h procedure”
+defined in HB 35 1, Ohio Rev. Cod e Ann. § 2919 .151(A)(3).
+________________
+DISSENT
+________________
+TARNOW, District Jud ge, diss enting.  The Court  must
+determine whether Ohio’ s Substitute House Bill 351
+(“HB 351”) provides a constitutionally adequate exception for
+the health of pregnant women in light of its ba n on int act
+abortion procedures.1, 2 The adequacy of that exception must
+be judged according to the constitutional require ment that
+abortion regulations allow exceptions when  “nec essary, in
+appropriate medical judgment, for the preservation of the life
+or health of the  moth er.”  See Roe v. Wade , 410 U.S. 113,
+164-165 (1973); Planned Parenthood of S.E. Pa. v. C asey,
+505 U.S. 833, 879 (1992). For re asons summarized
+immediately below and discussed in the following sections,
+I conclude th at HB 351 for ces some women to use riskier
+methods of abortion and thus fails to meet this requirement in
+both its pre- and post-viability contexts. See Stenberg v.
+Carhart, 530 U.S. 914, 931 (2000).
+The facial challenge here pr esents two central questions:
+1) What is the c onstitutional s tandard for judging the
+adequacy of a health exception to preserve a woman’s health
+where a particular method of abortion has been banned? and
+
+--- PDF page 16 ---
+No. 01-4124 Women’s Med. Prof’l, et al. v. Taft, et al. 31
+3Thu s, the word “significant,” as in the  phra se “significa nt risk,”
+must  be taken to mean “non-negligi ble.” In fact , “negli gible ris ks” and
+“tri vial  complicat ions, ” see  Major ity Slip O pinio n at 23 , are irrele vant to
+this  case. I will therefore use  and interpret t he word “risk”  to mean “non-
+negligib le risk.” Li kewise, I wi ll us e and  interpr et the wo rd “riskie r” to
+mea n “riskier b y a non -negligib le amo unt.”
+2) Does the  specific  langua ge of th e HB 351 ’s health
+exception comport with this constitutional standard?
+The majority concludes that a ban on the intact method is
+constitutional as long it contains a health exception allowing
+the pr ocedure “ when ne cessary t o prevent significant, as
+opposed to negligible, health risks.” Majority Slip Opinion at
+15.  Further, they conclude that HB 3 51’s health exception
+meets this standard.
+In terms of the degree of risk to be considered, I agree that
+a health exception is not constitutionally require d for truly
+negligible health risks. However, when a state bans a method
+of abortion, it is required to permit an exception whenever a
+woman face s any ri sk to her health that is more than
+negligible.3 See Carhart, 530 U.S. at 931; Casey, 505 U.S. at
+880.
+But more important to this case, as to a relevant source of
+risk, the Supreme Court has instruct ed that “a State cannot
+subject women’s health to signifi cant ris ks . . . whe re state
+regulations force women to use riskier methods of abortion.”
+Carhart, 530 U.S. at 931. Thus, where a woman has a right to
+an abortion , the state  must all ow an except ion for he r to
+receive a banned m ethod of abortion when it offers a non-
+negligible safety advantage over other methods.
+As to w hether H B 351’s h ealth exc eption me ets this
+standard, the major ity offers a construction that is at odds
+with the plain wording of the statute. In fact, HB 351 allows
+an ex ception o nly wh en a w oman is  en dangered by a
+“medically diagnosed condition that . . . complicates the
+32 Women’s Med. Prof’l, et al. v. Taft, et al. No. 01-4124
+pregnancy.” Ohio Rev. C ode Ann. §  2919.151( B) (pos t-
+viability) and (C) (pre-viability ); Ohio Rev. Code An n.
+§ 2919.151(A)(5) (statutory  definition). Thus  it d oes not
+allow the intact procedure for a healthy woman. When the
+fetus has not yet attained viability, a healthy woman, like any
+woman, has a constitutional right to obtain an abortion
+without being forced to use a riskier procedure. See Carhart,
+530 U.S. at 931. Because the record s hows that the intact
+method may entail significantly less risk than other methods,
+HB 351’s pre-viability ban is unconstitutional.
+HB 351’s failure to address comparative health risks
+extends also to women for whom a continuing pregnancy or
+bearing a child would impose a risk of severe and irreversible
+mental harm. As Ohio stated in the pr oceedings below,
+HB 351’s health exception encompasses only  risks to a
+woman’s physical health. This admission comports with the
+language of the health exception re quiring a risk of
+impairment to “a major bodily function.” Ohio Rev. Cod e
+Ann. § 2919.151(B) (post-viability) and (C) (pre-viability );
+Ohio Rev. Code Ann. § 2919.151(A)(5) (statutory definition)
+(emphasis added). However, the Supreme Court has made
+clear that a woman’s mental health must be considered a part
+of her overall health when a state regulates abortion. See Doe
+v. Bolton, 410 U.S. 179, 191-192 (1973). In accord with this
+principle, this Court has stated that a health exception must
+encompass a risk of a serious and irreversible harm to t he
+woman’s mental health. Women’s Med. Prof’l  Corp . v.
+Voinovich, 130 F.3d 187, 209 (6th Cir. 1997), cert. denied,
+523 U.S. 1026 (1998). Under HB 351, a woman facing a risk
+of severe and irreversible harm to her mental health would not
+have access to the intact procedure and would thus be
+compelled to face the greater physical risks that attend other
+methods of abortion. This result violates Carhart’s instruction
+that a woman ma y not be forc ed to use r iskier met hods of
+abortion. See Carhart, 530 U.S. at 931. Because HB 351 fails
+to encompass these risks both before and after fetal viability,
+it is unconstitutional in both contexts.
+
+--- PDF page 17 ---
+No. 01-4124 Women’s Med. Prof’l, et al. v. Taft, et al. 33
+4Mo difyi ng Roe , Casey  held t hat pri or to f etal  viabi lity, a woman  has
+a right  to an  abortion without an “ undue  burden ” from the  state.  505 U.S.
+at 874- 78.  In ad dition, Casey  reaff irmed th e “subs tant ial state intere st in
+potenti al life throug hout pregn ancy. ” Id.  at 876.  These centr al pri nciple s
+also  inform  the disc ussion  of the ad equ acy of H B 3 51’s  health  exception.
+For these re asons, I believe  the distri ct court ’s decis ion
+should be affirmed. Thus, I respectfully dissent.
+I. HB 351’s Pre-Viability Ban is Unconstitutional Because
+It Forces Healthy W omen to Use Ris kier Methods of
+Abortion
+A. The Constitut ion forbid s regulations that force
+women to use riskier methods of abortion
+In Roe, the Supre me Court he ld that “su bsequent to
+viability, the State in promoting its interest in the potentiality
+of human life may, if it chooses, regulate, and even proscribe,
+abortion except where it is necessary, in appropriate medical
+judgment, for the preservation of the life or health of the
+mother.” 410 U.S. at 164-165. 4 That holdi ng has been
+consistently reiterated. See, e.g. , Casey, 505 U.S. at 879;
+Carhart, 530 U.S. at 930. Further, because the State’s interest
+in regulating abortion before fetal viability is much weaker,
+“the law . . . at a minimum requires  the sa me in resp ect to
+previability re gulation.” Carhart, 530 U.S. at 930 (citing
+Casey, 505 U.S. at 880; Harris v. McRae, 448 U.S. 297, 316
+(1980)).
+The meaning  of the cr itical phr ase “ne cessary, i n
+appropriate medical judgment, for the preservation of the life
+or health of the mother” has been clarified by a long line of
+Supreme Court  cases,  inclu ding Carhart, Thornburgh v.
+American College of Obstetricians & Gynecologists, 476 U.S.
+747 (19 86) (overruled in part by Casey , 505 U.S. at 870),
+Colautti v. Frank lin, 439 U.S. 379 (1979), and Planned
+Parenthood of Ce ntral Missouri  v. Danfor th, 428 U.S. 52
+(1976). The case t hat is b oth most re cent and  releva nt is
+34 Women’s Med. Prof’l, et al. v. Taft, et al. No. 01-4124
+Carhart. In striking down a Nebraska statute prohibiting the
+intact procedure without any  exception for the pregna nt
+woman’s health, the C ourt reaff irmed an d explaine d its
+rationale behind the preservation standard.
+[T]he governing standard requires an exception “where
+it is necessary, in appropriate medical judgment for the
+preservation of the life or health of the mother,” for this
+Court has made clear that a State may promote but not
+endanger a woman’s health when it regulates the
+methods of abortion.
+Carhart, 530 U. S. at  931 (c iting Casey, 505 U.S. a t 879;
+Thornburgh, 476 U.S. at 768-769; Colautti, 439 U.S. at 400;
+Danforth, 428 U.S. at 76-79; Doe, 410 U.S. at 197).
+Carhart also reaffirmed that the relevant dang ers to a
+woman’s health a re not limi ted to thos e crea ted b y the
+pregnancy itself.
+[A] State cannot subject women’s health to significant
+risks both [where the pregnancy itself creates a threat to
+health], and also where state regulations force women to
+use riskier methods of abo rtion. Our cases have
+repeatedly invalidated statutes that in the process of
+regulating the methods of abortion, imposed significant
+health risks. They make clear that a risk to a women’s
+[sic] health is the same whether it happens to arise from
+regulating a particular method of abortion, or fr om
+barring abortion entirely.
+Id. at 931 (emphasis in original). It is clear then that where a
+constitutional right to an  abort ion exists, a state may not
+“force women to use riskier methods.” In shor t, t he
+comparative risks between methods  are  of constitutional
+import, just as are risks stemming from a woman’s immediate
+medical condition.
+
+--- PDF page 18 ---
+No. 01-4124 Women’s Med. Prof’l, et al. v. Taft, et al. 35
+5In it s f ocus on  “neg ligibl e ri sks” and “ trivial  compl icat ion s,” see
+Major ity Slip O pinio n at 23 , the ma jority m iscasts the  pla intiffs’
+argum ents  and t he di strict court ’s ruling. Nei ther  cont end that a hea lth
+except ion  must acc ommodate negli gible risk s. The distri ct court  stat es
+“the  plain languag e of HB 351  does not al low the  ‘part ial birt h procedure’
+to be perf ormed whe n it  is  si mply  saf er t han al ternati ve met hods of
+abortion,  and that  is what Carh art  requir es.” Wom en’s Med. P rof’l  Corp.
+v. Taft, 162 F. Supp. 2d 929, 940-41 (2001). The dist ric t cou rt doe s not
+use  the phrase  “simply saf er” in  isol ation to mean  “an iota saf er.” Rather,
+the cour t uses  the wo rd “sim ply” to  mod ify the who le phrase “ safer  than
+alternati ve met hods o f abortion.” As thi s context makes clear,  the court
+refers to t he sou rce of  ris k, n ot t he degr ee of  ris k. I ndeed,  in acco rd with
+the dist rict  court’ s fi ndings about th e co mparativ e safe ty of  the i ntact
+The Court also found that the comparative risks at issue for
+a ban on the intact procedure are not negligible.
+The State fails to demonstrate that ban ning D & X
+without a health exception may not cr eate significant
+health risks for women, because the record shows tha t
+significant medical authority supports the proposition
+that in some circumstances, D & X would be  the safest
+procedure.
+Id. at 932. Thus, the C ourt states that because significant
+medical authority shows the D&X procedure to be the safest
+method in some cir cumstances, banning the p rocedure will
+necessarily create significant health risks for some women.
+This conclusion follows from factual findings accepted by the
+Court regarding the safety advantages of the intact procedure.
+See id. at 932. Moreover, it also follows from the fact that a
+woman who seeks an abo rtion at the relatively late stage of
+fetal development where t he D&X procedure becomes
+relevant will necessarily face significant health risks. In short,
+the serious risk inherent to late term procedures means that
+the safety a dvantages offered by  the intact method are not
+negligible. This fact supports the standard allowing a woman
+to receive the safest procedure , and r enders irrelevant the
+majority’s discussion  o f “marginal or insignificant risks.”
+Majority Slip Opinion at 18.5
+36 Women’s Med. Prof’l, et al. v. Taft, et al. No. 01-4124
+proce dure, this is not a case abo ut negligible risks.  See  id. at 941- 952.
+6In fur ther  supp or t of thi s conclusion, i t should be noted that t he
+Court  found  irreleva nt or un persu asive N ebra ska’s co ntention  that “sa fe
+alte rnati ves  rema in availa ble” d espit e the  ban. See C arha rt, 530 U.S. at
+931-32.  Furt her, t he C ourt  cit ed as r elev ant the concl usion of a  panel  of
+the American Coll ege of Obstet rici ans and Gynecol ogist s that  the i ntact
+procedure  “may be the  best  or most appropri ate procedur e in a par ticu lar
+circums tance  to  save  the l ife or preserv e the he alth  of a woman.”  Id. at
+932.
+Further, given the Supreme Court’s instruction that the
+health preservation standard does no t require an “abso lute
+necessity” for the medical procedure nor does it require
+“unanimity of medical opinion,” health risks may be assessed
+as being si gnificant because “[d]octors often differ in their
+estimation of comparative health risks.” Carhart, 530 U.S. at
+937.
+Where a significant body of medical opinion believes a
+procedure may bring  with it greater safety  for s ome
+patients and explains the medical reasons supporting that
+view, we cannot say that the presence of a different view
+by itself proves the contrary .  R ather, the  uncerta inty
+means a significant likelihood that those who believe that
+D & X is a safer abortion method in certain
+circumstances may turn out to be right.  If so, then the
+absence of a health exce ption will place women at an
+unnecessary risk of tragic health consequences.
+Id.  Thus, in this context wh ere the attendant health risks of
+abortion are already  significant, and d octors r easonably
+disagree as to comparative safety  of available methods, a
+“safer abortion method in c ertain circumstances” will help
+diminish the risk of “tragic health consequences.” With these
+principles and findi ngs, th e Court instructs that the intact
+procedure must be permitted when it may be the  safer
+procedure for the woman.6
+
+--- PDF page 19 ---
+No. 01-4124 Women’s Med. Prof’l, et al. v. Taft, et al. 37
+Carhart’s underlying rationale that “a State may promote
+but not endan ger a w oman's h ealth whe n it reg ulates t he
+methods of abortion” is not dicta, as the majority suggests.
+See Majority Slip Opinion at 20.  This principle in fact lies at
+the core of a line of cases leading up to Carhart. For example,
+in Danforth, the Supreme Court invalidated a ban  on saline
+induction abortions because the record demonstrated its safety
+advantage over other  available methods. The ba n was hel d
+unconstitutional in part because it “force[d] a woman and her
+physician to terminate her pregnancy  by method s more
+dangerous to her health than the method outlawed.” Danforth,
+428 U.S. at 78-79.
+Later, in Thornburgh, the Court examined a Pennsylvania
+law concerning post-viability  abortions that required t he
+physician to choos e an  abortion  procedu re that “ would
+provide the best opportunity for the unborn child to be
+aborted alive” u nless t hat m ethod “w ould pres ent a
+significantly greater medical risk to the life of he alth of the
+pregnant woman” than another available method. 18 P a.
+Cons. Stat. §  3210(b) (1982). The C ourt found t he statute
+unconstitutional because it required the pregnant woman “to
+bear an increas ed medical risk in o rder to s ave her viable
+fetus.” Thornburgh, 476 U.S. at 769.
+Thornburgh’s h olding accords with the Court’s earlier
+decision in Colautti, where the Court expressed its concern
+over a similar provision in Pennsylvania’s Abortion Control
+Act that req uired phy sicians a borting potentia lly v iable
+fetuses to use a technique to maximize the fetus’s chance for
+survival. The Court invalidated the provision on grounds of
+vagueness because it could be read to “require[] the physician
+to make a ‘trade-off’ betwe en the woman's health and
+additional percentage points of fetal survival.” Colautti, 439
+U.S. at 400. Thus, far from being dicta, the principle that “a
+State may promote but not endanger a woman's health when
+it regulates the methods of abor tion” has in fact guided the
+decisions of the Supreme Court for more than twenty years.
+38 Women’s Med. Prof’l, et al. v. Taft, et al. No. 01-4124
+Carhart and its antecedents make clear that when a woman
+holds a constitutional right to obtain an a bortion, the sta te
+may not force her to use riskier methods of abortion. Carhart,
+530 U.S. at 931 . In li ght of th e rights outlined in Roe and
+Casey, therefore, a woman m ust be permitted to choose the
+safest available method when the fetus is not viable and also
+at any time the woman’s health is endangered by a continuing
+pregnancy. This  is th e relev ant me aning of th e Supreme
+Court’s pronouncement that “a State  may promote but not
+endanger a woman’s health when it regulates the methods of
+abortion.” This is what is required in a state’s constitutional
+obligation to ensure the “preservation of the life or health” of
+the woman.
+B. The facts of this  case and ot hers show t hat other
+methods of abortion may be riskier than the intact
+method and that causing fetal demise in advance
+may add significant risk to the intact method
+Given the foregoing constitutional standard, it is necessary
+to consider whether “a significant body of medical opinion
+believes [that the intact procedure] may bring with it greater
+safety for some  patients, and explai ns the med ical reas ons
+supporting that view.”  Carhart, 530 U.S. at 937. This inquiry
+is relevant to HB 351’s pre- and post-viability bans because
+the intact pr ocedure is perfo rmed in  both c ontexts. See
+Women’s Med. Prof’l Corp. v. Taft, 114 F. Supp. 2d at 668
+(granting prelimina ry injunction ). The me dical pr ocesses
+entailed by the common methods of abortion, including their
+risks and benef its, have been extensively de tailed by the
+district court be low and ot hers. See Women’s M ed. Prof’l
+Corp. v. Taft, 162 F. Supp. 2d 929, 941-952 (S.D. Ohio 2001)
+(granting permanent injunction); see also, e.g., Carhart, 530
+U.S. at 932-933, 935-936.
+These sources demonstrate that the intact procedure may in
+fact present numerous safety advantages over other methods.
+See Women’s Med. Prof’l Corp. v. Taft, 162 F. Supp. 2d at
+947, 950 , 951, 954 (finding that the intact method may  be
+
+--- PDF page 20 ---
+No. 01-4124 Women’s Med. Prof’l, et al. v. Taft, et al. 39
+safer than other methods); see also Carhart, 530 U.S. at 932-
+33 (citing numerous cases where the intac t procedure was
+found to be the safest or most appropriate procedure). For the
+purposes here, these safety advantages may be summarized.
+As compared to the D&E method, the district court found
+that the intact method may be safer. See Women’s Med. Prof’l
+Corp. v. Taft, 162 F. Supp. 2d at 949-50. This conclusion was
+based on evidence showing that the intact procedure  may
+have a lower risk of: 1) infection; 2) trauma to the cervix and
+uterus from an increased number of passes of instruments into
+the uterus; and, 3) a  compli cation known as disseminated
+intravascular coagulation (“DIC”), a blood clotting disorder
+that may be fa tal. See id.  at 948, 94 9, 949-50 ; see also
+Danforth, 428 U.S. at 96 (presenting background and risks of
+DIC); Carhart, 530 U.S. at 932 (q uoting district court’s
+finding that D&E helps prevent DIC, which is among the two
+most common causes of maternal death, Carhart v. Stenberg,
+11 F. Supp. 2d 1099, 1126 (D. Neb. 1998), aff’d, 192 F.3d
+1142 (8th Cir. 1999), aff’d, 530 U.S. 914 (2000)). The intact
+procedure may also cause less blood loss and require a shorter
+duration of general anesthesia, which carries its own attendant
+health risks including the risk of death. See Women’s Med.
+Prof’l Corp. v. Taf t, 162 F. Supp. 2d at 948. Fur ther, th e
+intact procedure reduces the possibility of leaving fetal tissue
+inside the uterus. See id.  at 950. The  Court i n Carhart
+similarly noted this danger, citing the complications that may
+arise from remaining bony fragments and retained fetal parts.
+530 U.S. at 932.
+The district court also found the intact procedure to be safer
+than the induction/instillation metho d of abortion. See
+Women’s Med. Prof’l Corp. , 162 F. Supp. 2d at 951. The
+Court heard evidence that induction/instillation may present
+the follo wing co mparative di sadvantages: 1) a protracted
+induction time averaging 19 hours, as compa red to 1 5
+minutes, not inclu ding the dilation period, for the intact
+procedure; 2) the use  of a labo r inducin g agent known to
+cause nausea, vomiting, and diarrhea; 3) an increased risk of
+40 Women’s Med. Prof’l, et al. v. Taft, et al. No. 01-4124
+7Contrary  to t he major ity’s as sert ion , ne ither P laintiffs nor the ir
+expert  doctors make the assertion t hat the intac t proc edu re is “alwa ys
+safer.” Majori ty Sli p Opini on at  17.
+hemorrhage a nd infection; and 4) an additional surgical
+procedure to remove a remaining placenta. See id. at 948,
+949, 950.
+As compared to hysterectomy or hysterotomy, the district
+court noted the obvious  fact  that the intact procedure was
+generally far less  traumati c than th ose major surgical
+procedures. See id. at 942; see also Planned Parenthood of
+Cent. New Jersey v. Farmer , 220 F. 3d 127, 145 (3rd Cir.
+2000) (finding that these procedures have an “enhanced risk
+of morbidity and mortality to the woman due to the incidence
+of hemorrhage” and that hy sterectomy lea ves a woman
+sterile).
+It is clear then that the intact procedure may be significantly
+safer in some circumstances than other available methods of
+abortion.7 Bu t because HB 351 does not in effect ban the
+intact procedure when the delivered fetus is already dead, see
+Ohio Rev. Code Ann. § 2919.151(A)(3)(b) and (c), the safety
+of p rocedures used to cause fetal demise must also be
+examined to determine whether they present non-negligible
+risk. The district court found that ensuring fetal death, both by
+injection of a feticidal agent such as digoxin and by severing
+the umbilical cord, increased the risk to t he wom an. See
+Women’s Med. Prof’l Corp. v. Taft, 162 F. Supp. 2d at 957,
+958.
+As to the digoxin injection, various experts testified at the
+district court that various complications may  arise f rom its
+use, including: 1) amniot ic embolism, which ma y be fatal;
+2) bleeding and injury  to the bowel; 3) piercing  of o ther
+internal structur es such a s blood ves sels and t he uteru s;
+4) arrhythmia possibly leading to ca rdiac arrest for women
+with preexisting cardiac problems; 5) vomiting ; 6) vaginal
+
+--- PDF page 21 ---
+No. 01-4124 Women’s Med. Prof’l, et al. v. Taft, et al. 41
+bleeding; and, 7) other injur y to  th e uterus requiring
+hospitalization. See id. at 956-57; see also Carhart, 530 U.S.
+at 932 (quoti ng distr ict cour t’s findin g that a mniotic
+embolism is the other of the two most common causes of
+maternal death, 11 F. Supp. 2d at 1126). Other courts have
+found similar risks. For example, in Evans v. Kelley, 977 F.
+Supp. 1283 (E.D. Mich. 1997), the court found that
+“injections ha ve serious potential health risks” including
+those of hemorrhage, infection, and uter ine necrosis. Id. at
+1301. The Evans court also found th at many physicians do
+not have the appropriate skills to perform the injection and
+that some women ha ve con ditions that make the injection
+impossible. Id.
+As to severing the umbilical cord, the district court found
+that the passing of sharp instruments into the uterus increases
+the ri sk of uterine perforation as the phy sician locates and
+severs an umbilical cord that does not spontaneously present
+itself. See Women’s Med. Prof’l Corp. v. Taft, 162 F. Supp.
+2d at 957. This finding is consistent with thos e o f other
+courts. See Carhart v. Stenberg, 11 F. Supp. 2d 1099 at 1123
+(“Cutting the umbilical cord and waiting for the fetus to die
+before completing the D & X procedure carries appreciable
+maternal risks, no  ma ternal be nefits, a nd is  no t a lways
+possible.”); Planned Parenthood of Cent. New Jersey v.
+Verniero, 41 F. Supp. 2d 478, 500 (D.N.J. 1998) (finding risk
+of uterine perforation and hemorrhage from passing of sharp
+instruments into the uterus and generally that “[h]ealth risks
+to women would be significantly increased if physicians are
+required to ensure fetal demise in utero”), aff’d, 220 F.3d 127
+(3rd Cir. 2000).
+On these findings, it is clear then that requiring fetal demise
+before completion of the  intact procedure may  present
+additional risks of serious health con sequences f or some
+women.
+42 Women’s Med. Prof’l, et al. v. Taft, et al. No. 01-4124
+C. HB 351 does not allow an exception to its ban on
+the intact procedure when the woman does not
+have a “medically diagnosed condition that . . .
+complicates the pregnancy,” ev en if  the intact
+procedure is safer than other methods
+Given that it is unconstitutional for a state to “force women
+to use riskier methods of abortion” and the fact that the intact
+method may be a safer procedure for some women, it must be
+determined whether HB 351 allows an exception to its ban
+when the intac t procedure is sa fer tha n other a vailable
+procedures. As the following shows, it does not.
+HB 351 permits the “partial birth procedure” only when it
+is “necessary, in reasonable medical judgment, to preserve the
+life or health of the mother as a result of the mother's life or
+health being endangered by a serious risk of the substantial
+and irreversible impairment of a major bodily function.” Ohio
+Rev. Code Ann. §  2919.151(B) (post-viability) and (C) (pre-
+viability).  HB 351 defines the “serious risk of the substantial
+and irreversible impairment of a major b odily function” to
+mean “any medically diagnosed condition that so complicates
+the pregnancy of the woman as to directly or indirectly cause
+the substantial and irreversible impairment of a major bodily
+function.” Ohio Rev. Code Ann. § 2919.151(A)(5).
+Thus, HB 351’s health exception will not apply when a
+woman who seeks the intact method is not endangered by a
+“medically diagno sed con dition that . . . complicates the
+pregnancy.” Id. In limiting its exception to pre-existing
+physical conditions, HB 351  fai ls to contemplate the
+increased risks imposed on a woman by other me thods of
+abortion. No exception would be permitted for a woman who
+is healthy, eve n if the intact  procedure would likely  avert
+highly serious health risks.
+The majority and defendants assert that “the exception is
+triggered when other procedures, relative to the partial birth
+procedure, would expos e a woma n to signi ficant r isks.”
+
+--- PDF page 22 ---
+No. 01-4124 Women’s Med. Prof’l, et al. v. Taft, et al. 43
+Majority Slip Opinion at 23.  However, their reading conflicts
+with the pl ain language of the statute stating that a woman
+may not receive the intact method unless she is endangered by
+a “medically diag nosed condition that . . . complicates the
+pregnancy.” Ohio Rev. Code Ann. § 2919.151(A)(5). Because
+an abortion ends a pregnancy, it is not possible to characterize
+a health consequence of abortion as a “medically diagnosed
+condition that . . . complicates the pregnancy.” This language
+excludes the prospective risks of other methods of abortion,
+thus violating Carhart’s instruction. The majority ignores this
+part of  the statut e and off ers a pla inly unreaso nable
+interpretation of the statute’s clear language.
+As noted in Carhart, the clear stat utory definitio n is
+controlling. See Carhart, 530 U.S. at 9 42 (stating that
+“[w]hen a statute includes an explicit definition, we  m ust
+follow that definition”). Likewise, the Court in Colautti noted
+that “[a]s a rule, a de finition which declares what a term
+means . . . excludes any meaning that is not stated.” 439 U.S.
+at 392-93 n.10 (quotation and citation omitted). Despite our
+duty to attempt to construe statutes to preserve thei r
+constitutionality, see Frisby v. Schultz, 487 U.S. 474, 483
+(1988), s uch is not possible here in light of the statute’s
+unambiguous wording.
+D. HB 351’s pre -viability ban fail s to p rovide a
+constitutionally adequate exception to preserve the
+health of a woman who does not have a medically
+diagnosed condition that complicates the pregnancy
+The foregoing establishes the following:
+1) it is unconst itutional f or a state  to  mai ntain
+regulations that “force women to use riskier methods
+of abortion” when a woman has a constitutional
+right to abortion, viz., 
+a) when the fetus is not viable; and,
+b) whenever a continuing pregna ncy would
+threaten the woman’s life or health;
+44 Women’s Med. Prof’l, et al. v. Taft, et al. No. 01-4124
+8In the post -viabili ty cont ext,  the s tate  may proscr ibe abort ion
+altogether,  except where  the wo man ’s health is thre atene d by a continuing
+preg nanc y. See Roe,  410  U.S . at 164 -165 ; Casey,  505 U.S.  at 879 (199 2).
+Thu s, the s tate  may li mit exc eptions  to cases  where t he wom an has a
+medica lly  d iagnosed c onditi on that  complicat es the  pregnancy , as
+HB  351’s health exception does. In  light o f our d uty to offer  reaso nab le
+statut ory  cons tructions  to preserve constit utionali ty, I  believe that the
+pos t-viability  health  exce ption  may b e read  to ap ply when th e woman has
+a physical conditi on that complicates t he pregna ncy a nd the i ntact
+procedure  would be the safest method of abortion.  In such  a case,
+HB  351’s post -viabili ty ban w ould not v iolat e Carh art ’s prohi bition of
+abort ion  regul ations  that  force women  to use r iski er methods of abortion.
+No netheless,  as discus sed in th e follow ing sectio n, bo th the pr e- and  post-
+viability  bans  are un con stitutional b ecau se the ex cep tion fail s t o app ly
+when  the woma n faces a serious ris k to her mental  hea lth f rom a
+continuing  pregnancy and the  intact procedure  would be the safest method
+of abortion.
+2) substantial medical evidence shows that intact
+procedure may pose a lesser risk to some women;
+3) the common methods of cau sing fetal demise may
+add significant risk to an abortion  proc edure and
+offer no benefit to the pregnant woman; and,
+4) HB 351 does not permit a health exception for the
+intact procedure when it poses less risk to a pregnant
+woman who does not have a medically  diagnosed
+condition that complicates the pregnancy.
+Taken together, these findings and conclusions show that
+HB 351’s pre-viability ban is unconstitutional because it does
+not allow an e xception for a woman who faces heightene d
+risks from other methods but who does not have a medically
+diagnosed condition complicating the pregnancy. In the pre-
+viability context, the exception’s limiting conditions render it
+unconstitutionally narrow.8  HB 351’s pre-viability ban fails
+to offer the protection necessary to ensure the “preservation
+of the life or health” of the pregnant woman and is therefore
+unconstitutional.
+
+--- PDF page 23 ---
+No. 01-4124 Women’s Med. Prof’l, et al. v. Taft, et al. 45
+II. HB 351’s P re- and P ost-viability Bans Are
+Unconstitutional Because They Force Women Facing
+Severe and Irreversible Harm to Their Mental Health
+to Use Riskier Methods of Abortion
+As discussed above, HB 351’s pre-viability  ba n is
+unconstitutional because it forces a woman who does not have
+a “medically diag nosed condition that . . . complicates the
+pregnancy” to use risk ier methods of abor tion. But t here is
+another circumstance in which HB 351 would force a woman
+to use riski er meth ods of abortion, viz. when a continuing
+pregnancy or bearing a child would present a risk of severe
+and irreversible harm to the woman’s mental health.  Because
+HB 351 limits its  exception  to risk s fro m pre-existing
+physical conditions, it fails to allow an exception where the
+risks are to the woman’s mental health. As discussed below,
+this failure renders HB 351 unconstitutional in both its pre-
+and post-viability contexts.
+A. Both th e S upreme Court and this Court have
+recognized that a woman’s mental health must be
+preserved as part of her overall health
+Since th e d ay Roe was decided, the Supreme Court has
+recognized the emotional and psych ological aspects of a
+woman’s overall health. To determine whether an abortion is
+medically “necessary,” the Court in Doe stated that “medical
+judgment may be  exercised in the light of all
+factors—physical, emotional, psychological, familial, and the
+woman's age—relevant to the well- being of the patient. All
+these factors may relate to health.” Doe, 410 U.S. at 191-192
+(emphasis added). Decided on the same day and meant “to be
+read together,” id. at 165 , Doe and Roe indicate  that a
+woman’s mental health, i n addition to her phy sical health,
+must be considered in assessing whether an exception to an
+abortion regulat ion actually pre serves the health of the
+pregnant woman.
+46 Women’s Med. Prof’l, et al. v. Taft, et al. No. 01-4124
+This Court has specifically held so, stating that in the post-
+viability context, a maternal health exception must encompass
+a risk of severe and irreversible harm to the woman’s mental
+health. Voinovich, 130 F.3d at 209-210. The Court stated:
+The State’s substantial interest in potential life must be
+reconciled with the w oman's c onstitutional righ t to
+protect her own life and health.  We believe that in order
+to reconcile these important  interests, the Constitution
+requires that if the  State cho oses to pr oscribe post-
+viability abortions, it must provide a health exception
+that includes situations where a woman is faced with the
+risk of severe psychological or emotional injury which
+may be irreversible.
+Id. at 210. The Voinovich court also found th at the he alth
+exception at  issue there unconstitutionally limited “the
+physician’s discretion to dete rmine whether an a bortion is
+necessary to preserve the woman's health, because it limits the
+physician's consideration to physical health conditions.”  Id.
+(citing Colautti, 439 U.S. at 387). Thus, it must be determined
+whether some w omen face risks of  severe and irre versible
+harm to their m ental health and w hether HB 351’s h ealth
+exception would encompasses such risks.
+B. The facts of this case show that some women face a
+risk of severe and irreversible mental harm from a
+continuing pregnancy or bearing a child
+The record makes clear the factual bases for concern over
+the mental he alth condi tions of some pregnant women.
+Plaintiffs’ psychological expert testified that certain women
+face very significant mental health r isks f rom a continuing
+pregnancy or bearing a child. Women who may face such risk
+include victims of rape, incest, and other kinds of abuse, and
+those with severe emotional disorders such as severe
+depression, obsessive-compulsive disorder, and manic-
+depressive illness. See J.A. at 954, 957-58, 973-77; see also
+Women’s Med. Prof’l Corp. v. Voinovich, 911 F. Supp. 1051,
+
+--- PDF page 24 ---
+No. 01-4124 Women’s Med. Prof’l, et al. v. Taft, et al. 47
+9In granting  a pre liminary in junc tion, t he di strict court  foun d a
+substantial likelihood  that HB  351  was uncon stitutional because  it fail ed
+to enco mpa ss risks of se vere a nd irre versib le harm  to a wo man ’s mental
+health.  See  114 F. Supp.  2d at 696.  In granting the permanent injuncti on,
+however,  the  dis trict c ourt  chose  not  to reach the i ssue conce rning  an
+except ion  for me ntal hea lth risks be cause  the co urt found HB  351 to be
+unco nsti tut ional  in both  the pre - and p ost-viab ility contex ts. See  162 F.
+Supp.  2d at  962 , n.3 1. Nonethel ess,  thi s Court may  aff irm t he dist rict
+cou rt’s  judgment on a ny bas is s upp orted  by the re cord . See  Andrews v.
+Oh io, 104 F.3d 80 3, 808 (6th Cir.1997).
+1078-1081 (S.D. Ohio  1995) (li sting examples of  relevant
+psychological harms), aff’d, 130 F.3d 187 (6th Cir. 1997).
+Thus, althoug h the distr ict cour t did not ma ke detailed
+findings on risks to  menta l health in this case, 9 the record
+clearly shows that some women face very  serious mental
+health risks from a continuing pregnancy. See Voinovich, 130
+F.3d at 192 (“ [A]n appell ate cour t is to condu ct an
+independent review of the record when constitutional facts are
+at issue.”) (citing Jacobellis v. Ohio, 378 U.S. 184, 190 & n.6
+(1964)).
+C. HB 351 does n ot allow an exception to its ban on
+the intact procedure when the woman faces a risk
+of severe and irreversible harm to her m ental
+health, even if the  intact pr ocedure is safer than
+other methods
+HB 351 w ill permit t he intact procedure only when it is
+“necessary, in reasonable medical judgment, to preserve the
+life or health of the mother as a result of the mother's life or
+health being end angered by”  a “medically  diagnosed
+condition that so complicates the pregnancy of the woman as
+to directly or indirectly cause the substantial and irreversible
+impairment of a major bodily func tion.”  Ohio Rev. Cod e
+Ann. § 2919.151(B) ( post-viability) and (C) (pr e-viability),
+incorporating Ohio Rev. Code Ann. § 2919.151(A)(5)
+(statutory de finition). By its pl ain wording, then, the
+48 Women’s Med. Prof’l, et al. v. Taft, et al. No. 01-4124
+10As to the  third conditi on, I assume that s evere  mental health risks,
+lik e physica l health risk s, may b e “me dically d iagno sed”  by a d octo r,
+psychi atrist,  or other mental healt h professional. The first, second, and
+fourth c ond itions ob viously a pply in th is conte xt. 
+11The  relevant provisi on in Voinovich  proscri bed al l post -viability
+abort ions  except  where  “a physici an determines, in good faith and in the
+exercise  of reas ona ble  medical judgment, that t he abo rtion is ne cessa ry to
+prevent  the death o f the  pregnant woman or a serious risk of t he
+substanti al and irreversi ble impairment of a major bodily funct ion of the
+pregnant woman.” Ohio Rev. Co de Ann. 2919 .17(A)(1) (1996 ).
+exception will apply only if all of the following conditions are
+met:
+1) there is a da nger to the pregnant woman’ s life or
+health;
+2) the danger arises from a medica lly diagnos ed
+condition;
+3) the medically diagnosed condition complicates the
+pregnancy;
+4) the complication direct ly or indire ctly causes a
+substantial and irreversible impairment; and,
+5) the impairment is of a major bodily function.
+ As to whether the exception would apply for a woman
+facing a risk of severe and irreversible mental harm, it is clear
+that the first four of the five conditions would be  met. 10
+However, the fifth condition that  the im pairment be of “a
+major bodily function” does not appear to be met when the
+serious risk is purely to the woman’s mental health. Indeed,
+in considering the substantially  similar health exception  in
+Voinovich,11 this Court s tated tha t “[o]n its face, this
+definition appears to be limited to physical hea lth risks, as
+opposed to mental health risks.” Voinovich, 130 F.3d at 206.
+The same is true here. In fact, the defendants have admitted
+
+--- PDF page 25 ---
+No. 01-4124 Women’s Med. Prof’l, et al. v. Taft, et al. 49
+12As in Voinovich , t his adm ission f orecloses  the ar gument t hat
+mental  health is  a compone nt of the “ major bod ily function” of the brai n.
+See  Voinovich , 130 F. 3d at 209 n.20 (citing  A Wo man ’s Choice- East Si de
+Women's Cl inic v. Newman,  671 N .E.2d 104 (Ind.19 96)).
+13In light  of the seri ous physi cal  and ment al harms f or whi ch HB 351
+fails  to accou nt, it cannot be sa id that t his case is  about the mere
+“preference s” of doc tors.  See  Major ity Slip O pinio n at 14 -15.  P laintiffs
+have  not  argued “t hat a health excepti on, to be constitut ional, must gi ve
+physicians  complet e fr eedom to perf orm abort ion s using  th e D & X
+proce dure whe never they wish  to  do so.” Id.  at 17. Pl aint iffs do not se ek
+a standardless exception.
+that the exception is limited to physical health risks. Women’s
+Med. Prof’l Corp . v. Taft , 911 F . Supp. at 9 60. The O hio
+defendants admitted t he same w ith respe ct to  th e highly
+similar provision in Voinovich. 130 F.3d at 206-207.12 Thus,
+the health e xception c annot be u nderstood to encom pass
+mental health risks and conditions, regardless of their nature
+or severity.
+A woman facing a risk of severe  and irrev ersible mental
+harm would not be permitted to receive the intact procedure.
+While the woman would still be able to receive an abortion by
+another method, she would nonetheless be compelled to face
+the comparative risks that HB 351 unconstitutionally fails to
+encompass.  See Dissenting Slip Opinion at 33-45.  Thus, no
+exception would extend to a woman who faces a severe and
+irreversible risk to he r mental h ealth from a continuing
+pregnancy, ev en when the intact procedure would carr y
+significantly less physical risk than other procedures.13
+D. HB 351’s p re- and post-viability bans fail to
+provide a constit utionally ade quate exception to
+preserve the health of a woman who faces a risk of
+severe and irreversible harm to her mental health
+The foregoing establishes that HB 351 is unconstitutional
+because it fails to encompass comparative physical risks and
+risks of severe and irreversible har m to a woman’ s men tal
+50 Women’s Med. Prof’l, et al. v. Taft, et al. No. 01-4124
+health. As the district court stated in granting the preliminary
+injunction:
+Given that a St ate cannot prohibit a woman from
+aborting a viable fetus to preserve her own psychological
+or emotional health, it f ollows naturally from Carhart
+that she cannot be deprived of the safest method of doing
+so. Inde ed, just a s a woman  who is suff ering f rom a
+serious physical health c ondition must be per mitted to
+undergo the safest abortion procedure available, a woman
+who is suffering from a mental health condition of the
+type described by this Court in Voinovich is entitled to no
+less.
+114 F. Supp. 2d at 695-96 (emphasis in original) (fo otnote
+omitted). Further in contravention of Voinovich, HB 351
+admits no discretion to the physician on this issue.  See 130
+F.3d at 210.
+Contrary to the majority’s asser tion, the issue is not
+whether the wom an “w ould suff er seve re and ir reversible
+mental harm from being limited to a D & E procedure when
+she or her physicia n might prefer a D & X.” Majo rity Slip
+Opinion at 21 n.1.  Rather, o nce it is e stablished that a
+continuing pregnancy or bearing a child would pose a risk of
+severe and irreversible mental harm, the issue is whether the
+woman will be permitted to obtain an abortion by the means
+that presents the le ast risk to her physical he alth. Carhart
+requires such an exception, but none is afforded by HB 351.
+In short, HB 351 does not provid e what is e xplicitly
+required by Carhart and Voinovich. Its health exception fails
+to heed the Supreme Court’s longstanding recognition of the
+importance of mental hea lth to  a woman’s overall health.
+Though Voinovich held that a woman’s mental health must be
+considered with respect to a post-viability ban, that holding
+also applies in the pre-viability context because “the law . . .
+at a minimum requires [preservation of the woman’s health]
+in respect to previa bility regulation.” Carhart, 530 U.S. at
+
+--- PDF page 26 ---
+No. 01-4124 Women’s Med. Prof’l, et al. v. Taft, et al. 51
+14The  statut e in Casey  allowed exceptions  to it s regul ations  in cas es
+of “medica l emergenc y,” defined as:
+[t]h at condi tion whi ch, on the basis o f the physician's goo d faith
+clin ical  judg men t, so co mplic ates the m edic al c on dition o f a
+pregnant  woman  as to neces sitate the immedi ate abort ion  of her
+pregnancy  to ave rt her d eath o r for wh ich a d elay will cre ate
+serious  risk of s ubstantial  and irrever sible im pairm ent of a  major
+bodily functi on.
+18 Pa. Co ns. Stat.  § 3203  (1990).
+930. The major ity’s contrary asse rtion is unavailing. See
+Majority Slip Opinion at 21 n.1. Indeed, it would be illogical
+to force a woman–for example, a woman impregnated by rape
+or incest–to wait until the fetus attained vi ability before
+recognizing the risk to her mental health from a continuing
+pregnancy or giving birth. Thu s, in both th e pre- a nd post-
+viability contexts, HB 351 is unconstitutional because i t
+forces women confronting the risk of severe and irreversible
+mental harm to use riskier methods of abortion. See Carhart,
+530 U.S. at 931.
+III. The Health Exc eption Approved in Casey Is
+Constitutionally Inadequate for HB 351 
+In an attempt to save the constitutionality of HB  351, the
+defendants make much of the similarity betwe en the
+provisions of HB 35 1’s heal th exceptio n and the h ealth
+exception to the ge neral a bortion r egulations at issu e in
+Casey.14 In essence, they argue that the health exception must
+be constituti onally adequa te beca use its provisions mirror
+those approved in Casey, as construed broadly by the Third
+Circuit. See 947 F.2d 6 82, 701  (1991). However, Ohio’s
+attempt to import th e provisi ons of Pen nsylvania’s health
+exception into HB 35 1 fails be cause the Ohio la w i s very
+different in nature. As this Court noted in Voinovich, there is
+an important difference between regulations such those as in
+Casey that merely delay abortions and those at issue here and
+in Voinovich that ban some abortions. See 130 F.3d at 208.
+52 Women’s Med. Prof’l, et al. v. Taft, et al. No. 01-4124
+In Casey, one of the main regulations at issue delayed the
+legal provision of an abortion until 24 hours after a woman
+had given her informed consent. 18 Pa. Cons. Stat. § 3205
+(1990). It is obvious that requiring a 24-hour delay imposes
+a far lesser restriction and risk on a woman than a ba n on a
+method of abortion. Unlike the regulations at issue in Casey,
+a ban with an overly narrow health exception does not have
+a mere “incidental effect of increasing the cost or decreasing
+the availability of medical c are.” Casey, 505 U .S. at 874.
+Further, HB 351’s ban is not a “structural mechanism,” id. at
+877, that asks a woman to stop and think about her choice; it
+is a ban  whose narrow exception substantively forecloses a
+woman’s right in some circumstances to receive the type of
+procedure that is safest for her. Unlike HB 351, Casey’s
+regulations did not “force women to use riskier methods of
+abortion.” Carhart, 530 U.S. at 931. Thi s is the crucial
+distinction between the regulations at issue in Casey and the
+regulations in Carhart, where  Court unde rscored its
+longstanding concern regarding state regulations that ban a
+method of abortion: “Our cases have repe atedly invalidated
+statutes that in the process of regulat ing the methods of
+abortion, imposed significant health risks.” Id. (emphasis in
+original).
+Another important distinction between the regulations in
+Casey and Carhart likewise arises from the different
+circumstances in whi ch their respective exceptions might
+become rel evant. In Casey’s relevant context, when a
+woman’s health condition is such that she needs an abortion
+to be performed within only 24 hours of seeking one, her need
+will almost certainly be severe enough to trigger the “medical
+emergency” exception. However, in the unframed context of
+HB 351’s narrowly excepted ban, no passing of time would
+allow the woman to obtain the intact procedure, even though
+it might be  a signif icantly less r isky procedure than other
+available methods.
+This fatal fl aw it self der ives from the forced fit of
+Pennsylvania’s exc eption unto Ohio’s ban of the intact
+
+--- PDF page 27 ---
+No. 01-4124 Women’s Med. Prof’l, et al. v. Taft, et al. 53
+procedure. The health exception in bo th sets of regulations
+would be triggered only by a “condition” that “complicates
+the pregnancy.” For a  general 24-hour waiting period, on e
+may understand the rationale behind the exception’s specific
+requirement that a medically diagnosed condition necessitate,
+in effect, an immediate abortion. However, as imported into
+HB 351, the requirements of Pennsylvania’s health exception
+fail to account for the risks the state may  create when a
+method of abortion is banned. This is unsurprising given that
+Pennsylvania’s exception did not contemplate a ban.
+Finally, it should be noted that the g eneral abortion
+regulations at issue in Casey were os tensibly intended  to
+provide a benefit to the pregnant woman by informing her and
+promoting her considered choice. See Casey, 505 U.S. at 885
+(“[I]mportant decisions will be more informed and deliberate
+if they follow some period of reflection.”). Here, the ban on
+the intact proce dure pro vides no b enefit to  th e wo man. It
+serves only to deny the woman a medical option and violates
+Carhart’s instruction that a state may not “f orce women to
+use riskier methods of abortion.” Carhart, 530 U.S. at 931.
+In sum, Casey’s very different regulatory context makes the
+Pennsylvania health exception an inap posite an d
+unconstitutional fit for HB 351.
+CONCLUSION
+This case is about the health interests of pregnant women
+and the state’s “substantial interest in potential life.” Casey,
+505 U.S. at 876. With its narrowly excepted ban, HB  351
+unconstitutionally compromises the former by forcing women
+to use riskier methods of abortion. In par ticular, HB 351
+imposes significant risks in the pre-viability context by failing
+to permit the intact procedure when it may avert health risks
+for a woman who do es n ot have a medically  diagnosed
+condition that complicates the pregnancy. Further, in both the
+pre- and post-viability contexts, HB 351 imposes significant
+physical risks upon a woman for whom a continuing
+54 Women’s Med. Prof’l, et al. v. Taft, et al. No. 01-4124
+pregnancy or bearing a child would cause ser ious and
+irreversible harm to her mental health.
+HB 351’s pre- and post-viability bans on the intact method
+do not contain a constituti onally adequa te except ion to
+preserve the health of the woman. For the foregoing reasons,
+the judgment of the district court should be affirmed.

@@ -1,0 +1,101 @@
+[
+  {
+    "name": "smith-syllabus",
+    "url": "https://www.law.cornell.edu/supct/html/03-8661.ZS.html",
+    "download_sha256": "1955527cff744abdde2fb440033755fab427a7f4cb3cb7b9b807c3762f0036da",
+    "text_sha256": "aa15f23863f6a93879870689d4386c0d8bc7c0c42cac1d697df48f32bef24f89",
+    "pages": null,
+    "characters": 3947,
+    "status": "saved"
+  },
+  {
+    "name": "smith-court",
+    "url": "https://www.law.cornell.edu/supct/html/03-8661.ZO.html",
+    "download_sha256": "2739327100c841c15ebebb767e4b95035bb7d07e1a546cbe6b1a62db81e8725f",
+    "text_sha256": "0861a9da7a01461eeaf92ad9ba5948ea060e07f90587e631a40f75aab56d8632",
+    "pages": null,
+    "characters": 23452,
+    "status": "saved"
+  },
+  {
+    "name": "smith-dissent",
+    "url": "https://www.law.cornell.edu/supct/html/03-8661.ZD.html",
+    "download_sha256": "c04c4f3aa4899cbf06cc11711a5f4b70b0e2fc8c65adc32b251010427ac93820",
+    "text_sha256": "6f8a4c1d1334117e18e3fe69b0e57a5d0ba8caf1582e55b7c130eab6e507ae72",
+    "pages": null,
+    "characters": 10556,
+    "status": "saved"
+  },
+  {
+    "name": "stewart-syllabus",
+    "url": "https://www.law.cornell.edu/supct/html/03-814.ZS.html",
+    "download_sha256": "e6999ce0ffb7951274b5cb8a222a7dc2e6d1537a546649ab97eacae5b4f03f07",
+    "text_sha256": "31b6a0ef7e7225e7ea23627c64e3a9b68ed92fb7359bc584de7c34d8d457b233",
+    "pages": null,
+    "characters": 6950,
+    "status": "saved"
+  },
+  {
+    "name": "stewart-court",
+    "url": "https://www.law.cornell.edu/supct/html/03-814.ZO.html",
+    "download_sha256": "e517bac5ec6dbd6c5e4046ee168fd1ecbd408236eef36f0c95983faacfeb2acd",
+    "text_sha256": "cdb31cebb49c66fcc7051c4d47cc620f44f8ea055da7ab5025f5c59800691613",
+    "pages": null,
+    "characters": 28353,
+    "status": "saved"
+  },
+  {
+    "name": "smith-official",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep543/usrep543462/usrep543462.pdf",
+    "download_sha256": "5e15267ae20ecd9554e408d18dcf01081d9421367355803e6d65b84afbe142d9",
+    "text_sha256": "7c9778e75eec2709037adab75eddbbe8e46cc244f5a104bd6697f3d555ad1b32",
+    "pages": 19,
+    "characters": 42124,
+    "status": "saved"
+  },
+  {
+    "name": "stewart-official",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep543/usrep543481/usrep543481.pdf",
+    "download_sha256": "0295f28d60394c593fe2fed554362d1b894d77b81b46643ab1add8baf2cd739f",
+    "text_sha256": "74ed36536511a2fb8deb7c25dcc6aaf63eaf9fdb8defc59d06e2c4bcc0de48c1",
+    "pages": 18,
+    "characters": 38662,
+    "status": "saved"
+  },
+  {
+    "name": "gdf-panel-official",
+    "url": "https://www.ca5.uscourts.gov/opinions/pub/01/01-51099.cv0.wpd.pdf",
+    "download_sha256": "9f67f74dc789c1c7380b96e468948d31f35ac7dd1a61825c9b59c2c4d7cd6324",
+    "text_sha256": "d25d97ab08eedc74b159fcefa41facbd94a984d44671312c2237eaebee2d975e",
+    "pages": 48,
+    "characters": 72075,
+    "status": "saved"
+  },
+  {
+    "name": "gdf-rehearing-official",
+    "url": "https://www.ca5.uscourts.gov/opinions/pub/01/01-51099-CV1.wpd.pdf",
+    "download_sha256": "17029df7dfbe313151836a06f7716fdd3e6e00b383476d27aaf65f9f56fd4039",
+    "text_sha256": "02b3bd3648dacb843b00fb023b9ce442eca67666b2ed2606189df6669e07f24b",
+    "pages": 19,
+    "characters": 25871,
+    "status": "saved"
+  },
+  {
+    "name": "taft-official",
+    "url": "https://www.opn.ca6.uscourts.gov/opinions.pdf/03a0446p-06.pdf",
+    "download_sha256": "87037326c3d688d5d79c0aff90ee9eccab111680ff55752403a70b8d35264d8e",
+    "text_sha256": "a3a89ff34dab48f7c0b55a978564243a8f4becc4f12dfda1496863791b85902e",
+    "pages": 27,
+    "characters": 109161,
+    "status": "saved"
+  },
+  {
+    "name": "karaha-official",
+    "url": "https://www.ca5.uscourts.gov/opinions/pub/02/02-20042-CV0.wpd.pdf",
+    "download_sha256": "3943c6417d8f8e39521a6d35fdfd679484c5608d2ac550d77a3abd8f350d2323",
+    "text_sha256": "3450feddf1636228510ef10886c77f3273327575ef4d1649912efc4cc67d7cb7",
+    "pages": 64,
+    "characters": 110034,
+    "status": "saved"
+  }
+]

@@ -1,0 +1,80 @@
+SUPREME COURT OF THE UNITED
+STATES
+SMITH v. MASSACHUSETTS
+CERTIORARI TO THE APPEALS COURT OF
+MASSACHUSETTS
+No. 03—8661.Argued December 1,
+2004–Decided February 22, 2005
+Petitioner was tried before a Massachusetts
+jury on charges related to a shooting, including unlawful
+possession of a firearm.  At the conclusion of the
+prosecution’s case, petitioner moved for a not-guilty
+finding on the firearm count because “the evidence [was]
+insufficient as a matter of law to sustain a conviction,”
+Mass. Rule Crim. Proc. 25(a).  The trial judge granted the
+motion, finding no evidence to support the requirement of the
+unlawful possession count that the firearm have a barrel
+shorter than 16 inches.  The prosecution rested, and the trial
+proceeded on the other counts.	Before closing argument, the
+prosecution argued that under Massachusetts precedent, the
+victim’s testimony that the defendant shot him with a
+“pistol” or “revolver” sufficed to
+establish barrel length.  The judge “reversed” her
+previous ruling, allowing the firearm count to go to the jury.
+The jury convicted petitioner on all counts.  In affirming, the
+Massachusetts Appeals Court held that the Double Jeopardy
+Clause was not implicated because the trial judge’s
+correction of her ruling had not subjected petitioner to a
+second prosecution or proceeding, and held that Rule 25 did not
+prohibit the judge from reconsidering her decision.
+Held:
+1. Submitting
+the firearm count to the jury plainly subjected petitioner to
+further “factfinding proceedings going to guilt or
+innocence,” which are prohibited following a midtrial
+acquittal by the court, Smalis v. Pennsylvania,
+476 U.S. 140, 145.
+The ruling here met the definition of an acquittal
+consistently used in this Court’s double-jeopardy cases.
+In United States v. Martin Linen Supply Co., 430 U.S. 564, this
+Court rejected reasoning identical to the Commonwealth’s
+claim that jeopardy did not terminate midtrial because the
+judge’s determination was legal rather than factual.  How
+Massachusetts characterizes the ruling is not binding on this
+Court.	Smalis, supra, at 144, n. 5.  What matters
+is that, as the Massachusetts Rules authorize, the judge
+“evaluated the [Commonwealth’s] evidence and
+determined that it was legally insufficient to sustain a
+conviction.”  Martin Linen, supra, at 572.
+Pp. 3—6.
+2. The
+Double Jeopardy Clause forbade the judge to reconsider the
+acquittal later in the trial.  While the Clause may permit
+States to create a procedure for reconsidering a midtrial
+determination of insufficiency of proof, Massachusetts had no
+such procedure at the time of petitioner’s trial.	Its
+Rules allowed only clerical errors, or those “arising from
+oversight or omission,” to be corrected at any time.
+Mass. Rule Crim. Proc. 42.  A few Commonwealth cases have
+provided that interlocutory rulings are subject to
+reconsideration, but these cases, without more, do not extend
+that principle to a not-guilty finding under Rule 25, which
+purports not to be interlocutory but to end the case.  A
+seeming dismissal may induce a defendant to present a defense
+to the undismissed charges when he would be better advised to
+stand silent.  The Double Jeopardy Clause cannot be allowed to
+become a potential snare for those who reasonably rely on it.
+If, after a facially unqualified midtrial acquittal on one
+count, the trial has proceeded to the defendant’s
+introduction of evidence on the remaining counts, the acquittal
+must be treated as final, unless the availability of
+reconsideration has been plainly established by pre-existing
+rule or case authority expressly applicable to midtrial rulings
+on the sufficiency of the evidence.  Pp. 6—12.
+58 Mass. App. 166, 788 N. E. 2d 977, reversed
+and remanded.
+Scalia, J., delivered
+the opinion of the Court, in which Stevens, O’Connor,
+Souter, and Thomas, JJ., joined.  Ginsburg, J., filed a
+dissenting opinion, in which Rehnquist, C. J., and Kennedy
+and Breyer, JJ., joined.
