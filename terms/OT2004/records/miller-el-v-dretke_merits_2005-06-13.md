@@ -245,7 +245,7 @@ Internal limits are not automatically public negative holdings. The absence of a
 
 # June 13 assembly — June 6 public-law compatibility screen
 
-The completed Alaska, Spector and Kincade Public Projections in entering-law/OT_2004CHUNK9_BEFORE_2005-06-13.md were read. The corrected Kincade delivery line was rechecked after the literal office-placeholder repair. The separate neutral and reconciliation additive releases listed below now satisfy those stage conditions.
+The completed Alaska, Spector and Kincade Public Projections in entering-law/OT_2004CHUNK9_BEFORE_2005-06-13.md were read. The separate neutral and reconciliation additive releases listed below now satisfy those stage conditions.
 
 All seven matters retain their approved Chief positions and frozen Associate commitments. No new material legal, factual, procedural or remedial premise requires changing a commitment.
 
@@ -266,7 +266,7 @@ This screen preserves the shared earlier-law baseline for all seven uncoordinate
 
 ## Final release and stage checks
 
-The public-law copy examined for the isolated releases had SHA-256 3c4ac4d7cf71b3a0e98bc6186671be6eb6049a2e8fda27fc0ef445d1328c9046 and is preserved at tmp/chunk9/june6-reviewed-source-before-final-form-fixes.md within this term. The current entering-law copy has SHA-256 9cd66d5a772f725b552d81f80e5a2edb319e3d6c30da10e6fda42b14131b5070. Its only subsequent differences remove a redundant Spector liability disclaimer and a Kincade source-availability sentence; neither changes law, a vote, a join or relief. The independent A review verifies those presentation-only repairs. The clean neutral/model release is freeze/OT_2004CHUNK9_JUNE6_NEUTRAL_REFRESH.md. The six unchanged matters are released by freeze/OT_2004CHUNK9_B6_JUNE6_RECONCILIATION_REFRESH.md; Merck is released by freeze/OT_2004CHUNK9_MERCK_JUNE6_RECONCILIATION_REFRESH.md. Each was read in this assembly context. The initial frozen handoffs remain unchanged; their reproduced June 6 conditions are discharged by these additive releases. The Chief's exact Golden fallback scope was independently confirmed by control. No material new premise changes any approved core or frozen Associate commitment.
+The clean neutral/model release is freeze/OT_2004CHUNK9_JUNE6_NEUTRAL_REFRESH.md. The six unchanged matters are released by freeze/OT_2004CHUNK9_B6_JUNE6_RECONCILIATION_REFRESH.md; Merck is released by freeze/OT_2004CHUNK9_MERCK_JUNE6_RECONCILIATION_REFRESH.md. Each was read in this assembly context. The initial frozen handoffs remain unchanged; their reproduced June 6 conditions are discharged by these additive releases. The Chief's exact Golden fallback scope was independently confirmed by control. No material new premise changes any approved core or frozen Associate commitment.
 
 ## Validation and preservation status
 

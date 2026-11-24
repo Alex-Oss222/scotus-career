@@ -179,7 +179,7 @@ No new historical departure is recorded for Thomas. His final position preserves
 
 ## Final qualification verification
 
-Independent review corrected the description of Dicks in Holding II by mechanically copying its complete qualifying phrase from the frozen neutral rule-application supplement. The torture qualification remains attached to the described crime; it is not a separate disjunctive alternative. The actual state findings and eight Associates' narrowing determination are unchanged, as are every judgment and opinion join. Earlier frozen commitment and reconciliation wording remains preserved; the exact neutral source controls this qualification. Final verification is recorded in the chunk validation.
+Under State v. Dicks, the torture qualification remains attached to the described crime; it is not a separate disjunctive alternative.
 
 ## Final Run validation
 
