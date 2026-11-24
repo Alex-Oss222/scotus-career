@@ -4,11 +4,11 @@
 
 The opening authority is the synchronized [Holdings volumes](../../../state/holdings/INDEX.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), and [Standing State](../../../state/STANDING_STATE.md), edition November 22, 2026. All three identify OT2003 as the last completed term and carry this common cutoff: June 30, 2004, after all 119 completed OT2003 Court events and the admitted Rule 53 amendment effective December 1, 2003. The [continuous Holdings view](../../../state/HOLDINGS.md) matches all 23 canonical volumes. These repository trackers govern any inconsistent descriptive reference in the supplied index.
 
-103 scheduled OT2004 Court events in chunks 1–10 are complete through June 27, 2005. The last completed event in assignment order is Van Orden v. Perry. The scheduled matters Gonzalez v. Crosby, McCreary County v. American Civil Liberties Union of Kentucky remain stopped for the controlled-position choices stated below. Their unentered dispositions supply no law. The retained original proceedings remain at their recorded stages. No term-close pass has occurred. Assignment counts include only actual earlier Records, with same-date case names taken alphabetically; an earlier-dated Record written later reopens no completed assignment.
+105 scheduled OT2004 Court events in chunks 1–10 are complete through June 27, 2005. The last completed event in assignment order is Van Orden v. Perry. Gonzalez v. Crosby is decided June 23, 2005, and McCreary County v. American Civil Liberties Union of Kentucky is decided June 27, 2005. The retained original proceedings remain at their recorded stages. No term-close pass has occurred. Assignment counts include only actual earlier Records, with same-date case names taken alphabetically; an earlier-dated Record written later reopens no completed assignment.
 
 Each uncoordinated same-date event used the law effective before that date. The completed same-date groups combine prospectively; their events supply law only to later dates unless an express coordination order provides otherwise. Assignment counts separately include earlier-date Records and preceding same-date case names in alphabetical order; prior assignments remain as made.
 
-The manifest and ledger project 103 completed scheduled Court events, 2 stopped scheduled events and one admitted noncase-law source, section 703 of the American Jobs Creation Act. The three unscheduled originals and the retained Kansas v. Colorado proceedings remain governed by their existing conditions; completing a scheduled event does not invent a later terminal disposition. Opening validation remains at [OPENING_VALIDATION.md](../audit/OPENING_VALIDATION.md).
+The manifest and ledger project 105 completed scheduled Court events and one admitted noncase-law source, section 703 of the American Jobs Creation Act. The three unscheduled originals and the retained Kansas v. Colorado proceedings remain governed by their existing conditions; completing a scheduled event does not invent a later terminal disposition. Opening validation remains at [OPENING_VALIDATION.md](../audit/OPENING_VALIDATION.md).
 
 ## Completed Events and Admitted Sources
 
@@ -127,12 +127,14 @@ The manifest and ledger project 103 completed scheduled Court events, 2 stopped 
 | 2005-06-20 | [Eulitt v. Maine Department of Education; 386 F.3d 344 (First Circuit).](../records/eulitt-v-maine-department-of-education_merits_2005-06-20.md#public-projection) | Affirmed, 9–0; the parents' integrated-tuition equality claim fails and their assertion of the school's separate rights is rejected for lack of hindrance. |
 | 2005-06-20 | [Mid-Con Freight Systems, Inc. v. Michigan Public Service Commission, No. 03-1234.](../records/mid-con-freight-systems-v-michigan-public-service-commission_merits_2005-06-20.md#public-projection) | Affirmed, 7–2; the separate section 478.2(2) fee survives the section 14504 preemption challenge. |
 | 2005-06-23 | [Exxon Mobil Corp. v. Allapattah Services, Inc., No. 04-70; del Rosario Ortega v. Star-Kist Foods, Inc., No. 04-79.](../records/exxon-mobil-v-allapattah-services_merits_2005-06-23.md#public-projection) | No. 04-70 affirmed; No. 04-79 reversed in relevant part and remanded, each 5–4. |
+| 2005-06-23 | [Gonzalez v. Crosby, No. 04-6432; 545 U.S. 524.](../records/gonzalez-v-crosby_merits_2005-06-23.md#public-projection) | Affirmed, 7–2; denial of the Rule 60 motion remains effective, while the motion's classification as a successive application is rejected unanimously. |
 | 2005-06-23 | [Green Party of New York State v. New York State Board of Elections; 389 F.3d 411 (Second Circuit).](../records/green-party-v-new-york-state-board-of-elections_merits_2005-06-23.md#public-projection) | Preliminary protection affirmed and remanded, 7–2. |
 | 2005-06-23 | [Halbert v. Michigan, No. 03-10198.](../records/halbert-v-michigan_merits_2005-06-23.md#public-projection) | Vacated and remanded, 7–2. |
 | 2005-06-23 | [Kelo v. City of New London, No. 04-108.](../records/kelo-v-city-of-new-london_merits_2005-06-23.md#public-projection) | Affirmed, 6–3. |
 | 2005-06-23 | [Mayle v. Felix, No. 04-563.](../records/mayle-v-felix_merits_2005-06-23.md#public-projection) | Reversed in relevant part and remanded, 7–2. |
 | 2005-06-23 | [Orff v. United States, No. 03-1566.](../records/orff-v-united-states_merits_2005-06-23.md#public-projection) | Affirmed on sovereign-immunity grounds, 9–0. |
 | 2005-06-27 | [Bell v. Thompson, No. 04-514.](../records/bell-v-thompson_merits_2005-06-27.md#public-projection) | Reversed and remanded, 5–4; the amended habeas judgment is set aside and the earlier-denial mandate must issue. |
+| 2005-06-27 | [McCreary County v. American Civil Liberties Union of Kentucky, No. 03-1693.](../records/mccreary-county-v-aclu-of-kentucky_merits_2005-06-27.md#public-projection) | Affirmed and remanded, 6–3; preliminary protection sustained on the reviewed record, with prompt assessment of prospective relief after repeal. |
 | 2005-06-27 | [Metro-Goldwyn-Mayer Studios Inc. v. Grokster, Ltd., No. 04-480.](../records/metro-goldwyn-mayer-studios-v-grokster_merits_2005-06-27.md#public-projection) | Vacated and remanded, 9–0. |
 | 2005-06-27 | [National Cable & Telecommunications Association v. Brand X Internet Services, No. 04-277; FCC v. Brand X Internet Services, No. 04-281.](../records/national-cable-telecommunications-association-v-brand-x-internet-services_merits_2005-06-27.md#public-projection) | The common Ninth Circuit judgment is reversed and remanded in both petitions, 5–4. |
 | 2005-06-27 | [Town of Castle Rock v. Gonzales, No. 04-278.](../records/town-of-castle-rock-v-gonzales_merits_2005-06-27.md#public-projection) | Reversed, 6–3; dismissal of the reviewed municipal procedural-due-process theory restored. |
@@ -1849,6 +1851,45 @@ The dealer and family claims present the same statutory problem. Each must have 
 
 Federal courts must identify an independently sufficient original claim, verify citizenship and same-case relatedness, apply subsection (b)'s actual exclusions and then consider any proper subsection (c) ground for declining jurisdiction. An otherwise covered class member or Rule 20 plaintiff may litigate a smaller related claim under that sequence. The pre-enactment separate-amount rules yield only to the extent the later grant reaches the claim.
 
+### 2005-06-23 — [Gonzalez v. Crosby, No. 04-6432; 545 U.S. 524.](../records/gonzalez-v-crosby_merits_2005-06-23.md#public-projection)
+
+##### I. A genuine federal-process motion receives its own Rule 60 assessment
+
+**Holding and operative rule:** In a section 2254 state-custody proceeding, a Rule 60 motion confined to an asserted defect in federal habeas procedure that prevented adjudication of an already pleaded claim is not a second or successive application under 28 U.S.C. §2244(b) merely because reopening could eventually permit custody relief. Courts must examine the relief actually requested: a new custody claim, new factual merits supplement or renewed adjudication of constitutional merits remains subject to the applicable successive-application restrictions, and a mixed filing must have its genuine procedural request separated from those demands.
+
+**Authority:** Part I of the Opinion of the Court, delivered by Chief Justice Stone-Zsela and joined by Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer, controls unanimously. The same nine Justices adopt the independent Rule 60 requirements stated here.
+
+**Controlling explanation:** Abdur'Rahman v. Bell supplies the distinction between correcting federal procedure and renewing an attack on the state conviction. A limitations ruling that prevents consideration of an already pleaded claim performs the same threshold function as the procedural barrier addressed there. Gonzalez challenges that federal ruling alone. The district court therefore may consider his motion without advance appellate authorization under §2244(b).
+
+Florida argues that allowing the motion would circumvent the statutory restrictions because reopening could lead to custody relief. That eventual possibility does not change what the motion asks the federal court to correct. Classification turns on substance and the integrity of the federal proceeding, rather than on the use of the word claim. Calderon v. Thompson concerns reopening a completed merits determination and therefore supplies a different predicate.
+
+Rule 60(b)(6) separately requires extraordinary circumstances and a motion made within a reasonable time. It cannot displace the distinct requirements governing the Rule's other grounds. Applicable certificate requirements also retain their independent conditions, including constitutional and procedural reasonable-debate showings where required. These safeguards preserve finality while allowing genuine federal-process correction. Classification and entitlement to relief remain separate inquiries.
+
+##### II. The complete showing is insufficient for extraordinary relief
+
+**Holding and operative rule:** On the complete showing presented, the intervening procedural interpretation, the absence of an earlier merits hearing, the alleged interruption of ordinary review, Gonzalez's incarceration and self-representation, and his subsequent course of pursuit do not establish extraordinary circumstances under Rule 60(b)(6). Denial is proper even assuming the alleged timely rehearing submission, returned-paper information and resulting misunderstanding of the remaining review opportunity; the decision adopts neither a fixed monthly deadline nor a categorical exclusion of intervening legal changes.
+
+**Authority:** Part II of Chief Justice Stone-Zsela's opinion is joined by O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer. These seven Justices supply the controlling ground for affirmance. Stevens and Souter dissent from this application and remedy.
+
+**Controlling explanation:** Abdur'Rahman requires an independent assessment of timing, ordinary review and the asserted legal development. Artuz v. Bennett clarifies the distinction between state filing conditions and claim-relief bars. Assume for this motion that the original limitations interpretation was mistaken. That later clarification and the lost first merits opportunity are relevant, but they do not by themselves make a final judgment subject to continuing ordinary review.
+
+The Court also assumes that Gonzalez timely attempted rehearing, received the described information with the returned paper, and consequently misunderstood the opportunity for further review. That episode concerns the earlier appellate route. It does not itself explain the separate eight-to-nine-month period between Artuz and the reopening request. Incarceration and self-representation bear on reasonable pursuit, but the complete showing supplies no sufficient connection between the asserted earlier impediment and the later course of pursuit to make this combination extraordinary. Pace v. DiGuglielmo supports assessing an asserted obstacle against the actual period of pursuit; its contextual diligence inquiry is not a numerical cutoff.
+
+The dissent would require a discretionary remand because the categorical successive rule prevented an individualized assessment. But the Court's sufficient ground accepts the disputed account rather than resolving credibility against Gonzalez. The legal clarification, first-merits interest and asserted review episode have all been considered with the later course of pursuit. Their combined weight remains insufficient. A credibility remand therefore cannot change the result on that ground.
+
+#### Precedent treatment
+
+- **Abdur'Rahman v. Bell, 537 U.S. 88 (December 10, 2002):** Applied to the federal limitations barrier. Its substance-based process distinction, separation of mixed filings, independent Rule 60 requirements and separate certificate conditions remain controlling; its case-specific remand does not require remand when denial rests on a sufficient ground accepting the movant's disputed account.
+- **Artuz v. Bennett, 531 U.S. 4:** Retains its distinction between application-filing requirements and claim-relief bars. The procedural clarification is considered in the extraordinary-circumstances inquiry; the original limitations interpretation is assumed mistaken for that inquiry.
+- **Pace v. DiGuglielmo, 544 U.S. 408:** Retains the rule that an unsatisfied genuine filing deadline remains a filing condition despite exceptions. Its reasonable-pursuit analysis supports examining the relation between an asserted obstacle and distinct periods of delay in their actual circumstances.
+- **Calderon v. Thompson, 523 U.S. 538:** Distinguished because recall reopening completed habeas merits differs from correction of a nonmerits federal barrier. Its exceptional completed-merits requirements retain their force in that setting.
+- **Rhines v. Weber, 544 U.S. 269:** Distinguished as governing retention of a timely pending mixed petition. Reopening a final judgment remains subject to Rule 60's independent requirements.
+- **Pliler v. Ford, 542 U.S. 225:** Its protection for proved court-caused loss retains the predicates of causation, reasonable diligence and a lawful effective remedy. The present assumed-account ruling leaves that protection intact.
+
+#### Law after decision
+
+The district court may consider a genuine limitations-only Rule 60 motion without successive-application authorization. Abdur'Rahman's process distinction, separation of mixed filings, independent extraordinary-circumstances and reasonable-time requirements, and applicable certificate conditions continue to govern. Courts assess the complete showing and the actual relation between an asserted interruption of review and later pursuit; a procedural legal change does not automatically reopen a final judgment, and elapsed months alone do not replace that inquiry.
+
 ### 2005-06-23 — [Green Party of New York State v. New York State Board of Elections; 389 F.3d 411 (Second Circuit).](../records/green-party-v-new-york-state-board-of-elections_merits_2005-06-23.md#public-projection)
 
 #### I. The substantial enrollment burden lacks the required regulatory fit
@@ -2022,6 +2063,44 @@ The general availability of exceptional post-certiorari withholding is assumed f
 - Calderon v. Thompson is applied by analogy for finality and state reliance. Its miscarriage-of-justice requirements retain their defined application to actual recalls reopening completed habeas merits; an unissued mandate is a different procedural event.
 
 The Court holds that the asserted exceptional authority to withhold a mandate was abused in the circumstances of this case. The prolonged withholding without notice, expired review endpoints, prior opportunities to present the evidence, limited nature of the proposed correction and the State's justified reliance together establish that abuse. Retained jurisdiction and nonissuance do not justify the course taken here. Rule 41 governs issuance, and the distinct statutory conditions of any further habeas proceeding remain applicable.
+
+### 2005-06-27 — [McCreary County v. American Civil Liberties Union of Kentucky, No. 03-1693.](../records/mccreary-county-v-aclu-of-kentucky_merits_2005-06-27.md#public-projection)
+
+The Court's two holdings receive six complete joins: Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Souter, Ginsburg and Breyer.
+
+#### I. The whole official presentation supports preliminary protection
+
+**Holding and operative rule:** A court evaluating an official religious display must examine its present content, setting and authorization together with relevant official acts showing its function. Government may explain religious history, but a cosmetic revision cannot cure its continuing adoption of religious doctrine; the counties' third arrangements, considered with their documented development and official adoption, sufficiently support the preliminary finding of prohibited sponsorship to sustain the injunction on the record reviewed below.
+
+**Authority:** Part I of the Opinion of the Court controls through the six direct joins stated above.
+
+**Controlling explanation:** Agostini v. Felton makes the actual governmental act and function decisive. Purpose, effects and institutional relationships are evidence within that inquiry. The counties own and authorize these courthouse presentations. Freedom From Religion Foundation v. City of Marshfield requires examination of the public presentation that actually continues when an institution changes its formal arrangements. A genuine change must receive its effect, while a new description cannot settle what government is doing.
+
+The first displays presented the Commandments alone. The counties then adopted religious resolutions and added selected materials containing religious references. Their third arrangements contain nine equally framed documents and a historical explanation. The earlier removal of the translation label and scriptural citation also matters, although it left the Commandments' text intact. These are substantive features to be weighed. Taken with the selective sequence and the resolutions then governing the exhibits' adoption, however, they support the preliminary assessment that the historical format continued the counties' official religious presentation.
+
+The counties and the dissent regard the equal documents and explanatory statements as a sufficient historical transformation. That account gives too little force to the relationship between the actual explanation and the documented official acts adopting this presentation. History illuminates the current act; it does not permanently disable a county from lawful historical instruction. Neither a secular title nor sacred content alone determines the function. The resolutions' later repeal must therefore receive its real effect in the prospective proceedings described in Part II, rather than being treated as proof that the earlier preliminary assessment lacked support.
+
+#### II. Continued relief must account for the actual governmental change
+
+**Holding and operative rule:** When a governmental change bears materially on an enjoined display's continuing function, the district court must promptly assess that change through ordinary modification proceedings while maintaining interim protection confined to the identified presentation. On remand, the court must give the postargument repeal and any supported change in content, setting or official authorization their actual weight, modify or dissolve the injunction if a genuinely lawful historical function is established, and retain effective restraint only to the extent prohibited official adoption continues.
+
+**Authority:** Part II of the Opinion of the Court has the same six direct joins.
+
+**Controlling explanation:** Both county boards repealed their resolutions after argument. The former enactments remain evidence of the presentation reviewed below; they no longer supply operative official commands. Agostini requires the court to assess what government presently does, and Marshfield requires an effective cure to receive its actual legal effect. Repeal is therefore material to continued relief, although its existence alone does not settle the function of the entire presentation.
+
+The injunction remains effective against the identified third arrangements while the district court promptly examines that change under the unified inquiry. The court should use the existing record wherever sufficient and consider supported changes through ordinary procedure. It must permit a genuine lawful cure and fit any continuing restraint to the governmental function actually established. Because the challenged act is an official presentation, effective protection reaches that presentation rather than merely shielding individual viewers. The court must proceed toward final adjudication; the preliminary order cannot become permanent by inertia. The post-repeal application and resulting remedy are factual and remedial work under the resolved standard.
+
+#### Precedent treatment
+
+- Agostini v. Felton is applied: the governmental act and its actual function govern, with purpose, effects and institutional relationships serving as evidence. Its modification of Lemon v. Kurtzman remains controlling rather than the independent-purpose formulation used below.
+- Freedom From Religion Foundation, Inc. v. City of Marshfield is applied to continuing official presentation and effective correction. Its actual-function and cure principles govern; the private ownership and operational-separation remedy of that case remain tied to their own facts.
+- Robinson v. City of Edmond preserves the distinction between historical explanation and governmental religious identification. Its civil-identifier holding does not make all public presentation of religious text unlawful.
+- Stone v. Graham remains authoritative for its school-display setting. Its specific holding is not enlarged into a universal prohibition of historical displays containing the Commandments.
+- Doe v. Porter, Cutter v. Wilkinson and Eulitt v. Maine Department of Education preserve their respective distinctions among official devotion, genuinely secular work and accommodation of private exercise; those distinctions remain part of the governing actual-function inquiry.
+
+#### Law after decision
+
+Official displays are governed by the present governmental act and function, established from the full record of content, setting, authorization and relevant official history. A county may correct its presentation genuinely, and a court must credit that correction while requiring effective protection against any prohibited function that continues. The challenged third arrangements support preliminary protection on the lower-review record. Their prospective treatment after repeal is governed by the same settled rule and the confined-remedy directions in Part II.
 
 ### 2005-06-27 — [Metro-Goldwyn-Mayer Studios Inc. v. Grokster, Ltd., No. 04-480.](../records/metro-goldwyn-mayer-studios-v-grokster_merits_2005-06-27.md#public-projection)
 
@@ -2818,6 +2897,14 @@ The additional-party sentence still performs substantial work under this reading
 
 **Stevens, joined by Breyer, dissenting.** Reliable legislative evidence may corroborate the contextual reading even when the opposing interpretation claims textual clarity. The relevant House report described restoration of pre-Finley supplemental practice and preservation of diversity-only class-action requirements. An earlier study's discussion of changing Zahn does not establish that Congress enacted that different policy. This explanation supports the common dissent's interpretation; it treats legislative material as evidence of meaning rather than an independently enacted jurisdictional rule.
 
+### 2005-06-23 — [Gonzalez v. Crosby, No. 04-6432; 545 U.S. 524.](../records/gonzalez-v-crosby_merits_2005-06-23.md#public-projection)
+
+**Justice Stevens, concurring in part and dissenting in part, joined by Justice Souter.** They join the Court's classification and its independent Rule 60 requirements. They would vacate the denial and remand for ordinary discretionary assessment. Abdur'Rahman's separation of classification from entitlement requires attention to the procedural dismissal, the corrective legal development, actual review efforts, the possible merit of the underlying claim and the State's finality interests. The absence of any federal merits adjudication gives the inquiry particular weight.
+
+Gonzalez's alleged attempted rehearing and the information accompanying the returned paper may explain the lost ordinary-review opportunity. The State offers a different explanation involving the earlier appeal's case number; the lower court should resolve that dispute if material to its decision. The separate post-Artuz interval must also be assessed in the circumstances of an incarcerated person acting without counsel. Eight or nine months does not itself establish a failure of reasonable pursuit.
+
+The dissent disagrees that assuming Gonzalez's account makes the proper discretionary assessment unnecessary. In its view, that assumption cannot replace consideration below of the whole combination after removal of the categorical bar. The remand permits denial if the complete showing remains insufficient; it gives Gonzalez an adjudication under Rule 60 rather than an entitlement to reopening, a certificate or a writ. These remedial and application positions are noncontrolling.
+
 ### 2005-06-23 — [Green Party of New York State v. New York State Board of Elections; 389 F.3d 411 (Second Circuit).](../records/green-party-v-new-york-state-board-of-elections_merits_2005-06-23.md#public-projection)
 
 **Chief Justice Stone-Zsela, concurring in part and concurring in the judgment.** The Chief Justice regards the demonstrated loss of affiliation records, organizing opportunities and equal access as severe. Burdick's severe-burden rule therefore requires a narrowly drawn restriction serving a compelling interest. The organizations' continuing ability to campaign does not adequately measure the injury to this established channel of political identity and organization. Erasure does not administer the independent primary threshold, and clear instructions address confusion without destroying the association. He would sustain the injunction under that stricter standard.
@@ -2867,6 +2954,14 @@ The unanimous common ground establishes no separate-writing function.
 **Justice Stevens, joined by Justices Souter, Ginsburg and Breyer, dissenting.** The dissent would affirm the limited correction and hearing direction. Rule 41(b)'s enlargement authority and the absence of an issued mandate leave room to complete a materially deficient first review. The Sultan report and deposition supplied a concrete evidentiary problem bearing on the existing mitigation claim, and the appellate panel's examination of that problem supports its decision to reopen the record before its disposition became effective.
 
 Carlisle requires an authorized procedural basis, while the institutional-process position in Calderon distinguishes correction from reopening completed merits merely to reach a preferred answer. Here the mandate never issued, and the revised judgment directs further adjudication rather than awards the writ. The delay and failure to notify deserve serious criticism, but the dissent does not regard them as sufficient to make this bounded correction unreasonable. Review for abuse of discretion should give weight to the panel's detailed examination of the omitted evidence instead of replacing its judgment about the need for a hearing. The hearing remains subject to independently applicable habeas law. The dissent rests on the documented omission and actual procedural stage, without assuming clerical fault, diligence, innocence or ultimately prejudicial ineffective assistance.
+
+### 2005-06-27 — [McCreary County v. American Civil Liberties Union of Kentucky, No. 03-1693.](../records/mccreary-county-v-aclu-of-kentucky_merits_2005-06-27.md#public-projection)
+
+**Chief Justice Stone-Zsela, concurring.** The Chief Justice joins the Court's opinion and judgment. Because the challenged conduct is a common governmental display, he would require the counties to substantiate that any narrower cure fully protects the persons exposed to it. The counties must maintain compliance with the interim restraint and submit any replacement they seek to use in a form permitting judicial review of its actual content, setting and official authorization. The district court must reject cosmetic compliance, permit an effective lawful cure and proceed toward final adjudication. The repeal receives real weight in that assessment; it neither automatically establishes a cure nor permanently disables the counties from lawful historical presentation. These additional substantiation and submission requirements are his separate remedial position.
+
+**Justice Scalia, joined by Justices Kennedy and Thomas, dissenting.** The dissent applies the same governmental-function inquiry but finds the third arrangement sufficiently changed to serve historical explanation. The original displays, religious resolutions and selective additions are relevant evidence. Their force must nevertheless be weighed against the later presentation of complete documents in equal frames and the actual explanation of their place in legal history, with the translation label and scriptural citation already removed. In the dissent's assessment, these changes alter the official act itself rather than merely place a secular title over the earlier presentation.
+
+Agostini permits government to explain religious influences on law while prohibiting official adoption of doctrine. Robinson distinguishes historical exposition from an authoritative civil religious identifier. Marshfield directs attention to what government actually presents; its private-ownership conclusion is inapplicable to these county exhibits, but its functional inquiry still requires credit for a real change. The later repeal removes the resolutions' formal force and reinforces the already sufficient transformation. The dissent would reverse and dissolve the preliminary injunction against the third arrangements on that ground. Kennedy and Thomas join this complete historical-function application, including consideration of the earlier official acts.
 
 ### 2005-06-27 — [Metro-Goldwyn-Mayer Studios Inc. v. Grokster, Ltd., No. 04-480.](../records/metro-goldwyn-mayer-studios-v-grokster_merits_2005-06-27.md#public-projection)
 
@@ -3516,6 +3611,8 @@ The case returns through the Ninth Circuit for removal of the Commerce-based inj
 
 - **2005-06-23 — [Exxon Mobil Corp. v. Allapattah Services, Inc., No. 04-70; del Rosario Ortega v. Star-Kist Foods, Inc., No. 04-79.](../records/exxon-mobil-v-allapattah-services_merits_2005-06-23.md#public-projection).** The dealer litigation proceeds under the affirmed jurisdictional ruling. The family case returns for consideration of the restored related claims alongside the child's qualifying claim. The lower courts apply the governing joinder rules, resolve any preserved original-jurisdiction and relatedness issues, consider any proper subsection (c) request and conduct the remaining merits proceedings.
 
+- **2005-06-23 — [Gonzalez v. Crosby, No. 04-6432; 545 U.S. 524.](../records/gonzalez-v-crosby_merits_2005-06-23.md#public-projection).** The mandate leaves the Rule 60 motion denied. The original federal limitations judgment remains in force, and this merits review is concluded.
+
 - **2005-06-23 — [Green Party of New York State v. New York State Board of Elections; 389 F.3d 411 (Second Circuit).](../records/green-party-v-new-york-state-board-of-elections_merits_2005-06-23.md#public-projection).** The case returns for continued merits proceedings, actual qualification determinations where needed, and a decree implementing the common-policy standard. Current record preservation, enrollment, notice and data-access protection remains in effect during that work.
 
 - **2005-06-23 — [Halbert v. Michigan, No. 03-10198.](../records/halbert-v-michigan_merits_2005-06-23.md#public-projection).** The case returns to Michigan for appointment, relevant-record access and a meaningful renewed filing opportunity before first-tier merits consideration. The renewed process must contain the required legal screening function, with ordinary preservation and valid frivolousness rules.
@@ -3528,6 +3625,8 @@ The case returns through the Ninth Circuit for removal of the Commerce-based inj
 
 - **2005-06-27 — [Bell v. Thompson, No. 04-514.](../records/bell-v-thompson_merits_2005-06-27.md#public-projection).** The Sixth Circuit must promptly issue the mandate corresponding to its earlier habeas disposition and identify any independently lawful restraint. The separate competency proceeding remains governed by its own orders and legal predicates. Tennessee must comply with any such valid protection.
 
+- **2005-06-27 — [McCreary County v. American Civil Liberties Union of Kentucky, No. 03-1693.](../records/mccreary-county-v-aclu-of-kentucky_merits_2005-06-27.md#public-projection).** The case returns for the district court's prompt assessment of the repeal and supported changes through ordinary modification proceedings, with confined interim protection continuing during that work. The governing standard and remedial directions appear in Holding II. The case proceeds toward final adjudication.
+
 - **2005-06-27 — [Metro-Goldwyn-Mayer Studios Inc. v. Grokster, Ltd., No. 04-480.](../records/metro-goldwyn-mayer-studios-v-grokster_merits_2005-06-27.md#public-projection).** The case returns for reconsideration of both motions under the inducement rule, each with its own record and proper inferences. The lower court must address defendant-specific secondary liability and causation, any properly remaining independent theory, and effective monetary or injunctive relief under the relevant predicates. The reviewed current-version boundary and the established underlying direct infringement govern that work.
 
 - **2005-06-27 — [National Cable & Telecommunications Association v. Brand X Internet Services, No. 04-277; FCC v. Brand X Internet Services, No. 04-281.](../records/national-cable-telecommunications-association-v-brand-x-internet-services_merits_2005-06-27.md#public-projection).** Both petitions return to the Ninth Circuit under the reversed common judgment. The FCC's challenged integrated-information-service classification and its stated cable/DSL rationale are sustained. Further proceedings must implement these holdings for the reviewed 2002 order.
@@ -3538,13 +3637,9 @@ The case returns through the Ninth Circuit for removal of the Commerce-based inj
 
 ## Blockers and Revalidation Needs
 
-103 scheduled events are completed. 
+105 scheduled events are completed.
 
-Gonzalez v. Crosby: Renewed approval is required for the Chief Justice's extraordinary-circumstances judgment and rationale on the corrected, disputed rehearing-submission and returned-paper history.
-
-McCreary County v. American Civil Liberties Union of Kentucky: Renewed approval is required for the Chief Justice's current-function reasoning and prospective-relief position on the corrected postargument repeal of both county resolutions.
-
-The proposed refinements are preserved in the case-specific revalidation proposals under freeze; neither supplies an entered disposition. Alaska remains pending for its conforming decree. The other retained original proceedings remain subject to their recorded conditions. The term-opening trackers remain unchanged. [Chunk validation](../freeze/OT_2004CHUNK10_VALIDATION.md) records completed checks and operator-reserved history verification and commitment.
+Alaska remains pending for its conforming decree. The other retained original proceedings remain subject to their recorded conditions. The term-opening trackers remain unchanged. [Chunk validation](../freeze/OT_2004CHUNK10_VALIDATION.md) records completed checks and operator-reserved history verification and commitment.
 
 ## Source and Research Cutoff
 
