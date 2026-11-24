@@ -1,7 +1,7 @@
 **Case and dockets:** Jackson v. Birmingham Board of Education; No. 02-1672; 544 U.S. 167.
 **Event and date:** Plenary merits decision, 2005-03-29; October Term 2004, chunk 5.
 **Result:** Eleventh Circuit judgment reversed, 6–3; individual Title IX retaliation claim remanded for ordinary proceedings.
-**Version / lineage:** Original Canonical Decision Record; supersedes no completed adjudication. Frozen reconciled Associate commitments control the final assembly. Before workspace and Render Input integration, generic references to independent claims were removed because the record identifies none; the Chief's conditional preservation instruction is honored without creating a claim. The disposition, rule, joins and assignment are unchanged.
+**Version / lineage:** Original decision.
 
 ## Event, record and participation
 
@@ -11,7 +11,7 @@ All nine Justices participate at the relevant merits milestones. No case-specifi
 
 ## Entering law, cutoffs and dependencies
 
-The event cutoff is March 29, 2005. Current law is effective through the completed March 22 decisions. Back's March 7 comparator rule for constitutional sex stereotyping supplies no Title IX retaliation entitlement or Kennedy beneficiary concession. Rancho separates rights from enforcement channels without deciding this statutory scope. Franklin, Gebser, Davis and the actual Powell/Sandoval/South Camden action retain their recorded coalitions and reach. The original neutral packet's June 30, 2004 baseline is supplemented by current-public, March 7 and March 22 law; the corrected Shepard completeness formulation supplies no changed Jackson rule. Same-date Sherrill is an assignment-count event only, not uncoordinated entering law. The source-law cutoff includes only provisions effective for the obligation at issue; later amendments supply no operative premise. Current-law reading copies are `../entering-law/OT_2004CHUNK5_C.md`, `OT_2004CHUNK5_C_PUBLIC_PRIORS.md`, `OT_2004CHUNK5_CURRENT_PUBLIC.md`, `OT_2004CHUNK5_MARCH7_PUBLIC.md` and `OT_2004CHUNK5_MARCH22_PUBLIC.md`. Authoritative completed decisions control those copies.
+The event cutoff is March 29, 2005. Current law is effective through the completed March 22 decisions. Back's March 7 comparator rule for constitutional sex stereotyping supplies no Title IX retaliation entitlement or Kennedy beneficiary concession. Rancho separates rights from enforcement channels without deciding this statutory scope. Franklin, Gebser, Davis and the actual Powell/Sandoval/South Camden action retain their recorded coalitions and reach. The original neutral packet's June 30, 2004 baseline is supplemented by current-public, March 7 and March 22 law; Shepard's completeness formulation supplies no changed Jackson rule. Same-date Sherrill is an assignment-count event only, not uncoordinated entering law. The source-law cutoff includes only provisions effective for the obligation at issue; later amendments supply no operative premise. Current-law reading copies are `../entering-law/OT_2004CHUNK5_C.md`, `OT_2004CHUNK5_C_PUBLIC_PRIORS.md`, `OT_2004CHUNK5_CURRENT_PUBLIC.md`, `OT_2004CHUNK5_MARCH7_PUBLIC.md` and `OT_2004CHUNK5_MARCH22_PUBLIC.md`. Authoritative completed decisions control those copies.
 
 ## Chief Justice fixed core and exact compatibility
 

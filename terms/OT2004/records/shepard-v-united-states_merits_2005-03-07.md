@@ -45,8 +45,6 @@ For continuity, O'Connor, Kennedy and Breyer would permit a confined inquiry int
 
 Per-event validation completed: source-status distinctions, nine-person participation, six-to-three statutory arithmetic, nine-person present-law remand, exact partial joins, approved Chief compatibility, count and pool, substantive partial dissent, and section 8 negative-statement review. The surviving firearm judgment and independent-authority limit perform legal work; ordinary calculation and preservation work are stated affirmatively. Final projection and term checks are recorded after chunk integration.
 
-The final completeness review expanded the incorporated Gatewood charging consequence and Rule 52(b) alternatives in Part II into their operative terms and expressly stated the lawful jury-waiver option. This pre-integration clarification changes no disposition, scope, coalition, assignment or frozen commitment; the previously adopted rules already supply each term. The public reading slice is regenerated mechanically to match.
-
 ## Adaptive audit annex
 
 ### Original independent commitments

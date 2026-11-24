@@ -1,7 +1,7 @@
 **Case and dockets:** Sabree ex rel. Sabree v. Richman; review of 367 F.3d 180 (3d Cir. 2004).
 **Event and date:** Plenary merits decision, 2005-03-29; October Term 2004, chunk 5.
 **Result:** Third Circuit judgment reversing dismissal affirmed, 9–0; prospective section 1983 action restored for breach and remedy proceedings under the dated statutory limits.
-**Version / lineage:** Original Canonical Decision Record; supersedes no completed adjudication. Frozen reconciled Associate commitments control the final assembly. Before workspace and Render Input integration, the section 1396c source description was clarified to preserve its finding-after-notice-and-opportunity trigger, mandatory withholding consequence and scope discretion; the rights, enforcement channel, judgment, remedy, joins and assignment are unchanged. See the internal source-clarification receipt. A further pre-integration wording clarification places proof of a common unlawful practice before representative relief, not before proceeding with a representative action; the disposition, rule, joins and assignment are unchanged.
+**Version / lineage:** Original decision.
 
 ## Event, record and participation
 
