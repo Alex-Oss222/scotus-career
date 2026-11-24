@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2003
-**Processed through:** June 30, 2004, after all 119 completed OT2003 Court events and the admitted Rule 53 amendment effective December 1, 2003.
-**Edition:** November 22, 2026
+**Last completed October Term:** 2004
+**Processed through:** June 27, 2005, after all 105 completed OT2004 Court events and the admitted section 703 source effective October 22, 2004.
+**Edition:** November 23, 2026
 
 ## Federal Indian Law
 
@@ -835,3 +835,90 @@ For compensation, waiver and the proof-dependent remand in this case, March 4, 2
 - **United States v. Wheeler:** Applied for the ultimate-source inquiry and the distinction between federal supervision and inherent tribal prosecution. Its previously open restoration question is resolved at the stated scope.
 - **Duro v. Reina:** Its former nonmember-Indian restriction is recognized as altered by Congress within Congress's constitutional authority. Its reasoning does not establish an immutable bar to this restoration.
 - **Strate v. A-1 Contractors; Atkinson Trading Co. v. Shirley; Nevada v. Hicks:** Their source-specific civil-jurisdiction holdings remain intact. They do not constitutionalize the criminal restriction that the express statute changes here.
+
+
+### Tribal support-cost promises and distinct appropriations qualifications
+
+#### Cherokee Nation of Oklahoma v. Leavitt, 543 U.S. 631
+
+**Docket or dockets:** Nos. 02-1472 and 03-853.
+**Decided:** March 1, 2005
+
+**Companion or consolidated matters:** No. 02-1472 includes Cherokee FY1997 and Shoshone-Paiute FY1996–1997 claims; No. 03-853 includes Cherokee FY1994–1996 claims. Initial or expanded-program claims and Cherokee's ongoing-program claims retain their own annual terms.
+
+##### Whether legally sufficient appropriations and an authorized promise require support-cost payment
+
+**Holding:** When an authorized self-determination agreement promises reasonable, allowable contract support costs and the relevant appropriation legally provides sufficient funds for that undertaking, the agency's allocation to competing demands does not discharge the promise. An enacted funding limit or an actual contractual condition controls, but a committee-report expectation or internal budget allocation does not create such a limit.
+
+**Proposition-level authority:** Opinion of the Court (Souter), unanimous.
+
+**Material application:** The FY1994–1997 lump sums were legally sufficient for the actual undertakings. The availability and congressional-adjustment clauses remain real contract conditions; the legal availability of funds is not defined by the agency's later chosen support-cost budget.
+
+**Limits and questions not reached:** The particular agreement, fiscal year, contracting authority and actual conditions govern. Costs must be reasonable and allowable, with no duplication of transferred program or administrative funding; causation and recoverable loss remain ordinary contract requirements. Different fiscal years, genuinely insufficient total appropriations and uncontracted costs are outside the decided undertakings.
+
+**Operative remedy or transition:** Reverse No. 02-1472 for ordinary adjudication of Cherokee's FY1997 and Shoshone-Paiute's FY1996–1997 claims under the resolved defenses. Affirm No. 03-853, preserving the Board determination for Cherokee's FY1994–1996 claims. Remaining amount, cost and loss proceedings occur only where genuinely unresolved; the affirmed determination is not reopened and no special evidentiary trial is prescribed. Awards use the statutory payment channel.
+
+**Treatment of earlier authority:** Hercules requires the actual authorized undertaking, and Winstar enforces that undertaking with its real qualifications. Lincoln preserves discretionary allocation of unrestricted lump sums while recognizing enforceable boundaries; these statutory and contractual duties prevent allocation from cancelling liability.
+
+##### What the separate no-required-reduction clause permits
+
+**Holding:** Section 450j-1(b)'s separate provision that the Secretary is not required to reduce funding for programs, projects or activities serving one tribe to make funds available to another tribe or tribal organization permits the Secretary to decline that reduction. It neither prohibits every reduction nor defeats liability on these authorized contracts when other legally unrestricted funds suffice.
+
+**Proposition-level authority:** Opinion of the Court (Souter), unanimous.
+
+**Material application:** Administrative designation of otherwise unrestricted funds for inherent federal functions does not enact an earmark. Limits on contracting out a function are distinct from the permissible source of payment for an authorized contract.
+
+**Operative remedy or transition:** Recognizing the contract obligation supplies the contractual remedy without an order redistributing another tribe's program funding.
+
+**Treatment of earlier authority:** Lincoln's allocation discretion and Winstar's responsibility for an actual promise operate together; permission not to redistribute does not cancel the promise.
+
+##### Whether the initial and expanded-program fund is an exclusive ceiling
+
+**Holding:** The annual provision making $7.5 million remain available until expended for the Indian Self-Determination Fund's transitional costs of initial or expanded tribal contracts establishes a designated fund with continuing availability. It does not make that fund the exclusive source for the support-cost promises at issue or cap liability at the agency's initial or expanded-program allocation when other legally available appropriations are sufficient.
+
+**Proposition-level authority:** Opinion of the Court (Souter), unanimous.
+
+**Limits and questions not reached:** The initial and expanded-program fund receives its own textual construction, distinct from committee-report totals and ongoing-program annual terms. The explicit overall not-to-exceed language beginning in FY1998 is not backdated into the FY1994–1997 promises.
+
+##### Whether section 314 extinguishes accrued contractual claims
+
+**Holding:** Section 314 of Pub. L. 105-277 makes the amounts appropriated or earmarked in committee reports the total amounts available for the identified support costs in fiscal years 1994–1998. In these disputes, it limits use of remaining appropriations without retroactively extinguishing claims accrued under the earlier contractual undertakings; the agreements' congressional-adjustment clauses operate at that statutory scope.
+
+**Proposition-level authority:** Opinion of the Court (Souter), unanimous.
+
+**Limits and questions not reached:** The original unrestricted appropriations did not already incorporate the report allocations as legal caps, so the later law is not merely clarification of such a cap. Congressional-adjustment clauses do not enlarge the enactment into cancellation of accrued liability. The Court construes the statute without holding it unconstitutional.
+
+**Treatment of earlier authority:** Lynch and Perry preserve the significance of genuine governmental obligations and support the account-limiting construction that avoids attributing repudiation of accrued claims to this appropriation restriction.
+
+### Reacquired parcels and dormant sovereign tax protection
+
+#### City of Sherrill v. Oneida Indian Nation of New York, 544 U.S. 197 — sovereign nonrevival
+
+**Docket or dockets:** No. 03-855; the reviewed Lead, Eviction and Members cases.
+**Decided:** March 29, 2005.
+
+##### Ordinary repurchase after extraordinary territorial dormancy does not restore the asserted tax immunity
+
+**Holding:** Where the Nation and its members left the parcels roughly two centuries earlier and continuous state and local governance and taxation formed the settled territorial arrangement, market repurchase of separate parcels does not revive the asserted sovereign protection from current property taxes. This independent nonrevival limit defeats the same tax-immunity claim whether raised affirmatively or as a defense to enforcement.
+
+**Proposition-level authority:** Part I of Kennedy's opinion, joined by O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer; seven direct votes.
+
+**Material application:** The bar rests on extraordinary delay, territorial acquiescence and restoration of dormant sovereign status, rather than imminent municipal financial collapse or dispossession of the willing sellers. The parcels' repurchase in 1997–1998 therefore does not itself restore the claimed exclusion from taxation.
+
+**Limits and questions not reached:** No qualifying completed federal disposal is established, and fee alienability alone does not authorize taxation. The holding adds an independent limitation on dormant sovereign assertion, while assuming the Nation's reservation and historical-title predicates; alternative diminishment, federal-reservation and recognition-termination theories remain undecided. Former section 465 provides an orderly federal trust process but is not a prerequisite to every retained tribal right.
+
+**Operative remedy or transition:** Reverse the Lead declaration, injunction and summary judgment recognizing property-tax immunity and set aside the corresponding rejection of the nonrevival defense as futile. The rule supplies that defense without requiring another pleading, but supplies no eviction order, validated tax sale, waiver or congressional abrogation of suit immunity.
+
+**Treatment of earlier authority:** Yakima and Cass retain their actual statutory-disposal and parcel-chain requirements; the present equity ground is additional, not an invented disposal statute. Oneida II's land claim and damages judgment remain intact, and its reserved equitable limits allow examination of this different present sovereign claim. Felix and Ohio v. Kentucky supply delay and territorial-acquiescence analogies without mechanically importing state-boundary rules. Hagen, Yankton and Mille Lacs retain federal-alteration requirements. Venetie's dependent-community inquiry does not erase the reservation category. Coeur d'Alene's officer-suit route does not establish the underlying right or guarantee equitable relief.
+
+##### The five rejected amendment defenses remain distinct from sovereign nonrevival
+
+**Holding:** The City's other proposed defenses do not defeat this current-assessment challenge on their stated theories: no applicable federal limitations period was identified, and a state period cannot extinguish the asserted federal protection; buying the seller's fee interest supplies neither an inconsistent representation nor surrender of the separate sovereign protection; the shared-wrongdoing defense identifies no unlawful current purchase or recovery from the Nation's own unlawful bargain; and market conduct or local practice supplies no legally sufficient federal ratification authorizing taxation or surrendering protection.
+
+**Proposition-level authority:** Kennedy's Part II is joined by all eight Associates. Stone-Zsela agrees in denial of the five defenses without joining their grounds; the judgment is unanimous, while the stated grounds have eight votes.
+
+**Operative remedy or transition:** Denial of amendment for limitations, purchase-based waiver, estoppel, shared wrongdoing and ratification is affirmed. The independent territorial-nonrevival ground does not turn ordinary purchase into waiver or make all equitable defenses interchangeable.
+
+**Treatment of earlier authority:** Oneida II preserves the limitation on extinguishing federal protection through a state limitations period.
+
+For Sherrill's discovery ruling, No. 03-855, March 29, 2005, see Federal Courts — Particularized discovery requests before judgment. For preliminary relief and the preserved independent immunity judgments, see Federal Courts: Immunities and Remedies — Independent relief and collection limits after Sherrill.

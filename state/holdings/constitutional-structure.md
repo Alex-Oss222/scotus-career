@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2003
-**Processed through:** June 30, 2004, after all 119 completed OT2003 Court events and the admitted Rule 53 amendment effective December 1, 2003.
-**Edition:** November 22, 2026
+**Last completed October Term:** 2004
+**Processed through:** June 27, 2005, after all 105 completed OT2004 Court events and the admitted section 703 source effective October 22, 2004.
+**Edition:** November 23, 2026
 
 ## Constitutional Structure
 
@@ -3664,9 +3664,13 @@ Kansas v. Colorado, May 15, 1995, is preserved: its pumping-liability and histor
 
 **Authority of the judgment:** The component judgments require additional interest from the Master's 1969 cutoff, never before the compensable loss. Stone-Zsela, Stevens, Souter, Ginsburg and Breyer allow accrual from that cutoff until December 16, 1985; Kennedy joins them for accrual thereafter. Eight Justices deny pre-1969 accrual, with Stone-Zsela dissenting. Stevens's Part V-B choosing 1969 has only Souter, Ginsburg and Breyer's joins. Stone-Zsela's loss-date rationale does not adopt the knowledge cutoff; Kennedy would use the initiating-request date, and O'Connor, Scalia and Thomas reject all additional interest. These rationales are not logical subsets merely because their dates nest, so no controlling Marks rationale chooses the exact cutoff.
 
+**Current-force modification:** Kansas v. Colorado, December 7, 2004, clarifies the binding method: additional lost-investment interest applies only to qualifying losses incurred from 1969 onward and never before the loss. Unpaid pre-1969 principal does not enter that interest base; separately recoverable earlier principal and proper inflation remain available. The adopted 1969 method replaces the incompatible 1985 computation without reopening the original component judgment.
+
 **Limits and questions not reached:** The binding component result creates no universal notice prerequisite. The Master's 1969 commencement is administered without inventing a day; December 16, 1985 is the initiating-request date, not January 1 or the later grant of leave. Ordinary postjudgment interest is outside these exceptions.
 
 **Operative remedy or transition:** The Master must calculate supported historical-dollar losses, conceded appropriate inflation and additional interest under the adopted method and periods, then prepare the judgment. No final amount, private distribution, new water-delivery requirement or revised Compact allocation is entered. Settled liability and the adopted component rules are not reopened.
+
+**Later-authority backlinks:** Kansas v. Colorado, December 7, 2004, No. 105, Original — eligible principal and implementation of the 1969 compensation method; Federal Courts: Immunities and Remedies — Implementing the Arkansas River Compact compensation mandate.
 
 ### False Claims Act relators and executive responsibility
 
@@ -4849,3 +4853,270 @@ For Roeder v. Islamic Republic of Iran, June 30, 2004, No. 03-1147; judgment bel
 - Miller v. French and Pennsylvania v. Wheeling & Belmont Bridge Co. retain their distinct treatment of changed prospective law and meaningful judicial adjudication.
 - Landgraf v. USI Film Products is applied to distinguish enacted temporal effect from constitutional permission.
 - Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., affirmed by an equally divided Court, establishes no precedent.
+
+
+
+### Arkansas River Compact compliance measurement
+
+#### Kansas v. Colorado, 543 U.S. 86
+
+**Docket or dockets:** No. 105, Original.
+**Decided:** December 7, 2004.
+
+For compensation and administration in Kansas, December 7, 2004, No. 105, Original, see Federal Courts: Immunities and Remedies — Implementing the Arkansas River Compact compensation mandate, and Federal Courts — Administration of the Arkansas River original action.
+
+##### Whether a rolling ten-year model may measure compliance without changing Compact rights
+
+**Holding:** The rolling ten-year H-I calculation is permissible here as a supported method of measuring compliance: the first ten years determine the year-eleven obligation, and each succeeding calculation advances the window one year. The method cannot authorize accumulated credits forbidden by the Compact or extinguish an independently demonstrated material depletion of protected usable quantity or availability; Kansas retains its burden to establish a separately asserted compensable injury.
+
+**Proposition-level authority:** Breyer’s opinion of the Court, unanimous; all nine Justices join every holding and corresponding disposition.
+
+**Material application:** The Master’s findings of substantial annual errors and better fit over 540 months support the longer window. The replacement program operates through water replacement or retirement of pre-1949 rights with monthly reporting and credit administration. Kansas’s categorical annual-period objection and its corresponding objection to 1997–1999 compliance are rejected; the period finding uses Kansas’s own figures.
+
+**Limits and questions not reached:** The model measures compliance rather than authorizing otherwise forbidden credits or eliminating a proved usable-water injury. Distinct calibration, acreage, credit and monitoring objections retain their independent grounds; Kansas retains the burden to prove a separate compensable injury.
+
+**Treatment of earlier authority:** Kansas v. Colorado, May 15, 1995, protects usable quantity and timing without prescribing a permanent accounting formula. Compact Articles IV-D and V-E(5) continue to control material depletion and unauthorized accumulation of credits.
+
+### Local wildlife taking within interstate regulation
+
+#### GDF Realty Investments, Ltd. v. Norton, 326 F.3d 622 (judgment below)
+
+**Docket or dockets:** Fifth Circuit No. 01-51099.
+**Decided:** January 24, 2005.
+
+##### Whether necessary inclusion in interstate wildlife regulation sustains protection of local noncommercial cave species
+
+**Holding:** Congress may include unauthorized taking of listed intrastate wildlife in the Endangered Species Act when the taking class is a reasonably adapted and integral means of carrying out the Act's independently valid interstate wildlife regulation. The Government must identify that regulation, the covered class and a genuine functional relationship, which the court independently assesses; an outside-class application, invalid underlying interstate regime, or nominal or pretextual relationship cannot obtain authority from this rule, but a species' local range or absence of trade does not itself defeat inclusion.
+
+**Proposition-level authority:** Opinion of the Court (Breyer), unanimous.
+
+**Material application:** The six listed cave species fall within the Act's wildlife-taking class. Preventing unauthorized depletion protects the populations regulated by the valid interstate exploitation, movement, importation, exportation and commercial-disposition provisions and preserves their enforceability. Their local range and lack of a species market require neither an exemption nor a separate species-effects evidentiary proceeding.
+
+**Limits and questions not reached:** Courts independently identify the regime, class and functional connection while allowing reasonable congressional judgments within those boundaries. Constitutional authority does not establish a statutory take: habitat-caused injury, proximate causation and ordinary foreseeability remain governed by Sweet Home, and permission remains governed by section 10. Permitting and any properly presented compensation claim retain their independent requirements.
+
+**Operative remedy or transition:** The judgment rejecting the Commerce Clause challenge is affirmed, and the requested constitutional declaration and injunction are denied.
+
+**Treatment of earlier authority:** National Association of Home Builders v. Babbitt and Rancho Viejo, LLC v. Norton are reaffirmed and applied at their necessary-inclusion scope. United States v. Lopez supplies the required fitted constitutional connection before aggregation; the actual statutory mechanism supplies it here. Babbitt v. Sweet Home Chapter of Communities for a Great Oregon retains its distinct statutory injury, causation and foreseeability rules.
+
+
+### Saved initiative warnings and product-specific federal conflict
+
+#### Dowhal v. SmithKline Beecham Consumer Healthcare — saved initiative and warning preemption
+
+**Docket or dockets:** California Supreme Court No. S109306; review of 32 Cal. 4th 910.
+**Decided:** February 23, 2005
+
+For the FDA's contextual-misleadingness authority in Dowhal, February 23, 2005, California Supreme Court No. S109306, see Administrative Law — Dowhal, contextual drug labeling.
+
+##### Whether the saved initiative remains subject to independently established federal conflict
+
+**Holding:** Section 379r(d)(2) exempts a state requirement adopted by a public initiative or referendum enacted before September 1, 1997 from that section's express displacement of nonidentical requirements. A saved requirement nevertheless yields when the party asserting preemption establishes incompatibility with a valid, specifically applicable federal command or supported regulatory method under other operative federal law.
+
+**Proposition-level authority:** Breyer's Part I, unanimous.
+
+**Limits and questions not reached:** Section 379r(d)(2) preserves the qualifying initiative from that section's nonidentity rule. The separate product-liability saving in subsection (e) and identical-requirement enforcement provision in subsection (f) remain distinct; neither supplies the initiative exemption.
+
+**Treatment of earlier authority:** Geier preserves saving language alongside demonstrated actual conflict. Myrick requires an operative federal source, and Medtronic requires comparison of the specific duties while preserving compatible obligations. Nonidentity or federal approval alone does not establish displacement.
+
+##### Whether the reproductive-harm warning demanded in this claim conflicts with the FDA decision
+
+**Holding:** The reproductive-harm warning demanded for the covered nicotine-replacement products conflicts with the operative FDA decision because it restores the misleading comparative-risk message that decision rejected. The claim and its dependent remedies therefore cannot be enforced while that decision governs; the party asserting displacement must establish the relevant action's coverage and conflict for a materially different warning or duty.
+
+**Proposition-level authority:** Breyer's Part II, joined by Stone-Zsela, O'Connor, Scalia and Kennedy; five Justices.
+
+**Material application:** The definitive August 17, 2001 response rejected the comparative-risk implication restored by the demand for these nicotine-replacement products. The asserted label, point-of-sale and advertising routes would carry the same incompatible message on this record.
+
+**Limits and questions not reached:** The holding does not attribute an express ban on every possible formulation to the FDA. A different, genuinely compatible duty must have been pleaded and preserved to retain its own adjudicative basis. A later proposal supported by data remains subject to the approval process; its availability does not suspend the present decision.
+
+**Operative remedy or transition:** The judgment for defendants is affirmed insofar as enforcement and dependent monetary or injunctive relief require the conflicting warning. Application of the judgment must identify the covered products and demand; an independently preserved compatible duty is adjudicated on its own basis.
+
+**Treatment of earlier authority:** Geier is applied to the demonstrated regulatory method, Myrick to the operative federal determination, and Medtronic to the distinction between approval and an actual incompatible obligation.
+
+
+### Pesticide duties and clause-specific federal preemption
+
+#### Bates v. Dow Agrosciences LLC, 544 U.S. 431 — FIFRA and state pesticide duties
+
+**Docket or dockets:** No. 03-388.
+**Decided:** April 27, 2005.
+
+##### Whether actual state duties or incentives to change labels determine FIFRA preemption
+
+**Holding:** A state statutory or common-law damages duty is preempted under 7 U.S.C. §136v(b) when its actual substantive command concerns pesticide labeling or packaging and is different from or additional to the applicable federal requirement. A manufacturer's possible response to a verdict by changing its label does not itself make the underlying duty a labeling requirement.
+
+**Proposition-level authority:** Opinion of the Court (Stevens), Parts I, II, IV and V, unanimous.
+
+**Limits and questions not reached:** Section 136v(a) permits state sale-or-use regulation only so far as it does not allow sale or use forbidden by federal law; subsection (b) separately governs labeling and packaging. Claim captions and optional manufacturer responses cannot substitute for identifying the substantive duty.
+
+**Operative remedy or transition:** The inducement-based preemption judgment is vacated, with each actual duty to be classified on remand.
+
+**Treatment of earlier authority:** Cipollone requires clause-specific examination of duties. Medtronic includes common-law requirements while distinguishing additional remedies from additional substantive commands.
+
+##### Whether genuine product duties and oral representations are labeling requirements
+
+**Holding:** Genuine state duties governing product design, manufacture, testing or an agent's actual oral representations are outside §136v(b)'s labeling category. Courts must identify the substantive duty for each theory, including theories combining oral statements and written labeling; a demand whose actual content requires different labeling remains subject to the statutory comparison.
+
+**Proposition-level authority:** Opinion of the Court (Stevens), Parts I, II, IV and V, unanimous.
+
+**Limits and questions not reached:** A defect need not make the product dangerous in every use, and deficient proof of one design theory does not recast all theories as warning claims. Sections 136(p)(1) and (2) encompass written, printed or graphic matter on or attached to the product, container or wrapper, together with accompanying matter and matter referenced in labels or accompanying literature. The reference branch excepts current official publications of EPA, Agriculture, Interior, Health and Human Services, state experiment stations and agricultural colleges, and similar legally authorized federal or state pesticide-research bodies. Oral speech is outside those written-matter categories even when it repeats a label.
+
+**Operative remedy or transition:** The court must separate theories resting on oral statements, written labeling, or both, and apply comparison only to duties actually regulating labeling.
+
+**Treatment of earlier authority:** Cipollone’s duty-specific method governs the distinction.
+
+##### Whether voluntary label warranties and warranty-derived DTPA remedies survive
+
+**Holding:** An enforceable express warranty voluntarily undertaken by a manufacturer falls outside §136v(b)'s prohibition of state-imposed labeling requirements, even when the promise appears on the label. A DTPA claim receives the same protection to the extent it supplies a remedy for that surviving warranty.
+
+**Proposition-level authority:** Opinion of the Court (Stevens), Part III, joined by Stone-Zsela, O'Connor, Kennedy, Souter, Ginsburg and Breyer; seven Justices. Scalia and Thomas support vacatur but do not join this categorical instruction.
+
+**Limits and questions not reached:** Protection concerns enforceable promises actually undertaken by the manufacturer and DTPA remedies only insofar as they enforce those promises. Other DTPA theories receive their own duty analysis.
+
+**Treatment of earlier authority:** Cipollone’s distinction between voluntary undertakings and government-imposed label content controls. Federal compliance does not extinguish the separate performance promised by an enforceable warranty.
+
+##### Whether equivalent state labeling duties remain actionable
+
+**Holding:** State labeling duties survive §136v(b) when they require conduct substantively equivalent to the applicable federal obligations, even if state law uses different words or adds recovery elements that narrow liability. For duties within this comparison, courts must compare the actual state and federal commands and frame jury instructions to prevent recovery for labeling conduct federal law permits. Part III separately governs voluntarily undertaken warranty promises.
+
+**Proposition-level authority:** Opinion of the Court (Stevens), Parts I, II, IV and V, unanimous.
+
+**Material application:** Label-based fraud and nonwarranty DTPA claims must be compared with federal obligations governing the alleged 2000 transactions. Section 136(q)(1)(A)’s false-or-misleading-label command is distinct from subsection (F)’s directions and subsection (G)’s warnings requirements. Lawfully adopted EPA specifications may define the federal comparator; neither identical words nor a product-specific rule is necessary. Additional reliance or similar recovery elements may narrow liability without changing commanded conduct.
+
+**Limits and questions not reached:** The amended counterclaim’s express disclaimer of a FIFRA violation retains its ordinary pleading effect. Remand neither erases it nor grants leave to amend. The independent warning claim was not pressed; surviving claims remain state causes with their own elements.
+
+**Operative remedy or transition:** Jury instructions on labeling duties subject to comparison must prevent liability for conduct federal law permits; the separate voluntary-warranty instruction remains controlling.
+
+**Treatment of earlier authority:** Medtronic preserves genuinely equal conduct obligations despite a further state remedy.
+
+##### Whether registration or general regulatory policy establishes independent conflict preemption
+
+**Holding:** FIFRA registration is prima facie evidence of compliance with registration provisions when cancellation proceedings are absent, but §136a(f)(2) makes registration no defense to an offense under the Act. Independently of §136v(b), a state duty is displaced when the party asserting preemption identifies an operative federal command or protected regulatory method and establishes an actual incompatible state obligation.
+
+**Proposition-level authority:** Opinion of the Court (Stevens), Parts I, II, IV and V, unanimous.
+
+**Material application:** Section 136a(c)(5) allows waiver of efficacy data and registration without a finding supporting efficacy claims; that waiver does not eliminate misbranding duties. Registration, generalized uniformity interests and a changed agency litigation position did not establish a federal command protecting the alleged false efficacy representation.
+
+**Operative remedy or transition:** A preserved independent-conflict defense requires identification of the actual operative federal source and incompatible state duty. The abandoned contract appeal and unappealed limitation-of-remedies ruling concerning the materially different presale representation remain effective.
+
+**Treatment of earlier authority:** Geier preserves independently proved conflict with an operative federal command or protected regulatory method. Myrick requires an actual federal source; Dowhal’s concrete agency-warning determination is distinguished from the registration and waiver circumstances here.
+
+### Geographic producer preferences in direct alcohol sales
+
+#### Granholm v. Heald and consolidated cases, 544 U.S. 460 — equal producer access
+
+**Docket or dockets:** Nos. 03-1116, 03-1120 and 03-1274.
+**Decided:** May 16, 2005.
+
+For this decision’s other questions, see [Whether extension or withdrawal may remedy discriminatory wine-shipping access](../HOLDINGS.md#whether-extension-or-withdrawal-may-remedy-discriminatory-wine-shipping-access) (Federal Courts: Immunities and Remedies).
+
+##### Whether alcohol-specific constitutional and statutory authority permits local-producer preferences
+
+**Holding:** A State may regulate alcohol importation and distribution, but section 2 of the Twenty-first Amendment and the Wilson and Webb-Kenyon Acts do not authorize a direct-sales advantage for local producers over comparable outside producers merely because the preference is written into state law. Such discrimination requires a legitimate local purpose that reasonable nondiscriminatory alternatives cannot adequately serve.
+
+**Proposition-level authority:** Opinion of the Court (Ginsburg), joined by Stone-Zsela, Scalia, Kennedy, Souter and Breyer; six Justices adopt all four parts and each docket disposition.
+
+**Limits and questions not reached:** The Wilson Act subjects imported liquor to state control on the same terms as domestic liquor. Webb-Kenyon removes the interstate-shipment obstacle to otherwise lawful state controls; a state-law reference does not authorize the State to create its own exemption from nondiscrimination. Substantial evenhanded distribution and importation authority survives.
+
+**Treatment of earlier authority:** Bacchus’s alcohol-specific nondiscrimination rule and Healy’s nondiscrimination ground apply. Young’s Market’s broad immunity language does not govern contrary local-producer favoritism. North Dakota’s federal-procurement, intergovernmental-immunity and evenhanded-distribution issues are distinct.
+
+##### Whether unequal distribution channels and local-establishment conditions discriminate
+
+**Holding:** A State discriminates when it gives local wineries direct consumer access while requiring comparable outside wineries to use a less favorable channel or establish a local operation to obtain equivalent access.
+
+**Proposition-level authority:** Opinion of the Court (Ginsburg), joined by Stone-Zsela, Scalia, Kennedy, Souter and Breyer; six Justices adopt all four parts and each docket disposition.
+
+**Material application:** Michigan’s $300 outside-seller license allowed wholesale access, unlike the direct-sales access under the $25 small local-winery route. New York’s general winery route required local premises and in-state bonded receipt. Its separate farm-winery cap and local-fruit condition were not requirements of every license. These are differences in actual access, including a functional local-establishment barrier.
+
+**Treatment of earlier authority:** Oregon Waste identifies origin discrimination. Carbone prevents state supervision of private transactions from becoming government purchasing. Camps Newfound requires comparison of actual services and burdens; local origin here supplies no materially different public service.
+
+##### Whether tax collection, minors’ protection and accountability justify these preferences
+
+**Holding:** The State bears the burden, under ordinary proof, of establishing that a legitimate local purpose cannot adequately be served by reasonable nondiscriminatory alternatives. It need not disprove fanciful alternatives, but the interests in tax collection, minors' protection and accountable distribution do not justify these preferences where workable evenhanded controls remain adequate.
+
+**Proposition-level authority:** Opinion of the Court (Ginsburg), joined by Stone-Zsela, Scalia, Kennedy, Souter and Breyer; six Justices adopt all four parts and each docket disposition.
+
+**Material application:** Evenhanded licensing, tax and reporting duties, record access, jurisdictional accountability, age verification and sanctions adequately addressed the stated interests. Michigan’s proof failed even when disputed submissions were admitted and viewed favorably; New York’s actual bonds and accountability mechanisms did not establish the necessity of local premises.
+
+**Limits and questions not reached:** Actual cross-border enforcement difficulty matters, but assertion alone does not establish that concrete neutral controls are inadequate. The discrimination merits are resolved; implementation does not reopen them merely to give the States another opportunity to justify their laws.
+
+**Treatment of earlier authority:** Oregon Waste’s reasonable-alternatives burden is reaffirmed and applied.
+
+### Local medical supply within an interstate drug-control regime
+
+#### Gonzales v. Raich, 545 U.S. 1
+
+**Docket or dockets:** No. 03-1454.
+**Decided:** June 6, 2005.
+
+For this decision’s other questions, see [What relief follows when the Commerce ground for the preliminary injunction fails](../HOLDINGS.md#what-relief-follows-when-the-commerce-ground-for-the-preliminary-injunction-fails) (Federal Courts: Immunities and Remedies).
+
+##### Whether the interstate drug-control regime may include unauthorized local medical cultivation, supply and possession
+
+**Holding:** Congress may include unauthorized local marijuana cultivation, caregiver supply and possession in the Controlled Substances Act's independently valid interstate drug-control regime because that inclusion is reasonably adapted and integral to control of the same fungible substance's supply and distribution. The Government must identify the valid interstate regime, enacted covered class and genuine functional relationship; courts independently determine those boundaries while respecting reasonable congressional enforcement judgments within them.
+
+**Proposition-level authority:** Opinion of the Court (Kennedy), unanimous.
+
+**Material application:** Cultivation creates, caregiver delivery transfers and possession retains the same fungible substance controlled through the CSA’s supply-and-authorization system. Local supply and substitution for market acquisition directly concern that system’s objects and enforceability. Section 801’s supply and differentiation findings support this mechanism.
+
+**Limits and questions not reached:** National health costs, crime or productivity consequences and the label “comprehensive” cannot substitute for the functional connection. Courts retain scrutiny of activity outside the enacted class, an invalid interstate regime and nominal or pretextual relationships. Individual interstate movement, commercial motive, a separate substantial interstate effect, least restrictive means or proof of measurable failure from every possible exemption is unnecessary. Household substitution alone would be insufficient.
+
+**Treatment of earlier authority:** Lopez requires an eligible connection before aggregation. Home Builders supplies reasonably adapted and integral inclusion; Gibbs permits genuinely connected local class members without individual border crossing or commercial motive. Rancho Viejo retains independent scrutiny of regime, class and genuine relationship; GDF rejects a routine member-specific effects hearing after that relationship is established. Their wildlife applications do not establish the distinct drug mechanism.
+
+##### Whether medical purpose, no payment or state authorization removes these activities from federal inclusion
+
+**Holding:** The accepted local, unpaid, physician-recommended and state-permitted setting does not sever the relationship between these production and possession activities and the federal substance-control system. California permission and a physician's recommendation do not amend federal authorization; the CSA's enacted definitions, authorization provisions and state-law limits retain their actual operation.
+
+Section 841(a) prohibits knowing or intentional manufacture, distribution, dispensing and the related possession-with-intent conduct except as authorized by the subchapter. Section 844(a) governs knowing or intentional possession, preserving substances obtained directly, or under a valid prescription or order, from a practitioner acting professionally, and other authorization under the applicable subchapters. Those are federal statutory conditions, rather than an exemption created by state permission alone.
+
+Section 802 includes planting, cultivation, growing and harvesting in production. Distribution is delivery other than administering or dispensing; delivery includes actual, constructive or attempted transfer regardless of an agency relationship and does not require payment. The manufacture definition excludes preparation, compounding, packaging or labeling in conformity with state or local law by a practitioner as an incident to professional administration or dispensing; that limited exception is not a general cultivation exemption. Marijuana remains governed by Schedule I and the federal authorization, research, registration and scheduling routes in force. Section 903 leaves otherwise valid state law in place unless a positive conflict prevents the federal provision and state law from consistently standing together. Direct federal regulation of private conduct does not require California to criminalize the same conduct or administer the federal program.
+
+**Proposition-level authority:** Opinion of the Court (Kennedy), unanimous.
+
+**Limits and questions not reached:** The accepted physician evidence and state-supervised medical purpose do not change the substance or its connection to federal supply control. The Court need not find individual diversion or failed California safeguards, and the established statutory relationship requires no further Commerce evidentiary proceeding. Distinct due-process, Ninth Amendment, patient-necessity and commandeering claims remain for their own preserved adjudication.
+
+**Treatment of earlier authority:** Oakland Cannabis remains confined to its distributor-specific statutory medical-necessity and equitable holdings; it did not resolve individual possession, patient necessity or independent constitutional claims.
+
+
+
+
+### Commerce limits on annual fees for distinct local hauling
+
+#### American Trucking Associations, Inc. v. Michigan Public Service Commission, 545 U.S. 429
+
+**Docket or dockets:** No. 03-1230.
+**Decided:** June 20, 2005.
+
+##### Evenhanded charges for a distinct local hauling business
+
+**Holding:** An evenhanded annual per-truck fee for undertaking a distinct local hauling business does not violate the Commerce Clause merely because carriers performing fewer local miles pay more per mile. Courts must examine the actual charged event, discriminatory operation, fair apportionment and relation to state services, and any interstate burden clearly excessive relative to local benefits; Michigan’s §478.2(1) fee satisfies those requirements on this record.
+
+**Proposition-level authority:** Opinion of the Court (Stone-Zsela), joined by Stevens, O’Connor, Kennedy, Souter, Ginsburg and Breyer; seven Justices join the full framework. Scalia and Thomas concur only in the judgment on separate grounds.
+
+**Material application:** The charged event is each truck’s participation in distinct point-to-point Michigan hauling. Repetition by other States taxes separately undertaken local businesses, not repeated interstate passage; regulatory costs need not track each mile. Actual interstate disruption was not shown clearly excessive against local benefits.
+
+**Limits and questions not reached:** Calling activity intrastate supplies no categorical constitutional exemption. The §478.2(1) fee and this Commerce Clause judgment do not decide the separately challenged §478.2(2) assessment.
+
+**Operative remedy or transition:** Affirmance leaves §478.2(1) enforceable for covered local hauling.
+
+**Treatment of earlier authority:** Jefferson Lines identifies the charged event; Complete Auto retains independent nexus, apportionment, nondiscrimination and fair-relation requirements. NEMA and Pike require actual burden review without a disparate-impact threshold. Scheiner’s interstate-highway charges and demonstrated discrimination distinguish it, preserving its rule for that burden.
+
+### State carrier charges outside federal registration subjects
+
+#### Mid-Con Freight Systems, Inc. v. Michigan Public Service Commission, 545 U.S. 440 (2005)
+
+**Docket or dockets:** No. 03-1234.
+**Decided:** June 20, 2005.
+
+##### Whether the federal registration ceiling reaches a genuinely separate state carrier obligation
+
+**Holding:** Section 14504 preempts additional state registration obligations concerning the federal system's specified subjects—evidence of federal operating authority, insurance, a service agent and associated registration fees—when those obligations exceed the federal standards. It does not displace a genuinely separate state regulatory obligation on another subject merely because it applies to interstate carriers; Michigan's section 478.2(2) charge falls outside the covered subjects on this record.
+
+**Proposition-level authority:** Opinion of the Court (Scalia), joined by Stone-Zsela, Stevens, Souter, Thomas, Ginsburg and Breyer; seven direct joins to rule, application and remedy.
+
+**Limits and questions not reached:** Covered federal-registration demands remain subject to the federal standards despite a different state label. The insurance-proof fee system retains its November 15, 1991 benchmark and $10 ceiling. The prohibition on charging for filing and maintaining evidence of federal registration is distinct. The vehicle-identification restriction governs what the Secretary's standards may require, and the separate inconsistent-fee provision concerns fees under the federal system. These commands do not create a general $10 ceiling for state carrier regulation.
+
+**Material application:** The separate Michigan program sought vehicle information and payment rather than the covered federal permit, insurance or service-agent filings. The apparent waiver of the $10 federal-system fee did not establish that paying $100 was required to complete federal registration. Labels, age and regulatory purpose alone do not establish independence.
+
+**Operative remedy or transition:** Affirmed; statutory invalidation and refund relief are denied. The separate constitutional challenge is outside the grant.
+
+**Treatment of earlier authority:** Yellow Transportation, Inc. v. Michigan is applied for its enforcement of the delegated registration benchmark, qualifying reciprocity and express system-specific boundary. The present decision resolves which subject section 14504 governs; Yellow's separate fee-calculation holding remains in force.

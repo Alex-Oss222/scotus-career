@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2003
-**Processed through:** June 30, 2004, after all 119 completed OT2003 Court events and the admitted Rule 53 amendment effective December 1, 2003.
-**Edition:** November 22, 2026
+**Last completed October Term:** 2004
+**Processed through:** June 27, 2005, after all 105 completed OT2004 Court events and the admitted section 703 source effective October 22, 2004.
+**Edition:** November 23, 2026
 
 ## Antitrust
 
@@ -452,6 +452,8 @@ For the RICO and fund-property holdings in Steamfitters, January 10, 2000, Third
 - Professional Real Estate Investors, Inc. v. Columbia Pictures Industries, Inc.: preserves its objectively-baseless-litigation prerequisite for the sham petitioning theory it addressed; that rule is not transplanted as immunity for commercial refusal.
 - TrafFix Devices, Inc. v. Marketing Displays, Inc.: its expired-patent functionality and trade-dress holding remains intact and supplies no disposition of valid patent or copyright exclusion here.
 
+**Later-authority backlinks:** Monsanto Co. v. McFarling, Federal Circuit Nos. 03-1177 and 03-1228, April 19, 2005, extends rejection of conclusive patent-scope immunity to the presented §1 tying defense while retaining that offense’s own elements and substantial patent justification. CSU’s §2 holding remains unchanged.
+
 ##### Copyright justification and the required remand
 
 **Holding:** Copyright's exclusive rights provide a substantial justification for refusing protected manuals or diagnostic-software access, but do not conclusively defeat an objectively supported monopoly-maintenance claim merely because unlawful acquisition or extension beyond the copyright grant is absent. The same ordinary monopolization burdens apply; subjective pretext, rival injury or refusal alone cannot rebut the statutory justification, and every eventual remedy must fit a proved violation and causal injury while preserving lawful protected returns insofar as compatible with curing that violation.
@@ -600,3 +602,32 @@ For the other questions in this decision, see Federal Courts: Immunities and Rem
 **Operative remedy or transition:** Vacate unanimously among the eight participants and remand. Dismiss independent-injury theories; determine whether the domestic-price-dependence theory was preserved and, if so, its statutory sufficiency. O’Connor did not participate.
 
 **Limits and questions not reached:** A worldwide-cartel allegation does not establish domestic-effects causation. The reviewed question assumes independent foreign injury; the alternative’s sufficiency remains undecided.
+
+### Patent-based tying claims
+
+#### Monsanto Co. v. McFarling — independent tying claim
+
+**Docket or dockets:** Federal Circuit Nos. 03-1177 and 03-1228; judgment below, 363 F.3d 1336. No Supreme Court docket is supplied.
+**Decided:** April 19, 2005.
+
+For the utility-patent and contract holding of this April 19, 2005 decision, Federal Circuit Nos. 03-1177 and 03-1228, see Business and Commercial Law — Monsanto Co. v. McFarling. Its actual-damages mandate is filed under Federal Courts: Immunities and Remedies — Monsanto Co. v. McFarling.
+
+##### Part II: Patent scope does not conclusively defeat an independent tie
+
+**Holding:** A restriction within a patent grant does not, for that reason alone, defeat a Sherman Act §1 tying claim. The claimant must establish distinct products through actual separate consumer demand, conditioning, sufficient power in the tying market, a substantial amount of affected tied commerce, and the competitive injury and causal requirements for the relief sought; lawful patent exclusion retains substantial justificatory force.
+
+**Proposition-level authority:** Souter’s opinion, Part II, unanimous; the separate application and remand below have six votes.
+
+**Limits and questions not reached:** Patent ownership alone does not establish market power, and a single-product, trait or patent label cannot conclusively defeat actual separate consumer demand. A preferred license or royalty expense alone proves no offense; lawful exclusion keeps substantive justificatory weight and refusal to license is not automatically unlawful.
+
+**Treatment of earlier authority:** CSU, L.L.C. v. Xerox Corporation’s rejection of conclusive patent-scope immunity is extended from §2 monopoly maintenance to the presented §1 tying defense. Eastman Kodak Co. v. Image Technical Services, Inc. and Jefferson Parish Hospital District No. 2 v. Hyde supply §1’s own demand and tying elements. Verizon Communications Inc. v. Law Offices of Curtis V. Trinko, LLP preserves offense-specific and causal-remedy requirements.
+
+##### Part III: The preserved tying claim requires its own adjudication
+
+**Holding:** The rejection of McFarling’s tying counterclaim must be vacated because the appellate court relied on conclusive patent-scope immunity and expressly declined to resolve the separate-product inquiry. On remand, the preserved record must be tested under the independent tying elements and ordinary summary-judgment requirements; actual failure of an element may support renewed judgment.
+
+**Proposition-level authority:** Souter’s opinion, Part III, joined by Stone-Zsela, Stevens, Kennedy, Ginsburg and Breyer; six direct votes. O’Connor, Scalia and Thomas join the general Part II rule but dissent from this application and would affirm on their confined reproduction-license ground.
+
+**Material application:** The requested reproduction-license characterization is a substantial element-based defense. The court below nevertheless bypassed the acknowledged demand inquiry in favor of patent-scope immunity; that unresolved inquiry cannot be replaced by a conclusive appellate product-identity finding.
+
+**Operative remedy or transition:** The antitrust rejection is vacated, 6–3, for application of the independent elements to the preserved record. Renewed summary judgment remains available on an actual element failure. Any consequence for contract enforcement must rest on a proved violation or defense and its governing requirements; the remand itself establishes neither a tie nor antitrust damages or compulsory licensing.

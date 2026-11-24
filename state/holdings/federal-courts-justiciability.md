@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2003
-**Processed through:** June 30, 2004, after all 119 completed OT2003 Court events and the admitted Rule 53 amendment effective December 1, 2003.
-**Edition:** November 22, 2026
+**Last completed October Term:** 2004
+**Processed through:** June 27, 2005, after all 105 completed OT2004 Court events and the admitted section 703 source effective October 22, 2004.
+**Edition:** November 23, 2026
 
 ## Federal Courts: Justiciability
 
@@ -3365,3 +3365,182 @@ For Norton v. Southern Utah Wilderness Alliance, 542 U.S. 55, 2004-06-14, No. 03
 **Limits and questions not reached:** Completion of the two initial acts does not establish performance of a different continuing duty. The separate continuing monitoring claim fails on its legal-force ground, not mootness.
 
 **Operative remedy or transition:** Dismiss only the route-designation completion and initial file-creation requests as moot. The eight Associates join the rationale; Stone-Zsela concurs in those dispositions.
+
+
+
+### A protected possessor’s own forfeiture challenge
+
+#### United States v. $100,348.00 in U.S. Currency, 354 F.3d 1110 (judgment below)
+
+**Docket or dockets:** Ninth Circuit consolidated appeals; no Supreme Court docket supplied.
+**Decided:** November 15, 2004.
+
+For proportionality and disposition of the fund in this case, November 15, 2004, reviewing 354 F.3d 1110, see Criminal Procedure: Sentencing and Capital Punishment — Proportionality of a punitive reporting forfeiture.
+
+##### Whether a lawful possessor may challenge forfeiture of property titled in another
+
+**Holding:** A lawful possessor whose property rights or enforceable obligations are impaired by punitive forfeiture may challenge the exaction against all property to which that established interest extends. The claimant must establish the interest under applicable property law and the record; another person's title does not by itself defeat the claim.
+
+**Proposition-level authority:** Part I of Thomas’s opinion of the Court, unanimous.
+
+**Material application:** Mayzel’s possession and enforceable California bailment duties support a challenge throughout the $100,348 fund, including the $100,000 entrusted to him. The purported disclaimer was not proved; his delivery and care obligations survive. A completed damages judgment against him is unnecessary.
+
+**Limits and questions not reached:** The titled owner’s untimely independent claim remains closed; Mayzel proceeds on his own established protected interest.
+
+**Treatment of earlier authority:** Austin v. United States, June 28, 1993, is applied to punitive deprivation of the claimant’s own protected interest despite the proceeding’s civil form.
+
+### Attorneys asserting unidentified future clients’ rights
+
+#### Kowalski v. Tesmer, 543 U.S. 125
+
+**Docket or dockets:** No. 03-407.
+**Decided:** December 13, 2004.
+
+##### Whether anticipated representation establishes the required third-party relationship
+
+**Holding:** Attorneys' anticipated representation of unidentified future clients does not establish the close relationship required to litigate those clients' constitutional rights when no concrete existing or specifically prevented representation is shown. Practical barriers faced by indigent litigants require serious consideration, but cannot by themselves supply that missing relationship.
+
+**Proposition-level authority:** Stone-Zsela’s opinion of the Court, joined by O’Connor, Scalia, Kennedy, Thomas and Breyer; six direct votes.
+
+**Material application:** The Court assumes the attorneys’ personal Article III stake based on allegations of reduced paid appointments in a regular strict-rotation practice. That assumed injury does not establish a concrete existing or specifically prevented client relationship.
+
+**Limits and questions not reached:** The full hindrance question and constitutional entitlement to appointed appellate counsel are not reached because the relationship defect suffices. Existing clients, concrete prevented representations and indigent persons asserting their own rights remain subject to their applicable standards.
+
+**Operative remedy or transition:** The attorney-based judgment is reversed for dismissal of the third-party claim and removal of relief dependent solely on it. An independent surviving basis must be identified before changing other relief; the individual plaintiffs’ separate abstention disposition remains undisturbed.
+
+**Treatment of earlier authority:** Powers v. Ohio gives personal injury, close relationship and hindrance distinct roles. Craig v. Boren and Singleton v. Wulff retain contextual prospective-relationship permissions without a general professional exception. Caplin & Drysdale v. United States and Department of Labor v. Triplett involved actual clients or known claimants. Campbell v. Louisiana and Miller v. Albright preserve their concrete claimant relationships and distinct own-right or obstacle inquiries.
+
+
+### Judicial enforceability of secret espionage undertakings
+
+#### Tenet v. Doe, 544 U.S. 1 — agreement-dependent espionage claims
+
+**Docket or dockets:** No. 03-1395.
+**Decided:** March 2, 2005
+
+For threshold sequencing before the possible Tucker Act objection in Tenet, March 2, 2005, No. 03-1395, see Federal Courts — Tenet, threshold sequencing.
+
+##### When dependence on a secret espionage undertaking bars an action
+
+**Holding:** A claim is barred when success on the pleaded right and requested relief necessarily requires judicial establishment of a secret espionage relationship with the Government and enforcement of the alleged undertaking arising from it. Estoppel or due-process labels do not remove that indispensable premise; a claim founded on an independent public legal duty or an applicable enacted enforcement channel must be assessed on its own source and requirements.
+
+**Proposition-level authority:** Opinion of the Court (Stone-Zsela), unanimous.
+
+**Material application:** The pleaded support and internal-review entitlements derive from the alleged bargain, with no independent public duty supplying them. Recruitment, covert service, promises and breach remain allegations; application of the bar does not confirm the relationship.
+
+**Limits and questions not reached:** An intelligence-agency defendant or classified evidence alone does not trigger Totten. An independently sourced public-law claim requires its own jurisdiction, waiver, cause and remedy analysis.
+
+**Operative remedy or transition:** Reverse and remand for dismissal of the surviving agreement-dependent estoppel and due-process counts and termination of their merits discovery. The dismissed equal-protection branch and denial of preliminary relief remain effective. Any properly sought amendment must identify an actual independent source and satisfy ordinary procedural requirements.
+
+**Treatment of earlier authority:** Totten supplies the specific bar to judicial establishment and enforcement of the secret undertaking. Christopher v. Harbury requires a legally available underlying entitlement and suitable remedy; alleged injury alone supplies no alternative enforcement channel.
+
+##### Whether Reynolds invocation or confidential procedures avoid the Totten bar
+
+**Holding:** Reynolds's state-secrets privilege governs withholding evidence in an otherwise maintainable action; it does not replace Totten's distinct bar on maintaining an agreement-dependent suit. The Director's formal personal invocation required for that evidentiary privilege is therefore not a prerequisite to dismissing these claims under Totten, including their requests for interim support, administrative review and regulations.
+
+**Proposition-level authority:** Opinion of the Court (Stone-Zsela), unanimous.
+
+**Material application:** Pseudonyms and internal hearings do not remove the premise needed for support, review or regulations. Judicially directing those forms of relief would still recognize the entitlement asserted under the secret undertaking.
+
+**Limits and questions not reached:** The Government's mention of an internal opportunity to complain establishes no enforceable benefits substitute.
+
+**Treatment of earlier authority:** Reynolds preserves both the state-secrets evidentiary privilege and Totten's distinct pleading-stage bar. Webster's review of an independent constitutional challenge arising from acknowledged statutory employment remains effective in that different setting.
+
+### A continuing districting injunction after legislative replacement
+
+#### Black Political Task Force v. Galvin — continuing controversy
+
+**Docket or dockets:** Lower-court No. 02-11190; 300 F. Supp. 2d 291.
+**Decided:** March 22, 2005.
+
+##### A replacement plan does not moot review of an operative permanent injunction
+
+**Holding:** Adoption of a replacement districting plan does not moot an appeal seeking relief from an effective permanent injunction and its statutory liability predicate. The continuing restraint supplies an obligation that appellate review can alter, independently of obsolete candidate requests from a completed election cycle.
+
+**Proposition-level authority:** Part I of Souter's opinion, unanimous.
+
+**Material application:** Enacted Plan C did not dissolve the June 21, 2004 federal judgment. The separate remaining 2004 candidate-relief issues were moot, while the final injunction remained reviewable.
+
+**Treatment of earlier authority:** Laidlaw distinguishes changed conduct from loss of effective relief. Growe's treatment of superseding state judgments does not eliminate review of an existing federal restraint.
+
+For this case's section 2 liability and remedial holdings, March 22, 2005, lower-court No. 02-11190, see Election Law — Independent proof of local packing, and Federal Courts: Immunities and Remedies — Relief for the seventeen-district packing violation.
+
+
+### Standing from exposure to public-school devotional instruction
+
+#### Doe v. Porter — classroom exposure and standing
+
+**Docket or dockets:** Sixth Circuit Nos. 02-5316 and 02-5823.
+**Decided:** April 26, 2005.
+
+For this decision’s other questions, see [Whether a public school may assign its devotional curriculum to a private religious provider](../HOLDINGS.md#whether-a-public-school-may-assign-its-devotional-curriculum-to-a-private-religious-provider) (First Amendment); [Whether confidential defense access permits the protective order despite public pseudonymity](../HOLDINGS.md#whether-confidential-defense-access-permits-the-protective-order-despite-public-pseudonymity) (Federal Courts); [Whether an overlapping duplication objection requires another fee reduction](../HOLDINGS.md#whether-an-overlapping-duplication-objection-requires-another-fee-reduction) (Federal Courts: Immunities and Remedies).
+
+##### Whether exposure to school devotional instruction establishes the families’ standing
+
+**Holding:** Families whose children are exposed to the challenged devotional teaching in their public-school classes have concrete injury traceable to the program and redressable by an injunction stopping it.
+
+**Proposition-level authority:** Opinion of the Court (Breyer), Part I, unanimous.
+
+**Material application:** Sealed sworn affidavits established attendance in the challenged classes. Public pseudonymity did not replace injury evidence, and confidential defense access allowed meaningful investigation. Ending the instruction redresses that exposure.
+
+**Operative remedy or transition:** The family-standing determination is affirmed.
+
+### Prospective standing for threatened anonymous publications
+
+#### American Civil Liberties Union of Nevada v. Heller — intended publications and enforcement threat
+
+**Docket or dockets:** Ninth Circuit No. 01-15462.
+**Decided:** May 16, 2005.
+
+For this decision’s other questions, see [Whether the actual information-related identification law can be confined to express advocacy](../HOLDINGS.md#whether-the-actual-information-related-identification-law-can-be-confined-to-express-advocacy) (Election Law); [When government may require organizational electoral-payer identification](../HOLDINGS.md#when-government-may-require-organizational-electoral-payer-identification) (Election Law); [How substantial-overbreadth and prospective relief follow the governing attribution rule](../HOLDINGS.md#how-substantial-overbreadth-and-prospective-relief-follow-the-governing-attribution-rule) (Federal Courts: Immunities and Remedies).
+
+##### Whether concrete intended anonymous publications support prospective review
+
+**Holding:** Concrete publication plans covered by the identification requirement, together with a supported enforcement threat, permit prospective protection without awaiting prosecution.
+
+**Proposition-level authority:** Opinion of the Court (Kennedy), Part I, unanimous.
+
+**Material application:** Supplemented allegations and sworn materials identified planned anonymous publications on ballot matters, public-comment rules and redistricting; the reported prior prosecution supported the self-censorship threat.
+
+### Continuing speech restraints after the beneficiary’s death
+
+#### Tory v. Cochran, 544 U.S. 734 — continuing controversy
+
+**Docket or dockets:** No. 03-1488.
+**Decided:** May 31, 2005.
+
+For this decision’s other questions, see [Whether the complete public-topic injunction remains justified after Cochran’s death](../HOLDINGS.md#whether-the-complete-public-topic-injunction-remains-justified-after-cochrans-death) (First Amendment); [What relief follows from the unsupported public-topic injunction](../HOLDINGS.md#what-relief-follows-from-the-unsupported-public-topic-injunction) (Federal Courts: Immunities and Remedies).
+
+##### Whether the injunction beneficiary’s death moots a challenge to a continuing speech restraint
+
+**Holding:** When an injunction remains operative by its terms and is asserted to remain enforceable, the beneficiary's death does not eliminate the restrained speakers' live challenge merely because the original substantive interest has changed. The agreed substitution is permitted for this appeal, without determining a successor's independent entitlement to relief.
+
+**Proposition-level authority:** Breyer's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Kennedy, Souter and Ginsburg (seven Justices).
+
+**Material application:** The order lacks an automatic death-termination term, continues to regulate the speakers and is still asserted to be enforceable. Speakers need not risk contempt, and the possibility of later state-court modification does not erase the current burden.
+
+**Limits and questions not reached:** Substitution for this appeal does not adjudicate state-law ownership, survival or a successor’s entitlement to obtain relief. Scalia and Thomas favor a discretionary dismissal, not an affirmative mootness holding.
+
+
+
+
+### Parents asserting a religious school's separate rights
+
+#### Eulitt v. Maine Department of Education — institutional hindrance
+
+**Docket or dockets:** Review of 386 F.3d 344 (1st Cir. 2004); no separate Supreme Court docket supplied.
+**Decided:** June 20, 2005.
+
+##### Whether an existing parent-school relationship dispenses with hindrance to the school's own suit
+
+**Holding:** Parents seeking to assert a school's separate constitutional rights must establish a genuine hindrance to the school's own assertion, in addition to their own injury and a sufficiently close relationship. These parents have an actual relationship with St. Dominic's, but have not established the independent obstacle required to litigate its institutional claim.
+
+**Proposition-level authority:** Opinion of the Court (Breyer), unanimous.
+
+**Limits and questions not reached:** The parents' own funding claim was adjudicated independently. Their relationship and financial stake do not establish why the school cannot assert its own institutional rights.
+
+**Operative remedy or transition:** Rejection of the representative claim is affirmed at the standing threshold; the school's independent claim receives no merits determination.
+
+**Treatment of earlier authority:** Kowalski requires both a qualifying relationship and an independent hindrance. Its hypothetical-client facts are distinguished; the actual relationship here does not cure the absent obstacle.
+
+For Eulitt's June 20, 2005 integrated-tuition equality holding, on review of 386 F.3d 344, see [First Amendment](../HOLDINGS.md#equal-access-and-publicly-purchased-integrated-religious-tuition).

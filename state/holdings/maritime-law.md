@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2003
-**Processed through:** June 30, 2004, after all 119 completed OT2003 Court events and the admitted Rule 53 amendment effective December 1, 2003.
-**Edition:** November 22, 2026
+**Last completed October Term:** 2004
+**Processed through:** June 27, 2005, after all 105 completed OT2004 Court events and the admitted section 703 source effective October 22, 2004.
+**Edition:** November 23, 2026
 
 ## Maritime Law
 
@@ -700,3 +700,49 @@ The public must receive adequate notice of the wreck's location. For the third c
 **Limits and questions not reached:** No particular burden for disputed preliminary vessel-permission facts commands a majority. The allegations do not establish guilt.
 
 **Operative remedy or transition:** Affirm restoration of the indictment and remand for actual permission, timing and independent notice adjudication under their applicable rules, followed by ordinary criminal determination of the conspiracy charge.
+
+
+
+### Practical transport capability of maritime vessels
+
+#### Stewart v. Dutra Construction Co., 543 U.S. 481 (2005)
+
+**Docket or dockets:** No. 03-814.
+**Decided:** February 22, 2005.
+
+For the separate claim-specific mandate in this case, No. 03-814, decided February 22, 2005, see Federal Courts: Immunities and Remedies — preservation of an independently adjudicated maritime claim.
+
+##### Whether practical water-transport capability makes an operational dredge a vessel
+
+**Holding:** A watercraft is a vessel under the LHWCA's integrated vessel provisions and the linked seaman inquiry when it is used, or practically capable of being used, to transport people or things over water; transportation need not be its primary purpose, the craft need not propel itself, and motion at the moment of injury is unnecessary. Permanently fixed or withdrawn structures whose transportation capacity is merely theoretical fall outside this rule, but the Super Scoop's actual waterborne movements carrying equipment and workers satisfy it.
+
+**Proposition-level authority:** Opinion of the Court (Scalia), unanimous.
+
+**Material application:** The Super Scoop transported its machinery and workers during recurring short dredging movements by cables and anchors and longer movements by tug. The stop associated with repair of a scow was temporary. Its construction mission, external propulsion and lack of motion at the injury instant did not remove practical transportation capacity.
+
+**Limits and questions not reached:** The statutory physical-craft inquiry under 1 U.S.C. §3 is distinct from worker connection, actionable defendant capacity, negligence and remedy. The LHWCA's identification of vessel-related persons supplies no competing physical-characteristics definition. Mere flotation or hypothetical movement of a permanently fixed structure is insufficient; classification of the craft does not automatically make each worker a seaman.
+
+**Operative remedy or transition:** The vessel-based Jones Act summary judgment is reversed. The remand and independently adjudicated section 905(b) branch receive the distinct treatment identified in Federal Courts: Immunities and Remedies.
+
+**Treatment of earlier authority:** Southwest Marine, Inc. v. Gizoni preserves the difference between occupational labels and actual Jones Act status. Chandris, Inc. v. Latsis retains its contribution, employment-connection and temporary-repair rules at their existing proposition-level coalitions; Stewart supplies the practical-capability vessel predicate without renewing assent to Chandris's separate duration framework. Harbor Tug & Barge Co. v. Papai retains the distinct vessel-relationship and worker-status inquiries.
+
+
+
+### Particular interference with the internal affairs of foreign passenger ships
+
+#### Spector v. Norwegian Cruise Line Ltd., 545 U.S. 119
+
+**Docket or dockets:** No. 03-1388.
+**Decided:** June 6, 2005.
+
+##### A particular intrusion on internal maritime affairs
+
+**Holding:** A particular Title III obligation regulating a foreign ship's genuinely internal affairs requires the congressional clarity appropriate to that interference. The application-specific limit reaches a permanent and significant alteration of basic ship design or construction that interferes with internal maritime affairs; it does not exempt the ship's unrelated passenger services.
+
+**Proposition-level authority:** Opinion of the Court (Souter), Part III-A, joined at this confined level by Stone-Zsela, Stevens, Kennedy, Souter and Thomas. Ginsburg and Breyer do not join this additional exclusion; Thomas’s broader structural exclusion does not control.
+
+**Limits and questions not reached:** The rule does not establish that every physical alteration intrudes on internal affairs. No mandatory sequencing of statutory and maritime inquiries has majority support.
+
+**Treatment of earlier authority:** Benz and McCulloch protect internal ship order and are distinguished from local commercial dealings. Longshoremen v. Ariadne Shipping preserves domestic protection of affected persons.
+
+Spector, No. 03-1388, decided June 6, 2005, states its domestic Title III coverage, duty-specific defenses and complete remand under [Civil Rights](../HOLDINGS.md#disability-duties-in-domestic-services-aboard-foreign-cruise-ships).

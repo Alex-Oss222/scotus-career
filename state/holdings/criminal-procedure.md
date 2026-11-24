@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2003
-**Processed through:** June 30, 2004, after all 119 completed OT2003 Court events and the admitted Rule 53 amendment effective December 1, 2003.
-**Edition:** November 22, 2026
+**Last completed October Term:** 2004
+**Processed through:** June 27, 2005, after all 105 completed OT2004 Court events and the admitted section 703 source effective October 22, 2004.
+**Edition:** November 23, 2026
 
 ## Criminal Procedure
 
@@ -4799,6 +4799,8 @@ Awareness of facts, consent to an instruction, legal sufficiency of the indictme
 
 **Treatment of earlier authority:** McNally v. United States preserves the money-or-property boundary. Carpenter v. United States protects genuine commercial intangible property without converting regulatory permission into ownership. Neder v. United States, June 10, 1999, retains materiality as a separate element and does not replace the missing property object.
 
+**Later-authority backlinks:** Pasquantino v. United States, No. 03-725, April 26, 2005, resolves the unpaid-revenue reservation for an accrued foreign sovereign entitlement targeted by domestic wire fraud. The sovereign-permission/property distinction and the need to establish each criminal element remain intact.
+
 ##### Whether the acquisition clause independently reaches value created in the recipient's hands
 
 **Holding:** Section 1341's false-pretenses acquisition clause describes a method of property fraud and retains the requirement that the charged scheme target property in the deceived victim's hands. Value acquired by the recipient alone cannot support the alternative license-acquisition theory.
@@ -4829,6 +4831,8 @@ Awareness of facts, consent to an instruction, legal sufficiency of the indictme
 **Operative remedy or transition:** The Second Circuit is affirmed and its remand remains operative. Timeliness must be calculated without treating the two relief bars as filing defects, with open dates and defenses adjudicated in further proceedings. No writ, retrial, or release is awarded.
 
 **Treatment of earlier authority:** Lindh v. Murphy, June 23, 1997, retains its provision-specific temporal construction; it neither exempts Bennett's post-enactment federal application nor answers proper filing.
+
+**Later-authority backlinks:** Pace v. DiGuglielmo, No. 03-9627, April 27, 2005, resolves the reserved deadline-exception question: an application that fails a genuine state filing deadline is not properly filed merely because the deadline permits exceptions requiring judicial findings. Artuz’s distinction between application-filing conditions and claim-relief bars remains controlling; see Federal Courts: Habeas and Collateral Review.
 
 ### Ineffective assistance at sentencing
 
@@ -5462,3 +5466,216 @@ For Sabri, No. 03-44, decided May 17, 2004, the Spending and Necessary and Prope
 **Proposition-level authority:** Part II of O’Connor’s opinion, supported by all eight Associate Justices; Stone-Zsela agrees on the inquiry but would vacate rather than reverse.
 
 **Operative remedy or transition:** The award of plea relief is set aside by reversal, 8–1, and the case remanded for the settled rule’s application. All nine join the substantive prejudice standard; Stone-Zsela favors vacatur instead of reversal.
+
+
+
+### Money-laundering conspiracy and overt acts
+
+#### Whitfield v. United States, consolidated with Hall v. United States, 543 U.S. 209
+
+**Docket or dockets:** Nos. 03-1293 and 03-1294.
+**Decided:** January 11, 2005.
+
+##### Whether §1956(h) requires allegation and proof of an overt act
+
+**Holding:** Section 1956(h) independently defines conspiracy to commit an offense specified in §1956 or §1957 and requires neither allegation nor proof of an additional overt act. The Government must prove the actual unlawful agreement, the defendant's knowing participation and the required unlawful object beyond a reasonable doubt; association alone is insufficient, and the requested overt-act instruction was properly refused in both cases.
+
+**Proposition-level authority:** Ginsburg's unanimous opinion of the Court; all nine Justices join the complete construction and both docket applications.
+
+**Limits and questions not reached:** Section 1956(h) defines its own agreement offense and does not incorporate §371. Section 1956(i)'s venue reference to an act in furtherance supplies no additional guilt element. Statutes that expressly require an overt act, including §371, retain that requirement.
+
+**Operative remedy or transition:** Both Eleventh Circuit judgments are affirmed on the overt-act instruction question. The requested reversal or new trial on that ground is denied.
+
+**Treatment of earlier authority:**
+
+- United States v. Shabani: its text-based reasoning is extended from §846 to the independently construed §1956(h); its original holding remains statute-specific.
+- Nash v. United States, 229 U.S. 373: applied for the traditional agreement-based understanding of conspiracy.
+- Singer v. United States, 323 U.S. 338: applied for the significance of omitting an additional-act condition from the enacted conspiracy provision.
+- Ratzlaf v. United States: applied for the residual-ambiguity condition on lenity; its distinct structuring willfulness rule retains its own scope.
+
+### Completion and finality of a midtrial acquittal
+
+#### Smith v. Massachusetts, 543 U.S. 462 (2005)
+
+**Docket or dockets:** No. 03-8661.
+**Decided:** February 22, 2005.
+
+##### Whether an implemented midtrial insufficiency acquittal may be restored during the continuing jury trial
+
+**Holding:** Once a trial court completes an unqualified determination that the prosecution's proof is insufficient on a count, the Double Jeopardy Clause bars restoring it for further adjudication of guilt, including in the same jury trial and despite legal error. Completion is determined from the ruling, applicable procedure and subsequent trial conduct as a whole; an ordinary power to revisit interlocutory rulings does not keep an implemented, unqualified acquittal provisional after the defense phase proceeds without a reserved sufficiency question or an established procedure plainly giving that type of ruling provisional status.
+
+**Proposition-level authority:** Stone-Zsela's opinion of the Court is joined in full by Stevens, O'Connor, Scalia, Souter and Thomas; six Justices control the completion rule, application and remedy.
+
+**Material application:** The Rule 25(a) insufficiency allowance was unqualified, endorsed and entered. The prosecution rested without seeking reopening, the codefendant presented a witness, and both defendants rested; the judge had reserved neither argument nor sufficiency. That sequence completed the acquittal. Smith need not personally have testified, and the subsequent legal authority showed possible error rather than an unfinished ruling.
+
+**Limits and questions not reached:** State law supplies the procedural setting, but federal law determines the constitutional effect of the completed acquittal. A general reconsideration power or correction of clerical mistakes cannot reopen it. A clearly established procedure expressly making this kind of insufficiency ruling provisional presents a different completion question that this record does not resolve. No separate showing of tactical injury is required after completion.
+
+**Operative remedy or transition:** The firearm judgment is reversed and remanded for removal of that conviction and all punishment dependent on it, notwithstanding the concurrent sentence. Renewed guilt adjudication on the acquitted count is barred. The two independent assault convictions remain operative, and any resentencing must rest on lawful surviving convictions without restoring punishment dependent on guilt of the acquitted offense.
+
+**Treatment of earlier authority:** Price v. Vincent supplies the whole-episode substantive-completion inquiry; its separate habeas limitation does not govern this direct review. United States v. Martin Linen Supply Co. supplies the substance-over-label acquittal rule; Smalis v. Pennsylvania bars renewed guilt factfinding after an insufficiency acquittal; Fong Foo v. United States protects finality despite legal error; United States v. Scott preserves the distinction for a termination unrelated to factual guilt.
+
+
+### Domestic wire fraud targeting accrued foreign revenue
+
+#### Pasquantino v. United States — domestic wire fraud against foreign revenue
+
+**Docket or dockets:** No. 03-725.
+**Decided:** April 26, 2005.
+
+##### Whether accrued foreign taxes are property for domestic wire fraud
+
+**Holding:** Section 1343 reaches an intentional, material scheme executed through the requisite domestic interstate wires to deprive a foreign sovereign of an existing entitlement to money. The Government must prove that entitlement, material deception, fraudulent intent and the required wire use beyond a reasonable doubt; success of the scheme and completed loss are not elements.
+
+**Proposition-level authority:** Opinion of the Court (Stone-Zsela), joined by Stevens, O'Connor, Kennedy and Thomas; five Justices adopt both propositions.
+
+**Material application:** The charged object was Canadian import revenue already due, rather than governmental licensing power. The domestic procurement and concealment calls furthered the scheme; mere violation of foreign law would not establish the federal offense.
+
+**Operative remedy or transition:** The Pasquantino brothers' six convictions and Hilts's Count I conviction are sustained against the statutory challenge.
+
+**Treatment of earlier authority:** Cleveland's distinction between governmental regulation and existing property applies, and its unpaid-revenue reservation is resolved for this domestic criminal setting. Neder supplies materiality and the distinction between a criminal scheme and completed civil fraud.
+
+##### Whether the revenue rule bars prosecution of the domestic scheme
+
+**Holding:** The common-law rule against judicial collection of foreign taxes does not categorically bar the United States from enforcing its own wire-fraud prohibition against a scheme executed through domestic interstate wires. Identifying the foreign victim's property entitlement is distinct from enforcing that sovereign's civil tax claim; a separate collection or restitution remedy requires its own authority.
+
+**Proposition-level authority:** Opinion of the Court (Stone-Zsela), joined by Stevens, O'Connor, Kennedy and Thomas; five Justices adopt both propositions.
+
+**Limits and questions not reached:** The constitutional sentencing request first advanced in merits briefing falls outside this review. Any independently available sentencing or restitution claim retains its own legal authority, presentation conditions and proof burdens.
+
+**Treatment of earlier authority:** Hartford Fire and Empagran require attention to the particular statute and territorial connection; domestic execution of the charged fraud supplies that connection here. The revenue rule retains its civil-collection operation.
+
+### Foreign convictions and domestic firearm disabilities
+
+#### Small v. United States — domestic firearm-disability predicates
+
+**Docket or dockets:** No. 03-750.
+**Decided:** April 26, 2005.
+
+##### Whether a foreign conviction qualifies under sections 922(g)(1) and 921(a)(20)
+
+**Holding:** A conviction qualifies under §922(g)(1) only if it is domestic and satisfies the definition and qualifications in §921(a)(20). The Government must establish a qualifying predicate beyond a reasonable doubt; the seriousness or perceived fairness of an excluded foreign judgment cannot supply statutory coverage.
+
+**Proposition-level authority:** Opinion of the Court (O'Connor), joined by Stone-Zsela, Stevens, Souter, Ginsburg and Breyer; six Justices.
+
+**Limits and questions not reached:** The domestic category remains subject to section 921(a)(20)'s exclusion of federal or state antitrust, unfair-trade and similar business-regulatory offenses and state misdemeanors punishable by no more than two years, together with its pardon, expungement, setting-aside and civil-rights-restoration qualifications. The rule addresses this statutory context, not every congressional use of 'any.' Individual evaluation of the Japanese proceeding's fairness is unnecessary.
+
+**Operative remedy or transition:** The judgment is reversed and remanded. The district court must inspect the actual judgment and conditional plea and vacate the count and dependent punishment based solely on the Japanese conviction; any distinct remaining proceeding requires its own lawful basis.
+
+**Treatment of earlier authority:** Beecham and Jones select the convicting jurisdiction's restoration law only after the predicate falls within the statutory category. Caron's retained-firearm-restriction rule continues to govern qualifying domestic convictions; neither decision determines the antecedent foreign-predicate issue.
+
+### Knowing corrupt persuasion and contemplated official proceedings
+
+#### Arthur Andersen LLP v. United States, 544 U.S. 696
+
+**Docket or dockets:** No. 04-368.
+**Decided:** May 31, 2005.
+
+##### What knowing corrupt persuasion requires under the version of section 1512 applicable to 2001 conduct
+
+**Holding:** Section 1512(b)(2)(A) and (B), as applicable to the 2001 conduct, requires awareness of the wrongful character of persuasion, together with the specified intent to cause withholding of evidence from an official proceeding or impairment of an object's integrity or availability for use there. Merely intending to impede government factfinding is insufficient; knowledge of the statutory citation or of the precise criminal prohibition is unnecessary.
+
+**Proposition-level authority:** Opinion of the Court (Scalia), unanimous.
+
+**Material application:** The charge permitted conviction despite an honest belief in lawfulness and reduced corrupt purpose to interference with factfinding. Lawful privilege advice or ordinary document-policy advice is not corrupt solely because evidence becomes unavailable; a policy or counsel label equally does not excuse conscious obstruction.
+
+##### What connection to an official proceeding anticipatory evidence obstruction requires
+
+**Holding:** The persuader must contemplate an identifiable official proceeding in which the evidence might be material and act with the statutory withholding or impairment purpose toward that use. The proceeding need not already be pending, about to begin, certain to occur or assigned a known date; no subpoena or successful obstruction is required.
+
+**Proposition-level authority:** Opinion of the Court (Scalia), unanimous.
+
+**Limits and questions not reached:** The applicable section 1512(e)(1) eliminates pendency, not the contemplated official object of the specific intent; abstract possible government interest in the indefinite future is insufficient. Section 1512(e)(2) permits liability notwithstanding inadmissibility or a privilege claim. Section 1512(f) removes knowledge of federal character as an element, without removing contemplation or purpose concerning the proceeding. Section 1512(d) separately allows a defendant to prove by a preponderance that the conduct was solely lawful and the sole intention was to encourage, induce or cause truthful testimony; it does not reduce the Government’s element burden. The unpreserved claim that an informal inquiry falls outside the definition of official proceeding is undecided.
+
+**Treatment of earlier authority:** United States v. Aguilar supplies offense-specific connection and knowledge concerning official work. Its section 1503 pendency rule is not imported into section 1512’s expressly anticipatory offense.
+
+##### Whether the erroneous culpability and contemplated-proceeding instructions were harmless
+
+**Holding:** On this charge and contested mental-state record, the Government has not established beyond reasonable doubt that the instructional errors did not contribute to the verdict. The conviction must be set aside and the matter remanded for lawful further proceedings.
+
+**Proposition-level authority:** Opinion of the Court (Scalia), unanimous.
+
+**Material application:** The actual verdict contains no equivalent findings establishing the omitted requirements, and contested evidence permits competing mental-state inferences. Deliberate withholding under this charge does not establish the required culpability or contemplated use. The jury’s reported deadlock does not independently establish prejudice.
+
+**Limits and questions not reached:** This common ground does not announce a general classification or new inferential rule for instructional error.
+
+**Operative remedy or transition:** The conviction and dependent sentence are set aside. Remand applies the correct elements and any independently preserved sufficiency issue, subject to ordinary double-jeopardy limits; neither acquittal nor a retrial is directed, and another harmlessness inquiry cannot repair this verdict.
+
+**Treatment of earlier authority:** Neder is applied to the Government’s beyond-reasonable-doubt noncontribution burden and the actual verdict. Its qualified method remains at its existing scope.
+
+
+
+
+### Inference sufficient to require explanations for racial jury strikes
+
+#### Johnson v. California, 545 U.S. 162
+
+**Docket or dockets:** No. 04-6964.
+**Decided:** June 13, 2005.
+
+##### Facts supporting an inference trigger the duty to explain
+
+**Holding:** A defendant satisfies the first step of Batson by presenting facts sufficient to permit an inference of purposeful racial discrimination; the defendant need not first establish that discrimination was more likely than not. Striking all three qualified Black prospective jurors from the forty-three-person eligible venire supplies that inference in the circumstances here, requiring the prosecutor’s explanations and an ultimate purpose finding on which Johnson retains the burden of persuasion.
+
+**Proposition-level authority:** Opinion of the Court (Ginsburg), joined by Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter and Breyer; eight Justices join in full.
+
+**Treatment of earlier authority:** Batson requires a supported inference before explanations and reserves ultimate persuasion for the completed inquiry. Hernandez separates facial neutrality from credibility. Franklyn / Gonzalez requires an actual ultimate purpose finding, without a preliminary probability requirement. Johnson’s May 3, 2004 finality ruling retains its separate jurisdictional force.
+
+Johnson, No. 04-6964, decided June 13, 2005, states the reliable-inquiry or new-trial remedy under [Federal Courts: Immunities and Remedies](../HOLDINGS.md#effective-correction-of-an-omitted-jury-discrimination-inquiry).
+
+### Informed guilty pleas and later evidence of the shooter’s identity
+
+#### Bradshaw v. Stumpf, 545 U.S. 175
+
+**Docket or dockets:** No. 04-637.
+**Decided:** June 13, 2005.
+
+##### The record establishes understanding of purposeful aggravated-murder complicity
+
+**Holding:** A guilty plea is knowing as to an essential offense element when the record establishes that competent counsel adequately explained the element and the defendant understood it; the judge need not personally give a prescribed recital. Stumpf’s counsel’s express representation and his own confirmation establish understanding here, and his denial that he fired the fatal shots does not contradict purposeful aggravated-murder complicity under Ohio law.
+
+**Proposition-level authority:** Opinion of the Court (O’Connor), unanimous.
+
+**Limits and questions not reached:** Counsel’s representation is evidence of actual understanding in this record, not an irrebuttable presumption. Purposeful complicity requires the specific intent to cause death even where another participant fired the fatal shots.
+
+**Treatment of earlier authority:** Henderson requires actual notice of essential elements; Brady, Boykin and Bousley require informed voluntary assent and accurate offense understanding rather than a prescribed judicial formula.
+
+##### The later shooter account does not invalidate the informed plea
+
+**Holding:** The State’s later presentation identifying Wesley as the shooter does not invalidate Stumpf’s plea to purposeful aggravated-murder complicity. Shooter identity was not essential to the admitted offense, and the later presentation does not establish that Stumpf’s earlier assent lacked the required understanding.
+
+**Proposition-level authority:** Opinion of the Court (O’Connor), unanimous.
+
+**Operative remedy or transition:** The plea-invalidity ruling is reversed, preserving the conviction against these grounds; the independent capital claim receives its own adjudication.
+
+**Treatment of earlier authority:** Brady does not invalidate an informed plea merely because later evidence changes the defendant’s assessment of the plea choice.
+
+Bradshaw, No. 04-637, decided June 13, 2005, states the independent death-sentence inquiry under [Criminal Procedure: Sentencing and Capital Punishment](../HOLDINGS.md#independent-capital-review-of-materially-conflicting-prosecution-accounts).
+
+### Appellate advocacy for indigent plea defendants and actual waiver
+
+#### Halbert v. Michigan, 545 U.S. 605 (2005) — entitlement and waiver
+
+**Docket or dockets:** No. 03-10198.
+**Decided:** June 23, 2005.
+
+##### Whether appointed advocacy must precede Michigan's first-tier leave decision for an indigent plea defendant
+
+**Holding:** The Fourteenth Amendment requires appointed advocacy for an indigent plea-convicted defendant seeking initial appellate examination of alleged error in the Michigan Court of Appeals. A State may use a genuinely equivalent advocate-assisted screening mechanism and valid frivolousness procedures, but must supply the legal-assistance function before deciding the initial application.
+
+**Proposition-level authority:** Opinion of the Court (O'Connor), joined by Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg and Breyer; seven direct joins.
+
+**Material application:** Michigan's statute provides meaningful but bounded exceptions. Appointment is mandatory for an indigent plea defendant when the prosecutor seeks leave, the sentence exceeds the upper limit of the minimum applicable guideline range, an appellate court grants leave, or the defendant challenges a conditional plea under Rule 6.301(C)(2) or its successor. Appointment is discretionary when all three scoring conditions hold: an alleged offense-variable or prior-record-variable scoring error, objection or other preservation, and an upward departure above the upper limit of the minimum range the defendant contends should have applied. Those routes do not supply the assistance denied here. The constitutional protection follows the initial merits function rather than those exceptions alone.
+
+**Treatment of earlier authority:** Douglas is applied to initial error correction and extended to Michigan's first-tier leave process. Ross is distinguished because its later selective stage follows counseled appellate presentation. Robbins supplies the actual advocate-assisted screening function and permits equivalent formats.
+
+##### Whether the plea and the whole reported record establish waiver of assistance for the remaining first review
+
+**Holding:** A guilty or no-contest plea does not itself waive counsel for the first appellate review that remains available. The State must establish a knowing, intelligent and voluntary surrender of that distinct assistance from the actual record; Halbert's reported advice, confirmations and general plea finding do not establish that surrender.
+
+**Proposition-level authority:** Opinion of the Court (O'Connor), joined by Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg and Breyer; seven direct joins.
+
+**Material application:** The reported advice and confirmations addressed loss of an appeal as of right, finite appointment categories and general plea compliance. They did not establish explanation and intentional surrender of assistance preparing the remaining application. The statutory advice command does not prove unreported compliance; later requests and learning limitations neither undo a valid waiver nor alone establish incapacity.
+
+**Treatment of earlier authority:** Godinez separates competence from actual waiver. Tovar permits contextual proof without mandatory ritual wording. Stumpf's whole-record inquiry is applied, distinguishing its element-specific counsel explanation from general plea confirmations. Kowalski's third-party standing holding does not decide Halbert's own claim.
+
+For restoration of wholly absent first-review assistance in Halbert, No. 03-10198, decided June 23, 2005, see [Federal Courts: Immunities and Remedies](../HOLDINGS.md#restoring-wholly-absent-first-tier-appellate-assistance).

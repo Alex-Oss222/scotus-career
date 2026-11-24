@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2003
-**Processed through:** June 30, 2004, after all 119 completed OT2003 Court events and the admitted Rule 53 amendment effective December 1, 2003.
-**Edition:** November 22, 2026
+**Last completed October Term:** 2004
+**Processed through:** June 27, 2005, after all 105 completed OT2004 Court events and the admitted section 703 source effective October 22, 2004.
+**Edition:** November 23, 2026
 
 ## Business and Commercial Law
 
@@ -2866,3 +2866,179 @@ For Amazon.com, June 30, 2003, Federal Circuit No. 00-1109, on the preliminary v
 - **Heimmermann v. First Union Mortgage Corp.:** Applied for actual delegation and preservation of substantive statutory limits; uncertainty alone cannot confer power.
 - **Chevron U.S.A. v. Natural Resources Defense Council:** Applied within those actual authority and statutory limits to the reasonable regulatory choice.
 - **Smiley v. Citibank:** Distinguished as a construction of national-bank interest. That statute's category does not determine the TILA finance-charge category.
+
+
+
+### Descriptive trademark fair use and the confusion burden
+
+#### KP Permanent Make-Up, Inc. v. Lasting Impression I, Inc., 543 U.S. 111
+
+**Docket or dockets:** No. 03-409.
+**Decided:** December 8, 2004.
+
+##### Whether descriptive fair use requires negating likelihood of confusion
+
+**Holding:** The infringement claimant bears the burden of proving likelihood of confusion, including when its registration is incontestable; a defendant invoking §1115(b)(4) must establish by the ordinary civil standard use otherwise than as a mark, fairly and in good faith, only to describe its goods or services or their geographic origin. The defendant need not negate likely confusion: some confusion can coexist with the defense, while facts bearing on confusion may also inform whether the actual use is fair, in good faith or source-identifying.
+
+**Proposition-level authority:** Scalia’s opinion of the Court, unanimous.
+
+**Material application:** The §1114 infringement requirement and §1115(b)(4) affirmative-defense conditions remain distinct. KP’s declaratory-plaintiff status does not reverse the substantive burdens.
+
+**Operative remedy or transition:** The judgment imposing a no-confusion defense burden is vacated. Ordinary summary-judgment rules govern the actual presentation and disputes under each statutory requirement. Undisputed proof of the complete defense requires protection of that particular fair use; otherwise ordinary proceedings determine the conditions and relief.
+
+**Treatment of earlier authority:** Park ’N Fly, Inc. v. Dollar Park and Fly, Inc. preserves incontestability subject to express statutory defenses. Qualitex Co. v. Jacobson Products Co., March 28, 1995, and TrafFix Devices, Inc. v. Marketing Displays, Inc., March 20, 2001, preserve statutory limits independent of source-identifying value; functionality doctrine is unchanged.
+
+### Foreign arbitral annulment and recognition authority
+
+#### Karaha Bodas Co., L.L.C. v. Perusahaan Pertambangan Minyak Dan Gas Bumi Negara, 364 F.3d 274 (judgment below)
+
+**Docket or dockets:** No Supreme Court docket supplied; review of 364 F.3d 274 (5th Cir. 2004).
+**Decided:** February 22, 2005.
+
+##### Which country’s annulment authority qualifies under Article V(1)(e) when substantive law and the arbitral regime differ
+
+**Holding:** For Article V(1)(e), the country under whose law an award was made is the country whose national arbitral procedural law governs the proceeding, rather than every country whose substantive law supplies the parties' contractual rights; the party resisting recognition must establish annulment or suspension by a competent authority in the country of making or that governing-law country. The enforcing court must examine the actual agreement and applicable law to determine whether a different national arbitral regime was selected, giving particular incorporated provisions their stated scope; the combined terms here establish Geneva arbitration without selecting Indonesian judicial supervision, so the Indonesian annulment supplies no Article V(1)(e) ground to refuse recognition or reopen the judgment.
+
+**Proposition-level authority:** Opinion of the Court (Thomas), unanimous.
+
+**Material application:** Geneva was the legal place selected for UNCITRAL arbitration and the stated award-making place despite a Paris hearing. The Indonesian substantive-law clause did not transfer national judicial supervision. Waivers of the six-month arbitrator-appointment limit and the arbitration-completion period, the Section 641 appeal renunciation and waivers, and the affirmative Section 631 authority to depart from strict rules inconsistent with the contract's spirit and the parties' intent each performed their stated contractual work without selecting an entire Indonesian supervisory regime.
+
+**Limits and questions not reached:** Selection of another national arbitral procedural regime depends on the actual agreement and applicable law; the Court neither prescribes mandatory wording nor bars selection through incorporation. Section 207 requires confirmation absent an established Convention ground for refusal or deferral. Article VI permits adjournment only when annulment or suspension has been sought before a qualifying authority and the enforcing court considers adjournment proper; suitable security separately requires the enforcing party's application. Neither form of relief is mandatory. The effect of annulment by an actually qualifying authority and the other Convention defenses adjudicated below are outside this granted review. The Swiss challenge's costs dismissal supplies no Swiss merits approval.
+
+**Operative remedy or transition:** Recognition and denial of Rule 60(b) reopening are affirmed against the Indonesian-annulment ground. Enforcement proceeds through ordinary lawful procedures, with asset-specific objections addressed in their proper process. The earlier foreign anti-suit restraint and dependent civil-contempt consequence remain vacated.
+
+**Treatment of earlier authority:** Karaha Bodas, decided March 9, 2004, supplies the distinction between ordinary recognition adjudication and extraordinary foreign anti-suit relief. This decision resolves its reserved annulment-country issue at the scope of the actual clauses and Indonesian order; it does not change the earlier injunction judgment or its necessity rule.
+
+
+### Securities fraud economic loss and pleading
+
+#### Dura Pharmaceuticals, Inc. v. Broudo
+
+**Docket or dockets:** No. 03-932; judgment below, 339 F.3d 933.
+**Decided:** April 19, 2005.
+
+
+##### Inflation alone does not establish a loss caused by fraud
+
+**Holding:** A public-market purchaser seeking private damages under section 10(b) and Rule 10b-5 must establish an actual economic loss proximately caused by the challenged fraud; alleging or proving that the purchase price was artificially inflated does not by itself establish either requirement. Section 78u-4(b)(4) places the proof burden on the plaintiff, who must establish causal loss by a preponderance of the evidence, excluding losses attributable solely to independent causes.
+
+**Proposition-level authority:** Opinion of the Court (Breyer), unanimous.
+
+**Limits and questions not reached:** A later decline alone likewise does not establish the fraud’s causal contribution. The theory need not require a completed sale, one formal corrective announcement or an event study; supported causal mechanisms remain available. A comprehensive final damages methodology and the separate profitability/scienter branch lie outside the reviewed device claim.
+
+**Treatment of earlier authority:** Basic Inc. v. Levinson’s transaction-reliance framework does not substitute for causal economic loss. Central Bank of Denver, N.A. v. First Interstate Bank of Denver, N.A. retains qualifying affirmative-assistance liability together with actual causation, recoverable loss and ordinary civil proof.
+
+##### The device allegations fail even ordinary fair notice
+
+**Holding:** Assuming for this decision that ordinary Rule 8 supplies the entire pleading demand for economic loss and loss causation, the complaint must give a short, intelligible indication of the loss claimed and its causal connection to the challenged fraud. The reviewed allegation that purchasers paid inflated prices and thereby suffered damages fails even that modest requirement; the Court does not need to decide whether Rule 9 or the PSLRA independently adds a particularity requirement for these elements.
+
+**Proposition-level authority:** Opinion of the Court (Breyer), unanimous.
+
+**Material application:** The device claim linked the alleged fraud only to purchase-price inflation. The February earnings announcement and November device announcement had distinct price histories; the earlier earnings decline cannot substitute for a causal-loss allegation about the device representation.
+
+**Limits and questions not reached:** The Rule 8 premise is an assumption sufficient to decide this complaint, not an exclusive rule governing every securities pleading element. Plaintiffs need not plead trial proof, an econometric model or elimination of all competing causes.
+
+**Operative remedy or transition:** The device-claim reinstatement is reversed and remanded. The district court must identify the pleading defect and consider any timely proposed amendment under applicable rules; amendment is neither required nor forbidden. A still-insufficient claim must be dismissed after lawful amendment proceedings, while a sufficient one proceeds to proof. No factual no-loss judgment or damages award is entered.
+
+**Treatment of earlier authority:** Swierkiewicz v. Sorema N.A. separates evidentiary proof from modest notice pleading without excusing a legally adequate account of the substantive claim.
+
+### Utility-patent reproduction restrictions
+
+#### Monsanto Co. v. McFarling — utility-patent reproduction restrictions
+
+**Docket or dockets:** Federal Circuit Nos. 03-1177 and 03-1228; judgment below, 363 F.3d 1336. No Supreme Court docket is supplied.
+**Decided:** April 19, 2005.
+
+For this April 19, 2005 decision, Federal Circuit Nos. 03-1177 and 03-1228, see Antitrust — Monsanto Co. v. McFarling for the independent tying rule and remand, and Federal Courts: Immunities and Remedies — Monsanto Co. v. McFarling for the retained actual-damages mandate.
+
+##### Part I: The saved-seed exception does not displace utility-patent coverage
+
+**Holding:** A plant-variety saved-seed exception does not authorize reproduction of additional seed within independently valid utility-patent claims. A no-replanting promise directed to that reproduction is not misuse merely because it prevents saving and replanting harvested seed; patent and contractual coverage must be established, and independently applicable defenses retain their force.
+
+**Proposition-level authority:** Souter’s opinion, Part I, unanimous.
+
+**Material application:** The appeal assumes patent coverage of additional generations. McFarling accepted a one-season planting agreement and conceded saving and replanting the harvest. Ownership of the purchased seed and willingness to pay a technology fee do not supply or compel a reproduction license; the promise survives the categorical defenses and the conceded conduct establishes breach.
+
+**Limits and questions not reached:** The holding covers the additional seed and presented reproduction restriction, not every output of a patented tool or every sales condition. Patent validity was not preserved for this partial judgment. Independently established enforcement defenses retain their own requirements.
+
+**Operative remedy or transition:** The confined contract-breach and categorical-defense rulings are affirmed. The unfinished patent claims and their separate relief are not made final by this contract-and-counterclaim judgment.
+
+**Treatment of earlier authority:** J. E. M. Ag Supply, Inc. v. Pioneer Hi-Bred International, Inc. supplies concurrent protection with separate statutory exceptions. Asgrow Seed Co. v. Winterboer’s certificate-based saved-seed construction supplies no utility-patent reproduction immunity.
+
+
+
+### Regulatory safe harbor for preclinical patented-compound uses
+
+#### Merck KGaA v. Integra Lifesciences I, Ltd., 545 U.S. 193
+
+**Docket or dockets:** No. 03-1237.
+**Decided:** June 13, 2005.
+
+##### Reasonably directed preclinical compound research falls within the statutory protection
+
+**Holding:** Section 271(e)(1) protects the enumerated acts solely for uses reasonably related to developing and submitting information under the covered federal regulatory law. For the compound uses presented here, that relationship exists at least where the drugmaker reasonably believes the compound may act through an identified biological process to produce the intended physiological effect and uses it in experiments that, if successful, would yield information appropriate for FDA submission; the party invoking the defense must establish the relationship for each challenged use as of the time it occurred.
+
+**Proposition-level authority:** Opinion of the Court (Scalia), unanimous.
+
+**Limits and questions not reached:** Coverage is use-specific and prospective; unsuccessful candidates and unsubmitted results may qualify, while a remote pharmaceutical prospect or project sponsorship alone does not. Commercial purpose neither establishes nor defeats the regulatory relationship. Distinct research-tool patents, the separate common-law experimental-use ruling and unchallenged patent coverage fall outside the grant.
+
+**Material application:** The protected acts are making, using, offering to sell, selling within the United States and importing a patented invention for the covered regulatory use. The statutory exception concerns a new animal drug or veterinary biological product primarily manufactured through recombinant DNA, recombinant RNA, hybridoma technology or other site-specific genetic manipulation; these human-drug candidates are outside it.
+
+**Treatment of earlier authority:** Eli Lilly & Co. v. Medtronic supplies the statutory federal-regulatory function; development of information has force apart from ultimate submission.
+
+##### The laboratory-practice objection does not categorically exclude the research
+
+**Holding:** Failure to follow good-laboratory-practice rules does not categorically defeat §271(e)(1) protection for the preclinical work at issue. Those rules govern safety studies rather than efficacy, mechanism, pharmacology or pharmacokinetics studies as such, and the IND provision permits a covered safety study to be submitted with a brief explanation of noncompliance; the actual experiment must still satisfy the reasonable regulatory relationship.
+
+**Proposition-level authority:** Opinion of the Court (Scalia), unanimous.
+
+**Limits and questions not reached:** An allowance to explain noncompliance does not itself establish a particular experiment’s coverage; admissible evidence must establish the prospective regulatory connection.
+
+##### The preserved verdict challenge returns for review under the correct construction
+
+**Holding:** The Federal Circuit must review Merck’s preserved challenge to the verdict under the correct construction and the admissible trial record. The consented-to jury instruction was consistent with the governing reasonable-relationship rule; correction of the appellate premises requires renewed review of evidentiary sufficiency and the resulting liability and damages consequences, rather than automatic judgment exempting every challenged experiment.
+
+**Proposition-level authority:** Opinion of the Court (Scalia), unanimous.
+
+**Operative remedy or transition:** Vacate and remand for review of Merck’s preserved evidentiary challenge; eliminate liability and damages for uses established as exempt while preserving consequences of independently actionable uses. The dependent $6.375 million damages judgment must be addressed through proper proceedings.
+
+**Limits and questions not reached:** The agreed instruction required a preponderant, objectively reasonable prospect of relatively direct contribution to FDA-relevant information, separate consideration of activities and no actual-submission requirement. NCI’s later IND was excluded from trial evidence and cannot replace admissible proof on the verdict challenge.
+
+### Copyright inducement and independent secondary-liability rules
+
+#### Metro-Goldwyn-Mayer Studios Inc. v. Grokster, Ltd., 545 U.S. 913 (2005) — copyright responsibility
+
+**Docket or dockets:** No. 04-480.
+**Decided:** June 27, 2005.
+
+##### Whether affirmative promotion of infringement creates responsibility despite substantial lawful capability
+
+**Holding:** A distributor that distributes a device with the object of promoting copyright infringement, shown by clear expression or other affirmative steps directed to that object, is responsible for resulting direct infringement when the owner proves the culpable promotion and causal connection. Substantial lawful capability defeats culpability inferred from distribution alone, but does not immunize this proved inducement.
+
+**Proposition-level authority:** Opinion of the Court (Stevens), unanimous.
+
+**Limits and questions not reached:** The distributors' strongest objection is that an intent inquiry could penalize ordinary innovation because users infringe. The rule requires affirmative culpable promotion and resulting infringement under the ordinary civil burden. Ordinary distribution, neutral technical support, product updates, lawful advertising and general awareness of misuse are insufficient by themselves. Infringement volume, advertising revenue and nonfiltering may bear on purpose with other supported affirmative evidence, but none independently supplies the required conduct and connection. The rule creates no freestanding monitoring or redesign duty. Patent inducement provisions illustrate the distinction; the copyright ground rests on the recognized purposeful-promotion principle.
+
+**Treatment of earlier authority:** Sony protects useful distribution against imputed culpability alone; Kalem supplies purposeful-promotion responsibility. Napster's knowing-assistance principle is extended to the independently supported inducement route without merging their predicates.
+
+##### What remains necessary for knowing-assistance and vicarious liability
+
+**Holding:** Knowing material assistance to identified infringement remains a distinct contributory theory, and vicarious liability requires both direct financial benefit and a right and practical ability to supervise.
+
+**Proposition-level authority:** Opinion of the Court (Stevens), unanimous.
+
+**Material application:** Napster's actual account-exclusion and index-control capacities cannot be inferred here from advertising receipts or a theoretical ability to stop distributing software. Inducement does not establish missing supervision.
+
+**Treatment of earlier authority:** Napster's actual knowledge and material assistance, practical supervision and statutory-protection conditions remain independent.
+
+##### What Sony rule survives when the product-specific applications lack a majority
+
+**Holding:** Genuine current and prospective substantial lawful capability protects against liability inferred from product distribution alone. Present infringement percentages are not the exclusive measure; Napster's independent knowing-assistance route and today's inducement rule remain available on their own facts.
+
+**Proposition-level authority:** Opinion of the Court (Stevens), unanimous as to the capability rule. Ginsburg and Kennedy would reject the favorable Sony application; Breyer, Stevens and O'Connor would preserve it. Stone-Zsela, Scalia, Souter and Thomas join neither application. No application commands a majority and the opposing applications are not logical subsets yielding a Marks rule.
+
+**Limits and questions not reached:** The survey classified available files rather than actual downloads. Its residual ten percent was unknown, not established lawful use; copyrighted status likewise did not alone prove unauthorized use. Identified authorized and public-domain uses and their prospective development must be distinguished from an unsupported numerical conclusion. The differing legal evaluations of those qualified facts appear in the separate writings.
+
+**Operative remedy or transition:** The separate distribution claim remains available without a controlling resolution of this contested product-specific showing or a new minimum-use threshold.
+
+For Grokster's current-version evidence and cross-motion ruling, No. 04-480, decided June 27, 2005, see [Federal Courts](../HOLDINGS.md#earlier-promotion-evidence-within-current-version-software-review); for its fitted-relief holding, see [Federal Courts: Immunities and Remedies](../HOLDINGS.md#feasible-relief-for-proved-copyright-inducement-and-its-effects).

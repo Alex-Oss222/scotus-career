@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2003
-**Processed through:** June 30, 2004, after all 119 completed OT2003 Court events and the admitted Rule 53 amendment effective December 1, 2003.
-**Edition:** November 22, 2026
+**Last completed October Term:** 2004
+**Processed through:** June 27, 2005, after all 105 completed OT2004 Court events and the admitted section 703 source effective October 22, 2004.
+**Edition:** November 23, 2026
 
 ## Labor and Employment
 
@@ -124,6 +124,8 @@ For the Seventh Amendment jury holding in Wooddell v. International Brotherhood 
 - Aikens, 460 U.S. 711, and Burdine, 450 U.S. 248 — applied: actual motivation may be proved circumstantially; no automatic inference from any unlawful motive.
 - Ingersoll-Rand, 498 U.S. 133 — distinguished: ERISA pension interference and age discrimination remain distinct.
 - McDonnell Douglas, 411 U.S. 792 — preserved; its legitimate-reason terminology does not make every improper motive an ADEA violation.
+
+**Later-authority backlinks:** Smith v. City of Jackson, No. 03-1160, March 30, 2005, resolves the employee disparate-impact reservation under §623(a)(2), subject to §623(f)(1)’s reasonable-factors qualification. Hazen Paper’s intentional-treatment and age-proxy rules and its distinct age-triggered-vesting reservation remain intact.
 
 ##### Thurston governs individual acts as well as formal policies
 
@@ -3759,3 +3761,54 @@ For Pennsylvania State Police v. Suders, 542 U.S. 129, 2004-06-14, No. 03-95, se
 - Faragher v. City of Boca Raton: its actual-power attribution and ineffective-protection rules remain; the previously reserved complete-defense issue is now resolved.
 - Burlington Industries, Inc. v. Ellerth: its plaintiff-proved material-aid rule and distinction between policy knowledge and effective protection remain. Its complete-defense reservation is replaced by the present five-Justice rule.
 - Meritor Savings Bank v. Vinson: its requirement of an agency analysis remains, rather than automatic liability from supervisory rank or a universal management-notice prerequisite.
+
+
+### Age-discrimination effects and reasonable nonage factors
+
+#### Smith v. City of Jackson
+
+**Docket or dockets:** No. 03-1160; judgment below, 351 F.3d 183.
+**Decided:** March 30, 2005.
+
+##### The ADEA permits an identified practice’s discriminatory effects to be challenged
+
+**Holding:** Section 623(a)(2) permits employees to challenge an identified neutral employment practice that causes protected-age disadvantage in employment opportunities or status, without proving that age motivated the practice. The employees must identify the particular practice and establish the causal adverse effect; an age imbalance alone does not identify its cause.
+
+**Proposition-level authority:** Stevens’s opinion: Stone-Zsela, Stevens, Souter, Ginsburg and Breyer join the independent statutory construction; Scalia supports recognition on his agency ground and joins the operative practice-and-causation rule. Six directly support the operative proposition, with five joining its independent judicial rationale.
+
+**Limits and questions not reached:** This employee claim under §623(a)(2) concerns effects of an identified practice. The separate intentional-treatment claim and its governing age-motivation and proxy rules remain distinct. No majority allocates the reasonable-factors defense burden; the separate writings’ competing allocations are not controlling.
+
+**Treatment of earlier authority:** Hazen Paper Co. v. Biggins retains its intentional-treatment and age-proxy rules while its disparate-impact reservation is answered. Griggs v. Duke Power Co. supplies the parallel effects-language reading; Wards Cove Packing Co. v. Atonio supplies particular-practice and causal-link requirements. General Dynamics Land Systems, Inc. v. Cline retains the direction of age protection. Christensen v. Harris County and United States v. Mead Corp. retain their source-specific agency-interpretation rules.
+
+##### Reasonable nonage factors sustain this compensation plan
+
+**Holding:** Under §623(f)(1), a differentiation based on reasonable factors other than age is outside disparate-impact liability. Reasonableness concerns the actual nonage factor and its relationship to the employment objective; it does not require business necessity or selection of the least disparate workable alternative. On this record, rank, tenure, existing salary and adjustment toward regional compensation levels supply reasonable nonage factors even assuming that the challenged allocation caused the reported age disparity.
+
+**Proposition-level authority:** Stevens’s opinion, joined on this standard and application by Stone-Zsela, Scalia, Souter, Ginsburg and Breyer; six Justices.
+
+**Material application:** The regional wage survey, five ranks and step system placed each officer at the lowest step producing at least a two-percent raise. Larger percentage increases for lower-paid officers, differing dollar increases and overlapping age/tenure groups do not make the actual rank, tenure and market-alignment factors unreasonable; the Court assumes the claimed causal disparity in sustaining the plan.
+
+**Operative remedy or transition:** Summary judgment on disparate impact is affirmed, 9–0, with the six-Justice statutory rationale controlling; O’Connor, Kennedy and Thomas agree with the judgment on their categorical no-impact ground. The independently surviving intentional-treatment discovery remand is preserved.
+
+**Treatment of earlier authority:** Griggs’s Title VII justification requirement and the 1991 amendments to that statute do not replace the ADEA’s own reasonable-factors qualification. The regulation’s business-necessity language likewise cannot displace §623(f)(1).
+
+
+
+### Borrowed limitation for independent False Claims Act retaliation
+
+#### Graham County Soil & Water Conservation District v. United States ex rel. Wilson, 545 U.S. 409
+
+**Docket or dockets:** No. 04-169.
+**Decided:** June 20, 2005.
+
+##### Retaliation actions use the appropriate borrowed state period
+
+**Holding:** The six-year period measured by §3731(b)(1) from a violation of §3729 does not govern the independent retaliation action created by the operative 1986 version of §3730(h). Absent another applicable federal period, courts borrow the most closely analogous state limitation under the established borrowing rules, selecting it by the substantive character of the retaliatory injury and determining accrual and any supported tolling under the applicable rules.
+
+**Proposition-level authority:** Opinion of the Court (Souter), joined by Stone-Zsela, O’Connor, Scalia, Kennedy and Thomas; six Justices adopt the complete construction and remand. Stevens concurs in the judgment on a separate ground.
+
+**Limits and questions not reached:** The decision concerns §3731(b)(1), not paragraph (b)(2)’s federal-official-knowledge provision. The proper North Carolina analogue was not decided below or included in the grant. Section 1658 supplies no period for this 1986 cause.
+
+**Operative remedy or transition:** Reverse and remand for selection and application of the appropriate state analogue, accrual and supported tolling. Reversal does not reinstate the district court’s dismissal or approve its three-year selection; the separate fraud claim retains its own limitations rules.
+
+**Treatment of earlier authority:** McKenzie preserves independent retaliation protection without ultimate proof of a completed false claim. North Star Steel supplies ordinary state borrowing; Donnelley retains its enactment-date boundary.

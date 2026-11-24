@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2003
-**Processed through:** June 30, 2004, after all 119 completed OT2003 Court events and the admitted Rule 53 amendment effective December 1, 2003.
-**Edition:** November 22, 2026
+**Last completed October Term:** 2004
+**Processed through:** June 27, 2005, after all 105 completed OT2004 Court events and the admitted section 703 source effective October 22, 2004.
+**Edition:** November 23, 2026
 
 ## Election Law
 
@@ -3531,3 +3531,172 @@ For Duckworth v. State Administration Board of Election Laws, 332 F.3d 769 (judg
 **Operative remedy or transition:** The three-judge court applies the governing claim to pleading, proof and any remedy. Lawful election administration continues subject to a separately justified order from that tribunal.
 
 **Treatment of earlier authority:** Vieth v. Jubelirer supplies the existing rule without changed scope or coalition. Martinez v. Bush requires claim-specific application; Shaw v. Reno does not make unusual shape a substitute for the partisan injury.
+
+
+
+### Polling-place advocacy and campaign debt financing
+
+#### Anderson v. Spear, 356 F.3d 651 (judgment below)
+
+**Docket or dockets:** Sixth Circuit No. 02-5529; no Supreme Court docket supplied.
+**Decided:** November 30, 2004.
+
+For construction, severability and the operative injunction in Anderson, November 30, 2004, Sixth Circuit No. 02-5529, see Federal Courts: Immunities and Remedies — Relief against invalid election restrictions.
+
+##### Whether Kentucky’s 500-foot electioneering ban is valid across ordinary public forums
+
+**Holding:** A campaign-specific restriction on ordinary public streets and sidewalks requires a compelling voting-protection interest and a restriction necessary and narrowly drawn to serve it. Kentucky’s 500-foot exclusion, including nonintimidating write-in instructions and advocacy, fails that requirement on this record.
+
+**Proposition-level authority:** Kennedy’s Part I, joined by Stone-Zsela, Stevens, O’Connor, Souter, Ginsburg and Breyer; seven direct votes. Scalia and Thomas agree with invalidation on separate grounds.
+
+**Material application:** The election-day restriction covers signs, literature, cards, handbills, petition signatures and vote solicitation at polling places and within 500 feet of a county clerk’s office or an entrance to a building with a voting machine. Exit polling is excepted. Its private-property exception covers activity inside a private residence or establishment other than polling premises by a person with an ownership interest; it does not restore public-sidewalk speech.
+
+**Treatment of earlier authority:** Burson v. Freeman, May 26, 1992, supplies the independently majority-supported scrutiny rule; its fractured 100-foot judgment creates no distance safe harbor. Mills v. Alabama protects election-day advocacy, and United States v. Grace preserves the status of ordinary public sidewalks. Intimidation prevention is compelling, but administrative convenience does not supply the missing fit.
+
+##### Whether possible later repayment justifies a ceiling on initial personal campaign loans
+
+**Holding:** The possibility that donors may later repay a candidate’s campaign debt does not justify Kentucky’s $50,000 ceiling on initial use of the candidate’s personal resources. Actual third-party repayment contributions remain subject to the applicable contribution standard.
+
+**Proposition-level authority:** Kennedy’s Part II, unanimous.
+
+**Treatment of earlier authority:** Buckley v. Valeo distinguishes a candidate’s own campaign spending from a later donor transfer. The personal benefit and corruption risk of repayment attach to that donor transaction; they do not convert initial self-financing into a contribution.
+
+##### Whether all post-election debt-retirement contributions may be prohibited
+
+**Holding:** A restriction on debt-retirement contributions must have a supported anticorruption justification and close fit preserving meaningful political association. Kentucky’s categorical ban on candidates or agents soliciting or accepting contributions after the general election fails on this record.
+
+**Proposition-level authority:** Kennedy’s Part III, unanimous.
+
+**Limits and questions not reached:** Lawful donor-amount, source, true-source and disclosure restrictions retain independent effect. Winner identification and personal debt repayment may raise corruption concerns but do not justify eliminating every lawful contribution channel.
+
+**Operative remedy or transition:** Invalidation of all three challenged restrictions is affirmed unanimously, subject to precise relief and lawful severability stated in the companion remedial holding.
+
+**Treatment of earlier authority:** Russell v. Burris, April 28, 1999, and Nixon v. Shrink Missouri Government PAC, January 24, 2000, require justified and closely fitted contribution limits. Federal Election Commission v. Beaumont, June 16, 2003, preserves actual source and circumvention analysis.
+
+
+### Independent proof of local packing
+
+#### Black Political Task Force v. Galvin — electoral opportunity
+
+**Docket or dockets:** Lower-court No. 02-11190; 300 F. Supp. 2d 291.
+**Decided:** March 22, 2005.
+
+##### Causal preconditions and independent proof of unequal electoral opportunity
+
+**Holding:** A section 2 districting claimant must prove lawful compact district capacity, cohesive minority voting and majority bloc voting ordinarily sufficient to defeat the group's preferred candidates, with supported special circumstances considered, and must separately prove unequal opportunity by a preponderance under the totality. Capacity may rest on a lawful compact majority district or Valdespino's rigorous single-group dependable-crossover route; neither a feasible additional district nor the preliminary conditions presume ultimate liability.
+
+**Proposition-level authority:** Part II of Souter's opinion, joined by Stone-Zsela, Stevens, O'Connor, Kennedy, Ginsburg and Breyer; seven direct votes.
+
+**Material application:** Proportionality is relevant but supplies neither a safe harbor nor a burden-shifting defense. Demonstrated crossover opportunity counts, and a district may afford opportunity to more than one group. Candidate race does not establish voter preference. Incumbency and unopposed elections may matter as supported special circumstances, but success cannot be discarded merely because the winning preferred candidate is white or an incumbent. The lower court erred in using a majority-only proportionality numerator and a presumption from the preliminary conditions.
+
+**Limits and questions not reached:** The functional-capacity route still requires lawful geography, population and dependable ability to elect; speculation, isolated success and influence alone are insufficient. The case satisfies the retained majority-district route. Distinct-minority-group coalition entitlement and the separate constitutional claims are not decided; no universal population denominator or classification method is prescribed.
+
+**Treatment of earlier authority:** Gingles supplies the causal conditions, subject to Valdespino's existing modification. De Grandy preserves independent totality and rejects maximization and geographic offsets. Valdespino's crossover route is preserved without extension. Martinez requires actual local nomination and election performance, distinct proof quantities and a supported improving alternative. Shaw's separate constitutional injury does not add a purpose requirement to this statutory results claim.
+
+##### Supported packing establishes the violation independently of the rejected numerical analysis
+
+**Holding:** The supported precinct transfers, population needs, polarized voting and workable compact alternative independently establish that this configuration packed Black voters and denied equal electoral opportunity. Incumbency protection does not excuse that proved injury; racial concentration, racial purpose or another possible majority district alone would not suffice.
+
+**Proposition-level authority:** Part III of Souter's opinion, joined by Stone-Zsela, Stevens, Ginsburg and Breyer; five direct votes. O'Connor and Kennedy's joins in Part II do not extend to this affirmance.
+
+**Material application:** Six predominantly Black precincts were removed from the population-needing 11th and 12th districts and placed in the already heavily Black 6th, which did not need them. The supported findings connect those transfers and the Fitzgerald Amendment to lost opportunity. The court separately assessed actual cross-racial electoral successes and their circumstances, establishing the injury without the erroneous numerator or presumption.
+
+**Treatment of earlier authority:** De Grandy bars aggregate opportunity from excusing proved local packing. Voinovich distinguishes unequal opportunity from a district's racial composition alone. Martinez supplies the comparison of actual local operation with the supported lawful alternative. Section 2 districting coverage remains governed by this line of authority.
+
+For the continuing-controversy and seventeen-district-remedy holdings in this case, March 22, 2005, lower-court No. 02-11190, see Federal Courts: Justiciability — A continuing districting injunction after legislative replacement, and Federal Courts: Immunities and Remedies — Relief for the seventeen-district packing violation.
+
+
+### Organizational electoral-payer identification and statutory reach
+
+#### American Civil Liberties Union of Nevada v. Heller, 378 F.3d 979 (judgment below) — electoral sponsor identification
+
+**Docket or dockets:** Ninth Circuit No. 01-15462.
+**Decided:** May 16, 2005.
+
+For this decision’s other questions, see [Whether concrete intended anonymous publications support prospective review](../HOLDINGS.md#whether-concrete-intended-anonymous-publications-support-prospective-review) (Federal Courts: Justiciability); [How substantial-overbreadth and prospective relief follow the governing attribution rule](../HOLDINGS.md#how-substantial-overbreadth-and-prospective-relief-follow-the-governing-attribution-rule) (Federal Courts: Immunities and Remedies).
+
+##### Whether the actual information-related identification law can be confined to express advocacy
+
+**Holding:** Nevada’s election-identification law must be assessed at its enacted information-related scope. Replacing that scope with express advocacy would rewrite the statute; certification of that proposed construction supplies no lawful basis to delay the federal inquiry.
+
+**Proposition-level authority:** Opinion of the Court (Kennedy), Part I, unanimous.
+
+**Limits and questions not reached:** Nevada Revised Statutes §294A.320(1) requires the name and mailing or street address of each person paying or responsible for paying for material or information relating to an election, candidate or ballot question, together with a statement of that payment responsibility. The statute's qualifications are distinct:
+
+- Subsection (2)(a) exempts a billboard, sign or other advertisement paid for, or the payment responsibility for which is borne, by a candidate or that candidate's political party when it refers only to that candidate and prominently displays the candidate's name.
+- Subsection (2)(b) exempts material expressly approved and paid for by the candidate when the candidate has reported its preparation and publication cost as a campaign contribution under §294A.120.
+- Subsection (2)(c) exempts a natural person acting independently, neither cooperating with nor acting at the direction of a business or social organization, nongovernmental legal entity or governmental entity.
+- Subsection (3) treats identification satisfying the Communications Act of 1934 and its regulations as sufficient compliance.
+
+Material includes printed or written matter and photographs. Publication includes printing, posting, broadcasting, mailing or otherwise disseminating to the public, and causing those acts. This dispute concerns the presented printed communications. The statute contains no general expenditure floor or pre-election window.
+
+##### When government may require organizational electoral-payer identification
+
+**Holding:** A State may require factual identification of an organizational financer of electoral communication when it establishes a material electoral-information or source-tracing connection, subject to protection for substantiated associational injury. Government must justify the actual information and exposure demanded; a claimant seeking protective relief must substantiate the asserted injury, and government retains the burden of justifying remaining exposure.
+
+**Proposition-level authority:** Opinion of the Court (Kennedy), Parts II–III, joined by Stone-Zsela, O'Connor, Scalia, Souter and Breyer; six Justices.
+
+**Limits and questions not reached:** The actual payer information, address exposure and publication class require justification. A spending threshold, election window or express-advocacy formula is not always required, but each may matter to fit and burden. Modest cooperation does not eliminate anonymity interests: small-group leaflets and remote neutral information require their own assessment. McConnell’s separate $10,000 reporting threshold is not a trigger for sponsorship attribution.
+
+**Treatment of earlier authority:** McIntyre preserves ordinary independent individual-leaflet anonymity. Stengel Part IV sustains justified payer names and addresses in organized paid candidate advocacy; McConnell permits materially justified attribution beyond express advocacy while separating reporting duties. Bartlett’s expenditure and committee-status rules do not automatically define attribution’s scope. NAACP and Brown protect substantiated associational injury while leaving government to justify remaining disclosure.
+
+### Consensual primary invitations across party registrations
+
+#### Clingman v. Beaver, 544 U.S. 581 (2005)
+
+**Docket or dockets:** No. 04-37.
+**Decided:** May 23, 2005.
+
+For this decision’s other questions, see [Prospective relief follows the common exclusion](../HOLDINGS.md#prospective-relief-follows-the-common-exclusion) (Federal Courts: Immunities and Remedies).
+
+##### Protected association and the governing inquiry
+
+**Holding:** A qualified party's invitation and an otherwise eligible voter's acceptance are protected political association even when the voter retains another party registration. A court must assess the actual burden, the State's precise interests and their fit under Anderson and Burdick: severe burdens require compelling justification and narrow tailoring; lesser burdens still require a sufficient regulatory connection.
+
+**Proposition-level authority:** Part I of Chief Justice Stone-Zsela's opinion, joined by all eight Associate Justices; unanimous.
+
+**Limits and questions not reached:** The State may enforce fitted single-primary voting and ordinary election-administration rules. Registration is administrable but does not negate the association burdened by the restriction.
+
+**Treatment of earlier authority:**
+
+- Anderson v. Celebrezze and Burdick v. Takushi supply the contextual burden, precise-interest and fit inquiry; their graduated scrutiny remains controlling.
+- California Democratic Party v. Jones retains its protection against compelled outsider nomination; the party's consent distinguishes this case.
+- Tashjian v. Republican Party of Connecticut remains controlling for independent-voter invitations; its reserved other-party question is resolved at the consent-based scope stated here.
+
+##### The continued-registration exclusion lacks sufficient justification
+
+**Holding:** Oklahoma may not exclude an otherwise qualified voter from a consenting party's primary solely because the voter retains another party registration when the State has not shown a sufficient regulatory need for that exclusion. On this record the burden is substantial but not severe, and the categorical disaffiliation condition fails contextual review without automatic strict scrutiny.
+
+**Proposition-level authority:** Parts II–III of Chief Justice Stone-Zsela's opinion, joined by Stevens, Kennedy, Souter and Ginsburg; five direct joins. The four other Justices join only Part I.
+
+**Material application:** The trial findings rejected confusion, insuperable administrative difficulty and protection of the inviting party from its own choice. Evidence that invited voters could alter close results did not establish disorganized parties or corrupted nominations. The asserted interests in party identity, orderly nominations and other parties' continuity lacked an adequate connection to the categorical exclusion.
+
+**Limits and questions not reached:** The holding does not impose automatic strict scrutiny or deny regulation of a demonstrated, distinct electoral threat. An unwilling party may exclude outsiders from its own primary.
+
+**Operative remedy or transition:** The judgment invalidating the exclusion is affirmed, although the Court rejects the lower court's severe-burden classification. Relief is prospective.
+
+**Treatment of earlier authority:**
+
+- Timmons v. Twin Cities Area New Party is extended from meaningful consensual nomination to reciprocal primary invitations, preserving its substantial-but-not-severe analysis.
+
+
+
+
+### Official political enrollment beyond primary administration
+
+#### Green Party of New York State v. New York State Board of Elections, 389 F.3d 411 (judgment below) — enrollment burden
+
+**Docket or dockets:** Second Circuit No. 03-7679.
+**Decided:** June 23, 2005.
+
+##### Whether erasing and refusing affiliations of organizations with demonstrated statewide support satisfies the substantial-burden standard
+
+**Holding:** When a State maintains official affiliation information for political organization as well as primary administration, erasing and refusing the affiliations of organizations with demonstrated statewide ballot support imposes a substantial associational burden. Under the calibrated Anderson–Burdick inquiry, an important state objective must have a demonstrated substantial relationship to that exclusion; the preliminary findings establish a substantial likelihood that New York's categorical exclusion fails that requirement.
+
+**Proposition-level authority:** Opinion of the Court (Souter), Part I, joined by Stevens, O'Connor, Kennedy, Ginsburg and Breyer; six direct joins. Stone-Zsela's severe-burden theory is not part of this controlling rationale.
+
+**Limits and questions not reached:** The decision sustains preliminary protection; it does not finally adjudicate the merits. The official system's organizing, communication and fundraising functions support the substantial-burden assessment despite remaining nomination and campaign opportunities. Recorded affiliation does not confer primary eligibility or full statutory party status.
+
+**Treatment of earlier authority:** Burdick supplies the actual-burden inquiry; Cartwright gives substantial burden an independent important-objective and substantial-fit requirement. Norman connects support requirements to the specific function, and Timmons requires an actual link to claimed electoral stability. Belitskus retains its distinct inability-to-pay application.
+
+For the interim-protection and common-policy remedy holdings in Green Party, Second Circuit No. 03-7679, decided June 23, 2005, see [Federal Courts: Immunities and Remedies](../HOLDINGS.md#interim-political-enrollment-protection-and-the-common-policy-cure).

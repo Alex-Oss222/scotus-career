@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2003
-**Processed through:** June 30, 2004, after all 119 completed OT2003 Court events and the admitted Rule 53 amendment effective December 1, 2003.
-**Edition:** November 22, 2026
+**Last completed October Term:** 2004
+**Processed through:** June 27, 2005, after all 105 completed OT2004 Court events and the admitted section 703 source effective October 22, 2004.
+**Edition:** November 23, 2026
 
 ## Criminal Procedure: Search, Seizure and Interrogation
 
@@ -1791,6 +1791,8 @@ No automatic civil liability, general fruit-of-the-statement rule, mandatory war
 
 **Treatment of earlier authority:** Whren v. United States preserves action on actual probable cause despite an officer's further motive; it does not provide authority for a suspicionless program. Chandler v. Miller requires an adequate actual justification without a universal checklist. Michigan Department of State Police v. Sitz and United States v. Martinez-Fuerte retain their highway-safety and border-control rules in their settings. Delaware v. Prouse does not make systematic operation independently sufficient. Bond v. United States distinguishes lawful presence from authority for a further intrusion and supplies no new checkpoint-purpose rule.
 
+**Later-authority backlinks:** Illinois v. Caballes, January 24, 2005, resolves the canine-examination question for a contraband-confined exterior examination during an independently lawful traffic stop, subject to lawful access, restraint and separate physical-search authority. The rule does not decide expansion of a primarily lawful checkpoint program.
+
 ### Temporary preservation of a home pending a warrant
 
 #### Illinois v. McArthur, 531 U.S. 326
@@ -2978,3 +2980,121 @@ For Drummond ex rel. Drummond v. City of Anaheim, 2004-06-17, No separate Suprem
 **Treatment of earlier authority:** - **Miranda v. Arizona; Dickerson v. United States, 530 U.S. 428:** Their constitutional case-in-chief warning-and-waiver core is preserved; Dickerson's open physical-fruits question is resolved at the voluntary, nontestimonial scope here.
 - **Michigan v. Tucker, 417 U.S. 433; Oregon v. Elstad, 470 U.S. 298:** Their differentiated consequences support this physical-remedy distinction without replacing the original statement's warning requirement.
 - **Chavez v. Martinez, 538 U.S. 760:** Its no-use damages judgment had no controlling Fifth Amendment rationale and does not decide admissibility; its separate interrogation-abuse inquiry survives at its actual scope.
+
+
+
+### Contemporaneously supported alternative grounds for arrest
+
+#### Devenpeck v. Alford, 543 U.S. 146
+
+**Docket or dockets:** No. 03-710.
+**Decided:** December 13, 2004.
+
+##### Whether the alternative arrest offense must be closely related to the announced offense
+
+**Holding:** An arrest may rest on an offense different from, and not closely related to, the officer's announced offense if the facts actually known when the seizure occurred establish probable cause under that offense's elements. The alternative ground must justify the restraint actually imposed; later-acquired evidence cannot supply earlier probable cause, and greater detention remains subject to its independent constitutional limits.
+
+**Proposition-level authority:** O’Connor’s governing-rule and remand portions have all nine Justices’ direct joins. The eight Associates join formal reversal; Stone-Zsela supports vacatur instead, without withholding assent from the substantive rule or remand.
+
+**Material application:** The actual impersonation and obstruction alternatives require assessment under their elements and facts known at arrest. A merely conceivable offense or later discovery supplies no justification.
+
+**Limits and questions not reached:** For observed fine-only misdemeanors or civil licensing violations, added transport and confinement require a supported enforcement function. Identification, appearance, safety, cessation of a continuing violation, evidence protection and necessary processing are nonexclusive possibilities, not presumptions. No universal citation duty or least-intrusive-means requirement follows.
+
+**Operative remedy or transition:** The relation requirement is set aside and the case remanded; present judgment on the officers’ defenses is denied. Necessary fact questions return to the district court. Properly presented detention-scope issues and personal immunity remain distinct adjudications; immunity’s notice date is November 22, 1997.
+
+**Treatment of earlier authority:** Whren v. United States applies objective authority while preserving manner, scope and duration limits. Maryland v. Pringle requires grounded inferences from contemporaneous facts. Atwater v. City of Lago Vista and Ricci v. Village of Arlington Heights retain their actual-enforcement requirement for greater custody. Harlow v. Fitzgerald and Anderson v. Creighton retain conduct-date personal immunity as a separate inquiry.
+
+### Contraband-confined canine examination during traffic detention
+
+#### Illinois v. Caballes, 543 U.S. 405
+
+**Docket or dockets:** No. 03-923.
+**Decided:** January 24, 2005.
+
+##### Whether a contraband-confined exterior canine examination during a lawful traffic stop requires separate drug suspicion
+
+**Holding:** An exterior examination by a properly trained narcotics dog that is actually confined to detecting contraband requires no separate drug suspicion when officers have lawful access and the examination adds no unlawful restraint or other protected intrusion. The State must establish those predicates and ordinary probable cause for any later physical search; the dog's label and the later discovery of drugs do not substitute for them.
+
+**Proposition-level authority:** O'Connor's opinion, joined by Stone-Zsela, Stevens, Scalia, Kennedy, Thomas and Breyer; seven direct rationale votes.
+
+**Material application:** The granted question accepts the lawfulness of this traffic detention's duration, and the trial court separately found this alert sufficiently reliable to establish probable cause. An unrelated drug-investigation purpose alone creates neither a protected privacy intrusion nor unlawful added restraint on those premises. Possible erroneous alerts do not themselves disclose lawful private information; the resulting physical search still requires its own justification.
+
+**Limits and questions not reached:** The rule requires actual informational confinement, lawful access and lawful restraint. It does not authorize delay after traffic justification ends or entry into a protected area; physical searches retain their independent constitutional predicates. Reliability rests on the trial court's finding about this alert.
+
+**Operative remedy or transition:** The Illinois Supreme Court judgment is vacated and remanded. The state courts must apply the confined nonsearch rule and decide genuinely preserved independent grounds. If no independent defect remains, lack of separate drug suspicion supplies no basis for exclusion.
+
+**Treatment of earlier authority:** Place and Jacobsen supply the contraband-only informational distinction while retaining independent detention and physical-search limits. Whren supplies objective initial traffic authority; Robinette governs continued restraint after that authority ends; Knowles requires separate authority for a physical search. Edmond is distinguished by the actual traffic justification and its canine-classification reservation is answered for this setting. Kyllo's protection of concealed lawful domestic information and its separate warrant rule remain intact.
+
+
+### Changing detention and force during a premises search
+
+#### Muehler v. Mena, 544 U.S. 93 — detention, force and questioning
+
+**Docket or dockets:** No. 03-1423.
+**Decided:** March 22, 2005.
+
+##### Initial occupant detention and continued handcuffing during a weapons search
+
+**Holding:** Execution of a lawful premises-search warrant permits detention of occupants without separate suspicion that each committed an offense, and the anticipated armed-gang danger here justified initial handcuff control. Continued use of that force nevertheless requires objective justification as conditions develop, considering risk, established control, duration, restraint-related harm and available supervision; lawful initial restraint does not establish reasonableness for the entire search.
+
+**Proposition-level authority:** Ginsburg's Part I concerning initial detention and safety measures is unanimous. Part II requiring renewed review of continued force is joined by Stone-Zsela, Stevens, Souter and Breyer, five Justices in all; O'Connor, Scalia, Kennedy and Thomas would resolve this search-period force claim for the officers.
+
+**Material application:** The weapons risk, four detained adults and limited guards must be assessed alongside supported verdict facts concerning compliance, control, discomfort, release requests and the search's progress. A general force verdict does not establish every subsidiary fact, but review must respect the historical facts supported in its favor.
+
+**Limits and questions not reached:** Objective reasonableness requires neither the least intrusive feasible arrangement nor a fixed maximum handcuff duration. An appellate preference for another tactic and blanket approval of search-long cuffs are both insufficient.
+
+**Treatment of earlier authority:** Summers supplies execution-related occupant control; Graham separately governs the force used. Holland applies continuing reasonableness as circumstances change.
+
+##### Ordinary questions and the independent justification for added or post-search custody
+
+**Holding:** An ordinary immigration question during lawful detention needs no additional reasonable suspicion solely because of its subject, provided it adds neither detention nor a distinct coercive intrusion. Any added restraint requires its own adequate basis, and a preserved post-search detention claim requires separate assessment of the actual interval, reasonable completion tasks and any independent authority for custody.
+
+**Proposition-level authority:** Ginsburg's Parts I and III, unanimous.
+
+**Material application:** The topic-based questioning ground cannot stand. Whether questioning prolonged custody, and the separate post-search detention claim, remain for factual and legal assessment under the correct standard.
+
+**Treatment of earlier authority:** Bostick distinguishes requests for information from a seizure. Caballes requires lawful existing custody and attention to the protected interest; absence of extra time does not authorize every distinct intrusion. Summers does not indefinitely sustain custody after its search-related basis ends.
+
+For Muehler's verdict-sensitive damages mandate and the scope of the unreviewed immunity defense, No. 03-1423, March 22, 2005, see Federal Courts: Immunities and Remedies — Damages review after correction of search-detention theories.
+
+
+### Immediate clinic entry and actual inspection authority
+
+#### Tucson Woman's Clinic v. Eden, 379 F.3d 531 (judgment below) — compulsory entry
+
+**Docket or dockets:** Review of the Ninth Circuit judgment, 379 F.3d 531, amended August 23, 2004.
+**Decided:** May 31, 2005.
+
+For this decision’s other questions, see [When concrete prospective clinic costs, capacity loss and delay require adjudication of cumulative access burdens](../HOLDINGS.md#when-concrete-prospective-clinic-costs-capacity-loss-and-delay-require-adjudication-of-cumulative-access-burdens) (Civil Rights); [Whether the professional and small-practice classifications fail ordinary equal-protection review](../HOLDINGS.md#whether-the-professional-and-small-practice-classifications-fail-ordinary-equal-protection-review) (Civil Rights); [Whether patient sex equality must receive an independent classification-and-purpose inquiry](../HOLDINGS.md#whether-patient-sex-equality-must-receive-an-independent-classification-and-purpose-inquiry) (Civil Rights); [Whether department records access and APEX ultrasound transfer have adequate recipient-specific limits](../HOLDINGS.md#whether-department-records-access-and-apex-ultrasound-transfer-have-adequate-recipient-specific-limits) (Civil Rights); [Whether the bounded professional-board serious-incident report violates patient privacy](../HOLDINGS.md#whether-the-bounded-professional-board-serious-incident-report-violates-patient-privacy) (Civil Rights); [Whether Arizona’s hospital qualifications confer an arbitrary private licensing veto](../HOLDINGS.md#whether-arizonas-hospital-qualifications-confer-an-arbitrary-private-licensing-veto) (Civil Rights); [Whether undefined dignity language may independently support civil, criminal or licensing punishment](../HOLDINGS.md#whether-undefined-dignity-language-may-independently-support-civil-criminal-or-licensing-punishment) (Administrative Law); [How severability, common-policy relief and interim protection correspond to the particular clinic-regulation violations](../HOLDINGS.md#how-severability-common-policy-relief-and-interim-protection-correspond-to-the-particular-clinic-regulation-violations) (Federal Courts: Immunities and Remedies).
+
+##### Whether new regulatory density permits open-ended immediate warrantless clinic entry
+
+**Holding:** Arizona may not compel the challenged open-ended immediate clinic entry without a warrant or an established exception merely by newly imposing extensive regulation. The State must establish the exception on which it relies. In a genuinely closely regulated industry, Burger additionally requires a substantial governmental interest, necessity for warrantless inspection and a constitutionally adequate substitute constraining official discretion; this scheme does not establish those predicates for its full mandatory entry command.
+
+**Proposition-level authority:** Ginsburg's opinion at the stated independent ground, joined by all nine Justices. Stone-Zsela, Stevens, O’Connor, Kennedy, Souter, Ginsburg and Breyer also join Ferguson’s operation-specific and no-general-waiver reasoning.
+
+**Material application:** A new regulatory scheme does not by itself establish the historical closely-regulated-industry premise. Operating hours limit timing but do not sufficiently constrain the authorized intrusion into medical premises, examination rooms, patients and records.
+
+**Operative remedy or transition:** The confined invalidation is affirmed against compulsory entry lacking adequate authority and its dependent applications and sanctions. Genuine consent, a lawful warrant and a genuine exigency remain available.
+
+**Treatment of earlier authority:** Burger supplies the actual closely-regulated-industry predicates and discretion limits while protecting commercial premises. Ferguson corroborates operation-specific analysis and rejects medical attendance as general consent; its coordinated-prosecution facts remain distinct.
+
+
+
+
+### Investigative DNA acquisition during supervised release
+
+#### United States v. Kincade
+
+**Docket or dockets:** Review of the Ninth Circuit en banc judgment reported at 379 F.3d 813 (2004).
+**Decided:** June 6, 2005.
+
+##### Compulsory investigative DNA collection during supervised release
+
+**Holding:** A qualifying conviction and a supervised-release condition do not by themselves authorize compulsory biological sampling and protected examination for a general criminal-investigation database. The government must establish individualized suspicion together with lawful search authority, valid consent, or a constitutionally sufficient exception whose purpose and scope fit the search; it has established none for Kincade's demand.
+
+**Proposition-level authority:** Opinion of the Court (Stone-Zsela), joined by Stevens, O’Connor, Scalia, Souter and Ginsburg; six Justices join the entire acquisition rule and corrective remedy.
+
+**Treatment of earlier authority:** Rise v. Oregon directly governs the insufficiency of conviction coverage, reduced privacy, modest extraction and controlled investigative use. Knights supplies only its combined condition-and-suspicion rationale. Edmond and Ferguson require attention to actual program purpose; Griffin’s justified supervisory search remains distinct. Caballes does not remove the bodily-search character of compulsory blood collection and protected examination.
+
+Kincade, review of 379 F.3d 813, decided June 6, 2005, states correction of refusal-dependent consequences and obtained material under [Federal Courts: Immunities and Remedies](../HOLDINGS.md#correction-of-unconstitutional-dna-demands-and-refusal-consequences).

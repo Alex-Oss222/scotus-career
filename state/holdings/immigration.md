@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2003
-**Processed through:** June 30, 2004, after all 119 completed OT2003 Court events and the admitted Rule 53 amendment effective December 1, 2003.
-**Edition:** November 22, 2026
+**Last completed October Term:** 2004
+**Processed through:** June 27, 2005, after all 105 completed OT2004 Court events and the admitted section 703 source effective October 22, 2004.
+**Edition:** November 23, 2026
 
 ## Immigration
 
@@ -532,6 +532,8 @@ For the jurisdiction question in INS v. St. Cyr, No. 00-767, decided June 25, 20
 
 **Treatment of earlier authority:** National Center confines delegated discretion to statutory purpose. Foucha and Jackson require a continuing lawful ground related to custody’s nature and duration; Flores’s temporary juvenile-care regime is distinguished. Hendricks retains its actual as-applied punishment holding and noncontrolling diagnostic discussion, and Seling keeps punishment, current authority, conditions and relief distinct; no punishment finding is necessary here.
 
+**Later-authority backlinks:** Clark v. Martinez, consolidated with Benitez v. Rozos, January 12, 2005, Nos. 03-878 and 03-7434, resolves the previously unadmitted-category reservation by applying the same removal-purpose duration limit and qualified six-month presumption to that category, with effective supervised-release relief when lawful custody authority is absent.
+
 
 ##### How the rebuttable six-month presumption and removal-prospect burdens operate
 
@@ -596,3 +598,90 @@ For the jurisdiction question in INS v. St. Cyr, No. 00-767, decided June 25, 20
 **Limits and questions not reached:** The broader constitutional hearing and continued-detention positions lack majority support at the necessary level of generality. A distinct duration claim requires findings about the course and justification of Kim's confinement. The section 3143(b) release-pending-appeal analogy in Part III is neither a direct application of that criminal statute nor a universal immigration burden.
 
 For Demore v. Kim, No. 01-1491, October 14, 2003, on independent legal-authority habeas jurisdiction, see Federal Courts: Habeas and Collateral Review - Demore v. Kim.
+
+
+
+### Accidental or negligent injury and the crime-of-violence definition
+
+#### Leocal v. Ashcroft, 543 U.S. 1
+
+**Docket or dockets:** No. 03-583.
+**Decided:** November 9, 2004.
+
+For review of the disputed criminal predicate in Leocal, November 9, 2004, No. 03-583, see Federal Courts — Review of a disputed immigration criminal predicate.
+
+##### Whether accidental or negligent injury satisfies 18 U.S.C. §16(a)
+
+**Holding:** An offense permitting conviction for accidental or negligent injury without employment of physical force against another's person or property is not a crime of violence under section 16(a). The Government must establish the qualifying conviction through the legal elements and applicable conviction record; injury alone cannot supply the missing requirement.
+
+**Proposition-level authority:** O'Connor's opinion of the Court, unanimous; all nine Justices join each proposition.
+
+**Material application:** Florida DUI causing serious bodily injury permits conviction without intentional force employment. The categorical offense definition controls; accident-specific facts cannot add a missing element.
+
+**Limits and questions not reached:** Treatment of an offense requiring recklessness is reserved because that offense is outside the minimum-conduct question presented.
+
+**Operative remedy or transition:** The reversal requires a conforming agency disposition removing these convictions as the charged §16 aggravated-felony basis and addressing correction of continuing immigration consequences. An independently preserved removal ground needs its own adjudication and proof. The Florida convictions remain valid.
+
+**Treatment of earlier authority:** Taylor v. United States, 495 U.S. 575, supplies the offense-based inquiry. Bailey v. United States, December 6, 1995, supplies a contextual active-employment analogy without expanding its firearm holding.
+
+##### Whether injury risk alone satisfies the force-use risk required by §16(b)
+
+**Holding:** A felony qualifies under section 16(b) only if, by its nature, it presents a substantial risk that physical force against another's person or property may be used in committing it. A substantial risk of injury, without the corresponding force-use risk, does not satisfy that definition; Florida's accidental-or-negligent-injury offense therefore fails this route as well.
+
+**Proposition-level authority:** O'Connor's opinion of the Court, unanimous; all nine Justices join each proposition.
+
+**Material application:** Impaired driving’s risk of accidental or negligent injury does not establish the specified risk that force will be employed against another during the felony. The separately satisfied sentence requirement of §1101(a)(43)(F) cannot supply the missing crime-of-violence predicate.
+
+**Limits and questions not reached:** The same recklessness reservation and corrective immigration mandate govern both statutory routes.
+
+### Birthplace destinations and advance acceptance
+
+#### Jama v. Immigration and Customs Enforcement, 543 U.S. 335
+
+**Docket or dockets:** No. 03-674.
+**Decided:** January 12, 2005.
+
+##### Whether selection of the birthplace destination under §1231(b)(2)(E)(iv) requires advance acceptance
+
+**Holding:** Section 1231(b)(2)(E)(iv) permits selection of the country of a person's birth without an additional advance-acceptance condition when the preceding statutory steps and that clause's own predicates are satisfied. Clause (vii)'s express acceptance requirement governs its residual destination, not clause (iv); the agency remains bound by independently applicable removal protections and custody limits.
+
+**Proposition-level authority:** Thomas's opinion, joined by Stone-Zsela, O'Connor, Scalia and Kennedy; five direct rationale votes.
+
+**Limits and questions not reached:** Subparagraph (A) ordinarily requires the designated destination, subject to (B)'s limitation permitting contiguous territory, an adjacent island or an island adjacent to contiguous territory only for a native, citizen, subject, national or former resident. Under (C), officials may disregard a designation for failure to designate promptly, failure to answer finally within thirty days of inquiry, unwillingness to accept, or prejudice to the United States. Under (D), the nationality destination is required unless its government fails to answer within thirty days or another period reasonably allowed, or is unwilling to accept. Clause (E)(vii) is available only when removal to every preceding listed country is impracticable, inadvisable or impossible, and expressly requires acceptance. Whether (D)'s exceptions leave residual discretion is unnecessary to the birthplace question and remains open. Independent withholding, torture-protection and custody claims require their own records; a lawful destination choice does not establish actual foreseeable removal.
+
+**Material application:** Jama's birthplace in Somalia supplies the required connection. The absence of an accepting government does not establish the claimed statutory bar under clause (iv).
+
+**Operative remedy or transition:** The Eighth Circuit is affirmed on the advance-acceptance issue. Implementation remains subject to the destination sequence and independently operative protections or stays.
+
+**Treatment of earlier authority:** Barnhart v. Thomas supplies a context-sensitive reading of the terminal qualification, confirmed by the distinct statutory conditions. St. Cyr preserves legal review without creating destination immunity. Zadvydas keeps continuing custody tied to actual foreseeable removal independently of lawful destination selection.
+
+### Removal-purpose detention of previously unadmitted entrants
+
+#### Clark v. Martinez, consolidated with Benitez v. Rozos, 543 U.S. 371
+
+**Docket or dockets:** Nos. 03-878 and 03-7434.
+**Decided:** January 12, 2005.
+
+##### Whether §1231(a)(6) has the same removal-related duration limit for previously unadmitted persons
+
+**Holding:** For every category covered by §1231(a)(6), including inadmissible persons who have never been admitted, detention is authorized only for the time reasonably necessary to accomplish removal. Once removal has no significant likelihood within the reasonably foreseeable future, the provision no longer authorizes custody; a different constitutional entry status does not change the temporal meaning of the same statutory grant.
+
+**Proposition-level authority:** Scalia's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer; eight direct rationale votes.
+
+**Material application:** The accepted findings establish that removal of Martinez and Benitez to Cuba is not reasonably foreseeable, and the Government supplies no sufficient rebuttal.
+
+**Limits and questions not reached:** The decision construes the common statute without equating the constitutional status of persons at entry. Dangerousness alone and foreign refusal do not supply removal-purpose detention authority. An independent lawful custody provision retains its own predicates and required process; §1226a supplies such a distinct possible source, not a dangerousness exception to §1231(a)(6).
+
+**Treatment of earlier authority:** Zadvydas's removal-purpose construction is extended to its previously reserved inadmissible category. Mezei is distinguished because its different statute and procedure do not establish the meaning of this grant.
+
+##### How the six-month presumption and removal-prospect burdens govern the inadmissible category
+
+**Holding:** Six months, counted within the removal process rather than added after the ordinary ninety-day removal period, is a presumptively reasonable detention interval. After it, the detainee must give good reason to believe that removal lacks a significant likelihood within the reasonably foreseeable future, and the Government must sufficiently rebut that showing; the interval alone does not require release, and supported evidence that a longer period is reasonably necessary, including relevant evidence about an inadmissible class, may justify continued detention.
+
+**Proposition-level authority:** Scalia's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer; eight direct rationale votes.
+
+**Limits and questions not reached:** The reasonably foreseeable horizon shortens as detention continues. Actual efforts, foreign responses, negotiations, documents, receiving arrangements and material detainee conduct inform the inquiry; permanent impossibility need not be proved. Section 1231(a)(1)(C) separately extends the period for failure or refusal to make a timely good-faith application for necessary travel documents, or conspiracy or action preventing removal. Foreign refusal alone proves none of those predicates.
+
+**Treatment of earlier authority:** Zadvydas's qualified six-month presumption and allocation of removal-prospect burdens apply to the previously reserved statutory category; the presumption remains rebuttable.
+
+For enforceable supervised release and lawful renewed custody in Clark and Benitez, January 12, 2005, Nos. 03-878 and 03-7434, see Federal Courts: Habeas and Collateral Review — Clark v. Martinez.

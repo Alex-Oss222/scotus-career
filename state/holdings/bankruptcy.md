@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2003
-**Processed through:** June 30, 2004, after all 119 completed OT2003 Court events and the admitted Rule 53 amendment effective December 1, 2003.
-**Edition:** November 22, 2026
+**Last completed October Term:** 2004
+**Processed through:** June 27, 2005, after all 105 completed OT2004 Court events and the admitted section 703 source effective October 22, 2004.
+**Edition:** November 23, 2026
 
 ## Bankruptcy
 
@@ -30,6 +30,8 @@
 - Guidry v. Sheet Metal Workers National Pension Fund, 493 U.S. 365 (1990): applied for enforceability and the refusal to create an equitable exception; its statutory exceptions and reserved plan-fiduciary issue remain intact.
 - Union Bank v. Wolas, simulated December 11, 1991: applied for giving effect to an enacted bankruptcy provision despite a proposed policy limitation; its ordinary-course preference holding remains unchanged.
 - Dewsnup v. Timm, simulated January 15, 1992: distinguished as a context-specific construction preserving an allowed real-property lien, not a restriction of §541(c)(2) to state law; no holding is overruled.
+
+**Later-authority backlinks:** Rousey v. Jacoway, No. 03-1407, April 4, 2005, resolves §522(d)(10)(E)’s separate exemption coverage for the qualifying rollover IRAs and their future-payment rights, subject to the support ceiling and conjunctive insider exception stated there. Patterson’s §541(c)(2) exclusion remains unchanged.
 
 ### Exemption objections
 
@@ -1106,3 +1108,84 @@ For Hood, No. 02-1606, decided May 17, 2004, the discharge-jurisdiction and inde
 **Proposition-level authority:** The same five-Justice opinion of the Court.
 
 **Treatment of earlier authority:** Lamie preserves the distinct work of the enacted provisions. Rash's valuation requirement and Nobelman's particular mortgage protection retain their separate operation.
+
+
+
+### Education-loan discharge for undue hardship
+
+#### Educational Credit Management Corp. v. Polleys, 356 F.3d 1302 (judgment below)
+
+**Docket or dockets:** Tenth Circuit No. 02-8059; no separately established Supreme Court docket.
+**Decided:** December 13, 2004.
+
+##### What establishes undue hardship for the education debt covered by the operative §523(a)(8)
+
+**Holding:** A debtor establishes undue hardship under the operative 11 U.S.C. §523(a)(8) by proving, more likely than not, that repayment would prevent a minimal standard of living for the debtor and dependents, that specific circumstances make that inability likely to persist for a significant portion of the repayment period, and that the claimed hardship accords with reasonable good-faith efforts to earn income, keep expenses reasonable and meet the obligation when able. Courts may not demand certainty of hopelessness, permanent disability or a payment the debtor lacked resources to make; mere inconvenience, deliberately contrived inability and unsupported pessimism do not establish the exception.
+
+**Proposition-level authority:** Souter's unanimous opinion of the Court; all nine Justices adopt the complete hardship rule, burden, review standards and application.
+
+**Material application:** The supported findings establish present inability to maintain a minimal standard of living while repaying, enduring limitations likely to prevent sufficient earnings for a significant portion of repayment, and reasonable employment, expense-reduction and debt-management efforts. Capacity for some work does not establish sufficient earning capacity. Nonpayment of amounts the debtor could not afford does not negate good faith.
+
+**Limits and questions not reached:** The inquiry requires specific evidence supporting likely persistence. Ordinary evidentiary reliability applies without a universal expert-testimony requirement, permanent medical disability or a prediction covering every repayment year. Factual findings receive clear-error review; statutory meaning and the legal sufficiency of those findings receive independent review.
+
+**Operative remedy or transition:** The Tenth Circuit is affirmed; the adjudicated ECMC obligation remains discharged and protected by the applicable discharge injunction. The supported findings require no further hardship hearing.
+
+**Treatment of earlier authority:**
+
+- Lamie v. United States Trustee: applied to enforce the enacted bankruptcy condition without adding or removing an eligibility requirement.
+- Tennessee Student Assistance Corp. v. Hood: applied for the debtor's obligation to establish the education-debt exception; the present case supplies its substantive hardship standard.
+- Grogan v. Garner, 498 U.S. 279: applied for the ordinary civil proof standard in discharge litigation.
+- Brunner v. New York State Higher Education Services Corp., 831 F.2d 395: its realistic three-part organization is adopted as a new Supreme Court rule; more restrictive certainty and permanent-disability glosses cannot govern this statutory exception.
+
+
+### Bankruptcy removal and Securities Act nonremoval
+
+#### California Public Employees’ Retirement System v. WorldCom, Inc. — securities nonremoval
+
+**Docket or dockets:** Second Circuit No. 04-0219; judgment below, 368 F.3d 86. No Supreme Court docket is supplied.
+**Decided:** March 30, 2005.
+
+For the distinct review-channel holding in this case, decided March 30, 2005, Second Circuit No. 04-0219, see Federal Courts — California Public Employees’ Retirement System v. WorldCom, Inc., The appeal concerns legal removal authority.
+
+##### The express nonremoval command governs these individual actions
+
+**Holding:** Section 1452(a) does not authorize removal of an individual Securities Act action filed in a state court of competent jurisdiction when §22(a), 15 U.S.C. §77v(a), prohibits its removal. Section 22(a)’s exception concerns §77p(c) removal of covered class actions based on state law that allege a material misstatement or omission, or manipulative or deceptive conduct, in connection with the purchase or sale of a covered security; the present individual actions fall outside that exception.
+
+**Proposition-level authority:** Opinion of the Court (Stone-Zsela), unanimous.
+
+**Limits and questions not reached:** The statutory protection for a State, political subdivision or state pension plan suing on its own behalf, or an authorized class consisting solely of such named entities, remains. A qualifying pension plan or other entity counts as one person unless formed to participate in the action; beneficiary numbers alone do not make its action a covered class action. The actual estate connection is assumed, not adjudicated. Section 1452(a) keeps its §1334 predicate and exclusions for Tax Court proceedings and governmental police-or-regulatory enforcement actions. Original federal actions, bankruptcy claims administration and independently applicable stays retain their separate operation.
+
+**Operative remedy or transition:** The removal judgment is reversed. The lower courts must identify the participating individual actions covered by the prohibition, return them to their originating state courts and cease merits adjudication after remand. Independently applicable bankruptcy stays remain effective under their own terms.
+
+**Treatment of earlier authority:** Things Remembered, Inc. v. Petrarca and Connecticut National Bank v. Germain supply statutory coexistence: general removal authority does not itself repeal the claim-specific prohibition. The absence in §1452(a) of §1441(a)’s saving phrase does not create the asserted override; bankruptcy centralization cannot supply an unenacted exception.
+
+### Retirement-account exemptions
+
+#### Rousey v. Jacoway
+
+**Docket or dockets:** No. 03-1407; judgment below, 347 F.3d 689.
+**Decided:** April 4, 2005.
+
+##### Qualified retirement-income accounts are similar plans
+
+**Holding:** A qualifying IRA that provides income replacing retirement wages and has the substantial age-related withdrawal restrictions presented here is a similar plan or contract within section 522(d)(10)(E). The exemption covers a right to future payment but remains limited to the amount reasonably necessary to support the debtor and dependents, and remains subject to the statute's conjunctive insider exception.
+
+That exception applies only when all three conditions hold: the plan was established by or under the auspices of an insider that employed the debtor when the debtor's rights arose; the payment is on account of age or length of service; and the plan fails to qualify under Internal Revenue Code sections 401(a), 403(a), 403(b) or 408. The Rouseys' section 408 qualification defeats the third condition.
+
+**Proposition-level authority:** Opinion of the Court (Thomas), unanimous.
+
+**Material application:** The §408(a)-qualified accounts contain rolled-over employer pension distributions and combine retirement-income replacement with restricted early full access and required later-life distributions. A subjective retirement label or unrestricted savings does not supply those features. Section 408 qualification defeats the third element of the conjunctive insider exception.
+
+**Treatment of earlier authority:** Patterson v. Shumate retains §541(c)(2)’s exclusion for a qualifying trust interest with an enforceable transfer restriction. Rousey answers the separate §522(d)(10)(E) exemption question and recognizes that a future-payment right can qualify; it does not turn an exemption into exclusion from the estate.
+
+##### Substantial age-related restrictions establish the required connection
+
+**Holding:** These accounts provide payment on account of age because the ten-percent additional tax ordinarily restricts full withdrawal before age 59½ and ceases to impose that restriction at that age. Age need not be the sole permissible distribution trigger; limited statutory early-distribution routes do not defeat the connection between age and full access.
+
+**Proposition-level authority:** Opinion of the Court (Thomas), unanimous.
+
+**Material application:** The substantial proportional cost of early access distinguishes these accounts from unrestricted savings. Substantially equal payments at least annually over the holder’s life or life expectancy, or joint lives or life expectancies with a designated beneficiary, may qualify for early distribution; modification before age 59½ or within five years ordinarily recaptures avoided tax and interest, except for death or disability. Medical-expense distributions are limited by §213’s deductible amount whether or not deductions are itemized. These bounded alternatives preserve the age connection.
+
+**Limits and questions not reached:** Categorical eligibility does not determine the amount reasonably necessary for the debtors’ and dependents’ support or remaining properly preserved account-specific objections. The accounts’ tax qualification, retirement-income function and substantial payment restrictions remain essential.
+
+**Operative remedy or transition:** The categorical exemption denial and turnover disposition are reversed and remanded. The debtors must adequately identify the accounts and exemption; under Rule 4003(c), the objector bears the burden of proving an improperly claimed exemption. Before creditor distribution the bankruptcy court must apply the support ceiling and preserved objections, identify any nonexempt amount and its lawful basis, and limit turnover accordingly.

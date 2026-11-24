@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2003
-**Processed through:** June 30, 2004, after all 119 completed OT2003 Court events and the admitted Rule 53 amendment effective December 1, 2003.
-**Edition:** November 22, 2026
+**Last completed October Term:** 2004
+**Processed through:** June 27, 2005, after all 105 completed OT2004 Court events and the admitted section 703 source effective October 22, 2004.
+**Edition:** November 23, 2026
 
 ## Federal Taxation
 
@@ -1397,3 +1397,54 @@ For whether bankruptcy changes the ultimate persuasion burden assigned by the su
 **Operative remedy or transition:** Reverse the duplicate-assessment bar and remand the bankruptcy claims for determination of amount, individual liability, remaining defenses and applicable procedure.
 
 **Treatment of earlier authority:** United States v. Updike supplies the distinction between assessment of an obligation and collection from persons legally responsible for it; the current statutory collection period governs this case. United States v. Fior D'Italia, Inc. remains the employer-estimation decision it was: identifying the enacted obligation does not merge distinct liabilities or their assessment rules.
+
+
+
+### Contingent legal fees and attribution of litigation recoveries
+
+#### Commissioner of Internal Revenue v. Banks, consolidated with Commissioner of Internal Revenue v. Banaitis, 543 U.S. 426
+
+**Docket or dockets:** Nos. 03-892 and 03-907.
+**Decided:** January 24, 2005.
+
+##### Whether the client's otherwise taxable recovery includes the contractual contingent fee
+
+**Holding:** When a client retains ownership and control of an income-producing legal claim and counsel acts as the client's agent, the client's gross income under 26 U.S.C. §61 includes the contractual contingent fee paid from an otherwise taxable recovery, whether the payment passes through the client or goes directly to counsel and whether a state-law lien secures it. A taxpayer seeking exclusion must identify an applicable statutory exclusion or a genuinely different ownership arrangement; uncertainty about the recovery's value and the lawyer's labor do not alone transfer the claim.
+
+**Proposition-level authority:** Stevens's unanimous opinion of the Court; all nine Justices adopt both applications.
+
+**Material application:** Both taxpayers retained the claims and ultimate settlement control. Direct payment to Banaitis's lawyer and Oregon's superior compensation lien do not transfer the income-producing claim. Counsel's work, risk and the uncertainty of the eventual recovery explain compensation without converting the agency into ownership of the claim.
+
+**Limits and questions not reached:** The holding concerns the principal-agent relationship established in these records. The Court leaves separately awarded statutory fees unresolved because Banks's settlement produced a contractual contingent fee, without a separate statutory award or an established payment in its place. Supplementary partnership, capital-expense and reimbursed-employee-expense theories were not developed below and are not reached on that preservation ground.
+
+**Treatment of earlier authority:** Earl prevents advance allocation from changing attribution, and Horst attributes diverted proceeds to the holder of the income-producing source. Schleier and O'Gilvie retain their receipt-specific statutory exclusion conditions; neither supplies an equitable exclusion for fee payments.
+
+##### Which tax-year rules govern calculation after inclusion of each contractual fee
+
+**Holding:** Both fee-exclusion judgments are reversed, and each docket returns for the lawful tax calculation using the full otherwise taxable recovery and deductions available under the applicable tax-year provisions. Section 703(c) of the American Jobs Creation Act of 2004 makes both payment of the fees and costs after October 22, 2004, and a judgment or settlement after that date necessary to the new deduction; these earlier transactions remain governed by their tax-year law.
+
+**Proposition-level authority:** Stevens's unanimous opinion of the Court.
+
+**Operative remedy or transition:** Both fee-exclusion judgments are reversed, each 9–0. Banks and Banaitis return separately for calculation on actual payment and return records, including available deductions and the governing alternative-minimum-tax provisions. Gross-income attribution does not determine entitlement to a deduction.
+
+**Limits and questions not reached:** The two earlier transactions satisfy neither prospective application premise by virtue of this later judicial decision. Section 703's distinct deduction conditions do not change the attribution of the gross recovery.
+
+
+### Reviewable treatment of special trial judge reports
+
+#### Ballard v. Commissioner, 544 U.S. 40
+
+**Docket or dockets:** No. 03-184; consolidated with Estate of Kanter v. Commissioner, No. 03-1034.
+**Decided:** March 7, 2005.
+
+##### Preservation, disclosure and weighted review of the submitted Rule 183 report
+
+**Holding:** The special trial judge's submitted Rule 183(b) report must remain identifiable, preserved and accessible to the parties and reviewing court so that Rule 183(c)'s credibility weight and presumption of factual correctness can be enforced. The regular Tax Court judge may adopt, modify or reject it, but material treatment must be reviewable; taxpayers need not prove the contents of a withheld report before obtaining the disclosure needed to assess compliance.
+
+**Proposition-level authority:** Stevens's opinion controls with eight Justices, all except Thomas. The same coalition controls both dockets.
+
+**Limits and questions not reached:** The rule concerns the completed submitted report, not preliminary drafts, presubmission discussion or judicial deliberation generally. Specific lawful confidentiality protections remain available without defeating meaningful access and review. Neither favorable original findings, material alteration nor misconduct is established. The alternative constitutional disclosure theory is not reached because Rule 183 resolves the case.
+
+**Operative remedy or transition:** Both appellate judgments are reversed. The submitted report must enter the reviewable record; the Tax Court must identify material later changes, allow a meaningful party response and reconsider or explain the affected decision under Rule 183. Demonstrated noncompliance requires correction, while actual compliance may sustain the tax determinations. An unexplained failure to provide the operative report cannot sustain an affected judgment.
+
+**Treatment of earlier authority:** Freytag preserves the distinct hearing/report and final-decision functions; final decisional authority does not eliminate the report's prescribed weight. Service v. Dulles requires compliance with governing procedures. Seminole Rock's general interpretive-deference principle is preserved but does not sustain a construction inconsistent with this report's identity and legal treatment. Section 7460(b)'s different full-court review arrangement does not displace Rule 183.

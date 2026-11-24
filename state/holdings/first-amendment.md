@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2003
-**Processed through:** June 30, 2004, after all 119 completed OT2003 Court events and the admitted Rule 53 amendment effective December 1, 2003.
-**Edition:** November 22, 2026
+**Last completed October Term:** 2004
+**Processed through:** June 27, 2005, after all 105 completed OT2004 Court events and the admitted section 703 source effective October 22, 2004.
+**Edition:** November 23, 2026
 
 ## First Amendment
 
@@ -5917,3 +5917,237 @@ Section 231(b) excludes telecommunications carriers, Internet-access providers a
 **Operative remedy or transition:** The Attorney General remains bound by the existing injunction without an enforcement gap. It must prevent the demonstrated chilling and access burdens; a narrower order requires a supported showing that it would provide an effective cure. Modification requires a supported legal or factual basis. The preliminary injunction remains continuously effective. The district court must proceed promptly under the complete statutory and comparative inquiry, identify material disputed updated facts and specify the scope and any genuine severance in its final order. A supported change to relief must preserve an effective cure for demonstrated speech burdens.
 
 **Treatment of earlier authority:** - United States v. American Library Association is distinguished at its library-service, funding and effective-access scope. Its distinct statutory disabling provisions retain their own terms.
+
+
+
+### Public-employee speech marketed through police association
+
+#### San Diego v. Roe, 543 U.S. 77
+
+**Docket or dockets:** No. 03-1669.
+**Decided:** December 6, 2004.
+
+##### Whether the police-associated commercial performance meets the public-concern threshold
+
+**Holding:** Public availability, compensation and lawful sexual content do not themselves establish that a public employee's expression addresses a matter of public concern. On the content, form and context here, Roe's deliberately police-associated commercial performance fails that threshold, so the First Amendment employment-speech claim does not require Pickering balancing and was properly dismissed.
+
+**Proposition-level authority:** Stevens’s opinion of the Court, joined by all seven other Associate Justices; eight direct votes. Stone-Zsela dissents.
+
+**Limits and questions not reached:** The result turns on this expression’s content and deliberate official association, not sexual subject matter, public availability or payment alone. Actual operational disruption is not an adjudicated premise.
+
+**Operative remedy or transition:** The appellate judgment is reversed and dismissal of the reviewed employment-speech theory restored. Genuinely distinct claims are unaffected.
+
+**Treatment of earlier authority:** Connick v. Myers supplies content, form and context. Pickering v. Board of Education supplies balancing only after protected public-concern expression is established. United States v. National Treasury Employees Union, February 22, 1995, remains controlling for unrelated citizen expression and adequate justification of broad prospective restrictions. Waters v. Churchill, May 31, 1994, retains its genuine-and-reasonable-account, actual protected-speech and causation rules.
+
+### Expression and association at county gun shows
+
+#### Nordyke v. King, 319 F.3d 1185 (judgment below)
+
+**Docket or dockets:** District-court No. CV-99-04389-MJJ; no separately established Supreme Court docket.
+**Decided:** January 12, 2005.
+
+##### Whether ordinary possession and exchange at a gun show establish entitlement to facial speech relief
+
+**Holding:** Ordinary firearm possession and exchange do not become protected speech in every application because a show also includes advocacy, and isolated expressive displays do not establish a basis to invalidate the entire possession ordinance. A demonstrably communicative display receives the protection appropriate to its actual context; the claimant must establish that expressive application and the requested breadth of relief, and the county must satisfy the scrutiny applicable to a proved burden, with viewpoint discrimination separately prohibited.
+
+**Proposition-level authority:** Souter's Part III, joined by all eight other Justices.
+
+**Limits and questions not reached:** A preserved concrete expressive-display claim requires its own factual record and applicable conduct or forum rules. The time, place and manner theory was not pressed on appeal and is outside the question decided. Actual display and exemption applications are not established by this facial preliminary record.
+
+**Operative remedy or transition:** The facial First Amendment preliminary-relief denial is affirmed unanimously. Isolated message-bearing displays do not establish the asserted expressive breadth or actual targeting needed to invalidate the entire ordinance.
+
+**Treatment of earlier authority:** Hurley protects genuine expression without transforming ordinary goods into speech. Texas v. Johnson and Spence require communication to be assessed in context. O'Brien permits justified incidental regulation, while City of Erie withholds that treatment where justification and operation principally target communication; general statutory wording alone does not prove neutrality.
+
+For the separate arms and conditional-remedy questions in Nordyke, January 12, 2005, district-court No. CV-99-04389-MJJ, see Civil Rights and Federal Courts: Immunities and Remedies — Nordyke v. King.
+
+
+### Public-school adoption of privately delivered devotional instruction
+
+#### Doe v. Porter, 370 F.3d 558 (judgment below) — school devotional instruction
+
+**Docket or dockets:** Sixth Circuit Nos. 02-5316 and 02-5823.
+**Decided:** April 26, 2005.
+
+For this decision’s other questions, see [Whether exposure to school devotional instruction establishes the families’ standing](../HOLDINGS.md#whether-exposure-to-school-devotional-instruction-establishes-the-families-standing) (Federal Courts: Justiciability); [Whether confidential defense access permits the protective order despite public pseudonymity](../HOLDINGS.md#whether-confidential-defense-access-permits-the-protective-order-despite-public-pseudonymity) (Federal Courts); [Whether an overlapping duplication objection requires another fee reduction](../HOLDINGS.md#whether-an-overlapping-duplication-objection-requires-another-fee-reduction) (Federal Courts: Immunities and Remedies).
+
+##### Whether a public school may assign its devotional curriculum to a private religious provider
+
+**Holding:** A public school may not incorporate teaching religious doctrine as truth or prescribed religious observance into its own instructional program by assigning delivery to a private religious provider. Governmental adoption of the instructional function and its actual devotional content must be established under ordinary civil proof; summary judgment requires the absence of a genuine dispute of material fact.
+
+**Proposition-level authority:** Opinion of the Court (Breyer), Part II, unanimous.
+
+**Material application:** The school scheduled recurring elementary classroom periods and adopted lessons teaching religious propositions as truth and directing observance. Private volunteers’ preparation and delivery did not make the curriculum private-access speech; a character-education aim and some secular lessons did not cure its devotional operation.
+
+**Limits and questions not reached:** Religious affiliation, location and moral language alone do not establish prohibited instruction. Genuinely secular teaching by religious persons and independent private access remain distinct. A redesigned curriculum was not adjudicated.
+
+**Operative remedy or transition:** The program injunction is affirmed throughout the affected school system. The Board must stop scheduling or authorizing the devotional classes and notify responsible principals, subject to ordinary district-court enforcement and compliance reporting.
+
+**Treatment of earlier authority:** Agostini supplies the governmental-act and function inquiry; McCollum and Schempp supply the public-instruction prohibition. Lee and Santa Fe prevent private delivery or abstention options from erasing official sponsorship. Good News Club protects independent private access, which this school-adopted curriculum is not.
+
+### Operational government authorship and compulsory program financing
+
+#### Johanns v. Livestock Marketing Association, 544 U.S. 550 (2005)
+
+**Docket or dockets:** Nos. 03-1164 and 03-1165.
+**Decided:** May 23, 2005.
+
+For this decision’s other questions, see [The dependent whole-program decree loses its constitutional premise](../HOLDINGS.md#the-dependent-whole-program-decree-loses-its-constitutional-premise) (Federal Courts: Immunities and Remedies).
+
+##### Actual governmental control identifies the speaker
+
+**Holding:** A promotional message is governmental for the presented compelled-subsidy objection when government determines its policy and actually selects, supervises and finally approves its content. The Government must establish that operational direction. Appointment power, a governmental label or ordinary compliance review alone is insufficient; the operational direction established here makes the challenged beef campaign the Government's message.
+
+**Proposition-level authority:** Thomas's opinion of the Court, joined by Stone-Zsela, O'Connor, Scalia and Breyer; five direct joins in Parts I–IV. Ginsburg's agreement in formal vacatur and remand does not join this rationale or its operative mandate.
+
+**Material application:** The Secretary participates in message development and exercises final content control. Producer drafting, independent marketing decisions and a generic identification of the source of funds do not displace that operational authorship.
+
+**Treatment of earlier authority:**
+
+- United States v. United Foods, Inc. retains its independently sufficient private-support rule; its reserved operational government-speech question is resolved for an actually controlled governmental message. Its treatment of the preserved commercial alternative remains distinct from its refusal to reach an undeveloped governmental defense.
+- Keller v. State Bar of California supplies the functional inquiry; a body's general governmental status alone does not classify each financed message.
+
+##### A lawful targeted assessment may fund that governmental message
+
+**Holding:** Compulsory financing of a message actually selected and controlled by government does not, merely because assessed producers disagree, violate the First Amendment protection against compelled support of private expression. Financing through a lawful industry assessment rather than general revenue does not change the speaker; compelled personal expression and independently applicable constitutional or statutory constraints retain their own predicates.
+
+**Proposition-level authority:** Thomas's opinion of the Court, joined by Stone-Zsela, O'Connor, Scalia and Breyer; five direct joins in Parts I–IV. Ginsburg's agreement in formal vacatur and remand does not join this rationale or its operative mandate.
+
+**Limits and questions not reached:** The rule for independently compelled private advertising survives; government authorship does not follow from industry benefit, majority approval or permission to counteradvertise. The Court does not adopt the separate writing's proposed commercial-justification standard.
+
+**Treatment of earlier authority:**
+
+- Glickman v. Wileman Brothers & Elliott retains its permission for germane promotion within the qualifying collective private program and its conditions.
+
+##### Generic funding identification does not establish the facial attribution claim
+
+**Holding:** The statute's compulsory financing and generic identification of producers as the funding source do not establish that every objector must personally endorse the advertising. Because the statute does not require a named dissenter's endorsement, this facial attribution objection supplies no independent basis for the reviewed statutory bar; a properly presented individual-attribution claim requires its own facts and adjudication.
+
+**Proposition-level authority:** Thomas's opinion of the Court, joined by Stone-Zsela, O'Connor, Scalia and Breyer; five direct joins in Parts I–IV. Ginsburg's agreement in formal vacatur and remand does not join this rationale or its operative mandate.
+
+**Limits and questions not reached:** Government authorship, compulsory financial support and personal endorsement are distinct. The Court reserves adjudication of an identified person's or organization's actual attribution injury; it does not adopt an affirmative personal-attribution rule on this facial record.
+
+**Treatment of earlier authority:**
+
+- West Virginia State Board of Education v. Barnette and Wooley v. Maynard retain protection against compelled personal expression; the generic funding identification does not establish personal endorsement here.
+
+### Institutional religious accommodation and person-specific justification
+
+#### Cutter v. Wilkinson, 544 U.S. 709
+
+**Docket or dockets:** No. 03-9877.
+**Decided:** May 31, 2005.
+
+For this decision’s other questions, see [What follows for RLUIPA claims and relief after rejection of the facial Establishment Clause defense](../HOLDINGS.md#what-follows-for-rluipa-claims-and-relief-after-rejection-of-the-facial-establishment-clause-defense) (Federal Courts: Immunities and Remedies).
+
+##### Whether RLUIPA’s institutionalized-persons accommodation is facially invalid as an establishment of religion
+
+**Holding:** Section 3's generally available protection against substantial government-imposed burdens on religious exercise in covered institutions is not facially invalid under the Establishment Clause. Government may relieve exceptional constraints its custody imposes on private exercise even when the Free Exercise Clause would not independently require that accommodation or comparable nonreligious interests receive less statutory protection.
+
+**Proposition-level authority:** Opinion of the Court (Souter), unanimous; Thomas joins in full.
+
+**Limits and questions not reached:** Accommodation remains subject to denominational neutrality, other persons’ constitutional rights and the prohibition on governmental devotion. The Act selects no denomination, requires no religious adherence and transfers no civil authority to a sect. The possibility that accommodation makes private exercise more attractive does not itself establish coercion or sponsorship.
+
+**Treatment of earlier authority:** Kiryas Joel permits accommodation beyond the Free Exercise minimum while forbidding sectarian civil authority. Agostini’s unified governmental-act/function inquiry governs, with purpose, effects and entanglement as evidence rather than independent Lemon fallback prongs. Doe v. Porter concerns official devotional instruction, unlike relief of custody-imposed constraints on private exercise.
+
+##### What coverage, burden, defense and statutory qualifications govern institutional religious-accommodation claims
+
+**Holding:** A claimant must establish statutory coverage and a substantial burden on sincere religious exercise. Government then must demonstrate, through production and persuasion, that imposing that burden on that person furthers a compelling governmental interest by the least restrictive means. Institutional security, order, resources and effects on others receive concrete evidentiary weight within that test.
+
+Section 3 covers a substantial burden imposed in a program or activity receiving federal financial assistance, or one that affects—or whose removal would affect—commerce with foreign nations, among the States or with Indian tribes. When the latter commerce claim is the only jurisdictional basis, section 4(g) makes the provision inapplicable if government demonstrates that all substantial burdens on, or removal of all substantial burdens from, similar religious exercise throughout the Nation would not lead in the aggregate to a substantial effect on that commerce. That conditional coverage limitation is distinct from section 3's compelling-interest defense. Section 4(b)'s separately worded burden provision concerns Free Exercise or section 2 claims; section 3's own language governs the defense here.
+
+Religious exercise need not be compelled by or central to a belief system; sincerity remains a legitimate inquiry. Section 5 permits government to eliminate the burden by changing the policy or practice, retaining it with an exemption for the burdened exercise, exempting applications that substantially burden exercise, or another means that eliminates the burden. The Act neither creates nor precludes a right to religious funding or assistance, although avoiding a substantial burden may require expense in government's own operations. Its broad-construction direction operates within the text and Constitution, its severability provision preserves unaffected provisions and applications, and section 6 leaves the Establishment Clause's independent limits intact.
+
+**Proposition-level authority:** Opinion of the Court (Souter), unanimous; Thomas joins in full.
+
+**Limits and questions not reached:** Security, staffing, cost, coercion and effects on others require evidence appropriate to the particular demand. Neither generic prison-management concerns nor sincerity alone decide the claim, and rationality review cannot replace the enacted test. Courts may examine sincerity and substantial burden without adjudicating theological truth. Separate Spending, Commerce and federalism defenses remain unresolved.
+
+**Treatment of earlier authority:** City of Boerne retains its rejection of RFRA’s universal state-and-local command under Fourteenth Amendment section 5. It does not decide the different power predicates reserved here.
+
+### Changed circumstances and a complete public-topic speech prohibition
+
+#### Tory v. Cochran, 544 U.S. 734
+
+**Docket or dockets:** No. 03-1488.
+**Decided:** May 31, 2005.
+
+For this decision’s other questions, see [Whether the injunction beneficiary’s death moots a challenge to a continuing speech restraint](../HOLDINGS.md#whether-the-injunction-beneficiarys-death-moots-a-challenge-to-a-continuing-speech-restraint) (Federal Courts: Justiciability); [What relief follows from the unsupported public-topic injunction](../HOLDINGS.md#what-relief-follows-from-the-unsupported-public-topic-injunction) (Federal Courts: Immunities and Remedies).
+
+##### Whether the complete public-topic injunction remains justified after Cochran’s death
+
+**Holding:** In the present circumstances, the injunction's prohibition on all public statements about Cochran and his firm is an unjustifiably broad prior restraint. Cochran's death has eliminated or materially diminished its stated objective of preventing coercion of him into paying money, and the existing record supplies no new adjudicated justification for maintaining the same complete prohibition to protect the practice.
+
+**Proposition-level authority:** Breyer's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Kennedy, Souter and Ginsburg (seven Justices).
+
+**Material application:** The prior liability findings do not justify suppressing truthful, unrelated or otherwise lawful public speech once the personal coercion-prevention objective has disappeared or materially diminished. An asserted interest in the nonparty firm supplies no adjudicated basis for the decree’s complete scope.
+
+**Limits and questions not reached:** The Court’s ground depends on the present circumstances after death. The Chief Justice’s independent-of-death ground is noncontrolling. A different order confined to adjudicated false statements requires its own order and remedial record.
+
+**Treatment of earlier authority:** Near, Keefe and Nebraska Press require sufficient justification for advance suppression. Madsen and Schenck require provision-specific remedial fit; their content-neutral formula does not validate a topic-based restraint. Alexander is distinguished because this injunction directly prohibits future expression rather than merely punishing past conduct.
+
+**Operative remedy or transition:** Vacatur removes the unsupported public-topic prohibition; the dependent-enforcement and future-remedy holding is filed under Federal Courts: Immunities and Remedies.
+
+
+
+
+### Equal access and publicly purchased integrated religious tuition
+
+#### Eulitt v. Maine Department of Education, 386 F.3d 344 (judgment below) — requested tuition
+
+**Docket or dockets:** Review of 386 F.3d 344 (1st Cir. 2004); no separate Supreme Court docket supplied.
+**Decided:** June 20, 2005.
+
+##### Whether equal protection requires the requested ordinary tuition for integrated devotional instruction
+
+**Holding:** Equal protection does not require a State to purchase integrated devotional instruction when its educational program purchases eligible secular work. Religious identity alone cannot disqualify an independently identifiable, reliably separated secular service that meets lawful neutral program requirements and effective use controls; the parents' request for ordinary St. Dominic's tuition to obtain integrated Catholic instruction falls on the devotional-purchase side of that distinction.
+
+**Proposition-level authority:** Opinion of the Court (Breyer), unanimous.
+
+**Material application:** The parents requested ordinary St. Dominic's tuition specifically for integrated Catholic instruction and viewpoint. The educational-needs condition, school-approval requirements and sectarian exclusion remain distinct; no additional denial under an unapplied neutral criterion is presumed.
+
+**Operative remedy or transition:** Affirmed on the parents' own claim; the requested tuition payment and injunction are denied.
+
+**Treatment of earlier authority:** Agostini supplies the governmental-function inquiry; Strout applies the integrated-tuition rule without having adjudicated these parents' distinct equality claim. Zelman and McCallum make the restricted purchase's function decisive despite private selection or payment routing. Columbia Union and K.D.M. retain equal eligibility for separated, accountable secular services. Locke retains its bounded individual ministry-scholarship holding.
+
+For the independent institutional-hindrance holding in Eulitt, decided June 20, 2005, on review of 386 F.3d 344, see [Federal Courts: Justiciability](../HOLDINGS.md#parents-asserting-a-religious-schools-separate-rights).
+
+### Official monument presentation and adoption of religious commands
+
+#### Van Orden v. Perry, 545 U.S. 677 (2005) — official presentation
+
+**Docket or dockets:** No. 03-1500.
+**Decided:** June 27, 2005.
+
+##### Whether Texas's complete presentation adopts the monument's religious commands as governmental truth
+
+**Holding:** Government may preserve and explain religious history, but may not present theological commands as its own authoritative civic message. Texas's complete presentation of this monument, including its attribution, surroundings and visitor materials, continues that prohibited governmental adoption and violates the Establishment Clause.
+
+**Proposition-level authority:** Opinion of the Court (Stone-Zsela), joined by Stevens, O'Connor, Souter and Ginsburg; five complete joins.
+
+**Material application:** Donor attribution, civic surroundings, visitor materials, signs and trial-video evidence genuinely support the State's historical account, but do not change this presentation's function into explanation of religious history. Age and absence of compelled participation do not remove the independent governmental-adoption prohibition.
+
+**Operative remedy or transition:** Reversed and remanded; effective prospective relief must end the prohibited presentation.
+
+**Treatment of earlier authority:** Agostini supplies the unified act-and-function inquiry; Robinson distinguishes historical explanation from official religious identification. Marshfield requires assessment of the continuing presentation and actual cure. Pinette's genuine private-expression protection is distinguished from a permanent display selected by the State.
+
+For Van Orden's effective-cure rule, No. 03-1500, decided June 27, 2005, see [Federal Courts: Immunities and Remedies](../HOLDINGS.md#effective-prospective-cure-of-an-official-religious-monument).
+
+### Official display revisions and evidence of continuing religious adoption
+
+#### McCreary County v. American Civil Liberties Union of Kentucky, 545 U.S. 844 (2005) — official display function
+
+**Docket or dockets:** No. 03-1693.
+**Decided:** June 27, 2005.
+
+##### Whether present display features and documented official development support preliminary protection
+
+**Holding:** A court evaluating an official religious display must examine its present content, setting and authorization together with relevant official acts showing its function. Government may explain religious history, but a cosmetic revision cannot cure its continuing adoption of religious doctrine; the counties' third arrangements, considered with their documented development and official adoption, sufficiently support the preliminary finding of prohibited sponsorship to sustain the injunction on the record reviewed below.
+
+**Proposition-level authority:** Opinion of the Court (Breyer), joined by Stone-Zsela, Stevens, O'Connor, Souter and Ginsburg; six complete joins.
+
+**Material application:** The Court weighs the nine equal frames, historical explanation and removal of the translation label and scriptural citation together with the prior displays and then-operative religious resolutions. The third arrangements support the preliminary finding on the record reviewed below; the later repeal bears on prospective relief.
+
+**Limits and questions not reached:** Official history illuminates current function and creates no permanent disability against lawful historical exposition. Neither sacred content nor a secular title alone decides the issue. The post-repeal function is for remand under the resolved standard.
+
+**Treatment of earlier authority:** Agostini's unified function inquiry controls rather than an independent-purpose rule. Marshfield requires examination of continuing presentation and genuine correction. Robinson preserves historical exposition; Stone v. Graham remains bounded by its school-display setting. Doe v. Porter, Cutter and Eulitt retain their distinctions among official devotion, secular work and accommodation.
+
+For McCreary's June 27, 2005 modification and confined-relief directions after repeal, No. 03-1693, see [Federal Courts: Immunities and Remedies](../HOLDINGS.md#modification-of-religious-display-relief-after-material-governmental-change).

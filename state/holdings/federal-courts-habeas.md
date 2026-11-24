@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2003
-**Processed through:** June 30, 2004, after all 119 completed OT2003 Court events and the admitted Rule 53 amendment effective December 1, 2003.
-**Edition:** November 22, 2026
+**Last completed October Term:** 2004
+**Processed through:** June 27, 2005, after all 105 completed OT2004 Court events and the admitted section 703 source effective October 22, 2004.
+**Edition:** November 23, 2026
 
 ## Federal Courts: Habeas and Collateral Review
 
@@ -1799,7 +1799,7 @@ For the psychiatric statutory ground, contradictory mitigation mechanism and Bre
 
 **Treatment of earlier authority:** Irwin v. Department of Veterans Affairs and United States v. Brockamp preserve provision-sensitive analysis of equity but settle neither Walker's entitlement nor categorical unavailability of equitable protection.
 
-**Later-authority backlinks:** Pliler v. Ford, No. 03-221, decided June 21, 2004, resolves the equity reservation for the defined court-created filing loss and supplies a minimum neutral-notice duty for a qualifying court-presented dismissal election. Its causal, diligence, proof and lawful-remedy conditions govern that protection. Federal pendency remains excluded from section 2244(d)(2), and general mixed-petition stay authority remains unresolved.
+**Later-authority backlinks:** Pliler v. Ford, No. 03-221, decided June 21, 2004, resolves the equity reservation for the defined court-created filing loss and supplies a minimum neutral-notice duty for a qualifying court-presented dismissal election. Its causal, diligence, proof and lawful-remedy conditions govern that protection. Federal pendency remains excluded from section 2244(d)(2), and general mixed-petition stay authority was left unresolved by Pliler. Rhines v. Weber, No. 03-9046, March 30, 2005, subsequently resolves that stay reservation through bounded retention of timely pending mixed petitions; Duncan’s statutory non-tolling rule remains unchanged.
 
 ### Habeas review of current immigration custody authority
 
@@ -2911,6 +2911,8 @@ For Yarborough, No. 02-1684, decided June 1, 2004, the objective custody proposi
 **Treatment of earlier authority:** - Slack v. McDaniel: applied to keep exhaustion-return classification separate from timeliness and lawful amendment.
 - Rose v. Lundy: preserved in its exhaustion requirement; its operation does not excuse an inaccurate election under the minimum notice rule.
 
+**Later-authority backlinks:** Rhines v. Weber, No. 03-9046, March 30, 2005, resolves the reserved stay authority for timely pending mixed petitions. Pliler’s notice and court-created-loss rules, independent reopening requirements and contingent relation-back reservation retain their separate scope.
+
 ##### The repeated claims return for individualized adjudication
 
 **Authority of the judgment:** Seven Justices—Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter and Thomas—vacate the repeated-claim disposition and remand. Stone-Zsela, Stevens and Souter adopt Part V's affirmative-rule rationale; the other four support vacatur on their no-advisement ground. Ginsburg and Breyer would preserve the lower vacatur of the repeated-claim dismissals by partial affirmance. Parts I–IV supply the controlling rules for further proceedings despite that remedial disagreement.
@@ -3136,3 +3138,347 @@ For Hamdi v. Rumsfeld, 542 U.S. 507, June 28, 2004, No. 03-6696, see Constitutio
 **Treatment of earlier authority:** - **Mathews v. Eldridge, 424 U.S. 319:** Applied to the liberty, error and military interests supporting the common process minimum.
 - **INS v. St. Cyr:** Its effective legal-authority review principle remains applicable with actual channel predicates.
 - **Demore v. Kim:** Its separation of actual classification from custody consequences informs review; its divided risk-burden rationale supplies no military-status proof rule.
+
+
+
+### Effective habeas relief from unauthorized immigration detention
+
+#### Clark v. Martinez, consolidated with Benitez v. Rozos, 543 U.S. 371
+
+**Docket or dockets:** Nos. 03-878 and 03-7434.
+**Decided:** January 12, 2005.
+
+##### What effective release protection follows from the unrebutted absence of reasonably foreseeable removal
+
+**Holding:** When §1231(a)(6) no longer authorizes detention under the removal-prospect standard and no independent lawful custody basis applies, the person is entitled to enforceable release under lawful supervision. Temporary parole does not displace that judicial protection; renewed custody requires changed removal facts or a separately applicable lawful source and the process it requires.
+
+**Proposition-level authority:** Scalia's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer; eight direct rationale votes.
+
+**Material application:** Martinez's release judgment remains protected. Benitez's temporary October 15, 2004 parole leaves the disputed authority to return him to custody live and does not defeat equivalent enforceable release protection. The accepted findings call for implementation, not speculative new factfinding.
+
+**Limits and questions not reached:** Release grants no admission. Section 1231(a)(3) permits periodic identification, necessary medical or psychiatric examination at government expense, sworn information and reasonable written conduct restrictions. Repeated short parole periods cannot evade the adjudicated statutory limit.
+
+**Operative remedy or transition:** Martinez is affirmed and Benitez reversed, each 8–1; both matters are remanded for prompt implementation of enforceable supervised-release protection under the unrebutted findings.
+
+**Treatment of earlier authority:** Zadvydas's effective supervised-release implementation remains controlling and now applies to these inadmissible detainees.
+
+For the common detention-duration rule, six-month presumption and removal-prospect burdens in Clark and Benitez, January 12, 2005, Nos. 03-878 and 03-7434, see Immigration — Clark v. Martinez.
+
+### Capital aggravator narrowing and distinct habeas theories
+
+#### Bell v. Cone, 543 U.S. 447
+
+**Docket or dockets:** No. 04-394.
+**Decided:** January 24, 2005.
+
+##### Whether omission of a narrowing-precedent citation proves unconstitutional application of a capital aggravator
+
+**Holding:** A state court's failure to cite its settled narrowing precedent does not itself establish that it applied an unconstitutionally vague capital aggravator. Federal review must examine the authoritative construction and the state court's actual reasoning and result under the applicable review law, without inventing an adjudication or corrective step the record does not establish.
+
+**Proposition-level authority:** Per curiam Part I, supported by all nine Justices.
+
+**Treatment of earlier authority:** Godfrey requires meaningful guidance and Proffitt recognizes authoritative narrowing. Sochor permits a sufficiently specific judicial narrowing application. Early and Visciotti require substantive examination of the whole adjudication rather than citation or terminology tests; presumed familiarity cannot establish an unperformed correction.
+
+##### Whether Tennessee actually narrowed this aggravator and §2254(b)(2) permits rejection despite nonexhaustion
+
+**Holding:** Tennessee's 1984 opinion actually applied its authoritative narrowed heinousness category to Cone's killings, and the asserted failure of judicial narrowing is conclusively rejected. Under 28 U.S.C. §2254(b)(2), a court may deny a habeas claim on a sufficient merits ground despite nonexhaustion; that permission does not require denial, establish a state merits adjudication or dispose of a distinct constitutional theory.
+
+**Proposition-level authority:** Per curiam Part II, supported by Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; eight direct rationale votes. Stone-Zsela does not join this application or the §2254(b)(2) rationale.
+
+**Material application:** Tennessee's authoritative construction requires a conscienceless or pitiless crime unnecessarily torturous to the victim, with predeath torture or sufficiently grave depravity; instantaneous death does not satisfy the torture branch. Its 1984 opinion applies that category through defensive wounds, resistance, repeated crushing blows, noninstantaneous deaths and terror from the sequence of the killings. The court's reasoning supplies actual narrowing rather than a mere repetition of statutory adjectives.
+
+**Limits and questions not reached:** The conclusive merits rejection concerns failure of judicial narrowing. The permission in §2254(b)(2) neither mandates denial nor establishes adjudication of another federal theory; actual narrowing cannot be reopened on remand.
+
+##### How the distinct jury-guidance and weighing claim must be resolved on the confined remand
+
+**Holding:** The Sixth Circuit's aggravator-based sentence-relief judgment is vacated, and the case is remanded to dispose of Cone's existing, distinct jury-guidance and weighing claim under its actual state adjudication, the applicable federal-law cutoff, §2254 and any preserved valid default. Judicial narrowing is settled; if no distinct available theory survives, relief on this ground must be denied, while an available constitutional sentencing error requires an authorized actual correction or the governing State-borne harmlessness determination.
+
+**Proposition-level authority:** Per curiam Part III, supported by Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer; six direct rationale votes. Stone-Zsela supports vacatur on a broader remand theory; Scalia and Thomas would finally reject the reviewed aggravator claim.
+
+**Limits and questions not reached:** Judicial category-fit does not itself prove that the jury received adequate guidance or that an unconstitutional influence was corrected; different formulations alone do not prove a violation. The 1984 adjudication is tested against Supreme Court holdings then established. Later explanatory holdings do not become 1984 law, and the 1993 previously-determined description and 1995 affirmance do not themselves establish a new merits date. An independently sufficient denial may avoid unnecessary exhaustion litigation or factual proceedings. If an available nonstructural violation is established and effect review governs, the State must establish harmlessness beyond a reasonable doubt; an authorized actual cure supplies a distinct route. Remaining aggravator counts, proportionality and the state harmlessness ruling on the separate risk-to-others factor cannot automatically cure proved heinousness error.
+
+**Operative remedy or transition:** Vacate the Sixth Circuit's aggravator-based sentence-relief judgment and remand, 7–2. The complete six-Justice mandate preserves only the existing distinct, legally available jury-guidance and weighing theory, denying relief if no such ground survives. Convictions remain intact, and other properly pending sentence claims retain protection under the 2002 mandate.
+
+**Treatment of earlier authority:** Sochor separates judicial narrowing, jury guidance and correction; Richmond requires actual constitutional correction or adequate harmlessness for established weighing error. Stringer's 1985-finality and Lambrix's 1986-finality determinations do not establish the §2254(d)(1) rule for the 1984 adjudication. Bell v. Cone, 535 U.S. 685, governs amended §2254 and remaining sentence claims. Mitchell permits sufficient final denial on the actual record and dated law. Brecht supplies the State's beyond-reasonable-doubt burden when collateral effect review applies.
+
+
+### Prospective parole procedure and the custody boundary
+
+#### Wilkinson v. Dotson, 544 U.S. 74
+
+**Docket or dockets:** No. 03-287; claims of William Dwight Dotson and William Johnson.
+**Decided:** March 7, 2005.
+
+##### When a new lawful parole proceeding may be sought under section 1983
+
+**Holding:** Section 1983 permits prospective procedural relief whose success would leave the existing lawful basis of custody intact and would not necessarily require release or a shorter custodial term. Classification turns on the procedure, requested relief and actual statutory consequences: when lawful official discretion permits continued confinement after the new proceeding, a possible later release does not require prior invalidation of the custodial judgment.
+
+**Proposition-level authority:** O'Connor's opinion, unanimous; the rule applies to both complaints and equivalent prospective claims with the same legal effect.
+
+**Material application:** New parole consideration for Dotson and Johnson would leave officials free lawfully to deny release under their valid sentences. This differs from attacking an invalid sentence, which challenges the legal authority for custody even if a later sentence might be equally long.
+
+**Limits and questions not reached:** A procedural label does not exempt relief that vacates a sentence, restores credits automatically shortening custody or directs release. Each plaintiff must prove the federal violation and satisfy applicable screening, administrative-exhaustion and remedial requirements. The constitutionality of Ohio's guidelines and the existence of protected liberty interests remain undecided.
+
+**Operative remedy or transition:** Affirmance restores both actions for adjudication. Any warranted new proceeding must preserve the officials' lawful parole discretion; the existing sentences remain effective.
+
+**Treatment of earlier authority:** Cavanaugh's opportunity-only parole rule is applied. Heck and Edwards turn on necessary invalidation of the legal basis or duration of custody; Muhammad rejects confinement alone as the trigger. Nelson supports compatible procedural relief subject to independent requirements. Preiser retains exclusivity for relief necessarily directed to release, reduced custody or invalidity of its legal basis.
+
+### AEDPA review of Payton's mitigation charge
+
+#### Brown v. Payton, 544 U.S. 133
+
+**Docket or dockets:** No. 03-1039.
+**Decided:** March 22, 2005.
+
+##### The operative application and state-merits date govern federal review
+
+**Holding:** AEDPA's ordinary adjudicative provisions apply when the application requesting writ adjudication was filed after April 24, 1996, although counsel and interim-protection proceedings began earlier. Section 2254(d)(1) examines the state merits decision against Supreme Court holdings established when that decision was made; a contrary governing rule or objectively unreasonable application is required, rather than mere independent disagreement.
+
+**Proposition-level authority:** Part I of Breyer's opinion, unanimous.
+
+**Material application:** Payton's preparatory proceedings did not constitute an earlier writ application. His state merits adjudication on November 23, 1992 fixes the substantive-law cutoff.
+
+**Treatment of earlier authority:** Garceau governs substance rather than caption in distinguishing preparation from adjudication. Williams gives the statutory clauses distinct work and permits established general law without a factual twin. Lockyer separates statutory eligibility from constitutional error. Early and Visciotti require the actual state analysis and complete context, not a citation checklist, judicial headcount or a clear-and-convincing burden imported into the legal inquiry.
+
+##### The contextual mitigation ruling falls within the statutory range of reasonable application
+
+**Holding:** The state court could reasonably conclude, on this complete charge and advocacy record, that jurors were not forbidden to give Payton's postcrime mitigation lawful effect. Its rejection of the instructional claim was neither contrary to nor objectively unreasonable under the governing 1992 law, so section 2254(d)(1) bars the penalty-phase relief granted on that claim.
+
+**Proposition-level authority:** Part II of Breyer's opinion, joined by O'Connor, Scalia, Kennedy and Thomas; five direct votes.
+
+**Material application:** The prosecutor repeatedly asserted legal exclusion and the judge did not expressly correct it; the all-evidence direction was qualified by later instructions, including crime-centered factor (k), and the judge's private broader view never reached the jury. Those circumstances were considered together with eight mitigation witnesses, defense explanation of the evidence's lawful use, the court-as-law-source charge, and the prosecution's alternative sincerity and weight arguments. No one of admission, defense advocacy or a weight argument independently cured exclusion; the whole presentation permitted the state court's conclusion.
+
+**Limits and questions not reached:** The Court decides the statutory gate, not independent constitutional error or harmlessness. The holding neither categorically approves factor (k) nor creates a general cure from admission or defense argument. The mitigation and actual-effect rules remain in force for claims properly reaching them.
+
+**Operative remedy or transition:** Reverse penalty-phase habeas relief on the reviewed mitigation claim. The convictions remain intact and unrelated claims retain their independent disposition.
+
+**Treatment of earlier authority:** Boyde supplies whole-context reasonable-likelihood review. Lockett and Eddings distinguish legal exclusion from evidentiary weight, and Skipper establishes relevance of postcrime adjustment; the Court does not adopt the prosecutor's contrary reading. Penry II, Beard and Bell retain their present scopes without supplying substantive holdings at the 1992 cutoff.
+
+### Staying timely mixed habeas petitions
+
+#### Rhines v. Weber
+
+**Docket or dockets:** No. 03-9046; judgment below, 346 F.3d 799.
+**Decided:** March 30, 2005.
+
+##### Retaining a timely mixed petition during exhaustion
+
+**Holding:** A district court may stay a timely mixed petition while the prisoner exhausts state remedies if the prisoner shows good cause for not exhausting first, the unexhausted claims are not plainly meritless, and the record does not show abusive litigation or intentional delay. Good cause means a reasonable explanation in the actual circumstances, not an extraordinary-circumstances or procedural-default test; the court must set reasonable, definite deadlines for seeking state relief and returning to federal court, accounting for delays outside the prisoner’s control.
+
+**Proposition-level authority:** O’Connor’s opinion, joined in full by Stone-Zsela, Stevens, Scalia, Kennedy, Thomas, Ginsburg and Breyer. Souter joins stay authority and the merit, anti-abuse and deadline restrictions but withholds the necessary initial good-cause condition; that condition has eight direct votes.
+
+**Limits and questions not reached:** Retention preserves a timely pending action; it does not toll all federal pendency or reopen a terminated case. Section 2254(b)(2) permits, without requiring, merits denial of an unexhausted claim. A grant of relief still requires exhaustion, no available state corrective process, circumstances making that process ineffective to protect the applicant’s rights, or the State counsel’s express exhaustion waiver. The Chief’s separate ordinary-civil-proof specification is not a Court holding.
+
+**Treatment of earlier authority:** Rose v. Lundy’s total-exhaustion rule operates with bounded retention; Landis v. North American Co. supplies case-management authority within the habeas statutes. Duncan v. Walker’s federal-pendency non-tolling rule remains intact. The distinct mixed-petition stay question reserved in Duncan and Pliler v. Ford is resolved.
+
+##### Protecting timely review when applying that discretion
+
+**Holding:** Where good cause, potential merit and absence of intentional delay are established and dismissal would defeat timely federal review, denying a stay and dismissing the entire petition ordinarily abuses discretion; the court should retain the action, and any refusal requires a reason compatible with the statute. If a stay is inappropriate, the prisoner must be allowed to delete unexhausted claims and proceed on exhausted claims when whole-petition dismissal would unreasonably impair federal relief.
+
+**Proposition-level authority:** O’Connor’s opinion, all nine Justices on this sufficient case for retention and deletion protection; Souter’s join does not adopt good cause as a necessary prerequisite in his separate view.
+
+**Limits and questions not reached:** Pliler’s neutral-warning duty applies only to an unrepresented prisoner facing a qualifying court-directed dismissal election with the apparent substantial risk to timely return. Rhines’s appointed counsel means that duty does not automatically govern his election; Pliler’s distinct causation, diligence and lawful-remedy conditions remain intact.
+
+**Operative remedy or transition:** The Eighth Circuit judgment is vacated, and the federal proceeding is retained during prompt review of the actual stay predicates, state-court progress and existing sixty-day initiation and return conditions. If a stay is unsuitable, a meaningful deletion election is required when whole-petition dismissal would unreasonably impair federal relief. Any dismissal must identify its actual effect on timely review.
+
+### Predicate vacatur and federal collateral-review limitations
+
+#### Johnson v. United States — predicate-vacatur timing (2005)
+
+**Docket or dockets:** No. 03-9685; judgment below, 340 F.3d 1219.
+**Decided:** April 4, 2005.
+
+##### An order removing a particular predicate is a supporting fact
+
+**Holding:** An order vacating the particular state conviction used to enhance a federal sentence is a fact supporting a challenge to that sentence under §2255 paragraph 6(4). The movant must establish the order and its material connection to the asserted current-sentence claim; an actual change in that conviction’s status differs from a new judicial interpretation, repeated legal argument or unsuccessful collateral filing.
+
+**Proposition-level authority:** Scalia’s opinion, Part I, unanimous.
+
+**Treatment of earlier authority:** Custis v. United States and Daniels v. United States retain the proper channel for challenging the predicate conviction and the independent requirements for an otherwise authorized later federal sentence challenge; this decision resolves the vacatur-fact timing question.
+
+##### Diligence concerns discovery of the existing order
+
+**Holding:** The one-year period under paragraph 6(4) begins when the prisoner could discover the vacatur order through due diligence. The statute requires diligent discovery and filing within one year of that discoverability date; it imposes no additional federal deadline for obtaining a state order that did not yet exist.
+
+**Proposition-level authority:** Scalia’s opinion, Part II, joined by Stone-Zsela, Stevens, Kennedy and Ginsburg; five direct votes. O’Connor, Souter, Thomas and Breyer accept Part I but dissent from this timing rule and reversal.
+
+**Limits and questions not reached:** The movant must establish the vacatur, diligent discoverability and the predicate’s material connection to the current-sentence claim. The distinct finality and new-right triggers remain operative, as do independent §2255 authorization and merits requirements. Actual vacatur alone does not establish a right to sentence reduction.
+
+**Operative remedy or transition:** The timing dismissal is reversed, 5–4. The district court must determine discoverability, the order’s scope and its effect on the enhancement. It may not dismiss solely for failure to obtain the state order earlier. If an authorized claim establishes that a necessary enhancement predicate is missing, the sentence must be vacated to that extent and resentencing must follow the applicable sentencing law.
+
+**Treatment of earlier authority:** Clay v. United States preserves distinct enacted timing triggers. Custis and Daniels provide no additional federal deadline for creating a state vacatur judgment.
+
+
+### Exception-bearing state filing deadlines and equitable diligence
+
+#### Pace v. DiGuglielmo, 544 U.S. 408 — filing deadlines and distinct equitable protection
+
+**Docket or dockets:** No. 03-9627.
+**Decided:** April 27, 2005.
+
+##### Whether an unsatisfied exception-bearing state filing deadline permits statutory tolling
+
+**Holding:** A state collateral application rejected under an applicable application-filing deadline is not properly filed under §2244(d)(2) merely because that deadline contains exceptions the application does not satisfy. Federal courts identify the operative state rule and its authoritative application, distinguish rules directed solely at claim relief, and require the applicant to establish the dates and qualifying state pendency supporting the claimed exclusion.
+
+**Proposition-level authority:** Opinion of the Court (Scalia), joined by Stone-Zsela, O'Connor, Kennedy and Thomas; five Justices adopt both Parts I and II.
+
+**Material application:** Pennsylvania's §9545(b)(1) requires any petition, including a second or later petition, within one year of finality unless the petition alleges and the petitioner proves one of three grounds: prior failure to present the claim resulted from governmental interference violating Pennsylvania or federal constitutional or statutory law; predicate facts were unknown and could not have been ascertained through due diligence; or a constitutional right was recognized after the ordinary period by this Court or Pennsylvania's Supreme Court and held retroactive by that recognizing court. Appointed and retained defense counsel are excluded from government officials. An exception petition must also be filed within sixty days after the claim could have been presented. Finality follows completion of direct review, including discretionary review in either Supreme Court, or expiration of review time. For judgments already final on January 16, 1996, the amendments' transition permits a first petition within one year of that effective date. Pace's petition was his second. The authoritative state ruling rejected both timeliness and the exceptions. The November 27, 1996–July 29, 1999 interval therefore is not excluded from federal time.
+
+**Limits and questions not reached:** Judicial evaluation of a filing condition does not turn it into a claim-relief rule, and a clerk’s acceptance or earlier merits discussion does not establish proper filing. Proper filing and actual pendency remain separate statutory requirements.
+
+**Operative remedy or transition:** The federal limitations judgment is affirmed, requiring dismissal of the untimely application.
+
+**Treatment of earlier authority:** Artuz’s filing-versus-relief distinction governs and its deadline-exception reservation is resolved for a genuine application deadline not satisfied. Carey gives effect to the actual state untimeliness determination despite alternative merits reasoning. Duncan retains its distinct treatment of state and federal pendency.
+
+##### Whether Pace established diligence under the broader equitable authority assumed for this case
+
+**Holding:** Assuming the broader equitable authority invoked here exists, the prisoner must establish an extraordinary impediment and reasonable diligence in pursuing the rights for which protection is sought. Part II holds that Pace's supported course of pursuit fails the required diligence showing for this asserted interval and therefore denies that protection, while preserving Pliler's existing rule for proved court-caused loss.
+
+**Proposition-level authority:** Opinion of the Court (Scalia), joined by Stone-Zsela, O'Connor, Kennedy and Thomas; five Justices adopt both Parts I and II.
+
+**Material application:** The asserted state-law uncertainty and exhaustion obstacle did not explain the years before the second state petition or the five months after state review ended. The relevant grounds were available much earlier; affidavits about an old meeting did not establish when the affidavits were obtained. The supported chronology permitted decision without a further factual remand.
+
+**Limits and questions not reached:** Reasonable pursuit depends on circumstances, not maximum speed. Earlier years inform diligence without charging pre-enactment time against the federal deadline. Five months is not categorically excessive; the Court does not decide whether the legal uncertainty was extraordinary or the full scope of equitable authority beyond Pliler. No later protective-filing duty is imposed retroactively, and the ruling does not rest on a capital/noncapital distinction.
+
+**Treatment of earlier authority:** Pliler preserves relief for proved court-caused loss arising from omitted required notice in a qualifying dismissal election or materially misleading judicial direction, subject to causation, diligence and an effective lawful remedy. Rhines preserves retention of timely mixed petitions on reasonable explanation, claims not plainly meritless, no abuse or intentional delay, and reasonable definite deadlines; those later procedures do not govern what diligence required when Pace acted.
+
+
+
+
+### Cumulative jury-selection evidence under the distinct habeas factual standards
+
+#### Miller-El v. Dretke, 545 U.S. 231
+
+**Docket or dockets:** No. 03-9659.
+**Decided:** June 13, 2005.
+
+##### The combined state record establishes purposeful exclusion and satisfies both habeas provisions
+
+**Holding:** A state finding of nondiscriminatory jury selection rests on an unreasonable factual determination under §2254(d)(2) when the full lawful state-court record makes the prosecutor’s actual explanations untenable. Here the permitted record separately rebuts the relevant factual finding by clear and convincing evidence under §2254(e)(1) and establishes purposeful racial exclusion under Batson.
+
+**Proposition-level authority:** Opinion of the Court (Kennedy), joined by Stone-Zsela, Stevens, O’Connor, Souter, Ginsburg and Breyer; seven Justices join the Batson, §2254(d)(2) and §2254(e)(1) conclusions.
+
+**Material application:** The Fields and Warren comparisons, actual questioning, shuffles and state-presented office history cumulatively defeat the actual reasons. Comparators need not be identical; differences material to the reasons and their combination must be considered. Office history corroborates rather than replaces trial-specific proof; new prosecutorial motives cannot substitute for the reasons actually given.
+
+**Operative remedy or transition:** A conditional writ must fix a definite reasonable period, after hearing the parties, for retrial before a lawfully selected jury; noncompliance requires release under this conviction. The death judgment cannot remain executable during that period, and the district court retains enforcement authority.
+
+**Treatment of earlier authority:** Batson, Hernandez and Franklyn / Gonzalez preserve actual-purpose inquiry and deference to supported findings. Miller-El v. Cockrell retains the certificate-versus-merits boundary. Michael Wayne Williams and Holland govern lawful factual development and the state-record basis.
+
+### Initial recognition as the new-right limitation trigger
+
+#### Dodd v. United States, 545 U.S. 353
+
+**Docket or dockets:** No. 04-5286.
+**Decided:** June 20, 2005.
+
+##### Initial recognition starts the special filing year
+
+**Holding:** Under §2255 paragraph 6(3), the one-year limitation runs from the Supreme Court’s initial recognition of the asserted right, provided the right is newly recognized and made retroactively applicable on collateral review. A later retroactivity determination does not restart that year; Richardson initially recognized the right Dodd asserts on June 1, 1999, making his April 4, 2001 motion untimely under this trigger even assuming its retroactive qualification.
+
+**Proposition-level authority:** Opinion of the Court (Thomas), joined by Stone-Zsela, O’Connor, Scalia and Kennedy; five Justices join the entire rule and application.
+
+**Limits and questions not reached:** Retroactive qualification is assumed only to decide the independent timing defect. Equitable tolling’s general availability, the court competent to establish paragraph 6(3) retroactivity, and predicate-instruction merits remain outside this decision. Another latest-event trigger applies only if its own conditions are met; successive authorization is independently required.
+
+**Operative remedy or transition:** Affirmance preserves dismissal of Dodd’s April 4, 2001 motion as untimely against the June 1, 1999 Richardson recognition date.
+
+**Treatment of earlier authority:** Richardson supplies recognition. Clay retains finality’s separate function; Johnson addresses factual discovery. Tyler’s express or necessarily compelling holdings routes establish retroactivity eligibility without resetting initial recognition.
+
+### Review of capital-investigation adjudications and conditional sentence relief
+
+#### Rompilla v. Beard, 545 U.S. 374
+
+**Docket or dockets:** No. 04-5462.
+**Decided:** June 20, 2005.
+
+##### The state performance decision unreasonably applied established law
+
+**Holding:** Under the unreasonable-application branch of 28 U.S.C. 2254(d)(1), relief from a state merits decision requires an objectively unreasonable application of the Supreme Court law established at that adjudication, rather than merely an incorrect application. Pennsylvania’s December 10, 1998 approval of this investigation unreasonably applied Strickland because the other inquiries did not supply a reasonable basis for omitting adequate examination of the known accessible source the prosecution intended to use substantially in seeking death.
+
+**Proposition-level authority:** Opinion of the Court (O’Connor), joined by Stone-Zsela, Stevens, Souter, Ginsburg and Breyer; six Justices join the separate statutory, performance, prejudice and conditional-remedy holdings.
+
+**Material application:** The state court unreasonably treated interviews and examinations as a substitute for adequate examination of the source announced for substantial aggravation. Its family-credibility finding remains intact. Later guidance is not treated as constitutional law established in 1998.
+
+**Treatment of earlier authority:** Strickland supplies the law at the state-adjudication date. Visciotti preserves objective unreasonableness as a separate gate; Terry Williams and Wiggins explain that preexisting obligation and review method.
+
+##### A definite conditional sentence writ implements the violation
+
+**Holding:** Pennsylvania must provide an adequately prepared new penalty proceeding within a definite reasonable period set by the District Court or impose a lawful noncapital sentence. The District Court must require notice of the State’s chosen course, verify completion through the resulting sentencing order, and enforce noncompliance against the invalid death sentence and its execution while preserving the conviction and independently lawful custody.
+
+**Proposition-level authority:** Opinion of the Court (O’Connor), joined by Stone-Zsela, Stevens, Souter, Ginsburg and Breyer; six Justices join the separate statutory, performance, prejudice and conditional-remedy holdings.
+
+**Operative remedy or transition:** The district court sets the definite reasonable period, obtains Pennsylvania’s chosen course and verifies the resulting order. The existing death judgment is not executable while the remedy operates. Noncompliance is enforced against that sentence while conviction and independently lawful custody remain intact.
+
+**Treatment of earlier authority:** Terry Williams and Wiggins supply conditional sentence relief and verification of a lawful sentencing disposition.
+
+Rompilla, No. 04-5462, decided June 20, 2005, states actual deficient performance and cumulative sentencing prejudice under [Criminal Procedure: Sentencing and Capital Punishment](../HOLDINGS.md#known-aggravation-files-and-cumulative-mitigation-prejudice).
+
+### Federal-process motions and extraordinary reopening relief
+
+#### Gonzalez v. Crosby, 545 U.S. 524 (2005)
+
+**Docket or dockets:** No. 04-6432.
+**Decided:** June 23, 2005.
+
+##### Whether a limitations-only federal-process motion is successive and what independent Rule 60 safeguards apply
+
+**Holding:** In a section 2254 state-custody proceeding, a Rule 60 motion confined to an asserted defect in federal habeas procedure that prevented adjudication of an already pleaded claim is not a second or successive application under 28 U.S.C. §2244(b) merely because reopening could eventually permit custody relief. Courts must examine the relief actually requested: a new custody claim, new factual merits supplement or renewed adjudication of constitutional merits remains subject to the applicable successive-application restrictions, and a mixed filing must have its genuine procedural request separated from those demands.
+
+**Proposition-level authority:** Opinion of the Court (Stone-Zsela), Part I, unanimous; the classification and independent-relief conditions each have nine direct joins.
+
+**Limits and questions not reached:** Rule 60(b)(6) separately requires extraordinary circumstances and a motion made within a reasonable time. It cannot displace the distinct requirements governing the Rule's other grounds. Applicable certificate requirements also retain their independent conditions, including constitutional and procedural reasonable-debate showings where required. These safeguards preserve finality while allowing genuine federal-process correction. Classification and entitlement to relief remain separate inquiries.
+
+**Material application:** Gonzalez attacks a federal limitations ruling that prevented adjudication of an already pleaded claim. The district court may consider that procedural request without advance appellate authorization under §2244(b).
+
+**Treatment of earlier authority:** Abdur'Rahman is applied to a federal limitations barrier, preserving substance-based classification and separation of mixed filings. Calderon's completed-merits recall predicate is distinguished; Rhines concerns preservation of an existing timely mixed petition rather than reopening a final judgment.
+
+##### Whether the complete assumed account establishes extraordinary circumstances for reopening
+
+**Holding:** On the complete showing presented, the intervening procedural interpretation, the absence of an earlier merits hearing, the alleged interruption of ordinary review, Gonzalez's incarceration and self-representation, and his subsequent course of pursuit do not establish extraordinary circumstances under Rule 60(b)(6). Denial is proper even assuming the alleged timely rehearing submission, returned-paper information and resulting misunderstanding of the remaining review opportunity; the decision adopts neither a fixed monthly deadline nor a categorical exclusion of intervening legal changes.
+
+**Proposition-level authority:** Opinion of the Court (Stone-Zsela), Part II, joined by O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer; seven direct joins. Stevens and Souter join Part I only.
+
+**Material application:** The original limitations interpretation is assumed mistaken and the disputed rehearing account is accepted for this ruling. The earlier review interruption does not sufficiently explain the separate eight-to-nine-month post-Artuz period in the complete showing; elapsed months alone are not dispositive.
+
+**Operative remedy or transition:** The denial is affirmed on this independent Rule 60 ground. The original federal limitations judgment remains effective; accepting the disputed account makes a credibility remand unnecessary on this sufficient ground.
+
+**Treatment of earlier authority:** Artuz's filing-versus-relief distinction is preserved. Pace supplies contextual examination of an obstacle against the actual pursuit period, not a numerical deadline. Abdur'Rahman does not require a remand where a sufficient denial ground accepts the disputed account. Pliler's causation, diligence and lawful-remedy protections for proved court-caused loss remain intact.
+
+### Relation back of amended habeas grounds
+
+#### Mayle v. Felix, 545 U.S. 644 (2005)
+
+**Docket or dockets:** No. 04-563.
+**Decided:** June 23, 2005.
+
+##### Whether a post-limitations habeas ground shares the timely pleading's operative factual core
+
+**Holding:** Under Rule 15(c)(2), an amended habeas ground asserted after limitations expire relates back only when it shares a common core of operative facts set forth or attempted in a timely pleading. A new legal theory, additional detail or fair elaboration of an imperfect pro se account may qualify; the same trial, conviction or requested release alone does not supply the factual connection.
+
+**Proposition-level authority:** Opinion of the Court (Ginsburg), joined by Stone-Zsela, O'Connor, Scalia, Kennedy, Thomas and Breyer; seven direct joins.
+
+**Material application:** Felix's interrogation and Williams's videotaped testimony are distinct factual episodes. None of the timely grounds attempted the interrogation core. A new legal theory or fair pro se elaboration may relate back, but the State's possession of the prosecution file does not supply notice that every act is challenged.
+
+**Limits and questions not reached:** Timely amendments remain available under the applicable rules. Later amendments sharing the pleaded factual core may relate back even when they change the legal theory. Independent commencement, pendency or equitable grounds require their own established predicates; the remand must enforce the common-core rule and adjudicate any actually preserved independent ground on its own basis.
+
+**Operative remedy or transition:** Reversed in relevant part and remanded. The coercion claim does not relate back and is time barred unless an independently preserved sufficient timeliness ground applies. The assistance theory returns within its actual procedural scope under the same rule; the separately resolved confrontation merits remain undisturbed.
+
+**Treatment of earlier authority:** Scarborough permits completing an identified timely matter, not adding a distinct factual wrong; Tiller permits changing legal theory about the same identified occurrence. Artuz, Duncan and Carey retain their separate filing and pendency rules. Rhines preserves an existing timely mixed petition; Pliler retains its court-act, causation, diligence and lawful-remedy requirements. Pace and Dodd retain their distinct timing holdings.
+
+### Exceptional post-certiorari withholding of a habeas mandate
+
+#### Bell v. Thompson, 545 U.S. 794 (2005)
+
+**Docket or dockets:** No. 04-514.
+**Decided:** June 27, 2005.
+
+##### Whether prolonged silent withholding and later merits amendment abuse assumed exceptional mandate authority
+
+**Holding:** Even assuming exceptional authority to withhold a mandate after completed certiorari review, a court abuses that authority when it leaves the parties without notice for months after its announced stay ends and then reopens the merits without a justification sufficient for that extraordinary course. The Sixth Circuit's combined unexplained delay, expired announced endpoints, earlier opportunities to consider the psychological material, and ensuing merits amendment require reversal here; nonissuance alone cannot justify indefinite reconsideration.
+
+**Proposition-level authority:** Opinion of the Court (Kennedy), joined by Stone-Zsela, O'Connor, Scalia and Thomas; five complete joins.
+
+**Limits and questions not reached:** General authority for exceptional post-certiorari withholding is assumed, not decided. The combined circumstances control; time alone is not conclusive and the ruling requires no finding that the mitigation claim lacks merit. The mandate never issued, so this is not an actual recall.
+
+**Operative remedy or transition:** The amended judgment and dependent hearing and vacatur directions are set aside. Remand requires prompt issuance of the mandate reflecting the earlier habeas denial, subject to independently lawful restraints. Separate competency proceedings and other claims retain their own conditions.
+
+**Treatment of earlier authority:** Carlisle requires inherent authority to operate within procedural rules. Calderon supplies finality and state-reliance concerns by analogy; its miscarriage-of-justice rules remain tied to actual recalls reopening completed habeas merits. Rule 41 governs issuance.

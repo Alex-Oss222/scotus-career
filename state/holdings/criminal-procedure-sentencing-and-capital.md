@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2003
-**Processed through:** June 30, 2004, after all 119 completed OT2003 Court events and the admitted Rule 53 amendment effective December 1, 2003.
-**Edition:** November 22, 2026
+**Last completed October Term:** 2004
+**Processed through:** June 27, 2005, after all 105 completed OT2004 Court events and the admitted section 703 source effective October 22, 2004.
+**Edition:** November 23, 2026
 
 ## Criminal Procedure: Sentencing and Capital Punishment
 
@@ -1427,6 +1427,8 @@ For the other questions in Witte v. United States, decided June 14, 1995, No. 94
 
 **Treatment of earlier authority:** Chapman remains the controlling statutory construction. Stinson's authority for lawful Guidelines commentary is preserved within its statutory limit. Patterson supports adherence without making statutory precedent categorically irreversible.
 
+**Later-authority backlinks:** [National Cable & Telecommunications Association v. Brand X Internet Services](../HOLDINGS.md#delegated-cable-classification-and-prior-circuit-interpretation), Nos. 04-277 and 04-281, June 27, 2005: resolves the reserved agency-precedent relationship only for a prior circuit holding that leaves a genuinely delegated choice open. The force of a Supreme Court construction remains outside that decision, and Neal's binding LSD mixture-weight rule is unchanged.
+
 ### Capital-juror exclusions and state appellate review
 
 #### Greene v. Georgia
@@ -2452,7 +2454,7 @@ For Cotton, May 20, 2002, No. 01-687, on section 3231 jurisdiction and the confi
 
 **Treatment of earlier authority:** Apprendi is extended to present-offense facts raising binding Guidelines ceilings or floors. McMillan is overruled insofar as ordinary present-offense sentencing findings may raise a mandatory minimum merely because the maximum is unchanged. Mistretta retains institutional approval of the Commission. Witte and Watts/Putra retain ordinary assessment within independently authorized punishment, subject to the binding-range rule.
 
-**Later-authority backlinks:** Limon v. Kansas, June 26, 2003, extends element protection to necessary nonjury juvenile predicates raising the adult maximum, including a binding grid ceiling; United States v. Gatewood, June 30, 2003, further extends protection to necessary adult recidivist predicates raising a binding maximum or mandatory minimum, resolving the prior-conviction reservation at those scopes.
+**Later-authority backlinks:** Limon v. Kansas, June 26, 2003, extends element protection to necessary nonjury juvenile predicates raising the adult maximum, including a binding grid ceiling; United States v. Gatewood, June 30, 2003, further extends protection to necessary adult recidivist predicates raising a binding maximum or mandatory minimum, resolving the prior-conviction reservation at those scopes. United States v. Booker / United States v. Fanfan, January 12, 2005, resolves the reserved system-level remedy by retaining lawful binding Guidelines applications and the enacted review structure, while withholding unsupported enhancements.
 
 ##### Federal charging protection accompanies the covered aggravated fact
 
@@ -3115,3 +3117,303 @@ For Beard v. Banks, 542 U.S. 406, 2004-06-24, No. 02-1603, see Federal Courts: H
 **Limits and questions not reached:** The violation turns on reasonable likelihood from the whole mechanism, not merely a possible reading, absence of a particular sentence or lawful unanimity for the ultimate death verdict.
 
 **Treatment of earlier authority:** Mills v. Maryland and McKoy v. North Carolina apply to the unanimity mechanism. Boyde v. California supplies reasonable-likelihood review; Middleton v. McNeil requires the complete charge and context.
+
+
+
+### Capital mitigation relevance, coherent verdicts and preserved-error relief
+
+#### Smith v. Texas, 543 U.S. 37
+
+**Docket or dockets:** No. 04-5323.
+**Decided:** November 15, 2004.
+
+##### Whether supported culpability mitigation requires permanent impairment or a causal link to the crime
+
+**Holding:** Supported evidence that may reduce capital culpability must be available for constitutional consideration without a requirement of severe permanent impairment or a causal connection to the offense. Eligibility for consideration neither requires a categorical disability diagnosis nor prescribes favorable weight.
+
+**Proposition-level authority:** Souter's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Kennedy, Ginsburg and Breyer; seven direct votes.
+
+**Material application:** Smith’s intellectual-functioning and special-education evidence qualifies; deliberateness and future danger do not exhaust its culpability significance.
+
+**Treatment of earlier authority:** Tennard v. Dretke, June 24, 2004, is reaffirmed against both heightened screens. Graham v. Collins, January 25, 1993, and Johnson v. Texas, June 24, 1993, supply mitigation’s independent culpability significance.
+
+##### Whether contradictory factual certifications permit lawful effect for mitigation
+
+**Holding:** When supported mitigation may reduce culpability independently of the factual special issues, the jury must have an authorized, coherent means of giving that judgment effect in a life verdict. A negative special-issue answer cannot serve that purpose if the final instructions simultaneously require it to certify factual reasonable doubt that the juror may not hold.
+
+**Proposition-level authority:** Souter's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Kennedy, Ginsburg and Breyer; seven direct votes.
+
+**Material application:** A direction to consider mitigation does not cure a verdict mechanism requiring a juror who favors life to certify a factual reasonable doubt the juror does not hold.
+
+**Treatment of earlier authority:** Penry v. Johnson, June 4, 2001, is reaffirmed for the difference between considering mitigation and giving it lawful effect. Boyde v. California, 494 U.S. 370, requires assessment of the full charge and trial context for a reasonable likelihood of restricted mitigating use.
+
+##### What effect inquiry and conditional correction follow a preserved original-charge mitigation restriction
+
+**Holding:** When this original-charge restriction was preserved and no genuinely remaining procedural issue precludes relief, the State must prove beyond reasonable doubt on the complete penalty record that the defect did not contribute to the death sentence. If it fails, constitutionally adequate capital resentencing or a lawful noncapital sentence is required.
+
+**Proposition-level authority:** Souter's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Kennedy, Ginsburg and Breyer; seven direct votes.
+
+**Material application:** The factual special-issue answers cannot establish what an unconflicted mitigation determination would have produced.
+
+**Operative remedy or transition:** The reversed state judgment is remanded for genuinely remaining procedural matters and the complete-record effect inquiry. Any required correction must have a reasonable deadline and a specified lawful noncapital consequence if correction does not occur; the guilt judgment remains intact.
+
+**Treatment of earlier authority:** Penry v. Johnson supplies the preserved-error effect rule. This review is directly from the state judgment, rather than federal habeas review.
+
+### Proportionality of a punitive reporting forfeiture
+
+#### United States v. $100,348.00 in U.S. Currency, 354 F.3d 1110 (judgment below)
+
+**Docket or dockets:** Ninth Circuit consolidated appeals; no Supreme Court docket supplied.
+**Decided:** November 15, 2004.
+
+For Mayzel’s first-party possessory challenge in this case, November 15, 2004, reviewing 354 F.3d 1110, see Federal Courts: Justiciability — A protected possessor’s own forfeiture challenge.
+
+##### What burden, comparison and review govern a partly punitive reporting forfeiture
+
+**Holding:** A partly punitive reporting forfeiture violates the Excessive Fines Clause when the claimant proves that it is grossly disproportionate to the actual offense. Courts compare supported culpability, harm, the property's relation to the wrongdoing and authorized sanctions where relevant, with substantial respect for legislative punishment judgments. Constitutional proportionality receives independent appellate review; supported subsidiary facts receive clear-error review.
+
+**Proposition-level authority:** Part II of Thomas’s opinion of the Court, unanimous.
+
+**Limits and questions not reached:** The comparison is contextual, without an exhaustive checklist or fixed ratio. The statutory maximum receives weight but cannot conclusively establish constitutionality.
+
+**Treatment of earlier authority:** Austin v. United States supplies partly punitive coverage. United States v. Bajakajian, June 22, 1998, supplies gross disproportionality, legislative respect and separate legal and factual review. United States v. Wagoner County Real Estate, March 4, 2003, supplies supported findings and a claimant burden extended here from real property to reporting forfeiture.
+
+##### Whether the full $100,348 demand or the $10,000 actual forfeiture is excessive
+
+**Holding:** On the supported findings, taking the full $100,348 is grossly disproportionate to the reporting offense, but a $10,000 forfeiture is constitutional. Neither the amount selected below nor its arithmetic method establishes a constitutional formula for other cases.
+
+**Proposition-level authority:** Part III of Thomas’s opinion, joined by Stone-Zsela, Stevens, Souter, Ginsburg and Breyer; six direct votes.
+
+**Material application:** Lawful source and no governmental financial loss were found; informational harm and false statements support meaningful culpability. Unproved laundering or another offense cannot supply added gravity. The criminal reporting acquittal rested on failure to prove knowledge of the duty beyond reasonable doubt and leaves civil forfeitability intact. The result is the same under either hypothetical fine ceiling: $5,000 at level 6 or $30,000 at level 12. Level 6 requires no knowledge or belief of unlawful proceeds, no reckless disregard of source, lawful proceeds and intended lawful use; only lawful source was expressly found. Missing findings about the other conditions do not require a hearing because neither alternative changes the constitutional result.
+
+**Limits and questions not reached:** The pre-CAFRA regime governs this proceeding.
+
+**Operative remedy or transition:** The judgment is affirmed: the Government retains $10,000 and must return $90,348 through the existing proceeding to the legally entitled claimant. Independent forfeiture and fee rulings outside the reviewed questions remain in force.
+
+**Treatment of earlier authority:** Bajakajian’s prior dollar result remains record-specific. Wagoner requires additional findings when material, not when an unresolved alternative cannot affect the result.
+
+### Capital concession strategy and an unresponsive client
+
+#### Florida v. Nixon, 543 U.S. 175
+
+**Docket or dockets:** No. 03-931.
+**Decided:** December 13, 2004.
+
+##### Whether lack of express consent automatically establishes ineffective assistance for a disclosed concession
+
+**Holding:** When capital defense counsel adequately discusses a concession strategy with the defendant, the defendant neither agrees nor objects, and counsel continues meaningful adversarial representation in an actual trial, the absence of express consent alone establishes neither deficient performance nor presumed prejudice. The defendant must prove objectively deficient performance and a reasonable probability of a different result under *Strickland v. Washington*, which supplies the ordinary performance-and-prejudice inquiry.
+
+**Proposition-level authority:** Breyer’s opinion of the Court, unanimous.
+
+**Material application:** The prosecution still had to prove guilt at a jury trial; counsel continued evidentiary, instructional and substantial penalty advocacy. Review examines actual preparation, consultation and the integrated strategy under trial-era professional standards. Strong evidence or a strategy label does not excuse an uninformed surrender.
+
+**Limits and questions not reached:** A concession contrary to the defendant’s expressed trial objective lies outside the question and record. A court may decide a supported dispositive performance or prejudice prong; it may not add a fundamental-unfairness hurdle to ordinary lawful-outcome prejudice.
+
+**Operative remedy or transition:** The automatic new-trial judgment is reversed. Preserved ordinary allegations, including unexamined evidentiary inconsistencies and necessary consultation or preparation issues, require adjudication under Strickland; any proved defect warrants the corrective trial or sentencing proceeding authorized by the applicable postconviction remedy.
+
+**Treatment of earlier authority:** Strickland v. Washington supplies performance and reasonable-probability prejudice. Bell v. Cone distinguishes particular choices during substantive advocacy from abandonment; its separate federal-habeas conditions do not govern direct review of this state judgment. United States v. Cronic retains its recognized complete-denial and complete-failure categories. Williams v. Taylor excludes an extra fundamental-unfairness requirement. Boykin v. Alabama concerns an actual plea, and Brookhart v. Janis an abbreviated proceeding imposed against the accused’s expressed choice; neither converts this disclosed silent-client strategy into an automatic violation.
+
+### Constitutional factfinding within binding Federal Sentencing Guidelines
+
+#### United States v. Booker, consolidated with United States v. Fanfan, 543 U.S. 220
+
+**Docket or dockets:** Nos. 04-104 and 04-105.
+**Decided:** January 12, 2005.
+**Companion or consolidated matters:** Booker, No. 04-104, reviews the Seventh Circuit's sentence vacatur; Fanfan, No. 04-105, is on certiorari before judgment from the refusal to enhance and resulting 78-month sentence.
+
+##### Which facts increasing a binding federal sentencing ceiling or floor require element protections
+
+**Holding:** A fact legally necessary to increase a binding sentencing ceiling or floor must receive applicable grand-jury charging protection and be proved to a jury beyond a reasonable doubt, validly admitted as an element, or determined beyond a reasonable doubt after a lawful jury waiver. This rule governs present-offense and necessary recidivist facts, including those that increase a binding Federal Sentencing Guidelines range; judicial selection within punishment independently authorized by the verdict or valid admissions remains permissible.
+
+**Proposition-level authority:** Stevens's Part I, joined by Stone-Zsela, Scalia, Souter, Thomas and Ginsburg; six direct rationale votes.
+
+**Material application:** Booker's judicial quantity and obstruction findings raised the binding calculation from 210–262 months to 360 months–life and produced a 360-month sentence. They cannot authorize that increase. Fanfan correctly withheld the comparable unsupported enhancement. An unchallenged sentencing-report assertion does not by itself constitute a valid element admission; a lawful jury waiver preserves the proof burden and applicable charge boundary.
+
+**Treatment of earlier authority:** Apprendi supplies the punishment-authorization principle. Angle governs binding federal Guidelines ceilings and floors; Harris preserves mandatory-floor element protections, Gatewood rejects a categorical recidivism exemption, and Blakely identifies the range authorized by verdict or valid admission. Mistretta's institutional approval creates no factfinding exception. Witte and Watts retain judicial assessment within independently authorized punishment.
+
+##### Whether unconstitutional enhancements require replacing the binding Guidelines with an advisory system
+
+**Holding:** The Federal Sentencing Guidelines remain binding to the extent their ranges rest on constitutionally established facts; an unsupported enhancement must be withheld rather than used to replace Congress's mandatory system with an advisory one. Section 3553(b)(1), §3742(e) and the enacted review and remand provisions remain effective in their lawful applications, with judicial discretion exercised within the independently authorized range and lawful statutory departures.
+
+**Proposition-level authority:** Stevens's Part II and mandate, joined by Stone-Zsela, Scalia, Souter and Thomas; five direct rationale votes. Ginsburg joins Part I only.
+
+**Limits and questions not reached:** Section 3553(b)(1) permits departure when an aggravating or mitigating circumstance of a kind or degree inadequately considered by the Commission warrants a different sentence. Adequacy of consideration is assessed from the Guidelines, policy statements and official commentary. Every departure remains subject to the constitutional punishment-authorization rule.
+
+**Treatment of earlier authority:** Alaska Airlines v. Brock is applied to preserve lawful statutory applications consistent with Congress's design. Angle's reserved system-level remedy is resolved by retaining the binding provisions and enacted appellate review, rather than substituting an advisory system.
+
+##### What docket-specific relief and ordinary review limits follow under the retained mandatory framework
+
+**Holding:** Booker's appellate sentence vacatur is affirmed, and his case is remanded for a replacement sentence within a lawfully established binding range, subject to correction of independently established calculation errors. Fanfan's refusal to enhance and resulting 78-month sentence are affirmed against the asserted entitlement to use the excluded findings; any independently preserved calculation issue remains for ordinary disposition.
+
+**Proposition-level authority:** Stevens's Part II and mandate, joined by Stone-Zsela, Scalia, Souter and Thomas; five direct rationale votes. Ginsburg joins Part I only.
+
+**Operative remedy or transition:** Booker's convictions remain intact. Resentencing must use a lawfully established binding range, with correction of independently established calculation errors. The mandate itself authorizes neither a new enhancement jury nor new charging; additional factfinding requires an independent procedural source and compliance with charging, proof, waiver and finality limits. Fanfan's 78-month sentence stands against the presented enhancement challenge, subject to ordinary disposition of any independently preserved calculation question.
+
+**Limits and questions not reached:** Griffith governs applicable nonfinal cases on direct review. A forfeited claim separately requires error, plainness, the ordinary showing of an effect on substantial rights, and the discretionary determination that the error seriously affects the fairness, integrity or public reputation of judicial proceedings. Assuming the same sentence would be imposed neither replaces these inquiries nor makes an unauthorized binding range lawful. Existing deadlines, retroactivity rules and collateral-review gateways separately govern final judgments.
+
+**Material judgment:** All nine accept Booker's sentence vacatur once the constitutional premise governs; five support the mandatory-framework directions. Fanfan's sentence is affirmed against the presented challenge, 5–4, by Stevens, Stone-Zsela, Scalia, Souter and Thomas.
+
+**Treatment of earlier authority:** Blakely and Gatewood distinguish sentence relief from independent authority for aggravated proceedings. Griffith and Olano retain their respective direct-review and four-part forfeiture functions.
+
+
+### Offense-date age and categorical capital ineligibility
+
+#### Roper v. Simmons, 543 U.S. 551
+
+**Docket or dockets:** No. 03-633.
+**Decided:** March 1, 2005
+
+##### Whether an offense committed before eighteen permits a death sentence
+
+**Holding:** The Eighth and Fourteenth Amendments prohibit the death penalty for an offense committed before the offender's eighteenth birthday. Age at the offense controls; later adulthood, the crime's severity or planning, and an assessment of exceptional individual maturity do not create an exception.
+
+**Proposition-level authority:** Kennedy's opinion, joined by Stone-Zsela, Stevens, Souter, Ginsburg and Breyer; six Justices.
+
+**Material application:** Simmons's established offense age of seventeen supplies the categorical ground. The rule uses an administrable offense-date boundary; it does not call for a maturity hearing. A genuinely disputed birth date requires reliable resolution.
+
+**Treatment of earlier authority:** Atkins's categorical proportionality method is extended through domestic enactments and practice, reduced culpability, penal purposes and unreliable capital selection. Its intellectual-disability definition and status procedures retain their distinct scope. Thompson v. Oklahoma's under-sixteen protection is encompassed by the new age boundary.
+
+##### Whether Stanford survives and how the categorical exclusion reaches existing death judgments
+
+**Holding:** Stanford v. Kentucky is overruled insofar as it permits execution for offenses committed at sixteen or seventeen. Because the new rule removes a class from death eligibility, a death sentence within that class must be replaced through lawful noncapital sentencing procedures in nonfinal cases and final cases reached through an available review channel, preserving valid convictions and independent procedural requirements.
+
+**Proposition-level authority:** Kennedy's same six-Justice opinion controls the express overruling and substantive transition.
+
+**Limits and questions not reached:** The category applies through available lawful review channels and does not create new review jurisdiction or erase independent procedural requirements. It preserves serious criminal responsibility and lawful noncapital punishment; it does not adjudicate the legality of other noncapital sentences.
+
+**Operative remedy or transition:** Affirm the Missouri collateral judgment. Simmons's conviction and life sentence without eligibility for probation, parole or release except by gubernatorial action remain effective; authority to execute him for this offense must be removed. Other qualifying death judgments receive authorized noncapital correction when lawfully reached.
+
+**Treatment of earlier authority:** Stanford v. Kentucky is overruled at its permission to execute for offenses committed at sixteen or seventeen. That permission has no surviving force. Atkins explains why individual mitigation may not cure a categorical capital-selection defect; the age ruling is made here rather than attributed retroactively to Atkins.
+
+### Burglary pleas and recidivist sentencing
+
+#### Shepard v. United States, 544 U.S. 13
+
+**Docket or dockets:** No. 03-9168.
+**Decided:** March 7, 2005.
+
+##### Which records establish generic burglary after a plea under a broader statute
+
+**Holding:** When an earlier burglary statute reaches conduct beyond generic burglary, ACCA qualification depends on what the guilty plea necessarily established. The sentencing court may use the statute, charging instrument, written plea agreement, plea colloquy and comparable judicial findings expressly accepted by the defendant; a police report or complaint application that the plea did not adopt cannot establish the missing generic element merely because it reliably describes the conduct.
+
+**Proposition-level authority:** Part I of Thomas's opinion, joined by Stone-Zsela, Stevens, Scalia, Souter and Ginsburg; six direct votes. O'Connor, Kennedy and Breyer do not join this statutory restriction.
+
+**Material application:** The Massachusetts charges covered vehicles and vessels as well as buildings. Their breadth, and the absence of express adoption of the police accounts, prevented those accounts from establishing the requisite building element. Express judicial incorporation of particular facts is different from an investigative narrative simply included in the file.
+
+**Operative remedy or transition:** The First Circuit's contrary conviction-material rule is reversed. Each proposed predicate must be examined under this restriction before any enhancement can be imposed.
+
+**Treatment of earlier authority:** Taylor v. United States is extended to guilty pleas: its inquiry into the conviction's necessary elements, rather than a new reconstruction of old conduct, governs the permissible plea materials.
+
+##### The independent charging, proof and sentencing conditions governing the enhancement remand
+
+**Holding:** A disputed adult-recidivist fact necessary to increase a federal sentencing ceiling or mandatory floor requires the applicable federal charge and unanimous jury proof beyond a reasonable doubt, unless a valid admission and required lawful waivers establish it. A lawful jury waiver permits a judge to determine the fact under the same proof standard and charging limits; legal classification of already established elements remains judicial, and a permissible conviction record does not cure an omitted essential charge or authorize resolution of a new disputed enhancement fact.
+
+**Proposition-level authority:** Part II of Thomas's opinion, unanimous, applies the existing Gatewood and Booker rules. The three Part I dissenters' agreement with this governing-law remand does not enlarge the six-Justice statutory coalition.
+
+**Operative remedy or transition:** The unconditional enhancement direction is set aside. The district court must identify the operative charges, admissible conviction records, actual admissions, lawful waivers and preservation. A preserved indispensable charging omission without a valid waiver precludes enhancement through notice or judicial findings alone. A genuinely forfeited claim requires error, plainness, the defendant's ordinary showing of outcome-affecting prejudice, and a separate finding that the error seriously affects the fairness, integrity or public reputation of judicial proceedings before discretionary correction under Rule 52(b); after a change in settled trial law during direct review, plainness is assessed at review. Resentencing uses the lawfully authorized binding Guidelines range and retained sentencing and departure provisions, not an automatic thirty-to-thirty-seven-month term. A further enhancement proceeding needs independent lawful authority and compliance with charging, notice, proof, waiver, sufficiency, procedure, finality and double-jeopardy protections. This remand supplies no such authority. The firearm conviction remains intact.
+
+**Treatment of earlier authority:** Gatewood directly governs necessary adult-predicate existence, identity, historical qualification and chronology. Angle and Harris preserve equivalent protection for mandatory floors and ceilings. Almendarez-Torres supplies no constitutional recidivism exception after Gatewood. Booker requires application of the retained binding Guidelines within lawful factfinding and sentencing authority.
+
+
+### Visible capital-sentencing restraints and individualized necessity
+
+#### Deck v. Missouri, 544 U.S. 622 (2005)
+
+**Docket or dockets:** No. 04-5293.
+**Decided:** May 23, 2005.
+
+##### Visible restraint during capital punishment selection
+
+**Holding:** A court may not require a defendant to appear visibly shackled before a capital sentencing jury unless circumstances particular to the defendant and proceeding establish an essential security or comparable courtroom need. The State must justify the measure; the trial judge retains reasonable discretion to address actual danger, escape risk and courtroom order, considering supported history and reasonable less prejudicial alternatives without a prescribed hearing format or proof quantum.
+
+**Proposition-level authority:** O'Connor's opinion of the Court, joined by Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg and Breyer; seven direct joins in Parts I–III.
+
+**Limits and questions not reached:** A judge may consider supported history without waiting for a fresh incident. The requirement is individualized necessity, not a categorical prohibition of restraints or a mandatory hearing procedure.
+
+**Treatment of earlier authority:**
+
+- Illinois v. Allen preserves necessary courtroom control and supplies the individualized security authority applied at capital sentencing.
+- Holbrook v. Flynn supplies the distinction between ordinary security arrangements and inherently prejudicial measures; that distinction governs the visible restraints here.
+- Riggins v. Nevada is extended by analogy concerning actual justification and effects that cannot reliably be reconstructed; its medication holding remains confined to that subject.
+
+##### The restraints in this proceeding lacked the required justification
+
+**Holding:** Conviction alone and generalized juror reassurance do not justify deliberately imposed visible shackling throughout a capital penalty proceeding. Deck's preserved challenge establishes unconstitutional restraint because the trial court identified no individualized necessity and this record supplies no exceptional, indisputable need curing that omission.
+
+**Proposition-level authority:** O'Connor's opinion of the Court, joined by Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg and Breyer; seven direct joins in Parts I–III.
+
+**Material application:** Counsel repeatedly objected, and the trial court's responses established visibility. Reliance on conviction and generalized reassurance did not identify why Deck required those restraints.
+
+**Treatment of earlier authority:**
+
+- Estelle v. Williams preserves the distinction between compelled appearance and a measure accepted without timely objection; Deck repeatedly objected.
+
+##### The State bears the direct-review harmlessness burden
+
+**Holding:** Unjustified visible shackling in capital jury sentencing is constitutional trial error. On a preserved direct-review claim, the State must establish beyond a reasonable doubt from the full penalty record that the error did not contribute to the death sentence; absent that showing, the defendant receives a lawful new sentencing proceeding or a lawful noncapital sentence.
+
+**Proposition-level authority:** O'Connor's opinion of the Court, joined by Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg and Breyer; seven direct joins in Parts I–III.
+
+**Limits and questions not reached:** The defendant need not prove each juror's response or reconstruct unshackled deliberations. Harmlessness remains a genuine full-record inquiry; the error does not require automatic reversal. The rule stated here concerns a preserved claim on direct review.
+
+**Operative remedy or transition:** The affirmance of the death sentence is reversed and remanded for State-borne harmless-error review. If Missouri cannot carry its burden, the death sentence must be vacated and replaced by a lawful new penalty proceeding or a lawful noncapital sentence. The convictions remain intact. Any new penalty proceeding requires an actual security determination and reconsideration of changed circumstances.
+
+**Treatment of earlier authority:**
+
+- Chapman v. California now governs the preserved visible-restraint error on direct review.
+- Smith v. Texas supplies the existing capital-error allocation and sentence-specific remedy; its mitigation rule remains distinct from the restraint prohibition adopted here.
+
+
+
+
+### Independent capital review of materially conflicting prosecution accounts
+
+#### Bradshaw v. Stumpf, 545 U.S. 175
+
+**Docket or dockets:** No. 04-637.
+**Decided:** June 13, 2005.
+
+##### The independent death-sentence claim requires its own adjudication
+
+**Holding:** An informed aggravated-murder plea does not dispose of a claim that materially false or irreconcilable prosecution accounts affected the defendant’s individual culpability in the selection of death. The reviewing court must separately identify the actual accounts and later evidence, the State’s knowledge, their sentencing use, the applicable constitutional ground, and material prejudice under the governing pre-AEDPA standards.
+
+**Proposition-level authority:** Opinion of the Court (O’Connor), unanimous.
+
+**Limits and questions not reached:** The Court adopts no general rule governing every differing theory across trials. Knowledge and materiality remain predicates when the claim proceeds through the knowing-false-evidence ground.
+
+**Operative remedy or transition:** The intertwined sentencing disposition is vacated. If independent adjudication establishes a material constitutional violation, a conditional writ must require lawful resentencing within a reasonable specified period or removal of death; the valid conviction does not authorize unconditional release.
+
+**Treatment of earlier authority:** Lindh and Carriger apply the pre-AEDPA regime to the November 1995 application. Napue and Giglio retain knowledge and materiality requirements. Lockett and Eddings require individualized treatment of culpability and mitigation apart from guilt.
+
+Bradshaw, No. 04-637, decided June 13, 2005, separately preserves the informed plea under [Criminal Procedure](../HOLDINGS.md#informed-guilty-pleas-and-later-evidence-of-the-shooters-identity).
+
+### Known aggravation files and cumulative mitigation prejudice
+
+#### Rompilla v. Beard, 545 U.S. 374
+
+**Docket or dockets:** No. 04-5462.
+**Decided:** June 20, 2005.
+
+##### Counsel’s known-source investigation was constitutionally deficient
+
+**Holding:** Capital counsel must examine a readily available prior-case file when counsel knows the prosecution will use its contents as a substantial part of the case for death, unless a reasonable, informed professional judgment makes that examination unnecessary. That duty requires reasonable efforts in the actual circumstances and reasonable pursuit of material leads; counsel’s inadequate timely examination of this source fell below Strickland’s objective standard.
+
+**Proposition-level authority:** Opinion of the Court (O’Connor), joined by Stone-Zsela, Stevens, Souter, Ginsburg and Breyer; six Justices join the separate statutory, performance, prejudice and conditional-remedy holdings.
+
+**Limits and questions not reached:** The obligation depends on actual access, materials, resources and informed allocation of effort; it is not a command to read every page of every previous case file. The known source’s defense-preparation value predates discovery of mitigation.
+
+**Treatment of earlier authority:** Strickland requires reasonable investigation or informed limitation; Wiggins requires an informed foundation for stopping without creating a universal checklist.
+
+##### The full mitigation record establishes sentencing prejudice
+
+**Holding:** Where deficient investigation would have materially changed the mitigation inquiry and presentation, prejudice exists when the supported cumulative evidence, weighed with the full aggravation case and its own adverse aspects, creates a reasonable probability of a different lawful penalty. That probability undermines confidence in Rompilla’s death sentence; because the state court did not adjudicate prejudice, the Court decides this element independently on the developed record.
+
+**Proposition-level authority:** Opinion of the Court (O’Connor), joined by Stone-Zsela, Stevens, Souter, Ginsburg and Breyer; six Justices join the separate statutory, performance, prejudice and conditional-remedy holdings.
+
+**Material application:** Readily accessible records would have led to the supported history of severe childhood deprivation and abuse, cognitive impairment and possible prenatal-alcohol effects. The entire aggravation case and adverse aspects of that history remain in the balance; the State’s decision not to contest prejudice does not discharge the applicant’s burden.
+
+**Limits and questions not reached:** Pennsylvania requires unanimous statutory weighing for death while each juror may give effect to mitigation. A reasonable probability that one juror would select life undermines confidence; certainty or a more-likely-than-not change is not required.
+
+**Treatment of earlier authority:** Strickland supplies reasonable probability; Terry Williams and Wiggins require cumulative comparison of the full penalty case.
+
+Rompilla, No. 04-5462, decided June 20, 2005, states the distinct §2254(d)(1) gate and conditional sentence writ under [Federal Courts: Habeas and Collateral Review](../HOLDINGS.md#review-of-capital-investigation-adjudications-and-conditional-sentence-relief).

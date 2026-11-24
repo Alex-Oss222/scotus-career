@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2003
-**Processed through:** June 30, 2004, after all 119 completed OT2003 Court events and the admitted Rule 53 amendment effective December 1, 2003.
-**Edition:** November 22, 2026
+**Last completed October Term:** 2004
+**Processed through:** June 27, 2005, after all 105 completed OT2004 Court events and the admitted section 703 source effective October 22, 2004.
+**Edition:** November 23, 2026
 
 ## Administrative Law
 
@@ -1999,6 +1999,8 @@ For Appalachian Power Co. v. EPA, decided May 29, 2001, D.C. Circuit Nos. 98-151
 - AT&T Corp. v. Iowa Utilities Board (January 25, 1999): applies its separation of congressionally conferred FCC authority from the independent limits on particular implementing rules; its local-competition holdings remain intact.
 - United States v. Mead Corp. (June 18, 2001): preserves its actual-delegation requirement; the Court resolves section 224's coverage from its text without adding a deference holding.
 
+**Later-authority backlinks:** [National Cable & Telecommunications Association v. Brand X Internet Services](../HOLDINGS.md#delegated-cable-classification-and-prior-circuit-interpretation), Nos. 04-277 and 04-281, June 27, 2005: resolves the reserved classification question for the described integrated retail cable-modem offering by permitting the FCC's information-service classification. It does not compel that choice, authorize mere bundling, or change Gulf Power's attachment-coverage and mandatory-rate rules.
+
 ##### Qualifying wireless telecommunications equipment under the attachment definitions
 
 **Holding:** Section 224 covers an attachment by a provider offering telecommunications to the public for a fee, without excluding the provider's equipment because it serves wireless transmission. Both the attachment and its owner must satisfy the statutory definitions; the utility's wire-use condition does not impose a separate wire-only restriction on the attached provider's service.
@@ -2906,3 +2908,165 @@ For Cheney v. United States District Court for the District of Columbia, 542 U.S
 **Limits and questions not reached:** The inquiry concerns an established organized advisory body. Private integration here remains disputed; actual coverage and final enforcement require factual and claim-specific adjudication through an available legal route.
 
 **Treatment of earlier authority:** Public Citizen v. Department of Justice supplies contextual statutory caution without a blanket presidential-advice exemption. The functional reasoning of Association of American Physicians & Surgeons v. Clinton is adopted to distinguish integrated members from outside consultants. The statutory inquiry must preserve the independent requirements of the asserted enforcement channel.
+
+
+
+### Zeroing in administrative antidumping reviews
+
+#### Timken Co. v. United States, 354 F.3d 1334 (judgment below)
+
+**Docket or dockets:** Federal Circuit Nos. 03-1098 and 03-1238; no separately established Supreme Court docket.
+**Decided:** January 11, 2005.
+
+##### Whether the enacted antidumping framework permits this zeroing method in an administrative review
+
+**Holding:** Under the operative 19 U.S.C. §§1675(a), 1677(35) and 1677b(a), Commerce may, in an authorized administrative review, treat transactions whose export price or constructed export price exceeds normal value as zero when aggregating positive dumping margins, provided it observes the prescribed comparison adjustments and gives a reasoned explanation. Zeroing is permitted rather than compelled; a challenger must establish a statutory prohibition or a defect under the governing review standard, and neither the fair-comparison argument nor the cited international report establishes the requested offset requirement here.
+
+**Proposition-level authority:** Kennedy's Part II and the remedy, joined by all eight other Justices.
+
+**Material application:** The final §1675(a) administrative review determines duty liability through the mechanism Congress assigned to Commerce. That actual delegation and its exercise, rather than expertise or longstanding practice alone, permit reasonable-choice review. The anti-masking explanation supports treating above-value transactions as zero within the remaining statutory choice. The EC–Bed Linen report is considered for its persuasive reasoning, but its treatment of a different investigation does not establish the claimed negative-offset requirement here.
+
+**Limits and questions not reached:** Timken's separate entered-value versus sales-value adverse-facts cross-appeal is outside the grant; its existing disposition remains intact.
+
+**Operative remedy or transition:** The Federal Circuit is affirmed on the granted zeroing issue. The reviewed determination remains effective and requires no recalculation or new review merely to repeat the adequately explained choice.
+
+**Treatment of earlier authority:**
+
+- United States v. Mead Corp.: applied through the actual statutory assignment and final duty-setting determination; the classification-letter holding retains its distinct scope.
+- United States v. Haggar Apparel Co.: applied for enforcement of statutory boundaries before reasonable-choice review.
+- Chevron U.S.A. Inc. v. Natural Resources Defense Council, Inc.: applied to the reasonable aggregation choice within that actual delegation.
+- Barnhart v. Thomas: applied to distinguish a permissible implementation from the only permissible statutory meaning.
+- Murray v. Charming Betsy: applied as an interpretive aid after considering the asserted international obligation and the report's persuasive reasoning; it supplies no contrary result on these premises.
+
+For §3512(c) and the availability of the domestic statutory challenge in Timken, January 11, 2005, Federal Circuit Nos. 03-1098 and 03-1238, see Federal Courts — Timken Co. v. United States.
+
+
+### Contextual misleadingness in drug labeling
+
+#### Dowhal v. SmithKline Beecham Consumer Healthcare — contextual drug labeling
+
+**Docket or dockets:** California Supreme Court No. S109306; review of 32 Cal. 4th 910.
+**Decided:** February 23, 2005
+
+For the saved-initiative and actual-conflict questions in Dowhal, February 23, 2005, California Supreme Court No. S109306, see Constitutional Structure — Dowhal, saved initiative and warning preemption.
+
+##### Whether literally accurate labeling may materially mislead in context
+
+**Holding:** Under §§321(n), 352(a) and 355, the FDA may reject drug labeling that is literally accurate but materially misleading in context, considering its representations and material omissions concerning consequences under prescribed or customary use. That authority requires an authorized labeling determination supported by its actual reasons; a bare preference for how consumers should behave is insufficient.
+
+**Proposition-level authority:** Breyer's Part I, unanimous.
+
+**Material application:** The August 17, 2001 response is the definitive action. Its comparison of smoking, replacement therapy and unsuccessful abstinence addresses the message communicated by the proposed pregnancy warning; earlier interim communications are not treated as that definitive determination.
+
+**Limits and questions not reached:** A supported new proposal may invoke lawful reconsideration while the existing labeling decision remains effective. The reasoning does not establish categorical product safety during pregnancy or a general authority to suppress accurate discussion.
+
+**Treatment of earlier authority:** FDA v. Brown & Williamson Tobacco Corp. requires independent examination of the statutory delegation. Neither claimed preemptive effect nor a public-health preference enlarges that delegation.
+
+### Foreign-affiliate electricity sales and rehearing preservation
+
+#### Consumers Energy Co. v. Federal Energy Regulatory Commission
+
+**Docket or dockets:** D.C. Circuit No. 03-1162; judgment below, 367 F.3d 915. No Supreme Court docket is supplied.
+**Decided:** April 4, 2005.
+
+##### Part I — Comparable access turns on actual operation
+
+**Holding:** FERC may authorize the covered domestic market-based sales of a foreign utility's affiliate when its reasoned assessment of the administrative record establishes functionally comparable nondiscriminatory access, satisfaction of its market-power requirements and compliance with the Federal Power Act's just-and-reasonable duties. The foreign arrangement need not duplicate every domestic tariff mechanism; section 825l(b) makes findings supported by substantial evidence conclusive, technical application remains subject to review for arbitrary action or legal error, and statutory authority remains independently reviewable.
+
+**Proposition-level authority:** Ginsburg’s opinion, Part I, unanimous.
+
+**Material application:** FERC corrected its original affiliation determination on rehearing and assessed paired electricity transactions with separate financial transmission rights. The hedge does not reserve physical capacity, but uniform transaction rules, successful United States participation, lack of generation market power outside Ontario and absence of supported discriminatory operation sustain functional comparability on this record.
+
+**Limits and questions not reached:** The holding concerns this domestic sales authorization and access arrangement. Materially different arrangements require their own supported findings; authority to regulate foreign facilities directly is outside the presented question. Later discriminatory transactions or rate injuries require their own record.
+
+**Operative remedy or transition:** Denial of review is affirmed and the authorization remains effective under FERC’s statutory oversight. Section 825l(c) means rehearing or review does not itself stay the order without an agency or court stay.
+
+**Treatment of earlier authority:** New York v. FERC preserves lawful domestic authority and the response required for an established §206 violation. California ex rel. Lockyer v. FERC requires actual agency reasons; Allentown Mack Sales & Service, Inc. v. NLRB requires evidentiary support under the announced standard; Timken Co. v. United States distinguishes a permissible supported method from one the statute compels.
+
+##### Part II — The distinct independence objection was not presented on rehearing
+
+**Holding:** Under section 825l(b), a reviewing court may not consider an objection omitted from the application for rehearing unless reasonable ground excuses the omission. Raising independence to establish affiliation does not preserve the different claim that a lack of Order No. 2000 independence defeats comparable access.
+
+**Proposition-level authority:** Ginsburg’s opinion, Part II, joined by Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas and Breyer; eight direct votes. Stone-Zsela agrees with the refusal to reach this objection and the judgment without joining this rationale.
+
+**Material application:** The preserved affiliation objection succeeded on rehearing, but Consumers did not present the separate theory that Order No. 2000 independence was itself essential to comparable access. No reasonable ground excusing that omission was established.
+
+**Limits and questions not reached:** The separate additional-evidence procedure under §825l(b) requires materiality and reasonable grounds for failing to present the evidence to FERC. It does not automatically excuse omission of a legal objection on rehearing.
+
+
+### Ascertainable clinical duties and independent licensing sanctions
+
+#### Tucson Woman's Clinic v. Eden, 379 F.3d 531 (judgment below) — notice and enforcement standards
+
+**Docket or dockets:** Review of the Ninth Circuit judgment, 379 F.3d 531, amended August 23, 2004.
+**Decided:** May 31, 2005.
+
+For this decision’s other questions, see [When concrete prospective clinic costs, capacity loss and delay require adjudication of cumulative access burdens](../HOLDINGS.md#when-concrete-prospective-clinic-costs-capacity-loss-and-delay-require-adjudication-of-cumulative-access-burdens) (Civil Rights); [Whether the professional and small-practice classifications fail ordinary equal-protection review](../HOLDINGS.md#whether-the-professional-and-small-practice-classifications-fail-ordinary-equal-protection-review) (Civil Rights); [Whether patient sex equality must receive an independent classification-and-purpose inquiry](../HOLDINGS.md#whether-patient-sex-equality-must-receive-an-independent-classification-and-purpose-inquiry) (Civil Rights); [Whether department records access and APEX ultrasound transfer have adequate recipient-specific limits](../HOLDINGS.md#whether-department-records-access-and-apex-ultrasound-transfer-have-adequate-recipient-specific-limits) (Civil Rights); [Whether the bounded professional-board serious-incident report violates patient privacy](../HOLDINGS.md#whether-the-bounded-professional-board-serious-incident-report-violates-patient-privacy) (Civil Rights); [Whether Arizona’s hospital qualifications confer an arbitrary private licensing veto](../HOLDINGS.md#whether-arizonas-hospital-qualifications-confer-an-arbitrary-private-licensing-veto) (Civil Rights); [Whether new regulatory density permits open-ended immediate warrantless clinic entry](../HOLDINGS.md#whether-new-regulatory-density-permits-open-ended-immediate-warrantless-clinic-entry) (Criminal Procedure: Search, Seizure and Interrogation); [How severability, common-policy relief and interim protection correspond to the particular clinic-regulation violations](../HOLDINGS.md#how-severability-common-policy-relief-and-interim-protection-correspond-to-the-particular-clinic-regulation-violations) (Federal Courts: Immunities and Remedies).
+
+##### Whether undefined dignity language may independently support civil, criminal or licensing punishment
+
+**Holding:** R9-10-1507's unconfined requirement of consideration, respect and full recognition of dignity and individuality cannot independently support civil, criminal or adverse licensing sanctions without an ascertainable operative standard. Relief removes that independently punishable branch and dependent consequences while preserving definite clinical and professional duties.
+
+**Proposition-level authority:** Ginsburg's opinion at the stated independent ground, joined by all nine Justices.
+
+**Material application:** Neither an authoritative limitation nor a recognizable clinical criterion supplies the additional duty. Warnings, mitigation or assurances of careful enforcement cannot create an ascertainable standard. Other unbriefed vagueness claims were abandoned.
+
+**Limits and questions not reached:** The confined ruling leaves voluntary aspirations and independently ascertainable clinical and professional obligations intact.
+
+**Treatment of earlier authority:** Greenville distinguishes recognizable professional standards from independently punishable undefined duties chosen through subjective administration.
+
+
+
+
+### Delegated cable classification and prior circuit interpretation
+
+#### National Cable & Telecommunications Association v. Brand X Internet Services, 545 U.S. 967 (2005)
+
+**Docket or dockets:** Nos. 04-277 and 04-281 (consolidated).
+**Decided:** June 27, 2005.
+
+##### Whether the FCC exercised actual delegated authority through its nationwide declaratory ruling
+
+**Holding:** A reviewing court accepts a reasonable agency construction within delegated statutory ambiguity only when Congress conferred authority to make the relevant choice with the force of law and the agency issued its interpretation in exercise of that authority. The Communications Act supplies that authority for the FCC's nationwide declaratory classification here; formal procedure alone is neither necessary nor sufficient to establish the delegated range or validate the agency's choice.
+
+**Proposition-level authority:** Opinion of the Court (Breyer), joined by Stevens, O'Connor, Kennedy and Thomas; five direct joins governing both consolidated petitions.
+
+**Material application:** Sections 151 and 201(b), within the Communications Act's structure, authorize the relevant force-of-law choice. Courts independently enforce the definitions and delegation boundaries; expertise, complexity and formality cannot create authority withheld by Congress.
+
+**Treatment of earlier authority:** Mead requires actual delegation and actual exercise; its transaction-specific Customs letters differ. Iowa Utilities Board supplies implementing authority subject to individual statutory limits. Barnhart and Yellow distinguish delegated choice from a uniquely required answer; Chevron operates only within the delegated range.
+
+##### Whether a prior circuit reading forecloses a later reasonable agency choice within a delegation left open
+
+**Holding:** An earlier court of appeals' selection of a preferred statutory reading does not foreclose a different reasonable agency interpretation within a choice Congress actually delegated when the earlier holding and statute leave that choice open. A binding determination that the statute requires a particular answer remains a legal boundary; determining which kind of holding exists requires examining its substance rather than searching for an express ambiguity formula.
+
+**Proposition-level authority:** Opinion of the Court (Breyer), joined by Stevens, O'Connor, Kennedy and Thomas; five direct joins governing both consolidated petitions.
+
+**Limits and questions not reached:** Portland did not determine that the offering question had only one lawful answer. The rule does not revise the earlier judgment or permit disregard of judicially fixed statutory limits. The distinct force of a Supreme Court construction is outside the presented question and remains undecided.
+
+**Treatment of earlier authority:** Chevron preserves the actual allocation of interpretive choice. Neal's particular mixture-weight construction remains binding; its reserved broader agency question is resolved here only for the prior-circuit issue. Portland's preferred construction does not exhaust the delegated range.
+
+##### Whether actual integrated end-user capabilities permit information-service treatment of the described cable offering
+
+**Holding:** The FCC may reasonably treat the described retail cable-modem service as an integrated information-service offering rather than a separate public offering of telecommunications service. That permission depends on the actual end-user capabilities and their functional integration with transmission; merely bundling an independently offered transmission service with an unrelated information feature does not remove the transmission service from the statutory category.
+
+**Proposition-level authority:** Opinion of the Court (Breyer), joined by Stevens, O'Connor, Kennedy and Thomas; five direct joins governing both consolidated petitions.
+
+**Limits and questions not reached:** Section 153(43) defines telecommunications as transmission of user-chosen information between user-specified points without changing its form or content as sent and received. Section 153(46) requires an offering of that transmission for a fee to the public, or to a class effectively available to the public, regardless of facilities. Section 153(20) separately covers the offering of information-generating, acquiring, storing, transforming, processing, retrieving, utilizing or availability capabilities through telecommunications, including electronic publishing. It excludes capabilities used to manage, control or operate a telecommunications system or manage a telecommunications service.
+
+**Material application:** The described retrieval, storage, email and access functions exceed internal network management and are functionally integrated with transmission. Optional nonuse does not remove them from the offering. Separately offered transmission is not exempted merely by packaging it with voicemail or an unrelated feature. Section 153(44) applies common-carrier treatment only to the extent telecommunications service is furnished.
+
+**Operative remedy or transition:** Both petitions reverse the same Ninth Circuit judgment and remand. The challenged classification remains operative; mandatory Title II treatment is not compelled under this permissible choice. The classification is permitted, not required.
+
+**Treatment of earlier authority:** Gulf Power's pole-attachment holdings remain intact; its reserved Internet-classification question is resolved for this described retail offering.
+
+##### Whether the Commission adequately explained different cable and telephone-company DSL treatment
+
+**Holding:** The Commission's differential treatment of the described cable offering and telephone-company DSL is not arbitrary and capricious on the reasons it supplied. An agency may address distinct regulatory histories incrementally within its statutory authority when it explains the material differences and its policy choice; a prior policy or technological resemblance does not alone compel identical treatment.
+
+**Proposition-level authority:** Opinion of the Court (Breyer), joined by Stevens, O'Connor, Kennedy and Thomas; five direct joins governing both consolidated petitions.
+
+**Material application:** The Commission relied on Computer II's telephone-company framework, historical bottleneck conditions, emerging alternatives and investment and innovation objectives. These are the Commission's own reasons; statutory permissibility remains independently necessary.
+
+**Operative remedy or transition:** The preserved arbitrariness objection to the reviewed 2002 classification is rejected in both dockets.
+
+**Treatment of earlier authority:** Smiley permits adequately explained change within lawful authority while preserving review of unexplained departures and disregarded legitimate reliance.

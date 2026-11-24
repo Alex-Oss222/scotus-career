@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2003
-**Processed through:** June 30, 2004, after all 119 completed OT2003 Court events and the admitted Rule 53 amendment effective December 1, 2003.
-**Edition:** November 22, 2026
+**Last completed October Term:** 2004
+**Processed through:** June 27, 2005, after all 105 completed OT2004 Court events and the admitted section 703 source effective October 22, 2004.
+**Edition:** November 23, 2026
 
 ## Property and Economic Rights
 
@@ -925,6 +925,10 @@ The seven-Justice Court opinion does not decide whether a sale actually authoriz
 
 **Proposition-level authority:** Stevens's Parts V–VII, joined by Stone-Zsela, Scalia, Kennedy and Thomas: five Justices.
 
+**Current-force modification:** Lingle v. Chevron U.S.A. Inc., May 23, 2005, overrules the substantial-advancement alternative as a taking predicate in new cases and properly presented cases still open on direct review. The independent complete-deprivation ground, final $1,450,000 award, municipal compensation and finality rules, and constitutional jury entitlement and task allocation for surviving legal claims remain in force.
+
+**Later-authority backlinks:** Lingle, No. 04-163, May 23, 2005, Part II, expressly withdraws the purpose-relationship alternative while preserving the independent ground and final judgment.
+
 **Material application:** Evidence supported the combined conditions’ elimination of feasible development and the unreasonable relationship of the fixed denial to the specified purposes, including compliance with fifteen conditions and the habitat and access evidence. The later sale for $800,000 above purchase price did not conclusively prove productive use during the earlier period or payment for its loss. Neither denial of the preferred housing proposal alone nor disagreement among experts would suffice.
 
 **Limits and questions not reached:** No substantiated antecedent title limitation independently required the entire deprivation found. Equal-protection objections remained preserved but need not be decided because both taking alternatives support the award; the unappealed substantive-due-process ruling is untouched.
@@ -1083,6 +1087,10 @@ The Court does not decide whether Texas has taken the interest, whether compensa
 **Holding:** A partial-taking claim requires consideration together of economic impact, reasonable investment-backed expectations and the character of governmental action; retained value, acquisition under an existing restriction or a legitimate regulatory objective alone is not dispositive. On this undisputed record, continued profitable timber use, the existing necessary-and-accessory dwelling condition, nonassuring County communications and the forest-management character of the restriction support rejection of the claim; the restriction also bears the required relationship to the specified forestry purposes under the received Agins inquiry, without a demanded conveyance triggering Dolan.
 
 **Proposition-level authority:** Stevens's opinion of the Court, Part III, joined by all eight Associate Justices; Stone-Zsela does not join.
+
+**Current-force modification:** Lingle v. Chevron U.S.A. Inc., May 23, 2005, removes the received Agins purpose-relationship inquiry as an independent taking predicate in new cases and properly presented cases still open on direct review. Dodd’s independent Penn Central analysis and rejection of compensation remain intact, as do its final judgment and separate complete-deprivation, preclusion and actual-period rules.
+
+**Later-authority backlinks:** Lingle, No. 04-163, May 23, 2005, Parts I–II, withdraws the efficacy predicate while preserving the distinct property-burden inquiries.
 
 ##### Later permission limits the claimed duration without curing a prior taking
 
@@ -2583,3 +2591,121 @@ For this decision's finality ruling, see Federal Courts: Justiciability — Fina
 - **Watt v. Western Nuclear:** Its construction remains effective for the Stock-Raising Homestead Act. The plurality distinguishes Pittman's qualified wording; Thomas and Breyer preserve the earlier statutory-property result but decline to extend its reasoning.
 - **Amoco Production Co. v. Southern Ute Indian Tribe:** The plurality applies its requirement to identify the resource actually reserved, preserving new uses of a resource already within that estate. Its distinct-methane holding remains intact.
 - **Marks v. United States:** The different grounds for reversal do not yield a logical-subset rationale. The expressly shared statutory exclusion has six supporters at its stated scope.
+
+
+### Withdrawal of regulatory efficacy as a taking predicate
+
+#### Lingle v. Chevron U.S.A. Inc., 544 U.S. 528 (2005)
+
+**Docket or dockets:** No. 04-163.
+**Decided:** May 23, 2005.
+
+##### Regulatory efficacy does not independently establish a taking
+
+**Holding:** Failure substantially to advance a legitimate governmental objective is not, by itself, a taking requiring compensation under the Fifth Amendment. A claimant must establish the relevant property burden or demanded dedication under the applicable taking rule; an economic-efficacy trial cannot substitute for that showing, whether the challenged regulation is general or an individual permit denial.
+
+**Proposition-level authority:** Stevens's unanimous opinion of the Court; all nine Justices join Parts I–III.
+
+**Material application:** Chevron selected an efficacy-only challenge to Hawaii's service-station rent cap. Competing predictions about the cap's success do not establish the necessary property burden.
+
+**Limits and questions not reached:** Independently unlawful or arbitrary regulation remains subject to its own constitutional rules, including due process. Compensation does not authorize conduct those rules forbid. A distinct due-process or compensation claim is not decided or created by relabeling the rejected theory.
+
+**Operative remedy or transition:** The Ninth Circuit's judgment is reversed and remanded. The lower court must remove relief resting solely on substantial advancement and enter judgment rejecting Chevron's surviving efficacy claim; any independently preserved claim requires its own substantive and procedural basis.
+
+##### The earlier efficacy holding is overruled at its precise scope
+
+**Holding:** Agins and Del Monte Dunes are overruled insofar as they recognize lack of substantial advancement as an independent taking predicate; Del Monte Dunes's allocation of that displaced substantive issue likewise ceases to govern. Its final judgment and award, independent complete-deprivation ground, municipal compensation rules, finality rulings, and constitutional jury entitlement and task allocation for surviving legal claims remain in force.
+
+**Proposition-level authority:** Stevens's unanimous opinion of the Court; all nine Justices join Parts I–III.
+
+**Operative remedy or transition:** The replacement rule governs this case and properly presented cases still open on direct review. Del Monte Dunes's completed compensation judgment and award remain final.
+
+**Treatment of earlier authority:**
+
+- Agins v. City of Tiburon is overruled only insofar as lack of substantial advancement supplies an independent taking ground.
+- Del Monte Dunes at Monterey, Ltd. v. City of Monterey is overruled at its accepted purpose-relationship alternative and the assignment of that displaced issue. Its final award, independent complete-deprivation holding, municipal compensation route, damages and finality rules, and jury entitlement and allocation for surviving claims remain controlling.
+
+##### The surviving property rules govern distinct interferences
+
+**Holding:** Compelled permanent physical occupation follows Loretto; total elimination of beneficial use follows Lucas, subject to substantiated background property or nuisance limits already inherent in ownership; other regulatory burdens follow Penn Central's inquiry into economic impact, interference with distinct investment-backed expectations and the character of governmental action. For an individualized development-permit condition demanding identified property interests, the government must establish Nollan's essential nexus and demonstrate Dolan's rough proportionality between the dedication's nature and extent and the development's effects, allowing reasonable estimates without exact mathematical equivalence or unique attribution to the project.
+
+**Proposition-level authority:** Stevens's unanimous opinion of the Court; all nine Justices join Parts I–III.
+
+**Limits and questions not reached:** Tahoe-Sierra requires examination of the continuing property interest rather than treating a selected temporal segment as a total loss. Lucas requires substantiation of an antecedent ownership limit; a new legislative declaration of harm does not suffice. Each surviving taking category retains its own trigger and proof requirements.
+
+**Treatment of earlier authority:**
+
+- Loretto v. Teleprompter Manhattan CATV Corp. retains the categorical compelled-permanent-occupation rule.
+- Lucas v. South Carolina Coastal Council retains the total-beneficial-use rule and substantiated background-title limitation.
+- Penn Central Transportation Co. v. New York City retains the contextual property-burden inquiry.
+- Tahoe-Sierra Preservation Council, Inc. v. Tahoe Regional Planning Agency retains its continuing-property treatment and rejection of automatic temporal segmentation.
+- Nollan v. California Coastal Commission and Dolan v. City of Tigard retain their distinct nexus and rough-proportionality requirements for demanded property dedications.
+
+
+
+
+### Historic coastal title, juridical bays and federal reservation at statehood
+
+#### Alaska v. United States, 545 U.S. 75
+
+**Docket or dockets:** No. 128, Original.
+**Decided:** June 6, 2005.
+
+##### Historic inland waters
+
+**Holding:** A State claiming additional submerged lands as historic inland waters must establish a continuous assertion of authority to exclude foreign navigation, including innocent passage, with foreign acquiescence. Alaska's evidence fails to establish that status for the disputed Alexander Archipelago pockets and enclaves beyond the ordinary coastal and island belts.
+
+**Proposition-level authority:** Opinion of the Court (Kennedy), Part I, unanimous.
+
+**Material application:** Fishing and trading regulation did not establish continuous authority to exclude even innocent foreign navigation. The treaty, incidents and diplomatic record did not establish the claimed sovereignty or foreign acquiescence.
+
+**Treatment of earlier authority:** United States v. Alaska (1997) preserves ordinary Convention baselines and the separate historic-title route; United States v. Alaska (1975) supplies the exclusion-of-navigation requirement.
+
+##### The proposed juridical bays
+
+**Holding:** An asserted juridical bay must satisfy Article 7(2)'s actual geographic requirements: a well-marked indentation whose penetration in relation to its mouth creates landlocked waters and more than a mere coastal curvature, together with the separate semicircle-area condition. Even assuming Alaska's proposed assimilation of four islands into a constructive peninsula, its proposed North Bay and South Bay fail the well-marked-indentation requirement.
+
+**Proposition-level authority:** Opinion of the Court (Kennedy), Part I, unanimous.
+
+**Limits and questions not reached:** Island assimilation is assumed for this disposition. The independent failure of the actual indentation requirement defeats both proposed bays without adopting a categorical rule against assimilation.
+
+**Treatment of earlier authority:** United States v. Louisiana (1969) permits exceptional assimilation grounded in actual geography. United States v. Maine (1985) is distinguished because these waters lack the required enclosed physical character.
+
+##### Retention of Glacier Bay's submerged lands
+
+**Holding:** Federal retention of prestatehood submerged lands requires both clear inclusion in the reservation and clear intent to retain federal ownership through statehood. Glacier Bay's established inclusion and the Alaska Statehood Act's treatment of this wildlife reservation satisfy those distinct requirements, so the United States retains the identified submerged lands.
+
+**Proposition-level authority:** Opinion of the Court (Kennedy), Part II, joined by Stone-Zsela, Stevens, O’Connor, Kennedy, Souter, Ginsburg and Breyer. The same seven control the Glacier Bay title direction; Scalia and Thomas dissent on that component.
+
+**Material application:** The unexcepted finding establishes reservation inclusion. Statehood Act §6(e)’s proviso, read with §§5 and 6(m), supplies separate retention through admission; it is not confined by the initial transfer clause’s three named conservation enactments or sole-purpose requirement. Wildlife purposes alone would not establish the required statutory retention.
+
+**Treatment of earlier authority:** United States v. Alaska (1997) and Idaho v. United States require distinct clear inclusion and clear retention; the actual wildlife reservation and enacted statehood treatment satisfy both here.
+
+##### Conforming title decree
+
+**Holding:** The sovereign parties must submit a proposed decree using the Master's established geographic descriptions and the federal disclaimer of the Tongass claim. The decree must reflect federal title to the adjudicated Archipelago pockets and Glacier Bay lands and resolve the disclaimed controversy consistently with that disclaimer.
+
+**Proposition-level authority:** Opinion of the Court (Kennedy), Part III: unanimous on decree preparation and the Tongass disclaimer; the seven-Justice Part II coalition controls the Glacier Bay federal-title direction.
+
+**Operative remedy or transition:** The established descriptions and disclaimer govern the title decree; genuine implementation disagreements are resolved through the Special Master under the Court’s retained jurisdiction.
+
+### Comprehensive redevelopment and genuine public purpose
+
+#### Kelo v. City of New London, 545 U.S. 469 (2005)
+
+**Docket or dockets:** No. 04-108.
+**Decided:** June 23, 2005.
+
+##### Whether privately implemented comprehensive redevelopment satisfies public use and how private favoritism is reviewed
+
+**Holding:** A compensated condemnation implementing an adopted comprehensive redevelopment plan satisfies public use when it serves a rationally supported actual public purpose rather than a pretext for private favoritism, even though private parties will implement portions and the particular homes are not blighted. Courts must meaningfully examine supported claims that the stated public purpose masks a private favor, using the actual plan, process and beneficiary relationships under the ordinary presumption of lawful public action and ordinary proof rules.
+
+**Proposition-level authority:** Opinion of the Court (Stone-Zsela), joined by Stevens, Kennedy, Souter, Ginsburg and Breyer; six direct joins to the complete rule.
+
+**Material application:** The adopted Fort Trumbull plan combines public, commercial and residential uses to address prolonged economic distress. Its established public undertaking supports inclusion of homes not individually blighted; the record leaves no unresolved pretext issue requiring remand.
+
+**Limits and questions not reached:** Economic forecasts require rational support, not guaranteed success. Recited benefits do not validate a sham whose actual object is private favor and whose public gains are incidental. Compensation and stricter state acquisition restrictions remain independent requirements.
+
+**Operative remedy or transition:** Affirmed; the federal public-use injunction is denied. Acquisitions may proceed through lawful condemnation and compensation subject to applicable state law and preserved compensation claims.
+
+**Treatment of earlier authority:** Berman permits integrated redevelopment without parcel-specific blight; Midkiff makes the public objective decisive despite private title. Boston & Maine retains its prohibition on naked favoritism, but its railroad statutory need presumption does not govern this plan. Lingle preserves public use as an independent constitutional restraint distinct from regulatory-taking liability.
