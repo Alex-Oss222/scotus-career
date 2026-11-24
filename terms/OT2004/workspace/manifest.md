@@ -1,6 +1,6 @@
 # OT2004 Full-Term Event Manifest
 
-**Status:** Open; 103 scheduled events completed, 0 open, 2 stopped and 0 carried forward. **Scheduled events:** 105 in ten chunks. **Separate unscheduled carryovers:** 3.
+**Status:** Open; 105 scheduled events completed, 0 open, 0 stopped and 0 carried forward. **Scheduled events:** 105 in ten chunks. **Separate unscheduled carryovers:** 3.
 
 Source: [case-list.md](../case-list.md), with the original row numbers, chunk assignments, order, dates, identifiers, event types, categories and areas of law preserved. A trailing ` +` is removed only from the caption and recorded as a granted-matter docket basis. Each of the 27 grants is its corresponding inventory row. Every inventory matter is properly before the Court at its scheduled event under the standing direction.
 
