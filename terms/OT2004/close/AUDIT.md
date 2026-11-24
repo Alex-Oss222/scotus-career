@@ -1,71 +1,80 @@
-# October Term 2004 close audit
+# October Term 2004 confirming close audit
 
 **Audit date:** November 23, 2026.
-**Disposition:** Not ready for Close Commit. Three unresolved projection discrepancies are listed below. The deterministic prerequisite has not passed, so the fresh substantive legal audit has not begun.
+**Repair reviewed:** 49749c85 (parent e8221e5faea00ca51c8731a4b4704f0e408413ba).
+**Disposition:** F1–F3 are resolved and the fresh legal-substance audit is clean. One Low-severity discrepancy remains under the user's seamless-correction instruction: F4, correction narratives in internal Records and their ledger copies. The term is not yet ready for Close Commit.
 
-## Scope and authority
+## Scope and method
 
-This audit follows AGENTS.md, Close protocol pass 4, and the Engine's source hierarchy and coordinated-close requirements. The deterministic review covers the OT2004 inventory, 105 Court Records, one Admitted Source Record, ten Render Inputs, ten public renders, runtime freshness, four workspace projections, three staged replacement trackers, close-pass notes, and the opening trackers and institutional sources needed for these checks. Records control over their projections.
+The first operation was the expressly permitted command, python tools/check_term.py OT2004. It returned OK: OT2004; 0 warning(s). The remaining prescribed deterministic checks passed before fresh substantive review began. The saved preceding audit had expressly deferred that substantive review; this pass completes it rather than treating the earlier audit as a legal certification.
 
-The first operation was `python tools/check_term.py OT2004`. It exited successfully with `OK: OT2004; 0 warning(s)`. Its checks include opening Holdings-volume synchronization, runtime-split freshness, Record/Public Projection structure, exact Public Projection/Render Input body identity, manifest-to-input coverage, and recognized commit-reference existence. Its success does not certify the additional checks below or legal substance.
+Review covered all 105 scheduled judicial events, the section 703 Admitted Source Record, ten Render Inputs, ten public renders, the four workspace projections, the three staged tracker candidates, the six close-pass notes, and relevant opening law and institutional sources. Records controlled; renders and candidates were compared with them. The substantive review was divided into chunks 1–3 (29 events), 4–6 (27), 7–9 (34), and 10 (15), with the statutory source reviewed separately.
 
-The operator authorized that checker, including its read-only Git object lookups. No other Git command was run. Only this audit file was written. No prohibited directory or prohibited jurisprudence filename was accessed. Sources and adjudications were not edited.
+Only read-only git cat-file operations were used outside the authorized checker. They verified the repair object and parent, compared the four repaired workspace files with both versions, and established that all 140 current Markdown files in records, render-inputs, output, workspace and close matched the repair commit before this audit was replaced. The repair leaves the records, render-inputs, output, freeze, entering-law, briefs, runtime, close, state and foundation trees unchanged from its parent. No prohibited directory or prohibited jurisprudence filename was accessed. No adjudication, source, tracker, frozen handoff or public copy was edited.
 
-## Unresolved discrepancies
+## Verification of the previous findings
 
-### F1 ? Medium ? Manifest summary contradicts the completed event rows
+| Finding | Current location | Verification | Status |
+|---|---|---|---|
+| F1 — Medium | [manifest.md](../workspace/manifest.md), line 3 | The summary reports 105 completed scheduled events, zero open, zero stopped and zero scheduled carry-forwards. It agrees with all 105 event rows. The three separate unscheduled carryovers remain. Only the requested counts changed. | Resolved |
+| F2 — Medium | [ledger.md](../workspace/ledger.md), lines 7–112; Gonzalez at line 101, McCreary at line 108 | One eight-column table contains all 106 Records, sorted by effective date and case name and numbered 1–106. Gonzalez is entry 95 and McCreary entry 102. All Record-derived cells are preserved; the extra table is gone and the existing history-verification disclosure remains. | Resolved |
+| F3 — Low | [continuity.md](../workspace/continuity.md), line 7; [neutral-projection.md](../workspace/neutral-projection.md), line 7 | Both paragraphs now state that close candidates are staged and audit/publication remain pending. The replacement is the requested sentence; all surrounding chronology, retained-proceeding and assignment text remains intact. | Resolved |
 
-**File and line:** [terms/OT2004/workspace/manifest.md](../workspace/manifest.md), line 3.
+All four repaired files match their 49749c85 blobs byte-for-byte and retain CRLF without bare LF line endings. None of these repairs changes legal substance.
 
-**Evidence and effect:** The summary reports 103 completed scheduled events and two stopped matters. All 105 scheduled rows, lines 15?119, are marked Completed and identify existing Records. Gonzalez at line 108 and McCreary at line 117 have Records and rendered decisions. There is no stopped scheduled row. This is a status projection error, not an unfinished adjudication.
+## Remaining unresolved discrepancy
 
-**Exact fix:** Replace line 3 with the following line, derived from its existing text by changing only the completed and stopped counts:
+### F4 — Low — Saved-Record correction narratives remain contrary to the seamless-correction instruction
 
-**Status:** Open; 105 scheduled events completed, 0 open, 0 stopped and 0 carried forward. **Scheduled events:** 105 in ten chunks. **Separate unscheduled carryovers:** 3.
+**Rule and effect:** The user's current direction requires corrected Records to contain no note, receipt or narrative describing their correction, while retaining the required opening labels and an ordinary original-decision value. The passages below describe changes to saved canonical text or repeat that editing history. Calling the changes pre-integration does not make those narratives compliant. This is an internal presentation/provenance defect, not a defect in any vote, holding, remedy or public decision.
 
-Keep the three separate unscheduled carryovers and their operative stages. Change no inventory item, Record, vote, or disposition.
+**Files, lines and exact fix:**
 
-### F2 ? Medium ? Ledger contradicts its declared effective-date ordering
+| File | Current line | Exact fix |
+|---|---:|---|
+| [Jackson Record](../records/jackson-v-birmingham-board-of-education_merits_2005-03-29.md) | 4 | Preserve the required label and replace its entire value so the line reads: **Version / lineage:** Original decision. |
+| [Jackson Record](../records/jackson-v-birmingham-board-of-education_merits_2005-03-29.md) | 14 | Replace only “the corrected Shepard completeness formulation” with “Shepard's completeness formulation”. Preserve the rest of the entering-law paragraph. |
+| [Sabree Record](../records/sabree-ex-rel-sabree-v-richman_merits_2005-03-29.md) | 4 | Preserve the required label and replace its entire value so the line reads: **Version / lineage:** Original decision. This removes the two editing narratives and the correction-receipt reference. |
+| [Shepard Record](../records/shepard-v-united-states_merits_2005-03-07.md) | 48 | Delete this standalone paragraph describing the completeness-review expansion, pre-integration clarification and public-slice regeneration. Preserve all operative Gatewood, Rule 52(b), jury-waiver and Booker terms elsewhere in the Record. |
+| [Sherrill Record](../records/city-of-sherrill-v-oneida-indian-nation_merits_2005-03-29.md) | 68 | Replace only “The regenerated Shepard Part II was reread after its completeness clarification:” with “Shepard Part II supplies the governing sentencing terms:”, and replace “These clarified sentencing terms” with “These sentencing terms”. Preserve the intervening charging, forfeiture, jury-waiver and binding-Booker rules and all other text. |
+| [ledger.md](../workspace/ledger.md) | 53–54 | Mechanically refresh only the Version / lineage cells for Jackson and Sabree from the amended Record headers, yielding Original decision. in each. Preserve every other cell, the effective ordering and all row numbers. |
 
-**File and lines:** [terms/OT2004/workspace/ledger.md](../workspace/ledger.md), lines 112?117; ordering declaration at line 3.
+The [Sabree source receipt](../freeze/OT_2004CHUNK5_SABREE_SOURCE_CLARIFICATION.md), lines 3–7, and the [Jackson/Sabree scope receipt](../freeze/OT_2004CHUNK5_JACKSON_SABREE_SCOPE_CLARIFICATION.md), lines 3–9, establish that these particular narratives describe edits to already saved canonical files. Those frozen provenance artifacts may remain unchanged. Brown's distinct discussion concerns reconciliation of provisional non-Stone commitments before a Canonical Decision Record existed; it is not this defect. Original source-admission chronology and the standard opening labels are likewise not defects.
 
-**Evidence and effect:** The main eight-column table ends at entry 104, Van Orden, dated June 27, 2005. A separate seven-column Additional completed events table then places Gonzalez, dated June 23, after that June 27 entry, followed by McCreary. Those two rows lack the Effective-date order column. All 106 Records are represented, but the structure and sequence contradict the ledger's declared effective-date/case-name index.
+Make these metadata-only edits in an authorized repair task, preserving CRLF. All affected material precedes the Public Projection; its bytes, the Render Inputs and the public renders need no substantive change. Then rerun the permitted term checker, verify the two ledger-header cells and confirm unchanged Public Projections. No adjudicative reopening is required by F4.
 
-**Exact fix:** Consolidate the two additional rows into the existing table, preserving every Record-derived cell and the history-verification disclosure. Sort all 106 entries by effective date and case name, and renumber the Effective-date order column 1?106. Gonzalez becomes entry 95, between Exxon Mobil v. Allapattah Services and Green Party, in the June 23 group. McCreary becomes entry 102, between Bell v. Thompson and Metro-Goldwyn-Mayer v. Grokster, in the June 27 group. Remove the Additional completed events heading and separate table. This repairs the declared index without claiming repository commitment order was verified. The standard rebuild script invokes additional Git commands and was not run under this task's restriction.
+## Deterministic results
 
-### F3 ? Low ? Continuation projections misstate the current close stage
-
-**Files and lines:** [terms/OT2004/workspace/continuity.md](../workspace/continuity.md), line 7; [terms/OT2004/workspace/neutral-projection.md](../workspace/neutral-projection.md), line 7.
-
-**Evidence and effect:** Both current projection paragraphs state that no term-close pass has occurred. Four Holdings-pass notes, the Standards and Tests pass note, the Standing State pass note, and all three candidate trackers now exist. This is administrative status drift; it changes no judicial chronology or law.
-
-**Exact fix:** In each line 7, replace only the sentence about no term-close pass having occurred with: `The close candidates are staged; completion of the full-term audit and coordinated publication remain pending.` Preserve all other text, including event dates, assignment disclosures, and retained-proceeding statements.
-
-## Deterministic checks completed
-
-| Check | Result and boundary |
+| Check | Result |
 |---|---|
-| Inventory to manifest | All 105 rows reconcile by original row number, chunk, caption after grant-marker removal, identifier, date, event type, category, and area of law. F1 concerns only the summary. |
-| Record and render coverage | 106 Records: 105 judicial events plus the section 703 admitted source. The ten Render Inputs contain exactly the 105 judicial Records, without duplicates, omissions, or extras. The outputs contain 105 corresponding entries in the supplied order, with closing boundaries. Counts by chunk: 13, 11, 5, 7, 11, 9, 8, 11, 15, 15. |
-| Effective dates | Render Inputs are ordered within each chunk. The continuity event table contains all 106 Records in effective-date order. Cross-chunk same-day groups remain identified. F2 concerns the ledger. Substantive entering-law use remains unaudited. |
-| Judgment arithmetic | 146 numerical Record comparisons and 156 output margin/roster comparisons, supplemented by manual treatment of differently structured components and unpublished tallies, disclosed no additional discrepancy. Devenpeck's reversal/vacatur distinction, Bates's separate warranty instruction, Gonzalez's unanimous classification, and the public dismissals in Howell and Medellin remain distinct. Legal sufficiency of joins and proposition-level authority requires substantive review. |
-| Runtime and projection identity | Runtime-split freshness and generated Render Input identity with Record Public Projections passed in the required checker. |
-| Local navigation | A bounded scan of 444 Markdown files checked 2,901 local links/fragments. All tested targets in Records, Render Inputs, outputs, workspace, inventory, close candidates/pass notes, and published trackers resolve. External source URL availability was not tested. Copy-navigation exceptions are explained below. |
-| Tracker structure | Holdings retains all opening case headings and the same 23 doctrinal-area headings, with 158 added case-area entries. Standards and Tests has 1,149 entries against 1,113 at opening, preserves broad areas, and its pass coverage accounts for all 106 Records. These structural checks do not approve legal content or admission decisions. |
-| Standing State and carry-forward | Nine OT2005 opening seats, seniority, thirteen circuit allotments, and the referral practice match governing institutional sources. Five pending original actions are carried: Arizona v. California, Kansas v. Colorado, Nebraska v. Wyoming, Kansas v. Nebraska, and Alaska v. United States. The three unscheduled carryovers and two retained current-term original proceedings are accounted for. Ordinary lower-court remands were not added as pending Supreme Court matters. |
-| Staging and cleanup | Three candidates and six pass notes are properly retained before Commit. The dossier, synchronized final publication headers, generated indexes, and post-publication cleanup belong to Commit. Their present absence or provisional status is not a defect. |
-| Commit references | The checker recognizes zero commit-reference tokens in the 106 Records and nine pre-existing close Markdown files. Its zero warnings therefore reflects an empty existence-check set, not verification of lineage against history. No missing referenced commit was established. |
+| Required term checker | Passed initially with zero warnings; rerun after replacing this audit with the same result. Opening Holdings-volume synchronization, runtime freshness, Record structure and generated-input identity passed. |
+| Inventory and coverage | All 105 inventory rows match the manifest's identity, chunk, date, event type, category and area fields. All are completed and uniquely represented. The 106 Records comprise those 105 judicial events and one admitted statutory source. |
+| Record to input to render | All judicial Public Projections are copied exactly into the ten inputs, without omission, duplication or extras. Render headings and closing boundaries account for all 105 events. Chunk counts are 13, 11, 5, 7, 11, 9, 8, 11, 15 and 15. |
+| Effective chronology | Ledger and continuity cover all 106 Records in effective-date order. Inputs preserve their supplied event order and same-day boundaries. Later-written, earlier-effective Records were not used to reopen committed assignments. |
+| Participation and arithmetic | All 105 judicial events establish nine participants. The statutory source correctly has no judicial poll. The 146 machine-readable Record and 156 output margin/roster comparisons pass; compact, component-specific and undisclosed procedural forms were separately reviewed. |
+| Opinion assignment | The 101 counted signed lead opinions and recorded author pools reconcile. Within-Record eligible minima and minimum-plus-one pools are consistent. Apparent differences from a retrospective effective-order count arise from later-written earlier-date events, as Engine section 8 permits. Repository commitment order was not independently certified. |
+| Local navigation | The bounded scan checked 436 Markdown files and 2,905 local links/fragments, with no applicable unresolved target. Candidate links were tested at their publication location. Eighty relative links in eleven runtime copies resolve from their byte-identical authoritative freeze locations. Two template examples were excluded. |
+| Commit-reference existence | The checker's pre-existing Record/close reference set contained no qualifying commit tokens; that empty set is not a history certification. The repair commit and its parent were independently verified with cat-file. No missing required object was established. |
+| Candidate staging | Three candidates and six pass notes are properly retained before Commit. Holdings preserves the opening case headings and 23 doctrinal areas, with 158 added case-area entries. Standards contains 1,149 entries against 1,113 at opening. Final synchronized publication headers, dossier, generated indexes and candidate cleanup belong to Commit. |
+| Carry-forward and institution | The next-term setting has nine correctly ordered Justices, thirteen allotments and the unchanged referral practice. Arizona v. California, Kansas v. Colorado, Nebraska v. Wyoming, Kansas v. Nebraska and Alaska v. United States retain their supported stages. Howell and Medellin are concluded; ordinary lower-court remands are not pending Supreme Court matters. |
 
-## Navigation exceptions and provenance limits
+The four required opening labels remain present in every Record. All 152 expressly labeled controlling explanations tested in the public renders fall within the ordinary 350-word ceiling. F4 is additional instruction-specific text hygiene; it does not invalidate these structural results.
 
-The deliberate absence of GitHub repository URLs from published trackers is not a defect. Unresolved relative links inside preserved freeze and entering-law copies are excluded as directed. Eighty location-relative misses in eleven runtime commitment/reconciliation copies were traced separately: each affected runtime file is byte-identical to its authoritative same-named freeze file, and every target exists relative to that canonical frozen location. The required inputs exist. Two case-index template example links are placeholders, not OT2004 navigation defects.
+## Fresh legal-substance conclusion
 
-The no-Git instruction prevents independent repository-history review of lineage content and commitment order. That verification remains with the operator. This audit does not convert an empty commit-token check into provenance certification. No additional approval or Git access was requested.
+The legal-substance review found no defect. The review compared controlling propositions, actual joins, material separate positions, operative remedies, precedent treatment, effective entering law and Justice-specific historical departures with the corresponding candidate treatment and public account. The staged trackers do not acquire law from a dissent, a private position, a historical result or mere judgment agreement.
 
-## Required continuation
+- **Chunks 1–3:** Anderson's component coalitions, Kansas's eligible-loss cohort and interest components, Brosseau's immunity/merits separation, Clark and Jama's distinct statutory conditions, Booker's constitutional/remedial coalitions, Bell v. Cone's separate rationale coalitions, and Nordyke and Taft's component-specific limits remain intact. Karaha Bodas preserves arbitral-law and relief distinctions; Smith and Stewart retain their precise judgment consequences. The 171 reviewed substantive holding paragraphs and all 29 rendered remedy/stage blocks preserve the Records' substance. Howell properly creates no Holdings entry.
+- **Chunks 4–6:** Johnson, Shepard, Wilkinson, Muehler, Brown, Galvin, Sherrill, Jackson, Sabree and Monsanto retain their controlling grounds, statutory gates and remedy limits under the actual prior law. The changed-premise grounds are Justice-specific. All 44 expressly labeled operative rules survive the render comparison; candidate paraphrases preserve authority and scope. The 21 affected Standards entries satisfy the reusable-rule boundary. Smith's disputed reasonable-factors proof burden remains noncontrolling. The section 703 admission preserves the otherwise-allowable condition, covered claims, recovery cap and both post-October 22, 2004 timing triggers without altering earlier Banks tax years.
+- **Chunks 7–9:** Spector's seven-, six- and five-Justice propositions remain distinct from its four-vote sequencing view. Johanns preserves the difference between five rationale joins and six formal-vacatur votes. Tucson retains its complete-framework, narrower-protection and independent-ground coalitions. Lingle displaces the identified Del Monte Dunes efficacy holding while preserving the prior final judgment and surviving jury rules. Raich, Lofton, Clingman and Kincade have supported changed-law grounds; Golden and Rompilla preserve judgment-only and statutory-review distinctions. Candidate and render comparisons disclose no lost operative qualification.
+- **Chunk 10:** All 28 labeled operative rules survive normalized render comparison. Holdings preserves their substance, including Grokster's separately located liability and remedy rules. Gonzalez retains unanimous process classification and seven-Justice denial of extraordinary relief on the assumed account, rather than treating contested review efforts as absent. McCreary gives the repeal its actual prospective effect without declaring it an automatic cure; Van Orden distinguishes historical exposition from governmental adoption. Green Party keeps six merits joins separate from seven remedial joins. Halbert's actual-waiver analysis, Allapattah's enacted exceptions, Brand X's limited prior-circuit rule, Castle Rock's mandatory-duty assumption and Grokster's unresolved Sony application retain their proper scope.
 
-Repair F1?F3 in a task authorized to edit the named workspace files, preserving CRLF and all adjudications. Then rerun the deterministic checks and continue the fresh legal audit. AGENTS.md, Close protocol pass 4, states: ?Only after those pass does a fresh AI audit review legal substance.? Accordingly, this pass does not certify legally supported votes, coalition sufficiency, holdings, precedent treatment, remedies, substantive continuity, or Justice-specific historical departures. Prior close-pass reviews do not substitute for the remaining fresh audit.
+Focused primary-source checks corroborated the disputed rehearing chronology in the [Gonzalez dissent](https://www.law.cornell.edu/supct/html/04-6432.ZD.html), including note 5, and the identifier-removal and postargument-repeal chronology in the [McCreary opinion](https://www.law.cornell.edu/supct/html/03-1693.ZO.html), notes 6 and 19. Those historical recitations verify factual limits; they do not replace the timeline's controlling law.
 
-Only `terms/OT2004/close/AUDIT.md` changed: it records the discrepancies, completed checks, limitations, and remaining prerequisites. No repair, publication, candidate deletion, or repository commit was performed.
+The deliberate absence of GitHub repository URLs in published trackers is not a defect. Preserved navigation in freeze and entering-law copies is not a close defect. Required original-decision labels and values are not correction notices. The remaining F4 targets actual editing narratives, not any of those permitted features.
+
+## Operator disposition
+
+F1–F3 are closed. F4 is the only unresolved discrepancy. Legal substance and the staged law are clean, but the explicit seamless-correction requirement must be satisfied before Close Commit. This pass changes only terms/OT2004/close/AUDIT.md, recording repair verification, completed checks, the fresh substantive conclusions and the exact remaining metadata fix. No repair, tracker publication, deletion of close candidates or Git mutation was performed.
 
 READY FOR CLOSE COMMIT: NO
