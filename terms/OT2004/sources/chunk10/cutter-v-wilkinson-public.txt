@@ -1,0 +1,85 @@
+Source: cutter-v-wilkinson_merits_2005-05-31.md / Public Projection
+
+
+
+## Event
+
+Cutter v. Wilkinson, No. 03-9877, 544 U.S. 709. Argued March 21, 2005; decided May 31, 2005. On writ of certiorari to the United States Court of Appeals for the Sixth Circuit, which reversed an interlocutory ruling rejecting a facial Establishment Clause challenge to section 3 of the Religious Land Use and Institutionalized Persons Act, 349 F.3d 257. The question is whether that institutionalized-persons protection is facially invalid because it specially protects religious exercise.
+
+Current and former Ohio inmates allege restrictions on literature, worship, dress, ceremonial objects and religious assistance. Officials stipulated for this stage to the bona fides and sincerity of the asserted beliefs. The appeal concerns the categorical constitutional ground for dismissing their statutory claims.
+
+## Participation
+
+All nine Justices participated: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+## Public Action
+
+The judgment invalidating section 3 on its face under the Establishment Clause is reversed, and the case is remanded.
+
+## Judgment & Remedy
+
+**Reversed and remanded, 9–0.**
+
+**Supporting:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+The statutory claims return for adjudication of coverage, actual burdens, application-specific defenses and appropriate claimant-specific relief, together with properly preserved distinct constitutional defenses.
+
+## Opinion Topology
+
+SOUTER, J., delivered the opinion of the Court, in which STONE-ZSELA, C. J., and STEVENS, O'CONNOR, SCALIA, KENNEDY, THOMAS, GINSBURG and BREYER, JJ., joined. THOMAS, J., filed a concurring opinion.
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court | Souter | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer | Supports the judgment | the whole opinion; the complete coalition is Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer |
+| Concurrence | Thomas | No other Justice | Joins the Court's opinion and judgment in full | Additional explanation distinguishing federal legislation concerning religion from establishment and from enumerated-power authority |
+
+## Holdings
+
+### Neutral accommodation of private religious exercise in custody
+
+**Holding and operative rule:** Section 3's generally available protection against substantial government-imposed burdens on religious exercise in covered institutions is not facially invalid under the Establishment Clause. Government may relieve exceptional constraints its custody imposes on private exercise even when the Free Exercise Clause would not independently require that accommodation or comparable nonreligious interests receive less statutory protection.
+
+**Authority:** The opinion of the Court, joined by all nine Justices, controls this holding and the statutory-administration and remand holdings below.
+
+**Controlling explanation:** Custody limits ordinary means of obtaining materials, associating and observing religious practices. Relieving that government-created dependence restores private exercise; it does not necessarily make the exercise an official religious program. Section 3 selects no denomination, requires no religious adherence and assigns no civil authority to a sect. Kiryas Joel permits accommodation beyond the constitutional minimum while forbidding denominational allocation of government power. Agostini directs attention to the actual governmental act and function, with purpose, effects and entanglement as evidence within its unified inquiry. This provision performs an accommodation function. Doe v. Porter concerns the different act of adopting devotional instruction as a public institution's own program.
+
+The categorical objection that religion receives greater protection than other interests overlooks that distinction. The possibility that accommodation makes private religious practice more attractive does not itself establish coercion or sponsorship. At the same time, accommodation remains subject to neutrality, other persons' constitutional rights and the prohibition on governmental devotion. Those limits and the statute's justification defense require adjudication of concrete demands rather than dismissal of the entire protection.
+
+### The enacted standard accounts for institutional interests
+
+**Holding and operative rule:** A claimant must establish statutory coverage and a substantial burden on sincere religious exercise. Government then must demonstrate, through production and persuasion, that imposing that burden on that person furthers a compelling governmental interest by the least restrictive means. Institutional security, order, resources and effects on others receive concrete evidentiary weight within that test.
+
+Section 3 covers a substantial burden imposed in a program or activity receiving federal financial assistance, or one that affects—or whose removal would affect—commerce with foreign nations, among the States or with Indian tribes. When the latter commerce claim is the only jurisdictional basis, section 4(g) makes the provision inapplicable if government demonstrates that all substantial burdens on, or removal of all substantial burdens from, similar religious exercise throughout the Nation would not lead in the aggregate to a substantial effect on that commerce. That conditional coverage limitation is distinct from section 3's compelling-interest defense. Section 4(b)'s separately worded burden provision concerns Free Exercise or section 2 claims; section 3's own language governs the defense here.
+
+Religious exercise need not be compelled by or central to a belief system; sincerity remains a legitimate inquiry. Section 5 permits government to eliminate the burden by changing the policy or practice, retaining it with an exemption for the burdened exercise, exempting applications that substantially burden exercise, or another means that eliminates the burden. The Act neither creates nor precludes a right to religious funding or assistance, although avoiding a substantial burden may require expense in government's own operations. Its broad-construction direction operates within the text and Constitution, its severability provision preserves unaffected provisions and applications, and section 6 leaves the Establishment Clause's independent limits intact.
+
+**Controlling explanation:** A dangerous item, a proposed gathering and harmless literature can present different institutional risks. Officials' experience and supported evidence of security, staffing, expense, coercion and burdens on other persons matter; the court must assess them in the actual setting. Neither a general warning about prison management nor sincerity alone settles the claim. Congress's compelling-interest and least-restrictive-means language cannot be replaced by rationality review, and the accommodation cannot compel unconstitutional religious activity or disregard others' constitutional rights. Courts assess substantial burden and justification without deciding theological truth. The statutory sequence addresses excessive demands while retaining a meaningful protection against unsupported restrictions.
+
+### The claims and distinct defenses return for ordinary adjudication
+
+**Holding and operative rule:** Rejection of the facial Establishment Clause ground requires reversal of that dismissal and adjudication of the statutory claims under the stated prerequisites, defense and constitutional limits. Relief must correspond to a proven violation and the claimant's continuing interest; Article III and the Prison Litigation Reform Act, including applicable exhaustion requirements, retain their force.
+
+**Controlling explanation:** The sincerity stipulation is stage-specific and does not decide a particular practice's burden, risk or remedy. The existence of live claims likewise leaves former inmates' requests for prospective relief subject to their own continuing-interest requirements. The preserved Spending and Commerce objections and distinct federalism defenses fall outside the facial Establishment question decided here. Boerne invalidated RFRA's universal state and local command as an exercise of Fourteenth Amendment section 5 power; that holding neither resolves these different power predicates nor disappears because neutral accommodation is constitutionally permissible. The lower courts must address genuinely preserved defenses in their proper order.
+
+## Precedent Treatment
+
+- **Kiryas Joel:** Applied to distinguish permissible accommodation beyond the Free Exercise minimum from denominational allocation of civil authority or particular sectarian privilege.
+- **Agostini v. Felton:** Applied through its unified governmental-act/function inquiry. Purpose, effects and entanglement remain evidence within that inquiry; the former independent Lemon prongs are not a separate fallback.
+- **Doe v. Porter:** Distinguished because official adoption of devotional instruction differs from restoring private religious exercise constrained by custody.
+- **City of Boerne v. Flores:** Preserved at its section 5 scope. Its rejection of RFRA's universal state/local command does not determine the distinct Spending or Commerce objections reserved here.
+
+## Law After Decision
+
+Section 3 remains available to covered institutionalized persons seeking relief from substantial burdens on sincere religious exercise. Its religious focus is permissible accommodation, while each application remains governed by the enacted defense, constitutional limits, standing and applicable procedural requirements. The facial Establishment ruling supplies no resolution of the separately preserved congressional-power defenses.
+
+## Separate Writings
+
+**Thomas, concurring.** Thomas joins the opinion of the Court in full and adds that federal legislation concerning religion is not necessarily legislation establishing religion. A general accommodation provision does not necessarily compel a State to impose religious observance or support, or to prefer a sect. A categorical assertion that religion is exclusively a state subject therefore does not establish this facial violation. That distinction does not supply unlimited congressional power: Spending, Commerce and other unadjudicated power objections retain their separate questions. His additional ground is consistent with the controlling accommodation analysis and changes neither the statutory standard nor the remand.
+
+## Procedure After Action
+
+The case returns for ordinary adjudication of the inmates' statutory claims and preserved defenses. The courts must determine the actual substantial burdens, supported institutional justifications and lawful relief for claimants with a continuing interest, under the statutory and constitutional limits stated above.
+
+## Source Notes
+
+Religious Land Use and Institutionalized Persons Act of 2000, Pub. L. 106-274, §§3–6, 8, 114 Stat. 803; 42 U.S.C. §§2000cc-1 through 2000cc-5; 349 F.3d 257; 544 U.S. 709. Board of Education of Kiryas Joel Village School District v. Grumet, 512 U.S. 687; Agostini v. Felton (June 23, 1997); City of Boerne v. Flores (June 25, 1997); Doe v. Porter (April 26, 2005).

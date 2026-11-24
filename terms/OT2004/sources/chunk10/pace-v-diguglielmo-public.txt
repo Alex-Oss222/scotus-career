@@ -1,0 +1,90 @@
+Source: pace-v-diguglielmo_merits_2005-04-27.md / Public Projection
+
+
+
+## Event
+
+Pace v. DiGuglielmo, No. 03-9627. Argued February 28, 2005; decided April 27, 2005 (2005-04-27). On writ of certiorari to the Third Circuit, which reversed the district court's recognition of statutory and equitable tolling and held the federal habeas application untimely. The questions are whether a state postconviction petition rejected as untimely can nevertheless be properly filed under 28 U.S.C. §2244(d)(2) when the state deadline contains exceptions, and whether the separately asserted equitable protection preserves this application.
+
+Pace filed his second state collateral petition on November 27, 1996. The trial court denied relief on other grounds; the Superior Court held on December 3, 1998 that the petition was untimely and no exception was alleged and proved. State review ended July 29, 1999. The federal application followed December 24, 1999.
+
+## Participation
+
+Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate.
+
+## Public Action
+
+The judgment is affirmed.
+
+## Judgment & Remedy
+
+**Judgment: Affirmed, 5–4.** Supporting: Stone-Zsela, O'Connor, Scalia, Kennedy and Thomas. Opposing: Stevens, Souter, Ginsburg and Breyer.
+
+The state application supplies no statutory exclusion, and Pace fails to establish the reasonable diligence required for his asserted equitable protection. The district court must implement dismissal of this federal application as untimely.
+
+## Opinion Topology
+
+SCALIA, J., delivered the opinion of the Court, joined in full by Chief Justice Stone-Zsela and O'Connor, Kennedy and Thomas. STEVENS, J., filed a dissenting opinion, in which SOUTER, GINSBURG and BREYER, JJ., joined.
+
+The Court's five-Justice coalition—Stone-Zsela, O'Connor, Scalia, Kennedy and Thomas—joins Part I on statutory filing and Part II on assumed equitable authority and diligence. The dissent addresses statutory exclusion and does not reach independent equity.
+
+| Writing | Author | Joined by | Scope |
+|---|---|---|---|
+| Opinion of the Court | Scalia | Stone-Zsela, O'Connor, Kennedy, Thomas | Parts I and II: statutory filing and separate assumed-equity diligence |
+| Dissent | Stevens | Souter, Ginsburg, Breyer | Statutory tolling; independent equity not reached |
+
+## Holdings
+
+The five Justices joining the Court's opinion adopt both holdings and their controlling explanations.
+
+### 1. An exception-bearing deadline remains a genuine filing condition
+
+**Rule and authority.** A state collateral application rejected under an applicable application-filing deadline is not properly filed under §2244(d)(2) merely because that deadline contains exceptions the application does not satisfy. Federal courts identify the operative state rule and its authoritative application, distinguish rules directed solely at claim relief, and require the applicant to establish the dates and qualifying state pendency supporting the claimed exclusion; Part I controls that inquiry.
+
+**Controlling explanation.** Artuz separates conditions governing an application's delivery and acceptance from rules governing relief on its claims. A filing condition can require judicial evaluation; its function, rather than a clerk's acceptance, controls. Exceptions supply additional permissible filing routes.
+
+Pennsylvania's §9545(b)(1) requires any petition, including a second or later petition, within one year of finality unless the petition alleges and the petitioner proves one of three grounds: prior failure to present the claim resulted from governmental interference violating Pennsylvania or federal constitutional or statutory law; predicate facts were unknown and could not have been ascertained through due diligence; or a constitutional right was recognized after the ordinary period by this Court or Pennsylvania's Supreme Court and held retroactive by that recognizing court. Appointed and retained defense counsel are excluded from government officials. An exception petition must also be filed within sixty days after the claim could have been presented. Finality follows completion of direct review, including discretionary review in either Supreme Court, or expiration of review time. For judgments already final on January 16, 1996, the amendments' transition permits a first petition within one year of that effective date. Pace's petition was his second.
+
+These provisions govern filing, separately from §9543's relief eligibility. The state appellate court held that Pace satisfied neither the deadline nor an exception. Carey gives effect to that determination despite the trial court's earlier merits discussion. The November 27, 1996–July 29, 1999 state-review interval therefore supplies no statutory exclusion.
+
+Pace answers that claim-dependent exceptions resemble Artuz's relief bars and that exhaustion can consume federal time before the State decides timeliness. But legal and factual adjudication can enforce a filing prerequisite. Congress requires both proper filing and pendency; the latter cannot replace the former. The applicant must establish the dates and qualifying state pendency supporting the claimed exclusion.
+
+### 2. The asserted equitable protection fails on reasonable diligence
+
+**Rule and authority.** Assuming the broader equitable authority invoked here exists, the prisoner must establish an extraordinary impediment and reasonable diligence in pursuing the rights for which protection is sought. Part II holds that Pace's supported course of pursuit fails the required diligence showing for this asserted interval and therefore denies that protection, while preserving Pliler's existing rule for proved court-caused loss.
+
+**Controlling explanation.** Pace attributes the lost federal time to the combination of uncertain Pennsylvania timing law and circuit law requiring exhaustion. That explanation concerns pursuit of the second state petition. It does not establish reasonable pursuit across the preceding years or the five months after state review ended.
+
+The sentencing and plea grounds concerned facts available in 1986; Pace raised a version of the plea claim that year. The assistance ground concerned events in or before 1991. His first collateral proceeding ended in September 1992; the second began November 27, 1996. The family affidavits concerned a meeting with Pace and counsel in 1985 or 1986. Their old subject matter does not itself establish when those affidavits were signed or received. State review ended July 29, 1999, and federal filing followed December 24. The asserted trap does not account for the material gaps in pursuing the available grounds. The established chronology and asserted obstacle permit resolution of diligence without a further factual remand.
+
+Diligence means reasonable pursuit in the circumstances, rather than the fastest conceivable action. The earlier years inform that inquiry; they are not charged against a federal limitation before its enactment. Pliler protects proved court-caused loss through the required causation, diligence and lawful remedy. Pace identifies no corresponding court-directed dismissal election or materially misleading federal direction. Rhines permits retention of a timely mixed petition under its reasonable-explanation, potential-merit, anti-abuse and deadline conditions. Diligence here is assessed against the procedures available when Pace acted, without imposing a later protective-filing duty retroactively.
+
+The Court rests on the unmet diligence requirement, rather than the Third Circuit's capital/noncapital distinction. This record-specific conclusion neither makes five months invariably excessive nor resolves whether the asserted legal uncertainty was an extraordinary impediment. The full range of equitable authority beyond Pliler's established protection remains outside the grounds and facts necessary to resolve this application.
+
+## Precedent Treatment
+
+- **Artuz v. Bennett:** Its distinction between application-filing conditions and claim-relief bars governs; the reserved question concerning deadline exceptions is resolved for genuine filing deadlines that the application does not satisfy.
+- **Carey v. Saffold:** Reaffirmed in giving effect to the actual state untimeliness determination despite alternative merits reasoning; qualifying state-review pendency still depends on the operative state rules.
+- **Duncan v. Walker:** Reaffirmed in its separate statutory treatment of state collateral pendency and federal pendency; equitable protection retains its own predicates.
+- **Pliler v. Ford:** Its protection for omission of required notice in a qualifying court-directed dismissal election or materially misleading judicial direction remains effective when the petitioner proves causal loss, reasonable diligence and a lawful effective remedy. The present asserted state-exhaustion obstacle has different predicates.
+- **Rhines v. Weber:** Its authority to retain a timely mixed petition remains subject to a reasonable explanation for nonexhaustion, claims not plainly meritless, absence of abuse or intentional delay, and reasonable definite deadlines. Its later clarification supplies no retroactive protective-filing duty here.
+
+## Law After Decision
+
+Genuine state application-filing deadlines remain conditions of §2244(d)(2) even when exceptions require judicial findings. Courts must distinguish those conditions from claim-relief bars and calculate qualifying state pendency from the actual dates and authoritative state-law determinations. They must separately address supported equitable grounds under their own predicates. Pliler's established protection for court-caused loss remains available; the broader theory assumed here requires reasonable diligence in the actual circumstances.
+
+## Separate Writings
+
+**Stevens, joined by Souter, Ginsburg and Breyer, dissenting.** The state court conclusively determines whether state law permits relief, but that conclusion does not alone classify the application under the federal phrase properly filed. Artuz's distinction turns on how the rule operates. Governmental interference, previously unknown facts and later retroactive constitutional rights require judicial examination of the claims and their history. The dissent therefore treats this exception-bearing regime as comparable to a claim-relief limitation after an application reaches the proper tribunal in the required form.
+
+The explicit filing command, separate statutory placement and concern about prolonging federal time do not, in the dissent's view, displace that functional inquiry. Genuine delivery, tribunal, form and fee requirements and actual pendency remain necessary. Carey addressed timely continuation through a gap in state review; it did not settle Artuz's reserved exception question for an application already lodged. Duncan's distinction between federal and state pendency remains intact. A contrary reading allows a later state timeliness ruling to consume the federal opportunity while the prisoner pursues exhaustion.
+
+These Justices would exclude November 27, 1996 through July 29, 1999, remand for the exact federal calculation, and apply the remaining exhaustion, default and merits requirements. They accept the state untimeliness determination and reach no independent equitable-tolling conclusion because their statutory disposition makes that inquiry unnecessary.
+
+## Procedure After Action
+
+The mandate sustains the federal limitations disposition. The district court implements dismissal of the untimely application.
+
+## Source Notes
+
+28 U.S.C. §§2244(d), 2254; 42 Pa. Cons. Stat. §9545(b)(1)–(4); Pennsylvania Act 32 of 1995, §§3(1), 4; Pace v. Vaughn, 71 F. App'x 127 (3d Cir. 2003). The state appellate timeliness ruling is dated December 3, 1998; discretionary state review ended July 29, 1999. The family affidavits concern a meeting in 1985 or 1986; that subject matter does not determine their execution or delivery dates.

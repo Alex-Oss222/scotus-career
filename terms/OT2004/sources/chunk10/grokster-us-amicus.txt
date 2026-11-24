@@ -1,0 +1,323 @@
+Source: https://www.justice.gov/osg/brief/mgm-v-grokster-amicus-merits
+
+Breadcrumb
+
+Justice.gov
+
+Office of the Solicitor General
+
+Briefs
+
+MGM V. Grokster - Amicus (Merits)
+
+Brief
+
+MGM v. Grokster - Amicus (Merits)
+
+Share
+
+Facebook
+
+X
+
+LinkedIn
+
+Email
+
+Docket Number
+
+No. 04-480
+
+Supreme Court Term
+
+2004 Term
+
+Type
+
+Merits Stage Amicus Brief
+
+Court Level
+
+Supreme Court
+
+No. 04-480
+
+In the Supreme Court of the United States
+
+METRO-GOLDWYN-MAYER STUDIOS INC., ET AL., PETITIONERS
+
+v.
+
+GROKSTER, LTD., ET AL.
+
+ON WRIT OF CERTIORARI
+ TO THE UNITED STATES COURT OF APPEALS
+ FOR THE NINTH CIRCUIT
+
+BRIEF FOR THE UNITED STATES 
+ AS AMICUS CURIAE SUPPORTING PETITIONERS
+
+PAUL D. CLEMENT
+ Acting Solicitor General
+ Counsel of Record
+
+PETER D. KEISLER
+ Assistant Attorney General
+
+THOMAS G. HUNGAR
+ Deputy Solicitor General
+
+DOUGLAS H. HALLWARD-DRIEMEIER
+ Assistant to the Solicitor
+ General
+
+SCOTT R. MCINTOSH
+ ANTHONY A. YANG
+ LEWIS S. YELIN
+ Attorneys
+ Department of Justice
+ Washington, D.C. 20530-0001
+ (202) 514-2217
+
+DAVID O. CARSON
+ General Counsel
+ United States Copyright
+ Office
+ Washington, D.C. 20559
+
+JAMES A. TOUPIN
+ General Counsel
+
+JOHN M. WHEALAN
+ Deputy General Counsel for
+ Intellectual Property Law
+ Patent and Trademark
+ Office
+ Alexandria, Va. 22313
+
+QUESTION PRESENTED
+
+Whether the court of appeals erred in holding that providers of "file sharing" network software cannot be held secondarily liable for copyright infringement even though the vast majority of uses of the providers' networks constitute copyright infringement.
+
+In the Supreme Court of the United States
+
+No. 04-480
+
+METRO-GOLDWYN-MAYER STUDIOS INC., ET AL., PETITIONERS
+
+v.
+
+GROKSTER, LTD., ET AL.
+
+P>ON WRIT OF CERTIORARI
+ TO THE UNITED STATES COURT OF APPEALS
+ FOR THE NINTH CIRCUIT
+
+BRIEF FOR THE UNITED STATES 
+ AS AMICUS CURIAE SUPPORTING PETITIONERS
+
+INTEREST OF THE UNITED STATES
+
+This case presents the question of the correct legal standard to govern claims of secondary liability for copyright infringement asserted by copyright owners against the providers of Internet music and movie-swapping networks based on the large volume of piracy that users engage in over those networks. The United States has a substantial interest in meaningful and effective protection of intellectual property, which represents a significant portion of the Nation's economy and exports. The United States Copyright Office, which administers the Copyright Act, 17 U.S.C. 701, and the United States Patent and Trademark Office, which advises the President and other agencies on matters of intellectual property policy, 35 U.S.C. 2(b)(8)-(12), have been particularly active in advocating the effective protection of intellectual property. The Department of Justice, which has responsibility for prosecuting criminal violations of the Copyright Act, 17 U.S.C. 506, has also recognized the principal role of civil enforcement in the effort to combat copyright violations. See Report of the Department of Justice Task Force on Intellectual Property 39 (Oct. 2004). At the same time, the United States has a considerable interest in fostering robust technological development and the beneficial use of digital technologies, including the peer-to-peer file-sharing technology involved in this case. The United States believes that the law of secondary liability for copyright infringement, as set forth below, strikes an appropriate balance between those legitimate concerns.
+
+STATEMENT
+
+This case concerns the considerable volume of copyright infringement that is taking place among users of respondents' networking software. Though petitioners' evidence indicates that respondents have built their businesses around the enormous volume of copyright infringement that their networks facilitate, the court of appeals held that respondents cannot be held secondarily liable for that infringement because the software that respondents provide is also capable of non-infringing uses. The position of the United States is that the court of appeals erred in adopting an unduly narrow view of the scope of secondary liability for copyright infringement.
+
+1. Peer-to-peer (P2P) computing technology enables users of a particular P2P network to access and copy files that are located on the computers of other users who are logged in to the network. Unlike traditional Internet transactions, in which a user's computer obtains information from a specific website operated by a central computer "server," P2P networking software gives users direct access to the computers of other users on the network. Pet. App. 4a. P2P file-sharing software thus performs two principal functions: First, it searches for and locates files that are available on the various "peer" computers linked to the network, and second, it enables a user to retrieve and copy the desired files directly from such computers.
+
+Respondents Grokster and StreamCast offer their software to users for free. Pet. App. 3a, 7a.1 Respondents derive their revenue from advertising that is displayed when a user accesses the P2P network. See id. at 50a. The "vast majority" of files exchanged through Grokster and StreamCast's P2P networks "are exchanged illegally in violation of copyright law." Id. at 8a.
+
+If credited, petitioners' evidence could support a finding that respondents adopted a deliberate policy to build their P2P networks around the "draw" to new users of the ability to download copyrighted material for free. Pet. App. 49a-50a. Petitioners' evidence indicates that respondents set out to attract former users of the Napster file-sharing system, id. at 35a, which shut down after it was held secondarily liable for the copyright infringement of its users, to serve as a core base of users whose own files of copyrighted materials would serve to attract new users, id. at 50a, thereby increasing respondents' revenue, ibid.
+
+2. Petitioners include most of the major motion picture studios and recording companies as well as a certified class of over 27,000 songwriters and music publishers. Pet. App. 3a-4a & n.1. Petitioners brought suit against respondents Grokster and StreamCast for copyright infringement. The district court entered partial summary judgment in favor of respondents on the ground that respondents' software is capable of noninfringing uses and respondents do not have the ability to control their customers' use. Pet. App. 54a.
+
+The Ninth Circuit affirmed. Pet. App. 1a-22a. Construing Sony Corp. of America v. Universal City Studios, Inc., 464 U.S. 417 (1984), the court of appeals held that respondents could not be held contributorily liable for the copyright infringement of their users if the networks were "capable of substantial noninfringing uses." Pet. App. 11a. While petitioners had asserted, without contradiction, that "the vast majority of the software use is for copyright infringement," the court of appeals held that respondents' evidence of noninfringing uses-new artists who had willingly distributed their works on the Internet for free and organizations that made available public domain literary works and historic films-was sufficient under Sony to defeat liability. Id. at 11a-12a.
+
+Like the district court, the court of appeals also rejected petitioners' claim of vicarious copyright infringement, holding that respondents do not retain a practical ability to cut off infringing users, Pet. App. 17a, and that respondents had no affirmative duty to alter their software in a manner that would prevent copyright infringement, id. at 17a-18a.
+
+SUMMARY OF ARGUMENT
+
+Although the Copyright Act does not expressly provide for the imposition of secondary liability for copyright infringement, this Court has recognized that there are "circumstances in which it is just to hold one individual accountable for the [copyright infringement] of another." Sony Corp. of America v. Universal City Studios, Inc., 464 U.S. 417, 434-435 (1984). Contributory liability applies to "one who, with knowledge of the infringing activity, induces, causes or materially contributes to the infringing conduct of another." Gershwin Publishing Corp. v. Columbia Artists Management, Inc., 443 F.2d 1159, 1162 (2d Cir. 1971).
+
+I. In Sony, the Court stated that a seller of a product that enables copyright infringement may be held liable if the product is not "capable of commercially significant noninfringing uses." 464 U.S. at 442. The court of appeals held that, even accepting that 90% or more of the uses of respondents' file-sharing networks are infringing, the mere fact that the systems are "capable" of noninfringing transfers precluded liability under Sony, notwithstanding the relatively trivial proportion and commercial significance of such uses. Pet. App. 11a. The Ninth Circuit's approach would eviscerate the "effective" protection against copyright infringement that Sony demands. 464 U.S. at 442.
+
+Although Sony did not give precise content to the term "commercially significant," commercial significance should be evaluated in the context of the particular defendant's business, as opposed to the technology in the abstract. While P2P technology unquestionably can be employed for a variety of legitimate purposes without giving rise to rampant copyright infringement, the record (read in the light most favorable to petitioners) suggests that respondents have built their particular P2P networks around the "draw" of massive copyright infringement. Respondents therefore cannot evade liability under Sony merely by pointing to other, legitimate, uses of the technology.
+
+The touchstone for liability under Sony is whether the defendant is engaged in a business "substantially unrelated" to copyright infringement. The most salient considerations are the extent to which the defendant's product is, or reasonably foreseeably will be, utilized for infringement and, re-latedly, the extent to which the defendants' particular busi-ness depends on such illicit uses. If the defendant's product is overwhelmingly used for infringing purposes, and the viability of the defendant's business depends on the revenue and consumer interest generated by such infringement, such evidence alone suffices to support liability under Sony. Where the predominance of infringing uses is less stark, a court might also look to other indicia, including how the defendant marketed the product, whether the product would be efficient for the asserted noninfringing uses, and whether the defendant failed to take easily available steps to reduce the infringing uses or to focus on legitimate uses.
+
+Petitioners' evidence suffices to preclude summary judgment under that standard. Apparently, the overwhelming use of respondents' networks is infringing, and it appears likely that most if not all of respondents' revenues are derived from that infringement. The illicit ability to obtain copyrighted material for free is, as the district court recognized, the "draw" that attracts users to respondents' systems and produces the critical mass of participants that is essential to respondents' success. Pet. App. 49a-50a.
+
+The other relevant indicia of contributory infringement could also be found to support the imposition of liability. Petitioners marketed their networks' capacity for infringing uses in order to build a critical mass of users. Moreover, it is unclear that respondents' systems are particularly efficient for the potential noninfringing uses cited by the court of appeals. Finally, petitioners offered evidence that respondents could, with relative ease, have implemented technology that would substantially reduce the infringement occurring on respondents' networks and focus the uses of the technology on lawful copying.
+
+II. Even leaving aside the particular rule of contributory liability articulated in Sony, respondents might also be found liable for their active inducement of the infringement committed by their users. Petitioners' evidence could support a finding that the copyright infringement that takes place on respondents' networks did not simply "happen" but was the result of active and intentional steps on the part of respondents to induce such infringement, which was essential to respondents' business model.
+
+ARGUMENT
+
+Although the Copyright Act, unlike the Patent Act, "does not expressly render anyone liable for infringement committed by another," this Court has long recognized that there are "circumstances in which it is just to hold one individual accountable for the [copyright infringement] of another." Sony Corp. of America v. Universal City Studios, Inc., 464 U.S. 417, 434-435 (1984) (citing Kalem Co. v. Harper Bros., 222 U.S. 55 (1911)). Congress has not prescribed particular standards for secondary liability for copyright infringement, but it has recognized the doctrine's existence. See H.R. Rep. No. 1476, 94th Cong., 2d Sess. 61 (1976). Indeed, Congress expressly recognized and preserved the state of secondary liability in the recent Digital Millenium Copyright Act (DMCA), Pub. L. No. 105-304, 112 Stat. 2860, by stating that "[n]othing in this section shall enlarge or diminish vicarious or contributory liability for copyright infringement." 17 U.S.C. 1201 (c)(2).
+
+Courts have recognized two general categories of secondary copyright liability: (1) "contributory infringement" liability, which is imposed upon "one who, with knowledge of the infringing activity, induces, causes or materially contributes to the infringing conduct of another," Gershwin Publishing Corp. v. Columbia Artists Management, Inc., 443 F.2d 1159, 1162 (2d Cir. 1971); and (2) "vicarious" liability, which is imposed upon one who "has the right and ability to supervise the infringing activity and also has a direct financial interest in such activities," ibid.2 While "vicarious" liability focuses on the secondary infringer's relationship to the primary infringer-i.e., the ability to "police the infringing conduct" (coupled with a financial benefit from failing to do so)-the doctrine of contributory infringement is premised on the defendant's own conduct that induces or contributes to the primary infringement. Id. at 1162-1163.
+
+There are, in turn, two distinct strands of contributory liability that are implicated in this case: (1) where the defendant's role in facilitating the infringement is limited to providing the machinery or service that facilitates the infringement, e.g., Sony, 464 U.S. at 439, 442; and (2) where the defendant, above and beyond the sale of the product, actively induces the infringement, e.g., Cable/Home Communication Corp. v. Network Productions, Inc., 902 F.2d 829, 846 (11th Cir. 1990). See Matthew Bender & Co. v. West Publishing Co., 158 F.3d 693, 706 (2d Cir. 1998) (recognizing distinct theories of contributory liability), cert. denied, 526 U.S. 1154 (1999). For the reasons set forth below, the court of appeals erred in holding that petitioners could not, as a matter of law, establish respondents' contributory liability for infringement under those theories.
+
+I. THE COURT OF APPEALS ERRED IN HOLDING THAT DEFENDANTS WHO BASE THEIR BUSINESS MODELS ON THE "DRAW" OF COPYRIGHT INFRINGEMENT CAN ESCAPE LIABILITY FOR CONTRIBUTORY INFRINGEMENT MERELY BY IDENTIFYING MINOR NONINFRINGING USES
+
+In Sony, the Court addressed a particular category of contributory liability, in which the secondary infringement claim is premised solely on the defendant's sale of a product that facilitates the underlying infringement. 464 U.S. at 439. Drawing upon analogous principles of patent law, the Court held that contributory copyright liability may appropriately be imposed upon the purveyors of "products or activities that make such duplication possible," but only if those products or activities are not "capable of commercially significant noninfringing uses." Id. at 442.
+
+The decision below misconstrues the standard for liability articulated in Sony. In concluding that mere anecdotal evidence of relatively trivial noninfringing use is sufficient to negate liability, without regard to the commercial significance of those noninfringing uses, the court of appeals effectively eliminated the category of contributory liability recognized in Sony. Properly understood, however, Sony permits imposition of liability for contributory infringement when the infringing uses of a defendant's product are so central to the defendant's business model that it is not genuinely engaged in an area of commerce "substantially unrelated" to copyright infringement. 464 U.S. at 442. Petitioners' evidence could support such a finding here.
+
+A. Sony Demands "Effective-Not Merely Symbolic- Protection" Against Copyright Infringement
+
+In Sony, this Court was called upon to decide whether a business may be held secondarily liable for selling copying equipment "with constructive knowledge of the fact that its customers may use that equipment to make unauthorized copies of copyrighted material." 464 U.S. at 439. The defendant in Sony manufactured and sold Betamax video tape recorders (VTRs), which were capable of recording television broadcasts.
+
+Balancing the legitimate demand for "effective-not merely symbolic-protection" of copyrights against the right of businesses "freely to engage in substantially unrelated areas of commerce," the Court held that the bare sale of equipment that is capable of being used for copyright infringement will not constitute contributory infringement if the "product is widely used for legitimate, unobjectionable purposes." 464 U.S. at 442. Put another way, the Court explained, liability is inappropriate based on the mere sale of an article of commerce if the product is "capable of substantial noninfringing uses," i.e., "capable of commercially significant noninfringing uses." Ibid. (emphasis added).
+
+The Court found it unnecessary to "give precise content to the question of how much use is commercially significant" because "a significant number" of the uses before the Court were noninfringing. Sony, 464 U.S. at 442. The Court first noted the existence of "a significant quantity of broadcasting whose copying is now authorized," including telecasts of the major sports leagues and Public Broadcasting Service programs, id. at 444-445, circumstances that "create[d] a substantial market for a noninfringing use" of the defendant's products, id. at 447 n.28.
+
+The Court did not, however, rest its decision on those examples of authorized copying alone. Rather, the Court went on to hold that time-shifting of broadcast programs to enable viewing at more convenient times-the "primary use of the [VTR] machine," 464 U.S. at 423-was a fair and noninfringing use, even when unauthorized. See id. at 447-455. In light of the fact that the primary use of VTRs was lawful, the Court held that Sony was not liable for the infringement of its customers. Id. at 442, 456.
+
+Four Justices dissented. Sony, 464 U.S. at 457 (Blackmun, J., joined by Marshall, Powell, and Rehnquist, JJ.). The fundamental point of disagreement between the dissenters and majority was whether unauthorized time-shifting was fair use. See id. at 482-483. "Because * * * time-shifting is the primary use of VTR's," the dissent acknowledged that the majority's fair-use holding, "if correct, would settle the issue of Sony's liability under almost any definition of contributory infringement." Id. at 493. Because the dissenters disagreed with the majority regarding fair use, however, they had to reach the further question (left unresolved by the majority) of "the amount of noninfringing use that a manufacturer must show." Id. at 498. The proper question, the dissenters explained, was the commercial viability of the product if limited to noninfringing uses: "[I]f no one would buy the product for noninfringing purposes alone, it is clear that the manufacturer is purposely profiting from the infringement, and that liability is appropriately imposed." Id. at 491.
+
+B. The Court of Appeals' Approach Would Render The Sony Standard Virtually Insurmountable
+
+The relationship between infringing and noninfringing uses in this case is essentially the opposite of the situation before the Court in Sony in light of the majority's fair use holding. The record shows that respondents' software is overwhelmingly used for the unlawful copying of copyrighted works. Petitioners apparently offered evidence that illegal trading of copyrighted works accounted for at least 90%, and perhaps more, of the files distributed on respondents' networks. Pet. 9-10 & n.7; Pet. App. 4a. The Ninth Circuit nevertheless concluded that the residuum of noninfringing uses was sufficient as a matter of law to foreclose liability under Sony. See id. at 10a-12a.
+
+In so holding, the court of appeals fundamentally misconstrued Sony's requirement that noninfringing uses be "commercially significant." The court of appeals relied primarily on evidence that certain files-including public domain works and songs by artists who had authorized free distribution of their music-could be transferred over respondents' networks without infringing copyrights, and anecdotal evidence that such distribution had been significant to the commercial success of at least one band, Wilco. See Pet. App. 10a-11a. The court of appeals refused to consider whether the small fraction of file-transfers represented by such anecdotal evidence was "commercially significant" to respondents' businesses. Indeed, the court of appeals specifically refused to consider the relative frequency of infringing and non-infringing uses of respondents' networks as part of the "commercially significant" inquiry. See id. at 11a-12a n.9.
+
+Under the standard employed by the court of appeals, therefore, even relatively trivial noninfringing uses will suffice to defeat secondary liability under Sony. That standard renders Sony's recognition of contributory liability virtually a dead letter; copy-facilitating products are almost always capable of copying public domain works, and thus would satisfy the Ninth Circuit's test.
+
+This Court's decision in Sony does not support that approach. If evidence of small classes of authorized copying were sufficient to satisfy the "commercially significant" standard, the Sony majority would not have needed to reach the fair-use issue that divided the Court. The relatively substantial (compared to this case) authorized time-shifting in that case, which included telecasts of the major professional sports leagues and 58% of PBS programs, 464 U.S. at 444- 446, would have been more than sufficient to satisfy the Ninth Circuit's version of the "commercial significance" test. In reality, the Court did not rest its holding on those noninfringing uses, but instead went on to consider whether unauthorized time-shifting was a fair use. Id. at 447-455. Indeed, all nine Justices appeared to agree that resolution of the fair- use question was necessary in order to decide the "commercial significance" question.
+
+Nor can the court of appeals' refusal to consider the relative significance of infringing and noninfringing uses be justified by noting, as both the court of appeals and respondents do, that the Sony test asks whether the defendant's product is "capable of substantial noninfringing uses." Pet. App. 11a; Br. in Opp. 20-21 (characterizing Sony as adopting a "'mere capability' standard"). The Court's reference to a product's "capable" and "potential" uses, 464 U.S. at 442, merely clarifies that the test is not limited to a snapshot of a single moment in time. Courts can, and should, take into account the product's realistic prospects for future viability based on noninfringing uses. Id. at 444 (noting VTR's "significant potential for future authorized copying"). Considering a product's potential for future commercial utility in addition to its current value is particularly important for new products and businesses, which may take time to reach their potential. Nonetheless, Sony's directive to consider "substantial noninfringing uses, present or prospective" requires more than a showing that the product "could be used in noninfringing ways," In re Aimster Copyright Litig., 334 F.3d 643, 650, 651 (7th Cir. 2003) (Aimster). Instead, the question is whether the actual uses are, or are sufficiently likely to become, commercially significant.
+
+In Sony, there was a "significant likelihood" that a substantial amount of Betamax recording would be noninfringing, see 464 U.S. at 456, but the evidence cited by the Ninth Circuit in no way compels such a finding here. The court of appeals' reliance on the bare potential for noninfringing uses, without any attempt to assess the present or future significance of such uses to the respondents' businesses, effectively reads Sony's requirement of commercial significance out of the standard and all but precludes contributory liability under Sony. That result cannot be squared with Sony itself.
+
+C. The "Commercially Significant Noninfringing Uses" Test Looks To Whether The Defendant's Business Is So Tied To Infringing Uses That It Is Not Genuinely Engaged In An Area Of Commerce "Substantially Unrelated" To Infringement
+
+Sony's reference to a product's capacity for noninfringing uses likewise does not call for an evaluation of the technology in the abstract. Rather, the proper focus is on the defendant's particular business and implementation of the technology. Sony itself explained that the countervailing interest to be balanced against the interest of copyright owners is "the right[] of others freely to engage in substantially unrelated areas of commerce." 464 U.S. at 442. Thus, it is evident that the Court intended the "commercial significance" of the noninfringing uses to be determined with reference to the nature of the seller's business. If the defendant's business model is built around the draw of copyright infringement, the defendant is not engaged in a "substantially unrelated area[] of commerce." Ibid.
+
+1. The Test For Commercial Significance Should Focus On The Relative Significance Of The Infringing And Noninfringing Uses To The Defendant's Business
+
+Sony indicates, at least implicitly, that the "commercially significant" test requires a comparison between the product's infringing and noninfringing uses. The Court noted that time-shifting was the "principal," 464 U.S. at 421, and "primary," id. at 423, use of the VTR and therefore "plainly satisfie[d]" the "commercially significant" standard, id. at 442. See id. at 443 (suggesting that because the plaintiffs owned only 10% of copyrighted programming, 90% of programming might conceivably be copied without objection); cf. id. at 493 (Blackmun, J., dissenting) (opining that "the percentage of legal versus illegal home-use recording" was "essential" to resolving the question of contributory liability). While it may be difficult to fix a precise percentage as the necessary threshold for noninfringing uses, Sony makes clear that when a product's "primary" use is noninfringing, the "commercially significant noninfringing use" standard is easily satisfied. On the other hand, the Court's careful consideration of whether time-shifting was a fair use indicates that the Court would have reacted quite differently to a product-such as a VTR with recording, but no playback, capacity-that while theoretically capable of noninfringing uses, appeared to be designed to facilitate infringement. More broadly, if there is a "symbiotic relationship" between the provider of a product or service and the infringing uses of that product, such that "the very success of the [defendant's] venture depends on the counterfeiting activity," and the seller is trading on the "draw" of infringement, Adobe Sys. Inc. v. Canus Productions, Inc., 173 F. Supp. 2d 1044, 1051 (C.D. Cal. 2001), a factfinder can readily infer that the defendant is not engaged in a "substantially unrelated area of commerce."
+
+This approach finds considerable support in the case law. Courts applying either general rules of contributory copyright liability or the more particular rule of Sony have looked to the centrality of copyright infringement to the defendant's business. In Fonovisa, Inc. v. Cherry Auction, Inc., 76 F.3d 259 (9th Cir. 1996), for example, the court considered a claim of contributory copyright liability against the operator of a swap meet. The operator provided "space, utilities, parking, advertising, plumbing, and customers" for the meets, at which "massive quantities" of infringing activity took place, as evidenced by the seizure of 38,000 counterfeit recordings. Id. at 261, 264. The provider of the meet derived revenue from the rental of booths to individual vendors as well as "admission fees, concession stand sales and parking fees, all of which flow[ed] directly from customers who want[ed] to buy the counterfeit recordings at bargain basement prices." Id. at 263. The court had "little difficulty" in concluding that the defendant was contributorily liable for "provid[ing] the environment and the market for counterfeit recording sales to thrive." Id. at 264.
+
+Similarly, in the landmark Gershwin Publishing case, the Second Circuit upheld contributory liability against the defendant, Columbia Artists Management, Inc. (CAMI), based on its "pervasive participation" in "creat[ing] the * * * audience as a market for these artists" to perform copyrighted music. 443 F.2d at 1163. CAMI's employees formed local concert associations throughout the country that provided audiences for the infringing performances, and the artists, in turn, paid CAMI a percentage of their fee "for services rendered * * * in the formation and direction of local associations." Id. at 1161. In Gershwin, like Fonovisa, the infringing sale or performance of copyrighted material was the "'draw' for customers," Fonovisa, 76 F.3d at 263, around which the defendant had built its business.
+
+Other courts have also applied a similar analysis under Sony in cases involving the sale of products or services. In Aimster, the Seventh Circuit noted that the law of aiding and abetting generally distinguishes between a business that sells a good that is typically used for entirely proper purposes, but is capable of illicit uses, and the purveyor of a good that, while entirely capable of legitimate use, is virtually never used in that manner. See 334 F.3d at 651. Whereas the former situation "corresponds to Sony," the court recognized that Aimster's P2P music-sharing service was like the latter, "capable of noninfringing uses but in fact * * * used only to infringe." Ibid. A further example is provided by A&M Records, Inc. v. Abdallah, 948 F. Supp. 1449 (C.D. Cal. 1996), in which the district court imposed contributory liability on the provider of blank "time-loaded" audio-tapes that the defendant manufactured to run for a certain length of time specified by the customer, which facilitated the production of pirated tapes. Id. at 1453. While recognizing that the defendant "had some legitimate customers for his time-loaded cassettes," id. at 1456 & n.5, the court held that those legitimate purposes "are insubstantial given the number of Mr. Abdallah's customers that were using them for counterfeiting," id. at 1456, and who accounted for 70% of the defendant's sales, id. at 1458 n.6.
+
+Against this backdrop, it is clear that the Ninth Circuit erred in analyzing the issue of commercial significance from the standpoint of the start-up bands who allegedly benefited from consensual distribution over respondents' networks. The proper focus of the Sony inquiry is on the commercial significance to the defendant's business of the noninfringing use in comparison to the infringing use. This is clear from the Sony decision itself, which focuses, not just on the product's impact on PBS or major league sports, but on the broader uses of the defendant's product. A company that builds its business around the "draw" of copyright infringement, such that "the very success of the [defendant's] venture depends on the counterfeiting activity," Adobe Sys., 173 F. Supp. 2d at 1051, is not one that is engaged in an area of commerce "substantially unrelated" to copyright infringement, and should therefore not be allowed to cite its product's "mere capability" for non-infringing uses, Br. in Opp. 21, as a sufficient defense to contributory liability. Thus, the relative significance to the defendant's business of a product's infringing versus noninfringing uses serves as the primary metric for measuring whether the seller's product has commercially significant noninfringing uses.
+
+When (as is apparently true on this record) the noninfringing uses are vastly outweighed by the infringing uses and constitute 10% or less of the total, and the viability of the defendant's business is dependent on the revenue and consumer interest generated by such infringement, a factfinder can readily find that the defendant's product lacks commercially significant noninfringing uses. By contrast, when noninfringing uses predominate, plaintiffs will not prevail. In closer cases, it will often be appropriate for the court to look to subsidiary indicia that may shed additional light on the question whether the defendant is genuinely engaged in an area of commerce substantially unrelated to infringement. Those factors include (a) how the defendant markets the product; (b) the efficiency of the product for noninfringing uses; and (c) what steps the seller has taken to eliminate or discourage infringing uses.
+
+(a) How the product is marketed. In Sony, the Court emphasized that the defendant had not "influenced or encouraged" unlawful copying with its "advertisements." 464 U.S. at 438. Although the test of "commercially significant noninfringing uses" is an objective one, the defendant's marketing may provide objective evidence of the "area of commerce" in which the defendant operates or indicate whether noninfringing uses are, in fact, commercially significant. That is especially so where, as here, the success of the defendant's business is inseparable from the network of users it has assembled. A P2P network that markets itself as a community of atomic physicists interested in sharing their research is engaged in a different line of business from a network that markets itself as a group of music-swappers.
+
+Several lower courts, applying Sony, have recognized the significance of the defendant's marketing as evidence of the relative significance of infringing versus noninfringing uses. In Aimster, for example, the defendant's "tutorial [gave] as its only examples of file sharing the sharing of copyrighted music." 334 F.3d at 651. Similarly, in A & M Records, Inc. v. Napster, Inc., 239 F.3d 1004 (9th Cir. 2001) (Napster I), the court of appeals noted that defendants had "promoted the site with screen shots listing infringing files," id. at 1020 n.5 (citation omitted), and in Cable/Home Communication, the defendant had "advertised these devices primarily as infringement aids and not for legitimate, noninfringing uses," 902 F.2d at 846. The fact that a seller markets its product for infringing uses is evidence that the seller is not engaged in a "substantially unrelated area[] of commerce," and that the noninfringing uses are not commercially significant. Sony, 464 U.S. at 442.
+
+(b) The product's efficiency for performing noninfringing uses. Several cases construing 35 U.S.C. 271(c), the patent law analog upon which Sony relied, recognize that an important indicator of whether a proffered noninfringing use is "significant" is whether the product performs the noninfringing use efficiently, as compared to other available alternatives. If other products would serve the noninfringing use more efficiently, such that the relevant product has a comparative advantage only for infringing uses, that will generally be strong evidence that customers are not buying the defendant's product for that purpose.
+
+In one notable case, Fromberg, Inc. v. Thornhill, 315 F.2d 407 (5th Cir. 1963), the defendant contended that its rubber plugs, which were suitable for use in the plaintiff's patented process for repairing tubeless tires, could also be used with a standard tire repair needle. Id. at 414. In remanding, the Fifth Circuit noted its skepticism of that proffered use, in light of the fact that defendant's product cost three times more than an ordinary plug. Id. at 414 n.19, 415. See generally Shumaker v. Gem Mfg. Co., 311 F.2d 273 (7th Cir. 1962) (defendant sold product in pairs, whereas noninfringing use required only single item); Johnson & Johnson v. W.L. Gore & Assocs., Inc., 436 F. Supp. 704, 727 n.41 (D. Del. 1977) (noting that "much larger rolls than those sold by defendant are required" for the proffered noninfringing use).
+
+(c) Steps taken to eliminate or discourage infringing uses. Evidence that a provider has, or has not, taken steps to deter infringing uses may, in an appropriate case, also be probative of the true nature of the defendant's business, especially in cases in which infringing uses predominate. Product manufacturers do not have an independent legal duty under copyright law to modify their products so as to control their customers' infringing conduct.3 Sony, for instance, had no obligation to incorporate monitoring devices into its recorders to deter copyright infringement. Sony, 464 U.S. at 437. When, however, a defendant's product is overwhelmingly put to infringing uses and the defendant fails to take even inexpensive and readily available steps to combat such infringement and focus users on legitimate uses of the product, such refusal could, if not explained on other grounds, bolster the inference that infringement is central to the defendant's enterprise. See Fonovisa, 76 F.3d at 264 (noting that the swap meet organizer had refused to cooperate with efforts to identify the primary infringers who were essential to the defendant's business).
+
+As importantly, when the seller of a product with significant noninfringing uses has taken reasonably available steps to deter infringing uses and focus users on legitimate uses, evidence of such conduct would be relevant in demonstrating that the seller's business is "substantially unrelated" to copyright infringement, even if there are substantial residual infringing uses inherent in the technology. As the Court recognized in Sony, if "millions of [customers]" want to make noninfringing uses of a product or service, "the business of supplying the equipment that makes such [uses] feasible should not be stifled simply because the equipment is used by some individuals to make unauthorized reproductions" of copyrighted works. 464 U.S. at 446.
+
+Congress recognized as much in the DMCA, which created statutory safe harbors for Internet service providers who take designated steps to combat infringing uses of their services. See 17 U.S.C. 512(c) and (i). The same considerations that underlay this Court's balancing approach in Sony, and that informed the DMCA safe harbor provisions, support the conclusion that if a product or service provider takes reasonable steps to combat infringing uses and channels users toward legitimate uses, the continued presence of some infringing uses will not defeat evidence that the service has "commercially significant noninfringing uses" for other customers.
+
+2. The Record In This Case Reveals A Genuine Dispute Of Material Fact Over The Question Whether Respondents' Businesses Are "Substantially Unrelated" To Copyright Infringement
+
+Viewed most favorably to petitioners, the record in this case would appear to permit a finding that respondents are in the business of promoting a music and movie "swap meet," in which at least 90% of the music or movies traded are pirated and the opportunity for unlawful copying is the "draw" for respondents' businesses. On analogous facts, courts have correctly recognized the propriety of imposing contributory liability on the business that creates the market for such infringement. See Fonovisa, 76 F.3d at 261, 264; Gershwin Publishing, 443 F.2d at 1162. The courts below therefore erred in granting summary judgment for respondents.
+
+The proper focus of inquiry in this case is not P2P technology in the abstract, but the businesses that respondents have built around their particular implementation of that technology. There is no question that, as a general matter, P2P technology has the potential to be employed in many noninfringing ways and that it can have considerable commercial value to businesses, universities, and other organizations. P2P technology allows individuals to form electronic communities in which they may share information of common interest with each other in a decentralized and technologically efficient manner. As an example, a company could utilize P2P technology to facilitate distribution of materials among employees, while reducing demand on its central servers. See Douglas F. Gray, Peer-to-Peer Technology Exists Beyond Napster, PC World (Mar. 15, 2001) <www.pc world.com/news/article/0,aid,44670,00.asp> (last visited Jan. 19, 2005). Penn State University is developing P2P software that will allow faculty and students to create private sharing groups for disseminating research and teaching aids or completing group assignments. See Lionshare: Connecting and Extending Peer-to-Peer Networks, A Penn State Proposal to the Andrew W. Mellon Foundation 14-16 lionshare. its.psu.edu/main/info/docspresentation/lionshare_mellon_pdf (last visited Jan. 19, 2005).
+
+While there are clearly legitimate business models based on the development of P2P communities for noninfringing uses, petitioners' evidence suggests that those are not the areas of commerce in which respondents operate. According to petitioners, at least 90% of the file-sharing on respondents' networks involves infringing transfers of copyrighted material. Pet. 9-10 & n.7. Unlike Sony, there is no question here about fair use or the kind of copying most owners of copyrights would allow. This case involves perfect digital copying of the entirety of the work. Construed most favorably to petitioners, the evidence suggests that respondents have developed vast networks of members whose only common characteristic is apparently their desire to download copyrighted music and movie files without paying for them. "[I]ndividuals are attracted to [respondents'] software because of the ability to acquire copyrighted material free of charge." Pet. App. 50a (emphasis added).
+
+Moreover, respondents' revenue stream is based directly on their ability to increase the volume of their users' overwhelmingly infringing uses. As the district court concluded, "it is clear that [respondents] derive a financial benefit from the infringing conduct." Pet. App. 49a. Each time a user accesses respondents' networks, it triggers a flow of ads for which respondents receive compensation. Pet. 4. "The more individuals who download the software, the more advertising revenue [respondents] collect." Pet. App. 50a.
+
+To be sure, respondents generate advertising income from use of the networks without regard to whether the copying is lawful or unlawful. But here the overwhelming proportion of uses-each of which adds to respondents' bottom line-is infringing, and there appears to be no evidence that noninfringing uses by respondents' users are, or are likely to become, commercially significant in the relevant sense. The courts below did not suggest otherwise; instead, they based their holdings on the fact that certain content providers had consented to the sharing of their materials over respondents' networks. But, as noted, petitioners presented evidence that such noninfringing uses accounted for 10% or less of files downloaded using respondents' networks, and the lower courts cited no evidence, much less uncontroverted evidence, that the relative frequency of infringing to noninfringing uses was likely to change over time.
+
+To the contrary, there is every reason to suspect that respondents' networks, having been built initially around the draw of illegally downloaded copyrighted material, are likely to remain centered around that activity. A file-sharing network (like a swap meet) is attractive to the extent that users think they are likely to find what they are looking for there. See Napster I, 239 F.3d at 1023 (recognizing that "[m]ore users register with the Napster system as the 'quality and quantity of available music increases'") (citation omitted). A network provider whose business is built around the volume of use thus first needs to establish a critical mass of members offering files of interest to others before new users will want to join. Once the network has acquired a reputation for offering files of a certain kind, new users drawn to the network will tend to reinforce that characteristic. As the district court recognized, "[t]he ability to trade copyrighted songs and other copyrighted works certainly is a 'draw' for many users of Defendants' software," and defendants' user base numbers in the tens of millions "[a]s a result" of that draw. Pet. App. 49a-50a. The courts below offered no reason to expect that the file-sharing interests of respondents' user base will dramatically change in the future.
+
+The overwhelming predominance of infringing uses of respondents' networks, and the centrality of copyright infringement to the viability of respondents' businesses-both in the sense of serving as the "draw" around which respondents' user base was formed and as the continuing source of respondents' revenues-would, if proven, satisfy Sony's test for liability. Even if the evidence were less clear on those issues, moreover, the record relating to the other relevant indicia might also support the conclusion that respondents' businesses are not "substantially unrelated" to copyright infringement.
+
+Petitioners' evidence indicates that respondents "marketed themselves [to the public] as 'the next Napster,'" Pet. App. 35a, in order to attract Napster's users should Napster's own system be shut down for copyright infringement. Pet. 6 (quoting JER 3537). They have touted their systems' ability to locate "the specific file that a user wants," from a network of millions of users, including from multiple sources at the same time, and all in a way that "one user does not know the identity of the other."4 It is no accident, therefore, that the overwhelming percentage of uses of respondents' networks is for infringement. They have marketed themselves as optimally designed for that purpose.5
+
+Moreover, the court of appeals made no effort to assess the relative efficiency of respondents' systems for the potential noninfringing uses the court identified. In contrast to infringing downloads, which are available from legitimate sources only for a fee, the legitimately shared public domain works and other files on which the court of appeals relied could apparently also be located using conventional search engines and downloaded directly from the content providers' websites for free. See Pet. App. 11a (Wilco album available from band's website); Newby Decl. ¶ 3 (same for Project Gutenberg collection); Prelinger Decl. ¶¶ 11, 14 (same for Prelinger Archive). The court of appeals made no assessment of whether someone in search of public domain materials or Wilco songs would obtain it more efficiently using respondents' networks or by using a traditional search engine to locate the content provider's site, where the user could obtain additional information about the group and could be relatively confident that the file is what it purports to be and is free of viruses or other corruption. Nor did the court of appeals assess whether, if respondents' systems were limited to noninfringing uses, they would have been able to generate and retain the critical mass of users necessary to make the system functional for noninfringing searches. If the system could not develop and survive on the basis of noninfringing transfers, it is unlikely to be an efficient mechanism for such noninfringing uses.
+
+Finally, petitioners presented evidence indicating that, as characterized by the district court, filtering technology could be implemented "with relative ease" and would allow respondents' networks to "block out a substantial percentage" of copyrighted materials. Pet. App. 52a. While there is no independent duty under copyright law to monitor the uses to which customers put one's products, see note 3, supra, if a factfinder credited petitioners' evidence that there are readily available, easily implemented, and cost-effective safeguards, respondents' failure to implement them, in the face of the overwhelmingly illegal uses to which their products are allegedly put, would provide additional probative evidence that respondents' businesses are not "substantially unrelated" to copyright infringement. While respondents strenuously dispute the effectiveness of such technology and the ease with which it could be implemented, the court of appeals was wrong to ignore the relevance of this issue to the question whether summary judgment could be granted in respondents' favor.
+
+In short, petitioners' evidence would support a finding that respondents' businesses are the Internet equivalent of the pirate swap meet at issue in Fonovisa. Of course, not all flea markets or swap meets are built on the lure of copyright infringement, and not all P2P networks are either. But the evidence, taken in the light most favorable to petitioners, would support a finding that the "draw" of copyright infringement is so central to respondents' businesses that "the very success of the [respondents'] venture depends on the counterfeiting activity," Adobe Sys., 173 F. Supp. 2d at 1051; see Pet. App. 49a. Summary judgment was therefore inappropriate under Sony.
+
+II. RESPONDENTS MAY BE LIABLE UNDER THE MORE GENERAL RULE OF CONTRIBUTORY COPYRIGHT INFRINGEMENT FOR THEIR ACTIVE ROLE IN INDUCING COPYRIGHT INFRINGEMENT
+
+Even if the Court were to conclude that respondents are not liable under the particular version of contributory liability discussed in Sony, they might still be liable for their role in actively inducing copyright infringement. Sony establishes a particular rule of contributory liability for cases in which the assertion of secondary liability rests solely "on the fact that [the defendant] has sold equipment with constructive knowledge of the fact that its customers may use that equipment to make unauthorized copies of copyrighted material." 464 U.S. at 439. See id. at 440 (drawing upon 35 U.S.C. 271(c), which, as the Court summarized, establishes a rule of liability "predicated entirely on the sale of an article of commerce that is used by the purchaser to infringe a patent" (emphasis added)). Thus, while respondents refer to the rule in Sony as the "Betamax defense," Br. in Opp. 23, 25, 26, it is important to clarify that the existence of "commercially significant noninfringing uses" is a "defense" only against liability based exclusively on the sale of a product. Sony, 464 U.S. at 442. Success on that issue would not preclude a manufacturer's liability under other standards, including the active inducement prong of contributory liability. See id. at 438 (noting that Sony's advertisements had not "influenced or encouraged" infringement); id. at 439 & n.19 (Sony did "not 'intentionally induc[e]' its customers to make infringing uses of respondents' copyrights, nor does it supply its products to identified individuals known by it to be engaging in continuing infringement"). In this case, it appears that the record (read most favorably to petitioners) would support a finding that respondents are liable for their active role in inducing their users' copyright infringement.
+
+The active inducement prong of contributory infringement liability permits liability to be imposed on "one who, with knowledge of the infringing activity, induces * * * the infringing conduct of another." Gershwin, 443 F.2d at 1162. Inducement is, as the Court recognized in Sony, also recognized as a basis for secondary liability in other areas of intellectual property law, including patent law, 35 U.S.C. 271(b) ("Whoever actively induces infringement of a patent shall be liable as an infringer."), and trademark law, Inwood Labs., Inc. v. Ives Labs., Inc., 456 U.S. 844, 854-855 (1982) (recognizing contributory liability for one who "intentionally induc[es]" another to infringe a trademark). See Sony, 464 U.S. at 435, 439 n.19. In the copyright context, the traditional standard has been deemed satisfied by the defendant's "pervasive participation" in "creat[ing] the * * * audience" for infringing performances, Gershwin, 443 F.2d at 1163, or where the defendant actively "encouraged" the infringement, Cable/Home Communication, 902 F.2d at 846.
+
+Petitioners' evidence could support a finding that respondents do far more than merely provide a software product. Rather, they "set out deliberately to induce or aid infringement on an unprecedented scale," Pet. 23, by establishing an electronic swap meet for pirated music and movies. As discussed, respondents "marketed themselves [to the public] as 'the next Napster,'" Pet. App. 35a, in order to be positioned "to capture the flood of [Napster's] 32 million users that [would] be actively looking for an alternative" should Napster's own Internet piracy forum be shut down. Pet. 6 (quoting JER 3537). Those marketing efforts were central to the success of respondents' businesses, which depend upon attracting a critical mass of music-swappers who serve as the "draw" for additional customers and revenue. Pet. App. 49a; see Fonovisa, 76 F.3d at 263-264.
+
+According to petitioners, moreover, the evidence shows that respondents' networks have been "designed and modified to best enable and facilitate the infringement of copyrighted works," MGM Pet. C.A. Br. 8; see p. 25 & n. 4, supra, and that respondents have marketed their networks as optimally suited for infringement, such as by emphasizing the anonymity of copying and advertising how many tracks a search for Madonna retrieved on StreamCast as opposed to a legitimate service, MGM Pet. C.A. Br. 28 (citing JER 4627). Petitioners indicate that respondents "advised their users how to download copyrighted works, including The Matrix, Blair Witch Project, Tomb Raider, Pearl Harbor, Lord of the Rings, Resident Evil, and Big Fat Liar," and "included in promotional materials search results featuring The Eagles Greatest Hits * * * as well as music by Sting, Puff Daddy, Shania Twain, Bruce Springsteen, Miles Davis, Carlos Santana, and John Lee Hooker." Id. at 29, 30-31 (record citations omitted). Under those circumstances, even if the availability of noninfringing works on respondents' networks were enough to establish "commercially significant noninfringing uses," that would not negate respondents' potential liability for their active inducement of infringement.
+
+The court of appeals held that respondents could not be held liable under the doctrine of contributory liability because they lacked "reasonable knowledge of specific [acts of] infringement" at the time those acts took place. Pet. App. 12a. But, as the Seventh Circuit recognized, a defendant's "[w]illful blindness" is not a defense against contributory liability. Aimster, 334 F.3d at 650. See id. at 650-651 ("[A] service provider that would otherwise be a contributory infringer does not obtain immunity by using encryption to shield itself from actual knowledge of the unlawful purposes for which the service is being used."). If respondents have "intentionally structured their businesses to avoid secondary liability for copyright infringement," Pet. App. 54a, those efforts "to remain ignorant of users' real names and IP addresses 'since they are exchanging pirated music,'" id. at 35a, could suffice to establish that they had constructive knowledge of their users' acts of infringement.6
+
+CONCLUSION
+
+The judgment of the court of appeals should be reversed and the case remanded for further proceedings.
+
+Respectfully submitted.
+
+PAUL D. CLEMENT
+ Acting Solicitor General
+
+PETER D. KEISLER
+ Assistant Attorney General
+
+THOMAS G. HUNGAR
+ Deputy Solicitor General
+
+DOUGLAS H. HALLWARD-DRIEMEIER
+ Assistant to the Solicitor
+ General
+
+SCOTT R. MCINTOSH
+ ANTHONY A. YANG
+ LEWIS S. YELIN
+ Attorneys
+
+DAVID O. CARSON
+ General Counsel
+ United States Copyright
+ Office
+
+JAMES A. TOUPIN
+ General Counsel
+
+JOHN M. WHEALAN
+ Deputy General Counsel for
+ Intellectual Property Law
+ Patent and Trademark
+ Office
+
+JANUARY 2005
+
+1 The United States has been unable to review the bulk of the summary judgment record in this case because it was filed under seal and respondents (citing a concern about the possibility of a criminal investigation) declined to consent to our review. Accordingly, our discussion of the evidence is necessarily based upon those portions of the record that were not sealed or have been made public, and on statements regarding the record in the parties' briefs and in the opinions below.
+
+2 With the exception of notes 3 and 6, infra, the focus of this brief is limited to the applicable theories of contributory liability. As appropriate, however, the brief draws upon cases decided under the label of vicarious liability to inform the understanding of the elements of contributory liability. See Sony, 464 U.S. at 435 n.17 (recognizing that the lines between direct, contributory, and vicarious copyright liability often "'are not clearly drawn'" and that secondary liability claims may require courts to address pertinent "arguments and case law which may also be forwarded under * * * other labels").
+
+3 To the extent that petitioners' argument concerning vicarious liability could be construed as suggesting the imposition of such an obligation, such a rule is neither desirable nor supported by precedent. In many situations in which a party derives a financial benefit from the actions of another, it is possible for the parties to structure their relationship in a fashion that would permit one party to exercise control over the other, such as by leasing, rather than selling, a product on terms that allow continued supervision over its use. The "right and ability to supervise" element of vicarious liability, see Gershwin, 443 F.2d at 1162, has never, to our knowledge, been held to be satisfied by the mere fact that the defendant could restructure its relations or its product to obtain such an ability. Rather, the law of vicarious liability looks at the extent of control the defendant actually possesses. See id. at 1163 (despite lack of "formal control," defendant's practical control over local concert associations put it "in a position to police the infringing conduct"); Shapiro, Bernstein & Co. v. H.L. Green Co., 316 F.2d 304, 306 (2d Cir. 1963) (emphasizing that department store retained "'unreviewable discretion' * * * to discharge any employee [of the record department] believed to be conducting himself improperly"). The imposition of an independent obligation to arrange one's product or relations in a way to permit the seller to retain control would have the undesirable effect of chilling technological innovation and constraining the product development options of developers of software and other digital technologies.
+
+4 See Morpheus(tm) Launches 4.5 with NEOnet Next Generation Peer-to-Peer Technology Developed by Harvard Computer Scientists (Oct. 6, 2004); New Morpheus(tm) 4 Software Released Today Connects Users of All Major Peer-to-Peer File-Sharing Networks (Feb. 3, 2004); New Morpheus(tm) 3.2 File-Sharing Software Released with Innovative Privacy and Security Features (July 15, 2003). Each of those news releases may be found at: www.streamcastnetworks.com/FullPress.html (last visited Jan. 19, 2005).
+
+5 Respondents' business model stands in stark contrast to Penn State's Lionshare, which uses P2P technology to build a virtual "community" based on principles of authentication, authorization and access control, which enable the network to confirm a user's identity, permit users to identify the individuals or groups who may have access to a file and, if necessary, allow the network operator to track those who engage in improper activity. Lionshare: Connecting and Extending Peer-to-Peer Networks, Lionshare Whitepaper 2, 3, 10-11 (2004) <lionshare.its.psu.edu/main/info/docspresentation/LionShareWP.pdf> (last visited Jan. 19, 2005).
+
+6 Because the judgment of the court of appeals should be reversed for the reasons set forth above, there is no need for the Court to address petitioners' theory of vicarious liability. We note, however, that the "ability to supervise" element of that doctrine cannot be satisfied by proof that respondents could have modified their products so as to retain control over their users' conduct, because there is no independent legal duty to modify one's product or arrangements with users to allow for the exercise of such control. See note 3, supra. 
+
+Brief
+
+              2004-0480.mer.ami.pdf
+
+  [PDF, 
+
+]
+
+Updated October 21, 2014

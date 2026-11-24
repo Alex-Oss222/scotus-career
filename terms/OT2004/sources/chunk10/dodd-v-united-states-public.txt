@@ -1,0 +1,78 @@
+Source: dodd-v-united-states_merits_2005-06-20.md / Public Projection
+
+
+
+## Event
+
+Dodd v. United States, No. 04-5286. Merits decision June 20, 2005; argued March 22, 2005. On writ of certiorari to the United States Court of Appeals for the Eleventh Circuit. The question is whether the year under 28 U.S.C. §2255 paragraph 6(3) begins with this Court’s initial recognition of the right or a later decision making the right retroactively applicable.
+
+Dodd moved on April 4, 2001, to set aside his continuing-criminal-enterprise conviction under Richardson v. United States, decided June 1, 1999, which requires jury unanimity on the specific predicate violations. The District Court dismissed the motion as untimely and rejected equitable tolling. The Eleventh Circuit affirmed the initial-recognition clock. Dodd invokes that court’s April 19, 2002 retroactivity decision in Ross.
+
+## Participation
+
+All nine Justices participated.
+
+## Public Action
+
+The judgment of the Court of Appeals for the Eleventh Circuit is affirmed (5–4).
+
+## Judgment & Remedy
+
+**Affirmed, 5–4.**
+
+**Supporting:** Stone-Zsela, O’Connor, Scalia, Kennedy, and Thomas.
+**Opposing:** Stevens, Souter, Ginsburg, and Breyer.
+
+The dismissal of Dodd’s §2255 motion as untimely remains effective.
+
+## Opinion Topology
+
+THOMAS, J., delivered the opinion of the Court, in which Stone-Zsela, O'Connor, Scalia, Kennedy joined. STEVENS, J., filed a dissenting opinion, in which SOUTER, GINSBURG, and BREYER, JJ., joined.
+
+| Writing | Author | Joins and scope |
+|---|---|---|
+| Opinion of the Court | Thomas | Stone-Zsela, O'Connor, Scalia, Kennedy; entire timing holding and application |
+| Dissent | Stevens | Souter, Ginsburg, Breyer; completed-retroactivity-condition timing ground |
+
+## Holdings
+
+### Initial recognition starts the special filing year
+
+**Operative rule.** Under §2255 paragraph 6(3), the one-year limitation runs from the Supreme Court’s initial recognition of the asserted right, provided the right is newly recognized and made retroactively applicable on collateral review. A later retroactivity determination does not restart that year; Richardson initially recognized the right Dodd asserts on June 1, 1999, making his April 4, 2001 motion untimely under this trigger even assuming its retroactive qualification.
+
+**Authority.** The complete Court opinion is joined by Stone-Zsela, O’Connor, Scalia, Kennedy, and Thomas.
+
+**Controlling explanation.** The statute names a date and then limits the rights eligible to use it. Treating the retroactivity condition as a second date replaces the event Congress selected. Both conditions must be satisfied for paragraph 6(3) to apply, but satisfying them does not change the initial-recognition date. Richardson supplies that date and the predicate-unanimity right at issue.
+
+Paragraph 6 uses the latest independently qualifying event. Clay v. United States supplies the separate finality rule, and the factual-discovery provision has its own due-diligence condition. Those provisions do not turn a later legal retroactivity decision into a new recognition event. The Court assumes the collateral qualification in Dodd’s favor because the timing defect is independently decisive.
+
+The contrary reading responds to a serious practical concern: the year may expire before retroactivity is established. That concern is especially acute for a successive motion, whose separate authorization provision requires a previously unavailable new constitutional rule made retroactive by this Court. Tyler v. Cain permits express retroactivity or holdings whose necessary propositions jointly compel it; eligibility can therefore be established through existing holdings. But that possibility does not guarantee that every right will qualify within a year. The statute’s strict interaction does not authorize a judicially substituted clock.
+
+The general availability of equitable tolling is outside the granted timing question. The identity of the court competent to establish paragraph 6(3)’s retroactivity qualification, and the predicate-instruction merits, likewise need not be decided to resolve that question on the assumed qualification.
+
+**Precedent treatment.** Richardson is applied to recognition; Clay retains its distinct finality function; Tyler is distinguished as a retroactivity-eligibility rule rather than a timing reset.
+
+## Precedent Treatment
+
+- **Richardson v. United States:** Applied to identify the predicate-unanimity right and its June 1, 1999 initial recognition.
+- **Clay v. United States:** Applied at its finality scope; paragraph 6(1) and paragraph 6(3) remain different triggers.
+- **Tyler v. Cain:** Distinguished from the clock question. Its express-holding and necessarily-compelling-multiple-holdings routes to retroactivity retain their force; neither creates a later initial-recognition date.
+- **Johnson v. United States:** Its factual-discovery construction concerns a different paragraph and does not replace the enacted new-right trigger.
+
+## Law After Decision
+
+For initial and successive §2255 motions invoking paragraph 6(3), courts calculate the year from initial Supreme Court recognition and separately test the new-right and retroactivity qualifications. A later retroactivity decision supplies no restart. The latest-event structure continues to permit another statutory trigger only when that trigger’s own conditions are met; successive-motion authorization remains an additional requirement.
+
+## Separate Writings
+
+**Stevens, joined by Souter, Ginsburg, and Breyer, dissenting.** The dissent would read the new-right and retroactivity conditions together so that the special year begins when both are satisfied. A period that predictably can be consumed before the collateral qualification exists frustrates the opportunity Congress supplied. The completed-condition reading is textually permissible because the subordinate clause describes the qualifying right and can identify the point at which the provision becomes usable. The ordinary concern for a complete claim and the statutory structure support that construction.
+
+Tyler’s multiple-holdings route can establish retroactivity and has been applied to the confined Cage rule, but it does not ensure prompt qualification of every newly recognized right. The dissent’s concern remains the short year expiring before a qualifying collateral route is available, particularly in combination with successive-motion authorization. It would reverse the timing dismissal and remand for any remaining qualification and merits questions. The shared ground rests on the assumed qualification in this case and does not resolve which court may make the retroactivity determination.
+
+## Procedure After Action
+
+The mandate affirms the Eleventh Circuit’s judgment. The limitations dismissal remains in force on the initial-recognition ground.
+
+## Source Notes
+
+No. 04-5286; 28 U.S.C. §2255, paragraphs 6(1)–(4) and 8(2), as operative in this case; Dodd v. United States, 365 F.3d 1273; Richardson v. United States, 526 U.S. 813; Ross v. United States, 289 F.3d 677. Retroactive qualification is assumed solely to decide the independently dispositive clock question.

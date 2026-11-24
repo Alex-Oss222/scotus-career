@@ -1,0 +1,170 @@
+{
+  "checks": [
+    {
+      "command": [
+        "python",
+        "-B",
+        "tools/split_chunk.py",
+        "terms/OT2004/briefs/OT_2004CHUNK10.md",
+        "--check"
+      ],
+      "exit_code": 0,
+      "output": "OK: 15 matters; runtime split is current",
+      "errors": ""
+    },
+    {
+      "command": [
+        "python",
+        "-B",
+        "tools/holdings_volumes.py",
+        "check"
+      ],
+      "exit_code": 0,
+      "output": "OK: Holdings volumes and compatibility view are synchronized",
+      "errors": ""
+    },
+    {
+      "command": [
+        "python",
+        "-B",
+        "terms/OT2004/tmp/chunk10_resumed_validate.py"
+      ],
+      "exit_code": 0,
+      "output": "Chunk10 records: 13 errors: []",
+      "errors": ""
+    },
+    {
+      "command": [
+        "python",
+        "-B",
+        "terms/OT2004/tmp/check-term-no-history.py",
+        "OT2004"
+      ],
+      "exit_code": 0,
+      "output": "INVENTORY FORMAT: all 105 numbered current-index rows are recognized; original coverage checks remain active.\nVALIDATION LIMIT: repository-history reference existence checks are explicitly skipped under the user instruction. No repository-history command will run.\nOK: OT2004; 0 warning(s)\nVALIDATION LIMIT: 0 distinct history reference(s) were not verified. Any checker OK applies only to the remaining deterministic checks.",
+      "errors": ""
+    }
+  ],
+  "runtime_frozen_identity": [
+    {
+      "file": "OT_2004CHUNK10_ALLAPATTAH_RECONCILED.md",
+      "identical": true
+    },
+    {
+      "file": "OT_2004CHUNK10_A_LATE_JUNE20_RECONCILIATION_SCREEN.md",
+      "identical": true
+    },
+    {
+      "file": "OT_2004CHUNK10_BELL_RECONCILED.md",
+      "identical": true
+    },
+    {
+      "file": "OT_2004CHUNK10_BRAND_X_RECONCILED.md",
+      "identical": true
+    },
+    {
+      "file": "OT_2004CHUNK10_CASTLE_ROCK_RECONCILED.md",
+      "identical": true
+    },
+    {
+      "file": "OT_2004CHUNK10_COMMITMENTS_A.md",
+      "identical": true
+    },
+    {
+      "file": "OT_2004CHUNK10_COMMITMENTS_A_Allapattah.md",
+      "identical": true
+    },
+    {
+      "file": "OT_2004CHUNK10_COMMITMENTS_A_Eulitt.md",
+      "identical": true
+    },
+    {
+      "file": "OT_2004CHUNK10_COMMITMENTS_A_Gonzalez.md",
+      "identical": true
+    },
+    {
+      "file": "OT_2004CHUNK10_COMMITMENTS_A_Gonzalez_REFRESHED.md",
+      "identical": true
+    },
+    {
+      "file": "OT_2004CHUNK10_COMMITMENTS_A_JUNE20_SCREEN.md",
+      "identical": true
+    },
+    {
+      "file": "OT_2004CHUNK10_COMMITMENTS_A_Kelo.md",
+      "identical": true
+    },
+    {
+      "file": "OT_2004CHUNK10_COMMITMENTS_A_Kelo_REFRESHED.md",
+      "identical": true
+    },
+    {
+      "file": "OT_2004CHUNK10_COMMITMENTS_A_MidCon.md",
+      "identical": true
+    },
+    {
+      "file": "OT_2004CHUNK10_COMMITMENTS_A_MidCon_REFRESHED.md",
+      "identical": true
+    },
+    {
+      "file": "OT_2004CHUNK10_COMMITMENTS_B.md",
+      "identical": true
+    },
+    {
+      "file": "OT_2004CHUNK10_COMMITMENTS_B_HALBERT_REFRESHED.md",
+      "identical": true
+    },
+    {
+      "file": "OT_2004CHUNK10_COMPARATOR.md",
+      "identical": true
+    },
+    {
+      "file": "OT_2004CHUNK10_EULITT_RECONCILED.md",
+      "identical": true
+    },
+    {
+      "file": "OT_2004CHUNK10_GONZALEZ_RECONCILED.md",
+      "identical": true
+    },
+    {
+      "file": "OT_2004CHUNK10_GREEN_PARTY_RECONCILED.md",
+      "identical": true
+    },
+    {
+      "file": "OT_2004CHUNK10_GROKSTER_RECONCILED.md",
+      "identical": true
+    },
+    {
+      "file": "OT_2004CHUNK10_HALBERT_RECONCILED.md",
+      "identical": true
+    },
+    {
+      "file": "OT_2004CHUNK10_KELO_RECONCILED.md",
+      "identical": true
+    },
+    {
+      "file": "OT_2004CHUNK10_MAYLE_RECONCILED.md",
+      "identical": true
+    },
+    {
+      "file": "OT_2004CHUNK10_MCCREARY_RECONCILED.md",
+      "identical": true
+    },
+    {
+      "file": "OT_2004CHUNK10_MID_CON_RECONCILED.md",
+      "identical": true
+    },
+    {
+      "file": "OT_2004CHUNK10_ORFF_RECONCILED.md",
+      "identical": true
+    },
+    {
+      "file": "OT_2004CHUNK10_VAN_ORDEN_RECONCILED.md",
+      "identical": true
+    }
+  ],
+  "history_verification": "Not performed under the operator instruction. The inspected term adapter disables history-object existence calls before invoking the checker.",
+  "completed_scheduled_events": 103,
+  "stopped_scheduled_events": 2,
+  "chunk_completed_events": 13
+}

@@ -1,0 +1,81 @@
+{
+  "protected_files_checked": 1617,
+  "protected_changes": [],
+  "current_files_scanned": 194,
+  "restricted_content_files": [],
+  "runtime_freeze_pairs": [
+    {
+      "name": "OT_2004CHUNK10_ALLAPATTAH_RECONCILED.md",
+      "identical": true
+    },
+    {
+      "name": "OT_2004CHUNK10_COMMITMENTS_A.md",
+      "identical": true
+    },
+    {
+      "name": "OT_2004CHUNK10_COMMITMENTS_A_Allapattah.md",
+      "identical": true
+    },
+    {
+      "name": "OT_2004CHUNK10_COMMITMENTS_A_Eulitt.md",
+      "identical": true
+    },
+    {
+      "name": "OT_2004CHUNK10_COMMITMENTS_A_Gonzalez.md",
+      "identical": true
+    },
+    {
+      "name": "OT_2004CHUNK10_COMMITMENTS_A_Gonzalez_REFRESHED.md",
+      "identical": true
+    },
+    {
+      "name": "OT_2004CHUNK10_COMMITMENTS_A_JUNE20_SCREEN.md",
+      "identical": true
+    },
+    {
+      "name": "OT_2004CHUNK10_COMMITMENTS_A_Kelo.md",
+      "identical": true
+    },
+    {
+      "name": "OT_2004CHUNK10_COMMITMENTS_A_Kelo_REFRESHED.md",
+      "identical": true
+    },
+    {
+      "name": "OT_2004CHUNK10_COMMITMENTS_A_MidCon.md",
+      "identical": true
+    },
+    {
+      "name": "OT_2004CHUNK10_COMMITMENTS_A_MidCon_REFRESHED.md",
+      "identical": true
+    },
+    {
+      "name": "OT_2004CHUNK10_COMMITMENTS_B.md",
+      "identical": true
+    },
+    {
+      "name": "OT_2004CHUNK10_COMPARATOR.md",
+      "identical": true
+    },
+    {
+      "name": "OT_2004CHUNK10_EULITT_RECONCILED.md",
+      "identical": true
+    },
+    {
+      "name": "OT_2004CHUNK10_GREEN_PARTY_RECONCILED.md",
+      "identical": true
+    },
+    {
+      "name": "OT_2004CHUNK10_MAYLE_RECONCILED.md",
+      "identical": true
+    },
+    {
+      "name": "OT_2004CHUNK10_MID_CON_RECONCILED.md",
+      "identical": true
+    },
+    {
+      "name": "OT_2004CHUNK10_ORFF_RECONCILED.md",
+      "identical": true
+    }
+  ],
+  "scope": "Explicit permitted input and term paths only. No repository-history command or locked-directory access."
+}

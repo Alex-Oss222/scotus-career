@@ -1,0 +1,486 @@
+
+
+  
+
+  
+
+	
+
+	
+
+	
+
+MCCREARY COUNTY V. AMERICAN CIVIL LIBERTIESUNION OF KY.
+
+ 
+
+MCCREARY COUNTY V. AMERICAN CIVIL LIBERTIESUNION OF KY. (03-1693) 
+
+354 F.3d 438, affirmed.
+
+Syllabus
+
+ 
+
+Opinion
+
+ [ Souter ]
+
+Concurrence
+
+ [ O’Connor ]
+
+Dissent
+
+ [ Scalia ]
+
+HTML version
+
+PDF version
+
+HTML version
+
+PDF version
+
+HTML version
+
+PDF version
+
+HTML version
+
+PDF version
+
+Syllabus
+
+NOTE: 
+Where it is feasible, a syllabus (headnote) will be
+released, as is being done in connection with this case, at the
+time the opinion is issued.
+The syllabus constitutes no part
+of the opinion of the Court but has been prepared by the
+Reporter of Decisions for the convenience of the reader.
+See
+
+United States
+ v. 
+Detroit Timber & Lumber Co.,
+
+200 U.S. 321
+,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+McCREARY COUNTY, KENTUCKY, et al.
+
+v
+. AMERICAN CIVIL LIBERTIES UNION OF KENTUCKY
+et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE SIXTH CIRCUIT
+
+ 
+No. 03—1693.
+
+Argued March 2,
+2005–Decided June 27, 2005
+
+After petitioners, two Kentucky Counties,
+each posted large, readily visible copies of the Ten
+Commandments in their courthouses, respondents, the American
+Civil Liberties Union (ACLU) et al., sued under 
+42 U.S.C. §
+1983
+ to enjoin the displays on the ground that they
+violated the 
+First
+Amendment
+’s Establishment Clause.  The Counties then
+adopted nearly identical resolutions calling for a more
+extensive exhibit meant to show that the Commandments are
+Kentucky’s “precedent legal code.”  The
+resolutions noted several grounds for taking that position,
+including the state legislature’s acknowledgment of Christ
+as the “Prince of Ethics.”  The displays around the
+Commandments were modified to include eight smaller, historical
+documents containing religious references as their sole common
+element, 
+e.g.,
+ the Declaration of Independence’s
+“endowed by their Creator” passage.  Entering a
+preliminary injunction, the District Court followed the
+
+Lemon
+ v. 
+Kurtzman,
+
+403 U.S. 602
+, test to
+find, 
+inter alia
+, that the original display lacked any
+secular purpose because the Commandments are a distinctly
+religious document, and that the second version lacked such a
+purpose because the Counties narrowly tailored their selection
+of foundational documents to those specifically referring to
+Christianity.  After changing counsel, the Counties revised the
+exhibits again.  No new resolution authorized the new exhibits,
+nor did the Counties repeal the resolutions that preceded the
+second one.  The new posting, entitled “The Foundations of
+American Law and Government Display,” consists of nine
+framed documents of equal size.  One sets out the Commandments
+explicitly identified as the “King James Version,”
+quotes them at greater length, and explains that they have
+profoundly influenced the formation of Western legal thought
+and this Nation.  With the Commandments are framed copies of,
+
+e.g.,
+ the Star Spangled Banner’s lyrics and the
+Declaration of Independence, accompanied by statements about
+their historical and legal significance.  On the ACLU’s
+motion, the District Court included this third display in the
+injunction despite the Counties’ professed intent to show
+that the Commandments were part of the foundation of American
+Law and Government and to educate County citizens as to the
+documents.  The court took proclaiming the Commandments’
+foundational value as a religious, rather than secular, purpose
+under 
+Stone
+ v. 
+Graham,
+
+449 U.S. 39
+, and found
+that the Counties’ asserted educational goals crumbled
+upon an examination of this litigation’s history. 
+Affirming, the Sixth Circuit stressed that, under 
+Stone
+,
+displaying the Commandments bespeaks a religious object unless
+they are integrated with a secular message.  The court saw no
+integration here because of a lack of a demonstrated analytical
+or historical connection between the Commandments and the other
+documents.  
+
+Held: 
+
+    1. A
+determination of the Counties’ purpose is a sound basis
+for ruling on the Establishment Clause complaints.  The
+Counties’ objective may be dispositive of the
+constitutional enquiry.  Pp. 10—19.
+
+ 
+        (a) 
+Lem
+on
+’s “secular legislative purpose” enquiry,
+403 U.S., at 612, has been a common, albeit seldom dispositive,
+element of this Court’s cases, 
+Wallace
+ v.
+
+Jaffree,
+
+472
+U.S. 38
+, 75.  When the government acts with the ostensible
+and predominant purpose of advancing religion, it violates the
+central Establishment Clause value of official religious
+neutrality, there being no neutrality when the
+government’s ostensible object is to take sides. 
+
+Corporation of Presiding Bishop of Church of Jesus Christ of
+Latter&nbhyph;day Saints
+ v. 
+Amos,
+
+483 U.S. 327
+, 335.  A
+purpose to favor one faith over another, or adherence to
+religion generally, clashes with the “understanding …
+that liberty and social stability demand a … tolerance
+that respects the religious views of all citizens.” 
+
+Zelman
+ v. 
+Simmons-Harris,
+
+536 U.S. 639
+, 718. 
+Pp. 11—12.
+
+ 
+        (b) The
+Court declines the Counties’ request to abandon
+
+Lemon
+’s purpose test.  Their assertions that true
+“purpose” is unknowable, and its search merely an
+excuse for courts to act selectively and unpredictably in
+picking out evidence of subjective intent, are as seismic as
+they are unconvincing.	Examination of purpose is a staple of
+statutory interpretation for every American appellate court,
+
+e.g.,
+
+General Dynamics Land Systems, Inc.
+ v.
+
+Cline,
+
+540 U.S.
+581
+, 600, and governmental purpose is a key element of a
+good deal of constitutional doctrine, 
+e.g.
+,
+
+Washington
+ v. 
+Davis,
+
+426 U.S. 229
+. 
+Scrutinizing purpose makes practical sense in Establishment
+Clause analysis, where an understanding of official objective
+emerges from readily discoverable fact set forth in a
+statute’s text, legislative history, and implementation or
+comparable official act.  
+Wallace
+ v. 
+Jaffree, 
+472
+U.S., at 73—74.  Nor is there any indication that the
+purpose enquiry is rigged in practice to finding a religious
+purpose dominant every time a case is filed. 
+Pp. 12—15.
+
+ 
+        (c) The
+Court also avoids the Counties’ alternative tack of
+trivializing the purpose enquiry.  They would read the
+Court’s cases as if the enquiry were so naive that any
+transparent claim to secularity would satisfy it, and they
+would cut context out of the enquiry, to the point of ignoring
+history, no matter what bearing it actually had on the
+significance of current circumstances.	There is no precedent
+for these arguments, or reason supporting them. 
+Pp. 15—19.
+
+ 
+          &nb
+sp; (1) A legislature’s stated reasons will
+generally warrant the deference owed in the first instance to
+such official claims, but 
+Lemon
+ requires the secular
+purpose to be genuine, not a sham, and not merely secondary to
+a religious objective, see, 
+e.g., Santa Fe Independent
+School Dist.
+ v. 
+Doe
+, 
+530 U.S. 290
+, 308. 
+In those unusual cases where the claim was an apparent sham, or
+the secular purpose secondary, the unsurprising results have
+been findings of no adequate secular object, as against a
+predominantly religious one.  See
+, e.g., Stone, supra
+,
+at 41.	Pp. 15—17.
+
+ 
+          &nb
+sp; (2) The Counties’ argument that purpose in a
+case like this should be inferred only from the latest in a
+series of governmental actions, however close they may all be
+in time and subject, bucks common sense.  Reasonable observers
+have reasonable memories, and the Court’s precedents
+sensibly forbid an observer “to turn a blind eye to the
+context in which [the] policy arose.”  
+Santa Fe,
+supra
+, at 315.  Pp. 17—19.
+
+ 
+    2. Evaluation of the
+Counties’ claim of secular purpose for the ultimate
+displays may take their evolution into account.  The
+development of the presentation should be considered in
+determining its purpose.  Pp. 19—26.
+
+ 
+        (a) 
+Sto
+ne 
+is the Court’s initial benchmark as its only case
+dealing with the constitutionality of displaying the
+Commandments.  It recognized that the Commandments are an
+“instrument of religion” and that, at least on the
+facts before the Court, their text’s display could
+presumptively be understood as meant to advance religion:
+although state law specifically required their posting in
+classrooms, their isolated exhibition did not allow even for an
+argument that secular education explained their being there. 
+449 U.S., at 41, n. 3.  But 
+Stone
+ did not purport
+to decide the constitutionality of every possible way the
+government might set out the Commandments, and under the
+Establishment Clause detail is key, 
+County of Allegheny
+
+v. 
+American Civil Liberties Union, Greater Pittsburgh
+Chapter,
+
+492 U.S.
+573
+, 595.  Hence, the Court looks to the record showing the
+progression leading up to the Commandments’ third display,
+beginning with the first.  Pp. 19—20.
+
+ 
+        (b) There
+
+are two obvious similarities between the display
+
+Stone 
+rejected and the first one here: both set out the
+Commandments’ text as distinct from any traditionally
+symbolic representation like blank tablets, and each stood
+alone, not as part of an arguably secular display. 
+
+Stone
+ stressed the significance of integrating the
+Commandments into a secular scheme to forestall the broadcast
+of an otherwise clearly religious message, 449 U.S., at 42, and
+for good reason, the Commandments being a central point of
+reference in the religious and moral history of Jews and
+Christians.  They proclaim the existence of a monotheistic god
+(no other gods), regulate details of religious obligation (no
+graven images, sabbath breaking, or vain oath swearing), and
+unmistakably rest even the universally accepted prohibitions
+(as against murder, theft, etc.) on the sanction of the
+divinity proclaimed at the text’s beginning.  Displaying
+that text is thus different from symbolic representation, like
+tablets with 10 roman numerals, which could be seen as alluding
+to a general notion of law, not a sectarian conception of
+faith.	Where the text is set out, the insistence of the
+religious message is hard to avoid in the absence of a context
+plausibly suggesting a message going beyond an excuse to
+promote the religious point of view.  The display in
+
+Stone
+ had no such context, and the Counties’ solo
+exhibit here did nothing more to counter the sectarian
+implication than the 
+Stone
+ postings.  The reasonable
+observer could only think that the Counties meant to emphasize
+and celebrate the Commandments’ religious message. 
+Pp. 20—21.
+
+ 
+        (c) The
+Counties’ second display, unlike the first, did not hang
+the Commandments in isolation, but included the statement of
+the government’s purpose expressly set out in the county
+resolutions, and underscored it by juxtaposing the Commandments
+to other documents whose references to God were highlighted as
+their sole common element.  The display’s unstinting focus
+was on religious passages, showing that the Counties posted the
+Commandments precisely because of their sectarian content. 
+That demonstration of the government’s objective was
+enhanced by serial religious references and the accompanying
+resolutions’ claim about the embodiment of ethics in
+Christ.  Together, the display and resolution presented an
+indisputable, and undisputed, showing of an impermissible
+purpose.  Pp. 21—22.
+
+ 
+        (d) The
+lower courts’ conclusion that no legitimizing secular
+purpose prompted the Counties’ third display, the
+“Foundations of American Law and Government” exhibit,
+is amply justified.  That display placed the Commandments in
+the company of other documents the Counties deemed especially
+significant in the historical foundation of American
+government.  In trying to persuade the District Court to lift
+the preliminary injunction, the Counties cited several new
+purposes for the third version, including a desire to educate
+County citizens as to the significance of the documents
+displayed.  The Counties’ claims, however, persuaded
+neither that court, which was intimately familiar with this
+litigation’s details, nor the Sixth Circuit.  Where both
+lower courts were unable to discern an arguably valid secular
+purpose, this Court normally should hesitate to find one. 
+
+Edwards
+ v. 
+Aguillard
+, 
+482 U.S. 578
+, 594. 
+The Counties’ new statements of purpose were presented
+only as a litigating position, there being no further
+authorizing resolutions by the Counties’ governing boards.
+ And although repeal of the earlier county authorizations would
+not have erased them from the record of evidence bearing on
+current purpose, the extraordinary resolutions for the second
+displays passed just months earlier were not repealed or
+otherwise repudiated.  Indeed, the sectarian spirit of the
+resolutions found enhanced expression in the third display,
+which quoted more of the Commandment’s purely religious
+language than the first two displays had done.	No reasonable
+observer, therefore, could accept the claim that the Counties
+had cast off the objective so unmistakable in the earlier
+displays.  Nor did the selection of posted material suggest a
+clear theme that might prevail over evidence of the continuing
+religious object.  For example, it is at least odd in a
+collection of documents said to be “foundational” to
+include a patriotic anthem, but to omit the 
+Fourteenth
+Amendment
+, the most significant structural provision
+adopted since the original framing.  An observer would probably
+suspect the Counties of reaching for any way to keep a
+religious document on the walls of courthouses constitutionally
+required to embody religious neutrality. 
+Pp. 22—25.
+
+ 
+        (e) In
+holding that the preliminary injunction was adequately
+supported by evidence that the Counties’ purpose had not
+changed at the third stage, the Court does not decide that the
+Counties’ past actions forever taint any effort on their
+part to deal with the subject matter.  The Court holds only
+that purpose is to be taken seriously under the Establishment
+Clause and is to be understood in light of context.  District
+courts are fully capable of adjusting preliminary relief to
+take account of genuine changes in constitutionally significant
+conditions.  Nor does the Court hold that a sacred text can
+never be integrated constitutionally into a governmental
+display on law or history.  Its own courtroom frieze depicts
+Moses holding tablets exhibiting a portion of the secularly
+phrased Commandments; in the company of 17 other lawgivers,
+most of them secular figures, there is no risk that Moses would
+strike an observer as evidence that the National Government was
+violating religious neutrality.  P. 26.
+
+354 F.3d 438, affirmed.
+
+    Souter, J., delivered
+the opinion of the Court, in which Stevens, O’Connor,
+Ginsburg, and Breyer, JJ., joined.  O’Connor, J., filed a
+concurring opinion.  Scalia, J., filed a dissenting opinion, in
+which Rehnquist, C. J., and Thomas, J., joined, and in
+which Kennedy, J., joined as to Parts II and III.
+
+ 

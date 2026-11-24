@@ -1,0 +1,84 @@
+Source: clingman-v-beaver_merits_2005-05-23.md / Public Projection
+
+
+
+## Event
+
+Clingman v. Beaver, No. 04-37. Argued January 19, 2005; decided May 23, 2005. On writ of certiorari to the United States Court of Appeals for the Tenth Circuit, which reversed the judgment for Oklahoma and directed relief against its semiclosed-primary restriction. The question is whether Oklahoma may prevent a political party from inviting voters registered with other parties into its primary while permitting invitations to independents. The Libertarian Party sought to invite all registered voters; the State excluded those retaining another party registration. The completed original primary leaves the continuing rule and prospective relief in controversy.
+
+## Participation
+
+Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at argument and decision.
+
+## Public Action
+
+The Court affirms the judgment against the challenged exclusion and remands for prospective relief consistent with its opinion.
+
+## Judgment & Remedy
+
+**Affirmed and remanded, 5–4.**
+
+**Supporting:** Stone-Zsela, Stevens, Kennedy, Souter and Ginsburg.
+
+**Opposing:** O'Connor, Scalia, Thomas and Breyer.
+
+The judgment invalidating the continued-registration exclusion is affirmed under contextual review. The mandate confines prospective relief to qualified parties' voluntary invitations and otherwise eligible voters, with implementation as stated in Part III.
+
+## Opinion Topology
+
+STONE-ZSELA, C. J., delivered the opinion of the Court, unanimous as to Part I and joined by STEVENS, KENNEDY, SOUTER and GINSBURG, JJ., as to Parts II and III. O'CONNOR, J., filed an opinion concurring in part and dissenting in part, in which SCALIA, THOMAS and BREYER, JJ., joined.
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court | Stone-Zsela | All eight Associates in Part I; Stevens, Kennedy, Souter and Ginsburg in Parts II–III | Affirmance and prospective remand | I: protected association and contextual review; II: insufficient justification; III: implementing relief |
+| Opinion concurring in part and dissenting in part | O'Connor | Scalia, Thomas, Breyer | Would reverse | Joins Part I; sustains the limited registration-choice condition |
+
+## Holdings
+
+### Protected association and the governing inquiry
+
+**Holding and operative rule:** A qualified party's invitation and an otherwise eligible voter's acceptance are protected political association even when the voter retains another party registration. A court must assess the actual burden, the State's precise interests and their fit under Anderson and Burdick: severe burdens require compelling justification and narrow tailoring; lesser burdens still require a sufficient regulatory connection.
+
+**Authority:** Part I, joined by all nine Justices, directly controls.
+
+**Controlling explanation:** Participation in an official nomination is legally effective association. Permission to campaign or endorse outside that process does not replace it. Timmons protects a consenting party's meaningful nomination choice; Tashjian protects invitations to independents while leaving other-party registrants for decision. Jones protects an objecting party against compelled outsiders. These decisions require attention to the parties' actual choices and the restriction's operation. Registration remains an administrable way to define an electorate, but its label does not eliminate the association that it burdens. The State may preserve a single nominating vote and genuine election administration through rules fitted to those purposes.
+
+### The continued-registration exclusion lacks sufficient justification
+
+**Holding and operative rule:** Oklahoma may not exclude an otherwise qualified voter from a consenting party's primary solely because the voter retains another party registration when the State has not shown a sufficient regulatory need for that exclusion. On this record the burden is substantial but not severe, and the categorical disaffiliation condition fails contextual review without automatic strict scrutiny.
+
+**Authority:** Part II, joined by Stone-Zsela, Stevens, Kennedy, Souter and Ginsburg, supplies five direct joins.
+
+**Controlling explanation:** Timmons requires a real connection between an electoral burden and the State's asserted stability interests. The trial findings rejected confusion, insuperable administrative difficulty and protection of the inviting Libertarian Party from its own choice. The legitimate interests in identifiable parties, orderly nominations and other parties' continuity remain, but the evidence does not connect this additional exclusion adequately to their preservation. The close-primary statistic shows that invited votes could change results; it does not demonstrate disorganization or corrupted nominations. Other parties may exclude unwanted voters from their own primaries, but that protection does not entitle them to prevent their registrants' willing association elsewhere. The dissent properly recognizes the legal significance of nomination and the ease of a registration choice. Those considerations do not explain why an exclusive primary vote and ordinary verification are insufficient here, or why continuing affiliation itself establishes a threat. The Court therefore affirms the constitutional judgment on the existing record while rejecting the appellate court's severe-burden classification.
+
+### Prospective relief follows the common exclusion
+
+**Holding and operative rule:** The prospective decree must protect qualified inviting parties and their otherwise eligible invited voters against the adjudicated categorical exclusion; Oklahoma may obtain narrower party-specific relief only by showing that it fully cures that same policy defect. The decree must preserve an unwilling party's choice, a voter's single primary vote, lawful deadlines, ordinary verification and independently valid eligibility conditions.
+
+**Authority:** Part III, joined by the five Justices supporting Part II, directly controls the remedy.
+
+**Controlling explanation:** Anderson v. Spear requires relief that corrects the unlawful operation for those governed by the policy unless the State establishes a fully effective narrower cure. Here the common defect is the demand to surrender an existing registration before accepting a qualified party's invitation. Naming only the plaintiffs does not itself establish that a smaller decree will cure it. Election officials must accept timely invitations and administer a single-primary choice without recreating the forbidden exclusion. The lower court must settle the implementing terms and any supported narrower-cure contention under this standard. The relief operates prospectively.
+
+## Precedent Treatment
+
+- Anderson v. Celebrezze and Burdick v. Takushi supply the contextual burden, precise-interest and fit inquiry; their graduated scrutiny remains controlling.
+- Timmons v. Twin Cities Area New Party is extended from meaningful consensual nomination to reciprocal primary invitations, preserving its substantial-but-not-severe analysis.
+- California Democratic Party v. Jones retains its protection against compelled outsider nomination; the party's consent distinguishes this case.
+- Tashjian v. Republican Party of Connecticut remains controlling for independent-voter invitations; its reserved other-party question is resolved at the consent-based scope stated here.
+- Anderson v. Spear supplies the common-policy remedy and the State's opportunity to establish a fully curative narrower decree.
+
+## Law After Decision
+
+Beginning with this decision, voluntary invitations to otherwise eligible voters retaining another affiliation receive the same contextual protection as other legally effective political association. Continued registration alone cannot justify the exclusion on the record adjudicated here. Genuine, distinct electoral threats remain subject to the burden-and-fit inquiry; ordinary one-primary administration and the autonomy of unwilling parties remain operative. The lower court's remaining work is implementation of the settled rule.
+
+## Separate Writings
+
+Justice O'Connor, joined by Scalia, Thomas and Breyer, concurs in Part I and dissents from invalidation and its remedy. The writing accepts real reciprocal and overlapping association and applies Anderson and Burdick, but regards the available formal choice of nominating affiliation as a limited burden supported by identifiable parties, campaign planning, nomination-system operation and other-party continuity. Preventive regulation need not await a proved corrupted election. Timmons's protection of a consenting candidate designation does not, in their view, eliminate a distinct affiliation choice for selecting a party's nominee. They accept the lower factual findings and do not rely on the rejected confusion or raiding grounds. Their position depends on reasonable access to the registration choice presented here. They would reverse and sustain the challenged condition.
+
+## Procedure After Action
+
+The case returns through the Tenth Circuit for a fitted prospective decree. Election officials must provide the lawful single-primary means of participation described in Part III. Any supported request for a narrower decree must establish a complete cure of the adjudicated common-policy violation.
+
+## Source Notes
+
+No. 04-37; Oklahoma Statutes, title 26, §1-104; Beaver v. Clingman, 363 F.3d 1048 (10th Cir. 2004). The trial findings and the distinction between changed nomination results and political instability govern the record application. Tashjian v. Republican Party of Connecticut, 479 U.S. 208, addresses invitations to independents and reserves the different-party question.

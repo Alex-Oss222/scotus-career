@@ -1,0 +1,405 @@
+[
+  {
+    "case": "mid-con",
+    "sources": [
+      {
+        "url": "https://www.law.cornell.edu/supct/html/03-1234.ZS.html",
+        "file": "mid-con_ZS.txt",
+        "characters": 5863
+      },
+      {
+        "url": "https://www.law.cornell.edu/supct/html/03-1234.ZD.html",
+        "file": "mid-con_ZD.txt",
+        "characters": 23871
+      },
+      {
+        "url": "https://www.law.cornell.edu/supct/html/03-1234.ZO.html",
+        "file": "mid-con_ZO.txt",
+        "characters": 28537
+      },
+      {
+        "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep545/usrep545440/usrep545440.pdf",
+        "file": "mid-con_official.txt",
+        "pages": 29,
+        "characters": 67321
+      }
+    ],
+    "errors": []
+  },
+  {
+    "case": "kelo",
+    "sources": [
+      {
+        "url": "https://www.law.cornell.edu/supct/html/04-108.ZS.html",
+        "file": "kelo_ZS.txt",
+        "characters": 5724
+      },
+      {
+        "url": "https://www.law.cornell.edu/supct/html/04-108.ZC.html",
+        "file": "kelo_ZC.txt",
+        "characters": 7901
+      },
+      {
+        "url": "https://www.law.cornell.edu/supct/html/04-108.ZD.html",
+        "file": "kelo_ZD.txt",
+        "characters": 24644
+      },
+      {
+        "url": "https://www.law.cornell.edu/supct/html/04-108.ZD1.html",
+        "file": "kelo_ZD1.txt",
+        "characters": 37663
+      },
+      {
+        "url": "https://www.law.cornell.edu/supct/html/04-108.ZO.html",
+        "file": "kelo_ZO.txt",
+        "characters": 41558
+      },
+      {
+        "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep545/usrep545469/usrep545469.pdf",
+        "file": "kelo_official.txt",
+        "pages": 55,
+        "characters": 137626
+      }
+    ],
+    "errors": []
+  },
+  {
+    "case": "gonzalez",
+    "sources": [
+      {
+        "url": "https://www.law.cornell.edu/supct/html/04-6432.ZS.html",
+        "file": "gonzalez_ZS.txt",
+        "characters": 4839
+      },
+      {
+        "url": "https://www.law.cornell.edu/supct/html/04-6432.ZC.html",
+        "file": "gonzalez_ZC.txt",
+        "characters": 1296
+      },
+      {
+        "url": "https://www.law.cornell.edu/supct/html/04-6432.ZD.html",
+        "file": "gonzalez_ZD.txt",
+        "characters": 14674
+      },
+      {
+        "url": "https://www.law.cornell.edu/supct/html/04-6432.ZO.html",
+        "file": "gonzalez_ZO.txt",
+        "characters": 27677
+      },
+      {
+        "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep545/usrep545524/usrep545524.pdf",
+        "file": "gonzalez_official.txt",
+        "pages": 22,
+        "characters": 56420
+      }
+    ],
+    "errors": []
+  },
+  {
+    "case": "allapattah",
+    "sources": [
+      {
+        "url": "https://www.law.cornell.edu/supct/html/04-70.ZS.html",
+        "file": "allapattah_ZS.txt",
+        "characters": 8710
+      },
+      {
+        "url": "https://www.law.cornell.edu/supct/html/04-70.ZD.html",
+        "file": "allapattah_ZD.txt",
+        "characters": 10968
+      },
+      {
+        "url": "https://www.law.cornell.edu/supct/html/04-70.ZD1.html",
+        "file": "allapattah_ZD1.txt",
+        "characters": 38291
+      },
+      {
+        "url": "https://www.law.cornell.edu/supct/html/04-70.ZO.html",
+        "file": "allapattah_ZO.txt",
+        "characters": 48517
+      },
+      {
+        "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep545/usrep545546/usrep545546.pdf",
+        "file": "allapattah_official.txt",
+        "pages": 50,
+        "characters": 125349
+      }
+    ],
+    "errors": []
+  },
+  {
+    "case": "orff",
+    "sources": [
+      {
+        "url": "https://www.law.cornell.edu/supct/html/03-1566.ZS.html",
+        "file": "orff_ZS.txt",
+        "characters": 3408
+      },
+      {
+        "url": "https://www.law.cornell.edu/supct/html/03-1566.ZO.html",
+        "file": "orff_ZO.txt",
+        "characters": 14386
+      },
+      {
+        "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep545/usrep545596/usrep545596.pdf",
+        "file": "orff_official.txt",
+        "pages": 9,
+        "characters": 21131
+      }
+    ],
+    "errors": []
+  },
+  {
+    "case": "halbert",
+    "sources": [
+      {
+        "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep545/usrep545605/usrep545605.pdf",
+        "file": "halbert_official.txt",
+        "pages": 39,
+        "characters": 98478
+      }
+    ],
+    "errors": [
+      "Cornell: HTTP Error 500: Internal Server Error"
+    ]
+  },
+  {
+    "case": "mayle",
+    "sources": [
+      {
+        "url": "https://www.law.cornell.edu/supct/html/04-563.ZS.html",
+        "file": "mayle_ZS.txt",
+        "characters": 10145
+      },
+      {
+        "url": "https://www.law.cornell.edu/supct/html/04-563.ZD.html",
+        "file": "mayle_ZD.txt",
+        "characters": 25989
+      },
+      {
+        "url": "https://www.law.cornell.edu/supct/html/04-563.ZO.html",
+        "file": "mayle_ZO.txt",
+        "characters": 37111
+      },
+      {
+        "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep545/usrep545644/usrep545644.pdf",
+        "file": "mayle_official.txt",
+        "pages": 33,
+        "characters": 87151
+      }
+    ],
+    "errors": []
+  },
+  {
+    "case": "van-orden",
+    "sources": [
+      {
+        "url": "https://www.law.cornell.edu/supct/html/03-1500.ZS.html",
+        "file": "van-orden_ZS.txt",
+        "characters": 8076
+      },
+      {
+        "url": "https://www.law.cornell.edu/supct/html/03-1500.ZC.html",
+        "file": "van-orden_ZC.txt",
+        "characters": 1613
+      },
+      {
+        "url": "https://www.law.cornell.edu/supct/html/03-1500.ZC1.html",
+        "file": "van-orden_ZC1.txt",
+        "characters": 12319
+      },
+      {
+        "url": "https://www.law.cornell.edu/supct/html/03-1500.ZC2.html",
+        "file": "van-orden_ZC2.txt",
+        "characters": 15213
+      },
+      {
+        "url": "https://www.law.cornell.edu/supct/html/03-1500.ZD.html",
+        "file": "van-orden_ZD.txt",
+        "characters": 65919
+      },
+      {
+        "url": "https://www.law.cornell.edu/supct/html/03-1500.ZD1.html",
+        "file": "van-orden_ZD1.txt",
+        "characters": 1096
+      },
+      {
+        "url": "https://www.law.cornell.edu/supct/html/03-1500.ZD2.html",
+        "file": "van-orden_ZD2.txt",
+        "characters": 23714
+      },
+      {
+        "url": "https://www.law.cornell.edu/supct/html/03-1500.ZO.html",
+        "file": "van-orden_ZO.txt",
+        "characters": 25119
+      },
+      {
+        "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep545/usrep545677/usrep545677.pdf",
+        "file": "van-orden_official.txt",
+        "pages": 72,
+        "characters": 181057
+      }
+    ],
+    "errors": []
+  },
+  {
+    "case": "castle-rock",
+    "sources": [
+      {
+        "url": "https://www.law.cornell.edu/supct/html/04-278.ZS.html",
+        "file": "castle-rock_ZS.txt",
+        "characters": 6469
+      },
+      {
+        "url": "https://www.law.cornell.edu/supct/html/04-278.ZC.html",
+        "file": "castle-rock_ZC.txt",
+        "characters": 7270
+      },
+      {
+        "url": "https://www.law.cornell.edu/supct/html/04-278.ZD.html",
+        "file": "castle-rock_ZD.txt",
+        "characters": 49890
+      },
+      {
+        "url": "https://www.law.cornell.edu/supct/html/04-278.ZO.html",
+        "file": "castle-rock_ZO.txt",
+        "characters": 40619
+      },
+      {
+        "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep545/usrep545748/usrep545748.pdf",
+        "file": "castle-rock_official.txt",
+        "pages": 46,
+        "characters": 118817
+      }
+    ],
+    "errors": []
+  },
+  {
+    "case": "bell-thompson",
+    "sources": [
+      {
+        "url": "https://www.law.cornell.edu/supct/html/04-514.ZS.html",
+        "file": "bell-thompson_ZS.txt",
+        "characters": 6003
+      },
+      {
+        "url": "https://www.law.cornell.edu/supct/html/04-514.ZD.html",
+        "file": "bell-thompson_ZD.txt",
+        "characters": 57916
+      },
+      {
+        "url": "https://www.law.cornell.edu/supct/html/04-514.ZO.html",
+        "file": "bell-thompson_ZO.txt",
+        "characters": 36486
+      },
+      {
+        "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep545/usrep545794/usrep545794.pdf",
+        "file": "bell-thompson_official.txt",
+        "pages": 50,
+        "characters": 116877
+      }
+    ],
+    "errors": []
+  },
+  {
+    "case": "mccreary",
+    "sources": [
+      {
+        "url": "https://www.law.cornell.edu/supct/html/03-1693.ZS.html",
+        "file": "mccreary_ZS.txt",
+        "characters": 14906
+      },
+      {
+        "url": "https://www.law.cornell.edu/supct/html/03-1693.ZC.html",
+        "file": "mccreary_ZC.txt",
+        "characters": 7801
+      },
+      {
+        "url": "https://www.law.cornell.edu/supct/html/03-1693.ZD.html",
+        "file": "mccreary_ZD.txt",
+        "characters": 59870
+      },
+      {
+        "url": "https://www.law.cornell.edu/supct/html/03-1693.ZO.html",
+        "file": "mccreary_ZO.txt",
+        "characters": 67356
+      },
+      {
+        "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep545/usrep545844/usrep545844.pdf",
+        "file": "mccreary_official.txt",
+        "pages": 69,
+        "characters": 179203
+      }
+    ],
+    "errors": []
+  },
+  {
+    "case": "grokster",
+    "sources": [
+      {
+        "url": "https://www.law.cornell.edu/supct/html/04-480.ZS.html",
+        "file": "grokster_ZS.txt",
+        "characters": 11744
+      },
+      {
+        "url": "https://www.law.cornell.edu/supct/html/04-480.ZC.html",
+        "file": "grokster_ZC.txt",
+        "characters": 16156
+      },
+      {
+        "url": "https://www.law.cornell.edu/supct/html/04-480.ZC1.html",
+        "file": "grokster_ZC1.txt",
+        "characters": 35047
+      },
+      {
+        "url": "https://www.law.cornell.edu/supct/html/04-480.ZO.html",
+        "file": "grokster_ZO.txt",
+        "characters": 47609
+      },
+      {
+        "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep545/usrep545913/usrep545913.pdf",
+        "file": "grokster_official.txt",
+        "pages": 54,
+        "characters": 138462
+      }
+    ],
+    "errors": []
+  },
+  {
+    "case": "brand-x",
+    "sources": [
+      {
+        "url": "https://www.law.cornell.edu/supct/html/04-277.ZS.html",
+        "file": "brand-x_ZS.txt",
+        "characters": 16918
+      },
+      {
+        "url": "https://www.law.cornell.edu/supct/html/04-277.ZC.html",
+        "file": "brand-x_ZC.txt",
+        "characters": 1024
+      },
+      {
+        "url": "https://www.law.cornell.edu/supct/html/04-277.ZC1.html",
+        "file": "brand-x_ZC1.txt",
+        "characters": 3815
+      },
+      {
+        "url": "https://www.law.cornell.edu/supct/html/04-277.ZD.html",
+        "file": "brand-x_ZD.txt",
+        "characters": 34271
+      },
+      {
+        "url": "https://www.law.cornell.edu/supct/html/04-277.ZO.html",
+        "file": "brand-x_ZO.txt",
+        "characters": 61555
+      },
+      {
+        "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep545/usrep545967/usrep545967.pdf",
+        "file": "brand-x_official.txt",
+        "pages": 54,
+        "characters": 137644
+      }
+    ],
+    "errors": []
+  }
+]

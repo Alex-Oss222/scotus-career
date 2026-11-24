@@ -1,0 +1,185 @@
+
+
+  
+
+  
+
+	
+
+	
+
+	
+
+MID-CON FREIGHT SYSTEMS, INC. V. MICHIGAN PUB.SERV. COMM’N
+
+ 
+
+MID-CON FREIGHT SYSTEMS, INC. V. MICHIGAN PUB.SERV. COMM’N (03-1234) 
+
+255 Mich. App. 589, 662 N. W. 2d 784, affirmed.
+
+Syllabus
+
+ 
+
+Opinion
+
+ [ Breyer ]
+
+Dissent
+
+ [ Kennedy ]
+
+HTML version
+
+PDF version
+
+HTML version
+
+PDF version
+
+HTML version
+
+PDF version
+
+Syllabus
+
+NOTE: 
+Where it is feasible, a syllabus (headnote) will be
+released, as is being done in connection with this case, at the
+time the opinion is issued.
+The syllabus constitutes no part
+of the opinion of the Court but has been prepared by the
+Reporter of Decisions for the convenience of the reader.
+See
+
+United States
+ v. 
+Detroit Timber & Lumber Co.,
+
+200 U.S. 321
+,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+MID-CON FREIGHT SYSTEMS, INC., et al.
+
+v
+. MICHIGAN PUBLIC SERVICE COMMISSION et al.
+
+CERTIORARI TO THE COURT OF APPEALS OF
+MICHIGAN
+
+ 
+No. 03—1234.
+
+Argued April 26,
+2005–Decided June 20, 2005
+
+Federal law requires most interstate truckers
+to obtain a permit (Federal Permit) that reflects compliance
+with certain federal requirements.  The 1965 version of the law
+authorized States to require proof that a truck operator had
+such a permit.	By 1991, 39 States demanded such proof,
+requiring a $10 per truck registration fee (State Registration)
+and giving each trucker a stamp to affix to a multistate
+“bingo card” carried in the vehicle.	Finding this
+scheme inefficient and burdensome, Congress created the current
+Single State Registration System (SSRS), which allows a
+trucking company to fill out one set of forms in one State
+(base State), thereby registering its Federal Permit in every
+participating State through which its trucks travel.  
+49 U.S.C. §
+14504
+(c).  The base State can demand proof of the Federal
+Permit, proof of insurance, the name of an agent to receive
+service of process, and a fee equal to the sum of the
+individual state fees. 
+§§14504(c)(2)(A)(i)—(iv).  The SSRS prohibits a
+State from imposing any additional “State registration
+requirement.”  §14504(b).  Michigan Comp. Laws Ann.
+§478.2(2) imposes an annual $100 fee on each Michigan
+license-plated truck operating entirely in interstate commerce.
+ Petitioner interstate trucking companies subject to
+§478.2(2) sought to have it invalidated, but the Michigan
+Court of Claims refused.  The State Court of Appeals affirmed,
+holding that, because the fee is imposed for the administration
+of the State’s Motor Carrier Act and for enforcement of
+state safety regulations, it is not a “registration
+requirement” pre-empted by §14504(b).
+
+Held:
+ Section §14504 does
+not pre-empt Michigan’s $100 fee.	Pp. 5—13.
+
+    (a) Reference to
+text, historical context, and purpose disclose that the words
+“State registration requirement” in
+§14504(b)’s second sentence apply only to those state
+requirements concerning SSRS registration.  Statutory language
+makes clear that the federal provision reaches no further.  The
+subsection’s first sentence uses the words “State
+registration” to refer only to state systems seeking
+evidence that a trucker has complied with the specific SSRS
+obligations enumerated in
+§§14504(c)(2)(A)(i)—(iv).  No language in the
+second sentence suggests that the same words should be given a
+different, broader meaning there.  Nor does any language
+elsewhere in the statute suggest that “State registration
+requirement” refers to 
+any
+ kind of State
+Registration whatsoever that might affect interstate carriers,
+or to those state requirements imposed by reason of a motor
+carrier’s operation in interstate commerce.  The
+implementing regulations also do not support a broader meaning.
+ Historical context confirms this reading.  Congress enacted
+§14504 to simplify the “bingo card” system,
+which placed no constraints on any state filings or fees other
+than those concerning Federal Permit and insurance
+requirements.  In creating the SSRS, Congress gave no
+indication that the pre-emptive scope of the new scheme would
+be any broader than that of the old.  Finally, nothing in the
+statute’s basic purposes or objectives–improving the
+“bingo card” system’s efficiency and simplifying
+a uniform scheme for providing States with certain vital
+information–either requires a broader reading of the
+statutory term or impliedly pre-empts non-SSRS-related state
+rules.	Pp. 5—11.
+
+      (b) Section
+478.2(2)’s requirements do not concern the SSRS’s
+subject matter.  First, the Michigan statute makes no reference
+to evidence of a Federal Permit, an insurance requirement, or
+an agent for receiving service of process.  Nor do any state
+rules related to the fee appear to require the filing of
+information on these matters.  In addition, because Michigan
+imposed its separate fee before the SSRS existed and before it
+began to participate in the “bingo card” system, the
+fee does not represent an effort to circumvent the limitations
+imposed in connection with federal laws governing State
+Registration of Federal Permits.  Finally, petitioners have
+failed to show that Michigan rules do not allow a
+Michigan-plated interstate truck choosing Michigan as its base
+State to comply with the SSRS requirements even if it does not
+comply with §478.2(2).  The fact that Michigan appears to
+forgive the State’s $10 SSRS fee for trucks that comply
+with §478.2(2) can be seen as an effort to provide a
+modest, administratively efficient recompense to those motor
+carriers that choose Michigan as their base State, but such a
+subsidiary connection cannot transform the State’s fee
+into a requirement concerning the SSRS statute’s subject
+matter.  Pp. 11—13.
+
+255 Mich. App. 589, 662 N. W. 2d 784,
+affirmed.
+
+    Breyer, J., delivered
+the opinion of the Court, in which Stevens, Scalia, Souter,
+Thomas, and Ginsburg, JJ., joined.  Kennedy, J., filed a
+dissenting opinion, in which Rehnquist, C. J., and
+O’Connor, J., joined.
+
+ 

@@ -1,0 +1,719 @@
+United States Court of Appeals
+For the First Circuit
+No. 04-1496
+JOHN EULITT AND BELINDA EULITT, AS PARENTS AND
+NEXT FRIENDS OF CATHLEEN N. EULITT, ET AL.,
+Plaintiffs, Appellants,
+v.
+STATE OF MAINE, DEPARTMENT OF EDUCATION, ET AL.,
+Defendants, Appellees.
+APPEAL FROM THE UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF MAINE
+[Hon. John A. Woodcock, Jr., U.S. District Judge]
+Before
+ Boudin, Chief Judge,
+Selya, Circuit Judge,
+and Schwarzer,* Senior District Judge.
+Stephen C. Whiting, with whom The Whiting Law Firm, P.A. was
+on brief, for appellants.
+Paul Stern, Deputy Attorney General, with whom G. Steven Rowe,
+Attorney General, William H. Laubenstein, III , and Sarah A.
+Forster, Assistant Attorneys General, were on brief, for appellees.
+__________
+*Of the Northern District of California, sitting by designation.
+
+Robert H. Chanin, Andrew D. Roth, Laurence Gold, Bredhoff &
+Kaiser, P.L.L.C., Elliott M. Mincberg, Judith E. Schaeffer, Ayesha
+N. Khan, Zachary L. Heiden, Jeffrey A. Thaler, and Bernstein, Shur,
+Sawyer & Nelson, P.A.  on consolidated brief for Maine Education
+Association, National Education Association, Americans United for
+Separation of Church and State, People for the American Way
+Foundation, and Maine Civil Liberties Union, amici curiae.
+October 22, 2004
+
+-3-
+SELYA, Circuit Judge.  This case calls upon us to decide
+whether the Equal Protection Clause requires Maine to extend
+tuition payments to private sectarian secondary schools on behalf
+of students who reside in a school district that makes such
+payments available on a limited basis to private nonsectarian
+secondary schools.  We hold that the Equal Protection Clause does
+not impose any such obliga tion.  Accordingly, although our
+reasoning differs from that of the district court, we affirm the
+entry of summary judgment in the defendants' favor.
+I.  BACKGROUND
+By statute, Maine commits to providing all sch ool-aged
+persons with "an opportunity to receive the benefits of a free
+public education," Me. Rev. Stat. Ann. tit. 20-A, § 2(1) (West
+2004), and vests authority in local school districts to fu lfill
+that undertaking by maintaining an d supporting elementary and
+secondary education, id. §§ 2(2), 4501.  School districts, known in
+Maine's bureaucratic argot as school administrative units, e njoy
+some flexibility in administering this guarantee.  They may satisfy
+the state mandate in any of three ways:  by operating their own
+public schools, see id. § 1258(1), by contracting with outside
+public schools to accept their students, see id. §§ 1258(2), 2701;
+or by paying private schools to provide such an education, see id.
+§§ 2951, 5204(4).  State law bars a school district that exercises
+
+-4-
+the third option from paying tuition to any private sectaria n
+school.  Id. § 2951(2).
+The town of Minot comprises a school administrative unit.
+It ha s decided to operate its own grade school (kindergarten
+through eighth grade), but has chose n to  outsource secondary
+education.  To this end, Minot has contracted with a neighboring
+school district — the town of Poland — to educate at least 90% of
+its eligible students at Poland Regional High School (PRHS).  The
+contract gives Minot the right to send up to 10% of its high
+schoolers to other approved nonsectarian secondary schools (private
+or public) so long as those students can demonstrate that they have
+educational needs that PRHS cannot satisfy.  The superintendent of
+School Union #29, which consists of the school administrative units
+of Poland, Mechanic Falls, and Minot, reviews applications for such
+alternative placements on a case-by-case basis.  By operation of
+section 2951(2), however, sectarian schools cannot win approval for
+publicly funded tuition paymen ts ( and, thus, Minot cannot
+underwrite tuition for youths seeking to attend such schools).
+John and Belinda Eulitt and Kell y J.  MacKinnon are
+parents residing in Minot who, on their own dime, send their
+daughters to St. Dominic's Regional High School, a Catholic
+secondary school that is indisputably sectarian.  They believe
+that, under Minot's education plan, the state and the town should
+pay tuition directly to St. Dominic's on behalf of their daughters
+
+-5-
+because PRHS does not offer classes in Catholic doctrine or teach
+from a Catholic viewpoint (and, therefore, does not meet the full
+range of their daughters' educational needs).  The parents have not
+submitted formal applications for such funding because section
+2951(2), which forbids the payment of public dollars to sectarian
+schools, would prevent the superintendent from approving any such
+applications.  Instead, as parents and next friends of their
+daughters, they brought suit in Maine's federal di strict court
+against various state educational authorities.  Pertinently, their
+complaint alleged th at section 2951(2)'s restriction on the
+approval of sectarian schools for placements funded by public
+tuition payments violates the Equa l Pr otection Clause of the
+Fourteenth Amendment because that restriction discriminates on the
+bases of religion, religious speech, and viewpoint.  Additionally,
+the complaint asserted a separate equal protection claim on behalf
+of St. Dominic's, in which the parents argued that section 2951(2)
+strips the school of equal protection of the laws because it denies
+the school the ability to receive public funds for providi ng
+secondary education services even though it allows private
+nonsectarian schools to receive such stipends.
+In due cou rse, t he parties cross-moved for summary
+judgment.  The district court referred the motions to a magistrate
+judge who recommended, inter alia, that summary judgment be granted
+in favor of the defendants on the equal protection claims.  Eulitt
+
+-6-
+v. Me. Dep't of Educ., No. 02-162, 2003 WL 21909790, at *4 (D. Me.
+Aug. 8, 2003).  The magistrate judge ruled that the Equal
+Protection Clause does not compel the provision of public funds to
+private sectarian schools, even when a school district has chosen
+to subsidize the payment of tuition to private nonsectarian schools
+on a limited basis.  Id. at *3-4.  On objection, see 28 U.S.C. §
+636(b)(1); Fed. R. Civ. P. 72(b), the district court concurred with
+the magistrate judge's recommended decision, but it did so solely
+on the ground that this court's decision in Strout v. Albanese, 178
+F.3d 57 (1st Cir. 1999), had "authoritatively answered exactly the
+same questions Plaintiffs now urge this Court to decide," and,
+therefore, pretermitted further inquiry under the doctrine of stare
+decisis.  Eulitt v. Me. Dep't of Educ., 307 F. Supp. 2d 158, 161
+(D. Me. 2004).  This appeal ensued.
+II.  ANALYSIS
+The appellants hawk three propositions on appeal.  First,
+they urge that the doctrine of stare decisis does not foreclose
+consideration of their substantive claims.  Second, they contend
+that the Establishment  Claus e does not compel Maine to eschew
+public funding of sectarian education (and, hence, does not prevent
+the state from providing the redress that they seek).  Third, they
+asseverate that section 2951(2) violates the Equal Pro tection
+Clause because it discriminates on the bases of religion, religious
+
+-7-
+speech, and viewpoint.  We consider th ese propositions
+sequentially.
+A.  Stare Decisis.
+As a general matter, the doctrine of  sta re decisis
+precludes the relitigation of legal issues that have previously
+been heard and authorita tively determined.  Stewart v. Dutra
+Constr. Co., 230 F.3d 461, 467 (1st Cir. 2000).  In other words,
+stare decisis "renders the ruling of law in a c ase bindi ng in
+future cases before the same court or other courts owing obedience
+to the decision."  Gately v. Massachusetts, 2 F.3d 1221, 1226 (1st
+Cir. 1993) (emphas is in original).  For present purposes, the
+question reduces to whether our earlier decision in Strout
+constitutes such a bar.
+Strout arose in a very similar posture.  There, we upheld
+the constitutionality of section 2951(2) against equal protection,
+establishment, and free exercise challenges brought by parents (not
+the present plaintiffs) who sought public funding for their
+children's matriculation at St. Dominic's.  Strout, 178 F.3d at 64-
+65.  The Strout panel rejected the equal protection challenge
+because Maine had sh own a compelling interest in avoiding an
+Establishment Clause violation through the exclusion of sectarian
+schools from its secondary education tuition program.  Id. at 64.
+Two members of the panel further speculated, in dictum, that if
+Maine's proffered interest had been found to depend upon an
+
+-8-
+erroneous understanding of the Establishment Clause (that is, if it
+had been determined that payments to sectarian schools were
+permissible under that clause), then the state's exclusion of
+sectarian schools from the tuition program would not withstand
+scrutiny.  Id. at 64 n.12.
+Three years later, the Supreme Court decided Zelman v.
+Simmons-Harris, 536 U.S. 639 (2002).  That opinion altered the
+landscape of Establishment Clause  j urisprudence in the school
+finance context by upholding a program that allowed income-
+qualified parents in Cleveland to elect to apply state-funded
+school vouchers toward their children's tuition at private
+sectarian schools.  Id. at 644-46, 663.  The Zelman Court announced
+that indirect public aid to sectarian education is constitutionally
+permissible when the financial assistance program has a valid
+secular purpose, provides benefits to a broad spectrum of
+individuals who can exercise genuine private choice among religious
+and secular options, and is neutral toward religion.  Id. at 662-
+63.
+Last term, the Supreme Court again addressed the
+application of the First Amendment to educational funding issues.
+The Court upheld a Washington state college scholarship program
+that prohibited the application of scholarship funds toward the
+pursuit of a devotional theology degree.  Locke v. Davey, 124 S.
+Ct. 1307, 1309 (2004).  In so doing, the Court reaffirmed that
+
+-9-
+"'there is room for play in the joints'" between the Religion
+Clauses.  Id. at 1311 (quoting Walz v. Tax Comm'n, 397 U.S. 664,
+669 (1970)).  By this, the Davey Court meant that "there are some
+state actions permitted by the Establishment Clause but not
+required by the Free Exercise Clause."  Id.
+The Zelman opinion raises the distinct possibility that
+Strout's view of Maine's asserted interest depended upon an
+incorrect interpretation of the Establishment Clause's strictures.
+Davey also casts doubt on the reasoning of Strout because it
+clarifies, and subtly alte rs, the decisional framework to be
+applied to equal protection claims that are rooted in allegations
+of religious discrimination.  The d istrict court nevertheless
+declined to consider the effects of Zelman and Davey on the
+continuing vitality of Strout.  We do not find fault with that
+cautious approach.  See Crowe v. Bolduc, 365 F.3d 86, 94 (1st Cir.
+2004) (noting that district court correctly regard ed cir cuit
+precedent as "good law" even though a subsequent Supreme Court
+dictum had "presaged the demise" of th e rule  stated therein).
+Until a court of appeals revokes a binding precedent, a district
+court within the circuit is hard put to ignore that precedent
+unless it has unmistakably been cast into disrepute by supervening
+authority.  See Sarzen v. Gaughan, 489 F.2d 1076, 1082 (1st Cir.
+1973) (explaining that stare decisis requires lower courts to take
+binding pronouncements "at face value until formally altered"); cf.
+
+-10-
+Agostini v. Felton, 521 U.S. 203, 237-38 (1997) (reaffirming that
+the Court has the prerogative to overrule its own decisions).
+We are, of course, in a somewhat different p osition.
+Even though "our precedent-based system of justice places a premium
+on finality, stability, and certainty in the law," Stewart, 230
+F.3d at 467, " stare decisis is neither a straightjacket nor an
+immutable rule," Carpenters Local Union No. 26 v. U.S. Fid. & Guar.
+Co., 215 F.3d 136, 142 (1st Cir. 2000).  Thus, a panel of the court
+of appeals has some flexibility, modest though it may be, with
+respect to its own precedents.
+Ordinarily, newly constituted panels in a multi-panel
+circuit should consider themselves bound by prior panel decisions.
+See United States v. Rodriguez, 311 F.3d 435, 438-39 (1st Cir.
+2002); United States v. Wogan, 938 F.2d 1446, 1449 (1st Cir. 1991).
+This rule is a specialized application of the stare decisis
+principle.  It is, however, subject to at least two exceptions,
+either of which may warrant a departure from a prior holding.
+The first exception comes into play when a preexisting
+panel opinion is undermined by subsequently announced controlling
+authority, such as a decision of the Supreme Court, a decision of
+the en banc court, or a statutory overruling.  Williams v. Ashland
+Eng'g Co., 45 F.3d 588, 592 (1st Cir. 1995).  That exception does
+not apply her e.  Although Zelman did confirm that the state may
+provide funding for sectarian education in certain instances, see
+
+1Without belaboring the point, we note that the Maine program
+is substantially nar rower than the "broad[] undertaking by the
+State to enhance educational options" that was under scrutiny in
+Zelman, 536 U.S. at 647.  Moreover, Maine's scheme provides for the
+approval of applications based on an individualized assessment of
+educational benefit, whereas the Cleveland program employed only
+objective criteria of financial need and residency.  See id. at
+662.
+-11-
+Zelman, 536 U.S. at 662-63, the decision depended upon the Court's
+careful consideration of the facts underlying the Cleveland voucher
+program, see id. at 653-57.  Even after Zelman and Davey, it is
+fairly debatable whether or not the Maine tuition program could
+survive an Establishment Clause challenge if the state eliminated
+section 2951(2) and allowed sectarian schools to receive tuition
+funds.1  Thus, the newly emergent Supreme Court case law does not
+necessarily undercut the Strout panel's premise, 178 F.3d at 64 &
+n.12, that Maine could not extend funding to sectarian schools
+under its program without violating the Establishment Clause.
+A s econd exception exists when recent Supreme Court
+precedent calls into legitimate question a prior opinion of an
+inferior court.  Carpenters Local Union No. 26, 215 F.3d at 141;
+see also Crowe, 365 F.3d at 89, 92.  In that context, a reviewing
+court must pause to consider the likely significance of the
+neoteric Supreme Court case law before automatically ceding the
+field to an earlier decision.  See Williams, 45 F.3 d at 592
+(explaining that stare decisis may yield in "those relatively rare
+instances in which authority that postdates the original decision,
+
+-12-
+although not directly controlling, never theless offers a sound
+reason for believing that the former panel, in light of fresh
+developments, would change its collective mind").
+We think that this exception app lies here.  In Strout,
+the panel explicitly relied on "the present state of jurisprudence"
+in determining that Maine's interest in excluding sectarian schools
+from its tuition program would survive any l evel of scrutiny
+because the Establishment Clause likely required the state to
+maintain such an exclusion.  Strout, 178 F.3d at 64.  In reaching
+this conclusion, the panel candidly observed that "the guidance
+provided by the Supreme Court has been less than crystalline."  Id.
+Zelman and Davey obviously constitute significant developments in
+the pertinent jurisprudence and shed new light on the case law upon
+which the Strout decision hinged.  If these decisions,
+collectively, do  no t make the law crystalline, they at least
+provide more focused direction than was available to the Strout
+panel.  Consequently, we find it incumbent upon us to reject a rote
+application of stare decisis here and to under take a  fresh
+analysis.  See Arecibo Cmty. Health Care, Inc. v. Puerto Rico, 270
+F.3d 17, 24 (1st Cir. 2001).
+B.  The Establishment Clause.
+The appellants' second proposition invites us to
+determine whether the state's asserted interest in  main taining
+section 2951(2)'s parochial school exclusion in order to avoid an
+
+-13-
+Establishment Clause violation is a valid one.  This proposition is
+asserted out of order:  because the response to it depends upon
+what level of scrutiny we should apply in this case, the
+proposition itself is not susceptible to consideration at a
+preliminary point in our analysis.  We explain briefly.
+It cannot be gainsaid that Establishment Clause defenses
+sometimes trigger consideration of hypothetical statutory schemes
+to determine whether entanglement  c oncerns actually justify a
+particular feature of a challen ged law.  However, such defenses
+should not be addressed until a court has identified the right at
+issue and ascertained the level of scrutiny that attaches to it.
+See, e.g., Good News Club v. Milford Cent. Sch., 533 U.S. 98, 112-
+13 (2001) (weighing the validity of a school's Establishment Clause
+defense after finding that the challenged restriction constituted
+viewpoint discrimination and that strict scrutiny therefore
+applied); Widmar v. Vincent, 454 U.S. 263, 270-71 (1981)
+(determining first that religious group's exclusion from open forum
+was discriminatory, and then reviewing school's Establishment
+Clause defense for retaining its existing forum access policy
+instead o f adopting a hypothetical policy that would be more
+inclusive).  That sequence is particularly significant in view of
+the time-honored axiom that federal courts should withhold decision
+on vexing constitutional questions until consideration of those
+questions becomes necessary.  See Ala. State Fed'n of Labor  v.
+
+-14-
+McAdory, 325 U.S. 450, 461 (1945) (noting that "[i]t has long been
+[the Court's ] co nsidered practice not to decide abstract,
+hypothetical or contingent questio ns, or to decide any
+constitutional question in advance of the necessity for its
+decision") (citations omitted); El Dia, Inc. v. Hernandez Colon,
+963 F.2d 488, 494 (1st Cir. 1992) (similar).
+That ends this aspect of t he matter.  Consideration of
+the question that the appellants seek to pose — whether section
+2951(2) or some similar restriction is indispensable to Maine's
+obligation to keep its tuition pro gram i n compliance with the
+Establishment Clause — is premature at this juncture.  Instead, we
+explore the contours of the right at issue and ascertain what level
+of scrutiny an Establishment Clause defense would have to survive.
+C.  Equal Protection.
+The heart of the appellants' claim is the proposition
+that section 2951(2) violates both the equal protection rights of
+St. Dominic's and the appellants' own equal protection rights (as
+parents and next f riends of their children) because the statute
+discriminates on the bases of religion and rel igious speech.
+Before untangling this argument, we first address the threshold
+question of standing.
+1.  Standing.  We start with the question whether the
+appellants have standing to raise a constitutional claim on behalf
+of St. Dominic's.  An individual who asserts the constit utional
+
+-15-
+rights of a third party must, of course, satisfy the Article III
+requirements of injury in fact, causation, and redressability with
+respect to the third-party claim.  See Valley Forge Christian Coll.
+v. Americans United for Sep. of Church & State, Inc., 454 U.S. 464,
+472 (1982).  In addition, that party must satisfy the prerequisites
+that arise from prudential limitations on the jurisdiction of the
+federal courts, namely, that the litigant personally has suffered
+an injury in fact that gives rise to a sufficiently concrete
+interest in the adjudication of the third party's rights; that the
+litigant has a close relationship to the third party; and that some
+hindrance exists that prevents the third party from protecting its
+own interests.  Powers v. Ohio, 499 U.S. 400, 411 (1991); Playboy
+Enters. v. Pub. Serv. Comm'n, 906 F.2d 25, 37 (1st Cir. 1990).
+In the case at hand, the appellants contend that section
+2951(2) causes them injury in fact because it compels the
+superintendent to reject all applications for the funding of a high
+school education at St. Dominic's on the ground that the school is
+religiously oriented (and , thus, ineligible to receive tuition
+payments).  Therefore, the statute's restriction  on the school
+translates into the parents' inability to gain approva l for the
+public funding of their children's sectarian education.  This link
+between the appellants' interests and those of St. Dominic's may
+suggest the type  of special relationship that would support a
+departure from the general proscription on jus tertii claims.  See,
+
+2The appellants alleged for the first time in their appellate
+briefs that St. Dominic's faced an obstacle to suit arising out of
+the risk of "reprisals" by the appellees (e.g., the loss of
+-16-
+e.g., Craig v. Boren, 429 U.S. 190, 195 (1976) (finding vendor
+satisfied jus tertii requirement to advocate for rights of third-
+party consumers who may wish to purchase its wares); Pierce v.
+Soc'y of Sisters, 268 U.S. 510, 535 (1925) (recognizing standing of
+religious schools to assert the rights of potential pupils who
+might seek access to their education services).
+Assuming for argument's sake, but without deciding, that
+both an injury and a sufficient relationship exist, the appellants
+nonetheless stumble on the third step of the jus tertii standing
+framework:  they have wholly failed to show any obstacle preventing
+St. Dominic's from bringing suit to protect itself against the
+imagined infringements.  The appellants have advanced no credible
+suggestion either that St. Dominic's is generically unable to
+assert its rights or that the circumstances of this case create
+some idiosyncratic barrier to such a suit.  Then, too, all of the
+environmental factors point the other way.  For one thing, section
+2951(2) does not impose or threaten to impose any criminal or civil
+penalty for any action that might be taken by sectarian schools.
+Thus, this case does not fall into the isthmian category of cases
+in which courts have recognized jus tertii standing because a third
+party is understandably reluctant to eng age in the allegedly
+protected activity for fear of prosecution or other penalty.2  See,
+
+approved status for purposes of Maine's compulsory school laws).
+This charge, in addition to being belated, is entirely without
+foundation in the summary judgment record.  We therefore reject it
+out of hand.
+-17-
+e.g., Broadrick v. Oklahoma, 413 U.S. 601, 612 (1973) (recognizing
+third-party standing to bring First Amendment overbreadth claims).
+For another thing, the appellants are not exposed to any criminal
+or civil penalty because of their interaction with the school;
+accordingly, cases in which the puta tive litigant faced such
+penalties by providing assistance or service to the holder of the
+third-party right are inapposite.  See, e.g., Craig, 429 U.S. at
+193-94 (finding third-party standing where litigant, a beer vendor,
+faced sanctions and loss of license for sales to men between
+eighteen and twenty years of age).  And, finally, this case is not
+one in which the right-holder has little or no financial incentive
+to pursue suit or, alternatively, would face great  difficulty in
+demonstrating that the alleged injury was likely to reoccur.  See,
+e.g., Powers, 499 U.S. at 414-15 (noting that the barriers to suit
+by a potential juror who believes he has been excluded because of
+race are "daunting" because of the small financial stake involved
+as well as the difficulty of proving that such discrimination would
+recur).
+At the expense of carting coal to Newcastle, we add that
+the underlying justifications for the prudential limitation on
+third-party standing could be thwarted were the appellants allowed
+
+-18-
+to serve as proxy-holders for St. Dominic's.  Those justifications
+include the venerable tenet that "third parties themselves usually
+will be the best proponents of their own rights."  Singleton v.
+Wulff, 428 U.S. 106, 114 (1976).  They also include the wise
+counsel that, sometimes, the holder of a right has reasons of its
+own for not pursuing potential claims.  See, e.g., Friedman v.
+Harold, 638 F.2d 262, 265-66 (1st Cir. 1981).  An exception to
+these basic maxims sometimes is warranted because a congruence of
+interests exists between a litigant and a third party.  See Playboy
+Enters., 906 F.2d at 38.  Here, however, it is by no means apparent
+that the appellants and St. Dominic's share a common interest; it
+is entirely possible that the school has refrained from litigation
+precisely because it is not interested in participating in Maine's
+tuition program and thereby subjecting itself to any number of
+concomitant state regulations.  Cf., e.g., Am. Library Ass'n v.
+Odom, 818 F.2d 81, 82 (D.C. Cir. 1987) (finding that researchers
+seeking access to certai n li brary materials could not assert
+library's property rights); Friedman, 638 F.2d at 266 (finding that
+bankruptcy trustee was an inappropriate party to assert certain
+rights of debtor).
+For these reasons, we hold that the appellants lack
+third-party standing to advance St. Dominic's equal protection
+claim.
+
+-19-
+This holding does not end our odyssey.  Although the
+appellants lack standing to pursue their jus tertii claim, they do
+have standing in their own right to seek global relief in the form
+of an injunction against the enforcement of section 2951(2) and a
+declaration of the statute's unconstitutionality.  The appellants
+have established standing directly based on their allegation that
+section 2951(2) effectively deprives them of the opportunity to
+have their children's tuition at St. Do minic's paid by public
+funding.  Even though it is the educational institution, not the
+parent, that would receive the tuition payments for a student whose
+"educational requirements" application was approved, it is the
+parent who must submit such an application and who ultimately will
+benefit from the approval.  Because section 2951(2) imposes
+restrictions on that approval, the parents' allegation of injury in
+fact to thei r interest in securing tuition funding provides a
+satisfactory predicate for standing.  See Bennett v. Spear, 520
+U.S. 1 54, 168-69 (1997) (explaining that harm "produced by
+determinative or coercive effect" upon a third party satisfies the
+injury in fact requirement when the harm is "fairly traceable" to
+that effect).
+2.  The Merits.  We thus proceed to the merits of the
+appellants' equal prot ection claim and consider whether recent
+Supreme Court precedents, especially the Court's opinions in Zelman
+and Davey, provide a sound basis for overturning Strout.
+
+3In their briefs, the appell ants alternately invoke the
+language of fundamental rights and suspect classifications.  We
+focus here on their claim of religion as a fundamental right.  We
+note, however, the hopelessness of any effort to suggest that those
+who choose to send their children to religious schools comprise a
+suspect class.  The Supreme Court has taken a very limited approach
+in recognizing suspect classifications.  See, e.g., Johnson v.
+Robison, 415 U.S. 361, 375 n.14 (1974) (describing criteria for
+establishing a suspect classification).  The traditional indicia of
+suspect classification, such as immutable characteristics
+determined by birth or membership in a group that is politically
+powerless, are not present in this case.  See id. (declining to
+categorize group of religious conscientious objectors as a suspect
+class); see also Corp. of the Pr esiding Bishop of the Church of
+Jesus Christ of Latter-Day Saints  v. Amos, 483 U.S. 325, 338-39
+-20-
+In undertaking this examination, we review the district
+court's entry of summary judgment de novo, considering the record
+and all reasonable inferences therefrom in the light most favorable
+to the summary judgment losers (here, the appellants).  Garside v.
+Osco Drug, Inc. , 895 F.2d 46, 48 (1st Cir. 1990).  Our
+consideration is not inextricably linked to th e district court's
+stare decisis theory; rather, we may affirm the entry of summary
+judgment on any independent ground fairly presented in the record.
+Houlton Citizens' Coalition v. Town of Houlton, 175 F.3d 178, 184
+(1st Cir. 1999).
+The appellants first contend that section 2951(2)
+discriminates against them on the basis of religion by forcing them
+to choose between a publicly funded education and what they
+describe as "their fundamental right[] of religion."  Appellants'
+Br. at 22.  They attempt to position this harm under the rubric of
+equal protection,3 avoiding any detailed reference to the Free
+
+(1987) (explaining that although laws that draw distinctions among
+religions can give rise to a suspect classification trig gering
+strict scrutiny, provisions that distinguish generally between
+secular and religious entities engender rational basis scrutiny).
+4The majority in Strout found it unnecessary to articulate the
+particular level of scrutiny it employed in rejecting the equal
+protection challenge.  Strout, 178 F.3d at 64.  To the extent the
+panel may have suggested that a religious discriminati on claim
+might be twice subjected to an analysis aimed at determining the
+level of scrutiny to  be applied — once under the Free Exercise
+Clause and again as a freestanding claim under the Equal Protection
+Clause — that implication must be abandoned.  Davey unequivocally
+rejected such an approach on the ground that the free exercise
+analysis definitively answers the question whether the challenged
+state action impermissibly infringes upon the fundamental right to
+religion.  See Davey, 124 S. Ct. at 1312 n.3.  Thus, an equal
+-21-
+Exercise Clause even though that clause defines the scope of the
+fundamental right to religion incorporated by the Four teenth
+Amendment's equal protection guarantee.  See Johnson v. Robison,
+415 U.S. 361, 375 n.14 (1974).
+This crabbed approach will not wash.  In Davey, the
+Supreme Court clearly rejected this type of effort to erect a
+separate and distinct framework for analyzing claims of religious
+discrimination under the Equal Protection Clause.  See Davey, 124
+S. Ct. at 1312 n.3 (confirming that the Free Exercise Clause
+provides the primary framework for assessing religious
+discrimination claims).  Along these lines, the Court held that if
+a challenged program comports with the Free Exercise Clause, that
+conclusion wraps up the religious discrimination analysis.  See id.
+Thus, rational basis scrutiny applies to any further equal
+protection inquiry.4  See id.; see also Johnson, 415 U.S. at 375
+
+protection claim that challenges a law found not to violate the
+Free Exercise Clause gives rise only to rational basis review.  See
+id.
+5We add that the statute does not exclude residents of Minot
+from participation in the tuition program on the basis of religion;
+all school-aged residents are equal ly eligible to apply for the
+benefit that the program extends — a free secular education.  Any
+shift in the decisional calculus for parents who must decide
+whether to tak e advantage of that benefit or pay to send their
+children to a school that provides a religious education is a
+burden of the sort permitted in Davey, 124 S. Ct. at 1315.
+-22-
+n.14 (explaining that once a law is found to be valid with respect
+to the free exercise right, there is "no occasion to apply to the
+challenged classification a standard of scrutiny stricter than the
+traditional rational-basis test" in addressing an equal protection
+claim).  Accordingly, we inquire whether intervening Supreme Court
+precedent alters the panel's conclusion in Strout that s ection
+2951(2) marks no free exercise violation.
+In Strout, the panel held that section 2951(2) imposes no
+substantial burden on religious be liefs or practices — and
+therefore does not implicate the Free Exercise Clause — because it
+does not prohibit attendance at a religious school or otherwise
+prevent parents from choosing relig ious education for their
+children.5  Strout, 178 F.3d at 65.  Far from undermining that
+analysis, Davey reinforces it.  Indeed, Davey confirms that the
+Free Exercise Clause's protection of religious beliefs and
+practices from direct government encroachment does not translate
+into an affirmative requirement that public entities fund religious
+
+-23-
+activity simply because they choose to fund the secular equivalents
+of such activity.  See Davey, 124 S. Ct. at 1313.  Consequently,
+the appellants' effort to characte rize Maine's decision not to
+deploy limited tuition dollars toward the funding of religious
+education as an impermissible burden on their prerogative to send
+their children to C atholic school is futile.  The fact that the
+state cannot interfere with a parent's fundamental right to choose
+religious education for his or her child does not mean that the
+state must fund that choice.  Cf. Maher v. Roe, 432 U.S. 464, 475-
+77 (1977) (explaining that the fundamental right to abortion does
+not entail a companion right to a state-financed abortion).
+The appellants endeavor to cabin Davey and restrict its
+teachings to the context of funding instruction for those training
+to enter religious ministries.  Their attempt is unpersuasive.  We
+find no authority that suggests that the "room for play in t he
+joints" identified by the Davey Court, 124 S. Ct. at 1311, is
+applicable to certain education funding decisions but not others.
+We read Davey more broadly:  the decision there recognized that
+state entities, in choosing how to provide education, may act upon
+their legitimate concerns about excessive entanglement with
+religion, even though the Establishment Clause may not require them
+to do so.
+In addition to holding that section 2951(2) impo ses no
+constitutionally impermissible burden on religion, the Strout panel
+
+-24-
+found no indication that substantial animus against religion had
+motivated the passage of that law.  See Strout, 178 F.3d at 65.
+Despite this finding, the appellants, relying on Church of the
+Lukumi Babalu Aye, Inc. v. City of Hialeah, 508 U.S. 520 (1993),
+resurrect the claim that se ction 2951(2) is presumptively
+unconstitutional because it lacks religious neutrality on its face.
+According to this thesis, the fact that the statute expressly
+excludes sectarian institutions as potential recipients of
+education funds necessarily indicates an animus against religion.
+The decision in Lukumi cannot bear the weight that the
+appellants pile upon it.  There, the Court invalidated a local
+ordinance that made it a crime to engage in certain kinds of animal
+slaughter beca use it found overwhelming evidence that animus
+against the Santeria religion had motivated the or dinance's
+passage.  See id. at 535, 546.  There is not a shred  of evidence
+that any comparable animus fueled the enactment of the challenged
+Maine statute.
+The Davey Court catalogued the principal factors to be
+considered in determining whether a particular law is motivated by
+religious animus.  To determine whether any implication that might
+be drawn from a state's decision not to fund a particular activity
+constitutes impermissible animus, an inquiring court must examine
+whether the state action in question imposes any civil or criminal
+sanction o n religious practice, denies participation in the
+
+-25-
+political affairs of the community, or r equires individuals to
+choose between religious beliefs and government benefits.  See
+Davey, 124 S. Ct. at 1312-13.  To the extent that these factors
+articulate a test for smoking ou t an anti-religious animus, the
+statute here passes that test with flying colors.  Maine's decision
+not to extend tuition funding to religious schools does not
+threaten any civil or criminal penalty.  By the same token, it does
+not in any way inhibit political participation.  Finally, it does
+not require residents to forgo religious convict ions in order to
+receive the benefit offered by the state — a secular education.
+If more were needed — and we doubt that it is — Davey
+recognized that states are not required to go to the brink of what
+the Establishment Clause permits.  Id. at 1311-12.  As part of its
+formulation of this doctrine, the Davey Court confirmed the
+legitimacy of extra-constitutional Establishment Clause concerns.
+See id.  Given these acknowledgments, it would be illogical to
+impose upon government entities a presumption of hostility whenever
+they take into account plausible entanglement concerns  in making
+decisions in areas that fall within the figurative space between
+the Religion Clauses.  Just as the Davey Court f ound that the
+scholarship program at issue there was not inherently suspect
+simply because "there [was] no d oubt t hat the State could,
+consistent with the Federal Constitution, permit [scholarship
+recipients] to pursue a degree in devotional theology," id., the
+
+-26-
+mere fact that a hypothetical program in which Maine extende d
+tuition funding to parochial schools might comport with the
+Establishment Clause would not support a presumption that religious
+hostility motivated its decision not to adopt such a scheme.
+In sum, recent Supreme Court jurisprudence reinforces
+rather than undermi nes Strout's conclusion that section 2951(2)
+perpetrates no free exercise violation.  That reinforced conclusion
+shortens the road that we must travel.  Having determined that the
+appellants' free exercise rights are not implicated by section
+2951(2), we have no occasion to ponder whether Maine's
+Establishment Clause defense constitutes a compelling interest that
+justifies the challenged restriction.  This, in tu rn, renders it
+unnecessary to construct and construe a hypothetical tuition plan
+based on the premise that Maine would repeal section 2951(2) but
+leave intact all other relevant provisions of the statutory scheme.
+It follows inexorably that we must apply rational basis
+scrutiny to the lines that the Maine statute actually draws.  See
+Davey, 124 S. Ct. at 1312 n.3.  That means that the appellants bear
+the burden of demonstrating that there exists no fairly conceivable
+set of facts that could ground a rational relationship between the
+challenged classification and the government's legitimate goals.
+Kittery Motorcycle, Inc. v. Rowe, 320 F.3d 42, 47 (1st Cir. 2003);
+Montalvo-Huertas, v. Rivera-Cruz, 885 F.2d 971, 978-79 (1st Cir.
+1989).  Like any other  cha llenger confronting rational basis
+
+-27-
+review, they must ru le out every plausible rationale that might
+support the law at issue.  Heller v. Doe, 509 U.S. 312, 320 (1993);
+Boivin v. Black, 225 F.3d 36, 44 (1st Cir. 2000).
+Under the best of circumstances, this is a steep uphill
+climb for a plaintiff.  The appellants have declined to engage in
+it.  At oral argument in this court, they conceded that if the
+rational basis test applies, their equal protection claim fails.
+This concession is understandable:  the legislative history clearly
+indicates Maine's reasons for excluding religious schools from
+education plans that extend public funding to private schools for
+the provision of secular education to Maine students.  These
+reasons include Maine's interests in concentrating  limited state
+funds on its goal of  pro viding secular education, avoiding
+entanglement, and allaying concerns about accountability that
+undoubtedly would accompany state oversight of parochial schools'
+curricula and policies (especially those pertaining to admission,
+religious tolerance, and participation in religious activities).
+In all events, we accept the appellants' concession at face value
+and hold that their equal protection challenge to section 2951(2)
+fails as a matter of law.
+We need not tarry in addressing appellants' addition al
+contention that section 2951(2) violates the fundamental right to
+speech because it discriminates on the basis of religious
+viewpoint.  The statute at issue here does not implicate the
+
+-28-
+appellants' speech rights at all.  As the Supreme Court made clear
+in Davey, state programs to fund general tuition costs are not fora
+for speech.  Davey, 124 S. Ct. at 1312 n.3.  The Maine education
+plan deals with the provision of secular secondary educational
+instruction to its residents; it does not commit to providing any
+open forum  to encourage diverse views from private speakers.
+Consequently, cases dealing with speech fora — such as Rosenberger
+v. Rector & Visitors of Univ. of Va., 515 U.S. 819 (1995), relied
+upon by the appellants — are not relevant.  See Davey, 124 S. Ct.
+1312 n.3.
+III.  CONCLUSION
+We need go no further.  For the reasons elucidated above,
+we conclude that th e district court did not err in granting the
+appellees' motion for summary judgment.
+Affirmed.

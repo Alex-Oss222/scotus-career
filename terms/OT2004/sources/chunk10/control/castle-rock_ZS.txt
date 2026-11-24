@@ -1,0 +1,248 @@
+
+
+  
+
+  
+
+	
+
+	
+
+	
+
+CASTLE ROCK V. GONZALES
+
+ 
+
+CASTLE ROCK V. GONZALES (04-278) 
+
+366 F.3d 1093, reversed.
+
+Syllabus
+
+ 
+
+Opinion
+
+ [ Scalia ]
+
+Concurrence
+
+ [ Souter ]
+
+Dissent
+
+ [ Stevens ]
+
+HTML version
+
+PDF version
+
+HTML version
+
+PDF version
+
+HTML version
+
+PDF version
+
+HTML version
+
+PDF version
+
+Syllabus
+
+NOTE: 
+Where it is feasible, a syllabus (headnote) will be
+released, as is being done in connection with this case, at the
+time the opinion is issued.
+The syllabus constitutes no part
+of the opinion of the Court but has been prepared by the
+Reporter of Decisions for the convenience of the reader.
+See
+
+United States
+ v. 
+Detroit Timber & Lumber Co.,
+
+200 U.S. 321
+,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+TOWN OF CASTLE ROCK, COLORADO 
+v
+.
+GONZALES, individually and a next best friend of her deceased
+minor children, GONZALES et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE TENTH CIRCUIT
+
+ 
+No. 04—278.
+
+Argued March 21,
+2005–Decided June 27, 2005
+
+Respondent filed this suit under 
+42 U.S.C. §
+1983
+ alleging that petitioner violated the 
+Fourteenth
+Amendment
+’s Due Process Clause when its police
+officers, acting pursuant to official policy or custom, failed
+to respond to her repeated reports over several hours that her
+estranged husband had taken their three children in violation
+of her restraining order against him.  Ultimately, the husband
+murdered the children.	The District Court granted the
+town’s motion to dismiss, but an en banc majority of the
+Tenth Circuit reversed, finding that respondent had alleged a
+cognizable procedural due process claim because a Colorado
+statute established the state legislature’s clear intent
+to require police to enforce retraining orders, and thus its
+intent that the order’s recipient have an entitlement to
+its enforcement.  The court therefore ruled, among other
+things, that respondent had a protected property interest in
+the enforcement of her restraining order.  
+
+Held:
+ Respondent did not, for Due
+Process Clause purposes, have a property interest in police
+enforcement of the restraining order against her husband.
+Pp. 6—19.
+
+    (a) The Due
+Process Clause’s procedural component does not protect
+everything that might be described as a government
+“benefit”: “To have a property interest in
+a benefit, a person … must … have a legitimate claim
+of entitlement to it.”  
+Board of Regents of State
+Colleges
+ v. 
+Roth,
+
+408 U.S. 564
+, 577. 
+Such entitlements are created by existing rules or
+understandings stemming from an independent source such as
+state law.  
+E.g., ibid
+.	Pp. 6—7.
+
+      (b) A
+benefit is not a protected entitlement if officials have
+discretion to grant or deny it.  See, 
+e.g.,
+
+Kentucky
+Dept. of Corrections
+ v. 
+Thompson,
+
+490 U.S. 454
+,
+462—463.  It is inappropriate here to defer to the Tenth
+Circuit’s determination that Colorado law gave respondent
+a right to police enforcement of the restraining order.  This
+Court therefore proceeds to its own analysis. 
+Pp. 7—9.
+
+      (c) Colorado
+law has not created a personal entitlement to enforcement of
+restraining orders.  It does not appear that state law truly
+made such enforcement 
+mandatory
+.  A well-established
+tradition of police discretion has long coexisted with
+apparently mandatory arrest statutes.  Cf. 
+Chicago
+ v.
+
+Morales, 
+
+527
+U.S. 41
+, 47, n. 2, 62, n. 32.  Against that
+backdrop, a true mandate of police action would require some
+stronger indication than the Colorado statute’s direction
+to “use every reasonable means to enforce a restraining
+order” or even to “arrest … or … seek a
+warrant.”	A Colorado officer would likely have some
+discretion to determine that–despite probable cause to
+believe a restraining order has been violated–the
+violation’s circumstances or competing duties counsel
+decisively against enforcement in a particular instance.  The
+practical necessity for discretion is particularly apparent in
+a case such as this, where the suspected violator is not
+actually present and his whereabouts are unknown.  In such
+circumstances, the statute does not appear to require officers
+to arrest but only to seek a warrant.  That, however, would be
+an entitlement to nothing but procedure, which cannot be the
+basis for a property interest.	Pp. 9—15.
+
+      (d) Even if
+the statute could be said to make enforcement
+“mandatory,” that would not necessarily mean that
+respondent has an entitlement to enforcement.  Her alleged
+interest stems not from common law or contract, but only from a
+State’s 
+statutory
+ scheme.  If she was given a
+statutory entitlement, the Court would expect to see some
+indication of that in the statute itself.  Although the statute
+spoke of “protected person[s]” such as respondent, it
+did so in connection with matters other than a right to
+enforcement.  Most importantly, it spoke directly to the
+protected person’s power to “initiate” contempt
+proceedings if the order was issued in a civil action, which
+contrasts tellingly with its conferral of a power merely to
+“request” initiation of criminal contempt
+proceedings–and even more dramatically with its complete
+silence about any power to “request” (much less
+demand) that an arrest be made.  Pp. 15—17.
+
+      (e) Even
+were the Court to think otherwise about Colorado’s
+creation of an entitlement, it is not clear that an individual
+entitlement to enforcement of a restraining order could
+constitute a “property” interest for due process
+purposes.  Such a right would have no ascertainable monetary
+value and would arise incidentally
+, 
+not out of some new
+species of government benefit or service, but out of a function
+that government actors have always performed–arresting
+people when they have probable cause.  A benefit’s
+indirect nature was fatal to a due process claim in
+
+O’Bannon
+ v. 
+Town Court Nursing Center,
+
+447 U.S. 773
+, 787. 
+Here, as there, “[t]he simple distinction between
+government action that directly affects a citizen’s legal
+rights … and action that is directed against a third party
+and affects the citizen only … incidentally, provides a
+sufficient answer to” cases finding government-provided
+services to be entitlements.  
+Id.,
+ at 788. 
+Pp. 17—19.
+
+366 F.3d 1093, reversed.
+
+Scalia, J., delivered the opinion of the
+Court, in which Rehnquist, C. J., and O’Connor,
+Kennedy, Souter, Thomas, and Breyer, JJ., joined.  Souter, J.,
+filed a concurring opinion, in which Breyer, J., joined. 
+Stevens, J., filed a dissenting opinion, in which Ginsburg, J.,
+joined.
+
+ 

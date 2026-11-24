@@ -1,0 +1,298 @@
+
+
+  
+
+  
+
+	
+
+	
+
+	
+
+EXXON MOBIL CORP. V. ALLAPATTAH SERVICES, INC.
+
+ 
+
+EXXON MOBIL CORP. V. ALLAPATTAH SERVICES, INC. (04-70) 
+
+No. 04—70, 333 F.3d 1248, affirmed; and No. 04—79, 370 F.3d 124, reversed and remanded.
+
+Syllabus
+
+ 
+
+Opinion
+
+ [ Kennedy ]
+
+Dissent
+
+ [ Stevens ]
+
+Dissent
+
+ [ Ginsburg ]
+
+HTML version
+
+PDF version
+
+HTML version
+
+PDF version
+
+HTML version
+
+PDF version
+
+HTML version
+
+PDF version
+
+Syllabus
+
+NOTE: 
+Where it is feasible, a syllabus (headnote) will be
+released, as is being done in connection with this case, at the
+time the opinion is issued.
+The syllabus constitutes no part
+of the opinion of the Court but has been prepared by the
+Reporter of Decisions for the convenience of the reader.
+See
+
+United States
+ v. 
+Detroit Timber & Lumber Co.,
+
+200 U.S. 321
+,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+EXXON MOBIL CORP. 
+v
+. ALLAPATTAH
+SERVICES, INC., et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE ELEVENTH CIRCUIT
+
+ 
+No. 04—70.
+
+Argued March 1,
+2005–Decided June 23, 2005
+
+*
+
+ 
+
+In No. 04—70, Exxon dealers filed a
+class action against Exxon Corporation, invoking the Federal
+District Court’s 
+28 U.S.C. §
+1332
+(a) diversity jurisdiction.  After the dealers won a
+jury verdict, the court certified the case for interlocutory
+review on the question whether it had properly exercised
+§1367 supplemental jurisdiction over the claims of class
+members who had not met §1332(a)’s minimum
+amount-in-controversy requirement.  The Eleventh Circuit upheld
+this extension of supplemental jurisdiction.  In No.
+04—79, a girl and her family sought damages from Star-Kist
+Foods, Inc., in a diversity action.  The District Court granted
+Star-Kist summary judgment, finding that none of the plaintiffs
+had met the amount-in-controversy requirement.	The First
+Circuit ruled that the girl, but not her family, had alleged
+the requisite amount, and then held that supplemental
+jurisdiction over the family’s claims was improper because
+original jurisdiction is lacking in a diversity case if one
+plaintiff fails to satisfy the amount-in-controversy
+requirement.
+
+Held:
+ Where the other elements of
+jurisdiction are present and at least one named plaintiff in
+the action satisfies §1332(a)’s amount-in-controversy
+requirement, §1367 authorizes supplemental jurisdiction
+over the claims of other plaintiffs in the same Article III
+case or controversy, even if those claims are for less than the
+requisite amount.  Pp. 4—25.
+
+    (a) Although
+district courts may not exercise jurisdiction absent a
+statutory basis, once a court has original jurisdiction over
+some claims in an action, it may exercise supplemental
+jurisdiction over additional claims arising from the same case
+or controversy.  See 
+Mine Workers
+ v. 
+Gibbs
+, 
+383 U.S. 715
+.  This
+expansive interpretation does not apply to §1332’s
+complete diversity requirement, for incomplete diversity
+destroys original jurisdiction with respect to all claims,
+leaving nothing to which supplemental claims can adhere.  But
+other statutory prerequisites, including the federal-question
+and amount-in-controversy requirements, can be analyzed claim
+by claim.  Before §1367 was enacted, every plaintiff had
+to separately satisfy the amount-in-controversy requirement,
+
+Clark
+ v. 
+Paul Gray, Inc.
+, 
+306 U.S. 583
+;
+
+Zahn
+ v. 
+International Paper Co.
+, 
+414 U.S. 291
+, and the
+grant of original jurisdiction over claims involving particular
+parties did not itself confer supplemental jurisdiction over
+additional claims involving other parties, 
+Finley
+ v.
+
+United States
+, 
+490 U.S. 545
+, 556. 
+Pp. 4—9.
+
+      (b) All
+parties here agree that §1367 overturned 
+Finley,
+
+but there is no warrant for assuming that is all it did.  To
+determine §1367’s scope requires examination of the
+statute’s text in light of context, structure, and related
+statutory provisions.  Section 1367(a) is a broad grant of
+supplemental jurisdiction over other claims within the same
+case or controversy, as long as the action is one in which
+district courts would have original jurisdiction.  Its last
+sentence makes clear that this grant extends to claims
+involving joinder or intervention of additional parties.  The
+question here is whether a diversity case in which the claims
+of some, but not all, plaintiffs satisfy the
+amount-in-controversy requirement qualifies as a “civil
+action of which the district courts have original
+jurisdiction,” §1367(a).  Pp. 9—11.
+
+      (c) The
+answer must be yes.  When a well-pleaded complaint has at least
+one claim satisfying the amount-in-controversy requirement, and
+there are no other relevant jurisdictional defects, the
+district court, beyond all question, has original jurisdiction
+over that claim.  A court with original jurisdiction over a
+single claim in the complaint has original jurisdiction over a
+“civil action” under §1367(a), even if that
+action comprises fewer claims than were included in the
+complaint.  Once a court has original jurisdiction over the
+action, it can then decide whether it has a constitutional and
+statutory basis for exercising supplemental jurisdiction over
+other claims in the action.  Section 1367(b), which contains
+exceptions to §1367(a)’s broad rule, does not
+withdraw supplemental jurisdiction over the claims of the
+additional parties here.  In fact, its exceptions support this
+Court’s conclusion.  Pp. 11—13.
+
+      (d) The
+Court cannot accept the alternative view, or its supporting
+theories, that a district court lacks original jurisdiction
+over a civil action unless it has original jurisdiction over
+every claim in the complaint.  The “indivisibility
+theory”–that all claims must stand or fall as a
+single, indivisible action–is inconsistent with the whole
+notion of supplemental jurisdiction and is belied by this
+Court’s practice of allowing federal courts to cure
+jurisdictional defects by dismissing the offending parties
+instead of the entire action.  And the statute’s broad and
+general language does not permit the theory to apply in
+diversity cases when it does not apply in federal-question
+cases.	The “contamination theory”–that
+inclusion of a claim or party falling outside the district
+court’s original jurisdiction contaminates every other
+claim in the complaint–makes sense with respect to the
+complete diversity requirement because a nondiverse
+party’s presence eliminates the justification for a
+federal forum.	But it makes little sense with regard to the
+amount-in-controversy requirement, which is meant to ensure
+that a dispute is sufficiently important to warrant
+federal-court attention.  It is fallacious to suppose, simply
+from the proposition that §1332 imposes both requirements,
+that the contamination theory germane to the former also
+applies to the latter.	This Court has already considered and
+rejected a virtually identical argument in the closely
+analogous removal-jurisdiction context.  See 
+Chicago
+ v.
+
+International College of Surgeons
+, 
+522 U.S. 156
+. 
+Pp. 13—19.
+
+      (e) In light
+of the statute’s text and structure, §1367’s
+only plausible reading is that a court has original
+jurisdiction over a civil action comprising the claims for
+which there is no jurisdictional defect.  Though a single
+nondiverse party can contaminate every other claim in a
+lawsuit, contamination does not occur with respect to
+jurisdictional defects going only to the substantive importance
+of individual claims.  Thus, §1367(a)’s threshold
+requirement is satisfied in cases, such as these, where some
+but not all of the plaintiffs in a diversity action allege a
+sufficient amount in controversy.  Section 1367 by its plain
+text overruled 
+Clark
+ and 
+Zahn
+ and authorized
+supplemental jurisdiction over all claims by diverse parties
+arising out of the same case or controversy, subject only to
+enumerated exceptions not applicable here.  P. 19.
+
+      (f) Because
+§1367 is not ambiguous, this Court need not examine other
+interpretative tools, including legislative history.  Even were
+it appropriate to do so, the Court would not give the
+legislative history significant weight.  Pp. 19—24.
+
+      (g) The
+Class Action Fairness Act has no impact on the analysis of
+these cases.  Pp. 24—25. 
+
+No. 04—70, 333 F.3d 1248, affirmed; and
+No. 04—79, 370 F.3d 124, reversed and remanded.
+
+    Kennedy, J.,
+delivered the opinion of the Court, in which Rehnquist,
+C. J., and Scalia, Souter, and Thomas, JJ.,  joined. 
+Stevens, J., filed a dissenting opinion, in which Breyer, J.,
+joined.  Ginsburg, J., filed a dissenting opinion, in which
+Stevens, O’Connor, and Breyer, JJ., joined.
+
+Notes
+
+*.
+  Together with No. 04—79, 
+del
+Rosario Ortega et al.
+ v. 
+Star-Kist Foods, Inc.,
+
+on certiorari to the United States Court of Appeals for the
+First Circuit. 
+
+ 

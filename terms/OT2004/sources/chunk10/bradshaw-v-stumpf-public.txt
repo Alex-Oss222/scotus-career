@@ -1,0 +1,85 @@
+Source: bradshaw-v-stumpf_merits_2005-06-13.md / Public Projection
+
+
+
+## Event
+
+Bradshaw v. Stumpf, No. 04-637. Merits decision, June 13, 2005. Argued April 19, 2005. Certiorari to the Sixth Circuit, reviewing 367 F.3d 594 in the federal habeas proceeding filed in November 1995. The questions concern Stumpf’s understanding of aggravated murder when he pleaded guilty and the consequences of the State’s differing accounts of who shot Mrs. Stout. Counsel represented that the elements had been explained, and Stumpf confirmed his understanding while denying that he fired the shots. The sentencing panel found him the principal offender. At Wesley’s later trial, the State presented evidence identifying Wesley as the shooter. Ohio seeks reinstatement of the denial of habeas relief; Stumpf seeks conviction and sentence relief or independent consideration of the capital claim.
+
+## Participation
+
+Chief Justice Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at argument and decision.
+
+## Public Action
+
+The Court reverses the plea-invalidity ruling, vacates the intertwined prosecutorial-inconsistency disposition, and remands for independent adjudication of the death-sentence claim.
+
+## Judgment & Remedy
+
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
+|---|---|---|---|---|
+| Conviction relief based on inadequate understanding of intent and the later shooter account | Reversed, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | Plea and conviction preserved against those grounds |
+| Independent death-sentence challenge | Intertwined disposition vacated and remanded, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | Separate adjudication under the applicable pre-AEDPA standards |
+
+## Opinion Topology
+
+O'CONNOR, J., delivered the unanimous opinion of the Court. SOUTER, J., filed a concurring opinion, in which GINSBURG, J., joined. THOMAS, J., filed a concurring opinion, in which SCALIA, J., joined. Each concurrence accompanies a complete join of the Court’s opinion.
+
+## Holdings
+
+### The record establishes understanding of purposeful aggravated-murder complicity
+
+**Holding and operative rule:** A guilty plea is knowing as to an essential offense element when the record establishes that competent counsel adequately explained the element and the defendant understood it; the judge need not personally give a prescribed recital. Stumpf’s counsel’s express representation and his own confirmation establish understanding here, and his denial that he fired the fatal shots does not contradict purposeful aggravated-murder complicity under Ohio law.
+
+**Authority:** The common Opinion of the Court coalition stated in Opinion Topology joins this rule and explanation.
+
+**Controlling explanation:** Henderson v. Morgan requires real notice of the offense’s essential elements. Brady v. United States and Boykin v. Alabama require informed, voluntary assent, while Bousley v. United States preserves accurate understanding of the offense rather than a ritual formula. Counsel represented that the elements had been explained, and Stumpf personally acknowledged that advice. His intellectual limitations and counsel’s resistance to identifying him as the shooter require examining that affirmative record; they do not erase it. Ohio’s offense permits liability through purposeful participation with the specific intent to cause death. Personal firing of the shots is a different fact. The Sixth Circuit therefore could not infer inadequate understanding of intent merely from Stumpf’s denial of shooter status. Counsel’s representation matters because this record establishes actual understanding, rather than because it creates an irrebuttable presumption.
+
+### The later shooter account does not invalidate the informed plea
+
+**Holding and operative rule:** The State’s later presentation identifying Wesley as the shooter does not invalidate Stumpf’s plea to purposeful aggravated-murder complicity. Shooter identity was not essential to the admitted offense, and the later presentation does not establish that Stumpf’s earlier assent lacked the required understanding.
+
+**Authority:** The common Opinion of the Court coalition stated in Opinion Topology joins this rule and explanation.
+
+**Controlling explanation:** The constitutional inquiry concerns what Stumpf understood and admitted when he pleaded guilty. The later evidence concerns which participant personally shot Mrs. Stout, a fact that can differ while both intentionally participate in the murder. Brady’s informed-plea rule does not make an adequately understood plea invalid because later evidence changes a defendant’s assessment of his choice. The sentencing significance of the later account requires the separate inquiry below because punishment depends on an individualized assessment beyond the minimum facts sustaining guilt.
+
+### The independent death-sentence claim requires its own adjudication
+
+**Holding and operative rule:** An informed aggravated-murder plea does not dispose of a claim that materially false or irreconcilable prosecution accounts affected the defendant’s individual culpability in the selection of death. The reviewing court must separately identify the actual accounts and later evidence, the State’s knowledge, their sentencing use, the applicable constitutional ground, and material prejudice under the governing pre-AEDPA standards.
+
+**Authority:** The common Opinion of the Court coalition stated in Opinion Topology joins this rule and explanation.
+
+**Controlling explanation:** Lindh v. Murphy and the application-date rule preserved in Carriger v. Stewart supply the pre-AEDPA merits regime for this November 1995 capital application. Napue v. Illinois and Giglio v. United States require knowledge and materiality for a knowing-false-evidence claim. Lockett v. Ohio and Eddings v. Oklahoma preserve individualized consideration of responsibility and mitigation. The existence of purposeful complicity thus cannot itself answer whether the State’s use of shooter identity impaired the death determination.
+
+The sentencing panel found Stumpf the principal offender, and the later prosecution used evidence identifying Wesley as the shooter. The Sixth Circuit intertwined the consequence of those accounts with its mistaken plea analysis. Its decision does not supply the independent factual predicates and sentencing rationale necessary for final resolution. The case returns for that adjudication. A general rule for all differing theories across trials exceeds the factual findings available here.
+
+## Precedent Treatment
+
+- Henderson v. Morgan: applied to actual notice of essential elements; its protection does not require the judge personally to provide a prescribed formula.
+- Brady v. United States: applied to informed, voluntary assent; a later change in the evidence does not itself invalidate this informed plea.
+- Boykin v. Alabama: applied to the record’s establishment of intelligent and voluntary assent.
+- Bousley v. United States: applied to accurate understanding of the offense.
+- Lindh v. Murphy: its application-date rule governs the relevant pre-AEDPA treatment.
+- Carriger v. Stewart: applies that treatment to the already filed capital application.
+- Napue v. Illinois: retains knowledge and materiality as predicates of the knowing-false-evidence route.
+- Giglio v. United States: retains the same due-process obligations for material false-evidence claims.
+- Lockett v. Ohio: applied to individualized consideration of responsibility apart from the validity of guilt.
+- Eddings v. Oklahoma: applied to meaningful consideration of culpability and mitigation in the death decision.
+
+## Law After Decision
+
+Counsel-provided explanation and the whole plea record may establish understanding of an essential element, while actual misunderstanding remains constitutionally material. Purposeful complicity and personal shooter identity remain distinct. A surviving conviction does not dispose of a preserved independent claim that the State’s factual accounts impaired the individualized selection of death.
+
+## Separate Writings
+
+Souter, joined by Ginsburg, concurs. He identifies a fundamental-fairness problem if the State continues to defend death for Stumpf by asserting that he alone was the shooter after relying on Wesley’s sole responsibility to seek death there. His concern rests on the prosecutor’s duty to justice and the reliability required for capital selection, without depending on a charge of deliberate deception. The sentencing record must establish the conduct, constitutional significance, prejudice and appropriate correction.
+
+Thomas, joined by Scalia, concurs. Newly obtained evidence and a later prosecution theory do not, in his view, by themselves undermine the fairness or reliability of the earlier proceeding. He stresses the adversarial opportunity to test conflicting evidence and distinguishes a newly discovered-evidence contention from an established constitutional violation. His agreement with the remand preserves that objection to the broader fairness theory.
+
+## Procedure After Action
+
+The case returns to the Sixth Circuit for independent consideration of the death-sentence claim and any necessary further proceedings on its factual predicates. The reviewing court must separately identify the actual accounts, knowledge where the constitutional ground requires it, sentencing reliance and prejudice. If a material constitutional sentencing violation is established, the habeas court must issue a conditional writ requiring lawful resentencing within a reasonable specified period or removal of the death sentence. The valid aggravated-murder conviction remains effective; a penalty-phase defect does not authorize unconditional release from that conviction.
+
+## Source Notes
+
+U.S. Const., amends. VIII and XIV; former 28 U.S.C. §2254; Stumpf v. Mitchell, 367 F.3d 594; Henderson v. Morgan, 426 U.S. 637; Brady v. United States, 397 U.S. 742; Boykin v. Alabama, 395 U.S. 238; Napue v. Illinois, 360 U.S. 264; Giglio v. United States, 405 U.S. 150; No. 04-637.

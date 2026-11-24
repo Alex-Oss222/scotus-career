@@ -1,0 +1,449 @@
+Source: https://www.justice.gov/osg/brief/mayle-v-felix-amicus-merits
+
+
+
+       Office of the Solicitor General |  Mayle v. Felix - Amicus (Merits) | United States Department of Justice
+
+        Skip to main content
+
+An official website of the United States government
+
+Here's how you know
+
+          Here's how you know
+
+              Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+
+              Secure .gov websites use HTTPS
+
+              A lock (   
+
+      Lock
+      Locked padlock
+
+ ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+                    DOJ Menu
+
+                            U.S. Department
+                            of Justice
+
+                    About
+
+                                            The Attorney General
+
+                                            Organizational Chart
+
+                                            Budget & Performance
+
+                                            History & Museum
+
+                                            Privacy Program
+
+                                            Our Work
+
+                    News
+
+                                            Press Releases
+
+                                            Speeches
+
+                                            Videos
+
+                                            Photo Galleries
+
+                                            Blogs
+
+                                            Podcasts
+
+                    Resources
+
+                                            Guidance Documents
+
+                                            Forms
+
+                                            Publications
+
+                                            Information for Victims in Large Cases
+
+                                            Justice Manual
+
+                                            Business and Contracts
+
+                                            Grants
+
+                    Employment
+
+                                            Why Justice ?
+
+                                            Benefits
+
+                                            DOJ Vacancies
+
+                                            Legal Careers at DOJ
+
+                                                            Our Offices
+
+                                                            Find Help
+
+                                                            Contact Us
+
+Utilities
+
+                                                            Our Offices
+
+                                                            Find Help
+
+                                                            Contact Us
+
+      Search
+
+          Menu
+          Close
+
+                    About
+
+                    About
+
+                                            Solicitors General 1870 - Present
+
+                                            The Solicitor General in Historical Context
+
+                                            Briefs
+
+                                            Employment Opportunities
+
+                                            FOIA
+
+                                            Contact
+
+                                                            Our Offices
+
+                                                            Find Help
+
+                                                            Contact Us
+
+Main Menu
+
+U.S. Department of Justice
+
+                    About
+
+                         title="About"
+
+                            About
+
+                                            The Attorney General
+
+                                            Organizational Chart
+
+                                            Budget & Performance
+
+                                            History & Museum
+
+                                            Privacy Program
+
+                                            Our Work
+
+                    News
+
+                         title="News"
+
+                            News
+
+                                            Press Releases
+
+                                            Speeches
+
+                                            Videos
+
+                                            Photo Galleries
+
+                                            Blogs
+
+                                            Podcasts
+
+                    Resources
+
+                         title="Guidance & Resources"
+
+                            Resources
+
+                                            Guidance Documents
+
+                                            Forms
+
+                                            Publications
+
+                                            Information for Victims in Large Cases
+
+                                            Justice Manual
+
+                                            Business and Contracts
+
+                                            Grants
+
+                    Employment
+
+                            Employment
+
+                                            Why Justice ?
+
+                                            Benefits
+
+                                            DOJ Vacancies
+
+                                            Legal Careers at DOJ
+
+                                                            Our Offices
+
+                                                            Find Help
+
+                                                            Contact Us
+
+              Search
+
+Breadcrumb
+
+                                            Justice.gov
+
+                                            Office of the Solicitor General
+
+                                            Briefs
+
+                                            Mayle V. Felix - Amicus (Merits)
+
+Brief
+
+Mayle v. Felix - Amicus (Merits)
+
+	Share
+
+                Facebook
+
+                X
+
+                LinkedIn
+
+                Email
+
+      Docket Number
+
+No. 04-563
+
+      Supreme Court Term
+
+2004 Term
+
+      Type
+
+Merits Stage Amicus Brief
+
+      Court Level
+
+Supreme Court
+
+No. 04-563  
+In the Supreme Court of the United States  
+DENEICE A. MAYLE, WARDEN, PETITIONER  
+v.  
+JACOBY LEE FELIX   
+ON WRIT OF CERTIORARI
+ TO THE UNITED STATES COURT OF APPEALS
+ FOR THE NINTH CIRCUIT
+
+BRIEF FOR THE UNITED STATES 
+ AS AMICUS CURIAE SUPPORTING PETITIONER
+
+PAUL D. CLEMENT
+ Acting Solicitor General 	Counsel of Record
+ CHRISTOPHER A. WRAY
+ Assistant Attorney General
+ MICHAEL R. DREEBEN Deputy Solicitor General
+ LISA S. BLATT
+ Assistant to the Solicitor
+ 	General
+ RICHARD A. FRIEDMAN
+ Attorney
+ Department of Justice
+ Washington, D.C. 20530-0001
+ (202) 514-2217
+
+QUESTION PRESENTED  
+Whether, under Federal Rule of Civil Procedure 15(c)(2), an amended habeas petition that is filed after the one-year limitation period under 28 U.S.C. 2244(d)(1) relates back to the date of an original timely filed habeas petition, simply because the amended petition asserts claims arising from the same trial and conviction that the prisoner attacked in the original petition.   
+In the Supreme Court of the United States   
+No. 04-563   
+DENEICE A. MAYLE, WARDEN, PETITIONER   
+v.   
+JACOBY LEE FELIX   
+ON WRIT OF CERTIORARI
+ TO THE UNITED STATES COURT OF APPEALS
+ FOR THE NINTH CIRCUIT
+
+BRIEF FOR THE UNITED STATES 
+ AS AMICUS CURIAE SUPPORTING PETITIONER
+
+INTEREST OF THE UNITED STATES   
+The court of appeals held that a state prisoner's amended habeas petition that is filed after the one-year limitation period under 28 U.S.C. 2244(d)(1) relates back to the filing of an original timely filed habeas petition under Federal Rule of Civil Procedure 15(c)(2), simply because the amended petition was based on claims arising from the same trial and conviction under attack in the original petition.  A similar one-year limitation period applies to collateral challenges to federal convictions under 28 U.S.C. 2255 ¶ 6, and the lower courts have held that the doctrine of relation back applies equally to proceedings under Section 2254 and under Section 2255.  E.g., Pet. App. A4 n.1;   
+Woodward v. Williams, 263 F.3d 1135, 1142 (10th Cir. 2001), cert. denied, 535 U.S. 973 (2002); Fama v. Commissioner of Corr. Servs., 235 F.3d 804, 816 (2d Cir. 2000).  Because the Court's ruling will apply to collateral attacks on federal criminal judgments, the United States has a substantial interest in the outcome of this case.  
+RELEVANT STATUTORY PROVISIONS  
+The relevant provisions of 28 U.S.C. 2244, Rule 2 of the Rules Governing Section 2254 Cases, and Rule 15 of the Federal Rules of Civil Procedure are set forth in an appendix to the brief. App., infra, 1a-5a.  
+STATEMENT  
+Following a jury trial in California state court, respondent was convicted of first degree murder and sentenced to life imprisonment without the possibility of parole.  The California Court of Appeal affirmed and the California Supreme Court denied review.  Respondent subsequently brought a timely petition for a writ of habeas corpus in the United States District Court for Eastern District of California.  He later amended the petition to add new claims after the expiration of the one-year limitation period under 28 U.S.C. 2244(d)(1). The district court dismissed the new claims as time-barred.  The United States Court of Appeals for the Ninth Circuit reversed that dismissal, ruling that the amended petition related back for statute of limitation purposes to the date of respondent's initial habeas petition.  
+1.	In 1995, respondent was convicted in California state court of first degree murder and second degree robbery of Richard Harper, and was sentenced to life imprisonment without the possibility of parole.  The focus of the prosecution's case at trial was a videotaped interview given by Kenneth Williams in which Williams reported to police the following events.  On September 21, 1993, just before the robbery and murder of Harper, Williams overheard respondent, who had an automatic weapon, speaking with two other individuals, Lawson and Curtis, about a plan to rob Harper to steal marijuana from him. Williams saw the three men go around the corner.  Two minutes later he heard six or seven shots.  Williams then observed respondent and Curtis getting into and driving Harper's vehicle.  Williams again saw the trio a short time later going through Harper's car.  When Williams asked respondent whether he shot Harper, respondent replied, "I think so."  Pet. App. C5.  Williams testified at trial but denied having any memory of his interview with the police, despite being shown videotaped excerpts of that interview in front of the jury.  Id. at C4.  
+Another witness also testified at trial that he overheard respondent state that a woman might have seen respondent on the night of the robbery and that respondent was "going back to smoke [shoot] her."  Pet. App. C4.  The State also introduced pre-trial statements to police that were made by respondent and Lawson, who each gave false or contradictory statements about their activities during the evening of the robbery and murder.   
+The California Court of Appeal affirmed respondent's conviction.  The California Supreme Court declined further review.  Respondent's conviction became final on August 12, 1997.  Pet. App. A5.  
+2.	On May 8, 1998, within the one-year limitation period for filing a petition for a writ of habeas corpus under the Antiterrorism and Effective Death Penalty Act of 1996 (AEDPA), 28 U.S.C. 2244(d)(1), respondent filed in federal district court a pro se petition for a writ of habeas corpus.  The petition raised three claims that respondent had exhausted on direct appeal:  that the admission into evidence of Williams's videotaped testimony violated respondent's rights under the Confrontation Clause of the Sixth Amendment; that the judge had erred in instructing the jury; and that there was insufficient evidence to support the conviction.  Pet. App. A5, G1-G7.   
+On May 29, 1998, a magistrate judge ordered the appointment of counsel.  Pet. App. C6, H2.  On August 11, 1998, the AEDPA one-year limitation period expired. Id. at A5.  
+On January 28, 1999, five months after the expiration of AEDPA's time limit, respondent's counsel filed an amended petition that reiterated his Confrontation Clause claim but deleted the instructional error and insufficient evidence claims.  The amended petition also contained two new claims:  that the police used coercive tactics during his pre-trial interrogation such that the admission at trial of his pre-trial statements violated his due process rights under the Fourteenth Amendment and his right against self-incrimination under the Fifth Amendment, and that respondent's counsel was ineffective in failing to raise that coerced confession claim on direct appeal.  Pet. App. A5, C6, I4-I19.  The State moved to dismiss the new claims for failure to exhaust, but that motion was vacated at the request of the State after respondent had exhausted the claims in state court.  Id. at C6-C7.  
+In February 2001, the magistrate judge issued findings and recommendations concluding that the coerced confession and ineffective-assistance-of-counsel claims should be dismissed as time-barred, because the amended petition raising those claims was not filed until after the expiration of AEDPA's one-year limitation period.  The magistrate judge observed that Federal Rule of Civil Procedure 15, which governs the amendment of pleadings, applies to habeas corpus actions, but that Rule 15(c)(2) does not permit an amended pleading to relate back to the date of the original pleading unless "the claim or defense asserted in the amended pleading arose out of the conduct, transaction, or occurrence set forth or attempted to be set forth in the original pleading."  Pet. App. C14.  The magistrate judge further explained that relation back was not warranted in this case on the theory that the original and amended claims "are based on the same criminal conviction."  Id. at C16.  Rather, the magistrate judge concluded, "[t]he claims  *  *  *  which concern [respondent's] allegedly involuntary statements to police do not arise out of the same conduct, transaction, or occurrence as the videotaped interrogation of Kenneth Williams."  Ibid.  Addressing respondent's timely Confrontation Clause on the merits, the magistrate judge recommended that it be dismissed.  Id. at C18- C45.  
+In June 2002, the district court dismissed respondent's amended claims as time-barred and dismissed respondent's Confrontation Clause claim on the merits, relying on the magistrate judge's findings and recommendations.  Pet. App. B1-B3.  The district court subsequently issued a certificate of appealability for both the Confrontation Clause and the amended claims. Id. at A6.  
+3.	A divided panel of the Ninth Circuit affirmed the district court's dismissal of respondent's Confrontation Clause claim but reversed the dismissal of his coerced confession claim and remanded that claim to the district court for further proceedings.  Pet. App. A1-A19.  The court of appeals recognized that the timeliness of the coerced confession claim, which was raised in an amended petition after the expiration of AEDPA's one-year time limit, turned on whether that claim arose from the "conduct, transaction, or occurrence" set forth in respondent's original petition within the meaning of Rule 15(c)(2)'s relation back rule.  Pet. App. A4.  Holding that "the transaction or occurrence" raised in respondent's original habeas petition was the "trial and conviction" under attack, the court of appeals concluded that the amended petition related back to the filing of the original petition.  Id. at A4, A6, A7.  In so holding, the court of appeals expressed its agreement (id. at A7) with the decision of the Seventh Circuit in Ellzey v. United States, 324 F.3d 521, 526 (2003).1  
+The Ninth Circuit reasoned that its holding was supported by a "literal application" of Rule 15(c).  Pet. App. A6.  The court also opined that respondent's original petition "brought his trial and conviction to the attention of the State," and thus had fairly put the State on notice that respondent might amend his petition to challenge other "allegedly unconstitutional rulings at trial."  Id. at A10.  The Ninth Circuit disagreed (id. at A8) with the majority of courts of appeals that have concluded that construing "conduct, transaction, or occurrence" to refer to a prisoner's conviction would impermissibly undermine AEDPA's one-year limit by invariably permitting expired claims to relate back to a timely filed post-conviction pleading.2  The court of appeals reasoned that "AEDPA *  *  *  still requires the original petition to be filed within the one-year period."  Ibid.  
+Judge Tallman dissented.  Pet. App. A13-A19.  He explained that to define "conduct, transaction, or occurrence" under Rule 15(c)(2) "so broadly that any claim stemming from pre-trial motions, the trial, or sentencing relates back to a timely-filed habeas petition" would "obliterate[] AEDPA's one year statute of limitation."  Pet. App. A13.  In Judge Tallman's view, "[w]hile an amendment offered to clarify or amplify the facts already alleged in support of a timely claim may relate back, an amendment that introduces a new legal theory based on facts different from those underlying the timely claim may not."  Id. at A18.  
+SUMMARY OF ARGUMENT  
+A prisoner cannot rely on the doctrine of relation back, under Federal Rule of Civil Procedure 15(c)(2), to render timely under the AEDPA's limitation period an otherwise untimely amendment to an original habeas petition, when the amendment articulates new grounds for relief and supporting facts that differ from those alleged in the original petition.  
+A.	Federal Rule of Civil Procedure 15(c)(2) permits relation back of an otherwise untimely pleading when "the claim  *  *  *  asserted in the amended pleading arose out of the conduct, transaction, or occurrence set forth or attempted to be set forth in the original pleading."  In the post-conviction setting, the "conduct, transaction, or occurrence" set forth in an original post-conviction pleading refers to the conduct or event that is the basis for the prisoner's collateral attack, i.e., the specific grounds for collateral relief and supporting facts that are set forth in the original pleading.  The Rules governing post-conviction proceedings require an original post-conviction pleading to set forth all grounds for relief and supporting facts available to the prisoner.  Rule 2(c)(1) and (2) of the Rules Governing Section 2254 Cases (Section 2254 Rules); Rule 2(b)(1) and (2) of the Rules Governing Section 2255 Proceedings (Section 2255 Rules).  Because relation back under Rule 15(c)(2) requires that any claim asserted in an amended pleading must arise from the "conduct, transaction, or occurrence" that is set forth in the original pleading, the phrase "conduct, transaction, or occurrence" logically refers to the grounds for relief and supporting facts that the prisoner was required to set forth in his original pleading.  
+Under that approach to Rule 15(c) in the post-conviction setting, relation back principles allow a prisoner to cure technical deficiencies of form in the original pleading; to add legal theories based on a set of facts previously identified in the original pleading; and to clarify or amplify facts set forth in the original pleading. The prisoner cannot, however, rely on relation back  to save an otherwise untimely pleading if the amended pleading asserts both new grounds for relief and a different set of facts than those set forth in the prisoner's original pleading.  
+Applying that analysis, respondent's claims of coerced confession and ineffective assistance of counsel on appeal are time barred because they do not arise out of any conduct, transaction, or occurrence that is specified in respondent's original petition.  Those claims rely on new legal theories and different events and conduct than those identified in respondent's original petition, which concerned the admission of extra-judicial testimony of a government witness, instructional error, and insufficient evidence.  The amended petition accordingly does not relate back under Rule 15(c)(2).  
+B.	The Ninth Circuit's view that the relevant "conduct, transaction, or occurrence" is the prisoner's trial and conviction conflicts with the central purpose of the AEDPA's one-year time limit:  to promote the finality of criminal convictions.  Because an original petition will almost always be based on a prisoner's underlying conviction, the rule embraced by the Ninth Circuit would invariably permit relation back of untimely claims no matter how disparate the amended claims were in both time and type from the claims set forth in the original petition.  That rule of virtually automatic relation back would substantially extend the time in which to raise new collateral attacks well beyond AEDPA's one-year limit and would undermine the principles of finality, federalism, and comity that animated the passage of the AEDPA.  
+C.	The conclusion that Rule 15(c)(2) permits relation back only when the amended pleading arises from the grounds for relief and supporting facts set forth in the prisoner's original post-conviction pleading is confirmed by the notice principle that serves as the foundation for the relation-back doctrine.  When an amended pleading asserts a claim of which the original pleading gave fair notice, there is no cause to assert a limitation period as a bar to relief.  Baldwin County Welcome Ctr. v. Brown, 466 U.S. 147, 150 n.3 (1984).  Thus, when an amended post-conviction pleading arises from the grounds for relief and supporting facts stated in a timely pleading, permitting the amended pleading to relate back is consistent with principles of fair notice.  By contrast, the rule adopted by the Ninth Circuit would permit an amended pleading to relate back even in cases such as the present one, where the original pleading provided no notice of the newly asserted basis for relief.  
+ARGUMENT  
+AN AMENDED POST-CONVICTION PLEADING RELATES BACK TO AN ORIGINAL PLEADING WHEN THE AMENDED PLEADING ARISES FROM THE CONDUCT, TRANSACTION, OR OCCURRENCE THAT IS THE BASIS FOR RELIEF SET FORTH IN THE ORIGINAL PLEADING  
+Following the expiration of AEDPA's one-year limitation period, 28 U.S.C. 2244(d)(1), respondent filed an amended habeas corpus petition that claimed that the admission at trial of respondent's pre-trial confession violated his due process rights because his confession was coerced by police and that counsel was ineffective on appeal in failing to press the coerced confession claim.  It is undisputed that those claims are time-barred unless they relate back to respondent's timely filed original petition that raised Confrontation Clause, instructional error, and evidence insufficiency claims.   
+According to the rule adopted by the Ninth Circuit, respondent's amended claims relate back to the date of his original petition because the "conduct, transaction, or occurrence" contemplated by Rule 15(c)(2) in this context is respondent's conviction, and because the original and amended claims arise from the same criminal conviction.  As illustrated by this csae, such a rule would permit relation back of untimely claims that would include any pre-trial, trial, or post-trial error that would provide a basis for challenging the conviction.  That approach "views 'occurrence' at too high a level of generality," United States v. Pittman, 209 F.3d 314, 318 (4th Cir. 2000), and is inconsistent with the rules governing post-conviction proceedings, the policies of finality, comity, and federalism underlying the AEDPA's one-year limitation period, and the requirement of fair notice that is embodied in Rule 15(c).  Properly construed, the Rule 15(c)(2) "conduct, transaction, or occurrence" out of which the amended petition must arise refers to the specific conduct, transaction, or occurrence that is the basis for a prisoner's legal challenge as set forth in his original habeas petition.  Because respondent's original petition gave the State no notice that respondent was challenging the introduction of his pre-trial confession, much less his counsel's effectiveness of assistance on appeal, respondent's amended claims do not relate back to his original petition and are time-barred.  
+A.	Federal Rule 15(c)(2) Permits Relation Back In Post- Conviction Proceedings When An Amended Claim Arises From The Grounds For Relief And Supporting Facts That Are Required To Be Set Forth In The Original Pleading   
+1.	An "[a]pplication for a writ of habeas corpus" "may be amended or supplemented as provided in the rules of procedure applicable to civil actions."  28 U.S.C. 2242.  Rule 15(a) of the Federal Rules of Civil Procedure provides that a party may amend a pleading after the opposing party has filed a responsive pleading "only by leave of court" or by consent of the adverse party, but "leave shall be freely given when justice so requires."  Rule 15(a) addresses when an amendment should be permitted, see Foman v. Davis, 371 U.S. 178, 182 (1962), but subsection (a) does not address whether an amended pleading that raises a new claim is nonetheless barred by an applicable statute of limitation. That issue is addressed by Rule 15(c), which provides in pertinent part that "[a]n amendment of a pleading relates back to the date of the original pleading when  *  *  *  the claim  *  *  *  asserted in the amended pleading arose out of the conduct, transaction, or occurrence set forth or attempted to be set forth in the original pleading."  Fed. R. Civ. P. 15(c)(2).   
+Rule 15(c)(2), however, cannot be applied to post-conviction pleadings in a manner that conflicts with the statutes and rules governing post-conviction proceedings.  Federal Rule of Civil Procedure 81(a)(2) states that the Federal Rules of Civil Procedure apply to "proceedings for  *  *  *  habeas corpus  *  *  *  to the extent that the practice in such proceedings is not set forth in  *  *  *  the Rules Governing Section 2254 Cases, or the Rules Governing Section 2255 Proceedings."  Similarly, Rule 11 of the Section 2254 Rules and Rule 12 of the Section 2255 Rules provide that the Federal Rules of Civil Procedure, "to the extent that they are not inconsistent with any statutory provisions or these rules, may be applied to a proceeding under these rules."3  See also Woodford v. Garceau, 538 U.S. 202, 208 (2003) ("The Federal Rules of Civil Procedure apply in the context of habeas suits to the extent that they are not inconsistent with the Habeas Corpus Rules."); Pitchess v. Davis, 421 U.S. 482, 489 (1975) (per curiam) (holding Federal Rule of Civil Procedure 60(b) does not trump exhaustion requirement under Section 2254).  
+2.	As stated, Rule 15(c)(2) permits relation back of an amended pleading when the claim asserted in the amended pleading "arose out of the conduct, transaction, or occurrence set forth  *  *  *  in the original pleading."  Fed. R. Civ. P. 15(c)(2).  In the context of an original pleading that collaterally attacks a criminal conviction, the phrase "conduct, transaction, or occurrence" refers to whatever conduct, event, or occurrence is alleged as the basis for the initial pleading's attack on the conviction, i.e., the specific grounds for relief and supporting facts that are set forth in the original pleading.  That conclusion best comports with the Section 2254 Rules and the Section 2255 Rules, which govern the content and form for post-conviction pleadings.  Those rules reflect Congress's unambiguous intent that the original post-conviction pleading (i.e., a petition for a writ of habeas corpus under Section 2254 or a motion to vacate, set aside, or correct a sentence under Section 2255) particularize the specific grounds for relief and supporting facts for the collateral challenge to the prisoner's conviction.4   
+Rule 2 requires that a prisoner's petition or motion must "specify all the grounds for relief available" to the prisoner and "state the facts supporting each ground." Section 2254 Rule 2(c)(1) and (2); Section 2255 Rule 2(b)(1) and (2).  The Model Form accompanying the Rules contains similar instructions as well as a cautionary statement that "[i]f you fail to set forth all the grounds" in the original pleading, "you may be barred from presenting additional grounds at a later date." Appendix of Forms for Petitions under 28 U.S.C. 2254 and Motions under Section 2255 (Instructions § 9, Model Form ¶ 12); see also Section 2254 Rule 2(d) and Section 2255 Rule 2(c) (requiring that original pleading "must substantially follow either the form appended to these rules" or form prescribed by local district-court rules).   
+For those reasons, the "conduct, transaction, or occurrence set forth or attempted to be set forth in the original pleading" in a Section 2254 or Section 2255 proceeding is not a prisoner's "trial and conviction," as held by the court of appeals.  Pet. App. A4, A6, A7. Rather, the phrase, in this context, refers to the particular conduct, event, or occurrence that serves as the ground for relief and supporting facts that the post-conviction Rules require the prisoner to specify in his original pleading.  Accordingly, an amended post-conviction pleading relates back to the date of the original pleading under Rule 15(c)(2) only if the amended claim arises from the grounds and set of facts identified in the prisoner's original pleading.  
+That conclusion does not render Rule 15(c)'s relation-back principle "meaningless in the habeas context," as suggested by the Ninth Circuit.  Pet. App. A7-A8, A9. For instance, relation back is appropriate when the amended pleading cures a technical or form deficiency in an original pleading, such as a missing signature.  See Advisory Committee Notes to 2004 Amendments to Rules 2 and 3 of the Section 2254 Rules and Section 2255 Rules (explaining amendments that require clerks to accept defective motions so that prisoner can later file corrected motion); cf. Edelman v. Lynchburg Coll., 535 U.S. 106 (2002) (permitting relation back of verification requirement under Title VII); Becker v. Montgomery, 532 U.S. 757 (2001) (permitting relation back of signature requirement for notice of appeal).  
+Relation back also is appropriate if the amended pleading adds a new legal theory that is based on the same set of facts that were specified in the original post-conviction pleading, i.e. the particular occurrences or conduct challenged in the original pleading.  Cf. Chavez v. Martinez, 538 U.S. 760 (2003) (rejecting self-incrimination clause challenge but remanding for substantive due process analysis of same conduct); McNeil v. Wisconsin, 501 U.S. 171, 175-179 (1991) (reviewing validity of admission of confession under Fifth and Sixth Amendments).  Relation back is also appropriate if an amended pleading clarifies or amplifies facts to support the specific grounds that were raised in the original pleading.  As Judge Edwards has explained in the D.C. Circuit's decision in United States v. Hicks, 283 F.3d 380, 388 (2002), "an amendment offered for the purpose of adding [to] or amplifying the facts already alleged in support of a particular claim may relate back." Conversely, an amendment "that attempts to introduce a new legal theory based on facts different from those underlying the timely claims may not."  Id. at 389; accord Pet. App. A18 (Tallman, J. dissenting).  
+3.	Under the above principles, respondent's amended petition does not arise out of any "conduct, transaction, or occurrence" that was raised in respondent's original petition.  Respondent's timely original petition raised three grounds for relief from his state court conviction:  the admission of Williams' out-of-court statement, instructional error, and insufficiency of the evidence.  Pet. App. G6.  The new claims raised in the amended petition, filed after the AEDPA's one-year limitation period, abandoned the latter two claims and raised entirely new grounds for relief based on a completely different set of facts:  the admission of respondent's allegedly coerced confession and counsel's alleged ineffective assistance on appeal for failure to raise the coerced confession claim.  "Here, it simply cannot be said that [the original and amended] claims arise from the same set of facts; rather, they arise from distinctly separate occurrences of both time and type." Id. at A18 (Tallman, J., dissenting); accord id. at D9 (magistrate judge's recommended findings) ("Obviously, the theories and facts of the claims are distinct."). Respondent's untimely amended petition therefore should have been dismissed as time-barred under the AEDPA's one-year time limit.  
+B.	The Court Of Appeals' Interpretation Of Rule 15(c)(2) Conflicts With The Purposes Of AEDPA's One-Year Time Limit   
+1.	"Congress enacted AEDPA to reduce delays in the execution of state and federal criminal sentences, particularly capital cases," and "to further the principles of comity, finality, and federalism."  Woodford v. Garceau, 538 U.S. 202, 206 (2003) (quoting Willams v. Taylor, 529 U.S. 362, 386, 436 (2000)).  In particular, the AEDPA's one-year limitation period "quite plainly serves the well-recognized interest in the finality" of criminal judgments by "restricting the time that a prospective federal habeas petitioner has in which to seek federal habeas review."  Duncan v. Walker, 533 U.S. 167, 179 (2001).  Those purposes are best served by permitting relation back of an amendment that is filed beyond AEDPA's one-year limitation period only when the amendment arises out of the grounds and set of facts set forth in an original timely filed pleading.  That rule is "faithful  *  *  *  to the concerns about drawn-out and unlimited collateral attacks on federal criminal judgments evinced by the passage of AEDPA."  Hicks, 283 F.3d at 389; accord United States v. Duffus, 174 F.3d 333, 338 (3d Cir.) ("A prisoner should not be able to assert a claim otherwise barred by the statute of limitations merely because he asserted a separate claim within the limitations period."), cert. denied, 528 U.S. 866 (1999).   
+By contrast, a rule that the "conduct, transaction, or occurrence" is the prisoner's trial and conviction "would be difficult to square with Congress' decision to expedite collateral attacks by placing stringent time restrictions" on Section 2254 petitions and Section 2255 motions.  Hicks, 283 F.3d at 388.  The Ninth Circuit's rule would mean that amendments "would almost invariably be allowed even after the statute of limitations has expired, because most [collateral] claims arise from a criminal defendant's underlying conviction and sentence."  Pittman, 209 F.3d at 318; Hicks, 283 F.3d at 388 ("In most cases, a prisoner's claims for relief will arise out of the same criminal conviction; if the defendant's trial and sentencing are construed to be the 'occurrence,' virtually any purported amendment will relate back."); see also Section 2254 Rule 2(e) and Section 2255 Rule 2(d) (requiring separate petitions or motions for separate judgments under attack).   
+Because a judgment of conviction generally embodies the jury verdict or plea and the sentence, see, e.g., Fed. R. Crim. P. 32(k)(1), the rule embraced by the Ninth Circuit would significantly extend the one-year limitation period with respect to any new grounds for relief or supporting set of facts that arise out of the conviction at issue, even though the new grounds and facts were not set forth in the original petition.  "By defining 'conduct, transaction, or occurrence' so broadly that any claim stemming from pre-trial motions, the trial, or sentencing relates back to a timely-filed habeas petition," the Ninth Circuit's rule would permit "the 'relation-back' doctrine to swallow AEDPA's statute of limitation, rendering it a virtual nullity through which an unlimited number of amendments must be liberally permitted so long as the original collateral attack  was timely filed."  Pet. App. A13, A16 (Tallman, J., dissenting) (footnote omitted); see also United States v. Espinoza-Saenz, 235 F.3d 501, 505 (10th Cir. 2000) ("[T]o allow amendment under that broad umbrella would be tantamount to judicial rescission of AEDPA's statute of limitations period."); accord Davenport v. United States, 217 F.3d 1341, 1346 (11th Cir. 2000), cert. denied, 532 U.S. 907 (2001); Pittman, 209 F.3d at 318; Duffus, 174 F.3d at 337-338.  
+In Duncan, this Court refused to adopt an interpretation of the AEDPA that would permit a state prisoner's filing of a federal habeas petition to count as a post-conviction filing that tolls the one-year limitation period under Section 2244(d)(2) because that interpretation "would hold greater potential to hinder finality."  533 U.S. at 178.  The Ninth Circuit's interpretation similarly should be rejected because it "would hold greater potential to hinder finality."  Ibid.  The Ninth Circuit's holding would permit indefinite relation back for untimely claims arising out of the prisoner's conviction so long as the case remains pending.  That time period in many instances would last well beyond the expiration of AEDPA's one-year limit.   
+For instance, in a sample of habeas actions disposed of during 1992, the average (mean) number of days to resolve the case on the merits in district court was 477 days, and that number was 925 days for multiple-issue habeas petitions involving a sentence of death.  Bureau of Justice Statistics, U.S. Dep't of Justice, Federal Habeas Corpus Review 23-25 (1995).  Even the median case processing time for all habeas cases, including those not addressed on the merits, was about 6 months, with 10% taking more than 761 days to resolve.  Id. at 19-20; see also Pet. App. A16 n.2 (Tallman, J., dissenting) (observing that respondent's case was pending for four years before the district court resolved respondent's Confrontation Clause claim on the merits).  Thus, by embracing a rule that would invariably lead to relation back of untimely claims as long as they arose out of the prisoner's conviction, the net effect of the Ninth Circuit's rule would be to extend the limitations period for filing collateral challenges substantially beyond the time period specified by Congress.   
+2.	The Ninth Circuit believed that its holding was tempered by the fact that a prisoner who delays the filing of an amended petition runs the risk that the district court will have already entered judgment on the merits with respect to the original petition and the prisoner therefore will have to meet the more stringent requirements for bringing a second or successive petition under 28 U.S.C. 2244(b)(2).  Pet. App. A8-A9 n.2.  As discussed, however, a considerable amount of time may pass before a court resolves a prisoner's original claim or claims.  Moreover, because the amount of time to resolve any given collateral attack will vary in light of the complexity of the case and docket of the district court, the Ninth Circuit's approach would create anomalies and inequities that could not have been intended by Congress.  A prisoner seeking relief from a conviction before a district court that promptly enters final judgment with respect to the original petition not only will have to raise any additional challenges to his conviction under the strict requirements for second and successive petitions, ibid., but he also will have to comply with the one-year limitation period with respect to any additional claims.  By contrast, a similarly-situated prisoner whose case is pending before a court that takes a longer time to act on an original petition is free to mount additional and effectively consecutive attacks on the conviction without regard to AEDPA's one-year time limit or the Act's provisions on second or successive petitions.  There is no basis for reading Rule 15(c) to create such disparate treatment.5  
+The Ninth Circuit also attempted to justify its holding on the theory that "abuses of [Federal Rule of Civil Procedure] 15 can be controlled by the district court under subsection (a), which requires leave of court to file an amendment after a responsive pleading has been filed."  Pet. App. A9; see also Ellzey, 324 F.3d at 527.  As the Ninth Circuit recognized, Pet. App. A9 n.3, however, Federal Rule of Civil Procedure 15(a) requires leave to be "freely given," and will be typically given absent prejudice to the opposing party or other similar circumstances.  Foman v. Davis, 371 U.S. at 182.  More importantly, permitting relation back of an otherwise proper amendment under Rule 15(a) (i.e., because there is no prejudice to the government) would nonetheless substantially extend AEDPA's one-year limit and therefore would "thwart[] the basic objective of repose underlying the very notion of a limitations period."  Rotella v. Wood, 528 U.S. 549, 554 (2000); Duffus, 174 F.3d at 338 (recognizing principle "that usually statutes of limitations operate without taking prejudice from delay into account").   
+The harm to the principle of repose is particularly acute in the post-conviction setting where a prisoner attacks an otherwise final criminal conviction.  By interfering with the finality of criminal judgments, collateral review of criminal convictions entails "profound societal costs."  Calderon v. Thompson, 523 U.S. 538, 554 (1998) (quoting Smith v. Murray, 477 U.S. 527, 539 (1986)). Such review "extends the ordeal of trial for both society and the accused," Engle v. Isaac, 456 U.S. 107, 126-127 (1982), and undermines the government's ability to exact retribution for crimes because it prevents the government from executing the moral judgments reflected in criminal convictions, Thompson, 523 U.S. at 556.  The absence of finality also frustrates deterrence and rehabilitation.  Effective deterrence depends on the expectation that punishment will be swift and sure, and successful rehabilitation requires the defendant to accept that he is justly subject to sanction and that he needs to be rehabilitated.  Isaac, 456 U.S. at 127-128 n.32.  
+Collateral review of state convictions also threatens the other purposes for Congress's enactment of AEDPA-the promotion of comity and federalism. Woodford v. Garceau, 538 U.S. at 206; Schlup v. Delo, 513 U.S. 298, 318 (1995).  Review of state court judgments by lower federal courts "frustrate[s] both the States' sovereign power to punish offenders and their good faith attempts to honor constitutional rights." Isaac, 456 U.S. at 128.  The costs to comity and federalism are magnified in cases like the present one in which the prisoner's untimely claims had not been exhausted in state court.  Baldwin v. Reese, 124 S. Ct. 1347, 1351 (2004); Carey v. Saffold, 536 U.S. 214, 219 (2002).  
+C.	The Court Of Appeal's Holding Conflicts With The Notice Principle Of Rule 15(c)(2)  
+1.	Rule 15(c)(2) is premised on the principle that once an original pleading "'give[s] the defendant fair notice of what the plaintiff's claim is and the grounds upon which it rests,'" the defendant "has been given all the notice that statutes of limitations were intended to provide."  Baldwin County Welcome Ctr. v. Brown, 466 U.S. 147, 150 n.3 (1984) (per curiam) (quoting Conley v. Gibson, 355 U.S. 41, 47, (1957)).  Thus, the relation back principle, which was "a well-recognized doctrine" that pre-dated the Federal Rules, Scarborough v. Principi, 124 S. Ct. 1856, 1867 (2004) (quoting Advisory Committee's 1937 note on Subd. (c) of Fed. R. Civ. P. 15), recognizes that "[w]hen a defendant has had notice from the beginning that the plaintiff sets up and is trying to enforce a claim against it because of specified conduct, the reasons for the statute of limitations do  not exist."  New York Cent. & Hudson River R.R. v. Kinney, 260 U.S. 340, 346 (1922); see, e.g., Scarborough, 124 S. Ct. at 1867 (permitting relation back of the "not substantially justified" allegation required by the Equal Access to Justice Act because "the allegation does not serve an essential notice-giving function").  
+The notice principle that undergirds Rule 15(c)(2) fully supports viewing the "conduct, transaction, or occurrence" as the specific grounds for relief and supporting facts identified by the prisoner in his original pleading. In the ordinary civil context, "amendments that do no more than restate the original claim with greater particularity or amplify the details of the transaction alleged in the preceding pleading fall within Rule 15(c)" because the opposing party has been notified by the original pleading of the gist of the plaintiff's claim.  6A Charles Alan Wright, et al., Federal Practice and Procedure § 1497, at 76 (1990) (footnotes omitted). Under similar principles, an amendment that "changes the legal theory on which the action initially was brought" relates back to an original filing "if the factual situation upon which the action depends remains the same and has been brought to defendant's attention by the original pleading."  Id. at 95 (footnote omitted); See, e.g., Tiller v. Atlantic Coast Line R.R., 323 U.S. 574 (1945) (amended Federal Boiler Inspection Act claim related back to timely filed Federal Employers' Liability Act claim based on same train accident that injured the plaintiff).   
+By contrast, relation back is not appropriate where "the amended petition set[s] up not only a different state of facts, but a different rule of law as the ground of the action." Missouri, Kan. & Tex. Ry. v. Wulf, 226 U.S. 570, 577 (1913).  Yet the Ninth Circuit's conception of "conduct, transaction, or occurrence" as the conviction under collateral attack would permit relation back in such instances by allowing a prisoner to raise expired claims arising from different pre-trial, trial, or post-trial events of which the original pleading gave the government no notice.  As Judge Edwards has cogently explained, where an amended post-conviction pleading raises "an entirely new legal theory that arises from an entirely different set of facts and type of conduct," "the Government would be deprived of 'sufficient notice of the facts and claims giving rise to the proposed amendment,' thus subverting the central policy of the relation back doctrine."  Hicks, 283 F.3d at 388, 389 (quoting Anthony v. Cambra, 236 F.3d 568, 576 (9th Cir. 2000), cert. denied, 533 U.S. 941 (2001)).   
+This case well illustrates the point.  There is nothing in respondent's original petition that notified the State that respondent was seeking relief from his conviction based on the court's refusal to suppress incriminating pre-trial statements that respondent made to police, much less counsel's alleged ineffectiveness on appeal. To permit relation back in that instance would improperly require the State "to prepare the case a second time."  Charles Alan Wright et al., supra, at 85.6   
+It would also be incorrect to conclude, as suggested by the Ninth Circuit, that an original petition brings an entire "trial and conviction to the attention of the State."  Pet. App. A10.  As discussed, pp. 13-14, supra, the Rules governing collateral challenges require the original pleading to set forth a specific ground for relief and supporting facts.  Similarly, a pleading that seeks relief from a conviction based on a mere general allegation of an invalid trial or conviction, without any supporting grounds or facts, would provide the government with no "'notice of what the plaintiff's claim is and the grounds upon which it rests'" and therefore would "not be an original pleading that could be rehabilitated by invoking Rule 15(c)."  Baldwin County Welcome Ctr., 466 U.S. at 150 n.4 (quoting Conley v. Gibson, 355 U.S. at 47).  Accordingly, the government may be properly charged with notice of only those grounds for relief and set of supporting facts that were identified in a prisoner's timely-filed pleading.  Cf. Schiavone v. Fortune, 477 U.S. 21, 31 (1986) (observing that under the 1990 version of Rule 15(c), which permitted relation back of an amendment that changes party-defendant, "[t]he linchpin is notice, and notice within the limitations period").  Moreover, the notion that the government is entitled to notice of no more than the bare fact that a habeas petition has been filed is inconsistent with the limitation in Rule 15(c)(2) that relation back not extend beyond the "conduct, transaction, or occurrence" addressed in the original pleading.  
+3.	The Ninth Circuit also expressed the view that its interpretation of Rule 15(c) conformed to principles of res judicata in the civil context such that "anything that would be barred, if not brought now, may be added and litigated" under Rule 15(c)(2).  Pet. App. A7 (quoting Ellzey, 324 F.3d at 526).  The text of Rule 15(c), however, does not mention res judicata, and the two doctrines serve different purposes.  Whereas Rule 15(c) is concerned with fair notice, res judicata furthers principles of judicial economy and the protection of parties from the burdens of repetitious litigation.  Parklane Hosiery Co. v. Shore, 439 U.S. 322, 327 (1979).   
+Moreover, principles of res judicata governing  civil cases do not govern post-conviction proceedings. Rather, Congress in AEDPA has enacted a "modified res judicata rule" in AEDPA's provisions dealing with second or successive petitions or motions.  Felker v. Turpin, 518 U.S. 651, 664 (1996); 28 U.S.C. 2244(b), 2255 ¶ 8.  Under AEDPA, any "claim" presented in a successive petition or motion that "was presented" in a prior petition or motion must be dismissed, whereas any "claim" that "was not presented" previously will not be dismissed if the claim meets certain gatekeeping requirements.  28 U.S.C. 2244(b)(1) and (2).  Those provisions reflect a conception of "claim" that refers to "a challenge to a particular step in the case, such as the introduction of a given piece of evidence, the text of a given jury instruction, or the performance of counsel." Brannigan v. United States, 249 F.3d 584, 588 (7th Cir.) (Easterbrook, J.), cert. denied, 534 U.S. 874 (2001).  The contrary view--that a "claim" refers to the entire trial and conviction--"would imply that every successive collateral attack on a single conviction and sentence must be dismissed."  Ibid.   
+AEDPA's second and successive provisions, like the Rules governing post-conviction proceedings generally, thus focus on the particular grounds and supporting facts that are the basis for the prisoner's collateral challenge.  Those provisions, like AEDPA's one-year limitation period, all reflect Congress's overarching concern for finality of criminal convictions.  The court of appeals' conception of relation back in the post-conviction setting undermines that fundamental concern as well as the requirement of fair notice that forms the justification for the relation back doctrine under Rule 15(c)(2).  
+CONCLUSION  
+The judgment of the court of appeals should be reversed.   
+Respectfully submitted.   
+PAUL D. CLEMENT
+ Acting Solicitor General
+ CHRISTOPHER A. WRAY
+ Assistant Attorney General
+ MICHAEL R. DREEBEN
+ Deputy Solicitor General
+ LISA S. BLATT
+ Assistant to the Solicitor
+ 	General
+ RICHARD A. FRIEDMAN
+ Attorney
+
+FEBRUARY 2005   
+1	The court of appeals did not explicitly rule on the timeliness of respondent's claim of ineffective assistance of counsel on appeal, but the decision appears to have treated that claim as part  of respondent's coerced confession claim because respondent's amended habeas petition combined the two theories as one ground for relief from his conviction.  Pet. App. I4-I19.  
+2	See United States v. Hicks, 283 F.3d 380, 388 (D.C. Cir. 2002); United States v. Espinoza-Saenz, 235 F.3d 501, 505 (10th Cir. 2000); Davenport v. United States, 217 F.3d 1341, 1346 (11th Cir. 2000), cert. denied, 532 U.S. 907 (2001); United States v. Pittman, 209 F.3d 314, 318 (4th Cir. 2000); United States v. Duffus, 174 F.3d 333, 337-338 (3d Cir.), cert. denied, 528 U.S. 866 (1999).  
+3	All citations to the Section 2254 Rules and Section 2255 Rules refer to the version that became effective on December 1, 2004. http://www.uscourts.gov/rules/index.html#congressional120104.  
+4	Rule 2's specificity requirement was contained in the original Rules that were drafted by the Advisory Committee in 1976, were transmitted to Congress by this Court by Order of April 26, 1976, and were approved by Congress after "careful study."  H.R. Rep. No. 1471, 94th Cong., 2d Sess. 2 (1976); see also Pub. L. No. 94-426, 90 Stat. 1334; Advisory Committee Notes to Section 2254 Rule 2, 1976 Adoption (Rule 2(c) "requires that all available grounds for relief be presented in the petition.").  
+5	The court of appeals in Ellzey, 324 F.3d at 526, stated that, under the government's view of Rule 15(c), post-conviction "pleadings could not be amended at all," even if filed within the one-year limit, "for a successive collateral attack requires prior appellate approval" under 28 U.S.C. 2244(b)(3)(A) and 2255 ¶ 8.  That suggestion is unfounded.  As long as a post-conviction proceeding is pending, all timely amendments may be filed under Rule 15(a) without becoming a second or successive filing under AEDPA.  Johnson v. United States, 196 F.3d 802, 805 (7th Cir. 1999) ("A prisoner receives one complete round of litigation, which as in other civil suits includes the opportunity to amend a pleading before judgment.").  That conclusion holds true even where the amended petition raises claims based on different grounds and facts from the original petition, so long as the amendment is filed within the limitations period.  Rule 15(a) does not require any "conduct, transaction, or occurrence" connection between the original and amended claims, and Rule 15(c)(2) is relevant only when the amended petition is filed after the expiration of the limitations period.  
+6	Respondent was aware of the events giving rise to his coerced confession and ineffective-assistance-of-counsel claims before he filed his original petition.  Br. in Opp. 2 n.2 (noting that respondent's counsel objected before trial to the introduction of respondent's pre-trial statements); cf. 28 U.S.C. 2244(d)(1)(B)-(D), 2255 ¶ 6(2)-(3) (providing separate limitations period for certain claims such as newly discovered evidence). 
+
+APPENDIX  
+1.	Section 2244 of Title 18 U.S.C., provides in relevant part:  
+Finality of determination  
+*     *     *     *     *  
+(b)(1)  A claim presented in a second or successive habeas corpus application under section 2254 that was presented in a prior application shall be dismissed.  
+(2)	A claim presented in a second or successive habeas corpus application under section 2254 that was not presented in a prior application shall be dismissed unless-  
+(A)	the applicant shows that the claim relies on a new rule of constitutional law, made retroactive to cases on collateral review by the Supreme Court, that was previously unavailable; or  
+(B)(i)	the factual predicate for the claim could not have been discovered previously through the exercise of due diligence; and  
+(ii)	the facts underlying the claim, if proven and viewed in light of the evidence as a whole, would be sufficient to establish by clear and convincing evidence that, but for constitutional error, no reasonable factfinder would have found the applicant guilty of the underlying offense.  
+(3)(A)	Before a second or successive application permitted by this section is filed in the district court, the applicant shall move in the appropriate court of appeals for an order authorizing the district court to consider the application.  
+(B)	A motion in the court of appeals for an order authorizing the district court to consider a second or successive application shall be determined by a three-judge panel of the court of appeals.  
+(C)	The court of appeals may authorize the filing of a second or successive application only if it determines that the application makes a prima facie showing that the application satisfies the requirements of this subsection.  
+(D)	The court of appeals shall grant or deny the authorization to file a second or successive application not later than 30 days after the filing of the motion.  
+(E)	The grant or denial of an authorization by a court of appeals to file a second or successive application shall not be appealable and shall not be the subject of a petition for rehearing or for a writ of certiorari.  
+(4)	A district court shall dismiss any claim presented in a second or successive application that the court of appeals has authorized to be filed unless the applicant shows that the claim satisfies the requirements of this section.  
+*     *     *     *     *  
+(d)(1) A 1-year period of limitation shall apply to an application for a writ of habeas corpus by a person in custody pursuant to the judgment of a State court. The limitation period shall run from the latest of-  
+(A)	the date on which the judgment became final by the conclusion of direct review or the expiration of the time for seeking such review;  
+(B)	the date on which the impediment to filing an application created by State action in violation of the Constitution or laws of the United States is removed, if the applicant was prevented from filing by such State action;  
+(C)	the date on which the constitutional right asserted was initially recognized by the Supreme Court, if the right has been newly recognized by the Supreme Court and made retroactively applicable to cases on collateral review; or  
+(D)	the date on which the factual predicate of the claim or claims presented could have been discovered through the exercise of due diligence.  
+(2)	The time during which a properly filed application for State post-conviction or other collateral review with respect to the pertinent judgment or claim is pending shall not be counted toward any period of limitation under this subsection.   
+2.	Rule 2 of the Rules Governing Section 2254 Cases provides in relevant part:   
+The Petition   
+*     *     *     *     *  
+(c)	Form.  The petition must:  
+(1) 	specify all the grounds for relief available to the petitioner;  
+(2) 	state the facts supporting each ground;  
+(3) 	state the relief requested;  
+(4) 	be printed, typewritten, or legibly hand-written; and  
+(5)	be signed under penalty of perjury by the petitioner or by a person authorized to sign it for petitioner under 28 U.S.C. § 2242.  
+(d)	Standard Form.  The petition must substantially follow either the form appended to these rules or a form prescribed by a local district-court rule.  The clerk must make forms available to petitioners without charge.  
+(e)	Separate Petitions for Judgments of Separate Courts.  A petitioner who seeks relief from judgments of more than one state court must file a separate petition covering the judgment of judgments of each court.   
+3.	Federal Rule of Civil Procedure 15 provides in relevant part:  
+Amended and Supplemental Pleadings  
+(a)	Amendments. A party may amend the party's pleading once as a matter of course at any time before a responsive pleading is served or, if the pleading is one to which no responsive pleading is permitted and the action has not been placed upon the trial calendar, the party may so amend it at any time within 20 days after it is served.  Otherwise a party may amend the party's pleading only by leave of court or by written consent of the adverse party; and leave shall be freely given when justice so requires.   
+*     *     *     *     *  
+(c)	Relation Back of Amendments.  An amendment of a pleading relates back to the date of the original pleading when  
+*     *     *     *     *  
+(2)	the claim or defense asserted in the amended pleading arose out of the conduct, transaction, or occurrence set forth or attempted to be set forth in the original pleading  *  *  *.
+
+        Brief
+
+              2004-0563.mer.ami.pdf
+              [PDF, ]
+
+Updated October 21, 2014
+
+Office of the Solicitor General
+950 Pennsylvania Ave. NW
+Washington DC 20530-0001
+
+202-514-2203
+
+Signup for Email Updates
+Social Media
+
+About
+Budget & Performance
+Archives
+FOIA
+
+Accessibility
+
+Legal Policies & Disclaimers
+
+Privacy
+
+For Employees
+
+Office of the Inspector General
+No FEAR Act Data
+EEO Policy Statement
+Vulnerability Disclosure
+
+Multilingual
+Vote.gov
+Have a question about Government Services?
+Contact USA.gov
+
+        Top
+

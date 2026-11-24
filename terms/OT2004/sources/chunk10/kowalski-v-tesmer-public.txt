@@ -1,0 +1,68 @@
+Source: kowalski-v-tesmer_merits_2004-12-13.md / Public Projection
+
+
+
+## Event
+
+Kowalski v. Tesmer, No. 03-407. On writ of certiorari to the United States Court of Appeals for the Sixth Circuit; argued October 4, 2004; decided December 13, 2004. The en banc judgment, 333 F.3d 683, permitted attorneys to assert future indigent clients' constitutional rights and invalidated Michigan's appointment restriction. The question is whether these attorneys may assert the rights of unidentified future indigent clients seeking leave to appeal after guilty or no-contest pleas.
+
+## Participation
+
+Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated.
+
+## Public Action
+
+The Court reverses the judgment insofar as it rests on the attorneys' third-party claim and remands for dismissal of that claim and conforming relief.
+
+## Judgment & Remedy
+
+**Judgment: Reversed and remanded as to the attorneys' third-party claim, 6–3.**
+
+**Supporting:** Stone-Zsela, O'Connor, Scalia, Kennedy, Thomas and Breyer.
+
+**Opposing:** Stevens, Souter and Ginsburg.
+
+The district court must dismiss that claim and remove relief supported only by it, identifying any independently surviving basis before altering other relief. The individual plaintiffs' separate abstention disposition remains undisturbed.
+
+## Opinion Topology
+
+STONE-ZSELA, C. J., delivered the opinion of the Court, in which O'CONNOR, SCALIA, KENNEDY, THOMAS and BREYER, JJ., joined. GINSBURG, J., filed a dissenting opinion, in which STEVENS and SOUTER, JJ., joined.
+
+## Holdings
+
+**Controlling rule.** Attorneys' anticipated representation of unidentified future clients does not establish the close relationship required to litigate those clients' constitutional rights when no concrete existing or specifically prevented representation is shown. Practical barriers faced by indigent litigants require serious consideration, but cannot by themselves supply that missing relationship.
+
+**Authority.** Stone-Zsela's opinion of the Court, joined in full by the other members of the six-Justice coalition of Stone-Zsela, O'Connor, Scalia, Kennedy, Thomas and Breyer, controls this relationship holding and its remedy.
+
+**Controlling explanation.** The Court holds that personal injury and entitlement to assert another person's rights are distinct. *Powers v. Ohio*, which requires personal injury, a close relationship and a hindrance to the right-holder's own suit, gives each inquiry independent work. These attorneys allege that Michigan's restriction reduced paid appointments in the regular strict-rotation appellate practice they intend to continue. The Court assumes their personal Article III stake for this decision; their claim fails on the separate relationship requirement.
+
+*Caplin & Drysdale v. United States*, which involved an actual client, and *Department of Labor v. Triplett*, which involved known claimants and enforcement against the attorney, do not equate professional readiness with a concrete client connection. *Campbell v. Louisiana*, which involved a defendant and the excluded jurors connected to his indictment, and *Miller v. Albright*, which permitted a daughter's particular claim concerning her father's citizenship rights, likewise preserve the relationship inquiry.
+
+The contrary position has force: the challenged restriction prevents appointments and makes the right to counsel difficult to assert without counsel. But the obstruction alleged here does not identify a particular representation prevented or burdened by the rule. The prospective-relationship permissions recognized in *Craig v. Boren* and *Singleton v. Wulff*, which turn on the particular relationship and impediment, do not abolish that inquiry for lawyers asserting unascertained future clients' rights. Because this relationship defect suffices, the Court need not decide the full hindrance question. The constitutional entitlement to appointed counsel is not reached because the attorneys fail the antecedent third-party requirement. Existing clients, concrete prevented representations and indigent litigants asserting their own rights remain governed by their applicable standards.
+
+## Precedent Treatment
+
+- *Powers v. Ohio*, 499 U.S. 400: apply distinct personal-injury, relationship and hindrance requirements; assumed personal injury does not establish the relationship.
+- *Craig v. Boren*, 429 U.S. 190, and *Singleton v. Wulff*, 428 U.S. 106: retain their contextual prospective-relationship permissions; neither establishes a general professional exception for an unidentified future clientele.
+- *Caplin & Drysdale v. United States*, 491 U.S. 617: distinguish the concrete existing client whose rights the attorney asserted.
+- *Department of Labor v. Triplett*, 494 U.S. 715: distinguish known claimants and enforcement against the attorney from anticipated future retainers.
+- *Campbell v. Louisiana*, 523 U.S. 392: preserve its concrete defendant-juror connection and its separate own-right route.
+- *Miller v. Albright*, 523 U.S. 420: preserve the particular daughter-father permission and the distinct relationship and obstacle inquiries.
+
+## Law After Decision
+
+A lawyer's anticipated future representation and a pleaded economic stake in appointments do not alone authorize litigation of unidentified clients' constitutional rights. The relationship requirement remains an independent threshold. The counsel entitlement for Michigan's initial plea-based leave application remains open; a proper claimant's own case proceeds under its own jurisdictional and procedural rules.
+
+## Separate Writings
+
+GINSBURG, J., dissenting, joined by STEVENS and SOUTER, JJ. The dissent would permit these attorneys' third-party route and return only for genuinely unresolved preserved matters within the limited review. A present-versus-future-client distinction does not adequately examine a law that prevents the very representation on which a claim depends. The attorneys regularly accept appellate appointments through strict-rotation rosters, intend to continue that practice, and allege reduced paid assignments caused by the challenged restriction. Taken under the governing pleading standard, those allegations support a concrete personal economic stake as well as the setting in which the prospective representation arises.
+
+The dissent reads *Craig v. Boren* and *Singleton v. Wulff*, which permit sufficiently direct prospective relationships, together with *Campbell v. Louisiana* and *Miller v. Albright*, which require attention to the actual claimant connection and enforcement obstacle. Here the intended assistance and the constitutional right are directly linked: indigent applicants must assert a right to appellate counsel while proceeding without that counsel. That practical barrier gives the attorneys' recurring appointment relationship legal significance beyond generalized professional concern. The dissent would not require new injury allegations merely because future clients remain unidentified. It would leave genuinely unresolved Article III or other preserved matters to their actual procedural standards and preserve the individual plaintiffs' separate abstention disposition. It does not decide the constitutional appointment entitlement.
+
+## Procedure After Action
+
+The case returns through the Court of Appeals for dismissal of the deficient attorney claim and adjustment of its dependent injunction. The district court must identify an independent surviving basis before changing other relief. Proper indigent claimants remain subject to the jurisdictional and procedural rules governing their own cases.
+
+## Source Notes
+
+Article III; 42 U.S.C. §1983; 543 U.S. 125; 333 F.3d 683. The attorneys allege reduced paid appointments in regular strict-rotation appellate practice; the decision assumes their personal stake and resolves the separate third-party relationship requirement.

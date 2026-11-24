@@ -1,0 +1,42 @@
+# June 27 source-readiness receipt
+
+Research cutoff: June 27, 2005. Internal source verification only; no adjudication, new fact, or reconciliation is entered by this receipt.
+
+## Sources available and actually read
+
+The existing source-index.json identifies separate Cornell opinion pages and an official United States Reports PDF/text for each of the six matters. Every listed source exists and the index reports no retrieval error. Official PDFs have 72 pages (Van Orden), 46 (Castle Rock), 50 (Bell), 69 (McCreary), 54 (Grokster), and 54 (Brand X). Their opening reporter pages were checked for case, docket, argument date, and decision date. No original petition, party merits brief, or joint appendix is newly claimed to have been read.
+
+This isolated source/control context read the following complete saved Cornell writings, including all footnotes. Reads were divided at exact character boundaries where necessary so that truncation did not omit text. The initial Grokster majority output had a truncated middle; that entire middle was separately read before completion was recorded. JUNE27_SOURCE_READS.json records file identities and hashes.
+
+| Matter | Complete writings personally read | Exact historical lineup verified |
+|---|---|---|
+| Van Orden | van-orden_ZO.txt; ZC; ZC1; ZC2; ZD; ZD1; ZD2 | Rehnquist plurality with Scalia, Kennedy, Thomas; Scalia and Thomas separately concur; Breyer concurs only in judgment; Stevens dissent with Ginsburg; O'Connor dissent; Souter dissent with Stevens and Ginsburg. |
+| Castle Rock | castle-rock_ZO.txt; ZC; ZD | Scalia Court opinion with Rehnquist, O'Connor, Kennedy, Souter, Thomas, Breyer; Souter concurrence with Breyer; Stevens dissent with Ginsburg. |
+| Grokster | grokster_ZO.txt; ZC; ZC1 | Souter unanimous Court opinion; Ginsburg concurrence with Rehnquist and Kennedy; Breyer concurrence with Stevens and O'Connor. |
+| Brand X | brand-x_ZO.txt; ZC; ZC1; ZD | Thomas Court opinion with Rehnquist, Stevens, O'Connor, Kennedy, Breyer; Stevens and Breyer separately concur; Scalia dissents, Souter and Ginsburg join Part I only. |
+
+Van Orden's nontext appendices were also personally rendered and inspected from the official PDF: PDF page 30 (Breyer photograph), 31 (Breyer site map), and 61 (Stevens photograph). The map expressly warns that it is simplified and does not accurately reflect every detail of the actual grounds; no new measured distance or geographical finding is inferred.
+
+For Bell, root control separately reports complete reading of bell-thompson_ZO.txt and bell-thompson_ZD.txt, including every footnote and the full Sultan appendix. Its durable receipt, freeze/OT_2004CHUNK10_BELL_SOURCE_READ_RECEIPT.md, was subsequently read in full by this source context. That is a reported reading by root control, not a claim of personal full reading by this context. The syllabus lineup endpoint was personally checked: Kennedy with Rehnquist, O'Connor, Scalia and Thomas; Breyer dissent with Stevens, Souter and Ginsburg. Bell's competing writings dispute the significance and availability of the evidence; dissenting speculation about a clerical mistake is not a finding.
+
+For McCreary, this source context subsequently completed mccreary_ZO.txt, mccreary_ZC.txt and mccreary_ZD.txt in their entirety, including all 26 majority notes and all 14 dissenting notes. The long writings were read in contiguous normalized-whitespace character slices with no omitted interval. The verified lineup is Souter with Stevens, O'Connor, Ginsburg and Breyer; O'Connor concurs; Scalia dissent with Rehnquist and Thomas throughout and Kennedy only as to Parts II and III. These three completed reads are now included in JUNE27_SOURCE_READS.json.
+
+## Source limitations and neutral refresh
+
+The existing GROKSTER_NEUTRAL_QUALIFICATION_REQUEST.md is material and was not incorporated in the old NEUTRAL_C/MODEL_C_BASELINE. Its objective recitations identify cross-motions and current-version scope, the unchallenged direct-infringement conclusion below, the uncertain publication of advertising drafts, the residual unknown files in the statistical survey, and the continuing dispute over substantial lawful capability. Earlier promotional conduct cannot be confused with a claim for damages for earlier software versions; the relevance of that conduct remains a legal issue for fresh modeling. The request was routed to root control for fresh neutral validation before the final commitments freeze. The resulting freeze/OT_2004CHUNK10_TECHNOLOGY_NEUTRAL_REFRESH.md was subsequently read in full here: it preserves the six qualifications and the distinct disputed distribution theory without importing a current commitment. The source request itself is not a substitute neutral packet.
+
+McCreary full reading revealed an additional material chronology qualification. Majority note 19 reports repeal of both county resolutions after Supreme Court argument; the dissent also reports subsequent repudiation. The existing packet's unqualified unrepealed/continuing language is accurate for the third display's installation and lower review but cannot be repeated as a June 27 current fact. Majority note 6 also reports removal of the King James Version label and Exodus citation before the modified injunction. Only the objective recitations, excluding the source's assessment of their significance, were mechanically copied into MCCREARY_NEUTRAL_QUALIFICATION_REQUEST.md and routed to root for fresh neutral validation and affected independent continuation. No exact repeal date, conclusive cure, mootness, or predetermined significance is supplied.
+
+Cornell's Brand X syllabus transposes the mandatory-regulation status of information-service and telecommunications-service providers in one introductory passage. The Court opinion and official statute state the categories correctly. Use the saved statute, FCC order and Court opinion for this proposition; the error does not affect the verified lineup. No new Brand X objective correction was identified in the existing neutral packet.
+
+The opinion pages are sufficient for the present full-writing and lineup verification. This receipt makes no finding that unretrieved original litigation papers are unavailable. No repeated archive search was conducted because no new material record gap was established here. None of the six June 27 matters is identified as a simulated grant. The earlier chunk's saved lower-court sources eulitt_first_circuit.pdf/.txt with eulitt_source.json and ../green-party-389-f3d-411.txt remain available; this context has not reread their complete text or reopened their completed reconciliations.
+
+## Tools and boundaries
+
+No repository-history command ran. No controlled merits supplement, raw Decision Record, private position artifact, or prohibited top-level material was read. Existing freezes remain unchanged. Only source/control receipts and temporary appendix images were created within OT2004.
+
+rebuild_ledger.py and check_term.py cannot be run directly under the task restriction because each invokes a repository-history executable. Existing adapters were inspected and may be reused by root control with python -B: terms/OT2004/tmp/rebuild-ledger-no-history.py OT2004; terms/OT2004/tmp/rebuild-manifest-current-index.py OT2004; terms/OT2004/tmp/check-term-no-history.py OT2004. The adapters replace the prohibited function before main, disclose the omitted history checks, preserve effective-date ledger ordering, recognize the current inventory's 105 rows, and confine ledger/manifest writes to this term's workspace. The checker exports PYTHONDONTWRITEBYTECODE for its read-only child processes. The source context did not run the checker because its split-freshness child inspects every runtime section. build_render_input.py invokes no child process and writes only its explicit output; give it only the intended OT2004 output path. No governing tool was modified.
+
+## Stage readiness
+
+The scoped comparator C is available and all six historical lineups are verified. Full writing review is complete for all six: five personally by this isolated source/control context and Bell by root control, with the distinct attribution retained above. Reconciliation has not begun. Final independent COMMITMENTS_C must incorporate the clean Grokster refresh and the still-pending fresh McCreary chronology validation and affected continuation before reconciliation proceeds. These source readings do not resolve either issue or alter a frozen commitment.

@@ -1,0 +1,302 @@
+
+
+  
+
+  
+
+	
+
+	
+
+	
+
+MAYLE  V. FELIX
+
+ 
+
+MAYLE  V. FELIX (04-563) 
+
+379 F.3d 612, reversed and remanded.
+
+Syllabus
+
+ 
+
+Opinion
+
+ [ Ginsburg ]
+
+Dissent
+
+ [ Souter ]
+
+HTML version
+
+PDF version
+
+HTML version
+
+PDF version
+
+HTML version
+
+PDF version
+
+Syllabus
+
+NOTE: 
+Where it is feasible, a syllabus (headnote) will be
+released, as is being done in connection with this case, at the
+time the opinion is issued.
+The syllabus constitutes no part
+of the opinion of the Court but has been prepared by the
+Reporter of Decisions for the convenience of the reader.
+See
+
+United States
+ v. 
+Detroit Timber & Lumber Co.,
+
+200 U.S. 321
+,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+MAYLE, WARDEN 
+v
+. FELIX
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE NINTH CIRCUIT
+
+ 
+No. 04—563.
+
+Argued April 19,
+2005–Decided June 23, 2005
+
+Respondent Felix was convicted of murder and
+robbery in California state court and sentenced to life
+imprisonment.  His current application for federal habeas
+relief centers on two alleged trial-court errors, both
+involving the admission of out-of-court statements during the
+prosecutor’s case-in-chief but otherwise unrelated.  Felix
+had made inculpatory statements during pretrial police
+interrogation.	He alleged that those statements were coerced,
+and that their admission violated his 
+Fifth Amendment
+
+privilege against self-incrimination.  He also alleged that the
+admission of a videotape recording of testimony of a
+prosecution witness violated the 
+Sixth
+Amendment
+’s Confrontation Clause.
+
+ 
+        Felix’s
+conviction was affirmed on appeal and became final on August
+12, 1997.  Under the one-year limitation period imposed by the
+Antiterrorism and Effective Death Penalty Act of 1996 (AEDPA),
+
+28 U.S.C. §
+2244
+(d)(1), Felix had until August 12, 1998 to file a
+habeas petition in federal court.  On May 8, 1998, in a timely
+filed habeas petition, Felix asserted his Confrontation Clause
+challenge to admission of the videotaped prosecution witness
+testimony, but did not then challenge the admission of his own
+pretrial statements.  On January 28, 1999, over five months
+after the August 12, 1998 expiration of AEDPA’s time limit
+and eight months after the court appointed counsel to represent
+him, Felix filed an amended petition asserting a 
+Fifth Amendment
+
+objection to admission of his pretrial statements.  In response
+to the State’s argument that the 
+Fifth Amendment
+
+claim was time barred, Felix asserted the rule that pleading
+amendments relate back to the filing date of the original
+pleading when both the original plea and the amendment arise
+out of the same “conduct, transaction, or occurrence set
+forth … in the original pleading,” Fed. Rule Civ.
+Proc. 15(c)(2).  Because his 
+Fifth Amendment
+ and
+Confrontation Clause claims challenged the constitutionality of
+the same criminal conviction, Felix urged, both claims arose
+out of the same “conduct, transaction, or
+occurrence.”  The District Court dismissed the 
+Fifth Amendment
+
+claim as time barred, and rejected the Confrontation Clause
+claim on its merits.  The Ninth Circuit affirmed as to the
+latter claim, but reversed the dismissal of the coerced
+statements claim and remanded it for further proceedings.  In
+the court’s view, the relevant “transaction” for
+Rule 15(c)(2) purposes was Felix’s state-court trial and
+conviction.  Defining transaction with greater specificity, the
+court reasoned, would unduly strain the meaning of
+“conduct, transaction, or occurrence” by dividing the
+trial and conviction into a series of individual occurrences. 
+
+Held:
+ An amended habeas petition
+does not relate back (and thereby avoid AEDPA’s one-year
+time limit) when it asserts a new ground for relief supported
+by facts that differ in both time and type from those set forth
+in the original pleading.  Pp. 7—18.
+
+    (a) Under
+§2244(d)(1), a one-year limitation period applies to a
+state prisoner’s federal habeas application.  Habeas
+Corpus Rule 11 permits application of the Federal Rules of
+Civil Procedure in habeas cases “to the extent [the civil
+rules] are not inconsistent with any statutory provisions or
+[the habeas] rules.”  Section 2242 provides that habeas
+applications “may be amended … as provided in the
+rules of procedure applicable to civil actions.”  Federal
+Rule of Civil Procedure 15(a) allows pleading amendments with
+“leave of court” any time during a proceeding. 
+Before a responsive pleading is served, pleadings may be
+amended once as a “matter of course,” 
+i.e.
+,
+without seeking court leave.  
+Ibid.
+  Amendments made
+after the statute of limitations has run relate back to the
+date of the original pleading if the original and amended
+pleadings “ar[i]se out of the same conduct, transaction,
+or occurrence.”  Rule 15(c)(2).  The “original
+pleading” in a habeas proceeding is the petition as
+initially filed.  That pleading must “specify all the
+grounds for relief available to the petitioner” and
+“state the facts supporting each ground.”  Habeas
+Corpus Rule 2(c).  A prime purpose of Rule 2(c)’s demand
+that petitioners plead with particularity is to assist the
+district court in determining whether the State should be
+ordered to “show cause why the writ should not be
+granted,” §2243, or the petition instead should be
+summarily dismissed without ordering a responsive pleading. 
+Habeas Corpus Rule 4.  Pp. 7—9.
+
+      (b) Under
+the Ninth Circuit’s comprehensive definition of
+“conduct, transaction, or occurrence,” virtually any
+new claim introduced in an amended habeas petition will relate
+back, for federal habeas claims, by their very nature,
+challenge the constitutionality of a conviction or sentence,
+and commonly attack proceedings anterior thereto.  The majority
+of Circuits define “conduct, transaction, or
+occurrence” in federal habeas cases far less broadly,
+allowing relation back only when the claims added by amendment
+arise from the same core facts as the timely filed claims, and
+not when the new claims depend upon events separate in both
+time and type from the originally raised episodes.  Under that
+view, Felix’s own pretrial statements, newly raised in his
+amended petition, would not relate back because they were
+separated in time and type from the videotaped witness
+testimony.  This Court is not aware, in the run-of-the-mine
+civil proceedings Rule 15 governs, of any reading of
+“conduct, transaction, or occurrence” as capacious as
+the Ninth Circuit’s construction for habeas cases. 
+Decisions applying Rule 15(c)(2) in the civil context
+illustrate that Rule 15(c)(2) relaxes, but does not obliterate,
+the statute of limitations; hence relation back depends on the
+existence of a common core of operative facts uniting the
+original and newly asserted claims.  The Court disagrees with
+Felix’s assertion that he seeks, and the Ninth Circuit
+accorded, no wider range for Rule 15(c)’s relation-back
+provision than was given the words “conduct, transaction,
+or occurrence” in 
+Tiller
+ v. 
+Atlantic Coast Line
+R. Co.
+, 
+323
+U.S. 574
+, 580—581.  There, the amended complaint
+invoked a legal theory not suggested in the original complaint
+and relied on facts not originally asserted.  Relation back was
+nevertheless permitted.  In 
+Tiller,
+ however, there was
+but one “occurrence,” the death of the
+petitioner’s husband, which she attributed throughout to
+the respondent’s failure to provide a safe workplace.  In
+contrast, Felix targeted discrete episodes, the videotaped
+witness testimony in his original petition and his own
+interrogation at a different time and place in his amended
+petition.  Pp. 9—13.
+
+      Felix’s
+contention that the trial itself is the appropriate
+“transaction” or “occurrence” artificially
+truncates his claims by homing in only on what makes those
+claims actionable in a habeas proceeding.  Although his
+self-incrimination claim did not ripen until the prosecutor
+introduced his pretrial statements at trial, the essential
+predicate for his 
+Fifth Amendment
+
+claim was an extrajudicial event, 
+i.e.
+, an out-of-court
+police interrogation.  The dispositive question in an
+adjudication of that claim would be the character of the police
+interrogation, specifically, did Felix answer voluntarily or
+were his statements coerced.  See 
+Haynes
+ v.
+
+Washington,
+
+373
+U.S. 503
+, 513—514.  Under Habeas Corpus Rule
+2(c)’s particularity-in-pleading requirement, Felix’s
+Confrontation Clause claim would be pleaded discretely, as
+would his self-incrimination claim.  Each separate congeries of
+facts supporting the grounds for relief, the Rule suggests,
+would delineate an “occurrence.”  Felix’s and
+the Ninth Circuit’s approach is boundless by comparison,
+allowing a miscellany of claims for relief to be raised later
+rather than sooner and to relate back.	If claims asserted
+after the one-year period could be revived simply because they
+relate to the same trial, conviction, or sentence as a timely
+filed claim, AEDPA’s limitation period would have slim
+significance.  Pp. 13—16.
+
+      Felix’s
+argument that a firm check against petition amendments
+presenting new, discrete claims after AEDPA’s limitation
+period has run is provided by Rule 15(a)–which gives
+district courts discretion to deny petition amendments once a
+responsive pleading has been filed–overlooks a
+pleader’s right to amend without leave of court “any
+time before a responsive pleading is served.”  That time
+can be long under Habeas Corpus Rule 4, pursuant to which a
+petition is not served until  the judge first examines it to
+determine whether “it plainly appears … that the
+petitioner is not entitled to relief.”  This Court’s
+reading that relation back will be in order so long as the
+original and amended petitions state claims that are tied to a
+common core of operative facts is consistent with Rule
+15(c)(2)’s general application in civil cases, with Habeas
+Corpus Rule 2(c), and with AEDPA’s tight time line for
+petitions.  Pp. 16—18.
+
+379 F.3d 612, reversed and remanded.
+
+    Ginsburg, J.,
+delivered the opinion of the Court, in which Rehnquist,
+C. J., and O’Connor, Scalia, Kennedy, Thomas, and
+Breyer, JJ., joined.  Souter, J., filed a dissenting opinion,
+in which Stevens, J., joined.
+
+ 

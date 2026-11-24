@@ -1,0 +1,229 @@
+Source: https://law.resource.org/pub/us/case/reporter/F3/389/389.F3d.411.03-7679.html
+
+
+
+    389 F.3d 411
+
+389 F.3d 411
+
+GREEN PARTY OF NEW YORK STATE, a political party duly organized under the laws of New York State, Mark Dunlea, Chairperson of
+the Green Party of New York State, Rachel Treichler, duly enrolled member of the Green Party of New York State, James Lane, duly enrolled member of the Green Party of New York State, Shannon M. Houlihan, John N. Warren and Lisa Chacon, Plaintiffs-Appellees,
+Libertarian Party of New York State Inc., Carol M. O'Hea, Anne M. Nolan, Kenneth C. Diem, New York State Right to Life Party, Liberal Party of the State of New York, and Marijuana Reform Party of New York, Intervenors-Plaintiffs-Appellees,
+v.
+NEW YORK STATE BOARD OF ELECTIONS, Carol Berman, Neil W. Kelleher, Helen Moses Donohue and Evelyn J. Aquila, in their official capacities as Commissioners of the New York State Board of Elections, Defendants-Appellants,
+Nancy Mottola Schacher, Weyman A. Carey, Michael J. Cilmi, Mark B. Herman, Nero B. Graham, Vincent J. Velella, Douglas A. Kellner, Frederic M. Umane, Terrence C. O'Connor, Stephen H. Weiner, in their official capacities as Commissioners of the New York City Board of Elections, and as representatives of all commissioners of the county boards of elections in New York State, Defendants.
+
+Docket No. 03-7679.
+
+United States Court of Appeals, Second Circuit.
+
+Argued March 10, 2004.
+
+Decided November 17, 2004.
+
+COPYRIGHT MATERIAL OMITTED Patricia L. Murray, Deputy Counsel, New York State Board of Elections, Albany, New York, for Defendants-Appellants New York State Board of Elections, et al.
+
+Jeremy Creelan, New York, New York (Deborah Goldberg, Brennan Center for Justice at New York University School of Law, New York, New York, of counsel), for Plaintiffs-Appellees Green Party, et al.
+
+Richard P. Caro, Riverside, Illinois (Thomas G. Teresky, Huntington, New York, of counsel), for Intervenors-Plaintiffs-Appellees Carol M. O'Hea, Anne M. Nolan, Kenneth C. Diem, and New York State Right to Life Party.
+
+Herbert Rubin, New York, New York (Herzfeld & Rubin, P.C., New York, New York, of counsel), for Intervenor-Plaintiff-Appellee Liberal Party of the State of New York.
+
+Christopher B. Garvey, Roslyn, New York (Nolte, Nolte & Hunter, Roslyn, New York, of counsel), for Intervenor-Plaintiff-Appellee Libertarian Party of New York.
+
+Thomas J. Hillgardner, Law Office of Thomas J. Hillgardner, Jamaica, New York, filed a brief for Intervenors-Plaintiffs-Appellees Marijuana Reform Party of the State of New York, George Moss, Carl Foster, Dean Venezia and Thomas K. Leighton.
+
+Christopher E. Strunk, Brooklyn, New York, filed a brief as Pro Se Amicus Intervenor.
+
+Before: WALKER, Chief Judge, CARDAMONE, and KEITH*, Circuit Judges.
+
+CARDAMONE, Circuit Judge.
+
+      1
+
+Plaintiff Green Party of New York State, a political party, and its members brought this action challenging the validity of New York's voter enrollment scheme. On May 30, 2003 the United States District Court for the Eastern District of New York (Gleeson, J.) granted plaintiffs a preliminary injunction. Green Party v. N.Y. State Bd. of Elections, 267 F.Supp.2d 342 (E.D.N.Y.2003) (Green Party I). Subsequently, other political parties moved and were granted leave to intervene. In an order dated September 18, 2003 the district court revised the injunction to include the intervenors. Green Party v. N.Y. State Bd. of Elections, 2003 WL 22170603 (E.D.N.Y. Sept. 18, 2003), 2003 U.S. Dist. LEXIS 16524 (Green Party II). Defendants New York State Board of Elections and its Commissioners appeal the district court's grant of the preliminary injunction in favor of plaintiffs and intervenors-plaintiffs.
+
+      2
+
+In the district court, plaintiffs challenged the constitutionality of New York State's voter enrollment scheme, in particular Election Law § 5-302(1) (1998). That statute states that when a political party fails to receive at least 50,000 votes for that party's gubernatorial candidate in the previous election, see id. § 1-104(3), defendants Commissioners of the State Board of Elections are required to remove that political party's name from the voter registration form and convert voters in such party to non-enrolled voters. The statute thereby removes a voter's affiliation with such party from the state's registered voter lists.
+
+      3
+
+That removal is challenged in this litigation as violating voters' constitutional right of association. The right of association guarantees individuals the right to join with like-minded individuals to accomplish a shared political objective that is protected by the First Amendment. See Citizens Against Rent Control v. Berkeley, 454 U.S. 290, 294-95, 102 S.Ct. 434, 70 L.Ed.2d 492 (1981). The Constitution accords the same protection independently to associations as it does to individuals. Id. at 295-96, 102 S.Ct. 434.
+
+BACKGROUND
+
+A. Parties
+
+      4
+
+Plaintiffs political organizations and their members include New York State's Green Party, Libertarian Party, Right to Life Party, Liberal Party, and Marijuana Reform Party. The Green Party and its members (original plaintiffs) brought this action — in which the other parties and their members (intervenor plaintiffs) later intervened — contending that Election Law § 5-302(1) violated their First Amendment rights of speech and association and unreasonably discriminated against them in violation of the Equal Protection Clause of the Fourteenth Amendment of the U.S. Constitution.
+
+B. New York State's Voter Enrollment Scheme
+
+      5
+
+New York law states that a political organization which supports candidates for public office shall be designated as either a "party" or an "independent body." A political organization is designated as a "party," with all of the benefits that accrue to such categorization, if at the last gubernatorial election such organization's candidate for governor received at least 50,000 votes. See N.Y. Elec. Law § 1-104(3). A political organization is designated as an "independent body" if its candidate for governor received fewer than 50,000 votes in the last gubernatorial election. See id. § 1-104(12). Both a party and an independent body under the election law refer to what are more colloquially known as political parties. For the sake of clarity, we will use the upper-case term "Party" when referring to a political party that qualifies for the designation of "party" under New York law, and "political party" or "independent body" when referring to an organization that fails to qualify for the party designation.
+
+      6
+
+A number of unique benefits accrue to a Party. First, only a Party can automatically place a candidate on the ballot for statewide election without first undertaking the burden of a special petition drive in order to do so. See id. §§ 6-104, 6-138(1). Further, a Party may choose their statewide candidate in a closed primary election, while an independent organization may not. Id. § 1-104(9). A closed primary is an election in which only those voters enrolled as members of that particular Party are allowed to vote. For such an election to take place, the state, the Party, and the local boards of elections who administer primaries must be able to identify whether a voter is actually a member of a given Party and thus eligible to participate in the primary. New York's enrollment scheme allows registered voters to enroll in Parties, see id. § 5-210(5)(k)(vi), and requires the publication of voter enrollment information to facilitate such identification. See id. § 5-302(4) — (5).
+
+      7
+
+When plaintiffs brought their suit (and still today with respect to any non-party to this suit), the voter registration form — which a voter must fill out in order to register to vote in New York — allowed those filling out the form to enroll as a member of a Party and included a box to check for each political organization that qualified as a Party. See id. § 5-210(5)(k)(vi). The form had an extra box for voters who did not wish to enroll in any Party. Id. The registration form noted that in order to vote in a primary election, a voter had to be enrolled in a Party. Id. § 5-210(5)(f). There was no box labeled "other," or any other way for a voter to enroll in or express an affiliation with another political organization.
+
+      8
+
+New York law further requires the local boards of elections to process the voter registration forms and to maintain and make available to the public registration lists indicating the names and addresses of all registered voters for each election district over which the boards have jurisdiction. Id. § 5-602. Local boards must also make enrollment lists available to the public, and such lists must include the voters' names, addresses and Party affiliation (or list the voter as non-affiliated). Id. §§ 5-602(1), 5-604(1). Currently, the enrollment lists do not indicate voters' affiliation with other political parties, and thus do not indicate whether a voter has been affiliated with a political party in the past that either never enjoyed the Party designation or at one time was designated a Party, but subsequently lost the Party status. Parties use these enrollment lists to conduct closed primaries, but they also use the lists for many other purposes, such as identifying new voters, processing voter information, organizing and mobilizing Party members, fundraising, and other activities that influence the political process.
+
+      9
+
+As noted above, if a Party fails to receive 50,000 votes for its gubernatorial candidate in an election, it will be treated as an independent body, and not a Party, in the next election. In connection with this change in status of the political body, the local boards must erase the enrollment information of any member of a former Party and change the status of that individual to non-affiliated on the registration poll record. See id. § 5-302(1). Plaintiff political party members claim that, as a practical matter, § 5-302(1) thus deprives them of the ability to declare publicly their political affiliation, and to have that affiliation maintained and publicized in the enrollment lists. They additionally maintain that the challenged law deprives them of the ability to use the enrollment list information to conduct party building activities.
+
+C. The Instant Case
+
+      10
+
+On December 10, 2002 after it failed to obtain 50,000 votes for its gubernatorial candidate in the 2002 election, the Green Party and several of its current and prospective members filed a complaint against the New York State Board of Elections, the New York City Board of Elections and the Commissioners of each body. The City Board of Elections did not oppose the claims. Plaintiffs sought a temporary restraining order and a preliminary injunction that would prohibit the state defendants from enforcing Election Law § 5-302(1). They requested that defendants be prohibited from taking any steps that would prevent voters from enrolling in any political party that had previously gained recognition as a Party, and that the court require defendants to continue to include a voter's enrollment status in the enrollment lists even if they had enrolled in a Party that was about to lose its status. The district court granted plaintiffs' application for a temporary restraining order on December 12, 2002, finding under Burdick v. Takushi, 504 U.S. 428, 112 S.Ct. 2059, 119 L.Ed.2d 245 (1992), and Schulz v. Williams, 44 F.3d 48 (2d Cir.1994), that plaintiffs had alleged violations of their First and Fourteenth Amendment rights and that the interests the state used to justify the challenged provisions were neither compelling nor reasonable.
+
+      11
+
+On January 16, 2003 the district court conducted a hearing on plaintiffs' motion for a preliminary injunction, and subsequently granted that motion on May 30, 2003. Green Party I, 267 F.Supp.2d 342. The court found New York's voter enrollment scheme, and Election Law § 5-302(1) in particular, imposed a severe burden on the First Amendment rights of the Green Party and its supporters, id. at 352-54, and that the law unreasonably discriminated against minor political parties and their supporters. Id. at 354-55. As such, the "scheme [could] only withstand constitutional challenge upon a showing of a compelling state interest." Id. at 355.
+
+      12
+
+The district court further found defendants had failed to show that the challenged aspects of the election law scheme advanced any legitimate state interest, let alone a compelling and narrowly tailored one. Id. at 359-60. The preliminary injunction ordered defendants to: (a) maintain on the state's voter registration form a box for voters to enroll in the Green Party, and (b) ensure that the local boards of elections maintained the enrollment status of voters who had enrolled in the Green Party in the past, and continued to enroll such voters in the future, at least through the gubernatorial election of 2006. Id. at 362-63.
+
+      13
+
+After the district court issued this injunction, the remaining plaintiffs, the Liberal Party and the Right to Life Party — both of which had lost their status as Parties as a result of the 2002 elections — and the Libertarian and Marijuana Reform Parties — neither of which had ever won recognition as a Party, but had placed candidates on the statewide ballot in the 2002 election, moved to intervene. The trial court granted intervenors' motions and on July 28, 2003 held a hearing on the intervenors' application to have the preliminary injunction extended to them. In an order dated September 18, 2003 the district court extended the preliminary injunction to the intervenors and thus enjoined enforcement of § 5-302(1) against them as well. Green Party II, 2003 WL 22170603, 2003 U.S. Dist. LEXIS 16524, at *14. The order also required defendants to open New York's voter enrollment scheme to plaintiffs by revising the voter registration form to include an option labeled "Other (write in)" that would be followed by a blank line permitting voters to declare their political affiliation with any political organization by writing the name of such political organization on that line. In conjunction with that revision, the court further required the voter registration form to include instructions notifying voters that they could use the "Other" line to enroll in a political organization that was not one of the Parties identified on the form. Id. at *15.
+
+      14
+
+In addition, the court directed local boards to maintain and update the enrollment information of voters currently enrolled in — or who in the future might use the form to enroll in — any of the plaintiff parties. Since some voters would have been disenrolled from the Liberal and Right to Life Parties, the state board was ordered to use its best efforts to notify those voters that they could re-enroll in those parties by completing a new form. Finally, the district court ordered the defendants to ensure that these directives remained in force so long as the plaintiff parties continued to enjoy sufficient support to place statewide candidates on the ballot in the most recent gubernatorial election. Id. at *15-16.
+
+      15
+
+In another order issued on the same day, the district court prohibited defendant New York State Board of Elections from including Green Party voters as unenrolled in the voter enrollment information published on its website. This other order also required the state board to provide the Green Party with "the same voter enrollment data, in the same form," as it provided to Parties. Green Party v. N.Y. State Bd. of Elections, 2003 WL 22170605 (E.D.N.Y. Sept. 18, 2003), 2003 U.S. Dist. LEXIS 16523, at *6-7 (Green Party III).
+
+      16
+
+The state defendants appealed. For the reasons set out in the discussion that follows, and because we agree substantially with the district court's well-reasoned May 30, 2003 opinion, we affirm.
+
+DISCUSSION
+
+I Preliminary Injunction
+
+A. Issuance Standards
+
+      17
+
+To obtain a preliminary injunction the moving party must show, first, irreparable injury, and, second, either (a) likelihood of success on the merits, or (b) sufficiently serious questions going to the merits and a balance of hardships decidedly tipped in the movant's favor. Jackson Dairy, Inc. v. H.P. Hood & Sons, Inc., 596 F.2d 70, 72 (2d Cir.1979) (per curiam).
+
+      18
+
+In general, we review a district court's grant of a preliminary injunction for abuse of discretion, overturning its decision only if it rested on an error of law or on a clearly erroneous factual finding. See Fun-Damental Too, Ltd. v. Gemmy Indus. Corp., 111 F.3d 993, 999 (2d Cir.1997). Further, where, as here, plaintiffs seek vindication of rights protected by the First Amendment, we are obliged to make an independent examination of the record as a whole, to ensure that the district court's judgment has not improperly intruded into the field of free expression. See Bose Corp. v. Consumers Union of United States, Inc., 466 U.S. 485, 499, 104 S.Ct. 1949, 80 L.Ed.2d 502 (1984). When the injunction alters the status quo, as does this one, plaintiffs must show a "`substantial' likelihood" of success. See Rodriguez ex rel. Rodriguez v. DeBuono, 175 F.3d 227, 233 (2d Cir.1999) (per curiam). Finally, where a First Amendment right has been violated, the irreparable harm requirement for the issuance of a preliminary injunction has been satisfied. See Elrod v. Burns, 427 U.S. 347, 373, 96 S.Ct. 2673, 49 L.Ed.2d 547 (1976).
+
+B. Claimed Constitutional Violations
+
+1. First Amendment Claims
+
+      19
+
+Plaintiffs argue that New York's voter enrollment scheme violates the First Amendment — as applied to the states through the Due Process Clause of the Fourteenth Amendment — because it impinges on their right to organize a political party and associate together to advance that party's shared political beliefs. The words "freedom of association" are not to be found in the First Amendment but, over nearly 50 years, the Supreme Court has developed a jurisprudence that guides us today. In 1958, the Court held that a right to associate is entitled to First and Fourteenth Amendment protection. See NAACP v. Alabama, 357 U.S. 449, 460, 78 S.Ct. 1163, 2 L.Ed.2d 1488 (1958). Thus, the NAACP could not be compelled to disclose to the state of Alabama its list of members in that state because the order requiring it to do so constituted "a substantial restraint upon the exercise by petitioner's members of their right to freedom of association." Id. at 462, 78 S.Ct. 1163. Two years later in Bates v. Little Rock, the Court added that for the state to justify a significant encroachment on an associational right, the state must point to a compelling reason for that encroachment. 361 U.S. 516, 524, 80 S.Ct. 412, 4 L.Ed.2d 480 (1960). And, in 1963, the Court held that the state must also persuasively show a "substantial relation between the information sought and a subject of overriding and compelling state interest." Gibson v. Fla. Legislative Investigation Comm., 372 U.S. 539, 546, 83 S.Ct. 889, 9 L.Ed.2d 929 (1963).
+
+      20
+
+The Supreme Court further instructs us that to determine whether a claimed violation of the right to associate is valid, a court must consider the "character and magnitude" of the alleged injury the plaintiff has sustained, and then must identify and evaluate the interests the state uses to justify the burdens imposed by the challenged rule, taking into consideration the extent to which the state's interests make it necessary to burden plaintiff's rights. Burdick, 504 U.S. at 434, 112 S.Ct. 2059 (quoting Anderson v. Celebrezze, 460 U.S. 780, 789, 103 S.Ct. 1564, 75 L.Ed.2d 547 (1983)).
+
+      21
+
+All election laws "invariably impose some burden upon individual voters." Id. at 433, 112 S.Ct. 2059. Whether that burden concerns "the registration and qualifications of voters, the selection and eligibility of candidates, or the voting process itself," it inevitably has an effect on an individual's right to vote and associate with others for political purposes. Id. Accordingly, the Court has refused to subject all election regulations to strict scrutiny. Id. Instead, it has held that "the rigorousness of our inquiry into the propriety of a state election law depends upon the extent to which a challenged regulation burdens First and Fourteenth Amendment rights." Id. at 434, 112 S.Ct. 2059.
+
+      22
+
+If those rights are subject to severe restriction, the regulation has to be narrowly drawn to advance a compelling state interest. Id. If it imposes only "`reasonable, nondiscriminatory restrictions,'" then important regulatory interests are sufficient to justify the restrictions. Id. (quoting Anderson, 460 U.S. at 788, 103 S.Ct. 1564). Courts are required to consider the restrictions within the totality of the state's overall plan of regulation. Lerman v. Bd. of Elections, 232 F.3d 135, 145 (2d Cir.2000); see also Storer v. Brown, 415 U.S. 724, 737, 94 S.Ct. 1274, 39 L.Ed.2d 714 (1974) (discussing the "totality" approach and application of that approach in determining the constitutionality of voter laws).
+
+2. Fourteenth Amendment Claims
+
+      23
+
+Plaintiffs also contend that the statutory classification scheme violates the Equal Protection Clause of the Fourteenth Amendment because the state's enrollment list policy gives established Parties an advantage over minor or developing parties. The Supreme Court has said that if state law grants "established parties a decided advantage over any new parties struggling for existence and thus place[s] substantially unequal burdens on both the right to vote and the right to associate" the Constitution has been violated, absent a showing of a compelling state interest. Williams v. Rhodes, 393 U.S. 23, 31, 89 S.Ct. 5, 21 L.Ed.2d 24 (1968). Hence, a court has a duty to "examine the character of the classification in question, the importance of the individual interests at stake, and the state interests asserted in support of the classification." Ill. State Bd. of Elections v. Socialist Workers Party, 440 U.S. 173, 183, 99 S.Ct. 983, 59 L.Ed.2d 230 (1979). Where the state's classification "limit[s] the access of new parties" and inhibits this development, the state must prove that its classification is necessary to serve a compelling government interest. See Norman v. Reed, 502 U.S. 279, 288-89, 112 S.Ct. 698, 116 L.Ed.2d 711 (1992); Schulz, 44 F.3d at 60. Even if a state is pursuing a compelling interest, it must show that the means it adopted to achieve that goal are the least restrictive means available. Ill. State Bd. of Elections, 440 U.S. at 185, 99 S.Ct. 983.
+
+      24
+
+The laws at issue in this case, according to plaintiffs, place discriminatory burdens on minor political parties. The alleged unequal burdens are those that affect claimants' ability to exercise their First Amendment rights. See Anderson, 460 U.S. at 793-94, 103 S.Ct. 1564 ("A burden that falls unequally on new or small political parties ... impinges, by its very nature, on associational choices protected by the First Amendment."). As the alleged violations of the plaintiffs' First Amendment rights form the basis of both the First Amendment and Fourteenth Amendment claims, we are faced with a situation where the plaintiffs' First Amendment claims substantially overlap with their equal protection claims. Accordingly, the analyses of plaintiffs' claims under the two amendments also substantially overlap.
+
+      25
+
+With respect to both claims, we must first determine the character and severity of the alleged burdens. If we conclude that the burdens on plaintiffs' associational rights are severe, we must next analyze the state's purported interests to determine whether those interests are compelling and, if so, whether the alleged burdens are necessary for the state to achieve its compelling interests. If we determine, as we do here, that the state's interests are not sufficient to justify such burdens, we must rule that the plaintiffs have a substantial likelihood of success on the merits of their claims.
+
+II Burdens on Associational Rights
+
+A. Character and Severity of Burdens
+
+      26
+
+We think the burdens imposed on plaintiffs' associational rights are severe. In Schulz we struck down a New York state law that required local boards of election automatically to supply two copies of enrollment lists, free of charge, to the county chairmen of Parties, but allowed the boards to charge independent bodies for access to such lists stating," `[i]t is clear that the effect of these provisions ... is to deny independent or minority parties ... an equal opportunity to win the votes of the electorate.'" 44 F.3d at 60 (quoting Socialist Workers Party v. Rockefeller, 314 F.Supp. 984, 995 (S.D.N.Y.1970)). Similarly, while the enrollment lists at issue here may have originally been intended solely for use in facilitating closed primary elections, we are required to look at the totality of the voter enrollment scheme in its present form. Currently, Parties use these lists for a number of different activities essential to their exercise of First Amendment rights.
+
+      27
+
+Based on the proof produced at the hearing on the preliminary injunction, the district court determined that "the Green Party's ability to identify, appeal to, inform, organize, mobilize and raise money from its supporters will be severely damaged" as a result of the current enrollment scheme. Green Party I, 267 F.Supp.2d at 353. It ruled in this fashion based on Supreme Court and Second Circuit precedent. See, e.g., Anderson, 460 U.S. at 794, 103 S.Ct. 1564 ("By limiting the opportunities of independent-minded voters to associate in the electoral arena to enhance their political effectiveness as a group, such restrictions threaten to reduce the diversity and competition in the marketplace of ideas."); Lerman, 232 F.3d at 147-48 (noting that a "statute need not [ban association altogether] in order to substantially burden the right to political association" if it prevents a candidate from accessing voters or conveying a political message).
+
+      28
+
+In a case similar to the one now before us, the Tenth Circuit ruled that in today's political landscape, "access to minimal information about political party affiliation is the key to successful political organization and campaigning." Baer v. Meyer, 728 F.2d 471, 475 (10th Cir.1984). If an independent body does not have access to other information concerning who is affiliated with its party, it will be unable to determine from the word "unaffiliated" whether a particular unaffiliated voter is or is not a supporter of its organization. It burdens all the plaintiff parties if they cannot determine who would like to associate with them. That they are smaller, less developed — and hence less financially established parties — makes their situation even more difficult. As Anderson instructs, such limitation of opportunity for independent voters reduces diversity and competition in the marketplace of ideas. 460 U.S. at 794, 103 S.Ct. 1564. Therefore, the district court did not abuse its discretion in ruling that New York's voter enrollment scheme could only withstand constitutional challenge if New York were able to show a compelling state interest.
+
+B. New York's Interests
+
+      29
+
+We pass then to a review of the state's expressed interests to decide whether they are compelling enough to justify the burden on plaintiffs' rights.
+
+      30
+
+New York offered two interests in support of its enrollment scheme. First, the state contends it must reasonably restrict access to the primary election process, and that the 50,000 vote requirement for access to the enrollment scheme developed from its need to regulate that process. Plaintiffs, however, are not challenging the primary election process or the 50,000 vote threshold for obtaining or maintaining Party status. Plaintiffs simply request that the local boards of elections maintain lists of voters enrolled in their parties.
+
+      31
+
+As we said in Lerman,"the fact that the defendants['] asserted interests are `important in the abstract' does not necessarily mean that its chosen means of regulation `will in fact advance those interests.'" 232 F.3d at 149 (quoting Turner Broadcasting Sys., Inc. v. FCC, 512 U.S. 622, 664, 114 S.Ct. 2445, 129 L.Ed.2d 497 (1994)). Similarly, here, the state failed to show any meaningful relationship between its desire to restrict access to the primary election process and the provision of New York's Election Law that requires it to remove from its lists the party affiliation of any voters who are registered as members of independent bodies. Indeed, nothing in the district court's preliminary injunction alters the state's ability to restrict access to the primary election process. Accordingly, it does not appear that the challenged statutory provision is necessary to achieve the state's asserted interest.
+
+      32
+
+The state's second interest, preventing voter confusion, has somewhat more weight. We do not address the question of whether the goal of preventing voter confusion is a compelling one, because it obviously is. But, we do question whether the challenged provision the state has adopted achieves that goal. The state board insists that voters who enroll as a member of a political party would think that they were members of an official Party when actually they are not. Thus, such voters would not realize, the state continues, that they were foregoing the privilege of voting in a primary. The state concludes that this would effectively disenfranchise those voters who want to vote in a primary election, but are not aware that they will be unable to do so.
+
+      33
+
+Whether this argument is or is not persuasive is irrelevant in light of our holding that this statutory provision is not necessary to prevent voter confusion in this case. We agree with the district court's observation that there was "no significant reason for confusion and [that there are] readily available means of ensuring there will be none." Green Party I, 267 F.Supp.2d at 356-57. The registration form need only be amended to inform a registering voter that only specified political Parties may have primary elections. In fact, when the original plaintiffs brought this suit, the registration form noted that a voter had to be enrolled in a Party in order to vote in a primary. A similar notation may be made on the current form. This approach would avoid the substantial burden on plaintiffs' First Amendment rights imposed by the challenged provision, while still addressing the state's concern about voter confusion in a clear and concise manner.
+
+      34
+
+Defendants insist this approach is burdensome and will not remedy voter confusion because there are many small and undeveloped parties in existence that have yet to show they have any support and therefore do not deserve to have the state maintain their enrollment information, or have such information clutter the enrollment lists. The case they rely on to support that proposition, Iowa Socialist Party v. Nelson, 909 F.2d 1175 (8th Cir.1990), is inapposite. The facts here are not at all similar to those in Iowa Socialist Party. In that case the Eighth Circuit held that the Iowa Socialist Party could not defeat Iowa's enrollment threshold because the Iowa Socialist Party polled only three-hundredths of one percent of the total vote cast for president in the previous election, and the state would obviously incur a serious financial burden were it forced to enroll the Iowa Socialist Party. Id. at 1180.
+
+      35
+
+The situation in the case at hand is fundamentally different. By placing statewide candidates on the ballot in the 2002 election, all of the plaintiffs have demonstrated a "modicum of support" sufficient to overcome the state's broad latitude in controlling frivolous party registration of tiny fractional interests. See Baer, 728 F.2d at 476. The Tenth Circuit noted in Baer that it was not at liberty to set out a rule regarding where a state must draw a bright line in order to regulate this admittedly important interest. Id. But, like Baer, we hold that the ability to meet the requirements for placing a candidate on the statewide ballot is enough of an indication of support to overcome the state's interest in preventing voter confusion. The present injunction only applies to the parties before the court in this case, all of which met those requirements. Thus, our holding extends only to them.
+
+      36
+
+Finally, we have reviewed defendants' other claims including the challenge with respect to the testimony of the Green Party's expert witness, and the separation of powers argument, and find all these challenges to be without merit.
+
+CONCLUSION
+
+      37
+
+Accordingly, for the reasons stated, we hold that the district court did not abuse its discretion when it granted plaintiffs' motion for a preliminary injunction, as plaintiffs would have suffered irreparable harm were an injunction not to issue; and, further, plaintiffs had a substantial likelihood of success on the merits of their suit challenging the constitutionality of New York State's Election Law § 5-302(1).
+
+      38
+
+Affirmed.
+
+Notes:
+
+        *
+
+ Hon. Damon J. Keith, Circuit Judge, United States Court of Appeals for the Sixth Circuit, sitting by designation
+
+CC∅ | Transformed by Public.Resource.Org
+

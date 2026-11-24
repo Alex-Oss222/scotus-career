@@ -1,0 +1,320 @@
+{
+  "records": [
+    {
+      "file": "eulitt-v-maine-department-of-education_merits_2005-06-20.md",
+      "case": "Eulitt v. Maine Department of Education; 386 F.3d 344 (First Circuit).",
+      "date": "2005-06-20",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "file": "mid-con-freight-systems-v-michigan-public-service-commission_merits_2005-06-20.md",
+      "case": "Mid-Con Freight Systems, Inc. v. Michigan Public Service Commission, No. 03-1234.",
+      "date": "2005-06-20",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "file": "exxon-mobil-v-allapattah-services_merits_2005-06-23.md",
+      "case": "Exxon Mobil Corp. v. Allapattah Services, Inc., No. 04-70; del Rosario Ortega v. Star-Kist Foods, Inc., No. 04-79.",
+      "date": "2005-06-23",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "file": "green-party-v-new-york-state-board-of-elections_merits_2005-06-23.md",
+      "case": "Green Party of New York State v. New York State Board of Elections; 389 F.3d 411 (Second Circuit).",
+      "date": "2005-06-23",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "file": "halbert-v-michigan_merits_2005-06-23.md",
+      "case": "Halbert v. Michigan, No. 03-10198.",
+      "date": "2005-06-23",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "file": "kelo-v-city-of-new-london_merits_2005-06-23.md",
+      "case": "Kelo v. City of New London, No. 04-108.",
+      "date": "2005-06-23",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "file": "mayle-v-felix_merits_2005-06-23.md",
+      "case": "Mayle v. Felix, No. 04-563.",
+      "date": "2005-06-23",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "file": "orff-v-united-states_merits_2005-06-23.md",
+      "case": "Orff v. United States, No. 03-1566.",
+      "date": "2005-06-23",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "file": "bell-v-thompson_merits_2005-06-27.md",
+      "case": "Bell v. Thompson, No. 04-514.",
+      "date": "2005-06-27",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "file": "metro-goldwyn-mayer-studios-v-grokster_merits_2005-06-27.md",
+      "case": "Metro-Goldwyn-Mayer Studios Inc. v. Grokster, Ltd., No. 04-480.",
+      "date": "2005-06-27",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "file": "national-cable-telecommunications-association-v-brand-x-internet-services_merits_2005-06-27.md",
+      "case": "National Cable & Telecommunications Association v. Brand X Internet Services, No. 04-277; FCC v. Brand X Internet Services, No. 04-281.",
+      "date": "2005-06-27",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "file": "town-of-castle-rock-v-gonzales_merits_2005-06-27.md",
+      "case": "Town of Castle Rock v. Gonzales, No. 04-278.",
+      "date": "2005-06-27",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "file": "van-orden-v-perry_merits_2005-06-27.md",
+      "case": "Van Orden v. Perry, No. 03-1500.",
+      "date": "2005-06-27",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    }
+  ],
+  "deterministic_checks": [
+    {
+      "file": "eulitt-v-maine-department-of-education_merits_2005-06-20.md",
+      "counts": {
+        "Stone-Zsela": 9,
+        "Stevens": 9,
+        "O'Connor": 9,
+        "Scalia": 9,
+        "Kennedy": 10,
+        "Souter": 9,
+        "Thomas": 9,
+        "Ginsburg": 10,
+        "Breyer": 9
+      },
+      "last_counted": "Dodd v. United States, No. 04-5286",
+      "public_blocks": 11
+    },
+    {
+      "file": "mid-con-freight-systems-v-michigan-public-service-commission_merits_2005-06-20.md",
+      "counts": {
+        "Stone-Zsela": 9,
+        "Stevens": 9,
+        "O'Connor": 9,
+        "Scalia": 9,
+        "Kennedy": 10,
+        "Souter": 10,
+        "Thomas": 9,
+        "Ginsburg": 10,
+        "Breyer": 10
+      },
+      "last_counted": "Graham County Soil & Water Conservation District v. United States ex rel. Wilson, No. 04-169",
+      "public_blocks": 11
+    },
+    {
+      "file": "exxon-mobil-v-allapattah-services_merits_2005-06-23.md",
+      "counts": {
+        "Stone-Zsela": 9,
+        "Stevens": 10,
+        "O'Connor": 10,
+        "Scalia": 10,
+        "Kennedy": 10,
+        "Souter": 10,
+        "Thomas": 9,
+        "Ginsburg": 10,
+        "Breyer": 10
+      },
+      "last_counted": "San Remo Hotel, L.P. v. City and County of San Francisco, No. 04-340",
+      "public_blocks": 11
+    },
+    {
+      "file": "green-party-v-new-york-state-board-of-elections_merits_2005-06-23.md",
+      "counts": {
+        "Stone-Zsela": 9,
+        "Stevens": 10,
+        "O'Connor": 10,
+        "Scalia": 10,
+        "Kennedy": 10,
+        "Souter": 10,
+        "Thomas": 10,
+        "Ginsburg": 10,
+        "Breyer": 10
+      },
+      "last_counted": "Exxon Mobil Corp. v. Allapattah Services, Inc., No. 04-70; del Rosario Ortega v. Star-Kist Foods, Inc., No. 04-79.",
+      "public_blocks": 11
+    },
+    {
+      "file": "halbert-v-michigan_merits_2005-06-23.md",
+      "counts": {
+        "Stone-Zsela": 9,
+        "Stevens": 10,
+        "O'Connor": 10,
+        "Scalia": 10,
+        "Kennedy": 10,
+        "Souter": 11,
+        "Thomas": 10,
+        "Ginsburg": 10,
+        "Breyer": 10
+      },
+      "last_counted": "Green Party of New York State v. New York State Board of Elections; 389 F.3d 411 (Second Circuit).",
+      "public_blocks": 11
+    },
+    {
+      "file": "kelo-v-city-of-new-london_merits_2005-06-23.md",
+      "counts": {
+        "Stone-Zsela": 9,
+        "Stevens": 10,
+        "O'Connor": 11,
+        "Scalia": 10,
+        "Kennedy": 10,
+        "Souter": 11,
+        "Thomas": 10,
+        "Ginsburg": 10,
+        "Breyer": 10
+      },
+      "last_counted": "Halbert v. Michigan, No. 03-10198.",
+      "public_blocks": 11
+    },
+    {
+      "file": "mayle-v-felix_merits_2005-06-23.md",
+      "counts": {
+        "Stone-Zsela": 10,
+        "Stevens": 10,
+        "O'Connor": 11,
+        "Scalia": 10,
+        "Kennedy": 10,
+        "Souter": 11,
+        "Thomas": 10,
+        "Ginsburg": 10,
+        "Breyer": 10
+      },
+      "last_counted": "Kelo v. City of New London, No. 04-108.",
+      "public_blocks": 11
+    },
+    {
+      "file": "orff-v-united-states_merits_2005-06-23.md",
+      "counts": {
+        "Stone-Zsela": 10,
+        "Stevens": 10,
+        "O'Connor": 11,
+        "Scalia": 10,
+        "Kennedy": 10,
+        "Souter": 11,
+        "Thomas": 10,
+        "Ginsburg": 11,
+        "Breyer": 10
+      },
+      "last_counted": "Mayle v. Felix, No. 04-563.",
+      "public_blocks": 11
+    },
+    {
+      "file": "bell-v-thompson_merits_2005-06-27.md",
+      "counts": {
+        "Stone-Zsela": 10,
+        "Stevens": 10,
+        "O'Connor": 11,
+        "Scalia": 10,
+        "Kennedy": 10,
+        "Souter": 11,
+        "Thomas": 11,
+        "Ginsburg": 11,
+        "Breyer": 10
+      },
+      "last_counted": "Orff v. United States, No. 03-1566.",
+      "public_blocks": 11
+    },
+    {
+      "file": "metro-goldwyn-mayer-studios-v-grokster_merits_2005-06-27.md",
+      "counts": {
+        "Stone-Zsela": 10,
+        "Stevens": 10,
+        "O'Connor": 11,
+        "Scalia": 10,
+        "Kennedy": 11,
+        "Souter": 11,
+        "Thomas": 11,
+        "Ginsburg": 11,
+        "Breyer": 10
+      },
+      "last_counted": "Bell v. Thompson, No. 04-514.",
+      "public_blocks": 11
+    },
+    {
+      "file": "national-cable-telecommunications-association-v-brand-x-internet-services_merits_2005-06-27.md",
+      "counts": {
+        "Stone-Zsela": 10,
+        "Stevens": 11,
+        "O'Connor": 11,
+        "Scalia": 10,
+        "Kennedy": 11,
+        "Souter": 11,
+        "Thomas": 11,
+        "Ginsburg": 11,
+        "Breyer": 10
+      },
+      "last_counted": "Metro-Goldwyn-Mayer Studios Inc. v. Grokster, Ltd., No. 04-480.",
+      "public_blocks": 11
+    },
+    {
+      "file": "town-of-castle-rock-v-gonzales_merits_2005-06-27.md",
+      "counts": {
+        "Stone-Zsela": 10,
+        "Stevens": 11,
+        "O'Connor": 11,
+        "Scalia": 10,
+        "Kennedy": 11,
+        "Souter": 11,
+        "Thomas": 11,
+        "Ginsburg": 11,
+        "Breyer": 11
+      },
+      "last_counted": "National Cable & Telecommunications Association v. Brand X Internet Services, No. 04-277; FCC v. Brand X Internet Services, No. 04-281.",
+      "public_blocks": 11
+    },
+    {
+      "file": "van-orden-v-perry_merits_2005-06-27.md",
+      "counts": {
+        "Stone-Zsela": 10,
+        "Stevens": 11,
+        "O'Connor": 11,
+        "Scalia": 10,
+        "Kennedy": 11,
+        "Souter": 12,
+        "Thomas": 11,
+        "Ginsburg": 11,
+        "Breyer": 11
+      },
+      "last_counted": "Town of Castle Rock v. Gonzales, No. 04-278.",
+      "public_blocks": 11
+    }
+  ],
+  "errors": [],
+  "scope": "These checks are deterministic; substantive joins, eligibility, remedies and negative statements require the separate legal review."
+}

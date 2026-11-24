@@ -1,0 +1,197 @@
+
+
+  
+
+  
+
+	
+
+	
+
+	
+
+GONZALEZ V. CROSBY
+
+ 
+
+GONZALEZ V. CROSBY (04-6432) 
+
+366 F.3d 1253, affirmed.
+
+Syllabus
+
+ 
+
+Opinion
+
+ [ Scalia ]
+
+Concurrence
+
+ [ Breyer ]
+
+Dissent
+
+ [ Stevens ]
+
+HTML version
+
+PDF version
+
+HTML version
+
+PDF version
+
+HTML version
+
+PDF version
+
+HTML version
+
+PDF version
+
+Syllabus
+
+NOTE: 
+Where it is feasible, a syllabus (headnote) will be
+released, as is being done in connection with this case, at the
+time the opinion is issued.
+The syllabus constitutes no part
+of the opinion of the Court but has been prepared by the
+Reporter of Decisions for the convenience of the reader.
+See
+
+United States
+ v. 
+Detroit Timber & Lumber Co.,
+
+200 U.S. 321
+,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+GONZALEZ 
+v
+. CROSBY, SECRETARY,
+FLORIDA DEPARTMENT OF CORRECTIONS
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE ELEVENTH CIRCUIT
+
+ 
+No. 04—6432.
+
+Argued April 25,
+2005–Decided June 23, 2005
+
+Petitioner’s federal habeas corpus
+petition was dismissed as time barred when the District Court
+concluded that the federal limitations period was not tolled
+while petitioner’s motion for postconviction relief was
+pending in state court.  After petitioner abandoned his attempt
+to seek review of the District Court’s decision, this
+Court decided that a state postconviction relief petition can
+toll the federal statute of limitations even if, like
+petitioner’s, the petition is ultimately dismissed as
+procedurally barred.  
+Artuz
+ v. 
+Bennett
+, 
+531 U.S. 4
+.  Petitioner
+filed a Federal Rule of Civil Procedure 60(b)(6) motion for
+relief from the judgment, which the District Court denied.  The
+Eleventh Circuit affirmed the denial, holding that the Rule
+60(b) motion was in substance a second or successive habeas
+petition, which under the Antiterrorism and Effective Death
+Penalty Act of 1996 (AEDPA), 
+28 U.S.C. §
+2244
+(b), cannot be filed without precertification by the
+court of appeals.
+
+Held:
+
+    1. Because
+petitioner’s Rule 60(b) motion challenged only the
+District Court’s previous ruling on AEDPA’s statute
+of limitations, it is not the equivalent of a successive habeas
+petition and can be ruled upon by the District Court without
+precertification by the Eleventh Circuit. 
+Pp. 3—11.
+
+ 
+        (a) Rule
+60(b) applies in §2254 habeas proceedings only “to
+the extent that [it is] not inconsistent with” applicable
+federal statutes and rules.  §2254 Rule 11.  Because
+§2244(b) applies only where a court acts pursuant to a
+prisoner’s “habeas corpus application,” the
+question here is whether a Rule 60(b) motion is such an
+application.  The text of §2244(b) shows that, for these
+purposes, a habeas application is a filing containing one or
+more “claims.”  Other federal habeas statutes and
+this Court’s decisions also make clear that a
+“claim” is an asserted federal basis for relief from
+a state-court conviction.  If a Rule 60(b) motion contains one
+or more “claims,” the motion is, if not in substance
+a “habeas corpus application,” at least similar
+enough that failing to subject it to AEDPA’s restrictions
+on successive habeas petitions would be “inconsistent
+with” the statute.  A Rule 60(b) motion can be said to
+bring a “claim” if it seeks to add a new ground for
+relief from the state conviction or attacks the federal
+court’s previous resolution of a claim 
+on the
+merits
+, though not if it merely attacks a defect in the
+federal habeas proceedings’ integrity.  Pp. 3—8.
+
+ 
+        (b) When
+no “claim” is presented, there is no basis for
+contending that a Rule 60(b) motion should be treated like a
+habeas petition.  If neither the motion itself nor the federal
+judgment from which it seeks relief substantively addresses
+federal grounds for setting aside the movant’s state
+conviction, allowing the motion to proceed on its own terms
+creates no inconsistency with the habeas statute or rules. 
+Petitioner’s motion, which alleges that the federal courts
+misapplied §2244(d)’s statute of limitations, fits
+this description.  Nothing in 
+Calderon
+ v.
+
+Thompson
+, 
+523
+U.S. 538
+, suggests that entertaining a filing confined to a
+
+nonmerits
+ aspect of the first federal habeas proceeding
+is “inconsistent with” AEDPA.  Pp. 8—11.
+
+      2. Under the
+proper Rule 60(b) standards, the District Court was correct to
+deny relief.  The change in the law worked by 
+Artuz
+ is
+not an “extraordinary circumstance” justifying relief
+under Rule 60(b)(6), and it is made all the less extraordinary
+by the lack of diligence that petitioner showed in seeking
+direct appellate review of the statute-of-limitations issue. 
+Pp. 11—13.
+
+366 F.3d 1253, affirmed.
+
+    Scalia, J., delivered
+the opinion of the Court, in which Rehnquist, C. J., and
+O’Connor, Kennedy, Thomas, Ginsburg, and Breyer, JJ.,
+joined.  Breyer, J., filed a concurring opinion.  Stevens, J.,
+filed a dissenting opinion, in which Souter, J., joined.
+
+ 

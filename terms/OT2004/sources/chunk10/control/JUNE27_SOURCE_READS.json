@@ -1,0 +1,142 @@
+[
+  {
+    "case": "Van Orden",
+    "file": "van-orden_ZO.txt",
+    "sha256": "8d1e4fab19eb86f7fdae408f69027dae656f3e6840dbbb7f30d233d55fb7f56e",
+    "reader": "isolated source/control context",
+    "reading": "complete text including footnotes"
+  },
+  {
+    "case": "Van Orden",
+    "file": "van-orden_ZC.txt",
+    "sha256": "2f786a1fe608a9d4d2429f56972d57efacf8073cee346487ec513b8faba4b784",
+    "reader": "isolated source/control context",
+    "reading": "complete text including footnotes"
+  },
+  {
+    "case": "Van Orden",
+    "file": "van-orden_ZC1.txt",
+    "sha256": "135b29af709dbfdcc62e3b8a497254356f2d67fd5f89e868db754bd2f343a675",
+    "reader": "isolated source/control context",
+    "reading": "complete text including footnotes"
+  },
+  {
+    "case": "Van Orden",
+    "file": "van-orden_ZC2.txt",
+    "sha256": "a5cbbb262925288a6c2a9ccda7c18fca85289309ddfc0e86fd303c4eb3c0ddbd",
+    "reader": "isolated source/control context",
+    "reading": "complete text including footnotes"
+  },
+  {
+    "case": "Van Orden",
+    "file": "van-orden_ZD.txt",
+    "sha256": "bfbe7d5eb76d562e96cded3397b4f182a790eb702c95f45e713e5199bbb9ff93",
+    "reader": "isolated source/control context",
+    "reading": "complete text including footnotes"
+  },
+  {
+    "case": "Van Orden",
+    "file": "van-orden_ZD1.txt",
+    "sha256": "3da865b3cabbefe934335c2a456bb6c106e6861bbcb1f1aae98132e30f8a6e9a",
+    "reader": "isolated source/control context",
+    "reading": "complete text including footnotes"
+  },
+  {
+    "case": "Van Orden",
+    "file": "van-orden_ZD2.txt",
+    "sha256": "736d3c572ce016ddc8812a4beed2e04efe7d08f77e8fe5a4485b53867cecffce",
+    "reader": "isolated source/control context",
+    "reading": "complete text including footnotes"
+  },
+  {
+    "case": "Castle Rock",
+    "file": "castle-rock_ZO.txt",
+    "sha256": "47360ff0a4283256261ed243b4fbc067b6013fc70dbc90ead3f1621eb756ef9a",
+    "reader": "isolated source/control context",
+    "reading": "complete text including footnotes"
+  },
+  {
+    "case": "Castle Rock",
+    "file": "castle-rock_ZC.txt",
+    "sha256": "df889116b8c7ed95515257c431a856e08822969098ec17f0fcecc9695f9377fc",
+    "reader": "isolated source/control context",
+    "reading": "complete text including footnotes"
+  },
+  {
+    "case": "Castle Rock",
+    "file": "castle-rock_ZD.txt",
+    "sha256": "814dc00293385085523594793ed372c30967ef22c7ade81b053a9854e8300728",
+    "reader": "isolated source/control context",
+    "reading": "complete text including footnotes"
+  },
+  {
+    "case": "Grokster",
+    "file": "grokster_ZO.txt",
+    "sha256": "ed2c01370fa2577f941eec77416d950aa9d56b235473a2690407ed2a41ad7a4d",
+    "reader": "isolated source/control context",
+    "reading": "complete text including footnotes"
+  },
+  {
+    "case": "Grokster",
+    "file": "grokster_ZC.txt",
+    "sha256": "c8281ef9f3c9ea4550266f5386794c1411e77196fe291e1618d6211b433a6fbc",
+    "reader": "isolated source/control context",
+    "reading": "complete text including footnotes"
+  },
+  {
+    "case": "Grokster",
+    "file": "grokster_ZC1.txt",
+    "sha256": "41c65f240693d97c8037fae6d0c03008f2a0df7049ef26eda268f07505a5374f",
+    "reader": "isolated source/control context",
+    "reading": "complete text including footnotes"
+  },
+  {
+    "case": "Brand X",
+    "file": "brand-x_ZO.txt",
+    "sha256": "0b764bea9c6b1a11208f3b4477a0a56f8062128c69026145f25e326b2061f8d1",
+    "reader": "isolated source/control context",
+    "reading": "complete text including footnotes"
+  },
+  {
+    "case": "Brand X",
+    "file": "brand-x_ZC.txt",
+    "sha256": "5aa7745996dad8a6dee7cd97573e1b8005b40d8370c06259361a1e05eb92e64e",
+    "reader": "isolated source/control context",
+    "reading": "complete text including footnotes"
+  },
+  {
+    "case": "Brand X",
+    "file": "brand-x_ZC1.txt",
+    "sha256": "d3a2714bf34fa985d4cdbef3febfcc36ecb926149a55c5f109a2129220fb76cb",
+    "reader": "isolated source/control context",
+    "reading": "complete text including footnotes"
+  },
+  {
+    "case": "Brand X",
+    "file": "brand-x_ZD.txt",
+    "sha256": "2d8110a6f7bdc4b4979fa57928710a293adb3438f2a12c5959a4109c328449ec",
+    "reader": "isolated source/control context",
+    "reading": "complete text including footnotes"
+  },
+  {
+    "case": "McCreary",
+    "file": "mccreary_ZO.txt",
+    "sha256": "6727a65b80fed06ded867b9f5203e352298ac33ec16bf679d131e924c9e726cd",
+    "reader": "isolated source/control context",
+    "reading": "complete text including footnotes"
+  },
+  {
+    "case": "McCreary",
+    "file": "mccreary_ZC.txt",
+    "sha256": "e1f2128dc0104a546afa4a6989626819f5288bc3c191cc7f7dae8ef034068fac",
+    "reader": "isolated source/control context",
+    "reading": "complete text including footnotes"
+  },
+  {
+    "case": "McCreary",
+    "file": "mccreary_ZD.txt",
+    "sha256": "70fea54a9639dbf7289798257b4f23abb0a32df6fe5d0eed49a8276c65d6e714",
+    "reader": "isolated source/control context",
+    "reading": "complete text including footnotes"
+  }
+]

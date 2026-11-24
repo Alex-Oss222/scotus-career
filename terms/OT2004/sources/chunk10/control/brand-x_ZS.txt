@@ -1,0 +1,537 @@
+
+
+  
+
+  
+
+	
+
+	
+
+	
+
+NATIONAL CABLE & TELECOMMUNICATIONS ASSN. V.BRAND X INTERNET SERVICES
+
+ 
+
+NATIONAL CABLE & TELECOMMUNICATIONS ASSN. V.BRAND X INTERNET SERVICES (04-277) 
+
+345 F.3d 1120, reversed and remanded.
+
+Syllabus
+
+ 
+
+Opinion
+
+ [ Thomas ]
+
+Concurrence
+
+ [ Stevens ]
+
+Concurrence
+
+ [ Breyer ]
+
+Dissent
+
+ [ Scalia ]
+
+HTML version
+
+PDF version
+
+HTML version
+
+PDF version
+
+HTML version
+
+PDF version
+
+HTML version
+
+PDF version
+
+HTML version
+
+PDF version
+
+Syllabus
+
+NOTE: 
+Where it is feasible, a syllabus (headnote) will be
+released, as is being done in connection with this case, at the
+time the opinion is issued.
+The syllabus constitutes no part
+of the opinion of the Court but has been prepared by the
+Reporter of Decisions for the convenience of the reader.
+See
+
+United States
+ v. 
+Detroit Timber & Lumber Co.,
+
+200 U.S. 321
+,
+337.
+
+SUPREME COURT OF THE UNITED
+STATES
+
+NATIONAL CABLE & TELECOMMUNICATIONS
+
+ASSOCIATION et al. 
+v
+. BRAND X INTERNET
+
+SERVICES et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE NINTH CIRCUIT
+
+ 
+No. 04—277.
+
+Argued March 29,
+2005–Decided June 27, 2005
+
+*
+
+ 
+
+Consumers traditionally access the Internet
+through “dial-up” connections provided via local
+telephone lines.  Internet service providers (ISPs), in turn,
+link those calls to the Internet network, not only by providing
+a physical connection, but also by offering consumers the
+ability to translate raw data into information they may both
+view on their own computers and transmit to others connected to
+the Internet.  Technological limitations of local telephone
+wires, however, retard the speed at which Internet data may be
+transmitted through such “narrowband” connections. 
+“Broadband” Internet service, by contrast, transmits
+data at much higher speeds.  There are two principal kinds of
+broadband service: cable modem service, which transmits data
+between the Internet and users’ computers via the network
+of television cable lines owned by cable companies, and Digital
+Subscriber Line (DSL) service, which uses high-speed wires
+owned by local telephone companies.  Other ways of transmitting
+high-speed Internet data, including terrestrial- and
+satellite-based wireless networks, are also emerging.
+
+ 
+        The
+Communications Act of 1934, as amended by the
+Telecommunications Act of 1996, defines two categories of
+entities relevant here.  “Information service”
+providers–those “offering … a capability for
+[processing] information via telecommunications,” 
+47 U.S.C. §
+153
+(20)–are subject to mandatory regulation by the
+Federal Communications Commission as common carriers under
+Title II of the Act.  Conversely, telecommunications
+carriers–
+i.e.,
+ those “offering …
+telecommunications for a fee directly to the public …
+regardless of the facilities used,” §153(46)–are
+not subject to mandatory Title II regulation.  These two
+classifications originated in the late 1970’s, as the
+Commission developed rules to regulate data-processing services
+offered over telephone wires.  Regulated
+“telecommunications service” under the 1996 Act is
+the analog to “basic service” under the prior regime,
+the 
+Computer II 
+rules.  Those rules defined such service
+as a “pure” or “transparent” transmission
+capability over a communications path enabling the consumer to
+transmit an ordinary-language message to another point without
+computer processing or storage of the information, such as via
+a telephone or a facsimile.  Under the 1996 Act,
+“[i]nformation service” is the analog to
+“enhanced” service, defined by the 
+Computer II
+
+rules as computer-processing applications that act on the
+subscriber’s information, such as voice and data storage
+services, as well as “protocol conversion,”
+
+i.e.
+, the ability to communicate between networks that
+employ different data-transmission formats.
+
+ 
+        In the
+
+Declaratory Ruling 
+under review, the Commission
+classified broadband cable modem service as an
+“information service” but not a
+“telecommunications service” under the 1996 Act, so
+that it is not subject to mandatory Title II common-carrier
+regulation.  The Commission relied heavily on its 
+Universal
+Service Report, 
+which earlier classified
+“non-facilities-based” ISPs–those that do not
+own the transmission facilities they use to connect the end
+user to the Internet–solely as information-service
+providers.  Because Internet access is a capability for
+manipulating and storing information, the Commission concluded,
+it was an “information service.”  However, the
+integrated nature of such access and the high-speed wire used
+to provide it led the Commission to conclude that cable
+companies providing it are not “telecommunications
+service” providers.  Adopting the 
+Universal Service
+Report
+’s reasoning, the Commission held that cable
+companies offering broadband Internet access, like
+non-facilities-based ISPs, do not offer the end user
+telecommunications service, but merely use telecommunications
+to provide end users with cable modem service.
+
+ 
+        Numerous
+parties petitioned for review.	By judicial lottery, the Court
+of Appeals for the Ninth Circuit was selected as the venue for
+the challenge.	That court granted the petitions in part,
+vacated the 
+Declaratory Ruling 
+in part, and remanded for
+further proceedings.  In particular, the court held that the
+Commission could not permissibly construe the Communications
+Act to exempt cable companies providing cable modem service
+from mandatory Title II regulation.  Rather than analyzing the
+permissibility of that construction under the deferential
+framework of 
+Chevron U.S. A. Inc.
+ v. 
+Natural
+Resources Defense Council, Inc.,
+
+467 U.S. 837
+,
+however, the court grounded that holding in the 
+stare
+decisis 
+effect of its decision in 
+AT&T Corp. 
+v.
+
+Portland,
+ 216 F.3d 871, which had held that cable modem
+service is a “telecommunications service.” 
+
+Held:
+ The Commission’s
+conclusion that broadband cable modem companies are exempt from
+mandatory common-carrier regulation is a lawful construction of
+the Communications Act under 
+Chevron
+ and the
+Administrative Procedure Act.  Pp. 8—32.
+
+    1. 
+Chevron
+&#
+146;s framework applies to the Commission’s interpretation
+of “telecommunications service.” 
+Pp. 8—14.
+
+ 
+        (a) 
+Che
+vron 
+governs this Court’s review of the
+Commission’s construction.  See, 
+e.g., National Cable &
+Telecommunications Assn., Inc.
+ v. 
+Gulf Power Co.,
+
+534 U.S. 327
+,
+333—339.  
+Chevron 
+requires a federal court to defer
+to an agency’s construction, even if it differs from what
+the court believes to be the best interpretation, if the
+particular statute is within the agency’s jurisdiction to
+administer, the statute is ambiguous on the point at issue, and
+the agency’s construction is reasonable.  467 U.S., at
+843—844, and n. 11, 865—866.  The
+Commission’s statutory authority to “execute and
+enforce” the Communications Act, §151, and to
+“prescribe such rules and regulations as may be necessary
+… to carry out the [Act’s] provisions,”
+§201(b), give the Commission power to promulgate binding
+legal rules; the Commission issued the order under review in
+the exercise of that authority; and there is no dispute that
+the order is within the Commission’s jurisdiction. 
+Pp. 8—10.
+
+ 
+        (b) The
+Ninth Circuit should have applied 
+Chevron
+’s
+framework, instead of following the contrary construction it
+adopted in 
+Portland
+.  A court’s prior construction
+of a statute trumps an agency construction otherwise entitled
+to 
+Chevron 
+deference only if the prior court decision
+holds that its construction follows from the unambiguous terms
+of the statute and thus leaves no room for agency discretion. 
+See 
+Smiley
+, 
+supra
+, at 740—741.  Because
+
+Portland
+ held only that the 
+best 
+reading of
+§153(46) was that cable modem service was
+“telecommunications service,” not that this was the
+only permissible reading or that the Communications Act
+unambiguously required it, the Ninth Circuit erred in refusing
+to apply 
+Chevron.  
+Pp. 10—14.
+
+      2. The
+Commission’s construction of §153(46)’s
+“telecommunications service” definition is a
+permissible reading of the Communications Act at both steps of
+
+Chevron
+’s test.  Pp. 14—29.
+
+ 
+        (a) For
+the Commission, the question whether cable companies providing
+cable modem service “offe[r]” telecommunications
+within §153(46)’s meaning turned on the nature of the
+functions offered the 
+end user.
+	Seen from the
+consumer’s point of view, the Commission concluded, the
+cable wire is used to access the World Wide Web, newsgroups,
+etc., rather than “transparently” to transmit and
+receive ordinary-language messages without computer processing
+or storage of the message.  The integrated character of this
+offering led the Commission to conclude that cable companies do
+not make a stand-alone, transparent offering of
+telecommunications.  Pp. 15—17.
+
+ 
+        (b) The
+Commission’s construction of §153(46) is permissible
+at 
+Chevron
+’s first step, which asks whether the
+statute’s plain terms “directly addres[s] the precise
+question at issue.”  467 U.S., at 843.  This conclusion
+follows both from the ordinary meaning of “offering”
+and the Communications Act’s regulatory history. 
+Pp. 17—25.
+
+ 
+          &nb
+sp; (1)
+
+Where a statute’s
+plain terms admit of two or more reasonable ordinary usages,
+the Commission’s choice of one of them is entitled to
+deference.  See, 
+e.g., Verizon Communications Inc.
+ v.
+
+FCC
+, 
+535 U.S.
+467
+, 498.  It is common usage to describe what a company
+“offers” to a consumer as what the consumer perceives
+to be the integrated finished product, even to the exclusion of
+discrete components that compose the product.  What cable
+companies providing cable modem service “offer” is
+finished Internet service, though they do so using the discrete
+components composing the end product, including data
+transmission.  Such functionally integrated components need not
+be described as distinct “offerings.” 
+Pp. 17—21.
+
+ 
+          &nb
+sp; (2) The Commission’s traditional distinction
+between basic and enhanced service also supports the conclusion
+that the Communications Act is ambiguous about whether cable
+companies “offer” telecommunications with cable modem
+service.  Congress passed the Act’s definitions against
+the background of this regulatory history, and it may be
+assumed that the parallel terms “telecommunications
+service” and “information service” substantially
+incorporated the meaning of “basic” and
+“enhanced” service.  That history in at least two
+respects confirms that the term “telecommunications
+service” is ambiguous.      First, in
+the 
+Computer II
+ order establishing the terms
+“basic” and “enhanced” services, the
+Commission defined those terms functionally, based on how the
+consumer interacts with the provided information, just as the
+Commission did in the order under review.  Cable modem service
+is not “transparent” in terms of its interaction with
+customer-supplied information; the transmission occurs only in
+connection with information processing.  It was therefore
+consistent with the statute’s terms for the Commission to
+assume that the parallel term “telecommunications
+service” in §153(46) likewise describes a
+“pure” or “transparent” communications path
+not necessarily separately present in an integrated
+information-processing service from the end-user’s
+perspective.  Second, the Commission’s application of the
+basic/enhanced service distinction to non-facilities-based ISPs
+also supports the Court’s conclusion.  The Commission has
+historically not subjected non-facilities-based
+information-service providers to common carrier regulation. 
+That history suggests, in turn, that the Act does not
+unambiguously classify nonfacilities based ISPs as
+“offerors” of telecommunications.  If the Act does
+not unambiguously classify such providers as “offering
+telecommunications,” it also does not unambiguously so
+classify facilities-based information-service providers such as
+cable companies; the relevant definitions do not distinguish
+the two types of carriers.  The Act’s silence suggests,
+instead, that the Commission has the discretion to fill the
+statutory gap.	Pp. 21—25.
+
+ 
+        (c) The
+Commission’s interpretation is also permissible at
+
+Chevron
+’s step two because it is “a reasonable
+policy choice for the agency to make,” 467 U.S., at 845. 
+Respondents argue unpersuasively that the Commission’s
+construction is unreasonable because it allows any
+communications provider to evade common-carrier regulation
+simply by bundling information service with telecommunications.
+ That result does not follow from the interpretation adopted in
+the 
+Declaratory Ruling.
+	The Commission classified cable
+modem service solely as an information service because the
+telecommunications input used to provide cable modem service is
+not separable from the service’s data-processing
+capabilities, but is part and parcel of that service and
+integral to its other capabilities, and therefore is not a
+telecommunications offering.  This construction does not leave
+all information-service offerings unregulated under Title II. 
+It is plain, for example, that a local telephone company cannot
+escape regulation by packaging its telephone service with voice
+mail because such packaging offers a transparent transmission
+path–telephone service–that transmits information
+independent of the information-storage capabilities voice mail
+provides.  By contrast, the high-speed transmission used to
+provide cable modem service is a functionally integrated
+component of Internet service because it transmits data only in
+connection with the further processing of information and is
+necessary to provide such service.  The Commission’s
+construction therefore was more limited than respondents
+assume.
+
+      Respondents’
+argument that cable modem service does, in fact, provide
+“transparent” transmission from the consumer’s
+perspective is also mistaken.  Their characterization of the
+“information-service” offering of Internet access as
+consisting only of access to a cable company’s e-mail
+service, its Web page, and the ability it provides to create a
+personal Web page conflicts with the Commission’s
+reasonable understanding of the nature of Internet service. 
+When an end user accesses a third party’s Web site, the
+Commission concluded, he is equally using the information
+service provided by the cable company as when he accesses that
+company’s own Web site, its e-mail service, or his
+personal webpage.  As the Commission recognized, the service
+that Internet access providers offer the public is Internet
+access, not a transparent ability (from the end-user’s
+perspective) to transmit information.  Pp. 25—29.
+
+      3. The Court
+rejects respondent MCI, Inc.’s argument that the
+Commission’s treatment of cable modem service is
+inconsistent with its treatment of DSL service and is therefore
+an arbitrary and capricious deviation from agency policy under
+the Administrative Procedure Act, see 
+5 U.S.C. §
+706
+(2)(A).	MCI points out that when local telephone
+companies began to offer Internet access through DSL
+technology, the Commission required them to make the telephone
+lines used to provide DSL available to competing ISPs on
+nondiscriminatory, common-carrier terms.  Respondents claim
+that the Commission has not adequately explained its decision
+not to regulate cable companies similarly.
+
+      The Court thinks
+that the Commission has provided a reasoned explanation for
+this decision.	The traditional reason for its 
+Computer
+II
+ common-carrier treatment of facilities-based carriers
+was that the 
+telephone network 
+was the primary, if not
+the exclusive, means through which information service
+providers could gain access to their customers.  The Commission
+applied the same treatment to DSL service based on that
+history, rather than on an analysis of contemporaneous market
+conditions.  The Commission’s 
+Declaratory Ruling
+,
+by contrast, concluded that changed market conditions warrant
+different treatment of cable modem service.  Unlike at the time
+of the DSL order, substitute forms of Internet transmission
+exist today, including wireline, cable, terrestrial wireless,
+and satellite.	The Commission therefore concluded that
+broadband services should exist in a minimal regulatory
+environment that promotes investment and innovation in a
+competitive market.  There is nothing arbitrary or capricious
+about applying a fresh analysis to the cable industry. 
+Pp. 29—31.
+
+345 F.3d 1120, reversed and remanded.
+
+    Thomas, J., delivered
+the opinion of the Court, in which Rehnquist, C. J., and
+Stevens, O’Connor, Kennedy, and Breyer, JJ., joined. 
+Stevens, J., and Breyer, J., filed concurring opinions. 
+Scalia, J., filed a dissenting opinion, in which Souter and
+Ginsburg JJ., joined as to Part I.
+
+Notes
+
+*.
+  Together with No. 04—281,
+
+Federal Communications Commission et al. 
+v.
+
+Brand X Internet Services et al.,
+ also on
+certiorari to the same court. 
+
+ 

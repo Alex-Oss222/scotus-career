@@ -1,0 +1,95 @@
+{
+  "status": "All fifteen Section II supplements approved by the current Run instruction; revalidation against effective entering law remains part of assembly.",
+  "matters": [
+    {
+      "matter": "Mid-Con Freight Systems, Inc. v. Michigan Public Service Commission",
+      "approved": true,
+      "issues": 1,
+      "controlled_disposition": "Affirm rejection of the §14504 preemption challenge to the separate §478.2(2) fee."
+    },
+    {
+      "matter": "Eulitt v. Maine Department of Education",
+      "approved": true,
+      "issues": 2,
+      "controlled_disposition": "Affirm judgment against the parents' requested integrated-tuition funding claim and reject their unsupported assertion of the school's separate rights."
+    },
+    {
+      "matter": "Kelo v. City of New London",
+      "approved": true,
+      "issues": 1,
+      "controlled_disposition": "Affirm the Connecticut judgment against the federal public-use challenge."
+    },
+    {
+      "matter": "Gonzalez v. Crosby",
+      "approved": true,
+      "issues": 2,
+      "controlled_disposition": "Affirm denial of the Rule 60 motion on the absence of extraordinary circumstances, while rejecting its classification as a successive habeas application."
+    },
+    {
+      "matter": "Exxon Mobil Corp. v. Allapattah Services, Inc.",
+      "approved": true,
+      "issues": 1,
+      "controlled_disposition": "In No. 04-70, affirm the Eleventh Circuit's supplemental-jurisdiction ruling. In consolidated No. 04-79, reverse the First Circuit insofar as it excludes the relatives' related claims solely for their individual amount deficiencies, and remand."
+    },
+    {
+      "matter": "Orff v. United States",
+      "approved": true,
+      "issues": 1,
+      "controlled_disposition": "Affirm dismissal of the surviving direct action for want of an applicable §390uu waiver, without adopting an unnecessary beneficiary-merits determination."
+    },
+    {
+      "matter": "Halbert v. Michigan",
+      "approved": true,
+      "issues": 2,
+      "controlled_disposition": "Vacate the uncounseled first-tier disposition and remand for constitutionally adequate appellate consideration with appointed counsel."
+    },
+    {
+      "matter": "Mayle v. Felix",
+      "approved": true,
+      "issues": 1,
+      "controlled_disposition": "Reverse the Ninth Circuit's relation-back ruling and remand for proceedings consistent with the common-core requirement."
+    },
+    {
+      "matter": "Green Party of New York State v. New York State Board of Elections",
+      "approved": true,
+      "issues": 2,
+      "controlled_disposition": "Affirm the preliminary protection against the challenged enrollment exclusion and remand for continued proceedings under the stated functional scope."
+    },
+    {
+      "matter": "Van Orden v. Perry",
+      "approved": true,
+      "issues": 1,
+      "controlled_disposition": "Reverse the judgment sustaining the display and remand for effective prospective relief ending Texas's prohibited official presentation."
+    },
+    {
+      "matter": "Town of Castle Rock v. Gonzales",
+      "approved": true,
+      "issues": 2,
+      "controlled_disposition": "Affirm the reinstatement of the procedural due-process claim against the Town, with the stated limits, and remand for adjudication of the remaining elements."
+    },
+    {
+      "matter": "Bell v. Thompson",
+      "approved": true,
+      "issues": 1,
+      "controlled_disposition": "Reverse the amended Sixth Circuit judgment and remand for issuance of a mandate consistent with the earlier habeas disposition, subject to any independent lawful order not invalidated here."
+    },
+    {
+      "matter": "McCreary County v. American Civil Liberties Union of Kentucky",
+      "approved": true,
+      "issues": 1,
+      "controlled_disposition": "Affirm preliminary relief against the challenged current displays under the unified governmental-function inquiry and remand for continued proceedings."
+    },
+    {
+      "matter": "Metro-Goldwyn-Mayer Studios Inc. v. Grokster, Ltd.",
+      "approved": true,
+      "issues": 2,
+      "controlled_disposition": "Vacate the defendants' summary judgment and remand for adjudication under the stated inducement rule and preserved independent theories."
+    },
+    {
+      "matter": "National Cable & Telecommunications Association v. Brand X Internet Services",
+      "approved": true,
+      "issues": 3,
+      "controlled_disposition": "In both No. 04-277 and consolidated No. 04-281, affirm the Ninth Circuit's judgment setting aside the FCC's exclusion of the described transmission offering from telecommunications-service treatment, on the statutory and judicial-precedent grounds stated here, and remand for lawful agency implementation."
+    }
+  ]
+}
