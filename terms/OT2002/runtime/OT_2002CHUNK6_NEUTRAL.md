@@ -520,7 +520,7 @@ Norfolk & Western Railway Co. v. Ayers, 538 U.S. 135 (record and procedural hist
 
 **Open Point:** Which pleaded claims fall within Westside Mothers’ enforceable mandatory child benefits and satisfy their conditions, and whether the other provisions independently confer the asserted personal rights, after the immunity barrier is resolved.
 
-**Additional controlling authority:** Gonzaga University v. Doe (June 20, 2002) rejects the asserted FERPA nondisclosure entitlement but adopts no majority general rule barring rights under funding statutes. Blessing’s provision-specific inquiry remains necessary.
+**Additional controlling authority:** Gonzaga University v. Doe (June 20, 2002) holds that FERPA's nondisclosure provision secures an individual right enforceable through §1983 and that a funding condition can secure such a right. Blessing’s provision-specific inquiry remains necessary.
 
 #### C. DECISION-MATERIAL LITIGATION POSITIONS
 
@@ -532,7 +532,7 @@ The Court may affirm rejection of immunity and remand for the remaining threshol
 
 **Plausible Holding Scope:** Availability of the prospective-official pathway for the alleged ongoing federal Medicaid violations. It does not establish every Medicaid provision as an individual right or prescribe a statewide dental-care system.
 
-**Uncertainty:** The allegations concerning access and injury have not been tried. Any ultimate enforcement ruling must identify the specific Medicaid right, apply Westside Mothers to the mandatory child benefits it covers and apply Blessing to any distinct provisions, consistently with Gonzaga’s confined holding.
+**Uncertainty:** The allegations concerning access and injury have not been tried. Any ultimate enforcement ruling must identify the specific Medicaid right, apply Westside Mothers to the mandatory child benefits it covers and apply Blessing to any distinct provisions, consistently with Gonzaga’s two-question framework.
 
 #### E. SOURCES
 

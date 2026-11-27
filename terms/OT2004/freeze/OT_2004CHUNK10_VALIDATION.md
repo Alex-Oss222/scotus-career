@@ -20,11 +20,11 @@ The present completion adds only Gonzalez and McCreary. All 104 preexisting Reco
 | June 27 | Bell | Reversed and remanded, 5–4 | Kennedy |
 | June 27 | McCreary | Preliminary injunction affirmed and remanded, 6–3 | Breyer |
 | June 27 | Grokster | Vacated and remanded, 9–0 | Stevens |
-| June 27 | Brand X | Both dockets reversed and remanded, 5–4 each | Breyer |
-| June 27 | Castle Rock | Reversed, 6–3 | Souter |
+| June 27 | Brand X | Both dockets affirmed, 5–4 each | Stone-Zsela |
+| June 27 | Castle Rock | Affirmed and remanded, 5–4 | Breyer |
 | June 27 | Van Orden | Reversed and remanded, 5–4 | Stone-Zsela |
 
-Each count statement counts the eligible preceding Record opinion tables already durable when its assignment was made, with same-date case names taken alphabetically. The two additional earlier-date Records reopen no existing assignment or count statement. Earlier tally statements are not count authority. Exact counts and the last counted event appear in [the independent check](OT_2004CHUNK10_RESUMED_INDEPENDENT_CHECK.json). The Chief's assignments satisfy the balance pool and case-specific fit rule. Stevens assigns Brand X and O'Connor assigns Castle Rock as senior majority members; their Records distinguish the reported pool from the discretion governing Associate assignments. Gonzalez supplies one lead to the subsequent McCreary count. The new Records state their complete fresh counts, eligible authors, pools and case-specific fit grounds.
+Each count statement counts the eligible preceding Record opinion tables already durable when its assignment was made, with same-date case names taken alphabetically. The two additional earlier-date Records reopen no existing assignment or count statement. Earlier tally statements are not count authority. Exact counts and the last counted event appear in [the independent check](OT_2004CHUNK10_RESUMED_INDEPENDENT_CHECK.json). The Chief's assignments, including Brand X and Castle Rock, satisfy the balance pool and case-specific fit rule. Gonzalez supplies one lead to the subsequent McCreary count. The new Records state their complete fresh counts, eligible authors, pools and case-specific fit grounds.
 
 ## Stages, chronology and research
 
@@ -40,7 +40,7 @@ Final assembly reconciles judgments, named coalitions, opinion parts, controllin
 
 **Section 15 negative-statement check: passed.** All sixty-five instances of Judgment & Remedy, Holdings, Precedent Treatment, Law After Decision and Procedure After Action were reviewed under section 8. Corresponding internal material uses the same controlling propositions and limitations. Actual denials of requested relief, surviving judgments, supported rule limits, factual assumptions and necessary answers to opposing grounds remain. Brand X's unnecessary neighboring-future-actions sentence was removed from both controlling-holding copies. Bell states contextual abuse without imposing a mandatory checklist. Castle Rock states the complete violation-or-attempt and service-or-actual-notice probable-cause triggers. Van Orden preserves the mandatory character of the Chief Justice's additional implementation directions. No unresolved formulation discrepancy remains in the completed matters.
 
-All Records have the four opening labels and eleven public blocks in order; explanation lengths remain within the ordinary ceiling. Public projections consistently name Stone-Zsela and exclude private-stage material. Green Party's judgment coalition is distinguished from its narrower doctrinal joins; Grokster's unanimity on inducement is distinguished from its opposed noncontrolling Sony applications. Brand X preserves precise dissent joins and express limits supporting the common opinion. Generated Render Input content is identical to each bounded Public Projection. The workspace projects current law and published positions without becoming independent authority.
+All Records have the four opening labels and eleven public blocks in order; explanation lengths remain within the ordinary ceiling. Public projections consistently name Stone-Zsela and exclude private-stage material. Green Party's judgment coalition is distinguished from its narrower doctrinal joins; Grokster's unanimity on inducement is distinguished from its opposed noncontrolling Sony applications. Brand X preserves precise part-by-part joins and express limits supporting the Court's opinion. Generated Render Input content is identical to each bounded Public Projection. The workspace projects current law and published positions without becoming independent authority.
 
 ## Deterministic checks and preservation
 

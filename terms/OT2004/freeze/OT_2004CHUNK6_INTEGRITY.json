@@ -120,11 +120,11 @@
     },
     {
       "path": "freeze/OT_2004CHUNK6_NEUTRAL_PROJECTION.md",
-      "sha256": "10e71ffbb712bfa06fa6f6bd196ff2c1157ade5770c27755ac94e4afc043d31e"
+      "sha256": "f4f0f6867e75ec1de5ed6358b43f223a0797d97f91d8965c577d15f8b842a424"
     },
     {
       "path": "freeze/OT_2004CHUNK6_NEUTRAL_SELECTION_RECEIPT.md",
-      "sha256": "caf7d7321df9b4dec38fefa866cbe663ff288b6479b9e5116431c43c258ac699"
+      "sha256": "2a4820a38ff580f9cf689125e7d1b16047dd9dedcdd8d81604517b8fc950e912"
     },
     {
       "path": "freeze/OT_2004CHUNK6_RECONCILED.md",

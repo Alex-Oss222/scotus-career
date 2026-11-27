@@ -179,5 +179,5 @@ Earlier durable records used in this final refresh:
 
 - `terms/OT1991/records/Nordlinger_v_Hahn_merits_1992-06-18.md` — SHA256 `d5c19500f229ed30ddd45943831911f65dcfc2011de9b3cb52bd3325ed30062a`.
 - `terms/OT1991/records/Georgia_v_McCollum_merits_1992-06-18.md` — SHA256 `9158514589063f6d9216c4502b76fbcad3ee0076ba1097d8407dbb24154d2cc3`.
-- `terms/OT1991/records/Kraft_General_Foods_Inc_v_Iowa_Department_of_Revenue_and_Finance_merits_1992-06-18.md` — SHA256 `a441d01ffe54a3d3479e41d9b419f71c7fe4aac42092a95cab4ba95aa30b755c`.
+- `terms/OT1991/records/Kraft_General_Foods_Inc_v_Iowa_Department_of_Revenue_and_Finance_merits_1992-06-18.md` — SHA256 `a5e3327a9c9fccbc8d3abe48d39c895b0aa5506e18c7db3dbb4d2f7e6dffaacc`.
 - `terms/OT1991/records/Gade_v_National_Solid_Wastes_Management_Association_merits_1992-06-18.md` — SHA256 `716f10d0ee8176e3dec106f081708c3e5ae1b6df9ae6bdff67d5f4f52f749337`.

@@ -25,4 +25,4 @@ The original full review of all seven prior public decisions is preserved. This 
 
 | Source | SHA-256 |
 |---|---|
-| entering-law/OT_2001CHUNK8_THROUGH_JUNE24_PUBLIC_LAW.md | 6cb1bd0339af44a23a47d02ea0e3ed153241a6a14a8bc549bd9d9e13619b52a4 |
+| entering-law/OT_2001CHUNK8_THROUGH_JUNE24_PUBLIC_LAW.md | 6a5299bf829732137a2a9d23eacc13f3f9d96f31f2f2459e71ce550943adc741 |

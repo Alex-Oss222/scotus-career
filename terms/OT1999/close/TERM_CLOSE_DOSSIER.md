@@ -113,9 +113,9 @@ The linked Records are incorporated as the adjudicative source. Ordering same-da
 | 2000-05-15 | [Johnson v. United States; No. 99-5153.](../records/johnson-v-united-states-99-5153_merits_2000-05-15.md) | `54fc40b502516706cfc2696746c88e3a43f8d4f8e552a19a0bebdc6460645a49` |
 | 2000-05-15 | [Public Lands Council v. Babbitt; No. 98-1991.](../records/public-lands-council-v-babbitt_merits_2000-05-15.md) | `79409d6989c6b62d534992af9e66368cf274d506d8295388dd21050e719de3a2` |
 | 2000-05-15 | [United States v. McIver; review of 186 F.3d 1119 (9th Cir. 1999); lower appellate Nos. 98-30145 and 98-30146; no separate Supreme Court docket supplied.](../records/united-states-v-mciver_merits_2000-05-15.md) | `cce0e111dfdbf97e272df660cc3f07a6ca8f1c1251db52d658663950f1debd57` |
-| 2000-05-15 | [United States v. Morrison / Brzonkala v. Morrison; Nos. 99-5 and 99-29, consolidated.](../records/united-states-v-morrison-brzonkala-v-morrison_merits_2000-05-15.md) | `2921c6096ad4272e28e0445ef649cfc6c28efd826c8e681c2de5bc19d3d45ce7` |
-| 2000-05-22 | [Geier v. American Honda Motor Co.; No. 98-1811.](../records/geier-v-american-honda-motor-co_merits_2000-05-22.md) | `5f16e60f519632573a9bd908d0d5a55956f6ed28bc1e915fcb5277737eaa479e` |
-| 2000-05-22 | [Jones v. United States; No. 99-5739.](../records/jones-v-united-states_merits_2000-05-22.md) | `0e778689a0f7af949901d20f0c8514f1c33ff16811efc144070779c0d650eba4` |
+| 2000-05-15 | [United States v. Morrison / Brzonkala v. Morrison; Nos. 99-5 and 99-29, consolidated.](../records/united-states-v-morrison-brzonkala-v-morrison_merits_2000-05-15.md) | `29760569f1c24cd5c253efec007a03e5d104a9559885cb8037763a5949e96ba8` |
+| 2000-05-22 | [Geier v. American Honda Motor Co.; No. 98-1811.](../records/geier-v-american-honda-motor-co_merits_2000-05-22.md) | `fb1588d365f3ca3dbfb3377dbba30f68fa7f27ad3cf597e401dae3a7e1fd8c57` |
+| 2000-05-22 | [Jones v. United States; No. 99-5739.](../records/jones-v-united-states_merits_2000-05-22.md) | `5bd2c6bae1813f73518c389ab9f4f258c397fb0863db4b8bc5bcf446efdeeb22` |
 | 2000-05-22 | [Ohler v. United States; No. 98-9828.](../records/ohler-v-united-states_merits_2000-05-22.md) | `a7615d9e0ca05ea7846755f46ca415fc7ed0a80d255dccf5a03b1dcca55d80e5` |
 | 2000-05-22 | [United States v. Barrett; First Circuit No. 96-2355, 178 F.3d 34; no Supreme Court docket supplied.](../records/united-states-v-barrett_merits_2000-05-22.md) | `f6f563a476ed27eb97e5148e963ee1f4976a0ef464f8c66c56d27c4549549f0b` |
 | 2000-05-22 | [United States v. Playboy Entertainment Group, Inc.; No. 98-1682.](../records/united-states-v-playboy-entertainment-group-inc_merits_2000-05-22.md) | `9986fc8893776efa8aa8ca77a938b027e2f3c575a8cc2af3a696b941964a75d8` |
@@ -179,7 +179,7 @@ Source provenance and temporal limits:
 | 3 | 12 | [OT_1999CHUNK3](../output/OT_1999CHUNK3.md) | `cf3f8ccd1a4215613bf2c39ee2ac7985ab1f4a0386604e975a9758c836b76885` |
 | 4 | 12 | [OT_1999CHUNK4](../output/OT_1999CHUNK4.md) | `29c7648fcf9e3fc6d234b254e3297f8c8404b1b33683bfbdb3b63f1423ff7ef9` |
 | 5 | 12 | [OT_1999CHUNK5](../output/OT_1999CHUNK5.md) | `426b8ea03c95c2b02c518d0394f07747f99078eecdeceb42fd3a41fef6a46017` |
-| 6 | 12 | [OT_1999CHUNK6](../output/OT_1999CHUNK6.md) | `c3e634a5f0677dc5ee8ab3842db17c179acc217f5e566182eae68158f8aa30ee` |
+| 6 | 12 | [OT_1999CHUNK6](../output/OT_1999CHUNK6.md) | `6b9fb1169559e7029cc7a3fb48dc68bc928bdfc7b0a53cf35832e9591ebfc53e` |
 | 7 | 12 | [OT_1999CHUNK7](../output/OT_1999CHUNK7.md) | `69ba2da2dba6d772dd6ca5227214b31825d0dcb1676a1d599f2435a680efa4ca` |
 | 8 | 12 | [OT_1999CHUNK8](../output/OT_1999CHUNK8.md) | `37160b3dc7a2c21312de76ccbc22a2fa11839fe5ee18ca5a53455378a529a2fc` |
 | 9 | 8 | [OT_1999CHUNK9](../output/OT_1999CHUNK9.md) | `2af8853f7bdd32755be5d819e8ac395e001949151ea5ad9d130f3394fe19aee1` |
@@ -202,9 +202,9 @@ Publication completed and verified on November 3, 2026. All three common metadat
 | [Holdings](../../../state/HOLDINGS.md) | `9c9d5134274b0c051d64494293a260fddd3d87c19a81e9aa59ae63259d34f239` |
 | [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md) | `e904e48920cfb758efad2e9932db1392579ff3a6234399d3f50be521d03853fb` |
 | [Standing State](../../../state/STANDING_STATE.md) | `1cd83a6f8016eb8233f7ce2886d723c870686285a18b190bfc60ff8ea30c08c9` |
-| [Term index](../INDEX.md) | `b96499c97556dbda39d646d56a046327d6ab1c35f2d9888be805c56e5e7f934e` |
-| [Separate writings](SEPARATE_WRITINGS.md) | `1a9289217c2bd8c8f89cedbd4f3c1c28409592bf3ad1163b27886cdf88314e6e` |
-| [Departures](DEPARTURES.md) | `0766fbefd8700ad6e06e7fed63fca669ebab9824ed5ea624e22fa7fc13f89544` |
+| [Term index](../INDEX.md) | `eb82899fcf5374f2733bb2ce21468ca59594aa13dd59ecfac63883e724926dc6` |
+| [Separate writings](SEPARATE_WRITINGS.md) | `b1905c738b10bcc3774239171134a5d5ca343fc793453da39c24a58ae05b0735` |
+| [Departures](DEPARTURES.md) | `bca6cee3ad10f6c6216664598e92f0c97e243f97e43deb20a2e8b79b7ac8b5f2` |
 | [Consequences](CONSEQUENCES.md) | `354620cef18887a38542d582161d01a8d72d98a1e59aadce84778e43800d36ad` |
 
 The prescribed commands completed:

@@ -14,8 +14,8 @@ The recorded form rests on the confined application before workload or author se
 
 Four opening labels and all eleven public blocks pass. Internal and public Holdings are identical, with controlling explanations of 195, 294 and 140 words. The approved Stone and both frozen Bass sections are exact copies. The generated per-case handoff's substantive payload exactly matches the bounded projection; relative links resolve. Each precedent-treatment line identifies one case. Public uses of comparator terminology concern legal comparison, not internal workflow. Current Record and immutable prior-law hashes match their validation values.
 
-**Record SHA-256:** `5e6b81e20ce6568584db5effa5e8b707fa126cc4102ecaf084785fd831fd618a`
+**Record SHA-256:** `1ab46f2447bfb758a31050792cf756ec7ae6632a65b95ebfffeeb8656aaafe60`
 
 **Public Projection SHA-256** (normalized extraction with one terminal newline): `b421a9dccf9f4f8042bbfe5be321b61921e8e77bc19aa6b36bb945b926d47bd6`
 
-**Immutable prior-law SHA-256:** `681821209127c46dc4c4bbdb49715eb7ece10e8feb1d7867fd15ca8de6c0d94a`.
+**Immutable prior-law SHA-256:** `2e15975feeb6112d9bd2e92532db7296bf59e77d792823eb276c0b84688754d3`.

@@ -149,7 +149,7 @@ Roell v. Withrow, 538 U.S.580; No. 02-69 (record and procedural history).
 
 * **Threshold, Preservation, and Vehicle Matters:** The United States’ authority to sue must be identified separately from a private person’s statutory rights and from federal jurisdiction. The suit addresses actual disclosures and an announced continuing policy, not speculation about an isolated error. Section 1345 supplies the ordinary jurisdictional route for an authorized United States action; the Department’s general regulatory interest alone is insufficient. The requested federal order does not review the state judgment on appeal or bind its different requester. Federal courts independently construe FERPA while respecting authoritative state-law construction. Summary judgment and statutory interpretation receive independent review; discovery and the scope of equitable relief require their own review rather than becoming automatic consequences of statutory coverage.
 
-* **Relevant Dates:** The underlying requests and disclosures occurred in 1995–1998; the federal district court entered its permanent judgment in 2000; the Sixth Circuit affirmed June 27, 2002. The assigned event is April 29, 2003. Apply the statute and regulations operative for the disclosures and prospective decree, including the already enacted disciplinary-result exceptions. Owasso’s institutional-maintenance requirement and Gonzaga’s rejection of the particular private §1983 nondisclosure claim are controlling at their distinct scope; neither decides federal enforcement of these retained disciplinary files.
+* **Relevant Dates:** The underlying requests and disclosures occurred in 1995–1998; the federal district court entered its permanent judgment in 2000; the Sixth Circuit affirmed June 27, 2002. The assigned event is April 29, 2003. Apply the statute and regulations operative for the disclosures and prospective decree, including the already enacted disciplinary-result exceptions. Owasso’s institutional-maintenance requirement and Gonzaga’s recognition of the private §1983 nondisclosure right are controlling at their distinct scope; neither decides federal enforcement of these retained disciplinary files.
 
 * **Companion or Related Matters:** No additional companion is separately briefed.
 
@@ -157,7 +157,7 @@ Roell v. Withrow, 538 U.S.580; No. 02-69 (record and procedural history).
 
 #### B. LAW ENTERING THE CASE
 
-* **Intervening controlling law:** Gonzaga University v. Doe (June 20, 2002) bars the particular private Section 1983 FERPA nondisclosure claim. It establishes no general private-right formula by majority vote and does not decide this federal public-enforcement action.
+* **Intervening controlling law:** Gonzaga University v. Doe (June 20, 2002) holds that FERPA's nondisclosure provision secures a student's individual right, enforceable through Section 1983, against a recipient's policy or practice of unauthorized disclosure, and states the two-question framework for statutory rights. It does not decide this federal public-enforcement action.
 
 * **Current-Through Baseline:** Governing decisions through June 28, 2002.
 

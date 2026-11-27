@@ -112,7 +112,7 @@ California Democratic Party follows Apprendi and precedes Dickerson alphabetical
 | 61 | 2000-05-15 | [Johnson v. United States](../records/johnson-v-united-states-99-5153_merits_2000-05-15.md) | Souter | 8 |
 | 62 | 2000-05-15 | [Public Lands Council v. Babbitt](../records/public-lands-council-v-babbitt_merits_2000-05-15.md) | Scalia | 7 |
 | 63 | 2000-05-15 | [United States v. McIver](../records/united-states-v-mciver_merits_2000-05-15.md) | O'Connor | 8 |
-| 64 | 2000-05-15 | [United States v. Morrison / Brzonkala v. Morrison](../records/united-states-v-morrison-brzonkala-v-morrison_merits_2000-05-15.md) | Kennedy | 8 |
+| 64 | 2000-05-15 | [United States v. Morrison / Brzonkala v. Morrison](../records/united-states-v-morrison-brzonkala-v-morrison_merits_2000-05-15.md) | Stone-Zsela and Kennedy | 8 |
 | 65 | 2000-05-22 | [Geier v. American Honda Motor Co](../records/geier-v-american-honda-motor-co_merits_2000-05-22.md) | Stone-Zsela | 7 |
 | 66 | 2000-05-22 | [Jones v. United States](../records/jones-v-united-states_merits_2000-05-22.md) | Thomas | 7 |
 | 67 | 2000-05-22 | [Ohler v. United States](../records/ohler-v-united-states_merits_2000-05-22.md) | Stevens | 8 |

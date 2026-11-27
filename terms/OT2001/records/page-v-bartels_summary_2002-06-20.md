@@ -271,7 +271,7 @@ The current Run instruction applies Engine section 8 balanced assignment to ever
 
 **Counts before assignment:** Stone-Zsela 11; Stevens 11; O'Connor 11; Scalia 11; Kennedy 11; Souter 11; Thomas 12; Ginsburg 11; Breyer 11.
 
-**Last counted event:** Gonzaga University v. Doe, 2002-06-20; Thomas. **Eligible authors:** Stone-Zsela, Stevens, Souter, Ginsburg, Breyer. **Balance pool:** Stone-Zsela, Stevens, Souter, Ginsburg, Breyer. **Assigner:** Stone-Zsela. **Chosen author:** Stone-Zsela.
+**Last counted event:** Gonzaga University v. Doe, 2002-06-20; Stevens. **Eligible authors:** Stone-Zsela, Stevens, Souter, Ginsburg, Breyer. **Balance pool:** Stone-Zsela, Stevens, Souter, Ginsburg, Breyer. **Assigner:** Stone-Zsela. **Chosen author:** Stone-Zsela.
 
 The governing form and component grounds were fixed before the recount. All five eligible authors have eleven counted opinions, so all five are in the balance pool. Stone is selected for the case-specific formulation and coordination work: his approved explanation precisely separates racial motive from the protected interest and governmental operation, preserves the independent statutory route and distinguishes actual participation impairment from election loss. Ginsburg is the strongest alternative because her Easley opinion supplies the existing boundary and she can carry every part. At equal counts, the approved case-specific preference and the concrete value of keeping the proposed explanation within its supported Page scope favor Stone; this is not an automatic assignment from office or from the older note. The four partial joiners are not made eligible by judgment agreement. This signed summary opinion is excluded from the plenary-lead count.
 

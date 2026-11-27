@@ -12674,7 +12674,7 @@ For *Delaney v. DeTella*, March 4, 2002, Seventh Circuit No. 00-4145, the interl
 - Alexander v. Sandoval, April 24, 2001: its Title VI-specific holding applying Powell v. Ridge's bounded direct prospective action to valid section 602 disparate-impact regulations is preserved and does not decide FERPA enforcement.
 - TRW Inc. v. Andrews, November 13, 2001: independent statutory requirements and exclusions retain their actual limiting work.
 
-**Later-authority backlinks:** Gonzaga University v. Doe, June 20, 2002, resolves the asserted Section 1983 enforcement of FERPA's nondisclosure provisions against the claimant through statute-specific six-Justice agreement. Owasso's education-record definition remains intact, and Gonzaga adopts no majority general formula equating a statutory right with intent to create a private remedy.
+**Later-authority backlinks:** Gonzaga University v. Doe, June 20, 2002, holds that 20 U.S.C. §1232g(b) secures a student's individual right to freedom from unauthorized disclosure of education records through a recipient's policy or practice, enforceable through Section 1983. Owasso's maintained-record definition governs that right's coverage, and the private-enforcement question Owasso reserved is answered for §1232g(b).
 
 ### Functional impairment as a basis for civil commitment
 
@@ -13130,7 +13130,7 @@ For Lawall’s distinct six-Justice remand and protection holding, April 28, 200
 
 - Blessing v. Freestone: applies particular-right, foreclosure and fitted-remedy inquiries; the general program-adequacy exclusion remains.
 - Bruneau v. South Kortright Central School District: applies the distinction between an existing right and actual remedial foreclosure; Medicaid is not treated as substantively identical to Title IX.
-- Gonzaga University v. Doe: distinguishes the FERPA entitlement and preserves its outcome and the nonmajority status of its broader rights formulation.
+- Gonzaga University v. Doe: applies its two-question framework and individual-entitlement factors to the Medicaid child-benefit provisions; its FERPA holding is not needed to decide them.
 - Suter v. Artist M.: preserves its actual reasonable-efforts, reporting and separate implied-action holdings and its independent case-plan question; no categorical state-plan bar is applied.
 - Wright v. Roanoke Redevelopment and Housing Authority; Wilder v. Virginia Hospital Association: apply defined statutory entitlement and manageable qualitative application; regulations may elaborate an existing right but do not create the right held here.
 
@@ -13226,7 +13226,7 @@ For Odom v. Antrican, March 10, 2003, Fourth Circuit No. 01-1693, the prospectiv
 
 **Limits and questions not reached:** The defined child entitlements retain the complete conditions reproduced below. Equal access and quality, statewide operation, promptness, free choice and comparability are not automatically individual rights merely because pleaded. Each distinct provision requires its own inquiry; no individual entitlement or violation is found on the present allegations.
 
-**Treatment of earlier authority:** Westside Mothers governs its identified child entitlements; Suter and Blessing govern separate rights and congressional foreclosure. Gonzaga remains a FERPA holding, not a majority general prohibition on funding-statute rights.
+**Treatment of earlier authority:** Westside Mothers governs its identified child entitlements; Suter and Blessing govern separate rights and congressional foreclosure. Gonzaga supplies the governing two-question framework and confirms that funding-statute provisions may secure individual rights.
 
 **Material application:** Medicaid-eligible children under twenty-one receive the following benefits under Westside Mothers.
 

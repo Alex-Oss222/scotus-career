@@ -24,7 +24,7 @@ The historical departure is expressly from the circuit termination anchor, not a
 
 Independently re-extracted all 111 earlier signed-lead credits from the listed public opinion tables. Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy and Thomas each have 12; Souter, Ginsburg and Breyer each have 13. Lamb is correctly last; date/alphabetical eligibility agrees. All nine are eligible and within the minimum-plus-one pool. O'Connor's own Jenkins dissent supplies the recorded fit, with Stone fairly assessed as the same-count alternative. The form predates assignment.
 
-The eleven public blocks are ordered correctly. Internal and public Holdings are identical; the per-case public-law copy is exact. The current Record digest matches refreshed local validation. Explanation lengths remain within the ordinary ceiling. The immutable baseline remains `6cb1bd0339af44a23a47d02ea0e3ed153241a6a14a8bc549bd9d9e13619b52a4`. Global integration remains separate.
+The eleven public blocks are ordered correctly. Internal and public Holdings are identical; the per-case public-law copy is exact. The current Record digest matches refreshed local validation. Explanation lengths remain within the ordinary ceiling. The immutable baseline remains `6a5299bf829732137a2a9d23eacc13f3f9d96f31f2f2459e71ce550943adc741`. Global integration remains separate.
 
 ## Initial finding and resolution
 

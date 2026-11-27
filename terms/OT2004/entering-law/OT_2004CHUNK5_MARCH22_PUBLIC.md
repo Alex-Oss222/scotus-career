@@ -315,7 +315,7 @@ The additional remedies Abrams seeks cannot cure the conflict in enforcement pro
 - **Middlesex County Sewerage Authority v. National Sea Clammers Association:** Applied to the demonstrated conflict between enforcement routes, rather than to remedial silence alone.
 - **Smith v. Robinson:** Applied for the consequence of an incompatible statutory remedial structure.
 - **Bruneau v. South Kortright Central School District:** Distinguished. General funding administration and an implied action there supplied no comparable incompatible personal filing and adjudication procedure.
-- **Gonzaga University v. Doe:** Its controlling rejection of the particular FERPA claim remains intact; its broader nonmajority formulation supplies no universal rule here.
+- **Gonzaga University v. Doe:** Its second inquiry, whether Congress excluded section 1983, is applied; the express personal siting route is the incompatible scheme that Gonzaga's Part IV found absent from FERPA.
 - **Alexander v. Sandoval** and **Powell v. Ridge:** Their prospective-enforcement holdings remain in force. The present decision concerns the conflicting mechanism of this specific statute.
 
 ## Law After Decision

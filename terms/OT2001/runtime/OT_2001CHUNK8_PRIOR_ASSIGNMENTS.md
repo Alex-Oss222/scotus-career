@@ -3242,28 +3242,28 @@ The [form receipt](../freeze/OT_2001CHUNK7_DADIAN_OPINION_FORM.md) preceded the 
 **Event and date:** Merits decision, 2002-06-20; October Term 2001, chunk 7.
 
 Computed counts before this event: Stone-Zsela 11; Stevens 11; O'Connor 11; Scalia 11; Kennedy 11; Souter 11; Thomas 11; Ginsburg 11; Breyer 11.
-Counted lead author(s): Thomas.
+Counted lead author(s): Stevens.
 
-### Public opinion table (source line 149)
+### Public opinion table (source line 196)
 
 | Writing | Author | Joined by | Scope |
 |---|---|---|---|
-| Opinion announcing the judgment | Thomas | O'Connor, Scalia, Kennedy | Institution-directed no-right analysis; four Justices |
-| Concurrence in the judgment | Breyer | Souter | FERPA-specific lack of the asserted judicially enforceable entitlement; no new general formula |
-| Dissent | Stone-Zsela | Stevens, Ginsburg | Defined nondisclosure entitlement enforceable through Section 1983, with statutory and independent predicates retained |
+| Opinion of the Court | Stevens | Stone-Zsela, Souter, Ginsburg, Breyer | Parts I–V: the two-question Section 1983 inquiry, the individual-entitlement factors, FERPA's nondisclosure right with its policy-or-practice element, compatibility of the administrative scheme, and the reservation of state action and remedies; five Justices |
+| Concurrence | Breyer | Souter | Joins the opinion in full; statute-specific character of the holding; centralized administration informs the content of the duty without displacing Section 1983 |
+| Dissent | Thomas | O'Connor, Scalia, Kennedy | Institution-directed no-right analysis; would reverse the FERPA-based judgment |
 
-### Assignment extract (source line 113; Form and assignment)
+### Assignment extract (source line 160; Form and assignment)
 
-<!-- source-line: 115 -->
+<!-- source-line: 162 -->
 **Counts before assignment:** Stone-Zsela 11; Stevens 11; O'Connor 11; Scalia 11; Kennedy 11; Souter 11; Thomas 11; Ginsburg 11; Breyer 11.
 
-<!-- source-line: 117 -->
-**Last counted event:** Dadian v. Village of Wilmette, 2002-06-20; Scalia. **Eligible authors:** O'Connor, Scalia, Kennedy, Thomas. **Balance pool:** O'Connor, Scalia, Kennedy, Thomas. **Assigner:** O'Connor. **Chosen author:** Thomas.
+<!-- source-line: 164 -->
+**Last counted event:** Dadian v. Village of Wilmette, 2002-06-20; Scalia. **Eligible authors:** Stone-Zsela, Stevens, Souter, Ginsburg, Breyer. **Balance pool:** Stone-Zsela, Stevens, Souter, Ginsburg, Breyer. **Assigner:** Stone-Zsela. **Chosen author:** Stevens.
 
-<!-- source-line: 119 -->
-O'Connor assigns as the most senior participating Justice in the judgment majority; Stone and Stevens dissent. She selects Thomas to state the provision-specific institutional obligation while preserving the distinction established in his entered Bruneau opinion between an existing individual right and its enforcement route. This serves her own recorded Suter, Blessing and Bruneau commitments and answers the competing privacy reading without a categorical rule against funding statutes. All four full lead joiners have the same count and are in the displayed pool; Souter and Breyer are excluded from lead authorship solely because they do not join its full rationale. The Chief's pool restriction does not govern this Associate assignment, but the complete count and pool are recorded. Historical authorship is not imported.
+<!-- source-line: 166 -->
+The Chief Justice is in the five-Justice majority and assigns the opinion. He assigns it to Stevens. Stevens's unanimous Blessing opinion supplies the provision-specific factors and presumptive enforceability that Parts I and II restate, and his unanimous Livadas opinion separated the federal right from the Section 1983 channel. His frozen commitment states the precise FERPA application: a defined student-consent entitlement whose policy-or-practice condition limits the duty without eliminating its beneficiaries. Souter and Breyer joined his Powell and South Camden opinions concurring in part and dissenting in part, which favor Section 1983 enforcement of protections Congress identified; confined, as Part I confines it, to a right arising from the statute itself, which Powell's Count II holding requires, that ground is one all five share. Stone-Zsela's approved position, which matches the holdings, is the strongest alternative; Ginsburg, whose Owasso opinion supplies the maintained-record definition, is another. All five majority Justices join the complete opinion and are within the displayed pool; fit, not office, supports the choice. Historical authorship is not imported.
 
-<!-- source-line: 121 -->
+<!-- source-line: 168 -->
 The [form receipt](../freeze/OT_2001CHUNK7_GONZAGA_OPINION_FORM.md) preceded the [fresh recount](../freeze/OT_2001CHUNK7_GONZAGA_ASSIGNMENT_COUNTS.json). Counts come from actual preceding Record opinion tables, with same-date alphabetical ordering, not earlier tallies.
 
 ---
@@ -3290,7 +3290,7 @@ Signed author excluded because this is a summary/procedural event: Stone-Zsela.
 **Counts before assignment:** Stone-Zsela 11; Stevens 11; O'Connor 11; Scalia 11; Kennedy 11; Souter 11; Thomas 12; Ginsburg 11; Breyer 11.
 
 <!-- source-line: 274 -->
-**Last counted event:** Gonzaga University v. Doe, 2002-06-20; Thomas. **Eligible authors:** Stone-Zsela, Stevens, Souter, Ginsburg, Breyer. **Balance pool:** Stone-Zsela, Stevens, Souter, Ginsburg, Breyer. **Assigner:** Stone-Zsela. **Chosen author:** Stone-Zsela.
+**Last counted event:** Gonzaga University v. Doe, 2002-06-20; Stevens. **Eligible authors:** Stone-Zsela, Stevens, Souter, Ginsburg, Breyer. **Balance pool:** Stone-Zsela, Stevens, Souter, Ginsburg, Breyer. **Assigner:** Stone-Zsela. **Chosen author:** Stone-Zsela.
 
 <!-- source-line: 276 -->
 The governing form and component grounds were fixed before the recount. All five eligible authors have eleven counted opinions, so all five are in the balance pool. Stone is selected for the case-specific formulation and coordination work: his approved explanation precisely separates racial motive from the protected interest and governmental operation, preserves the independent statutory route and distinguishes actual participation impairment from election loss. Ginsburg is the strongest alternative because her Easley opinion supplies the existing boundary and she can carry every part. At equal counts, the approved case-specific preference and the concrete value of keeping the proposed explanation within its supported Page scope favor Stone; this is not an automatic assignment from office or from the older note. The four partial joiners are not made eligible by judgment agreement. This signed summary opinion is excluded from the plenary-lead count.
@@ -3322,7 +3322,7 @@ Signed author excluded because this is a summary/procedural event: Stone-Zsela.
 **Counts before assignment:** Stone-Zsela 11; Stevens 11; O'Connor 11; Scalia 11; Kennedy 11; Souter 11; Thomas 12; Ginsburg 11; Breyer 11.
 
 <!-- source-line: 244 -->
-**Last counted event:** Gonzaga University v. Doe, 2002-06-20; Thomas. **Eligible authors:** Stone-Zsela, Stevens, Souter, Ginsburg, Breyer. **Balance pool:** Stone-Zsela, Stevens, Souter, Ginsburg, Breyer. **Assigner:** Stone-Zsela. **Chosen author:** Stone-Zsela.
+**Last counted event:** Gonzaga University v. Doe, 2002-06-20; Stevens. **Eligible authors:** Stone-Zsela, Stevens, Souter, Ginsburg, Breyer. **Balance pool:** Stone-Zsela, Stevens, Souter, Ginsburg, Breyer. **Assigner:** Stone-Zsela. **Chosen author:** Stone-Zsela.
 
 <!-- source-line: 246 -->
 The fresh recount leaves all five fully eligible Justices at eleven; each is in the balance pool. Stone is selected for concrete coordination and formulation: the related New Jersey decisions must use the same distinction between racial motive and the actual protected interest while keeping Page's tried statutory and participation claims separate from Robertson's design-only and incumbent-prospect theories. His approved formulation also keeps unanimous Richards analysis separate from the five-Justice merits rule and answers the claimed incumbent benefit on its own operation. Ginsburg is the strongest alternative because her Easley opinion directly supplies that rule and she can carry every part. With equal counts, the case-specific preference and precise coordination of the supported formulation favor Stone; the older conditional note does not override the pool. Page supplies no new legal premise to this same-day case. No disagreement was invented or overcome to make the assignment, and the signed summary opinion adds no counted plenary lead.
@@ -3353,7 +3353,7 @@ Counted lead author(s): Ginsburg.
 **Counts before assignment:** Stone-Zsela 11; Stevens 11; O'Connor 11; Scalia 11; Kennedy 11; Souter 11; Thomas 12; Ginsburg 11; Breyer 11.
 
 <!-- source-line: 153 -->
-**Last counted event:** Gonzaga University v. Doe, 2002-06-20; Thomas. **Eligible authors:** Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg, Breyer. **Balance pool:** Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg, Breyer. **Assigner:** Stone-Zsela. **Chosen author:** Ginsburg.
+**Last counted event:** Gonzaga University v. Doe, 2002-06-20; Stevens. **Eligible authors:** Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg, Breyer. **Balance pool:** Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg, Breyer. **Assigner:** Stone-Zsela. **Chosen author:** Ginsburg.
 
 <!-- source-line: 155 -->
 Every fully eligible Justice has eleven counted opinions and is in the balance pool. Ginsburg is selected for the precise legal work of extending a saved insurance condition while preserving the separate federal-remedy and administrative-conflict inquiries. Her UNUM opinion already distinguishes those two questions; this opinion must apply that distinction to limited medical review without turning all external adjudication into a saved term. Stone is the strongest alternative because his approved position expressly reconciles the saving clause with Section 502 and can carry the complete opinion. At equal counts, Ginsburg's demonstrated execution of the exact two-inquiry structure supplies the fit advantage. The majority already shares this scope, so no unresolved join objection or expansion assignment is inferred. Prior authorship is evidence of that concrete fit, not an automatic entitlement.

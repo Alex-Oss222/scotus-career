@@ -22,7 +22,7 @@
     {
       "path": "terms/OT2000/freeze/OT_2000CHUNK2_COMMITMENTS_SWANCC_REFRESH_RECEIPT.json",
       "bytes": 6113,
-      "sha256": "bfcc6fb9cee918eb5919a250fa7c14c01d4310dd84a1e85852ab5319119ec3b6"
+      "sha256": "bd287de85ed968e34955ee3824a3af78c5c05750eadadda74621b04ba00be23e"
     },
     {
       "path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_swancc.md",
@@ -32,7 +32,7 @@
     {
       "path": "terms/OT2000/entering-law/OT_2000CHUNK2_swancc.md",
       "bytes": 66793,
-      "sha256": "6794075c94606908221f1ec4cfc861527367d800ac120cc4fcadab5fa913857f"
+      "sha256": "6c25c7916011689b4ed64baf4e5b04b29be04742ea2362db577cae311784214f"
     },
     {
       "path": "terms/OT2000/entering-law/OT_2000CHUNK2_swancc_positions.md",

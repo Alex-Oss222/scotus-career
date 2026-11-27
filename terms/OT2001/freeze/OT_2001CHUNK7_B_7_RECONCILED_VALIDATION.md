@@ -4,7 +4,7 @@
 
 | Event | Validated Associate arithmetic and topology |
 |---|---|
-| Gonzaga | Six reverse, two affirm. Four share the institution-directed no-right rationale; Souter and Breyer use the narrower statute-specific ground. No broader six-vote formula is inferred. |
+| Gonzaga | Four affirm, four reverse. Stevens, Souter, Ginsburg and Breyer share the bounded consent-and-disclosure enforceability ground; O'Connor, Scalia, Kennedy and Thomas share the institution-directed no-right rationale. No general statutory-benefit test is inferred. |
 | Atkins | Six reverse and support the categorical restriction; Scalia and Thomas affirm. Diagnosis and implementation procedures remain unresolved within the stated rule. |
 | Dadian | Eight affirm the accommodation judgment and record-specific instructional harmlessness. No Supreme Court historical tally is supplied. |
 | Rush | Five affirm; Scalia, Kennedy and Thomas reverse. Federal benefit enforcement, saved insurance conditions and incompatible alternate remedies remain distinct. |
@@ -14,7 +14,7 @@
 
 The complete official sources were read for all six historical Supreme Court matters, including every separate writing, footnote and Atkins's appendix. Dadian's complete lower opinion and footnotes were also read. Historical authorship and full/partial joins were verified as comparison evidence, not assigned to new writings.
 
-Gonzaga's provisional Souter/Breyer departures, Columbus's provisional O'Connor/Thomas departures and Harbury's provisional Thomas full join lacked an adequate changed premise and were corrected. Utah's statutory identities and constitutional topology were tested separately. Scalia's changed standing result rests on his own entered census-standing joins. Kennedy's changed constitutional result rests on the new Glavin rule and his own Wisconsin standard; Thomas's contrary constitutional position is expressly a noncontrolling disagreement with that governing premise, not a silent replacement of it.
+Gonzaga's Souter and Breyer affirmances rest on changed premises supplied by Bruneau and their Powell and South Camden partial-dissent joins, with Owasso's maintenance requirement and the policy-or-practice element bounding the right, and are retained. Columbus's provisional O'Connor/Thomas departures and Harbury's provisional Thomas full join lacked an adequate changed premise and were not retained. Utah's statutory identities and constitutional topology were tested separately. Scalia's changed standing result rests on his own entered census-standing joins. Kennedy's changed constitutional result rests on the new Glavin rule and his own Wisconsin standard; Thomas's contrary constitutional position is expressly a noncontrolling disagreement with that governing premise, not a silent replacement of it.
 
 Harbury's independent clarified-theory ground refines facts and a legal path already present in the supplied neutral and model handoffs. It does not infer complete compensation from tort labels or adjudicate the unresolved foreign-affairs and tort defenses. No new factual premise required a further neutral/model pass.
 

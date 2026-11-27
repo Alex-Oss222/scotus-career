@@ -45,8 +45,8 @@ The existing line-ending convention is preserved for every state file: HOLDINGS.
 |---|---|
 | [Case inventory](../case-list.md) | `bd496d64f4938c3cabddd9282136e2c5cbe76c6dffa1f7366fc931602f23b118` |
 | [Final manifest](../workspace/manifest.md) | `510d7d11fbb79a8abe326af3e1620358b96b6017649518e649f32e3e72b78f10` |
-| [Final continuity](../workspace/continuity.md) | `96f934269ec2d163601901f24e1b679e67fa966714a7478121a6eeb2d0e21895` |
-| [Neutral projection](../workspace/neutral-projection.md) | `49ce63d9f2a3a1ab077b5258f2ca24d86826eb03177335a744982aeeb444eacf` |
+| [Final continuity](../workspace/continuity.md) | `c5c2587ebc54213d80c5097835ba2aecf36d0be5e122acd6507b2a384afca007` |
+| [Neutral projection](../workspace/neutral-projection.md) | `90f2622663a89b4271a5551c9e33600d720a0493ff49c05799b0e788935bb635` |
 | [Ledger](../workspace/ledger.md) | `b3a0bad686ccd1663b71e117f56eee863d5c38b7dad9b476e8ce7aba4fc0de06` |
 | [Confirming audit](AUDIT.md) | `67d13f0998ceb2df7fad44c49c53c3c26d2f3ae1c1add88008426872fd237dd2` |
 
@@ -83,7 +83,7 @@ The linked Records are incorporated as the adjudicative source. Ordering same-da
 | 2001-02-20 | [Director of Revenue of Missouri v. CoBank ACB, No. 99-1792.](../records/Director_of_Revenue_of_Missouri_v_CoBank_ACB_merits_2001-02-20.md) | `6ca14e8d5557dc930fd5ddace7e2f1a96f46bdf9d041c9d48e32dee81faeba41` |
 | 2001-02-20 | [Illinois v. McArthur, No. 99-1132.](../records/Illinois_v_McArthur_merits_2001-02-20.md) | `5045d8f166ddbf4cacdeffe26e3e0c6d6b0e3d1823ceebd522fe4645de170442` |
 | 2001-02-20 | [Urofsky v. Gilmore; Fourth Circuit No. 98-1481, 216 F.3d 401; no separate Supreme Court docket supplied.](../records/Urofsky_v_Gilmore_merits_2001-02-20.md) | `1b1f5bdfa52e3aa86725756ddea6f1967ff17df450425ec9e9677c53756b84c7` |
-| 2001-02-21 | [Board of Trustees of the University of Alabama v. Garrett, No. 99-1240; 531 U.S. 356.](../records/Board_of_Trustees_of_University_of_Alabama_v_Garrett_merits_2001-02-21.md) | `a19720a391e0afab98fd4a4306606c7b4da16764fcbf33f60d1e359bef1a54da` |
+| 2001-02-21 | [Board of Trustees of the University of Alabama v. Garrett, No. 99-1240; 531 U.S. 356.](../records/Board_of_Trustees_of_University_of_Alabama_v_Garrett_merits_2001-02-21.md) | `00170df3eaed9d479f728785896e4e6b19ea39053f0d1570a3103924771e9d7d` |
 | 2001-02-21 | [Buckman Co. v. Plaintiffs' Legal Committee, No. 98-1768; 531 U.S. 341.](../records/Buckman_Co_v_Plaintiffs_Legal_Committee_merits_2001-02-21.md) | `d2a5eb63b268bc73884cc551bdd2a78bef31f8c30d25fec2aa814e8f2106bc1b` |
 | 2001-02-21 | [Central Green Co. v. United States, No. 99-859; 531 U.S. 425.](../records/Central_Green_Co_v_United_States_merits_2001-02-21.md) | `cc513370fad65866c97193847164d9af28d3cf583b322177004ed80bbade6d0f` |
 | 2001-02-21 | [Lewis v. Lewis & Clark Marine, Inc., No. 99-1331; 531 U.S. 438.](../records/Lewis_v_Lewis_and_Clark_Marine_merits_2001-02-21.md) | `ae8c0e064f3b086c380b80c4fae2edca4f5f50bdd11800b4801fd25165a5f2bf` |
@@ -102,7 +102,7 @@ The linked Records are incorporated as the adjudicative source. Ordering same-da
 | 2001-03-21 | [Circuit City Stores, Inc. v. Adams, No. 99-1379; 532 U.S. 105.](../records/Circuit_City_Stores_v_Adams_merits_2001-03-21.md) | `d0dadc6630d1994f730d2856d2db360bd67c7ee42c6962b7f6c987bea93b6d1c` |
 | 2001-03-21 | [Egelhoff v. Egelhoff, No. 99-1529; 532 U.S. 141.](../records/Egelhoff_v_Egelhoff_merits_2001-03-21.md) | `ca1c6016940e09729684f4c29a117c72dd2bc27e7081ef1276ea1a35198a661f` |
 | 2001-03-21 | [Ferguson v. City of Charleston, No. 99-936; 532 U.S. 67.](../records/Ferguson_v_City_of_Charleston_merits_2001-03-21.md) | `713f51503b02aa6d6d18fdde9f09e3d80c8ca2d437d0128436ca383ef71159cb` |
-| 2001-03-21 | [Gibbs v. Babbitt; judgment below 214 F.3d 483, Fourth Circuit No. 99-1218; no separate Supreme Court docket supplied.](../records/Gibbs_v_Babbitt_merits_2001-03-21.md) | `98dbc05e86939b58ad12213a91bc9347fea7a340ccd53094892f1de3ca46dad0` |
+| 2001-03-21 | [Gibbs v. Babbitt; judgment below 214 F.3d 483, Fourth Circuit No. 99-1218; no separate Supreme Court docket supplied.](../records/Gibbs_v_Babbitt_merits_2001-03-21.md) | `c19c215f55cacdc772f8cf36f9b9b89266d84046964126b49c1dc093c907e199` |
 | 2001-04-02 | [Texas v. Cobb, No. 99-1702; 532 U.S. 162.](../records/Texas_v_Cobb_merits_2001-04-02.md) | `d3b50e7e2cd13d1645f7af3b119727f9dc54f9c3463dc7cfc50da05ac067e2ef` |
 | 2001-04-02 | [Wallis v. Spencer; Ninth Circuit No. 97-55579, 202 F.3d 1126; no Supreme Court docket supplied.](../records/Wallis_v_Spencer_merits_2001-04-02.md) | `c29dc713622b137278c67a4ce6400113cea5031d3b8ca0d4189f6d73bd0cd89a` |
 | 2001-04-17 | [Lujan v. G & G Fire Sprinklers, Inc., No. 00-152; 532 U.S. 189.](../records/Lujan_v_G_and_G_Fire_Sprinklers_merits_2001-04-17.md) | `ecb024095abb72a1bd1a9359697e1f85d24e46a2d4f75c024e1256d17479d9d3` |
@@ -184,7 +184,7 @@ The authoritative set is the current audited Record set listed above. This publi
 | 1 | 12 | [OT_2000CHUNK1](../output/OT_2000CHUNK1.md) | `c9d4183a710fa7bc8e37dfac02f084a798d8fb53dc6d4dbd09b978d3c2bb4330` |
 | 2 | 15 | [OT_2000CHUNK2](../output/OT_2000CHUNK2.md) | `cbe96fae76241cf91ee402d83db978b2c6e8b9a7355ff96ca97d0963a7efd362` |
 | 3 | 14 | [OT_2000CHUNK3](../output/OT_2000CHUNK3.md) | `ee1629fdc843fbffad5f47e8b88241c60e374901447001a484fd65b56231a137` |
-| 4 | 15 | [OT_2000CHUNK4](../output/OT_2000CHUNK4.md) | `24657b40c7c2469d13d5330eb7bce64bfb71cd7a6b82dd6ecd199057efffbd3d` |
+| 4 | 15 | [OT_2000CHUNK4](../output/OT_2000CHUNK4.md) | `7a398f6e78ca44d271f09487280af6a5d5dc510944dad5ebe76ce9db79b043ce` |
 | 5 | 14 | [OT_2000CHUNK5](../output/OT_2000CHUNK5.md) | `9a1e43e0b5e6611f283b5629d10672a5a1f7d1cc0984594bdc72bfa9079af068` |
 | 6 | 15 | [OT_2000CHUNK6](../output/OT_2000CHUNK6.md) | `b730a12a20175e0efcba397001e843d0f9501a44b2ef4848164bbf023e1afbe6` |
 | 7 | 14 | [OT_2000CHUNK7](../output/OT_2000CHUNK7.md) | `3e9d42c93c51a69cf7fc8b4d7607e62a1e9bf7376eefe803e6d8adc45be7da7b` |
@@ -243,7 +243,7 @@ A scoped before/after SHA-256 comparison confirms that all 1,618 monitored sourc
 | [terms/OT2000/INDEX.md](../INDEX.md) | `45fa7a302e705865ce000cd86199f84fdc2204ce2651627fd0cd060c9b6af7fe` |
 | [terms/OT2000/close/CONSEQUENCES.md](CONSEQUENCES.md) | `c071b5ab1df68137f1cc5d87ccbec941c4c720cc1c5630bff58e467e6ed3efa6` |
 | [terms/OT2000/close/DEPARTURES.md](DEPARTURES.md) | `1e1389078628065c7b2e4fad7610f3f6e35a930542d41c58a54f49dd5af7f9ac` |
-| [terms/OT2000/close/SEPARATE_WRITINGS.md](SEPARATE_WRITINGS.md) | `c0b87e393442d4adf70c3205a12e45811e6e6232c5c4bdc33c524b4d3ee40826` |
+| [terms/OT2000/close/SEPARATE_WRITINGS.md](SEPARATE_WRITINGS.md) | `c7344d46bb66cca89e4a5a48ba0a272a21eb7bc2b8f76611bc83f1fa66184ac5` |
 
 ## Cleanup
 

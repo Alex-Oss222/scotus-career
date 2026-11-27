@@ -7783,21 +7783,53 @@ For Prudential, May 28, 2002, review of 261 F.3d 355 with no Supreme Court docke
 **Docket or dockets:** No. 01-679.
 **Decided:** 2002-06-20.
 
-##### Whether FERPA nondisclosure provisions establish the asserted Section 1983 entitlement
+##### I. Section 1983 asks whether Congress created the right and whether it excluded the remedy
 
-**Authority of the judgment:** Reverse and remand the FERPA-based federal judgment, 6–3: O’Connor, Scalia, Kennedy, Souter, Thomas and Breyer support; Stone-Zsela, Stevens and Ginsburg oppose. No single full rationale or new general rights formula commands a majority, and no controlling broader rationale is established under Marks. The statute-specific proposition below has six direct votes.
+**Holding:** Section 1983 supplies the cause of action for rights secured by federal statutes. The claimant must show that Congress created the asserted individual right; the defendant may then show that Congress excluded the Section 1983 remedy, expressly or through a comprehensive remedial scheme incompatible with individual enforcement. A right so shown is presumptively enforceable. No separate showing that Congress intended to create a private remedy is required, and the standards for implying an action directly from a statute do not govern a Section 1983 claim.
 
-**Independently majority-supported proposition:** FERPA's education-record nondisclosure provisions do not establish the individual judicially enforceable entitlement asserted in this Section 1983 action. The FERPA-based federal judgment must therefore be reversed; the state-action determination, excluded from review, and independent state-law judgments are unaffected.
+**Proposition-level authority:** Stevens's Part I, joined by Stone-Zsela, Souter, Ginsburg and Breyer; five direct votes. Breyer, joined by Souter, also concurs: the decision is statute-specific, and centralized administration informs the content of the duty without displacing Section 1983. Thomas, joined by O'Connor, Scalia and Kennedy, dissents on the ground that FERPA's institution-directed funding condition confers no individual right; that position is noncontrolling.
 
-**Proposition-level authority:** Thomas’s lead opinion, joined by O’Connor, Scalia and Kennedy, and Breyer’s concurrence in the judgment, joined by Souter, agree on the absence of this asserted FERPA entitlement. Their separate institution-focused and FERPA-specific administrative explanations are not combined into a new general formula.
+**Treatment of earlier authority:** Maine v. Thiboutot, Wright, Wilder, Livadas and Blessing are reaffirmed. Powell v. Ridge's holding that a regulation cannot create an individual right absent from the statute, and South Camden's application of it, stand; this right arises from the statute itself. Sandoval's direct-action holding is neither enlarged nor displaced.
 
-**Current force:** The asserted nondisclosure claim cannot proceed through Section 1983. Right creation, Section 1983 enforcement, implied statutory actions and incompatible remedial displacement retain their separate inquiries.
+##### II. An individual right rests on identified beneficiaries, a binding obligation and definiteness
 
-**Limits and questions not reached:** The conclusion concerns these nondisclosure provisions. It does not categorically exclude funding statutes or equate the absence of an implied action with the absence of a Section 1983 right. The four-Justice lead opinion supplies no controlling general requirement of congressional intent to create a private remedy. No additional damages ruling follows this threshold disposition; the excluded state-action issue and independent state-law judgments remain intact.
+**Holding:** A statute creates an individual right when its text, structure and operation show a binding obligation that protects an identifiable person or defined class and gives that protection sufficiently definite content for judicial enforcement. The factors are identified beneficiaries, a binding rather than precatory obligation, and definiteness. Grammatical form is relevant but not controlling: a provision addressed to a funding recipient or to the administering agency, or framed as a condition on or prohibition of federal funding, can secure an individual entitlement when those factors are met. A general benefit, a beneficial purpose, a mandatory directive alone or an aggregate standard of institutional performance does not create a right.
 
-**Treatment of earlier authority:** Blessing and Bruneau remain distinct provision-specific right and enforcement inquiries; Owasso's reservation of enforcement is resolved for these nondisclosure provisions. No general rule supported only by the four-Justice lead is elevated into controlling law.
+**Proposition-level authority:** Stevens's Part II; the same five direct votes.
 
-**Operative remedy or transition:** Reverse the FERPA-based federal judgment and remand consistently with rejection of that claim, without reopening state action or the independent state-law judgments.
+**Limits and questions not reached:** The factors restate Blessing's provision-specific inquiry and adopt no general statutory-benefit test. Suter's provision-specific holdings and Powell's rejection of regulation-created rights mark the limits.
+
+**Treatment of earlier authority:** Blessing's three factors are restated and applied. Suter's provision-specific holdings, Wright, Wilder and Pennhurst's clear-notice requirement are preserved.
+
+##### III. FERPA secures freedom from unauthorized disclosure through a prohibited policy or practice
+
+**Holding:** 20 U.S.C. §1232g(b) secures to each student, and to the student's parents while the consent rights remain theirs, an individual right to freedom from unauthorized disclosure of the student's education records, or of personally identifiable information from them, through a recipient institution's policy or practice of permitting such disclosure. The policy-or-practice requirement is part of the right, so an isolated employee's mistake does not violate it. Consent, the statutory exceptions, coverage under the maintained-record definition and the nature of the information remain decisive.
+
+**Proposition-level authority:** Stevens's Part III; the same five direct votes.
+
+**Limits and questions not reached:** Whether a disclosure reflects a policy or practice is an element the claimant must prove; no preserved challenge to the sufficiency of that showing below is decided. Consent rights pass from the parent to the student upon reaching eighteen or attending a postsecondary institution.
+
+**Treatment of earlier authority:** Owasso's maintained-record definition governs coverage, and the private-enforcement question it reserved is answered for §1232g(b). Blessing is applied.
+
+##### IV. FERPA's administrative scheme is not incompatible with Section 1983
+
+**Holding:** Congress has not excluded Section 1983 enforcement of §1232g(b). FERPA contains no express exclusion, and its administrative complaint process and funding-termination sanction are relevant but not incompatible with individual enforcement: the sanction operates on the institution and gives the injured student no individual relief, and the complaint process supplies no individual remedy that a Section 1983 action would bypass.
+
+**Proposition-level authority:** Stevens's Part IV; the same five direct votes.
+
+**Limits and questions not reached:** Centralized administration and the Secretary's interpretations continue to inform what FERPA requires; they do not withdraw the Section 1983 remedy. A different statute's comprehensive individual remedy may still show incompatibility.
+
+**Treatment of earlier authority:** Blessing and Bruneau are applied. Middlesex County Sewerage Authority v. National Sea Clammers Association and Smith v. Robinson are distinguished.
+
+##### V. State action and particular remedies are reserved
+
+**Holding:** Receipt of federal funds is not itself state action, and the right recognized here does not make it so. Whether this recipient's employee acted under color of state law is outside the grant, and the Washington courts' determination is undisturbed. Compensatory damages, punitive damages and equitable relief each keep their own conditions; the Court calculates no damages and adopts no punitive-damages rule.
+
+**Proposition-level authority:** Stevens's Part V; the same five direct votes.
+
+**Operative remedy or transition:** Affirm the Washington Supreme Court, 5–4, on the reviewed question: Stone-Zsela, Stevens, Souter, Ginsburg and Breyer; O'Connor, Scalia, Kennedy and Thomas would reverse the FERPA-based judgment. The reinstatement of damages on the FERPA-based Section 1983 claim stands; no damages are calculated, the excluded state-action issue is not reopened, no punitive-damages rule is adopted, and the independent state-law judgments are unaffected.
+
+**Treatment of earlier authority:** Rendell-Baker v. Kohn and Blum v. Yaretsky are preserved. Barnes v. Gorman's incorporated Title VI remedial holding is not extended to Section 1983.
 
 #### Rush Prudential HMO, Inc. v. Moran, 536 U.S. 355
 
@@ -8843,7 +8875,7 @@ For the retained-right and Turner holding in Gerber, decided March 25, 2003, Nin
 
 **Limits and questions not reached:** Section 1232g(f) permits funding termination only after noncompliance and a determination that voluntary compliance cannot be secured; this limits that remedy rather than excluding the judicial action. Section 1234c permits withholding, a compliance complaint, a compliance agreement or another otherwise authorized action and separately preserves fund recovery. Section 1232a does not bar fitted enforcement of accepted confidentiality obligations.
 
-**Treatment of earlier authority:** Newport News is distinguished by this concrete public grant-enforcement source. Gonzaga's private-action holding retains its force and does not bar this United States action. Pennhurst, King v. Smith and Wheeler v. Barrera supply the binding effect of accepted federal obligations.
+**Treatment of earlier authority:** Newport News is distinguished by this concrete public grant-enforcement source. Gonzaga's recognition of a private section 1983 route for FERPA's nondisclosure right is a separate source; the United States' public enforcement action neither depends on nor displaces it. Pennhurst, King v. Smith and Wheeler v. Barrera supply the binding effect of accepted federal obligations.
 
 ##### The proved continuing policy satisfies ordinary requirements for this limited injunction
 
@@ -9092,7 +9124,7 @@ The settlement-approval holding is under Constitutional Structure, Kansas v. Neb
 
 **Limits and questions not reached:** Availability of the route establishes neither the alleged statutory conflict nor the ordinary prerequisites for relief. The holding does not transfer Reich's federal-officer waiver to a state-officer suit.
 
-**Treatment of earlier authority:** Reich distinguishes prospective restraint from an implied damages action; Verizon Maryland supplies the ongoing-violation, responsible-officer and prospective-relief inquiry. Suter and Blessing require provision-specific attention to right, enforcement and foreclosure. Westside Mothers' defined child-benefit rights remain distinct from this manufacturer claim. Gonzaga's FERPA result does not supply a general remedial rule.
+**Treatment of earlier authority:** Reich distinguishes prospective restraint from an implied damages action; Verizon Maryland supplies the ongoing-violation, responsible-officer and prospective-relief inquiry. Suter and Blessing require provision-specific attention to right, enforcement and foreclosure. Westside Mothers' defined child-benefit rights remain distinct from this manufacturer claim. Gonzaga's section 1983 framework governs beneficiary rights and does not decide this manufacturers' prospective challenge.
 
 The Medicaid provisions and fractured preliminary application are under Administrative Law; the price-control and discrimination holdings are under Constitutional Structure, Walsh, May 19, 2003, No. 01-188.
 
@@ -13100,7 +13132,7 @@ For Boggs v. Boggs, June 2, 1997, No. 96-79, on survivor protection, distributed
 
 **Limits and questions not reached:** The Court decides neither ordinary subscriber amenability nor jurisdiction wherever software is downloadable, general jurisdiction, or a minimum sales threshold.
 
-**Treatment of earlier authority:** International Shoe requires meaningful affiliation; Hanson and World-Wide Volkswagen require the defendant's own purposeful conduct rather than unilateral location or foreseeability. Burger King supplies the actual-course inquiry. Quill supports nonphysical due-process affiliation within its scope without importing its separate Commerce Clause or software conclusions.
+**Treatment of earlier authority:** International Shoe requires meaningful affiliation; Hanson and World-Wide Volkswagen require the defendant's own purposeful conduct rather than unilateral location or foreseeability. Burger King supplies the actual-course inquiry. Quill supports nonphysical due-process affiliation within its scope without importing its separate Commerce Clause nexus or collection-burden rules.
 
 ##### The actual controversy is related to the Ohio dealings and the shown burden is fair
 

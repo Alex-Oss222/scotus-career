@@ -812,7 +812,7 @@ Stone’s proposed disposition and reasoning follow. Governing law is distinguis
 
 **Open Point:** Which pleaded claims fall within Westside Mothers’ enforceable mandatory child benefits and satisfy their conditions, and whether the other provisions independently confer the asserted personal rights, after the immunity barrier is resolved.
 
-**Additional controlling authority:** Gonzaga University v. Doe (June 20, 2002) rejects the asserted FERPA nondisclosure entitlement but adopts no majority general rule barring rights under funding statutes. Blessing’s provision-specific inquiry remains necessary.
+**Additional controlling authority:** Gonzaga University v. Doe (June 20, 2002) holds that FERPA's nondisclosure provision secures an individual right enforceable through §1983 and that a funding condition can secure such a right. Blessing’s provision-specific inquiry remains necessary.
 
 #### C. DECISION-MATERIAL LITIGATION POSITIONS
 
@@ -824,7 +824,7 @@ The Court may affirm rejection of immunity and remand for the remaining threshol
 
 **Plausible Holding Scope:** Availability of the prospective-official pathway for the alleged ongoing federal Medicaid violations. It does not establish every Medicaid provision as an individual right or prescribe a statewide dental-care system.
 
-**Uncertainty:** The allegations concerning access and injury have not been tried. Any ultimate enforcement ruling must identify the specific Medicaid right, apply Westside Mothers to the mandatory child benefits it covers and apply Blessing to any distinct provisions, consistently with Gonzaga’s confined holding.
+**Uncertainty:** The allegations concerning access and injury have not been tried. Any ultimate enforcement ruling must identify the specific Medicaid right, apply Westside Mothers to the mandatory child benefits it covers and apply Blessing to any distinct provisions, consistently with Gonzaga’s two-question framework.
 
 #### E. SOURCES
 
@@ -858,7 +858,7 @@ Stone’s proposed disposition and reasoning follow. Governing law is distinguis
 * **Next-Case Guidance:** Apply Westside Mothers to the identified mandatory child-benefit rights and their exact conditions; apply Suter and Blessing to distinct provisions rather than demand a second categorical ruling for rights already recognized. The governing Gonzaga FERPA holding supplies no funding-statute bar. Any eventual common decree must correspond to the proved common barrier and affected group.
 * **Transition:** Not applicable.
 * **Essential Reasoning and Record Application:** Coeur d’Alene preserves prospective relief against connected officers without a general special-sovereignty veto. Congress’s funding conditions remain federal law, while future expense does not transform compliance into damages. Pennhurst’s state-law limitation is distinct. Westside Mothers has now rejected the same categorical obstacle for eligible children enforcing identified mandatory Medicaid benefits. Its holding supports this responsible-official route, while the alleged low participation, travel, delay and deterioration still require proof of a denied benefit under the particular applicable duty. Suter and Blessing remain necessary for provisions outside that holding; keeping these steps separate preserves meaningful enforcement without treating every program aspiration as judicially enforceable. Source and practical timing of relief are decisive.
-* **Precedent Treatment:** Reaffirm Young/Coeur d’Alene and distinguish Pennhurst and retrospective treasury relief. Apply Westside Mothers’ mandatory child-benefit and responsible-official holdings without extending them to every plan provision. Preserve Suter/Blessing and the confined Gonzaga holding for distinct rights questions; apply Lewis v. Casey’s proved-barrier principle to any eventual common remedy.
+* **Precedent Treatment:** Reaffirm Young/Coeur d’Alene and distinguish Pennhurst and retrospective treasury relief. Apply Westside Mothers’ mandatory child-benefit and responsible-official holdings without extending them to every plan provision. Preserve Suter/Blessing and apply Gonzaga’s framework to distinct rights questions; apply Lewis v. Casey’s proved-barrier principle to any eventual common remedy.
 * **Boundary or Reserved Question:** Standing, each child’s entitlement and alleged denial, enforceability of provisions beyond Westside Mothers, and the exact remedy remain outside the permitted interlocutory merits review. That posture limits this judgment without leaving already recognized child-benefit rights legally unsettled.
 
 

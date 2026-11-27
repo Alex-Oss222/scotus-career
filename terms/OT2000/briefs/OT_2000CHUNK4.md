@@ -505,7 +505,7 @@ The record includes interstate visitors to refuge howling programs, interstate v
 
 **Other Governing Law:** The governing enactment and then-operative regulation are the ESA taking, threatened-species, and experimental-population provisions described in the lower opinion. The experimental designation does not determine constitutional power, and a court may not insert an unprovided commerce element. [Gibbs v. Babbitt](https://law.justia.com/cases/federal/appellate-courts/F3/214/483/533418/).
 
-**Material Other Authority:** The Fourth Circuit majority and dissent identify competing readings of the tourism, research, commercial-motive, and comprehensive-program evidence. Their reasoning is under review, not controlling Supreme Court law. United States v. Morrison's dismissal also limits the assumption that an inadequate theory always warrants a new record.
+**Material Other Authority:** The Fourth Circuit majority and dissent identify competing readings of the tourism, research, commercial-motive, and comprehensive-program evidence. Their reasoning is under review, not controlling Supreme Court law. United States v. Morrison's Commerce holding also limits the assumption that an inadequate theory always warrants a new record.
 
 **Existing Rule's Reach:** Existing law permits regulation of noncommercial wildlife taking through necessary inclusion in a valid interstate scheme, as Home Builders held for section 9(a)(1)(B), or through a supported externality, but a declared national objective, an assembly of unrelated provisions, national prevalence, speculative trade, and downstream economic benefits alone are insufficient. The red-wolf rule's exceptions bear on whether the prohibition is a reasonably adapted part of the Act's interstate system.
 

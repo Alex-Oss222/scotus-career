@@ -13,7 +13,7 @@ Reviewed the four drafts in runtime/chunk2-drafts against their scoped frozen ne
 
 ## Westside Mothers
 
-The unanimous outcome and complete reasoning joins match Stone and all eight frozen Associates. The draft resolves the particular child-benefit right, section 1983 enforcement, federal-law status, prospective-officer route and fitted remedy as separate questions. It does not treat Gonzaga's four-Justice general formulation as controlling, discard its FERPA result, or treat state-plan placement as sufficient to create a right.
+The unanimous outcome and complete reasoning joins match Stone and all eight frozen Associates. The draft resolves the particular child-benefit right, section 1983 enforcement, federal-law status, prospective-officer route and fitted remedy as separate questions. It applies Gonzaga's two-question framework and does not treat state-plan placement as sufficient to create a right.
 
 The section 1396a(a)(43)(A) informing obligation, (B) requested-screening obligation and (C) screening-disclosed corrective-arrangement obligation remain distinct. The public statutory account carries the age, eligibility, request, screening, medically necessary service, category and coverage conditions and the screening, vision, dental and hearing minima. Section (43)(D) is not silently converted into a personal right. Managed-care contracting does not eliminate the State's financing and arrangements responsibilities, but the holding does not require personal treatment by state employees or a preferred provider. The copied official statutory extract confirms the described duties.
 
@@ -53,7 +53,7 @@ The final checks below were performed after the two repairs. Every draft has the
 
 | Matter | Opening labels | Eleven blocks | Holdings identity | Stone text identity | Explanation word counts |
 |---|---|---|---|---|---|
-| 22 | Pass | Pass | Pass | Pass | 182, 159, 123 |
+| 22 | Pass | Pass | Pass | Pass | 192, 159, 123 |
 | 25 | Pass | Pass | Pass | Pass | 154, 182, 220, 247, 172, 177, 101, 210 |
 | 27 | Pass | Pass | Pass | Pass | 233 |
 | 28 | Pass | Pass | Pass | Pass | 175, 235 |

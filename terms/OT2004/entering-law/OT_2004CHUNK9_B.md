@@ -5093,25 +5093,45 @@ For individual arms coverage, §922(g)(8)’s complete order predicates and this
 **Docket or dockets:** No. 01-595.
 **Decided:** June 24, 2002.
 
-##### The Constitution does not require advance impeachment disclosure for this plea agreement
+##### The Constitution imposes no universal duty of advance impeachment disclosure
 
-**Holding:** The Constitution does not require the Government to provide material impeachment information concerning informants or other witnesses before entering the plea agreement presented here. A competent defendant must actually understand the right relinquished, the charge and the constitutionally relevant consequences and act voluntarily; that requirement does not guarantee advance knowledge of every witness weakness or every fact useful to counsel's assessment.
+**Holding:** The Constitution imposes no universal duty to disclose impeachment information before a plea. The Government need not provide impeachment information concerning informants or other witnesses as a general prerequisite to a plea agreement, and minor, speculative, cumulative or ordinary credibility matters need not precede a binding plea. A competent defendant must actually understand the right relinquished, the charge and the constitutionally relevant consequences and act voluntarily; that requirement does not guarantee advance knowledge of every witness weakness or every fact useful to counsel's assessment.
 
-**Proposition-level authority:** Part II of Breyer’s opinion, joined by Stevens, O’Connor, Scalia, Kennedy, Souter and Ginsburg: seven direct rationale votes.
+**Proposition-level authority:** Part II of Breyer’s opinion, joined by Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter and Ginsburg: eight direct rationale votes. Thomas agrees with the rejection of a universal duty on his separate trial-function ground without joining.
 
-**Limits and questions not reached:** The agreement’s continuing factual-innocence promise and ordinary plea safeguards form part of the setting, without proof of compliance or an automatic cure. The holding does not decide a supported claim of actual deception, ineffective assistance or an uninformed plea.
+**Limits and questions not reached:** Information labeled impeachment that gives a substantial evidentiary basis to negate an element falls within the separate disclosure floor below; whether other impeachment of particular significance must precede a plea is not decided. The agreement’s continuing factual-innocence promise and ordinary plea safeguards form part of the setting, without proof of compliance or an automatic cure. The holding does not decide a supported claim of actual deception, ineffective assistance or an uninformed plea.
 
-**Treatment of earlier authority:** Brady v. Maryland, Bagley and Kyles retain their fair-trial disclosure protections, including combined preparation and impeachment uses and case-team responsibility; they do not establish this categorical preagreement timing duty. Strickler’s suppression and retrospective materiality inquiries remain distinct. Brady v. United States permits a knowing voluntary choice despite evidentiary uncertainty. Boykin, Godinez and Bousley preserve actual informed choice, competence and knowledge of the offense. Vonn’s separate judicial warning duties remain, without a finding of forfeiture here.
+**Treatment of earlier authority:** Bagley retains its trial protection for impeachment information and establishes no universal pre-plea impeachment duty. Brady v. United States permits a knowing voluntary choice despite evidentiary uncertainty. Godinez and Bousley preserve competence, actual informed choice and knowledge of the offense. Vonn’s separate judicial warning duties remain, without a finding of forfeiture here.
 
-##### The separate affirmative-defense term is not categorically invalid in this agreement
+##### Before a binding plea, the Government must disclose information within a substantive exculpatory floor
 
-**Holding:** In the context of the presented agreement, including its continuing promise to disclose information establishing factual innocence, the Constitution does not require advance provision of the identified affirmative-defense information as a prerequisite to the plea bargain. Affirmative-defense information is not equated with impeachment or factual innocence, and the holding does not decide a proved concealed dispositive defense, false representation, factual-innocence suppression, defective advice or an actual uninformed plea.
+**Holding:** Before securing a binding guilty plea or an irrevocable waiver through a plea agreement, the Government must disclose information known to the prosecution team that gives a substantial evidentiary basis to negate an element of the charged offense, to show that the accused did not commit the charged conduct, or to establish a legally available complete affirmative defense. The information must be materially significant to an objectively reasonable plea decision; minor, speculative, cumulative or ordinary credibility matters do not qualify. The Government may not avoid this floor by labeling such information impeachment. The duty reaches information already known to the prosecution team; it imposes no duty to complete trial preparation, to investigate or to generate evidence.
 
-**Proposition-level authority:** Part III of Breyer’s opinion, joined by Stevens, O’Connor, Scalia, Kennedy, Souter and Ginsburg: seven direct rationale votes.
+**Proposition-level authority:** Part III of Breyer’s opinion, joined by Stone-Zsela, Stevens, Souter and Ginsburg: five direct rationale votes. O’Connor, Scalia, Kennedy and Thomas dissent.
 
-**Limits and questions not reached:** A complete affirmative defense may matter despite admitted conduct and may lie outside the factual-innocence promise. The categorical timing claim fails on its merits; absence of a specific withheld item is not an independent holding that an unlawful bargaining condition cannot cause injury.
+**Limits and questions not reached:** The duty is not open-file discovery. A continuing promise to disclose information establishing factual innocence does not satisfy the floor’s element and complete-defense categories. Affirmative-defense information is not equated with impeachment or factual innocence. The Court decides no disclosure duty broader than the floor.
 
-The sentence-review and operative disposition holdings in United States v. Ruiz, No. 01-595, decided June 24, 2002, appear under Criminal Procedure: Sentencing and Capital Punishment.
+**Treatment of earlier authority:** Brady v. Maryland’s fair-trial disclosure protection is preserved, with a distinct pre-plea floor recognized; Kyles’s prosecution-team responsibility is applied to it, and its trial-disclosure and collective-materiality rules retain their force. Boykin is applied, and Bousley’s knowledge of the real offense supports the element and conduct categories. Strickler’s suppression and retrospective materiality inquiries remain distinct from the prospective floor.
+
+##### Protective measures are available, but a plea agreement may not demand an irrevocable waiver of the floor
+
+**Holding:** Legitimate confidentiality, witness-safety and early-resolution interests may be accommodated through redaction, delayed disclosure that still precedes the binding plea, and adequate summaries, with judicial supervision when needed. The Government may decline to negotiate an immediate plea when it cannot make the required disclosure, but it may not demand, as a term of a plea agreement, an irrevocable waiver of disclosure within the floor.
+
+**Proposition-level authority:** Part IV of Breyer’s opinion, joined by Stone-Zsela, Stevens, Souter and Ginsburg: five direct rationale votes. O’Connor, Scalia, Kennedy and Thomas dissent.
+
+**Limits and questions not reached:** No offer is required, no particular witness danger is found, and the Government’s other plea terms are not limited.
+
+##### An otherwise available bargaining benefit cannot be conditioned on surrender of the floor
+
+**Holding:** The Government may not condition an otherwise available plea-bargaining benefit, including a sentencing recommendation, on the defendant's surrender of the disclosure floor. The restriction is confined: there is no right to an offer, the Government keeps its discretion to choose terms, to bargain firmly and to withdraw an offer for lawful reasons, and other knowing and voluntary waivers remain available. After disclosure, the defendant may still plead.
+
+**Proposition-level authority:** Part V of Breyer’s opinion, joined by Stone-Zsela, Stevens, Souter and Ginsburg: five direct rationale votes. O’Connor, Scalia, Kennedy and Thomas dissent.
+
+**Limits and questions not reached:** Lack of an entitlement to the benefit does not defeat the claim. The restriction is confined to the floor and adopts no general bar on waivers demanded at the outset of bargaining.
+
+**Treatment of earlier authority:** Bordenkircher’s acceptance of hard bargaining and of withdrawing offers for lawful reasons is retained short of conditioning a benefit on surrender of the floor. Mezzanatto’s knowing, voluntary and limited impeachment-use agreement remains enforceable and supplies no power to demand surrender of the floor. Wade’s constitutional limits on prosecutorial sentencing discretion extend to such a condition.
+
+The sentence-review holding and the application and remand in United States v. Ruiz, No. 01-595, decided June 24, 2002, appear under Criminal Procedure: Sentencing and Capital Punishment.
 
 #### United States v. Bass, 536 U.S. 862
 
@@ -8056,25 +8076,25 @@ For Cotton, May 20, 2002, No. 01-687, on section 3231 jurisdiction and the confi
 
 **Holding:** Section 3742(a)(1) permits a court to determine whether an asserted constitutional condition connected to a sentence establishes that the sentence was imposed in violation of law; a merely discretionary refusal to depart, when the judge understood the discretion, supplies no such appeal. A mistaken belief that departure authority was absent could supply legal error, but that premise is not present here.
 
-**Proposition-level authority:** Part I of Justice Breyer's Opinion of the Court has the direct support of Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer; Stone-Zsela also joins this statutory inquiry. Thomas agrees in his concurrence that the claimed statutory basis can be determined, without joining the Court opinion.
+**Proposition-level authority:** Part I of Justice Breyer's Opinion of the Court has the direct support of Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer. Thomas agrees in his dissent that the claimed statutory basis can be determined, without joining the Court opinion.
 
-**Material application:** The judge understood departure authority; the rejected condition, withdrawn offer and requested sentencing treatment connected the constitutional allegation to the sentence. Examination of that allegation determines the claimed statutory basis rather than deciding unrelated merits on assumed jurisdiction.
+**Material application:** The judge understood departure authority; the conditioned offer, Ruiz’s refusal, the withdrawn recommendation and the requested sentencing treatment connected the constitutional allegation to the sentence. Examination of that allegation determines the claimed statutory basis rather than deciding unrelated merits on assumed jurisdiction.
 
 **Treatment of earlier authority:** Mine Workers permits determination of jurisdiction; Steel Co.’s requirement of an actual jurisdictional basis remains. This inquiry creates no general appellate review of discretionary leniency.
 
-##### The condition supplies no ground for vacating this sentence
+##### The withdrawn recommendation was conditioned on surrender of the floor; the vacatur is affirmed for a limited remand
 
-**Holding:** Because the identified disclosure condition is not unconstitutional at the scope decided, section 3742(a)(1) supplies no authority on this theory to review the understood discretionary refusal to depart; the Ninth Circuit's sentence vacatur and condition-based remand are reversed. Ruiz's unaccepted offer creates no enforceable recommendation, and her later guilty plea without agreement did not itself assent to the rejected waiver; her conviction remains undisturbed.
+**Holding:** The proposed agreement's affirmative-defense waiver demanded surrender of the floor, as did its impeachment waiver to the extent it would reach information within the floor; the continuing factual-innocence promise did not cover the floor's element and complete-defense categories. Because the fast-track recommendation was withdrawn after Ruiz refused the waiver, her constitutional allegation is connected to the sentence, and section 3742(a)(1) supports review; the Ninth Circuit's sentence vacatur is affirmed on these grounds. On remand the district court determines whether Ruiz's rejection of the impermissible component materially contributed to the withholding of the recommendation, and whether the Government would have withheld it for independent lawful reasons; refusal of the impermissible component is not such a reason. The decision orders no automatic departure, enforcement of the unaccepted offer, plea withdrawal, innocence finding or prescribed sentence; Ruiz's conviction stands.
 
-**Proposition-level authority:** Part IV of Breyer’s opinion, joined by Stevens, O’Connor, Scalia, Kennedy, Souter and Ginsburg: seven direct rationale votes. Thomas concurs in reversal on his separate ground; Stone-Zsela dissents from reversal.
+**Proposition-level authority:** Part VI of Breyer’s opinion, joined by Stone-Zsela, Stevens, Souter and Ginsburg: five direct rationale votes. O’Connor, Scalia, Kennedy and Thomas would reverse.
 
-**Limits and questions not reached:** Lack of entitlement to a benefit or rejection of an offer is not itself a rule that an unlawful condition cannot injure. Here the asserted unconstitutional-condition predicate fails. The Court adds no innocence prerequisite or second harmlessness hurdle to a completed constitutional violation.
+**Limits and questions not reached:** The absence of a particular withheld item limits the remedy, not the validity of the condition. Lack of an entitlement to the recommendation or rejection of the offer does not defeat the claim. Because the rejected waiver also reached impeachment information outside the floor, the remand asks whether refusal of the impermissible component materially contributed. The Court adds no innocence prerequisite or second harmlessness hurdle to a completed constitutional violation.
 
-**Operative remedy or transition:** Reverse the Ninth Circuit’s sentence vacatur and condition-based remand, 8–1; the district sentence and conviction remain operative against this challenge.
+**Operative remedy or transition:** Affirm the Ninth Circuit’s sentence vacatur on modified grounds, 5–4. The district court determines whether Ruiz’s rejection of the impermissible component materially contributed to the withheld recommendation and whether the Government would have withheld it for independent lawful reasons; any resentencing proceeds under existing authority without an automatic departure, enforcement of the unaccepted offer or a prescribed sentence. The conviction stands.
 
-**Treatment of earlier authority:** Mezzanatto’s knowing, voluntary and limited impeachment-use agreement remains enforceable; it supplies no universal waiver power and does not convert Ruiz’s rejected offer into an accepted agreement.
+**Treatment of earlier authority:** Wade v. United States’s constitutional limits on prosecutorial sentencing discretion extend to a recommendation withheld for refusal of an unconstitutional plea condition, and its substantial-threshold requirement for an evidentiary hearing is applied and met by the admitted sequence of the conditioned offer, Ruiz’s refusal and the withdrawal. Mezzanatto’s limited, knowing and voluntary impeachment-use waiver remains operative; it does not convert Ruiz’s rejected offer into an accepted agreement or supply a power to demand surrender of the floor.
 
-The separate impeachment and affirmative-defense disclosure holdings in United States v. Ruiz, No. 01-595, decided June 24, 2002, appear under Criminal Procedure.
+The disclosure holdings in United States v. Ruiz, No. 01-595, decided June 24, 2002, appear under Criminal Procedure.
 
 
 ### Capital finality after a mandatory life judgment on penalty deadlock
@@ -18643,7 +18663,7 @@ For *Delaney v. DeTella*, March 4, 2002, Seventh Circuit No. 00-4145, the interl
 - Alexander v. Sandoval, April 24, 2001: its Title VI-specific holding applying Powell v. Ridge's bounded direct prospective action to valid section 602 disparate-impact regulations is preserved and does not decide FERPA enforcement.
 - TRW Inc. v. Andrews, November 13, 2001: independent statutory requirements and exclusions retain their actual limiting work.
 
-**Later-authority backlinks:** Gonzaga University v. Doe, June 20, 2002, resolves the asserted Section 1983 enforcement of FERPA's nondisclosure provisions against the claimant through statute-specific six-Justice agreement. Owasso's education-record definition remains intact, and Gonzaga adopts no majority general formula equating a statutory right with intent to create a private remedy.
+**Later-authority backlinks:** Gonzaga University v. Doe, June 20, 2002, holds that 20 U.S.C. §1232g(b) secures a student's individual right to freedom from unauthorized disclosure of education records through a recipient's policy or practice, enforceable through Section 1983. Owasso's maintained-record definition governs that right's coverage, and the private-enforcement question Owasso reserved is answered for §1232g(b).
 
 ### Functional impairment as a basis for civil commitment
 
@@ -19099,7 +19119,7 @@ For Lawall’s distinct six-Justice remand and protection holding, April 28, 200
 
 - Blessing v. Freestone: applies particular-right, foreclosure and fitted-remedy inquiries; the general program-adequacy exclusion remains.
 - Bruneau v. South Kortright Central School District: applies the distinction between an existing right and actual remedial foreclosure; Medicaid is not treated as substantively identical to Title IX.
-- Gonzaga University v. Doe: distinguishes the FERPA entitlement and preserves its outcome and the nonmajority status of its broader rights formulation.
+- Gonzaga University v. Doe: applies its two-question framework and individual-entitlement factors to the Medicaid child-benefit provisions; its FERPA holding is not needed to decide them.
 - Suter v. Artist M.: preserves its actual reasonable-efforts, reporting and separate implied-action holdings and its independent case-plan question; no categorical state-plan bar is applied.
 - Wright v. Roanoke Redevelopment and Housing Authority; Wilder v. Virginia Hospital Association: apply defined statutory entitlement and manageable qualitative application; regulations may elaborate an existing right but do not create the right held here.
 
@@ -19195,7 +19215,7 @@ For Odom v. Antrican, March 10, 2003, Fourth Circuit No. 01-1693, the prospectiv
 
 **Limits and questions not reached:** The defined child entitlements retain the complete conditions reproduced below. Equal access and quality, statewide operation, promptness, free choice and comparability are not automatically individual rights merely because pleaded. Each distinct provision requires its own inquiry; no individual entitlement or violation is found on the present allegations.
 
-**Treatment of earlier authority:** Westside Mothers governs its identified child entitlements; Suter and Blessing govern separate rights and congressional foreclosure. Gonzaga remains a FERPA holding, not a majority general prohibition on funding-statute rights.
+**Treatment of earlier authority:** Westside Mothers governs its identified child entitlements; Suter and Blessing govern separate rights and congressional foreclosure. Gonzaga supplies the governing two-question framework and confirms that funding-statute provisions may secure individual rights.
 
 **Material application:** Medicaid-eligible children under twenty-one receive the following benefits under Westside Mothers.
 
@@ -23446,7 +23466,7 @@ For Boggs v. Boggs, June 2, 1997, No. 96-79, on survivor protection, distributed
 
 **Limits and questions not reached:** The Court decides neither ordinary subscriber amenability nor jurisdiction wherever software is downloadable, general jurisdiction, or a minimum sales threshold.
 
-**Treatment of earlier authority:** International Shoe requires meaningful affiliation; Hanson and World-Wide Volkswagen require the defendant's own purposeful conduct rather than unilateral location or foreseeability. Burger King supplies the actual-course inquiry. Quill supports nonphysical due-process affiliation within its scope without importing its separate Commerce Clause or software conclusions.
+**Treatment of earlier authority:** International Shoe requires meaningful affiliation; Hanson and World-Wide Volkswagen require the defendant's own purposeful conduct rather than unilateral location or foreseeability. Burger King supplies the actual-course inquiry. Quill supports nonphysical due-process affiliation within its scope without importing its separate Commerce Clause nexus or collection-burden rules.
 
 ##### The actual controversy is related to the Ohio dealings and the shown burden is fair
 
@@ -30582,21 +30602,53 @@ For Prudential, May 28, 2002, review of 261 F.3d 355 with no Supreme Court docke
 **Docket or dockets:** No. 01-679.
 **Decided:** 2002-06-20.
 
-##### Whether FERPA nondisclosure provisions establish the asserted Section 1983 entitlement
+##### I. Section 1983 asks whether Congress created the right and whether it excluded the remedy
 
-**Authority of the judgment:** Reverse and remand the FERPA-based federal judgment, 6–3: O’Connor, Scalia, Kennedy, Souter, Thomas and Breyer support; Stone-Zsela, Stevens and Ginsburg oppose. No single full rationale or new general rights formula commands a majority, and no controlling broader rationale is established under Marks. The statute-specific proposition below has six direct votes.
+**Holding:** Section 1983 supplies the cause of action for rights secured by federal statutes. The claimant must show that Congress created the asserted individual right; the defendant may then show that Congress excluded the Section 1983 remedy, expressly or through a comprehensive remedial scheme incompatible with individual enforcement. A right so shown is presumptively enforceable. No separate showing that Congress intended to create a private remedy is required, and the standards for implying an action directly from a statute do not govern a Section 1983 claim.
 
-**Independently majority-supported proposition:** FERPA's education-record nondisclosure provisions do not establish the individual judicially enforceable entitlement asserted in this Section 1983 action. The FERPA-based federal judgment must therefore be reversed; the state-action determination, excluded from review, and independent state-law judgments are unaffected.
+**Proposition-level authority:** Stevens's Part I, joined by Stone-Zsela, Souter, Ginsburg and Breyer; five direct votes. Breyer, joined by Souter, also concurs: the decision is statute-specific, and centralized administration informs the content of the duty without displacing Section 1983. Thomas, joined by O'Connor, Scalia and Kennedy, dissents on the ground that FERPA's institution-directed funding condition confers no individual right; that position is noncontrolling.
 
-**Proposition-level authority:** Thomas’s lead opinion, joined by O’Connor, Scalia and Kennedy, and Breyer’s concurrence in the judgment, joined by Souter, agree on the absence of this asserted FERPA entitlement. Their separate institution-focused and FERPA-specific administrative explanations are not combined into a new general formula.
+**Treatment of earlier authority:** Maine v. Thiboutot, Wright, Wilder, Livadas and Blessing are reaffirmed. Powell v. Ridge's holding that a regulation cannot create an individual right absent from the statute, and South Camden's application of it, stand; this right arises from the statute itself. Sandoval's direct-action holding is neither enlarged nor displaced.
 
-**Current force:** The asserted nondisclosure claim cannot proceed through Section 1983. Right creation, Section 1983 enforcement, implied statutory actions and incompatible remedial displacement retain their separate inquiries.
+##### II. An individual right rests on identified beneficiaries, a binding obligation and definiteness
 
-**Limits and questions not reached:** The conclusion concerns these nondisclosure provisions. It does not categorically exclude funding statutes or equate the absence of an implied action with the absence of a Section 1983 right. The four-Justice lead opinion supplies no controlling general requirement of congressional intent to create a private remedy. No additional damages ruling follows this threshold disposition; the excluded state-action issue and independent state-law judgments remain intact.
+**Holding:** A statute creates an individual right when its text, structure and operation show a binding obligation that protects an identifiable person or defined class and gives that protection sufficiently definite content for judicial enforcement. The factors are identified beneficiaries, a binding rather than precatory obligation, and definiteness. Grammatical form is relevant but not controlling: a provision addressed to a funding recipient or to the administering agency, or framed as a condition on or prohibition of federal funding, can secure an individual entitlement when those factors are met. A general benefit, a beneficial purpose, a mandatory directive alone or an aggregate standard of institutional performance does not create a right.
 
-**Treatment of earlier authority:** Blessing and Bruneau remain distinct provision-specific right and enforcement inquiries; Owasso's reservation of enforcement is resolved for these nondisclosure provisions. No general rule supported only by the four-Justice lead is elevated into controlling law.
+**Proposition-level authority:** Stevens's Part II; the same five direct votes.
 
-**Operative remedy or transition:** Reverse the FERPA-based federal judgment and remand consistently with rejection of that claim, without reopening state action or the independent state-law judgments.
+**Limits and questions not reached:** The factors restate Blessing's provision-specific inquiry and adopt no general statutory-benefit test. Suter's provision-specific holdings and Powell's rejection of regulation-created rights mark the limits.
+
+**Treatment of earlier authority:** Blessing's three factors are restated and applied. Suter's provision-specific holdings, Wright, Wilder and Pennhurst's clear-notice requirement are preserved.
+
+##### III. FERPA secures freedom from unauthorized disclosure through a prohibited policy or practice
+
+**Holding:** 20 U.S.C. §1232g(b) secures to each student, and to the student's parents while the consent rights remain theirs, an individual right to freedom from unauthorized disclosure of the student's education records, or of personally identifiable information from them, through a recipient institution's policy or practice of permitting such disclosure. The policy-or-practice requirement is part of the right, so an isolated employee's mistake does not violate it. Consent, the statutory exceptions, coverage under the maintained-record definition and the nature of the information remain decisive.
+
+**Proposition-level authority:** Stevens's Part III; the same five direct votes.
+
+**Limits and questions not reached:** Whether a disclosure reflects a policy or practice is an element the claimant must prove; no preserved challenge to the sufficiency of that showing below is decided. Consent rights pass from the parent to the student upon reaching eighteen or attending a postsecondary institution.
+
+**Treatment of earlier authority:** Owasso's maintained-record definition governs coverage, and the private-enforcement question it reserved is answered for §1232g(b). Blessing is applied.
+
+##### IV. FERPA's administrative scheme is not incompatible with Section 1983
+
+**Holding:** Congress has not excluded Section 1983 enforcement of §1232g(b). FERPA contains no express exclusion, and its administrative complaint process and funding-termination sanction are relevant but not incompatible with individual enforcement: the sanction operates on the institution and gives the injured student no individual relief, and the complaint process supplies no individual remedy that a Section 1983 action would bypass.
+
+**Proposition-level authority:** Stevens's Part IV; the same five direct votes.
+
+**Limits and questions not reached:** Centralized administration and the Secretary's interpretations continue to inform what FERPA requires; they do not withdraw the Section 1983 remedy. A different statute's comprehensive individual remedy may still show incompatibility.
+
+**Treatment of earlier authority:** Blessing and Bruneau are applied. Middlesex County Sewerage Authority v. National Sea Clammers Association and Smith v. Robinson are distinguished.
+
+##### V. State action and particular remedies are reserved
+
+**Holding:** Receipt of federal funds is not itself state action, and the right recognized here does not make it so. Whether this recipient's employee acted under color of state law is outside the grant, and the Washington courts' determination is undisturbed. Compensatory damages, punitive damages and equitable relief each keep their own conditions; the Court calculates no damages and adopts no punitive-damages rule.
+
+**Proposition-level authority:** Stevens's Part V; the same five direct votes.
+
+**Operative remedy or transition:** Affirm the Washington Supreme Court, 5–4, on the reviewed question: Stone-Zsela, Stevens, Souter, Ginsburg and Breyer; O'Connor, Scalia, Kennedy and Thomas would reverse the FERPA-based judgment. The reinstatement of damages on the FERPA-based Section 1983 claim stands; no damages are calculated, the excluded state-action issue is not reopened, no punitive-damages rule is adopted, and the independent state-law judgments are unaffected.
+
+**Treatment of earlier authority:** Rendell-Baker v. Kohn and Blum v. Yaretsky are preserved. Barnes v. Gorman's incorporated Title VI remedial holding is not extended to Section 1983.
 
 #### Rush Prudential HMO, Inc. v. Moran, 536 U.S. 355
 
@@ -31642,7 +31694,7 @@ For the retained-right and Turner holding in Gerber, decided March 25, 2003, Nin
 
 **Limits and questions not reached:** Section 1232g(f) permits funding termination only after noncompliance and a determination that voluntary compliance cannot be secured; this limits that remedy rather than excluding the judicial action. Section 1234c permits withholding, a compliance complaint, a compliance agreement or another otherwise authorized action and separately preserves fund recovery. Section 1232a does not bar fitted enforcement of accepted confidentiality obligations.
 
-**Treatment of earlier authority:** Newport News is distinguished by this concrete public grant-enforcement source. Gonzaga's private-action holding retains its force and does not bar this United States action. Pennhurst, King v. Smith and Wheeler v. Barrera supply the binding effect of accepted federal obligations.
+**Treatment of earlier authority:** Newport News is distinguished by this concrete public grant-enforcement source. Gonzaga's recognition of a private section 1983 route for FERPA's nondisclosure right is a separate source; the United States' public enforcement action neither depends on nor displaces it. Pennhurst, King v. Smith and Wheeler v. Barrera supply the binding effect of accepted federal obligations.
 
 ##### The proved continuing policy satisfies ordinary requirements for this limited injunction
 
@@ -31891,7 +31943,7 @@ The settlement-approval holding is under Constitutional Structure, Kansas v. Neb
 
 **Limits and questions not reached:** Availability of the route establishes neither the alleged statutory conflict nor the ordinary prerequisites for relief. The holding does not transfer Reich's federal-officer waiver to a state-officer suit.
 
-**Treatment of earlier authority:** Reich distinguishes prospective restraint from an implied damages action; Verizon Maryland supplies the ongoing-violation, responsible-officer and prospective-relief inquiry. Suter and Blessing require provision-specific attention to right, enforcement and foreclosure. Westside Mothers' defined child-benefit rights remain distinct from this manufacturer claim. Gonzaga's FERPA result does not supply a general remedial rule.
+**Treatment of earlier authority:** Reich distinguishes prospective restraint from an implied damages action; Verizon Maryland supplies the ongoing-violation, responsible-officer and prospective-relief inquiry. Suter and Blessing require provision-specific attention to right, enforcement and foreclosure. Westside Mothers' defined child-benefit rights remain distinct from this manufacturer claim. Gonzaga's section 1983 framework governs beneficiary rights and does not decide this manufacturers' prospective challenge.
 
 The Medicaid provisions and fractured preliminary application are under Administrative Law; the price-control and discrimination holdings are under Constitutional Structure, Walsh, May 19, 2003, No. 01-188.
 

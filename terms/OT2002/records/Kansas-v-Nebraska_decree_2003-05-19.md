@@ -69,7 +69,7 @@ Stone's entire approved decree position is supported by the eight reconciled Ass
 
 ## Frozen non-Stone commitments and reconciliation
 
-The original frozen case section is preserved at `terms/OT2002/freeze/OT_2002CHUNK10_C_COMMITMENTS.md`, heading beginning `## 124.`, SHA-256 `9c3e12a424efc88849052152f3fea80ae7e5d9a343d4442dc379751747cdeaaa`; its exact case-section SHA-256 is `48b2d447c33c2dd19083d09f0f6f746b949039e65b6e5834200f46a110516021`. The following operative case section is copied mechanically from authoritative `terms/OT2002/freeze/OT_2002CHUNK10_C_RECONCILED.md`, SHA-256 `688a6ffdd3bc02ed3f121cca77a1e71ca0c77da5e7c32e4f5f2c22a02c8d5765`. It contains every Associate's component commitment, personal date-eligible basis, strongest adverse path, join limits and historical comparison. It controls over the original only where the reconciliation expressly says so. Neither source is changed by assembly.
+The original frozen case section is preserved at `terms/OT2002/freeze/OT_2002CHUNK10_C_COMMITMENTS.md`, heading beginning `## 124.`, SHA-256 `9c3e12a424efc88849052152f3fea80ae7e5d9a343d4442dc379751747cdeaaa`; its exact case-section SHA-256 is `48b2d447c33c2dd19083d09f0f6f746b949039e65b6e5834200f46a110516021`. The following operative case section is copied mechanically from authoritative `terms/OT2002/freeze/OT_2002CHUNK10_C_RECONCILED.md`, SHA-256 `2b0356e29ebd5ccd9493fa67c33c9ac878b56b091e02e4a1e1fca6462d4014b8`. It contains every Associate's component commitment, personal date-eligible basis, strongest adverse path, join limits and historical comparison. It controls over the original only where the reconciliation expressly says so. Neither source is changed by assembly.
 
 ## 124. Kansas v. Nebraska — May 19, 2003
 

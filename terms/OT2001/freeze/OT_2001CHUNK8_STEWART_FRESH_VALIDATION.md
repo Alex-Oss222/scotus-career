@@ -12,8 +12,8 @@ The form rationale rests on the confined application, not historical unsigned fo
 
 Four opening labels, eleven bounded public blocks, nine named full joins, complete remedy and separate-writing coverage, and individual precedent-treatment lines pass. Internal and public Holdings are identical; explanations contain 209, 171 and 147 words. The generated per-case handoff's substantive payload exactly matches the bounded projection. Relative links resolve. The immutable prior-law digest matches the released value. The current Record digest also matches the local validation receipt.
 
-**Record SHA-256:** `f7a7baa2d86042654af93332533d0837589f5f818fbd69497b70420b13208105`
+**Record SHA-256:** `e1f1402a61835c942cb32b5914b86268f91ce5dd05730f9fe525b8f2ff4fe2e4`
 
 **Public Projection SHA-256** (normalized extraction with one terminal newline): `35c40c5633dbef0d03a2b9f35846a7d31c077b46765562894074b8f9c4cba0e8`
 
-**Immutable prior-law SHA-256:** `681821209127c46dc4c4bbdb49715eb7ece10e8feb1d7867fd15ca8de6c0d94a`.
+**Immutable prior-law SHA-256:** `2e15975feeb6112d9bd2e92532db7296bf59e77d792823eb276c0b84688754d3`.

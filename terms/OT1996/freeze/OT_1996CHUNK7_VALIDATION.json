@@ -41,7 +41,7 @@
     {
       "path": "terms/OT1996/records/Metropolitan_Life_v_Robertson_Ceco_merits_1997-04-21.md",
       "bytes": 43705,
-      "sha256": "6e365ca27f223d2cd1e625f5367fd8316e9f30544498b18d680eac4be829149c"
+      "sha256": "b3e3f529d87024b21e700f315aa74d2b6eb55280b4fdb0b417df39b6f255a163"
     },
     {
       "path": "terms/OT1996/records/Pic_A_State_Pennsylvania_v_Reno_merits_1997-04-28.md",
@@ -103,7 +103,7 @@
     {
       "path": "terms/OT1996/freeze/OT_1996CHUNK7_72_73_ASSEMBLY_VALIDATION.json",
       "bytes": 1977,
-      "sha256": "016daeb550bc7ca60eceb282201f2b3ca59da7a72d978358e2debc8431c5f175"
+      "sha256": "e853981b404c2d16ffc531e43d4033d19b2acb87cde74e9b727b78855c797e42"
     },
     {
       "path": "terms/OT1996/freeze/OT_1996CHUNK7_75_79_ASSEMBLY_VALIDATION.json",
@@ -128,12 +128,12 @@
     {
       "path": "terms/OT1996/workspace/continuity.md",
       "bytes": 1721455,
-      "sha256": "78e397945fff058207c2cfa72f218729bf0f46365ed14bdb95a77dd50e6cfe66"
+      "sha256": "fe92522987d071d56a240d85aaab2528f87587d773522a5fb34f875d908bf1e4"
     },
     {
       "path": "terms/OT1996/workspace/neutral-projection.md",
       "bytes": 1668327,
-      "sha256": "de58138be887e3d571edf4c61871a8d09fed44ece637dee38e19b6c051f33cd8"
+      "sha256": "3f65d022fb730a39581ca193ea0f9d68a6d4d03126895203b01959af2063702d"
     },
     {
       "path": "terms/OT1996/freeze/OT_1996CHUNK7_COMMITMENTS.md",

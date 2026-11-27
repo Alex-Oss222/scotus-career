@@ -65,7 +65,7 @@
   {
     "record": "Gibbs_v_Babbitt_merits_2001-03-21.md",
     "before_sha256": "a4f5b31f35fd60cb6fdf74eb02ffc333b5c804c97af963427873a6f6f01864eb",
-    "after_sha256": "98dbc05e86939b58ad12213a91bc9347fea7a340ccd53094892f1de3ca46dad0",
+    "after_sha256": "c19c215f55cacdc772f8cf36f9b9b89266d84046964126b49c1dc093c907e199",
     "preserved_before": "terms/OT2000/tmp/final_documentation_before/Gibbs_v_Babbitt_merits_2001-03-21.md",
     "completion": "Add actual durable-state integration date and final validation location; make the established six-Justice quorum numeric in Breeden.",
     "public_projection_unchanged": true,

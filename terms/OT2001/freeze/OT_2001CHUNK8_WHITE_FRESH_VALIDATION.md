@@ -24,7 +24,7 @@ Relief is confined to the announce clause. Separate pledges/promises, recusal, c
 
 Independently re-extracted all 112 listed prior signed-lead credits from public opinion tables: Stone-Zsela, Stevens, Scalia, Kennedy and Thomas 12 each; O'Connor, Souter, Ginsburg and Breyer 13 each. People Who Care is correctly last. Date/alphabetical eligibility matches. The five full joiners are eligible and all are in the minimum-plus-one pool. Scalia's three-meaning analysis supplies the recorded fit; Stone and the other pool alternatives are substantively assessed. Form and propositions precede assignment.
 
-The original and reconciled White section contents remain exact, preserving the source separator boundary. Internal/public Holdings match, all eleven public blocks are ordered, the per-case public-law copy is exact and the two explanations remain within the ordinary ceiling. The refreshed local receipt now matches the current Record hash. The public digest is unchanged. The immutable baseline remains `6cb1bd0339af44a23a47d02ea0e3ed153241a6a14a8bc549bd9d9e13619b52a4`. Global integration remains separate.
+The original and reconciled White section contents remain exact, preserving the source separator boundary. Internal/public Holdings match, all eleven public blocks are ordered, the per-case public-law copy is exact and the two explanations remain within the ordinary ceiling. The refreshed local receipt now matches the current Record hash. The public digest is unchanged. The immutable baseline remains `6a5299bf829732137a2a9d23eacc13f3f9d96f31f2f2459e71ce550943adc741`. Global integration remains separate.
 
 ## Initial finding and resolution
 

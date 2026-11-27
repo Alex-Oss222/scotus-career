@@ -876,7 +876,7 @@ I would protect intimate medical information under the governing substantive rul
 
 * **Threshold, Preservation, and Vehicle Matters:** The United States’ authority to sue must be identified separately from a private person’s statutory rights and from federal jurisdiction. The suit addresses actual disclosures and an announced continuing policy, not speculation about an isolated error. Section 1345 supplies the ordinary jurisdictional route for an authorized United States action; the Department’s general regulatory interest alone is insufficient. The requested federal order does not review the state judgment on appeal or bind its different requester. Federal courts independently construe FERPA while respecting authoritative state-law construction. Summary judgment and statutory interpretation receive independent review; discovery and the scope of equitable relief require their own review rather than becoming automatic consequences of statutory coverage.
 
-* **Relevant Dates:** The underlying requests and disclosures occurred in 1995–1998; the federal district court entered its permanent judgment in 2000; the Sixth Circuit affirmed June 27, 2002. The assigned event is April 29, 2003. Apply the statute and regulations operative for the disclosures and prospective decree, including the already enacted disciplinary-result exceptions. Owasso’s institutional-maintenance requirement and Gonzaga’s rejection of the particular private §1983 nondisclosure claim are controlling at their distinct scope; neither decides federal enforcement of these retained disciplinary files.
+* **Relevant Dates:** The underlying requests and disclosures occurred in 1995–1998; the federal district court entered its permanent judgment in 2000; the Sixth Circuit affirmed June 27, 2002. The assigned event is April 29, 2003. Apply the statute and regulations operative for the disclosures and prospective decree, including the already enacted disciplinary-result exceptions. Owasso’s institutional-maintenance requirement and Gonzaga’s recognition of the private §1983 nondisclosure right are controlling at their distinct scope; neither decides federal enforcement of these retained disciplinary files.
 
 * **Companion or Related Matters:** No additional companion is separately briefed.
 
@@ -884,7 +884,7 @@ I would protect intimate medical information under the governing substantive rul
 
 #### B. LAW ENTERING THE CASE
 
-* **Intervening controlling law:** Gonzaga University v. Doe (June 20, 2002) bars the particular private Section 1983 FERPA nondisclosure claim. It establishes no general private-right formula by majority vote and does not decide this federal public-enforcement action.
+* **Intervening controlling law:** Gonzaga University v. Doe (June 20, 2002) holds that FERPA's nondisclosure provision secures a student's individual right, enforceable through Section 1983, against a recipient's policy or practice of unauthorized disclosure, and states the two-question framework for statutory rights. It does not decide this federal public-enforcement action.
 
 * **Current-Through Baseline:** Governing decisions through June 28, 2002.
 
@@ -1004,7 +1004,7 @@ I would enforce the actual statutory confidentiality obligation through the Unit
 
 **Question Stone Resolves:** May the United States obtain this injunction instead of relying exclusively on funding withdrawal?
 
-**Stone’s Legal Position:** Apply the preserved public grant-enforcement channel and ordinary equity; distinguish the private claim barred by Gonzaga.
+**Stone’s Legal Position:** Apply the preserved public grant-enforcement channel and ordinary equity; distinguish the private §1983 claim recognized in Gonzaga.
 
 **Reach Calibration:** Intermediate. The proved continuing practice supports institution-wide compliance with the accepted condition. Isolated-record relief would leave the announced practice intact. A general administrative litigation power would exceed the source.
 
@@ -1016,7 +1016,7 @@ I would enforce the actual statutory confidentiality obligation through the Unit
 
 **Transition:** The enforcement application uses existing source and equity principles. If the complete-policy-cure presumption is adopted, Harper applies it to nonfinal cases within its proved common-practice scope; Reynoldsville preserves genuine legal defenses but no reliance-only selective withholding. Final judgments and independent jurisdictional limits remain.
 
-**Essential Reasoning and Record Application:** Newport News rejects a regulator’s abstract administrative interest as a substitute for its statutory review route; it does not negate the United States’ distinct grant-enforcement authority. The enforcement duty and preservation of otherwise authorized actions support this channel. Gonzaga bars the particular private §1983 nondisclosure claim, not this public action. Irreversible release supplies the equitable need, while the exceptions and redaction preserve a complete limited cure.
+**Essential Reasoning and Record Application:** Newport News rejects a regulator’s abstract administrative interest as a substitute for its statutory review route; it does not negate the United States’ distinct grant-enforcement authority. The enforcement duty and preservation of otherwise authorized actions support this channel. Gonzaga recognizes the private §1983 nondisclosure claim; it neither bars nor supplies this public action. Irreversible release supplies the equitable need, while the exceptions and redaction preserve a complete limited cure.
 
 **Precedent Treatment:** Distinguish Newport News’s agency-review defect and Gonzaga’s private-action holding; neither is overruled or converted into public enforcement immunity.
 

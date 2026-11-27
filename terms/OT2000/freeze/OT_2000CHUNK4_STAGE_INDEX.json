@@ -25,19 +25,19 @@
       "case": "Egelhoff",
       "stage": "COMMITMENTS",
       "file": "OT_2000CHUNK4_COMMITMENTS_EGELHOFF_REFRESH.md",
-      "sha256": "69f049942531604085c06423dff75f15ec2b434242256a3039ecfd6981f00e80"
+      "sha256": "dffe650ac5370663e8989396def319f8ffbc167a6e7c33212a566c814b515355"
     },
     {
       "case": "Ferguson",
       "stage": "COMMITMENTS",
       "file": "OT_2000CHUNK4_COMMITMENTS_FERGUSON_REFRESH.md",
-      "sha256": "9a6113be4842ed3f83778e8262b5933b7be9099a3d224170cb0a1ed42e3bd474"
+      "sha256": "c18cf10790708e97d4be1618e6d26e090576565dde5a603f72eb828816a69d8a"
     },
     {
       "case": "Gibbs",
       "stage": "COMMITMENTS",
       "file": "OT_2000CHUNK4_COMMITMENTS_GIBBS.md",
-      "sha256": "74512e6d08079a92baa56a3933028e6a9817342f0407dced3af08531ea51172d"
+      "sha256": "3233476d6ac1b72077b810384d1ec2a24bad9372a6ae7c399722f6580461e8d2"
     },
     {
       "case": "Texas v. Cobb",
@@ -127,7 +127,7 @@
       "case": "Gibbs",
       "stage": "RECONCILED",
       "file": "OT_2000CHUNK4_RECONCILED_GIBBS.md",
-      "sha256": "d6f2357c1be5a78cc17541fdc0aafda56f477fffc7386d6628c9b1234e10971a"
+      "sha256": "97d1f805d2ccc378c57725c4ad86831c500f30e4965524f63fdc75546bcfd5b1"
     },
     {
       "case": "Texas v. Cobb",
@@ -139,7 +139,7 @@
       "case": "Wallis",
       "stage": "RECONCILED",
       "file": "OT_2000CHUNK4_RECONCILED_WALLIS.md",
-      "sha256": "5457d7250a2b704ed9538b7fe5423886c4aeab58eb23ca1aef006afd245dd2a3"
+      "sha256": "aa03826ffb801838199d260c9f68ebd8b599494f1d51a31c137194b170edb1f9"
     },
     {
       "case": "Lujan",

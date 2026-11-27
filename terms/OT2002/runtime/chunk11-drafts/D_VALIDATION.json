@@ -3,7 +3,7 @@
   "date": "2003-06-02",
   "status": "Draft checks complete; publication checks pending",
   "file": "Krislov-v-Rednour_merits_2003-06-02.md",
-  "sha256": "8a9ceb75c8e01c2f6be0caba2d00dc163cf00dc5a17ac9d8a0afbd34c768e6cb",
+  "sha256": "052aae75f0b327fe48213db3f0a4942716c8a222db054d0d446aa86623ec9e54",
   "public_blocks_exact_order": [
     "Event",
     "Participation",
@@ -38,7 +38,7 @@
     "entering-law/OT_2002CHUNK11_139_REFRESHED.md": "99a2f5d141446fb361f516483eb6c6e264cac5a9acd813480d3732d29af2473f",
     "entering-law/OT_2002CHUNK11_139_SOURCE_SCOPE_SUPPLEMENT.md": "5ae49f0d388c96969a77dce2fe357fad1f8d89ad7e6bacf1fd3bfd8af5765027",
     "entering-law/OT_2002CHUNK11_139_LOWER_OPINION.txt": "9e115ef710469c95f52523e0bed9f2c0f3ce8e566815b98eb78e5128b2fa0be7",
-    "freeze/OT_2002CHUNK11_139_OPINION_TABLES.json": "fa4363e0b1b887fd25400a6a207b5b89a3925a38907b286fa53fd208e3e4f1d3"
+    "freeze/OT_2002CHUNK11_139_OPINION_TABLES.json": "103664f006547193d7875cc0e20beb6f5405f08733523eeb770ccf8a6f425ba1"
   },
   "source_links_checked_at_canonical_location": true,
   "judgment_votes": {

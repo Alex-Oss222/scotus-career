@@ -729,9 +729,10 @@
       "case": "United States v. Morrison / Brzonkala v. Morrison; Nos. 99-5 and 99-29, consolidated.",
       "date": "2000-05-15",
       "authors": [
+        "Stone-Zsela",
         "Kennedy"
       ],
-      "opinion_topology": "| Writing | Author | Joined by | Relationship to judgment | Scope joined |\n|---|---|---|---|---|\n| Opinion of the Court | Kennedy | Stone-Zsela, O'Connor, Scalia, Thomas | Affirms the constitutional dismissal in Nos. 99-5 and 99-29 | Complete Commerce and Section 5 grounds, statutory scope and remedy limits |\n| Dissent | Breyer | Stevens, Souter, Ginsburg | Would reverse the constitutional dismissal and remand for ordinary adjudication of the statutory claim | Rational substantial-class-effects Commerce proposal; expressly reserves ultimate Section 5 validity |",
+      "opinion_topology": "| Writing | Author | Joined by | Relationship to judgment | Scope joined |\n|---|---|---|---|---|\n| Opinion of the Court (Section 5 and judgment) | Stone-Zsela | Stevens, Souter, Ginsburg, Breyer | Reverses the constitutional dismissal and remands in Nos. 99-5 and 99-29 | Section 5 corrective substitute-remedy holding and its limits, statutory scope and remand limits |\n| Opinion of the Court (Commerce Clause), dissenting as to Section 5 and the judgment | Kennedy | Stone-Zsela as to the Commerce Clause; O'Connor, Scalia, Thomas throughout | The Commerce holding does not decide the judgment; the dissenting part would affirm the constitutional dismissal | Complete Commerce holding and its limits; dissent from the Section 5 holding on remedial fit and the retained state-action boundary |\n| Concurrence | Breyer | Stevens, Souter, Ginsburg | Joins the Section 5 opinion and the judgment | Would also sustain the action under a rational substantial-class-effects Commerce approach, a proposed change to Lopez's connection-before-magnitude prerequisite |",
       "sha256": "639e15210c34573ff12251e6170327c54a61967078df7c5bfa2b941d60614e76"
     },
     {
@@ -742,7 +743,7 @@
         "Stone-Zsela"
       ],
       "opinion_topology": "| Writing | Author | Joined by | Relationship to judgment | Scope joined |\n|---|---|---|---|---|\n| Opinion of the Court | Stone-Zsela | O'Connor, Scalia, Kennedy and Breyer throughout; Stevens, Souter, Thomas and Ginsburg in Parts I–II | Affirms on the actual-conflict ground in Part III | Part I: statutory construction and background; Part II: independent actual-conflict inquiry; Part III: the particular no-airbag conflict and preserved boundaries |\n| Dissent | Stevens | Souter, Thomas and Ginsburg | Would reverse the preemption dismissal and remand for ordinary tort adjudication | Disagrees with Part III's inference of protected exclusivity, while joining Parts I–II |",
-      "sha256": "5f16e60f519632573a9bd908d0d5a55956f6ed28bc1e915fcb5277737eaa479e"
+      "sha256": "fb1588d365f3ca3dbfb3377dbba30f68fa7f27ad3cf597e401dae3a7e1fd8c57"
     },
     {
       "file": "jones-v-united-states_merits_2000-05-22.md",
@@ -752,7 +753,7 @@
         "Thomas"
       ],
       "opinion_topology": "| Writing | Author | Joined by | Relationship to judgment | Scope joined |\n|---|---|---|---|---|\n| Opinion of the Court | Thomas | Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer throughout; Stone-Zsela in Part I and Part III's acquittal rule | Reverses §844(i) and directs acquittal with confined implementation on remand | Part I: independent property-use requirement; Part II: complete Hinds construction and application; Part III: insufficiency and remedy. Stone-Zsela agrees only in the disposition of the actual-dependent-consequences remand; its grounds have the eight Associates' joins. |\n| Concurrence in part and in the judgment | Stone-Zsela | No other Justice | Supports reversal, acquittal and the confined remand | Joins Part I and Part III's acquittal rule; agrees only in the disposition of the dependent-consequences remand; states a distinct active-commercial-employment construction and withholds Part II's rejection of a universal commercial-use prerequisite |",
-      "sha256": "0e778689a0f7af949901d20f0c8514f1c33ff16811efc144070779c0d650eba4"
+      "sha256": "5bd2c6bae1813f73518c389ab9f4f258c397fb0863db4b8bc5bcf446efdeeb22"
     },
     {
       "file": "ohler-v-united-states_merits_2000-05-22.md",

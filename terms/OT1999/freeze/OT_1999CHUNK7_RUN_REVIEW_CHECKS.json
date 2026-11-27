@@ -710,6 +710,7 @@
         "case": "United States v. Morrison / Brzonkala v. Morrison; Nos. 99-5 and 99-29, consolidated.",
         "date": "2000-05-15",
         "authors": [
+          "Stone-Zsela",
           "Kennedy"
         ],
         "exclusion": null,
@@ -723,7 +724,7 @@
           "Stone-Zsela"
         ],
         "exclusion": null,
-        "sha256": "5f16e60f519632573a9bd908d0d5a55956f6ed28bc1e915fcb5277737eaa479e"
+        "sha256": "fb1588d365f3ca3dbfb3377dbba30f68fa7f27ad3cf597e401dae3a7e1fd8c57"
       },
       {
         "file": "jones-v-united-states_merits_2000-05-22.md",
@@ -733,7 +734,7 @@
           "Thomas"
         ],
         "exclusion": null,
-        "sha256": "0e778689a0f7af949901d20f0c8514f1c33ff16811efc144070779c0d650eba4"
+        "sha256": "5bd2c6bae1813f73518c389ab9f4f258c397fb0863db4b8bc5bcf446efdeeb22"
       },
       {
         "file": "ohler-v-united-states_merits_2000-05-22.md",
@@ -1502,9 +1503,9 @@
     "sha256": {
       "render-inputs\\OT_1999CHUNK7.md": "bba3ef247b9cbfd8e45019b4e226486462de6565824bd176847c0fa5278c14ac",
       "workspace\\manifest.md": "57bc045b801fd8d6ad541c956adffb21bd88fbf9f0b685a97f6f81454298ee79",
-      "workspace\\ledger.md": "3cf8b4de6fb814315a31a33431af961c9deffa55ae8936ac61489ee2da16fc12",
-      "workspace\\continuity.md": "7bf12a9a37146c6c06d44c04652eb67c6aa7c3cad8dd0d7302eec19e0d396fd2",
-      "workspace\\neutral-projection.md": "2a89bd97b8657f2fcd8ea4b3e41746d7b043fc24677bc4b3c46c9b0ae7d1d8d3"
+      "workspace\\ledger.md": "1e6ed0b0d46166e2715ba992ac85652679e72006e97c3317c344b7454d8646e3",
+      "workspace\\continuity.md": "bb9beaf7053d2867d04749f587ba452713cd9b53eaeda43bc0979d5ba02b09b2",
+      "workspace\\neutral-projection.md": "78fbbe4f065c66b7a31a381cd59fc198098bd7589bd37890053ecb46acaac7e1"
     }
   }
 }

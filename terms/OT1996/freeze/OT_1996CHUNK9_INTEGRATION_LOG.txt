@@ -50,7 +50,7 @@ No Git command was run; the checker source was not modified.
     },
     {
       "record": "CompuServe_Inc_v_Patterson_merits_1997-05-27.md",
-      "sha256": "a0c38fb691166511eea8d9b0186f1322db9959dc364624b7e3f3e6d641aa59f9",
+      "sha256": "75a135ee9d6c50cc6755398b00a4375450e737b54e00c79511d4988822a1eebf",
       "explanation_word_counts": [
         62,
         143,

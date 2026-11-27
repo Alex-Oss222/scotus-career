@@ -150,7 +150,7 @@ The existing benefits judgment is affirmed by the five supporting Associates. Th
 
 **Counts before assignment:** Stone-Zsela 11; Stevens 11; O'Connor 11; Scalia 11; Kennedy 11; Souter 11; Thomas 12; Ginsburg 11; Breyer 11.
 
-**Last counted event:** Gonzaga University v. Doe, 2002-06-20; Thomas. **Eligible authors:** Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg, Breyer. **Balance pool:** Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg, Breyer. **Assigner:** Stone-Zsela. **Chosen author:** Ginsburg.
+**Last counted event:** Gonzaga University v. Doe, 2002-06-20; Stevens. **Eligible authors:** Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg, Breyer. **Balance pool:** Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg, Breyer. **Assigner:** Stone-Zsela. **Chosen author:** Ginsburg.
 
 Every fully eligible Justice has eleven counted opinions and is in the balance pool. Ginsburg is selected for the precise legal work of extending a saved insurance condition while preserving the separate federal-remedy and administrative-conflict inquiries. Her UNUM opinion already distinguishes those two questions; this opinion must apply that distinction to limited medical review without turning all external adjudication into a saved term. Stone is the strongest alternative because his approved position expressly reconciles the saving clause with Section 502 and can carry the complete opinion. At equal counts, Ginsburg's demonstrated execution of the exact two-inquiry structure supplies the fit advantage. The majority already shares this scope, so no unresolved join objection or expansion assignment is inferred. Prior authorship is evidence of that concrete fit, not an automatic entitlement.
 

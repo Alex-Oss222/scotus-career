@@ -40,7 +40,7 @@ The additional claim seeks section 1983 damages and section 1988 fees for violat
 
 Section 332(c)(7)(B)(v) expressly permits an adversely affected person to commence a competent-court action within thirty days of a final action or failure inconsistent with the subparagraph and directs expedited decision. Its separate radio-frequency clause permits an FCC petition for the violation described in clause (iv); these provisions are not conflated. Section 601(c)(1)'s preservation of other law does not itself answer whether a newly created TCA entitlement carries an additional inconsistent enforcement route. Loss of the asserted section 1983 predicate defeats section 1988 fees resting only on that predicate, without deciding every other possible fee authority.
 
-Blessing separates a particular right from actual remedial foreclosure. Bruneau, joined by all eight Associates on the statutory point, rejects foreclosure based merely on administrative oversight plus an implied action. Gonzaga has no majority general remedy-intent formula. The available narrow ground is this enactment's express, personal, time-limited and expedited process and the conflict a parallel ordinary section 1983 action would create. An express remedy is not a universal dispositive presumption. An independent constitutional right is distinct and no such merits claim is resolved here. Precise availability of damages under the direct TCA action need not be decided to identify the incompatible additional route.
+Blessing separates a particular right from actual remedial foreclosure. Bruneau, joined by all eight Associates on the statutory point, rejects foreclosure based merely on administrative oversight plus an implied action. Gonzaga rejects a remedy-intent formula and places the exclusion showing on the defendant. The available narrow ground is this enactment's express, personal, time-limited and expedited process and the conflict a parallel ordinary section 1983 action would create. An express remedy is not a universal dispositive presumption. An independent constitutional right is distinct and no such merits claim is resolved here. Precise availability of damages under the direct TCA action need not be decided to identify the incompatible additional route.
 
 ## Brown: validated predicates
 
@@ -78,8 +78,8 @@ Saved source copies: `terms/OT2004/runtime/neutral-b-sources/`. Authorized origi
 
 ## Input-byte receipt
 
-- terms/OT2004/runtime/OT_2004CHUNK5_NEUTRAL_B.md ? SHA-256 07f00d2e04be7b4734eb8d5df4c9c30f472462dab40aab4ee55ccdad0ef726f0
-- terms/OT2004/entering-law/OT_2004CHUNK5_B.md ? SHA-256 7ff43bb78d9db80796884125bab88b4a73a6d765fafe6616ba8a20c8164fdf81
+- terms/OT2004/runtime/OT_2004CHUNK5_NEUTRAL_B.md ? SHA-256 e6f1b8499b7f0411691cf2c94e39ee3deccdfed8d39c1175f2729a1288d1cd8d
+- terms/OT2004/entering-law/OT_2004CHUNK5_B.md ? SHA-256 a4c4c31f601d6cb7d4e309730114088a061148939296567e334ab9ab56f5faec
 - terms/OT2004/entering-law/OT_2004CHUNK5_CURRENT_PUBLIC.md ? SHA-256 c55562c025df67f565b67e99a026d3c9344e9a7a21d36ae8591abcbe216528d3
-- terms/OT2004/entering-law/OT_2004CHUNK5_B_PUBLIC_PRIORS.md ? SHA-256 0a75e44e20d4c20743a98f21636eceffbdb16948bb0e1459ca1806410eb58c90
+- terms/OT2004/entering-law/OT_2004CHUNK5_B_PUBLIC_PRIORS.md ? SHA-256 40e32b922dc1dcab1e6dc30f7ef587e1ff4cf050f54b577019945371ffe1ec26
 - terms/OT2004/workspace/neutral-projection.md ? SHA-256 467c56f74eb24cd434076dfb14b630dde2e74ec260dbe49d8f845bd31f06a7c3

@@ -51,7 +51,7 @@ Reviewed Judgment & Remedy, Holdings, Precedent Treatment, Law After Decision an
 
 - Each Public Projection has exactly the eleven required blocks in order.
 - Each internal Controlling holdings section is text-identical to its Public Projection Holdings block.
-- Ordinary explanation word counts: Herring 204 and 80; Roell 191 and 86; Miami 127, 201, 135, 122 and 65. Operative statutory qualifications are rules, not reasoning relocated to evade a ceiling.
+- Ordinary explanation word counts: Herring 204 and 80; Roell 191 and 86; Miami 127, 206, 135, 122 and 65. Operative statutory qualifications are rules, not reasoning relocated to evade a ceiling.
 - All three copied reconciliation sections match their exact frozen source sections; all three copied Stone sections match their approved source sections. The entire copied annex in each draft remained unchanged through this review.
 - B_specs.json's judgment coalitions and complete-opinion eligible-author lists agree with the legal analysis above. No author or balance count was selected.
 - Detailed computational results are in runtime/chunk9-drafts/B_review_checks.json. Routine authored-section edits are recorded by runtime/chunk9-drafts/review_b_fixes.py. Final publication and term-wide checks remain pending.

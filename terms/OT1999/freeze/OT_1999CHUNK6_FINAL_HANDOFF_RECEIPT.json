@@ -56,7 +56,7 @@
       "case": "United States v. Morrison / Brzonkala v. Morrison",
       "stage": "COMMITMENTS",
       "file": "OT_1999CHUNK6_MORRISON_COMMITMENTS.md",
-      "sha256": "25eea657b09f3e64f455a85d623dded89f1b948df92094f3f891ac22353c9b51"
+      "sha256": "a13163666aaed595689accf0384f2723e787b1b07bc98e967c3fe4b84bb54c57"
     },
     {
       "case": "Geier v. American Honda Motor Co.",
@@ -68,7 +68,7 @@
       "case": "Jones v. United States",
       "stage": "COMMITMENTS",
       "file": "OT_1999CHUNK6_JONES_COMMITMENTS.md",
-      "sha256": "538b74088f24ccc4ea3cc22f116ef8851b82a251b529f1500f3dddb1217ecef3"
+      "sha256": "568f65b1f005660a9a56e1c1962f817b5e56f17c4b008680ba9b76e04437ccee"
     },
     {
       "case": "United States v. Playboy Entertainment Group, Inc.",
@@ -129,7 +129,7 @@
       "case": "United States v. Morrison / Brzonkala v. Morrison",
       "stage": "RECONCILED",
       "file": "OT_1999CHUNK6_MORRISON_RECONCILED.md",
-      "sha256": "a914b1b49d619cbcccb3c4cfa5b8ed2074d21bf87f6f89b133c680144dbdb3d0"
+      "sha256": "42a59e5a2bde637d3316cc451d30fa7e075547b828857945f74e9a4c7d89b26c"
     },
     {
       "case": "Geier v. American Honda Motor Co.",
@@ -141,7 +141,7 @@
       "case": "Jones v. United States",
       "stage": "RECONCILED",
       "file": "OT_1999CHUNK6_JONES_RECONCILED.md",
-      "sha256": "289c73136fd69358bd39d88ccab5c918f43950a5503b5580db8fc3bcb5f33f07"
+      "sha256": "11face9a83907066b7c891c330e9e0ce7df61c02765bab62b803a2349c62fcc1"
     },
     {
       "case": "United States v. Playboy Entertainment Group, Inc.",

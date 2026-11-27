@@ -2,7 +2,7 @@
 
 ## Scope, inputs and result
 
-This handoff reconciles the released independent commitments for Stewart v. Smith and United States v. Bass. The frozen `OT_2001CHUNK8_JUNE28_COMMITMENTS.md` has SHA-256 `e4c3cb24f2ac3ce58192186da71782eadef82efb92e72ad4870e20a959c626da`. The released `OT_2001CHUNK8_THROUGH_JUNE27_PUBLIC_LAW.md` has SHA-256 `681821209127c46dc4c4bbdb49715eb7ece10e8feb1d7867fd15ca8de6c0d94a`. Both identities were verified. The neutral packet, entering-law slice, model validation, scoped comparator and complete source-preparation receipt were also reviewed. The frozen commitments are preserved; this file expressly states the one remedial revision below.
+This handoff reconciles the released independent commitments for Stewart v. Smith and United States v. Bass. The frozen `OT_2001CHUNK8_JUNE28_COMMITMENTS.md` has SHA-256 `593b03877a016190703531971cee09208bbcec5103c20e9b8c5c97bc868ce512`. The released `OT_2001CHUNK8_THROUGH_JUNE27_PUBLIC_LAW.md` has SHA-256 `2e15975feeb6112d9bd2e92532db7296bf59e77d792823eb276c0b84688754d3`. Both identities were verified. The neutral packet, entering-law slice, model validation, scoped comparator and complete source-preparation receipt were also reviewed. The frozen commitments are preserved; this file expressly states the one remedial revision below.
 
 The reconciliation context has received no current private Stone material, full supplied brief, raw Decision Record, internal continuity or assignment table. It reviewed the named public Armstrong entry for the Associates' prior positions. No author, final Court tally or Stone vote is assigned. All counts here concern the eight participating Associates. The two cases share the baseline immediately before June 28, 2002; neither supplies law to the other.
 

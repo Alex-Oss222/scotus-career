@@ -124,7 +124,7 @@ The following files are incorporated as the precise source annex, with their ide
 | [entering-law/OT_2002CHUNK11_139_REFRESHED.md](../entering-law/OT_2002CHUNK11_139_REFRESHED.md) | Opening Buckley and Burdick law, date-eligible public separate positions, complete earlier Cartwright and Lerman Public Projections. | `99a2f5d141446fb361f516483eb6c6e264cac5a9acd813480d3732d29af2473f` |
 | [entering-law/OT_2002CHUNK11_139_SOURCE_SCOPE_SUPPLEMENT.md](../entering-law/OT_2002CHUNK11_139_SOURCE_SCOPE_SUPPLEMENT.md) | All six source-scope findings and primary-source provenance; historical documents not possessed are identified precisely. | `5ae49f0d388c96969a77dce2fe357fad1f8d89ad7e6bacf1fd3bfd8af5765027` |
 | [entering-law/OT_2002CHUNK11_139_LOWER_OPINION.txt](../entering-law/OT_2002CHUNK11_139_LOWER_OPINION.txt) | Mechanically saved full reported opinion; material facts are admitted through the frozen scope-neutral handoff. | `9e115ef710469c95f52523e0bed9f2c0f3ce8e566815b98eb78e5128b2fa0be7` |
-| [freeze/OT_2002CHUNK11_139_OPINION_TABLES.json](../freeze/OT_2002CHUNK11_139_OPINION_TABLES.json) | Actual earlier public opinion tables and assignment statements supplied for serial assignment; no stored tally controls assignment. | `fa4363e0b1b887fd25400a6a207b5b89a3925a38907b286fa53fd208e3e4f1d3` |
+| [freeze/OT_2002CHUNK11_139_OPINION_TABLES.json](../freeze/OT_2002CHUNK11_139_OPINION_TABLES.json) | Actual earlier public opinion tables and assignment statements supplied for serial assignment; no stored tally controls assignment. | `103664f006547193d7875cc0e20beb6f5405f08733523eeb770ccf8a6f425ba1` |
 
 ## Continuity and validation
 

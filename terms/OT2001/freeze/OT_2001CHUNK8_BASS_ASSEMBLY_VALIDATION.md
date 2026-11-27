@@ -6,4 +6,4 @@ Part I retains exactly six source joins. Parts II–III have eight direct joins 
 
 Each Associate appears once in the exact independent section and once in the exact reconciliation section; the complete approved Stone section is also an exact mechanical copy. All sixteen Associate rows and the applicable historical-comparison limitations remain. No historical numerical tally or named personal assent is inferred from unsigned texts. No non-Stone commitment changed after reconciliation, no fallback supplied a Stone choice, and no fictional circulation or source-gap default was added. Relative links resolve. The exact public-law handoff is mechanically copied from the bounded Public Projection and checked for identity. No global projection or render was changed.
 
-This is local initial validation, not an independent fresh review or term-wide check. Record SHA-256: `5e6b81e20ce6568584db5effa5e8b707fa126cc4102ecaf084785fd831fd618a`.
+This is local initial validation, not an independent fresh review or term-wide check. Record SHA-256: `1ab46f2447bfb758a31050792cf756ec7ae6632a65b95ebfffeeb8656aaafe60`.

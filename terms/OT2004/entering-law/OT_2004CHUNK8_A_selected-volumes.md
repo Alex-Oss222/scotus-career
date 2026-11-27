@@ -22102,7 +22102,7 @@ For *Delaney v. DeTella*, March 4, 2002, Seventh Circuit No. 00-4145, the interl
 - Alexander v. Sandoval, April 24, 2001: its Title VI-specific holding applying Powell v. Ridge's bounded direct prospective action to valid section 602 disparate-impact regulations is preserved and does not decide FERPA enforcement.
 - TRW Inc. v. Andrews, November 13, 2001: independent statutory requirements and exclusions retain their actual limiting work.
 
-**Later-authority backlinks:** Gonzaga University v. Doe, June 20, 2002, resolves the asserted Section 1983 enforcement of FERPA's nondisclosure provisions against the claimant through statute-specific six-Justice agreement. Owasso's education-record definition remains intact, and Gonzaga adopts no majority general formula equating a statutory right with intent to create a private remedy.
+**Later-authority backlinks:** Gonzaga University v. Doe, June 20, 2002, holds that 20 U.S.C. §1232g(b) secures a student's individual right to freedom from unauthorized disclosure of education records through a recipient's policy or practice, enforceable through Section 1983. Owasso's maintained-record definition governs that right's coverage, and the private-enforcement question Owasso reserved is answered for §1232g(b).
 
 ### Functional impairment as a basis for civil commitment
 
@@ -22558,7 +22558,7 @@ For Lawall’s distinct six-Justice remand and protection holding, April 28, 200
 
 - Blessing v. Freestone: applies particular-right, foreclosure and fitted-remedy inquiries; the general program-adequacy exclusion remains.
 - Bruneau v. South Kortright Central School District: applies the distinction between an existing right and actual remedial foreclosure; Medicaid is not treated as substantively identical to Title IX.
-- Gonzaga University v. Doe: distinguishes the FERPA entitlement and preserves its outcome and the nonmajority status of its broader rights formulation.
+- Gonzaga University v. Doe: applies its two-question framework and individual-entitlement factors to the Medicaid child-benefit provisions; its FERPA holding is not needed to decide them.
 - Suter v. Artist M.: preserves its actual reasonable-efforts, reporting and separate implied-action holdings and its independent case-plan question; no categorical state-plan bar is applied.
 - Wright v. Roanoke Redevelopment and Housing Authority; Wilder v. Virginia Hospital Association: apply defined statutory entitlement and manageable qualitative application; regulations may elaborate an existing right but do not create the right held here.
 
@@ -22654,7 +22654,7 @@ For Odom v. Antrican, March 10, 2003, Fourth Circuit No. 01-1693, the prospectiv
 
 **Limits and questions not reached:** The defined child entitlements retain the complete conditions reproduced below. Equal access and quality, statewide operation, promptness, free choice and comparability are not automatically individual rights merely because pleaded. Each distinct provision requires its own inquiry; no individual entitlement or violation is found on the present allegations.
 
-**Treatment of earlier authority:** Westside Mothers governs its identified child entitlements; Suter and Blessing govern separate rights and congressional foreclosure. Gonzaga remains a FERPA holding, not a majority general prohibition on funding-statute rights.
+**Treatment of earlier authority:** Westside Mothers governs its identified child entitlements; Suter and Blessing govern separate rights and congressional foreclosure. Gonzaga supplies the governing two-question framework and confirms that funding-statute provisions may secure individual rights.
 
 **Material application:** Medicaid-eligible children under twenty-one receive the following benefits under Westside Mothers.
 
@@ -28533,25 +28533,45 @@ For individual arms coverage, §922(g)(8)’s complete order predicates and this
 **Docket or dockets:** No. 01-595.
 **Decided:** June 24, 2002.
 
-##### The Constitution does not require advance impeachment disclosure for this plea agreement
+##### The Constitution imposes no universal duty of advance impeachment disclosure
 
-**Holding:** The Constitution does not require the Government to provide material impeachment information concerning informants or other witnesses before entering the plea agreement presented here. A competent defendant must actually understand the right relinquished, the charge and the constitutionally relevant consequences and act voluntarily; that requirement does not guarantee advance knowledge of every witness weakness or every fact useful to counsel's assessment.
+**Holding:** The Constitution imposes no universal duty to disclose impeachment information before a plea. The Government need not provide impeachment information concerning informants or other witnesses as a general prerequisite to a plea agreement, and minor, speculative, cumulative or ordinary credibility matters need not precede a binding plea. A competent defendant must actually understand the right relinquished, the charge and the constitutionally relevant consequences and act voluntarily; that requirement does not guarantee advance knowledge of every witness weakness or every fact useful to counsel's assessment.
 
-**Proposition-level authority:** Part II of Breyer’s opinion, joined by Stevens, O’Connor, Scalia, Kennedy, Souter and Ginsburg: seven direct rationale votes.
+**Proposition-level authority:** Part II of Breyer’s opinion, joined by Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter and Ginsburg: eight direct rationale votes. Thomas agrees with the rejection of a universal duty on his separate trial-function ground without joining.
 
-**Limits and questions not reached:** The agreement’s continuing factual-innocence promise and ordinary plea safeguards form part of the setting, without proof of compliance or an automatic cure. The holding does not decide a supported claim of actual deception, ineffective assistance or an uninformed plea.
+**Limits and questions not reached:** Information labeled impeachment that gives a substantial evidentiary basis to negate an element falls within the separate disclosure floor below; whether other impeachment of particular significance must precede a plea is not decided. The agreement’s continuing factual-innocence promise and ordinary plea safeguards form part of the setting, without proof of compliance or an automatic cure. The holding does not decide a supported claim of actual deception, ineffective assistance or an uninformed plea.
 
-**Treatment of earlier authority:** Brady v. Maryland, Bagley and Kyles retain their fair-trial disclosure protections, including combined preparation and impeachment uses and case-team responsibility; they do not establish this categorical preagreement timing duty. Strickler’s suppression and retrospective materiality inquiries remain distinct. Brady v. United States permits a knowing voluntary choice despite evidentiary uncertainty. Boykin, Godinez and Bousley preserve actual informed choice, competence and knowledge of the offense. Vonn’s separate judicial warning duties remain, without a finding of forfeiture here.
+**Treatment of earlier authority:** Bagley retains its trial protection for impeachment information and establishes no universal pre-plea impeachment duty. Brady v. United States permits a knowing voluntary choice despite evidentiary uncertainty. Godinez and Bousley preserve competence, actual informed choice and knowledge of the offense. Vonn’s separate judicial warning duties remain, without a finding of forfeiture here.
 
-##### The separate affirmative-defense term is not categorically invalid in this agreement
+##### Before a binding plea, the Government must disclose information within a substantive exculpatory floor
 
-**Holding:** In the context of the presented agreement, including its continuing promise to disclose information establishing factual innocence, the Constitution does not require advance provision of the identified affirmative-defense information as a prerequisite to the plea bargain. Affirmative-defense information is not equated with impeachment or factual innocence, and the holding does not decide a proved concealed dispositive defense, false representation, factual-innocence suppression, defective advice or an actual uninformed plea.
+**Holding:** Before securing a binding guilty plea or an irrevocable waiver through a plea agreement, the Government must disclose information known to the prosecution team that gives a substantial evidentiary basis to negate an element of the charged offense, to show that the accused did not commit the charged conduct, or to establish a legally available complete affirmative defense. The information must be materially significant to an objectively reasonable plea decision; minor, speculative, cumulative or ordinary credibility matters do not qualify. The Government may not avoid this floor by labeling such information impeachment. The duty reaches information already known to the prosecution team; it imposes no duty to complete trial preparation, to investigate or to generate evidence.
 
-**Proposition-level authority:** Part III of Breyer’s opinion, joined by Stevens, O’Connor, Scalia, Kennedy, Souter and Ginsburg: seven direct rationale votes.
+**Proposition-level authority:** Part III of Breyer’s opinion, joined by Stone-Zsela, Stevens, Souter and Ginsburg: five direct rationale votes. O’Connor, Scalia, Kennedy and Thomas dissent.
 
-**Limits and questions not reached:** A complete affirmative defense may matter despite admitted conduct and may lie outside the factual-innocence promise. The categorical timing claim fails on its merits; absence of a specific withheld item is not an independent holding that an unlawful bargaining condition cannot cause injury.
+**Limits and questions not reached:** The duty is not open-file discovery. A continuing promise to disclose information establishing factual innocence does not satisfy the floor’s element and complete-defense categories. Affirmative-defense information is not equated with impeachment or factual innocence. The Court decides no disclosure duty broader than the floor.
 
-The sentence-review and operative disposition holdings in United States v. Ruiz, No. 01-595, decided June 24, 2002, appear under Criminal Procedure: Sentencing and Capital Punishment.
+**Treatment of earlier authority:** Brady v. Maryland’s fair-trial disclosure protection is preserved, with a distinct pre-plea floor recognized; Kyles’s prosecution-team responsibility is applied to it, and its trial-disclosure and collective-materiality rules retain their force. Boykin is applied, and Bousley’s knowledge of the real offense supports the element and conduct categories. Strickler’s suppression and retrospective materiality inquiries remain distinct from the prospective floor.
+
+##### Protective measures are available, but a plea agreement may not demand an irrevocable waiver of the floor
+
+**Holding:** Legitimate confidentiality, witness-safety and early-resolution interests may be accommodated through redaction, delayed disclosure that still precedes the binding plea, and adequate summaries, with judicial supervision when needed. The Government may decline to negotiate an immediate plea when it cannot make the required disclosure, but it may not demand, as a term of a plea agreement, an irrevocable waiver of disclosure within the floor.
+
+**Proposition-level authority:** Part IV of Breyer’s opinion, joined by Stone-Zsela, Stevens, Souter and Ginsburg: five direct rationale votes. O’Connor, Scalia, Kennedy and Thomas dissent.
+
+**Limits and questions not reached:** No offer is required, no particular witness danger is found, and the Government’s other plea terms are not limited.
+
+##### An otherwise available bargaining benefit cannot be conditioned on surrender of the floor
+
+**Holding:** The Government may not condition an otherwise available plea-bargaining benefit, including a sentencing recommendation, on the defendant's surrender of the disclosure floor. The restriction is confined: there is no right to an offer, the Government keeps its discretion to choose terms, to bargain firmly and to withdraw an offer for lawful reasons, and other knowing and voluntary waivers remain available. After disclosure, the defendant may still plead.
+
+**Proposition-level authority:** Part V of Breyer’s opinion, joined by Stone-Zsela, Stevens, Souter and Ginsburg: five direct rationale votes. O’Connor, Scalia, Kennedy and Thomas dissent.
+
+**Limits and questions not reached:** Lack of an entitlement to the benefit does not defeat the claim. The restriction is confined to the floor and adopts no general bar on waivers demanded at the outset of bargaining.
+
+**Treatment of earlier authority:** Bordenkircher’s acceptance of hard bargaining and of withdrawing offers for lawful reasons is retained short of conditioning a benefit on surrender of the floor. Mezzanatto’s knowing, voluntary and limited impeachment-use agreement remains enforceable and supplies no power to demand surrender of the floor. Wade’s constitutional limits on prosecutorial sentencing discretion extend to such a condition.
+
+The sentence-review holding and the application and remand in United States v. Ruiz, No. 01-595, decided June 24, 2002, appear under Criminal Procedure: Sentencing and Capital Punishment.
 
 #### United States v. Bass, 536 U.S. 862
 

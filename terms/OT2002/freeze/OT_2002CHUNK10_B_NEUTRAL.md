@@ -48,7 +48,7 @@
 * **Existing Rule's Reach:** No demonstrated origin classification or control of a separate out-of-state price follows merely because manufacturers are largely elsewhere and Maine residents benefit.
 * **Open Point:** An actual discriminatory operation or different proven interstate burden could require a different application; the present challenge must meet its preliminary evidentiary burden.
 
-**Additional controlling authority:** Gonzaga University v. Doe (June 20, 2002) resolves the asserted FERPA right without a majority general private-remedy formula. United States v. Mead Corp. (June 18, 2001) requires delegated interpretive authority for Chevron deference; other agency views receive their warranted persuasive weight. Neither decision supplies an agency determination not actually made.
+**Additional controlling authority:** Gonzaga University v. Doe (June 20, 2002) holds that FERPA's nondisclosure provision secures an individual right enforceable through §1983 and states the two-question framework for statutory rights. United States v. Mead Corp. (June 18, 2001) requires delegated interpretive authority for Chevron deference; other agency views receive their warranted persuasive weight. Neither decision supplies an agency determination not actually made.
 
 #### C. DECISION-MATERIAL LITIGATION POSITIONS
 

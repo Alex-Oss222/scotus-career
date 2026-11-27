@@ -22,6 +22,6 @@
 | `terms/OT2001/freeze/OT_2001CHUNK8_ANGLE_RECONCILED.md` | `1ff1e5bab38d152d1ac6a3d0f20f977ead0fb1c038e77c15c3565680862dc1e4` |
 | `terms/OT2001/runtime/OT_2001CHUNK8_ANGLE_STONE.md` | `2083b62083149c49b37ba59d7ba2c593f8a73c8922b7dbce895d91efc4302978` |
 | `terms/OT2001/freeze/OT_2001CHUNK8_ANGLE_OPINION_FORM.md` | `67028228fa6326244d0fc44d3f36c0fa2f1cf4508bd6682b4f8bfe05221a0e3d` |
-| `terms/OT2001/freeze/OT_2001CHUNK8_ANGLE_ASSIGNMENT_COUNTS.json` | `0c351c9e94f83c74bae0729dbfb25766d4dc7515b6dd58a7dfc57af2b49e1326` |
+| `terms/OT2001/freeze/OT_2001CHUNK8_ANGLE_ASSIGNMENT_COUNTS.json` | `cc05955fb06c8e7d073dca3eecd02a983f98317805dd6bbda9aa1b45871c4b39` |
 
 Integration metadata check: the Standards and Tests entry identifies Johnson's present operation as May 12, 1997. The internal entering-law date was corrected to that exact register date; the Public Projection and all substantive determinations are unchanged. The Record digest above reflects the integrated bytes.

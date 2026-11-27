@@ -18,8 +18,8 @@ The lower source supports the independent handoff's central distinctions. Paragr
 |---|---|
 | `OT_2000CHUNK4_COMMITMENTS_WALLIS.md` | `788a01196a34c9debb24f35ca2a8a5906047a9bc6a637d0428e7f2777e908690` |
 | `OT_2000CHUNK4_WALLIS_MODEL_SOURCE_RECEIPT.md` | `f78dbd7ae90961df66f89e766d7981049ed107e4acc650473cb416b5774c0b54` |
-| `OT_2000CHUNK4_WALLIS_NEUTRAL_REFRESH.md` | `7ea99c7c19b29509a9da476c40b2f6e7e9264c0e83b8f4dbe79016afbe50aa28` |
-| `../entering-law/OT_2000CHUNK4_EFFECTIVE_BEFORE_2001-04-02_FINAL.md` | `59addeddbd8b075029a4780d6172085cd1fe51e1383c5c431f51414690543f4c` |
+| `OT_2000CHUNK4_WALLIS_NEUTRAL_REFRESH.md` | `1624019983ee04bbb140f6b60c030360a5c1cbdfe4f91c34b84644b28cb320b7` |
+| `../entering-law/OT_2000CHUNK4_EFFECTIVE_BEFORE_2001-04-02_FINAL.md` | `cd5148698002a4cb0fe509ff4d45d01853bfb2ee562254d6fb0c392b565bd832` |
 | `tmp/ot2000-later-neutral/wallis.txt`, workspace-relative | `c690c176caf7a799aac7359ffbbb14003c084abb00c137b08796897d1cb66391` |
 
 ## The competing paths were substantively tested

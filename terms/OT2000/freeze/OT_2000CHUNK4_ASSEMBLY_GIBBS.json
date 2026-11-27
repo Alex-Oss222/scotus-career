@@ -5,11 +5,11 @@
   "record_sha256": "a4f5b31f35fd60cb6fdf74eb02ffc333b5c804c97af963427873a6f6f01864eb",
   "status": "Assembly legal and clerical checks passed; Record written. Workspace integration and chunk checks remain with root.",
   "input_hashes": {
-    "terms/OT2000/freeze/OT_2000CHUNK4_RECONCILED_GIBBS.md": "d6f2357c1be5a78cc17541fdc0aafda56f477fffc7386d6628c9b1234e10971a",
-    "terms/OT2000/freeze/OT_2000CHUNK4_COMMITMENTS_GIBBS.md": "74512e6d08079a92baa56a3933028e6a9817342f0407dced3af08531ea51172d",
+    "terms/OT2000/freeze/OT_2000CHUNK4_RECONCILED_GIBBS.md": "97d1f805d2ccc378c57725c4ad86831c500f30e4965524f63fdc75546bcfd5b1",
+    "terms/OT2000/freeze/OT_2000CHUNK4_COMMITMENTS_GIBBS.md": "3233476d6ac1b72077b810384d1ec2a24bad9372a6ae7c399722f6580461e8d2",
     "terms/OT2000/freeze/OT_2000CHUNK4_EARLY_NEUTRAL_GIBBS_SOURCE.md": "29582abfffc0ebb7ab54dabf6c4bc5ff4940d64340e411234dabf6b50cd8ca95",
     "terms/OT2000/freeze/OT_2000CHUNK4_GRANTED_MERITS_SUBMISSION_PREMISE.md": "2368cc50af8ab216e38ce329532a64c2d5bf3ab4afd3271b4fc5e83b9fdfae52",
-    "terms/OT2000/entering-law/OT_2000CHUNK4_EARLY_CONSTITUTIONAL_STRUCTURE.md": "f499411327027b24edbcda0d47680a0c23483b7c1ced20ed50a7a6ea559229a7"
+    "terms/OT2000/entering-law/OT_2000CHUNK4_EARLY_CONSTITUTIONAL_STRUCTURE.md": "03110f1465db0f4c94faf0acf1cc711197dad53c7f43455711b3421219ab3529"
   },
   "legal_checks": {
     "final_C_before_Stone": true,

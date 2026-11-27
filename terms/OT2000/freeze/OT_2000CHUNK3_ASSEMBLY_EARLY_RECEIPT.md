@@ -45,7 +45,7 @@ The final check independently counted named supporters and opponents and matched
 Every record passed the four exact opening labels, exact eleven Public Projection blocks, unchanged internal-to-public Holdings identity, ordinary explanation ceilings, and prohibited-text/machine-link checks. The results below include final byte hashes. These checks do not certify workspace, generated handoff or whole-term reconciliation, which control performs after integration. No render is written in this assembly task.
 
 ```text
-Board_of_Trustees_of_University_of_Alabama_v_Garrett_merits_2001-02-21.md a19720a391e0afab98fd4a4306606c7b4da16764fcbf33f60d1e359bef1a54da explanations [140, 346, 180] identity/blocks/labels/limits PASS
+Board_of_Trustees_of_University_of_Alabama_v_Garrett_merits_2001-02-21.md 00170df3eaed9d479f728785896e4e6b19ea39053f0d1570a3103924771e9d7d explanations [140, 346, 180] identity/blocks/labels/limits PASS
 Buckman_Co_v_Plaintiffs_Legal_Committee_merits_2001-02-21.md d2a5eb63b268bc73884cc551bdd2a78bef31f8c30d25fec2aa814e8f2106bc1b explanations [236] identity/blocks/labels/limits PASS
 Central_Green_Co_v_United_States_merits_2001-02-21.md cc513370fad65866c97193847164d9af28d3cf583b322177004ed80bbade6d0f explanations [280] identity/blocks/labels/limits PASS
 Lewis_v_Lewis_and_Clark_Marine_merits_2001-02-21.md ae8c0e064f3b086c380b80c4fae2edca4f5f50bdd11800b4801fd25165a5f2bf explanations [296] identity/blocks/labels/limits PASS
@@ -56,7 +56,7 @@ United_States_v_Tank_merits_2001-02-21.md 4fb63b40227c36cb8dd90946683c0455c98298
 
 | Record | SHA-256 |
 |---|---|
-| Board_of_Trustees_of_University_of_Alabama_v_Garrett_merits_2001-02-21.md | `a19720a391e0afab98fd4a4306606c7b4da16764fcbf33f60d1e359bef1a54da` |
+| Board_of_Trustees_of_University_of_Alabama_v_Garrett_merits_2001-02-21.md | `00170df3eaed9d479f728785896e4e6b19ea39053f0d1570a3103924771e9d7d` |
 | Buckman_Co_v_Plaintiffs_Legal_Committee_merits_2001-02-21.md | `d2a5eb63b268bc73884cc551bdd2a78bef31f8c30d25fec2aa814e8f2106bc1b` |
 | Central_Green_Co_v_United_States_merits_2001-02-21.md | `cc513370fad65866c97193847164d9af28d3cf583b322177004ed80bbade6d0f` |
 | Lewis_v_Lewis_and_Clark_Marine_merits_2001-02-21.md | `ae8c0e064f3b086c380b80c4fae2edca4f5f50bdd11800b4801fd25165a5f2bf` |
@@ -67,7 +67,7 @@ United_States_v_Tank_merits_2001-02-21.md 4fb63b40227c36cb8dd90946683c0455c98298
 | Input | SHA-256 |
 |---|---|
 | freeze/OT_2000CHUNK3_NEUTRAL_EARLY.md | `58686f3731d3b4b6606015dbbeefdcd0f7353cb15a3402e4f4a9bb7145f9181b` |
-| freeze/OT_2000CHUNK3_COMMITMENTS_EARLY.md | `9dde5ef4177318272d76546d6b527f83186229733e4f72f99dfaf45a3ae6088c` |
+| freeze/OT_2000CHUNK3_COMMITMENTS_EARLY.md | `940a44c0c5e1f5c44181ca4837bb1e3f0ffdd8d9b2256a4de530c6fb2261c77c` |
 | freeze/OT_2000CHUNK3_RECONCILED_EARLY.md | `c4309995e0342479e15594ec2528fd12ce93dfb9fbe7b5b5608cf6b3fcdc285b` |
 | runtime/OT_2000CHUNK3_STONE_EARLY.md | `41a0ec1a7ce4d4f850be1b73037655074415b25e0bdfd620ffd82e819f959be9` |
 | freeze/OT_2000CHUNK3_EARLY_NEUTRAL_VALIDATION.md | `cc521fd6152e9e58068540e960d43d8ffea6f2c356a078450310b7c6f47d00d5` |

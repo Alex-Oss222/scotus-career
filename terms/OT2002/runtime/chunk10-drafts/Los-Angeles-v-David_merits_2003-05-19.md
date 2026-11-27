@@ -71,7 +71,7 @@ Stone joins neither the eight-Justice sufficiency determination nor its reversal
 
 ## Frozen non-Stone commitments and reconciliation
 
-The original frozen case section is preserved at `terms/OT2002/freeze/OT_2002CHUNK10_C_COMMITMENTS.md`, heading beginning `## 123.`, SHA-256 `9c3e12a424efc88849052152f3fea80ae7e5d9a343d4442dc379751747cdeaaa`; its exact case-section SHA-256 is `b15f1d121b702e32b9500d0be46453a5e396acd929367ec55c436b86d191fd7c`. The following operative case section is copied mechanically from authoritative `terms/OT2002/freeze/OT_2002CHUNK10_C_RECONCILED.md`, SHA-256 `688a6ffdd3bc02ed3f121cca77a1e71ca0c77da5e7c32e4f5f2c22a02c8d5765`. It contains every Associate's component commitment, personal date-eligible basis, strongest adverse path, join limits and historical comparison. It controls over the original only where the reconciliation expressly says so. Neither source is changed by assembly.
+The original frozen case section is preserved at `terms/OT2002/freeze/OT_2002CHUNK10_C_COMMITMENTS.md`, heading beginning `## 123.`, SHA-256 `9c3e12a424efc88849052152f3fea80ae7e5d9a343d4442dc379751747cdeaaa`; its exact case-section SHA-256 is `b15f1d121b702e32b9500d0be46453a5e396acd929367ec55c436b86d191fd7c`. The following operative case section is copied mechanically from authoritative `terms/OT2002/freeze/OT_2002CHUNK10_C_RECONCILED.md`, SHA-256 `2b0356e29ebd5ccd9493fa67c33c9ac878b56b091e02e4a1e1fca6462d4014b8`. It contains every Associate's component commitment, personal date-eligible basis, strongest adverse path, join limits and historical comparison. It controls over the original only where the reconciliation expressly says so. Neither source is changed by assembly.
 
 ## 123. Los Angeles v. David — May 19, 2003
 

@@ -138,7 +138,7 @@
       "path": "terms/OT1994/output/OT_1994CHUNK4.md",
       "bytes": 183403,
       "sha": "c19a0bb6fe1da3efc7c962d9d5a4d9226b2d9467",
-      "sha256": "8b360d85492c1c1f313d8b032c904cde3b59ab5651b8116a4f5b9a40c62e3038"
+      "sha256": "751ecb239754bf2ede4bc5f1ef41287163225e920b5ed38553418d79dac9a7eb"
     },
     {
       "path": "terms/OT1994/output/OT_1994CHUNK5.md",
@@ -306,7 +306,7 @@
       "path": "terms/OT1996/output/OT_1996CHUNK9.md",
       "bytes": 152175,
       "sha": "a72856ffee9965f1eb41925026b23eacb1f111f1",
-      "sha256": "8aa701d2a7fc2e620cf5bf24ef0d8d8140be3e50dc2a4f1d8cf78ba76bd66d9c"
+      "sha256": "7519940ce12f937092454bd0189fc0fcafd84dc066a91ca789bbc663e28f288e"
     }
   ]
 }

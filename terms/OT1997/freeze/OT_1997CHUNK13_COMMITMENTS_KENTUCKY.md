@@ -114,6 +114,6 @@ Source hashes are recorded below by a deterministic append after writing this ha
 * `terms/OT1997/research/chunk13-neutral-validation/KENTUCKY_PREPARATION_RECEIPT.md`: `3bc38e533f141b6003a8852441d249794ce9901c1050c49fcbf44cd13a1d6a2e`.
 * `terms/OT1997/research/chunk13-elections/kentucky.txt`: `f577db57c3cf5bf6b9d84c41b0c91160b84b706a157e0cb7e75ba70dc4e71c14`.
 * `terms/OT1997/workspace/neutral-projection.md`: `3a8fe35b4cf64cc9ddf7b9f8a498c894822845ef74b0fa52278dcfc107f374d1`.
-* `terms/OT1994/output/OT_1994CHUNK4.md`: `8b360d85492c1c1f313d8b032c904cde3b59ab5651b8116a4f5b9a40c62e3038`.
+* `terms/OT1994/output/OT_1994CHUNK4.md`: `751ecb239754bf2ede4bc5f1ef41287163225e920b5ed38553418d79dac9a7eb`.
 * `terms/OT1994/output/OT_1994CHUNK6.md`: `5f32ccffe987289a26a087510f824751f9e5c980b1e242424b25a63533243a10`.
 * `terms/OT1995/output/OT_1995CHUNK10.md`: `f7dc22c5d03d27d0bd16d2f67bdb1f9efcfd2002be4291ac5d4d2f0e36e234c6`.

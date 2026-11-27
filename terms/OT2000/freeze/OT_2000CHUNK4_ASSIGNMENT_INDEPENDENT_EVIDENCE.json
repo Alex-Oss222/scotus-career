@@ -1300,7 +1300,7 @@
       "case_name": "Board of Trustees of the University of Alabama v. Garrett",
       "event": "Merits decision, 2001-02-21; October Term 2000, chunk 3.",
       "record": "Board_of_Trustees_of_University_of_Alabama_v_Garrett_merits_2001-02-21.md",
-      "sha256": "a19720a391e0afab98fd4a4306606c7b4da16764fcbf33f60d1e359bef1a54da",
+      "sha256": "00170df3eaed9d479f728785896e4e6b19ea39053f0d1570a3103924771e9d7d",
       "opinion_rows": [
         {
           "row": "| Opinion of the Court | Stone-Zsela | All eight as to Part I; O'Connor, Scalia, Kennedy, Thomas as to Part II; Stevens, Souter, Ginsburg, Breyer as to Parts III–IV | Affirmance, 5–4 | Part I: authorization and valid employment duty. Part II: Section 5 does not independently sustain Title I at the full scope presented. Part III: Article I sustains the authorized action. Part IV: affirmance and ordinary adjudication. |",
@@ -2158,7 +2158,7 @@
       "case_name": "Gibbs v. Babbitt",
       "event": "Merits decision after full submission; 2001-03-21; October Term 2000, chunk 4.",
       "record": "Gibbs_v_Babbitt_merits_2001-03-21.md",
-      "sha256": "98dbc05e86939b58ad12213a91bc9347fea7a340ccd53094892f1de3ca46dad0",
+      "sha256": "c19c215f55cacdc772f8cf36f9b9b89266d84046964126b49c1dc093c907e199",
       "opinion_rows": [
         {
           "row": "| Opinion of the Court, Parts I and II | Stone-Zsela | O'Connor and Kennedy throughout; Scalia and Thomas in Part I; Stevens, Souter, Ginsburg and Breyer in Part II | Part I controls the enacted class and connection prerequisite; Part II controls the necessary-inclusion holding and affirmance |",
@@ -3283,7 +3283,7 @@
     {
       "case": "Gibbs",
       "file": "OT_2000CHUNK4_RECONCILED_GIBBS.md",
-      "actual_sha256": "d6f2357c1be5a78cc17541fdc0aafda56f477fffc7386d6628c9b1234e10971a",
+      "actual_sha256": "97d1f805d2ccc378c57725c4ad86831c500f30e4965524f63fdc75546bcfd5b1",
       "matches_final_index": true
     },
     {
@@ -3295,7 +3295,7 @@
     {
       "case": "Wallis",
       "file": "OT_2000CHUNK4_RECONCILED_WALLIS.md",
-      "actual_sha256": "5457d7250a2b704ed9538b7fe5423886c4aeab58eb23ca1aef006afd245dd2a3",
+      "actual_sha256": "aa03826ffb801838199d260c9f68ebd8b599494f1d51a31c137194b170edb1f9",
       "matches_final_index": true
     },
     {

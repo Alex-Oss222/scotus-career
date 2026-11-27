@@ -53,7 +53,7 @@ These hashes identify the final reviewed Record bytes after the verified documen
 | `Circuit_City_Stores_v_Adams_merits_2001-03-21.md` | `d0dadc6630d1994f730d2856d2db360bd67c7ee42c6962b7f6c987bea93b6d1c` |
 | `Egelhoff_v_Egelhoff_merits_2001-03-21.md` | `ca1c6016940e09729684f4c29a117c72dd2bc27e7081ef1276ea1a35198a661f` |
 | `Ferguson_v_City_of_Charleston_merits_2001-03-21.md` | `713f51503b02aa6d6d18fdde9f09e3d80c8ca2d437d0128436ca383ef71159cb` |
-| `Gibbs_v_Babbitt_merits_2001-03-21.md` | `98dbc05e86939b58ad12213a91bc9347fea7a340ccd53094892f1de3ca46dad0` |
+| `Gibbs_v_Babbitt_merits_2001-03-21.md` | `c19c215f55cacdc772f8cf36f9b9b89266d84046964126b49c1dc093c907e199` |
 | `Texas_v_Cobb_merits_2001-04-02.md` | `d3b50e7e2cd13d1645f7af3b119727f9dc54f9c3463dc7cfc50da05ac067e2ef` |
 | `Wallis_v_Spencer_merits_2001-04-02.md` | `c29dc713622b137278c67a4ce6400113cea5031d3b8ca0d4189f6d73bd0cd89a` |
 

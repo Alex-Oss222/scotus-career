@@ -78,13 +78,13 @@ These hashes identify complete input bytes; the prior public-law files were cons
 | Input, relative to the term | SHA-256 |
 |---|---|
 | `freeze/OT_2000CHUNK4_COMMITMENTS_FERGUSON.md` | `d55430a5d086dc3fdfb935c1a3b7036a8d1a812783de8f9a9c80a049ce3fdcbf` |
-| `freeze/OT_2000CHUNK4_FERGUSON_NEUTRAL_REFRESH.md` | `f98aac1e661528c4cf2aa720a87f49b6b5b611cdee033bc3a0d1311cc103692d` |
+| `freeze/OT_2000CHUNK4_FERGUSON_NEUTRAL_REFRESH.md` | `6a44472dd075e1dd91bd401b2043a405377c3bfddb34a71257b32439294c7ef3` |
 | `runtime/OT_2000CHUNK4_FERGUSON_CONTEXT_RETURN.md` | `1bd690ea609735d5f831afbcca4ba6795e6235d83273cd306119919779347b0d` |
 | `runtime/OT_2000CHUNK4_EARLY_SOURCE_FACTS.md` | `5667242af2f34598e4a65cbd2972a42a597ec6db1c5b727a2e3113ab7fad2c83` |
 | `freeze/OT_2000CHUNK4_FERGUSON_GRIFFIN_SOURCE.md` | `584eb3a57aaa0910b6548c4f28211ebf98e81ccd46b2cbf8402d3ab1747c1fb3` |
 | `entering-law/OT_2000CHUNK4_EFFECTIVE_BEFORE_2001-03-21.md` | `6820ad66a205235c1e067b32b7d13e5258c640331de84a83f689e1ebf40b284a` |
 | `entering-law/OT_2000CHUNK4_EARLY_CURRENT.md` | `1406da0b5c206a1c5d131f8aa6ca1a7a8efada04bbfba54d26cda402ef0a7d23` |
 | `entering-law/OT_2000CHUNK4_EARLY_CRIMINAL_PROCEDURE.md` | `529c760a6a31eda8a29703c9d6409b775268b1896562f59868f74fbec77fbf83` |
-| `entering-law/OT_2000CHUNK4_EARLY_PRIOR_PUBLIC.md` | `42e774413626e7d9bdd62cfa9beda4cd526ed144aca6edf93d3240ec6d20fb65` |
+| `entering-law/OT_2000CHUNK4_EARLY_PRIOR_PUBLIC.md` | `2feaac756adc271a9fe51a292e0341dec344c1848132f6c98d01a9c096e00181` |
 
 Validation completed: eight distinct Associate rows; original affected-case and combined handoff hashes unchanged; no absolute machine path or remote-repository URL in this additive output. These checks establish consistency and preservation, not the merits.

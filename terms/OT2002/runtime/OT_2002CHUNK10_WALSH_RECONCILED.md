@@ -85,7 +85,7 @@ Historical Thomas also described a hypothetical Chevron barrier and said in a no
 
 **Historical departure:** Thomas's broad historical suggestion that States are free to depart from Medicaid requirements subject only to administrative sanctions is not retained: his full join in the intervening Westside Mothers decision directly commits him to enforceable federal beneficiary duties and prospective judicial compliance. That changed legal premise narrows his agency-allocation explanation without changing his affirmance or converting him into a joiner of the lead's purpose-and-evidence rationale.
 
-Thomas's historical third-party-enforcement observation was a reservation, not the ground he used to decide the case. It remains a reservation here; the nonmajority general discussion in simulated Gonzaga supplies no controlling categorical private-remedy rule. No seventh vote for W1, comprehensive private-enforcement prohibition, or new overruling follows from his merits concurrence.
+Thomas's historical third-party-enforcement observation was a reservation, not the ground he used to decide the case. It remains a reservation here; Thomas's simulated Gonzaga dissent is noncontrolling, and the Gonzaga Court's Section 1983 framework supplies no categorical private-remedy rule for this challenge. No seventh vote for W1, comprehensive private-enforcement prohibition, or new overruling follows from his merits concurrence.
 
 ### 6. O'Connor and Kennedy: restore the bounded injunction under the supported purpose and review standard
 

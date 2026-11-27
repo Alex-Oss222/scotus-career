@@ -4,8 +4,8 @@ Ready: matters96-100. No votes or commitments produced. All source/fact/current-
 
 ## Frozen files
 
-- `freeze/OT_1996CHUNK9_NEUTRAL_96.md`: 16769 bytes; SHA256 `cb1ed67ddc20e304c193d34c1976e5d2dc2da61e45c215ec5e3fd1a25b834d7f`.
-- `entering-law/OT_1996CHUNK9_96_CompuServe.md`: 46796 bytes; SHA256 `09c06b9e2b78482393fa1ff2d7a4ada367ea7f909b0ed7cb6073135959b1cf51`.
+- `freeze/OT_1996CHUNK9_NEUTRAL_96.md`: 16769 bytes; SHA256 `333ac433f2f720e60f80580af8b1aa04b1668680f40c78c40d92cbd7fb702e8e`.
+- `entering-law/OT_1996CHUNK9_96_CompuServe.md`: 46796 bytes; SHA256 `2f20390afe39c5713556ac73c175b584bd6c19e07e61e0e7612bcb4264b3ee1e`.
 - `freeze/OT_1996CHUNK9_NEUTRAL_97.md`: 10567 bytes; SHA256 `6d6a324b3568f80c0d3959147960f2e5a90e20b52b44ec79d5be3f9e4a4d7535`.
 - `entering-law/OT_1996CHUNK9_97_Vitronics.md`: 15312 bytes; SHA256 `e0f188b8ce6efa93232aaeb5aab7481e6c11fa600dde8f18af7544a1bce70284`.
 - `freeze/OT_1996CHUNK9_NEUTRAL_98.md`: 20550 bytes; SHA256 `bfb735b1451b265b94a7302983ba4237a64368a5f8a66295087423a9893ce636`.

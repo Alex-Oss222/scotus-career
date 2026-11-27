@@ -22,7 +22,7 @@ Green Party's constitutional protection of actual political association does not
 
 Orff unanimously keeps an asserted substantive entitlement separate from consent to the suit. That distinction is consistent with requiring a genuine due-process interest before municipal attribution or remedy, but its sovereign-consent holding neither negates state-created property nor decides Colorado's particular obligations. Allapattah, Kelo, Mid-Con and Mayle alter no statutory trigger, individualized-order qualification, procedural-interest boundary or municipal-liability predicate here.
 
-The five Associates denying the asserted property interest retain that sufficient ground; the three recognizing a bounded service interest retain their complaint-survival and practical-process positions. No Justice shifts because another constitutional doctrine protects a different government service. The alternative adequate-process argument and the material distinction between pleaded nonconsideration and a merely incorrect outcome remain as modeled.
+The four Associates denying the asserted property interest retain that sufficient ground; the four recognizing a bounded service interest retain their complaint-survival and practical-process positions. No Justice shifts because another constitutional doctrine protects a different government service. The alternative adequate-process argument and the material distinction between pleaded nonconsideration and a merely incorrect outcome remain as modeled.
 
 ## 102. Bell
 
@@ -64,7 +64,7 @@ Allapattah adds a specific construction of section1367 and displaces older amoun
 
 Orff unanimously enforces the actual terms and structure of statutory consent rather than a universal narrowest-reading canon. This is consistent with the common need to identify real delegated authority and independently enforce the telecommunications definitions. It does not supply either the agency-sustaining or component-offering answer. Kelo's respect for actual public redevelopment does not provide administrative interpretive power or substitute for the FCC's own explanation. Green Party's functional electoral classification, Halbert's appellate function, Mayle's amendment rule and Eulitt's purchased instructional function remain distinct legal inquiries.
 
-No Associate changes a Brand X commitment. Five support the agency-sustaining statutory range, bounded prior-circuit rule and explanation; three reject excluding the offered transmission component. Scalia's additional prior-judicial-construction objection remains separate from the classification ground shared with Souter and Ginsburg. Brand X received no new objective qualification in the technology refresh.
+No Associate changes a Brand X commitment. Four support the agency-sustaining statutory range, bounded prior-circuit rule and explanation; four reject excluding the offered transmission component and support the bounded binding-construction rule. Scalia's additional judicial-finality objection remains separate from the classification ground shared with Souter, Ginsburg and Breyer. Brand X received no new objective qualification in the technology refresh.
 
 ## Release scope
 

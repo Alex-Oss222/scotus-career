@@ -232,7 +232,7 @@ I would enforce the actual statutory confidentiality obligation through the Unit
 
 **Question Stone Resolves:** May the United States obtain this injunction instead of relying exclusively on funding withdrawal?
 
-**Stone’s Legal Position:** Apply the preserved public grant-enforcement channel and ordinary equity; distinguish the private claim barred by Gonzaga.
+**Stone’s Legal Position:** Apply the preserved public grant-enforcement channel and ordinary equity; distinguish the private §1983 claim recognized in Gonzaga.
 
 **Reach Calibration:** Intermediate. The proved continuing practice supports institution-wide compliance with the accepted condition. Isolated-record relief would leave the announced practice intact. A general administrative litigation power would exceed the source.
 
@@ -244,7 +244,7 @@ I would enforce the actual statutory confidentiality obligation through the Unit
 
 **Transition:** The enforcement application uses existing source and equity principles. If the complete-policy-cure presumption is adopted, Harper applies it to nonfinal cases within its proved common-practice scope; Reynoldsville preserves genuine legal defenses but no reliance-only selective withholding. Final judgments and independent jurisdictional limits remain.
 
-**Essential Reasoning and Record Application:** Newport News rejects a regulator’s abstract administrative interest as a substitute for its statutory review route; it does not negate the United States’ distinct grant-enforcement authority. The enforcement duty and preservation of otherwise authorized actions support this channel. Gonzaga bars the particular private §1983 nondisclosure claim, not this public action. Irreversible release supplies the equitable need, while the exceptions and redaction preserve a complete limited cure.
+**Essential Reasoning and Record Application:** Newport News rejects a regulator’s abstract administrative interest as a substitute for its statutory review route; it does not negate the United States’ distinct grant-enforcement authority. The enforcement duty and preservation of otherwise authorized actions support this channel. Gonzaga recognizes the private §1983 nondisclosure claim; it neither bars nor supplies this public action. Irreversible release supplies the equitable need, while the exceptions and redaction preserve a complete limited cure.
 
 **Precedent Treatment:** Distinguish Newport News’s agency-review defect and Gonzaga’s private-action holding; neither is overruled or converted into public enforcement immunity.
 

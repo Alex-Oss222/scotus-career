@@ -8,4 +8,4 @@ No repository-history operation was performed. Content hashes identify the froze
 
 - `entering-law/OT_2001CHUNK2_C_FOCUSED_LAW.md`: SHA-256 `da2cae24e2c28d1b3a7aae0f0ac66bb45ea271c27e02828a29b58083d8072a97`; 155052 bytes.
 
-- `entering-law/OT_2001CHUNK2_C.md`: SHA-256 `86256d91c941adae3bcd300819e6ae5fc9d529100295d0009c9ddebf3ceb9dab`; 2934520 bytes.
+- `entering-law/OT_2001CHUNK2_C.md`: SHA-256 `91bb64b13761d28a4372e9ce7c46cb9ad7da71e6a3349f4025893f99c18078eb`; 2934520 bytes.

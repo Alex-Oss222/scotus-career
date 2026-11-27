@@ -6,7 +6,7 @@ The generated raw runtime neutral split remains the unaltered approved-brief exp
 
 ## Source: OT_1999CHUNK8_A_COMMITMENTS.md
 
-SHA256: 2690769438cb0e5c10b44bd554fed533232e6d87060d976cfd138f8a36745709
+SHA256: bfe0d159838ae91ddb1707c978334e9271ff6aa483713df383c7e449a99225b3
 Selected complete sections: Bradley, Pegram, Reeves
 
 # OT1999 chunk 8 A — independent non-Stone commitments
@@ -42,7 +42,7 @@ Two genuinely competing paths are (A) actual informed funding acceptance suffici
 | Ginsburg | Affirm on actual informed acceptance, consistent with her Lane join, Cedar Rapids funding-notice join, and Kimel opinion's separation of authorization, power and consent. The unmistakable forum consequence and receipt support a narrower sufficient ground than constitutional abrogation. | The earlier College Savings disagreement does not require revisiting commercial consent. Reserve separate Section 5 fit and Article I enforcement; reject automatic remedy creation from section 1403(b). |
 | Breyer | Affirm on the disclosed funding condition. His Cedar Rapids notice join and College Savings/Florida Prepaid public positions distinguish voluntary funded cooperation from an immunity inferred merely from economic activity. His Kimel join supplies independent constitutional context. | Consent must rest on actual participation in this grant, not assumed dependence or a newly invented waiver ceremony. Section 5 inquiry may be substantial but is unnecessary; do not turn a prospective compliance suit into a damages holding. |
 
-The strongest alternate judgment route, if consent failed, is direct enforcement under Florida Prepaid's Article I rule and Kimel's application, with the granted Spending question and unchanged-judgment respondent-defense limits respected. Stevens, Souter, Ginsburg and Breyer would accept that legal route on its established predicates; O'Connor, Scalia, Kennedy and Thomas retain the explicit objection stated in Kimel. Those unused alternatives are not additional joins in the present holding. Section 5 and Young are likewise not adopted alternative holdings. Morrison's defendant/trigger/remedy fit inquiry cannot be bypassed by equating all IDEA obligations with equal protection; a connected-officer remedy needs an actual ongoing violation and prospective scope. No new officer or remedy is created by the immunity decision.
+The strongest alternate judgment route, if consent failed, is direct enforcement under Florida Prepaid's Article I rule and Kimel's application, with the granted Spending question and unchanged-judgment respondent-defense limits respected. Stevens, Souter, Ginsburg and Breyer would accept that legal route on its established predicates; O'Connor, Scalia, Kennedy and Thomas retain the explicit objection stated in Kimel. Those unused alternatives are not additional joins in the present holding. Section 5 and Young are likewise not adopted alternative holdings. Morrison's corrective-remedy fit inquiry cannot be bypassed by equating all IDEA obligations with equal protection; a connected-officer remedy needs an actual ongoing violation and prospective scope. No new officer or remedy is created by the immunity decision.
 
 ### Remedy and source limits
 

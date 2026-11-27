@@ -39,7 +39,7 @@ Thomas delivers the opinion of the Court, joined by Stone-Zsela, Stevens, O'Conn
 
 **Controlling proposition:** Westside Mothers governs the identified mandatory child benefits under 42 U.S.C. §§1396a(a)(10), (43)(A)–(C), 1396d(a)(4)(B) and (r), subject to the applicable eligibility, service, request, screening-discovered need and coverage conditions. Distinct provisions require Blessing's separate individual-right and congressional-foreclosure inquiry; general funding supervision does not supply a comprehensive incompatible individual remedy displacing the established child-benefit claims.
 
-**Controlling explanation:** The defined dental benefits include relief of pain and infections, restoration of teeth, and maintenance of dental health at professionally reasonable and medically necessary intervals. These concrete obligations answer the asserted contract-only and categorical administrative-discretion defenses. Suter and Blessing require attention to each different statutory duty, while Gonzaga's FERPA holding creates no majority general prohibition on rights under funding statutes. The complaint's separate reliance on equal access and quality, statewide operation, promptness, free choice and comparability does not make every cited provision an individual right. Westside resolves its covered child entitlements on their terms; applying those terms to each remaining claimant is ordinary adjudication under settled law.
+**Controlling explanation:** The defined dental benefits include relief of pain and infections, restoration of teeth, and maintenance of dental health at professionally reasonable and medically necessary intervals. These concrete obligations answer the asserted contract-only and categorical administrative-discretion defenses. Suter and Blessing require attention to each different statutory duty, and Gonzaga confirms that a funding statute may secure individual rights when a provision identifies the beneficiary, binds the recipient and states a definite entitlement. The complaint's separate reliance on equal access and quality, statewide operation, promptness, free choice and comparability does not make every cited provision an individual right. Westside resolves its covered child entitlements on their terms; applying those terms to each remaining claimant is ordinary adjudication under settled law.
 
 **Applicable child-benefit conditions:** Medicaid-eligible children under twenty-one receive the following benefits under Westside Mothers.
 
@@ -65,7 +65,7 @@ Thomas delivers the opinion of the Court, joined by Stone-Zsela, Stevens, O'Conn
 - Edelman v. Jordan is applied to distinguish future compliance costs from retrospective compensation.
 - Pennhurst State School and Hospital v. Halderman is distinguished because the asserted duty is federal.
 - Suter v. Artist M. and Blessing v. Freestone retain their provision-specific role for distinct individual-right and foreclosure questions.
-- Gonzaga University v. Doe remains a FERPA holding, not a general funding-statute bar.
+- Gonzaga University v. Doe supplies the governing two-question framework and confirms that funding-statute provisions may secure individual rights.
 
 ## Resulting law
 
@@ -103,10 +103,10 @@ The official Fourth Circuit opinion, 290 F.3d 178, supports the allegations, req
 | O'Connor | Retain O1-O3; her actual Westside and Verizon joins govern. Her Coeur d'Alene objection concerned comprehensive sovereign-title relief, absent from this prospective dental-care prayer. |
 | Scalia | Retain O1-O3; his full Westside join remains operative despite the separately preserved original-meaning reservation. The reservation supplies no contract-only immunity or automatic defeat of defined child benefits. |
 | Kennedy | Retain O1-O3; Westside and Verizon supply his actual adoption of the connected-official, ongoing-violation and prospective-remedy route; his Coeur d'Alene position does not cover ordinary future compliance cost. |
-| Souter | Retain O1-O3; his Westside and Coeur d'Alene joins and FERPA-specific Gonzaga position require the provision-specific distinctions this ruling preserves. |
+| Souter | Retain O1-O3; his Westside and Coeur d'Alene joins and his Gonzaga majority and concurrence joins require the provision-specific distinctions this ruling preserves. |
 | Thomas | Retain O1-O3; his Verizon Part III and full Westside join resolve the categorical defense without creating a new broad right under every plan provision. |
 | Ginsburg | Retain O1-O3; her actual Westside, Blessing and Coeur d'Alene joins support continuing defined entitlements while retaining individual proof and fitted relief. |
-| Breyer | Retain O1-O3; his Westside join and statute-specific Gonzaga rationale allow manageable defined benefits while preserving practical remedial implementation after proof. |
+| Breyer | Retain O1-O3; his Westside join, Gonzaga majority join and statute-specific Gonzaga concurrence allow manageable defined benefits while preserving practical remedial implementation after proof. |
 
 **Historical departure:** The result matches the Fourth Circuit comparator, but its generalized sovereign-interest analysis is not governing: Coeur d'Alene, Verizon and the now-completed unanimous Westside decision remove that premise. Each Associate's own Westside join supports the specified federal-law and prospective-official conclusions; none is assigned an invented historical Supreme Court vote. No result departure requires a different factual premise.
 
@@ -150,7 +150,7 @@ Thomas delivers the opinion of the Court, joined by Stone-Zsela, Stevens, O'Conn
 
 **Controlling proposition:** Westside Mothers governs the identified mandatory child benefits under 42 U.S.C. §§1396a(a)(10), (43)(A)–(C), 1396d(a)(4)(B) and (r), subject to the applicable eligibility, service, request, screening-discovered need and coverage conditions. Distinct provisions require Blessing's separate individual-right and congressional-foreclosure inquiry; general funding supervision does not supply a comprehensive incompatible individual remedy displacing the established child-benefit claims.
 
-**Controlling explanation:** The defined dental benefits include relief of pain and infections, restoration of teeth, and maintenance of dental health at professionally reasonable and medically necessary intervals. These concrete obligations answer the asserted contract-only and categorical administrative-discretion defenses. Suter and Blessing require attention to each different statutory duty, while Gonzaga's FERPA holding creates no majority general prohibition on rights under funding statutes. The complaint's separate reliance on equal access and quality, statewide operation, promptness, free choice and comparability does not make every cited provision an individual right. Westside resolves its covered child entitlements on their terms; applying those terms to each remaining claimant is ordinary adjudication under settled law.
+**Controlling explanation:** The defined dental benefits include relief of pain and infections, restoration of teeth, and maintenance of dental health at professionally reasonable and medically necessary intervals. These concrete obligations answer the asserted contract-only and categorical administrative-discretion defenses. Suter and Blessing require attention to each different statutory duty, and Gonzaga confirms that a funding statute may secure individual rights when a provision identifies the beneficiary, binds the recipient and states a definite entitlement. The complaint's separate reliance on equal access and quality, statewide operation, promptness, free choice and comparability does not make every cited provision an individual right. Westside resolves its covered child entitlements on their terms; applying those terms to each remaining claimant is ordinary adjudication under settled law.
 
 **Applicable child-benefit conditions:** Medicaid-eligible children under twenty-one receive the following benefits under Westside Mothers.
 
@@ -176,7 +176,7 @@ Thomas delivers the opinion of the Court, joined by Stone-Zsela, Stevens, O'Conn
 - Edelman v. Jordan is applied to distinguish future compliance costs from retrospective compensation.
 - Pennhurst State School and Hospital v. Halderman is distinguished because the asserted duty is federal.
 - Suter v. Artist M. and Blessing v. Freestone retain their provision-specific role for distinct individual-right and foreclosure questions.
-- Gonzaga University v. Doe remains a FERPA holding, not a general funding-statute bar.
+- Gonzaga University v. Doe supplies the governing two-question framework and confirms that funding-statute provisions may secure individual rights.
 
 ## Law After Decision
 

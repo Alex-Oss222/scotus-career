@@ -17,7 +17,7 @@ Status: ready for separate historical reconciliation. No unresolved modeling blo
 
 ## Output hash
 
-SHA-256: `9dde5ef4177318272d76546d6b527f83186229733e4f72f99dfaf45a3ae6088c`
+SHA-256: `940a44c0c5e1f5c44181ca4837bb1e3f0ffdd8d9b2256a4de530c6fb2261c77c`
 
 ## Input hashes
 
@@ -28,7 +28,7 @@ SHA-256: `9dde5ef4177318272d76546d6b527f83186229733e4f72f99dfaf45a3ae6088c`
 | `terms/OT2000/freeze/OT_2000CHUNK3_NEUTRAL_EARLY.md` | `58686f3731d3b4b6606015dbbeefdcd0f7353cb15a3402e4f4a9bb7145f9181b` |
 | `terms/OT2000/freeze/OT_2000CHUNK3_EARLY_NEUTRAL_VALIDATION.md` | `cc521fd6152e9e58068540e960d43d8ffea6f2c356a078450310b7c6f47d00d5` |
 | `terms/OT2000/freeze/OT_2000CHUNK3_GARRETT_CLEAN_VALIDATION.md` | `8e5ca09d075a0ef40f0585ec3f97d2c4c4f77fa7b5be55ca72e6ec1406c10172` |
-| `terms/OT2000/entering-law/OT_2000CHUNK3_EARLY.md` | `641ff504d3e6f9e5cfc8c827f6ba0a5e6e8bcd9428c602efb12f8594fc8b2753` |
+| `terms/OT2000/entering-law/OT_2000CHUNK3_EARLY.md` | `9842a4ad0ae8e673cc4e3ba4965d304418113b6327569a2226f42bdf81f06c7a` |
 | `terms/OT2000/entering-law/OT_2000CHUNK3_EARLY_SUPPLEMENT.md` | `bc884d11a8875d21399b7bf4e063048d8e1669f2428ef071bc97f90d64579a74` |
 | `terms/OT2000/entering-law/OT_2000CHUNK3_GARRETT_EQUAL_PROTECTION.md` | `a65554da92640b3e7101a9ac4ea497cbd433f245a09a57bfbf694e653031ce72` |
 | `terms/OT2000/sources/chunk3-early/prior_public_renders.md` | `692103a3205071c17b8b358a52b6da29050fef09e7c6266c995b7839fc9d2e8c` |

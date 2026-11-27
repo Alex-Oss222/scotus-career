@@ -44,7 +44,7 @@ Sections 1320a-2 and 1320a-10 remove state-plan placement as a categorical obsta
 
 The complete official Wright report, 479 U.S. 418, and Wilder report, 496 U.S. 498, including all separate writings and footnotes, were read. Primary URLs are https://www.govinfo.gov/content/pkg/USREPORTS-479/pdf/USREPORTS-479-418.pdf and https://www.govinfo.gov/content/pkg/USREPORTS-496/pdf/USREPORTS-496-498.pdf. Stevens's actual majority joins, O'Connor's Wright dissent joined by Scalia, and the Wilder dissent joined by O'Connor, Scalia and Kennedy supply specific competing understandings of the congressional entitlement. No Justice receives a vote in a case before joining the Court.
 
-The authorized public priors supply unanimous Blessing and Scalia's concurrence joined by Kennedy; Thomas's four-Justice Gonzaga lead joined by O'Connor, Scalia and Kennedy; Breyer's Gonzaga concurrence joined by Souter; and the Gonzaga dissent joined by Stevens and Ginsburg. Supplied Suter and Bruneau holdings supplement those actual positions. The completed Rancho and Dotson public opinions supply each Associate's fresh same-term join. No historical general Gonzaga formula is substituted for its actual fractured in-world result.
+The authorized public priors supply unanimous Blessing and Scalia's concurrence joined by Kennedy; Stevens's Gonzaga opinion for the Court joined by Stone-Zsela, Souter, Ginsburg and Breyer; Breyer's Gonzaga concurrence joined by Souter; and Thomas's Gonzaga dissent joined by O'Connor, Scalia and Kennedy. Supplied Suter and Bruneau holdings supplement those actual positions. The completed Rancho and Dotson public opinions supply each Associate's fresh same-term join. No historical general Gonzaga formula is substituted for its actual in-world result.
 
 All eight commitments address four distinct components, with each Justice's concrete own sources, a lawful adverse path, strongest objection, join barriers and remedy. The asserted statutory payment and timing rights are tested separately from a requested placement or service arrangement. The remedial scheme is compared in combination rather than inferred from the program label. Scalia and Kennedy's original-meaning reservation remains reserved; it is not turned into a categorical rule contrary to their full Blessing join. No author is selected.
 
@@ -58,12 +58,12 @@ Source and chronological preflight is complete. The precise remaining adjudicati
 
 The following SHA-256 values identify the actual authorized input and principal verification bytes used at finalization. Paths are relative to the term folder. The March 7 value reflects the regenerated completeness-expanded version.
 
-- `runtime/OT_2004CHUNK5_NEUTRAL_C.md`: `78e3063511e21097aedae65752a8c5284c66163719990cedc0159fd04d90cee6`
-- `entering-law/OT_2004CHUNK5_C.md`: `83e6b67e18a925195178508622de6787f856d44bee544fe8e88c1e29198d3818`
-- `entering-law/OT_2004CHUNK5_C_PUBLIC_PRIORS.md`: `0d1436030ea27a3620ef5d268331825aeb84f7d73e53a4ed7ade0879bf7412b9`
+- `runtime/OT_2004CHUNK5_NEUTRAL_C.md`: `90281847f044a0a507607fad37214c724c0add00e042203febe1b76e13e32995`
+- `entering-law/OT_2004CHUNK5_C.md`: `5690e997e256531c524874db9dda44f4f92017d4f8d4cb86d1dd4eda67ba30e7`
+- `entering-law/OT_2004CHUNK5_C_PUBLIC_PRIORS.md`: `6eca373cb1e0ef5472d400fff70d4a9497c7f1a9e478b90a679712e573b2a6da`
 - `entering-law/OT_2004CHUNK5_CURRENT_PUBLIC.md`: `c55562c025df67f565b67e99a026d3c9344e9a7a21d36ae8591abcbe216528d3`
 - `entering-law/OT_2004CHUNK5_MARCH7_PUBLIC.md`: `913cbc1a9fb06d0693f5fedd521bf2b63b59a1b12e8e44267ac3972327019a3b`
-- `entering-law/OT_2004CHUNK5_MARCH22_PUBLIC.md`: `b96f2894dd8cc9ec05578d20fcf1f4f3385e5f242cc65971b3c9cbb465f7bfd8`
+- `entering-law/OT_2004CHUNK5_MARCH22_PUBLIC.md`: `3bab61042ef010d826149b58a96ee8381a9e0032b21c2a455f0e42656f675a8a`
 - `workspace/neutral-projection.md`: `467c56f74eb24cd434076dfb14b630dde2e74ec260dbe49d8f845bd31f06a7c3`
 - `research/chunk5-c/sabree_ca3.pdf`: `19954555b462cb3d12c60b4ec6a08bf1e2cced210931cc340f31e3a8bb641dc7`
 - `research/chunk5-c/sabree_ca3.txt`: `29fa373b649a3cd8966372a6c960f6c0f5c562274f159dc9503d09aa1efd3e4e`

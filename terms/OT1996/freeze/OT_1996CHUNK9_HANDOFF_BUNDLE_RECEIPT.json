@@ -4,13 +4,13 @@
     {
       "frozen_bundle": "terms/OT1996/freeze/OT_1996CHUNK9_COMMITMENTS.md",
       "working_copy": "terms/OT1996/runtime/OT_1996CHUNK9_COMMITMENTS.md",
-      "sha256": "1044c1aaf59b28d83449fea7f718aa8dc9a3cfe3666b4bc719a4376268e94b62",
-      "working_sha256": "0afa5956f8ab002fc8b4e1b36781eae0a6e118cc31e425af12a03ae31173dfbc",
+      "sha256": "3007113f2e588f21d667b52efedeb045998b34c86181f6cf0b98dc162b6902d3",
+      "working_sha256": "1123bc7a47a4985d40877a78c7d72c0c79d83657a04dec6128d25eedc2a8f577",
       "working_copy_transform": "Relative Markdown links rebased mechanically to the same target; substantive text unchanged.",
       "copied_inputs": [
         {
           "file": "terms/OT1996/freeze/OT_1996CHUNK9_COMMITMENTS_96.md",
-          "sha256": "a5f74e4e2705fdf434a98af26ca1eac8ee42d8676f99a0cf1a8804b2442784fc"
+          "sha256": "32a7d5d0d08dc5f9cd5adbf19db69597402b0a48e900ef7aa8f718af47ae1eee"
         },
         {
           "file": "terms/OT1996/freeze/OT_1996CHUNK9_COMMITMENTS_97.md",
@@ -65,13 +65,13 @@
     {
       "frozen_bundle": "terms/OT1996/freeze/OT_1996CHUNK9_RECONCILED.md",
       "working_copy": "terms/OT1996/runtime/OT_1996CHUNK9_RECONCILED.md",
-      "sha256": "121b7acee389c107fd0dc21ac73853519be53ee47352ecf13df5bc533128f8b3",
-      "working_sha256": "ab8a7cfd82bf1f6fcb8c659d0e43ed6ed482bf7ce8ce7081c6d1112d4e0a8b5c",
+      "sha256": "73ec7a39a0424fc113f7cec67383a36884452503a5fca493e756d7865e407894",
+      "working_sha256": "c0041dcc31e40859e61cb27e71d1f8a662d27de4c8f560cffb9e80e095bf4b68",
       "working_copy_transform": "Relative Markdown links rebased mechanically to the same target; substantive text unchanged.",
       "copied_inputs": [
         {
           "file": "terms/OT1996/freeze/OT_1996CHUNK9_RECONCILED_96.md",
-          "sha256": "409e2e3c7251a5aa0278e5df275b4c4718d2b72c8af4648c3783595452d32134"
+          "sha256": "eddf894d973858b4b0800e2d8d5c473443a84ce5d935a537ac9fcbf45c558b04"
         },
         {
           "file": "terms/OT1996/freeze/OT_1996CHUNK9_RECONCILED_97.md",

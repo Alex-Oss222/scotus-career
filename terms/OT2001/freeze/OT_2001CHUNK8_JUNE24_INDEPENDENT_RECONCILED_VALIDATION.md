@@ -15,7 +15,7 @@ Entering-law review covered the selected operative PRE, commercial-speech, confi
 - All four matters have eight distinct Associate rows and no assigned author or Stone vote.
 - BE&K: eight reverse/remand; four full statutory-avoidance positions; four limited concurrence positions; Scalia and Thomas preserve the additional prospective objective-gate position. Bill Johnson's treatment is not attributed unanimously.
 - Trans Union: eight confined affirmance positions; no Supreme Court merits comparator invented; the different U.S. West premises for Stevens and Kennedy and Thomas's broader speech reservation are preserved.
-- Ruiz: eight reverse; seven complete common-rationale joins; Thomas's trial-function rationale is separate. Section 3742 jurisdiction, impeachment, affirmative-defense context and sentencing consequence remain distinct.
+- Ruiz: four affirm on the confined floor (Stevens, Souter, Ginsburg, Breyer) and four reverse (O'Connor, Scalia, Kennedy, Thomas); all eight accept the section 3742 inquiry and reject a universal impeachment duty; Thomas's trial-function rationale is separate. Section 3742 jurisdiction, impeachment, the affirmative-defense term and floor, and sentencing consequence remain distinct.
 - Kirk: all eight provisional vacaturs expressly replaced by reversal/remand after remedy-specific assessment; no exigency, independent-source or final suppression finding is added.
 - No unsupported historical departure is adopted. No new record fact is imported from comparator research. The Ruiz existing-disclosure representation and precise Trans Union prescreening conditions are specifically identified as requiring clean refresh if used as new material premises.
 - The four narrow dispositions remain ready; unperformed downstream assignment, final coalition, Record, projection, render and term-wide checks are not certified here.
@@ -29,10 +29,10 @@ The four input hashes were verified unchanged against the identities captured du
 | Artifact | SHA-256 |
 |---|---|
 | freeze/OT_2001CHUNK8_JUNE24_INDEPENDENT_NEUTRAL.md | b5928f98cdb486560487a79e0260e26317985a06250ffbf3b81e8a44c52f1743 |
-| freeze/OT_2001CHUNK8_JUNE24_INDEPENDENT_COMMITMENTS.md | 9261d5756080a9e14373ae2bad69c5cdf064e126517857e6a92bfaa203d3caff |
+| freeze/OT_2001CHUNK8_JUNE24_INDEPENDENT_COMMITMENTS.md | d855bd54b3d481b90d80c3c513a301a3a1d3b2c0ddd127f8c81447d76f8ecd56 |
 | entering-law/OT_2001CHUNK8_JUNE24_INDEPENDENT_ENTERING_LAW.md | 11c62c46b60202f9c8e7203d4efb762960ffd66248b17b6107fc4bbed8d841ab |
 | runtime/OT_2001CHUNK8_JUNE24_INDEPENDENT_COMPARATOR.md | 7848ce268e0078cecd857644f93fd9414d04d858a5f4c929aa8198379bc21f75 |
-| freeze/OT_2001CHUNK8_JUNE24_INDEPENDENT_RECONCILED.md | d217ff11909fd8eef1853f49d7de3a7fb6f428f16d096eb5c6e02b6d9005d8e4 |
-| runtime/OT_2001CHUNK8_JUNE24_INDEPENDENT_RECONCILED.md | d217ff11909fd8eef1853f49d7de3a7fb6f428f16d096eb5c6e02b6d9005d8e4 |
+| freeze/OT_2001CHUNK8_JUNE24_INDEPENDENT_RECONCILED.md | aa64de7ba963c5e2b7ca2f8526d2d9c47d25382f96fd8af5cb4242240ac788b3 |
+| runtime/OT_2001CHUNK8_JUNE24_INDEPENDENT_RECONCILED.md | aa64de7ba963c5e2b7ca2f8526d2d9c47d25382f96fd8af5cb4242240ac788b3 |
 
 The frozen handoff is authoritative over its runtime copy. This receipt certifies only the checks actually described above.

@@ -62,11 +62,11 @@ The merits event is completed; the underlying action returns for ordinary adjudi
 
 Assembly used only the authorized frozen neutral/reconciled and entering-law handoffs, the exact Stone extracts and copy receipts for matters 72 and 73, and actual opinion-topology assignment sources. Both reconciled freezes preceded those disclosures. No raw comparator, approved brief, unrelated or later Stone, or top-level stone material was read. The Kadic/Doe Record entered only the fresh assignment count and supplied no entering law. No Git command or provenance assertion is made. The bounded Record is durably written before any later assignment may count it. Local validation checks the header, eleven blocks, explanation ceilings, direct support and hashes; root performs coordinated term/projection checks. No unresolved substantive blocker is identified.
 
-- `freeze/OT_1996CHUNK7_72_NEUTRAL.md` — SHA-256 `71265caada20bb6f6e2e40edd09e0753d3661b4fcb3c8237285fdf276a19d35c`.
+- `freeze/OT_1996CHUNK7_72_NEUTRAL.md` — SHA-256 `c10a183158b7960df5381338ddceb9939855cc232a84670646c8145e403fd1d7`.
 - `freeze/OT_1996CHUNK7_72_RECONCILED.md` — SHA-256 `7a0c675229e4c0e1ec4a945a11644c1c3d3d2ef74551ec4126a809880251d5ad`.
 - `runtime/OT_1996CHUNK7_72_STONE.md` — SHA-256 `e036cf1843861a5d68ccde43d81d1a9c539dc8568f0000482a7711ce219c2101`.
 - `freeze/OT_1996CHUNK7_72_STONE_COPY_RECEIPT.json` — SHA-256 `d8c34d1da4cdb2e964d1e1abd1f367e2a4d2c834908eccc231f76cbcfc9e14ba`.
-- `entering-law/OT_1996CHUNK7_72_ENTERING_LAW.md` — SHA-256 `fe5d51d824f266cf2d49bdfe0ff6c20151fa5f7790c206f099c5029dd81f051d`.
+- `entering-law/OT_1996CHUNK7_72_ENTERING_LAW.md` — SHA-256 `f21ed09ccb1fb6378a3595b1da20155bc174b500486d1024af7983bf17c17b06`.
 - `freeze/OT_1996CHUNK7_72_ASSIGNMENT_RECOUNT.json` — SHA-256 `5a8e15688a6d3044ac2a83355232c0f3f7f70aed3cbeff29fe9441c01ce26612`.
 
 ## Public Projection

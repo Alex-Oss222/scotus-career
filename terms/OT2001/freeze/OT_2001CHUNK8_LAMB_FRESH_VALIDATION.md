@@ -22,7 +22,7 @@ Meaningful chosen association and effective candidate-connected advocacy remain 
 
 Independently re-extracted all 110 enumerated prior signed-lead credits from public opinion tables: Stone-Zsela 11; Stevens, O'Connor, Scalia, Kennedy and Thomas 12 each; Souter, Ginsburg and Breyer 13 each. Date/alphabetical eligibility and last event Hope agree. All nine are eligible; the six-member minimum-plus-one pool properly excludes the three at 13. Form precedes assignment. Stone's self-assignment has the stated Day/interest-fit-remedy basis and fairly compares O'Connor; no author change is required.
 
-All eleven blocks remain ordered. The current public projection is exact in the per-case public-law copy; current Record and public digests match local validation. Source hashes are unchanged and explanations remain within the ordinary ceiling. The immutable baseline remains `6cb1bd0339af44a23a47d02ea0e3ed153241a6a14a8bc549bd9d9e13619b52a4`.
+All eleven blocks remain ordered. The current public projection is exact in the per-case public-law copy; current Record and public digests match local validation. Source hashes are unchanged and explanations remain within the ordinary ceiling. The immutable baseline remains `6a5299bf829732137a2a9d23eacc13f3f9d96f31f2f2459e71ce550943adc741`.
 
 ## Initial finding and resolution
 

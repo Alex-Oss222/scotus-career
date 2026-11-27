@@ -78,13 +78,13 @@ These hashes identify complete input bytes; the prior public-law files were cons
 | Input, relative to the term | SHA-256 |
 |---|---|
 | `freeze/OT_2000CHUNK4_COMMITMENTS_EGELHOFF.md` | `914bb28ff8fae005b5188e45758f64803148410248cf111464f8de40886c91ad` |
-| `freeze/OT_2000CHUNK4_EGELHOFF_NEUTRAL_REFRESH.md` | `b2a8ecb6265921d0d22cf2cd740620d5c89ff8ca13d395afd745d87c452f2fbd` |
+| `freeze/OT_2000CHUNK4_EGELHOFF_NEUTRAL_REFRESH.md` | `455454d539ccf5d01897deaa9951378df29bbda3a29f957ed7eb9312da780613` |
 | `runtime/OT_2000CHUNK4_EGELHOFF_PLAN_RETURN.md` | `af118ccbf61f02e98af5d9eb88ce9459a38c3c4c59c42a7c28f30a7ad477d874` |
 | `runtime/OT_2000CHUNK4_EGELHOFF_STATUTE.md` | `5142fcfc2aac62bff17cf338380a15b9d87e98bc412a2e29a29094f008347af7` |
 | `runtime/OT_2000CHUNK4_TARGETED_SOURCE_FACTS.md` | `b680b7e8714f2042b15af4518d4317f2eb18930abf6afc129577c21243f7ab10` |
 | `freeze/OT_2000CHUNK4_TARGETED_NEUTRAL_VALIDATION.md` | `cf5a77fd52d2185ce2d13f1d3c826cb670b116bfa093e64eebc5e09110305428` |
 | `entering-law/OT_2000CHUNK4_EFFECTIVE_BEFORE_2001-03-21.md` | `6820ad66a205235c1e067b32b7d13e5258c640331de84a83f689e1ebf40b284a` |
 | `entering-law/OT_2000CHUNK4_EARLY_LABOR_AND_EMPLOYMENT.md` | `83e660cd56da976431794a82c329540a01ad74444f31b3ded043f9f0d4dfab64` |
-| `entering-law/OT_2000CHUNK4_EARLY_PRIOR_PUBLIC.md` | `42e774413626e7d9bdd62cfa9beda4cd526ed144aca6edf93d3240ec6d20fb65` |
+| `entering-law/OT_2000CHUNK4_EARLY_PRIOR_PUBLIC.md` | `2feaac756adc271a9fe51a292e0341dec344c1848132f6c98d01a9c096e00181` |
 
 Validation completed: eight distinct Associate rows; original affected-case and combined handoff hashes unchanged; no absolute machine path or remote-repository URL in this additive output. These checks establish consistency and preservation, not the merits.

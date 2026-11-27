@@ -17,7 +17,7 @@
 | 2002-06-20 | Christopher v. Harbury | Merits decision | Reversed and remanded for dismissal of the access count; surviving tort claims proceed. |
 | 2002-06-20 | City of Columbus v. Ours Garage & Wrecker Service, Inc. | Merits decision | Reversed and remanded for ordinance-specific delegation, safety and preemption analysis. |
 | 2002-06-20 | Dadian v. Village of Wilmette | Merits decision | Accommodation judgment, driveway-permit injunction and denial of post-trial relief affirmed. |
-| 2002-06-20 | Gonzaga University v. Doe | Merits decision | FERPA-based federal judgment reversed and remanded; independent state-law judgments intact. |
+| 2002-06-20 | Gonzaga University v. Doe | Merits decision | Affirmed on the reviewed question; FERPA's nondisclosure right is enforceable through Section 1983; state action and independent state-law judgments undisturbed. |
 | 2002-06-20 | Page v. Bartels | Summary disposition on direct appeal | Final denial of injunctive relief affirmed on Counts I–IV. |
 | 2002-06-20 | Robertson v. Bartels | Summary disposition on direct appeal | Denial of relief affirmed on Counts I and II on independent merits grounds; Count III unaffected. |
 | 2002-06-20 | Rush Prudential HMO, Inc. v. Moran | Merits decision | Benefits judgment for Moran affirmed; no further merits proceedings ordered. |
@@ -967,53 +967,88 @@ All nine Justices participated.
 
 #### Judgment
 
-**FERPA-based federal judgment reversed and remanded, 6–3; independent state-law judgments remain intact.**
+**Affirmed, 5–4, on the reviewed question; FERPA's nondisclosure provision secures an individual right enforceable through Section 1983; state action and the independent state-law judgments are undisturbed.**
 
-**Supporting:** O'Connor, Scalia, Kennedy, Souter, Thomas, Breyer.
+**Supporting:** Stone-Zsela, Stevens, Souter, Ginsburg, Breyer.
 
 
-**Opposing:** Stone-Zsela, Stevens, Ginsburg.
+**Opposing:** O'Connor, Scalia, Kennedy, Thomas.
 
 #### Opinions
 
-THOMAS, J., announced the judgment of the Court and delivered an opinion, in which O'CONNOR, SCALIA, and KENNEDY, JJ., joined. BREYER, J., filed an opinion concurring in the judgment, in which SOUTER, J., joined. STONE-ZSELA, C. J., filed a dissenting opinion, in which STEVENS and GINSBURG, JJ., joined.
+STEVENS, J., delivered the opinion of the Court, in which STONE-ZSELA, C. J., and SOUTER, GINSBURG and BREYER, JJ., joined. BREYER, J., filed a concurring opinion, in which SOUTER, J., joined. THOMAS, J., filed a dissenting opinion, in which O'CONNOR, SCALIA and KENNEDY, JJ., joined.
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
-| Opinion announcing the judgment | Thomas | O'Connor, Scalia, Kennedy | Reverses the FERPA-based judgment | Institution-directed no-right analysis; four Justices |
-| Concurrence in the judgment | Breyer | Souter | Agrees in reversal | FERPA-specific absence of the asserted enforceable entitlement; no new general formula |
-| Dissent | Stone-Zsela | Stevens, Ginsburg | Would affirm federal enforceability | Defined nondisclosure entitlement enforceable through Section 1983, subject to statutory and independent predicates |
-
-No opinion commands a majority.
-
-**The four-Justice lead opinion.** Thomas, joined by O'Connor, Scalia, Kennedy, reads FERPA's policy-or-practice funding condition as an institutional obligation administered through federal oversight rather than the asserted individual nondisclosure entitlement. Mandatory wording, identified records and consent instructions do not alone change that statutory object. Blessing requires a particular individual right; Bruneau preserves Section 1983 once that right is established but does not create it here. This analysis does not make funding statutes categorically unenforceable, treat absence of an implied action as dispositive, or establish automatic administrative foreclosure. Breyer and Souter agree with the judgment under their narrower explanation and do not join the lead opinion.
+| Opinion of the Court | Stevens | Stone-Zsela, Souter, Ginsburg, Breyer | Affirms on the reviewed question | Parts I–V: the two-question Section 1983 inquiry, the individual-entitlement factors, FERPA's nondisclosure right with its policy-or-practice element, compatibility of the administrative scheme, and the reservation of state action and remedies |
+| Concurrence | Breyer | Souter | Joins the opinion and the affirmance | Statute-specific character of the holding; centralized administration informs the content of the duty without displacing Section 1983 |
+| Dissent | Thomas | O'Connor, Scalia, Kennedy | Would reverse the FERPA-based judgment | Institution-directed no-right analysis |
 
 #### Holdings
 
-##### These FERPA nondisclosure provisions do not support the asserted Section 1983 claim
+##### I. Section 1983 asks whether Congress created the right and whether it excluded the remedy
 
-**Holding and operative rule:** FERPA's education-record nondisclosure provisions do not establish the individual judicially enforceable entitlement asserted in this Section 1983 action. The FERPA-based federal judgment must therefore be reversed; the state-action determination, excluded from review, and independent state-law judgments are unaffected.
+**Holding and operative rule:** Section 1983 supplies the cause of action for rights secured by federal statutes. The claimant must show that Congress created the asserted individual right; the defendant may then show that Congress excluded the Section 1983 remedy, expressly or through a comprehensive remedial scheme incompatible with individual enforcement. A right so shown is presumptively enforceable. No separate showing that Congress intended to create a private remedy is required, and the standards for implying an action directly from a statute do not govern a Section 1983 claim.
 
-**Authority:** Six Justices agree on this statute-specific conclusion. Thomas's lead opinion is joined by O'Connor, Scalia, Kennedy; Breyer, joined by Souter, concurs in the judgment on the separate FERPA-specific explanation below. No majority adopts a new general formula equating a statutory right with intent to create a private remedy.
+**Authority:** Part I of Stevens's opinion of the Court, joined by Stone-Zsela, Souter, Ginsburg and Breyer; five direct votes. Breyer, joined by Souter, also concurs. Thomas, joined by O'Connor, Scalia and Kennedy, dissents.
 
-**Controlling explanation:** Section 1983 requires an individual federal right, not merely an asserted statutory violation. Six Justices conclude that these FERPA provisions do not establish the individual judicially enforceable entitlement asserted here, so this federal component cannot stand. Their agreement does not extend to one general formula for finding statutory rights or to a single full explanation of this statute. The four-Justice lead and the two-Justice concurrence supply their own reasons, stated separately. The holding concerns these nondisclosure provisions; it neither categorically excludes funding legislation nor makes the absence of an implied statutory action dispositive. Because this threshold fails, a separate damages ruling is unnecessary.
+**Controlling explanation:** Section 1983 is itself the remedy Congress enacted for deprivations of rights secured by the laws, as Thiboutot holds. Blessing states the two inquiries: whether the particular provision creates an individual right, and whether Congress foreclosed the enacted channel. Livadas separates the right from its enforcement in the same way. Requiring a claimant also to prove that Congress meant to create a private remedy would ask again a question Congress answered when it enacted Section 1983, and would merge right creation into the different inquiry that governs actions implied from a statute's own text. Powell and Sandoval decide direct statutory routes under Title VI; whether FERPA itself supplies such a route does not answer whether it creates a right that Section 1983 enforces. Placing the exclusion showing on the defendant follows Blessing's holding that general oversight does not alone foreclose an established right.
+
+##### II. An individual right rests on identified beneficiaries, a binding obligation and definiteness
+
+**Holding and operative rule:** A statute creates an individual right when its text, structure and operation show a binding obligation that protects an identifiable person or defined class and gives that protection sufficiently definite content for judicial enforcement. The factors are identified beneficiaries, a binding rather than precatory obligation, and definiteness. Grammatical form is relevant but not controlling: a provision addressed to a funding recipient or to the administering agency, or framed as a condition on or prohibition of federal funding, can secure an individual entitlement when those factors are met. A general benefit, a beneficial purpose, a mandatory directive alone or an aggregate standard of institutional performance does not create a right.
+
+**Authority:** Part II of Stevens's opinion of the Court; the same five direct votes.
+
+**Controlling explanation:** These factors restate Blessing's provision-specific inquiry; they do not replace it with a general statutory-benefit test. Wright and Wilder found rights in funding legislation directed to recipients, and Blessing applied the same inquiry to a funding statute's particular commands while rejecting a claim to programwide adequacy. Suter's reasonable-efforts holding, Blessing's rejection of substantial compliance and Powell's rejection of a regulation-created effects right mark the limits: aggregate measures, and obligations Congress did not itself confer, do not become rights. A funding condition binds a recipient that accepts the funds on clear notice of its terms, as Pennhurst requires. When the condition protects a defined person and states a definite duty, its funding form does not make that person an incidental beneficiary.
+
+##### III. FERPA secures freedom from unauthorized disclosure through a prohibited policy or practice
+
+**Holding and operative rule:** 20 U.S.C. §1232g(b) secures to each student, and to the student's parents while the consent rights remain theirs, an individual right to freedom from unauthorized disclosure of the student's education records, or of personally identifiable information from them, through a recipient institution's policy or practice of permitting such disclosure. The policy-or-practice requirement is part of the right, so an isolated employee's mistake does not violate it. Consent, the statutory exceptions, coverage under the maintained-record definition and the nature of the information remain decisive.
+
+**Authority:** Part III of Stevens's opinion of the Court; the same five direct votes.
+
+**Controlling explanation:** The provision identifies the protected person, the student whose records are at issue. It specifies the protected subject: records directly related to that student and maintained by the institution or a person acting for it, as Owasso holds. And it makes written consent, an individualized choice, the condition of release apart from enumerated exceptions. Consent rights pass from the parent to the student upon reaching eighteen or attending a postsecondary institution. The prohibition is mandatory and its terms are judicially manageable: courts can decide whether information came from a covered record, whether consent was given and whether an exception applies. The policy-or-practice phrase limits the wrong to institutional conduct; it does not turn the protected student into an incidental beneficiary of aggregate administration. Unlike Blessing's substantial-compliance measure, the provision does not grade institutional performance across a population; it forbids a practice of releasing a particular student's records without consent. Whether a disclosure reflects a policy or practice is an element the claimant must prove.
+
+##### IV. FERPA's administrative scheme is not incompatible with Section 1983
+
+**Holding and operative rule:** Congress has not excluded Section 1983 enforcement of §1232g(b). FERPA contains no express exclusion, and its administrative complaint process and funding-termination sanction are relevant but not incompatible with individual enforcement: the sanction operates on the institution and gives the injured student no individual relief, and the complaint process supplies no individual remedy that a Section 1983 action would bypass.
+
+**Authority:** Part IV of Stevens's opinion of the Court; the same five direct votes.
+
+**Controlling explanation:** Blessing holds that federal audits, compliance plans and funding sanctions do not alone foreclose an established right, and Bruneau holds that Title IX's identified right is not displaced by its administrative funding process or its implied action. Under §1232g(f) and (g), the Secretary investigates and adjudicates complaints, seeks voluntary compliance and may terminate funds. That machinery awards the student nothing and imposes no filing condition that a Section 1983 action would evade. The incompatibility found in Sea Clammers and Smith v. Robinson rested on comprehensive remedial schemes that gave individuals their own route for the claim; FERPA has none. Centralized administration remains important to the content of FERPA's obligations, and the Secretary's interpretations continue to inform what the statute requires; they do not show that Congress withdrew the remedy it enacted.
+
+##### V. State action and particular remedies are reserved
+
+**Holding and operative rule:** Receipt of federal funds is not itself state action, and the right recognized here does not make it so. Whether this recipient's employee acted under color of state law is outside the grant, and the Washington courts' determination is undisturbed. Compensatory damages, punitive damages and equitable relief each keep their own conditions; the Court calculates no damages and adopts no punitive-damages rule.
+
+**Authority:** Part V of Stevens's opinion of the Court; the same five direct votes.
+
+**Controlling explanation:** The grant excludes state action, so the Court assumes the determination below only for the reviewed question. FERPA's coverage of private recipients defines the duty; it does not make every recipient a state actor, and Rendell-Baker and Blum hold that public support alone does not make a private institution's act governmental. The measure and availability of each remedy follow Section 1983's own law and the record of a case; Barnes's construction of incorporated Title VI remedies does not decide a distinct Section 1983 remedy. No preserved challenge to the sufficiency of the policy-or-practice showing, or to the jury charge on it, is before the Court.
 
 #### Precedent Treatment and Current Law
 
-- Blessing v. Freestone, April 21, 1997: applied through the particular asserted statutory entitlement, not a generalized interest in sound administration.
-- Suter v. Artist M., March 25, 1992: its provision-specific distinction between enforceable entitlement and institutional obligation remains effective.
-- Bruneau v. South Kortright Central School District, June 3, 1999: an established individual Title IX right remains enforceable through Section 1983 absent incompatible displacement; that established right does not create a missing FERPA right.
-- Owasso Independent School District No. I-011 v. Falvo, February 19, 2002: its definition of education records remains; it did not resolve private enforcement.
-- Powell v. Ridge, April 3, 2000, and Alexander v. Sandoval, April 24, 2001: their distinct regulation and statutory-channel holdings are not substituted for the right-creation inquiry here.
-- Barnes v. Gorman, June 17, 2002: its incorporated remedial channels do not supply a Section 1983 damages ruling in this threshold disposition.
+- Maine v. Thiboutot, 448 U.S. 1 (1980): reaffirmed; Section 1983 enforces rights secured by federal statutes.
+- Wright v. Roanoke Redevelopment and Housing Authority, 479 U.S. 418 (1987), and Wilder v. Virginia Hospital Association, 496 U.S. 498 (1990): reaffirmed; funding legislation can secure individual entitlements.
+- Livadas v. Bradshaw, June 13, 1994: reaffirmed; the federal right and the Section 1983 channel are identified separately.
+- Blessing v. Freestone, April 21, 1997: reaffirmed and applied; its three factors are restated, and its presumption of enforceability governs.
+- Suter v. Artist M., March 25, 1992: its provision-specific holdings remain effective.
+- Bruneau v. South Kortright Central School District, June 3, 1999: applied; administrative funding enforcement and an implied action do not alone displace an established right. Its statutory holding is not enlarged.
+- Owasso Independent School District No. I-011 v. Falvo, February 19, 2002: its maintained-record definition governs coverage; the private-enforcement question it reserved is answered for §1232g(b).
+- Powell v. Ridge, April 3, 2000, and South Camden Citizens in Action v. New Jersey Department of Environmental Protection, May 28, 2002: their holding that a regulation cannot create an individual right absent from the statute stands and is not reconsidered; this right arises from FERPA's text.
+- Alexander v. Sandoval, April 24, 2001: its Title VI direct-action holding is preserved; whether FERPA supplies a direct action does not answer the Section 1983 question.
+- Pennhurst State School and Hospital v. Halderman, 451 U.S. 1 (1981): its clear-notice requirement is satisfied by FERPA's express nondisclosure condition.
+- Middlesex County Sewerage Authority v. National Sea Clammers Association, 453 U.S. 1 (1981), and Smith v. Robinson, 468 U.S. 992 (1984): distinguished; FERPA supplies no comprehensive individual remedy.
+- Rendell-Baker v. Kohn, 457 U.S. 830 (1982), and Blum v. Yaretsky, 457 U.S. 991 (1982): preserved; public funding alone is not state action.
+- Barnes v. Gorman, June 17, 2002: its incorporated Title VI remedial holding decides no Section 1983 remedy here.
 
-The asserted FERPA nondisclosure claim cannot proceed through Section 1983 because these provisions do not establish the required judicially enforceable entitlement. Existing law continues to distinguish right creation, the enacted Section 1983 channel, implied statutory actions and incompatible remedial displacement. No broader rights formula commands five votes in this decision.
+Section 1983 enforces an individual right that Congress created unless Congress excluded the remedy; the right, once shown, is presumptively enforceable, and no separate intent to create a private remedy is required. An individual right requires identified beneficiaries, a binding obligation and sufficiently definite content; grammatical form, including framing as a funding condition, is relevant but not controlling. FERPA §1232g(b) secures a student's right to freedom from unauthorized disclosure of education records through a recipient's policy or practice; the policy-or-practice element is part of the right, and consent, the exceptions and Owasso's maintained-record coverage control. FERPA's administrative scheme does not foreclose Section 1983. Receipt of federal funds is not state action, and state action and each remedy keep their own conditions. A regulation still cannot create a right absent from the statute.
 
 #### Separate Writings
 
-**Breyer, concurring in the judgment, joined by Souter.** This statute's broad education-record coverage, uncertain reach in practical administration and institutional policy-or-practice structure do not establish the asserted judicially enforceable privacy entitlement. That FERPA-specific conclusion is sufficient. A new general demand for language proving intent to authorize a private remedy would blur the separate question whether Congress already supplied enforcement through Section 1983. Administrative consistency informs the interpretation of this particular obligation; it does not independently extinguish a right already found.
+**Breyer, concurring, joined by Souter.** Breyer joins the Court's opinion in full. The decision is statute-specific: FERPA's identified records, as Owasso's maintained-record definition confines them, its individualized consent, its enumerated exceptions and its institutional policy-or-practice element give courts a definite duty to enforce. Those terms, not a presumption that every funding condition creates rights, decide the case. Centralized administration keeps its place: the Secretary's interpretations and complaint process inform what the statute requires and promote consistent compliance, and courts applying the right should give them appropriate weight. That role bears on the content of the obligation; under Blessing and Part IV, it does not displace the remedy Section 1983 supplies. The policy-or-practice element confines private enforcement to institutional conduct, so courts are not asked to review each isolated administrative error.
 
-**Stone-Zsela, dissenting, joined by Stevens and Ginsburg.** FERPA identifies covered records, persons whose consent controls and authorized disclosures. Under Blessing, those terms define a manageable personal privacy entitlement. The policy-or-practice condition limits the violation; it does not make the student merely an incidental beneficiary. The protected education records contain information directly related to a student and are maintained by the institution or a person acting for it. Consent rights pass from the parent to the student upon reaching eighteen or attending a postsecondary institution. A claimant must still establish the required institutional policy or practice and an unauthorized disclosure under the enacted exceptions, together with Section 1983's independent predicates; the dissent does not decide any disputed statutory violation beyond the granted enforceability issue. Central correction and funding sanctions neither expressly exclude that channel nor supply an incompatible individual remedial substitute. Unlike Powell's regulation-created claim, the asserted entitlement arises from the statute. Sandoval addresses a different direct enforcement route; the absence of an implied FERPA action does not defeat Congress's existing Section 1983 remedy. State action is assumed solely within the grant limit. The dissent would affirm the federal enforceability ruling without adding damages or reopening state-law awards.
+**Thomas, dissenting, joined by O'Connor, Scalia and Kennedy.** FERPA's policy-or-practice funding condition directs an institutional obligation administered through federal oversight rather than conferring the asserted individual nondisclosure entitlement. Mandatory wording, identified records and consent directions do not alone change that statutory object. Blessing requires a particular individual right; Bruneau preserves Section 1983 once such a right is established but does not create one here. The dissent would reverse the FERPA-based federal judgment and leave the independent state-law judgments intact. It does not make funding statutes categorically unenforceable, treat the absence of an implied action as dispositive or rest on automatic administrative foreclosure, and it does not reach state action or damages.
 
 #### Source Notes
 
@@ -1021,7 +1056,7 @@ Gonzaga University v. Doe, 143 Wash. 2d 687, 24 P.3d 390 (2001); 20 U.S.C. § 12
 
 #### Mandate, Remedy, and Stage
 
-The case returns for proceedings consistent with rejection of the FERPA-based Section 1983 claim. Independent state-law judgments remain intact. The Court does not reopen the excluded state-action issue or adjudicate an ungranted damages question.
+The Washington Supreme Court's reinstatement of damages on the FERPA-based Section 1983 claim is affirmed on the reviewed question. Independent state-law judgments remain intact. The Court does not reopen the excluded state-action issue, decide an unpresented challenge to the policy-or-practice showing, calculate damages or adopt a punitive-damages rule.
 
 **End of entry: Gonzaga University v. Doe, Merits decision, June 20, 2002.**
 

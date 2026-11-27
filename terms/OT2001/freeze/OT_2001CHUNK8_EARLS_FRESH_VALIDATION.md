@@ -24,7 +24,7 @@ The single signed lead and governing parts were fixed before assignment. Indepen
 
 The Chief assigns from his affirmance coalition. The five full joiners are eligible and all fall within one of the minimum count. Ginsburg's prior published Vernonia boundary supplies the recorded case-specific fit; the statement fairly compares Stone as the lower-count alternative. The four partial joiners cannot author the complete lead.
 
-All eleven public blocks occur in order. The exact Public Projection occurs in the per-case public-law copy; its digest is unchanged. Controlling explanations remain within the ordinary ceiling. Local-validation source digests and the current Record digest match. The immutable baseline digest is `6cb1bd0339af44a23a47d02ea0e3ed153241a6a14a8bc549bd9d9e13619b52a4`.
+All eleven public blocks occur in order. The exact Public Projection occurs in the per-case public-law copy; its digest is unchanged. Controlling explanations remain within the ordinary ceiling. Local-validation source digests and the current Record digest match. The immutable baseline digest is `6a5299bf829732137a2a9d23eacc13f3f9d96f31f2f2459e71ce550943adc741`.
 
 ## Initial finding and resolution
 

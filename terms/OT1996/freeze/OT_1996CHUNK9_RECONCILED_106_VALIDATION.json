@@ -64,7 +64,7 @@
                   {
                       "path":  "terms/OT1996/freeze/OT_1996CHUNK9_COMMITMENTS_106_VALIDATION.json",
                       "bytes":  1439,
-                      "sha256":  "099ac18e471fc9209b7c16561590bedf23283ca0bae0d4e0c636c8da516c5e79"
+                      "sha256":  "08d23cea6aa07077abfe2cc0c428b4882d57498c4d70ac7ec48db0daae2d09ec"
                   },
                   {
                       "path":  "terms/OT1996/freeze/OT_1996CHUNK9_NEUTRAL_106_FRESH_VALIDATED.md",
@@ -74,7 +74,7 @@
                   {
                       "path":  "terms/OT1996/freeze/OT_1996CHUNK9_NEUTRAL_106_FRESH_VALIDATION_RECEIPT.json",
                       "bytes":  2809,
-                      "sha256":  "c92b1e030593d46fa9343b6d463741696d2d24a5d8bd7acc1cf3834dcc192a29"
+                      "sha256":  "60415ad39305c045a6ff1c44265dc86364bc5fa2c70aa1fd0c3bb3554263cdbd"
                   },
                   {
                       "path":  "terms/OT1996/entering-law/OT_1996CHUNK9_106.md",
@@ -84,7 +84,7 @@
                   {
                       "path":  "terms/OT1996/entering-law/OT_1996CHUNK9_JUNE2_PUBLIC_DELTA.md",
                       "bytes":  68165,
-                      "sha256":  "cbe04abd320e162ec5267a52db23313a96cd4a91af9aca81d9f9b721a3cce0d3"
+                      "sha256":  "ed4ac5605bb5e544653545e39fcf018d2e85e880cb6399883bc2c1ab11d40e4f"
                   },
                   {
                       "path":  "terms/OT1996/runtime/OT_1996CHUNK9_106_COMPARATOR.md",

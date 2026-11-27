@@ -78,11 +78,11 @@
     {
       "record": "terms/OT2001/records/united-states-v-ruiz_merits_2002-06-24.md",
       "before_sha256": "ba8d5929bd421a9914103238fced1d61d8da90dcd2d5362e96b8516c96e2814f",
-      "after_sha256": "76050717ce683aa447252e9cda5a518f70cb14794f7344763986c3a9bb2933e7",
+      "after_sha256": "e2d635151de746fb2fa7ff2ce7265580c72f5b82787c87cdda55fc85b99380c1",
       "only_changed_block": "Public Projection / Precedent Treatment",
       "holdings_judgment_opinions_internal_annex_byte_preserved": true,
-      "bullets_before": 8,
-      "bullets_after": 12
+      "bullets_before": 9,
+      "bullets_after": 14
     }
   ],
   "proposal": "tmp/ot2001_chunk8/precedent_line_replacements.json",

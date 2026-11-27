@@ -3,7 +3,7 @@
 SHA-256 identifies the preserved handoff bytes; it certifies copying, not legal sufficiency.
 
 `terms/OT2000/freeze/OT_2000CHUNK3_NEUTRAL_EARLY.md` — `58686f3731d3b4b6606015dbbeefdcd0f7353cb15a3402e4f4a9bb7145f9181b`
-`terms/OT2000/entering-law/OT_2000CHUNK3_EARLY.md` — `641ff504d3e6f9e5cfc8c827f6ba0a5e6e8bcd9428c602efb12f8594fc8b2753`
+`terms/OT2000/entering-law/OT_2000CHUNK3_EARLY.md` — `9842a4ad0ae8e673cc4e3ba4965d304418113b6327569a2226f42bdf81f06c7a`
 `terms/OT2000/entering-law/OT_2000CHUNK3_EARLY_SUPPLEMENT.md` — `bc884d11a8875d21399b7bf4e063048d8e1669f2428ef071bc97f90d64579a74`
 `terms/OT2000/entering-law/OT_2000CHUNK3_GARRETT_EQUAL_PROTECTION.md` — `a65554da92640b3e7101a9ac4ea497cbd433f245a09a57bfbf694e653031ce72`
 `terms/OT2000/sources/chunk3-early/prior_public_renders.md` — `692103a3205071c17b8b358a52b6da29050fef09e7c6266c995b7839fc9d2e8c`

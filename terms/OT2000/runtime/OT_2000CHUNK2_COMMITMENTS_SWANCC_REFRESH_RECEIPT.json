@@ -23,7 +23,7 @@
     },
     {
       "path": "terms/OT2000/entering-law/OT_2000CHUNK2_swancc.md",
-      "sha256": "6794075c94606908221f1ec4cfc861527367d800ac120cc4fcadab5fa913857f"
+      "sha256": "6c25c7916011689b4ed64baf4e5b04b29be04742ea2362db577cae311784214f"
     },
     {
       "path": "terms/OT2000/entering-law/OT_2000CHUNK2_swancc_positions.md",
@@ -59,7 +59,7 @@
     },
     {
       "path": "terms/OT2000/freeze/OT_2000CHUNK2_SWANCC_NEUTRAL_ADDITION_RECEIPT.json",
-      "sha256": "72156d09b90bb89c4e6465e2ea1311869882d6b4ab9ccbf7cffce645eac60b69"
+      "sha256": "562e95f9189e93b32892230123bc7f133338fca85148a5cbc85f1ded845b9dcf"
     },
     {
       "path": "terms/OT2000/sources/swancc-refresh/Holland-252-416-full.txt",

@@ -311,7 +311,7 @@ United States v. Bean, 537 U.S. 71; No. 01-704. The reported proceedings support
 
 #### B. LAW ENTERING THE CASE
 
-**Intervening authority:** Gonzaga (2002) rejects the particular FERPA nondisclosure entitlement asserted there. Its fractured opinions adopt no broader majority rule requiring an intended private remedy or categorically excluding Spending Clause rights; Blessing's provision-specific inquiry remains applicable.
+**Intervening authority:** Gonzaga (2002) holds that FERPA's nondisclosure provision secures an individual right enforceable through §1983. Its opinion for the Court restates Blessing's factors in a two-question framework, treats grammatical form, including placement in a funding condition, as relevant but not controlling, and requires no intended private remedy; Blessing's provision-specific inquiry remains applicable.
 
 * **Current Through:** Law effective through June 28, 2002. Earlier decisions of this term enter only when actually decided.
 * **Earlier Same-Term Decisions:** None is assumed from calendar placement alone.

@@ -7,7 +7,7 @@ This separate reconciliation context received the frozen neutral packet, enterin
 Inputs:
 
 - `terms/OT2002/freeze/OT_2002CHUNK4_A_NEUTRAL.md`, including its final period-specific statutory supplement; SHA256 `062A9DB51D621AFDB724CDC6918F28F98A152D6FCAD2C6590D9506F06FE0ECA8`.
-- `terms/OT2002/entering-law/OT_2002CHUNK4_A.md`; SHA256 `6E88E076031BA4D1E743C9A291383E00EBBC92919F326332F0B316CC602C26D5`.
+- `terms/OT2002/entering-law/OT_2002CHUNK4_A.md`; SHA256 `0C74975014ED1926BB9F1940BE0D30B0616BD3E72FF6AD1C542B55EC75CF952D`.
 - `terms/OT2002/freeze/OT_2002CHUNK4_A_COMMITMENTS.md`; SHA256 `9EE0AD5E72BC23A7CE12CE1EDF148588AE8EE4200724A045CE790B3368271392`.
 - `terms/OT2002/runtime/OT_2002CHUNK4_COMPARATOR.md`; the authorized public neutral projection; Engine sections 1–9 and 14; the governing roster and task instructions.
 

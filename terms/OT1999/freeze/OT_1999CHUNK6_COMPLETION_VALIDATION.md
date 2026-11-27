@@ -13,7 +13,7 @@ Eleven matters have completed Canonical Decision Records. United States v. McIve
 | Fischer v. United States | Affirmed | 7–2 |
 | Johnson v. United States, No. 99-5153 | Affirmed | 7–2 |
 | Public Lands Council v. Babbitt | All three challenged rules sustained; affirmed | 9–0 |
-| United States v. Morrison / Brzonkala v. Morrison | Both judgments affirmed | 5–4 |
+| United States v. Morrison / Brzonkala v. Morrison | Both judgments reversed and remanded | 5–4 |
 | Geier v. American Honda | Affirmed on the adjudicated no-airbag claim | 5–4 |
 | Jones v. United States | Section 844(i) conviction reversed with acquittal directed; bounded dependent-consequences remand | 9–0 |
 | United States v. Playboy Entertainment Group | Affirmed | 7–2 |

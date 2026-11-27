@@ -704,7 +704,7 @@ KENNEDY, J., delivered the opinion of the Court, in which STONE-ZSELA, C. J., an
 
 **Authority:** Part I of the opinion of the Court; all nine participating Justices join this rule and explanation.
 
-**Controlling explanation:** The Court applies American Life League v. Reno, which sustained this direct market-interference mechanism. The service market includes interstate patients, personnel and supplies, and the regulated acts impair access to the services themselves. United States v. Lopez requires an identifiable constitutional connection before aggregate magnitude can matter; the connection here is the conduct's object and operation on that actual market. United States v. Morrison preserved that distinction while rejecting a private-assault remedy resting on more remote economic consequences. The challengers' lack of profit motive does not change the object or operation of the regulated conduct. Congress regulates interference with the market, not the commercial occupation or political beliefs of the person interfering. The two facial questions therefore require no revision of the existing commerce rule.
+**Controlling explanation:** The Court applies American Life League v. Reno, which sustained this direct market-interference mechanism. The service market includes interstate patients, personnel and supplies, and the regulated acts impair access to the services themselves. United States v. Lopez requires an identifiable constitutional connection before aggregate magnitude can matter; the connection here is the conduct's object and operation on that actual market. United States v. Morrison preserved that distinction while rejecting Commerce authority for a private-assault remedy resting on more remote economic consequences. The challengers' lack of profit motive does not change the object or operation of the regulated conduct. Congress regulates interference with the market, not the commercial occupation or political beliefs of the person interfering. The two facial questions therefore require no revision of the existing commerce rule.
 
 ##### II. The service connection regulates defined interference without suppressing advocacy
 
@@ -718,7 +718,7 @@ KENNEDY, J., delivered the opinion of the Court, in which STONE-ZSELA, C. J., an
 
 - American Life League v. Reno (November 13, 1995): applied and reaffirmed on direct market interference, expressive-conduct scrutiny, protected advocacy and individual attribution; its actual definitions and exclusions continue to govern.
 - United States v. Lopez (April 26, 1995): applied; a constitutionally identifiable connection precedes aggregation.
-- United States v. Morrison (May 15, 2000): distinguished; its private-assault rationale does not displace FACE's direct medical-market connection.
+- United States v. Morrison (May 15, 2000): distinguished; its Commerce rationale for the private-assault remedy does not displace FACE's direct medical-market connection.
 - United States v. O'Brien, 391 U.S. 367, and Ward v. Rock Against Racism, 491 U.S. 781: applied for the fit of expressive-conduct restrictions to an interest unrelated to suppressing a message.
 - NAACP v. Claiborne Hardware Co., 458 U.S. 886: applied; association and lawful persuasion cannot substitute for attributable unlawful conduct.
 - Planned Parenthood of the Columbia/Willamette, Inc. v. American Coalition of Life Activists (December 10, 2002): applied within its civil-threat culpability and finding-specific remedial boundaries; no universal criminal-threat rule is added.

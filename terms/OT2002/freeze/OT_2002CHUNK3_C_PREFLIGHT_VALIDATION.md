@@ -9,4 +9,4 @@ The four supplied neutral entry bodies are unchanged in the frozen handoff; the 
 The three unexposed matters are ready for fresh independent modeling. Current adjudication law and the distinct July 1999 notice cutoff are explicitly separated for Roe. All new text artifacts were checked for excluded service names and absolute machine links, and passed. Filesystem freeze only; no repository command was run.
 
 - `terms/OT2002/freeze/OT_2002CHUNK3_C_NEUTRAL.md` ? SHA-256 `c5acb943dc7021ed2a1116f389e4dcf66b9f493b845832ef2d22d6203723e300`.
-- `terms/OT2002/entering-law/OT_2002CHUNK3_C.md` ? SHA-256 `3ab34a8fdc66cea97a835f2b565f3cecf482c40888cfaddea5cab11006a14ac0`.
+- `terms/OT2002/entering-law/OT_2002CHUNK3_C.md` ? SHA-256 `626d34e12e53d965e36f05fbe3e5d87037f32acfa10d8725adceb1ff2fcb4dd1`.

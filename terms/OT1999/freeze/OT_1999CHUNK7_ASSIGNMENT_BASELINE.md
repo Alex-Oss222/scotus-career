@@ -89,7 +89,7 @@ All 76 existing Record headers were examined. The 67 counted leads are ordered b
 | 61 | 2000-05-15 | Johnson v. United States; No. 99-5153. | Souter | [Record](../records/johnson-v-united-states-99-5153_merits_2000-05-15.md) |
 | 62 | 2000-05-15 | Public Lands Council v. Babbitt; No. 98-1991. | Scalia | [Record](../records/public-lands-council-v-babbitt_merits_2000-05-15.md) |
 | 63 | 2000-05-15 | United States v. McIver; review of 186 F.3d 1119 (9th Cir. 1999); lower appellate Nos. 98-30145 and 98-30146; no separate Supreme Court docket supplied. | O'Connor | [Record](../records/united-states-v-mciver_merits_2000-05-15.md) |
-| 64 | 2000-05-15 | United States v. Morrison / Brzonkala v. Morrison; Nos. 99-5 and 99-29, consolidated. | Kennedy | [Record](../records/united-states-v-morrison-brzonkala-v-morrison_merits_2000-05-15.md) |
+| 64 | 2000-05-15 | United States v. Morrison / Brzonkala v. Morrison; Nos. 99-5 and 99-29, consolidated. | Stone-Zsela and Kennedy | [Record](../records/united-states-v-morrison-brzonkala-v-morrison_merits_2000-05-15.md) |
 | 65 | 2000-05-22 | Geier v. American Honda Motor Co.; No. 98-1811. | Stone-Zsela | [Record](../records/geier-v-american-honda-motor-co_merits_2000-05-22.md) |
 | 66 | 2000-05-22 | Jones v. United States; No. 99-5739. | Thomas | [Record](../records/jones-v-united-states_merits_2000-05-22.md) |
 | 67 | 2000-05-22 | United States v. Playboy Entertainment Group, Inc.; No. 98-1682. | Ginsburg | [Record](../records/united-states-v-playboy-entertainment-group-inc_merits_2000-05-22.md) |
@@ -2972,36 +2972,37 @@ Source SHA-256: `639e15210c34573ff12251e6170327c54a61967078df7c5bfa2b941d60614e7
 
 **Case and dockets:** United States v. Morrison / Brzonkala v. Morrison; Nos. 99-5 and 99-29, consolidated.
 **Event and date:** Plenary merits decision, 2000-05-15; October Term 1999, chunk 6.
-**Result:** Affirmed in both dockets, 5–4; neither asserted power sustains the presented private-assault action.
+**Result:** Reversed and remanded in both dockets, 5–4; Section 5 sustains the presented private-assault action, and the Commerce Clause does not.
 **Version / lineage:** Original decision.
 
-Count treatment: Signed plenary merits lead; one for each of Kennedy.
+Count treatment: Signed plenary merits lead; one for each of Stone-Zsela and Kennedy.
 
 ## Judgment and opinion table
 
-**Affirmed in both consolidated dockets, 5–4.**
+**Reversed and remanded in both consolidated dockets, 5–4.**
 
-**Supporting:** Stone-Zsela, O'Connor, Scalia, Kennedy and Thomas.
-**Opposing:** Stevens, Souter, Ginsburg and Breyer.
+**Supporting:** Stone-Zsela, Stevens, Souter, Ginsburg and Breyer.
+**Opposing:** O'Connor, Scalia, Kennedy and Thomas.
 
-The Fourth Circuit's constitutional dismissal of the presented §13981 private-assault claim is affirmed. The Court rejects both asserted sources of power for that claim. No new merits or damages proceeding is ordered, and matters outside the grant remain undisturbed.
+The Fourth Circuit's judgment sustaining the constitutional dismissal of the presented §13981 private-assault claim is reversed, and both cases are remanded for further proceedings. Section 5 sustains the action; the Commerce Clause does not. The claim proceeds under its enacted requirements: Brzonkala must still prove the conduct, gender motivation, causation and any relief. The Court makes no finding of the assault and awards no damages, and matters outside the grant remain undisturbed.
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
-| Opinion of the Court | Kennedy | Stone-Zsela, O'Connor, Scalia, Thomas | Affirms the constitutional dismissal in Nos. 99-5 and 99-29 | Complete Commerce and Section 5 grounds, statutory scope and remedy limits |
-| Dissent | Breyer | Stevens, Souter, Ginsburg | Would reverse the constitutional dismissal and remand for ordinary adjudication of the statutory claim | Rational substantial-class-effects Commerce proposal; expressly reserves ultimate Section 5 validity |
+| Opinion of the Court (Section 5 and judgment) | Stone-Zsela | Stevens, Souter, Ginsburg, Breyer | Reverses the constitutional dismissal and remands in Nos. 99-5 and 99-29 | Section 5 corrective substitute-remedy holding and its limits, statutory scope and remand limits |
+| Opinion of the Court (Commerce Clause), dissenting as to Section 5 and the judgment | Kennedy | Stone-Zsela as to the Commerce Clause; O'Connor, Scalia, Thomas throughout | The Commerce holding does not decide the judgment; the dissenting part would affirm the constitutional dismissal | Complete Commerce holding and its limits; dissent from the Section 5 holding on remedial fit and the retained state-action boundary |
+| Concurrence | Breyer | Stevens, Souter, Ginsburg | Joins the Section 5 opinion and the judgment | Would also sustain the action under a rational substantial-class-effects Commerce approach, a proposed change to Lopez's connection-before-magnitude prerequisite |
 
 ## Opinion form and assignment
 
-The [form receipt](../freeze/OT_1999CHUNK6_MORRISON_ASSEMBLY_FORM.md) fixes one signed opinion for the two consolidated dockets, two constitutional holdings and one substantive dissent before counting. Stone-Zsela, O'Connor, Scalia, Kennedy and Thomas form the judgment and complete-rationale coalition. The Chief assigns. No formulation-sensitive unresolved objection requires expansion assignment; the bounded grounds already support the five joins.
+The [form receipt](../freeze/OT_1999CHUNK6_MORRISON_ASSEMBLY_FORM.md) fixes, before counting, two signed Opinions of the Court for the two consolidated dockets: one states the Section 5 holding, the statutory scope and the judgment; the other states the Commerce holding, and in it its author and three joining Justices dissent from the Section 5 holding and the judgment. One concurrence states the broader Commerce proposal of the Section 5 majority's other four members. Stone-Zsela, Stevens, Souter, Ginsburg and Breyer form the judgment and Section 5 coalition; Stone-Zsela, O'Connor, Scalia, Kennedy and Thomas form the Commerce coalition. Only the Chief belongs to both, and he assigns both opinions. No expansion assignment is needed; each opinion's bounded grounds support its five joins.
 
 **Fresh counts before assignment:** Stone-Zsela 6; Stevens 7; O'Connor 7; Scalia 7; Kennedy 7; Souter 8; Thomas 6; Ginsburg 7; Breyer 7.
 
-The last counted event is Public Lands Council v. Babbitt, May 15, 2000, delivered by Scalia. The [fresh count receipt](../freeze/OT_1999CHUNK6_MORRISON_COUNTS.json) derives the counts from actual earlier signed lead-opinion tables. McIver has no Record and is expressly excluded as stopped; a later completion would enter later counts without reopening this assignment. Each of the five majority members is eligible. Stone is eligible from his approved core, not fallback. The lowest eligible count is six, so the pool includes all five: Stone-Zsela and Thomas at six, O'Connor, Scalia and Kennedy at seven.
+The last counted event is Public Lands Council v. Babbitt, May 15, 2000, delivered by Scalia. The [count receipt](../freeze/OT_1999CHUNK6_MORRISON_COUNTS.json) derives the counts from actual earlier signed lead-opinion tables. McIver has no Record and is expressly excluded; a later completion would enter later counts without reopening this assignment. Stone-Zsela is eligible from his approved core, not fallback, and is the only Justice eligible for both opinions. The Chief Justice is in the majority for the judgment and for each Opinion of the Court, so he assigns both.
 
-Kennedy receives the assignment. The opinion must apply the differentiated Commerce routes while explaining why a preventive remedy fails its relation to a state wrong without importing categorical limits that actual Boerne and Florida Prepaid reject. His American Life League and Robinson opinions supply direct-market distinctions, his Home Builders joins recognize the genuine externality alternative, and his Boerne authorship supplies a concrete advantage in coordinating the difficult right/remedy account. The strongest alternative is Stone at six: he authored Lopez and expressly identifies each failed Commerce route here. Kennedy's existing work on the separate enforcement-power question offers the meaningful fit advantage for this combined opinion, while Stone's complete objective can be preserved through the common grounds without self-assignment. Thomas at six can carry the opinion and its controlling-law qualifications, but does not offer Kennedy's specific authorship experience with the preventive framework. O'Connor and Scalia remain fully capable pool candidates; no ability, importance or historical author is used to exclude them. The choice is within the balance pool and does not manufacture a new accommodation or a reason for ineligibility.
+**The Chief Justice assigns the Section 5 opinion and the judgment to himself and the Commerce opinion to Kennedy.** The Section 5 opinion must state the corrective substitute-remedy conditions and reconcile them with the Florida Prepaid Section 5 holding Stone-Zsela delivered, while keeping Boerne's congruence and proportionality and the state-action boundary. His approved position supplies those conditions and limits, and as the only member of the judgment coalition who also joins the Commerce holding he can state the judgment without dividing it. The Commerce opinion must apply the differentiated market, necessary-inclusion and externality routes; Kennedy's American Life League and Robinson opinions supply the direct-market distinctions, his Home Builders joins recognize the genuine externality alternative, and his Boerne authorship supplies the right/remedy account on which he, O'Connor, Scalia and Thomas dissent from the Section 5 holding in the same writing. Breyer was the strongest alternative for the Section 5 opinion, because the substitute-remedy path in the neutral packet tracks positions he has joined, but he does not join the Commerce holding and writes the concurrence. Each delivering Justice counts once for this divided form.
 
-Breyer authors the common dissent because his published Lopez opinion supplies its actual broader class-effects proposal; Stevens, Souter and Ginsburg join exactly that rationale and Section 5 reservation. Historical Thomas's separate theory and historical Breyer's tentative procedural alternative are not present commitments and receive no new writing. Separate authorship does not affect the counted lead balance.
+Breyer writes the concurrence because his published Lopez opinion supplies its actual broader class-effects proposal; Stevens, Souter and Ginsburg join exactly that rationale and the Section 5 opinion. Kennedy's dissent from the Section 5 holding and the judgment is stated in his Commerce opinion and joined by O'Connor, Scalia and Thomas; Stone-Zsela joins only its Commerce part. Historical Thomas's separate theory and historical Breyer's tentative procedural alternative are not present commitments and receive no new writing. Separate authorship does not affect the counted lead balance.
 
 ---
 
@@ -3009,7 +3010,7 @@ Breyer authors the common dissent because his published Lopez opinion supplies i
 
 [Source Record](../records/geier-v-american-honda-motor-co_merits_2000-05-22.md)
 
-Source SHA-256: `5f16e60f519632573a9bd908d0d5a55956f6ed28bc1e915fcb5277737eaa479e`
+Source SHA-256: `fb1588d365f3ca3dbfb3377dbba30f68fa7f27ad3cf597e401dae3a7e1fd8c57`
 
 **Case and dockets:** Geier v. American Honda Motor Co.; No. 98-1811.
 **Event and date:** Plenary merits decision; 2000-05-22 (argued December 7, 1999).
@@ -3029,7 +3030,7 @@ Count treatment: Signed plenary merits lead; one for each of Stone-Zsela.
 
 The [form receipt](../freeze/OT_1999CHUNK6_GEIER_FORM.md) fixed one signed lead and one common dissent before the recount. Parts I–II contain the statutory construction and independent-conflict inquiry; Part III contains the sufficient conflict ground. Those divisions reflect distinct legal propositions and actual joins, not balance adjustments. The Chief belongs to the judgment coalition and assigns the whole lead. Five members support every proposition it states; no divided authorship is necessary.
 
-**Fresh counts before assignment:** Stone-Zsela 6; Stevens 7; O'Connor 7; Scalia 7; Kennedy 8; Souter 8; Thomas 6; Ginsburg 7; Breyer 7. The [fresh count receipt](../freeze/OT_1999CHUNK6_GEIER_COUNTS.json) parses actual earlier signed plenary lead tables, including earlier Records in this Run, rather than prior assignment tallies. Total: 63. Last counted event: United States v. Morrison / Brzonkala v. Morrison, May 15, 2000, Kennedy. Stopped McIver is excluded.
+**Fresh counts before assignment:** Stone-Zsela 6; Stevens 7; O'Connor 7; Scalia 7; Kennedy 8; Souter 8; Thomas 6; Ginsburg 7; Breyer 7. The [fresh count receipt](../freeze/OT_1999CHUNK6_GEIER_COUNTS.json) parses actual earlier signed plenary lead tables, including earlier Records in this Run, rather than prior assignment tallies. Total: 63. Last counted event: United States v. Morrison / Brzonkala v. Morrison, May 15, 2000, Stone-Zsela and Kennedy. McIver, which has no completed Record, is excluded.
 
 Eligible for the entire lead: Stone-Zsela, O'Connor, Scalia, Kennedy and Breyer. Stevens, Souter, Thomas and Ginsburg do not support Part III and are ineligible for this integrated opinion. The eligible minimum is six, so the balance pool is Stone-Zsela, O'Connor, Scalia and Breyer; Kennedy's eight lies outside it. Selected author: Stone-Zsela, six. This is fit assignment, not expansion: no necessary join depends on changing a frozen objection. The work requires separating Congress's preservation of liability from a source-specific incompatible duty, then stating the survival boundary without turning regulatory permission into immunity. Stone's approved formulation directly supplies that precise separation and the protected nonconflicting categories. Breyer, seven, is the strongest alternative because his Medtronic counterpart analysis and Shanklin concurrence distinguish an actual regulatory selection from a universal safety ceiling. He could faithfully write the same ground, but presents no advantage over Stone's equally direct formulation and lower count. O'Connor and Scalia also fully support the ground. No authorship is inferred from historical authorship.
 
@@ -3041,7 +3042,7 @@ Stevens writes the common dissent, joined by Souter, Thomas and Ginsburg. His du
 
 [Source Record](../records/jones-v-united-states_merits_2000-05-22.md)
 
-Source SHA-256: `0e778689a0f7af949901d20f0c8514f1c33ff16811efc144070779c0d650eba4`
+Source SHA-256: `5bd2c6bae1813f73518c389ab9f4f258c397fb0863db4b8bc5bcf446efdeeb22`
 
 **Case and dockets:** Jones v. United States; No. 99-5739.
 **Event and date:** Plenary merits decision; 2000-05-22 (argued March 21, 2000).

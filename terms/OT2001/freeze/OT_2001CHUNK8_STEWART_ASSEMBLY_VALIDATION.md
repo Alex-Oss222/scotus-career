@@ -6,4 +6,4 @@ Nine direct joins support all three independence and remedy propositions. The st
 
 Each Associate appears once in the exact independent section and once in the exact reconciliation section; the complete approved Stone section is also an exact mechanical copy. All sixteen Associate rows and the applicable historical-comparison limitations remain. No historical numerical tally or named personal assent is inferred from unsigned texts. No non-Stone commitment changed after reconciliation, no fallback supplied a Stone choice, and no fictional circulation or source-gap default was added. Relative links resolve. The exact public-law handoff is mechanically copied from the bounded Public Projection and checked for identity. No global projection or render was changed.
 
-This is local initial validation, not an independent fresh review or term-wide check. Record SHA-256: `f7a7baa2d86042654af93332533d0837589f5f818fbd69497b70420b13208105`.
+This is local initial validation, not an independent fresh review or term-wide check. Record SHA-256: `e1f1402a61835c942cb32b5914b86268f91ce5dd05730f9fe525b8f2ff4fe2e4`.

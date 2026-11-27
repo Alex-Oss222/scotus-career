@@ -57,7 +57,7 @@ The following hashes identify the complete input files; the substantive reading 
 | Input | SHA-256 |
 |---|---|
 | `terms/OT2000/entering-law/OT_2000CHUNK4_EFFECTIVE_BEFORE_2001-04-02.md` | `1a1d46cbdfdeb940bee7f1b85b89252b36f5e1f65eedc3f19c31ed744d2eaf86` |
-| `terms/OT2000/entering-law/OT_2000CHUNK4_EFFECTIVE_BEFORE_2001-04-02_FINAL.md` | `59addeddbd8b075029a4780d6172085cd1fe51e1383c5c431f51414690543f4c` |
+| `terms/OT2000/entering-law/OT_2000CHUNK4_EFFECTIVE_BEFORE_2001-04-02_FINAL.md` | `cd5148698002a4cb0fe509ff4d45d01853bfb2ee562254d6fb0c392b565bd832` |
 | `terms/OT2000/runtime/OT_2000CHUNK4_NEUTRAL_LATER.md` | `04c88fa85b66636353b10e0e4d73520d3766d3495ffb2df29e62a00b5ef1372f` |
 | `terms/OT2000/freeze/OT_2000CHUNK4_LATER_NEUTRAL_PREFLIGHT.md` | `b76a64276cfebee4abd7bd04fa8a453b10cbb766197741af8acaab0f1ed7a498` |
 | `terms/OT2000/entering-law/OT_2000CHUNK4_LATER_FOCUS.md` | `e1030e825f950de3544d429aad9be1664bfc83ab1545c8474c09dceb424f97d8` |
