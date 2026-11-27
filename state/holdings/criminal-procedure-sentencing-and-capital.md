@@ -1427,7 +1427,7 @@ For the other questions in Witte v. United States, decided June 14, 1995, No. 94
 
 **Treatment of earlier authority:** Chapman remains the controlling statutory construction. Stinson's authority for lawful Guidelines commentary is preserved within its statutory limit. Patterson supports adherence without making statutory precedent categorically irreversible.
 
-**Later-authority backlinks:** [National Cable & Telecommunications Association v. Brand X Internet Services](../HOLDINGS.md#delegated-cable-classification-and-prior-circuit-interpretation), Nos. 04-277 and 04-281, June 27, 2005: resolves the reserved agency-precedent relationship only for a prior circuit holding that leaves a genuinely delegated choice open. The force of a Supreme Court construction remains outside that decision, and Neal's binding LSD mixture-weight rule is unchanged.
+**Later-authority backlinks:** [National Cable & Telecommunications Association v. Brand X Internet Services](../HOLDINGS.md#binding-prior-judicial-construction-and-offered-cable-transmission), Nos. 04-277 and 04-281, June 27, 2005: extends Neal's holding that a later administrative measure did not displace Chapman's construction of §841. An authoritative construction binds within the judicial hierarchy that issued it, a court of appeals' within its circuit and this Court's throughout the federal system, until Congress changes the statute or a court with authority reconsiders it, subject to an identifiable delegated choice the earlier decision left open. Neal's binding LSD mixture-weight rule is unchanged.
 
 ### Capital-juror exclusions and state appellate review
 
@@ -2585,25 +2585,25 @@ For Cotton, May 20, 2002, No. 01-687, on section 3231 jurisdiction and the confi
 
 **Holding:** Section 3742(a)(1) permits a court to determine whether an asserted constitutional condition connected to a sentence establishes that the sentence was imposed in violation of law; a merely discretionary refusal to depart, when the judge understood the discretion, supplies no such appeal. A mistaken belief that departure authority was absent could supply legal error, but that premise is not present here.
 
-**Proposition-level authority:** Part I of Justice Breyer's Opinion of the Court has the direct support of Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer; Stone-Zsela also joins this statutory inquiry. Thomas agrees in his concurrence that the claimed statutory basis can be determined, without joining the Court opinion.
+**Proposition-level authority:** Part I of Justice Breyer's Opinion of the Court has the direct support of Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer. Thomas agrees in his dissent that the claimed statutory basis can be determined, without joining the Court opinion.
 
-**Material application:** The judge understood departure authority; the rejected condition, withdrawn offer and requested sentencing treatment connected the constitutional allegation to the sentence. Examination of that allegation determines the claimed statutory basis rather than deciding unrelated merits on assumed jurisdiction.
+**Material application:** The judge understood departure authority; the conditioned offer, Ruiz’s refusal, the withdrawn recommendation and the requested sentencing treatment connected the constitutional allegation to the sentence. Examination of that allegation determines the claimed statutory basis rather than deciding unrelated merits on assumed jurisdiction.
 
 **Treatment of earlier authority:** Mine Workers permits determination of jurisdiction; Steel Co.’s requirement of an actual jurisdictional basis remains. This inquiry creates no general appellate review of discretionary leniency.
 
-##### The condition supplies no ground for vacating this sentence
+##### The withdrawn recommendation was conditioned on surrender of the floor; the vacatur is affirmed for a limited remand
 
-**Holding:** Because the identified disclosure condition is not unconstitutional at the scope decided, section 3742(a)(1) supplies no authority on this theory to review the understood discretionary refusal to depart; the Ninth Circuit's sentence vacatur and condition-based remand are reversed. Ruiz's unaccepted offer creates no enforceable recommendation, and her later guilty plea without agreement did not itself assent to the rejected waiver; her conviction remains undisturbed.
+**Holding:** The proposed agreement's affirmative-defense waiver demanded surrender of the floor, as did its impeachment waiver to the extent it would reach information within the floor; the continuing factual-innocence promise did not cover the floor's element and complete-defense categories. Because the fast-track recommendation was withdrawn after Ruiz refused the waiver, her constitutional allegation is connected to the sentence, and section 3742(a)(1) supports review; the Ninth Circuit's sentence vacatur is affirmed on these grounds. On remand the district court determines whether Ruiz's rejection of the impermissible component materially contributed to the withholding of the recommendation, and whether the Government would have withheld it for independent lawful reasons; refusal of the impermissible component is not such a reason. The decision orders no automatic departure, enforcement of the unaccepted offer, plea withdrawal, innocence finding or prescribed sentence; Ruiz's conviction stands.
 
-**Proposition-level authority:** Part IV of Breyer’s opinion, joined by Stevens, O’Connor, Scalia, Kennedy, Souter and Ginsburg: seven direct rationale votes. Thomas concurs in reversal on his separate ground; Stone-Zsela dissents from reversal.
+**Proposition-level authority:** Part VI of Breyer’s opinion, joined by Stone-Zsela, Stevens, Souter and Ginsburg: five direct rationale votes. O’Connor, Scalia, Kennedy and Thomas would reverse.
 
-**Limits and questions not reached:** Lack of entitlement to a benefit or rejection of an offer is not itself a rule that an unlawful condition cannot injure. Here the asserted unconstitutional-condition predicate fails. The Court adds no innocence prerequisite or second harmlessness hurdle to a completed constitutional violation.
+**Limits and questions not reached:** The absence of a particular withheld item limits the remedy, not the validity of the condition. Lack of an entitlement to the recommendation or rejection of the offer does not defeat the claim. Because the rejected waiver also reached impeachment information outside the floor, the remand asks whether refusal of the impermissible component materially contributed. The Court adds no innocence prerequisite or second harmlessness hurdle to a completed constitutional violation.
 
-**Operative remedy or transition:** Reverse the Ninth Circuit’s sentence vacatur and condition-based remand, 8–1; the district sentence and conviction remain operative against this challenge.
+**Operative remedy or transition:** Affirm the Ninth Circuit’s sentence vacatur on modified grounds, 5–4. The district court determines whether Ruiz’s rejection of the impermissible component materially contributed to the withheld recommendation and whether the Government would have withheld it for independent lawful reasons; any resentencing proceeds under existing authority without an automatic departure, enforcement of the unaccepted offer or a prescribed sentence. The conviction stands.
 
-**Treatment of earlier authority:** Mezzanatto’s knowing, voluntary and limited impeachment-use agreement remains enforceable; it supplies no universal waiver power and does not convert Ruiz’s rejected offer into an accepted agreement.
+**Treatment of earlier authority:** Wade v. United States’s constitutional limits on prosecutorial sentencing discretion extend to a recommendation withheld for refusal of an unconstitutional plea condition, and its substantial-threshold requirement for an evidentiary hearing is applied and met by the admitted sequence of the conditioned offer, Ruiz’s refusal and the withdrawal. Mezzanatto’s limited, knowing and voluntary impeachment-use waiver remains operative; it does not convert Ruiz’s rejected offer into an accepted agreement or supply a power to demand surrender of the floor.
 
-The separate impeachment and affirmative-defense disclosure holdings in United States v. Ruiz, No. 01-595, decided June 24, 2002, appear under Criminal Procedure.
+The disclosure holdings in United States v. Ruiz, No. 01-595, decided June 24, 2002, appear under Criminal Procedure.
 
 
 ### Capital finality after a mandatory life judgment on penalty deadlock

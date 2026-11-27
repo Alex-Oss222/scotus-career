@@ -472,6 +472,8 @@ For this case’s other questions, see *Suter v. Artist M.*, March 25, 1992, No.
 - **DeShaney v. Winnebago County Department of Social Services:** Applied to the absence of a general preinjury custodial protection duty; it does not foreclose independently created noncustodial entitlements.
 - **Pinder v. Johnson:** Applied to distinguish the alleged omission from an official's affirmative deprivation. No affirmative-interference theory is decided on these facts.
 
+**Later-authority backlinks:** Town of Castle Rock v. Gonzales, No. 04-278, decided June 27, 2005, develops the reserved independently created entitlement: a qualifying individualized protective entitlement, defined by an identified beneficiary, a definite entitlement to protective services, objective triggers and material constraints on withholding, is property, and Colorado's protective-order statute and an individualized order establish one. The investigative-procedure holding is unchanged.
+
 ### Equal protection and corporate venue
 
 #### Burlington Northern Railroad Co. v. Ford, 504 U.S. 648 (1992)
@@ -6909,7 +6911,7 @@ For *Delaney v. DeTella*, March 4, 2002, Seventh Circuit No. 00-4145, the interl
 - Alexander v. Sandoval, April 24, 2001: its Title VI-specific holding applying Powell v. Ridge's bounded direct prospective action to valid section 602 disparate-impact regulations is preserved and does not decide FERPA enforcement.
 - TRW Inc. v. Andrews, November 13, 2001: independent statutory requirements and exclusions retain their actual limiting work.
 
-**Later-authority backlinks:** Gonzaga University v. Doe, June 20, 2002, resolves the asserted Section 1983 enforcement of FERPA's nondisclosure provisions against the claimant through statute-specific six-Justice agreement. Owasso's education-record definition remains intact, and Gonzaga adopts no majority general formula equating a statutory right with intent to create a private remedy.
+**Later-authority backlinks:** Gonzaga University v. Doe, June 20, 2002, holds that 20 U.S.C. §1232g(b) secures a student's individual right to freedom from unauthorized disclosure of education records through a recipient's policy or practice, enforceable through Section 1983. Owasso's maintained-record definition governs that right's coverage, and the private-enforcement question Owasso reserved is answered for §1232g(b).
 
 ### Functional impairment as a basis for civil commitment
 
@@ -7365,7 +7367,7 @@ For Lawall’s distinct six-Justice remand and protection holding, April 28, 200
 
 - Blessing v. Freestone: applies particular-right, foreclosure and fitted-remedy inquiries; the general program-adequacy exclusion remains.
 - Bruneau v. South Kortright Central School District: applies the distinction between an existing right and actual remedial foreclosure; Medicaid is not treated as substantively identical to Title IX.
-- Gonzaga University v. Doe: distinguishes the FERPA entitlement and preserves its outcome and the nonmajority status of its broader rights formulation.
+- Gonzaga University v. Doe: applies its two-question framework and individual-entitlement factors to the Medicaid child-benefit provisions; its FERPA holding is not needed to decide them.
 - Suter v. Artist M.: preserves its actual reasonable-efforts, reporting and separate implied-action holdings and its independent case-plan question; no categorical state-plan bar is applied.
 - Wright v. Roanoke Redevelopment and Housing Authority; Wilder v. Virginia Hospital Association: apply defined statutory entitlement and manageable qualitative application; regulations may elaborate an existing right but do not create the right held here.
 
@@ -7461,7 +7463,7 @@ For Odom v. Antrican, March 10, 2003, Fourth Circuit No. 01-1693, the prospectiv
 
 **Limits and questions not reached:** The defined child entitlements retain the complete conditions reproduced below. Equal access and quality, statewide operation, promptness, free choice and comparability are not automatically individual rights merely because pleaded. Each distinct provision requires its own inquiry; no individual entitlement or violation is found on the present allegations.
 
-**Treatment of earlier authority:** Westside Mothers governs its identified child entitlements; Suter and Blessing govern separate rights and congressional foreclosure. Gonzaga remains a FERPA holding, not a majority general prohibition on funding-statute rights.
+**Treatment of earlier authority:** Westside Mothers governs its identified child entitlements; Suter and Blessing govern separate rights and congressional foreclosure. Gonzaga supplies the governing two-question framework and confirms that funding-statute provisions may secure individual rights.
 
 **Material application:** Medicaid-eligible children under twenty-one receive the following benefits under Westside Mothers.
 
@@ -8451,7 +8453,7 @@ For Jackson's established-action, notice and remedial holdings, No. 02-1672, Mar
 
 **Limits and questions not reached:** The category covers intermediate care outside an institution for mental diseases for persons found to need it under section 1396a(a)(31), which requires a written care plan before admission or benefit authorization and regular independent professional review of continued need. Section 1396d(d) requires a qualifying institution or distinct part satisfying the health or rehabilitative purpose and standards, and active treatment for the payment sought. Those conditions apply at their designated stages; a waiting-list claimant need not already receive the allegedly withheld treatment to contest delay. The public-institution expenditure-maintenance condition applies by its terms to quarters before January 1, 1975. The dated payment definition covers qualifying care in or after the third month preceding the application month; its distinct qualified-Medicare-beneficiary cost-sharing provision starts after the month that status is acquired. Whether the resulting duty requires financing rather than furnishing services, and the proper compliance means, remain open for the developed remedial record under that payment-based definition. Neither nominal willingness to pay nor an assumed general service entitlement resolves that question.
 
-**Treatment of earlier authority:** Blessing supplies the provision-specific beneficiary, binding-duty and judicial-manageability inquiry. Wright and Wilder apply to defined benefit obligations without making every program condition enforceable. Suter's particular reasonable-efforts, reporting and implied-action rulings remain; sections 1320a-2 and 1320a-10 remove plan placement alone as a bar without creating an independent right or disturbing the preserved section 671(a)(15) result. Gonzaga's FERPA result remains, but its four-Justice general formula does not replace Blessing.
+**Treatment of earlier authority:** Blessing supplies the provision-specific beneficiary, binding-duty and judicial-manageability inquiry. Wright and Wilder apply to defined benefit obligations without making every program condition enforceable. Suter's particular reasonable-efforts, reporting and implied-action rulings remain; sections 1320a-2 and 1320a-10 remove plan placement alone as a bar without creating an independent right or disturbing the preserved section 671(a)(15) result. Gonzaga's two-question framework and restatement of Blessing's factors govern, and its Part IV confirms that an administrative scheme supplying no incompatible individual remedy does not foreclose section 1983.
 
 For the enforcement channel and prospective remedy in Sabree, March 29, 2005, reviewing 367 F.3d 180, see Federal Courts: Immunities and Remedies — Section 1983 enforcement of Medicaid assistance rights.
 
@@ -8663,16 +8665,46 @@ Wilkinson, No. 04-495, decided June 13, 2005, states requirements for the confor
 **Docket or dockets:** No. 04-278.
 **Decided:** June 27, 2005.
 
-##### Whether mandatory enforcement steps themselves create an independently secured substantive property interest
+##### I. DeShaney's limit is retained, and this claim rests on a state-created entitlement
 
-**Holding:** A state direction that police take specified enforcement steps upon qualifying violations does not create a beneficiary's constitutional property interest without an independently secured substantive benefit distinct from that enforcement procedure. Colorado's protective-order statute and Gonzales's individualized order prescribe enforcement against the restrained person but do not secure the asserted independent property interest; the municipal procedural-due-process claim therefore fails at its necessary substantive predicate.
+**Holding:** The Due Process Clause imposes no general constitutional duty on the State to protect individuals against private violence. That limit is retained, together with the distinct doctrines governing custody, an official's affirmative deprivation of available protection and discriminatory denial of protection. DeShaney does not decide whether state law has created an individualized entitlement to protective services; procedural due process protects such an entitlement on its own terms.
 
-**Proposition-level authority:** Opinion of the Court (Souter), joined by O'Connor, Scalia, Kennedy, Thomas and Breyer; six complete joins, including the mandatory-duty assumption.
+**Proposition-level authority:** Opinion of the Court (Breyer), Part I, joined by Stone-Zsela, Stevens, Souter and Ginsburg; five direct joins.
 
-**Material application:** Colorado requires every reasonable enforcement means. Arrest, or pursuit of a warrant when immediate arrest is impractical, is triggered by probable cause both of violation or attempted violation and of proper service or actual notice of the order's existence and substance. The order allowed specified parenting time, including a midweek dinner arranged on reasonable notice. These distinct conditions are not erased.
+**Limits and questions not reached:** No general constitutional right to police protection is recognized. Custody, affirmative-deprivation and discriminatory-denial claims keep their own predicates; Gonzales does not rest this claim on them.
 
-**Limits and questions not reached:** The property ground assumes mandatory enforcement duties and does not grant unlimited discretion to disregard them. Transferability or monetary value is not decisive. A named beneficiary and specified procedure do not alone establish the separate substantive benefit; the pleaded policy does not cure that missing predicate.
+##### II. A qualifying individualized protective entitlement is property, and Colorado's statute and order establish one
 
-**Operative remedy or transition:** Reversed; the lower court must restore dismissal of the reviewed municipal procedural-due-process theory. Separate substantive-due-process and individual-officer dispositions remain undisturbed.
+**Holding:** State law creates a property interest in protective services, protected by procedural due process, when it establishes all four of these elements: (1) an identified individual or specifically defined beneficiary; (2) a sufficiently definite legal entitlement to protective services, rather than an expectation of ordinary law enforcement; (3) objective triggering conditions; and (4) material legal constraints on officials' authority to withhold the benefit once those conditions exist. The statute, any individualized order and authoritative state constructions are read together, and a protective order is not automatically sufficient. The benefit need not be transferable, monetizable or a guarantee of outcome. A general duty to investigate, discretionary promises and internal guidelines ordinarily create no such entitlement, and no entitlement guarantees prevention of every injury. Colorado's protective-order statute and Gonzales's individualized order establish each element; the entitlement's legal existence is resolved.
 
-**Treatment of earlier authority:** Roth requires an independently secured substantive entitlement. Doe v. District of Columbia distinguishes mandatory investigation and enforcement procedures while reserving genuine independent entitlements. Sandin supplies the substantive-constraint distinction without transplanting its prison-liberty application. DeShaney's general private-violence rule remains distinct. Connecticut DPS v. Doe's assumed-interest analysis supplies no property interest here.
+**Proposition-level authority:** Opinion of the Court (Breyer), Part II, joined by Stone-Zsela, Stevens, Souter and Ginsburg; five direct joins.
+
+**Material application:** The order names the protected person. Colorado requires every reasonable means to enforce a protection order, and arrest, or pursuit of a warrant when immediate arrest is impractical, upon probable cause both of violation or attempted violation and of proper service or actual notice of the order's existence and substance. The order allowed specified parenting time, including a midweek dinner arranged on reasonable notice; those permissions define when a violation occurs and do not dissolve the entitlement. The protected object is the protective service itself, distinct from the procedures for deciding whether it is owed.
+
+**Limits and questions not reached:** The reverse-side notice does not itself bind police; the statute supplies the obligation. Statutory rights enforceable under §1983 remain a distinct inquiry. No dispositive unresolved Colorado construction requires certification.
+
+##### III. Enforcement discretion is preserved, and a required response is not a guaranteed outcome
+
+**Holding:** The entitlement leaves officers' enforcement judgment intact. Under Colorado's statute officers still determine, using reasonable means, whether a violation or attempted violation occurred, whether probable cause exists as to the violation and as to service or actual notice, and whether immediate arrest is impractical amid competing emergencies, in which case they must seek a warrant. They lack only unrestricted discretion to disregard the obligation once its conditions exist. The beneficiary is entitled to the required response, not to a particular tactic, a successful arrest or the prevention of harm.
+
+**Proposition-level authority:** Opinion of the Court (Breyer), Part III, joined by Stone-Zsela, Stevens, Souter and Ginsburg; five direct joins.
+
+**Limits and questions not reached:** Officers are not insurers, and a beneficiary may not demand prosecution of every offense. Ordinary enforcement discretion is untouched where no comparable entitlement exists.
+
+##### IV. Mathews governs the process due, without a mandatory list or emergency hearing
+
+**Holding:** The process due for this entitlement is determined under Mathews v. Eldridge by weighing the beneficiary's interest, the risk of erroneous deprivation and the value of additional safeguards, and the governmental interest, including the burdens of emergency policing. Adequate process may include an accessible means of requesting enforcement, prompt consideration, supervisory review, communication of a refusal and timely reconsideration, but none of these is constitutionally required in every case, and no formal predeprivation hearing is required in an emergency. Parratt v. Taylor and Hudson v. Palmer continue to govern random, unauthorized failures for which predeprivation process is impracticable and adequate postdeprivation remedies exist. An alleged established municipal policy of refusing meaningful consideration of qualifying requests states a procedural due-process claim.
+
+**Proposition-level authority:** Opinion of the Court (Breyer), Part IV, joined by Stone-Zsela, Stevens, Souter and Ginsburg; five direct joins.
+
+**Limits and questions not reached:** Repeated contacts with officers neither establish nor disprove meaningful consideration under the pleaded policy. What the Town's procedures provided and which additional safeguards were practicable are for the district court.
+
+##### V. Monell, causation and Carey govern municipal liability and damages
+
+**Holding:** The Town is liable only if its own policy or custom caused an actual deprivation of the entitlement without the process due; respondeat superior does not apply. Causation of the children's deaths is not presumed from the existence of the duty or from a procedural violation. Under Carey v. Piphus, a proved denial of process supports nominal damages, and compensatory damages require proof of actual injury caused by that denial.
+
+**Proposition-level authority:** Opinion of the Court (Breyer), Part V, joined by Stone-Zsela, Stevens, Souter and Ginsburg; five direct joins.
+
+**Operative remedy or transition:** Affirmed and remanded, 5–4. The Tenth Circuit's reinstatement of the municipal procedural-due-process claim stands; on remand the lower courts adjudicate the statutory conditions, actual deprivation, constitutional adequacy of the Town's procedures, municipal attribution, causation and relief. Separate substantive-due-process and individual-officer dispositions remain undisturbed.
+
+**Treatment of earlier authority:** DeShaney is preserved and does not address a state-created entitlement. Pinder and Saenz's affirmative-deprivation rules are preserved, and Saenz's separation of municipal attribution from individual defenses is applied. Doe v. District of Columbia's investigative-procedure holding is preserved and its reservation of independently created entitlements is developed. Sandin is preserved and applied for its sufficient, nonexclusive substantive-constraint principle without transplanting its prison application; Wilkinson v. Austin is applied for safeguards that function meaningfully. Roth, Mathews and Monell are applied; Parratt and Hudson are preserved for random, unauthorized deprivations; Zinermon and Carey are applied. Connecticut DPS v. Doe's materiality requirement is retained. Gonzaga University v. Doe is distinguished: statutory rights under §1983 and constitutional property remain distinct.
