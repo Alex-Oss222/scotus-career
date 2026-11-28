@@ -2952,7 +2952,7 @@ For the tying rule in United States v. Microsoft Corp., January 22, 2002, lower-
 
 **Treatment of earlier authority:**
 
-- Mertens v. Hewitt Associates, 508 U.S. 248: its traditional-equitable-category construction controls; neither its compensation exclusion nor preserved genuine monetary equity is displaced.
+- Mertens v. Hewitt Associates, 508 U.S. 248: its trust-law equitable-category construction controls; neither its exclusion of general compensation nor its recognition of surcharge against fiduciaries and of knowing-participation restoration is displaced.
 - Harris Trust and Savings Bank v. Salomon Smith Barney Inc., 530 U.S. 238: equitable recipient relief remains available on its actual predicates and defenses; it supplies neither this missing property connection nor a universal tracing formula.
 - Varity Corp. v. Howe, 516 U.S. 489: appropriate individual equity remains within statutory categories and ordinary adequate-remedy limits.
 
@@ -6064,19 +6064,19 @@ For Rasul v. Bush; Al Odah v. United States, 542 U.S. 466, June 28, 2004, Nos. 0
 
 **Treatment of earlier authority:** - Abebe-Jira v. Negewo is applied and preserved: its jurisdiction/action distinction, confined official-torture action and distinct remedy rules remain effective.
 - Kadic v. Karadzic and Doe v. Karadzic are applied and preserved at their defined genocide, core-war-crime, actor, responsibility and remedy predicates; they do not make every international norm privately enforceable.
-- United States v. Alvarez-Machain is distinguished as a treaty-based criminal trial-authority decision. Its holding supplies neither capture authorization nor this civil remedy.
+- United States v. Alvarez-Machain is distinguished as a defensive treaty decision that barred a prosecution and required return. It created no general private damages action under treaties and supplies no civil remedy here.
 
 ##### Whether the asserted brief arbitrary detention supports an additional received damages action
 
-**Holding:** Recognition of an additional received action requires a specifically defined, widely accepted and obligatory international prohibition whose content and actor coverage support judicial application, together with a sound domestic remedial basis. The asserted rule that any detention unauthorized by domestic law is an internationally actionable tort does not establish those predicates for the detention of less than a day in Mexico followed by lawful custody here.
+**Holding:** Recognition of an additional received action requires a specifically defined, widely accepted and obligatory international prohibition whose content and actor coverage support judicial application, together with a sound domestic remedial basis. The asserted rule that any detention unauthorized by domestic law is an internationally actionable tort does not establish those predicates for the detention of less than a day in Mexico followed by transfer to United States custody.
 
 **Proposition-level authority:** Part II of Stevens's opinion is joined by Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer. Seven direct joins supply the controlling ground for rejecting this new action.
 
-**Material application:** The detention lasted less than a day in Mexico before delivery to lawful United States custody. The Universal Declaration does not itself impose treaty obligations; the Covenant's non-self-executing status prevents it from supplying this action, although such a treaty may inform customary-law evidence. General arbitrary-detention language does not make every violation of local arrest law internationally actionable.
+**Material application:** The detention lasted less than a day in Mexico before delivery to United States custody. The Universal Declaration does not itself impose treaty obligations; the Covenant's non-self-executing status prevents it from supplying this action, although such a treaty may inform customary-law evidence. General arbitrary-detention language does not make every violation of local arrest law internationally actionable.
 
 **Limits and questions not reached:** The Restatement's prolonged-detention-as-state-policy treatment illustrates the absent specificity and creates no duration safe harbor. The holding preserves the established received actions and does not authorize the seizure.
 
-**Operative remedy or transition:** Reverse and remand in No. 03-339 to vacate the ATS damages award resting on the rejected brief-detention theory. Any genuinely live different theory must establish its own preservation, action and immunity predicates.
+**Operative remedy or transition:** Reverse and remand in No. 03-339 to vacate the ATS damages award resting on the rejected brief-detention theory. Any genuinely live different theory must establish its own preservation, action and immunity predicates. No claim resting on the Extradition Treaty or on the later United States custody is before the Court.
 
 **Treatment of earlier authority:** - Abebe-Jira v. Negewo is applied and preserved: its jurisdiction/action distinction, confined official-torture action and distinct remedy rules remain effective.
 - Kadic v. Karadzic and Doe v. Karadzic are applied and preserved at their defined genocide, core-war-crime, actor, responsibility and remedy predicates; they do not make every international norm privately enforceable.
